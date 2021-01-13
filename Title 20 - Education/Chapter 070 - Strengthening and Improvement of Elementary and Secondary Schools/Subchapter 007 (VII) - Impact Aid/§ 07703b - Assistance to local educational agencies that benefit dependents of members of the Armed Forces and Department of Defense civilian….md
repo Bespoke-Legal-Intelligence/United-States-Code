@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) the per-student rate determined under subparagraph (B) for that fiscal year; by
 
-&emsp;&emsp;&emsp;(ii) the net of the overall increases and reductions in the number of military dependent students in schools of the localeducational agency, as determined under paragraph (1).
+&emsp;&emsp;&emsp;(ii) the net of the overall increases and reductions in the number of military dependent students in schools of the local educational agency, as determined under paragraph (1).
 
 #### (B) Per-student rate
 

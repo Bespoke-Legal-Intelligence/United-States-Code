@@ -18,9 +18,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 734.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b), means the date of enactment of Pub. L. 91–375, which was approved Aug. 12, 1970.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

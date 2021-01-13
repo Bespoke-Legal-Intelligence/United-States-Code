@@ -38,7 +38,7 @@ Source of Funds.—(1) Amounts for the activities of the Readjustment Counseling
 
 (2) Amounts for activities of the Readjustment Counseling Service, including the operations of its Vet Centers, shall not be allocated through the Veterans Equitable Resource Allocation system.
 
-(3) In each budget request submitted for the Department of Veterans Affairs by the President to Congress under section 1105 of title 31, the budget request for the Readjustment Counseling Service shall be listed separately.
+(3) In each budget request submitted for the Department of Veterans Affairs by the Presidentto Congress under section 1105 of title 31, the budget request for the Readjustment Counseling Service shall be listed separately.
 
 (e)
 
@@ -50,15 +50,31 @@ Annual Report.—(1) Not later than March 15 of each year, the Secretary shall s
 
 &emsp;(B) A description of the workload and additional treatment capacity of the Vet Centers, including, for each Vet Center, the ratio of the number of full-time equivalent employees at such Vet Center and the number of individuals who received services or assistance at such Vet Center.
 
-&emsp;(C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary's plan for meeting such unmet need.
+&emsp;(C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary's plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
+
+(3) For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
+
+&emsp;(A) trends in demand for care;
+
+&emsp;(B) long-term investments required with respect to the provision of care;
+
+&emsp;(C) requirements relating to maintenance of infrastructure; and
+
+&emsp;(D) other capital investment requirements with respect to the Readjustment Counseling Service, including Vet Centers, mobile Vet Centers, and community access points.
 
 (f)
 
 Vet Center Defined.—In this section, the term "Vet Center" has the meaning given the term in section 1712A(h)(1) of this title.
 
-(Added Pub. L. 112–239, div. A, title VII, §728(a), Jan. 2, 2013, 126 Stat. 1812; amended Pub. L. 114–58, title VI, §601(22), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–315, title VI, §611, Dec. 16, 2016, 130 Stat. 1575.)
+(Added Pub. L. 112–239, div. A, title VII, §728(a), Jan. 2, 2013, 126 Stat. 1812; amended Pub. L. 114–58, title VI, §601(22), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–315, title VI, §611, Dec. 16, 2016, 130 Stat. 1575; Pub. L. 116–171, title V, §504, Oct. 17, 2020, 134 Stat. 819.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(2)(C). Pub. L. 116–171, §504(a), inserted before period at end ", including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers".
+
+Subsec. (e)(3). Pub. L. 116–171, §504(b), added par. (3).
 
 <b>2016</b>—Subsec. (e)(1). Pub. L. 114–315 substituted "fiscal year" for "calendar year".
 

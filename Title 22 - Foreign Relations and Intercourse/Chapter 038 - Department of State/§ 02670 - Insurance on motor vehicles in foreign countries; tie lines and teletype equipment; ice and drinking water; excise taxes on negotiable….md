@@ -12,7 +12,7 @@ The Secretary of State is authorized to—
 
 &emsp;(e) Omitted;
 
-&emsp;(f) pay expenses incident to the relief, protection, and burial of American seamen, and alien seamen from United States vessels in foreign countries and in the United States Territories and possessions;
+&emsp;(f) pay expenses incident to the relief, protection, and burial of American seamen, and alien seamen from United States vessels inforeign countries and in the United States Territories and possessions;
 
 &emsp;(g) pay the expenses incurred in the acknowledgment of the services of officers and crews of foreign vessels and aircraft in rescuing American seamen, airmen, or citizens from shipwreck or other catastrophe abroad or at sea;
 
@@ -29,6 +29,8 @@ The Secretary of State is authorized to—
 &emsp;(m) establish, maintain, and operate passport and dispatch agencies.
 
 (Aug. 1, 1956, ch. 841, title I, §3, 70 Stat. 890; Pub. L. 95–45, §2, June 15, 1977, 91 Stat. 221; 1977 Reorg. Plan No. 2, §9(a)(7), 42 F.R. 62461, 91 Stat. 1639; Pub. L. 95–426, title I, §108(a), Oct. 7, 1978, 92 Stat. 966; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 100–204, title I, §126(b), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 102–138, title I, §166, Oct. 28, 1991, 105 Stat. 676; Pub. L. 103–236, title I, §162(k)(3), Apr. 30, 1994, 108 Stat. 409.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -48,6 +50,8 @@ Subsec. (e) of this section, relating to the payment of the actual expenses of p
 
 <b>1977</b>—Subsec. (j). Pub. L. 95–45 added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
@@ -55,4 +59,10 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–426, title I, §108(b), Oct. 7, 1978, 92 Stat. 966, provided that: "The amendment made by this section \[amending this section\] shall take effect on October 1, 1978."
+
+#### Providing Medical Services or Related Support in Response to Coronavirus Pandemic
+
+Pub. L. 116–136, div. B, title XI, §21008, Mar. 27, 2020, 134 Stat. 592, provided that: "The Secretary of State, to prevent, prepare for, and respond to coronavirus, may exercise the authorities of section 3(j) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2670(j)) to provide medical services or related support for private United States citizens, nationals, and permanent resident aliens abroad, or third country nationals connected to such persons or to the diplomatic or development missions of the United States abroad, who are unable to obtain such services or support otherwise: <i>Provided</i>, That such assistance shall be provided on a reimbursable basis to the extent feasible: <i>Provided further</i>, That such reimbursements may be credited to the applicable Department of State appropriation and shall remain available until expended: <i>Provided further</i>, That the Secretary shall prioritize providing medical services or related support to individuals eligible for the health program under section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084): <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
+
+\[For definition of "coronavirus" as used in section 21008 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 

@@ -56,7 +56,9 @@ Each production credit association shall be a body corporate and, subject to sup
 
 &emsp;(21) operate as an originator and become certified as a certified facility under subchapter VIII.
 
-(Pub. L. 92–181, title II, §2.2, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1630;amended Pub. L. 100–399, title IV, §401(o), Aug. 17, 1988, 102 Stat. 997.)
+(Pub. L. 92–181, title II, §2.2, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1630; amended Pub. L. 100–399, title IV, §401(o), Aug. 17, 1988, 102 Stat. 997.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -77,6 +79,8 @@ A prior section 2073, Pub. L. 92–181, title II, §2.2, Dec. 10, 1971, 85 Stat.
 Par. (17). Pub. L. 100–399, §401(o)(2), substituted "provide by its board of directors for" for "elect by the board of directors of the association" and "serve as" for "be elected or designated".
 
 Par. (21). Pub. L. 100–399, §401(o)(3)–(5), added par. (21).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -4,9 +4,13 @@ As used in section 5324 of this title the phrase "Member of the House" shall mea
 
 (Aug. 21, 1935, ch. 600, §3, 49 Stat. 680.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 92d of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

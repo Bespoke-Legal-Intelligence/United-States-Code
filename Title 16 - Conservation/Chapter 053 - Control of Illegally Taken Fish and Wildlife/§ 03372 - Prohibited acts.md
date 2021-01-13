@@ -108,7 +108,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and animals; or
 
-&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transportingthe animal to a person described in this paragraph with respect to the species.
+&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
 
 #### (3) Regulations
 

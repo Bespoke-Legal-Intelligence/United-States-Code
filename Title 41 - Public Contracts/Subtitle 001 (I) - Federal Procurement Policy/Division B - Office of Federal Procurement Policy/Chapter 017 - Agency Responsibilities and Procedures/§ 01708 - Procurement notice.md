@@ -32,7 +32,7 @@ In general.—A notice is not required under subsection (a) if—
 
 &emsp;&emsp;(C) the proposed procurement would result from acceptance of—
 
-&emsp;&emsp;&emsp;(i) an unsolicited proposal that demonstrates a unique and innovative research concept and publication of a notice of the unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would discloseproprietary information associated with the proposal; or
+&emsp;&emsp;&emsp;(i) an unsolicited proposal that demonstrates a unique and innovative research concept and publication of a notice of the unsolicited research proposal would disclose the originality of thought or innovativeness of the proposal or would disclose proprietary information associated with the proposal; or
 
 &emsp;&emsp;&emsp;(ii) a proposal submitted under section 9 of the Small Business Act (15 U.S.C. 638);
 
@@ -42,7 +42,7 @@ In general.—A notice is not required under subsection (a) if—
 
 &emsp;&emsp;(F) the procurement is for utility services, other than telecommunication services, and only one source is available; or
 
-&emsp;&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
+&emsp;&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute\(including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
 
 &emsp;(2)
 
@@ -116,7 +116,7 @@ Establishing deadline when none provided by statute.—An executive agency shall
 
 &emsp;(3)
 
-Flexible deadlines.—The Administrator shall prescribe regulations defining limitedcircumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
+Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 
 (f)
 
@@ -124,7 +124,7 @@ Consideration of Certain Timely Received Offers.—An executive agency intending
 
 (g)
 
-Availability of Complete Solicitation Package and Payment of Fee.—An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
+Availability of Complete Solicitation Package and Payment of Fee.—An executiveagency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, §836(b)(3), Aug. 13, 2018, 132 Stat. 1861.)
 
@@ -184,9 +184,13 @@ In subsection (e)(1)(B)(i), the words "required for a bid or proposal for a cont
 
 In subsection (e)(1)(B)(ii), the words "required for an order described in" are substituted for "required by" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (c)(6), (e)(3). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

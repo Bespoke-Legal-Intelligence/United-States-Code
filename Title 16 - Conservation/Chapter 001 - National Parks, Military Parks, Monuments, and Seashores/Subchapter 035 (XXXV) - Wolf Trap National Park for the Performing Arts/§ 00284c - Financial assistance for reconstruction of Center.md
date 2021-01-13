@@ -18,7 +18,7 @@ The Secretary is authorized to make available to the Foundation, in the form of 
 
 (D) The Secretary shall, within 120 days after the effective date of this paragraph, submit a payment schedule to the Foundation specifying the amount of each annual payment to be made by the Foundation pursuant to this paragraph.
 
-(3) If the Foundation is in default on its obligations under this subsection for more than 60 consecutive days, the Secretary, acting in the public interest, shall terminate the cooperative agreement described in section 284d of this title. In the event of a major catastrophe or severe economic situation, the Secretary may submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a recommendation that this paragraph be temporarily suspended. In submitting such a request, the Secretary shall submit clear evidence of the financial status of the Foundation.
+(3) If the Foundation is in default on its obligations under this subsection for more than 60 consecutive days, the Secretary, acting in the public interest, shall terminate the cooperative agreement described in section 284d of this title. In the event of a major catastrophe or severe economic situation, the Secretary may submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a recommendationthat this paragraph be temporarily suspended. In submitting such a request, the Secretary shall submit clear evidence of the financial status of the Foundation.
 
 #### (c) Written agreement
 

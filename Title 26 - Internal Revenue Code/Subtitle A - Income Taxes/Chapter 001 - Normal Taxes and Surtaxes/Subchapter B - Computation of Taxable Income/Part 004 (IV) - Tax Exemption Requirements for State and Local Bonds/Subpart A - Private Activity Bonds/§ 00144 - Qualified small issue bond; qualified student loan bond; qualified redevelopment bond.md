@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, the term "qualified small issue bond" means any bond issued as part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
+&emsp;For purposes of this part, the term "qualified small issue bond" means any bond issuedas part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
 
 &emsp;&emsp;(A) for the acquisition, construction, reconstruction, or improvement of land or property of a character subject to the allowance for depreciation, or
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a facility which is used in the creation or production of intangible property which is described in section 197(d)(1)(C)(iii), or
 
-&emsp;&emsp;&emsp;&emsp;(II) a facility which is functionally related and subordinate to a manufacturing facility (determined without regard to this subclause) if such facility is located on the same site as the manufacturing facility.
+&emsp;&emsp;&emsp;&emsp;(II) a facility which is functionally related and subordinate to a manufacturing facility (determined without regard to this subclause) if such facility islocated on the same site as the manufacturing facility.
 
 #### (b) Qualified student loan bond
 
@@ -298,7 +298,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B)(i) the payment of the principal and interest on such issue is primarily secured by taxes of general applicability imposed by a general purpose governmental unit, or
 
-&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessedvalue) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
+&emsp;&emsp;(ii) any increase in real property tax revenues (attributable to increases in assessed value) by reason of the carrying out of such purposes in such area is reserved exclusively for debt service on such issue (and similar issues) to the extent such increase does not exceed such debt service,
 
 &emsp;&emsp;(C) each interest in real property located in such area—
 

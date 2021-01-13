@@ -40,7 +40,7 @@ Congress makes the following findings:
 
 &emsp;(19) The Government of China does not provide North Koreans whose asylum requests are rejected a right to have the rejection reviewed prior to deportation despite its obligations under the 1951 United Nations Convention Relating to the Status of Refugees and the 1967 Protocol Relating to the Status of Refugees.
 
-&emsp;(20) North Koreans who seek asylum while in China are routinely imprisoned and tortured, and in some cases killed, after they are returned to North Korea.
+&emsp;(20) North Koreans who seek asylum while in China are routinely imprisoned and tortured,and in some cases killed, after they are returned to North Korea.
 
 &emsp;(21) The Government of China has detained, convicted, and imprisoned foreign aid workers attempting to assist North Korean refugees in proceedings that did not comply with Chinese law or international standards.
 
@@ -53,6 +53,8 @@ Congress makes the following findings:
 &emsp;(25) In addition to infringing the rights of its own citizens, the Government of North Korea has been responsible in years past for the abduction of numerous citizens of South Korea and Japan, whose condition and whereabouts remain unknown.
 
 (Pub. L. 108–333, §3, Oct. 18, 2004, 118 Stat. 1287.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -96,7 +98,7 @@ Pub. L. 115–198, §2, July 20, 2018, 132 Stat. 1519, provided that: "Congress 
 
 Pub. L. 112–172, §2, Aug. 16, 2012, 126 Stat. 1307, provided that: "Congress finds the following:
 
-&emsp;"(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) \[see Short Title of 2008 Amendment note above\] were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
+&emsp;"(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and theNorth Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) \[see Short Title of 2008 Amendment note above\] were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
 
 &emsp;"(2) In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
 
@@ -148,7 +150,7 @@ Pub. L. 110–346, §3, Oct. 7, 2008, 122 Stat. 3940, provided that: "It is the 
 
 &emsp;"(3) the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
 
-&emsp;"(4) in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
+&emsp;"(4) in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availedthemselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
 
 &emsp;"(5) because there are genuine refugees among North Koreans fleeing into China who face severe punishments upon their forcible return, the United States should urge the Government of China to—
 

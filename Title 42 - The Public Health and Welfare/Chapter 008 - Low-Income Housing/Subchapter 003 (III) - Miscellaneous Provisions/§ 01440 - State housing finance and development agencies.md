@@ -18,7 +18,7 @@ It is the purpose of this section to encourage the formation and effective opera
 
 #### (c) Guarantee of obligations issued by agencies; grants to agencies for interest payments on obligations; maximum amount of grants; prerequisites for guarantee; full faith and credit pledged for payment of guarantee; effect and validity of guarantee; fees and charges for guarantee; authorization of appropriations for grants; maximum amount of obligations guaranteed
 
-(1) The Secretary is authorized to guarantee, and enter into commitments to guarantee, the bonds, debentures, notes, and other obligations issued by State housing finance or State development agencies to finance development activities as determined by him to be in furtherance of the purpose of clause (1) or (2) of subsection (a), except that obligations issued to finance activities solely in furtherance of the purpose of clause (1) of subsection (a) may be guaranteed only if the activities are in connection with the revitalization of slum or blighted areas under title I of this Act \[42 U.S.C. 5301 et seq.\] or under any other program determined to be acceptable by the Secretary for this purpose.
+(1) The Secretary is authorized to guarantee, and enter into commitments to guarantee, thebonds, debentures, notes, and other obligations issued by State housing finance or State development agencies to finance development activities as determined by him to be in furtherance of the purpose of clause (1) or (2) of subsection (a), except that obligations issued to finance activities solely in furtherance of the purpose of clause (1) of subsection (a) may be guaranteed only if the activities are in connection with the revitalization of slum or blighted areas under title I of this Act \[42 U.S.C. 5301 et seq.\] or under any other program determined to be acceptable by the Secretary for this purpose.
 
 (2) The Secretary is authorized to make, and to contract to make, grants to or on behalf of a State housing finance or State development agency to cover not to exceed 331/3 per centum of the interest payable on bonds, debentures, notes, and other obligations issued by such agency to finance development activities in furtherance of the purposes of this section.
 
@@ -52,7 +52,7 @@ The Secretary shall take such steps as he considers reasonable to assure that bo
 
 #### (f) Technical assistance to agencies for planning and execution of development activities
 
-The Secretary is authorized to provide, either directly or by contract or other arrangements, technical assistance to State housing finance or State development agencies to assist them in connection with planning and carrying out development activities in furtherance of the purpose of this section.
+The Secretary is authorized to provide, either directly or by contract or other arrangements,technical assistance to State housing finance or State development agencies to assist them in connection with planning and carrying out development activities in furtherance of the purpose of this section.
 
 #### (g) Labor standards
 
@@ -60,7 +60,7 @@ All laborers and mechanics employed by contractors or subcontractors in housing 
 
 #### (h) Protection of guarantees issued by United States; inclusion by purchaser in gross income of interest paid on obligations issued by agencies
 
-(1) In the performance of, and with respect to, the functions, powers, and duties vested in himby this section, the Secretary, in addition to any authority otherwise vested to him, shall—
+(1) In the performance of, and with respect to, the functions, powers, and duties vested in him by this section, the Secretary, in addition to any authority otherwise vested to him, shall—
 
 &emsp;(A) have the power, notwithstanding any other provision of law, in connection with any guarantee under this section, whether before or after default, to provide by contract for the extinguishment upon default of any redemption, equitable, legal, or other right, title, or interest of a State housing finance or State development agency in any mortgage, deed, trust, or other instrument held by or on behalf of the Secretary for the protection of the security interests of the United States; and
 

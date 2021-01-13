@@ -28,6 +28,8 @@ June 29, 1936, ch. 858, title IX, §905(a), 49 Stat. 2016; June 23, 1938, ch. 60
 
 In subsection (a), the words "its Territories or possessions, or the District of Columbia" are omitted because of the definition of "United States" in this chapter.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Merchant Marine Act, 1936, referred to in subsec. (b), is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as notes under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.

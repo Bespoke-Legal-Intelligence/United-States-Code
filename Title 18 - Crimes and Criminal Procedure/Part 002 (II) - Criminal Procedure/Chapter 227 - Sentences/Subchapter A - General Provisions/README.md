@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 2143, transferred analysis for this subchapter to follow heading of this subchapter.

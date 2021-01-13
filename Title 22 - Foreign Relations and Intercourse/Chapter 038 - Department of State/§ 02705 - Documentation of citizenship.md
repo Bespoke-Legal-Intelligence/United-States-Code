@@ -1,12 +1,14 @@
 ### §2705. Documentation of citizenship
 
-The following documents shall have the same force and effect as proof of United States citizenship as certificates of naturalization or ofcitizenship issued by the Attorney General or by a court having naturalization jurisdiction:
+The following documents shall have the same force and effect as proof of United States citizenship as certificates of naturalization or of citizenship issued by the Attorney General or by a court having naturalization jurisdiction:
 
 &emsp;(1) A passport, during its period of validity (if such period is the maximum period authorized by law), issued by the Secretary of State to a citizen of the United States.
 
 &emsp;(2) The report, designated as a "Report of Birth Abroad of a Citizen of the United States", issued by a consular officer to document a citizen born abroad. For purposes of this paragraph, the term "consular officer" includes any United States citizen employee of the Department of State who is designated by the Secretary of State to adjudicate nationality abroad pursuant to such regulations as the Secretary may prescribe.
 
 (Aug. 1, 1956, ch. 841, title I, §33, as added and renumbered title I, Pub. L. 97–241, title I, §117, title II, §202(a), Aug. 24, 1982, 96 Stat. 279, 282; amended Pub. L. 105–277, div. G, subdiv. B, title XXII, §2222(a), Oct. 21, 1998, 112 Stat. 2681–818.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -15,6 +17,8 @@ A prior section 33 of act Aug. 1, 1956, was renumbered section 34 by section 117
 #### Amendments
 
 <b>1998</b>—Par. (2). Pub. L. 105–277 inserted at end "For purposes of this paragraph, the term 'consular officer' includes any United States citizen employee of the Department of State who is designated by the Secretary of State to adjudicate nationality abroad pursuant to such regulations as the Secretary may prescribe."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Record of Place of Birth for Taiwanese-Americans
 

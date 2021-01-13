@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XI, §1123(a)(2), Dec. 20, 2019, 133 Stat. 1612, added item 4714.

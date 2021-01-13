@@ -154,7 +154,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 &emsp;&emsp;The Bureau may not obtain from a covered person or service provider any personally identifiable financial information about a consumer from the financial records of the covered person or service provider, except—
 
-&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau and the consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
+&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau andthe consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
 
 &emsp;&emsp;&emsp;(ii) as may be specifically permitted or required under other applicable provisions of law and in accordance with the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.).
 
@@ -178,11 +178,15 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 (Pub. L. 111–203, title X, §1022, July 21, 2010, 124 Stat. 1980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, where footnoted in subsecs. (b)(3)(A), (4)(B), (c)(8), and (d)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii), (B), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -214,7 +218,7 @@ Evaluation Criteria.—When evaluating an application submitted under subsection
 
 "(c)
 
-Rule of Construction.—If, at any time prior to the submission of an application under subsection (a),the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation.
+Rule of Construction.—If, at any time prior to the submission of an application under subsection (a), the area subject to review has been designated as nonrural by any Federal agency described under subsection (b) using any of the criteria described under subsection (b), the Bureau shall not be required to consider such designation in its evaluation.
 
 "(d)
 

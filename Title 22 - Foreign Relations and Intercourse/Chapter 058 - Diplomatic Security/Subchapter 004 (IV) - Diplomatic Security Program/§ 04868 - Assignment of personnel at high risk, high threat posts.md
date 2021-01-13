@@ -8,13 +8,17 @@ The Secretary to the extent practicable shall station key personnel for sustaine
 
 (Pub. L. 114–323, title I, §117, Dec. 16, 2016, 130 Stat. 1912.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 4803 of this title, referred to in text, was in the original "section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 401 of this Act" and was translated as reading"section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 101(a) of this Act", meaning section 104 of Pub. L. 99–399, as added by section 101(a) of Pub. L. 114–323, which is classified to section 4803 of this title.
+Section 4803 of this title, referred to in text, was in the original "section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 401 of this Act" and was translated as reading "section 104 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986, as added by section 101(a) of this Act", meaning section 104 of Pub. L. 99–399, as added by section 101(a) of Pub. L. 114–323, which is classified to section 4803 of this title.
 
 #### Codification
 
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Diplomatic Security Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

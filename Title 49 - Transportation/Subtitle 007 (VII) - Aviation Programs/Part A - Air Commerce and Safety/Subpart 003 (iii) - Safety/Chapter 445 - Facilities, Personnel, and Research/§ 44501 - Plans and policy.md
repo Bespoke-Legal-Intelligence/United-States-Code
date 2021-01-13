@@ -2,7 +2,7 @@
 
 (a)
 
-Long Range Plans and Policy Requirements.—The Administrator of the Federal Aviation Administration shall make long range plans and policy for the orderly development and use of the navigable airspace, and the orderly development and location of air navigation facilities, that will best meet the needs of, and serve the interests of, civil aeronautics and the national defense, except for needs of the armed forces that are peculiar to air warfare and primarily of military concern.
+Long Range Plans and Policy Requirements.—The Administrator of the Federal Aviation Administration shall make long range plans and policy for the orderly developmentand use of the navigable airspace, and the orderly development and location of air navigation facilities, that will best meet the needs of, and serve the interests of, civil aeronautics and the national defense, except for needs of the armed forces that are peculiar to air warfare and primarily of military concern.
 
 (b)
 
@@ -46,7 +46,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 (B) The plan shall—
 
-&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperativeagreements with other Federal departments and agencies;
+&emsp;(i) provide estimates by year of the schedule, cost, and work force levels for each active and planned major research and development project under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44509, 44511–44513, and 44912 of this title, including activities carried out under cooperative agreements with other Federal departments and agencies;
 
 &emsp;(ii) specify the goals and the priorities for allocation of resources among the major categories of research and development activities, including the rationale for the priorities identified;
 
@@ -136,7 +136,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -190,7 +190,7 @@ Public notice and comment.—The Administrator shall publish the report in the F
 
 "(b)
 
-Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
+Report to Congress Containing Recommendations of Administrator.—Not later than 60 days afterthe last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
 &emsp;"(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 

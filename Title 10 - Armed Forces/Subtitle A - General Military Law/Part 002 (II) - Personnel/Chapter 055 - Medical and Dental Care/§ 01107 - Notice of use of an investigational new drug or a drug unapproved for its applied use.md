@@ -4,7 +4,7 @@
 
 Notice Required.—(1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigational new drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
 
-(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the informationrequired to be provided under paragraphs (3) and (4) of subsection (d).
+(2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the information required to be provided under paragraphs (3) and (4) of subsection (d).
 
 (b)
 
@@ -164,7 +164,7 @@ Sec. 4. <i>Required Action After Waiver is Issued</i>. (a) Following a President
 
 (c) The Secretary shall, as soon as practicable and consistent with classification requirements, issue a public notice in the Federal Register describing each waiver of informed consent determination and a summary of the most updated scientific information on the products used, as well as other information the President determines is appropriate.
 
-(d) The waiver will expire at the end of 1 year (or an alternative time period not to exceed 1 year, specified by the President at the time of approval), or when the Secretary informs the President that the particular military operation creating the need for the use of the investigational drug has ended, whichever is earlier. The President may revoke the waiver based on changed circumstances or for any other reason. If the Secretary seeks to renew a waiver prior to its expiration, the Secretary must submit to the President an updated request, specifically identifying any new information available relevant to the standards and criteria under 21 CFR 50.23(d). To request to renew a waiver, the Secretary must satisfy the criteria for a waiver as described in section 3 of this order.
+(d) The waiver will expire at the end of 1 year (or an alternative time period not to exceed 1 year, specifiedby the President at the time of approval), or when the Secretary informs the President that the particular military operation creating the need for the use of the investigational drug has ended, whichever is earlier. The President may revoke the waiver based on changed circumstances or for any other reason. If the Secretary seeks to renew a waiver prior to its expiration, the Secretary must submit to the President an updated request, specifically identifying any new information available relevant to the standards and criteria under 21 CFR 50.23(d). To request to renew a waiver, the Secretary must satisfy the criteria for a waiver as described in section 3 of this order.
 
 (e) The Secretary shall notify the President and the Commissioner if the threat countered by the investigational drug changes significantly or if significant new information on the investigational drug is received.
 

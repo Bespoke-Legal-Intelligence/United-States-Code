@@ -44,7 +44,7 @@ In this section, the following definitions apply:
 
 #### (B) Effect
 
-&emsp;&emsp;(i) The establishment of the Program does not modify any legal or regulatory authority or program in effect as of December 16, 2016, including the roles of Federal agencies in the Columbia River Basin.
+&emsp;&emsp;(i) The establishment of the Program does not modify any legal or regulatory authorityor program in effect as of December 16, 2016, including the roles of Federal agencies in the Columbia River Basin.
 
 &emsp;&emsp;(ii) This section does not create any new regulatory authority.
 
@@ -182,7 +182,7 @@ In this section, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;Each grant recipient under this subsection shall submit to the Administrator reports onprogress being made in achieving the purposes of this section.
+&emsp;&emsp;Each grant recipient under this subsection shall submit to the Administrator reports on progress being made in achieving the purposes of this section.
 
 #### (B) Requirements
 
@@ -213,6 +213,8 @@ The President, as part of the annual budget submission of the President to Congr
 &emsp;(3) the proposed budget for protection and restoration projects, programs, and studies relating to the Columbia River Basin.
 
 (June 30, 1948, ch. 758, title I, §123, as added Pub. L. 114–322, title IV, §5010, Dec. 16, 2016, 130 Stat. 1898; amended Pub. L. 115–270, title IV, §4105, Oct. 23, 2018, 132 Stat. 3875.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

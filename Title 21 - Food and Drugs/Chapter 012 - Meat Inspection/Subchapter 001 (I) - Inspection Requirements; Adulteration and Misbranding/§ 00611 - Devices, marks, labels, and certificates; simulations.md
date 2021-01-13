@@ -22,6 +22,8 @@ No person, firm, or corporation shall—
 
 (Mar. 4, 1907, ch. 2907, title I, §11, formerly 9th par., 34 Stat. 1263; renumbered §11 and amended Pub. L. 90–201, §§1, 8, Dec. 15, 1967, 81 Stat. 584, 589.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 79 of this title.
@@ -29,6 +31,8 @@ Section was formerly classified to section 79 of this title.
 #### Amendments
 
 <b>1967</b>—Pub. L. 90–201, §8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

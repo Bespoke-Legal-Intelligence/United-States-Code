@@ -16,6 +16,8 @@ Definition.—In this section, the term "employed by the Department of Homeland 
 
 (Added Pub. L. 114–316, §2(a)(2), Dec. 16, 2016, 130 Stat. 1593.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Rule of Construction
 
 Pub. L. 114–316, §2(c), Dec. 16, 2016, 130 Stat. 1594, provided that: "Nothing in this section \[enacting this section\] or the amendments made by this section shall be construed to infringe upon or otherwise affect the exercise of prosecutorial discretion by the Department of Justice in implementing this section and the amendments made by this section."

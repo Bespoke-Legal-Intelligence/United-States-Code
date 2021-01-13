@@ -102,7 +102,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IX—READJUSTMENT COUNSELING SERVICE SCHOLARSHIP PROGRAM
+
+| Sec.<sup>1</sup> |
+| :--- |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [7698\.](Subchapter%20009%20%28IX%29%20-%20Readjustment%20Counseling%20Service%20Scholarship%20Program/%C2%A7%2007698%20-%20Requirement%20for%20program.md) | Requirement for program. |
+| [7699\.](Subchapter%20009%20%28IX%29%20-%20Readjustment%20Counseling%20Service%20Scholarship%20Program/%C2%A7%2007699%20-%20Eligibility%3B%20agreement.md) | Eligibility; agreement. |
+| [7699A.](Subchapter%20009%20%28IX%29%20-%20Readjustment%20Counseling%20Service%20Scholarship%20Program/%C2%A7%2007699A%20-%20Obligated%20service.md) | Obligated service. |
+| [7699B.](Subchapter%20009%20%28IX%29%20-%20Readjustment%20Counseling%20Service%20Scholarship%20Program/%C2%A7%2007699B%20-%20Breach%20of%20agreement%20liability.md) | Breach of agreement: liability. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–171, title V, §502(b)(2), Oct. 17, 2020, 134 Stat. 818, added heading for subchapter IX and items 7698 to 7699B.
 
 <b>2018</b>—Pub. L. 115–182, title III, §303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
 
@@ -115,6 +135,8 @@
 <b>1991</b>—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
 
 <b>1990</b>—Pub. L. 101–366, title II, §205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
+
+<i><sup>1</sup></i><i> So in original.</i>
 
 
 ---
@@ -129,3 +151,4 @@
 - [Subchapter 006 (VI) - Employee Incentive Scholarship Program](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/README.md)
 - [Subchapter 007 (VII) - Education Debt Reduction Program](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/README.md)
 - [Subchapter 008 (VIII) - Specialty Education Loan Repayment Program](Subchapter%20008%20%28VIII%29%20-%20Specialty%20Education%20Loan%20Repayment%20Program/README.md)
+- [Subchapter 009 (IX) - Readjustment Counseling Service Scholarship Program](Subchapter%20009%20%28IX%29%20-%20Readjustment%20Counseling%20Service%20Scholarship%20Program/README.md)

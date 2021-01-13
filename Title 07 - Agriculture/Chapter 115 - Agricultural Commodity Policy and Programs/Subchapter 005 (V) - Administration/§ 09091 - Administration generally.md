@@ -12,7 +12,7 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, not later than 90 days after February7, 2014, the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter and the amendments made by this chapter.
+&emsp;Except as otherwise provided in this subsection, not later than 90 days after February 7, 2014, the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this chapter and the amendments made by this chapter.
 
 #### (2) Procedure
 

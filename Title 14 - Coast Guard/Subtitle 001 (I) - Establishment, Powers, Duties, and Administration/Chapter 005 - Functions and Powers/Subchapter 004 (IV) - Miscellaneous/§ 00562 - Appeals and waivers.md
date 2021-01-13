@@ -1,6 +1,6 @@
 ### §562. Appeals and waivers
 
-Except for the Commandant, any individual adjudicating an appeal or waiver of a decisionregarding marine safety, including inspection or manning and threats to the environment, shall—
+Except for the Commandant, any individual adjudicating an appeal or waiver of a decision regarding marine safety, including inspection or manning and threats to the environment, shall—
 
 &emsp;(1) be a qualified specialist with the training, experience, and qualifications in marine safety to effectively judge the facts and circumstances involved in the appeal and make a judgment regarding the merits of the appeal; or
 
@@ -13,6 +13,8 @@ Except for the Commandant, any individual adjudicating an appeal or waiver of a 
 &emsp;&emsp;(C) concurs in writing on the decision on appeal.
 
 (Added Pub. L. 111–281, title V, §524(a), Oct. 15, 2010, 124 Stat. 2958, §102; renumbered §101, Pub. L. 111–330, §1(6)(A), Dec. 22, 2010, 124 Stat. 3569; amended Pub. L. 115–232, div. C, title XXXV, §3531(c)(2), Aug. 13, 2018, 132 Stat. 2320; renumbered §562, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ Another prior section 562, act Aug. 4, 1949, ch. 393, 63 Stat. 539; Aug. 3, 1950
 Pub. L. 115–232 substituted "Commandant" for "Commandant of the Coast Guard" in introductory provisions.
 
 <b>2010</b>—Pub. L. 111–330 renumbered section 102 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

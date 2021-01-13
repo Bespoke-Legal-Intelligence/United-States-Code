@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the empowerment zone employment credit determined under this section with respect to any employer for any taxable year is the applicable percentage of the qualified zone wages paid or incurred during the calendar year which ends with or within such taxable year.
+For purposes of section 38, the amount of the empowerment zone employment credit determined under this section with respect to anyemployer for any taxable year is the applicable percentage of the qualified zone wages paid or incurred during the calendar year which ends with or within such taxable year.
 
 #### (b) Applicable percentage
 
@@ -92,7 +92,7 @@ A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: "This section shall be applied without regard to any empowerment zone designated under section 1391(g)."
+Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: "This section shall be applied without regardto any empowerment zone designated under section 1391(g)."
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted "For purposes of this section—
 

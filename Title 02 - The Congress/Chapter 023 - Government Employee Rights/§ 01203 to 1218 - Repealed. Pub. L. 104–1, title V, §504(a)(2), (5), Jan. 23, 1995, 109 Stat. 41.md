@@ -26,13 +26,15 @@ Section 1213, Pub. L. 102–166, title III, §313, Nov. 21, 1991, 105 Stat. 1095
 
 Section 1214, Pub. L. 102–166, title III, §314, Nov. 21, 1991, 105 Stat. 1095, provided that this chapter was enacted as an exercise of rulemaking power of Senate.
 
-Section 1215, Pub. L. 102–166, title III, §316, Nov. 21, 1991, 105 Stat. 1095, related to consideration of politicalaffiliation and place of residence in Senate employment decisions.
+Section 1215, Pub. L. 102–166, title III, §316, Nov. 21, 1991, 105 Stat. 1095, related to consideration of political affiliation and place of residence in Senate employment decisions.
 
 Section 1216, Pub. L. 102–166, title III, §317, Nov. 21, 1991, 105 Stat. 1096, related to exclusiveness of this chapter as remedy for discriminatory practices relative to Senate employment.
 
 Section 1217, Pub. L. 102–166, title III, §318, Nov. 21, 1991, 105 Stat. 1096, expressed sense of Senate that legislation be enacted giving employees of other instrumentalities of Congress rights comparable to those granted in this chapter.
 
 Section 1218, Pub. L. 102–166, title III, §319, Nov. 21, 1991, 105 Stat. 1096, reaffirmed Senate's commitment to Rule XLII of Standing Rules of the Senate, relating to employment discrimination on basis of race, color, religion, sex, national origin, age, or state of physical handicap.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

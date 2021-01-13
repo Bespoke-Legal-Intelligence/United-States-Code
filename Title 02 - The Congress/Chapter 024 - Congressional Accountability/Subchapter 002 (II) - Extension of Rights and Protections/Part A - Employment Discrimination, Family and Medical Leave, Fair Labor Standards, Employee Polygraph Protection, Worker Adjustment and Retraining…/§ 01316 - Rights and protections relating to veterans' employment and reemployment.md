@@ -48,6 +48,8 @@ The remedy for a violation of subsection (a) shall be such remedy as would be ap
 
 (Pub. L. 104–1, title II, §206, Jan. 23, 1995, 109 Stat. 12; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–275, title VII, §703(b), Oct. 13, 2010, 124 Stat. 2888; Pub. L. 115–141, div. I, title I, §153(a)(2)(C), Mar. 23, 2018, 132 Stat. 785.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(B), (C). Pub. L. 115–141 struck out "and the Library of Congress" after "the Government Accountability Office".

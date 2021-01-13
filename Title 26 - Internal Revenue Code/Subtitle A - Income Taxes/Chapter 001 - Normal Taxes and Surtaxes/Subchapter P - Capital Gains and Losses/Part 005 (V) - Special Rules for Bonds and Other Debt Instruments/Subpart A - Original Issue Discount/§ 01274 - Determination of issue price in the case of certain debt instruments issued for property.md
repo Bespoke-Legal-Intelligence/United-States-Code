@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (2) Adequate stated interest
 
-&emsp;For purposes of this section, there is adequate stated interest with respect to any debt instrument if the stated principal amount for such debt instrument is less than or equal to the imputed principal amount of such debt instrument determined under subsection (b).
+&emsp;For purposes of this section, there is adequate stated interest with respect to any debtinstrument if the stated principal amount for such debt instrument is less than or equal to the imputed principal amount of such debt instrument determined under subsection (b).
 
 #### (3) Exceptions
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (i) Federal short-term rate
 
-&emsp;&emsp;&emsp;The Federal short-term rate shall be the rate determined by the Secretary based onthe average market yield (during any 1-month period selected by the Secretary and ending in the calendar month in which the determination is made) on outstanding marketable obligations of the United States with remaining periods to maturity of 3 years or less.
+&emsp;&emsp;&emsp;The Federal short-term rate shall be the rate determined by the Secretary based on the average market yield (during any 1-month period selected by the Secretary and ending in the calendar month in which the determination is made) on outstanding marketable obligations of the United States with remaining periods to maturity of 3 years or less.
 
 #### (ii) Federal mid-term and long-term rates
 

@@ -10,6 +10,8 @@ Based on title 18, U.S.C., 1940 ed., §631 (June 15, 1917, ch. 30, title XI, §2
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 inserted ", or both" after "year".

@@ -40,7 +40,7 @@
 
 #### (4) Techniques
 
-&emsp;Evaluations conducted under this subsection shall utilize appropriate and rigorous methodology and research designs, including theuse of control groups chosen by scientific random assignment methodologies. The Secretary shall conduct at least 1 multisite control group evaluation under this subsection by the end of fiscal year 2019, and thereafter shall ensure that such an analysis is included in the independent evaluation described in paragraph (1)(B) that is conducted at least once every 4 years.
+&emsp;Evaluations conducted under this subsection shall utilize appropriate and rigorous methodology and research designs, including the use of control groups chosen by scientific random assignment methodologies. The Secretary shall conduct at least 1 multisite control group evaluation under this subsection by the end of fiscal year 2019, and thereafter shall ensure that such an analysis is included in the independent evaluation described in paragraph (1)(B) that is conducted at least once every 4 years.
 
 #### (5) Reports
 
@@ -92,7 +92,7 @@
 
 #### (B) Study on resources available to assist disconnected youth
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtaining the skills, credentials, and work experience necessary to become economically self-sufficient.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtainingthe skills, credentials, and work experience necessary to become economically self-sufficient.
 
 #### (C) Study of effectiveness of workforce development system in meeting business needs
 
@@ -174,9 +174,13 @@ Of the amount made available pursuant to section 3172(a)(2)(A) of this title for
 
 (Pub. L. 113–128, title I, §169, July 22, 2014, 128 Stat. 1568.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

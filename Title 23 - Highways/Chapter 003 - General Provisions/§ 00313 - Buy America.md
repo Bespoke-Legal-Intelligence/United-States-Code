@@ -40,6 +40,8 @@ Application to Highway Programs.—The requirements under this section shall app
 
 (Added and amended Pub. L. 109–59, title I, §1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, §1518, July 6, 2012, 126 Stat. 574.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) and (d), is Pub. L. 97–424, Jan. 6, 1983, 96 Stat. 2097. For complete classification of this Act to the Code, see Short Title of 1983 Amendment note set out under section 101 of this title and Tables.
@@ -50,7 +52,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pu
 
 #### Codification
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136;Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 #### Prior Provisions
 
@@ -68,15 +70,19 @@ Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted "the Surface Transporta
 
 Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 116–94, div. H, title I, §122, Dec. 20, 2019, 133 Stat. 2951, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
+Pub. L. 116–260, div. L, title I, §122, Dec. 27, 2020, 134 Stat. 1841, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. H, title I, §122, Dec. 20, 2019, 133 Stat. 2951.
 
 Pub. L. 116–6, div. G, title I, §122, Feb. 15, 2019, 133 Stat. 412.
 

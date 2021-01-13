@@ -90,7 +90,7 @@ Beginning with 1992, and annually thereafter, the Secretary shall issue a report
 
 There are authorized to be appropriated, in equal parts from the Federal Hospital Insurance Trust Fund and from the Federal Supplementary Medical Insurance Trust Fund, $10,000,000 for each of fiscal years 1991, 1992, 1993, 1994, 1995, and 1996, to fund the grant programs described in this section.
 
-(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 101–508, title IV, §4360, Nov. 5, 1990, 104 Stat. 1388–138; Pub. L. 103–432, title I, §171(i),Oct. 31, 1994, 108 Stat. 4450; Pub. L. 103–437, §15(b), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–362, title VI, §602(b)(2), Nov. 10, 1998, 112 Stat. 3286.)
 
 #### References in Text
 

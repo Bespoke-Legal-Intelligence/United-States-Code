@@ -12,7 +12,7 @@ In order to receive funds under this chapter, a State shall conduct an assessmen
 
 #### (b) Termination of eligibility
 
-Any teacher preparation program from which the State has withdrawn the State's approval, or terminated the State's financial support, due to the low performance of the program based upon the State assessment described in subsection (a)—
+Any teacher preparation program from which the State has withdrawn the State's approval, orterminated the State's financial support, due to the low performance of the program based upon the State assessment described in subsection (a)—
 
 &emsp;(1) shall be ineligible for any funding for professional development activities awarded by the Department;
 

@@ -20,7 +20,7 @@ No action may be commenced—
 
 &emsp;&emsp;(A) prior to 60 days after the plaintiff has given notice of the violation (i) to the Administrator, (ii) to the State in which the violation occurs, and (iii) to any alleged violator of the standard, limitation, or order, or
 
-&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civilaction in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.<sup>1</sup>
+&emsp;&emsp;(B) if the Administrator or State has commenced and is diligently prosecuting a civil action in a court of the United States or a State to require compliance with the standard, limitation, or order, but in any such action in a court of the United States any person may intervene as a matter of right.<sup>1</sup>
 
 &emsp;(2) under subsection (a)(2) prior to 60 days after the plaintiff has given notice of such action to the Administrator,
 
@@ -64,7 +64,7 @@ For purposes of this section, the term "emission standard or limitation under th
 
 #### (g) Penalty fund
 
-(1) Penalties received under subsection (a) shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund,the sources thereof, and the actual and proposed uses thereof.
+(1) Penalties received under subsection (a) shall be deposited in a special fund in the United States Treasury for licensing and other services. Amounts in such fund are authorized to be appropriated and shall remain available until expended, for use by the Administrator to finance air compliance and enforcement activities. The Administrator shall annually report to the Congress about the sums deposited into the fund, the sources thereof, and the actual and proposed uses thereof.
 
 (2) Notwithstanding paragraph (1) the court in any action under this subsection <sup>6</sup> to apply civil penalties shall have discretion to order that such civil penalties, in lieu of being deposited in the fund referred to in paragraph (1), be used in beneficial mitigation projects which are consistent with this chapter and enhance the public health or the environment. The court shall obtain the view of the Administrator in exercising such discretion and selecting any such projects. The amount of any such payment in any such action shall not exceed $100,000.
 

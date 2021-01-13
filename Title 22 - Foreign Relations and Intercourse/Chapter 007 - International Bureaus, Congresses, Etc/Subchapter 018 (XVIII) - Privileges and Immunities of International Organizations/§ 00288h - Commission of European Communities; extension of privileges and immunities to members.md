@@ -8,6 +8,8 @@ Under such terms and conditions as he shall determine and consonant with the pur
 
 (Pub. L. 92–499, Oct. 18, 1972, 86 Stat. 815; Pub. L. 100–204, title VII, §741, Dec. 22, 1987, 101 Stat. 1394.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
@@ -16,11 +18,13 @@ Section was not enacted as part of the International Organizations Immunities Ac
 
 <b>1987</b>—Pub. L. 100–204 inserted sentence at end.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12651. Offices of the Commission of the European Communities
 
 Ex. Ord. No. 12651, Sept. 9, 1988, 53 F.R. 35287, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and the Act to extend diplomatic privileges and immunities to the Mission to the United States of America of the Commission of the European Communities and the members thereof, 22 U.S.C. Sec. 288h, I hereby extend to the Permanent Observer Mission of the Delegation of the Commission of the European Communities to the United Nations the same privileges and immunities as are accorded to permanent observer missions of states to the United Nations. I also hereby extend to the members of the diplomatic staff of that mission assigned to New York to observe the work of the United Nations and duly notified to the United States Government and the United Nations in that capacity, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are accorded to members of the diplomatic staff of missions accredited to the United Nations.
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, and the Act to extend diplomatic privileges and immunities to the Mission to the United States of America of the Commission of the European Communities and the members thereof, 22 U.S.C. Sec. 288h, I hereby extend to the Permanent Observer Mission of the Delegation of the Commission of the European Communities to the United Nations the same privileges and immunities as are accorded to permanent observer missions of states to the United Nations. I also hereby extend to the members of the diplomatic staff of that mission assigned to New York to observe the work ofthe United Nations and duly notified to the United States Government and the United Nations in that capacity, and to their families, the same privileges and immunities, subject to corresponding conditions and obligations, as are accorded to members of the diplomatic staff of missions accredited to the United Nations.
 
 Pursuant to the same authority, I also hereby extend to the West Coast Office of the Delegation of the Commission of the European Communities and to the officers and employees of that mission assigned to San Francisco to represent the Commission to the Government of the United States and duly notified to and accepted by the Secretary of State, and to their families, the privileges and immunities, subject to corresponding conditions and obligations, substantively equivalent to those accorded consular premises, consular officers, and consular employees pursuant to the Vienna Convention on Consular Relations. For the purpose of extending privileges and immunities to the West Coast Office of the Delegation of the Commission of the European Communities, its official functions shall consist in:
 

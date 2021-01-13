@@ -2,11 +2,11 @@
 
 #### (a) Creation of Trust Fund
 
-There is hereby established in the Treasury of the United States a trust fund to be known asthe "Harbor Maintenance Trust Fund", consisting of such amounts as may be—
+There is hereby established in the Treasury of the United States a trust fund to be known as the "Harbor Maintenance Trust Fund", consisting of such amounts as may be—
 
 &emsp;(1) appropriated to the Harbor Maintenance Trust Fund as provided in this section,
 
-&emsp;(2) transferred to the Harbor Maintenance Trust Fund by the Saint Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
+&emsp;(2) transferred to the Harbor Maintenance Trust Fund by the Great Lakes St. Lawrence Seaway Development Corporation pursuant to section 13(a) of the Act of May 13, 1954, or
 
 &emsp;(3) credited to the Harbor Maintenance Trust Fund as provided in section 9602(b).
 
@@ -24,7 +24,7 @@ Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by 
 
 &emsp;(3) for the payment of all expenses of administration incurred by the Department of the Treasury, the Army Corps of Engineers, and the Department of Commerce related to the administration of subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year.
 
-(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat. 3792; Pub. L. 113–121, title II, §2102(c), June 10, 2014, 128 Stat. 1278.)
+(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat.3792; Pub. L. 113–121, title II, §2102(c), June 10, 2014, 128 Stat. 1278; Pub. L. 116–260, div. AA, title V, §512(c)(3), Dec. 27, 2020, 134 Stat. 2756.)
 
 #### References in Text
 
@@ -33,6 +33,8 @@ Section 13 of the Act of May 13, 1954, referred to in subsecs. (a)(2) and (c)(2)
 Section 210 of the Water Resources Development Act of 1986, referred to in subsec. (c)(1), is classified to section 2238 of Title 33, Navigation and Navigable Waters.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
 
 <b>2014</b>—Subsec. (c)(1). Pub. L. 113–121 struck out "(as in effect on the date of the enactment of the Water Resources Development Act of 1996)" after "1986".
 
@@ -46,7 +48,7 @@ Section 210 of the Water Resources Development Act of 1986, referred to in subse
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–182, title VI, §683(b), Dec. 8, 1993, 107 Stat. 2218, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\]."
+Pub. L. 103–182, title VI, §683(b), Dec. 8, 1993, 107 Stat. 2218, which provided that the amendment made by section 683(a) of Pub. L. 103–182 was applicable to fiscal years beginning after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Effective Date
 
@@ -54,11 +56,11 @@ Pub. L. 99–662, title XIV, §1403(d), Nov. 17, 1986, 100 Stat. 4270, provided 
 
 #### Harbor Maintenance Trust Fund Deposits and Expenditures
 
-Pub. L. 102–580, title III, §330, Oct. 31, 1992, 106 Stat. 4851, provided that:
+Pub. L. 102–580, title III, §330, Oct. 31, 1992, 106 Stat. 4851, as amended by Pub. L. 116–260, div. AA, title I, §103, Dec. 27, 2020, 134 Stat. 2621, provided that:
 
 "(a)
 
-Report.—Not later than March 1, 1993, and annually thereafter, the President shall transmit to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund.
+Report.—Not later than March 1, 1993, and annually thereafter concurrent with the submission of the President's annual budget request to Congress, the President shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on expenditures from and deposits into the Harbor Maintenance Trust Fund.
 
 "(b)
 
@@ -73,6 +75,8 @@ In general.—Each report to be transmitted under subsection (a) shall contain t
 &emsp;&emsp;"(B) A description of deposits made into the trust fund in the previous fiscal year and the sources of such deposits.
 
 &emsp;&emsp;"(C) A 5-year projection of expenditures from and deposits into the trust fund.
+
+&emsp;&emsp;"(D) A description of the expected expenditures from the trust fund to meet the needs of navigation for the fiscal year of the budget request.
 
 &emsp;"(2)
 

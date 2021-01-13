@@ -50,7 +50,7 @@ Criteria.—To reduce supply chain risk, the Council shall establish criteria an
 
 &emsp;&emsp;(A) recommending orders applicable to executive agencies requiring the exclusion of sources or covered articles from executive agency procurement actions (in this section referred to as "exclusion orders");
 
-&emsp;&emsp;(B) recommending orders applicable to executive agencies requiring the removal of covered articles from executive agency information systems (in this section referred to as "removal orders");
+&emsp;&emsp;(B) recommending orders applicable to executive agencies requiring the removal ofcovered articles from executive agency information systems (in this section referred to as "removal orders");
 
 &emsp;&emsp;(C) requesting and approving exceptions to an issued exclusion or removal order when warranted by circumstances, including alternative mitigation actions or other findings relating to the national interest, including national security reviews, national security investigations, or national security agreements; and
 
@@ -159,6 +159,8 @@ Rules of Construction.—Nothing in this section shall be construed—
 &emsp;(2) to authorize the issuance of an exclusion or removal order based solely on the fact of foreign ownership of a potential procurement source that is otherwise qualified to enter into procurement contracts with the Federal Government.
 
 (Added Pub. L. 115–390, title II, §202(a), Dec. 21, 2018, 132 Stat. 5180.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

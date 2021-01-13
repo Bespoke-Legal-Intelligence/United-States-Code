@@ -38,17 +38,23 @@ In subsection (a), the words "notwithstanding the provisions of any other Act" a
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
 
 Subsec. (d). Pub. L. 96–54, §2(a)(37)(B), substituted "President" for "Director of the Bureau of the Budget".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to American dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (a) of this section to make recommendations concerning meeting oflosses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to American dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(b) the Attorney General fails to take any action with respect to the Commission's request.
 
-(B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
+(B) In any case where the Attorney General represents the Commission before the SupremeCourt in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
 
 (C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term "Attorney General" includes the Solicitor General.
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 109–455, §5, which added subsec. (c) relating to attorne
 
 #### Termination Date of 2006 Amendment
 
-Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1975 Amendment
 

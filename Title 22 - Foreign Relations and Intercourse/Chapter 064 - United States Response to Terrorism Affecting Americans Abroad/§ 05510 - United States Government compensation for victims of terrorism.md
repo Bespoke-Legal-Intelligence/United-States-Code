@@ -6,7 +6,7 @@ The President shall submit to the Congress, not later than one year after Novemb
 
 #### (b) Board
 
-The President may establish a board to develop criteria for compensation and to recommend changes to existing laws to establish a single comprehensive approach to victim compensation for terrorist acts.
+The President may establish a board to develop criteria for compensation and to recommend changes to existing laws to establish asingle comprehensive approach to victim compensation for terrorist acts.
 
 #### (c) Income tax benefit for victims of Lockerbie terrorism
 
@@ -23,6 +23,8 @@ The President may establish a board to develop criteria for compensation and to 
 &emsp;In no case may the tax benefit pursuant to paragraph (1) for any taxable year, for any individual, exceed an amount equal to 28 percent of the annual rate of basic pay at Level V of the Executive Schedule of the United States as of December 21, 1988.
 
 (Pub. L. 101–604, title II, §211, Nov. 16, 1990, 104 Stat. 3085.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

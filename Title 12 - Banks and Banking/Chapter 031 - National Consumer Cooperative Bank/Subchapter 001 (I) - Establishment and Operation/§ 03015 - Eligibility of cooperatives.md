@@ -26,13 +26,15 @@ As used in this section, the term "net savings" means, for any period, the borro
 
 #### (d) Cooperatives eligible for other Federal credit assistance
 
-An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Banks for Cooperativesor other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
+An eligible cooperative which also has been determined to be eligible for credit assistance from the Rural Electrification Administration, the National Rural Utilities Cooperative Finance Corporation, the Banks for Cooperatives or other institutions of the Farm Credit System, or the Farmers Home Administration may receive the assistance authorized by this chapter only (1) if the Bank determines that a request for assistance from any such source or sources has been rejected or denied solely because of the unavailability of funds from such source or sources, or (2) by agreement between the Bank and the agency or agencies involved.
 
 #### (e) Credit unions eligible for technical assistance from Office of Self-Help Development and Technical Assistance
 
 Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
 
 (Pub. L. 95–351, title I, §105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III, §394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437; Pub. L. 115–334, title VI, §6602(b)(18), Dec. 20, 2018, 132 Stat. 4777.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ All subchapters of this chapter, referred to in subsec. (a), was in the original
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §394(e)(1), substituted "primarily owned" for "entirely owned".
 
 Subsec. (a)(5). Pub. L. 97–35, §394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

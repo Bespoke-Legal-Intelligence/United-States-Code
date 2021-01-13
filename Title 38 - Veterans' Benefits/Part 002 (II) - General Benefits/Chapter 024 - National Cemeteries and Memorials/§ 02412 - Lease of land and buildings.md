@@ -36,6 +36,8 @@ National Cemetery Administration Facilities Operation Fund.—(1) There is estab
 
 (Added Pub. L. 108–454, title VI, §602(a), Dec. 10, 2004, 118 Stat. 3623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3709 of the Revised Statutes, referred to in subsec. (c)(1), was classified to section 5 of former Title 41, Public Contracts, and was repealed and restated in section 6101 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.

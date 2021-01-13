@@ -34,7 +34,7 @@ If a Board finds reasonable cause to believe that an individual described in sec
 
 #### (1) Program recommendations
 
-&emsp;In any case in which a Board transmits recommendations to the Secretary of State undersubsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+&emsp;In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
 
 #### (2) Personnel recommendations
 
@@ -46,6 +46,8 @@ If a Board finds reasonable cause to believe that an individual described in sec
 
 (Pub. L. 99–399, title III, §304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, §156(b), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 114–323, title I, §104(a), Dec. 16, 2016, 130 Stat. 1909.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–323, §104(a)(3), in concluding provisions, substituted "has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection" for "has breached a duty of that individual" and struck out "to the performance of the duties of that individual" after "pertinent".
@@ -55,6 +57,8 @@ Pub. L. 114–323, §104(a)(1), in introductory provisions, substituted "If" for
 Subsec. (c)(2). Pub. L. 114–323, §104(a)(2), substituted "findings" for "finding" in two places.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted "or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)" after first reference to "mission abroad".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

@@ -32,9 +32,11 @@ Report on Lease Consideration.—(1) Each year, as part of the annual budget sub
 
 (Added Pub. L. 112—154, title II, §211(i)(1), Aug. 6, 2012, 126 Stat. 1181; amended Pub. L. 114–226, §3(c)(2), Sept. 29, 2016, 130 Stat. 931.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
+The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of2012, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Prior Provisions
 
@@ -47,6 +49,8 @@ A prior section 8168, added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991,
 Subsec. (a). Pub. L. 114–226, §3(c)(2)(B), designated existing provisions as par. (1), substituted "a report on enhanced-use leases." for "a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.", and added par. (2).
 
 Subsec. (b). Pub. L. 114–226, §3(c)(2)(C), designated existing provisions as par. (1), substituted "this subchapter." for "this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Elements of Initial Report
 

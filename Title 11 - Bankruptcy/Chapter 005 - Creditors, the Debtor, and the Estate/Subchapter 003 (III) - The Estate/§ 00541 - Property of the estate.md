@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
 
-> &emsp;unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
+> &emsp;unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;
 
 &emsp;(10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -120,7 +120,9 @@
 
 &emsp;&emsp;&emsp;(ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
-&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.<sup>2</sup>
+&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; <sup>2</sup> or
+
+&emsp;(11) recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
 
 > Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
@@ -138,7 +140,19 @@
 
 (f) Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, §104(a), Dec. 19, 2014, 128 Stat. 4063.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201; Pub. L. 111–327, §2(a)(22), Dec. 22, 2010, 124 Stat. 3560; Pub. L. 113–295, div. B, title I, §104(a), Dec. 19, 2014, 128 Stat. 4063; Pub. L. 116–260, div. FF, title X, §1001(a), Dec. 27, 2020, 134 Stat. 3216.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b) of this section is amended:</i>
+
+<i>(1) in paragraph (9), in the matter following subparagraph (B), by adding "or" at the end;</i>
+
+<i>(2) in paragraph (10)(C), by striking "; or" and inserting a period; and</i>
+
+<i>(3) by striking paragraph (11).</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -148,7 +162,7 @@ Section 541(a)(7) is new. The provision clarifies that any interest in property 
 
 Section 541(c)(2) follows the position taken in the House bill and rejects the position taken in the Senate amendment with respect to income limitations on a spend-thrift trust.
 
-Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the sameresult as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
+Section 541(d) of the House amendment is derived from section 541(e) of the Senate amendment and reiterates the general principle that where the debtor holds bare legal title without any equitable interest, that the estate acquires bare legal title without any equitable interest in the property. The purpose of section 541(d) as applied to the secondary mortgage market is identical to the purpose of section 541(e) of the Senate amendment and section 541(d) will accomplish the same result as would have been accomplished by section 541(e). Even if a mortgage seller retains for purposes of servicing legal title to mortgages or interests in mortgages sold in the secondary mortgage market, the trustee would be required by section 541(d) to turn over the mortgages or interests in mortgages to the purchaser of those mortgages.
 
 The seller of mortgages in the secondary mortgage market will often retain the original mortgage notes and related documents and the seller will not endorse the notes to reflect the sale to the purchaser. Similarly, the purchaser will often not record the purchaser's ownership of the mortgages or interests in mortgages under State recording statutes. These facts are irrelevant and the seller's retention of the mortgage documents and the purchaser's decision not to record do not change the trustee's obligation to turn the mortgages or interests in mortgages over to the purchaser. The application of section 541(d) to secondary mortgage market transactions will not be affected by the terms of the servicing agreement between the mortgage servicer and the purchaser of the mortgages. Under section 541(d), the trustee is required to recognize the purchaser's title to the mortgages or interests in mortgages and to turn this property over to the purchaser. It makes no difference whether the servicer and the purchaser characterize their relationship as one of trust, agency, or independent contractor.
 
@@ -164,7 +178,7 @@ Where it is not possible for the Internal Revenue Service to demonstrate that th
 
 #### senate report no. 95–989
 
-This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act §70a(6) \[section 110(a)(6) of former title 11\]), and all other forms of property currently specified in section 70a of the Bankruptcy Act §70a \[section 110(a) of former title 11\], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained "property of the debtor." The debtor's interest in property also includes "title" to property, which is an interest, just as are a possessory interest, or lease-hold interest, for example. The result of <i>Segal v. Rochelle</i>, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
+This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act §70a(6) \[section 110(a)(6) of former title 11\]), and all other forms of property currently specified in section 70a of the Bankruptcy Act §70a \[section 110(a) of formertitle 11\], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained "property of the debtor." The debtor's interest in property also includes "title" to property, which is an interest, just as are a possessory interest, or lease-hold interest, for example. The result of <i>Segal v. Rochelle</i>, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
 
 Though this paragraph will include choses in action and claims by the debtor against others, it is not intended to expand the debtor's rights against others more than they exist at the commencement of the case. For example, if the debtor has a claim that is barred at the time of the commencement of the case by the statute of limitations, then the trustee would not be able to pursue that claim, because he too would be barred. He could take no greater rights than the debtor himself had. But see proposed 11 U.S.C. 108, which would permit the trustee a tolling of the statute of limitations if it had not run before the date of the filing of the petition.
 
@@ -172,7 +186,7 @@ Paragraph (1) has the effect of overruling <i>Lockwood v. Exchange Bank</i>, 190
 
 Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U.S. 18 (1970).
 
-Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
+Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
 
 Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
@@ -186,15 +200,21 @@ Subsection (d) \[enacted as (e)\], derived from section 70c of the Bankruptcy Ac
 
 Section 541(e) \[enacted as (d)\] confirms the current status under the Bankruptcy Act \[former title 11\] of bona fide secondary mortgage market transactions as the purchase and sale of assets. Mortgages or interests in mortgages sold in the secondary market should not be considered as part of the debtor's estate. To permit the efficient servicing of mortgages or interests in mortgages the seller often retains the original mortgage notes and related documents, and the purchaser records under State recording statutes the purchaser's ownership of the mortgages or interests in mortgages purchased. Section 541(e) makes clear that the seller's retention of the mortgage documents and the purchaser's decision not to record do not impair the asset sale character of secondary mortgage market transactions. The committee notes that in secondary mortgage market transactions the parties may characterize their relationship as one of trust, agency, or independent contractor. The characterization adopted by the parties should not affect the statutes in bankruptcy on bona fide secondary mortgage market purchases and sales.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10), (11) and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(11). Pub. L. 116–260, §1001(a)(2), struck out par. (11) which read as follows: "recovery rebates made under section 6428 of the Internal Revenue Code of 1986.".
+
+Pub. L. 116–260, §1001(a)(1), added par. (11).
 
 <b>2014</b>—Subsec. (b)(10). Pub. L. 113–295 added par. (10).
 
@@ -244,6 +264,12 @@ Subsec. (d). Pub. L. 98–353, §456(c), inserted "(1) or (2)" after "(a)".
 
 Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: "The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title X, §1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that the amendment made by section 1001(a)(2) is effective on the date that is 1 year after Dec. 27, 2020.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under section 521 of this title.
@@ -265,6 +291,8 @@ Amendment by Pub. L. 102–486 effective Oct. 24, 1992, but not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

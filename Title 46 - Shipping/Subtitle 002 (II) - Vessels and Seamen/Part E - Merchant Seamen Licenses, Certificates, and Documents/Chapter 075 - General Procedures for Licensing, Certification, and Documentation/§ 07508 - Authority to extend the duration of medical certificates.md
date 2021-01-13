@@ -6,7 +6,13 @@ Granting of Extensions.—Notwithstanding any other provision of law, the Secret
 
 (b)
 
-Manner of Extension.—An extension under this section may be granted to individual seamen or a specifically identified group of seamen.
+Manner of Extension.—An extension under this section may be granted to an individual or a specifically identified group of individuals.
 
-(Added Pub. L. 112–213, title III, §306(a), Dec. 20, 2012, 126 Stat. 1565.)
+(Added Pub. L. 112–213, title III, §306(a), Dec. 20, 2012, 126 Stat. 1565; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(6), Jan. 1, 2021, 134 Stat. 4751.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "an individual or a specifically identified group of individuals" for "individual seamen or a specifically identified group of seamen".
 

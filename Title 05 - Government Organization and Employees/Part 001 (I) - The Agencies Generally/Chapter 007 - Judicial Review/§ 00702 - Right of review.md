@@ -20,6 +20,8 @@ June 11, 1946, ch. 324, §10(a), 60 Stat. 243.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–574 removed the defense of sovereign immunity as a bar to judicial review of Federal administrative action otherwise subject to judicial review.

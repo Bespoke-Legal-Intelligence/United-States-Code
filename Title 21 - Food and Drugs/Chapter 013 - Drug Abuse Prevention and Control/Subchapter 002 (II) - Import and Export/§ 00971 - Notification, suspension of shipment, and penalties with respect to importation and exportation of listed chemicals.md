@@ -14,7 +14,7 @@ Each regulated person who imports or exports a listed chemical shall notify the 
 
 (1) The Attorney General may order the suspension of any importation or exportation of a listed chemical (other than a regulated transaction to which the requirement of subsection (a) does not apply by reason of subsection (b)) or may disqualify any regular customer or regular importer on the ground that the chemical may be diverted to the clandestine manufacture of a controlled substance (without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred). From and after the time when the Attorney General provides written notice of the order (including a statement of the legal and factual basis for the order) to the regulated person, the regulated person may not carry out the transaction.
 
-(2) Upon written request to the Attorney General, a regulated person to whom an order applies under paragraph (1) is entitled to an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5. The hearing shall be held on an expedited basis and not later than 45 days after the request is made, exceptthat the hearing may be held at a later time, if so requested by the regulated person.
+(2) Upon written request to the Attorney General, a regulated person to whom an order applies under paragraph (1) is entitled to an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5. The hearing shall be held on an expedited basis and not later than 45 days after the request is made, except that the hearing may be held at a later time, if so requested by the regulated person.
 
 #### (d) Information required in notice; updated notice for change in circumstances
 
@@ -70,6 +70,8 @@ Within 30 days after a transaction covered by this section is completed, the imp
 
 (Pub. L. 91–513, title III, §1018, as added Pub. L. 100–690, title VI, §6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, §330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–177, §716(a)(1), substituted "or to a transaction that is an importation by a regular importer" for "or to an importation by a regular importer".
@@ -95,6 +97,8 @@ Subsec. (c)(1). Pub. L. 103–200, §9(b)(2), as amended by Pub. L. 103–322, �
 Subsec. (d). Pub. L. 103–200, §4(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 103–200, §5(a), as amended by Pub. L. 103–322, §330024(c)(1), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -122,7 +126,7 @@ Pub. L. 100–690, title VI, §6053(b), Nov. 18, 1988, 102 Stat. 4315, provided 
 
 "(5) Subsection (a) of section 1018 of the Controlled Substances Import and Export Act \[subsection (a) of this section\], as added by subsection (a) of this section, shall take effect 90 days after the promulgation of the final regulations under paragraph (4).
 
-"(6) Each regulated person shall provide to the Attorney General the identity of any regular customer or regular supplier of the regulated person not later than 30 days after the promulgation of the final regulations under paragraph (4). Not later than 60 days after the end of such 30-day period, each regular customer and regular supplier so identified shall be a regular customer or regular supplier for purposes of any applicableexception from the requirement of subsection (a) of such section 1018, unless the the \[sic\] Attorney General otherwise notifies the regulated person in writing."
+"(6) Each regulated person shall provide to the Attorney General the identity of any regular customer or regular supplier of the regulated person not later than 30 days after the promulgation of the final regulations under paragraph (4). Not later than 60 days after the end of such 30-day period, each regular customer and regular supplier so identified shall be a regular customer or regular supplier for purposes of any applicable exception from the requirement of subsection (a) of such section 1018, unless the the \[sic\] Attorney General otherwise notifies the regulated person in writing."
 
 Section effective 120 days after Nov. 18, 1988 \[except subsec. (a), see above\], see section 6061 of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 802 of this title.
 

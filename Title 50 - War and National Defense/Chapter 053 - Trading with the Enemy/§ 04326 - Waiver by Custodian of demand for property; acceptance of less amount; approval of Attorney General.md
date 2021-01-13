@@ -2,7 +2,7 @@
 
 #### (a) Waiver of demand for conveyance of property; acceptance of less amount
 
-Where the Alien Property Custodian has made demand or requirement for the conveyance,transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the whole or any part of such money or other property would, if conveyed, transferred, assigned, delivered, or paid to him, be returnable under any provision of this chapter, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand or requirement, or accept in full satisfaction of such demand, requirement, judgment, or decree, a less amount than that demanded or required by him.
+Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the whole or any part of such money or other property would, if conveyed, transferred, assigned, delivered, or paid to him, be returnable under any provision of this chapter, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand or requirement, or accept in full satisfaction of such demand, requirement, judgment, or decree, a less amount than that demanded or required by him.
 
 #### (b) Approval of Attorney General; holding of amount for investment
 
@@ -10,7 +10,7 @@ The Alien Property Custodian shall not make any such waiver or compromise except
 
 #### (c) Waiver of demand where property interest not vested prior to March 10, 1928
 
-Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
+Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment tohim of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
 
 #### (d) Construction
 

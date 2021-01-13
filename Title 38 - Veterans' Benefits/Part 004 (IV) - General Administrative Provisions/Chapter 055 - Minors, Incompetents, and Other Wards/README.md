@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 115–407, title VII, §702(a)(1), Dec. 31, 2018, 132 Stat. 5381, inserted period at end of item 5501A.

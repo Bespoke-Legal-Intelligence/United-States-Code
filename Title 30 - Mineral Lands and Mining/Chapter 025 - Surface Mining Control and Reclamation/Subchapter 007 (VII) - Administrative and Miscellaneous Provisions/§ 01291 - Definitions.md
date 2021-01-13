@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(3) "commerce" means trade, traffic, commerce, transportation, transmission, or communication among the several States, or between a State and any other place outside thereof, or between points in the same State which directly or indirectly affect interstate commerce;
 
-&emsp;(4) "Federal lands" means any land, including mineral interests, owned by the United States without regard to how the United States acquired ownership of the land and without regard to the agency having responsibility for management thereof, except Indian lands: <i>Provided</i>, That for the purposes of this chapter lands or mineral interests east of the one hundredth meridian west longitude owned by the United States and entrusted to or managed by the Tennessee Valley Authority shall not be subject to sections 1304 (Surface Owner Protection) and 1305 (Federal Lessee Protection) of this title.<sup>1</sup>
+&emsp;(4) "Federal lands" means any land, including mineral interests, owned by the United States without regard to how the United States acquired ownership of the land and without regard to the agency having responsibility for management thereof, except Indian lands: <i>Provided</i>, That for the purposes of this chapter lands or mineral interests east of the one hundredth meridian west longitude owned by the United States and entrusted to or managed by the Tennessee Valley Authority shallnot be subject to sections 1304 (Surface Owner Protection) and 1305 (Federal Lessee Protection) of this title.<sup>1</sup>
 
 &emsp;(5) "Federal lands program" means a program established by the Secretary pursuant to section 1273 of this title to regulate surface coal mining and reclamation operations on Federal lands;
 
@@ -58,7 +58,7 @@ For the purposes of this chapter—
 
 &emsp;(28) "surface coal mining operations" means—
 
-&emsp;&emsp;(A) activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section 1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such common methods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: <i>Provided, however</i>, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 162/3 per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
+&emsp;&emsp;(A) activities conducted on the surface of lands in connection with a surface coal mine or subject to the requirements of section 1266 of this title surface operations and surface impacts incident to an underground coal mine, the products of which enter commerce or the operations of which directly or indirectly affect interstate commerce. Such activities include excavation for the purpose of obtaining coal including such commonmethods as contour, strip, auger, mountaintop removal, box cut, open pit, and area mining, the uses of explosives and blasting, and in situ distillation or retorting, leaching or other chemical or physical processing, and the cleaning, concentrating, or other processing or preparation, loading of coal for interstate commerce at or near the mine site: <i>Provided, however</i>, That such activities do not include the extraction of coal incidental to the extraction of other minerals where coal does not exceed 162/3 per centum of the tonnage of minerals removed for purposes of commercial use or sale or coal explorations subject to section 1262 of this title; and
 
 &emsp;&emsp;(B) the areas upon which such activities occur or where such activities disturb the natural land surface. Such areas shall also include any adjacent land the use of which is incidental to any such activities, all lands affected by the construction of new roads or the improvement or use of existing roads to gain access to the site of such activities and for haulage, and excavations, workings, impoundments, dams, ventilation shafts, entryways, refuse banks, dumps, stockpiles, overburden piles, spoil banks, culm banks, tailings, holes or depressions, repair areas, storage areas, processing areas, shipping areas and other areas upon which are sited structures, facilities, or other property or materials on the surface, resulting from or incident to such activities; and <sup>2</sup>
 
@@ -76,6 +76,8 @@ For the purposes of this chapter—
 
 (Pub. L. 95–87, title VII, §701, Aug. 3, 1977, 91 Stat. 516; Pub. L. 102–486, title XXV, §2503(c), Oct. 24, 1992, 106 Stat. 3103; Pub. L. 105–244, title I, §102(a)(10), Oct. 7, 1998, 112 Stat. 1620.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of this title and Tables.
@@ -87,6 +89,8 @@ Section 1001 of title 20, referred to in par. (32), was in the original "section
 <b>1998</b>—Par. (32). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
 <b>1992</b>—Pars. (33), (34). Pub. L. 102–486 added pars. (33) and (34).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

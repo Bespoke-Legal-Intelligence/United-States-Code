@@ -1,6 +1,6 @@
 ### §4110. Advisory Committee on Veterans Employment, Training, and Employer Outreach
 
-(a)(1) There is hereby established within the Department of Labor an advisory committee tobe known as the Advisory Committee on Veterans Employment, Training, and Employer Outreach.
+(a)(1) There is hereby established within the Department of Labor an advisory committee to be known as the Advisory Committee on Veterans Employment, Training, and Employer Outreach.
 
 (2) The advisory committee shall—
 
@@ -78,13 +78,15 @@
 
 &emsp;(F) any recommendations for legislation, administrative action, and other action that the advisory committee considers appropriate.
 
-(2) In addition to the annual reports made under paragraph (1), the advisory committee may make recommendations to the Secretary of Labor with respect to the employment and training needs of veterans at such times and in such manner as the advisory committee determines appropriate.
+(2) In addition to the annual reports made under paragraph (1), the advisory committee may make recommendations to the Secretary of Labor with respect to the employment andtraining needs of veterans at such times and in such manner as the advisory committee determines appropriate.
 
 (g) Within 60 days after receiving each annual report referred to in subsection (f)(1), the Secretary of Labor shall transmit to Congress a copy of the report together with any comments concerning the report that the Secretary considers appropriate.
 
 (h) The advisory committee shall continue until terminated by law.
 
-(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1441, §2010; amended Pub. L. 100–323, §§10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L.102–16, §8(a), Mar. 22, 1991, 105 Stat. 52; renumbered §4110 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, §504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, §1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L. 109–233, title II, §202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, §604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, §901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 97–306, title III, §308(a), Oct. 14, 1982, 96 Stat. 1441, §2010; amended Pub. L. 100–323, §§10, 15(a)(2), (3), (b)(1), May 20, 1988, 102 Stat. 566, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §8(a), Mar. 22, 1991, 105 Stat. 52; renumbered §4110 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title V, §504, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title XII, §1201(a)(5), (g)(3), (i)(7), Nov. 2, 1994, 108 Stat. 4682, 4687, 4688; Pub. L. 109–233, title II, §202(a)(1), (2), (b)–(d), June 15, 2006, 120 Stat. 403, 404; Pub. L. 109–461, title VI, §604(b), Dec. 22, 2006, 120 Stat. 3439; Pub. L. 110–387, title IX, §901(a)(4), Oct. 10, 2008, 122 Stat. 4142.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -139,6 +141,8 @@ Pub. L. 100–323, §15(a)(3), substituted "Notwithstanding section 2002A(b) of 
 Pub. L. 100–323, §15(a)(2), struck out "of Labor" after "Secretary" in first sentence.
 
 Subsec. (b)(1)(D) to (I). Pub. L. 100–323, §10, added subpars. (D), (H), and (I) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

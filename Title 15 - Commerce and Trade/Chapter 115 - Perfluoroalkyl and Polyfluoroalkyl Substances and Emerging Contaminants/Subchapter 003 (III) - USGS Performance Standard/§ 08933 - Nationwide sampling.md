@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries,lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 8932(a) of this title.
+The Director shall carry out a nationwide sampling to determine the concentration of highly fluorinated compounds in estuaries, lakes, streams, springs, wells, wetlands, rivers, aquifers, and soil using the performance standard developed under section 8932(a) of this title.
 
 #### (b) Requirements
 

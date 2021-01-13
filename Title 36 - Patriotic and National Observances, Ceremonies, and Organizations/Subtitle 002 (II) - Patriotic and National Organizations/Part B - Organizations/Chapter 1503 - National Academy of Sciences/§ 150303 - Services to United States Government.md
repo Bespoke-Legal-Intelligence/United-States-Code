@@ -22,6 +22,8 @@ Mar. 3, 1863, ch. 111, §3 (words after 1st comma), 12 Stat. 806.
 
 The words "any department of" are omitted as unnecessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Key National Indicators
 
 Pub. L. 111–148, title V, §5605, Mar. 23, 2010, 124 Stat. 680, provided that:
@@ -104,7 +106,7 @@ Reports.—
 
 &emsp;&emsp;"(A)
 
-Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
+Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequentyear thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
 
 &emsp;&emsp;"(B)
 
@@ -204,7 +206,7 @@ financial audit.—If an Institute is established under this section, the Comptr
 
 &emsp;"(3) GAO
 
-programmatic review.—The Comptroller General of the United States shall conduct programmatic assessments of the Institute established under this section as determined necessary by the Comptroller General and report the findings to the Commission and to the appropriate authorizing committees of Congress.
+programmatic review.—The Comptroller General of the United States shall conduct programmatic assessments of the Institute established under this section as determined necessary by the Comptroller General and report the findings to theCommission and to the appropriate authorizing committees of Congress.
 
 "(e)
 
@@ -217,6 +219,8 @@ In general.—There are authorized to be appropriated to carry out the purposes 
 &emsp;"(2)
 
 Availability.—Amounts appropriated under paragraph (1) shall remain available until expended."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 2859. National Research Council of National Academy of Sciences
 

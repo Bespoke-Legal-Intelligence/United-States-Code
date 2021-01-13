@@ -10,7 +10,7 @@ The Governor of a State desiring to receive a grant under this subchapter shall 
 
 &emsp;The lead agency shall—
 
-&emsp;&emsp;(A) administer, directly or through other governmental or nongovernmental agencies,the financial assistance received under this subchapter by the State;
+&emsp;&emsp;(A) administer, directly or through other governmental or nongovernmental agencies, the financial assistance received under this subchapter by the State;
 
 &emsp;&emsp;(B) develop the State plan to be submitted to the Secretary under section 9858c(a) of this title;
 
@@ -24,7 +24,7 @@ The Governor of a State desiring to receive a grant under this subchapter shall 
 
 &emsp;In the development of the State plan described in paragraph (1)(B), the lead agency shall consult with appropriate representatives of units of general purpose local government.
 
-(Pub. L. 97–35, title VI, §658D, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §604, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 113–186, §4, Nov. 19, 2014, 128 Stat. 1972.)
+(Pub. L. 97–35, title VI, §658D, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat.1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §604, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 113–186, §4, Nov. 19, 2014, 128 Stat. 1972.)
 
 #### Amendments
 

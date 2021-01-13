@@ -4,7 +4,7 @@
 
 (1) Within 90 days after November 5, 1979, the Secretary, in accordance with section 7191 of this title, shall establish a standby Federal emergency conservation plan. The Secretary may amend such plan at any time, and shall make such amendments public upon their adoption.
 
-(2) The plan under this section shall be consistent with the attainment of the objectives of section 753(b)(1) <sup>1</sup> of title 15, and shall provide for the emergency reduction in the public and private use of each energy source for which an emergency conservation target is in effect or may be in effect under section 8511 of this title.
+(2) The plan under this section shall be consistent with the attainment of the objectives of section 753(b)(1) <sup>1</sup> of title 15, and shall provide for the emergency reduction in the public and private use of each energy source for which anemergency conservation target is in effect or may be in effect under section 8511 of this title.
 
 #### (b) Implementation of standby conservation plan
 
@@ -44,7 +44,7 @@ Any finding under subsection (b) shall be accompanied by such information and an
 
 &emsp;(C) such measures would be approved under section 8512(c)(1)(B), (C), and (D) of this title.
 
-(3) If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether ornot pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
+(3) If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
 
 (4) If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures in effect under this subsection he may reimpose the Federal measure referred to in paragraph (1).
 
@@ -60,7 +60,7 @@ Notwithstanding any other provision of law (other than subsection (f)), the auth
 
 The plan established under subsection (a) shall—
 
-&emsp;(1) taken as a whole, be designed so that the plan, if implemented, would be likely to achieve the emergency conservation target under section 8511 of this title for which it would be implemented,
+&emsp;(1) taken as a whole, be designed so that the plan, if implemented, would be likely toachieve the emergency conservation target under section 8511 of this title for which it would be implemented,
 
 &emsp;(2) taken as a whole, be designed so as not to impose an unreasonably disproportionate share of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and
 

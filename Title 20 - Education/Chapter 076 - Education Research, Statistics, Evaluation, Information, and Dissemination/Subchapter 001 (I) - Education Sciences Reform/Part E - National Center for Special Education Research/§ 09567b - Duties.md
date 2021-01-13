@@ -72,7 +72,7 @@ The Special Education Research Commissioner shall propose to the Director a rese
 
 #### (1) In general
 
-&emsp;In carrying out the duties under this section, the Director may award grants to, or enter into contracts or cooperative agreements with, eligible applicants.
+&emsp;In carrying out the duties under this section, the Director may award grants to, orenter into contracts or cooperative agreements with, eligible applicants.
 
 #### (2) Eligible applicants
 

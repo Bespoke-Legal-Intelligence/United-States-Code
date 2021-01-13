@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, officers and employees of the United
 
 #### (i) Assignment based on competency
 
-To the maximum extent practicable officers and employees performing functions under this chapter abroad shall be assigned to countries and positions for which they have special competence, such as appropriate language and practical experience.
+To the maximum extent practicable officers and employees performing functions under thischapter abroad shall be assigned to countries and positions for which they have special competence, such as appropriate language and practical experience.
 
 #### (j) Reemployment of annuitants under the Civil Service Retirement System and the Federal Employees' Retirement System
 
@@ -43,6 +43,8 @@ To the maximum extent practicable officers and employees performing functions un
 (3) An employee for whom a waiver under this section is in effect shall not be considered an employee for purposes of subchapter III of chapter 83, or chapter 84 of title 5.
 
 (Pub. L. 87–195, pt. III, §625, Sept. 4, 1961, 75 Stat. 449; Pub. L. 87–565, pt. III, §302(c), Aug. 1, 1962, 76 Stat. 262; Pub. L. 87–793, pt. II, §1001(k), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–663, pt. III, §302(a), Oct. 7, 1964, 78 Stat. 1014; Pub. L. 89–171, pt. III, §302(c), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(b)–(d), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–554, title III, §302(c), Oct. 8, 1968, 82 Stat. 965; Pub. L. 93–189, §16, Dec. 17, 1973, 87 Stat. 722; Pub. L. 95–88, title I, §125, Aug. 3, 1977, 91 Stat. 542; Pub. L. 96–465, title II, §§2203(a), 2205(8), Oct. 17, 1980, 94 Stat. 2158, 2160; Pub. L. 97–113, title VII, §703, Dec. 29, 1981, 95 Stat. 1544; Pub. L. 109–234, title I, §1602(b)(2), June 15, 2006, 120 Stat. 442; Pub. L. 111–32, title XI, §1115(c)(3), June 24, 2009, 123 Stat. 1905.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -100,6 +102,8 @@ Subsec. (d)(2). Pub. L. 87–565, §302(c)(2), authorized the President to initi
 
 Subsec. (f). Pub. L. 87–565, §302(c)(3), inserted "with respect to specific projects", and "agencies of", and excluded services of employees of agencies primarily responsible for administering subchapter I or II of this chapter from the purview of this subsection.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment of subsec. (d) and repeal of subsecs. (e), (g), and (j) by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
@@ -110,15 +114,13 @@ Repeal of subsec. (k) by Pub. L. 96–465 effective Oct. 17, 1980, see Pub. L. 9
 
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see Pub. L. 87–793, pt. II, §1008, Oct. 11, 1962, 76 Stat. 868.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Extension of Authority
 
-Pub. L. 116–94, div. G, title VII, §7034(l)(3), Dec. 20, 2019, 133 Stat. 2872, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2020' for 'October 1, 2010' in subparagraph (B)."
+Pub. L. 116–260, div. K, title VII, §7034(l)(3), Dec. 27, 2020, 134 Stat. 1749, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2021' for 'October 1, 2010' in subparagraph (B)."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(l)(3), Dec. 20, 2019, 133 Stat. 2872.
 
 Pub. L. 116–6, div. F, title VII, §7034(m)(3), Feb. 15, 2019, 133 Stat. 327.
 
@@ -137,6 +139,12 @@ Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Entitlement to Benefits for Services Performed Outside United States; Service Exceeding Thirty Months
 

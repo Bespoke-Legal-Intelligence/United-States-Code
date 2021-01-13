@@ -1,6 +1,6 @@
 ### §333. Judicial conferences of circuits
 
-The chief judge of each circuit may summon biennially, and may summon annually, the circuit, district, magistrate, and bankruptcy judges of the circuit, in active service, to a conference at a time and place that he designates, for the purpose of considering the business of the courts and advising means of improving the administration of justice within such circuit. He may preside at such conference, which shall be known as the Judicial Conference of the circuit. The judges of the District Court of Guam, the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands may also be summoned biennially, and may be summoned annually, to the conferences of their respective circuits.
+The chief judge of each circuit may summon biennially, and may summon annually, the circuit, district, magistrate, and bankruptcy judges of the circuit, in active service, to a conference at a time and place that he designates, for the purpose of considering the business of the courts and advising means of improving the administration of justice within such circuit. He may preside at such conference, which shall be known as the Judicial Conference of the circuit. The judges of the District Court of Guam, the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands mayalso be summoned biennially, and may be summoned annually, to the conferences of their respective circuits.
 
 Every judge summoned may attend.
 
@@ -20,6 +20,8 @@ The revised section omits, as surplusage, the definition of "continental United 
 
 The provision as to travel and subsistence which was contained in said section 449 of title 28, U.S.C., 1940 ed., is incorporated in section 456 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–406 inserted "magistrate," after "district," in first par.
@@ -37,6 +39,8 @@ Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substitu
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 
 <b>1950</b>—Act Dec., 29, 1950, provided for the presence of judges of District Courts of Alaska, Canal Zone, and the Virgin Islands at annual conferences within their respective circuits.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

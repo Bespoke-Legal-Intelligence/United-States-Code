@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
+&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018,and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
 
 #### (B) Data
 
@@ -88,7 +88,7 @@ Beginning with fiscal year 2018, for each fiscal year for which fees are collect
 
 &emsp;For any of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
-&emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, ofthe types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
+&emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
 
 &emsp;&emsp;(B) with respect to performance enhancement goals that were not achieved, a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such fiscal year.
 
@@ -168,11 +168,13 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082.)
+(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840;amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082.)
 
 #### Termination of Section
 
 <i>For termination of section by section 104(b) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -203,6 +205,8 @@ Subsecs. (e), (f). Pub. L. 115–52, §904(a)(2)(A), redesignated subsecs. (c) a
 Subsec. (b). Pub. L. 112–144, §104(2), substituted "2013" for "2008".
 
 Subsec. (d)(1), (5). Pub. L. 112–144, §104(3), substituted "2017" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

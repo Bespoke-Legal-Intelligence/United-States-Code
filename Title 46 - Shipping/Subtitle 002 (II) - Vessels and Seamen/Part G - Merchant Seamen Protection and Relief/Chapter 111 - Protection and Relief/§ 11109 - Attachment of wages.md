@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Section 11109 limits the attachment of a seaman's wages and establishes certain rules for the assignment of a seaman's wages. It also applies to fishermen on fishing vessels.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–364 substituted "an individual employed on a fishing vessel or any fish processing vessel" for "a fisherman on a fishing vessel".

@@ -16,6 +16,8 @@ The purposes of this chapter are—
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2553, §1401; amended Pub. L. 100–48, §5, June 1, 1987, 101 Stat. 331; renumbered §3001, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 3001 was renumbered section 5101 of this title.
@@ -26,9 +28,11 @@ Prior section 3001 was renumbered section 5101 of this title.
 
 <b>1987</b>—Pars. (2) to (6). Pub. L. 100–48 added pars. (2), (3), and (6), redesignated former pars. (2) and (3) as (4) and (5), respectively, struck out "and" after "Forces;" in par. (4), and substituted "Forces; and" for "Forces." in par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Department of Veterans Affairs High Technology Pilot Program
 
-Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371, provided that:
+Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 116–315, title IV, §4302, Jan. 5, 2021, 134 Stat. 5017, provided that:
 
 "(a)
 
@@ -36,7 +40,7 @@ Pilot Program.—The Secretary of Veterans Affairs shall carry out a pilot progr
 
 "(b)
 
-Eligibility.—For purposes of the pilot program under this section, an eligible veteran is a veteran who is entitled to educational assistance under chapter 30, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
+Eligibility.—For purposes of the pilot program under this section, an eligible veteran is a veteran who is entitled to educational assistance under chapter 30, 32, 33, 34, or 35 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code. The Secretary shall treat an individual as an eligible veteran if the Secretary determines that the individual shall become an eligible veteran fewer than 180 days after the date of such determination. If an individual treated as an eligible veteran by reason of the preceding sentence does anything to make the veteran ineligible during the 180-day period referred to in such sentence, the Secretary may require the veteran to repay any benefits received by such veteran by reason of such sentence.
 
 "(c)
 
@@ -60,7 +64,7 @@ Payment of contractors.—A contract under this subsection shall provide that th
 
 Qualified providers.—For purposes of the pilot program, a provider of a high technology program of education is qualified if—
 
-&emsp;&emsp;"(A) the provider has been operational for at least 2 years;
+&emsp;&emsp;"(A) the provider employs instructors whom the Secretary determines are experts in their respective fields in accordance with paragraph (6);
 
 &emsp;&emsp;"(B) the provider has successfully provided the high technology program for at least 1 year; and
 
@@ -78,9 +82,21 @@ Tuition reimbursement.—In entering into contracts to carry out the pilot progr
 
 &emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the 180-day period beginning on the date the student completes the program.
 
+&emsp;"(6)
+
+Experts.—The Secretary shall determine whether instructors are experts under paragraph (3)(A) based on evidence furnished to the Secretary by the provider regarding the ability of the instructors to—
+
+&emsp;&emsp;"(A) identify professions in need of new employees to hire, tailor the programs to meet market needs, and identify the employers likely to hire graduates;
+
+&emsp;&emsp;"(B) effectively teach the skills offered to eligible veterans;
+
+&emsp;&emsp;"(C) provide relevant industry experience in the fields of programs offered to incoming eligible veterans; and
+
+&emsp;&emsp;"(D) demonstrate relevant industry experience in such fields of programs.
+
 "(d)
 
-Housing Stipend.—The Secretary shall pay to each eligible veteran who is enrolled in a high technology program of education under the pilot program on a full-time basis a monthly housing stipend equal to the product—
+Housing Stipend.—The Secretary shall pay to each eligible veteran (not including an individual described in the second sentence of subsection (b)) who is enrolled in a high technology program of education under the pilot program on a full-time or part-time basis a monthly housing stipend equal to the product—
 
 &emsp;"(1) of—
 
@@ -146,9 +162,13 @@ Final report.—Not later than 5 years after the date on which the Secretary fir
 
 "(g)
 
-Authorization of Appropriations.—For each fiscal year during which the Secretary carries out a pilot program under this section, $15,000,000 shall be made available for such purpose from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
+Authorization of Appropriations.—For each fiscal year during which the Secretary carries out a pilot program under this section, $45,000,000 shall be made available for such purpose from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
 
 "(h)
 
-Termination.—The authority to carry out a pilot program under this section shall terminate on the date that is 5 years after the date on which the Secretary first enters into a contract under this section."
+Termination.—The authority to carry out a pilot program under this section shall terminate on the date that is 5 years after the date on which the Secretary first enters into a contract under this section.
+
+"(i)
+
+Prohibition on Certain Accounting of Assistance.—The Secretary may not consider enrollment in a high technology program of education under this section to be assistance under a provision of law referred to in section 3695 of title 38, United States Code."
 

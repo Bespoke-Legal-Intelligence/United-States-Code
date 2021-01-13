@@ -28,6 +28,8 @@ Family home daycare.—The term "family home daycare" means home-based child car
 
 (Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3031, §551; renumbered §2921, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Child Abuse Prevention and Treatment Act, referred to in par. (1), is section 3 of Pub. L. 93–247, which is set out as a note under section 5101 of Title 42, The Public Health and Welfare.

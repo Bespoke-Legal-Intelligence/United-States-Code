@@ -6,6 +6,8 @@
 
 (June 25, 1938, ch. 676, §10, 52 Stat. 1065; Aug. 12, 1955, ch. 867, §5(f), 69 Stat. 712; Pub. L. 85–791, §22, Aug. 28, 1958, 72 Stat. 948; Pub. L. 93–259, §5(c)(2), Apr. 8, 1974, 88 Stat. 58.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 208 of this title, referred to in subsec. (a), was repealed by Pub. L. 110–28, title VIII, §8103(c)(1)(A), May 25, 2007, 121 Stat. 189.
@@ -14,17 +16,15 @@ Section 208 of this title, referred to in subsec. (a), was repealed by Pub. L. 1
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–259 inserted "(including provision for the payment of an appropriate minimum wage rate)" in third sentence after "modify".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the court the record of the industry committee" for "served upon the Secretary, and thereupon the Secretary shall certify and file in the court a transcript of the record" in second sentence, and inserted "as provided in section 2112 of title 28", and substituted "petition" for "transcript" in third sentence.
+<b>1958</b>—Subsec. (a). Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary, andthereupon the Secretary shall file in the court the record of the industry committee" for "served upon the Secretary, and thereupon the Secretary shall certify and file in the court a transcript of the record" in second sentence, and inserted "as provided in section 2112 of title 28", and substituted "petition" for "transcript" in third sentence.
 
 <b>1955</b>—Subsec. (a). Act Aug. 12, 1955, amended subsec. (a) generally to make subsection conform to new procedure applicable to Puerto Rico and Virgin Islands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Definition of "Administrator"
 
@@ -33,6 +33,12 @@ The term "Administrator" as meaning the Administrator of the Wage and Hour Divis
 #### Definition of "Secretary"
 
 The term "Secretary" as meaning the Secretary of Labor, see section 6 of act Aug. 12, 1955, set out as a note under section 204 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,13 +10,13 @@ During any marketing year for which a wheat marketing allocation program is in e
 
 #### (c) Undertaking to secure marketing of commodity without certificate
 
-Upon the giving of a bond or other undertaking satisfactory to the Secretary to securethe purchase of and payment for such marketing certificates as may be required, and subject to such regulations as he may prescribe, any person required to have marketing certificates in order to market or export a commodity may be permitted to market any such commodity without having first acquired marketing certificates.
+Upon the giving of a bond or other undertaking satisfactory to the Secretary to secure the purchase of and payment for such marketing certificates as may be required, and subject to such regulations as he may prescribe, any person required to have marketing certificates in order to market or export a commodity may be permitted to market any such commodity without having first acquired marketing certificates.
 
 #### (d) "Food products" defined; exemption of flour second clears
 
 As used in this part, the term "food products" means flour (excluding flour second clears not used for human consumption as determined by the Secretary), semolina, farina, bulgur, beverage, and any other product composed wholly or partly of wheat which the Secretary may determine to be a food product. The Secretary may at his election administer the exemption for wheat processed into flour second clears through refunds either to processors of such wheat or to the users of such clears. For the purpose of such refunds, the wheat equivalent of flour second clears may be determined on the basis of conversion factors authorized by section 1379f of this title, even though certificates had been surrendered on the basis of the weight of the wheat.
 
-(Feb. 16, 1938, ch. 30, title III, §379d, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 88–297, title II, §202(15)–(17), Apr. 11, 1964, 78 Stat. 181, 182; Pub. L. 89–321, title V, §§504(a)–(c), 513(a), Nov. 3, 1965, 79 Stat. 1202, 1203, 1205; Pub. L. 91–524, title IV, §403(a)(1), (2), formerly §403(1), (2), Nov. 30, 1970, 84 Stat. 1366, as renumbered Pub. L. 93–86, §1(10), Aug. 10, 1973, 87 Stat. 228.)
+(Feb. 16, 1938, ch. 30, title III, §379d, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 628; amended Pub. L. 88–297, title II, §202(15)–(17), Apr. 11, 1964, 78 Stat. 181, 182; Pub. L. 89–321, title V, §§504(a)–(c), 513(a), Nov. 3, 1965,79 Stat. 1202, 1203, 1205; Pub. L. 91–524, title IV, §403(a)(1), (2), formerly §403(1), (2), Nov. 30, 1970, 84 Stat. 1366, as renumbered Pub. L. 93–86, §1(10), Aug. 10, 1973, 87 Stat. 228.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ Pub. L. 91–524, title IV, §403(a), formerly §403, Nov. 30, 1970, 84 Stat. 13
 
 Pub. L. 89–321, title V, §504(a), Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 504(a) of Pub. L. 89–321 is effective upon the enactment of Pub. L. 89–321 (Nov. 3, 1965).
 
-Pub. L. 89–321, title V, §504(b), Nov. 3, 1965, 79 Stat. 1202, provided in part that: "This subsection \[amendingthis section\] shall be effective as to products sold, or removed for sale or consumption on or after sixty days following enactment of this Act \[Nov. 3, 1965\], unless the Secretary shall by regulation designate an earlier effective date within such sixty-day period."
+Pub. L. 89–321, title V, §504(b), Nov. 3, 1965, 79 Stat. 1202, provided in part that: "This subsection \[amending this section\] shall be effective as to products sold, or removed for sale or consumption on or after sixty days following enactment of this Act \[Nov. 3, 1965\], unless the Secretary shall by regulation designate an earlier effective date within such sixty-day period."
 
 #### Inapplicability of Section
 

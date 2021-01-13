@@ -12,7 +12,7 @@ No grant may be made under section (a) <sup>1</sup> unless an application there
 
 &emsp;(2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>1</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>1</sup> of this title;
+&emsp;(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup>2</sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup>2</sup> of this title;
 
 &emsp;(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
@@ -84,9 +84,25 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 &emsp;(B) demonstration projects for the prevention and control of such diseases;
 
-&emsp;(C) public information and education programs for the prevention and control of such diseases; and
+&emsp;(C) public information and education programs for the prevention and control of such diseases;
 
-&emsp;(D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel).
+&emsp;(D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel);
+
+&emsp;(E) planning, implementation, and evaluation of activities to address vaccine-preventable diseases, including activities to—
+
+&emsp;&emsp;(i) identify communities at high risk of outbreaks related to vaccine-preventable diseases, including through improved data collection and analysis;
+
+&emsp;&emsp;(ii) pilot innovative approaches to improve vaccination rates in communities and among populations with low rates of vaccination;
+
+&emsp;&emsp;(iii) reduce barriers to accessing vaccines and evidence-based information about the health effects of vaccines;
+
+&emsp;&emsp;(iv) partner with community organizations and health care providers to develop and deliver evidence-based interventions, including culturally and linguistically appropriate interventions, to increase vaccination rates;
+
+&emsp;&emsp;(v) improve delivery of evidence-based vaccine-related information to parents and others; and
+
+&emsp;&emsp;(vi) improve the ability of State, local, Tribal, and territorial public health departments to engage communities at high risk for outbreaks related to vaccine-preventable diseases, including, as appropriate, with local educational agencies, as defined in section 7801 of title 20; and
+
+&emsp;(F) research related to strategies for improving awareness of scientific and evidence-based vaccine-related information, including for communities with low rates of vaccination, in order to understand barriers to vaccination, improve vaccination rates, and assess the public health outcomes of such strategies.
 
 (2) The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
@@ -106,7 +122,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (1) In general
 
-&emsp;The Secretary may negotiate and enter into contracts with manufacturers of vaccines for the purchase and delivery of vaccines for adults as provided for under subsection (e).
+&emsp;The Secretary may negotiate and enter into contracts with manufacturers of vaccines forthe purchase and delivery of vaccines for adults as provided for under subsection (e).
 
 #### (2) State purchase
 
@@ -154,13 +170,17 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (6) Report to Congress
 
-&emsp;Not later than 4 years after March 23, 2010,<sup>1</sup> the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
+&emsp;Not later than 4 years after March 23, 2010,<sup>2</sup> the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
 
 #### (7) Authorization of appropriations
 
 &emsp;There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
+#### (n) Vaccination data
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
+
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572; Pub. L. 116–260, div. BB, title III, §311(b), Dec. 27, 2020, 134 Stat. 2924.)
 
 #### References in Text
 
@@ -171,6 +191,10 @@ Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L
 March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (k)(1)(E), (F). Pub. L. 116–260, §311(b)(1), added subpars. (E) and (F).
+
+Subsec. (n). Pub. L. 116–260, §311(b)(2), added subsec. (n).
 
 <b>2010</b>—Subsec. (j)(1). Pub. L. 111–148, §4204(c)(1), struck out "for each of the fiscal years 1998 through 2005" after "necessary".
 
@@ -188,7 +212,7 @@ Subsec. (j)(2). Pub. L. 105–392, §303(2), substituted "1997" for "1990".
 
 Subsec. (k)(2). Pub. L. 103–183, §301(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
-&emsp;"(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs andresearch concerning cases of tuberculosis that affect certain populations;
+&emsp;"(A) research into the prevention, control, and elimination of tuberculosis, especially research concerning strains of tuberculosis resistant to drugs and research concerning cases of tuberculosis that affect certain populations;
 
 &emsp;"(B) demonstration projects for the prevention, control, and elimination of tuberculosis;
 
@@ -300,7 +324,7 @@ Pub. L. 94–317, title II, §202(a), Nov. 10, 1978, 92 Stat. 3574, provided tha
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes under sections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
+Pub. L. 94–63, title VI, §608, July 29, 1975, 89 Stat. 352, provided that: "Except as may otherwise be specifically provided, the amendments made by this title \[enacting sections 300c–21 and 300c–22 of this title, amending this section, and enacting provisions set out as notes undersections 289, 289k–2, and 1395x of this title\] and by titles I \[amending section 246 of this title and enacting provisions set out as notes under section 246 of this title\], II \[enacting sections 300a–6a and 300a–8 of this title, amending sections 300 and 300a–1 to 300a–4 of this title, repealing section 3505c of this title, and enacting provision set out as a note under section 300 of this title\], III \[enacting sections 2689 to 2689aa of this title, amending sections 2691 and 2693 to 2696 of this title, and enacting provisions set out as notes under section 2689 of this title\], IV \[amending sections 218 and 254b of this title and enacting provision set out as a note under section 254b of this title\], and V \[enacting section 254c of this title and amending section 246 of this title\] of this Act shall take effect July 1, 1975. The amendments made by this title and by such titles to the provisions of law amended by this title and by such titles are made to such provisions as amended by title VII of this Act \[amending sections 246, 254b, 300, 300a–1 to 300a–3 of this title and sections 2681, 2687, 2688a, 2688d, 2688j–1, 2688j–2, 2688l, 2688l–1, 2688n–1, 2688o, and 2688u of this title\]."
 
 #### Effective Date of 1972 Amendment
 
@@ -320,5 +344,5 @@ Pub. L. 94–380, §3, Aug. 12, 1976, 90 Stat. 1118, directed Secretary to condu
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (a)".</i>
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

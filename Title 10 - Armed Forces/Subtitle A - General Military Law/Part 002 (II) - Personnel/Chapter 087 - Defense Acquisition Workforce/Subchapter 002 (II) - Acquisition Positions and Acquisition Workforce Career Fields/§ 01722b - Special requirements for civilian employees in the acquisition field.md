@@ -22,7 +22,7 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 Key Work Experiences.—In carrying out subsection (b)(2), the Secretary shall ensure that key work experiences, in the form of multidisciplinary experiences, are developed for each acquisition workforce career field.
 
-(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–91, div. A, title X, §1051(a)(8), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 116–92, div. A, title VIII, §861(g)(1), title IX, §902(17), Dec. 20, 2019, 133 Stat. 1518, 1545.)
+(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–91, div. A, title X, §1051(a)(8), Dec. 12, 2017, 131 Stat. 1560; Pub. L.116–92, div. A, title VIII, §861(g)(1), title IX, §902(17), Dec. 20, 2019, 133 Stat. 1518, 1545.)
 
 #### Amendments
 

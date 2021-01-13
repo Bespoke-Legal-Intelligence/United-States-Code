@@ -68,21 +68,15 @@
 
 &emsp;(B) such employee shall be credited with a period of civilian service equal to the period referred to in subsection (b)(2)(B).
 
-(2)(A) An employee to whom this section applies may elect, for purposes of section 8433(d), or paragraph (1) or (2) of section 8433(h),<sup>1</sup> as the case may be, to have such employee's separation (described in subsection (a)(1)) treated as if it had never occurred.
+(2)(A) An employee to whom this section applies may elect, for purposes of subsection (d) or (f) of section 8433, as the case may be, to have such employee's separation (described in subsection (a)(1)) treated as if it had never occurred.
 
-(B) An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) andotherwise in such manner as the Executive Director prescribes.
+(B) An election under this paragraph shall be made within such period of time after restoration or reemployment (as the case may be) and otherwise in such manner as the Executive Director prescribes.
 
 (i) The Executive Director shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671; Pub. L. 114–92, div. A, title VI, §632(e)(2), Nov. 25, 2015, 129 Stat. 847; Pub. L. 115–84, §2(e), Nov. 17, 2017, 131 Stat. 1273.)
 
-#### Amendment of Subsection (h)(2)(A)
-
-<i>Pub. L. 115–84, §2(e), (g), Nov. 17, 2017, 131 Stat. 1273, provided that, effective on the date on which the regulations prescribed under section 2(f) of Pub. L. 115–84 (set out as a note under section 8433 of this title) take effect, subsection (h)(2)(A) of this section is amended by striking "section 8433(d), or paragraph (1) or (2) of section 8433(h)" and inserting "subsection (d) or (f) of section 8433". See 2017 Amendment note below.</i>
-
-#### References in Text
-
-Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -94,9 +88,11 @@ Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433
 
 Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title\] take effect."
+Pub. L. 115–84, §2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: "The amendments made by this section \[amending this section and section 8433 of this title\] shall take effect on the date on which the regulations prescribed under subsection (f) \[section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title\] take effect \[Sept. 15, 2019; see 84 FR 46419\]."
 
 #### Effective Date of 2015 Amendment; Implementation
 
@@ -120,7 +116,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 "(f)
 
-Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—Inthe case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
 
 &emsp;"(1) The employee shall be deemed not to have been reemployed or restored until—
 
@@ -137,6 +133,4 @@ Rules for Applying Amendments to Employees Restored or Reemployed Before Effecti
 &emsp;"(B) The period described in this subparagraph is the period beginning on the first day of the first applicable pay period beginning on or after the date of the employee's actual reemployment or restoration and ending on the day before the date determined under paragraph (1).
 
 &emsp;"(4) Deem section 8432b(b)(2)(A) of such title to be amended by striking 'ending on the day before the date of restoration or reemployment (as applicable)' and inserting 'ending on the date determined under section 4(f)(1) of the Uniformed Services Employment and Reemployment Rights Act of 1994'."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

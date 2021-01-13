@@ -16,7 +16,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(4) if the applicant is a partnership, corporation, association, or other business entity, the following where applicable: the names and addresses of every officer, partner, director, or person performing a function similar to a director, of the applicant, together with the name and address of any person owning, of record 10 per centum or more of any class of voting stock of the applicant and a list of all names under which the applicant, partner, or principal shareholder previously operated a surface mining operation within the United States within the five-year period preceding the date of submission of the application;
 
-&emsp;(5) a statement of whether the applicant, any subsidiary, affiliate, or persons controlled by or under common control with the applicant, has ever held a Federal or State mining permit which in the five-year period prior to the date of submission of the application has been suspended or revoked or has had a mining bond or similar security deposited in lieu ofbond forefeited <sup>1</sup> and, if so, a brief explanation of the facts involved;
+&emsp;(5) a statement of whether the applicant, any subsidiary, affiliate, or persons controlled by or under common control with the applicant, has ever held a Federal or State mining permit which in the five-year period prior to the date of submission of the application has been suspended or revoked or has had a mining bond or similar security deposited in lieu of bond forefeited <sup>1</sup> and, if so, a brief explanation of the facts involved;
 
 &emsp;(6) a copy of the applicant's advertisement to be published in a newspaper of general circulation in the locality of the proposed site at least once a week for four successive weeks, and which includes the ownership, a description of the exact location and boundaries of the proposed site sufficient so that the proposed operation is readily locatable by local residents, and the location of where the application is available for public inspection;
 
@@ -70,7 +70,7 @@ Each applicant for a surface coal mining and reclamation permit shall file a cop
 
 #### (f) Insurance certificate
 
-Each applicant for a permit shall be required to submit to the regulatory authority as part of the permit application a certificate issued by an insurance company authorized to do business in the United States certifying that the applicant has a public liability insurance policy in force for the surface mining and reclamation operations for which such permit is sought, or evidence that the applicant has satisfied other State or Federal self-insurance requirements. Such policy shall provide for personal injury and property damage protection in an amount adequate to compensate any persons damaged as a result of surface coal mining and reclamation operations including use of explosives and entitled to compensation under the applicable provisions of State law. Such policy shall be maintained in full force and effect during the terms of the permit or any renewal, including the length of all reclamation operations.
+Each applicant for a permit shall be required to submit to the regulatory authority as part ofthe permit application a certificate issued by an insurance company authorized to do business in the United States certifying that the applicant has a public liability insurance policy in force for the surface mining and reclamation operations for which such permit is sought, or evidence that the applicant has satisfied other State or Federal self-insurance requirements. Such policy shall provide for personal injury and property damage protection in an amount adequate to compensate any persons damaged as a result of surface coal mining and reclamation operations including use of explosives and entitled to compensation under the applicable provisions of State law. Such policy shall be maintained in full force and effect during the terms of the permit or any renewal, including the length of all reclamation operations.
 
 #### (g) Blasting plan
 
@@ -82,6 +82,8 @@ A coal operator that has received assistance pursuant to subsection (c)(1) or (2
 
 (Pub. L. 95–87, title V, §507, Aug. 3, 1977, 91 Stat. 474; Pub. L. 101–508, title VI, §6011, Nov. 5, 1990, 104 Stat. 1388–297; Pub. L. 102–486, title XXV, §2513, Oct. 24, 1992, 106 Stat. 3112.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486, §2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority."
@@ -90,17 +92,21 @@ Subsec. (h). Pub. L. 102–486, §2513(b), added subsec. (h).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted "300,000" for "100,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under section 1231 of this title.
 
 #### Discretionary Offsetting Collections
 
-Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: "That, in subsequent fiscal years \[after fiscal year 2014\], all amounts collected by the Office of Surface Mining from permit fees pursuant tosection 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account \[
+Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: "That, in subsequent fiscal years \[after fiscal year 2014\], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 (30 U.S.C. 1257) shall be credited to this account \[
 
 Office of Surface Mining Reclamation and Enforcement—regulation and technology\] as discretionary offsetting collections, to remain available until expended."
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
 
 Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2697.
 

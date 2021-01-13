@@ -30,7 +30,7 @@ For purposes of this section:
 
 #### (B) Other activities
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Board shall require a grandfathered unitarysavings and loan holding company to establish an intermediate holding company if the Board makes a determination that the establishment of such intermediate holding company is necessary—
+&emsp;&emsp;Notwithstanding subparagraph (A), the Board shall require a grandfathered unitary savings and loan holding company to establish an intermediate holding company if the Board makes a determination that the establishment of such intermediate holding company is necessary—
 
 &emsp;&emsp;&emsp;(i) to appropriately supervise activities that are determined to be financial activities; or
 
@@ -44,7 +44,7 @@ For purposes of this section:
 
 #### (B) Grandfathered activities
 
-&emsp;&emsp;A grandfathered unitary savings and loan holding company may continue to engage in an internal financial activity, subject to review by the Board to determine whether engaging in such activity presents undue risk to the grandfathered unitary savings and loan holding company or to the financial stability of the United States, if—
+&emsp;&emsp;A grandfathered unitary savings and loan holding company may continue to engage inan internal financial activity, subject to review by the Board to determine whether engaging in such activity presents undue risk to the grandfathered unitary savings and loan holding company or to the financial stability of the United States, if—
 
 &emsp;&emsp;&emsp;(i) the grandfathered unitary savings and loan holding company engaged in the activity during the year before July 21, 2010; and
 
@@ -92,11 +92,15 @@ The Board—
 
 (June 13, 1933, ch. 64, §10A, as added Pub. L. 111–203, title VI, §626, July 21, 2010, 124 Stat. 1638.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The transfer date, referred to in subsec. (b)(1)(A), probably means the transfer date defined in section 5301 of this title.
 
 The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

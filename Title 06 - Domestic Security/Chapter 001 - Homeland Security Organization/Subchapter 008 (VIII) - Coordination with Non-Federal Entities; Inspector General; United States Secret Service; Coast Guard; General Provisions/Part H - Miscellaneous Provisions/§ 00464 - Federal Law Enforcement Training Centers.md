@@ -116,7 +116,7 @@ The Director shall—
 
 #### (9) Reimbursement
 
-&emsp;The Director is authorized to reimburse travel or other expenses for non-Federal personnel who attend activities related to training sponsored by FLETC, at travel and per diem rates established by the General Services Administration.
+&emsp;The Director is authorized to reimburse travel or other expenses for non-Federal personnel who attend activities related to training sponsored by FLETC, at travel and perdiem rates established by the General Services Administration.
 
 #### (10) Student support
 
@@ -252,6 +252,8 @@ No funds are authorized to carry out this section. This section shall be carried
 
 (Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247; Pub. L. 111–245, §2(a)(3), Sept. 30, 2010, 124 Stat. 2621; Pub. L. 114–285, §2(a), Dec. 16, 2016, 130 Stat. 1453; Pub. L. 115–278, §2(g)(5)(A), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(4)(A)(ii). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department".
@@ -259,6 +261,8 @@ No funds are authorized to carry out this section. This section shall be carried
 <b>2016</b>—Pub. L. 114–285 amended section generally. Prior to amendment, section related to the Federal Law Enforcement Training Center.
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–245 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

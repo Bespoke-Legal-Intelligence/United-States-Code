@@ -4,6 +4,8 @@ Each lease shall describe the leased lands by the legal subdivisions of the publ
 
 (Feb. 25, 1920, ch. 85, §10, 41 Stat. 440; June 3, 1948, ch. 379, §3, 62 Stat. 290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1948</b>—Act June 3, 1948, amended section generally, omitting provisions relating to amount of lands in lease, and inserting provisions regarding royalties.

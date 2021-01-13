@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—POSTAL SERVICES, COMPLAINTS, AND JUDICIAL REVIEW
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter V was redesignated subchapter VI of this chapter.

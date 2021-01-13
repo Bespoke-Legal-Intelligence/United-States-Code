@@ -11,13 +11,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Separability
 
 Act June 30, 1949, ch. 288, title VI, §604, formerly title V, §504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: "If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."
 
 #### Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment
 
-Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, provided that:
+Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, as amended by Pub. L. 116–283, div. A, title X, §1081(d)(5), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 "(a)
 
@@ -35,7 +37,7 @@ Prohibition on Use or Procurement.—(1) The head of an executive agency may not
 
 "(b)
 
-Prohibition on Loan and Grant Funds.—(1) The head of an executive agency may not obligate or expend loan or grant funds to procure or obtain, extend or renew a contract to procure or obtain, or enter into acontract (or extend or renew a contract) to procure or obtain the equipment, services, or systems described in subsection (a).
+Prohibition on Loan and Grant Funds.—(1) The head of an executive agency may not obligate or expend loan or grant funds to procure or obtain, extend or renew a contract to procure or obtain, or enter into a contract (or extend or renew a contract) to procure or obtain the equipment, services, or systems described in subsection (a).
 
 "(2) In implementing the prohibition in paragraph (1), heads of executive agencies administering loan, grant, or subsidy programs, including the heads of the Federal Communications Commission, the Department of Agriculture, the Department of Homeland Security, the Small Business Administration, and the Department of Commerce, shall prioritize available funding and technical support to assist affected businesses, institutions and organizations as is reasonably necessary for those affected entities to transition from covered communications equipment and services, to procure replacement equipment and services, and to ensure that communications service to users and customers is sustained.
 
@@ -71,7 +73,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Appropriate congressional committees.—The term 'appropriate congressional committees' ' \[sic\] means—
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
 &emsp;&emsp;"(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
@@ -96,6 +98,8 @@ Covered telecommunications equipment or services.—The term 'covered telecommun
 &emsp;"(4)
 
 Executive agency.—The term 'executive agency' has the meaning given the term in section 133 of title 41, United States Code."
+
+\[Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(5) of Pub. L. 116–283 to section 889 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.\]
 
 #### Share-in-Savings Contracts
 
@@ -185,7 +189,7 @@ Ex. Ord. No. 13496, Jan. 30, 2009, 74 F.R. 6107, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
 
-Section 1. <i>Policy</i>. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods or services, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers' productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 <i>et seq</i>. As the Act recognizes, "encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection" will "eliminate the causes of certain substantial obstructions to the free flow of commerce" and "mitigate and eliminate these obstructions when they have occurred." 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government's contracts.
+Section 1. <i>Policy</i>. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods orservices, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers' productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 <i>et seq</i>. As the Act recognizes, "encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection" will "eliminate the causes of certain substantial obstructions to the free flow of commerce" and "mitigate and eliminate these obstructions when they have occurred." 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government's contracts.
 
 Sec. 2. <i>Contract Clause</i>. Except in contracts exempted in accordance with section 3 of this order, all Government contracting departments and agencies shall, to the extent consistent with law, include the following provisions in every Government contract, other than collective bargaining agreements as defined in 5 U.S.C. 7103(a)(8) and purchases under the simplified acquisition threshold as defined in the Office of Federal Procurement Policy Act, 41 U.S.C. 403.
 
@@ -195,7 +199,7 @@ Sec. 2. <i>Contract Clause</i>. Except in contracts exempted in accordance with 
 
 "3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]. Such other sanctions or remedies may be imposed as are provided in Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\], or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
-"4. The contractor will include the provisions of paragraphs (1) through (3) above in every subcontract entered into in connection with this contract (unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]) so that suchprovisions will be binding upon each subcontractor. The contractor will take such action with respect to any such subcontract as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non-compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
+"4. The contractor will include the provisions of paragraphs (1) through (3) above in every subcontract entered into in connection with this contract (unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]) so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any such subcontract as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non-compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
 
 Sec. 3. <i>Administration</i>.
 
@@ -225,7 +229,7 @@ Sec. 6. <i>Compliance</i>.
 
 Sec. 7. <i>Remedies</i>. In accordance with such rules, regulations, or orders as the Secretary may issue or adopt, the Secretary may:
 
-(a) after consulting with the contracting department or agency, direct that department or agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor to comply with the contractual provisions required by section 2 of this order; contracts may be cancelled, terminated, or suspended absolutely, or continuance of contracts may be conditioned upon future compliance: Provided, that before issuing a directive under this subsection, the Secretary shall provide the head of the contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that completion of the contract is essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of the contracting department or agency, or his or her designee, continues to object to the issuance of such directive;
+(a) after consulting with the contracting department or agency, direct that department or agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor to comply with the contractual provisions required by section 2 of this order; contracts may be cancelled, terminated, or suspended absolutely, or continuance of contracts may be conditioned upon future compliance: Provided, that before issuing a directive under this subsection, theSecretary shall provide the head of the contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that completion of the contract is essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of the contracting department or agency, or his or her designee, continues to object to the issuance of such directive;
 
 (b) after consulting with each affected contracting department or agency, provide that one or more contracting departments or agencies shall refrain from entering into further contracts, or extensions or other modifications of existing contracts, with any noncomplying contractor, until such contractor has satisfied the Secretary that such contractor has complied with and will carry out the provisions of this order: Provided, that before issuing a directive under this subsection, the Secretary shall provide the head of each contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that further contracts or extensions or other modifications of existing contracts with the noncomplying contractor are essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of a contracting department or agency, or his or her designee, continues to object to the issuance of such directive; and
 
@@ -239,7 +243,7 @@ Sec. 10. <i>Sufficiency of Remedies</i>. If the Secretary finds that the authori
 
 Sec. 11. <i>Delegation</i>. The Secretary may, in accordance with law, delegate any function or duty of the Secretary under this order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.
 
-Sec. 12. <i>Implementation</i>. To the extent permitted by law, the Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and any related rules, regulations, or orders issued by the Secretary under thisorder and shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
+Sec. 12. <i>Implementation</i>. To the extent permitted by law, the Federal Acquisition Regulatory Council (FAR Council) shall take whatever action is required to implement in the Federal Acquisition Regulation (FAR) the provisions of this order and any related rules, regulations, or orders issued by the Secretary under this order and shall amend the FAR to require each solicitation of offers for a contract to include a provision that implements section 2 of this order.
 
 Sec. 13. <i>Revocation of Prior Order and Actions</i>. Executive Order 13201 of February 17, 2001, is revoked. The heads of executive departments and agencies shall, to the extent permitted by law, revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 13201.
 
@@ -305,7 +309,7 @@ Sec. 5. This order does not require an executive agency to use a project labor a
 
 Sec. 6. Within 120 days of the date of this order, the Federal Acquisition Regulatory Council (FAR Council), to the extent permitted by law, shall take whatever action is required to amend the Federal Acquisition Regulation to implement the provisions of this order.
 
-Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to bothconstruction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
+Sec. 7. The Director of OMB, in consultation with the Secretary of Labor and with other officials as appropriate, shall provide the President within 180 days of this order, recommendations about whether broader use of project labor agreements, with respect to both construction projects undertaken under Federal contracts and construction projects receiving Federal financial assistance, would help to promote the economical, efficient, and timely completion of such projects.
 
 Sec. 8. <i>Revocation of Prior Orders, Rules, and Regulations</i>. Executive Order 13202 of February 17, 2001, and Executive Order 13208 of April 6, 2001, are revoked. The heads of executive agencies shall, to the extent permitted by law, revoke expeditiously any orders, rules, or regulations implementing Executive Orders 13202 and 13208.
 

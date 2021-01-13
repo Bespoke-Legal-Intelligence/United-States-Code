@@ -50,6 +50,8 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title VIII, §822, Dec. 30, 2005, 119 Stat. 2941.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(3). Pub. L. 115–10, §838(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "any other United States space vehicle carrying humans that is owned by the Federal Government or that is being used pursuant to a contract with the Federal Government; or".

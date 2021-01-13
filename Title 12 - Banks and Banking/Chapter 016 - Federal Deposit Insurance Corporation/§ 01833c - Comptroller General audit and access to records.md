@@ -42,6 +42,8 @@ All persons and organizations which, by contract, grant, or otherwise, provide g
 
 (Pub. L. 101–73, title XII, §1213, Aug. 9, 1989, 103 Stat. 528.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1), (b), and (c)(2), is Pub. L. 101–73, Aug. 9, 1989, 103 Stat. 183, known as the Financial Institutions Reform, Recovery, and Enforcement Act of 1989. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 1811 of this title and Tables.

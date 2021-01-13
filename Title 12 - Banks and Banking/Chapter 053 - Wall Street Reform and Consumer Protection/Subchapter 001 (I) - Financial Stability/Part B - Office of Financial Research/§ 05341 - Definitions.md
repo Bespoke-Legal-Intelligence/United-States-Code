@@ -18,11 +18,13 @@ For purposes of this part—
 
 &emsp;&emsp;(B) includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valuation of the position;
 
-&emsp;(7) the term "financial contract" means a legally binding agreement between 2 or morecounterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
+&emsp;(7) the term "financial contract" means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
 
 &emsp;(8) the term "financial instrument" means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
 
 (Pub. L. 111–203, title I, §151, July 21, 2010, 124 Stat. 1412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

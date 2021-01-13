@@ -18,7 +18,7 @@ The Secretary may not make a grant or enter into a contract under this chapter w
 
 &emsp;(3) with respect to providing health services to any population of Native Hawaiians, a substantial portion of which has a limited ability to speak the English language—
 
-&emsp;&emsp;(A) has developed and has the ability to carry out a reasonable plan to provide health services under the grant or contractthrough individuals who are able to communicate with the population involved in the language and cultural context that is most appropriate; and
+&emsp;&emsp;(A) has developed and has the ability to carry out a reasonable plan to provide health services under the grant or contract through individuals who are able to communicate with the population involved in the language and cultural context that is most appropriate; and
 
 &emsp;&emsp;(B) has designated at least one individual, fluent in both English and the appropriate language, to assist in carrying out the plan;
 
@@ -46,7 +46,7 @@ The Secretary may not make a grant or enter into a contract under this chapter w
 
 (3) All contracts entered into by the Secretary under this chapter shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and may be exempted from the provisions of sections 3131 and 3133 of title 40.
 
-(4) Payments made under any contract entered into under this chapter may be made in advance, by means of reimbursement, or in installments and shall be made on such conditions as the Secretary deems necessary to carry out the purposes of this chapter.
+(4) Payments made under any contract entered into under this chapter may be made in advance,by means of reimbursement, or in installments and shall be made on such conditions as the Secretary deems necessary to carry out the purposes of this chapter.
 
 #### (e) Limitation on use of funds for administrative expenses
 

@@ -10,7 +10,7 @@ Regulations.—The Director shall prescribe regulations—
 
 &emsp;(3) establishing procedures for the submission of supplemental information after the petition is filed;
 
-&emsp;(4) establishing and governing a post-grant review under this chapter and the relationship of such review to other proceedings under this title;
+&emsp;(4) establishing and governing a post-grant review under this chapter and the relationshipof such review to other proceedings under this title;
 
 &emsp;(5) setting forth standards and procedures for discovery of relevant evidence, including that such discovery shall be limited to evidence directly related to factual assertions advanced by either party in the proceeding;
 
@@ -61,6 +61,8 @@ Scope of claims.—An amendment under this subsection may not enlarge the scope 
 Evidentiary Standards.—In a post-grant review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
 
 (Added Pub. L. 112–29, §6(d), Sept. 16, 2011, 125 Stat. 308.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

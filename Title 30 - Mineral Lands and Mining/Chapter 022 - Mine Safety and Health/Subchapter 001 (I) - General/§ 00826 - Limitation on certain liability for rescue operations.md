@@ -14,9 +14,11 @@ For purposes of subsection (a), the term "covered individual" means an individua
 
 #### (c) Regular employer
 
-For purposes of subsection (a), the term "regular employer" means the entity that is the covered employee's legal or statutory employer pursuant to applicable State law.
+For purposes of subsection (a), the term "regular employer" means the entity that is thecovered employee's legal or statutory employer pursuant to applicable State law.
 
 (Pub. L. 91–173, title I, §116, as added Pub. L. 109–236, §3, June 15, 2006, 120 Stat. 496.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

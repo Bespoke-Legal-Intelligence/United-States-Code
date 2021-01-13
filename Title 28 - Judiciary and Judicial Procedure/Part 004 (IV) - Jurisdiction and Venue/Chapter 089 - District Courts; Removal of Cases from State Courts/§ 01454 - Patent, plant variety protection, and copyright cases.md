@@ -26,6 +26,8 @@ Remand.—If a civil action is removed solely under this section, the district c
 
 (Added Pub. L. 112–29, §19(c)(1), Sept. 16, 2011, 125 Stat. 332.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable to any civil action commenced on or after Sept. 16, 2011, see section 19(e) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under section 1295 of this title.

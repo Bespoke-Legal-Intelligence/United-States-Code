@@ -36,7 +36,7 @@ For purposes of this section, the term "Federal financial assistance" means—
 
 For purposes of this section, the term "domestic building and loan association" has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.
 
-(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, §401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat.548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, §401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Subsection (a)(3).—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (a)(3) \[amending this section and repealingprovisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
+In general.—The amendments made by subsection (a)(3) \[amending this section and repealing provisions set out below\] shall apply to any amount received or accrued by the financial institution on or after May 10, 1989, except that such amendments shall not apply to transfers on or after such date pursuant to an acquisition to which the amendment made by subsection (a)(1) \[amending section 368 of this title\] does not apply.
 
 &emsp;"(B)
 
@@ -120,7 +120,7 @@ Pub. L. 97–34, title II, §246(c), Aug. 13, 1981, 95 Stat. 256, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Transfer of Functions
 

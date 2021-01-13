@@ -116,7 +116,7 @@ Subsec. (b)(4)(A)(i). Pub. L. 114–81, §102(a)(8), (9), struck out "or illegal
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
 
-Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[titleII, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 "(a)
 

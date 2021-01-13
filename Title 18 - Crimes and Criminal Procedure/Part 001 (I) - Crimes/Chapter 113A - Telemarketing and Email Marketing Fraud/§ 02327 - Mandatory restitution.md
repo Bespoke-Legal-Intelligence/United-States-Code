@@ -34,7 +34,9 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 Victim Defined.—In this section, the term "victim" has the meaning given that term in section 3663A(a)(2).
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, §205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, §601(n), Oct. 11,1996, 110 Stat. 3502; Pub. L. 105–184, §5, June 23, 1998, 112 Stat. 520.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Modification of Order.—A victim or the offender may petition the court at any 
 Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court."
 
 Subsec. (f). Pub. L. 104–132, §205(e)(4), redesignated subsec. (f) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

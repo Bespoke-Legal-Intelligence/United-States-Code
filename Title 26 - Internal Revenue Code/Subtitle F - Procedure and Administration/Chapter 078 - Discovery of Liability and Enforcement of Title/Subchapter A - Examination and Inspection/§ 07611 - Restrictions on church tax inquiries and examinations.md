@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) a description of the church records and activities which the Secretary seeks to examine,
 
-&emsp;&emsp;&emsp;(iii) an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve,concerns relating to such examination, and
+&emsp;&emsp;&emsp;(iii) an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve, concerns relating to such examination, and
 
 &emsp;&emsp;&emsp;(iv) a copy of all documents which were collected or prepared by the Internal Revenue Service for use in such examination and the disclosure of which is required by the Freedom of Information Act (5 U.S.C. 552).
 

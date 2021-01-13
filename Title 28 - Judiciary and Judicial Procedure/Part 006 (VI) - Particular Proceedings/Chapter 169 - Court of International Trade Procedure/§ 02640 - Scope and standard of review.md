@@ -24,6 +24,8 @@
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1736; amended Pub. L. 98–573, title II, §212(b)(5), Oct. 30, 1984, 98 Stat. 2984; Pub. L. 103–182, title VI, §684(a)(4), Dec. 8, 1993, 107 Stat. 2219.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 515 of the Tariff Act of 1930, referred to in subsec. (a)(1), is classified to section 1515 of Title 19, Customs Duties.
@@ -52,6 +54,8 @@ A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the d
 
 <b>1984</b>—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting "under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section" for "to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 1984, see section 214(d) of Pub. L. 98–573, set out as a note under section 1304 of Title 19, Customs Duties.
@@ -64,7 +68,7 @@ Subsec. (a)(6) of this section applicable with respect to civil actions commence
 
 #### Application of 1993 Amendment
 
-For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, formerly set out as a note under section 1581 of this title.
 
 #### Transfer of Functions
 

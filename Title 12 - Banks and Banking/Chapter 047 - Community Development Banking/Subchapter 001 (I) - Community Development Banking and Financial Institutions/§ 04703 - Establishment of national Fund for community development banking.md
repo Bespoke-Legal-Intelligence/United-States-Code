@@ -178,6 +178,8 @@ A community development financial institution or other organization that receive
 
 (Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, §2(w), Aug. 10, 2012, 126 Stat. 1289.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
@@ -189,6 +191,8 @@ Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) o
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end of first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

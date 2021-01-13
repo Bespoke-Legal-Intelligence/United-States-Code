@@ -70,7 +70,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (B) Reporting
 
-&emsp;&emsp;Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes of Health a report, to be included in the triennial report under section 283 of this title, on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
+&emsp;&emsp;Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes ofHealth a report, to be included in the triennial report under section 283 of this title, on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
 
 #### (C) Determination
 

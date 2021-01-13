@@ -10,11 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §428 (Mar. 4, 1909, ch. 321, §253, 35 Sta
 
 Words "subject to the jurisdiction of" which appeared twice in this section were omitted and "within" substituted, in view of section 5 of this title defining "United States".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208 substituted "10 years" for "five years".
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

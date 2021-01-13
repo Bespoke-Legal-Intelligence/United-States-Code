@@ -4,7 +4,7 @@ If the Secretary finds after reasonable notice and opportunity for hearing that 
 
 &emsp;(1) prevent withdrawals from the participating jurisdiction's HOME Investment Trust Fund for activities affected by such failure to comply;
 
-&emsp;(2) restrict the participating jurisdiction's activities under this subchapter to activities that conform to one or more model programsmade available under section 12743 of this title; or
+&emsp;(2) restrict the participating jurisdiction's activities under this subchapter to activities that conform to one or more model programs made available under section 12743 of this title; or
 
 &emsp;(3) remove the participating jurisdiction from participation in allocations or reallocations of funds made available under this part.
 

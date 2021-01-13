@@ -3884,6 +3884,8 @@ Rep.
 
 3901
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
 Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877, provided in part that: "Certain general and permanent laws of the United States, related to money and finance, are revised, codified, and enacted as title 31, United States Code, 'Money and Finance'. . . ."

@@ -14,6 +14,8 @@ Section 742 of the House amendment deletes a sentence contained in the Senate am
 
 Section 742 indicates that the automatic stay does not prevent SIPC from filing an application for a protective decree under SIPA. If SIPA does file such an application, then all bankruptcy proceedings are suspended until the SIPC action is completed. If SIPC completes liquidation of the stockbroker then the bankruptcy case is dismissed.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
@@ -23,6 +25,8 @@ The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 
 <b>1994</b>—Pub. L. 103–394 struck out "(15 U.S.C. 78aaa et seq.)" after "Act of 1970".
 
 <b>1982</b>—Pub. L. 97–222 substituted "title" for "chapter" after "all proceedings in the case under this".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

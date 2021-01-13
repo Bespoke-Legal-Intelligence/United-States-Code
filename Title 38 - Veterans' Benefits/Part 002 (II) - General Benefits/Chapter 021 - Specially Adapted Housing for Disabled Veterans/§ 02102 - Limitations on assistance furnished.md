@@ -14,15 +14,15 @@
 
 &emsp;(1) the actual cost, or, in the case of an individual acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
 
-&emsp;(2) $12,000.
+&emsp;(2) $19,733.
 
 (c) The amount of assistance afforded under subsection (a) for an individual authorized assistance by section 2101(a) of this title shall not be reduced by reason that title to the housing unit, which is vested in the individual, is also vested in any other person, if the individual resides in the housing unit.
 
-(d)(1) The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $63,780.
+(d)(1) The aggregate amount of assistance available to an individual under section 2101(a) of this title shall be limited to $98,492.
 
-(2) The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $12,756.
+(2) The aggregate amount of assistance available to an individual under section 2101(b) of this title shall be limited to $19,733.
 
-(3) No veteran may receive more than three grants of assistance under this chapter.
+(3) Subject to subsection (f), no veteran may receive more than six grants of assistance under this chapter.
 
 (e)(1) Effective on October 1 of each year (beginning in 2009), the Secretary shall increase the amounts described in subsection (b)(2) and paragraphs (1) and (2) of subsection (d) in accordance with this subsection.
 
@@ -34,13 +34,93 @@
 
 (3) The Secretary shall establish a residential home cost-of-construction index for the purposes of this subsection. The index shall reflect a uniform, national average change in the cost of residential home construction, determined on a calendar year basis. The Secretary may use an index developed in the private sector that the Secretary determines is appropriate for purposes of this subsection.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat. 398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861; Pub. L. 112–154, title II, §204(a), Aug. 6, 2012, 126 Stat. 1177.)
+(f)(1) Beginning October 1, 2030, notwithstanding the aggregate amounts specified in subsection (d), a covered veteran may apply for and receive an additional amount of assistance under subsection (a) or (b) of section 2101 of this title in an amount that does not exceed half of the amount specified in subsection (d).
+
+(2) In this subsection, a covered veteran is a veteran who—
+
+&emsp;(A) is described in subsection (a)(2) or (b)(2) of section 2101 of this title;
+
+&emsp;(B) as of the date of the veteran's application for assistance under paragraph (1), most recently received assistance under this chapter more than 10 years before such date; and
+
+&emsp;(C) lives in a home that the Secretary determines does not have adaptations that are reasonably necessary because of the veteran's disability.
+
+(g)(1) Whenever the Secretary finds that an overpayment has been made to, or on behalf of, a person described in paragraph (2), the Secretary shall determine—
+
+&emsp;(A) the amounts to recover, if any; and
+
+&emsp;(B) who is liable to the United States for such overpayment.
+
+(2) A person described in this paragraph is any of the following:
+
+&emsp;(A) An individual who applied for assistance—
+
+&emsp;&emsp;(i) under this chapter; or
+
+&emsp;&emsp;(ii) under chapter 31 of this title who is pursuing a rehabilitation program under such chapter in acquiring adaptations to a residence.
+
+&emsp;(B) An owner or seller of real estate used, or intended to be used, in connection with assistance under this chapter.
+
+&emsp;(C) A builder, contractor, supplier, tradesperson, corporation, trust, partnership, or other person, who provided services or goods relating to assistance under this chapter.
+
+&emsp;(D) An attorney, escrow agent, or financial institution, that receives, or holds in escrow, funds relating to assistance under this chapter.
+
+&emsp;(E) A surviving spouse, heir, assignee, or successor in interest of or to, any person described in this paragraph.
+
+(3)(A) Any overpayment referred to in this subsection may be recovered in the same manner as any other debt due the United States.
+
+(B) In recovering the overpayment, the Secretary may charge administrative costs, fees, and interest, as appropriate, in a manner similar to the authority under section 5315 of this title.
+
+(4)(A) The recovery of any overpayment referred to in this subsection may be waived by the Secretary.
+
+(B) Waiver of any such overpayment as to a person described in paragraph (2) shall in no way release any other person described in such paragraph from liability.
+
+(5) The Secretary shall waive recovery under this subsection of any overpayment to a person described in paragraph (2)(A), or a dependent or survivor of such person, that arises from administrative error described in paragraph (7)(A).
+
+(6) Nothing in this subsection shall be construed as precluding the imposition of any civil or criminal liability under this title or any other law.
+
+(7) The Secretary shall prescribe in regulations what constitutes an overpayment for the purposes of this subsection, which, at a minimum, shall include—
+
+&emsp;(A) administrative error that results in an individual receiving assistance to which that individual is not entitled;
+
+&emsp;(B) the failure of any person described in paragraph (2) to—
+
+&emsp;&emsp;(i) perform or allow to be performed any act relating to assistance under this chapter; or
+
+&emsp;&emsp;(ii) compensate any party performing services or supplying goods relating to assistance under this chapter; and
+
+&emsp;(C) any disbursement of funds relating to assistance under this chapter, that, in the sole discretion of the Secretary, constitutes a misuse of such assistance.
+
+(8) Prior to collecting an overpayment under this subsection, the Secretary shall provide to the person whom the Secretary has determined liable for such overpayment—
+
+&emsp;(A) notice of the finding by the Secretary of such overpayment;
+
+&emsp;(B) a reasonable opportunity for such person to remedy the circumstances that effectuated the overpayment; and
+
+&emsp;(C) a reasonable opportunity for such person to present evidence to the Secretary that an overpayment was not made.
+
+(9) For the purposes of section 511 of this title, a decision to collect an overpayment from a person other than a person described in paragraph (2)(A), or a dependent or survivor of such person, may not be treated as a decision that affects the provision of benefits.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §802; Pub. L. 91–22, §2, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §6, Oct. 23, 1970, 84 Stat. 1113; Pub. L. 92–341, July 10, 1972, 86 Stat. 432; Pub. L. 93–569, §9, Dec. 31, 1974, 88 Stat. 1867; Pub. L. 95–476, title I, §101, Oct. 18, 1978, 92 Stat. 1497; Pub. L. 96–385, title III, §301(b), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 97–66, title V, §502, Oct. 17, 1981, 95 Stat. 1032; Pub. L. 97–295, §4(33), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 98–543, title III, §304(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title IV, §401(b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–322, title III, §301, May 20, 1988, 102 Stat. 534; renumbered §2102 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–178, title VIII, §8204(a), June 9, 1998, 112 Stat. 494; Pub. L. 106–419, title III, §321, Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–103, title IV, §404, Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–183, title IV, §402(a), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 109–233, title I, §101(b), June 15, 2006, 120 Stat.398; Pub. L. 110–289, div. B, title VI, §§2602(b)(2), 2605(a), July 30, 2008, 122 Stat. 2859, 2861; Pub. L. 112–154, title II, §204(a), Aug. 6, 2012, 126 Stat. 1177; Pub. L. 116–154, §§3(a), (c)–(e), 4, Aug. 8, 2020, 134 Stat. 690, 691; Pub. L. 116–315, title II, §2104, Jan. 5, 2021, 134 Stat. 4982.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior section 2102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1223, related to determination of amount of mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 116–315 added subsec. (g).
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–154, §3(c), substituted "$19,733" for "$12,000".
+
+Subsec. (d)(1). Pub. L. 116–154, §3(d), substituted "$98,492" for "$63,780".
+
+Subsec. (d)(2). Pub. L. 116–154, §3(e), substituted "$19,733" for "$12,756".
+
+Subsec. (d)(3). Pub. L. 116–154, §3(a), substituted "Subject to subsection (f), no veteran" for "No veteran" and "six" for "three".
+
+Subsec. (f). Pub. L. 116–154, §4, added subsec. (f).
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–154 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -125,6 +205,12 @@ Subsec. (b). Pub. L. 96–385, §301(b)(3), added subsec. (b).
 <b>1970</b>—Par. (3). Pub. L. 91–506 inserted provision authorizing Administrator in the case of assistance to disabled veterans for specially adapted housing, where the veteran elects to remodel a dwelling not adapted to his disability, to pay the cost of remodeling as an alternative to the present provisions still set out in this par. which authorize the Administrator to pay the total of 50 percent of the remodeling cost plus 50 percent of the dwelling's cost or the full amount of the unpaid balance of the cost of such dwelling, whichever sum is smaller.
 
 <b>1969</b>—Pub. L. 91–22 substituted "$12,500" for "$10,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–154 effective Oct. 1, 2020, see section 3(f) of Pub. L. 116–154, set out as a note under section 2101 of this title.
 
 #### Effective Date of 2012 Amendment
 

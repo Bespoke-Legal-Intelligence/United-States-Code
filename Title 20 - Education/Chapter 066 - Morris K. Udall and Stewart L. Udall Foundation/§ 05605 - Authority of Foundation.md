@@ -6,7 +6,7 @@
 
 #### (A) General programming authority
 
-&emsp;&emsp;The Foundation is authorized to identify and conduct, directly or by contract, such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title, which may include—
+&emsp;&emsp;The Foundation is authorized to identify and conduct, directly or by contract, such programs, activities, and services as the Foundation considers appropriate to carryout the purposes described in section 5604 of this title, which may include—
 
 &emsp;&emsp;&emsp;(i) awarding scholarships, fellowships, internships, and grants, by national competition, to eligible individuals, as determined by the Foundation and in accordance with paragraphs (2), (3), and (4), for study in fields related to the environment or Native American and Alaska Native health care and tribal policy;
 
@@ -60,7 +60,7 @@
 
 &emsp;The Foundation shall—
 
-&emsp;&emsp;(A) identify and invite the participation of youth throughout the United States to enjoythe Nation's parks and wilderness and other outdoor areas, in an education program intended to carry out the purpose of paragraphs (1) and (2) of section 5604 of this title; and
+&emsp;&emsp;(A) identify and invite the participation of youth throughout the United States to enjoy the Nation's parks and wilderness and other outdoor areas, in an education program intended to carry out the purpose of paragraphs (1) and (2) of section 5604 of this title; and
 
 &emsp;&emsp;(B) provide training and education programs and activities to teach Federal employees, natural resource professionals, elementary and secondary school educators, and others to work with youth to promote the use and enjoyment of the Nation's parks and wilderness and other outdoor areas.
 
@@ -76,7 +76,7 @@
 
 #### (7) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for the papers of Morris K. Udall and Stewart L. Udall and other such public papers as may be appropriate and assure such papers' availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for the papers of Morris K. Udall and Stewart L. Udall and other suchpublic papers as may be appropriate and assure such papers' availability to the public.
 
 #### (8) Coordination
 

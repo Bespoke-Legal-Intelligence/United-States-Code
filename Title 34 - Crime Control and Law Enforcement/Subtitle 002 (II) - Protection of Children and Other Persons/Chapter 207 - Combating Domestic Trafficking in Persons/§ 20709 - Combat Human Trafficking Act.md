@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons; and
 
-&emsp;&emsp;&emsp;&emsp;(II) such individuals are victims of a crime and affirmative measures shouldbe taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
+&emsp;&emsp;&emsp;&emsp;(II) such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization.
 
 #### (B) Federal prosecutors
 
@@ -120,6 +120,8 @@ The Director of the Bureau of Justice Statistics shall—
 
 (Pub. L. 114–22, title I, §114, May 29, 2015, 129 Stat. 241; Pub. L. 115–393, title V, §502, Dec. 21, 2018, 132 Stat. 5276; Pub. L. 115–425, title I, §121(b), Jan. 8, 2019, 132 Stat. 5478.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 114 of Pub. L. 114–22 amended section 3583(k) of Title 18, Crimes and Criminal Procedure.
@@ -139,6 +141,8 @@ Subsec. (e)(1)(A)(iii). Pub. L. 115–425, §121(b)(5), substituted "convictions
 <b>2018</b>—Subsec. (c)(1)(A)(iii), (iv). Pub. L. 115–393, §502(1), added cls. (iii) and (iv).
 
 Subsec. (f). Pub. L. 115–393, §502(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Using Existing Task Forces and Components To Target Offenders Who Exploit Children
 

@@ -10,9 +10,11 @@
 
 &emsp;(3) a State prisoner files a habeas corpus petition under section 2254 within the time required by section 2263 and fails to make a substantial showing of the denial of a Federal right or is denied relief in the district court or at any subsequent stage of review.
 
-(c) If one of the conditions in subsection (b) has occurred, no Federal court thereafter shall have the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).
+(c) If one of the conditions in subsection (b) has occurred, no Federal court thereafter shallhave the authority to enter a stay of execution in the case, unless the court of appeals approves the filing of a second or successive application under section 2244(b).
 
 (Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1222.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

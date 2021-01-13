@@ -108,6 +108,8 @@ June 29, 1936, ch. 858, title XIII, §1308(b)–(d), as added Pub. L. 96–453, 
 
 In subsection (c), the word "department" is omitted as unnecessary because of the definition of "agency" in chapter 1 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–281 added subsec. (e).

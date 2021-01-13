@@ -122,6 +122,8 @@ Limitation on applicability of obligation limitation.—Notwithstanding any othe
 
 (Added Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843; amended Pub. L. 109–59, title I, §1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; Pub. L. 112–141, div. A, title I, §1402, July 6, 2012, 126 Stat. 556; Pub. L. 114–94, div. A, title I, §1446(a)(8), Dec. 4, 2015, 129 Stat. 1437.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 2286; amended Pub. L. 95–599, title II, §205, Nov. 6, 1978, 92 Stat. 2729; Pub. L. 97–35, title XI, §1108, Aug. 13, 1981, 95 Stat. 626; Pub. L. 100–17, title I, §174, Apr. 2, 1987, 101 Stat. 218; Pub. L. 102–240, title I, §1029(a), (b), (e), (g), Dec. 18, 1991, 105 Stat. 1968–1970, established the national maximum speed limit, prior to repeal by Pub. L. 104–59, title II, §205(d)(1)(B), (3), Nov. 28, 1995, 109 Stat. 577, applicable to State on 10th day following Nov. 28, 1995, except that if legislature was not in session on such date and chief executive officer declared before such date that legislature was not in session and that State preferred applicability date that was after date on which legislature would convene, applicable to State on 60th day following date on which legislature would next convene.
@@ -150,6 +152,8 @@ Subsec. (c)(5). Pub. L. 112–141, §1402(3), added par. (5) and struck out form
 
 <b>2005</b>—Subsec. (c)(3). Pub. L. 109–59 substituted "148" for "152".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -160,5 +164,5 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date
 
-Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
+Section effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L.105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 101 of this title.
 

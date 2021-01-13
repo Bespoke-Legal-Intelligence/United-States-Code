@@ -2,7 +2,7 @@
 
 (a) The Administrative Office of the United States Courts, with the approval of the Judicial Conference, shall submit periodic reports to Congress detailing the plans submitted pursuant to section 3165. The reports shall be submitted within three months following the final dates for the submission of plans under section 3165(e) of this title.
 
-(b) Such reports shall include recommendations for legislative changes or additional appropriations to achieve the time limits and objectives of this chapter. The report shall also contain pertinent information such as the state of the criminal docket at the time of the adoption of the plan; the extent of pretrial detention and release; and a description of the time limits,procedural techniques, innovations, systems, and other methods by which the trial or other disposition of criminal cases have been expedited or may be expedited in the districts. Such reports shall also include the following:
+(b) Such reports shall include recommendations for legislative changes or additional appropriations to achieve the time limits and objectives of this chapter. The report shall also contain pertinent information such as the state of the criminal docket at the time of the adoption of the plan; the extent of pretrial detention and release; and a description of the time limits, procedural techniques, innovations, systems, and other methods by which the trial or other disposition of criminal cases have been expedited or may be expedited in the districts. Such reports shall also include the following:
 
 &emsp;(1) The reasons why, in those cases not in compliance with the time limits of subsections (b) and (c) of section 3161, the provisions of section 3161(h) have not been adequate to accommodate reasonable periods of delay.
 
@@ -29,6 +29,8 @@
 &emsp;(5) the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, §9(e), Aug. 2, 1979, 93 Stat. 330.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -14,7 +14,7 @@ From amounts made available for each fiscal year under subsection <sup>1</sup> 
 
 &emsp;&emsp;(A) $3,000,000, except for a fiscal year for which the amounts available are insufficient to allocate such amount to each State, the Secretary shall ratably reduce such amount for each State; and
 
-&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A),an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;(B) with respect to any amounts remaining after the allocation under subparagraph (A), an amount that bears the same relationship to such total remaining amounts as the number of students aged 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (b) Amounts above trigger amount
 
@@ -24,7 +24,7 @@ For any fiscal year for which the amount made available for a fiscal year under 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall first use such funds to award grants, on a competitive basis, to State educational agencies or consortia of State educational agencies that have submitted applications described in subparagraph (B) to enable such States to carry out the activities described in subparagraphs (C), (H), (I), (J), (K), and (L) of section 6361(a)(2) of this title.
+&emsp;&emsp;The Secretary shall first use such funds to award grants, on a competitive basis, toState educational agencies or consortia of State educational agencies that have submitted applications described in subparagraph (B) to enable such States to carry out the activities described in subparagraphs (C), (H), (I), (J), (K), and (L) of section 6361(a)(2) of this title.
 
 #### (B) Applications
 

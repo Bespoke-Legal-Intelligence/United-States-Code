@@ -14,11 +14,13 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 (Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–277, §1223(1)(A), in first undesignated par., substituted "addressing" for "creating a new agency of peace to deal with".
 
-Pub. L. 105–277, §1223(1)(B), struck out second undesignated par. which read as follows: "Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best beinsured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy."
+Pub. L. 105–277, §1223(1)(B), struck out second undesignated par. which read as follows: "Arms control, nonproliferation, and disarmament policy, being an important aspect of foreign policy, must be consistent with national security policy as a whole. The formulation and implementation of United States arms control, nonproliferation, and disarmament policy in a manner which will promote the national security can best be insured by a central organization charged by statute with primary responsibility for this field. This organization must have such a position within the Government that it can provide the President, the Secretary of State, other officials of the executive branch, and the Congress with recommendations concerning United States arms control, nonproliferation, and disarmament policy, and can assess the effect of these recommendations upon our foreign policies, our national security policies, and our economy."
 
 Pub. L. 105–277, §1223(1)(C), in last undesignated par., in introductory provisions, substituted "The Secretary of State" for "This organization", substituted "The Secretary shall have" for "It shall have", and struck out "and the Secretary of State" after "the President", in subpar. (1) inserted ", nonproliferation," after "arms control", redesignated subpar. (3) as (2) and struck out former subpar. (2) which read as follows: "When directed by the President, the preparation for, and management of, United States participation in international negotiations and implementation fora in the nonproliferation field.", redesignated subpar. (4) as (3) and struck out ", as appropriate," before "direction of", and redesignated subpar. (5) as (4).
 
@@ -36,6 +38,8 @@ Pub. L. 103–236, §703, substituted subpars. (1) to (5) for former subpars. (a
 
 <b>1975</b>—Pub. L. 94–141 substituted "It shall have the authority, under the direction of the President and the Secretary of State," for "It must be able".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
@@ -46,7 +50,7 @@ Pub. L. 115–91, div. A, title XII, §1241, Dec. 12, 2017, 131 Stat. 1671, prov
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the 'Arms Control and Nonproliferation Act of 1999'."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The PublicHealth and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the 'Arms Control and Nonproliferation Act of 1999'."
 
 #### Short Title of 1994 Amendment
 
@@ -215,6 +219,8 @@ Pub. L. 93–559, §51, Dec. 30, 1974, 88 Stat. 1817, as amended by Pub. L. 97�
 &emsp;"(2) establishing a mechanism through which such limitations could be effectively monitored.
 
 "(c) \[Repealed. Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.\]"
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12946
 

@@ -42,6 +42,8 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1616(a), (d), 110 Stat. 519.
 
 In subsection (a)(4), the words "other supplies" are substituted for "accessories and accouterments" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (b), is section 1208 of Pub. L. 101–189, div. A, title XII, Nov. 29, 1989, 103 Stat. 1566, which was set out as a note under section 372 of Title 10, Armed Forces, and was repealed and restated in section 2576a of Title 10 by Pub. L. 104–201, div. A, title X, §1033(a)(1), (b)(1), Sept. 23, 1996, 110 Stat. 2639, 2640. Section 372 of Title 10 was renumbered section 272 by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.

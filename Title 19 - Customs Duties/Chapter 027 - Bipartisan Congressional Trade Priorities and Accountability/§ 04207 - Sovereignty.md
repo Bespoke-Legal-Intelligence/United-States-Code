@@ -10,7 +10,7 @@ No provision of any trade agreement entered into under section 4202(b) of this t
 
 #### (c) Dispute settlement reports
 
-Reports, including findings and recommendations, issued by dispute settlement panels convened pursuant to any trade agreement entered into under section 4202(b) of this title shall have no binding effect on the law of the UnitedStates, the Government of the United States, or the law or government of any State or locality of the United States.
+Reports, including findings and recommendations, issued by dispute settlement panels convened pursuant to any trade agreement entered into under section 4202(b) of this title shall have no binding effect on the law of the United States, the Government of the United States, or the law or government of any State or locality of the United States.
 
 (Pub. L. 114–26, title I, §108, June 29, 2015, 129 Stat. 356.)
 

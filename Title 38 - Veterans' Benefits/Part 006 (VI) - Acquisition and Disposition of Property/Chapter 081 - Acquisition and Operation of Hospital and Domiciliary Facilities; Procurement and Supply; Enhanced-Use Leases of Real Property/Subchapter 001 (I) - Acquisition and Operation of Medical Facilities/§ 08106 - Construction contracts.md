@@ -10,11 +10,15 @@
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5006; renumbered §8106, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 5006 of this title as this section.
 
 Pub. L. 102–83 substituted "Secretary" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

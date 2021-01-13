@@ -6,9 +6,13 @@
 
 (Added Pub. L. 106–254, §2(a), Aug. 2, 2000, 114 Stat. 638; amended Pub. L. 107–273, div. B, title IV, §4003(a)(4), Nov. 2, 2002, 116 Stat. 1811.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 inserted "to" after "serious bodily injury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2000 Amendment
 

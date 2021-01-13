@@ -10,11 +10,15 @@ Based on Title 35, U.S.C., 1946 ed., §70, part (R.S. 4921, amended (1) Mar. 3, 
 
 This is the last sentence of R.S. 4921, third paragraph, with minor changes in language.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

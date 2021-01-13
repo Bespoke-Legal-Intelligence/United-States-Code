@@ -2,19 +2,13 @@
 
 Amounts may be appropriated to or for the use of the Coast Guard for the following matters only if the amounts have been authorized by law after December 31, 1976:
 
-&emsp;(1) For the operation and maintenance of the Coast Guard, not otherwise provided for.
+&emsp;(1) For the operation and support of the Coast Guard, not otherwise provided for.
 
-&emsp;(2) For the acquisition, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment.
+&emsp;(2) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment.
 
-&emsp;(3) For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services.
+&emsp;(3) For research and development.<sup>1</sup> of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.
 
-&emsp;(4) For the environmental compliance and restoration functions of the Coast Guard under section 318 of this title.
-
-&emsp;(5) For research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard.
-
-&emsp;(6) For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program.
-
-(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303, §662; amended Pub. L. 101–225, title II, §222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, §442(2), Oct. 7, 2010, 124 Stat. 2733; renumbered §2701 and amended Pub. L. 114–120, title I, §101(b), Feb. 8, 2016, 130 Stat. 30; Pub. L. 115–232, div. C, title XXXV, §3538(a), Aug. 13, 2018, 132 Stat. 2322; renumbered §4901 and amended Pub. L. 115–282, title I, §§121(b), 123(c)(5)(A), Dec. 4, 2018, 132 Stat. 4238, 4241.)
+(Added Pub. L. 97–295, §2(20)(A), Oct. 12, 1982, 96 Stat. 1303, §662; amended Pub. L. 101–225, title II, §222(c), Dec. 12, 1989, 103 Stat. 1919; Pub. L. 111–259, title IV, §442(2), Oct. 7, 2010, 124 Stat. 2733; renumbered §2701 and amended Pub. L. 114–120, title I, §101(b), Feb. 8, 2016, 130 Stat. 30; Pub. L. 115–232, div. C, title XXXV, §3538(a), Aug. 13, 2018, 132 Stat. 2322; renumbered §4901 and amended Pub. L. 115–282, title I, §§121(b), 123(c)(5)(A), Dec. 4, 2018, 132 Stat. 4238, 4241; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(5), Jan. 1, 2021, 134 Stat. 4760.)
 
 Historical and Revision Notes
 
@@ -32,7 +26,21 @@ Sept. 10, 1976, Pub. L. 94–406, §5, 90 Stat. 1236.
 
 The word "Amounts" is substituted for "funds" for clarity and consistency. Before clause (1), the words "After fiscal year 1977" are omitted as executed. The words "of such funds" are omitted as unnecessary. In clause (2), the words "aids, establishments, vessels, or aircraft" are substituted for "thereto" for clarity. In clause (4), the words "a matter referred to in clauses (1)–(3)" are substituted for "any of the above" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Par. (1). Pub. L. 116–283, §8513(a)(5)(A), substituted "support" for "maintenance".
+
+Par. (2). Pub. L. 116–283, §8513(a)(5)(B), substituted "procurement" for "acquisition".
+
+Par. (3). Pub. L. 116–283, §8513(a)(5)(C)–(E), redesignated par. (5) as (3), substituted "research and development." for "research, development, test, and evaluation", and struck out former par. (3) which read as follows: "For the Coast Guard Reserve program, including operations and maintenance of the program, personnel and training costs, equipment, and services."
+
+Par. (4). Pub. L. 116–283, §8513(a)(5)(C), struck out par. (4) which read as follows: "For the environmental compliance and restoration functions of the Coast Guard under section 318 of this title."
+
+Par. (5). Pub. L. 116–283, §8513(a)(5)(D), redesignated par. (5) as (3).
+
+Par. (6). Pub. L. 116–283, §8513(a)(5)(C), struck out par. (6) which read as follows: "For alteration or removal of bridges over navigable waters of the United States constituting obstructions to navigation, and for personnel and administrative costs associated with the Alteration of Bridges Program."
 
 <b>2018</b>—Pub. L. 115–282, §121(b), renumbered section 2701 of this title as this section.
 
@@ -57,4 +65,6 @@ Pars. (1) to (6). Pub. L. 114–120, §101(b)(3), added pars. (1) to (6) and str
 <b>2010</b>—Par. (4). Pub. L. 111–259 inserted "intelligence systems and capabilities or" after "related to".
 
 <b>1989</b>—Par. (5). Pub. L. 101–225 added par. (5).
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

@@ -136,7 +136,7 @@ For purposes of this subchapter—
 
 #### (B) Specified passive activity loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, with respect to any specified partner of such publicly traded partnership, the lesser of—
+&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, withrespect to any specified partner of such publicly traded partnership, the lesser of—
 
 &emsp;&emsp;&emsp;(i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner's taxable year in which or with which the reviewed year of such partnership ends, or
 
@@ -220,7 +220,7 @@ Subsec. (c)(5) to (8). Pub. L. 114–113, §411(a)(2), added par. (5) and redesi
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub.L. 115–141, set out as a note under section 6031 of this title.
+Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under section 6031 of this title.
 
 #### Effective Date of 2015 Amendment
 

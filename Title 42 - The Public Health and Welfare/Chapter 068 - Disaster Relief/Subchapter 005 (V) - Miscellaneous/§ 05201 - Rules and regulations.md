@@ -8,7 +8,7 @@ Deadline for payment of assistance.—Rules and regulations authorized by paragr
 
 (b) In furtherance of the purposes of this chapter, the President or his delegate may accept and use bequests, gifts, or donations of service, money, or property, real, personal, or mixed, tangible, or intangible. All sums received under this subsection shall be deposited in a separate fund on the books of the Treasury and shall be available for expenditure upon the certification of the President or his delegate. At the request of the President or his delegate, the Secretary of the Treasury may invest and reinvest excess monies in the fund. Such investments shall be in public debt securities with maturities suitable for the needs of the fund and shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The interest on such investments shall be credited to, and form a part of, the fund.
 
-(Pub. L. 93–288, title VII, §701, formerly title VI, §601, May 22, 1974, 88 Stat. 163; Pub. L. 96–446, Oct. 13, 1980, 94 Stat. 1893; Pub. L. 100–707, title I, §108(a), Nov. 23, 1988, 102 Stat. 4707; renumbered title VII, §701, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100.)
+(Pub. L. 93–288, title VII, §701, formerly title VI, §601, May 22, 1974, 88 Stat. 163; Pub. L. 96–446,Oct. 13, 1980, 94 Stat. 1893; Pub. L. 100–707, title I, §108(a), Nov. 23, 1988, 102 Stat. 4707; renumbered title VII, §701, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100.)
 
 #### References in Text
 

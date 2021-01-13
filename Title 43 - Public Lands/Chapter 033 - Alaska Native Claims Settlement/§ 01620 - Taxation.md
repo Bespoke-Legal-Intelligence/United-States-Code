@@ -10,7 +10,7 @@ The receipt of shares of stock in the Regional or Village Corporations by or on 
 
 #### (c) Land or land interests exemption; basis for sale or other disposition, adjustment; basis for interest in mine, well, other natural deposit, or block of timber, adjustment
 
-The receipt of land or any interest therein pursuant to this chapter or of cash in order to equalize the values of properties exchanged pursuant to section 1621(f) of this title shall not be subject to any form of Federal, State, or local taxation. The basis for determining gain or loss from the sale or other disposition of such land or interest in land for purposes of any Federal, State, or local tax imposed on or measured by income shall be the fair value of such land or interest in land at the time of receipt, adjusted as provided in section 1016 of title 26, as amended: <i>Provided, however</i>, That the basis of any such land or interest therein attributable to an interest in a mine, well, other natural deposit, or block of timber shall be not less than the fair value of such mine, well, natural deposit, or block of timber (or such interest therein as the Secretary shall convey) at the time of the first commercial development thereof, adjusted as provided in section 1016 of title 26. For purposes of this subsection, the time of receipt of land or any interest therein shall be the time of the conveyance by the Secretary of such land or interest (whether by interim conveyance or patent).
+The receipt of land or any interest therein pursuant to this chapter or of cash in order to equalize the values of properties exchanged pursuant to section 1621(f) of this title shall not be subject to any form of Federal, State, or local taxation. The basis for determining gain or lossfrom the sale or other disposition of such land or interest in land for purposes of any Federal, State, or local tax imposed on or measured by income shall be the fair value of such land or interest in land at the time of receipt, adjusted as provided in section 1016 of title 26, as amended: <i>Provided, however</i>, That the basis of any such land or interest therein attributable to an interest in a mine, well, other natural deposit, or block of timber shall be not less than the fair value of such mine, well, natural deposit, or block of timber (or such interest therein as the Secretary shall convey) at the time of the first commercial development thereof, adjusted as provided in section 1016 of title 26. For purposes of this subsection, the time of receipt of land or any interest therein shall be the time of the conveyance by the Secretary of such land or interest (whether by interim conveyance or patent).
 
 #### (d) Real property interests; exemption period for conveyance of interests not developed or leased or interests used solely for exploration, interests taxable; derivative revenues taxable; exchanges; simultaneous exchanges
 
@@ -24,7 +24,7 @@ Real property interests conveyed pursuant to this chapter to a Native individual
 
 #### (f) Stocks of Regional and Village Corporations exempt from estate taxes; period of exemption
 
-Until January 1, 1992, stock of any Regional Corporation organized pursuant to section 1606 of this title, including the right to receive distributions under subsection 1606(j) of this title, and stock of any Village Corporation organized pursuant to section 1607 of this title shall not beincludable in the gross estate of a decedent under sections 2031 and 2033, or any successor provisions, of title 26.
+Until January 1, 1992, stock of any Regional Corporation organized pursuant to section 1606 of this title, including the right to receive distributions under subsection 1606(j) of this title, and stock of any Village Corporation organized pursuant to section 1607 of this title shall not be includable in the gross estate of a decedent under sections 2031 and 2033, or any successor provisions, of title 26.
 
 #### (g) Resource information or analysis; professional or technical services
 
@@ -54,6 +54,8 @@ A real property interest distributed by a Native Corporation to a shareholder of
 
 (Pub. L. 92–203, §21, Dec. 18, 1971, 85 Stat. 713; Pub. L. 94–204, §13, Jan. 2, 1976, 89 Stat. 1154; Pub. L. 95–600, title V, §541, Nov. 6, 1978, 92 Stat. 2887; Pub. L. 96–487, title IX, §904, title XIV, §§1407–1409, Dec. 2, 1980, 94 Stat. 2434, 2495, 2496; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–241, §12(b), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 102–415, §5, Oct. 14, 1992, 106 Stat. 2113.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
@@ -62,7 +64,7 @@ The Johnson-O'Malley Act of April 16, 1934, as amended (25 U.S.C. 452), referred
 
 Public Law 815, 81st Congress (64 Stat. 967), referred to in subsec. (e), is act Sept. 23, 1950, ch. 995, as amended generally by Pub. L. 85–620, title I, §101, Aug. 12, 1958, 72 Stat. 548, which was classified generally to chapter 19 (§631 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat.1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

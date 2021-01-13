@@ -36,7 +36,7 @@
 
 &emsp;(A) a description of such gift;
 
-&emsp;(B) a statement specifying the estimated total cost of the proposed physical or materialchange or addition and the amount of the deposit in an endowment for the depository required pursuant to subsection (g) of this section in order to meet the cost of such change or addition;
+&emsp;(B) a statement specifying the estimated total cost of the proposed physical or material change or addition and the amount of the deposit in an endowment for the depository required pursuant to subsection (g) of this section in order to meet the cost of such change or addition;
 
 &emsp;(C) a statement of the purpose of the proposed change or addition and a general description of any papers, documents, or historical materials proposed to be deposited in the depository as a result of such change or addition;
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) the date on which the Archivist took title to the land, facility, and equipment for such depository under subparagraph (A) of subsection (a)(1); or
 
-&emsp;&emsp;(ii) the date on which the Archivist entered into an agreement for the creation of such depository under subparagraph (B) of such paragraph,
+&emsp;&emsp;(ii) the date on which the Archivist entered into an agreement for the creation ofsuch depository under subparagraph (B) of such paragraph,
 
 > &emsp;as the case may be; minus
 
@@ -130,11 +130,13 @@
 
 (iii) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat.2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462; Pub. L. 108–383, §4(a), Oct. 30, 2004, 118 Stat. 2218; Pub. L. 110–404, §6(b), Oct. 13, 2008, 122 Stat. 4285.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462; Pub. L. 108–383, §4(a), Oct. 30, 2004, 118 Stat. 2218; Pub. L. 110–404, §6(b), Oct. 13, 2008, 122 Stat. 4285.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §397(f) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(o), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -161,6 +163,8 @@ Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted "Archivist" for 
 <b>1978</b>—Subsec. (c). Pub. L. 95–591 limited application of subsec. (c) when dealing with Presidential records.
 
 <b>1976</b>—Subsecs. (b), (c). Pub. L. 94–575 substituted reference to section "2107" for "3106".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

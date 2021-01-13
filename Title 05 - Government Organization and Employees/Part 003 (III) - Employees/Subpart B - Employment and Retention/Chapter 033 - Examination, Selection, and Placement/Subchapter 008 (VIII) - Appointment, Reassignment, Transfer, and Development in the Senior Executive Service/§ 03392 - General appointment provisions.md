@@ -26,6 +26,8 @@
 
 (Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161; amended Pub. L. 101–335, §7(a), July 17, 1990, 104 Stat. 325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Executive Schedule, referred to in subsec. (c), is set out as section 5311 et seq. of this title.
@@ -37,6 +39,8 @@ A prior section 3392, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 #### Amendments
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–335 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -70,7 +74,7 @@ Election by persons previously appointed.—The Office of Personnel Management s
 
 "(3)
 
-Retroactive performance awards.—If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of section 5383 of title 5, United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, thehead of the agency shall make a written determination that the individual's performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency's performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual's rate of basic pay as of the end of such fiscal year."
+Retroactive performance awards.—If an individual elects under paragraph (2) to continue to be subject to performance awards, the head of the agency in which such individual is serving shall determine whether to grant retroactive performance awards for any fiscal years prior to fiscal year 1991 to such individual, and the amount of any such awards, without regard to the provisions of subsection (b) of section 5383 of title 5, United States Code, and subsections (b) and (c) of section 5384 of such title. Before granting an award, the head of the agency shall make a written determination that the individual's performance during the fiscal year for which the award is given was at least fully successful, and shall consider the recommendation of the agency's performance review board with respect to the award. No such award for performance during any fiscal year may be less than 5 percent nor more than 15 percent of the individual's rate of basic pay as of the end of such fiscal year."
 
 \[Pub. L. 102–378, §7(b), Oct. 2, 1992, 106 Stat. 1359, provided that: "The amendment made by subsection (a) \[enacting section 7(b)(3) of Pub. L. 101–335, set out above\] shall be effective as if enacted as a part of section 7 of the Thrift Savings Plan Technical Amendments Act of 1990 \[Pub. L. 101–335\]."\]
 

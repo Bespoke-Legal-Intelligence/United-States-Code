@@ -26,6 +26,8 @@ The Attorney General shall establish such regional computer forensic laboratorie
 
 (Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.

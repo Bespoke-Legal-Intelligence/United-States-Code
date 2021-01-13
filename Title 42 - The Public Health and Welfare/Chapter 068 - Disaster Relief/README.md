@@ -18,6 +18,7 @@
 | [5132\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005132%20-%20Disaster%20warnings.md) | Disaster warnings. |
 | [5133\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005133%20-%20Predisaster%20hazard%20mitigation.md) | Predisaster hazard mitigation. |
 | [5134\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005134%20-%20Interagency%20task%20force.md) | Interagency task force. |
+| [5135\.](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/%C2%A7%2005135%20-%20Grants%20to%20entities%20for%20establishment%20of%20hazard%20mitigation%20revolving%20loan%20funds.md) | Grants to entities for establishment of hazard mitigation revolving loan funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

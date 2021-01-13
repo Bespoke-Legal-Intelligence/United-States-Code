@@ -26,7 +26,7 @@
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 inserted "or 352" after "section 314" in concluding provisions.
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted "for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months," after "for not more than 15 days".
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted "for members whose qualifying tour of duty is 12 months orless, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months," after "for not more than 15 days".
 
 2003–Pub. L. 108–136, §621(b)(2), struck out "enlisted" before "members" in section catchline.
 

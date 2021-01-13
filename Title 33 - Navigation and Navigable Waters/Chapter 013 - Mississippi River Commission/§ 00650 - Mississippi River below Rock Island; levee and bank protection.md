@@ -4,6 +4,8 @@ Any funds which are appropriated by Congress for improving the Mississippi River
 
 (July 27, 1916, ch. 260, §1, 39 Stat. 402; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from part of section 1 of the Rivers and Harbors Appropriation Act of 1916.
@@ -11,6 +13,8 @@ Section is from part of section 1 of the Rivers and Harbors Appropriation Act of
 #### Prior Provisions
 
 This provision superseded act June 4, 1906, ch. 2572, 34 Stat. 208, which contained similar provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

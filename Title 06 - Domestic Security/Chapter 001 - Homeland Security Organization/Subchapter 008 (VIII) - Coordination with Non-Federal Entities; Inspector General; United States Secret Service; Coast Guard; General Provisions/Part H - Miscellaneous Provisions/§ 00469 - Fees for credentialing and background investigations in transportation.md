@@ -28,6 +28,8 @@ For fiscal year 2004 and thereafter, the Secretary of Homeland Security shall ch
 
 (Pub. L. 108–90, title V, §520, Oct. 1, 2003, 117 Stat. 1156; Pub. L. 110–329, div. D, title V, §543, Sept. 30, 2008, 122 Stat. 3689.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

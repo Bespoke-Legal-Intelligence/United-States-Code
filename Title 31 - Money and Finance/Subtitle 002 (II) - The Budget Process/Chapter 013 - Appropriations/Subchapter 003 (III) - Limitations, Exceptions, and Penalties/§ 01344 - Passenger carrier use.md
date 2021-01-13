@@ -44,7 +44,7 @@
 
 (d)(1) Any determination made under subsection (b)(9) of this section shall be in writing and shall include the name and title of the officer or employee affected, the reason for such determination, and the duration of the authorization for such officer or employee to use a passenger carrier for transportation between residence and place of employment.
 
-(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of not more than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
+(2) If a clear and present danger, an emergency, or a compelling operational consideration described in subsection (b)(9) of this section extends or may extend for a period in excess of 15 calendar days, the head of the Federal agency shall determine whether an authorization under such paragraph shall be extended in excess of 15 calendar days for a period of notmore than 90 additional calendar days. Determinations made under this paragraph may be reviewed by the head of such agency at the end of each such period, and, where appropriate, a subsequent determination may be made whether such danger, emergency, or consideration continues to exist and whether an additional extension, not to exceed 90 calendar days, may be authorized. Determinations made under this paragraph shall be in accordance with regulations prescribed pursuant to paragraph (1) of subsection (e).
 
 (3) The authority to make designations under subsection (b)(1) of this section and to make determinations pursuant to subsections (a)(2) and (b)(3)(B) and (9) of this section and pursuant to paragraph (2) of this subsection may not be delegated, except that, with respect to the Executive Office of the President, the President may delegate the authority of the President under subsection (b)(9) of this section to an officer in the Executive Office of the President. No designation or determination under this section may be made solely or principally for the comfort or convenience of the officer or employee.
 
@@ -136,6 +136,8 @@ In subsection (b)(2), the words "section 101 of title 5" are used because of sec
 
 In subsection (b)(3), the words "ambassadors, ministers, charges d'affaires" are omitted as being included in "principal diplomatic and consular officials".
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 28 of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is classified to section 2700 of Title 22, Foreign Relations and Intercourse.
@@ -196,13 +198,15 @@ Subsec. (e)(1). Pub. L. 100–202, §101(a) \[title IV, §407(3)\], as amended b
 
 &emsp;"(3) principal diplomatic and consular officials."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2004 Amendment
 
@@ -216,13 +220,63 @@ Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363, provided that the am
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Charging Helps Agencies Realize General Efficiencies
+
+Pub. L. 116–160, Oct. 1, 2020, 134 Stat. 753, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Charging Helps Agencies Realize General Efficiencies Act' or the 'CHARGE Act'.
+
+#### "SEC. 2. PAYMENT BY CHARGE CARD FOR CHARGING FEDERAL ELECTRIC MOTOR VEHICLES.
+
+"(a)
+
+Definitions.—In this Act—
+
+&emsp;"(1) the term 'Administrator' means the Administrator of General Services;
+
+&emsp;"(2) the term 'charge card'—
+
+&emsp;&emsp;"(A) means a card, plate, coupon book, or other means existing for the purpose of obtaining money, property, labor, or services; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) a card issued under the GSA SmartPay program; and
+
+&emsp;&emsp;&emsp;"(ii) a Fleet Services card;
+
+&emsp;"(3) the term 'covered electric motor vehicle' means a passenger carrier that is—
+
+&emsp;&emsp;"(A) a passenger motor vehicle; and
+
+&emsp;&emsp;"(B) an electric motor vehicle;
+
+&emsp;"(4) the term 'electric motor vehicle' has the meaning given the term in section 601 of the Energy Policy Act of 1992 (42 U.S.C. 13271);
+
+&emsp;"(5) the term 'electric motor vehicle charging station' means a battery-charging station that permits the transfer of electric energy (by conductive or inductive means) to a battery or other storage device in an electric motor vehicle; and
+
+&emsp;"(6) the terms 'Federal agency' and 'passenger carrier' have the meanings given those terms in section 1344(h) of title 31, United States Code.
+
+"(b)
+
+Guidance.—Not later than 180 days after the date of enactment of this Act \[Oct. 1, 2020\], the Administrator shall issue guidance to clarify that each Federal agency may, in accordance with section 1344 of title 31, United States Code—
+
+&emsp;"(1) charge a covered electric motor vehicle at a commercial electric motor vehicle charging station; and
+
+&emsp;"(2) pay for a transaction described in paragraph (1) with a charge card.
+
+"(c)
+
+Issuance of charge cards.—Not later than 180 days after the date of enactment of this Act, the Administrator shall issue to each Federal agency a charge card for each covered electric motor vehicle of the Federal agency that may be used by an officer or employee of the Federal agency to pay for charging the covered motor vehicle in accordance with the guidance issued under subsection (b)."
+
 #### Coordination
 
 Pub. L. 109–59, title III, §3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: "The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved."
 
 #### Use of Government Vehicles
 
-Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, §6(b), May 4, 1990, 104 Stat. 160, provided that: "Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable."
+Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, §6(b), May 4, 1990, 104 Stat. 160, provided that: "Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by ruleof the House of Representatives or the Senate, as applicable."
 
 #### Use of Official Vehicles of House of Representatives
 

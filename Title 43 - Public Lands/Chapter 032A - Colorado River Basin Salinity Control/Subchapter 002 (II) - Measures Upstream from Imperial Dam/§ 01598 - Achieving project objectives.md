@@ -12,7 +12,9 @@ The Secretary is hereby authorized to enter into contracts that he deems necessa
 
 In addition to the amounts authorized to be appropriated under subsection (b), there are authorized to be appropriated $175,000,000 for section 1592(a) of this title, including constructing the works described in paragraph (6) of section 1592(a) of this title and carrying out the measures described in such paragraph. Notwithstanding subsection (b), the Secretary may implement the program under section 1592(a)(6) of this title only to the extent and in such amounts as are provided in advance in appropriations Acts.
 
-(Pub. L. 93–320, title II, §208, June 24, 1974, 88 Stat. 274; Pub. L. 98–569, §5, Oct. 30, 1984, 98 Stat.2939; Pub. L. 104–20, §1(3), July 28, 1995, 109 Stat. 256; Pub. L. 106–459, §1, Nov. 7, 2000, 114 Stat. 1987.)
+(Pub. L. 93–320, title II, §208, June 24, 1974, 88 Stat. 274; Pub. L. 98–569, §5, Oct. 30, 1984, 98 Stat. 2939; Pub. L. 104–20, §1(3), July 28, 1995, 109 Stat. 256; Pub. L. 106–459, §1, Nov. 7, 2000, 114 Stat. 1987.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 Subsec. (b). Pub. L. 98–569, §5(b)(1), inserted "(a) or (b)" after "1592".
 
 Pub. L. 98–569, §5(b)(2), inserted "The funds authorized to be appropriated by this section may be used for construction of any or all of the works or portions thereof and for other purposes authorized in subsection (a), including measures as provided for in subsection (b) of section 1592 of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

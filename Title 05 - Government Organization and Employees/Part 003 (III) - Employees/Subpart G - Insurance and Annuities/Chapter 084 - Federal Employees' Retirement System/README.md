@@ -99,6 +99,7 @@
 | [8464a.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008464a%20-%20Relationship%20between%20annuity%20and%20workers%27%20compensation.md) | Relationship between annuity and workers' compensation. |
 | [8465\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008465%20-%20Waiver%2C%20allotment%2C%20and%20assignment%20of%20benefits.md) | Waiver, allotment, and assignment of benefits. |
 | [8466\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008466%20-%20Application%20for%20benefits.md) | Application for benefits. |
+| [8466a.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008466a%20-%20Embezzlement%20or%20conversion%20of%20payments.md) | Embezzlement or conversion of payments. |
 | [8467\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008467%20-%20Court%20orders.md) | Court orders. |
 | [8468\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008468%20-%20Annuities%20and%20pay%20on%20reemployment.md) | Annuities and pay on reemployment. |
 | [8469\.](Subchapter%20006%20%28VI%29%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2008469%20-%20Withholding%20of%20State%20income%20taxes.md) | Withholding of State income taxes. |
@@ -124,7 +125,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–126, §2(b)(3)(B), Mar. 18, 2020, 134 Stat. 175, added item 8466a.
 
 <b>2012</b>—Pub. L. 112–141, div. F, title I, §100121(b)(2), July 6, 2012, 126 Stat. 914, added item 8412a.
 
@@ -169,6 +174,8 @@ Pub. L. 100–654, title IV, §401(b), Nov. 14, 1988, 102 Stat. 3847, added item
 Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 "Relationship to workers' compensation".
 
 <b>1986</b>—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

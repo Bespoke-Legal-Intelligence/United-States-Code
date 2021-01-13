@@ -4,9 +4,13 @@ All the provisions of sections 641, 642 and 643 <sup>1</sup> of this title are 
 
 (Feb. 18, 1909, ch. 150, §1, 35 Stat. 638.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 643 of this title, referred to in text, was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -48,7 +48,7 @@ In this section:
 
 #### (b) Authority
 
-To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan under subsection (c).
+To provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets, the Secretary may guarantee an amount not to exceed 100 percent of theunpaid principal and interest that is due on an eligible loan under subsection (c).
 
 #### (c) Eligible loans
 
@@ -266,7 +266,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee.The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
+&emsp;&emsp;&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interest of the United States.
 
 #### (bb) Payment
 
@@ -330,7 +330,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) Requirement of appropriations
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriations Acts, without regard to the fiscal year for which such amounts were appropriated.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year to the extent, or in such amounts as are, or have been, provided in appropriationsActs, without regard to the fiscal year for which such amounts were appropriated.
 
 #### (B) Limitations on costs of guarantees
 
@@ -385,6 +385,8 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 To the extent that the requirements of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or of the Fair Housing Act \[42 U.S.C. 3601 et seq.\] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shall be construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
 
 (Pub. L. 102–550, title I, §184A, as added Pub. L. 106–568, title II, §204, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, §514, Dec. 27, 2000, 114 Stat. 2989.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

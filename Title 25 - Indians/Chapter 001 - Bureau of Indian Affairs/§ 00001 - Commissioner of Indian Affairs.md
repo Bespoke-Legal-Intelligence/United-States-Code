@@ -4,11 +4,15 @@ There shall be in the Department of the Interior a Commissioner of Indian Affair
 
 (R.S. §462.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §462 derived from act July 9, 1832, ch. 174, §1, 4 Stat. 564.
 
 Provisions of this section relating to compensation of the Commissioner were omitted as obsolete. The position is in level V of the Executive Schedule under section 5316 of Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

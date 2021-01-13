@@ -10,7 +10,7 @@
 
 &emsp;In carrying out paragraph (1), the Secretary shall—
 
-&emsp;&emsp;(A) hold the assets to maturity or for resale for and until such time as the Secretary determines that the market is optimal forselling such assets, in order to maximize the value for taxpayers; and
+&emsp;&emsp;(A) hold the assets to maturity or for resale for and until such time as the Secretary determines that the market is optimal for selling such assets, in order to maximize the value for taxpayers; and
 
 &emsp;&emsp;(B) sell such assets at a price that the Secretary determines, based on available financial analysis, will maximize return on investment for the Federal Government.
 
@@ -83,6 +83,8 @@ If the Secretary determines that use of a market mechanism under subsection (b) 
 &emsp;&emsp;The Secretary shall establish an exception to the requirements of this subsection and appropriate alternative requirements for any participating financial institution that is legally prohibited from issuing securities and debt instruments, so as not to allow circumvention of the requirements of this section.
 
 (Pub. L. 110–343, div. A, title I, §113, Oct. 3, 2008, 122 Stat. 3777.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

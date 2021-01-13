@@ -16,11 +16,15 @@ Section 1164 of the House amendment is derived from section 1163 of the House bi
 
 \[Section 1163\] This section \[enacted as section 1164\] gives the same right to raise, and appear and be heard on, any issue in a railroad reorganization case to the Interstate Commerce Commission, the Department of Transportation, and any State or local commission having regulatory jurisdiction over the debtor as is given to the SEC and indenture trustees under section 1109 in ordinary reorganization cases. The right of appeal is denied the ICC, the Department of Transportation, and State and local regulatory agencies, the same as it is denied the SEC.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–88 substituted "Board" for "Commission".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an EffectiveDate note under section 1301 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 

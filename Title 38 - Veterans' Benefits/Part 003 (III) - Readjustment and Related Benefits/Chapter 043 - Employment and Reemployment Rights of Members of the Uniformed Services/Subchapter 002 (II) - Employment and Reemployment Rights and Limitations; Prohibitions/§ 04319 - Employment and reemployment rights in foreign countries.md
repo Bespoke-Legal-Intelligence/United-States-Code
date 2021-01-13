@@ -18,6 +18,8 @@ Exemption.—Notwithstanding any other provision of this subchapter, an employer
 
 (Added Pub. L. 105–368, title II, §212(b)(1), Nov. 11, 1998, 112 Stat. 3331.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable only with respect to causes of action arising after Nov. 11, 1998, see section 212(c) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 4303 of this title.

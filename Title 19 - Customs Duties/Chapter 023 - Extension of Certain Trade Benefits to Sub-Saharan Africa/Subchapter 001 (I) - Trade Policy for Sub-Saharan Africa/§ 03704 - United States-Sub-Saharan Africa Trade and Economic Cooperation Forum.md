@@ -6,7 +6,7 @@ The President shall convene annual high-level meetings between appropriate offic
 
 #### (b) Establishment
 
-Not later than 12 months after May 18, 2000, the President, after consulting with Congress and the governments concerned, shall establish a United States-Sub-Saharan Africa Trade andEconomic Cooperation Forum (in this section referred to as the "Forum").
+Not later than 12 months after May 18, 2000, the President, after consulting with Congress and the governments concerned, shall establish a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum (in this section referred to as the "Forum").
 
 #### (c) Requirements
 
@@ -22,7 +22,7 @@ In creating the Forum, the President shall meet the following requirements:
 
 #### (d) Dissemination of information by USIS
 
-In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, through multiple media, economic information in support of the free market economic reforms described in this chapter.
+In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, throughmultiple media, economic information in support of the free market economic reforms described in this chapter.
 
 #### (e) HIV/AIDS effect on the sub-Saharan African workforce
 

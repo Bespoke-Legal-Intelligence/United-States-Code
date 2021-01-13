@@ -1,6 +1,6 @@
 ### §1012. Department of Housing and Urban Development transactions
 
-Whoever, with intent to defraud, makes any false entry in any book of the Department ofHousing and Urban Development or makes any false report or statement to or for such Department; or
+Whoever, with intent to defraud, makes any false entry in any book of the Department of Housing and Urban Development or makes anyfalse report or statement to or for such Department; or
 
 Whoever receives any compensation, rebate, or reward, with intent to defraud such Department or with intent unlawfully to defeat its purposes; or
 
@@ -19,6 +19,8 @@ Three sections were consolidated with changes of phraseology and arrangement nec
 Words "upon conviction thereof", in each section were omitted as surplusage since punishment cannot be imposed until after conviction.
 
 The provisions of section 1424 of title 42, U.S.C., 1940 ed., The Public Health and Welfare, relating to conspiracy were omitted as inconsistent with the general conspiracy statute, section 371 of this title, both as to punishment and allegation and proof of an overt act. (See reviser's note under section 493 of this title.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

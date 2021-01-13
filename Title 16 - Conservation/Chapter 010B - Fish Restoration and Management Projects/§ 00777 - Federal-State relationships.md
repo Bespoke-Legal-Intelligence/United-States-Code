@@ -2,7 +2,7 @@
 
 #### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
 
-The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and managementprojects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
 
 #### (b) Allocation of amounts by coastal States between marine fish projects and freshwater fish projects
 
@@ -42,7 +42,7 @@ Pub. L. 100–448, §6(e), Sept. 28, 1988, 102 Stat. 1841, provided that: "This 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1014(b), July 18, 1984, 98 Stat. 1016, provided that: "The amendments made bysubsection (a) \[amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984."
+Pub. L. 98–369, div. A, title X, §1014(b), July 18, 1984, 98 Stat. 1016, provided that: "The amendments made by subsection (a) \[amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984."
 
 #### Effective Date
 
@@ -156,7 +156,7 @@ Federal action.—The Secretary shall take no action that would result in any no
 
 "(b)
 
-Federal.—Development and implementation of projects under the Program on land or facilities ownedby the United States shall be nonreimbursable Federal expenditures.
+Federal.—Development and implementation of projects under the Program on land or facilities owned by the United States shall be nonreimbursable Federal expenditures.
 
 #### "SEC. 5. EVALUATION AND PRIORITIZATION OF PROJECTS.
 

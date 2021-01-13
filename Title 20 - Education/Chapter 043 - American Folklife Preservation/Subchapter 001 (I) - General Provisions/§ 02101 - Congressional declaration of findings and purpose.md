@@ -20,7 +20,7 @@
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–246, §1, Nov. 28, 2016, 130 Stat. 995, provided that: "This Act \[amending section 2142 of thistitle\] may be cited as the 'Gold Star Families Voices Act'."
+Pub. L. 114–246, §1, Nov. 28, 2016, 130 Stat. 995, provided that: "This Act \[amending section 2142 of this title\] may be cited as the 'Gold Star Families Voices Act'."
 
 #### Short Title
 

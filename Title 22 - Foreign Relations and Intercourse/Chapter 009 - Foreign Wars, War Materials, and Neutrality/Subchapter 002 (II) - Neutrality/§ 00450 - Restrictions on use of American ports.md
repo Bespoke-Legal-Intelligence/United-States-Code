@@ -10,9 +10,11 @@ If the President, or any person thereunto authorized by him, shall find that a v
 
 #### (c) Alien seaman; bond
 
-Whenever the President shall have issued a proclamation under section 441(a) of this title he may, while such proclamation is in effect, require the owner, master, or person in command of any vessel, foreign or domestic, before departing from the United States, to give a bond to the United States, with sufficient sureties, in such amount as he shall deem proper, conditioned that no alien seaman who arrived on such vesselshall remain in the United States for a longer period than that permitted under the regulations, as amended from time to time, issued pursuant to section 168 <sup>1</sup> of title 8. Notwithstanding the provisions of said section 168 <sup>1</sup> of title 8, the President may issue such regulations with respect to the landing of such seamen as he deems necessary to insure their departure either on such vessel or another vessel at the expense of such owner, master, or person in command.
+Whenever the President shall have issued a proclamation under section 441(a) of this title he may, while such proclamation is in effect, require the owner, master, or person in command of any vessel, foreign or domestic, before departing from the United States, to give a bond to the United States, with sufficient sureties, in such amount as he shall deem proper, conditioned that no alien seaman who arrived on such vessel shall remain in the United States for a longer period than that permitted under the regulations, as amended from time to time, issued pursuant to section 168 <sup>1</sup> of title 8. Notwithstanding the provisions of said section 168 <sup>1</sup> of title 8, the President may issue such regulations with respect to the landing of such seamen as he deemsnecessary to insure their departure either on such vessel or another vessel at the expense of such owner, master, or person in command.
 
 (Nov. 4, 1939, ch. 2, §10, 54 Stat. 9.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ Section 168 of title 8, referred to in subsec. (c), was repealed by act June 27,
 #### Codification
 
 In subsec. (a), "section 967 of title 18" substituted for "section 1, title V, chapter 30, of the Act approved June 15, 1917 (40 Stat. 217, 221; U.S.C., 1934 edition, title 18, sec. 31)" on authority of act June 25, 1948, ch. 645, 62 Stat. 863, section 1 of which enacted Title 18, Crimes and Criminal Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

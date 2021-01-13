@@ -4,9 +4,13 @@ Any electronic, mechanical, or other device used, sent, carried, manufactured, a
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 215; amended Pub. L. 99–508, title I, §101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–508 substituted "wire, oral, or electronic" for "wire or oral" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

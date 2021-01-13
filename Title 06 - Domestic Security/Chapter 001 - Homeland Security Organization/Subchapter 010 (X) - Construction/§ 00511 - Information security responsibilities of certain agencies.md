@@ -12,11 +12,13 @@ Nothing in this chapter shall supersede any requirement made by or under the Ato
 
 (Pub. L. 107–296, title X, §1001(c), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 113–283, §2(e)(3)(B), Dec. 18, 2014, 128 Stat. 3087.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954,ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Codification
 
@@ -25,6 +27,8 @@ Section is comprised of section 1001(c) of Pub. L. 107–296. Par. (1)(B) of sec
 #### Amendments
 
 <b>2014</b>—Par. (1)(A). Pub. L. 113–283 substituted "section 3552(b)(5)" for "section 3532(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -32,7 +32,7 @@ Source of Funds.—Payments under this section shall be made from funds availabl
 
 (g)
 
-Disbursement.—Payments under this section to a State home shall be made as part of the disbursement of payments under section 1741 of this title with respect to that State home.
+Disbursement.—Payments under this section to a State home shall be made as part ofthe disbursement of payments under section 1741 of this title with respect to that State home.
 
 (h)
 
@@ -47,6 +47,8 @@ Annual Report From Payment Recipients.—Any State home receiving a payment unde
 Regulations.—The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
 
 (Added Pub. L. 108–422, title II, §201(a)(1), Nov. 30, 2004, 118 Stat. 2380.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

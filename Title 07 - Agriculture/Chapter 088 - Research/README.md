@@ -107,6 +107,7 @@
 | [5933\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005933%20-%20Assistive%20technology%20program%20for%20farmers%20with%20disabilities.md) | Assistive technology program for farmers with disabilities. |
 | 5934, 5935. Repealed. |  |
 | [5936\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005936%20-%20Farm%20and%20Ranch%20Stress%20Assistance%20Network.md) | Farm and Ranch Stress Assistance Network. |
+| [5936a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005936a%20-%20Support%20for%20farm%20stress%20programs.md) | Support for farm stress programs. |
 | [5937\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005937%20-%20Natural%20products%20research%20program.md) | Natural products research program. |
 | [5938\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005938%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9379%2C%20title%20VII%2C%20%C2%A77518%2C%20Feb.%207%2C%202014%2C%20128%20Stat.%20904.md) | Repealed. |
 | [5939\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005939%20-%20Foundation%20for%20Food%20and%20Agriculture%20Research.md) | Foundation for Food and Agriculture Research. |

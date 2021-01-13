@@ -70,7 +70,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 The Secretary may make a grant under subsection (a) only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
 
-&emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professionalor entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
+&emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
 &emsp;&emsp;(A) Counseling to substance abusers on the benefits and availability of substance abuse treatment services and services for children of substance abusers.
 
@@ -170,7 +170,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;(3) information concerning the extent of use of services provided under the grant, including the number of referrals to related services and information on other programs or services accessed by children, parents, and other caretakers;
 
-&emsp;(4) information concerning the extent to which parents were able to access and receive treatment for alcohol and drug abuse and sustain participation in treatment over time until the provider and the individual receiving treatment agree to end such treatment, and the extent to which parents re-enter treatment after the successful or unsuccessful termination of treatment;
+&emsp;(4) information concerning the extent to which parents were able to access and receivetreatment for alcohol and drug abuse and sustain participation in treatment over time until the provider and the individual receiving treatment agree to end such treatment, and the extent to which parents re-enter treatment after the successful or unsuccessful termination of treatment;
 
 &emsp;(5) information concerning the costs of the services provided and the source of financing for health care services;
 
@@ -282,7 +282,7 @@ Subsec. (a)(1). Pub. L. 106–310, §3106(a)(1)(A), substituted "Administrator o
 
 Subsec. (a)(1)(B). Pub. L. 106–310, §3106(a)(2)(A), struck out "and" at end.
 
-Subsec. (a)(1)(C). Pub. L. 106–310, §3106(a)(2)(B), substituted "through youth service agencies, family social services, child care providers, Head Start, schools andafter-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and" for period at end.
+Subsec. (a)(1)(C). Pub. L. 106–310, §3106(a)(2)(B), substituted "through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource and support centers, the criminal justice system, health, substance abuse and mental health providers through screenings conducted during regular childhood examinations and other examinations, self and family member referrals, substance abuse treatment services, and other providers of services to children and families; and" for period at end.
 
 Subsec. (a)(1)(D). Pub. L. 106–310, §3106(a)(2)(C), added subpar. (D).
 
@@ -312,7 +312,7 @@ Subsec. (c)(3)(D). Pub. L. 106–310, §3106(c)(3), inserted "which include chil
 
 Subsec. (d). Pub. L. 106–310, §3106(l)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Pub. L. 106–310, §3106(d)(1), substituted "Eligible entities" for "Considerations in making grants" in heading and "The Secretary shall distribute the grants through the following types of entities:" for "In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:" in introductory provisions.
+Pub. L. 106–310, §3106(d)(1), substituted "Eligible entities" for "Considerations in making grants" in headingand "The Secretary shall distribute the grants through the following types of entities:" for "In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:" in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 106–310, §3106(d)(2), substituted "drug early intervention, prevention or treatment programs" for "drug treatment programs".
 
@@ -388,7 +388,7 @@ Section effective July 10, 1992, with programs making awards providing financial
 
 #### Construction
 
-Pub. L. 102–321, title IV, §401(b), July 10, 1992, 106 Stat. 426, provided that: "With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[42 U.S.C. 290bb–25\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs."
+Pub. L. 102–321, title IV, §401(b), July 10, 1992, 106 Stat. 426, provided that: "With respect to the program established in section 399D \[now 519\] of the PublicHealth Service Act \[42 U.S.C. 290bb–25\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs."
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

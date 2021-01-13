@@ -2,7 +2,7 @@
 
 #### (a) Oral lobbying contacts
 
-Any person or entity that makes an oral lobbying contact with a covered legislative branchofficial or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
+Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
 
 &emsp;(1) state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
 
@@ -22,9 +22,13 @@ Upon request by a person or entity making a lobbying contact, the individual who
 
 (Pub. L. 104–65, §14, Dec. 19, 1995, 109 Stat. 702.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (b), was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

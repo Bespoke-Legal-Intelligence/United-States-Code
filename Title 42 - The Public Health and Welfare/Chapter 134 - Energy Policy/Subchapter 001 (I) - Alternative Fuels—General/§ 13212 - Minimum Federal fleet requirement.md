@@ -92,7 +92,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (C) Special rule for vehicles provided by funds contained in Members' Representational Allowance
 
-&emsp;&emsp;This paragraph shall apply to the acquisition of a light duty motor vehicle or medium duty passenger vehicle using any portion of a Member's Representational Allowance, including an acquisition under a long-term lease.
+&emsp;&emsp;This paragraph shall apply to the acquisition of a light duty motor vehicle or mediumduty passenger vehicle using any portion of a Member's Representational Allowance, including an acquisition under a long-term lease.
 
 #### (3) Guidance
 

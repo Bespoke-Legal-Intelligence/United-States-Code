@@ -52,7 +52,7 @@ For purposes of the tax determined under section 667(a)—
 
 #### (b) Limitation
 
-The total amount of the interest charge shall not, when added to the total partial tax computed under section 667(b), exceed the amount of the accumulation distribution (other than theamount of tax deemed distributed by section 666(b) or (c)) in respect of which such partial tax was determined.
+The total amount of the interest charge shall not, when added to the total partial tax computed under section 667(b), exceed the amount of the accumulation distribution (other than the amount of tax deemed distributed by section 666(b) or (c)) in respect of which such partial tax was determined.
 
 #### (c) Interest charge not deductible
 
@@ -76,7 +76,7 @@ A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, 
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1906(d)(1), Aug. 20, 1996, 110 Stat. 1916, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Nov. 20, 1996\]."
+Pub. L. 104–188, title I, §1906(d)(1), Aug. 20, 1996, 110 Stat. 1916, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date
 
@@ -84,5 +84,5 @@ Pub. L. 94–455, title X, §1014(d), Oct. 4, 1976, 90 Stat. 1617, provided that
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

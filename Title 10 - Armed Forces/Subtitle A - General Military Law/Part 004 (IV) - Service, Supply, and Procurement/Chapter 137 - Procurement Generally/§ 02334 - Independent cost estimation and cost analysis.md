@@ -6,7 +6,7 @@ In General.—The Director of Cost Assessment and Program Evaluation shall ensur
 
 &emsp;(1) prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of cost estimation and cost analysis for the acquisition programs of the Department of Defense;
 
-&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary ofDefense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
+&emsp;(2) provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies with respect to cost estimation in the Department of Defense in general and with respect to specific cost estimates and cost analyses to be conducted in connection with a major defense acquisition program or major subprogram under chapter 144 of this title;
 
 &emsp;(3) issue guidance relating to the proper discussion of risk in cost estimates generally, and specifically, for the proper discussion of risk in cost estimates for major defense acquisition programs and major subprograms;
 
@@ -84,7 +84,7 @@ Discussion of Risk in Cost Estimates.—The Director of Cost Assessment and Prog
 
 Estimates for Program Baseline and Analyses and Targets for Contract Negotiation Purposes.—(1) The policies, procedures, and guidance issued by the Director of Cost Assessment and Program Evaluation in accordance with the requirements of subsection (a) shall provide that cost estimates developed for baseline descriptions and other program purposes conducted pursuant to subsection (a)(6) are not to be used for the purpose of contract negotiations or the obligation of funds.
 
-(2) The Under Secretary of Defense for Acquisition and Sustainment shall, in consultation with the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
+(2) The Under Secretary of Defense for Acquisition and Sustainment shall, in consultationwith the Director of Cost Assessment and Program Evaluation, develop policies, procedures, and guidance to ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are based on the Government's reasonable expectation of successful contractor performance in accordance with the contractor's proposal and previous experience.
 
 (3) The Program Manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of paragraph (1) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition and Sustainment under paragraph (2).
 
@@ -114,21 +114,63 @@ Guidelines and Collection of Cost Data.—(1) The Director of Cost Assessment an
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.)
+(Added Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; amended Pub. L. 111–383, div. A, title VIII, §811, Jan. 7, 2011, 124 Stat. 4263; Pub. L. 112–81, div. A, title VIII, §833, Dec. 31, 2011, 125 Stat. 1506; Pub. L. 113–66, div. A, title VIII, §812(c), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), title X, §1077(a), Nov. 25, 2015, 129 Stat. 907, 998; Pub. L. 114–328, div. A, title VIII, §§842(a), (b), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title XVIII, §1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4174–4177.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4151, 4174–4177, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3221(a) and (b) of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3222(a) of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3223 of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3224 of this title;</i>
+
+<i>(5) by transferring subsection (e) to section 3225 of this title;</i>
+
+<i>(6) by transferring subsection (f) to section 3226(a) of this title;</i>
+
+<i>(7) by transferring subsection (g) to section 3227(a) of this title; and</i>
+
+<i>(8) by transferring subsection (h) to section 3221(c) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1812(b)(1), redesignated subsec. (a) as section 3221(a) and (b) of this title.
+
+Subsec. (b). Pub. L. 116–283, §1812(c)(1), redesignated subsec. (b) as section 3222(a) of this title.
+
+Subsec. (c). Pub. L. 116–283, §1812(d), redesignated subsec. (c) as section 3223 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1812(e)(1), redesignated subsec. (d) as section 3224 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1812(f)(1), redesignated subsec. (e) as section 3225 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1812(g)(1), redesignated subsec. (f) as section 3226(a) of this title.
+
+Subsec. (g). Pub. L. 116–283, §1812(h)(1), redesignated subsec. (g) as section 3227(a) of this title.
+
+Subsec. (h). Pub. L. 116–283, §1812(b)(3), redesignated subsec. (h) as section 3221(c) of this title.
 
 <b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" wherever appearing.
 
 <b>2017</b>—Subsec. (a)(6)(B). Pub. L. 115–91 inserted semicolon at end.
 
-<b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §846(3), which directed striking out "or a major automated information system under chapter 144A of this title", was executed by striking out "or a major automated information system program under chapter 144A of this title" before semicolon at end, to reflect the probable intent of Congress.
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §846(3), which directed striking out "or a major automated information system under chapter 144A of this title", was executedby striking out "or a major automated information system program under chapter 144A of this title" before semicolon at end, to reflect the probable intent of Congress.
 
 Pub. L. 114–328, §842(b)(1), inserted "or major subprogram" before "under chapter 144".
 
 Subsec. (a)(3). Pub. L. 114–328, §842(a)(1), (b)(2), substituted "discussion of risk" for "selection of confidence levels" in two places and "major defense acquisition programs and major subprograms" for "major defense acquisition programs and major automated information system programs".
 
-Subsec. (a)(4), (5). Pub. L. 114–328, §842(b)(2), substituted "major defense acquisition programs and major subprograms" for "major defense acquisitionprograms and major automated information system programs".
+Subsec. (a)(4), (5). Pub. L. 114–328, §842(b)(2), substituted "major defense acquisition programs and major subprograms" for "major defense acquisition programs and major automated information system programs".
 
 Subsec. (a)(6). Pub. L. 114–328, §842(a)(2)(A), (B), in introductory provisions, inserted "or approve" after "conduct" and substituted "all major defense acquisition programs and major subprograms—" for "major defense acquisition programs and major automated information system programs for which the Under Secretary of Defense for Acquisition, Technology, and Logistics is the Milestone Decision Authority—".
 
@@ -203,6 +245,14 @@ Subsec. (e)(5). Pub. L. 112–81, §833(5), substituted "paragraph (4)" for "par
 Pub. L. 112–81, §833(1), redesignated par. (4) as (5).
 
 Subsecs. (f), (g). Pub. L. 111–383, §811(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2016 Amendment
 

@@ -38,7 +38,7 @@
 
 &emsp;(ii) in the case of competitive proposals—
 
-&emsp;&emsp;(I) either a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intended to be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) unless discussions are determined to be necessary; and
+&emsp;&emsp;(I) either a statement that the proposals are intended to be evaluated with, and award made after, discussions with the offerors, or a statement that the proposals are intendedto be evaluated, and award made, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) unless discussions are determined to be necessary; and
 
 &emsp;&emsp;(II) the time and place for submission of proposals.
 
@@ -126,7 +126,7 @@
 
 (E) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
 
-(F) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(F) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -154,7 +154,7 @@
 
 (c) The Secretary of Defense shall ensure that before a contract for the delivery of supplies to the Department of Defense is entered into—
 
-&emsp;(1) when the appropriate officials of the Department are making an assessment of the most advantageous source for acquisition of the supplies (considering quality, price, delivery, and other factors), there is a review of the availability and cost of each item of supply—
+&emsp;(1) when the appropriate officials of the Department are making an assessment of themost advantageous source for acquisition of the supplies (considering quality, price, delivery, and other factors), there is a review of the availability and cost of each item of supply—
 
 &emsp;&emsp;(A) through the supply system of the Department of Defense; and
 
@@ -174,7 +174,7 @@
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost tothe United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -210,7 +210,43 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term "proposal" means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714; Pub. L. 114–328, div. A, title VIII, §825(a), Dec. 23, 2016, 130 Stat. 2279; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–283, div. A, title XVIII, §§1811(e)(2), (f)(2), (g)(2), 1816(c)(1), (2), (e)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4170, 4173, 4182, 4185.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1811(e)(2), (f)(2), (g)(2), 1816(c)(1), (2), (e)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4151, 4170, 4173, 4182, 4185, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3206 of this title;</i>
+
+<i>(2) by transferring subsection (b) to chapter 241 of this title as follows:</i>
+
+<i>(A) paragraphs (1) and (2) to section 3301 of this title;</i>
+
+<i>(B) paragraph (3) to section 3302 of this title;</i>
+
+<i>(C) paragraph (4) to section 3303 of this title;</i>
+
+<i>(D) paragraph (5) to section 3304 of this title;</i>
+
+<i>(E) paragraphs (6) and (7) to section 3305 of this title;</i>
+
+<i>(F) paragraph (8) to section 3306 of this title; and</i>
+
+<i>(G) paragraph (9) to section 3307 of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3207 of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3208 of this title;</i>
+
+<i>(5) by transferring subsections (e) and (f) to subsections (a) and (b), respectively, of section 3308 of this title; and</i>
+
+<i>(6) by transferring subsection (g) to section 3309 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -263,6 +299,30 @@ Reference to bids is omitted as surplusage (see opinion of the Judge Advocate Ge
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(e)(2), redesignated subsec. (a) as section 3206 of this title.
+
+Subsec. (b)(1), (2). Pub. L. 116–283, §1816(c)(1), (2)(A), redesignated pars. (1) and (2) as section 3301 of this title.
+
+Subsec. (b)(3). Pub. L. 116–283, §1816(c)(1), (2)(B), redesignated par. (3) as section 3302 of this title.
+
+Subsec. (b)(4). Pub. L. 116–283, §1816(c)(1), (2)(C), redesignated par. (4) as section 3303 of this title.
+
+Subsec. (b)(5). Pub. L. 116–283, §1816(c)(1), (2)(D), redesignated par. (5) as section 3304 of this title.
+
+Subsec. (b)(6), (7). Pub. L. 116–283, §1816(c)(1), (2)(E), redesignated pars. (6) and (7) as section 3305 of this title.
+
+Subsec. (b)(8). Pub. L. 116–283, §1816(c)(1), (2)(F), redesignated par. (8) as section 3306 of this title.
+
+Subsec. (b)(9). Pub. L. 116–283, §1816(c)(1), (2)(G), redesignated par. (9) as section 3307 of this title.
+
+Subsec. (c). Pub. L. 116–283, §1811(f)(2), redesignated subsec. (c) as section 3207 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1811(g)(2), redesignated subsec. (d) as section 3208 of this title.
+
+Subsecs. (e), (f). Pub. L. 116–283, §1816(e)(1), redesignated subsecs. (e) and (f) as section 3308(a) and (b), respectively, of this title.
+
+Subsec. (g). Pub. L. 116–283, §1816(f)(1), redesignated subsec. (g) as section 3309 of this title.
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(c)(3)(A), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
 
@@ -381,6 +441,14 @@ Catchline, subsecs. (a) to (d). Pub. L. 98–369 substituted "Contracts: plannin
 <b>1968</b>—Subsec. (a). Pub. L. 90–268 inserted provision that, except in cases where the Secretary of Defense determines that military requirements necessitate such specification, no advertisement or invitation to bid for the carriage of Government property in other than Government-owned cargo containers shall specify carriage of such property in cargo containers of any stated length, height, or width.
 
 <b>1958</b>—Subsecs. (b) to (d). Pub. L. 85–861 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -510,7 +578,7 @@ Pub. L. 115–232, div. A, title VIII, §823, Aug. 13, 2018, 132 Stat. 1855, pro
 
 &emsp;&emsp;"(C) the rating clearly identifies the responsibilities of joint venture partners for discrete elements of the work where the partners are not jointly and severally responsible for the project.
 
-&emsp;"(3) Processes to request exceptions from the annual evaluation requirement under section 42.1502(a)of the Federal Acquisition Regulation for construction and architect-engineer contracts where submission of the annual evaluations would not provide the best representation of the performance of a contractor, including subcontractors and joint venture partners, including—
+&emsp;"(3) Processes to request exceptions from the annual evaluation requirement under section 42.1502(a) of the Federal Acquisition Regulation for construction and architect-engineer contracts where submission of the annual evaluations would not provide the best representation of the performance of a contractor, including subcontractors and joint venture partners, including—
 
 &emsp;&emsp;"(A) where no severable element of the work has been completed;
 
@@ -580,7 +648,7 @@ Pub. L. 114–328, div. A, title VIII, §875, Dec. 23, 2016, 130 Stat. 2310, as 
 
 "(a)
 
-In General.—The Secretary of Defense shall ensure that the Department of Defense uses commercial or non-Government specifications and standards in lieu of military specifications and standards, including for procuring new systems, major modifications, upgrades to current systems, non-developmental and commercial items, and programs in all acquisition categories, unless no practical alternative exists to meet user needs. If it is not practicable to use a commercial or non-Government standard, a Government-unique specification may be used.
+In General.—The Secretary of Defense shall ensure that the Department of Defense uses commercial or non-Government specifications and standards in lieu of military specifications and standards, including for procuring new systems, major modifications, upgrades to current systems, non-developmental and commercial items, and programs in all acquisition categories, unless no practical alternative exists to meet user needs.If it is not practicable to use a commercial or non-Government standard, a Government-unique specification may be used.
 
 "(b)
 
@@ -654,17 +722,13 @@ Elements.—The guidance prescribed under subsection (a) shall include a prohibi
 
 #### Authorization of Evaluation Factor for Defense Contractors Employing or Subcontracting With Members of the Selected Reserve of the Reserve Components of the Armed Forces
 
-Pub. L. 109–163, div. A, title VIII, §819, Jan. 6, 2006, 119 Stat. 3385, provided that:
+Pub. L. 109–163, div. A, title VIII, §819, Jan. 6, 2006, 119 Stat. 3385, as amended by Pub. L. 116–283, div. A, title VIII, §821, Jan. 1, 2021, 134 Stat. 3753, provided that:
 
 "(a)
 
 Defense Contracts.—In awarding any contract for the procurement of goods or services to an entity, the Secretary of Defense is authorized to use as an evaluation factor whether the entity intends to carry out the contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces.
 
 "(b)
-
-Documentation of Selected Reserve-Related Evaluation Factor.—Any entity claiming intent to carry out a contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces shall submit proof of the use of such employees or subcontractors for the Department of Defense to consider in carrying out subsection (a) with respect to that contract.
-
-"(c)
 
 Regulations.—The Federal Acquisition Regulation shall be revised as necessary to implement this section."
 
@@ -674,5 +738,5 @@ Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, pro
 
 #### Construction of 1984 Amendment
 
-Amendment by Pub. L. 98–369 as not superseding or affecting the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2723(c) of Pub. L. 98–369, set out as a note under section 2304 of this title.
+Amendment by Pub. L. 98–369 as not superseding or affecting the provisions of section 637(a) of Title 15,Commerce and Trade, see section 2723(c) of Pub. L. 98–369, set out as a note under section 2304 of this title.
 

@@ -10,7 +10,7 @@ Authority to Convey.—The Secretary of a military department may convey to an e
 
 &emsp;(3) has been made available for public benefit transfer for a sufficient period of time to potential claimants; and
 
-&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real propertydisposal processes and authorities under subtitle I of title 40.
+&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
 
 (b)
 
@@ -42,7 +42,7 @@ Notice and Wait Requirements.—The Secretary concerned may not approve of the r
 
 (f)
 
-Limitations.—The conveyance of real property under this section shall not be used as a condition of allowing any defense activity under any Federal, State, or local permitting or review process. The Secretary concerned may make the conveyance, with the restrictions specified in subsection (c), to establish a mitigation bank, but only if the establishment of the mitigation bank does not occur in order to satisfy any condition for permitting military activity under a Federal, State, or local permitting or review process.
+Limitations.—The conveyance of real property under this section shall not be used as a condition of allowing any defense activity under any Federal, State, or local permitting or review process. The Secretary concerned may make the conveyance, with the restrictions specified in subsection (c), to establish a mitigation bank, but only if the establishment of themitigation bank does not occur in order to satisfy any condition for permitting military activity under a Federal, State, or local permitting or review process.
 
 (g)
 

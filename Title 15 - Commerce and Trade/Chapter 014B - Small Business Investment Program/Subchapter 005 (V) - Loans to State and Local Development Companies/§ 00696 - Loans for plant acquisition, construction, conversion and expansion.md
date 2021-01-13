@@ -66,7 +66,7 @@ Funding from a small business concern.—The small business concern (or its owne
 
 &emsp;&emsp;(i) at least 15 percent of the total cost of the project financed, if the small business concern has been in operation for a period of 2 years or less;
 
-&emsp;&emsp;(ii) at least 15 percent of the total cost of the project financed if the project involves the construction of a limited or single purpose building or structure;
+&emsp;&emsp;(ii) at least 15 percent of the total cost of the project financed if the project involvesthe construction of a limited or single purpose building or structure;
 
 &emsp;&emsp;(iii) at least 20 percent of the total cost of the project financed if the project involves both of the conditions set forth in clauses (i) and (ii); or
 
@@ -116,7 +116,7 @@ In general.—Any financing approved under this subchapter may include a limited
 
 &emsp;(B)
 
-Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 50 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
+Expansions.—If the project involves expansion of a small business concern, any amount of existing indebtedness that does not exceed 100 percent of the project cost of the expansion may be refinanced and added to the expansion cost, if—
 
 &emsp;&emsp;(i) the proceeds of the indebtedness were used to acquire land, including a building situated thereon, to construct a building thereon, or to purchase equipment;
 
@@ -132,11 +132,99 @@ Expansions.—If the project involves expansion of a small business concern, any
 
 &emsp;&emsp;(vii) the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
 
-&emsp;(C) <sup>2</sup> Repealed. Pub. L. 111–240, title I, §1122(b), Sept. 27, 2010, 124 Stat. 2512.
+&emsp;(C)
 
-(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510; Pub. L. 115–371, §2, Dec. 21, 2018, 132 Stat. 5106.)
+Refinancing not involving expansions.—
+
+&emsp;&emsp;(i)
+
+Definitions.—In this subparagraph—
+
+&emsp;&emsp;&emsp;(I) the term "borrower" means a small business concern that submits an application to a development company for financing under this subparagraph;
+
+&emsp;&emsp;&emsp;(II) the term "eligible fixed asset" means tangible property relating to which the Administrator may provide financing under this section; and
+
+&emsp;&emsp;&emsp;(III) the term "qualified debt" means indebtedness—
+
+&emsp;&emsp;&emsp;&emsp;(aa) that was incurred not less than 6 months before the date of the application for assistance under this subparagraph;
+
+&emsp;&emsp;&emsp;&emsp;(bb) that is a commercial loan;
+
+&emsp;&emsp;&emsp;&emsp;(cc) the proceeds of which were used to acquire an eligible fixed asset;
+
+&emsp;&emsp;&emsp;&emsp;(dd) that was incurred for the benefit of the small business concern; and
+
+&emsp;&emsp;&emsp;&emsp;(ee) that is collateralized by eligible fixed assets.
+
+&emsp;&emsp;(ii)
+
+Authority.—A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
+
+&emsp;&emsp;&emsp;(I) the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
+
+&emsp;&emsp;&emsp;(II) the borrower has been in operation for all of the 2-year period ending on the date the loan application is submitted; and
+
+&emsp;&emsp;&emsp;(III) for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
+
+&emsp;&emsp;(iii)
+
+Financing for business expenses.—
+
+&emsp;&emsp;&emsp;(I)
+
+Financing for business expenses.—The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
+
+&emsp;&emsp;&emsp;(II)
+
+Application for financing.—An application for financing under subclause (I) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(aa) a specific description of the expenses for which the additional financing is requested; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) an itemization of the amount of each expense.
+
+&emsp;&emsp;&emsp;(III)
+
+Condition on additional financing.—A borrower may not use any part of the financing under this clause for non-business purposes.
+
+&emsp;&emsp;(iv)
+
+Loans based on jobs.—
+
+&emsp;&emsp;&emsp;(I)
+
+Job creation and retention goals.—
+
+&emsp;&emsp;&emsp;&emsp;(aa)
+
+In general.—The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 695 of this title.
+
+&emsp;&emsp;&emsp;&emsp;(bb)
+
+Alternate job retention goal.—The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $75,000.
+
+&emsp;&emsp;&emsp;(II)
+
+Number of employees.—For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph, by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
+
+&emsp;&emsp;(v)
+
+Total amount of loans.—The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year.
+
+(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510; Pub. L. 115–371, §2, Dec. 21, 2018, 132 Stat. 5106; Pub. L. 116–260, div. N, title III, §328(a)(2), Dec. 27, 2020, 134 Stat. 2038.)
 
 #### Amendments
+
+<b>2020</b>—Par. (7)(B). Pub. L. 116–260, §328(a)(2)(A), substituted "100 percent" for "50 percent" in introductory provisions.
+
+Par. (7)(C). Pub. L. 116–260, §328(a)(2)(B), added subpar. (C).
 
 <b>2018</b>—Par. (3)(E)(ii). Pub. L. 115–371 redesignated introductory provisions of cl. (ii) as subcl. (I) of cl. (ii) and inserted heading, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (I) and realigned margins, in item (aa), substituted "is more than the Federal banking regulator appraisal threshold" for "is more than $250,000", in item (bb), substituted "is equal to or less than the Federal banking regulator appraisal threshold" for "is $250,000 or less", and added subcl. (II).
 
@@ -148,99 +236,7 @@ Par. (2)(A)(ii). Pub. L. 111–240, §1112(2), substituted "$5,000,000" for "$2,
 
 Par. (2)(A)(iii) to (v). Pub. L. 111–240, §1112(3)–(5), substituted "$5,500,000" for "$4,000,000".
 
-Par. (7)(C). Pub. L. 111–240, §1122(b), struck out subpar. (C) relating to refinancing not involving expansions. Text read as follows:
-
-"(i)
-
-Definitions.—In this subparagraph—
-
-&emsp;"(I) the term 'borrower' means a small business concern that submits an application to a development company for financing under this subparagraph;
-
-&emsp;"(II) the term 'eligible fixed asset' means tangible property relating to which the Administrator may provide financing under this section; and
-
-&emsp;"(III) the term 'qualified debt' means indebtedness—
-
-&emsp;&emsp;"(aa) that—
-
-&emsp;&emsp;&emsp;"(AA) was incurred not less than 2 years before the date of the application for assistance under this subparagraph;
-
-&emsp;&emsp;&emsp;"(BB) is a commercial loan;
-
-&emsp;&emsp;&emsp;"(CC) is not subject to a guarantee by a Federal agency;
-
-&emsp;&emsp;&emsp;"(DD) the proceeds of which were used to acquire an eligible fixed asset;
-
-&emsp;&emsp;&emsp;"(EE) was incurred for the benefit of the small business concern; and
-
-&emsp;&emsp;&emsp;"(FF) is collateralized by eligible fixed assets; and
-
-&emsp;&emsp;"(bb) for which the borrower has been current on all payments for not less than 1 year before the date of the application.
-
-"(ii)
-
-Authority.—A project that does not involve the expansion of a small business concern may include the refinancing of qualified debt if—
-
-&emsp;"(I) the amount of the financing is not more than 90 percent of the value of the collateral for the financing, except that, if the appraised value of the eligible fixed assets serving as collateral for the financing is less than the amount equal to 125 percent of the amount of the financing, the borrower may provide additional cash or other collateral to eliminate any deficiency;
-
-&emsp;"(II) the borrower has been in operation for all of the 2-year period ending on the date of the loan; and
-
-&emsp;"(III) for a financing for which the Administrator determines there will be an additional cost attributable to the refinancing of the qualified debt, the borrower agrees to pay a fee in an amount equal to the anticipated additional cost.
-
-"(iii)
-
-Financing for business expenses.—
-
-&emsp;"(I)
-
-Financing for business expenses.—The Administrator may provide financing to a borrower that receives financing that includes a refinancing of qualified debt under clause (ii), in addition to the refinancing under clause (ii), to be used solely for the payment of business expenses.
-
-&emsp;"(II)
-
-Application for financing.—An application for financing under subclause (I) shall include—
-
-&emsp;&emsp;"(aa) a specific description of the expenses for which the additional financing is requested; and
-
-&emsp;&emsp;"(bb) an itemization of the amount of each expense.
-
-&emsp;"(III)
-
-Condition on additional financing.—A borrower may not use any part of the financing under this clause for non-business purposes.
-
-"(iv)
-
-Loans based on jobs.—
-
-&emsp;"(I)
-
-Job creation and retention goals.—
-
-&emsp;&emsp;"(aa)
-
-In general.—The Administrator may provide financing under this subparagraph for a borrower that meets the job creation goals under subsection (d) or (e) of section 695 of this title.
-
-&emsp;&emsp;"(bb)
-
-Alternate job retention goal.—The Administrator may provide financing under this subparagraph to a borrower that does not meet the goals described in item (aa) in an amount that is not more than the product obtained by multiplying the number of employees of the borrower by $65,000.
-
-&emsp;"(II)
-
-Number of employees.—For purposes of subclause (I), the number of employees of a borrower is equal to the sum of—
-
-&emsp;&emsp;"(aa) the number of full-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; and
-
-&emsp;&emsp;"(bb) the product obtained by multiplying—
-
-&emsp;&emsp;&emsp;"(AA) the number of part-time employees of the borrower on the date on which the borrower applies for a loan under this subparagraph; by
-
-&emsp;&emsp;&emsp;"(BB) the quotient obtained by dividing the average number of hours each part time employee of the borrower works each week by 40.
-
-"(v)
-
-Nondelegation.—Notwithstanding section 697e(e) of this title, the Administrator may not permit a premier certified lender to approve or disapprove an application for assistance under this subparagraph.
-
-"(vi)
-
-Total amount of loans.—The Administrator may provide not more than a total of $7,500,000,000 of financing under this subparagraph for each fiscal year."
+Par. (7)(C). Pub. L. 111–240, §1122(b), struck out subpar. (C) relating to refinancing not involving expansions.
 
 Pub. L. 111–240, §1122(a), added subpar. (C).
 
@@ -248,7 +244,7 @@ Pub. L. 111–240, §1122(a), added subpar. (C).
 
 <b>2007</b>—Par. (2)(A)(iv), (v). Pub. L. 110–140 added cls. (iv) and (v).
 
-<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
+<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiablesmall business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
 
 <b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(9) \[title III, §303\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern."
 
@@ -316,17 +312,13 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L. 97–35, set out as a note under section 631 of this title.
 
-#### Refinancing Not Involving Expansions
+#### Refinancing Senior Project Debt
 
-Pub. L. 114–113, div. E, title V, §521(a), Dec. 18, 2015, 129 Stat. 2463, provided that: "Subparagraph (C) of section 502(7) of the Small Business Investment Act of 1958 (15 U.S.C. 696(7)) \[former 15 U.S.C. 696(7)(C), see 2010 Amendment note above for text\], as in effect on September 25, 2012, shall be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such subparagraph (C) and section 503 of the Small Business Investment Act of 1958 (15 U.S.C. 697) is zero, except that—
+Pub. L. 116–260, div. N, title III, §328(c), Dec. 27, 2020, 134 Stat. 2040, provided that: "During the 1-year period beginning on the date of enactment of this Act \[Dec. 27, 2020\], a development company described in title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is authorized to allow the refinancing of a senior loan on an existing project in an amount that, when combined with the outstanding balance on the development company loan, is not more than 90 percent of the total loan to value. Proceeds of such refinancing can be used to support business operating expenses."
 
-&emsp;"(1) subclause (I)(bb) and subclause (II) of clause (iv) of such subparagraph (C) shall not be in effect;
+#### Refinancing Not Involving Expansions Under Former Par. (7)(C)
 
-&emsp;"(2) unless, upon application by a development company and after determining that the refinance loan is needed for good cause, the Administrator of the Small Business Administration waives this paragraph, a development company shall limit its financings under section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) so that, during any fiscal year, new financings under such subparagraph (C) shall not exceed 50 percent of the dollars loaned under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) during the previous fiscal year; and
-
-&emsp;"(3) clause (iv)(I)(aa) of such subparagraph (C) shall be applied by substituting 'job creation and retention' for 'job creation'."
+Pub. L. 114–113, div. E, title V, §521(a), Dec. 18, 2015, 129 Stat. 2463, which provided that former par. (7)(C) of this section as in effect on Sept. 25, 2012, would be in effect in any fiscal year during which the cost to the Federal Government of making guarantees under such par. and section 697 of this title would be zero, with certain exceptions, was repealed by Pub. L. 116–260, div. N, title III, §328(a)(1), Dec. 27, 2020, 134 Stat. 2038.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "clause".</i>
-
-<i><sup>2</sup></i><i> See Refinancing Not Involving Expansions note below.</i>
 

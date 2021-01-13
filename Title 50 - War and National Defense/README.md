@@ -4786,7 +4786,7 @@ Article 23 of Chapter VII, above referred to, provides:
 
 #### Ratification of Japanese Peace Treaty
 
-The Treaty of Peace with Japan, signed at San Francisco on September 8, 1951, was ratified by the United States Senate on March 20, 1952. For Resolution of ratification, see Congressional Record, Vol. 98, No. 46, Thursday, March 20, 1952, p. 2634. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out above, such treaty came into force on Apr. 28, 1952.
+The Treaty of Peace with Japan, signed at San Francisco on September 8, 1951, was ratified by the United States Senate on March 20, 1952. For Resolution of ratification, see Cong. Rec., vol. 98, pt. 2, p. 2594, Mar. 20, 1952. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out above, such treaty came into force on Apr. 28, 1952.
 
 #### Germany
 

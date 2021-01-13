@@ -14,6 +14,8 @@ The Office of Personnel Management may prescribe regulations permitting employee
 
 (Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1004; amended Pub. L. 104–93, title III, §308, Jan. 6, 1996, 109 Stat. 966; Pub. L. 112–230, §3(f), Dec. 28, 2012, 126 Stat. 1617.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96–54, §2(a)(44), Aug. 14, 1979, 93 Stat. 384, related to penalties, prior to the general revision of this subchapter by Pub. L. 103–94.
@@ -23,6 +25,8 @@ A prior section 7325, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 526; Pub. L. 96�
 <b>2012</b>—Par. (1). Pub. L. 112–230 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the municipality or political subdivision is in Maryland or Virginia and in the immediate vicinity of the District of Columbia, or is a municipality in which the majority of voters are employed by the Government of the United States; and".
 
 <b>1996</b>—Pub. L. 104–93 inserted "and paragraph (2) of section 7323(b)" after "section 7323(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -180,7 +180,7 @@ Appeals during trial.—If an appeal is taken during trial, the trial court shal
 
 &emsp;&emsp;(C)
 
-Effect of ruling.—An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
+Effect of ruling.—An interlocutory appeal and decision shall not affect the rightof the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
 &emsp;(6)
 
@@ -228,6 +228,8 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6), is classified to section 1189 of Title 8, Aliens and Nationality.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–23 substituted "20 years" for "15 years".
@@ -247,6 +249,8 @@ Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior 
 Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), added subsecs. (h) to (j).
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–56 substituted "15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life" for "10 years, or both".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

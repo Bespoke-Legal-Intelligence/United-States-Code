@@ -18,7 +18,7 @@ In general.—Section 1447 shall apply to any removal of a case under this secti
 
 &emsp;(2)
 
-Time period for judgment.—If the court of appeals accepts an appeal under paragraph (1), the court shall complete all action on such appeal, including rendering judgment, notlater than 60 days after the date on which such appeal was filed, unless an extension is granted under paragraph (3).
+Time period for judgment.—If the court of appeals accepts an appeal under paragraph (1), the court shall complete all action on such appeal, including rendering judgment, not later than 60 days after the date on which such appeal was filed, unless an extension is granted under paragraph (3).
 
 &emsp;(3)
 
@@ -36,7 +36,7 @@ Denial of appeal.—If a final judgment on the appeal under paragraph (1) is not
 
 Exception.—This section shall not apply to any class action that solely involves—
 
-&emsp;(1) a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>1</sup>) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
+&emsp;(1) a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>1</sup>) and section28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
 
 &emsp;(2) a claim that relates to the internal affairs or governance of a corporation or other form of business enterprise and arises under or by virtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
 
@@ -44,11 +44,15 @@ Exception.—This section shall not apply to any class action that solely involv
 
 (Added Pub. L. 109–2, §5(a), Feb. 18, 2005, 119 Stat. 12; amended Pub. L. 111–16, §6(2), May 7, 2009, 123 Stat. 1608; Pub. L. 112–63, title I, §103(d)(2), Dec. 7, 2011, 125 Stat. 762.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–63 substituted "1446(c)(1)" for "1446(b)".
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–16 substituted "not more than 10 days" for "not less than 7 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the ability of individuals with developmental disabilities to participate in the full range of community life with persons of the individuals' choice; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the ability of individuals with developmental disabilities to access services, supports, and assistance in a manner that ensures that such an individualis free from abuse, neglect, sexual and financial exploitation, violation of legal and human rights, and the inappropriate use of restraints and seclusion; and
+&emsp;&emsp;&emsp;&emsp;(III) the ability of individuals with developmental disabilities to access services, supports, and assistance in a manner that ensures that such an individual is free from abuse, neglect, sexual and financial exploitation, violation of legal and human rights, and the inappropriate use of restraints and seclusion; and
 
 &emsp;&emsp;&emsp;(iii) the extent to which the entities described in paragraph (1) collaborate with each other to achieve the purpose of this subchapter and the policy described in section 15001(c) of this title.
 
@@ -68,7 +68,7 @@ Except as otherwise expressly provided in this subchapter, the Secretary, not la
 
 #### (4) Meetings
 
-&emsp;Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to the public. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
+&emsp;Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to thepublic. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
 
 (Pub. L. 106–402, title I, §104, Oct. 30, 2000, 114 Stat. 1688.)
 

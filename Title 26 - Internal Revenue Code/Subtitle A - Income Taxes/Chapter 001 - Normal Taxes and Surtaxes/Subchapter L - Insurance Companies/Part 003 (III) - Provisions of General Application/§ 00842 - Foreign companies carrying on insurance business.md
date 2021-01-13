@@ -166,7 +166,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) ofPub. L. 89–809, set out as a note under section 11 of this title.
+Amendment by Pub. L. 89–809 with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
 
 #### Effective Date of 1959 Amendment
 

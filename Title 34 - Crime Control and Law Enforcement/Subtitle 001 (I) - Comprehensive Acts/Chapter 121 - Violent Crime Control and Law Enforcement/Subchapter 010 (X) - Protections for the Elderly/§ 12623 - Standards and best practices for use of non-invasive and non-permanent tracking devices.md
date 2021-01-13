@@ -70,6 +70,8 @@ The standards and best practices established by the Attorney General under subse
 
 (Pub. L. 115–141, div. Q, title III, §302, Mar. 23, 2018, 132 Stat. 1121.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means div. Q of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 1115, known as Kevin and Avonte's Law of 2018. For complete classification of div. Q to the Code, see section 1 of div. Q of Pub. L. 115–141, set out as a Short Title of 2018 Amendment note under section 10101 of this title and Tables.
@@ -79,6 +81,8 @@ The Civil Rights Act of 1964, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 8
 #### Codification
 
 Section was enacted as part of Kevin and Avonte's Law of 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
@@ -90,7 +94,7 @@ Child.—The term 'child' means an individual who is less than 18 years of age.
 
 &emsp;"(2)
 
-Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
 
 &emsp;"(3)
 

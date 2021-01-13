@@ -114,7 +114,7 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 #### (2) Geothermal deposit defined
 
-&emsp;For purposes of paragraph (1), the term "geothermal deposit" means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such a deposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
+&emsp;For purposes of paragraph (1), the term "geothermal deposit" means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such adeposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
 
 #### (3) Percentage depletion not to include lease bonuses, etc.
 
@@ -182,7 +182,7 @@ Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted "paragraph (5) or (6)
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
-<b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
+<b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance,if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
 Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 

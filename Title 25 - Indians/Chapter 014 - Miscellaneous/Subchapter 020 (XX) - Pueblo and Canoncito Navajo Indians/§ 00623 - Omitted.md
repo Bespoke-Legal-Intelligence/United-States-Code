@@ -1,5 +1,7 @@
 ### §623. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1949, ch. 425, §3, 63 Stat. 605, which related to disbursement of deposits in the United Pueblos Agency, was omitted from the Code as being of special and not general application.

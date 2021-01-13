@@ -12,7 +12,7 @@
 
 &emsp;(5) Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy.
 
-&emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army orthe Regular Air Force, and whose fitness for appointment has been certified by that officer.
+&emsp;(6) Graduates of a school, college, university, or officer's training camp who received military instruction under the supervision of a commissioned officer of the Regular Army or the Regular Air Force, and whose fitness for appointment has been certified by that officer.
 
 &emsp;(7) Civilians who are specially qualified for duty in a technical or staff branch or organization.
 
@@ -65,6 +65,8 @@ Act
 July 30, 1956, ch. 789, §§2 (less applicability to age), 3, 70 Stat. 729.
 
 The words "who are citizens of the United States" are omitted as covered by section 313(b) of this title. The words "with a view to serving" are substituted for the words "to serve". The words "and have the physical and other qualifications prescribed by the Secretary of the Army" and section 3 of the source statute are omitted as covered by section 307(a)(2) of this title. The applicability of section 3 of the source statute to section 1 of the source statute is omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

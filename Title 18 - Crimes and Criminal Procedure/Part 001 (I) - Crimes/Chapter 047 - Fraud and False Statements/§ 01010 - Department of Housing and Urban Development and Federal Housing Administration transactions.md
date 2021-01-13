@@ -14,6 +14,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

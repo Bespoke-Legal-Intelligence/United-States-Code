@@ -2,7 +2,7 @@
 
 (a)
 
-Combat Readiness.—(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressional defense committees a report on the combat support agencies. Each such report shall include—
+Combat Readiness.—(1) Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressionaldefense committees a report on the combat support agencies. Each such report shall include—
 
 &emsp;(A) a determination with respect to the responsiveness and readiness of each such agency to support operating forces in the event of a war or threat to national security; and
 
@@ -30,7 +30,7 @@ Review of National Security Agency and National Geospatial-Intelligence Agency.�
 
 (e)
 
-Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and theNational Geospatial-Intelligence Agency to accomplish assigned missions in support of military combat operations.
+Combat Support Capabilities of DIA, NSA, and NGA.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and the National Geospatial-Intelligence Agency to accomplish assigned missions in support of military combat operations.
 
 (f)
 
@@ -80,7 +80,7 @@ Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted "The National Image
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made bysection 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Effective Date of 1996 Amendment
 
@@ -112,7 +112,7 @@ Elements.—The framework required by subsection (a) shall include the following
 
 &emsp;&emsp;"(B) reconciles jointly used definitions.
 
-&emsp;"(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community andany components not so designated conform to relevant tradecraft standards.
+&emsp;"(2) A reevaluation of the intelligence components of the Department, including the Joint Intelligence Centers and Joint Intelligence Operations Centers within the combatant commands, in order to determine which components should be formally designated as part of the intelligence community and any components not so designated conform to relevant tradecraft standards.
 
 &emsp;"(3) A repeatable process of the Department for evaluating the addition, transfer, or elimination of defense intelligence missions, roles, and functions, currently or to be performed by elements described in subsection (a)(1) that includes—
 

@@ -150,7 +150,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each first handler of mushrooms for the domestic fresh market produced in the United States shall collect, in the manner prescribed by the order, assessments from producers and remit the assessments to the Council.
+&emsp;&emsp;The order shall provide that each first handler of mushrooms for the domestic freshmarket produced in the United States shall collect, in the manner prescribed by the order, assessments from producers and remit the assessments to the Council.
 
 #### (B) Importers
 
@@ -174,7 +174,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (3) Use of assessments
 
-&emsp;The order shall provide that the assessments shall be used for payment of the expenses inimplementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
+&emsp;The order shall provide that the assessments shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 
 #### (4) Limitation on collection
 
@@ -226,7 +226,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
 
-(Pub. L. 101–624, title XIX, §1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, §803(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, §10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10104, June 18, 2008, 122 Stat. 1664, 2097.)
+(Pub. L. 101–624, title XIX, §1925, Nov. 28, 1990, 104 Stat. 3857; Pub. L. 102–237, title VIII, §803(1),Dec. 13, 1991, 105 Stat. 1882; Pub. L. 110–234, title X, §10104, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, §4(a), title X, §10104, June 18, 2008, 122 Stat. 1664, 2097.)
 
 #### References in Text
 
@@ -250,5 +250,5 @@ Subsec. (c)(6) to (9). Pub. L. 110–246, §10104(b), added par. (6) and redesig
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

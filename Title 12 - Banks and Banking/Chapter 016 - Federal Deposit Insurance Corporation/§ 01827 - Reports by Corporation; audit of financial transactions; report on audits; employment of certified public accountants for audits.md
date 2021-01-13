@@ -48,7 +48,7 @@
 
 #### (1) Financial information
 
-&emsp;The Corporation shall continue to provide to the Director of the Office of Management and Budget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;The Corporation shall continue to provide to the Director of the Office of Management andBudget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Financial operating plans and forecasts
 
@@ -81,6 +81,8 @@ A report of each audit conducted under subsection (b) of this section shall be m
 For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
 (Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,7 +122,7 @@ Subsec. (h). Pub. L. 106–569, §1104(b), struck out subsec. (h) which related 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(S), which directed substitution of "the Deposit Insurance Fund" for "BIF, SAIF," in heading and "the Deposit Insurance Fund" for "the Bank Insurance Fund, the Savings Association Insurance Fund," wherever appearing in par. (1), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of "the Deposit Insurance Fund"for "the Bank Insurance Fund, the Savings Association Insurance Fund," in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (d). Pub. L. 104–208, §2704(d)(14)(T), which directed substitution of "the Deposit Insurance Fund" for "the Bank Insurance Fund, the Savings Association Insurance Fund," in two places, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1991</b>—Subsec. (h). Pub. L. 102–242 added subsec. (h).
 
@@ -131,6 +133,8 @@ Subsecs. (b) to (g). Pub. L. 101–73, §220(a)(2), (3), added subsecs. (b) to (
 <b>1975</b>—Subsec. (b). Pub. L. 93–604, §602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
 
 Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

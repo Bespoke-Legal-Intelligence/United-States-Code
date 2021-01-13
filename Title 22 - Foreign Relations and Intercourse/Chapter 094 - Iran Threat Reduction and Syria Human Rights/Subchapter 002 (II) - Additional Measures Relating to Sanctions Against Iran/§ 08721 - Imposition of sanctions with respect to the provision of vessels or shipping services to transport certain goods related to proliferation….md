@@ -8,7 +8,7 @@ Except as provided in subsection (c), if the President determines that a person,
 
 The persons specified in this subsection are—
 
-&emsp;(1) the person that sold, leased, or provided a vessel or provided insurance or reinsurance or another shipping service described in subsection (a); and
+&emsp;(1) the person that sold, leased, or provided a vessel or provided insurance or reinsuranceor another shipping service described in subsection (a); and
 
 &emsp;(2) any person that—
 
@@ -45,6 +45,8 @@ Nothing in this section shall be construed to limit the authority of the Preside
 #### Termination of Section
 
 <i>For termination of section, see section 8785(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -18,9 +18,13 @@ The term "court of appeals" was substituted in this section and throughout this 
 
 Provision for a quorum of the court is now covered by section 46(d) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted "regular" before "active service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name of Court
 

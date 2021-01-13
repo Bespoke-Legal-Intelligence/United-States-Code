@@ -26,13 +26,17 @@ The Chairman of the Board shall enforce the rules, regulations, and orders of th
 
 (Pub. L. 92–181, title V, §5.10, Dec. 10, 1971, 85 Stat. 619; Pub. L. 96–592, title V, §504, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1689; Pub. L. 100–233, title IV, §431(b), Jan. 6, 1988, 101 Stat. 1658.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–233 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Chairman of the Board shall be the executive officer of the Board and the chief executive officer of the Farm Credit Administration. The Chairman shall be responsible for directing the implementation of the policies and regulations adopted by the Board and the execution of all of the administrative functions and duties of the Farm Credit Administration. The Chairman shall be the spokesman for the Board and the Farm Credit Administration and shall represent the Board and the Farm Credit Administration in their official relations within the Government. Under policies adopted by the Board, the Chairman shall consult on a regular basis with the Secretary of the Treasury in connection with the exercise by the System of the powers conferred under section 2153 of this title, with the Board of Governors of the Federal Reserve System in connection with the effect of System lending activities on national monetary policy, and with the Secretary of Agriculture in connection with the effect of System policies on farmers and the agricultural economy."
 
-<b>1985</b>—Pub. L. 99–205 substituted provisions relating to the Chairman of the Board, his responsibilities, and governing standards for provisions relating to the Governor of the Farm Credit Administration.
+<b>1985</b>—Pub. L. 99–205 substituted provisions relating to the Chairman of the Board, his responsibilities, andgoverning standards for provisions relating to the Governor of the Farm Credit Administration.
 
 <b>1980</b>—Pub. L. 96–592 inserted provisions relating to requirements of the Governor to consult with the Secretary of the Treasury and the Governors of the Federal Reserve System.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

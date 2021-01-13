@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicatewhether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -82,7 +82,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(i) Label the payment schedule as follows: "Payment Schedule: Payments Will Vary Based on Interest Rate Changes".
 
-&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of creditbased on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
@@ -102,7 +102,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made inaccordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -270,7 +270,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a private education loan, the borrower shall have the right to acceptthe terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan, and the rates and terms of the loan may not be changed by the private educational lender during that period.
+&emsp;&emsp;With respect to a private education loan, the borrower shall have the right to accept the terms of the loan and consummate the transaction at any time within 30 calendar days (or such longer period as the private educational lender may provide) following the date on which the application for the private education loan is approved and the borrower receives the disclosure documents required under this subsection for the loan, and the rates and terms of the loan may not be changed by the private educational lender during that period.
 
 #### (B) Prohibition on changes
 
@@ -298,7 +298,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next awardyear (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 #### (f) Periodic statements for residential mortgage loans
 
@@ -334,7 +334,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### References in Text
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banksand Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

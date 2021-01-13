@@ -36,7 +36,7 @@ In general.—Not later than 180 days after the date of enactment of this sectio
 
 Factors.—As part of the guidance issued under paragraph (1), the Secretary shall ensure—
 
-&emsp;&emsp;(A) to the maximum extent practicable, that expediting and improving the process of environmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
+&emsp;&emsp;(A) to the maximum extent practicable, that expediting and improving the process ofenvironmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
 
 &emsp;&emsp;(B) that the use of funds accepted under this section will not impact impartial decisionmaking with respect to environmental reviews or permits, either substantively or procedurally; and
 

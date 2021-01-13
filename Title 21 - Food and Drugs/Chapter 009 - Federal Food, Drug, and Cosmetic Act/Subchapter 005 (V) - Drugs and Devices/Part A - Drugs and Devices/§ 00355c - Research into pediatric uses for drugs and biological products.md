@@ -8,7 +8,7 @@
 
 &emsp;&emsp;Except with respect to an application for which subparagraph (B) applies, a person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
 
-&emsp;&emsp;&emsp;(i) under section 355 of this title for a new active ingredient, new indication, newdosage form, new dosing regimen, or new route of administration; or
+&emsp;&emsp;&emsp;(i) under section 355 of this title for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration; or
 
 &emsp;&emsp;&emsp;(ii) under section 262 of title 42 for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
 
@@ -162,7 +162,7 @@
 
 #### (D) Labeling requirement
 
-&emsp;&emsp;If the Secretary grants a full or partial waiver because there is evidence that a drugor biological product would be ineffective or unsafe in pediatric populations, the information shall be included in the labeling for the drug or biological product.
+&emsp;&emsp;If the Secretary grants a full or partial waiver because there is evidence that a drug or biological product would be ineffective or unsafe in pediatric populations, the information shall be included in the labeling for the drug or biological product.
 
 #### (b) Marketed drugs and biological products
 
@@ -230,7 +230,7 @@ For the purposes of paragraph (4)(A)(iii)(I) and (4)(B)(iii)(I) of subsection (a
 
 If a person fails to submit a required assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), fails to meet the applicable requirements in subsection (a)(4), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
 
-&emsp;(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on theInternet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
+&emsp;(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
 
 &emsp;(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title), but such failure shall not be the basis for a proceeding—
 
@@ -296,7 +296,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (5) Amendments to the agreed initial pediatric study plan
 
-&emsp;At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan underparagraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
+&emsp;At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan under paragraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
 
 #### (6) Internal committee
 
@@ -322,7 +322,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (4) Review of pediatric study plans, assessments, deferrals, deferral extensions, and waivers
 
-&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, and assessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
+&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, andassessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
 
 #### (5) Retrospective review of pediatric assessments, deferrals, and waivers
 
@@ -476,6 +476,8 @@ Nothing in this section provides to the Secretary any authority to require a ped
 
 (June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–52, §504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Except with respect to an application for which subparagraph (B) applies, a person" for "A person", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "; or" for ", or" at end of subpar. (A)(i), and added subpar. (B).
@@ -526,7 +528,7 @@ Subsec. (m). Pub. L. 115–52, §504(a)(4), added subsec. (m).
 
 <b>2016</b>—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
 
-Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initial pediatric study plan" for "Content of initial plan" in heading.
+Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initialpediatric study plan" for "Content of initial plan" in heading.
 
 Subsec. (e)(5). Pub. L. 114–255, §3101(a)(2)(D)(i)(II), inserted "agreed initial pediatric study" before "plan" in heading.
 
@@ -591,6 +593,8 @@ Subsecs. (m), (n). Pub. L. 112–144, §501(b), redesignated subsec. (n) as (m) 
 <b>2010</b>—Subsec. (n). Pub. L. 111–148 added subsec. (n).
 
 <b>2007</b>—Pub. L. 110–85 amended section generally. Prior to amendment, section related to required submission of assessments with an application for a new drug or new biological product and by order of the Secretary for certain marketed drugs and biological products used for pediatric patients, a definition of meaningful therapeutic benefit, consequences of failure to submit required assessments, meetings of the Secretary and the sponsor of a new drug or biological product, a limitation of the scope of the Secretary's authority, application to orphan drugs, and integration with other pediatric studies.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

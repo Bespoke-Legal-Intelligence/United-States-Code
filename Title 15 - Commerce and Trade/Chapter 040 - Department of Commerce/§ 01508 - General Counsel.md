@@ -18,7 +18,7 @@ Section was formerly classified to section 592b of Title 5 prior to the general 
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
 #### Order of Succession
 

@@ -6,7 +6,7 @@ Definition of Implementation.—In this section, the term "implementation" means
 
 (b)
 
-Requirement.—Before any funds may be obligated for implementation of a project that is projected to cost more than $250,000,000 in total project costs, the Administrator shall conduct and consider an independent life-cycle cost analysis of the project and shall report the results to Congress. In developing cost accounting and reporting standards for carrying out this section, the Administrator shall, to the extent practicable and consistent with other laws, solicit the advice of experts outside of the Administration.
+Requirement.—Before any funds may be obligated for implementation of a project that is projected to cost more than $250,000,000 in total project costs, the Administrator shall conduct and consider an independent life-cycle cost analysis of the project and shall report the results to Congress. In developing cost accounting and reporting standards for carrying out this section, the Administrator shall, to the extent practicable and consistent with other laws, solicitthe advice of experts outside of the Administration.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3365.)
 
@@ -29,6 +29,8 @@ Pub. L. 106–391, title III, §301, Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109�
 In subsection (b), in the first sentence, the words "the Administrator shall conduct" are substituted for "the Administrator for the National Aeronautics and Space Administration shall conduct" to eliminate unnecessary words.
 
 In subsection (b), in the last sentence, the word "experts" is substituted for "expertise" for clarity.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cost Estimation
 

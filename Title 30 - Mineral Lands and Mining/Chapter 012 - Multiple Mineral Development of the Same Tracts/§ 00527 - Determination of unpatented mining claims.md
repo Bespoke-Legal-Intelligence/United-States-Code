@@ -26,7 +26,7 @@ Such notice shall describe the lands covered by such application, offer, permit,
 
 If such notice is published in a daily paper, it shall be published in the Wednesday issue for nine consecutive weeks, or, if in a weekly paper, in nine consecutive issues, or, if in a semiweekly or triweekly paper, in the issue of the same day of each week for nine consecutive weeks.
 
-Within fifteen days after the date of first publication of such notice, the person requesting such publication (1) shall cause a copy of such notice to be personally delivered to or to be mailed by registered mail or by certified mail addressed to each person in possession or engaged in the working of the land whose name and address is shown by an affidavit filed as aforesaid, and to each person who may have filed, as to any lands described in said notice, a request for notices, as provided in subsection (d) of this section, and shall cause a copy of such notice to be mailed by registered mail or by certified mail to each person whose name and address is set forth in the title or abstract company's or title abstractor's or attorney's certificate filed as aforesaid, as having an interest in the lands described in said notice under any unpatented mining claim heretofore located, such notice to be directed to such person's address as set forth in such certificate; and (2) shall file in the office where said request for publication was filed an affidavit showing that copies have been so delivered or mailed.
+Within fifteen days after the date of first publication of such notice, the person requesting such publication (1) shall cause a copy of such notice to be personally delivered to or to be mailed by registered mail or by certified mail addressed to each person in possession or engaged in the working of the land whose name and address is shown by an affidavit filed as aforesaid, and to each person who may have filed, as to any lands described in said notice, a request for notices, as provided in subsection (d) of this section, and shall cause a copy of suchnotice to be mailed by registered mail or by certified mail to each person whose name and address is set forth in the title or abstract company's or title abstractor's or attorney's certificate filed as aforesaid, as having an interest in the lands described in said notice under any unpatented mining claim heretofore located, such notice to be directed to such person's address as set forth in such certificate; and (2) shall file in the office where said request for publication was filed an affidavit showing that copies have been so delivered or mailed.
 
 #### (b) Failure to file verified statement
 
@@ -53,6 +53,8 @@ Any person claiming any right in Leasing Act minerals under or by virtue of any 
 If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
 (Aug. 13, 1954, ch. 730, §7, 68 Stat. 711; Pub. L. 86–507, §1(25), June 11, 1960, 74 Stat. 201.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

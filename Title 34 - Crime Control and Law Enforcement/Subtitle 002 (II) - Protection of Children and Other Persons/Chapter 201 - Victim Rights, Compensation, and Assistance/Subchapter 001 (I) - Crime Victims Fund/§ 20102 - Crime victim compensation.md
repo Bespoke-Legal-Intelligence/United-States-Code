@@ -2,7 +2,7 @@
 
 #### (a) Authority of Director; grants
 
-(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years of the amounts awarded during the preceding fiscalyear, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
+(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
 
 (2) If the sums available in the Fund for grants under this section are insufficient to provide grants of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.
 
@@ -65,6 +65,8 @@ Notwithstanding any other law, if the compensation paid by an eligible crime vic
 &emsp;(2) the other program shall make its payments without regard to the existence of the crime victim compensation program.
 
 (Pub. L. 98–473, title II, §1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§230202, 230203, title XXXIII, §330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, §5, July 3, 1996, 110 Stat. 1394; Pub. L. 107–56, title VI, §622(a)–(e)(1), Oct. 26, 2001, 115 Stat. 371, 372; Pub. L. 109–162, title XI, §1133(a), Jan. 5, 2006, 119 Stat. 3108.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -132,6 +134,8 @@ Subsec. (d)(2). Pub. L. 100–690, §7126(b), inserted reference to eyeglasses o
 
 Subsec. (d)(3). Pub. L. 100–690, §7125(c)(2), inserted reference to driving while intoxicated and domestic violence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–132, title II, §233(d), Apr. 24, 1996, 110 Stat. 1245, as amended by Pub. L. 105–119, title I, §120, Nov. 26, 1997, 111 Stat. 2468, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect October 1, 1999."
@@ -142,7 +146,7 @@ Amendment by Pub. L. 100–690 not applicable with respect to a State compensati
 
 #### Application of Amendment by Section 234(a)(1) of Pub. L. 104–132
 
-Pub. L. 104–132, title II, §234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provided that: "Section 1403(b)(8) of the Victims of Crime Act of 1984 \[34 U.S.C. 20102(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultationwith the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law."
+Pub. L. 104–132, title II, §234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provided that: "Section 1403(b)(8) of the Victims of Crime Act of 1984 \[34 U.S.C. 20102(b)(8)\], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -428,7 +428,7 @@ For purposes of this section, the term "loss" means the excess of the deductions
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §13512(b)(2), Dec. 22, 2017, 131 Stat. 2143.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(59), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §13512(b)(2), Dec. 22, 2017, 131 Stat. 2143.)
 
 #### Amendments
 
@@ -508,7 +508,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31,1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 

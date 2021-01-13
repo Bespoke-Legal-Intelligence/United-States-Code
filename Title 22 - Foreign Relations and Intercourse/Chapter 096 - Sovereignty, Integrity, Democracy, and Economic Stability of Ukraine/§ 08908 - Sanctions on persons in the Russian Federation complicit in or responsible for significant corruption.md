@@ -4,7 +4,7 @@
 
 The President shall impose the sanctions described in subsection (b) with respect to—
 
-&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related togovernment contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
+&emsp;(1) any official of the Government of the Russian Federation, or a close associate or family member of such an official, that the President determines is, on or after August 2, 2017, responsible for, or complicit in, or responsible for ordering, controlling, or otherwise directing, acts of significant corruption in the Russian Federation or elsewhere, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; and
 
 &emsp;(2) any individual who has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an act described in paragraph (1).
 
@@ -74,6 +74,8 @@ The President shall issue such regulations, licenses, and orders as are necessar
 
 (Pub. L. 113–95, §9, Apr. 3, 2014, 128 Stat. 1094; Pub. L. 115–44, title II, §§227, 230(b), Aug. 2, 2017, 131 Stat. 910, 916.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(A), (3)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
@@ -82,7 +84,7 @@ Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub.
 
 #### Codification
 
-Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the "Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014", were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
+Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the "Sovereignty, Integrity, Democracy, and Economic Stability ofUkraine Act of 2014", were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
 
 #### Amendments
 

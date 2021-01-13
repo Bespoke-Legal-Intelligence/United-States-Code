@@ -2,6 +2,8 @@
 
 Section, act June 25, 1910, ch. 421, §1, 36 Stat. 847, authorized the withdrawal and reservation of lands for water-power sites and other purposes.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided that this section is repealed effective on and after Oct. 21, 1976.
@@ -9,6 +11,8 @@ Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792, provided th
 #### Savings Provision
 
 Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10355. Delegation of Authority
 
@@ -28,7 +32,7 @@ Sec. 2. The Secretary of the Interior is authorized to issue such rules and regu
 
 Sec. 3. The Secretary of the Interior is authorized to redelegate the authority delegated to him by this order to one or more of the following-designated officers: the Deputy Secretary of the Interior and the Assistant Secretaries of the Interior.
 
-Sec. 4. This order supersedes Executive Order No. 9337 of April 24, 1943, entitled "Authorizing the Secretary ofthe Interior to Withdraw and Reserve Lands of the Public Domain and Other Lands Owned or Controlled by the United States".
+Sec. 4. This order supersedes Executive Order No. 9337 of April 24, 1943, entitled "Authorizing the Secretary of the Interior to Withdraw and Reserve Lands of the Public Domain and Other Lands Owned or Controlled by the United States".
 
 #### Ex. Ord. No. 12688. Transfer Authority Choctawhatchee National Forest, Florida
 

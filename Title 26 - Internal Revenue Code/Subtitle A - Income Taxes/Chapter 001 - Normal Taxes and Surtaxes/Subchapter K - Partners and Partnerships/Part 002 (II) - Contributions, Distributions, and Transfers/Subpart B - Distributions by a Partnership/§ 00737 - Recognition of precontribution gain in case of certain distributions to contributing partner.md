@@ -52,7 +52,7 @@ For purposes of this section, the term "net precontribution gain" means the net 
 
 <b>1996</b>—Pub. L. 104–188 provided that section 1937(a) of Pub. L. 102–486, shall be applied as if "Subpart B" appeared instead of "Subpart C". Section 1937(a) of Pub. L. 102–486 directed amendment of subpart C of this part by adding this section at the end thereof.
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465, §741(b)(1), amended last sentence generally. Prior to amendment, lastsentence read as follows: "Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution."
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–465, §741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: "Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution."
 
 Subsec. (e). Pub. L. 103–465, §741(b)(2), added subsec. (e).
 

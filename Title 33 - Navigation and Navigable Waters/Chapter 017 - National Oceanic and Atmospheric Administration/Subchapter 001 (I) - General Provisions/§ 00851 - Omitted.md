@@ -1,5 +1,7 @@
 ### §851. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
@@ -134,13 +136,7 @@ Mar. 22, 1935, ch. 39, 49 Stat. 96.
 
 Feb. 27, 1925, ch. 364, title III, 43 Stat. 1046.
 
-#### Transfer of Functions
-
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and offices of Director and Deputy Director of Coast and Geodetic Survey abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out below. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and of its Director.
-
-Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, abolished Environmental Science Services Administration, including offices of Administrator and Deputy Administrator, and established National Oceanic and Atmospheric Administration within Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, Secretary of Commerce delegated to National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
-
-The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2008 Amendment
 
@@ -161,6 +157,16 @@ Pub. L. 102–567, title VI, §601, Oct. 29, 1992, 106 Stat. 4299, provided that
 #### Short Title
 
 Pub. L. 95–63, §1, July 5, 1977, 91 Stat. 265, provided: "That this Act \[enacting sections 857–13 to 857–18 of this title, repealing sections 857–6 to 857–12 of this title, and enacting provisions set out as a note under section 857–13 of this title\] may be cited as the 'National Advisory Committee on Oceans and Atmosphere Act of 1977'."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and offices of Director and Deputy Director of Coast and Geodetic Survey abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out below. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and of its Director.
+
+Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, abolished Environmental Science Services Administration, including offices of Administrator and Deputy Administrator, and established National Oceanic and Atmospheric Administration within Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, Secretary of Commerce delegated to National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
+
+The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1965</b>
 
@@ -188,7 +194,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 #### Sec. 4. Officers of the Administration
 
-(a) There shall be at the head of the Administration the Administrator of the Environmental Science Services Administration, hereinafter referred to as the Administrator. The Administrator shall be appointed bythe President by and with the advice and consent of the Senate. He shall perform such functions as the Secretary may from time to time direct.
+(a) There shall be at the head of the Administration the Administrator of the Environmental Science Services Administration, hereinafter referred to as the Administrator. The Administrator shall be appointed by the President by and with the advice and consent of the Senate. He shall perform such functions as the Secretary may from time to time direct.
 
 (b)(1) There shall be in the Administration a Deputy Administrator of the Environmental Science Services Administration, hereinafter referred to as the Deputy Administrator, who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Secretary may from time to time direct, and, unless he is compensated in pursuance of the provisions of paragraph (2), below, shall receive compensation in accordance with the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
 
@@ -220,7 +226,7 @@ Nothing in this organization plan shall divert the Secretary of any function ves
 
 (c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect to which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
-\[The Environmental Science Services Administration in the Department of Commerce, including the offices of Administrator and Deputy Administrator thereof, were abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which created the National Oceanic and Atmospheric Administration in the Department of Commerce and transferred the personnel, property, records, and unexpended balances of funds of the Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration.\]
+\[The Environmental Science Services Administration in the Department of Commerce, including the offices of Administrator and Deputy Administrator thereof,were abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, which created the National Oceanic and Atmospheric Administration in the Department of Commerce and transferred the personnel, property, records, and unexpended balances of funds of the Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration.\]
 
 #### Message of the President
 
@@ -232,7 +238,7 @@ The reorganization plan consolidates the Coast and Geodetic Survey and the Weath
 
 Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental information to vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
 
-The new Administration will bring together a number of allied scientific disciplines that are concerned withthe physical environment. The integration will better enable us to look at man's physical environment as a scientific whole and to seek to understand the interactions among air, sea, and earth and between the upper and lower atmosphere. It will facilitate the development of programs dealing with the physical environment and will permit better management of these programs. It will enhance our capability to identify and solve important long-range scientific and technological problems associated with the physical environment. The new Administration will, in consequence, promote a fresh sense of scientific dedication, discovery, and challenge, which are essential if we are to attract scientists and engineers of creativity and talent to Federal employment in this field.
+The new Administration will bring together a number of allied scientific disciplines that are concerned with the physical environment. The integration will better enable us to look at man's physical environment as a scientific whole and to seek to understand the interactions among air, sea, and earth and between the upper and lower atmosphere. It will facilitate the development of programs dealing with the physical environment and will permit better management of these programs. It will enhance our capability to identify and solve important long-range scientific and technological problems associated with the physical environment. The new Administration will, in consequence, promote a fresh sense of scientific dedication, discovery, and challenge, which are essential if we are to attract scientists and engineers of creativity and talent to Federal employment in this field.
 
 The reorganization plan provides for an Administrator at the head of the Administration, and for a Deputy Administrator, each of whom will be appointed by the President by and with the advice and consent of the Senate. As authorized by the civil service and other laws and regulations, subordinate officers of the Administration will be appointed by the Secretary of Commerce or be assigned by him from among a corps of commissioned officers. The Administration will perform such functions as the Secretary of Commerce may delegate or otherwise assign to it and will be under his direction and control.
 

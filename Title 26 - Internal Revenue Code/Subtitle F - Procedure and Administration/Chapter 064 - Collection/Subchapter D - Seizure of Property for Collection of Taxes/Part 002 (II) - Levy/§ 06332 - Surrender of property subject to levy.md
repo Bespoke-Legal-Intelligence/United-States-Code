@@ -26,7 +26,7 @@ Any bank (as defined in section 408(n)) shall surrender (subject to an attachmen
 
 #### (1) Extent of personal liability
 
-&emsp;Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to the United States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
+&emsp;Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to theUnited States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
 
 #### (2) Penalty for violation
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1209(d)(3) of Pub. L. 94–455 effective only with respect to levies made after Feb. 28,1977, see section 1209(e) of Pub. L. 94–455, as amended by section 2(c) of Pub. L. 94–528, Oct. 17, 1976, 90 Stat. 2483, set out as a note under section 6334 of this title.
+Amendment by section 1209(d)(3) of Pub. L. 94–455 effective only with respect to levies made after Feb. 28, 1977, see section 1209(e) of Pub. L. 94–455, as amended by section 2(c) of Pub. L. 94–528, Oct. 17, 1976, 90 Stat. 2483, set out as a note under section 6334 of this title.
 
 #### Effective Date of 1975 Amendment
 

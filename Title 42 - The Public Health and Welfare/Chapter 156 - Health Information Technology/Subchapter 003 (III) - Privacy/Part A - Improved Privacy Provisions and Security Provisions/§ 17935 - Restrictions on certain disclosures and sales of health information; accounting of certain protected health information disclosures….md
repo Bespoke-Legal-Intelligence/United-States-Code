@@ -48,7 +48,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (2) Regulations
 
-&emsp;The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the <sup>3</sup> section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
+&emsp;The Secretary shall promulgate regulations on what information shall be collected abouteach disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the <sup>3</sup> section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
 
 #### (3) Process
 
@@ -110,7 +110,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 &emsp;Not later than 18 months after February 17, 2009, the Secretary shall promulgate regulations to carry out this subsection. In promulgating such regulations, the Secretary—
 
-&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittalof the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
+&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflectsthe costs of the preparation and transmittal of the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
 
 &emsp;&emsp;(B) may further restrict the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, if the Secretary finds that such further restriction will not impede such research or public health activities.
 

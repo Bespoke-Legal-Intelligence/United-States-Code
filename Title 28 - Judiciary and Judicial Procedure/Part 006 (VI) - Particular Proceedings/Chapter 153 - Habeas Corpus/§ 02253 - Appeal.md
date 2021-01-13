@@ -1,6 +1,6 @@
 ### §2253. Appeal
 
-(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
+(a) In a habeas corpus proceeding or a proceeding under section 2255 before a districtjudge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
 
 (b) There shall be no right of appeal from a final order in a proceeding to test the validity of a warrant to remove to another district or place for commitment or trial a person charged with a criminal offense against the United States, or to test the validity of such person's detention pending removal proceedings.
 
@@ -20,7 +20,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§463(a) and 466 (Mar. 10, 1908, ch. 76, 36 \[35\] Stat. 40; Feb. 13, 1925, ch.229, §§6, 13, 43 Stat. 940, 942; June 29, 1938, ch. 806, 52 Stat. 1232).
+Based on title 28, U.S.C., 1940 ed., §§463(a) and 466 (Mar. 10, 1908, ch. 76, 36 \[35\] Stat. 40; Feb. 13, 1925, ch. 229, §§6, 13, 43 Stat. 940, 942; June 29, 1938, ch. 806, 52 Stat. 1232).
 
 This section consolidates paragraph (a) of section 463, and section 466 of title 28, U.S.C., 1940 ed.
 
@@ -31,6 +31,8 @@ Changes were made in phraseology.
 #### 1949 Act
 
 This section corrects a typographical error in the second paragraph of section 2253 of title 28.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

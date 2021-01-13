@@ -136,7 +136,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (iii) Obligation to pay
 
-&emsp;&emsp;&emsp;A claim submitted to a PDP sponsor that is not paid or contested by the sponsor within the applicable number of days (as defined in subparagraph (B)) after the date on which the claim is received shall be deemed to be a clean claim and shall be paid by the PDP sponsor in accordance with subparagraph (A).
+&emsp;&emsp;&emsp;A claim submitted to a PDP sponsor that is not paid or contested by the sponsor within the applicable number of days (as defined in subparagraph (B)) after the date on which the claim is received shall be deemed to be a clean claim and shall bepaid by the PDP sponsor in accordance with subparagraph (A).
 
 #### (iv) Date of payment of claim
 
@@ -208,7 +208,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;&emsp;In applying subparagraph (A)(i)—
 
-&emsp;&emsp;&emsp;(i) the ground of approval described in section 1395w–25(a)(2)(B) of this title is deemed to have been met if the State does not have a licensing process in effect with respect to the PDP sponsor; and
+&emsp;&emsp;&emsp;(i) the ground of approval described in section 1395w–25(a)(2)(B) of this title isdeemed to have been met if the State does not have a licensing process in effect with respect to the PDP sponsor; and
 
 &emsp;&emsp;&emsp;(ii) for plan years beginning before January 1, 2008, if the State does have such a licensing process in effect, such ground for approval described in such section is deemed to have been met upon submission of an application described in such section.
 

@@ -2,7 +2,7 @@
 
 Necessary amounts are appropriated for the following:
 
-&emsp;(1) to pay the proceeds of the personal estate of a United States citizen dying abroad to the legal representative of the deceased on proper demand and proof.
+&emsp;(1) to pay the proceeds of the personal estate of a United States citizen dying abroad to thelegal representative of the deceased on proper demand and proof.
 
 &emsp;(2) to pay interest on the public debt under laws authorizing payment.
 
@@ -83,6 +83,8 @@ Section 103(b) of the Housing Act of 1949 (42 U.S.C. 1453(b)), referred to in pa
 The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, §702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under section 1701 of Title 12 and Tables.
 
 Section 101 of the Housing and Urban Development Act of 1965, as amended, referred to in par. (9), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, and amended sections 1451 and 1465 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

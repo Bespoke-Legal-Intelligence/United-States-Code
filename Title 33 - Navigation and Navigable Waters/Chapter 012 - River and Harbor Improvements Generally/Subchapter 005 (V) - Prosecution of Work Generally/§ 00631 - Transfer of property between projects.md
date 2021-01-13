@@ -1,14 +1,18 @@
 ### §631. Transfer of property between projects
 
-The Secretary of the Army may direct a temporary transfer of any property employed in the improvement of rivers and harbors whenever, in his judgment, such transfer would secure efficient or economical results, and such adjustment in the way of charges and credits shall be made between the projects affected as may be equitable.
+The Secretary of the Army may direct a temporary transfer of any property employed in theimprovement of rivers and harbors whenever, in his judgment, such transfer would secure efficient or economical results, and such adjustment in the way of charges and credits shall be made between the projects affected as may be equitable.
 
 (June 13, 1902, ch. 1079, §5, 32 Stat. 373; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section is from part of section 5 of the Rivers and Harbors Appropriation Act of 1902.
 
 The omitted part of that section is set out as section 558 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

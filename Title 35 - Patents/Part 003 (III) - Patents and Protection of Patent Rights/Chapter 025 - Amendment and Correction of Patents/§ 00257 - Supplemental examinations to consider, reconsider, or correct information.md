@@ -56,6 +56,8 @@ Rule of Construction.—Nothing in this section shall be construed—
 
 (Added and amended Pub. L. 112–29, §§12(a), 20(j), Sept. 16, 2011, 125 Stat. 325, 335.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The first section of the Clayton Act, referred to in subsec. (f)(1), is classified to section 12 of Title 15, Commerce and Trade, and section 53 of Title 29, Labor.
@@ -65,6 +67,8 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (f)(1), is
 #### Amendments
 
 <b>2011</b>—Subsec. (c)(2)(B). Pub. L. 112–29, §20(j), struck out "of this title" after "281".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -12,11 +12,15 @@ Words "dismissed for want of jurisdiction" were substituted for "it shall appear
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "Dismissal" for "District courts; dismissal" in section catchline and inserted reference to Court of Federal Claims in text.
 
 <b>1980</b>—Pub. L. 96–417 included dismissals in Court of International Trade for want of jurisdiction.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

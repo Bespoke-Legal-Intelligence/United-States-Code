@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(iv) plans for considering the impact of drug shortages on research and clinical trials; and
 
-&emsp;&emsp;&emsp;(v) an examination of whether to establish a "qualified manufacturing partner program", as described in subparagraph (C).
+&emsp;&emsp;&emsp;(v) an examination of whether to establish a "qualified manufacturing partnerprogram", as described in subparagraph (C).
 
 #### (C) Description of program
 

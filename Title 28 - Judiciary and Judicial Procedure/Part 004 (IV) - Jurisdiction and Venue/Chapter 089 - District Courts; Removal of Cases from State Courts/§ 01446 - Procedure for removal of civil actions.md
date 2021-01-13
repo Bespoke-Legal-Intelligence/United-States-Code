@@ -6,7 +6,7 @@ Generally.—A defendant or defendants desiring to remove any civil action from 
 
 (b)
 
-Requirements; Generally.—(1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
+Requirements; Generally.—(1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth theclaim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
 
 (2)(A) When a civil action is removed solely under section 1441(a), all defendants who have been properly joined and served must join in or consent to the removal of the action.
 
@@ -44,7 +44,7 @@ Counterclaim in 337
 
 Proceeding.—With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 
-(g) <sup>1</sup> Where the civil action or criminal prosecution that is removable under section 1442(a) is a proceeding in which a judicial order for testimony or documents is sought or issued or sought to be enforced, the 30-day requirement of subsection (b) of this section and paragraph (1) of section 1455(b) is satisfied if the person or entity desiring to remove the proceeding files thenotice of removal not later than 30 days after receiving, through service, notice of any such proceeding.
+(g) <sup>1</sup> Where the civil action or criminal prosecution that is removable under section 1442(a) is a proceeding in which a judicial order for testimony or documents is sought or issued or sought to be enforced, the 30-day requirement of subsection (b) of this section and paragraph (1) of section 1455(b) is satisfied if the person or entity desiring to remove the proceeding files the notice of removal not later than 30 days after receiving, through service, notice of any such proceeding.
 
 (June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, §83, 63 Stat. 101; Pub. L. 89–215, Sept. 29, 1965, 79 Stat. 887; Pub. L. 95–78, §3, July 30, 1977, 91 Stat. 321; Pub. L. 100–702, title X, §1016(b), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 102–198, §10(a), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 103–465, title III, §321(b)(2), Dec. 8, 1994, 108 Stat. 4946; Pub. L. 104–317, title VI, §603, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 112–51, §2(c), Nov. 9, 2011, 125 Stat. 545; Pub. L. 112–63, title I, §§103(b), 104, Dec. 7, 2011, 125 Stat. 760, 762.)
 
@@ -93,6 +93,8 @@ The first paragraph of the amendment conforms to the amendment of rule 81(c) of 
 The second paragraph of the amendment to subsection (b) is intended to make clear that the right of removal may be exercised at a later stage of the case if the initial pleading does not state a removable case but its removability is subsequently disclosed. This is declaratory of the existing rule laid down by the decisions. (See for example, <i>Powers v. Chesapeake etc., Ry. Co</i>., 169 U.S. 92.)
 
 In addition, this amendment clarifies the intent of section 1446(e) of title 28, U.S.C., to indicate that notice need not be given simultaneously with the filing, but may be given promptly thereafter.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -153,6 +155,8 @@ Subsec. (e). Pub. L. 95–78, §3(b), inserted "for the removal of a civil actio
 <b>1949</b>—Subsec. (b). Act May 24, 1949, §83(a), provided that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading, and provided that the petition for removal shall be filed within 20 days after the service of summons.
 
 Subsec. (e). Act May 24, 1949, §83(b), indicated that notice need not be given simultaneously with the filing, but may be made promptly thereafter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -52,7 +52,7 @@ The sexual assault policy developed under subsection (a) shall include, at a min
 
 &emsp;(6) Completion of a safety and treatment plan with the volunteer, if necessary.
 
-&emsp;(7) Evacuation of such volunteer for medical treatment, accompanied by a Peace Corps staffer at the request of such volunteer. Whenevacuated to the United States, such volunteer shall be provided, to the extent practicable, a choice of medical providers including a mechanism for such volunteers to evaluate the provider.
+&emsp;(7) Evacuation of such volunteer for medical treatment, accompanied by a Peace Corps staffer at the request of such volunteer. When evacuated to the United States, such volunteer shall be provided, to the extent practicable, a choice of medical providers including a mechanism for such volunteers to evaluate the provider.
 
 &emsp;(8) An explanation to the volunteer of available law enforcement and prosecutorial options, and legal representation.
 
@@ -61,6 +61,8 @@ The sexual assault policy developed under subsection (a) shall include, at a min
 The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
 
 (Pub. L. 87–293, title I, §8B, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 738; amended Pub. L. 115–256, title III, §303, Oct. 9, 2018, 132 Stat. 3657.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

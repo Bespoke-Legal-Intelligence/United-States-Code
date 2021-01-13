@@ -220,7 +220,11 @@ Definition.—In this section, the term "alien" has the meaning given the term i
 
 (g)
 
-Applications for Merchant Mariners' Documents.—The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall concurrently process an application from an individual for merchant mariner's documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.
+Applications for Merchant Mariners' Documents.—The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall—
+
+&emsp;(1) develop and, no later than 2 years after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, implement a joint application for merchant mariner's documents under chapter 73 and for a transportation security card issued under this section; and
+
+&emsp;(2) upon receipt of a joint application developed under paragraph (1) concurrently process an application from an individual for merchant mariner's documents under chapter 73 and an application from such individual for a transportation security card under this section.
 
 (h)
 
@@ -330,7 +334,9 @@ In general.—Not later than one year after the date of publication of final reg
 
 Limitation.—The Secretary may not require any such vessel or facility to provide on-site activation capability.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV, §3509(a), Dec. 23, 2016, 130 Stat. 2780.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2073; amended Pub. L. 109–241, title III, §309, July 11, 2006, 120 Stat. 528; Pub. L. 109–347, title I, §104(a), (b), Oct. 13, 2006, 120 Stat. 1888, 1890; Pub. L. 110–53, title XIII, §1309(a), Aug. 3, 2007, 121 Stat. 397; Pub. L. 111–281, title VIII, §§809, 814, 818(a), 819, 823, title IX, §903(c)(2), Oct. 15, 2010, 124 Stat. 2995, 2999–3001, 3003, 3011; Pub. L. 111–330, §1(13), Dec. 22, 2010, 124 Stat. 3570; Pub. L. 114–120, title III, §306(a)(9), Feb. 8, 2016, 130 Stat. 54; Pub. L. 114–328, div. C, title XXXV, §3509(a), Dec. 23, 2016, 130 Stat. 2780; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8346, Jan. 1, 2021, 134 Stat. 4718.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -340,11 +346,15 @@ The Immigration and Nationality Act, referred to in subsec. (c)(1)(D)(iii), is a
 
 The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
+The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 116–283 which was approved Jan. 1, 2021.
+
 The date of the enactment of the SAFE Port Act, referred to in subsecs. (k)(1)(C) and (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
 Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4) and (l), is classified to section 901(1) of Title 6, Domestic Security.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 116–283 substituted "shall—" and pars. (1) and (2) for "shall concurrently process an application from an individual for merchant mariner's documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section."
 
 <b>2016</b>—Subsec. (b)(2)(G), (H). Pub. L. 114–328, §3509(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
 
@@ -380,6 +390,8 @@ Subsec. (c)(3) to (5). Pub. L. 109–241 added par. (3) and redesignated former 
 
 Subsecs. (g) to (m). Pub. L. 109–347, §104(a), added subsecs. (g) to (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. C, title XXXV, §3509(c), Dec. 23, 2016, 130 Stat. 2781, provided that: "Section 70105(j)(2) of title 46, United States Code, as amended by this section, shall apply to applications for transportation security cards submitted after the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 23, 2016\]."
@@ -394,7 +406,7 @@ Pub. L. 114–328, div. C, title XXXV, §3509(b), Dec. 23, 2016, 130 Stat. 2781,
 
 #### Deadline for Section 70105 Regulations
 
-Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgatefinal regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
+Pub. L. 109–347, title I, §104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: "Not later than January 1, 2007, the Secretary \[of Homeland Security\] shall promulgate final regulations implementing the requirements for issuing transportation security cards under section 70105 of title 46, United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government."
 
 #### Transportation Worker Identification Credential Security Card Program Improvements and Assessment
 
@@ -494,7 +506,7 @@ Submission to congress.—Not later than 60 days after the date that the assessm
 
 "(c)
 
-Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
+Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b)identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
 
 &emsp;"(1) responds to findings of the assessment;
 

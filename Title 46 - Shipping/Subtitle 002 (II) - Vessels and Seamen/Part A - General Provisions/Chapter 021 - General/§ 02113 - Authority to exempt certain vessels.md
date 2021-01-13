@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 Section 2113 provides the Secretary with the authority to exempt certain vessels from the inspection and manning requirements of law when vessels are engaged in excursions or oceanographic research. This is the authority of the issuance of excursion permits when special circumstances justify the waiver of certain maritime safety and seamen's welfare laws for a short period of time. It also contains flexible exemption authority for regulation of oceanographic research vessels.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Passenger Vessel Safety Act of 1993, referred to in par. (4), is Pub. L. 103–206, title V, Dec. 20, 1993, 107 Stat. 2439. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 101 of this title and Tables.
@@ -47,6 +49,8 @@ Par. (5). Pub. L. 104–324, §710(2), inserted "as measured under section 14502
 &emsp;"(1) for an excursion vessel, issue a special permit specifying the conditions of operation and equipment; and
 
 &emsp;"(2) exempt the oceanographic research vessel from that provision under conditions the Secretary may specify."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

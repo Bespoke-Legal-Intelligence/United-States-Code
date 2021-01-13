@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for anynamed operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
+Authority.—Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in section 10143(a) of this title), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
 
 (b)
 
@@ -30,7 +30,7 @@ Policies and Procedures.—The Secretary of Defense and the Secretary of Homelan
 
 (f)
 
-Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
+Notification of Congress.—Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the actiontaken under this section and describing the anticipated use of these units or members.
 
 (g)
 
@@ -190,7 +190,7 @@ This order shall be published in the Federal Register and transmitted promptly t
 
 Ex. Ord. No. 12927, Sept. 15, 1994, 59 F.R. 47781, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions to restore the civilian government in Haiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions to restore the civilian government in Haiti. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of theNavy, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -220,7 +220,7 @@ This order is intended only to improve the internal management of the executive 
 
 Ex. Ord. No. 13120, Apr. 27, 1999, 64 F.R. 23007, as amended by Ex. Ord. No. 13286, §14, Feb. 28, 2003, 68 F.R. 10623, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around the former Yugoslavia related to the conflict in Kosovo. Further, under the stated authority, Ihereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operations in and around the former Yugoslavia related to the conflict in Kosovo. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, and to terminate the service of those units and members ordered to active duty.
 
 This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -243,4 +243,24 @@ By the authority vested in me as President by the Constitution and the laws of t
 This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13919. Ordering the Selected Reserve of the Armed Forces to Active Duty
+
+Ex. Ord. No. 13919, Apr. 30, 2020, 85 F.R. 26591, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12304 of title 10, United States Code, and having determined that it is necessary to augment the regular Armed Forces of the United States for a named operational mission, specifically the "Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere," I hereby order as follows:
+
+Section 1. <i>Activation Authority</i>. The Secretary of Defense is directed to order to active duty for not more than 365 consecutive days, any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve under the jurisdiction of the Secretary of Defense, not to exceed 200 Selected Reservists at any one time, as he considers necessary.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -8,7 +8,7 @@ Not later than four years after July 9, 2012, and every five years thereafter, t
 
 Each report under subsection (a) shall include—
 
-&emsp;(1) an assessment of the effectiveness of sections 355a and 355c of this title in improving information about pediatric uses for approved drugs and biological products, including the number and type of labeling changes made since July 9, 2012, and the importance of suchuses in the improvement of the health of children;
+&emsp;(1) an assessment of the effectiveness of sections 355a and 355c of this title in improving information about pediatric uses for approved drugs and biological products, including the number and type of labeling changes made since July 9, 2012, and the importance of such uses in the improvement of the health of children;
 
 &emsp;(2) the number of required studies under such section 355c of this title that have not met the initial deadline provided under such section 355c of this title, including—
 
@@ -38,7 +38,7 @@ Each report under subsection (a) shall include—
 
 &emsp;(10) an assessment of the successes of and limitations to studying drugs for rare diseases under such sections 355a and 355c of this title;
 
-&emsp;(11) an assessment of the impact of the amendments to such section 355c of this title made by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
+&emsp;(11) an assessment of the impact of the amendments to such section 355c of this titlemade by the FDA Reauthorization Act of 2017 on pediatric research and labeling of drugs and biological products and pediatric labeling of molecularly targeted drugs and biological products for the treatment of cancer;
 
 &emsp;(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,<sup>1</sup> regarding earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of title 42, including—
 
@@ -66,9 +66,11 @@ At least 180 days prior to the submission of each report under subsection (a), t
 
 (Pub. L. 112–144, title V, §508, July 9, 2012, 126 Stat. 1045; Pub. L. 115–52, title V, §504(d), Aug. 18, 2017, 131 Stat. 1044.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The FDA Reauthorization Act of 2017, referred to in subsec. (b)(11), (16), is Pub. L. 115–52, Aug. 18, 2017, 131Stat. 1005. Section 504 of the Act amended this section and section 355c of this title. For complete classification of this Act to the Code, see Short Title of 2017 Amendment note set out under section 301 of this title and Tables.
+The FDA Reauthorization Act of 2017, referred to in subsec. (b)(11), (16), is Pub. L. 115–52, Aug. 18, 2017, 131 Stat. 1005. Section 504 of the Act amended this section and section 355c of this title. For complete classification of this Act to the Code, see Short Title of 2017 Amendment note set out under section 301 of this title and Tables.
 
 Section 505C–1 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(12), probably means section 505(c) of Pub. L. 115–52, the FDA Reauthorization Act of 2017, which is set out as a note under section 355a of this title. The Federal Food, Drug, and Cosmetic Act does not contain a section 505C–1, and section 505(c) of the FDA Reauthorization Act of 2017 relates to the development and implementation of a plan for earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of Title 42, The Public Health and Welfare.
 
@@ -83,6 +85,8 @@ Section was enacted as part of the Food and Drug Administration Safety and Innov
 &emsp;"(A) improving public access to information from pediatric studies conducted under such sections 355a and 355c of this title; and
 
 &emsp;"(B) improving the timeliness of pediatric studies and pediatric study planning under such sections 355a and 355c of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rule of Construction
 

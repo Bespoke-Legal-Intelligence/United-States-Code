@@ -30,17 +30,19 @@ For the purpose of this chapter—
 
 &emsp;(5)
 
-Insured depository institution.—The terms "depository institution" and "savingsassociation" have the same meanings as in section 1813 of this title;
+Insured depository institution.—The terms "depository institution" and "savings association" have the same meanings as in section 1813 of this title;
 
 &emsp;(6) the term "invest" includes any advance of funds to a bank service company, whether by the purchase of stock, the making of a loan, or otherwise, except a payment for rent earned, goods sold and delivered, or services rendered prior to the making of such payment;
 
 &emsp;(7) the term "limited liability company" means any company, partnership, trust, or similar business entity organized under the law of a State (as defined in section 1813 of this title) which provides that a member or manager of such company is not personally liable for a debt, obligation, or liability of the company solely by reason of being, or acting as, a member or manager of such company;
 
-&emsp;(8) the term "principal investor" means the insured depository institution that has the largest dollar amount invested in the equity of a bank service company. In any case where two or more insured depository institutions have equal dollar amounts invested in a bank service company, the company shall, prior to commencing operations, select one of the insured depository institutions as its principal investor and shall notify the depository institution's appropriate Federal banking agency of that choice within 5 business days of its selection; and
+&emsp;(8) the term "principal investor" means the insured depository institution that has the largest dollar amount invested in the equity of a bank service company. In any case where two or more insured depository institutions have equal dollar amounts invested in a bank service company, the company shall, prior to commencing operations, select one of the insured depository institutions as its principalinvestor and shall notify the depository institution's appropriate Federal banking agency of that choice within 5 business days of its selection; and
 
 &emsp;(9) the terms "State depository institution", "Federal depository institution", "State savings association" and "Federal savings association" have the same meanings as in section 1813 of this title.
 
 (Pub. L. 87–856, §1, Oct. 23, 1962, 76 Stat. 1132; Pub. L. 97–320, title VII, §709, Oct. 15, 1982, 96 Stat. 1540; Pub. L. 97–457, §32(a), Jan. 12, 1983, 96 Stat. 2511; Pub. L. 104–208, div. A, title II, §2613(a), (b), Sept. 30, 1996, 110 Stat. 3009–476; Pub. L. 109–351, title VI, §602(b)(1), Oct. 13, 2006, 120 Stat. 1979; Pub. L. 111–203, title III, §357(1), (2), July 21, 2010, 124 Stat. 1547, 1548.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Subsec. (b). Pub. L. 97–320 substituted definitions of "appropriate Federal ba
 Subsec. (c). Pub. L. 97–320 redesignated provisions of subsec. (c) defining "bank service corporation" as (b)(2), and revised definition.
 
 Subsec. (d). Pub. L. 97–320 redesignated provisions of subsec. (d) as (b)(6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

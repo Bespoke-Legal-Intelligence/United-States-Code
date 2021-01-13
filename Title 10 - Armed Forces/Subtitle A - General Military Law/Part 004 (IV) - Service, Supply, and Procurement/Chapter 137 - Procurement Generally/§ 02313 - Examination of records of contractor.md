@@ -72,7 +72,21 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 Records Defined.—In this section, the term "records" includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751;Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, \[div. A\], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555; Pub. L. 116–283, div. A, title XVIII, §1835(b)(1), (2), Jan. 1, 2021, 134 Stat. 4239.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1835(b)(1), (2), Jan. 1, 2021, 134 Stat. 4151, 4239, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsections (a) to (h) to section 3841(b) to (i), respectively, of this title; and</i>
+
+<i>(2) by transferring subsection (i) to section 3841(a) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 Historical and Revision Notes
 
@@ -100,6 +114,10 @@ In subsection (b), the word "under" is substituted for the words "pursuant to au
 
 #### Amendments
 
+<b>2021</b>—Subsecs. (a) to (h). Pub. L. 116–283, §1835(b)(1), redesignated subsecs. (a) to (h) as section 3841(b) to (i), respectively, of this title.
+
+Subsec. (i). Pub. L. 116–283, §1835(b)(2), redesignated subsec. (i) as section 3841(a) of this title.
+
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–417 inserted "and to interview any current employee regarding such transactions" before period at end.
 
 <b>1999</b>—Subsec. (b)(4). Pub. L. 106–65 struck out par. (4) which read as follows: "The Director (or any successor official) shall submit an annual report to the Secretary of Defense on the exercise of such authority during the preceding year and the reasons why such authority was exercised in any instance. The Secretary shall forward a copy of each such report to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives."
@@ -125,6 +143,14 @@ Subsec. (f)(2). Pub. L. 103–355, §4102(c), added par. (2).
 <b>1966</b>—Subsec. (b). Pub. L. 89–607, §1(2)(A), substituted "Except as provided in subsection (c), each" for "Each".
 
 Subsec. (c). Pub. L. 89–607, §1(2)(B), added subsec. (c).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -186,7 +212,7 @@ Report.—
 
 &emsp;&emsp;&emsp;"(ii) A comparison of commercial industry accounting practices, including requirements under the Sarbanes-Oxley Act of 2002 (Public Law 107–204; 15 U.S.C. 7201 et seq.), with the cost accounting standards prescribed under chapter 15 of title 41, United States Code, to determine if some portions of cost accounting standards compliance can be met through such practices or requirements.
 
-&emsp;&emsp;&emsp;"(iii) A description of standards of materiality used by the Defense Contract Audit Agency andthe Inspector General of the Department of Defense for defense contract audits.
+&emsp;&emsp;&emsp;"(iii) A description of standards of materiality used by the Defense Contract Audit Agency and the Inspector General of the Department of Defense for defense contract audits.
 
 &emsp;&emsp;&emsp;"(iv) An estimate of average delay and range of delays in contract awards due to the time necessary for the Defense Contract Audit Agency to complete pre-award audits.
 
@@ -276,7 +302,7 @@ Sunset.—
 
 &emsp;"(1)
 
-In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck'McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
+In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 \[Dec. 19, 2014\].
 
 &emsp;"(2)
 

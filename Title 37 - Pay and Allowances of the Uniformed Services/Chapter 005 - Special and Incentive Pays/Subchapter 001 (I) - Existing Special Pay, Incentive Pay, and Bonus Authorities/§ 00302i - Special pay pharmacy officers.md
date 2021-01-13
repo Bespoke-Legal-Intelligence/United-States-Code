@@ -12,7 +12,7 @@ Army, Navy, and Air Force Pharmacy Officers.—Under regulations prescribed purs
 
 Public Health Service Corps.—Subject to subsection (c), the Secretary of Health and Human Services may pay retention special pay under this section to an officer who—
 
-&emsp;(1) is an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a pharmacy officer; and
+&emsp;(1) is an officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service and is designated as a pharmacy officer; and
 
 &emsp;(2) is on active duty under a call or order to active duty for a period of not less than one year.
 
@@ -25,6 +25,8 @@ Limitation on Eligibility for Special Pay.—Special pay may not be paid under t
 Limitation on Amount of Special Pay.—The amount of retention special pay paid to an officer under this section may not exceed $15,000 for any 12-month period.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title VI, §615(g), Dec. 2, 2002, 116 Stat. 2569.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,7 +54,15 @@ Subsec. (d). Pub. L. 107–314, §615(g)(3), added subsec. (d) and struck out he
 
 &emsp;"(7) $8,000 per year, if the officer has 18 or more years of creditable service."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Application of Increase
 
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

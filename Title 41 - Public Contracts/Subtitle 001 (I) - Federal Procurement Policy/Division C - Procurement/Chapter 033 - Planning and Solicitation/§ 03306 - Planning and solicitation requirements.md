@@ -34,7 +34,7 @@ Types of specifications.—For the purposes of paragraphs (1) and (2), the type 
 
 (b)
 
-Contents of Solicitation.—In addition to the specifications described in subsection (a),each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
+Contents of Solicitation.—In addition to the specifications described in subsection (a), each solicitation for sealed bids or competitive proposals (other than for a procurement for commercial products or commercial services using special simplified procedures or a purchase for an amount not greater than the simplified acquisition threshold) shall at a minimum include—
 
 &emsp;(1) a statement of—
 
@@ -124,7 +124,7 @@ Federal acquisition regulation to allow telecommuting.—The Federal Acquisition
 
 &emsp;(3)
 
-Scope of allowance.—The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition ofproperty or services may not set forth any requirement or evaluation criteria that would—
+Scope of allowance.—The Federal Acquisition Regulation at a minimum shall provide that a solicitation for the acquisition of property or services may not set forth any requirement or evaluation criteria that would—
 
 &emsp;&emsp;(A) render an offeror ineligible to enter into a contract on the basis of the inclusion of a plan of the offeror to allow the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, cannot be met if telecommuting is allowed and documents in writing the basis for the determination; or
 
@@ -156,6 +156,8 @@ Pub. L. 108–136, title XIV, §1428, Nov. 24, 2003, 117 Stat. 1670.
 
 In subsection (f)(2), the words "Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232, §836(b)(9), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
@@ -163,6 +165,8 @@ In subsection (f)(2), the words "Not later than 180 days after the date of the e
 Subsec. (c)(1)(B), (C). Pub. L. 115–232, §876(1), inserted "except as provided in paragraph (3)," after subpar. designation.
 
 Subsec. (c)(3), (4). Pub. L. 115–232, §876(2), added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

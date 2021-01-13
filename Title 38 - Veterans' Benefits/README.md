@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted "5100" for "5101" in item for part IV.
@@ -5524,6 +5526,8 @@ Rep.
 
 8528
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
 Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105, provided in part: "That the laws relating to veterans' benefits are revised, codified, and enacted as title 38, United States Code, 'Veterans' Benefits' ".
@@ -5715,6 +5719,8 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–163, title III, §302(b), May 5, 2010, 124 Stat. 1149, added item for chapter 75.
@@ -5747,11 +5753,11 @@ Pub. L. 102–83, §§2(d)(1), 5(b)(2), Aug. 6, 1991, 105 Stat. 402, 406, substi
 
 Pub. L. 102–54, §14(e)(1), June 13, 1991, 105 Stat. 287, inserted "United States" in item for chapter 72.
 
-Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted "5101" for "3001" in item for chapter 51, "5301" for "3101" in item for chapter 53, "5501" for "3201" in item for chapter 55, "5701" for "3301" in item for chapter 57, "5901" for "3401" in item for chapter 59, "6101" for "3501" in item for chapter 61, "Boards, Administrations, and Services" for "Boards and Departments" in item for part V, "7101" for "4001" in item chapter 71, "7251" for "4051" in item for chapter 72, "Veterans Health Administration—Organization and Functions . . . 7301" for "Department of Medicine and Surgery . . . 4101", added item for chapter 74, struck out item for chapter 75 "Veterans' Canteen Services . . . 4201", substituted "7601" for "4301" in item for chapter 76, added item for chapter 78, substituted "8101" for "5001" in item for chapter 81, "8201" for "5070" in item for chapter 82, "8301" for "5101" in item for chapter 83, and "8501" for "5201" in item for chapter 85.
+Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted "5101" for "3001" in item for chapter 51, "5301" for "3101" in item for chapter 53, "5501" for "3201" in item for chapter 55, "5701" for "3301" in item for chapter 57, "5901" for "3401" in item for chapter 59, "6101" for "3501" in item for chapter 61, "Boards, Administrations, and Services" for "Boards and Departments" in item for part V, "7101" for "4001" in item chapter 71, "7251" for "4051" in item for chapter 72, "Veterans Health Administration—Organization and Functions . . . 7301" for "Department of Medicine and Surgery . . . 4101", added item for chapter 74, struck out item for chapter 75 "Veterans' Canteen Services . . . 4201", substituted "7601" for "4301" in item for chapter 76, added item for chapter 78, substituted "8101" for "5001" in item for chapter 81, "8201" for "5070" in item for chapter 82, "8301" for "5101" initem for chapter 83, and "8501" for "5201" in item for chapter 85.
 
 Pub. L. 102–16, §9(c)(2), Mar. 22, 1991, 105 Stat. 55, struck out "Disabled and Vietnam Era" after "Employment and Training of" in item for chapter 42.
 
-<b>1988</b>—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted"Claims" for "Applications" in item for chapter 51 and added item for chapter 72.
+<b>1988</b>—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted "Claims" for "Applications" in item for chapter 51 and added item for chapter 72.
 
 Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added item for chapter 76.
 

@@ -158,7 +158,7 @@ An agreement under subchapters II and III–A shall, to the extent practicable, 
 
 #### References in Text
 
-The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, §1110, Dec.23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
+The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Codification
 
@@ -238,7 +238,7 @@ Subsec. (d)(4). Pub. L. 102–237, §332, substituted "the Federal Property and 
 
 Subsec. (c)(4). Pub. L. 101–508 substituted "providing ocean transportation or" for "providing ocean".
 
-<b>1975</b>—Pub. L. 94–161 inserted ", or their designees (who shall be members of such committees or, in thecase of members from the executive branch, who shall have been confirmed by the Senate)" in first sentence.
+<b>1975</b>—Pub. L. 94–161 inserted ", or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)" in first sentence.
 
 <b>1968</b>—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
 
@@ -258,7 +258,7 @@ Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an
 
 #### Preparation of Annual Report
 
-For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec.\(g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

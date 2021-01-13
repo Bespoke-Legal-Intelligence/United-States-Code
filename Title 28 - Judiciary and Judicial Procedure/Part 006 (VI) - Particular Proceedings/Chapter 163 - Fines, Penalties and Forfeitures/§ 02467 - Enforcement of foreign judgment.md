@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term "forfeiture or confiscation judgment" means a final order of a foreign nation compelling a person or entity—
 
-&emsp;&emsp;(A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
+&emsp;&emsp;(A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) oftitle 18, or property the value of which corresponds to such proceeds; or
 
 &emsp;&emsp;(B) to forfeit property involved in or traceable to the commission of such offense.
 
@@ -110,7 +110,7 @@ Evidence.—The court, in issuing a restraining order under subparagraph (A)—
 
 &emsp;&emsp;(C)
 
-Limit on grounds for objection.—No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
+Limit on grounds for objection.—No person may object to a restraining orderunder subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
 
 (e)
 
@@ -121,6 +121,8 @@ Finality of Foreign Findings.—In entering orders to enforce the judgment, the 
 Currency Conversion.—The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
 
 (Added Pub. L. 106–185, §15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §323, Oct. 26, 2001, 115 Stat. 315; Pub. L. 111–342, §2, Dec. 22, 2010, 124 Stat. 3607.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -137,6 +139,8 @@ Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted "establishing that th
 Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted "the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property" for "the defendant in the proceedings in the foreign court did not receive notice".
 
 Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

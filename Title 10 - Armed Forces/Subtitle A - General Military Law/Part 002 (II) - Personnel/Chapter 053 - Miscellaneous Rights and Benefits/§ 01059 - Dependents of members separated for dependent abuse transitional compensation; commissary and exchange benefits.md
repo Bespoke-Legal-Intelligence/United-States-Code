@@ -6,7 +6,7 @@ Authority To Pay Compensation.—The Secretary of Defense, with respect to the a
 
 (b)
 
-Punitive and Other Adverse Actions Covered.—This section applies in the case of a member of the armed forces on active duty for a period of more than 30 days—
+Punitive and Other Adverse Actions Covered.—This section applies in the case of amember of the armed forces on active duty for a period of more than 30 days—
 
 &emsp;(1) who is convicted of a dependent-abuse offense (as defined in subsection (c)) and whose conviction results in the member—
 
@@ -60,7 +60,7 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 Amount of Payment.—(1) Payment to a spouse or former spouse under this section for any month shall be at the rate in effect for that month for the payment of dependency and indemnity compensation under section 1311(a)(1) of title 38.
 
-(2) If a spouse or former spouse to whom compensation is paid under this section has custody of a dependent child of the member who resides in the same household as that spouse or former spouse, the amount of such compensation paid for any month shall be increased for each such dependent child by the amount in effect for that month under section 1311(b) of title 38.
+(2) If a spouse or former spouse to whom compensation is paid under this section has custodyof a dependent child of the member who resides in the same household as that spouse or former spouse, the amount of such compensation paid for any month shall be increased for each such dependent child by the amount in effect for that month under section 1311(b) of title 38.
 
 (3) If compensation is paid under this section to a child or children pursuant to subsection (d)(2) or (d)(3), such compensation shall be paid in equal shares, with the amount of such compensation for any month determined in accordance with the rates in effect for that month under section 1313 of title 38.
 
@@ -84,7 +84,7 @@ Effect of Continuation of Military Pay.—In the case of payment of transitional
 
 (i)
 
-Coordination of Benefits.—The Secretary concerned may not make payments to a spouse or former spouse under both this section and section 1408(h)(1) of this title. In the case of aspouse or former spouse for whom a court order provides for payments by the Secretary pursuant to section 1408(h)(1) of this title and to whom the Secretary offers payments under this section, the spouse or former spouse shall elect which to receive.
+Coordination of Benefits.—The Secretary concerned may not make payments to a spouse or former spouse under both this section and section 1408(h)(1) of this title. In the case of a spouse or former spouse for whom a court order provides for payments by the Secretary pursuant to section 1408(h)(1) of this title and to whom the Secretary offers payments under this section, the spouse or former spouse shall elect which to receive.
 
 (j)
 
@@ -106,7 +106,7 @@ Dependent Child Defined.—In this section, the term "dependent child", with res
 
 &emsp;(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support; or
 
-&emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
+&emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of theformer member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
 (m)
 
@@ -128,7 +128,7 @@ Exceptional Eligibility for Dependents of Members or Former Members.—(1) The S
 
 #### Amendments
 
-<b>2019</b>—Subsec. (m). Pub. L. 116–92, §621(1), (2), inserted "Members or" before "Former Members" in headingand "member or" before "former member" wherever appearing in pars. (1) and (2).
+<b>2019</b>—Subsec. (m). Pub. L. 116–92, §621(1), (2), inserted "Members or" before "Former Members" in heading and "member or" before "former member" wherever appearing in pars. (1) and (2).
 
 Subsec. (m)(3), (4). Pub. L. 116–92, §621(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
@@ -202,7 +202,7 @@ Subsecs. (j) to (l). Pub. L. 103–337, §535(b), added subsec. (j) and redesign
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Effective Date of 2013 Amendment
 

@@ -4,15 +4,21 @@ The Secretary of the Interior shall, under the direction of the President, cause
 
 (R.S. §2073; Feb. 27, 1877, ch. 69, §1, 19 Stat. 244.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2073 derived from act July 9, 1832, ch. 174, §5, 4 Stat. 564.
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indian Agents
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

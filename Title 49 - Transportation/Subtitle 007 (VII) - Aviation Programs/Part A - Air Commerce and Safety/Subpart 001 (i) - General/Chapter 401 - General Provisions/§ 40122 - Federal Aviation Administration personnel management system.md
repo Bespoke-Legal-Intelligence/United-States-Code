@@ -42,7 +42,7 @@ Framing issues in controversy.—If the parties do not agree on the framing of t
 
 &emsp;&emsp;&emsp;(iv)
 
-Hearings.—The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims and anopportunity to present their case in person, by counsel, or by other representative as they may elect.
+Hearings.—The arbitration board shall give the parties a full and fair hearing, including an opportunity to present evidence in support of their claims and an opportunity to present their case in person, by counsel, or by other representative as they may elect.
 
 &emsp;&emsp;&emsp;(v)
 
@@ -150,6 +150,10 @@ Certification of disabled veteran leave.—In order to verify that leave credite
 
 &emsp;(5)
 
+Paid parental leave.—The Administrator shall implement a paid parental leave benefit for employees of the Administration that is, at a minimum, consistent with the paid parental leave benefits provided under section 6382 of title 5.
+
+&emsp;(6)
+
 Effective date.—This subsection shall take effect on April 1, 1996.
 
 (h)
@@ -164,7 +168,7 @@ Election of Forum.—Where a major adverse personnel action may be contested thr
 
 Definition.—In this section, the term "major adverse personnel action" means a suspension of more than 14 days, a reduction in pay or grade, a removal for conduct or performance, a nondisciplinary removal, a furlough of 30 days or less (but not including placement in a nonpay status as the result of a lapse of appropriations or an enactment by Congress), or a reduction in force action.
 
-(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978; Pub. L. 115–254, div. B, title V, §531, Oct. 5, 2018, 132 Stat. 3366.)
+(Added Pub. L. 104–264, title II, §253, Oct. 9, 1996, 110 Stat. 3237; amended Pub. L. 106–181, title III, §§307(a), 308, Apr. 5, 2000, 114 Stat. 124, 126; Pub. L. 112–95, title VI, §§601, 602, 611, Feb. 14, 2012, 126 Stat. 109, 111, 117; Pub. L. 114–242, §2(a), (b), Oct. 7, 2016, 130 Stat. 978; Pub. L. 115–254, div. B, title V, §531, Oct. 5, 2018, 132 Stat. 3366; Pub. L. 116–283, div. A, title XI, §1103(c)(1), Jan. 1, 2021, 134 Stat. 3887.)
 
 #### References in Text
 
@@ -176,13 +180,15 @@ The effective date of the Air Traffic Management System Performance Improvement 
 
 #### Amendments
 
+<b>2021</b>—Subsec. (g)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
+
 <b>2018</b>—Subsec. (g)(2)(B). Pub. L. 115–254 inserted "3304(f), to the extent consistent with the Federal Aviation Administration's status as an excepted service agency," before "3308–3320" and "3330a, 3330b, 3330c, and 3330d," before "relating".
 
 <b>2016</b>—Subsec. (g)(2)(J). Pub. L. 114–242, §2(a), added subpar. (J).
 
 Subsec. (g)(4), (5). Pub. L. 114–242, §2(b), added par. (4) and redesignated former par. (4) as (5).
 
-<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted theproposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
+<b>2012</b>—Subsec. (a)(2) to (5). Pub. L. 112–95, §601, added pars. (2) and (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "If the Administrator does not reach an agreement under paragraph (1) with the exclusive bargaining representatives, the services of the Federal Mediation and Conciliation Service shall be used to attempt to reach such agreement. If the services of the Federal Mediation and Conciliation Service do not lead to an agreement, the Administrator's proposed change to the personnel management system shall not take effect until 60 days have elapsed after the Administrator has transmitted the proposed change, along with the objections of the exclusive bargaining representatives to the change, and the reasons for such objections, to Congress. The 60-day period shall not include any period during which Congress has adjourned sine die."
 
 Subsec. (g)(2)(I). Pub. L. 112–95, §602, added subpar. (I).
 
@@ -194,6 +200,10 @@ Subsec. (g). Pub. L. 106–181, §307(a), added subsec. (g).
 
 Subsecs. (h) to (j). Pub. L. 106–181, §308(b), added subsecs. (h) to (j).
 
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title XI, §1103(c)(2), Jan. 1, 2021, 134 Stat. 3887, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to any birth or placement occurring on or after October 1, 2020."
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -204,9 +214,53 @@ Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
+#### Rule of Construction
+
+Pub. L. 116–283, div. A, title XI, §1103(c)(3), Jan. 1, 2021, 134 Stat. 3887, provided that: "Nothing in this subsection, or any amendment made by this subsection \[amending this section\], may be construed to affect leave provided to an employee of the Transportation Security Administration before October 1, 2020."
+
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Office of Investigations and Professional Responsibility; Misconduct Investigations
+
+Pub. L. 116–260, div. V, title I, §133(c), (d), Dec. 27, 2020, 134 Stat. 2355, provided that:
+
+"(c)
+
+Office of Investigations and Professional Responsibility.—The Administrator shall take such action as may be necessary to redesignate the Office of Investigations of the Administration as the Office of Investigations and Professional Responsibility.
+
+"(d)
+
+Misconduct Investigations.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall review and revise the Administration's existing investigative policies that govern the investigation of misconduct by a manager of the Administration conducted by the FAA (in this subsection referred to as the 'Agency').
+
+&emsp;"(2)
+
+Preservation of collective bargaining agreements.—The investigative policy established under paragraph (1) shall not apply to, or in the future, be extended by the Administrator to apply to, any employee who is not a manager or is covered by or eligible to be covered by a collective bargaining agreement entered into by the Agency.
+
+&emsp;"(3)
+
+Requirements.—In revising the investigative policies, the Administrator shall ensure such policies require—
+
+&emsp;&emsp;"(A) the utilization of investigative best practices to ensure independent and objective investigation and accurate recording and reporting of such investigation;
+
+&emsp;&emsp;"(B) the management of case files to ensure the integrity of the information contained in such case files;
+
+&emsp;&emsp;"(C) interviews be conducted in a manner that ensures, to the greatest extent possible, truthful answers and accurate records of such interviews;
+
+&emsp;&emsp;"(D) coordination with the Office of the Inspector General of the Department of Transportation, the Office of the Special Counsel, and the Attorney General, as appropriate; and
+
+&emsp;&emsp;"(E) the completion of investigations in a timely manner.
+
+&emsp;"(4)
+
+Definition.—For purposes of this subsection, the term 'manager' means an employee of the Agency who is a supervisor or management official, as defined in section 7103(a) of title 5, United States Code."
+
+\[For definitions of terms used in section 133(c), (d) of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
 
 #### Application of 2016 Amendment
 

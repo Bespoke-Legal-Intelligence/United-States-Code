@@ -16,6 +16,7 @@
 | [5510\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005510%20-%20Providing%20assistance%20to%20House%20of%20Representatives%20in%20response%20to%20cybersecurity%20events.md) | Providing assistance to House of Representatives in response to cybersecurity events. |
 | [5511\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005511%20-%20Transfer%20of%20funds.md) | Transfer of funds. |
 | [5512\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005512%20-%20Use%20of%20available%20balances%20of%20expired%20appropriations.md) | Use of available balances of expired appropriations. |
+| [5513\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005513%20-%20House%20of%20Representatives%20Modernization%20Initiatives%20Account.md) | House of Representatives Modernization Initiatives Account. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,6 +49,7 @@
 | [5545\.](Subchapter%20003%20%28III%29%20-%20Chief%20Administrative%20Officer/%C2%A7%2005545%20-%20House%20Services%20Revolving%20Fund.md) | House Services Revolving Fund. |
 | [5546\.](Subchapter%20003%20%28III%29%20-%20Chief%20Administrative%20Officer/%C2%A7%2005546%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for House during emergency; memorandum of understanding with an executive agency. |
 | [5547\.](Subchapter%20003%20%28III%29%20-%20Chief%20Administrative%20Officer/%C2%A7%2005547%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
+| [5548\.](Subchapter%20003%20%28III%29%20-%20Chief%20Administrative%20Officer/%C2%A7%2005548%20-%20Payments%20to%20ensure%20continuing%20availability%20of%20goods%20and%20services%20during%20the%20coronavirus%20emergency.md) | Payments to ensure continuing availability of goods and services during the coronavirus emergency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

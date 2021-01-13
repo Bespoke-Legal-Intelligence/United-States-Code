@@ -56,11 +56,11 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (1) Funding percentage less than 60 percent
 
-&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
+&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case inwhich the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
 
 #### (2) Bankruptcy
 
-&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may notpay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
+&emsp;A defined benefit plan which is a single-employer plan shall provide that, during any period in which the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, the plan may not pay any prohibited payment. The preceding sentence shall not apply on or after the date on which the enrolled actuary of the plan certifies that the adjusted funding target attainment percentage of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv)) is not less than 100 percent.
 
 #### (3) Limited payment if percentage at least 60 percent but less than 80 percent
 
@@ -188,7 +188,7 @@ For purposes of applying this title—
 
 #### (1) Operation of plan after period
 
-&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under subsection (d) or (e) applies.
+&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period forwhich any limitation of payment or accrual of benefits under subsection (d) or (e) applies.
 
 #### (2) Treatment of affected benefits
 

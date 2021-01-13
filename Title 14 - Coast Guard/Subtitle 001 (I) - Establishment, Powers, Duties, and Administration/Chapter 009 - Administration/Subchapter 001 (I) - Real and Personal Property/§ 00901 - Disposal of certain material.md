@@ -20,7 +20,7 @@
 
 (3) The remaining balance available to a Coast Guard installation may be transferred to the Coast Guard Morale, Welfare, and Recreation Program.
 
-(e) If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the general fund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.
+(e) If the balance available to the Coast Guard installation under this section at the end of a fiscal year is in excess of $200,000, the amount of that excess shall be deposited in the generalfund of the Treasury as offsetting receipts of the Department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 547, §641; Oct. 31, 1951, ch. 654, §2(11), 65 Stat. 707; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 102–587, title V, §5202, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 104–324, title IV, §408, title XI, §1119, Oct. 19, 1996, 110 Stat. 3925, 3973; Pub. L. 107–217, §3(c)(3), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, §5(c)(3), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 114–120, title II, §209(10), Feb. 8, 2016, 130 Stat. 41; renumbered §901, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
 
@@ -31,6 +31,8 @@ Subsection (a) is based on title 14, U.S.C., 1946 ed., §43a (Apr. 10, 1936, ch.
 Subsection (b) is based on title 33, U.S.C., 1946 ed., §752a (May 22, 1926, ch. 371, §5, 44 Stat. 626).
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

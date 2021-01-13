@@ -16,7 +16,7 @@ The purpose of the Residential Energy Assistance Challenge (in this section refe
 
 #### (1) Allocation
 
-&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
+&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plansthat are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
 
 #### (2) Reservation
 
@@ -158,17 +158,5 @@ Section effective Oct. 1, 1994, see section 314 of Pub. L. 103–252, set out as
 
 #### Evaluation and Report on Residential Energy Assistance Challenge Option
 
-Pub. L. 105–285, title III, §308(a), (b), Oct. 27, 1998, 112 Stat. 2758, provided that:
-
-"(a)
-
-Evaluation.—The Comptroller General of the United States shall conduct an evaluation of the Residential Energy Assistance Challenge program described in section 2607B of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8626b).
-
-"(b)
-
-Report.—Not later than 2 years after the date of enactment of this Act \[Oct. 27, 1998\], the Comptroller General of the United States shall prepare and submit to Congress a report containing—
-
-&emsp;"(1) the findings resulting from the evaluation described in subsection (a); and
-
-&emsp;"(2) the State evaluations described in paragraphs (1) and (2) of subsection (b) of such section 2607B."
+Pub. L. 105–285, title III, §308(a), (b), Oct. 27, 1998, 112 Stat. 2758, provided that the Comptroller General of the United States would conduct an evaluation of the Residential Energy Assistance Challenge program described in this section, and, not later than 2 years after Oct. 27, 1998, submit to Congress a report containing the findings of the evaluation and the State evaluations described in paragraphs (1) and (2) of subsec. (b) of this section.
 

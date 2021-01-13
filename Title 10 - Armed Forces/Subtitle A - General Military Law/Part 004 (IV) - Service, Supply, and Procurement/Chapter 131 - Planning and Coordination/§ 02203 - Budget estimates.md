@@ -52,7 +52,7 @@ Pub. L. 95–184, title II, §203, Nov. 15, 1977, 91 Stat. 1382, provided that i
 
 #### Report to Congressional Committees on Material Readiness Requirements for Armed Forces
 
-Pub. L. 95–79, title VIII, §812, July 30, 1977, 91 Stat. 336, as amended by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, directed Secretary of Defense to submit to Congress, not later than February 15, 1978, a report setting forth quantifiable and measurable material readiness requirements for the Armed Forces, including the Reserve components thereof, monthly readiness status of the Armed Forces, including the reserve components thereof, during fiscal year 1977, and any changes in such requirements and status projected for fiscal years 1978 and 1979 and in the five-year defense program, and to inform Congress of any subsequent changes in the aforementioned materiel readiness requirements and the reasons for such changes.
+Pub. L. 95–79, title VIII, §812, July 30, 1977, 91 Stat. 336, as amended by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, directed Secretary of Defense to submit to Congress, not later than February 15, 1978, a report setting forth quantifiable and measurable material readiness requirements for the Armed Forces, including the Reserve components thereof, monthly readiness status of the Armed Forces, including the reserve components thereof, during fiscal year 1977, and any changes insuch requirements and status projected for fiscal years 1978 and 1979 and in the five-year defense program, and to inform Congress of any subsequent changes in the aforementioned materiel readiness requirements and the reasons for such changes.
 
 #### Modifications in United States Strategic Arms Programs on Recommendation of President
 

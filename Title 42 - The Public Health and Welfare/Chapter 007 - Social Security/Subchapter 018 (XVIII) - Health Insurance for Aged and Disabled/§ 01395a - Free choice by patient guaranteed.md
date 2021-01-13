@@ -156,17 +156,9 @@ In General.—Not later than 12 months after the last day of the period for the 
 
 "(b)
 
-Request for Information.—Not later than 6 months after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services shall request information, including recommendations, from stakeholders (including patient advocates, issuers, and employers) on information included in the Welcome to Medicare package, including pertinent data and information regarding enrollment and coverage for Medicare eligible individuals."
+Request for Information.—Not later than 6 months after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services shall request information, including recommendations, from stakeholders (including patient advocates, issuers, and employers) on information included in the Welcome to Medicare package, includingpertinent data and information regarding enrollment and coverage for Medicare eligible individuals."
 
 #### Report to Congress on Effect of Private Contracts
 
-Pub. L. 105–33, title IV, §4507(b), Aug. 5, 1997, 111 Stat. 441, provided that: "Not later than October 1, 2001, the Secretary of Health and Human Services shall submit a report to Congress on the effect on the program under this title \[see Tables for classification\] of private contracts entered into under the amendment made by subsection (a) \[amending this section and section 1395y of this title\]. Such report shall include—
-
-&emsp;"(1) analyses regarding—
-
-&emsp;&emsp;"(A) the fiscal impact of such contracts on total Federal expenditures under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and on out-of-pocket expenditures by medicare beneficiaries for health services under such title; and
-
-&emsp;&emsp;"(B) the quality of the health services provided under such contracts; and
-
-&emsp;"(2) recommendations as to whether medicare beneficiaries should continue to be able to enter private contracts under section 1802(b) of such Act \[42 U.S.C. 1395a(b)\] (as added by subsection (a)) and if so, what legislative changes, if any should be made to improve such contracts."
+Pub. L. 105–33, title IV, §4507(b), Aug. 5, 1997, 111 Stat. 441, required a report to be submitted to Congress, no later than Oct. 1, 2001, on the effect on the program under title IV of Pub. L. 105–33 of certain private contracts.
 

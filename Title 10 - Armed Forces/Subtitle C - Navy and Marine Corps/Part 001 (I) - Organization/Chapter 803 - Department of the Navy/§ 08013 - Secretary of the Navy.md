@@ -86,6 +86,46 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Executive Agent for Autonomy
+
+Pub. L. 116–283, div. A, title II, §218, Jan. 1, 2021, 134 Stat. 3463, provided that:
+
+"(a)
+
+In General.—Not later than February 1, 2022, the Secretary of the Navy shall designate an existing program executive officer from within the Department of the Navy to serve as the acquisition executive agent for autonomy who shall be the official within the Department with primary responsibility for the acquisition of autonomous technology. The officer designated as acquisition executive agent for autonomy shall carry out the responsibilities of such position in addition to the responsibilities otherwise assigned to such officer as a program executive officer.
+
+"(b)
+
+Program Executive Officer Defined.—In this section, the term 'program executive officer' has the meaning given that term in section 1737(a)(4) of title 10, United States Code."
+
+#### Fire Fighters Alternative Work Schedule Demonstration Project for the Navy Region Mid-Atlantic Fire and Emergency Services
+
+Pub. L. 116–283, div. A, title XI, §1109, Jan. 1, 2021, 134 Stat. 3891, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Commander, Navy Region Mid-Atlantic, shall establish and carry out, for a period of not less than five years, a Fire Fighters Alternative Work Schedule demonstration project for the Navy Region Mid-Atlantic Fire and Emergency Services. Such demonstration project shall provide, with respect to each employee of the Navy Region Mid-Atlantic Fire and Emergency Services, that—
+
+&emsp;"(1) assignments to tours of duty are scheduled in advance over periods of not less than two weeks;
+
+&emsp;"(2) tours of duty are scheduled using a regularly recurring pattern of 48-hour shifts followed by 48 or 72 consecutive non-work hours, as determined by mutual agreement between the Commander, Navy Region Mid-Atlantic, and the exclusive employee representative at each Navy Region Mid-Atlantic installation, in such a manner that each employee is regularly scheduled for 144-hours in any two-week period;
+
+&emsp;"(3) for any such employee that is a fire fighter working an alternative work schedule, such employee shall earn overtime compensation in a manner consistent with other applicable law and regulation;
+
+&emsp;"(4) no right shall be established to any form of premium pay, including night, Sunday, holiday, or hazard duty pay; and
+
+&emsp;"(5) leave accrual and use shall be consistent with other applicable law and regulation.
+
+"(b)
+
+Report.—Not later than 180 days after the date on which the demonstration project under this section terminates, the Commander, Navy Region Mid-Atlantic, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing—
+
+&emsp;"(1) any financial savings or expenses directly and inseparably linked to the demonstration project;
+
+&emsp;"(2) any intangible quality of life and morale improvements achieved by the demonstration project; and
+
+&emsp;"(3) any adverse impact of the demonstration project occurring solely as the result of the transition to the demonstration project."
+
 #### Notifications on Manning of Afloat Naval Forces
 
 Pub. L. 116–92, div. A, title V, §597(a)–(e), Dec. 20, 2019, 133 Stat. 1418, 1419, provided that:
@@ -122,7 +162,7 @@ Elements.—The notification required by subsection (a) shall include, with resp
 
 "(c)
 
-Special Rule.—For purposes of determining whether a percentage of manning fit or manning fillhas been achieved, a sailor in a more senior paygrade may count as filling the billet of a more junior paygrade, but a sailor in a more junior paygrade may not count as filling the billet of a more senior paygrade.
+Special Rule.—For purposes of determining whether a percentage of manning fit or manning fill has been achieved, a sailor in a more senior paygrade may count as filling the billet of a more junior paygrade, but a sailor in a more junior paygrade may not count as filling the billet of a more senior paygrade.
 
 "(d)
 
@@ -162,6 +202,10 @@ Timline for Implementation.—
 
 Current programs.—In the case of any shipboard system program of record that is in use as of the date of the enactment of this Act \[Dec. 20, 2019\] for which no formal training is available, the Secretary shall ensure that such training is available by not later than 12 months after the date of the enactment of this Act.
 
+&emsp;"(2)
+
+Future programs.—In the case of any shipboard system program of record that is first accepted by the Government after the date of the enactment of this Act, the Secretary shall ensure that formal training is established for such program by not later than 12 months after the date on which the shipboard system program of record is first accepted by the Government."
+
 #### Limitation on Modifications to Navy Facilities Sustainment, Restoration, and Modernization Structure and Mechanism
 
 Pub. L. 115–232, div. A, title III, §328, Aug. 13, 2018, 132 Stat. 1723, provided that: "The Secretary of the Navy may not make any modification to the existing Navy Facilities Sustainment, Restoration, and Modernization structure or mechanism that would modify duty relationships or significantly alter the existing structure until 90 days after providing notice of the proposed modification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]."
@@ -200,7 +244,7 @@ Update briefings.—Not later than one year after the briefing pursuant to parag
 
 #### Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations
 
-Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: "For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property."
+Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: "For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by thegrantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property."
 
 #### Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports
 
@@ -214,7 +258,7 @@ Authority to Acquire Complete Title.—If real property owned by the United Stat
 
 Authorized Consideration.—(1) As consideration for the acquisition of a reversionary interest under subsection (a), the Secretary shall provide the holder of the reversionary interest with in-kind consideration, to be determined pursuant to negotiations between the Secretary and the holder of the reversionary interest.
 
-"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the UnitedStates were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
+"(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
 
 "(c)
 
@@ -276,7 +320,7 @@ Acceptance of Services.—Notwithstanding section 1342 of title 31, United State
 
 "(e)
 
-Liability and Indemnification.—(1) The Secretary may not enter into a cooperative agreement under subsection (b) with a nonprofit organization for the participation of that organization in the demonstration project unless the agreement includes provisions that the nonprofit organization shall—
+Liability and Indemnification.—(1) The Secretary may not enter into a cooperative agreement under subsection (b) with a nonprofit organization forthe participation of that organization in the demonstration project unless the agreement includes provisions that the nonprofit organization shall—
 
 &emsp;"(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of prerelease employment training by the organization under the demonstration project; and
 

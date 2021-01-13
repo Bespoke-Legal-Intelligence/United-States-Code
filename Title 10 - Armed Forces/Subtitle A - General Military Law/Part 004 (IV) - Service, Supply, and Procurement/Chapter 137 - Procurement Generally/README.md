@@ -8,7 +8,7 @@
 | [2302b.](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md) | Implementation of simplified acquisition procedures. |
 | \[2302c. | Repealed.\] |
 | [2302d.](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md) | Major system: definitional threshold amounts. |
-| [2302e.](%C2%A7%2002302e%20-%20Contract%20authority%20for%20advanced%20development%20of%20initial%20or%20additional%20prototype%20units.md) | Contract authority for advanced development of initial or additional prototype units. |
+| [2302e.](%C2%A7%2002302e%20-%20Contract%20authority%20for%20development%20and%20demonstration%20of%20initial%20or%20additional%20prototype%20units.md) | Contract authority for development and demonstration of initial or additional prototype units. |
 | [2303\.](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md) | Applicability of chapter. |
 | \[2303a. | Repealed.\] |
 | [2304\.](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md) | Contracts: competition requirements. |
@@ -64,10 +64,17 @@
 | [2339\.](%C2%A7%2002339%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md) | Prohibition on criminal history inquiries by contractors prior to conditional offer. |
 | [2339a.](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md) | Requirements for information relating to supply chain risk. |
 | [2339b.](%C2%A7%2002339b%20-%20Notification%20of%20Navy%20procurement%20production%20disruptions.md) | Notification of Navy procurement production disruptions. |
+| [2339c.](%C2%A7%2002339c%20-%20Disclosures%20for%20offerors%20for%20certain%20shipbuilding%20major%20defense%20acquisition%20program%20contracts.md) | Disclosures for offerors for certain shipbuilding major defense acquisition program contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Chapter
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VIII, §§803(b), 831(b), Jan. 1, 2021, 134 Stat. 3735, 3753, added items 2302e and 2339c and struck out former item 2302e "Contract authority for advanced development of initial or additional prototype units".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §820(b), title XI, §1123(b)(3), title XVII, §1731(a)(39)(C), Dec. 20, 2019, 133 Stat. 1490, 1614, 1814, struck out "and certain other entities" after "businesses" in item 2304e and "and certain institutions of higher education" after "businesses" in item 2323a and added items 2339 and 2339b.
 
@@ -158,7 +165,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02302b - Implementation of simplified acquisition procedures](%C2%A7%2002302b%20-%20Implementation%20of%20simplified%20acquisition%20procedures.md)
 - [&sect; 02302c - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(5)(A)(i), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002302c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%285%29%28A%29%28i%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
 - [&sect; 02302d - Major system definitional threshold amounts](%C2%A7%2002302d%20-%20Major%20system%20definitional%20threshold%20amounts.md)
-- [&sect; 02302e - Contract authority for advanced development of initial or additional prototype units](%C2%A7%2002302e%20-%20Contract%20authority%20for%20advanced%20development%20of%20initial%20or%20additional%20prototype%20units.md)
+- [&sect; 02302e - Contract authority for development and demonstration of initial or additional prototype units](%C2%A7%2002302e%20-%20Contract%20authority%20for%20development%20and%20demonstration%20of%20initial%20or%20additional%20prototype%20units.md)
 - [&sect; 02303 - Applicability of chapter](%C2%A7%2002303%20-%20Applicability%20of%20chapter.md)
 - [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
 - [&sect; 02304 - Contracts competition requirements](%C2%A7%2002304%20-%20Contracts%20competition%20requirements.md)
@@ -214,3 +221,4 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 - [&sect; 02339 - Prohibition on criminal history inquiries by contractors prior to conditional offer](%C2%A7%2002339%20-%20Prohibition%20on%20criminal%20history%20inquiries%20by%20contractors%20prior%20to%20conditional%20offer.md)
 - [&sect; 02339a - Requirements for information relating to supply chain risk](%C2%A7%2002339a%20-%20Requirements%20for%20information%20relating%20to%20supply%20chain%20risk.md)
 - [&sect; 02339b - Notification of Navy procurement production disruptions](%C2%A7%2002339b%20-%20Notification%20of%20Navy%20procurement%20production%20disruptions.md)
+- [&sect; 02339c - Disclosures for offerors for certain shipbuilding major defense acquisition program contracts](%C2%A7%2002339c%20-%20Disclosures%20for%20offerors%20for%20certain%20shipbuilding%20major%20defense%20acquisition%20program%20contracts.md)

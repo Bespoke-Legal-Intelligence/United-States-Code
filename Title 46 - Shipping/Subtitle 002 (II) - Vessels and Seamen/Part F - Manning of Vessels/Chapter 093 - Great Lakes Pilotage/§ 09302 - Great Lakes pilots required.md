@@ -8,7 +8,7 @@
 
 (2) The President shall make water designations under this subsection with regard to the public interest, the effective use of navigable waters, marine safety, and the foreign relations of the United States.
 
-(b) A member of the complement of a vessel of the United States operating on register or of a vessel of Canada may serve as the pilot required on waters not designated by the President if the member is licensed under section 7101 of this title, or under equivalent provisions of Canadian law, to direct the navigation of the vessel on the waters being navigated.
+(b) A member of the complement of a vessel of the United States operating on register or of avessel of Canada may serve as the pilot required on waters not designated by the President if the member is licensed under section 7101 of this title, or under equivalent provisions of Canadian law, to direct the navigation of the vessel on the waters being navigated.
 
 (c) The authority extended under subsections (a) and (b) of this section to a Canadian registered pilot or other Canadian licensed officer to serve on certain vessels in United States waters of the Great Lakes shall continue as long as Canada extends reciprocity to United States registered pilots and other individuals licensed by the United States for pilotage service in Canadian waters of the Great Lakes.
 
@@ -48,6 +48,8 @@ Subsection (c) provides for reciprocity of recognizing United States and Canadia
 
 Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargo is in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–324, §1115(b)(5), substituted "subsections (d), (e), and (f)" for "subsections (d) and (e)".
@@ -58,9 +60,13 @@ Subsec. (f). Pub. L. 104–324, §1115(b)(7), added subsec. (f).
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–380 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An individual of a vessel licensed for navigation on the Great Lakes under section 7101 of this title, or equivalent provisions of Canadian law, and qualified for the route being navigated, may serve as the pilot required on waters not designated by the President."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 3385. Designation of Restricted Waters
 

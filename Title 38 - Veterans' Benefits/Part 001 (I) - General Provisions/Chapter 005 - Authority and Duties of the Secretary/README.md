@@ -32,6 +32,7 @@
 | [530\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000530%20-%20Annual%20report%20on%20program%20and%20expenditures%20for%20domestic%20response%20to%20weapons%20of%20mass%20destruction.md) | Annual report on program and expenditures for domestic response to weapons of mass destruction. |
 | [531\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000531%20-%20Requirement%20relating%20to%20naming%20of%20Department%20property.md) | Requirement relating to naming of Department property. |
 | [532\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000532%20-%20Authority%20to%20advertise%20in%20national%20media%3B%20VetStar%20Award%20Program.md) | Authority to advertise in national media; VetStar Award Program. |
+| [533\.](Subchapter%20002%20%28II%29%20-%20Specified%20Functions/%C2%A7%2000533%20-%20Anti-harassment%20and%20anti-sexual%20assault%20policy.md) | Anti-harassment and anti-sexual assault policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,10 +46,15 @@
 | [544\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000544%20-%20Advisory%20Committee%20on%20Minority%20Veterans.md) | Advisory Committee on Minority Veterans. |
 | [545\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000545%20-%20Advisory%20Committee%20on%20the%20Readjustment%20of%20Veterans.md) | Advisory Committee on the Readjustment of Veterans. |
 | [546\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000546%20-%20Advisory%20Committee%20on%20Disability%20Compensation.md) | Advisory Committee on Disability Compensation. |
+| [547\.](Subchapter%20003%20%28III%29%20-%20Advisory%20Committees/%C2%A7%2000547%20-%20Advisory%20Committee%20on%20Tribal%20and%20Indian%20Affairs.md) | Advisory Committee on Tribal and Indian Affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title V, §5303(b), title VII, §7002(a)(2), Jan. 5, 2021, 134 Stat. 5041, 5057, added items 533 and 547.
 
 <b>2015</b>—Pub. L. 114–58, title VI, §601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item "521A" and adding item 521A, was executed by striking item 512A "Adaptive sports programs for disabled veterans and members of the Armed Forces" and adding item 521A, to reflect the probable intent of Congress.
 

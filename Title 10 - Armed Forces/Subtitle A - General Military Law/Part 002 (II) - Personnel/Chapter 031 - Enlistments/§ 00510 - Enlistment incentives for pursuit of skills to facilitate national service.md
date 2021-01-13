@@ -60,11 +60,11 @@ Payment of Bonus Amounts.—(1) Payment to a National Call to Service participan
 
 (h)
 
-Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who elects an incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
+Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who electsan incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
 
 (B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
-(2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall includeadministrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
+(2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
 (B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
@@ -122,7 +122,7 @@ Subsec. (h)(2). Pub. L. 109–163, §545(c), amended par. (2) generally. Prior t
 
 "(B) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, prescribe regulations for purposes of subparagraph (A). Such regulations shall, to the maximum extent practicable, take into account the administrative provisions of chapters 30 and 36 of title 38 that are specified in section 16136 of this title."
 
-Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related topro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
+Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
 
 <b>2003</b>—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned."
 

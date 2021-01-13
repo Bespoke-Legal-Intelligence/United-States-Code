@@ -390,7 +390,7 @@ In general.—In carrying out this paragraph, the lead agency shall reduce dupli
 
 Consideration of alternatives.—The lead agency may eliminate from detailed consideration an alternative proposed in an environmental impact statement regarding a project if, as determined by the lead agency—
 
-&emsp;&emsp;&emsp;&emsp;(I) the alternative was considered in a metropolitan planning process or a State environmental review process by a metropolitan planning organization or a State or local transportation agency, as applicable;
+&emsp;&emsp;&emsp;&emsp;(I) the alternative was considered in a metropolitan planning process or a State environmental review process by a metropolitan planning organization or aState or local transportation agency, as applicable;
 
 &emsp;&emsp;&emsp;&emsp;(II) the lead agency provided guidance to the metropolitan planning organization or State or local transportation agency, as applicable, regarding analysis of alternatives in the metropolitan planning process or State environmental review process, including guidance on the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other Federal law necessary for approval of the project;
 
@@ -478,7 +478,7 @@ Comment deadlines.—The lead agency shall establish the following deadlines for
 
 &emsp;(3)
 
-Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later ofthe date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
+Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
 
 &emsp;&emsp;(A) as soon as practicable after the 180-day period, an initial notice of the failure of the Federal agency to make the decision; and
 
@@ -666,7 +666,7 @@ Effect of paragraph.—Nothing in this paragraph affects or limits the applicati
 
 Expedient decisions and reviews.—To ensure that Federal environmental decisions and reviews are expeditiously made—
 
-&emsp;&emsp;(A) adequate resources made available under this title shall be devoted to ensuring that applicable environmental reviews under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) are completed on an expeditious basis and that the shortest existing applicable process under that Act is implemented; and
+&emsp;&emsp;(A) adequate resources made available under this title shall be devoted to ensuring that applicable environmental reviews underthe National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) are completed on an expeditious basis and that the shortest existing applicable process under that Act is implemented; and
 
 &emsp;&emsp;(B) the President shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate, not less frequently than once every 120 days after the date of enactment of the MAP–21, a report on the status and progress of the following projects and activities funded under this title with respect to compliance with applicable requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.):
 
@@ -866,6 +866,8 @@ States with delegated authority.—A State with delegated authority for responsi
 
 (Added Pub. L. 109–59, title VI, §6002(a), Aug. 10, 2005, 119 Stat. 1857; amended Pub. L. 112–141, div. A, title I, §§1305–1309, July 6, 2012, 126 Stat. 533–539; Pub. L. 114–94, div. A, title I, §1304(a)–(j)(1), Dec. 4, 2015, 129 Stat. 1378–1385.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2), (3), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -918,7 +920,7 @@ Subsec. (f)(4)(E). Pub. L. 114–94, §1304(f)(2)(C), added subpar. (E).
 
 Subsec. (g)(1)(A). Pub. L. 114–94, §1304(g)(1)(A), substituted "Not later than 90 days after the date of publication of a notice of intent to prepare an environmental impact statement or the initiation of an environmental assessment, the lead agency" for "The lead agency".
 
-Subsec. (g)(1)(B)(i). Pub. L. 114–94, §1304(g)(1)(B), substituted "shall establish as part of such coordinationplan" for "may establish as part of the coordination plan".
+Subsec. (g)(1)(B)(i). Pub. L. 114–94, §1304(g)(1)(B), substituted "shall establish as part of such coordination plan" for "may establish as part of the coordination plan".
 
 Subsec. (g)(3). Pub. L. 114–94, §1304(g)(2), inserted "and publish on the Internet" after "House of Representatives" in introductory provisions.
 
@@ -978,6 +980,8 @@ Subsec. (l). Pub. L. 112–141, §1308, substituted "150 days" for "180 days" in
 
 Subsec. (m). Pub. L. 112–141, §1309, added subsec. (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -1010,6 +1014,12 @@ Comment period.—The Secretary shall—
 
 &emsp;"(B) address any comments received under this subsection."
 
+#### Existing Environmental Review Process
+
+Pub. L. 109–59, title VI, §6002(b), Aug. 10, 2005, 119 Stat. 1865, provided that: "Nothing in this section \[enacting this section and repealing provisions set out as a note under section 109 of this title\] affects any existing State environmental review process, program, agreement, or funding arrangement approved by the Secretary \[of Transportation\] under section 1309 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (112 Stat. 232; 23 U.S.C. 109 note) as such section was in effect on the day preceding the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\]."
+
+#### <b>Executive Documents</b>
+
 #### Memoranda of Agency Agreements for Early Coordination
 
 Pub. L. 112–141, div. A, title I, §1320, July 6, 2012, 126 Stat. 551, provided that:
@@ -1020,7 +1030,7 @@ In General.—It is the sense of Congress that—
 
 &emsp;"(1) the Secretary \[of Transportation\] and other Federal agencies with relevant jurisdiction in the environmental review process should cooperate with each other and other agencies on environmental review and project delivery activities at the earliest practicable time to avoid delays and duplication of effort later in the process, head off potential conflicts, and ensure that planning and project development decisions reflect environmental values; and
 
-&emsp;"(2) such cooperation should include the development of policies and the designation of staff that advise planning agencies or project sponsors of studiesor other information foreseeably required for later Federal action and early consultation with appropriate State and local agencies and Indian tribes.
+&emsp;"(2) such cooperation should include the development of policies and the designation of staff that advise planning agencies or project sponsors of studies or other information foreseeably required for later Federal action and early consultation with appropriate State and local agencies and Indian tribes.
 
 "(b)
 
@@ -1049,10 +1059,6 @@ Early Coordination Activities.—Early coordination activities shall include, to
 &emsp;"(7) Timelines for the completion of agency actions during the planning and environmental review processes.
 
 &emsp;"(8) Other appropriate factors."
-
-#### Existing Environmental Review Process
-
-Pub. L. 109–59, title VI, §6002(b), Aug. 10, 2005, 119 Stat. 1865, provided that: "Nothing in this section \[enacting this section and repealing provisions set out as a note under section 109 of this title\] affects any existing State environmental review process, program, agreement, or funding arrangement approved by the Secretary \[of Transportation\] under section 1309 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (112 Stat. 232; 23 U.S.C. 109 note) as such section was in effect on the day preceding the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\]."
 
 #### Delegation of a Reporting Authority
 

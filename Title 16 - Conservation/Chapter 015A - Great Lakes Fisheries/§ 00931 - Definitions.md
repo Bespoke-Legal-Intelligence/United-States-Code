@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 (d) "Great Lakes State" means any of the following States: Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, or Wisconsin;
 
-(e) "Great Lakes" means any of the following bodies of water: Lake Ontario (including the Saint Lawrence River from Lake Ontario to the forty-fifth parallel of latitude), Lake Erie, Lake Huron (including Lake Saint Clair), Lake Michigan, or Lake Superior.
+(e) "Great Lakes" means any of the following bodies of water: Lake Ontario (including the Saint Lawrence River from Lake Ontario to theforty-fifth parallel of latitude), Lake Erie, Lake Huron (including Lake Saint Clair), Lake Michigan, or Lake Superior.
 
 (June 4, 1956, ch. 358, §2, 70 Stat. 242.)
 

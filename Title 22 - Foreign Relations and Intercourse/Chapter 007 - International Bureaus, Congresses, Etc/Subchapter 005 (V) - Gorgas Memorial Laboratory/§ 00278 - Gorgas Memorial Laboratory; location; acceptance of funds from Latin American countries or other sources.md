@@ -4,6 +4,8 @@ There is hereby authorized to be permanently appropriated for each year, out of 
 
 (May 7, 1928, ch. 505, §1, 45 Stat. 491; July 1, 1948, ch. 787, 62 Stat. 1213; Apr. 19, 1954, ch. 160, 68 Stat. 57; Pub. L. 86–296, §1, Sept. 21, 1959, 73 Stat. 572; Pub. L. 89–181, Sept. 11, 1965, 79 Stat. 679; Pub. L. 93–559, §47, Dec. 30, 1974, 88 Stat. 1816.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of this title.
@@ -19,6 +21,8 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of this t
 <b>1954</b>—Act Apr. 19, 1954, provided that donations for maintenance of the Laboratory may be accepted from Latin American countries and from other sources, in lieu of provisions which required that such countries be invited to contribute, and struck out provisions that such countries be represented on the board or council directing the administration of such Laboratory in proportion to the amount of their contributions.
 
 <b>1948</b>—Act July 1, 1948, substituted "$150,000" for "$50,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1965 Amendment
 

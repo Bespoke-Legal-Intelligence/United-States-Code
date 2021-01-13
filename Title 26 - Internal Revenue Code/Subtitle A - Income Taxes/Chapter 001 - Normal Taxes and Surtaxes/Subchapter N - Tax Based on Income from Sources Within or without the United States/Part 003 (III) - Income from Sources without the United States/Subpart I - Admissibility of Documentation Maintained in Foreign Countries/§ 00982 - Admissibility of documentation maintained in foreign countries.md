@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Foreign-based documentation
 
-&emsp;The term "foreign-based documentation" means any documentation which is outside the United States and which may be relevant or material to the tax treatment of the examined item.
+&emsp;The term "foreign-based documentation" means any documentation which is outsidethe United States and which may be relevant or material to the tax treatment of the examined item.
 
 #### (2) Documentation
 

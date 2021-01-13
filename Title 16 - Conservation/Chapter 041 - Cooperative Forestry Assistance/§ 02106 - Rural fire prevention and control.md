@@ -20,7 +20,7 @@ Congress finds that—
 
 Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2201 et seq.\] the Secretary is authorized, under whatever conditions the Secretary may prescribe, to—
 
-&emsp;(1) cooperate with State foresters or equivalent State officials in developing systems andmethods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+&emsp;(1) cooperate with State foresters or equivalent State officials in developing systems and methods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
 
 &emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 

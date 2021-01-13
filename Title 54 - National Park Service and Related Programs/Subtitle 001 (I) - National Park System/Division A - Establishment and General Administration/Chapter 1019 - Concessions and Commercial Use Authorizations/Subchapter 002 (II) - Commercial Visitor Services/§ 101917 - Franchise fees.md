@@ -18,7 +18,7 @@ Deposit and availability.—All franchise fees (and other monetary consideration
 
 &emsp;(2)
 
-Subaccount for each system unit.—There shall be established within the special account a subaccount for each System unit. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single System unit under concession contracts. The funds credited to the subaccount for a System unit shall be available for expenditure by the Secretary, without further appropriation, for use at the System unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
+Subaccount for each system unit.—There shall be established within the special account a subaccount for each System unit. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single Systemunit under concession contracts. The funds credited to the subaccount for a System unit shall be available for expenditure by the Secretary, without further appropriation, for use at the System unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3146.)
 

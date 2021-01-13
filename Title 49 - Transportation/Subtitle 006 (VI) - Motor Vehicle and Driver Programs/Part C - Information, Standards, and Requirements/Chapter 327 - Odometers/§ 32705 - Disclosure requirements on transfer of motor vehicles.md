@@ -88,7 +88,7 @@ Auction Sales.—If a motor vehicle is sold at an auction, the auction company c
 
 Application and Revision of State Law.—(1) Except as provided in paragraph (2) of this subsection, subsections (b)–(e) of this section apply to the transfer of a motor vehicle after April 28, 1989.
 
-(2) If a State requests, the Secretary shall assist the State in revising its laws to comply with subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
+(2) If a State requests, the Secretary shall assist the State in revising its laws to complywith subsection (b) of this section. If a State requires time beyond April 28, 1989, to revise its laws to achieve compliance, the Secretary, on request of the State, may grant additional time that the Secretary considers reasonable by publishing a notice in the Federal Register. The notice shall include the reasons for granting the additional time. In granting additional time, the Secretary shall ensure that the State is making reasonable efforts to achieve compliance.
 
 (g)
 
@@ -180,7 +180,7 @@ Nov. 28, 1990, Pub. L. 101–641, §7(b) (last sentence), 104 Stat. 4657.
 
 Oct. 28, 1986, Pub. L. 99–579, §2(c), 100 Stat. 3310.
 
-In subsection (a)(1), before clause (A), the words "Not later than 90 days after October 20, 1972" are omitted as executed. In clause (B), the words "if the transferor knows that the mileage registered by the odometer is incorrect" are substituted for "if the odometer reading is known to the transferor to be different from thenumber of miles the vehicle has actually traveled" to eliminate unnecessary words.
+In subsection (a)(1), before clause (A), the words "Not later than 90 days after October 20, 1972" are omitted as executed. In clause (B), the words "if the transferor knows that the mileage registered by the odometer is incorrect" are substituted for "if the odometer reading is known to the transferor to be different from the number of miles the vehicle has actually traveled" to eliminate unnecessary words.
 
 In subsection (b)(2)(A), before clause (i), the words "Under regulations prescribed by the Secretary" are substituted for "prescribed by rule by the Secretary" for consistency in the revised title and because "rule" is synonymous with "regulation". The words "to a transferor" are added for clarity. The words "before February 1, 1989" are omitted as expired. The words "in the possession of" are substituted for "physically held by", and the words "when the transferor transfers ownership of the vehicle" are substituted for "at the time of a transfer of such motor vehicle", for clarity and consistency. The words "the transferor may" are substituted for "nothing in this subsection shall be construed to prohibit" for clarity and to eliminate unnecessary words. Clause (i) is substituted for "in a form" and clause (ii) is substituted for "in accordance with paragraph (2)(A)(i)" for clarity and consistency. In clause (iii), the words "consistent with the purposes of this Act and the need to facilitate enforcement thereof" are omitted as surplus. In clauses (iv), (v), (viii), and (ix), the amendment made by section 7(a) of the Independent Safety Board Act Amendments of 1990 (Public Law 101–641, 104 Stat. 4657) is restated as amending section 408(d)(1)(C) of the Motor Vehicle and Cost Savings Act (15 U.S.C. 1988(d)(1)(C)) instead of section 408(d)(2)(C) of that Act to reflect the probable intent of Congress. There is no section 408(d)(2)(C) in that Act. Clause (vii) is substituted for "and under reasonable conditions" for clarity and consistency.
 
@@ -204,7 +204,7 @@ This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1
 
 The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012, referred to in subsec. (g)(1), is the date of enactment of title I of div. C of Pub. L. 112–141, which was approved July 6, 2012.
 
-Subchapter 1 of chapter 96 of title 15 and section 7002(a) of title 15, referred to in subsec. (g)(2)(A), probably should be references to title I and section 102(a), respectively, of the Electronic Signatures in Global and National Commerce Act, Pub. L. 106–229, which are classified, respectively, to subchapter I (§7001 et seq.) of chapter 96 and section 7002(a) of Title 15, Commerce and Trade.
+Subchapter 1 of chapter 96 of title 15 and section 7002(a) of title 15, referred to in subsec. (g)(2)(A), probably should be references to title I and section 102(a),respectively, of the Electronic Signatures in Global and National Commerce Act, Pub. L. 106–229, which are classified, respectively, to subchapter I (§7001 et seq.) of chapter 96 and section 7002(a) of Title 15, Commerce and Trade.
 
 #### Amendments
 

@@ -18,11 +18,9 @@
 
 &emsp;(7) If applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.
 
-(Added Pub. L. 101–237, title I, §115(a)(1), Dec. 18, 1989, 103 Stat. 2065, §3004; renumbered §5104, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, §1201(d)(15), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 115–55, §2(e), Aug. 23, 2017, 131 Stat. 1106.)
+(Added Pub. L. 101–237, title I, §115(a)(1), Dec. 18, 1989, 103 Stat. 2065, §3004; renumbered §5104, Pub.L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, §1201(d)(15), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 115–55, §2(e), Aug. 23, 2017, 131 Stat. 1106.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(e) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under this section on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -38,9 +36,11 @@ Prior section 5104 was renumbered section 8304 of this title.
 
 Pub. L. 102–54 amended section as in effect immediately before enactment of Pub. L. 102–40 by striking out "(1)" after "(a)" and substituting "(b)" for "(2)", "subsection (a)" for "paragraph (1) of this subsection", "(1)" for "(A)", and "(2)" for "(B)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under this section on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under this section on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date
 

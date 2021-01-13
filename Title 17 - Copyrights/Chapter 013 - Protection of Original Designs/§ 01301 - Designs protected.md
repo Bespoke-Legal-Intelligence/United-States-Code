@@ -6,7 +6,7 @@ Designs Protected.—
 
 &emsp;(1)
 
-In general.—The designer or other owner of an original design of a useful article which makes the article attractive or distinctive inappearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter.
+In general.—The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter.
 
 &emsp;(2)
 
@@ -40,6 +40,8 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, §1(b)–(d), Oct. 16, 2008, 122 Stat. 4972.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–434, §1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4)."
@@ -53,6 +55,8 @@ Subsec. (b)(4). Pub. L. 110–434, §1(d)(2), added par. (4) and struck out form
 Subsec. (b)(7). Pub. L. 110–434, §1(d)(3), added par. (7).
 
 <b>1999</b>—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "A 'vessel' is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

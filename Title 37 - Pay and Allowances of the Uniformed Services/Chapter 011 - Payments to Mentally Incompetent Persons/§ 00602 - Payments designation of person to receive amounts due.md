@@ -6,7 +6,7 @@
 
 &emsp;(2) an individual to whom the member has granted authority to manage such funds pursuant to a valid and legally executed durable power of attorney; or
 
-&emsp;(3) any person designated by the Secretary concerned, or by any officer to whom he delegates his authority under this section, without the appointment in judicial proceedings of a committee, guardian, or other legal representative.
+&emsp;(3) any person designated by the Secretary concerned, or by any officer to whom he delegates his authority under this section, withoutthe appointment in judicial proceedings of a committee, guardian, or other legal representative.
 
 (b) An individual may not be designated under subsection (a)(3) to receive payments unless a board consisting of at least three qualified medical officers or physicians, one of whom is specially qualified in the treatment of mental disorders, determines that the member is mentally incapable of managing the member's affairs. Any such board shall be appointed from available medical officers or physicians under his jurisdiction by the head of whichever of the following is providing medical treatment for the member, or by a person designated by that head—
 
@@ -76,6 +76,8 @@ In subsection (d), the words "under the authority of" are omitted as surplusage.
 
 In subsection (e), the words "have been" and "including a requirement" are omitted as surplusage. The words "or persons" are omitted for the reason stated in the explanation under subsection (a), above.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §645(1), struck out ", in the opinion of a board of medical officers or physicians," after "and who" and substituted "use or benefit to—
@@ -99,6 +101,8 @@ Subsecs. (e), (f). Pub. L. 114–328, §645(5)–(7), redesignated subsec. (f) a
 <b>1989</b>—Subsec. (b)(5). Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>1980</b>—Subsec. (b)(4). Pub. L. 96–513 substituted "Department of Health and Human Services" for "Department of Health, Education, and Welfare".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

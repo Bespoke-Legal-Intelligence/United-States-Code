@@ -6,7 +6,7 @@ Notwithstanding the provisions of title III of the Agricultural Adjustment Act o
 
 #### References in Text
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Title III of the Act is classified generally to subchapter II (§1301 et seq.) of this chapter. For complete classification ofthis Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Title III of the Act is classified generally to subchapter II (§1301 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 #### Codification
 

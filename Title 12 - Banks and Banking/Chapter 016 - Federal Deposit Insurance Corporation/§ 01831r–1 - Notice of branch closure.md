@@ -74,7 +74,7 @@ Each insured depository institution shall adopt policies for closings of branche
 
 &emsp;&emsp;The term "low- or moderate-income area" means a census tract for which the median family income is—
 
-&emsp;&emsp;&emsp;(i) less than 80 percent of the median family income for the metropolitan statistical area (as designated by the Director of the Office of Management and Budget) in which the census tract is located; or
+&emsp;&emsp;&emsp;(i) less than 80 percent of the median family income for the metropolitan statistical area (as designated by the Director ofthe Office of Management and Budget) in which the census tract is located; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a census tract which is not located in a metropolitan statistical area, less than 80 percent of the median family income for the State in which the census tract is located, as determined without taking into account family income in metropolitan statistical areas in such State.
 
@@ -101,6 +101,8 @@ This section shall not apply with respect to—
 &emsp;&emsp;(B) any assistance provided by the Corporation under section 1823(c) of this title.
 
 (Sept. 21, 1950, ch. 967, §2\[42\], formerly §2\[39\], as added Pub. L. 102–242, title II, §228, Dec. 19, 1991, 105 Stat. 2308; renumbered §2\[42\], Pub. L. 102–550, title XVI, §1602(a), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–328, title I, §106, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §2213, Sept. 30, 1996, 110 Stat. 3009–411.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

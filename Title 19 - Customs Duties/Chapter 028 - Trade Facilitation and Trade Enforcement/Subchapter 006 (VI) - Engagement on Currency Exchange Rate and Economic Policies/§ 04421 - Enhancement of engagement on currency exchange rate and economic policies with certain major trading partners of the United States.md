@@ -54,7 +54,7 @@
 
 &emsp;The President, through the Secretary, shall commence enhanced bilateral engagement with each country for which an enhanced analysis of macroeconomic and currency exchange rate policies is included in the report submitted under subsection (a), in order to, as appropriate—
 
-&emsp;&emsp;(A) urge implementation of policies to address the causes of the undervaluation of itscurrency, its significant bilateral trade surplus with the United States, and its material current account surplus, including undervaluation and surpluses relating to exchange rate management;
+&emsp;&emsp;(A) urge implementation of policies to address the causes of the undervaluation of its currency, its significant bilateral trade surplus with the United States, and its material current account surplus, including undervaluation and surpluses relating to exchange rate management;
 
 &emsp;&emsp;(B) express the concern of the United States with respect to the adverse trade and economic effects of that undervaluation and those surpluses;
 

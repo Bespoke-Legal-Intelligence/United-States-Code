@@ -68,9 +68,11 @@ Nothing in this section shall be construed—
 
 (Pub. L. 115–141, div. P, title VI, §603, Mar. 23, 2018, 132 Stat. 1098.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Bipartisan Budget Act of 2015, referred to in subsec. (a)(4), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. Title X of the Act, known as the Spectrum Pipeline Act of 2015, is title X of Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 621. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 901 of this title and Tables.
+The Bipartisan Budget Act of 2015, referred to in subsec. (a)(4), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584.Title X of the Act, known as the Spectrum Pipeline Act of 2015, is title X of Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 621. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 901 of this title and Tables.
 
 Section 156 of the National Telecommunications and Information Administration Organization Act, as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(3), is section 156 of title I of Pub. L. 102–538, as added by Pub. L. 106–65, div. A, title X, §1062(a), Oct. 5, 1999, 113 Stat. 767, formerly set out as a note under section 921 of this title.
 

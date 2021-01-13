@@ -22,7 +22,7 @@ The administering authority shall provide information to the public upon request
 
 #### (1) In general
 
-&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy described in Article 6.1 of the Subsidies Agreement, the administering authority shall notify the Trade Representative, and shall provide the Trade Representative with the information upon which the administering authority based its determination.
+&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930\[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy described in Article 6.1 of the Subsidies Agreement, the administering authority shall notify the Trade Representative, and shall provide the Trade Representative with the information upon which the administering authority based its determination.
 
 #### (2) Request by interested party regarding adverse effects
 
@@ -62,7 +62,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (B) Action by administering authority
 
-&emsp;&emsp;Within 90 days after receipt of the request described in subparagraph (A), the administering authority, after analyzing the request and other information reasonably available to the administering authority, shall determine if there is reason to believe that serious adverse effects resulting from a program referred to in Article 8.2 of the Subsidies Agreement exist. If the determination of the administering authority is affirmative, it shall so notify the Trade Representative and shall include supporting information with the notification. The Commission shall assist the administering authority in analyzing the information pertaining to the existence of such serious adverse effects if the administering authority requests the Commission's assistance. If the subsidy program that is alleged to result in serious adverse effects has been the subject of a countervailing duty investigation or review under subtitle A or C of title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq., 1675 et seq.\], the administering authority shall take into account the determinations made by the administering authority and the Commission in such investigation or review andthe administering authority shall complete its analysis as expeditiously as possible.
+&emsp;&emsp;Within 90 days after receipt of the request described in subparagraph (A), the administering authority, after analyzing the request and other information reasonably available to the administering authority, shall determine if there is reason to believe that serious adverse effects resulting from a program referred to in Article 8.2 of the Subsidies Agreement exist. If the determination of the administering authority is affirmative, it shall so notify the Trade Representative and shall include supporting information with the notification. The Commission shall assist the administering authority in analyzing the information pertaining to the existence of such serious adverse effects if the administering authority requests the Commission's assistance. If the subsidy program that is alleged to result in serious adverse effects has been the subject of a countervailing duty investigation or review under subtitle A or C of title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq., 1675 et seq.\], the administering authority shall take into account the determinations made by the administering authority and the Commission in such investigation or review and the administering authority shall complete its analysis as expeditiously as possible.
 
 #### (C) Action by Trade Representative
 
@@ -98,7 +98,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (2) Publication in the Federal Register
 
-&emsp;The administering authority shall publish regularly in the Federal Register a summary notice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
+&emsp;The administering authority shall publish regularly in the Federal Register a summarynotice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
 
 #### (3) Consultations with Congress and private sector
 

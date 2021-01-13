@@ -126,7 +126,7 @@ Inclusions.—Data collected under this paragraph includes—
 
 &emsp;&emsp;(B)
 
-Standards.—The Secretary, in coordination with the Secretaries of the appropriate Federal land management agencies,shall define the collection and reporting data standards.
+Standards.—The Secretary, in coordination with the Secretaries of the appropriate Federal land management agencies, shall define the collection and reporting data standards.
 
 &emsp;&emsp;(C)
 
@@ -190,6 +190,8 @@ Credit.—The funds described in paragraph (1) shall be credited back to the loa
 
 (Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473; amended Pub. L. 114–94, div. A, title I, §§1117(a), 1120, Dec. 4, 2015, 129 Stat. 1356, 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
@@ -207,6 +209,8 @@ A prior section 201, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 97�
 Subsec. (c)(6)(C). Pub. L. 114–94, §1117(a), added subpar. (C).
 
 Subsec. (c)(7), (8). Pub. L. 114–94, §1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

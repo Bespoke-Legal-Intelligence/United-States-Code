@@ -32,7 +32,7 @@ Pub. L. 111–344, §1(a), Dec. 29, 2010, 124 Stat. 3611, provided that: "This A
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1800, Feb. 17, 2009, 123 Stat. 367, provided that: "This subtitle \[subtitle I (§§1800–1899L) of title I of div. B of Pub. L. 111–5, enacting part 4 (§2371 et seq.) of subchapter II of this chapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, section 1581 of Title 28, Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the 'Trade and Globalization Adjustment Assistance Act of 2009'."
+Pub. L. 111–5, div. B, title I, §1800, Feb. 17, 2009, 123 Stat. 367, provided that: "This subtitle \[subtitle I\(§§1800–1899L) of title I of div. B of Pub. L. 111–5, enacting part 4 (§2371 et seq.) of subchapter II of this chapter and sections 2295a, 2322, 2323, 2344, 2345, 2356, and 2397a of this title, amending sections 2271 to 2275, 2291 to 2295, 2296 to 2298, 2311, 2315 to 2321, 2341, 2343, 2348 to 2352, 2354, 2355, 2393, 2395, 2401 to 2401b, and 2401e to 2401g of this title, sections 35, 4980B, 7527, and 9801 of Title 26, Internal Revenue Code, section 1581 of Title 28, Judiciary and Judicial Procedure, sections 1162, 1181, 2918, and 2919 of Title 29, Labor, and sections 300bb–2 and 300gg of Title 42, The Public Health and Welfare, repealing former sections 2344 to 2347 of this title, enacting provisions set out as notes preceding section 2271 and under sections 2271, 2295a, 2296, 2323, 2344, 2371, and 2393 of this title and sections 1, 35, 4980B, 7527, and 9801 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the 'Trade and Globalization Adjustment Assistance Act of 2009'."
 
 #### Short Title of 2002 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 104–188, title I, §1951, Aug. 20, 1996, 110 Stat. 1917, provided that
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–182, title V, §501, Dec. 8, 1993, 107 Stat. 2149, provided that: "This subtitle \[subtitle A (§§501–507) of title V of Pub. L. 103–282, enacting sections 2322 and 2331 of this title, amending sections 2271 to 2273, 2275, 2317, and 2395 of this title, sections 3304 and 3306 of Title 26, Internal Revenue Code, and section 503 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 2331 of this title and section 3306 of Title 26, and amending provisions set out as a note preceding section 2271 of this title\] may be cited as the 'NAFTA Worker Security Act'."
+Pub. L. 103–182, title V, §501, Dec. 8, 1993, 107 Stat. 2149, which provided that subtitle A of title V of Pub. L. 103–282 could be cited as the "NAFTA Worker Security Act", was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Short Title of 1990 Amendment
 
@@ -52,7 +52,7 @@ Pub. L. 101–382, §1(a), Aug. 20, 1990, 104 Stat. 629, provided that: "This Ac
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: "This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set outas notes under sections 2253 and 2703 of this title\] may be cited as the 'Steel Trade Liberalization Program Implementation Act'."
+Pub. L. 101–221, §1, Dec. 12, 1989, 103 Stat. 1886, provided that: "This Act \[amending section 4611 of Title 26, Internal Revenue Code, enacting provisions set out as notes under sections 2253 and 2703 of this title and section 4611 of Title 26, and amending provisions set out as notes under sections 2253 and 2703 of this title\] may be cited as the 'Steel Trade Liberalization Program Implementation Act'."
 
 #### Short Title of 1986 Amendment
 

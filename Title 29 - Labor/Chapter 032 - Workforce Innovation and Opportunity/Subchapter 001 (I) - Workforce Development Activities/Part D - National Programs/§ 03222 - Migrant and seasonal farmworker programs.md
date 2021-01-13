@@ -40,7 +40,7 @@ To be eligible to receive a grant or enter into a contract under this section, a
 
 Funds made available under this section and section 3162(a)(1) of this title shall be used to carry out workforce investment activities (including youth workforce investment activities) and provide related assistance for eligible migrant and seasonal farmworkers, which may include—
 
-&emsp;(1) outreach, employment, training, educational assistance, literacy assistance,English language and literacy instruction, pesticide and worker safety training, housing (including permanent housing), supportive services, and school dropout prevention and recovery activities;
+&emsp;(1) outreach, employment, training, educational assistance, literacy assistance, English language and literacy instruction, pesticide and worker safety training, housing (including permanent housing), supportive services, and school dropout prevention and recovery activities;
 
 &emsp;(2) followup services for those individuals placed in employment;
 
@@ -95,6 +95,8 @@ In this section:
 &emsp;&emsp;(B) a dependent of the person described in subparagraph (A).
 
 (Pub. L. 113–128, title I, §167, July 22, 2014, 128 Stat. 1564.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

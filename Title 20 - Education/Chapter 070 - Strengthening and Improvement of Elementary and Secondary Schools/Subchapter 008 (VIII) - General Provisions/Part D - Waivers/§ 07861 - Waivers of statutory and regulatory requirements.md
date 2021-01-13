@@ -56,7 +56,7 @@
 
 #### (A) State educational agencies
 
-&emsp;&emsp;In the case of a waiver request submitted by a State educational agency acting on itsown behalf, or on behalf of local educational agencies in the State under subsection (a)(2), the State educational agency shall—
+&emsp;&emsp;In the case of a waiver request submitted by a State educational agency acting on its own behalf, or on behalf of local educational agencies in the State under subsection (a)(2), the State educational agency shall—
 
 &emsp;&emsp;&emsp;(i) provide the public and any interested local educational agency in the State with notice and a reasonable opportunity to comment and provide input on the request, to the extent that the request impacts the local educational agency;
 
@@ -218,7 +218,7 @@ Subsec. (b)(1)(B) to (E). Pub. L. 114–95, §8013(2)(A)(iii), added subpars. (B
 
 Subsec. (b)(1)(F). Pub. L. 114–95, §8013(2)(A)(ii), (iv), redesignated subpar. (E) as (F) and inserted "and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement and school performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title" after "waivers are requested".
 
-Subsec. (b)(2)(B)(i)(II). Pub. L. 114–95, §8013(2)(B), substituted "(on behalf of those agencies or on behalf of, and based on the requests of, local educational agenciesin the State)" for "(on behalf of, and based on the requests of, local educational agencies)".
+Subsec. (b)(2)(B)(i)(II). Pub. L. 114–95, §8013(2)(B), substituted "(on behalf of those agencies or on behalf of, and based on the requests of, local educational agencies in the State)" for "(on behalf of, and based on the requests of, local educational agencies)".
 
 Subsec. (b)(3)(A). Pub. L. 114–95, §8013(2)(C)(i), inserted "or on behalf of local educational agencies in the State under subsection (a)(2)," after "acting on its own behalf," in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) to (iii) which read as follows:
 
@@ -261,4 +261,142 @@ Subsec. (f). Pub. L. 114–95, §8013(6), substituted "if, after notice and an o
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
+#### National Emergency Educational Waivers
+
+Pub. L. 116–136, div. A, title III, §3511, Mar. 27, 2020, 134 Stat. 400, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, the Secretary may, upon the request of a State educational agency or Indian tribe, waive any statutory or regulatory provision described under paragraphs (1) and (2) of subsection (b), and upon the request of a local educational agency, waive any statutory or regulatory provision described under paragraph (2) of subsection (b), if the Secretary determines that such a waiver is necessary and appropriate due to the emergency involving Federal primary responsibility determined to exist by the President under the \[sic\] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19).
+
+"(b)
+
+Applicable Provisions of Law.—
+
+&emsp;"(1)
+
+Streamlined waivers.—The Secretary shall create an expedited application process to request a waiver and the Secretary may waive any statutory or regulatory requirements for a State educational agency (related to assessments, accountability, and reporting requirements related to assessments and accountability), if the Secretary determines that such a waiver is necessary and appropriate as described in subsection (a), under the following provisions of law:
+
+&emsp;&emsp;"(A) The following provisions under section 1111 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311):
+
+&emsp;&emsp;&emsp;"(i) Paragraphs (2) and (3) of subsection (b).
+
+&emsp;&emsp;&emsp;"(ii) Subsection (c)(4).
+
+&emsp;&emsp;&emsp;"(iii) Subparagraphs (C) and (D) of subsection (d)(2).
+
+&emsp;&emsp;&emsp;"(iv) The following provisions under subsection (h) of such section 1111:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Clauses (i), (ii), (iii)(I), (iv), (v), (vi), (vii), and (xi) of paragraph (1)(C).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Paragraph (2)(C) with respect to the waived requirements under subclause (I).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) Clauses (i) and (ii) of paragraph (2)(C).
+
+&emsp;&emsp;"(B) Section 421(b) of the General Education Provisions Act (20 U.S.C. 1225(b)).
+
+&emsp;"(2)
+
+State and locally-requested waivers.—For a State educational agency, local educational agency, or Indian tribe that receives funds under a program authorized under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) that requests a waiver under subsection (c), the Secretary may waive statutory and regulatory requirements under any of the following provisions of such Act:
+
+&emsp;&emsp;"(A) Section 1114(a)(1) \[20 U.S.C. 6314(a)(1)\].
+
+&emsp;&emsp;"(B) Section 1118(a) \[20 U.S.C. 6321(a)\] and section 8521 \[20 U.S.C. 7901\].
+
+&emsp;&emsp;"(C) Section 1127 \[20 U.S.C. 6339\].
+
+&emsp;&emsp;"(D) Section 4106(d) \[20 U.S.C. 7116(d)\].
+
+&emsp;&emsp;"(E) Subparagraphs (C), (D), and (E) of section 4106(e)(2) \[20 U.S.C. 7116(e)(2)\].
+
+&emsp;&emsp;"(F) Section 4109(b) \[20 U.S.C. 7119(b)\].
+
+&emsp;&emsp;"(G) The definition under section 8101(42) \[20 U.S.C. 7801(42)\] for purposes of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
+
+&emsp;"(3)
+
+Applicability to charter schools.—Any waivers issued by the Secretary under this section shall be implemented, as applicable—
+
+&emsp;&emsp;"(A) for all public schools, including public charter schools within the boundaries of the recipient of the waiver;
+
+&emsp;&emsp;"(B) in accordance with State charter school law; and
+
+&emsp;&emsp;"(C) pursuant to section 1111(c)(5) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(c)(5)).
+
+&emsp;"(4)
+
+Limitation.—Nothing in this section shall be construed to allow the Secretary to waive any statutory or regulatory requirements under applicable civil rights laws.
+
+&emsp;"(5)
+
+Accountability and improvement.—Any school located in a State that receives a waiver under paragraph (1) and that is identified for comprehensive support and improvement, targeted support and improvement, or additional targeted support in the 2019–2020 school year under section 1111(c)(4)(D) or section 1111(d)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(c)(4)(D) or (d)(2)) shall maintain that identification status in the 2020–2021 school year and continue to receive supports and interventions consistent with the school's support and improvement plan in the 2020–2021 school year.
+
+"(c)
+
+State and Local Requests for Waivers.—
+
+&emsp;"(1)
+
+In general.—A State educational agency, local educational agency, or Indian tribe that desires a waiver from any statutory or regulatory provision described under subsection (b)(2), may submit a waiver request to the Secretary in accordance with this subsection.
+
+&emsp;"(2)
+
+Requests submitted.—A request for a waiver under this subsection shall—
+
+&emsp;&emsp;"(A) identify the Federal programs affected by the requested waiver;
+
+&emsp;&emsp;"(B) describe which Federal statutory or regulatory requirements are to be waived;
+
+&emsp;&emsp;"(C) describe how the emergency involving Federal primary responsibility determined to exist by the President under the \[sic\] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19) prevents or otherwise restricts the ability of the State, State educational agency, local educational agency, Indian tribe, or school to comply with such statutory or regulatory requirements; and
+
+&emsp;&emsp;"(D) provide an assurance that the State educational agency, local educational agency, or Indian tribe will work to mitigate any negative effects, if any, that may occur as a result of the requested waiver.
+
+&emsp;"(3)
+
+Secretary approval.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided under subparagraph (B), the Secretary shall approve or disapprove a waiver request submitted under paragraph (1) not more than 30 days after the date on which such request is submitted.
+
+&emsp;&emsp;"(B)
+
+Exceptions.—The Secretary may disapprove a waiver request submitted under paragraph (1), only if the Secretary determines that—
+
+&emsp;&emsp;&emsp;"(i) the waiver request does not meet the requirements of this section;
+
+&emsp;&emsp;&emsp;"(ii) the waiver is not permitted pursuant to subsection (b)(2); or
+
+&emsp;&emsp;&emsp;"(iii) the description required under paragraph (2)(C) provides insufficient information to demonstrate that the waiving of such requirements is necessary or appropriate consistent with subsection (a).
+
+&emsp;"(4)
+
+Duration.—A waiver approved by the Secretary under this section may be for a period not to exceed the 2019–2020 academic year, except to carry out full implementation of any maintenance of effort waivers granted during the 2019–2020 academic year.
+
+"(d)
+
+Reporting and Publication.—
+
+&emsp;"(1)
+
+Public notice.—A State educational agency, Indian Tribe, or local educational agency requesting a waiver under subsection (b)(2) shall provide the public and all local educational agencies in the State with notice of, and the opportunity to comment on, the request by posting information regarding the waiver request and the process for commenting on the State website.
+
+&emsp;"(2)
+
+Notifying congress.—Not later than 7 days after granting a waiver under this section, the Secretary shall notify the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Appropriations of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committee on Appropriations of the House of Representatives of such waiver.
+
+&emsp;"(3)
+
+Publication.—Not later than 30 days after granting a waiver under this section, the Secretary shall publish a notice of the Secretary's decision (including which waiver was granted and the reason for granting the waiver) in the Federal Register and on the website of the Department of Education.
+
+&emsp;"(4)
+
+Report.—Not later than 30 days after the date of enactment of this Act \[Mar. 27, 2020\], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Education and Labor and the Committee on Appropriations of the House of Representatives, with recommendations on any additional waivers under the Individuals with Disabilities Education Act (20 U.S.C. 1401 \[1400\] et seq.), the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.) the Secretary believes are necessary to be enacted into law to provide limited flexibility to States and local educational agencies to meet the needs of students during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to the Coronavirus Disease 2019 (COVID–19).
+
+"(e)
+
+Terms.—In this section, the term 'State educational agency' includes the Bureau of Indian Education, and the term 'local educational agency' includes Bureau of Indian Education funded schools operated pursuant to a grant under the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.), or a contract under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.)."
+
+\[For definitions of terms as used in section 3511 of Pub. L. 116–136, set out above, see section 3502 of Pub. L. 116–136, set out in a note under section 1001 of this title.\]
 

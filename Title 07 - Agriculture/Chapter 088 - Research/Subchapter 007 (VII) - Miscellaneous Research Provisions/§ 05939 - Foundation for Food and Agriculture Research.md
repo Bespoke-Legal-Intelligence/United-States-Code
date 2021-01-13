@@ -58,7 +58,7 @@ The purposes of the Foundation shall be—
 
 &emsp;The Foundation shall—
 
-&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofit organizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
+&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofitorganizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
 
 &emsp;&emsp;(B) in consultation with the Secretary—
 
@@ -358,7 +358,7 @@ The purposes of the Foundation shall be—
 
 #### (B) Financial conflicts of interest
 
-&emsp;&emsp;Any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
+&emsp;&emsp;Any individual who is an officer, employee, or member of the Board is prohibitedfrom any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
 
 &emsp;&emsp;&emsp;(i) the individual;
 

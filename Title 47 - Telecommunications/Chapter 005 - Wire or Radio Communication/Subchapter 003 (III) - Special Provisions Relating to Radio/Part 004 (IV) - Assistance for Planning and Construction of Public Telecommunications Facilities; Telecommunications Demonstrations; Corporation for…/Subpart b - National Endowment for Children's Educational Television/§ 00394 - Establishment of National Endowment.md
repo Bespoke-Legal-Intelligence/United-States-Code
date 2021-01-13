@@ -72,11 +72,13 @@ There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,
 
 For purposes of this section—
 
-&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience of children who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
+&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience ofchildren who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
 
 &emsp;(2) the term "person" means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 
 (June 19, 1934, ch. 652, title III, §394, as added Pub. L. 101–437, title II, §203(a)(3), Oct. 17, 1990, 104 Stat. 998; amended Pub. L. 102–538, title I, §152, formerly §132, Oct. 27, 1992, 106 Stat. 3540, renumbered §152, Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -87,6 +89,8 @@ Another prior section 394, act June 19, 1934, §394, was renumbered section 397 
 #### Amendments
 
 <b>1992</b>—Subsec. (h). Pub. L. 102–538 substituted "1991," for "1991 and" and inserted ", $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994" after "1992".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Councils
 
@@ -104,7 +108,7 @@ Pub. L. 101–437, title II, §202, Oct. 17, 1990, 104 Stat. 997, provided that:
 
 &emsp;"(4) television is watched by children about three hours each day on average and can be effective in teaching children;
 
-&emsp;"(5) educational television programming for children is aired too infrequently either because publicbroadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
+&emsp;"(5) educational television programming for children is aired too infrequently either because public broadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
 
 &emsp;"(6) the Federal Government can assist in the creation of children's educational television by establishing a National Endowment for Children's Educational Television to supplement the children's educational programming funded by other governmental entities."
 

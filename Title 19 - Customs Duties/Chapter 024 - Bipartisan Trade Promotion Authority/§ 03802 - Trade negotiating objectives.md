@@ -124,7 +124,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (8) Regulatory practices
 
-&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantageto their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
+&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices by foreign governments to provide a competitive advantage to their domestic producers, service providers, or investors and thereby reduce market access for United States goods, services, and investments are—
 
 &emsp;&emsp;(A) to achieve increased transparency and opportunity for the participation of affected parties in the development of regulations;
 
@@ -202,7 +202,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(xvi) striving to complete a general multilateral round in the World Trade Organization by January 1, 2005, and seeking the broadest market access possible in multilateral, regional, and bilateral negotiations, recognizing the effect that simultaneous sets of negotiations may have on United States import-sensitive commodities (including those subject to tariff-rate quotas).
 
-&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation with the Congress, shall seek to develop a position on the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
+&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation withthe Congress, shall seek to develop a position on the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
 
 &emsp;(ii) During any negotiations on agricultural subsidies, the United States Trade Representative shall seek to establish the common base year for calculating the Aggregated Measurement of Support (as defined in the Agreement on Agriculture) as the end of each country's Uruguay Round implementation period, as reported in each country's Uruguay Round market access schedule.
 
@@ -238,7 +238,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(D) to seek provisions encouraging the early identification and settlement of disputes through consultation;
 
-&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreementdoes not come into compliance with its obligations under the agreement;
+&emsp;&emsp;(E) to seek provisions to encourage the provision of trade-expanding compensation if a party to a dispute under the agreement does not come into compliance with its obligations under the agreement;
 
 &emsp;&emsp;(F) to seek provisions to impose a penalty upon a party to a dispute under the agreement that—
 
@@ -298,7 +298,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(7) direct the Secretary of Labor to consult with any country seeking a trade agreement with the United States concerning that country's labor laws and provide technical assistance to that country if needed;
 
-&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committeeon Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
+&emsp;(8) in connection with any trade negotiations entered into under this chapter, submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a meaningful labor rights report of the country, or countries, with respect to which the President is negotiating, on a time frame determined in accordance with section 3807(b)(2)(E) of this title;
 
 &emsp;(9) with respect to any trade agreement which the President seeks to implement under trade authorities procedures, submit to the Congress a report describing the extent to which the country or countries that are parties to the agreement have in effect laws governing exploitative child labor;
 
@@ -306,7 +306,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(11) report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, not later than 12 months after the imposition of a penalty or remedy by the United States permitted by a trade agreement to which this chapter applies, on the effectiveness of the penalty or remedy applied under United States law in enforcing United States rights under the trade agreement; and
 
-&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significant and unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
+&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significantand unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
 
 > The report under paragraph (11) shall address whether the penalty or remedy was effective in changing the behavior of the targeted party and whether the penalty or remedy had any adverse impact on parties or interests not party to the dispute.
 

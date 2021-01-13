@@ -56,9 +56,11 @@ Notwithstanding any other provision of this Act—
 
 (June 18, 1934, ch. 576, §16, 48 Stat. 987; Pub. L. 100–581, title I, §101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, §5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, §3, Mar. 14, 2000, 114 Stat. 47; Pub. L. 108–204, title I, §103, Mar. 2, 2004, 118 Stat. 543.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is actJune 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Codification
 
@@ -75,6 +77,8 @@ Section was formerly classified to section 476 of this title prior to editorial 
 <b>1994</b>—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
 
 <b>1988</b>—Pub. L. 100–581 amended section generally, substituting subsecs. (a) to (e) for two former undesignated pars.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions Applicable
 

@@ -10,7 +10,7 @@ The Commission, after opportunity for hearing, may grant any application under t
 
 #### (c) Compliance with order of Commission
 
-No public utility shall, without the consent of the Commission, apply any security or any proceeds thereof to any purpose not specified in theCommission's order, or supplemental order, or to any purpose in excess of the amount allowed for such purpose in such order, or otherwise in contravention of such order.
+No public utility shall, without the consent of the Commission, apply any security or any proceeds thereof to any purpose not specified in the Commission's order, or supplemental order, or to any purpose in excess of the amount allowed for such purpose in such order, or otherwise in contravention of such order.
 
 #### (d) Authorization of capitalization not to exceed amount paid
 
@@ -22,7 +22,7 @@ Subsection (a) shall not apply to the issue or renewal of, or assumption of liab
 
 #### (f) Public utility securities regulated by State not affected
 
-The provisions of this section shall not extend to a public utility organized and operating in a State under the laws of which its security issues are regulated by a State commission.
+The provisions of this section shall not extend to a public utility organized and operating in aState under the laws of which its security issues are regulated by a State commission.
 
 #### (g) Guarantee or obligation on part of United States
 

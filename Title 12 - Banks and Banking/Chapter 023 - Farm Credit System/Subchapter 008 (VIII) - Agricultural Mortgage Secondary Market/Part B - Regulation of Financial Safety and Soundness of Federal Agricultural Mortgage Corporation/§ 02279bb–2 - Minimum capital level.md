@@ -60,6 +60,8 @@ Except as provided in subsection (b), for purposes of this part, the minimum cap
 
 (Pub. L. 92–181, title VIII, §8.33, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1873; amended Pub. L. 104–105, title I, §114, Feb. 10, 1996, 110 Stat. 166; Pub. L. 115–334, title V, §5411(49), Dec. 20, 2018, 132 Stat. 4685.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(A). Pub. L. 115–334 substituted "section 2279aa–6(d)" for "section 2279aa–6(e)".

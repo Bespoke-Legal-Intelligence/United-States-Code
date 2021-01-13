@@ -12,7 +12,7 @@ Matters To Be Specified in Policy.—The policy on sexual harassment and sexual 
 
 &emsp;(2) Procedures that a midshipman should follow in the case of an occurrence of sexual harassment or sexual violence, including—
 
-&emsp;&emsp;(A) if the midshipman chooses to report an occurrence of sexual harassment or sexualviolence, a specification of the person or persons to whom the alleged offense should be reported and the options for confidential reporting;
+&emsp;&emsp;(A) if the midshipman chooses to report an occurrence of sexual harassment or sexual violence, a specification of the person or persons to whom the alleged offense should be reported and the options for confidential reporting;
 
 &emsp;&emsp;(B) a specification of any other person whom the victim should contact; and
 
@@ -46,6 +46,12 @@ Annual Assessment.—(1) The Secretary of Defense, through the Secretary of the 
 
 &emsp;&emsp;(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
+(3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+
+(B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+(C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.
+
 (d)
 
 Annual Report.—(1) The Secretary of the Navy shall direct the Superintendent of the Naval Academy to submit to the Secretary a report on sexual harassment and sexual violence involving midshipmen or other personnel at the Academy for each Academy program year.
@@ -72,7 +78,7 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 &emsp;(A) provide that the Superintendent of the United States Naval Academy shall ensure that any midshipman who has been appointed to the United States Naval Academy and who is a victim of an alleged sexual assault or other offense referred to in paragraph (1), is informed of the right to request a transfer pursuant to this section, and that any formal request submitted by a midshipman is processed as expeditiously as practicable through the chain of command for review and action by the Superintendent;
 
-&emsp;(B) direct the Superintendent of the United States Naval Academy, in coordination with the Superintendent of the military serviceacademy to which the midshipman requests to transfer—
+&emsp;(B) direct the Superintendent of the United States Naval Academy, in coordination with the Superintendent of the military service academy to which the midshipman requests to transfer—
 
 &emsp;&emsp;(i) to take action on a request for transfer under this subsection not later than 72 hours after receiving the formal request from the midshipman;
 
@@ -94,9 +100,11 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 (5) A midshipman who transfers under this subsection may retain the midshipman's appointment to the United States Naval Academy or may be appointed to the military service academy to which the midshipman transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
 
-(Added Pub. L. 109–364, div. A, title V, §532(a)(2), Oct. 17, 2006, 120 Stat. 2201, §6980; renumbered §8480, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–92, div. A, title V, §555(b), Dec. 20, 2019, 133 Stat. 1389.)
+(Added Pub. L. 109–364, div. A, title V, §532(a)(2), Oct. 17, 2006, 120 Stat. 2201, §6980; renumbered §8480, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–92, div. A, title V, §555(b), Dec. 20, 2019, 133 Stat. 1389; Pub. L. 116–283, div. A, title V, §552(b)(2), Jan. 1, 2021, 134 Stat. 3632.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–92 added subsec. (e).
 
@@ -109,6 +117,18 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+#### Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault
+
+Secretary of Defense to consult with Secretaries of the military departments and Superintendent of each military service academy and prescribe in regulations a policy that allows a cadet or midshipman of a military service academy who is the alleged victim or alleged perpetrator of a sexual assault to complete their course of study at the academy with minimal disruption and does not preclude the academy from taking other administrative or disciplinary action, see section 539 of Pub. L. 116–283, set out as a note under section 7461 of this title.
+
+#### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
+
+Secretary of the military department concerned to ensure that the provisions of title XVII of Pub. L. 113–66 and subtitle D of title V of div. A of Pub. L. 113–291 apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable, see section 552(a) of Pub. L. 113—291, set out as a note under section 7461 of this title.
+
+#### Prevention of Sexual Assault at Military Service Academies
+
+Secretary of Defense to ensure that military service academy curricula include honor, respect, and character development pertaining to prevention of sexual assault in the Armed Forces; training provided within 14 days after a new cadet or midshipman arrives at the academy and repeated annually, see section 1746 of Pub. L. 113–66, set out as a note under section 7461 of this title.
 
 #### Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues
 

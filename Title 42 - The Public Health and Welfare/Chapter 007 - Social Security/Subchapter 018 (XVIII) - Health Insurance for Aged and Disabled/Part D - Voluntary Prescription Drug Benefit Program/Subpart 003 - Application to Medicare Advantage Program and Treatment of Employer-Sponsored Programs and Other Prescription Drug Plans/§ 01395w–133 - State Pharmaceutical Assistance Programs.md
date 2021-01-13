@@ -36,7 +36,7 @@
 
 #### (4) Consultation
 
-&emsp;In establishing requirements under this subsection, the Secretary shall consult with State Pharmaceutical Assistance Programs, MA organizations, States, pharmaceutical benefit managers, employers, representatives of part D eligible individuals, the data processing experts, pharmacists, pharmaceutical manufacturers, and other experts.
+&emsp;In establishing requirements under this subsection, the Secretary shall consult with StatePharmaceutical Assistance Programs, MA organizations, States, pharmaceutical benefit managers, employers, representatives of part D eligible individuals, the data processing experts, pharmacists, pharmaceutical manufacturers, and other experts.
 
 #### (5) Part D plan defined
 

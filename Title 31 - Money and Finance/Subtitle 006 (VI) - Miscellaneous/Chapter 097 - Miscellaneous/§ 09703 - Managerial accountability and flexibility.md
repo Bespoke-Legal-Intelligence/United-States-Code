@@ -4,7 +4,7 @@
 
 (b) Any such proposal under subsection (a) shall describe the anticipated effects on performance resulting from greater managerial or organizational flexibility, discretion, and authority, and shall quantify the expected improvements in performance resulting from any waiver. The expected improvements shall be compared to current actual performance, and to the projected level of performance that would be achieved independent of any waiver.
 
-(c) Any proposal waiving limitations on compensation or remuneration shall precisely express the monetary change in compensation orremuneration amounts, such as bonuses or awards, that shall result from meeting, exceeding, or failing to meet performance goals.
+(c) Any proposal waiving limitations on compensation or remuneration shall precisely express the monetary change in compensation or remuneration amounts, such as bonuses or awards, that shall result from meeting, exceeding, or failing to meet performance goals.
 
 (d) Any proposed waiver of procedural requirements or controls imposed by an agency (other than the proposing agency or the Office of Management and Budget) may not be included in a performance plan unless it is endorsed by the agency that established the requirement, and the endorsement included in the proposing agency's performance plan.
 
@@ -13,6 +13,8 @@
 (f) For purposes of this section, the definitions under section 1115(f) <sup>1</sup> shall apply.
 
 (Added Pub. L. 103–62, §5(a), Aug. 3, 1993, 107 Stat. 289.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ Section 1115(f), referred to in subsec. (f), was redesignated section 1115(g) of
 #### Codification
 
 Another section 9703 was renumbered section 9705 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

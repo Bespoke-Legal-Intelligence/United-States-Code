@@ -20,9 +20,9 @@ Payment Between Countries.—The President may include in an agreement under sub
 
 (c)
 
-Payments.—Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operating expenses of the Coast Guard.
+Payments.—Payments received pursuant to subsection (b)(1) shall be credited to the appropriation for operations and support of the Coast Guard.
 
-(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, §314(a)(1), Dec. 18, 2014, 128 Stat. 3049.)
+(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1692; Pub. L. 113–281, title III, §314(a)(1), Dec. 18, 2014, 128 Stat. 3049; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(b), Jan. 1, 2021, 134 Stat. 4761.)
 
 Historical and Revision Notes
 
@@ -40,9 +40,15 @@ Historical and Revision Notes
 
 June 25, 1936, ch. 807, §1, 49 Stat. 1922.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
+<b>2021</b>—Subsec. (c). Pub. L. 116–283 substituted "operations and support" for "operating expenses".
+
 <b>2014</b>—Subsec. (c). Pub. L. 113–281 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

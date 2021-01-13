@@ -14,11 +14,9 @@
 
 (c) The Board on its own motion may correct an obvious error in the record, without regard to whether there has been a motion or order for reconsideration.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4003; Pub. L. 100–687, div. A, title II, §202(a), Nov. 18,1988, 102 Stat. 4110; renumbered §7103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, §2(o), Aug. 23, 2017, 131 Stat. 1111.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4003; Pub. L. 100–687, div. A, title II, §202(a), Nov. 18, 1988, 102 Stat. 4110; renumbered §7103, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, §2(o), Aug. 23, 2017, 131 Stat. 1111.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(o) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -36,9 +34,11 @@
 
 <b>1988</b>—Pub. L. 100–687, in amending section generally, added subsec. (a), struck out former subsec. (a) which provided that determination of section, when unanimous, be final determination of Board, added subsec. (b), struck out former subsec. (b) which provided that when there is disagreement among members of section, concurrence of Chairman with majority of members of section shall constitute final determination of Board, and added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date of 1988 Amendment
 

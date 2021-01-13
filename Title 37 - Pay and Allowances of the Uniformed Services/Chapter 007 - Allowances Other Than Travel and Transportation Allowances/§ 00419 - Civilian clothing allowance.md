@@ -4,6 +4,8 @@ Under regulations prescribed by the Secretary of Defense, an officer of an armed
 
 (Added Pub. L. 100–180, div. A, title VI, §611(a)(1)(B), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, §625, Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, §653(c)(2), Nov. 29, 1989, 103 Stat. 1462.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 419 was renumbered section 420 of this title.
@@ -13,6 +15,8 @@ A prior section 419 was renumbered section 420 of this title.
 <b>1989</b>—Pub. L. 101–189 substituted "an officer" for "a officer" in two places and struck out "to" after "may be paid".
 
 <b>1988</b>—Pub. L. 100–456 substituted "officer" for "member" in three places, "may be paid" for "is entitled", and "officer's" for "member's".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

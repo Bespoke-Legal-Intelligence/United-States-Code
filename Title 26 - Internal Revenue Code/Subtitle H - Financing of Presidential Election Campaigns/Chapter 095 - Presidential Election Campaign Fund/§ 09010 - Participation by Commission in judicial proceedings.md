@@ -10,7 +10,7 @@ The Commission is authorized through attorneys and counsel described in subsecti
 
 #### (c) Declaratory and injunctive relief
 
-The Commission is authorized through attorneys and counsel described in subsection (a) to petition the courts of the United States for declaratory or injunctive relief concerning any civil matter covered by the provisions of this subtitle or section 6096. Upon application of the Commission an action brought pursuant to this subsection shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28, United States Code, and any appeal shall lie to the Supreme Court.
+The Commission is authorized through attorneys and counsel described in subsection (a) topetition the courts of the United States for declaratory or injunctive relief concerning any civil matter covered by the provisions of this subtitle or section 6096. Upon application of the Commission an action brought pursuant to this subsection shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28, United States Code, and any appeal shall lie to the Supreme Court.
 
 #### (d) Appeal
 

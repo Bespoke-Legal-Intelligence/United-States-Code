@@ -52,7 +52,7 @@
 
 (ii) A notice of disagreement filed with the Secretary of Defense under subparagraph (A) shall be decided in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
 
-(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
+(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceasedperson becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
 
 &emsp;(A) Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
 
@@ -84,6 +84,8 @@
 
 (Added Pub. L. 105–116, §1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, §202, Dec. 6, 2002, 116 Stat. 2824; Pub. L. 109–163, div. A, title VI, §662(a), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 112–260, title I, §105(a), (b), Jan. 10, 2013, 126 Stat. 2421; Pub. L. 113–65, §2(a), (b), Dec. 20, 2013, 127 Stat. 669, 671; Pub. L. 114–58, title VI, §601(14), Sept. 30, 2015, 129 Stat. 539.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
@@ -114,6 +116,8 @@ Subsec. (d)(2). Pub. L. 109–163, §662(a)(2)(B), substituted "a sentence of im
 
 Subsecs. (a)(1)(A), (B), (d)(3)(A). Pub. L. 105–368, §403(d)(1), substituted "Administration" for "System".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–65, §2(c), Dec. 20, 2013, 127 Stat. 671, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any interment or memorialization conducted by the Secretary of Veterans Affairs or the Secretary of the Army in a cemetery in the National Cemetery Administration or in Arlington National Cemetery after the date of the enactment of this Act \[Dec. 20, 2013\]."
@@ -126,7 +130,7 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 #### Effective Date
 
-Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorializationmade on or after the date of the enactment of this Act \[Nov. 21, 1997\]."
 
 #### Regulations
 

@@ -4,6 +4,8 @@ All moneys heretofore or hereafter refunded or received in connection with opera
 
 (June 12, 1917, ch. 27, 40 Stat. 149.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation law, referred to in text, is identified in act June 12, 1917, ch. 27, 40 Stat. 147, under the heading "

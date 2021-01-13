@@ -79,8 +79,8 @@
 | 59e–1. | Additional portion of Bayou Lafourche, Louisiana. |
 | [59f.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059f%20-%20Boston%20Inner%20Harbor%20and%20Fort%20Point%20Channel%2C%20Massachusetts.md) | Boston Inner Harbor and Fort Point Channel, Massachusetts. |
 | [59g.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059g%20-%20Steele%20and%20Washington%20Bayous%2C%20and%20Lake%20Washington%2C%20Mississippi.md) | Steele and Washington Bayous, and Lake Washington, Mississippi. |
-| [59h.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059h%20-%20Northern%20Embarcadero%20area%2C%20San%20Francisco%2C%20California.md) | Northern Embarcadero area, San Francisco, California. |
-| 59h–1. | San Francisco, California, waterfront area. |
+| [59h.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059h%20-%20San%20Francisco%2C%20California%2C%20Waterfront%20Area.md) | San Francisco, California, Waterfront Area. |
+| 59h–1. | Repealed. |
 | [59i.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059i%20-%20Patapsco%20River%2C%20Maryland.md) | Patapsco River, Maryland. |
 | [59j.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059j%20-%20Delaware%20River%2C%20Philadelphia%20County%2C%20Pennsylvania%3B%20permanent%20structures.md) | Delaware River, Philadelphia County, Pennsylvania; permanent structures. |
 | 59j–1. | Declaration of nonnavigability for portions of the Delaware River. |
@@ -116,6 +116,7 @@
 | [59jj.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059jj%20-%20Designation%20of%20nonnavigability%20for%20portions%20of%20Gloucester%20County%2C%20New%20Jersey.md) | Designation of nonnavigability for portions of Gloucester County, New Jersey. |
 | [59kk.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059kk%20-%20Wateree%20River.md) | Wateree River. |
 | 59<i>ll.</i> | Central Delaware River, Philadelphia, Pennsylvania. |
+| [59mm.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059mm%20-%20Coalbank%20Slough%20deemed%20not%20navigable%20waters%20of%20the%20United%20States%20for%20certain%20purposes.md) | Coalbank Slough deemed not navigable waters of the United States for certain purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

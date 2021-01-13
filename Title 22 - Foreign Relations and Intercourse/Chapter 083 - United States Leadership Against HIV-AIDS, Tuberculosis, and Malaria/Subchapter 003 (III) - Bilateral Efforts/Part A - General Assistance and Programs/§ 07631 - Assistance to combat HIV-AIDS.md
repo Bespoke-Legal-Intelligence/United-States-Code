@@ -14,7 +14,7 @@
 
 #### (3) Allocation of funds
 
-&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2009through 2013, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
+&emsp;Of the amount authorized to be appropriated by paragraph (1) for the fiscal years 2009 through 2013, such sums as may be necessary are authorized to be appropriated to carry out section 104A(d)(4) of the Foreign Assistance Act of 1961 (as added by subsection (a)) \[22 U.S.C. 2151b–2(d)(4)\], relating to the procurement and distribution of HIV/AIDS pharmaceuticals.
 
 #### (c) Food and nutritional support
 
@@ -83,6 +83,8 @@ No funds made available to carry out this chapter, or any amendment made by this
 &emsp;It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
 
 (Pub. L. 108–25, title III, §301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, §595(3), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title III, §301(f)–(h), July 30, 2008, 122 Stat. 2956, 2957.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

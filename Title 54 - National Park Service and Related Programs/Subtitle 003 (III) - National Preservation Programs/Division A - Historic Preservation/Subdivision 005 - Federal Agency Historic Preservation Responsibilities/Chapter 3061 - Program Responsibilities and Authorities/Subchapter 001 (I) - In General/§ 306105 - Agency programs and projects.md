@@ -1,6 +1,6 @@
 ### §306105. Agency programs and projects
 
-Consistent with the agency's missions and mandates, each Federal agency shall carry out agency programs and projects (including those under which any Federal assistance is providedor any Federal license, permit, or other approval is required) in accordance with the purposes of this division and give consideration to programs and projects that will further the purposes of this division.
+Consistent with the agency's missions and mandates, each Federal agency shall carry out agency programs and projects (including those under which any Federal assistance is provided or any Federal license, permit, or other approval is required) in accordance with the purposes of this division and give consideration to programs and projects that will further the purposes of this division.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3226.)
 

@@ -84,6 +84,8 @@ Pub. L. 93–400, §39, as added Pub. L. 105–85, title VIII, §808(c)(1), Nov.
 
 41:435(a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as an Effective Date of 2013 Amendment note under section 2324 of Title 10, Armed Forces.

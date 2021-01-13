@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Designation.—The building constructed on the Federal Triangle property shall be known and designated as the Ronald Reagan Building and International Trade Center.
+Establishment and Designation.—The building constructed on the Federal Triangleproperty shall be known and designated as the Ronald Reagan Building and International Trade Center.
 
 (b)
 
@@ -128,9 +128,13 @@ In subsection (f)(2), the text of 40:1105(b)(4) is omitted as obsolete.
 
 Subsection (f)(3) is substituted for 40:1105(d) to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as this subchapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reference to Ronald Reagan Building and International Trade Center
 

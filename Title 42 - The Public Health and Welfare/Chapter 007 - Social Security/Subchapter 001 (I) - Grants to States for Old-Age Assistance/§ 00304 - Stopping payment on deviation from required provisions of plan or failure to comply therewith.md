@@ -16,7 +16,7 @@ In the case of any State plan which has been approved under this subchapter by t
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under orparts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
+<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
 
 <b>1960</b>—Pub. L. 86–778 substituted "State plan which has been approved under this subchapter" for "State plan for old-age assistance which has been approved".
 

@@ -4,9 +4,13 @@ Nothing in this subchapter shall be deemed to affect the criminal or civil liabi
 
 (June 19, 1934, ch. 652, title VI, §638, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2801; amended Pub. L. 102–385, §10(d), Oct. 5, 1992, 106 Stat. 1486.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–385 inserted before period at end "unless the program involves obscene material".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

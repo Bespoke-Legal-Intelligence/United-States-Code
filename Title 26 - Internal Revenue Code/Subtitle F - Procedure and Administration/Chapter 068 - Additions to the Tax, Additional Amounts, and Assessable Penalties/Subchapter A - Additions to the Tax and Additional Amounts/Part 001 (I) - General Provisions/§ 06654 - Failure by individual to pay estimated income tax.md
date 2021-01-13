@@ -433,7 +433,7 @@ Subsecs. (j) to (l). Pub. L. 98–369, in amending section generally, added subs
 
 Subsec. (f)(1). Pub. L. 97–448, §107(c)(1), inserted ", reduced by the credit allowable under section 31," before "is less than".
 
-Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 or 6430 as an overpayment of the tax imposed by section 4986".
+Subsec. (g)(3)(B). Pub. L. 97–448, §201(j)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "to the extent allowed under regulations prescribed by the Secretary, any amount which is treated under section 6429 or 6430 as an overpayment of the tax imposed by section 4986".
 
 Pub. L. 97–448, §106(a)(4)(C), inserted "or 6430" after "section 6429".
 
@@ -507,9 +507,9 @@ Pub. L. 105–277, div. J, title II, §2003(b), Oct. 21, 1998, 112 Stat. 2681–
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1091(b), Aug. 5, 1997, 111 Stat. 962, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to any installment payment for taxable years beginning after December 31, 1997."
+Pub. L. 105–34, title X, §1091(b), Aug. 5, 1997, 111 Stat. 962, provided that: "The amendment made by this section \[amending this section\] shall apply with respect toany installment payment for taxable years beginning after December 31, 1997."
 
-Pub. L. 105–34, title XII, §1202(b), Aug. 5, 1997, 111 Stat. 994, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
+Pub. L. 105–34, title XII, §1202(b), Aug. 5, 1997, 111 Stat. 994, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1994 Amendment
 
@@ -597,7 +597,7 @@ Amendment by Pub. L. 94–455 effective first day of first month which begins mo
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date of 1973 Amendments
 
@@ -663,7 +663,7 @@ Pub. L. 99–514, title XV, §1543, Oct. 22, 1986, 100 Stat. 2751, provided that
 
 #### Waiver of Estimated Tax Penalties
 
-No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to anyunderpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
+No addition to tax to be made under this section for any period before Apr. 16, 1985, with respect to any underpayment, to the extent that such underpayment was created or increased by any provision of Pub. L. 98–369, div. A, see section 1879(a) of Pub. L. 99–514, set out as a note under section 6655 of this title.
 
 #### Increase in Section 31 Credit for Taxable Years Which Include any Portion of Period July 1, 1983, to December 31, 1983
 

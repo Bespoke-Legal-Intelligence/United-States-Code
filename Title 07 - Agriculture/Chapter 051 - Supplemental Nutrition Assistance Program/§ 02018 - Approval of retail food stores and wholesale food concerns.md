@@ -92,7 +92,7 @@ An approved retail food store shall provide adequate EBT service as described in
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under section 2020(e)(25) of this title as well as any other information the Secretary may have relating to the manner in which benefits are used.
+&emsp;Not later than 90 days after September 30, 2014, and 90 days after the last day of each fiscal year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the effectiveness of a program under this subsection using any information received from States under section 2020(e)(25) of this title as well as any other information the Secretary may have relating to the manner in which benefits are used.
 
 #### (i) Review of program operations
 
@@ -114,7 +114,7 @@ An approved retail food store shall provide adequate EBT service as described in
 
 #### (2) Limitation
 
-&emsp;Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2020.
+&emsp;Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2021.
 
 #### (j) Incentives
 
@@ -130,7 +130,7 @@ An approved retail food store shall provide adequate EBT service as described in
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue guidance to clarify the process by which an approved retail food store may seek a waiver to offer an incentive, which may be used only for the purchase of an eligible incentive food at the point of purchase, to a household purchasing food with benefits issued under this chapter.
+&emsp;&emsp;The Secretary shall issue guidance to clarify the process by which an approved retailfood store may seek a waiver to offer an incentive, which may be used only for the purchase of an eligible incentive food at the point of purchase, to a household purchasing food with benefits issued under this chapter.
 
 #### (B) Guidance
 
@@ -154,17 +154,19 @@ An approved retail food store shall provide adequate EBT service as described in
 
 &emsp;The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the types of incentives approved under this subsection.
 
-(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639; Pub. L. 116–94, div. B, title VII, §784, Dec. 20, 2019, 133 Stat. 2656.)
+(Pub. L. 88–525, §9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, §11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, §941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, §204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639; Pub. L. 116–94, div. B, title VII, §784, Dec. 20, 2019, 133 Stat. 2656; Pub. L. 116–260, div. A, title VII, §783, Dec. 27, 2020, 134 Stat. 1230.)
 
 #### References in Text
 
-That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i)(2). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (i)(2). Pub. L. 116–94 substituted "prior to December 31, 2020" for "for a period of 18 months from December 20, 2018".
 
@@ -208,7 +210,7 @@ Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance pro
 
 Subsec. (e). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (g). Pub. L. 110–246, §4115(b)(6)(C), which directed substitution of "section 2012(k)(9)" for "section 2012(g)(9)" in subsec. (g), could not be executed because subsec. (g) did not appear in text subsequent to its termination. See 1986 Amendment note and Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (g). Pub. L. 110–246, §4115(b)(6)(C), which directed substitution of "section 2012(k)(9)" for "section 2012(g)(9)" in subsec. (g), could not be executed becausesubsec. (g) did not appear in text subsequent to its termination. See 1986 Amendment note and Effective and Termination Dates of 1986 Amendment note below.
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §831, inserted at end "No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the food stamp program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate."
 

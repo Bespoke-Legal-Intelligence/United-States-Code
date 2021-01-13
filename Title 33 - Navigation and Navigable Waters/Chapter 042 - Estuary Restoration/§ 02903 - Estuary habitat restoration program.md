@@ -48,7 +48,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (4) Priority
 
-&emsp;In selecting estuary habitat restoration projects to be carried out under this chapter,the Secretary shall give priority consideration to a project if, in addition to meriting selection based on the factors under paragraph (3)—
+&emsp;In selecting estuary habitat restoration projects to be carried out under this chapter, the Secretary shall give priority consideration to a project if, in addition to meriting selection based on the factors under paragraph (3)—
 
 &emsp;&emsp;(A) the project occurs within a watershed in which there is a program being carried out that addresses sources of pollution and other activities that otherwise would re-impair the restored habitat; or
 
@@ -142,13 +142,15 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 #### (C) Funding
 
-&emsp;&emsp;A small project delegated to the head of a Federal department or agency under thisparagraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
+&emsp;&emsp;A small project delegated to the head of a Federal department or agency under this paragraph may be carried out using funds appropriated to the department or agency under section 2908(a)(1) of this title or other funds available to the department or agency.
 
 #### (D) Agreements
 
 &emsp;&emsp;The head of a Federal department or agency to which a small project is delegated under this paragraph shall enter into an agreement with the non-Federal interest for the project generally in conformance with the criteria in subsections (d) and (e). Cooperative agreements may be used for any delegated project to allow the non-Federal interest to carry out the project on behalf of the Federal agency.
 
 (Pub. L. 106–457, title I, §104, Nov. 7, 2000, 114 Stat. 1960; Pub. L. 110–114, title V, §5017(c), Nov. 8, 2007, 121 Stat. 1197; Pub. L. 114–322, title IV, §5013(a), Dec. 16, 2016, 130 Stat. 1903.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

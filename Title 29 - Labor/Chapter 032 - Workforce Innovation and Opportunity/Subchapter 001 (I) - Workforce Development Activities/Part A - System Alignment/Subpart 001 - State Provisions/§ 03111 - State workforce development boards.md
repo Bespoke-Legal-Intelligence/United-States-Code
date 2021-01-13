@@ -144,7 +144,7 @@ The State board shall assist the Governor in—
 
 #### (2) References
 
-&emsp;A reference in this Act, or a core program provision that is not in this Act, to a Stateboard shall be considered to include such an entity.
+&emsp;A reference in this Act, or a core program provision that is not in this Act, to a State board shall be considered to include such an entity.
 
 #### (f) Conflict of interest
 
@@ -178,11 +178,15 @@ The State board shall make available to the public, on a regular basis through e
 
 (Pub. L. 113–128, title I, §101, July 22, 2014, 128 Stat. 1440.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

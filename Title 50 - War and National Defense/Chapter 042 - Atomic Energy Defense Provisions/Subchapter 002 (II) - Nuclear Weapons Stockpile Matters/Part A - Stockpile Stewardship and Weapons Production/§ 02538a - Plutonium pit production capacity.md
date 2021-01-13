@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 116–92, §3116(b)(3), redesignated subsec. (d) as (c).
 
 Pub. L. 116–92, div. C, title XXXI, §3116(a), Dec. 20, 2019, 133 Stat. 1951, provided that: "It is the sense of Congress that—
 
-&emsp;"(1) rebuilding a robust plutonium pit production infrastructure with a capacity of up to 80 pits per year is critical to maintaining the viability of the nuclear weapons stockpile;
+&emsp;"(1) rebuilding a robust plutonium pit production infrastructure with a capacity of up to 80 pits peryear is critical to maintaining the viability of the nuclear weapons stockpile;
 
 &emsp;"(2) that effort will require cooperation from experts across the nuclear security enterprise; and
 

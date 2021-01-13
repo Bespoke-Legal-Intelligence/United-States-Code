@@ -56,9 +56,13 @@ In subsection (c), the words "for oral presentation" are substituted for "to pre
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 553 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2245 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12044
 

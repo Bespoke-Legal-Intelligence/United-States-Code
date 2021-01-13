@@ -26,7 +26,7 @@ Subject to section 7116(f) of this title, each local educational agency, or cons
 
 &emsp;&emsp;(A) planning activities, which may include development of new instructional models (including blended learning technology software and platforms), the purchase of digital instructional resources, initial professional development activities, and one-time information technology purchases, except that such expenditures may not include expenditures related to significant construction or renovation of facilities; or
 
-&emsp;&emsp;(B) ongoing professional development for teachers, principals, other school leaders, or other personnel involved in the project thatis designed to support the implementation and academic success of the project;
+&emsp;&emsp;(B) ongoing professional development for teachers, principals, other school leaders, or other personnel involved in the project that is designed to support the implementation and academic success of the project;
 
 &emsp;(5) providing professional development in the use of technology (which may be provided through partnerships with outside organizations) to enable teachers and instructional leaders to increase student achievement in the areas of science, technology, engineering, and mathematics, including computer science; and
 

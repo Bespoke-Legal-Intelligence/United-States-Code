@@ -64,7 +64,7 @@ In subsection (c), the words "No property \* \* \* may \* \* \* except" are 
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next ofkin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office."
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office."
 
 Subsec. (d). Pub. L. 104–106, §374(a)(2), added subsec. (d).
 

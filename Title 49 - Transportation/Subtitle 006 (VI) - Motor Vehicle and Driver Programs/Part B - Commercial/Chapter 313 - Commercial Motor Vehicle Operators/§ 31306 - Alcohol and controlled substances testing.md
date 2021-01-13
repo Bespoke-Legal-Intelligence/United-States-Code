@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section and section 31306a, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section and section 31306a, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970\(21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -192,7 +192,7 @@ Pub. L. 115–271, title VIII, §8106, Oct. 24, 2018, 132 Stat. 4106, provided t
 
 "(a)
 
-In General.—Not later than 60 days after the date of enactment of this Act \[Oct. 24, 2018\], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America's Surface Transportation Act (Public Law 114–94; 129 Stat. 1312) \[set out below\], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+In General.—Not later than 60 days after the date of enactment of this Act \[Oct. 24, 2018\], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America's Surface Transportation Act\(Public Law 114–94; 129 Stat. 1312) \[set out below\], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
 &emsp;"(1) the status of the hair testing guidelines;
 
@@ -246,5 +246,5 @@ Study.—The Secretary \[of Transportation\] shall conduct a study of the feasib
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
+Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
 

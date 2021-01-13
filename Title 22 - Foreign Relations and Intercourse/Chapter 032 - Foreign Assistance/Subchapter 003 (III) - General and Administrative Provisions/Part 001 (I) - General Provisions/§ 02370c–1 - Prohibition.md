@@ -44,7 +44,7 @@ The President may provide to a country assistance otherwise prohibited under sub
 
 &emsp;The President may provide assistance under section 2347 of this title through the Defense Institute for International Legal Studies or the Center for Civil-Military Relations at the Naval Post-Graduate School, and may provide nonlethal supplies (as defined in section 2557(d)(1)(B) of title 10), to a country subject to the prohibition under subsection (a) upon certifying to the appropriate congressional committees that—
 
-&emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effective measures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
+&emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effectivemeasures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
 
 &emsp;&emsp;(B) the assistance provided by the United States Government to the government of such country will go to programs that will directly support professionalization of the military.
 
@@ -57,6 +57,8 @@ The President may provide to a country assistance otherwise prohibited under sub
 The limitation set forth in subsection (a) that relates to section 2348 of this title shall not apply to programs that support military professionalization, security sector reform, heightened respect for human rights, peacekeeping preparation, or the demobilization and reintegration of child soldiers.
 
 (Pub. L. 110–457, title IV, §404, Dec. 23, 2008, 122 Stat. 5089; Pub. L. 113–4, title XII, §1208, Mar. 7, 2013, 127 Stat. 142; Pub. L. 115–425, title II, §212(b), Jan. 8, 2019, 132 Stat. 5485.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ Subsec. (e)(1). Pub. L. 115–425, §212(b)(4), in introductory provisions, subs
 <b>2013</b>—Subsec. (a). Pub. L. 113–4, §1208(1), substituted "(b) through (f), the authorities contained in sections 2321j, 2347, and 2348 of this title" for "(b), (c), and (d), the authorities contained in section 2321j or 2347 of this title".
 
 Subsec. (f). Pub. L. 113–4, §1208(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

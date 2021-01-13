@@ -18,11 +18,15 @@
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3489; amended Pub. L. 112–236, §2, Dec. 28, 2012, 126 Stat. 1627; Pub. L. 114–153, §3(a)(1), May 11, 2016, 130 Stat. 382.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–153 substituted "the greater of $5,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided" for "$5,000,000".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–236 substituted "a product or service used in or intended for use in" for "or included in a product that is produced for or placed in" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on Theft of Trade Secrets Occurring Abroad
 

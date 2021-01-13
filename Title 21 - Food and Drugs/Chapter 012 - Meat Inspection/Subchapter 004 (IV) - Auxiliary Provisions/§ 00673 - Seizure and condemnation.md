@@ -18,7 +18,7 @@
 
 (B) The United States may not be held legally responsible for any article that is distributed under subparagraph (A) to a nonprofit, private entity or to a Federal, State, or local government entity, if such article—
 
-&emsp;(i) was found after inspection under this chapter to be wholesome and not adulterated within the meaning of paragraphs (1) through (7) and (9) of section 601(m) of this title and a determination was made at the time of the entry of the decree that such article was wholesome and not so adulterated; and
+&emsp;(i) was found after inspection under this chapter to be wholesome and not adulterated within the meaning of paragraphs (1) through\(7) and (9) of section 601(m) of this title and a determination was made at the time of the entry of the decree that such article was wholesome and not so adulterated; and
 
 &emsp;(ii) was plainly marked "Not for Sale" on such article or its container.
 
@@ -33,6 +33,8 @@
 The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
 (Mar. 4, 1907, ch. 2907, title IV, §403, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 598; amended Pub. L. 101–205, §1, Dec. 7, 1989, 103 Stat. 1829.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -42,7 +42,7 @@ Common Ownership Under Joint Research Agreements.—Subject matter disclosed and
 
 (d)
 
-Patents and Published Applications Effective as Prior Art.—For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectivelyfiled, with respect to any subject matter described in the patent or application—
+Patents and Published Applications Effective as Prior Art.—For purposes of determining whether a patent or application for patent is prior art to a claimed invention under subsection (a)(2), such patent or application shall be considered to have been effectively filed, with respect to any subject matter described in the patent or application—
 
 &emsp;(1) if paragraph (2) does not apply, as of the actual filing date of the patent or the application for patent; or
 
@@ -68,6 +68,8 @@ Paragraph (g) is derived from Title 35, U.S.C., 1946 ed., §69 (R.S. 4920, amend
 
 Language relating specifically to designs is omitted for inclusion in subsequent sections.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (d)(2). Pub. L. 112–211 substituted "to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)" for "to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)".
@@ -88,6 +90,8 @@ Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subse
 
 <b>1972</b>—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors' certificate.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States (May 13, 2015), and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, see section 103 of Pub. L. 112–211, set out as a note under section 100 of this title.
@@ -98,7 +102,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 18-month peri
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4505\] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) \[titleIV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4505\] of Pub. L. 106–113 effective Nov. 29, 2000 and applicable to all patents and all applications for patents pending on or filed after Nov. 29, 2000, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -146,5 +150,5 @@ Effective Date; Applicability.—This section shall take effect on the date of t
 
 #### Emergency Relief From Postal Situation Affecting Patent Cases
 
-Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section as of such earlier filing dates, see section 1(a) of Pub. L. 92–34, formerly set out in a note under section 111 of this title.
+Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970,and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section as of such earlier filing dates, see section 1(a) of Pub. L. 92–34, formerly set out in a note under section 111 of this title.
 

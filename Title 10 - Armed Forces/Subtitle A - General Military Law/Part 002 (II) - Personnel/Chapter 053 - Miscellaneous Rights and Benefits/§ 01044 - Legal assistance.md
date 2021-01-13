@@ -64,7 +64,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(1)\], redesignated par. (
 
 Subsec. (a)(1). Pub. L. 104–201, §583(c), (d)(2), (3), substituted "Members" for "members", struck out "under his jurisdiction" after "armed forces", and substituted a period for the semicolon at end.
 
-Subsec. (a)(2). Pub. L. 104–201, §583(c), (d)(2), (4), substituted "Members and" for "members and", struckout "under his jurisdiction" after "former members", and substituted a period for "; and" at end.
+Subsec. (a)(2). Pub. L. 104–201, §583(c), (d)(2), (4), substituted "Members and" for "members and", struck out "under his jurisdiction" after "former members", and substituted a period for "; and" at end.
 
 Subsec. (a)(3), (4). Pub. L. 104–201, §583(a), added pars. (3) and (4) and struck out former par. (3) which read as follows: "dependents of members and former members described in clauses (1) and (2)."
 

@@ -184,7 +184,7 @@ Electronic fund transfer.—The term "electronic fund transfer"—
 
 &emsp;&emsp;(C)
 
-Financial institution.—The term "financial institution" has the meaning given the term in section 903 of the Electronic Fund Transfer Act, except that such term does not include a casino, sports book, or other business at or through which bets or wagers may be placed or received.
+Financial institution.—The term "financial institution" has the meaning given the term in section 903 of the Electronic Fund Transfer Act, except that such term does not include a casino, sports book, orother business at or through which bets or wagers may be placed or received.
 
 &emsp;&emsp;(D)
 
@@ -199,6 +199,8 @@ Insured depository institution.—The term "insured depository institution"—
 Money transmitting business and money transmitting service.—The terms "money transmitting business" and "money transmitting service" have the meanings given the terms in section 5330(d) (determined without regard to any regulations prescribed by the Secretary thereunder).
 
 (Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1953.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

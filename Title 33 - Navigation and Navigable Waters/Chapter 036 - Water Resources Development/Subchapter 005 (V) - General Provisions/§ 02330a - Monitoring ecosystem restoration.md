@@ -14,7 +14,7 @@ The monitoring plan shall—
 
 #### (c) Cost share
 
-For a period of 10 years from completion of construction of a project (or a component of a project) for ecosystem restoration, the Secretary shall consider the cost of carrying out the monitoring as a project cost. If the monitoring plan under subsection (b) requires monitoring beyond the 10-year period, the cost of monitoring shall be a non-Federal responsibility.
+For a period of 10 years from completion of construction of a project (or a component of aproject) for ecosystem restoration, the Secretary shall consider the cost of carrying out the monitoring as a project cost. If the monitoring plan under subsection (b) requires monitoring beyond the 10-year period, the cost of monitoring shall be a non-Federal responsibility.
 
 #### (d) Inclusions
 
@@ -38,6 +38,8 @@ The Secretary is not responsible for the operation or maintenance of any compone
 
 (Pub. L. 110–114, title II, §2039, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, §1161, Dec. 16, 2016, 130 Stat. 1668.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -45,6 +47,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2016</b>—Subsecs. (d) to (f). Pub. L. 114–322 added subsecs. (d) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

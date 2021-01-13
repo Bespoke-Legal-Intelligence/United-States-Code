@@ -20,6 +20,8 @@ June 18, 1878, ch. 263, §15, 20 Stat. 152; Mar. 3, 1899, ch. 429, §363 (provis
 
 This section is revised to conform to the style and terminology used in title 18. It is not enacted as a part of title 10, United States Code, since it is more properly allocated to title 18.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

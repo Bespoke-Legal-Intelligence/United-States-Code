@@ -18,7 +18,7 @@ No land acquired with assistance under this section shall, without approval of t
 
 #### (e) Eligibility for other Federal loans or grant programs
 
-Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loan or grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
+Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loanor grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
 
 (Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
 

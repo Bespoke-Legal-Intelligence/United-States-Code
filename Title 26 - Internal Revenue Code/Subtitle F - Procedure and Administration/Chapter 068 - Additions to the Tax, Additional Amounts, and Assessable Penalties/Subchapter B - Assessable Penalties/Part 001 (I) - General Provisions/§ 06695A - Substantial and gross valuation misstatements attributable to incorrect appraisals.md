@@ -4,7 +4,7 @@
 
 If—
 
-&emsp;(1) a person prepares an appraisal of the value of property and such person knows, orreasonably should have known, that the appraisal would be used in connection with a return or a claim for refund, and
+&emsp;(1) a person prepares an appraisal of the value of property and such person knows, or reasonably should have known, that the appraisal would be used in connection with a return or a claim for refund, and
 
 &emsp;(2) the claimed value of the property on a return or claim for refund which is based on such appraisal results in a substantial valuation misstatement under chapter 1 (within the meaning of section 6662(e)), a substantial estate or gift tax valuation understatement (within the meaning of section 6662(g)), or a gross valuation misstatement (within the meaning of section 6662(h)), with respect to such property,
 

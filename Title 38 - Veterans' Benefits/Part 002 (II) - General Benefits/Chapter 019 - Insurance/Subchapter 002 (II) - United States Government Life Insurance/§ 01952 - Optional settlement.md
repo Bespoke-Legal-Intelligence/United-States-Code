@@ -6,13 +6,15 @@
 
 (c)(1) Following the death of the insured and in a case not covered by section 1950 of this title—
 
-&emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make aclaim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+&emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
 
 &emsp;(B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
 
 (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, §752; Pub. L. 91–291, §12, June 25, 1970, 84 Stat. 332; Pub. L. 97–66, title IV, §403(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, §701(32), Oct. 28, 1986, 100 Stat. 3293; renumbered §1952 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, §103(b), Dec. 16, 2003, 117 Stat. 2655.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@
 <b>1981</b>—Subsec. (a). Pub. L. 97–66 inserted provision empowering beneficiaries, in the case of insurance maturing after Sept. 30, 1981, and for which the insured has not exercised the right of election of the insured as provided in this subchapter, to elect to receive payment of the insurance in one sum.
 
 <b>1970</b>—Pub. L. 91–291 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

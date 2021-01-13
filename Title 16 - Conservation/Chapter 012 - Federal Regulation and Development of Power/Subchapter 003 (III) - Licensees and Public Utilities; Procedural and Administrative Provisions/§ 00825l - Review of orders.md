@@ -24,7 +24,7 @@ In subsec. (b), "section 1254 of title 28" substituted for "sections 239 and 240
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–791, §16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
 
-Subsec. (b). Pub. L. 85–791, §16(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", substituted "file with the court" for"certify and file with the court a transcript of", and inserted "as provided in section 2112 of title 28", and in third sentence, substituted "jurisdiction, which upon the filing of the record with it shall be exclusive" for "exclusive jurisdiction".
+Subsec. (b). Pub. L. 85–791, §16(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", substituted "file with the court" for "certify and file with the court a transcript of", and inserted "as provided in section 2112 of title 28", and in third sentence, substituted "jurisdiction, which upon the filing of the record with it shall be exclusive" for "exclusive jurisdiction".
 
 #### Change of Name
 

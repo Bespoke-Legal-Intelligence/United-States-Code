@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–241, §1(a)(2)(A), Oct. 16, 2002, 116 Stat. 1496, substituted "AMVETS (AMERICAN VETERANS)" for "AMVETS (AMERICAN VETERANS OF WORLD WAR II, KOREA, AND VIETNAM)" in chapter heading.

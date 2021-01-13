@@ -4,9 +4,13 @@ On and after June 18, 1934, no land of any Indian reservation, created or set ap
 
 (June 18, 1934, ch. 576, §1, 48 Stat. 984.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 461 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2004 Amendment
 

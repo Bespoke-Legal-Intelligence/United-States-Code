@@ -2,7 +2,7 @@
 
 #### (a) Management and duties
 
-Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authority over the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Oversight; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
+Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authorityover the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Oversight; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
 
 #### (b) Transfer of accounts, records, supplies, equipment, and assets
 
@@ -17,6 +17,8 @@ All authority, responsibility, and functions vested in or imposed upon the Archi
 The provisions of this section shall become effective on the first day of the first calendar month beginning after the date of adoption of this resolution, until otherwise provided by law.
 
 (Pub. L. 92–51, July 9, 1971, 85 Stat. 133; Pub. L. 104–186, title II, §221(3)(A), Aug. 20, 1996, 110 Stat. 1748.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Section is based on section 2 of House Resolution No. 317, Ninety-second Congres
 #### Amendments
 
 <b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–186 substituted "House Oversight" for "House Administration" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -64,7 +68,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;"(3) becomes employed to provide such food services under contract, including a successor contract;
 
-> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or beforethe day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
+> may, for purposes of the provisions of law specified in subsection (b), elect to be treated, for so long as such individual continues to be employed (without a break in service) as described in paragraph (3), as if such individual had not ceased to be an employee described in paragraph (1). Such election shall be made on or before the day referred to in paragraph (1) and shall be available only to an individual whose transition from the employment described in paragraph (1) to the employment described in paragraph (3) takes place without a break in service.
 
 "(b) The provisions of law referred to in subsection (a) are—
 
@@ -74,7 +78,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;"(3) title III of the Federal Employees' Retirement System Act of 1986 \[sections 301 to 312 of Pub. L. 99–335, see Tables for classification\].
 
-"(c)(1) At the earliest practicable opportunity, the Director of the Office of Personnel Management shall, in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Office, including regulations under which—
+"(c)(1) At the earliest practicable opportunity, the Director of the Office of Personnel Management shall,in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Office, including regulations under which—
 
 &emsp;"(A) an individual who makes an election under subsection (a) shall pay into the Civil Service Retirement and Disability Fund any employee contributions which would be required if such individual were a Congressional employee; and
 

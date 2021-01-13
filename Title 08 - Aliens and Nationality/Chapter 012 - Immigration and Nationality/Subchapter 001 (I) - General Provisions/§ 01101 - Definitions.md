@@ -12,7 +12,7 @@
 
 (5) The term "Attorney General" means the Attorney General of the United States.
 
-(6) The term "border crossing identification card" means a document of identity bearing that designation issued to an alien who is lawfully admitted for permanent residence, or to an alien who is a resident in foreign contiguous territory, by a consular officer or an immigration officer for the purpose of crossing over the borders between the United States and foreign contiguous territory in accordance with such conditions for its issuance and use as may be prescribed by regulations. Such regulations shall provide that (A) each such document include a biometric identifier (such as the fingerprint or handprint of the alien) that is machine readable and (B) an alien presenting a border crossing identification card is not permitted to cross over the border into the United States unlessthe biometric identifier contained on the card matches the appropriate biometric characteristic of the alien.
+(6) The term "border crossing identification card" means a document of identity bearing that designation issued to an alien who is lawfully admitted for permanent residence, or to an alien who is a resident in foreign contiguous territory, by a consular officer or an immigration officer for the purpose of crossing over the borders between the United States and foreign contiguous territory in accordance with such conditions for its issuance and use as may be prescribed by regulations. Such regulations shall provide that (A) each such document include a biometric identifier (such as the fingerprint or handprint of the alien) that is machine readable and (B) an alien presenting a border crossing identification card is not permitted to cross over the border into the United States unless the biometric identifier contained on the card matches the appropriate biometric characteristic of the alien.
 
 (7) The term "clerk of court" means a clerk of a naturalization court.
 
@@ -50,7 +50,7 @@
 
 &emsp;(A)(i) an ambassador, public minister, or career diplomatic or consular officer who has been accredited by a foreign government, recognized de jure by the United States and who is accepted by the President or by the Secretary of State, and the members of the alien's immediate family;
 
-&emsp;(ii) upon a basis of reciprocity, other officials and employees who have been accredited by a foreign government recognized de jure by the United States, who are accepted by the Secretary of State, and the members of their immediate families; and
+&emsp;(ii) upon a basis of reciprocity, other officials and employees who have been accredited by a foreign government recognized de jure by the United States, who are accepted by theSecretary of State, and the members of their immediate families; and
 
 &emsp;(iii) upon a basis of reciprocity, attendants, servants, personal employees, and members of their immediate families, of the officials and employees who have a nonimmigrant status under (i) and (ii) above;
 
@@ -76,9 +76,9 @@
 
 &emsp;(v) attendants, servants, and personal employees of any such representative, officer, or employee, and the members of the immediate families of such attendants, servants, and personal employees;
 
-&emsp;(H) an alien (i) \[(a) Repealed. Pub. L. 106–95, §2(c), Nov. 12, 1999, 113 Stat. 1316\] (b) subject to section 1182(j)(2) of this title, who is coming temporarily to the United States to perform services (other than services described in subclause (a) during the period in which such subclause applies and other than services described in subclause (ii)(a) or in subparagraph (O) or (P)) in a specialty occupation described in section 1184(i)(1) of this title or as a fashion model, who meets the requirements for the occupation specified in section 1184(i)(2) of this title or, in the case of a fashion model, is of distinguished merit and ability, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that the intending employer has filed with the Secretary an application under section 1182(n)(1) of this title, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c) who is coming temporarily to the United States to perform services as a registered nurse, who meets the qualifications described in section 1182(m)(1) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that an unexpired attestation is on file and in effect under section 1182(m)(2) of this title for the facility (as defined in section 1182(m)(6) of this title) for which the alien will perform the services; or (ii)(a) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States to perform agricultural labor or services, as defined by the Secretary of Labor in regulations and including agricultural labor defined in section 3121(g) of title 26, agriculture as defined in section 203(f) of title 29, and the pressing of apples for cider on a farm, of a temporary or seasonal nature, or (b) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States to perform other temporary service or labor if unemployed persons capable of performing such service or labor cannot be found in this country, but this clause shall not apply to graduates of medical schools coming to the United States to perform services as members of the medical profession; or (iii) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States as a trainee, other than to receive graduate medical education or training, in a training program that is not designed primarily to provide productive employment; and the alien spouse and minor children of any such alien specified in this paragraph if accompanying him or following to join him;
+&emsp;(H) an alien (i) \[(a) Repealed. Pub. L. 106–95, §2(c), Nov. 12, 1999, 113 Stat. 1316\] (b) subject to section 1182(j)(2) of this title, who is coming temporarily to the United States to perform services (other than services described in subclause (a) during the period in which such subclause applies and other than services described in subclause (ii)(a) or in subparagraph (O) or (P)) in a specialty occupation describedin section 1184(i)(1) of this title or as a fashion model, who meets the requirements for the occupation specified in section 1184(i)(2) of this title or, in the case of a fashion model, is of distinguished merit and ability, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that the intending employer has filed with the Secretary an application under section 1182(n)(1) of this title, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c) who is coming temporarily to the United States to perform services as a registered nurse, who meets the qualifications described in section 1182(m)(1) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Attorney General that an unexpired attestation is on file and in effect under section 1182(m)(2) of this title for the facility (as defined in section 1182(m)(6) of this title) for which the alien will perform the services; or (ii)(a) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States to perform agricultural labor or services, as defined by the Secretary of Labor in regulations and including agricultural labor defined in section 3121(g) of title 26, agriculture as defined in section 203(f) of title 29, and the pressing of apples for cider on a farm, of a temporary or seasonal nature, or (b) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States to perform other temporary service or labor if unemployed persons capable of performing such service or labor cannot be found in this country, but this clause shall not apply to graduates of medical schools coming to the United States to perform services as members of the medical profession; or (iii) having a residence in a foreign country which he has no intention of abandoning who is coming temporarily to the United States as a trainee, other than to receive graduate medical education or training, in a training program that is not designed primarily to provide productive employment; and the alien spouse and minor children of any such alien specified in this paragraph if accompanying him or following to join him;
 
-&emsp;(I) upon a basis of reciprocity, an alien who is a bona fide representative of foreign press,radio, film, or other foreign information media, who seeks to enter the United States solely to engage in such vocation, and the spouse and children of such a representative, if accompanying or following to join him;
+&emsp;(I) upon a basis of reciprocity, an alien who is a bona fide representative of foreign press, radio, film, or other foreign information media, who seeks to enter the United States solely to engage in such vocation, and the spouse and children of such a representative, if accompanying or following to join him;
 
 &emsp;(J) an alien having a residence in a foreign country which he has no intention of abandoning who is a bona fide student, scholar, trainee, teacher, professor, research assistant, specialist, or leader in a field of specialized knowledge or skill, or other person of similar description, who is coming temporarily to the United States as a participant in a program designated by the Director of the United States Information Agency, for the purpose of teaching, instructing or lecturing, studying, observing, conducting research, consulting, demonstrating special skills, or receiving training and who, if he is coming to the United States to participate in a program under which he will receive graduate medical education or training, also meets the requirements of section 1182(j) of this title, and the alien spouse and minor children of any such alien if accompanying him or following to join him;
 
@@ -92,7 +92,7 @@
 
 &emsp;(L) subject to section 1184(c)(2) of this title, an alien who, within 3 years preceding the time of his application for admission into the United States, has been employed continuously for one year by a firm or corporation or other legal entity or an affiliate or subsidiary thereof and who seeks to enter the United States temporarily in order to continue to render his services to the same employer or a subsidiary or affiliate thereof in a capacity that is managerial, executive, or involves specialized knowledge, and the alien spouse and minor children of any such alien if accompanying him or following to join him;
 
-&emsp;(M)(i) an alien having a residence in a foreign country which he has no intention of abandoning who seeks to enter the United States temporarily and solely for the purpose of pursuing a full course of study at an established vocational or other recognized nonacademic institution (other than in a language training program) in the United States particularly designated by him and approved by the Attorney General, after consultation with the Secretary of Education, which institution shall have agreed to report to the Attorney General the termination of attendance of each nonimmigrant nonacademic student and if any such institution fails to make reports promptly the approval shall be withdrawn, (ii) the alien spouse and minor children of any alien described in clause (i) if accompanying or following to join such an alien, and (iii) an alien who is a national of Canada or Mexico, who maintains actual residence and place of abode in the country of nationality, who is described in clause (i) except that the alien's course of study may be full or part-time, and who commutes to the United States institution or place of study from Canada or Mexico;
+&emsp;(M)(i) an alien having a residence in a foreign country which he has no intention of abandoning who seeks to enter the United States temporarily and solely for the purpose of pursuing a full course of study at an established vocational or other recognized nonacademic institution (other than in a language training program) in the United States particularly designated by him and approved by the Attorney General, after consultation with the Secretary of Education, which institution shall have agreed to report to the Attorney General the termination of attendance of each nonimmigrant nonacademic student and if any such institution fails to make reports promptly the approval shall be withdrawn, (ii) the alien spouse and minor children of any aliendescribed in clause (i) if accompanying or following to join such an alien, and (iii) an alien who is a national of Canada or Mexico, who maintains actual residence and place of abode in the country of nationality, who is described in clause (i) except that the alien's course of study may be full or part-time, and who commutes to the United States institution or place of study from Canada or Mexico;
 
 &emsp;(N)(i) the parent of an alien accorded the status of special immigrant under paragraph (27)(I)(i) (or under analogous authority under paragraph (27)(L)), but only if and while the alien is a child, or
 
@@ -224,7 +224,7 @@
 
 (24) Repealed. Pub. L. 102–232, title III, §305(m)(1), Dec. 12, 1991, 105 Stat. 1750.
 
-(25) The term "noncombatant service" shall not include service in which the individual isnot subject to military discipline, court martial, or does not wear the uniform of any branch of the armed forces.
+(25) The term "noncombatant service" shall not include service in which the individual is not subject to military discipline, court martial, or does not wear the uniform of any branch of the armed forces.
 
 (26) The term "nonimmigrant visa" means a visa properly issued to an alien as an eligible nonimmigrant by a competent officer as provided in this chapter.
 
@@ -252,7 +252,7 @@
 
 &emsp;(E) an immigrant, and his accompanying spouse and children, who is or has been an employee of the Panama Canal Company or Canal Zone Government before the date on which the Panama Canal Treaty of 1977 (as described in section 3602(a)(1) of title 22) enters into force \[October 1, 1979\], who was resident in the Canal Zone on the effective date of the exchange of instruments of ratification of such Treaty \[April 1, 1979\], and who has performed faithful service as such an employee for one year or more;
 
-&emsp;(F) an immigrant, and his accompanying spouse and children, who is a Panamanian national and (i) who, before the date on which such Panama Canal Treaty of 1977 enters into force \[October 1, 1979\], has been honorably retired from United States Government employment in the Canal Zone with a total of 15 years or more of faithful service, or (ii) who, on the date on which such Treaty enters into force, has been employed by the United States Government in the Canal Zone with a total of 15 years or more of faithful service and who subsequently is honorably retired from such employment or continues to be employed by the United States Government in an area of the former Canal Zone;
+&emsp;(F) an immigrant, and his accompanying spouse and children, who is a Panamanian national and (i) who, before the date on which such Panama Canal Treaty of 1977 enters intoforce \[October 1, 1979\], has been honorably retired from United States Government employment in the Canal Zone with a total of 15 years or more of faithful service, or (ii) who, on the date on which such Treaty enters into force, has been employed by the United States Government in the Canal Zone with a total of 15 years or more of faithful service and who subsequently is honorably retired from such employment or continues to be employed by the United States Government in an area of the former Canal Zone;
 
 &emsp;(G) an immigrant, and his accompanying spouse and children, who was an employee of the Panama Canal Company or Canal Zone Government on the effective date of the exchange of instruments of ratification of such Panama Canal Treaty of 1977 \[April 1, 1979\], who has performed faithful service for five years or more as such an employee, and whose personal safety, or the personal safety of whose spouse or children, as a direct result of such Treaty, is reasonably placed in danger because of the special nature of any of that employment;
 
@@ -390,7 +390,7 @@
 
 &emsp;(P) an offense (i) which either is falsely making, forging, counterfeiting, mutilating, or altering a passport or instrument in violation of section 1543 of title 18 or is described in section 1546(a) of such title (relating to document fraud) and (ii) for which the term of imprisonment is at least 12 months, except in the case of a first offense for which the alien has affirmatively shown that the alien committed the offense for the purpose of assisting, abetting, or aiding only the alien's spouse, child, or parent (and no other individual) to violate a provision of this chapter;
 
-&emsp;(Q) an offense relating to a failure to appear by a defendant for service of sentence if the underlying offense is punishable by imprisonment for a term of 5 years or more;
+&emsp;(Q) an offense relating to a failure to appear by a defendant for service of sentence if theunderlying offense is punishable by imprisonment for a term of 5 years or more;
 
 &emsp;(R) an offense relating to commercial bribery, counterfeiting, forgery, or trafficking in vehicles the identification numbers of which have been altered for which the term of imprisonment is at least one year;
 
@@ -484,7 +484,7 @@
 
 &emsp;(ii) subject to the same proviso as in clause (i), a child who: (I) is a natural sibling of a child described in clause (i) or subparagraph (F)(i); (II) was adopted by the adoptive parent or parents of the sibling described in such clause or subparagraph; and (III) is otherwise described in clause (i), except that the child was adopted while under the age of 18 years;
 
-&emsp;(F)(i) a child, under the age of sixteen at the time a petition is filed in his behalf to accorda classification as an immediate relative under section 1151(b) of this title, who is an orphan because of the death or disappearance of, abandonment or desertion by, or separation or loss from, both parents, or for whom the sole or surviving parent is incapable of providing the proper care and has in writing irrevocably released the child for emigration and adoption; who has been adopted abroad by a United States citizen and spouse jointly, or by an unmarried United States citizen who is at least 25 years of age, at least 1 of whom personally saw and observed the child before or during the adoption proceedings; or who is coming to the United States for adoption by a United States citizen and spouse jointly, or by an unmarried United States citizen at least twenty-five years of age, who have or has complied with the preadoption requirements, if any, of the child's proposed residence; <i>Provided</i>, That the Attorney General is satisfied that proper care will be furnished the child if admitted to the United States: <i>Provided further</i>, That no natural parent or prior adoptive parent of any such child shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this chapter; or
+&emsp;(F)(i) a child, under the age of sixteen at the time a petition is filed in his behalf to accord a classification as an immediate relative under section 1151(b) of this title, who is an orphan because of the death or disappearance of, abandonment or desertion by, or separation or loss from, both parents, or for whom the sole or surviving parent is incapable of providing the proper care and has in writing irrevocably released the child for emigration and adoption; who has been adopted abroad by a United States citizen and spouse jointly, or by an unmarried United States citizen who is at least 25 years of age, at least 1 of whom personally saw and observed the child before or during the adoption proceedings; or who is coming to the United States for adoption by a United States citizen and spouse jointly, or by an unmarried United States citizen at least twenty-five years of age, who have or has complied with the preadoption requirements, if any, of the child's proposed residence; <i>Provided</i>, That the Attorney General is satisfied that proper care will be furnished the child if admitted to the United States: <i>Provided further</i>, That no natural parent or prior adoptive parent of any such child shall thereafter, by virtue of such parentage, be accorded any right, privilege, or status under this chapter; or
 
 &emsp;(ii) subject to the same provisos as in clause (i), a child who: (I) is a natural sibling of a child described in clause (i) or subparagraph (E)(i); (II) has been adopted abroad, or is coming to the United States for adoption, by the adoptive parent (or prospective adoptive parent) or parents of the sibling described in such clause or subparagraph; and (III) is otherwise described in clause (i), except that the child is under the age of 18 at the time a petition is filed in his or her behalf to accord a classification as an immediate relative under section 1151(b) of this title; or
 
@@ -578,11 +578,13 @@ The fact that any person is not within any of the foregoing classes shall not pr
 
 &emsp;(2) the Secretary of Homeland Security shall, during the period the alien is in lawful temporary resident status under that subsection, grant the alien authorization to engage in employment in the United States and provide the alien with an "employment authorized" endorsement or other appropriate work permit.
 
-(June 27, 1952, ch. 477, title I, §101, 66 Stat. 166; Pub. L. 85–316, §§1, 2, Sept. 11, 1957, 71 Stat. 639; Pub. L. 85–508, §22, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(a), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–256, §109(a), (b), Sept. 21, 1961, 75 Stat. 534; Pub. L. 87–301, §§1, 2, 7, Sept. 26, 1961, 75 Stat. 650, 653; Pub. L. 89–236, §§8, 24, Oct. 3, 1965, 79 Stat. 916, 922; Pub. L. 89–710, Nov. 2, 1966, 80 Stat. 1104; Pub. L. 91–225, §1, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–155, Dec. 16, 1975, 89 Stat. 824; Pub. L. 94–484, title VI, §601(b), (e), Oct. 12, 1976, 90 Stat. 2301, 2302; Pub. L. 94–571, §7(a), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 94–484, title VI, §602(c), Oct. 12, 1976, as added Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395; Pub. L. 95–105, title I, §109(b)(3), Aug. 17, 1977, 91 Stat. 847; Pub. L. 96–70, title III, §3201(a), Sept. 27, 1979, 93 Stat. 496; Pub. L. 96–212, title II, §201(a), Mar. 17, 1980, 94 Stat. 102; Pub. L. 97–116, §§2, 5(d)(1), 18(a), Dec. 29, 1981, 95 Stat. 1611, 1614, 1619; Priv. L. 98–47, §3, Oct. 30, 1984, 98 Stat. 3435; Pub. L. 99–505, §1, Oct. 21, 1986, 100 Stat. 1806; Pub. L. 99–603, title III, §§301(a), 312, 315(a), Nov. 6, 1986, 100 Stat. 3411, 3434, 3439; Pub. L. 99–653, §§2, 3, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–459, title II, §210(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §§2(o)(1), 8(b), 9(a), Oct. 24, 1988, 102 Stat. 2613, 2617, 2619; Pub. L. 100–690, title VII, §7342, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 101–162, title VI, §611(a), Nov. 21, 1989, 103 Stat. 1038; Pub. L. 101–238, §3(a), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(b), Feb. 16, 1990, 104 Stat. 31; Pub. L. 101–649, title I, §§123, 151(a), 153(a), 162(f)(2)(A), title II, §§203(c), 204(a), (c), 205(c)(1), (d), (e), 206(c), 207(a), 208, 209(a), title IV, §407(a)(2), title V, §§501(a), 509(a), title VI, §603(a)(1), Nov. 29, 1990, 104 Stat. 4995, 5004, 5005, 5012, 5018–5020, 5022, 5023, 5026, 5027, 5040, 5048, 5051, 5082; Pub. L. 102–110, §2(a), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title II, §§203(a), 205(a)–(c), 206(b), (c)(1), (d), 207(b), title III, §§302(e)(8)(A), 303(a)(5)(A), (7)(A), (14), 305(m)(1), 306(a)(1), 309(b)(1), (4), Dec. 12, 1991, 105 Stat. 1737, 1740, 1741, 1746–1748, 1750, 1751, 1758; Pub. L. 103–236, title I, §162(h)(1), Apr. 30, 1994, 108 Stat. 407; Pub. L. 103–322, title XIII, §130003(a), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–337, div. C, title XXXVI, §3605, Oct. 5, 1994, 108 Stat. 3113; Pub. L. 103–416, title II, §§201, 202, 214, 219(a), 222(a), Oct. 25, 1994, 108 Stat. 4310, 4311, 4314, 4316, 4320; Pub. L. 104–51, §1, Nov. 15, 1995, 109 Stat. 467; Pub. L. 104–132, title IV, §440(b), (e), Apr. 24, 1996, 110 Stat. 1277; Pub. L. 104–208, div. C, title I, §104(a), title III, §§301(a), 308(d)(3)(A), (4)(A), (e)(3), (f)(1)(A), (B), 321(a), (b), 322(a)(1), (2)(A), 361(a), 371(a), title VI, §§601(a)(1), 625(a)(2), 671(a)(3)(B), (b)(5), (e)(2), Sept. 30, 1996, 110 Stat. 3009–555, 3009–575, 3009–617, 3009–620, 3009–621, 3009–627 to 3009–629, 3009–644, 3009–645, 3009–689, 3009–700, 3009–721 to 3009–723; Pub. L. 105–54, §1(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 105–119, title I, §113, Nov. 26, 1997, 111 Stat. 2460; Pub. L. 105–277, div. C, title IV, §421, div. G, title XXII, §2222(e), Oct. 21, 1998, 112 Stat. 2681–657, 2681–819; Pub. L. 105–319, §2(b)(1), (e)(2), formerly (d)(2), Oct. 30, 1998, 112 Stat. 3014, 3015, renumbered §2(e)(2), Pub. L. 108–449, §1(a)(3)(A), Dec. 10, 2004, 118 Stat. 3470; Pub. L. 106–95, §2(a), (c), Nov. 12, 1999, 113 Stat. 1312, 1316; Pub. L. 106–139, §1(a), (b)(1), Dec. 7, 1999, 113 Stat. 1696; Pub. L. 106–279, title III, §302(a), (c), Oct. 6, 2000, 114 Stat. 838, 839; Pub. L. 106–386, div. A, §107(e)(1), (4), div. B, title V, §§1503(a), §1513(b), Oct. 28, 2000, 114 Stat. 1477, 1479, 1518, 1534; Pub. L. 106–395, title II, §201(a)(1), Oct. 30, 2000, 114 Stat. 1633; Pub. L. 106–409, §2(a), Nov. 1, 2000, 114 Stat. 1787; Pub. L. 106–536, §1(a), Nov. 22, 2000, 114 Stat. 2560; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(a), 1103(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144; Pub. L. 107–125, §2(b), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–274, §2(a), (b), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §402(a)(1), Sept. 3, 2003, 117 Stat. 939; Pub. L. 108–99, §1, Oct. 15, 2003, 117 Stat. 1176; Pub. L. 108–193, §§4(b)(1), (5), 8(a)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, 2886; Pub. L. 108–449, §1(a)(2)(B), (b)(1), Dec. 10, 2004, 118 Stat. 3469, 3470; Pub. L. 108–458, title V, §5504, Dec. 17, 2004, 118 Stat. 3741; Pub. L. 109–13, div. B, title V, §501(a), May 11, 2005, 119 Stat. 321; Pub. L. 109–90, title V, §536, Oct. 18, 2005, 119 Stat. 2087; Pub. L. 109–162, title VIII, §§801, 805(d), 811, 822(c)(1), Jan. 5, 2006, 119 Stat. 3053, 3056, 3057, 3063; Pub. L. 109–248, title IV, §402(b), July 27, 2006, 120 Stat. 623; Pub. L. 110–229, title VII, §702(j)(1)–(3), May 8, 2008, 122 Stat. 866; Pub. L. 110–391, §2(a), Oct. 10, 2008, 122 Stat. 4193; Pub. L. 110–457, title II, §§201(a), 235(d)(1), Dec. 23, 2008, 122 Stat. 5052, 5079; Pub. L. 111–9, §1, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, §568(a)(1), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 111–287, §3, Nov. 30, 2010, 124 Stat. 3058; Pub. L. 111–306, §1(a), Dec. 14, 2010, 124 Stat. 3280; Pub. L. 112–176, §3, Sept. 28, 2012, 126 Stat. 1325; Pub. L. 113–4, title VIII, §801, title XII, §§1221, 1222, Mar. 7, 2013, 127 Stat. 110, 144; Pub. L. 113–76, div. K, title VII, §7083, Jan. 17, 2014, 128 Stat. 567.)
+(June 27, 1952, ch. 477, title I, §101, 66 Stat. 166; Pub. L. 85–316, §§1, 2, Sept. 11, 1957, 71 Stat. 639; Pub. L. 85–508, §22, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(a), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–256, §109(a), (b), Sept. 21, 1961, 75 Stat. 534; Pub. L. 87–301, §§1, 2, 7, Sept. 26, 1961, 75 Stat. 650, 653; Pub. L. 89–236, §§8, 24, Oct. 3, 1965, 79 Stat. 916, 922; Pub. L. 89–710, Nov. 2, 1966, 80 Stat. 1104; Pub. L. 91–225, §1, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–155, Dec. 16, 1975, 89 Stat. 824; Pub. L. 94–484, title VI, §601(b), (e), Oct. 12, 1976, 90 Stat. 2301, 2302; Pub. L. 94–571, §7(a), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 94–484, title VI, §602(c), Oct. 12, 1976, as added Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395; Pub. L. 95–105, title I, §109(b)(3), Aug. 17, 1977, 91 Stat. 847; Pub. L. 96–70, title III, §3201(a), Sept. 27, 1979, 93 Stat. 496; Pub. L. 96–212, title II, §201(a), Mar. 17, 1980, 94 Stat. 102; Pub. L. 97–116, §§2, 5(d)(1), 18(a), Dec. 29, 1981, 95 Stat. 1611, 1614, 1619; Priv. L. 98–47, §3, Oct. 30, 1984, 98 Stat. 3435; Pub. L. 99–505, §1, Oct. 21, 1986, 100 Stat. 1806; Pub. L. 99–603, title III, §§301(a), 312, 315(a), Nov. 6, 1986, 100 Stat. 3411, 3434, 3439; Pub. L. 99–653, §§2, 3, Nov. 14, 1986, 100 Stat. 3655; Pub. L. 100–459, title II, §210(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §§2(o)(1), 8(b), 9(a), Oct. 24, 1988, 102 Stat. 2613, 2617, 2619; Pub. L. 100–690, title VII, §7342, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 101–162, title VI, §611(a), Nov. 21, 1989, 103 Stat. 1038; Pub. L. 101–238, §3(a), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(b), Feb. 16, 1990, 104 Stat. 31; Pub. L. 101–649, title I, §§123, 151(a), 153(a), 162(f)(2)(A), title II, §§203(c), 204(a), (c), 205(c)(1), (d), (e), 206(c), 207(a), 208, 209(a), title IV, §407(a)(2), title V, §§501(a), 509(a), title VI, §603(a)(1), Nov. 29, 1990, 104 Stat. 4995, 5004, 5005, 5012, 5018–5020, 5022, 5023, 5026, 5027, 5040, 5048, 5051, 5082; Pub. L. 102–110, §2(a), Oct. 1, 1991, 105 Stat. 555; Pub. L. 102–232, title II, §§203(a), 205(a)–(c), 206(b), (c)(1), (d), 207(b), title III, §§302(e)(8)(A), 303(a)(5)(A), (7)(A), (14), 305(m)(1), 306(a)(1), 309(b)(1), (4), Dec. 12, 1991, 105 Stat. 1737, 1740, 1741, 1746–1748, 1750, 1751, 1758; Pub. L. 103–236, title I, §162(h)(1), Apr. 30, 1994, 108 Stat. 407; Pub. L. 103–322, title XIII, §130003(a), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–337, div. C, title XXXVI, §3605, Oct. 5, 1994, 108 Stat. 3113; Pub. L. 103–416, title II, §§201, 202, 214, 219(a), 222(a), Oct. 25, 1994, 108 Stat. 4310, 4311, 4314, 4316, 4320; Pub. L. 104–51, §1, Nov. 15, 1995, 109 Stat. 467; Pub. L. 104–132, title IV, §440(b), (e), Apr. 24, 1996, 110 Stat. 1277; Pub. L. 104–208, div. C, title I, §104(a), title III, §§301(a), 308(d)(3)(A), (4)(A), (e)(3), (f)(1)(A), (B), 321(a), (b), 322(a)(1), (2)(A), 361(a), 371(a), title VI, §§601(a)(1), 625(a)(2), 671(a)(3)(B), (b)(5), (e)(2), Sept. 30, 1996, 110 Stat. 3009–555, 3009–575, 3009–617, 3009–620, 3009–621, 3009–627 to 3009–629, 3009–644, 3009–645, 3009–689, 3009–700, 3009–721 to 3009–723; Pub. L. 105–54, §1(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 105–119, title I, §113, Nov. 26, 1997, 111 Stat. 2460; Pub. L. 105–277, div. C, title IV, §421, div. G, title XXII, §2222(e), Oct. 21, 1998, 112 Stat. 2681–657, 2681–819; Pub. L. 105–319, §2(b)(1), (e)(2), formerly (d)(2), Oct. 30, 1998, 112 Stat. 3014, 3015, renumbered §2(e)(2), Pub. L. 108–449, §1(a)(3)(A), Dec. 10, 2004, 118 Stat. 3470; Pub. L. 106–95, §2(a), (c), Nov. 12, 1999, 113 Stat. 1312, 1316; Pub. L. 106–139, §1(a),\(b)(1), Dec. 7, 1999, 113 Stat. 1696; Pub. L. 106–279, title III, §302(a), (c), Oct. 6, 2000, 114 Stat. 838, 839; Pub. L. 106–386, div. A, §107(e)(1), (4), div. B, title V, §§1503(a), §1513(b), Oct. 28, 2000, 114 Stat. 1477, 1479, 1518, 1534; Pub. L. 106–395, title II, §201(a)(1), Oct. 30, 2000, 114 Stat. 1633; Pub. L. 106–409, §2(a), Nov. 1, 2000, 114 Stat. 1787; Pub. L. 106–536, §1(a), Nov. 22, 2000, 114 Stat. 2560; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(a), 1103(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–142, 2762A–144; Pub. L. 107–125, §2(b), Jan. 16, 2002, 115 Stat. 2403; Pub. L. 107–274, §2(a), (b), Nov. 2, 2002, 116 Stat. 1923; Pub. L. 108–77, title IV, §402(a)(1), Sept. 3, 2003, 117 Stat. 939; Pub. L. 108–99, §1, Oct. 15, 2003, 117 Stat. 1176; Pub. L. 108–193, §§4(b)(1), (5), 8(a)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, 2886; Pub. L. 108–449, §1(a)(2)(B), (b)(1), Dec. 10, 2004, 118 Stat. 3469, 3470; Pub. L. 108–458, title V, §5504, Dec. 17, 2004, 118 Stat. 3741; Pub. L. 109–13, div. B, title V, §501(a), May 11, 2005, 119 Stat. 321; Pub. L. 109–90, title V, §536, Oct. 18, 2005, 119 Stat. 2087; Pub. L. 109–162, title VIII, §§801, 805(d), 811, 822(c)(1), Jan. 5, 2006, 119 Stat. 3053, 3056, 3057, 3063; Pub. L. 109–248, title IV, §402(b), July 27, 2006, 120 Stat. 623; Pub. L. 110–229, title VII, §702(j)(1)–(3), May 8, 2008, 122 Stat. 866; Pub. L. 110–391, §2(a), Oct. 10, 2008, 122 Stat. 4193; Pub. L. 110–457, title II, §§201(a), 235(d)(1), Dec. 23, 2008, 122 Stat. 5052, 5079; Pub. L. 111–9, §1, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, §568(a)(1), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 111–287, §3, Nov. 30, 2010, 124 Stat. 3058; Pub. L. 111–306, §1(a), Dec. 14, 2010, 124 Stat. 3280; Pub. L. 112–176, §3, Sept. 28, 2012, 126 Stat. 1325; Pub. L. 113–4, title VIII, §801, title XII, §§1221, 1222, Mar. 7, 2013, 127 Stat. 110, 144; Pub. L. 113–76, div. K, title VII, §7083, Jan. 17, 2014, 128 Stat. 567.)
 
 #### Amendment of Subsection (a)(15)(H)(i)
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -592,7 +594,7 @@ The Headquarters Agreement with the United Nations (61 Stat. 758), referred to i
 
 Section 1184(l) of this title, referred to in subsec. (a)(15)(F)(i), probably means the subsec. (l) of section 1184 which relates to nonimmigrant elementary and secondary school students and was added by Pub. L. 104–208, div. C, title VI, §625(a)(1), Sept. 30, 1996, 110 Stat. 3009–699, and redesignated subsec. (m) of section 1184 by Pub. L. 106–386, div. A, §107(e)(2)(A), Oct. 28, 2000, 114 Stat. 1478.
 
-The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (a)(15)(G)(i), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. Forcomplete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (a)(15)(G)(i), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Subsection (p) of section 1184 of this title, referred to in subsec. (a)(15)(K), was redesignated as subsec. (r) of section 1184 by Pub. L. 108–193, §8(a)(3), Dec. 19, 2003, 117 Stat. 2886.
 
@@ -632,7 +634,7 @@ Subsec. (a)(15)(U)(iii). Pub. L. 113–4, §§801, 1222, inserted "stalking;" af
 
 Subsec. (a)(52). Pub. L. 111–306, §1(a)(2), added par. (52).
 
-Subsec. (b)(1)(G). Pub. L. 111–287 amended subpar. (G) generally. Prior to amendment, subpar. (G) provided that the term "child" includes a child who is migrating from certain foreign states to the United States to be adopted if the Attorney General is satisfied that certain criteria are met.
+Subsec. (b)(1)(G). Pub. L. 111–287 amended subpar. (G) generally. Prior to amendment, subpar. (G) providedthat the term "child" includes a child who is migrating from certain foreign states to the United States to be adopted if the Attorney General is satisfied that certain criteria are met.
 
 <b>2009</b>—Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 111–83 substituted "September 30, 2012," for "September 30, 2009,".
 
@@ -664,7 +666,7 @@ Subsec. (a)(27)(J)(iii)(I). Pub. L. 110–457, §235(d)(1)(B)(ii), substituted "
 
 Subsec. (a)(36), (38). Pub. L. 110–229, §702(j)(2), (3), substituted "the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands" for "and the Virgin Islands of the United States".
 
-<b>2006</b>—Subsec. (a)(15)(K)(i), (ii). Pub. L. 109–248, which directed insertion of "(other than a citizen described in section 1154(a)(1)(A)(viii)(I) of this title)" after "citizen of the United States" each place appearing in section 101(a)(15)(K), without specifying the Act to be amended, was executed to subsec. (a)(15)(K) of this section, whichis section 101 of the Immigration and Nationality Act, to reflect the probable intent of Congress.
+<b>2006</b>—Subsec. (a)(15)(K)(i), (ii). Pub. L. 109–248, which directed insertion of "(other than a citizen described in section 1154(a)(1)(A)(viii)(I) of this title)" after "citizen of the United States" each place appearing in section 101(a)(15)(K), without specifying the Act to be amended, was executed to subsec. (a)(15)(K) of this section, which is section 101 of the Immigration and Nationality Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(15)(T)(i). Pub. L. 109–162, §801(a)(1)(A), substituted "Secretary of Homeland Security, or in the case of subclause (III)(aa) the Secretary of Homeland Security and the Attorney General jointly;" for "Attorney General".
 
@@ -708,7 +710,7 @@ Pub. L. 108–449, §1(a)(2)(B), amended Pub. L. 105–319, §2(d)(2). See 1998 
 
 Subsec. (f)(9). Pub. L. 108–458 added par. (9).
 
-<b>2003</b>—Subsec. (a)(15)(H)(i). Pub. L. 108–77, §§107(c), 402(a)(1), temporarily substituted "1182(n)(1) of this title, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c)" for "1182(n)(1) of this title, or (c)". See Effective and Termination Dates of 2003 Amendment note below.
+<b>2003</b>—Subsec. (a)(15)(H)(i). Pub. L. 108–77, §§107(c), 402(a)(1), temporarily substituted "1182(n)(1) of thistitle, or (b1) who is entitled to enter the United States under and in pursuance of the provisions of an agreement listed in section 1184(g)(8)(A) of this title, who is engaged in a specialty occupation described in section 1184(i)(3) of this title, and with respect to whom the Secretary of Labor determines and certifies to the Secretary of Homeland Security and the Secretary of State that the intending employer has filed with the Secretary of Labor an attestation under section 1182(t)(1) of this title, or (c)" for "1182(n)(1) of this title, or (c)". See Effective and Termination Dates of 2003 Amendment note below.
 
 Subsec. (a)(15)(T). Pub. L. 108–193, §8(a)(1)(A), (B), substituted "1184(o) of this title," for "1184(n) of this title," and realigned margins.
 
@@ -802,7 +804,7 @@ Subsec. (a)(43)(F). Pub. L. 104–208, §322(a)(2)(A), struck out "imposed (rega
 
 Pub. L. 104–208, §321(a)(3), substituted "at least one year" for "is at least 5 years".
 
-Subsec. (a)(43)(G). Pub. L. 104–208, §322(a)(2)(A), which directed amendment of subpar. (G) by striking out "imposed (regardless of any suspension of imprisonment)", was executed by striking out "imposed (regardless ofany suspension of such imprisonment)" after "term of imprisonment" to reflect the probable intent of Congress.
+Subsec. (a)(43)(G). Pub. L. 104–208, §322(a)(2)(A), which directed amendment of subpar. (G) by striking out "imposed (regardless of any suspension of imprisonment)", was executed by striking out "imposed (regardless of any suspension of such imprisonment)" after "term of imprisonment" to reflect the probable intent of Congress.
 
 Pub. L. 104–208, §321(a)(3), substituted "at least one year" for "is at least 5 years".
 
@@ -850,7 +852,7 @@ Pub. L. 104–132, §440(e)(5), substituted "5 years or more;" for "15 years or 
 
 Subsec. (a)(43)(Q). Pub. L. 104–132, §440(e)(6), redesignated subpar. (P) as (Q). Former subpar. (Q) redesignated (U).
 
-Subsec. (a)(43)(R). Pub. L. 104–208, §321(a)(10), substituted "for which the term of imprisonment is at least one year" for "for which a sentence of 5 years' imprisonment or more may be imposed".
+Subsec. (a)(43)(R). Pub. L. 104–208, §321(a)(10), substituted "for which the term of imprisonment is atleast one year" for "for which a sentence of 5 years' imprisonment or more may be imposed".
 
 Pub. L. 104–132, §440(e)(8), added subpar. (R).
 
@@ -896,7 +898,7 @@ Subsec. (a)(27)(I)(iii)(II). Pub. L. 103–416, §202, added subcl. (II) and str
 
 Subsec. (a)(27)(J)(i). Pub. L. 103–416, §219(a), substituted "or whom such a court has legally committed to, or placed under the custody of, an agency or department of a State and who has" for "and has" before "been deemed".
 
-Subsec. (a)(43). Pub. L. 103–416, §222(a), amended par. (43) generally. Prior to amendment, par. (43) read as follows: "The term 'aggravated felony' means murder, any illicit trafficking in any controlled substance (as defined in section 802 of title 21), including any drugtrafficking crime as defined in section 924(c)(2) of title 18, or any illicit trafficking in any firearms or destructive devices as defined in section 921 of such title, any offense described in section 1956 of title 18 (relating to laundering of monetary instruments), or any crime of violence (as defined in section 16 of title 18, not including a purely political offense) for which the term of imprisonment imposed (regardless of any suspension of such imprisonment) is at least 5 years, or any attempt or conspiracy to commit any such act. Such term applies to offenses described in the previous sentence whether in violation of Federal or State law and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years."
+Subsec. (a)(43). Pub. L. 103–416, §222(a), amended par. (43) generally. Prior to amendment, par. (43) read as follows: "The term 'aggravated felony' means murder, any illicit trafficking in any controlled substance (as defined in section 802 of title 21), including any drug trafficking crime as defined in section 924(c)(2) of title 18, or any illicit trafficking in any firearms or destructive devices as defined in section 921 of such title, any offense described in section 1956 of title 18 (relating to laundering of monetary instruments), or any crime of violence (as defined in section 16 of title 18, not including a purely political offense) for which the term of imprisonment imposed (regardless of any suspension of such imprisonment) is at least 5 years, or any attempt or conspiracy to commit any such act. Such term applies to offenses described in the previous sentence whether in violation of Federal or State law and also applies to offenses described in the previous sentence in violation of foreign law for which the term of imprisonment was completed within the previous 15 years."
 
 <b>1991</b>—Subsec. (a)(15)(D)(i). Pub. L. 102–232, §309(b)(1), inserted a comma after "States)".
 
@@ -1052,7 +1054,7 @@ Subsec. (f). Pub. L. 97–116, §2(c), struck out par. (2) which provided that a
 
 Subsec. (a)(41). Pub. L. 95–83 inserted "a" after "graduates of" and ", other than such aliens who are of national or international renown in the field of medicine" after "in a foreign state".
 
-<b>1976</b>—Subsec. (a)(15)(H)(i). Pub. L. 94–484, §601(b)(1), inserted ", and who, in the case of a graduate of a medical school coming to the United States to performservices as a member of the medical profession, is coming pursuant to an invitation from a public or nonprofit private educational or research institution or agency in the United States to teach or conduct research, or both, at or for such institution or agency".
+<b>1976</b>—Subsec. (a)(15)(H)(i). Pub. L. 94–484, §601(b)(1), inserted ", and who, in the case of a graduate of a medical school coming to the United States to perform services as a member of the medical profession, is coming pursuant to an invitation from a public or nonprofit private educational or research institution or agency in the United States to teach or conduct research, or both, at or for such institution or agency".
 
 Subsec. (a)(15)(H)(ii). Pub. L. 94–484, §601(b)(2), inserted ", but this clause shall not apply to graduates of medical schools coming to the United States to perform services as members of the medical profession".
 
@@ -1099,6 +1101,8 @@ Subsec. (d)(2). Pub. L. 87–301, §7(b), inserted definition of "Korean hostili
 #### Change of Name
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of Title 22, Foreign Relations and Intercourse. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -1256,7 +1260,7 @@ Transitional rules with regard to suspension of deportation.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraphs (B) and (C), paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act \[8 U.S.C. 1229b(d)(1), (2)\] (relating to continuous residence or physical presence) shall apply to orders to show cause (including those referred to in section 242B(a)(1) of the Immigration and Nationality Act \[former 8 U.S.C. 1252b(a)(1)\], as in effect before the title III–A effective date), issued before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].
+In general.—Subject to subparagraphs (B) and (C), paragraphs (1) and (2) of section 240A(d) of the Immigration and Nationality Act \[8 U.S.C. 1229b(d)(1), (2)\] (relating to continuous residence or physical presence) shall apply to orders to show cause (including those referred to in section 242B(a)(1) of the Immigration and Nationality Act\[former 8 U.S.C. 1252b(a)(1)\], as in effect before the title III–A effective date), issued before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\].
 
 &emsp;&emsp;"(B)
 
@@ -1448,7 +1452,7 @@ Pub. L. 101–649, title I, §161, Nov. 29, 1990, 104 Stat. 5008, as amended by 
 
 "(a)
 
-In General.—Except as otherwise provided in this title, this title and the amendments made by this title \[enacting section 1186b of this title, amending this section, sections 1103, 1151 to 1154, 1157, 1159, 1182, 1251, 1254, 1255, and 1325 of this title, section 3304 of Title 26, Internal Revenue Code, and section 1382c of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1152, 1153, 1159, 1182, 1201, and 1251 of this title, and amending provisions set out as notes under section 1255 of this title\] shall take effect on October 1, 1991, and apply beginning with fiscal year 1992.
+In General.—Except as otherwise provided in this title, this title and the amendments made by this title \[enacting section 1186b of this title, amending this section, sections 1103, 1151 to 1154, 1157, 1159, 1182, 1251, 1254, 1255, and 1325 of this title, section 3304 of Title 26,Internal Revenue Code, and section 1382c of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 1152, 1153, 1159, 1182, 1201, and 1251 of this title, and amending provisions set out as notes under section 1255 of this title\] shall take effect on October 1, 1991, and apply beginning with fiscal year 1992.
 
 "(b)
 
@@ -1484,7 +1488,7 @@ General Transitions.—
 
 > &emsp;In the case of a petition filed under section 204(a) of such Act before October 1, 1991, but which is not described in paragraph (4), and for which a filing fee was paid, any additional filing fee shall not exceed one-half of the fee for the filing of the new petition referred to in subparagraph (A).
 
-&emsp;"(2) Any petition filed under section 204(a) of the Immigration and Nationality Act before October 1, 1991, for preference status under section 203(a)(4) orsection 203(a)(5) of such Act (as in effect before such date) shall be deemed, as of such date, to be a petition filed under such section for preference status under section 203(a)(3) or section 203(a)(4), respectively, of such Act (as amended by this title).
+&emsp;"(2) Any petition filed under section 204(a) of the Immigration and Nationality Act before October 1, 1991, for preference status under section 203(a)(4) or section 203(a)(5) of such Act (as in effect before such date) shall be deemed, as of such date, to be a petition filed under such section for preference status under section 203(a)(3) or section 203(a)(4), respectively, of such Act (as amended by this title).
 
 &emsp;"(3) In the case of an alien who is described in section 203(a)(8) of the Immigration and Nationality Act (as in effect before October 1, 1991) as the spouse or child of an alien admitted for permanent residence as a preference immigrant under section 203(a)(3) or 203(a)(6) of such Act (as in effect before such date) and who would be entitled to enter the United States under such section 203(a)(8) but for the amendments made by this title \[see subsec. (a) above\], such an alien shall be deemed to be described in section 203(d) of such Act as the spouse or child of an alien described in section 203(b)(2) or 203(b)(3)(A)(i), respectively, of such Act with the same priority date as that of the principal alien.
 
@@ -1510,7 +1514,7 @@ Pub. L. 101–649, title II, §203(d), Nov. 29, 1990, 104 Stat. 5019, provided t
 
 Pub. L. 101–649, title II, §231, Nov. 29, 1990, 104 Stat. 5028, provided that: "Except as otherwise provided in this title, this title, and the amendments made by this title \[enacting section 1288 of this title, amending this section and sections 1182, 1184, 1187, 1281, and 1323 of this title, and enacting provisions set out as notes under this section and sections 1182, 1184, 1187, and 1288 of this title\], shall take effect on October 1, 1991, except that sections 222 and 223 \[enacting provisions set out as notes under this section\] shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\]."
 
-Amendment by section 407(a)(2) of Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions, see section 408(a)(3), (d) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment; Savings Provisions note under section 1421 of this title.
+Amendment by section 407(a)(2) of Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions,see section 408(a)(3), (d) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment; Savings Provisions note under section 1421 of this title.
 
 Pub. L. 101–649, title V, §501(b), Nov. 29, 1990, 104 Stat. 5048, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to offenses committed on or after the date of the enactment of this Act \[Nov. 29, 1990\], except that the amendments made by paragraphs (2) and (5) of subsection (a) shall be effective as if included in the enactment of section 7342 of the Anti-Drug Abuse Act of 1988 \[Pub. L. 100–690\]."
 
@@ -1532,7 +1536,7 @@ Pub. L. 101–162, title VI, §611(b), Nov. 21, 1989, 103 Stat. 1039, provided t
 
 Pub. L. 100–525, §2(s), Oct. 24, 1988, 102 Stat. 2614, provided that: "The amendments made by this section \[amending this section, sections 1160, 1161, 1184, 1186, 1187, 1188, 1251, 1254, 1255, 1255a, 1259, 1324, 1324a, 1324b, and 1357 of this title, section 1546 of Title 18, Crimes and Criminal Procedure, and section 1091 of Title 20, Education, amending provisions set out as notes under this section and sections 1188 and 1255a of this title and section 1802 of Title 29, Labor, and repealing provisions set out as a note under section 1255a of this title\] shall be effective as if they were included in the enactment of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603\]."
 
-Pub. L. 102–232, title III, §309(b)(15), Dec. 12, 1991, 105 Stat. 1759, provided that: "The amendments made by section 8 of the Immigration Technical Corrections Actof 1988 \[Pub. L. 100–525, amending this section, sections 1152, 1182, 1201 to 1202, 1301, 1302, 1304, 1356, 1409, 1431 to 1433, 1452, 1481, and 1483 of this title, and section 4195 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, sections 1153, 1201, 1401, 1409, 1451, and 1481 of this title, and section 4195 of Title 22, and amending provisions set out as notes under this section and section 1153 of this title\] shall be effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986 (Public Law 99–653)."
+Pub. L. 102–232, title III, §309(b)(15), Dec. 12, 1991, 105 Stat. 1759, provided that: "The amendments made by section 8 of the Immigration Technical Corrections Act of 1988 \[Pub. L. 100–525, amending this section, sections 1152, 1182, 1201 to 1202, 1301, 1302, 1304, 1356, 1409, 1431 to 1433, 1452, 1481, and 1483 of this title, and section 4195 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, sections 1153, 1201, 1401, 1409, 1451, and 1481 of this title, and section 4195 of Title 22, and amending provisions set out as notes under this section and section 1153 of this title\] shall be effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986 (Public Law 99–653)."
 
 Pub. L. 100–459, title II, §210(b), Oct. 1, 1988, 102 Stat. 2203, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 315 of the Immigration Reform and Control Act of 1986 \[Pub. L. 99–603\] and shall expire on October 1, 1989."
 
@@ -1584,7 +1588,7 @@ Pub. L. 96–70, title III, §3201(d)(1), Sept. 27, 1979, 93 Stat. 497, provided
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 94–484, title VI, §602(d), as added by Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, provided that: "This section \[amending this section and enacting provisions set out as a note under section 1182 of this title\] and the amendment made by subsection (c) \[amending this section\] are effective January 10, 1977, and the amendments made by subsections (b)(4)and (d) of section 601 \[amending this section and section 1182 of this title\] shall apply only on and after January 10, 1978, notwithstanding subsection (f) of such section \[set out as an Effective Date of 1976 Amendments note under section 1182 of this title\]."
+Pub. L. 94–484, title VI, §602(d), as added by Pub. L. 95–83, title III, §307(q)(3), Aug. 1, 1977, 91 Stat. 395, provided that: "This section \[amending this section and enacting provisions set out as a note under section 1182 of this title\] and the amendment made by subsection (c) \[amending this section\] are effective January 10, 1977, and the amendments made by subsections (b)(4) and (d) of section 601 \[amending this section and section 1182 of this title\] shall apply only on and after January 10, 1978, notwithstanding subsection (f) of such section \[set out as an Effective Date of 1976 Amendments note under section 1182 of this title\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -1601,6 +1605,12 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 #### Effective Date
 
 Act June 27, 1952, ch. 477, title IV, §407, 66 Stat. 281, provided that: "Except as provided in subsection (k) of section 401 \[former section 1106(k) of this title\], this Act \[this chapter\] shall take effect at 12:01 ante meridian United States Eastern Standard Time on the one hundred eightieth day immediately following the date of its enactment \[June 27, 1952\]."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–159, div. D, title I, §4101, Oct. 1, 2020, 134 Stat. 738, provided that: "This title \[amending section 1356 of this title and enacting provisions set out as notes under sections 1103 and 1356 of this title\] may be cited as the 'Emergency Stopgap USCIS Stabilization Act'."
+
+Pub. L. 116–133, §1, Mar. 26, 2020, 134 Stat. 274, provided that: "This Act \[amending section 1431 of this title\] may be cited as the 'Citizenship for Children of Military Members and Civil Servants Act'."
 
 #### Short Title of 2018 Amendment
 
@@ -1654,7 +1664,7 @@ Pub. L. 109–13, div. B, title IV, §401, May 11, 2005, 119 Stat. 318, provided
 
 Pub. L. 108–447, div. J, title IV, §401, Dec. 8, 2004, 118 Stat. 3351, provided that: "This title \[enacting sections 1380 and 1381 of this title, amending sections 1182, 1184, and 1356 of this title, section 2916a of Title 29, Labor, and section 1869c of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1182 and 1184 of this title\] may be cited as the 'L–1 Visa and H–1B Visa Reform Act'."
 
-Pub. L. 108–447, div. J, title IV, §411, Dec. 8, 2004, 118 Stat. 3351, provided that: "This subtitle \[subtitle A (§§411–417) of title IV of div. J of Pub. L. 108–447, enacting section 1380 of this title, amending section 1184 ofthis title, and enacting provisions set out as notes under section 1184 of this title\] may be cited as the 'L–1 Visa (Intracompany Transferee) Reform Act of 2004'."
+Pub. L. 108–447, div. J, title IV, §411, Dec. 8, 2004, 118 Stat. 3351, provided that: "This subtitle \[subtitle A (§§411–417) of title IV of div. J of Pub. L. 108–447, enacting section 1380 of this title, amending section 1184 of this title, and enacting provisions set out as notes under section 1184 of this title\] may be cited as the 'L–1 Visa (Intracompany Transferee) Reform Act of 2004'."
 
 Pub. L. 108–447, div. J, title IV, §421, Dec. 8, 2004, 118 Stat. 3353, provided that: "This subtitle \[subtitle B (§§421–430) of title IV of div. J of Pub. L. 108–447, enacting section 1381 of this title, amending sections 1182, 1184, and 1356 of this title, section 2916a of Title 29, Labor, and section 1869c of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 1182 and 1184 of this title\] may be cited as the 'H–1B Visa Reform Act of 2004'."
 
@@ -1690,7 +1700,7 @@ Pub. L. 106–409, §1, Nov. 1, 2000, 114 Stat. 1787, provided that: "This Act \
 
 Pub. L. 106–406, §1, Nov. 1, 2000, 114 Stat. 1755, provided that: "This Act \[amending section 1229c of this title\] may be cited as the 'International Patient Act of 2000'."
 
-Pub. L. 106–396, §1, Oct. 30, 2000, 114 Stat. 1637, provided that: "This Act \[amending sections 1182, 1184, 1187, and 1372 of this title, enacting provisions set out as a note under section 1187 of this title and classified as a note under section 763 of Title 47, Telecommunications, and amending provisions set out as a note under section 1153 of this title\] may be cited as the 'Visa Waiver Permanent Program Act'."
+Pub. L. 106–396, §1, Oct. 30, 2000, 114 Stat. 1637, provided that: "This Act \[amending sections 1182, 1184, 1187, and 1372 of this title, enacting provisions set outas a note under section 1187 of this title and classified as a note under section 763 of Title 47, Telecommunications, and amending provisions set out as a note under section 1153 of this title\] may be cited as the 'Visa Waiver Permanent Program Act'."
 
 Pub. L. 106–395, §1, Oct. 30, 2000, 114 Stat. 1631, provided that: "This Act \[amending this section, sections 1182, 1227, 1431, and 1433 of this title, and sections 611 and 1015 of Title 18, Crimes and Criminal Procedure, repealing section 1432 of this title, and enacting provisions set out as notes under this section, sections 1182, 1227, and 1431 of this title, and section 611 of Title 18\] may be cited as the 'Child Citizenship Act of 2000'."
 
@@ -1744,7 +1754,7 @@ Pub. L. 101–249, §1, Mar. 6, 1990, 104 Stat. 94, provided that: "This Act \[e
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–238, §1, Dec. 18, 1989, 103 Stat. 2099, provided that: "This Act \[amending this section and sections 1160 and 1182 of this title, enacting provisions set out as notes under sections 1182, 1255, 1255a, and 1324a of this title, and amending provisions set out as a note under section 1255a of this title\] may be cited as the 'Immigration Nursing Relief Act of 1989'."
+Pub. L. 101–238, §1, Dec. 18, 1989, 103 Stat. 2099, provided that: "This Act \[amending this section and sections 1160 and 1182 of this title, enacting provisions setout as notes under sections 1182, 1255, 1255a, and 1324a of this title, and amending provisions set out as a note under section 1255a of this title\] may be cited as the 'Immigration Nursing Relief Act of 1989'."
 
 #### Short Title of 1988 Amendment
 
@@ -1814,7 +1824,7 @@ Pub. L. 102–140, title VI, §610, Oct. 28, 1991, 105 Stat. 832, as amended by 
 
 Act June 27, 1952, ch. 477, title IV, §405, 66 Stat. 280, provided in part that:
 
-"(a) Nothing contained in this Act \[this chapter\], unless otherwise specifically provided therein, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certificate of citizenship, warrant of arrest, order or warrant of deportation, order of exclusion, or other document or proceeding which shall be valid at the time this Act \[this chapter\] shall take effect; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal done or existing, at the time this Act \[this chapter\] shall take effect; but as to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters the statutes or parts of statutes repealed by this Act \[this chapter\] are, unless otherwise specifically provided therein, hereby continued in force and effect. When an immigrant, in possession of an unexpired immigrant visa issued prior to the effective date of this Act \[this chapter\], makes application for admission, his admissibility shall be determined under the provisions of law in effect on the date of the issuance of such visa. An application for suspension of deportation under section 19 of the Immigration Act of 1917, as amended \[former section 155 of this title\], or for adjustment of status under section 4 of the Displaced Persons Act of 1948, as amended\[former section 1953 of the former Appendix to Title 50\], which is pending on the date of enactment of this Act \[June 27, 1952\], shall be regarded as a proceeding within the meaning of this subsection.
+"(a) Nothing contained in this Act \[this chapter\], unless otherwise specifically provided therein, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certificate of citizenship, warrant of arrest, order or warrant of deportation, order of exclusion, or other document or proceeding which shall be valid at the time this Act \[this chapter\] shall take effect; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal done or existing, at the time this Act \[this chapter\] shall take effect; but as to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters the statutes or parts of statutes repealed by this Act \[this chapter\] are, unless otherwise specifically provided therein, hereby continued in force and effect. When an immigrant, in possession of an unexpired immigrant visa issued prior to the effective date of this Act \[this chapter\], makes application for admission, his admissibility shall be determined under the provisions of law in effect on the date of the issuance of such visa. An application for suspension of deportation under section 19 of the Immigration Act of 1917, as amended \[former section 155 of this title\], or for adjustment of status under section 4 of the Displaced Persons Act of 1948, as amended \[former section 1953 of the former Appendix to Title 50\], which is pending on the date of enactment of this Act \[June 27, 1952\], shall be regarded as a proceeding within the meaning of this subsection.
 
 "(b) Except as otherwise specifically provided in title III \[subchapter III of this chapter\], any petition for naturalization heretofore filed which may be pending at the time this Act \[this chapter\] shall take effect shall be heard and determined in accordance with the requirements of law in effect when such petition was filed.
 
@@ -1838,7 +1848,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Admission of Alaska as State
 
@@ -1882,9 +1892,11 @@ Act June 27, 1952, ch. 477, title IV, §404, 66 Stat. 280, as amended by Pub. L.
 
 #### Availability of Funds
 
-Pub. L. 116–94, div. I, title I, §102, Dec. 20, 2019, 133 Stat. 3019, provided that: "Subclauses 101(a)(27)(C)(ii)(II) and (III) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)(II) and (III)) shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."
+Pub. L. 116–260, div. O, title I, §102, Dec. 27, 2020, 134 Stat. 2148, provided that: "Subclauses (II) and (III) of section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. I, title I, §102, Dec. 20, 2019, 133 Stat. 3019.
 
 Pub. L. 116–6, div. H, title I, §102, Feb. 15, 2019, 133 Stat. 475.
 
@@ -1916,7 +1928,7 @@ Pub. L. 113–4, title VIII, §802, Mar. 7, 2013, 127 Stat. 110, provided that: 
 
 #### Special Rule for Alien Victims
 
-Pub. L. 112–239, div. A, title XVII, §1706(b), Jan. 2, 2013, 126 Stat. 2097, provided that: "No alien may be admitted to the United States pursuant to subparagraph (U) of section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)) as a result of the alien being a victim of a crime described in subsection (b) of section 1351 of title 18, United States Code, as added by subsection (a)."
+Pub. L. 112–239, div. A, title XVII, §1706(b), Jan. 2, 2013, 126 Stat. 2097, provided that: "No alien may be admitted to the United States pursuant to subparagraph (U) of section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)) as a result of the alien being a victim of a crime described in subsection (b) ofsection 1351 of title 18, United States Code, as added by subsection (a)."
 
 #### No Authority for National Identification Card
 
@@ -1934,7 +1946,7 @@ Pub. L. 111–230, title IV, §402, Aug. 13, 2010, 124 Stat. 2487, as amended by
 
 #### Afghan Allies Protection
 
-Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649; Pub. L. 115–232, div. A, title XII, §1222, Aug. 13, 2018, 132 Stat. 2028; Pub. L. 116–6, div. F, title VII, §7076(a), Feb. 15, 2019, 133 Stat. 391; Pub. L. 116–92, div. A, title XII, §1219, Dec. 20, 2019, 133 Stat. 1636; Pub. L. 116–94, div. G, title VII, §7034(l)(11), Dec. 20, 2019, 133 Stat. 2873, provided that:
+Pub. L. 111–8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as amended by Pub. L. 111–118, div. A, title VIII, §8120(b), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 113–66, div. A, title XII, §1219, Dec. 26, 2013, 127 Stat. 913; Pub. L. 113–76, div. K, title VII, §7034(o), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–160, §1, Aug. 8, 2014, 128 Stat. 1853; Pub. L. 113–291, div. A, title XII, §1227, Dec. 19, 2014, 128 Stat. 3552; Pub. L. 114–92, div. A, title XII, §1216, Nov. 25, 2015, 129 Stat. 1045; Pub. L. 114–328, div. A, title XII, §1214, Dec. 23, 2016, 130 Stat. 2479; Pub. L. 115–31, div. J, title VII, §7083(a), May 5, 2017, 131 Stat. 718; Pub. L. 115–91, div. A, title XII, §1213, Dec. 12, 2017, 131 Stat. 1649; Pub. L. 115–232, div. A, title XII, §1222, Aug. 13, 2018, 132 Stat. 2028; Pub. L. 116–6, div. F, title VII, §7076(a), Feb. 15, 2019, 133 Stat. 391; Pub. L. 116–92, div. A, title XII, §1219, Dec. 20, 2019, 133 Stat. 1636; Pub. L. 116–94, div. G, title VII, §7034(l)(11), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(11), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 116–283, div. A, title XII, §1212, Jan. 1, 2021, 134 Stat. 3919, provided that:
 
 #### "SEC. 601. SHORT TITLE.
 
@@ -1956,7 +1968,7 @@ Special Immigrant Status for Certain Afghans.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (3), the Secretary of Homeland Security, or, notwithstanding any other provision of law, the Secretary of State inconsultation with the Secretary of Homeland Security, may provide an alien described in subparagraph (A), (B), or (C) of paragraph (2) with the status of a special immigrant under section 101(a)(27) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)), if the alien—
+In general.—Subject to paragraph (3), the Secretary of Homeland Security, or, notwithstanding any other provision of law, the Secretary of State in consultation with the Secretary of Homeland Security, may provide an alien described in subparagraph (A), (B), or (C) of paragraph (2) with the status of a special immigrant under section 101(a)(27) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)), if the alien—
 
 &emsp;&emsp;"(A) or an agent acting on behalf of the alien, submits a petition for classification under section 203(b)(4) of such Act (8 U.S.C. 1153(b)(4));
 
@@ -2070,7 +2082,7 @@ Carry forward.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Fiscal years 2009 through 2013.—If the numerical limitation specified in subparagraph (A) is not reached during a given fiscal year, with respect to fiscal year 2009, 2010, 2011, 2012, or 2013,the numerical limitation specified in such subparagraph for the following fiscal year shall be increased by a number equal to the difference between—
+Fiscal years 2009 through 2013.—If the numerical limitation specified in subparagraph (A) is not reached during a given fiscal year, with respect to fiscal year 2009, 2010, 2011, 2012, or 2013, the numerical limitation specified in such subparagraph for the following fiscal year shall be increased by a number equal to the difference between—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the numerical limitation specified in subparagraph (A) for the given fiscal year; and
 
@@ -2108,11 +2120,11 @@ Construction.—Clause (i) shall not be construed to affect the authority, numer
 
 &emsp;&emsp;"(F)
 
-Fiscal years 2015 through 2020.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 22,500. For purposes of status provided under this subparagraph—
+Fiscal years 2015 through 2021.—In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] until such time that available special immigrant visas under subparagraphs (D) and (E) and this subparagraph are exhausted,, \[sic\] the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 22,620. For purposes of status provided under this subparagraph—
 
-&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before December 31, 2021\[;\]
+&emsp;&emsp;&emsp;"(i) the period during which an alien must have been employed in accordance with paragraph\(2)(A)(ii) must terminate on or before December 31, 2022\[;\]
 
-&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2021\[;\] and
+&emsp;&emsp;&emsp;"(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2022\[;\] and
 
 &emsp;&emsp;&emsp;"(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on the date such visas are exhausted.
 
@@ -2232,7 +2244,7 @@ Public quarterly reports.—Not later than 120 days after the date of the enactm
 
 &emsp;"(13)
 
-Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2021, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the appropriate committees of Congress containing the following information:
+Report.—Not later than December 31, 2016, and annually thereafter through January 31, 2023, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the appropriate committees of Congress containing the following information:
 
 &emsp;&emsp;"(A) The occupations of aliens who—
 
@@ -2274,7 +2286,13 @@ Sense of congress.—It is the sense of Congress that the necessity of providing
 
 Rule of Construction.—Nothing in this section may be construed to affect the authority of the Secretary of Homeland Security under section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note)."
 
-\[Pub. L. 116–92, div. A, title XII, §1219(b), and Pub. L. 116–94, div. G, title VII, §7034(l)(11), made substantially identical amendments to section 602(b)(3)(F) of Pub. L. 111–8, set out above. The text of subsec. (b)(3)(F) of section 602 is based on amendments by Pub. L. 116–94.\]
+\[Pub. L. 116–283, div. A, title XII, §1212(a)(1), which directed amendment of section 602(b)(3)(F) of Pub. L. 111–8, set out above, by substituting "2021" for "2020" in heading, could not be executed because of the prior similar amendment by Pub. L. 116–260, div. K, title VII, §7034(l)(11)(A).\]
+
+\[Pub. L. 116–283, div. A, title XII, §1212(a)(2), which directed amendment of section 602(b)(3)(F) of Pub. L. 111–8, set out above, by substituting "22,620" for "22,500" in introductory provisions, was executed by substituting "22,620" for "26,500", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, div. K, title VII, §7034(l)(11)(B).\]
+
+\[Pub. L. 116–283, div. A, title XII, §1212(a)(3), which directed amendment of section 602(b)(3)(F) of Pub. L. 111–8, set out above, by substituting "December 31, 2022" for "December 31, 2021" in cl. (i), could not be executed because of the prior identical amendment by Pub. L. 116–260, div. K, title VII, §7034(l)(11)(C).\]
+
+\[Pub. L. 116–283, div. A, title XII, §1212(a)(4), which directed amendment of section 602(b)(3)(F) of Pub. L. 111–8, set out above, by substituting "December 31, 2022" for "December 31, 2021" in cl. (ii), could not be executed because of the prior identical amendment by Pub. L. 116–260, div. K, title VII, §7034(l)(11)(C).\]
 
 #### Special Immigrant Status for Persons Serving as Translators With United States Armed Forces
 
@@ -2368,7 +2386,7 @@ Period of absence described.—A period of absence described in this paragraph i
 
 "(f)
 
-Application of Immigration and Nationality Act Provisions.—The definitions in subsections (a) and\(b) of section 101 of the Immigration and Nationality Act (8 U.S.C. 1101) shall apply in the administration of this section."
+Application of Immigration and Nationality Act Provisions.—The definitions in subsections (a) and (b) of section 101 of the Immigration and Nationality Act (8 U.S.C. 1101) shall apply in the administration of this section."
 
 \[Pub. L. 112–227, §1(b), Dec. 28, 2012, 126 Stat. 1609, provided that: "The amendment made by subsection (a) \[amending section 1059(e) of Pub. L. 109–163, set out above\] shall take effect as if included in the enactment of section 1059(e) of the National Defense Authorization Act for Fiscal Year 2006 \[Pub. L. 109–163\] (8 U.S.C. 1101 note)."\]
 
@@ -2448,7 +2466,7 @@ Pub. L. 104–208, div. C, title V, §593, Sept. 30, 1996, 110 Stat. 3009–688,
 
 "(a)
 
-In General.—Each agency of the Federal Government or a State or political subdivision that administers a program affected by the provisions of this title\[see Effective Date of 1996 Amendment note above\], shall, directly or through the States, provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this title.
+In General.—Each agency of the Federal Government or a State or political subdivision that administers a program affected by the provisions of this title \[see Effective Date of 1996 Amendment note above\], shall, directly or through the States, provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this title.
 
 "(b)
 
@@ -2530,7 +2548,7 @@ Pub. L. 101–649, title I, §141, Nov. 29, 1990, 104 Stat. 5001, as amended by 
 
 "(a)
 
-Establishment and Composition of Commission.—(1) Effective October 1, 1991, there is established a Commission on Immigration Reform (in this sectionreferred to as the 'Commission') which shall be composed of 9 members to be appointed as follows:
+Establishment and Composition of Commission.—(1) Effective October 1, 1991, there is established a Commission on Immigration Reform (in this section referred to as the 'Commission') which shall be composed of 9 members to be appointed as follows:
 
 &emsp;"(A) One member who shall serve as Chairman, to be appointed by the President.
 
@@ -2620,7 +2638,7 @@ Congressional Response.—(1) No later than 90 days after the date of receipt of
 
 Presidential Report.—The President shall conduct a review and evaluation and provide for the transmittal of reports to the Congress in the same manner as the Commission is required to conduct a review and evaluation and to transmit reports under subsection (b)."
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Special Immigrant Status for Certain Aliens Employed at United States Mission in Hong Kong (D Special Immigrants)
 
@@ -2654,7 +2672,7 @@ Limited Waiver of Numerical Limitations.—The first 500 visas made available to
 
 #### Inapplicability of Amendment by Pub. L. 101–649
 
-Amendment by section 203(c) of Pub. L. 101–649 not to affect performance of longshore work in United States by citizens or nationals of United States, see section 203(a)(2) of Pub. L. 101–649, set out as a note under section 1288 of this title.
+Amendment by section 203(c) of Pub. L. 101–649 not to affect performance of longshore work in United States by citizens or nationals of United States, see section203(a)(2) of Pub. L. 101–649, set out as a note under section 1288 of this title.
 
 #### Application of Treaty Trader for Certain Foreign States
 
@@ -2714,7 +2732,7 @@ Pub. L. 101–189, div. A, title IX, §937, Nov. 29, 1989, 103 Stat. 1538, provi
 
 #### Extension of H–1 Status for Certain Registered Nurses Through December 31, 1989
 
-Pub. L. 100–658, §4, Nov. 15, 1988, 102 Stat. 3909, provided that: "The Attorney General shall provide for the extension through December 31, 1989, of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(i)\] for an alien to perform temporarily services as a registered nurse in the case of an alien who has had such status for a period of at least 5 years if—
+Pub. L. 100–658, §4, Nov. 15, 1988, 102 Stat. 3909, provided that: "The Attorney General shall provide for the extension through December 31, 1989, of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(i)\] for an alien to perform temporarily services as a registerednurse in the case of an alien who has had such status for a period of at least 5 years if—
 
 &emsp;"(1) such status has not expired as of the date of the enactment of this Act \[Nov. 15, 1988\] but would otherwise expire during 1988 or 1989, due only to the time limitation with respect to such status; or
 
@@ -2750,7 +2768,7 @@ Pub. L. 100–202, §101(e) \[title V, §584\], Dec. 22, 1987, 101 Stat. 1329–
 
 "(3) Notwithstanding section 221(c) of the Immigration and Nationality Act \[8 U.S.C. 1201(c)\], immigrant visas issued to aliens under this section shall be valid for a period of one year.
 
-"(b)(1) An alien described in this section is an alien who, as of the date of the enactment of this Act \[Dec.22, 1987\], is residing in Vietnam and who establishes to the satisfaction of a consular officer or an officer of the Immigration and Naturalization Service after a face-to-face interview, that the alien—
+"(b)(1) An alien described in this section is an alien who, as of the date of the enactment of this Act \[Dec. 22, 1987\], is residing in Vietnam and who establishes to the satisfaction of a consular officer or an officer of the Immigration and Naturalization Service after a face-to-face interview, that the alien—
 
 &emsp;"(A)(i) was born in Vietnam after January 1, 1962, and before January 1, 1976, and (ii) was fathered by a citizen of the United States (such an alien in this section referred to as a 'principal alien');
 
@@ -2820,7 +2838,7 @@ Pub. L. 99–603, title IV, §407, Nov. 6, 1986, 100 Stat. 3443, provided that: 
 
 #### Commission for the Study of International Migration and Cooperative Economic Development
 
-Pub. L. 99–603, title VI, §601, Nov. 6, 1986, 100 Stat. 3444, as amended by Pub. L. 100–525, §2(r), Oct. 24, 1988, 102 Stat. 2614, provided for establishment, membership, etc., of a Commission for the Study of International Migration and Cooperative Economic Development to examine, in consultation with governments of Mexico and other sending countries in Western Hemisphere, the conditions which contribute to unauthorized migration to United States and mutually beneficial reciprocal trade and investment programs to alleviate conditions leading to such unauthorized migration and to report to President and Congress, not later than 3 years after appointment of members of Commission, on results of Commission's examination with recommendations on providing mutually beneficial reciprocal trade and investment programs to alleviate such unauthorized migration.
+Pub. L. 99–603, title VI, §601, Nov. 6, 1986, 100 Stat. 3444, as amended by Pub. L. 100–525, §2(r), Oct. 24, 1988, 102 Stat. 2614, provided for establishment, membership, etc., of a Commission for the Study of International Migration and Cooperative Economic Development to examine, in consultation with governments of Mexico and other sending countries in Western Hemisphere, the conditions which contribute to unauthorized migration to United States and mutually beneficial reciprocal trade and investment programs to alleviate conditions leading to such unauthorized migration and to report to President and Congress, not later than 3 years after appointment of members of Commission, on results of Commission's examination with recommendations on providing mutually beneficial reciprocal tradeand investment programs to alleviate such unauthorized migration.
 
 #### Treatment of Departures From Guam
 
@@ -2845,6 +2863,20 @@ Notwithstanding any other provision of law, the Attorney General not to be autho
 #### Limitation on Admission of Special Immigrants
 
 Pub. L. 96–70, title III, §3201(c), Sept. 27, 1979, 93 Stat. 497, provided that notwithstanding any other provision of law, not more than 15,000 individuals could be admitted to the United States as special immigrants under subparagraphs (E), (F), and (G) of subsec. (a)(27) of this section, of which not more than 5,000 could be admitted in any fiscal year, prior to repeal by Pub. L. 103–416, title II, §212(a), Oct. 25, 1994, 108 Stat. 4314.
+
+#### Definitions
+
+Pub. L. 104–208, div. C, §1(c), Sept. 30, 1996, 110 Stat. 3009–546, provided that: "Except as otherwise specifically provided in this division \[see Tables for classification\], for purposes of titles I \[enacting section 1225a of this title and section 758 of Title 18, Crimes and Criminal Procedure, amending this section and sections 1103, 1182, 1251, 1325, 1356, and 1357 of this title, and enacting provisions set out as notes under this section, sections 1103, 1182, 1221, 1325, and 1356 of this title, and section 758 of Title 18\] and VI \[enacting sections 1363b and 1372 to 1375 of this title and section 116 of Title 18, amending this section, sections 1105a, 1151, 1152, 1154, 1157, 1158, 1160, 1182, 1184, 1187, 1189, 1201, 1202, 1251, 1252a, 1255 to 1255b, 1258, 1288, 1483, 1323, 1324, 1324b, 1356, and 1522 of this title, section 112 of Title 32, National Guard, and section 191 of Title 50, War and National Defense, enacting provisions set out as notes under this section, sections 1153, 1158, 1161, 1182, 1187, 1189, 1202, 1255, 1433, and 1448 of this title, section 301 of Title 5, Government Organization and Employees, section 116 of Title 18, and section 405 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1159, 1182, 1252, 1255a, 1323, 1401, and 1430 of this title\] of this division, the terms 'alien', 'Attorney General', 'border crossing identification card', 'entry', 'immigrant', 'immigrant visa', 'lawfully admitted for permanent residence', 'national', 'naturalization', 'refugee', 'State', and 'United States' shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\]."
+
+Pub. L. 104–208, div. C, title V, §594, Sept. 30, 1996, 110 Stat. 3009–688, provided that: "Except as otherwise provided in this title \[see Effective Date of 1996 Amendment note above\], for purposes of this title—
+
+&emsp;"(1) the terms 'alien', 'Attorney General', 'national', 'naturalization', 'State', and 'United States' shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\]; and
+
+&emsp;"(2) the term 'child' shall have the meaning given such term in section 101(c) of the Immigration and Nationality Act."
+
+Pub. L. 85–316, §14, Sept. 11, 1957, 71 Stat. 643, provided that: "Except as otherwise specifically provided in this Act, the definitions contained in subsections (a) and (b) of section 101 of the Immigration and Nationality Act \[8 U.S.C. 1101(a), (b)\] shall apply to sections 4, 5, 6, 7, 8, 9, 12, 13, and 15 of this Act \[enacting sections 1182b, 1182c, 1201a, 1205, 1251a, 1255a, and 1255b of this title and provisions set out as notes under section 1153 of this title and section 1971a of the former Appendix to Title 50, War and National Defense.\]"
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12711. Policy Implementation With Respect to Nationals of People's Republic of China
 
@@ -2922,9 +2954,9 @@ In addition, I will propose legislation to give the Attorney General authority t
 
 #### C. <i>Visa Overstay Deterrence</i>
 
-Nearly half of this country's illegal immigrants come into the country legally and then stay after they are required by law to depart, often using fraudulent documentation. No Administration has ever made a serious effort to identify and deport these individuals. This Administration is committed to curtailing this form of illegal immigration.
+Nearly half of this country's illegal immigrants come into the country legally and then stay after they arerequired by law to depart, often using fraudulent documentation. No Administration has ever made a serious effort to identify and deport these individuals. This Administration is committed to curtailing this form of illegal immigration.
 
-Therefore, relevant departments and agencies are directed to review their policies and practices to identify necessary reforms to curtail visa overstayers and to enhance investigations and prosecution of those whofraudulently produce or misuse passports, visas, and other travel related documents. Recommendations for administrative initiatives and legislative reform shall be presented to the White House Interagency Working Group on Immigration by June 30, 1995.
+Therefore, relevant departments and agencies are directed to review their policies and practices to identify necessary reforms to curtail visa overstayers and to enhance investigations and prosecution of those who fraudulently produce or misuse passports, visas, and other travel related documents. Recommendations for administrative initiatives and legislative reform shall be presented to the White House Interagency Working Group on Immigration by June 30, 1995.
 
 #### REDUCING THE MAGNET OF WORK OPPORTUNITIES, WORKSITE ENFORCEMENT, AND DETERRENCE
 
@@ -2972,11 +3004,11 @@ The law denies most government benefits to illegal aliens. The government has a 
 
 #### ANTI-DISCRIMINATION
 
-Our efforts to combat illegal immigration must not violate the privacy and civil rights of legal immigrants and U.S. citizens. Therefore, I direct the Attorney General, the Secretary of Health and Human Services, the Chair of the Equal Employment Opportunity Commission, and other relevant Administration officials to vigorously protect our citizens and legal immigrants from immigration-related instances of discrimination and harassment. All illegal immigration enforcement measures shall be taken with due regard for the basic human rights of individuals and in accordance with our obligations under applicable international agreements.
+Our efforts to combat illegal immigration must not violate the privacy and civil rights of legal immigrants and U.S. citizens. Therefore, I direct the Attorney General, the Secretary of Health and Human Services, the Chair of the Equal Employment Opportunity Commission, and other relevant Administration officials to vigorously protect our citizens and legal immigrants from immigration-related instances of discrimination and harassment. All illegal immigration enforcementmeasures shall be taken with due regard for the basic human rights of individuals and in accordance with our obligations under applicable international agreements.
 
 #### ASSISTANCE TO STATES
 
-States today face significant costs for services provided to illegal immigrants as a result of failed policies of the past. Deterring illegal immigration is the best long-term solution to protect States from growingcosts for illegal immigration. This is the first Administration to address this primary responsibility squarely. We are targeting most of our Federal dollars to those initiatives that address the root causes that lead to increased burdens on States.
+States today face significant costs for services provided to illegal immigrants as a result of failed policies of the past. Deterring illegal immigration is the best long-term solution to protect States from growing costs for illegal immigration. This is the first Administration to address this primary responsibility squarely. We are targeting most of our Federal dollars to those initiatives that address the root causes that lead to increased burdens on States.
 
 The Federal Government provides States with billions of dollars to provide for health care, education, and other services and benefits for immigrants. This Administration is proposing increases for immigration and immigration-related spending of 25 percent in 1996 compared to 1993 levels. In addition, this Administration is the first to obtain funding from the Congress to reimburse States for a share of the costs of incarcerated illegal aliens.
 
@@ -2999,18 +3031,6 @@ The Department of State shall initiate negotiations with foreign countries to se
 This directive shall be published in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definitions
-
-Pub. L. 104–208, div. C, §1(c), Sept. 30, 1996, 110 Stat. 3009–546, provided that: "Except as otherwise specifically provided in this division \[see Tables for classification\], for purposes of titles I \[enacting section 1225a of this title and section 758 of Title 18, Crimes and Criminal Procedure, amending this section and sections 1103, 1182, 1251, 1325, 1356, and 1357 of this title, and enacting provisions set out as notes under this section, sections 1103, 1182, 1221, 1325, and 1356 of this title, and section 758 of Title 18\] and VI \[enacting sections 1363b and 1372 to 1375 of this title and section 116 of Title 18, amending this section, sections 1105a, 1151, 1152, 1154, 1157, 1158, 1160, 1182, 1184, 1187, 1189, 1201, 1202, 1251, 1252a, 1255 to 1255b, 1258, 1288, 1483, 1323, 1324, 1324b, 1356, and 1522 of this title, section 112 of Title 32, National Guard, and section 191 of Title 50, War and National Defense, enacting provisions set out as notes under this section, sections 1153, 1158, 1161, 1182, 1187, 1189, 1202, 1255, 1433, and 1448 of this title, section 301 of Title 5, Government Organization and Employees, section 116 of Title 18, and section 405 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1159, 1182, 1252, 1255a, 1323, 1401, and 1430 of this title\] of this division, the terms 'alien', 'Attorney General', 'border crossing identification card', 'entry', 'immigrant', 'immigrant visa', 'lawfully admitted for permanent residence', 'national', 'naturalization', 'refugee', 'State', and 'United States' shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\]."
-
-Pub. L. 104–208, div. C, title V, §594, Sept. 30, 1996, 110 Stat. 3009–688, provided that: "Except as otherwise provided in this title \[see Effective Date of 1996 Amendment note above\], for purposes of this title—
-
-&emsp;"(1) the terms 'alien', 'Attorney General', 'national', 'naturalization', 'State', and 'United States' shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\]; and
-
-&emsp;"(2) the term 'child' shall have the meaning given such term in section 101(c) of the Immigration and Nationality Act."
-
-Pub. L. 85–316, §14, Sept. 11, 1957, 71 Stat. 643, provided that: "Except as otherwise specifically provided in this Act, the definitions contained in subsections (a) and (b) of section 101 of the Immigration and Nationality Act \[8 U.S.C. 1101(a), (b)\] shall apply to sections 4, 5, 6, 7, 8, 9, 12, 13, and 15 of this Act \[enacting sections 1182b, 1182c, 1201a, 1205, 1251a, 1255a, and 1255b of this title and provisions set out as notes under section 1153 of this title and section 1971a of the former Appendix to Title 50, War and National Defense.\]"
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

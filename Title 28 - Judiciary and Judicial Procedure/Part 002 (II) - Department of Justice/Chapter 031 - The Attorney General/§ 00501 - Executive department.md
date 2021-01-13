@@ -20,9 +20,45 @@ R.S. §346 (less last 10 words).
 
 The words "There shall be", referring to the establishment of the Department, are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 501, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(a), 73 Stat. 9, related to appointment of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 541 of this title by section 4(c) of Pub. L. 89–554.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Servicemembers and Veterans Initiative
+
+Pub. L. 116–288, Jan. 5, 2021, 134 Stat. 4884, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Servicemembers and Veterans Initiative Act of 2020'.
+
+#### "SEC. 2. SERVICEMEMBERS AND VETERANS INITIATIVE.
+
+"(a)
+
+Establishment.—There is established the Servicemembers and Veterans Initiative within the Civil Rights Division of the Department of Justice.
+
+"(b)
+
+Duties.—The Servicemembers and Veterans Initiative shall—
+
+&emsp;"(1) serve as legal and policy advisor to the Attorney General on the Department of Justice's efforts to enforce criminal and civil laws that impact servicemembers, veterans, and their families;
+
+&emsp;"(2) develop policy recommendations for the Attorney General on how the Department of Justice may improve enforcement of Federal law to support servicemembers, veterans, and their families;
+
+&emsp;"(3) serve as the liaison and point of contact between the Department of Justice and the military departments;
+
+&emsp;"(4) provide counsel to the Assistant Attorney General for the Office of Justice Programs to ensure funding decisions take into account servicemembers, veterans, and their families;
+
+&emsp;"(5) consult with components of the Department of Justice to promote the provision of civil legal aid to servicemembers, veterans, and their families;
+
+&emsp;"(6) serve as a liaison and point of contact with the Consumer Protection Branch of the Civil Division of the Department of Justice, with respect to the prosecution of Federal crimes involving fraud that target servicemembers; and
+
+&emsp;"(7) serve as a liaison and point of contact with other components of the Department of Justice asneeded to support the enforcement of other Federal laws that protect servicemembers and veterans, as the Attorney General determines appropriate."
 
 #### Office of Justice for Victims of Overseas Terrorism
 

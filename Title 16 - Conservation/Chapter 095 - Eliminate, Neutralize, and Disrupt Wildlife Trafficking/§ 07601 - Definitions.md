@@ -24,7 +24,7 @@ In this chapter:
 
 #### (4) Country of concern
 
-&emsp;The term "country of concern" refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+&emsp;The term "country of concern" refers to a foreign country specially designated by theSecretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
 
 #### (5) Focus country
 
@@ -56,7 +56,7 @@ In this chapter:
 
 #### (12) Wildlife trafficking
 
-&emsp;The term "wildlife trafficking" refers to the poaching or other illegal taking of protectedor managed species and the illegal trade in wildlife and their related parts and products.
+&emsp;The term "wildlife trafficking" refers to the poaching or other illegal taking of protected or managed species and the illegal trade in wildlife and their related parts and products.
 
 (Pub. L. 114–231, §2, Oct. 7, 2016, 130 Stat. 949.)
 

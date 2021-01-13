@@ -12,7 +12,7 @@
 
 (3) Nothing in this subsection shall affect any rights, obligations, or requirements of a person related to information contained in a registration certificate, except for the institution of and remedies in infringement actions under this section and section 412.
 
-(c) In the case of a work consisting of sounds, images, or both, the first fixation of which ismade simultaneously with its transmission, the copyright owner may, either before or after such fixation takes place, institute an action for infringement under section 501, fully subject to the remedies provided by sections 502 through 505 and section 510, if, in accordance with requirements that the Register of Copyrights shall prescribe by regulation, the copyright owner—
+(c) In the case of a work consisting of sounds, images, or both, the first fixation of which is made simultaneously with its transmission, the copyright owner may, either before or after such fixation takes place, institute an action for infringement under section 501, fully subject to the remedies provided by sections 502 through 505 and section 510, if, in accordance with requirements that the Register of Copyrights shall prescribe by regulation, the copyright owner—
 
 &emsp;(1) serves notice upon the infringer, not less than 48 hours before such fixation, identifying the work and the specific time and source of its first transmission, and declaring an intention to secure copyright in the work; and
 
@@ -29,6 +29,8 @@ The first sentence of section 411(a) restates the present statutory requirement 
 The second and third sentences of section 411(a) would alter the present law as interpreted in <i>Vacheron \& Constantin-Le Coultre Watches, Inc. v. Benrus Watch Co</i>., 260 F.2d 637 (2d Cir. 1958). That case requires an applicant, who has sought registration and has been refused, to bring an action against the Register of Copyrights to compel the issuance of a certificate, before suit can be brought against an infringer. Under section 411, a rejected claimant who has properly applied for registration may maintain an infringement suit if notice of it is served on the Register of Copyrights. The Register is authorized, though not required, to enter the suit within 60 days; the Register would be a party on the issue of registrability only, and a failure by the Register to join the action would "not deprive the court of jurisdiction to determine that issue."
 
 Section 411(b) is intended to deal with the special situation presented by works that are being transmitted "live" at the same time they are being fixed in tangible form for the first time. Under certain circumstances, where the infringer has been given advance notice, an injunction could be obtained to prevent the unauthorized use of the material included in the "live" transmission.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Pub. L. 110–403, §101(a)(3), redesignated subsec. (b) as (c).
 Subsec. (a). Pub. L. 100–568, §9(b)(1)(B), substituted "Except for actions for infringement of copyright in Berne Convention works whose country of origin is not the United States, and subject" for "Subject".
 
 Subsec. (b)(2). Pub. L. 100–568, §9(b)(1)(C), substituted "work, if required by subsection (a)," for "work".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

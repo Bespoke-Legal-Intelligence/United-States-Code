@@ -24,7 +24,7 @@ The Secretary shall carry out a program of canceling the obligation to repay a q
 
 #### (2) Treatment of consolidation loans
 
-&emsp;A loan amount for a Federal Direct Consolidation Loan may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 1078 or 1078–8 of thistitle, for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
+&emsp;A loan amount for a Federal Direct Consolidation Loan may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 1078 or 1078–8 of this title, for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
 
 #### (3) Additional amounts for teachers in mathematics, science, or special education
 

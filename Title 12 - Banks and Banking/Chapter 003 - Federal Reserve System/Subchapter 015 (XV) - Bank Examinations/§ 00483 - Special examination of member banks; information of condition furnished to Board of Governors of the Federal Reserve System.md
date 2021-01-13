@@ -4,6 +4,8 @@ In addition to the examinations made and conducted by the Comptroller of the Cur
 
 (R.S. §5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, §21, 38 Stat. 272; June 26, 1930, ch. 611, §2, 46 Stat. 814; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5240 derived from act June 3, 1864, ch. 106, §54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
@@ -13,6 +15,8 @@ Section is comprised of fifth par. of R.S. §5240, as amended. See Codification 
 #### Amendments
 
 <b>1930</b>—Act June 26, 1930, substituted second sentence "The expense of such examinations may, in the discretion of the Federal Reserve Board, be assessed against the banks examined, and, when so assessed, shall be paid by the banks examined." for "The expense of such examinations shall be borne by the bank examined."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

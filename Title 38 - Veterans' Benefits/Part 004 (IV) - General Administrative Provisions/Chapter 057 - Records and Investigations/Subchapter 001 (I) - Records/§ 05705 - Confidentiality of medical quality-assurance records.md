@@ -34,7 +34,9 @@
 
 (e) Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added Pub. L. 96–385, title V, §505(a), Oct. 7, 1980, 94 Stat. 1535, §3305; amended Pub. L. 99–166, title II, §201, Dec. 3, 1985, 99 Stat. 949; renumbered §5705 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–385, title V, §505(a), Oct. 7, 1980, 94 Stat. 1535, §3305; amended Pub. L. 99–166,title II, §201, Dec. 3, 1985, 99 Stat. 949; renumbered §5705 and amended Pub. L. 102–40, title IV, §§402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, §4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ Subsec. (d)(2). Pub. L. 102–54, §14(d)(4)(B)(iv), amended subsec. (d)(2) as i
 <b>1985</b>—Subsec. (a). Pub. L. 99–166, §201(1), inserted "(other than reports submitted pursuant to section 4152(b) of this title)" after "program".
 
 Subsec. (b)(6). Pub. L. 99–166, §201(2), added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

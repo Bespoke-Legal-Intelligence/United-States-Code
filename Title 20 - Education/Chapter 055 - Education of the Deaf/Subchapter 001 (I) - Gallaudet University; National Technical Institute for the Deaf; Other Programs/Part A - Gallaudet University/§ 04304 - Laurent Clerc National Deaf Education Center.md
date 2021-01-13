@@ -82,7 +82,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(5)(A)(i). Pub. L. 114–95, §9215(ee)(1)(A), substituted "select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title" for "select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title".
+<b>2015</b>—Subsec. (b)(5)(A)(i). Pub. L. 114–95, §9215(ee)(1)(A), substituted "select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of thistitle" for "select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title".
 
 Subsec. (b)(5)(A)(ii). Pub. L. 114–95, §9215(ee)(1)(B), substituted "2016–2017 academic year" for "2009–2010 academic year".
 

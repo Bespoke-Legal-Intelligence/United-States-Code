@@ -22,7 +22,9 @@ In this part—
 
 &emsp;"State Police Corps program" means a State police corps program that meets the requirements of section 12559 of this title.
 
-(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, §101\[(a)\]\[title I, §121\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title I, §102(a)(13)(O), Oct. 7, 1998, 112 Stat. 1621.)
+(Pub. L. 103–322, title XX, §200103, Sept. 13, 1994, 108 Stat. 2049; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §121\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–244, title I, §102(a)(13)(O), Oct. 7, 1998, 112 Stat. 1621.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -39,6 +41,8 @@ Section was formerly classified to section 14092 of Title 42, The Public Health 
 &emsp;"(B) a course of graduate study legal or criminal justice studies following award of a baccalaureate degree,
 
 > including the cost of tuition, fees, books, supplies, transportation, room and board and miscellaneous expenses."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

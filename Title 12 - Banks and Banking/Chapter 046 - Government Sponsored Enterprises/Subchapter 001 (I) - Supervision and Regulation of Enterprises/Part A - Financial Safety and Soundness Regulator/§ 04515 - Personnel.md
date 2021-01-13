@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation ofsuch officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
+Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the Director may appoint and fix the compensation of such officers and employees of the Agency as the Director considers necessary to carry out the functions of the Director and the Agency. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
 #### (b) Comparability of compensation with Federal banking agencies
 
@@ -17,6 +17,8 @@ In carrying out the duties of the Agency, the Director may use information, serv
 Notwithstanding any provision of law limiting pay or compensation, the Director may appoint and compensate such outside experts and consultants as the Director determines necessary to assist the work of the Agency.
 
 (Pub. L. 102–550, title XIII, §1315, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 110–289, div. A, title I, §1161(a)(1), July 30, 2008, 122 Stat. 2778; Pub. L. 111–203, title III, §365(1), July 21, 2010, 124 Stat. 1555.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Subsec. (f). Pub. L. 110–289, §1161(a)(1)(E), struck out subsec. (f). Text re
 &emsp;"(1) a complete description of the equal opportunity, affirmative action, and minority business enterprise utilization programs of the Office; and
 
 &emsp;"(2) such recommendations for administrative and legislative action as the Director determines appropriate to carry out such programs."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

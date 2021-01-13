@@ -60,7 +60,7 @@ It is the policy of the United States that—
 
 &emsp;(6) in order to ensure productive capacity in the event of an attack on the United States, the United States Government should encourage the geographic dispersal of industrial facilities in the United States to discourage the concentration of such productive facilities within limited geographic areas that are vulnerable to attack by an enemy of the United States;
 
-&emsp;(7) to ensure that essential national defense requirements are met, consideration should begiven to stockpiling strategic materials, to the extent that such stockpiling is economical and feasible; and
+&emsp;(7) to ensure that essential national defense requirements are met, consideration should be given to stockpiling strategic materials, to the extent that such stockpiling is economical and feasible; and
 
 &emsp;(8) in the construction of any industrial facility owned by the United States Government, in the rendition of any financial assistance by the United States Government for the construction, expansion, or improvement of any industrial facility, and in the production of goods and services, under this chapter or any other provision of law, each department and agency of the United States Government should apply, under the coordination of the Federal Emergency Management Agency, when practicable and consistent with existing law and the desirability for maintaining a sound economy, the principle of geographic dispersal of such facilities in the interest of national defense.
 

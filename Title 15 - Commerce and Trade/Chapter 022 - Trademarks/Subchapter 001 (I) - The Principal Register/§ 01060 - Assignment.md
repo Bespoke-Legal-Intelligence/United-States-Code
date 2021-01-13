@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §10, 33 Stat. 727.
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relatingto service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relating to service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
 
 <b>1999</b>—Pub. L. 106–43, §6(a)(2), (3), which directed the amendment of this section by substituting "mark." for "mark," in the first sentence and striking out a second period at the end of the third sentence, could not be executed because "mark," and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
 

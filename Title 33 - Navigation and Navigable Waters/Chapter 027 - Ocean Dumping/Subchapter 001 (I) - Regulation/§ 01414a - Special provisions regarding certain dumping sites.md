@@ -8,7 +8,7 @@
 
 &emsp;(B) The term "Apex site" means that site within the Apex at which the dumping of municipal sludge occurred before October 1, 1983.
 
-&emsp;(C) The term "eligible authority" means any sewerage authority or other unit of State orlocal government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
+&emsp;(C) The term "eligible authority" means any sewerage authority or other unit of State or local government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
 
 (2) No person may apply for a permit under this subchapter in relation to the dumping of, or the transportation for purposes of dumping, municipal sludge within the Apex unless that person is an eligible authority.
 
@@ -24,9 +24,13 @@ The Administrator may not issue or renew any permit under this subchapter which 
 
 (Pub. L. 92–532, title I, §104A, as added Pub. L. 99–662, title XI, §1172(b), Nov. 17, 1986, 100 Stat. 4259; Pub. L. 100–4, title V, §508(b), Feb. 4, 1987, 101 Stat. 79; Pub. L. 100–688, title I, §1002, Nov. 18, 1988, 102 Stat. 4139.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–688 repealed the second of two identical sections 104A of Pub. L. 92–532, both classified to this section and enacted by Pub. L. 99–662 and Pub. L. 100–4, thereby involving no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### New York Bight Apex Not Suitable for Dumping
 

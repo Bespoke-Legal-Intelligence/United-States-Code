@@ -20,7 +20,7 @@ All preprinted deposit slips that a depository institution furnishes to its cust
 
 #### (3) Upon request
 
-&emsp;Upon the request of any person, a depository institution shall provide or send such person a written notice containing the specific policy of such depository institution with respect to when a customer may withdraw funds deposited into a customer's account.
+&emsp;Upon the request of any person, a depository institution shall provide or send such person awritten notice containing the specific policy of such depository institution with respect to when a customer may withdraw funds deposited into a customer's account.
 
 #### (d) Posting of notice
 
@@ -64,6 +64,8 @@ If a depository institution described in section 4005(b) of this title begins th
 
 (Pub. L. 100–86, title VI, §605, Aug. 10, 1987, 101 Stat. 644; Pub. L. 111–203, title X, §1086(c), July 21, 2010, 124 Stat. 2086.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 After enactment, referred to in the heading of subsec. (c)(1), probably means after the effective date of this section, which is Sept. 1, 1988.
@@ -77,6 +79,8 @@ Subsec. (f)(1). Pub. L. 111–203, §1086(c)(2), inserted "and Bureau" after "Bo
 Pub. L. 111–203, §1086(c)(1), inserted ", jointly with the Director of the Bureau of Consumer Financial Protection," after "Board".
 
 Subsec. (f)(2)(A), (3), (4). Pub. L. 111–203, §1086(c)(1), inserted ", jointly with the Director of the Bureau of Consumer Financial Protection," after "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

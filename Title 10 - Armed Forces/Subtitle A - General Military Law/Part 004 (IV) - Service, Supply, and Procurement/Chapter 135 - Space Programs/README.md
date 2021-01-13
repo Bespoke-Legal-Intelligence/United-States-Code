@@ -14,17 +14,14 @@
 | [2279\.](%C2%A7%2002279%20-%20Foreign%20commercial%20satellite%20services%20and%20foreign%20launches.md) | Foreign commercial satellite services and foreign launches. |
 | \[2279a. | Repealed.\] |
 | [2279b.](%C2%A7%2002279b%20-%20Council%20on%20Oversight%20of%20the%20Department%20of%20Defense%20Positioning%2C%20Navigation%2C%20and%20Timing%20Enterprise.md) | Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise. |
-| [2279c.](%C2%A7%2002279c%20-%20Renumbered%20%C2%A79081.md) | Air Force Space Command.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| \[2279c. | Renumbered.\] |
 | [2279d.](%C2%A7%2002279d%20-%20Limitation%20on%20construction%20on%20United%20States%20territory%20of%20satellite%20positioning%20ground%20monitoring%20stations%20of%20certain%20foreign%20governments.md) | Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(35), Jan. 1, 2021, 134 Stat. 3872, struck out item 2279c "Air Force Space Command".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(18)(B), Aug. 13, 2018, 132 Stat. 1984, added item 2279d.
 
@@ -43,8 +40,6 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 <b>2004</b>—Pub. L. 108–375, div. A, title IX, §913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 
 <b>2003</b>—Pub. L. 108–136, div. A, title IX, §§911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
-
-<i><sup>1</sup></i><i> So in original. Section 2279c was renumbered by Pub. L. 116–92 without corresponding amendment of chapter analysis.</i>
 
 
 ---

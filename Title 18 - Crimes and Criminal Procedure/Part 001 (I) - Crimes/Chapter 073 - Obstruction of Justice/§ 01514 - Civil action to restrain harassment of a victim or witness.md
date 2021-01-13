@@ -54,9 +54,11 @@
 
 (Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, §3(2), (3), May 7, 2009, 123 Stat. 1607; Pub. L. 112–206, §3(a), Dec. 7, 2012, 126 Stat. 1490.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted "or its own motion," after "attorney for the Government," and inserted "or investigation" after "Federal criminal case" in two places.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted "or its own motion," after "attorney for theGovernment," and inserted "or investigation" after "Federal criminal case" in two places.
 
 Subsec. (b)(2), (3). Pub. L. 112–206, §3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
@@ -69,6 +71,8 @@ Subsecs. (c), (d). Pub. L. 112–206, §3(a)(2), added subsecs. (c) and (d) and 
 <b>2009</b>—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted "14 days" for "10 days" in two places.
 
 Subsec. (a)(2)(E). Pub. L. 111–16, §3(3), inserted ", excluding intermediate weekends and holidays," after "the Government".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

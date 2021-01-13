@@ -48,7 +48,7 @@ Congress finds the following:
 
 &emsp;(14) According to the National Institute of Literacy, 70 percent of all prisoners function at the lowest literacy levels.
 
-&emsp;(15) Less than 32 percent of State prison inmates have a high school diploma or a higher level of education, compared to 82 percent of the general population.
+&emsp;(15) Less than 32 percent of State prison inmates have a high school diploma or a higherlevel of education, compared to 82 percent of the general population.
 
 &emsp;(16) Approximately 38 percent of inmates who completed 11 years or less of school were not working before entry into prison.
 
@@ -60,6 +60,8 @@ Congress finds the following:
 
 (Pub. L. 110–199, §3, Apr. 9, 2008, 122 Stat. 658.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act and this Act, referred to in subsecs. (a) and (b)(5), respectively, are Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.
@@ -67,6 +69,8 @@ The Act and this Act, referred to in subsecs. (a) and (b)(5), respectively, are 
 #### Codification
 
 Section was formerly classified to section 17501 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Evaluation of the Second Chance Act Program
 
@@ -92,7 +96,7 @@ Evaluation of the Second Chance Act Grant Program.—Not later than 5 years afte
 
 "(b)
 
-Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to beappropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of the Second Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
+Authorization of Funds for Evaluation.—Not more than 1 percent of any amounts authorized to be appropriated to carry out the Second Chance Act grant program shall be made available to the National Institute of Justice each year to evaluate the processes, implementation, outcomes, costs, and effectiveness of the Second Chance Act grant program in improving reentry and reducing recidivism. Such funding may be used to provide support to grantees for supplemental data collection, analysis, and coordination associated with evaluation activities.
 
 "(c)
 
@@ -135,6 +139,8 @@ Publication and Reporting of Evaluation Findings.—The National Institute of Ju
 "(h)
 
 Second Chance Act Grant Program Defined.—In this section, the term 'Second Chance Act grant program' means any grant program reauthorized under this title \[see section 501 of Pub. L. 115–391, set out as a Short Title of 2018 Amendment note under section 10101 of this title\] and the amendments made by this title."
+
+#### <b>Executive Documents</b>
 
 #### Promoting Rehabilitation and Reintegration of Formerly Incarcerated Individuals
 

@@ -64,7 +64,7 @@
 
 &emsp;A member of a board under this subsection—
 
-&emsp;&emsp;(A) may, at the discretion of the Commission, be reimbursed for actual and necessary expenses incurred in the performance of the official duties of the board from any funds available to the Commission in accordance with applicable Senate regulations for such expenses; and
+&emsp;&emsp;(A) may, at the discretion of the Commission, be reimbursed for actual and necessaryexpenses incurred in the performance of the official duties of the board from any funds available to the Commission in accordance with applicable Senate regulations for such expenses; and
 
 &emsp;&emsp;(B) shall not, by virtue of such member's service on the board, be deemed to be an officer, employee, or agent of the Senate and may not bind the Senate in any contract or obligation.
 
@@ -116,7 +116,7 @@
 
 #### (iii) Approval and oversight of conservation or restoration
 
-&emsp;&emsp;&emsp;Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation or restoration project for which such amounts are intended (referred to in this section as the "Project"). The Commission may require updated reports on the Project before any additional amounts aretransferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
+&emsp;&emsp;&emsp;Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation or restoration project for which such amounts are intended (referred to in this section as the "Project"). The Commission may require updated reports on the Project before any additional amounts are transferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
 
 #### (iv) Acceptance of donations
 
@@ -161,6 +161,8 @@
 &emsp;The Comptroller General of the United States shall conduct periodic audits of the Senate Preservation Fund, which shall be conducted at least once every 3 years, unless the Chairman or the Ranking Member of the Committee on Rules and Administration of the Senate or the Secretary of the Senate requests that an audit be conducted at an earlier date, and shall report the results of each audit to the Commission.
 
 (Pub. L. 108–83, title I, §3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, §4, Aug. 2, 2005, 119 Stat. 568; Pub. L. 112–234, §2(h), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 115–31, div. I, title I, §2, May 5, 2017, 131 Stat. 571.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -18,9 +18,11 @@
 
 (Added Pub. L. 91–452, title IV, §401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, §6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–550 inserted "(or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code)" after "under oath".
+<b>1976</b>—Subsec. (a). Pub. L. 94–550 inserted "(or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section1746 of title 28, United States Code)" after "under oath".
 

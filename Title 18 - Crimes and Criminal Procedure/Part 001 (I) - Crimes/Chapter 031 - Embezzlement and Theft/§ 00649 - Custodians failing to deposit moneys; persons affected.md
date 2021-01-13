@@ -20,6 +20,8 @@ The smaller punishment for an offense involving $100 or less was inserted. (See 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -29,6 +31,8 @@ Minor changes were made in phraseology.
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(2)(G), substituted "shall be fined under this title or in a sum equal to the amount of money embezzled, whichever is greater, or imprisoned" for "shall be fined in a sum equal to the amount of money embezzled or imprisoned".
 
 Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" after "he shall be".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

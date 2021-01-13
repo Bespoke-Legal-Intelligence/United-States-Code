@@ -54,7 +54,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term "plant equipment package" means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved by the Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
 
-(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, title X, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224; Pub. L. 107–217, §3(b)(7), Aug. 21, 2002, 116 Stat. 1295.)
+(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, titleX, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224; Pub. L. 107–217, §3(b)(7), Aug. 21, 2002, 116 Stat. 1295.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4286, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter IV, and redesignated as section 4881 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Codification
 
@@ -92,7 +96,11 @@ Subsec. (b). Pub. L. 102–484, §4235(a)(3), transferred the text of section 45
 
 Subsec. (c). Pub. L. 102–484, §4235(b), transferred the text of section 452 of Title 50, War and National Defense, to the end of this section, designated it subsec. (c), inserted heading, and substituted "In this section:" for "As used in this chapter—" in introductory provisions. See Codification note above.
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Treatment of Property Loaned Before December 31, 1993 to Educational Institutions or Training Schools
 
-Pub. L. 103–337, div. A, title III, §379(b), Oct. 5, 1994, 108 Stat. 2737, provided that: "Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under section 2535(b) of title 10, United States Code, or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 \[former section 453(a)(7) of Title 50, War and National Defense,see Codification and 1992 Amendment notes above\]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States."
+Pub. L. 103–337, div. A, title III, §379(b), Oct. 5, 1994, 108 Stat. 2737, provided that: "Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under section 2535(b) of title 10, United States Code, or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 \[former section 453(a)(7) of Title 50, War and National Defense, see Codification and 1992 Amendment notes above\]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States."
 

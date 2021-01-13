@@ -18,6 +18,8 @@ There are authorized to be appropriated for grants under paragraph (1) a total o
 
 (Pub. L. 103–159, title I, §106(b), Nov. 30, 1993, 107 Stat. 1544; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 115–141, div. S, title VI, §604(b), Mar. 23, 2018, 132 Stat. 1136.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of subsec. (b) of section 106 of Pub. L. 103–159. Subsec. (a) of section 106 of Pub. L. 103–159 amended former section 3759 of Title 42, The Public Health and Welfare.
@@ -36,7 +38,9 @@ Par. (1)(D). Pub. L. 115–141, §604(b)(2), (3)(B), (4), added subpar. (D).
 
 <b>1996</b>—Par. (2). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. L. 103–322, §210603(b). See 1994 Amendment note below.
 
-<b>1994</b>—Par. (2). Pub. L. 103–322, §210603(b), as amended by Pub. L. 104–294, §603(i)(1), struck out ", which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31,United States Code," after "grants under paragraph (1)".
+<b>1994</b>—Par. (2). Pub. L. 103–322, §210603(b), as amended by Pub. L. 104–294, §603(i)(1), struck out ", which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31, United States Code," after "grants under paragraph (1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

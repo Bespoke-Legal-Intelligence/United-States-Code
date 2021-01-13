@@ -40,9 +40,13 @@ Section 31341(a) lists those persons who are presumed to have authority to procu
 
 Section 31341(b) provides that any person that is tortiously or unlawfully in possession of or in charge of a vessel has no authority to procure necessaries. This subsection makes no substantive change to law.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–225 substituted "management" for "mangement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

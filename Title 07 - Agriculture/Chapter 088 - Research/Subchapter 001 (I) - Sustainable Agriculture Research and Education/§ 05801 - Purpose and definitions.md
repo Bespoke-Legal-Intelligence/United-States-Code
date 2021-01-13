@@ -44,11 +44,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) qualifies as a nonprofit organization under section 501(c) of title 26.
 
-(Pub. L. 101–624, title XVI, §1619, Nov. 28, 1990, 104 Stat. 3733; Pub. L. 102–237, title IV, §407(2), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §860(c)(1), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7101(b)(5), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, §4(a), title VII, §7101(b)(5), June 18, 2008, 122 Stat. 1664, 1975.)
+(Pub. L. 101–624, title XVI, §1619, Nov. 28, 1990, 104 Stat. 3733; Pub. L. 102–237, title IV, §407(2),Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §860(c)(1), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7101(b)(5), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, §4(a), title VII, §7101(b)(5), June 18, 2008, 122 Stat. 1664, 1975.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original "this subtitle", meaning subtitle B\(§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original "this subtitle", meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 #### Codification
 

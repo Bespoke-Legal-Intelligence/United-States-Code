@@ -28,7 +28,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (B) Exemption for certain requests regarding pension plans
 
-&emsp;&emsp;The Secretary shall not require payment of user fees under such program for requestsfor determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
+&emsp;&emsp;The Secretary shall not require payment of user fees under such program for requests for determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
 
 &emsp;&emsp;&emsp;(i) made after the later of—
 

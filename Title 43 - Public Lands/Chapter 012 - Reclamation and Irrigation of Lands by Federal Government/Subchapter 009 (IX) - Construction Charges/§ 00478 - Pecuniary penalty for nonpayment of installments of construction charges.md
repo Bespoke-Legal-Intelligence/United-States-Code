@@ -4,6 +4,8 @@ If any water-right applicant or entryman shall have, prior to December 5, 1924, 
 
 (Aug. 13, 1914, ch. 247, §3, 38 Stat. 687; Dec. 5, 1924, ch. 4, §4, subsec. H, 43 Stat. 703.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section consolidates first sentence of act Aug. 13, 1914, §3, with act Dec. 5, 1924, §4, subsec. H.

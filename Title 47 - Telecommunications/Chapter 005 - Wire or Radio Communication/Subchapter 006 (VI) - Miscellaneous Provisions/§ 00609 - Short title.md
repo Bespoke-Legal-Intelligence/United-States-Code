@@ -4,13 +4,27 @@ This chapter may be cited as the "Communications Act of 1934."
 
 (June 19, 1934, ch. 652, title VII, §709, formerly title VI, §609, 48 Stat. 1105; renumbered title VII, §709, Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended section 35 of this title, section 21 of Title 15, Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amending section 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
+
+Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title,amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
+
+Pub. L. 116–130, §1, Mar. 23, 2020, 134 Stat. 228, provided that: "This Act \[enacting subchapter VII of this chapter\] may be cited as the 'Broadband Deployment Accuracy and Technological Availability Act' or the 'Broadband DATA Act'."
+
+Pub. L. 116–109, §1, Jan. 24, 2020, 134 Stat. 3, provided that: "This Act \[enacting section 511 of this title\] may be cited as the 'Preventing Illegal Radio Abuse Through Enforcement Act' or the 'PIRATE Act'."
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–105, §1, Dec. 30, 2019, 133 Stat. 3274, provided that: "This Act \[enacting sections 227b to 227b–2of this title, amending section 227 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the 'Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act' or the 'Pallone-Thune TRACED Act'."
+Pub. L. 116–105, §1, Dec. 30, 2019, 133 Stat. 3274, provided that: "This Act \[enacting sections 227b to 227b–2 of this title, amending section 227 of this title, and enacting provisions set out as notes under section 227 of this title\] may be cited as the 'Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act' or the 'Pallone-Thune TRACED Act'."
 
 Pub. L. 116–94, div. P, title X, §1001, Dec. 20, 2019, 133 Stat. 3198, provided that: "This title \[enacting section 562 of this title, amending section 325 of this title, and enacting provisions set out as notes under sections 325 and 562 of this title\] may be cited as the 'Television Viewer Protection Act of 2019'."
 
@@ -88,7 +102,7 @@ Pub. L. 106–81, §1, Oct. 26, 1999, 113 Stat. 1286, provided that: "This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: "This title \[enactingsection 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the 'Child Online Protection Act'."
+Pub. L. 105–277, div. C, title XIV, §1401, Oct. 21, 1998, 112 Stat. 2681–736, provided that: "This title \[enacting section 231 of this title, amending sections 223 and 230 of this title, and enacting provisions set out as notes under sections 223 and 231 of this title\] may be cited as the 'Child Online Protection Act'."
 
 #### Short Title of 1996 Amendment
 
@@ -138,7 +152,7 @@ Pub. L. 97–410, §1, Jan. 3, 1983, 96 Stat. 2043, provided: "That this Act \[e
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: "This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the 'Communications Amendments Act of 1982'."
+Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: "This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes andCriminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the 'Communications Amendments Act of 1982'."
 
 #### Short Title of 1981 Amendments
 

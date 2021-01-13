@@ -62,13 +62,15 @@ In this chapter:
 
 #### (14) United States
 
-&emsp;The term "United States" means the several States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
+&emsp;The term "United States" means the several States of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory orpossession over which the United States has jurisdiction.
 
 #### (15) Use
 
 &emsp;The term "use" includes application, reapplication, installation, or any other employment of an antifouling system.
 
 (Pub. L. 111–281, title X, §1011, Oct. 15, 2010, 124 Stat. 3023; Pub. L. 111–330, §1(19), Dec. 22, 2010, 124 Stat. 3570.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ Presidential Proclamation No. 5928, referred to in par. (13), is set out under s
 #### Amendments
 
 <b>2010</b>—Par. (9)(B). Pub. L. 111–330 made technical amendment to reference in original act which appears in text as reference to section 3802(b)(2) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

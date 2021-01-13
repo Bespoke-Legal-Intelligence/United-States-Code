@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) virtually all domestically produced limes are grown in the States of Florida and California;
 
-&emsp;(3) limes move in interstate and foreign commerce, and limes that do not move in such channels of commerce directly burden or affect interstate commerce in limes;
+&emsp;(3) limes move in interstate and foreign commerce, and limes that do not move in suchchannels of commerce directly burden or affect interstate commerce in limes;
 
 &emsp;(4) in recent years, large quantities of limes have been imported into the United States;
 
@@ -32,7 +32,7 @@ The purposes of this chapter are—
 
 #### (c) Limitations
 
-Nothing in this chapter shall be construed to require quality standards for limes, control theproduction of limes, or otherwise limit the right of the individual producers to produce limes.
+Nothing in this chapter shall be construed to require quality standards for limes, control the production of limes, or otherwise limit the right of the individual producers to produce limes.
 
 (Pub. L. 101–624, title XIX, §1952, Nov. 28, 1990, 104 Stat. 3870.)
 

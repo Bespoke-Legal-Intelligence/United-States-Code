@@ -262,7 +262,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;The term does not include a foster child who has a foster parent who meets the definition of a parent in paragraph (23).
 
-(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, §941(k)(2)(C), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 111–256, §2(b)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 114–95, title IX, §§9214(d)(1), 9215(ss)(1), Dec. 10, 2015, 129 Stat. 2164, 2181.)
+(Pub. L. 91–230, title VI, §602, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2652; amended Pub. L. 110–315, title IX, §941(k)(2)(C),Aug. 14, 2008, 122 Stat. 3466; Pub. L. 111–256, §2(b)(2), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 114–95, title IX, §§9214(d)(1), 9215(ss)(1), Dec. 10, 2015, 129 Stat. 2164, 2181.)
 
 #### References in Text
 

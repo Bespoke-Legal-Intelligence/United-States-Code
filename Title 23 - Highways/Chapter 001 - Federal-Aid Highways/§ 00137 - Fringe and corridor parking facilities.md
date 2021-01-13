@@ -16,7 +16,7 @@
 
 (e) The Secretary shall not approve any project under this section unless he determines that it is based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title.
 
-(f)(1) The Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(1), projects for designating existing facilities, or for acquisition of rights of way or construction of new facilities, including the addition of electric vehicle charging stations or natural gas vehicle refueling stations, for use as preferential parking for carpools, provided that such facilities (A) are located outside of a central business district and within an interstate highway corridor, and (B) have as their primary purpose the reduction of vehicular traffic on the interstate highway.
+(f)(1) The Secretary may approve for Federal financial assistance from funds apportionedunder section 104(b)(1), projects for designating existing facilities, or for acquisition of rights of way or construction of new facilities, including the addition of electric vehicle charging stations or natural gas vehicle refueling stations, for use as preferential parking for carpools, provided that such facilities (A) are located outside of a central business district and within an interstate highway corridor, and (B) have as their primary purpose the reduction of vehicular traffic on the interstate highway.
 
 (2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the use of any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
 
@@ -27,6 +27,8 @@
 Funding.—The addition of electric vehicle charging stations or natural gas vehicle refueling stations to new or previously funded parking facilities shall be eligible for funding under this section.
 
 (Added Pub. L. 89–574, §8(c)(1), Sept. 13, 1966, 80 Stat. 768; amended Pub. L. 91–605, title I, §134(a), Dec. 31, 1970, 84 Stat. 1733; Pub. L. 97–424, title I, §118, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 105–178, title I, §§1103(l)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 126, 193; Pub. L. 109–59, title I, §1921, Aug. 10, 2005, 119 Stat. 1480; Pub. L. 112–141, div. A, title I, §1513(a), July 6, 2012, 126 Stat. 572.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 91–605 substituted provisions preventing project approval
 Subsec. (c). Pub. L. 91–605 substituted provisions defining "parking facilities" for provisions limiting authorization of appropriations under sections 131, 136, and 319(b) of this title, or any highway safety bill enacted after May 1, 1966 by preventing the highway trust fund from being a source of appropriation for these sections and provisions in an amount exceeding the tax imposed by section 4061(a)(2) of Title 26, if such tax was imposed at a rate of 1% plus additional amounts appropriated from the general fund to the highway trust fund for such purposes except that the total of all appropriations made from such fund to carry out these sections and provisions shall never exceed the total of all appropriations made to such fund based on the imposition of such tax plus additional amounts appropriated from the general fund to the highway trust fund for such purposes.
 
 Subsecs. (d), (e). Pub. L. 91–605 added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

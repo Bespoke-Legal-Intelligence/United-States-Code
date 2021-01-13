@@ -6,7 +6,7 @@
 
 (2) Except as otherwise provided in subsections (c) and (d) in the case of a plan in existence on January 1, 1974, this part shall apply in the case of plan years beginning after December 31, 1975.
 
-(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (withinthe meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
+(c)(1) In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements between employee organizations and one or more employers, no plan shall be treated as not meeting the requirements of sections 1054 and 1055 of this title by reason of a supplementary or special plan provision (within the meaning of paragraph (2)) for any plan year before the year which begins after the earlier of—
 
 &emsp;(A) the date on which the last of such agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after September 2, 1974), or
 
@@ -42,6 +42,8 @@
 
 (Pub. L. 93–406, title I, §211, Sept. 2, 1974, 88 Stat. 867; Pub. L. 99–272, title XI, §11015(a)(1)(B), Apr. 7, 1986, 100 Stat. 265; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(h)(2), Dec. 19, 1989, 103 Stat. 2445, 2451.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1086(c) of this title, referred to in subsec. (c)(1), was in the original "section 307(c)", meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, §9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370 and subsequently was repealed by Pub. L. 109–280, title I, §101(a), Aug. 17, 2006, 120 Stat. 784.
@@ -57,6 +59,8 @@ Section 1017(d) of this Act, referred to in subsec. (d), is section 1017 of Pub.
 Subsec. (f). Pub. L. 101–239, §7894(h)(2), added subsec. (f).
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–272 made a technical amendment to the reference to section 1086(c) of this title to reflect the renumbering of the corresponding section of the original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

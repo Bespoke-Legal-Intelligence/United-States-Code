@@ -18,9 +18,11 @@ Inclusion in Security Plan.—A response plan required under this subsection for
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2072; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Administrator of the Federal Emergency Management Agency" and "Administrator's" substituted for"Director of the Federal Emergency Management Agency" and "Director's", respectively, on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" and "Administrator's" substituted for "Director of the Federal Emergency Management Agency" and "Director's", respectively, on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

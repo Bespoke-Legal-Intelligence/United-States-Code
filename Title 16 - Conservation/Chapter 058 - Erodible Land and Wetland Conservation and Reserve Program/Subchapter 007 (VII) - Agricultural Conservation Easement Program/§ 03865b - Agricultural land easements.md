@@ -78,7 +78,7 @@ The Secretary shall facilitate and provide funding for—
 
 #### (E) Bidding down
 
-&emsp;&emsp;If the Secretary determines that 2 or more applications for cost-share assistance are comparable in achieving the purpose of theprogram, the Secretary shall not assign a higher priority to any of those applications solely on the basis of lesser cost to the program.
+&emsp;&emsp;If the Secretary determines that 2 or more applications for cost-share assistance are comparable in achieving the purpose of the program, the Secretary shall not assign a higher priority to any of those applications solely on the basis of lesser cost to the program.
 
 #### (4) Agreements with eligible entities
 

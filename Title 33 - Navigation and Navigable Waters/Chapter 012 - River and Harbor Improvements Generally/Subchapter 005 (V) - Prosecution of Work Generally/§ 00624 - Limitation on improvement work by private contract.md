@@ -14,9 +14,11 @@ In estimating the comparable cost of doing the work under subsection (a)(1) by G
 
 #### (c) Considerations involved in determinations of estimation of cost of performance of work by well-equipped contractor
 
-In determining a fair and reasonable estimated cost of doing work by private contractunder subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen's compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
+In determining a fair and reasonable estimated cost of doing work by private contract under subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen's compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
 
 (Mar. 2, 1919, ch. 95, §8, 40 Stat. 1290; Pub. L. 95–269, §2, Apr. 26, 1978, 92 Stat. 219.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -25,6 +27,8 @@ Section is from the Rivers and Harbors Appropriation Act of 1919.
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–269 designated existing provision as subsec. (a), substituted provisions relating to determinations by the Secretary of the Army, acting through the Chief of Engineers, respecting contract prices for performance of works of river and harbor improvement by a Government plant or by a well-equipped contractor as a limitation on performance of the work by private contract, for provisions relating to limitation on use of funds for works of river and harbor improvement pursuant to private contract based on estimation of cost for performance of work by Government plant and factors constituting cost estimation, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Compensation for Increased Costs
 

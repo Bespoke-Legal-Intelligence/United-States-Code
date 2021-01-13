@@ -6,9 +6,13 @@
 
 (June 27, 1952, ch. 477, title IV, ch. 2, §411, as added Pub. L. 96–212, title III, §311(a)(2), Mar. 17, 1980, 94 Stat. 110; amended Pub. L. 103–236, title I, §162(n)(1), Apr. 30, 1994, 108 Stat. 409.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted "the Secretary of State" for "and under the general policy guidance of the United States Coordinator for Refugee Affairs (hereinafter in this subchapter referred to as the 'Coordinator')".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

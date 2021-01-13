@@ -6,7 +6,7 @@ In the case of any overpayment, the Secretary, within the applicable period of l
 
 #### (b) Credits against estimated tax
 
-The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
+The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year ofthe amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
 
 #### (c) Offset of past-due support against overpayments
 
@@ -132,7 +132,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;Upon receiving notice from any State that a named person owes a covered unemployment compensation debt to such State, the Secretary shall, under such conditions as may be prescribed by the Secretary—
 
-&emsp;&emsp;(A) reduce the amount of any overpayment payable to such person by the amount ofsuch covered unemployment compensation debt;
+&emsp;&emsp;(A) reduce the amount of any overpayment payable to such person by the amount of such covered unemployment compensation debt;
 
 &emsp;&emsp;(B) pay the amount by which such overpayment is reduced under subparagraph (A) to such State and notify such State of such person's name, taxpayer identification number, address, and the amount collected; and
 
@@ -198,11 +198,11 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (g) Review of reductions
 
-No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), (e), or (f). No such reduction shall be subject to review bythe Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
+No court of the United States shall have jurisdiction to hear any action, whether legal or equitable, brought to restrain or review a reduction authorized by subsection (c), (d), (e), or (f). No such reduction shall be subject to review by the Secretary in an administrative proceeding. No action brought against the United States to recover the amount of any such reduction shall be considered to be a suit for refund of tax. This subsection does not preclude any legal, equitable, or administrative action against the Federal agency or State to which the amount of such reduction was paid or any such action against the Commissioner of Social Security which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act.
 
 #### (h) Federal agency
 
-For purposes of this section, the term "Federal agency" means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
+For purposes of this section, the term "Federal agency" means a department, agency, or instrumentality of the United States, and includesa Government corporation (as such term is defined in section 103 of title 5, United States Code).
 
 #### (i) Treatment of payments to States
 
@@ -370,7 +370,7 @@ Pub. L. 111–291, title VIII, §801(b), Dec. 8, 2010, 124 Stat. 3157, provided 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–328 applicable to refunds payable under section 6402 of this title on or after Sept. 30, 2008, see section 3(e) of Pub. L. 110–328, set out as a note under section 3304 of this title.
+Amendment by Pub. L. 110–328 applicable to refunds payable under section 6402 of this title on or after Sept.30, 2008, see section 3(e) of Pub. L. 110–328, set out as a note under section 3304 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -450,5 +450,5 @@ Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 #### Study by General Accounting Office of Operation and Effectiveness of Amendments by Section 2653 of Pub. L. 98–369
 
-Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, required the Comptroller General of theUnited States, in consultation with the Secretary of the Treasury, to conduct a study of the operation and effectiveness of amendments by section 2653 of Pub. L. 98–369 on voluntary compliance with the income tax laws and, by Apr. 1, 1989, submit a report and recommendations to Congress.
+Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, required the Comptroller General of the United States, in consultation with the Secretary of the Treasury, to conduct a study of the operation and effectiveness of amendments by section 2653 of Pub. L. 98–369 on voluntary compliance with the income tax laws and, by Apr. 1, 1989, submit a report and recommendations to Congress.
 

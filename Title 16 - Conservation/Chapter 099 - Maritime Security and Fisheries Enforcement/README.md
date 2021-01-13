@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [8001\.](%C2%A7%2008001%20-%20Definitions.md) | Definitions. |
 | [8002\.](%C2%A7%2008002%20-%20Purposes.md) | Purposes. |
-| [8003\.](%C2%A7%2008003%20-%20Statement%20of%20policy.md) | .Statement of policy. |
+| [8003\.](%C2%A7%2008003%20-%20Statement%20of%20policy.md) | Statement of policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

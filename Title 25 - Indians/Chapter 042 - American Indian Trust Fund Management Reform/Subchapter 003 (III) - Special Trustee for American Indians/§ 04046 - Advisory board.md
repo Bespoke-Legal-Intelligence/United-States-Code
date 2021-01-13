@@ -26,13 +26,17 @@ The advisory board shall terminate upon termination of the Office of Special Tru
 
 (Pub. L. 103–412, title III, §306, Oct. 25, 1994, 108 Stat. 4249; Pub. L. 104–109, §6(b), Feb. 12, 1996, 110 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–109 substituted "advisory board" for "Advisory Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appointment of New Members
 

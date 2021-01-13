@@ -14,7 +14,7 @@ Proceedings for the assessment of a civil penalty under this section shall be co
 
 #### (d) Use of penalties
 
-Subject to appropriations, penalties collected under this section may be used by the Secretaryof the Treasury to pay rewards under section 4225 of this title and, to the extent not used to pay such rewards, shall be deposited by the Secretary of the Treasury into the Fund.
+Subject to appropriations, penalties collected under this section may be used by the Secretary of the Treasury to pay rewards under section 4225 of this title and, to the extent not used to pay such rewards, shall be deposited by the Secretary of the Treasury into the Fund.
 
 #### (e) Enforcement
 
@@ -24,5 +24,5 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the departmen
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

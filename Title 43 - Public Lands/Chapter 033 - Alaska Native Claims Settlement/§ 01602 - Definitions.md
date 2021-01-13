@@ -4,7 +4,7 @@ For the purposes of this chapter, the term—
 
 (a) "Secretary" means the Secretary of the Interior;
 
-(b) "Native" means a citizen of the United States who is a person of one-fourth degree or more Alaska Indian (including Tsimshian Indians not enrolled in the Metlaktla <sup>1</sup> Indian Community) Eskimo, or Aleut blood, or combination thereof. The term includes any Native as so defined either or both of whose adoptive parents are not Natives. It also includes, in the absence of proof of a minimum blood quantum, any citizen of the United States who is regarded as an Alaska Native by the Native village or Native group of which he claims to be a member and whose father or mother is (or, if deceased, was) regarded as Native by any village or group. Any decision of the Secretary regarding eligibility for enrollment shall be final;
+(b) "Native" means a citizen of the United States who is a person of one-fourth degree or more Alaska Indian (including Tsimshian Indians not enrolled in the Metlaktla <sup>1</sup> Indian Community) Eskimo, or Aleut blood, or combination thereof. The term includes any Native as so defined either or both of whose adoptive parents are not Natives. It also includes, in the absenceof proof of a minimum blood quantum, any citizen of the United States who is regarded as an Alaska Native by the Native village or Native group of which he claims to be a member and whose father or mother is (or, if deceased, was) regarded as Native by any village or group. Any decision of the Secretary regarding eligibility for enrollment shall be final;
 
 (c) "Native village" means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of this chapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
 
@@ -56,6 +56,8 @@ For the purposes of this chapter, the term—
 
 (Pub. L. 92–203, §3, Dec. 18, 1971, 85 Stat. 689; Pub. L. 96–487, title XIV, §1401(d), Dec. 2, 1980, 94 Stat. 2492; Pub. L. 100–241, §3, Feb. 3, 1988, 101 Stat. 1789; Pub. L. 106–194, §3, May 2, 2000, 114 Stat. 243.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6(g) of the Alaska Statehood Act, as amended, referred to in subsec. (e), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
@@ -75,6 +77,8 @@ Subsec. (m). Pub. L. 100–241, §3(4), substituted "Group Corporation;" for "Na
 Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
 <b>1980</b>—Subsec. (m). Pub. L. 96–487 added subsec. (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

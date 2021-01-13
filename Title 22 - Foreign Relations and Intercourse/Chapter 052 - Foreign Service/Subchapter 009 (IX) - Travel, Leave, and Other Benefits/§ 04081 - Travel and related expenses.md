@@ -1,6 +1,6 @@
 ### §4081. Travel and related expenses
 
-The Secretary may pay the travel and related expenses of members of the Service and their families, including costs or expenses incurred for—
+The Secretary may pay the travel and related expenses of members of the Service and theirfamilies, including costs or expenses incurred for—
 
 &emsp;(1) proceeding to and returning from assigned posts of duty;
 
@@ -44,7 +44,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(B) in connection with an assignment of the member to a new post, except that costs and expenses may be paid under this subparagraph only for the period beginning on the date of departure from his or her last post or (in the case of a new member) on the date of departure from the place of residence of the member and ending on the earlier of the date which is 3 months after arrival of the member at the new post or the date on which the member establishes residence quarters, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days; and
 
-&emsp;&emsp;(C) in connection with separation of the member from the Service, except that costs or expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
+&emsp;&emsp;(C) in connection with separation of the member from the Service, except that costsor expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
 
 &emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under this paragraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
 
@@ -64,6 +64,8 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 (Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" after "United States".
@@ -81,6 +83,8 @@ Par. (12)(B). Pub. L. 102–138, §145(1), inserted before semicolon ", except 
 Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon ", except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days".
 
 <b>1990</b>—Par. (9). Pub. L. 101–246 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "round-trip travel from a location abroad for purposes of family visitation in emergency situations involving personal hardship;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

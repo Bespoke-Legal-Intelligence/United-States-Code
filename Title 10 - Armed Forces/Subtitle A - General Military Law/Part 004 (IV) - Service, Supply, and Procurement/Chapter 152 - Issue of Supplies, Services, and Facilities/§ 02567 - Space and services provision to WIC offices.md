@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "services" includes the provision of lighting, heating, cooling, and electricity.
 
-&emsp;(2) The term "WIC office" means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786)) that participates in the special supplemental nutrition program for women, infants, and children under such section.
+&emsp;(2) The term "WIC office" means a local agency (as defined in subsection (b)(6) of section 17 of the Child Nutrition Act of 1966 (42U.S.C. 1786)) that participates in the special supplemental nutrition program for women, infants, and children under such section.
 
 (Added Pub. L. 114–328, div. B, title XXVIII, §2812(a), Dec. 23, 2016, 130 Stat. 2716.)
 

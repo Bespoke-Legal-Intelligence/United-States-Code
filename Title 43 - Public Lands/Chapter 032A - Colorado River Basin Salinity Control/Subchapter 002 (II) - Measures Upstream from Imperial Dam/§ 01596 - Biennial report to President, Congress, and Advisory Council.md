@@ -4,13 +4,17 @@ Commencing on January 1, 1975, and every two years thereafter, the Secretary sha
 
 (Pub. L. 93–320, title II, §206, June 24, 1974, 88 Stat. 274.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 615ww and 616e of this title, referred to in text, were omitted from the Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Secretary submit a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 113 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that theSecretary submit a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 113 of House Document No. 103–7.
 
 #### Termination of Advisory Councils
 

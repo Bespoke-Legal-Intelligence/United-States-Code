@@ -192,6 +192,8 @@ When deploying and maintaining tsunami detection technologies under the program 
 
 (Pub. L. 109–424, §4, Dec. 20, 2006, 120 Stat. 2903; Pub. L. 109–479, title VIII, §804, Jan. 12, 2007, 120 Stat. 3654; Pub. L. 115–25, title V, §§504, 512(a), Apr. 18, 2017, 131 Stat. 116, 128.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3205 of this title, referred to in subsec. (e)(2), was in the original "section 6", meaning section 6 of Pub. L. 109–424, and was translated as if it referred to section 806 of Pub. L. 109–479, which enacted a substantially identical section 3205 of this title. Section 6 of Pub. L. 109–424 was repealed by section 512(a) of Pub. L. 115–25.
@@ -216,7 +218,7 @@ Pub. L. 115–25, §504(b)(3), redesignated par. (4) as (5). Former par. (5) red
 
 Subsec. (b)(6). Pub. L. 115–25, §504(b)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 115–25, §504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;".
+Subsec. (b)(7). Pub. L. 115–25, §504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "include a cooperative effort among the Administration, the United States Geological Survey, and theNational Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;".
 
 Pub. L. 115–25, §504(b)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
@@ -241,6 +243,8 @@ Pub. L. 115–25, §504(g)(1), (3), redesignated subsec. (h) as (g) and struck o
 Subsec. (h). Pub. L. 115–25, §504(g)(3), redesignated subsec. (h) as (g).
 
 Subsecs. (i) to (k). Pub. L. 115–25, §504(g)(2), struck out subsecs. (i) to (k) which related to Comptroller General report, external review by the National Academy of Sciences, and establishment of a process for monitoring and certifying contractor performance, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

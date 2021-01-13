@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the public interest is served by the Forest Service, Department of Agriculture, in cooperation with other agencies, assessing the Nation's renewable resources, and developing and preparing a national renewable resource program, which is periodically reviewed and updated;
 
-&emsp;(3) to serve the national interest, the renewable resource program must be based on a comprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
+&emsp;(3) to serve the national interest, the renewable resource program must be based on acomprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
 
 &emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
 

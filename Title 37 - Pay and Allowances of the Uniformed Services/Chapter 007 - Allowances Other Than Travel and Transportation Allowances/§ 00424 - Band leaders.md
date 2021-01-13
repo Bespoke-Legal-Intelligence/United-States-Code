@@ -50,6 +50,8 @@ Historical and Revision Notes
 
 \[None.\]
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "section 8287 of title 10" for "section 6222 of title 10".
@@ -57,6 +59,8 @@ Historical and Revision Notes
 <b>1978</b>—Subsecs. (b) to (f). Pub. L. 95–551 redesignated subsecs. (c) to (f) as (b) to (e), respectively. Former subsec. (b), which provided that the director of music at the United States Military Academy be entitled to allowances of a commissioned officer of the rank prescribed for the director by the Secretary of the Army, was struck out.
 
 <b>1965</b>—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

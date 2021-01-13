@@ -38,7 +38,9 @@
 
 (e) The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
+(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I,§109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -54,13 +56,15 @@ Subsec. (a)(12). Pub. L. 111–211, §261(b)(3), inserted ", tribal," after "St
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 
 Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: "That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible".
 
 #### Repeals
 
-Section 521 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

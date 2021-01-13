@@ -32,6 +32,8 @@ The Secretary may accept and expend additional funds from other Federal programs
 
 (Pub. L. 100–676, §7, Nov. 17, 1988, 102 Stat. 4022; Pub. L. 104–303, title II, §214, Oct. 12, 1996, 110 Stat. 3684.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (d), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
@@ -56,6 +58,8 @@ General Investigations' of title I of the Energy and Water Development Appropria
 
 Subsec. (f). Pub. L. 104–303, §214(b)(1), redesignated subsec. (e) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Magnetic Levitation Technology
 
 Pub. L. 101–640, title IV, §417, Nov. 28, 1990, 104 Stat. 4652, provided that:
@@ -66,7 +70,7 @@ Research and Development.—The Secretary is authorized, in cooperation with the
 
 "(b)
 
-Collaboration.—The Secretary is authorized to collaborate with non-Federal entities (including State and local governments, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under laws of a State or the District of Columbia) in carrying out research and development on magnetic levitation technology.
+Collaboration.—The Secretary is authorized to collaborate with non-Federal entities (including Stateand local governments, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under laws of a State or the District of Columbia) in carrying out research and development on magnetic levitation technology.
 
 "(c)
 

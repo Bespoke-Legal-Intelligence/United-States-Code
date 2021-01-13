@@ -36,6 +36,8 @@
 
 (Pub. L. 102–580, title V, §503, Oct. 31, 1992, 106 Stat. 4865.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501(b)(4), referred to in subsecs. (a)(1) and (b)(1)(B), means section 501(b)(4) of Pub. L. 102–580, which is set out below.
@@ -43,6 +45,8 @@ Section 501(b)(4), referred to in subsecs. (a)(1) and (b)(1)(B), means section 5
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992 and also as part of the National Contaminated Sediment Assessment and Management Act, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Contaminated Sediments Information
 
@@ -56,7 +60,7 @@ Pub. L. 102–580, title V, §§501, 502, Oct. 31, 1992, 106 Stat. 4864, provide
 
 "(a)
 
-Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of thistitle, and enacting provisions set out below\] may be cited as the 'National Contaminated Sediment Assessment and Management Act'.
+Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of this title, and enacting provisions set out below\] may be cited as the 'National Contaminated Sediment Assessment and Management Act'.
 
 "(b)
 

@@ -79,7 +79,7 @@
 | [<b>85.</b>](Chapter%20085%20-%20Prison-Made%20Goods/README.md) | <b>Prison-made goods</b> | <b>1761</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Prisons/README.md) | <b>Prisons</b> | <b>1791</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Privacy/README.md) | <b>Privacy</b> | <b>1801</b> |
-| [<b>89.</b>](Chapter%20089%20-%20Professions%20and%20Occupations/README.md) | <b>Professions and occupations</b> | <b>1821</b> |
+| <b>\[89.</b> | <b>Repealed.\]</b> |  |
 | [<b>90.</b>](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md) | <b>Protection of trade secrets</b> | <b>1831</b> |
 | [<b>90A.</b>](Chapter%20090A%20-%20Protection%20of%20Unborn%20Children/README.md) | <b>Protection of unborn children</b> | <b>1841</b> |
 | [<b>91.</b>](Chapter%20091%20-%20Public%20Lands/README.md) | <b>Public lands</b> | <b>1851</b> |
@@ -119,7 +119,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(a), Dec. 27, 2020, 134 Stat. 2156, struck out item for chapter 89 "Professions and occupations".
 
 <b>2017</b>—Pub. L. 115–70, title IV, §402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted "Telemarketing and email marketing fraud" for "Telemarketing fraud" in item for chapter 113A.
 
@@ -165,11 +169,11 @@ Pub. L. 101–519, §132(c), Nov. 5, 1990, 104 Stat. 2252, substituted "Terroris
 
 Pub. L. 101–298, §3(c), May 22, 1990, 104 Stat. 203, added item for chapter 10.
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7063, Nov. 18, 1988, 102 Stat. 4404, substituted "Bribery, graft, and conflicts of interest" for "Bribery and graft" in item for chapter 11, substituted "carrier operation under the influence of alcohol or drugs....341" for "Carrier Operation Under the Influence of Alcohol or Drugs" in item for chapter 17A, substituted "abuse" for "Abuse", in item for chapter 109A, struck out final period and inserted "....2331" in item for chapter 113A, and substituted "wire and electronic communications and transactional records access" for "Wire and Electronic Communications and Transactional Records Access" in item for chapter 121.
+<b>1988</b>—Pub. L. 100–690, title VII, §7063, Nov. 18, 1988, 102 Stat. 4404, substituted "Bribery, graft, and conflicts of interest" for "Bribery and graft" in item for chapter 11, substituted "carrier operation under the influence of alcohol or drugs....341" for "Carrier Operation Under the Influence of Alcohol or Drugs" in item for chapter17A, substituted "abuse" for "Abuse", in item for chapter 109A, struck out final period and inserted "....2331" in item for chapter 113A, and substituted "wire and electronic communications and transactional records access" for "Wire and Electronic Communications and Transactional Records Access" in item for chapter 121.
 
 Pub. L. 100–606, §2(b), Nov. 4, 1988, 102 Stat. 3047, added item for chapter 50A.
 
-<b>1986</b>—Pub. L. 99–646, §87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, §3(a)(7), Nov. 14, 1986, 100 Stat.3663, amended analysis identically, striking out item for chapter 99 "Rape" and adding item for chapter 109A.
+<b>1986</b>—Pub. L. 99–646, §87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, §3(a)(7), Nov. 14, 1986, 100 Stat. 3663, amended analysis identically, striking out item for chapter 99 "Rape" and adding item for chapter 109A.
 
 Pub. L. 99–628, §5(a)(2), Nov. 7, 1986, 100 Stat. 3511, substituted "Transportation for illegal sexual activity and related crimes" for "White slave traffic" as item for chapter 117.
 
@@ -282,7 +286,7 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 085 - Prison-Made Goods](Chapter%20085%20-%20Prison-Made%20Goods/README.md)
 - [Chapter 087 - Prisons](Chapter%20087%20-%20Prisons/README.md)
 - [Chapter 088 - Privacy](Chapter%20088%20-%20Privacy/README.md)
-- [Chapter 089 - Professions and Occupations](Chapter%20089%20-%20Professions%20and%20Occupations/README.md)
+- [Chapter 089 - Repealed](Chapter%20089%20-%20Repealed/README.md)
 - [Chapter 090 - Protection of Trade Secrets](Chapter%20090%20-%20Protection%20of%20Trade%20Secrets/README.md)
 - [Chapter 090A - Protection of Unborn Children](Chapter%20090A%20-%20Protection%20of%20Unborn%20Children/README.md)
 - [Chapter 091 - Public Lands](Chapter%20091%20-%20Public%20Lands/README.md)

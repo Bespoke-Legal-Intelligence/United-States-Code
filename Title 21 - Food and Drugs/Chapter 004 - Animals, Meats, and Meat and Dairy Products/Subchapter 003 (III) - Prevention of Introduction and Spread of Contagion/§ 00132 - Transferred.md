@@ -1,5 +1,7 @@
 ### §132. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act May 23, 1908, ch. 192, 35 Stat. 254, which related to inspection of dairy products for export, was transferred to section 693 of this title.

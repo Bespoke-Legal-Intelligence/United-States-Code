@@ -60,6 +60,8 @@ In furtherance of the strategic plan required under subsection (a), the Secretar
 
 (Pub. L. 109–347, title II, §201, Oct. 13, 2006, 120 Stat. 1901; Pub. L. 115–254, div. J, §1804, Oct. 5, 2018, 132 Stat. 3533.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1804(1), substituted "triennially" for "as appropriate".

@@ -90,6 +90,8 @@ July 4, 1966, Pub. L. 89–488, §5(a), 80 Stat. 253.
 
 The words "another retirement system for employees of the Government" are substituted for "any other Federal Act or program providing retirement benefits for employees".
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 224 are classified to sections 423 and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -103,6 +105,8 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 <b>1986</b>—Subsec. (d). Pub. L. 99–335 added subsec. (d).
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–416 struck out "and" in cl. (1), substituted a semicolon for a period in cl. (2), and added cls. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

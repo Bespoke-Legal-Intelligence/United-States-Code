@@ -2,7 +2,7 @@
 
 #### (a) Operation; Director
 
-The defense dependents' education system is operated through the field activity of the Department of Defense known as the Department of Defense Education Activity. That activity is headed by a Director, who is a civilian and is selected by the Secretary of Defense. The Directorreports to an Assistant Secretary of Defense designated by the Secretary of Defense for purposes of this chapter.
+The defense dependents' education system is operated through the field activity of the Department of Defense known as the Department of Defense Education Activity. That activity is headed by a Director, who is a civilian and is selected by the Secretary of Defense. The Director reports to an Assistant Secretary of Defense designated by the Secretary of Defense for purposes of this chapter.
 
 #### (b) Implementation of program functions of Secretary of Defense through Director
 
@@ -26,7 +26,7 @@ The Director shall—
 
 #### (d) Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees
 
-(1) The Director shall establish appropriate regional or area offices in order to provide for thorough and efficient administration of the defense dependents' education system.
+(1) The Director shall establish appropriate regional or area offices in order to provide forthorough and efficient administration of the defense dependents' education system.
 
 (2) Whenever the Department of Defense Education Activity is reorganized in a manner that affects the defense dependents' education system, the Secretary of Defense shall submit a report to the Congress describing the reorganization.
 

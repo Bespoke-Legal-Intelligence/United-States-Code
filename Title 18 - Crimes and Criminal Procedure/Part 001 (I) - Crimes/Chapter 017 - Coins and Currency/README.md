@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–81, title II, §212(b), July 23, 1965, 79 Stat. 257, added item 337.

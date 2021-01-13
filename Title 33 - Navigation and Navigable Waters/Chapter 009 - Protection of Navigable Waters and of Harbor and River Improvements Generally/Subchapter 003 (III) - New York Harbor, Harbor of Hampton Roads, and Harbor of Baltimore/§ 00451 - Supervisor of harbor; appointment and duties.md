@@ -4,6 +4,8 @@ An officer of the Corps of Engineers shall, for each harbor subject to this subc
 
 (June 29, 1888, ch. 496, §5, 25 Stat. 210; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 29, 1949, ch. 278, 63 Stat. 300; July 12, 1952, ch. 707, 66 Stat. 596; Pub. L. 85–802, §1(6), Aug. 28, 1958, 72 Stat. 970.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–802 inserted "for each harbor subject to this subchapter," and substituted "Each such officer" for "This officer".
@@ -11,6 +13,8 @@ An officer of the Corps of Engineers shall, for each harbor subject to this subc
 <b>1952</b>—Act July 12, 1952, transferred enforcement responsibilities of this section from a Naval officer to the Army district engineer at New York.
 
 <b>1949</b>—Act June 29, 1949, struck out "shall receive the sea-pay of his grade and" after "this officer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -48,7 +48,7 @@ Ex. Ord. No. 13779, Feb. 28, 2017, 82 F.R. 12499, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance opportunities in higher education, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Historically black colleges and universities (HBCUs) have made, and continue to make, extraordinary contributions to the general welfare and prosperity of our country. Established by visionary leaders, America's HBCUs have, for more than 150 years, produced many of our Nation's leaders in business, government, academia, and the military, and have helped create a black middle class. The Nation's more than 100 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands, and serve more than 300,000 undergraduate, graduate, and professional students. These institutions are important engines of economic growth and public service, and they are proven ladders of intergenerational advancement.
+Section 1. <i>Policy</i>. Historically black colleges and universities (HBCUs) have made, and continue to make, extraordinary contributions to the general welfare and prosperity of our country. Established by visionaryleaders, America's HBCUs have, for more than 150 years, produced many of our Nation's leaders in business, government, academia, and the military, and have helped create a black middle class. The Nation's more than 100 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands, and serve more than 300,000 undergraduate, graduate, and professional students. These institutions are important engines of economic growth and public service, and they are proven ladders of intergenerational advancement.
 
 A White House Initiative on HBCUs would: advance America's full human potential; foster more and better opportunities in higher education; strengthen the capacity of HBCUs to provide the highest-quality education; provide equitable opportunities for HBCUs to participate in Federal programs; and increase the number of college-educated Americans who feel empowered and able to advance the common good at home and abroad.
 
@@ -68,7 +68,7 @@ Sec. 2. <i>White House Initiative on HBCUs</i>.
 
 &emsp;(A) strengthening HBCUs' ability to equitably participate in Federal programs and exploring new ways of improving the relationship between the Federal Government and HBCUs;
 
-&emsp;(B) fostering private-sector initiatives and public-private partnerships while promoting specific areasand centers of academic research and program-based excellence throughout HBCUs;
+&emsp;(B) fostering private-sector initiatives and public-private partnerships while promoting specific areas and centers of academic research and program-based excellence throughout HBCUs;
 
 &emsp;(C) improving the availability, dissemination, and quality of information concerning HBCUs in the public policy sphere;
 

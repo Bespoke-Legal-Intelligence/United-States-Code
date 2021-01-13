@@ -36,7 +36,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(B) to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
 
-> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
+> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of thecontract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
 
 &emsp;(8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except as provided in subsection (b) or (c) of section 3833 of this title;
 

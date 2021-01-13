@@ -34,6 +34,8 @@ June 29, 1940, ch. 446, §1, 54 Stat. 689.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, in concluding provisions, substituted "Puerto Rico or" for "Puerto Rico," and struck out ", or the Republic of Panama" after "Pacific Islands".
@@ -53,6 +55,8 @@ Subsec. (b). Pub. L. 104–186 substituted "Chief Administrative Officer" for "C
 Subsec. (a). Pub. L. 91–563 designated existing provisions as subsec. (a) and expanded such provisions to authorize leave for jury service in courts in the District of Columbia and in territories and possessions of the United States, to permit leave for persons summoned as witnesses in behalf of a party other than the United States, the District of Columbia, or a private party, defined "judicial proceeding", and excepted individuals whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 Subsecs. (b), (c). Pub. L. 91–563 added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

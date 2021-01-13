@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(H) the United States Secret Service and the United States Secret Service Uniformed Division.
 
-&emsp;(4) "labor organization" means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances andconditions of employment, but does not include—
+&emsp;(4) "labor organization" means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose the dealing with an agency concerning grievances and conditions of employment, but does not include—
 
 &emsp;&emsp;(A) an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
 
@@ -126,6 +126,8 @@
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(3)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -143,6 +145,8 @@ Subsec. (a)(3). Pub. L. 105–220, in introductory provisions, struck out "and" 
 <b>1991</b>—Subsec. (a)(3). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>1980</b>—Subsec. (a)(2)(iv). Pub. L. 96–465 struck out "the Agency for International Development, or" after "Department of State," and inserted "the United States International Development Cooperation Agency, the Department of Agriculture, or the Department of Commerce" after "Communication Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -174,9 +178,11 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, §3(b), Apr. 24, 2019, 84 F.R. 18130, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992; Ex. Ord. No. 13741, §3, Sept. 29, 2016, 81 F.R. 68291; Ex. Ord. No. 13760, §2, Jan. 12, 2017, 82 F.R. 5325; Ex. Ord. No. 13869, §3(b), Apr. 24, 2019, 84 F.R. 18130, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -580,7 +586,7 @@ States and the District of Columbia
 
 Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
@@ -642,7 +648,7 @@ Ex. Ord. No. 13760, Jan. 12, 2017, 82 F.R. 5325, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7103(b)(1) of title 5, United States Code, and in order to reflect the effects of the reorganization and restructuring of the Department of Defense on its agencies and subdivisions exempted from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
-Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
+Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
 
 Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979, as amended, is further amended by:
 
@@ -913,6 +919,38 @@ Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute
+
+Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The national security interests of the United States require expedient and efficient decisionmaking. When new missions emerge or existing ones evolve, the Department of Defense requires maximum flexibility to respond to threats to carry out its mission of protecting the American people. This flexibility requires that military and civilian leadership manage their organizations to cultivate a lethal, agile force adaptive to new technologies and posture changes. Where collective bargaining is incompatible with these organizations' missions, the Department of Defense should not be forced to sacrifice its national security mission and, instead, seek relief through third parties and administrative fora.
+
+Sec. 2. <i>Delegation of Authority to the Secretary of Defense</i>. (a) The Secretary of Defense (Secretary) is delegated authority under 5 U.S.C. 7103(b)(1) and 7103(b)(2) to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Statute coverage. The Secretary is authorized to further delegate this authority to any official of the Department of Defense appointed by the President with the advice and consent of the Senate.
+
+(b) When making the determination required by 5 U.S.C. 7103(b)(1) or 7103(b)(2), the Secretary or other official delegated this authority pursuant to subsection (a) of this section shall publish this determination in the Federal Register.
+
+(c) Any official to whom the Secretary of Defense delegates the authority pursuant to subsection (a) of this section may not further delegate this authority.
+
+(d) For purposes of this memorandum, the term "Department of Defense agencies or subdivisions" includes without limitation the military departments.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

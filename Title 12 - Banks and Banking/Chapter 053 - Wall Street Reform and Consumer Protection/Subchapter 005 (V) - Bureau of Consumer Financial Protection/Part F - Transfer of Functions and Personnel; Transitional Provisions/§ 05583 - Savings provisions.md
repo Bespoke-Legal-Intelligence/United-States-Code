@@ -26,7 +26,7 @@
 
 #### (2) Continuation of suits
 
-&emsp;No provision of this Act shall abate any proceeding commenced by or against the FederalDeposit Insurance Corporation (or the Board of Directors of that Corporation) before the designated transfer date with respect to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title,<sup>1</sup> except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Federal Deposit Insurance Corporation (or Board of Directors) as a party to any such proceeding as of the designated transfer date.
+&emsp;No provision of this Act shall abate any proceeding commenced by or against the Federal Deposit Insurance Corporation (or the Board of Directors of that Corporation) before the designated transfer date with respect to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title,<sup>1</sup> except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Federal Deposit Insurance Corporation (or Board of Directors) as a party to any such proceeding as of the designated transfer date.
 
 #### (c) Federal Trade Commission
 
@@ -76,7 +76,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (2) Continuation of suits
 
-&emsp;No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
+&emsp;No provision of this Act shall abate any proceeding commenced by or against the Directorof the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
 
 #### (g) Department of Housing and Urban Development
 
@@ -121,6 +121,8 @@ Not later than the designated transfer date, the Bureau—
 &emsp;Any interim or final rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has published before the designated transfer date, but which has not become effective before that date, shall become effective as a rule of the Bureau according to its terms.
 
 (Pub. L. 111–203, title X, §1063, July 21, 2010, 124 Stat. 2040.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

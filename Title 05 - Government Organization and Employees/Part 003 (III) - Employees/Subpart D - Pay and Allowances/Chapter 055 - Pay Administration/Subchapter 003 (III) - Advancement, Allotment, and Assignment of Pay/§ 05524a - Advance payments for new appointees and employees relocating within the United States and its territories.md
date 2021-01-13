@@ -26,6 +26,8 @@
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §107(a)\], Nov. 5, 1990, 104 Stat. 1427, 1449; amended Pub. L. 114–328, div. A, title XI, §1134(a)–(c)(1), Dec. 23, 2016, 130 Stat. 2459.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328, §1134(c)(1), inserted "and employees relocating within the United States and its territories" after "appointees" in section catchline.
@@ -35,6 +37,8 @@ Subsec. (a). Pub. L. 114–328, §1134(a), designated existing provisions as par
 Subsec. (b)(1). Pub. L. 114–328, §1134(b)(1), inserted "or assigned" after "appointed".
 
 Subsec. (b)(2)(B). Pub. L. 114–328, §1134(b)(2), inserted "or assignment" after "appointment" and "or assigned" after "appointed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

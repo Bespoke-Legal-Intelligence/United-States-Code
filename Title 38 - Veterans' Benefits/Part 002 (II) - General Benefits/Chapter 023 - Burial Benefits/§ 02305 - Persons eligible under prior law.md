@@ -4,6 +4,8 @@ The death of any person who had a status which would, under the laws in effect o
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, §905; renumbered §2305, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 905 of this title as this section.

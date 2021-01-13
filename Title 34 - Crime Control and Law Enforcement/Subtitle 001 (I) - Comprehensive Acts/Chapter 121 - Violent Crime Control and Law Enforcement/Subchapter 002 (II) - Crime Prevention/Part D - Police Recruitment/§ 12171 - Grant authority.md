@@ -62,7 +62,7 @@ Not later than 60 days after the date that an application for a grant under subs
 
 &emsp;(1) approve the application and disburse the grant funds applied for; or
 
-&emsp;(2) disapprove the application and inform the applicant that the application is not approved and provide the applicant with the reasons for the disapproval.
+&emsp;(2) disapprove the application and inform the applicant that the application is not approvedand provide the applicant with the reasons for the disapproval.
 
 #### (f) Grant disbursement
 
@@ -99,6 +99,8 @@ The Attorney General shall, by regulation, prescribe guidelines on content and r
 &emsp;(4) the content and duration of recruitment, retention, and counseling programs and the means and devices used to publicize such programs.
 
 (Pub. L. 103–322, title III, §30801, Sept. 13, 1994, 108 Stat. 1857.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

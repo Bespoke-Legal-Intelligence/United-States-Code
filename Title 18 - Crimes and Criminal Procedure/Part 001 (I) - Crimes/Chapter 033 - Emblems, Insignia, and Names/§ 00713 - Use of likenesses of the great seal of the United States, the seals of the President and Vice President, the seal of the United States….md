@@ -22,6 +22,8 @@
 
 (Added Pub. L. 89–807, §1(a), Nov. 11, 1966, 80 Stat. 1525; amended Pub. L. 91–651, §1, Jan. 5, 1971, 84 Stat. 1940; Pub. L. 102–229, title II, §210(a)–(d), Dec. 12, 1991, 105 Stat. 1717; Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 105–55, title III, §308(a)–(d), Oct. 7, 1997, 111 Stat. 1198.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–55, §308(d), substituted "the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress" for "and the seal of the United States Senate" in section catchline.
@@ -40,7 +42,7 @@ Subsec. (f)(3), (4). Pub. L. 105–55, §308(c), added pars. (3) and (4).
 
 Subsec. (a). Pub. L. 102–229, §210(b), inserted "or the seal of the United States Senate," after "Vice President of the United States,".
 
-Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: "A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States."
+Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended former subsec. (c) generally, andredesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: "A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States."
 
 <b>1971</b>—Pub. L. 91–651 substituted "Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President" for "Use of the great seal of the United States" in section catchline.
 
@@ -48,9 +50,13 @@ Subsec. (a). Pub. L. 91–651 redesignated existing provisions as subsec. (a), e
 
 Subsecs. (b), (c). Pub. L. 91–651 added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1971 Amendment
 
-Pub. L. 91–651, §3, Jan. 5, 1971, 84 Stat. 1941, provided that: The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment."
+Pub. L. 91–651, §3, Jan. 5, 1971, 84 Stat. 1941, provided that: "The amendments made by this Act \[amending this section\] shall not make unlawful any preexisting use of the design of the great seal of the United States or of the seals of the President or Vice President of the United States that was lawful on the date of enactment of this Act \[Jan. 5, 1971\], until one year after the date of such enactment."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11649. Regulations Governing Seals of President and Vice President of United States
 

@@ -6,7 +6,7 @@
 
 &emsp;85 percent of the amount available for grants under section 12103 of this title for any fiscal year shall be allocated as follows (except that a State may not receive more than 9 percent of the total amount of funds made available under this paragraph):
 
-&emsp;&emsp;(A) 0.75 percent shall be allocated to each State that meets the requirements of section 12103(a) of this title, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligible under section 12103(a) of this title, shall each be allocated 0.05 percent.
+&emsp;&emsp;(A) 0.75 percent shall be allocated to each State that meets the requirements of section 12103(a) of this title, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligibleunder section 12103(a) of this title, shall each be allocated 0.05 percent.
 
 &emsp;&emsp;(B) The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 12103(b) of this title, in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States that meet the requirements of section 12103(b) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
 
@@ -20,7 +20,7 @@
 
 #### (b) Allocation of truth-in-sentencing grants under section 12104
 
-The amounts available for grants for section 12104 of this title shall be allocated to each State that meets the requirements of section 12104 of this title in the ratio that the averageannual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made bears to the average annual number of part 1 violent crimes reported by States that meet the requirements of section 12104 of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, except that a State may not receive more than 25 percent of the total amount available for such grants.
+The amounts available for grants for section 12104 of this title shall be allocated to each State that meets the requirements of section 12104 of this title in the ratio that the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made bears to the average annual number of part 1 violent crimes reported by States that meet the requirements of section 12104 of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, except that a State may not receive more than 25 percent of the total amount available for such grants.
 
 #### (c) Unavailable data
 
@@ -31,6 +31,8 @@ If data regarding part 1 violent crimes in any State is substantially inaccurate
 In determining the amount of funds that States organized as a regional compact may receive, the Attorney General shall first apply the formula in either subsection (a) or (b) and (c) of this section to each member State of the compact. The States organized as a regional compact may receive the sum of the amounts so determined.
 
 (Pub. L. 103–322, title II, §20106, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–18; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

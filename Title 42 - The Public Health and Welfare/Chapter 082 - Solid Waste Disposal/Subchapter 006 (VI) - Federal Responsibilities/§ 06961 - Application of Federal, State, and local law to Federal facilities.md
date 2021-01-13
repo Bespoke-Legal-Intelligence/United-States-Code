@@ -32,7 +32,7 @@ In general.—Except as otherwise provided in paragraphs (2) and (3), the amendm
 
 "(2)
 
-Delayed effective date for certain mixed waste.—Until the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid WasteDisposal Act \[subsec. (a) of this section\] with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a)) shall not apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act \[42 U.S.C. 6924(j)\] involving storage of mixed waste that is not subject to an existing agreement, permit, or administrative or judicial order, so long as such waste is managed in compliance with all other applicable requirements.
+Delayed effective date for certain mixed waste.—Until the date that is 3 years after the date of the enactment of this Act, the waiver of sovereign immunity contained in section 6001(a) of the Solid Waste Disposal Act \[subsec. (a) of this section\] with respect to civil, criminal, and administrative penalties and fines (as added by the amendments made by subsection (a)) shall not apply to departments, agencies, and instrumentalities of the executive branch of the Federal Government for violations of section 3004(j) of the Solid Waste Disposal Act \[42 U.S.C. 6924(j)\] involving storage of mixed waste that is not subject to an existing agreement, permit, or administrative or judicial order, so long as such waste is managed in compliance with all other applicable requirements.
 
 "(3)
 

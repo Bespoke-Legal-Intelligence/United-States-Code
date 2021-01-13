@@ -1,8 +1,12 @@
 ### §1777. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 106–425, §2, Nov. 1, 2000, 114 Stat. 1890, which set out congressional findings and purposes, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

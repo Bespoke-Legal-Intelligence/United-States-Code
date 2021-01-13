@@ -40,7 +40,7 @@ The responsible party for—
 
 &emsp;&emsp;Except as provided in paragraph (2), a responsible party with respect to an offshore facility that—
 
-&emsp;&emsp;&emsp;(i)(I) is located seaward of the line of ordinary low water along that portion of the coast that is in direct contact with the open sea and the line marking the seaward limit of inland waters; or
+&emsp;&emsp;&emsp;(i)(I) is located seaward of the line of ordinary low water along that portion of the coast that is in direct contact with theopen sea and the line marking the seaward limit of inland waters; or
 
 &emsp;&emsp;&emsp;(II) is located in coastal inland waters, such as bays or estuaries, seaward of the line of ordinary low water along that portion of the coast that is not in direct contact with the open sea;
 
@@ -60,7 +60,7 @@ The responsible party for—
 
 #### (C) Greater amount
 
-&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by thequantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
+&emsp;&emsp;If the President determines that an amount of financial responsibility for a responsible party greater than the amount required by subparagraph (B) is justified based on the relative operational, environmental, human health, and other risks posed by the quantity or quality of oil that is explored for, drilled for, produced, or transported by the responsible party, the evidence of financial responsibility required shall be for an amount determined by the President not exceeding $150,000,000.
 
 #### (D) Multiple facilities
 
@@ -98,7 +98,7 @@ Financial responsibility under this section may be established by any one, or by
 
 &emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
 
-&emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has been provided has filed a petition for bankruptcy under title 11; or
+&emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has beenprovided has filed a petition for bankruptcy under title 11; or
 
 &emsp;&emsp;(C) the claim is asserted by the United States for removal costs and damages or for compensation paid by the Fund under this Act, including costs incurred by the Fund for processing compensation claims.
 
@@ -119,6 +119,8 @@ Any regulation relating to financial responsibility, which has been issued pursu
 The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
 (Pub. L. 101–380, title I, §1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, §2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, §1125(a), Oct. 19, 1996, 110 Stat. 3981; Pub. L. 111–281, title VII, §712, Oct. 15, 2010, 124 Stat. 2988.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -142,9 +144,13 @@ Subsec. (g). Pub. L. 104–324, §1125(a)(3), reenacted heading without change a
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–55 substituted "the responsible party could be subjected under section 2704(a) or (d) of this title" for ", in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–324, title XI, §1125(b), Oct. 19, 1996, 110 Stat. 3983, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall not apply to any final rule issued before the date of enactment of this section \[Oct. 19, 1996\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

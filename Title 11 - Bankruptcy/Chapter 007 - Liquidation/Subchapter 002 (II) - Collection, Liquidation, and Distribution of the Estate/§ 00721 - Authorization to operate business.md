@@ -1,6 +1,6 @@
 ### §721. Authorization to operate business
 
-The court may authorize the trustee to operate the business of the debtor for a limited period, if such operation is in the best interest of the estate and consistent with the orderly liquidation of the estate.
+The court may authorize the trustee to operate the business of the debtor for a limited period, if such operation is in the best interest ofthe estate and consistent with the orderly liquidation of the estate.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2606.)
 

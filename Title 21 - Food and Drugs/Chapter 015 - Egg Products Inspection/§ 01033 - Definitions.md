@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title; or
 
-&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; orif any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
+&emsp;(8) if any valuable constituent has been in whole or in part omitted or abstracted therefrom; or if any substance has been substituted, wholly or in part therefor; or if damage or inferiority has been concealed in any manner; or if any substance has been added thereto or mixed or packed therewith so as to increase its bulk or weight, or reduce its quality or strength, or make it appear better or of greater value than it is.
 
 (b) The term "capable of use as human food" shall apply to any egg or egg product, unless it is denatured, or otherwise identified, as required by regulations prescribed by the Secretary to deter its use as human food.
 
@@ -52,7 +52,7 @@ For purposes of this chapter—
 
 (5) The term "inedible" means eggs of the following descriptions: black rots, yellow rots, white rots, mixed rots (addled eggs), sour eggs, eggs with green whites, eggs with stuck yolks, moldy eggs, musty eggs, eggs showing blood rings, and eggs containing embryo chicks (at or beyond the blood ring stage).
 
-(6) The term "leaker" means an egg that has a crack or break in the shell and shell membranes to the extent that the egg contents are exposed or are exuding or free to exude through the shell.
+(6) The term "leaker" means an egg that has a crack or break in the shell and shell membranes to the extent that the egg contents areexposed or are exuding or free to exude through the shell.
 
 (7) The term "loss" means an egg that is unfit for human food because it is smashed or broken so that its contents are leaking; or overheated, frozen, or contaminated; or an incubator reject; or because it contains a bloody white, large meat spots, a large quantity of blood, or other foreign material.
 
@@ -102,6 +102,8 @@ For purposes of this chapter—
 
 (Pub. L. 91–597, §4, Dec. 29, 1970, 84 Stat. 1621; Pub. L. 102–571, title I, §107(15), Oct. 29, 1992, 106 Stat. 4499.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
@@ -117,6 +119,8 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (r), is title II 
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(2)(D). Pub. L. 102–571 substituted "379e" for "376".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

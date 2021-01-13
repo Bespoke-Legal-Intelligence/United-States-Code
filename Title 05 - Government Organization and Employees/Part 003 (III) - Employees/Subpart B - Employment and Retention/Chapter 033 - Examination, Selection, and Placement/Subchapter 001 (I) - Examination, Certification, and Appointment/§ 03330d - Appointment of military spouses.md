@@ -58,6 +58,8 @@ Single permanent appointment.—A spouse of a disabled or deceased member of the
 
 <i>For expiration of amendment by Pub. L. 115–232 and revival of section, see Termination Date of 2018 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §573(c), (e), temporarily amended section catchline generally, substituting "Appointment of military spouses" for "Appointment of certain military spouses". See Termination Date of 2018 Amendment note below.
@@ -67,6 +69,8 @@ Subsec. (a)(3) to (6). Pub. L. 115–232, §573(a)(1), (e), temporarily redesign
 Subsecs. (b) to (d). Pub. L. 115–232, §573(a)(2)–(4), (e), temporarily added subsec. (b) relating to appointment authority, temporarily redesignated subsec. (d) as (c) and substituted "subsection (a)(3)" for "subsection (a)(6)" in par. (1), and temporarily struck out former subsecs. (b) and (c) relating to appointment authority and special rules regarding relocating spouse, respectively. See Termination Date of 2018 Amendment note below.
 
 <b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2018 Amendment
 
@@ -102,6 +106,8 @@ Non-relocating spouses.—With respect to the noncompetitive appointment of a sp
 
 &emsp;"(B) may limit the number of such appointments."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13832. Enhancing Noncompetitive Civil Service Appointments of Military Spouses
 
 Ex. Ord. No. 13832, May 9, 2018, 83 F.R. 22343, provided:
@@ -134,7 +140,7 @@ Sec. 3. <i>Promoting Hiring for Military Spouses</i>. (a) To the greatest extent
 
 (d) OPM shall also periodically circulate notifications concerning the military spouse hiring authority and its eligibility requirements to each agency's Chief Human Capital Officer or the agency's equivalent officer, for such officer to transmit to appropriate offices and to notify eligible populations. Within 180 days of the date of this order \[May 9, 2018\], OPM shall post to its website, and circulate to each agency's Chief Human Capital Officer or the agency's equivalent officer, information about the military spouse hiring authority. That posting shall include a discussion of section 1131 of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, which amended 5 U.S.C. 3330d(c) to eliminate the time limitation on noncompetitive appointment for a relocating spouse of a member of the Armed Forces.
 
-(e) Within 180 days of the date of this order, OPM shall educate agencies concerning the military spouse hiring authority and ensure human resources personnel and hiring managers are briefed on techniques for its effective use. Concurrently, within 180 days of the date of this order, OPM shall provide any additional clarifying guidance it deems appropriate to agencies on provisions of the Telework Enhancement Act of 2010, Public Law 111–292 \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\], and agencies shall ensure that human resources personnel and hiring managers are briefed as needed on techniques for the effective use of telework.
+(e) Within 180 days of the date of this order, OPM shall educate agencies concerning the military spouse hiring authority and ensure human resources personnel and hiring managers are briefed on techniques for its effective use. Concurrently, within 180 days of the dateof this order, OPM shall provide any additional clarifying guidance it deems appropriate to agencies on provisions of the Telework Enhancement Act of 2010, Public Law 111–292 \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\], and agencies shall ensure that human resources personnel and hiring managers are briefed as needed on techniques for the effective use of telework.
 
 (f) Beginning in Fiscal Year 2019, agencies shall report annually (by December 31 of each year) to OPM and the Department of Labor the number of positions made available under the military spouse hiring authority, the number of applications submitted under the military spouse hiring authority, and the number of military spouses appointed under the military spouse hiring authority during the preceding fiscal year. Such report shall also describe actions taken during that period to advertise the military spouse hiring authority, as well as any other actions taken to promote the hiring of military spouses.
 

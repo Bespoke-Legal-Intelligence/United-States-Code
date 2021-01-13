@@ -1,5 +1,7 @@
 Part F—General Provisions
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 106–71, §3(n)(1)(B), Oct. 12, 1999, 113 Stat. 1040, redesignated part E as F.

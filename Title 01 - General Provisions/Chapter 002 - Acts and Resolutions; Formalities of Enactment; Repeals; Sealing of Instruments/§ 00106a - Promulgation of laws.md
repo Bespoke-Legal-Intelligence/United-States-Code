@@ -4,9 +4,13 @@ Whenever a bill, order, resolution, or vote of the Senate and House of Represent
 
 (Added Oct. 31, 1951, ch. 655, §2(b), 65 Stat. 710; amended Pub. L. 98–497, title I, §107(d), Oct. 19, 1984, 98 Stat. 2291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

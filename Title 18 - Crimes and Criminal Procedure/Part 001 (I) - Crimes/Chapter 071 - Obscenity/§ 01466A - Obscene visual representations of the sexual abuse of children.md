@@ -70,6 +70,8 @@ Definitions.—For purposes of this section—
 
 (Added Pub. L. 108–21, title V, §504(a), Apr. 30, 2003, 117 Stat. 680.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Sentencing Guidelines
 
 Pub. L. 108–21, title V, §504(c), Apr. 30, 2003, 117 Stat. 682, provided that:

@@ -84,7 +84,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) at the time the veteran could have been transferred safely to a Department facility or other Federal facility, no Department facility or other Federal facility agreed to accept such transfer; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the non-Department facility in which such medical care or services wasfurnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
+&emsp;&emsp;&emsp;&emsp;(II) the non-Department facility in which such medical care or services was furnished made and documented reasonable attempts to transfer the veteran to a Department facility or other Federal facility.
 
 &emsp;(2) The term "health-plan contract" includes any of the following:
 
@@ -110,6 +110,8 @@ Definitions.—For purposes of this section:
 
 (Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -125,6 +127,8 @@ Subsec. (f)(2)(E). Pub. L. 111–137, §1(a)(2), struck out subpar. (E) which re
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–387, §402(a)(1), substituted "shall reimburse" for "may reimburse".
 
 Subsec. (f)(1)(C). Pub. L. 110–387, §402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "until such time as the veteran can be transferred safely to a Department facility or other Federal facility".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

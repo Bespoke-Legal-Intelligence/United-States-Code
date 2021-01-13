@@ -74,5 +74,5 @@ Contents.—The report required by this section shall—
 
 &emsp;"(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and
 
-&emsp;"(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs, import quotas, and other governmental restrictions or trade policies impacting coal imports."
+&emsp;"(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs,import quotas, and other governmental restrictions or trade policies impacting coal imports."
 

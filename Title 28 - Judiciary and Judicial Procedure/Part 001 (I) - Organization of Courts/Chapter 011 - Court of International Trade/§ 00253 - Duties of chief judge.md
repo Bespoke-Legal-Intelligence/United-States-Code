@@ -22,6 +22,8 @@ The term "chief judge" was substituted for "presiding judge." (See Reviser's Not
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–317 struck out "; precedence of judges" after "chief judge" in section catchline and struck out subsecs. (d) and (e) which read as follows:
@@ -35,6 +37,8 @@ Changes were made in phraseology and arrangement.
 <b>1970</b>—Pub. L. 91–271 reorganized existing provisions into lettered subsecs. (a) to (e) and made minor changes in phraseology.
 
 <b>1959</b>—Pub. L. 86–243 required the chief judge to supervise the fiscal affairs and clerical force of the court, with the approval of the court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

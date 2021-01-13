@@ -22,11 +22,11 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 #### (1) General authorities of Board; petitions
 
-&emsp;For purposes of this section and except as otherwise provided in this section, the Boardshall exercise the authorities of the Federal Labor Relations Authority under sections 7105, 7111, 7112, 7113, 7115, 7117, 7118, and 7122 of title 5 and of the President under section 7103(b) of title 5. For purposes of this section, any petition or other submission that, under chapter 71 of title 5, would be submitted to the Federal Labor Relations Authority shall, if brought under this section, be submitted to the Board. The Board shall refer any matter under this paragraph to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title. The Board may direct that the General Counsel carry out the Board's investigative authorities under this paragraph.
+&emsp;For purposes of this section and except as otherwise provided in this section, the Board shall exercise the authorities of the Federal Labor Relations Authority under sections 7105, 7111, 7112, 7113, 7115, 7117, 7118, and 7122 of title 5 and of the President under section 7103(b) of title 5. For purposes of this section, any petition or other submission that, under chapter 71 of title 5, would be submitted to the Federal Labor Relations Authority shall, if brought under this section, be submitted to the Board. The Board shall refer any matter under this paragraph to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title. The Board may direct that the General Counsel carry out the Board's investigative authorities under this paragraph.
 
 #### (2) General authorities of the General Counsel; charges of unfair labor practice
 
-&emsp;For purposes of this section and except as otherwise provided in this section, the General Counsel shall exercise the authorities of the General Counsel of the Federal Labor Relations Authority under sections 7104 and 7118 of title 5. For purposes of this section, any charge or other submission that, under chapter 71 of title 5, would be submitted to the General Counsel of the Federal Labor Relations Authority shall, if brought under this section, be submitted to the General Counsel. If any person charges an employing office or a labor organization with having engaged in or engaging in an unfair labor practice and makes such charge within 180 days of the occurrence of the alleged unfair labor practice, the General Counsel shall investigate the charge and may file a complaint with the Office. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
+&emsp;For purposes of this section and except as otherwise provided in this section, the General Counsel shall exercise the authorities of the General Counsel of the Federal Labor Relations Authority under sections 7104 and 7118 of title 5. For purposes of this section, any charge or other submission that, under chapter 71 of title 5, would be submitted to theGeneral Counsel of the Federal Labor Relations Authority shall, if brought under this section, be submitted to the General Counsel. If any person charges an employing office or a labor organization with having engaged in or engaging in an unfair labor practice and makes such charge within 180 days of the occurrence of the alleged unfair labor practice, the General Counsel shall investigate the charge and may file a complaint with the Office. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title, subject to review by the Board pursuant to section 1406 of this title.
 
 #### (3) Judicial review
 
@@ -72,7 +72,7 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 &emsp;&emsp;(B) a standing, select, special, permanent, temporary, or other committee of the Senate or House of Representatives, or a joint committee of Congress;
 
-&emsp;&emsp;(C) the Office of the Vice President (as President of the Senate), the Office of the President pro tempore of the Senate, the Office of the Majority Leader of the Senate, the Office of the Minority Leader of the Senate, the Office of the Majority Whip of the Senate, the Office of the Minority Whip ofthe Senate, the Conference of the Majority of the Senate, the Conference of the Minority of the Senate, the Office of the Secretary of the Conference of the Majority of the Senate, the Office of the Secretary of the Conference of the Minority of the Senate, the Office of the Secretary for the Majority of the Senate, the Office of the Secretary for the Minority of the Senate, the Majority Policy Committee of the Senate, the Minority Policy Committee of the Senate, and the following offices within the Office of the Secretary of the Senate: Offices of the Parliamentarian, Bill Clerk, Legislative Clerk, Journal Clerk, Executive Clerk, Enrolling Clerk, Official Reporters of Debate, Daily Digest, Printing Services, Captioning Services, and Senate Chief Counsel for Employment;
+&emsp;&emsp;(C) the Office of the Vice President (as President of the Senate), the Office of the President pro tempore of the Senate, the Office of the Majority Leader of the Senate, the Office of the Minority Leader of the Senate, the Office of the Majority Whip of the Senate, the Office of the Minority Whip of the Senate, the Conference of the Majority of the Senate, the Conference of the Minority of the Senate, the Office of the Secretary of the Conference of the Majority of the Senate, the Office of the Secretary of the Conference of the Minority of the Senate, the Office of the Secretary for the Majority of the Senate, the Office of the Secretary for the Minority of the Senate, the Majority Policy Committee of the Senate, the Minority Policy Committee of the Senate, and the following offices within the Office of the Secretary of the Senate: Offices of the Parliamentarian, Bill Clerk, Legislative Clerk, Journal Clerk, Executive Clerk, Enrolling Clerk, Official Reporters of Debate, Daily Digest, Printing Services, Captioning Services, and Senate Chief Counsel for Employment;
 
 &emsp;&emsp;(D) the Office of the Speaker of the House of Representatives, the Office of the Majority Leader of the House of Representatives, the Office of the Minority Leader of the House of Representatives, the Offices of the Chief Deputy Majority Whips, the Offices of the Chief Deputy Minority Whips and the following offices within the Office of the Clerk of the House of Representatives: Offices of Legislative Operations, Official Reporters of Debate, Official Reporters to Committees, Printing Services, and Legislative Information;
 
@@ -96,6 +96,8 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 (Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19; Pub. L. 115–141, div. I, title I, §153(a)(1)(C), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §308(b)(10), Dec. 21, 2018, 132 Stat. 5326.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
@@ -108,7 +110,13 @@ Subsec. (a)(3). Pub. L. 115–141, §153(a)(1)(C)(ii), added par. (3).
 
 Subsec. (e)(2)(G). Pub. L. 115–397 substituted "Office of Congressional Workplace Rights" for "Office of Compliance".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
+
+#### Senate Democratic Leadership Offices Funding and Authorities
+
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under section 6154 of this title.
 

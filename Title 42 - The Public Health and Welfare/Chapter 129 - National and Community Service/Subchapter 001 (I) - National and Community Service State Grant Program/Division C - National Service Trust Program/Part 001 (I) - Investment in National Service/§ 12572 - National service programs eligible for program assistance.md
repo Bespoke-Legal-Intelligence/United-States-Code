@@ -74,7 +74,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(ii) assisting individuals in obtaining access to health services, including oral health services, for themselves or their children;
 
-&emsp;&emsp;&emsp;(iii) educating economically disadvantaged individuals and individuals who aremembers of medically underserved populations about, and engaging individuals described in this clause in, initiatives regarding navigating the health services system and regarding disease prevention and health promotion, with a particular focus on common health conditions, chronic diseases, and conditions, for which disease prevention and health promotion measures exist and for which socioeconomic, geographic, and racial and ethnic health disparities exist;
+&emsp;&emsp;&emsp;(iii) educating economically disadvantaged individuals and individuals who are members of medically underserved populations about, and engaging individuals described in this clause in, initiatives regarding navigating the health services system and regarding disease prevention and health promotion, with a particular focus on common health conditions, chronic diseases, and conditions, for which disease prevention and health promotion measures exist and for which socioeconomic, geographic, and racial and ethnic health disparities exist;
 
 &emsp;&emsp;&emsp;(iv) improving the literacy of patients regarding health, including oral health;
 
@@ -100,7 +100,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iv) literacy of patients regarding health;
 
-&emsp;&emsp;&emsp;(v) any additional indicator, relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medically underserved populations, that the Corporation, in consultation (as appropriate) with the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention, establishes; or
+&emsp;&emsp;&emsp;(v) any additional indicator, relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medicallyunderserved populations, that the Corporation, in consultation (as appropriate) with the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention, establishes; or
 
 &emsp;&emsp;&emsp;(vi) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medically underserved populations, that is approved by the Corporation or a State Commission.
 
@@ -226,7 +226,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iii) assisting economically disadvantaged individuals, including homeless individuals, in finding placement in and maintaining housing;
 
-&emsp;&emsp;&emsp;(iv) assisting economically disadvantaged individuals in obtaining access to health services for themselves or their children;
+&emsp;&emsp;&emsp;(iv) assisting economically disadvantaged individuals in obtaining access tohealth services for themselves or their children;
 
 &emsp;&emsp;&emsp;(v) assisting individuals in obtaining information about Federal, State, local, or private programs or benefits focused on assisting economically disadvantaged individuals, economically disadvantaged children, or low-income families;
 
@@ -298,7 +298,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;&emsp;(I) increasing State resources dedicated to mentoring;
 
-&emsp;&emsp;&emsp;&emsp;(II) supporting the creation of statewide and local mentoring partnerships and programs of national scope through collaborative efforts between entities such as local or direct service mentoring partnerships, or units of State or local government; and
+&emsp;&emsp;&emsp;&emsp;(II) supporting the creation of statewide and local mentoring partnerships and programs of national scope through collaborative efforts between entitiessuch as local or direct service mentoring partnerships, or units of State or local government; and
 
 &emsp;&emsp;&emsp;&emsp;(III) assisting direct service mentoring programs.
 
@@ -344,7 +344,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (1) In general
 
-&emsp;In addition to any activities described in subparagraph (B) of paragraphs (1) through (5)of subsection (a), and subsection (b)(2), a recipient of a grant under section 12571(a) of this title and a Federal agency operating or supporting a national service program under section 12571(b) of this title may directly or through grants or subgrants to other entities carry out a national service corps program through the following program models:
+&emsp;In addition to any activities described in subparagraph (B) of paragraphs (1) through (5) of subsection (a), and subsection (b)(2), a recipient of a grant under section 12571(a) of this title and a Federal agency operating or supporting a national service program under section 12571(b) of this title may directly or through grants or subgrants to other entities carry out a national service corps program through the following program models:
 
 &emsp;&emsp;(A) A community corps program that meets unmet health, veteran, and other human, educational, environmental, or public safety needs and promotes greater community unity through the use of organized teams of participants of varied social and economic backgrounds, skill levels, physical and developmental capabilities, ages, ethnic backgrounds, or genders.
 
@@ -366,7 +366,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(i) as teachers, nurses and other health care providers, police officers, early childhood development staff, engineers, or other professionals providing service to meet human, educational, environmental, or public safety needs in communities with an inadequate number of such professionals;
 
-&emsp;&emsp;&emsp;(ii) for which the salary may exceed the maximum living allowance authorized in subsection (a)(2) of section 12594 of this title, as provided in subsection (c) of such section; and
+&emsp;&emsp;&emsp;(ii) for which the salary may exceed the maximum living allowance authorized insubsection (a)(2) of section 12594 of this title, as provided in subsection (c) of such section; and
 
 &emsp;&emsp;&emsp;(iii) that are sponsored by public or private employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D) of the participants.
 
@@ -470,7 +470,7 @@ Each tutoring program that receives assistance under the national service laws s
 
 #### (j) Citizenship training
 
-The Corporation shall establish guidelines for recipients of assistance under the national service laws, that are consistent with the principles on which citizenship programs administered by U.S. Citizenship and Immigration Services are based, relating to the promotion of citizenship and civic engagement among participants in approved national service positions and approved summer of service positions, and appropriate tothe age, education, and experience of the participants.
+The Corporation shall establish guidelines for recipients of assistance under the national service laws, that are consistent with the principles on which citizenship programs administered by U.S. Citizenship and Immigration Services are based, relating to the promotion of citizenship and civic engagement among participants in approved national service positions and approved summer of service positions, and appropriate to the age, education, and experience of the participants.
 
 #### (k) Report
 
@@ -496,7 +496,7 @@ This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the or
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§5001) and B (§5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§5001) and B (§5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 

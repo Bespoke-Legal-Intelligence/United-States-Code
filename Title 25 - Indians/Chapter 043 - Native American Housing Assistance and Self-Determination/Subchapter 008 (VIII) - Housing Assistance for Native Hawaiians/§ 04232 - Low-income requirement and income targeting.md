@@ -14,7 +14,7 @@ Housing shall qualify for affordable housing for purposes of this subchapter onl
 
 &emsp;&emsp;(A) the remaining useful life of the property (as determined by the Secretary) without regard to the term of the mortgage or to transfer of ownership; or
 
-&emsp;&emsp;(B) such other period as the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this subchapter, except upona foreclosure by a lender (or upon other transfer in lieu of foreclosure) if that action—
+&emsp;&emsp;(B) such other period as the Secretary determines is the longest feasible period of time consistent with sound economics and the purposes of this subchapter, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if that action—
 
 &emsp;&emsp;&emsp;(i) recognizes any contractual or legal rights of any public agency, nonprofit sponsor, or other person or entity to take an action that would—
 
@@ -29,6 +29,8 @@ Housing shall qualify for affordable housing for purposes of this subchapter onl
 Notwithstanding subsection (a), housing assistance pursuant to section 4228(a)(2)(B) of this title shall be considered affordable housing for purposes of this subchapter.
 
 (Pub. L. 104–330, title VIII, §813, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2982.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -4,9 +4,13 @@ The Secretary of State shall take into account security considerations in making
 
 (Pub. L. 99–399, title I, §107, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, §162(g)(5), Apr. 30, 1994, 108 Stat. 407.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–236 substituted "The Secretary of State shall take into account security considerations" for "The Chief of Protocol of the Department of State shall consult with the Assistant Secretary of Diplomatic Security".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

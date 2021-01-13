@@ -4,6 +4,8 @@ In this title, the term "Commandant" means the Commandant of the Coast Guard.
 
 (Added Pub. L. 115–232, div. C, title XXXV, §3531(a), Aug. 13, 2018, 132 Stat. 2320, §5; renumbered §106, Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For redesignation of prior sections 141 to 296 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding section 101 of this title.
@@ -20,7 +22,7 @@ Prior sections 212 and 213 were repealed by Pub. L. 103–337, div. A, title V, 
 
 Section 212, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177; amended Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865, related to original appointment of permanent commissioned warrant officers in Coast Guard. See section 571 et seq. of Title 10, Armed Forces.
 
-Section 213, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178; amended Pub. L. 98–557, §15(a)(3)(B),Oct. 30, 1984, 98 Stat. 2865, related to original appointment of permanent warrant officers (W–1) in Coast Guard. See section 571 et seq. of Title 10.
+Section 213, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 178; amended Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865, related to original appointment of permanent warrant officers (W–1) in Coast Guard. See section 571 et seq. of Title 10.
 
 A prior section 216, added Pub. L. 109–241, title II, §215(a), July 11, 2006, 120 Stat. 525, provided that the initial appointment of the Director of the Boating Safety Office would be in the grade of Captain, prior to repeal by Pub. L. 111–281, title II, §209, Oct. 15, 2010, 124 Stat. 2912.
 
@@ -84,9 +86,15 @@ Section 248, added act Aug. 9, 1955, ch. 684, §1(2), 69 Stat. 620, related to i
 
 A prior section 277, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 183, provided that warrant officers could be temporarily promoted to higher warrant officer grades under regulations prescribed by Secretary, prior to repeal by Pub. L. 104–324, title II, §210(a), Oct. 19, 1996, 110 Stat. 3915, with such repeal not to be construed to affect the status of any warrant officer then serving under a temporary promotion.
 
-A prior section 293, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 99–348, title II, §205(b)(5), July 1, 1986, 100 Stat. 700, mandated retirement of any regular commissioned officer, except a commissioned warrant officer, at age 62, prior to repeal by Pub. L. 111–281, title II, §215(a), Oct. 15, 2010, 124 Stat. 2916.
+A prior section 293, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 99–348, title II, §205(b)(5), July 1, 1986, 100 Stat. 700, mandated retirement of any regular commissioned officer, except acommissioned warrant officer, at age 62, prior to repeal by Pub. L. 111–281, title II, §215(a), Oct. 15, 2010, 124 Stat. 2916.
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 5 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definition of Commandant
+
+Pub. L. 116–283, div. G, §8002, Jan. 1, 2021, 134 Stat. 4633, provided that: "In this division \[div. G of Pub. L. 116–283, see Tables for classification\], the term 'Commandant' means the Commandant of the Coast Guard."
 

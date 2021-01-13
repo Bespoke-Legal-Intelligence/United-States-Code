@@ -18,6 +18,8 @@ Mandatory punishment provision in subsection (a) was rephrased in the alternativ
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

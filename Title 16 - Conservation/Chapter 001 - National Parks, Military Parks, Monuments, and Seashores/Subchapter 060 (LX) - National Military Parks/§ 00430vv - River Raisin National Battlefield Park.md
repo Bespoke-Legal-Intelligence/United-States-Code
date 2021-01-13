@@ -34,7 +34,7 @@
 
 #### (B) Consultation
 
-&emsp;&emsp;The Secretary shall consult with and solicit advice and recommendations fromState, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.
+&emsp;&emsp;The Secretary shall consult with and solicit advice and recommendations from State, county, local, and civic organizations and leaders, and other interested parties in the preparation of the management plan.
 
 #### (C) Inclusions
 

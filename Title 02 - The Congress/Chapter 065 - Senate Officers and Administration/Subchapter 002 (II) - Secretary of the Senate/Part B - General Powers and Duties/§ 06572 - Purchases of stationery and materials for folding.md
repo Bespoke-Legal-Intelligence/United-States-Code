@@ -6,6 +6,8 @@ All contracts and bonds for purchases made under the authority of this section s
 
 (Mar. 3, 1887, ch. 392, §1, 24 Stat. 596; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814; Pub. L. 104–186, title II, §204(58), Aug. 20, 1996, 110 Stat. 1738; Pub. L. 113–235, div. H, title I, §1(b), Dec. 16, 2014, 128 Stat. 2525.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 112 of this title prior to editorial reclassification and renumbering as this section.
@@ -17,6 +19,8 @@ Section was formerly classified to section 112 of this title prior to editorial 
 <b>1996</b>—Pub. L. 104–186 struck out "or the Committee on Accounts of the House of Representatives respectively" before period at end.
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee to Audit and Control the Contingent Expenses".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1946 Amendment
 

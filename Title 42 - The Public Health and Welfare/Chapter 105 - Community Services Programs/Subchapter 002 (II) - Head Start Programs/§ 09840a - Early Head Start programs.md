@@ -16,7 +16,7 @@ In carrying out a program described in subsection (a), an entity receiving assis
 
 &emsp;(4) provide services to parents to support their role as parents (including parenting skills training and training in basic child development) and services to help the families move toward self-sufficiency (including educational and employment services, as appropriate);
 
-&emsp;(5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infants and toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
+&emsp;(5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infantsand toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
 
 &emsp;(6) ensure that children with documented behavioral problems, including problems involving behavior related to prior or existing trauma, receive appropriate screening and referral;
 
@@ -68,7 +68,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technicalassistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
+&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds made available under section 9835(a)(2)(E) of this title to monitor the operation of such programs, and funds made available under section 9835(a)(2)(C)(i)(I) of this title to provide training and technical assistance tailored to the particular needs of such programs, consistent with section 9835(c) of this title.
 
 #### (2) Training and technical assistance
 
@@ -128,7 +128,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) early childhood development with respect to children from birth through age 3;
 
-&emsp;&emsp;(D) methods to help parents promote emergent literacy in their children from birththrough age 3, including use of research-based strategies to support the development of literacy and language skills for children who are limited English proficient;
+&emsp;&emsp;(D) methods to help parents promote emergent literacy in their children from birth through age 3, including use of research-based strategies to support the development of literacy and language skills for children who are limited English proficient;
 
 &emsp;&emsp;(E) ascertaining what health and developmental services the family receives and working with providers of these services to eliminate gaps in service by offering annual health, vision, hearing, and developmental screening for children from birth to entry into kindergarten, when needed;
 

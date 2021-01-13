@@ -92,7 +92,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 &emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
 
-(7) All reports prepared by the Working Group shall be submitted to the President, through the Secretary of State, acting through the Under Secretary of State for Public Diplomacy.
+(7) All reports prepared by the Working Group shall be submitted to the President, through theSecretary of State, acting through the Under Secretary of State for Public Diplomacy.
 
 (8) The Working Group shall meet at least on a quarterly basis.
 
@@ -103,6 +103,8 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
 (Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -146,6 +148,8 @@ Subsec. (e). Pub. L. 101–246, §222(a), added subsec. (e).
 
 <b>1987</b>—Subsec. (a)(8), (9). Pub. L. 100–204 added pars. (8) and (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
@@ -163,6 +167,12 @@ Pub. L. 98–164, title II, §207, Nov. 22, 1983, 97 Stat. 1032, as amended by P
 "(a) No funds authorized to be appropriated for the Private Sector Program shall be used to pay for foreign travel by any United States citizen who, in the five years preceding the date of the proposed foreign travel, made two or more trips financed in whole or in substantial part by grants from the Private Sector Program. This limitation shall not apply to escort interpreters accompanying delegations, to artists accompanying exhibitions, to persons engaging in theatrical or musical performances, or to the full-time staff of the grantee organization. In addition, the Director of the Bureau of Educational and Cultural Affairs may waive this limitation in exceptional cases if he determines that foreign travel is essential to the successful completion of the grant program and so certifies in writing to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate at least fifteen days prior to the commencement of the proposed foreign travel.
 
 "\[(b) Repealed. Pub. L. 103–236, title I, §139(11), Apr. 30, 1994, 108 Stat. 398.\]"
+
+#### Definitions
+
+In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13055. Coordination of United States Government International Exchanges and Training Programs
 
@@ -203,8 +213,4 @@ Sec. 9. Nothing in this Executive order is intended to alter the authorities and
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
-
-#### Definitions
-
-In subsec. (a)(8), independent states of the former Soviet Union has the meaning given in section 5801 of this title, see section 3 of Pub. L. 103–199, set out as a note under section 5801 of this title.
 

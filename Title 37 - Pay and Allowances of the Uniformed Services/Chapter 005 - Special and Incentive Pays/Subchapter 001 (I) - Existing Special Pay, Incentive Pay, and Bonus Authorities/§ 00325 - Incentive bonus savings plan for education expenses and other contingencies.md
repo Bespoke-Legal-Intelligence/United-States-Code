@@ -38,7 +38,7 @@ Amounts of Bonds.—The total of the face amounts of the United States savings b
 
 (e)
 
-Total Amount of Benefit.—The total amount of the benefit authorized for a memberwhen United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
+Total Amount of Benefit.—The total amount of the benefit authorized for a member when United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
 
 &emsp;(1) the purchase price of the United States savings bonds; and
 
@@ -60,13 +60,17 @@ Relationship to Other Special Pays.—The benefit authorized under this section 
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
+(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L.107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–163, amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to complete qualifying service for which person is obligated under commitment for which benefit was paid.
 
 <b>2002</b>—Subsec. (i). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

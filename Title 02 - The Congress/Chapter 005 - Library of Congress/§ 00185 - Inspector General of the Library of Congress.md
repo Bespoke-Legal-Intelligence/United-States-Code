@@ -20,7 +20,7 @@ There is an Office of Inspector General within the Library of Congress which is 
 
 #### (A) In general
 
-&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Librarian of Congress without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Librarian of Congress.
+&emsp;&emsp;There shall be at the head of the Office of Inspector General, an Inspector General whoshall be appointed by the Librarian of Congress without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Librarian of Congress.
 
 #### (B) Audits, investigations, and reports
 
@@ -196,6 +196,8 @@ This section shall be effective on August 2, 2005.
 
 (Pub. L. 109–55, title I, §1307, Aug. 2, 2005, 119 Stat. 583; Pub. L. 110–161, div. H, title I, §1004(d)(3), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(c), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 116–94, div. P, title XVI, §§1602(a), 1603(a), 1604(a)(1), 1605(a), Dec. 20, 2019, 133 Stat. 3209, 3212, 3218, 3219.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -212,7 +214,7 @@ Subsec. (c)(2). Pub. L. 116–94, §1602(a)(1)(B), added par. (2) and struck out
 
 Subsec. (c)(3) to (5). Pub. L. 116–94, §1602(a)(1)(C), added pars. (3) to (5).
 
-Subsec. (d)(1). Pub. L. 116–94, §1602(a)(2), substituted "Sections 4, 5 (other than subsection (a)(13)), 6 (otherthan subsection (a)(7)), and 7" for "Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7".
+Subsec. (d)(1). Pub. L. 116–94, §1602(a)(2), substituted "Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7" for "Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7".
 
 Subsec. (d)(2). Pub. L. 116–94, §1605(a), designated existing provisions as subpar. (A), inserted subpar. heading and ", without the supervision or approval of any other employee, office, or other entity within the Library of Congress," after "is authorized", and added subpars. (B) and (C).
 
@@ -225,6 +227,8 @@ Subsec. (d)(4). Pub. L. 116–94, §1604(a)(1), added par. (4).
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–178 inserted ", except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police" before semicolon at end.
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–161, §1004(d)(3), which made amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

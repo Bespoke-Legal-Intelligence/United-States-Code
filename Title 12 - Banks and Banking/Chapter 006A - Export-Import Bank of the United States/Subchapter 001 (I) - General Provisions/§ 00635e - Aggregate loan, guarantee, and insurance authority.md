@@ -26,7 +26,7 @@ The Bank shall build to and hold in reserve, to protect against future losses, a
 
 #### (1) In general
 
-&emsp;Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, particularly those needs arising from—
+&emsp;Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to theBank for such fiscal year will be sufficient to meet the Bank's needs, particularly those needs arising from—
 
 &emsp;&emsp;(A) increases in the level of exports unforeseen at the time of the original budget request for such fiscal year;
 
@@ -46,6 +46,8 @@ The Bank shall build to and hold in reserve, to protect against future losses, a
 
 (July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I \[title VI, §§615, 620(d)\], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763; Pub. L. 116–94, div. I, title IV, §401(b), Dec. 20, 2019, 133 Stat. 3021.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
@@ -62,7 +64,7 @@ Subsecs. (b), (c). Pub. L. 114–94, §51002(a), added subsec. (b) and redesigna
 
 <b>2006</b>—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "during fiscal year 2006, $100,000,000,000."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchaptershall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
+<b>2002</b>—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
 <b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination."
 
@@ -76,7 +78,7 @@ Authorization of Appropriation.—There are authorized to be appropriated $145,2
 
 Subsec. (a)(3). Pub. L. 99–472, §13, added par. (3).
 
-<b>1983</b>—Subsec. (a)(2). Pub. L. 98–181, §615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
+<b>1983</b>—Subsec. (a)(2). Pub. L. 98–181, §615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to theBank for such fiscal year will be sufficient to meet the Bank's needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
 
 Subsec. (b). Pub. L. 98–181, §620(d), substituted "the President" for "he" before "determines that such higher limitation" and "reports such determination".
 
@@ -101,6 +103,8 @@ Subsec. (b). Pub. L. 93–646, §8(3), added subsec. (b).
 <b>1953</b>—Act May 21, 1958, substituted "loans, guaranties, and insurance" for "loans and guaranties".
 
 <b>1951</b>—Act Oct. 3, 1951, substituted "four and one-half" for "three and one-half".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -6,7 +6,7 @@
 
 (c) The Secretary of Defense, the Secretary of Homeland Security, the Secretary of Commerce, or the Secretary of Health and Human Services, may obtain from the Comptroller General an advisory opinion with respect to a proposed regulation especially affecting a department under that Secretary's jurisdiction.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 89–718, §§49(a)(1), 69, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §516(22), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 102–25, title VII, §702(b)(1),\(c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 89–718, §§49(a)(1), 69, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §516(22), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -36,6 +36,8 @@ In subsection (b), the words "conform to" are substituted for the words "agree w
 
 In subsection (c), the words "or departments" are omitted, since, under section 1 of title 1, words importing the singular include and apply to several persons, parties, or things.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
@@ -49,6 +51,8 @@ Subsec. (c). Pub. L. 96–513, §516(22)(B), substituted "Secretary of Health an
 <b>1968</b>—Subsec. (c). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey", and inserted "and allowances" between "pay" and "matters".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

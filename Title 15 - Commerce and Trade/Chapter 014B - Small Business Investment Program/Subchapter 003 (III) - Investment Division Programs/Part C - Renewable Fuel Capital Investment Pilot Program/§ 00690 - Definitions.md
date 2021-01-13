@@ -16,7 +16,7 @@ In this part:
 
 #### (3) Renewable energy
 
-&emsp;The term "renewable energy" means energy derived from resources that are regenerativeor that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
+&emsp;The term "renewable energy" means energy derived from resources that are regenerative or that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
 
 #### (4) Renewable Fuel Capital Investment company
 
@@ -36,7 +36,7 @@ In this part:
 
 #### (6) Venture capital
 
-&emsp;The term "venture capital" means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title.
+&emsp;The term "venture capital" means capital in the form of equity capital investments, asthat term is defined in section 683(g)(4) of this title.
 
 (Pub. L. 85–699, title III, §381, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1774.)
 

@@ -6,7 +6,7 @@ The Administrator, in coordination with the States, may provide technical assist
 
 #### (1) Watershed management of wet weather discharges
 
-&emsp;The management of municipal combined sewer overflows, sanitary sewer overflows, and stormwater discharges, on an integrated watershed or subwatershed basis for the purpose of demonstrating the effectiveness of a unified wet weather approach.
+&emsp;The management of municipal combined sewer overflows, sanitary sewer overflows, andstormwater discharges, on an integrated watershed or subwatershed basis for the purpose of demonstrating the effectiveness of a unified wet weather approach.
 
 #### (2) Stormwater best management practices
 
@@ -37,6 +37,8 @@ The Administrator, in coordination with the States, shall provide municipalities
 Not later than October 1, 2015, the Administrator shall transmit to Congress a report on the results of the pilot projects conducted under this section and their possible application nationwide.
 
 (June 30, 1948, ch. 758, title I, §122, formerly §121, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225; renumbered §122, Pub. L. 109–392, §2, Dec. 12, 2006, 120 Stat. 2703; amended Pub. L. 113–121, title V, §5011, June 10, 2014, 128 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

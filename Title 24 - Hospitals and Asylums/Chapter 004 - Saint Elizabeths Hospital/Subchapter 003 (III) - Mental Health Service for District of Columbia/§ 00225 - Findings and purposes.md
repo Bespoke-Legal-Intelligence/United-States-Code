@@ -34,7 +34,7 @@
 
 &emsp;(6) The assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital from the Federal Government by the District of Columbia, and the integration of those functions, resources, and programs into a comprehensive mental health care system administered solely by the District of Columbia, will improve the efficiency and effectiveness of the services currently provided through those two separate entities by shifting the primary focus of care to an integrated community-based system.
 
-&emsp;(7) Such assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital by the District of Columbiawould further the principle of home rule for the District of Columbia.
+&emsp;(7) Such assumption of all or selected functions, programs, and resources of Saint Elizabeths Hospital by the District of Columbia would further the principle of home rule for the District of Columbia.
 
 (b) It is the intent of Congress that—
 
@@ -62,6 +62,8 @@
 
 (Pub. L. 98–621, §2, Nov. 8, 1984, 98 Stat. 3369; Pub. L. 102–150, §3(a), Oct. 31, 1991, 105 Stat. 980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3369, known as the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -69,6 +71,8 @@ This subchapter, referred to in subsec. (b)(4), was in the original "this Act", 
 #### Amendments
 
 <b>1991</b>—Subsec. (b)(1). Pub. L. 102–150 substituted "October 1, 1993" for "October 1, 1991".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

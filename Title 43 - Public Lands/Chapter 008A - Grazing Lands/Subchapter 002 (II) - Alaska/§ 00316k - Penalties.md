@@ -4,6 +4,8 @@ Within one year from the date of the establishment of any district the Secretary
 
 (Mar. 4, 1927, ch. 513, §12, 44 Stat. 1454.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 471k of Title 48, Territories and Insular Possessions.

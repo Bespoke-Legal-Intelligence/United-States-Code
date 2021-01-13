@@ -34,7 +34,7 @@
 
 #### (c) Payments in lieu of minimum work requirements
 
-In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
+In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall byregulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
 
 #### (d) Transition rules for leases issued prior to August 8, 2005
 
@@ -48,7 +48,7 @@ The Secretary shall by regulation establish transition rules for leases issued b
 
 #### (1) Exemption
 
-&emsp;The lessee for a geothermal lease of an area overlying an area subject to a mining claimfor which a plan of operations has been approved by the relevant Federal land management agency is exempt from annual work requirements established under this chapter, if development of the geothermal resource subject to the lease would interfere with the mining operations under such claim.
+&emsp;The lessee for a geothermal lease of an area overlying an area subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency is exempt from annual work requirements established under this chapter, if development of the geothermal resource subject to the lease would interfere with the mining operations under such claim.
 
 #### (2) Termination of exemption
 
@@ -72,6 +72,8 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 (Pub. L. 91–581, §6, Dec. 24, 1970, 84 Stat. 1568; Pub. L. 100–443, §§2(b), 3, Sept. 22, 1988, 102 Stat. 1766; Pub. L. 109–58, title II, §§231, 236(1), Aug. 8, 2005, 119 Stat. 668, 671.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, as amended, which is classified principally to chapter 12 (§521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
@@ -88,9 +90,11 @@ August 8, 2005, referred to in introductory provisions of subsec. (d), was in th
 
 Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Consistency Provision
 
-Pub. L. 100–443, §9, Sept. 22, 1988, 102 Stat. 1771, provided that: "To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section."
+Pub. L. 100–443, §9, Sept. 22, 1988, 102 Stat. 1771, provided that: "To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat.3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section."
 
 #### Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions
 
@@ -104,7 +108,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 &emsp;"(c) the lease would otherwise expire prior to December 31, 1988.
 
-"(2)(a) The Secretary of the Interior (hereinafter in this section referred to as 'the Secretary' shall publish for public comment in the Federal Register within 120days after the date of enactment of this section \[Oct. 18, 1986\] a proposed list of significant thermal features within the following units of the National Park System:
+"(2)(a) The Secretary of the Interior (hereinafter in this section referred to as 'the Secretary' shall publish for public comment in the Federal Register within 120 days after the date of enactment of this section \[Oct. 18, 1986\] a proposed list of significant thermal features within the following units of the National Park System:
 
 "Mount Rainier National Park;
 

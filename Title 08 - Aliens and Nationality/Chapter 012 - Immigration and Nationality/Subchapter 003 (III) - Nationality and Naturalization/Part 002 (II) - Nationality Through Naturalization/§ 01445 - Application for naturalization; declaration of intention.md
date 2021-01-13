@@ -26,9 +26,11 @@ A person may file an application for naturalization other than in the office of 
 
 #### (f) Declaration of intention
 
-An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General. Nothing in this subsection shall be construed asrequiring any such alien to make and file a declaration of intention as a condition precedent to filing an application for naturalization nor shall any such declaration of intention be regarded as conferring or having conferred upon any such alien United States citizenship or nationality or the right to United States citizenship or nationality, nor shall such declaration be regarded as evidence of such alien's lawful admission for permanent residence in any proceeding, action, or matter arising under this chapter or any other Act.
+An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General. Nothing in this subsection shall be construed as requiring any such alien to make and file a declaration of intention as a condition precedent to filing an application for naturalization nor shall any such declaration of intention be regarded as conferring or having conferred upon any such alien United States citizenship or nationality or the right to United States citizenship or nationality, nor shall such declaration be regarded as evidence of such alien's lawful admission for permanent residence in any proceeding, action, or matter arising under this chapter or any other Act.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §334, 66 Stat. 254; Pub. L. 97–116, §15(b), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §§401(b), 407(c)(15), (d)(12), Nov. 29, 1990, 104 Stat. 5038, 5041, 5042; Pub. L. 102–232, title III, §305(d), (e), (m)(7), Dec. 12, 1991, 105 Stat. 1750.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -44,7 +46,7 @@ Subsecs. (f), (g). Pub. L. 102–232, §305(d), redesignated subsec. (g) as (f).
 
 <b>1990</b>—Pub. L. 101–649, §407(d)(12)(A), substituted "Application for naturalization; declaration of intention" for "Petition for naturalization" in section catchline.
 
-Subsec. (a). Pub. L. 101–649, §407(c)(15), (d)(12)(B), as amended by Pub. L. 102–232, §305(e), substituted "with the Attorney General" for "in the office of the clerk of a naturalization court", "under this subchapter" for "upon the hearing of such petition", and "application" for "petition" wherever appearing.
+Subsec. (a). Pub. L. 101–649, §407(c)(15), (d)(12)(B), as amended by Pub. L. 102–232, §305(e), substituted "with the Attorney General" for "in the office of the clerk of a naturalization court", "under this subchapter" for"upon the hearing of such petition", and "application" for "petition" wherever appearing.
 
 Pub. L. 101–649, §401(b), inserted at end "In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement."
 
@@ -55,6 +57,8 @@ Subsecs. (c) to (e). Pub. L. 101–649, §407(d)(12)(F), added subsecs. (c) to (
 Subsecs. (f), (g). Pub. L. 101–649, §407(c)(15), (d)(12)(D), (E), redesignated subsec. (f) as (g), substituted "An alien over 18 years of age who is residing in the United States pursuant to a lawful admission for permanent residence may file with the Attorney General a declaration of intention to become a citizen of the United States. Such a declaration shall be filed in duplicate and in a form prescribed by the Attorney General and shall be accompanied by an application prescribed and approved by the Attorney General." for "Any alien over eighteen years of age who is residing in the United States pursuant to a lawful admission for permanent residence may, upon an application prescribed, filed with, and approved by the Service, make and file in duplicate in the office of the clerk of court, regardless of the alien's place of residence in the United States, a signed declaration of intention to become a citizen of the United States, in such form as the Attorney General shall prescribe.", and substituted "an application" for "a petition" in last sentence.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–116 struck out "and duly verified by two witnesses," after "able to write,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

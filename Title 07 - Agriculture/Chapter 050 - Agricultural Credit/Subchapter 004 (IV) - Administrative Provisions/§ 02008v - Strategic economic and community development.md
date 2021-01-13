@@ -8,13 +8,13 @@ In the case of any program under this chapter or administered by the Secretary, 
 
 &emsp;(2) will be carried out in a rural area; and
 
-&emsp;(3) supports the implementation of a strategic community investment plan described insubsection (d) on a multisectoral and multijurisdictional basis, to include considerations for improving and expanding broadband services as needed.
+&emsp;(3) supports the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis, to include considerations for improving and expanding broadband services as needed.
 
 #### (b) Reserve
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall reserve not more than 15 percent of the funds made available for a fiscal year for covered programs for projects that support the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis.
+&emsp;Subject to paragraph (2), the Secretary shall reserve not more than 15 percent of the fundsmade available for a fiscal year for covered programs for projects that support the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis.
 
 #### (2) Period
 

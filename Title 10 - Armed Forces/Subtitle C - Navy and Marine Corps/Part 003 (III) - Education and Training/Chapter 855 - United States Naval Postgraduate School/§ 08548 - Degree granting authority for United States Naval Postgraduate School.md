@@ -14,7 +14,7 @@ Limitation.—A degree may not be conferred under this section unless—
 
 (c)
 
-Congressional Notification Requirements.—(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+Congressional Notification Requirements.—(1) When seeking to establish degreegranting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
 
 &emsp;(A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education's National Advisory Committee on Institutional Quality and Integrity; and
 

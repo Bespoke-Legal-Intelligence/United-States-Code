@@ -6,13 +6,13 @@
 
 (b) Any person—
 
-&emsp;(1) who has applied for enlistment or enrollment in the active military, naval, or air service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
+&emsp;(1) who has applied for enlistment or enrollment in the active military, naval, air, or space service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
 
 &emsp;(2) who has been selected or drafted for service in the Armed Forces and has reported pursuant to the call of the person's local draft board and before rejection; or
 
 &emsp;(3) who has been called into the Federal service as a member of the National Guard, but has not been enrolled for the Federal service; and
 
-> who has suffered an injury or contracted a disease in line of duty while en route to or from, or at, a place for final acceptance or entry upon active duty, will, for the purposes of chapters 11, 13, 19, 21, 31, and 39 of this title, and for purposes of determining service-connection of a disability under chapter 17 of this title, be considered to have been on active duty and to have incurred such disability in the active military, naval, or air service.
+> who has suffered an injury or contracted a disease in line of duty while en route to or from, or at, a place for final acceptance or entry upon active duty, will, for the purposes of chapters 11, 13, 19, 21, 31, and 39 of this title, and for purposes of determining service-connection of a disability under chapter 17 of this title, be considered to have been on active duty and to have incurred such disability in the active military, naval, air, or space service.
 
 (c) For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual's home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
 
@@ -40,13 +40,17 @@
 
 (f) Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–259, title VIII, §8147(a), Aug. 9, 2000, 114 Stat. 705; Pub. L. 106–419, title III, §301(b), Nov. 1, 2000, 114 Stat. 1852.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 87–102, §1, July 21, 1961, 75 Stat. 219; Pub. L. 88–616, Oct. 2, 1964, 78 Stat. 994; Pub. L. 89–311, §5, Oct. 31, 1965, 79 Stat. 1156; Pub. L. 97–295, §4(3), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(5), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–259, title VIII, §8147(a), Aug. 9, 2000, 114 Stat. 705; Pub. L. 106–419, title III, §301(b), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 116–283, div. A, title IX, §926(a)(3), Jan. 1, 2021, 134 Stat. 3829.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 8147 of the Department of Defense Appropriations Act, 2001, referred to in subsec. (f), is section 8147 of Pub. L. 106–259, which amended this section and enacted provisions set out as a note below.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "air, or space service" for "or air service" in par. (1) and concluding provisions.
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–419 designated first sentence as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and inserted "or covered disease" after "injury" in subpar. (B) and in concluding provisions, designated second sentence as par. (2) and inserted "or covered disease" after "injury", designated third sentence as par. (3), and added par. (4).
 
@@ -60,7 +64,7 @@ Subsec. (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 Subsec. (c). Pub. L. 99–576, §701(5)(B), substituted "required for that individual" for "required for him", "proceed to that individual's home" for "proceed to his home", and "in any event that individual" for "in any event he".
 
-Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out "by him" after "injury incurred" in cl. (2), and in closingprovisions, substituted "such individual was disabled" for "he was disabled", "on which such individual began" for "on which he began", "such individual was scheduled" for "he was scheduled", "such individual ceased" for "he ceased", and "the itinerary" for "his itinerary".
+Subsec. (d). Pub. L. 99–576, §701(5)(C), struck out "by him" after "injury incurred" in cl. (2), and in closing provisions, substituted "such individual was disabled" for "he was disabled", "on which such individual began" for "on which he began", "such individual was scheduled" for "he was scheduled", "such individual ceased" for "he ceased", and "the itinerary" for "his itinerary".
 
 <b>1982</b>—Subsec. (a)(2). Pub. L. 97–295, §4(3)(A), substituted "subchapter I of chapter 81 of title 5" for "the Federal Employees' Compensation Act".
 
@@ -71,6 +75,8 @@ Subsec. (e). Pub. L. 97–295, §4(3)(B), substituted "title 5 as a preference e
 <b>1964</b>—Subsec. (d)(2). Pub. L. 88–616 struck out "after December 31, 1956," after "injury incurred".
 
 <b>1961</b>—Subsec. (c). Pub. L. 87–102 extended provisions for benefits based on limited periods immediately following discharge from active duty after December 31, 1956 to veterans discharged before such date.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1961 Amendment
 
@@ -114,7 +120,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 &emsp;"(E) the members of such group had reasonable expectations that their service would be considered to be active military service.
 
-"(b)(1) No benefits shall be paid to any person for any period prior to the date of enactment of this title \[Nov. 23, 1977\] as a result of the enactment of subsection (a) of this section.
+"(b)(1) No benefits shall be paid to any person for any period prior to the date of enactment of this title \[Nov.23, 1977\] as a result of the enactment of subsection (a) of this section.
 
 "(2) The provisions of section 106(a)(2) of title 38, United States Code, relating to election of benefits, shall be applicable to persons made eligible for benefits, under laws administered by the Secretary of Veterans Affairs, as a result of implementation of the provisions of subsection (a) of this section.
 

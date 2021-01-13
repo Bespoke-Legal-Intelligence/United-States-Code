@@ -14,13 +14,13 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (f) The term "State" means any State of the United States and the Commonwealth of Puerto Rico.
 
-(g) The term "Territory" means Guam, the Virgin Islands of the United States, American Samoa, and any other territory or possession of the United States, excluding the Canal Zone.
+(g) The term "Territory" means Guam, the Virgin Islands of the United States, AmericanSamoa, and any other territory or possession of the United States, excluding the Canal Zone.
 
 (h) The term "commerce" means commerce between any State, any Territory, or the District of Columbia, and any place outside thereof; or within any Territory not organized with a legislative body, or the District of Columbia.
 
 (i) The term "United States" means the States, the District of Columbia, and the Territories of the United States.
 
-(j) The term "meat food product" means any product capable of use as human food which is made wholly or in part from any meat or other portion of the carcass of any cattle, sheep, swine, or goats, excepting products which contain meat or other portions of such carcasses only in a relatively small proportion or historically have not been considered by consumers as products of the meat food industry, and which are exempted from definition as a meat food product by the Secretary under such conditions as he may prescribe to assure that the meat or other portions of such carcasses contained insuch product are not adulterated and that such products are not represented as meat food products. This term as applied to food products of equines shall have a meaning comparable to that provided in this paragraph with respect to cattle, sheep, swine, and goats.
+(j) The term "meat food product" means any product capable of use as human food which is made wholly or in part from any meat or other portion of the carcass of any cattle, sheep, swine, or goats, excepting products which contain meat or other portions of such carcasses only in a relatively small proportion or historically have not been considered by consumers as products of the meat food industry, and which are exempted from definition as a meat food product by the Secretary under such conditions as he may prescribe to assure that the meat or other portions of such carcasses contained in such product are not adulterated and that such products are not represented as meat food products. This term as applied to food products of equines shall have a meaning comparable to that provided in this paragraph with respect to cattle, sheep, swine, and goats.
 
 (k) The term "capable of use as human food" shall apply to any carcass, or part or product of a carcass, of any animal, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 
@@ -64,11 +64,11 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(5) if in a package or other container unless it bears a label showing (A) the name and place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages may be established, by regulations prescribed by the Secretary;
 
-&emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon withsuch conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
-&emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its labelbears, in such manner and form as such regulations specify, a statement that it falls below such standard;
+&emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
 &emsp;(9) if it is not subject to the provisions of subparagraph (7), unless its label bears (A) the common or usual name of the food, if any there be, and (B) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient; except that spices, flavorings, and colorings may, when authorized by the Secretary, be designated as spices, flavorings, and colorings without naming each: <i>Provided</i>, That to the extent that compliance with the requirements of clause (B) of this subparagraph (9) is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary;
 
@@ -104,6 +104,8 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166; Pub. L. 110–234, title XI, §11016(b)(1)(A), May 22, 2008, 122 Stat. 1369; Pub. L. 110–246, §4(a), title XI, §11016(b)(1)(A), June 18, 2008, 122 Stat. 1664, 2130; Pub. L. 113–79, title XII, §12106(a)(1), Feb. 7, 2014, 128 Stat. 980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
@@ -121,6 +123,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2005</b>—Par. (w). Pub. L. 109–97 added par. (w).
 
 <b>1992</b>—Par. (m)(2)(D). Pub. L. 102–571 substituted "379e" for "376".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -204,7 +208,7 @@ Regulations.—Not later than 60 days after the date of enactment of the Agricul
 
 "(B)
 
-Interagency coordination.—Not later than 60 days after the date of enactment of the AgriculturalAct of 2014, the Secretary shall execute a memorandum of understanding with the Commissioner of Food and Drugs for the following purposes:
+Interagency coordination.—Not later than 60 days after the date of enactment of the Agricultural Act of 2014, the Secretary shall execute a memorandum of understanding with the Commissioner of Food and Drugs for the following purposes:
 
 &emsp;"(i) To improve interagency cooperation on food safety and fraud prevention, building upon any other prior agreements, including provisions, performance metrics, and timelines as appropriate.
 

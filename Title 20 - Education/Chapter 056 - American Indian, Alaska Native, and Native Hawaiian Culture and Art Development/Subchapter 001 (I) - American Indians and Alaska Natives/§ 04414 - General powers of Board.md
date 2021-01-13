@@ -52,7 +52,7 @@ Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13)
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–325, §1331(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: "to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contracts without regard to section 3324 of title 31;".
 
-Subsec. (a)(3) to (12). Pub. L. 102–325, §1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to\(11) as (4) to (12), respectively. Former par. (12) redesignated (13).
+Subsec. (a)(3) to (12). Pub. L. 102–325, §1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively. Former par. (12) redesignated (13).
 
 Subsec. (a)(13). Pub. L. 102–325, §1331(b)(1)(C), added par. (13) and struck out former par. (13) which read as follows: "to use any funds or property received by the Institute to carry out the purpose of this chapter; and".
 

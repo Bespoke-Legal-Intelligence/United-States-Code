@@ -18,7 +18,7 @@
 
 The Subcommittee shall—
 
-&emsp;(1) develop the strategic research and monitoring plan to guide Federal research on ocean acidification required under section 3704 of this title and oversee the implementation of the plan;
+&emsp;(1) develop the strategic research and monitoring plan to guide Federal research on oceanacidification required under section 3704 of this title and oversee the implementation of the plan;
 
 &emsp;(2) oversee the development of—
 
@@ -54,7 +54,87 @@ The Subcommittee shall—
 
 &emsp;Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategic research plan developed under section 3704 of this title to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
 
-(Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437.)
+#### (4) Economic vulnerability report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 years after December 31, 2020, and every 6 years thereafter, the Subcommittee shall transmit to the appropriate committees of Congress a report that—
+
+&emsp;&emsp;&emsp;(i) is named the "Ocean Chemistry Coastal Community Vulnerability Assessment";
+
+&emsp;&emsp;&emsp;(ii) identifies gaps in ocean acidification monitoring by public, academic, and private assets in the network of regional coastal observing systems;
+
+&emsp;&emsp;&emsp;(iii) identifies geographic areas which have gaps in ocean acidification research;
+
+&emsp;&emsp;&emsp;(iv) identifies United States coastal communities, including island communities, fishing communities, low-population rural communities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification;
+
+&emsp;&emsp;&emsp;(v) identifies impacts of changing ocean carbonate chemistry on the communities described in clause (iv), including impacts from changes in ocean and coastal marine resources that are not managed by the Federal Government;
+
+&emsp;&emsp;&emsp;(vi) identifies gaps in understanding of the impacts of ocean acidification on economically or commercially important species, particularly those which support United States commercial, recreational, and tribal fisheries and aquaculture;
+
+&emsp;&emsp;&emsp;(vii) identifies habitats that may be particularly vulnerable to corrosive sea water, including areas experiencing multiple stressors such as hypoxia, sedimentation, and harmful algal blooms;
+
+&emsp;&emsp;&emsp;(viii) identifies areas in which existing National Integrated Coastal and Ocean Observation System assets, including unmanned maritime systems, may be leveraged as platforms for the deployment of new sensors or other applicable observing technologies;
+
+&emsp;&emsp;&emsp;(ix) is written in collaboration with Federal agencies responsible for carrying out this chapter, including representatives of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the National Marine Fisheries Service and the Office for Coastal Management of the National Oceanic and Atmospheric Administration;
+
+&emsp;&emsp;&emsp;&emsp;(II) regional coastal observing systems established under section 3603(c)(4) of this title;
+
+&emsp;&emsp;&emsp;&emsp;(III) regional ocean acidification networks; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) sea grant programs (as defined in section 1122 of this title); and
+
+&emsp;&emsp;&emsp;(x) is written in consultation with experts, including subsistence users, academia, and stakeholders familiar with the economic, social, ecological, geographic, and resource concerns of coastal communities in the United States.
+
+#### (B) Form of report
+
+#### (i) Initial report
+
+&emsp;&emsp;&emsp;The initial report required under subparagraph (A) shall include the information described in clauses (i) through (viii) of that subparagraph on a national level.
+
+#### (ii) Subsequent reports
+
+&emsp;&emsp;&emsp;Each report required under subparagraph (A) after the initial report—
+
+&emsp;&emsp;&emsp;&emsp;(I) may describe the information described in clauses (i) through (viii) of that subparagraph on a national level; or
+
+&emsp;&emsp;&emsp;&emsp;(II) may consist of separate reports for each region of the National Oceanic and Atmospheric Administration.
+
+#### (iii) Regional reports
+
+&emsp;&emsp;&emsp;If the Subcommittee opts to prepare a report required under subparagraph (A) as separate regional reports under clause (ii)(II), the Subcommittee shall submit a report for each region of the National Oceanic and Atmospheric Administration not less frequently than once during each 6-year reporting period.
+
+#### (C) Appropriate committees of Congress defined
+
+&emsp;&emsp;In this paragraph and in paragraph (5), the term "appropriate committees of Congress" means the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Natural Resources of the House of Representatives.
+
+#### (5) Monitoring prioritization plan
+
+&emsp;Not later than 180 days after the date of the submission of the initial report under paragraph (4)(A), the Subcommittee shall transmit to the appropriate committees of Congress a report that develops a plan to deploy new sensors or other applicable observing technologies such as unmanned maritime systems—
+
+&emsp;&emsp;(A) based on such initial report;
+
+&emsp;&emsp;(B) prioritized by—
+
+&emsp;&emsp;&emsp;(i) the threat to coastal economies and ecosystems;
+
+&emsp;&emsp;&emsp;(ii) gaps in data; and
+
+&emsp;&emsp;&emsp;(iii) research needs; and
+
+&emsp;&emsp;(C) that leverage existing platforms, where possible.
+
+(Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437; Pub. L. 116–271, title I, §109, Dec. 31, 2020, 134 Stat. 3341.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(4). Pub. L. 116–271 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

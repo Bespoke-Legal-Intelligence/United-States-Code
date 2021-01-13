@@ -18,7 +18,7 @@ Terms.—
 
 &emsp;&emsp;(A)
 
-In general.—The basic terms of a Contingency Agreement shall be established (subject to subparagraph (B)) by the Operating Agency.
+In general.—The basic terms of a Contingency Agreement shall be established\(subject to subparagraph (B)) by the Operating Agency.
 
 &emsp;&emsp;(B)
 

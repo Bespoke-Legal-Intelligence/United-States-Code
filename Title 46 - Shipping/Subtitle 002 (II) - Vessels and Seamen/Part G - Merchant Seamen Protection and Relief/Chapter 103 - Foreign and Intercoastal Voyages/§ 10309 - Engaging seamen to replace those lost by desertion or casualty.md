@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 Section 10309 provides for the replacement of seamen lost by desertion or casualty. It does not apply to fishing vessels, whaling vessels, or yachts.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsecs. (b), (c). Pub. L. 103–206 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The master is liable to the United States Government for a civil penalty of $200 for each report not made. The vessel also is liable in rem for the penalty."

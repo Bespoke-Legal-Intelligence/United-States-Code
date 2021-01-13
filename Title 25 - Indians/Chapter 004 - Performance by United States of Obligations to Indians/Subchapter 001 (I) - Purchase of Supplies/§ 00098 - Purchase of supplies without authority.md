@@ -4,9 +4,13 @@ No claims for supplies for Indians, purchased without authority of law, shall be
 
 (R.S. §2085.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2085 derived from act July 15, 1870, ch. 296, §2, 16 Stat. 360.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

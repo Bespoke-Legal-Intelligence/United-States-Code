@@ -16,6 +16,8 @@ Words "upon conviction thereof" were omitted as unnecessary, since punishment ca
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted ", or" for "or" in section catchline.

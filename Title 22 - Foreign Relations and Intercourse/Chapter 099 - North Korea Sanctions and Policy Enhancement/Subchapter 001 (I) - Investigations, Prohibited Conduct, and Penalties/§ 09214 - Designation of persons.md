@@ -16,7 +16,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeiting of goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
 
-&emsp;(7) knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
+&emsp;(7) knowingly engages in significant activities undermining cybersecurity through theuse of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
 
 &emsp;(8) knowingly, directly or indirectly, sells, supplies, or transfers to or from the Government of North Korea or any person acting for or on behalf of that Government, a significant amount of precious metal, graphite, raw or semi-finished metals or aluminum, steel, coal, or software, for use by or in industrial processes directly related to weapons of mass destruction and delivery systems for such weapons, other proliferation activities, the Korean Workers' Party, armed forces, internal security, or intelligence activities, or the operation and maintenance of political prison camps or forced labor camps, including outside of North Korea;
 
@@ -72,7 +72,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;&emsp;(J) knowingly, directly or indirectly, purchased or otherwise acquired fishing rights from the Government of North Korea;
 
-&emsp;&emsp;(K) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of food or agricultural products from the Government of North Korea;
+&emsp;&emsp;(K) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of food or agriculturalproducts from the Government of North Korea;
 
 &emsp;&emsp;(L) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the exportation of workers from North Korea in a manner intended to generate significant revenue, directly or indirectly, for use by the Government of North Korea or by the Workers' Party of Korea;
 
@@ -154,6 +154,8 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 (Pub. L. 114–122, title I, §104, Feb. 18, 2016, 130 Stat. 99; Pub. L. 115–44, title III, §311(a), (b)(1), (c), Aug. 2, 2017, 131 Stat. 942, 944; Pub. L. 116–92, div. F, title LXXI, §7122(a), Dec. 20, 2019, 133 Stat. 2247.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 9225 enacted by Pub. L. 115–44, title III, §314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in section 9225(c) of this title are now contained in section 9225(d) of this title.
@@ -180,11 +182,17 @@ Subsec. (b)(1)(D) to (N). Pub. L. 115–44, §311(b)(1)(B)–(D), added subpars.
 
 Subsec. (c). Pub. L. 115–44, §311(c), designated existing text as par. (1), inserted heading, substituted "of a person designated under subsection (a)" for "of a designated person", and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–44, title III, §311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: "The amendments made by paragraph (1) \[amending this section\] take effect on the date of the enactment of this Act \[Aug. 2, 2017\] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 \[22 U.S.C. 9214(b)(1)\], as added by paragraph (1), engaged in on or after such date of enactment."
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
+
+Functions and authorities of President under section 7122 of Pub. L. 116–92 with respect to subsec. (g) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(b)(iv) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 
 Functions and authorities of President under subsecs. (a), (b), and (d) of this section delegated to Secretary of the Treasury, in consultation with Secretary of State, and functions and authorities under subsecs. (c) and (e) of this section delegated to Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 

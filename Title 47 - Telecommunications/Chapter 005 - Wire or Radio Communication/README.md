@@ -71,6 +71,7 @@
 |  |  |
 | :--- | ---: |
 | [251\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000251%20-%20Interconnection.md) | Interconnection. |
+| [251a.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000251a%20-%20State%20authority%20over%20fees.md) | State authority over fees. |
 | [252\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000252%20-%20Procedures%20for%20negotiation%2C%20arbitration%2C%20and%20approval%20of%20agreements.md) | Procedures for negotiation, arbitration, and approval of agreements. |
 | [253\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000253%20-%20Removal%20of%20barriers%20to%20entry.md) | Removal of barriers to entry. |
 | [254\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20002%20%28II%29%20-%20Development%20of%20Competitive%20Markets/%C2%A7%2000254%20-%20Universal%20service.md) | Universal service. |
@@ -279,6 +280,7 @@
 | [508\.](Subchapter%20005%20%28V%29%20-%20Penal%20Provisions%3B%20Forfeitures/%C2%A7%2000508%20-%20Disclosure%20of%20payments%20to%20individuals%20connected%20with%20broadcasts.md) | Disclosure of payments to individuals connected with broadcasts. |
 | [509\.](Subchapter%20005%20%28V%29%20-%20Penal%20Provisions%3B%20Forfeitures/%C2%A7%2000509%20-%20Prohibited%20practices%20in%20contests%20of%20knowledge%2C%20skill%2C%20or%20chance.md) | Prohibited practices in contests of knowledge, skill, or chance. |
 | [510\.](Subchapter%20005%20%28V%29%20-%20Penal%20Provisions%3B%20Forfeitures/%C2%A7%2000510%20-%20Forfeiture%20of%20communications%20devices.md) | Forfeiture of communications devices. |
+| [511\.](Subchapter%20005%20%28V%29%20-%20Penal%20Provisions%3B%20Forfeitures/%C2%A7%2000511%20-%20Enhanced%20penalties%20for%20pirate%20radio%20broadcasting%3B%20enforcement%20sweeps%3B%20reporting.md) | Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -389,6 +391,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—BROADBAND DATA
+
+|  |  |
+| :--- | ---: |
+| [641\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000641%20-%20Definitions.md) | Definitions. |
+| [642\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000642%20-%20Broadband%20maps.md) | Broadband maps. |
+| [643\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000643%20-%20Enforcement.md) | Enforcement. |
+| [644\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000644%20-%20Improving%20data%20accuracy.md) | Improving data accuracy. |
+| [645\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000645%20-%20Cost.md) | Cost. |
+| [646\.](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/%C2%A7%2000646%20-%20Other%20provisions.md) | Other provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -401,3 +416,4 @@
 - [Subchapter 005 (V) - Penal Provisions; Forfeitures](Subchapter%20005%20%28V%29%20-%20Penal%20Provisions%3B%20Forfeitures/README.md)
 - [Subchapter 005&#8211;A (V&#8211;A) - Cable Communications](Subchapter%20005%E2%80%93A%20%28V%E2%80%93A%29%20-%20Cable%20Communications/README.md)
 - [Subchapter 006 (VI) - Miscellaneous Provisions](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/README.md)
+- [Subchapter 007 (VII) - Broadband Data](Subchapter%20007%20%28VII%29%20-%20Broadband%20Data/README.md)

@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary—
 
 #### (C) Special rule
 
-&emsp;&emsp;Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining theamount of any credit allowable under this chapter.
+&emsp;&emsp;Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
 #### (b) Certain property not eligible
 
@@ -94,7 +94,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (2) Property used for lodging
 
-&emsp;No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
+&emsp;No credit shall be determined under this subpart with respect to any property which isused predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
 
 &emsp;&emsp;(A) nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
 
@@ -174,7 +174,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (d) Certain rules made applicable
 
-For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+For purposes of this subpart, rules similar to the rules of the following provisions (as in effecton the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 

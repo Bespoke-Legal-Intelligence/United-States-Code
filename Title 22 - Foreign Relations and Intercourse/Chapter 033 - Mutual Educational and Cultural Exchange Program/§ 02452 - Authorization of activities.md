@@ -54,9 +54,11 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 (Pub. L. 87–256, §102, Sept. 21, 1961, 75 Stat. 527; Pub. L. 87–565, pt. IV, §403, Aug. 1, 1962, 76 Stat. 263; Pub. L. 89–698, title II, §203(a), Oct. 29, 1966, 80 Stat. 1071; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 98–164, title VII, §703(a), Nov. 22, 1983, 97 Stat. 1045; Pub. L. 105–292, title V, §503, Oct. 27, 1998, 112 Stat. 2811.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21,1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
 
@@ -68,6 +70,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 <b>1962</b>—Subsec. (a)(3). Pub. L. 87–565 inserted "abroad" after "expositions".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1962 Amendment
 
 Pub. L. 87–565, pt. IV, §403, Aug. 1, 1962, 76 Stat. 263, provided in part that: "The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided."
@@ -75,14 +79,6 @@ Pub. L. 87–565, pt. IV, §403, Aug. 1, 1962, 76 Stat. 263, provided in part th
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. "Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in subsec. (a), opening par. and par. (2)(iv), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, "Director of the International Communication Agency" substituted for "President" in subsec. (a), opening par. and par. (2)(iv), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency, or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsec. (b)(6), (10) of this section, and sections 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
-
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, as amended, set out as a note under section 2454 of this title.
-
-#### Performance of Functions
-
-Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
 
 #### Pilot Program To Provide Grants to American-Sponsored Schools in Predominantly Muslim Countries To Provide Scholarships
 
@@ -113,6 +109,8 @@ Grantee Organizations.—To the extent practicable, grantee organizations select
 Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world's fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §204(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See section 2452b of this title.
 
 #### International Exchange, Scholarship, and Training Programs
+
+Pub. L. 116–260, div. FF, title III, subtitle D (§§331–337), Dec. 27, 2020, 134 Stat. 3114–3118, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
 
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
@@ -155,6 +153,16 @@ Pub. L. 102–138, title II, §229, Oct. 28, 1991, 105 Stat. 702, authorized sch
 #### Study and Report on Ways To Reduce the Drain From Developing Countries of Professional Persons and Skilled Specialists
 
 Pub. L. 89–698, title III, §301, Oct. 29, 1966, 80 Stat. 1072, authorized Secretary of Health, Education, and Welfare to conduct an investigation to determine number of individuals from developing countries who enter United States annually to further their education and fail to return to their homeland and to report to President and to Congress findings and conclusions together with recommendations for any legislation deemed necessary to encourage these individuals to return and use their education and training in service of their homeland.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of State, Director of United States Information Agency, Secretary of Commerce, and Secretary of Education, see Ex. Ord. No. 11034, June 25, 1962, 27 F.R. 6071, as amended, set out as a note under section 2454 of this title.
+
+#### Performance of Functions
+
+Authorization of performance of functions under subsec. (a)(2) and (3) of this section by departments or other executive agencies, see Ex. Ord. No. 11380, §2, Nov. 8, 1967, 32 F.R. 15627, set out as a note under section 2454 of this title.
 
 #### Executive Order No. 10716
 

@@ -84,7 +84,7 @@ In general.—Any person making a statement required under this section may with
 
 &emsp;(2)
 
-Supplemental statements not required.—If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or otherstatement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
+Supplemental statements not required.—If an individual has executed an oath or declaration meeting the requirements of subsection (a) or an assignment meeting the requirements of subsection (e) with respect to an application for patent, the Director may not thereafter require that individual to make any additional oath, declaration, or other statement equivalent to those required by this section in connection with the application for patent or any patent issuing thereon.
 
 &emsp;(3)
 
@@ -104,6 +104,8 @@ The expression at the end of the second sentence is added to avoid application o
 
 Changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (f). Pub. L. 112–274, §1(f)(1), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e)."
@@ -112,11 +114,13 @@ Subsec. (g)(1). Pub. L. 112–274, §1(f)(2), substituted "that claims" for "who
 
 <b>2012</b>—Subsec. (g)(1). Pub. L. 112–211 substituted "section 120, 121, 365(c), or 386(c)" for "section 120, 121, or 365(c)" in introductory provisions.
 
-<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "The applicant shall make oath that he believes himself to be the original and first inventor of the process, machine, manufacture, or composition of matter, or improvement thereof, for which he solicits a patent; and shall state of what country he is a citizen. Such oath may be made before any person within the United States authorized by law to administer oaths, or, when, made in a foreign country, before any diplomatic or consular officer of the United States authorized to administer oaths, or before any officer having an official seal and authorized to administer oaths in the foreign country in which the applicant may be, whose authority is proved by certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and such oath shall be valid if it complies with the laws of the state or country where made. When the application is made as provided in this title by a person other than the inventor, the oath may be so varied in form that it can be made by him. For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221)."
+<b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "The applicant shall make oath that he believes himself to be the original and first inventor of the process, machine, manufacture, or composition of matter, or improvement thereof, for which he solicits a patent; and shall state of what country he is a citizen. Such oath may be made before any person within the United States authorized by law to administer oaths, or, when, made in a foreign country, before any diplomatic or consular officer of the United States authorized to administer oaths, or before any officer having an official seal andauthorized to administer oaths in the foreign country in which the applicant may be, whose authority is proved by certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and such oath shall be valid if it complies with the laws of the state or country where made. When the application is made as provided in this title by a person other than the inventor, the oath may be so varied in form that it can be made by him. For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221)."
 
 <b>1998</b>—Pub. L. 105–277 inserted at end "For purposes of this section, a consular officer shall include any United States citizen serving overseas, authorized to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221)."
 
 <b>1982</b>—Pub. L. 97–247 substituted "is" for "shall be" after "whose authority", and inserted ", or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

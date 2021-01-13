@@ -32,7 +32,7 @@
 
 &emsp;(2) on the operating procedure of the Board.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108 Stat. 1446; Pub. L. 104–53, title II, §213, Nov. 19, 1995, 109 Stat. 535.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 901; Pub. L. 103–283, title III, §312(e)(4)(B), July 22, 1994, 108Stat. 1446; Pub. L. 104–53, title II, §213, Nov. 19, 1995, 109 Stat. 535.)
 
 Historical and Revision Notes
 
@@ -70,6 +70,8 @@ In subsection (c), the words "reopen and" are omitted as surplus.
 
 In subsection (d)(1), the words "the principles of" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
@@ -83,6 +85,8 @@ Subsec. (c). Pub. L. 104–53, §213(1), (3), redesignated subsec. (b) as (c) an
 Subsecs. (d), (e). Pub. L. 104–53, §213(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
 <b>1994</b>—Subsec. (a)(9). Pub. L. 103–283 added par. (9). See Application of Provisions Amended by Pub. L. 103–283 note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

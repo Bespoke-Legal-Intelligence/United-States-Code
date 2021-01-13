@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) no State for fiscal year 1985 shall receive less than the amount of funds the State received in fiscal year 1984; and
 
-&emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscalyear 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
+&emsp;(ii) no State for fiscal year 1986 and thereafter shall receive less than the amount of funds the State would have received in fiscal year 1984 if the appropriations for this subchapter for fiscal year 1984 had been $1,975,000,000, and
 
 &emsp;(B) any State whose allotment percentage out of funds available to States from a total appropriation of $2,250,000,000 would be less than 1 percent, shall not, in any year when total appropriations equal or exceed $2,250,000,000, have its allotment percentage reduced from the percentage it would receive from a total appropriation of $2,140,000,000.
 
@@ -20,7 +20,7 @@
 
 #### (b) Allotments to insular areas
 
-(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The Secretary shall determine the total amount to be apportioned under this paragraph for any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
+(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The Secretary shall determine the total amount to be apportioned under this paragraphfor any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
 
 (2) Each jurisdiction to which paragraph (1) applies may receive grants under this subchapter upon an application submitted to the Secretary containing provisions which describe the programs for which assistance is sought under this subchapter, and which are consistent with the requirements of section 8624 of this title.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 99–425, §502(a), substituted "the capacity" for "and the
 
 Subsec. (d)(2). Pub. L. 99–425, §503, substituted "and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation" for "in such State with respect to which a determination under this subsection is made", inserted ", or such greater amount as the Indian tribe and the State may agree upon", and inserted "In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph."
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–558, §604(a), amended par. (2) generally, substituting provisions relating toState allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
+<b>1984</b>—Subsec. (a)(2). Pub. L. 98–558, §604(a), amended par. (2) generally, substituting provisions relating to State allotment computation for former provisions which also related to computation of State allotment formulas and adding subpars. (A) and (B).
 
 Subsec. (a)(4). Pub. L. 98–558, §604(b), added par. (4).
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(a) of Pub. L. 99–425 effective Dec. 1, 1986, and amendment by sections 503 and 505(b) of Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
+Amendment by section 502(a) of Pub. L. 99–425 effective Dec. 1, 1986, and amendment by sections 503 and505(b) of Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
 
 #### Effective Date of 1984 Amendment
 

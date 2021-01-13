@@ -1,0 +1,86 @@
+### §1862. Access to certain business records for foreign intelligence and international terrorism investigations
+
+#### (a) Application for authorization
+
+The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
+
+#### (b) Recipient and contents of application
+
+Each application under this section—
+
+&emsp;(1) shall be made to—
+
+&emsp;&emsp;(A) a judge of the court established by section 1803(a) of this title; or
+
+&emsp;&emsp;(B) a United States Magistrate Judge under chapter 43 of title 28 who is publicly designated by the Chief Justice of the United States to have the power to hear applications and grant orders for the release of records under this section on behalf of a judge of that court; and
+
+&emsp;(2) shall specify that—
+
+&emsp;&emsp;(A) the records concerned are sought for an investigation described in subsection (a); and
+
+&emsp;&emsp;(B) there are specific and articulable facts giving reason to believe that the person to whom the records pertain is a foreign power or an agent of a foreign power.
+
+#### (c) Ex parte judicial order of approval
+
+(1) Upon application made pursuant to this section, the judge shall enter an ex parte order as requested, or as modified, approving the release of records if the judge finds that the application satisfies the requirements of this section.
+
+(2) An order under this subsection shall not disclose that it is issued for purposes of an investigation described in subsection (a).
+
+#### (d) Compliance; nondisclosure
+
+(1) Any common carrier, public accommodation facility, physical storage facility, or vehicle rental facility shall comply with an order under subsection (c).
+
+(2) No common carrier, public accommodation facility, physical storage facility, or vehicle rental facility, or officer, employee, or agent thereof, shall disclose to any person (other than those officers, agents, or employees of such common carrier, public accommodation facility, physical storage facility, or vehicle rental facility necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section) that the Federal Bureau of Investigation has sought or obtained records pursuant to an order under this section.
+
+(Pub. L. 95–511, title V, §502, as added Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 288; amended Pub. L. 107–108, title III, §314(a)(7), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 109–177, title I, §§102(b)(1), 106(h), Mar. 9, 2006, 120 Stat. 195, 199; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §801(6), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VI, §§601, 605(d), title VII, §705(a), (c), June 2, 2015, 129 Stat. 291, 298, 300; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143.)
+
+#### References in Text
+
+Executive Order No. 12333, referred to in subsec. (a), is set out as a note under section 3001 of this title.
+
+#### Codification
+
+Pursuant to Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 112–14, this section was amended, effective June 1, 2015, to read as it read on Oct. 25, 2001. The amendments made by Pub. L. 114–23, which was enacted June 2, 2015, were directed to this section as it read prior to such reversion and were executed as if the reversion had not taken place, to reflect the probable intent of Congress and the extension of the provisions of this section to Dec. 15, 2019, by Pub. L. 114–23, §705(a), (c). See 2015 Amendment notes below.
+
+#### Prior Provisions
+
+A prior section 1862, Pub. L. 95–511, title V, §502, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2411, which related to access to certain business records for foreign intelligence and international terrorism investigations, was repealed by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287.
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–69 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2015</b>—Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See Codification note above and 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 114–23, §605(d), substituted "Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate" for "Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate".
+
+Subsec. (b). Pub. L. 114–23, §601(a), added pars. (1) to (5) and redesignated former pars. (1) to (3) as (6) to (8), respectively.
+
+Subsec. (c)(1)(C) to (E). Pub. L. 114–23, §601(b), added subpars. (C) to (E).
+
+<b>2011</b>—Pub. L. 112–14 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2010</b>—Pub. L. 111–141 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+Subsec. (a). Pub. L. 111–259 substituted "an annual" for "a annual".
+
+<b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, Pub. L. 112–14, Pub. L. 114–23, §705(a), (c), and Pub. L. 116–69, amended section effective Mar. 15, 2020, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to reports to Congressional committees concerning requests for the production of tangible things under section 1861 of this title.
+
+Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted "annual basis" for "semiannual basis" and inserted "and the Committee on the Judiciary" after "and the Select Committee on Intelligence".
+
+Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted "In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year" for "On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period".
+
+Subsec. (b)(3). Pub. L. 109–177, §106(h)(2)(B)–(D), added par. (3).
+
+Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
+
+<b>2001</b>—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted "section 1861 of this title" for "section 1842 of this title".
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as a note under section 1805 of this title.
+

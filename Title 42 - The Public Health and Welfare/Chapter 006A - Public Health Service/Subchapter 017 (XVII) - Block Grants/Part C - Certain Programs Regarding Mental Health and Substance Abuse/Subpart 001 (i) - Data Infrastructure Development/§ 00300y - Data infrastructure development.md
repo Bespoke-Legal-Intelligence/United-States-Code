@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to, and enter into contracts or cooperative agreements withStates for the purpose of developing and operating mental health or substance abuse data collection, analysis, and reporting systems with regard to performance measures including capacity, process, and outcomes measures.
+The Secretary may make grants to, and enter into contracts or cooperative agreements with States for the purpose of developing and operating mental health or substance abuse data collection, analysis, and reporting systems with regard to performance measures including capacity, process, and outcomes measures.
 
 #### (b) Projects
 
@@ -20,7 +20,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (2) Determination of amount contributed
 
-&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
+&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to anysignificant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
 #### (e) Duration of support
 

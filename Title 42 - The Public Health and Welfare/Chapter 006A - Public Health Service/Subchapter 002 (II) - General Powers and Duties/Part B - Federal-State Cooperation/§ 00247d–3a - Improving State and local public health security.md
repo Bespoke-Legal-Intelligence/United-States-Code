@@ -40,7 +40,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
-&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
+&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or theUnited States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
 
 &emsp;&emsp;&emsp;(x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -94,7 +94,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks and standards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
+&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks andstandards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
 
 &emsp;&emsp;(A) include outcome goals representing operational achievements of the National Preparedness Goals developed under section 300hh–1(b) of this title with respect to all-hazards, including chemical, biological, radiological, or nuclear threats; and
 
@@ -210,7 +210,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;Subject to the amount appropriated under paragraph (1)(A), an award pursuant to subparagraph (A) for a State shall be the greater of the base amount as increased under subparagraph (C), or the minimum amount under this subparagraph. The minimum amount under this subparagraph is—
 
-&emsp;&emsp;&emsp;(i) in the case of each of the several States, the District of Columbia, and theCommonwealth of Puerto Rico, an amount equal to the lesser of—
+&emsp;&emsp;&emsp;(i) in the case of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico, an amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000,000; or
 
@@ -288,7 +288,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, not less often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
+&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, notless often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
 
 #### (B) Repayment
 
@@ -332,7 +332,7 @@ December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the da
 
 Subsec. (b)(2)(A)(iv). Pub. L. 116–22, §207(b), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact or other mutual aid agreements for medical and public health mutual aid;".
 
-Subsec. (b)(2)(A)(vi). Pub. L. 116–22, §202(a)(2)(A), inserted ", including public health agencies with specificexpertise that may be relevant to public health security, such as environmental health agencies," after "stakeholders".
+Subsec. (b)(2)(A)(vi). Pub. L. 116–22, §202(a)(2)(A), inserted ", including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies," after "stakeholders".
 
 Subsec. (b)(2)(A)(vii) to (x). Pub. L. 116–22, §202(a)(2)(B), (C), added cl. (vii) and redesignated former cls. (vii) to (ix) as (viii) to (x), respectively.
 
@@ -414,7 +414,7 @@ Subsec. (i)(4)(D). Pub. L. 109–417, §201(4)(C), substituted "fiscal year 2006
 
 Subsec. (i)(5)(A). Pub. L. 109–417, §201(4)(D), in introductory provisions, substituted "fiscal year 2007" for "fiscal year 2003" and struck out "(A)(i)(I)" after "paragraph (1)".
 
-Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: "For fiscal year 2003, the Secretary shall in making awards under this section ensure thatappropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities."
+Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: "For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities."
 
 Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 

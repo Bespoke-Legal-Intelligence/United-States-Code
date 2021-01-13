@@ -100,7 +100,7 @@ Pub. L. 100–203, title X, §10242(d), Dec. 22, 1987, 101 Stat. 1330–423, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

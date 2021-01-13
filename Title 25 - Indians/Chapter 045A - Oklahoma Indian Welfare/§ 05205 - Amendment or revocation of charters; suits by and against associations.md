@@ -4,6 +4,8 @@ The charters of any cooperative association organized pursuant to section 5204 o
 
 (June 26, 1936, ch. 831, §5, 49 Stat. 1968; June 25, 1948, ch. 646, §29, 62 Stat. 991.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 505 of this title prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 505 of this title prior to editorial 
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, struck out provisions relating to procedure for removal.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

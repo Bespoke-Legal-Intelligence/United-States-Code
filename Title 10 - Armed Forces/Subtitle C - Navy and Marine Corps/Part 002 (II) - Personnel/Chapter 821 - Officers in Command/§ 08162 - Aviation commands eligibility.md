@@ -6,7 +6,7 @@
 
 (b) To be eligible to command a naval aviation school, a naval air station, or a naval aviation unit organized for flight tactical purposes, an officer must be an officer in the line of the Navy designated as a naval aviator or naval flight officer.
 
-(c) To be eligible to command a Marine Corps aviation school, a Marine Corps air station, or a Marine Corps aviation unit organized for flight tactical purposes, an officer must be an officerof the Marine Corps designated as a naval aviator or naval flight officer.
+(c) To be eligible to command a Marine Corps aviation school, a Marine Corps air station, or a Marine Corps aviation unit organized for flight tactical purposes, an officer must be an officer of the Marine Corps designated as a naval aviator or naval flight officer.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 371, §5942; Pub. L. 91–198, §1(1), Feb. 26, 1970, 84 Stat. 15; Pub. L. 113–291, div. A, title V, §507, Dec. 19, 2014, 128 Stat. 3357; renumbered §8162, Pub. L. 115–232, div. A, title VIII, §807(b)(5), Aug. 13, 2018, 132 Stat. 1834.)
 

@@ -16,7 +16,7 @@ There is established a commission to be known as the Indian Law and Order Commis
 
 &emsp;&emsp;&emsp;(ii) the Secretary;
 
-&emsp;&emsp;(B) 2 shall be appointed by the Majority Leader of the Senate, in consultation with the Chairpersons of the Committees on Indian Affairs and the Judiciary of the Senate;
+&emsp;&emsp;(B) 2 shall be appointed by the Majority Leader of the Senate, in consultation withthe Chairpersons of the Committees on Indian Affairs and the Judiciary of the Senate;
 
 &emsp;&emsp;(C) 1 shall be appointed by the Minority Leader of the Senate, in consultation with the Vice Chairperson and Ranking Member of the Committees on Indian Affairs and the Judiciary of the Senate;
 
@@ -56,7 +56,7 @@ There is established a commission to be known as the Indian Law and Order Commis
 
 #### (1) Chairperson
 
-&emsp;Not later than 15 days after the date on which all members of the Commission havebeen appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
+&emsp;Not later than 15 days after the date on which all members of the Commission have been appointed, the Commission shall select 1 member to serve as Chairperson of the Commission.
 
 #### (2) Meetings
 
@@ -168,7 +168,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (B) Tribal and State agencies
 
-&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to theCommission such information as the Commission considers to be necessary to carry out this section.
+&emsp;&emsp;The Commission may request the head of any tribal or State agency to provide to the Commission such information as the Commission considers to be necessary to carry out this section.
 
 #### (4) Postal services
 
@@ -251,6 +251,8 @@ The Commission shall terminate 90 days after the date on which the Commission su
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
 (Pub. L. 101–379, §15, as added Pub. L. 111–211, title II, §235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, §909(a), Mar. 7, 2013, 127 Stat. 126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

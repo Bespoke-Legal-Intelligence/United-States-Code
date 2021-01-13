@@ -30,7 +30,7 @@ For purposes of this subpart:
 
 For purposes of this subpart:
 
-&emsp;(1) A population is a health disparity population if, as determined by the Director of theInstitute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
+&emsp;(1) A population is a health disparity population if, as determined by the Director of the Institute after consultation with the Director of the Agency for Healthcare Research and Quality, there is a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates in the population as compared to the health status of the general population.
 
 &emsp;(2) The Director shall give priority consideration to determining whether minority groups qualify as health disparity populations under paragraph (1).
 
@@ -56,7 +56,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 &emsp;&emsp;(C) ensure that the plan and budget establish objectives regarding such activities, describes the means for achieving the objectives, and designates the date by which the objectives are expected to be achieved;
 
-&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute, the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
+&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute,the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
 
 &emsp;&emsp;(E) ensure that all amounts appropriated for such activities are expended in accordance with the plan and budget;
 
@@ -128,7 +128,7 @@ In carrying out subsection (a), the Director of the Institute—
 
 #### (k) Intra-National Institutes of Health coordination
 
-The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
+The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted orsupported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
 
 (July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066.)
 
@@ -162,7 +162,7 @@ Subsec. (h)(1). Pub. L. 111–148, §10334(c)(2)(A), in par. (1) of subsec. (h) 
 
 Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (1) of subsec. (h) relating to research endowments, substituted "Institute" for "Center".
 
-Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments,substituted "Institute" for "Center" in introductory provisions.
+Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments, substituted "Institute" for "Center" in introductory provisions.
 
 Subsec. (h)(2)(A). Pub. L. 111–148, §10334(c)(2)(B), in par. (2)(A) of subsec. (h) relating to research endowments, substituted "median" for "average".
 

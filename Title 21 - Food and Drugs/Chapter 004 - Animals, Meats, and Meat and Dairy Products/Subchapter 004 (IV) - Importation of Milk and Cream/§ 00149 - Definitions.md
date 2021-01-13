@@ -8,6 +8,8 @@ When used in this subchapter—
 
 (Feb. 15, 1927, ch. 155, §9, 44 Stat. 1103; Pub. L. 86–70, §19, June 25, 1959, 73 Stat. 145; Pub. L. 86–624, §15, July 12, 1960, 74 Stat. 415.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Subsec. (b). Pub. L. 86–624 substituted "means the fifty States and the District of Columbia" for "means continental United States, including Alaska".

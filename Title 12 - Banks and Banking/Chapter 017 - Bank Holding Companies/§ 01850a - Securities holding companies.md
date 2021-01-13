@@ -138,7 +138,7 @@ In this section—
 
 #### (1) Federal Deposit Insurance Act
 
-&emsp;Subsections (b), (c) through (s), and (u) of section 1818 of this title shall apply to any supervised securities holding company, and to any subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, in the same manner as such subsections apply to a bank holding company for which the Board of Governors is the appropriate Federal banking agency. For purposes of applying such subsections to a supervised securities holding company or a subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company,the Board of Governors shall be deemed the appropriate Federal banking agency for the supervised securities holding company or subsidiary.
+&emsp;Subsections (b), (c) through (s), and (u) of section 1818 of this title shall apply to any supervised securities holding company, and to any subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, in the same manner as such subsections apply to a bank holding company for which the Board of Governors is the appropriate Federal banking agency. For purposes of applying such subsections to a supervised securities holding company or a subsidiary (other than a bank or an institution described in subparagraph (D), (F), or (H) of section 2(c)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2))) of a supervised securities holding company, the Board of Governors shall be deemed the appropriate Federal banking agency for the supervised securities holding company or subsidiary.
 
 #### (2) Bank Holding Company Act of 1956
 
@@ -146,17 +146,21 @@ In this section—
 
 (Pub. L. 111–203, title VI, §618, July 21, 2010, 124 Stat. 1616.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title I, referred to in subsec. (a)(4)(B)(i), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§5311 et seq.) of chapter 53 of this title. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4)(B)(v), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (e)(2), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (e)(2), is act May 9, 1956, ch. 240, 70 Stat. 133,which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Bank and Savings Association Holding Company and Depository Institution Regulatory Improvements Act of 2010, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Bank Holding Company Act of 1956 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

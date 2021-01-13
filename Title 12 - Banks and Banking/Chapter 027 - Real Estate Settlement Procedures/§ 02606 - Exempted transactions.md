@@ -14,19 +14,23 @@ In prescribing regulations under section 2617(a) of this title, the Bureau shall
 
 (Pub. L. 93–533, §7, as added Pub. L. 103–325, title III, §312, Sept. 23, 1994, 108 Stat. 2221; amended Pub. L. 104–208, div. A, title II, §2103(b), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(5), July 21, 2010, 124 Stat. 2104.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (a)(1) of this section, referred to in subsec. (b), was in the original "section 7(1) of the Real Estate Settlement Procedures Act of 1974", and was translated as referring to section 7(a)(1) of that Act to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 2606, Pub. L. 93–533, §7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirmingthat information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, §6, Jan. 2, 1976, 89 Stat. 1158.
+A prior section 2606, Pub. L. 93–533, §7, Dec. 22, 1974, 88 Stat. 1727, related to seller or his agent confirming that information concerning an existing residence was disclosed to buyer in writing before a commitment for a mortgage loan was made, prior to repeal by Pub. L. 94–205, §6, Jan. 2, 1976, 89 Stat. 1158.
 
 #### Amendments
 
 2010–Subsec. (b). Pub. L. 111–203 substituted "Bureau" for "Secretary".
 
 <b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

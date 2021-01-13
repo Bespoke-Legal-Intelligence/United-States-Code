@@ -6,6 +6,8 @@
 
 (Added Pub. L. 93–538, §5(a), Dec. 22, 1974, 88 Stat. 1737, §1904; amended Pub. L. 94–581, title II, §205(b)(2), (3), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–602, title I, §122(f), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 97–295, §4(69), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 102–40, title IV, §403(b)(1), May 7, 1991, 105 Stat. 239; renumbered §3904 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b), is classified to section 764(b)(3) of Title 29, Labor.
@@ -42,13 +44,15 @@ Pub. L. 102–40 substituted "section 7303" for "section 4101".
 
 Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" before "through".
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted "Health and Human Services and the Secretary of Education" for "Health, Education, and Welfare and the Commissioner of the Rehabilitation Services Administration, Department of Health, Education, and Welfare", and "section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))" for "section 3(b) of the Rehabilitation Act of 1973 (Public Law 93–112; 87 Stat. 357) (relating to the development and support, and the stimulation of the development and utilization, including production and distribution of new and existing devices, of innovative methods of applying advanced medical technology, scientific achievement, and psychological and social knowledge to solve rehabilitation problems), and section 204(b)(2) of such Act".
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 substituted "Health and Human Services and the Secretary of Education" for "Health, Education, and Welfare and the Commissioner of the Rehabilitation Services Administration, Department of Health, Education, and Welfare", and "section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))" for "section 3(b) of the RehabilitationAct of 1973 (Public Law 93–112; 87 Stat. 357) (relating to the development and support, and the stimulation of the development and utilization, including production and distribution of new and existing devices, of innovative methods of applying advanced medical technology, scientific achievement, and psychological and social knowledge to solve rehabilitation problems), and section 204(b)(2) of such Act".
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–602 substituted "and section 204(b)(2) of such Act" for "section 202(b)(2) of such Act" and struck out ", and section 405 of such Act (relating to the Secretarial responsibilities for planning, analysis, promoting utilization of scientific advances, and information clearinghouse activities)" after "Research Centers)".
 
 <b>1976</b>—Pub. L. 94–581, §205(b)(2), struck out "; coordination with other Federal programs" in section catchline.
 
 Subsec. (a). Pub. L. 94–581, §205(b)(3), substituted "medical and prosthetic research" for "prosthetic and orthopedic appliance research under section 216 and medical research".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

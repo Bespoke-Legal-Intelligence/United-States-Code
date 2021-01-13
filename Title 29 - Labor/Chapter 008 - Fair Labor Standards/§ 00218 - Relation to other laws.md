@@ -12,6 +12,8 @@
 
 (June 25, 1938, ch. 676, §18, 52 Stat. 1069; Pub. L. 89–601, title III, §306, Sept. 23, 1966, 80 Stat. 841; Pub. L. 90–83, §8, Sept. 11, 1967, 81 Stat. 222.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
@@ -21,6 +23,8 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 <b>1967</b>—Subsec. (b). Pub. L. 90–83 substituted reference to section 5102(c)(7) of title 5 for reference to par. (7) of section 202 of the Classification Act of 1949 to reflect the amendment of section 5341(a) of title 5 by section 1(97) of Pub. L. 90–83 and struck out provision covering employees described in section 7474 of title 10 in view of the repeal of section 7474 of title 10 by Pub. L. 89–554.
 
 <b>1966</b>—Pub. L. 89–601 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

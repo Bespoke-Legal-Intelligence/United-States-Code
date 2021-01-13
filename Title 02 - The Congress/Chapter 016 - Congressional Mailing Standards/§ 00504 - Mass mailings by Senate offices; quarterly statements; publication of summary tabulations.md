@@ -4,6 +4,8 @@ Two weeks after the close of each calendar quarter, or as soon as practicable th
 
 (Pub. L. 101–520, title III, §318, Nov. 5, 1990, 104 Stat. 2283; Pub. L. 103–283, title I, §3(b), July 22, 1994, 108 Stat. 1427.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 59f of this title prior to editorial reclassification and renumbering as this section.
@@ -13,6 +15,8 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–283 inserted before period at end ", and in the case of each Senator, the allocation made to such Senator from the appropriation for official mail expenses".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

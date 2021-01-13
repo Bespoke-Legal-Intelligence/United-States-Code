@@ -28,9 +28,13 @@
 
 (Added Pub. L. 95–570, §2(a), Nov. 2, 1978, 92 Stat. 2448.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 107, act June 25, 1948, ch. 644, 62 Stat. 679, providing that employees of the executive departments and independent establishments of the executive branch of the Government might be detailed from time to time to the White House Office for temporary assistance, was repealed by section 2(a) of Pub. L. 95–570. See section 112 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

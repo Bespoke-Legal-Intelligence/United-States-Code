@@ -24,7 +24,7 @@ In this section:
 
 #### (B) Incompetent, incapacitated, or deceased victims
 
-&emsp;&emsp;In the case of a victim who is less than 18 years of age, incompetent, incapacitated, ordeceased, a family member or legal guardian of the victim may receive the compensation under this section on behalf of the victim.
+&emsp;&emsp;In the case of a victim who is less than 18 years of age, incompetent, incapacitated, or deceased, a family member or legal guardian of the victim may receive the compensation under this section on behalf of the victim.
 
 #### (C) Exception
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (b) Award of compensation
 
-The Director may use the emergency reserve referred to in section 20101(d)(5)(A) of this title to carry out a program to compensate victims of acts of international terrorism that occur outside the United States for expenses associated with that victimization. The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.
+The Director may use the emergency reserve referred to in section 20101(d)(5)(A) of this title to carry out a program to compensate victims of acts of international terrorism that occur outside the United States for expenses associated with that victimization. The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of theOmnibus Diplomatic Security and Antiterrorism Act of 1986.
 
 #### (c) Annual report
 
@@ -58,6 +58,8 @@ The Director shall annually submit to Congress a report on the status and activi
 
 (Pub. L. 98–473, title II, §1404C, as added Pub. L. 106–386, div. C, §2003(c)(1), Oct. 28, 2000, 114 Stat. 1544; amended Pub. L. 107–56, title VI, §624(c), Oct. 26, 2001, 115 Stat. 373; Pub. L. 110–181, div. A, title X, §1083(b)(4), Jan. 28, 2008, 122 Stat. 342.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (b), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853. Title VIII of the Act, known as the "Victims of Terrorism Compensation Act", enacted sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amended section 6325 of Title 5, and enacted provisions set out as notes under section 5569 of Title 5, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37. For complete classification of title VIII to the Code, see Short Title of 1986 Amendment note set out under section 5569 of Title 5 and Tables.
@@ -71,6 +73,8 @@ Section was formerly classified to section 10603c of Title 42, The Public Health
 <b>2008</b>—Subsec. (a)(3)(A)(i). Pub. L. 110–181 substituted "October 23, 1983, with respect to which an investigation or civil or criminal" for "December 21, 1988 with respect to which an investigation or".
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–56 inserted at end "The amount of compensation awarded to a victim under this subsection shall be reduced by any amount that the victim received in connection with the same act of international terrorism under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

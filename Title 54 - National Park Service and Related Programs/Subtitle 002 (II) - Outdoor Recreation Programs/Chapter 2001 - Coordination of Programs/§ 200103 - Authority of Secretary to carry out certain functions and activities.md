@@ -6,7 +6,7 @@ In General.—To carry out this chapter, the Secretary may perform the functions
 
 (b)
 
-Inventory and Evaluation.—The Secretary may prepare and maintain a continuing inventory and evaluation of outdoor recreation needs and resources of the United States.
+Inventory and Evaluation.—The Secretary may prepare and maintain a continuinginventory and evaluation of outdoor recreation needs and resources of the United States.
 
 (c)
 

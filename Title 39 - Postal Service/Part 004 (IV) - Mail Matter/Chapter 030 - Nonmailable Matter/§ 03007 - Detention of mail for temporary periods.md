@@ -20,9 +20,11 @@
 
 (b) If any order is issued under subsection (a) and the proceedings under section 3005 are concluded with the issuance of an order under that section, any judicial review of the matter shall be in the district in which the order under subsection (a) was issued.
 
-(c) This section does not apply to mail addressed to publishers of newspapers and otherperiodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
+(c) This section does not apply to mail addressed to publishers of newspapers and other periodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 106–168, title I, §105(a), Dec. 12, 1999, 113 Stat. 1810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (a)(1), 
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–168 added subsecs. (a) and (b), struck out former subsec. (a) which provided for injunctive relief and other orders by the district court in which the defendant gets his mail, and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

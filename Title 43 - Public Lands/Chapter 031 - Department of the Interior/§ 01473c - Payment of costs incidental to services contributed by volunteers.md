@@ -4,11 +4,15 @@ Appropriations under this title <sup>1</sup> in fiscal year 1992 and thereafter
 
 (Pub. L. 102–154, title I, §116, Nov. 13, 1991, 105 Stat. 1012.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title I of Pub. L. 102–154, Nov. 13, 1991, 105 Stat. 990, known as the Department of the Interior and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-#### Prior Provisions
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Prior Similar Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 

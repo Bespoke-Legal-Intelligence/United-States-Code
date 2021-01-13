@@ -96,9 +96,13 @@ Definitions.—In this section—
 
 (Added Pub. L. 109–464, §1(a), Dec. 22, 2006, 120 Stat. 3480; amended Pub. L. 112–154, title VI, §601(b), Aug. 6, 2012, 126 Stat. 1196.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–154 amended section generally. Prior to amendment, section prohibited disruptions of funerals of members or former members of the Armed Forces during period beginning 60 minutes before and ending 60 minutes after such funerals within funeral boundaries, within 150 feet of certain intersections or within 300 feet of funeral boundaries and provided criminal penalties and definitions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose and Authority
 

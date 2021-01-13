@@ -18,6 +18,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1128, §412; Pub. L. 87–268, §1(a), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–466, June 22, 1966, 80 Stat. 217; Pub. L. 94–433, title IV, §405(9), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–223, title II, §213(2), Mar. 2, 1984, 98 Stat. 46; Pub. L. 102–54, §14(b)(3), June 13, 1991, 105 Stat. 283; renumbered §1312 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 214 and 202 of the Social Security Act are classified to sections 414 and 402 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -42,6 +44,8 @@ Subsec. (b). Pub. L. 94–433 substituted "surviving spouse" for "widow" whereve
 
 <b>1961</b>—Pub. L. 87–268 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under section 1101 of this title.
@@ -52,5 +56,5 @@ Pub. L. 87–268, §3, Sept. 21, 1961, 75 Stat. 566, provided that: "The amendme
 
 #### Filing of Application for Benefits
 
-Pub. L. 87–268, §2, Sept. 21, 1961, 75 Stat. 566, provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans' Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
+Pub. L. 87–268, §2, Sept. 21, 1961, 75 Stat. 566, provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date ofPub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans' Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
 

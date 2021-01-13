@@ -18,7 +18,7 @@
 
 #### (b) Employees designated to serve
 
-The plan shall include procedures under which the Secretary shall designate employees of theDepartment who are not employees of the Agency and shall, in conjunction with the heads of other Executive agencies, designate employees of those other Executive agencies, as appropriate, to serve on the Surge Capacity Force.
+The plan shall include procedures under which the Secretary shall designate employees of the Department who are not employees of the Agency and shall, in conjunction with the heads of other Executive agencies, designate employees of those other Executive agencies, as appropriate, to serve on the Surge Capacity Force.
 
 #### (c) Capabilities
 
@@ -49,6 +49,8 @@ As soon as practicable after October 4, 2006, the Administrator shall develop an
 &emsp;(2) other elements of the plan needed to establish the portion of the Surge Capacity Force consisting of individuals designated under those procedures.
 
 (Pub. L. 109–295, title VI, §624, Oct. 4, 2006, 120 Stat. 1419.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

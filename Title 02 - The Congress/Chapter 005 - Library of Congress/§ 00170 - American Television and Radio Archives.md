@@ -4,7 +4,7 @@
 
 The Librarian of Congress (hereinafter referred to as the "Librarian") shall establish and maintain in the Library of Congress a library to be known as the American Television and Radio Archives (hereinafter referred to as the "Archives"). The purpose of the Archives shall be to preserve a permanent record of the television and radio programs which are the heritage of the people of the United States and to provide access to such programs to historians and scholars without encouraging or causing copyright infringement.
 
-&emsp;(1) The Librarian, after consultation with interested organizations and individuals, shall determine and place in the Archives such copies and phonorecords of television and radio programs transmitted to the public in the United States and in other countries which are of present or potential public or cultural interest, historical significance, cognitive value, or otherwise worthy of preservation, including copies and phonorecords of published and unpublished transmission programs—
+&emsp;(1) The Librarian, after consultation with interested organizations and individuals, shall determine and place in the Archives such copies and phonorecords of television and radio programs transmitted to the public in the United States and in other countries which are of present or potential public or cultural interest, historical significance, cognitive value,or otherwise worthy of preservation, including copies and phonorecords of published and unpublished transmission programs—
 
 &emsp;&emsp;(A) acquired in accordance with sections 407 and 408 of title 17; and
 
@@ -41,6 +41,8 @@ The Librarian or any employee of the Library who is acting under the authority o
 This section may be cited as the "American Television and Radio Archives Act".
 
 (Pub. L. 94–553, title I, §113, Oct. 19, 1976, 90 Stat. 2601.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

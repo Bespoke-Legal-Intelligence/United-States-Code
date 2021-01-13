@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 112–141, §32916(a)(2), redesignated subsec. (c) as (e).
 
 "(1)
 
-Household goods.—The Secretary shall register a person to provide service subject to jurisdiction undersubchapter III of chapter 135 as a freight forwarder of household goods if the Secretary finds that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and the Board.
+Household goods.—The Secretary shall register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder of household goods if the Secretary finds that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and the Board.
 
 "(2)
 

@@ -52,7 +52,7 @@
 
 (c) The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available to any Federal, State, or local civilian law enforcement agency to operate equipment for purposes other than described in subsection (b)(2) only to the extent that such support does not involve direct participation by such personnel in a civilian law enforcement operation unless such direct participation is otherwise authorized by law.
 
-(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115, §374; amended Pub. L. 98–525,title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, §17(a)(1), Oct. 6, 2006, 120 Stat. 1706; renumbered §274, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
+(Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115, §374; amended Pub. L. 98–525, title XIV, §1405(9), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–570, title III, §3056, Oct. 27, 1986, 100 Stat. 3207–77; Pub. L. 99–661, div. A, title XIII, §1373(c), Nov. 14, 1986, 100 Stat. 4007; Pub. L. 100–418, title I, §1214(a)(1), Aug. 23, 1988, 102 Stat. 1155; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; Pub. L. 101–189, div. A, title XII, §§1210, 1216(b), (c), Nov. 29, 1989, 103 Stat. 1566, 1569; Pub. L. 102–484, div. A, title X, §1042, Oct. 23, 1992, 106 Stat. 2492; Pub. L. 105–277, div. B, title II, §201, Oct. 21, 1998, 112 Stat. 2681–567; Pub. L. 106–65, div. A, title X, §1066(a)(4), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–304, §17(a)(1), Oct. 6, 2006, 120 Stat. 1706; renumbered §274, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
 #### References in Text
 
@@ -182,9 +182,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;"(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be."
 
-Pub. L. 116–93, div. A, title VIII, §8047(a), Dec. 20, 2019, 133 Stat. 2348, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 116–260, div. C, title VIII, §8047(a), Dec. 27, 2020, 134 Stat. 1316, provided that: "None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, §8047(a), Dec. 20, 2019, 133 Stat. 2348.
 
 Pub. L. 115–245, div. A, title VIII, §8045(a), Sept. 28, 2018, 132 Stat. 3012.
 
@@ -242,11 +244,11 @@ Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as ame
 
 #### Communications Network
 
-Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United States assets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
+Pub. L. 100–456, div. A, title XI, §1103, Sept. 29, 1988, 102 Stat. 2042, related to integration of United Statesassets dedicated to interdiction of illegal drugs into an effective communications network, prior to repeal by Pub. L. 101–189, div. A, title XII, §1204(b), Nov. 29, 1989, 103 Stat. 1564. See section 1204(a) of Pub. L. 101–189 set out as a note under section 124 of this title.
 
 #### Enhanced Drug Interdiction and Enforcement Role for National Guard
 
-Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose,prior to repeal by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
+Pub. L. 100–456, div. A, title XI, §1105, Sept. 29, 1988, 102 Stat. 2047, related to funding and training of National Guard for purpose of drug interdiction and enforcement operations and for operation and maintenance of equipment and facilities for such purpose, prior to repeal by Pub. L. 101–189, div. A, title XII, §1207(b), Nov. 29, 1989, 103 Stat. 1566. See section 112 of Title 32, National Guard.
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 

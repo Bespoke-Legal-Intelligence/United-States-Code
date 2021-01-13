@@ -26,9 +26,13 @@ The words "United States coins and currency (including Federal reserve notes and
 
 This restates 31:5154 to clarify the intent of the section. See 26 Cong. Rec. 7152, 7170 (1894).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–452 substituted "other forms of money" for "United States coins and currency circulating within its jurisdiction".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

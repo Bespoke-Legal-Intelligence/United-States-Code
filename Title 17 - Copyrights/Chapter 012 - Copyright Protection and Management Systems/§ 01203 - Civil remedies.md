@@ -44,7 +44,7 @@ Statutory damages.—(A) At any time before final judgment is entered, a complai
 
 &emsp;(4)
 
-Repeated violations.—In any case in which the injured party sustains the burden ofproving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just.
+Repeated violations.—In any case in which the injured party sustains the burden of proving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just.
 
 &emsp;(5)
 
@@ -67,6 +67,8 @@ Definition.—In this subparagraph, the term "public broadcasting entity" has th
 In general.—In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2874; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5004(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 111–295, §6(f)(3), Dec. 9, 2010, 124 Stat. 3181.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

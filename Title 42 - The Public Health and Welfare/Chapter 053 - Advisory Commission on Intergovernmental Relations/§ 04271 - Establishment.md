@@ -10,7 +10,7 @@ Section was formerly classified to section 2371 of Title 5 prior to the general 
 
 #### Executive Order No. 11455
 
-Ex. Ord. No. 11455, eff. Feb. 14, 1969, 34 F.R. 2299, which established the Office of Intergovernmental Relations,was revoked by Ex. Ord. No. 11690, eff. Dec. 14, 1972, 37 F.R. 26815, set out as a note under section 301 of Title 3, The President.
+Ex. Ord. No. 11455, eff. Feb. 14, 1969, 34 F.R. 2299, which established the Office of Intergovernmental Relations, was revoked by Ex. Ord. No. 11690, eff. Dec. 14, 1972, 37 F.R. 26815, set out as a note under section 301 of Title 3, The President.
 
 #### Office of Intergovernmental Relations; Authorization of Appropriations; Compensation of Director; Appointment of Personnel; Experts and Consultants
 

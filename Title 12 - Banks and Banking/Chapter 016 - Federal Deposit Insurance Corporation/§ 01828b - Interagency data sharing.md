@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To the extent not prohibited by other law, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, and the Board of Governors of the Federal Reserve System shall make available to the Attorney General and the Federal Trade Commission any data in the possession of any such banking agency that theantitrust agency deems necessary for antitrust review of any transaction requiring notice to any such antitrust agency or the approval of such agency under section 1842 or 1843 of this title, section 1828(c) of this title, the National Bank Consolidation and Merger Act \[12 U.S.C. 215 et seq.\], section 1467a of this title, or the antitrust laws.
+To the extent not prohibited by other law, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Federal Deposit Insurance Corporation, and the Board of Governors of the Federal Reserve System shall make available to the Attorney General and the Federal Trade Commission any data in the possession of any such banking agency that the antitrust agency deems necessary for antitrust review of any transaction requiring notice to any such antitrust agency or the approval of such agency under section 1842 or 1843 of this title, section 1828(c) of this title, the National Bank Consolidation and Merger Act \[12 U.S.C. 215 et seq.\], section 1467a of this title, or the antitrust laws.
 
 #### (b) Confidentiality requirements
 
@@ -32,6 +32,8 @@ The provisions of subsection (b) shall apply to—
 
 (Pub. L. 106–102, title I, §132, Nov. 12, 1999, 113 Stat. 1382.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Bank Consolidation and Merger Act, referred to in subsec. (a), is act Nov. 7, 1918, ch. 209, as added by Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 460, and amended, which is classified generally to subchapter XVI (§215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 215 of this title and Tables.
@@ -39,6 +41,8 @@ The National Bank Consolidation and Merger Act, referred to in subsec. (a), is a
 #### Codification
 
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,6 +12,8 @@ Numerous suggestions, of which that of Mr. E. M. Million, of Arlington, Va., is 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

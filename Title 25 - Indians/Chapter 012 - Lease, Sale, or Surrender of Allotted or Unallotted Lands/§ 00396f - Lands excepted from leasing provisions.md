@@ -4,9 +4,13 @@ Sections 396a, 396b, 396c, and 396d of this title shall not apply to the Crow Re
 
 (May 11, 1938, ch. 198, §6, 52 Stat. 348; May 27, 1955, ch. 106, §2, 69 Stat. 68.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1955</b>—Act May 27, 1955, struck out "the Papago Indian Reservation in Arizona," after "shall not apply to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal of Inconsistent Acts
 

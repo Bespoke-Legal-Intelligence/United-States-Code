@@ -48,13 +48,11 @@ Administration of Military Medical Treatment Facilities.—(1) In accordance wit
 
 &emsp;(B) on behalf of the Defense Health Agency, furnishing the health care and medical treatment provided at such facility.
 
-\[(4) Redesignated (5)\]
+(4) If the Secretary of Defense determines it appropriate, a military director (or any other senior military officer or officers) of a military medical treatment facility may be a commanding officer for purposes of chapter 47 of this title (the Uniform Code of Military Justice) with respect to military personnel assigned to the military medical treatment facility.
 
 (5) The Secretary of Defense shall establish a timeline to ensure that each Secretary of a military department transitions the administration of military medical treatment facilities from such Secretary to the Director of the Defense Health Agency pursuant to paragraph (1) by the date specified in such paragraph.
 
-(6) <sup>1</sup> The Secretary of Defense shall establish within the Defense Health Agency a professional staff to provide policy, oversight, and direction to carry out paragraphs (1) and (2). The Secretary shall carry out this paragraph by appointing the positions specified in subsections (b) and (c).
-
-(6) <sup>1</sup> If the Secretary of Defense determines it appropriate, a military director (or any other senior military officer or officers) of a military medical treatment facility may be a commanding officer for purposes of chapter 47 of this title (the Uniform Code of Military Justice) with respect to military personnel assigned to the military medical treatment facility.
+(6) The Secretary of Defense shall establish within the Defense Health Agency a professional staff to provide policy, oversight, and direction to carry out paragraphs (1) and (2). The Secretary shall carry out this paragraph by appointing the positions specified in subsections (b) and (c).
 
 (b)
 
@@ -112,7 +110,7 @@ Certain Responsibilities of DHA Director.—(1) In addition to the other duties 
 
 (e)
 
-Additional DHA Organizations.—Not later than September 30, 2022, the Secretary of Defense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
+Additional DHA Organizations.—Not later than September 30, 2022, the Secretary ofDefense shall, acting though the Director of the Defense Health Agency, establish within the Defense Health Agency the following:
 
 &emsp;(1) A subordinate organization, to be called the Defense Health Agency Research and Development—
 
@@ -150,9 +148,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) any other location used for purposes of providing health care services as designated by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813.)
+(Added Pub. L. 114–328, div. A, title VII, §702(a)(1), Dec. 23, 2016, 130 Stat. 2193; amended Pub. L. 115–91, div. A, title VII, §713, title X, §1081(a)(23), Dec. 12, 2017, 131 Stat. 1437, 1595; Pub. L. 115–232, div. A, title VII, §711(a)(1), (2), (b)(1), Aug. 13, 2018, 132 Stat. 1806, 1807; Pub. L. 116–92, div. A, title VII, §711, title XVII, §1731(a)(22), Dec. 20, 2019, 133 Stat. 1441, 1813; Pub. L. 116–283, div. A, title X, §1081(a)(24), Jan. 1, 2021, 134 Stat. 3872.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4), (6). Pub. L. 116–283 redesignated par. (6) relating to authorization of military director or other senior military officer to serve as a commanding officer as (4) and moved it to appear before par. (5).
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §711(f)(1), substituted "paragraph (5)" for "paragraph (4)" in introductory provisions.
 
@@ -336,7 +336,7 @@ Administrative control of military personnel.—Each Secretary of a military dep
 
 &emsp;&emsp;"(B)
 
-Oversight of certain personnel by the director of the defense health agency.—In situations in which members of the Armed Forces provide health care services at a military medical treatment facility, the Director of the Defense Health Agency shall maintain operational controlover such members and oversight for the provision of care delivered by such members through policies, procedures, and privileging responsibilities of the military medical treatment facility.
+Oversight of certain personnel by the director of the defense health agency.—In situations in which members of the Armed Forces provide health care services at a military medical treatment facility, the Director of the Defense Health Agency shall maintain operational control over such members and oversight for the provision of care delivered by such members through policies, procedures, and privileging responsibilities of the military medical treatment facility.
 
 "(f)
 
@@ -379,6 +379,4 @@ Pub. L. 114–328, div. A, title VII, §702(c), Dec. 23, 2016, 130 Stat. 2196, p
 &emsp;"(1) by not later than October 1, 2018; and
 
 &emsp;"(2) by not increasing the number of full-time equivalent employees of the Defense Health Agency."
-
-<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 

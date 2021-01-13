@@ -20,7 +20,7 @@ Precedence in Department of Defense.—
 
 &emsp;(1)
 
-Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
+Precedence in matters of responsibility.—With regard to all matters for whichthe Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
 
 &emsp;(2)
 
@@ -94,7 +94,7 @@ Additional congressional notification.—Not later than 30 days after any decisi
 
 #### Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies
 
-Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275; Pub. L. 115–232, div. A, title VIII, §812(a)(1)(C), Aug. 13, 2018, 132 Stat. 1846, provided that:
+Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, titleIX, §905, Jan. 28, 2008, 122 Stat. 275; Pub. L. 115–232, div. A, title VIII, §812(a)(1)(C), Aug. 13, 2018, 132 Stat. 1846, provided that:
 
 "(a)
 

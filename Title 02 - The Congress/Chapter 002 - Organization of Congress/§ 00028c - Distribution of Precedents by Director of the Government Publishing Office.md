@@ -2,7 +2,7 @@
 
 #### (a) Delivery to Members of Ninety-fifth Congress; marking of volumes
 
-The Director of the Government Publishing Office shall deliver one set of the Precedents toeach Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+The Director of the Government Publishing Office shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
 
 #### (b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set
 
@@ -42,11 +42,15 @@ The Director of the Government Publishing Office shall make the following distri
 
 (Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, §202(3), Aug. 20, 1996, 110 Stat. 1724; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted "Representatives, each" for "Representives, each".
 
 Subsec. (c)(5). Pub. L. 104–186, §202(3)(B), substituted "and to the Sergeant at Arms of the House of Representatives, each two sets" for ", to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

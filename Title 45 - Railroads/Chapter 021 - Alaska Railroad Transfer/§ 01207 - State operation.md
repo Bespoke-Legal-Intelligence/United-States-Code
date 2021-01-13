@@ -2,7 +2,7 @@
 
 #### (a) Laws, authorities, etc., applicable to State-owned railroad with status as rail carrier engaged in interstate and foreign commerce
 
-(1) After the date of transfer to the State pursuant to section 1203 of this title, the State-owned railroad shall be a rail carrier engaged in interstate and foreign commerce subject to part A of subtitle IV of title 49 and all other Acts applicable to rail carriers subject to that chapter,<sup>1</sup> including the antitrust laws of the United States, except, so long as it is an instrumentality of the State of Alaska, the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.), the Railroad Retirement Tax Act (26 U.S.C. 3201 et seq.), the Railway Labor Act (45 U.S.C. 151 et seq.), theAct of April 22, 1908 (45 U.S.C. 51 et seq.) (popularly referred to as the "Federal Employers' Liability Act"), and the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.). Nothing in this chapter shall preclude the State from explicitly invoking by law any exemption from the antitrust laws as may otherwise be available.
+(1) After the date of transfer to the State pursuant to section 1203 of this title, the State-owned railroad shall be a rail carrier engaged in interstate and foreign commerce subject to part A of subtitle IV of title 49 and all other Acts applicable to rail carriers subject to that chapter,<sup>1</sup> including the antitrust laws of the United States, except, so long as it is an instrumentality of the State of Alaska, the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.), the Railroad Retirement Tax Act (26 U.S.C. 3201 et seq.), the Railway Labor Act (45 U.S.C. 151 et seq.), the Act of April 22, 1908 (45 U.S.C. 51 et seq.) (popularly referred to as the "Federal Employers' Liability Act"), and the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.). Nothing in this chapter shall preclude the State from explicitly invoking by law any exemption from the antitrust laws as may otherwise be available.
 
 (2) The transfer to the State authorized by section 1203 of this title and the conferral of jurisdiction to the Interstate Commerce Commission pursuant to paragraph (1) of this subsection are intended to confer upon the State-owned railroad all business opportunities available to comparable railroads, including contract rate agreements meeting the requirements of section 10713 <sup>2</sup> of title 49, notwithstanding any participation in such agreements by connecting water carriers.
 
@@ -33,6 +33,8 @@ After the date of transfer to the State pursuant to section 1203 of this title, 
 The State-owned railroad may take any necessary or appropriate action, consistent with Federal railroad safety laws, to preserve and protect its rail properties in the interests of safety.
 
 (Pub. L. 97–468, title VI, §608, Jan. 14, 1983, 96 Stat. 2573; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §326, Dec. 29, 1995, 109 Stat. 951; Pub. L. 108–447, div. H, title I, §152(1), (2), Dec. 8, 2004, 118 Stat. 3222.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Subsec. (e). Pub. L. 108–447, §152(2), added subsec. (e).
 <b>1995</b>—Subsecs. (a)(1), (c). Pub. L. 104–88 substituted "part A" for "the jurisdiction of the Interstate Commerce Commission under chapter 105".
 
 <b>1986</b>—Subsec. (a)(6)(A). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

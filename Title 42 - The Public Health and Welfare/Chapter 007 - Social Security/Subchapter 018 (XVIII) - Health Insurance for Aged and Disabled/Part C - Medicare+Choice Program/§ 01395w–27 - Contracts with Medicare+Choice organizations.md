@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of aMedicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
@@ -140,7 +140,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization witha contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
 #### (C) Authorization of appropriations
 
@@ -206,7 +206,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
+&emsp;&emsp;Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on theinvestigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
 
 #### (B) Process
 
@@ -276,13 +276,13 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(H) except as provided under subparagraph (C) or (D) of section 1395w–101(b)(1) of this title, enrolls an individual in any plan under this part without the prior consent of the individual or the designee of the individual;
 
-&emsp;&emsp;(I) transfers an individual enrolled under this part from one plan to another without the prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission;
+&emsp;&emsp;(I) transfers an individual enrolled under this part from one plan to another withoutthe prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission;
 
 &emsp;&emsp;(J) fails to comply with marketing restrictions described in subsections (h) and (j) of section 1395w–21 of this title or applicable implementing regulations or guidance; or
 
 &emsp;&emsp;(K) employs or contracts with any individual or entity who engages in the conduct described in subparagraphs (A) through (J) of this paragraph;
 
-> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any ofthe remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
+> &emsp;the Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2). The Secretary may provide, in addition to any other remedies authorized by law, for any of the remedies described in paragraph (2), if the Secretary determines that any employee or agent of such organization, or any provider or supplier who contracts with such organization, has engaged in any conduct described in subparagraphs (A) through (K) of this paragraph.
 
 #### (2) Remedies
 
@@ -332,7 +332,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Contracts with MA organizations
 
-&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employersor labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
 
 #### (2) Employer sponsored MA plans
 
@@ -402,7 +402,7 @@ Pub. L. 106–113, §1000(a)(6) \[title V, §513(a), (b)(1)(A)\], substituted "2
 
 Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(1)\], substituted "Any amounts collected shall be available without further appropriation to the Secretary for" for "Any amounts collected are authorized to be appropriated only for".
 
-Subsec. (e)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(2)\], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections."
+Subsec. (e)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(2)\], amended heading and text of subpar. (C)generally. Prior to amendment, text read as follows: "For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections."
 
 Subsec. (e)(2)(D)(ii)(II). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(A)\], struck out "and" after semicolon.
 
@@ -474,7 +474,7 @@ Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, directed the
 
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 
-Pub. L. 105–33, title IV, §4002(g), Aug. 5, 1997, 111 Stat. 330, provided that: "Section 1857(e)(2) of the Social Security Act \[42 U.S.C. 1395w–27(e)(2)\] (requiring contribution to certain costs related to the enrollment processcomparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[42 U.S.C. 1395w–21\]."
+Pub. L. 105–33, title IV, §4002(g), Aug. 5, 1997, 111 Stat. 330, provided that: "Section 1857(e)(2) of the Social Security Act \[42 U.S.C. 1395w–27(e)(2)\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[42 U.S.C. 1395w–21\]."
 
 <i><sup>1</sup></i><i> So in original. Probably means subpar. (E) of par. (1).</i>
 

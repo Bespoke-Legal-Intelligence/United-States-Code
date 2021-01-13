@@ -16,7 +16,7 @@ Relief.—In an action under this section, appropriate relief includes—
 
 (c)
 
-Computation of Damages.—(1) In an action under this section, if the conduct in violation of this chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal Communications Commission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
+Computation of Damages.—(1) In an action under this section, if the conduct in violation ofthis chapter is the private viewing of a private satellite video communication that is not scrambled or encrypted or if the communication is a radio communication that is transmitted on frequencies allocated under subpart D of part 74 of the rules of the Federal Communications Commission that is not scrambled or encrypted and the conduct is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, then the court shall assess damages as follows:
 
 &emsp;(A) If the person who engaged in that conduct has not previously been enjoined under section 2511(5) and has not been found liable in a prior civil action under this section, the court shall assess the greater of the sum of actual damages suffered by the plaintiff, or statutory damages of not less than $50 and not more than $500.
 
@@ -54,6 +54,8 @@ Improper Disclosure Is Violation.—Any willful disclosure or use by an investig
 
 (Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title XXII, §2207(e), formerly title II, §225(e), Nov. 25, 2002, 116 Stat. 2157, renumbered §2207(e), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 115–141, div. V, §104(1)(B), Mar. 23, 2018, 132 Stat. 1216.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(3). Pub. L. 115–141 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;".
@@ -64,7 +66,7 @@ Improper Disclosure Is Violation.—Any willful disclosure or use by an investig
 
 Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g).
 
-<b>1986</b>—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: "Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person whointercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
+<b>1986</b>—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: "Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
 &emsp;"(a) actual damages but not less than liquidated damages computed at the rate of $100 a day for each day of violation or $1,000, whichever is higher;
 
@@ -76,13 +78,15 @@ Subsecs. (f), (g). Pub. L. 107–56, §223(a)(2), (3), added subsecs. (f) and (g
 
 <b>1970</b>—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to courtorder or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1970 Amendment
 

@@ -54,9 +54,13 @@ In subsection (b), before clause (1), the words "fiscal year ending September 30
 
 Subsection (c) is substituted for the words "and such sums as may be necessary for each fiscal year thereafter" both times they appear.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b)(2)(A). Pub. L. 101–509 substituted "(except section 5305, or corresponding prior provision of such title)" for "(except section 5303)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

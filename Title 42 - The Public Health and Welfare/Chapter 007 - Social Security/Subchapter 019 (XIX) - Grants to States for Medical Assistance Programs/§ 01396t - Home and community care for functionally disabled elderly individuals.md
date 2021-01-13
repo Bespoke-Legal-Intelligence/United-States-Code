@@ -48,7 +48,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(ii) is determined to meet the test of functional disability applied under the waiver as of such date; and
 
-&emsp;&emsp;(iii) meets the resource requirement and income standard that apply in the State toindividuals described in section 1396a(a)(10)(A)(ii)(V) of this title.
+&emsp;&emsp;(iii) meets the resource requirement and income standard that apply in the State to individuals described in section 1396a(a)(10)(A)(ii)(V) of this title.
 
 #### (3) Use of projected income
 
@@ -164,7 +164,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (3) Appeals process
 
-&emsp;Each State which elects to provide home and community care under this section must have in effect an appeals process for individuals who disagree with the ICCP established.
+&emsp;Each State which elects to provide home and community care under this section must havein effect an appeals process for individuals who disagree with the ICCP established.
 
 #### (e) Ceiling on payment amounts and maintenance of effort
 
@@ -192,7 +192,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (1) Requirements
 
-&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements forindividuals' rights and quality as are published or developed by the Secretary under subsection (k). Such requirements shall include—
+&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals' rights and quality as are published or developed by the Secretary under subsection (k). Such requirements shall include—
 
 &emsp;&emsp;(A) the requirement that individuals providing care are competent to provide such care; and
 
@@ -240,7 +240,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(B) meet the requirements of paragraphs (1)(A), (1)(C), (1)(D), (3), and (6) of section 1396r(c) of this title, to the extent applicable to such a setting;
 
-&emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives community care in the setting, of the individual's legal rights with respect to such a setting and the care provided in the setting;
+&emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives community care in the setting, of the individual's legal rightswith respect to such a setting and the care provided in the setting;
 
 &emsp;&emsp;(D) meet any applicable State or local requirements regarding certification or licensure;
 
@@ -276,7 +276,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, anyindividual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -308,7 +308,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) In general
 
-&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable stepsto avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (B) Survey protocol
 
@@ -332,7 +332,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (5) Investigation of allegations of individual neglect and abuse and misappropriation of individual property
 
-&emsp;The State shall provide, through the agency responsible for surveys and certification ofproviders of home or community care and community care settings under this subsection, for a process for the receipt, review, and investigation of allegations of individual neglect and abuse (including injuries of unknown source) by individuals providing such care or in such setting and of misappropriation of individual property by such individuals. The State shall, after notice to the individual involved and a reasonable opportunity for hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that an individual has neglected or abused an individual receiving community care or misappropriated such individual's property, the State shall notify the individual against whom the finding is made. A State shall not make a finding that a person has neglected an individual receiving community care if the person demonstrates that such neglect was caused by factors beyond the control of the person. The State shall provide for public disclosure of findings under this paragraph upon request and for inclusion, in any such disclosure of such findings, of any brief statement (or of a clear and accurate summary thereof) of the individual disputing such findings.
+&emsp;The State shall provide, through the agency responsible for surveys and certification of providers of home or community care and community care settings under this subsection, for a process for the receipt, review, and investigation of allegations of individual neglect and abuse (including injuries of unknown source) by individuals providing such care or in such setting and of misappropriation of individual property by such individuals. The State shall, after notice to the individual involved and a reasonable opportunity for hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that an individual has neglected or abused an individual receiving community care or misappropriated such individual's property, the State shall notify the individual against whom the finding is made. A State shall not make a finding that a person has neglected an individual receiving community care if the person demonstrates that such neglect was caused by factors beyond the control of the person. The State shall provide for public disclosure of findings under this paragraph upon request and for inclusion, in any such disclosure of such findings, of any brief statement (or of a clear and accurate summary thereof) of the individual disputing such findings.
 
 #### (6) Disclosure of results of inspections and activities
 
@@ -382,7 +382,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) For State providers
 
-&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall have the authority and duties of a State underthis subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
+&emsp;&emsp;With respect to a State provider of home or community care, the Secretary shall have the authority and duties of a State under this subsection, except that the civil money penalty remedy described in subparagraph (C) shall be substituted for the civil money remedy described in paragraph (1)(B)(i).
 
 #### (B) Other providers
 
@@ -406,7 +406,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Minimum protections
 
-&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph (2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and community care are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
+&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph\(2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and community care are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
 
 #### (2) Development of final requirements
 
@@ -442,7 +442,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (3) Limitation on eligibility
 
-&emsp;The State may limit eligibility for home and community care under this section during anelection period under paragraph (2) to reasonable classifications (based on age, degree of functional disability, and need for services).
+&emsp;The State may limit eligibility for home and community care under this section during an election period under paragraph (2) to reasonable classifications (based on age, degree of functional disability, and need for services).
 
 #### (4) Allocation of medical assistance
 

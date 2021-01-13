@@ -4,9 +4,13 @@ The Secretary of the Interior may, on behalf of the United States and for use by
 
 (Dec. 24, 1942, ch. 822, 56 Stat. 1086; Pub. L. 86–406, Apr. 4, 1960, 74 Stat. 14; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–406 authorized Secretary of the Interior to acquire lands and interests in lands for observation well sites to gage underground water resources.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

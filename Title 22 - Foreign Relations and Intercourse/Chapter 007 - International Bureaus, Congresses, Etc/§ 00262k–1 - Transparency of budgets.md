@@ -14,13 +14,15 @@ For purposes of this section, the term "international financial institution" sha
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title V, §576\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 105–118, title V, §572, Nov. 26, 1997, 111 Stat. 2430.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 532(b) of this Act, referred to in subsec. (b), is section 532(b) of Pub. L. 104–208, div. A, title I, §101(c) \[title V\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–152, which is not classified to the Code.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–118, §572(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "does not have in place a functioning system for a civilian audit of all receipts and expenditures thatfund activities of the armed forces and security forces;".
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–118, §572(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "does not have in place a functioning system for a civilian audit of all receipts and expenditures that fund activities of the armed forces and security forces;".
 
 Subsec. (a)(2). Pub. L. 105–118, §572(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "has not provided a summary of a current audit to the institution."
 

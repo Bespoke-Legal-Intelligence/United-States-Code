@@ -1,6 +1,6 @@
 ### §3718. Contracts for collection services
 
-(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
+(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by aState government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
 
 &emsp;(1) the head of the agency retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 
@@ -40,7 +40,7 @@
 
 (c) The Attorney General shall transmit to the Congress an annual report on the activities of the Department of Justice to recover indebtedness owed the United States which was referred to the Department of Justice for collection. Each such report shall include a list, by agency, of—
 
-&emsp;(1) the total number and amounts of claims which were referred for legal services to the Department of Justice and to private counsel under subsection (b) during the 1-year period covered by the report;
+&emsp;(1) the total number and amounts of claims which were referred for legal services to theDepartment of Justice and to private counsel under subsection (b) during the 1-year period covered by the report;
 
 &emsp;(2) the total number and amount of those claims referred for legal services to the Department of Justice which were collected or were not collected or otherwise resolved during the 1-year period covered by the report; and
 
@@ -98,6 +98,8 @@ In subsection (c), the word "advanced" is omitted as surplus.
 
 In subsection (d), the words "Notwithstanding the provisions of any other law governing the collection of claims owed the United States" and "unpaid or underpaid" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 31(b) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to section 657a(b) of Title 15, Commerce and Trade.
@@ -142,6 +144,8 @@ Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–167 inserted "This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
@@ -182,7 +186,7 @@ Report to Congress.—After completing the audit under subsection (a), the Inspe
 
 Pub. L. 99–578, §3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided thatthe pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
+Pub. L. 104–134, title I, §101\[(a)\] \[title I, §120\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 
@@ -194,7 +198,7 @@ Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 216.
 
 #### Report by Attorney General
 
-Pub. L. 99–578, §2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by Pub. L. 99–578.
+Pub. L. 99–578, §2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions takenunder subsec. (b) of this section, as added by Pub. L. 99–578.
 
 #### Audit by Comptroller General
 

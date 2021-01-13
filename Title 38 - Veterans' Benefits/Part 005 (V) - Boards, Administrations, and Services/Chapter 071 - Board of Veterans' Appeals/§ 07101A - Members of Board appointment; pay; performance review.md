@@ -18,7 +18,7 @@
 
 &emsp;(B) recommend to the Secretary that the member be noncertified.
 
-(4) In the case of a member of the Board who is granted a conditional recertification under paragraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of the conditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
+(4) In the case of a member of the Board who is granted a conditional recertification underparagraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of the conditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
 
 (5) In a case in which the Chairman recommends to the Secretary under paragraph (3) or (4) that a member be noncertified, the Secretary, after considering the recommendation of the Chairman, may either—
 
@@ -42,11 +42,15 @@
 
 (Added Pub. L. 103–446, title II, §201(a)(1), Nov. 2, 1994, 108 Stat. 4655; amended Pub. L. 105–368, title X, §1002, Nov. 11, 1998, 112 Stat. 3363.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–368, §1002(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(2). Pub. L. 105–368, §1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Continuing participation
 
-Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> on August 18, 2000, may elect to participate in self-governance under this subchapter under existing authority as reflected in tribal resolution.
+Each Indian tribe that is participating in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> on August 18, 2000, may elect toparticipate in self-governance under this subchapter under existing authority as reflected in tribal resolution.
 
 #### (b) Additional participants
 
@@ -61,6 +61,8 @@ Subject to the availability of appropriations, any Indian tribe meeting the requ
 Receipt of a grant under subsection (e) of this section shall not be a requirement of participation in self-governance.
 
 (Pub. L. 93–638, title V, §503, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 714.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

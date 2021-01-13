@@ -1,6 +1,6 @@
 ### §1175. Voluntary separation incentive
 
-(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Homeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
+(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary ofHomeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
 
 (2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
 
@@ -196,7 +196,7 @@ Pub. L. 102–396, title IX, §9106, Oct. 6, 1992, 106 Stat. 1927.
 
 #### Separation Payments; Reductions and Prohibitions
 
-For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 incase of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
+For provisions reducing, with certain exceptions, amounts received under this section by amounts received as bonus payments under chapter 5 of title 37 in case of members who separate from active duty or full-time National Guard duty in a military department and prohibiting such members from receiving Voluntary Separation Incentive program payments if rehired in DOD civilian position within 180 days of separation, see note set out under section 1174a of this title.
 
 #### Tax Treatment of Incentive Payment
 

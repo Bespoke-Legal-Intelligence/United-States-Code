@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to hire, assign, direct, layoff, and retain employees in the agency, or to suspend, remove, reduce in grade or pay, or take other disciplinary action against such employees;
 
-&emsp;&emsp;(B) to assign work, to make determinations with respect to contracting out, and to determine the personnel by which agency operations shall be conducted;
+&emsp;&emsp;(B) to assign work, to make determinations with respect to contracting out, and todetermine the personnel by which agency operations shall be conducted;
 
 &emsp;&emsp;(C) with respect to filling positions, to make selections for appointments from—
 
@@ -27,6 +27,8 @@
 &emsp;(3) appropriate arrangements for employees adversely affected by the exercise of any authority under this section by such management officials.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1198.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

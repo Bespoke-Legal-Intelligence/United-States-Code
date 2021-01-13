@@ -60,6 +60,8 @@ Implementation of Designation.—In connection with a designation made under thi
 
 (Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4255.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Regulations for Preventing Collisions at Sea, 1972, referred to in subsec. (e)(1), came into effect pursuant to the Convention on the International Regulations for Preventing Collisions at Sea, 1972. See International Regulations for Preventing Collisions at Sea, 1972 note under section 1602 of Title 33, Navigation and Navigable Waters.

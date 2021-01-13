@@ -14,7 +14,7 @@ The Secretary shall take all steps necessary to protect the water rights reserve
 
 #### (d) Effect on previously secured rights
 
-The Federal water rights reserved by this subchapter shall be in addition to any water rights which may have been previously secured by the United States for purposes other than for the conservation area.
+The Federal water rights reserved by this subchapter shall be in addition to any water rightswhich may have been previously secured by the United States for purposes other than for the conservation area.
 
 #### (e) Scope and construction of rights
 

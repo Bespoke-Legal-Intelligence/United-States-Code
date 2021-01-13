@@ -24,15 +24,17 @@
 
 (3) The Secretary shall determine the number, terms of service, and pay and allowances of members of the Committee appointed by the Secretary, except that a term of service of any such member may not exceed three years. The Secretary may reappoint any such member for additional terms of service.
 
-(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans, reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
+(b) The Secretary shall, on a regular basis, consult with and seek the advice of the Committee with respect to the administration of benefits by the Department for women veterans,reports and studies pertaining to women veterans and the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department, including the Center for Women Veterans.
 
 (c)(1) Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
 
 &emsp;(A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
-&emsp;(B) a review of the programs and activities of the Department designed to meet such needs; and
+&emsp;(B) a review of the programs and activities of the Department designed to meet such needs;
 
-&emsp;(C) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
+&emsp;(C) an assessment of the effects of intimate partner violence on women veterans; and
+
+&emsp;(D) such recommendations (including recommendations for administrative and legislative action) as the Committee considers appropriate.
 
 (2) The Secretary shall, within 60 days after receiving each report under paragraph (1), submit to the Congress a copy of the report, together with any comments concerning the report that the Secretary considers appropriate.
 
@@ -40,7 +42,9 @@
 
 (4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to such section.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title II, §204(a), May 5, 2010, 124 Stat. 1144.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 393; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–275, title V, §501(e)(1), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–419, title IV, §403(c)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 109–444, §5, Dec. 21, 2006, 120 Stat. 3308; Pub. L. 109–461, title II, §208(b), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3413, 3468; Pub. L. 110–387, title VIII, §808, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title II, §204(a), May 5, 2010, 124 Stat. 1144; Pub. L. 116–315, title V, §5302, Jan. 5, 2021, 134 Stat. 5038.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -49,6 +53,8 @@ Prior section 542 was renumbered section 1542 of this title.
 Provisions similar to those in this section were contained in section 222 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1)(C), (D). Pub. L. 116–315 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 <b>2010</b>—Subsec. (a)(2)(A)(iv). Pub. L. 111–163 added cl. (iv).
 
@@ -66,13 +72,15 @@ Pub. L. 109–444, which substituted "2008" for "2004" in introductory provision
 
 <b>1992</b>—Subsec. (a)(2)(B)(iii). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" and "Under Secretary for Benefits" for "Chief Benefits Director".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to Assistant Secretary of Labor for Veterans' Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans' Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by thissection \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
+Pub. L. 111–163, title II, §204(c), May 5, 2010, 124 Stat. 1144, provided that: "The amendments made by this section \[amending this section and section 544 of this title\] shall apply to appointments made on or after the date of the enactment of this Act \[May 5, 2010\]."
 
 #### Termination of Advisory Committees
 

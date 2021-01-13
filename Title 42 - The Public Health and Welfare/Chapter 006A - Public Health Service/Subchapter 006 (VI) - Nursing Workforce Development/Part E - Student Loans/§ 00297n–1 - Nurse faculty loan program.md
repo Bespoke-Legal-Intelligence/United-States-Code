@@ -58,13 +58,11 @@ Where all or any part of a loan, or interest, is canceled under this section, th
 
 At the request of the individual involved, the Secretary may review any determination by an accredited school of nursing under subsection (c)(6)(B).
 
-#### (f) Authorization of appropriations
-
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
-
-(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116 Stat. 817; amended Pub. L. 111–148, title V, §5311(a), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §846A, as added Pub. L. 107–205, title II, §203, Aug. 1, 2002, 116 Stat. 817; amended Pub. L. 111–148, title V, §5311(a), Mar. 23, 2010, 124 Stat. 631; Pub. L. 116–136, div. A, title III, §3404(a)(9), Mar. 27, 2020, 134 Stat. 394; Pub. L. 116–260, div. BB, title III, §331(c), Dec. 27, 2020, 134 Stat. 2938.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–136, §3404(a)(9), as amended by Pub. L. 116–260, §331(c), struck out subsec. (f). Text read as follows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014."
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §5311(a)(1), substituted "School of nursing student loan fund" for "Establishment" in heading and inserted "accredited" before "school" in text.
 
@@ -75,6 +73,10 @@ Subsec. (c)(3)(A). Pub. L. 111–148, §5311(a)(2)(B), inserted "an accredited" 
 Subsec. (e). Pub. L. 111–148, §5311(a)(3), substituted "an accredited school" for "a school".
 
 Subsec. (f). Pub. L. 111–148, §5311(a)(4), substituted "2010 through 2014" for "2003 through 2007".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under section 294c of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

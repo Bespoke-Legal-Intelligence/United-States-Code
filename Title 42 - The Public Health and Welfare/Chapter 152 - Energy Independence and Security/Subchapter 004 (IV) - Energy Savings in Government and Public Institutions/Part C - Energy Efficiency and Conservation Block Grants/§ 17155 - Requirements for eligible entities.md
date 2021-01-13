@@ -20,13 +20,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which an eligible unit of local government or Indian tribe receives a grant under this part, the eligible unit of local government or Indian tribe shall submit to the Secretary a proposed energy efficiency and conservation strategy in accordance with this paragraph.
+&emsp;&emsp;Not later than 1 year after the date on which an eligible unit of local governmentor Indian tribe receives a grant under this part, the eligible unit of local government or Indian tribe shall submit to the Secretary a proposed energy efficiency and conservation strategy in accordance with this paragraph.
 
 #### (B) Inclusions
 
 &emsp;&emsp;The proposed strategy under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a description of the goals of the eligible unit of local government or Indiantribe, in accordance with the purposes of this part, for increased energy efficiency and conservation in the jurisdiction of the eligible unit of local government or Indian tribe; and
+&emsp;&emsp;&emsp;(i) a description of the goals of the eligible unit of local government or Indian tribe, in accordance with the purposes of this part, for increased energy efficiency and conservation in the jurisdiction of the eligible unit of local government or Indian tribe; and
 
 &emsp;&emsp;&emsp;(ii) a plan for the use of the grant to assist the eligible unit of local government or Indian tribe in achieving those goals, in accordance with section 17154 of this title.
 

@@ -20,11 +20,13 @@ Whoever, in any matter within the jurisdiction of an examiner or hearing officer
 
 (1) Whoever votes more than once in an election referred to in paragraph (2) shall be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-(2) The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
+(2) The prohibition of this subsection applies with respect to any general, special, or primaryelection held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
 
 (3) As used in this subsection, the term "votes more than once" does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 10502 of this title, to the extent two ballots are not cast for an election to the same candidacy or office.
 
 (Pub. L. 89–110, title I, §11, Aug. 6, 1965, 79 Stat. 443; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 91–405, title II, §204(e), Sept. 22, 1970, 84 Stat. 853; Pub. L. 94–73, title IV, §§404, 409, Aug. 6, 1975, 89 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Section was formerly classified to section 1973i of Title 42, The Public Health 
 Subsec. (e). Pub. L. 94–73, §409, added subsec. (e).
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–405 substituted reference to Delegate from District of Columbia for Delegates or Commissioners from territories or possessions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

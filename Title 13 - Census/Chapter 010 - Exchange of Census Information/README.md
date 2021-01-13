@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–347, title V, §526(b)(2), Dec. 17, 2002, 116 Stat. 2970, added item 402.

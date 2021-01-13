@@ -6,7 +6,7 @@ Congress recognizes that the Indian Self-Determination and Education Assistance 
 
 #### (b) Commitment
 
-Congress declares its commitment to the maintenance of the Federal Government's unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
+Congress declares its commitment to the maintenance of the Federal Government'sunique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
 
 #### (c) National goal
 
@@ -36,6 +36,8 @@ Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congr
 
 (Pub. L. 100–297, title V, §5202, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -45,6 +47,8 @@ House Concurrent Resolution 108 of the 83rd Congress, referred to in subsec. (f)
 #### Prior Provisions
 
 A prior section 2501, Pub. L. 100–297, title V, §5202, Apr. 28, 1988, 102 Stat. 385, set forth findings, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -118,7 +122,7 @@ Eligibility.—Grants awarded under the demonstration program shall be used only
 
 "(c)
 
-Effect of Grant.—(1) Except as provided in paragraph (2) of this subsection, A \[sic\] grant received under this section shall be in addition to any other funds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) or the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\].
+Effect of Grant.—(1) Except as provided in paragraph (2) of this subsection, A \[sic\] grant received under this section shall be in addition to any otherfunds received by an Indian tribe under any other provision of law. The receipt of a grant under this section shall not affect the eligibility of an Indian tribe receiving funding, or the amount of funding received by the Indian tribe, under the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) or the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) \[now 25 U.S.C. 5301 et seq.\].
 
 "(2) A tribe receiving a grant for construction of a tribally controlled school under this section shall not be eligible to receive funding from the Bureau of Indian Affairs for that school for education operations or facility operation and maintenance if the school that was not at the time of the grant: (i) a school receiving funding for education operations or facility operation and maintenance under the Tribally Controlled Schools Act \[25 U.S.C. 2501 et seq.\] or the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] or (ii) a school operated by the Bureau of Indian Affairs.
 

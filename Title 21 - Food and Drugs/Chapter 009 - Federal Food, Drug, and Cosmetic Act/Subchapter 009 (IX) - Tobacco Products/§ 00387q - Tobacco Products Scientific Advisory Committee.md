@@ -10,7 +10,7 @@ Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-
 
 #### (A) Members
 
-&emsp;&emsp;The Secretary shall appoint as members of the Tobacco Products Scientific Advisory Committee individuals who are technicallyqualified by training and experience in medicine, medical ethics, science, or technology involving the manufacture, evaluation, or use of tobacco products, who are of appropriately diversified professional backgrounds. The committee shall be composed of—
+&emsp;&emsp;The Secretary shall appoint as members of the Tobacco Products Scientific Advisory Committee individuals who are technically qualified by training and experience in medicine, medical ethics, science, or technology involving the manufacture, evaluation, or use of tobacco products, who are of appropriately diversified professional backgrounds. The committee shall be composed of—
 
 &emsp;&emsp;&emsp;(i) 7 individuals who are physicians, dentists, scientists, or health care professionals practicing in the area of oncology, pulmonology, cardiology, toxicology, pharmacology, addiction, or any other relevant specialty;
 
@@ -30,7 +30,7 @@ Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-
 
 #### (C) Conflicts of interest
 
-&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becoming such a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
+&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becomingsuch a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
 
 #### (2) Limitation
 
@@ -72,9 +72,13 @@ The Advisory Committee shall make and maintain a transcript of any proceeding of
 
 (June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

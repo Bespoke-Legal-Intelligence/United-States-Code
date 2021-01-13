@@ -12,6 +12,8 @@ Whoever—
 
 (Added Pub. L. 101–647, title XXV, §2501(a), Nov. 29, 1990, 104 Stat. 4859; amended Pub. L. 107–273, div. B, title IV, §4002(b)(13), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 111–203, title II, §211(a), (b), title III, §377(7), July 21, 2010, 124 Stat. 1514, 1569.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 11, 12, and 13 of the Federal Deposit Insurance Act, referred to in par. (1), are classified to sections 1821, 1822, and 1823, respectively, of Title 12, Banks and Banking.
@@ -27,6 +29,8 @@ Par. (1). Pub. L. 111–203, §377(7), struck out "the Resolution Trust Corporat
 Pub. L. 111–203, §211(a), inserted "the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act," before "or the National Credit".
 
 <b>2002</b>—Par. (1). Pub. L. 107–273 substituted "13" for "13,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -186,7 +186,7 @@ Study.—The Secretary of Transportation shall, in consultation with the Secreta
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroadcarrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to arailroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
 "(c)
 

@@ -8,9 +8,13 @@ The Archivist of the United States shall include in the references in margins of
 
 Based on 44 U.S. Code, 1964 ed., §197 (Apr. 12, 1904, No. 20, 33 Stat. 589; 1950 Reorg. Plan No. 20, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

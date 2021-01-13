@@ -4,7 +4,7 @@
 
 Purpose.—The Congress declares that—
 
-&emsp;(1) the outreach services program authorized by this chapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, or air service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
+&emsp;(1) the outreach services program authorized by this chapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, air, or space service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
 
 &emsp;(2) the outreach services program authorized by this chapter is for the purpose of charging the Department with the affirmative duty of seeking out eligible veterans and eligible dependents and providing them with such services.
 
@@ -16,15 +16,19 @@ Definitions.—For the purposes of this chapter—
 
 &emsp;(2) the term "other governmental programs" includes all programs under State or local laws as well as all programs under Federal law other than those authorized by this title; and
 
-&emsp;(3) the term "eligible dependent" means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, or air service.
+&emsp;(3) the term "eligible dependent" means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, air, or space service.
 
-(Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 407; amended Pub. L. 110–181, div. A, title XVII, §1710, Jan. 28, 2008, 122 Stat. 494.)
+(Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 407; amended Pub. L. 110–181, div. A, title XVII, §1710, Jan. 28, 2008, 122 Stat. 494; Pub. L. 116–283, div. A, title IX, §926(a)(58), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 7721 of this title prior to repeal by Pub. L. 109–233.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a)(1), (b)(3). Pub. L. 116–283 "air, or space service" for "or air service".
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–181, §1710(a), inserted ", or from a reserve component," after "active military, naval, or air service".
 

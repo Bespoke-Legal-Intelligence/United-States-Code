@@ -102,7 +102,7 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(iv) the authority to require or perform periodic evaluations of all dams and reservoirs to determine the extent of the threat to human life and property in case of failure;
 
-&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determine the continued safety of the dams and reservoirs; and
+&emsp;&emsp;&emsp;(v)(I) the authority to require or perform the inspection, at least once every 5 years, of all dams and reservoirs that would pose a significant threat to human life and property in case of failure to determinethe continued safety of the dams and reservoirs; and
 
 &emsp;&emsp;&emsp;(II) a procedure for more detailed and frequent safety inspections;
 
@@ -230,6 +230,8 @@ The objectives of the Program are to—
 
 (Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, §3001(a)(1), (c), June 10, 2014, 128 Stat. 1282.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 467j of this title, referred to in subsec. (e)(1), was in the original "section 13" and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, §3001(d)(1).
@@ -327,6 +329,8 @@ Subsec. (f)(9). Pub. L. 107–310, §3(g)(3)(A), redesignated par. (6) as (9).
 Subsec. (g). Pub. L. 107–310, §3(e)(1), struck out heading and text of subsec. (g). Text read as follows: "At the request of any State that has or intends to develop a State dam safety program, the Director shall provide training for State dam safety staff and inspectors."
 
 Subsec. (h). Pub. L. 107–310, §3(e)(1), redesignated subsec. (h) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

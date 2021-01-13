@@ -4,19 +4,23 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 (Pub. L. 93–344, title III, §309, July 12, 1974, 88 Stat. 314; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1052.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1330 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–177 substituted "House approval of regular appropriation bills" for "Completion of actionon bills providing new budget authority and certain new spending authority" in section catchline, and amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided pursuant to this subchapter, not later than the seventh day after Labor Day of each year, the Congress shall complete action on all bills and resolutions—
+<b>1985</b>—Pub. L. 99–177 substituted "House approval of regular appropriation bills" for "Completion of action on bills providing new budget authority and certain new spending authority" in section catchline, and amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided pursuant to this subchapter, not later than the seventh day after Labor Day of each year, the Congress shall complete action on all bills and resolutions—
 
 &emsp;"(1) providing new budget authority for the fiscal year beginning on October 1 of such year, other than supplemental, deficiency, and continuing appropriation bills and resolutions, and other than the reconciliation bill for such year, if required to be reported under section 641(c) of this title; and
 
 &emsp;"(2) providing new spending authority described in section 651(c)(2)(C) of this title which is to become effective during such fiscal year.
 
 > Paragraph (1) shall not apply to any bill or resolution if legislation authorizing the enactment of new budget authority to be provided in such bill or resolution has not been timely enacted."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

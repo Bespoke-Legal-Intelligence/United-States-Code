@@ -28,6 +28,8 @@
 
 (Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1165; amended Pub. L. 101–194, title V, §506(b)(3), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 107–296, title XIII, §1321(a)(2)(A), Nov. 25, 2002, 116 Stat. 2297.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §1321(a)(2)(A)(iv), struck out last sentence which read as follows: "In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
@@ -41,6 +43,8 @@ Subsec. (a)(3). Pub. L. 107–296, §1321(a)(2)(A)(iii), struck out par. (3) whi
 <b>1989</b>—Subsec. (a). Pub. L. 101–194, §506(b)(3)(D), inserted at end "In the case of a removal under paragraph (3) of this subsection, the career appointee shall have the right to appeal the removal from the Senior Executive Service to the Merit Systems Protection Board under section 7701."
 
 Subsec. (a)(3). Pub. L. 101–194, §506(b)(3)(A)–(C), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

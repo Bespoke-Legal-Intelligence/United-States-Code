@@ -134,7 +134,7 @@ Motor vehicle.—The term "motor vehicle" means a vehicle, machine, tractor, tra
 
 &emsp;(17)
 
-Noncontiguous domestic trade.—The term "noncontiguous domestic trade" meanstransportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
+Noncontiguous domestic trade.—The term "noncontiguous domestic trade" means transportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
 
 &emsp;(18)
 

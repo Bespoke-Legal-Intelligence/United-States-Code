@@ -22,7 +22,7 @@ As conditions of approval of any reduction plan submitted pursuant to subsection
 
 The reduction plan must—
 
-&emsp;(1) identify the number and service needs of existing facility residents to be provided homeor community services and the timetable for providing such services, in 6 month intervals, within the 36-month period;
+&emsp;(1) identify the number and service needs of existing facility residents to be provided home or community services and the timetable for providing such services, in 6 month intervals, within the 36-month period;
 
 &emsp;(2) describe the methods to be used to select such residents for home and community services and to develop the alternative home and community services to meet their needs effectively;
 
@@ -68,7 +68,7 @@ The reduction plan must—
 
 The provisions of this section shall apply only to plans of correction and reduction plans approved by the Secretary by January 1, 1990.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Pub. L. 99–272, title IX, §9516(a), Apr. 7, 1986, 100 Stat. 213; renumbered §1922 and amended Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), Dec. 22, 1987, 101 Stat. 1330–182; amended Pub. L. 100–360, title IV, §411(l)(6)(E), July 1, 1988, 102 Stat. 804; Pub. L. 100–647, title VIII, §8433(a), Nov. 10, 1988, 102 Stat. 3804.)
+(Aug. 14, 1935, ch. 531, title XIX, §1922, formerly §1919, as added Pub. L. 99–272, title IX, §9516(a),Apr. 7, 1986, 100 Stat. 213; renumbered §1922 and amended Pub. L. 100–203, title IV, §§4211(a)(2), 4212(e)(5), Dec. 22, 1987, 101 Stat. 1330–182; amended Pub. L. 100–360, title IV, §411(l)(6)(E), July 1, 1988, 102 Stat. 804; Pub. L. 100–647, title VIII, §8433(a), Nov. 10, 1988, 102 Stat. 3804.)
 
 #### Prior Provisions
 

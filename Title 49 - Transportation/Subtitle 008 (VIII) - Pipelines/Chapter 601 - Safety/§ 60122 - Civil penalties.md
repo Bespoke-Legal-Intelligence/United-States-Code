@@ -16,9 +16,11 @@ Penalty Considerations.—In determining the amount of a civil penalty under thi
 
 &emsp;&emsp;(A) the nature, circumstances, and gravity of the violation, including adverse impact on the environment;
 
-&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, and any effect on ability to continue doing business; and
+&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, and any effect on ability to continue doing business;
 
 &emsp;&emsp;(C) good faith in attempting to comply; and
+
+&emsp;&emsp;(D) self-disclosure and correction of violations, or actions to correct a violation, prior to discovery by the Pipeline and Hazardous Materials Safety Administration; and
 
 &emsp;(2) the Secretary may consider—
 
@@ -44,7 +46,7 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010; Pub. L. 109–468, §2(a)(2), Dec. 29, 2006, 120 Stat. 3487; Pub. L. 112–90, §2(a), Jan. 3, 2012, 125 Stat. 1905.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010; Pub. L. 109–468, §2(a)(2), Dec. 29, 2006, 120 Stat. 3487; Pub. L. 112–90, §2(a), Jan. 3, 2012, 125 Stat. 1905; Pub. L. 116–260, div. R, title I, §107, Dec. 27, 2020, 134 Stat. 2221.)
 
 Historical and Revision Notes
 
@@ -128,6 +130,8 @@ In subsection (f), the words "Separate penalties . . . prescribed under this c
 
 #### Amendments
 
+<b>2020</b>—Subsec. (b)(1)(D). Pub. L. 116–260 added subpar. (D).
+
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §2(a)(1), substituted "$200,000" for "$100,000" and "$2,000,000" for "$1,000,000".
 
 Subsec. (b)(1)(B). Pub. L. 112–90, §2(a)(2), struck out "the ability to pay," after "violations,".
@@ -152,5 +156,5 @@ Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted "under this section—" a
 
 #### Comptroller General Study
 
-Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmissionpipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
+Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
 

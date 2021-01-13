@@ -1,5 +1,7 @@
 ### §1300<i>l</i>–5. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 103–434, title II, §207, Oct. 31, 1994, 108 Stat. 4535, which related to adoption of a tribal constitution and bylaws and election of tribal officials, was omitted from the Code as being of special and not general application.

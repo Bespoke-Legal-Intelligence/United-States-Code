@@ -8,7 +8,7 @@
 
 #### (2) Expanded boundaries
 
-&emsp;Effective on October 30, 1998, the boundary of the park shall include the area consisting of approximately 3,140 acres and known as the "Lost Spring Canyon Addition", as depicted on the map entitled "Boundary Map, Arches National Park, Lost Spring Canyon Addition", numbered 138/60,000–B, and dated April 1997.
+&emsp;Effective on October 30, 1998, the boundary of the park shall include the area consisting of approximately 3,140 acres and known as the "Lost Spring Canyon Addition", as depicted on the map entitled "Boundary Map, ArchesNational Park, Lost Spring Canyon Addition", numbered 138/60,000–B, and dated April 1997.
 
 #### (3) Maps
 

@@ -40,7 +40,7 @@ Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing A
 
 (g)
 
-Use of Receipts.—(1) The Secretary of the Interior may use, without further appropriation, not more than $1,500,000 of the moneys covered into the Treasury under subsection (f)(1) to cover the cost of any additional analysis, site characterization, and geotechnical studies deemed necessary by the Secretary to support environmental restoration, waste management, or environmental compliance with respect to Oil Shale Reserve Numbered 3. Upon the completion of such studies, the Secretary of the Interior shall submit to Congress a report containing—
+Use of Receipts.—(1) The Secretary of the Interior may use, without further appropriation, not more than $1,500,000 of the moneys covered into the Treasury under subsection (f)(1) to cover the cost of any additional analysis, site characterization, and geotechnical studies deemed necessary by the Secretary to support environmental restoration, waste management,or environmental compliance with respect to Oil Shale Reserve Numbered 3. Upon the completion of such studies, the Secretary of the Interior shall submit to Congress a report containing—
 
 &emsp;(A) the results and conclusions of such studies; and
 

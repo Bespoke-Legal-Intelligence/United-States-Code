@@ -18,7 +18,7 @@ The Secretary shall establish an advisory council to be known as the National Ad
 
 &emsp;&emsp;&emsp;(iii) 2 shall be selected from practicing professional nurses; and
 
-&emsp;&emsp;&emsp;(iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, and nurse anesthetists), hospitals, and other institutions and organizations which provide nursing services; and
+&emsp;&emsp;&emsp;(iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, nurse anesthetists, and clinical nurse specialists), hospitals, and other institutions and organizations which provide nursing services; and
 
 &emsp;&emsp;(B) the Secretary (or the delegate of the Secretary (who shall be an ex officio member and shall serve as the Chairperson)).
 
@@ -48,7 +48,7 @@ The Advisory Council shall—
 
 &emsp;(2) provide advice to the Secretary and Congress in the preparation of general regulations and with respect to policy matters arising in the administration of this subchapter, including the range of issues relating to nurse supply, education and practice improvement; and
 
-&emsp;(3) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
+&emsp;(3) not later than 2 years after March 27, 2020, and annually thereafter, prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
 
 #### (e) Meetings and documents
 
@@ -58,7 +58,7 @@ The Advisory Council shall—
 
 #### (2) Documents
 
-&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the Advisory Council shall prepare and make available an agenda of the matters to be considered by the Advisory Council at such meeting. At any such meeting, the Advisory Council shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting,the Advisory Council shall prepare and make available a summary of the meeting and any actions taken by the Council based upon the meeting.
+&emsp;Not later than 14 days prior to the convening of a meeting under paragraph (1), the Advisory Council shall prepare and make available an agenda of the matters to be considered by the Advisory Council at such meeting. At any such meeting, the Advisory Council shall distribute materials with respect to the issues to be addressed at the meeting. Not later than 30 days after the adjourning of such a meeting, the Advisory Council shall prepare and make available a summary of the meeting and any actions taken by the Council based upon the meeting.
 
 #### (f) Compensation and expenses
 
@@ -72,13 +72,13 @@ The Advisory Council shall—
 
 #### (g) Funding
 
-Amounts appropriated under this subchapter may be utilized by the Secretary to support the nurse education and practice activities of the Council.
+Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 
 #### (h) FACA
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631; amended Pub. L. 116–136, div. A, title III, §3404(a)(11), Mar. 27, 2020, 134 Stat. 394; Pub. L. 116–260, div. BB, title III, §331(b), Dec. 27, 2020, 134 Stat. 2938.)
 
 #### References in Text
 
@@ -90,17 +90,25 @@ November 13, 1998, referred to in subsec. (b)(2), was in the original "the date 
 
 #### Prior Provisions
 
-A prior section 851 of act July 1, 1944, was renumbered section 861 and is classified to section 297w of this title.
+A prior section 851 of act July 1, 1944, was renumbered section 861 and classified to section 297w of this title, prior to repeal by Pub. L. 116–136.
 
 Another prior section 851 of act July 1, 1944, was classified to section 298 of this title, prior to repeal by Pub. L. 105–392.
 
-#### Change of Name
+#### Amendments
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+<b>2020</b>—Subsec. (b)(1)(A)(iv). Pub. L. 116–136, §3404(a)(11)(A), substituted "nurse anesthetists, and clinical nurse specialists" for "and nurse anesthetists".
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Subsec. (d)(3). Pub. L. 116–260 substituted "Coronavirus Aid, Relief, and Economic Security Act" for "Title VIII Nursing Reauthorization Act" in the original, and accordingly, "the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act" was translated to "March 27, 2020". The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020.
+
+Pub. L. 116–136, §3404(a)(11)(B), substituted "2 years after the date of enactment of the Title VIII Nursing Reauthorization Act" for "3 years after November 13, 1998" and "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and inserted "Energy and" before "Commerce".
+
+Subsec. (g). Pub. L. 116–136, §3404(a)(11)(C), substituted "for carrying out parts B, C, and D" for "under this subchapter".
 
 #### Termination of Advisory Committees
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under section 294c of this title.
 

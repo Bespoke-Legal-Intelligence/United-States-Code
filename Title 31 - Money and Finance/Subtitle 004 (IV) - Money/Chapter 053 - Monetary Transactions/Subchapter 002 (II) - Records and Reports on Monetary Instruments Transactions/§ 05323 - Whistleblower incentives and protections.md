@@ -1,0 +1,324 @@
+### §5323. Whistleblower incentives and protections
+
+(a)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Covered judicial or administrative action.—The term "covered judicial or administrative action" means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the"Secretary") or the Attorney General under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000.
+
+&emsp;(2)
+
+Monetary sanctions.—The term "monetary sanctions", when used with respect to any judicial or administrative action—
+
+&emsp;&emsp;(A) means any monies, including penalties, disgorgement, and interest, ordered to be paid; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) forfeiture;
+
+&emsp;&emsp;&emsp;(ii) restitution; or
+
+&emsp;&emsp;&emsp;(iii) any victim compensation payment.
+
+&emsp;(3)
+
+Original information.—The term "original information" means information that—
+
+&emsp;&emsp;(A) is derived from the independent knowledge or analysis of a whistleblower;
+
+&emsp;&emsp;(B) is not known to the Secretary or the Attorney General from any other source, unless the whistleblower is the original source of the information; and
+
+&emsp;&emsp;(C) is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
+
+&emsp;(4)
+
+Related action.—The term "related action", when used with respect to any judicial or administrative action brought by the Secretary or the Attorney General under this subchapter or subchapter III, means any judicial or administrative action brought by an entity described in any of subclauses (I) through (III) of subsection (g)(4)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (b) that led to the successful enforcement of the action by the Secretary or the Attorney General.
+
+&emsp;(5)
+
+Whistleblower.—
+
+&emsp;&emsp;(A)
+
+In general.—The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter or subchapter III to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
+
+&emsp;&emsp;(B)
+
+Special rule.—Solely for the purposes of subsection (g)(1), the term "whistleblower" includes any individual who takes, or 2 or more individuals acting jointly who take, an action described in subsection (g)(1)(A).
+
+(b)
+
+Awards.—
+
+&emsp;(1)
+
+In general.—In any covered judicial or administrative action, or related action, the Secretary, under regulations prescribed by the Secretary, in consultation with the Attorney General and subject to subsection (c) and to amounts made available in advance by appropriation Acts, shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the employer of the individual, the Secretary, or the Attorney General, as applicable, that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to not more than 30 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions.
+
+&emsp;(2)
+
+Source of awards.—For the purposes of paying any award under this section, the Secretary may, subject to amounts made available in advance by appropriation Acts, use monetary sanction amounts recovered based on the original information with respect to which the award is being paid.
+
+(c)
+
+Determination of Amount of Award; Denial of Award.—
+
+&emsp;(1)
+
+Determination of amount of award.—
+
+&emsp;&emsp;(A)
+
+Discretion.—The determination of the amount of an award made under subsection (b) shall be in the discretion of the Secretary.
+
+&emsp;&emsp;(B)
+
+Criteria.—In determining the amount of an award made under subsection (b), the Secretary shall take into consideration—
+
+&emsp;&emsp;&emsp;(i) the significance of the information provided by the whistleblower to the success of the covered judicial or administrative action;
+
+&emsp;&emsp;&emsp;(ii) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
+
+&emsp;&emsp;&emsp;(iii) the programmatic interest of the Department of the Treasury in deterring violations of this subchapter and subchapter III by making awards to whistleblowers who provide information that lead to the successful enforcement of either such subchapter; and
+
+&emsp;&emsp;&emsp;(iv) such additional relevant factors as the Secretary, in consultation with the Attorney General, may establish by rule or regulation.
+
+&emsp;(2)
+
+Denial of award.—No award under subsection (b) may be made—
+
+&emsp;&emsp;(A) to any whistleblower who is, or was at the time the whistleblower acquired the original information submitted to the Secretary or the Attorney General, as applicable, a member, officer, or employee—
+
+&emsp;&emsp;&emsp;(i) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) an appropriate regulatory or banking agency;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Department of the Treasury or the Department of Justice; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a law enforcement agency; and
+
+&emsp;&emsp;&emsp;(ii) acting in the normal course of the job duties of the whistleblower;
+
+&emsp;&emsp;(B) to any whistleblower who is convicted of a criminal violation related to the judicial or administrative action for which the whistleblower otherwise could receive an award under this section; or
+
+&emsp;&emsp;(C) to any whistleblower who fails to submit information to the Secretary or the Attorney General, as applicable, in such form as the Secretary, in consultation with the Attorney General, may, by rule, require.
+
+(d)
+
+Representation.—
+
+&emsp;(1)
+
+Permitted representation.—Any whistleblower who makes a claim for an award under subsection (b) may be represented by counsel.
+
+&emsp;(2)
+
+Required representation.—
+
+&emsp;&emsp;(A)
+
+In general.—Any whistleblower who anonymously makes a claim for an award under subsection (b) shall be represented by counsel if the whistleblower anonymously submits the information upon which the claim is based.
+
+&emsp;&emsp;(B)
+
+Disclosure of identity.—Before the payment of an award, a whistleblower shall disclose the identity of the whistleblower and provide such other information as the Secretary may require, directly or through counsel for the whistleblower.
+
+(e)
+
+No Contract Necessary.—No contract with the Department of the Treasury is necessary for any whistleblower to receive an award under subsection (b), unless otherwise required by the Secretary by rule or regulation.
+
+(f)
+
+Appeals.—
+
+&emsp;(1)
+
+In general.—Any determination made under this section, including whether, to whom, or in what amount to make awards, shall be in the discretion of the Secretary.
+
+&emsp;(2)
+
+Requirements.—
+
+&emsp;&emsp;(A)
+
+In general.—Any determination described in paragraph (1), except the determination of the amount of an award if the award was made in accordance with subsection (b), may be appealed to the appropriate court of appeals of the United States not more than 30 days after the determination is issued by the Secretary.
+
+&emsp;&emsp;(B)
+
+Scope of review.—The court to which a determination by the Secretary is appealed under subparagraph (A) shall review the determination in accordance with section 706 of title 5.
+
+(g)
+
+Protection of Whistleblowers.—
+
+&emsp;(1)
+
+Prohibition against retaliation.—No employer may, directly or indirectly, discharge, demote, suspend, threaten, blacklist, harass, or in any other manner discriminate against a whistleblower in the terms and conditions of employment or post-employment because of any lawful act done by the whistleblower—
+
+&emsp;&emsp;(A) in providing information in accordance with this section to—
+
+&emsp;&emsp;&emsp;(i) the Secretary or the Attorney General;
+
+&emsp;&emsp;&emsp;(ii) a Federal regulatory or law enforcement agency;
+
+&emsp;&emsp;&emsp;(iii) any Member of Congress or any committee of Congress; or
+
+&emsp;&emsp;&emsp;(iv) a person with supervisory authority over the whistleblower, or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct; or
+
+&emsp;&emsp;(B) in initiating, testifying in, or assisting in any investigation or judicial or administrative action of the Department of the Treasury or the Department of Justice based upon or related to the information described in subparagraph (A); or
+
+&emsp;&emsp;(C) in providing information regarding any conduct that the whistleblower reasonably believes constitutes a violation of any law, rule, or regulation subject to the jurisdiction of the Department of the Treasury, or a violation of section 1956, 1957, or 1960 of title 18 (or any rule or regulation under any such provision), to—
+
+&emsp;&emsp;&emsp;(i) a person with supervisory authority over the whistleblower at the employer of the whistleblower; or
+
+&emsp;&emsp;&emsp;(ii) another individual working for the employer described in clause (i) who the whistleblower reasonably believes has the authority to—
+
+&emsp;&emsp;&emsp;&emsp;(I) investigate, discover, or terminate the misconduct; or
+
+&emsp;&emsp;&emsp;&emsp;(II) take any other action to address the misconduct.
+
+&emsp;(2)
+
+Enforcement.—Any individual who alleges discharge or other discrimination, or is otherwise aggrieved by an employer, in violation of paragraph (1), may seek relief by—
+
+&emsp;&emsp;(A) filing a complaint with the Secretary of Labor in accordance with the requirements of this subsection; or
+
+&emsp;&emsp;(B) if the Secretary of Labor has not issued a final decision within 180 days of the filing of a complaint under subparagraph (A), and there is no showing that such a delay is due to the bad faith of the claimant, bringing an action against the employer at law or in equity in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
+&emsp;(3)
+
+Procedure.—
+
+&emsp;&emsp;(A)
+
+Department of labor complaint.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided in clause (ii) and subparagraph (C), the requirements under section 42121(b) of title 49, including the legal burdens of proof described in such section 42121(b), shall apply with respect to a complaint filed under paragraph (2)(A) by an individual against an employer.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exception.—With respect to a complaint filed under paragraph (2)(A), notification required to be made under section 42121(b)(1) of title 49 shall be made to each person named in the complaint, including the employer.
+
+&emsp;&emsp;(B)
+
+District court complaint.—
+
+&emsp;&emsp;&emsp;(i)
+
+Jury trial.—A party to an action brought under paragraph (2)(B) shall be entitled to trial by jury.
+
+&emsp;&emsp;&emsp;(ii)
+
+Statute of limitations.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—An action may not be brought under paragraph (2)(B)—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) more than 6 years after the date on which the violation of paragraph (1) occurs; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) more than 3 years after the date on which when facts material to the right of action are known, or reasonably should have been known, by the employee alleging a violation of paragraph (1).
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Required action within 10 years.—Notwithstanding subclause (I), an action under paragraph (2)(B) may not in any circumstance be brought more than 10 years after the date on which the violation occurs.
+
+&emsp;&emsp;(C)
+
+Relief.—Relief for an individual prevailing with respect to a complaint filed under subparagraph (A) of paragraph (2) or an action brought under subparagraph (B) of that paragraph shall include—
+
+&emsp;&emsp;&emsp;(i) reinstatement with the same seniority status that the individual would have had, but for the conduct that is the subject of the complaint or action, as applicable;
+
+&emsp;&emsp;&emsp;(ii) 2 times the amount of back pay otherwise owed to the individual, with interest;
+
+&emsp;&emsp;&emsp;(iii) the payment of compensatory damages, which shall include compensation for litigation costs, expert witness fees, and reasonable attorneys' fees; and
+
+&emsp;&emsp;&emsp;(iv) any other appropriate remedy with respect to the conduct that is the subject of the complaint or action, as applicable.
+
+&emsp;(4)
+
+Confidentiality.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraphs (C) and (D), the Secretary or the Attorney General, as applicable, and any officer or employee of the Department of the Treasury or the Department of Justice, shall not disclose any information, including information provided by a whistleblower to either such official, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5, unless and until required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the appropriate such official or any entity described in subparagraph (D).
+
+&emsp;&emsp;(B)
+
+Exempted statute.—For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+
+&emsp;&emsp;(C)
+
+Rule of construction.—Nothing in this section is intended to limit, or shall be construed to limit, the ability of the Attorney General to present such evidence to a grand jury or to share such evidence with potential witnesses or defendants in the course of an ongoing criminal investigation.
+
+&emsp;&emsp;(D)
+
+Availability to government agencies.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Without the loss of its status as confidential in the hands of the Secretary or the Attorney General, as applicable, all information referred to in subparagraph (A) may, in the discretion of the appropriate such official, when determined by that official to be necessary to accomplish the purposes of this subchapter, be made available to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any appropriate Federal authority;
+
+&emsp;&emsp;&emsp;&emsp;(II) a State attorney general in connection with any criminal investigation;
+
+&emsp;&emsp;&emsp;&emsp;(III) any appropriate State regulatory authority; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) a foreign law enforcement authority.
+
+&emsp;&emsp;&emsp;(ii)
+
+Confidentiality.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—Each of the entities described in subclauses (I) through (III) of clause (i) shall maintain such information as confidential in accordance with the requirements established under subparagraph (A).
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Foreign authorities.—Each entity described in clause (i)(IV) shall maintain such information in accordance with such assurances of confidentiality as determined by the Secretary or Attorney General, as applicable.
+
+&emsp;(5)
+
+Rights retained.—Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any whistleblower under any Federal or State law or under any collective bargaining agreement.
+
+&emsp;(6)
+
+Coordination with other provisions of law.—This subsection shall not apply with respect to any employer that is subject to section 33 of the Federal Deposit Insurance Act (12 U.S.C. 1831j) or section 213 or 214 of the Federal Credit Union Act (12 U.S.C. 1790b, 1790c).
+
+(h)
+
+Provision of False Information.—A whistleblower shall not be entitled to an award under this section if the whistleblower—
+
+&emsp;(1) knowingly and willfully makes any false, fictitious, or fraudulent statement or representation; or
+
+&emsp;(2) uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
+
+(i)
+
+Rulemaking Authority.—The Secretary, in consultation with the Attorney General, shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
+
+(j)
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+&emsp;(1)
+
+Waiver of rights and remedies.—The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+
+&emsp;(2)
+
+Predispute arbitration agreements.—No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.
+
+(Added Pub. L. 98–473, title II, §901(e), Oct. 12, 1984, 98 Stat. 2135; amended Pub. L. 116–283, div. F, title LXIII, §6314(a), Jan. 1, 2021, 134 Stat. 4597.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to rewards for informants.
+

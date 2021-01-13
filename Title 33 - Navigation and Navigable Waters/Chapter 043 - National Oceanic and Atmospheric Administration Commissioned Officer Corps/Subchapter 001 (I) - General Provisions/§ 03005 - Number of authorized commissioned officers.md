@@ -1,26 +1,28 @@
 ### §3005. Number of authorized commissioned officers
 
-Effective October 1, 2009, the total number of authorized commissioned officers on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration shall be increased from 321 to 379 if—
+#### (a) In general
 
-&emsp;(1) the Secretary has submitted to the Congress—
+The total number of authorized commissioned officers on the lineal list of the commissioned officer corps of the Administration shall not exceed 500.
 
-&emsp;&emsp;(A) the Administration's ship recapitalization plan for fiscal years 2010 through 2024;
+#### (b) Positions of importance and responsibility
 
-&emsp;&emsp;(B) the Administration's aircraft remodernization plan; and
+Officers serving in positions designated under section 3028 of this title and officers recalled from retired status or detailed to an agency other than the Administration—
 
-&emsp;&emsp;(C) supporting workforce management plans;
+&emsp;(1) may not be counted in determining the total number of authorized officers on the lineal list under this section; and
 
-&emsp;(2) appropriated funding is available; and
+&emsp;(2) may not count against such number.
 
-&emsp;(3) the Secretary has justified organizational needs for the commissioned corps for each such fiscal year.
+(Pub. L. 107–372, title II, §215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, §6, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 116–259, title I, §102(a), Dec. 23, 2020, 134 Stat. 1155.)
 
-(Pub. L. 107–372, title II, §215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, §6, Oct. 10, 2008, 122 Stat. 4108.)
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853a of this title prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–259 amended section generally. Prior to amendment, section related to number of authorized commissioned officers effective Oct. 1, 2009.
 
 <b>2008</b>—Pub. L. 110–386 amended section generally. Prior to amendment, section read as follows: "There are authorized to be on the lineal list of the commissioned corps of the National Oceanic and Atmospheric Administration—
 

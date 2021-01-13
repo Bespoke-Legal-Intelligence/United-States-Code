@@ -8,7 +8,7 @@ The State of Washington, the State of Oregon, and the appropriate tribal coordin
 
 After the 18-month period after approval of the report of the Salmon and Steelhead Advisory Commission under subchapter II, the Secretary of Commerce shall establish a system to monitor and evaluate on a continuing basis whether the management program set forth in the report is being effectively implemented. If at any time after the monitoring system is established, the Secretary finds that—
 
-&emsp;(1) the number of parties referred to in section 3314 of this title has been reduced to the extent that such program cannot be implemented effectively; or
+&emsp;(1) the number of parties referred to in section 3314 of this title has been reduced to theextent that such program cannot be implemented effectively; or
 
 &emsp;(2) the general implementation of the program is ineffective;
 

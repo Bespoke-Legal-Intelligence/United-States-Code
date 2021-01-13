@@ -30,7 +30,7 @@ The purpose of this part is to provide grants, contracts, or cooperative agreeme
 
 &emsp;&emsp;&emsp;(viii) initiatives that address the needs of aging individuals with developmental disabilities and aging caregivers of adults with developmental disabilities in the community;
 
-&emsp;&emsp;&emsp;(ix) initiatives that create greater access to and use of generic services systems, community organizations, and associations, and initiatives that assist in community economic development;
+&emsp;&emsp;&emsp;(ix) initiatives that create greater access to and use of generic services systems,community organizations, and associations, and initiatives that assist in community economic development;
 
 &emsp;&emsp;&emsp;(x) initiatives that create access to increased living options;
 

@@ -4,6 +4,8 @@ The Architect of the Capitol shall on and after March 3, 1977, have the care and
 
 (Aug. 15, 1876, ch. 287, 19 Stat. 147; Mar. 3, 1877, ch. 102, 19 Stat. 298; Oct. 31, 1951, ch. 654, §3(14), 65 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 163 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -18,7 +20,9 @@ Provisions similar to those comprising the first sentence of this section were c
 
 <b>1951</b>—Act Oct. 31, 1951, struck out ", and shall submit through the Secretary of the Interior estimates thereof" at end of first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see PriorProvisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 

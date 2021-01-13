@@ -64,7 +64,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 <b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out "detailed" before "description of the premises", and struck out former par. (2) which read as follows: "the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;".
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out "detailed" before"description of the premises", and struck out former par. (2) which read as follows: "the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;".
 
 Subsec. (a)(3). Pub. L. 110–261, §107(a)(1)(B), (D), redesignated par. (4) as (3) and inserted "or is about to be" before "owned" in subpar. (C). Former par. (3) redesignated (2).
 

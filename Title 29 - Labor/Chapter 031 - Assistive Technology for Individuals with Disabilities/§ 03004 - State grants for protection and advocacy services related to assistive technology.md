@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (e) Carryover
 
-Any amount paid to an eligible system for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligationduring the subsequent fiscal year. Program income generated from such amount shall remain available for 2 additional fiscal years after the year in which such amount was paid to an eligible system and may only be used to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.
+Any amount paid to an eligible system for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligation during the subsequent fiscal year. Program income generated from such amount shall remain available for 2 additional fiscal years after the year in which such amount was paid to an eligible system and may only be used to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.
 
 #### (f) Report to Secretary
 
@@ -85,6 +85,8 @@ An entity that receives a grant under this section shall prepare and submit to t
 On making a grant under this section to an entity in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the entity that receives the grant under this section.
 
 (Pub. L. 105–394, §5, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1725.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

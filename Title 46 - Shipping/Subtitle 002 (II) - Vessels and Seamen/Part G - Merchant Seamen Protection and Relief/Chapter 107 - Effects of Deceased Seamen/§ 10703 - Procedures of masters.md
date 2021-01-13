@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 Section 10703 provides for the disposal by the master of the property and wages of deceased seamen who have died outside the United States.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–206, §418(1), substituted "in section 10706 of this title" for "by regulations prescribed by the Secretary".

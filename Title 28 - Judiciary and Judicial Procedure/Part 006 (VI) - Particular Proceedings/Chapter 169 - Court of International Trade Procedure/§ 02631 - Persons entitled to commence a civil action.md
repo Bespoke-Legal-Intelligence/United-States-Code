@@ -8,7 +8,7 @@
 
 (d)(1) A civil action to review any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act may be commenced in the Court of International Trade by a worker, group of workers, certified or recognized union, or authorized representative of such worker or group that applies for assistance under such Act and is aggrieved by such final determination.
 
-(2) A civil action to review any final determination of the Secretary of Commerce undersection 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act may be commenced in the Court of International Trade by a firm or its representative that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
+(2) A civil action to review any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act may be commenced in the Court of International Trade by a firm or its representative that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
 
 (3) A civil action to review any final determination of the Secretary of Commerce under section 271 of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act may be commenced in the Court of International Trade by a community that applies for assistance under such Act and is aggrieved by such final determination, or by any other interested domestic party that is aggrieved by such final determination.
 
@@ -22,7 +22,7 @@
 
 (3) A civil action to review any decision or order of the Customs Service to deny, suspend, or revoke accreditation of a private laboratory under section 499(b) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose accreditation was denied, suspended, or revoked.
 
-(h) A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade by the person who would have standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
+(h) A civil action described in section 1581(h) of this title may be commenced in the Court ofInternational Trade by the person who would have standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
 
 (i) Any civil action of which the Court of International Trade has jurisdiction, other than an action specified in subsections (a)–(h) of this section, may be commenced in the court by any person adversely affected or aggrieved by agency action within the meaning of section 702 of title 5.
 
@@ -53,6 +53,8 @@
 &emsp;&emsp;(E) an association composed of members who represent parties-at-interest described in subparagraph (B), (C), or (D).
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1730; amended Pub. L. 98–573, title II, §212(b)(3), title VI, §612(b)(3), Oct. 30, 1984, 98 Stat. 2983, 3034; Pub. L. 103–182, title VI, §684(a)(2), Dec. 8, 1993, 107 Stat. 2219.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -92,11 +94,13 @@ A prior section 2631, acts June 25, 1948, ch. 646, 62 Stat. 980; May 24, 1949, c
 
 Subsec. (k)(2)(E). Pub. L. 98–573, §612(b)(3), added subpar. (E).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by section 212(b)(3) of Pub. L. 98–573 effective on close of 180th day after Oct. 30, 1984, see section 214(d) of Pub. L. 98–573, set out as a note under section 1304 of Title 19, Customs Duties.
 
-Amendment by section 612(b)(3) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under subtitle A or B of title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq., 1673 et seq.), and to reviews begun under section 751 of that Act (19 U.S.C. 1675), on or after Oct. 30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of Title 19.
+Amendment by section 612(b)(3) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under subtitle A or B of title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq., 1673 et seq.), and to reviews begun under section 751 of that Act (19 U.S.C. 1675), on or after Oct.30, 1984, see section 626(b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of Title 19.
 
 #### Effective Date
 
@@ -106,7 +110,7 @@ Subsecs. (d) and (g) to (j) of this section applicable with respect to civil act
 
 #### Application of 1993 Amendment
 
-For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, formerly set out as a note under section 1581 of this title.
 
 #### Transfer of Functions
 

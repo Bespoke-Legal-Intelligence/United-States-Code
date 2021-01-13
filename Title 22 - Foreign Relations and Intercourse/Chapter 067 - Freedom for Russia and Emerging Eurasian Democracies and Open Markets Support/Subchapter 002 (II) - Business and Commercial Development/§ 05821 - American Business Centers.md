@@ -46,9 +46,13 @@ To the maximum extent possible, and consistent with the particular purposes of t
 
 (Pub. L. 102–511, title III, §301, Oct. 24, 1992, 106 Stat. 3332.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

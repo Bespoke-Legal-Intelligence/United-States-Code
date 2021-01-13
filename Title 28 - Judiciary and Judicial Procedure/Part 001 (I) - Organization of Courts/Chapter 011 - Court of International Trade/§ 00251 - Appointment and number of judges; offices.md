@@ -22,6 +22,8 @@ The provisions of such section 296 of title 28, U.S.C., 1940 ed., relating to as
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (b), (c). Pub. L. 104–317 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The President shall designate one of the judges of the Court of International Trade who is less than seventy years of age to serve as chief judge. The chief judge shall continue to serve as chief judge until he reaches the age of seventy years and another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court."
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragrap
 Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substituted "Court of International Trade" for "court" and "located in New York, New York" for "located at the port of New York".
 
 <b>1956</b>—Act July 14, 1956, declared the Customs Court to be a court established under article III of the Constitution of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -70,7 +74,7 @@ Pub. L. 96–417, title VII, §701, Oct. 10, 1980, 94 Stat. 1747, as amended by 
 
 #### References to Certain Courts Deemed References to the United States Court of International Trade
 
-Pub. L. 96–417, title VII, §702, Oct. 10, 1980, 94 Stat. 1748, provided that: "Any reference in any statute orregulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade."
+Pub. L. 96–417, title VII, §702, Oct. 10, 1980, 94 Stat. 1748, provided that: "Any reference in any statute or regulation of the United States to the United States Customs Court, the U.S. Customs Court, or the Customs Court shall be deemed to be a reference to the United States Court of International Trade."
 
 #### Effect on Customs Court Judges
 

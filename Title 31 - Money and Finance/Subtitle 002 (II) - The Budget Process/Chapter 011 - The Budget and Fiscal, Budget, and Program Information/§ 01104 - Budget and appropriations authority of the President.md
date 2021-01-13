@@ -80,13 +80,19 @@ In subsection (d), the word "gathering" in 31:18b is omitted as being included i
 
 In subsection (e), the word "provide" is substituted for "furnish" for consistency. The words "required by the President in carrying out this chapter" are substituted for "as the Office may from time to time require" because of section 101 of Reorganization Plan No. 2 of 1970 and to provide comparable limiting language on when information may be required. The words "the director and the assistant director, or any employee of the Office when duly authorized" are omitted because of 3:301. The word "inspect" is substituted for "examine" for consistency in the revised title. The word "records" is substituted for "books, documents, papers, or records" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–177 inserted provisions relating to notice to committees of House of Representatives and Senate.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10253. Provisions for Improvement of Work of Federal Executive Agencies With Respect to Statistical Information
 
@@ -110,7 +116,7 @@ Sec. 3. The following shall be included among the objectives sought in carrying 
 
 (f) To improve the presentation of statistical information and of explanations regarding the sources and reliability of such information, and regarding the limitations on the uses that can appropriately be made of it.
 
-Sec. 4. Regulations and orders issued pursuant to Section 1 hereof shall be signed by the Director. Whenso signed, such regulations and orders shall require no further approval and shall be adhered to by all agencies in the executive branch. Any such regulation or order may pertain to a single agency, a group of agencies, or all agencies in the executive branch.
+Sec. 4. Regulations and orders issued pursuant to Section 1 hereof shall be signed by the Director. When so signed, such regulations and orders shall require no further approval and shall be adhered to by all agencies in the executive branch. Any such regulation or order may pertain to a single agency, a group of agencies, or all agencies in the executive branch.
 
 Sec. 5. In the development of programs and the preparation of regulations and orders for issuance pursuant to Section 1 hereof, the Director shall consult Federal agencies whose activities will be substantially affected, and may consult non-Federal groups to the extent he finds it necessary to carry out the purposes of this order.
 

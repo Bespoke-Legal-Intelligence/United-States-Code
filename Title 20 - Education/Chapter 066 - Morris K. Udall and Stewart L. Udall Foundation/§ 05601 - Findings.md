@@ -72,5 +72,5 @@ Pub. L. 116–94, div. P, title III, §301, Dec. 20, 2019, 133 Stat. 3186, provi
 
 #### Repeal of Previous Legislation
 
-Pub. L. 102–259, §2, Mar. 19, 1992, 106 Stat. 78, provided that: "The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed." \[For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, pt. 3, p. 4078.\]
+Pub. L. 102–259, §2, Mar. 19, 1992, 106 Stat. 78, provided that: "The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed." \[For details concerning purported pocket veto of S. 1176, One Hundred Second Congress, see Weekly Compilation of Presidential Documents, vol. 28 (1992), no. 12, p. 507, Mar. 19, Presidential Statement, and Cong. Rec., vol. 138, pt. 3, p. 4078, Mar. 3, 1992.\]
 

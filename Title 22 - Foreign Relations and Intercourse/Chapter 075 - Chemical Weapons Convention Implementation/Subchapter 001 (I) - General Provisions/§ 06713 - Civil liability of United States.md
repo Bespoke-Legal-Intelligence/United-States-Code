@@ -46,7 +46,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (1) United States actions in United States district court
 
-&emsp;Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbiaagainst any foreign nation for money damages resulting from that nation's refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.
+&emsp;Notwithstanding any other law, the Attorney General of the United States is authorized to bring an action in the United States District Court for the District of Columbia against any foreign nation for money damages resulting from that nation's refusal to provide indemnification to the United States for any liability imposed on the United States by virtue of the actions of an inspector of the Technical Secretariat who is a national of that foreign nation acting at the direction or the behest of that foreign nation.
 
 #### (2) United States actions in courts outside the United States
 
@@ -54,7 +54,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution orany Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -106,7 +106,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (A) Imposition of sanctions
 
-&emsp;&emsp;Whenever the President determines that persuasive information is available indicating that a foreign country has knowingly assisted, encouraged or induced, in any way, aperson described in paragraph (2)(A) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information, the President shall, within 30 days after the receipt of such information by the executive branch of Government, notify the Congress in writing of such determination and, subject to the requirements of paragraphs (4) and (5), impose the sanctions provided under subparagraph (B) for a period of not less than five years.
+&emsp;&emsp;Whenever the President determines that persuasive information is available indicating that a foreign country has knowingly assisted, encouraged or induced, in any way, a person described in paragraph (2)(A) to publish, divulge, disclose, or make known in any manner or to any extent not authorized by the Convention any United States confidential business information, the President shall, within 30 days after the receipt of such information by the executive branch of Government, notify the Congress in writing of such determination and, subject to the requirements of paragraphs (4) and (5), impose the sanctions provided under subparagraph (B) for a period of not less than five years.
 
 #### (B) Sanctions
 
@@ -162,7 +162,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>2</sup> or damages to a United States person and for which actions or omissions the UnitedStates has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>2</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
@@ -196,6 +196,8 @@ In this section, the term "United States confidential business information" mean
 
 (Pub. L. 105–277, div. I, title I, §103, Oct. 21, 1998, 112 Stat. 2681–861.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
@@ -205,6 +207,8 @@ The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is 
 The Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), (3)(B)(iv), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 5 and 6 of the Act were classified to sections 4604 and 4605, respectively, of Title 50 prior to repeal.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

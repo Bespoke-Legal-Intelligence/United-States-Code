@@ -66,14 +66,23 @@
 
 |  |  |
 | :--- | ---: |
-| [5361\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005361%20-%20Establishment.md) | Establishment. |
-| [5362\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005362%20-%20Selection%20of%20participating%20Indian%20tribes.md) | Selection of participating Indian tribes. |
+| [5361\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005361%20-%20Definitions.md) | Definitions. |
+| [5362\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005362%20-%20Tribal%20Self-Governance%20Program.md) | Tribal Self-Governance Program. |
 | [5363\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005363%20-%20Funding%20agreements.md) | Funding agreements. |
-| [5364\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005364%20-%20Budget%20request.md) | Budget request. |
-| [5365\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005365%20-%20Reports.md) | Reports. |
-| [5366\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005366%20-%20Disclaimers.md) | Disclaimers. |
-| [5367\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005367%20-%20Regulations.md) | Regulations. |
-| [5368\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005368%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [5364\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005364%20-%20Compacts.md) | Compacts. |
+| [5365\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005365%20-%20General%20provisions.md) | General provisions. |
+| [5366\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005366%20-%20Provisions%20relating%20to%20the%20Secretary.md) | Provisions relating to the Secretary. |
+| [5367\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005367%20-%20Construction%20programs%20and%20projects.md) | Construction programs and projects. |
+| [5368\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005368%20-%20Payment.md) | Payment. |
+| [5369\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005369%20-%20Facilitation.md) | Facilitation. |
+| [5370\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005370%20-%20Discretionary%20application%20of%20other%20sections.md) | Discretionary application of other sections. |
+| [5371\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005371%20-%20Annual%20budget%20list.md) | Annual budget list. |
+| [5372\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005372%20-%20Reports.md) | Reports. |
+| [5373\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005373%20-%20Regulations.md) | Regulations. |
+| [5374\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005374%20-%20Effect%20of%20circulars%2C%20policies%2C%20manuals%2C%20guidance%2C%20and%20rules.md) | Effect of circulars, policies, manuals, guidance, and rules. |
+| [5375\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005375%20-%20Appeals.md) | Appeals. |
+| [5376\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005376%20-%20Application%20of%20other%20provisions.md) | Application of other provisions. |
+| [5377\.](Subchapter%20004%20%28IV%29%20-%20Tribal%20Self-Governance%E2%80%94Department%20of%20the%20Interior/%C2%A7%2005377%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

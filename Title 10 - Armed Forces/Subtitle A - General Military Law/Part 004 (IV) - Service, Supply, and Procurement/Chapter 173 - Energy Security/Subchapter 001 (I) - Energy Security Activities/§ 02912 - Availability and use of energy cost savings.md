@@ -2,7 +2,7 @@
 
 (a)
 
-Availability.—An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, shall remain available for obligation under subsection (b) or (c), as the case may be, until expended, without additional authorization or appropriation.
+Availability.—An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, and, in the case of operational energy, from both training and operational missions, shall remain available for obligation under subsection (b) or (c), as the case may be, until expended, without additional authorization or appropriation.
 
 (b)
 
@@ -26,9 +26,11 @@ Use of Operational Energy Cost Savings.—The amount that remains available for 
 
 Treatment of Certain Financial Incentives.—Financial incentives received from gas or electric utilities under section 2913 of this title shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, §1051(a)(26), div. B, title XXVIII, §2832, Dec. 12, 2017, 131 Stat. 1562, 1858; Pub. L. 115–232, div. A, title III, §312(h), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, §317, Dec. 20, 2019, 133 Stat. 1304.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, §2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, §1051(a)(26), div. B, title XXVIII, §2832, Dec. 12, 2017, 131 Stat. 1562, 1858; Pub. L. 115–232, div. A, title III, §312(h), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, §317, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, §317, Jan. 1, 2021, 134 Stat. 3519.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "and, in the case of operational energy, from both training and operational missions," after "under section 2913 of this title,".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §317(1), substituted "subsection (b) or (c), as the case may be," for "subsection (b)".
 
@@ -36,7 +38,7 @@ Subsec. (b). Pub. L. 116–92, §317(2), substituted "Except as provided in subs
 
 Subsecs. (c), (d). Pub. L. 116–92, §317(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 inserted ", including energy resilience and energy conservation construction projects," after "energy security measures".
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 inserted ", including energy resilience and energy conservationconstruction projects," after "energy security measures".
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–91, §2832, substituted "energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and" for "energy conservation and".
 

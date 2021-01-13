@@ -64,7 +64,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Serious Areas
 
-&emsp;In the case of Serious Areas in which stationary sources contribute significantly tocarbon monoxide levels (as determined under rules issued by the Administrator), the State shall submit a plan revision within 2 years after November 15, 1990, which provides that the term "major stationary source" includes (in addition to the sources described in section 7602 of this title) any stationary source which emits, or has the potential to emit, 50 tons per year or more of carbon monoxide.
+&emsp;In the case of Serious Areas in which stationary sources contribute significantly to carbon monoxide levels (as determined under rules issued by the Administrator), the State shall submit a plan revision within 2 years after November 15, 1990, which provides that the term "major stationary source" includes (in addition to the sources described in section 7602 of this title) any stationary source which emits, or has the potential to emit, 50 tons per year or more of carbon monoxide.
 
 #### (2) Waivers for certain areas
 
@@ -110,7 +110,7 @@ If the Administrator determines under section 7512(b)(2) of this title that the 
 
 #### Moratorium on Certain Emissions Testing Requirements
 
-For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption orimplementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
+For provisions prohibiting Administrator of Environmental Protection Agency from requiring adoption or implementation by State of test-only I/M240 enhanced vehicle inspection and maintenance program as means of compliance with this section, with further provisions relating to plan disapproval and emissions reduction credits, see section 348 of Pub. L. 104–59, set out as a note under section 7511a of this title.
 
 <i><sup>1</sup></i><i> So in original. Subsec. (a)(1) of this section does not contain a subpar. (B).</i>
 

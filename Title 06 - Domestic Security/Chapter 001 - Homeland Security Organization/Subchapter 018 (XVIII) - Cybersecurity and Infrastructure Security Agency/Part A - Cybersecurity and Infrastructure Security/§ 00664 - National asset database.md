@@ -48,13 +48,13 @@ The Secretary shall use the database established under subsection (a)(1) in the 
 
 #### (4) Retention of classification
 
-&emsp;The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a sector-specific agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
+&emsp;The classification of information required to be provided to Congress, the Department, or any other department or agency under this section by a Sector Risk Management Agency, including the assignment of a level of classification of such information, shall be binding on Congress, the Department, and that other Federal agency.
 
 #### (d) Reports
 
 #### (1) Report required
 
-&emsp;Not later than 180 days after August 3, 2007, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security ofthe House of Representatives a report on the database established under subsection (a)(1) and the list established under subsection (a)(2).
+&emsp;Not later than 180 days after August 3, 2007, and annually thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the database established under subsection (a)(1) and the list established under subsection (a)(2).
 
 #### (2) Contents of report
 
@@ -86,13 +86,17 @@ The Secretary may establish a consortium to be known as the "National Infrastruc
 
 &emsp;(2) provide input to the Secretary on any request pertaining to the contents of such database or such list.
 
-(Pub. L. 107–296, title XXII, §2214, formerly title II, §210E, as added Pub. L. 110–53, title X, §1001(a), Aug. 3, 2007, 121 Stat. 372; renumbered title XXII, §2214, and amended Pub. L. 115–278, §2(g)(2)(G), (9)(A)(viii), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+(Pub. L. 107–296, title XXII, §2214, formerly title II, §210E, as added Pub. L. 110–53, title X, §1001(a), Aug. 3, 2007, 121 Stat. 372; renumbered title XXII, §2214, and amended Pub. L. 115–278, §2(g)(2)(G), (9)(A)(viii), Nov. 16, 2018, 132 Stat. 4178, 4181; Pub. L. 116–283, div. H, title XC, §9002(c)(2)(E), Jan. 1, 2021, 134 Stat. 4773.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 124l of this title prior to renumbering by Pub. L. 115–278.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(4). Pub. L. 116–283 substituted "Sector Risk Management Agency" for "sector-specific agency".
 
 <b>2018</b>—Subsecs. (e), (f). Pub. L. 115–278, §2(g)(9)(A)(viii), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "By not later than two years after August 3, 2007, the Inspector General of the Department shall conduct a study of the implementation of this section."
 

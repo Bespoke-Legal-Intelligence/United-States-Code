@@ -10,11 +10,13 @@ The Secretary of State, as part of the process established by the President refe
 
 (Pub. L. 108–447, div. B, title IV, §409, Dec. 8, 2004, 118 Stat. 2904; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: "Not laterthan 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary's recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State."
+<b>2011</b>—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: "Not later than 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary's recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State."
 

@@ -28,7 +28,7 @@ Types of Support for Agencies of United States.—The purposes for which the Sec
 
 &emsp;&emsp;(B) upgrading such equipment to ensure the compatibility of that equipment with equipment used by the Department.
 
-&emsp;(3) The transportation of personnel of the United States and foreign countries (includingper diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime within or outside the United States.
+&emsp;(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime within or outside the United States.
 
 &emsp;(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counterdrug activities or activities to counter transnational organized crime of the Department of Defense or any Federal, State, local, or tribal law enforcement agency within or outside the United States.
 
@@ -146,6 +146,28 @@ In general.—Not less than 15 days before providing support for an activity und
 
 Coordination with secretary of state.—In providing notice under this subsection for a purpose described in subsection (c), the Secretary of Defense shall coordinate with the Secretary of State.
 
+&emsp;(3)
+
+Quarterly reports.—
+
+&emsp;&emsp;(A)
+
+In general.—Not less frequently than once each quarter, the Secretary shall submit to the appropriate committees of Congress a report on Department of Defense support provided under subsection (b) during the quarter preceding the quarter during which the report is submitted. Each such report shall be submitted in written and electronic form and shall include—
+
+&emsp;&emsp;&emsp;(i) an identification of each recipient of such support;
+
+&emsp;&emsp;&emsp;(ii) a description of the support provided and anticipated duration of such support; and
+
+&emsp;&emsp;&emsp;(iii) a description of the sources and amounts of funds used to provide such support;
+
+&emsp;&emsp;(B)
+
+Appropriate committees of congress.—Notwithstanding subsection (i)(1), for purposes of a report under this paragraph, the appropriate committees of Congress are—
+
+&emsp;&emsp;&emsp;(i) the Committees on Armed Services of the Senate and House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) any committee with jurisdiction over the department or agency that receives support covered by the report.
+
 (i)
 
 Definitions.—In this section:
@@ -166,7 +188,7 @@ Definitions.—In this section:
 
 &emsp;(6) The term "transnational organized crime" means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
 
-(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813.)
+(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L.116–283, div. A, title X, §1011, Jan. 1, 2021, 134 Stat. 3839.)
 
 #### References in Text
 
@@ -182,6 +204,8 @@ Section 1033 of the National Defense Authorization Act for Fiscal Year 1998, ref
 
 #### Amendments
 
+<b>2021</b>—Subsec. (h)(3). Pub. L. 116–283 added par. (3).
+
 <b>2019</b>—Subsec. (e). Pub. L. 116–92, §1731(a)(14)(A), substituted "section 276" for "section 376".
 
 Subsec. (f). Pub. L. 116–92, §1731(a)(14)(B), inserted second closing parenthesis after "103 Stat. 1564)".
@@ -193,4 +217,86 @@ Pub. L. 116–92, §1731(a)(14)(A), substituted "section 276" for "section 376".
 Subsec. (h)(1)(A)(vi)(VI). Pub. L. 116–92, §1731(a)(14)(D), struck out "section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) and" after "authorized by".
 
 <b>2016</b>—Pub. L. 114–328, §1241(a)(2), renumbered section 384 of this title as this section.
+
+#### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States
+
+Pub. L. 114–92, div. A, title X, §1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, §1056(a), (b), Jan. 1, 2021, 134 Stat. 3855, provided that:
+
+"(a)
+
+Authority.—
+
+&emsp;"(1)
+
+Provision of assistance.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense may provide assistance to United States Customs and Border Protection for purposes of increasing ongoing efforts to secure the southern land border of the United States in accordance with the requirements of this section.
+
+&emsp;&emsp;"(B)
+
+Requirements.—If the Secretary provides assistance under subparagraph (A), the Secretary shall ensure that the provision of the assistance will not negatively affect military training, operations, readiness, or other military requirements.
+
+&emsp;"(2)
+
+Notification requirement.—Not later than 7 days after the date on which the Secretary approves a request for assistance from the Department of Homeland Security under paragraph (1), the Secretary shall electronically transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives notice of such approval.
+
+"(b)
+
+Concurrence in Assistance.—Assistance under subsection (a) shall be provided with the concurrence of the Secretary of Homeland Security.
+
+"(c)
+
+Types of Assistance Authorized.—The assistance provided under subsection (a) may include the following:
+
+&emsp;"(1) Deployment of members and units of the regular and reserve components of the Armed Forces to the southern land border of the United States.
+
+&emsp;"(2) Deployment of manned aircraft, unmanned aerial surveillance systems, and ground-based surveillance systems to support continuous surveillance of the southern land border of the United States.
+
+&emsp;"(3) Intelligence analysis support.
+
+"(d)
+
+Materiel and Logistical Support.—The Secretary of Defense is authorized to deploy such materiel and equipment and logistics support as is necessary to ensure the effectiveness of assistance provided under subsection (a).
+
+"(e)
+
+Funding.—Of the amounts authorized to be appropriated for the Department of Defense by this Act \[see Tables for classification\], the Secretary of Defense may use up to $75,000,000 to provide assistance under subsection (a).
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Report required.—At the end of each three-month period during which assistance is provided under subsection (a), the Secretary of Defense, in coordination with the Secretary of Homeland Security, shall submit to the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives a report that includes, for the period covered by the report, each of the following:
+
+&emsp;&emsp;"(A) A description of the assistance provided.
+
+&emsp;&emsp;"(B) A description of the Armed Forces, including the reserve components, deployed as part of such assistance, including an identification of—
+
+&emsp;&emsp;&emsp;"(i) the members of the Armed Forces, including members of the reserve components, deployed, including specific information about unit designation, size of unit, and whether any personnel in the unit deployed under section 12302 of title 10, United States Code;
+
+&emsp;&emsp;&emsp;"(ii) the projected length of the deployment and any special pay and incentives for which deployed personnel may qualify during the deployment;
+
+&emsp;&emsp;&emsp;"(iii) any specific pre-deployment training provided for such members of the Armed Forces, including members of the reserve components;
+
+&emsp;&emsp;&emsp;"(iv) the specific missions and tasks, by location, that are assigned to the members of the Armed Forces, including members of the reserve components, who are so deployed; and
+
+&emsp;&emsp;&emsp;"(v) the locations where units so deployed are conducting their assigned mission, together with a map showing such locations.
+
+&emsp;&emsp;"(C) A description of any effects of such deployment on military training, operations, readiness, or other military requirements.
+
+&emsp;&emsp;"(D) The sources and amounts of funds obligated or expended—
+
+&emsp;&emsp;&emsp;"(i) during the period covered by the report; and
+
+&emsp;&emsp;&emsp;"(ii) during the total period for which such support has been provided.
+
+&emsp;"(2)
+
+Form of report.—Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex."
+
+\[Pub. L. 116–283, div. A, title X, §1056(c), Jan. 1, 2021, 134 Stat. 3856, provided that: "The Law Revision Counsel is directed to move section 1059 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 986; 10 U.S.C. 271 note prec.), as amended by this section, to a note following section 284 of title 10, United States Code."\]
 

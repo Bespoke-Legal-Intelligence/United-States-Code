@@ -54,7 +54,7 @@ Other claims.—For purposes of applying chapter 71 of title 41 to disputes aris
 
 &emsp;&emsp;(A) the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing; and
 
-&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 7104(b)(1) of title 41 relative to such a dispute.
+&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrentwith the United States Court of Federal Claims, of any action described in section 7104(b)(1) of title 41 relative to such a dispute.
 
 &emsp;(4)
 
@@ -94,6 +94,8 @@ Effect of Government Shutdown.—Coverage under a master contract under this cha
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–92, div. A, title XI, §1111(a)(3), Dec. 20, 2019, 133 Stat. 1601.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–92 added subsec. (e).
@@ -105,6 +107,8 @@ Subsec. (c)(3). Pub. L. 111–350, §5(a)(18)(B), substituted "chapter 71 of tit
 Subsec. (c)(3)(A). Pub. L. 111–350, §5(a)(18)(C), struck out "(after appropriate arrangements, as described in section 8(c) of such Act)" after "specify in writing".
 
 Subsec. (c)(3)(B). Pub. L. 111–350, §5(a)(18)(D), substituted "section 7104(b)(1) of title 41" for "section 10(a)(1) of such Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

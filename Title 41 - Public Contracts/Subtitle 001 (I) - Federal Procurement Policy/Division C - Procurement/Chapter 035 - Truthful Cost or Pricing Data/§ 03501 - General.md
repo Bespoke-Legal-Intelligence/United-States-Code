@@ -56,6 +56,8 @@ Subsection (a) of Pub. L. 110–417, §868 is omitted as unnecessary.
 
 In subsection (b)(1), the words "The Federal Acquisition Regulation" are substituted for "The regulations modified pursuant to subsection (a)" for clarity and conformity with the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232, §836(b)(11)(A), redesignated pars. (2) and (3) as (1) and (2), respectively, substituted "commercial products or commercial services" for "commercial items" in par. (2), as redesignated, and struck out former par. (1), which defined "commercial item".
@@ -63,6 +65,8 @@ In subsection (b)(1), the words "The Federal Acquisition Regulation" are substit
 Subsec. (b)(1). Pub. L. 115–232, §836(b)(11)(B), in heading, struck out "item" before "authority" and, in text, substituted "commercial services" for "commercial items".
 
 Subsec. (b)(2)(A). Pub. L. 115–232, §836(b)(11)(B)(ii), substituted "commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

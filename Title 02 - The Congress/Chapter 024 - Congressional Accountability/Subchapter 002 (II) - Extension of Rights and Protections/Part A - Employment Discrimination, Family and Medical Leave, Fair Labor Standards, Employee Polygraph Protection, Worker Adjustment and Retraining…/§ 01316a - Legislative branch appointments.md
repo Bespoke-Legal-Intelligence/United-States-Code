@@ -12,7 +12,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (A) In general
 
-&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriateif awarded under applicable provisions of title 5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
+&emsp;The remedy for a violation of paragraph (2) shall be such remedy as would be appropriate if awarded under applicable provisions of title 5 in the case of a violation of the relevant corresponding provision (referred to in paragraph (2)) of such title.
 
 #### (B) Procedure
 
@@ -30,7 +30,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (C) Coordination
 
-&emsp;The regulations issued under subparagraph (A) shall be consistent with section 225 of the Congressional Accountability Act of 1995 (2 U.S.C. 1361).
+&emsp;The regulations issued under subparagraph (A) shall be consistent with section 225 of theCongressional Accountability Act of 1995 (2 U.S.C. 1361).
 
 #### (5) Applicability
 
@@ -47,6 +47,8 @@ Notwithstanding any other provision of this section, the term "covered employee"
 Paragraphs (2) and (3) shall be effective as of the effective date of the regulations under paragraph (4).
 
 (Pub. L. 105–339, §4(c), Oct. 31, 1998, 112 Stat. 3185.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

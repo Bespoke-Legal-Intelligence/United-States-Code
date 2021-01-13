@@ -120,5 +120,5 @@ Pub. L. 116–92, div. A, title VII, §706(d), Dec. 20, 2019, 133 Stat. 1441, pr
 
 #### Regulations
 
-Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: "The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\]."
+Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: "The Secretary ofDefense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\]."
 

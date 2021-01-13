@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be a local
 
 #### (c) Application
 
-An entity seeking a grant under this section shall submit an application to the Secretary atsuch time, in such manner, and containing such information as the Secretary may reasonably require, including—
+An entity seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including—
 
 &emsp;(1) a description of how the entity will prioritize the safety of, and confidentiality of information about—
 

@@ -110,7 +110,7 @@ For the purposes of this section, the term "Secretary" means—
 
 &emsp;(2) the Secretary of Education, in the case of any other entity.
 
-(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1913; renumbered title VI, §6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
+(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701,Jan. 8, 2002, 115 Stat. 1913; renumbered title VI, §6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
 
 #### References in Text
 

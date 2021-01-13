@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 94–370, §14, substituted provisions authorizing appropri
 
 Subsec. (c). Pub. L. 94–370, §14, added subsec. (c).
 
-<b>1975</b>—Subsec. (a)(1). Pub. L. 93–612, §1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to beappropriated for the 3 fiscal years following the fiscal year 1974.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 93–612, §1(3)(A), increased from $9,000,000 to $12,000,000 the sums authorized to be appropriated for the 3 fiscal years following the fiscal year 1974.
 
 Subsec. (a)(3). Pub. L. 93–612, §1(3)(B), inserted "and for each of the three succeeding fiscal years," after "fiscal year ending June 30, 1974,".
 

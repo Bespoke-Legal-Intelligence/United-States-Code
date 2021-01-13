@@ -6,9 +6,11 @@ The Congress makes the following findings and declarations:
 
 &emsp;(2) The United States has joined with other countries in executing an international treaty, entitled the Convention on Psychotropic Substances and signed at Vienna, Austria, on February 21, 1971, which is designed to establish suitable controls over the manufacture, distribution, transfer, and use of certain psychotropic substances. The Convention is not self-executing, and the obligations of the United States thereunder may only be performed pursuant to appropriate legislation. It is the intent of the Congress that the amendments made by this Act, together with existing law, will enable the United States to meet all of its obligations under the Convention and that no further legislation will be necessary for that purpose.
 
-&emsp;(3) In implementing the Convention on Psychotropic Substances, the Congress intends that, consistent with the obligations of the United States under the Convention, control of psychotropic substances in the United States should be accomplished within the framework of the procedures and criteria forclassification of substances provided in the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[21 U.S.C. 801 et seq.\]. This will insure that (A) the availability of psychotropic substances to manufacturers, distributors, dispensers, and researchers for useful and legitimate medical and scientific purposes will not be unduly restricted; (B) nothing in the Convention will interfere with bona fide research activities; and (C) nothing in the Convention will interfere with ethical medical practice in this country as determined by the Secretary of Health and Human Services on the basis of a consensus of the views of the American medical and scientific community.
+&emsp;(3) In implementing the Convention on Psychotropic Substances, the Congress intends that, consistent with the obligations of the United States under the Convention, control of psychotropic substances in the United States should be accomplished within the framework of the procedures and criteria for classification of substances provided in the Comprehensive Drug Abuse Prevention and Control Act of 1970 \[21 U.S.C. 801 et seq.\]. This will insure that (A) the availability of psychotropic substances to manufacturers, distributors, dispensers, and researchers for useful and legitimate medical and scientific purposes will not be unduly restricted; (B) nothing in the Convention will interfere with bona fide research activities; and (C) nothing in the Convention will interfere with ethical medical practice in this country as determined by the Secretary of Health and Human Services on the basis of a consensus of the views of the American medical and scientific community.
 
 (Pub. L. 95–633, title I, §101, Nov. 10, 1978, 92 Stat. 3768; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 #### Codification
 
 Section was enacted as a part of the Psychotropic Substances Act of 1978, and not as a part of the Controlled Substances Act which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

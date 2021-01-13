@@ -64,7 +64,7 @@ Subsec. (b)(3). Pub. L. 109–280, §844(b)(2), inserted at end "For purposes of
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 struck out "subject to tax under subchapter L" after "with an insurance company".
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §224(a), which directed the substitution of "an insurance company subject to tax under subchapter L" for "a life insurance company as defined in section 801", was executed by making such substitution for "a life insurance company as defined in section 816" to reflect the probable intent of Congress and the earlier amendment by Pub. L. 98–369, §211(b)(15), which substituted "as defined in section 816" for "as defined in section 801".
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §224(a), which directed the substitution of "an insurance company subject to tax under subchapter L" for "a life insurance company as defined in section 801", was executed by making such substitution for "a life insurance company as defined in section 816" to reflect the probableintent of Congress and the earlier amendment by Pub. L. 98–369, §211(b)(15), which substituted "as defined in section 816" for "as defined in section 801".
 
 Pub. L. 98–369, §211(b)(15), substituted "section 816" for "section 801".
 

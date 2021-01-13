@@ -12,6 +12,8 @@ There are hereby authorized to be appropriated to the Department of State for co
 
 (June 14, 1948, ch. 469, §3, 62 Stat. 441; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(d), 64 Stat. 902; Aug. 26, 1954, ch. 937, title IV, §419, as added July 8, 1955, ch. 301, §8(j), 69 Stat. 288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter XVII \[§287m et seq.\] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
@@ -34,6 +36,8 @@ Subsec. (a). Joint Res. Sept. 21, 1950, §1(d)(2), increased authorized annual a
 
 <b>1949</b>—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Pub. L. 85–141, §8(n), Aug. 14, 1957, 71 Stat. 362, repealed section 419 of act Aug. 26, 1954, cited as a credit to this section, except insofar as section 419 affected this section.
@@ -42,7 +46,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
 
 #### Limitation of Contributions
 

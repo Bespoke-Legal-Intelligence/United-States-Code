@@ -42,7 +42,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any gift made after December 31, 1976, the increase in basis provided by this subsection with respect to any gift for the gift tax paid under chapter 12 shall be an amount (not in excess of the amount of tax so paid) which bears the same ratio to the amount of tax so paid as—
+&emsp;&emsp;In the case of any gift made after December 31, 1976, the increase in basis provided by this subsection with respect to any gift for the gift tax paid under chapter 12 shall be anamount (not in excess of the amount of tax so paid) which bears the same ratio to the amount of tax so paid as—
 
 &emsp;&emsp;&emsp;(i) the net appreciation in value of the gift, bears to
 

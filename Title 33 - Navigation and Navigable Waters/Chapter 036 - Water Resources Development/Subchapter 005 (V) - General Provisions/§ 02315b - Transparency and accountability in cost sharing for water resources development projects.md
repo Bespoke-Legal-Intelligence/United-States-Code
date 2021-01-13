@@ -22,9 +22,13 @@ In the case of a water resources development project carried out by the Secretar
 
 (Pub. L. 115–270, title I, §1120, Oct. 23, 2018, 132 Stat. 3777.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2018, and also as part of the America's Water Infrastructure Act of 2018, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

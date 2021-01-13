@@ -2,7 +2,7 @@
 
 (a) The authority of any federal agency to sue and be sued in its own name shall not be construed to authorize suits against such federal agency on claims which are cognizable under section 1346(b) of this title, and the remedies provided by this title in such cases shall be exclusive.
 
-(b)(1) The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property, or personal injury or death arising or resulting from the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment is exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against the employee whose act or omission gave rise to the claim or against the estate of such employee. Any other civil action or proceeding for money damages arising out of or relating to the same subject matter against the employee or the employee's estate is precluded without regard to when the act or omission occurred.
+(b)(1) The remedy against the United States provided by sections 1346(b) and 2672 of this title for injury or loss of property, or personal injury or death arising or resulting from the negligentor wrongful act or omission of any employee of the Government while acting within the scope of his office or employment is exclusive of any other civil action or proceeding for money damages by reason of the same subject matter against the employee whose act or omission gave rise to the claim or against the estate of such employee. Any other civil action or proceeding for money damages arising out of or relating to the same subject matter against the employee or the employee's estate is precluded without regard to when the act or omission occurred.
 
 (2) Paragraph (1) does not extend or apply to a civil action against an employee of the Government—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) which is brought for a violation of a statute of the United States under which such action against an individual is otherwise authorized.
 
-(c) The Attorney General shall defend any civil action or proceeding brought in any court against any employee of the Government or his estate for any such damage or injury. The employee against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon him or an attested true copy thereof to his immediate superior or towhomever was designated by the head of his department to receive such papers and such person shall promptly furnish copies of the pleadings and process therein to the United States attorney for the district embracing the place wherein the proceeding is brought, to the Attorney General, and to the head of his employing Federal agency.
+(c) The Attorney General shall defend any civil action or proceeding brought in any court against any employee of the Government or his estate for any such damage or injury. The employee against whom such civil action or proceeding is brought shall deliver within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon him or an attested true copy thereof to his immediate superior or to whomever was designated by the head of his department to receive such papers and such person shall promptly furnish copies of the pleadings and process therein to the United States attorney for the district embracing the place wherein the proceeding is brought, to the Attorney General, and to the head of his employing Federal agency.
 
 (d)(1) Upon certification by the Attorney General that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon such claim in a United States district court shall be deemed an action against the United States under the provisions of this title and all references thereto, and the United States shall be substituted as the party defendant.
 
@@ -40,6 +40,8 @@ Changes were made in phraseology.
 
 The catchline and text of this section were changed and the section was renumbered "2678" by Senate amendment. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d)(3), are set out in the Appendix to this title.
@@ -53,6 +55,8 @@ Subsec. (d). Pub. L. 100–694, §6, amended subsec. (d) generally. Prior to ame
 <b>1966</b>—Subsec. (b). Pub. L. 89–506 inserted reference to section 2672 of this title and substituted "remedy" for "remedy by suit".
 
 <b>1961</b>—Pub. L. 87–258 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

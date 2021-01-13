@@ -36,7 +36,7 @@ In carrying out this section, in accordance with laws in existence on August 8, 
 
 #### (d) Assistance for transmission system use
 
-(1) An Administrator may provide technical assistance to Indian tribes seeking to use the high-voltage transmission system for delivery of electric power.
+(1) An Administrator may provide technical assistance to Indian tribes seeking to use thehigh-voltage transmission system for delivery of electric power.
 
 (2) The costs of technical assistance provided under paragraph (1) shall be funded—
 
@@ -63,6 +63,8 @@ Not later than 2 years after August 8, 2005, the Secretary of Energy shall submi
 There are authorized to be appropriated to carry out this section $750,000, non-reimbursable, to remain available until expended.
 
 (Pub. L. 102–486, title XXVI, §2605, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 776.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

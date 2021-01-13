@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiffor plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -56,7 +56,7 @@
 
 #### (ii) Consolidated actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this subchapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
 
 #### (iii) Rebuttable presumption
 
@@ -170,7 +170,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules ofCivil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys' fees and costs
 
@@ -192,7 +192,7 @@
 
 #### (C) Sanctions
 
-&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
+&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deemsappropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 
 #### (d) Defendant's right to written interrogatories
 

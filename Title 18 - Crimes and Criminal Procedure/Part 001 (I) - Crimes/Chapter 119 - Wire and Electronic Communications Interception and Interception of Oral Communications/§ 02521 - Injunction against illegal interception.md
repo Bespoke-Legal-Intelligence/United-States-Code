@@ -4,11 +4,15 @@ Whenever it shall appear that any person is engaged or is about to engage in any
 
 (Added Pub. L. 99–508, title I, §110(a), Oct. 21, 1986, 100 Stat. 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Criminal Procedure, referred to in text, are set out in the Appendix to this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

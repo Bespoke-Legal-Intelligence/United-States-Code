@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL EMPLOYEE MATTERS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–223, div. A, title II, §247(a)(2)(A), Sept. 29, 2016, 130 Stat. 890, inserted subchapter heading.

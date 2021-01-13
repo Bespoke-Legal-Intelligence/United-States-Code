@@ -34,9 +34,13 @@
 
 (Pub. L. 86–735, §1, Sept. 8, 1960, 74 Stat. 869.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was not enacted as part of the Mutual Security Act of 1954 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -48,7 +52,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 "(a) The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the United States and the Inter-American Development Bank. Such revision should provide for the—
 
-&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of part IV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
+&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of partIV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
 
 &emsp;"(2) utilization of such unencumbered capital resources, future repayments, and other accruals by the Inter-American Development Bank for purposes of sections 1 and 2 of the Latin American Development Act (22 U.S.C. 1942 and 1943) in such a way that the resources received in the currencies of the more developed member countries are utilized to the extent possible for the benefit of the lesser developed member countries; or
 
@@ -56,13 +60,15 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 "(b) Any transfer or utilization under this section shall be in such proportions as may be agreed to between the United States and the Inter-American Development Bank.
 
-"(c) Any transfer under subsection (a)(1) shall be in the amounts, and in available currencies, determinedin consultation with the Inter-American Foundation, to be required for its program purposes.
+"(c) Any transfer under subsection (a)(1) shall be in the amounts, and in available currencies, determined in consultation with the Inter-American Foundation, to be required for its program purposes.
 
 "(d) The revision of the Social Progress Trust Fund Agreement pursuant to this section shall provide that the President or his delegate shall specify, from time to time, after consultation with the Inter-American Development Bank, the particular currencies to be used in making the transfer or utilization described in this section.
 
 "(e) \[Repealed. Pub. L. 97–113, title VII, §734(a)(9), Dec. 29, 1981, 95 Stat. 1560\]."
 
 \[Amendment of provisions of section 36 of Pub. L. 93–189, set out above, by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Responsibilities Related to the Latin American Development Act of 1960
 

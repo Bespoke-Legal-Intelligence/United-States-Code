@@ -12,13 +12,13 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;&emsp;(ii) provide to each participating older individual—
 
-&emsp;&emsp;&emsp;&emsp;(I) a minimum of 331/3 percent of the dietary reference intakes established by the Food and Nutrition Board of the Institute of Medicine of the National Academy of Sciences, if the project provides one meal per day,
+&emsp;&emsp;&emsp;&emsp;(I) a minimum of 331/3 percent of the dietary reference intakes established by the Food and Nutrition Board of the National Academies of Sciences, Engineering, and Medicine, if the project provides one meal per day,
 
 &emsp;&emsp;&emsp;&emsp;(II) a minimum of 662/3 percent of the allowances if the project provides two meals per day, and
 
 &emsp;&emsp;&emsp;&emsp;(III) 100 percent of the allowances if the project provides three meals per day, and
 
-&emsp;&emsp;&emsp;(iii) to the maximum extent practicable, are adjusted to meet any special dietary needs of program participants,
+&emsp;&emsp;&emsp;(iii) to the maximum extent practicable, are adjusted to meet any special dietary needs of program participants, including meals adjusted for cultural considerations and preferences and medically tailored meals,
 
 &emsp;&emsp;(B) provides flexibility to local nutrition providers in designing meals that are appealing to program participants,
 
@@ -48,7 +48,7 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(L) where feasible, encourages the use of locally grown foods in meal programs and identifies potential partnerships and contracts with local producers and providers of locally grown foods.
 
-(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548; Pub. L. 114–144, §4(i), Apr. 19, 2016, 130 Stat. 339.)
+(Pub. L. 89–73, title III, §339, as added Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252; amended Pub. L. 109–365, title III, §316, Oct. 17, 2006, 120 Stat. 2548; Pub. L. 114–144, §4(i), Apr. 19, 2016, 130 Stat. 339; Pub. L. 116–131, title II, §215, title VII, §701(9), Mar. 25, 2020, 134 Stat. 259, 271.)
 
 #### Codification
 
@@ -56,9 +56,13 @@ Pub. L. 106–501, §313, which directed amendment of subpart 4 of part C of tit
 
 #### Prior Provisions
 
-A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
+A prior section 3030g–21, Pub. L. 89–73, title III, §339, as added Pub. L. 102–375, title III, §317, Sept. 30, 1992, 106 Stat. 1241, related to compliance with dietary guidelines prior to repeal by Pub. L. 106–501, title III, §313, Nov. 13, 2000, 114 Stat. 2252. See Codification note above.
 
 #### Amendments
+
+<b>2020</b>—Par. (2)(A)(ii)(I). Pub. L. 116–131, §701(9), substituted "National Academies of Sciences, Engineering, and Medicine" for "Institute of Medicine of the National Academy of Sciences".
+
+Par. (2)(A)(iii). Pub. L. 116–131, §215, inserted ", including meals adjusted for cultural considerations and preferences and medically tailored meals" before comma at end.
 
 <b>2016</b>—Par. (1). Pub. L. 114–144, §4(i)(1), substituted "utilize" for "solicit".
 
@@ -77,6 +81,10 @@ Par. (2)(G). Pub. L. 109–365, §316(2)(C), amended subpar. (G) generally. Prio
 Par. (2)(H). Pub. L. 109–365, §316(2)(D), struck out "and accompany" after "home with".
 
 Par. (2)(J), (K). Pub. L. 109–365, §316(2)(E), (F), added subpars. (J) and (K) and struck out former subpar. (J) which read as follows: "provide for nutrition screening and, where appropriate, for nutrition education and counseling."
+
+#### Temporary Dietary Guidelines Waiver
+
+Pub. L. 116–260, div. N, title VII, §732(c), Dec. 27, 2020, 134 Stat. 2105, provided that: "To facilitate implementation of subparts 1 \[42 U.S.C. 3030e\] and 2 \[42 U.S.C. 3030f, 3030g\] of part C of title III of the Older Americans Act of 1965 (42 U.S.C. 3030d–2 \[3030d–21\] et seq.), with funds received by a State for fiscal year 2021, the Assistant Secretary for Aging may waive, but continue to make every effort practicable to encourage the restoration of, the applicable requirements for meals provided under such subparts comply \[sic\] with the requirements of clauses (i) and (ii) of section 339(2)(A) of such Act (42 U.S.C. 3030g–21(2)(A))."
 
 <i><sup>1</sup></i><i> So in original. Title III of Pub. L. 89–73, as amended, contained parts and subparts, but not chapters.</i>
 

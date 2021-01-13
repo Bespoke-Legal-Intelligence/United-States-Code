@@ -48,7 +48,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 &emsp;&emsp;(B) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may bebased on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 
@@ -96,7 +96,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 This subchapter, referred to in subsec. (g)(4), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
-Section 1437aaa–1(b)(6) of this title, referred to in subsec. (i), was redesignated section 1437aaa–1(b)(7) of this title by Pub. L. 102–550, title X, §1012(h)(1)(A), Oct. 28, 1992, 106 Stat. 3906.
+Section 1437aaa–1(b)(6) of this title, referred to in subsec. (i), was redesignated section 1437aaa–1(b)(7) of thistitle by Pub. L. 102–550, title X, §1012(h)(1)(A), Oct. 28, 1992, 106 Stat. 3906.
 
 Section 1437aaa–2(b)(9) of this title, referred to in subsec. (i), was redesignated section 1437aaa–2(b)(10) of this title by Pub. L. 102–550, title X, §1012(h)(2)(A), Oct. 28, 1992, 106 Stat. 3906.
 

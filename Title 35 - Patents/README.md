@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–211, title I, §101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
@@ -378,6 +380,8 @@ T. 50 App. §2371
 159
 
 Rep.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Citation
 

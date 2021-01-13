@@ -84,7 +84,7 @@ Another prior section 2343, Pub. L. 88–210, title II, §240, as added Pub. L. 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–224, §123(1)(A), substituted "percent of the" for "percent of an agreed upon", "State determined level of performance" for "State adjusted level of performance" in two places,"2323(b)(2) of this title for all CTE concentrators" for "section 2323(b)(3) of this title", and "(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps)" for "(with special consideration to performance gaps identified under section 2323(c)(2) of this title)".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–224, §123(1)(A), substituted "percent of the" for "percent of an agreed upon", "State determined level of performance" for "State adjusted level of performance" in two places, "2323(b)(2) of this title for all CTE concentrators" for "section 2323(b)(3) of this title", and "(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps)" for "(with special consideration to performance gaps identified under section 2323(c)(2) of this title)".
 
 Subsec. (a)(2). Pub. L. 115–224, §123(1)(B), substituted "purposes of this section, including after implementation of the improvement plan described in paragraph (1)," for "purposes of this chapter" and "State determined levels of performance" for "State's adjusted levels of performance".
 

@@ -4,6 +4,8 @@ The Legislative Counsel shall, subject to the approval of the President pro temp
 
 (Feb. 24, 1919, ch. 18, title XIII, §1303(a), (d), 40 Stat. 1141; June 2, 1924, ch. 234, title XI, §1101, 43 Stat. 353; Sept. 20, 1941, ch. 412, title VI, §602, 55 Stat. 726.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 As originally enacted, section also provided for legislative counsel of House of Representatives, subject to approval of Speaker, to employ and fix the compensation of assistant counsel, clerks, etc. In view of nonapplicability of section to Speaker, employee, etc., of the House of Representatives pursuant to section 531 of Pub. L. 91–510, set out as a note under section 281 of this title, section has been revised to limit applicability to authority of Legislative Counsel of the Senate. See section 282a et seq. of this title for provisions relating to appointment of staff, etc., for Office of Legislative Counsel of the House of Representatives.
@@ -11,6 +13,8 @@ As originally enacted, section also provided for legislative counsel of House of
 #### Amendments
 
 <b>1941</b>—Act Sept. 20, 1941, substituted "President pro tempore of the Senate" for "President of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Designation of Deputy Legislative Counsel
 
@@ -22,13 +26,13 @@ Pub. L. 85–75, July 1, 1957, 71 Stat. 251, provided in part that: "No more tha
 
 #### Additional Senior Counsel
 
-Pub. L. 95–391, title I, §102, Sept. 30, 1978, 92 Stat. 771, provided that: "Effective October 1, 1978, the number of employees in the Office of the Legislative Counsel of the Senate who may be designated as, and receive the compensation of, a Senior Counsel is increased to five."
+Pub. L. 95–391, title I, §102, Sept. 30, 1978, 92 Stat. 771, provided that: "Effective October 1, 1978, the number of employees in the Office of the Legislative Counsel ofthe Senate who may be designated as, and receive the compensation of, a Senior Counsel is increased to five."
 
 Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: "That effective July 1, 1963, one additional employee in the Office of the Legislative Counsel of the Senate may be designated as Senior Counsel, and the compensation of the additional employee so designated shall be equal to the gross per annum rate presently authorized for other employees so designated."
 
 #### Increases in Compensation of Four Senior Counsels
 
-Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, which provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate ofcompensation of $39,000, was repealed by Pub. L. 116–94, div. E, title II, §212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
+Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, eff. July 1, 1975, which provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $39,000, was repealed by Pub. L. 116–94, div. E, title II, §212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
 Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429, eff. July 1, 1974, provided in part that the four Senior Counsels in the Office of the Legislative Counsel of the Senate shall each be paid at an annual rate of compensation of $37,620.
 

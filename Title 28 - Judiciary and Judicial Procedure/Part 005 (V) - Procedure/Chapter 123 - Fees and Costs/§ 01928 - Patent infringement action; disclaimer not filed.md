@@ -14,9 +14,13 @@ Words "or decree" were omitted after "judgment," because a judgment under Rule 5
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

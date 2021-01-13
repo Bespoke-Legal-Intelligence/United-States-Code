@@ -47,6 +47,7 @@
 | [426e.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426e%20-%20Federal%20aid%20in%20protection%20of%20shores.md) | Federal aid in protection of shores. |
 | 426e–1. | Shore protection projects. |
 | 426e–2. | Clarification of munition disposal authorities. |
+| 426e–3. | Coastal storm damage reduction contracts. |
 | [426f.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426f%20-%20Reimbursements.md) | Reimbursements. |
 | [426g.](Subchapter%20001%20%28I%29%20-%20In%20General/%C2%A7%2000426g%20-%20Storm%20and%20hurricane%20restoration%20and%20impact%20minimization%20program.md) | Storm and hurricane restoration and impact minimization program. |
 | 426g–1. | State and regional plans. |

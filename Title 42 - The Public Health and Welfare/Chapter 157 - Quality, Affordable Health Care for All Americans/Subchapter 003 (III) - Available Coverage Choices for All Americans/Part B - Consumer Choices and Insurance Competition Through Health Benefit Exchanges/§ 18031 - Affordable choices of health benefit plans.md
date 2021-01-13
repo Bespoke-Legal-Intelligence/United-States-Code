@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) include within health insurance plan networks those essential community providers, where available, that serve predominately low-income, medically-underserved individuals, such as health care providers defined in section 340B(a)(4) of the Public Health Service Act \[42 U.S.C. 256b(a)(4)\] and providers described in section 1927(c)(1)(D)(i)(IV) of the Social Security Act \[42 U.S.C. 1396r–8(c)(1)(D)(i)(IV)\] as set forth by section 221 of Public Law 111–8, except that nothing in this subparagraph shall be construed to require any health plan to provide coverage for any specific medical procedure;
 
-&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, networkadequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
+&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
 
 &emsp;&emsp;(ii) receive such accreditation within a period established by an Exchange for such accreditation that is applicable to all qualified health plans;
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;(F) in accordance with section 18083 of this title, inform individuals of eligibility requirements for the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the CHIP program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or any applicable State or local public program and if through screening of the application by the Exchange, the Exchange determines that such individuals are eligible for any such program, enroll such individuals in such program;
 
-&emsp;&emsp;(G) establish and make available by electronic means a calculator to determine the actual cost of coverage after the application of any premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title;
+&emsp;&emsp;(G) establish and make available by electronic means a calculator to determine theactual cost of coverage after the application of any premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title;
 
 &emsp;&emsp;(H) subject to section 18081 of this title, grant a certification attesting that, for purposes of the individual responsibility penalty under section 5000A of title 26, an individual is exempt from the individual requirement or from the penalty imposed by such section because—
 
@@ -290,7 +290,7 @@
 
 #### (B) Use of plain language
 
-&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and usebecause that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
+&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
 
 #### (C) Cost sharing transparency
 
@@ -372,7 +372,7 @@
 
 &emsp;&emsp;&emsp;(i) utilizes a patient safety evaluation system as described in part C of title IX of the Public Health Service Act \[42 U.S.C. 299b–21 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii) implements a mechanism to ensure that each patient receives a comprehensive program for hospital discharge that includes patient-centered education andcounseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional; or
+&emsp;&emsp;&emsp;(ii) implements a mechanism to ensure that each patient receives a comprehensive program for hospital discharge that includes patient-centered education and counseling, comprehensive discharge planning, and post discharge reinforcement by an appropriate health care professional; or
 
 &emsp;&emsp;(B) a health care provider only if such provider implements such mechanisms to improve health care quality as the Secretary may by regulation require.
 
@@ -436,7 +436,7 @@
 
 #### (6) Funding
 
-&emsp;Grants under this subsection shall be made from the operational funds of the Exchange and not Federal funds received by the State to establish the Exchange.
+&emsp;Grants under this subsection shall be made from the operational funds of the Exchangeand not Federal funds received by the State to establish the Exchange.
 
 #### (j) Applicability of mental health parity
 
@@ -450,7 +450,7 @@ An Exchange may not establish rules that conflict with or prevent the applicatio
 
 #### References in Text
 
-Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
+Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
 
 This title, referred to in subsecs. (b)(1) and (e)(3)(A)(viii), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 

@@ -36,9 +36,11 @@ Certifications and Determination Required.—A major defense acquisition program
 
 &emsp;&emsp;(M) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B);
 
-&emsp;&emsp;(N) the requirements of section 2446b(e) of this title are met; and
+&emsp;&emsp;(N) the requirements of section 2446b(e) of this title are met;
 
-&emsp;&emsp;(O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program;
+&emsp;&emsp;(O) appropriate actions have been taken to negotiate and enter into a contract or contract options for the technical data required to support the program; and
+
+&emsp;&emsp;(P) has approved the life cycle sustainment plan required under section 2337(b) of this title.<sup>1</sup>
 
 &emsp;(4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019; and
 
@@ -52,7 +54,7 @@ Changes to Certifications or Determination.—(1) The program manager for a majo
 
 &emsp;(B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certifications or determination.
 
-(2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certifications or determination concerned or rescind Milestone B approval if the milestone decision authority determines that such certifications, determination, or approval are no longer valid.
+(2) Upon receipt of information under paragraph (1), the milestone decision authority maywithdraw the certifications or determination concerned or rescind Milestone B approval if the milestone decision authority determines that such certifications, determination, or approval are no longer valid.
 
 (c)
 
@@ -84,7 +86,9 @@ Brief summary report.—Not later than 15 days after granting Milestone B approv
 
 &emsp;&emsp;(G) An assessment of the sufficiency of developmental test and evaluation plans, including the use of automated data analytics or modeling and simulation tools and methodologies.
 
-&emsp;&emsp;(H) Any other information the milestone decision authority considers relevant.
+&emsp;&emsp;(H) A summary of the life cycle sustainment plan required under section 2337 of this title.
+
+&emsp;&emsp;(I) Any other information the milestone decision authority considers relevant.
 
 &emsp;(2)
 
@@ -112,7 +116,7 @@ Waiver for National Security.—(1) The milestone decision authority may, at the
 
 &emsp;(A) determines in writing that—
 
-&emsp;&emsp;(i) the program has reached a stage in the acquisition process at which it would not be practicable to meet the certification component that was waived; and
+&emsp;&emsp;(i) the program has reached a stage in the acquisition process at which it would not bepracticable to meet the certification component that was waived; and
 
 &emsp;&emsp;(ii) the milestone decision authority has taken appropriate alternative actions to address the underlying purposes of such certification component; and
 
@@ -146,13 +150,25 @@ Definitions.—In this section:
 
 &emsp;(8) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474; Pub. L. 115–232, div. A, title VIII, §831(b)(3), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title VIII, §833, Dec. 20, 2019, 133 Stat. 1494.)
+(Added Pub. L. 109–163, div. A, title VIII, §801(a), Jan. 6, 2006, 119 Stat. 3366, §2366a; amended Pub. L. 109–364, div. A, title VIII, §805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, §812, Jan. 28, 2008, 122 Stat. 219; renumbered §2366b, Pub. L. 110–417, \[div. A\], title VIII, §813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(4), title II, §§201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§813(d)(1), 814(c), title IX, §901(j)(4), title X, §1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, §322(e)(2), title IX, §904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§821(a), 822(a), title X, §1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, §824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474; Pub. L. 115–232, div. A, title VIII, §831(b)(3), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title VIII, §833, Dec. 20, 2019, 133 Stat. 1494; Pub. L. 116–283, div. A, title VIII, §802(b), Jan. 1, 2021, 134 Stat. 3732.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(d)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4255, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after section 4251, as transferred and redesignated by section 1847(d)(1) of Pub. L. 116–283, and redesignated as section 4252 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 2366b was renumbered section 2366a of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3)(N). Pub. L. 116–283, §802(b)(1)(A), struck out "and" after "met;".
+
+Subsec. (a)(3)(O). Pub. L. 116–283, §802(b)(1)(B), which directed amendment of subpar. (O) by substituting "; and" for period at end, was executed by making the substitution for semicolon at end to reflect the probable intent of Congress.
+
+Subsec. (a)(3)(P). Pub. L. 116–283, §802(b)(1)(C), added subpar. (P).
+
+Subsec. (c)(1)(H), (I). Pub. L. 116–283, §802(b)(2), added subpar. (H) and redesignated former subpar. (H) as (I).
 
 <b>2019</b>—Subsec. (a)(5). Pub. L. 116–92 added par. (5).
 
@@ -260,7 +276,7 @@ Subsec. (c). Pub. L. 110–181, §812(4), designated existing provisions as par.
 
 Pub. L. 110–181, §812(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 110–181, §812(5), substituted "authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection\(b)(2), waive" for "authority may waive" and "paragraph (1) or (2)" for "paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (9)".
+Subsec. (d). Pub. L. 110–181, §812(5), substituted "authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection (b)(2), waive" for "authority may waive" and "paragraph (1) or (2)" for "paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (9)".
 
 Pub. L. 110–181, §812(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -277,6 +293,10 @@ Subsec. (a)(8), (9). Pub. L. 109–364, §805(a)(4), (5), added pars. (8) and (9
 Subsec. (a)(10). Pub. L. 109–364, §805(a)(1), redesignated par. (7) as (10).
 
 Subsec. (c). Pub. L. 109–364, §805(b), substituted "(5), (6), (7), (8), or (9)" for "(5), or (6)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1847(d)(2)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -349,4 +369,6 @@ Pub. L. 110–417, \[div. A\], title X, §1047(d), Oct. 14, 2008, 122 Stat. 4603
 &emsp;"(A) the bandwidth requirements needed to support such program are or will be met; and
 
 &emsp;"(B) a determination will be made with respect to how to meet the bandwidth requirements for such program."
+
+<i><sup>1</sup></i><i> So in original. Subpar. (P) does not follow the pattern of other subpars. in this par. and the period at end probably should be a semicolon.</i>
 

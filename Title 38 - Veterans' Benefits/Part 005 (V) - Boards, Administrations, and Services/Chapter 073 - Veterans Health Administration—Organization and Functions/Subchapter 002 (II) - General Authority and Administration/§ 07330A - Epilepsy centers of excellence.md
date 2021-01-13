@@ -46,7 +46,7 @@ Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy cen
 
 &emsp;(4) The capability to conduct effectively evaluations of the activities of such center.
 
-&emsp;(5) The capability to assist in the expansion of the Department's use of information systems and databases to improve the quality and delivery of care for veterans enrolled within the Department's health care system.
+&emsp;(5) The capability to assist in the expansion of the Department's use of information systems and databases to improve the quality anddelivery of care for veterans enrolled within the Department's health care system.
 
 &emsp;(6) The capability to assist in the expansion of the Department telehealth program to develop, transmit, monitor, and review neurological diagnostic tests.
 
@@ -83,6 +83,8 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 (5) In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, there are authorized to be appropriated such sums as may be necessary to fund the national coordinator established by subsection (e).
 
 (Added Pub. L. 110–387, title IV, §404(a), Oct. 10, 2008, 122 Stat. 4126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

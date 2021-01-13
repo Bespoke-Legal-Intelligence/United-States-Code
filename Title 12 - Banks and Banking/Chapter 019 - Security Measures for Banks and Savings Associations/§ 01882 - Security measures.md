@@ -10,11 +10,15 @@ The rules shall establish the time limits within which banks and savings associa
 
 (Pub. L. 90–389, §3, July 7, 1968, 82 Stat. 295; Pub. L. 101–73, title IX, §911(a), Aug. 9, 1989, 103 Stat. 478; Pub. L. 111–203, title III, §356(2), July 21, 2010, 124 Stat. 1547.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 struck out "and loan" after "savings" in subsecs. (a) and (b).
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out "and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

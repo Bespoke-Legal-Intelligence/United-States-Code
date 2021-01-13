@@ -26,6 +26,8 @@ Sentence in section 412 of title 18, U.S.C., 1940 ed., "Nothing in this section 
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in first par.

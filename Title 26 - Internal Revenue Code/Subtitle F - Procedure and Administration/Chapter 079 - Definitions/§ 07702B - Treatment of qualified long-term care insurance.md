@@ -50,7 +50,7 @@ For purposes of this title—
 
 &emsp;&emsp;(i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under title XVIII of the Social Security Act only as a secondary payor.
 
-&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of a qualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
+&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of aqualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
 
 #### (C) Refunds of premiums
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (4) Dollar amount
 
-&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalent amount in the case of payments on another periodic basis).
+&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalentamount in the case of payments on another periodic basis).
 
 #### (5) Inflation adjustment
 
@@ -162,7 +162,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (2) Denial of deduction under section 213
 
-&emsp;No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurancecontract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.
+&emsp;No deduction shall be allowed under section 213(a) for any payment made for coverage under a qualified long-term care insurance contract if such payment is made as a charge against the cash surrender value of a life insurance contract or the cash value of an annuity contract.
 
 #### (3) Portion defined
 
@@ -348,7 +348,7 @@ Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted "appr
 
 Amendment by Pub. L. 109–280 applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, except as otherwise provided, see section 844(g)(1) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
-Amendment by section 844(f) of Pub. L. 109–280 effective as if included in section 321(a) of Pub. L. 104–191, see section 844(g)(5) of Pub. L. 109–280, set out as a note under section 72 of this title.
+Amendment by section 844(f) of Pub. L. 109–280 effective as if included in section 321(a) of Pub. L. 104–191,see section 844(g)(5) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
 #### Effective Date of 2004 Amendment
 

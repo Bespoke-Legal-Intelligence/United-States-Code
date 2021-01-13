@@ -12,9 +12,13 @@ The monetary limitation is removed.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 470 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coast Guard Graduate Maritime Operations Education
 

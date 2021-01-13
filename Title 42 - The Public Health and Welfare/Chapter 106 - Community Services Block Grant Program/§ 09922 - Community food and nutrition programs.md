@@ -34,7 +34,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (B) Competitive grants for local and statewide programs
 
-&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a)on a competitive basis to eligible agencies for local and statewide programs.
+&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a) on a competitive basis to eligible agencies for local and statewide programs.
 
 #### (C) Competitive grants for nationwide programs
 

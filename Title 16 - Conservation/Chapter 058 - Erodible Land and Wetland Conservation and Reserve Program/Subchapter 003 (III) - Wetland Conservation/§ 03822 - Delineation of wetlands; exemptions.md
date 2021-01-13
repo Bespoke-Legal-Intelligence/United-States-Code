@@ -20,7 +20,7 @@
 
 #### (4) Duration of certification
 
-&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long asthe area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
+&emsp;A final certification made under paragraph (3) shall remain valid and in effect as long as the area is devoted to an agricultural use or until such time as the person affected by the certification requests review of the certification by the Secretary.
 
 #### (5) Review of mapping on appeal
 
@@ -172,7 +172,7 @@ A person shall be afforded the right to appeal, under section 3843 <sup>1</sup>
 
 #### (i) Restoration
 
-Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
+Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible forsuch program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
@@ -232,7 +232,7 @@ Subsec. (g). Pub. L. 104–127, §322(e), which directed substitution of "person
 
 Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out heading and text of former subsec. (h). Text consisted of pars. (1) to (3) relating to good faith exemptions to ineligibility under section 3821 of this title and graduated sanctions.
 
-Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end "or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation ofwetland values in the same general area of the local watershed as the converted wetland".
+Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end "or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland".
 
 Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 

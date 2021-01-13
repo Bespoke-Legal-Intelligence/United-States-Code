@@ -6,7 +6,7 @@
 
 &emsp;(2) award to a substantially prevailing party defending against any such claim the cost of suit attributable to such claim, including a reasonable attorney's fee, if the claim, or the claimant's conduct during the litigation of the claim, was frivolous, unreasonable, without foundation, or in bad faith.
 
-(b) The award made under subsection (a) may be offset in whole or in part by an award in favorof any other party for any part of the cost of suit, including a reasonable attorney's fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
+(b) The award made under subsection (a) may be offset in whole or in part by an award in favor of any other party for any part of the cost of suit, including a reasonable attorney's fee, attributable to conduct during the litigation by any prevailing party that the court finds to be frivolous, unreasonable, without foundation, or in bad faith.
 
 (c) Subsections (a) and (b) shall not apply with respect to any person who—
 

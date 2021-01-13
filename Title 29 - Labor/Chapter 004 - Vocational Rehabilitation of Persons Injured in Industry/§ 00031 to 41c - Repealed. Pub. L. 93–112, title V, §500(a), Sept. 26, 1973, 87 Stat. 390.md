@@ -12,7 +12,7 @@ Section 35, acts June 2, 1920, ch. 219, §5, 41 Stat. 736; June 30, 1932, ch. 32
 
 Section 36, acts June 2, 1920, ch. 219, §6, 41 Stat. 737; June 5, 1924, ch. 265, 43 Stat. 432; June 9, 1930, ch. 414, §4, 46 Stat. 526; June 30, 1932, ch. 324, §4, 47 Stat. 450; July 6, 1943, ch. 190, §1, 57 Stat. 378; Aug. 3, 1954, ch. 655, §2, 68 Stat. 658, related to method of computing and making payments.
 
-Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 644, repealed section 36 of this title, insofar as section 36 authorized an appropriation to finance the operation of the Federal Board for Vocational Education, and insofar as it provided for certain salary restrictions.
+Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 644, repealed section 36 of this title, insofar as section 36 authorized an appropriation to finance the operation ofthe Federal Board for Vocational Education, and insofar as it provided for certain salary restrictions.
 
 Section 37, acts June 2, 1920, ch. 219, §7, 41 Stat. 737; July 6, 1943, ch. 190, §1, 57 Stat. 378; Aug. 3, 1954, ch. 655, §2, 68 Stat. 658; Aug. 28, 1957, Pub. L. 85–198, §2, 71 Stat. 474; Nov. 8, 1965, Pub. L. 89–333, §§5(b), 7, 12(b)(1), 79 Stat. 1290, 1291, 1293; July 7, 1968, Pub. L. 90–391, §9, 82 Stat. 301, related to administration, providing in: subsec. (a) general provisions; subsec. (b) for rules and regulations; subsec. (c) for research and dissemination of information; subsec. (d) for authorization of appropriations; and subsec. (e) for evaluation of vocational rehabilitation program.
 
@@ -126,6 +126,8 @@ On enactment of the Rehabilitation Act of 1973, such former provisions were cove
 | 41b(f) | 772(a), 774 |
 | 41c | 721(a)(4) |
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective 90 days after Sept. 26, 1973, see section 500(a) of Pub. L. 93–112, which is classified to section 790(a) of this title.
@@ -144,7 +146,7 @@ Act Aug. 3, 1954, ch. 655, §3, 68 Stat. 662, provided that materials which the 
 
 #### Homebound Physically Handicapped Individuals
 
-Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results ofsuch study, together with such recommendations as may be desirable.
+Act Aug. 3, 1954, ch. 655, §7, 68 Stat. 665, required the Secretary of Health, Education, and Welfare to make a thorough study of existing programs for teaching and training handicapped persons, commonly known as shut-ins, whose disabilities confine them to their homes or beds, for the purpose of ascertaining whether additional or supplementary programs or services are necessary, particularly in rural areas, in order to provide adequate general ameliorative and vocational training for such handicapped persons, and provided that the Secretary shall report to the Congress not later than six months after Aug. 3, 1954, the results of such study, together with such recommendations as may be desirable.
 
 #### State Compliance With Chapter
 

@@ -6,7 +6,7 @@ As provided in section 701 <sup>1</sup> of title 14, the Coast Guard Reserve is
 
 #### References in Text
 
-Section 701 of title 14, referred to in text, was redesignated section 3701 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 701 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignatedby Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 701 of title 14, referred to in text, was redesignated section 3701 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 701 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b)(2), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter "1" in chapter analysis) of title 14.
 

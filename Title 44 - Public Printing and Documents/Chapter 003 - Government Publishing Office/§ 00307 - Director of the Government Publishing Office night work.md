@@ -8,9 +8,13 @@ The Director of the Government Publishing Office shall cause the public printing
 
 Based on 44 U.S. Code, 1964 ed., §42 (Jan. 12, 1895, ch. 23, §47, 28 Stat. 607).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c), substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,6 +4,8 @@ Upon the determination that any irrigation project is practicable, the Secretary
 
 (June 17, 1902, ch. 1093, §4, 32 Stat. 389; May 10, 1956, ch. 256, 70 Stat. 151.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of part of section 4 of act June 17, 1902. Remainder of such section 4 is classified to section 461 of this title.
@@ -11,6 +13,8 @@ Section is comprised of part of section 4 of act June 17, 1902. Remainder of suc
 #### Amendments
 
 <b>1956</b>—Act May 10, 1956, substituted a period for the comma after "work" in proviso, and struck out "and no Mongolian labor shall be employed thereon."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Section as Unaffected by Submerged Lands Act
 

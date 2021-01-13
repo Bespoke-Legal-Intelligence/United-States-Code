@@ -34,6 +34,8 @@ This section shall enter into effect on October 1, 1984.
 
 <i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
@@ -43,6 +45,8 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 <b>1998</b>—Subsecs. (b), (d). Pub. L. 105–277 substituted "Board" for "Agency".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–411 substituted "replaced (less" for "(replaced less".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

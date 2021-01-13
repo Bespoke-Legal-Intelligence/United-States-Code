@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) exterior doors, and
 
-&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if suchroof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
 #### (4) Manufactured homes included
 
@@ -118,11 +118,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-&emsp;&emsp;(C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
+&emsp;&emsp;(C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009, and
 
-&emsp;&emsp;(D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
-
-&emsp;&emsp;(E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
+&emsp;&emsp;(D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent.
 
 #### (4) Qualified natural gas, propane, or oil furnace or hot water boiler
 
@@ -131,10 +129,6 @@ For purposes of this section—
 #### (5) Advanced main air circulating fan
 
 &emsp;The term "advanced main air circulating fan" means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
-
-#### (6) Biomass fuel
-
-&emsp;The term "biomass fuel" means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.
 
 #### (e) Special rules
 
@@ -160,7 +154,7 @@ For purposes of this section—
 
 #### (f) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditurewith respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (g) Termination
 
@@ -168,15 +162,21 @@ This section shall not apply with respect to any property placed in service—
 
 &emsp;(1) after December 31, 2007, and before January 1, 2009, or
 
-&emsp;(2) after December 31, 2020.
+&emsp;(2) after December 31, 2021.
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §§141(a), 148(b)(3), Dec. 27, 2020, 134 Stat. 3054, 3055.)
 
 #### References in Text
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(3)(E). Pub. L. 116–260, §148(b)(3)(A), struck out subpar. (E) which read as follows: "a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent."
+
+Subsec. (d)(6). Pub. L. 116–260, §148(b)(3)(B), struck out par. (6). Text read as follows: "The term 'biomass fuel' means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers."
+
+Subsec. (g)(2). Pub. L. 116–260, §141(a), substituted "December 31, 2021" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (d)(3)(A). Pub. L. 116–94, §123(b)(1), substituted "a Uniform Energy Factor of at least 2.2" for "an energy factor of at least 2.0".
 
@@ -248,7 +248,7 @@ Subsec. (d)(3)(B). Pub. L. 111–5, §1121(b)(1), amended subpar. (B) generally.
 
 Subsec. (d)(3)(C). Pub. L. 111–5, §1121(b)(2), substituted "2009" for "2006".
 
-Subsec. (d)(3)(D). Pub. L. 111–5, §1121(b)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: "a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and".
+Subsec. (d)(3)(D). Pub. L. 111–5, §1121(b)(3), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "a natural gas, propane, or oil water heater which has an energy factor of at least 0.80 or a thermal efficiency of at least 90 percent, and".
 
 Subsec. (d)(3)(E). Pub. L. 111–5, §1121(b)(4), inserted ", as measured using a lower heating value" after "75 percent".
 
@@ -287,6 +287,12 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 <b>2007</b>—Subsec. (c)(3). Pub. L. 110–172 substituted "part 3280" for "section 3280".
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §141(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2020."
+
+Pub. L. 116–260, div. EE, title I, §148(c)(2), Dec. 27, 2020, 134 Stat. 3056, provided that: "The amendments made by subsection (b) \[amending this section and section 25D of this title\] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

@@ -86,7 +86,7 @@ Economic analysis.—The Administrator shall not be required to prepare an econo
 
 "(d)
 
-Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Code of Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
+Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Codeof Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
 
 #### Cape Town Treaty; Findings and Purpose
 

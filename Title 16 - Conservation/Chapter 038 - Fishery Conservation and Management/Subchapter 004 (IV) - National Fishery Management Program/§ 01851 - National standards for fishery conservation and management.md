@@ -48,7 +48,7 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, §106(b), added pars. (8) to (10).
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: "This Act \[repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the 'Atlantic Striped Bass Conservation Act Amendments of 1997'."
+Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: "This Act \[repealing section 757g of thistitle, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section\] may be cited as the 'Atlantic Striped Bass Conservation Act Amendments of 1997'."
 
 #### Limitation on Funding for Fishery Management Plan for the Reef Fish Resources of the Gulf of Mexico
 
@@ -214,7 +214,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(3) the authority to manage commercial fisheries in Federal waters lies with the regional councils and the Secretary of Commerce (hereafter in this section 'Secretary') pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\] (hereafter in this section 'Magnuson-Stevens Act'); and
 
-&emsp;"(4) the Secretary of Commerce shall comply with the Magnuson-Stevens Act when using fishery management plans and regulations to implement the decisions made pursuant to findings under the Endangered Species Act \[of 1973, 16 U.S.C. 1531 et seq.\], andshall utilize the processes and procedures of the regional fishery management councils as required by the Magnuson-Stevens Act.
+&emsp;"(4) the Secretary of Commerce shall comply with the Magnuson-Stevens Act when using fishery management plans and regulations to implement the decisions made pursuant to findings under the Endangered Species Act \[of 1973, 16 U.S.C. 1531 et seq.\], and shall utilize the processes and procedures of the regional fishery management councils as required by the Magnuson-Stevens Act.
 
 "(b)
 
@@ -226,7 +226,7 @@ Preparation of Fishery Management Plans and Regulations To Implement Protective 
 
 &emsp;"(1) The Secretary of Commerce shall submit to the North Pacific Council proposed conservation and management measures to implement the Alternatives contained in the November 30, 2000 Biological Opinion for the Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries. The North Pacific Council shall prepare and transmit to the Secretary a fishery management plan amendment or amendments to implement such Alternatives that are consistent with the Magnuson-Stevens Act (including requirements in such Act relating to best available science, bycatch reduction, impacting on fishing communities, the safety of life at sea, and public comment and hearings.)
 
-&emsp;"(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fully effective no later than January 1, 2002, as revised if necessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3).
+&emsp;"(2) The Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in a manner consistent with the Alternatives contained in the Biological Opinion, except as otherwise provided in this section. The Alternatives shall become fullyeffective no later than January 1, 2002, as revised if necessary and appropriate based on the independent scientific review referred to in subsection (b) and other new information, and shall be phased in in 2001 as described in paragraph (3).
 
 &emsp;"(3) The 2001 Bering Sea/Aleutian Islands and Gulf of Alaska groundfish fisheries shall be managed in accordance with the fishery management plan and Federal regulations in effect for such fisheries prior to July 15, 2000, including—
 
@@ -294,9 +294,11 @@ Pub. L. 105–277, div. A, §101(b) \[title VI, §617\], Oct. 21, 1998, 112 Stat
 
 "(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
 
-"(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in thisAct \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States."
+"(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in this Act \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States."
 
 #### Bering Sea Pollock Fishery
+
+Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8434, Jan. 1, 2021, 134 Stat. 4735, provided that: "Notwithstanding section 208(g)(5) of the American Fisheries Act (Public Law 105–277; 16 U.S.C. 1851 note), a vessel eligible under section 208(e)(21) of such Act that is replaced under section 208(g) of such Act shall be subject to a sideboard restriction catch limit of zero metric tons in the Bering Sea and Aleutian Islands and in the Gulf of Alaska unless that vessel is also a replacement vessel under section 679.4(o)(4) of title 50, Code of Federal Regulations, in which case such vessel shall not be eligible to be a catcher/processor under section 206(b)(2) of such Act."
 
 Pub. L. 108–199, div. B, title VIII, §803, Jan. 23, 2004, 118 Stat. 110, provided that:
 
@@ -390,7 +392,7 @@ Federal Appropriation.—Under the authority of section 312(c)(1)(B) of the Magn
 
 Payments.—Subject to the availability of appropriations for the cost of the direct loan under subsection (a) and funds under subsection (c), the Secretary shall pay by not later than December 31, 1998—
 
-&emsp;"(1) up to $90,000,000 to the owner or owners of the catcher/processors listed in paragraphs (1) through (9) of section 209, in such manner as the owner or owners, with the concurrence of the Secretary, agree, except that—
+&emsp;"(1) up to $90,000,000 to the owner or owners of the catcher/processors listed in paragraphs (1) through (9)of section 209, in such manner as the owner or owners, with the concurrence of the Secretary, agree, except that—
 
 &emsp;&emsp;"(A) the portion of such payment with respect to the catcher/processor listed in paragraph (1) of section 209 shall be made only after the owner submits a written certification acceptable to the Secretary that neither the owner nor a purchaser from the owner intends to use such catcher/processor outside of the exclusive economic zone of the United States to harvest any stock of fish (as such term is defined in section 3 of the Magnuson-Stevens Act (16 U.S.C. 1802)) that occurs within the exclusive economic zone of the United States; and
 
@@ -586,7 +588,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Rebuild or replace.—Notwithstanding any limitation to the contrary on replacing, rebuilding, or lengthening vessels or transferring permits or licenses to a replacement vessel contained in sections 679.2 and 679.4 of title 50, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2010 \[Oct. 15, 2010\] and except as provided in paragraph (4), the owner of a vessel eligible under subsection (a), (b), (c), (d), or (e), in order to improve vessel safety and operational efficiencies (including fuel efficiency), may rebuild or replace that vessel (including fuel efficiency) with a vessel documented with a fisheryendorsement under section 12113 of title 46, United States Code.
+Rebuild or replace.—Notwithstanding any limitation to the contrary on replacing, rebuilding, or lengthening vessels or transferring permits or licenses to a replacement vessel contained in sections 679.2 and 679.4 of title 50, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2010 \[Oct. 15, 2010\] and except as provided in paragraph (4), the owner of a vessel eligible under subsection (a), (b), (c), (d), or (e), in order to improve vessel safety and operational efficiencies (including fuel efficiency), may rebuild or replace that vessel (including fuel efficiency) with a vessel documented with a fishery endorsement under section 12113 of title 46, United States Code.
 
 &emsp;&emsp;"(B)
 
@@ -598,7 +600,7 @@ Transfer of permits and licenses.—Each fishing permit and license held by the 
 
 &emsp;"(2)
 
-Recommendations of north pacific fishery management council.—The North Pacific Fishery Management Council may recommend for approval by the Secretary such conservation and management measures, including size limits and measures to control fishing capacity, in accordance with the Magnuson-Stevens Act \[16 U.S.C. 1801 et seq.\] as it considers necessary to ensure that this subsection does not diminish the effectiveness of fishery management plans of the Bering Sea and Aleutian Islands Management Area or the Gulf of Alaska.
+Recommendations of north pacific fishery management council.—The North Pacific Fishery Management Council may recommend for approval by the Secretary such conservation and management measures, including size limits and measures to control fishing capacity, in accordance with the Magnuson-Stevens Act \[16 U.S.C. 1801 et seq.\] as it considers necessary to ensure that this subsection does not diminish the effectiveness of fishery management plansof the Bering Sea and Aleutian Islands Management Area or the Gulf of Alaska.
 
 &emsp;"(3)
 
@@ -682,7 +684,7 @@ Eligibility Not a Right.—Eligibility under this section shall not be construed
 
 Public Notice.—(1) Any contract implementing a fishery cooperative under section 1 of the Act of June 25, 1934 (15 U.S.C. 521) in the directed pollock fishery and any material modifications to any such contract shall be filed not less than 30 days prior to the start of fishing under the contract with the North Pacific Council and with the Secretary, together with a copy of a letter from a party to the contract requesting a business review letter on the fishery cooperative from the Department of Justice and any response to such request. Notwithstanding section 402 of the Magnuson-Stevens Act (16 U.S.C. 1881a) or any other provision of law, but taking into account the interest of parties to any such contract in protecting the confidentiality of proprietary information, the North Pacific Council and Secretary shall—
 
-&emsp;"(A) make available to the public such information about the contract, contract modifications, or fishery cooperative the North Pacific Council and Secretarydeem appropriate, which at a minimum shall include a list of the parties to the contract, a list of the vessels involved, and the amount of pollock and other fish to be harvested by each party to such contract; and
+&emsp;"(A) make available to the public such information about the contract, contract modifications, or fishery cooperative the North Pacific Council and Secretary deem appropriate, which at a minimum shall include a list of the parties to the contract, a list of the vessels involved, and the amount of pollock and other fish to be harvested by each party to such contract; and
 
 &emsp;"(B) make available to the public in such manner as the North Pacific Council and Secretary deem appropriate information about the harvest by vessels under a fishery cooperative of all species (including bycatch) in the directed pollock fishery on a vessel-by-vessel basis.
 
@@ -696,7 +698,7 @@ Catcher vessel cooperatives.—Effective January 1, 2000, upon the filing of a c
 
 &emsp;&emsp;"(A) is signed by the owners of 80 percent or more of the qualified catcher vessels that delivered pollock for processing by a shoreside processor in the directed pollock fishery in the year prior to the year in which the fishery cooperative will be in effect; and
 
-&emsp;&emsp;"(B) specifies, except as provided in paragraph (6), that such catcher vessels will deliver pollock in the directed pollock fishery only to such shoreside processor during the year in which the fishery cooperative will be in effect and that such shoreside processor has agreed to process such pollock,
+&emsp;&emsp;"(B) specifies, except as provided in paragraph (6), that such catcher vessels will deliver pollock in the directed pollock fishery only to such shoresideprocessor during the year in which the fishery cooperative will be in effect and that such shoreside processor has agreed to process such pollock,
 
 &nbsp;&nbsp;the Secretary shall allow only such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) to harvest the aggregate percentage of the directed fishing allowance under section 206(b)(1) in the year in which the fishery cooperative will be in effect that is equivalent to the aggregate total amount of pollock harvested by such catcher vessels (and by such catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) in the directed pollock fishery for processing by the inshore component during 1995, 1996, and 1997 relative to the aggregate total amount of pollock harvested in the directed pollock fishery for processing by the inshore component during such years and shall prevent such catcher vessels (and catcher vessels whose owners voluntarily participate pursuant to paragraph (2)) from harvesting in aggregate in excess of such percentage of such directed fishing allowance.
 
@@ -758,7 +760,7 @@ Processing.—Effective January 1, 2000, the authority in section 1 of the Act o
 
 &emsp;"(2)
 
-Voluntary participation.—Any contract implementing a fishery cooperative described in paragraph (1) must allow the owners of any other catcher vessels eligible under section 208(c) to enter such contract after it is filed and before the calendar year in which fishing will begin under the same terms and conditions as the owners of the catcher vessels who entered into such contract upon filing.
+Voluntary participation.—Any contract implementing a fishery cooperative described in paragraph (1) must allow the owners of any other catcher vessels eligible under section 208(c) to enter such contract after it is filed and before the calendar year in which fishing will begin under the same terms andconditions as the owners of the catcher vessels who entered into such contract upon filing.
 
 "(e)
 
@@ -832,7 +834,7 @@ Gulf of alaska.—The catcher/processors eligible under paragraphs (1) through (
 
 &emsp;"(5)
 
-Fisheries other than north pacific.—The catcher/processors eligible under paragraphs (1) through (20) of section 208(e) and motherships eligible under section 208(d) are hereby prohibited from harvesting fish in any fishery under the authority of any regional fishery management council established under section 302(a) of the Magnuson-Stevens Act (16 U.S.C. 1852(a)) other than the North Pacific Council, except for the Pacific whiting fishery, and from processing fish in any fishery under the authority of any such regional fishery management council other than the North Pacific Council, except in the Pacific whiting fishery, unless the catcher/processor or mothership is authorized to harvest or process fish under a fishery management plan recommended by the regional fishery management council of jurisdiction and approved by the Secretary.
+Fisheries other than north pacific.—The catcher/processors eligible under paragraphs (1) through (20) of section 208(e) and motherships eligible under section 208(d) are hereby prohibited from harvesting fish in any fishery under the authority of any regional fishery management council establishedunder section 302(a) of the Magnuson-Stevens Act (16 U.S.C. 1852(a)) other than the North Pacific Council, except for the Pacific whiting fishery, and from processing fish in any fishery under the authority of any such regional fishery management council other than the North Pacific Council, except in the Pacific whiting fishery, unless the catcher/processor or mothership is authorized to harvest or process fish under a fishery management plan recommended by the regional fishery management council of jurisdiction and approved by the Secretary.
 
 &emsp;"(6)
 
@@ -878,7 +880,7 @@ Fisheries other than north pacific.—
 
 "(d)
 
-Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (16 U.S.C. 1881a), the North Pacific Council may recommend and the Secretary may approve, under such terms and conditions as the North Pacific Council and Secretary deem appropriate, the public disclosure of any information fromthe groundfish fisheries under the authority of such Council that would be beneficial in the implementation of section 301(a)(9) or section 303(a)(11) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(9) and 1853(a)(11)).
+Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (16 U.S.C. 1881a), the North Pacific Council may recommend and the Secretary may approve, under such terms and conditions as the North Pacific Council and Secretary deem appropriate, the public disclosure of any information from the groundfish fisheries under the authority of such Council that would be beneficial in the implementation of section 301(a)(9) or section 303(a)(11) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(9) and 1853(a)(11)).
 
 "(e)
 

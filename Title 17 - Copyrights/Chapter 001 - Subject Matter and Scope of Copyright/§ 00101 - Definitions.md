@@ -28,7 +28,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A work is "created" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work.
 
-&emsp;A "derivative work" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent anoriginal work of authorship, is a "derivative work".
+&emsp;A "derivative work" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or othermodifications which, as a whole, represent an original work of authorship, is a "derivative work".
 
 &emsp;A "device", "machine", or "process" is one now known or later developed.
 
@@ -82,7 +82,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;"Pictorial, graphic, and sculptural works" include two-dimensional and three-dimensional works of fine, graphic, and applied art, photographs, prints and art reproductions, maps, globes, charts, diagrams, models, and technical drawings, including architectural plans. Such works shall include works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned; the design of a useful article, as defined in this section, shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.
 
-&emsp;For purposes of section 513, a "proprietor" is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunications company, or any other such audio or audiovisual service or programmer now known or asmay be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
+&emsp;For purposes of section 513, a "proprietor" is an individual, corporation, partnership, or other entity, as the case may be, that owns an establishment or a food service or drinking establishment, except that no owner or operator of a radio or television station licensed by the Federal Communications Commission, cable system or satellite carrier, cable or satellite carrier service or programmer, provider of online services or network access or the operator of facilities therefor, telecommunicationscompany, or any other such audio or audiovisual service or programmer now known or as may be developed in the future, commercial subscription music service, or owner or operator of any other transmission service, shall under any circumstances be deemed to be a proprietor.
 
 &emsp;A "pseudonymous work" is a work on the copies or phonorecords of which the author is identified under a fictitious name.
 
@@ -142,7 +142,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 > &emsp;A work of visual art does not include—
 
-&emsp;&emsp;(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art,motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
+&emsp;&emsp;(A)(i) any poster, map, globe, chart, technical drawing, diagram, model, applied art, motion picture or other audiovisual work, book, magazine, newspaper, periodical, data base, electronic information service, electronic publication, or similar publication;
 
 &emsp;&emsp;(ii) any merchandising item or advertising, promotional, descriptive, covering, or packaging material or container;
 
@@ -177,6 +177,8 @@ Except as otherwise provided in this title, as used in this title, the following
 #### house report no. 94–1476
 
 The significant definitions in this section will be mentioned or summarized in connection with the provisions to which they are most relevant.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -258,6 +260,8 @@ Pub. L. 100–568, §4(a)(1)(A), in definition of "Pictorial, graphic, and sculp
 
 <b>1980</b>—Pub. L. 96–517 inserted definition of "computer program".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
@@ -308,7 +312,7 @@ Pub. L. 105–298, title II, §207, Oct. 27, 1998, 112 Stat. 2834, provided that
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–39, §6, Nov. 1, 1995, 109 Stat. 349, provided that: "This Act \[see Short Title of 1995 Amendmentnote below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act."
+Pub. L. 104–39, §6, Nov. 1, 1995, 109 Stat. 349, provided that: "This Act \[see Short Title of 1995 Amendment note below\] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act \[Nov. 1, 1995\], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act."
 
 #### Effective Date of 1992 Amendment
 
@@ -342,6 +346,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. Q, title II, §212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: "This section \[enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title\] may be cited as the 'Copyright Alternative in Small-Claims Enforcement Act of 2020' or the 'CASE Act of 2020'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–94, div. P, title XI, §1101, Dec. 20, 2019, 133 Stat. 3201, provided that: "This title \[amending sections 119 and 501 of this title and enacting provisions set out as a note under section 119 of this title\] may be cited as the 'Satellite Television Community Protection and Promotion Act of 2019'."
@@ -372,7 +380,7 @@ Pub. L. 111–36, §1, June 30, 2009, 123 Stat. 1926, provided that: "This Act \
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: "This Act \[amending section 114 of this title\] may be cited as the 'Webcaster Settlement Act of 2008'."
+Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: "This Act \[amending section 114 of thistitle\] may be cited as the 'Webcaster Settlement Act of 2008'."
 
 Pub. L. 110–434, §1(a), Oct. 16, 2008, 122 Stat. 4972, provided that: "This Act \[amending section 1301 of this title\] may be cited as the 'Vessel Hull Design Protection Amendments of 2008'."
 
@@ -382,7 +390,7 @@ Pub. L. 109–303, §1, Oct. 6, 2006, 120 Stat. 1478, provided that: "This Act \
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18,Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
+Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: "This Act \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179l of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Family Entertainment and Copyright Act of 2005'."
 
 Pub. L. 109–9, title I, §101, Apr. 27, 2005, 119 Stat. 218, provided that: "This title \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Artists' Rights and Theft Prevention Act of 2005' or the 'ART Act'."
 
@@ -426,7 +434,7 @@ Pub. L. 105–304, title V, §501, Oct. 28, 1998, 112 Stat. 2905, provided that:
 
 Pub. L. 105–298, title I, §101, Oct. 27, 1998, 112 Stat. 2827, provided that: "This title \[amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section and section 304 of this title\] may be referred to as the 'Sonny Bono Copyright Term Extension Act'."
 
-Pub. L. 105–298, title II, §201, Oct. 27, 1998, 112 Stat. 2830, provided that: "This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Fairness In Music Licensing Act of 1998'."
+Pub. L. 105–298, title II, §201, Oct. 27, 1998, 112 Stat. 2830, provided that: "This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out asnotes under this section\] may be cited as the 'Fairness In Music Licensing Act of 1998'."
 
 #### Short Title of 1995 Amendment
 
@@ -438,7 +446,7 @@ Pub. L. 103–369, §1, Oct. 18, 1994, 108 Stat. 3477, provided that: "This Act 
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118,119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
+Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: "This Act \[amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8\] may be cited as the 'Copyright Royalty Tribunal Reform Act of 1993'."
 
 #### Short Title of 1992 Amendment
 

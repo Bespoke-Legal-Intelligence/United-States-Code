@@ -60,11 +60,15 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 In subsection (c), the words "Administrator of General Services" are substituted for "the head of any Federal agency which exercises authority over such building" for clarity. The words "of the United States" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in section catchline and subsec. (a).
 
 <b>1988</b>—Subsecs. (c), (d). Pub. L. 100–545 redesignated subsec. (d) as (c) and struck out former subsec. (c) which directed Administrator of General Services to provide Comptroller General with space in General Accounting Office Building.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

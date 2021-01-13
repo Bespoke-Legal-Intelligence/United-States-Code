@@ -6,7 +6,7 @@
 
 &emsp;Each eligible agency shall use funds made available under section 3302(a)(2) of this title for the following adult education and literacy activities to develop or enhance the adult education system of the State or outlying area:
 
-&emsp;&emsp;(A) The alignment of adult education and literacy activities with other core programsand one-stop partners, including eligible providers, to implement the strategy identified in the unified State plan under section 3112 of this title or the combined State plan under section 3113 of this title, including the development of career pathways to provide access to employment and training services for individuals in adult education and literacy activities.
+&emsp;&emsp;(A) The alignment of adult education and literacy activities with other core programs and one-stop partners, including eligible providers, to implement the strategy identified in the unified State plan under section 3112 of this title or the combined State plan under section 3113 of this title, including the development of career pathways to provide access to employment and training services for individuals in adult education and literacy activities.
 
 &emsp;&emsp;(B) The establishment or operation of high quality professional development programs to improve the instruction provided pursuant to local activities required under section 3321(b) of this title, including instruction incorporating the essential components of reading instruction as such components relate to adults, instruction related to the specific needs of adult learners, instruction provided by volunteers or by personnel of a State or outlying area, and dissemination of information about models and promising practices related to such programs.
 
@@ -73,6 +73,8 @@ In carrying out this section, eligible agencies shall collaborate where possible
 Whenever a State or outlying area implements any rule or policy relating to the administration or operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
 
 (Pub. L. 113–128, title II, §223, July 22, 2014, 128 Stat. 1615.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -44,6 +44,8 @@ Division C—Procurement
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §864(b)(2), Dec. 31, 2011, 125 Stat. 1524, added item for chapter 12.

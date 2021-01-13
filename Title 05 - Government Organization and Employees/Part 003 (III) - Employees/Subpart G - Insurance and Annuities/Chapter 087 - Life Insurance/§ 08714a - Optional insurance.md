@@ -40,6 +40,8 @@
 
 (Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986,100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, \[div. A\], title XI, §1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, §5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
@@ -82,6 +84,8 @@ Subsec. (d). Pub. L. 95–583, §1(c)(3), struck out "or 8706(c)" after "section
 
 Subsec. (e). Pub. L. 95–454 substituted "Office" for "Commission".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–311 effective on the first day of the first applicable pay period beginning on or after Oct. 30, 1998, see section 11(d) of Pub. L. 105–311, set out as a note under section 8701 of this title.
@@ -110,7 +114,7 @@ Pub. L. 90–206, title IV, §405(b), Dec. 16, 1967, 81 Stat. 648, provided that
 
 "(1) The amendments made by section 404 of this Act \[enacting this section and amending analysis preceding section 8701 of this title\] shall take effect on the first day of the first pay period which begins on or after the one hundred and eightieth day following the date of enactment \[Dec. 16, 1967\], or on any earlier date that the Civil Service Commission may prescribe, which is at least sixty days after the date of enactment \[Dec. 16, 1967\]. In the case of an employee who dies during the period beginning on the date of enactment \[Dec. 16, 1967\] and ending on the effective date prescribed by or pursuant to this subsection, or during the sixty days immediately following such period if the Commission determines that he did not have a reasonable opportunity to elect the optional insurance made available by section 404, the insurance of such employee shall be determined as if the amendments made by section 404 had been in effect on the date of such death, and the employee had elected to receive the maximum amount of optional insurance available to him under such amendments. An employee who retires during the period beginning on the date of enactment and ending on the effective date prescribed by or pursuant to this subsection shall have an opportunity to elect the optional insurance made available by section 404.
 
-"(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to the sixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employee shall not be considered to have commenced prior to the expiration of sixty days following such effective date."
+"(2) In the case of an employee in the service on the effective date prescribed by or pursuant to this subsection, (i) the period during which such employee may elect to receive optional insurance under the amendment made by section 404 shall not expire prior to the sixtieth day after such effective date, and (ii) for the purpose of determining the amount of insurance to be continued after retirement, the period during which such optional insurance was available to such employeeshall not be considered to have commenced prior to the expiration of sixty days following such effective date."
 
 #### Retroactive Effect
 

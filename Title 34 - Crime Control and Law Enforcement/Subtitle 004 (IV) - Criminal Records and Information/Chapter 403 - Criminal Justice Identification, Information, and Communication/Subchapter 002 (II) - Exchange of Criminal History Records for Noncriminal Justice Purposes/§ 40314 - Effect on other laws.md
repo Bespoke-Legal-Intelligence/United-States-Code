@@ -34,13 +34,15 @@ The Council shall not be considered to be a Federal advisory committee for purpo
 
 #### (e) Members of Council not Federal officers or employees
 
-Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
+Members of the Council (other than a member from the FBI or any at-large member who maybe a Federal official or employee) shall not, by virtue of such membership, be deemed—
 
 &emsp;(1) to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
 
 &emsp;(2) to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.
 
 (Pub. L. 105–251, title II, §215, Oct. 9, 1998, 112 Stat. 1875.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

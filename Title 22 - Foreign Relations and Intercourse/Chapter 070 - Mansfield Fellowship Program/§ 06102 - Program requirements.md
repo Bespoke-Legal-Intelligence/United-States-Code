@@ -30,15 +30,17 @@ The program established under this chapter shall comply with the following requi
 
 &emsp;(7) The Center shall select fellows based solely on merit. The Center shall make positive efforts to recruit candidates reflecting the cultural, racial, and ethnic diversity of the United States.
 
-&emsp;(8) The Center shall assist, to the extent possible, any fellow who is not a detailee in finding employment in the Federal Government if such fellow was not able, at the end of the fellowship, to be reemployed in the agency from which he or she separated to become a fellow.
+&emsp;(8) The Center shall assist, to the extent possible, any fellow who is not a detailee in finding employment in the Federal Government ifsuch fellow was not able, at the end of the fellowship, to be reemployed in the agency from which he or she separated to become a fellow.
 
 &emsp;(9) No fellow may engage in any intelligence or intelligence-related activity on behalf of the United States Government.
 
 &emsp;(10) The financial records of the Center shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audit shall be conducted at the place or places where the financial records of the Center are normally kept. All books, financial records, files, and other papers, things, and property belonging to or in use by the Center and necessary to facilitate the audit shall be made available to the person or persons conducting the audit, and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
 
-&emsp;(11) The Center shall provide a report of the audit to the Director of the United States Information Agency no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor's opinion of those statements, as are necessary to present fairly the Center's assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Center's income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The reportshall be produced in sufficient copies for the public.
+&emsp;(11) The Center shall provide a report of the audit to the Director of the United States Information Agency no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor's opinion of those statements, as are necessary to present fairly the Center's assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Center's income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
 
 (Pub. L. 103–236, title II, §253, Apr. 30, 1994, 108 Stat. 428.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

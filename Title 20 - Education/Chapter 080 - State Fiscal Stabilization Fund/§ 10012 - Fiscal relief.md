@@ -28,7 +28,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d), is 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–8 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary shall not grant a waiver or modification under this section unless the Secretary determines that the State or local educational agency receiving such waiver or modification will not provide for elementary and secondary education, for the fiscal year under consideration, a smaller percentage of the total revenues available to the State or local educational agency than the amount provided for such purpose in the preceding fiscal year."
+<b>2009</b>—Subsec. (c). Pub. L. 111–8 amended subsec. (c) generally. Prior to amendment, text read as follows:"The Secretary shall not grant a waiver or modification under this section unless the Secretary determines that the State or local educational agency receiving such waiver or modification will not provide for elementary and secondary education, for the fiscal year under consideration, a smaller percentage of the total revenues available to the State or local educational agency than the amount provided for such purpose in the preceding fiscal year."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (d),".</i>
 

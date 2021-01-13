@@ -26,11 +26,13 @@
 
 (Added Pub. L. 104–317, title V, §501(a), Oct. 19, 1996, 110 Stat. 3855.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Continuance of Position of Chief Judge
 
 Pub. L. 104–317, title V, §501(c), Oct. 19, 1996, 110 Stat. 3856, provided that:
 
-"(1) Notwithstanding the provisions of section 258(a) of title 28, United States Code (as added by subsection (a) of this section), the chief judge of the United States Court of International Trade who is in office on the day before the date of enactment of this Act \[Oct. 19, 1996\] shall continue to be such chief judge on or after such date until any one of the following events occurs:
+"(1) Notwithstanding the provisions of section 258(a) of title 28, United States Code (as added by subsection (a) of this section), the chief judge of the United StatesCourt of International Trade who is in office on the day before the date of enactment of this Act \[Oct. 19, 1996\] shall continue to be such chief judge on or after such date until any one of the following events occurs:
 
 &emsp;"(A) The chief judge is relieved of his duties under section 258(c) of title 28, United States Code.
 

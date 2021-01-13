@@ -4,6 +4,8 @@ On and after June 8, 1942, the Senate Office Building, and the employment of all
 
 (June 8, 1942, ch. 396, 56 Stat. 343; Aug. 2, 1946, ch. 753, title I, §102, title II, §224, 60 Stat. 814, 838; Pub. L. 111–145, §6(c)(2), Mar. 4, 2010, 124 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 174c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -13,6 +15,8 @@ Section was classified to section 174c of former Title 40, prior to the enactmen
 <b>2010</b>—Pub. L. 111–145 substituted "other than for the United States Capitol Police" for "other than for officers and privates of the Capitol Police" in two places.
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee on Rules".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1946 Amendment
 

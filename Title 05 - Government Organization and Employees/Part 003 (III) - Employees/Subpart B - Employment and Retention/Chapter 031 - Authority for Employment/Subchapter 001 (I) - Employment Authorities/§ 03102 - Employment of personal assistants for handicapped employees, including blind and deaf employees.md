@@ -62,6 +62,8 @@ In subsection (b), the word "may" is substituted for "is authorized" and the wor
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is classified to section 791 of Title 29, Labor, rather than to section 794 of Title 29 as shown in text.
@@ -74,7 +76,7 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (a)(2), is
 
 <b>1982</b>—Subsec. (b)(1)(C). Pub. L. 97–258 substituted "section 1342 of title 31" for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))".
 
-<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted"personal assistants for handicapped employees, including blind and" for "reading assistants for blind employees and interpreting assistants for", in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
+<b>1980</b>—Pub. L. 96–523 amended section generally and, among other changes, in section catchline substituted "personal assistants for handicapped employees, including blind and" for "reading assistants for blind employees and interpreting assistants for", in subsec. (a) substituted applicability to handicapped employees for applicability to blind and deaf employees omitted applicability to the government of the District of Columbia, in subsec. (b) substituted applicability to personal assistants for applicability to reading and interpreting assistants for blind and deaf employees, respectively, redesignated former subsec. (d) as (c) and made changes in phraseology, added subsec. (d), and redesignated former subsec. (c) as (e) and made changes in phraseology.
 
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted "Mayor" for "Commissioner".
 
@@ -89,6 +91,8 @@ Subsec. (c). Pub. L. 95–454, §302(a)(3), inserted "or deaf" after "blind".
 Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 <b>1968</b>—Subsec. (a)(2). Pub. L. 90–623 substituted "Commissioner" for "Board of Commissioners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

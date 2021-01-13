@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in promulgating regulations under paragraph (1), initial determinations shall be concluded by not later than the 45-day period beginning on the date the fiscal intermediary or the carrier, as the case may be, receives a claim for benefits from an individual as described in paragraph (1). Notice of such determination shall be mailed to the individual filing the claim before the conclusion of such 45-day period.
+&emsp;&emsp;Subject to subparagraph (B), in promulgating regulations under paragraph (1), initial determinations shall be concluded by not later than the 45-day period beginning on the date the fiscal intermediary or the carrier, as the case may be, receives a claim for benefits from an individual as described in paragraph (1). Notice of such determination shall be mailed to the individual filingthe claim before the conclusion of such 45-day period.
 
 #### (B) Clean claims
 
@@ -92,13 +92,13 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this titleshall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this section by a person that furnishes or supplies the individual, directly or indirectly, with services or items, solely on the basis that the person furnishes or supplies the individual with such a service or item.
+&emsp;&emsp;&emsp;Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this sectionby a person that furnishes or supplies the individual, directly or indirectly, with services or items, solely on the basis that the person furnishes or supplies the individual with such a service or item.
 
 #### (ii) Mandatory waiver of right to payment from beneficiary
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a process under which a provider of services or supplier that furnishes an item or service or an individual entitled to benefits under part A or enrolled under part B, or both, who has filed an appeal under paragraph (1) (other than an appeal filed under paragraph (1)(F)(i)) may obtain access to judicial review when a review entity (described in subparagraph (D)), on its own motion or at the request of the appellant, determines that the Departmental Appeals Board does not have the authority to decide the question of law or regulation relevant to the matters in controversy and that there is no material issue of fact in dispute. The appellant may make such request only once with respect to a question of law or regulation for a specific matter in dispute in a case of an appeal.
+&emsp;&emsp;The Secretary shall establish a process under which a provider of services or supplier that furnishes an item or service or an individual entitled to benefits under part A or enrolled under part B, or both, who hasfiled an appeal under paragraph (1) (other than an appeal filed under paragraph (1)(F)(i)) may obtain access to judicial review when a review entity (described in subparagraph (D)), on its own motion or at the request of the appellant, determines that the Departmental Appeals Board does not have the authority to decide the question of law or regulation relevant to the matters in controversy and that there is no material issue of fact in dispute. The appellant may make such request only once with respect to a question of law or regulation for a specific matter in dispute in a case of an appeal.
 
 #### (B) Prompt determinations
 
@@ -416,7 +416,7 @@
 
 #### (B) Survey
 
-&emsp;&emsp;Not less frequently than every 5 years, the Secretary shall conduct a survey of a valid sample of individuals entitled to benefits under this subchapter who have filed appeals of determinations under this section, providers of services, and suppliers to determine the satisfaction of such individuals or entities with the process for appeals of determinations provided for under this section and education and training provided by the Secretary with respect to that process. The Secretary shall submit to Congress a report describing the results of the survey, and shall include any recommendations for administrative or legislative actions that the Secretary determines appropriate.
+&emsp;&emsp;Not less frequently than every 5 years, the Secretary shall conduct a survey of a validsample of individuals entitled to benefits under this subchapter who have filed appeals of determinations under this section, providers of services, and suppliers to determine the satisfaction of such individuals or entities with the process for appeals of determinations provided for under this section and education and training provided by the Secretary with respect to that process. The Secretary shall submit to Congress a report describing the results of the survey, and shall include any recommendations for administrative or legislative actions that the Secretary determines appropriate.
 
 #### (f) Review of coverage determinations
 
@@ -480,9 +480,9 @@
 
 &emsp;&emsp;(A) there are no material issues of fact in dispute, and
 
-&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter,or that a regulation, determination, or ruling by the Secretary is invalid,
+&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter, or that a regulation, determination, or ruling by the Secretary is invalid,
 
-> &emsp;the moving party may seek review by a court of competent jurisdiction without filing a complaint under such paragraph and without otherwise exhausting other administrative remedies.
+> &emsp;the moving party may seek review by a court of competent jurisdiction without filing acomplaint under such paragraph and without otherwise exhausting other administrative remedies.
 
 #### (4) Pending national coverage determinations
 
@@ -692,7 +692,7 @@
 
 &emsp;Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–93, title II, §216(b)(2), Apr. 1, 2014, 128 Stat. 1060.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) \[title V, §§521(a), 522(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–93, title II, §216(b)(2), Apr. 1, 2014, 128 Stat. 1060.)
 
 #### Amendments
 
@@ -770,7 +770,7 @@ Subsec. (b)(3)(B). Pub. L. 100–203, §4082(a), substituted "section 553" for "
 
 Subsec. (b)(5). Pub. L. 100–203, §4082(b), added par. (5).
 
-Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: "Any institution or agency dissatisfied with any determination by the Secretary that it is not a provider of services, or with any determination described in section 1395cc(b)(2) of this title, shall be entitled to a hearing thereon by the Secretary (after reasonable notice and opportunity for hearing) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title."
+Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: "Any institution or agency dissatisfied with any determination by the Secretary that it is not a provider of services, or with any determination described in section 1395cc(b)(2) of this title, shall be entitled to a hearing thereon by the Secretary (after reasonable notice and opportunity for hearing) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decisionafter such hearing as is provided in section 405(g) of this title."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–509, §9341(a)(1)(A), inserted "or part B" after "amount of benefits under part A".
 
@@ -962,11 +962,11 @@ In general.—Not earlier than July 1, 2005, and not later than October 1, 2005,
 
 &emsp;"(2)
 
-Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare \& Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, theSecretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
+Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare \& Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, the Secretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
 
 &emsp;"(3)
 
-Geographic distribution.—The Secretary shall provide for an appropriate geographic distribution of administrative law judges performing the administrative law judge functions transferred under paragraph (1) throughout the United States to ensure timely access to such judges.
+Geographic distribution.—The Secretary shall provide for an appropriate geographic distribution ofadministrative law judges performing the administrative law judge functions transferred under paragraph (1) throughout the United States to ensure timely access to such judges.
 
 &emsp;"(4)
 

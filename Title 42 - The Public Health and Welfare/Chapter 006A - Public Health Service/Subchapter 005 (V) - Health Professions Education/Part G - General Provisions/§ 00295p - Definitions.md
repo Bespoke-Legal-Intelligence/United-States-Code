@@ -18,7 +18,7 @@ For purposes of this subchapter:
 
 Physician assistant education program.—The term "physician assistant education program" means an educational program in a public or private institution in a State that—
 
-&emsp;&emsp;(A) has as its objective the education of individuals who, upon completion of their studies in the program, be <sup>1</sup> qualified to provide primary care medical services with the supervision of a physician; and
+&emsp;&emsp;(A) has as its objective the education of individuals who, upon completion of theirstudies in the program, be <sup>1</sup> qualified to provide primary care medical services with the supervision of a physician; and
 
 &emsp;&emsp;(B) is accredited by the Accreditation Review Commission on Education for the Physician Assistant.
 
@@ -78,7 +78,7 @@ Physician assistant education program.—The term "physician assistant education
 
 &emsp;(12)
 
-Area health education center.—The term "area health education center" means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title, satisfies the requirements in section 294a(d)(1) of this title, and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care training programs, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
+Area health education center.—The term "area health education center" means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title, satisfies the requirements in section 294a(d)(1) of this title, and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care trainingprograms, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
 
 &emsp;(13)
 

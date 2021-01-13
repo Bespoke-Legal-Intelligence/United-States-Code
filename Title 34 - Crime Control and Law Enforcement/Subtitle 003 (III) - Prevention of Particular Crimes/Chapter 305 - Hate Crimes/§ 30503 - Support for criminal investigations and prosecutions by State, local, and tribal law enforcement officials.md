@@ -66,6 +66,8 @@
 
 (Pub. L. 111–84, div. E, §4704, Oct. 28, 2009, 123 Stat. 2837.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3716 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

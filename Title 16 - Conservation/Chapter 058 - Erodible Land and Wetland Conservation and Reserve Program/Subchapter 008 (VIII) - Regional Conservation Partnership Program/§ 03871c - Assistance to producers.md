@@ -96,7 +96,7 @@ A producer may receive financial or technical assistance to conduct eligible act
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (a), (b). Pub. L. 115–334, §2704(1), added subsecs. (a) and (b) and struck out former subsecs. (a)and (b) which authorized the Secretary to enter into contracts with producers to provide financial and technical assistance and set forth provisions relating to terms and conditions, respectively.
+<b>2018</b>—Subsecs. (a), (b). Pub. L. 115–334, §2704(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Secretary to enter into contracts with producers to provide financial and technical assistance and set forth provisions relating to terms and conditions, respectively.
 
 Subsec. (c)(1). Pub. L. 115–334, §2704(2)(A), substituted "Subject to section 3871d of this title, the Secretary may make payments to a producer" for "In accordance with statutory requirements of the covered programs involved, the Secretary may make payments to a producer".
 

@@ -28,6 +28,8 @@ Digital Audio Recording Media.—The royalty payment due under section 1003 for 
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4241; amended Pub. L. 103–198, §6(b)(1), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, §5(i)(1), Nov. 30, 2004, 118 Stat. 2368.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (a)(3), is Oct. 28, 1992. See Effective Date note set out under section 1001 of this title.
@@ -37,6 +39,8 @@ The effective date of this chapter, referred to in subsec. (a)(3), is Oct. 28, 1
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–419 substituted "Copyright Royalty Judges" for "Librarian of Congress" in two places.
 
 <b>1993</b>—Subsec. (a)(3). Pub. L. 103–198 substituted "Librarian of Congress" for "Copyright Royalty Tribunal" after "may petition the" and for "Tribunal" before "shall prospectively".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

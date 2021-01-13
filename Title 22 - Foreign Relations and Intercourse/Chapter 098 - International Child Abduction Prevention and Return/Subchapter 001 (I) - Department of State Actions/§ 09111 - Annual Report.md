@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than April 30 of each year, the Secretary of State shall submit to the appropriate congressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
+Not later than April 30 of each year, the Secretary of State shall submit to the appropriatecongressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
 
 #### (b) Contents
 
@@ -117,6 +117,8 @@ Each Annual Report shall also include—
 &emsp;&emsp;(C) shall indicate whether noneconomic policy options designed to resolve the pattern of noncompliance have reasonably been exhausted, including the consultations required under section 9123 of this title.
 
 (Pub. L. 113–150, title I, §101, Aug. 8, 2014, 128 Stat. 1813.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

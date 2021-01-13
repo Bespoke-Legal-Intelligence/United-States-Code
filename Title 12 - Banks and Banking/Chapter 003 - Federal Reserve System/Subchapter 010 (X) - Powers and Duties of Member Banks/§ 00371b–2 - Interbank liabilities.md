@@ -46,9 +46,11 @@ The Board may issue such regulations and orders, including definitions consisten
 
 (Dec. 23, 1913, ch. 6, §23, as added Pub. L. 102–242, title III, §308(a), Dec. 19, 1991, 105 Stat. 2362.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 102–242, title III, §308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: "The amendment made by this section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\]."
+Pub. L. 102–242, title III, §308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: "The amendment made bythis section \[enacting this section\] shall become effective 1 year after the date of enactment of this Act \[Dec. 19, 1991\]."
 
 #### Regulations
 

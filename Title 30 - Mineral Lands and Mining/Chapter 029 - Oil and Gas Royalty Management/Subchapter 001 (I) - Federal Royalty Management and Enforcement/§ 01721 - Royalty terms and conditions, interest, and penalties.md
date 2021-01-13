@@ -28,7 +28,7 @@ Interest shall be charged under this section only for the number of days a payme
 
 #### (h) Estimated payment
 
-A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection "estimated payment") that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment ismade. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
+A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection "estimated payment") that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
 
 #### (i) Volume allocation of oil and gas production
 
@@ -42,7 +42,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 (2) This subsection applies only to requirements for reporting and paying royalties. Nothing in this subsection is intended to alter a lessee's liability for royalties on oil or gas production based on the share of production allocated to the lease in accordance with the terms of the lease, a unit or communitization agreement, or any other agreement.
 
-(3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so long as such alternative method does not reduce the amount of the royalty obligation.
+(3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so longas such alternative method does not reduce the amount of the royalty obligation.
 
 (4) The Secretary or the delegated State shall grant an exception from the reporting and payment requirements for marginal properties by allowing for any calendar year or portion thereof royalties to be paid each month based on the volume of production sold. Interest shall not accrue on the difference for the entire calendar year or portion thereof between the amount of oil and gas actually sold and the share of production allocated to the lease until the beginning of the month following such calendar year or portion thereof. Any additional royalties due or overpaid royalties and associated interest shall be paid, refunded, or credited within six months after the end of each calendar year in which royalties are paid based on volumes of production sold. For the purpose of this subsection, the term "marginal property" means a lease that produces on average the combined equivalent of less than 15 barrels of oil per well per day or 90 thousand cubic feet of gas per well per day, or a combination thereof, determined by dividing the average daily production of crude oil and natural gas from producing wells on such lease by the number of such wells, unless the Secretary, together with the State concerned, determines that a different production is more appropriate.
 
@@ -53,6 +53,8 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
 (Pub. L. 97–451, title I, §111, Jan. 12, 1983, 96 Stat. 2455; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–185, §6(a)–(e), (h)(1), Aug. 13, 1996, 110 Stat. 1712–1715; Pub. L. 104–200, §1(3)–(6), Sept. 22, 1996, 110 Stat. 2421; Pub. L. 113–67, div. A, title III, §305(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 113–291, div. B, title XXX, §3021(c)(2), Dec. 19, 2014, 128 Stat. 3761; Pub. L. 114–94, div. C, title XXXII, §32301, Dec. 4, 2015, 129 Stat. 1741.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -96,6 +98,8 @@ Subsec. (l). Pub. L. 104–185, §6(e), added subsec. (l).
 
 <b>1986</b>—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–67, div. A, title III, §305(b), Dec. 26, 2013, 127 Stat. 1183, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2014."
@@ -106,7 +110,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 #### Applicability of 1996 Amendment
 
-Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indianlands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Payment of Interest Charges From Current Receipts
 

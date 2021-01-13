@@ -16,7 +16,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (2) Appointment of attorney to represent defendant in military service
 
-&emsp;If in an action covered by this section it appears that the defendant is in military service,the court may not enter a judgment until after the court appoints an attorney to represent the defendant. If an attorney appointed under this section to represent a servicemember cannot locate the servicemember, actions by the attorney in the case shall not waive any defense of the servicemember or otherwise bind the servicemember.
+&emsp;If in an action covered by this section it appears that the defendant is in military service, the court may not enter a judgment until after the court appoints an attorney to represent the defendant. If an attorney appointed under this section to represent a servicemember cannot locate the servicemember, actions by the attorney in the case shall not waive any defense of the servicemember or otherwise bind the servicemember.
 
 #### (3) Defendant's military status not ascertained by affidavit
 
@@ -50,7 +50,7 @@ If a servicemember who is a defendant in an action covered by this section recei
 
 #### (1) Authority for court to vacate or set aside judgment
 
-&emsp;If a default judgment is entered in an action covered by this section against a servicemember during the servicemember's period of military service (or within 60 days after termination of or release from such military service), the court entering the judgment shall, upon application by or on behalf of the servicemember, reopen the judgment for the purpose of allowing the servicemember to defend the action if it appears that—
+&emsp;If a default judgment is entered in an action covered by this section against aservicemember during the servicemember's period of military service (or within 60 days after termination of or release from such military service), the court entering the judgment shall, upon application by or on behalf of the servicemember, reopen the judgment for the purpose of allowing the servicemember to defend the action if it appears that—
 
 &emsp;&emsp;(A) the servicemember was materially affected by reason of that military service in making a defense to the action; and
 

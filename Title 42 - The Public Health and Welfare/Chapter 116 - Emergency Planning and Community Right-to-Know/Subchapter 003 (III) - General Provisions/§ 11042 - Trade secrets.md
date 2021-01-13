@@ -6,7 +6,7 @@
 
 &emsp;(A) With regard to a hazardous chemical, an extremely hazardous substance, or a toxic chemical, any person required under section 11003(d)(2), 11003(d)(3), 11021, 11022, or 11023 of this title to submit information to any other person may withhold from such submittal the specific chemical identity (including the chemical name and other specific identification), as defined in regulations prescribed by the Administrator under subsection (c), if the person complies with paragraph (2).
 
-&emsp;(B) Any person withholding the specific chemical identity shall, in the place on thesubmittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
+&emsp;(B) Any person withholding the specific chemical identity shall, in the place on the submittal where the chemical identity would normally be included, include the generic class or category of the hazardous chemical, extremely hazardous substance, or toxic chemical (as the case may be).
 
 #### (2) Requirements
 

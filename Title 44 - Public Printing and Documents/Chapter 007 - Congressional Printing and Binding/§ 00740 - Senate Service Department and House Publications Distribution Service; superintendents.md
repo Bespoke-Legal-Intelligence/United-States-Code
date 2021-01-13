@@ -10,6 +10,8 @@ Based on 44 U.S. Code, 1964 ed., §166 (Jan. 12, 1895, ch. 23, §71, 28 Stat. 61
 
 "House of Representatives Publications Distribution Service" is substituted for "House Folding Room" because of the change of name under authority of Public Law 88–652.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "Chief Administrative Officer of the House of Representatives" for "Doorkeeper of the House".

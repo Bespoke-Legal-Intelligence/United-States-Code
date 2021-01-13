@@ -48,13 +48,15 @@ The position of sixth Assistant Attorney General, referred to in the Acts of Jul
 
 The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943, is changed from "six" to "nine" to reflect the three additional Assistant Attorneys General authorized by 1950 Reorg. Plan No. 2, 1953 Reorg. Plan No. 4, and the Act of Sept. 9, 1957.
 
-The words "learned in the law" are omitted as unnecessary. Such a requirement is not made of the AttorneyGeneral, United States attorneys, or United States judges. (See reviser's note under 28 U.S.C. 501, 1964 ed.)
+The words "learned in the law" are omitted as unnecessary. Such a requirement is not made of the Attorney General, United States attorneys, or United States judges. (See reviser's note under 28 U.S.C. 501, 1964 ed.)
 
 The reference in former section 295 of title 5 to the Assistant Attorneys General assisting the Solicitor General are omitted on authority of the transfer of functions made by 1950 Reorg. Plan No. 2 and 1953 Reorg. Plan No. 4.
 
 Provisions of 1950 Reorg. Plan No. 2, §4, and 1953 Reorg. Plan No. 4, §2, abolishing positions and transferring incumbents are omitted as executed.
 
 Provisions relating to pay of Assistant Attorneys General are omitted as superseded by §303(d) of the Act of August 14, 1964, Pub. L. 88–426, 78 Stat. 418, which is codified in section 5315 of title 5, United States Code.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -65,6 +67,8 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 <b>2006</b>—Pub. L. 109–177 substituted "11" for "ten".
 
 <b>1978</b>—Pub. L. 95–598 substituted "ten" for "nine".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

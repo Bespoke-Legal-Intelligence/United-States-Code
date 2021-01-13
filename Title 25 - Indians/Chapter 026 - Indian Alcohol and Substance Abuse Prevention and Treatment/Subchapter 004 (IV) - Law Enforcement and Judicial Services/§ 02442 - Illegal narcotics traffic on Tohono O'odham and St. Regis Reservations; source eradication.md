@@ -26,6 +26,8 @@ Authorization of appropriations.—There is authorized to be appropriated to car
 
 (Pub. L. 99–570, title IV, §4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, §2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(6)–(8), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(e), July 29, 2010, 124 Stat. 2290.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -56,7 +58,7 @@ Subsec. (a)(3). Pub. L. 102–573, §703(7), amended par. (3) generally. Prior t
 
 Subsec. (b). Pub. L. 102–573, §703(8), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-"(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and locallaw enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under subsection (b) of this section for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act.
+"(1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under subsection (b) of this section for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act.
 
 "(2)
 

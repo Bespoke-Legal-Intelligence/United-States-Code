@@ -8,7 +8,7 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (1) In general
 
-&emsp;Not later than 120 days after August 10, 2012, the President shall submit to the appropriate congressional committees a list of persons who are officials of the Government of Syria or persons acting on behalf of that Government that the President determines, based oncredible evidence, are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Syria or their family members, regardless of whether such abuses occurred in Syria.
+&emsp;Not later than 120 days after August 10, 2012, the President shall submit to the appropriate congressional committees a list of persons who are officials of the Government of Syria or persons acting on behalf of that Government that the President determines, based on credible evidence, are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Syria or their family members, regardless of whether such abuses occurred in Syria.
 
 #### (2) Updates of list
 
@@ -42,13 +42,17 @@ The sanctions described in this subsection are sanctions pursuant to the Interna
 
 <i>For termination of section, see section 8795 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-For short title of this subchapter as the "Syria Human Rights Accountability Act of 2012", see section 701 of Pub. L. 112–158, set out as a note under section 8701 of this title.
+For short title of this subchapter as the "Syria Human Rights Accountability Act of 2012", see section701 of Pub. L. 112–158, set out as a note under section 8701 of this title.
 
 #### Caesar Syria Civilian Protection
 
@@ -172,7 +176,7 @@ Immediate effect.—A revocation under subclause (I) shall—
 
 &emsp;"(2)
 
-Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated under section 7433(b) to carry out paragraph (1)(A) to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated under section 7433(b) to carry out paragraph (1)(A) to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 
 &emsp;"(3)
 
@@ -460,6 +464,8 @@ Good Defined.—In this section, the term 'good' means any article, natural or m
 
 "This title shall cease to be effective on the date that is 5 years after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
+\[Functions and authorities of President under section 7426 of Pub. L. 116–92, set out above, delegated to Secretary of State by section 1(a) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of Title 21, Food and Drugs. Functions and authorities under sections 7413, 7431, and 7432 of Pub. L. 116–92 delegated to Secretary of State, in consultation with the Secretary of the Treasury, by section 1(b)(ii) to (iv) of the Memorandum. Functions and authorities under sections 7412(a) and (b)(1)(A) of Pub. L. 116–92 delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(x) and (xi) of the Memorandum. Functions and authorities under section 7433 of Pub. L. 116–92 delegated to Secretary of the Treasury by section 1(e) of the Memorandum. Functions and authorities under section 7423 of Pub. L. 116–92 delegated to Secretary of State and the Secretary of Defense by section 1(f) of the Memorandum.\]
+
 #### Syrian War Crimes Accountability
 
 Pub. L. 115–232, div. A, title XII, §1232, Aug. 13, 2018, 132 Stat. 2035, provided that:
@@ -554,7 +560,7 @@ State Department Rewards for Justice Program.—\[Amended section 2708(b)(10) of
 
 "(e)
 
-Independent International Commission of Inquiry on the Syrian Arab Republic.—The Secretary of State, acting through the United States Permanent Representative to the United Nations, should use thevoice, vote, and influence of the United States at the United Nations to advocate that the United Nations Human Rights Council, while the United States remains a member, annually extend the mandate of the Independent International Commission of Inquiry on the Syrian Arab Republic until the Commission has completed its investigation of all alleged violations of international human rights laws beginning in March 2011 in the Syrian Arab Republic.
+Independent International Commission of Inquiry on the Syrian Arab Republic.—The Secretary of State, acting through the United States Permanent Representative to the United Nations, should use the voice, vote, and influence of the United States at the United Nations to advocate that the United Nations Human Rights Council, while the United States remains a member, annually extend the mandate of the Independent International Commission of Inquiry on the Syrian Arab Republic until the Commission has completed its investigation of all alleged violations of international human rights laws beginning in March 2011 in the Syrian Arab Republic.
 
 "(f)
 

@@ -50,6 +50,8 @@ The Administrator of the United States Agency for International Development, uti
 
 (Pub. L. 110–293, title II, §206, July 30, 2008, 122 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, and not as part of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 which comprises this chapter.

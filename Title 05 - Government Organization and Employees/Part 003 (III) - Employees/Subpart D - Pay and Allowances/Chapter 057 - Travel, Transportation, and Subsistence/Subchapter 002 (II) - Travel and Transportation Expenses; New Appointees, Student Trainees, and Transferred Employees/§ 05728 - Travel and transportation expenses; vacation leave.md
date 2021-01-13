@@ -1,6 +1,6 @@
 ### §5728. Travel and transportation expenses; vacation leave
 
-(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from itsappropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
+(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
 
 (b) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee of the Government appointed by the President, by and with the advice and consent of the Senate, for a term fixed by statute, and of transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment to the post of duty, after he has satisfactorily completed each 2 years of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving at least 2 more years of duty outside the continental United States, Alaska, and Hawaii.
 
@@ -40,6 +40,8 @@ The first 14 words of subsections (a) and (b), and subsection (c), are added on 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–264 substituted "an employee of the Government" for "an employee of the United States".
@@ -49,6 +51,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1982</b>—Subsecs. (a), (b). Pub. L. 97–253, §351(a), inserted ", Alaska, and Hawaii" after "continental United States" wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–253, §351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

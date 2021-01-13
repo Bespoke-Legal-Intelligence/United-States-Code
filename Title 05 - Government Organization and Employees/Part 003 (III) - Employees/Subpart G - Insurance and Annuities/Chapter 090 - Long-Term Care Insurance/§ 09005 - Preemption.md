@@ -18,9 +18,13 @@ Rule of construction.—Paragraph (1) shall not be construed to exempt any compa
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 768; amended Pub. L. 107–104, §2, Dec. 27, 2001, 115 Stat. 1001.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–104 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

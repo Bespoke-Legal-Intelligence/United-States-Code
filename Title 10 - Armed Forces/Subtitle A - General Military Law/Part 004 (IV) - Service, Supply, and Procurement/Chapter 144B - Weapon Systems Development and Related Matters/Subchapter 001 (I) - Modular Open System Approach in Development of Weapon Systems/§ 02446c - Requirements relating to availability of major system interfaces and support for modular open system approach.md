@@ -6,7 +6,7 @@ The Secretary of each military department shall—
 
 &emsp;(2) ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
 
-&emsp;(3) ensure that sufficient systems engineering and development expertise and resourcesare available to support the use of a modular open system approach in requirements development and acquisition program planning;
+&emsp;(3) ensure that sufficient systems engineering and development expertise and resources are available to support the use of a modular open system approach in requirements development and acquisition program planning;
 
 &emsp;(4) ensure that necessary planning, programming, and budgeting resources are provided to specify, identify, develop, and sustain the modular open system approach, associated major system interfaces, systems integration, and any additional program activities necessary to sustain innovation and interoperability;
 
@@ -16,9 +16,17 @@ The Secretary of each military department shall—
 
 (Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2255; amended Pub. L. 116–92, div. A, title VIII, §840(b), Dec. 20, 2019, 133 Stat. 1499.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1851(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4272, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 327 of this title, as added by section 1851(a) of Pub. L. 116–283, inserted after section 4402, and redesignated as section 4403 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2019</b>—Par. (6). Pub. L. 116–92 added par. (6).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

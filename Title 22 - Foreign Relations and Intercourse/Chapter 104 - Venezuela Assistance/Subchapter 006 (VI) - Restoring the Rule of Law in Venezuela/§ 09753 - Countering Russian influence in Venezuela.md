@@ -38,7 +38,7 @@ This section may be cited as the "Russian-Venezuelan Threat Mitigation Act".
 
 &emsp;&emsp;(B) ineligible to receive a visa or other documentation to enter the United States; and
 
-&emsp;&emsp;(C) otherwise ineligible to be admitted or paroled into the United States or to receiveany benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+&emsp;&emsp;(C) otherwise ineligible to be admitted or paroled into the United States or to receive any benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
 
 #### (3) Current visas revoked
 
@@ -75,6 +75,8 @@ This section may be cited as the "Russian-Venezuelan Threat Mitigation Act".
 &emsp;This subsection shall terminate on the date that is 1 year after December 20, 2019.
 
 (Pub. L. 116–94, div. J, title I, §165, Dec. 20, 2019, 133 Stat. 3043.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

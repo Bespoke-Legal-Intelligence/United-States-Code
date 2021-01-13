@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) monitoring of the applicable prototypes;
 
-&emsp;&emsp;&emsp;(iii) detailed engineering and environmental reports on the results of eachproject carried out under the demonstraton <sup>1</sup> program; and
+&emsp;&emsp;&emsp;(iii) detailed engineering and environmental reports on the results of each project carried out under the demonstraton <sup>1</sup> program; and
 
 &emsp;&emsp;&emsp;(iv) technology transfers, as appropriate, to private property owners, State and local entities, nonprofit educational institutions, and nongovernmental organizations.
 
@@ -134,7 +134,7 @@
 
 #### (6) Report
 
-&emsp;Not later than December 31, 2008, and every 3 years thereafter, the Secretary shall prepareand submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing—
+&emsp;Not later than December 31, 2008, and every 3 years thereafter, the Secretary shall prepare and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing—
 
 &emsp;&emsp;(A) the activities carried out and accomplishments made under the demonstration program since the previous report under this paragraph; and
 
@@ -155,6 +155,8 @@
 &emsp;&emsp;(B) be not more than $10,000,000.
 
 (Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, §1157(a), Oct. 23, 2018, 132 Stat. 3793.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -182,6 +184,8 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 
 <b>1956</b>—Act July 28, 1956, substituted "restoration and protective works under sections 426e to 426h of this title" for "improvement and protective works".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -196,7 +200,7 @@ Pub. L. 91–611, title I, §112(c), Dec. 31, 1970, 84 Stat. 1821, provided that
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department ofthe Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 #### Hurricane and Storm Damage Protection Program
 
@@ -204,7 +208,7 @@ Pub. L. 115–270, title I, §1112, Oct. 23, 2018, 132 Stat. 3775, provided that
 
 "(a)
 
-In General.—The Secretary \[of the Army\] is authorized to carry out a pilot program to award single contracts for more than one authorized hurricane and storm damage reduction project in a geographical region, including projects across more than one Corps of Engineers district, if the Secretary determines that thecontract provides cost savings compared to the awarding of such work on a project-by-project basis.
+In General.—The Secretary \[of the Army\] is authorized to carry out a pilot program to award single contracts for more than one authorized hurricane and storm damage reduction project in a geographical region, including projects across more than one Corps of Engineers district, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on a project-by-project basis.
 
 "(b)
 

@@ -118,7 +118,7 @@ Sec. 5. <i>General Provisions</i>. (a) The Secretaries and the Member Agencies s
 
 (c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(d) This memorandum shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian TribalGovernments) and my memorandum of November 5, 2009 (Tribal Consultation).
+(d) This memorandum shall be implemented consistent with Executive Order 13175 of November 6, 2000 (Consultation and Coordination with Indian Tribal Governments) and my memorandum of November 5, 2009 (Tribal Consultation).
 
 (e) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

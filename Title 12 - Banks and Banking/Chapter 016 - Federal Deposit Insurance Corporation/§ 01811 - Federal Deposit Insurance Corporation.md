@@ -20,6 +20,8 @@ There is hereby established a Federal Deposit Insurance Corporation (hereinafter
 
 (Sept. 21, 1950, ch. 967, §2\[1\], 64 Stat. 873; Pub. L. 101–73, title II, §202, Aug. 9, 1989, 103 Stat. 188; Pub. L. 103–204, §22(a), Dec. 17, 1993, 107 Stat. 2407.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The Federal Deposit Insurance Corporation was originally created as a part of the Federal Reserve Act by act June 16, 1933, ch. 89, §8, 48 Stat. 168, which added section 12B to the Federal Reserve Act, act Dec. 23, 1913, ch. 6, 38 Stat. 103, and was classified to section 264 of this title. Act Dec. 23, 1913, ch. 6, §12B, as added June 16, 1933, ch. 89, §8, 48 Stat. 168 has been amended by acts June 16, 1934, ch. 546, §1(1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, §2, 53 Stat. 842; Apr. 13, 1943, ch. 62, §1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§2, 4, 61 Stat. 773; June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948; Oct. 15, 1949, ch. 695, §4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§5–7, 64 Stat. 457.
@@ -35,6 +37,8 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 <b>1993</b>—Pub. L. 103–204 inserted "Federal Deposit Insurance Corporation" as section catchline, redesignated existing provisions as subsec. (a), inserted heading, and substituted "There is hereby established" for "There is hereby created", and added subsec. (b).
 
 <b>1989</b>—Pub. L. 101–73 inserted "and savings associations" after "banks".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of thistitle and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813,1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -162,6 +166,76 @@ Pub. L. 103–76, §7, Aug. 12, 1993, 107 Stat. 755, provided that: "Nothing in 
 
 Pub. L. 102–485, §8, Oct. 23, 1992, 106 Stat. 2775, provided that: "Nothing in this Act \[see Short Title of 1992 Amendments note above\] limits the authority of any department or agency under any other provision of law."
 
+#### Cybersecurity and Financial System Resilience Report
+
+Pub. L. 116–260, div. Q, title I, §108, Dec. 27, 2020, 134 Stat. 2173, provided that:
+
+"(a)
+
+In General.—Not later than the end of the 180-day period beginning on the date of enactment of this Act \[Dec. 27, 2020\], and annually thereafter, each banking regulator shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that provides a detailed explanation of measures undertaken to strengthen cybersecurity within the financial services sector and with respect to the functions of the regulator, including the supervision and regulation of financial institutions and, where applicable, third-party service providers. Each such report shall specifically include a detailed analysis of—
+
+&emsp;"(1) policies and procedures (including those described under section 3554(b) of title 44, United States Code) to detect, defend against, and respond to—
+
+&emsp;&emsp;"(A) efforts to deny access to or degrade, disrupt, or destroy any information and communications technology system or network, or exfiltrate information from such a system or network without authorization;
+
+&emsp;&emsp;"(B) destructive malware attacks;
+
+&emsp;&emsp;"(C) denial of service activities; and
+
+&emsp;&emsp;"(D) any other efforts that may threaten the functions of the banking regulator or entities overseen by the regulator by undermining cybersecurity and the resilience of the financial system;
+
+&emsp;"(2) activities to ensure the effective implementation of policies and procedures described under paragraph (1), including—
+
+&emsp;&emsp;"(A) the appointment of qualified staff, the provision of staff training, the use of accountability measures to support staff performance, and the designation, if any, of senior appointed leadership to strengthen accountability for oversight of cybersecurity measures within each banking regulator and among regulated entities;
+
+&emsp;&emsp;"(B) deployment of adequate resources and technologies;
+
+&emsp;&emsp;"(C) efforts of the banking regulators to respond to cybersecurity-related findings and recommendations of the Inspector General of the banking regulator or the independent evaluation described under section 3555 of title 42, United States Code;
+
+&emsp;&emsp;"(D) industry efforts to respond to cybersecurity-related findings and recommendations of the banking regulators;
+
+&emsp;&emsp;"(E) as appropriate, efforts to strengthen cybersecurity in coordination with other Federal departments and agencies, domestic and foreign financial institutions, and other partners, including the development and dissemination of best practices regarding cybersecurity and the sharing of threat information; and
+
+&emsp;"(3) any current or emerging threats that are likely to pose a risk to the resilience of the financial system.
+
+"(b)
+
+Form of Report.—The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex, if appropriate.
+
+"(c)
+
+Congressional Briefing.—Upon request, the head of each banking regulator shall provide a detailed briefing to the appropriate Members of Congress on each report submitted pursuant to subsection (a), except—
+
+&emsp;"(1) the Chairman of the Board of Governors of the Federal Reserve System may designate another member of the Board of Governors of the Federal Reserve System to provide such briefing;
+
+&emsp;"(2) the Chairperson of the Federal Deposit Insurance Corporation may designate another member ofthe Board of Directors of the Corporation to provide such briefing; and
+
+&emsp;"(3) the Chairman of the National Credit Union Administration may designate another member of the National Credit Union Administration Board to provide such briefing.
+
+"(d)
+
+Definitions.—For the purposes of this section:
+
+&emsp;"(1)
+
+Appropriate members of congress.—The term 'appropriate Members of Congress' means the following:
+
+&emsp;&emsp;"(A) The Chairman and Ranking Member of the Committee on Financial Services of the House of Representatives.
+
+&emsp;&emsp;"(B) The Chairman and Ranking Member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+&emsp;"(2)
+
+Banking regulator.—The term 'banking regulator' means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
+
+&emsp;"(3)
+
+Senior appointed leadership.—With respect to a banking regulator, the term 'senior appointed leadership' means a position that requires Senate confirmation.
+
+"(e)
+
+Sunset.—The provisions of this section shall have no force or effect on or after the date that is 7 years after the date of enactment of this Act \[Dec. 27, 2020\]."
+
 #### Year 2000 Readiness for Financial Institutions
 
 Pub. L. 105–164, §2, Mar. 20, 1998, 112 Stat. 32, provided that:
@@ -230,7 +304,7 @@ In general.—Each Federal banking agency and the National Credit Union Administ
 
 &emsp;&emsp;"(B)
 
-Variety of approaches.—In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federalbanking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
+Variety of approaches.—In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federal banking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
 
 &emsp;"(3)
 

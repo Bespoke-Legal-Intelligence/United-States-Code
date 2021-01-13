@@ -44,6 +44,8 @@ Said section 567 was not included in section 2031 of this title since the rewrit
 
 The special maritime and territorial jurisdiction provision was added in view of definitive section 7 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–21, §102(1), inserted "child abuse," after "or sexual abuse," and "or perpetrated as part of a pattern or practice of assault or torture against a child or children;" after "robbery;".
@@ -57,6 +59,8 @@ Subsec. (c). Pub. L. 108–21, §102(2), added subsec. (c).
 <b>1986</b>—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting "aggravated sexual abuse or sexual abuse" for ", rape".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted "escape, murder, kidnapping, treason, espionage, sabotage," after "arson".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendments
 

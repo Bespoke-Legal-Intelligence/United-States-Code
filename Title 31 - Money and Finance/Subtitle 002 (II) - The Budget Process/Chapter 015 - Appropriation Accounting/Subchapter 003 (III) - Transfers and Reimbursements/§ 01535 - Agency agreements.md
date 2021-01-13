@@ -12,7 +12,7 @@
 
 (b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
-(c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
+(c) A condition or limitation applicable to amounts for procurement of an agency or unitplacing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
 (d) An order placed or agreement made under this section obligates an appropriation of the ordering agency or unit. The amount obligated is deobligated to the extent that the agency or unit filling the order has not incurred obligations, before the end of the period of availability of the appropriation, in—
 
@@ -112,6 +112,8 @@ May 21, 1920, ch. 194, §7(a) (1st, 2d sentences), 41 Stat. 613; June 30, 1932, 
 
 May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982, Pub. L. 97–332, §1(4), 96 Stat. 1622.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(3). Pub. L. 98–216, §1(2)(A), inserted "or get by contract" after "provide".
@@ -119,6 +121,8 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted "by contract" after "provided".
 
 Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Preventing Abuse of Interagency Contracts
 
@@ -212,11 +216,11 @@ Reporting Requirement.—Not later than 120 days after the date of the enactment
 
 "(f)
 
-Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress."
+Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or\(d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress."
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 
-Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: "Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the 'Economy Act'), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same mannerand to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year."
+Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: "Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the 'Economy Act'), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year."
 
 #### Economy Act Purchases
 

@@ -6,7 +6,7 @@ Allowable Purposes and Subpurposes.—
 
 &emsp;(1)
 
-In general.—Amounts appropriated from the Fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available, be allotted by the President for the purposes and subpurposes stated in this subsection.
+In general.—Amounts appropriated from the Fund for Federal purposes shall, unless otherwise allotted in the appropriation Act making them available, be allotted by thePresident for the purposes and subpurposes stated in this subsection.
 
 &emsp;(2)
 
@@ -36,10 +36,6 @@ In general.—Amounts shall be allotted for the acquisition of land, water, or a
 
 Adjacent land.—Land outside but adjacent to an existing national forest boundary, not to exceed 3,000 acres in the case of any one forest, that would comprise an integral part of a forest recreational management area may also be acquired with amounts appropriated from the Fund.
 
-&emsp;&emsp;&emsp;(iii)
-
-Limitation.—Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian.
-
 &emsp;&emsp;(C)
 
 Endangered species and threatened species; fish and wildlife refuge areas; national wildlife refuge system.—Amounts shall be allotted for the acquisition of land, water, or an interest in land or water for—
@@ -58,7 +54,7 @@ Payment as offset of capital costs.—Amounts shall be allotted for payment into
 
 &emsp;(4)
 
-Availability of appropriations.—Appropriations allotted for the acquisition ofland, water, or an interest in land or water as set forth under subparagraphs (A) and (B) of paragraph (2) shall be available for those acquisitions notwithstanding any statutory ceiling on the appropriations contained in any other provision of law enacted prior to January 4, 1977, or, in the case of national recreation areas, prior to January 15, 1979, except that for any such area expenditures shall not exceed a statutory ceiling during any one fiscal year by 10 percent of the ceiling or $1,000,000, whichever is greater.
+Availability of appropriations.—Appropriations allotted for the acquisition of land, water, or an interest in land or water as set forth under subparagraphs (A) and (B) of paragraph (2) shall be available for those acquisitions notwithstanding any statutory ceiling on the appropriations contained in any other provision of law enacted prior to January 4, 1977, or, in the case of national recreation areas, prior to January 15, 1979, except that for any such area expenditures shall not exceed a statutory ceiling during any one fiscal year by 10 percent of the ceiling or $1,000,000, whichever is greater.
 
 (b)
 
@@ -98,7 +94,7 @@ Acquisition Considerations.—In determining whether to acquire land (or an inte
 
 &emsp;(7) the recreational value of the land.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3177; Pub. L. 116–9, title III, §3001(d), (e), Mar. 12, 2019, 133 Stat. 755.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3177; Pub. L. 116–9, title III, §3001(d), (e), Mar. 12, 2019, 133 Stat. 755; Pub. L. 116–152, §3(b)(2), Aug. 4, 2020, 134 Stat. 687.)
 
 Historical and Revision Notes
 
@@ -118,7 +114,11 @@ Pub. L. 88–578, title I, §7, formerly §6, Sept. 3, 1964, 78 Stat. 903; Pub. 
 
 In subsection (a)(4), the words "January 4, 1977" are substituted for "the convening of the Ninety-fifth Congress", and the words "January 15, 1979" are substituted for " the convening of the Ninety-sixth Congress", for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2)(B)(iii). Pub. L. 116–152 struck out cl. (iii). Text read as follows: "Except for areas specifically authorized by Act of Congress, not more than 15 percent of the acreage added to the National Forest System pursuant to this section shall be west of the 100th meridian."
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–9, §3001(d), added subsec. (c).
 

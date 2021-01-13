@@ -12,5 +12,5 @@ The Postmaster General and the Commissioner shall conduct outreach to private se
 
 #### Codification
 
-Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of theSubstance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
+Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
 

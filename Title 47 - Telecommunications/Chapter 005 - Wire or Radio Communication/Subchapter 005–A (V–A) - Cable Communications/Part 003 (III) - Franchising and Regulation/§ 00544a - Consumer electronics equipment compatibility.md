@@ -72,9 +72,11 @@ The Congress finds that—
 
 #### (d) Review of regulations
 
-The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actionstaken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
+The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
 
 (June 19, 1934, ch. 652, title VI, §624A, as added Pub. L. 102–385, §17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, §301(f), Feb. 8, 1996, 110 Stat. 116; Pub. L. 115–141, div. P, title IV, §402(i)(10), Mar. 23, 2018, 132 Stat. 1090.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -85,6 +87,8 @@ The Commission shall periodically review and, if necessary, modify the regulatio
 Subsec. (c)(1)(A) to (C). Pub. L. 104–104, §301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 Subsec. (c)(2)(D) to (F). Pub. L. 104–104, §301(f)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

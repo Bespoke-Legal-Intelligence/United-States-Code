@@ -10,11 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §302 (Mar. 4, 1909, ch. 321, §179, 35 Sta
 
 Minor verbal changes were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Postmaster General".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

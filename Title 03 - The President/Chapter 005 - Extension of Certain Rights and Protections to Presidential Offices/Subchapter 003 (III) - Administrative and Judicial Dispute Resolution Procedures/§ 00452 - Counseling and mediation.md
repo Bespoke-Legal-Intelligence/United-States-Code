@@ -10,9 +10,13 @@ Exhaustion Requirement.—A covered employee who has not exhausted counseling an
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 402 and 403 of the Congressional Accountability Act of 1995, referred to in subsec. (a), are classified to sections 1402 and 1403, respectively, of Title 2, The Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

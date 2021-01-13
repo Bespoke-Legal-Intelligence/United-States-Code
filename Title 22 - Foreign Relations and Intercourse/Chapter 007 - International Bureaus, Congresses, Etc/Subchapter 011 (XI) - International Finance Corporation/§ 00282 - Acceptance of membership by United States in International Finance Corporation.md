@@ -4,6 +4,8 @@ The President is hereby authorized to accept membership for the United States in
 
 (Aug. 11, 1955, ch. 788, §2, 69 Stat. 669.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act Aug. 11, 1955, ch. 788, §1, 69 Stat. 669, provided that: "This Act \[enacting this subchapter\] may be cited as the 'International Finance Corporation Act'."

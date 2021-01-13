@@ -10,7 +10,17 @@ Limitation on Contracts With Terms of 18
 
 Months or More.—The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 
-(Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391; Pub. L. 105–85, div. A, title X, §1073(a)(52), Nov. 18, 1997, 111 Stat. 1903.)
+(Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391; Pub. L. 105–85, div. A, title X, §1073(a)(52), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 116–283, div. A, title XVIII, §1825(j), (k), Jan. 1, 2021, 134 Stat. 4208.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1825(j), (k), Jan. 1, 2021, 134 Stat. 4151, 4208, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3681 of this title; and</i>
+
+<i>(2) by transferring subsection (b) to section 3678 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 #### Prior Provisions
 
@@ -20,9 +30,17 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1825(k), transferred subsec. (a) to section 3681 of this title.
+
+Subsec. (b). Pub. L. 116–283, §1825(j), transferred subsec. (b) to section 3678 of this title.
+
 <b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "such leasing" for "leasing of such vehicles".
 
 <b>1996</b>—Pub. L. 104–106 substituted "Lease of vehicles, equipment, vessels, and aircraft" for "Lease of vessels, aircraft, and vehicles" as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
 

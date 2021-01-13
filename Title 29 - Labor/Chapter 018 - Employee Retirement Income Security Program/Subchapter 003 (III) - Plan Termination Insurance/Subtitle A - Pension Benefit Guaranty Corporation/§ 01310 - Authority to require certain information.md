@@ -58,7 +58,9 @@ Any information or documentary material submitted to the corporation pursuant to
 
 The corporation shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Education and the Workforce and the Committee on Ways and Means of the House of Representatives, a summary report in the aggregate of the information submitted to the corporation under this section.
 
-(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3), formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, §40211(b)(3)(D), July 6, 2012, 126 Stat. 849; Pub. L. 113–97, title I, §102(b)(8), Apr. 7, 2014, 128 Stat. 1117.)
+(Pub. L. 93–406, title IV, §4010, as added Pub. L. 103–465, title VII, §772(a), Dec. 8, 1994, 108 Stat. 5044; amended Pub. L. 109–280, title I, §108(b)(3),formerly §107(b)(3), title V, §505(a), (b), Aug. 17, 2006, 120 Stat. 819, 946, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §105(d), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 112–141, div. D, title II, §40211(b)(3)(D), July 6, 2012, 126 Stat. 849; Pub. L. 113–97, title I, §102(b)(8), Apr. 7, 2014, 128 Stat. 1117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Section 1083(h)(2)(C)(iv) of this title, referred to in subsec. (d)(3), was in t
 Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted "1083(k)(1)(A) and (B)" for "1082(f)(1)(A) and (B)" and "430(k)(1)(A) and (B)" for "412(n)(1)(A) and (B)".
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

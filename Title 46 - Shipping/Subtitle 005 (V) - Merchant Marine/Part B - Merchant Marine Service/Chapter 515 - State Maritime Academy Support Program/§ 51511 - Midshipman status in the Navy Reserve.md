@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XIII, §1304(h), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2006.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2). See 2006 Amendment note below.

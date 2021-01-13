@@ -32,7 +32,7 @@ City.—The term 'City' means Oregon City, Oregon.
 
 &emsp;"(2)
 
-McLoughlin house.—The term 'McLoughlin House' means the McLoughlin House National Historic Site which is described in the Acting Assistant Secretary of the Interior's Order of June 27, 1941, and generally depicted on the map entitled 'McLoughlin House, Fort Vancouver National Historic Site', numbered 389/92,002, and dated 5/01/03, and includes the McLoughlin House, the Barclay House, and other associated real property, improvements, and personal property.
+McLoughlin house.—The term 'McLoughlin House' means the McLoughlin House National Historic Site which is described in the Acting Assistant Secretary of the Interior's Order of June 27, 1941, and generally depicted on the map entitled 'McLoughlin House, Fort Vancouver National Historic Site', numbered 389/92,002, and dated 5/01/03, and includes theMcLoughlin House, the Barclay House, and other associated real property, improvements, and personal property.
 
 &emsp;"(3)
 

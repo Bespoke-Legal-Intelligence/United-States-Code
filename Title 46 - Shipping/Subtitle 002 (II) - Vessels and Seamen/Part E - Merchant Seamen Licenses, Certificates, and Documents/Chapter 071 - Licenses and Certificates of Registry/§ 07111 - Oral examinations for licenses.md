@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 7111 provides for oral tests for licenses for individuals on fishing vessels that are not required to be inspected under part B.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–307 substituted "part" for "Part".

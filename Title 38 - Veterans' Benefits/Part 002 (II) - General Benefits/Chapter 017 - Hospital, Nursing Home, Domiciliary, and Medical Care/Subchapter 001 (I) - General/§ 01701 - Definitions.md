@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(A)(i) medical services rendered in the course of the hospitalization of any veteran, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title;
 
-&emsp;(B) such mental health services, consultation, professional counseling, marriage andfamily counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
+&emsp;(B) such mental health services, consultation, professional counseling, marriage and family counseling, and training for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as the Secretary considers appropriate for the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title; and
 
 &emsp;(C)(i) medical services rendered in the course of the hospitalization of a dependent or survivor of a veteran receiving care under the last sentence of section 1781(b) of this title, and (ii) travel and incidental expenses for such dependent or survivor under the terms and conditions set forth in section 111 of this title.
 
@@ -80,7 +80,9 @@ For the purposes of this chapter—
 
 (10) The term "recommended adult immunization schedule" means the schedule established (and periodically reviewed and, as appropriate, revised) by the Advisory Committee on Immunization Practices established by the Secretary of Health and Human Services and delegated to the Centers for Disease Control and Prevention.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, §602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, §245(b), Mar. 23, 2018, 132 Stat. 823.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat.2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, §301(a)(1), title VIII, §801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, §602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, §245(b), Mar. 23, 2018, 132 Stat. 823.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -174,7 +176,7 @@ Par. (9). Pub. L. 102–54, §14(b)(8)(E), redesignated par. (9) as (4).
 
 Par. (6)(A)(i). Pub. L. 99–272, §19011(d)(2)(A), substituted "section 612(f)(1)(A)(i)" for "section 612(f)(1)(A)".
 
-Par. (6)(B). Pub. L. 99–576 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:"such consultation, professional counseling, training, and mental health services as are necessary in connection with the treatment—
+Par. (6)(B). Pub. L. 99–576 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "such consultation, professional counseling, training, and mental health services as are necessary in connection with the treatment—
 
 &emsp;"(i) of the service-connected disability of a veteran pursuant to section 612(a) of this title, and
 
@@ -212,7 +214,7 @@ Par. (6)(A)(i). Pub. L. 96–22, §102(c)(2), substituted "described in sections
 
 Par. (6)(B). Pub. L. 96–151, §201(b)(3), substituted "travel and incidental expenses" for "necessary expenses of travel and subsistence".
 
-<b>1978</b>—Par. (4)(C)(v). Pub. L. 95–520 defined "Veterans' Administration facilities" to include certain private facilities to provide medical services to obviate the need for hospital admission, deleted reference to hospital care for veterans in a territory, Commonwealth, or possession of the United States not contiguous to the forty-eight contiguous States, substituted provision requiring the annually determined hospital patient load and incidence of the provision of medical services to veterans hospitalized or treated at expense of Veterans' Administration in Government and private facilities in each noncontiguous State to be consistent with patient load or incidence of the provision of medical services for veterans hospitalized or treated by the Veterans' Administration within the forty-eight contiguous States for prior requirement that the annually determined average hospital patient load per thousand veteran population hospitalized at Veterans' Administration expense in Government and private facilities in each noncontiguous State not exceed the average patient load per thousand veteran population hospitalized by the Veterans' Administration within the forty-eight contiguous States; extended termination date for exercise of subcl. (v) authority to Dec. 31, 1981, from Dec. 31, 1978, except as to Alaska and Hawaii, and authorized waiver by the Administrator, to prevent hardship, of applicability to Puerto Rico and Virgin Islands of subcl. (v) restrictions with respect to hospital patient loads and incidence of provision of medical services.
+<b>1978</b>—Par. (4)(C)(v). Pub. L. 95–520 defined "Veterans' Administration facilities" to include certain private facilities to provide medical services to obviate the need for hospital admission, deleted reference to hospital care for veterans in a territory, Commonwealth, or possession of the United States not contiguous to the forty-eight contiguous States, substituted provision requiring the annually determined hospital patient load and incidence of the provision of medical services to veterans hospitalized or treated at expense of Veterans' Administration in Government and private facilities in each noncontiguous State to be consistent with patient load or incidence of the provision of medical services for veterans hospitalized or treated by the Veterans' Administration within the forty-eight contiguous States for prior requirement that the annually determined average hospital patient load per thousand veteran population hospitalized at Veterans' Administration expense in Government and private facilities in each noncontiguous State not exceed the average patient load per thousand veteran population hospitalized by the Veterans' Administration within the forty-eight contiguous States; extended termination date for exercise of subcl. (v) authority to Dec. 31, 1981, from Dec. 31,1978, except as to Alaska and Hawaii, and authorized waiver by the Administrator, to prevent hardship, of applicability to Puerto Rico and Virgin Islands of subcl. (v) restrictions with respect to hospital patient loads and incidence of provision of medical services.
 
 <b>1976</b>—Par. (4)(A). Pub. L. 94–581, §202(b)(1), substituted "direct jurisdiction" for "direct and exclusive jurisdiction".
 
@@ -242,6 +244,8 @@ Par. (6). Pub. L. 93–82, §101(c), expanded definition of "medical services" t
 
 Pub. L. 86–598 inserted "optometrists' services" after "medical examination and treatment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–446, title XII, §1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
@@ -266,7 +270,471 @@ Pub. L. 93–82, title V, §501, Aug. 2, 1973, 87 Stat. 196, provided that: "The
 
 #### Construction of 2016 Amendment
 
-Pub. L. 114–315, title VI, §602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: "Nothing in this section \[amending this section and section 1704 of this title\] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive."
+Pub. L. 114–315, title VI, §602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: "Nothing in this section \[amendingthis section and section 1704 of this title\] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive."
+
+#### Oversight for State Homes Regarding COVID–19 Infections, Response Capacity, and Staffing Levels
+
+Pub. L. 116–315, title III, §3003, Jan. 5, 2021, 134 Stat. 4991, provided that:
+
+"(a)
+
+Reporting.—
+
+&emsp;"(1)
+
+In general.—During a covered public health emergency, each State home shall submit weekly to the Secretary of Veterans Affairs and the National Healthcare Safety Network of the Centers for Disease Control and Prevention, through an electronic medium and in a standardized format specified by the Secretary, a report on the emergency.
+
+&emsp;"(2)
+
+Elements.—Each report required by paragraph (1) for a State home shall include the following:
+
+&emsp;&emsp;"(A) The number of suspected and confirmed COVID–19 infections among residents and staff, including residents previously treated for COVID–19, disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) veteran, spouse of a veteran, staff, and other;
+
+&emsp;&emsp;&emsp;"(ii) race and ethnicity;
+
+&emsp;&emsp;&emsp;"(iii) gender; and
+
+&emsp;&emsp;&emsp;"(iv) age.
+
+&emsp;&emsp;"(B) The number of total deaths and COVID–19 deaths among residents and staff, disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) veteran, spouse of a veteran, staff, and other;
+
+&emsp;&emsp;&emsp;"(ii) race and ethnicity;
+
+&emsp;&emsp;&emsp;"(iii) gender; and
+
+&emsp;&emsp;&emsp;"(iv) age.
+
+&emsp;&emsp;"(C) An assessment of the supply of personal protective equipment and hand hygiene supplies.
+
+&emsp;&emsp;"(D) An assessment of ventilator capacity and supplies.
+
+&emsp;&emsp;"(E) The number of resident beds and the occupancy rate, disaggregated by veteran, spouse of a veteran, and other.
+
+&emsp;&emsp;"(F) An assessment of the access of residents to testing for COVID–19.
+
+&emsp;&emsp;"(G) An assessment of staffing shortages, if any.
+
+&emsp;&emsp;"(H) Such other information as the Secretary may specify.
+
+"(b)
+
+Publication of Total Infections and Deaths.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of the enactment of this Act \[Jan. 5, 2021\], and not less frequently than weekly thereafter, the Secretary shall post on a publicly available website of the Department of Veterans Affairs—
+
+&emsp;&emsp;"(A) the total number of residents and staff of State homes who are infected with COVID–19; and
+
+&emsp;&emsp;"(B) the total number of such residents and staff who have died from COVID–19.
+
+&emsp;"(2)
+
+Information on residents and staff.—The Secretary shall disaggregate information on residents and staff published under paragraph (1) by veteran, staff, and other.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered public health emergency.—The term 'covered public health emergency' means an emergency with respect to COVID–19 declared by a Federal, State, or local authority.
+
+&emsp;"(2)
+
+State home.—The term 'State home' has the meaning given that term in section 101(19) of title 38, United States Code."
+
+#### Process and Requirements for Scheduling Appointments for Health Care From Department of Veterans Affairs and Non-Department Health Care
+
+Pub. L. 116–315, title III, §3101, Jan. 5, 2021, 134 Stat. 4999, provided that:
+
+"(a)
+
+Process and Requirements.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall—
+
+&emsp;&emsp;"(A) establish a process and requirements for scheduling appointments for—
+
+&emsp;&emsp;&emsp;"(i) health care from the Department of Veterans Affairs; and
+
+&emsp;&emsp;&emsp;"(ii) health care furnished through the Veterans Community Care Program under section 1703 of title 38, United States Code, by a non-Department health care provider; and
+
+&emsp;&emsp;"(B) submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a description of such process and requirements.
+
+&emsp;"(2)
+
+Elements of description.—The description of the process and requirements for scheduling appointments for health care required to be submitted under paragraph (1)(B) shall include—
+
+&emsp;&emsp;"(A) information on how such process and requirements take into account the access standards established under section 1703B of title 38, United States Code; and
+
+&emsp;&emsp;"(B) the maximum number of days allowed to complete each step of such process.
+
+&emsp;"(3)
+
+Periodic revision.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may revise the process and requirements required under paragraph (1) as the Secretary considers necessary.
+
+&emsp;&emsp;"(B)
+
+Submittal to congress.—Not later than 30 days before revising the process and requirements under subparagraph (A), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a description of such revised process and requirements, including a description of any modifications to the certification and training under subsection (b).
+
+"(b)
+
+Certification and Training on Process and Requirements.—
+
+&emsp;"(1)
+
+Certification.—Not later than one year after the date of the enactment of this Act, the Secretary shall require each individual involved in the scheduling of appointments for health care from the Department or health care described in subsection (a)(1)(A)(ii), including schedulers, clinical coordinators, and supervisors, to certify to the Secretary that the individual understands the process and requirements established under subsection (a), including the maximum number of days allowed to complete each step of such process.
+
+&emsp;"(2)
+
+New employees.—The Secretary shall require each employee hired by the Department on or after the date of the enactment of this Act who is to be involved in the scheduling of appointments for health care from the Department or health care described in subsection (a)(1)(A)(ii)—
+
+&emsp;&emsp;"(A) to undergo training on the process and requirements established under subsection (a) as part of training for the position for which the employee has been hired; and
+
+&emsp;&emsp;"(B) to make the certification to the Secretary required under paragraph (1).
+
+"(c)
+
+Method to Monitor Compliance.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary shall establish or maintain a method or tool—
+
+&emsp;&emsp;"(A) to enable monitoring of the compliance of the Department with the process and requirements established under subsection (a), including compliance with policies of the Department relating to the maximum number of days allowed to complete each step of such process; and
+
+&emsp;&emsp;"(B) to ensure that each medical facility of the Department complies with such process and requirements.
+
+&emsp;"(2)
+
+Use throughout department.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall require each medical facility of the Department to use the method or tool described in paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report indicating whether each medical facility of the Department is using the method or tool described in paragraph (1).
+
+"(d)
+
+Comptroller General Report.—Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the compliance of the Secretary with the requirements of this section."
+
+#### Audits Regarding Scheduling of Appointments and Management of Consultations for Health Care From Department of Veterans Affairs and Non-Department Health Care
+
+Pub. L. 116–315, title III, §3102, Jan. 5, 2021, 134 Stat. 5001, provided that:
+
+"(a)
+
+In General.—Not later than each of one year and two years after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall provide for the conduct of a facility-level audit of the scheduling of appointments and the management of consultations for health care under the laws administered by the Secretary.
+
+"(b)
+
+Application.—
+
+&emsp;"(1)
+
+First audit.—The first audit required under subsection (a) shall apply to each medical facility of the Department of Veterans Affairs.
+
+&emsp;"(2)
+
+Second audit.—The second audit required under subsection (a) shall apply to only those medical facilities of the Department that are in need of corrective action based on the first audit, as determined by the Secretary.
+
+"(c)
+
+Elements.—Each audit conducted under subsection (a) shall include the following:
+
+&emsp;"(1) With respect to each medical center of the Department covered by the audit, an assessment of any scheduling or consultation management issues at that medical center, including the following:
+
+&emsp;&emsp;"(A) An assessment of noncompliance with policies of the Veterans Health Administration relating to scheduling appointments and managing consultations.
+
+&emsp;&emsp;"(B) An assessment of the extent to which appointments or consultations are not timely processed.
+
+&emsp;&emsp;"(C) A description of any backlogs in appointments or consultations that are awaiting action.
+
+&emsp;&emsp;"(D) An assessment of whether consultations are appropriately processed.
+
+&emsp;&emsp;"(E) Data with respect to consultations as follows:
+
+&emsp;&emsp;&emsp;"(i) Consultations that were scheduled within the request window.
+
+&emsp;&emsp;&emsp;"(ii) Duplicate consultation requests.
+
+&emsp;&emsp;&emsp;"(iii) Consultations that were discontinued.
+
+&emsp;&emsp;&emsp;"(iv) Delays in consultations.
+
+&emsp;&emsp;&emsp;"(v) Consultations that were not properly closed or discontinued, including a description of remediation attempts.
+
+&emsp;&emsp;"(F) A review for accuracy with respect to consultation management as follows:
+
+&emsp;&emsp;&emsp;"(i) A review of the accuracy of the type of service, either administrative or clinical, that is inputted in the electronic health record.
+
+&emsp;&emsp;&emsp;"(ii) A review of the accuracy of the type of consultation setting, either impatient \[sic\] or outpatient, that is inputted in the electronic health record.
+
+&emsp;&emsp;&emsp;"(iii) A review of the appropriateness of the level of urgency of the consultation that is inputted in the electronic health record.
+
+&emsp;&emsp;&emsp;"(iv) A review of any delayed or unresolved consultations.
+
+&emsp;"(2) An identification of such recommendations for corrective action as the Secretary considers necessary, including additional training, increased personnel, and other resources.
+
+&emsp;"(3) A certification that the director of each medical center of the Department covered by the audit is in compliance with the process and requirements established under section 3101(a) and such other requirements relating to the scheduling of appointments and management of consultations as the Secretary considers appropriate.
+
+&emsp;"(4) With respect to referrals for health care between health care providers or facilities of the Department, a measurement of, for each medical facility of the Department covered by the audit—
+
+&emsp;&emsp;"(A) the period of time between—
+
+&emsp;&emsp;&emsp;"(i) the date that a clinician of the Department determines that a veteran requires care from another health care provider or facility and the date that the referral for care is sent to the other health care provider or facility;
+
+&emsp;&emsp;&emsp;"(ii) the date that the referral for care is sent to the other health care provider or facility and the date that the other health care provider or facility accepts the referral;
+
+&emsp;&emsp;&emsp;"(iii) the date that the other health care provider or facility accepts the referral and the date that the appointment with the other health care provider or at the other facility is made; and
+
+&emsp;&emsp;&emsp;"(iv) the date that the appointment with the other health care provider or at the other facility is made and the date of the appointment with the other health care provider or at the other facility; and
+
+&emsp;&emsp;"(B) any other period of time that the Secretary determines necessary to measure.
+
+&emsp;"(5) With respect to referrals for non-Department health care originating from medical facilities of the Department, a measurement of, for each such facility covered by the audit—
+
+&emsp;&emsp;"(A) the period of time between—
+
+&emsp;&emsp;&emsp;"(i) the date that a clinician of the Department determines that a veteran requires care, or a veteran presents to the Department requesting care, and the date that the referral for care is sent to a non-Department health care provider;
+
+&emsp;&emsp;&emsp;"(ii) the date that the referral for care is sent to a non-Department health care provider and the date that a non-Department health care provider accepts the referral;
+
+&emsp;&emsp;&emsp;"(iii) the date that a non-Department health care provider accepts the referral and the date that the referral to a non-Department health care provider is completed;
+
+&emsp;&emsp;&emsp;"(iv) the date that the referral to a non-Department health care provider is completed and the date that an appointment with a non-Department health care provider is made; and
+
+&emsp;&emsp;&emsp;"(v) the date that an appointment with a non-Department health care provider is made and the date that an appointment with a non-Department health care provider occurs; and
+
+&emsp;&emsp;"(B) any other period of time that the Secretary determines necessary to measure.
+
+"(d)
+
+Conduct of Audit by Third Party.—Each audit conducted under subsection (a) with respect to a medical facility of the Department shall be conducted by an individual or entity that is not affiliated with the facility.
+
+"(e)
+
+Transmittal to VHA.—Each audit conducted under subsection (a) shall be transmitted to the Under Secretary for Health of the Department so that the Under Secretary can—
+
+&emsp;"(1) strengthen oversight of the scheduling of appointments and management of consultations throughout the Department;
+
+&emsp;"(2) monitor national policy on such scheduling and management; and
+
+&emsp;"(3) develop a remediation plan to address issues uncovered by those audits.
+
+"(f)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than December 31 of each year in which an audit is conducted under subsection (a), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the audit conducted during that year.
+
+&emsp;"(2)
+
+Elements.—The Secretary shall include in each report required by paragraph (1)—
+
+&emsp;&emsp;"(A) the nationwide results of the audit conducted under subsection (a);
+
+&emsp;&emsp;"(B) the results of such audit with respect to each medical facility of the Department covered by such audit;
+
+&emsp;&emsp;"(C) an assessment of how the Department strengthened oversight of the scheduling of appointments and management of consultations at each such facility as a result of the audit;
+
+&emsp;&emsp;"(D) an assessment of how the audit informed the national policy of the Department with respect to the scheduling of appointments and management of consultations; and
+
+&emsp;&emsp;"(E) a description of any remediation plans to address issues raised by the audit that was completed."
+
+#### Establishment of Environment of Care Standards and Inspections at Department of Veterans Affairs Medical Centers
+
+Pub. L. 116–315, title V, §5103, Jan. 5, 2021, 134 Stat. 5027, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall establish a policy under which the environment of care standards and inspections at medical centers of the Department of Veterans Affairs include—
+
+&emsp;"(1) an alignment of the requirements for such standards and inspections with the women's health handbook of the Veterans Health Administration;
+
+&emsp;"(2) a requirement for the frequency of such inspections;
+
+&emsp;"(3) delineation of the roles and responsibilities of staff at each medical center who are responsible for compliance;
+
+&emsp;"(4) the requirement that each medical center submit to the Secretary and make publicly available a report on the compliance of the medical center with the standards; and
+
+&emsp;"(5) a remediation plan.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report certifying in writing that the policy required by subsection (a) has been finalized and disseminated to all medical centers of the Department."
+
+#### Study on Staffing of Women Veteran Program Manager Program at Medical Centers of Department of Veterans Affairs and Training of Staff
+
+Pub. L. 116–315, title V, §5204, Jan. 5, 2021, 134 Stat. 5035, provided that:
+
+"(a)
+
+Study.—The Secretary of Veterans Affairs shall conduct a study on the use of the Women Veteran Program Manager program of the Department of Veterans Affairs to determine—
+
+&emsp;"(1) if the program is appropriately staffed at each medical center of the Department;
+
+&emsp;"(2) whether each medical center of the Department is staffed with a Women Veteran Program Manager; and
+
+&emsp;"(3) whether it would be feasible and advisable to have a Women Veteran Program Ombudsman at each medical center of the Department.
+
+"(b)
+
+Report.—Not later than 270 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the study conducted under subsection (a).
+
+"(c)
+
+Training.—The Secretary shall ensure that all Women Veteran Program Managers and Women Veteran Program Ombudsmen receive the proper training to carry out their duties."
+
+#### Recording of Obligations
+
+Pub. L. 116–260, div. FF, title XVI, §1601, Dec. 27, 2020, 134 Stat. 3290, provided that: "Hereafter, subject to the availability of appropriations, the Secretary of Veterans Affairs shall record as an obligation of the United States Government amounts owed for hospital care or medical services furnished at non-Department facilities under title 38, United States Code, or Acts making appropriations for the Department of Veterans Affairs, on the date on which the Secretary approves: (i) a claim by a health care provider for payment or (ii) a voucher, invoice, or request for payment from a vendor for services rendered under a contract: <i>Provided</i>, That for any fiscal year in which an appropriation for the payment of hospital care or medical services furnished at non-Department facilities has been exhausted or has yet to be enacted, this title shall not provide the Secretary of Veterans Affairs with the authority to issue any new authorizations or orders for such care or such services in advance of such appropriation: <i>Provided further</i>, That this title shall take effect as if enacted on October 1, 2018: <i>Provided further</i>, That not later than 30 days after the date of enactment of this Act \[Dec. 27, 2020\], the Department of Veterans Affairs, in consultation with the Office of Management and Budget, shall submit a report to the President and the Congress, similar to the report required pursuant to 31 U.S.C. 1351, detailing how, in the absence of the enactment of this title, the expenditures or obligations would have exceeded the amount available in fiscal year 2019 and fiscal year 2020 in the Medical Community Care appropriation: <i>Provided further</i>, That the report required in the preceding proviso shall also include an explanation as to how the Department plans to avoid incurring obligations for the Medical Community Care appropriation in excess of its available budgetary resources in fiscal year 2021 and future fiscal years pursuant to the recording of obligations required by this title."
+
+#### Expanded Telehealth From Department of Veterans Affairs
+
+Pub. L. 116–171, title VII, §701, Oct. 17, 2020, 134 Stat. 825, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall enter into agreements, and expand existing agreements, with organizations that represent or serve veterans, nonprofit organizations, private businesses, and other interested parties for the expansion of telehealth capabilities and the provision of telehealth services to veterans through the award of grants under subsection (b).
+
+"(b)
+
+Award of Grants.—
+
+&emsp;"(1)
+
+In general.—In carrying out agreements entered into or expanded under this section with entities described in subsection (a), the Secretary shall award grants to those entities.
+
+&emsp;"(2)
+
+Locations.—To the extent practicable, the Secretary shall ensure that grants are awarded to entities that serve veterans in rural and highly rural areas (as determined through the use of the Rural-Urban Commuting Areas coding system of the Department of Agriculture) or areas determined to be medically underserved.
+
+&emsp;"(3)
+
+Use of grants.—
+
+&emsp;&emsp;"(A)
+
+In general.—Grants awarded to an entity under this subsection may be used for one or more of the following:
+
+&emsp;&emsp;&emsp;"(i) Purchasing, replacing or upgrading hardware or software necessary for the provision of secure and private telehealth services.
+
+&emsp;&emsp;&emsp;"(ii) Upgrading security protocols for consistency with the security requirements of the Department of Veterans Affairs.
+
+&emsp;&emsp;&emsp;"(iii) Training of site attendants, including payment of those attendants for completing that training, with respect to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) military and veteran cultural competence, if the entity is not an organization that represents veterans;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) equipment required to provide telehealth services;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) privacy, including the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] privacy rule under part 160 and subparts A and E of part 164 of title 45, Code of Federal Regulations, or successor regulations, as it relates to health care for veterans;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) scheduling for telehealth services for veterans; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) any other unique training needs for the provision of telehealth services to veterans.
+
+&emsp;&emsp;&emsp;"(iv) Upgrading existing infrastructure owned or leased by the entity to make rooms more conducive to telehealth care, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) additions or modifications to windows or walls in an existing room, or other alterations as needed to create a new, private room, including permits or inspections required in association with space modifications;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) soundproofing of an existing room;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) new electrical, telephone, or internet outlets in an existing room; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) aesthetic enhancements to establish a more suitable therapeutic environment.
+
+&emsp;&emsp;&emsp;"(v) Upgrading existing infrastructure to comply with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
+
+&emsp;&emsp;&emsp;"(vi) Upgrading internet infrastructure and sustainment of internet services.
+
+&emsp;&emsp;&emsp;"(vii) Sustainment of telephone services.
+
+&emsp;&emsp;"(B)
+
+Exclusion.—Grants may not be used for the purchase of new property or for major construction projects, as determined by the Secretary.
+
+"(c)
+
+Agreement on Telehealth Access Points.—
+
+&emsp;"(1)
+
+In general.—An entity described in subsection (a) that seeks to establish a telehealth access point for veterans but does not require grant funding under this section to do so may enter into an agreement with the Department for the establishment of such an access point.
+
+&emsp;"(2)
+
+Adequacy of facilities.—An entity described in paragraph (1) shall be responsible for ensuring that any access point is adequately private, secure, clean, and accessible for veterans before the access point is established.
+
+"(d)
+
+Assessment of Barriers to Access.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary shall complete an assessment of barriers faced by veterans in accessing telehealth services.
+
+&emsp;"(2)
+
+Elements.—The assessment required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the barriers veterans face in using telehealth while not on property of the Department.
+
+&emsp;&emsp;"(B) A description of how the Department plans to address the barriers described in subparagraph (A).
+
+&emsp;&emsp;"(C) Such other matters related to access by veterans to telehealth while not on property of the Department as the Secretary considers relevant.
+
+&emsp;"(3)
+
+Report.—Not later than 120 days after the completion of the assessment required by paragraph (1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the assessment, including any recommendations for legislative or administrative action based on the results of the assessment."
+
+#### Partnerships to Provide Hyperbaric Oxygen Therapy to Veterans
+
+Pub. L. 116–171, title VII, §702(a), Oct. 17, 2020, 134 Stat. 827, provided that:
+
+"(1)
+
+Use of partnerships.—The Secretary of Veterans Affairs, in consultation with the Center for Compassionate Innovation within the Office of Community Engagement of the Department of Veterans Affairs, may enter into partnerships with non-Federal Government entities to provide hyperbaric oxygen treatment to veterans to research the effectiveness of such therapy.
+
+"(2)
+
+Types of partnerships.—Partnerships entered into under paragraph (1) may include the following:
+
+&emsp;"(A) Partnerships to conduct research on hyperbaric oxygen therapy.
+
+&emsp;"(B) Partnerships to review research on hyperbaric oxygen therapy provided to nonveterans.
+
+&emsp;"(C) Partnerships to create industry working groups to determine standards for research on hyperbaric oxygen therapy.
+
+&emsp;"(D) Partnerships to provide to veterans hyperbaric oxygen therapy for the purposes of conducting research on the effectiveness of such therapy.
+
+"(3)
+
+Limitation on federal funding.—Federal Government funding may be used to coordinate and administer the partnerships under this subsection but may not be used to carry out activities conducted under such partnerships."
+
+#### Review of Effectiveness of Hyperbaric Oxygen Therapy
+
+Pub. L. 116–171, title VII, §702(b), Oct. 17, 2020, 134 Stat. 827, provided that: "Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary \[of Veterans Affairs\], in consultation with the Center for Compassionate Innovation, shall begin using an objective and quantifiable method to review the effectiveness and applicability of hyperbaric oxygen therapy, such as through the use of a device approved or cleared by the Food and Drug Administration that assesses traumatic brain injury by tracking eye movement."
+
+#### Coverage of Testing for COVID–19: Application With Respect to Veterans
+
+Pub. L. 116–127, div. F, §6006(b), Mar. 18, 2020, 134 Stat. 207, provided that: "The Secretary of Veterans Affairs may not require any copayment or other cost sharing under chapter 17 of title 38, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) \[of Pub. L. 116–127, 42 U.S.C. 1320b–5 note\] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act \[Mar. 18, 2020\]."
 
 #### Plans To Improve Medical Facilities of the Department of Veterans Affairs
 
@@ -286,7 +754,7 @@ Plans of directors of veterans integrated service networks.—The Secretary shal
 
 "(b)
 
-Regular Reports.—The Secretary shall ensure that each director of a Veterans Integrated Service Network submits to the Secretary, not later than two years after the date of the enactment of this Act and not less frequently than once every two years thereafter, a report on the actions taken by the director to improve the facilities within that Veterans Integrated Service Network and what further such actions might be necessary.
+Regular Reports.—The Secretary shall ensure that each director of a Veterans Integrated ServiceNetwork submits to the Secretary, not later than two years after the date of the enactment of this Act and not less frequently than once every two years thereafter, a report on the actions taken by the director to improve the facilities within that Veterans Integrated Service Network and what further such actions might be necessary.
 
 "(c)
 
@@ -762,7 +1230,7 @@ Pub. L. 114–286, Dec. 16, 2016, 130 Stat. 1459, provided that:
 
 "(a)
 
-Pilot Program.—Not later than 120 days after the date of the enactment of this Act \[Dec. 16, 2016\], the Secretary of Veterans Affairs shall commence a pilot program under which veterans use an Internet website or mobile application to schedule and confirm medical appointments at medical facilities of the Department of Veterans Affairs.
+Pilot Program.—Not later than 120 days after the date of the enactment of this Act \[Dec. 16, 2016\], theSecretary of Veterans Affairs shall commence a pilot program under which veterans use an Internet website or mobile application to schedule and confirm medical appointments at medical facilities of the Department of Veterans Affairs.
 
 "(b)
 
@@ -876,7 +1344,7 @@ Pub. L. 114–223, div. A, title II, §251, Sept. 29, 2016, 130 Stat. 893, provi
 
 "(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Sept. 29, 2016\], the Secretary of Veterans Affairs shall establish a program to conduct inspections of kitchens and food service areas at each medical facility of the Department of Veterans Affairs. Such inspections shall occur not less frequently than annually. The program's goal is to ensure that the same standards for kitchens and food service areas at hospitals in the private sector are being met at kitchens and food service areas at medical facilities of the Department.
+In General.—Not later than 90 days after the date of the enactment of this Act \[Sept. 29, 2016\], the Secretary of Veterans Affairs shall establish a program to conduct inspections of kitchens and food service areas at each medical facility of the Department of Veterans Affairs. Such inspections shall occur not lessfrequently than annually. The program's goal is to ensure that the same standards for kitchens and food service areas at hospitals in the private sector are being met at kitchens and food service areas at medical facilities of the Department.
 
 "(b)
 
@@ -888,7 +1356,7 @@ In general.—The Secretary shall seek to enter into an agreement with the Joint
 
 &emsp;"(2)
 
-Alternate organization.—If the Secretary is unable to enter into an agreement described in paragraph (1) with the Joint Commission on Accreditation of Hospital Organizations on terms acceptable tothe Secretary, the Secretary shall seek to enter into such an agreement with another appropriate organization that—
+Alternate organization.—If the Secretary is unable to enter into an agreement described in paragraph (1) with the Joint Commission on Accreditation of Hospital Organizations on terms acceptable to the Secretary, the Secretary shall seek to enter into such an agreement with another appropriate organization that—
 
 &emsp;&emsp;"(A) is not part of the Federal Government;
 
@@ -1000,7 +1468,7 @@ Enhanced standards.—The Secretary shall establish enhanced standards with resp
 
 &emsp;&emsp;"(A) that such tests occur not less frequently than once each year or as otherwise determined according to treatment protocols; and
 
-&emsp;&emsp;"(B) that health care providers appropriately order, interpret and respond to the results fromsuch tests to tailor pain therapy, safeguards, and risk management strategies to each patient.
+&emsp;&emsp;"(B) that health care providers appropriately order, interpret and respond to the results from such tests to tailor pain therapy, safeguards, and risk management strategies to each patient.
 
 "(b)
 
@@ -1282,7 +1750,7 @@ Elements.—The report submitted under paragraph (1) shall include the following
 
 &emsp;&emsp;"(D) An assessment of the implementation by the Secretary of Veterans Affairs of the VA/DOD Clinical Practice Guideline for Management of Opioid Therapy for Chronic Pain, including any figures or approaches used by the Department to assess compliance with such guidelines by medical centers of the Department and identify any medical centers of the Department operating action plans to improve compliance with such guidelines.
 
-&emsp;&emsp;"(E) An assessment of the data that the Department has developed to review the opioid prescribing practices of health care providers of the Department, as required by this subtitle, including a review of how the Department identifies the practices of individual health care providers that warrant further review based on prescribing levels, health conditions for which the health care provider is prescribing opioids or opioids and benzodiazepines concurrently, or other practices of the health care provider.
+&emsp;&emsp;"(E) An assessment of the data that the Department has developed to review the opioid prescribingpractices of health care providers of the Department, as required by this subtitle, including a review of how the Department identifies the practices of individual health care providers that warrant further review based on prescribing levels, health conditions for which the health care provider is prescribing opioids or opioids and benzodiazepines concurrently, or other practices of the health care provider.
 
 "(b)
 
@@ -1358,7 +1826,7 @@ Medical centers.—Not later than 90 days after the date of the enactment of thi
 
 &emsp;"(2)
 
-Community-based outpatient clinics.—Not later than one year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Secretary shall ensure that each community-based outpatient clinic of the Department hosts a community meeting open to the public on improving health care furnished by the Secretary.
+Community-based outpatient clinics.—Not later than one year after the date of the enactment of this Act, and not less frequently than annually thereafter, the Secretary shall ensure that each community-based outpatient clinic of the Departmenthosts a community meeting open to the public on improving health care furnished by the Secretary.
 
 "(b)
 
@@ -1370,7 +1838,7 @@ In general.—Each community meeting hosted by a medical facility or community-b
 
 &emsp;"(2)
 
-Attendance by director.—Each Director of a Veterans Integrated Service Network shall personally attend not less than one community meeting undersubsection (a) hosted by each medical facility located in the Veterans Integrated Service Network each year.
+Attendance by director.—Each Director of a Veterans Integrated Service Network shall personally attend not less than one community meeting under subsection (a) hosted by each medical facility located in the Veterans Integrated Service Network each year.
 
 "(c)
 
@@ -1736,7 +2204,7 @@ Matters addressed.—In carrying out the pilot program, the Secretary shall asse
 
 &emsp;&emsp;"(B) Means of enhancing outreach, and coordination of outreach, by and among providers of health care referred to in subparagraph (A) on the pain management and related health care services available to veterans.
 
-&emsp;&emsp;"(C) Means of using complementary and integrative health and wellness-based programs of providers of health care referred to in subparagraph (A) ascomplements to the provision by the Department of Veterans Affairs of pain management and related health care services to veterans.
+&emsp;&emsp;"(C) Means of using complementary and integrative health and wellness-based programs of providers of health care referred to in subparagraph (A) as complements to the provision by the Department of Veterans Affairs of pain management and related health care services to veterans.
 
 &emsp;&emsp;"(D) Whether complementary and integrative health and wellness-based programs described in subparagraph (C)—
 
@@ -1838,7 +2306,7 @@ Elements.—The report under paragraph (1) shall include the following:
 
 #### "SEC. 942. PROVISION OF INFORMATION ON HEALTH CARE PROVIDERS OF DEPARTMENT OF VETERANS AFFAIRS TO STATE MEDICAL BOARDS.
 
-"Notwithstanding section 552a of title 5, United States Code, with respect to each health care provider of the Department of Veterans Affairs who has violated a requirement of the medical license of the health care provider, the Secretary of Veterans Affairs shall provide to the medical board of each State in which the health care provider is licensed detailed information with respect to such violation, regardless of whether such board has formally requested such information.
+"Notwithstanding section 552a of title 5, United States Code, with respect to each health care provider of the Department of Veterans Affairs who has violateda requirement of the medical license of the health care provider, the Secretary of Veterans Affairs shall provide to the medical board of each State in which the health care provider is licensed detailed information with respect to such violation, regardless of whether such board has formally requested such information.
 
 #### "SEC. 943. REPORT ON COMPLIANCE BY DEPARTMENT OF VETERANS AFFAIRS WITH REVIEWS OF HEALTH CARE PROVIDERS LEAVING THE DEPARTMENT OR TRANSFERRING TO OTHER FACILITIES.
 
@@ -1942,7 +2410,7 @@ Entities specified.—The entities specified in this subparagraph are the follow
 
 &emsp;"(2)
 
-Choice of provider.—An eligible veteran who makes an election under subsection (c) to receive hospital care or medical services under this section may select a provider of such care or services from among the entities specified in paragraph (1)(B) that are accessible to the veteran.
+Choice of provider.—An eligible veteran who makes an election under subsection (c) to receive hospital care or medical services under this sectionmay select a provider of such care or services from among the entities specified in paragraph (1)(B) that are accessible to the veteran.
 
 &emsp;"(3)
 
@@ -1952,7 +2420,7 @@ Coordination of care and services.—The Secretary shall coordinate, through the
 
 Eligible Veterans.—A veteran is an eligible veteran for purposes of this section if—
 
-&emsp;"(1) the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairsestablished and operated under section 1705 of title 38, United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; and
+&emsp;"(1) the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705 of title 38, United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; and
 
 &emsp;"(2) the veteran—
 
@@ -2062,7 +2530,7 @@ In general.—The Secretary may negotiate a rate that is more than the rate paid
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
-Highly rural area defined.—In this clause, the term 'highly rural area' means an area located in a county that has fewer than seven individuals residing in that county per square mile.
+Highly rural area defined.—In this clause, the term 'highly rural area' means anarea located in a county that has fewer than seven individuals residing in that county per square mile.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III)
 
@@ -2166,7 +2634,7 @@ Information on use of card.—Upon issuing a Veterans Choice Card to a veteran, 
 
 "(g)
 
-Information on Availability of Care.—The Secretary shall provide information to a veteran about the availability of care and services under this section in the following circumstances:
+Information on Availability of Care.—The Secretary shall provide information to a veteran aboutthe availability of care and services under this section in the following circumstances:
 
 &emsp;"(1) When the veteran enrolls in the patient enrollment system of the Department under section 1705 of title 38, United States Code.
 
@@ -2176,7 +2644,7 @@ Information on Availability of Care.—The Secretary shall provide information t
 
 "(h)
 
-Follow-Up Care.—In carrying out this section, the Secretary shall ensure that, at the election of aneligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care, including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
+Follow-Up Care.—In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care, including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
 
 "(i)
 
@@ -2392,7 +2860,7 @@ Establishment of Claims Processing System.—
 
 &emsp;"(1)
 
-Claims processing system.—The Secretary of Veterans Affairs shall establish and implement a system to process and pay claims for payment for hospital care, medical services, and other health carefurnished by non-Department of Veterans Affairs health care providers under the laws administered by the Secretary.
+Claims processing system.—The Secretary of Veterans Affairs shall establish and implement a system to process and pay claims for payment for hospital care, medical services, and other health care furnished by non-Department of Veterans Affairs health care providers under the laws administered by the Secretary.
 
 &emsp;"(2)
 
@@ -2482,7 +2950,7 @@ Assessment.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;&emsp;&emsp;"(i) The case load of, and number of patients treated by, each health care provider at such medical facility during an average week.
 
-&emsp;&emsp;&emsp;"(ii) The time spent by such health care provider on matters other than the case load of suchhealth care provider, including time spent by such health care provider as follows:
+&emsp;&emsp;&emsp;"(ii) The time spent by such health care provider on matters other than the case load of such health care provider, including time spent by such health care provider as follows:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) At a medical facility that is affiliated with the Department.
 
@@ -2726,7 +3194,7 @@ Hearings.—The Commission may hold such hearings, sit and act at such times and
 
 &emsp;"(2)
 
-Information from federal agencies.—The Commission may secure directly from any Federalagency such information as the Commission considers necessary to carry out this section. Upon request of the Chairperson of the Commission, the head of such agency shall furnish such information to the Commission.
+Information from federal agencies.—The Commission may secure directly from any Federal agency such information as the Commission considers necessary to carry out this section. Upon request of the Chairperson of the Commission, the head of such agency shall furnish such information to the Commission.
 
 "(d)
 
@@ -2848,7 +3316,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 &emsp;"(3)
 
-Publication.—Not later than 30 days after the receipt of the report required by paragraph (1), theSecretary shall publish such report in the Federal Register and on an Internet website of the Department accessible to the public.
+Publication.—Not later than 30 days after the receipt of the report required by paragraph (1), the Secretary shall publish such report in the Federal Register and on an Internet website of the Department accessible to the public.
 
 "(c)
 
@@ -2940,7 +3408,7 @@ Factors.—In modifying performance plans under paragraph (1), the Secretary sha
 
 &emsp;&emsp;"(D) Reviews of such facilities by the Commission on Accreditation of Rehabilitation Facilities.
 
-&emsp;&emsp;"(E) The number and outcomes of administrative investigation boards, root cause analyses, and peer reviews conducted at such facilities during the fiscal year for which the assessment is being conducted.
+&emsp;&emsp;"(E) The number and outcomes of administrative investigation boards, root cause analyses, and peerreviews conducted at such facilities during the fiscal year for which the assessment is being conducted.
 
 &emsp;&emsp;"(F) The effectiveness of any remedial actions or plans resulting from any Inspector General recommendations in the reviews and analyses described in subparagraphs (A) through (E).
 
@@ -3054,7 +3522,7 @@ Comptroller General Report and Plan.—
 
 &emsp;"(1)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Aug. 7, 2014\], the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate andthe Committee on Veterans' Affairs of the House of Representatives a report setting forth an assessment by the Comptroller General of the following:
+Report.—Not later than 2 years after the date of the enactment of this Act \[Aug. 7, 2014\], the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report setting forth an assessment by the Comptroller General of the following:
 
 &emsp;&emsp;"(A) The manner in which contractors under the Patient-Centered Community Care initiative of the Department perform oversight of the credentials of physicians within the networks of such contractors under the initiative.
 
@@ -3156,7 +3624,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 
 "(e)
 
-Funding Plan.—The Secretary shall submit to Congress a funding plan describing how the Secretary intends to use the amounts provided under subsection (a).
+Funding Plan.—The Secretary shall submit to Congress a funding plan describing how the Secretaryintends to use the amounts provided under subsection (a).
 
 #### "SEC. 802. VETERANS CHOICE FUND.
 
@@ -3284,7 +3752,7 @@ Pub. L. 104–262, title I, §103(b), Oct. 9, 1996, 110 Stat. 3182, provided tha
 
 #### Study of Feasibility and Advisability of Alternative Organizational Structures for Effective Provision of Health Care Services to Veterans
 
-Pub. L. 103–446, title XI, §1104, Nov. 2, 1994, 108 Stat. 4682, directed Secretary of Veterans Affairs to submitto Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
+Pub. L. 103–446, title XI, §1104, Nov. 2, 1994, 108 Stat. 4682, directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
 
 #### Contract Health Care; Ratification of Action of Administrator of Veterans' Affairs
 

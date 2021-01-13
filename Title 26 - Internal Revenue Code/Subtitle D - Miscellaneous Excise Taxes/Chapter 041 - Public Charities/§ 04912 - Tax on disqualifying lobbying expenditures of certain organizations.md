@@ -28,7 +28,7 @@ If tax is imposed under subsection (a) on the lobbying expenditures of any organ
 
 #### (1) Lobbying expenditures
 
-&emsp;The term "lobbying expenditure" means any amount paid or incurred by the organization in carrying on propaganda, or otherwise attempting to influence legislation.
+&emsp;The term "lobbying expenditure" means any amount paid or incurred by the organizationin carrying on propaganda, or otherwise attempting to influence legislation.
 
 #### (2) Organization manager
 

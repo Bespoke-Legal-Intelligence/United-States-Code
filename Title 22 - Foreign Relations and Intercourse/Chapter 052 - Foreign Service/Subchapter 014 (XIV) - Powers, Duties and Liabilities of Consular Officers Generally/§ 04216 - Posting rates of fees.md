@@ -4,6 +4,8 @@ It shall be the duty of all consular officers at all times to keep posted up in 
 
 (R.S. §1731.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1731 derived from act Aug. 18, 1856, ch. 127, §16, 11 Stat. 57.

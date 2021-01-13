@@ -90,7 +90,7 @@ An individual who participates in or provides information to a person or body th
 
 #### (i) Application to information in certain other records
 
-Nothing in this section shall be construed as limiting access to the information in a recordcreated and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
+Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 #### (j) Regulations
 
@@ -109,6 +109,8 @@ To the extent that the protections under part C of title IX of the Public Health
 This section shall continue in force and effect, except as otherwise specifically provided in any Federal law enacted after March 23, 2010.
 
 (Pub. L. 94–437, title VIII, §805, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

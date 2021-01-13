@@ -38,7 +38,7 @@
 
 &emsp;(J) ensure that priority general public uses of the System receive enhanced consideration over other general public uses in planning and management within the System;
 
-&emsp;(K) provide increased opportunities for families to experience compatible wildlife-dependent recreation, particularly opportunities for parents and their children to safely engage in traditional outdoor activities, such as fishing and hunting;
+&emsp;(K) provide increased opportunities for families to experience compatible wildlife-dependent recreation, particularly opportunities for parents and their children to safely engage intraditional outdoor activities, such as fishing and hunting;
 
 &emsp;(L) continue, consistent with existing laws and interagency agreements, authorized or permitted uses of units of the System by other Federal agencies, including those necessary to facilitate military preparedness;
 
@@ -124,7 +124,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(vii) require, after an opportunity for public comment, reevaluation of each existing use, other than those uses specified in clause (viii), if conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than once every 10 years, to ensure that the use remains a compatible use, except that, in the case of any use authorized for a period longer than 10 years (such as an electric utility right-of-way), the reevaluation required by this clause shall examine compliance with the terms and conditions of the authorization, not examine the authorization itself;
 
-&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
+&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatiblewildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
 
 &emsp;(ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
 
@@ -132,7 +132,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(A) overflights above a refuge; and
 
-&emsp;(B) activities authorized, funded, or conducted by a Federal agency (other than the United States Fish and Wildlife Service) which has primary jurisdiction over a refuge or aportion of a refuge, if the management of those activities is in accordance with a memorandum of understanding between the Secretary or the Director and the head of the Federal agency with primary jurisdiction over the refuge governing the use of the refuge.
+&emsp;(B) activities authorized, funded, or conducted by a Federal agency (other than the United States Fish and Wildlife Service) which has primary jurisdiction over a refuge or a portion of a refuge, if the management of those activities is in accordance with a memorandum of understanding between the Secretary or the Director and the head of the Federal agency with primary jurisdiction over the refuge governing the use of the refuge.
 
 #### (e) Refuge conservation planning program for non-Alaskan refuge lands
 
@@ -182,7 +182,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (1) Knowing violations
 
-&emsp;Any person who knowingly violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both.
+&emsp;Any person who knowingly violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shallbe fined under title 18 or imprisoned for not more than 1 year, or both.
 
 #### (2) Other violations
 
@@ -190,7 +190,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
 
-Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animalsor part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
+Any person authorized by the Secretary to enforce the provisions of this Act or any regulations issued thereunder, may, without a warrant, arrest any person violating this Act or regulations in his presence or view, and may execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this Act or regulations, and may with a search warrant search for and seize any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof, taken or possessed in violation of this Act or the regulations issued thereunder. Any property, fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or egg thereof seized with or without a search warrant shall be held by such person or by a United States marshal, and upon conviction, shall be forfeited to the United States and disposed of by the Secretary, in accordance with law. The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.
 
 #### (h) Regulations; continuation, modification, or rescission
 
@@ -674,7 +674,7 @@ Condition of conveyance.—The conveyance under paragraph (1) shall be subject t
 
 &emsp;"(3)
 
-Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
+Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the propertyconveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
 
 &emsp;"(4)
 
@@ -749,6 +749,8 @@ Cibola National Wildlife Refuge, California.—Pub. L. 109–127, Dec. 7, 2005, 
 Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185.
 
 Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, §138, Oct. 11, 2000, 114 Stat. 949.
+
+Congressman Lester Wolff Oyster Bay National Wildlife Refuge, New York.—Pub. L. 116–110, Jan. 27, 2020, 134 Stat. 6.
 
 Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
 

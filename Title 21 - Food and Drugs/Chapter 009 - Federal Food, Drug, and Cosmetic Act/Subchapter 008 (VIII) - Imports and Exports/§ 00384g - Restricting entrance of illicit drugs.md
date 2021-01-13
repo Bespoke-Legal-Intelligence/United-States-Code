@@ -12,6 +12,8 @@
 
 (Pub. L. 115–271, title III, §3022(a), Oct. 24, 2018, 132 Stat. 3938.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -20,7 +22,9 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a)(1), 
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Codification
 
-Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement NowAct, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 

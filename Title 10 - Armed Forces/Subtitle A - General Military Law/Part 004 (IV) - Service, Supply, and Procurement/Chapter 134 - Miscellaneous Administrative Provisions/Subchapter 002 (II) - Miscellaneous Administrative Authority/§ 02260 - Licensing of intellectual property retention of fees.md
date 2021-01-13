@@ -48,7 +48,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "Secretary concerned" has the meaning provided in section 101(a)(9) of this title and also includes—
 
-&emsp;&emsp;(A) the Secretary of Defense, with respect to matters concerning the Defense Agencies and Department of Defense Field Activities; and
+&emsp;&emsp;(A) the Secretary of Defense, with respect to matters concerning the Defense Agenciesand Department of Defense Field Activities; and
 
 &emsp;&emsp;(B) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 

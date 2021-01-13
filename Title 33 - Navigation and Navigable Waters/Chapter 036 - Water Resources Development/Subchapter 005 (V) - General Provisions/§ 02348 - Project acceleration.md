@@ -74,7 +74,7 @@ In this section:
 
 #### (2) Coordinated review
 
-&emsp;The coordinated environmental review process described in paragraph (1) shall requirethat any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or local governmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
+&emsp;The coordinated environmental review process described in paragraph (1) shall require that any review, analysis, opinion, statement, permit, license, or other approval or decision issued or made by a Federal, State, or local governmental agency or an Indian tribe for a project study described in subsection (b) be conducted, to the maximum extent practicable, concurrently with any other applicable governmental agency or Indian tribe.
 
 #### (3) Timing
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (4) Roles and responsibility of lead agency
 
-&emsp;With respect to the environmental review process for any project study, the Federal lead agency shall have authority and responsibility—
+&emsp;With respect to the environmental review process for any project study, the Federal leadagency shall have authority and responsibility—
 
 &emsp;&emsp;(A) to take such actions as are necessary and proper and within the authority of the Federal lead agency to facilitate the expeditious resolution of the environmental review process for the project study; and
 
@@ -314,7 +314,7 @@ In this section:
 
 #### (B) Other environmental review processes
 
-&emsp;&emsp;For all other comment periods established by the Federal lead agency for agency or public comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
+&emsp;&emsp;For all other comment periods established by the Federal lead agency for agency orpublic comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
 
 &emsp;&emsp;&emsp;(i) a different deadline is established by agreement of the Federal lead agency, the project sponsor, or joint lead agency, as applicable, and all participating and cooperating agencies; or
 
@@ -336,7 +336,7 @@ In this section:
 
 #### (A) Reporting requirements
 
-&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintainan electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
+&emsp;&emsp;Not later than 1 year after June 10, 2014, the Secretary shall establish and maintain an electronic database and, in coordination with other Federal and State agencies, issue reporting requirements to make publicly available the status and progress with respect to compliance with applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq.) and any other Federal, State, or local approval or action required for a project study for which this section is applicable.
 
 #### (B) Project study transparency
 
@@ -386,7 +386,7 @@ In this section:
 
 #### (E) Convention by Secretary
 
-&emsp;&emsp;The Secretary may convene an issue resolution meeting under this paragraph at any time, at the discretion of the Secretary, regardless of whether a meeting is requested under subparagraph (A).
+&emsp;&emsp;The Secretary may convene an issue resolution meeting under this paragraph at anytime, at the discretion of the Secretary, regardless of whether a meeting is requested under subparagraph (A).
 
 #### (5) Financial penalty provisions
 
@@ -470,7 +470,7 @@ In this section:
 
 #### (3) Memorandum of agency agreement
 
-&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda ofagreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
+&emsp;If requested at any time by a State or project sponsor, the Federal lead agency, in consultation with other Federal agencies with relevant jurisdiction in the environmental review process, may establish memoranda of agreement with the project sponsor, Indian tribe, State and local governments, and other appropriate entities to carry out the early coordination activities, including providing technical assistance in identifying potential impacts and mitigation issues in an integrated fashion.
 
 #### (j) Limitations
 
@@ -556,9 +556,11 @@ The Secretary shall establish a program to measure and report on progress made t
 
 #### (o) Implementation guidance
 
-The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implementthis section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
+The Secretary shall prepare, in consultation with the Council on Environmental Quality and other Federal agencies with jurisdiction over actions or resources that may be impacted by a project, guidance documents that describe the coordinated environmental review processes that the Secretary intends to use to implement this section for the planning of projects, in accordance with the civil works program of the Corps of Engineers and all applicable law.
 
 (Pub. L. 110–114, title II, §2045, Nov. 8, 2007, 121 Stat. 1103; Pub. L. 113–121, title I, §1005(a)(1), June 10, 2014, 128 Stat. 1199.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -573,6 +575,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–121 amended section generally. Prior to amendment, section related to project streamlining.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

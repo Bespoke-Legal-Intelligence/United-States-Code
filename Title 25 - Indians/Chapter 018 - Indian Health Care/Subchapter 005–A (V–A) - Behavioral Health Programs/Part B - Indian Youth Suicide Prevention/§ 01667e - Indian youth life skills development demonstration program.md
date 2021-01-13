@@ -6,7 +6,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 &emsp;(1) the establishment of tribal partnerships to develop and implement such a curriculum, in cooperation with—
 
-&emsp;&emsp;(A) behavioral health professionals, with a priority for tribal partnerships cooperatingwith mental health professionals employed by the Service;
+&emsp;&emsp;(A) behavioral health professionals, with a priority for tribal partnerships cooperating with mental health professionals employed by the Service;
 
 &emsp;&emsp;(B) tribal or local school agencies; and
 
@@ -112,7 +112,7 @@ The purpose of this section is to authorize the Secretary, acting through the Ad
 
 &emsp;&emsp;&emsp;(ii) if needed and on a case-by-case basis, referred to a mental health clinician for further assessment and treatment and with crisis response capability; and
 
-&emsp;&emsp;(E) an assurance that supportive services will be provided to curriculum participantsidentified as high-risk participants, including referral, counseling, and follow-up services for—
+&emsp;&emsp;(E) an assurance that supportive services will be provided to curriculum participants identified as high-risk participants, including referral, counseling, and follow-up services for—
 
 &emsp;&emsp;&emsp;(i) drug or alcohol abuse;
 
@@ -190,6 +190,8 @@ Using such amounts made available pursuant to subsection (e) as the Secretary de
 
 (Pub. L. 94–437, title VII, §726, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 114–95, title IX, §9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 726 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -197,6 +199,8 @@ Section 726 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(3)(D)(iii). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7702 or 7703 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -18,7 +18,9 @@ Funds to carry out the purposes of this section may be drawn from general admini
 
 (Pub. L. 95–471, title I, §115, formerly §114, Oct. 17, 1978, 92 Stat. 1329; renumbered §115, Pub. L. 98–192, §4(a)(1), Dec. 1, 1983, 97 Stat. 1336.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Promulgation of Regulations; Consultation
 
-Pub. L. 98–192, §15, Dec. 1, 1983, 97 Stat. 1343, provided that: "In promulgating any regulations to implement the amendments made by this Act \[enacting sections 1804a and 1831 to 1836 of this title and amending former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title\], the Secretary of the Interior shall consult with tribally controlled community colleges."
+Pub. L. 98–192, §15, Dec. 1, 1983, 97 Stat. 1343, provided that: "In promulgating any regulations to implementthe amendments made by this Act \[enacting sections 1804a and 1831 to 1836 of this title and amending former section 640c–1 and sections 1801 to 1803 and 1805 to 1813 of this title\], the Secretary of the Interior shall consult with tribally controlled community colleges."
 

@@ -44,7 +44,7 @@ A State may use funds provided under this division to provide vouchers, for serv
 
 &emsp;&emsp;(B) a person who received such assistance at any time during the 10-month period ending with the birth of the child.
 
-(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867; amended Pub. L. 98–369, div. B, title VI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351; Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981,95 Stat. 867; amended Pub. L. 98–369, div. B, title VI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351; Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Pub. L. 96–499, title X, §1001(b), Dec. 5, 1980, 94 Stat. 2655, provided that
 
 #### Reimbursement of Expenditures for Social Services Provided by States Prior to October 1, 1975; Authorization of Appropriations; Procedures Applicable to Payment of Unpaid Claims of States
 
-Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States forreimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barred judicial review, and provided for allotment of appropriations for claims.
+Pub. L. 95–291, June 12, 1978, 92 Stat. 304, authorized appropriations for payments to States in settlement of unpaid claims of States against the United States for reimbursement of expenditures made by States prior to Oct. 1, 1975, for services and administrative costs under a State plan pursuant to specific subchapters of this chapter, provided schedules for payment of a claim asserted prior to the ninety-first day after June 12, 1978, depending on when the claim was asserted, barred other claims and certain claims of the United States for recovery, provided for review of determinations, barred judicial review, and provided for allotment of appropriations for claims.
 
 #### Payments to States for Fiscal Period Beginning July 1, 1976, and Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, 1978, and 1979, Computation Amounts, Limitations, Etc.
 

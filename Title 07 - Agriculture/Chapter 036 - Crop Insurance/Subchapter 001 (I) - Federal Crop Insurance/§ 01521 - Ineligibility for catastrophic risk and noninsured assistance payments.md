@@ -1,6 +1,6 @@
 ### §1521. Ineligibility for catastrophic risk and noninsured assistance payments
 
-If the Secretary determines that a person has knowingly adopted a material scheme or device to obtain catastrophic risk, additional coverage, or noninsured assistance benefits under this subchapter to which the person is not entitled, has evaded this subchapter, or has acted with the purposes of evading this subchapter, the person shall be ineligible to receive all benefits applicable to the crop year for which the scheme or device was adopted.
+If the Secretary determines that a person has knowingly adopted a material scheme or deviceto obtain catastrophic risk, additional coverage, or noninsured assistance benefits under this subchapter to which the person is not entitled, has evaded this subchapter, or has acted with the purposes of evading this subchapter, the person shall be ineligible to receive all benefits applicable to the crop year for which the scheme or device was adopted.
 
 (Feb. 16, 1938, ch. 30, title V, §521, as added Pub. L. 103–354, title I, §114, Oct. 13, 1994, 108 Stat. 3203; amended Pub. L. 110–234, title XII, §§12002(b)(2), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12002(b)(2), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167.)
 

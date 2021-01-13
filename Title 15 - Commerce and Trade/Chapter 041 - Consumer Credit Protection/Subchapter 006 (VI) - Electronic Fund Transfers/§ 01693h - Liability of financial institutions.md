@@ -4,7 +4,7 @@
 
 Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
 
-&emsp;(1) the financial institution's failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where—
+&emsp;(1) the financial institution's failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timelymanner when properly instructed to do so by the consumer, except where—
 
 &emsp;&emsp;(A) the consumer's account has insufficient funds;
 

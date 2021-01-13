@@ -12,7 +12,7 @@
 
 &emsp;(i) the bond shall be paid to the plan,
 
-&emsp;(ii) the employer shall immediately be liable for the outstanding amount of liability duewith respect to the plan year for which the bond was posted, and
+&emsp;(ii) the employer shall immediately be liable for the outstanding amount of liability due with respect to the plan year for which the bond was posted, and
 
 &emsp;(iii) the employer shall continue to make the partial withdrawal liability payments as they are due.
 
@@ -45,6 +45,8 @@ In any case in which, in any plan year following a partial withdrawal under sect
 (3) The corporation shall prescribe by regulation a procedure by which a plan may by amendment adopt rules for the reduction or elimination of partial withdrawal liability under any other conditions, subject to the approval of the corporation based on its determination that adoption of such rules by the plan is consistent with the purposes of this chapter.
 
 (Pub. L. 93–406, title IV, §4208, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1224.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Federal agencies affected
 
-All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
+All personnel actions affecting employees or applicants for employment who are at least 40 years of age (except personnel actions with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units in the government of the District of Columbia having positions in the competitive service, and inthose units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on age.
 
 #### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification
 
@@ -40,6 +40,8 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
@@ -59,6 +61,8 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 <b>1978</b>—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and "personnel actions" after "except".
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -83,6 +87,8 @@ Pub. L. 95–256, §5(f), Apr. 6, 1978, 92 Stat. 192, provided that: "The amendm
 #### Effective Date
 
 Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

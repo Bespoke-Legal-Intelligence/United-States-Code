@@ -32,7 +32,7 @@ Any State plan submitted under this subchapter may include, at the option of the
 
 #### (c) Energy and materials conservation and recovery feasibility planning and assistance
 
-(1) A State which has a plan approved under this subchapter or which has submitted a planfor such approval shall be eligible for assistance under section 6948(a)(3) of this title if the Administrator determines that under such plan the State will—
+(1) A State which has a plan approved under this subchapter or which has submitted a plan for such approval shall be eligible for assistance under section 6948(a)(3) of this title if the Administrator determines that under such plan the State will—
 
 &emsp;(A) analyze and determine the economic and technical feasibility of facilities and programs to conserve resources which contribute to the waste stream or to recover energy and materials from municipal waste;
 

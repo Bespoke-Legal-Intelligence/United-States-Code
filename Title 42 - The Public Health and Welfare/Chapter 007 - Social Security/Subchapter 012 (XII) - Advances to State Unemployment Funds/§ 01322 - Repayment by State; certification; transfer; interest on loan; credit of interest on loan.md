@@ -22,7 +22,7 @@ The Governor of any State may at any time request that funds be transferred from
 
 (C)(i) In the case of any State which meets the requirements of clause (ii) for any calendar year, any interest otherwise required to be paid under this subsection during such calendar year shall be paid as follows—
 
-&emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day duringsuch calendar year shall be paid on or before such day; and
+&emsp;(I) 25 percent of the amount otherwise required to be paid on or before any day during such calendar year shall be paid on or before such day; and
 
 &emsp;(II) 25 percent of the amount otherwise required to be paid on or before such day shall be paid on or before the corresponding day in each of the 3 succeeding calendar years.
 
@@ -64,19 +64,19 @@ The Governor of any State may at any time request that funds be transferred from
 
 (9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
 
-(10)(A) With respect to the period beginning on February 17, 2009, and ending on December 31, 2010—
+(10)(A) With respect to the period beginning on March 18, 2020, and ending on March 14, 2021—
 
 &emsp;(i) any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
 
 &emsp;(ii) no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
 
-(B) The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
+(B) The provisions of subparagraph (A) shall have no effect on the requirement for interestpayments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
 
 #### (c) Credit of interest on loan
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443; Pub. L. 116–127, div. D, §4103, Mar. 18, 2020, 134 Stat. 194; Pub. L. 116–260, div. N, title II, §221, Dec. 27, 2020, 134 Stat. 1956.)
 
 #### References in Text
 
@@ -85,6 +85,10 @@ Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970,
 The Internal Revenue Code of 1986, referred to in subsec. (b)(5), (8)(B)(i), is classified generally to Title 26.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(10)(A). Pub. L. 116–260 substituted "March 14, 2021" for "December 31, 2020" in introductory provisions.
+
+Pub. L. 116–127 substituted "beginning on March 18, 2020, and ending on December 31, 2020" for "beginning on February 17, 2009, and ending on December 31, 2010" in introductory provisions.
 
 <b>2009</b>—Subsec. (b)(10). Pub. L. 111–5 added par. (10).
 

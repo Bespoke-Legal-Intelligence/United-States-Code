@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of section 1181 of this title.
 
-(c) An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, toseparation pay under section 1174(a)(2) of this title.
+(c) An officer who is discharged under subsection (b)(2) is entitled, if eligible therefor, to separation pay under section 1174(a)(2) of this title.
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2874; amended Pub. L. 101–510, div. A, title V, §501(f)(1), Nov. 5, 1990, 104 Stat. 1550.)
 

@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–452, title II, §201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
@@ -2594,6 +2596,8 @@ Elim.
 929
 
 Rep.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Positive Law; Citation
 

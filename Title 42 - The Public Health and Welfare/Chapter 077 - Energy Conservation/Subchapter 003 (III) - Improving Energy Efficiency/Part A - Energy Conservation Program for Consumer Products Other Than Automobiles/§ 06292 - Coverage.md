@@ -64,7 +64,7 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(C) The term "household" shall be defined under rules of the Secretary.
 
-(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
+(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1),Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 "(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the 'Commission') shall prescribe labeling rules under section 324 of such Act (42 U.S.C. 6294) for those windows and window systems for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of window or window system (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions.
 
-"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for whichthe Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
+"(3) For purposes of sections 323, 324, and 327 of such Act \[42 U.S.C. 6293, 6294, 6297\], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act (42 U.S.C. 6292) to the extent necessary to carry out this subsection.
 
 "(4) For purposes of section 327(a) of such Act, the term 'this part' includes this subsection to the extent necessary to carry out this subsection."
 
@@ -216,39 +216,9 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 #### Report on Potential of Cooperative Advanced Appliance Development
 
-Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that:
-
-"(a)
-
-In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, prepare and submitto the Congress, a report on the potential for the development and commercialization of appliances which are substantially more efficient than required by Federal or State law.
-
-"(b)
-
-Identification of High-Efficiency Appliances.—The report submitted under subsection (a) shall identify candidate high-efficiency appliances which meet the following criteria:
-
-&emsp;"(1) The potential exists for substantial improvement in the appliance's energy efficiency, beyond the minimum established in Federal and State law.
-
-&emsp;"(2) There is the potential for significant energy savings at the national or regional level.
-
-&emsp;"(3) Such appliances are likely to be cost-effective for consumers.
-
-&emsp;"(4) Electric, water, or gas utilities are prepared to support and promote the commercialization of such appliances.
-
-&emsp;"(5) Manufacturers are unlikely to undertake development and commercialization of such appliances on their own, or development and production would be substantially accelerated by support to manufacturers.
-
-"(c)
-
-Recommendations and Proposals.—The report submitted under subsection (a) shall also—
-
-&emsp;"(1) describe the general actions the Secretary or the Administrator of the Environmental Protection Agency could take to coordinate and assist utilities and appliance manufacturers in developing and commercializing highly efficient appliances;
-
-&emsp;"(2) describe specific proposals for Department of Energy or Environmental Protection Agency assistance to utilities and appliance manufacturers to promote the development and commercialization of highly efficient appliances;
-
-&emsp;"(3) identify methods by which Federal purchase of highly efficient appliances could assist in the development and commercialization of such appliances; and
-
-&emsp;"(4) identify the funding levels needed to develop and implement a Federal program to assist in the development and commercialization of highly efficient appliances."
+Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress, a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 
-Pub. L. 102–486, title I, §128, Oct. 24, 1992, 106 Stat. 2836, provided that: "Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, shall evaluate and report to the Congress on the energy savings and environmental benefits of programs which are directed to the early replacement of older, less efficient appliances presently in use by consumers with existing products which are more efficient than required by Federal law. For the purposes of this section, the term 'appliance' means those consumer products specified in section 322(a) \[42 U.S.C. 6292(a)\]."
+Pub. L. 102–486, title I, §128, Oct. 24, 1992, 106 Stat. 2836, required the Secretary, within 18 months after Oct. 24, 1992, and in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, to evaluate and report to Congress on the energy savings and environmental benefits of programs directed to the early replacement of older, less efficient appliances (as defined in subsec. (a) of this section) in use by consumers with products more efficient than required by Federal law.
 

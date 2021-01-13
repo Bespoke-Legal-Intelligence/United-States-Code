@@ -38,7 +38,7 @@ Not more than eight voting members of the Board (including members described in 
 
 (2) The terms of the members of the Board initially appointed under subsection (b)(4) shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
 
-(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(4) not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
+(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) prior to January 20, 1985, but shall submit the names of eleven nominees for initialBoard membership under subsection (b)(4) not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
 
 (4) An individual appointed as a member of the Board under subsection (b)(4) may not be appointed to more than two terms on the Board.
 
@@ -80,6 +80,8 @@ While away from his home or regular place of business in the performance of duti
 
 (Pub. L. 98–525, title XVII, §1706, Oct. 19, 1984, 98 Stat. 2654; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 110–315, title IX, §921(b)(1), Aug. 14, 2008, 122 Stat. 3456.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
@@ -94,13 +96,15 @@ Subsec. (e)(5). Pub. L. 110–315, §921(b)(1)(B), added par. (5).
 
 Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted "Twelve" for "Eleven". Former par. (4) redesignated (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
 
 #### Effective Date of 1998 Amendment
 

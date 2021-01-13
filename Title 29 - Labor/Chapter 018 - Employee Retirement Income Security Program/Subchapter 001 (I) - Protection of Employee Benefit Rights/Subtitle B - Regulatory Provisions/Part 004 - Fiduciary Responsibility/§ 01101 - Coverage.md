@@ -66,7 +66,9 @@ For purposes of this part:
 
 (7) For purposes of this subsection, the term "policy" includes a contract.
 
-(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19,1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
+(Pub. L. 93–406, title I, §401, Sept. 2, 1974, 88 Stat. 874; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–188, title I, §1460(a), Aug. 20, 1996, 110 Stat. 1820.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ The Investment Company Act of 1940, referred to in subsec. (b)(1), is title I of
 <b>1996</b>—Subsec. (c). Pub. L. 104–188 added subsec. (c).
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

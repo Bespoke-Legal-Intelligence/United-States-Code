@@ -30,15 +30,17 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, or any other sector as determined by a majority vote of the Council that—
+&emsp;&emsp;The term "covered project" means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, carbon capture, or any other sector as determined by a majority vote of the Council that—
 
 &emsp;&emsp;&emsp;(i)(I) is subject to NEPA;
 
 &emsp;&emsp;&emsp;(II) is likely to require a total investment of more than $200,000,000; and
 
-&emsp;&emsp;&emsp;(III) does not qualify for abbreviated authorization or environmental review processes under any applicable law; or
+&emsp;&emsp;&emsp;(III) does not qualify for abbreviated authorization or environmental review processes under any applicable law;
 
-&emsp;&emsp;&emsp;(ii) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
+&emsp;&emsp;&emsp;(ii) is covered by a programmatic plan or environmental review developed for the primary purpose of facilitating development of carbon dioxide pipelines; or
+
+&emsp;&emsp;&emsp;(iii) is subject to NEPA and the size and complexity of which, in the opinion of the Council, make the project likely to benefit from enhanced oversight and coordination, including a project likely to require—
 
 &emsp;&emsp;&emsp;&emsp;(I) authorization from or environmental review involving more than 2 Federal agencies; or
 
@@ -51,6 +53,14 @@ In this subchapter:
 &emsp;&emsp;&emsp;(i) any project subject to section 139 of title 23; or
 
 &emsp;&emsp;&emsp;(ii) any project subject to section 2348 of title 33.
+
+#### (C) Inclusion
+
+&emsp;&emsp;For purposes of subparagraph (A), construction of infrastructure for carbon capture includes construction of—
+
+&emsp;&emsp;&emsp;(i) any facility, technology, or system that captures, utilizes, or sequesters carbon dioxide emissions, including projects for direct air capture (as defined in paragraph (6)(B)(i) of section 7403(g) of this title); and
+
+&emsp;&emsp;&emsp;(ii) carbon dioxide pipelines.
 
 #### (7) Dashboard
 
@@ -110,7 +120,7 @@ In this subchapter:
 
 &emsp;The term "project sponsor" means an entity, including any private, public, or public-private entity, seeking an authorization for a covered project.
 
-(Pub. L. 114–94, div. D, title XLI, §41001, Dec. 4, 2015, 129 Stat. 1741.)
+(Pub. L. 114–94, div. D, title XLI, §41001, Dec. 4, 2015, 129 Stat. 1741; Pub. L. 116–260, div. S, §102(d)(1), Dec. 27, 2020, 134 Stat. 2250.)
 
 #### References in Text
 
@@ -118,7 +128,15 @@ The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(
 
 #### Codification
 
-Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FASTAct, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Amendments
+
+<b>2020</b>—Par. (6)(A). Pub. L. 116–260, §102(d)(1)(A)(i), inserted "carbon capture," after "manufacturing," in introductory provisions.
+
+Par. (6)(A)(ii), (iii). Pub. L. 116–260, §102(d)(1)(A)(ii)–(iv), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Par. (6)(C). Pub. L. 116–260, §102(d)(1)(B), added subpar. (C).
 
 #### Savings Clause
 
@@ -127,6 +145,236 @@ Pub. L. 114–94, div. A, title XI, §11503(b), Dec. 4, 2015, 129 Stat. 1692, pr
 &emsp;"(1) programs administered now and in the future by the Department of Transportation or its operating administrations under title 23, 46, or 49, United States Code, including direct loan and loan guarantee programs, or other Federal statutes or programs or projects administered by an agency pursuant to their authority under title 49, United States Code; or
 
 &emsp;"(2) any project subject to section 2045 of the Water Resources Development Act of 2007 (33 U.S.C. 2348)."
+
+#### Development of Carbon Capture, Utilization, and Sequestration Report, Permitting Guidance, and Regional Permitting Task Force
+
+Pub. L. 116–260, div. S, §102(d)(2), Dec. 27, 2020, 134 Stat. 2250, provided that:
+
+"(A)
+
+Definitions.—In this paragraph:
+
+&emsp;"(i)
+
+Carbon capture, utilization, and sequestration projects.—The term 'carbon capture, utilization, and sequestration projects' includes projects for direct air capture (as defined in paragraph (6)(B)(i) of section 103(g) of the Clean Air Act (42 U.S.C. 7403(g))).
+
+&emsp;"(ii)
+
+Efficient, orderly, and responsible.—The term 'efficient, orderly, and responsible' means, with respect to development or the permitting process for carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, a process that promotes environmental, health, and safety protections while maintaining a process that is completed in an expeditious manner.
+
+"(B)
+
+Report.—
+
+&emsp;"(i)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Dec. 27, 2020\], the Chair of the Council on Environmental Quality (referred to in this section as the 'Chair'), in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of the Interior, the Secretary of Transportation, the Executive Director of the Federal Permitting Improvement Council, and the head of any other relevant Federal agency (as determined by the President), shall prepare a report that—
+
+&emsp;&emsp;"(I) compiles all existing relevant Federal permitting and review information and resources for project applicants, agencies, and other stakeholders interested in the deployment and impact of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, including—
+
+&emsp;&emsp;&emsp;"(aa) the appropriate points of interaction with Federal agencies;
+
+&emsp;&emsp;&emsp;"(bb) clarification of the permitting responsibilities and authorities among Federal agencies; and
+
+&emsp;&emsp;&emsp;"(cc) best practices and templates for permitting in an efficient, orderly, and responsible manner, including through improved staff capacity and training at Federal permitting agencies;
+
+&emsp;&emsp;"(II) inventories current or emerging activities that transform captured carbon dioxide into a product of commercial value, or as an input to products of commercial value;
+
+&emsp;&emsp;"(III) inventories existing initiatives and recent publications that analyze or identify priority carbon dioxide pipelines needed to enable efficient, orderly, and responsible development of carbon capture, utilization, and sequestration projects at increased scale;
+
+&emsp;&emsp;"(IV) identifies gaps in the current Federal regulatory framework for the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines;
+
+&emsp;&emsp;"(V) identifies Federal financing mechanisms available to project developers; and
+
+&emsp;&emsp;"(VI) identifies public engagement opportunities through existing laws, including under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;"(ii)
+
+Submission; publication.—The Chair shall—
+
+&emsp;&emsp;"(I) submit the report under clause (i) to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;"(II) as soon as practicable, make the report publicly available.
+
+"(C)
+
+Guidance.—
+
+&emsp;"(i)
+
+In general.—After submission of the report under subparagraph (B)(ii), but not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall submit guidance consistent with that report to all relevant Federal agencies that—
+
+&emsp;&emsp;"(I) facilitates reviews associated with the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines; and
+
+&emsp;&emsp;"(II) supports the efficient, orderly, and responsible development of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines.
+
+&emsp;"(ii)
+
+Requirements.—
+
+&emsp;&emsp;"(I)
+
+In general.—The guidance under clause (i) shall address applicable requirements under—
+
+&emsp;&emsp;&emsp;"(aa) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;&emsp;&emsp;"(bb) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
+
+&emsp;&emsp;&emsp;"(cc) the Clean Air Act (42 U.S.C. 7401 et seq.);
+
+&emsp;&emsp;&emsp;"(dd) the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+
+&emsp;&emsp;&emsp;"(ee) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+
+&emsp;&emsp;&emsp;"(ff) division A of subtitle III of title 54, United States Code (formerly known as the 'National Historic Preservation Act');
+
+&emsp;&emsp;&emsp;"(gg) the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.);
+
+&emsp;&emsp;&emsp;"(hh) the Act of June 8, 1940 (16 U.S.C. 668 et seq.) (commonly known as the 'Bald and Golden Eagle Protection Act');
+
+&emsp;&emsp;&emsp;"(ii) chapter 601 of title 49, United States Code (including those provisions formerly cited as the Natural Gas Pipeline Safety Act of 1968 (Public Law 90–481; 82 Stat. 720) and the Hazardous Liquid Pipeline Safety Act of 1979 (Public Law 96–129; 93 Stat. 1003)); and
+
+&emsp;&emsp;&emsp;"(jj) any other Federal law that the Chair determines to be appropriate.
+
+&emsp;&emsp;"(II)
+
+Environmental reviews.—The guidance under clause (i) shall include direction to States and other interested parties for the development of programmatic environmental reviews under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) for carbon capture, utilization, and sequestration projects and carbon dioxide pipelines.
+
+&emsp;&emsp;"(III)
+
+Public involvement.—The guidance under clause (i) shall be subject to the public notice, comment, and solicitation of information procedures under section 1506.6 of title 40, Code of Federal Regulations (or a successor regulation).
+
+&emsp;"(iii)
+
+Submission; publication.—The Chair shall—
+
+&emsp;&emsp;"(I) submit the guidance under clause (i) to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;"(II) as soon as practicable, make the guidance publicly available.
+
+&emsp;"(iv)
+
+Evaluation.—The Chair shall—
+
+&emsp;&emsp;"(I) periodically evaluate the reports of the task forces under subparagraph (D)(v) and, as necessary, revise the guidance under clause (i); and
+
+&emsp;&emsp;"(II) each year, submit to the Committee on Environment and Public Works of the Senate, the Committee on Energy and Commerce, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives, and relevant Federal agencies a report that describes any recommendations for rules, revisions to rules, or other policies that would address the issues identified by the task forces under subparagraph (D)(v).
+
+"(D)
+
+Task forces.—
+
+&emsp;"(i)
+
+Establishment.—Not later than 18 months after the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall establish not less than 2 task forces, which shall each cover a different geographical area with differing demographic, land use, or geological issues—
+
+&emsp;&emsp;"(I) to identify permitting and other challenges and successes that permitting authorities and project developers and operators face in permitting projects in an efficient, orderly, and responsible manner; and
+
+&emsp;&emsp;"(II) to improve the performance of the permitting process and regional coordination for the purpose of promoting the efficient, orderly, and responsible development of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines.
+
+&emsp;"(ii)
+
+Members and selection.—
+
+&emsp;&emsp;"(I)
+
+In general.—The Chair shall—
+
+&emsp;&emsp;&emsp;"(aa) develop criteria for the selection of members to each task force; and
+
+&emsp;&emsp;&emsp;"(bb) select members for each task force in accordance with item (aa) and subclause (II).
+
+&emsp;&emsp;"(II)
+
+Members.—Each task force—
+
+&emsp;&emsp;&emsp;"(aa) shall include not less than 1 representative of each of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(AA) the Environmental Protection Agency;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(BB) the Department of Energy;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(CC) the Department of the Interior;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(DD) the Pipeline and Hazardous Materials Safety Administration;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(EE) any other Federal agency the Chair determines to be appropriate;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(FF) any State that requests participation in the geographical area covered by the task force;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(GG) developers or operators of carbon capture, utilization, and sequestration projects or carbon dioxide pipelines; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(HH) nongovernmental membership organizations, the primary mission of which concerns protection of the environment;
+
+&emsp;&emsp;&emsp;"(bb) at the request of a Tribal or local government, may include a representative of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(AA) not less than 1 local government in the geographical area covered by the task force; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(BB) not less than 1 Tribal government in the geographical area covered by the task force; and
+
+&emsp;&emsp;&emsp;"(cc) shall include 1 expert in each of the following fields—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(AA) health and environmental effects, including exposure evaluation; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(BB) pipeline safety.
+
+&emsp;"(iii)
+
+Meetings.—
+
+&emsp;&emsp;"(I)
+
+In general.—Each task force shall meet not less than twice each year.
+
+&emsp;&emsp;"(II)
+
+Joint meeting.—To the maximum extent practicable, the task forces shall meet collectively not less than once each year.
+
+&emsp;"(iv)
+
+Duties.—Each task force shall—
+
+&emsp;&emsp;"(I) inventory existing or potential Federal and State approaches to facilitate reviews associated with the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines, including best practices that—
+
+&emsp;&emsp;&emsp;"(aa) avoid duplicative reviews to the extent permitted by law;
+
+&emsp;&emsp;&emsp;"(bb) engage stakeholders early in the permitting process; and
+
+&emsp;&emsp;&emsp;"(cc) make the permitting process efficient, orderly, and responsible;
+
+&emsp;&emsp;"(II) develop common models for State-level carbon dioxide pipeline regulation and oversight guidelines that can be shared with States in the geographical area covered by the task force;
+
+&emsp;&emsp;"(III) provide technical assistance to States in the geographical area covered by the task force in implementing regulatory requirements and any models developed under subclause (II);
+
+&emsp;&emsp;"(IV) inventory current or emerging activities that transform captured carbon dioxide into a product of commercial value, or as an input to products of commercial value;
+
+&emsp;&emsp;"(V) identify any priority carbon dioxide pipelines needed to enable efficient, orderly, and responsible development of carbon capture, utilization, and sequestration projects at increased scale;
+
+&emsp;&emsp;"(VI) identify gaps in the current Federal and State regulatory framework and in existing data for the deployment of carbon capture, utilization, and sequestration projects and carbon dioxide pipelines;
+
+&emsp;&emsp;"(VII) identify Federal and State financing mechanisms available to project developers; and
+
+&emsp;&emsp;"(VIII) develop recommendations for relevant Federal agencies on how to develop and research technologies that—
+
+&emsp;&emsp;&emsp;"(aa) can capture carbon dioxide; and
+
+&emsp;&emsp;&emsp;"(bb) would be able to be deployed within the region covered by the task force, including any projects that have received technical or financial assistance for research under paragraph (6) of section 103(g) of the Clean Air Act (42 U.S.C. 7403(g)).
+
+&emsp;"(v)
+
+Report.—Each year, each task force shall prepare and submit to the Chair and to the other task forces a report that includes—
+
+&emsp;&emsp;"(I) any recommendations for improvements in efficient, orderly, and responsible issuance or administration of Federal permits and other Federal authorizations required under a law described in subparagraph (C)(ii)(I); and
+
+&emsp;&emsp;"(II) any other nationally relevant information that the task force has collected in carrying out the duties under clause (iv).
+
+&emsp;"(vi)
+
+Evaluation.—Not later than 5 years after the date of enactment of this Act \[Dec. 27, 2020\], the Chair shall—
+
+&emsp;&emsp;"(I) reevaluate the need for the task forces; and
+
+&emsp;&emsp;"(II) submit to Congress a recommendation as to whether the task forces should continue."
 
 #### Placement in United States Code
 
@@ -178,7 +426,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to:
 
 (e) be good stewards of public funds, including those used to develop infrastructure projects, and avoid duplicative and wasteful processes;
 
-(f) conduct environmental reviews and authorization processes in a coordinated, consistent, predictable, andtimely manner in order to give public and private investors the confidence necessary to make funding decisions for new infrastructure projects;
+(f) conduct environmental reviews and authorization processes in a coordinated, consistent, predictable, and timely manner in order to give public and private investors the confidence necessary to make funding decisions for new infrastructure projects;
 
 (g) speak with a coordinated voice when conducting environmental reviews and making authorization decisions; and
 
@@ -206,7 +454,7 @@ Sec. 4. <i>Agency Performance Accountability</i>. Federal agencies should follow
 
 &emsp;(A) Federal environmental reviews and authorization processes for infrastructure projects are consistent, coordinated, and predictable; and
 
-&emsp;(B) the time for the Federal Government's processing of environmental reviews and authorization decisions for new major infrastructure projects should be reduced to not more than an average of approximately 2 years, measured from the date of the publication of a notice of intent to prepare an environmental impact statement or other benchmark deemed appropriate by the Director of OMB.
+&emsp;(B) the time for the Federal Government's processing of environmental reviews and authorizationdecisions for new major infrastructure projects should be reduced to not more than an average of approximately 2 years, measured from the date of the publication of a notice of intent to prepare an environmental impact statement or other benchmark deemed appropriate by the Director of OMB.
 
 (ii) <i>Agency Goals</i>. All Federal agencies with environmental review, authorization, or consultation responsibilities for infrastructure projects shall modify their Strategic Plans and Annual Performance Plans under the GPRA Modernization Act of 2010 to include agency performance goals related to the completion of environmental reviews and authorizations for infrastructure projects consistent with the new CAP Goal on Infrastructure Permitting Modernization. The agencies shall integrate the achievement of these performance goals into appropriate agency personnel performance plans, such as those of the agency Chief Environmental Review and Permitting Officers (CERPOs) or other appropriate officials, consistent with guidance to be provided by OMB, in consultation with the Office of Personnel Management. Progress on these goals shall be reviewed and analyzed by agency leadership, pursuant to the GPRA Modernization Act of 2010.
 
@@ -258,7 +506,7 @@ Sec. 5. <i>Process Enhancements</i>. In furtherance of the policy described in s
 
 (iv) The Council on Environmental Quality (CEQ) and OMB shall develop the framework for implementing One Federal Decision, in consultation with the FPISC.
 
-&emsp;(A) The framework should be consistent with the model processes established under 42 U.S.C. 4370m–2, 23 U.S.C. 139, 33 U.S.C. 2348, the 2015 "Red Book" (officially entitled "Synchronizing Environmental Reviews for Transportation and Other Infrastructure Projects"), and CEQ guidance on efficient and timely environmental reviews under NEPA.
+&emsp;(A) The framework should be consistent with the model processes established under 42 U.S.C. 4370m–2, 23 U.S.C. 139, 33 U.S.C. 2348, the 2015 "Red Book" (officially entitled "Synchronizing Environmental Reviews for Transportation and Other InfrastructureProjects"), and CEQ guidance on efficient and timely environmental reviews under NEPA.
 
 &emsp;(B) The framework shall also include guidance on the development of permitting timetables by the lead Federal agencies, in collaboration with Federal cooperating and participating agencies. Permitting timetables shall identify estimated intermediate and final completion dates for all environmental reviews and authorizations that are reasonably anticipated as being needed for a project, including the process for granting extensions of any established dates. The guidance shall specify that lead Federal agencies need not include the estimated intermediate and final completion dates of any such reviews or authorizations until the design of a project has sufficiently advanced so that they can be developed. In such cases, the guidance shall instruct lead Federal agencies to estimate when the project's design will be advanced enough to determine such dates. The timelines shall account for any federally required decisions or permits that are assumed by, or delegated to, State, tribal, or local agencies and the extent to which any approval or permit to be issued by a Federal agency is dependent upon the issuance of such a decision or permit.
 

@@ -10,7 +10,7 @@ Elements of the contingency plans prepared pursuant to section 2222 of this titl
 
 &emsp;(3) Water transfers to serve users inside or outside authorized Federal Reclamation project service areas in order to mitigate the effects of drought.
 
-&emsp;(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fishand wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
+&emsp;(4) Use of Federal Reclamation project facilities to store and convey nonproject water for agricultural, municipal and industrial, fish and wildlife, or other uses both inside and outside an authorized Federal Reclamation project service area.
 
 &emsp;(5) Use of water from dead or inactive reservoir storage or increased use of ground water resources for temporary water supplies.
 
@@ -39,6 +39,8 @@ The contingency plans and plan elements shall comply with all requirements of ap
 The contingency plans shall include provisions for periodic review to assure the adequacy of the contingency plan to respond to current conditions, and such plans may be modified accordingly.
 
 (Pub. L. 102–250, title II, §203, Mar. 5, 1992, 106 Stat. 57.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

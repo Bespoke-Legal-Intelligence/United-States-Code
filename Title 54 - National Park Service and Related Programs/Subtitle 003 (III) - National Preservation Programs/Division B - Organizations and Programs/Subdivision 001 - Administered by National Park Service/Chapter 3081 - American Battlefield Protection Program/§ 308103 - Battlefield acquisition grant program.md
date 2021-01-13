@@ -72,7 +72,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 &emsp;&emsp;<i>"(C) any other relevant developments relating to the battlefields and associated sites during that period.</i>
 
-&emsp;<i>"(8) PROHIBITION ON LOBBYING.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress."; and</i>
+&emsp;<i>"(8) PROHIBITION ON LOBBYING.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or</i><i>appropriation matters pending before Congress."; and</i>
 
 <i>(8) In paragraph (9) \[restated as subsec. (f) of this section\] (as redesignated), by striking "2014" and inserting "2021".</i>
 
@@ -105,6 +105,8 @@ Pub. L. 111–11, title VII, subtitle D, §7301(c)(1)(A) through (C), (2) throug
 16 U.S.C. 469k–1(c)(4) through (6).
 
 In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

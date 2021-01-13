@@ -4,9 +4,13 @@ Such sum of money as may be necessary to execute sections 414 and 415 of this ti
 
 (Mar. 3, 1899, ch. 425, §20(a), formerly §20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; renumbered §20(a), Pub. L. 99–662, title IX, §939(b), Nov. 17, 1986, 100 Stat. 4199.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from part of section 20(a) of act Mar. 3, 1899, popularly known as the "Rivers and Harbors Appropriation Act of 1899". See Codification and Amendment notes set out under section 415 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -14,5 +18,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Removing sunken vessels or craft obstructing or endangering navigation (8x888)" effective July 1, 1935, and provided that such portions of any acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Removing sunken vessels or craft obstructing or endangering navigation (8x888)" effective July 1, 1935, and provided that such portions of any acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

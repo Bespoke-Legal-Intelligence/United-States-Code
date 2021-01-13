@@ -38,7 +38,7 @@ Limit on extinguishing or taking interest.—A leasehold surrender interest shal
 
 &emsp;(5)
 
-Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, less depreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
+Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, lessdepreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
 
 &emsp;(6)
 
@@ -131,6 +131,8 @@ National Park Service"), Dec. 26, 2007, 121 Stat. 2107.
 In subsection (b), before paragraph (1), the words "On and after November 13, 1998" are omitted as obsolete. In paragraph (6)(A), the words "Effective 9 years after November 13, 1998" are omitted as obsolete.
 
 In subsection (c)(4), the words "For fiscal years 2008 and hereafter" are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

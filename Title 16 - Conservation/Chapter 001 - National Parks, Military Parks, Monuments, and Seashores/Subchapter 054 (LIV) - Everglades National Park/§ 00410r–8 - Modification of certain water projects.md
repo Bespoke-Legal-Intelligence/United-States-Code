@@ -36,7 +36,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) th
 
 #### (e) Periodic review
 
-(1) Not later than 18 months after the completion of the project modifications authorized in subsection (a), and periodically thereafter, the Secretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
+(1) Not later than 18 months after the completion of the project modifications authorized in subsection (a), and periodically thereafter, theSecretary of the Army shall review the determination of adverse effect for adjacent agricultural areas.
 
 (2) In conducting such review, the Secretary of the Army shall consult with all affected parties, including, but not limited to, the Secretary, the South Florida Water Management District and agricultural users within adjacent agricultural areas.
 
@@ -46,7 +46,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) th
 
 #### (f) Current canal operating levels
 
-Nothing in this section shall be construed to require or prohibit the Secretary of the Army orthe South Florida Water Management District from maintaining the water level within any project canal below the maximum authorized operating level as of December 13, 1989.
+Nothing in this section shall be construed to require or prohibit the Secretary of the Army or the South Florida Water Management District from maintaining the water level within any project canal below the maximum authorized operating level as of December 13, 1989.
 
 #### (g) No limitation on other claims
 

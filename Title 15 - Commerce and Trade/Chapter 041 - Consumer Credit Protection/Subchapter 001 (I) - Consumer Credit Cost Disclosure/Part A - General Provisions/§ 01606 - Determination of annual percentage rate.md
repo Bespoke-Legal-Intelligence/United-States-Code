@@ -14,7 +14,7 @@ The annual percentage rate applicable to any extension of consumer credit shall 
 
 #### (b) Computation of rate of finance charges for balances within a specified range
 
-Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Bureau determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Bureau may be regulation require.
+Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on themedian balance within the range, except that if the Bureau determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Bureau may be regulation require.
 
 #### (c) Allowable tolerances for purposes of compliance with disclosure requirements
 

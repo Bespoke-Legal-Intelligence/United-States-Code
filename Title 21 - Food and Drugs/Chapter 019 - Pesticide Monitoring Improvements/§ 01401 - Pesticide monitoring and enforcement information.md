@@ -54,7 +54,7 @@ The Food and Drug Administration shall use the computerized data management syst
 
 #### (c) Volume data
 
-The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, tothe extent feasible, be obtained from data bases of other Federal agencies.
+The Food and Drug Administration shall use the computerized data management systems placed into effect under subsection (a)(1) to summarize the volume of each type of food product subject to the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] which is imported into the United States and which has an entry value which exceeds an amount established by the Secretary of Health and Human Services. The summary shall be made by country of origin and district of entry. Information with respect to volumes of food products to be included in the summary shall, to the extent feasible, be obtained from data bases of other Federal agencies.
 
 #### (d) Compilation
 
@@ -62,11 +62,15 @@ Not later than 90 days after the expiration of 1 year after the data management 
 
 (Pub. L. 100–418, title IV, §4702, Aug. 23, 1988, 102 Stat. 1412.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(F), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -20,7 +20,7 @@ For purposes of this section, the term "security" means any share of stock in an
 
 #### (1) In general
 
-&emsp;In the case of a floor specialist (but only with respect to acquisitions, in connectionwith his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—
+&emsp;In the case of a floor specialist (but only with respect to acquisitions, in connection with his duties on an exchange, of stock in which the specialist is registered with the exchange), subsection (a) shall be applied—
 
 &emsp;&emsp;(A) by inserting "the 7th business day following" before "the day" the first place it appears in paragraph (1) and by inserting "7th business" before "day" in paragraph (2), and
 
@@ -38,7 +38,7 @@ For purposes of this section, the term "security" means any share of stock in an
 
 #### (e) Special rule for options
 
-For purposes of subsection (a), any security acquired by a dealer pursuant to an option held by such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term "option" includes the right to subscribe to or purchase any security.
+For purposes of subsection (a), any security acquired by a dealer pursuant to an option heldby such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term "option" includes the right to subscribe to or purchase any security.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 330; Pub. L. 94–455, title XIX, §1901(b)(3)(E), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 97–34, title V, §506, Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–448, title I, §105(d)(1), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §107(b), July 18, 1984, 98 Stat. 630; Pub. L. 113–295, div. A, title II, §221(a)(83), Dec. 19, 2014, 128 Stat. 4049.)
 

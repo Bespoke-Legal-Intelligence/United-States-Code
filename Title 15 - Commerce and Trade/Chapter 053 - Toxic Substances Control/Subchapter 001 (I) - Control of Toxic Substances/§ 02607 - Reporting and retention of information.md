@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including any such research or analysis for the development of a product,
 
-> &emsp;shall maintain records and submit to the Administrator reports but only to the extent theAdministrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
+> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
@@ -76,7 +76,7 @@ Negotiated rulemaking.—(A) The Administrator shall enter into a negotiated rul
 
 (7)
 
-PFAS data.—Not later than January 1, 2023, the Administrator shall promulgate a rule in accordance with this subsection requiring each person who has manufactured a chemical substance that is a perfluoroalkyl orpolyfluoroalkyl substance in any year since January 1, 2011, to submit to the Administrator a report that includes, for each year since January 1, 2011, the information described in subparagraphs (A) through (G) of paragraph (2).
+PFAS data.—Not later than January 1, 2023, the Administrator shall promulgate a rule in accordance with this subsection requiring each person who has manufactured a chemical substance that is a perfluoroalkyl or polyfluoroalkyl substance in any year since January 1, 2011, to submit to the Administrator a report that includes, for each year since January 1, 2011, the information described in subparagraphs (A) through (G) of paragraph (2).
 
 #### (b) Inventory
 
@@ -230,7 +230,7 @@ Category status.—The list of inactive substances shall not be considered to be
 
 (6)
 
-Interim list of active substances.—Prior to the promulgation of the rule required underparagraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
+Interim list of active substances.—Prior to the promulgation of the rule required under paragraph (4)(A), the Administrator shall designate the chemical substances reported under part 711 of title 40, Code of Federal Regulations (as in effect on June 22, 2016), during the reporting period that most closely preceded June 22, 2016, as the interim list of active substances for the purposes of section 2605(b) of this title.
 
 (7)
 
@@ -302,7 +302,7 @@ Exemption.—Clause (i) shall not apply to a person engaged in the generation, h
 
 #### (c) Records
 
-Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to or known by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source. Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
+Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to or known by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source.Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
 
 #### (d) Health and safety studies
 

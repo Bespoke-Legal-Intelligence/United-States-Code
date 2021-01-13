@@ -6,7 +6,7 @@ The Secretary, in coordination with the Assistant Secretary for Mental Health an
 
 #### (b) Duration
 
-With respect to a grant, contract, or cooperative agreement awarded or entered into underthis section, the period during which payments under such grant, contract or agreement are made to the recipient may not exceed 4 years.
+With respect to a grant, contract, or cooperative agreement awarded or entered into under this section, the period during which payments under such grant, contract or agreement are made to the recipient may not exceed 4 years.
 
 #### (c) Use of funds
 
@@ -32,7 +32,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 &emsp;(7) To evaluate the effectiveness of the program carried out under this section in increasing student access to evidence-based trauma support services and mental health care.
 
-&emsp;(8) To establish partnerships with or provide subgrants to Head Start agencies (including Early Head Start agencies), public and private preschool programs, child care programs (including home-based providers), or other entities described in subsection (a), to include such entities described in this paragraph in the evidence-based trauma initiatives, activities, support services, and mental health systems established under this section in order to provide, develop, or improve prevention, screening, referral, and treatment and support services to young children and their families.
+&emsp;(8) To establish partnerships with or provide subgrants to Head Start agencies (including Early Head Start agencies), public and private preschool programs, child care programs (including home-based providers), or other entities described in subsection (a), to includesuch entities described in this paragraph in the evidence-based trauma initiatives, activities, support services, and mental health systems established under this section in order to provide, develop, or improve prevention, screening, referral, and treatment and support services to young children and their families.
 
 #### (d) Applications
 

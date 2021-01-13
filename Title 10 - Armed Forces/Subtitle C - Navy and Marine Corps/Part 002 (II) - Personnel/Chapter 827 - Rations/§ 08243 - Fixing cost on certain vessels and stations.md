@@ -2,7 +2,7 @@
 
 If the Secretary of the Navy considers that it is undesirable to administer the mess on any ship or at any station under the quantity allowance prescribed in section 8242 of this title, he may fix the cost of each ration for that mess.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 380, §6083; renumbered §8243 and amended Pub. L. 115–232,div. A, title VIII, §§807(b)(8), 809(a), Aug. 13, 2018, 132 Stat. 1835, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 380, §6083; renumbered §8243 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(8), 809(a), Aug. 13, 2018, 132 Stat. 1835, 1840.)
 
 Historical and Revision Notes
 
@@ -26,5 +26,5 @@ The words "the cost of each ration for that mess" are substituted for the words 
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

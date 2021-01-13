@@ -4,9 +4,13 @@ When officers, inspectors, or other employees of the Service are ordered to perf
 
 (June 27, 1952, ch. 477, title II, ch. 9, §283, 66 Stat. 231; Pub. L. 100–525, §9(p), Oct. 24, 1988, 102 Stat. 2621.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–525 substituted "subchapter II of chapter 57 of title 5" for "the Act of August 2, 1946 (60 Stat. 806; 5 U.S.C., sec. 73b–1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

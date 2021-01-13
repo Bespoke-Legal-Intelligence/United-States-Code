@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) continuation of services of the Alaska Railroad and the opportunity for future expansion of those services are necessary to achieve Federal, State, and private objectives; however, continued Federal control and financial support are no longer necessary to accomplish these objectives;
 
-&emsp;(4) the transfer of the Alaska Railroad and provision for its operation by the State in themanner contemplated by this chapter is made pursuant to the Federal goal and ongoing program of transferring appropriate activities to the States;
+&emsp;(4) the transfer of the Alaska Railroad and provision for its operation by the State in the manner contemplated by this chapter is made pursuant to the Federal goal and ongoing program of transferring appropriate activities to the States;
 
 &emsp;(5) the State's continued operation of the Alaska Railroad following the transfer contemplated by this chapter, together with such expansion of the railroad as may be necessary or convenient in the future, will constitute an appropriate public use of the rail system and associated properties, will provide an essential governmental service, and will promote the general welfare of Alaska's residents and visitors; and
 
@@ -16,9 +16,13 @@ The Congress finds that—
 
 (Pub. L. 97–468, title VI, §602, Jan. 14, 1983, 96 Stat. 2556.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (4) to (6), was in the original "this title", meaning title VI (§601 et seq.) of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2556, known as the Alaska Railroad Transfer Act of 1982, which is classified principally to this chapter (§1201 et seq.). For complete classification of title VI to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

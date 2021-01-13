@@ -122,7 +122,7 @@
 
 #### (iii) Inadmissibility for certain purposes
 
-&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount of damages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
+&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount ofdamages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
 
 #### (C) Statement of attorneys' fees or costs sought
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shalltreat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -206,7 +206,7 @@
 
 #### (1) Mandatory review by court
 
-&emsp;In any private action arising under this chapter, upon final adjudication of the action,the court shall include in the record specific findings regarding compliance by each party and each attorney representing any party with each requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion.
+&emsp;In any private action arising under this chapter, upon final adjudication of the action, the court shall include in the record specific findings regarding compliance by each party and each attorney representing any party with each requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion.
 
 #### (2) Mandatory sanctions
 
@@ -272,7 +272,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (ii) Recovery by and costs of covered person
 
-&emsp;&emsp;&emsp;In any case in which a contractual relationship permits, a covered person thatprevails in any private action may recover the attorney's fees and costs of that covered person in connection with the action.
+&emsp;&emsp;&emsp;In any case in which a contractual relationship permits, a covered person that prevails in any private action may recover the attorney's fees and costs of that covered person in connection with the action.
 
 #### (3) Determination of responsibility
 
@@ -348,7 +348,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (A) In general
 
-&emsp;&emsp;A covered person who settles any private action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court,the court shall enter a bar order constituting the final discharge of all obligations to the plaintiff of the settling covered person arising out of the action. The order shall bar all future claims for contribution arising out of the action—
+&emsp;&emsp;A covered person who settles any private action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter a bar order constituting the final discharge of all obligations to the plaintiff of the settling covered person arising out of the action. The order shall bar all future claims for contribution arising out of the action—
 
 &emsp;&emsp;&emsp;(i) by any person against the settling covered person; and
 
@@ -432,7 +432,7 @@ This section not to affect or apply to any private action arising under this cha
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission,by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "if,".</i>
 

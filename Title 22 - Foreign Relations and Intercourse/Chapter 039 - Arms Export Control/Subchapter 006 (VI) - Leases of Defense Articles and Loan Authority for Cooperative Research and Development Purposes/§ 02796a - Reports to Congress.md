@@ -24,7 +24,9 @@ The certification required by subsection (a) shall be transmitted—
 
 &emsp;(2) not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 6, §62, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, §141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, §203(b)(1),Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -46,9 +48,13 @@ Subsec. (b). Pub. L. 104–164, §141(e)(1)(B), substituted "states in his certi
 
 Subsec. (c). Pub. L. 104–164, §141(e)(1)(C), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–164 applicable with respect to certifications required to be submitted on or after July 21, 1996, see section 141(f) of Pub. L. 104–164, set out as a note under section 2753 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

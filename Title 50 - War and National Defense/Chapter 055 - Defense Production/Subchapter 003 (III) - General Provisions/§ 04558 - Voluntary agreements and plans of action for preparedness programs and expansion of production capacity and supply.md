@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 #### (1) Antitrust laws
 
-&emsp;The term "antitrust laws" has the meaning given to such term in subsection (a) of section 12 of title 15, except that such term includessection 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
+&emsp;The term "antitrust laws" has the meaning given to such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
 
 #### (2) Plan of action
 
@@ -170,7 +170,7 @@ The Attorney General and the Federal Trade Commission shall each make surveys fo
 
 #### (l) Annual report to Congress and President by Presidential designees; contents
 
-The individual or individuals designated by the President in subsection (c)(2) shall submit tothe Congress and the President at least once every year reports describing each voluntary agreement or plan of action in effect and its contribution to achievement of the purpose of subsection (c)(1).
+The individual or individuals designated by the President in subsection (c)(2) shall submit to the Congress and the President at least once every year reports describing each voluntary agreement or plan of action in effect and its contribution to achievement of the purpose of subsection (c)(1).
 
 #### (m) Jurisdiction to enjoin statutory exemption or suspension and order for production of transcripts, etc.; procedures
 
@@ -188,7 +188,7 @@ Notwithstanding any other provision of law, the Federal Advisory Committee Act (
 
 In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section. Such defense shall not release the party asserting it from any obligation under applicable law to mitigate damages to the greatest extent possible.
 
-(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305; Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L. 87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018.)
+(Sept. 8, 1950, ch. 932, title VII, §708, 64 Stat. 818; June 30, 1952, ch. 530, title I, §116(c), 66 Stat. 305;Aug. 9, 1955, ch. 655, §6, 69 Stat. 581; Pub. L. 87–305, §5(b), Sept. 26, 1961, 75 Stat. 667; Pub. L. 91–151, title I, §9, Dec. 23, 1969, 83 Stat. 376; Pub. L. 94–152, §3, Dec. 16, 1975, 89 Stat. 810; Pub. L. 102–99, §5, Aug. 17, 1991, 105 Stat. 487; Pub. L. 111–67, §9, Sept. 30, 2009, 123 Stat. 2018.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Subsecs. (n), (o). Pub. L. 102–99, §5(21), added subsecs. (n) and (o).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–152 substituted provisions relating to immunity from civil and criminal liability under the antitrust laws for provisions authorizing President to approve voluntary programs and agreements under this chapter.
 
-Subsec. (b). Pub. L. 94–152 substituted definition of "antitrust laws" for provisions exempting under certain conditions acts or omissions to act pursuant to this chapter from the antitrust laws or the Federal Trade Commission Act.
+Subsec. (b). Pub. L. 94–152 substituted definition of "antitrust laws" for provisions exempting under certain conditions acts or omissions to act pursuant tothis chapter from the antitrust laws or the Federal Trade Commission Act.
 
 Subsec. (c). Pub. L. 94–152 restructured subsec. (c) into pars. (1) and (2), and, as so restructured, inserted provisions of par. (1) authorizing President to consult with leaders of industry, finance, agriculture and labor with a view to developing voluntary agreements to help provide for the defense of the United States whenever he finds conditions exist which pose a threat to the national defense or preparedness programs and transferred existing provisions to par. (2), and, as transferred, substituted provisions which authorized President to delegate authority granted to him in par. (1) of this subsection and under subsec. (d) of this section, for provisions authorizing delegation of authority of subsec. (b) of this section.
 
@@ -318,14 +318,6 @@ Pub. L. 94–152, §9, Dec. 16, 1975, 89 Stat. 821, as amended by Pub. L. 94–1
 
 Amendment by act Aug. 9, 1955, effective as of the close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under section 4502 of this title.
 
-#### Delegation of Functions
-
-Functions conferred upon President under this section necessary to effect changes in composition of, or to take other action respecting voluntary agreements and programs relating to, small business production pools approved prior to July 31, 1953, delegated to Administrator of Small Business Administration by Ex. Ord. No. 10493, Oct. 14, 1953, 18 F.R. 6583, set out as a note under section 640 of Title 15, Commerce and Trade.
-
-Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15.
-
-For delegation of authority of President under subsecs. (c) and (d) of this section, see sections 401 and 402 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16656, set out as a note under section 4553 of this title.
-
 #### Continuation in Effect of Existing Voluntary Agreements
 
 Pub. L. 94–152, §4, Dec. 16, 1975, 89 Stat. 820, provided that:
@@ -345,4 +337,14 @@ Pub. L. 94–152, §4, Dec. 16, 1975, 89 Stat. 820, provided that:
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+
+Authority of President under subsecs. (c)(1) and (d) of this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 3 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under section 4511 of this title.
+
+Functions conferred upon President under this section necessary to effect changes in composition of, or to take other action respecting voluntary agreements and programs relating to, small business production pools approved prior to July 31, 1953, delegated to Administrator of Small Business Administration by Ex. Ord. No. 10493, Oct. 14, 1953, 18 F.R. 6583, set out as a note under section 640 of Title 15, Commerce and Trade.
+
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974,39 F.R. 23185, set out as a note under section 761 of Title 15.
+
+For delegation of authority of President under subsecs. (c) and (d) of this section, see sections 401 and 402 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16656, set out as a note under section 4553 of this title.
 

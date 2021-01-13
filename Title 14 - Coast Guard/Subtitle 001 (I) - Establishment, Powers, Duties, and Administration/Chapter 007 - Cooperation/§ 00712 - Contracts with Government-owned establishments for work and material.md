@@ -14,6 +14,8 @@ Orders and Agreements for Industrial Activities.—Under this section, the Coast
 
 Based on title 14, U.S.C., 1946 ed., §31c (June 6, 1942, ch. 384, 56 Stat. 328). 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 712 was renumbered section 3713 of this title.

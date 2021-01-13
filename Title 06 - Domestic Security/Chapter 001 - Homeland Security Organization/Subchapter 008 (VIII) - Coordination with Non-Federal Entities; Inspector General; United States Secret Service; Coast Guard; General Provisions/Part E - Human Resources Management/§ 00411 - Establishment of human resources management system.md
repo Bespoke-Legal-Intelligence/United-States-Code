@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) it is extremely important that employees of the Department be allowed to participate in a meaningful way in the creation of any human resources management system affecting them;
 
-&emsp;&emsp;(B) such employees have the most direct knowledge of the demands of their jobs and have a direct interest in ensuring that their human resources management system is conducive to achieving optimal operational efficiencies;
+&emsp;&emsp;(B) such employees have the most direct knowledge of the demands of their jobs and have a direct interest in ensuring that theirhuman resources management system is conducive to achieving optimal operational efficiencies;
 
 &emsp;&emsp;(C) the 21st century human resources management system envisioned for the Department should be one that benefits from the input of its employees; and
 
@@ -31,6 +31,8 @@
 &emsp;Any exercise of authority under chapter 97 of title 5, including under any system established under such chapter, shall be in conformance with the requirements of this subsection.
 
 (Pub. L. 107–296, title VIII, §841, Nov. 25, 2002, 116 Stat. 2229.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

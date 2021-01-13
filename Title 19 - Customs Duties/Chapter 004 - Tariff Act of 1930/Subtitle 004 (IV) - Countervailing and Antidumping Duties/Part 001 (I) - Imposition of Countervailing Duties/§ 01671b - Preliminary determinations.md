@@ -46,7 +46,7 @@ General rule.—In making a determination under this subsection, the administeri
 
 &emsp;(B)
 
-Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (otherthan a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
+Exception for developing countries.—In the case of subject merchandise imported from a Subsidies Agreement country (other than a country to which subparagraph (C) applies) designated by the Trade Representative as a developing country in accordance with section 1677(36) of this title, a countervailable subsidy is de minimis if the administering authority determines that the aggregate of the net countervailable subsidies does not exceed 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 &emsp;(C)
 

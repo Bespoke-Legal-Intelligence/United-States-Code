@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;
 
-&emsp;&emsp;&emsp;(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under <sup>1</sup> 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and
+&emsp;&emsp;&emsp;(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under <sup>1</sup> 3511(a)(2)(A)(iii)(I)(bb), including anaccounting of which priority data assets have not yet been evaluated; and
 
 &emsp;&emsp;&emsp;(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
-&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
+&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection ofinformation submitted to the Director for review under section 3507—
 
 &emsp;&emsp;(A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
 
@@ -200,7 +200,7 @@
 
 &emsp;(6) make data available to statistical agencies and readily accessible to the public.
 
-(f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
+(f) With respect to records management, each agency shall implement and enforce applicablepolicies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
 
 (g) With respect to privacy and security, each agency shall—
 
@@ -229,6 +229,8 @@
 (2) Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961; Pub. L. 115–435, title II, §202(c)(1), Jan. 14, 2019, 132 Stat. 5536.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -274,9 +276,11 @@ Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted "Chief Info
 
 Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted "Chief Information Officer" for "official" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 115–435, title II, §202(c)(3), Jan. 14, 2019, 132 Stat. 5538, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Jan. 14, 2019\]."
+Pub. L. 115–435, title II, §202(c)(3), Jan. 14, 2019, 132 Stat. 5538, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Jan. 14, 2019\]."
 
 #### Effective Date of 2002 Amendment
 
@@ -299,6 +303,8 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 #### Use of Open Data Assets
 
 Pub. L. 115–435, title II, §202(c)(2), Jan. 14, 2019, 132 Stat. 5538, provided that: "Not later than 1 year after the date of the enactment of this Act \[Jan. 14, 2019\], the head of each agency (as defined in section 3502 of title 44, United States Code) shall ensure that any activity by the agency meets the requirements of section 3506 of title 44, United States Code, as amended by this subsection."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13073. Year 2000 Conversion
 

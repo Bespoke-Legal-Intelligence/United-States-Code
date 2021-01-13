@@ -6,7 +6,7 @@ The Secretary is authorized to make implementation grants to applicants for the 
 
 #### (b) Eligible activities
 
-Implementation grants may be used for activities to carry out homeownership programs\(which may include programs for cooperative ownership), including the following activities:
+Implementation grants may be used for activities to carry out homeownership programs (which may include programs for cooperative ownership), including the following activities:
 
 &emsp;(1) Architectural and engineering work.
 
@@ -42,7 +42,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(A) cash contributions from non-Federal resources which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title;
 
-&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federal resources, including funds from a grant made under section 5306(b) or section 5306(d) of this title;
+&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federalresources, including funds from a grant made under section 5306(b) or section 5306(d) of this title;
 
 &emsp;&emsp;(C) the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that facilitates the implementation of a homeownership program assisted under this part;
 
@@ -82,7 +82,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(J) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
-&emsp;&emsp;(K) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 etseq.\], and will affirmatively further fair housing.
+&emsp;&emsp;(K) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
 #### (e) Selection criteria
 
@@ -106,7 +106,7 @@ The Secretary shall establish selection criteria for assistance under this part,
 
 The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved.
 
-(Pub. L. 101–625, title IV, §443, Nov. 28, 1990, 104 Stat. 4174; Pub. L. 102–550, title X, §1012(j)(2), Oct. 28, 1992, 106 Stat. 3906; Pub. L. 103–233, title II, §221, Apr. 11, 1994, 108 Stat. 366.)
+(Pub. L. 101–625, title IV, §443, Nov. 28, 1990, 104 Stat. 4174; Pub. L. 102–550, title X, §1012(j)(2),Oct. 28, 1992, 106 Stat. 3906; Pub. L. 103–233, title II, §221, Apr. 11, 1994, 108 Stat. 366.)
 
 #### References in Text
 

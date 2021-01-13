@@ -12,7 +12,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) any court of competent jurisdiction of a foreign country with which the United States has an agreement requiring the United States to honor any court order of such country; and
 
-&emsp;&emsp;(D) any administrative or judicial tribunal of a State competent to enter orders for support or maintenance (including a State agency administering a program under aState plan approved under part D of title IV of the Social Security Act), and, for purposes of this subparagraph, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+&emsp;&emsp;(D) any administrative or judicial tribunal of a State competent to enter orders for support or maintenance (including a State agency administering a program under a State plan approved under part D of title IV of the Social Security Act), and, for purposes of this subparagraph, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
 &emsp;(2) The term "court order" means a final decree of divorce, dissolution, annulment, or legal separation issued by a court, or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, annulment, or legal separation, or a court ordered, ratified, or approved property settlement incident to such previously issued decree), or a support order, as defined in section 453(p) of the Social Security Act (42 U.S.C. 653(p)), which—
 
@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "member" includes a former member entitled to retired pay under section 12731 of this title.
 
-&emsp;(6) The term "spouse or former spouse" means the husband or wife, or former husband or wife, respectively, of a member who, on or before the date of a court order, was married to that member.
+&emsp;(6) The term "spouse or former spouse" means the husband or wife, or former husband or wife, respectively, of a member who, on orbefore the date of a court order, was married to that member.
 
 &emsp;(7) The term "retired pay" includes retainer pay.
 
@@ -68,7 +68,7 @@ Effective Service of Process.—For the purposes of this section—
 
 &emsp;&emsp;(C) the court order or other documents served with the court order identify the member concerned and include, if possible, the social security number of such member; and
 
-&emsp;&emsp;(D) the court order or other documents served with the court order certify that therights of the member under the Servicemembers Civil Relief Act (50 U.S.C. 3901 et seq.) were observed; and
+&emsp;&emsp;(D) the court order or other documents served with the court order certify that the rights of the member under the Servicemembers Civil Relief Act (50 U.S.C. 3901 et seq.) were observed; and
 
 &emsp;(2) a court order is regular on its face if the order—
 
@@ -98,7 +98,7 @@ Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.�
 
 (4) Payments from the disposable retired pay of a member pursuant to this section shall terminate in accordance with the terms of the applicable court order, but not later than the date of the death of the member or the date of the death of the spouse or former spouse to whom payments are being made, whichever occurs first.
 
-(5) If a court order described in paragraph (1) provides for a division of property (including a division of community property) in addition to an amount of child support or alimony or the payment of an amount of disposable retired pay as the result of the court's treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse of the member, any part of the amount payable to the spouse or former spouse under the division of property upon effective service of a final courtorder of garnishment of such amount from such retired pay.
+(5) If a court order described in paragraph (1) provides for a division of property (including a division of community property) in addition to an amount of child support or alimony or the payment of an amount of disposable retired pay as the result of the court's treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse of the member, any part of the amount payable to the spouse or former spouse under the division of property upon effective service of a final court order of garnishment of such amount from such retired pay.
 
 (6) In the case of a court order for which effective service is made on the Secretary concerned on or after August 22, 1996, and which provides for payments from the disposable retired pay of a member to satisfy the amount of child support set forth in the order, the authority provided in paragraph (1) to make payments from the disposable retired pay of a member to satisfy the amount of child support set forth in a court order shall apply to payment of any amount of child support arrearages set forth in that order as well as to amounts of child support that currently become due.
 
@@ -140,7 +140,7 @@ Limitations.—(1) The total amount of the disposable retired pay of a member pa
 
 (B) Notwithstanding any other provision of law, the total amount of the disposable retired pay of a member payable by the Secretary concerned under all court orders pursuant to this section and all legal processes pursuant to section 459 of the Social Security Act (42 U.S.C. 659) with respect to a member may not exceed 65 percent of the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act (42 U.S.C. 662) to be remuneration for employment that is payable by the United States.
 
-(5) A court order which itself or because of previously served court orders provides for the payment of an amount which exceeds the amount of disposable retired pay available for payment because of the limit set forth in paragraph (1), or which, because of previously served court orders or legal process previously served under section 459 of the Social Security Act (42 U.S.C. 659), provides for payment of an amountthat exceeds the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4), shall not be considered to be irregular on its face solely for that reason. However, such order shall be considered to be fully satisfied for purposes of this section by the payment to the spouse or former spouse of the maximum amount of disposable retired pay permitted under paragraph (1) and subparagraph (B) of paragraph (4).
+(5) A court order which itself or because of previously served court orders provides for the payment of an amount which exceeds the amount of disposable retired pay available for payment because of the limit set forth in paragraph (1), or which, because of previously served court orders or legal process previously served under section 459 of the Social Security Act (42 U.S.C. 659), provides for payment of an amount that exceeds the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4), shall not be considered to be irregular on its face solely for that reason. However, such order shall be considered to be fully satisfied for purposes of this section by the payment to the spouse or former spouse of the maximum amount of disposable retired pay permitted under paragraph (1) and subparagraph (B) of paragraph (4).
 
 (6) Nothing in this section shall be construed to relieve a member of liability for the payment of alimony, child support, or other payments required by a court order on the grounds that payments made out of disposable retired pay under this section have been made in the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4). Any such unsatisfied obligation of a member may be enforced by any means available under law other than the means provided under this section in any case in which the maximum amount permitted under paragraph (1) has been paid and under section 459 of the Social Security Act (42 U.S.C. 659) in any case in which the maximum amount permitted under subparagraph (B) of paragraph (4) has been paid.
 
@@ -174,13 +174,13 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (3) The amount certified by the Secretary concerned under paragraph (4) with respect to a member or former member of the armed forces referred to in paragraph (2)(A) shall be deemed to be the disposable retired pay of that member or former member for the purposes of this subsection.
 
-(4) Upon the request of a court or an eligible spouse or former spouse, or an eligible dependent child, of a member or former member of the armed forces referred to in paragraph (2)(A) in connection with a civil action for the issuance of a court order in the case of that member or former member, the Secretary concerned shall determine and certify the amount of the monthly retired pay that the member or former member would have been entitled to receive as of the date of the certification—
+(4) Upon the request of a court or an eligible spouse or former spouse, or an eligible dependent child, of a member or former member of the armed forces referred to in paragraph (2)(A) in connection with a civil action for the issuanceof a court order in the case of that member or former member, the Secretary concerned shall determine and certify the amount of the monthly retired pay that the member or former member would have been entitled to receive as of the date of the certification—
 
 &emsp;(A) if the member or former member's eligibility for retired pay had not been terminated as described in paragraph (2)(A); and
 
 &emsp;(B) if, in the case of a member or former member not in receipt of retired pay immediately before that termination of eligibility for retired pay, the member or former member had retired on the effective date of that termination of eligibility.
 
-(5) A court order under this subsection may provide that whenever retired pay is increased under section 1401a of this title (or any other provision of law), the amount payable under the court order to the spouse or former spouse, or the dependent child, of a member or formermember described in paragraph (2)(A) shall be increased at the same time by the percent by which the retired pay of the member or former member would have been increased if the member or former member were receiving retired pay.
+(5) A court order under this subsection may provide that whenever retired pay is increased under section 1401a of this title (or any other provision of law), the amount payable under the court order to the spouse or former spouse, or the dependent child, of a member or former member described in paragraph (2)(A) shall be increased at the same time by the percent by which the retired pay of the member or former member would have been increased if the member or former member were receiving retired pay.
 
 (6) Notwithstanding any other provision of law, a member or former member of the armed forces referred to in paragraph (2)(A) shall have no ownership interest in, or claim against, any amount payable under this section to a spouse or former spouse, or to a dependent child, of the member or former member.
 
@@ -222,7 +222,7 @@ Relationship to Other Laws.—In any case involving an order providing for payme
 
 (l)
 
-Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotionally Abusing a Child.—(1) Subject to paragraph (2), any payment of retired pay that wouldotherwise be made to a member shall be paid (in whole or in part) by the Secretary concerned to another person if and to the extent expressly provided for in the terms of a child abuse garnishment order.
+Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotionally Abusing a Child.—(1) Subject to paragraph (2), any payment of retired pay that would otherwise be made to a member shall be paid (in whole or in part) by the Secretary concerned to another person if and to the extent expressly provided for in the terms of a child abuse garnishment order.
 
 (2) A court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, shall be given priority over a child abuse garnishment order. The total amount of the disposable retired pay of a member payable under a child abuse garnishment order shall not exceed 25 percent of the member's disposable retired pay.
 
@@ -446,7 +446,7 @@ Pub. L. 115–91, div. A, title VI, §624(c), Dec. 12, 2017, 131 Stat. 1430, pro
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title VI, §641(b), Dec. 23, 2016, 130 Stat. 2164, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to any division of property as part of a final decree of divorce, dissolution, annulment, or legal separation involving a member of the Armed Forces to which section 1408 of title 10, United States Code, applies that becomes final after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title VI, §641(b), Dec. 23, 2016, 130 Stat. 2164, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to any division of property as part of a final decree of divorce, dissolution, annulment, or legal separation involving a member of the Armed Forces to which section 1408 of title 10, United States Code, applies that becomes final after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -514,7 +514,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Review of Federal Former Spouse Protection Laws
 
-Pub. L. 105–85, div. A, title VI, §643, Nov. 18, 1997, 111 Stat. 1799, directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees andformer employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
+Pub. L. 105–85, div. A, title VI, §643, Nov. 18, 1997, 111 Stat. 1799, directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees and former employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
 
 #### Payroll Deductions for Enforcement of Child Support Obligations
 

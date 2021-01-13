@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the Government of North Korea has—
 
-&emsp;&emsp;&emsp;&emsp;(I) committed to the verifiable suspension of North Korea's proliferation andtesting of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; and
+&emsp;&emsp;&emsp;&emsp;(I) committed to the verifiable suspension of North Korea's proliferation and testing of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; and
 
 &emsp;&emsp;&emsp;&emsp;(II) has agreed to multilateral talks including the Government of the United States, with the goal of permanently and verifiably limiting North Korea's weapons of mass destruction and ballistic missile programs; or
 
@@ -27,6 +27,8 @@
 Subject to section 9265 of this title, any requirement to impose sanctions under this subtitle <sup>1</sup> or the amendments made by this subtitle, and any sanctions imposed pursuant to this subtitle <sup>1</sup> or any such amendment, shall terminate on the date on which the President makes the certification described in section 9252 of this title.
 
 (Pub. L. 116–92, div. F, title LXXI, §7143, Dec. 20, 2019, 133 Stat. 2255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

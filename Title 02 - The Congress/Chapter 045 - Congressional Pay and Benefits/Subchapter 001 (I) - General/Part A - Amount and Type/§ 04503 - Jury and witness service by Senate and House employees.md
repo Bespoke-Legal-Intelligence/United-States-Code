@@ -52,6 +52,8 @@ No provision of this section shall be construed to confer the consent of either 
 
 (Pub. L. 91–563, §6, Dec. 19, 1970, 84 Stat. 1478; Pub. L. 94–310, §2, June 15, 1976, 90 Stat. 687; Pub. L. 104–186, title II, §204(74), (75), Aug. 20, 1996, 110 Stat. 1741.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
@@ -68,6 +70,8 @@ Subsec. (f). Pub. L. 104–186, §204(75), substituted "House Oversight" for "Ho
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–310 substituted "other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party" for "as a witness on behalf of a party other than the United States, the District of Columbia, or a private party".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
@@ -82,5 +86,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70,title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

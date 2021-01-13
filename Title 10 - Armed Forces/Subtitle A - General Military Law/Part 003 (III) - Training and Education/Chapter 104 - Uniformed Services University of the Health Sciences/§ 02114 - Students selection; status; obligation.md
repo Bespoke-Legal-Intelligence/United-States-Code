@@ -2,7 +2,7 @@
 
 (a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to a career in the uniformed services (as defined in section 1072(1) of this title).
 
-(b)(1) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade.
+(b)(1) Medical students shall be commissioned officers of a uniformed service as determinedunder regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade.
 
 (2) If a member of the uniformed services selected to be a student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
 
@@ -34,7 +34,7 @@
 
 (g) In this section, the term "commissioned service obligation" means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 
-(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (otherthan medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
+(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
 
 (i) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
@@ -114,7 +114,7 @@ Pub. L. 101–510, div. A, title V, §533(d), Nov. 5, 1990, 104 Stat. 1564, prov
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title V, §511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A,title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: "The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991."
+Pub. L. 101–189, div. A, title V, §511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A, title V, §533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: "The amendments made by this section \[amending this section and sections 4348, 6959, and 9348 of this title\] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991."
 
 #### Effective Date of 1980 Amendment
 

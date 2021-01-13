@@ -6,7 +6,7 @@
 
 (c) No preliminary injunction shall issue in any action brought under this section.
 
-(d) The complaint shall set forth with particularity the nature of the right, title, or interest which the plaintiff claims in the real property, the circumstances under which it was acquired, and the right, title, or interest claimed by the United States.
+(d) The complaint shall set forth with particularity the nature of the right, title, or interest which the plaintiff claims in the real property, the circumstances under which it was acquired,and the right, title, or interest claimed by the United States.
 
 (e) If the United States disclaims all interest in the real property or interest therein adverse to the plaintiff at any time prior to the actual commencement of the trial, which disclaimer is confirmed by order of the court, the jurisdiction of the district court shall cease unless it has jurisdiction of the civil action or suit on ground other than and independent of the authority conferred by section 1346(f) of this title.
 
@@ -34,9 +34,11 @@
 
 (Added Pub. L. 92–562, §3(a), Oct. 25, 1972, 86 Stat. 1176; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–598, Nov. 4, 1986, 100 Stat. 3351.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 208(a) to (d) of act July 10, 1952,ch. 651, 66 Stat. 560. Section 208(a) to (c) is classified to section 666 of Title 43, Public Lands. Section 208(d) is not classified to the Code.
+Section 208 of the Act of July 10, 1952, referred to in subsec. (a), is section 208(a) to (d) of act July 10, 1952, ch. 651, 66 Stat. 560. Section 208(a) to (c) is classified to section 666 of Title 43, Public Lands. Section 208(d) is not classified to the Code.
 
 #### Amendments
 

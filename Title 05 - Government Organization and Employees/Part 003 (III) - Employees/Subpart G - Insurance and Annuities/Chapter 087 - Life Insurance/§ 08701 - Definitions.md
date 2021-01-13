@@ -30,7 +30,7 @@
 
 &emsp;(C) an employee excluded by regulation of the Office of Personnel Management under section 8716(b) of this title.
 
-(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a positionother than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
+(b) Notwithstanding subsection (a) of this section, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this chapter. For the purpose of this subsection, "teacher" and "teaching position" have the meanings given them by section 901 of title 20.
 
 (c) For the purpose of this chapter, "basic insurance amount" means, in the case of any employee under this chapter, an amount equal to the greater of—
 
@@ -110,6 +110,8 @@ In subsection (b), the last sentence is added on authority of former section 235
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of August 25, 1958 (72 Stat. 838), referred to in subsec. (a)(9), is Pub. L. 85–745 and is set out as a note under section 102 of Title 3, The President.
@@ -145,6 +147,8 @@ Subsec. (a)(B). Pub. L. 96–70 inserted provisions relating to an individual wh
 <b>1973</b>—Subsec. (a)(B). Pub. L. 93–160 excluded from definition of "employee" persons who are not nationals of the United States and whose permanent duty station is outside the United States and the Panama Canal Zone.
 
 <b>1970</b>—Subsec. (a)(B). Pub. L. 91–418 excluded from definition of "employee" a noncitizen employee whose permanent duty station is outside the Panama Canal Zone.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -260,7 +264,7 @@ Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: "Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
-&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
+&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
 
 &emsp;"(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse."
 

@@ -30,7 +30,7 @@ Regulations.—The regulations required to be prescribed under this title \[see 
 
 "(2)
 
-Effective date established by rule.—Except as provided in paragraph (3), a section, or provision thereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
+Effective date established by rule.—Except as provided in paragraph (3), a section, or provisionthereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
 
 "(3)
 
@@ -104,7 +104,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of thistitle, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
 
 #### Short Title of 1988 Amendments
 

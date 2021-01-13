@@ -18,7 +18,7 @@ The Director shall carry out a program to award merit-reviewed, competitive gran
 
 #### (b) Manufacturing education
 
-In order to help ensure a well-trained manufacturing workforce, the Director shall award grants to strengthen and expand scientific and technical education and training in advanced manufacturing, including through the Foundation's Advanced Technological Education program.
+In order to help ensure a well-trained manufacturing workforce, the Director shall award grants to strengthen and expand scientific and technical education and training in advancedmanufacturing, including through the Foundation's Advanced Technological Education program.
 
 (Pub. L. 111–358, title V, §506, Jan. 4, 2011, 124 Stat. 4007.)
 

@@ -108,7 +108,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### (3) Cleanup agreements
 
-&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National Priorities List, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
+&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National PrioritiesList, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
 
 &emsp;&emsp;(A) the complexity of the site;
 

@@ -30,9 +30,13 @@ Aug. 3, 1956, ch. 926, §1 "Sec. 4", 70 Stat. 981.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 9491 of title 10" for "section 9441 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

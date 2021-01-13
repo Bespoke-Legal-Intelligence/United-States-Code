@@ -82,7 +82,7 @@ This section shall not apply to any amount paid or incurred after December 31, 2
 
 #### References in Text
 
-Section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986, referred to in subsec. (f)(1)(A), is classified to section 11002(a)(2) of Title 42, The Public Health and Welfare.
+Section 302(a)(2) of the Emergency Planning and Community Right-to-Know Act of 1986, referred to insubsec. (f)(1)(A), is classified to section 11002(a)(2) of Title 42, The Public Health and Welfare.
 
 Section 2(u) of the Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is classified to section 136(u) of Title 7, Agriculture.
 
@@ -92,7 +92,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 Section applicable to amounts paid or incurred after June 18, 2008, see section 15343(e) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 38 of this title.
 

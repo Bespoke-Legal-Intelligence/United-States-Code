@@ -14,7 +14,7 @@ In general.—Officers may be selected for continuation on active duty pursuant 
 
 &emsp;(2)
 
-Identification.—Before convening a selection board pursuant to section 611(b) of thistitle for purposes of selection of officers for continuation on active duty pursuant to this section, the Secretary of the military department concerned shall specify for purposes of the board the positions identified by the Secretary to which officers selected for continuation on active duty may be assigned.
+Identification.—Before convening a selection board pursuant to section 611(b) of this title for purposes of selection of officers for continuation on active duty pursuant to this section, the Secretary of the military department concerned shall specify for purposes of the board the positions identified by the Secretary to which officers selected for continuation on active duty may be assigned.
 
 (c)
 
@@ -46,7 +46,7 @@ Effect of Expiration of Continuation.—Each officer continued on active duty pu
 
 &emsp;(1) be discharged upon the expiration of the term of continued service; or
 
-&emsp;(2) if eligible for retirement under another other provision of law, be retired under that law on the first day of the first month following the month in which the officer completes the term of continued service.
+&emsp;(2) if eligible for retirement under another other provision of law, be retired under thatlaw on the first day of the first month following the month in which the officer completes the term of continued service.
 
 (h)
 

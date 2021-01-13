@@ -40,6 +40,8 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the terms "base closure law" and "military installation" for purposes of this section.
@@ -47,6 +49,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (c). Pub. L. 104–106, §1033(a)(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

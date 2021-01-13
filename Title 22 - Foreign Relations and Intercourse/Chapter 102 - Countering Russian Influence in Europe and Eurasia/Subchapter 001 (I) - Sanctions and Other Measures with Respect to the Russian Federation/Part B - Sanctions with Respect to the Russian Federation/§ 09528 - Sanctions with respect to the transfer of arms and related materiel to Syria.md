@@ -70,9 +70,11 @@ In this section:
 
 (Pub. L. 115–44, title II, §234, Aug. 2, 2017, 131 Stat. 918.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (a)(1)(D), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(1)(D), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

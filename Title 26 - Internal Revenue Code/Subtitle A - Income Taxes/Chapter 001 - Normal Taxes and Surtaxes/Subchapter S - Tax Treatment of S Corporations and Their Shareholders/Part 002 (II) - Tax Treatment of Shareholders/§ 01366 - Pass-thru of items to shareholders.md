@@ -22,7 +22,7 @@ The character of any item included in a shareholder's pro rata share under parag
 
 #### (c) Gross income of a shareholder
 
-In any case where it is necessary to determine the gross income of a shareholder for purposes of this title, such gross income shall include theshareholder's pro rata share of the gross income of the corporation.
+In any case where it is necessary to determine the gross income of a shareholder for purposes of this title, such gross income shall include the shareholder's pro rata share of the gross income of the corporation.
 
 #### (d) Special rules for losses and deductions
 
@@ -52,7 +52,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (B) Cannot exceed shareholder's basis in stock
 
-&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
+&emsp;&emsp;The aggregate amount of losses and deductions taken into account by a shareholderunder subparagraph (A) shall not exceed the adjusted basis of the shareholder's stock in the corporation (determined at the close of the last day of the post-termination transition period and without regard to this paragraph).
 
 #### (C) Adjustment in basis of stock
 
@@ -92,7 +92,7 @@ If an individual who is a member of the family (within the meaning of section 70
 
 &emsp;&emsp;(B) the total passive investment income for the taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct.22, 2004, 118 Stat. 1435; Pub. L. 110–172, §3(b), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 115–141, div. U, title IV, §401(a)(192), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct. 22, 2004, 118 Stat. 1435; Pub. L. 110–172, §3(b), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 115–141, div. U, title IV, §401(a)(192), Mar. 23, 2018, 132 Stat. 1193.)
 
 #### Amendments
 

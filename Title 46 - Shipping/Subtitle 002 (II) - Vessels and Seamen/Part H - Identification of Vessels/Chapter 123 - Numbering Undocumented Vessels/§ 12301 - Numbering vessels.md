@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 Section 12301 requires that undocumented vessels that are propelled by machinery be issued an identification number by the proper issuing authority in the State in which the vessel is primarily operated.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–282 substituted "may" for "shall" and inserted "of" after "barge".

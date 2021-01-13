@@ -20,7 +20,7 @@ The production of books, accounts, memoranda, and other records under subsection
 
 #### (d) Effect on State law
 
-Nothing in this section shall preempt applicable State law concerning the provision of books,accounts, memoranda, and other records, or in any way limit the rights of any State to obtain books, accounts, memoranda, and other records under any other Federal law, contract, or otherwise.
+Nothing in this section shall preempt applicable State law concerning the provision of books, accounts, memoranda, and other records, or in any way limit the rights of any State to obtain books, accounts, memoranda, and other records under any other Federal law, contract, or otherwise.
 
 #### (e) Court jurisdiction
 

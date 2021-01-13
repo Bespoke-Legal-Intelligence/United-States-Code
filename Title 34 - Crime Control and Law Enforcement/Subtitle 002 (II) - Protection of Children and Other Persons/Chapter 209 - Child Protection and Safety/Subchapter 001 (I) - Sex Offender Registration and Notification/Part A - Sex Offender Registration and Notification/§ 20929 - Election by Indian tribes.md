@@ -24,7 +24,7 @@
 
 #### (1) Nonduplication
 
-&emsp;A tribe subject to this part is not required to duplicate functions under this part which arefully carried out by another jurisdiction or jurisdictions within which the territory of the tribe is located.
+&emsp;A tribe subject to this part is not required to duplicate functions under this part which are fully carried out by another jurisdiction or jurisdictions within which the territory of the tribe is located.
 
 #### (2) Cooperative agreements
 
@@ -35,6 +35,8 @@
 &emsp;&emsp;(B) arrange for such a jurisdiction to carry out any function of the tribe under this part with respect to sex offenders subject to the tribe's jurisdiction.
 
 (Pub. L. 109–248, title I, §127, July 27, 2006, 120 Stat. 599.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

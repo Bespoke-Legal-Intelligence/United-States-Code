@@ -8,7 +8,7 @@
 
 &emsp;(3) upon the expiration of 30 days from the date of issuance of the mandate of the Supreme Court, if that Court directs that the decision of the Court of Appeals for Veterans Claims be affirmed or the appeal dismissed.
 
-(b)(1) If the Supreme Court directs that the decision of the Court of Appeals for Veterans Claims be modified or reversed, the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered,unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
+(b)(1) If the Supreme Court directs that the decision of the Court of Appeals for Veterans Claims be modified or reversed, the decision of the Court of Appeals for Veterans Claims rendered in accordance with the mandate of the Supreme Court shall become final upon the expiration of 30 days from the time it was rendered, unless within such 30 days either the Secretary or the petitioner has instituted proceedings to have such decision corrected to accord with the mandate, in which event the decision of the Court of Appeals for Veterans Claims shall become final when so corrected.
 
 (2) If the decision of the Court of Appeals for Veterans Claims is modified or reversed by the United States Court of Appeals for the Federal Circuit and if—
 
@@ -34,6 +34,8 @@
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4119, §4091; renumbered §7291 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, §512(a)(1), (2)(B), Nov. 11, 1998, 112 Stat. 3341.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–368, §512(a)(2)(B), substituted "Court decision" for "United States Court of Veterans Appeals decision" in section catchline.
@@ -45,6 +47,8 @@ Subsecs. (a) to (c). Pub. L. 105–368, §512(a)(1), substituted "Court of Appea
 Subsec. (a). Pub. L. 102–40, §402(d)(1), substituted "7292" for "4092" in introductory provisions.
 
 Subsec. (b). Pub. L. 102–83 substituted "Secretary" for "Administrator" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

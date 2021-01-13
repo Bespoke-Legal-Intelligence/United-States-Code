@@ -68,7 +68,7 @@ Notwithstanding section 1342 of title 31 or any other provision of law, to furth
 
 &emsp;(3) transfer the knowledge and expertise of United States agricultural producers and businesses, on an individual basis, to those countries while enhancing the democratic process by supporting private and public agriculturally related organizations that request and support technical assistance activities through cash and in-kind services;
 
-&emsp;(4) to the maximum extent practicable, make grants to or enter into contracts orother cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) or has otherwise been provided in advance in appropriation Acts);
+&emsp;(4) to the maximum extent practicable, make grants to or enter into contracts or other cooperative agreements with private voluntary organizations, cooperatives, land grant universities, private agribusiness, or nonprofit farm organizations to carry out this section (except that any such contract or other agreement may obligate the United States to make outlays only to the extent that the budget authority for such outlays is available under subsection (d) or has otherwise been provided in advance in appropriation Acts);
 
 &emsp;(5) coordinate programs established under this section with other foreign assistance programs and activities carried out by the United States; and
 

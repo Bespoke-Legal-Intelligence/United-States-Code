@@ -28,6 +28,8 @@ The President shall appoint members of the Board who—
 
 (Pub. L. 92–181, title V, §5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, §503, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, §431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, §102, Oct. 28, 1992, 106 Stat. 4103.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (e). Pub. L. 102–552 added subsec. (e).
@@ -37,6 +39,8 @@ The President shall appoint members of the Board who—
 <b>1985</b>—Pub. L. 99–205 amended section generally, substituting provisions of subsecs. (a) to (d) relating to the Farm Credit Administration Board for provisions of former subsecs. (a) to (i) which related to the Federal Farm Credit Board.
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–592 substituted provisions relating to applicability of compensation under section 5332 of title 5, for provisions setting forth compensation at the rate of $100 a day.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

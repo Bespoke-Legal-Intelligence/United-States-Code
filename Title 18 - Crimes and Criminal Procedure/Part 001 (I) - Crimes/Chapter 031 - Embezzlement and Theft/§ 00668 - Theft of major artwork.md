@@ -32,9 +32,13 @@ Offenses.—A person who—
 
 (Added Pub. L. 103–322, title XXXII, §320902(a), Sept. 13, 1994, 108 Stat. 2123; amended Pub. L. 104–294, title VI, §604(b)(18), Oct. 11, 1996, 110 Stat. 3507.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294 designated first and second pars. beginning with quotation mark as pars. (1) and (2), respectively, and made technical amendment to provisions appearing in original.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

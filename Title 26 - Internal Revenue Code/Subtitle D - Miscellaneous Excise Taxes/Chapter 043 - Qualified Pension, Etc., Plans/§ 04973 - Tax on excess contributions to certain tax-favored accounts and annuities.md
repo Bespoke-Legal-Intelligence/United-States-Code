@@ -24,7 +24,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 &emsp;(1) the excess (if any) of—
 
-&emsp;&emsp;(A) the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16)), over
+&emsp;&emsp;(A) the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16)), over
 
 &emsp;&emsp;(B) the amount allowable as a deduction under section 219 for such contributions, and
 
@@ -174,7 +174,7 @@ Subsec. (e)(2)(A). Pub. L. 107–22, §1(b)(2)(B), substituted "Coverdell educat
 
 Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6)\], substituted "Archer MSA" for "medical savings account".
 
-Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6)\], substituted "Archer MSAs" for"medical savings accounts" in heading, "Archer MSAs" for "medical savings accounts" in introductory provisions, and "Archer MSA" for "medical savings account" in concluding provisions.
+Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6)\], substituted "Archer MSAs" for "medical savings accounts" in heading, "Archer MSAs" for "medical savings accounts" in introductory provisions, and "Archer MSA" for "medical savings account" in concluding provisions.
 
 <b>1998</b>—Pub. L. 105–206, §6023(18)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Tax on excess contributions to individual retirement accounts, medical savings accounts, certain section 403(b) contracts, and certain individual retirement annuities".
 
@@ -348,7 +348,7 @@ Pub. L. 93–406, title II, §2002(i)(2), Sept. 2, 1974, 88 Stat. 971, provided 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -54,7 +54,7 @@ In carrying out functions under this section with respect to the export of defen
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
-(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
 (2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
@@ -66,7 +66,7 @@ In carrying out functions under this section with respect to the export of defen
 
 (4) Paragraph (2) shall not apply with respect to an exemption under subsection (j)(1) to give effect to a treaty referred to in subsection (j)(1)(C)(i) (and any implementing arrangements to such treaty), provided that the President promulgates regulations to implement and enforce such treaty under this section and section 2779 of this title.
 
-(5)(A) Except as provided in subparagraph (B), the President shall take such actions as may be necessary to require that, at the time of export or reexport of any major defense equipment listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, the major defense equipment will not besubsequently modified so as to transform such major defense equipment into a defense article.
+(5)(A) Except as provided in subparagraph (B), the President shall take such actions as may be necessary to require that, at the time of export or reexport of any major defense equipment listed on the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15, Code of Federal Regulations, the major defense equipment will not be subsequently modified so as to transform such major defense equipment into a defense article.
 
 (B) The President may authorize the transformation of any major defense equipment described in subparagraph (A) into a defense article if the President—
 
@@ -194,7 +194,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(i) meet the requirements set forth in paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) be implemented by the United States and the foreign country in a manner that is legally-binding under their domestic laws.
+&emsp;&emsp;&emsp;(ii) be implemented by the United States and the foreign country in a manner thatis legally-binding under their domestic laws.
 
 #### (B) Exception for Canada
 
@@ -214,7 +214,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;The United States shall exempt from the scope of a treaty referred to in clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) complete rocket systems (including ballistic missile systems, space launch vehicles, and sounding rockets) or complete unmanned aerial vehicle systems (including cruise missile systems, targetdrones, and reconnaissance drones) capable of delivering at least a 500 kilogram payload to a range of 300 kilometers, and associated production facilities, software, or technology for these systems, as defined in the Missile Technology Control Regime Annex Category I, Item 1;
+&emsp;&emsp;&emsp;&emsp;(I) complete rocket systems (including ballistic missile systems, space launch vehicles, and sounding rockets) or complete unmanned aerial vehicle systems (including cruise missile systems, target drones, and reconnaissance drones) capable of delivering at least a 500 kilogram payload to a range of 300 kilometers, and associated production facilities, software, or technology for these systems, as defined in the Missile Technology Control Regime Annex Category I, Item 1;
 
 &emsp;&emsp;&emsp;&emsp;(II) individual rocket stages, re-entry vehicles and equipment, solid or liquid propellant motors or engines, guidance sets, thrust vector control systems, and associated production facilities, software, and technology, as defined in the Missile Technology Control Regime Annex Category I, Item 2;
 
@@ -242,7 +242,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(iv) establishment of a list of controlled defense items to ensure coverage of those items to be exported under the exemption; and
 
-&emsp;&emsp;(B) should, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enact necessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy regarding—
+&emsp;&emsp;(B) should, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enactnecessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy regarding—
 
 &emsp;&emsp;&emsp;(i) controls on the export of tangible or intangible technology, including via fax, phone, and electronic media;
 
@@ -306,6 +306,8 @@ As prescribed in regulations issued under this section, a United States person t
 
 (Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
@@ -319,10 +321,6 @@ Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Wea
 The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
-
-#### Reference to Section 1934 of This Title Deemed Reference to This Section
-
-Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: "Any reference to suchsection \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954."
 
 #### Amendments
 
@@ -378,7 +376,7 @@ Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added su
 
 Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence ", except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agencyand shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–222, §3(a), inserted "support international terrorism," after "arms race,".
 
@@ -413,6 +411,12 @@ Subsec. (d). Pub. L. 96–70 struck out subsec. (d) which provided that this sec
 Subsec. (e). Pub. L. 96–72 substituted "subsections (c), (d), (e), and (f) of section 11 of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 of such Act" for "sections 6(c), (d), (e), and (f) and 7(a) and (c) of the Export Administration Act of 1969".
 
 <b>1977</b>—Subsec. (b)(3). Pub. L. 95–92 inserted provisions relating to exceptions to prohibitions against issuance of licenses under this section and procedures applicable for implementation of such exceptions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Reference to Section 1934 of This Title Deemed Reference to This Section
+
+Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: "Any reference to such section \[section 1934 of this title\] shall be deemed to be a reference to section 38 of the Arms Export Control Act \[this section\] and any reference to licenses issued under section 38 of the Arms Export Control Act \[this section\] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954."
 
 #### Change of Name
 
@@ -455,10 +459,6 @@ Pub. L. 111–266, title I, §106, Oct. 8, 2010, 124 Stat. 2802, provided that: 
 #### Rule of Construction
 
 Pub. L. 111–266, title I, §107, Oct. 8, 2010, 124 Stat. 2802, provided that: "Nothing in this title \[see section 101 of Pub. L. 111–266, set out as a Short Title of 2010 Amendment note under section 2751 of this title\], the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto), the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), or in any regulation issued to implement either treaty, shall be construed to modify or supersede any provision of law or regulation other than the Arms Export Control Act (22 U.S.C. 2751 et seq.), as amended by this Act \[see Short Title of 2010 Amendment notes set out under section 2751 of this title\], and the International Traffic in Arms Regulations (subchapter M of chapter I of title 22, Code of Federal Regulations)."
-
-#### Delegation of Functions
-
-For delegation of functions of the President under this section, with certain conditions, see section 1(n) ofEx. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Satellites and Related Items
 
@@ -662,7 +662,7 @@ U.S.-Australia implementing arrangement.—In the case of the Implementing Arran
 
 &emsp;&emsp;"(B) any amendment to section 3, paragraphs (1) or (2) that modifies the criteria governing end-use requirements and the requirements for approved community members responding to United States Government solicitations;
 
-&emsp;&emsp;"(C) any amendment to section 4, paragraph (4) that modifies criteria for including items on thelist of defense articles exempt from the scope of the treaty;
+&emsp;&emsp;"(C) any amendment to section 4, paragraph (4) that modifies criteria for including items on the list of defense articles exempt from the scope of the treaty;
 
 &emsp;&emsp;"(D) any amendment to section 4, paragraph (7) that modifies licensing and other applicable requirements relating to items added to the list of defense articles exempt from the scope of the treaty;
 
@@ -832,7 +832,7 @@ In general.—The Secretary of State shall take the necessary steps to ensure th
 
 &emsp;"(2)
 
-Availability of existing appropriations.—The Secretary of State shall take the necessary steps to ensure that those funds made available under the heading 'Administration of Foreign Affairs, Diplomatic and Consular Programs' in title IV of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, as contained in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[112 Stat. 2681–92\] are made available, upon the enactment of this Act, to the Office of Defense Trade Controls of the Department of State to carry out the purposes of the Office.
+Availability of existing appropriations.—The Secretary of State shall take the necessary stepsto ensure that those funds made available under the heading 'Administration of Foreign Affairs, Diplomatic and Consular Programs' in title IV of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, as contained in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[112 Stat. 2681–92\] are made available, upon the enactment of this Act, to the Office of Defense Trade Controls of the Department of State to carry out the purposes of the Office.
 
 "(b)
 
@@ -852,7 +852,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 &emsp;&emsp;"(A) report directly to the launch monitor with regard to issues relevant to the technology transfer control plan;
 
-&emsp;&emsp;"(B) have received appropriate training in the International Trafficking in Arms Regulations\(hereafter in this title \[enacting this note and amending provisions set out as a note under section 4604 of Title 50, War and National Defense\] referred to as 'ITAR').
+&emsp;&emsp;"(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under section 4604 of Title 50, War and National Defense\] referred to as 'ITAR').
 
 &emsp;&emsp;"(C) have significant experience and expertise with satellite launches; and
 
@@ -914,7 +914,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(7) establish mechanisms in accordance with the provisions of section 1514(a)(2)(A) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2175; 22 U.S.C. 2778 note) that provide for—
 
-&emsp;&emsp;"(A) the payment to the Department of Defense by the person or entity receiving the launch monitoring services concerned, before the beginning of a fiscal year, of an amount equal to the amount estimated to be required by the Department to monitor the launch campaigns during that fiscal year;
+&emsp;&emsp;"(A) the payment to the Department of Defense by the person or entity receiving the launch monitoring services concerned, before the beginning of afiscal year, of an amount equal to the amount estimated to be required by the Department to monitor the launch campaigns during that fiscal year;
 
 &emsp;&emsp;"(B) the reimbursement of the Department of Defense, at the end of each fiscal year, for amounts expended by the Department in monitoring the launch campaigns in excess of the amount provided under subparagraph (A); and
 
@@ -996,7 +996,7 @@ Notice to Congress of Certain Export Waivers.—The President shall promptly not
 
 "(c)
 
-Exception.—The requirements in subsections (a) and (b) shall not apply if the President determines that notification of the appropriate committees of Congress under such subsections would jeopardize an on-going criminal investigation. If the President makes such a determination, the President shall provide written notification of such determination to the Speaker of the House of Representatives, the majority leader of the Senate, the minority leader of the House of Representatives, and the minority leader of the Senate. The notification shall include a justification for the determination.
+Exception.—The requirements in subsections (a) and (b) shall not apply if the President determines that notification of the appropriate committees of Congress under such subsections would jeopardize an on-going criminal investigation. If the President makes such a determination, the President shall provide written notification of such determination to the Speaker of the House of Representatives, the majority leader of theSenate, the minority leader of the House of Representatives, and the minority leader of the Senate. The notification shall include a justification for the determination.
 
 "(d)
 
@@ -1064,6 +1064,8 @@ Certification.—The President shall certify to the Congress at least 15 days in
 
 Exception.—The certification requirement contained in subsection (a) shall not apply to the export of inertial reference units and components in manned civilian aircraft or supplied as spare or replacement parts for such aircraft.
 
+\[For delegation of functions of the President under section 1512 of Pub. L. 105–261, set out above, see Determination of President of the United States, No. 2009–31, Sept. 29, 2009, 74 F.R. 50913, set out below.\]
+
 #### "SEC. 1513. SATELLITE CONTROLS UNDER THE UNITED STATES MUNITIONS LIST.
 
 "\[(a) Repealed. Pub. L. 112–239, div. A, title XII, §1261(a)(1), Jan. 2, 2013, 126 Stat. 2018.\]
@@ -1082,7 +1084,7 @@ Report.—Not later than January 1, 1999, the Secretary of State, in consultatio
 
 &emsp;"(1) a detailed description of the plans of the Department of State to implement the requirements of this section, including any organizational changes that are required and any Executive orders or regulations that may be required;
 
-&emsp;"(2) an identification and explanation of any steps that should be taken to improve the license review process for exports of the satellites and related items described in subsection (a), including measures to shorten the timelines for license application reviews, and any measures relating to the transparency of the license review process and dispute resolution procedures;
+&emsp;"(2) an identification and explanation of any steps that should be taken to improve the license reviewprocess for exports of the satellites and related items described in subsection (a), including measures to shorten the timelines for license application reviews, and any measures relating to the transparency of the license review process and dispute resolution procedures;
 
 &emsp;"(3) an evaluation of the adequacy of resources available to the Department of State, including fiscal and personnel resources, to carry out the additional activities required by this section; and
 
@@ -1112,7 +1114,7 @@ Contents of monitoring.—The monitoring under subparagraph (A) shall cover, but
 
 &emsp;&emsp;&emsp;"(i) technical discussions and activities, including the design, development, operation, maintenance, modification, and repair of satellites, satellite components, missiles, other equipment, launch facilities, and launch vehicles;
 
-&emsp;&emsp;&emsp;"(ii) satellite processing and launch activities, including launch preparation, satellite transportation, integration of the satellite with the launch vehicle, testing and checkout prior tolaunch, satellite launch, and return of equipment to the United States;
+&emsp;&emsp;&emsp;"(ii) satellite processing and launch activities, including launch preparation, satellite transportation, integration of the satellite with the launch vehicle, testing and checkout prior to launch, satellite launch, and return of equipment to the United States;
 
 &emsp;&emsp;&emsp;"(iii) activities relating to launch failure, delay, or cancellation, including post-launch failure investigations; and
 
@@ -1170,7 +1172,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;"(2) An estimate of the number of United States civilian contract personnel expected to be needed in country to carry out the proposed satellite launch.
 
-&emsp;"(3)(A) A detailed description of the United States Government's plan to monitor the proposed satellite launch to ensure that no unauthorized transfer of technology occurs, together with an estimate of the number of officers and employees of the United States that are expected to be needed in country to carry out monitoring of the proposed satellite launch; and
+&emsp;"(3)(A) A detailed description of the United States Government's plan to monitor the proposed satellite launch to ensure that no unauthorized transfer of technology occurs, together with an estimate of the number of officers and employees of the United States that are expected to be needed in country tocarry out monitoring of the proposed satellite launch; and
 
 &emsp;"(B) the estimated cost to the Department of Defense of monitoring the proposed satellite launch and the amount of such cost that is to be reimbursed to the department.
 
@@ -1211,20 +1213,6 @@ Militarily Sensitive Characteristics Defined.—In this section, the term 'milit
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
-
-#### Delegation of Certifications Under Section 1512 of Public Law 105–261
-
-Determination of President of the United States, No. 2009–31, Sept. 29, 2009, 74 F.R. 50913, provided:
-
-Memorandum for the Secretary of Commerce
-
-By virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of Title 3, United States Code, I hereby delegate to you the functions of the President under section 1512 of the National Defense Authorization Act for Fiscal Year 1999 (NDAA).
-
-In the performance of your responsibility under this memorandum, you shall consult, as appropriate, the heads of other executive departments and agencies.
-
-You are authorized and directed to publish this determination in the Federal Register.
-
-Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Landmine Export Moratorium
 
@@ -1272,7 +1260,7 @@ Definition.—For purposes of this section, the term 'anti-personnel landmine' m
 
 &emsp;"(3) any manually-emplaced munition or device designed to kill, injure, or damage and which is actuated by remote control or automatically after a lapse of time."
 
-\[Section 634(j) of title VI of div. J of Pub. L. 110–161, which directed the amendment of section 1365(c) of Pub.L. 102–484, set out above, by substituting "During the 22 year period beginning on October 23, 1992" for "During the 16 year period beginning on October 23, 1992" before the period at the end, was executed by making the substitution in the introductory provisions, to reflect the probable intent of Congress.\]
+\[Section 634(j) of title VI of div. J of Pub. L. 110–161, which directed the amendment of section 1365(c) of Pub. L. 102–484, set out above, by substituting "During the 22 year period beginning on October 23, 1992" for "During the 16 year period beginning on October 23, 1992" before the period at the end, was executed by making the substitution in the introductory provisions, to reflect the probable intent of Congress.\]
 
 \[Section 1000(a)(2) \[title V, §553\] of div. B of Pub. L. 106–113, which directed the amendment of section 1365(c) of Pub. L. 102–484, set out above, by substituting "During the 11-year" for "During the five-year", was executed by making the substitution for "During the eight-year".\]
 
@@ -1324,7 +1312,7 @@ Continuing negotiations.—The President shall continue negotiations among the 5
 
 &emsp;"(2)
 
-Proposing a temporary moratorium during negotiations.—In the context of these negotiations, the President should propose to the 5 permanent members of the United Nations Security Council a temporary moratorium on the sale and transfer of major military equipment to nations in the Middle East and Persian Gulf region until such time as the 5 permanent members agree to a multilateral arms transfer and control regime.
+Proposing a temporary moratorium during negotiations.—In the context of these negotiations, the President should propose to the 5 permanent members of the United Nations Security Council atemporary moratorium on the sale and transfer of major military equipment to nations in the Middle East and Persian Gulf region until such time as the 5 permanent members agree to a multilateral arms transfer and control regime.
 
 "(b)
 
@@ -1420,9 +1408,29 @@ Major Military Equipment.—As used in this title, the term 'major military equi
 
 \[Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, in consultation with heads of other executive agencies and departments, certification and reporting obligations of the President under section 403 and former section 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of the President under this section, with certain conditions, see section 1(n) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions werepreviously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+
+#### Delegation of Certifications Under Section 1512 of Public Law 105–261
+
+Determination of President of the United States, No. 2009–31, Sept. 29, 2009, 74 F.R. 50913, provided:
+
+Memorandum for the Secretary of Commerce
+
+By virtue of the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of Title 3, United States Code, I hereby delegate to you the functions of the President under section 1512 of the National Defense Authorization Act for Fiscal Year 1999 (NDAA).
+
+In the performance of your responsibility under this memorandum, you shall consult, as appropriate, the heads of other executive departments and agencies.
+
+You are authorized and directed to publish this determination in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Continuation of Export Control Regulations
 
-Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: "Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e)."
+Ex. Ord. No. 13222, §3, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: "Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e)."
 
 Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
 

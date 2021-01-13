@@ -18,6 +18,8 @@ Subsection (b) is new to the Coast Guard, although it has been the practice for 
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 483 of this title as this section.

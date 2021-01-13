@@ -82,7 +82,7 @@ Each State that receives a grant under this section shall appoint a team nutriti
 
 A State agency that receives a grant under this section may use funds from the grant—
 
-&emsp;(1)(A) to collect, analyze, and disseminate data regarding the extent to which children and youths in the State are overweight, physically inactive, or otherwise suffering from nutrition-related deficiencies or disease conditions; and
+&emsp;(1)(A) to collect, analyze, and disseminate data regarding the extent to which childrenand youths in the State are overweight, physically inactive, or otherwise suffering from nutrition-related deficiencies or disease conditions; and
 
 &emsp;(B) to identify the programs and services available to meet those needs;
 
@@ -246,7 +246,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193, §731(a)(1), substituted "that effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs should be encouraged." for "that—" and pars. (1) to (5) which related to priority of proper nutrition, lack of understanding of principles of good nutrition, training school employees, role of parents, and opportunities for children to learn about importance of good nutrition.
 
-Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted "establish" for "encourage effective dissemination ofscientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing".
+Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted "establish" for "encourage effective dissemination of scientifically valid information to children participating or eligible to participate in the school lunch and related child nutrition programs by establishing".
 
 Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out "(A)" before "The funds made available" in introductory provisions, redesignated cls. (i) to (viii) and (xx) as subpars. (A) to (H) and (I), respectively, added subpar. (J), and struck out cls. (ix) to (xix) which related to use of funds for a nutrition component usable in consumer, homemaking and health education programs, instructing staff on working with children from different backgrounds, developing means of providing nutrition education in materials to children through after-school programs, training about healthy and nutritious meals, creating instructional programming for school staff and parents, aspects of the Strategic Plan for Nutrition and Education, encouraging public service advertisements, coordinating and promoting nutrition activities in local school districts, contracting with public and private nonprofit educational institutions for nutrition education, increasing awareness of importance of breakfasts, and coordinating and promoting nutrition education under child nutrition programs.
 

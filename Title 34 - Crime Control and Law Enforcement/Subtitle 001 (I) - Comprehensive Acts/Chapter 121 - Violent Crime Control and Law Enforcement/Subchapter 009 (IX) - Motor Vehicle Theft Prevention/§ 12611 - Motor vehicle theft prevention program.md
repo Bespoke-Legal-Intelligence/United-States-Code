@@ -104,6 +104,8 @@ There are authorized to carry out this section.<sup>1</sup>
 
 (Pub. L. 103–322, title XXII, §220002, Sept. 13, 1994, 108 Stat. 2074.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14171 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

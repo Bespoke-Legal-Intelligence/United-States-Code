@@ -36,13 +36,15 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 (2) Such term shall not apply—
 
-&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employmentin the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
+&emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States underreciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
 
 &emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
 (Pub. L. 104–193, title IV, §401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Subsec. (c)(2)(C). Pub. L. 105–306, §5(a), added subpar. (C).
 Subsec. (b)(4). Pub. L. 105–33, §5561(b), added par. (4).
 
 Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon ", or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -110,7 +114,7 @@ State Defined.—For purposes of this section, the term 'State' includes the Dis
 
 "(e)
 
-State Entitlement.—This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment to States of amounts provided under this section."
+State Entitlement.—This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government toprovide for the payment to States of amounts provided under this section."
 
 #### Study and Report on Alien Student Eligibility for Postsecondary Federal Student Financial Assistance
 

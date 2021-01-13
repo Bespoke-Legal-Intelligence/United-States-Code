@@ -10,6 +10,8 @@ Recommendations and Views.—In prescribing the regulations, the Secretary shall
 
 (Added Pub. L. 108–445, §3(b), Dec. 3, 2004, 118 Stat. 2640; amended Pub. L. 116–12, §1(b)(2), (5), Apr. 8, 2019, 133 Stat. 845.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7433 to 7440 were omitted in the general amendment of this subchapter by Pub. L. 108–445.

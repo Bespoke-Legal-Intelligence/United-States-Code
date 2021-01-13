@@ -22,7 +22,7 @@
 
 &emsp;If any package contains any article not specified in the invoice or entry and, in the opinion of the Customs Service, the article was omitted from the invoice or entry—
 
-&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer ofrecord, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
+&emsp;&emsp;(A) with fraudulent intent on the part of the seller, shipper, owner, agent, importer of record, or entry filer, the contents of the entire package in which such article is found shall be subject to seizure; or
 
 &emsp;&emsp;(B) without fraudulent intent, the value of the article shall be added to the entry and the duties, fees, and taxes thereon paid accordingly.
 
@@ -90,7 +90,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (1) In general
 
-&emsp;Within the 5-day period (excluding weekends and holidays) following the date on whichmerchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
+&emsp;Within the 5-day period (excluding weekends and holidays) following the date on which merchandise is presented for customs examination, the Customs Service shall decide whether to release or detain the merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise.
 
 #### (2) Notice of detention
 
@@ -108,7 +108,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (3) Testing results
 
-&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the party with copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
+&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the partywith copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
 
 #### (4) Seizure and forfeiture
 
@@ -164,5 +164,5 @@ Functions of all other officers of Department of the Treasury and functions of a
 
 #### Existing Laboratories
 
-Pub. L. 103–182, title VI, §613(b), Dec. 8, 1993, 107 Stat. 2174, provided that: "Accreditation under section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder."
+Pub. L. 103–182, title VI, §613(b), Dec. 8, 1993, 107 Stat. 2174, which related to accreditation of private testing laboratories, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 

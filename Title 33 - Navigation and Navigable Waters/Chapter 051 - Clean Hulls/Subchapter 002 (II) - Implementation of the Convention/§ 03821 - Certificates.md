@@ -6,7 +6,7 @@ On entry into force of the Convention for the United States, any vessel of at le
 
 #### (b) Issuance of Certificate
 
-On entry into force of the Convention, on a finding that a successful survey required by the Convention has been completed, a vessel of at least 400 gross tons that engages in at least one international voyage (except fixed or floating platforms, FSUs, and FPSOs) shall be issued an International Antifouling System Certificate.The Secretary may issue the Certificate required by this section. The Secretary may delegate this authority to an organization that the Secretary determines is qualified to undertake that responsibility.
+On entry into force of the Convention, on a finding that a successful survey required by the Convention has been completed, a vessel of at least 400 gross tons that engages in at least one international voyage (except fixed or floating platforms, FSUs, and FPSOs) shall be issued an International Antifouling System Certificate. The Secretary may issue the Certificate required by this section. The Secretary may delegate this authority to an organization that the Secretary determines is qualified to undertake that responsibility.
 
 #### (c) Maintenance of Certificate
 
@@ -21,6 +21,8 @@ A Certificate issued by any country that is a party to the Convention has the sa
 Notwithstanding subsection (a), a vessel of at least 400 gross tons, having the nationality of or entitled to fly the flag of a country that is not a party to the Convention, may demonstrate compliance with this chapter through other appropriate documentation considered acceptable by the Secretary.
 
 (Pub. L. 111–281, title X, §1021, Oct. 15, 2010, 124 Stat. 3025.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

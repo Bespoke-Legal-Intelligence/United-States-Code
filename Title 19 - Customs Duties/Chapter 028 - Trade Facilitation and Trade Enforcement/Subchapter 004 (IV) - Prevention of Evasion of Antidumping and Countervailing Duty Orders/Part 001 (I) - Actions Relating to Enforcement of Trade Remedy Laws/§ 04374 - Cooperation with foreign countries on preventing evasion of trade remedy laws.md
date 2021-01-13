@@ -20,7 +20,7 @@
 
 #### (b) Consideration
 
-The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) and the extent to which the country is cooperating under the bilateral agreement for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country's exports.
+The Commissioner is authorized to take into consideration whether a country is a signatory to a bilateral agreement described in subsection (a) or a party to the USMCA (as defined in section 4502 of this title) and the extent to which the country is cooperating under the bilateral agreement or the USMCA, as the case may be, for purposes of trade enforcement and compliance assessment activities of U.S. Customs and Border Protection that concern evasion by such country's exports.
 
 #### (c) Report
 
@@ -32,5 +32,17 @@ Not later than December 31 of each calendar year beginning after February 24, 20
 
 &emsp;(3) bilateral cooperation and other activities conducted pursuant to or enabled by any completed bilateral agreements described in subsection (a).
 
-(Pub. L. 114–125, title IV, §414, Feb. 24, 2016, 130 Stat. 160.)
+(Pub. L. 114–125, title IV, §414, Feb. 24, 2016, 130 Stat. 160; Pub. L. 116–113, title IV, §401, Jan. 29, 2020, 134 Stat. 61.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–113 inserted "or a party to the USMCA (as defined in section 4502 of this title)" after "subsection (a)" and "or the USMCA, as the case may be," after "the bilateral agreement".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under section 1516a of this title.
+
+#### Effect of Termination of USMCA Country Status
+
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of this title.
 

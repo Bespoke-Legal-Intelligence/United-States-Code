@@ -92,7 +92,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;&emsp;Adjustments to service fees described in clause (i) shall be made—
 
-&emsp;&emsp;&emsp;&emsp;(I) initially, at the time at which initial development costs of the system have been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
+&emsp;&emsp;&emsp;&emsp;(I) initially, at the time at which initial development costs of the systemhave been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
 
 &emsp;&emsp;&emsp;&emsp;(II) periodically thereafter, upon receipt and acceptance of the findings of any annual accounting or auditing report under subsection (d)(3), if the report discloses a significant disparity for a fiscal year between the funds collected from service fees under this subsection for the fiscal year and expenditures made for the fiscal year to provide system-related services.
 
@@ -194,7 +194,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;(A) the service fee structure of the contractor that will form the basis for payments to the contractor; and
 
-&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor forsystem-related development, operation, and maintenance costs.
+&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor for system-related development, operation, and maintenance costs.
 
 #### (5) Cancellation and termination
 
@@ -266,7 +266,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (3) Administration
 
-&emsp;The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fully authorized to carry out such regulations in lieu of the Administrator.
+&emsp;The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fullyauthorized to carry out such regulations in lieu of the Administrator.
 
 #### (h) Requirement of compliance with respect to certain States
 
@@ -286,7 +286,7 @@ There are authorized to be appropriated $2,000,000 for each of fiscal years 2013
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 The Government Management Reform Act of 1994, referred to in (d)(3)(A)(i)(II), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3301 of Title 31, Money and Finance, and Tables.
 

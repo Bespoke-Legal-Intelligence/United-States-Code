@@ -38,7 +38,7 @@ Beginning in fiscal year 1990, the Secretary, acting through the Service, shall 
 
 #### (d) Tribal capability
 
-The financial and technical capability of an Indian tribe or community to safely operate andmaintain a sanitation facility shall not be a prerequisite to the provision or construction of sanitation facilities by the Secretary.
+The financial and technical capability of an Indian tribe or community to safely operate and maintain a sanitation facility shall not be a prerequisite to the provision or construction of sanitation facilities by the Secretary.
 
 #### (e) Amount of assistance
 
@@ -104,6 +104,8 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 (Pub. L. 94–437, title III, §302, Sept. 30, 1976, 90 Stat. 1407; Pub. L. 100–713, title III, §302, Nov. 23, 1988, 102 Stat. 4814; Pub. L. 102–573, title III, §§302, 307(b)(1), Oct. 29, 1992, 106 Stat. 4560, 4564.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
@@ -118,7 +120,7 @@ Subsec. (f)(1). Pub. L. 102–573, §302(2), substituted "this section" for "sub
 
 Subsec. (g)(1). Pub. L. 102–573, §302(3)(A), substituted "The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report" for "The Secretary shall submit to the Congress an annual report".
 
-Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, andstruck out former par. (2) which read as follows: "The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31."
+Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31."
 
 Subsec. (h). Pub. L. 102–573, §307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 

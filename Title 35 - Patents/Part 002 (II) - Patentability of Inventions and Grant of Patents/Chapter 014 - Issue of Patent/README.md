@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(k), Sept. 16, 2011, 125 Stat. 335, struck out items 155 "Patent term extension" and 155A "Patent term restoration".

@@ -16,9 +16,13 @@ The Congress finds and declares—
 
 <i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information andEducational Exchange Act of 1948 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -139,7 +139,7 @@ For purposes of this section—
 | 7-year property | 7 years&nbsp;&nbsp; |
 | 10-year property | 10 years&nbsp;&nbsp; |
 | 15-year and 20-year property | 15 years&nbsp;&nbsp; |
-| Residential rental property and nonresidential real property | 19 years   |
+| Residential rental property and nonresidential real property | 19 years&nbsp;&nbsp; |
 | Any railroad grading or tunnel bore | 50 years. |
 
 #### (B) Special rule for property not depreciable under section 168

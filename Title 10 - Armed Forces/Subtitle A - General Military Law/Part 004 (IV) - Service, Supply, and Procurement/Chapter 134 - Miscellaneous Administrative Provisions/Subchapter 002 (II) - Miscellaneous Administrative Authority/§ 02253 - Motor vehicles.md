@@ -12,7 +12,7 @@ General Authorities.—The Secretary of Defense and the Secretary of each milita
 
 Hire of Passenger Vehicles.—Amounts appropriated to the Department of Defense for operation and maintenance of the active forces may be used for the hire of passenger motor vehicles.
 
-(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845; amended Pub. L. 105–85, div. A, title VIII, §805, Nov. 18, 1997, 111 Stat. 1834; Pub. L. 112–81, div. A, title VIII, §814(a), Dec. 31, 2011, 125 Stat. 1491.)
+(Added Pub. L. 100–370, §1(e)(1), July 19, 1988, 102 Stat. 845; amended Pub. L. 105–85, div. A, titleVIII, §805, Nov. 18, 1997, 111 Stat. 1834; Pub. L. 112–81, div. A, title VIII, §814(a), Dec. 31, 2011, 125 Stat. 1491.)
 
 #### Historical and Revision Notes
 

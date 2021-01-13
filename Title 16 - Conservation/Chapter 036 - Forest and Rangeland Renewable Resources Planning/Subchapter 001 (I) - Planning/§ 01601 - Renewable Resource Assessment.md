@@ -6,7 +6,7 @@ In recognition of the vital importance of America's renewable resources of the f
 
 &emsp;(1) an analysis of present and anticipated uses, demand for, and supply of the renewable resources, with consideration of the international resource situation, and an emphasis of pertinent supply and demand and price relationship trends;
 
-&emsp;(2) an inventory, based on information developed by the Forest Service and other Federal agencies, of present and potential renewable resources, and an evaluation of opportunities for improving their yield of tangible and intangible goods and services, together with estimates of investment costs and direct and indirect returns to the Federal Government;
+&emsp;(2) an inventory, based on information developed by the Forest Service and other Federal agencies, of present and potential renewableresources, and an evaluation of opportunities for improving their yield of tangible and intangible goods and services, together with estimates of investment costs and direct and indirect returns to the Federal Government;
 
 &emsp;(3) a description of Forest Service programs and responsibilities in research, cooperative programs and management of the National Forest System, their interrelationships, and the relationship of these programs and responsibilities to public and private activities;
 

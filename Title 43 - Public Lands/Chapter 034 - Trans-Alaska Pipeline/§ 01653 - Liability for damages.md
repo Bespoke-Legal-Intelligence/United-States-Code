@@ -2,7 +2,7 @@
 
 #### (a) Activities along or in vicinity of pipeline right-of-way; strict liability; limitation on liability; subrogation; emergency subsistence and other aid; exemption for State of Alaska
 
-(1) Except when the holder of the pipeline right-of-way granted pursuant to this chapter can prove that damages in connection with or resulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
+(1) Except when the holder of the pipeline right-of-way granted pursuant to this chapter can prove that damages in connection with orresulting from activities along or in the vicinity of the proposed trans-Alaskan pipeline right-of-way were caused solely by an act of war or negligence of the United States, other government entity, or the damaged party, such holder shall be strictly liable to all damaged parties, public or private, without regard to fault for such damages, and without regard to ownership of any affected lands, structures, fish, wildlife, or biotic or other natural resources relied upon by Alaska Natives, Native organizations, or others for subsistence or economic purposes. Claims for such injury or damages may be determined by arbitration or judicial proceedings.
 
 (2) Liability under paragraph (1) of this subsection shall be limited to $350,000,000 for any one incident, and the holders of the right-of-way or permit shall be liable for any claim allowed in proportion to their ownership interest in the right-of-way or permit. Liability of such holders for damages in excess of $350,000,000 shall be in accord with ordinary rules of negligence.
 
@@ -17,6 +17,8 @@
 If any area in the State of Alaska within or without the right-of-way or permit area granted under this chapter is polluted by any activities related to the Trans-Alaska Pipeline System, including operation of the terminal, conducted by or on behalf of the holder to whom such right-of-way or permit was granted, and such pollution damages or threatens to damage aquatic life, wildlife, or public or private property, the control and total removal of the pollutant shall be at the expense of such holder, including any administrative and other costs incurred by the Secretary or any other Federal or State officer or agency. Upon failure of such holder to adequately control and remove such pollutant, the Secretary, in cooperation with other Federal, State, or local agencies, or in cooperation with such holder, or both, shall have the right to accomplish the control and removal at the expense of such holder.
 
 (Pub. L. 93–153, title II, §204, Nov. 16, 1973, 87 Stat. 586; Pub. L. 101–380, title VIII, §§8101, 8102(a)(1), (4), (b)–(e), Aug. 18, 1990, 104 Stat. 565–567.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -38,6 +40,8 @@ Subsec. (c)(5). Pub. L. 101–380, §8102(a)(4), inserted before period at end o
 
 Subsec. (c)(13), (14). Pub. L. 101–380, §8102(c), added pars. (13) and (14).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
@@ -52,7 +56,7 @@ Pub. L. 101–380, title VIII, §8102(a)(5)(A), Aug. 18, 1990, 104 Stat. 566, pr
 
 #### Savings Provision
 
-Pub. L. 101–380, title VIII, §8102(a)(3), Aug. 18, 1990, 104 Stat. 566, provided that: "The repeal made by paragraph (1) \[repealing subsec. (c) of this section\] shall have no effect on any right to recover or responsibility that arises from incidents subject to section 204(c) of the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) occurring prior to the date of enactment of this Act \[Aug. 18, 1990\]."
+Pub. L. 101–380, title VIII, §8102(a)(3), Aug. 18, 1990, 104 Stat. 566, provided that: "The repeal made by paragraph (1) \[repealing subsec. (c) of this section\] shall have no effect on any right to recover or responsibility that arises from incidents subject to section 204(c) ofthe Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1653(c)) occurring prior to the date of enactment of this Act \[Aug. 18, 1990\]."
 
 #### Bulk Fuel Storage Tanks
 

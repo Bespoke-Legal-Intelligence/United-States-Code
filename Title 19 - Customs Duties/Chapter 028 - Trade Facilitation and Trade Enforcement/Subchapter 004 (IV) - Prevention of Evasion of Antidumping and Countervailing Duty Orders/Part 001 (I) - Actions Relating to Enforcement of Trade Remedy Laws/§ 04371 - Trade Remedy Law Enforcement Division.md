@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security shall establish and maintain within the Office ofTrade established under section 2084 of this title a Trade Remedy Law Enforcement Division.
+&emsp;The Secretary of Homeland Security shall establish and maintain within the Office of Trade established under section 2084 of this title a Trade Remedy Law Enforcement Division.
 
 #### (2) Composition
 

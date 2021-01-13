@@ -38,7 +38,7 @@ For purposes of this part:
 
 &emsp;(12) The term "manufacturer" means any person who manufactures a consumer product.
 
-&emsp;(13) The term "retailer" means a person to whom a consumer product is delivered or sold,if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
+&emsp;(13) The term "retailer" means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
 
 &emsp;(14) The term "distributor" means a person (other than a manufacturer or retailer) to whom a consumer product is delivered or sold for purposes of distribution in commerce.
 
@@ -56,7 +56,7 @@ For purposes of this part:
 
 &emsp;(18) The term "Commission" means the Federal Trade Commission.
 
-&emsp;(19) The term "AV" is the adjusted volume for refrigerators, refrigerator-freezers, and freezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
+&emsp;(19) The term "AV" is the adjusted volume for refrigerators, refrigerator-freezers, andfreezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
 
 &emsp;(20) The term "annual fuel utilization efficiency" means the efficiency descriptor for furnaces and boilers, determined using test procedures prescribed under section 6293 of this title and based on the assumption that all—
 
@@ -118,7 +118,7 @@ For purposes of this part:
 
 &emsp;(27) The term "water heater" means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
-&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, andelectric storage water heaters with an input of 12 kilowatts or less;
+&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
@@ -130,7 +130,7 @@ For purposes of this part:
 
 &emsp;(B) The term "ANSI standard" means a standard developed by a committee accredited by the American National Standards Institute.
 
-&emsp;(C) The term "ballast efficacy factor" means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(C) The term "ballast efficacy factor" means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSIstandard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(D)(i) The term "F40T12 lamp" means a nominal 40 watt tubular fluorescent lamp which is 48 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1010–1).
 
@@ -174,7 +174,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any straight-shaped lamp (commonly referred to as 4-foot medium bi-pin lamps) with medium bi-pin bases of nominal overall length of 48 inches and rated wattage of 28 or more.
 
-&emsp;&emsp;(ii) Any U-shaped lamp (commonly referred to as 2-foot U-shaped lamps) with medium bi-pin bases of nominal overall lengthbetween 22 and 25 inches and rated wattage of 28 or more.
+&emsp;&emsp;(ii) Any U-shaped lamp (commonly referred to as 2-foot U-shaped lamps) with medium bi-pin bases of nominal overall length between 22 and 25 inches and rated wattage of 28 or more.
 
 &emsp;&emsp;(iii) Any rapid start lamp (commonly referred to as 8-foot high output lamps) with recessed double contact bases of nominal overall length of 96 inches and 0.800 nominal amperes, as defined in ANSI C78.1–1978 and related supplements.
 
@@ -198,7 +198,7 @@ For purposes of this part:
 
 &emsp;&emsp;(viii) Lamps with a color rendering index of 87 or greater.
 
-&emsp;(C) Except as provided in subparagraph (E), the term "incandescent lamp" means a lamp in which light is produced by a filament heated to incandescence by an electric current, including only the following:
+&emsp;(C) Except as provided in subparagraph (E), the term "incandescent lamp" means a lampin which light is produced by a filament heated to incandescence by an electric current, including only the following:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
@@ -648,7 +648,7 @@ In general.—The term "mercury vapor lamp" means a high intensity discharge lam
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term "mercury vapor lamp" includes clear, phosphor-coated, and self-ballasted screw base lamps described in subparagraph (A).
+Inclusions.—The term "mercury vapor lamp" includes clear, phosphor-coated, andself-ballasted screw base lamps described in subparagraph (A).
 
 &emsp;(48)
 
@@ -746,7 +746,7 @@ Efficiency formula.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(iii) the lamp, and the capacitor when the capacitor is provided, shall constitute a nominal system in accordance with the ANSI Standard C78.43–2004;
 
-&emsp;&emsp;&emsp;(iv) for ballasts with a frequency of 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall be measured after lamps have been stabilized according to section 4.4 of ANSI Standard C82.6–2005 using a wattmeter with accuracy specified in section 4.5 of ANSI Standard C82.6–2005; and
+&emsp;&emsp;&emsp;(iv) for ballasts with a frequency of 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall be measured after lamps have been stabilized according to section 4.4 of ANSI Standard C82.6–2005 using a wattmeter with accuracy specifiedin section 4.5 of ANSI Standard C82.6–2005; and
 
 &emsp;&emsp;&emsp;(v) for ballasts with a frequency greater than 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall have a basic accuracy of +/- 0.5 percent at the higher of—
 

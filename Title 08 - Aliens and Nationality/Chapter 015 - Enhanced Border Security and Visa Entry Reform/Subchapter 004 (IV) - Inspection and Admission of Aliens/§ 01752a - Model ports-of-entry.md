@@ -4,7 +4,7 @@
 
 The Secretary of Homeland Security shall—
 
-&emsp;(1) establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process in order to facilitate and promote business and tourist travel to the United States, while also improving security; and
+&emsp;(1) establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process inorder to facilitate and promote business and tourist travel to the United States, while also improving security; and
 
 &emsp;(2) implement the program initially at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007.
 
@@ -23,6 +23,8 @@ The program shall include—
 Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007.
 
 (Pub. L. 110–53, title VII, §725, Aug. 3, 2007, 121 Stat. 350.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

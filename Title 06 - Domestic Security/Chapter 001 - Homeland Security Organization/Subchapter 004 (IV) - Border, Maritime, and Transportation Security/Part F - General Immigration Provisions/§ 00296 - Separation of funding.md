@@ -6,7 +6,7 @@ There shall be established separate accounts in the Treasury of the United State
 
 #### (b) Separate budgets
 
-To ensure that the Bureau of Citizenship and Immigration Services and the Bureau of Border Security are funded to the extent necessary to fully carry out their respective functions, the Director of the Office of Management and Budget shall separate the budget requests for each such entity.
+To ensure that the Bureau of Citizenship and Immigration Services and the Bureau of Border Security are funded to the extent necessary tofully carry out their respective functions, the Director of the Office of Management and Budget shall separate the budget requests for each such entity.
 
 #### (c) Fees
 
@@ -17,6 +17,8 @@ Fees imposed for a particular service, application, or benefit shall be deposite
 No fee may be transferred between the Bureau of Citizenship and Immigration Services and the Bureau of Border Security for purposes not authorized by section 1356 of title 8.
 
 (Pub. L. 107–296, title IV, §476, Nov. 25, 2002, 116 Stat. 2209.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

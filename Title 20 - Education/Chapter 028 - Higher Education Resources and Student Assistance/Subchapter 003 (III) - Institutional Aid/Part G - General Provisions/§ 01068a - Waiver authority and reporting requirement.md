@@ -12,7 +12,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(4) which is substantially increasing higher educational opportunities for individuals in rural or other isolated areas which are unserved by postsecondary institutions;
 
-&emsp;(5) located on or near an Indian reservation or a substantial population of Indians, if theSecretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians;
+&emsp;(5) located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians;
 
 &emsp;(6) that is a tribally controlled college or university as defined in section 1801 of title 25; or
 
@@ -26,7 +26,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(A) identify the factors referred to in paragraph (1) which were considered by the Secretary as factors that distorted the determination of compliance with subparagraphs (A) and (B) of section 1058(b)(1) of this title; and
 
-&emsp;(B) contain a list of each institution determined to be an eligible institution under part A including a statement of the reasons for each such determination.
+&emsp;(B) contain a list of each institution determined to be an eligible institution under partA including a statement of the reasons for each such determination.
 
 (3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E) <sup>2</sup> of this title in the case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
 
@@ -78,7 +78,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;&emsp;The terms "area affected by a Gulf hurricane disaster" and "Gulf hurricane disaster" have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 (Public Law 109–148, 119 Stat. 2809).
 
-(Pub. L. 89–329, title III, §392, formerly §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17,1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478; renumbered §392 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(d), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §§318, 320(5), Aug. 14, 2008, 122 Stat. 3185, 3188; Pub. L. 111–39, title III, §301(8), July 1, 2009, 123 Stat. 1938.)
+(Pub. L. 89–329, title III, §392, formerly §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478; renumbered §392 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(d), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §§318, 320(5), Aug. 14, 2008, 122 Stat. 3185, 3188; Pub. L. 111–39, title III, §301(8), July 1, 2009, 123 Stat. 1938.)
 
 #### References in Text
 

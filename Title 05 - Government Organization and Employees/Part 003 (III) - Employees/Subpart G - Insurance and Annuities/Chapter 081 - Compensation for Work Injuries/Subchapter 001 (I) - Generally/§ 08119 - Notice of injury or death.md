@@ -52,9 +52,13 @@ Administration of this subchapter was transferred to the Secretary of Labor by s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–416 substituted "or death" for "; failure to give" in section catchline, struck out designation of subsec. (a), redesignated cls. (1) to (7) as (a) to (g), and, as so redesignated, inserted provisions relating to notice of death and substituted "30 days" for "48 hours" in cl. (a), and struck out subsec. (b) relating to allowance of compensation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

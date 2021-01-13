@@ -88,7 +88,7 @@ A State may expend a grant under subsection (a) to carry out the purposes specif
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) unless an application for the grant is submitted to the Commissionerand the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4)).
+&emsp;The Commissioner may not make a grant under subsection (a) unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (i)(4)).
 
 #### (2) Contents
 
@@ -174,9 +174,11 @@ A State may expend a grant under subsection (a) to carry out the purposes specif
 
 #### (C) Conditions
 
-&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a).
+&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to thesame conditions as grants made under subsection (a).
 
 (Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, §487, July 22, 2014, 128 Stat. 1694.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

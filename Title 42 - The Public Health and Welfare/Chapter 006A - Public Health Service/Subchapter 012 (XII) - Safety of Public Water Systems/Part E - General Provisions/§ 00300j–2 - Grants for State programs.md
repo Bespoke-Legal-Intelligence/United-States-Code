@@ -16,7 +16,7 @@
 
 (4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided</i>, That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And provided further</i>, That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
 
-(5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibition may only be waived if, in the judgment of the Administrator—
+(5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibitionmay only be waived if, in the judgment of the Administrator—
 
 &emsp;(A) the State is making a diligent effort to assume and maintain primary enforcement responsibility for public water systems within the State;
 
@@ -58,7 +58,7 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 (1) From allotments made pursuant to paragraph (4), the Administrator may make grants to States to carry out underground water source protection programs.
 
-(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. No grant may be made to any State under paragraph (1) unless the State has assumed primary enforcement responsibilitywithin two years after the date the Administrator promulgates regulations for State underground injection control programs under section 300h of this title. The prohibition contained in the preceding sentence shall not apply to such grants when made to Indian Tribes.
+(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. No grant may be made to any State under paragraph (1) unless the State has assumed primary enforcement responsibility within two years after the date the Administrator promulgates regulations for State underground injection control programs under section 300h of this title. The prohibition contained in the preceding sentence shall not apply to such grants when made to Indian Tribes.
 
 (3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of the grant recipient's cost (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, and underground water source protection program.
 
@@ -81,7 +81,7 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 For purposes of this section:
 
-&emsp;(1) The term "public water system supervision program" means a program for the adoption and enforcement of drinking water regulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
+&emsp;(1) The term "public water system supervision program" means a program for the adoption and enforcement of drinking waterregulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
 
 &emsp;(2) The term "underground water source protection program" means a program for the adoption and enforcement of a program which meets the requirements of regulations under section 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
 

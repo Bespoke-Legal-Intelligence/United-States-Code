@@ -6,71 +6,83 @@
 
 &emsp;There are authorized to be appropriated to the Secretary to carry out this subchapter—
 
-&emsp;&emsp;(A) $72,000,000 for fiscal year 2009;
+&emsp;&emsp;(A) $87,520,000 for fiscal year 2021;
 
-&emsp;&emsp;(B) $75,600,000 for fiscal year 2010;
+&emsp;&emsp;(B) $91,900,000 for fiscal year 2022;
 
-&emsp;&emsp;(C) $79,380,000 for fiscal year 2011;
+&emsp;&emsp;(C) $96,500,000 for fiscal year 2023;
 
-&emsp;&emsp;(D) $83,350,000 for fiscal year 2012;
+&emsp;&emsp;(D) $101,325,000 for fiscal year 2024; and
 
-&emsp;&emsp;(E) $87,520,000 for fiscal year 2013; and
+&emsp;&emsp;(E) $105,700,000 for fiscal year 2025.
 
-&emsp;&emsp;(F) $91,900,000 for fiscal year 2014.
+#### (2) Priority activities for fiscal years 2021 through 2025
 
-#### (2) Priority activities
+&emsp;In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated $6,000,000 for each of fiscal years 2021 through 2025 for competitive grants for the following:
 
-&emsp;In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated for each of fiscal years 2009 through 2014—
+&emsp;&emsp;(A) University research on the biology, prevention, and control of aquatic nonnative species.
 
-&emsp;&emsp;(A) $5,000,000 for competitive grants for university research on the biology, prevention, and control of aquatic nonnative species;
+&emsp;&emsp;(B) University research on oyster diseases, oyster restoration, and oyster-related human health risks.
 
-&emsp;&emsp;(B) $5,000,000 for competitive grants for university research on oyster diseases, oyster restoration, and oyster-related human health risks;
+&emsp;&emsp;(C) University research on the biology, prevention, and forecasting of harmful algal blooms.
 
-&emsp;&emsp;(C) $5,000,000 for competitive grants for university research on the biology, prevention, and forecasting of harmful algal blooms; and
+&emsp;&emsp;(D) University research, education, training, and extension services and activities focused on coastal resilience and United States working waterfronts and other regional or national priority issues identified in the strategic plan under section 1123(c)(1) of this title.
 
-&emsp;&emsp;(D) $3,000,000 for competitive grants for fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
+&emsp;&emsp;(E) University research and extension on sustainable aquaculture techniques and technologies.
+
+&emsp;&emsp;(F) Fishery research and extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
 #### (b) Limitations
 
 #### (1) Administration
 
-&emsp;There may not be used for administration of programs under this subchapter in a fiscal year more than 5 percent of the lesser of—
+#### (A) In general
 
-&emsp;&emsp;(A) the amount authorized to be appropriated under this subchapter for the fiscal year; or
+&emsp;&emsp;There may not be used for administration of programs under this subchapter in a fiscal year more than 5.5 percent of the lesser of—
 
-&emsp;&emsp;(B) the amount appropriated under this subchapter for the fiscal year.
+&emsp;&emsp;&emsp;(i) the amount authorized to be appropriated under this subchapter for the fiscal year; or
+
+&emsp;&emsp;&emsp;(ii) the amount appropriated under this subchapter for the fiscal year.
+
+#### (B) Critical staffing requirements
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Director shall use the authority under subchapter VI of chapter 33 of title 5, and under section 1129 of this title, to meet any critical staffing requirement while carrying out the activities authorized under this subchapter.
+
+#### (ii) Exception from cap
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), any costs incurred as a result of an exercise of authority as described in clause (i) shall not be considered an amount used for administration of programs under this subchapter in a fiscal year.
 
 #### (2) Use for other offices or programs
 
 &emsp;Sums appropriated under the authority of subsection (a)(2) shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
 
-#### (c) Distribution of funds
-
-In any fiscal year in which the appropriations made under subsection (a)(1) exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
-
-&emsp;(1) sea grant programs, according to their performance assessments;
-
-&emsp;(2) regional or national strategic investments authorized under section 1123(b)(4) of this title;
-
-&emsp;(3) a college, university, institution, association, or alliance for activities that are necessary for it to be designated as a sea grant college or sea grant institute; and
-
-&emsp;(4) a sea grant college or sea grant institute designated after November 26, 2002, but not yet evaluated under section 1123(d)(3)(A) of this title.
-
-#### (d) Availability of sums
+#### (c) Availability of sums
 
 Sums appropriated pursuant to this section shall remain available until expended.
 
-#### (e) Reversion of unobligated amounts
+#### (d) Reversion of unobligated amounts
 
-The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
+The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to theSecretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, §10, Oct. 13, 2008, 122 Stat. 4209.)
+(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347; Pub. L. 110–394, §10, Oct. 13, 2008, 122 Stat. 4209; Pub. L. 116–221, §9(a), (b), (c)(2), Dec. 18, 2020, 134 Stat. 1060, 1061.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This subchapter, referred to in subsec. (e), was in the original "this Act" and was translated as reading "this title" meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–221, §9(a)(1), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2009 through 2014.
+
+Subsec. (a)(2). Pub. L. 116–221, §9(a)(2), amended par. (2) generally. Prior to amendment, par. (2) related to priority activities for fiscal years 2009 through 2014.
+
+Subsec. (b)(1). Pub. L. 116–221, §9(b), amended par. (1) generally. Prior to amendment, par. (1) related to limitations on amounts for administration of programs.
+
+Subsecs. (c) to (e). Pub. L. 116–221, §9(c)(2), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to distribution of excess funds.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–394, §10(1), added par. (1) and struck out former par. (1) which authorized appropriations for fiscal years 2003 through 2008.
 
@@ -145,6 +157,8 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 <b>1978</b>—Pub. L. 95–428 substituted appropriations authorization of $50,000,000 for fiscal years 1977, and 1978, for prior $50,000,000 authorization for fiscal years ending Sept. 30, 1977, and 1978, and authorized appropriation of $55,000,000 for fiscal years 1979 and 1980.
 
 <b>1977</b>—Pub. L. 95–58 substituted "each of the fiscal years ending September 30, 1977, and September 30, 1978" for "the fiscal year ending September 30, 1977".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notice of Reprogramming
 

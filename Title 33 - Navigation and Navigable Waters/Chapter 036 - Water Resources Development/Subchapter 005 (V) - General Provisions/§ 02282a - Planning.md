@@ -62,7 +62,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 #### (B) List
 
-&emsp;&emsp;Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
+&emsp;&emsp;Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
 
 #### (f) Completion of Corps of Engineers reports
 
@@ -112,6 +112,8 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 (Pub. L. 110–114, title II, §2033, Nov. 8, 2007, 121 Stat. 1084; Pub. L. 113–121, title II, §2103, June 10, 2014, 128 Stat. 1278.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -125,6 +127,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2014</b>—Subsec. (e)(3). Pub. L. 113–121 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

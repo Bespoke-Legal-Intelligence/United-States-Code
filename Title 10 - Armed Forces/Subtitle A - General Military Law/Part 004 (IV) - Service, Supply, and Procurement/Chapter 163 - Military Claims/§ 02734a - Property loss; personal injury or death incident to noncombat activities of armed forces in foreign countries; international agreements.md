@@ -12,7 +12,7 @@
 
 (d) Upon the request of the Secretary of Homeland Security or his designee, any payments made relating to claims arising from the activities of the Coast Guard and covered by subsection (a) may be reimbursed or paid to the foreign country concerned by the authorized representative of the Department of Defense out of appropriations as provided in section 2732 of this title, subject to reimbursement from the Department of Homeland Security.
 
-(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 90–521, §4, Sept. 26, 1968, 82 Stat. 874; Pub. L. 94–390, §1(1), Aug. 19, 1976, 90 Stat. 1191; Pub. L. 98–525, title XIV, §1405(42)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(B), Nov. 5, 1990, 104 Stat. 1709; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 90–521, §4, Sept. 26, 1968, 82 Stat. 874; Pub. L. 94–390, §1(1), Aug. 19, 1976, 90 Stat. 1191; Pub. L. 98–525, title XIV, §1405(42)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(B), Nov. 5,1990, 104 Stat. 1709; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 

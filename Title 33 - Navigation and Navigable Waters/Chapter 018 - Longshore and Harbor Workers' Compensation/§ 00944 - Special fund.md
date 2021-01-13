@@ -2,7 +2,7 @@
 
 #### (a) Establishment; administration; custody, trust
 
-There is established in the Treasury of the United States a special fund. Such fund shall beadministered by the Secretary. The Treasurer of the United States shall be the custodian of such fund, and all moneys and securities in such fund shall be held in trust by such Treasurer and shall not be money or property of the United States.
+There is established in the Treasury of the United States a special fund. Such fund shall be administered by the Secretary. The Treasurer of the United States shall be the custodian of such fund, and all moneys and securities in such fund shall be held in trust by such Treasurer and shall not be money or property of the United States.
 
 #### (b) Disbursements; bond of custodian
 
@@ -28,7 +28,7 @@ Payments into such fund shall be made as follows:
 
 #### (d) Investigations; records, availability; recordkeeping; provisions of sections 49 and 50 of title 15 applicable to Secretary
 
-(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof, the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
+(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof,the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
 
 (2) Each carrier and self-insurer shall make, keep, and preserve such records, and make such reports and provide such additional information, as prescribed by regulation or order of the Secretary, as the Secretary deems necessary or appropriate to carry out his responsibilities under this section.
 
@@ -67,6 +67,8 @@ The proceeds of this fund shall be available for payments:
 The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title.
 
 (Mar. 4, 1927, ch. 509, §44, 44 Stat. 1444; July 26, 1956, ch. 735, §8, 70 Stat. 656; Pub. L. 92–576, §8, Oct. 27, 1972, 86 Stat. 1256; Pub. L. 98–426, §§24, 27(a)(2), Sept. 28, 1984, 98 Stat. 1653, 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -124,6 +126,8 @@ Subsec. (k). Pub. L. 92–576, §8(d), incorporated former provisions of subsec.
 
 Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
@@ -131,6 +135,8 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 #### Effective Date of 1972 Amendment
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

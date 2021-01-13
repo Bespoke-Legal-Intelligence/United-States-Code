@@ -12,7 +12,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (2) Consultation on grants
 
-&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administratorshall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
+&emsp;To ensure input from and coordination with State, local, and tribal governments and emergency response providers, the Administrator shall regularly consult and work with the National Advisory Council on the administration and assessment of grant programs administered by the Department, including with respect to the development of program guidance and the development and evaluation of risk-assessment methodologies, as appropriate.
 
 #### (c) Membership
 
@@ -126,7 +126,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (5) Consultation with nonmembers
 
-&emsp;The RESPONSE Subcommittee and the program offices for emergency responder training and resources shall consult with other relevant agencies and groups, including entities engaged in federally funded research and academic institutions engaged in relevant work and research, which are not represented on the RESPONSE Subcommittee to consider new and developing technologies and methods that may be beneficial to preparedness and response to rail hazardous materials incidents.
+&emsp;The RESPONSE Subcommittee and the program offices for emergency responder trainingand resources shall consult with other relevant agencies and groups, including entities engaged in federally funded research and academic institutions engaged in relevant work and research, which are not represented on the RESPONSE Subcommittee to consider new and developing technologies and methods that may be beneficial to preparedness and response to rail hazardous materials incidents.
 
 #### (6) Recommendations
 
@@ -182,7 +182,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (B) Review
 
-&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the NationalAdvisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
+&emsp;&emsp;Not later than 30 days after receiving the report under subparagraph (A), the National Advisory Council shall begin a review of the report. The National Advisory Council may ask for additional clarification, changes, or other information from the RESPONSE Subcommittee to assist in the approval of the recommendations.
 
 #### (C) Recommendation
 
@@ -230,6 +230,8 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 (Pub. L. 107–296, title V, §508, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1403; amended Pub. L. 110–53, title I, §102(a), Aug. 3, 2007, 121 Stat. 293; Pub. L. 114–321, §2, Dec. 16, 2016, 130 Stat. 1623; Pub. L. 115–278, §2(g)(4)(A), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -245,6 +247,12 @@ A prior section 508 of Pub. L. 107–296 was renumbered section 519 and is class
 <b>2016</b>—Subsecs. (d), (e). Pub. L. 114–321 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–53 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 
 #### Effective Date
 

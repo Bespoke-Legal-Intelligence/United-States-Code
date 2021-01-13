@@ -48,9 +48,13 @@ Review.—The regulations promulgated pursuant to this section (and any revision
 
 (Added Pub. L. 109–435, title III, §301, Dec. 20, 2006, 120 Stat. 3218.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Postal Service Plan
 

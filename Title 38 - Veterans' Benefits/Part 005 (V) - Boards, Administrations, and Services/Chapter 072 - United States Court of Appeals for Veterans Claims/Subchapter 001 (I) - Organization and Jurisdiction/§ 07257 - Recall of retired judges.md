@@ -12,7 +12,7 @@
 
 (2) A recall-eligible retired judge may not be recalled for more than 90 days (or the equivalent) during any calendar year without the judge's consent.
 
-(3) If a recall-eligible retired judge is recalled by the chief judge in accordance with this section and (other than in the case of a judge who has previously during that calendar year served at least 90 days (or the equivalent) of recalled service on the court) declines (other than by reason of disability) to perform the service to which recalled, the chief judge shall remove that retired judge from the status of a recall-eligible judge. This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.
+(3) If a recall-eligible retired judge is recalled by the chief judge in accordance with this section and (other than in the case of a judge who has previously during that calendar year served at least 90 days (or the equivalent) of recalled service on the court) declines (other than by reason of disability) to perform the service to which recalled, the chief judge shall remove that retired judge from the status of a recall-eligiblejudge. This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.
 
 (4) A recall-eligible retired judge who becomes permanently disabled and as a result of that disability is unable to perform further service on the Court shall be removed from the status of a recall-eligible judge. Determination of such a disability shall be made pursuant to section 7253(g) or 7296(g) of this title.
 
@@ -28,9 +28,11 @@
 
 (Added Pub. L. 106–117, title X, §1021(a), Nov. 30, 1999, 113 Stat. 1590; amended Pub. L. 110–389, title VI, §603(a), (b)(3)–(c), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–389, §603(b)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: "Such a notice provided by a retired judge is irrevocable.".
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–389, §603(b)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: "Such a notice provided by a retired judge is irrevocable."
 
 Subsec. (b)(2). Pub. L. 110–389, §603(a), struck out "or for more than a total of 180 days (or the equivalent) during any calendar year" before period at end.
 

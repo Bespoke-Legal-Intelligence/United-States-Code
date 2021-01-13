@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) is searchable and is in a format that is clear and understandable;
 
-&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection\(a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
+&emsp;&emsp;&emsp;(ii) contains information that is presented by the name of the applicable manufacturer or applicable group purchasing organization, the name of the covered recipient, the business address of the covered recipient, the specialty of the covered recipient, the value of the payment or other transfer of value, the date on which the payment or other transfer of value was provided to the covered recipient, the form of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(v), the nature of the payment or other transfer of value, indicated (as appropriate) under subsection (a)(1)(A)(vi), and the name of the covered drug, device, biological, or medical supply, as applicable;
 
 &emsp;&emsp;&emsp;(iii) contains information that is able to be easily aggregated and downloaded;
 
@@ -316,5 +316,5 @@ Pub. L. 115–271, title VI, §6111(a)(2), Oct. 24, 2018, 132 Stat. 4006, provid
 
 #### Administration
 
-Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section."
+Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amendingthis section and enacting provisions set out as notes under this section\] or the amendments made by this section."
 

@@ -2,7 +2,7 @@
 
 #### (a) Time of submission; contents
 
-The President shall annually transmit to the Congress not later than 10 days after the submission of the budget under section 1105(a) of title 31, with copies transmitted to the Governor of each State and to other appropriate State and local officials, an economic report (hereinafter in this chapter referred to as the "Economic Report") together with the annual report of theCouncil of Economic Advisers submitted in accord with section 1023(c) of this title, setting forth—
+The President shall annually transmit to the Congress not later than 10 days after the submission of the budget under section 1105(a) of title 31, with copies transmitted to the Governor of each State and to other appropriate State and local officials, an economic report (hereinafter in this chapter referred to as the "Economic Report") together with the annual report of the Council of Economic Advisers submitted in accord with section 1023(c) of this title, setting forth—
 
 &emsp;(1) the current and foreseeable trends in the levels of employment, unemployment, production, capital formation, real income, Federal budget outlays and receipts, productivity, international trade and payments, and prices, and a review and analysis of recent domestic and international developments affecting economic trends in the Nation;
 
@@ -38,7 +38,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d)
 
 #### Codification
 
-In subsec. (a), "section 1023(c) of this title" was in the original "section 11(c) of this Act", which is classified to section 1024(c) of this title. The citation has been editorially translated as indicated to reflect the probable intent of Congress because the reporting requirements appear in section 10(c) of the Act, which is classified to section 1023(c) of this title.
+In subsec. (a), "section 1023(c) of this title" was in the original "section 11(c) of this Act", which is classified to section 1024(c) of this title. The citation has beeneditorially translated as indicated to reflect the probable intent of Congress because the reporting requirements appear in section 10(c) of the Act, which is classified to section 1023(c) of this title.
 
 #### Amendments
 

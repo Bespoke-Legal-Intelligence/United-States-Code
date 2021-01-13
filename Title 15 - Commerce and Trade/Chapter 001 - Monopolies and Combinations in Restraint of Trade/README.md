@@ -10,6 +10,10 @@
 | [6\.](%C2%A7%2000006%20-%20Forfeiture%20of%20property%20in%20transit.md) | Forfeiture of property in transit. |
 | [6a.](%C2%A7%2000006a%20-%20Conduct%20involving%20trade%20or%20commerce%20with%20foreign%20nations.md) | Conduct involving trade or commerce with foreign nations. |
 | [7\.](%C2%A7%2000007%20-%20Person%20or%20persons%20defined.md) | "Person" or "persons" defined. |
+| [7a.](%C2%A7%2000007a%20-%20Definitions.md) | Definitions. |
+| 7a–1. | Limitation on recovery. |
+| 7a–2. | Rights, authorities, and liabilities not affected. |
+| 7a–3. | Anti-retaliation protection for whistleblowers. |
 | [8\.](%C2%A7%2000008%20-%20Trusts%20in%20restraint%20of%20import%20trade%20illegal%3B%20penalty.md) | Trusts in restraint of import trade illegal; penalty. |
 | [9\.](%C2%A7%2000009%20-%20Jurisdiction%20of%20courts%3B%20duty%20of%20United%20States%20attorneys%3B%20procedure.md) | Jurisdiction of courts; duty of United States attorneys; procedure. |
 | [10\.](%C2%A7%2000010%20-%20Bringing%20in%20additional%20parties.md) | Bringing in additional parties. |
@@ -84,6 +88,10 @@ Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 1205
 - [&sect; 00006 - Forfeiture of property in transit](%C2%A7%2000006%20-%20Forfeiture%20of%20property%20in%20transit.md)
 - [&sect; 00006a - Conduct involving trade or commerce with foreign nations](%C2%A7%2000006a%20-%20Conduct%20involving%20trade%20or%20commerce%20with%20foreign%20nations.md)
 - [&sect; 00007 - Person or persons defined](%C2%A7%2000007%20-%20Person%20or%20persons%20defined.md)
+- [&sect; 00007a - Definitions](%C2%A7%2000007a%20-%20Definitions.md)
+- [&sect; 00007a&#8211;1 - Limitation on recovery](%C2%A7%2000007a%E2%80%931%20-%20Limitation%20on%20recovery.md)
+- [&sect; 00007a&#8211;2 - Rights, authorities, and liabilities not affected](%C2%A7%2000007a%E2%80%932%20-%20Rights%2C%20authorities%2C%20and%20liabilities%20not%20affected.md)
+- [&sect; 00007a&#8211;3 - Anti-retaliation protection for whistleblowers](%C2%A7%2000007a%E2%80%933%20-%20Anti-retaliation%20protection%20for%20whistleblowers.md)
 - [&sect; 00008 - Trusts in restraint of import trade illegal; penalty](%C2%A7%2000008%20-%20Trusts%20in%20restraint%20of%20import%20trade%20illegal%3B%20penalty.md)
 - [&sect; 00009 - Jurisdiction of courts; duty of United States attorneys; procedure](%C2%A7%2000009%20-%20Jurisdiction%20of%20courts%3B%20duty%20of%20United%20States%20attorneys%3B%20procedure.md)
 - [&sect; 00010 - Bringing in additional parties](%C2%A7%2000010%20-%20Bringing%20in%20additional%20parties.md)

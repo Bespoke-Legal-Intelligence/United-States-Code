@@ -28,11 +28,13 @@
 
 &emsp;(13) <sup>2</sup> shall be credited with amounts received from any of the activities authorized by clauses (10) and (11) <sup>3</sup> of this subsection.
 
-&emsp;(13) <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section 9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
+&emsp;(13) <sup>2</sup> shall accept such amounts as may be transferred to the Corporation under section9505(c)(1) of title 26, except that such amounts shall be available only for the purpose of operating and maintaining those works which the Corporation is obligated to operate and maintain under subsection (a) of section 983 of this title.
 
 (b) Amounts credited under subsection (a)(12) <sup>3</sup> are available to pay any obligation or expense of the Corporation under this chapter, except as specifically provided in subsection (a)(11).<sup>3</sup>
 
 (May 13, 1954, ch. 201, §4, 68 Stat. 94; Pub. L. 85–108, §1(1)–(3), July 17, 1957, 71 Stat. 307; Pub. L. 92–310, title II, §232, June 6, 1972, 86 Stat. 214; Pub. L. 97–369, title III, §311, Dec. 18, 1982, 96 Stat. 1783; Pub. L. 99–662, title XIV, §805(a)(1)–(3), Nov. 17, 1986, 100 Stat. 4272.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -47,6 +49,8 @@ In subsec. (a)(7), "chapter 51 and subchapter III of chapter 53 of title 5" subs
 <b>1972</b>—Subsec. (a)(7). Pub. L. 92–310 struck out provisions which empowered the Corporation to require bonds from such officers, attorneys, and employees as the Administrator might designate.
 
 <b>1957</b>—Subsecs. (a)(10) to (12), (b). Pub. L. 85–108 added pars. (10) to (12) and subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

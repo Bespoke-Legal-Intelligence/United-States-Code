@@ -54,6 +54,8 @@ In subsection (b), before clause (1), the words "of the United States" are omitt
 
 In subsection (c), the words "be construed to" and "eligible therefore" are omitted as surplus. The words "receiving another annuity while" are substituted for "simultaneously . . . and any annuity . . . to which she would otherwise be entitled under any other law" to eliminate unnecessary words. The words "(including old age and survivor benefits)" and "without regard to this section" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
@@ -63,6 +65,8 @@ In subsection (c), the words "be construed to" and "eligible therefore" are omit
 Subsec. (b)(2)(C). Pub. L. 100–426, §204(2), substituted "3 percent" for "4.5 percent".
 
 Subsec. (d). Pub. L. 100–426, §204(3), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

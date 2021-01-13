@@ -38,7 +38,7 @@ Contents of Registration.—The registration of a money transmitting business un
 
 &emsp;&emsp;(C) otherwise participates in the conduct of the affairs of the business.
 
-&emsp;(3) The name and address of any depository institution at which the business maintains a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
+&emsp;(3) The name and address of any depository institution at which the business maintains atransaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
 
 &emsp;(4) An estimate of the volume of business in the coming year (which shall be reported annually to the Secretary).
 
@@ -52,7 +52,7 @@ Agents of Money Transmitting Businesses.—
 
 Maintenance of lists of agents of money transmitting businesses.—Pursuant to regulations which the Secretary of the Treasury shall prescribe, each money transmitting business shall—
 
-&emsp;&emsp;(A) maintain a list containing the names and addresses of all persons authorized toact as an agent for such business in connection with activities described in subsection (d)(1)(A) and such other information about such agents as the Secretary may require; and
+&emsp;&emsp;(A) maintain a list containing the names and addresses of all persons authorized to act as an agent for such business in connection with activities described in subsection (d)(1)(A) and such other information about such agents as the Secretary may require; and
 
 &emsp;&emsp;(B) make the list and other information available on request to any appropriate law enforcement agency.
 
@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 Money transmitting business.—The term "money transmitting business" means any business other than the United States Postal Service which—
 
-&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;; <sup>1</sup>
+&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(B) is required to file reports under section 5313; and
 
@@ -76,7 +76,7 @@ Money transmitting business.—The term "money transmitting business" means any 
 
 &emsp;(2)
 
-Money transmitting service.—The term "money transmitting service" includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
+Money transmitting service.—The term "money transmitting service" includes accepting currency, funds, or value that substitutes for currency and transmitting the currency, funds, or value that substitutes for currency by any means, including through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
 
 (e)
 
@@ -94,7 +94,9 @@ Continuing violation.—Each day a violation described in paragraph (1) continue
 
 Assessments.—Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
 
-(Added Pub. L. 103–325, title IV, §408(b), Sept. 23, 1994, 108 Stat. 2250; amended Pub. L. 107–56, title III, §359(b), Oct. 26, 2001, 115 Stat. 328.)
+(Added Pub. L. 103–325, title IV, §408(b), Sept. 23, 1994, 108 Stat. 2250; amended Pub. L. 107–56, title III, §359(b), Oct. 26, 2001, 115 Stat. 328; Pub. L. 116–283, div. F, title LXI, §6102(d)(2), Jan. 1, 2021, 134 Stat. 4553.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -104,7 +106,13 @@ Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), i
 
 #### Amendments
 
+<b>2021</b>—Subsec. (d)(1)(A). Pub. L. 116–283, §6102(d)(2)(A), substituted "currency, funds, or value that substitutes for currency," for "funds," and "system;" for "system;;".
+
+Subsec. (d)(2). Pub. L. 116–283, §6102(d)(2)(B), substituted "currency, funds, or value that substitutes for currency" for "currency or funds denominated in the currency of any country" after "accepting", substituted "currency, funds, or value that substitutes for currency" for "currency or funds, or the value of the currency or funds," after "transmitting the", and inserted ", including" after "means".
+
 <b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon "or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings and Purposes
 
@@ -122,11 +130,9 @@ Findings.—The Congress hereby finds the following:
 
 &emsp;&emsp;"(ii) evade the requirements of such subchapter II, the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], and other laws of the United States.
 
-&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
+&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, amoney transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
 
 "(2)
 
 Purpose.—It is the purpose of this section \[enacting this section and amending section 1960 of Title 18, Crimes and Criminal Procedure\] to establish a registration requirement for businesses engaged in providing check cashing, currency exchange, or money transmitting or remittance services, or issuing or redeeming money orders, travelers' checks, and other similar instruments to assist the Secretary of the Treasury, the Attorney General, and other supervisory and law enforcement agencies to effectively enforce the criminal, tax, and regulatory laws and prevent such money transmitting businesses from engaging in illegal activities."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

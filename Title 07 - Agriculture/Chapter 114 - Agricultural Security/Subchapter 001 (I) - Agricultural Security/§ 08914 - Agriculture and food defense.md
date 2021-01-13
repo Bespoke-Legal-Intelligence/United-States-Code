@@ -54,7 +54,7 @@ In this section:
 
 #### (7) Plant health management strategy
 
-&emsp;The term "plant health management strategy" means a strategy to timely control anderadicate a plant disease or plant pest outbreak, including through mitigation (such as chemical control), surveillance, the use of diagnostic products and procedures, and the use of existing resistant seed stock.
+&emsp;The term "plant health management strategy" means a strategy to timely control and eradicate a plant disease or plant pest outbreak, including through mitigation (such as chemical control), surveillance, the use of diagnostic products and procedures, and the use of existing resistant seed stock.
 
 #### (8) Transboundary disease
 
@@ -154,7 +154,7 @@ In this section:
 
 &emsp;&emsp;(C) establish diagnostic laboratory standards;
 
-&emsp;&emsp;(D) establish regional hubs throughout the United States that provide expertise, leadership, and support to diagnostic labs relatingto the agricultural crops and plants in the covered regions of those hubs; and
+&emsp;&emsp;(D) establish regional hubs throughout the United States that provide expertise, leadership, and support to diagnostic labs relating to the agricultural crops and plants in the covered regions of those hubs; and
 
 &emsp;&emsp;(E) establish a national repository for records of endemic or emergent diseases and pests of concern.
 

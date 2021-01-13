@@ -178,7 +178,7 @@ Pub. L. 109–59, title XI, §11127(c), Aug. 10, 2005, 119 Stat. 1959, provided 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -292,7 +292,7 @@ Separation of taxpaid stock.—All distilled spirits and wine on which tax has b
 
 "(d)
 
-Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilled spirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
+Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilledspirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
 
 "(e)
 

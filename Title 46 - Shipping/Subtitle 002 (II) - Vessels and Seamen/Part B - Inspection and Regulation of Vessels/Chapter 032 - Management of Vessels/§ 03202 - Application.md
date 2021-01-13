@@ -14,11 +14,19 @@ Foreign Voyages and Foreign Vessels.—This chapter applies to a vessel that—
 
 (b)
 
-Other Passenger Vessels.—This chapter applies to a vessel that is—
+Other Passenger Vessels.—
 
-&emsp;(1) a passenger vessel or small passenger vessel; and
+&emsp;(1)
 
-&emsp;(2) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+In general.—This chapter applies to a vessel that is—
+
+&emsp;&emsp;(A) a passenger vessel or small passenger vessel; and
+
+&emsp;&emsp;(B) is transporting more passengers than a number prescribed by the Secretary based on the number of individuals on the vessel that could be killed or injured in a marine casualty.
+
+&emsp;(2)
+
+Safety management system.—Notwithstanding any other provision in this chapter, including paragraph (1)(B), any regulations under section 3203, including the safety management system established by such regulations, issued on or after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, shall apply to all covered small passenger vessels, as defined in section 3306(n)(5).
 
 (c)
 
@@ -38,9 +46,17 @@ Exception.—Except as provided in subsection (c) of this section, this chapter 
 
 &emsp;(5) a public vessel.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(a), Oct. 15, 2010, 124 Stat. 2969; Pub. L. 115–232, div. C, title XXXV, §3541(b)(8), Aug. 13, 2018, 132 Stat. 2323.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3928; amended Pub. L. 108–293, title IV, §405(a), Aug. 9, 2004, 118 Stat. 1043; Pub. L. 111–281, title VI, §610(a), Oct. 15, 2010, 124 Stat. 2969; Pub. L. 115–232, div. C, title XXXV, §3541(b)(8), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8441(b), Jan. 1, 2021, 134 Stat. 4744.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(2), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–232 substituted "section 2101(29)(A)" for "section 2101(21)(A)".
 

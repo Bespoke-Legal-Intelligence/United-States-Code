@@ -146,17 +146,9 @@ In this section:
 
 #### (2) Major multi-user research facility project
 
-&emsp;The term " 'major multi-user research facility project' " <sup>1</sup> means a science and engineering facility project that—
+&emsp;The term "major multi-user research facility project" means a science and engineering facility project that exceeds $100,000,000 in total construction, acquisition, or upgrade costs to the Foundation.
 
-&emsp;&emsp;(A) exceeds the lesser of—
-
-&emsp;&emsp;&emsp;(i) 10 percent of a Directorate's annual budget; or
-
-&emsp;&emsp;&emsp;(ii) $100,000,000 in total project costs; or
-
-&emsp;&emsp;(B) is funded by the major research equipment and facilities construction account, or any successor account.
-
-(Pub. L. 114–329, title I, §110, Jan. 6, 2017, 130 Stat. 2988.)
+(Pub. L. 114–329, title I, §110, Jan. 6, 2017, 130 Stat. 2988; Pub. L. 116–283, div. A, title II, §267, Jan. 1, 2021, 134 Stat. 3502.)
 
 #### References in Text
 
@@ -166,9 +158,11 @@ Section 2 of the National Science Foundation Authorization Act of 1998, referred
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (g)(2). Pub. L. 116–283 added par. (2) and struck out former par. (2), which defined "major multi-user research facility project".
+
 #### Definitions
 
 For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.
-
-<i><sup>1</sup></i><i> So in original. The single quotation marks probably should not appear.</i>
 

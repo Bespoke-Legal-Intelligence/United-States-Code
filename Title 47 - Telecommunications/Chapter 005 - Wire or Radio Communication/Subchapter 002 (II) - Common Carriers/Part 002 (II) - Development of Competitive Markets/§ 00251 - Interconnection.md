@@ -38,7 +38,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (1) Duty to negotiate
 
-&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
+&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunicationscarrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
 
 #### (2) Interconnection
 
@@ -62,7 +62,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 &emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that the carrier provides at retail to subscribers who are not telecommunications carriers; and
 
-&emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission underthis section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
+&emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission under this section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
 
 #### (5) Notice of changes
 
@@ -108,7 +108,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (3) Universal emergency telephone number
 
-&emsp;The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting an emergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
+&emsp;The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting anemergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
 
 #### (f) Exemptions, suspensions, and modifications
 
@@ -124,7 +124,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (C) Limitation on exemption
 
-&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seekingto provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
+&emsp;&emsp;The exemption provided by this paragraph shall not apply with respect to a request under subsection (c) from a cable operator providing video programming, and seeking to provide any telecommunications service, in the area in which the rural telephone company provides video programming. The limitation contained in this subparagraph shall not apply to a rural telephone company that is providing video programming on February 8, 1996.
 
 #### (2) Suspensions and modifications for rural carriers
 
@@ -172,9 +172,41 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 
 Nothing in this section shall be construed to limit or otherwise affect the Commission's authority under section 201 of this title.
 
-(June 19, 1934, ch. 652, title II, §251, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 61; amended Pub. L. 106–81, §3(a), Oct. 26, 1999, 113 Stat. 1287.)
+(June 19, 1934, ch. 652, title II, §251, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 61; amended Pub. L. 106–81, §3(a), Oct. 26, 1999, 113 Stat. 1287; Pub. L. 116–172, §3(a), Oct. 17, 2020, 134 Stat. 832.)
+
+#### Amendment of Subsection (e)(4)
+
+<i>Pub. L. 116–172, §3(a), (b), Oct. 17, 2020, 134 Stat. 832, 833, provided that, effective on the date that is 1 year after Oct. 17, 2020, subsection (e) of this section is amended by adding at the end the following new paragraph:</i>
+
+#### <i>(4) Universal telephone number for national suicide prevention and mental health crisis hotline system</i>
+
+&emsp;<i>9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under section 290bb–36c of title 42 and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under section 1720F(h) of title 38.</i>
+
+<i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2020</b>—Subsec. (e)(4). Pub. L. 116–172 added par. (4).
+
 <b>1999</b>—Subsec. (e)(3). Pub. L. 106–81 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–172, §3(b), Oct. 17, 2020, 134 Stat. 833, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Oct. 17, 2020\]."
+
+#### Findings
+
+Pub. L. 116–172, §2, Oct. 17, 2020, 134 Stat. 832, provided that: "Congress finds the following:
+
+&emsp;"(1) According to the American Foundation for Suicide Prevention, on average, there are 129 suicides per day in the United States.
+
+&emsp;"(2) To prevent future suicides, it is critical to transition the cumbersome, existing 10-digit National Suicide Hotline to a universal, easy-to-remember, 3-digit phone number and connect people in crisis with life-saving resources.
+
+&emsp;"(3) It is essential that people in the United States have access to a 3-digit national suicide hotline across all geographic locations.
+
+&emsp;"(4) The designated suicide hotline number will need to be both familiar and recognizable to all people in the United States."
 

@@ -34,7 +34,7 @@ The Corporation—
 
 &emsp;(15) may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions of such governments) or with multilateral organizations or institutions for sharing liabilities;
 
-&emsp;(16) may sell direct investments of the Corporation to private investors upon such terms and conditions as the Corporation may determine; and
+&emsp;(16) may sell direct investments of the Corporation to private investors upon such termsand conditions as the Corporation may determine; and
 
 &emsp;(17) shall have such other powers as may be necessary and incident to carrying out the functions of the Corporation.
 
@@ -43,6 +43,8 @@ The Corporation—
 Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of property by the United States, the Corporation shall have the right in its discretion to complete, recondition, reconstruct, renovate, repair, maintain, operate, or sell any property acquired by the Corporation pursuant to the provisions of this chapter, except that, in the case of real property that is for the Corporation's own occupancy, the completion, reconditioning, reconstruction, renovation, repair, maintenance, operation, or sale of the real property shall be conducted in consultation with the Administrator of General Services.
 
 (Pub. L. 115–254, div. F, title III, §1432, Oct. 5, 2018, 132 Stat. 3500.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

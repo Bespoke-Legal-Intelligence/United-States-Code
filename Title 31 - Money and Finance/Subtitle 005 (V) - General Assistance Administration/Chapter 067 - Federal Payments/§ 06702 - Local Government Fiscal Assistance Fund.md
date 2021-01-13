@@ -22,13 +22,17 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 (c)
 
-Administrative Costs.—Up to 2.5 percent of the amount authorized to be appropriatedunder subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
+Administrative Costs.—Up to 2.5 percent of the amount authorized to be appropriated under subsection (b) is authorized to be appropriated for the period fiscal year 1995 through fiscal year 2000 to be available for administrative costs by the Secretary in furtherance of the purposes of the program. Such sums are to remain available until expended.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 6702, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012, related to payments to governments, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deficit Neutrality
 

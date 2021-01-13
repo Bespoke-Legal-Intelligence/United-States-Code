@@ -50,7 +50,7 @@ R.S. §3632; June 6, 1972, Pub. L. 92–310, §231(p), 86 Stat. 210.
 
 In the section, the word "delinquent" is omitted as surplus.
 
-In subsection (a), the words "issued under section 3541 of this title" are added for clarity. The words "by himself or by his deputy, proceed to levy and collect the sum remaining due, by" are omitted as surplus. The words "seize the personal property" are substituted for "distress . . . of the goods and chattels" for clarity. The word "intended" is omitted as surplus. The last sentence is substituted for 31:508(last sentence) to eliminate unnecessary words.
+In subsection (a), the words "issued under section 3541 of this title" are added for clarity. The words "by himself or by his deputy, proceed to levy and collect the sum remaining due, by" are omitted as surplus. The words "seize the personal property" are substituted for "distress . . . of the goods and chattels" forclarity. The word "intended" is omitted as surplus. The last sentence is substituted for 31:508(last sentence) to eliminate unnecessary words.
 
 In subsection (b), the words "real property" are substituted for "lands, tenements, and hereditaments" for clarity.
 

@@ -4,6 +4,8 @@ The Secretary may, upon request, arrange for educational or vocational counselin
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1195, §1720; Pub. L. 90–631, §2(g), Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–584, §4, Dec. 24, 1970, 84 Stat. 1576; Pub. L. 92–540, title III, §310, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 94–502, title III, §310(10), Oct. 15, 1976, 90 Stat. 2391; Pub. L. 96–466, title III, §323(a), Oct. 17, 1980, 94 Stat. 2196; Pub. L. 97–295, §4(45), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §314(a), Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3520, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1720 of this title as this section.
@@ -20,7 +22,7 @@ The Secretary may, upon request, arrange for educational or vocational counselin
 
 Subsec. (b). Pub. L. 97–295, §4(45)(B), substituted "of this title" for "of this chapter".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–466 substituted "the Administrator may, upon request, arrange for" for "theAdministrator shall arrange for, and the eligible person shall take advantage of," and struck out provision that educational or vocational counseling not be required where the eligible person has been accepted for, or is pursuing, courses which lead to a standard college degree, at an approved institution.
+<b>1980</b>—Subsec. (a). Pub. L. 96–466 substituted "the Administrator may, upon request, arrange for" for "the Administrator shall arrange for, and the eligible person shall take advantage of," and struck out provision that educational or vocational counseling not be required where the eligible person has been accepted for, or is pursuing, courses which lead to a standard college degree, at an approved institution.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502 substituted "such person's" for "his" in two places.
 
@@ -31,6 +33,8 @@ Subsec. (b). Pub. L. 97–295, §4(45)(B), substituted "of this title" for "of t
 <b>1968</b>—Subsec. (a). Pub. L. 90–631, §2(g)(1), (2), designated existing provisions as subsec. (a) and inserted "for a person eligible within the meaning of section 1701(a)(1)(A)" after "for educational assistance".
 
 Subsec. (b). Pub. L. 90–631, §2(g)(3), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

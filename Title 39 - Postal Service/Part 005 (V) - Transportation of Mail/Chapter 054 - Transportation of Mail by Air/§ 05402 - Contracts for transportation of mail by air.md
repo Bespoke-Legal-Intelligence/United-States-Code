@@ -22,7 +22,7 @@
 
 &emsp;(10) the term "composite rate"—
 
-&emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
+&emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminalhandling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
 
 &emsp;&emsp;(B) shall be based on the mainline rate paid to the hub, plus the lowest bush rate paid to bush carriers in the State of Alaska for the distance traveled from the hub point to the destination point;
 
@@ -124,7 +124,7 @@ Emergency or unanticipated conditions; inadequate lift space.—The Postal Servi
 
 Good Faith Effort Required.—The Postal Service and potential offerors shall put a good-faith effort into resolving disputes concerning the award of contracts made under subsection (b).
 
-(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensationunder such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
+(d) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
 
 (e)(1) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
 
@@ -248,7 +248,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (C) A providing carrier selected under subparagraph (A) may subcontract the transportation of nonpriority bypass mail to another existing mainline carrier when additional or substitute aircraft are temporarily needed to meet the delivery schedule of the Postal Service or the carrier's operating requirements. The providing carrier shall remain responsible for the mail from origin through destination.
 
-(5)(A) The Postal Service shall offer equitable tender of nonpriority bypass mail to a new 121mainline passenger carrier entering a mainline route in the State of Alaska, if the carrier—
+(5)(A) The Postal Service shall offer equitable tender of nonpriority bypass mail to a new 121 mainline passenger carrier entering a mainline route in the State of Alaska, if the carrier—
 
 &emsp;(i) meets the requirements of subsection (g)(1)(A)(iv)(II); and
 
@@ -330,7 +330,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (C) The Secretary shall establish a bush rate based on data collected under subsection (k) from 135 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on bush city pair routes in the State of Alaska where no 121 bush passenger carrier is tendered nonpriority bypass mail.
 
-(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landings are available. Such rates shall be paid to all bush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
+(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landings are available. Such rates shall be paid to allbush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
 
 (7) The percentage rate in paragraph (1) shall be 75 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
@@ -348,7 +348,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (7) The percentage rate in paragraph (1) shall be 25 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
-(j)(1) Except as provided by paragraph (3), there shall be equitable tender of 10 percent of the nonpriority bypass mail to all carriers on each city pair route in the State of Alaska meeting the requirements of subsection (g)(1)that do not otherwise qualify for tender under subsection (h) or (i).
+(j)(1) Except as provided by paragraph (3), there shall be equitable tender of 10 percent of the nonpriority bypass mail to all carriers on each city pair route in the State of Alaska meeting the requirements of subsection (g)(1) that do not otherwise qualify for tender under subsection (h) or (i).
 
 (2) If no carrier qualifies under this subsection with respect to a city pair route, the 10 percent of nonpriority bypass mail allocated under paragraph (1) shall be divided evenly between the pools described under subsections (h) and (i) to be equitably tendered among qualified carriers under such subsections, such that—
 
@@ -430,11 +430,13 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (q) The Secretary shall make a regular review of carriers receiving, or attempting to qualify to receive, equitable tender of nonpriority bypass mail on a city pair route in the State of Alaska. If the Secretary suspends or revokes an operating certificate, the Secretary shall notify the Postal Service. Upon such notification, the Postal Service shall cease tender of mail to such carrier until the Secretary certifies the carrier is operating in a safe manner. Upon such receipt, the carrier shall demonstrate that it otherwise meets the minimum carriage requirements of this section before being tendered mail under this section.
 
-(r) The Postal Service shall have the authority to tender nonpriority bypass mail to any carrier that meets the requirements of subsection (g)(1) on any city pair route in the State of Alaska on an emergency basis. Such emergency tender shall cease when a carrier qualifies for tender on such route under the terms of this section.
+(r) The Postal Service shall have the authority to tender nonpriority bypass mail to any carrier that meets the requirements of subsection (g)(1)on any city pair route in the State of Alaska on an emergency basis. Such emergency tender shall cease when a carrier qualifies for tender on such route under the terms of this section.
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–171, title X, §10501, May 13, 2002, 116 Stat. 509; Pub. L. 107–206, title III, §3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub. L. 108–447, div. J, title III, §301(c)–(f), Dec. 8, 2004, 118 Stat. 3350, 3351; Pub. L. 109–435, title X, §§1002(b)(2), 1005(a)–(g), Dec. 20, 2006, 120 Stat. 3255–3258; Pub. L. 110–405, §2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -550,7 +552,7 @@ Subsec. (b). Pub. L. 103–272, §4(g)(2)(B), substituted "sections 40109(a) and
 
 Subsec. (d). Pub. L. 103–272, §4(g)(2)(C), inserted "determine rates and" after "Service may" and struck out "and overseas" after "in interstate".
 
-Subsec. (e). Pub. L. 103–272, §4(g)(2)(D), struck out " 'overseas air transportation'," before "and 'foreign",and substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)".
+Subsec. (e). Pub. L. 103–272, §4(g)(2)(D), struck out " 'overseas air transportation'," before "and 'foreign", and substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)".
 
 Subsec. (g)(1)(A). Pub. L. 103–429 substituted "section 41102(a) of title 49" for "section 401 of the Federal Aviation Act of 1958 (49 U.S.C. 1371)".
 
@@ -565,6 +567,8 @@ Subsec. (b). Pub. L. 98–443, §9(g)(4)(A), (D), substituted "Secretary of Tran
 Subsec. (c). Pub. L. 98–443, §9(g)(4)(A), (E), substituted "Secretary of Transportation" for "Civil Aeronautics Board" and "pairs of points in foreign air transportation is not adequate" for "pairs of points is not adequate".
 
 Subsecs. (d) to (f). Pub. L. 98–443, §9(g)(4)(F), added subsecs. (d) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

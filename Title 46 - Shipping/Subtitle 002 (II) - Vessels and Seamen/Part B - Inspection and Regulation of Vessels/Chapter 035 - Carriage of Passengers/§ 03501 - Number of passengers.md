@@ -34,11 +34,15 @@ Historical and Revision Notes
 
 Section 3501 requires that a vessel carrying passengers, including a passenger vessel as well as a small passenger vessel (except a ferry), shall have on the certificate of inspection a statement as to the number of passengers the vessel is permitted to carry. It also provides penalties for carrying passengers in excess of the number permitted.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–36, §1(a)(2)(A), struck out the comma after "(except a ferry)".
 
 Subsec. (c). Pub. L. 99–36, §1(a)(2)(B), substituted "carries more passengers than the number of passengers permitted by the certificate of inspection" for "violates subsection (b) of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

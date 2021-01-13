@@ -14,7 +14,7 @@ Any report provided for in subsection (a) or (b) shall not be evidence of any fa
 
 #### (d) Compliance by mailing
 
-The mailing of any such report and copy in a stamped envelope, within the time prescribed in subsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
+The mailing of any such report and copy in a stamped envelope, within the time prescribed insubsections (a) or (b), to the Secretary and deputy commissioner, respectively, shall be a compliance with this section.
 
 #### (e) Penalty for failure or refusal to send report
 
@@ -25,6 +25,8 @@ Any employer, insurance carrier, or self-insured employer who knowingly and will
 Where the employer or the carrier has been given notice, or the employer (or his agent in charge of the business in the place where the injury occurred) or the carrier has knowledge, of any injury or death of an employee and fails, neglects, or refuses to file report thereof as required by the provisions of subsection (a) of this section, the limitations in subsection (a) of section 913 of this title shall not begin to run against the claim of the injured employee or his dependents entitled to compensation, or in favor of either the employer or the carrier, until such report shall have been furnished as required by the provisions of subsection (a) of this section.
 
 (Mar. 4, 1927, ch. 509, §30, 44 Stat. 1439; June 25, 1938, ch. 685, §11, 52 Stat. 1167; Pub. L. 98–426, §§18, 27(a)(2), Sept. 28, 1984, 98 Stat. 1650, 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsecs. (b), (d). Pub. L. 98–426, §27(a)(2), substituted "Secretary" for "co
 Subsec. (e). Pub. L. 98–426, §18(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal."
 
 <b>1938</b>—Subsec. (f). Act June 25, 1938, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) A debt relief agency shall—
 
-&emsp;(1) not later than 5 business days after the first date on which such agency provides anybankruptcy assistance services to an assisted person, but prior to such assisted person's petition under this title being filed, execute a written contract with such assisted person that explains clearly and conspicuously—
+&emsp;(1) not later than 5 business days after the first date on which such agency provides any bankruptcy assistance services to an assisted person, but prior to such assisted person's petition under this title being filed, execute a written contract with such assisted person that explains clearly and conspicuously—
 
 &emsp;&emsp;(A) the services such agency will provide to such assisted person; and
 
@@ -27,6 +27,8 @@
 &emsp;(B) include the following statement: "We are a debt relief agency. We help people file for bankruptcy relief under the Bankruptcy Code." or a substantially similar statement.
 
 (Added Pub. L. 109–8, title II, §229(a), Apr. 20, 2005, 119 Stat. 71.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ Such board of arbitration shall be chosen in the following manner:
 
 (a) In the case of a board of three the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name one arbitrator; the two arbitrators thus chosen shall select a third arbitrator. If the arbitrators chosen by the parties shall fail to name the third arbitrator within five days after their first meeting, such third arbitrator shall be named by the Mediation Board.
 
-(b) In the case of a board of six the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name two arbitrators; the four arbitrators thus chosen shall, by a majority vote, select the remaining two arbitrators. If the arbitrators chosen by the parties shall fail to name the two arbitrators within fifteen days after their first meeting, the said two arbitrators, or as many of them as have not been named, shall be named by the Mediation Board.
+(b) In the case of a board of six the carrier or carriers and the representatives of the employees, parties respectively to the agreement to arbitrate, shall each name two arbitrators; the four arbitrators thus chosen shall, by a majority vote, select the remaining two arbitrators. If the arbitrators chosen by the parties shall fail to name the two arbitrators within fifteen daysafter their first meeting, the said two arbitrators, or as many of them as have not been named, shall be named by the Mediation Board.
 
 #### Third. Board of arbitration; organization; compensation; procedure
 
@@ -54,6 +54,8 @@ Any witness appearing before a board of arbitration shall receive the same fees 
 
 (May 20, 1926, ch. 347, §7, 44 Stat. 582; June 21, 1934, ch. 691, §7, 48 Stat. 1197; Pub. L. 91–452, title II, §238, Oct. 15, 1970, 84 Stat. 930.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In par. Third (f), "subtitle IV of title 49" substituted for "the Interstate Commerce Act, as amended \[49 U.S.C. 1 et seq.\]" on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
@@ -63,6 +65,8 @@ In par. Third (f), "subtitle IV of title 49" substituted for "the Interstate Com
 <b>1970</b>—Par. Third, (h). Pub. L. 91–452 struck out provisions authorizing board to invoke aid of the United States courts to compel witnesses to attend and testify and to produce such books, papers, contracts, agreements, and documents to same extent and under same conditions and penalties as provided for in the Interstate Commerce Act.
 
 <b>1934</b>—Act June 21, 1934, substituted "Mediation Board" for "Board of Mediation" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 
@@ -104,7 +108,7 @@ Sec. 6. \[Collective bargaining for issues not arbitrated\]. The parties to the 
 
 Sec. 7. \[Considerations affecting award; enforcement.\]
 
-"(a) In making any award under this joint resolution the arbitration board established under section 2 shall give due consideration to the effect of the proposed award upon adequate and safe transportation service to the public and upon the interests of the carrier and employees affected, giving due consideration to the narrowing of the areas of disagreement which has been accomplished in bargaining and mediation.
+"(a) In making any award under this joint resolution the arbitration board established under section 2 shallgive due consideration to the effect of the proposed award upon adequate and safe transportation service to the public and upon the interests of the carrier and employees affected, giving due consideration to the narrowing of the areas of disagreement which has been accomplished in bargaining and mediation.
 
 "(b) The obligations imposed by this joint resolution, upon suit by the Attorney General, shall be enforcible through such orders as may be necessary by any court of the United States having jurisdiction of any of the parties.
 

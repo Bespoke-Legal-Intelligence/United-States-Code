@@ -4,7 +4,7 @@
 
 From the funds reserved under section 6671(2) of this title for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities to enable such entities to improve the recruitment, preparation, placement, support, and retention of effective principals or other school leaders in high-need schools, which may include—
 
-&emsp;(1) developing or implementing leadership training programs designed to prepare and support principals or other school leaders in high-need schools, including through new or alternative pathways or school leader residency programs;
+&emsp;(1) developing or implementing leadership training programs designed to prepare andsupport principals or other school leaders in high-need schools, including through new or alternative pathways or school leader residency programs;
 
 &emsp;(2) developing or implementing programs or activities for recruiting, selecting, and developing aspiring or current principals or other school leaders to serve in high-need schools;
 
@@ -98,7 +98,7 @@ In this section:
 
 A prior section 6673, Pub. L. 89–10, title II, §2303, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1649, related to recruitment and selection of Troops-to-Teachers Program participants, prior to repeal by Pub. L. 112–239, div. A, title V, §541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
 
-Another prior section 6673, Pub. L. 89–10, title II, §2303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3634, related to grants for the implementation of professional development programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6673, Pub. L. 89–10, title II, §2303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994,108 Stat. 3634, related to grants for the implementation of professional development programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Effective Date
 

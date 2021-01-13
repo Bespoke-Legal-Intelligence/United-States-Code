@@ -50,11 +50,27 @@
 
 > to pay $15 to trustees serving in cases after such trustees' services are rendered. Beginning 1 year after the date of the enactment of the Bankruptcy Reform Act of 1994, such $15 shall be paid in addition to the amount paid under paragraph (1).
 
-(c) Unless the court orders otherwise, in a case under chapter 12 or 13 of this title the compensation paid to the trustee serving in the case shallnot be less than $5 per month from any distribution under the plan during the administration of the plan.
+(c) Unless the court orders otherwise, in a case under chapter 12 or 13 of this title the compensation paid to the trustee serving in the case shall not be less than $5 per month from any distribution under the plan during the administration of the plan.
 
 (d) In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by section 589a of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192.)
+(e)(1) There is established a fund in the Treasury of the United States, to be known as the "Chapter 7 Trustee Fund", which shall be administered by the Director of the Administrative Office of the United States Courts.
+
+(2) Deposits into the Chapter 7 Trustee Fund under section 589a(f)(1)(C) of title 28 shall be available until expended for the purposes described in paragraph (3).
+
+(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a "chapter 7 case") the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services in that fiscal year.
+
+(4) The amount described in this paragraph shall be the lesser of—
+
+&emsp;(A) $60; or
+
+&emsp;(B) a pro rata share, for each chapter 7 case, of the fees collected under section 1930(a)(6) of title 28 and deposited to the United States Trustee System Fund under section 589a(f)(1) of title 28, less the amounts specified in section 589a(f)(1)(A) and (B) of title 28.
+
+(5) The payment received by a trustee under paragraph (3) shall be paid in addition to the amount paid under subsection (b).
+
+(6) Not later than September 30, 2021, the Director of the Administrative Office of the United States Courts shall promulgate regulations for the administration of this subsection.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192; Pub. L. 116–325, §3(c), Jan. 12, 2021, 134 Stat. 5087.)
 
 #### Historical and Revision Notes
 
@@ -84,7 +100,7 @@ The last sentence of subsection (a) provides that in the case of a public compan
 
 Subsection (b) reenacts section 249 of Chapter X of the Bankruptcy Act (\[former\] 11 U.S.C. 649). It is a codification of equitable principles designed to prevent fiduciaries in the case from engaging in the specified transactions since they are in a position to gain inside information or to shape or influence the course of the reorganization. <i>Wolf v. Weinstein</i>, 372 U.S. 633 (1963). The statutory bar of compensation and reimbursement is based on the principle that such transactions involve conflicts of interest. Private gain undoubtedly prompts the purchase or sale of claims or stock interests, while the fiduciary's obligation is to render loyal and disinterested service which his position of trust has imposed upon him. Subsection (b) extends to a trustee, his attorney, committees and their attorneys, or any other persons "acting in the case in a representative or fiduciary capacity." It bars compensation to any of the foregoing, who after assuming to act in such capacity has purchased or sold, directly or indirectly, claims against, or stock in the debtor. The bar is absolute. It makes no difference whether the transaction brought a gain or loss, or neither, and the court is not authorized to approve a purchase or sale, before or after the transaction. The exception is for an acquisition or transfer "otherwise" than by a voluntary purchase or sale, such as an acquisition by bequest. See <i>Otis \& Co. v. Insurance Bldg. Corp</i>., 110 F.2d 333, 335 (C.A.1, 1940).
 
-Subsection (c) \[enacted as (b)\] is intended for no asset liquidation cases where minimal compensation fortrustees is needed. The sum of $20 will be allowed in each case, which is double the amount provided under current law.
+Subsection (c) \[enacted as (b)\] is intended for no asset liquidation cases where minimal compensation for trustees is needed. The sum of $20 will be allowed in each case, which is double the amount provided under current law.
 
 #### house report no. 95–595
 
@@ -92,11 +108,15 @@ Section 330 authorizes compensation for services and reimbursement of expenses o
 
 This subsection provides for reimbursement of actual, necessary expenses. It further provides for compensation of paraprofessionals employed by professional persons employed by the estate of the debtor. The provision is included to reduce the cost of administering bankruptcy cases. In nonbankruptcy areas, attorneys are able to charge for a paraprofessional's time on an hourly basis, and not include it in overhead. If a similar practice does not pertain in bankruptcy cases then the attorney will be less inclined to use paraprofessionals even where the work involved could easily be handled by an attorney's assistant, at much lower cost to the estate. This provision is designed to encourage attorneys to use paraprofessional assistance where possible, and to insure that the estate, not the attorney, will bear the cost, to the benefit of both the estate and the attorneys involved.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 103–394, which was approved Oct. 22, 1994.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 116–325 added subsec. (e).
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1104(b)(1), inserted "an ombudsman appointed under section 333, or" before "a professional person" in introductory provisions.
 
@@ -131,6 +151,38 @@ Subsec. (a)(1). Pub. L. 98–353, §433(2), substituted "nature, the extent, and
 Subsec. (b). Pub. L. 98–353, §434(a), substituted "$45" for "$20".
 
 Subsec. (c). Pub. L. 98–353, §434(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–325, §3(e), Jan. 12, 2021, 134 Stat. 5088, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 589a and 1930 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date of enactment of this Act \[Jan. 12, 2021\].
+
+"(2)
+
+Exceptions.—
+
+&emsp;"(A)
+
+Compensation of officers.—The amendments made by subsection (c) \[amending this section\] shall apply to any case filed on or after the date of enactment of this Act—
+
+&emsp;&emsp;"(i) under chapter 7 of title 11, United States Code; or
+
+&emsp;&emsp;"(ii)(I) under chapter 11, 12, or 13 of that title; and
+
+&emsp;&emsp;"(II) converted to a chapter 7 case under that title.
+
+&emsp;"(B)
+
+Bankruptcy fees.—The amendments made by subsection (d) \[amending section 1930 of Title 28\] shall apply to—
+
+&emsp;&emsp;"(i) any case pending under chapter 11 of title 11, United States Code, on or after the date of enactment of this Act; and
+
+&emsp;&emsp;"(ii) quarterly fees payable under section 1930(a)(6) of title 28, United States Code, as amended by subsection (d), for disbursements made in any calendar quarter that begins on or after the date of enactment of this Act."
 
 #### Effective Date of 2005 Amendment
 

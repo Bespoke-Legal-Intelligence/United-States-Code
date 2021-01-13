@@ -4,7 +4,7 @@
 
 #### (1) Allocation to the Secretary of State
 
-&emsp;Funds made available under the categories of assistance deemed allocated to the Director of the International Development Cooperation Agency under section 1–801 of Executive Order No. 12163 (22 U.S.C. 2381 note) as of October 1, 1997, shall be allocated to the Secretary of State on and after the effective date of this subchapter without further action by the President.
+&emsp;Funds made available under the categories of assistance deemed allocated to the Director of the International Development CooperationAgency under section 1–801 of Executive Order No. 12163 (22 U.S.C. 2381 note) as of October 1, 1997, shall be allocated to the Secretary of State on and after the effective date of this subchapter without further action by the President.
 
 #### (2) Procedures for reallocations or transfers
 
@@ -19,6 +19,8 @@ There are transferred to the Administrator of the Agency for International Devel
 The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIV, §1412, Oct. 21, 1998, 112 Stat. 2681–790.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

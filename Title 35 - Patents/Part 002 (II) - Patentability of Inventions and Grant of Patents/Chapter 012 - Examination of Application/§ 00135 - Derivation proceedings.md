@@ -50,6 +50,8 @@ The first paragraph states the existing corresponding statute with a few changes
 
 The second paragraph is based on Title 35, U.S.C., 1946 ed., §51, (R.S. 4903, amended Aug. 5, 1939, ch. 452, §1, 53 Stat. 1213). Changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–274, §1(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner's application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application's claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable."
@@ -68,13 +70,15 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(11)\], designate
 
 Subsecs. (c), (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting ", an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant andpatentee, as the case may be" for "he shall give notice thereof to the applicants, or applicant and patentee, as the case may be" and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
+<b>1984</b>—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting ", an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be" for "he shall give notice thereof to the applicants, or applicant and patentee, as the case may be" and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
 Subsec. (d). Pub. L. 98–622, §105, added subsec. (d).
 
 <b>1975</b>—Subsecs. (a), (c). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" wherever appearing.
 
 <b>1962</b>—Pub. L. 87–831 designated first and second pars. as subsecs. (a) and (b) and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

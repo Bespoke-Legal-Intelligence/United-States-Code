@@ -8,9 +8,9 @@ The purpose of this subchapter is to assist States, State and local courts (incl
 
 Grants under this subchapter shall provide personnel, training, technical assistance, data collection and other resources for the more widespread apprehension, prosecution, and adjudication of persons committing violent crimes against women, for the protection and safety of victims, and specifically, for the purposes of—
 
-&emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8;
+&emsp;(1) training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence,sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8;
 
-&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specificallytargeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims;
 
@@ -48,7 +48,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;(C) the development of such protocols in collaboration with State, tribal, territorial and local victim service providers and domestic violence coalitions.
 
-> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph (13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department ofJustice, including a summary of progress in implementing such protocol;
+> &emsp;Any law enforcement, State, tribal, territorial, or local government agency receiving funding under the Crystal Judson Domestic Violence Protocol Program under paragraph\(13) shall on an annual basis, receive additional training on the topic of incidents of domestic violence committed by law enforcement personnel from domestic violence and sexual assault nonprofit organizations and, after a period of 2 years, provide a report of the adopted protocol to the Department of Justice, including a summary of progress in implementing such protocol;
 
 &emsp;(14) developing and promoting State, local, or tribal legislation and policies that enhance best practices for responding to domestic violence, dating violence, sexual assault, and stalking;
 
@@ -124,9 +124,11 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 #### (5) Multiple purpose applications
 
-&emsp;Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
+&emsp;Nothing in this subsection prohibits any tribal coalition or organization described inparagraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c),title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -206,7 +208,7 @@ Subsec. (b)(2). Pub. L. 106–386, §1102(a)(1)(B)(ii), inserted ", judges, oth
 
 Subsec. (b)(3). Pub. L. 106–386, §1102(a)(1)(B)(iii), inserted ", court," after "police".
 
-Subsec. (b)(5). Pub. L. 106–386, §§1103(b)(1)(A)(i), 1109(b)(2), substituted "including sexual assault, domestic violence, and dating violence" for "including sexual assault and domestic violence" and "underserved populations" for "racial, cultural, ethnic, and language minorities".
+Subsec. (b)(5). Pub. L. 106–386, §§1103(b)(1)(A)(i), 1109(b)(2), substituted "including sexual assault, domestic violence, and dating violence" for "including sexualassault and domestic violence" and "underserved populations" for "racial, cultural, ethnic, and language minorities".
 
 Subsec. (b)(8), (9). Pub. L. 106–386, §1103(b)(1)(A)(ii)–(iv), added pars. (8) and (9).
 
@@ -215,6 +217,8 @@ Subsec. (b)(10). Pub. L. 106–386, §1209(c), added par. (10).
 Subsec. (b)(11). Pub. L. 106–386, §1512(a), added par. (11).
 
 Subsec. (c). Pub. L. 106–386, §1103(b)(1)(B), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

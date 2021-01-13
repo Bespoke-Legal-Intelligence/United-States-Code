@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Aug. 30, 1950, ch. 823, §11, 64 Stat. 566.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–7 substituted "FFA" for "corporation".

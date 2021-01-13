@@ -14,3 +14,4 @@
 - [&sect; 02617 - Enforcement](%C2%A7%2002617%20-%20Enforcement.md)
 - [&sect; 02618 - Special rules concerning employees of local educational agencies](%C2%A7%2002618%20-%20Special%20rules%20concerning%20employees%20of%20local%20educational%20agencies.md)
 - [&sect; 02619 - Notice](%C2%A7%2002619%20-%20Notice.md)
+- [&sect; 02620 - Public health emergency leave](%C2%A7%2002620%20-%20Public%20health%20emergency%20leave.md)

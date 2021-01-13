@@ -28,7 +28,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge orsupervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
@@ -256,7 +256,7 @@ In this section, the following definitions shall apply:
 
 #### (i) Mental health courts and diversion/alternative prosecution and sentencing programs
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meetprogram requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
 
 #### (ii) Training
 
@@ -336,7 +336,7 @@ The Attorney General, in consultation with the Secretary, in administering grant
 
 &emsp;(2) offer specialized training to personnel of criminal and juvenile justice agencies in appropriate diversion techniques;
 
-&emsp;(3) provide technical assistance to local governments, mental health courts, and diversion programs, including technical assistance relating to program evaluation;
+&emsp;(3) provide technical assistance to local governments, mental health courts, and diversionprograms, including technical assistance relating to program evaluation;
 
 &emsp;(4) help localities build public understanding and support for community reintegration of individuals with mental illness;
 
@@ -402,7 +402,7 @@ The Attorney General shall use not less than 8 percent of funds appropriated to 
 
 #### (4) Priority consideration
 
-&emsp;The Attorney General, in awarding grants under this subsection, shall give priority toprograms that law enforcement personnel and members of the mental health and substance abuse professions develop and administer cooperatively.
+&emsp;The Attorney General, in awarding grants under this subsection, shall give priority to programs that law enforcement personnel and members of the mental health and substance abuse professions develop and administer cooperatively.
 
 #### (i) Assisting veterans
 
@@ -592,7 +592,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (B) Audits
 
-&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscalyear thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Mandatory exclusion
 
@@ -688,6 +688,8 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 (Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, §502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, §612, Dec. 21, 2018, 132 Stat. 5247.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Mentally Ill Offender Treatment and Crime Reduction Act of 2004, referred to in subsec. (b)(4)(D), is Pub. L. 108–414, Oct. 30, 2004, 118 Stat. 2327, which enacted this subchapter and provisions set out as notes below. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
@@ -756,6 +758,8 @@ Pub. L. 110–416, §3(a), substituted "for each of the fiscal years 2006 and 20
 
 Subsec. (i). Pub. L. 110–416, §4(1), redesignated subsec. (h) as (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 110–416, §2, Oct. 14, 2008, 122 Stat. 4352, provided that: "Congress finds the following:
@@ -774,7 +778,7 @@ Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress 
 
 &emsp;"(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent of youth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
 
-&emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who suffer from a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
+&emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who sufferfrom a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
 
 &emsp;"(4) According to the Office of Juvenile Justice and Delinquency Prevention, over 150,000 juveniles who come into contact with the juvenile justice system each year meet the diagnostic criteria for at least 1 mental or emotional disorder.
 

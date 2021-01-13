@@ -32,7 +32,7 @@ Not later than 1 year after March 23, 2010, the Secretary, acting through the Se
 
 The memoranda of agreement updated or entered into pursuant to subsection (a) shall include specific provisions pursuant to which the Service shall assume responsibility for—
 
-&emsp;(1) the determination of the scope of the problem of alcohol and substance abuse among Indians, including the number of Indians within the jurisdiction of the Service who are directly or indirectly affected by alcohol andsubstance abuse and the financial and human cost;
+&emsp;(1) the determination of the scope of the problem of alcohol and substance abuse among Indians, including the number of Indians within the jurisdiction of the Service who are directly or indirectly affected by alcohol and substance abuse and the financial and human cost;
 
 &emsp;(2) an assessment of the existing and needed resources necessary for the prevention of alcohol and substance abuse and the treatment of Indians affected by alcohol and substance abuse; and
 
@@ -44,9 +44,11 @@ Each memorandum of agreement entered into or renewed (and amendments or modifica
 
 (Pub. L. 94–437, title VII, §703, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec.\(a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(6)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 

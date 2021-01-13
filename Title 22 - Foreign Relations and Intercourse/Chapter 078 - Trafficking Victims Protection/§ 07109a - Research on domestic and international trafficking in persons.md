@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified inthe findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
+The President, acting through the Council of Economic Advisors, the National Research Council of the National Academies, the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, the Secretary of State, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall carry out research, including by providing grants to nongovernmental organizations, as well as relevant United States Government agencies and international organizations, which furthers the purposes of this chapter and provides data to address the problems identified in the findings of this chapter. Such research initiatives shall, to the maximum extent practicable, include, but not be limited to, the following:
 
 &emsp;(1) The economic causes and consequences of trafficking in persons.
 
@@ -62,6 +62,8 @@ In this section:
 
 (Pub. L. 106–386, div. A, §112A, as added Pub. L. 108–193, §6(g)(1), Dec. 19, 2003, 117 Stat. 2883; amended Pub. L. 109–164, title I, §104(c)(1), Jan. 10, 2006, 119 Stat. 3564; Pub. L. 110–457, title I, §108(a), Dec. 23, 2008, 122 Stat. 5050; Pub. L. 113–4, title XII, §1251(1), Mar. 7, 2013, 127 Stat. 155; Pub. L. 115–393, title III, §301(a)(1), Dec. 21, 2018, 132 Stat. 5271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this division" meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
@@ -77,6 +79,8 @@ This chapter, referred to in subsec. (a), was in the original "this division" me
 Subsec. (b). Pub. L. 110–457, §108(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "The research initiatives described in subsection (a)(4) of this section shall be carried out by the Human Smuggling and Trafficking Center (established pursuant to section 1777 of title 8)."
 
 <b>2006</b>—Pub. L. 109–164 designated existing provisions as subsec. (a), inserted subsec. heading, substituted "the Director of National Intelligence" for "the Director of Central Intelligence" in introductory provisions, inserted ", particularly HIV/AIDS" before period at end of par. (3), and added pars. (4) to (6) and subsecs. (b) and (c).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

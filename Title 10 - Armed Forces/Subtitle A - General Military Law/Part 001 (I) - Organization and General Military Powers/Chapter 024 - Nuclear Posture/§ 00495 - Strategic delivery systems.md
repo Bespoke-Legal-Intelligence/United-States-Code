@@ -16,7 +16,7 @@ Annual Certification.—The President shall annually certify in writing to the c
 
 (b)
 
-Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replacestrategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
 
 &emsp;(1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 

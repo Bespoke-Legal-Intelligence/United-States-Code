@@ -56,7 +56,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (C) Selection for second phase
 
-&emsp;&emsp;The contracting officer shall select the offerors that are to be eligible to participate in the second phase of the process. The contracting officer shall limit the number of theselected offerors to the number of sources that the contracting officer determines is appropriate and in the best interests of the Federal Government.
+&emsp;&emsp;The contracting officer shall select the offerors that are to be eligible to participate in the second phase of the process. The contracting officer shall limit the number of the selected offerors to the number of sources that the contracting officer determines is appropriate and in the best interests of the Federal Government.
 
 #### (3) Second phase
 
@@ -128,7 +128,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (A) Single-source basis
 
-&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
+&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive proceduresor procedures authorized under subparagraph (B).
 
 #### (B) Adequate competition
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (5) Special rules for commercial products and commercial services
 
-&emsp;The term "special rules for commercial products and commercial services" means theregulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
+&emsp;The term "special rules for commercial products and commercial services" means the regulations set forth in the Federal Acquisition Regulation pursuant to sections 1901 and 3305(a) of title 41.
 
 #### (6) Special simplified procedures
 

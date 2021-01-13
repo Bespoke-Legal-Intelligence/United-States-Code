@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(7) The term "little cigar" means any roll of tobacco wrapped in leaf tobacco or any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (1)) and as to which one thousand units weigh not more than three pounds.
 
-&emsp;(8) The term "brand style" means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used,size of the cigarette, filtration on the cigarette, or packaging.
+&emsp;(8) The term "brand style" means a variety of cigarettes distinguished by the tobacco used, tar and nicotine content, flavoring used, size of the cigarette, filtration on the cigarette, or packaging.
 
 &emsp;(9) The term "Secretary" means the Secretary of Health and Human Services.
 
@@ -42,5 +42,5 @@ Pub. L. 93–109, §4, Sept. 21, 1973, 87 Stat. 352, provided that: "The amendme
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
+Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub.L. 91–222, set out in part as a note under section 1331 of this title.
 

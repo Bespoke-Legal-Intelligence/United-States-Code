@@ -22,7 +22,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>15.</b>](Chapter%20015%20-%20Copyright%20Small%20Claims/README.md) | <b>Copyright Small Claims</b> | <b>1501</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. Q, title II, §212(c), Dec. 27, 2020, 134 Stat. 2199, added item relating to chapter 15.
 
 <b>2018</b>—Pub. L. 115–264, title II, §202(b), Oct. 11, 2018, 132 Stat. 3737, added item relating to chapter 14.
 
@@ -580,6 +590,8 @@ Rep.
 
 Title 17, as enacted by act July 30, 1947, ch. 391, 61 Stat. 652, consisting of sections 1 to 32, 101 to 116, and 201 to 216, as amended through 1976, and section 203, as amended by Pub. L. 95–94, title IV, §406(a), Aug. 5, 1977, 91 Stat. 682, terminated Jan. 1, 1978.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 94–553, title I, §102, Oct. 19, 1976, 90 Stat. 2598, provided that: "This Act \[enacting this title and section 170 of Title 2, The Congress, amending section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3203 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacting provisions set out as notes below and under sections 104, 115, 304, 401, 407, 410, and 501 of this title\] becomes effective on January 1, 1978, except as otherwise expressly provided by this Act, including provisions of the first section of this Act. The provisions of sections 118, 304(b), and chapter 8 of title 17, as amended by the first section of this Act, take effect upon enactment of this Act \[Oct. 19, 1976\]."
@@ -617,3 +629,4 @@ Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: "
 - [Chapter 012 - Copyright Protection and Management Systems](Chapter%20012%20-%20Copyright%20Protection%20and%20Management%20Systems/README.md)
 - [Chapter 013 - Protection of Original Designs](Chapter%20013%20-%20Protection%20of%20Original%20Designs/README.md)
 - [Chapter 014 - Unauthorized Use of Pre-1972 Sound Recordings](Chapter%20014%20-%20Unauthorized%20Use%20of%20Pre-1972%20Sound%20Recordings/README.md)
+- [Chapter 015 - Copyright Small Claims](Chapter%20015%20-%20Copyright%20Small%20Claims/README.md)

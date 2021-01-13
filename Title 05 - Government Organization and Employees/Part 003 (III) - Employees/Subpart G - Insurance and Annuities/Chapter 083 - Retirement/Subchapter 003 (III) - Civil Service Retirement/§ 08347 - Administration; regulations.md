@@ -6,7 +6,7 @@
 
 (c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
 
-(d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual or of the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
+(d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual orof the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8337(a) of this title, the procedures under section 7701 of this title shall apply and the decision of the Board shall be subject to judicial review under section 7703 of this title.
 
@@ -138,6 +138,8 @@ Act
 
 Sept. 26, 1966, Pub. L. 89–604, §1(c), 80 Stat. 847.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201(c) of the Central Intelligence Agency Retirement Act, referred to in subsec. (n)(4)(A), is classified to section 2011(c) of Title 50, War and National Defense.
@@ -150,7 +152,7 @@ Subsec. (q)(2)(B). Pub. L. 107–107, §1131(a)(2), struck out "vested" before "
 
 <b>1996</b>—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out "of the Department of Defense or the Coast Guard" after "an employee" in introductory provisions and substituted "1 year" for "3 days" in subpar. (C).
 
-Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted "1 year" for "3 days" and struck out "in the Department of Defense or the Coast Guard, respectively," after "to a position".
+Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted "1 year" for "3 days" and struck out "in theDepartment of Defense or the Coast Guard, respectively," after "to a position".
 
 <b>1994</b>—Subsec. (m)(3). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
@@ -196,6 +198,8 @@ Subsec. (h). Pub. L. 95–454, §906(a)(3), substituted "Office" for "Commission
 
 <b>1968</b>—Subsec. (h). Pub. L. 90–623 substituted "Commissioner" for "Commissioners".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
@@ -216,7 +220,7 @@ Amendment by section 2(64) of Pub. L. 102–378 effective Nov. 5, 1990, see sect
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is notdescribed in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -294,7 +298,7 @@ In general.—If an individual makes an election under this paragraph to be tran
 
 &emsp;&emsp;&emsp;"(ii)
 
-Condition subsequent relating to repayment of lump-sum credit.—In the case of an individual who has received such individual's lump-sum credit (within the meaning of section 8401(19) of title 5, United States Code, or a similar payment) from such individual's previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3)of title 5, United States Code), if no provisions for such computation otherwise exist.
+Condition subsequent relating to repayment of lump-sum credit.—In the case of an individual who has received such individual's lump-sum credit (within the meaning of section 8401(19) of title 5, United States Code, or a similar payment) from such individual's previous system, the payment described in clause (i) shall not be made (and the election to which it relates shall be ineffective) unless such lump-sum credit is redeposited or otherwise paid at such time and in such manner as shall be required under applicable regulations. Regulations to carry out this clause shall include provisions for the computation of interest (consistent with section 8334(e)(2) and (3) of title 5, United States Code), if no provisions for such computation otherwise exist.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -326,7 +330,7 @@ Election.—An individual described in clause (i) may, instead of making an elec
 
 &emsp;&emsp;&emsp;"(iii)
 
-Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifying NAFI service' means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in section 2105(c) of title 5, United States Code.
+Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifying NAFIservice' means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in section 2105(c) of title 5, United States Code.
 
 &emsp;&emsp;&emsp;"(iv)
 

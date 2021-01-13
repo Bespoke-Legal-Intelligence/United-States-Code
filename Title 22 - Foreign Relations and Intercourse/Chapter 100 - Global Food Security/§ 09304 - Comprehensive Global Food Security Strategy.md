@@ -32,7 +32,7 @@ The President shall coordinate the development and implementation of a United St
 
 &emsp;(14) strengthen and expand collaboration between United States universities, including public, private, and land-grant universities, with higher education institutions in target countries to increase their effectiveness and relevance to promote agricultural development and innovation through the creation of human capital, innovation, and cutting edge science in the agricultural sector;
 
-&emsp;(15) seek to ensure that target countries and communities respect and promote land tenure rights of local communities, particularly those of women and small-scale producers;
+&emsp;(15) seek to ensure that target countries and communities respect and promote land tenurerights of local communities, particularly those of women and small-scale producers;
 
 &emsp;(16) include criteria and methodologies for graduating target countries and communities from assistance provided to implement the Global Food Security Strategy as such countries and communities meet the progress benchmarks identified pursuant to section 9307(b)(4) of this title; and
 
@@ -56,13 +56,15 @@ The President shall coordinate, through a whole-of-government approach, the effo
 
 #### (2) Agency-specific plans
 
-&emsp;The Global Food Security Strategy shall include specific implementation plans from eachrelevant Federal department and agency that describes—
+&emsp;The Global Food Security Strategy shall include specific implementation plans from each relevant Federal department and agency that describes—
 
 &emsp;&emsp;(A) the anticipated contributions of the department or agency, including technical, financial, and in-kind contributions, to implement the Global Food Security Strategy; and
 
 &emsp;&emsp;(B) the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
 
 (Pub. L. 114–195, §5, July 20, 2016, 130 Stat. 678.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Pursuant to Sections 5, 6(a) and 6(c), and 8(a) of the Global Food Security Act of 2016
 

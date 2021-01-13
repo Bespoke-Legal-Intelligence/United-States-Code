@@ -52,6 +52,8 @@ In subsection (d), the word "officer" is omitted as included in "employee", "age
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level V of the Executive Schedule, referred to in subsec. (f), is set out in section 5316 of this title.
@@ -66,11 +68,13 @@ Level V of the Executive Schedule, referred to in subsec. (f), is set out in sec
 
 <b>1975</b>—Subsec. (c). Pub. L. 94–183 struck out "and section 3552 of title 39" after "of section 5335(a) of this title".
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field service subject to higher minimum rates established by the President.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field servicesubject to higher minimum rates established by the President.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–206, §207(a), substituted "maximum pay rate" for "seventh pay rate".
 
 Subsec. (d). Pub. L. 90–206, §207(b), inserted provisions that permitted an initial adjustment to be made to statutory increases which become effective prior to, on, or after the date of enactment of the statute.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -92,10 +96,6 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.
 
-#### Delegation of Functions
-
-For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, §1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
-
 #### Pay Raises for Programs Funded by Energy and Water Development Appropriations Acts To Be Absorbed Within Such Acts
 
 Pub. L. 102–377, title V, §506, Oct. 2, 1992, 106 Stat. 1343, provided that: "Such sums as may be necessary for Federal employee pay raises for programs funded by this Act or subsequent Energy and Water Development Appropriations Acts hereafter shall be absorbed within the levels appropriated in such Acts."
@@ -106,7 +106,7 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 #### Federal Employee Pay Adjustments
 
-<b>2019</b>—Pub. L. 116–93, div. C, title VII, §748, Dec. 20, 2019, 133 Stat. 2496, provided that:
+FY 2020—Pub. L. 116–93, div. C, title VII, §748, Dec. 20, 2019, 133 Stat. 2496, provided that:
 
 "(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2020 under section 5303 of title 5, United States Code, shall be an increase of 2.6 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2020.
 
@@ -114,7 +114,7 @@ Pub. L. 101–509, title V, §529 \[title I, §101(e)\], Nov. 5, 1990, 104 Stat.
 
 "(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2020."
 
-Pub. L. 116–6, div. D, title VII, §748, Feb. 15, 2019, 133 Stat. 199, provided that:
+FY 2019—Pub. L. 116–6, div. D, title VII, §748, Feb. 15, 2019, 133 Stat. 199, provided that:
 
 "(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2019 under section 5303 of title 5, United States Code, shall be an increase of 1.4 percent, and the overall average percentage of the adjustments taking effect in such fiscal year under sections 5304 and 5304a of such title 5 shall be an increase of 0.5 percent (with comparability payments to be determined and allocated among pay localities by the President). All adjustments under this subsection shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2019.
 
@@ -122,7 +122,41 @@ Pub. L. 116–6, div. D, title VII, §748, Feb. 15, 2019, 133 Stat. 199, provide
 
 "(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2019."
 
-<b>2019</b>—Pub. L. 116–93, div. C, title VII, §749, Dec. 20, 2019, 133 Stat. 2497, provided that:
+<b>2021</b>—Pub. L. 116–260, div. E, title VII, §748, Dec. 27, 2020, 134 Stat. 1442, provided that:
+
+"(a) Notwithstanding any official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2021 shall be the rate payable to the Vice President on December 31, 2020, by operation of section 749 of division C of Public Law 116–93.
+
+"(b) Notwithstanding any official rate adjusted under section 5318 of title 5, United States Code, or any other provision of law, the payable rate during calendar year 2021 for an employee serving in an Executive Schedule position, or in a position for which the rate of pay is fixed by statute at an Executive Schedule rate, shall be the rate payable for the applicable Executive Schedule level on December 31, 2020, by operation of section 749 of division C of Public Law 116–93. Such an employee may not receive a rate increase during calendar year 2021, except as provided in subsection (i).
+
+"(c) Notwithstanding section 401 of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3961\] or any other provision of law, a chief of mission or ambassador at large is subject to subsection (b) in the same manner as other employees who are paid at an Executive Schedule rate.
+
+"(d)(1) This subsection applies to—
+
+&emsp;"(A) a noncareer appointee in the Senior Executive Service paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule; or
+
+&emsp;"(B) a limited term appointee or limited emergency appointee in the Senior Executive Service serving under a political appointment and paid a rate of basic pay at or above the official rate for level IV of the Executive Schedule.
+
+"(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) may not receive a pay rate increase during calendar year 2021, except as provided in subsection (i).
+
+"(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality- based payments under section 5304 of title 5, United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment may not receive a pay rate increase during calendar year 2021, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+
+"(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
+
+"(g) This section does not apply to an individual who makes an election to retain Senior Executive Service basic pay under section 3392(c) of title 5, United States Code, for such time as that election is in effect.
+
+"(h) This section does not apply to an individual who makes an election to retain Senior Foreign Service pay entitlements under section 302(b) of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 3942(b)\] for such time as that election is in effect.
+
+"(i) Notwithstanding subsections (b) through (e), an employee in a covered position may receive a pay rate increase upon an authorized movement to a different covered position only if that new position has higher-level duties and a pre-established level or range of pay higher than the level or range for the position held immediately before the movement. Any such increase must be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2020, by operation of section 749 of division C of Public Law 116–93.
+
+"(j) Notwithstanding any other provision of law, for an individual who is newly appointed to a covered position during the period of time subject to this section, the initial pay rate shall be based on the rates of pay and applicable limitations on payable rates of pay in effect on December 31, 2020, by operation of section 749 of division C of Public Law 116–93.
+
+"(k) If an employee affected by this section is subject to a biweekly pay period that begins in calendar year 2021 but ends in calendar year 2022, the bar on the employee's receipt of pay rate increases shall apply through the end of that pay period.
+
+"(l) For the purpose of this section, the term 'covered position' means a position occupied by an employee whose pay is restricted under this section.
+
+"(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2021."
+
+<b>2020</b>—Pub. L. 116–93, div. C, title VII, §749, Dec. 20, 2019, 133 Stat. 2497, provided that:
 
 "(a) Notwithstanding the official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2020 shall be the rate payable to the Vice President on December 31, 2019, by operation of section 749 of division D of Public Law 116–6 \[set out as a note below\].
 
@@ -156,7 +190,7 @@ Pub. L. 116–6, div. D, title VII, §748, Feb. 15, 2019, 133 Stat. 199, provide
 
 "(m) This section takes effect on the first day of the first applicable pay period beginning on or after January 1, 2020."
 
-Pub. L. 116–6, div. D, title VII, §749, Feb. 15, 2019, 133 Stat. 199, provided that:
+<b>2019</b>—Pub. L. 116–6, div. D, title VII, §749, Feb. 15, 2019, 133 Stat. 199, provided that:
 
 "(a) Notwithstanding the official rate adjusted under section 104 of title 3, United States Code, the rate payable to the Vice President during calendar year 2019 shall be 1.9 percent above the rate payable to the Vice President on December 31, 2018, as limited under section 738 of division E of the Consolidated Appropriations Act, 2018 (Public Law 115–141) \[set out as a note below\].
 
@@ -292,7 +326,7 @@ Similar provisions were contained in the following prior acts:
 
 "(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2008 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Homeland Security and shall apply to civilian employees in the Department of Defense who are represented by a labor organization as defined in 5 U.S.C. 7103(a)(4), and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2008. Civilian employees in the Department of Defense who are eligible to be represented by a labor organization as defined in 5 U.S.C. 7103(a)(4), but are not so represented, will receive the adjustment provided for in this section unless the positions are entitled to a pay adjustment under 5 U.S.C. 9902.
 
-"(b) Notwithstanding section 712 of this Act \[div. D of Pub. L. 110–161, 5 U.S.C. 5343 note\], the adjustment inrates of basic pay for the statutory pay systems that take place in fiscal year 2008 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as 'Rest of US' pursuant to section 5304 of title 5 for purposes of this paragraph.
+"(b) Notwithstanding section 712 of this Act \[div. D of Pub. L. 110–161, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2008 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as 'Rest of US' pursuant to section 5304 of title 5 for purposes of this paragraph.
 
 "(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2008."
 
@@ -318,7 +352,7 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 "(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as 'Rest of US' pursuant to section 5304 of title 5 for purposes of this paragraph.
 
-"(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004."
+"(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicabledepartment or agency for salaries and expenses for fiscal year 2004."
 
 <b>2003</b>—Pub. L. 108–7, div. J, title VI, §637, Feb. 20, 2003, 117 Stat. 472, provided that:
 
@@ -474,7 +508,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;"(C) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
 
-"(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, as of September 30, 1989, increased by 3.6 percent."
+"(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under section 5314 oftitle 5, United States Code, as of September 30, 1989, increased by 3.6 percent."
 
 <b>1988</b>—Pub. L. 100–440, title VI, §620, Sept. 22, 1988, 102 Stat. 1756, provided that:
 
@@ -544,7 +578,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 "(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
-"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection\(b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
 
 "(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
 
@@ -621,4 +655,10 @@ whichever is greater; and
 &emsp;"(v) the Secretary of Agriculture, with respect to persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b) ).
 
 > Such adjustments shall be made in such manner as the appropriate authority concerned deems advisable and shall have the force and effect of statute. Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action." \[Section 212 of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For designation of agencies to perform functions of President under subsec. (g) of this section, see Ex. Ord. No. 12748, §1, Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
 

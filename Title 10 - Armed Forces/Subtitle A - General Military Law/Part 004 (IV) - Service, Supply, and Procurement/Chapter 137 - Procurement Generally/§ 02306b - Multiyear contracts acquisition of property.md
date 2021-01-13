@@ -160,9 +160,9 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;&emsp;(ii) the agency procurement total.
 
-&emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that such amount represents of the procurement accounts of the Department of Defense treated in the aggregate.
+&emsp;(D) The amount of total obligational authority under all Department of Defense multiyear procurements (determined without regard to the amount of the multiyear contract (or contract extension)), including any multiyear contract (or contract extension) that has been authorized by the Congress but not yet entered into, and the percentage that suchamount represents of the procurement accounts of the Department of Defense treated in the aggregate.
 
-(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressionaldefense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
+(5) The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract), the value of which would exceed $500,000,000 (when entered into or when extended, as the case may be), until the Secretary of Defense submits to the congressional defense committees a report containing the information described in paragraph (4) with respect to the contract (or contract extension).
 
 (6) The head of an agency may not terminate a multiyear procurement contract until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
@@ -180,7 +180,51 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548; Pub. L. 116–283, div. A, title XVIII, §1822(b)(1), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i)(1), (j)(1)(A)(i), (iii), (iv), (B), (C), (k), (l), Jan. 1, 2021, 134 Stat. 4197–4199, 4201, 4202.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1822(b)(1), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i)(1), (j)(1)(A)(i), (iii), (iv), (B), (C), (k), (l), Jan. 1, 2021, 134 Stat. 4151, 4197–4199, 4201, 4202, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3501(a) of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3502 of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3503(a) of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3504 of this title;</i>
+
+<i>(5) by transferring subsection (e) to section 3505 of this title;</i>
+
+<i>(6) by transferring subsections (f) and (g) to section 3503(b) and (c), respectively, of this title;</i>
+
+<i>(7) by transferring subsection (h) to section 3506 of this title;</i>
+
+<i>(8) by transferring subsection (i) to section 3507 of this title;</i>
+
+<i>(9) by transferring subsection (j) to section 3510(a) of this title;</i>
+
+<i>(10) by transferring subsection (k) to section 3501(b) of this title;</i>
+
+<i>(11) by transferring subsection (l) as follows:</i>
+
+<i>(A) paragraphs (1), (6), and (8) to section 3508(a), (b), and (c), respectively, of this title;</i>
+
+<i>(B) paragraphs (2) and (7) to section 3510(b) and (c), respectively, of this title;</i>
+
+<i>(C) paragraph (3) to section 3509(a) of this title;</i>
+
+<i>(D) paragraphs (4) and (9) to section 3509(b)(2) and (3), respectively, of this title; and</i>
+
+<i>(E) paragraph (5) to section 3509(b)(1) of this title; and</i>
+
+<i>(12) by transferring subsection (m) to section 3511 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### References in Text
 
@@ -189,6 +233,46 @@ Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of
 Section 2334(e)(2) of this title, referred to in subsec. (i)(3)(B), was redesignated as section 2334(f)(2) of this title by Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1822(b)(1), redesignated subsec. (a) as section 3501(a) of this title.
+
+Subsec. (b). Pub. L. 116–283, §1822(d)(1), redesignated subsec. (b) as section 3502 of this title.
+
+Subsec. (c). Pub. L. 116–283, §1822(e)(1), redesignated subsec. (c) as section 3503(a) of this title.
+
+Subsec. (d). Pub. L. 116–283, §1822(f)(1), redesignated subsec. (d) as section 3504 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1822(g)(1), redesignated subsec. (e) as section 3505 of this title.
+
+Subsecs. (f), (g). Pub. L. 116–283, §1822(e)(1), redesignated subsecs. (f) and (g) as section 3503(b) and (c), respectively, of this title.
+
+Subsec. (h). Pub. L. 116–283, §1822(h)(1), redesignated subsec. (h) as section 3506 of this title.
+
+Subsec. (i). Pub. L. 116–283, §1822(i)(1), redesignated subsec. (i) as section 3507 of this title.
+
+Subsec. (j). Pub. L. 116–283, §1822(k), redesignated subsec. (j) as section 3510(a) of this title.
+
+Subsec. (k). Pub. L. 116–283, §1822(c)(1), redesignated subsec. (k) as section 3501(b) of this title.
+
+Subsec. (l)(1). Pub. L. 116–283, §1822(j)(1)(C), redesignated par. (1) as section 3508(a) of this title.
+
+Subsec. (l)(2). Pub. L. 116–283, §1822(j)(1)(B), redesignated par. (2) as section 3510(b) of this title.
+
+Subsec. (l)(3). Pub. L. 116–283, §1822(j)(1)(A)(i), redesignated par. (3) as section 3509(a) of this title.
+
+Subsec. (l)(4). Pub. L. 116–283, §1822(j)(1)(A)(iv), redesignated par. (4) as section 3509(b)(2) of this title.
+
+Subsec. (l)(5). Pub. L. 116–283, §1822(j)(1)(A)(iii), redesignated par. (5) as section 3509(b)(1) of this title.
+
+Subsec. (l)(6). Pub. L. 116–283, §1822(j)(1)(C), redesignated par. (6) as section 3508(b) of this title.
+
+Subsec. (l)(7). Pub. L. 116–283, §1822(j)(1)(B), redesignated par. (7) as section 3510(c) of this title.
+
+Subsec. (l)(8). Pub. L. 116–283, §1822(j)(1)(C), redesignated par. (8) as section 3508(c) of this title.
+
+Subsec. (l)(9). Pub. L. 116–283, §1822(j)(1)(A)(iv), redesignated par. (9) as section 3509(b)(3) of this title.
+
+Subsec. (m). Pub. L. 116–283, §1822(l), redesignated subsec. (m) as section 3511 of this title.
 
 <b>2019</b>—Subsec. (i)(7). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -266,6 +350,14 @@ Subsecs. (k), (l). Pub. L. 104–106, §5601(b), redesignated subsec. (l) as (k)
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies."
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–291, div. A, title VIII, §816(c), Dec. 19, 2014, 128 Stat. 3432, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], and shall apply with respect to requests for specific authorization by law to carry out defense acquisition programs using multiyear contract authority that are made on or after that date."
@@ -330,7 +422,7 @@ Sunset.—No new contracts may be awarded under the authority of this section af
 
 Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided that:
 
-"(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+"(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advanceprocurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
 "Funds appropriated in title III of this Act \[111 Stat. 1211\] may be used for multiyear procurement contracts as follows:
 
@@ -349,6 +441,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;"(3) the Secretary of Defense makes such request in writing to the congressional defense committees."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. C, title VIII, §8010, Dec. 27, 2020, 134 Stat. 1304.
 
 Pub. L. 116–93, div. A, title VIII, §8010, Dec. 20, 2019, 133 Stat. 2337.
 

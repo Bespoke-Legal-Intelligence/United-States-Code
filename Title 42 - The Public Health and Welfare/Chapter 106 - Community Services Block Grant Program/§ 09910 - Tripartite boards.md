@@ -22,7 +22,7 @@
 
 In order for a public organization to be considered to be an eligible entity for purposes of section 9902(1) of this title, the entity shall administer the community services block grant program through—
 
-&emsp;(1) a tripartite board, which shall have members selected by the organization and shall becomposed so as to assure that not fewer than 1/3 of the members are persons chosen in accordance with democratic selection procedures adequate to assure that these members—
+&emsp;(1) a tripartite board, which shall have members selected by the organization and shall be composed so as to assure that not fewer than 1/3 of the members are persons chosen in accordance with democratic selection procedures adequate to assure that these members—
 
 &emsp;&emsp;(A) are representative of low-income individuals and families in the neighborhood served;
 

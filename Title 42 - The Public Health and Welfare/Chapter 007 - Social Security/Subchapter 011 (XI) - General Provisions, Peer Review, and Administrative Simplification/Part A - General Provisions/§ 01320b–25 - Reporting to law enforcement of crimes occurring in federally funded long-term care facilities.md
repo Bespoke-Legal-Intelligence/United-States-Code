@@ -8,7 +8,7 @@
 
 #### (2) Notification
 
-&emsp;If the owner or operator determines under paragraph (1) that the facility received at least $10,000 in such Federal funds during the preceding year, such owner or operator shall annually notify each covered individual (as defined in paragraph (3)) of that individual's obligation to comply with the reporting requirements described in subsection (b).
+&emsp;If the owner or operator determines under paragraph (1) that the facility received atleast $10,000 in such Federal funds during the preceding year, such owner or operator shall annually notify each covered individual (as defined in paragraph (3)) of that individual's obligation to comply with the reporting requirements described in subsection (b).
 
 #### (3) Covered individual defined
 
@@ -88,7 +88,7 @@
 
 #### (e) Procedure
 
-The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty or exclusion under this section in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+The provisions of section 1320a–7a of this title (other than subsections (a) and (b) and the second sentence of subsection (f)) shall apply to a civil money penalty or exclusion under this section in the same manner as such provisionsapply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (f) Definitions
 

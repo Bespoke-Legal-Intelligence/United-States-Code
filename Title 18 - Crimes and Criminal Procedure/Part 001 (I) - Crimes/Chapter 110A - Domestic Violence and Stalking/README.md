@@ -9,6 +9,7 @@
 
 |  |  |
 | :--- | ---: |
+| [2261B.](%C2%A7%2002261B%20-%20Enhanced%20penalty%20for%20stalkers%20of%20children.md) | Enhanced penalty for stalkers of children. |
 | [2262\.](%C2%A7%2002262%20-%20Interstate%20violation%20of%20protection%20order.md) | Interstate violation of protection order. |
 | [2263\.](%C2%A7%2002263%20-%20Pretrial%20release%20of%20defendant.md) | Pretrial release of defendant. |
 | [2264\.](%C2%A7%2002264%20-%20Restitution.md) | Restitution. |
@@ -23,7 +24,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–249, §2(b), Dec. 22, 2020, 134 Stat. 1126, added item 2261B.
 
 <b>1996</b>—Pub. L. 104–294, title VI, §604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting "Sec." above section numbers.
 
@@ -40,6 +45,7 @@ Pub. L. 104–201, div. A, title X, §1069(b)(3), (c), Sept. 23, 1996, 110 Stat.
 
 - [&sect; 02261 - Interstate domestic violence](%C2%A7%2002261%20-%20Interstate%20domestic%20violence.md)
 - [&sect; 02261A - Stalking](%C2%A7%2002261A%20-%20Stalking.md)
+- [&sect; 02261B - Enhanced penalty for stalkers of children](%C2%A7%2002261B%20-%20Enhanced%20penalty%20for%20stalkers%20of%20children.md)
 - [&sect; 02262 - Interstate violation of protection order](%C2%A7%2002262%20-%20Interstate%20violation%20of%20protection%20order.md)
 - [&sect; 02263 - Pretrial release of defendant](%C2%A7%2002263%20-%20Pretrial%20release%20of%20defendant.md)
 - [&sect; 02264 - Restitution](%C2%A7%2002264%20-%20Restitution.md)

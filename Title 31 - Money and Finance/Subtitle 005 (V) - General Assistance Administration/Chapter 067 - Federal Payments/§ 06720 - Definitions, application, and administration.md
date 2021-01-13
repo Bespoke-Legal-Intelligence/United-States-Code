@@ -50,6 +50,8 @@ Boundary and Other Changes.—If a boundary line change, a State statutory or co
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1880.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 6720 to 6724 were repealed by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.

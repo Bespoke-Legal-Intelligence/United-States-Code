@@ -201,7 +201,7 @@
 
 #### (B) Notice to Congress
 
-&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerceand the Committee on Appropriations of the House of Representatives.
 
 #### (d) Small businesses; fee waiver and fee reduction regarding premarket approval fees
 
@@ -361,6 +361,8 @@ This section may not be construed to require that the number of full-time equiva
 
 <i>For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
@@ -377,7 +379,7 @@ Subsec. (a)(2)(A)(viii). Pub. L. 115–52, §203(a)(2)(A)(ii), substituted "3.4 
 
 Subsec. (a)(2)(A)(xi). Pub. L. 115–52, §203(a)(2)(A)(iii), added cl. (xi).
 
-Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, §203(a)(2)(B), substituted "premarket notification submission, or de novo classification request" for "or premarket notification submission".
+Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, §203(a)(2)(B), substituted "premarket notification submission, or denovo classification request" for "or premarket notification submission".
 
 Subsec. (a)(3)(A). Pub. L. 115–52, §203(f)(2)(B)(iii), struck out "and subsection (f)" after "subparagraph (B)".
 
@@ -529,7 +531,7 @@ Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 
-Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that wouldotherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and DrugAdministration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 <b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)".
 
@@ -602,6 +604,8 @@ Subsec. (f). Pub. L. 108–214, §2(a)(2)(D), struck out "for filing" after "acc
 Subsec. (h)(2)(B). Pub. L. 108–214, §2(a)(2)(E), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) of cl. (i) as items (aa) and (bb), respectively, of cl. (i)(II), and added cl. (ii).
 
 Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)(D)" for "subsection (a)(1)(D)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

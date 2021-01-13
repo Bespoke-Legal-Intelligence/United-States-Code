@@ -34,7 +34,7 @@ In this chapter:
 
 #### (6) Loan guarantee
 
-&emsp;The term "loan guarantee" means any guarantee or other pledge by the Secretary or theAdministrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
+&emsp;The term "loan guarantee" means any guarantee or other pledge by the Secretary or the Administrator to pay all or part of the principal of, and interest on, a loan or other debt obligation issued by an obligor and funded by a lender.
 
 #### (7) Obligor
 
@@ -88,13 +88,17 @@ In this chapter:
 
 (Pub. L. 113–121, title V, §5022, June 10, 2014, 128 Stat. 1332.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) ofchapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Federal Water Pollution Control Act, referred to in par. (12), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

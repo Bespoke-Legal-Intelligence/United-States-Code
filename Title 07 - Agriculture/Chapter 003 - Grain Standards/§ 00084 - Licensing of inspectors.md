@@ -10,7 +10,7 @@ All classes of licenses issued under this chapter shall terminate every 5 years 
 
 #### (c) Examination of applicants; reexaminations
 
-The Secretary may require such examinations and reexaminations as the Secretary may deem warranted to determine the competence of any applicants for licenses, licensees, or employees of the Secretary, to perform any official inspection or weighing function under this chapter.
+The Secretary may require such examinations and reexaminations as the Secretary may deem warranted to determine the competence of anyapplicants for licenses, licensees, or employees of the Secretary, to perform any official inspection or weighing function under this chapter.
 
 #### (d) Inspectors performing under contract not deemed Federal employees
 

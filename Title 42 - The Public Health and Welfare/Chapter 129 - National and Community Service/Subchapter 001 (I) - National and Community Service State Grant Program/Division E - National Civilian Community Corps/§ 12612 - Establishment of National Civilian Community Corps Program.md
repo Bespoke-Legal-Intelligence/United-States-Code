@@ -48,7 +48,7 @@ Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 #### Report and Study Requirements
 
-Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning the desirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
+Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning thedesirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
 
 #### Coordination of Programs
 

@@ -10,7 +10,7 @@ In this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) the National Credit Union Administration, with respect to any insured credit union under the Federal Credit Union Act (12 U.S.C. 1751 et seq.); and
 
-&emsp;&emsp;(C) the Board of Governors, with respect to organizations operating under section 25A of the Federal Reserve Act (12 U.S.C. 611), and any other financial institution engaged in a designated activity.
+&emsp;&emsp;(C) the Board of Governors, with respect to organizations operating under section 25A ofthe Federal Reserve Act (12 U.S.C. 611), and any other financial institution engaged in a designated activity.
 
 #### (2) Designated activity
 
@@ -149,6 +149,8 @@ In this subchapter, the following definitions shall apply:
 &emsp;The terms "systemically important" and "systemic importance" mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
 
 (Pub. L. 111–203, title VIII, §803, July 21, 2010, 124 Stat. 1803.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

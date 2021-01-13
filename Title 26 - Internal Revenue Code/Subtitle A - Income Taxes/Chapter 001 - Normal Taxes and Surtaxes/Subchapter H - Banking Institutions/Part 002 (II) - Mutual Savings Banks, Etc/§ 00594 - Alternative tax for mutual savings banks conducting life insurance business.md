@@ -6,7 +6,7 @@ In the case of a mutual savings bank not having capital stock represented by sha
 
 &emsp;(1) A partial tax computed on the taxable income determined without regard to any items of gross income or deductions properly allocable to the business of the life insurance department, at the rates and in the manner as if this section had not been enacted; and
 
-&emsp;(2) a partial tax computed on the income of the life insurance department determined without regard to any items of gross income or deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
+&emsp;(2) a partial tax computed on the income of the life insurance department determined without regard to any items of gross incomeor deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
 
 #### (b) Limitations of section
 

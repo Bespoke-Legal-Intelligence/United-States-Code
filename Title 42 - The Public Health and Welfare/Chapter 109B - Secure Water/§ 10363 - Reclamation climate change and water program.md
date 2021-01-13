@@ -58,7 +58,7 @@ In carrying out the program described in subsection (a), the Secretary shall—
 
 &emsp;&emsp;(E) groundwater and surface water storage needs; and
 
-&emsp;(5) in consultation with the Director, the Administrator, the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service), and applicable State water resource agencies, develop a monitoring plan to acquire and maintain water resources data—
+&emsp;(5) in consultation with the Director, the Administrator, the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service), and applicable State water resource agencies, develop a monitoringplan to acquire and maintain water resources data—
 
 &emsp;&emsp;(A) to strengthen the understanding of water supply trends; and
 
@@ -120,5 +120,5 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat.884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 

@@ -20,7 +20,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish within the executive operations of the Department an office to be known as the "Office of Partnerships and Public Engagement"—
+&emsp;The Secretary shall establish within the executive operations of the Department an officeto be known as the "Office of Partnerships and Public Engagement"—
 
 &emsp;&emsp;(A) to improve access to programs of the Department;
 

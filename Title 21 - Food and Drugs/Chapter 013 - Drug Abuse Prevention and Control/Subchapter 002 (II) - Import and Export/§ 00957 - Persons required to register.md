@@ -24,6 +24,8 @@ No person may—
 
 (Pub. L. 91–513, title III, §1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, §523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, §3(e), Dec. 17, 1993, 107 Stat. 2337.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
@@ -39,6 +41,8 @@ Subsec. (b)(1). Pub. L. 103–200, §3(e)(2)(A), inserted "or list I chemical" a
 Subsec. (b)(2). Pub. L. 103–200, §3(e)(2)(B), inserted "or list I chemicals" after "controlled substances".
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

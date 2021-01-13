@@ -30,9 +30,13 @@ The studies required by this section shall not increase the regulatory or paperw
 
 (Pub. L. 104–208, div. A, title II, §2227, Sept. 30, 1996, 110 Stat. 3009–417.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Federal Reserve Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -52,7 +56,7 @@ Report.—Before the end of the 5-year period beginning on the date of the enact
 
 #### Definitions
 
-Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: "Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
+Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: "Except as otherwise specified in this title \[see Tables for classification\], thefollowing definitions shall apply for purposes of this title:
 
 &emsp;"(1)
 

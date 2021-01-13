@@ -36,6 +36,8 @@ In this section, the word "records" is substituted for "books and records" for c
 
 In subsection (a)(1), the word "correct" is substituted for "current" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(2). Pub. L. 111–113 substituted "other national entities of the corporation;" for "national council;".

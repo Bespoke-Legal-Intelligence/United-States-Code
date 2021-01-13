@@ -10,7 +10,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;&emsp;(B) identity theft or document fraud affecting or relating to the programs, functions, or authorities of the Department of State; or
 
-&emsp;&emsp;(C) Federal offenses committed within the special maritime and territorial jurisdiction of the United States (as defined in section 7(9) of title 18), except as such jurisdiction relates to the premises of United States military missions and related residences;
+&emsp;&emsp;(C) Federal offenses committed within the special maritime and territorial jurisdictionof the United States (as defined in section 7(9) of title 18), except as such jurisdiction relates to the premises of United States military missions and related residences;
 
 &emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
 
@@ -48,9 +48,11 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 #### (c) Secret Service not affected
 
-Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority ofthe United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
+Nothing in subsection (a)(3) shall be construed to preclude or limit in any way the authority of the United States Secret Service to provide protective services pursuant to section 3056 or 3056A of title 18 at a level commensurate with protective requirements as determined by the United States Secret Service. The Secretary of State, the Attorney General, and the Secretary of the Treasury shall enter into an interagency agreement with respect to their law enforcement functions.
 
 (Aug. 1, 1956, ch. 841, title I, §37, as added Pub. L. 99–93, title I, §125(a), Aug. 16, 1985, 99 Stat. 415; amended Pub. L. 101–246, title I, §113, Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §139(1), Apr. 30, 1994, 108 Stat. 397; Pub. L. 106–553, §1(a)(2) \[title IV, §406, formerly §407\], Dec. 21, 2000, 114 Stat. 2762, 2762A–97, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–228, div. A, title II, §202(a), (b), Sept. 30, 2002, 116 Stat. 1362; Pub. L. 109–177, title VI, §605(e)(2)(A), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–323, title IV, §408(a), Dec. 16, 2016, 130 Stat. 1930.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Subsec. (b). Pub. L. 107–228, §202(b), substituted "Agreements with Attorney 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–246, §113(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (a)(5). Pub. L. 101–246, §113(2), amended introductory provisions generally, substituting "970, or 1028" for "911, 970, 1001, 1028, 1541, 1542, 1543, 1544, 1545, or 1546".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

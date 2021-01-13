@@ -1,8 +1,10 @@
 ### §2642. Analysis of imported merchandise
 
-The Court of International Trade may order an analysis of imported merchandise and reports thereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
+The Court of International Trade may order an analysis of imported merchandise and reportsthereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 103–182, title VI, §684(a)(5), Dec. 8, 1993, 107 Stat. 2219.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -16,9 +18,11 @@ A prior section 2642, act May 24, 1949, ch. 139, §123, 63 Stat. 106, authorized
 
 <b>1993</b>—Pub. L. 103–182 inserted before period at end "or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Application of 1993 Amendment
 
-For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, formerly set out as a note under section 1581 of this title.
 
 #### Transfer of Functions
 

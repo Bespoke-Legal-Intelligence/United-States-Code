@@ -68,7 +68,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (B) Qualified ethanol fuel production
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified ethanol fuel production" means any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified ethanol fuel production" meansany alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year—
 
 &emsp;&emsp;&emsp;(i) is sold by such producer to another person—
 
@@ -166,7 +166,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (G) Special rules for algae
 
-&emsp;&emsp;In the case of fuel which is derived by, or from, feedstock described in subparagraph (F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)—
+&emsp;&emsp;In the case of fuel which is derived by, or from, feedstock described in subparagraph\(F)(ii) and which is sold by the taxpayer to another person for refining by such other person into a fuel which meets the requirements of subparagraph (E)(i)(II) and the refined fuel is not excluded under subparagraph (E)(iii)—
 
 &emsp;&emsp;&emsp;(i) such sale shall be treated as described in subparagraph (C)(i),
 
@@ -186,7 +186,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2021.
+&emsp;&emsp;&emsp;This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2022.
 
 #### (ii) No carryover to certain years after expiration
 
@@ -374,7 +374,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
 
-&emsp;&emsp;&nbsp;shall be treated as an increase in tax imposed by this chapter on the organization.Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
+&emsp;&emsp;&nbsp;shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
 #### (h) Reduced credit for ethanol blenders
 
@@ -411,7 +411,7 @@ For purposes of this section—
 
 &emsp;&emsp;A determination described in this subparagraph with respect to any calendar year is a determination, in consultation with the Administrator of the Environmental Protection Agency, that an amount less than 7,500,000,000 gallons of ethanol (including cellulosic ethanol) has been produced in or imported into the United States in such year.
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339; Pub. L. 113–295, div. A, title I, §152(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §184(a), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40406(a), Feb. 9, 2018, 132 Stat. 149; Pub. L. 115–141, div. U, title IV, §401(a)(9), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §122(a), Dec. 20, 2019, 133 Stat. 3231.)
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339; Pub. L. 113–295, div. A, title I, §152(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §184(a), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40406(a), Feb. 9, 2018, 132 Stat. 149; Pub. L. 115–141, div. U, title IV, §401(a)(9), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §122(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §140(a), Dec. 27, 2020, 134 Stat. 3054.)
 
 #### Codification
 
@@ -424,6 +424,8 @@ A prior section 40, added Pub. L. 92–178, title VI, §601(a), Dec. 10, 1971, 8
 Another prior section 40 was renumbered section 37 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(6)(J)(i). Pub. L. 116–260 substituted "January 1, 2022" for "January 1, 2021".
 
 <b>2019</b>—Subsec. (b)(6)(J)(i). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2018".
 
@@ -597,6 +599,10 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted "50 cents" fo
 
 <b>1981</b>—Subsec. (e)(2)(A). Pub. L. 97–34 substituted "15" for "7" in two places, and "14" for "6" in one place.
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §140(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made by this section \[amending this section\] shall apply to qualified second generation biofuel production after December 31, 2020."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §122(b), Dec. 20, 2019, 133 Stat. 3231, provided that: "The amendment made by this section \[amending this section\] shall apply to qualified second generation biofuel production after December 31, 2017."
@@ -631,7 +637,7 @@ Pub. L. 111–152, title I, §1408(b), Mar. 30, 2010, 124 Stat. 1067, provided t
 
 Pub. L. 110–343, div. B, title II, §203(d), Oct. 3, 2008, 122 Stat. 3834, provided that: "The amendments made by this section \[amending this section and sections 40A, 6426, and 6427 of this title\] shall apply to claims for credit or payment made on or after May 15, 2008."
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15321(g), May 22, 2008, 122 Stat. 1514, and Pub. L. 110–246, §4(a), title XV, §15321(g), June 18, 2008, 122 Stat. 1664, 2276, provided that: "The amendments made by this section \[amending this section and sections 40A and 4101 of this title\] shall apply to fuel produced after December 31, 2008."
 

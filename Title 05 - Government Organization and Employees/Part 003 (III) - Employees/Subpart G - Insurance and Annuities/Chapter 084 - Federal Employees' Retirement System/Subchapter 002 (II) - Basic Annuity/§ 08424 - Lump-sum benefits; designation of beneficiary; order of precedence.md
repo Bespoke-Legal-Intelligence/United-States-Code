@@ -14,7 +14,7 @@
 
 > is entitled to be paid the lump-sum credit. Except as provided in section 8420a, payment of the lump-sum credit to an employee or Member voids all annuity rights under this subchapter, and subchapters IV and V of this chapter, based on the service on which the lump-sum credit is based, until the employee or Member is reemployed in the service subject to this chapter.
 
-(b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if thespouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
+(b)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
 (B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information or documentation as the Office may require that—
 
@@ -65,6 +65,8 @@
 &emsp;Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, §3(b), Oct. 27, 2000, 114 Stat. 1402; Pub. L. 111–84, div. A, title XIX, §1904(b)(4), Oct. 28, 2009, 123 Stat. 2617.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

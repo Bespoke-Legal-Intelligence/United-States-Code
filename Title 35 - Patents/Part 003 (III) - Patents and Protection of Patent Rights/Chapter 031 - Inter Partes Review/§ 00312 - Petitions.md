@@ -24,6 +24,8 @@ Public Availability.—As soon as practicable after the receipt of a petition un
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §§13105(a), 13202(a)(2), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902; Pub. L. 112–29, §6(a), (c)(3)(A)(i), Sept. 16, 2011, 125 Stat. 300, 305.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §6(a), amended section generally. Prior to amendment, section related to determination of issue by Director.
@@ -39,6 +41,8 @@ Subsec. (a). Pub. L. 107–273, §13202(a)(2)(A), struck out second sentence whi
 Pub. L. 107–273, §13105(a), inserted at end "The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office."
 
 Subsec. (b). Pub. L. 107–273, §13202(a)(2)(B), struck out ", if any" after "third-party requester".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

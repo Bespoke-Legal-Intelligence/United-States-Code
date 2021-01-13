@@ -2,13 +2,15 @@
 
 The head of each agency referred to under paragraphs (1) and (2) of section 901(b) of title 31 shall appoint or designate a Chief Human Capital Officer, who shall—
 
-&emsp;(1) advise and assist the head of the agency and other agency officials in carrying out the agency's responsibilities for selecting, developing, training, and managing a high-quality,productive workforce in accordance with merit system principles;
+&emsp;(1) advise and assist the head of the agency and other agency officials in carrying out the agency's responsibilities for selecting, developing, training, and managing a high-quality, productive workforce in accordance with merit system principles;
 
 &emsp;(2) implement the rules and regulations of the President and the Office of Personnel Management and the laws governing the civil service within the agency; and
 
 &emsp;(3) carry out such functions as the primary duty of the Chief Human Capital Officer.
 
 (Added Pub. L. 107–296, title XIII, §1302(a), Nov. 25, 2002, 116 Stat. 2287.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

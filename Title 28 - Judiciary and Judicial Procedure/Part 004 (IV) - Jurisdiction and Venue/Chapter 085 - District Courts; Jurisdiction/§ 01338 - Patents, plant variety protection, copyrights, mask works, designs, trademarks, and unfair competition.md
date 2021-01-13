@@ -6,7 +6,7 @@
 
 (c) Subsections (a) and (b) apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 91–577, title III, §143(b), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 100–702, title X, §1020(a)(4), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, §503(b)(1), (2)(A), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 112–29, §19(a), Sept. 16, 2011, 125 Stat. 331.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 91–577, title III, §143(b), Dec. 24, 1970, 84 Stat. 1559; Pub.L. 100–702, title X, §1020(a)(4), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 105–304, title V, §503(b)(1), (2)(A), Oct. 28, 1998, 112 Stat. 2917; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3009(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 112–29, §19(a), Sept. 16, 2011, 125 Stat. 331.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ Word "patents" was substituted for "patent-right" in said section 371 (Fifth) of
 Similar provisions respecting suits cognizable in district courts, including those of territories and possessions. (See section 34 of title 17, U.S.C., 1940 ed., Copyrights.)
 
 Subsection (b) is added and is intended to avoid "piecemeal" litigation to enforce common-law and statutory copyright, patent, and trade-mark rights by specifically permitting such enforcement in a single civil action in the district court. While this is the rule under Federal decisions, this section would enact it as statutory authority. The problem is discussed at length in <i>Hurn v. Oursler</i> (1933, 53 S.Ct. 586, 289 U.S. 238, 77 L.Ed. 1148) and in <i>Musher Foundation v. Alba Trading Co</i>. (C.C.A. 1942, 127 F.2d 9) (majority and dissenting opinions).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Subsec. (c). Pub. L. 105–304, §503(b)(1), inserted ", and to exclusive right
 Subsec. (c). Pub. L. 100–702, §1020(a)(4)(A), added subsec. (c).
 
 <b>1970</b>—Pub. L. 91–577 inserted references to "plant variety protection" in section catchline and in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

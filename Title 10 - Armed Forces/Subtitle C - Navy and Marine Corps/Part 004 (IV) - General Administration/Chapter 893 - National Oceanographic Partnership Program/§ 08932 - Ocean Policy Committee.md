@@ -1,0 +1,174 @@
+### §8932. Ocean Policy Committee
+
+(a)
+
+Committee.—There is established an Ocean Policy Committee (hereinafter referred to as the "Committee"). The Committee shall retain broad and inclusive membership.
+
+(b)
+
+Responsibilities.—The Committee shall—
+
+&emsp;(1) continue the activities of that Committee as it was in existence on the day before the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021;
+
+&emsp;(2) engage and collaborate, pursuant to existing laws and regulations, with stakeholders, including regional ocean partnerships, to address ocean-related matters that may require interagency or intergovernmental solutions;
+
+&emsp;(3) facilitate coordination and integration of Federal activities in ocean and coastal waters to inform ocean policy and identify priority ocean research, technology, and data needs; and
+
+&emsp;(4) prescribe policies and procedures to implement the National Oceanographic Partnership Program, including developing guidelines for review, selection, identification, and approval of partnership projects, in conjunction with Federal agencies participating in the program, for implementation under the program, based on—
+
+&emsp;&emsp;(A) whether the project addresses important research objectives or operational goals;
+
+&emsp;&emsp;(B) whether the project has, or is designed to have, appropriate participation or supportfrom public, academic, commercial, and private entities within the oceanographic community;
+
+&emsp;&emsp;(C) whether the partners have a long-term commitment to the objectives of the project;
+
+&emsp;&emsp;(D) whether the resources supporting the project are shared among the partners;
+
+&emsp;&emsp;(E) whether the project has been subjected to adequate scientific and technical merit review according to each participating agency; and
+
+&emsp;&emsp;(F) the approval of such guidelines by a consensus of the members of the Committee.
+
+(c)
+
+Delegation of Responsibilities.—In discharging its responsibilities in support of agreed-upon scientific needs, and to assist in the execution of the responsibilities described in subsection (b), the Committee may delegate responsibilities to a subcommittee of the Committee, as the Committee determines appropriate.
+
+(d)
+
+Annual Report and Briefing.—(1) Not later than March 1 of each year, the Committee shall—
+
+&emsp;(A) make publicly available on an appropriate website a report on the National Oceanographic Partnership Program; and
+
+&emsp;(B) provide to the appropriate congressional committees a briefing on the contents of the report.
+
+(2) Not later than 30 days after providing a briefing under paragraph (1)(B), the Committee shall make publicly available on an appropriate website the briefing materials covered by the briefing.
+
+(3) Each report and briefing shall include the following:
+
+&emsp;(A) A description of activities of the National Oceanographic Partnership Program carried out during the fiscal year preceding the fiscal year during which the report is published.
+
+&emsp;(B) A general outline of the activities planned for the program during the fiscal year during which the report is published.
+
+&emsp;(C) A summary of projects, partnerships, and collaborations, including the Federal and non-Federal sources of funding, continued from the fiscal year preceding the fiscal year during which the report is published and projects expected to begin during the fiscal year during which the report is published and any subsequent fiscal year, as required under subsection (e)(4)(C).
+
+&emsp;(D) The amounts requested in the budget submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year following the fiscal year during which the report is published, for the programs, projects, activities and the estimated expenditures under such programs, projects, and activities, to execute the National Oceanographic Partnership Program.
+
+&emsp;(E) A summary of national ocean research priorities informed by the Ocean Research Advisory Panel, as required under section 8933(b)(4) of this title.
+
+&emsp;(F) A list of the members of the Ocean Research Advisory Panel established under section 8933(a) of this title and any working groups described in subsection (e)(4)(A) in existence during the fiscal years covered by the report.
+
+(e)
+
+Partnership Program Office.—(1) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall jointly establish a partnership program office for the National Oceanographic Partnership Program.
+
+(2) The Secretary of the Navy and Administrator of the National Oceanic and Atmospheric Administration shall use competitive procedures to select a non-Government entity to manage the partnership program office.
+
+(3) The Committee shall monitor the management of the partnership program office.
+
+(4) The partnership program office shall perform the following duties:
+
+&emsp;(A) Supporting working groups established by the Committee or subcommittee and reporting to the Committee and to any Federal agency that has contributed amounts to the National Oceanographic Partnership Program on the activities of such working groups, including the proposals of such working groups for partnership projects.
+
+&emsp;(B) Supporting the process for proposing partnership projects to the Committee and to the agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
+
+&emsp;(C) Submitting to the appropriate congressional committees, and making publicly available, an annual report on the status of all partnership projects, including the Federal and non-Federal sources of funding for each project, and activities of the office.
+
+&emsp;(D) Performing such additional duties for the administration of the National Oceanographic Partnership Program that the Committee and the agencies referred to in subparagraph (A) consider appropriate.
+
+(f)
+
+Contract and Grant Authority.—The Committee may authorize one or more of the departments or agencies represented on the Committee to enter into contracts and make grants, using funds appropriated pursuant to an authorization of appropriations for the National Oceanographic Partnership Program, for the purpose of implementing the program and carrying out the responsibilities of the Committee.
+
+(g)
+
+Establishment and Forms of Partnership Projects.—(1) A partnership project under the National Oceanographic Partnership Program may be established by any instrument that the Committee considers appropriate, including a memorandum of understanding, a cooperative research and development agreement, and any similar instrument.
+
+(2) Projects under the program may include demonstration projects.
+
+(h)
+
+Appropriate Congressional Committees.—In this section, the term "appropriate congressional committees" means—
+
+&emsp;(1) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;(2) the Committee on Armed Services of the Senate;
+
+&emsp;(3) the Committee on Appropriations of the Senate;
+
+&emsp;(4) the Committee on Natural Resources of the House of Representatives;
+
+&emsp;(5) the Committee on Science, Space, and Technology of the House of Representatives;
+
+&emsp;(6) the Committee on Armed Services of the House of Representatives; and
+
+&emsp;(7) the Committee on Appropriations of the House of Representatives.
+
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7902; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1713, Nov. 25, 2002, 116 Stat. 2320; renumbered §8932, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3851–3853.)
+
+#### References in Text
+
+The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1055(b)(2)(A), substituted "Ocean Policy Committee" for "National Ocean Research Leadership Council" in section catchline.
+
+Subsecs. (a) to (e). Pub. L. 116–283, §1055(b)(1)(A), (B), added subsecs. (a) to (e) and struck out former subsecs. (a) to (e) which related to establishment, membership, chairman and vice chairman, responsibilities, and annual reports of the National Ocean Research Leadership Council.
+
+Subsec. (f). Pub. L. 116–283, §1055(b)(1)(A), (C), (D), redesignated subsec. (g) as (f), substituted "Committee" for "Council" wherever appearing, and struck out former subsec. (f) which related to establishment of a partnership program office for the National Oceanographic Partnership Program.
+
+Subsec. (g). Pub. L. 116–283, §1055(b)(1)(C), (D), redesignated subsec. (h) as (g) and substituted "Committee" for "Council". Former subsec. (g) redesignated (f).
+
+Subsec. (h). Pub. L. 116–283, §1055(b)(1)(E), added subsec. (h). Former subsec. (h) redesignated (g).
+
+<b>2018</b>—Pub. L. 115–232 renumbered section 7902 of this title as this section.
+
+<b>2002</b>—Subsec. (b)(13), (14). Pub. L. 107–296 added pars. (13) and (14).
+
+<b>1999</b>—Subsec. (e)(5). Pub. L. 106–65 struck out ", United States Code," after "title 31".
+
+<b>1997</b>—Subsec. (b)(8). Pub. L. 105–85, §1073(a)(64), inserted "United States" before "Geological Survey".
+
+Subsec. (b)(11) to (13). Pub. L. 105–85, §241(a)(1), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: "The President of the National Academy of Sciences, the President of the National Academy of Engineering, and the President of the Institute of Medicine."
+
+Subsec. (b)(14) to (17). Pub. L. 105–85, §241(a)(1)(A), struck out pars. (14) to (17) which read as follows:
+
+"(14) One member appointed by the chairman from among individuals who will represent the views of ocean industries.
+
+"(15) One member appointed by the chairman from among individuals who will represent the views of State governments.
+
+"(16) One member appointed by the chairman from among individuals who will represent the views of academia.
+
+"(17) One member appointed by the chairman from among individuals who will represent such other views as the chairman considers appropriate."
+
+Subsecs. (d) to (i). Pub. L. 105–85, §241(a)(2), (3), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and struck out former subsec. (d) which read as follows:
+
+"(d)
+
+Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
+
+#### Initial Appointments of Council Members
+
+Pub. L. 104–201, div. A, title II, §282(b), Sept. 23, 1996, 110 Stat. 2473, directed Secretary of the Navy to make appointments required by subsec. (b) of this section, not later than Dec. 1, 1996, prior to repeal by Pub. L. 105–85, div. A, title II, §241(c)(1), Nov. 18, 1997, 111 Stat. 1666.
+
+#### First Annual Report of Council
+
+Pub. L. 104–201, div. A, title II, §282(c), formerly §282(d), Sept. 23, 1996, 110 Stat. 2473, as renumbered by Pub. L. 105–85, div. A, title II, §241(c)(2), Nov. 18, 1997, 111 Stat. 1666, provided that: "The first annual report required by section 7902(f) \[now 8932(f)\] of title 10, United States Code, as added by subsection (a)(1), shall be submitted to Congress not later than March 1, 1997. The first report shall include, in addition to the information required by such section, information about the terms of office, procedures, and responsibilities of the Ocean Research Advisory Panel established by the Council."
+

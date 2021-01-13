@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term "octane rating" means the rating of the antiknock characteristics of a gradeor type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
+&emsp;(1) The term "octane rating" means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
 
 &emsp;(2) The terms "research octane number" and "motor octane number" have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specification for Automotive Spark-Ignition Engine Fuel" designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
 
@@ -64,7 +64,7 @@ The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 191
 
 #### Codification
 
-October 24, 1992, referred to in par. (18)(B), was in the original "the date of the enactment of this Act" and"such date", which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
+October 24, 1992, referred to in par. (18)(B), was in the original "the date of the enactment of this Act" and "such date", which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
 
 #### Amendments
 

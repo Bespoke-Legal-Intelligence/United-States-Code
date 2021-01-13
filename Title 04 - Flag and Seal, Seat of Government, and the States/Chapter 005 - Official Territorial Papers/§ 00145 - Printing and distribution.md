@@ -1,6 +1,6 @@
 ### §145. Printing and distribution
 
-(a) The Director of the Government Publishing Office shall print and bind each volume of the official papers relating to the Territories of the United States as provided for in this chapter, of which—
+(a) The Director of the Government Publishing Office shall print and bind each volume of theofficial papers relating to the Territories of the United States as provided for in this chapter, of which—
 
 &emsp;(1) four hundred and twenty copies shall be delivered to the Superintendent of Documents, Government Publishing Office, for distribution, on the basis of one copy each, and as directed by the Archivist, to those historical associations, commissions, museums, or libraries and other nondepository libraries, not to exceed eight in number within each State, Territory, or Possession, which have been or may be designated by the Governor thereof to receive such copies;
 
@@ -12,6 +12,8 @@
 
 (Added Oct. 31, 1951, ch. 655, §12, 65 Stat. 714; amended Pub. L. 98–497, title I, §107(f), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–497 substituted "Archivist" for "Administrator".
@@ -19,6 +21,8 @@
 Subsec. (a)(2). Pub. L. 98–497 substituted "National Archives and Records Administration" for "General Services Administration".
 
 Subsec. (b). Pub. L. 98–497 substituted "Archivist" for "Administrator" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

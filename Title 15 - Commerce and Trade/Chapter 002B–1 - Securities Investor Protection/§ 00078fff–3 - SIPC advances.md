@@ -48,7 +48,7 @@ For purposes of this section, the term "standard maximum cash advance amount" me
 
 &emsp;&emsp;(B) the ratio of the annual value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), published by the Department of Commerce, for the calendar year preceding the year in which such determination is made, to the published annual value of such index for the calendar year preceding 2010.
 
-> &emsp;The index values used in calculations under this paragraph shall be, as of the date of thecalculation, the values most recently published by the Department of Commerce.
+> &emsp;The index values used in calculations under this paragraph shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
 
 #### (2) Rounding
 

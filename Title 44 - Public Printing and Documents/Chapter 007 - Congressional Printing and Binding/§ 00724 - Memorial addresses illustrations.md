@@ -8,6 +8,8 @@ The illustrations to accompany bound copies of memorial addresses delivered in C
 
 Based on 44 U.S. Code, 1964 ed., §152 (Mar. 4, 1921, ch. 161, §1, 41 Stat. 1431).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".

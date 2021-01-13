@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Secretary determines that a tribally controlled school is eligible for assistance under this chapter, the eligibility determination shall remain in effect until the determination is revoked by the Secretary, and the requirements of subsection (b) or (c) of section 2504 of this title, if applicable, shall be considered to have been met with respect to such school until the eligibility determination is revoked by the Secretary.
+If the Secretary determines that a tribally controlled school is eligible for assistance underthis chapter, the eligibility determination shall remain in effect until the determination is revoked by the Secretary, and the requirements of subsection (b) or (c) of section 2504 of this title, if applicable, shall be considered to have been met with respect to such school until the eligibility determination is revoked by the Secretary.
 
 #### (b) Annual reports
 
@@ -62,7 +62,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 #### (2) Notice requirements for revocation
 
-&emsp;The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of a school that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) <sup>2</sup> of this title until the Secretary—
+&emsp;The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of aschool that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) <sup>2</sup> of this title until the Secretary—
 
 &emsp;&emsp;(A) provides notice to the tribally controlled school and the tribal governing body (within the meaning of section 2021 of this title) of the tribally controlled school which states—
 
@@ -94,6 +94,8 @@ With respect to a tribally controlled school that receives assistance under this
 
 (Pub. L. 100–297, title V, §5206, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2072.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
@@ -102,7 +104,9 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
+A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.Q04
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

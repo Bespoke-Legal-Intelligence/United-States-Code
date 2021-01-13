@@ -50,7 +50,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(C) the amount of the waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for the plan year, and
 
-&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
+&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, theexcess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
 
 #### (4) Combining and offsetting amounts to be amortized
 
@@ -126,7 +126,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3))used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
+&emsp;&emsp;&emsp;No actuarial assumption (other than the assumptions described in subsection (h)(3)) used to determine the current liability for a plan to which this subparagraph applies may be changed without the approval of the Secretary of the Treasury.
 
 #### (ii) Plans to which subparagraph applies
 
@@ -214,7 +214,7 @@ Assets.—For purposes of clause (i), assets shall not be reduced by any credit 
 
 #### (d) Extension of amortization periods
 
-The period of years required to amortize any unfunded liability (described in any clause ofsubsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
+The period of years required to amortize any unfunded liability (described in any clause of subsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension wouldcarry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
 
 &emsp;(1) a substantial risk to the voluntary continuation of the plan, or
 
@@ -319,7 +319,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Plans to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section 1082(d)(6)(A) of this title (as in effect on the day before August 17, 2006) which—
+&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section1082(d)(6)(A) of this title (as in effect on the day before August 17, 2006) which—
 
 &emsp;&emsp;&emsp;(i) is required to pay installments under this subsection for a plan year, and
 
@@ -399,7 +399,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (2) Plans to which subsection applies
 
-&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
+&emsp;This subsection shall apply to a CSEC plan for any plan year for which the funded current liability percentage of such plan is less than 100 percent. This subsection shall not apply to any plan to which section 1321 of this title does not apply (as such section is in effect on December 8, 1994).
 
 #### (3) Amount of lien
 
@@ -483,11 +483,11 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under subparagraph (B)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whosedisabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;In the case of plan years beginning after December 31, 1995, the Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under subparagraph (B)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary of the Treasury shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (ii) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
+&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31,1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
 
 #### (4) Certain service disregarded
 
@@ -593,6 +593,8 @@ Notwithstanding any other provisions of this section—
 
 (Pub. L. 93–406, title I, §306, as added Pub. L. 113–97, title I, §102(a), Apr. 7, 2014, 128 Stat. 1102.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6), is section 104 of Pub. L. 109–280, which is set out as a note under section 401 of Title 26, Internal Revenue Code.
@@ -604,6 +606,8 @@ This chapter, referred to in subsec. (d), was in the original "this Act", meanin
 #### Prior Provisions
 
 A prior section 1085a, Pub. L. 93–406, title I, §306, as added Pub. L. 99–272, title XI, §11015(a)(1)(A)(ii), Apr. 7, 1986, 100 Stat. 264; amended Pub. L. 100–203, title IX, §9306(e)(2), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to security for waivers of minimum funding standard and extensions of amortization period, prior to repeal by Pub. L. 109–280, title I, §101(a), Aug. 17, 2006, 120 Stat. 784.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

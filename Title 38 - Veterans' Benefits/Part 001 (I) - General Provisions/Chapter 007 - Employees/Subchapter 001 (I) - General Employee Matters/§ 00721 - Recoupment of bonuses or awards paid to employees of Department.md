@@ -26,9 +26,13 @@ Appeal of Order of Secretary.—(1) Upon the issuance of an order by the Secreta
 
 (Added Pub. L. 115–41, title II, §204(a), June 23, 2017, 131 Stat. 875.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 721 and 722 were renumbered sections 1921 and 1922 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

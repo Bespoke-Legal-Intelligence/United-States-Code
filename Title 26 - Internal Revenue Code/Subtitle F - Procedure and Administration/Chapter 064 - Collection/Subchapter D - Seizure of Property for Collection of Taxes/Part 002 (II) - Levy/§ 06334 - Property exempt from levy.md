@@ -76,7 +76,7 @@ There shall be exempt from levy—
 
 &emsp;&emsp;&emsp;(i) the principal residence of the taxpayer (within the meaning of section 121); and
 
-&emsp;&emsp;&emsp;(ii) tangible personal property or real property (other than real property which is rented) used in the trade or business of an individual taxpayer.
+&emsp;&emsp;&emsp;(ii) tangible personal property or real property (other than real property whichis rented) used in the trade or business of an individual taxpayer.
 
 #### (b) Appraisal
 
@@ -162,7 +162,7 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 #### (f) Levy allowed on certain specified payments
 
-Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt from levy if the Secretary approves the levy thereon under section 6331(h).
+Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt fromlevy if the Secretary approves the levy thereon under section 6331(h).
 
 #### (g) Inflation adjustment
 

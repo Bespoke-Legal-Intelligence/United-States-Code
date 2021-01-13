@@ -116,7 +116,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (4) No reduction in benefits
 
-&emsp;Notwithstanding any other provision of Federal law (other than the Internal RevenueCode of 1986) that requires consideration of 1 or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this subsection shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+&emsp;Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986) that requires consideration of 1 or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this subsection shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### (5) Definitions
 
@@ -190,7 +190,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (1) Use limitations
 
-&emsp;A State to which a grant is made under section 603 of this title may not use any part ofthe grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
+&emsp;A State to which a grant is made under section 603 of this title may not use any part of the grant to match funds made available under section 3037 of the Transportation Equity Act for the 21st Century, unless—
 
 &emsp;&emsp;(A) the grant is used for new or expanded transportation services (and not for construction) that benefit individuals described in subparagraph (C), and not to subsidize current operating costs;
 
@@ -334,7 +334,7 @@ Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L
 
 "The purposes of this title are to provide for the establishment of demonstration projects designed to determine—
 
-&emsp;"(1) the social, civic, psychological, and economic effects of providing to individuals and families withlimited means an incentive to accumulate assets by saving a portion of their earned income;
+&emsp;"(1) the social, civic, psychological, and economic effects of providing to individuals and families with limited means an incentive to accumulate assets by saving a portion of their earned income;
 
 &emsp;"(2) the extent to which an asset-based policy that promotes saving for postsecondary education, homeownership, and microenterprise development may be used to enable individuals and families with limited means to increase their economic self-sufficiency; and
 
@@ -452,7 +452,7 @@ Eligible educational institution.—The term 'eligible educational institution' 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-Institution of higher education.—An institution described in section 101 or 102 of theHigher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
+Institution of higher education.—An institution described in section 101 or 102 of the Higher Education Act of 1965 \[20 U.S.C. 1001, 1002\].
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 
@@ -578,7 +578,7 @@ Preferences.—In considering an application to conduct a demonstration project 
 
 "(e)
 
-Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate,taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
+Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
 
 "(f)
 
@@ -704,7 +704,7 @@ Exclusions.—For purposes of determining the net worth of a household, a househ
 
 "(b)
 
-Individuals Unable To Complete the Project.—The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
+Individuals Unable To Complete the Project.—The Secretary shall establish such regulations as are necessary to ensure compliance with thistitle if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
 
 #### "SEC. 409. SELECTION OF INDIVIDUALS TO PARTICIPATE.
 

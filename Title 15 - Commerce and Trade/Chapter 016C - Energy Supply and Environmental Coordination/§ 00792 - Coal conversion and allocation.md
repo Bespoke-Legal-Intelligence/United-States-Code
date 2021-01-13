@@ -8,7 +8,7 @@ The Federal Energy Administrator—
 
 &emsp;(2) may, by order, prohibit any major fuel burning installation, other than a powerplant,
 
-> from burning natural gas or petroleum products as its primary energy source, if the requirements of subsection (b) are met and if (A) the Federal Energy Administrator determines such powerplant or installation on June 22, 1974, had, or thereafter acquires or is designed with, the capability and necessary plant equipment to burn coal, or (B) such powerplant or installation is required to meet a design or construction requirement under subsection (c).
+> from burning natural gas or petroleum products as its primary energy source, if the requirements of subsection (b) are met and if (A) the Federal Energy Administrator determines such powerplant or installation on June 22, 1974, had, or thereafter acquires or is designed with, thecapability and necessary plant equipment to burn coal, or (B) such powerplant or installation is required to meet a design or construction requirement under subsection (c).
 
 #### (b) Prerequisites to issuance or effectiveness of orders prohibiting use of natural gas or petroleum products as primary energy source
 
@@ -78,7 +78,7 @@ Pub. L. 95–95, title I, §112(b), Aug. 7, 1977, 91 Stat. 709, repealed section
 
 "(2) In the case of any major stationary source to which any requirement is applicable under section 113(d)(5)(B) of the Clean Air Act \[section 7413(d)(5)(B) of Title 42\] and for which certification is required under section 2 of the Energy Supply and Environmental Coordination Act of 1974 \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act \[Pub. L. 93–319\], the Administrator of the Environmental Protection Agency shall certify the date which he determines is the earliest date that such source will be able to comply with all such requirements. In the case of any plant or installation which the Administrator of the Environmental Protection Agency determines (after consultation with the State) will not be subject to an order under section 113(d) of the Clean Air Act \[section 7413(d) of Title 42\] and for which certification is required under section 2 of the Energy Supply and Environmental Coordination Act of 1974 \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act \[Pub. L. 93–319\], the Administrator of the Environmental Protection Agency shall certify the date which he determines is the earliest date that such plant or installation will be able to burn coal in compliance with all applicable emission limitations under the implementation plan.
 
-"(3) Any certification required under section 2 of the Energy Supply and Environmental Coordination Act of 1974 \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act \[Pub.L. 93–319\], or under this subsection may be provided in an order under section 113(d) of the Clean Air Act \[section 7413(d) of Title 42\]."
+"(3) Any certification required under section 2 of the Energy Supply and Environmental Coordination Act of 1974 \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act \[Pub. L. 93–319\], or under this subsection may be provided in an order under section 113(d) of the Clean Air Act \[section 7413(d) of Title 42\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

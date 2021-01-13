@@ -2,7 +2,7 @@
 
 Section 841, Pub. L. 93–203, title II, §201, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1950, set out the Congressional statement of purpose in enacting provisions relating to comprehensive employment and training services.
 
-A prior section 841, Pub. L. 93–203, title II, §201, Dec. 28, 1973, 87 Stat. 850; Pub. L. 93–567, title I, §106(a), Dec. 31, 1974, 88 Stat. 1849, provided for a Congressional statement of purpose with respect to a public service employment program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 841, Pub. L. 93–203, title II, §201, Dec. 28, 1973, 87 Stat. 850; Pub. L. 93–567, title I, §106(a), Dec. 31, 1974, 88 Stat. 1849, provided for a Congressionalstatement of purpose with respect to a public service employment program, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 811 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

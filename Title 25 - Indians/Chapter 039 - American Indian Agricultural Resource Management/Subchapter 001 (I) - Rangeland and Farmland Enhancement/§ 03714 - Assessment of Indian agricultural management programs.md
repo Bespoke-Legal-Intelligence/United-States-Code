@@ -10,7 +10,7 @@ The purposes of the assessment shall be—
 
 &emsp;(1) to establish a comprehensive assessment of the improvement, funding, and development needs for all Indian agricultural lands;
 
-&emsp;(2) to establish a comparison of management and funding provided to comparable lands owned or managed by the Federal Government through Federal agencies other than the Bureau; and
+&emsp;(2) to establish a comparison of management and funding provided to comparable lands owned or managed by the Federal Governmentthrough Federal agencies other than the Bureau; and
 
 &emsp;(3) to identify any obstacles to Indian access to Federal or private programs relating to agriculture or related rural development programs generally available to the public at large.
 
@@ -19,6 +19,8 @@ The purposes of the assessment shall be—
 Within one year after December 3, 1993, the Secretary shall provide the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate with a status report on the development of the comparative analysis required by this section and shall file a final report with the Congress not later than 18 months after December 3, 1993.
 
 (Pub. L. 103–177, title I, §104, Dec. 3, 1993, 107 Stat. 2016.)
+
+#### <b>Editorial Notes</b>
 
 #### Change of Name
 

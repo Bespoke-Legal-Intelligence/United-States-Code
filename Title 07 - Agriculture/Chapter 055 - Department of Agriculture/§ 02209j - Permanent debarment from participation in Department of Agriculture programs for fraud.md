@@ -8,7 +8,7 @@ Subject to subsection (b), the Secretary of Agriculture shall permanently debar 
 
 #### (1) Secretary determination
 
-&emsp;The Secretary may reduce a debarment under subsection (a) to a period of not lessthan 10 years if the Secretary considers it appropriate.
+&emsp;The Secretary may reduce a debarment under subsection (a) to a period of not less than 10 years if the Secretary considers it appropriate.
 
 #### (2) Food assistance
 

@@ -52,6 +52,8 @@ Pub. L. 96–350, §3(g), (j), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, 
 
 In subsection (b), the words "the commission of which was the object of the attempt or conspiracy" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (c)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.

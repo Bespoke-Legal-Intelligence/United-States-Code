@@ -126,7 +126,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretarymay, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $10,000,000; and
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (3) Requirements and conditions
 
-&emsp;Not later than 120 days after December 16, 2016, and as a precondition to amounts being expended from the Fund to carry out this subsection, the Secretary, in consultation with representatives of affected Indian tribes, shall develop and submit to Congress—
+&emsp;Not later than 120 days after December 16, 2016, and as a precondition to amounts beingexpended from the Fund to carry out this subsection, the Secretary, in consultation with representatives of affected Indian tribes, shall develop and submit to Congress—
 
 &emsp;&emsp;(A) programmatic goals to carry out this subsection that—
 
@@ -294,7 +294,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), in allocating amounts under paragraph (1)(B), the Secretary shall allocate not more than $10,000,000 to any individual dam describedin paragraph (2) during any consecutive 3-year period.
+&emsp;&emsp;&emsp;Subject to clause (ii), in allocating amounts under paragraph (1)(B), the Secretary shall allocate not more than $10,000,000 to any individual dam described in paragraph (2) during any consecutive 3-year period.
 
 #### (ii) Exception
 
@@ -400,7 +400,7 @@ In this section:
 
 #### (A) Hearings
 
-&emsp;&emsp;The Committee may hold such hearings, sit and act at such times and places, takesuch testimony, and receive such evidence as the Committee considers appropriate to carry out this paragraph.
+&emsp;&emsp;The Committee may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Committee considers appropriate to carry out this paragraph.
 
 #### (B) Information from Federal agencies
 
@@ -414,7 +414,7 @@ In this section:
 
 #### (C) Postal services
 
-&emsp;&emsp;The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+&emsp;&emsp;The Committee may use the United States mails in the same manner and under thesame conditions as other departments and agencies of the Federal Government.
 
 #### (D) Gifts
 
@@ -498,9 +498,11 @@ In this section:
 
 (Pub. L. 114–322, title III, §3101, Dec. 16, 2016, 130 Stat. 1740; Pub. L. 115–270, title IV, §4314, Oct. 23, 2018, 132 Stat. 3893.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat. 1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
+The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat.1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A)(iii)(I)(bb), (B)(ii)(I)(bb), (5)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

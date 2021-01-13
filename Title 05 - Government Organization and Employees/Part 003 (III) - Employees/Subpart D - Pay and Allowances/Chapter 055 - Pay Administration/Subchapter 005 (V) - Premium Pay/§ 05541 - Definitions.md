@@ -118,7 +118,7 @@ Aug. 18, 1959, Pub. L. 86–168, §202(c) 73 Stat. 389.
 
 July 17, 1959, Pub. L. 86–91, §10(a) (as applicable to the Federal Employees Pay Act of 1945, as amended), 73 Stat. 217.
 
-The section is revised as a definition section. The provisions of former section 901(d) are omitted as unnecessary because the sections referred to state theirapplication and there is no need to restate the application here.
+The section is revised as a definition section. The provisions of former section 901(d) are omitted as unnecessary because the sections referred to state their application and there is no need to restate the application here.
 
 In paragraph (1), the terms "Executive agency" and "military department" are substituted for the references in former section 901(a) and (e) to the executive branch, including Government-owned or controlled corporations, and the General Accounting Office in view of the definitions in sections 105 and 102.
 
@@ -137,6 +137,8 @@ In paragraph (2)(xiii), the words "as defined by section 901 of title 20" are ad
 The exception for officers and employees of the Inland Waterways Corporation in former section 902(b)(3) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -175,6 +177,8 @@ Par. (2)(xv). Pub. L. 95–426 substituted "International Communication Agency" 
 <b>1970</b>—Par. (2)(vi). Pub. L. 91–375 repealed cl. (vi) which excluded an employee in the postal field service from definition of "employee".
 
 <b>1967</b>—Par. (2)(xii). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey". See Historical and Revision Notes under section 2101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -216,7 +220,7 @@ Section 412(a)(2) of Pub. L. 95–105 provided that: "The amendments made by par
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -225,10 +229,6 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–329, title VI, §633(a), Sept. 30, 1994, 108 Stat. 2425, provided that: "This section \[enacting section 5545a of this title, amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under section 5545a of this title\] may be cited as the 'Law Enforcement Availability Pay Act of 1994'."
-
-#### Transfer of Functions
-
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 #### Availability of Premium Pay for Attorneys Employed in Department of Justice
 
@@ -263,6 +263,12 @@ In General.—Notwithstanding any other provision of law, the Drug Enforcement A
 "(b)
 
 Limitation.—The provisions of this section shall apply only to an employee who has received a bonus under this section before January 1, 1992. The provisions of subchapter III of chapter 45 of title 5, United States Code, shall apply to any employee who would otherwise be eligible to receive a bonus under this section, on and after such date."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Service, National Environmental Satellite Center, and ESSA Research Laboratories.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

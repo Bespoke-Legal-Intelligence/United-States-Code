@@ -8,7 +8,7 @@
 
 #### (2) Effectiveness of subscription commitment
 
-&emsp;Any commitment to make such subscription shall be effective only to such extent or in such amounts as are provided for in advance by appropriations Acts.
+&emsp;Any commitment to make such subscription shall be effective only to such extent or insuch amounts as are provided for in advance by appropriations Acts.
 
 #### (b) Limitations on authorization of appropriations
 
@@ -20,9 +20,13 @@ Any payment made to the United States by the Bank as a distribution of net incom
 
 (Pub. L. 101–513, title V, §562(c)(6), Nov. 5, 1990, 104 Stat. 2034.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1) and (2) of subsec. (a) were in the original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### First General Capital Increase
 

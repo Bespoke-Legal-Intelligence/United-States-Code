@@ -18,13 +18,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, title IV, §§40111(c), 40113(a)(2), title VI, §60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907,1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
+<b>1994</b>—Pub. L. 103–322, title IV, §§40111(c), 40113(a)(2), title VI, §60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–248 without corresponding amendment of chapter analysis.</i>
 

@@ -18,6 +18,8 @@ As used in this chapter—
 
 (Pub. L. 97–320, title VIII, §803, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 111–203, title X, §1083(a)(1), July 21, 2010, 124 Stat. 2080.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501(a)(2) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in par. (2)(A), is section 501(a)(2) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, which is set out as a note under section 1735f–7 of this title.
@@ -35,6 +37,8 @@ The National Housing Act, referred to in par. (2)(B), is act June 27, 1934, ch. 
 &emsp;"(C) involving any similar type of rate, method of determining return, term, repayment, or other variation not common to traditional fixed-rate, fixed-term transactions, including without limitation, transactions that involve the sharing of equity or appreciation;
 
 > described and defined by applicable regulation; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

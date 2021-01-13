@@ -24,6 +24,8 @@ Multiagency Technical Assistance Team.—(1) The Administrator, in consultation 
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2909.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under section 3601 of this title.

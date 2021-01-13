@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;(5) The terms "security" and "security interest" mean any interest in property which secures payment or performance of an obligation.
 
-(Pub. L. 90–321, title I, §181, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 257; amendedPub. L. 111–203, title X, §1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
+(Pub. L. 90–321, title I, §181, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, §1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
 
 #### References in Text
 

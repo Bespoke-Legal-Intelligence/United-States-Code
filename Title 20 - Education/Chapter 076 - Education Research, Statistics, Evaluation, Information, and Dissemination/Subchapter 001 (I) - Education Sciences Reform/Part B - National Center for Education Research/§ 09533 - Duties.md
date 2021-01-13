@@ -18,7 +18,7 @@ The Research Center shall—
 
 &emsp;&emsp;(A) uses objective and measurable indicators, including timelines, that are used to assess the progress and results of such research;
 
-&emsp;&emsp;(B) meets the procedures for peer review established by the Director under section9514(f)(5) of this title and the standards of research described in section 9534 of this title; and
+&emsp;&emsp;(B) meets the procedures for peer review established by the Director under section 9514(f)(5) of this title and the standards of research described in section 9534 of this title; and
 
 &emsp;&emsp;(C) includes both basic research and applied research, which shall include research conducted through field-initiated research and ongoing research initiatives;
 
@@ -98,7 +98,7 @@ Research carried out under subsection (a) through contracts, grants, or cooperat
 
 #### (6) Continuation of awards
 
-&emsp;The Director shall continue awards made to the national research and development centersthat are in effect on the day before November 5, 2002, in accordance with the terms of those awards and may renew them in accordance with paragraphs (4) and (5).
+&emsp;The Director shall continue awards made to the national research and development centers that are in effect on the day before November 5, 2002, in accordance with the terms of those awards and may renew them in accordance with paragraphs (4) and (5).
 
 #### (7) Disaggregation
 

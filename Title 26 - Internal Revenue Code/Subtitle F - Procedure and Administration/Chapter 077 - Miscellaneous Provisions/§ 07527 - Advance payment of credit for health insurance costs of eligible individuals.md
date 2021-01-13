@@ -46,7 +46,7 @@ For purposes of this section, the term "certified individual" means any individu
 
 &emsp;The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
 
-(Added Pub. L. 107–210, div. A, title II, §202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616; Pub. L. 112–40, title II, §241(b)(2), Oct. 21, 2011, 125 Stat. 418; Pub. L. 113–128, title V, §512(r), July 22, 2014, 128 Stat. 1712; Pub. L. 114–27, title IV, §407(c), June 29, 2015, 129 Stat. 382.)
+(Added Pub. L. 107–210, div. A, title II, §202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5,div. B, title I, §§1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616; Pub. L. 112–40, title II, §241(b)(2), Oct. 21, 2011, 125 Stat. 418; Pub. L. 113–128, title V, §512(r), July 22, 2014, 128 Stat. 1712; Pub. L. 114–27, title IV, §407(c), June 29, 2015, 129 Stat. 382.)
 
 #### References in Text
 
@@ -124,5 +124,5 @@ Nothing in the amendments made by title II of Pub. L. 107–210, other than prov
 
 #### Transitional Rule
 
-Pub. L. 111–5, div. B, title I, §1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: "The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act \[Feb. 17, 2009\]."
+Pub. L. 111–5, div. B, title I, §1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: "The Secretary of the Treasury shall not be required to make any paymentsunder section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act \[Feb. 17, 2009\]."
 

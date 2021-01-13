@@ -142,7 +142,7 @@ Participation of educational and research institutions.—In carrying out the pr
 
 &emsp;"(2)
 
-Use of nasa facilities.—In carrying out the program, the Administrator shall consider utilizing the existing capacity in aeronautics research at Langley Research Center, Glenn Research Center, and other appropriate facilities of NASA \[National Aeronautics and Space Administration\].
+Use of nasa facilities.—In carrying out the program, the Administrator shall consider utilizing the existing capacity in aeronautics research at Langley Research Center, Glenn Research Center \[renamed NASA John H. Glenn Research Center at the Neil A. Armstrong Test Facility by Pub. L. 116–263, 134 Stat. 3316\], and other appropriate facilities of NASA \[National Aeronautics and Space Administration\].
 
 "(d)
 
@@ -186,7 +186,7 @@ Pub. L. 112–95, title IX, §917, Feb. 14, 2012, 126 Stat. 145, provided that:
 
 "(a)
 
-In General.—Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\], to the extent practicable, shall implement a research program for the identification or development of appropriate and effective air cleaning technology and sensortechnology for the engine and auxiliary power unit bleed air supplied to the passenger cabin and flight deck of a pressurized aircraft.
+In General.—Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\], to the extent practicable, shall implement a research program for the identification or development of appropriate and effective air cleaning technology and sensor technology for the engine and auxiliary power unit bleed air supplied to the passenger cabin and flight deck of a pressurized aircraft.
 
 "(b)
 
@@ -222,7 +222,7 @@ Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided tha
 
 "(a)
 
-Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
+Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12,2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
 &emsp;"(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
 

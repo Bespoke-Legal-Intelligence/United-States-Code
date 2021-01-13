@@ -36,7 +36,7 @@ When Certain Agencies Are Unable To Agree or Fail To Act.—In any instance in w
 
 (e)
 
-Oversight of Procurement Regulations of Other Agencies.—The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that the rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (b).
+Oversight of Procurement Regulations of Other Agencies.—The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that the rule orregulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (b).
 
 (f)
 
@@ -95,6 +95,8 @@ Pub. L. 93–400, §6(f), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct
 Pub. L. 93–400, §6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §4, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §5, Dec. 1, 1983, 97 Stat. 1327.
 
 In subsection (c)(2), the text of 41:405a (1st sentence relating to promulgating a single, simplified, uniform Federal procurement regulation) is omitted as superseded by 41:405(a) because of section 11 of the Office of Federal Procurement Policy Act Amendments of 1979 (Public Law 96–83, 93 Stat. 652).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Supersedure of Inconsistent Statutory Provisions
 

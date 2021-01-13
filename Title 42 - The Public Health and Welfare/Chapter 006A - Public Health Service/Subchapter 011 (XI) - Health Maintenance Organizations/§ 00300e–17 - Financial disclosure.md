@@ -12,7 +12,7 @@ Each health maintenance organization shall, in accordance with regulations of th
 
 &emsp;&emsp;(A) any sale or exchange, or leasing of any property between the health maintenance organization and a party in interest;
 
-&emsp;&emsp;(B) any furnishing for consideration of goods, services (including management services), or facilities between the health maintenance organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
+&emsp;&emsp;(B) any furnishing for consideration of goods, services (including management services), or facilities between the health maintenance organization and a party in interest, but not including salaries paid to employees for services provided in the normal course oftheir employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
 
 &emsp;&emsp;(C) any lending of money or other extension of credit between a health maintenance organization and a party in interest.
 

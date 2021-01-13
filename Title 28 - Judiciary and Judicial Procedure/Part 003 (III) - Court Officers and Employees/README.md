@@ -21,6 +21,8 @@
 
 Chapter 59 was renumbered as Chapter 57 but without change in its section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–315, §12(b)(3), Oct. 30, 1998, 112 Stat. 2998, substituted "Alternative Dispute Resolution" for "Arbitration" as item for chapter 44.
@@ -42,6 +44,8 @@ Pub. L. 97–164, title I, §122(a), Apr. 2, 1982, 96 Stat. 36, struck out item 
 <b>1968</b>—Pub. L. 90–578, title I, §102(a), Oct. 17, 1968, 82 Stat. 1114, substituted "United States Magistrates" for "United States Commissioners" as item for chapter 43.
 
 <b>1967</b>—Pub. L. 90–219, title II, §204, Dec. 20, 1967, 81 Stat. 669, added item for chapter 42.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

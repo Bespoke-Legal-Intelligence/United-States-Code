@@ -92,9 +92,13 @@ July 4, 1966, Pub. L. 89–488 §§2(e), 3(a), 80 Stat. 252.
 
 In subsection (a), the words "Notwithstanding paragraph (3) of this subsection" are substituted for "Notwithstanding any other provision of this section" for clarity. The word "he" is substituted for "he or she" in two places on authority of 1 U.S.C. 1. The words "section 8101 of this title" are substituted for "section 10(M) of this Act" to reflect the codification of that section in title 5.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsec. (a)(2). Pub. L. 93–416 substituted provisions of subpars. (A), (B) and (C) for "wholly dependent on the employee for support because of his own physical or mental disability".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) for natural resources management that implements approved plans and agreements.
 
-(2) There shall be deposited into the reserve account the total amount received by theUnited States as proceeds from the sale of forest products sold under subsections (a) and (b) less—
+(2) There shall be deposited into the reserve account the total amount received by the United States as proceeds from the sale of forest products sold under subsections (a) and (b) less—
 
 &emsp;(A) reimbursements of appropriations made under subsection (d), and
 

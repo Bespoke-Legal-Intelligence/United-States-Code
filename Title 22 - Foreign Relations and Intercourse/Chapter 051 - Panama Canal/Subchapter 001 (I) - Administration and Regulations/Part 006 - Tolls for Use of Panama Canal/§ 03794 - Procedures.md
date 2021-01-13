@@ -16,7 +16,7 @@ The Commission shall publish in the Federal Register notice of any proposed chan
 
 #### (b) Revision of proposed rules of measurement or rates of tolls
 
-After consideration of the relevant matter presented, the Commission may revise the proposed rules of measurement or rates of tolls, as the case may be, except that, in the case of rates of tolls, if such revision proposes rates greater than those originally proposed, a new analysis of the proposed rates shall be made available to the public, and a new notice of the revised proposal shall be published in the Federal Register apprising interested persons of the opportunity to participate further in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the new notice. The procedure set forth in this subsection shall be followed for any subsequent revision of the proposed rates of tolls by the Commission which proposes rates higher than those in the preceding proposal.
+After consideration of the relevant matter presented, the Commission may revise the proposed rules of measurement or rates of tolls, as the case may be, except that, in the case of rates of tolls, if such revision proposes rates greater than those originally proposed, a new analysis of the proposed rates shall be made available to the public, and a new notice of the revised proposal shall be published in the Federal Register apprising interested persons of the opportunityto participate further in the proceedings through submission of written data, views, or arguments, and participation in a public hearing to be held not less than 30 days after the date of publication of the new notice. The procedure set forth in this subsection shall be followed for any subsequent revision of the proposed rates of tolls by the Commission which proposes rates higher than those in the preceding proposal.
 
 #### (c) Publication of notice of changes in rules of measurement and rates of tolls in Federal Register
 
@@ -27,6 +27,8 @@ After the proceedings have been conducted pursuant to subsections (a) and (b), t
 Action to change the rules of measurement for the Panama Canal or the rates of tolls for the use of the Canal pursuant to this part shall be subject to judicial review in accordance with chapter 7 of title 5.
 
 (Pub. L. 96–70, title I, §1604, Sept. 27, 1979, 93 Stat. 490; Pub. L. 104–106, div. C, title XXXV, §3528, Feb. 10, 1996, 110 Stat. 641.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

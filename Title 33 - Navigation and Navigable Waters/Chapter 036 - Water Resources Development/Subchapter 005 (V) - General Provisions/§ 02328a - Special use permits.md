@@ -68,11 +68,15 @@
 
 (Pub. L. 113–121, title I, §1047, June 10, 2014, 128 Stat. 1255.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 Section is comprised of section 1047 of Pub. L. 113–121. Subsecs. (d) and (e) of section 1047 of Pub. L. 113–121 amended sections 569c and 2339 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

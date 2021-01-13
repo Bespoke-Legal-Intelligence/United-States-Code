@@ -54,7 +54,7 @@
 
 (4) Appropriate officials of a State or a political subdivision of a State may make recommendations to the Postal Service concerning measures necessary to meet the requirements of paragraphs (1) and (2). Such officials may also make recommendations to the Postal Service concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Postal Service shall give due consideration to any such recommendations.
 
-(5) In addition to consulting with local and State officials under paragraph (3), the PostalService shall establish procedures for soliciting, assessing, and incorporating local community input on real property and land use decisions.
+(5) In addition to consulting with local and State officials under paragraph (3), the Postal Service shall establish procedures for soliciting, assessing, and incorporating local community input on real property and land use decisions.
 
 (6) For purposes of this subsection, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 
@@ -70,7 +70,7 @@
 
 (2) In any circumstance not covered by paragraph (1), the Department of Justice shall, under section 411, furnish the Postal Service such legal representation as it may require, except that, with the prior consent of the Attorney General, the Postal Service may, in any such circumstance, employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
 
-(3)(A) In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise a party, the Commission shall be permitted to appear as a party on its own motion and as of right.
+(3)(A) In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise aparty, the Commission shall be permitted to appear as a party on its own motion and as of right.
 
 (B) The Department of Justice shall, under such terms and conditions as the Commission and the Attorney General shall consider appropriate, furnish the Commission such legal representation as it may require in connection with any such action, suit, or proceeding, except that, with the prior consent of the Attorney General, the Commission may employ attorneys by contract or otherwise for that purpose.
 
@@ -96,6 +96,8 @@ July 27, 1956, ch. 748, 70 Stat. 678, §1302 (last sentence); added Aug. 12, 197
 
 The words "Notwithstanding the other provisions of this section" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of July 5, 1946, referred to in subsec. (d)(2)(A), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, popularly known as the Trademark Act of 1946 and also as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
@@ -117,6 +119,8 @@ Subsecs. (d) to (h). Pub. L. 109–435, §404(a), added subsecs. (d) to (h) and 
 "(e) A judgment against the Government of the United States arising out of activities of the Postal Service shall be paid by the Postal Service out of any funds available to the Postal Service."
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–258 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

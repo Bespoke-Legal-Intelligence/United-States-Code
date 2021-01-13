@@ -14,7 +14,7 @@ The Secretary of State, in consultation with the Secretary of Commerce and actin
 
 #### Codification
 
-Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna ConventionsAct, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
+Section 7(c) of Pub. L. 105–42, which directed the addition of this section at the end of the Tuna Conventions Act, was executed by adding this section at the end of the Tuna Conventions Act of 1950, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -22,5 +22,5 @@ Section 7(c) of Pub. L. 105–42, which directed the addition of this section at
 
 #### Effective Date
 
-Section effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) of this title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
+Section effective upon certification by Secretary of Commerce that sufficient funding is available to complete first year of study required by section 1414a(a) ofthis title and that study has commenced, and certification by Secretary of State to Congress that binding resolution of Inter-American Tropical Tuna Commission or other legally binding instrument establishing International Dolphin Conservation Program has been adopted and is in force, see section 8 of Pub. L. 105–42, set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 

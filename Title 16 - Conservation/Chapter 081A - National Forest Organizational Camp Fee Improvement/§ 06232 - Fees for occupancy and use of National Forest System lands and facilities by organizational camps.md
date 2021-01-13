@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) The total number of acres of National Forest System lands authorized for the organizational camp.
 
-&emsp;&emsp;(B) The estimated per-acre market value of land and buildings in the county where the camp is located, as reported in the most recent Census of Agriculture conducted by the National Agricultural Statistics Service.
+&emsp;&emsp;(B) The estimated per-acre market value of land and buildings in the county where the camp is located, as reported in the mostrecent Census of Agriculture conducted by the National Agricultural Statistics Service.
 
 #### (2) Annual adjustment
 

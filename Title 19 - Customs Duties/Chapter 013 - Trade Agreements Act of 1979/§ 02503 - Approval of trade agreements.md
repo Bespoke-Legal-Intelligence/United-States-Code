@@ -24,7 +24,7 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 #### (3) Limitation on acceptance concerning major industrial countries
 
-&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) <sup>1</sup> of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+&emsp;The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6),\(7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) <sup>1</sup> of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
 &emsp;&emsp;(A) that country is not a major factor in trade in the products covered by that agreement,
 
@@ -80,10 +80,6 @@ Section 2136(c) of this title, referred to in subsec. (b)(2)(B), was repealed, a
 
 This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
-#### Delegation of Functions
-
-Functions of the President under subsec. (b) of this section delegated to the United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
-
 #### Approval and Implementation of Protocol to the Trade Agreement Relating to Customs Valuation
 
 Pub. L. 96–490, §1, Dec. 2, 1980, 94 Stat. 2556, provided that:
@@ -110,13 +106,17 @@ Limitation on acceptance of protocol.—Paragraph (3) of section 2(b) of the Tra
 
 "(c)
 
-Application of Protocol.—Paragraph (2) of section 2(b) of such Act of 1979 (19 U.S.C. 2503(b)(2)) (relating to the application of agreements between theUnited States and other countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is accepted by the President under paragraph (1) of such section 2(b).
+Application of Protocol.—Paragraph (2) of section 2(b) of such Act of 1979 (19 U.S.C. 2503(b)(2)) (relating to the application of agreements between the United States and other countries) applies to the Protocol and for such purpose the Protocol shall be treated as a trade agreement that is accepted by the President under paragraph (1) of such section 2(b).
 
 "(d)
 
 Relationship of Protocol to United States Law.—Subsections (a), (b), (c), and (f) of section 3 of such Act of 1979 (19 U.S.C. 2504(a), (b), (c), and (f) \[19 U.S.C. 2504(a), (b), (c), and (d)\]) (relating to the priority of domestic law in case of conflict, implementing regulations, statutory changes to implement agreement amendments, and disclaimer regarding the creation of any private right of action or remedy) apply to the Protocol and for such purpose the Protocol shall be treated as a trade agreement approved by the Congress under section 2(a) of such Act of 1979, 19 U.S.C. 2503(a)."
 
 \[The Protocol was accepted for the United States on Dec. 30, 1980.\]
+
+#### Delegation of Functions
+
+Functions of the President under subsec. (b) of this section delegated to the United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 
 #### Determination Regarding the Multilateral Trade Negotiations
 
@@ -186,7 +186,7 @@ a. With respect to the Agreement on Interpretation and Application of Articles V
 
 &emsp;(iii) in accordance with section 2(b)(3)(C) of the Act (93 Stat. 148), a significant portion of United States trade will benefit from these agreements, notwithstanding the anticipated short delay in acceptance by Japan, and it is in the national interest of the United States to accept these agreements.
 
-b. The conditions in section 701(b)(3)(A), (B) and (C) of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) \[19 U.S.C. 1671(b)(3)(A), (B), (C)\] willhave been met with respect to Venezuela, Honduras, Nepal, North Yemen, El Salvador, Paraguay and Liberia.
+b. The conditions in section 701(b)(3)(A), (B) and (C) of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) \[19 U.S.C. 1671(b)(3)(A), (B), (C)\] will have been met with respect to Venezuela, Honduras, Nepal, North Yemen, El Salvador, Paraguay and Liberia.
 
 c. With respect to the International Dairy Arrangement,
 

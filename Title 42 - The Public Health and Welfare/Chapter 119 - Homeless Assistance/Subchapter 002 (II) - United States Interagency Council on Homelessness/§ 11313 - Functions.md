@@ -48,7 +48,7 @@ The Council shall—
 
 In carrying out subsection (a), the Council may—
 
-&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developingand coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
+&emsp;(1) arrange national, regional, State, and local conferences for the purpose of developing and coordinating effective programs and activities to assist homeless individuals and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made; <sup>2</sup>
 
 &emsp;(2) publish a newsletter concerning Federal, State, and local programs that are effectively meeting the needs of homeless individuals.
 
@@ -98,7 +98,7 @@ Subsec. (a)(5). Pub. L. 111–22, §1004(a)(3)(A), (C), redesignated par. (4) as
 
 Subsec. (a)(6) to (13). Pub. L. 111–22, §1004(a)(3)(A), (D)–(G), added pars. (6) to (8), par. (9) relating to joint Federal agency and other initiatives to fulfill the goals of the agency, and pars. (12) and (13), redesignated former par. (5) as par. (9) relating to collection and dissemination of information, and redesignated former pars. (6) and (7) as (10) and (11), respectively.
 
-Subsec. (b)(1). Pub. L. 111–22, §1004(a)(4), substituted "national" for "Federal" and "and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made;" for "; and".
+Subsec. (b)(1). Pub. L. 111–22, §1004(a)(4), substituted "national" for "Federal" and "and pay for expenses ofattendance at meetings which are concerned with the functions or activities for which the appropriation is made;" for "; and".
 
 <b>1988</b>—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted "(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)" for ", through personnel employed by the Council in each of the 10 standard Federal regions," in introductory provisions.
 

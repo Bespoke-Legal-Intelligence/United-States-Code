@@ -22,7 +22,9 @@ Aug. 19, 1964, Pub. L. 88–449, §10(b) (2d sentence cl. (2)), 78 Stat. 498.
 
 The word "salaries" is omitted as included in "compensation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 205 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 205 of House Document No. 103–7.
 

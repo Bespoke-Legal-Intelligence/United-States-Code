@@ -12,7 +12,7 @@
 
 &emsp;(D) The General Advisory Committee shall be invited to attend all non-executive meetings of the United States delegation and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
 
-&emsp;(E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The General Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;(E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The General Advisory Committee shall publish and make available to the publica statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (2) Information sharing
 
@@ -80,7 +80,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1)(E), is Pub. L.
 
 Subsec. (b). Pub. L. 114–81, §205(2), substituted "Scientific Advisory Subcommittee" for "Functions" in heading.
 
-Subsec. (b)(1). Pub. L. 114–81, §205(2), added par. (1) and struck out former par. (1) which read as follows: "The General Advisory Committee shall be invited tohave representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions."
+Subsec. (b)(1). Pub. L. 114–81, §205(2), added par. (1) and struck out former par. (1) which read as follows: "The General Advisory Committee shall be invited to have representatives attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigations, reports, recommendations, and regulations of the Commission. The General Advisory Committee may attend all meetings of the international commissions to which they are invited by such commissions."
 
 Subsec. (b)(3). Pub. L. 114–81, §205(3), substituted "General Advisory Committee" for "General Advisory Subcommittee".
 

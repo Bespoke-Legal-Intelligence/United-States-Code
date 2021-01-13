@@ -12,7 +12,7 @@ In the case of each failure to file a statement of a payment to another person r
 
 #### (b) Failure to report tips
 
-In the case of failure by an employee to report to his employer on the date and in the manner prescribed therefor any amount of tips required to be so reported by section 6053(a) which are wages (as defined in section 3121(a)) or which are compensation (as defined in section 3231(e)), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be paid by the employee, in addition to the tax imposed by section 3101 or section 3201\(as the case may be) with respect to the amount of tips which he so failed to report, an amount equal to 50 percent of such tax.
+In the case of failure by an employee to report to his employer on the date and in the manner prescribed therefor any amount of tips required to be so reported by section 6053(a) which are wages (as defined in section 3121(a)) or which are compensation (as defined in section 3231(e)), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be paid by the employee, in addition to the tax imposed by section 3101 or section 3201 (as the case may be) with respect to the amount of tips which he so failed to report, an amount equal to 50 percent of such tax.
 
 #### (c) Returns by exempt organizations and by certain trusts
 
@@ -66,11 +66,11 @@ In the case of failure by an employee to report to his employer on the date and 
 
 &emsp;&emsp;&emsp;(i) the 5 percent limitation in the second sentence of paragraph (1)(A) shall not apply,
 
-&emsp;&emsp;&emsp;(ii) in the case of any trust with gross income in excess of $250,000, in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day duringwhich a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and
+&emsp;&emsp;&emsp;(ii) in the case of any trust with gross income in excess of $250,000, in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and
 
 &emsp;&emsp;&emsp;(iii) the third sentence of paragraph (1)(A) shall be disregarded.
 
-> &emsp;&emsp;In addition to any penalty imposed on the trust pursuant to this subparagraph, if the person required to file such return knowingly fails to file the return, such penalty shall also be imposed on such person who shall be personally liable for such penalty.
+> &emsp;&emsp;In addition to any penalty imposed on the trust pursuant to this subparagraph, if theperson required to file such return knowingly fails to file the return, such penalty shall also be imposed on such person who shall be personally liable for such penalty.
 
 #### (3) Disclosure under section 6033(a)(2)
 
@@ -138,7 +138,7 @@ In the case of failure by an employee to report to his employer on the date and 
 
 #### (1) Registration
 
-&emsp;In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the dateprescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $10 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the total amount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $50,000.
+&emsp;In the case of any failure to file a registration statement required under section 6057(a) (relating to annual registration of certain plans) which includes all participants required to be included in such statement, on the date prescribed therefor (determined without regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause, there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $10 for each participant with respect to whom there is a failure to file, multiplied by the number of days during which such failure continues, but the totalamount imposed under this paragraph on any person for any failure to file with respect to any plan year shall not exceed $50,000.
 
 #### (2) Notification of change of status
 
@@ -184,7 +184,7 @@ In the case of each failure to provide a certification as required by section 14
 
 #### (k) <sup>1</sup> Failure to make reports required under section 1202
 
-In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to$50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting "$100" for "$50". In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number of such years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
+In the case of a failure to make a report required under section 1202(d)(1)(C) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard, the preceding sentence shall be applied by substituting "$100" for "$50". In the case of a report covering periods in 2 or more years, the penalty determined under preceding provisions of this subsection shall be multiplied by the number ofsuch years. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 #### (l) Failure to file return with respect to certain corporate transactions
 
@@ -214,7 +214,7 @@ In the case of each failure to provide a notice as required by section 83(i)(6),
 
 #### Codification
 
-Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 without specifying the act to be amended, were executed to this section, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Sections 1201(b)(2) and 1223(d) of Pub. L. 109–280, which directed the amendment of section 6652 withoutspecifying the act to be amended, were executed to this section, which is section 6652 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(b) of Pub. L. 99–514 (enacting subsec. (l)) had not been enacted. Subsequent to enactment by Pub. L. 99–514, subsec. (l) was amended by Pub. L. 100–203, Pub. L. 100–647, and Pub. L. 101–239. See 1989, 1988, and 1987 Amendment notes below.
 
@@ -302,7 +302,7 @@ Subsec. (i). Pub. L. 104–188, §1455(c), substituted "$100" and "$50,000" for 
 
 Pub. L. 101–239, §7841(d)(5)(A), redesignated the subsection relating to information with respect to includible employee benefits as (k), see Codification note above.
 
-Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 99–514, §1151(b), had not been enacted, see Codification note above and 1986 Amendment note below.
+Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 99–514, §1151(b), had not beenenacted, see Codification note above and 1986 Amendment note below.
 
 Subsec. (l). Pub. L. 101–239, §7208(b)(2), added subsec. (l) and redesignated former subsec. (l) as (m).
 
@@ -384,7 +384,7 @@ Subsec. (k). Pub. L. 98–397, §207(b), redesignated subsec. (j), relating to a
 
 <b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–67, §105(b)(1)(B), struck out cls. (ii), (iii), and (iv), redesignated cls. (v) and (vi) as (ii) and (iii), respectively, and in cl. (iii), as so redesignated, struck out "6042(e), 6044(f), 6049(e), or" before "6051(d)".
 
-Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redesignated former par. (2) as (3), and inpar. (3), as so redesignated, inserted references to paragraph (2) in provisions preceding subpar. (A) and in provisions of subpar. (A) preceding cl. (i).
+Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redesignated former par. (2) as (3), and in par. (3), as so redesignated, inserted references to paragraph (2) in provisions preceding subpar. (A) and in provisions of subpar. (A) preceding cl. (i).
 
 Subsec. (a). Pub. L. 97–448, which directed that "or" be struck out at end of subpar. (F) of par. (1), "or" be inserted at end of par. (2), a new par. (3) be added, and that in provision following par. (3), "paragraph (2) or (3)" be substituted for "paragraph (2)", was executed by striking out "or" at end of subpar. (A)(vi) of par. (1), inserting "or" at end of subpar. (B)(iv) of par. (1), redesignating par. (3) as subpar. (C) and adding such subpar. (C), to par. (1), and in provision following subpar. (C) substituting "subparagraph (B) or (C)" for "subparagraph (B)", to reflect the probable intent of Congress and the intervening amendment of subsec. (a) by section 315(a) of Pub. L. 97–248 which redesignated former par. (1) as subpar. (A), former subpars. (A) to (F) as cls. (i) to (vi), and former par. (2) as subpar. (B), and in provision following subpar. (B) as so redesignated, substituted "subparagraph (B)" for "paragraph (2)".
 
@@ -442,7 +442,7 @@ Subsec. (c). Pub. L. 87–834 redesignated former subsec. (b) as (c).
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. O, title IV, §403(d), Dec. 20, 2019, 133 Stat. 3180, provided that: "The amendments made by this section \[amending this section\] shall apply toreturns, statements, and notifications required to be filed, and notices required to be provided, after December 31, 2019."
+Pub. L. 116–94, div. O, title IV, §403(d), Dec. 20, 2019, 133 Stat. 3180, provided that: "The amendments made by this section \[amending this section\] shall apply to returns, statements, and notifications required to be filed, and notices required to be provided, after December 31, 2019."
 
 #### Effective Date of 2017 Amendment
 
@@ -622,11 +622,11 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–167, §7(c), Dec. 29, 1979, 93 Stat. 1277, provided that: "The amendments made by this section\[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979."
+Pub. L. 96–167, §7(c), Dec. 29, 1979, 93 Stat. 1277, provided that: "The amendments made by this section \[amending this section and sections 6039 and 6678 of this title\] shall apply with respect to calendar years beginning after 1979."
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1207(e)(3)(B), (C) of Pub. L. 94–455 applicable to calendar years beginning after Oct. 4, 1976, see section 1207(f)(4) of Pub. L. 94–455, set out as a note under section 3121 of this title.
+Amendment by section 1207(e)(3)(B), (C) of Pub. L. 94–455 applicable to calendar years beginning after Oct.4, 1976, see section 1207(f)(4) of Pub. L. 94–455, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1974 Amendment
 

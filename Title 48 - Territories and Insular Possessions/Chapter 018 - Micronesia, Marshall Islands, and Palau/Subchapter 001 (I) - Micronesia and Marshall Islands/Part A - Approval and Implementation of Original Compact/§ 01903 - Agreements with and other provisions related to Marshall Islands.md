@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have an impact upon United States jurisdictions, and propose measures which the United States andthe Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have animpact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
 
 #### (b) Economic development plans review process
 
@@ -76,7 +76,7 @@
 
 #### (e) Section 177 Agreement
 
-(1) In furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made bythe United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
+(1) In furtherance of the purposes of Article I of the Subsidiary Agreement for Implementation of Section 177 of the Compact, the payment of the amount specified therein shall be made by the United States under Article I of the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") only after the Government of the Marshall Islands has notified the President of the United States as to which investment management firm has been selected by such Government to act as Fund Manager under Article I of the Section 177 Agreement.
 
 (2) In the event that the President determines that an investment management firm selected by the Government of the Marshall Islands does not meet the requirements specified in Article I of the Section 177 Agreement, the United States shall invoke the conference and dispute resolution procedures of Article II of Title Four of the Compact. Pending the resolution of such a dispute and until a qualified Fund Manager has been designated, the Government of the Marshall Islands shall place the funds paid by the United States pursuant to Article I of the Section 177 Agreement into an interest-bearing escrow account. Upon designation of a qualified Fund Manager, all funds in the escrow account shall be transferred to the control of such Fund Manager for management pursuant to the Section 177 Agreement.
 

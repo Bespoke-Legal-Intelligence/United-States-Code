@@ -16,7 +16,9 @@ In this chapter:
 
 (Pub. L. 101–240, title VII, §731, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1113.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 101–240, title VII, §739, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1117, provided that: "Except as otherwise provided in this part \[part C (§§731–739) of title VII of Pub. L. 101–240, enacting this chapter\], this part takes effect on October 1, 2005."
+Pub. L. 101–240, title VII, §739, as added Pub. L. 109–58, title XVI, §1611, Aug. 8, 2005, 119 Stat. 1117, providedthat: "Except as otherwise provided in this part \[part C (§§731–739) of title VII of Pub. L. 101–240, enacting this chapter\], this part takes effect on October 1, 2005."
 

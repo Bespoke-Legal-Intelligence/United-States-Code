@@ -40,6 +40,8 @@ In this chapter:
 
 (Pub. L. 108–199, div. D, title VI, §603, Jan. 23, 2004, 118 Stat. 211; Pub. L. 108–447, div. D, title V, §534(q), Dec. 8, 2004, 118 Stat. 3008.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VI of Pub. L. 108–199, div. D, Jan. 23, 2004, 118 Stat. 211, which is classified generally to this chapter. For complete classification of this title to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -47,6 +49,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 #### Amendments
 
 <b>2004</b>—Par. (8). Pub. L. 108–447 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

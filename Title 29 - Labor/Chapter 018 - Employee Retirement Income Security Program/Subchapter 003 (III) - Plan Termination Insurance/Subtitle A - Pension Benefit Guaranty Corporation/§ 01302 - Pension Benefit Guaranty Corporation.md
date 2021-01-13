@@ -38,7 +38,7 @@ The Director shall be accountable to the board of directors. The Director shall 
 
 (1) The board of directors of the corporation consists of the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
 
-(2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at a meeting at which a quorum is present shall be the act of the board of directors.
+(2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at ameeting at which a quorum is present shall be the act of the board of directors.
 
 (3) Each member of the board of directors shall designate in writing an official, not below the level of Assistant Secretary, to serve as the voting representative of such member on the board. Such designation shall be effective until revoked or until a date or event specified therein. Any such representative may refer for board action any matter under consideration by the designating board member, but such representative shall not count toward establishment of a quorum as described under paragraph (2).
 
@@ -78,7 +78,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (h) Advisory committee to corporation
 
-(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
+(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant andPlan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
@@ -114,9 +114,11 @@ The corporation shall have a risk management officer whose duties include evalua
 
 (Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(l), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935; Pub. L. 112–141, div. D, title II, §§40231(a)–(d), 40232(b), July 6, 2012, 126 Stat. 853–855, 857.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962,76 Stat. 265, as amended, which is not classified to the Code.
 
 This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -159,6 +161,8 @@ Subsec. (k). Pub. L. 112–141, §40231(c), added subsec. (k).
 Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
 
 <b>1976</b>—Subsec. (g)(1). Pub. L. 94–455 exempted corporation from all taxation now or hereafter imposed by United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act, and chapter 23 of title 26, relating to Federal Unemployment Tax Act).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

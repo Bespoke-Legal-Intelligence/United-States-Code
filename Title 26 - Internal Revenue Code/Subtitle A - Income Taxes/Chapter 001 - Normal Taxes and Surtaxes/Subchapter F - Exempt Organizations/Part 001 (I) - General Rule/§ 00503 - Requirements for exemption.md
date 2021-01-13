@@ -8,7 +8,7 @@
 
 #### (2) Taxable years affected
 
-&emsp;An organization described in paragraph (1) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+&emsp;An organization described in paragraph (1) shall be denied exemption from taxation undersection 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 
 #### (b) Prohibited transactions
 
@@ -36,7 +36,7 @@ Any organization described in subsection (a)(1) which is denied exemption under 
 
 #### (e) Special rules
 
-For purposes of subsection (b)(1), a bond, debenture, note, or certificate or other evidence ofindebtedness (hereinafter in this subsection referred to as "obligation") shall not be treated as a loan made without the receipt of adequate security if—
+For purposes of subsection (b)(1), a bond, debenture, note, or certificate or other evidence of indebtedness (hereinafter in this subsection referred to as "obligation") shall not be treated as a loan made without the receipt of adequate security if—
 
 &emsp;(1) such obligation is acquired—
 
@@ -62,7 +62,7 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 &emsp;(2) the making or renewal, as the case may be, is approved in writing as an investment which is consistent with the exempt purposes of the trust by a trustee who is independent of the employer, and no other such trustee had previously refused to give such written approval; and
 
-&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer, without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
+&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer,without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
 
 > For purposes of paragraph (2), the term "trustee" means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an election to be exercised by an organization so as to constitute a savings clause with reference to the amendment, see section 2003(c) of Pub. L. 93–406, set out as an Effective Date; Savings Provisions note under section 4975 of this title.
+Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an election to be exercised by anorganization so as to constitute a savings clause with reference to the amendment, see section 2003(c) of Pub. L. 93–406, set out as an Effective Date; Savings Provisions note under section 4975 of this title.
 
 #### Effective Date of 1969 Amendment
 

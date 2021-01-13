@@ -84,7 +84,7 @@
 
 #### (B) Recredit pending investigation
 
-&emsp;&emsp;If the bank has not yet determined that the consumer's claim is valid before the end of the 10th business day after the business day on which the consumer submitted the claim, the bank shall recredit the consumer's account for—
+&emsp;&emsp;If the bank has not yet determined that the consumer's claim is valid before the end of the 10th business day after the businessday on which the consumer submitted the claim, the bank shall recredit the consumer's account for—
 
 &emsp;&emsp;&emsp;(i) the lesser of the amount of the substitute check that was charged against the consumer account, or $2,500, together with interest if the account is an interest-bearing account, no later than the end of such 10th business day; and
 
@@ -164,7 +164,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (g) Other claims not affected
 
-Providing a recredit in accordance with this section shall not absolve the bank from liability for a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 5005 or 5009 of this title.
+Providing a recredit in accordance with this section shall not absolve the bank from liabilityfor a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 5005 or 5009 of this title.
 
 #### (h) Clarification concerning consumer possession
 
@@ -175,6 +175,8 @@ A consumer who was provided a substitute check may make a claim for an expedited
 This section shall only apply to customers who are consumers.
 
 (Pub. L. 108–100, §7, Oct. 28, 2003, 117 Stat. 1182.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

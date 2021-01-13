@@ -26,7 +26,7 @@ Each annual report required by subsection (a) shall contain—
 
 &emsp;(7) a description of the progress made by the United States Executive Director of the International Monetary Fund with respect to the goals of section 286kk of this title;
 
-&emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive roleof the poor in the economies of the nations which are borrowers from such banks;
+&emsp;(8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
 &emsp;(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup>1</sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
@@ -74,7 +74,9 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 &emsp;The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L.105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–208 inserted "Bank for Economic Cooperation and Development in the Middle East and North Africa," after "Inter-American Development Bank".
 
 <b>1990</b>—Subsec. (c)(2). Pub. L. 101–513 inserted "European Bank for Reconstruction and Development," before "International Development Association,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -200,7 +204,7 @@ Report.—On the termination of the Commission, the Commission shall submit to t
 
 &emsp;"(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
 
-&emsp;"(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards,payment systems, and safety and soundness principles for financial institutions.
+&emsp;"(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
 
 &emsp;"(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 

@@ -40,7 +40,7 @@ Contingency Program Management Matters Covered.—The joint policy for contingen
 
 Contingency Contracting Matters Covered.—(1) The joint policy for contingency contracting required by subsection (a) shall, at a minimum, provide for the following:
 
-&emsp;(A) The designation of a senior commissioned officer or civilian member of the seniorexecutive service in each military department with the responsibility for administering the policy.
+&emsp;(A) The designation of a senior commissioned officer or civilian member of the senior executive service in each military department with the responsibility for administering the policy.
 
 &emsp;(B) The assignment of a senior commissioned officer with appropriate acquisition experience and qualifications to act as head of contingency contracting during combat operations, post-conflict operations, and contingency operations, who shall report directly to the commander of the combatant command in whose area of responsibility the operations occur.
 
@@ -76,7 +76,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Contingency contracting personnel.—The term "contingency contracting personnel" means members of the armed forces and civilian employees of the Department of Defense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
+Contingency contracting personnel.—The term "contingency contracting personnel" means members of the armed forces and civilian employees of the Department ofDefense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
 
 &emsp;(2)
 
@@ -98,13 +98,55 @@ Contingency program management.—The term "contingency program management" mean
 
 Requirements definition.—The term "requirements definition" means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 
-(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; amended Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245; Pub. L. 111–84, div. A, title X, §1073(a)(23), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; amended Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245; Pub. L. 111–84, div. A, title X, §1073(a)(23), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 116–283, div. A, title XVIII, §1810(b), Jan. 1, 2021, 134 Stat. 4162.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1810(b), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3151 of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3152 of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3153 of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3154(a) of this title;</i>
+
+<i>(5) by transferring subsection (e) as follows:</i>
+
+<i>(A) paragraphs (1) and (2) to section 3155(a) of this title; and</i>
+
+<i>(B) paragraph (3) to section 3156 of this title; and</i>
+
+<i>(6) by transferring subsection (f)(1), (2), (5), and (6) to section 3157(4), (3), (2), and (1), respectively, of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### References in Text
 
 Section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007, referred to in subsec. (d)(2), is section 1035 of Pub. L. 109–364, div. A, title X, Oct. 17, 2006, 120 Stat. 2388, which is not classified to the Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1810(b)(1), redesignated subsec. (a) as section 3151 of this title.
+
+Subsec. (b). Pub. L. 116–283, §1810(b)(2), redesignated subsec. (b) as section 3152 of this title.
+
+Subsec. (c). Pub. L. 116–283, §1810(b)(3), redesignated subsec. (c) as section 3153 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1810(b)(4), redesignated subsec. (d) as section 3154(a) of this title.
+
+Subsec. (e)(1), (2). Pub. L. 116–283, §1810(b)(5), redesignated pars. (1) and (2) as section 3155(a) of this title.
+
+Subsec. (e)(3). Pub. L. 116–283, §1810(b)(6), redesignated par. (3) as section 3156 of this title.
+
+Subsec. (f)(1), (2). Pub. L. 116–283, §1810(b)(7), redesignated pars. (1) and (2) as section 3157(4) and (3), respectively, of this title.
+
+Subsec. (f)(5), (6). Pub. L. 116–283, §1810(b)(7), redesignated pars. (5) and (6) as section 3157(2) and (1), respectively, of this title.
 
 <b>2009</b>—Subsec. (d)(1)(D)(ii). Pub. L. 111–84, §1073(a)(23)(A), substituted "indefinite delivery-indefinite quantity" for "indefinite delivery indefinite quantity".
 
@@ -113,6 +155,14 @@ Subsec. (d)(2). Pub. L. 111–84, §1073(a)(23)(B), substituted "the John Warner
 Subsec. (f)(3). Pub. L. 111–84, §1073(a)(23)(C), substituted "section 101(a)(13)" for "section 101(13)".
 
 <b>2008</b>—Subsecs. (e), (f). Pub. L. 110–181 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Enhancement of Interagency Support During Contingency Operations and Transition Periods
 
@@ -128,7 +178,7 @@ Agreement.—An agreement entered into under this section shall be in writing an
 
 &emsp;"(1) The price charged by a supplying agency shall be the direct costs that such agency incurred by providing the covered support, supplies, or services to the requesting agency under this section.
 
-&emsp;"(2) Credits and liabilities of the agencies accrued as a result of acquisitions and transfers of covered support, supplies, and services under this section shall be liquidated not less often than once every 3 months by direct payment to the agency supplying such support, supplies, or services by the agency receiving such support, supplies, or services.
+&emsp;"(2) Credits and liabilities of the agencies accrued as a result of acquisitions and transfers of coveredsupport, supplies, and services under this section shall be liquidated not less often than once every 3 months by direct payment to the agency supplying such support, supplies, or services by the agency receiving such support, supplies, or services.
 
 &emsp;"(3) Exchange entitlements accrued as a result of acquisitions and transfers of covered support, supplies, and services under this section shall be satisfied within 12 months after the date of the delivery of the covered support, supplies, or services. Exchange entitlements not so satisfied shall be immediately liquidated by direct payment to the agency supplying such covered support, supplies, or services.
 

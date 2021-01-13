@@ -164,9 +164,9 @@ Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank 
 
 (g)
 
-Infrastructure Bank Requirements.—In order to establish an infrastructure bank under this section, the State establishing the bank shall—
+Infrastructure Bank Requirements.—In order to establish an infrastructure bank underthis section, the State establishing the bank shall—
 
-&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and therail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
+&emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
 &emsp;(2) ensure that the bank maintains on a continuing basis an investment grade rating on its debt, or has a sufficient level of bond or debt financing instrument insurance, to maintain the viability of the bank;
 
@@ -218,6 +218,8 @@ Program Administration.—For each of fiscal years 2016 through 2020, a State ma
 
 (Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(11), formerly §1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered §1519(c)(11), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, §2001(i), Dec. 4, 2015, 129 Stat. 1444.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(11), (12). Pub. L. 114–94, §2001(i)(1), added pars. (11) and (12).
@@ -243,6 +245,8 @@ Subsec. (k). Pub. L. 114–94, §2001(i)(5), substituted "fiscal years 2016 thro
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §1602(d). See 2005 Amendment note below.
 
 <b>2005</b>—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

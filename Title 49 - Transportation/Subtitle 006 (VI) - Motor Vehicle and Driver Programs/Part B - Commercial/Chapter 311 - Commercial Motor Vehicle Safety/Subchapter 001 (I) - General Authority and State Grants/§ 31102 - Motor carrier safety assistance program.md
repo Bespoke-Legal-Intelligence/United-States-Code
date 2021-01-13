@@ -144,7 +144,7 @@ Adjusted baseline after fiscal year 2017.—At the request of a State, the Secre
 
 &emsp;(3)
 
-Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based oncircumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
+Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that thewaiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
 
 &emsp;(4)
 
@@ -222,7 +222,7 @@ Disapproval.—If, after notice and an opportunity to be heard, the Secretary fi
 
 &emsp;&emsp;(B)
 
-Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold fundingfrom the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
+Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and anopportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
 
 &emsp;&emsp;&emsp;(i) up to 5 percent of funds during the fiscal year that the Secretary notifies the State of its noncompliance;
 
@@ -490,6 +490,68 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
 
+#### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
+
+Pub. L. 116–260, div. N, title IV, §441, Dec. 27, 2020, 134 Stat. 2068, provided that:
+
+"(a)
+
+Definition of Secretary.—In this section, the term 'Secretary' means the Secretary of Transportation.
+
+"(b)
+
+Relief for Recipients of Financial Assistance Awarded for Fiscal Years 2019 and 2020.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipient may expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—
+
+&emsp;&emsp;"(A) for a grant made under section 31102 of that title (other than subsection (l) of that section)—
+
+&emsp;&emsp;&emsp;"(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and
+
+&emsp;&emsp;&emsp;"(ii) the following 2 fiscal years;
+
+&emsp;&emsp;"(B) for a grant made or a cooperative agreement entered into under section 31102(l)(2) of that title—
+
+&emsp;&emsp;&emsp;"(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant or cooperative agreement; and
+
+&emsp;&emsp;&emsp;"(ii) the following 3 fiscal years;
+
+&emsp;&emsp;"(C) for a grant made under section 31102(l)(3) of that title—
+
+&emsp;&emsp;&emsp;"(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and
+
+&emsp;&emsp;&emsp;"(ii) the following 5 fiscal years;
+
+&emsp;&emsp;"(D) for a grant made under section 31103 of that title—
+
+&emsp;&emsp;&emsp;"(i) the fiscal year in which the Secretary approves the financial assistance agreement with respect to the grant; and
+
+&emsp;&emsp;&emsp;"(ii) the following 2 fiscal years; and
+
+&emsp;&emsp;"(E) for a grant made or a cooperative agreement entered into under section 31313 of that title—
+
+&emsp;&emsp;&emsp;"(i) the year in which the Secretary approves the financial assistance agreement with respect to the grant or cooperative agreement; and
+
+&emsp;&emsp;&emsp;"(ii) the following 5 fiscal years.
+
+&emsp;"(2)
+
+Applicability.—
+
+&emsp;&emsp;"(A)
+
+Amounts awarded for fiscal years 2019 and 2020.—The periods of availability described in paragraph (1) shall apply only—
+
+&emsp;&emsp;&emsp;"(i) to amounts awarded for fiscal year 2019 or 2020 under a grant or cooperative agreement described in subparagraphs (A) through (E) of that paragraph; and
+
+&emsp;&emsp;&emsp;"(ii) for the purpose of expanding the period of availability during which the recipient may expend the amounts described in clause (i).
+
+&emsp;&emsp;"(B)
+
+Amounts awarded for other years.—The periods of availability described in paragraph (1) shall not apply to any amounts awarded under a grant or cooperative agreement described in subparagraphs (A) through (E) of that paragraph for any fiscal year other than fiscal year 2019 or 2020, and those amounts shall be subject to the period of availability otherwise applicable to those amounts under Federal law."
+
 #### Transition
 
 Pub. L. 114–94, div. A, title V, §5101(g), Dec. 4, 2015, 129 Stat. 1526, provided that: "Notwithstanding the amendments made by this section \[see Effective Date of 2015 Amendment note above\], the Secretary \[of Transportation\] shall carry out sections 31102, 31103, and 31104 of title 49, United States Code, and any sections repealed under subsection (e) \[repealing sections 31107 and 31109 of this title and provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\], as necessary, as those sections were in effect on the day before October 1, 2016, with respect to applications for grants, cooperative agreements, or contracts under those sections submitted before October 1, 2016."
@@ -668,7 +730,7 @@ Maintenance of effort described.—The maintenance of effort calculated under th
 
 "(c)
 
-Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effort baseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under section 31102 of title 49, United States Code."
+Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effortbaseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under section 31102 of title 49, United States Code."
 
 #### Relationship to Other Laws
 

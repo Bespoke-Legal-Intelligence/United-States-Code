@@ -1,6 +1,8 @@
 ### §1104. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 89–656, §4, Oct. 14, 1966, 80 Stat. 906, which exempted funds distributed under the provisions of this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–656, §4, Oct. 14, 1966, 80 Stat. 906, which exempted funds distributed under the provisionsof this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
 

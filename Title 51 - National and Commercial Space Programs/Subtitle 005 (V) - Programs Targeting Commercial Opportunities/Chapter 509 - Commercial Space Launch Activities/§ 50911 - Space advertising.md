@@ -26,9 +26,13 @@ Commercial Space Advertising.—Nothing in this section shall apply to nonobtrus
 
 (Added Pub. L. 106–391, title III, §322(b), Oct. 30, 2000, 114 Stat. 1598, §70109a of title 49; renumbered §70109a then §50911 of title 51, Pub. L. 111–314, §4(d)(2), (3)(K), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70109a of title 49 and section 70109a of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Negotiation With Foreign Launching Nations
 

@@ -22,7 +22,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (f) Representation by President or Secretary of State
 
-Nothing contained in this section shall preclude the President or the Secretary of State, atthe direction of the President, from representing the United States at any meeting or session of any organ or agency of the United Nations.
+Nothing contained in this section shall preclude the President or the Secretary of State, at the direction of the President, from representing the United States at any meeting or session of any organ or agency of the United Nations.
 
 #### (g) Compensation
 
@@ -33,6 +33,8 @@ All persons appointed in pursuance of authority contained in this section shall 
 The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the Vienna office of the United Nations with appropriate rank and status, who shall serve at the pleasure of the President and subject to the direction of the Secretary of State. Such individual shall, at the direction of the Secretary of State, represent the United States at the Vienna office of the United Nations and perform such other functions there in connection with the participation of the United States in international organizations as the Secretary of State from time to time may direct. The representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the International Atomic Energy Agency.
 
 (Dec. 20, 1945, ch. 583, §2, 59 Stat. 619; Oct. 10, 1949, ch. 660, §§1, 2, 63 Stat. 734, 735; Pub. L. 89–206, §§1, 2, Sept. 28, 1965, 79 Stat. 841, 842; Pub. L. 96–465, title II, §2206(a)(2)(A), Oct. 17, 1980, 94 Stat. 2160; Pub. L. 97–241, title I, §118, Aug. 24, 1982, 96 Stat. 279; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,7 +50,7 @@ This Act, as amended, referred to in subsec. (b), is Pub. L. 89–206, Sept. 28,
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–206, §1(a), struck out provisions which related to the appointment, rank and status, tenure and duties of a deputy representative of the United States to the United Nations.
 
-Subsec. (b). Pub. L. 89–206, §1(a), substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
+Subsec. (b). Pub. L. 89–206, §1(a), substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shallnot be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
 
 Subsec. (d). Pub. L. 89–206, §1(b), struck out provisions which required the representative of the United States in the Economic and Social Council and in the Trusteeship Council of the United Nations to be appointed only by and with the advice and consent of the Senate and which required the advice and consent of the Senate for the appointment by the President of the representative of the United States in any commission that may be formed by the United Nations with respect to atomic energy or in any other commission of the United Nations to which the United States is entitled to appoint a representative.
 
@@ -63,6 +65,8 @@ Subsec. (c). Act Oct. 10, 1949, §1, amended subsec. (c) generally, to provide f
 Subsec. (d). Act Oct. 10, 1949, §1, allowed the designation by the President of any State Department officer, whose appointment is subject to confirmation by the Senate, to sit on the Security Council in certain instances.
 
 Subsec. (f). Act Oct. 10, 1949, §2, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -274,7 +278,7 @@ Human Rights Reporting.—In coordination with the ombudsman described in subsec
 
 &emsp;"(1) the present formula for determining the troop reimbursement rate paid to troop- and police-contributing countries for United Nations peacekeeping operations should be clearly explained and made available to the public on the United Nations Department of Peacekeeping Operations website;
 
-&emsp;"(2) regular audits of the nationally-determined pay and benefits given to personnel from troop- andpolice-contributing countries participating in United Nations peacekeeping operations should be conducted to help inform the reimbursement rate referred to in paragraph (1); and
+&emsp;"(2) regular audits of the nationally-determined pay and benefits given to personnel from troop- and police-contributing countries participating in United Nations peacekeeping operations should be conducted to help inform the reimbursement rate referred to in paragraph (1); and
 
 &emsp;"(3) the survey mechanism developed by the United Nations Secretary General's Senior Advisory Group on Peacekeeping Operations for collecting troop- and police-contributing country data on common and extraordinary expenses associated with deploying personnel to peacekeeping operations should be coordinated with the audits described in paragraph (2) to ensure proper oversight and accountability.
 
@@ -312,7 +316,7 @@ Pub. L. 114–323, title III, §307, Dec. 16, 2016, 130 Stat. 1921, provided tha
 
 &emsp;&emsp;"(E) results that eliminate the effects of proven retaliation;
 
-&emsp;"(4) insist that the United Nations provides adequate redress to any whistleblower who has suffered from retribution in violation of the protective measures specified in paragraph (3), including reinstatement to any position from which such whistleblower was wrongfully removed, or reassignment to a comparable position at the same level of pay, plus any compensation for any arrearage in salary to which such whistleblower would have otherwise been entitled but for the wrongful retribution;
+&emsp;"(4) insist that the United Nations provides adequate redress to any whistleblower who has suffered from retribution in violation of the protective measures specified in paragraph (3), including reinstatement to any position from which such whistleblower was wrongfully removed, or reassignment to a comparable position at the same level of pay, plus anycompensation for any arrearage in salary to which such whistleblower would have otherwise been entitled but for the wrongful retribution;
 
 &emsp;"(5) call for public disclosure of the number and general description of—
 
@@ -334,7 +338,7 @@ Pub. L. 114–323, title III, §310, Dec. 16, 2016, 130 Stat. 1924, as amended b
 
 "(a)
 
-Sense of Congress.—The Secretary \[of State\] shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to urge each future candidate for the position of the United Nations Secretary General to circulate to the Member States of the General Assembly a description of his or her priorities and objectives for leading the organization and ensuring that it upholds the principles outlined by the United Nations Charter, including specific recommendations to improve strategic planningand enact far-reaching management, performance, and accountability reforms.
+Sense of Congress.—The Secretary \[of State\] shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to urge each future candidate for the position of the United Nations Secretary General to circulate to the Member States of the General Assembly a description of his or her priorities and objectives for leading the organization and ensuring that it upholds the principles outlined by the United Nations Charter, including specific recommendations to improve strategic planning and enact far-reaching management, performance, and accountability reforms.
 
 "(b)
 
@@ -378,7 +382,7 @@ Annual Consultation.—At the time of the submission of each annual report under
 
 #### United States Commission on Improving the Effectiveness of the United Nations
 
-Pub. L. 100–204, title VII, part B, Dec. 22, 1987, 101 Stat. 1391, as amended by Pub. L. 101–246, title IV, §409, Feb. 16, 1990, 104 Stat. 68, provided for establishment, membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of the Commission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
+Pub. L. 100–204, title VII, part B, Dec. 22, 1987, 101 Stat. 1391, as amended by Pub. L. 101–246, title IV, §409, Feb. 16, 1990, 104 Stat. 68, provided for establishment, membership, etc., of United States Commission on Improving the Effectiveness of the United Nations to examine the United Nations system as a whole and identify and evaluate its strengths and weaknesses and to transmit to President and Congress, not later than 18 months after the date on which all members of theCommission have been appointed, a report containing a detailed statement of the findings, conclusions, and recommendations of the Commission, which report was dated Sept. 10, 1993, and the Commission terminated Sept. 30, 1993.
 
 #### Soviet Mission at the United Nations
 
@@ -400,7 +404,7 @@ Pub. L. 98–164, title I, §115, Nov. 22, 1983, 97 Stat. 1021, as amended by Pu
 
 #### International Year of the Child
 
-Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for theCommission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
+Pub. L. 95–561, title XV, §§1501–1507, Nov. 1, 1978, 92 Stat. 2373–2375, described the purpose of the International Year of the Child (designated as 1979 by the United Nations General Assembly) as promotion of lasting improvements in the well-being of children, provided for the establishment of a National Commission on the International Year of the Child, and for the Commission's membership, functions, coordination and administration, and waiver of certain provisions of law relating to advertising, competitive bidding, and printing, authorized appropriations, and terminated the life of the Commission thirty days after the submission of its final report, which was to be submitted not later than Mar. 31, 1980, but which life was in no case to be extended beyond Apr. 30, 1980.
 
 Pub. L. 97–35, title V, §511(b)(1), Aug. 13, 1981, 95 Stat. 443, provided that: "No funds are authorized to be appropriated to carry out part A of title XV of the Education Amendments of 1978 \[sections 1501 to 1507 of Pub. L. 95–561, see note above\] for fiscal year 1982, 1983, or 1984."
 
@@ -446,7 +450,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "3. The General Assembly may make recommendations with a view to determining the details of the application of paragraphs 1 and 2 of this article or may propose conventions to the Members of the United Nations for this purpose; and
 
-"Whereas article 28 and other articles of the Charter of the United Nations contemplate the establishment of a seat for the permanent headquarters of the Organization; and
+"Whereas article 28 and other articles of the Charter of the United Nations contemplate the establishment ofa seat for the permanent headquarters of the Organization; and
 
 "Whereas the interim arrangements concluded on June 26, 1945, by the governments represented at the United Nations Conference on International Organization instructed the Preparatory Commission established in pursuance of the arrangements to 'make studies and prepare recommendations concerning the location of the permanent headquarters of the Organization'; and
 
@@ -462,7 +466,7 @@ Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
 "Whereas the aforesaid agreement provides that it shall be brought into effect by an exchange of notes between the United States and the Secretary-General of the United Nations: Therefore be it
 
-<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nationsregarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
+<i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is hereby authorized to bring into effect on the part of the United States the agreement between the United States of America and the United Nations regarding the headquarters of the United Nations, signed at Lake Success, New York, on June 26, 1947 (hereinafter referred to as the 'agreement'), with such changes therein not contrary to the general tenor thereof and not imposing any additional obligations on the United States as the President may deem necessary and appropriate, and at his discretion, after consultation with the appropriate State and local authorities, to enter into such supplemental agreements with the United Nations as may be necessary to fulfill the purposes of the said agreement: <i>Provided</i>, That any supplemental agreement entered into pursuant to section 5 of the agreement incorporated herein shall be submitted to the Congress for approval. The agreement follows:
 
 #### "AGREEMENT BETWEEN THE UNITED NATIONS AND THE UNITED STATES OF AMERICA REGARDING THE HEADQUARTERS OF THE UNITED NATIONS
 
@@ -592,7 +596,7 @@ The provisions of Section 11 shall be applicable irrespective of the relations e
 
 (e) The Secretary-General shall, at the request of the appropriate American authorities, enter into discussions with such authorities, with a view to making arrangements for registering the arrival and departure of persons who have been granted visas valid only for transit to and from the headquarters district and sojourn therein and in its immediate vicinity.
 
-(f) The United Nations shall, subject to the foregoing provisions of this section, have the exclusive right toauthorize or prohibit entry of persons and property into the headquarters district and to prescribe the conditions under which persons may remain or reside there.
+(f) The United Nations shall, subject to the foregoing provisions of this section, have the exclusive right to authorize or prohibit entry of persons and property into the headquarters district and to prescribe the conditions under which persons may remain or reside there.
 
 #### section 14
 
@@ -622,7 +626,7 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 #### section 17
 
-(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable terms with the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needs of the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
+(a) The appropriate American authorities will exercise to the extent requested by the Secretary-General the powers which they possess with respect to the supplying of public services to ensure that the headquarters district shall be supplied on equitable terms with the necessary public services, including electricity, water, gas, post, telephone, telegraph, transportation, drainage, collection of refuse, fire protection, snow removal, et cetera. In case of any interruption or threatened interruption of any such services, the appropriate American authorities will consider the needsof the United Nations as being of equal importance with the similar needs of essential agencies of the Government of the United States, and will take steps accordingly, to ensure that the work of the United Nations is not prejudiced.
 
 (b) Special provisions with reference to maintenance of utilities and underground construction are contained in Annex 2.
 
@@ -702,7 +706,7 @@ Trygve Lie,
 
 #### "Annex 1
 
-The area referred to in Section 1(a)(1) consists of (a) the premises bounded on the East by the westerly side of Franklin D. Roosevelt Drive, on the West by the easterly side of First Avenue, on the North by the southerly side of East Forty-eighth Street, and on the South by the northerly side of East Forty-second Street, all as proposed to be widened, in the Borough of Manhattan, City and State of New York, and (b) an easement over Franklin D. Roosevelt Drive, above a lower limiting plane to be fixed for the construction and maintenance of an esplanade, together with the structures thereon and foundations and columns to support the same in locations below such limiting plane, the entire area to be more definitely defined by supplemental agreement between the United Nations and the United States of America.
+The area referred to in Section 1(a)(1) consists of (a) the premises bounded on the East by the westerly sideof Franklin D. Roosevelt Drive, on the West by the easterly side of First Avenue, on the North by the southerly side of East Forty-eighth Street, and on the South by the northerly side of East Forty-second Street, all as proposed to be widened, in the Borough of Manhattan, City and State of New York, and (b) an easement over Franklin D. Roosevelt Drive, above a lower limiting plane to be fixed for the construction and maintenance of an esplanade, together with the structures thereon and foundations and columns to support the same in locations below such limiting plane, the entire area to be more definitely defined by supplemental agreement between the United Nations and the United States of America.
 
 #### "Annex 2—Maintenance of Utilities and Underground Construction
 
@@ -722,7 +726,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
-(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transferor convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
+(d) The President of the United States, or any officer or governmental agency duly authorized by the President, may, in the name of the United States, transfer or convey possession of and title to any interest in any property acquired or held by the United States, pursuant to paragraph (a) above, to the United Nations on the terms provided in the agreement or in any supplemental agreement, and shall execute and deliver such conveyances and other instruments and perform such other acts in connection therewith as may be necessary to carry out the provisions of the agreement.
 
 (e) There are authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required to enable the United States to carry out the undertakings hereby authorized: <i>Provided</i>, That any money appropriated under this authorization shall be spent only on a basis of reimbursement by the United Nations in accordance with section 3 of the agreement, and that the money thus reimbursed shall be deposited and covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -776,6 +780,8 @@ Aug. 5, 1953, ch. 328, title I, §111, 67 Stat. 372.
 
 Act of July 18, 1947, ch. 271, 61 Stat. 397, authorized the President to approve the trusteeship agreement between the United States and the Security Council of the United Nations for the Territory of the Pacific Islands.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10108. Designation of U.S. Mission to United Nations
 
 Ex. Ord. No. 10108, Feb. 9, 1950, 15 F.R. 757, provided:
@@ -790,7 +796,7 @@ By virtue of the authority vested in me by the United Nations Participation Act 
 
 4\. The Deputy Representative of the United States to the United Nations shall be the Deputy Chief of Mission, who shall act as Chief of Mission in the absence of the Representative of the United States to the United Nations.
 
-5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United StatesMission to the United Nations and Providing for Its Direction and Administration."
+5\. This order supersedes Executive Order No. 9844 of April 28, 1947, entitled "Designating the United States Mission to the United Nations and Providing for Its Direction and Administration."
 
 #### Ex. Ord. No. 10422. Loyalty Procedures for Employees
 
@@ -808,7 +814,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 
-5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
+5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forthin Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
 
 6\. At any stage during the investigation or Board proceeding, the Board may transmit to the Secretary of State, for forwarding to the Secretary General, in as much detail as the Board determines that security considerations permit, the derogatory information disclosed by investigation. This shall be for the purpose of assisting the Secretary General in determining whether or not he should take action with respect to the employee, or the person being considered for employment, prior to the completion of the procedures outlined in this order. The making available of any such information shall be without prejudice to the right of full hearing as provided for herein.
 
@@ -830,7 +836,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (e) Performing or attempting to perform his duties, or otherwise acting, while an employee of the United States Government during a previous period, so as to serve the interests of another government in preference to the interests of the United States.
 
-(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks tooverthrow the Government of the United States or any State or subdivision thereof by unlawful means.
+(f) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group or combination of persons, which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States, or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means.
 
 #### part iii—other international organizations
 

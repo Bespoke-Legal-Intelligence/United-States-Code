@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 110–246, §7120, inserted "(including 1890 Institutions (
 
 Subsec. (c). Pub. L. 105–185, §606(d)(3), struck out "and the Board" after "Advisory Board" in second sentence and substituted "and the Advisory Board" for ", the Advisory Board, and the Board" in fourth sentence.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted "or national or regional problems relating to pre-harvest,on-farm food safety, or animal well-being," after "problems," and substituted "1997" for "1995".
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §812(1), inserted "or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being," after "problems," and substituted "1997" for "1995".
 
 Subsec. (b). Pub. L. 104–127, §812(2), substituted "State agricultural experiment stations, colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals" for "eligible institutions".
 

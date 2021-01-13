@@ -54,7 +54,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (1) Annual adjustment
 
-&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollaramount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
 
 #### (2) Mid-year adjustment
 
@@ -180,7 +180,7 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(5)\], redesignate
 
 Amendment by section 991(d)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the later of—
+Pub. L. 111–203, title IX, §991(a)(2), July 21, 2010, 124 Stat. 1951, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the later of—
 
 &emsp;"(A) October 1, 2011; or
 
@@ -278,9 +278,11 @@ Report to Congress.—Not later than 2 years after the date of the enactment of 
 
 #### Fees From National Securities Associations for Member Transactions Other Than on National Securities Exchanges
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: "That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997".
+Pub. L. 104–208, div. A, title I, §101(a) \[title V\], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: "That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: <i>Provided further</i>, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997".
 
 #### Adjustment of Transaction Fee Rate
+
+By order dated Jan. 15, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $5.10 per $1,000,000, effective Feb. 25, 2021, see 86 F.R. 6694.
 
 By order dated Jan. 9, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Feb. 18, 2020, see 85 F.R. 2218.
 

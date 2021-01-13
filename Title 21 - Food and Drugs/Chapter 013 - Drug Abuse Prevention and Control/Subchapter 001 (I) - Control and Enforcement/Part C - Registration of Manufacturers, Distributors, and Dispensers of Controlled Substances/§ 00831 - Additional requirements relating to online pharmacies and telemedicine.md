@@ -58,7 +58,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
+&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shallnotify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
 
 #### (2) Designations
 
@@ -112,6 +112,8 @@ Any transfer between pharmacies of information relating to a prescription for a 
 
 (Pub. L. 91–513, title II, §311, as added Pub. L. 110–425, §3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, §3232, Oct. 24, 2018, 132 Stat. 3950.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 309, referred to in subsec. (c)(7), is section 309 of Pub. L. 91–513, which is classified to section 829 of this title.
@@ -124,7 +126,9 @@ This chapter, referred to in subsec. (j), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows:"The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
+<b>2018</b>—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: "The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

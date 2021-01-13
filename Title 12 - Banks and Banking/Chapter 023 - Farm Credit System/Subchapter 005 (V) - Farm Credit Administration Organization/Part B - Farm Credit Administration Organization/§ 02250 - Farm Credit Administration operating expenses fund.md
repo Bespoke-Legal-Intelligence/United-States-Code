@@ -48,6 +48,8 @@
 
 (Pub. L. 92–181, title V, §5.15, formerly §5.16, Dec. 10, 1971, 85 Stat. 620; renumbered §5.15 and amended Pub. L. 99–205, title II, §§201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, §432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, §416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, §510, Oct. 28, 1992, 106 Stat. 4132.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
@@ -62,7 +64,7 @@ A prior section 5.15 of Pub. L. 92–181 was renumbered section 5.14 and is clas
 
 <b>1988</b>—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows:
 
-"(a) The Farm Credit Administration shall prior to the first day of each fiscal year estimate the cost of administrative expenses for the ensuing fiscal year in administering this chapter, including official functions, and shall apportion the amount so determined among the institutions of the System on such equitable basis as the Farm Credit Administration shall determine, and shall assess against and collect in advance the amounts so apportioned from the institutions among which the apportionment is made.
+"(a) The Farm Credit Administration shall prior to the first day of each fiscal year estimate the cost of administrative expenses for the ensuing fiscal year in administering this chapter, including official functions, and shall apportion the amount so determined among the institutions of the System on such equitable basisas the Farm Credit Administration shall determine, and shall assess against and collect in advance the amounts so apportioned from the institutions among which the apportionment is made.
 
 "(b) The amounts collected pursuant to subsection (a) of this section shall be covered into the Treasury, and credited to a special fund and, without regard to other law, shall be available to the Farm Credit Administration for expenditure during each fiscal year for salaries and expenses of the Farm Credit Administration. As soon as practicable after the end of each such fiscal year, the Farm Credit Administration shall determine, on a fair and reasonable basis, the cost of operation of the Farm Credit Administration and the part thereof which fairly and equitably should be allocated to each bank and association as its share of the cost during the fiscal year of the Farm Credit Administration. If the amount so allocated is greater than the amount collected from the bank or other institutions, the difference shall be collected from such bank or other institutions, and, if less, shall be refunded from the special fund to the bank or other institutions entitled thereto or credited in the special fund to such bank or other institutions for use for the same purposes in future fiscal years."
 
@@ -71,6 +73,8 @@ Subsec. (a)(2)(A). Pub. L. 100–399, §416(a), substituted "the assessment desc
 Subsec. (a)(2)(C). Pub. L. 100–399, §416(b), substituted "described" for "specified".
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–205, §205(g)(6), substituted "the Farm Credit Administration" for "said Administration" twice in first sentence, and for "the Administration" and "such Administration" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

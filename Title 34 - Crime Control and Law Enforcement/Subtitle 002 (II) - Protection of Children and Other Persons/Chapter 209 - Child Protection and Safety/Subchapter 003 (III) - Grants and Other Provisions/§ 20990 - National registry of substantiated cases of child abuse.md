@@ -74,6 +74,8 @@ The Secretary of Health and Human Services shall establish standards for the dis
 
 (Pub. L. 109–248, title VI, §633, July 27, 2006, 120 Stat. 642.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5106a(b)(2)(A) of title 42, referred to in subsecs. (c)(2)(B) and (f), was redesignated section 5106a(b)(2)(B) of title 42 by Pub. L. 111–320, title I, §115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.

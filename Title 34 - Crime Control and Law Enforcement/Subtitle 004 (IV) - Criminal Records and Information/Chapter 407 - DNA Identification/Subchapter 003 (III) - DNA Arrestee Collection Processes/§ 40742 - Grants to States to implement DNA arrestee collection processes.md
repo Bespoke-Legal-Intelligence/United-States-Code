@@ -8,7 +8,7 @@ The Attorney General shall, subject to amounts made available pursuant to sectio
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, in addition to any other requirements specified by the Attorney General, a Stateshall submit to the Attorney General an application that demonstrates that it has statutory authorization for the implementation of a DNA arrestee collection process.
+&emsp;To be eligible to receive a grant under this section, in addition to any other requirements specified by the Attorney General, a State shall submit to the Attorney General an application that demonstrates that it has statutory authorization for the implementation of a DNA arrestee collection process.
 
 #### (2) Non-supplanting funds
 
@@ -39,6 +39,8 @@ As a condition of receiving a grant under this section, a State shall have a pro
 &emsp;(3) make a determination on all expungement requests not later than 90 days after receipt and provide a written response of the determination to the requesting party.
 
 (Pub. L. 112–253, §3, Jan. 10, 2013, 126 Stat. 2408.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

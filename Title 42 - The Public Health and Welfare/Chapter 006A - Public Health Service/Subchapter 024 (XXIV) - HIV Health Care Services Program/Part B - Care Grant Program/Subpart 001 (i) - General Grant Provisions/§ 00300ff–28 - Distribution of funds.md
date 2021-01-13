@@ -108,7 +108,7 @@
 
 #### (II) Relevant States
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi, North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, NewYork, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the States specified in this subclause are the following: Alaska, Alabama, Arkansas, Arizona, Colorado, Florida, Indiana, Iowa, Idaho, Kansas, Louisiana, Michigan, Minnesota, Missouri, Mississippi, North Carolina, North Dakota, Nebraska, New Jersey, New Mexico, New York, Nevada, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Wisconsin, West Virginia, Wyoming, Guam, and the Virgin Islands.
 
 #### (viii) Rules of construction regarding acceptance of reports
 
@@ -136,7 +136,7 @@
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additionalamounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
 
 #### (F) Appropriations for treatment drug program
 
@@ -166,7 +166,7 @@
 
 #### (IV) Use and coordination
 
-&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used bythe State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
+&emsp;&emsp;&emsp;&emsp;Amounts made available under a grant under this clause shall only be used by the State to provide HIV/AIDS-related medications. The State shall coordinate the use of such amounts with the amounts otherwise provided under section 300ff–26(a) of this title in order to maximize drug coverage.
 
 #### (V) Funding
 
@@ -276,7 +276,7 @@
 
 #### (6) Construction
 
-&emsp;A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
+&emsp;A State may not use amounts received under a grant awarded under section 300ff–21 of thistitle to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
 #### (c) Expedited distribution
 
@@ -362,7 +362,7 @@ Subsec. (a)(2)(A)(ii)(II). Pub. L. 109–415, §203(b)(1)(B)(ii), inserted "non-
 
 Subsec. (a)(2)(A)(ii)(III). Pub. L. 109–415, §203(b)(1)(B)(iii), added subcl. (III).
 
-Subsec. (a)(2)(B). Pub. L. 109–415, §203(a)(1)(A), substituted "number of living cases of HIV/AIDS in the State involved" for "estimated number of living cases of acquired immune deficiency syndrome in the eligible area involved".
+Subsec. (a)(2)(B). Pub. L. 109–415, §203(a)(1)(A), substituted "number of living cases of HIV/AIDS in the State involved" for "estimated number of living casesof acquired immune deficiency syndrome in the eligible area involved".
 
 Subsec. (a)(2)(C)(i). Pub. L. 109–415, §203(g)(4), struck out "or territory" after "State".
 
@@ -440,7 +440,7 @@ Subsec. (a)(1)(B). Pub. L. 106–345, §206(d), inserted "the greater of $50,000
 
 Subsec. (a)(2)(A)(i). Pub. L. 106–345, §206(c)(2)(A), substituted "subparagraphs (H) and (I)" for "subparagraph (H)".
 
-Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon ", except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome".
+Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon ", except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall becases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome".
 
 Subsec. (a)(2)(E) to (G). Pub. L. 106–345, §206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
 

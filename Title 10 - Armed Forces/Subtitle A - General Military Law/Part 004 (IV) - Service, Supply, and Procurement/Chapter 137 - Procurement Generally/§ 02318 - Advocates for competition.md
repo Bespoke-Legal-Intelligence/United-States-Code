@@ -2,7 +2,11 @@
 
 Each advocate for competition designated pursuant to section 1705(a) of title 41 for an agency named in section 2303(a) of this title shall be a general or flag officer if a member of the armed forces or in a position classified above GS–15 pursuant to section 5108 of title 5, if a civilian employee and shall be designated to serve for a minimum of two years.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260; Pub. L. 111–350, §5(b)(17), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 112–239, div. A, title X, §1076(f)(24), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §811(d), Aug. 13, 2018, 132 Stat. 1845.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(4), Apr. 21, 1987, 101 Stat. 281; Pub. L. 102–25, title VII, §701(f)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 103–355, title I, §1031, Oct. 13, 1994, 108 Stat. 3260; Pub. L. 111–350, §5(b)(17), Jan. 4,2011, 124 Stat. 3843; Pub. L. 112–239, div. A, title X, §1076(f)(24), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §811(d), Aug. 13, 2018, 132 Stat. 1845.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1813(f), Jan. 1, 2021, 134 Stat. 4151, 4181, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, as added by section 1813 of Pub. L. 116–283, inserted after section 3247, and redesignated as section 3249 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
 
@@ -23,6 +27,10 @@ Subsec. (a)(2). Pub. L. 111–350, §5(b)(17)(B), substituted "section 1705(b) a
 Subsec. (a)(2). Pub. L. 100–26, §7(d)(4)(B), inserted "(41 U.S.C. 418(b), (c))" after "Policy Act".
 
 Subsec. (c). Pub. L. 100–26, §7(d)(4)(C), inserted "(41 U.S.C. 419)" after "Policy Act".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

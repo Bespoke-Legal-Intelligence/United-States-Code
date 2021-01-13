@@ -8,7 +8,7 @@ The Association is authorized to—
 
 &emsp;(2) review whether the goals and requirements of this chapter are met;
 
-&emsp;(3) purchase or otherwise acquire or receive, and hold and dispose of securities (whetherdebt or equity) of the Corporation under sections 726 and 727 of this title and exercise all of the rights, privileges, and powers of a holder of any such securities;
+&emsp;(3) purchase or otherwise acquire or receive, and hold and dispose of securities (whether debt or equity) of the Corporation under sections 726 and 727 of this title and exercise all of the rights, privileges, and powers of a holder of any such securities;
 
 &emsp;(4) purchase accounts receivable of the Corporation in accordance with section 727 of this title;
 
@@ -48,7 +48,7 @@ The Chairman of the Association shall transmit annually to the Office of Managem
 
 #### (g) Transfer of litigation
 
-No later than March 1, 1980, the Association and the Attorney General of the United States shall develop and submit to the Congress a feasibility study for the transfer, to the appropriate department or agency of the Federal Government, of all responsibility for representing the United States in the proceedings before the special court to determine the valuation of rail properties conveyed to the Corporation under section 743 of this title.
+No later than March 1, 1980, the Association and the Attorney General of the United Statesshall develop and submit to the Congress a feasibility study for the transfer, to the appropriate department or agency of the Federal Government, of all responsibility for representing the United States in the proceedings before the special court to determine the valuation of rail properties conveyed to the Corporation under section 743 of this title.
 
 #### (h) Transfer of other functions
 
@@ -59,6 +59,8 @@ No later than March 1, 1980, the Association and the Secretary of Transportation
 The Board of Directors of the Association shall adopt procedures to insure (1) that contractors, including law firms, provide reports containing written verification of tasks assigned, work performed, time worked, and costs incurred, including periodic status reports on work performed, (2) that such reports are audited by the Association, (3) that no funds are paid to contractors without written reports complying with the requirements of this subsection, and (4) that the Association applies such procedures uniformly to all contractors.
 
 (Pub. L. 93–236, title II, §202, Jan. 2, 1974, 87 Stat. 990; Pub. L. 94–5, §2(a), Feb. 28, 1975, 89 Stat. 7; Pub. L. 94–210, title VI, §§601(c), 607(b), (c), Feb. 5, 1976, 90 Stat. 84, 96; Pub. L. 95–199, §2, Nov. 23, 1977, 91 Stat. 1423; Pub. L. 96–73, title II, §§202, 203, Sept. 29, 1979, 93 Stat. 555; Pub. L. 97–35, title XI, §1148(a), (b), Aug. 13, 1981, 95 Stat. 674; Pub. L. 97–468, title VI, §605(e), Jan. 14, 1983, 96 Stat. 2564.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -89,6 +91,8 @@ Subsec. (f). Pub. L. 94–210, §607(c), inserted provisions relating to receipt
 Subsec. (b)(7). Pub. L. 94–5, §2(a)(2), substituted "; and" for a period at end of par. (7).
 
 Subsec. (b)(8). Pub. L. 94–5, §2(a)(3), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

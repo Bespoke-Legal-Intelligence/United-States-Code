@@ -40,6 +40,8 @@ Historical and Revision Notes
 
 Pub. L. 111–11, title VII, subtitle D, §7302(d), Mar. 30, 2009, 123 Stat. 1215.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–289 substituted "Chairman of the Council" for "Council" in two places in introductory provisions.

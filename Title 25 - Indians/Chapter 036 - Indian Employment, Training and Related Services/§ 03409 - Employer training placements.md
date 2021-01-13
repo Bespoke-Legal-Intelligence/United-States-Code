@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsection (b), an Indian tribe that has in place an approved plan under this chaptermay use the funds made available for the plan under this chapter—
+Subject to subsection (b), an Indian tribe that has in place an approved plan under this chapter may use the funds made available for the plan under this chapter—
 
 &emsp;(1) to place participants in training positions with employers; and
 
@@ -17,6 +17,8 @@ An Indian tribe may carry out subsection (a) only if the Indian tribe enters int
 &emsp;(2) on satisfactory completion of the training period described in subsection (a)(2), to prioritize the provision of permanent employment to the participants.
 
 (Pub. L. 102–477, §10, Oct. 23, 1992, 106 Stat. 2304; Pub. L. 115–93, §10, Dec. 18, 2017, 131 Stat. 2032.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

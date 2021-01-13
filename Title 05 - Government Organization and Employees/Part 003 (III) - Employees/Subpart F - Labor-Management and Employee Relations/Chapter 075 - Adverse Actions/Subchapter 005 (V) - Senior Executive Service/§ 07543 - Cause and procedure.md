@@ -12,7 +12,7 @@
 
 &emsp;(4) a written decision and specific reasons therefor at the earliest practicable date.
 
-(c) An agency may provide, by regulation, for a hearing which may be in lieu of or in additionto the opportunity to answer provided under subsection (b)(2) of this section.
+(c) An agency may provide, by regulation, for a hearing which may be in lieu of or in addition to the opportunity to answer provided under subsection (b)(2) of this section.
 
 (d) An employee against whom an action is taken under this section is entitled to appeal to the Merit Systems Protection Board under section 7701 of this title.
 
@@ -20,11 +20,15 @@
 
 (Added Pub. L. 95–454, title IV, §411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, §1704(d)(2), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §304(c), Nov. 8, 1984, 98 Stat. 3219.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–615 inserted reference to failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "misconduct, neglect of duty, or malfeasance" for "such cause as will promote the efficiency of the service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

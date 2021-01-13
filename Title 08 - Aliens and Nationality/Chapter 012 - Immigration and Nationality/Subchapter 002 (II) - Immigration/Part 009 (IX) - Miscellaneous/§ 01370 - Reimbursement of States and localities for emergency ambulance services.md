@@ -8,11 +8,15 @@ Subject to the availability of appropriations, the Attorney General shall fully 
 
 (Pub. L. 104–208, div. C, title V, §563, Sept. 30, 1996, 110 Stat. 3009–683.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

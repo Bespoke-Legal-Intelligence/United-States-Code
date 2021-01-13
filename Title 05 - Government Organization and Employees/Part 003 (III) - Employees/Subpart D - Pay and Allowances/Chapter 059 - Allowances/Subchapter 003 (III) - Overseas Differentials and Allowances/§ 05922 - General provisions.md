@@ -74,11 +74,15 @@ In subsection (b), the words "disbursing official" are substituted for "disbursi
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–113 added subsec. (f).
 
 <b>1991</b>—Subsecs. (d), (e). Pub. L. 102–138 added subsecs. (d) and (e).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

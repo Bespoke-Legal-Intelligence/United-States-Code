@@ -10,11 +10,11 @@
 
 (2) For purposes of this subsection, a covered individual is any individual as follows:
 
-&emsp;(A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, or air service less than three years before the date of enrollment in the course concerned.
+&emsp;(A) A veteran who was discharged or released from a period of not fewer than 90 days of service in the active military, naval, air, or space service less than three years before the date of enrollment in the course concerned.
 
 &emsp;(B) An individual who is entitled to assistance under—
 
-&emsp;&emsp;(i) section 3311(b)(9) of this title; or
+&emsp;&emsp;(i) section 3311(b)(8) of this title; or
 
 &emsp;&emsp;(ii) section 3319 of this title by virtue of the individual's relationship to—
 
@@ -60,13 +60,161 @@
 
 &emsp;(C) Provide additional information necessary to the proper certification of enrollment by the educational institution.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, §301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, §103(a), Dec. 31, 2018, 132 Stat. 5369.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 162, §1778; renumbered §1779, Pub. L. 90–77, title III, §304(d), Aug. 31, 1967, 81 Stat. 186; amended Pub. L. 94–502, title V, §513(a)(4), Oct. 15, 1976, 90 Stat. 2402; Pub. L. 101–237, title IV, §423(b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3679, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–377, title II, §203(d), Jan. 4, 2011, 124 Stat. 4126; Pub. L. 113–146, title VII, §702(a), Aug. 7, 2014, 128 Stat. 1796; Pub. L. 113–175, title IV, §409(i), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–228, title IV, §415, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §§409(e), 417(a), Dec. 16, 2016, 130 Stat. 1560, 1565; Pub. L. 115–48, title I, §105(c)(7), Aug. 16, 2017, 131 Stat. 976; Pub. L. 115–251, title III, §301(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 115–407, title I, §103(a), Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–283, div. A, title IX, §926(a)(46), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §§1005(a), 1017(a), 1018(a), Jan. 5, 2021, 134 Stat. 4939, 4946.)
 
-#### Amendment of Subsection (c)(2)(B)
+#### Amendment of Section
 
-<i>Pub. L. 115–48, title I, §105(c)(7), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective</i><i>Aug. 1, 2020, subsection (c)(2)(B) of this section is amended by striking "3311(b)(9)" and inserting "3311(b)(8)". See 2017 Amendment note below.</i>
+<i>Pub. L. 116–315, title I, §1018, Jan. 5, 2021, 134 Stat. 4946, provided that, effective on June 15, 2021, and applicable to an educational institution beginning on Aug. 1, 2021, with exception for submission of an application for a waiver under subsec. (f)(5) of this section beginning on June 15, 2021, this section is amended by adding at the end the following new subsection:</i>
+
+<i>"(f)(1) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution does not perform any of the following:</i>
+
+&emsp;<i>"(A) Prior to the enrollment of a covered individual in a course of education at the educational institution, provide the individual with a form that contains information personalized to the individual that describes—</i>
+
+&emsp;&emsp;<i>"(i) the estimated total cost of the course, including tuition, fees, books, supplies, and any other additional costs;</i>
+
+&emsp;&emsp;<i>"(ii) an estimate of the cost for living expenses for students enrolled in the course;</i>
+
+&emsp;&emsp;<i>"(iii) the amount of the costs under clauses (i) and (ii) that are covered by the educational assistance provided to the individual under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as the case may be;</i>
+
+&emsp;&emsp;<i>"(iv) the type and amount of Federal financial aid not administered by the Secretary and financial aid offered by the institution that the individual may qualify to receive;</i>
+
+&emsp;&emsp;<i>"(v) an estimate of the amount of student loan debt the individual would have upon graduation;</i>
+
+&emsp;&emsp;<i>"(vi) information regarding graduation rates;</i>
+
+&emsp;&emsp;<i>"(vii) job-placement rates for graduates of the course, if available;</i>
+
+&emsp;&emsp;<i>"(viii) information regarding the acceptance by the institution of transfer of credits, including military credits;</i>
+
+&emsp;&emsp;<i>"(ix) any conditions or additional requirements, including training, experience, or examinations, required to obtain the license, certification, or approval for which the course of education is designed to provide preparation; and</i>
+
+&emsp;&emsp;<i>"(x) other information to facilitate comparison by the individual of aid packages offered by different educational institutions.</i>
+
+&emsp;<i>"(B) Not later than 15 days after the date on which the institution (or the governing body of the institution) determines tuition rates and fees for an academic year that is different than the amount being charged by the institution, provide a covered individual enrolled in a course of education at the educational institution with the form under subparagraph (A) that contains updated information.</i>
+
+&emsp;<i>"(C) Maintain policies to—</i>
+
+&emsp;&emsp;<i>"(i) inform each covered individual enrolled in a course of education at the educational institution of the availability of Federal financial aid not administered by the Secretary and financial aid offered by the institution; and</i>
+
+&emsp;&emsp;<i>"(ii) alert such individual of the potential eligibility of the individual for such financial aid before packaging or arranging student loans or alternative financing programs for the individual.</i>
+
+&emsp;<i>"(D) Maintain policies to—</i>
+
+&emsp;&emsp;<i>"(i) prohibit the automatic renewal of a covered individual in courses and programs of education; and</i>
+
+&emsp;&emsp;<i>"(ii) ensure that each covered individual approves of the enrollment of the individual in a course.</i>
+
+&emsp;<i>"(E) Provide to a covered individual enrolled in a course of education at the educational institution with information regarding the requirements to graduate from such course, including information regarding when required classes will be offered and a timeline to graduate.</i>
+
+&emsp;<i>"(F) With respect to an accredited educational institution, obtain the approval of the accrediting agency for each new course or program of the institution before enrolling covered individuals in such courses or programs if the accrediting agency determines that such approval is appropriate under the substantive change requirements of the accrediting agency regarding the quality, objectives, scope, or control of the institution.</i>
+
+&emsp;<i>"(G) Maintain a policy that—</i>
+
+&emsp;&emsp;<i>"(i) ensures that members of the Armed Forces, including the reserve components and the National Guard, who enroll in a course of education at the educational institution may be readmitted at such institution if such members are temporarily unavailable or have to suspend such enrollment by reason of serving in the Armed Forces; and</i>
+
+&emsp;&emsp;<i>"(ii) otherwise accommodates such members during short absences by reason of such service.</i>
+
+&emsp;<i>"(H) Designate an employee of the educational institution to serve as a point of contact for covered individuals and the family of such individuals needing assistance with respect to academic counseling, financial counseling, disability counseling, and other information regarding completing a course of education at such institution, including by referring such individuals and family to the appropriate persons for such counseling and information.</i>
+
+<i>"(2) Except as provided by paragraph (5), a State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency, the Secretary, or any Federal agency, determines that an educational institution does any of the following:</i>
+
+&emsp;<i>"(A) Carries out deceptive or persistent recruiting techniques, including on military installations, that may include—</i>
+
+&emsp;&emsp;<i>"(i) misrepresentation (as defined in section 3696(e)(2)(B) of this title) or payment of incentive compensation;</i>
+
+&emsp;&emsp;<i>"(ii) during any 1-month period making three or more unsolicited contacts to a covered individual, including contacts by phone, email, or in-person; or</i>
+
+&emsp;&emsp;<i>"(iii) engaging in same-day recruitment and registration.</i>
+
+&emsp;<i>"(B) Pays inducements, including any gratuity, favor, discount, entertainment, hospitality, loan, transportation, lodging, meals, or other item having a monetary value of more than a de minimis amount, to any individual or entity, or its agents including third party lead generators or marketing firms other than salaries paid to employees or fees paid to contractors in conformity with all applicable laws for the purpose of securing enrollments of covered individuals or obtaining access to educational assistance under this title, with the exception of scholarships, grants, and tuition reductions provided by the educational institution.</i>
+
+<i>"(3) A State approving agency, or the Secretary when acting in the role of the State approving agency, shall take an action described in paragraph (4)(A) if the State approving agency or the Secretary, when acting in the role of the State approving agency, determines that an educational institution is the subject of a negative action made by the accrediting agency that accredits the institution, including any of the following:</i>
+
+&emsp;<i>"(A) Accreditor sanctions.</i>
+
+&emsp;<i>"(B) Accreditation probation.</i>
+
+&emsp;<i>"(C) The loss of accreditation or candidacy for accreditation.</i>
+
+<i>"(4)(A) An action described in this subparagraph is any of the following:</i>
+
+&emsp;<i>"(i) Submitting to the Secretary a recommendation that the Secretary publish a warning on the internet website of the Department described in section 3698(c)(2) of this title, or such other similar internet website of the Department, that describes how an educational institution is failing to meet a requirement under paragraph (1), (2), or (3).</i>
+
+&emsp;<i>"(ii) Disapproving a course for purposes of this chapter.</i>
+
+<i>"(B)(i) The Secretary shall establish guidelines to ensure that the actions described in subparagraph (A) are applied in a proportional and uniform manner by State approving agencies, or the Secretary when acting in the role of the State approving agency.</i>
+
+<i>"(ii) Each State approving agency and the Secretary, when acting in the role of the State approving agency, shall adhere to the guidelines established under clause (i).</i>
+
+<i>"(C) The State approving agency, in consultation with the Secretary, or the Secretary when acting in the role of the State approving agency, may limit an action described in subparagraph (A)(ii) to individuals not enrolled at the educational institution before the period described in such subparagraph.</i>
+
+<i>"(5)(A) The Secretary may waive the requirements of paragraph (1) or waive the requirements of paragraph (2) with respect to an educational institution for a 1-academic-year period beginning in August of the year in which the waiver is made. A single educational institution may not receive waivers under this paragraph for more than 2 consecutive academic years.</i>
+
+<i>"(B) To be considered for a waiver under this paragraph, an educational institution shall submit to the Secretary an application prior to the first day of the academic year for which the waiver is sought.</i>
+
+<i>"(6) Not later than October 1 of each year, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the following reports:</i>
+
+&emsp;<i>"(A) A report, which shall be made publicly available, that includes the following:</i>
+
+&emsp;&emsp;<i>"(i) A summary of each action described in paragraph (4)(A) made during the year covered by the report, including—</i>
+
+&emsp;&emsp;&emsp;<i>"(I) the name of the educational institution;</i>
+
+&emsp;&emsp;&emsp;<i>"(II) the type of action taken;</i>
+
+&emsp;&emsp;&emsp;<i>"(III) the rationale for the action, including how the educational institution was not in compliance with this subsection;</i>
+
+&emsp;&emsp;&emsp;<i>"(IV) the length of time that the educational institution was not in such compliance; and</i>
+
+&emsp;&emsp;&emsp;<i>"(V) whether the educational institution was also not in compliance with this subsection during any of the 2 years prior to the year covered by the report.</i>
+
+&emsp;&emsp;<i>"(ii) A summary and justifications for the waivers made under paragraph (5) during the year covered by the report, including the total number of waivers each educational institution has received.</i>
+
+&emsp;<i>"(B) A report containing the recommendations of the Secretary with respect to any legislative actions the Secretary determines appropriate to ensure that this subsection is carried out in a manner that is consistent with the requirements that educational institutions must meet for purposes of other departments or agencies of the Federal Government.</i>
+
+<i>"(7) In this subsection, the term 'covered individual' means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10."</i>
+
+<i>Pub. L. 116–315, title I, §1005, Jan. 5, 2021, 134 Stat. 4939, provided that, applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2021, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(2)(A), by striking "less than three years before the date of enrollment in the course concerned"; and</i>
+
+<i>(2) in subsection (c)(4)—</i>
+
+<i>(A) by striking "It shall" and inserting "(A) It shall"; and</i>
+
+<i>(B) by adding at the end the following new subparagraph:</i>
+
+<i>"(B) To the extent feasible, the Secretary shall make publicly available on the internet website of the Department a database explaining any requirements described in subparagraph (A) that are established by a public institution of higher learning for an individual to be charged tuition and fees at a rate that is equal to or less than the rate the institution charges for tuition and fees for residents of the State in which the institution is located. The Secretary shall disapprove a course of education provided by such an institution that does not provide the Secretary—</i>
+
+&emsp;<i>"(i) an initial explanation of such requirements; and</i>
+
+&emsp;<i>"(ii) not later than 90 days after the date on which any such requirements change, the updated requirements."</i>
+
+<i>Pub. L. 116–315, title I, §1017, Jan. 5, 2021, 134 Stat. 4946, provided that, effective on Aug. 1, 2021, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(1), by inserting "(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)" after "requirements of this chapter"; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+<i>"(f) In this section, the term 'risk-based survey' means a risk-based survey developed under section 3673A(a) of this title."</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §1017(a)(1), inserted "(including failure to comply with a risk-based survey under this chapter or secure an affirmation of approval by the appropriate State approving agency following the survey)" after "requirements of this chapter".
+
+Subsec. (c)(2)(A). Pub. L. 116–315, §1005(a)(1), struck out "less than three years before the date of enrollment in the course concerned" before period at end.
+
+Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (c)(4). Pub. L. 116–315, §1005(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (f). Pub. L. 116–315, §1018(a), added subsec. (f) related to action by State approving agency.
+
+Pub. L. 116–315, §1017(a)(2), added subsec. (f) defining term "risk-based survey" in this section.
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–251, §301(a)(1), substituted "chapter 30, 31, or 33" for "chapter 30 or 33".
 
@@ -98,6 +246,16 @@ Subsec. (c)(1). Pub. L. 113–175, which directed amendment of par. (1) generall
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "the Administrator's disapproval" for "his disapproval".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–315, title I, §1005(b), Jan. 5, 2021, 134 Stat. 4940, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021."
+
+Pub. L. 116–315, title I, §1017(b), Jan. 5, 2021, 134 Stat. 4946, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on August 1, 2021."
+
+Pub. L. 116–315, title I, §1018(b), Jan. 5, 2021, 134 Stat. 4949, provided that: "The amendment made by this section \[amending this section\] shall take effect on June 15, 2021, and shall apply to an educational institution beginning on August 1, 2021, except that an educational institution may submit an application for a waiver under subsection (f)(5) of section 3679 of title 38, United States Code, as added by subsection (a), beginning on June 15, 2021."
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–251, title III, §301(b), Sept. 29, 2018, 132 Stat. 3178, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to courses of education provided during a quarter, semester, or term, as applicable, that begins after March 1, 2019."
@@ -112,7 +270,7 @@ Pub. L. 114–315, title IV, §417(b), Dec. 16, 2016, 130 Stat. 1565, provided t
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–146, title VII, §702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: "Subsection (c) of section 3679 of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015."
+Pub. L. 113–146, title VII, §702(b), Aug. 7, 2014, 128 Stat. 1797, provided that: "Subsection (c) of section 3679of title 38, United States Code (as added by subsection (a) of this section), shall apply with respect to educational assistance provided for pursuit of a program of education during a quarter, semester, or term, as applicable, that begins after July 1, 2015."
 
 #### Effective Date of 2011 Amendment
 

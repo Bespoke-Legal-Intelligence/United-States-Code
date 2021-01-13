@@ -30,6 +30,8 @@ Rule of Construction.—Nothing in this section shall be construed or applied so
 
 (Added Pub. L. 115–393, title II, §201(a), Dec. 21, 2018, 132 Stat. 5266.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (c)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.

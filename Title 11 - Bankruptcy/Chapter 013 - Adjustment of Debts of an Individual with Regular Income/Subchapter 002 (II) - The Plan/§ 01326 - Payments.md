@@ -6,7 +6,7 @@
 
 &emsp;(B) scheduled in a lease of personal property directly to the lessor for that portion of the obligation that becomes due after the order for relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment; and
 
-&emsp;(C) that provides adequate protection directly to a creditor holding an allowed claim secured by personal property to the extent the claim is attributable to the purchase of such property by the debtor for that portion of the obligation that becomes due after the order for relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment.
+&emsp;(C) that provides adequate protection directly to a creditor holding an allowed claim secured by personal property to the extent the claim is attributable to the purchase of such property by the debtor for that portion of the obligation that becomes due after the orderfor relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment.
 
 (2) A payment made under paragraph (1)(A) shall be retained by the trustee until confirmation or denial of confirmation. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as is practicable. If a plan is not confirmed, the trustee shall return any such payments not previously paid and not yet due and owing to creditors pursuant to paragraph (3) to the debtor, after deducting any unpaid claim allowed under section 503(b).
 
@@ -54,6 +54,8 @@ Section 1326 supplements the priorities provisions of section 507. Subsection (a
 
 Subsection (a) requires that before or at the time of each payment any outstanding administrative expenses \[and\] any percentage fee due for a private standing chapter 13 trustee be paid in full.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §309(c)(2), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows:
@@ -82,9 +84,11 @@ Subsec. (b)(2). Pub. L. 98–353, §531, inserted "of this title" after "1302(d)
 
 Subsec. (c). Pub. L. 98–353, §318(a)(1), redesignated former subsec. (b) as (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -99,6 +103,8 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

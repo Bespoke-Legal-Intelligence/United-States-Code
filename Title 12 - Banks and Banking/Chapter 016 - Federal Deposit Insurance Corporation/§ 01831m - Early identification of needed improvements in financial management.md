@@ -180,7 +180,7 @@ Each insured depository institution shall prepare—
 
 &emsp;&emsp;&emsp;&emsp;(I) any action initiated or taken by the appropriate Federal banking agency or the Corporation during such period under subsection (a), (b), (c), (e), (g), (i), (s), or (t) of section 1818 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) any action taken by any appropriate State bank supervisor under Statelaw which is similar to any action referred to in subclause (I); or
+&emsp;&emsp;&emsp;&emsp;(II) any action taken by any appropriate State bank supervisor under State law which is similar to any action referred to in subclause (I); or
 
 &emsp;&emsp;&emsp;&emsp;(III) any assessment of any civil money penalty under any other provision of law with respect to the institution or any institution-affiliated party.
 
@@ -230,6 +230,8 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 (Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(34), Feb. 15, 2006, 119 Stat. 3615.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (i)(3). Pub. L. 109–173 substituted "Deposit Insurance Fund" for "affected deposit insurance fund".
@@ -271,6 +273,8 @@ Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and head
 Subsec. (g)(3)(A)(i). Pub. L. 102–550, §1603(b)(3)(B), substituted "any appropriate" for "an appropriate".
 
 Subsec. (g)(5). Pub. L. 102–550, §1603(b)(3)(C), inserted "and each appropriate Federal banking agency" after "Corporation" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

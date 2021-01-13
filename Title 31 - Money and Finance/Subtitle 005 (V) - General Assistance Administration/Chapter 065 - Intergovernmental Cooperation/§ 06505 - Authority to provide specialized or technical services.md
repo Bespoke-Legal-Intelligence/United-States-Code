@@ -6,7 +6,7 @@
 
 &emsp;(1) written request is made by the State or local government; and
 
-&emsp;(2) payment of pay and all other identifiable costs of providing the services is made to theexecutive agency by the State or local government making the request.
+&emsp;(2) payment of pay and all other identifiable costs of providing the services is made to the executive agency by the State or local government making the request.
 
 (c) Payment received by an executive agency for providing services under this section shall be deposited to the credit of the principal appropriation from which the cost of providing the services has been paid or will be charged.
 
@@ -55,6 +55,8 @@ In subsection (b), the word "may" is substituted for "is authorized within his d
 In subsection (c), the word "Payment" is substituted for "moneys" for consistency in the section. The words "All" and "or any bureau or other administrative division thereof" are omitted as surplus.
 
 In subsection (d), the words "and does not supersede" are omitted as unnecessary. The words "authority under another law in effect on October 16, 1968" are substituted for "authority now possessed" for clarity. The words "by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government" are omitted as unnecessary.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Performance of Specialized or Technical Services
 

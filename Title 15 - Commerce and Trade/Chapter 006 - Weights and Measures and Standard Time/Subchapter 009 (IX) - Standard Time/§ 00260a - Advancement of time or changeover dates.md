@@ -6,7 +6,7 @@ During the period commencing at 2 o'clock antemeridian on the second Sunday of M
 
 #### (b) State laws superseded
 
-It is hereby declared that it is the express intent of Congress by this section to supersede any and all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
+It is hereby declared that it is the express intent of Congress by this section to supersede anyand all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
 
 #### (c) Violations; enforcement
 
@@ -30,7 +30,7 @@ Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that:
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: "This section \[amending this section and enacting provisions set out as notes below\] shall takeeffect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year."
+Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: "This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year."
 
 #### Study and Report on Energy Consumption; Reversion
 

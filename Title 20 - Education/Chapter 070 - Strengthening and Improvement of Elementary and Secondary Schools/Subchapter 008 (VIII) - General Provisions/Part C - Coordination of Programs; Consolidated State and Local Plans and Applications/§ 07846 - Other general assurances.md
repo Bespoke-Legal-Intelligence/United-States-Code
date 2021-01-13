@@ -24,9 +24,9 @@ Any applicant, other than a State educational agency that submits a plan or appl
 
 &emsp;&emsp;(A) submit such reports to the State educational agency (which shall make the reports available to the Governor) and the Secretary as the State educational agency and Secretary may require to enable the State educational agency and the Secretary to perform their duties under each such program; and
 
-&emsp;&emsp;(B) maintain such records, provide such information, and afford such access to the records as the State educational agency (after consultation with the Governor) or the Secretary may reasonably require to carry out the State educational agency's or the Secretary's duties; and
+&emsp;&emsp;(B) maintain such records, provide such information, and afford such access to therecords as the State educational agency (after consultation with the Governor) or the Secretary may reasonably require to carry out the State educational agency's or the Secretary's duties; and
 
-&emsp;(7) before the application was submitted, the applicant afforded a reasonable opportunityfor public comment on the application and considered such comment.
+&emsp;(7) before the application was submitted, the applicant afforded a reasonable opportunity for public comment on the application and considered such comment.
 
 #### (b) GEPA provision
 

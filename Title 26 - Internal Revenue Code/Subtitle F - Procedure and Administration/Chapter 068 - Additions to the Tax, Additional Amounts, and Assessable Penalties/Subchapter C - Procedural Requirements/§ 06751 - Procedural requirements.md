@@ -14,7 +14,7 @@ The Secretary shall include with each notice of penalty under this title informa
 
 &emsp;Paragraph (1) shall not apply to—
 
-&emsp;&emsp;(A) any addition to tax under section 6651, 6654, or 6655; or
+&emsp;&emsp;(A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof); or
 
 &emsp;&emsp;(B) any other penalty automatically calculated through electronic means.
 
@@ -22,7 +22,19 @@ The Secretary shall include with each notice of penalty under this title informa
 
 For purposes of this section, the term "penalty" includes any addition to tax or any additional amount.
 
-(Added Pub. L. 105–206, title III, §3306(a), July 22, 1998, 112 Stat. 744.)
+(Added Pub. L. 105–206, title III, §3306(a), July 22, 1998, 112 Stat. 744; amended Pub. L. 116–260, div. EE, title II, §212(b)(3), Dec. 27, 2020, 134 Stat. 3067.)
+
+#### Codification
+
+Another section 212(b) of div. EE of Pub. L. 116–260 amended section 63 of this title.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(A). Pub. L. 116–260 substituted "6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof)" for "or 6655".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under section 62 of this title.
 
 #### Effective Date
 

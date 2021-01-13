@@ -180,7 +180,7 @@ Contractor To Have Burden of Proof.—In a proceeding before the Armed Services 
 
 (k)
 
-Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, or personal services contractor employee submitting a complaint under section 2409 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
+Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subsection, costs incurred by a contractor or subcontractor, or personal services contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor or subcontractor, or personal services contractor employee submitting a complaint under section 2409 of this titleare not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in subparagraphs (A) through (C) of section 2409(a)(1) of this title, and (B) results in a disposition described in paragraph (2).
 
 (2) A disposition referred to in paragraph (1)(B) is any of the following:
 
@@ -188,7 +188,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 &emsp;(B) In the case of a civil or administrative proceeding involving an allegation of fraud or similar misconduct, a determination of contractor or subcontractor, or personal services contractor liability on the basis of the violation or failure referred to in paragraph (1).
 
-&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective actionunder section 2409 of this title by reason of the violation or failure referred to in paragraph (1).
+&emsp;(C) In the case of any civil or administrative proceeding, the imposition of a monetary penalty or an order to take corrective action under section 2409 of this title by reason of the violation or failure referred to in paragraph (1).
 
 &emsp;(D) A final decision—
 
@@ -252,7 +252,45 @@ Definitions.—In this section:
 
 &emsp;(6) The term "fiscal year" means a fiscal year established by a contractor for accounting purposes.
 
-(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b)\[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460; Pub. L. 115–232, div. A, title VIII, §836(c)(9), Aug. 13, 2018, 132 Stat. 1866.)
+(Added Pub. L. 99–145, title IX, §911(a)(1), Nov. 8, 1985, 99 Stat. 682; amended Pub. L. 99–190, §101(b) \[title VIII, §8112(a)\], Dec. 19, 1985, 99 Stat. 1185, 1223; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VIII, §805(a), Dec. 4, 1987, 101 Stat. 1126; Pub. L. 100–370, §1(f)(2)(A), (3)(A), July 19, 1988, 102 Stat. 846; Pub. L. 100–456, div. A, title III, §322(a), title VIII, §§826(a), 832(a), Sept. 29, 1988, 102 Stat. 1952, 2022, 2023; Pub. L. 100–463, title VIII, §8105(a), Oct. 1, 1988, 102 Stat. 2270–36; Pub. L. 100–526, title I, §106(a)(2), Oct. 24, 1988, 102 Stat. 2625; Pub. L. 100–700, §8(b), Nov. 19, 1988, 102 Stat. 4636; Pub. L. 101–189, div. A, title III, §311(a)(1), title VIII, §853(a)(1), (b)(3), Nov. 29, 1989, 103 Stat. 1411, 1518; Pub. L. 101–510, div. A, title XIII, §1301(10), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. A, title III, §346(a), Dec. 5, 1991, 105 Stat. 1346; Pub. L. 102–484, div. A, title VIII, §818(a), title X, §1052(26), title XIII, §1352(b), Oct. 23, 1992, 106 Stat. 2457, 2500, 2559; Pub. L. 103–355, title II, §2101(a)–(d), Oct. 13, 1994, 108 Stat. 3306–3308; Pub. L. 104–106, div. D, title XLIII, §4321(a)(5), (b)(9), Feb. 10, 1996, 110 Stat. 671, 672; Pub. L. 105–85, div. A, title VIII, §808(a), Nov. 18, 1997, 111 Stat. 1836; Pub. L. 105–261, div. A, title VIII, §804(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 111–350, §5(b)(19), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 112–81, div. A, title VIII, §803(a), (b), Dec. 31, 2011, 125 Stat. 1485; Pub. L. 112–239, div. A, title VIII, §827(g), Jan. 2, 2013, 126 Stat. 1836; Pub. L. 113–66, div. A, title VIII, §811(a), Dec. 26, 2013, 127 Stat. 806; Pub. L. 113–67, div. A, title VII, §702(a)(2), Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–291, div. A, title VIII, §857, Dec. 19, 2014, 128 Stat. 3460; Pub. L. 114–261, §1(b)(1), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 115–91, div. A, title VIII, §811(e), Dec. 12, 2017, 131 Stat. 1460; Pub. L. 115–232, div. A, title VIII, §836(c)(9), Aug. 13, 2018, 132 Stat. 1866; Pub. L. 116–283, div. A, title XVIII, §1832(b)(1)–(3)(A), (4), (c)(1), (d)(1), (e)(1), (e), (f)(1), (g), (h), (i)(1)(A), (2), Jan. 1, 2021, 134 Stat. 4218, 4219, 4221, 4222.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1832(b)(1)–(3)(A), (4), (c)(1), (d)(1), (e)(1), (e), (f)(1), (g), (h), (i)(1)(A), (2), Jan. 1, 2021, 134 Stat. 4151, 4218, 4219, 4221, 4222, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsecs. (a) to (d) to section 3743 of this title;</i>
+
+<i>(2) by transferring subsec. (e) to section 3744 of this title;</i>
+
+<i>(3) by transferring subsec. (f) to section 3745 of this title;</i>
+
+<i>(4) by transferring subsec. (g) to section 3746 of this title;</i>
+
+<i>(5) by transferring subsec. (h) to section 3747 of this title;</i>
+
+<i>(6) by transferring subsec. (i) to section 3748 of this title;</i>
+
+<i>(7) by transferring subsec. (j) to section 3749 of this title;</i>
+
+<i>(8) by transferring subsec. (k) to section 3750 of this title; and</i>
+
+<i>(9) by transferring subsec. (l) as follows:</i>
+
+<i>(A) paragraph (1)(A) to section 3741(2) of this title;</i>
+
+<i>(B) paragraph (1)(B) to section 3742 of this title;</i>
+
+<i>(C) paragraphs (2) and (3) to section 3741(4) and (5), respectively, of this title;</i>
+
+<i>(D) paragraph (4) to section 3741(1) of this title; and</i>
+
+<i>(E) paragraph (6) to section 3741(3) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Historical and Revision Notes
 
@@ -264,13 +302,41 @@ Subsection (j) is based on Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 S
 
 #### References in Text
 
-Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and Competitiveness Act of 1988), referred to in subsec. (e)(2)(C), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996. Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+Section 4 of the Buy American Act (as added by section 7002(2) of the Omnibus Trade and CompetitivenessAct of 1988), referred to in subsec. (e)(2)(C), was section 4 of act Mar. 3, 1933, ch. 212, title III, as added Pub. L. 100–418, title VII, §7002(2), Aug. 23, 1988, 102 Stat. 1545. Section 4, which was classified to section 10b–1 of former Title 41, Public Contracts, was omitted from the Code in view of section 7004 of Pub. L. 100–418 which provided that the amendment by Pub. L. 100–418 which enacted section 4 ceased to be effective on Apr. 30, 1996. Section 4 was subsequently repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 #### Codification
 
 Another section 2324 of this title was contained in chapter 138 and was renumbered section 2344 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a) to (d). Pub. L. 116–283, §1832(c)(1), redesignated subsecs. (a) to (d) as section 3743 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1832(d)(1), redesignated subsec. (e) as section 3744 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1832(e)(1), redesignated subsec. (f) as section 3745 of this title.
+
+Subsec. (g). Pub. L. 116–283, §1832(e), redesignated subsec. (g) as section 3746 of this title.
+
+Subsec. (h). Pub. L. 116–283, §1832(f)(1), redesignated subsec. (h) as section 3747 of this title.
+
+Subsec. (i). Pub. L. 116–283, §1832(g), redesignated subsec. (i) as section 3748 of this title.
+
+Subsec. (j). Pub. L. 116–283, §1832(h), redesignated subsec. (j) as section 3749 of this title.
+
+Subsec. (k)(1) to (5). Pub. L. 116–283, §1832(i)(2), redesignated pars. (1) to (5) as section 3750(b) to (f), respectively, of this title.
+
+Subsec. (k)(6). Pub. L. 116–283, §1832(i)(1)(A), redesignated par. (6) as section 3750(a) of this title.
+
+Subsec. (l)(1)(A). Pub. L. 116–283, §1832(b)(2), redesignated subpar. (A) as section 3741(2) of this title.
+
+Subsec. (l)(1)(B). Pub. L. 116–283, §1832(b)(4), redesignated subpar. (B) as section 3742 of this title.
+
+Subsec. (l)(2), (3). Pub. L. 116–283, §1832(b)(3)(A), redesignated pars. (2) and (3) as section 3741(4) and (5), respectively, of this title.
+
+Subsec. (l)(4). Pub. L. 116–283, §1832(b)(1), redesignated par. (4) as section 3741(1) of this title.
+
+Subsec. (l)(6). Pub. L. 116–283, §1832(b)(3)(A), redesignated par. (6) as section 3741(3) of this title.
 
 <b>2018</b>—Subsec. (l)(1)(A). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
 
@@ -400,7 +466,7 @@ Subsec. (f)(5). Pub. L. 102–484, §1052(26)(A), struck out par. (5) which read
 
 &emsp;"(B) with respect to the activities of the business segment to which such costs are being allocated, are determined by the Secretary of Defense to be likely to result in future cost advantages to the United States; and
 
-&emsp;"(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110 percent of such costs incurred by such business segment in the previous fiscal year."
+&emsp;"(C) with respect to a business segment which allocates to Department of Defense contracts $2,500,000 or more of such costs in any fiscal year of such business segment, are not in excess of the amount equal to 110percent of such costs incurred by such business segment in the previous fiscal year."
 
 Subsec. (l)(2). Pub. L. 102–484, §1052(26)(B)(i), substituted "paragraph (3)" for "subsection (e)(2)(C)".
 
@@ -467,6 +533,14 @@ Subsec. (k). Pub. L. 100–26 inserted "the term" after "In this section,".
 Subsec. (h)(2). Pub. L. 99–190, §101(b) \[§8112(a)(2)\], inserted ", in an exceptional case," in provisions preceding subpar. (A).
 
 Subsecs. (j), (k). Pub. L. 99–190, §101(b) \[§8112(a)(3)\], added subsec. (j) and redesignated former subsec. (j) as (k).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -550,7 +624,7 @@ Pub. L. 100–700, §8(e), Nov. 19, 1988, 102 Stat. 4638, provided that: "The am
 
 Pub. L. 100–463, title VIII, §8105(d), Oct. 1, 1988, 102 Stat. 2270–37, provided that subsec. (f)(5) of this section, as enacted by section 8105(a) of Pub. L. 100–463, would cease to be effective three years after Oct. 1, 1988. Section 106(a)(2) of Pub. L. 100–526 provided that section 8105 of Pub. L. 100–463 "and the amendment made by that section shall cease to be effective".
 
-Pub. L. 100–456, div. A, title III, §322(b), Sept. 29, 1988, 102 Stat. 1953, provided that: "Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Sept. 29, 1988\]."
+Pub. L. 100–456, div. A, title III, §322(b), Sept. 29, 1988, 102 Stat. 1953, provided that: "Subparagraph (M) of section 2324(e)(1) of title 10, United States Code, as added by subsection (a), shall apply with respect to any contract entered into after the end of the 180-day periodbeginning on the date of the enactment of this Act \[Sept. 29, 1988\]."
 
 Pub. L. 100–456, div. A, title VIII, §826(d), Sept. 29, 1988, 102 Stat. 2023, as amended by Pub. L. 100–526, title I, §106(a)(1)(B), Oct. 24, 1988, 102 Stat. 2625, provided that: "Section 2324(f)(5) of title 10, United States Code (as added by subsection (a)), shall cease to be effective on September 30, 1991."
 
@@ -688,7 +762,7 @@ Pub. L. 100–456, div. A, title VIII, §826(c), Sept. 29, 1988, 102 Stat. 2022,
 
 #### Air Travel Expenses of Defense Contractor Personnel
 
-Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enterinto negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VIII, §833, Sept. 29, 1988, 102 Stat. 2024, as amended by Pub. L. 101–189, div. A, title VIII, §853(a)(2), Nov. 29, 1989, 103 Stat. 1518, directed the Administrator of General Services to enter into negotiations with commercial air carriers for agreements that would permit personnel of contractors who were traveling solely in the performance of covered contracts to be transported by such carriers at the same discount rates as such carriers charged for travel by Federal Government employees traveling at Government expense, directed the Secretary of Defense, not later than 120 days after the first such agreement would go into effect, to prescribe regulations that would provide that costs in excess of the rates established under the agreement were not allowable if the rate had been available and travel could have reasonably been performed under the conditions required by the air carrier to qualify for such rate, and provided that section 833 of Pub. L. 100–456 would cease to be effective three years after Sept. 29, 1988.
 
 #### Burden of Proof in Government Contract Dispute Resolution
 

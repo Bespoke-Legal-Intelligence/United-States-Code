@@ -314,7 +314,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H)if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
 
 #### (ii) Reasons
 
@@ -368,7 +368,7 @@ The purposes of the Center shall be to—
 
 #### (2) Other officers and employees
 
-&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall be vested with such powers and duties as the Board may determine.
+&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall bevested with such powers and duties as the Board may determine.
 
 #### (3) Delegation
 
@@ -416,7 +416,7 @@ To carry out this section, the Board may consult with—
 
 #### References in Text
 
-This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural DevelopmentAct, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 
@@ -456,7 +456,7 @@ Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (
 
 Subsec. (e)(3)(E). Pub. L. 106–78, §816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
+Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Textread as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
 
 Subsec. (e)(3)(F) to (H). Pub. L. 106–78, §816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
 

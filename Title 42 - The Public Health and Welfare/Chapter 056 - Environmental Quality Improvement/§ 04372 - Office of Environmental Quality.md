@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Director; Deputy Director
 
-There is established in the Executive Office of the President an office to be known as the Office of Environmental Quality (hereafter in this chapter referred to as the "Office"). The Chairman of the Council on Environmental Quality established by Public Law 91–190 shall be the Director of the Office. There shall be in the Office a Deputy Director who shall be appointed by the President, by and with the advice and consent of the Senate.
+There is established in the Executive Office of the President an office to be known as the Office of Environmental Quality (hereafter in this chapter referred to as the "Office"). The Chairman of the Council on Environmental Quality established by Public Law 91–190 shall be the Director of the Office. There shall be in the Office a Deputy Director who shall be appointed by thePresident, by and with the advice and consent of the Senate.
 
 #### (b) Compensation of Deputy Director
 
@@ -24,7 +24,7 @@ In carrying out his functions the Director shall assist and advise the President
 
 &emsp;(4) promoting the advancement of scientific knowledge of the effects of actions and technology on the environment and encourage <sup>1</sup> the development of the means to prevent or reduce adverse effects that endanger the health and well-being of man;
 
-&emsp;(5) assisting in coordinating among the Federal departments and agencies those programsand activities which affect, protect, and improve environmental quality;
+&emsp;(5) assisting in coordinating among the Federal departments and agencies those programs and activities which affect, protect, and improve environmental quality;
 
 &emsp;(6) assisting the Federal departments and agencies in the development and interrelationship of environmental quality criteria and standards established through the Federal Government;
 

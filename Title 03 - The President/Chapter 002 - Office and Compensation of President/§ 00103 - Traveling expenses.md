@@ -4,9 +4,13 @@ There may be expended for or on account of the traveling expenses of the Preside
 
 (June 25, 1948, ch. 644, 62 Stat. 678; Pub. L. 95–570, §4, Nov. 2, 1978, 92 Stat. 2450.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–570 substituted "$100,000" for "$40,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

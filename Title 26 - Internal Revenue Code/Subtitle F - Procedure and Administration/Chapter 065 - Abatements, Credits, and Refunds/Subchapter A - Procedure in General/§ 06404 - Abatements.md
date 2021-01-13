@@ -68,13 +68,13 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;&emsp;(ii) the due date of the return without regard to extensions,
 
-> &emsp;&emsp;the Secretary shall suspend the imposition of any interest, penalty, addition to tax, oradditional amount with respect to any failure relating to the return which is computed by reference to the period of time the failure continues to exist and which is properly allocable to the suspension period.
+> &emsp;&emsp;the Secretary shall suspend the imposition of any interest, penalty, addition to tax, or additional amount with respect to any failure relating to the return which is computed by reference to the period of time the failure continues to exist and which is properly allocable to the suspension period.
 
 #### (B) Separate application
 
 &emsp;&emsp;This paragraph shall be applied separately with respect to each item or adjustment.
 
-> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
+> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing thatthe taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
 
 #### (2) Exceptions
 
@@ -160,7 +160,7 @@ Subsec. (g)(2)(F). Pub. L. 108–357, §903(c), redesignated subpar. (E) as (F).
 
 Subsec. (g)(3)(A). Pub. L. 108–357, §903(a), substituted "18-month period" for "1-year period (18-month period in the case of taxable years beginning before January 1, 2004)".
 
-<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term "Presidentially declared disaster area" for purposes of this provision.
+<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struckout former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term "Presidentially declared disaster area" for purposes of this provision.
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–206, §3305(a), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub.L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(l) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\]."
 
@@ -282,7 +282,7 @@ Emergency Designation.—
 
 &emsp;"(2) The amendments made by subsections (a) and (b) of this section \[amending this section\] shall only take effect upon the transmittal by the President to the Congress of a message designating the provisions of subsections (a) and (b) as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act."
 
-\[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, p. H6160, Daily Issue.\]
+\[For message of the President dated July 22, 1998, designating the provisions of section 3309(a), (b) of Pub. L. 105–206 as an emergency requirement pursuant to section 252(e) of the Balanced Budget and Emergency Deficit Control Act of 1985 on July 22, 1998, see Cong. Rec., vol. 144, pt. 11, p. 16779.\]
 
 #### Effective Date of 1996 Amendment
 

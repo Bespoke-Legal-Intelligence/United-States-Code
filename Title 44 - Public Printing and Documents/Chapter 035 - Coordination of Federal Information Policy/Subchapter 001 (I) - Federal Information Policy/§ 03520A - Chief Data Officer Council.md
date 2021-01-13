@@ -48,7 +48,7 @@ Evaluation and Termination.—
 
 &emsp;(1)
 
-GAO evaluation of council.—Not later than 4 years after date <sup>1</sup> of the enactment ofthis section, the Comptroller General shall submit to Congress a report on whether the additional duties of the Council improved the use of evidence and program evaluation in the Federal Government.
+GAO evaluation of council.—Not later than 4 years after date <sup>1</sup> of the enactment of this section, the Comptroller General shall submit to Congress a report on whether the additional duties of the Council improved the use of evidence and program evaluation in the Federal Government.
 
 &emsp;(2)
 
@@ -56,9 +56,13 @@ Termination of council.—The Council shall terminate and this section shall be 
 
 (Added Pub. L. 115–435, title II, §202(f)(1), Jan. 14, 2019, 132 Stat. 5542.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 115–435, which was approved Jan. 14, 2019.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

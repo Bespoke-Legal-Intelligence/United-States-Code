@@ -50,6 +50,8 @@ Historical and Revision Notes
 
 Pub. L. 107–248, title IX, §904, Oct. 23, 2002, 116 Stat. 1576.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 107–248, title IX, §902, Oct. 23, 2002, 116 Stat. 1573, provided that: "Congress makes the following findings:

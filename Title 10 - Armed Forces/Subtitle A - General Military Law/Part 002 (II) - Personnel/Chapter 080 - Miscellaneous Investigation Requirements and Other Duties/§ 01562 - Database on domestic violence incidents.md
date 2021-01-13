@@ -22,7 +22,7 @@ Pub. L. 111–383, div. A, title V, §543, Jan. 7, 2011, 124 Stat. 4218, as amen
 
 "(a)
 
-Implementation of Outstanding Comptroller General Recommendations.—Consistent with the recommendations contained in the report of the Comptroller General of the United States titled 'Status of Implementation of GAO's 2006 Recommendations on the Department of Defense's Domestic Violence Program' (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
+Implementation of Outstanding Comptroller General Recommendations.—Consistent with the recommendations contained in the report of the Comptroller General of the United States titled 'Status ofImplementation of GAO's 2006 Recommendations on the Department of Defense's Domestic Violence Program' (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
 
 &emsp;"(1)
 
@@ -74,7 +74,7 @@ Program.—The Secretary of Defense shall establish a program to provide funds a
 
 &emsp;"(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 
-&emsp;"(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A)for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
+&emsp;"(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
 
 &emsp;"(3) To strengthen the capacity of attorneys and other legal advocates to respond appropriately to victims of military domestic violence.
 

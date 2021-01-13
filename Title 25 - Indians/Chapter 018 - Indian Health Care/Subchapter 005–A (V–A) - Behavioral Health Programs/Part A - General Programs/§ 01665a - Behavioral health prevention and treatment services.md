@@ -136,7 +136,7 @@ The Secretary, acting through the Service, shall provide, to the extent feasible
 
 #### (2) Technical assistance
 
-&emsp;At the request of an Indian tribe, tribal organization, or urban Indian organization, theBureau of Indian Affairs and the Service shall cooperate with and provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization in the development and implementation of such plan.
+&emsp;At the request of an Indian tribe, tribal organization, or urban Indian organization, the Bureau of Indian Affairs and the Service shall cooperate with and provide technical assistance to the Indian tribe, tribal organization, or urban Indian organization in the development and implementation of such plan.
 
 #### (3) Funding
 
@@ -148,9 +148,11 @@ The Secretary, acting through the Service, shall coordinate behavioral health pl
 
 #### (f) Mental health care need assessment
 
-Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, shall make an assessment of the need for inpatient mental health care among Indians and the availability and cost of inpatient mental health facilities which can meet such need. In making such assessment, the Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
+Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, shall make an assessment of the need for inpatient mental health care among Indians and the availability and cost of inpatient mental health facilities which can meet such need. In making such assessment, the Secretary shall consider the possible conversion of existing, underusedService hospital beds into psychiatric units to meet such need.
 
 (Pub. L. 94–437, title VII, §702, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -4,6 +4,8 @@ Each officer, or person performing the functions of an officer, and each directo
 
 (June 8, 1938, ch. 327, §7, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Aug. 3, 1950, ch. 524, §2, 64 Stat. 400.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Section 7 of act June 8, 1938, prior to the general amendment of that act by act Apr. 29, 1942, provided for the effective date of the 1938 act. See Effective Date note set out under section 611 of this title.
@@ -14,7 +16,9 @@ Section 7 of act June 8, 1938, prior to the general amendment of that act by act
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1942 Amendment
 
-Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to suchsixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
+Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 1942, except that prior to such sixtieth day the Attorney General may make, prescribe, amend, and rescind such rules, regulations, and forms as may be necessary to carry out act Apr. 29, 1942, see section 3 of act Apr. 29, 1942, set out as a note under section 611 of this title.
 

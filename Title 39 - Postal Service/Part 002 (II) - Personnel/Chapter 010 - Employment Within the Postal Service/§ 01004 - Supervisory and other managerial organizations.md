@@ -80,9 +80,11 @@
 
 &emsp;(A) between the Postal Service and the postmasters' organization as represented by the organization; or
 
-&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters' organizations (acting in concert) as represented by either or any of the postmasters' organizations involved.
+&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Serviceand the postmasters' organizations (acting in concert) as represented by either or any of the postmasters' organizations involved.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, §2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -99,6 +101,8 @@ Subsec. (h). Pub. L. 108–86, §2(b)(2), added subsec. (h). Former subsec. (h) 
 Subsec. (i). Pub. L. 108–86, §2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
 
 <b>1980</b>—Subsecs. (c) to (h). Pub. L. 96–326 added subsecs. (c) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

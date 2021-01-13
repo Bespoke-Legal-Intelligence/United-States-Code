@@ -74,7 +74,123 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Extramedical Maternal Health Providers Demonstration Project
+
+Pub. L. 116–283, div. A, title VII, §746, Jan. 1, 2021, 134 Stat. 3710, provided that:
+
+"(a)
+
+Demonstration Project Required.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall commence carrying out a demonstration project designed to evaluate the cost, quality of care, and impact on maternal and fetal outcomes of using extramedical maternal health providers under the TRICARE program to determine the appropriateness of making coverage of such providers under the TRICARE program permanent.
+
+"(b)
+
+Elements of Demonstration Project.—The demonstration project under subsection (a) shall include, for participants in the demonstration project, the following:
+
+&emsp;"(1) Access to doulas.
+
+&emsp;"(2) Access to lactation consultants or lactation counselors who are not otherwise authorized to provide services under the TRICARE program.
+
+"(c)
+
+Participants.—The Secretary shall establish a process under which covered beneficiaries may enroll in the demonstration project to receive the services provided under the demonstration project.
+
+"(d)
+
+Duration.—The Secretary shall carry out the demonstration project for a period of five years beginning on the date on which notification of the commencement of the demonstration project is published in the Federal Register.
+
+"(e)
+
+Surveys.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act, and annually thereafter for the duration of the demonstration project, the Secretary shall administer a survey to determine—
+
+&emsp;&emsp;"(A) how many members of the Armed Forces or spouses of such members give birth while their spouse or birthing partner is unable to be present due to deployment, training, or other mission requirements;
+
+&emsp;&emsp;"(B) how many single members of the Armed Forces give birth alone; and
+
+&emsp;&emsp;"(C) how many members of the Armed Forces or spouses of such members use doula, lactation consultant, or lactation counselor support.
+
+&emsp;"(2)
+
+Matters covered by surveys.—The surveys administered under paragraph (1) shall include an identification of the following:
+
+&emsp;&emsp;"(A) The race, ethnicity, age, sex, relationship status, Armed Force, military occupation, and rank, as applicable, of each individual surveyed.
+
+&emsp;&emsp;"(B) If individuals surveyed were members of the Armed Forces or the spouses of such members, or both.
+
+&emsp;&emsp;"(C) The length of advanced notice received by individuals surveyed that the member of the Armed Forces would be unable to be present during the birth, if applicable.
+
+&emsp;&emsp;"(D) Any resources or support that the individuals surveyed found useful during the pregnancy and birth process, including doula, lactation consultant, or lactation counselor support.
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Implementation plan.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan to implement the demonstration project.
+
+&emsp;"(2)
+
+Annual report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date on which the demonstration project commences, and annually thereafter for the duration of the demonstration project, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the cost of the demonstration project and the effectiveness of the demonstration project in improving quality of care and the maternal and fetal outcomes of covered beneficiaries enrolled in the demonstration project.
+
+&emsp;&emsp;"(B)
+
+Matters covered.—Each report submitted under subparagraph (A) shall address, at a minimum, the following:
+
+&emsp;&emsp;&emsp;"(i) The number of covered beneficiaries who are enrolled in the demonstration project.
+
+&emsp;&emsp;&emsp;"(ii) The number of enrolled covered beneficiaries who have participated in the demonstration project.
+
+&emsp;&emsp;&emsp;"(iii) The results of the surveys under subsection (e).
+
+&emsp;&emsp;&emsp;"(iv) The cost of the demonstration project.
+
+&emsp;&emsp;&emsp;"(v) An assessment of the quality of care provided to participants in the demonstration project.
+
+&emsp;&emsp;&emsp;"(vi) An assessment of the impact of the demonstration project on maternal and fetal outcomes.
+
+&emsp;&emsp;&emsp;"(vii) An assessment of the effectiveness of the demonstration project.
+
+&emsp;&emsp;&emsp;"(viii) Recommendations for adjustments to the demonstration project.
+
+&emsp;&emsp;&emsp;"(ix) The estimated costs avoided as a result of improved maternal and fetal health outcomes due to the demonstration project.
+
+&emsp;&emsp;&emsp;"(x) Recommendations for extending the demonstration project or implementing permanent coverage under the TRICARE program of extramedical maternal health providers.
+
+&emsp;&emsp;&emsp;"(xi) An identification of legislative or administrative action necessary to make the demonstration project permanent.
+
+&emsp;&emsp;"(C)
+
+Final report.—The final report under subparagraph (A) shall be submitted not later than 90 days after the date on which the demonstration project terminates.
+
+"(g)
+
+Expansion of Demonstration Project.—
+
+&emsp;"(1)
+
+Regulations.—If the Secretary determines that the demonstration project is successful, the Secretary may prescribe regulations to include extramedical maternal health providers as health care providers authorized to provide care under the TRICARE program.
+
+&emsp;"(2)
+
+Credentialing and other requirements.—The Secretary may establish credentialing and other requirements for doulas, lactation consultants, and lactation counselors through public notice and comment rulemaking for purposes of including doulas, lactation consultants, and lactation counselors as health care providers authorized to provide care under the TRICARE program pursuant to regulations prescribed under paragraph (1).
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'covered beneficiary' and 'TRICARE program' have the meanings given those terms in section 1072 of title 10, United States Code.
+
+&emsp;"(2) The term 'extramedical maternal health provider' means a doula, lactation consultant, or lactation counselor."
 
 #### Residency Requirements for Podiatrists
 
@@ -86,7 +202,7 @@ Requirement.—In addition to any other qualification required by law or regulat
 
 "(b)
 
-Application.—Subsection (a) shall apply with respect to an individual who is commissioned as an officer in the Armed Forces on or after the date that is one year after the date of the enactment of this Act \[Dec. 12, 2017\]."
+Application.—Subsection (a) shall apply with respect to an individual who is commissioned as an officer in the Armed Forces on or after the date that is oneyear after the date of the enactment of this Act \[Dec. 12, 2017\]."
 
 #### Authorization of Physical Therapist Assistants and Occupational Therapy Assistants To Provide Services Under the TRICARE Program
 
@@ -120,7 +236,7 @@ Pub. L. 114–328, div. A, title VII, §701(h), Dec. 23, 2016, 130 Stat. 2188, p
 
 "(1)
 
-In general.—Not later than January 1, 2018, the Secretary of Defense shall carry out a pilot program to demonstrate and assess the feasibility of incorporatingvalue-based health care methodology in the purchased care component of the TRICARE program by reducing copayments or cost shares for targeted populations of covered beneficiaries in the receipt of high-value medications and services and the use of high-value providers under such purchased care component, including by exempting certain services from deductible requirements.
+In general.—Not later than January 1, 2018, the Secretary of Defense shall carry out a pilot program to demonstrate and assess the feasibility of incorporating value-based health care methodology in the purchased care component of the TRICARE program by reducing copayments or cost shares for targeted populations of covered beneficiaries in the receipt of high-value medications and services and the use of high-value providers under such purchased care component, including by exempting certain services from deductible requirements.
 
 "(2)
 
@@ -180,7 +296,7 @@ Comptroller general preliminary review and assessment.—
 
 Review and assessment of pilot program.—
 
-&emsp;"(A) Not later than January 1, 2023, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a review and assessment of the pilot program.
+&emsp;"(A) Not later than January 1, 2023, the Secretary shall submit to the Committees on Armed Services ofthe Senate and the House of Representatives a review and assessment of the pilot program.
 
 &emsp;"(B) The review and assessment required under subparagraph (A) shall include the following:
 
@@ -224,7 +340,7 @@ Chronic diseases or conditions described.—Chronic diseases or conditions descr
 
 "(b)
 
-Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, suchas smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
+Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, such as smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
 
 "(c)
 
@@ -350,7 +466,7 @@ Pub. L. 114–92, div. A, title VII, §716, Nov. 25, 2015, 129 Stat. 867, provid
 
 "(a)
 
-Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that isaccredited by the Council for Accreditation of Counseling and Related Educational Programs.
+Qualifications for TRICARE Certified Mental Health Counselors During Transition Period.—During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that is accredited by the Council for Accreditation of Counseling and Related Educational Programs.
 
 "(b)
 
@@ -472,7 +588,7 @@ Rule of Construction.—Nothing in this section shall be construed as authorizin
 
 #### Inpatient Mental Health Service
 
-Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: "None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interestin the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care."
+Pub. L. 110–329, div. C, title VIII, §8095, Sept. 30, 2008, 122 Stat. 3642, provided that: "None of the funds appropriated by this Act \[div. C of Pub. L. 110–329, see Tables for classification\], and hereafter, available for the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) or TRICARE shall be available for the reimbursement of any health care provider for inpatient mental health service for care received when a patient is referred to a provider of inpatient mental health care or residential treatment care by a medical or health care professional having an economic interest in the facility to which the patient is referred: <i>Provided,</i> That this limitation does not apply in the case of inpatient mental health services provided under the program for persons with disabilities under subsection (d) of section 1079 of title 10, United States Code, provided as partial hospital care, or provided pursuant to a waiver authorized by the Secretary of Defense because of medical or psychological circumstances of the patient that are confirmed by a health professional who is not a Federal employee after a review, pursuant to rules prescribed by the Secretary, which takes into account the appropriate level of care for the patient, the intensity of services required by the patient, and the availability of that care."
 
 #### Surveys on Continued Viability of TRICARE Standard and TRICARE Extra
 
@@ -782,7 +898,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §723\], Oct. 30, 2000, 114 Stat
 
 "(a)
 
-Requirement To Implement Internet-Based System.—Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet,through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
+Requirement To Implement Internet-Based System.—Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet, through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
 
 "(b)
 
@@ -852,7 +968,7 @@ Waiver Authority.—The Secretary may waive the prohibition in subsection (a) if
 
 &emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care at the military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
 
-&emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiver under this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
+&emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiverunder this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
 
 &emsp;"(4) 60 days have elapsed since the date of the notification described in paragraph (3).
 
@@ -954,7 +1070,7 @@ Eligible Individuals.—(1) An individual is eligible to participate under this 
 
 #### System for Tracking Data and Measuring Performance in Meeting TRICARE Access Standards
 
-Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for tracking data and measuring performance in meeting primary care access standards under the TRICARE program.
+Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for trackingdata and measuring performance in meeting primary care access standards under the TRICARE program.
 
 #### TRICARE as Supplement to Medicare Demonstration
 
@@ -1066,7 +1182,7 @@ Uniform Benefit Required.—A designated provider shall offer to enrollees the h
 
 Time for Implementation of Benefit.—A designated provider shall offer the health benefit option described in subsection (a) to enrollees upon the later of the following:
 
-&emsp;"(1) The date on which health care services within the health care delivery system of the uniformedservices are rendered through the TRICARE program in the region in which the designated provider operates.
+&emsp;"(1) The date on which health care services within the health care delivery system of the uniformed services are rendered through the TRICARE program in the region in which the designated provider operates.
 
 &emsp;"(2) October 1, 1997.
 
@@ -1120,7 +1236,7 @@ Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in pa
 
 "(f)
 
-Information Regarding Eligible Covered Beneficiaries.—The Secretary shall provide, in a timely manner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
+Information Regarding Eligible Covered Beneficiaries.—The Secretary shall provide, in a timelymanner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
 
 "(g)
 
@@ -1152,7 +1268,7 @@ Conforming Amendment.—\[Amended section 1074 of this title.\]
 
 "(a)
 
-Form of Payment.—Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience ofenrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
+Form of Payment.—Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience of enrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
 
 "(b)
 
@@ -1282,13 +1398,13 @@ Modification of Existing Contracts.—In the case of managed health care contrac
 
 #### Managed Health Care Program and Contracts for Military Health Services System
 
-Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of the nation-wide managed care military health services system would be extended to Sept. 30, 1997.
+Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of thenation-wide managed care military health services system would be extended to Sept. 30, 1997.
 
 Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
 
 #### Alternative Health Care Delivery Methodologies
 
-Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, titleVII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
+Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as amended by Pub. L. 103–160, div. A, title VII, §719, Nov. 30, 1993, 107 Stat. 1694, directed the Secretary of Defense to continue to conduct during fiscal years 1993 through 1996 a broad array of reform initiatives for furnishing health care to persons who were eligible to receive health care under chapter 55 of this title and to submit to Congress a report regarding such initiatives not later than Sept. 30, 1994, and further directed the Secretary to take certain steps to ensure the continuation of the CHAMPUS reform initiative in the States of California and Hawaii.
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 
@@ -1318,7 +1434,7 @@ Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as am
 
 Pub. L. 114–328, div. A, title VII, §701(i), Dec. 23, 2016, 130 Stat. 2190, provided that: "In this section \[enacting sections 1075 and 1075a of this title, amending sections 1072, 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title, and enacting provisions set out as notes under this section and sections 1072 and 1099 of this title\]:
 
-&emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life', 'TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
+&emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life','TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
 
 &emsp;"(2) The term 'TRICARE Select' means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of such title, as added by subsection (a).
 

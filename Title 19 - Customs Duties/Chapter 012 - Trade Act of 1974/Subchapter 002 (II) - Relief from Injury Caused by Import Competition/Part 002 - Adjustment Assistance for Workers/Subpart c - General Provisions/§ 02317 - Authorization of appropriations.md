@@ -40,7 +40,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 Subsec. (a). Pub. L. 114–27, §§403(d)(1), 406, temporarily substituted "June 30, 2021" for "December 31, 2013". See Codification note above and Effective and Termination Dates of 2015 Revival note below.
 
@@ -122,11 +122,11 @@ Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(e)\], Nov. 29, 1999, 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Parts 2 and 3 of this subchapter to be applied as if the amendment of this section by Pub. L. 99–272 had takeneffect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
+Parts 2 and 3 of this subchapter to be applied as if the amendment of this section by Pub. L. 99–272 had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as a note under section 2291 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

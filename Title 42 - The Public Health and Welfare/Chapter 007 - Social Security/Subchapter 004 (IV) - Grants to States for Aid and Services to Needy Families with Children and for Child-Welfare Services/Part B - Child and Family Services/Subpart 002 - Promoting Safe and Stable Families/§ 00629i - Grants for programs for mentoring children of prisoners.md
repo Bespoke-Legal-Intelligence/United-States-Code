@@ -12,7 +12,7 @@
 
 &emsp;(D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these children often exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
 
-&emsp;(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths' life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big BrothersBig Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
+&emsp;(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths' life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big Brothers Big Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
 
 #### (2) Purposes
 
@@ -184,7 +184,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (iii) Secretarial authority to modify distribution requirement
 
-&emsp;&emsp;&emsp;The Secretary may modify the number of vouchers specified in subclauses (I) through (III) of clause (i) to take into account the availability of appropriations and the need to ensure that the vouchers distributed by the entity are for amounts that are adequate to ensure the provision of mentoring services for a 12-month period.
+&emsp;&emsp;&emsp;The Secretary may modify the number of vouchers specified in subclauses (I)through (III) of clause (i) to take into account the availability of appropriations and the need to ensure that the vouchers distributed by the entity are for amounts that are adequate to ensure the provision of mentoring services for a 12-month period.
 
 #### (C) Collaboration and cooperation
 
@@ -330,7 +330,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 &emsp;&emsp;&emsp;With respect to any fiscal year, no funds may be awarded for a cooperative agreement under subsection (g), unless at least $25,000,000 of the amount appropriated under paragraph (1) for that fiscal year is used by the Secretary for making grants under this section for that fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
+(Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
 
 #### Codification
 

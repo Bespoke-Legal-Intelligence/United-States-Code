@@ -26,6 +26,8 @@ For purposes of laws relating to navigation on inland and intracoastal waterways
 
 (Pub. L. 102–580, title II, §205, Oct. 31, 1992, 106 Stat. 4827; Pub. L. 113–121, title II, §2006(a)(4), June 10, 2014, 128 Stat. 1268.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.

@@ -12,7 +12,7 @@
 
 #### (3) Missed deadline
 
-&emsp;If the Secretary is unable to meet the deadline established pursuant to paragraph (2), the Secretary shall submit a letter to the appropriate congressional committees explaining why the Secretary is unable to meet that deadline and describing what must be done before such minimum standards and procedures can be established.
+&emsp;If the Secretary is unable to meet the deadline established pursuant to paragraph (2), theSecretary shall submit a letter to the appropriate congressional committees explaining why the Secretary is unable to meet that deadline and describing what must be done before such minimum standards and procedures can be established.
 
 #### (4) Deadline for enforcement
 
@@ -41,6 +41,8 @@ The Secretary, in consultation with the Secretary of State, the Secretary of Ene
 In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.
 
 (Pub. L. 109–347, title II, §204, Oct. 13, 2006, 120 Stat. 1905; Pub. L. 110–53, title XVII, §1701(b), Aug. 3, 2007, 121 Stat. 491.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Subject to subsection (c), the amount determined under this subsection with resp
 
 The amount of the credit determined under subsection (b) without regard to this subsection shall be reduced (but not below zero) by the sum of the following amounts:
 
-&emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
+&emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number offull-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
 
 &emsp;(2) Such amount multiplied by a fraction the numerator of which is the average annual wages of the employer in excess of the dollar amount in effect under subsection (d)(3)(B) and the denominator of which is such dollar amount.
 
@@ -208,7 +208,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (h), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Subtitle A (§§1001 to 1004) of title I of the Act enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of Title 42, The Public Health and Welfare, redesignated sections 300gg–4 to 300gg–7 of Title 42 as sections 300gg–25 to 300gg–28, respectively, of Title 42, and section 300gg–13 of Title 42 as section 300gg–9 of Title 42, amended former sections 300gg–11 and 300gg–12 and sections 300gg–21 to 300gg–23 of Title 42, and enacted provisions set out as a note under section 300gg–11 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 

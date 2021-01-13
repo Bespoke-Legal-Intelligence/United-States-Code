@@ -30,7 +30,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth;
+&emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives oforganizations that serve out-of-school youth;
 
 &emsp;&emsp;(C) each local board shall include representatives of entities administering education and training activities in the local area, who—
 
@@ -92,7 +92,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) In general
 
-&emsp;&emsp;The chief elected official in a local area is authorized to appoint the members of the local board for such area, in accordance with the State criteria established under subsection (b).
+&emsp;&emsp;The chief elected official in a local area is authorized to appoint the members of thelocal board for such area, in accordance with the State criteria established under subsection (b).
 
 #### (B) Multiple units of local government in area
 
@@ -148,7 +148,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) State board
 
-&emsp;&emsp;Notwithstanding subsection (b) and paragraphs (1) and (2), if a State described in section 3121(d) of this title indicates in theState plan that the State will be treated as a single State local area, for purposes of the application of this Act or the provisions authorizing a core program, the State board shall carry out any of the functions of a local board under this Act or the provisions authorizing a core program, including the functions described in subsection (d).
+&emsp;&emsp;Notwithstanding subsection (b) and paragraphs (1) and (2), if a State described in section 3121(d) of this title indicates in the State plan that the State will be treated as a single State local area, for purposes of the application of this Act or the provisions authorizing a core program, the State board shall carry out any of the functions of a local board under this Act or the provisions authorizing a core program, including the functions described in subsection (d).
 
 #### (B) References
 
@@ -206,7 +206,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 &emsp;The local board shall lead efforts in the local area to—
 
-&emsp;&emsp;(A) identify and promote proven and promising strategies and initiatives for meeting the needs of employers, and workers and jobseekers (including individuals with barriers to employment) in the local workforce development system, including providing physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and applicable provisions of theAmericans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), to the one-stop delivery system; and
+&emsp;&emsp;(A) identify and promote proven and promising strategies and initiatives for meeting the needs of employers, and workers and jobseekers (including individuals with barriers to employment) in the local workforce development system, including providing physical and programmatic accessibility, in accordance with section 3248 of this title, if applicable, and applicable provisions of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), to the one-stop delivery system; and
 
 &emsp;&emsp;(B) identify and disseminate information on proven and promising practices carried out in other local areas for meeting such needs.
 
@@ -278,7 +278,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 &emsp;&emsp;&emsp;(i) consistent with section 3322 of this title—
 
-&emsp;&emsp;&emsp;&emsp;(I) reviewing the applications to provide adult education and literacy activities under subchapter II for the localarea, submitted under such section to the eligible agency by eligible providers, to determine whether such applications are consistent with the local plan; and
+&emsp;&emsp;&emsp;&emsp;(I) reviewing the applications to provide adult education and literacy activities under subchapter II for the local area, submitted under such section to the eligible agency by eligible providers, to determine whether such applications are consistent with the local plan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) making recommendations to the eligible agency to promote alignment with such plan; and
 
@@ -292,7 +292,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (A) Budget
 
-&emsp;&emsp;The local board shall develop a budget for the activities of the local board in the local area, consistent with the local plan and the duties of the local board under this section, subject to the approval of the chief elected official.
+&emsp;&emsp;The local board shall develop a budget for the activities of the local board in the localarea, consistent with the local plan and the duties of the local board under this section, subject to the approval of the chief elected official.
 
 #### (B) Administration
 
@@ -366,7 +366,7 @@ The local board shall make available to the public, on a regular basis through e
 
 #### (C) Duration
 
-&emsp;&emsp;A waiver granted to a local board under subparagraph (B) shall apply for a period that shall not exceed the duration of the local plan. The waiver may be renewed for additional periods under subsequent local plans, not to exceed the durations of such subsequent plans, pursuant to requests from the local board, if the board meets the requirements of subparagraph (B) in making the requests.
+&emsp;&emsp;A waiver granted to a local board under subparagraph (B) shall apply for a periodthat shall not exceed the duration of the local plan. The waiver may be renewed for additional periods under subsequent local plans, not to exceed the durations of such subsequent plans, pursuant to requests from the local board, if the board meets the requirements of subparagraph (B) in making the requests.
 
 #### (D) Revocation
 
@@ -416,6 +416,8 @@ A member of a local board, or a member of a standing committee, may not—
 
 (Pub. L. 113–128, title I, §107, July 22, 2014, 128 Stat. 1456; Pub. L. 114–18, §2(b), May 22, 2015, 129 Stat. 213.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (c)(1)(C), (4)(A), (B)(i), (d)(12)(B)(ii), (iii), (g)(3), and (i)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
@@ -424,11 +426,13 @@ The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(ii), is act June 6, 1933
 
 The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(11)(A), (B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 
 <b>2015</b>—Subsec. (i)(1)(B). Pub. L. 114–18 substituted "August 7, 1998" for "July 22, 2014".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

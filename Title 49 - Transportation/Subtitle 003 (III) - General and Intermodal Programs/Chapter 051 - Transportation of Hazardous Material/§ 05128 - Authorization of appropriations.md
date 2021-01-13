@@ -116,7 +116,7 @@ Pub. L. 114–21, §1301(a), amended par. (3) generally. Prior to amendment, par
 
 Subsec. (a)(4). Pub. L. 114–87, §1301(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "$5,958,639 for the period beginning on October 1, 2015, and ending on November 20, 2015."
 
-Pub. L. 114–73, §1301(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "$3,388,246for the period beginning on October 1, 2015, and ending on October 29, 2015."
+Pub. L. 114–73, §1301(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "$3,388,246 for the period beginning on October 1, 2015, and ending on October 29, 2015."
 
 Pub. L. 114–41, §1301(a), added par. (4).
 

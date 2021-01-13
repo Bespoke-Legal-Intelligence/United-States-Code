@@ -20,11 +20,19 @@ The Secretary, directly or through grants, shall provide for research into the p
 
 &emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2017; and
 
-&emsp;&emsp;(D) $150,000,000 for each of fiscal years 2018 and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020, to remain available until expended.
+&emsp;&emsp;(D) $150,000,000 for each of fiscal years 2018 through 2023, to remain available until expended.
 
-(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(a), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–93, title II, §204(a), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–96, div. C, title I, §3102(a), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50902(a), Feb. 9, 2018, 132 Stat. 289; Pub. L. 116–59, div. B, title I, §1102(a), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, §1102(a), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §402(a), Dec. 20, 2019, 133 Stat. 3114.)
+(July 1, 1944, ch. 373, title III, §330B, as added Pub. L. 105–33, title IV, §4921, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–34, title XVI, §1604(f)(1)(B), (C), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 106–554, §1(a)(6) \[title IX, §931(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(a), Dec. 17, 2002, 116 Stat. 3019; Pub. L. 110–173, title III, §302(a), Dec. 29, 2007, 121 Stat. 2514; Pub. L. 110–275, title III, §303(a), July 15, 2008, 122 Stat. 2594; Pub. L. 111–309, title I, §112(1), Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–240, title VI, §625(a), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–93, title II, §204(a), Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §213(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–96, div. C, title I, §3102(a), Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title IX, §50902(a), Feb. 9, 2018, 132 Stat. 289; Pub. L. 116–59, div. B, title I, §1102(a), Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title I, §1102(a), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §402(a), Dec. 20, 2019, 133 Stat. 3114; Pub. L. 116–136, div. A, title III, §3832(a), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2102(a), Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1202(a),Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §302(a), Dec. 27, 2020, 134 Stat. 2923.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(D). Pub. L. 116–260 substituted "2023" for "2020, and $32,465,753 for the period beginning on October 1, 2020, and ending on December 18, 2020".
+
+Pub. L. 116–215 substituted "$32,465,753" for "$29,589,042" and "December 18, 2020" for "December 11, 2020".
+
+Pub. L. 116–159 substituted "$29,589,042" for "$25,068,493" and "December 11, 2020" for "November 30, 2020".
+
+Pub. L. 116–136 substituted "through 2020, and $25,068,493 for the period beginning on October 1, 2020, and ending on November 30, 2020" for "and 2019, and $96,575,342 for the period beginning on October 1, 2019, and ending on May 22, 2020".
 
 <b>2019</b>—Subsec. (b)(2)(D). Pub. L. 116–94 substituted "$96,575,342" for "$33,287,671" and "May 22, 2020" for "December 20, 2019".
 
@@ -56,7 +64,7 @@ Pub. L. 116–59 inserted "and $21,369,863 for the period beginning on October 1
 
 Pub. L. 105–34, §1604(f)(1)(C)(i), struck out "children with" before "type I diabetes" in section catchline.
 
-Subsec. (a). Pub. L. 105–34, §1604(f)(1)(C)(ii), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall make grants for services for the prevention and treatment of type I diabetes in children, and for research in innovative approaches to such services. Such grants may be made to children's hospitals; grantees under section 254b of this title and other federally qualifiedhealth centers; State and local health departments; and other appropriate public or nonprofit private entities."
+Subsec. (a). Pub. L. 105–34, §1604(f)(1)(C)(ii), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall make grants for services for the prevention and treatment of type I diabetes in children, and for research in innovative approaches to such services. Such grants may be made to children's hospitals; grantees under section 254b of this title and other federally qualified health centers; State and local health departments; and other appropriate public or nonprofit private entities."
 
 #### Effective Date of 1997 Amendment
 

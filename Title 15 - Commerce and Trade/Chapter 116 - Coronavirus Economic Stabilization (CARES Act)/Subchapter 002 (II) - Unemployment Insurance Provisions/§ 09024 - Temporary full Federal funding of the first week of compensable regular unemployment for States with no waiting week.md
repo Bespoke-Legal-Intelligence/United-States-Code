@@ -1,0 +1,88 @@
+### §9024. Temporary full Federal funding of the first week of compensable regular unemployment for States with no waiting week
+
+#### (a) Federal-State agreements
+
+Any State which desires to do so may enter into and participate in an agreement under this section with the Secretary of Labor (in this section referred to as the "Secretary"). Any State which is a party to an agreement under this section may, upon providing 30 days' written notice to the Secretary, terminate such agreement.
+
+#### (b) Requirement that State law does not apply a waiting week
+
+A State is eligible to enter into an agreement under this section if the State law (including a waiver of State law) provides that compensation is paid to individuals for their first week of regular unemployment without a waiting week. An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the State law no longer meets the requirement under the preceding sentence.
+
+#### (c) Payments to States
+
+#### (1) Full reimbursement
+
+&emsp;Except as provided in paragraph (3), there shall be paid to each State which has entered into an agreement under this section an amount equal to 100 percent of—
+
+&emsp;&emsp;(A) the total amount of regular compensation paid to individuals by the State for their first week of regular unemployment; and
+
+&emsp;&emsp;(B) any additional administrative expenses incurred by the State by reason of such agreement (as determined by the Secretary).
+
+#### (2) Terms of payments
+
+&emsp;Sums payable to any State by reason of such State's having an agreement under this section shall be payable, either in advance or by way of reimbursement (as determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that his estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
+
+#### (3) Partial reimbursement
+
+&emsp;With respect to compensation paid to individuals for weeks of unemployment ending after December 31, 2020, paragraph (1) shall be applied by substituting "50 percent" for "100 percent".
+
+#### (d) Funding
+
+#### (1) Compensation
+
+#### (A) In general
+
+&emsp;&emsp;Funds in the Federal unemployment account (as established by section 905(g)) <sup>1</sup> ofthe Unemployment Trust Fund (as established by section 904(a)) <sup>1</sup> shall be used to make payments under subsection (c)(1)(A).
+
+#### (B) Transfer of funds
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the Federal unemployment account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+
+#### (2) Administrative expenses
+
+#### (A) In general
+
+&emsp;&emsp;Funds in the employment security administration account (as established by section 1101(a) of title 42) of the Unemployment Trust Fund (as established by section 1104(a) of title 42) shall be used to make payments to States pursuant to subsection (c)(1)(B).
+
+#### (B) Transfer of funds
+
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+
+#### (3) Certifications
+
+&emsp;The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this section.
+
+#### (e) Applicability
+
+An agreement entered into under this section shall apply to weeks of unemployment—
+
+&emsp;(1) beginning after the date on which such agreement is entered into; and
+
+&emsp;(2) ending on or before March 14, 2021.
+
+#### (f) Fraud and overpayments
+
+The provisions of section 9025(e) of this title shall apply with respect to compensation paid under an agreement under this section to the same extent and in the same manner as in the case of pandemic emergency unemployment compensation under such section.
+
+#### (g) Definitions
+
+For purposes of this section, the terms "regular compensation", "State", "State agency", "State law", and "week" have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+
+(Pub. L. 116–136, div. A, title II, §2105, Mar. 27, 2020, 134 Stat. 321; Pub. L. 116–260, div. N, title II, §204, Dec. 27, 2020, 134 Stat. 1953.)
+
+#### References in Text
+
+Section 905(g) and section 904(a), referred to in subsec. (d)(1)(A), probably mean sections 905(g) and 904(a) of the Social Security Act. However, section 905(g) probably should be a reference to section 904(g) as there is no subsec. (g) in section 905 of the Act, and section 904(g) establishes the Federal unemployment account. Section 904(a) and (g) is classified to section 1104(a) and (g), respectively, of Title 42, The Public Health and Welfare.
+
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (g), is section 205 of Pub. L. 91–373, which is set out in a note under section 3304 of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §204(1)(A), substituted "Except as provided in paragraph (3), there shall be paid" for "There shall be paid" in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 116–260, §204(1)(B), added par. (3).
+
+Subsec. (e)(2). Pub. L. 116–260, §204(2), substituted "March 14, 2021" for "December 31, 2020".
+
+<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
+

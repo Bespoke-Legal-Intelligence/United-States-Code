@@ -8,6 +8,8 @@
 
 (Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 106–117, title II, §208(d), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 107–217, §3(j)(6), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–7, div. K, title I, §113(d)(1), Feb. 20, 2003, 117 Stat. 483; Pub. L. 108–170, title II, §202(c), Dec. 6, 2003, 117 Stat. 2048; Pub. L. 108–178, §4(i)(2), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 108–422, title IV, §411(e)(4), Nov. 30, 2004, 118 Stat. 2390; Pub. L. 112—154, title II, §211(f), Aug. 6, 2012, 126 Stat. 1181.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(2). Pub. L. 112–154 substituted "into the Department of Veterans Affairs Construction, Major Projects account or Construction, Minor Projects account, as the Secretary considers appropriate" for "in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of this title".
@@ -28,7 +30,9 @@ Pub. L. 108–170, §202(c)(3), struck out subsec. (c) which read as follows: "S
 
 <b>1999</b>—Subsec. (a)(1). Pub. L. 106–117 added par. (1) and struck out former par. (1) which read as follows: "Of the funds received by the Department under an enhanced-use lease and remaining after any deduction from such funds under subsection (b), 75 percent shall be deposited in the nursing home revolving fund established under section 8116 of this title and 25 percent shall be credited to the Medical Care Account of the Department for the use of the Department facility at which the property is located."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
 

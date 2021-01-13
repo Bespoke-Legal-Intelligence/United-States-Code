@@ -50,9 +50,17 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 &emsp;&emsp;(C) compiling and analyzing data on agency information security; and
 
-&emsp;&emsp;(D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems; and
+&emsp;&emsp;(D) developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems;
 
-&emsp;(7) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
+&emsp;(7) hunting for and identifying, with or without advance notice to or authorization from agencies, threats and vulnerabilities within Federal information systems;
+
+&emsp;(8) upon request by an agency, and at the Secretary's discretion, with or without reimbursement—
+
+&emsp;&emsp;(A) providing services, functions, and capabilities, including operation of the agency's information security program, to assist the agency with meeting the requirements set forth in section 3554(b); and
+
+&emsp;&emsp;(B) deploying, operating, and maintaining secure technology platforms and tools, including networks and common business applications, for use by the agency to perform agency functions, including collecting, maintaining, storing, processing, disseminating, and analyzing information; and
+
+&emsp;(9) other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.
 
 (c)
 
@@ -78,7 +86,7 @@ Department of Defense and Intelligence Community Systems.—(1) The authorities 
 
 (2) The systems described in this paragraph are systems that are operated by the Department of Defense, a contractor of the Department of Defense, or another entity on behalf of the Department of Defense that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of the Department of Defense.
 
-(3) The systems described in this paragraph are systems that are operated by an element of the intelligence community, a contractor of an element of the intelligence community, or another entity on behalf of an element of the intelligence community that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of an element of the intelligence community.
+(3) The systems described in this paragraph are systems that are operated by an element of the intelligence community, a contractor of anelement of the intelligence community, or another entity on behalf of an element of the intelligence community that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of an element of the intelligence community.
 
 (f)
 
@@ -210,7 +218,21 @@ Appropriate Congressional Committees Defined.—In this section, the term "appro
 
 &emsp;(2) the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, title II, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972; Pub. L. 115–390, title II, §204(a)(1), Dec. 21, 2018, 132 Stat. 5192; Pub. L. 116–92, div. E, title LXIV, §6432, Dec. 20, 2019, 133 Stat. 2200.)
+(l)
+
+Information Sharing.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
+
+&emsp;(2)
+
+Exception.—Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).
+
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3075; amended Pub. L. 114–113, div. N, title II, §§224(e), 229(a), Dec. 18, 2015, 129 Stat. 2967, 2972; Pub. L. 115–390, title II, §204(a)(1), Dec. 21, 2018, 132 Stat. 5192; Pub. L. 116–92, div. E, title LXIV, §6432, Dec. 20, 2019, 133 Stat. 2200; Pub. L. 116–283, div. A, title XVII, §1705, Jan. 1, 2021, 134 Stat. 4082.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,11 +240,17 @@ Section 11331 of title 40, referred to in subsec. (f), was generally amended by 
 
 Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L. 107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to section 663(b)(1) of Title 6, Domestic Security.
 
+The Homeland Security Act of 2002, referred to in subsec. (l)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified generally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 3533 and 3543 of this title prior to repeal by Pub. L. 113–283.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(7) to (9). Pub. L. 116–283, §1705(1), added pars. (7) and (8) and redesignated former par. (7) as (9).
+
+Subsec. (l). Pub. L. 116–283, §1705(2), added subsec. (l).
 
 <b>2019</b>—Subsecs. (j), (k). Pub. L. 116–92 added subsec. (j) and redesignated former subsec. (j) as (k).
 
@@ -232,9 +260,11 @@ Provisions similar to this section were contained in sections 3533 and 3543 of t
 
 Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives byHouse Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

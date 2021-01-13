@@ -46,7 +46,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (C) Notice
 
-&emsp;&emsp;Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
+&emsp;&emsp;Any recipient that discloses to a person described in subparagraph (A) informationotherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
 
 #### (D) Identification of disclosure recipients
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 108–159 subject to joint regulations establishing effecti
 
 #### Effective Date
 
-Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, seesection 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
+Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
 

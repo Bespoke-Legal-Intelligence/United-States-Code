@@ -2,7 +2,7 @@
 
 #### (a) Authorization; accounting
 
-Notwithstanding the provisions of any other law the Secretary of State is authorized in his discretion to issue under the limitations and restrictions hereinafter established requisitions for advances of funds to disbursing officers of the Fiscal Service of the Treasury Department, under a "State account of advances" not to exceed the total amount of appropriations for the Department of State, the amounts so advanced to be used exclusively to pay upon proper vouchers obligations lawfully payable under the respective appropriations: <i>Provided</i>, That a separate "State account of advances" shall be established on the books of the Treasury Department relating to appropriations made to the Department of State for each fiscal year and that a "State account of advances" relating to the appropriations for one fiscal year shall not be used to pay vouchers pertaining to the appropriations of any other fiscal year. Expenditures from the amounts requisitioned under the "State account of advances" shall be charged to applicable appropriations on the books of the Treasury Department on the basis of transfer and counter warrants prepared in the State Department as of the close of each month and prior to audit, certification, or adjustment by the Government Accountability Office. The Government Accountability Office shall subsequently declare the sums finally due from the several appropriations upon audited vouchers according to law and shall certify the same to the Treasury Department which shall make the necessary adjustments between appropriations upon the basis of such audited settlements of the Government Accountability Office: <i>Provided further</i>, That such adjustments shall be reflected on the books of the Government in the month and fiscal year during which the audited settlements are certified to the Treasury.
+Notwithstanding the provisions of any other law the Secretary of State is authorized in his discretion to issue under the limitations and restrictions hereinafter established requisitions for advances of funds to disbursing officers of the Fiscal Service of the Treasury Department,under a "State account of advances" not to exceed the total amount of appropriations for the Department of State, the amounts so advanced to be used exclusively to pay upon proper vouchers obligations lawfully payable under the respective appropriations: <i>Provided</i>, That a separate "State account of advances" shall be established on the books of the Treasury Department relating to appropriations made to the Department of State for each fiscal year and that a "State account of advances" relating to the appropriations for one fiscal year shall not be used to pay vouchers pertaining to the appropriations of any other fiscal year. Expenditures from the amounts requisitioned under the "State account of advances" shall be charged to applicable appropriations on the books of the Treasury Department on the basis of transfer and counter warrants prepared in the State Department as of the close of each month and prior to audit, certification, or adjustment by the Government Accountability Office. The Government Accountability Office shall subsequently declare the sums finally due from the several appropriations upon audited vouchers according to law and shall certify the same to the Treasury Department which shall make the necessary adjustments between appropriations upon the basis of such audited settlements of the Government Accountability Office: <i>Provided further</i>, That such adjustments shall be reflected on the books of the Government in the month and fiscal year during which the audited settlements are certified to the Treasury.
 
 #### (b) Removal of outstanding charges
 
@@ -22,6 +22,8 @@ Subsection (b) of this section does not affect the financial liability of a disb
 
 (Apr. 25, 1940, ch. 154, 54 Stat. 163; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 97–258, §2(e), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 170 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
@@ -31,6 +33,8 @@ Section was formerly classified to section 170 of Title 5 prior to the general r
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" wherever appearing.
 
 <b>1982</b>—Pub. L. 97–258 redesignated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

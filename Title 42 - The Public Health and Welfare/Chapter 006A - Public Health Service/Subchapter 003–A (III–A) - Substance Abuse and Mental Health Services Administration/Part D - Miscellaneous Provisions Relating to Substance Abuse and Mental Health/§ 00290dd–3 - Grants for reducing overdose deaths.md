@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to eligible entities to expand access to drugs or devices approved or cleared under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]for emergency treatment of known or suspected opioid overdose.
+&emsp;The Secretary shall award grants to eligible entities to expand access to drugs or devices approved or cleared under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for emergency treatment of known or suspected opioid overdose.
 
 #### (2) Maximum grant amount
 
@@ -48,7 +48,7 @@ An eligible entity receiving a grant under this section may use amounts under th
 
 &emsp;(4) To offset the co-payments and other cost sharing associated with drugs or devices approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose.
 
-&emsp;(5) To establish protocols to connect patients who have experienced a drug overdose with appropriate treatment, including medication-assisted treatment and appropriate counseling and behavioral therapies.
+&emsp;(5) To establish protocols to connect patients who have experienced a drug overdosewith appropriate treatment, including medication-assisted treatment and appropriate counseling and behavioral therapies.
 
 #### (d) Evaluations by recipients
 

@@ -18,6 +18,8 @@ The report shall contain the following information for grants, cooperative agree
 
 (Pub. L. 109–95, §5, Nov. 8, 2005, 119 Stat. 2117.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4(a), referred to in subsec. (a), is section 4(a) of Pub. L. 109–95, which is set out as a note under section 2152f of this title.
@@ -28,7 +30,9 @@ This Act, referred to in subsec. (a), is Pub. L. 109–95, Nov. 8, 2005, 119 Sta
 
 Section was enacted as part of the Assistance for Orphans and Other Vulnerable Children in Developing Countries Act of 2005, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Appropriate Congressional Committees Defined
 
-Pub. L. 109–95, §6, Nov. 8, 2005, 119 Stat. 2118, provided that: "In this Act \[see Short Title of 2005 Amendment note set out under section 2151 of this title\], the term 'appropriate congressional committees' means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee onAppropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives."
+Pub. L. 109–95, §6, Nov. 8, 2005, 119 Stat. 2118, provided that: "In this Act \[see Short Title of 2005 Amendment note set out under section 2151 of this title\], the term 'appropriate congressional committees' means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives."
 

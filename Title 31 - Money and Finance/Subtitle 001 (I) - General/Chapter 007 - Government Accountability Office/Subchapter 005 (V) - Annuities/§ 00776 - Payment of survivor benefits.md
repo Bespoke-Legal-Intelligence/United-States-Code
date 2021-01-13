@@ -74,6 +74,8 @@ In subsection (c)(2)(B), the words "payment may be made" and "the expiration of 
 
 In subsection (d)(2), the words "A benefit" are substituted for "None of the moneys mentioned" to eliminate unnecessary words. The words "either in law or equity" and "execution, levy, attachment, garnishment, or other" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(2)(B). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -81,6 +83,8 @@ In subsection (d)(2), the words "A benefit" are substituted for "None of the mon
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–426, §206(1), inserted "before age 55" after "remarries".
 
 Subsec. (b)(2). Pub. L. 100–426, §206(2), inserted "(unless the child is then a student as described in section 771(1)(C) of this title)" after "age".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

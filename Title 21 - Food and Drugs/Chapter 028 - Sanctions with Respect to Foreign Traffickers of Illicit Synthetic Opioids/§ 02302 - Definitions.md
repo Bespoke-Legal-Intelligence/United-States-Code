@@ -48,7 +48,7 @@ In this chapter:
 
 &emsp;&emsp;(A) to produce, manufacture, distribute, sell, or knowingly finance or transport—
 
-&emsp;&emsp;&emsp;(i) synthetic opioids, including controlled substances that are syntheticopioids and listed chemicals that are synthetic opioids; or
+&emsp;&emsp;&emsp;(i) synthetic opioids, including controlled substances that are synthetic opioids and listed chemicals that are synthetic opioids; or
 
 &emsp;&emsp;&emsp;(ii) active pharmaceutical ingredients or chemicals that are used in the production of controlled substances that are synthetic opioids;
 
@@ -73,6 +73,8 @@ In this chapter:
 &emsp;&emsp;(D) any person located in the United States.
 
 (Pub. L. 116–92, div. F, title LXXII, §7203, Dec. 20, 2019, 133 Stat. 2262.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

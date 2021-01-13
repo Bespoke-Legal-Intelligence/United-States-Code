@@ -4,6 +4,8 @@ Milk or cream shall be considered unfit for importation (1) when all cows produc
 
 (Feb. 15, 1927, ch. 155, §2, 44 Stat. 1101.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Agricultural Research Service became the successor to functions of Bureau of Dairy Industry under Secretary of Agriculture's Memorandum 1320, Supplement 4, Nov. 2, 1953.

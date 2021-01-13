@@ -30,7 +30,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
-&emsp;&emsp;(C) prohibit practices, understandings, arrangements, and activities, including exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor or satellite broadcast programming vendor, that prevent a multichannel video programming distributor from obtaining such programming from any satellite cable programming vendor in which a cable operator has an attributable interest or any satellite broadcast programming vendor in which a cable operator has an attributable interest for distribution to persons in areas not served by a cable operator as of October 5, 1992; and
+&emsp;&emsp;(C) prohibit practices, understandings, arrangements, and activities, including exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor or satellite broadcast programming vendor, that prevent a multichannel video programming distributor from obtaining such programming from any satellite cable programming vendor in which a cable operator has an attributable interestor any satellite broadcast programming vendor in which a cable operator has an attributable interest for distribution to persons in areas not served by a cable operator as of October 5, 1992; and
 
 &emsp;&emsp;(D) with respect to distribution to persons in areas served by a cable operator, prohibit exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor in which a cable operator has an attributable interest or a satellite broadcast programming vendor in which a cable operator has an attributable interest, unless the Commission determines (in accordance with paragraph (4)) that such contract is in the public interest.
 
@@ -46,7 +46,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (4) Public interest determinations on exclusive contracts
 
-&emsp;In determining whether an exclusive contract is in the public interest for purposes ofparagraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
+&emsp;In determining whether an exclusive contract is in the public interest for purposes of paragraph (2)(D), the Commission shall consider each of the following factors with respect to the effect of such contract on the distribution of video programming in areas that are served by a cable operator:
 
 &emsp;&emsp;(A) the effect of such exclusive contract on the development of competition in local and national multichannel video programming distribution markets;
 
@@ -114,6 +114,8 @@ As used in this section:
 
 (June 19, 1934, ch. 652, title VI, §628, as added Pub. L. 102–385, §19, Oct. 5, 1992, 106 Stat. 1494; amended Pub. L. 104–104, title III, §301(h), Feb. 8, 1996, 110 Stat. 117; Pub. L. 115–141, div. P, title IV, §402(d), Mar. 23, 2018, 132 Stat. 1089.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
@@ -123,6 +125,8 @@ This chapter, referred to in subsec. (e)(2), was in the original "this Act", mea
 <b>2018</b>—Subsecs. (g), (j). Pub. L. 115–141 redesignated subsec. (j) as (g), transferred subsec. (g) to appear after subsec. (f), and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: "The Commission shall, beginning not later than 18 months after promulgation of the regulations required by subsection (c), annually report to Congress on the status of competition in the market for the delivery of video programming."
 
 <b>1996</b>—Subsec. (j). Pub. L. 104–104 added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

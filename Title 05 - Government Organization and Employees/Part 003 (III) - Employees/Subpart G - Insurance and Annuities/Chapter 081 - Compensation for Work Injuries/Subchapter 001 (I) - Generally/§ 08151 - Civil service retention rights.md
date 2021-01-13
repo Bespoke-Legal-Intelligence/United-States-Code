@@ -10,9 +10,13 @@
 
 (Added Pub. L. 93–416, §22, Sept. 7, 1974, 88 Stat. 1149; amended Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

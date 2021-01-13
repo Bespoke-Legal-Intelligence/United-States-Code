@@ -4,6 +4,8 @@ The justices of the Supreme Court shall have free access to the law library; and
 
 (R.S. §95.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §95 derived from act July 14, 1832, ch. 221, §2, 4 Stat. 579.

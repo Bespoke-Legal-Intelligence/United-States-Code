@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §836(b)(6)(B)(ii), Aug. 13, 2018, 132 Stat. 1861, substituted "List of laws inapplicable to procurements of commercial products and commercial services" for "List of laws inapplicable to procurements of commercial items" in item 1906.

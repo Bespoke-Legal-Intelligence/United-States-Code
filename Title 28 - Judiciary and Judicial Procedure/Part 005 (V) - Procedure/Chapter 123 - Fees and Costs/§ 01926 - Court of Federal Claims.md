@@ -14,11 +14,15 @@ For distribution of other provisions of section 304 of title 28, U.S.C., 1940 ed
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court" as section catchline and "United States Court of Federal Claims" for "United States Claims Court" in subsec. (a).
 
 <b>1982</b>—Pub. L. 97–164 substituted "Claims Court" for "Court of Customs and Patent Appeals" as section catchline and, in text substituted provisions directing the Judicial Conference of the United States to prescribe from time to time the fees and costs to be charged and collected in the United States Claims Court and directing the court and its officers to collect only such fees and costs as the Judicial Conference prescribes, with the court authorized to require advance payment of fees by rule for provisions which had directed that fees and costs in the Court of Customs and Patent Appeals be fixed by a table of fees adopted by such court and approved by the Supreme Court, that the fees and costs so fixed not exceed the fees and costs charged in the Supreme Court, and that the fees be accounted for and paid over to the Treasury.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

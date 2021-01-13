@@ -54,7 +54,7 @@ To ensure that all children receive a high-quality education, and to close the a
 
 &emsp;&emsp;(D) identifying and implementing instructional and other strategies intended to strengthen academic programs and improve school conditions for student learning;
 
-&emsp;(2) how the local educational agency will identify and address, as required under State plans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students by ineffective, inexperienced, or out-of-field teachers;
+&emsp;(2) how the local educational agency will identify and address, as required under Stateplans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students by ineffective, inexperienced, or out-of-field teachers;
 
 &emsp;(3) how the local educational agency will carry out its responsibilities under paragraphs (1) and (2) of section 6311(d) of this title;
 

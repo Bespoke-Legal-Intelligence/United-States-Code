@@ -14,6 +14,8 @@
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 107–296, title XI, §1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, §121(f), Mar. 9, 2006, 120 Stat. 223.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to chapter 52 (§5701 et seq.) of Title 26, Internal Revenue Code.
@@ -24,7 +26,9 @@ Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), 
 
 <b>2002</b>—Pub. L. 107–296 substituted "Attorney General" for "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 

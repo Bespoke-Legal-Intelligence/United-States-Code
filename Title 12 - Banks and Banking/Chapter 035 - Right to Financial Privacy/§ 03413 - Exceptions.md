@@ -14,7 +14,7 @@ Nothing in this chapter prohibits the disclosure of financial records in accorda
 
 #### (d) Disclosure pursuant to Federal statute or rule promulgated thereunder
 
-Nothing in this chapter shall authorize the withholding of financial records or information required to be reported in accordance with any Federal statute or rule promulgated thereunder.
+Nothing in this chapter shall authorize the withholding of financial records or informationrequired to be reported in accordance with any Federal statute or rule promulgated thereunder.
 
 #### (e) Disclosure pursuant to Federal Rules of Criminal Procedure or comparable rules of other courts
 
@@ -68,7 +68,7 @@ This chapter shall not apply when financial records are sought by the Government
 
 &emsp;(B) the investigation or recovery of an improper Federal payment or collection of funds or an improperly negotiated Treasury check.
 
-(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing informationcontained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
+(3) Notwithstanding any other provision of law, a request authorized by paragraph (1) or (2) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing information contained in the financial records of the customer to the Government authority requesting the information, and the financial institution and its agents shall be barred from redisclosure of such information. Any Government authority receiving information pursuant to paragraph (1) or (2) may not disclose or use the information, except for the purposes set forth in such paragraph.
 
 #### (l) Crimes against financial institutions by insiders
 
@@ -100,13 +100,15 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 #### (q) Disclosure pursuant to Federal contractor-issued travel charge card
 
-Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
+Nothing in this chapter shall apply to the disclosure of any financial record or information toa Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 
 #### (r) Disclosure to the Bureau of Consumer Financial Protection
 
 Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
 
 (Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -116,7 +118,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out
 
 The International Emergency Economic Powers Act, referred to in subsec. (g), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, setout as an Effective Date note under section 375b of this title.
+The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -160,6 +162,8 @@ Subsec. (k)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for
 
 <b>1983</b>—Subsec. (k). Pub. L. 98–21 added subsec. (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
@@ -170,7 +174,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any records created pursuant to United States Travel and Transportation Payment and Expense Control System or any Federal contractor-issued travel charge card issued for official Government travel, see section 2(c)(2) of Pub. L. 105–264, set out as a Requiring Use of Travel Charge Card note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any records created pursuant to United States Travel and Transportation Payment andExpense Control System or any Federal contractor-issued travel charge card issued for official Government travel, see section 2(c)(2) of Pub. L. 105–264, set out as a Requiring Use of Travel Charge Card note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1983 Amendment
 

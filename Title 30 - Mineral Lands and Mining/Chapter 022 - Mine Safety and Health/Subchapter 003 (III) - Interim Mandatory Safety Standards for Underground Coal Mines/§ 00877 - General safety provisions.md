@@ -26,7 +26,7 @@ Within nine months after the operative date of this subchapter, the Secretary sh
 
 (2) When new coal mines are opened, not more than twenty miners shall be allowed at any one time in any mine until a connection has been made between the two mine openings, and such connections shall be made as soon as possible.
 
-(3) When only one mine opening is available, owing to final mining of pillars, not more than twenty miners shall be allowed in such mine at any one time, and the distance between the mine opening and working face shall not exceed five hundred feet.
+(3) When only one mine opening is available, owing to final mining of pillars, not more thantwenty miners shall be allowed in such mine at any one time, and the distance between the mine opening and working face shall not exceed five hundred feet.
 
 (4) In the case of all coal mines opened on or after the operative date of this subchapter, and in the case of all new working sections opened on or after such date in mines opened prior to such date, the escapeway required by this section to be ventilated with intake air shall be separated from the belt and trolley haulage entries of the mine for the entire length of such entries to the beginning of each working section, except that the Secretary or his authorized representative may permit such separation to be extended for a greater or lesser distance so long as such extension does not pose a hazard to the miners.
 
@@ -88,11 +88,15 @@ Within one year after the operative date of this subchapter, the Secretary shall
 
 (Pub. L. 91–173, title III, §317, Dec. 30, 1969, 83 Stat. 787; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the operative date of this subchapter, referred to in subsecs. (e), (f)(4), (g), (h), (k), (m), (r), and (t), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
 This chapter, referred to in subsec. (i), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

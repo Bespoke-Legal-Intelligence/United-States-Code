@@ -30,7 +30,7 @@ In making grants under this section, the Secretary shall give priority to any ap
 
 &emsp;&emsp;(A) assurances that the applicant serves three or more separate Bureau-funded schools; and
 
-&emsp;&emsp;(B) assurances from the applicant that the tribal department of education to be funded under this section will provide coordinatingservices and technical assistance to all of such schools;
+&emsp;&emsp;(B) assurances from the applicant that the tribal department of education to be funded under this section will provide coordinating services and technical assistance to all of such schools;
 
 &emsp;(2) includes assurances that all education programs for which funds are provided by such a contract or grant will be monitored and audited, by or through the tribal department of education, to ensure that the programs meet the requirements of law; and
 
@@ -58,11 +58,15 @@ There are authorized to be appropriated to carry out this section $2,000,000.
 
 (Pub. L. 95–561, title XI, §1140, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2059.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2020, Pub. L. 95–561, title XI, §1140, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2020, Pub. L. 95–561, title XI, §1140, as added Pub. L. 98–511, title V, §511, Oct. 19, 1984, 98 Stat. 2397; amended Pub. L. 99–89, §8, Aug. 15, 1985, 99 Stat. 383, related to voluntary services, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

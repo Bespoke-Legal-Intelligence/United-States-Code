@@ -24,7 +24,7 @@
 
 (2) Each large commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1995, but before January 1, 2010, shall meet the following standard levels:
 
-&emsp;(A) The minimum energy efficiency ratio of air-cooled central air conditioners and central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 8.5 (at a standard rating of 95 degrees F db).
+&emsp;(A) The minimum energy efficiency ratio of air-cooled central air conditioners and central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than240,000 Btu per hour (cooling capacity) shall be 8.5 (at a standard rating of 95 degrees F db).
 
 &emsp;(B) The minimum coefficient of performance in the heating mode of air-cooled central air conditioning heat pumps at or above 135,000 Btu per hour (cooling capacity) and less than 240,000 Btu per hour (cooling capacity) shall be 2.9.
 
@@ -234,7 +234,7 @@ Consideration of prices and operating patterns.—If the Secretary is considerin
 
 &emsp;&emsp;(i) 10.0 for equipment with no heating or electric resistance heating; and
 
-&emsp;&emsp;(ii) 9.8 for equipment with all other heating system types that are integrated into the equipment (at a standard rating of 95 degrees F db).
+&emsp;&emsp;(ii) 9.8 for equipment with all other heating system types that are integrated intothe equipment (at a standard rating of 95 degrees F db).
 
 &emsp;(B) The minimum energy efficiency ratio of air-cooled central air conditioner heat pumps at or above 240,000 Btu per hour (cooling capacity) and less than 760,000 Btu per hour (cooling capacity) shall be—
 
@@ -260,7 +260,7 @@ In general.—Single package vertical air conditioners and single package vertic
 
 &emsp;&emsp;(iv) The minimum energy efficiency ratio of single package vertical air conditioners at or above 135,000 Btu per hour (cooling capacity) but less than 240,000 Btu per hour (cooling capacity), shall be 8.6.
 
-&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps lessthan 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
+&emsp;&emsp;(v) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), single-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
 &emsp;&emsp;(vi) The minimum energy efficiency ratio of single package vertical heat pumps less than 65,000 Btu per hour (cooling capacity), 3-phase, shall be 9.0 and the minimum coefficient of performance in the heating mode shall be 3.0.
 
@@ -317,7 +317,7 @@ Fire pump motors.—Each fire pump motor manufactured (alone or as a component o
 
 &emsp;(C)
 
-General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
+General purpose electric motors (subtype ii).—Each general purpose electric motor (subtype II) with a power rating of 1 horsepower or greater, but not greater than200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–11.
 
 &emsp;(D) NEMA
 
@@ -397,7 +397,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (B) Not later than 3 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that the standards should not be amended, the Secretary shall issue a final rule to determine whether the standards established under this subsection or the amended standards, as applicable, should be amended.
 
-(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amendedstandards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
+(C) If the Secretary issues a final rule under subparagraph (A) or (B) establishing amended standards, the final rule shall provide that the amended standards apply to products manufactured on or after the date that is—
 
 &emsp;(i) 3 years after the date on which the final amended standard is published; or
 
@@ -447,7 +447,7 @@ Water use is for the condenser only and does not include potable water used to m
 
 &emsp;(ii) if the Secretary determines, by rule, that 3 years is inadequate, not later than 5 years after the date on which the final rule is published.
 
-(3)(A) Not later than January 1, 2015, with respect to the standards established under paragraph (1), and, with respect to the standards established under paragraph (2), not later than 5 years after the date on which the standards take effect, the Secretary shall issue a final rule to determine whether amending the applicable standards is technologically feasible and economically justified.
+(3)(A) Not later than January 1, 2015, with respect to the standards established under paragraph (1), and, with respect to the standards established under paragraph (2), not later than 5 years after the date on which the standards take effect, the Secretary shall issue a final rule to determine whether amending the applicablestandards is technologically feasible and economically justified.
 
 (B) Not later than 5 years after the effective date of any amended standards under subparagraph (A) or the publication of a final rule determining that amending the standards is not technologically feasible or economically justified, the Secretary shall issue a final rule to determine whether amending the standards established under paragraph (1) or the amended standards, as applicable, is technologically feasible or economically justified.
 

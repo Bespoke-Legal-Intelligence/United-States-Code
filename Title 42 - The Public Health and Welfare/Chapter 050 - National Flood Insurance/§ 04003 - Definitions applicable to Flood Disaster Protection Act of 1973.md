@@ -20,7 +20,7 @@
 
 &emsp;(9) "lender" means a regulated lending institution or Federal agency lender;
 
-&emsp;(10) "regulated lending institution" means any bank, savings and loan association, credit union, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
+&emsp;(10) "regulated lending institution" means any bank, savings and loan association, creditunion, farm credit bank, Federal land bank association, production credit association, or similar institution subject to the supervision of a Federal entity for lending regulation; and
 
 &emsp;(11) "servicer" means the person responsible for receiving any scheduled periodic payments from a borrower pursuant to the terms of a loan, including amounts for taxes, insurance premiums, and other charges with respect to the property securing the loan, and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.
 

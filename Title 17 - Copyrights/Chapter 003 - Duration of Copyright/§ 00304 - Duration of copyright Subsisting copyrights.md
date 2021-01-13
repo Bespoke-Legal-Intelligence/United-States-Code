@@ -24,9 +24,9 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 > shall be entitled to a renewal and extension of the copyright in such work for a further term of 67 years.
 
-(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
+(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure fora renewed and extended further term of 67 years, which—
 
-&emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expirationof the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
+&emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
 
 &emsp;(ii) if no such application is made or the claim pursuant to such application is not registered, shall vest, upon the beginning of such further term, in the person or entity that was the proprietor of the copyright as of the last day of the original term of copyright.
 
@@ -66,7 +66,7 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(C) The rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.
 
-&emsp;&emsp;(D) In the event that the author's widow or widower, children, and grandchildren are not living, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
+&emsp;&emsp;(D) In the event that the author's widow or widower, children, and grandchildren are notliving, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
 
 &emsp;(3) Termination of the grant may be effected at any time during a period of five years beginning at the end of fifty-six years from the date copyright was originally secured, or beginning on January 1, 1978, whichever is later.
 
@@ -98,7 +98,7 @@ Termination Rights Provided in Subsection (c)
 
 Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
 
-&emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
+&emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section applyto terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
 
 &emsp;(2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
 
@@ -138,6 +138,8 @@ Nothing contained in this section or elsewhere in this legislation is intended t
 
 Section 304(c)(6)(E) provides that, unless and until termination is effected under this section, the grant, "if it does not provide otherwise," continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of sixty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only sixty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d), is title I of Pub. L. 105–298, Oct. 27, 1998, 112 Stat. 2827. The effective date of the Act is the date of enactment of Pub. L. 105–298, which was approved Oct. 27, 1998. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of this title and Tables.
@@ -169,6 +171,8 @@ Subsec. (d). Pub. L. 105–298, §102(d)(1)(D), added subsec. (d).
 Copyrights in Their First Term on January 1, 1978.—Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for twenty-eight years from the date it was originally secured: <i>Provided</i>, That in the case of any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or of any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire, the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: <i>And provided further</i>, That in the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work, the author of such work, if still living, or the widow, widower, or children of the author, if the author be not living, or if such author, widow, widower, or children be not living, then the author's executors, or in the absence of a will, his or her next of kin shall be entitled to a renewal and extension of the copyright in such work for a further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: <i>And provided further</i>, That in default of the registration of such application for renewal and extension, the copyright in any work shall terminate at the expiration of twenty-eight years from the date copyright was originally secured."
 
 Subsec. (c). Pub. L. 102–307, §102(d), substituted "subsection (a)(1)(C)" for "second proviso of subsection (a)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

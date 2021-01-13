@@ -42,7 +42,7 @@ The program shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct a research program (referred to in this subsection as the"Program") for exascale computing, including the development of two or more exascale computing machine architectures, to promote the missions of the Department.
+&emsp;The Secretary shall conduct a research program (referred to in this subsection as the "Program") for exascale computing, including the development of two or more exascale computing machine architectures, to promote the missions of the Department.
 
 #### (2) Execution
 

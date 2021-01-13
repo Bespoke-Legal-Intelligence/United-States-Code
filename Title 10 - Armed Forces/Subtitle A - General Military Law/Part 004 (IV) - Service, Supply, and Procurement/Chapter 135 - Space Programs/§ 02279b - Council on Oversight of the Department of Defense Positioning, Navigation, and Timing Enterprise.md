@@ -20,15 +20,17 @@ Membership.—The members of the Council shall be as follows:
 
 &emsp;(6) The Commander of the United States Northern Command.
 
-&emsp;(7) The Commander of United States Cyber Command.
+&emsp;(7) The Commander of the United States Space Command.
 
-&emsp;(8) The Director of the National Security Agency.
+&emsp;(8) The Commander of United States Cyber Command.
 
-&emsp;(9) The Chief Information Officer of the Department of Defense.
+&emsp;(9) The Director of the National Security Agency.
 
-&emsp;(10) The Secretaries of the military departments, who shall be ex officio members.
+&emsp;(10) The Chief Information Officer of the Department of Defense.
 
-&emsp;(11) Such other officers of the Department of Defense as the Secretary may designate.
+&emsp;(11) <sup>1</sup> The Secretaries of the military departments, who shall be ex officio members.
+
+&emsp;(11) <sup>1</sup> Such other officers of the Department of Defense as the Secretary may designate.
 
 (c)
 
@@ -60,17 +62,17 @@ Annual Reports.—At the same time each year that the budget of the President is
 
 &emsp;(3) Any changes to the requirements of the Department of Defense positioning, navigation, and timing enterprise made during the previous year, along with an explanation for why the changes were made and a description of the effects of the changes to the capability of such enterprise.
 
-&emsp;(4) A breakdown of each program element in such budget that relates to the Department ofDefense positioning, navigation, and timing enterprise, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of such enterprise.
+&emsp;(4) A breakdown of each program element in such budget that relates to the Department of Defense positioning, navigation, and timing enterprise, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of such enterprise.
 
 (f)
 
-Budget and Funding Matters.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+Budget and Funding Matters.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Space Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
 
 &emsp;(A) whether such budget allows the Federal Government to meet the required capabilities of the Department of Defense positioning, navigation, and timing enterprise during the fiscal year covered by the budget and the four subsequent fiscal years; and
 
 &emsp;(B) if the Commander determines that such budget does not allow the Federal Government to meet such required capabilities, a description of the steps being taken to meet such required capabilities.
 
-(2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Strategic Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
+(2) Not later than 30 days after the date on which the Chairman of the Joint Chiefs of Staff receives the assessment of the Commander of the United States Space Command under paragraph (1), the Chairman shall submit to the congressional defense committees—
 
 &emsp;(A) such assessment as it was submitted to the Chairman; and
 
@@ -88,7 +90,7 @@ Notification of Anomalies.—(1) The Secretary of Defense shall submit to the co
 
 Termination.—The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
 
-(Added Pub. L. 114–92, div. A, title XVI, §1603(a), Nov. 25, 2015, 129 Stat. 1096; amended Pub. L. 116–92, div. A, title IX, §902(31), Dec. 20, 2019, 133 Stat. 1546.)
+(Added Pub. L. 114–92, div. A, title XVI, §1603(a), Nov. 25, 2015, 129 Stat. 1096; amended Pub. L. 116–92, div. A, title IX, §902(31), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVI, §1604(b), Jan. 1, 2021, 134 Stat. 4043.)
 
 #### References in Text
 
@@ -96,7 +98,13 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(7) to (11). Pub. L. 116–283, §1604(b)(1), added par. (7) and redesignated former pars. (7) to (10) as (8) to (11) (relating to the Secretaries of the military departments), respectively.
+
+Subsec. (f)(1), (2). Pub. L. 116–283, §1604(b)(2), substituted "Space Command" for "Strategic Command" in introductory provisions.
+
 <b>2019</b>—Subsec. (b)(2) to (11). Pub. L. 116–92, §902(31)(A), added pars. (2) and (3), redesignated former pars. (3) to (10) as (4) to (11), respectively, and struck out former par. (2) which read as follows: "The Under Secretary of Defense for Acquisition, Technology, and Logistics."
 
 Subsec. (c). Pub. L. 116–92, §902(31)(B), substituted "the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment," for "the Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+<i><sup>1</sup></i><i> So in original. There are two pars. (11).</i>
 

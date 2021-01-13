@@ -36,9 +36,11 @@ The President may furnish assistance and make contributions under this chapter n
 
 (Pub. L. 87–510, §2, June 28, 1962, 76 Stat. 121; Pub. L. 88–634, title II, §201, Oct. 7, 1964, 78 Stat. 1021; Pub. L. 94–141, title V, §501(a), Nov. 29, 1975, 89 Stat. 771; Pub. L. 96–212, title III, §312(b), Mar. 17, 1980, 94 Stat. 116; Pub. L. 99–93, title I, §111, Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title IV, §430(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 107–228, div. A, title II, §242, Sept. 30, 2002, 116 Stat. 1374.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8,Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -65,6 +67,8 @@ Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing am
 <b>1975</b>—Subsec. (c). Pub. L. 94–141 designated existing provision as par. (1), substituted provisions authorizing the President to furnish assistance on such terms and conditions as he determines, for provisions authorizing President to transfer not more than $10,000,000 in any fiscal year of the funds made available under the Foreign Assistance Act of 1961 for the purposes of this chapter, and added pars. (2) and (3).
 
 <b>1964</b>—Subsec. (e). Pub. L. 88–634 struck out last sentence "Funds appropriated for the purposes of this section shall remain available until expended."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -126,7 +130,7 @@ Standards for Refugee Women and Children.—The United States Government, in pro
 
 "(b)
 
-Procedures.—The Secretary of State should adopt specific procedures to ensure that all recipientsof United States Government refugee and migration assistance funds implement the standards outlined in subsection (a).
+Procedures.—The Secretary of State should adopt specific procedures to ensure that all recipients of United States Government refugee and migration assistance funds implement the standards outlined in subsection (a).
 
 "(c)
 
@@ -161,6 +165,8 @@ Pub. L. 94–23, May 23, 1975, 89 Stat. 87, as amended by Pub. L. 94–313, June
 #### Availability of Funds for Continuation of Activities
 
 Pub. L. 87–510, §7, June 28, 1962, 76 Stat. 124, provided that: "Until the enactment of legislation appropriating funds for activities under this Act \[see Short Title note above\], such activities may be conducted with funds made available under section 451(a) of the Foreign Assistance Act of 1961, as amended \[section 2261(a) of this title\]."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12244
 

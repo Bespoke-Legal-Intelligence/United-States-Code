@@ -170,7 +170,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (6) Notice of over-utilization of codes
 
-&emsp;The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized bythat class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
+&emsp;The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
 
 #### (7) Payment audits
 
@@ -204,7 +204,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+&emsp;&emsp;The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
 &emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
 
@@ -274,7 +274,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Ineligibility of certain contractors
 
-&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recovery audit contractor to the extent the contractor is a fiscal intermediary under section 1395h of this title, a carrier under section 1395u of this title, or a medicare administrative contractor under section 1395kk–1 of this title.
+&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recoveryaudit contractor to the extent the contractor is a fiscal intermediary under section 1395h of this title, a carrier under section 1395u of this title, or a medicare administrative contractor under section 1395kk–1 of this title.
 
 #### (C) Preference for entities with demonstrated proficiency
 
@@ -332,7 +332,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (1) Access to information
 
-&emsp;Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drug abuse, as defined in section 1395w–104(c)(5)(C) of this title.
+&emsp;Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drugabuse, as defined in section 1395w–104(c)(5)(C) of this title.
 
 #### (2) Requirement for acknowledgment of referrals
 

@@ -46,11 +46,13 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 (d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.
 
-(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest ininterest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -112,7 +114,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 &emsp;"(5) for the filing, under section 115(b), of a notice of intention to make phonorecords, $6;
 
-&emsp;"(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of sixpages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
+&emsp;"(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;
 
 &emsp;"(7) for the issuance, under section 601, of an import statement, $3;
 
@@ -133,6 +135,8 @@ Subsec. (a)(2). Pub. L. 97–366, §1(1), substituted provision for a $6 fee on 
 Subsec. (c). Pub. L. 97–366, §1(2), struck out provision that, before making a refund in any case involving a refusal to register a claim under section 410(b), the Register could deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim.
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–94 substituted provisions relating to crediting of all fees received, to the appropriation for necessary expenses of the Copyright Office, for provisions relating to crediting of all fees received in the manner directed by the Secretary of the Treasury.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
 
-(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, andany member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
+(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
 
 (c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
@@ -72,7 +72,7 @@ In subsection (b), the words "without the consent of the persons affected" are s
 
 In subsections (b) and (d), the words "active duty for training" are omitted as covered by the words "active duty".
 
-In subsection (c), the words "to active duty" are substituted for the words "into the active military service of the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted forthe words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
+In subsection (c), the words "to active duty" are substituted for the words "into the active military serviceof the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted for the words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
 
 In subsection (d), the words "the consent of that member" are substituted for the words "his consent". The words "under his jurisdiction" are inserted for clarity. 50:962 (last 15 words of 1st sentence) is omitted as covered by 50:961(d).
 
@@ -150,6 +150,24 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
 
+#### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the COVID–19 Emergency
+
+Pub. L. 116–283, div. A, title V, §517, Jan. 1, 2021, 134 Stat. 3590, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may provide, to a member of the reserve components of the Armed Forces who performs a period of covered service, housing for not fewer than 14 days immediately after the end of such period of covered service.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'active service' has the meaning given that term in section 101 of title 10, United States Code.
+
+&emsp;"(2) The term 'covered service' means active service performed in response to the covered national emergency.
+
+&emsp;"(3) The term 'covered national emergency' means the national emergency declared on March 13, 2020, by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to COVID–19."
+
 #### Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves
 
 Pub. L. 113–66, div. A, title V, §513, Dec. 26, 2013, 127 Stat. 752, provided that:
@@ -162,7 +180,7 @@ Days of Scheduled Deployment.—
 
 &emsp;"(1)
 
-Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-day period ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense.
+Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-dayperiod ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense.
 
 &emsp;"(2)
 

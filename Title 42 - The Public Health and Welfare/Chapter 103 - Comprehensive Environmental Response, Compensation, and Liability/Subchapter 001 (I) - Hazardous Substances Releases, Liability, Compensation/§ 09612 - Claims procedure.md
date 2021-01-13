@@ -2,7 +2,7 @@
 
 #### (a) Claims against Fund for response costs
 
-No claim may be asserted against the Fund pursuant to section 9611(a) of this title unless such claim is presented in the first instance to the owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within 60 days of presentation in accordance with this subsection, the claimant may present the claim to the Fund for payment. No claim against the Fund may be approved or certified during the pendency of an action by the claimant in court to recover costs which are the subject of the claim.
+No claim may be asserted against the Fund pursuant to section 9611(a) of this title unless such claim is presented in the first instance tothe owner, operator, or guarantor of the vessel or facility from which a hazardous substance has been released, if known to the claimant, and to any other person known to the claimant who may be liable under section 9607 of this title. In any case where the claim has not been satisfied within 60 days of presentation in accordance with this subsection, the claimant may present the claim to the Fund for payment. No claim against the Fund may be approved or certified during the pendency of an action by the claimant in court to recover costs which are the subject of the claim.
 
 #### (b) Forms and procedures applicable
 
@@ -34,7 +34,7 @@ No claim may be asserted against the Fund pursuant to section 9611(a) of this ti
 
 (1) Payment of any claim by the Fund under this section shall be subject to the United States Government acquiring by subrogation the rights of the claimant to recover those costs of removal or damages for which it has compensated the claimant from the person responsible or liable for such release.
 
-(2) Any person, including the Fund, who pays compensation pursuant to this chapter to any claimant for damages or costs resulting from arelease of a hazardous substance shall be subrogated to all rights, claims, and causes of action for such damages and costs of removal that the claimant has under this chapter or any other law.
+(2) Any person, including the Fund, who pays compensation pursuant to this chapter to any claimant for damages or costs resulting from a release of a hazardous substance shall be subrogated to all rights, claims, and causes of action for such damages and costs of removal that the claimant has under this chapter or any other law.
 
 (3) Upon request of the President, the Attorney General shall commence an action on behalf of the Fund to recover any compensation paid by the Fund to any claimant pursuant to this subchapter, and, without regard to any limitation of liability, all interest, administrative and adjudicative costs, and attorney's fees incurred by the Fund by reason of the claim. Such an action may be commenced against any owner, operator, or guarantor, or against any other person who is liable, pursuant to any law, to the compensated claimant or to the Fund, for the damages or costs for which compensation was paid.
 

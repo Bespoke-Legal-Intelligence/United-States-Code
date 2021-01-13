@@ -28,7 +28,7 @@ Except as provided in subsection (b) of this section, the provisions of this sub
 
 (6)(A) Notwithstanding any other provision of this section—
 
-&emsp;(i) in the case of an employee welfare benefit plan which is a multiple employer welfare arrangement and is fully insured (or which is amultiple employer welfare arrangement subject to an exemption under subparagraph (B)), any law of any State which regulates insurance may apply to such arrangement to the extent that such law provides—
+&emsp;(i) in the case of an employee welfare benefit plan which is a multiple employer welfare arrangement and is fully insured (or which is a multiple employer welfare arrangement subject to an exemption under subparagraph (B)), any law of any State which regulates insurance may apply to such arrangement to the extent that such law provides—
 
 &emsp;&emsp;(I) standards, requiring the maintenance of specified levels of reserves and specified levels of contributions, which any such plan, or any trust established under such a plan, must meet in order to be considered under such law able to pay benefits in full when due, and
 
@@ -66,7 +66,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 #### (e) Automatic contribution arrangements
 
-(1) Notwithstanding any other provision of this section, this subchapter shall supersede any law of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
+(1) Notwithstanding any other provision of this section, this subchapter shall supersede anylaw of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
 
 (2) For purposes of this subsection, the term "automatic contribution arrangement" means an arrangement—
 
@@ -91,6 +91,8 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 &emsp;(iii) the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the participant.
 
 (Pub. L. 93–406, title I, §514, Sept. 2, 1974, 88 Stat. 897; Pub. L. 97–473, title III, §§301(a), 302(b), Jan. 14, 1983, 96 Stat. 2611, 2613; Pub. L. 98–397, title I, §104(b), Aug. 23, 1984, 98 Stat. 1436; Pub. L. 99–272, title IX, §9503(d)(1), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–239, title VII, §7894(f)(2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2450, 2451; Pub. L. 103–66, title IV, §4301(c)(4), Aug. 10, 1993, 107 Stat. 377; Pub. L. 104–191, title I, §101(f)(1), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(G), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–200, title IV, §401(h)(2)(A)(i), (ii), July 16, 1998, 112 Stat. 668; Pub. L. 109–280, title IX, §902(f)(1), Aug. 17, 2006, 120 Stat. 1039.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ Subsec. (b)(6)(B). Pub. L. 101–239, §7894(f)(3)(A), substituted "section 1002
 <b>1983</b>—Subsec. (b)(5). Pub. L. 97–473, §301(a), added par. (5).
 
 Subsec. (b)(6). Pub. L. 97–473, §302(b), added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

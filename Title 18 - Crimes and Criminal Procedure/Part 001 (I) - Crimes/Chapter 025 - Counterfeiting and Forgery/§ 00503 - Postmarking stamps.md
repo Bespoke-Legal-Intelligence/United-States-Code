@@ -10,6 +10,8 @@ Based on title 18, U.S.C., 1940 ed., §349a (Aug. 26, 1935, ch. 692, 49 Stat. 86
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

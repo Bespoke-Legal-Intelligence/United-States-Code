@@ -84,7 +84,7 @@ For purposes of this section, Saturday, Sunday, or a legal holiday in the Distri
 
 #### (2) Transfer of actions
 
-&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds that there is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action had been filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
+&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds thatthere is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action had been filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
 
 #### (f) Finality of determination
 
@@ -104,7 +104,7 @@ Any determination made by a court under this section shall be final and conclusi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" inheading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
 
 <b>1988</b>—Pub. L. 100–647, §6237(e)(3), inserted "levy or" after "jeopardy" in section catchline.
 

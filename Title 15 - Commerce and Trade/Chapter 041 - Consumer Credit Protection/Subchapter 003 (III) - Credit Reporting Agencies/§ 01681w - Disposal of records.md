@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
+&emsp;The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwisepossesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
 
 #### (2) Coordination
 

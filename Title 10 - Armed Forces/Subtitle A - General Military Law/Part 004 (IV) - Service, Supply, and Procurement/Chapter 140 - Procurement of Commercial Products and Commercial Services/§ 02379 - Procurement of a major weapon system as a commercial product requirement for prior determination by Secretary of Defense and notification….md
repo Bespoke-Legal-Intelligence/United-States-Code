@@ -32,7 +32,7 @@ Treatment of Components and Spare Parts as Commercial Products.—(1) A componen
 
 &emsp;(B) the contracting officer determines in writing that the component or spare part is a commercial product.
 
-(2) This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
+(2) This subsection shall apply only to components and spare parts that are acquired by theDepartment of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
 
 (d)
 
@@ -64,9 +64,15 @@ Delegation.—The authority of the Secretary of Defense to make a determination 
 
 Major Weapon System Defined.—In this section, the term "major weapon system" means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 of this title).
 
-(Added Pub. L. 109–163, div. A, title VIII, §803(a)(1), Jan. 6, 2006, 119 Stat. 3370; amended Pub. L. 110–181, div. A, title VIII, §815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, §1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, §872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869.)
+(Added Pub. L. 109–163, div. A, title VIII, §803(a)(1), Jan. 6, 2006, 119 Stat. 3370; amended Pub. L. 110–181, div. A, title VIII, §815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, §1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, §872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–283, div. A, title XVIII, §1831(j)(4), Jan. 1, 2021, 134 Stat. 4217.)
+
+#### Renumbering of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1821(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4195, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section, as part of chapter 247 of this title as transferred and redesignated by section 1821(a)(1) of Pub. L. 116–283, is redesignated as section 3455 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 116–283, §1831(j)(4), which directed amendment of this section, effective Jan. 1, 2022, by substituting "sections 3701–3708" for "section 2306a", could not be executed in introductory provisions due to the intervening amendment by section 1821(a)(2) of Pub. L. 116–283, which renumbered this section as section 3455 of this title, effective Jan. 1, 2022.
 
 <b>2018</b>—Pub. L. 115–232, §836(d)(8)(D), substituted "Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress" for "Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items" in section catchline.
 
@@ -92,7 +98,7 @@ Subsec. (b)(2). Pub. L. 114–92, §852(b)(2), substituted "writing that" for "w
 
 Subsec. (c)(1). Pub. L. 114–92, §852(c)(1), substituted "title if either" for "title only if" in introductory provisions.
 
-Subsec. (c)(1)(B). Pub. L. 114–92, §852(c)(2), substituted "writing that" for "writing that—", struck out cl. (i) designation before "the component or", substituted "title 41." for "title 41; and", and struck out cl. (ii) which read as follows: "the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such component or spare part."
+Subsec. (c)(1)(B). Pub. L. 114–92, §852(c)(2), substituted "writing that" for "writing that—", struck out cl. (i) designation before "the component or", substituted "title 41." for "title 41; and", and struck out cl. (ii) which read as follows: "the offeror has submitted sufficient information to evaluate, through price analysis,the reasonableness of the price for such component or spare part."
 
 Subsec. (d). Pub. L. 114–92, §852(d), amended subsec. (d) generally. Prior to amendment, text read as follows: "To the extent necessary to make a determination under subsection (a)(2), (b)(2), or (c)(1)(B), the contracting officer may request the offeror to submit—
 
@@ -115,6 +121,10 @@ Subsec. (c)(1)(B)(i). Pub. L. 113–291, §1071(a)(7)(A), substituted "section 1
 Subsec. (b). Pub. L. 110–181, §815(a)(1)(B), added subsec. (b) and struck out former subsec. (b). Former text read as follows: "A subsystem or component of a major weapon system shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items if such subsystem or component otherwise meets the requirements (other than requirements under subsection (a)) for treatment as a commercial item."
 
 Subsecs. (c) to (f). Pub. L. 110–181, §815(a)(1)(C), (D), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

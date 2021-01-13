@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Government Performance Plans.—In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on the website provided under section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
+Federal Government Performance Plans.—In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall coordinate with agencies to develop the Federal Government performance plan. In addition to the submission of such plan with each budget of the United States Government, the Director of the Office of Management and Budget shall ensure that all information required by this subsection is concurrently made available on a website described in section 1122 and updated periodically, but no less than annually. The Federal Government performance plan shall—
 
 &emsp;(1) establish Federal Government performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year for each of the Federal Government priority goals required under section 1120(a) of this title;
 
@@ -44,7 +44,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;&emsp;(C) an identification of the organizations, program activities, regulations, policies, and other activities that contribute to each performance goal, both within and external to the agency;
 
-&emsp;&emsp;(D) a description of how the agency is working with other agencies to achieve itsperformance goals as well as relevant Federal Government performance goals; and
+&emsp;&emsp;(D) a description of how the agency is working with other agencies to achieve its performance goals as well as relevant Federal Government performance goals; and
 
 &emsp;&emsp;(E) an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
 
@@ -76,7 +76,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 (c)
 
-Alternative Form.—If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
+Alternative Form.—If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Directorof the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
 
 &emsp;(1) include separate descriptive statements of—
 
@@ -136,15 +136,23 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 
 &emsp;(12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.)
+(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 1115, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, §1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, §1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "a website described in" for "the website provided under" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Format of Performance Plans and Reports
 
-Pub. L. 111–352, §10, Jan. 4, 2011, 124 Stat. 3880, provided that:
+Pub. L. 111–352, §10, Jan. 4, 2011, 124 Stat. 3880, as amended by Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(B), Jan. 1, 2021, 134 Stat. 4827, provided that:
 
 "(a)
 
@@ -154,7 +162,7 @@ Searchable, Machine-readable Plans and Reports.—For fiscal year 2012 and each 
 
 &emsp;"(2) produce such plans and reports in searchable, machine-readable formats; and
 
-&emsp;"(3) make such plans and reports available on the website described under section 1122 of title 31, United States Code.
+&emsp;"(3) make such plans and reports available on a website described in section 1122 of title 31, United States Code.
 
 "(b)
 
@@ -162,7 +170,7 @@ Web-based Performance Planning and Reporting.—
 
 &emsp;"(1)
 
-In general.—Not later than June 1, 2012, the Director of the Office of Management and Budget shall issue guidance to agencies to provide concise and timely performance information for publication on the website described under section 1122 of title 31, United States Code, including, at a minimum, all requirements of sections 1115 and 1116 of title 31, United States Code, except for section 1115(e).
+In general.—Not later than June 1, 2012, the Director of the Office of Management and Budget shall issue guidance to agencies to provide concise and timely performance information for publication on a website described in section 1122 of title 31, United States Code, including, at a minimum, all requirements of sections 1115 and 1116 of title 31, United States Code, except for section 1115(e).
 
 &emsp;"(2)
 
@@ -170,7 +178,7 @@ High-priority goals.—For agencies required to develop agency priority goals un
 
 &emsp;"(3)
 
-Considerations.—In developing guidance under this subsection, the Director of the Office of Management and Budget shall take into consideration the experiences of agencies in making consolidated performance planning and reporting information available on the website as required under section 1122 of title 31, United States Code."
+Considerations.—In developing guidance under this subsection, the Director of the Office of Management and Budget shall take into consideration the experiences of agencies in making consolidated performance planning and reporting information available on a website described in section 1122 of title 31, United States Code."
 
 #### Implementation of Pub. L. 111–352
 
@@ -274,13 +282,15 @@ Recommendations.—The Comptroller General shall include in the reports required
 
 Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13450. Improving Government Program Performance
 
 Ex. Ord. No. 13450, Nov. 13, 2007, 72 F.R. 64519, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 305 and 306 of title 5, sections 1115, 1116, and 9703 of title 31, and chapter 28 of title 39, United States Code, and to improve the effectiveness and efficiency of the Federal Government and promote greater accountability of that Government to the American people, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend taxpayer dollars effectively, and more effectively each year. Agencies shall apply taxpayer resources efficiently in a manner that maximizes the effectiveness of Government programs in serving the American people.
+Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend taxpayer dollars effectively, and more effectively each year. Agencies shall apply taxpayer resources efficiently in a manner that maximizesthe effectiveness of Government programs in serving the American people.
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
@@ -384,7 +394,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (B) the status of program performance plans and agency Performance and Accountability Reports; and
 
-(C) consistent with the direction of the head of the agency concerned after consultation with the Director, any publicly available reports by the agency's Inspector General concerning agency program performance;
+(C) consistent with the direction of the head of the agency concerned after consultation with the Director,any publicly available reports by the agency's Inspector General concerning agency program performance;
 
 (v) monitor implementation by agencies of the policy set forth in section 1 of this order and report thereon from time to time as appropriate to the Director, or when appropriate to the President through the Director, at such times and in such formats as the Chair may specify, together with any recommendations of the Council for more effective implementation of such policy;
 
@@ -413,4 +423,6 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+'
 

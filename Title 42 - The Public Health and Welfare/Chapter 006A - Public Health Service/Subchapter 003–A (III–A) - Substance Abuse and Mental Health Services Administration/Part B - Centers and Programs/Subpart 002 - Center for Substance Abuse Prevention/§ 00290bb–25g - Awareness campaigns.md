@@ -14,7 +14,7 @@ The Secretary of Health and Human Services, acting through the Director of the C
 
 &emsp;&emsp;(A) providing for continuing education on appropriate prescribing practices;
 
-&emsp;&emsp;(B) education related to applicable State or local prescriber limit laws, information on the use of non-addictive alternatives for pain management, and the use of overdose reversal drugs, as appropriate;
+&emsp;&emsp;(B) education related to applicable State or local prescriber limit laws, informationon the use of non-addictive alternatives for pain management, and the use of overdose reversal drugs, as appropriate;
 
 &emsp;&emsp;(C) disseminating and improving the use of evidence-based opioid prescribing guidelines across relevant health care settings, as appropriate, and updating guidelines as necessary;
 

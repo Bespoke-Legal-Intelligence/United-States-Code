@@ -10,7 +10,7 @@ Plan required.—Not later than 90 days after the date of enactment of the Posit
 
 &emsp;&emsp;(A) its main line over which intercity rail passenger transportation or commuter rail passenger transportation, as defined in section 24102, is regularly provided;
 
-&emsp;&emsp;(B) its main line over which poison- or toxic-by-inhalation hazardous materials, asdefined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations, are transported; and
+&emsp;&emsp;(B) its main line over which poison- or toxic-by-inhalation hazardous materials, as defined in sections 171.8, 173.115, and 173.132 of title 49, Code of Federal Regulations, are transported; and
 
 &emsp;&emsp;(C) such other tracks as the Secretary may prescribe by regulation or order.
 
@@ -92,7 +92,7 @@ Criteria.—Not later than 90 days after a railroad carrier or other entity subm
 
 &emsp;&emsp;&emsp;(v) certified to the Secretary in writing that it will be in full compliance with the requirements of this section on or before the date provided in an alternative schedule and sequence, subject to approval by the Secretary;
 
-&emsp;&emsp;&emsp;(vi) in the case of a Class I railroad carrier and Amtrak, implemented a positivetrain control system or initiated revenue service demonstration on the majority of territories, such as subdivisions or districts, or route miles that are owned or controlled by such carrier and required to have operations governed by a positive train control system; and
+&emsp;&emsp;&emsp;(vi) in the case of a Class I railroad carrier and Amtrak, implemented a positive train control system or initiated revenue service demonstration on the majority of territories, such as subdivisions or districts, or route miles that are owned or controlled by such carrier and required to have operations governed by a positive train control system; and
 
 &emsp;&emsp;&emsp;(vii) in the case of any other railroad carrier or other entity not subject to clause (vi)—
 
@@ -138,7 +138,7 @@ Progress Reports and Review.—
 
 &emsp;(1)
 
-Progress reports.—Each railroad carrier or other entity subject to subsection (a) shall, not later than March 31, 2016, and annually thereafter until such carrier or entity has completed implementation of a positive train control system, submit to the Secretary a report on the progress toward implementing such systems, including—
+Progress reports.—Each railroad carrier or other entity subject to subsection (a)shall, not later than March 31, 2016, and annually thereafter until such carrier or entity has completed implementation of a positive train control system, submit to the Secretary a report on the progress toward implementing such systems, including—
 
 &emsp;&emsp;(A) the information on spectrum acquisition provided pursuant to subsection (a)(2)(A)(iii)(I);
 
@@ -176,7 +176,7 @@ Enforcement.—The Secretary is authorized to assess civil penalties pursuant to
 
 &emsp;(1) a violation of this section;
 
-&emsp;(2) the failure to submit or comply with the revised plan required under subsection (a), including the failure to comply with the totalsprovided pursuant to subclauses (III) and (V) of subsection (a)(2)(A)(iii) and the spectrum acquisition dates provided pursuant to subsection (a)(2)(A)(iii)(I);
+&emsp;(2) the failure to submit or comply with the revised plan required under subsection (a), including the failure to comply with the totals provided pursuant to subclauses (III) and (V) of subsection (a)(2)(A)(iii) and the spectrum acquisition dates provided pursuant to subsection (a)(2)(A)(iii)(I);
 
 &emsp;(3) failure to comply with any amendments to such revised plan pursuant to subsection (a)(2)(C); and
 
@@ -294,7 +294,7 @@ Plans.—The positive train control safety plan for each railroad carrier or oth
 
 &emsp;(4)
 
-Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location and deadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
+Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location anddeadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
 
 (k)
 
@@ -322,7 +322,7 @@ Subsec. (a)(1)(B). Pub. L. 114–73, §1302(b)(1)(E), substituted "defined in se
 
 Subsec. (a)(2), (3). Pub. L. 114–73, §1302(b)(2), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The plan shall describe how it will provide for interoperability of the system with movements of trains of other railroad carriers over its lines and shall, to the extent practical, implement the system in a manner that addresses areas of greater risk before areas of lesser risk. The railroad carrier shall implement a positive train control system in accordance with the plan."
 
-Subsecs. (c) to (e). Pub. L. 114–73, §1302(b)(3), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related, respectively, to review and approvalof plans, progress report on implementation of positive train control systems, and enforcement of section.
+Subsecs. (c) to (e). Pub. L. 114–73, §1302(b)(3), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which related, respectively, to review and approval of plans, progress report on implementation of positive train control systems, and enforcement of section.
 
 Subsec. (g). Pub. L. 114–73, §1302(c), designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 

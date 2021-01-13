@@ -6,7 +6,7 @@ Section 4615, Pub. L. 96–72, §13, Sept. 29, 1979, 93 Stat. 531; Pub. L. 99–
 
 Section 4616, Pub. L. 96–72, §14, Sept. 29, 1979, 93 Stat. 532; Pub. L. 99–64, title I, §115, July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2418(c), 2445, Aug. 23, 1988, 102 Stat. 1357, 1369, related to annual report on the administration of this chapter. See section 4824 of this title.
 
-Section 4617, Pub. L. 96–72, §15, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §116(a), July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2420(b), 2429, Aug. 23, 1988, 102 Stat. 1358, 1362, related to appointment of Under Secretary of Commerce for Export Administration and issuance of regulations.
+Section 4617, Pub. L. 96–72, §15, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §116(a), July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2420(b), 2429, Aug. 23, 1988, 102 Stat. 1358, 1362, related to appointment of UnderSecretary of Commerce for Export Administration and issuance of regulations.
 
 Section 4618, Pub. L. 96–72, §16, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §117, July 12, 1985, 99 Stat. 153, defined terms as used in this chapter. See section 4801 of this title.
 

@@ -54,7 +54,7 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 #### (2) Risk assessment
 
-&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order todetermine what equipment and practices will best mitigate the risks.
+&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess therisks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
 
 #### (f) Intermodal Rail Radiation Detection Test Center
 
@@ -71,6 +71,8 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 &emsp;The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
 
 (Pub. L. 109–347, title I, §121, Oct. 13, 2006, 120 Stat. 1898; Pub. L. 115–254, div. J, §1816(b), Oct. 5, 2018, 132 Stat. 3541.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -91,6 +93,8 @@ Other weapons of mass destruction threats.—Not later than 180 days after Octob
 Subsec. (e)(1)(B). Pub. L. 115–254, §1816(b)(3), struck out "(and updating, if any, of that strategy under subsection (c))" after "under subsection (b)".
 
 Subsecs. (f) to (i). Pub. L. 115–254, §1816(b)(2), redesignated subsecs. (f) to (i) as (c) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

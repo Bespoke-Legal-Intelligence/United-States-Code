@@ -1,6 +1,6 @@
 ### §1704a. Agreements for use of foreign currencies; reports to Congress
 
-Within sixty days after any agreement is entered into for the use of any foreign currencies, a full report thereon shall be made to the Senate and the House of Representatives of the United States and to the Committees on Agriculture and Appropriations thereof.
+Within sixty days after any agreement is entered into for the use of any foreign currencies,a full report thereon shall be made to the Senate and the House of Representatives of the United States and to the Committees on Agriculture and Appropriations thereof.
 
 (Pub. L. 85–128, §1(5), Aug. 13, 1957, 71 Stat. 345.)
 

@@ -148,7 +148,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (A) Shelterbelts and windbreaks
 
-&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
+&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that issubject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
 
 #### (B) Wet and saturated soils
 
@@ -364,7 +364,7 @@ The date of enactment of the Food, Conservation, and Energy Act of 2008, referre
 
 This Act, referred to in subsec. (l)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, known as the Food Security Act of 1985. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (l)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of thisAct to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (l)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Agricultural Act of 2014, referred to in subsec. (l)(3), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Tables.
 

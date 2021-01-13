@@ -10,7 +10,7 @@ In general.—Any person who willfully infringes a copyright shall be punished a
 
 &emsp;&emsp;(A) for purposes of commercial advantage or private financial gain;
 
-&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works,which have a total retail value of more than $1,000; or
+&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
 
 &emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
 
@@ -64,6 +64,8 @@ Four types of criminal offenses actionable under the bill are listed in section 
 
 Section 506(a) contains a special provision applying to any person who infringes willfully and for purposes of commercial advantage the copyright in a sound recording or a motion picture. For the first such offense a person shall be fined not more than $25,000 or imprisoned for not more than one year, or both. For any subsequent offense a person shall be fined not more than $50,000 or imprisoned not more than two years, or both.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: "When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords."
@@ -85,6 +87,8 @@ Criminal Infringement.—Any person who infringes a copyright willfully and for 
 <b>1990</b>—Subsec. (f). Pub. L. 101–650 added subsec. (f).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–180 substituted "shall be punished as provided in section 2319 of title 18" for "shall be fined not more than $10,000 or imprisoned for not more than one year, or both: <i>Provided, however</i>, That any person who infringes willfully and for purposes of commercial advantage or private financial gain the copyright in a sound recording afforded by subsections (1), (2), or (3) of section 106 or the copyright in a motion picture afforded by subsections (1), (3), or (4) of section 106 shall be fined not more than $25,000 or imprisoned for not more than one year, or both, for the first such offense and shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for any subsequent offense".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -102,6 +102,8 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 (Pub. L. 101–380, title I, §1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, §2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, §406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, §603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, §903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011; Pub. L. 115–232, div. C, title XXXV, §3547(c), Aug. 13, 2018, 132 Stat. 2328.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
@@ -134,6 +136,8 @@ Subsec. (c)(4). Pub. L. 105–383, §406(2), added par. (4).
 
 <b>1995</b>—Subsec. (a)(1). Pub. L. 104–55 substituted "for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)" for "for a tank vessel,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(2) is effective with enactment of Pub. L. 109–241.
@@ -141,10 +145,6 @@ Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided t
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–241, title VI, §603(a)(3), July 11, 2006, 120 Stat. 554, provided that: "In the case of an incident occurring before the 90th day following the date of enactment of this Act \[July 11, 2006\], section 1004(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) shall apply as in effect immediately before the effective date of this subsection \[July 11, 2006\]."
-
-#### Delegation of Functions
-
-For delegation of functions of President under subsec. (d) of this section, see section 4 of Ex. Ord. No. 12777, set out as a note under section 1321 of this title.
 
 #### Report
 
@@ -167,4 +167,10 @@ Contents.—The report shall include, at a minimum, the following:
 "(3)
 
 Annual updates.—The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) not later than January 30 of the year following each year in which occurs an oil discharge from a vessel or nonvessel source that results or is likely to result in removal costs and damages (as those terms are defined in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701)) that exceed liability limits established under section 1004 of the Oil Pollution Act of 1990 (33 U.S.C. 2704)."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under subsec. (d) of this section, see section 4 of Ex. Ord. No. 12777, set out as a note under section 1321 of this title.
 

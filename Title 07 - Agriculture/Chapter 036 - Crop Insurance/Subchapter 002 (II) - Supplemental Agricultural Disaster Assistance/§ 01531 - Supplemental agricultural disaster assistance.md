@@ -128,7 +128,7 @@ In this section:
 
 #### (15) Normal production on the farm
 
-&emsp;The term "normal production on the farm" means the sum of the expected revenue for allcrops on the farm, as determined under subsection (b)(6)(A).
+&emsp;The term "normal production on the farm" means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
 
 #### (16) Qualifying natural disaster declaration
 
@@ -186,7 +186,7 @@ In this section:
 
 #### (B) Limitation
 
-&emsp;&emsp;The disaster assistance program guarantee for a crop used to calculate the payments for a farm under subparagraph (A)(i) may not be greater than 90 percent of the sum of the expected revenue, as described in paragraph (5) for each of the crops on a farm, as determined by the Secretary.
+&emsp;&emsp;The disaster assistance program guarantee for a crop used to calculate the payments for a farm under subparagraph (A)(i) may not be greater than 90 percent of the sum of the expected revenue, as described in paragraph (5)for each of the crops on a farm, as determined by the Secretary.
 
 #### (C) Exclusion of subsequently planted crops
 
@@ -228,7 +228,7 @@ In this section:
 
 #### (B) Adjustment insurance guarantee
 
-&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an insurable commodity for which a plan of insurance provides for an adjustment in the guarantee, such as in the case of prevented planting, the adjusted insuranceguarantee shall be the basis for determining the disaster assistance program guarantee for the insurable commodity.
+&emsp;&emsp;Notwithstanding subparagraph (A), in the case of an insurable commodity for which a plan of insurance provides for an adjustment in the guarantee, such as in the case of prevented planting, the adjusted insurance guarantee shall be the basis for determining the disaster assistance program guarantee for the insurable commodity.
 
 #### (C) Adjusted assistance level
 
@@ -262,7 +262,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vii) the amount of payments an eligible producer on a farm received under the noninsured crop assistance program for each crop on a farm; and
 
-&emsp;&emsp;&emsp;(viii) the value of any other natural disaster assistance payments provided by the Federal Government to an eligible producer on a farm for each crop on a farm for the same loss for which the eligible producer is seeking assistance.
+&emsp;&emsp;&emsp;(viii) the value of any other natural disaster assistance payments provided by theFederal Government to an eligible producer on a farm for each crop on a farm for the same loss for which the eligible producer is seeking assistance.
 
 #### (B) Adjustment
 
@@ -458,7 +458,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) the higher of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the national average corn price per bushel for the 12-month period immediately preceding March 1 of the year for which the disaster assistance is calculated; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the national average corn price per bushel for the 12-month period immediately preceding March 1 of theyear for which the disaster assistance is calculated; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the national average corn price per bushel for the 24-month period immediately preceding that March 1; by
 
@@ -572,7 +572,7 @@ In this section:
 
 #### (2) Use of funds
 
-&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed orwater shortages, disease, or other factors as determined by the Secretary.
+&emsp;Funds made available under this subsection shall be used to reduce losses caused by feed or water shortages, disease, or other factors as determined by the Secretary.
 
 #### (3) Availability of funds
 
@@ -720,7 +720,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
-&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determiningthe level of coverage, the Secretary shall use 70 percent of the applicable yield.
+&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
 
 #### (C) Equitable relief
 
@@ -760,7 +760,7 @@ In this section:
 
 #### (1) Definitions of legal entity and person
 
-&emsp;In this subsection, the terms "legal entity" and "person" have the meaning given those terms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>3</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
+&emsp;In this subsection, the terms "legal entity" and "person" have the meaning given thoseterms in section 1001(a) of the Food Security Act of 1985 (7 U.S.C. 1308(a) <sup>3</sup> (as amended by section 1603 of the Food, Conservation, and Energy Act of 2008).
 
 #### (2) Amount
 

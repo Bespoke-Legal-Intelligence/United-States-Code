@@ -32,7 +32,7 @@ Elements of System.—(1)(A) The system described in subsection (a) shall includ
 
 &emsp;&emsp;(i) based or stationed at a location where an open burn pit, as defined in subsection (c) of section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note), was used; or
 
-&emsp;&emsp;(ii) exposed to toxic airborne chemicals or other airborne contaminants, including any information recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
+&emsp;&emsp;(ii) exposed to toxic airborne chemicals or other airborne contaminants, including anyinformation recorded as part of the registry established by the Secretary of Veterans Affairs under such section 201.
 
 (3)(A) The Secretary shall establish for purposes of subparagraphs (B) and (C) of paragraph (2) a protocol for the predeployment assessment and documentation of the cognitive (including memory) functioning of a member who is deployed outside the United States in order to facilitate the assessment of the postdeployment cognitive (including memory) functioning of the member.
 
@@ -54,7 +54,7 @@ Quality Assurance.—(1) The Secretary of Defense shall establish a quality assu
 
 &emsp;(C) The guidance available to such providers on how to apply the clinical practice guidelines developed under subsection (e)(1) in determining whether to make a referral for further evaluation of a member of the armed forces relating to mental health.
 
-&emsp;(D) The effectiveness of the tracking mechanisms required under this section in ensuring that members who receive referrals for further evaluations relating to mental health receivesuch evaluations and obtain such care and services as are warranted.
+&emsp;(D) The effectiveness of the tracking mechanisms required under this section in ensuring that members who receive referrals for further evaluations relating to mental health receive such evaluations and obtain such care and services as are warranted.
 
 &emsp;(E) Programs established for monitoring the mental health of each member who, after deployment to a combat operation or contingency operations, is known—
 
@@ -92,7 +92,7 @@ Additional Requirements for Postdeployment Medical Examinations and Health Reass
 
 (2) The Secretary, to the extent practicable, shall ensure that the medical record of a member includes information on the external cause relating to a diagnosis of the member, including by associating an external cause code (as issued under the International Statistical Classification of Diseases and Related Health Problems, 10th Revision (or any successor revision)).
 
-(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483; Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, §712, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 116–92, div. A, title VII, §§704(c), 705(a), (b), Dec. 20, 2019, 133 Stat. 1438–1440.)
+(Added Pub. L. 105–85, div. A, title VII, §765(a)(1), Nov. 18, 1997, 111 Stat. 1826; amended Pub. L. 109–364, div. A, title VII, §738(a)–(d), Oct. 17, 2006, 120 Stat. 2303; Pub. L. 110–181, div. A, title XVI, §1673(a)(1), (b), (c), Jan. 28, 2008, 122 Stat. 482, 483;Pub. L. 111–84, div. A, title X, §1073(a)(9), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title VII, §712, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 116–92, div. A, title VII, §§704(c), 705(a), (b), Dec. 20, 2019, 133 Stat. 1438–1440.)
 
 #### Amendments
 
@@ -135,6 +135,22 @@ Subsec. (d). Pub. L. 109–364, §738(d), designated existing provisions as par.
 Subsec. (e). Pub. L. 109–364, §738(b), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–364, §738(c), added subsec. (f).
+
+#### Inclusion of Information on Exposure to Open Burn Pits in Postdeployment Health Reassessments
+
+Pub. L. 116–283, div. A, title VII, §721, Jan. 1, 2021, 134 Stat. 3698, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall include in postdeployment health reassessments conducted under section 1074f of title 10, United States Code, pursuant to a Department of Defense Form 2796, or successor form, an explicit question regarding exposure of members of the Armed Forces to open burn pits.
+
+"(b)
+
+Inclusion in Assessments by Military Departments.—The Secretary of Defense shall ensure that the Secretary of each military department includes a question regarding exposure of members of the Armed Forces to open burn pits in any electronic postdeployment health assessment conducted by that military department.
+
+"(c)
+
+Open Burn Pit Defined.—In this section, the term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
 
 #### Exposure to Open Burn Pits and Toxic Airborne Chemicals or Other Airborne Contaminants as Part of Periodic Health Assessments and Other Physical Examinations
 
@@ -186,7 +202,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(C) a deployment assessment conducted under section 1074f(b)(2) of such title, as amended by this section.
 
-&emsp;"(3) The term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
+&emsp;"(3) The term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial andOther Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
 
 #### Sharing Between Department of Defense and Department of Veterans Affairs of Records and Information Retained Under the Medical Tracking System for Members of the Armed Forces Deployed Overseas
 

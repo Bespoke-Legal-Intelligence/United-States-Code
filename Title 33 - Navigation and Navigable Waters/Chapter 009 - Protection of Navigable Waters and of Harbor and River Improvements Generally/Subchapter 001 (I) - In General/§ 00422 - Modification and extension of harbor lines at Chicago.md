@@ -4,9 +4,13 @@ The Secretary of the Army is authorized, in his discretion, to modify and extend
 
 (Aug. 26, 1912, ch. 408, §5, 37 Stat. 626; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from act Aug. 26, 1912, popularly known as the "Deficiency Appropriation Act for 1912".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,9 +4,13 @@ Except as provided in section 382 of this title, it shall be unlawful for any ve
 
 (June 19, 1934, ch. 652, title III, §381, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1047; amended Pub. L. 103–414, title III, §303(a)(20)(A), Oct. 25, 1994, 108 Stat. 4295.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–414 inserted section catchline.
+
+#### <b>Statutory Notes</b>
 
 #### Effective Date
 

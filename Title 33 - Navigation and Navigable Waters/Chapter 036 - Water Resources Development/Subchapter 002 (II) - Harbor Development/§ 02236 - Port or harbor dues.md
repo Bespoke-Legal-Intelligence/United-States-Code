@@ -6,7 +6,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (1) Purposes
 
-&emsp;Port or harbor dues may be levied only in conjunction with a harbor navigation project whose construction is complete (including a usable increment of the project) and for the following purposes and in amounts not to exceed those necessary to carry out those purposes:
+&emsp;Port or harbor dues may be levied only in conjunction with a harbor navigation project whose construction is complete (including ausable increment of the project) and for the following purposes and in amounts not to exceed those necessary to carry out those purposes:
 
 &emsp;&emsp;(A)(i) to finance the non-Federal share of construction and operation and maintenance costs of a navigation project for a harbor under the requirements of section 2211 of this title; or
 
@@ -76,7 +76,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(B) provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) <sup>1</sup> of this section;
 
-&emsp;&emsp;(C) designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and such other documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
+&emsp;&emsp;(C) designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and suchother documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
 
 &emsp;&emsp;(D) consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) <sup>1</sup> of this section.
 
@@ -120,6 +120,8 @@ Port or harbor dues levied under this section against a vessel constitute a mari
 
 (Pub. L. 99–662, title II, §208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, §1021(g), Dec. 21, 1995, 109 Stat. 713.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (b) of this section, referred to in subsec. (a)(6)(B), which related to audits, was struck out by Pub. L. 104–66 and subsec. (c) was redesignated as subsec. (b).
@@ -130,7 +132,7 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 
 #### Codification
 
-In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the UnitedStates (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (d)(1), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
 

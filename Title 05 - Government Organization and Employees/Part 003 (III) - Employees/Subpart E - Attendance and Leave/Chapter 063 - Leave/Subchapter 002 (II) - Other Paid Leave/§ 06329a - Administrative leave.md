@@ -72,9 +72,13 @@ Relation to Other Laws.—Notwithstanding subsection (a) of section 7421 of titl
 
 (Added Pub. L. 114–328, div. A, title XI, §1138(c)(1), Dec. 23, 2016, 130 Stat. 2461.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sense of Congress
 
@@ -116,7 +120,7 @@ Pub. L. 114–328, div. A, title XI, §1138(b), Dec. 23, 2016, 130 Stat. 2460, p
 
 #### GAO Report
 
-Pub. L. 114–328, div. A, title XI, §1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that: "Not later than 5years after the date of enactment of this Act \[Dec. 23, 2016\], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
+Pub. L. 114–328, div. A, title XI, §1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that: "Not later than 5 years after the date of enactment of this Act \[Dec. 23, 2016\], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including—
 
 &emsp;"(A) the number of times that an agency, under subsection (c)(1) of such section 6329b—
 

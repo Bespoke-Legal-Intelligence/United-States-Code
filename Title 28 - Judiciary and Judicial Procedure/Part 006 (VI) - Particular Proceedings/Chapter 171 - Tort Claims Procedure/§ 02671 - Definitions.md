@@ -20,6 +20,8 @@ Changes were made in phraseology.
 
 This section corrects a typographical error in section 2671 of title 28, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–518, in par. defining "Employee of the government", inserted "(1)" after "includes" and added cl. (2).
@@ -34,9 +36,11 @@ Pub. L. 106–398 inserted "115," after "members of the National Guard while eng
 
 <b>1949</b>—Act May 24, 1949, corrected spelling of "office".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: "Theamendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 #### Effective Date of 1988 Amendment
 

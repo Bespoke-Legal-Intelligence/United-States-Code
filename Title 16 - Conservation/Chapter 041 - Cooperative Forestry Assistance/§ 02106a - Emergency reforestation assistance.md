@@ -62,7 +62,7 @@ As used in this section—
 
 #### (e) Retroactive assistance
 
-The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretaryshall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
+The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
 
 (Pub. L. 101–624, title XII, §1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, §1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, §336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 110–234, title I, §1603(g)(5), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(5), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title II, §2301(d)(2)(E), Dec. 20, 2018, 132 Stat. 4554.)
 

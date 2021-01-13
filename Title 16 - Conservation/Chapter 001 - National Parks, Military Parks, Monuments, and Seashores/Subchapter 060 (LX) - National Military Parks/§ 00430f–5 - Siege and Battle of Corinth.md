@@ -10,7 +10,7 @@ The Secretary of the Interior (referred to in this title <sup>1</sup> as the "S
 
 #### (c) Publicly owned land
 
-Land and interests in land owned by the State of Mississippi or a political subdivision of the State of Mississippi may be acquired only by donation.
+Land and interests in land owned by the State of Mississippi or a political subdivision of theState of Mississippi may be acquired only by donation.
 
 #### (d) Interpretive center and marking
 

@@ -72,7 +72,7 @@
 
 #### (2) Results of testing
 
-&emsp;The results of any such testing shall be sent directly to the Food and Drug Administration, except the Secretary may by regulation exempt test results from such submission requirement if the Secretary determines that such results do not contribute to the protection of public health. Test results required to be submitted may be submitted to the Food and Drug Administration through electronic means.
+&emsp;The results of any such testing shall be sent directly to the Food and Drug Administration,except the Secretary may by regulation exempt test results from such submission requirement if the Secretary determines that such results do not contribute to the protection of public health. Test results required to be submitted may be submitted to the Food and Drug Administration through electronic means.
 
 #### (3) Exception
 
@@ -91,6 +91,8 @@ If food sampling and testing performed by a laboratory run and operated by a Sta
 Nothing in this section shall be construed to limit the ability of the Secretary to review and act upon information from food testing, including determining the sufficiency of such information and testing.
 
 (June 25, 1938, ch. 675, §422, as added Pub. L. 111–353, title II, §202(a), Jan. 4, 2011, 124 Stat. 3926.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

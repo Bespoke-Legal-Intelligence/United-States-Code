@@ -6,17 +6,23 @@ Any securities issued by the Bank (including any guarantee by the Bank, whether 
 
 #### (b) Suspension of exemption provisions; annual reports of Commission to Congress
 
-The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports toCongress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
+The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
 (Pub. L. 86–147, §11, Aug. 7, 1959, 73 Stat. 301; Pub. L. 94–302, title I, §103(a)(3), May 31, 1976, 90 Stat. 593.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–302 struck out "ordinary" after "in the Bank's" and inserted "and article IIA, section 4" after "article II, section 5" and "or article IIA, section 3(c)" after "article II, section 4(a)(ii)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
 For effective date of amendment by Pub. L. 94–302, see section 103(b) of Pub. L. 94–302, set out as a note under section 283c of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

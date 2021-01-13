@@ -11,6 +11,7 @@
 | [10307\.](%C2%A7%2010307%20-%20Types%20of%20research%20and%20development.md) | Types of research and development. |
 | [10308\.](%C2%A7%2010308%20-%20Patent%20policy.md) | Patent policy. |
 | [10309\.](%C2%A7%2010309%20-%20New%20spending%20authority%3B%20amounts%20provided%20in%20advance.md) | New spending authority; amounts provided in advance. |
+| [10310\.](%C2%A7%2010310%20-%20Produced%20water%20research%20and%20development.md) | Produced water research and development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,3 +29,4 @@
 - [&sect; 10307 - Types of research and development](%C2%A7%2010307%20-%20Types%20of%20research%20and%20development.md)
 - [&sect; 10308 - Patent policy](%C2%A7%2010308%20-%20Patent%20policy.md)
 - [&sect; 10309 - New spending authority; amounts provided in advance](%C2%A7%2010309%20-%20New%20spending%20authority%3B%20amounts%20provided%20in%20advance.md)
+- [&sect; 10310 - Produced water research and development](%C2%A7%2010310%20-%20Produced%20water%20research%20and%20development.md)

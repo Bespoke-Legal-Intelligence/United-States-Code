@@ -10,7 +10,7 @@ A community housing development organization may not receive assistance under th
 
 #### (c) Adjustments of other assistance
 
-The Secretary shall take account of assistance provided to a project under this part when adjusting other assistance to be provided to the project as required by section 3545(d) of this title.
+The Secretary shall take account of assistance provided to a project under this part when adjusting other assistance to be provided to theproject as required by section 3545(d) of this title.
 
 (Pub. L. 101–625, title II, §234, Nov. 28, 1990, 104 Stat. 4117; Pub. L. 102–550, title II, §212(c), Oct. 28, 1992, 106 Stat. 3757.)
 

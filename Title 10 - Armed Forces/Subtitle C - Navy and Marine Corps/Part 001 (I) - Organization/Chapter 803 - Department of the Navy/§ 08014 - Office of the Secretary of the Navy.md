@@ -88,7 +88,7 @@
 
 A prior section 8014 was renumbered section 9014 of this title.
 
-Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8013; Aug. 6, 1958, Pub. L. 85–599, §8(c), 72 Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, §305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, §2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(d), 93 Stat. 819; renumbered §8014, Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, §521(a)(3).
+Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8013; Aug. 6, 1958, Pub. L. 85–599, §8(c), 72 Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, §305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, §2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(d), 93 Stat. 819; renumbered §8014, Oct. 1, 1986, Pub. L. 99–433, titleV, §521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, §521(a)(3).
 
 Another prior section 8014 was renumbered section 8015 of this title and subsequently repealed.
 

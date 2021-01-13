@@ -18,6 +18,8 @@ This section does not apply to the annual reports of the Smithsonian Institution
 
 Based on 44 U.S. Code, 1964 ed., Supp. II, §121 (July 1, 1916, ch. 209, §3, 39 Stat. 336; June 20, 1936, ch. 630, §8, 49 Stat. 1550).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline and introductory provisions of first undesignated par.
@@ -25,6 +27,8 @@ Based on 44 U.S. Code, 1964 ed., Supp. II, §121 (July 1, 1916, ch. 209, §3, 39
 <b>1999</b>—Pub. L. 106–113 struck out "the Commissioner of Patents," after "Smithsonian Institution," in last par.
 
 <b>1976</b>—Pub. L. 94–273 substituted "February" for "November" and "March" for "December" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

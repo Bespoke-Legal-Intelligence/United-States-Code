@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §204(i), as added Pub. L. 103–123, title IV, §7, Oct. 28, 1993, 107 Stat. 1247.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–313 substituted "Acquisition Services Fund" for "General Supply Fund" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

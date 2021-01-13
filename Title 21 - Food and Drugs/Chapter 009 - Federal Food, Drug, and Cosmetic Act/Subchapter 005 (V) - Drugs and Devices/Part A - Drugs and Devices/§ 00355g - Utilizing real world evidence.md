@@ -84,6 +84,8 @@ The Secretary shall—
 
 (June 25, 1938, ch. 675, §505F, as added Pub. L. 114–255, div. A, title III, §3022, Dec. 13, 2016, 130 Stat. 1096; amended Pub. L. 115–52, title IX, §901(c), (d), Aug. 18, 2017, 131 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–52, §901(c), substituted "traditional" for "randomized".

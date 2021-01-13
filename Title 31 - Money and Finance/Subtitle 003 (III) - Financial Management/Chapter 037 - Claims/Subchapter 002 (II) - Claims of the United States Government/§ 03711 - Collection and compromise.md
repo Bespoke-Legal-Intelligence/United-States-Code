@@ -66,11 +66,11 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
-(3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(3) The Secretary of Veterans Affairs may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (4) In this subsection, the term "active duty" has the meaning given that term in section 101 of title 10.
 
@@ -156,7 +156,7 @@
 
 (2) The obtaining of a consumer report under this subsection is deemed to be a circumstance or purpose authorized or listed under section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
 
-(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
+(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
 
 (2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed to the United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
 
@@ -188,7 +188,7 @@
 
 (5) This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26,1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, §1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, §1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, §8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, §4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, §5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, §1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, §31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, §1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, §115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, §902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, §801(a), Oct. 10, 2008, 122 Stat. 4185; Pub. L. 116–283, div. A, title IX, §927(d)(2), Jan. 1, 2021, 134 Stat. 3831.)
 
 Historical and Revision Notes<br>1982
 
@@ -234,7 +234,7 @@ In subsection (a), the word "Government" is added for consistency. In clause (2)
 
 In subsections (b) and (d), the word "official" is substituted for "officer" for consistency.
 
-In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "have the foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only . . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
+In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "havethe foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only . . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
 
 In subsection (c)(1), the words "that appears to be fraudulent, false, or misrepresented by" are substituted for "as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of" to eliminate unnecessary words. The words "the debtor or . . . other" and "in whole or in part" are omitted as surplus.
 
@@ -274,6 +274,8 @@ In subsection (f)(1), before clause (A), the word "Government" is substituted fo
 
 This is necessary to reflect the transfer of the non-positive law provisions of title 49 to title 49 appendix.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 502(7), 502(8), and 504(b) of the Federal Credit Reform Act of 1990, referred to in subsec. (i)(1), (4)(B), are classified to sections 661a(7), 661a(8), and 661c(b), respectively, of Title 2, The Congress.
@@ -281,6 +283,8 @@ Sections 502(7), 502(8), and 504(b) of the Federal Credit Reform Act of 1990, re
 The date of enactment of the Debt Collection Improvement Act of 1996, referred to in subsec. (i)(4)(A), is the date of enactment of section 31001 of Pub. L. 104–134, which was approved Apr. 26, 1996.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(1), (3). Pub. L. 116–283 inserted "Space Force," after "Marine Corps,".
 
 <b>2008</b>—Subsec. (f)(3), (4). Pub. L. 110–389 added par. (3) and redesignated former par. (3) as (4).
 
@@ -341,6 +345,8 @@ Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 <b>1984</b>—Subsec. (c)(2). Pub. L. 98–216 substituted "(49 App. U.S.C. 26(h))" for "(49 U.S.C. 26(h))".
 
 <b>1983</b>—Subsec. (f). Pub. L. 97–452 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

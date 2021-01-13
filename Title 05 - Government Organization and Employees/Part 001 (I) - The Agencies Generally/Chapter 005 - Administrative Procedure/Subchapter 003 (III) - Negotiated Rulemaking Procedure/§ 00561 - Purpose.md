@@ -4,13 +4,17 @@ The purpose of this subchapter is to establish a framework for the conduct of ne
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §581; renumbered §561, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 581 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal; Savings Provision
 
-Pub. L. 101–648, §5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106 Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, §11(a), Oct. 19, 1996, 110 Stat. 3873.
+Pub. L. 101–648, §5, Nov. 29, 1990, 104 Stat. 4976, as amended by Pub. L. 102–354, §5(a)(2), Aug. 26, 1992, 106Stat. 945, which provided that subchapter III of chapter 5 of title 5 and the table of sections corresponding to such subchapter, were repealed, effective 6 years after Nov. 29, 1990, except for then pending proceedings, was repealed by Pub. L. 104–320, §11(a), Oct. 19, 1996, 110 Stat. 3873.
 
 #### Short Title of 1992 Amendment
 

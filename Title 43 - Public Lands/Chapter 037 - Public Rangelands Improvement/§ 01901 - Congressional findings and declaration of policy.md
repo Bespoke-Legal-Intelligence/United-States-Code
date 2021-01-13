@@ -6,13 +6,13 @@
 
 &emsp;(2) such rangelands will remain in an unsatisfactory condition and some areas may decline further under present levels of, and funding for, management;
 
-&emsp;(3) unsatisfactory conditions on public rangelands present a high risk of soil loss, desertification,<sup>1</sup> and a resultant underproductivity for large acreages of the public lands; contribute significantly to unacceptable levels of siltation and salinity in major western watersheds including the Colorado River; negatively impact the quality and availability of scarce western water supplies; threaten important and frequently critical fish and wildlife habitat; prevent expansion of the forage resource and resulting benefits to livestock and wildlife production; increase surface runoff and flood danger; reduce the value of such lands for recreational and esthetic purposes; and may ultimately lead to unpredictable and undesirable long-term local and regional climatic and economic changes;
+&emsp;(3) unsatisfactory conditions on public rangelands present a high risk of soil loss, desertification,<sup>1</sup> and a resultantunderproductivity for large acreages of the public lands; contribute significantly to unacceptable levels of siltation and salinity in major western watersheds including the Colorado River; negatively impact the quality and availability of scarce western water supplies; threaten important and frequently critical fish and wildlife habitat; prevent expansion of the forage resource and resulting benefits to livestock and wildlife production; increase surface runoff and flood danger; reduce the value of such lands for recreational and esthetic purposes; and may ultimately lead to unpredictable and undesirable long-term local and regional climatic and economic changes;
 
 &emsp;(4) the above-mentioned conditions can be addressed and corrected by an intensive public rangelands maintenance, management, and improvement program involving significant increases in levels of rangeland management and improvement funding for multiple-use values;
 
 &emsp;(5) to prevent economic disruption and harm to the western livestock industry, it is in the public interest to charge a fee for livestock grazing permits and leases on the public lands which is based on a formula reflecting annual changes in the costs of production;
 
-&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal ofexcess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
+&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal of excess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
 
 (b) The Congress therefore hereby establishes and reaffirms a national policy and commitment to:
 
@@ -28,11 +28,15 @@
 
 (Pub. L. 95–514, §2, Oct. 25, 1978, 92 Stat. 1803.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, as amended, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30 (§1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 16 and Tables.
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

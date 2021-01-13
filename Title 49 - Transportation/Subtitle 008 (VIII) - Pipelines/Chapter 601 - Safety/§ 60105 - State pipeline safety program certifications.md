@@ -18,9 +18,21 @@ Contents.—Each certification submitted under subsection (a) of this section sh
 
 &emsp;(5) may require record maintenance, reporting, and inspection substantially the same as provided under section 60117 of this title;
 
-&emsp;(6) may require that plans for inspection and maintenance under section 60108 (a) and (b) of this title be filed for approval; and
+&emsp;(6) may require that plans for inspection and maintenance under section 60108 (a) and (b) of this title be filed for approval;
 
-&emsp;(7) may enforce safety standards of the authority under a law of the State by injunctive relief and civil penalties substantially the same as provided under sections 60120 and 60122(a)(1) and (b)–(f) of this title.
+&emsp;(7) may enforce safety standards of the authority under a law of the State by injunctive relief and civil penalties substantially the same as provided under sections 60120 and 60122(a)(1) and (b)–(f) of this title;
+
+&emsp;(8) has the capability to sufficiently review and evaluate the adequacy of the plans and manuals described in section 60109(e)(7)(C)(i); and
+
+&emsp;(9) has a sufficient number of employees described in paragraph (3) to ensure safe operations of pipeline facilities, updating the State Inspection Calculation Tool to take into account factors including—
+
+&emsp;&emsp;(A) the number of miles of natural gas and hazardous liquid pipelines in the State, including the number of miles of cast iron and bare steel pipelines;
+
+&emsp;&emsp;(B) the number of services in the State;
+
+&emsp;&emsp;(C) the age of the gas distribution system in the State; and
+
+&emsp;&emsp;(D) environmental factors that could impact the integrity of the pipeline, including relevant geological issues.
 
 (c)
 
@@ -28,7 +40,7 @@ Reports.—(1) Each certification submitted under subsection (a) of this section
 
 &emsp;(A) the name and address of each person to whom the certification applies that is subject to the safety jurisdiction of the State authority;
 
-&emsp;(B) each accident or incident reported during the prior 12 months by that person involving afatality, personal injury requiring hospitalization, or property damage or loss of more than an amount the Secretary establishes (even if the person sustaining the fatality, personal injury, or property damage or loss is not subject to the safety jurisdiction of the authority), any other accident the authority considers significant, and a summary of the investigation by the authority of the cause and circumstances surrounding the accident or incident;
+&emsp;(B) each accident or incident reported during the prior 12 months by that person involving a fatality, personal injury requiring hospitalization, or property damage or loss of more than an amount the Secretary establishes (even if the person sustaining the fatality, personal injury, or property damage or loss is not subject to the safety jurisdiction of the authority), any other accident the authority considers significant, and a summary of the investigation by the authority of the cause and circumstances surrounding the accident or incident;
 
 &emsp;(C) the record maintenance, reporting, and inspection practices conducted by the authority to enforce compliance with safety standards prescribed under this chapter to which the certification applies, including the number of inspections of pipeline facilities the authority made during the prior 12 months; and
 
@@ -48,7 +60,7 @@ Monitoring.—The Secretary may monitor a safety program established under this 
 
 Rejections of Certification.—If after receiving a certification the Secretary decides the State authority is not enforcing satisfactorily compliance with applicable safety standards prescribed under this chapter, the Secretary may reject the certification, assert United States Government jurisdiction, or take other appropriate action to achieve adequate enforcement. The Secretary shall give the authority notice and an opportunity for a hearing before taking final action under this subsection. When notice is given, the burden of proof is on the authority to demonstrate that it is enforcing satisfactorily compliance with the prescribed standards.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1309; Pub. L. 104–304, §20(a), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(b)(1), Dec. 29, 2006, 120 Stat. 3487.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1309; Pub. L. 104–304, §20(a), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 109–468, §2(b)(1), Dec. 29, 2006, 120 Stat. 3487; Pub. L. 116–260, div. R, title II, §202(b)(1), Dec. 27, 2020, 134 Stat. 2239.)
 
 Historical and Revision Notes
 
@@ -136,7 +148,15 @@ In subsection (f), the words "prescribed under this chapter" are added for clari
 
 #### Amendments
 
+<b>2020</b>—Subsec. (b)(8), (9). Pub. L. 116–260 added pars. (8) and (9).
+
 <b>2006</b>—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;".
 
 <b>1996</b>—Pub. L. 104–304 substituted "State pipeline safety program certifications" for "State certifications" in section catchline.
+
+#### Regulations
+
+Pub. L. 116–260, div. R, title II, §202(b)(2), Dec. 27, 2020, 134 Stat. 2239, provided that: "The Secretary \[of Transportation\] shall promulgate regulations to require that a State authority with a certification in effect under section 60105 of title 49, United States Code, has a sufficient number of qualified inspectors to ensure safe operations, as determined by the State Inspection Calculation Tool and other factors determined to be appropriate by the Secretary."
+
+Pub. L. 116–260, div. R, title II, §202(b)(3), Dec. 27, 2020, 134 Stat. 2239, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 27, 2020\], the Secretary \[of Transportation\] shall promulgate regulations to implement the amendments made by this subsection \[amending this section\]."
 

@@ -38,7 +38,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(F) consideration of establishing ad hoc or formal linkages between the provision of official financing to countries experiencing a financial crisis and the willingness of market participants to meaningfully participate in any stabilization effort led by the International Monetary Fund;
 
-&emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors andprivate creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
+&emsp;&emsp;(G) using the International Monetary Fund to facilitate discussions between debtors and private creditors to help ensure that financial difficulties are resolved without inappropriate resort to public resources; and
 
 &emsp;&emsp;(H) the International Monetary Fund accompanying the provision of funding to countries experiencing a financial crisis resulting from imprudent borrowing with efforts to achieve a significant contribution by the private creditors, investors, and banks which had extended such credits.
 
@@ -82,15 +82,19 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 To the extent that it would assist in achieving the goals described in subsection (a), the Secretary of the Treasury shall pursue the goals in coordination with the Secretary of State, the Secretary of Labor, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, and the United States Trade Representative.
 
-(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L.108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
+(Pub. L. 95–118, title XV, §1503, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §610(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; amended Pub. L. 108–458, title VII, §7703(a), Dec. 17, 2004, 118 Stat. 3860.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(15). Pub. L. 108–458 added par. (15).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Annual Report on Lending, Surveillance, or Technical Assistance Policies of the International Monetary Fund
 
-Pub. L. 114–113, div. K, title IX, §9006, Dec. 18, 2015, 129 Stat. 2832, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
+Pub. L. 114–113, div. K, title IX, §9006, Dec. 18, 2015, 129 Stat. 2832, provided that: "Not later than one year afterthe date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
 
 &emsp;"(1) a description of any changes in the policies of the International Monetary Fund (the Fund) with respect to lending, surveillance, or technical assistance;
 

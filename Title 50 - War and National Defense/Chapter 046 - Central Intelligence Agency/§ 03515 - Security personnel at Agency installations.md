@@ -2,7 +2,7 @@
 
 #### (a) Special policemen: functions and powers; regulations: promulgation and enforcement
 
-(1) The Director may authorize Agency personnel within the United States to perform thesame functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+(1) The Director may authorize Agency personnel within the United States to perform the same functions as officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40, with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;(A) within the Agency Headquarters Compound and the property controlled and occupied by the Federal Highway Administration located immediately adjacent to such Compound;
 
@@ -40,7 +40,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 (3) In this subsection, the term "crime of violence" has the meaning given that term in section 16 of title 18.
 
-(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, and Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(b)(3), title IV, §402, Dec. 13, 2003, 117 Stat. 2630, 2631; Pub. L. 116–92, div. E, title LXIV, §6413, Dec. 20, 2019, 133 Stat. 2198.)
+(June 20, 1949, ch. 227, §15, as added Pub. L. 98–473, title I, §140, Oct. 12, 1984, 98 Stat. 1973, and Pub. L. 98–618, title IV, §401, Nov. 8, 1984, 98 Stat. 3301; amended Pub. L. 105–107, title IV, §404, Nov. 20, 1997, 111 Stat. 2260; Pub. L. 107–306, title VIII, §841(d), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title III, §377(b)(3), title IV, §402, Dec. 13, 2003, 117 Stat. 2630, 2631; Pub. L. 116–92,div. E, title LXIV, §6413, Dec. 20, 2019, 133 Stat. 2198.)
 
 #### Codification
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 108–177, §402, added subsec. (d).
 
 <b>2002</b>—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: "Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency."
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted "(1)" after "(a)", substituted "powers—" for"powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.", and added subpars. (A) to (D).
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted "(1)" after "(a)", substituted "powers—" for "powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.", and added subpars. (A) to (D).
 
 Subsec. (a)(2) to (5). Pub. L. 105–107, §404(3), added pars. (2) to (5).
 

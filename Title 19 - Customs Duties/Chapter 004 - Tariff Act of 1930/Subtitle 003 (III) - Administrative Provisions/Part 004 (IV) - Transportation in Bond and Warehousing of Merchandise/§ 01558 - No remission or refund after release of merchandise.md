@@ -22,13 +22,13 @@ Subsection (h) of section 1304 of this title, referred to in subsec. (b), was re
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in R.S. §2978, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and in R.S. §3025, both of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §558, 42 Stat. 977, and were repealed by section 642 thereof. Section 558 of the 1922 act was superseded by section 558 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §2978, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and in R.S. §3025, both of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §558,42 Stat. 977, and were repealed by section 642 thereof. Section 558 of the 1922 act was superseded by section 558 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–36 substituted "subsection (h)" for "subsection (c)" in two places.
 
-<b>1938</b>—Act June 25, 1938, designated existing provisions as subsecs. (a) and (b).
+<b>1938</b>—Act June 25, 1938, amended section generally. Prior to amendment, section disallowed remission or refund of estimated or liquidated duty on the exportation of merchandise after its release from Government control or custody, with exceptions for articles made from imported materials or not conforming to specifications, on which drawback was provided by law.
 
 #### Effective Date of 1938 Amendment
 

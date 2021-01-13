@@ -12,6 +12,8 @@ Nothing in paragraph (a) of this section shall be construed to prohibit the taki
 
 (Added Aug. 2, 1956, ch. 879, §1, 70 Stat. 935; amended Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §601(f)(13), Oct. 11, 1996, 110 Stat. 3500.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 realigned margins for provisions beginning "shall be fined" and ending "one year, or both."

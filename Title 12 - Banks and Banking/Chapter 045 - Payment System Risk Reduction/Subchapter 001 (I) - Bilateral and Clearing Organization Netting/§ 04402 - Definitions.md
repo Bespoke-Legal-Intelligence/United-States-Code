@@ -114,7 +114,9 @@ For purposes of this subchapter—
 
 &emsp;The term "payment" means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
-(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
+(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a),Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -153,6 +155,8 @@ Par. (15). Pub. L. 109–8, §906(a)(5), added par. (15).
 Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: "that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act."
 
 <b>1992</b>—Par. (14)(B). Pub. L. 102–550 substituted "Federal law" for "Federal commodities law".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

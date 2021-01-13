@@ -30,6 +30,8 @@
 
 This section inserts in the analysis of chapter 91 of title 28, U.S.C., item 1505, corresponding to new section 1505.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–284, §4(1), Sept. 27, 2006, 120 Stat. 1211, substituted "chapter 37 of title 40" for "Contract Work Hours and Safety Standards Act" in item 1499.

@@ -22,7 +22,7 @@ Elements.—The national network shall encompass the following elements:
 
 (c)
 
-Cooperative Agreements and Memoranda of Understanding.—To achieve the purposes of this chapter and to ensure effective coordination of the Federal and non-Federal elements of the national network with System units and programs of the Service, the Secretary may enter into cooperative agreements and memoranda ofunderstanding with, and provide technical assistance—
+Cooperative Agreements and Memoranda of Understanding.—To achieve the purposes of this chapter and to ensure effective coordination of the Federal and non-Federal elements of the national network with System units and programs of the Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance—
 
 &emsp;(1) to the heads of other Federal agencies, States, localities, regional governmental bodies, and private entities; and
 

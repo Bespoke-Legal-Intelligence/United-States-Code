@@ -14,6 +14,8 @@ Following consultation with the Secretary, the Secretary of State may make a dec
 
 (Pub. L. 96–478, §10, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 100–220, title II, §2106, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 110–280, §9, July 21, 2008, 122 Stat. 2615.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–280 substituted "Annex I, II, V, or VI" for "Annex I, II, or V" and inserted "or the Administrator as provided for in this chapter," after "Secretary,".
@@ -21,6 +23,8 @@ Following consultation with the Secretary, the Secretary of State may make a dec
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §2106(1), substituted "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
 
 Subsec. (b). Pub. L. 100–220, §2106(2), substituted "Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention" for "Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol," and "International Maritime Organization" for "Inter-Governmental Maritime Consultative Organization".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

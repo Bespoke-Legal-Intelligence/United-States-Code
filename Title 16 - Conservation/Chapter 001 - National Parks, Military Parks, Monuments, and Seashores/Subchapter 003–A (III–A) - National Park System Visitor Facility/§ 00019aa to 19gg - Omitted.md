@@ -8,7 +8,7 @@ Section 19aa, Pub. L. 97–433, §2, Jan. 8, 1983, 96 Stat. 2277, defined terms 
 
 Section 19bb, Pub. L. 97–433, §3, Jan. 8, 1983, 96 Stat. 2277, established in United States Treasury the National Park System Visitor Facilities Fund and provided for funds to be credited to that Fund.
 
-Section 19cc, Pub. L. 97–433, §4, Jan. 8, 1983, 96 Stat. 2277, authorized appropriations to be made available toNational Park Foundation to carry out its functions under this subchapter.
+Section 19cc, Pub. L. 97–433, §4, Jan. 8, 1983, 96 Stat. 2277, authorized appropriations to be made available to National Park Foundation to carry out its functions under this subchapter.
 
 Section 19dd, Pub. L. 97–433, §5, Jan. 8, 1983, 96 Stat. 2278, related to administration of Fund projects and required Foundation to include in its annual report a description of projects undertaken and accomplishments made under this subchapter.
 

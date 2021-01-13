@@ -4,7 +4,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 &emsp;(1) monitor emerging issues and concerns as they relate to medical and public health preparedness and response for at-risk individuals in the event of a public health emergency declared by the Secretary under section 247d of this title;
 
-&emsp;(2) oversee the implementation of the preparedness goals described in section 300hh–1(b) of this title with respect to the public health and medical needs of at-risk individuals in theevent of a public health emergency, as described in section 300hh–1(b)(4) of this title;
+&emsp;(2) oversee the implementation of the preparedness goals described in section 300hh–1(b) of this title with respect to the public health and medical needs of at-risk individuals in the event of a public health emergency, as described in section 300hh–1(b)(4) of this title;
 
 &emsp;(3) assist other Federal agencies responsible for planning for, responding to, and recovering from public health emergencies in addressing the needs of at-risk individuals;
 
@@ -18,7 +18,7 @@ The Secretary, acting through such employee of the Department of Health and Huma
 
 &emsp;(8) ensure that public health and medical information distributed by the Department of Health and Human Services during a public health emergency is delivered in a manner that takes into account the range of communication needs of the intended recipients, including at-risk individuals; and
 
-&emsp;(9) facilitate coordination to ensure that, in implementing the situational awareness and biosurveillance network under section 247d–4 of this title, the Secretary considers incorporating data and information from Federal, State, local, Tribal, and territorial public health officials and entities relevant to detecting emerging public health threats that may affect at-risk individuals, such as pregnant and postpartum women and infants, including adverse health outcomes of such populations related to such emerging public health threats.
+&emsp;(9) facilitate coordination to ensure that, in implementing the situational awareness and biosurveillance network under section 247d–4 of this title, the Secretary considers incorporating data and information from Federal, State, local, Tribal, and territorial public health officials and entities relevant to detecting emerging public health threats that may affect at-risk individuals, such as pregnant and postpartum women and infants, including adverse health outcomes of such populationsrelated to such emerging public health threats.
 
 (July 1, 1944, ch. 373, title XXVIII, §2814, as added Pub. L. 109–417, title I, §102(d), Dec. 19, 2006, 120 Stat. 2834; amended Pub. L. 113–5, title I, §101(b), Mar. 13, 2013, 127 Stat. 163; Pub. L. 116–22, title III, §303(c), June 24, 2019, 133 Stat. 935.)
 

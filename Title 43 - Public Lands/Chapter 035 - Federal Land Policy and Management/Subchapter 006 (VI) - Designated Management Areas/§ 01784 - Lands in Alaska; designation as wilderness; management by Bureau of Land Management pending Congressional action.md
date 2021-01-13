@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, section 1782 of this title shall not
 
 (Pub. L. 96–487, title XIII, §1320, Dec. 2, 1980, 94 Stat. 2487.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
@@ -11,6 +13,8 @@ The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 
 #### Codification
 
 Section was enacted as part of the Alaska National Interest Lands Conservation Act, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Kenai Natives Association Land Exchange
 
@@ -46,7 +50,7 @@ Definitions.—For purposes of this section, the term—
 
 &emsp;"(1) 'ANCSA' means the Alaska Native Claims Settlement Act of 1971 (43 U.S.C. 1601 et seq.);
 
-&emsp;"(2) 'ANILCA' means the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat.2371 et seq. \[see Short Title note set out under section 3101 of Title 16, Conservation\]);
+&emsp;"(2) 'ANILCA' means the Alaska National Interest Lands Conservation Act (Public Law 96–487; 94 Stat. 2371 et seq. \[see Short Title note set out under section 3101 of Title 16, Conservation\]);
 
 &emsp;"(3) 'conservation system unit' has the same meaning as in section 102(4) of ANILCA (16 U.S.C. 3102(4));
 
@@ -64,7 +68,7 @@ Definitions.—For purposes of this section, the term—
 
 &emsp;"(10) 'Service' means the United States Fish and Wildlife Service; and
 
-&emsp;"(11) 'Terms and Conditions' means the Terms and Conditions for Land Consolidation and Management in the Cook Inlet Area, as clarified on August 31, 1976, ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note).
+&emsp;"(11) 'Terms and Conditions' means the Terms and Conditions for Land Consolidation and Managementin the Cook Inlet Area, as clarified on August 31, 1976, ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note).
 
 "(d)
 
@@ -136,7 +140,7 @@ General provisions.—
 
 Removal of kna lands from the national wildlife refuge system.—
 
-&emsp;&emsp;&emsp;"(i) Effective on the date of closing for the Acquisition Lands identified in paragraph (2)(B), all lands retained by or conveyed to KNA pursuant to this section, and the subsurface interests of CIRI underlying such lands shall be automatically removed from the National Wildlife Refuge System and shall neither be considered as part of the Refuge nor subject to any laws pertaining solely to lands within the boundaries of the Refuge. The conveyance restrictions imposed by section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] (i) shall then be ineffective and cease to apply to such interests of KNA and CIRI, and (ii) shall not be applicable to the interests received by KNA in accordance with paragraph (2)(B) or to the CIRI interests underlying them. The Secretary shall adjust the boundaries of the Refuge so as to exclude all interests in lands retained or received in exchange by KNA in accordance with this section, including both surface and subsurface, and shall also exclude all interests currently held by CIRI. On lands within the Swanson River Road East Tract, the boundary adjustment shall only include the surface estate where the subsurface estate is retained by the United States.
+&emsp;&emsp;&emsp;"(i) Effective on the date of closing for the Acquisition Lands identified in paragraph (2)(B), all lands retained by or conveyed to KNA pursuant to this section, and the subsurface interests of CIRI underlying such lands shall be automatically removed from the National Wildlife Refuge System and shall neither be considered as part of the Refuge nor subject to any laws pertaining solely to lands within the boundaries of the Refuge. The conveyance restrictions imposed by section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] (i) shall then be ineffective and cease to apply to such interests of KNA and CIRI, and (ii) shall not be applicable to the interests received by KNA in accordance withparagraph (2)(B) or to the CIRI interests underlying them. The Secretary shall adjust the boundaries of the Refuge so as to exclude all interests in lands retained or received in exchange by KNA in accordance with this section, including both surface and subsurface, and shall also exclude all interests currently held by CIRI. On lands within the Swanson River Road East Tract, the boundary adjustment shall only include the surface estate where the subsurface estate is retained by the United States.
 
 &emsp;&emsp;&emsp;"(ii)(I) The Secretary, KNA, and CIRI shall execute an agreement within 45 days of the date of enactment of this section \[Nov. 12, 1996\] which preserves CIRI's rights under paragraph 1(B)(1) of the Terms and Conditions, addresses CIRI's obligations under such paragraph, and adequately addresses management issues associated with the boundary adjustment set forth in this section and with the differing interests in land resulting from enactment of this section.
 
@@ -194,7 +198,7 @@ Management.—
 
 Access.—The Secretary shall allow the following:
 
-&emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM to protect subsistence uses of the Special Management Area.
+&emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM toprotect subsistence uses of the Special Management Area.
 
 &emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16 U.S.C. 3170(a)\] shall apply to the Special Management Area.
 

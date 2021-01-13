@@ -258,7 +258,7 @@ Nonmetropolitan areas.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in consultation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (m).
+In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in consultationwith affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (m).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -430,7 +430,7 @@ Designation of Regional Transportation Planning Organizations.—
 
 &emsp;(1)
 
-In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
+In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, andimplementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
 
 &emsp;(2)
 
@@ -469,6 +469,8 @@ Duties.—The duties of a regional transportation planning organization shall in
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
 (Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -544,13 +546,15 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted "sections 5303–5306 and
 
 Subsec. (a). Pub. L. 94–280 struck out "within the designated boundaries of urban areas of the State" and "in the urban areas" after "continuing program" and "flow of traffic", respectively.
 
-Subsec. (b). Pub. L. 94–280 substituted "any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems" for "any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system forimprovements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title".
+Subsec. (b). Pub. L. 94–280 substituted "any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems" for "any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title".
 
 Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annual report by the Secretary on projects approved under this section with recommendations for further improvement of traffic operations in accordance with this section.
 
 <b>1973</b>—Subsecs. (c), (d). Pub. L. 93–87 struck out subsec. (c) which provided for apportionment of sums authorized to carry out this section in accordance with section 104(b)(3) of this title, and redesignated subsec. (d) as (c).
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–605 inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title only in urban areas of more than fifty thousand population.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -658,7 +662,7 @@ Eligible Activities.—The Secretary shall use funds made available under this s
 
 &emsp;"(3) provide training and technical assistance with respect to the implementation and application of the advanced transportation model to States, local governments, and metropolitan planning organizations with responsibility for travel modeling; and
 
-&emsp;"(4) allocate funds to not more than 12 entities described in paragraph (3), representing a diversity ofpopulations and geographic regions, for a pilot program to enable transportation management areas designated under section 134(i) \[now 134(k)\] of title 23, United States Code, to convert from the use of travel forecasting procedures in use by the areas as of the date of enactment of this Act \[June 9, 1998\] to the use of the advanced transportation model.
+&emsp;"(4) allocate funds to not more than 12 entities described in paragraph (3), representing a diversity of populations and geographic regions, for a pilot program to enable transportation management areas designated under section 134(i) \[now 134(k)\] of title 23, United States Code, to convert from the use of travel forecasting procedures in use by the areas as of the date of enactment of this Act \[June 9, 1998\] to the use of the advanced transportation model.
 
 "(c)
 

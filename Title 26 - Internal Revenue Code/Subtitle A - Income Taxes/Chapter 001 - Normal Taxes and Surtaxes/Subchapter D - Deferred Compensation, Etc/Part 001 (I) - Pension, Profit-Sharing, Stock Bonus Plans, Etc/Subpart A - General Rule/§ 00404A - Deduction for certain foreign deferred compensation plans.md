@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in the case of—
 
-&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similarto those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
+&emsp;&emsp;&emsp;(i) a plan under which the benefits are fixed or determinable, limitations similar to those contained in clauses (ii) and (iii) of subparagraph (A) of section 404(a)(1) (determined without regard to the last sentence of such subparagraph (A)), or
 
 &emsp;&emsp;&emsp;(ii) any other plan, limitations similar to the limitations contained in paragraph (3) of section 404(a), and
 

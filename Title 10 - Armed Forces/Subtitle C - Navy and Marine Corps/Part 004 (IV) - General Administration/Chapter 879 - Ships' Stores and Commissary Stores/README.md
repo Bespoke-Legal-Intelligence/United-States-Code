@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [8801\.](%C2%A7%2008801%20-%20Sales%20members%20of%20the%20naval%20service%20and%20Coast%20Guard%3B%20widows%20and%20widowers%3B%20civilian%20employees%20and%20other%20persons.md) | Sales: members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons. |
-| [8802\.](%C2%A7%2008802%20-%20Sales%20members%20of%20Army%20and%20Air%20Force%3B%20prices.md) | Sales: members of Army and Air Force; prices. |
+| [8802\.](%C2%A7%2008802%20-%20Sales%20members%20of%20Army%2C%20Air%20Force%2C%20and%20Space%20Force%3B%20prices.md) | Sales: members of Army, Air Force, and Space Force; prices. |
 | [8803\.](%C2%A7%2008803%20-%20Sales%20veterans%20under%20treatment.md) | Sales: veterans under treatment. |
 | [8804\.](%C2%A7%2008804%20-%20Ships%27%20stores%20sale%20of%20goods%20and%20services.md) | Ships' stores: sale of goods and services. |
 | [8805\.](%C2%A7%2008805%20-%20Acceptance%20of%20Government%20checks%20outside%20the%20United%20States.md) | Acceptance of Government checks outside the United States. |
@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §924(d)(2)(C), Jan. 1, 2021, 134 Stat. 3826, added item 8802 and struck out former item 8802 "Sales: members of Army and Air Force; prices".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 651 of this title as this chapter and items 7601 to 7606 as 8801 to 8806, respectively.
 
@@ -27,7 +29,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 08801 - Sales members of the naval service and Coast Guard; widows and widowers; civilian employees and other persons](%C2%A7%2008801%20-%20Sales%20members%20of%20the%20naval%20service%20and%20Coast%20Guard%3B%20widows%20and%20widowers%3B%20civilian%20employees%20and%20other%20persons.md)
-- [&sect; 08802 - Sales members of Army and Air Force; prices](%C2%A7%2008802%20-%20Sales%20members%20of%20Army%20and%20Air%20Force%3B%20prices.md)
+- [&sect; 08802 - Sales members of Army, Air Force, and Space Force; prices](%C2%A7%2008802%20-%20Sales%20members%20of%20Army%2C%20Air%20Force%2C%20and%20Space%20Force%3B%20prices.md)
 - [&sect; 08803 - Sales veterans under treatment](%C2%A7%2008803%20-%20Sales%20veterans%20under%20treatment.md)
 - [&sect; 08804 - Ships' stores sale of goods and services](%C2%A7%2008804%20-%20Ships%27%20stores%20sale%20of%20goods%20and%20services.md)
 - [&sect; 08805 - Acceptance of Government checks outside the United States](%C2%A7%2008805%20-%20Acceptance%20of%20Government%20checks%20outside%20the%20United%20States.md)

@@ -24,6 +24,8 @@
 
 (Added Pub. L. 101–650, title III, §306(d)(1), Dec. 1, 1990, 104 Stat. 5110, §8440b; renumbered §8440c and amended Pub. L. 102–198, §7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, §9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(c)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(6), Dec. 21, 2004, 118 Stat. 3892.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 8440c was renumbered section 8440d of this title.
@@ -32,7 +34,7 @@ Another section 8440c was renumbered section 8440d of this title.
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–469 substituted "as" for "only during a period".
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such judge's basic pay for suchpay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(c)(1)\]\], inserted "of the distribution" after "equal to the amount".
 
@@ -59,6 +61,8 @@ Subsec. (b)(7). Pub. L. 102–198, §7(c)(1)(B)(ii), redesignated par. (8) as (7
 Subsec. (b)(8). Pub. L. 102–198, §7(c)(1)(B)(ii), (iii) added par. (8) and redesignated former par. (8) as (7).
 
 Subsec. (b)(9). Pub. L. 102–198, §7(c)(1)(B)(iii), added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

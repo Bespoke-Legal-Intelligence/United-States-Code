@@ -56,7 +56,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 &emsp;(C) where, after appropriate consultation with the department or agency concerned, the Federal Bureau of Investigation undertakes investigative activities to determine the source of the loss or compromise, the Federal Bureau of Investigation is given complete and timely access to the employees and records of the department or agency concerned for purposes of such investigative activities.
 
-(2) Except as provided in paragraph (5), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigationpertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels in a timely manner to the department or agency concerned, and that such departments or agencies are consulted in a timely manner with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
+(2) Except as provided in paragraph (5), the Director of the Federal Bureau of Investigation shall ensure that espionage information obtained by the Federal Bureau of Investigation pertaining to the personnel, operations, or information of departments or agencies of the executive branch, is provided through appropriate channels in a timely manner to the department or agency concerned, and that such departments or agencies are consulted in a timely manner with respect to espionage investigations undertaken by the Federal Bureau of Investigation which involve the personnel, operations, or information of such department or agency.
 
 (3)(A) The Director of the Federal Bureau of Investigation shall submit to the head of the department or agency concerned a written assessment of the potential impact of the actions of the department or agency on a counterintelligence investigation.
 
@@ -82,7 +82,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 #### References in Text
 
-The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of Pub. L. 107–306, Nov. 27, 2002, 116 Stat. 2432. For complete classification of this Act to the Code, see Tables.
+The Counterintelligence Enhancement Act of 2002, referred to in subsec. (d)(1)(B), is title IX of Pub. L.107–306, Nov. 27, 2002, 116 Stat. 2432. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

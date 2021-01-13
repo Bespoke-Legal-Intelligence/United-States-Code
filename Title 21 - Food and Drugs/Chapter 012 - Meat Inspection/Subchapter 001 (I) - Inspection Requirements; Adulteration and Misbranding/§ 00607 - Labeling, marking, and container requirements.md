@@ -10,7 +10,7 @@ All carcasses, parts of carcasses, meat and meat food products inspected at any 
 
 #### (c) Labeling: type styles and sizes; definitions and standards of identity or composition; standards of fill of container; consistency of Federal and Federal-State standards
 
-The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes of type to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marketing and labeling any articles or animals subject to this subchapter or subchapter II of this chapter; (2) definitions and standards of identity or composition for articles subject to this subchapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of these Acts. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 661 of this title, prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.
+The Secretary, whenever he determines such action is necessary for the protection of the public, may prescribe: (1) the styles and sizes oftype to be used with respect to material required to be incorporated in labeling to avoid false or misleading labeling in marketing and labeling any articles or animals subject to this subchapter or subchapter II of this chapter; (2) definitions and standards of identity or composition for articles subject to this subchapter and standards of fill of container for such articles not inconsistent with any such standards established under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], and there shall be consultation between the Secretary and the Secretary of Health and Human Services prior to the issuance of such standards under either Act relating to articles subject to this chapter to avoid inconsistency in such standards and possible impairment of the coordinated effective administration of these Acts. There shall also be consultation between the Secretary and an appropriate advisory committee provided for in section 661 of this title, prior to the issuance of such standards under this chapter, to avoid, insofar as feasible, inconsistency between Federal and State standards.
 
 #### (d) Sales under false or misleading name, other marking or labeling or in containers of misleading form or size; trade names, and other marking, labeling, and containers approved by Secretary
 
@@ -25,6 +25,8 @@ If the Secretary has reason to believe that any marking or labeling or the size 
 The Secretary, consistent with United States international obligations, shall establish standards for the labeling of sheep carcasses, parts of sheep carcasses, sheepmeat, and sheepmeat food products.
 
 (Mar. 4, 1907, ch. 2907, title I, §7, formerly 5th par., 34 Stat. 1262; renumbered §7 and amended Pub. L. 90–201, §§1, 3(a), 6, Dec. 15, 1967, 81 Stat. 584, 588; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 104–127, title II, §279, Apr. 4, 1996, 110 Stat. 979.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Section was formerly classified to section 75 of this title.
 <b>1967</b>—Subsec. (a). Pub. L. 90–201, §§3(a), 6(a), (b), struck out "interstate or foreign" before "commerce" and provisions prohibiting sales of meat or meat food products in interstate or foreign commerce under any false or deceptive names and permitting trade names or names which are usual to such products and are not false and deceptive and are approved by the Secretary of Agriculture, now incorporated in subsec. (d), and designated remaining provisions as subsecs. (a), respectively.
 
 Subsecs. (b) to (e). Pub. L. 90–201, §6(c), added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

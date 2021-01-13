@@ -66,5 +66,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub.L. 85–866, set out as a note under section 7502 of this title.
+Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
 

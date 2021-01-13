@@ -76,6 +76,8 @@ In subsection (a), before paragraph (1), the words "may not" are substituted for
 
 In subsection (b), the words "applies to" are substituted for "is intended to reach" for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–120, §314(e)(1), substituted "Prohibited acts" for "Manufacture, distribution, or possession of controlled substances on vessels" in section catchline.

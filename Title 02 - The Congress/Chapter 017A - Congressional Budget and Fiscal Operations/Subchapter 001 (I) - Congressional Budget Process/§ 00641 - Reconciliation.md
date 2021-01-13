@@ -28,7 +28,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
-&emsp;(2) more than one committee of the House or the Senate is directed to determine and recommend changes, each such committee so directed shall promptly make such determination and recommendations and submit such recommendations to the Committee on the Budget of its House, which, upon receiving all such recommendations, shall report to its House reconciliation legislation carrying out all such recommendations without any substantive revision.
+&emsp;(2) more than one committee of the House or the Senate is directed to determine and recommend changes, each such committee so directed shall promptly make such determination and recommendations and submit such recommendations to the Committee on the Budget of its House, which, upon receiving all such recommendations, shall report to its House reconciliation legislation carrying outall such recommendations without any substantive revision.
 
 > For purposes of this subsection, a reconciliation resolution is a concurrent resolution directing the Clerk of the House of Representatives or the Secretary of the Senate, as the case may be, to make specified changes in bills and resolutions which have not been enrolled.
 
@@ -50,7 +50,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes suchcommittee was directed to make under paragraphs (1) and (2) of such subsection.
+&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
 
 (2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
@@ -87,6 +87,8 @@ It shall not be in order in the House of Representatives to consider any resolut
 Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
 (Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685; Pub. L. 113–67, div. A, title I, §122(9), Dec. 26, 2013, 127 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (e). Pub. L. 99–177 amended subsec. (e) generally, substituting refere
 Subsec. (f). Pub. L. 99–177 amended subsec. (f) generally, inserting provision that Congress complete action on reconciliation bills or resolutions reported under subsec. (b) not later than June 15 of each year and revising provisions relating to adjournment periods of the House of Representatives with respect to completion of action on fiscal year reconciliation legislation.
 
 Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

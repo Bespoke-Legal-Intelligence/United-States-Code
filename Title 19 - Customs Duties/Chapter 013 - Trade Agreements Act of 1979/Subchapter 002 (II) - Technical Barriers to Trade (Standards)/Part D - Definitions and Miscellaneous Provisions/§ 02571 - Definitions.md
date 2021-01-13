@@ -36,7 +36,7 @@ As used in this subchapter—
 
 &emsp;The term "international standards organization" means any organization—
 
-&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private, of the United States and at least all Members; and
+&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private,of the United States and at least all Members; and
 
 &emsp;&emsp;(B) that is engaged in international standards-related activities.
 

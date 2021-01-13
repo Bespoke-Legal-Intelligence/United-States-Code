@@ -1,6 +1,6 @@
 ### §1101. Congressional declaration of policy and objectives
 
-(a) It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection of health and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
+(a) It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection ofhealth and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
 
 (b) The marine science activities of the United States should be conducted so as to contribute to the following objectives:
 
@@ -21,6 +21,12 @@
 &emsp;(8) The cooperation by the United States with other nations and groups of nations and international organizations in marine science activities when such cooperation is in the national interest.
 
 (Pub. L. 89–454, title I, §2, June 17, 1966, 80 Stat. 203.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–289, §1, Jan. 5, 2021, 134 Stat. 4886, provided that: "This Act \[enacting subchapter III of this chapter\] may be cited as the 'Young Fishermen's Development Act'."
 
 #### Short Title
 

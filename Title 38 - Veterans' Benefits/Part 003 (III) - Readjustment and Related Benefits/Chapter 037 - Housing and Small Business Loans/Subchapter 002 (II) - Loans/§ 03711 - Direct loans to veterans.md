@@ -6,7 +6,7 @@
 
 (c) No loan may be made under this section to a veteran unless the veteran shows to the satisfaction of the Secretary that—
 
-&emsp;(1) the veteran is unable to obtain from a private lender in such housing credit shortage area, at an interest rate not in excess of the rate authorized for guaranteed home loans or manufactured home loans, as appropriate, a loan for such purpose for which the veteran is qualified under section 3710 or 3712 of this title, as appropriate; and
+&emsp;(1) the veteran is unable to obtain from a private lender in such housing credit shortagearea, at an interest rate not in excess of the rate authorized for guaranteed home loans or manufactured home loans, as appropriate, a loan for such purpose for which the veteran is qualified under section 3710 or 3712 of this title, as appropriate; and
 
 &emsp;(2) the veteran is unable to obtain a loan for such purpose from the Secretary of Agriculture under title III of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.).
 
@@ -32,9 +32,11 @@
 
 (2) Whenever the Secretary finds that a dwelling with respect to which funds are being reserved under this subsection has been sold, or contracted to be sold, to a veteran eligible for a direct loan under this section, the Secretary shall enter into a commitment to make the veteran a loan for the purchase of such dwelling. With respect to any loan made to an eligible veteran under this subsection, the Secretary may make advances during the construction of the dwelling, up to a maximum in advances of (A) the cost of the land plus (B) 80 percent of the value of the construction in place.
 
-(k) Without regard to any other provision of this chapter, the Secretary may take or cause to be taken such action as in the Secretary's judgment may be necessary or appropriate for or in connection with the custody, management, protection, and realization or sale of investments under this section, may determine the Secretary's necessary expenses and expenditures, and the manner in which the same shall be incurred, allowed and paid, may make such rules, regulations, and orders as the Secretary may deem necessary or appropriate for carrying out the Secretary's functions under this section and, except as otherwise expressly provided in this chapter, may employ, utilize, compensate, and, to the extent not inconsistent with the Secretary's basic responsibilities under this chapter, delegate any of the Secretary's functions under this section to such persons and such corporate or other agencies, including agencies of the United States, as the Secretary may designate.
+(k) Without regard to any other provision of this chapter, the Secretary may take or cause to be taken such action as in the Secretary's judgment may be necessary or appropriate for or in connection with the custody, management, protection, and realization or sale of investments under this section, may determine the Secretary's necessary expenses and expenditures,and the manner in which the same shall be incurred, allowed and paid, may make such rules, regulations, and orders as the Secretary may deem necessary or appropriate for carrying out the Secretary's functions under this section and, except as otherwise expressly provided in this chapter, may employ, utilize, compensate, and, to the extent not inconsistent with the Secretary's basic responsibilities under this chapter, delegate any of the Secretary's functions under this section to such persons and such corporate or other agencies, including agencies of the United States, as the Secretary may designate.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1208, §1811; Pub. L. 86–665, §2, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §2, July 6, 1961, 75 Stat. 201; Pub. L. 88–402, Aug. 4, 1964, 78 Stat. 380; Pub. L. 89–358, §5(e), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §404, Aug. 31, 1967, 81 Stat. 190; Pub. L. 90–301, §1(b), May 7, 1968, 82 Stat. 113; Pub. L. 91–22, §3, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §4, Oct. 23, 1970, 84 Stat. 1109; Pub. L. 92–66, Aug. 5, 1971, 85 Stat. 173; Pub. L. 93–569, §4, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §§3, 7(12)–(15), June 30, 1976, 90 Stat. 720, 721; Pub. L. 95–476, title I, §105(b), Oct. 18, 1978, 92 Stat. 1499; Pub. L. 96–385, title IV, §§401(c)(2), 402(b), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, §4(65), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(c)(1), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 100–198, §3(c), Dec. 21, 1987, 101 Stat. 1316; Pub. L. 100–322, title IV, §415(c)(5), (d)(2) May 20, 1988, 102 Stat. 551, 552; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3711 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(e)(1)(B), Nov. 11, 1998, 112 Stat. 3346.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,13 +142,15 @@ Subsec. (d)(3). Pub. L. 90–77, §404(b), authorized an increase in aggregate a
 
 <b>1966</b>—Subsec. (d)(2), (3), Pub. L. 89–358 substituted "$17,500" for "$15,000" wherever appearing.
 
-<b>1964</b>—Subsec. (g). Pub. L. 88–402 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest, for provisions which permitted Administrator to sell loans only at a price not less than par.
+<b>1964</b>—Subsec. (g). Pub. L. 88–402 substituted provisions authorizing Administrator to sell loans at a price which he determines to be reasonable but not less than 98 per centum of unpaid principal balance, plus full amount of accrued interest, and if loans are offered to an investor in a package or block of two or more loans at not less than 98 per centum of aggregate unpaid principal balance of loans included in such package or block, plus full amount of accrued interest, for provisions which permitted Administrator to sell loans only at a price not less than par.
 
 <b>1961</b>—Subsec. (d)(2), (3). Pub. L. 87–84, §2(a), substituted "$15,000" for "$13,500" wherever appearing.
 
 Subsec. (h). Pub. L. 87–84, §2(b), substituted "to any veteran after the expiration of his entitlement pursuant to section 1803(a)(3) of this title except pursuant to a commitment issued by the Administrator before such entitlement expires" for "after July 25, 1962, except pursuant to commitments issued by the Administrator before that date."
 
 <b>1960</b>—Subsec. (h). Pub. L. 86–665 substituted "1962" for "1960".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -154,7 +154,7 @@
 
 #### (iii) Transparency
 
-&emsp;&emsp;&emsp;The Secretary shall publish annually the results of the reviews of initial eligibilitydeterminations by State, number, percentage, and type of error.
+&emsp;&emsp;&emsp;The Secretary shall publish annually the results of the reviews of initial eligibility determinations by State, number, percentage, and type of error.
 
 #### (c) Role of Secretary
 
@@ -192,7 +192,7 @@ There is authorized to be appropriated for purposes of carrying out the complian
 
 &emsp;&emsp;&emsp;The amount under clause (i) shall not exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal year for the first finding of 1 or more program violations under subparagraph (A);
+&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal yearfor the first finding of 1 or more program violations under subparagraph (A);
 
 &emsp;&emsp;&emsp;&emsp;(II) 5 percent of the amount of meal reimbursements earned for the fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
 
@@ -238,7 +238,7 @@ A prior section 1769c, act June 4, 1946, ch. 281, §22, as added Nov. 10, 1978, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
+<b>2010</b>—Subsec. (a). Pub. L. 111–296, §207(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There shall be a unified system prescribed and administered by the Secretary for ensuring that local food service authorities that participate in the school lunch program under this chapter comply with the provisions of this chapter. Such system shall be established through the publication of regulations and the provision of an opportunity for public comment, consistent with the provisions of section 553 of title 5."
 
 Subsec. (b)(1). Pub. L. 111–296, §207(2), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 

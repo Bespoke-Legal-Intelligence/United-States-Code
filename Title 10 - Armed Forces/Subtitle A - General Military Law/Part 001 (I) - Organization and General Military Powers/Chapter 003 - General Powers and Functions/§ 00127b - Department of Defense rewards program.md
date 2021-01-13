@@ -24,7 +24,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (3)(A) Subject to subparagraph (B), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
 
-(B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
+(B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A),which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
 (d)
 
@@ -106,7 +106,7 @@ Subsec. (c)(3)(C), (D). Pub. L. 114–92, §1042(a)(2), struck out subpars. (C) 
 
 &emsp;"(iii) assess the success of the reward in advancing the effort to combat terrorism."
 
-Subsec. (f)(2)(D) to (G). Pub. L. 114–92, §1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted ", including in which countries the program is being operated" before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: "Information on the implementation of paragraph (3) of subsection (c)."
+Subsec. (f)(2)(D) to (G). Pub. L. 114–92, §1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted ", including in which countries the program is being operated" before period at end of subpar. (D), andstruck out former subpar. (D) which read as follows: "Information on the implementation of paragraph (3) of subsection (c)."
 
 Subsec. (h). Pub. L. 114–92, §1042(c), added subsec. (h).
 

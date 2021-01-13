@@ -26,7 +26,7 @@
 
 (2) The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38.
 
-(e)(1) If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+(e)(1) If an officer who enters into an agreement under subsection (b) does not complete theperiod of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (2) If a member of the Ready Reserve who enters into an agreement under subsection (c) does not complete the period of service specified in the agreement, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
@@ -116,7 +116,7 @@ Subsec. (b)(2)(C). Pub. L. 110–181, §521(b)(2)(C), substituted "Secretary con
 
 Subsec. (c). Pub. L. 110–181, §521(c)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) to (3) which authorized Secretary of the Army, subject to certain limitations, to pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
 
-Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Subsection (c)(3) may not beconstrued to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
+Subsec. (d). Pub. L. 110–181, §521(c)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
 &emsp;"(1) a warrant officer on active duty or full-time National Guard duty;
 

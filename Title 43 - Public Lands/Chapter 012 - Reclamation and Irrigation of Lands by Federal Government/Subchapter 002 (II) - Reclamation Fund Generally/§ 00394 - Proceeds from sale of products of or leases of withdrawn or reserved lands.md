@@ -4,6 +4,8 @@ The proceeds heretofore or hereafter received from the lease of any lands reserv
 
 (July 19, 1919, ch. 24, 41 Stat. 202.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation law, referred to in text, is identified in act July 19, 1919, ch. 24, 41 Stat. 200, under the heading "

@@ -18,13 +18,17 @@ Historical and Revision Notes
 
 Sept. 12, 1950, ch. 946, §118, 64 Stat. 837; Aug. 1, 1956, ch. 814, §2(c), 70 Stat. 783.
 
-The words "As used . . . the term" are omitted as surplus. The words "means any executive department or independent establishment in the executive branch of the Government" are omitted because of section 102 of the revised title. The reference to 31:66d is unnecessary because the defined term is not used in the restatement of 31:66d in section 3514 of the revised title. The text of 31:65a(words after 4th comma) is omitted as unnecessary because of 39:410.
+The words "As used . . . the term" are omitted as surplus. The words "means any executive departmentor independent establishment in the executive branch of the Government" are omitted because of section 102 of the revised title. The reference to 31:66d is unnecessary because the defined term is not used in the restatement of 31:66d in section 3514 of the revised title. The text of 31:65a(words after 4th comma) is omitted as unnecessary because of 39:410.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–204 struck out "and subchapter VI of this title" after "section 3513".
 
 <b>2001</b>—Pub. L. 107–107 inserted "and subchapter VI" after "section 3513".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2002 Amendment
 

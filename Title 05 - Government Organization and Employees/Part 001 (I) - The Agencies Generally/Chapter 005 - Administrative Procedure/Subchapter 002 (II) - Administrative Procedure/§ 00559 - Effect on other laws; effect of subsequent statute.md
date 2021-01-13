@@ -24,6 +24,8 @@ The third sentence of former section 1011 is omitted as covered by technical sec
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "5372" for "5362" wherever appearing.
@@ -31,6 +33,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners" wherever appearing.
 
 <b>1968</b>—Pub. L. 90–623 inserted "of this title" after "7521" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

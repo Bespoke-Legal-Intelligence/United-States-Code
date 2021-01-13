@@ -70,9 +70,13 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486; Pub. L. 109–401, title I, §108, Dec. 18, 2006, 120 Stat. 2738.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(4)(C), (D). Pub. L. 109–401 added subpar. (C) and redesignated former subpar. (C) as (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

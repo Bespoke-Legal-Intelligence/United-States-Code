@@ -282,7 +282,7 @@ Funding.—Subject to project approval by the Secretary, a State may obligate fu
 
 &emsp;(2)
 
-Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
+Federal share.—The Federal share of the cost of activities carried out in accordancewith this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
 
 &emsp;(3)
 
@@ -370,7 +370,7 @@ In general.—The Secretary shall make grants under this section to establish an
 
 &emsp;(2)
 
-Goals.—The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
+Goals.—The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the workof State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
 
 &emsp;(3)
 
@@ -398,6 +398,8 @@ Strategic plan.—The Secretary shall require each center to develop a multiyear
 
 (Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, §1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, §9215(vvv), Dec. 10, 2015, 129 Stat. 2191.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), (C), is classified to section 7801 of Title 20, Education.
@@ -408,7 +410,7 @@ A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportationblock grant program" for "surface transportation program".
+<b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportation block grant program" for "surface transportation program".
 
 Subsec. (d)(4)(B), (C). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
@@ -446,6 +448,8 @@ Subsecs. (e), (f). Pub. L. 109–59, §5204(e), added subsecs. (e) and (f).
 
 Subsec. (g). Pub. L. 109–59, §5204(h)(1), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -462,7 +466,7 @@ Pub. L. 109–59, title V, §5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 "(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
+Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to inthis section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
 "(b)
 

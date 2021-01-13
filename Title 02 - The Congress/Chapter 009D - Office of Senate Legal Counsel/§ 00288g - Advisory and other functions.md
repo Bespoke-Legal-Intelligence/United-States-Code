@@ -12,7 +12,7 @@ The Counsel shall advise, consult, and cooperate with—
 
 &emsp;(4) any Member, officer, or employee of the Senate not represented under section 288c of this title with regard to obtaining private legal counsel for such Member, officer, or employee;
 
-&emsp;(5) the President pro tempore of the Senate, the Secretary of <sup>1</sup> Senate, the Sergeant-at-Arms of the Senate, and the Parliamentarian of the Senate, regarding any subpena, order, orrequest for withdrawal of papers presented to the Senate which raises a question of the privileges of the Senate; and
+&emsp;(5) the President pro tempore of the Senate, the Secretary of <sup>1</sup> Senate, the Sergeant-at-Arms of the Senate, and the Parliamentarian of the Senate, regarding any subpena, order, or request for withdrawal of papers presented to the Senate which raises a question of the privileges of the Senate; and
 
 &emsp;(6) any committee or subcommittee of the Senate in promulgating and revising their rules and procedures for the use of congressional investigative powers and with respect to questions which may arise in the course of any investigation.
 
@@ -26,6 +26,8 @@ The Counsel shall perform such other duties consistent with the purposes and lim
 
 (Pub. L. 95–521, title VII, §708, Oct. 26, 1978, 92 Stat. 1880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this title", meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
@@ -33,6 +35,8 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this 
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

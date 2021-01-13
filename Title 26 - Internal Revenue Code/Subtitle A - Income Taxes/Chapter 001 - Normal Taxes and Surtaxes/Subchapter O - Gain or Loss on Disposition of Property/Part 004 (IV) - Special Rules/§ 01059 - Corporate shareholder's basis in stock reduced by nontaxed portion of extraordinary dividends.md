@@ -320,7 +320,7 @@ Subsec. (e)(3)(A). Pub. L. 100–647, §1006(c)(6), amended subpar. (A) generall
 
 &emsp;"(ii) if clause (i) does not apply, and the taxpayer disposes of such stock before the taxpayer has held such stock for more than 5 years, only to the extent the actual rate of return exceeds the stated rate of return."
 
-Subsec. (e)(3)(B). Pub. L. 100–647, §1006(c)(8)(A), which directed the amendment of subpar. (B) "by striking out 'subparagraph (A)' and the material preceding clause (i)and inserting in lieu thereof 'this paragraph' ", was executed by striking out "subparagraph (A)" in the material preceding clause (i) and inserting in lieu thereof "this paragraph", to reflect the probable intent of Congress.
+Subsec. (e)(3)(B). Pub. L. 100–647, §1006(c)(8)(A), which directed the amendment of subpar. (B) "by striking out 'subparagraph (A)' and the material preceding clause (i) and inserting in lieu thereof 'this paragraph' ", was executed by striking out "subparagraph (A)" in the material preceding clause (i) and inserting in lieu thereof "this paragraph", to reflect the probable intent of Congress.
 
 Subsec. (e)(3)(B)(ii). Pub. L. 100–647, §1006(c)(8)(B), substituted "clause (i)(II)" for "subparagraph (B)(i)(II)".
 

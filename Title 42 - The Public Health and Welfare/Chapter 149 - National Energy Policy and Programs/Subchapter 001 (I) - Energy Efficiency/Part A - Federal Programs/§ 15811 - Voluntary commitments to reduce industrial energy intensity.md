@@ -10,7 +10,7 @@ The Secretary may enter into voluntary agreements with one or more persons in in
 
 #### (c) Goal
 
-Voluntary agreements under this section shall have as a goal the reduction of energy intensity by not less than 2.5 percent each year during the period of calendar years 2007 through 2016.
+Voluntary agreements under this section shall have as a goal the reduction of energy intensityby not less than 2.5 percent each year during the period of calendar years 2007 through 2016.
 
 #### (d) Recognition
 

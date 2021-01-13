@@ -1,8 +1,10 @@
 ### §2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders
 
-The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, and the proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
+The Committee on Rules and Administration of the United States Senate is authorized and directed hereafter to add a minimum of 10 per centum to each order in excess of 10 cents served in the Senate restaurants and 20 per centum to all orders served outside of said restaurants, andthe proceeds accruing therefrom shall be placed in a fund to be used in the payment of any deficit incurred in the management of such kitchens and restaurants.
 
 (May 18, 1937, ch. 223, §1, 50 Stat. 173; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ Section was formerly classified to section 121 of this title prior to editorial 
 #### Amendments
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee on Rules".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1946 Amendment
 

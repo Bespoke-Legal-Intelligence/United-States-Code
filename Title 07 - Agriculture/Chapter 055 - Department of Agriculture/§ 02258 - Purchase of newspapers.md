@@ -8,7 +8,7 @@ The Department of Agriculture is authorized to subscribe for such newspapers as 
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 573 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 573 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

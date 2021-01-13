@@ -208,6 +208,8 @@ In subsection (e)(3), the words "After October 1, 2001" are omitted as obsolete.
 
 In subsection (i), the first two sentences of section 203(b) of Public Law 105–277 are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note), referred to in subsec. (d)(2)(B)(i), probably should be a reference to the Magnuson-Stevens Fishery Conservation and Management Act (see note below). Introductory provisions and cl. (i) of subsec. (d)(2)(B) of this section were derived from former section 12102(c)(5)(B) of this title in the general amendment of this chapter by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. As part of that amendment, the reference to the American Fisheries Act was substituted for a reference to "such Act" which had been preceded by references to both of the above named Acts. See the Historical and Revision Notes above and section 2 of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
@@ -228,7 +230,7 @@ A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally 
 
 <b>2012</b>—Subsec. (d)(2)(B). Pub. L. 112–213, §307(1), substituted "Secretary that—" for "Secretary that", inserted cl. (i) designation before "the regional" and "and" after "authority;", and added cl. (ii).
 
-Subsec. (d)(2)(C). Pub. L. 112–213, §307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or".
+Subsec. (d)(2)(C). Pub. L. 112–213, §307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or".
 
 <b>2010</b>—Subsec. (d)(2)(A)(i). Pub. L. 111–281, §602(a)(1), inserted "and" at the end.
 
@@ -239,6 +241,8 @@ Subsec. (d)(2)(A)(iii). Pub. L. 111–281, §602(a)(3), struck out cl. (iii) whi
 Subsec. (d)(2)(C), (D). Pub. L. 111–281, §602(a)(4), (5), added subpars. (C) and (D).
 
 <b>2008</b>—Subsec. (g). Pub. L. 110–181 inserted "and" after "Conservation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Subsection (d) to Certain Menhaden Fisheries
 

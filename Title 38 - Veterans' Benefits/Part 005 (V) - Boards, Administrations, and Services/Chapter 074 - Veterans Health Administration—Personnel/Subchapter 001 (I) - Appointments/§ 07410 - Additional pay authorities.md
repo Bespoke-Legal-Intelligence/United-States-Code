@@ -30,6 +30,8 @@ Special Incentive Pay for Department Pharmacist Executives.—(1) In order to re
 
 (Added Pub. L. 102–40, title I, §103(a)\[(1)\], May 7, 1991, 105 Stat. 198; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 111–163, title VI, §601(e), May 5, 2010, 124 Stat. 1169.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

@@ -18,7 +18,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 &emsp;(B) the State provides assurances satisfactory to the Secretary that the State complied with the provisions of the plan under subparagraph (A) that was approved by the Secretary for the most recent fiscal year for which the State received a grant under section 300x–21 of this title; and
 
-&emsp;(7) the application (including the plan under paragraph (6)) is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this subpart.
+&emsp;(7) the application (including the plan under paragraph (6)) is otherwise in such form, is made in such manner, and contains such agreements, assurances, and information asthe Secretary determines to be necessary to carry out this subpart.
 
 #### (b) State plan
 
@@ -58,7 +58,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (B) State request for modification
 
-&emsp;&emsp;If the State determines that a modification to such plan is necessary, the State may request the Secretary to approve themodification. Any such modification shall be in accordance with paragraph (1) and section 300x–51 of this title.
+&emsp;&emsp;If the State determines that a modification to such plan is necessary, the State may request the Secretary to approve the modification. Any such modification shall be in accordance with paragraph (1) and section 300x–51 of this title.
 
 #### (3) Authority of Center for Substance Abuse Prevention
 

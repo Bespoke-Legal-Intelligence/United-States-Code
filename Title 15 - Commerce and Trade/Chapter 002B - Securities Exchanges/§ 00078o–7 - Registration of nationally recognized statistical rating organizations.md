@@ -122,7 +122,7 @@
 
 #### (1) Authority
 
-&emsp;The Commission shall have exclusive authority to enforce the provisions of this section in accordance with this chapter with respect to any nationally recognized statistical rating organization, if such nationally recognized statistical rating organization issuescredit ratings in material contravention of those procedures relating to such nationally recognized statistical rating organization, including procedures relating to the prevention of misuse of nonpublic information and conflicts of interest, that such nationally recognized statistical rating organization—
+&emsp;The Commission shall have exclusive authority to enforce the provisions of this section in accordance with this chapter with respect to any nationally recognized statistical rating organization, if such nationally recognized statistical rating organization issues credit ratings in material contravention of those procedures relating to such nationally recognized statistical rating organization, including procedures relating to the prevention of misuse of nonpublic information and conflicts of interest, that such nationally recognized statistical rating organization—
 
 &emsp;&emsp;(A) includes in its application for registration under subsection (a)(1)(B)(ii); or
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;(C) business relationships, ownership interests, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
 
-&emsp;&emsp;(D) any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person that underwrites the securitiesor money market instruments that are the subject of a credit rating; and
+&emsp;&emsp;(D) any affiliation of a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, with any person that underwrites the securities or money market instruments that are the subject of a credit rating; and
 
 &emsp;&emsp;(E) any other potential conflict of interest, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
@@ -502,7 +502,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
 
-&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare the performance of credit ratings across nationally recognized statistical rating organizations;
+&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare theperformance of credit ratings across nationally recognized statistical rating organizations;
 
 &emsp;&emsp;(B) are clear and informative for investors having a wide range of sophistication who use or might use credit ratings;
 
@@ -632,7 +632,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (B) Certification required
 
-&emsp;&emsp;In any case in which third-party due diligence services are employed by a nationallyrecognized statistical rating organization, an issuer, or an underwriter, the person providing the due diligence services shall provide to any nationally recognized statistical rating organization that produces a rating to which such services relate, written certification, as provided in subparagraph (C).
+&emsp;&emsp;In any case in which third-party due diligence services are employed by a nationally recognized statistical rating organization, an issuer, or an underwriter, the person providing the due diligence services shall provide to any nationally recognized statistical rating organization that produces a rating to which such services relate, written certification, as provided in subparagraph (C).
 
 #### (C) Format and content
 
@@ -702,7 +702,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (2) Rule of construction
 
-&emsp;Nothing in paragraph (1) may be construed to require a nationally recognized statisticalrating organization to verify the accuracy of the information described in paragraph (1).
+&emsp;Nothing in paragraph (1) may be construed to require a nationally recognized statistical rating organization to verify the accuracy of the information described in paragraph (1).
 
 #### (v) Information from sources other than the issuer
 
@@ -728,7 +728,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationallyrecognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 

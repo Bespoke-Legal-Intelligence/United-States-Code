@@ -34,9 +34,13 @@ In this chapter, the term "telemarketing or email marketing"—
 
 (Added Pub. L. 115–70, title IV, §402(a)(2), Oct. 18, 2017, 131 Stat. 1213.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2325, added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 107–56, title X, §1011(d), Oct. 26, 2001, 115 Stat. 396, related to definition of "telemarketing", prior to repeal by Pub. L. 115–70, title IV, §402(a)(2), Oct. 18, 2017, 131 Stat. 1213.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

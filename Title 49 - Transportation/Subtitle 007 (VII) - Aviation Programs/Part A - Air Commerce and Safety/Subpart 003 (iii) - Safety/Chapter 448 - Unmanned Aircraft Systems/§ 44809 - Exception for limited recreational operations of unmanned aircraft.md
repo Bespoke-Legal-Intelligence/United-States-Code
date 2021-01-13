@@ -70,7 +70,7 @@ Savings clause.—Nothing in this subsection shall be construed as expanding the
 
 (e)
 
-Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue an enforcement action against a person operating any unmanned aircraft who endangers the safety of the national airspace system.
+Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue an enforcementaction against a person operating any unmanned aircraft who endangers the safety of the national airspace system.
 
 (f)
 
@@ -94,7 +94,7 @@ In general.—Not later than 180 days after the date of enactment of this sectio
 
 &emsp;(2)
 
-Requirements.—The Administrator shall ensure the aeronautical knowledge and safetytest is designed to adequately demonstrate an operator's—
+Requirements.—The Administrator shall ensure the aeronautical knowledge and safety test is designed to adequately demonstrate an operator's—
 
 &emsp;&emsp;(A) understanding of aeronautical safety knowledge; and
 
@@ -132,13 +132,19 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1),
 
 Provisions similar to those in subsecs. (a) and (e) of this section were contained in section 336(a) and (b) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §349(b)(2), Oct. 5, 2018, 132 Stat. 3300. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
 
-#### Use of Unmanned Aircraft Systems at Institutions of Higher Education
+#### Use of Unmanned Aircraft Systems for Educational Purposes
 
-Pub. L. 115–254, div. B, title III, §350, Oct. 5, 2018, 132 Stat. 3300, provided that:
+Pub. L. 115–254, div. B, title III, §350, Oct. 5, 2018, 132 Stat. 3300, as amended by Pub. L. 116–283, div. H, title C, §10002, Jan. 1, 2021, 134 Stat. 4863, provided that:
 
 "(a)
 
-Educational and Research Purposes.—For the purposes of section 44809 of title 49, United States Code, as added by this Act, a 'recreational purpose' as distinguished in subsection (a)(1) of such section shall include an unmanned aircraft system operated by an institution of higher education for educational or research purposes.
+Educational and Research Purposes.—For the purposes of section 44809 of title 49, United States Code, as added by this Act, a 'recreational purpose' as distinguished in subsection (a)(1) of such section shall include an unmanned aircraft system—
+
+&emsp;"(1) operated by an institution of higher education for educational or research purposes;
+
+&emsp;"(2) flown as part of an established Junior Reserve Officers' Training Corps (JROTC) program for education or research purposes; or
+
+&emsp;"(3) flown as part of an educational program that is chartered by a recognized community-based organization (as defined in subsection (h) of such section).
 
 "(b)
 

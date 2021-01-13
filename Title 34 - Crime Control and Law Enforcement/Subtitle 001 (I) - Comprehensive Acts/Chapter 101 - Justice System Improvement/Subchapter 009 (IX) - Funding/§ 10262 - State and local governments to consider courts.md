@@ -10,9 +10,11 @@ The Attorney General may require, as appropriate, that whenever a State or unit 
 
 (Pub. L. 110–177, title III, §302(c), Jan. 7, 2008, 121 Stat. 2539.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Court Security Improvement Act of 2007, and not as part of title I of theOmnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Court Security Improvement Act of 2007, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
 Section was formerly classified to section 3702 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 

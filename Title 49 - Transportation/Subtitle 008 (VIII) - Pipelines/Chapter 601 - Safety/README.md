@@ -43,10 +43,14 @@
 | [60139\.](%C2%A7%2060139%20-%20Maximum%20allowable%20operating%20pressure.md) | Maximum allowable operating pressure. |
 | [60140\.](%C2%A7%2060140%20-%20Cover%20over%20buried%20pipelines.md) | Cover over buried pipelines. |
 | [60141\.](%C2%A7%2060141%20-%20Standards%20for%20underground%20natural%20gas%20storage%20facilities.md) | Standards for underground natural gas storage facilities. |
+| [60142\.](%C2%A7%2060142%20-%20Pipeline%20safety%20enhancement%20programs.md) | Pipeline safety enhancement programs. |
+| [60143\.](%C2%A7%2060143%20-%20Idled%20pipelines.md) | Idled pipelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. R, title I, §§104(b), 109(b), Dec. 27, 2020, 134 Stat. 2219, 2224, added items 60142 and 60143.
 
 <b>2016</b>—Pub. L. 114–183, §12(d)(1), June 22, 2016, 130 Stat. 524, added item 60141.
 
@@ -64,7 +68,7 @@ Memorandum of President of the United States, Mar. 22, 2012, 77 F.R. 18891, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-In an economy that relies on oil, rising prices at the pump affect all of us. With crude oil prices controlling about three-quarters of gasoline prices, the most important driver of the price here at home is the world oilprice—making our economy vulnerable to events halfway around the globe. There are no quick fixes to this problem. In the long run we need to reduce America's dependence on oil—which is why my Administration is implementing historic fuel economy standards for cars and trucks, launching new programs to improve energy efficiency in our buildings, and facilitating the safe and responsible development of our natural gas resources.
+In an economy that relies on oil, rising prices at the pump affect all of us. With crude oil prices controlling about three-quarters of gasoline prices, the most important driver of the price here at home is the world oil price—making our economy vulnerable to events halfway around the globe. There are no quick fixes to this problem. In the long run we need to reduce America's dependence on oil—which is why my Administration is implementing historic fuel economy standards for cars and trucks, launching new programs to improve energy efficiency in our buildings, and facilitating the safe and responsible development of our natural gas resources.
 
 But for the foreseeable future, we will continue to rely on oil to help fuel our transportation system. As a result, we must safely and responsibly develop our oil resources here at home, as part of an all-of-the-above energy strategy to grow our economy and make us more secure.
 
@@ -142,3 +146,5 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 60139 - Maximum allowable operating pressure](%C2%A7%2060139%20-%20Maximum%20allowable%20operating%20pressure.md)
 - [&sect; 60140 - Cover over buried pipelines](%C2%A7%2060140%20-%20Cover%20over%20buried%20pipelines.md)
 - [&sect; 60141 - Standards for underground natural gas storage facilities](%C2%A7%2060141%20-%20Standards%20for%20underground%20natural%20gas%20storage%20facilities.md)
+- [&sect; 60142 - Pipeline safety enhancement programs](%C2%A7%2060142%20-%20Pipeline%20safety%20enhancement%20programs.md)
+- [&sect; 60143 - Idled pipelines](%C2%A7%2060143%20-%20Idled%20pipelines.md)

@@ -28,6 +28,8 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title V, §503, Dec. 30, 2005, 119 Stat. 2929.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (2). Pub. L. 115–10 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "implement an exploration technology development program to enable lunar human and robotic operations consistent with section 20302(b) of this title, including surface power to use on the Moon and other locations;".

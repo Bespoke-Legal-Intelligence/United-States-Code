@@ -76,6 +76,8 @@ Wheelchair.—The term "wheelchair" means a mobility aid, usable indoors, and de
 
 (Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "104(b)(4)" for "104(b)(3)".
@@ -108,7 +110,7 @@ Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out h
 
 Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrianwalkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
+Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrian walkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
 
 Subsec. (d). Pub. L. 97–424 redesignated as subsec. (d) that portion of former subsec. (b) relating to bicycle projects. Former subsec. (d) redesignated (g).
 
@@ -123,6 +125,8 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 inserted provision relating to energy conservation and struck out requirement that such construction be in conjunction with Federal-aid highways.
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–280 substituted "$45,000,000" for "$40,000,000" and "$2,500,000" for "$2,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

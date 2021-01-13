@@ -18,6 +18,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, §311(12), Oct. 9, 1996, 110 Stat. 3336.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4325 was renumbered section 7625 of this title.
@@ -25,6 +27,8 @@ A prior section 4325 was renumbered section 7625 of this title.
 #### Amendments
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–275 struck out ", alternative employment in the Federal Government under this chapter," before "or information relating to the rights and obligations" and substituted "employees and" for "employee and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

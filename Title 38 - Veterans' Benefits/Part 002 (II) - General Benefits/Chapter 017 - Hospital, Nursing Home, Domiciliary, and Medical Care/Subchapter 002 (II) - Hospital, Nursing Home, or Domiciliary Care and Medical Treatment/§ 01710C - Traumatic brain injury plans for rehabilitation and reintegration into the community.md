@@ -124,6 +124,8 @@ Rehabilitative Services Defined.—For purposes of this section, and sections 17
 
 (Added Pub. L. 110–181, div. A, title XVII, §1702(a), Jan. 28, 2008, 122 Stat. 486; amended Pub. L. 112–154, title I, §107(a), (d), Aug. 6, 2012, 126 Stat. 1173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (g), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
@@ -141,6 +143,8 @@ Subsec. (b)(3). Pub. L. 112–154, §107(a)(2)(C), substituted "rehabilitative s
 Subsec. (c)(2)(S). Pub. L. 112–154, §107(d), substituted "ophthalmologist" for "opthamologist".
 
 Subsec. (h). Pub. L. 112–154, §107(a)(3), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Research, Education, and Clinical Care Program on Traumatic Brain Injury
 

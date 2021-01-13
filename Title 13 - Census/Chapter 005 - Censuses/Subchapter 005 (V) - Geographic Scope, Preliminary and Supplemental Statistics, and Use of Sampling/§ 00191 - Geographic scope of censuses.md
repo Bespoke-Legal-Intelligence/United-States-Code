@@ -2,11 +2,13 @@
 
 (a) Each of the censuses authorized by this chapter shall include each State, the District of Columbia, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Commonwealth of Puerto Rico, and as may be determined by the Secretary, such other possessions and areas over which the United States exercises jurisdiction, control, or sovereignty. Inclusion of other areas over which the United States exercises jurisdiction or control shall be subject to the concurrence of the Secretary of State.
 
-(b) For censuses taken in the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or any possession or area not specifically designated in subsection (a) of this section, the Secretary may use census information collected by the Governor or highest ranking Federal official, if such information was obtained in accordance with plans prescribed or approved by the Secretary.
+(b) For censuses taken in the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, or any possession or area not specifically designated in subsection (a) of this section, the Secretary may use census information collected by the Governor or highest rankingFederal official, if such information was obtained in accordance with plans prescribed or approved by the Secretary.
 
 (c) If, pursuant to a determination by the Secretary under subsection (a) of this section, any census is not taken in a possession or area over which the United States exercises jurisdiction, control, or sovereignty, the Secretary may include data obtained from other Federal agencies or government sources in the census report. Any data obtained from foreign governments shall be obtained through the Secretary of State.
 
 (Added Pub. L. 85–207, §14, Aug. 28, 1957, 71 Stat. 483; amended Pub. L. 94–521, §9, Oct. 17, 1976, 90 Stat. 2463.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -16,9 +18,13 @@ Subsec. (b). Pub. L. 94–521 inserted "the Commonwealth of the Northern Mariana
 
 Subsec. (c). Pub. L. 94–521 substituted "If, pursuant to a determination by the Secretary under subsection (a) of this section" for "When, under determination by the Secretary as provided in paragraph (a) above".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L. 94–521, set out as a note under section 1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

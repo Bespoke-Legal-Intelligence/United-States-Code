@@ -64,6 +64,8 @@ Historical and Revision Notes
 
 Pub. L. 108–7, div. K, title III, (last par. under heading "Administrative Provisions", at 117 Stat. 520), Feb. 20, 2003, 117 Stat. 520.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (c)(4). Pub. L. 113–6 added par. (4).

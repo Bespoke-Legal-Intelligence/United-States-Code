@@ -6,9 +6,11 @@
 
 (Aug. 7, 1947, ch. 513, §6, 61 Stat. 915; Pub. L. 97–94, §1, Dec. 17, 1981, 95 Stat. 1205; Pub. L. 102–486, title XXV, §2506(a), Oct. 24, 1992, 106 Stat. 3106; Pub. L. 103–66, title X, §10202(a), Aug. 10, 1993, 107 Stat. 408; Pub. L. 107–76, title VII, §751(e)(2), Nov. 28, 2001, 115 Stat. 739.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 Section 1721 of this title, referred to in subsec. (b), was in the original "section 111 of the Federal Oil and Gas Royalty Management Act of 1982", which enacted section 1721 of this title and amended section 191 of this title.
 
@@ -21,6 +23,8 @@ Section 1721 of this title, referred to in subsec. (b), was in the original "sec
 <b>1992</b>—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1981</b>—Pub. L. 97–94 inserted provision that all receipts derived from leases on lands acquired for military or naval purposes, except the naval petroleum reserves and national shale oil reserves, be paid into the Treasury of the United States and disposed of in the same manner as provided under section 35 of the Act of February 25, 1920, in the case of receipts from sales, bonuses, royalties, and rentals of the public lands under that Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

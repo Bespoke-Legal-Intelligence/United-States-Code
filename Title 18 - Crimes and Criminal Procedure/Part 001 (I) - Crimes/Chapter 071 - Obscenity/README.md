@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–21, title V, §504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.

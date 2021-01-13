@@ -20,7 +20,7 @@
 
 (2)(A) Nothing in this subsection shall apply to the lending of a computer program for nonprofit purposes by a nonprofit library, if each copy of a computer program which is lent by such library has affixed to the packaging containing the program a warning of copyright in accordance with requirements that the Register of Copyrights shall prescribe by regulation.
 
-(B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyrights considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to theCongress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function. Such report shall advise the Congress as to any information or recommendations that the Register of Copyrights considers necessary to carry out the purposes of this subsection.
+(B) Not later than three years after the date of the enactment of the Computer Software Rental Amendments Act of 1990, and at such times thereafter as the Register of Copyrights considers appropriate, the Register of Copyrights, after consultation with representatives of copyright owners and librarians, shall submit to the Congress a report stating whether this paragraph has achieved its intended purpose of maintaining the integrity of the copyright system while providing nonprofit libraries the capability to fulfill their function. Such report shall advise the Congress as to any information or recommendations that the Register of Copyrights considers necessary to carry out the purposes of this subsection.
 
 (3) Nothing in this subsection shall affect any provision of the antitrust laws. For purposes of the preceding sentence, "antitrust laws" has the meaning given that term in the first section of the Clayton Act and includes section 5 of the Federal Trade Commission Act to the extent that section relates to unfair methods of competition.
 
@@ -40,7 +40,7 @@
 
 <b>Effect on Further Disposition of Copy or Phonorecord.</b> Section 109(a) restates and confirms the principle that, where the copyright owner has transferred ownership of a particular copy or phonorecord of a work, the person to whom the copy or phonorecord is transferred is entitled to dispose of it by sale, rental, or any other means. Under this principle, which has been established by the court decisions and section 27 of the present law \[section 27 of former title 17\], the copyright owner's exclusive right of public distribution would have no effect upon anyone who owns "a particular copy or phonorecord lawfully made under this title" and who wishes to transfer it to someone else or to destroy it.
 
-Thus, for example, the outright sale of an authorized copy of a book frees it from any copyright control over its resale price or other conditions of its future disposition. A library that has acquired ownership of a copy is entitled to lend it under any conditions it chooses to impose. This does not mean that conditions on future disposition of copies or phonorecords, imposed by a contract between their buyer and seller, would be unenforceable between the parties as a breach of contract, but it does mean that they could not be enforced by an action for infringement of copyright. Under section 202 however, the owner of the physical copy or phonorecord cannot reproduce or perform the copyrighted work publicly without the copyright owner's consent.
+Thus, for example, the outright sale of an authorized copy of a book frees it from any copyright control over its resale price or other conditions of its future disposition. A library that has acquired ownership of a copy is entitled to lend it under any conditions it chooses to impose. This does not mean that conditions on future disposition of copies or phonorecords, imposed by acontract between their buyer and seller, would be unenforceable between the parties as a breach of contract, but it does mean that they could not be enforced by an action for infringement of copyright. Under section 202 however, the owner of the physical copy or phonorecord cannot reproduce or perform the copyrighted work publicly without the copyright owner's consent.
 
 To come within the scope of section 109(a), a copy or phonorecord must have been "lawfully made under this title," though not necessarily with the copyright owner's authorization. For example, any resale of an illegally "pirated" phonorecord would be an infringement, but the disposition of a phonorecord legally made under the compulsory licensing provisions of section 115 would not.
 
@@ -52,7 +52,7 @@ The exclusive right of public display granted by section 106(5) would not apply 
 
 On the other hand, section 109(b) takes account of the potentialities of the new communications media, notably television, cable and optical transmission devices, and information storage and retrieval devices, for replacing printed copies with visual images. First of all, the public display of an image of a copyrighted work would not be exempted from copyright control if the copy from which the image was derived were outside the presence of the viewers. In other words, the display of a visual image of a copyrighted work would be an infringement if the image were transmitted by any method (by closed or open circuit television, for example, or by a computer system) from one place to members of the public located elsewhere.
 
-Moreover, the exemption would extend only to public displays that are made "either directly or by the projection of no more than one image at a time." Thus, even where the copy and the viewers are located at the same place, the simultaneous projection of multiple images of the work would not be exempted. For example, where each person in a lecture hall is supplied with a separate viewing apparatus, the copyright owner'spermission would generally be required in order to project an image of a work on each individual screen at the same time.
+Moreover, the exemption would extend only to public displays that are made "either directly or by the projection of no more than one image at a time." Thus, even where the copy and the viewers are located at the same place, the simultaneous projection of multiple images of the work would not be exempted. For example, where each person in a lecture hall is supplied with a separate viewing apparatus, the copyright owner's permission would generally be required in order to project an image of a work on each individual screen at the same time.
 
 The committee's intention is to preserve the traditional privilege of the owner of a copy to display it directly, but to place reasonable restrictions on the ability to display it indirectly in such a way that the copyright owner's market for reproduction and distribution of copies would be affected. Unless it constitutes a fair use under section 107, or unless one of the special provisions of section 110 or 111 is applicable, projection of more than one image at a time, or transmission of an image to the public over television or other communication channels, would be an infringement for the same reasons that reproduction in copies would be. The concept of "the place where the copy is located" is generally intended to refer to a situation in which the viewers are present in the same physical surroundings as the copy, even though they cannot see the copy directly.
 
@@ -67,6 +67,8 @@ The date of the enactment of the Computer Software Rental Amendments Act of 1990
 The first section of the Clayton Act, referred to in subsec. (b)(3), is classified to section 12 of Title 15, Commerce and Trade, and section 53 of Title 29, Labor. The term "antitrust laws" is defined in section 12 of Title 15.
 
 Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is classified to section 45 of Title 15.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -96,6 +98,8 @@ Subsec. (e). Pub. L. 101–650, §803, added subsec. (e).
 
 <b>1984</b>—Subsecs. (b) to (d). Pub. L. 98–450 added subsec. (b) and redesignated existing subsecs. (b) and (c) as (c) and (d), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–650, title VIII, §804, Dec. 1, 1990, 104 Stat. 5136, as amended by Pub. L. 103–465, title V, §511, Dec. 8, 1994, 108 Stat. 4974, provided that:
@@ -120,7 +124,7 @@ Pub. L. 98–450, §4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100–
 
 "(b) The provisions of section 109(b) of title 17, United States Code, as added by section 2 of this Act, shall not affect the right of an owner of a particular phonorecord of a sound recording, who acquired such ownership before the date of the enactment of this Act \[Oct. 4, 1984\], to dispose of the possession of that particular phonorecord on or after such date of enactment in any manner permitted by section 109 of title 17, United States Code, as in effect on the day before the date of the enactment of this Act."
 
-\[Amendment by Pub. L. 103–182 to section 4 of Pub. L. 98–450, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 335 of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.\]
+\[Amendment by Pub. L. 103–182 to section 4 of Pub. L. 98–450, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 335 of Pub. L. 103–182, formerly set out as an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.\]
 
 #### Evaluation of Impact of Copyright Law and Amendments on Electronic Commerce and Technological Development
 

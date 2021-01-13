@@ -76,7 +76,7 @@ Grants awarded under subsection (a) may be used for—
 
 &emsp;&emsp;&emsp;(vii) job placement;
 
-&emsp;&emsp;(D) centralized case management involving the consolidation of all of each child humantrafficking victim's cases and offenses, and the coordination of all trafficking victim treatment programs and social services;
+&emsp;&emsp;(D) centralized case management involving the consolidation of all of each child human trafficking victim's cases and offenses, and the coordination of all trafficking victim treatment programs and social services;
 
 &emsp;&emsp;(E) regular and mandatory court appearances by the victim during the duration of the treatment program for purposes of ensuring compliance and effectiveness;
 
@@ -207,6 +207,8 @@ In this section—
 No grant funds under this section may be awarded or transferred to any entity unless such entity has demonstrated substantial experience providing services to victims of human trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of human trafficking victims.
 
 (Pub. L. 109–164, title II, §203, Jan. 10, 2006, 119 Stat. 3570; Pub. L. 110–457, title III, §302(4), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 114–22, title I, §103(a), May 29, 2015, 129 Stat. 231.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

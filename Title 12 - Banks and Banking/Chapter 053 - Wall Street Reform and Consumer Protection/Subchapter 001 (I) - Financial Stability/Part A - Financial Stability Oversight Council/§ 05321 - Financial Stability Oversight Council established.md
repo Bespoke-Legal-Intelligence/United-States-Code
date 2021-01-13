@@ -30,7 +30,7 @@ The Council shall consist of the following members:
 
 &emsp;&emsp;(I) the Chairman of the National Credit Union Administration Board; and
 
-&emsp;&emsp;(J) an independent member appointed by the President, by and with the advice and consent of the Senate, having insurance expertise.
+&emsp;&emsp;(J) an independent member appointed by the President, by and with the advice andconsent of the Senate, having insurance expertise.
 
 #### (2) Nonvoting members
 
@@ -112,9 +112,11 @@ Any employee of the Federal Government may be detailed to the Council without re
 
 (Pub. L. 111–203, title I, §111, July 21, 2010, 124 Stat. 1392; Pub. L. 115–61, §2, Sept. 27, 2017, 131 Stat. 1158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

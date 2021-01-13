@@ -36,6 +36,8 @@
 
 (Added Pub. L. 103–62, §7, Aug. 3, 1993, 107 Stat. 293; amended Pub. L. 109–435, title X, §1010(d)(2), Dec. 20, 2006, 120 Stat. 3261.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted "section 2401(e)" for "section 2401(g)" in introductory provisions.

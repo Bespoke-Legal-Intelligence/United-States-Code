@@ -36,6 +36,8 @@ For purposes of this chapter:
 
 (Pub. L. 106–559, §4, Dec. 21, 2000, 114 Stat. 2779; Pub. L. 111–211, title II, §214(a)(1), July 29, 2010, 124 Stat. 2270.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pars. (2) to (8). Pub. L. 111–211 added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.

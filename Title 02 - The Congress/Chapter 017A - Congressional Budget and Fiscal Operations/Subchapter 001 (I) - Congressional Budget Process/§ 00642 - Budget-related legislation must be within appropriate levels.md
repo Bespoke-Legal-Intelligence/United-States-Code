@@ -50,6 +50,8 @@ Subsection (a)(1) shall not apply in the House of Representatives to any bill, j
 
 (Pub. L. 93–344, title III, §311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1055; Pub. L. 100–119, title I, §106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626; Pub. L. 105–33, title X, §10112(a), Aug. 5, 1997, 111 Stat. 686.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified generally to Title 26, Internal Revenue Code.
@@ -62,7 +64,7 @@ Section was formerly classified to section 1332 of Title 31 prior to the general
 
 <b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated formerpars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
 Pub. L. 101–508, §13207(a)(1)(E), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or amendment" and struck out "or any conference report on any such bill or resolution" after "reducing revenues for such fiscal year,".
 
@@ -88,11 +90,13 @@ Subsec. (b). Pub. L. 99–177 amended subsec. (b) generally, substituting provis
 
 Subsec. (c). Pub. L. 99–177, in amending section generally, added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by section 13303(d) of Pub. L. 101–508 applicable with respect to fiscal years beginning on or after Oct. 1, 1990, see section 13306 of Pub. L. 101–508, set out as a note under section 632 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

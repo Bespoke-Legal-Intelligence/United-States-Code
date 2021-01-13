@@ -1,8 +1,10 @@
 ### §1451. Congressional declaration of policy
 
-It is hereby declared to be the policy of Congress to provide capital on a reimbursable basis to help develop and utilize Indian resources, both physical and human, to a point where the Indians will fully exercise responsibility for the utilization and management of their own resources and where they will enjoy a standard of living from their own productive efforts comparable to that enjoyed by non-Indians in neighboring communities.
+It is hereby declared to be the policy of Congress to provide capital on a reimbursable basisto help develop and utilize Indian resources, both physical and human, to a point where the Indians will fully exercise responsibility for the utilization and management of their own resources and where they will enjoy a standard of living from their own productive efforts comparable to that enjoyed by non-Indians in neighboring communities.
 
 (Pub. L. 93–262, §2, Apr. 12, 1974, 88 Stat. 77.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 

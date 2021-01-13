@@ -20,6 +20,8 @@ Rules 18–22 of the Federal Rules of Criminal Procedure are in accord with this
 
 The last paragraph of the revised section was added to meet the situation created by the decision of the Supreme Court of the United States in <i>United States v. Johnson</i>, 1944, 65 S. Ct. 249, 89 L. Ed. 236, which turned on the absence of a special venue provision in the Dentures Act, section 1821 of this revision. The revised section removes all doubt as to the venue of continuing offenses and makes unnecessary special venue provisions except in cases where Congress desires to restrict the prosecution of offenses to particular districts as in section 1073 of this revision.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7203 of the Internal Revenue Code of 1986, referred to in subsec. (b), is classified to section 7203 of Title 26, Internal Revenue Code.
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 98–369 substituted "venue for prosecution of an offense" 
 <b>1966</b>—Subsec. (b). Pub. L. 89–713 inserted reference to offenses described in section 7203 of the Internal Revenue Code of 1954.
 
 <b>1958</b>—Pub. L. 85–595 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

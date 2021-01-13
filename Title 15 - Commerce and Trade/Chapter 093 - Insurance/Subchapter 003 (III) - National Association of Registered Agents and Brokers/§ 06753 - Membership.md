@@ -36,7 +36,7 @@
 
 #### (ii) Procedures
 
-&emsp;&emsp;&emsp;The board of directors of the Association (referred to in this subchapter as the "Board") shall prescribe procedures for obtaining and utilizing fingerprints or other identification information and criminal history record information, including the establishment of reasonable fees to defray the expenses of the Association in connection with the performance of a criminal history record check and appropriate safeguards for maintaining confidentiality and security of the information. Any fees charged pursuant to this clause shall be separate and distinct from those charged by the Attorney General pursuant to subparagraph (I).
+&emsp;&emsp;&emsp;The board of directors of the Association (referred to in this subchapter as the "Board") shall prescribe procedures for obtaining and utilizing fingerprints or other identification information and criminal history record information, including the establishment of reasonable fees to defray the expenses of the Association in connection with the performance of a criminal history record check and appropriate safeguards for maintaining confidentiality andsecurity of the information. Any fees charged pursuant to this clause shall be separate and distinct from those charged by the Attorney General pursuant to subparagraph (I).
 
 #### (D) Form of request
 

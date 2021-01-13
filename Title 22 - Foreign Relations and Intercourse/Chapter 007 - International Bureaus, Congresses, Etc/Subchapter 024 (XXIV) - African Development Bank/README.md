@@ -17,3 +17,4 @@
 - [&sect; 00290i&#8211;9 - Securities issued by Bank; Securities and Exchange Commission oversight](%C2%A7%2000290i%E2%80%939%20-%20Securities%20issued%20by%20Bank%3B%20Securities%20and%20Exchange%20Commission%20oversight.md)
 - [&sect; 00290i&#8211;10 - Authorization of United States subscription to stock; authorization of appropriations](%C2%A7%2000290i%E2%80%9310%20-%20Authorization%20of%20United%20States%20subscription%20to%20stock%3B%20authorization%20of%20appropriations.md)
 - [&sect; 00290i&#8211;11 - Sixth capital increase](%C2%A7%2000290i%E2%80%9311%20-%20Sixth%20capital%20increase.md)
+- [&sect; 00290i&#8211;12 - Seventh capital increase](%C2%A7%2000290i%E2%80%9312%20-%20Seventh%20capital%20increase.md)

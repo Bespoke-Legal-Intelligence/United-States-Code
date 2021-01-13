@@ -12,7 +12,7 @@ Of the sums made available to an eligible institution under this subpart for a f
 
 #### (2) Use of carried-back funds
 
-&emsp;An eligible institution may make grants to students after the end of the academic year,but prior to the beginning of the succeeding fiscal year, from such succeeding fiscal year's appropriations.
+&emsp;An eligible institution may make grants to students after the end of the academic year, but prior to the beginning of the succeeding fiscal year, from such succeeding fiscal year's appropriations.
 
 (Pub. L. 89–329, title IV, §413E, as added Pub. L. 105–244, title IV, §406(d), Oct. 7, 1998, 112 Stat. 1665.)
 

@@ -2,7 +2,7 @@
 
 (a)(1) The Director shall—
 
-&emsp;(A) keep the Congress and congressional committees fully and currently informed ofthe major activities under this subchapter; and
+&emsp;(A) keep the Congress and congressional committees fully and currently informed of the major activities under this subchapter; and
 
 &emsp;(B) submit a report on such activities to the President of the Senate and the Speaker of the House of Representatives annually and at such other times as the Director determines necessary.
 
@@ -28,6 +28,8 @@
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 181; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3514, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2823, and Pub. L. 99–500, §101(m) \[title VIII, §819\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–339, and Pub. L. 99–591, §101(m) \[title VIII, §819\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–339, related to requirement that Director keep Congress fully informed prior to the general amendment of this chapter by Pub. L. 104–13.
@@ -35,6 +37,8 @@ A prior section 3514, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(1)(A), (2)(A)(ii). Pub. L. 106–398 substituted "subchapter" for "chapter" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

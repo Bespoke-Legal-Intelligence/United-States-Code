@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, "agency" has the meaning given it by section 5721 of this title.
 
-(b) In addition to the authority to delegate conferred by other law, the head of an agencymay delegate to subordinate officials the authority vested in him—
+(b) In addition to the authority to delegate conferred by other law, the head of an agency may delegate to subordinate officials the authority vested in him—
 
 &emsp;(1) by law to take final action on matters pertaining to the employment, direction, and general administration of personnel under his agency; and
 
@@ -31,6 +31,8 @@ The word "agency" is substituted for "department" and defined to conform to the 
 In subsection (b), the words "In addition to the authority to delegate conferred by other law," are added for clarity and in recognition of the various reorganization plans which generally have transferred all functions of the departments and agencies to the heads thereof and have authorized them to delegate the functions to subordinates.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

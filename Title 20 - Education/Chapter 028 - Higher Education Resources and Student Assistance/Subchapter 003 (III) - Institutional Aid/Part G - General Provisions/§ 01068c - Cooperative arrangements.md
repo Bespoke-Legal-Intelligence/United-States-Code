@@ -16,7 +16,7 @@ The Secretary shall give priority to grants for the purposes described under sub
 
 #### (c) Duration
 
-Grants to institutions having a cooperative arrangement may be made under this section for a period as determined under section 1059 of this title or section 1062 of this title.
+Grants to institutions having a cooperative arrangement may be made under this section for aperiod as determined under section 1059 of this title or section 1062 of this title.
 
 (Pub. L. 89–329, title III, §394, formerly §354, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305; renumbered §394, Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636.)
 

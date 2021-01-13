@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Legal Assistance and Victim Advocate Services.—(1) A member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
+Availability of Legal Assistance and Victim Advocate Services.—(1) A member ofthe armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
 
 &emsp;(A) Legal assistance provided by military or civilian legal assistance counsel pursuant to sections 1044 and 1044e of this title.
 
@@ -55,6 +55,76 @@ Subsec. (b)(3). Pub. L. 114–92, §536(a), added par. (3).
 Subsec. (c). Pub. L. 114–92, §536(c), added subsec. (c).
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–66 substituted "sections 1044 and 1044e" for "section 1044".
+
+#### Coordination of Support for Survivors of Sexual Trauma
+
+Pub. L. 116–283, div. A, title V, §538, Jan. 1, 2021, 134 Stat. 3605, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretaries of Defense and Veterans Affairs shall jointly develop, implement, and maintain a standard of coordinated care for members of the Armed Forces who are survivors of sexual trauma. Such standard shall include the following:
+
+"(b)
+
+Minimum Elements.—The standard developed and implemented under subsection (a) by the Secretaries of Defense and Veterans Affairs shall include the following:
+
+&emsp;"(1)
+
+Information for members of the armed forces.—The Secretary of Defense shall ensure that—
+
+&emsp;&emsp;"(A) Sexual Assault Response Coordinators and Uniformed Victim Advocates receive annual training on resources of the Department of Veterans Affairs regarding sexual trauma;
+
+&emsp;&emsp;"(B) information regarding services furnished by the Secretary of Veterans Affairs to survivors of sexual trauma is provided to each such survivor; and
+
+&emsp;&emsp;"(C) information described in subparagraph (B) is posted in the following areas in each facility of the Department of Defense:
+
+&emsp;&emsp;&emsp;"(i) An office of the Family Advocacy Program.
+
+&emsp;&emsp;&emsp;"(ii) An office of a mental health care provider.
+
+&emsp;&emsp;&emsp;"(iii) Each area in which sexual assault prevention staff normally post notices or information.
+
+&emsp;&emsp;&emsp;"(iv) High-traffic areas (including dining facilities).
+
+&emsp;"(2)
+
+Coordination between staff of the departments.—The Secretaries shall ensure that a Sexual Assault Response Coordinator or Uniformed Victim Advocate of the Department of Defense who receives a report of an instance of sexual trauma connects the survivor to the Military Sexual Trauma Coordinator of the Department of Veterans Affairs at the facility of that Department nearest to the residence of that survivor if that survivor is a member separating or retiring from the Armed Forces.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Report on residential treatment.—Not later than 180 days after the date of the enactment of this Act, the Secretaries of Defense and Veterans Affairsshall provide a report to the appropriate committees of Congress regarding the availability of residential treatment programs for survivors of sexual trauma, including—
+
+&emsp;&emsp;"(A) barriers to access for such programs; and
+
+&emsp;&emsp;"(B) resources required to reduce such barriers.
+
+&emsp;"(2)
+
+Initial report.—Upon implementation of the standard under subsection (a), the Secretaries of Defense and Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the standard.
+
+&emsp;"(3)
+
+Progress reports.—Not later than 180 days after submitting the initial report under paragraph (2), and on December 1 of each subsequent year, the Secretaries of Defense and Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the progress of the Secretaries in implementing and improving the standard.
+
+&emsp;"(4)
+
+Updates.—Whenever the Secretaries of Defense and Veterans Affairs update the standard developed under subsection (a), the Secretaries shall jointly submit to the appropriate committees of Congress a report on such update, including a comprehensive and detailed description of such update and the reasons for such update.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'sexual trauma' means a condition described in section 1720D(a)(1) of title 38, United States Code.
+
+&emsp;"(2) The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committees on Veterans' Affairs of the House of Representatives and the Senate; and
+
+&emsp;&emsp;"(B) the Committees on Armed Services of the House of Representatives and the Senate."
 
 #### Information for Members of the Armed Forces on Availability of Services of the Department of Veterans Affairs Relating to Sexual Trauma
 

@@ -1,0 +1,68 @@
+### §2350p. Reciprocal patient movement agreements
+
+(a)
+
+Authority.—Subject to the availability of appropriations, the Secretary of Defense, with the concurrence of the Secretary of State, may enter into a bilateral or multilateral memorandum of understanding or other formal agreement with one or more governments of partner countries that provides for—
+
+&emsp;(1) the interchangeable, nonreimbursable use of patient movement personnel, either individually or as members of a patient movement crew or team, and equipment, belonging to one partner country to perform patient movement services aboard the aircraft, vessels, or vehicles of another partner country;
+
+&emsp;(2) the reciprocal recognition and acceptance of —
+
+&emsp;&emsp;(A) national professional credentials, certifications, and licenses of patient movement personnel; and
+
+&emsp;&emsp;(B) national certifications, approvals, and licenses of equipment used in the provision of patient movement services; and
+
+&emsp;(3) the acceptance of agreed-upon standards for the provision of patient movement services by aircraft, vessel, or vehicle, including, as determined to be beneficial and otherwise permitted by law, the harmonization of patient treatment standards and procedures.
+
+(b)
+
+Certification.—(1) Before entering into a memorandum of understanding or other formal agreement with the government of a partner country under this section, the Secretary of Defense shall certify in writing that the professional credentials, certifications, licenses, and approvals for patient movement personnel and patient movement equipment of the partner country—
+
+&emsp;(A) meet or exceed the equivalent standards of the United States for similar personnel and equipment; and
+
+&emsp;(B) will provide for a level of care comparable to, or better than, the level of care provided by the Department of Defense.
+
+(2) A certification under paragraph (1) shall be—
+
+&emsp;(A) submitted to the appropriate committees of Congress not later than 15 days after the date on which the Secretary of Defense makes the certification; and
+
+&emsp;(B) reviewed and recertified by the Secretary of Defense not less frequently than annually.
+
+(c)
+
+Suspension.—If the Secretary of Defense is unable to recertify a partner country as required by subsection (b)(2)(B), use of the personnel or equipment of the partner country by the Department of Defense under a memorandum of understanding or other formal agreement concluded pursuant to subsection (a) shall be suspended until the date on which the Secretary of Defense is able to recertify the partner country.
+
+(d)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Appropriate committees of congress.—The term "appropriate committees of Congress" means—
+
+&emsp;&emsp;(A) the congressional defense committees; and
+
+&emsp;&emsp;(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;(2)
+
+Partner country.—The term "partner country" means any of the following:
+
+&emsp;&emsp;(A) A member country of the North Atlantic Treaty Organization.
+
+&emsp;&emsp;(B) Australia.
+
+&emsp;&emsp;(C) Japan.
+
+&emsp;&emsp;(D) New Zealand.
+
+&emsp;&emsp;(E) The Republic of Korea.
+
+&emsp;&emsp;(F) Any other country designated as a partner country by the Secretary of Defense, with the concurrence of the Secretary of State, for purposes of this section.
+
+&emsp;(3)
+
+Patient movement.—The term "patient movement" means the act or process of moving wounded, ill, injured, or other persons (including contaminated, contagious, and potentially exposed patients) to obtain medical, surgical, mental health, or dental care or treatment.
+
+(Added Pub. L. 116–283, div. A, title XII, §1204(a), Jan. 1, 2021, 134 Stat. 3911.)
+

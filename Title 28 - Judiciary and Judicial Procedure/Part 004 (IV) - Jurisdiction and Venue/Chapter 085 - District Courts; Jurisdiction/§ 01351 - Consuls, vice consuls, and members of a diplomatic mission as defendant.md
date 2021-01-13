@@ -16,6 +16,8 @@ Words "civil action" were substituted for "suits," and "all suits and proceeding
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classified to section 254a of Title 22, Foreign Relations and Intercourse.
@@ -25,6 +27,8 @@ Section 2 of the Diplomatic Relations Act, referred to in par. (2), is classifie
 <b>1978</b>—Pub. L. 95–393 substituted "Consuls, vice consuls, and members of a diplomatic mission as defendant" for "Consuls and vice consuls as defendants" in section catchline, designated existing provisions as introductory provision preceding par. (1), and in such introductory provision as so designated, substituted "civil actions and proceedings against—" for "actions and proceedings against consuls or vice consuls of foreign states", and added pars. (1) and (2).
 
 <b>1949</b>—Act May 24, 1949, substituted "of all actions and proceedings" for "of any civil action".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

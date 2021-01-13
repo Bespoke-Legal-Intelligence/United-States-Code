@@ -4,13 +4,15 @@ Any action commenced on or after May 14, 1947, to enforce any cause of action fo
 
 &emsp;(a) if the cause of action accrues on or after May 14, 1947—may be commenced within two years after the cause of action accrued, and every such action shall be forever barred unless commenced within two years after the cause of action accrued, except that a cause of action arising out of a willful violation may be commenced within three years after the cause of action accrued;
 
-&emsp;(b) if the cause of action accrued prior to May 14, 1947—may be commenced within whichever of the following periods is the shorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c), every such action shall be forever barred unless commenced within the shorter of such two periods;
+&emsp;(b) if the cause of action accrued prior to May 14, 1947—may be commenced within whichever of the following periods is theshorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c), every such action shall be forever barred unless commenced within the shorter of such two periods;
 
 &emsp;(c) if the cause of action accrued prior to May 14, 1947, the action shall not be barred by paragraph (b) if it is commenced within one hundred and twenty days after May 14, 1947 unless at the time commenced it is barred by an applicable State statute of limitations;
 
 &emsp;(d) with respect to any cause of action brought under section 216(b) of this title against a State or a political subdivision of a State in a district court of the United States on or before April 18, 1973, the running of the statutory periods of limitation shall be deemed suspended during the period beginning with the commencement of any such action and ending one hundred and eighty days after the effective date of the Fair Labor Standards Amendments of 1974, except that such suspension shall not be applicable if in such action judgment has been entered for the defendant on the grounds other than State immunity from Federal jurisdiction.
 
 (May 14, 1947, ch. 52, §6, 61 Stat. 87; Pub. L. 89–601, title VI, §601(b), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §6(d)(2)(A), Apr. 8, 1974, 88 Stat. 61.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,6 +28,8 @@ The effective date of the Fair Labor Standards Amendments of 1974, referred to i
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–601 inserted provision allowing causes of action arising out of willful violations to be commenced within three years after the cause of action accrued.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
@@ -36,7 +40,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602of Pub. L. 89–601, set out as a note under section 203 of this title.
+Secretary authorized to promulgate necessary rules, regulations, or orders on and after the date of the enactment of Pub. L. 89–601, Sept. 23, 1966, with regard to the amendments made by Pub. L. 89–601, see section 602 of Pub. L. 89–601, set out as a note under section 203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

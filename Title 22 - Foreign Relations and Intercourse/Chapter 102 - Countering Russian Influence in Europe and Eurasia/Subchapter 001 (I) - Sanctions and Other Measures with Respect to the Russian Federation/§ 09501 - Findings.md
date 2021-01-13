@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(4) On July 26, 2016, President Obama approved a Presidential Policy Directive on United States Cyber Incident Coordination, which states, "certain cyber incidents that have significant impacts on an entity, our national security, or the broader economy require a unique approach to response efforts".
 
-&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup>which authorized sanctions on the following entities and individuals:
+&emsp;(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,<sup>1</sup> which authorized sanctions on the following entities and individuals:
 
 &emsp;&emsp;(A) The Main Intelligence Directorate (also known as Glavnoe Razvedyvatel'noe Upravlenie or the GRU) in Moscow, Russian Federation.
 
@@ -34,6 +34,8 @@ Congress makes the following findings:
 
 (Pub. L. 115–44, title II, §211, Aug. 2, 2017, 131 Stat. 898.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 13660, referred to in par. (1), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under section 1701 of Title 50, War and National Defense.
@@ -42,11 +44,13 @@ Executive Order No. 13661, referred to in par. (1), is Ex. Ord. No. 13661, Mar. 
 
 Executive Order No. 13662, referred to in par. (1), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The Ukraine Freedom Support Act of 2014, referred to in par. (2), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in par. (2), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952,which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 Executive Order No. 13694, referred to in par. (3), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

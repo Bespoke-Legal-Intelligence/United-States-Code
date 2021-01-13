@@ -42,7 +42,9 @@
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L.107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, §204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, §603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Section 491 of title 14, referred to in subsec. (c)(2)(D), was redesignated sect
 Pub. L. 107–14, §8(a)(2), substituted "November 30, 1999" for "on the date of the enactment of the Veterans Millennium Health Care and Benefits Act".
 
 Subsec. (e)(1). Pub. L. 107–14, §8(a)(16), substituted "hereinafter" for "hereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -89,6 +93,60 @@ Pub. L. 106–117, title I, §101(h), Nov. 30, 1999, 113 Stat. 1550, provided th
 "(2) Subsection (c) of section 1710B of title 38, United States Code (as added by subsection (b)), shall take effect on the effective date of regulations prescribed by the Secretary of Veterans Affairs under subsections (c) and (d) of such section. The Secretary shall publish the effective date of such regulations in the Federal Register.
 
 "(3) The provisions of section 1710(f) of title 38, United States Code, shall not apply to any day of nursing home care on or after the effective date of regulations under paragraph (2)."
+
+#### Modifications to Veteran Directed Care Program of Department of Veterans Affairs
+
+Pub. L. 116–136, div. B, title X, §20006, Mar. 27, 2020, 134 Stat. 587, as amended by Pub. L. 116–315, title III, §3001, Jan. 5, 2021, 134 Stat. 4990, provided that:
+
+"(a)
+
+Telephone or Telehealth Renewals.—For the Veteran Directed Care program of the Department of Veterans Affairs (in this section referred to as the 'Program'), during the period specified in subsection (f), the Secretary of Veterans Affairs shall—
+
+&emsp;"(1) waive the requirement that a covered provider process new enrollments and six-month renewals for the Program via an in-person or home visit; and
+
+&emsp;"(2) allow new enrollments and sixth-month renewals for the Program to be conducted via telephone or telehealth modality.
+
+"(b)
+
+No Suspension or Disenrollment.—During the period specified in subsection (f), the Secretary shall not suspend or dis-enroll a veteran or caregiver of a veteran from the Program unless—
+
+&emsp;"(1) requested to do so by the veteran or a representative of the veteran; or
+
+&emsp;"(2) a mutual decision is made between the veteran and a health care provider of the veteran to suspend or dis-enroll the veteran or caregiver from the Program.
+
+"(c)
+
+Waiver of Paperwork Requirement.—During the period specified in subsection (f), the Secretary may waive the requirement for signed, mailed paperwork to confirm the enrollment or renewal of a veteran in the Program and may allow verbal consent of the veteran via telephone or telehealth modality to suffice for purposes of such enrollment or renewal.
+
+"(d)
+
+Waiver of Other Requirements.—During the period specified in subsection (f), the Secretary shall waive—
+
+&emsp;"(1) any penalty for late paperwork relating to the Program; and
+
+&emsp;"(2) any requirement to stop payments for veterans or caregivers of veterans under the Program if they are out of State for more than 14 days.
+
+"(e)
+
+Transfer of Certain Veterans to the Program.—During the period specified in subsection (f), the Secretary shall allow a veteran residing in an area covered by the Program to be transferred to the Program for the duration of such period if—
+
+&emsp;"(1) the veteran had been receiving extended care services paid for by the Department, such as adult day services or homemaker or home health aide services, immediately preceding such period; and
+
+&emsp;"(2) those services are no longer available due to a public health emergency.
+
+"(f)
+
+Period Specified.—The period specified in this subsection is the period beginning on the date on which a public health emergency was first declared and ending on the date that is 60 days after the date on which a public health emergency is no longer in effect.
+
+"(g)
+
+Covered Provider Defined.—In this section, the term 'covered provider' means a provider participating in the Program, including—
+
+&emsp;"(1) an Aging and Disability Resource Center, an area agency on aging, or a State agency (as those terms are defined in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)); or
+
+&emsp;"(2) a center for independent living (as defined in section 702 of the Rehabilitation Act of 1973 (29 U.S.C. 796a))."
+
+\[For definition of "public health emergency" as used in section 20006 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 
 #### Pilot Program on Improvement of Caregiver Assistance Services
 
@@ -154,7 +212,7 @@ Locations of Pilot Programs.—In selecting locations in which the pilot program
 
 "(c)
 
-Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall bedesigned to provide participating veterans with integrated, comprehensive services which include the following:
+Scope of Services Under Pilot Programs.—Each of the pilot programs under this section shall be designed to provide participating veterans with integrated, comprehensive services which include the following:
 
 &emsp;"(1) Adult-day health care services on an eight-hour per day, five-day per week basis.
 
@@ -238,7 +296,7 @@ Program Authority.—The Secretary \[of Veterans Affairs\] may carry out a pilot
 
 Locations of Pilot Program.—(1) The pilot program shall be carried out in a designated health care region of the Department \[of Veterans Affairs\] selected by the Secretary for purposes of this section.
 
-"(2)(A) In addition to the health care region of the Department selected for the pilot program under paragraph (1), the Secretary may also carry out the pilot program in not more than one additional designated health care region of the Department selected by the Secretary for purposes of this section.
+"(2)(A) In addition to the health care region of the Department selected for the pilot program under paragraph (1), the Secretary may also carry out the pilot program in not more than one additional designatedhealth care region of the Department selected by the Secretary for purposes of this section.
 
 "(B) Notwithstanding subsection (f), the authority of the Secretary to provide services under the pilot program in a health care region of the Department selected under subparagraph (A) shall cease on the date that is three years after the commencement of the provision of services under the pilot program in the health care region.
 

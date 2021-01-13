@@ -48,9 +48,13 @@ Appropriations.—There are authorized to be appropriated such sums as may be ne
 
 (Added Pub. L. 90–291, §1(a), Apr. 19, 1968, 82 Stat. 99; amended Pub. L. 94–183, §2(31), Dec. 31, 1975, 89 Stat. 1058.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Subsec. (f). Pub. L. 94–183 redesignated subsec. (e), relating to appropriations, as subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

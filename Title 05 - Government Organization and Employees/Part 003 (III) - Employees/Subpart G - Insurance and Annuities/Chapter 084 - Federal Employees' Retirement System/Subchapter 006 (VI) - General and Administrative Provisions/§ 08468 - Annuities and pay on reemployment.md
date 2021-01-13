@@ -4,7 +4,7 @@
 
 (b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (i) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
 
-(B)(i) If the annuitant is receiving a reduced annuity as provided in section 8419, the increase in annuity payable under subparagraph (A) is reduced by 10 percent and the survivor annuity or combination of survivor annuities payable under section 8442 or 8445 (or both) is increased by 50 percent of the increase in annuity payable under subparagraph (A), unless, at the time of claiming the increase payable under subparagraph (A), the annuitant notifies the Office in writing that the annuitant does not desire the survivor annuity to be increased.
+(B)(i) If the annuitant is receiving a reduced annuity as provided in section 8419, the increasein annuity payable under subparagraph (A) is reduced by 10 percent and the survivor annuity or combination of survivor annuities payable under section 8442 or 8445 (or both) is increased by 50 percent of the increase in annuity payable under subparagraph (A), unless, at the time of claiming the increase payable under subparagraph (A), the annuitant notifies the Office in writing that the annuitant does not desire the survivor annuity to be increased.
 
 (ii) If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for not less than 1 year of full-time service (or the equivalent thereof, in the case of full-time <sup>1</sup> employment), the survivor annuity payable is increased as though the reemployment had otherwise terminated.
 
@@ -44,7 +44,7 @@
 
 (3) Any exercise of authority under this subsection shall be in conformance with such written policies and procedures as the agency head, the Committee on House Oversight of the House of Representatives, or the Committee on Rules and Administration of the Senate (as applicable) shall prescribe, consistent with the provisions of this subsection.
 
-(4) For the purpose of this subsection, "agency in the legislative branch", "employee of the House of Representatives", "employee of the Senate", and "congressional employee" each has the meaning given to it in section 5531 of this title.
+(4) For the purpose of this subsection, "agency in the legislative branch", "employee of theHouse of Representatives", "employee of the Senate", and "congressional employee" each has the meaning given to it in section 5531 of this title.
 
 (i)(1) For purposes of this subsection—
 
@@ -116,7 +116,9 @@
 
 (2) An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, §5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, §1107(b), Dec. 19, 2014, 128 Stat. 3527; Pub. L. 116–92, div. A, title XI, §1117(b), Dec. 20, 2019, 133 Stat. 1605.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L.108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, §1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, §5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, §1107(b), Dec. 19, 2014, 128 Stat. 3527; Pub. L. 116–92, div. A, title XI, §1117(b), Dec. 20, 2019, 133 Stat. 1605.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -159,6 +161,8 @@ Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 Pub. L. 101–509 added subsec. (f).
 
 <b>1988</b>—Pub. L. 100–238 amended section generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

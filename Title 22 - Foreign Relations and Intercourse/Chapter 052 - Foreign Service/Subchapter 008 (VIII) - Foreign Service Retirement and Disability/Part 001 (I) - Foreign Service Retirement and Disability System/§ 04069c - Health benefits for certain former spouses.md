@@ -12,7 +12,7 @@ Except as provided in subsection (c)(1), any individual—
 
 #### (b) Prerequisites for enrollment; notification of rights
 
-(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefitsplan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
+(1) Any individual eligible for coverage under subsection (a) may enroll in a health benefits plan for self alone or for self and family if, before the expiration of the 6-month period beginning on December 22, 1987, and in accordance with such procedures as the Director of the Office of Personnel Management shall by regulation prescribe, such individual—
 
 &emsp;(A) files an election for such enrollment; and
 
@@ -50,6 +50,8 @@ Any individual who on February 14, 1981, was an otherwise qualified former spous
 
 (Pub. L. 96–465, title I, §832, as added Pub. L. 100–204, title I, §188(a), Dec. 22, 1987, 101 Stat. 1371; amended Pub. L. 101–246, title I, §146(c), Feb. 16, 1990, 104 Stat. 37.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 100–238 and is classified to section 4069b–1 of this title.
@@ -57,6 +59,8 @@ Another section 832 of the Foreign Service Act of 1980 was enacted by Pub. L. 10
 #### Amendments
 
 <b>1990</b>—Subsec. (f). Pub. L. 101–246 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

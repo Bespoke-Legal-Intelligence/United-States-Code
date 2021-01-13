@@ -10,9 +10,13 @@ In the case of an eligible project described in paragraph (9) or (10) of section
 
 (Pub. L. 113–121, title V, §5024, June 10, 2014, 128 Stat. 1333; Pub. L. 114–322, title IV, §5008(b)(2)(B), Dec. 16, 2016, 130 Stat. 1897.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–322 substituted "paragraph (9) or (10)" for "paragraph (8) or (9)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

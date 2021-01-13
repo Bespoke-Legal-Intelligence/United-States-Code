@@ -44,9 +44,13 @@
 
 (Added Pub. L. 109–8, title II, §228(a), Apr. 20, 2005, 119 Stat. 69; amended Pub. L. 111–327, §2(a)(21), Dec. 22, 2010, 124 Stat. 3560.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–327 substituted "Schedules, and Statement of Financial Affairs, and in some cases a Statement of Intention," for "Schedules and Statement of Financial Affairs, as well as in some cases a Statement of Intention" in third sentence of fourth undesignated par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

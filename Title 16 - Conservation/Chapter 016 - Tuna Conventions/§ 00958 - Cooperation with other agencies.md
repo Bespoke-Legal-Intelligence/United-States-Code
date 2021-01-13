@@ -10,7 +10,7 @@ All agencies of the Federal Government are authorized on request of the commissi
 
 #### (c) Facilities and personnel to non-Federal agencies
 
-The commissions are authorized and empowered to supply facilities and personnel to existing non-Federal agencies to expedite research work which in the judgment of the commissions is contributing or will contribute directly to the purposes of the conventions.
+The commissions are authorized and empowered to supply facilities and personnel to existing non-Federal agencies to expedite research work which in the judgment of the commissionsis contributing or will contribute directly to the purposes of the conventions.
 
 (Sept. 7, 1950, ch. 907, §9, 64 Stat. 779.)
 

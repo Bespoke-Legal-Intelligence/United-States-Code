@@ -56,6 +56,8 @@ Historical and Revision Notes
 
 Section 2106 provides that when a vessel is made liable in rem the vessel may be libeled and proceeded against in a United States district court.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304 substituted "the district court of the United States for any district" for "a district court of the United States".

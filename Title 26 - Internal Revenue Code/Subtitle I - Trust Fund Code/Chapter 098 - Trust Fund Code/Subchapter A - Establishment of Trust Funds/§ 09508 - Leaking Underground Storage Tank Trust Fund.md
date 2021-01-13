@@ -56,7 +56,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (3) Order in which unpaid claims are to be paid
 
-&emsp;If at any time the Leaking Underground Storage Tank Trust Fund has insufficientfunds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
+&emsp;If at any time the Leaking Underground Storage Tank Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
 #### (e) Limitation on transfers to Leaking Underground Storage Tank Trust Fund
 
@@ -70,9 +70,9 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2021, in accordance with the provisions of this section.
 
-(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title IV, §401(c), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title IV, §401(c), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40101(c), title II, §40201(a), July 6, 2012, 126 Stat. 844, 846; Pub. L. 113–159, title II, §§2001(c), 2002(b), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 114–21, title II, §2001(c), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §2001(c), July 31, 2015, 129 Stat. 454; Pub. L. 114–73, title II, §2001(c), Oct. 29, 2015, 129 Stat. 583; Pub. L. 114–87, title II, §2001(c), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(c), 31203, Dec. 4, 2015, 129 Stat. 1727, 1729; Pub. L. 115–141, div. U, title IV, §401(a)(342), Mar. 23, 2018, 132 Stat. 1200.)
+(Added Pub. L. 99–499, title V, §522(a), Oct. 17, 1986, 100 Stat. 1780; amended Pub. L. 100–203, title X, §10502(d)(16), (17), Dec. 22, 1987, 101 Stat. 1330–445; Pub. L. 101–239, title VII, §7822(b)(7), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 103–66, title XIII, §§13163(c), 13242(d)(42), Aug. 10, 1993, 107 Stat. 454, 528; Pub. L. 105–34, title X, §1032(e)(13), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §853(d)(2)(P), (Q), Oct. 22, 2004, 118 Stat. 1614; Pub. L. 109–58, title XIII, §1362(c), Aug. 8, 2005, 119 Stat. 1059; Pub. L. 109–59, title XI, §11147(a), Aug. 10, 2005, 119 Stat. 1967; Pub. L. 109–432, div. A, title II, §210(a), Dec. 20, 2006, 120 Stat. 2947; Pub. L. 109–433, §1(a), Dec. 20, 2006, 120 Stat. 3196; Pub. L. 112–30, title I, §141(c), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title IV, §401(c), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title IV, §401(c), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40101(c), title II, §40201(a), July 6, 2012, 126 Stat. 844, 846; Pub. L. 113–159, title II, §§2001(c), 2002(b), Aug. 8, 2014, 128 Stat. 1848; Pub. L. 114–21, title II, §2001(c), May 29, 2015, 129 Stat. 226; Pub. L. 114–41, title II, §2001(c), July 31, 2015, 129 Stat. 454; Pub. L. 114–73, title II, §2001(c), Oct. 29, 2015, 129 Stat. 583; Pub. L. 114–87, title II, §2001(c), Nov. 20, 2015, 129 Stat. 685; Pub. L. 114–94, div. C, title XXXI, §§31101(c), 31203, Dec. 4, 2015, 129 Stat. 1727, 1729; Pub. L. 115–141, div. U, title IV, §401(a)(342), Mar. 23, 2018, 132 Stat. 1200; Pub. L. 116–159, div. B, title II, §1203, Oct. 1, 2020, 134 Stat. 727.)
 
 #### References in Text
 
@@ -87,6 +87,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(2). Pub. L. 116–159 substituted "October 1, 2021" for "October 1, 2020".
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 substituted "of Public Law" for "of the Public Law".
 
@@ -134,7 +136,7 @@ Subsec. (c)(2)(A). Pub. L. 108–357, §853(d)(2)(Q), substituted "section 4081"
 
 <b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 substituted ", diesel fuel, and kerosene" for "and diesel fuel".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of "4081" for "4091" inlast sentence, could not be executed because last sentence did not contain a reference to "4091".
+<b>1993</b>—Subsec. (b). Pub. L. 103–66, §13242(d)(42)(C), which directed the substitution of "4081" for "4091" in last sentence, could not be executed because last sentence did not contain a reference to "4091".
 
 Pub. L. 103–66, §13163(c), inserted at end "For purposes of this subsection, there shall not be taken into account the taxes imposed by sections 4041 and 4081 on diesel fuel sold for use or used as fuel in a diesel-powered boat."
 

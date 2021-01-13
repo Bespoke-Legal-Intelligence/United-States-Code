@@ -12,7 +12,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, alimitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -46,7 +46,7 @@ For purposes of this part—
 
 &emsp;&emsp;(C) Part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 
-&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverage consisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
+&emsp;&emsp;(D) Title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than coverageconsisting solely of benefits under section 1928 \[42 U.S.C. 1396s\].
 
 &emsp;&emsp;(E) Chapter 55 of title 10.
 
@@ -122,7 +122,7 @@ For purposes of this part—
 
 #### (2) Exclusion not applicable to certain adopted children
 
-&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group or individual health insurance coverage, may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
+&emsp;Subject to paragraph (4), a group health plan, and a health insurance issuer offering group or individual health insurance coverage, may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 yearsof age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
 
 #### (3) Exclusion not applicable to pregnancy
 
@@ -280,7 +280,7 @@ For purposes of this part—
 
 &emsp;A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of this part for the State involved with respect to such issuer.
 
-(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat.70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
+(July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
 

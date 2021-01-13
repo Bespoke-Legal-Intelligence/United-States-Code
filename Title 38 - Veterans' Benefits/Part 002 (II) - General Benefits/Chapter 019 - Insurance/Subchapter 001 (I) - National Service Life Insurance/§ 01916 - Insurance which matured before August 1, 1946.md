@@ -26,7 +26,9 @@
 
 (f) Any payments of insurance made to a person, represented by the insured to be within the permitted class of beneficiaries, shall be deemed to have been properly made and to satisfy fully the obligation of the United States under such insurance policy to the extent of such payments.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, §716; Pub. L. 99–576, title VII, §701(27), Oct. 28, 1986, 100Stat. 3292; renumbered §1916 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, §506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, §716; Pub. L. 99–576, title VII, §701(27), Oct. 28, 1986, 100 Stat. 3292; renumbered §1916 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, §506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

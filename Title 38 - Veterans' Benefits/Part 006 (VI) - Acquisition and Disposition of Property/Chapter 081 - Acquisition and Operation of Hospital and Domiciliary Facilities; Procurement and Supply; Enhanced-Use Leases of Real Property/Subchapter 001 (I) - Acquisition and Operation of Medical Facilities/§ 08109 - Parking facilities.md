@@ -64,6 +64,8 @@
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5009; amended Pub. L. 99–576, title II, §223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered §8109 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, §3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §207(b), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 105–368, title VII, §705, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–422, title IV, §415, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 115–141, div. J, title II, §234, Mar. 23, 2018, 132 Stat. 820.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5004 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
@@ -94,6 +96,8 @@ Subsec. (i)(2). Pub. L. 102–40, §402(d)(1), substituted "8104(a)(2)" for "500
 
 <b>1986</b>—Pub. L. 99–576 amended section generally, substituting "Parking facilities" for "Garages and parking facilities" in section catchline and substituting present provisions consisting of subsecs. (a) to (i) for former provisions consisting of subsecs. (a) to (c), and generally revising and expanding section to require VA to establish and collect reasonable parking fees at all facilities where a garage is constructed or acquired or altered at a cost of more than $500,000 (or leased for more than $100,000 per year), and allowing discretionary paid parking at all other facilities.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–576, title II, §223(b), Oct. 28, 1986, 100 Stat. 3261, provided that:
@@ -104,7 +108,7 @@ Pub. L. 99–576, title II, §223(b), Oct. 28, 1986, 100 Stat. 3261, provided th
 
 "(B) After the date of the enactment of this Act, if a collective bargaining agreement described in subparagraph (A) is modified, extended, or renewed, such subparagraph shall no longer, as of the date of the modification, extension, or renewal, apply to such agreement.
 
-"(C) In the case of a collective bargaining agreement which on such date of enactment is in effect but has no provision which specifies a termination date, the authorities and requirements in section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, to establish and collect parking fees shall take effect on January 1, 1988.
+"(C) In the case of a collective bargaining agreement which on such date of enactment is in effect but has noprovision which specifies a termination date, the authorities and requirements in section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, to establish and collect parking fees shall take effect on January 1, 1988.
 
 "(3) Section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, shall not apply to the expenditure of funds appropriated for a fiscal year prior to fiscal year 1987 for the construction, alteration, or acquisition (including site acquisition) of a parking facility at a Veterans' Administration \[now Department of Veterans Affairs\] medical facility."
 

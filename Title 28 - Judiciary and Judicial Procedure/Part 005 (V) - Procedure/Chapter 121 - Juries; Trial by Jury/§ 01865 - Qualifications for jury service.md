@@ -12,7 +12,7 @@
 
 &emsp;(4) is incapable, by reason of mental or physical infirmity, to render satisfactory jury service; or
 
-&emsp;(5) has a charge pending against him for the commission of, or has been convicted in aState or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
+&emsp;(5) has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
 (June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, §1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, §3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, §803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, §305, Nov. 13, 2000, 114 Stat. 2418.)
 
@@ -27,6 +27,8 @@ Word "jurors" was changed to "grand and petit jurors" upon authority of <i>Agnew
 The last sentence of subsection (a) was added to conform with existing practice in many districts. Subsection (b) extends to all districts a provision of section 181 of title 28, U.S.C., 1940 ed., which was designed for the convenience of the districts in Ohio and permitted jurors drawn for service at Cleveland, Toledo, and Columbus to serve at Youngstown, Lima, and Steubenville, respectively.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -44,11 +46,13 @@ Subsec. (b). Pub. L. 106–518, §305(2), inserted "or the clerk if the court's 
 
 Subsec. (b). Pub. L. 90–274 substituted provisions setting out the conditions of ineligibility for jury service for provisions authorizing the service of jurors in a place within the district other than the place for which the jurors were summoned.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as an Effective Date note under section 1363 of this title.
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
+Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictmenthas been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 

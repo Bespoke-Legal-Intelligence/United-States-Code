@@ -6,7 +6,7 @@ The value of the gross estate shall include the value of all property to the ext
 
 &emsp;(1) the possession or enjoyment of, or the right to the income from, the property, or
 
-&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons whoshall possess or enjoy the property or the income therefrom.
+&emsp;(2) the right, either alone or in conjunction with any person, to designate the persons who shall possess or enjoy the property or the income therefrom.
 
 #### (b) Voting rights
 
@@ -78,7 +78,7 @@ Subsection (f).—If an amount is included in the gross estate of a decedent und
 
 "(4)
 
-Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to any interest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—
+Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to anyinterest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—
 
 &emsp;"(A) during such period, such actions are taken as are necessary to have such section 2036(c)(1) not apply to such transaction (and any such interest), or
 
@@ -98,7 +98,7 @@ Clarification of effective date.—For purposes of section 10402(b) of the Reven
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
+Pub. L. 100–203, title X, §10402(b), Dec. 22, 1987, 101 Stat. 1330–432, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1987, but only in the case of property transferred after December 17, 1987." \[For clarification of this note, see section 3031(h)(5) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note above.\]
 
 #### Effective Date of 1978 Amendment
 

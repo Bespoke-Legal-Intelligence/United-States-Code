@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlementof payment, securities, and other financial transactions.
+&emsp;(1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlement of payment, securities, and other financial transactions.
 
 &emsp;(2) Financial market utilities that conduct or support multilateral payment, clearing, or settlement activities may reduce risks for their participants and the broader financial system, but such utilities may also concentrate and create new risks and thus must be well designed and operated in a safe and sound manner.
 
@@ -37,6 +37,8 @@ The purpose of this subchapter is to mitigate systemic risk in the financial sys
 &emsp;(4) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
 
 (Pub. L. 111–203, title VIII, §802, July 21, 2010, 124 Stat. 1802.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

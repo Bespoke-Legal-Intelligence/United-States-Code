@@ -20,7 +20,7 @@ It is the policy of the United States—
 
 &emsp;(8) to work with European Union member states and European Union institutions to promote energy security through developing diversified and liberalized energy markets that provide diversified sources, suppliers, and routes;
 
-&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union's energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
+&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union's energy security, gas marketdevelopment in Central and Eastern Europe, and energy reforms in Ukraine; and
 
 &emsp;(10) that the United States Government should prioritize the export of United States energy resources in order to create American jobs, help United States allies and partners, and strengthen United States foreign policy.
 
@@ -96,7 +96,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
 
-&emsp;&emsp;(B) the Export-Import Bank of the United States and the United States International Development Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+&emsp;&emsp;(B) the Export-Import Bank of the United States and the United States InternationalDevelopment Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
 
 #### (3) Use of Countering Russian Influence Fund to provide technical assistance
 
@@ -112,6 +112,8 @@ Nothing in this section shall be construed as affecting the responsibilities req
 
 (Pub. L. 115–44, title II, §257, Aug. 2, 2017, 131 Stat. 931; Pub. L. 115–254, div. F, title VI, §1470(t), Oct. 5, 2018, 132 Stat. 3519.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
@@ -119,6 +121,8 @@ The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pu
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2)(B). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

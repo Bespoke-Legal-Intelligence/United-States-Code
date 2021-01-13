@@ -88,7 +88,7 @@ Review and update of guidance.—The President shall review and update the guida
 
 &emsp;&emsp;"(B) The performance of each Federal department and agency involved in executing the guidance.
 
-&emsp;&emsp;"(C) The performance of the unified country team and appropriate combatant command, or in the case of a cross-border effort, country teams in the area and the appropriate combatant command.
+&emsp;&emsp;"(C) The performance of the unified country team and appropriate combatant command, or in thecase of a cross-border effort, country teams in the area and the appropriate combatant command.
 
 &emsp;&emsp;"(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 

@@ -4,7 +4,7 @@
 
 For purposes of this part, the term "pension plan contract" means any contract—
 
-&emsp;(1) entered into with trusts which (as of the time the contracts were entered into) were deemed to be trusts described in section 401(a) and exempt from tax under section 501(a) (or trusts exempt from tax under section 165 ofthe Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws);
+&emsp;(1) entered into with trusts which (as of the time the contracts were entered into) were deemed to be trusts described in section 401(a) and exempt from tax under section 501(a) (or trusts exempt from tax under section 165 of the Internal Revenue Code of 1939 or the corresponding provisions of prior revenue laws);
 
 &emsp;(2) entered into under plans which (as of the time the contracts were entered into) were deemed to be plans described in section 403(a), or plans meeting the requirements of paragraphs (3), (4), (5), and (6) of section 165(a) of the Internal Revenue Code of 1939;
 
@@ -26,7 +26,7 @@ In the case of a life insurance company—
 
 &emsp;(1) in applying section 1231(a), the term "property used in the trade or business" shall be treated as including only—
 
-&emsp;&emsp;(A) property used in carrying on an insurance business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in carrying on an insurance business, held for more than 1 year, which is not described in section 1231(b)(1)(A), (B), or (C), and
+&emsp;&emsp;(A) property used in carrying on an insurance business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in carrying onan insurance business, held for more than 1 year, which is not described in section 1231(b)(1)(A), (B), or (C), and
 
 &emsp;&emsp;(B) property described in section 1231(b)(2), and
 
@@ -106,7 +106,7 @@ For purposes of this part—
 
 #### (2) Qualified accelerated death benefit riders
 
-&emsp;For purposes of this subsection, the term "qualified accelerated death benefit rider" means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
+&emsp;For purposes of this subsection, the term "qualified accelerated death benefit rider"means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
 
 #### (3) Exception for long-term care riders
 
@@ -130,7 +130,7 @@ A prior section 819A, added Pub. L. 94–455, title X, §1043(a), Oct. 4, 1976, 
 
 A prior section 820, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 137; amended Pub. L. 94–455, title XIX, §§1901(a)(103), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834, related to optional treatment of policies reinsured under modified coinsurance contracts, prior to repeal by Pub. L. 97–248, title II, §255(a), (c), Sept. 3, 1982, 96 Stat. 533, 534, applicable to taxable years beginning after Dec. 31, 1981, with exception.
 
-A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct.4, 1976, Pub. L. 94–455, title IX, §901(b), title XV, §1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 13, 1956, ch. 83, §3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, §2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, §201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, §2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, §2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, §8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, §2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, §123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, §104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, §901(b), title XV, §1507(b)(1), title XIX, §§1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, §201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, §301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, §231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, §1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
 A prior section 822 was renumbered section 834 of this title by Pub. L. 99–514, title X, §1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
@@ -214,5 +214,5 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

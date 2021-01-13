@@ -14,6 +14,8 @@ Definition of the term "United States" was omitted and incorporated in section 5
 
 Minor verbal changes were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

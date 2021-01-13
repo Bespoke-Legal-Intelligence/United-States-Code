@@ -20,7 +20,7 @@ The contributions required under subsection (a) may consist of—
 
 #### References in Text
 
-Section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred toin subsec. (a), is section 1503 of Pub. L. 111–22, which is set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (a), is section 1503 of Pub. L. 111–22, which is set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Effective Date
 

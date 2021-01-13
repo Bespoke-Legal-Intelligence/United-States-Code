@@ -50,7 +50,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (D) Appointments by the Speaker of the House of Representatives
 
-&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House ofRepresentatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
 #### (E) Appointments to 1-year terms
 
@@ -86,13 +86,15 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### (i) Funding
 
-Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department ofState Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 
 #### (j) Removal
 
 If a payment is made under section 415(a) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(a)) for an award or settlement in connection with a claim alleging a violation of unlawful harassment, intimidation, reprisal, or discrimination under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.) that was committed personally by an individual who, at the time of committing the violation, was a Member of the Commission, the Member shall be removed from the Commission.
 
 (Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, §681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409; Pub. L. 112–75, §2, Dec. 23, 2011, 125 Stat. 1272; Pub. L. 116–94, div. J, title VIII, §§803, 806(a), Dec. 20, 2019, 133 Stat. 3076, 3078.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -102,7 +104,7 @@ The Congressional Accountability Act of 1995, referred to in subsec. (j), is Pub
 
 <b>2019</b>—Subsec. (b)(2). Pub. L. 116–94, §803(1), struck out subpar. (A) designation and heading and subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Each member of the Commission shall be required to obtain a security clearance."
 
-Subsec. (d). Pub. L. 116–94, §803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term."
+Subsec. (d). Pub. L. 116–94, §803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of theCommission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term."
 
 Subsec. (f). Pub. L. 116–94, §803(3), substituted "International Religious Freedom Report" for "Country Report on Human Rights Practices".
 

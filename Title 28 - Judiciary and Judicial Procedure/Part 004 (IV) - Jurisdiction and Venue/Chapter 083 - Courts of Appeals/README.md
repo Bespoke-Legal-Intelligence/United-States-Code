@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–331, §3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.

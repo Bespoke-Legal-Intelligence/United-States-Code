@@ -50,7 +50,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (7) Elements to assure safe use
 
-&emsp;In the case of a drug that is compounded from a drug that is the subject of a risk evaluation and mitigation strategy approved with elements to assure safe use pursuant to section 355–1 of this title, or from a bulk drug substance that is a component of such drug, the outsourcing facility demonstrates to the Secretary prior to beginning compoundingthat such facility will utilize controls comparable to the controls applicable under the relevant risk evaluation and mitigation strategy.
+&emsp;In the case of a drug that is compounded from a drug that is the subject of a risk evaluation and mitigation strategy approved with elements to assure safe use pursuant to section 355–1 of this title, or from a bulk drug substance that is a component of such drug, the outsourcing facility demonstrates to the Secretary prior to beginning compounding that such facility will utilize controls comparable to the controls applicable under the relevant risk evaluation and mitigation strategy.
 
 #### (8) Prohibition on wholesaling
 
@@ -255,6 +255,8 @@ In this section:
 Payment of the fee under section 379j–62 of this title, as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
 
 (June 25, 1938, ch. 675, §503B, as added Pub. L. 113–54, title I, §102(a)(2), Nov. 27, 2013, 127 Stat. 588.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

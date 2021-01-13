@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
@@ -40,6 +42,8 @@ Showing where former sections of Title 9 and the laws from which such former sec
 | 13 | Feb. 12, 1925, ch. 213, §13, 43 Stat. 886 | 13 |
 | 14 | Feb. 12, 1925, ch. 213, §14, 43 Stat. 886 | Rep. |
 | 15 | Feb. 12, 1925, ch. 213, §15, 43 Stat. 886 | 14 |
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Positive Law; Citation
 

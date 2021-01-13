@@ -4,7 +4,7 @@ The Government Accountability Office, the Government Publishing Office, and the 
 
 #### (1) In general
 
-&emsp;The rights and protections under this chapter shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.
+&emsp;The rights and protections under this chapter shall, subject to paragraph (2), apply withrespect to the conduct of each instrumentality of the Congress.
 
 #### (2) Establishment of remedies and procedures by instrumentalities
 
@@ -12,7 +12,7 @@ The Government Accountability Office, the Government Publishing Office, and the 
 
 #### (3) Report to Congress
 
-&emsp;The chief official of each instrumentality of the Congress shall, after establishing remediesand procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
+&emsp;The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
 #### (4) Definition of instrumentalities
 
@@ -84,7 +84,7 @@ Applicable Remedies.—When assigning remedies to individuals found to have a va
 
 Subsec. (a)(6), (7). Pub. L. 102–166, §315(1), redesignated pars. (6) and (7) as (2) and (3), respectively.
 
-Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employees who are defined as Senateemployees, in section 1201(c)(1) of title 2" after "shall apply exclusively".
+Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2" after "shall apply exclusively".
 
 #### Change of Name
 

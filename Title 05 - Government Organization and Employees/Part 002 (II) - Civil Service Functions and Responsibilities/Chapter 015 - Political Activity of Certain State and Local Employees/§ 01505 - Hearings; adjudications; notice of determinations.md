@@ -28,9 +28,13 @@ June 11, 1960, Pub. L. 86–507, §1(1), 74 Stat. 200.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Merit Systems Protection Board" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

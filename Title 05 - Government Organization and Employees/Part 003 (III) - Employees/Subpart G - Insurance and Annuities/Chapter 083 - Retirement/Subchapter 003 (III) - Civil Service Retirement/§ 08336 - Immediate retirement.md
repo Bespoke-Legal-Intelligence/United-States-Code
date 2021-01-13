@@ -64,7 +64,7 @@
 
 &emsp;(B) voluntarily, after completing 23 years of service or after becoming 48 years of age and completing 18 years of service.
 
-(2) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed, at a permanent duty station in the Canal Zone, by any Executive agency other than the Canal Zone Government or the Panama Canal Company at anytime during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if—
+(2) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed, at a permanent duty station in the Canal Zone, by any Executive agency other than the Canal Zone Government or the Panama Canal Company at any time during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if—
 
 &emsp;(A) the employee is separated involuntarily, after completing 20 years of service or after becoming 48 years of age and completing 18 years of service; and
 
@@ -150,7 +150,7 @@
 
 (B) For the purposes of paragraph (2)(A)(i), a separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function may not be considered to be a removal for cause.
 
-(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
+(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligiblefor an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
 
 &emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(l), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255;Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 90–83, §1(75), Sept. 11, 1967, 81 Stat. 214; Pub. L. 92–297, §5, May 16, 1972, 86 Stat. 144; Pub. L. 92–382, Aug. 14, 1972, 86 Stat. 539; Pub. L. 93–39, June 12, 1973, 87 Stat. 73; Pub. L. 93–350, §5, July 12, 1974, 88 Stat. 356; Pub. L. 94–183, §2(40), (41), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 95–454, title III, §306, title IV, §412(a), Oct. 13, 1978, 92 Stat. 1147, 1175; Pub. L. 96–70, title I, §1241(a), Sept. 27, 1979, 93 Stat. 471; Pub. L. 96–135, §1(a), Dec. 5, 1979, 93 Stat. 1056; Pub. L. 97–89, title VIII, §803, Dec. 4, 1981, 95 Stat. 1161; Pub. L. 97–253, title III, §308(a), Sept. 8, 1982, 96 Stat. 798; Pub. L. 98–94, title XII, §1256(b), Sept. 24, 1983, 97 Stat. 701; Pub. L. 98–353, title I, §116(c), July 10, 1984, 98 Stat. 344; Pub. L. 98–531, §2(b), Oct. 19, 1984, 98 Stat. 2704; Pub. L. 98–615, title III, §304(d), Nov. 8, 1984, 98 Stat. 3219; Pub. L. 99–190, §101(d) \[title III, §315\], Dec. 19, 1985, 99 Stat. 1224, 1266; Pub. L. 100–53, §2(c), June 18, 1987, 101 Stat. 368; Pub. L. 100–325, §2(l), May 30, 1988, 102 Stat. 582; Pub. L. 101–194, title V, §506(b)(7), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–428, §2(a), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–510, div. C, title XXXV, §3506(a), Nov. 5, 1990, 104 Stat. 1846; Pub. L. 101–650, title III, §§306(c)(3), 321, Dec. 1, 1990, 104 Stat. 5110, 5117; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 105–261, div. A, title XI, §1109(a), div. C, title XXXI, §3154(e), Oct. 17, 1998, 112 Stat. 2143, 2255; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–320; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title X, §1048(i)(5), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–296, title XIII, §§1313(b)(1), 1321(a)(4)(A), Nov. 25, 2002, 116 Stat. 2294, 2297; Pub. L. 110–161, div. E, title V, §535(a)(4), Dec. 26, 2007, 121 Stat. 2075.)
 
 Historical and Revision Notes<br>1966
 
@@ -246,13 +246,15 @@ July 18, 1966, Pub. L. 89–504, §504, 80 Stat. 301.
 
 In subsections (a) and (b), the words "is entitled to" are substituted for "shall \* \* \* be paid". The words "computed as provided in section 9" are omitted as unnecessary in view of 5 U.S.C. 8339.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25, Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 
-Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 of act June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
+Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 ofact June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
 
 #### Amendments
 
@@ -340,13 +342,15 @@ Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignate
 
 <b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted "an" for "a reduced" after "is entitled to".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
+<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and theCivil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–382 inserted reference to employees performing work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment for the purpose of retirement benefits.
 
 Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -422,7 +426,7 @@ Amendment by Pub. L. 93–350 effective July 12, 1974, see section 7 of Pub. L. 
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, setout as an Effective Date note under section 3381 of this title.
 
 #### Regulations
 

@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the deferral ratio multiplied by the aggregate amount of applicable payments made by the entity during the base year, over
+&emsp;&emsp;&emsp;(i) the deferral ratio multiplied by the aggregate amount of applicable paymentsmade by the entity during the base year, over
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount of such applicable payments made during the deferral period of the base year.
 
@@ -155,7 +155,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+&emsp;Except as otherwise provided in this subsection or in regulations prescribed by theSecretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
 
 #### (2) Due date
 
@@ -169,7 +169,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of the amount of the payment required under this section over the amount (if any) of such paymentpaid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
+&emsp;&emsp;In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term "underpayment" means the excess of the amount of the payment required under this section over the amount (if any) of such payment paid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 #### (B) Negligence and fraud penalties made applicable
 

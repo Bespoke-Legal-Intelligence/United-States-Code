@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is authorized to be appropriated to carry out sections 31a to 31h of this title $64,000,000 for each of fiscal years 2009 through 2023.
+There is authorized to be appropriated to carry out sections 31a to 31h of this title$64,000,000 for each of fiscal years 2009 through 2023.
 
 #### (b) Allocation of appropriations
 
@@ -13,6 +13,8 @@ Of any amounts appropriated for any fiscal year in excess of the amount appropri
 &emsp;(2) 4 percent shall be available for the education component.
 
 (Pub. L. 102–285, §9, as added Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724; amended Pub. L. 111–11, title XI, §11001(i), Mar. 30, 2009, 123 Stat. 1416; Pub. L. 116–9, title V, §5002(a)(1), Mar. 12, 2019, 133 Stat. 768.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -34,7 +34,7 @@ The Secretary shall issue regulations or other guidance which provide for the pr
 
 Prior sections 6227 to 6230 were repealed by Pub. L. 114–74, title XI, §1101(a), (g), Nov. 2, 2015, 129 Stat. 625, 638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.
 
-Section 6227, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 655; amended Pub. L. 105–34, titleXII, §§1236(a), 1243(a), Aug. 5, 1997, 111 Stat. 1025, 1029; Pub. L. 107–147, title IV, §417(19)(A), Mar. 9, 2002, 116 Stat. 56, related to administrative adjustment requests.
+Section 6227, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 655; amended Pub. L. 105–34, title XII, §§1236(a), 1243(a), Aug. 5, 1997, 111 Stat. 1025, 1029; Pub. L. 107–147, title IV, §417(19)(A), Mar. 9, 2002, 116 Stat. 56, related to administrative adjustment requests.
 
 Section 6228, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 656; amended Pub. L. 97–448, title III, §306(c)(1)(B), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–147, title IV, §417(19)(B), Mar. 9, 2002, 116 Stat. 56, related to judicial review where administrative adjustment request is not allowed in full.
 

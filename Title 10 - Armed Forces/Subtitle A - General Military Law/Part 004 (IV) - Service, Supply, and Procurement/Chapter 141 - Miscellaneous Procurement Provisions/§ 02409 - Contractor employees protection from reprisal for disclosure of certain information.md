@@ -66,7 +66,7 @@ Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving a
 
 (4) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
 
-(5) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petitionseeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
+(5) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
 
 (6) The legal burdens of proof specified in section 1221(e) of title 5 shall be controlling for the purposes of any investigation conducted by an Inspector General, decision by the head of an agency, or judicial or administrative proceeding to determine whether discrimination prohibited under this section has occurred.
 
@@ -88,7 +88,7 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 (f)
 
-Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
+Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosureprotected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
 (g)
 
@@ -113,6 +113,10 @@ Definitions.—In this section:
 &emsp;(7) The term "grantee" means a person awarded a grant with an agency.
 
 (Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509; Pub. L. 114–261, §1(a)(1), Dec. 14, 2016, 130 Stat. 1362.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1863(b), Jan. 1, 2021, 134 Stat. 4151, 4278, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 365 of this title, as amended by section 1863(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4701 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -189,6 +193,10 @@ Subsec. (e)(5). Pub. L. 110–181, §846(d)(2), inserted "and any Inspector Gene
 Effective Date.—This section shall not be in effect during the period when section 2409a of this title is in effect."
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–25 added subsec. (d).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2013 Amendment
 

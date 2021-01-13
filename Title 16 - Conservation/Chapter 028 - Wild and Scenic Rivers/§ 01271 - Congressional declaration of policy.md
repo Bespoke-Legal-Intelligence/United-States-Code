@@ -84,7 +84,7 @@ Pub. L. 101–628, title VII, §701, Nov. 28, 1990, 104 Stat. 4497, provided tha
 
 Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided that: "This Act \[probably should be "this title", amending section 1274 of this title\] may be cited as the 'Clarks Fork Wild and Scenic River Designation Act of 1990'."
 
-Pub. L. 101–357, §1, Aug. 10, 1990, 104 Stat. 418, provided that: "This Act \[amending section 1276 of thistitle\] may be cited as the 'Pemigewasset River Study Act of 1989'."
+Pub. L. 101–357, §1, Aug. 10, 1990, 104 Stat. 418, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Pemigewasset River Study Act of 1989'."
 
 Pub. L. 101–356, §1, Aug. 10, 1990, 104 Stat. 417, provided that: "This Act \[amending section 1276 of this title\] may be cited as the 'Merrimack River Study Act of 1990'."
 

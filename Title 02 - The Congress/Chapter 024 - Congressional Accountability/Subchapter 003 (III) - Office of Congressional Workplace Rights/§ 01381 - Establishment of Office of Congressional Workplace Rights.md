@@ -6,7 +6,7 @@ There is established, as an independent office within the legislative branch of 
 
 #### (b) Board of Directors
 
-The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
+The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointedjointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
 
 #### (c) Chair
 
@@ -92,7 +92,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (2) Travel expenses
 
-&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (h) Duties
 
@@ -188,6 +188,8 @@ The Office shall establish and maintain a program for the permanent retention of
 
 (Pub. L. 104–1, title III, §301, Jan. 23, 1995, 109 Stat. 24; Pub. L. 108–349, §1(a), Oct. 21, 2004, 118 Stat. 1389; Pub. L. 110–161, div. H, title I, §1101(a), Dec. 26, 2007, 121 Stat. 2237; Pub. L. 110–164, §1, Dec. 26, 2007, 121 Stat. 2459; Pub. L. 113–235, div. H, title I, §1001, Dec. 16, 2014, 128 Stat. 2530; Pub. L. 115–19, §1(c), (d), Apr. 3, 2017, 131 Stat. 85; Pub. L. 115–397, title II, §§201(a)(1), 203, title III, §308(a), Dec. 21, 2018, 132 Stat. 5315, 5318, 5325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. See section 1601 et seq. of this title.
@@ -222,6 +224,8 @@ Subsec. (g)(1). Pub. L. 110–161 added par. (1) and struck out heading and text
 
 <b>2004</b>—Subsec. (e)(1). Pub. L. 108–349 amended second sentence generally. Prior to amendment, second sentence read as follows: "A member of the Board who is appointed to a term of office of more than 3 years shall only be eligible for appointment for a single term of office."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
@@ -234,7 +238,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 115–397, title II, §201(a)(2), Dec. 21, 2018, 132 Stat. 5316, provided that: "The amendment made by paragraph (1)(B) \[amending this section\] shall take effect on January 1, 2019."
 
-Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made bythis section \[amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
+Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made by this section \[amending this section and sections 1301,1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
 
 Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 

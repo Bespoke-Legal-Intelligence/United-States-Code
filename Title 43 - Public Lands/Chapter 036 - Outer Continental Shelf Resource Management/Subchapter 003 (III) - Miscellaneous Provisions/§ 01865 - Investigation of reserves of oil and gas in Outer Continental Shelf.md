@@ -6,11 +6,15 @@ The Secretary of the Interior shall provide a biennial report to Congress on Jun
 
 (Pub. L. 95–372, title VI, §606, as added Pub. L. 99–367, §2(c), July 31, 1986, 100 Stat. 774.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1865, Pub. L. 95–372, title VI, §606, Sept. 18, 1978, 92 Stat. 696, directed Secretary of the Interior to conduct a continuing investigation of reserves of oil and gas in the Outer Continental Shelf, specified items to be included in the investigation, provided for initial and subsequent reports to Congress, and required consultation with the Federal Trade Commission and information to be made available to the Federal Trade Commission, prior to repeal by Pub. L. 99–367, §2(c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the requirement that theSecretary of the Interior provide a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 17th item on page 111 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Secretary of the Interior provide a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 17th item on page 111 of House Document No. 103–7.
 

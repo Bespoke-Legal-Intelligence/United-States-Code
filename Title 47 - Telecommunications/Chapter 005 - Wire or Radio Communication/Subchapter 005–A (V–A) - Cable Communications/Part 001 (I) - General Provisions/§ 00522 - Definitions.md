@@ -2,7 +2,7 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term "activated channels" means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
+&emsp;(1) the term "activated channels" means those channels engineered at the headend of acable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
 
 &emsp;(2) the term "affiliate", when used in relation to any person, means another person who owns or controls, is owned or controlled by, or is under common ownership or control with, such person;
 
@@ -46,11 +46,13 @@ For purposes of this subchapter—
 
 &emsp;(18) the term "State" means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term "usable activated channels" means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term "usable activated channels" means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term "video programming" means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
 (June 19, 1934, ch. 652, title VI, §602, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2780; amended Pub. L. 102–385, §2(c), Oct. 5, 1992, 106 Stat. 1463; Pub. L. 104–104, title III, §§301(a), 302(b)(2), Feb. 8, 1996, 110 Stat. 114, 124.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Par. (7)(C) to (E). Pub. L. 104–104, §302(b)(2)(A), which directed substituti
 Pars. (12) to (20). Pub. L. 104–104, §302(b)(2)(B), (C), added par. (12) and redesignated former pars. (12) to (19) as (13) to (20), respectively.
 
 <b>1992</b>—Pub. L. 102–385 added pars. (1), (12), and (18) and redesignated former pars. (1) to (10) as (2) to (11), respectively, former pars. (11) to (15) as (13) to (17), respectively, and former par. (16) as (19).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

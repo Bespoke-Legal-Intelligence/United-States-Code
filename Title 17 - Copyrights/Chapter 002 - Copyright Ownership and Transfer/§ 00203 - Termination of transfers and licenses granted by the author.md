@@ -28,7 +28,7 @@ Conditions for Termination.—In the case of any work other than a work made for
 
 (b)
 
-Effect of Termination.—Upon the effective date of termination, all rights under this title that were covered by the terminated grantsrevert to the author, authors, and other persons owning termination interests under clauses (1) and (2) of subsection (a), including those owners who did not join in signing the notice of termination under clause (4) of subsection (a), but with the following limitations:
+Effect of Termination.—Upon the effective date of termination, all rights under this title that were covered by the terminated grants revert to the author, authors, and other persons owning termination interests under clauses (1) and (2) of subsection (a), including those owners who did not join in signing the notice of termination under clause (4) of subsection (a), but with the following limitations:
 
 &emsp;(1) A derivative work prepared under authority of the grant before its termination may continue to be utilized under the terms of the grant after its termination, but this privilege does not extend to the preparation after the termination of other derivative works based upon the copyrighted work covered by the terminated grant.
 
@@ -84,7 +84,9 @@ Section 203 would not prevent the parties to a transfer or license from voluntar
 
 Nothing contained in this section or elsewhere in this legislation is intended to extend the duration of any license, transfer or assignment made for a period of less than thirty-five years. If, for example, an agreement provides an earlier termination date or lesser duration, or if it allows the author the right of cancelling or terminating the agreement under certain circumstances, the duration is governed by the agreement. Likewise, nothing in this section or legislation is intended to change the existing state of the law of contracts concerning the circumstances in which an author may cancel or terminate a license, transfer, or assignment.
 
-Section 203(b)(6) provides that, unless and until termination is effected under this section, the grant, "if it does not provide otherwise," continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of fifty years—and the author has not exercised his or her right of termination under the statute, the agreementwill continue according to its terms—in this example, for only fifty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
+Section 203(b)(6) provides that, unless and until termination is effected under this section, the grant, "if it does not provide otherwise," continues for the term of copyright. This section means that, if the agreement does not contain provisions specifying its term or duration, and the author has not terminated the agreement under this section, the agreement continues for the term of the copyright, subject to any right of termination under circumstances which may be specified therein. If, however, an agreement does contain provisions governing its duration—for example, a term of fifty years—and the author has not exercised his or her right of termination under the statute, the agreement will continue according to its terms—in this example, for only fifty years. The quoted language is not to be construed as requiring agreements to reserve the right of termination.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -14,6 +14,8 @@ Report.—Not later than December 31st of each year, the Archivist shall submit 
 
 (Added Pub. L. 108–383, §5(a), Oct. 30, 2004, 118 Stat. 2219.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.

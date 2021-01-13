@@ -12,7 +12,7 @@ The Secretary of Defense and the Secretary of Homeland Security shall develop a 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Pilot Program
 
-Pub. L. 101–510, div. A, title V, §502(d), Nov. 5, 1990, 104 Stat. 1558, required the Secretary of Defense to carryout the program required by this section during fiscal year 1991 at not less than 10 military installations located outside the United States.
+Pub. L. 101–510, div. A, title V, §502(d), Nov. 5, 1990, 104 Stat. 1558, required the Secretary of Defense to carry out the program required by this section during fiscal year 1991 at not less than 10 military installations located outside the United States.
 

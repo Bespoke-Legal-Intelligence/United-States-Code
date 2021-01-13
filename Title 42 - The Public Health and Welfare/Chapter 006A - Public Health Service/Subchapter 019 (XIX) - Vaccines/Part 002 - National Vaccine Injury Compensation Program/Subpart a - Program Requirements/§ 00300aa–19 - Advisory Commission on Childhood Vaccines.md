@@ -46,7 +46,7 @@ The Commission shall—
 
 &emsp;(5) recommend to the Director of the National Vaccine Program research related to vaccine injuries which should be conducted to carry out this part.
 
-(July 1, 1944, ch. 373, title XXI, §2119, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3771; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 102–168, title II, §201(g), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–531, title III, §312(d)(14), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXI, §2119, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3771; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 102–168, title II, §201(g), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–531, title III, §312(d)(14), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Codification
 

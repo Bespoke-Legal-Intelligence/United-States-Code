@@ -14,7 +14,7 @@
 
 (c)(1) Not later than five days after the Secretary receives a complaint submitted by a person under subsection (a), the Secretary shall notify such person in writing of his or her rights with respect to such complaint under this section and section 4323 or 4324, as the case may be.
 
-(2) The Secretary shall, upon request, provide technical assistance to a potential claimantwith respect to a complaint under this subsection, and when appropriate, to such claimant's employer.
+(2) The Secretary shall, upon request, provide technical assistance to a potential claimant with respect to a complaint under this subsection, and when appropriate, to such claimant's employer.
 
 (d) The Secretary shall investigate each complaint submitted pursuant to subsection (a). If the Secretary determines as a result of the investigation that the action alleged in such complaint occurred, the Secretary shall attempt to resolve the complaint by making reasonable efforts to ensure that the person or entity named in the complaint complies with the provisions of this chapter.
 
@@ -29,6 +29,8 @@
 (g) This subchapter does not apply to any action relating to benefits to be provided under the Thrift Savings Plan under title 5.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3164; amended Pub. L. 104–275, title III, §311(9), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 110–389, title III, §311(a)–(c), Oct. 10, 2008, 122 Stat. 4162.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -47,6 +49,8 @@ Subsecs. (f), (g). Pub. L. 110–389, §311(c), added subsec. (f) and redesignat
 Subsec. (e). Pub. L. 104–275, §311(9)(B)(i), substituted "with respect to any complaint filed under subsection (a) do not resolve the complaint," for "with respect to a complaint under subsection (d) are unsuccessful," in introductory provisions.
 
 Subsec. (e)(2). Pub. L. 104–275, §311(9)(B)(ii), inserted "or the Office of Personnel Management" after "Federal executive agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

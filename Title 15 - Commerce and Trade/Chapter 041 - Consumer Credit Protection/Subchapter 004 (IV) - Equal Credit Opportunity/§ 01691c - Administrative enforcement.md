@@ -2,7 +2,7 @@
 
 #### (a) Enforcing agencies
 
-Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 <sup>1</sup> with <sup>2</sup> the requirements imposed under this subchapter shall be enforced under:
+Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 <sup>1</sup> with <sup>2</sup> therequirements imposed under this subchapter shall be enforced under:
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
@@ -36,7 +36,7 @@ For the purpose of the exercise by any agency referred to in subsection (a) of i
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
-Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement imposed under this subchapter <sup>3</sup> shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce any rule prescribed by the Bureau under this subchapter in the same manner as if theviolation had been a violation of a Federal Trade Commission trade regulation rule.
+Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (8) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act (15 U.S.C. 41 et seq.), a violation of any requirement imposed under this subchapter <sup>3</sup> shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act, including the power to enforce any rule prescribed by the Bureau under this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.
 
 #### (d) Rules and regulations by enforcing agencies
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 111–203, §1085(4)(C), substituted "Bureau" for "Board".
 
 <b>1992</b>—Subsec. (a)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(d)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C.1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
+<b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(d)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
 Pub. L. 102–242, §212(d)(1), added par. (1) and struck out former par. (1) which read as follows: "Section 8 of Federal Deposit Insurance Act, in the case of—
 

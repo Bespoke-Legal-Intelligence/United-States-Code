@@ -10,7 +10,7 @@
 
 &emsp;(C) for which air quality criteria had not been issued before December 31, 1970 but for which he plans to issue air quality criteria under this section.
 
-(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects onpublic health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
+(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
 &emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 

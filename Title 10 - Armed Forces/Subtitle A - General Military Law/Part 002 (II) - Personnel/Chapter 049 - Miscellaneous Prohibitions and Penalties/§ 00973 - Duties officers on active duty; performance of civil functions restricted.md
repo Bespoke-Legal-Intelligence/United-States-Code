@@ -26,7 +26,7 @@
 
 &emsp;(i) is prohibited under the laws of that State; or
 
-&emsp;(ii) as determined by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, interferes with the performance of the officer's duties as an officer of the armed forces.
+&emsp;(ii) as determined by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when itis not operating as a service in the Navy, interferes with the performance of the officer's duties as an officer of the armed forces.
 
 (B) Except as otherwise authorized by law, while an officer referred to in subparagraph (A) is serving on active duty, the officer may not exercise the functions of a civil office held by the officer as described in that subparagraph.
 

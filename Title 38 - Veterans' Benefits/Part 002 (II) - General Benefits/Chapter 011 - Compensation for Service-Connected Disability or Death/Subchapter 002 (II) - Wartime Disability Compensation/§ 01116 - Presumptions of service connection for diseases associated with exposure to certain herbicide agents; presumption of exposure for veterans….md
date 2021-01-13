@@ -26,6 +26,12 @@
 
 &emsp;(H) Diabetes Mellitus (Type 2).
 
+&emsp;(I) Parkinsonism.
+
+&emsp;(J) Bladder cancer.
+
+&emsp;(K) Hypothyroidism.
+
 (3) For purposes of this section, the term "herbicide agent" means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
 (b)(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
@@ -50,7 +56,9 @@
 
 (f) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
-(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988.)
+(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, §9109, Jan. 1, 2021, 134 Stat. 4785.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,9 +66,11 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(2)(I) to (K). Pub. L. 116–283 added subpars. (I) to (K).
+
 <b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Presumptions of service connection for diseases associated with exposure to certain herbicide agents".
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out "within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out "within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginningon January 9, 1962, and ending on May 7, 1975" before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -90,6 +100,8 @@ Subsec. (a)(2)(D) to (G). Pub. L. 103–446, §505, added subpars. (D) to (G).
 
 Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted "1110" for "310" and "1113" for "313" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–103, title II, §201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 2002."
@@ -97,6 +109,42 @@ Pub. L. 107–103, title II, §201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provi
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be paid or provided by reason of such amendment for any period before such date, see section 505(d) of Pub. L. 104–275, set out as a note under section 101 of this title.
+
+#### Comptroller General Briefing and Report on Repealing Manifestation Period for Presumptions of Service Connection for Certain Diseases Associated With Exposure to Certain Herbicide Agents
+
+Pub. L. 116–315, title II, §2011, Jan. 5, 2021, 134 Stat. 4979, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Comptroller General of the United States shall provide to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a briefing on preliminary observations of the Comptroller General, and not later than 240 days after the date of such briefing, provide such committees a briefing and submit to such committees a final report, on the efforts of the Secretary of Veterans Affairs to provide benefits, including compensation and health care, to veterans—
+
+&emsp;"(1) who during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+
+&emsp;"(2) in whom chloracne, porphyria cutanea tarda, or acute or subacute peripheral neuropathy have manifested.
+
+"(b)
+
+Elements.—The report required by subsection (a) shall include the following:
+
+&emsp;"(1) A description of how the Secretary establishes a service connection for a diseases described in paragraph (2) of subsection (a) manifesting in veterans, including the number of veterans described in paragraph (1) of such subsection who have filed a claim for a benefit associated with a disease described in paragraph (2) of such subsection.
+
+&emsp;"(2) A description of how claims adjudicators of the Department of Veterans Affairs determine service connection for a disease described in subparagraph (C) or (E) of section 1116(a)(2) of title 38, United States Code, when documentation proving the presence of the disease during the manifestation period set forth in such subparagraphs for the disease is not available.
+
+&emsp;"(3) A description of the expected effect of repealing the manifestation period from such subparagraphs, including the expected effect on the number of claims for benefits the Department will receive, an estimate of the cost to the Department of such repeal, and a review of the scientific evidence regarding such repeal.
+
+&emsp;"(4) A review of all claims submitted to the Secretary for compensation under chapter 11 of such title that are associated with a disease described in subsection (a)(2), including the type of proof presented to establish a service connection for the manifestation of the disease based on exposure to a herbicide agent.
+
+&emsp;"(5) Recommendations on how the Department can better adjudicate claims for benefits, including compensation, submitted to the Department that are associated with a disease described in paragraph (2) of subsection (a) for veterans described in paragraph (1) of such subsection.
+
+&emsp;"(6) An assessment of such other areas as the Comptroller General considers appropriate to study.
+
+"(c)
+
+Administrative Action.—Not later than 120 days after the date on which the Comptroller General of the United States submits the report required under subsection (a), the Secretary shall commence carrying out the recommendations submitted under subsection (b)(5) to the degree that the Secretary is authorized to carry out the recommendations by a statute that was in effect on the day before the date of the enactment of this Act.
+
+"(d)
+
+Herbicide Agent Defined.—In this section, the term 'herbicide agent' has the meaning given such term in section 1116(a)(3) of title 38, United States Code."
 
 #### Toxic Exposure
 
@@ -116,7 +164,7 @@ Descendant.—The term 'descendant' means, with respect to an individual, the bi
 
 &emsp;"(3)
 
-Toxic exposure.—The term 'toxic exposure' means a condition in which an individual inhaled or ingested an agent determined to be hazardous to the health of the individual or the agent came in contact with the skin or eyes of the individual in a manner that could be hazardous to the health of the individual.
+Toxic exposure.—The term 'toxic exposure' means a condition in which an individual inhaled or ingested an agent determined to be hazardous to thehealth of the individual or the agent came in contact with the skin or eyes of the individual in a manner that could be hazardous to the health of the individual.
 
 &emsp;"(4)
 
@@ -326,7 +374,7 @@ Research.—
 
 &emsp;"(1)
 
-In general.—To the extent included in the research strategy developed by the Advisory Boardunder section 633(c)(3), the research entity or entities shall conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces.
+In general.—To the extent included in the research strategy developed by the Advisory Board under section 633(c)(3), the research entity or entities shall conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces.
 
 &emsp;"(2)
 
@@ -368,7 +416,7 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 
 &emsp;"(3)
 
-Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
+Upon request.—Upon the request of any organization exempt from taxation under section501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
 
 #### Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent
 
@@ -390,7 +438,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, §410, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, §127, Sept. 29, 2018, 132 Stat. 3170, provided that:
+Pub. L. 102–4, §3, Feb. 6, 1991, 105 Stat. 13, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988; Pub. L. 113–175, title IV, §407, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §408, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §411, Sept. 29, 2016, 130 Stat. 941; Pub. L. 115–62, title IV, §410, Sept. 29, 2017, 131 Stat. 1165; Pub. L. 115–251, title I, §127, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–159, div. E, title IV, §5404, Oct. 1, 2020, 134 Stat. 751, provided that:
 
 "(a)
 
@@ -440,7 +488,7 @@ Limitation on Authority.—The authority to enter into agreements under this sec
 
 "(i)
 
-Sunset.—This section shall cease to be effective on September 30, 2020.
+Sunset.—This section shall cease to be effective on September 30, 2022.
 
 "(j)
 
@@ -672,7 +720,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 &emsp;"(B) containing the Director's conclusions regarding the scientific validity and objectivity of the protocol.
 
-"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day periodbeginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
+"(2) If the Director has not approved a protocol under subsection (b)(1) by the last day of the 180-day period beginning on the date of the enactment of this Act \[Apr. 7, 1986\], the Director—
 
 &emsp;"(A) shall, on such day, submit to the appropriate committees of the Congress a report describing the reasons why the Director has not approved such a protocol; and
 

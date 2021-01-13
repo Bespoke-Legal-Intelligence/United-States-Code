@@ -144,7 +144,7 @@ In the case of a transfer of property to which this section applies or a cancell
 
 #### (B) Limitation
 
-&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash inlieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
+&emsp;&emsp;The term "qualified stock" shall not include any stock if the employee may sell such stock to, or otherwise receive cash in lieu of stock from, the corporation at the time that the rights of the employee in such stock first become transferable or not subject to a substantial risk of forfeiture.
 
 #### (C) Eligible corporation
 
@@ -290,7 +290,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(3) and (i)(3)(B
 
 &emsp;"(4) before January 1, 1973, upon the exercise of an option granted pursuant to a binding written contract entered into before April 22, 1969, between a corporation and the transferor requiring the transferor to grant options to employees of such corporation (or a subsidiary of such corporation) to purchase a determinable number of shares of stock of such corporation, but only if the transferee was an employee of such corporation (or a subsidiary of such corporation) on or before April 22, 1969, or
 
-&emsp;"(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantiallysimilar to those to which the property given in such exchange was subject."
+&emsp;"(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject."
 
 <b>1986</b>—Subsec. (e)(5). Pub. L. 99–514 struck out "the cost of" before "group-life insurance".
 
@@ -382,7 +382,7 @@ Statute of limitations.—
 
 &emsp;"(A)
 
-Overpayments.—If refund or credit of any overpayment of tax resulting from the application ofparagraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
+Overpayments.—If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act \[Oct. 22, 1986\] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
 
 &emsp;"(B)
 
@@ -390,7 +390,7 @@ Deficiencies.—If the assessment of any deficiency of tax resulting from the ap
 
 #### Time for Making Certain Section 83(b) Elections
 
-Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: "In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986 if—
+Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: "In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\] if—
 
 &emsp;"(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
 
@@ -400,5 +400,5 @@ Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amende
 
 #### Property Subject to Transfer Restrictions To Comply With "Pooling-of-Interests Accounting" Rules
 
-Pub. L. 97–34, title II, §252(b), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: "For purposes of section 83 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the "Pooling-of-Interests Accounting" rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135)."
+Pub. L. 97–34, title II, §252(b), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: "For purposes of section 83 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the 'Pooling-of-Interests Accounting' rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135)."
 

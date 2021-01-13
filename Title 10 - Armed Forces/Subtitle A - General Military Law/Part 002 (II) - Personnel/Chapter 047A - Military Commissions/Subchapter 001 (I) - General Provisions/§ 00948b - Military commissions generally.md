@@ -10,13 +10,13 @@ Authority for Military Commissions Under This Chapter.—The President is author
 
 (c)
 
-Construction of Provisions.—The procedures for military commissions set forth in thischapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
+Construction of Provisions.—The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
 
 (d)
 
 Inapplicability of Certain Provisions.—(1) The following provisions of this title shall not apply to trial by military commission under this chapter:
 
-&emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
+&emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedytrial, including any rule of courts-martial relating to speedy trial.
 
 &emsp;(B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 

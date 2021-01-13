@@ -18,9 +18,13 @@ Mandatory provisions were rephrased in the alternative.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $300" in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -34,5 +38,5 @@ Pub. L. 107–204, title VIII, §801, July 30, 2002, 116 Stat. 800, provided tha
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–291, §1, Oct. 12, 1982, 96 Stat. 1248, provided: "That this Act \[enacting sections 1512 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Civil Procedure, and enacting provisions set out as notes under sections 1512 and 3579 of this title\] may be cited as the 'Victim and Witness Protection Act of 1982'."
+Pub. L. 97–291, §1, Oct. 12, 1982, 96 Stat. 1248, provided: "That this Act \[enacting sections 1512 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Civil Procedure, and enacting provisions set out asnotes under sections 1512 and 3579 of this title\] may be cited as the 'Victim and Witness Protection Act of 1982'."
 

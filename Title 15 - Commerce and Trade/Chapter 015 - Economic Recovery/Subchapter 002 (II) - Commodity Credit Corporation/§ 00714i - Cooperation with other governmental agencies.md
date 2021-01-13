@@ -6,7 +6,7 @@ The Corporation may, with the consent of the agency concerned, accept and utiliz
 
 #### References in Text
 
-The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title X of the Act enacted subchapter VII of chapter 38and sections 1627c and 6521a of Title 7, Agriculture, amended this section and sections 136a, 1622b, 1632a, 1632b, 2204h, 2207b, 2276, 2401, 2402, 2541, 2568, 3003, 5925c, 6502, 6514, 6515, 6518, 6519, 6521–6523, and 7655a of Title 7, repealed sections 3005 and 3006 of Title 7, enacted provisions set out as notes under sections 1627c, 1639o, 6503, and 6521a of Title 7, and amended provisions set out as a note under section 1621 of Title 7. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of Title 7 and Tables.
+The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title X of the Act enacted subchapter VII of chapter 38 and sections 1627c and 6521a of Title 7, Agriculture, amended this section and sections 136a, 1622b, 1632a, 1632b, 2204h, 2207b, 2276, 2401, 2402, 2541, 2568, 3003, 5925c, 6502, 6514, 6515, 6518, 6519, 6521–6523, and 7655a of Title 7, repealed sections 3005 and 3006 of Title 7, enacted provisions set out as notes under sections 1627c, 1639o, 6503, and 6521a of Title 7, and amended provisions set out as a note under section 1621 of Title 7. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of Title 7 and Tables.
 
 #### Amendments
 

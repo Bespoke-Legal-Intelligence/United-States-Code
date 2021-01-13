@@ -10,7 +10,7 @@ In order to further the efficient use of United States voluntary contributions f
 
 #### (c) Reimbursement for transportation charges
 
-Reimbursement under this section may be provided for transportation charges on shipments from United States ports, or in the case of excess or surplus property supplied by the United States from foreign ports, to ports of entry abroad or to points of entry abroad in cases (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specified country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports.
+Reimbursement under this section may be provided for transportation charges on shipmentsfrom United States ports, or in the case of excess or surplus property supplied by the United States from foreign ports, to ports of entry abroad or to points of entry abroad in cases (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specified country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports.
 
 #### (d) Arrangements with receiving country for free entry of shipments and for availability of local currency to defray transportation costs
 
@@ -32,15 +32,13 @@ The Congress recognizes that, in addition to their role in social and economic d
 
 (Pub. L. 87–195, pt. I, §123, as added Pub. L. 95–424, title I, §102(e), Oct. 6, 1978, 92 Stat. 941; amended Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 96–533, title III, §307, Dec. 16, 1980, 94 Stat. 3147; Pub. L. 97–113, title III, §309, Dec. 29, 1981, 95 Stat. 1535; Pub. L. 99–83, title III, §§309, 310, Aug. 8, 1985, 99 Stat. 215; Pub. L. 101–513, title V, §562(d)(6), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–156.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 2151s of this title, referred to in subsec. (f), was repealed by Pub. L. 101–513, title V, §562(d)(5), Nov. 5, 1990, 104 Stat. 2031.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -68,6 +66,12 @@ Subsec. (e). Pub. L. 96–533, §307(3), added subsec. (e).
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–53 substituted "Agency for International Development" for "Advisory Committee on Voluntary Foreign Aid".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -79,10 +83,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Private and Volunteer Organizations
 
@@ -160,7 +160,13 @@ Pub. L. 95–424, title I, §122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub.
 
 "(b) \[Repealed. Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.\]"
 
-\[African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of this title.\]
+\[African Development Foundation changed to United States African Development Foundation by Pub. L.113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

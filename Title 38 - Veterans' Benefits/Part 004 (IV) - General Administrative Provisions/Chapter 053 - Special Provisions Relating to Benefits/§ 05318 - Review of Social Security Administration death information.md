@@ -12,13 +12,15 @@
 
 (Added Pub. L. 101–508, title VIII, §8053(b)(1), Nov. 5, 1990, 104 Stat. 1388–352, §3118; renumbered §5318, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 108–183, title VII, §708(c)(4)(A), (B)(i), Dec. 16, 2003, 117 Stat. 2674.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–183, §708(c)(4)(B)(i), substituted "Social Security Administration" for "Department of Health and Human Services" in section catchline.
 
 Subsec. (a). Pub. L. 108–183, §708(c)(4)(A)(i), substituted "Social Security Administration" for "Department of Health and Human Services" in introductory provisions.
 
-Subsec. (b). Pub. L. 108–183, §708(c)(4)(A)(ii), substituted "Social Security Administration" for "Department of Health and Human Services", "Commissioner of Social Security" for "Secretary of Health and Human Services" after "through the", "Commissioner" for "Secretary of Health and Human Services" after "available to the", and "the Secretary and the Commissioner" for "such Secretaries".
+Subsec. (b). Pub. L. 108–183, §708(c)(4)(A)(ii), substituted "Social Security Administration" for "Department of Health and Human Services", "Commissioner of Social Security" for "Secretary of Health and Human Services" after "through the", "Commissioner" for "Secretary of Health and Human Services" after"available to the", and "the Secretary and the Commissioner" for "such Secretaries".
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 3118 of this title as this section.
 

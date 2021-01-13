@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
+&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or anyindependent regulatory agency, but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -74,7 +74,7 @@ As used in this subchapter—
 
 &emsp;(18) the term "machine-readable", when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost;
 
-&emsp;(19) the term "metadata" means structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
+&emsp;(19) the term "metadata" means structural or descriptive information about data such ascontent, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
 
 &emsp;(20) the term "open Government data asset" means a public data asset that is—
 
@@ -97,6 +97,8 @@ As used in this subchapter—
 &emsp;(23) the term "statistical laws" means subchapter III of this chapter and other laws pertaining to the protection of information collected for statistical purposes as designated by the Director.
 
 (Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(l)(4), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 110–289, div. A, title II, §1216(e), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §315, title X, §1100D(a), July 21, 2010, 124 Stat. 1524, 2111; Pub. L. 115–435, title II, §202(a), Jan. 14, 2019, 132 Stat. 5534.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -126,6 +128,8 @@ Pub. L. 111–203, §315, inserted "Office of the Comptroller of the Currency," 
 
 <b>1996</b>—Par. (9). Pub. L. 104–106 added par. (9) and struck out former par. (9) which read as follows: "the term 'information technology' has the same meaning as the term 'automatic data processing equipment' as defined by section 111(a)(2) and (3)(C)(i) through (v) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2) and (3)(C)(i) through (v));".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under section 306 of Title 5, Government Organization and Employees.
@@ -150,5 +154,5 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

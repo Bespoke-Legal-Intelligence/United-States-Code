@@ -22,9 +22,11 @@ The applicable accounts of the House of Representatives are made available to ca
 
 #### (d) Orientation programs for new Members
 
-With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall applywith respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (b) and (c) shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
 
 (Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, §202(4), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, §107(a), (b)(1), (c)(1), Dec. 8, 2004, 118 Stat. 3176.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 108–447, §107(c)(1), added subsec. (d).
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted "House Oversight" for "House Administration" in two places.
 
 Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted "applicable accounts of the House of Representatives are" for "contingent fund of the House is".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) invested by the Indian tribe or tribal organization only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States, or securities that are guaranteed or insured by the United States; or
 
-&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralizedto ensure protection of the funds, even in the event of a bank failure.
+&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 
 #### (c) Recoveries
 
@@ -50,9 +50,13 @@ For the purposes of underrecovery and overrecovery determinations by any Federal
 
 (Pub. L. 100–297, title V, §5207, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2074.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 2506, Pub. L. 100–297, title V, §5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, §12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.
+A prior section 2506, Pub. L. 100–297, title V, §5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, §12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.Q04
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

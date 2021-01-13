@@ -28,6 +28,8 @@ Federal financial assistance made available to public or private schools because
 
 (Pub. L. 99–570, title IV, §4212, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2206, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(4), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(b), July 29, 2010, 124 Stat. 2289.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207, known as the Anti-Drug Abuse Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
@@ -46,7 +48,7 @@ Pub. L. 111–211, §241(b), which directed amendment of "\[s\]ection 4212 of th
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Assistant Secretary of Indian Affairs shall develop and implement pilot programs in selected schools funded by the Bureau of Indian Affairs (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in furthering the purposes and goals of this chapter. The Assistant Secretary shall defray all costs associated with the actual operation and support of the pilot programs in the school from funds appropriated for this section. For the pilot programs there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000." See Codification note above.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 added subsec. (a) and struck out former subsec. (a). Prior to amendment, textread as follows: "The Assistant Secretary of Indian Affairs shall develop and implement pilot programs in selected schools funded by the Bureau of Indian Affairs (subject to the approval of the local school board or contract school board) to determine the effectiveness of summer youth programs in furthering the purposes and goals of this chapter. The Assistant Secretary shall defray all costs associated with the actual operation and support of the pilot programs in the school from funds appropriated for this section. For the pilot programs there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000." See Codification note above.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–573 substituted "1993, 1994, 1995, 1996, 1997, 1998, 1999, and 2000" for "1989, 1990, 1991, and 1992".
 

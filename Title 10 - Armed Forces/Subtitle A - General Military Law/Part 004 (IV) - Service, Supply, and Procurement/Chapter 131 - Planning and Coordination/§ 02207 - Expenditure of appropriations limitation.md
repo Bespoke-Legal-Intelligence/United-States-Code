@@ -12,6 +12,10 @@
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 104–106, div. A, title VIII, §801, Feb. 10, 1996, 110 Stat. 389; Pub. L. 111–350, §5(b)(5), Jan. 4, 2011, 124 Stat. 3842.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1862(b), Jan. 1, 2021, 134 Stat. 4151, 4277, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 363 of this title, as amended by section 1862(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such chapter, and redesignated as section 4651 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 Historical and Revision Notes
 
 <i>Revised section</i>
@@ -33,4 +37,8 @@ The following substitutions are made: "spent" for "expended"; "United States" fo
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))".
 
 <b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

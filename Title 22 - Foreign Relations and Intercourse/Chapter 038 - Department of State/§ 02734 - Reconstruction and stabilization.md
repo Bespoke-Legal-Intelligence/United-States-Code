@@ -40,7 +40,7 @@
 
 #### (2) Civilian Reserve Corps
 
-&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development, may establish a Civilian Reserve Corps for which purpose the Secretary is authorized to employ and train individuals who have the skills necessary for carrying out reconstruction and stabilization activities, and who have volunteered for that purpose. The Secretary may deploy membersof the Civilian Reserve Corps pursuant to a determination by the President under section 2368 of this title.
+&emsp;The Secretary, in consultation with the Administrator of the United States Agency for International Development, may establish a Civilian Reserve Corps for which purpose the Secretary is authorized to employ and train individuals who have the skills necessary for carrying out reconstruction and stabilization activities, and who have volunteered for that purpose. The Secretary may deploy members of the Civilian Reserve Corps pursuant to a determination by the President under section 2368 of this title.
 
 #### (3) Mitigation of domestic impact
 
@@ -52,11 +52,15 @@ The Secretary shall ensure that personnel of the Department, and, in coordinatio
 
 (Aug. 1, 1956, ch. 841, title I, §62, as added Pub. L. 110–417, \[div. A\], title XVI, §1605, Oct. 14, 2008, 122 Stat. 4654.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Reconstruction and Stabilization Civilian Management Act of 2008, referred to in subsec. (a)(3)(B), (E), is Pub. L. 110–417, \[div. A\], title XVI, Oct. 14, 2008, 122 Stat. 4652, which enacted this section, sections 2368 and 2734a of this title, and provisions set out as notes under sections 2151, 2368, and 2734a of this title. Section 1603 of the Act is set out as a note under section 2734a of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
 This Act, referred to in subsec. (b)(1), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

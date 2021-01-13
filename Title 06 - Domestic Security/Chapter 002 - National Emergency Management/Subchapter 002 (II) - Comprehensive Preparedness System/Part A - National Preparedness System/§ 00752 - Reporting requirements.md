@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(E) additional logistics capabilities;
 
-&emsp;&emsp;(F) other responsibilities under the catastrophic incident annex and the catastrophicincident supplement of the National Response Plan;
+&emsp;&emsp;(F) other responsibilities under the catastrophic incident annex and the catastrophic incident supplement of the National Response Plan;
 
 &emsp;&emsp;(G) State, local, and tribal government catastrophic incident preparedness; and
 
@@ -81,6 +81,8 @@
 &emsp;&emsp;&emsp;(ii) the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
 
 (Pub. L. 109–295, title VI, §652, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title I, §103, title IV, §406, Aug. 3, 2007, 121 Stat. 293, 304.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

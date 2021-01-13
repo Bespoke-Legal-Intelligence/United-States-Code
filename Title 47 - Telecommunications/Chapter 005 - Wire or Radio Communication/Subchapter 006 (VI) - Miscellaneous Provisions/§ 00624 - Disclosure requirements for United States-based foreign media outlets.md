@@ -2,7 +2,7 @@
 
 #### (a) Reports by outlets to Commission
 
-Not later than 60 days after August 13, 2018, and not less frequently than every 6 months thereafter, a United States-based foreign media outlet shall submit to the Commission a report that contains the following information:
+Not later than 60 days after August 13, 2018, and not less frequently than every 6 monthsthereafter, a United States-based foreign media outlet shall submit to the Commission a report that contains the following information:
 
 &emsp;(1) The name of such outlet.
 
@@ -37,6 +37,8 @@ In this section:
 &emsp;&emsp;(B) would be an agent of a foreign principal (as defined in paragraph (1)) for purposes of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.) but for section 1(d) of such Act (22 U.S.C. 611(d)).
 
 (June 19, 1934, ch. 652, title VII, §722, as added Pub. L. 115–232, div. A, title X, §1085, Aug. 13, 2018, 132 Stat. 1991.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

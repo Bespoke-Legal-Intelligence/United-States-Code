@@ -4,6 +4,8 @@ The Mine Safety and Health Administration may retain up to $2,499,000 in this fi
 
 (Pub. L. 113–76, div. H, title I, Jan. 17, 2014, 128 Stat. 357.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This fiscal year, referred to in text, is fiscal year 2014.
@@ -12,9 +14,13 @@ This fiscal year, referred to in text, is fiscal year 2014.
 
 Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Similar Provisions
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
 
 Pub. L. 116–94, div. A, title I, Dec. 20, 2019, 133 Stat. 2547.
 

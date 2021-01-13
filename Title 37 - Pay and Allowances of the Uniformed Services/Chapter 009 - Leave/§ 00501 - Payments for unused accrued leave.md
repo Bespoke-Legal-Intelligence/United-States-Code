@@ -12,7 +12,7 @@
 
 &emsp;(5) in the case of an enlisted member of a reserve component who is not serving on active duty, termination of enlistment in conjunction with the commencement of a successive enlistment, or appointment as an officer.
 
-(b)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to his credit at the time of his discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which he was entitled on the date of discharge.
+(b)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to the member's credit at the time of the member's discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which the member was entitled on the date of discharge.
 
 (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant in any uniformed service.
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation;
 
-&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
+&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
 
 &emsp;(D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
@@ -38,13 +38,13 @@
 
 (2) The limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection.
 
-(e)(1) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
+(e)(1) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.
 
 (2) The Secretary concerned may require that a member of a uniformed service who is discharged before completing six months of active duty because of a failure to serve satisfactorily (as determined by the Secretary concerned) forfeit all accrued leave to his credit at the time of his discharge.
 
 (f) The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
 
-(g) An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
+(g) An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps <sup>1</sup> of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
 
 &emsp;(1) whose appointment expires or is terminated and who, without a break in active service, accepts a new appointment;
 
@@ -56,7 +56,7 @@
 
 (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, §651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, §551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, §516(b), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title X, §1076(h)(3), Jan. 2, 2013, 126 Stat. 1955.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, §651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, §551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, §516(b), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title X, §1076(h)(3), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 116–283, div. A, title IX, §925(g)(1)(A), (2), (3)(A), Jan. 1, 2021, 134 Stat. 3827, 3828.)
 
 Historical and Revision Notes
 
@@ -126,7 +126,17 @@ In subsection (f), the words "cash" and "unused or accumulated" are omitted as s
 
 In subsection (g), the word "retirement" is omitted as covered by the words "separation or release from active duty". The words "under this subsection" are substituted for the words "for such unused leave". The word "appointment" is substituted for the word "commission".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283, §925(g)(3)(A), substituted "the member's" for "his" in two places and "the member" for "he".
+
+Pub. L. 116–283, §925(g)(1)(A), which directed insertion of "Space Force," after "Marines Corps,", was executed by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
+
+Subsec. (b)(5)(C). Pub. L. 116–283, §925(g)(2), substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps".
+
+Subsec. (e)(1). Pub. L. 116–283, §925(g)(1)(A), which directed insertion of "Space Force," after "Marines Corps,", was executed by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
 
 <b>2013</b>—Subsec. (a)(5). Pub. L. 112–239 substituted "a reserve component" for "a reserve a component".
 
@@ -164,7 +174,7 @@ Subsec. (g). Pub. L. 100–26, §8(e)(9), inserted "the term" before " 'accumul
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–525, §606(a), designated existing provisions as par. (1) and added par. (2).
 
-<b>1980</b>—Subsec. (b)(3). Pub. L. 96–513, §516(14)(A), substituted "September 1, 1976" for "the first day of thesecond calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted".
+<b>1980</b>—Subsec. (b)(3). Pub. L. 96–513, §516(14)(A), substituted "September 1, 1976" for "the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted".
 
 Subsec. (d). Pub. L. 96–513, §516(14)(B), substituted "unused" for "unusued".
 
@@ -195,6 +205,12 @@ Subsec. (d). Pub. L. 89–718, §65, substituted "60" for "sixty".
 <b>1965</b>—Subsec. (a)(1). Pub. L. 89–151, §1, added subpar. (C).
 
 Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2001 Amendment
 
@@ -257,4 +273,6 @@ Regulations.—The Secretary of Defense shall prescribe regulations establishing
 #### Options of Members as to Basis of Payment for Accrued Leave
 
 Pub. L. 94–361, title III, §304(h), July 14, 1976, 90 Stat. 926, provided that: "Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month \[July, 1976\] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted".
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

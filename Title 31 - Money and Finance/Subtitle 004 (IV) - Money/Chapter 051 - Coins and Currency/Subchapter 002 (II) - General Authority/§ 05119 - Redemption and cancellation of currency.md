@@ -26,7 +26,7 @@ Redemption, cancellation, and destruction of currency.—The Secretary shall—
 
 (c)(1) The Secretary may determine the amount of the following United States currency that will not be presented for redemption because the currency has been destroyed or irretrievably lost:
 
-&emsp;(A) circulating notes of Federal reserve banks and national banks issued before July 1, 1929, for which the United States Government has assumed liability.
+&emsp;(A) circulating notes of Federal reserve banks and national banks issued before July 1,1929, for which the United States Government has assumed liability.
 
 &emsp;(B) outstanding currency referred to in subsection (b)(1) of this section.
 
@@ -119,6 +119,8 @@ In subsection (b)(2), the words "cancel and destroy" are substituted for "retire
 In subsection (c)(2), the words "When the Secretary makes a determination under this subsection" are added because of the restatement. The words "on the books of the Treasury" are omitted as surplus. The text of 31:405(e)(2)(1st sentence) is omitted as superseded by the source provisions restated in subsection (b).
 
 In subsection (d), the word "paper" is omitted as surplus. The words "(including circulating notes of Federal Reserve banks and national banks)" are substituted for "including bank notes" for consistency in the section. The words "heretofore or hereafter issued" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

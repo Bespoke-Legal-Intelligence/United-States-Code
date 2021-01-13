@@ -18,7 +18,7 @@ In this section:
 
 #### (b) Establishment
 
-There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
+There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of transformative science and technology solutions to address the energy and environmental missions of the Department.
 
 #### (c) Goals
 
@@ -26,19 +26,23 @@ There is established the Advanced Research Projects Agency—Energy within the D
 
 &emsp;The goals of ARPA-E shall be—
 
-&emsp;&emsp;(A) to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+&emsp;&emsp;(A) to enhance the economic and energy security of the United States through the development of energy technologies that—
 
-&emsp;&emsp;&emsp;(i) reductions of imports of energy from foreign sources;
+&emsp;&emsp;&emsp;(i) reduce imports of energy from foreign sources;
 
-&emsp;&emsp;&emsp;(ii) reductions of energy-related emissions, including greenhouse gases; and
+&emsp;&emsp;&emsp;(ii) reduce energy-related emissions, including greenhouse gases;
 
-&emsp;&emsp;&emsp;(iii) improvement in the energy efficiency of all economic sectors; and
+&emsp;&emsp;&emsp;(iii) improve the energy efficiency of all economic sectors;
+
+&emsp;&emsp;&emsp;(iv) provide transformative solutions to improve the management, clean-up, and disposal of radioactive waste and spent nuclear fuel; and
+
+&emsp;&emsp;&emsp;(v) improve the resilience, reliability, and security of infrastructure to produce, deliver, and store energy; and
 
 &emsp;&emsp;(B) to ensure that the United States maintains a technological lead in developing and deploying advanced energy technologies.
 
 #### (2) Means
 
-&emsp;ARPA-E shall achieve the goals established under paragraph (1) through energy technology projects by—
+&emsp;ARPA-E shall achieve the goals established under paragraph (1) through advanced technology projects by—
 
 &emsp;&emsp;(A) identifying and promoting revolutionary advances in fundamental and applied sciences;
 
@@ -74,7 +78,7 @@ The responsibilities of the Director shall include—
 
 &emsp;(3) administering the Fund through awards to institutions of higher education, companies, research foundations, trade and industry research collaborations, or consortia of such entities, which may include federally-funded research and development centers, to achieve the goals described in subsection (c) through targeted acceleration of—
 
-&emsp;&emsp;(A) novel early-stage energy research with possible technology applications;
+&emsp;&emsp;(A) novel early-stage research with possible technology applications;
 
 &emsp;&emsp;(B) development of techniques, processes, and technologies, and related testing and evaluation;
 
@@ -150,7 +154,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 &emsp;&emsp;&emsp;(ii) fix the basic pay of such personnel at a rate to be determined by the Director at rates not in excess of Level II of the Executive Schedule (EX–II) without regard to the civil service laws; and
 
-&emsp;&emsp;&emsp;(iii) pay any employee appointed under this subpart <sup>1</sup> payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subpart <sup>1</sup> for any 12-month period shall not exceed the least of the following amounts:
+&emsp;&emsp;&emsp;(iii) pay any employee appointed under this subparagraph payments in addition to basic pay, except that the total amount of additional payments paid to an employee under this subparagraph for any 12-month period shall not exceed the least of the following amounts:
 
 &emsp;&emsp;&emsp;&emsp;(I) $25,000.
 
@@ -164,7 +168,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contractwith private recruiting firms for the hiring of qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 
@@ -174,17 +178,27 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (1) Annual report
 
-&emsp;As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+&emsp;As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report that—
+
+&emsp;&emsp;(A) describes projects supported by ARPA–E during the previous fiscal year;
+
+&emsp;&emsp;(B) describes projects supported by ARPA–E during the previous fiscal year that examine topics and technologies closely related to other activities funded by the Department, and includes an analysis of whether in supporting such projects, the Director is in compliance with subsection (i)(1); and
+
+&emsp;&emsp;(C) describes current, proposed, and planned projects to be carried out pursuant to subsection (e)(3)(D).
 
 #### (2) Strategic vision roadmap
 
-&emsp;Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years.
+&emsp;Not later than October 1, 2021, and every four years thereafter, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA–E will use to guide the choices of ARPA–E for future technology investments over the following 4 fiscal years.
 
 #### (i) Coordination and nonduplication
 
 #### (1) In general
 
-&emsp;To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies.
+&emsp;To the maximum extent practicable, the Director shall ensure that—
+
+&emsp;&emsp;(A) the activities of ARPA–E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies; and
+
+&emsp;&emsp;(B) ARPA–E does not provide funding for a project unless the prospective grantee demonstrates sufficient attempts to secure private financing or indicates that the project is not independently commercially viable.
 
 #### (2) Technology Transfer Coordinator
 
@@ -220,13 +234,13 @@ The Director shall seek opportunities to partner with purchasing and procurement
 
 #### (1) In general
 
-&emsp;After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E.
+&emsp;Not later than 3 years after December 27, 2020, the Secretary is authorized to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA–E is achieving the goals and mission of ARPA–E.
 
 #### (2) Inclusions
 
-&emsp;The evaluation shall include—
+&emsp;The evaluation may include—
 
-&emsp;&emsp;(A) the recommendation of the National Academy of Sciences on whether ARPA-E should be continued or terminated; and
+&emsp;&emsp;(A) a recommendation on whether ARPA-E should be continued or terminated; and
 
 &emsp;&emsp;(B) a description of lessons learned from operation of ARPA-E, and the manner in which those lessons may apply to the operation of other programs of the Department.
 
@@ -266,17 +280,17 @@ The following types of information collected by ARPA–E from recipients of fina
 
 #### (2) Authorization of appropriations
 
-&emsp;Subject to paragraphs (4) and (5),<sup>2</sup> there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
+&emsp;Subject to paragraph (4), there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
 
-&emsp;&emsp;(A) $300,000,000 for fiscal year 2008;
+&emsp;&emsp;(A) $435,000,000 for fiscal year 2021;
 
-&emsp;&emsp;(B) such sums as are necessary for each of fiscal years 2009 and 2010;
+&emsp;&emsp;(B) $500,000,000 for fiscal year 2022;
 
-&emsp;&emsp;(C) $300,000,000 for fiscal year 2011;
+&emsp;&emsp;(C) $575,000,000 for fiscal year 2023;
 
-&emsp;&emsp;(D) $306,000,000 for fiscal year 2012; and
+&emsp;&emsp;(D) $662,000,000 for fiscal year 2024; and
 
-&emsp;&emsp;(E) $312,000,000 for fiscal year 2013.
+&emsp;&emsp;(E) $761,000,000 for fiscal year 2025.
 
 #### (3) Separate budget and appropriation
 
@@ -294,19 +308,55 @@ The following types of information collected by ARPA–E from recipients of fina
 
 &emsp;&emsp;(A) not more than 50 percent of the amount shall be used to carry out subsection (e)(3)(D);
 
-&emsp;&emsp;(B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
+&emsp;&emsp;(B) at least 5 percent of the amount shall be used for technology transfer and outreach activities, consistent with the goal described in subsection (c)(2)(C) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii); and
 
 &emsp;&emsp;(C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
 
-(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045; Pub. L. 115–246, title II, §202, Sept. 28, 2018, 132 Stat. 3134.)
+(Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045; Pub. L. 115–246, title II, §202, Sept. 28, 2018, 132 Stat. 3134; Pub. L. 116–260, div. Z, title X, §10001, Dec. 27, 2020, 134 Stat. 2609.)
 
 #### References in Text
 
 Level II of the Executive Schedule, referred to in subsec. (g)(3)(A)(ii), is set out in section 5313 of Title 5, Government Organization and Employees.
 
-Par. (5), referred to in subsec. (o)(2), was redesignated par. (4) of this section and former par. (4) was struck out by Pub. L. 111–358, title IX, §904(10)(B), (C), Jan. 4, 2011, 124 Stat. 4048.
-
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260, §10001(a), substituted "development of transformative science and technology solutions to address the energy and environmental missions of the Department" for "development of energy technologies".
+
+Subsec. (c)(1)(A). Pub. L. 116–260, §10001(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "to enhance the economic and energy security of the United States through the development of energy technologies that result in—
+
+&emsp;"(i) reductions of imports of energy from foreign sources;
+
+&emsp;"(ii) reductions of energy-related emissions, including greenhouse gases; and
+
+&emsp;"(iii) improvement in the energy efficiency of all economic sectors; and".
+
+Subsec. (c)(2). Pub. L. 116–260, §10001(b)(2), substituted "advanced technology projects" for "energy technology projects" in introductory provisions.
+
+Subsec. (e)(3)(A). Pub. L. 116–260, §10001(c), struck out "energy" before "research".
+
+Subsec. (g)(3)(A)(iii). Pub. L. 116–260, §10001(h)(1), substituted "subparagraph" for "subpart" in two places in introductory provisions.
+
+Subsec. (h). Pub. L. 116–260, §10001(d), amended subsec. (h) generally. Prior to amendment, text read as follows:
+
+&emsp;"(1)
+
+Annual report.—As part of the annual budget request submitted for each fiscal year, the Director shall provide to the relevant authorizing and appropriations committees of Congress a report describing projects supported by ARPA-E during the previous fiscal year.
+
+&emsp;"(2)
+
+Strategic vision roadmap.—Not later than October 1, 2010, and October 1, 2013, the Director shall provide to the relevant authorizing and appropriations committees of Congress a roadmap describing the strategic vision that ARPA-E will use to guide the choices of ARPA-E for future technology investments over the following 3 fiscal years."
+
+Subsec. (i)(1). Pub. L. 116–260, §10001(e), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To the maximum extent practicable, the Director shall ensure that the activities of ARPA-E are coordinated with, and do not duplicate the efforts of, programs and laboratories within the Department and other relevant research agencies."
+
+Subsec. (l)(1). Pub. L. 116–260, §10001(f)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "After ARPA-E has been in operation for 6 years, the Secretary shall offer to enter into a contract with the National Academy of Sciences under which the National Academy shall conduct an evaluation of how well ARPA-E is achieving the goals and mission of ARPA-E."
+
+Subsec. (l)(2). Pub. L. 116–260, §10001(f)(2)(A), substituted "may" for "shall" in introductory provisions.
+
+Subsec. (l)(2)(A). Pub. L. 116–260, §10001(f)(2)(B), substituted "a recommendation" for "the recommendation of the National Academy of Sciences".
+
+Subsec. (o)(2). Pub. L. 116–260, §10001(g), amended par. (2) generally. Prior to amendment, par. (2) authorized appropriations for fiscal years 2008 to 2013.
+
+Subsec. (o)(4)(B). Pub. L. 116–260, §10001(h)(2), substituted "(c)(2)(C)" for "(c)(2)(D)".
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–246, §202(1), substituted "subsection (o)(1)" for "subsection (n)(1)".
 
@@ -369,8 +419,4 @@ Subsec. (n)(4). Pub. L. 111–358, §904(10)(B), (C), redesignated par. (5) as (
 Subsec. (n)(4)(B). Pub. L. 111–358, §904(10)(D), substituted "5 percent" for "2.5 percent" and inserted ", consistent with the goal described in subsection (c)(2)(D) and within the responsibilities of program directors described in subsection (g)(2)(B)(vii)" after "outreach activities".
 
 Subsec. (n)(5). Pub. L. 111–358, §904(10)(C), redesignated par. (5) as (4).
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

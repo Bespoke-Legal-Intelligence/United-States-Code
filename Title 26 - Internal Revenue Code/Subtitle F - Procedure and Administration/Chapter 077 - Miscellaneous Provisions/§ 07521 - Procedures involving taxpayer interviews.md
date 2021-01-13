@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer's rights under such process, or
 
-&emsp;&emsp;(B) in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer's rights under such process.
+&emsp;&emsp;(B) in the case of an in-person interview with the taxpayer relating to the collectionof any tax, an explanation of the collection process and the taxpayer's rights under such process.
 
 #### (2) Right of consultation
 

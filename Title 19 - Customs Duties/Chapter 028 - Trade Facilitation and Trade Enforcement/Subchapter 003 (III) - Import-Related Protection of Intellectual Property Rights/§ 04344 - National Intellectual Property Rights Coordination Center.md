@@ -24,7 +24,7 @@ The Assistant Director of the National Intellectual Property Rights Coordination
 
 &emsp;(4) support the international interdiction of merchandise destined for the United States that infringes intellectual property rights;
 
-&emsp;(5) collect and integrate information regarding infringement of intellectual propertyrights from domestic and international law enforcement agencies and other non-Federal sources;
+&emsp;(5) collect and integrate information regarding infringement of intellectual property rights from domestic and international law enforcement agencies and other non-Federal sources;
 
 &emsp;(6) develop a means to receive and organize information regarding infringement of intellectual property rights from such agencies and other sources;
 

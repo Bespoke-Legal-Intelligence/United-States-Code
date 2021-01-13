@@ -32,9 +32,13 @@ Rule of Construction.—Mail matter referred to in subsection (a) shall, for pur
 
 (Added Pub. L. 109–435, title II, §201(a), Dec. 20, 2006, 120 Stat. 3200.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3621, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 760, authorized the Governors to fix rates and classes, prior to repeal by Pub. L. 109–435, title II, §201(a), Dec. 20, 2006, 120 Stat. 3200.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Ratemaking Limitations
 

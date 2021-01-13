@@ -40,6 +40,8 @@ In this chapter:
 
 (Pub. L. 109–449, §7, Dec. 22, 2006, 120 Stat. 3338; Pub. L. 112–213, title VI, §608, Dec. 20, 2012, 126 Stat. 1578.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Par. (2). Pub. L. 112–213, §608(1), substituted "section 1954 of this title" for "section 1914 of this title".

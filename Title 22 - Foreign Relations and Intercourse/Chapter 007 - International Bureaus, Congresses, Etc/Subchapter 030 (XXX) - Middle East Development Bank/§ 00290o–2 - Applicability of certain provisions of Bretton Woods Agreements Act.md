@@ -1,8 +1,10 @@
 ### §290<i>o</i>–2. Applicability of certain provisions of Bretton Woods Agreements Act
 
-Section 286b of this title shall apply to the Bank in the same manner in which such section applies to the International Bank for Reconstruction and Development and the International Monetary Fund.
+Section 286b of this title shall apply to the Bank in the same manner in which such sectionapplies to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
 (Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §704\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–179.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

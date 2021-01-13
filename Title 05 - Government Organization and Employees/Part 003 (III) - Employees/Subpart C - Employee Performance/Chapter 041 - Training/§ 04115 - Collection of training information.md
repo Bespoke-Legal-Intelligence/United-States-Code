@@ -22,17 +22,23 @@ In the first sentence, the words "from time to time" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Department of Homeland Security
 
-Exception from provisions of this section of those elements of the Department of Homeland Security thatare supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Central Intelligence Agency
 

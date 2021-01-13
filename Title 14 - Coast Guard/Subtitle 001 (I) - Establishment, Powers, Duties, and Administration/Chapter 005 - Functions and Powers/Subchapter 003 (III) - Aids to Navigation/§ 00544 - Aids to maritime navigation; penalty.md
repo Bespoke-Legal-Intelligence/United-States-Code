@@ -10,6 +10,8 @@ Based on title 33, U.S.C., 1946 ed., §760 (May 14, 1908, ch. 168, §5, 35 Stat.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 544 was renumbered section 2906 of this title.

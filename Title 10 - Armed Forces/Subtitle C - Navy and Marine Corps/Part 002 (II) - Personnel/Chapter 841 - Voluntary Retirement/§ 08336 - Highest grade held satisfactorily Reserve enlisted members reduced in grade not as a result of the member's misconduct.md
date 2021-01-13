@@ -24,7 +24,7 @@ Section 8354, acts Aug. 10, 1956, ch. 1041, 70A Stat. 520; Sept. 2, 1958, Pub. L
 
 A prior section 8355, acts Aug. 10, 1956, ch. 1041, 70A Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §33(a)(22), 72 Stat. 1565, related to appointment of graduates of junior or senior division of Air Force Reserve Officers' Training Corps as reserve commissioned officers, prior to repeal by Pub. L. 88–647, title III, §301(21), Oct. 13, 1964, 78 Stat. 1073.
 
-A prior section 8356, act Aug. 10, 1956, ch. 1041, 70A Stat. 520, related to appointment and promotion of aviation cadets as commissioned officers in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1636(b), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
+A prior section 8356, act Aug. 10, 1956, ch. 1041, 70A Stat. 520, related to appointment and promotion of aviation cadets as commissioned officers in Air ForceReserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1636(b), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
 
 Prior sections 8358 to 8368 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 

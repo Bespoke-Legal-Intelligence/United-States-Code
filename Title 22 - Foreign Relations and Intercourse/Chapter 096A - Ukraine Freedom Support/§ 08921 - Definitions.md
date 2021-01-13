@@ -20,7 +20,7 @@ In this chapter:
 
 #### (4) Financial institution
 
-&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
+&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of section 5312(a)(2) of title 31.
 
 #### (5) Foreign financial institution
 
@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Knowingly
 
-&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means thata person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
 #### (8) Russian person
 
@@ -52,7 +52,15 @@ In this chapter:
 
 &emsp;&emsp;(C) shale formations located in the Russian Federation.
 
-(Pub. L. 113–272, §2, Dec. 18, 2014, 128 Stat. 2952.)
+(Pub. L. 113–272, §2, Dec. 18, 2014, 128 Stat. 2952; Pub. L. 116–283, div. F, title LXI, §6110(e)(2), Jan. 1, 2021, 134 Stat. 4563.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Par. (4). Pub. L. 116–283 substituted "(Z)" for "(Y)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -10,11 +10,15 @@ Termination.—No reimbursement may be provided under this section for expenses 
 
 (Added Pub. L. 92–129, title II, §205(a), Sept. 28, 1971, 85 Stat. 359, §428; renumbered §488 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(27), Dec. 31, 2011, 125 Stat. 1460, 1464.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, §631(e)(27), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 428 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

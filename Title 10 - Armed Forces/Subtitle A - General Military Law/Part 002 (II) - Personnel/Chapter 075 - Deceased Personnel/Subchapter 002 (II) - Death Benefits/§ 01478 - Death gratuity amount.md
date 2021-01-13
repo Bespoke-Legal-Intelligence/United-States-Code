@@ -20,7 +20,7 @@
 
 &emsp;(9) A person covered by section 1475 or 1476 of this title who incurred a disability while on active duty or inactive duty training and who became entitled to basic pay while receiving hospital or medical care, including out-patient care, for that disability, is considered to have been on active duty or inactive duty training, as the case may be, for as long as he is entitled to that pay.
 
-(b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
+(b) A person who is discharged, or released from active duty (other than for training), isconsidered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
 \[(c) Repealed. Pub. L. 109–163, div. A, title VI, §664(a)(2)(B), Jan. 6, 2006, 119 Stat. 3316.\]
 
@@ -32,7 +32,7 @@
 
 (4) A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), for payments pursuant to paragraph (3)(A) of that prior subsection.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III,§301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, §643(b), Oct. 28, 2004, 118 Stat. 1958; Pub. L. 109–13, div. A, title I, §1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, §664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316; Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430; Pub. L. 112–81, div. A, title VI, §651(a)(2), Dec. 31, 2011, 125 Stat. 1466.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, §643(b), Oct. 28, 2004, 118 Stat. 1958; Pub. L. 109–13, div. A, title I, §1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, §664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316; Pub. L. 109–234, title I, §1210, June 15, 2006, 120 Stat. 430; Pub. L. 112–81, div. A, title VI, §651(a)(2), Dec. 31, 2011, 125 Stat. 1466.)
 
 Historical and Revision Notes
 
@@ -118,7 +118,7 @@ Subsec. (e). Pub. L. 109–13, §1013(b), (e), temporarily added subsec. (e) whi
 
 &emsp;"(B) in the case of a person who elected not to be insured under the provisions of that subchapter, in equal shares to the person or persons who would have received proceeds under those provisions of law for a member who is insured under that subchapter but does not designate named beneficiaries.
 
-"(5) A payment pursuant to paragraph (3)(B) by reason of a death covered by this subsection shall be paid equal shares to the beneficiaries who were paid thedeath gratuity that was paid with respect to that death under this section." See Effective and Termination Dates of 2005 Amendments notes below.
+"(5) A payment pursuant to paragraph (3)(B) by reason of a death covered by this subsection shall be paid equal shares to the beneficiaries who were paid the death gratuity that was paid with respect to that death under this section." See Effective and Termination Dates of 2005 Amendments notes below.
 
 Subsec. (f). Pub. L. 109–13, §1013(c), (e), temporarily added subsec. (f) which read as follows:
 
@@ -178,7 +178,7 @@ Termination.—
 
 &emsp;"(1)
 
-In general.—This section \[amending this section\] and the amendment made by this subsection \[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of section 1478 of title 10, United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
+In general.—This section \[amending this section\] and the amendment made by this subsection\[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of section 1478 of title 10, United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
 
 &emsp;"(2)
 

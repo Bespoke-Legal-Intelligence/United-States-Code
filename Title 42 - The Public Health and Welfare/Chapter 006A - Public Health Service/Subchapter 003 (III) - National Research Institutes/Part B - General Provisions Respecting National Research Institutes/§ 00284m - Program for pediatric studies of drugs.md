@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) shall consider—
 
-&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology,pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
+&emsp;&emsp;&emsp;(i) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
 &emsp;&emsp;&emsp;(ii) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, and identification of biomarkers for such diseases, disorders, or conditions, may be beneficial in pediatric populations; and
 
@@ -28,7 +28,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (1) Submission of proposed pediatric study request
 
-&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
+&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written requestmade under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
 
 &emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] or section 262(k) of this title; or
 
@@ -58,7 +58,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (A) In general
 
-&emsp;&emsp;On completion of a pediatric study in accordance with an award under this section, areport concerning the study shall be submitted to the Director of the National Institutes of Health and the Commissioner of Food and Drugs. The report shall include all data generated in connection with the study, including a written request if issued.
+&emsp;&emsp;On completion of a pediatric study in accordance with an award under this section, a report concerning the study shall be submitted to the Director of the National Institutes of Health and the Commissioner of Food and Drugs. The report shall include all data generated in connection with the study, including a written request if issued.
 
 #### (B) Availability of reports
 
@@ -130,7 +130,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408;amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
 
 #### References in Text
 

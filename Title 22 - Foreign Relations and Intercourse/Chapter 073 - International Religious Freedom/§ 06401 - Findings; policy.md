@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) The right to freedom of religion is under renewed and, in some cases, increasing assault in many countries around the world. More than one-half of the world's population lives under regimes that severely restrict or prohibit the freedom of their citizens to study, believe, observe, and freely practice the religious faith of their choice. Religious believers and communities suffer both government-sponsored and government-tolerated violations of their rights to religious freedom. Among the many forms of such violations are state-sponsored slander campaigns, confiscations of property, desecration of cemeteries, surveillance by security police, including by special divisions of "religious police", severe prohibitions against construction and repair of places of worship, denial of the right to assemble and relegation of religious communities to illegal status through arbitrary registration laws, prohibitions against the pursuit of education or public office, and prohibitions against publishing, distributing, or possessing religious literature and materials. A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.
 
-&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in,change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
+&emsp;(5) Even more abhorrent, religious believers in many countries face such severe and violent forms of religious persecution as detention, torture, beatings, forced marriage, rape, imprisonment, enslavement, mass resettlement, and death merely for the peaceful belief in, change of or practice of their faith. In many countries, religious believers are forced to meet secretly, and religious leaders are targeted by national security forces and hostile mobs.
 
 &emsp;(6) Though not confined to a particular region or regime, religious persecution and the specific targeting of non-theists, humanists, and atheists because of their beliefs is often particularly widespread, systematic, and heinous under totalitarian governments and in countries with militant, politicized religious majorities and in regions where non-state actors exercise significant political power and territorial control.
 
@@ -50,6 +50,8 @@ Congress makes the following findings:
 
 (Pub. L. 105–292, §2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, §2, Aug. 8, 2014, 128 Stat. 1827; Pub. L. 114–281, §2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Res. 102, June 26, 1996, 110 Stat. 4483, which is not classified to the Code.
@@ -69,6 +71,8 @@ Subsec. (a)(6). Pub. L. 114–281, §2(a)(3), inserted "and the specific targeti
 Subsec. (b). Pub. L. 114–281, §2(b), designated existing provisions as par. (1) and inserted heading, substituted "The following shall be the policy of the United States:" for "It shall be the policy of the United States, as follows:", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
 <b>2014</b>—Subsec. (a)(4). Pub. L. 113–154 inserted "desecration of cemeteries," after "confiscations of property,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2019 Amendment
 
@@ -103,4 +107,60 @@ Pub. L. 113–154, §1, Aug. 8, 2014, 128 Stat. 1827, provided that: "Congress f
 &emsp;"(3) Cemeteries around the world have and continue to be defaced or destroyed as a direct result of their affiliation with a particular religious or spiritual group.
 
 &emsp;"(4) Such attacks constitute an assault on the fundamental right to freedom of religion, and are especially egregious when sponsored or tolerated by the local or national governments in the countries in which such offenses occur."
+
+#### <b>Executive Documents</b>
+
+#### Ex. Ord. No. 13926. Advancing International Religious Freedom
+
+Ex. Ord. No. 13926, June 2, 2020, 85 F.R. 34951, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. (a) Religious freedom, America's first freedom, is a moral and national security imperative. Religious freedom for all people worldwide is a foreign policy priority of the United States, and the United States will respect and vigorously promote this freedom. As stated in the 2017 National Security Strategy, our Founders understood religious freedom not as a creation of the state, but as a gift of God to every person and a right that is fundamental for the flourishing of our society.
+
+(b) Religious communities and organizations, and other institutions of civil society, are vital partners in United States Government efforts to advance religious freedom around the world. It is the policy of the United States to engage robustly and continually with civil society organizations—including those in foreign countries—to inform United States Government policies, programs, and activities related to international religious freedom.
+
+Sec. 2. <i>Prioritization of International Religious Freedom</i>. Within 180 days of the date of this order \[June 2, 2020\], the Secretary of State (Secretary) shall, in consultation with the Administrator of the United States Agency for International Development (USAID), develop a plan to prioritize international religious freedom in the planning and implementation of United States foreign policy and in the foreign assistance programs of the Department of State and USAID.
+
+Sec. 3. <i>Foreign Assistance Funding for International Religious Freedom</i>. (a) The Secretary shall, in consultation with the Administrator of USAID, budget at least $50 million per fiscal year for programs that advance international religious freedom, to the extent feasible and permitted by law and subject to the availability of appropriations. Such programs shall include those intended to anticipate, prevent, and respond to attacks against individuals and groups on the basis of their religion, including programs designed to help ensure that such groups can persevere as distinct communities; to promote accountability for the perpetrators of such attacks; to ensure equal rights and legal protections for individuals and groups regardless of belief; to improve the safety and security of houses of worship and public spaces for all faiths; and to protect and preserve the cultural heritages of religious communities.
+
+(b) Executive departments and agencies (agencies) that fund foreign assistance programs shall ensure that faith-based and religious entities, including eligible entities in foreign countries, are not discriminated against on the basis of religious identity or religious belief when competing for Federal funding, to the extent permitted by law.
+
+Sec. 4. <i>Integrating International Religious Freedom into United States Diplomacy</i>. (a) The Secretary shall direct Chiefs of Mission in countries of particular concern, countries on the Special Watch List, countries in which there are entities of particular concern, and any other countries that have engaged in or tolerated violations of religious freedom as noted in the Annual Report on International Religious Freedom required by section 102(b) of the International Religious Freedom Act of 1998 (Public Law 105–292) \[22 U.S.C. 6412(b)\], as amended (the "Act"), to develop comprehensive action plans to inform and support the efforts of the United States to advance international religious freedom and to encourage the host governments to make progress in eliminating violations of religious freedom.
+
+(b) In meetings with their counterparts in foreign governments, the heads of agencies shall, when appropriate and in coordination with the Secretary, raise concerns about international religious freedom and cases that involve individuals imprisoned because of their religion.
+
+(c) The Secretary shall advocate for United States international religious freedom policy in both bilateral and multilateral fora, when appropriate, and shall direct the Administrator of USAID to do the same.
+
+Sec. 5. <i>Training for Federal Officials</i>. (a) The Secretary shall require all Department of State civil service employees in the Foreign Affairs Series to undertake training modeled on the international religious freedom training described in section 708(a) of the Foreign Service Act of 1980 (Public Law 96–465) \[22 U.S.C. 4028(a)\], as amended by section 103(a)(1) of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281).
+
+(b) Within 90 days of the date of this order, the heads of all agencies that assign personnel to positions overseas shall submit plans to the President, through the Assistant to the President for National Security Affairs, detailing how their agencies will incorporate the type of training described in subsection (a) of this section into the training required before the start of overseas assignments for all personnel who are to be stationed abroad, or who will deploy and remain abroad, in one location for 30 days or more.
+
+(c) All Federal employees subject to these requirements shall be required to complete international religious freedom training not less frequently than once every 3 years.
+
+Sec. 6. <i>Economic Tools</i>. (a) The Secretary and the Secretary of the Treasury shall, in consultation with the Assistant to the President for National Security Affairs, and through the process described in National Security Presidential Memorandum–4 of April 4, 2017 (Organization of the National Security Council, the Homeland Security Council, and Subcommittees) \[50 U.S.C. 3021 note\], develop recommendations to prioritize the appropriate use of economic tools to advance international religious freedom in countries of particular concern, countries on the Special Watch List, countries in which there are entities of particular concern, and any other countries that have engaged in or tolerated violations of religious freedom as noted in the report required by section 102(b) of the Act. These economic tools may include, as appropriate and to the extent permitted by law, increasing religious freedom programming, realigning foreign assistance to better reflect country circumstances, or restricting the issuance of visas under section 604(a) of the Act \[probably means 8 U.S.C. 1182(a)(2)(G), as added by section 604(a) of Pub. L. 105–292\].
+
+(b) The Secretary of the Treasury, in consultation with the Secretary of State, may consider imposing sanctions under Executive Order 13818 of December 20, 2017 (Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption) \[50 U.S.C. 1701 note\], which, among other things, implements the Global Magnitsky Human Rights Accountability Act (Public Law 114–328\[, div. A, title XII, subtitle F\]) \[22 U.S.C. 2656 note\].
+
+Sec. 7. <i>Definitions</i>. For purposes of this order:
+
+(a) "Country of particular concern" is defined as provided in section 402(b)(1)(A) of the Act \[22 U.S.C. 6442(b)(1)(A)\];
+
+(b) "Entity of particular concern" is defined as provided in section 301 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281) \[22 U.S.C. 6442a\];
+
+(c) "Special Watch List" is defined as provided in sections 3(15) \[22 U.S.C. 6402(15)\] and 402(b)(1)(A)(iii) of the Act \[22 U.S.C. 6442(b)(1)(A)(iii)\]; and
+
+(d) "Violations of religious freedom" is defined as provided in section 3(16) of the Act \[22 U.S.C. 6402(16)\].
+
+Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

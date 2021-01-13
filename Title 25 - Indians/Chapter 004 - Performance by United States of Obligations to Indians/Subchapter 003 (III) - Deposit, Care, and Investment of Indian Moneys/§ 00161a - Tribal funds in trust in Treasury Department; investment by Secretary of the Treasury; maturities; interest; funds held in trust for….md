@@ -1,10 +1,12 @@
 ### §161a. Tribal funds in trust in Treasury Department; investment by Secretary of the Treasury; maturities; interest; funds held in trust for individual Indians
 
-(a) All funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of Indian tribes shall be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+(a) All funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of Indian tribes shall be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities withmaturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
 (b) All funds held in trust by the United States and carried in principal accounts on the books of the United States Treasury to the credit of individual Indians shall be invested by the Secretary of the Treasury, at the request of the Secretary of the Interior, in public debt securities with maturities suitable to the needs of the fund involved, as determined by the Secretary of the Interior, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable securities.
 
 (Feb. 12, 1929, ch. 178, §1, 45 Stat. 1164; June 13, 1930, ch. 483, 46 Stat. 584; Pub. L. 98–451, Oct. 4, 1984, 98 Stat. 1729; Pub. L. 103–412, title I, §103(a), Oct. 25, 1994, 108 Stat. 4241.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -14,9 +16,13 @@
 
 <b>1930</b>—Act June 13, 1930, amended section generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–412, title I, §103(d), Oct. 25, 1994, 108 Stat. 4241, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to interest earned on amounts deposited or invested on or after the date of the enactment of this Act \[Oct. 25, 1994\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

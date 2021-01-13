@@ -34,7 +34,9 @@
 
 &emsp;(B) for any period after calendar year 1982, shall be the rate established by section 6621 of title 26 which is in effect for such period.
 
-(Pub. L. 91–173, title IV, §424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, §3(d), Feb. 10, 1978, 92Stat. 13; Pub. L. 96–222, title I, §108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, §104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 91–173, title IV, §424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, §3(d), Feb. 10, 1978, 92 Stat. 13; Pub. L. 96–222, title I, §108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, §104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsec. (b)(5). Pub. L. 97–119, §104(a)(1), added par. (5).
 <b>1978</b>—Pub. L. 95–227 added subsec. (a), redesignated existing provisions constituting entire section as subsec. (b) and expanded applicability and set out procedures for enforcement of rights of United States against operators liable to the Fund.
 
 <b>1972</b>—Pub. L. 92–303 substituted "widow, child, parent, brother, or sister" for "widow" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

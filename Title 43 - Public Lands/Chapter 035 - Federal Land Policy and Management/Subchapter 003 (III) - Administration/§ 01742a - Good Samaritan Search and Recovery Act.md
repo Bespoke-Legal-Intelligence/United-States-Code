@@ -82,9 +82,13 @@ Not later than 180 days after March 12, 2019, the Secretaries shall submit to Co
 
 (Pub. L. 116–9, title IX, §9002, Mar. 12, 2019, 133 Stat. 830.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

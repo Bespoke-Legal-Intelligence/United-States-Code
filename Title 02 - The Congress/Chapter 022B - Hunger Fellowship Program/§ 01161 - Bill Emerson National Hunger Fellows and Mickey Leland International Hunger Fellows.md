@@ -166,7 +166,7 @@ In this subsection: <sup>1</sup>
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal,for the purpose of facilitating the work of the Fellowship Programs.
+&emsp;Subject to paragraph (2), in carrying out this section, the Director may solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of facilitating the work of the Fellowship Programs.
 
 #### (2) Limitation
 
@@ -186,6 +186,8 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 (Pub. L. 107–171, title IV, §4404, May 13, 2002, 116 Stat. 335; Pub. L. 110–161, div. H, title I, §1502(c), Dec. 26, 2007, 121 Stat. 2250; Pub. L. 110–234, title IV, §4401, May 22, 2008, 122 Stat. 1132; Pub. L. 110–246, §4(a), title IV, §4401, June 18, 2008, 122 Stat. 1664, 1894.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -195,6 +197,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Pub. L. 110–246, §4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
 
 <b>2007</b>—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting "may" for "shall" and striking out "annual.", was executed by making the substitution and striking out "annual" before "audit", to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

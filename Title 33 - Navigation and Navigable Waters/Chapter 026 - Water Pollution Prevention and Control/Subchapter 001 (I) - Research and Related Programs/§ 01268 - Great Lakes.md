@@ -82,7 +82,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(iii) includes such Remedial Action Plans within the State's water quality plan by January 1, 1993.
 
-&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the InternationalJoint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
+&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
 &emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
@@ -250,7 +250,19 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $300,000,000 for each of fiscal years 2017 through 2021.
+&emsp;&emsp;&emsp;There are authorized to be appropriated to carry out this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) $300,000,000 for each of fiscal years 2017 through 2021;
+
+&emsp;&emsp;&emsp;&emsp;(II) $375,000,000 for fiscal year 2022;
+
+&emsp;&emsp;&emsp;&emsp;(III) $400,000,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;&emsp;(IV) $425,000,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;&emsp;(V) $450,000,000 for fiscal year 2025; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) $475,000,000 for fiscal year 2026.
 
 #### (ii) Limitation
 
@@ -330,7 +342,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment;
 
-&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contaminationfrom existing sources of pollutants causing sediment contamination following completion of the project;
+&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project;
 
 &emsp;&emsp;&emsp;(iii) unless each non-Federal sponsor for the project has entered into a written project agreement with the Administrator under which the party agrees to carry out its responsibilities and requirements for the project; or
 
@@ -496,7 +508,9 @@ There are authorized to be appropriated to the Administrator to carry out this s
 
 &emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, §426, Dec. 18, 2015, 129 Stat. 2581; Pub. L. 114–322, title IV, §5005, Dec. 16, 2016, 130 Stat. 1889.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358; Pub. L. 110–365, §§2, 3, Oct. 8, 2008, 122 Stat. 4021; Pub. L. 113–188, title VII, §701, Nov. 26, 2014, 128 Stat. 2019; Pub. L. 114–113, div. G, title IV, §426, Dec. 18, 2015, 129 Stat. 2581; Pub. L. 114–322, title IV, §5005, Dec. 16, 2016, 130 Stat. 1889; Pub. L. 116–294, §2, Jan. 5, 2021, 134 Stat. 4899.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -511,6 +525,8 @@ The Department of the Interior, Environment, and Related Agencies Appropriations
 November 16, 1990, referred to in subsec. (c)(3)(C), was in the original "the enactment of this Act", and "the date of the enactment of this title" which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(7)(J)(i). Pub. L. 116–294 substituted "are authorized" for "is authorized", inserted dash after "this paragraph" and subcl. (I) designation before "$300,000,000", and added subcls. (II) to (VI).
 
 <b>2016</b>—Subsec. (c)(7)(B), (C). Pub. L. 114–322, §5005(1), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to focus areas in which the Initiative should prioritize programs and projects, and the selection of programs and projects for Great Lakes protection and restoration.
 
@@ -560,9 +576,9 @@ Subsec. (c)(12), (13). Pub. L. 107–303, §103, added pars. (12) and (13).
 
 Subsec. (g). Pub. L. 107–303, §104, substituted "construed—" for "construed to affect", inserted "(1) to affect" before "the jurisdiction", substituted "Lakes; or" for "Lakes.", and added par. (2).
 
-Subsec. (h). Pub. L. 107–303, §105, substituted "not to exceed—" for "not to exceed $11,000,000", inserted "(1) $11,000,000" before "per fiscal year for", substituted "1991;" for "1991.", added pars. (2) and (3), and struck out former last sentence which read as follows: "Of the amounts appropriated each fiscal year—
+Subsec. (h). Pub. L. 107–303, §105, substituted "not to exceed—" for "not to exceed $11,000,000", inserted "(1)$11,000,000" before "per fiscal year for", substituted "1991;" for "1991.", added pars. (2) and (3), and struck out former last sentence which read as follows: "Of the amounts appropriated each fiscal year—
 
-&emsp;"(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects onthe feasibility of controlling and removing toxic pollutants;
+&emsp;"(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
 
 &emsp;"(2) 7 percent shall be used by the Great Lakes National Program Office for the program of nutrient monitoring; and
 
@@ -577,6 +593,8 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 Subsec. (h). Pub. L. 101–596, §105, substituted "and 1990, and $25,000,000 for fiscal year 1991" for "1990, and 1991" in introductory provisions and inserted "or $3,300,000, whichever is the lesser," after "30 percent" in par. (3).
 
 <b>1988</b>—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted ", as amended by the Water Quality Agreement of 1987 and any other agreements and amendments," after "the Great Lakes Water Quality Agreement of 1978".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -706,7 +724,7 @@ Sediment Remediation Projects.—
 
 &emsp;"(1)
 
-In general.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediatecontaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
+In general.—The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediate contaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
 
 &emsp;"(2)
 
@@ -719,6 +737,8 @@ Non-federal share.—Non-Federal interests shall contribute 35 percent of costs 
 "(c)
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2012."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13340. Establishment of Great Lakes Interagency Task Force and Promotion of a Regional Collaboration of National Significance for the Great Lakes
 
@@ -762,7 +782,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) The Task Force shall consist exclusively of the following officers of the United States: the Administrator of the Environmental Protection Agency (who shall chair the Task Force), the Secretary of State, the Secretary of the Interior, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of the Army, and the Chairman of the Council on Environmental Quality. A member of the Task Force may designate, to perform the Task Force functions of the member, any person who is part of the member's department, agency, or office and who is either an officer of the United States appointed by the President or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule. The Task Force shall report to the President through the Chairman of the Council on Environmental Quality.
 
-&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department ofHomeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
+&emsp;(ii) The Task Force shall establish a "Great Lakes Regional Working Group" (Working Group) composed of the appropriate regional administrator or director with programmatic responsibility for the Great Lakes system for each agency represented on the Task Force including: the Great Lakes National Program Office of the Environmental Protection Agency; the United States Fish and Wildlife Service, National Park Service, and United States Geological Survey within the Department of the Interior; the Natural Resources Conservation Service and the Forest Service of the Department of Agriculture; the National Oceanic and Atmospheric Administration of the Department of Commerce; the Department of Housing and Urban Development; the Department of Transportation; the Coast Guard within the Department of Homeland Security; and the Army Corps of Engineers within the Department of the Army. The Working Group will coordinate and make recommendations on how to implement the policies, strategies, projects, and priorities of the Task Force.
 
 (c) Management Principles for Regional Collaboration of National Significance. To further the policy described in section 1, the Task Force shall recognize and apply key principles and foster conditions to ensure successful collaboration. To that end, the Environmental Protection Agency will coordinate the development of a set of principles of successful collaboration.
 

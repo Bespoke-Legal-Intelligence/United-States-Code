@@ -18,7 +18,7 @@ The Assistant Attorney General, in coordination with the Chief Information Offic
 
 #### (c) Consolidation of financial management systems
 
-The Assistant Attorney General, in coordination with the Chief Information Officer and Chief Financial Officer of the Department of Justice, shall ensure that, on and after September 30, 2010, all financial management activities (including human resources, payroll, and accounting activities, as well as procurement activities) of all elements of the Office are carriedout through a single financial management system.
+The Assistant Attorney General, in coordination with the Chief Information Officer and Chief Financial Officer of the Department of Justice, shall ensure that, on and after September 30, 2010, all financial management activities (including human resources, payroll, and accounting activities, as well as procurement activities) of all elements of the Office are carried out through a single financial management system.
 
 #### (d) Achieving compliance
 
@@ -35,6 +35,8 @@ The Assistant Attorney General, in coordination with the Chief Information Offic
 &emsp;&emsp;(B) subsections (b) and (c), the consolidation of operations shall be initiated not later than September 30, 2006, and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.
 
 (Pub. L. 109–162, title XI, §1162, Jan. 5, 2006, 119 Stat. 3118.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

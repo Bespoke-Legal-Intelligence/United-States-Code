@@ -114,7 +114,7 @@ Applicability.—This subsection applies only to eligible States.
 
 Definition.—In this subsection, the term "eligible State" means a State that has—
 
-&emsp;&emsp;(A) a rail fixed guideway public transportation system within the jurisdiction of the State that is not subject to regulation by the Federal Railroad Administration; or
+&emsp;&emsp;(A) a rail fixed guideway public transportation system within the jurisdiction of theState that is not subject to regulation by the Federal Railroad Administration; or
 
 &emsp;&emsp;(B) a rail fixed guideway public transportation system in the engineering or construction phase of development within the jurisdiction of the State that will not be subject to regulation by the Federal Railroad Administration.
 
@@ -276,7 +276,7 @@ Failure to correct.—If the Secretary determines in accordance with subparagrap
 
 &emsp;&emsp;&emsp;(i) withhold funds available under paragraph (6) in an amount determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) beginning 1 year after the date of the determination, withhold not more than 5percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
+&emsp;&emsp;&emsp;(ii) beginning 1 year after the date of the determination, withhold not more than 5 percent of the amount required to be appropriated for use in a State or an urbanized area in the State under section 5307, until the State safety oversight program or modification has been certified; and
 
 &emsp;&emsp;&emsp;(iii) use any other authorities authorized under this chapter considered necessary and appropriate.
 

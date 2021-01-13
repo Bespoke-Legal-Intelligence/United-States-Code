@@ -14,7 +14,7 @@ Services Subject to Regulations.—Regulations required by subsection (a) apply 
 
 &emsp;(1) advisory and assistance services provided to the Federal Government to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States;
 
-&emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusion of the services in the regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
+&emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusionof the services in the regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
 
 &emsp;(3) other services related to Federal contracts as specified in the regulations prescribed under subsection (a) to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States.
 
@@ -71,6 +71,8 @@ In subsection (a), before paragraph (1), the words "The Administrator shall pres
 In subsection (b), before paragraph (1), the words "the following types of consulting services" are omitted as unnecessary.
 
 In subsection (c)(2), the words "Director of National Intelligence" are substituted for "Director of Central Intelligence" because of section 1081(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 50 U.S.C. 401 note). The words "each January 1" are substituted for "no later than January 1, 1990, and annually thereafter to eliminate obsolete and unnecessary words. The words "exempted under paragraph (1)" are substituted for "exempted from the regulations required by subsection (a) of this section in accordance with the provisions of this subsection" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

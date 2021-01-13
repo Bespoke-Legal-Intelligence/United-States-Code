@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) effective measures must continue to be taken by the Federal Government and other users and suppliers of energy to control the rate of growth of demand for energy and the efficiency of its use;
 
-&emsp;(3) the continuation of this effort will permit the United States to become increasingly independent of the world oil market, less vulnerable to interruption of foreign oil supplies, and more able to provide energy to meet future needs; and
+&emsp;(3) the continuation of this effort will permit the United States to become increasinglyindependent of the world oil market, less vulnerable to interruption of foreign oil supplies, and more able to provide energy to meet future needs; and
 
 &emsp;(4) all sectors of the economy of the United States should continue to reduce significantly the demand for nonrenewable energy resources such as oil and natural gas by implementing and maintaining effective conservation measures for the efficient use of these and other energy sources.
 
@@ -20,7 +20,7 @@ The purposes of this chapter are to provide for the regulation of interstate com
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Pub. L. 100–615, §1, Nov. 5, 1988, 102 Stat. 3185, provided that: "This Act \
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–412, §1, Aug. 28, 1986, 100 Stat. 932, provided that: "This Act \[enacting sections 8227 to 8229 of this title, amending sections 8201, 8211, 8213 to 8220, and 8226of this title, repealing sections 8281 to 8281b, 8282 to 8282b, 8283, 8283a, and 8284 of this title, and enacting provisions set out as notes under sections 8211, 8216, 8217, 8281, and 8282 of this title\] may be cited as the 'Conservation Service Reform Act of 1986'."
+Pub. L. 99–412, §1, Aug. 28, 1986, 100 Stat. 932, provided that: "This Act \[enacting sections 8227 to 8229 of this title, amending sections 8201, 8211, 8213 to 8220, and 8226 of this title, repealing sections 8281 to 8281b, 8282 to 8282b, 8283, 8283a, and 8284 of this title, and enacting provisions set out as notes under sections 8211, 8216, 8217, 8281, and 8282 of this title\] may be cited as the 'Conservation Service Reform Act of 1986'."
 
 #### Short Title
 

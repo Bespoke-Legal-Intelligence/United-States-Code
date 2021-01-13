@@ -4,7 +4,7 @@
 
 There is established the Council on Graduate Medical Education (in this section referred to as the "Council"). The Council shall—
 
-&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the "Secretary"), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the "Secretary"), and to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
 &emsp;&emsp;(A) the supply and distribution of physicians in the United States;
 
@@ -16,7 +16,7 @@ There is established the Council on Graduate Medical Education (in this section 
 
 &emsp;&emsp;(E) appropriate efforts to be carried out by hospitals, schools of medicine, schools of osteopathic medicine, and accrediting bodies with respect to the matters specified in subparagraphs (A), (B), and (C), including efforts for changes in undergraduate and graduate medical education programs; and
 
-&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning the supply and distribution of, and postgraduate training programs for, physicians in the United States and steps that should be taken to eliminate those deficiencies;
+&emsp;&emsp;(F) deficiencies in, and needs for improvements in, existing data bases concerning the supply and distribution of, and postgraduate training programs for, physicians in theUnited States and steps that should be taken to eliminate those deficiencies;
 
 &emsp;(2) encourage entities providing graduate medical education to conduct activities to voluntarily achieve the recommendations of the Council under paragraph (1)(E);
 
@@ -32,15 +32,17 @@ The Council shall be composed of—
 
 &emsp;(1) the Assistant Secretary for Health or the designee of the Assistant Secretary;
 
-&emsp;(2) the Administrator of the Health Care Financing Administration;
+&emsp;(2) the Administrator of the Centers for Medicare \& Medicaid Services;
 
 &emsp;(3) the Chief Medical Director of the Department of Veterans Affairs;
 
-&emsp;(4) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
+&emsp;(4) the Administrator of the Health Resources and Services Administration;
 
-&emsp;(5) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+&emsp;(5) 6 members appointed by the Secretary to include representatives of practicing primary care physicians, national and specialty physician organizations, foreign medical graduates, and medical student and house staff associations;
 
-&emsp;(6) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
+&emsp;(6) 4 members appointed by the Secretary to include representatives of schools of medicine and osteopathic medicine and public and private teaching hospitals; and
+
+&emsp;(7) 4 members appointed by the Secretary to include representatives of health insurers, business, and labor.
 
 #### (c) Terms of appointed members
 
@@ -66,7 +68,7 @@ Any vacancy in the Council shall not affect its power to function.
 
 #### (g) Compensation
 
-Each member of the Council who is not otherwise employed by the United States Government shall receive compensation at a rate equal to the daily rate prescribed for GS–18 under the General Schedule under section 5332 of title 5 for each day, including traveltime,<sup>1</sup> such member is engaged in the actual performance of duties as a member of the Council. A member of the Council who is an officer or employee of the United States Government shall serve without additional compensation. All members of the Council shall be reimbursed for travel, subsistence,and other necessary expenses incurred by them in the performance of their duties.
+Each member of the Council who is not otherwise employed by the United States Government shall receive compensation at a rate equal to the daily rate prescribed for GS–18 under the General Schedule under section 5332 of title 5 for each day, including traveltime,<sup>1</sup> such member is engaged in the actual performance of duties as a member of the Council. A member of the Council who is an officer or employee of the United States Government shall serve without additional compensation. All members of the Council shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
 
 #### (h) Certain authorities and duties
 
@@ -82,23 +84,15 @@ Each member of the Council who is not otherwise employed by the United States Go
 
 &emsp;The Council shall coordinate its activities with the activities of the Secretary under section 295k of this title. The Secretary shall, in cooperation with the Council and pursuant to the recommendations of the Council, take such steps as are practicable to eliminate deficiencies in the data base established under section 295k of this title and shall make available in its reports such comprehensive data sets as are developed pursuant to this section.
 
-#### (i) Requirement regarding reports
+#### (i) Reports
 
-In the reports required under subsection (a), the Council shall specify its activities during the period for which the report is made.
+Not later than September 30, 2023, and not less than every 5 years thereafter, the Council shall submit to the Secretary, and to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the recommendations described in subsection (a).
 
-#### (j) Final report
-
-Not later than April 1, 2002, the Council shall submit a final report under subsection (a).
-
-#### (k) Termination
-
-The Council shall terminate September 30, 2003.
-
-#### (l) Funding
+#### (j) Funding
 
 Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
-(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606.)
+(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002,116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606; Pub. L. 116–136, div. A, title III, §3401(10), Mar. 27, 2020, 134 Stat. 386.)
 
 #### Codification
 
@@ -116,6 +110,14 @@ Another prior section 762 of act July 1, 1944, was classified to section 295a of
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–136, §3401(10)(A), substituted "Committee on Health, Education, Labor, and Pensions" for "Committee on Labor and Human Resources" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–136, §3401(10)(B)(i), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
+
+Subsec. (b)(4) to (7). Pub. L. 116–136, §3401(10)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
+Subsecs. (i) to (l). Pub. L. 116–136, §3401(10)(C), (D), added subsec. (i), redesignated subsec. (l) as (j), and struck out former subsecs. (i) to (k) which related to requirement regarding reports, final report, and termination of the Council, respectively.
+
 <b>2010</b>—Subsec. (a)(3) to (5). Pub. L. 111–148 added pars. (3) to (5).
 
 <b>2002</b>—Subsec. (k). Pub. L. 107–251 substituted "2003" for "2002".
@@ -129,8 +131,6 @@ Subsec. (l). Pub. L. 105–392, §104(b)(3), added subsec. (l).
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted "voluntarily" for "voluntary".
 
 #### Change of Name
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

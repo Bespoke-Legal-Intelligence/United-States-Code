@@ -16,7 +16,7 @@ The Director may enter into contracts under this section with research organizat
 
 #### (1) Submission
 
-&emsp;Each applicant desiring a contract under this section shall submit an application atsuch time, in such manner, and containing such information as the Director may reasonably require.
+&emsp;Each applicant desiring a contract under this section shall submit an application at such time, in such manner, and containing such information as the Director may reasonably require.
 
 #### (2) Plan
 
@@ -154,7 +154,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;&emsp;&emsp;(III) engages in an ongoing dialogue with the Evaluation and Regional Assistance Commissioner concerning the laboratory's goals, activities, and priorities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) determines at the start of the contract period, subject to the requirementsof this section and in consultation with the Evaluation and Regional Assistance Commissioner, the mission of the regional educational laboratory for the duration of the contract period;
+&emsp;&emsp;&emsp;&emsp;(IV) determines at the start of the contract period, subject to the requirements of this section and in consultation with the Evaluation and Regional Assistance Commissioner, the mission of the regional educational laboratory for the duration of the contract period;
 
 &emsp;&emsp;&emsp;(v) ensures that the regional educational laboratory attains and maintains a high level of quality in the laboratory's work and products;
 
@@ -184,7 +184,7 @@ In order to improve the efficiency and effectiveness of the regional educational
 
 #### (j) Evaluations
 
-The Evaluation and Regional Assistance Commissioner shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described in this section in the third year that such laboratory receives assistance under this section in accordance with the standards developed by the Evaluation and Regional Assistance Commissioner and approved by the Board and shall transmit the results of such evaluations to the relevant committees of Congress, the Board, and the appropriate regional educational laboratory governing board.
+The Evaluation and Regional Assistance Commissioner shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described inthis section in the third year that such laboratory receives assistance under this section in accordance with the standards developed by the Evaluation and Regional Assistance Commissioner and approved by the Board and shall transmit the results of such evaluations to the relevant committees of Congress, the Board, and the appropriate regional educational laboratory governing board.
 
 #### (k) Rule of construction
 

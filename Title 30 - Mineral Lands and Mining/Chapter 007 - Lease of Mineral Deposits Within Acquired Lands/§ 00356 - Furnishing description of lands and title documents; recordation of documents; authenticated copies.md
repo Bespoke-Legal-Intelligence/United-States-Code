@@ -6,6 +6,8 @@ Abstracts, title papers, and other documents furnished to the Secretary under th
 
 (Aug. 7, 1947, ch. 513, §7, 61 Stat. 915.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 See note set out under section 1 of this title.

@@ -22,11 +22,13 @@ Unless specifically made inapplicable by another provision of law, the provision
 
 (Pub. L. 87–195, pt. III, §617, Sept. 4, 1961, 75 Stat. 444; Pub. L. 93–189, §14, Dec. 17, 1973, 87 Stat. 722; Pub. L. 96–533, title III, §310, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1221\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 106–264, title III, §302, Aug. 19, 2000, 114 Stat. 760.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter and such chapter, referred to in subsecs. (a), (b), and (d), were in the original references to this Act and such Act, respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -37,6 +39,8 @@ The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), i
 <b>1980</b>—Pub. L. 96–533 authorized expenses for termination of programs to include completion of training or studies for students commenced outside their countries of origin prior to such termination.
 
 <b>1973</b>—Pub. L. 93–189 substituted "eight months" for "twelve months".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

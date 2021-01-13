@@ -13,6 +13,7 @@
 | [41309\.](%C2%A7%2041309%20-%20Reporting%20on%20human%20trafficking.md) | Reporting on human trafficking. |
 | [41310\.](%C2%A7%2041310%20-%20Report%20on%20theft%20of%20trade%20secrets%20occurring%20abroad.md) | Report on theft of trade secrets occurring abroad. |
 | [41311\.](%C2%A7%2041311%20-%20Improving%20Department%20of%20Justice%20data%20collection%20on%20mental%20illness%20involved%20in%20crime.md) | Improving Department of Justice data collection on mental illness involved in crime. |
+| [41312\.](%C2%A7%2041312%20-%20Report%20on%20female%20genital%20mutilation.md) | Report on female genital mutilation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,3 +33,4 @@
 - [&sect; 41309 - Reporting on human trafficking](%C2%A7%2041309%20-%20Reporting%20on%20human%20trafficking.md)
 - [&sect; 41310 - Report on theft of trade secrets occurring abroad](%C2%A7%2041310%20-%20Report%20on%20theft%20of%20trade%20secrets%20occurring%20abroad.md)
 - [&sect; 41311 - Improving Department of Justice data collection on mental illness involved in crime](%C2%A7%2041311%20-%20Improving%20Department%20of%20Justice%20data%20collection%20on%20mental%20illness%20involved%20in%20crime.md)
+- [&sect; 41312 - Report on female genital mutilation](%C2%A7%2041312%20-%20Report%20on%20female%20genital%20mutilation.md)

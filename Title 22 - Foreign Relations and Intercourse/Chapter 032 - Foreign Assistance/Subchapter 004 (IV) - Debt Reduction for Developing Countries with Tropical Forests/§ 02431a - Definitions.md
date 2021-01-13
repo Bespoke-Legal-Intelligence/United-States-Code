@@ -26,7 +26,7 @@ As used in this subchapter:
 
 &emsp;The term "developing country with a tropical forest or coral reef" means—
 
-&emsp;&emsp;(A)(i) a country that has a per capita income of $725 or less in 1994 United States dollars (commonly referred to as "low-incomecountry"), as determined and adjusted on an annual basis by the International Bank for Reconstruction and Development in its World Development Report; or
+&emsp;&emsp;(A)(i) a country that has a per capita income of $725 or less in 1994 United States dollars (commonly referred to as "low-income country"), as determined and adjusted on an annual basis by the International Bank for Reconstruction and Development in its World Development Report; or
 
 &emsp;&emsp;(ii) a country that has a per capita income of more than $725 but less than $8,956 in 1994 United States dollars (commonly referred to as "middle-income country"), as determined and adjusted on an annual basis by the International Bank for Reconstruction and Development in its World Development Report; and
 
@@ -66,6 +66,8 @@ As used in this subchapter:
 
 (Pub. L. 87–195, pt. V, §803, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 886; amended Pub. L. 115–440, §§3(b), 4(b), 8(e), 9(b)(1), Jan. 14, 2019, 132 Stat. 5581, 5583, 5584.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 803 of Pub. L. 87–195, pt. V, was classified to section 2433 of this title prior to repeal by Pub. L. 94–329.
@@ -83,6 +85,8 @@ Par. (8). Pub. L. 115–440, §4(b), substituted "Conservation Facility" for "Tr
 Par. (9). Pub. L. 115–440, §9(b)(1), substituted "Conservation Fund" for "Tropical Forest Fund" in heading and in two places in text.
 
 Pars. (10) to (12). Pub. L. 115–440, §3(b)(2), added pars. (10) to (12).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(ii) without notice to the parent in such circumstances as the Commission may determine are appropriate, taking into consideration the benefits to the child of access to information and services, and risks to the security and privacy of the child, in regulations promulgated under this subsection;
 
-&emsp;&emsp;(D) the name of the child and online contact information (to the extent reasonablynecessary to protect the safety of a child participant on the site)—
+&emsp;&emsp;(D) the name of the child and online contact information (to the extent reasonably necessary to protect the safety of a child participant on the site)—
 
 &emsp;&emsp;&emsp;(i) used only for the purpose of protecting such safety;
 
@@ -78,7 +78,7 @@ Subject to sections 6503 and 6505 of this title, a violation of a regulation pre
 
 #### (d) Inconsistent State law
 
-No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
+No State or local government may impose any liability for commercial activities or actions byoperators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
 (Pub. L. 105–277, div. C, title XIII, §1303, Oct. 21, 1998, 112 Stat. 2681–730.)
 

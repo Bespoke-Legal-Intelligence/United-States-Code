@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(iv) any combination of clause (i), (ii), or (iii); and
 
-&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federalbenefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
+&emsp;(B) upon a second or subsequent conviction for such an offense be ineligible for all Federal benefits for up to 5 years after such conviction as determined by the court. The court shall continue to have the discretion in subparagraph (A) above. In imposing penalties and conditions under subparagraph (A), the court may require that the completion of the conditions imposed by clause (ii) or (iii) be a requirement for the reinstatement of benefits under clause (i).
 
 (2) The penalties and conditions which may be imposed under this subsection shall be waived in the case of a person who, if there is a reasonable body of evidence to substantiate such declaration, declares himself to be an addict and submits himself to a long-term treatment program for addiction, or is deemed to be rehabilitated pursuant to rules established by the Secretary of Health and Human Services.
 
@@ -79,6 +79,8 @@ Nothing in this section shall be construed to affect the obligation of the Unite
 The denial of Federal benefits set forth in this section shall take effect for convictions occurring after September 1, 1989.
 
 (Pub. L. 91–513, title II, §421, formerly Pub. L. 100–690, title V, §5301, Nov. 18, 1988, 102 Stat. 4310; renumbered §421 of Pub. L. 91–513 and amended Pub. L. 101–647, title X, §1002(d), Nov. 29, 1990, 104 Stat. 4827.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

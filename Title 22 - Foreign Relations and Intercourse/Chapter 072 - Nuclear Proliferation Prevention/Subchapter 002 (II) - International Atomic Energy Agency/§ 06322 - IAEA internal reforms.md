@@ -10,7 +10,7 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 &emsp;(3) enable the IAEA to issue fines for violations of safeguards procedures, to pay rewards for information on possible safeguards violations, and to establish a "hot line" for the reporting of such violations and other illicit uses of weapons-grade nuclear material;
 
-&emsp;(4) establish safeguards at facilities engaged in the manufacture of equipment or material that is especially designated or prepared forthe processing, use, or production of special fissionable material or, in the case of non-nuclear-weapon states, of any nuclear explosive device;
+&emsp;(4) establish safeguards at facilities engaged in the manufacture of equipment or material that is especially designated or prepared for the processing, use, or production of special fissionable material or, in the case of non-nuclear-weapon states, of any nuclear explosive device;
 
 &emsp;(5) establish safeguards over nuclear research and development activities and facilities;
 

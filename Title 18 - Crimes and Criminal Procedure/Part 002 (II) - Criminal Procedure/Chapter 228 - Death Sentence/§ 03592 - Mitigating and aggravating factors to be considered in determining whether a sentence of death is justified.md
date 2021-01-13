@@ -60,7 +60,7 @@ Aggravating Factors for Homicide.—In determining whether a sentence of death i
 
 &emsp;(1)
 
-Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports),section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 <sup>1</sup> (wrecking trains), section 2245 (offenses resulting in death), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
+Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 <sup>1</sup> (wrecking trains), section 2245 (offenses resulting in death), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
 
 &emsp;(2)
 
@@ -80,7 +80,7 @@ Grave risk of death to additional persons.—The defendant, in the commission of
 
 &emsp;(6)
 
-Heinous, cruel, or depraved manner of committing offense.—The defendant committed the offense in an especially heinous, cruel, or depraved manner in that it involved torture or serious physical abuse to the victim.
+Heinous, cruel, or depraved manner of committing offense.—The defendant committed the offense in an especially heinous,cruel, or depraved manner in that it involved torture or serious physical abuse to the victim.
 
 &emsp;(7)
 
@@ -166,7 +166,7 @@ Distribution to persons under 21.—The offense, or a continuing criminal enterp
 
 &emsp;(6)
 
-Distribution near schools.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
+Distribution near schools.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conductproscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
 
 &emsp;(7)
 
@@ -179,6 +179,8 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
 (Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, §206(a)(4), July 27, 2006, 120 Stat. 614.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -199,6 +201,8 @@ Subsec. (c)(12). Pub. L. 104–294, §604(b)(35), substituted "Comprehensive Dru
 Subsec. (c)(16). Pub. L. 104–132 added par. (16).
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–322, §330021(1), substituted "kidnapping" for "kidnaping".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -14,7 +14,7 @@
 
 &emsp;(E) each amendment, revision, or repeal of the foregoing.
 
-> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required tobe published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
 
 (2) Each agency, in accordance with published rules, shall make available for public inspection in an electronic format—
 
@@ -44,7 +44,7 @@
 
 (B) In making any record available to a person under this paragraph, an agency shall provide the record in any form or format requested by the person if the record is readily reproducible by the agency in that form or format. Each agency shall make reasonable efforts to maintain its records in forms or formats that are reproducible for purposes of this section.
 
-(C) In responding under this paragraph to a request for records, an agency shall make reasonable efforts to search for the records in electronic form or format, except when such effortswould significantly interfere with the operation of the agency's automated information system.
+(C) In responding under this paragraph to a request for records, an agency shall make reasonable efforts to search for the records in electronic form or format, except when such efforts would significantly interfere with the operation of the agency's automated information system.
 
 (D) For purposes of this paragraph, the term "search" means to review, manually or by automated means, agency records for the purpose of locating those records which are responsive to a request.
 
@@ -88,7 +88,7 @@
 
 (cc) If a court has determined that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
 
-(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
+(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, acourt shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
 
 (C) Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
 
@@ -132,7 +132,7 @@
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
-> The 20-day period under clause (i) shall commence on the date on which the request is firstreceived by the appropriate component of the agency, but in any event not later than ten days after the request is first received by any component of the agency that is designated in the agency's regulations under this section to receive requests under this section. The 20-day period shall not be tolled by the agency except—
+> The 20-day period under clause (i) shall commence on the date on which the request is first received by the appropriate component of the agency, but in any event not later than ten days after the request is first received by any component of the agency that is designated in the agency's regulations under this section to receive requests under this section. The 20-day period shall not be tolled by the agency except—
 
 &emsp;(I) that the agency may make one request to the requester for information and toll the 20-day period while it is awaiting such information that it has reasonably requested from the requester under this section; or
 
@@ -140,7 +140,7 @@
 
 (B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
-(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
+(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may beprocessed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
 (iii) As used in this subparagraph, "unusual circumstances" means, but only to the extent reasonably necessary to the proper processing of the particular requests—
 
@@ -172,7 +172,7 @@
 
 (ii) Notwithstanding clause (i), regulations under this subparagraph must ensure—
 
-&emsp;(I) that a determination of whether to provide expedited processing shall be made, andnotice of the determination shall be provided to the person making the request, within 10 days after the date of the request; and
+&emsp;(I) that a determination of whether to provide expedited processing shall be made, and notice of the determination shall be provided to the person making the request, within 10 days after the date of the request; and
 
 &emsp;(II) expeditious consideration of administrative appeals of such determinations of whether to provide expedited processing.
 
@@ -234,7 +234,7 @@
 
 &emsp;(6) personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcementinvestigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
+&emsp;(7) records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by criminal law enforcement authority in the course of a criminal investigation or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual;
 
 &emsp;(8) contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions; or
 
@@ -302,7 +302,7 @@
 
 &emsp;(Q) the number of records that were made available for public inspection in an electronic format under subsection (a)(2).
 
-(2) Information in each report submitted under paragraph (1) shall be expressed in terms of each principal component of the agency and for the agency overall.
+(2) Information in each report submitted under paragraph (1) shall be expressed in terms of eachprincipal component of the agency and for the agency overall.
 
 (3) Each agency shall make each such report available for public inspection in an electronic format. In addition, each agency shall make the raw statistical data used in each report available in a timely manner for public inspection in an electronic format, which shall be made available—
 
@@ -458,7 +458,7 @@
 
 (B) In performing the duties described in subparagraph (A), the Council shall consult on a regular basis with members of the public who make requests under this section.
 
-(6)(A) The Council shall meet regularly and such meetings shall be open to the public unless the Council determines to close the meeting for reasons of national security or to discuss information exempt under subsection (b).
+(6)(A) The Council shall meet regularly and such meetings shall be open to the public unlessthe Council determines to close the meeting for reasons of national security or to discuss information exempt under subsection (b).
 
 (B) Not less frequently than annually, the Council shall hold a meeting that shall be open to the public and permit interested persons to appear and present oral and written statements to the Council.
 
@@ -504,7 +504,7 @@ In subsection (a)(1)(A), the words "employees (and in the case of a uniformed se
 
 In the last sentence of subsection (a)(2), the words "A final order \* \* \* may be relied on \* \* \* only if" are substituted for "No final order \* \* \* may be relied upon \* \* \* unless"; and the words "a party other than an agency" and "the party" are substituted for "a private party" and "the private party", respectively, on authority of the definition of "private party" in 5 App. U.S.C. 1002(g).
 
-In subsection (a)(3), the words "the responsible employee, and in the case of a uniformed service, the responsible member" are substituted for "the responsibleofficers" to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
+In subsection (a)(3), the words "the responsible employee, and in the case of a uniformed service, the responsible member" are substituted for "the responsible officers" to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
 
 In subsection (a)(4), the words "shall maintain and make available for public inspection a record" are substituted for "shall keep a record \* \* \* and that record shall be available for public inspection".
 
@@ -515,6 +515,8 @@ In subsection (c), the words "This section does not authorize" and "This section
 5 App. U.S.C. 1002(g), defining "private party" to mean a party other than an agency, is omitted since the words "party other than an agency" are substituted for the words "private party" wherever they appear in revised 5 U.S.C. 552.
 
 5 App. U.S.C. 1002(h), prescribing the effective date, is omitted as unnecessary. That effective date is prescribed by section 4 of this bill.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -602,7 +604,7 @@ Subsec. (e)(3). Pub. L. 110–175, §8(b)(1), (c), redesignated par. (2) as (3) 
 
 Subsec. (e)(4) to (6). Pub. L. 110–175, §8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows: " 'record' and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format."
+Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows:" 'record' and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format."
 
 Subsecs. (h) to (l). Pub. L. 110–175, §10(a), added subsecs. (h) to (l).
 
@@ -650,7 +652,7 @@ Subsec. (f). Pub. L. 104–231, §3, amended subsec. (f) generally. Prior to ame
 
 Subsec. (g). Pub. L. 104–231, §11, added subsec. (g).
 
-<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to allconstituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public."
+<b>1986</b>—Subsec. (a)(4)(A). Pub. L. 99–570, §1803, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees applicable to all constituent units of such agency. Such fees shall be limited to reasonable standard charges for document search and duplication and provide for recovery of only the direct costs of such search and duplication. Documents shall be furnished without charge or at a reduced charge where the agency determines that waiver or reduction of the fee is in the public interest because furnishing the information can be considered as primarily benefiting the general public."
 
 Subsec. (b)(7). Pub. L. 99–570, §1802(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "investigatory records compiled for law enforcement purposes, but only to the extent that the production of such records would (A) interfere with enforcement proceedings, (B) deprive a person of a right to a fair trial or an impartial adjudication, (C) constitute an unwarranted invasion of personal privacy, (D) disclose the identity of a confidential source and, in the case of a record compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, confidential information furnished only by the confidential source, (E) disclose investigative techniques and procedures, or (F) endanger the life or physical safety of law enforcement personnel;".
 
@@ -662,7 +664,7 @@ Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesign
 
 <b>1976</b>—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability ofcurrent indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
 Subsec. (a)(3). Pub. L. 93–502, §1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
@@ -692,13 +694,15 @@ Subsec. (b). Pub. L. 90–23 added subsec. (b) which superseded provisions excep
 
 Subsec. (c). Pub. L. 90–23 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–185, §6, June 30, 2016, 130 Stat. 544, provided that: "This Act \[amending this section and section 3102 of Title 44, Public Printing and Documents,and enacting provisions set out as notes under this section and section 101 of this title\], and the amendments made by this Act, shall take effect on the date of enactment of this Act \[June 30, 2016\] and shall apply to any request for records under section 552 of title 5, United States Code, made after the date of enactment of this Act."
+Pub. L. 114–185, §6, June 30, 2016, 130 Stat. 544, provided that: "This Act \[amending this section and section 3102 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section and section 101 of this title\], and the amendments made by this Act, shall take effect on the date of enactment of this Act \[June 30, 2016\] and shall apply to any request for records under section 552 of title 5, United States Code, made after the date of enactment of this Act."
 
 #### Effective Date of 2007 Amendment
 
@@ -720,7 +724,7 @@ In General.—Except as provided in subsection (b), this Act \[amending this sec
 
 "(b)
 
-Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 2, 1996\]."
+Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effectone year after the date of the enactment of this Act \[Oct. 2, 1996\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -906,7 +910,7 @@ Safeguarding Information.—The head of each department or agency of the United 
 
 "(e)
 
-Additional Definition.—In this section, the term 'land remote sensing' has the meaning given such term in section 3 of the Land Remote Sensing PolicyAct of 1992 (\[former\] 15 U.S.C. 5602) \[now 51 U.S.C. 60101\].
+Additional Definition.—In this section, the term 'land remote sensing' has the meaning given such term in section 3 of the Land Remote Sensing Policy Act of 1992 (\[former\] 15 U.S.C. 5602) \[now 51 U.S.C. 60101\].
 
 "(f)
 
@@ -940,7 +944,7 @@ Interagency group.—The term 'Interagency Group' means the Nazi War Crimes and 
 
 &emsp;"(3)
 
-Japanese imperial government records.—The term 'Japanese Imperial Government records' means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+Japanese imperial government records.—The term 'Japanese Imperial Government records' meansclassified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
 &emsp;&emsp;"(A) the Japanese Imperial Government;
 
@@ -1016,7 +1020,7 @@ Applications of Exemptions.—
 
 &emsp;"(1)
 
-In general.—In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform \[nowCommittee on Oversight and Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives.
+In general.—In applying the exemptions provided in paragraphs (2) through (10) of subsection (b), there shall be a presumption that the public interest will be served by disclosure and release of the records of the Japanese Imperial Government. The exemption may be asserted only when the head of the agency that maintains the records determines that disclosure and release would be harmful to a specific interest identified in the exemption. An agency head who makes such a determination shall promptly report it to the committees of Congress with appropriate jurisdiction, including the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 &emsp;"(2)
 
@@ -1242,6 +1246,8 @@ Definitions.—For the purposes of this section—
 
 &emsp;"(3) the term 'Treaty on Open Skies' means the Treaty on Open Skies, signed at Helsinki on March 24, 1992."
 
+#### <b>Executive Documents</b>
+
 #### Classified National Security Information
 
 For provisions relating to a response to a request for information under this section when the fact of its existence or nonexistence is itself classified or when it was originally classified by another agency, see Ex. Ord. No. 13526, §3.6, Dec. 29, 2009, 75 F.R. 718, set out as a note under section 3161 of Title 50, War and National Defense.
@@ -1374,7 +1380,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (c) <i>FOIA Requester Service Center and FOIA Public Liaisons</i>. In order to ensure appropriate communication with FOIA requesters:
 
-(i) Each agency shall establish one or more FOIA Requester Service Centers (Center), as appropriate, which shall serve as the first place that a FOIA requester can contact to seek information concerning the status of the person's FOIA request and appropriate informationabout the agency's FOIA response. The Center shall include appropriate staff to receive and respond to inquiries from FOIA requesters;
+(i) Each agency shall establish one or more FOIA Requester Service Centers (Center), as appropriate, which shall serve as the first place that a FOIA requester can contact to seek information concerning the status of the person's FOIA request and appropriate information about the agency's FOIA response. The Center shall include appropriate staff to receive and respond to inquiries from FOIA requesters;
 
 (ii) The agency Chief FOIA Officer shall designate one or more agency officials, as appropriate, as FOIA Public Liaisons, who may serve in the Center or who may serve in a separate office. FOIA Public Liaisons shall serve as supervisory officials to whom a FOIA requester can raise concerns about the service the FOIA requester has received from the Center, following an initial response from the Center staff. FOIA Public Liaisons shall seek to ensure a service-oriented response to FOIA requests and FOIA-related inquiries. For example, the FOIA Public Liaison shall assist, as appropriate, in reducing delays, increasing transparency and understanding of the status of requests, and resolving disputes. FOIA Public Liaisons shall report to the agency Chief FOIA Officer on their activities and shall perform their duties consistent with applicable law and agency regulations;
 
@@ -1384,7 +1390,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (v) As determined by the agency Chief FOIA Officer, in consultation with the FOIA Public Liaisons, each agency shall post appropriate information about its Center or Centers on the agency's website, including contact information for its FOIA Public Liaisons. In the case of an agency without a website, the agency shall publish the information on the Firstgov.gov website or, in the case of any agency with neither a website nor the capability to post on the Firstgov.gov website, in the Federal Register; and
 
-(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
+(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephoneor Internet hotline) would be appropriate for responding to status inquiries.
 
 Sec. 3. <i>Review, Plan, and Report.</i>
 
@@ -1434,7 +1440,7 @@ Sec. 3. <i>Review, Plan, and Report.</i>
 
 Sec. 4. <i>Attorney General.</i>
 
-(a) <i>Report</i>. The Attorney General, using the reports submitted by the agencies under subsection 3(c)(i) of this order and the information submitted by agencies in their annual FOIA reports for fiscal year 2005, shall submit to the President, no later than 10 months from the date of this order, a report on agency FOIA implementation. The Attorney General shall consult the OMB Director in the preparation of the report and shall include in the report appropriate recommendations on administrative or other agency actions for continued agency dissemination and release of public information. The Attorney General shall thereafter submit twofurther annual reports, by June 1, 2007, and June 1, 2008, that provide the President with an update on the agencies' implementation of the FOIA and of their plans under section 3(b) of this order.
+(a) <i>Report</i>. The Attorney General, using the reports submitted by the agencies under subsection 3(c)(i) of this order and the information submitted by agencies in their annual FOIA reports for fiscal year 2005, shall submit to the President, no later than 10 months from the date of this order, a report on agency FOIA implementation. The Attorney General shall consult the OMB Director in the preparation of the report and shall include in the report appropriate recommendations on administrative or other agency actions for continued agency dissemination and release of public information. The Attorney General shall thereafter submit two further annual reports, by June 1, 2007, and June 1, 2008, that provide the President with an update on the agencies' implementation of the FOIA and of their plans under section 3(b) of this order.
 
 (b) <i>Guidance</i>. The Attorney General shall issue such instructions and guidance to the heads of departments and agencies as may be appropriate to implement sections 3(b) and 3(c) of this order.
 

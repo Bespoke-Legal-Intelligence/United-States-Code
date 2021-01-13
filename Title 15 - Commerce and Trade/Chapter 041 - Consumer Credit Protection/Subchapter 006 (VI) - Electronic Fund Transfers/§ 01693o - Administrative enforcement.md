@@ -2,7 +2,7 @@
 
 #### (a) Enforcing agencies
 
-Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], compliance with the requirements imposed under this subchapter shall be enforced under—
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 etseq.\], compliance with the requirements imposed under this subchapter shall be enforced under—
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 

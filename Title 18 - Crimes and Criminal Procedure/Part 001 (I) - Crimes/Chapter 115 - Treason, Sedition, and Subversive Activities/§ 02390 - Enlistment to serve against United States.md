@@ -12,6 +12,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by striking "fined not more than $100" and inserting "fined under this title", was executed by substituting "fined under this title" for "fined $100", to reflect the probable intent of Congress.

@@ -4,6 +4,8 @@ Effective with fiscal year 1978 and each fiscal year thereafter, there is hereby
 
 (Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 532; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 108–7, div. H, title I, §1(b)(2), Feb. 20, 2003, 117 Stat. 349; Pub. L. 108–447, div. G, title I, §13(a)(2), Dec. 8, 2004, 118 Stat. 3171.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 32b of this title prior to editorial reclassification and renumbering as this section.
@@ -16,6 +18,8 @@ Section was formerly classified to section 32b of this title prior to editorial 
 
 <b>1986</b>—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–447 applicable to fiscal year 2005 and each fiscal year thereafter, see section 13(c) of Pub. L. 108–447, set out as a note under section 6102 of this title.
@@ -26,7 +30,7 @@ Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year
 
 #### Office of the President Pro Tempore Emeritus of the Senate
 
-Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4,13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, §2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, §2, Dec. 16, 2014, 128 Stat. 2525, provided that:
+Pub. L. 108–7, div. H, title I, §7, Feb. 20, 2003, 117 Stat. 350, as amended by Pub. L. 108–447, div. G, title I, §§4, 13(b), Dec. 8, 2004, 118 Stat. 3169, 3171; Pub. L. 110–161, div. H, title I, §2, Dec. 26, 2007, 121 Stat. 2221; Pub. L. 113–235, div. H, title I, §2, Dec. 16, 2014, 128 Stat. 2525, provided that:
 
 "(a)
 

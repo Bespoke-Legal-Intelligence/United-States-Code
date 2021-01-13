@@ -42,9 +42,11 @@ Effective Date.—Subsections (a), (b), and (c) shall take effect on the earlier
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4061; amended Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (a) to (c), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principallyto chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Sections 201 to 204, 302, 303, 308, and 309 of the Act are classified to sections 12131 to 12134, 12182, 12183, 12188, and 12189, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (a) to (c), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. Sections 201 to 204, 302, 303, 308, and 309 of the Act are classified to sections 12131 to 12134, 12182, 12183, 12188, and 12189, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Sections 1, 2, 3, and 6 of the Act of August 12, 1968, commonly known as the Architectural Barriers Act of 1968, referred to in subsec. (d)(2)(B), are classified to sections 4151 to 4153 and 4156, respectively, of Title 42.
 
@@ -53,6 +55,8 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(2)(B),
 #### Amendments
 
 <b>1999</b>—Subsecs. (a), (c). Pub. L. 106–92 substituted "Dwight D. Eisenhower Executive Office Building" for "Old Executive Office Building".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

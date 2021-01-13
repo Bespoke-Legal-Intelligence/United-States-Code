@@ -76,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the words "the term" are omitted as surplus. The words "the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and" are omitted as surplus because of the definition of "territory or possession of the United States" in section 40102(a) of the revised title, 48:734, and section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America. The text of 49 App.:1305(c) is omitted as obsolete.
+In subsection (a), the words "the term" are omitted as surplus. The words "the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and" are omitted as surplus because of the definition of "territory or possession of the United States" in section 40102(a) of therevised title, 48:734, and section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America. The text of 49 App.:1305(c) is omitted as obsolete.
 
 In subsection (b)(1) and (3), the words "interstate agency or other" are omitted as surplus. The word "authority" is substituted for "agency" for consistency in the revised title and with other titles of the United States Code.
 

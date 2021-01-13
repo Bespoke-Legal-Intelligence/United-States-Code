@@ -26,7 +26,7 @@ Membership.—
 
 &emsp;&emsp;(A)
 
-Eligibility.—The Civilian Board consists of members appointed by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) from a register of applicants maintained by the Administrator of General Services, in accordance with rules issued by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) for establishing and maintaining a register of eligible applicants and selecting Civilian Board members. The Administrator of General Services shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a Civilian Board member.
+Eligibility.—The Civilian Board consists of members appointed by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) from a register of applicants maintained by the Administrator of General Services, in accordance with rules issued by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) for establishing and maintaining a register of eligibleapplicants and selecting Civilian Board members. The Administrator of General Services shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a Civilian Board member.
 
 &emsp;&emsp;(B)
 
@@ -126,7 +126,7 @@ Decisions.—An agency board shall—
 
 #### Amendments Not Shown in Text
 
-<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking "(41 U.S.C. 607(b))" and inserting "(41 U.S.C. 607(d))" and in subsec. (c)(2)(A) by inserting "of 1978" after "Contract Disputes Act". Section 607(d) of former Title 41 was amended by adding at the end "Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence</i><i>Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal."</i>
+<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking "(41 U.S.C. 607(b))" and inserting "(41 U.S.C. 607(d))" and in subsec. (c)(2)(A) by inserting "of 1978" after "Contract Disputes Act". Section 607(d) of former Title 41 was amended by adding at the end "Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal."</i>
 
 Historical and Revision Notes
 
@@ -197,6 +197,8 @@ In subsection (a)(2), the words "administrative law judges" are substituted for 
 In subsection (b), the text of 41 U.S.C. 438 (b)(1)(C) is omitted as obsolete.
 
 In subsection (e)(1)(B) and (C), the words "Postal Regulatory Commission" are substituted for "Postal Rate Commission" because of section 604(f) of the Postal Accountability and Enhancement Act (Public Law 109–435, 120 Stat. 3242, 39 U.S.C. 404 note).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

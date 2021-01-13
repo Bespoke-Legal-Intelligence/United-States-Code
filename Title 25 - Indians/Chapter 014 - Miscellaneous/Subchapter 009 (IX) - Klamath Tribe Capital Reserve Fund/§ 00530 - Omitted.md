@@ -1,5 +1,7 @@
 ### §530. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 28, 1937, ch. 874, §1, 50 Stat. 872, which established a capital reserve fund, the interest upon which to be used for administrative expenses of the Klamath Indian Reservation, was omitted from the Code as being of special and not general application.

@@ -20,7 +20,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 &emsp;(4) a Federal Bureau of Investigation fingerprint check using the Integrated Automated Fingerprint Identification System; and
 
-&emsp;(5) a search of the National Sex Offender Registry established under the Adam WalshChild Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).<sup>1</sup>
+&emsp;(5) a search of the National Sex Offender Registry established under the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.).<sup>1</sup>
 
 #### (c) Prohibitions
 
@@ -114,7 +114,7 @@ A criminal background check for a child care staff member under subsection (a) s
 
 #### (C) Public release of results
 
-&emsp;&emsp;No State shall publicly release or share the results of individual background checks,except States may release aggregated data by crime as listed under subsection (c)(1)(D) from background check results, as long as such data is not personally identifiable information.
+&emsp;&emsp;No State shall publicly release or share the results of individual background checks, except States may release aggregated data by crime as listed under subsection (c)(1)(D) from background check results, as long as such data is not personally identifiable information.
 
 #### (3) Appeals
 
@@ -194,7 +194,7 @@ In this section—
 
 The Adam Walsh Child Protection and Safety Act of 2006, referred to in subsecs. (b)(5) and (c)(1)(C), is Pub. L. 109–248, July 27, 2006, 120 Stat. 587, which was classified principally to chapter 151 (§16901 et seq.) of this title, prior to editorial reclassification and renumbering as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. TitleVII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Prior Provisions
 

@@ -76,6 +76,8 @@ Pub. L. 93–400, §16A(a)–(c), as added Pub. L. 108–136, title XIV, §1422(
 
 41:414b(c)(3).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(3). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".

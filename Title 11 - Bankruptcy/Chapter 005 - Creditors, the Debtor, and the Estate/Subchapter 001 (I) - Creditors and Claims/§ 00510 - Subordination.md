@@ -16,7 +16,7 @@
 
 #### legislative statements
 
-Section 510(c)(1) of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. After notice and a hearing, the court may, under principles of equitable subordination, subordinate for purposes of distribution all or part of an allowed claim to all or part of another allowed claim or all or part of an allowed interest to all or part of another allowed interest. As a matter of equity, it is reasonable that a court subordinate claims to claims and interests to interests. It is intended that the term "principles of equitable subordination" follow existing case law and leave to the courts development of this principle. To date, under existing law, a claim is generally subordinated only if holder of such claim is guilty of inequitable conduct, or the claim itself is of a status susceptible to subordination, such as a penalty or a claim for damages arising from the purchase or sale of a security of the debtor. The fact that such a claim may be secured is of no consequence to the issue of subordination. However, it is inconceivable that the status of a claim as a secured claim could ever be grounds for justifying equitable subordination.
+Section 510(c)(1) of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. After notice and a hearing, the court may, under principles of equitable subordination, subordinate for purposes of distribution all or part of an allowed claim to all or part of another allowed claim or all or part of an allowed interest to all or part of another allowed interest. As a matter of equity, it is reasonable that a court subordinate claims toclaims and interests to interests. It is intended that the term "principles of equitable subordination" follow existing case law and leave to the courts development of this principle. To date, under existing law, a claim is generally subordinated only if holder of such claim is guilty of inequitable conduct, or the claim itself is of a status susceptible to subordination, such as a penalty or a claim for damages arising from the purchase or sale of a security of the debtor. The fact that such a claim may be secured is of no consequence to the issue of subordination. However, it is inconceivable that the status of a claim as a secured claim could ever be grounds for justifying equitable subordination.
 
 Subordination: Since the House amendment authorizes subordination of claims only under principles of equitable subordination, and thus incorporates principles of existing case law, a tax claim would rarely be subordinated under this provision of the bill.
 
@@ -28,9 +28,13 @@ Subsection (a) requires the court to enforce subordination agreements. A subordi
 
 Subsection (b) authorizes the bankruptcy court, in ordering distribution of assets, to subordinate all or any part of any claim to all or any part of another claim, regardless of the priority ranking of either claim. In addition, any lien securing such a subordinated claim may be transferred to the estate. The bill provides, however, that any subordination ordered under this provision must be based on principles of equitable subordination. These principles are defined by case law, and have generally indicated that a claim may normally be subordinated only if its holder is guilty of misconduct. As originally introduced, the bill provided specifically that a tax claim may not be subordinated on equitable grounds. The bill deletes this express exception, but the effect under the amendment should be much the same in most situations since, under the judicial doctrine of equitable subordination, a tax claim would rarely be subordinated.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Any claim for recission of a purchase or sale of a security of the debtor or of an affiliate or for damages arising from the purchase or sale of such a security shall be subordinated for purposes of distribution to all claims and interests that are senior or equal to the claim or interest represented by such security."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

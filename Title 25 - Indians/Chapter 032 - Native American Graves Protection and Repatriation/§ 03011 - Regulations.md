@@ -4,7 +4,9 @@ The Secretary shall promulgate regulations to carry out this chapter within 12 m
 
 (Pub. L. 101–601, §13, Nov. 16, 1990, 104 Stat. 3058.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 

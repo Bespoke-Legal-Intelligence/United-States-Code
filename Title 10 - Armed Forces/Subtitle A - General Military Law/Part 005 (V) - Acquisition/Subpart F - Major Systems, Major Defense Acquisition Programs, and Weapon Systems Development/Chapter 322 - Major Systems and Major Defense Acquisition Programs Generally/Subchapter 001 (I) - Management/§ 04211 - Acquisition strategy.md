@@ -1,0 +1,144 @@
+### §4211. Acquisition strategy
+
+(a)
+
+Acquisition Strategy Required.—There shall be an acquisition strategy for each major defense acquisition program, each major automated information system, and each major system approved by a milestone decision authority.
+
+(b)
+
+Responsible Official.—For each acquisition strategy required by subsection (a), the Under Secretary of Defense for Acquisition and Sustainment, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, is responsible for issuing and maintaining the requirements for—
+
+&emsp;(1) the content of the strategy; and
+
+&emsp;(2) the review and approval process for the strategy.
+
+(c)
+
+Considerations.—(1) In issuing requirements for the content of an acquisition strategy for a major defense acquisition program, major automated information system, or major system, the Under Secretary, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program, shall ensure that—
+
+&emsp;(A) the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;
+
+&emsp;(B) the strategy contains a clear explanation of how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity;
+
+&emsp;(C) the strategy is tailored to address program requirements and constraints; and
+
+&emsp;(D) the strategy considers the items listed in paragraph (2).
+
+(2) Each strategy shall, where appropriate, consider the following:
+
+&emsp;(A) An approach that delivers required capability in increments, each depending on available mature technology, and that recognizes up front the need for future capability improvements.
+
+&emsp;(B) Acquisition approach, including industrial base considerations in accordance with paragraph (3).
+
+&emsp;(C) Risk management, including such methods as competitive prototyping at the system, subsystem, or component level.
+
+&emsp;(D) Business strategy, including measures to ensure competition at the system and subsystem level throughout the life-cycle of the program or system in accordance with section 4324 of this title.
+
+&emsp;(E) Contracting strategy, including—
+
+&emsp;&emsp;(i) contract type and how the type selected relates to level of program risk in each acquisition phase;
+
+&emsp;&emsp;(ii) how the plans for the program or system to reduce risk enable the use of fixed-price elements in subsequent contracts and the timing of the use of those fixed price elements;
+
+&emsp;&emsp;(iii) market research; and
+
+&emsp;&emsp;(iv) consideration of small business participation.
+
+&emsp;(F) Intellectual property strategy in accordance with sections 3771 through 3775 of this title.
+
+&emsp;(G) International involvement, including foreign military sales and cooperative opportunities, in accordance with section 2350a of this title.
+
+&emsp;(H) Multiyear procurement in accordance with sections 3501 through 3511 of this title.
+
+&emsp;(I) Integration of current intelligence assessments into the acquisition process.
+
+&emsp;(J) Requirements related to logistics, maintenance, and sustainment in accordance with sections 2464 and 2466 of this title.
+
+(3)(a) <sup>1</sup>
+
+In General.—The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by section 4811 of this title, in the development and implementation of acquisition plans for each major defense acquisition program.
+
+(b) <sup>1</sup>
+
+Acquisition Policy and Guidance.—The Secretary of Defense shall develop and promulgate acquisition policy and guidance to the service acquisition executives, the heads of the appropriate Defense Agencies and Department of Defense Field Activities, and relevant program managers. Such policy and guidance shall be germane to the use of the research and development, manufacturing, and production capabilities identified pursuant to chapter 148 of this title and the technologies, companies, laboratories, and factories in specific Department of Defense research and development, international cooperative research, procurement, and sustainment activities.
+
+(d)
+
+Review.—(1) The milestone decision authority shall review and approve, as appropriate, the acquisition strategy for a major defense acquisition program, major automated information system, or major system at each of the following times:
+
+&emsp;(A) Milestone A approval.
+
+&emsp;(B) The decision to release the request for proposals for development of the program or system.
+
+&emsp;(C) Milestone B approval.
+
+&emsp;(D) Each subsequent milestone.
+
+&emsp;(E) Review of any decision to enter into full-rate production.
+
+&emsp;(F) When there has been—
+
+&emsp;&emsp;(i) a significant change to the cost of the program or system;
+
+&emsp;&emsp;(ii) a critical change to the cost of the program or system;
+
+&emsp;&emsp;(iii) a significant change to the schedule of the program or system; or
+
+&emsp;&emsp;(iv) a significant change to the performance of the program or system.
+
+&emsp;(G) Any other time considered relevant by the milestone decision authority.
+
+(2) If the milestone decision authority revises an acquisition strategy for a program or system because of a change described in paragraph (1)(F), the milestone decision authority shall provide notice of the revision to the congressional defense committees.
+
+(e)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "Milestone A approval" means a decision to enter into technology maturation and risk reduction pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
+
+&emsp;(2) The term "Milestone B approval" has the meaning provided in section 4172(e)(7) of this title.
+
+&emsp;(3) The term "milestone decision authority", with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
+
+&emsp;(4) The term "management capacity", with respect to a major defense acquisition program, major automated information system, or major system, means the capacity to manage the program or system through the use of highly qualified organizations and personnel with appropriate experience, knowledge, and skills.
+
+&emsp;(5) The term "significant change to the cost", with respect to a major defense acquisition program or major system, means a significant cost growth threshold, as that term is defined in section 4371(a)(2) of this title.
+
+&emsp;(6) The term "critical change to the cost", with respect to a major defense acquisition program or major system, means a critical cost growth threshold, as that term is defined in section 4371(a)(3) of this title.
+
+&emsp;(7) The term "significant change to the schedule", with respect to a major defense acquisition program, major automated information system, or major system, means any schedule delay greater than six months in a reported event.
+
+(Added Pub. L. 114–92, div. A, title VIII, §821(a)(1), Nov. 25, 2015, 129 Stat. 897, §2431a; amended Pub. L. 114–328, div. A, title VIII, §848, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–91, div. A, title X, §1081(a)(39), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(70), Dec. 20, 2019, 133 Stat. 1551; renumbered §4211 and amended Pub. L. 116–283, div. A, title XVIII, §1847(b)(1), (2), Jan. 1, 2021, 134 Stat. 4253.)
+
+#### Codification
+
+The text of section 2440 of this title, which was transferred to this section, redesignated as par. (3) of subsec. (c), and amended by Pub. L. 116–283, §1847(b)(2)(A), was based on Pub. L. 102–484, div. D, title XLII, §4216(b)(1), Oct. 23, 1992, 106 Stat. 2669; Pub. L. 109–364, div. A, title X, §1071(a)(17), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. A, title XVI, §1603(c), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–283, div. A, title VIII, §846(b)(1), Jan. 1, 2021, 134 Stat. 3768.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1847(b)(1)(A), renumbered section 2431a of this title as this section.
+
+Subsec. (c)(2)(B). Pub. L. 116–283, §1847(b)(2)(B), substituted "paragraph (3)" for "section 2440 of this title".
+
+Subsec. (c)(2)(D). Pub. L. 116–283, §1847(b)(1)(B)(i)(I), substituted "section 4324" for "section 2337".
+
+Subsec. (c)(2)(F). Pub. L. 116–283, §1847(b)(1)(B)(i)(II), substituted "sections 3771 through 3775" for "section 2320".
+
+Subsec. (c)(2)(H). Pub. L. 116–283, §1847(b)(1)(B)(i)(III), substituted "sections 3501 through 3511" for "section 2306b".
+
+Subsec. (c)(3). Pub. L. 116–283, §1847(b)(2)(A), transferred section 2440 of this title, containing subsecs. (a) and (b), to this section, redesignated it as subsec. (c)(3), and substituted "section 4811" for "section 2501" in subsec. (c)(3)(a). See Codification note above.
+
+Subsec. (e). Pub. L. 116–283, §1847(b)(1)(C), which directed amendment of subsec. (e) by striking pars. (1) and (2) and redesignating pars. (3) to (10) as (1) to (8), respectively, was executed by striking pars. (1) and (2) and redesignating former pars. (3) to (9) as (1) to (7), respectively, to reflect the probable intent of Congress, as no par. (10) had been enacted. Prior to amendment, pars. (1) and (2) defined "major defense acquisition program" and "major system", respectively.
+
+Subsec. (e)(4). Pub. L. 116–283, §1847(b)(1)(B)(ii)(I), substituted "section 4172(e)(7)" for "section 2366(e)(7)".
+
+Subsec. (e)(7). Pub. L. 116–283, §1847(b)(1)(B)(ii)(II), substituted "section 4371(a)(2)" for "section 2433(a)(4)".
+
+Subsec. (e)(8). Pub. L. 116–283, §1847(b)(1)(B)(ii)(III), substituted "section 4371(a)(3)" for "section 2433(a)(5)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

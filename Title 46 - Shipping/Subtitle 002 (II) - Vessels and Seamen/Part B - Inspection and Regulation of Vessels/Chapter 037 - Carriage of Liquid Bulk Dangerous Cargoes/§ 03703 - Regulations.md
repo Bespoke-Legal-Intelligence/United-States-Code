@@ -46,13 +46,15 @@ Historical and Revision Notes
 
 Section 3703 requires the Secretary to issue regulations to implement this section. Specific items are listed to be included within the regulations issued. The regulatory authority must be exercised under the Administrative Procedure Act and, in prescribing these regulations, the Secretary must consider the kinds and grades of cargo carried on board. Furthermore, in addition to any requirements of the Administrative Procedure Act, the Secretary must establish specific consultation procedures for considering the views of various specified interested officials, groups, and individuals. The procedures are intended to provide for consultation as early as possible in the regulatory process.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Oil Fuel Tank Protection
 
 Pub. L. 111–281, title VI, §617(e), Oct. 15, 2010, 124 Stat. 2973, provided that:
 
 "(1)
 
-Application.—An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
+Application.—An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of title 46, United States Code, that is constructed under a contract entered into after the date of enactment of this Act \[Oct. 15, 2010\], or that is delivered after August 1, 2010, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled Oil Fuel Tank Protection, regardless of whether such vessel is engaged in the coastwise trade or on an international voyage.
 
 "(2)
 
@@ -230,7 +232,7 @@ Rulemaking.—If the Secretary of Transportation determines, based on the result
 
 "(c)
 
-Lightering Study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+Lightering Study.—The Secretary of Transportation shall coordinate with the Marine Board of theNational Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
 
 #### Existing Tank Vessel Research
 
@@ -304,7 +306,7 @@ Escorts for Certain Tankers.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
+In general.—The Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of PortAngeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
 
 &emsp;"(2)
 
@@ -312,7 +314,7 @@ Prince william sound, alaska.—
 
 &emsp;&emsp;"(A)
 
-In general.—The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with section 3703(a)(3) of title 46, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1,2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
+In general.—The requirement in paragraph (1) relating to single hulled tankers in Prince William Sound, Alaska, described in that paragraph being escorted by at least 2 towing vessels or other vessels considered to be appropriate by the Secretary (including regulations promulgated in accordance with section 3703(a)(3) of title 46, United States Code, as set forth in part 168 of title 33, Code of Federal Regulations (as in effect on March 1, 2009) implementing this subsection with respect to those tankers) shall apply to double hulled tankers over 5,000 gross tons transporting oil in bulk in Prince William Sound, Alaska.
 
 &emsp;&emsp;"(B)
 

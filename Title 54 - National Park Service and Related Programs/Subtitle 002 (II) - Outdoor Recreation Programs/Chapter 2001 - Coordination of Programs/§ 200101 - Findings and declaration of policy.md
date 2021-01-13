@@ -24,6 +24,8 @@ Historical and Revision Notes
 
 Pub. L. 88–29, §1, May 28, 1963, 77 Stat. 49.
 
+#### <b>Executive Documents</b>
+
 #### A 21st Century Strategy for America's Great Outdoors
 
 Memorandum of President of the United States, Apr. 16, 2010, 75 F.R. 20767, provided:
@@ -40,7 +42,7 @@ For these reasons, it is hereby ordered as follows:
 
 Section 1. <i>Establishment.</i>
 
-(a) There is established the America's Great Outdoors Initiative (Initiative), to be led by the Secretaries of the Interior and Agriculture, the Administrator of the Environmental Protection Agency, and the Chair of the Council on Environmental Quality (CEQ) and implemented in coordination with the agencies listed in section 2(b) of this memorandum. The Initiative may include the heads of other executive branch departments, agencies, and offices (agencies) as the President may, from time to time, designate.
+(a) There is established the America's Great Outdoors Initiative (Initiative), to be led by the Secretaries of the Interior and Agriculture, the Administrator of theEnvironmental Protection Agency, and the Chair of the Council on Environmental Quality (CEQ) and implemented in coordination with the agencies listed in section 2(b) of this memorandum. The Initiative may include the heads of other executive branch departments, agencies, and offices (agencies) as the President may, from time to time, designate.
 
 (b) The goals of the Initiative shall be to:
 

@@ -4,9 +4,13 @@ The Secretary may enter into a cooperative agreement with an Indian tribe (or a 
 
 (Pub. L. 113–121, title I, §1031(b), June 10, 2014, 128 Stat. 1233.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

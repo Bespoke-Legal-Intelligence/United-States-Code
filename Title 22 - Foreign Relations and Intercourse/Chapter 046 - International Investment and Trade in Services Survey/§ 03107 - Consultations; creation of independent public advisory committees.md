@@ -4,11 +4,15 @@ Officials performing functions pursuant to this chapter shall secure balanced, d
 
 (Pub. L. 94–472, §8, Oct. 11, 1976, 90 Stat. 2064; Pub. L. 95–381, §3, Sept. 22, 1978, 92 Stat. 726; Pub. L. 97–33, §4, Aug. 7, 1981, 95 Stat. 171.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–33 struck out designation "(a)" before "Officials performing functions" and struck out subsec. (b) which provided that the President review the results of studies and surveys conducted pursuant to this chapter and report annually to the Committee on International Relations \[Foreign Affairs\] of the House of Representatives and the appropriate committees of the Senate on any trends or developments which might have had national policy implications and which in the President's opinion warranted the review of the respective committees.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–381 substituted references to President, for references to Council on International Economic Policy.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11962
 

@@ -22,7 +22,7 @@
 
 #### (4) Rule of construction prohibiting opt-in processes
 
-&emsp;Nothing in this subsection shall be construed to allow a local educational agency to withhold access to a student's name, address, and telephone listing from a military recruiter or institution of higher education by implementing an opt-in process or any other process other than the written consent request process under paragraph (2)(A).
+&emsp;Nothing in this subsection shall be construed to allow a local educational agency to withhold access to a student's name, address,and telephone listing from a military recruiter or institution of higher education by implementing an opt-in process or any other process other than the written consent request process under paragraph (2)(A).
 
 #### (5) Parental consent
 

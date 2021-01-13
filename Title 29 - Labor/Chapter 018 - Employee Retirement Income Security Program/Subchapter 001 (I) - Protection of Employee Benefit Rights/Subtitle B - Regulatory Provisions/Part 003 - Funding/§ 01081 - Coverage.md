@@ -50,6 +50,8 @@ This part applies, with respect to a terminated multiemployer plan to which sect
 
 (Pub. L. 93–406, title I, §301, Sept. 2, 1974, 88 Stat. 868; Pub. L. 96–364, title III, §304(a), title IV, §411(b), Sept. 26, 1980, 94 Stat. 1293, 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title II, §201(c)(1), Aug. 17, 2006, 120 Stat. 868.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 409 of title 26, referred to in subsec. (a)(7), means section 409 of Title 26, Internal Revenue Code, prior to its repeal by Pub. L. 98–369, div. A, title IV, §491(b), July 18, 1984, 98 Stat. 848, applicable to obligations issued after Dec. 31, 1983.
@@ -74,6 +76,8 @@ Subsec. (a)(10). Pub. L. 101–239, §7894(d)(1)(A)(iii), substituted "any" for 
 
 Subsecs. (c), (d). Pub. L. 96–364, §304(a), added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title II, §201(d), Aug. 17, 2006, 120 Stat. 868, provided that:
@@ -84,7 +88,7 @@ In general.—The amendments made by this section \[enacting section 1084 of thi
 
 "(2)
 
-Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[former 26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\]."
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[former 26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shallbe applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\]."
 
 #### Effective Date of 1989 Amendment
 

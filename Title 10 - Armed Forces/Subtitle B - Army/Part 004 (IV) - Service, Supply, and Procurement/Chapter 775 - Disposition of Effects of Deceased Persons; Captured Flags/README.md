@@ -9,7 +9,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 445 of this title as this chapter and items 4712 and 4714 as 7712 and 7714, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter445 of this title as this chapter and items 4712 and 4714 as 7712 and 7714, respectively.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title VII, §721(c)(3), (5), Oct. 5, 1999, 113 Stat. 694, 695, substituted "DISPOSITION" for "INQUESTS; DISPOSITION" in chapter heading and struck out item 4711 "Inquests".
 

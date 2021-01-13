@@ -48,7 +48,7 @@
 
 &emsp;(A) conduct an annual audit and inspection of each exempted vessel described in subsection (a)(2);
 
-&emsp;(B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal of preservation of the historic integrity of such vessel in areas carrying or accessible to passengers or generally visible to the public; and
+&emsp;(B) in implementing subparagraph (b)(1)(F), consider, to the extent practicable, the goal of preservation of the historic integrity of suchvessel in areas carrying or accessible to passengers or generally visible to the public; and
 
 &emsp;(C) prescribe regulations to carry out this section, including to prescribe the manner in which prospective passengers are to be notified under paragraph (1)(A).
 
@@ -69,6 +69,8 @@ Historical and Revision Notes
 46:369(b)
 
 Section 3503 requires the use of fire retardant materials on a vessel having berthing facilities for at least 50 passengers. This requirement in the case of vessels engaged in foreign trade is consistent with our international treaty obligations, which impose extensive and additional fire safety standards. A waiver that grandfathers existing inland river passenger vessels is also included.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Section 3503 requires the use of fire retardant materials on a vessel having ber
 Subsec. (b)(1)(D). Pub. L. 102–241, §20(2), added subpar. (D).
 
 <b>1986</b>—Pub. L. 99–307 designated existing provision as subsec. (a), substituted "November 1, 1993" for "November 1, 1988" and inserted "in operation before January 1, 1968, and" after "to a vessel", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

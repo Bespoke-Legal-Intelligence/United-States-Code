@@ -4,7 +4,7 @@
 
 (1) The Chief Justice of the United States shall publicly designate 11 district court judges from at least seven of the United States judicial circuits of whom no fewer than 3 shall reside within 20 miles of the District of Columbia who shall constitute a court which shall have jurisdiction to hear applications for and grant orders approving electronic surveillance anywhere within the United States under the procedures set forth in this chapter, except that no judge designated under this subsection (except when sitting en banc under paragraph (2)) shall hear the same application for electronic surveillance under this chapter which has been denied previously by another judge designated under this subsection. If any judge so designated denies an application for an order authorizing electronic surveillance under this chapter, such judge shall provide immediately for the record a written statement of each reason for his decision and, on motion of the United States, the record shall be transmitted, under seal, to the court of review established in subsection (b).
 
-(2)(A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under section 1861(f) of this title or paragraph (4) or (5) of section 1881a(i) of this title, hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
+(2)(A) The court established under this subsection may, on its own initiative, or upon the request of the Government in any proceeding or a party under section 1861(f) <sup>1</sup> of this title or paragraph (4) or (5) of section 1881a(i) of this title, hold a hearing or rehearing, en banc, when ordered by a majority of the judges that constitute such court upon a determination that—
 
 &emsp;(i) en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or
 
@@ -24,17 +24,17 @@ Proceedings under this chapter shall be conducted as expeditiously as possible. 
 
 #### (d) Tenure
 
-Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that thejudges first designated under subsection (a) shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) shall be designated for terms of three, five, and seven years.
+Each judge designated under this section shall so serve for a maximum of seven years and shall not be eligible for redesignation, except that the judges first designated under subsection (a) shall be designated for terms of from one to seven years so that one term expires each year, and that judges first designated under subsection (b) shall be designated for terms of three, five, and seven years.
 
 #### (e) Jurisdiction and procedures for review of petitions
 
-(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title.
+(1) Three judges designated under subsection (a) who reside within 20 miles of the District of Columbia, or, if all of such judges are unavailable, other judges of the court established under subsection (a) as may be designated by the presiding judge of such court, shall comprise a petition review pool which shall have jurisdiction to review petitions filed pursuant to section 1861(f)(1) <sup>1</sup> or 1881a(i)(4) of this title.
 
-(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) or 1881a(i)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
+(2) Not later than 60 days after March 9, 2006, the court established under subsection (a) shall adopt and, consistent with the protection of national security, publish procedures for the review of petitions filed pursuant to section 1861(f)(1) <sup>1</sup> or 1881a(i)(4) of this title by the panel established under paragraph (1). Such procedures shall provide that review of a petition shall be conducted in camera and shall also provide for the designation of an acting presiding judge.
 
 #### (f) Stay of order
 
-(1) A judge of the court established under subsection (a), the court established under subsection (b) or a judge of that court, or the Supreme Court of the United States or a justice of that court, may, in accordance with the rules of their respective courts, enter a stay of an order or an order modifying an order of the court established under subsection (a) or the court established under subsection (b) entered under any subchapter of this chapter, while the court established under subsection (a) conducts a rehearing, while an appeal is pending to the court established under subsection (b), or while a petition of certiorari is pending in the Supreme Court of the United States, or during the pendency of any review by that court.
+(1) A judge of the court established under subsection (a), the court established under subsection (b) or a judge of that court, or the Supreme Court of the United States or a justice of that court, may, in accordance with the rules of their respective courts, enter a stay of an order or an order modifying an order of the court established under subsection (a) or the court established under subsection (b) entered under anysubchapter of this chapter, while the court established under subsection (a) conducts a rehearing, while an appeal is pending to the court established under subsection (b), or while a petition of certiorari is pending in the Supreme Court of the United States, or during the pendency of any review by that court.
 
 (2) The authority described in paragraph (1) shall apply to an order entered under any provision of this chapter.
 
@@ -158,11 +158,13 @@ Following issuance of an order under this chapter, a court established under sub
 
 &emsp;Upon certification of an application under paragraph (1), the Supreme Court of the United States may appoint an amicus curiae designated under subsection (i)(1), or any other person, to provide briefing or other assistance.
 
-(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748;Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279; Pub. L. 115–118, title I, §§101(b)(2)(A), 106, title II, §205(a)(1), (b)(1), Jan. 19, 2018, 132 Stat. 8, 13, 21, 22.)
+(Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748; Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279; Pub. L. 115–118, title I, §§101(b)(2)(A), 106, title II, §205(a)(1), (b)(1), Jan. 19, 2018, 132 Stat. 8, 13, 21, 22.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), (h), (i)(6)(B), and (j), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+
+Section 1861(f) of this title, referred to in subsecs. (a)(2)(A) and (e), means section 1861(f) of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
 
 #### Amendments
 
@@ -229,4 +231,6 @@ Authorizations in Effect.—Authorizations for the acquisition of foreign intell
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

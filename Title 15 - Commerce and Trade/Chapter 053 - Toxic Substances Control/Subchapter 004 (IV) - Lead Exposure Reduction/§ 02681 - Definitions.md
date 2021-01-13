@@ -68,7 +68,7 @@ For the purposes of this subchapter:
 
 #### (15) Residential real property
 
-&emsp;The term "residential real property" means real property on which there is situated 1 or more residential dwellings used or occupied, orintended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
+&emsp;The term "residential real property" means real property on which there is situated 1 or more residential dwellings used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
 
 #### (16) Risk assessment
 

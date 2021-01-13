@@ -26,7 +26,7 @@ Chairman; Meetings.—(1) Except as provided in paragraph (2), the Chairman of t
 
 (c)
 
-Staff and Administrative Services; Staff Director.—(1) The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
+Staff and Administrative Services; Staff Director.—(1) The Secretary of Defenseand the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
 
 (2) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall be the Staff Director of the Council.
 
@@ -54,11 +54,13 @@ Responsibilities.—The Council shall be responsible for the following matters:
 
 &emsp;(8) Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
 
-&emsp;(9) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
+&emsp;(9) Reviewing proposed capabilities, and establishing and validating performance requirements (as defined in section 181(h) of this title), for nuclear warhead programs.
 
-&emsp;(10) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+&emsp;(10) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
 
-&emsp;(11) Providing—
+&emsp;(11) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+
+&emsp;(12) Providing—
 
 &emsp;&emsp;(A) broad guidance regarding priorities for research on improved conventional weapons, and
 
@@ -72,7 +74,7 @@ Report on Difficulties Relating to Safety or Reliability.—The Council shall su
 
 (f)
 
-Budget and Funding Matters.—(1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for suchfiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member's non-concurrence.
+Budget and Funding Matters.—(1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for such fiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member's non-concurrence.
 
 (2) If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
@@ -122,17 +124,23 @@ Budget and Funding Matters.—(1) The Council shall submit to Congress each year
 
 (g)
 
-Semiannual Briefings.—(1) Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a briefing on, with respect to the six-month period preceding the briefing—
+Semiannual Updates on Council Meetings.—(1) Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
 
 &emsp;(A) the dates on which the Council met; and
 
 &emsp;(B) except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
 
-(2) The Council shall not be required to include in a briefing under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the briefing.
+(2) The Council shall not be required to include in a semiannual update under paragraph (1) the matters described in subparagraph (B) of that paragraph with respect to decisions of the Council relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31 as of the date of the semiannual update.
 
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, §902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, §903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, §901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, §1641, Dec. 19, 2014, 128 Stat. 3648; Pub. L. 114–92, div. A, title X, §1076(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 115–91, div. A, title X, §1081(a)(14), title XVI, §1653, Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 115–232, div. A, title XVI, §1661, Aug. 13, 2018, 132 Stat. 2152; Pub. L. 116–92, div. A, title XVI, §1663, Dec. 20, 2019, 133 Stat. 1772.)
+(3) The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.
+
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, §902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, §903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, §901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, §1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, §1641, Dec. 19, 2014, 128 Stat. 3648; Pub. L. 114–92, div. A, title X, §1076(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 115–91, div. A, title X, §1081(a)(14), title XVI, §1653, Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 115–232, div. A, title XVI, §1661, Aug. 13, 2018, 132 Stat. 2152; Pub. L. 116–92, div. A, title XVI, §1663, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title XVI, §§1631(a), 1632(a), Jan. 1, 2021, 134 Stat. 4056, 4057.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(9) to (12). Pub. L. 116–283, §1632(a), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
+
+Subsec. (g). Pub. L. 116–283, §1631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to semiannual briefings to Congress.
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–92 added subsec. (g).
 
@@ -232,7 +240,7 @@ Subsec. (e). Pub. L. 103–337, §3152(b), added subsec. (e).
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–484 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Director of Defense Research and Engineering."
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–456 struck out subsec. (e) which read as follows: "The Council shall submit to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives a report on the actions that have been taken by the Department of Defense and the Department of Energy to implement the recommendations of the President's Blue Ribbon Task Group on Nuclear Weapons Program Management. The Council shall include in such report its recommendation on the role and composition of the staff on the Council. The Council shall submit such report to the Committees not later than March 1, 1987."
+<b>1988</b>—Subsec. (e). Pub. L. 100–456 struck out subsec. (e) which read as follows: "The Council shall submit to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives a report on the actions that have been taken by the Department of Defense and the Department of Energy toimplement the recommendations of the President's Blue Ribbon Task Group on Nuclear Weapons Program Management. The Council shall include in such report its recommendation on the role and composition of the staff on the Council. The Council shall submit such report to the Committees not later than March 1, 1987."
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–180 realigned margins of subsec. (e).
 

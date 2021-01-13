@@ -50,7 +50,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 &emsp;(1) such exemption is necessary to prevent impairment of reliability of service, and
 
-&emsp;(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstrationnecessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
+&emsp;(2) the petitioner, despite diligent good faith efforts, is not able to make the demonstration necessary to obtain an exemption under subsection (a) or (b) in the time required to prevent such impairment of service.
 
 (Pub. L. 95–620, title II, §212, Nov. 9, 1978, 92 Stat. 3300; Pub. L. 100–42, §1(c)(6), May 21, 1987, 101 Stat. 312.)
 
@@ -60,7 +60,7 @@ This chapter, referred to in subsec. (b)(3), was in the original "this Act", mea
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted "from" for "or installation from one or more of" in introductory provisions, substituted "the fuel that would be used" for "using imported petroleum" and struck out "or installation" after "powerplant" wherever appearing in subpar. (A), and struck out "or installation" after "powerplant" in subpars. (B) and (D).
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted "from" for "or installation from one or more of" in introductory provisions, substituted "thefuel that would be used" for "using imported petroleum" and struck out "or installation" after "powerplant" wherever appearing in subpar. (A), and struck out "or installation" after "powerplant" in subpars. (B) and (D).
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(1)(D), struck out "—
 

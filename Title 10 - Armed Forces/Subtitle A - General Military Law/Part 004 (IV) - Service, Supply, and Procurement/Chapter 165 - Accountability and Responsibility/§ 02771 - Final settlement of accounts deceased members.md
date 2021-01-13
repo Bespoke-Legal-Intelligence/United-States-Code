@@ -96,7 +96,7 @@ July 12, 1955, ch. 328, §§1–3, 4 (less proviso), 5 (first sentence), 69 Stat
 
 37:363 (last sentence).
 
-In subsection (a), the definition of the term "Department", in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term "uniformed services", in 37:361, is omitted as covered by the word "member" in this revised section and by sections 3 and 4 of the Act enacting this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362. The words "regulations to be prescribed by the Secretary concerned" are substituted for the words "regulations of the Department concerned", since the "Department", as such, cannot issue regulations.
+In subsection (a), the definition of the term "Department", in 37:361, is omitted as unnecessary, since the particular departments referred to are spelled out in the revised text. The definition of the term "uniformed services", in 37:361, is omitted as covered by the word "member" in this revised section and by sections 3 and 4 of the Act enacting this revised section. Clauses (1)–(6) are substituted for the last 5 clauses of 37:362.The words "regulations to be prescribed by the Secretary concerned" are substituted for the words "regulations of the Department concerned", since the "Department", as such, cannot issue regulations.
 
 In subsection (a)(2), the words "surviving spouse" are substituted for the words "widow or widower". As defined in section 101(32), "spouse" includes a widower.
 

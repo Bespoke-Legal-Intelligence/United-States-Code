@@ -54,7 +54,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (2) No exemption for private activity bonds
 
-&emsp;Except as provided in paragraph (3), subsection (a) of section 103 shall not apply to any private activity bond (as defined in section 141(a)) issued by an Indian tribal government (or subdivision thereof).
+&emsp;Except as provided in paragraph (3), subsection (a) of section 103 shall not apply to any private activity bond (as defined in section141(a)) issued by an Indian tribal government (or subdivision thereof).
 
 #### (3) Exception for certain private activity bonds
 
@@ -174,7 +174,7 @@ For purposes of this section, the term "essential governmental function" shall n
 
 &emsp;&emsp;Such term shall not include any bond issued as part of an issue if any portion of the proceeds of such issue are used to finance—
 
-&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any otherproperty actually used in the conduct of such gaming, or
+&emsp;&emsp;&emsp;(i) any portion of a building in which class II or class III gaming (as defined in section 4 of the Indian Gaming Regulatory Act) is conducted or housed or any other property actually used in the conduct of such gaming, or
 
 &emsp;&emsp;&emsp;(ii) any facility located outside the Indian reservation (as defined in section 168(j)(6)).
 
@@ -256,7 +256,7 @@ Pub. L. 98–369, div. A, title X, §1065(c), July 18, 1984, 98 Stat. 1048, prov
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1983, except that if an individual's annuity starting date was deferred under section 105(d)(6) of this title as in effect on the day before Apr. 20, 1983, such deferral shall end on the first day of such individual's first taxable year beginning after Dec.31, 1983, see section 122(d) of Pub. L. 98–21, set out as a note under section 22 of this title.
+Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31, 1983, except that if an individual's annuity starting date was deferred under section 105(d)(6) of this title as in effect on the day before Apr. 20, 1983, such deferral shall end on the first day of such individual's first taxable year beginning after Dec. 31, 1983, see section 122(d) of Pub. L. 98–21, set out as a note under section 22 of this title.
 
 #### Effective Date
 

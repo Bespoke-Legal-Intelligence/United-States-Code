@@ -76,7 +76,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
 
-&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of thepopulation that exhibit a high degree of anti-Semitic animus; and
+&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
 
 &emsp;&emsp;&emsp;(iv) efforts by European governments to adopt and apply a working definition of anti-Semitism.
 
@@ -95,6 +95,8 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 &emsp;In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
 
 (Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, §681(a), Sept. 30, 2002, 116 Stat. 1408; Pub. L. 108–332, §6(b), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 114–281, title I, §102(a), Dec. 16, 2016, 130 Stat. 1429; Pub. L. 115–434, §4, Jan. 14, 2019, 132 Stat. 5528.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -126,6 +128,8 @@ Subsec. (b)(1)(F)(i). Pub. L. 114–281, §102(a)(5), substituted "section 6442(
 
 <b>2002</b>—Subsec. (b)(1)(B). Pub. L. 107–228 inserted "including policies that discriminate against particular religious groups or members of such groups," after "the existence of government policies violating religious freedom,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–332 applicable beginning with the first report under sections 2151n(d), 2304(b), and 6412(b) of this title submitted more than 180 days after Oct. 16, 2004, see section 6(c) of Pub. L. 108–332, set out as a note under section 2151n of this title.
@@ -144,7 +148,7 @@ Pub. L. 115–434, §2, Jan. 14, 2019, 132 Stat. 5526, provided that: "Congress 
 
 &emsp;"(3) Anti-Zionism has at times devolved into anti-Semitic attacks, prompting condemnation from many European leaders, including French Prime Minister Manuel Valls, British Prime Minister David Cameron, and German Chancellor Angela Merkel.
 
-&emsp;"(4) Since 2010, the Department of State has adhered to the working definition of Anti-Semitism bythe European Monitoring Center on Racism and Xenophobia (EUMC). Some contemporary examples of anti-Semitism include the following:
+&emsp;"(4) Since 2010, the Department of State has adhered to the working definition of Anti-Semitism by the European Monitoring Center on Racism and Xenophobia (EUMC). Some contemporary examples of anti-Semitism include the following:
 
 &emsp;&emsp;"(A) Calling for, aiding, or justifying the killing or harming of Jews (often in the name of a radical ideology or an extremist view of religion).
 
@@ -162,5 +166,5 @@ Pub. L. 115–434, §2, Jan. 14, 2019, 132 Stat. 5526, provided that: "Congress 
 
 &emsp;"(7) In 2016, the International Holocaust Remembrance Alliance (IHRA), comprised of 31 member countries, adopted a working definition of anti-Semitism which stated: 'Anti-Semitism is a certain perception of Jews, which may be expressed as hatred toward Jews. Rhetorical and physical manifestations of anti-Semitism are directed toward Jewish or non-Jewish individuals and/or their property, toward Jewish community institutions and religious facilities.'.
 
-&emsp;"(8) The IHRA further clarified that manifestations of anti-Semitism might also target the State of Israel, conceived of as a Jewish collectivity. Anti-Semitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for 'why things go wrong'. It is expressed in speech, writing, visual forms, and action, and employs sinister stereotypes and negative character traits."
+&emsp;"(8) The IHRA further clarified that manifestations of anti-Semitism might also target the State of Israel, conceived of as a Jewish collectivity. Anti-Semitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for 'why things go wrong'. It is expressed in speech,writing, visual forms, and action, and employs sinister stereotypes and negative character traits."
 

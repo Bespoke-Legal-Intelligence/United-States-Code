@@ -20,11 +20,11 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 &emsp;(4) excluding or otherwise denying equal jobs or benefits to a qualified individual because of the known disability of an individual with whom the qualified individual is known to have a relationship or association;
 
-&emsp;(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or
+&emsp;(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee,unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or
 
 &emsp;(B) denying employment opportunities to a job applicant or employee who is an otherwise qualified individual with a disability, if such denial is based on the need of such covered entity to make reasonable accommodation to the physical or mental impairments of the employee or applicant;
 
-&emsp;(6) using qualification standards, employment tests or other selection criteria thatscreen out or tend to screen out an individual with a disability or a class of individuals with disabilities unless the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and is consistent with business necessity; and
+&emsp;(6) using qualification standards, employment tests or other selection criteria that screen out or tend to screen out an individual with a disability or a class of individuals with disabilities unless the standard, test or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and is consistent with business necessity; and
 
 &emsp;(7) failing to select and administer tests concerning employment in the most effective manner to ensure that, when such test is administered to a job applicant or employee who has a disability that impairs sensory, manual, or speaking skills, such test results accurately reflect the skills, aptitude, or whatever other factor of such applicant or employee that such test purports to measure, rather than reflecting the impaired sensory, manual, or speaking skills of such employee or applicant (except where such skills are the factors that the test purports to measure).
 
@@ -108,7 +108,7 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this Act", meaning Pub. L. 101–336,July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 

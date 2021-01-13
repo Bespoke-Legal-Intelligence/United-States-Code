@@ -6,7 +6,7 @@ In this section—
 
 &emsp;(1) the terms "Administration" and "Administrator" mean the Small Business Administration and the Administrator thereof, respectively;
 
-&emsp;(2) the term "association" means the association of small business development centersestablished under section 648(a)(3)(A) of this title;
+&emsp;(2) the term "association" means the association of small business development centers established under section 648(a)(3)(A) of this title;
 
 &emsp;(3) the term "disability" has the meaning given that term in section 12102 of title 42;
 

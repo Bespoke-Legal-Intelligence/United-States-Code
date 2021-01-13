@@ -30,6 +30,8 @@ This section applies only to associations the chartered territory of which was w
 
 (Pub. L. 92–181, title VII, §7.7, as added Pub. L. 110–234, title V, §5407(a), May 22, 2008, 122 Stat. 1159, and Pub. L. 110–246, §4(a), title V, §5407(a), June 18, 2008, 122 Stat. 1664, 1921.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -37,6 +39,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 2279c, Pub. L. 92–181, title VII, §7.7, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(i), (j), Aug. 17, 1988, 102 Stat. 1002, related to mergers of unlike associations, prior to renumbering as section 7.6(d) of Pub. L. 92–181 and transfer to section 2279b(d) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -46,7 +46,7 @@ An agreement between the Secretary and a participant in the scholarship and fell
 
 #### (e) Preference for cooperative education students
 
-In evaluating applicants for award of scholarships and fellowships under the program, the Secretary of Energy may give a preference to an individual who is enrolled in, or accepted for enrollment in, an educational institution that hasa cooperative education program with the Department of Energy.
+In evaluating applicants for award of scholarships and fellowships under the program, the Secretary of Energy may give a preference to an individual who is enrolled in, or accepted for enrollment in, an educational institution that has a cooperative education program with the Department of Energy.
 
 #### (f) Coordination of benefits
 
@@ -70,7 +70,7 @@ Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,00
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 20 and Tables.
 
 Section 3101(9)(B), referred to in subsec. (i), is section 3101(9)(B) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
 

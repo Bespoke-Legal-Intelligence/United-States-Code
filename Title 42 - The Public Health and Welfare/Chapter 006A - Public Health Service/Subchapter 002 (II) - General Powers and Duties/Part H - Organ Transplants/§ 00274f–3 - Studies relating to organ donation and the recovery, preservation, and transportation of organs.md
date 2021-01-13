@@ -10,7 +10,7 @@ In carrying out subsection (a), the Secretary shall—
 
 &emsp;(1) conduct or support evaluation research to determine whether interventions, technologies, or other activities improve the effectiveness, efficiency, or quality of existing organ donation practice;
 
-&emsp;(2) undertake or support periodic reviews of the scientific literature to assist efforts ofprofessional societies to ensure that the clinical practice guidelines that they develop reflect the latest scientific findings;
+&emsp;(2) undertake or support periodic reviews of the scientific literature to assist efforts of professional societies to ensure that the clinical practice guidelines that they develop reflect the latest scientific findings;
 
 &emsp;(3) ensure that scientific evidence of the research and other activities undertaken under this section is readily accessible by the organ procurement workforce; and
 

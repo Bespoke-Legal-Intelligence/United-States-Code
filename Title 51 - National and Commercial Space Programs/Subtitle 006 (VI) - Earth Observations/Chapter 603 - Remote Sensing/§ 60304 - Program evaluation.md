@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title III, §314, Dec. 30, 2005, 119 Stat. 2921.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

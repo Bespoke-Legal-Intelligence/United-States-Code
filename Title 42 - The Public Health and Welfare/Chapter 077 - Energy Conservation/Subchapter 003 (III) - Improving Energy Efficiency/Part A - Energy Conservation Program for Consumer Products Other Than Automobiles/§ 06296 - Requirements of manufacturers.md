@@ -20,7 +20,7 @@ Each manufacturer of a covered product to which a rule under section 6294 of thi
 
 &emsp;(B) by the Commission for purposes of ascertaining whether the information set out on a label of a product, as required under section 6294 of this title, is accurate,
 
-> each manufacturer of such a product shall supply at his expense a reasonable number of such covered products to any laboratory designated by the Secretary or the Commission, as the casemay be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
+> each manufacturer of such a product shall supply at his expense a reasonable number of such covered products to any laboratory designated by the Secretary or the Commission, as the case may be. Any reasonable charge levied by the laboratory for such testing shall be borne by the United States, if and to the extent provided in appropriation Acts.
 
 (4) Each manufacturer of a covered product to which a rule under section 6294 of this title applies shall annually, at a time specified by the Commission, supply to the Commission relevant data respecting energy consumption or water use developed in accordance with the test procedures applicable to such product under section 6293 of this title.
 
@@ -36,7 +36,7 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 (2) The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
 
-(3) The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect to energy information obtained under section 796 of title 15.
+(3) The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect toenergy information obtained under section 796 of title 15.
 
 (Pub. L. 94–163, title III, §326, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §425(d), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §§6, 11(a)(2), (b)(3), Mar. 17, 1987, 101 Stat. 117, 125; Pub. L. 102–486, title I, §123(g), Oct. 24, 1992, 106 Stat. 2829.)
 

@@ -96,11 +96,13 @@ This section shall be construed only to extend the jurisdiction of Federal court
 
 (Mar. 1, 1913, ch. 90, §2, as added Pub. L. 106–386, div. C, §2004(a), Oct. 28, 2000, 114 Stat. 1546.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 106–386, div. C, §2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: "This section \[enacting this section and section 122b of this title and provisions set out as a note under this section\] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act \[Oct. 28, 2000\]."
 
 #### Impact Study
 
-Pub. L. 106–386, div. C, §2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: "The Attorney General shall carry out the study to determine the impact of this section \[enacting this section and section 122b of this title andprovisions set out as a note under this section\] and shall submit the results of such study not later than 180 days after the enactment of this Act \[Oct. 28, 2000\]."
+Pub. L. 106–386, div. C, §2004(c), Oct. 28, 2000, 114 Stat. 1548, provided that: "The Attorney General shall carry out the study to determine the impact of this section \[enacting this section and section 122b of this title and provisions set out as a note under this section\] and shall submit the results of such study not later than 180 days after the enactment of this Act \[Oct. 28, 2000\]."
 

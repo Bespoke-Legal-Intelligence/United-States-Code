@@ -62,7 +62,7 @@
 
 (2) Amounts paid under paragraph (1) may not exceed amounts determined at the maximum rate payable for a position at GS–13 of the General Schedule.
 
-(g) A former employee separated by reason of reduction in force or transfer of function who within one year after the separation is reemployed by a nontemporary appointment at a different geographical location from that where the separation occurred, may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a)through (f) of this section, in the same manner as though the employee had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
+(g) A former employee separated by reason of reduction in force or transfer of function who within one year after the separation is reemployed by a nontemporary appointment at a different geographical location from that where the separation occurred, may be allowed and paid the expenses authorized by sections 5724, 5725, 5726(b), and 5727 of this title, and may receive the benefits authorized by subsections (a) through (f) of this section, in the same manner as though the employee had been transferred in the interest of the Government without a break in service to the location of reemployment from the location where separated.
 
 (h) Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement section 5702 of this title.
 
@@ -100,6 +100,8 @@ In subsection (b), the words "this subchapter" and "subsection (a) of this secti
 
 In subsection (c), the word "officer" is omitted as included in "employee". The words "sections 5724, 5725, 5726(b), and 5727 of this title" and "subsections (a) and (b) of this section" are substituted for "section 1 of this Act" and "sections 23 and 24 of this Act", respectively, to reflect the codification of the act in title 5, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (f)(2), is set out under section 5332 of this title.
@@ -130,7 +132,7 @@ Subsec. (f)(1). Pub. L. 105–264, §7(8), substituted "Under regulations prescr
 
 Subsec. (i). Pub. L. 105–264, §7(9), struck out subsec. (i) which read as follows: "Subsections (a), (b), and (c) shall be implemented under regulations issued under section 5738 of this title."
 
-Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: "For purposes of subsections (c), (d), and (e), the term 'United States' includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a)))."
+Subsec. (j). Pub. L. 105–264, §6(5), struck out subsec. (j) which read as follows: "For purposes of subsections (c), (d), and (e), the term 'United States' includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republicof Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a)))."
 
 <b>1997</b>—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting "and" after "Northern Mariana Islands," and by substituting "United States." for "United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).", effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
@@ -148,7 +150,7 @@ Subsecs. (f) to (j). Pub. L. 104–201, §1718, added subsecs. (f) to (j).
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–510 struck out "continental" before "United States" in second sentence.
 
-<b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from whichemployee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
+<b>1987</b>—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee's return to the United States would be to official station other than official station from which employee was transferred.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–234, §105(1), (2), substituted "allowance or" for "allowance instead of" and "maximum payment permitted under regulations which implement section 5702 of this title" for "maximum per diem rates prescribed by or under section 5702 of this title".
 
@@ -163,6 +165,8 @@ Pub. L. 98–151, §118(a)(5)(B), substituted provisions authorizing extension f
 Subsec. (a)(4). Pub. L. 98–151, §118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>1979</b>—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) "areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)" for "Canal Zone" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

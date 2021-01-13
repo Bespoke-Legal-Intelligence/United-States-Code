@@ -14,9 +14,13 @@ For purposes of subsection (a), the phrase "activities related to ethical issues
 
 (Pub. L. 107–228, div. A, title II, §228, Sept. 30, 2002, 116 Stat. 1371.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of State Authorization Act, Fiscal Year 2003, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

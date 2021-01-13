@@ -46,6 +46,8 @@ The Committee intends that most of the information in the system will become ava
 
 Under paragraph (c)(1), the Secretary must maintain information on a State-titled vessel with a preferred mortgage that moves to a nonparticipating, nontitle State, until the mortgage is discharged or the vessel is sold. Under paragraph (c)(2), the Secretary must accept information submitted under section 31321 of title 46 (as enacted by this Act) concerning a discharge of a preferred mortgage on a vessel title under State law. This would be necessary if the vessel moves to a nonparticipating State, and information on that vessel would not be provided to the system by that State. This subsection will allow the Secretary to keep the vessel information system current on these matters and purge files no longer required to be maintained.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "delegate" for "delegee" in introductory provisions.
@@ -53,6 +55,8 @@ Under paragraph (c)(1), the Secretary must maintain information on a State-title
 <b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the owner's social security number; or".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ The President shall establish convenient internal revenue districts for the purp
 
 #### (b) Boundaries
 
-For the purpose mentioned in subsection (a), the President may subdivide any State, or theDistrict of Columbia, or may unite into one district two or more States.
+For the purpose mentioned in subsection (a), the President may subdivide any State, or the District of Columbia, or may unite into one district two or more States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 86–70, §22(e), June 25, 1959, 73 Stat. 146; Pub. L. 94–455, title XIX, §1906(a)(53), Oct. 4, 1976, 90 Stat. 1832.)
 

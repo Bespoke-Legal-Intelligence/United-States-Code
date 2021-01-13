@@ -12,3 +12,5 @@ Part B—Strengthening Historically Black Colleges and Universities
 - [&sect; 01063a - Applications](%C2%A7%2001063a%20-%20Applications.md)
 - [&sect; 01063b - Professional or graduate institutions](%C2%A7%2001063b%20-%20Professional%20or%20graduate%20institutions.md)
 - [&sect; 01063c - Reporting and audit requirements](%C2%A7%2001063c%20-%20Reporting%20and%20audit%20requirements.md)
+- [&sect; 01063d - Strengthening HBCUS through Federal agency plans](%C2%A7%2001063d%20-%20Strengthening%20HBCUS%20through%20Federal%20agency%20plans.md)
+- [&sect; 01063e - President's Board of Advisors on HBCUS](%C2%A7%2001063e%20-%20President%27s%20Board%20of%20Advisors%20on%20HBCUS.md)

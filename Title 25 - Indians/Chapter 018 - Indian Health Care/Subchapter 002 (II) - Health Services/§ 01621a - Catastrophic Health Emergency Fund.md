@@ -48,6 +48,8 @@ There shall be deposited into CHEF all reimbursements to which the Service is en
 
 (Pub. L. 94–437, title II, §202, as added Pub. L. 100–713, title II, §202, Nov. 23, 1988, 102 Stat. 4803; amended Pub. L. 102–573, title II, §§202(a), 217(b)(2), Oct. 29, 1992, 106 Stat. 4546, 4559; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -67,6 +69,8 @@ Subsec. (b)(2). Pub. L. 102–573, §202(a)(2), substituted "shall establish at�
 Subsec. (c). Pub. L. 102–573, §202(a)(3), substituted "Amounts appropriated to the Fund under this section" for "Funds appropriated under subsection (e) of this section".
 
 Subsec. (e). Pub. L. 102–573, §217(b)(2), struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

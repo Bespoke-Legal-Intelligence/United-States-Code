@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, the Chief of the Capitol Police is a
 
 (Pub. L. 95–26, title I, §111, May 4, 1977, 91 Stat. 87; Pub. L. 108–7, div. H, title I, §1018(h)(3), Feb. 20, 2003, 117 Stat. 369.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 64–3 of this title.
@@ -13,6 +15,8 @@ Section is from the Supplemental Appropriations Act, 1977.
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–7 substituted "Chief of the Capitol Police" for "Secretary of the Senate" and "the Capitol Police" for "the United States Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

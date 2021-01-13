@@ -8,7 +8,7 @@
 
 &emsp;(3) sets fire to, damages, destroys, or disables any air navigation facility, or interferes by force or violence with the operation of such facility, if such fire, damaging, destroying, disabling, or interfering is likely to endanger the safety of any such aircraft in flight;
 
-&emsp;(4) with the intent to damage, destroy, or disable any such aircraft, sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or in proximity to, any appliance or structure, ramp, landing area, property, machine, or apparatus, or any facility or other material used, or intended to be used, in connection with the operation, maintenance, loading, unloading or storage of any such aircraft or any cargo carried or intended to be carried on any such aircraft;
+&emsp;(4) with the intent to damage, destroy, or disable any such aircraft, sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or in proximity to, any appliance or structure, ramp, landing area, property, machine, or apparatus, or any facility or other material used, or intended to be used, in connection with the operation, maintenance, loading, unloading orstorage of any such aircraft or any cargo carried or intended to be carried on any such aircraft;
 
 &emsp;(5) interferes with or disables, with intent to endanger the safety of any person or with a reckless disregard for the safety of human life, anyone engaged in the authorized operation of such aircraft or any air navigation facility aiding in the navigation of any such aircraft;
 
@@ -36,6 +36,8 @@
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Pub. L. 98–473, title II, §2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, §7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, §123, Mar. 9, 2006, 120 Stat. 226.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101(a)(22) of Title 8, Aliens and Nationality.
@@ -50,7 +52,7 @@ Subsec. (c). Pub. L. 109–177, §123(4), substituted "paragraphs (1) through (6
 
 <b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out ", if the offender is later found in the United States," before "be fined under this title" andinserted at end "There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term 'national of the United States' has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act."
+Subsec. (b). Pub. L. 104–132, §721(b), in closing provisions, struck out ", if the offender is later found in the United States," before "be fined under this title" and inserted at end "There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term 'national of the United States' has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act."
 
 Subsec. (b)(4). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
@@ -68,13 +70,15 @@ Subsec. (c). Pub. L. 103–322, §330016(1)(O), substituted "fined under this ti
 
 "Whoever, with like intent, willfully places or causes to be placed any destructive substance in, upon, or in proximity to any such aircraft, or any aircraft engine, propeller, appliance, spare part, fuel, lubricant, hydraulic fluid, or other material used or intended to be used in connection with the operation of any such aircraft, or any cargo carried or intended to be carried on any such aircraft, or otherwise makes or causes to be made any such aircraft, aircraft engine, propeller, appliance, spare part, fuel, lubricant, hydraulic fluid, or other material unworkable or unusable or hazardous to work or use; or
 
-"Whoever, with like intent, willfully sets fire to, damages, destroys, disables, or wrecks, or places or causes to be placed any destructive substance in, upon, or in proximity to any shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus used or intended to be used in connection with the operation, loading, or unloading of any such aircraft or making any such aircraft ready for flight, or otherwise makes or causes to be made any such shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus unworkable or unusable or hazardous to work or use; or
+"Whoever, with like intent, willfully sets fire to, damages, destroys, disables, or wrecks, or places or causes to be placed any destructive substance in, upon, or in proximity to any shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus used or intended to be used in connection with the operation, loading, or unloading of any such aircraft or making any such aircraft ready forflight, or otherwise makes or causes to be made any such shop, supply, structure, station, depot, terminal, hangar, ramp, landing area, air-navigation facility or other facility, warehouse, property, machine, or apparatus unworkable or unusable or hazardous to work or use; or
 
 "Whoever, with like intent, willfully incapacitates any member of the crew of any such aircraft; or
 
 "Whoever willfully attempts to do any of the aforesaid acts or things—
 
 > &emsp;"shall be fined not more than $10,000 or imprisoned not more than twenty years, or both."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

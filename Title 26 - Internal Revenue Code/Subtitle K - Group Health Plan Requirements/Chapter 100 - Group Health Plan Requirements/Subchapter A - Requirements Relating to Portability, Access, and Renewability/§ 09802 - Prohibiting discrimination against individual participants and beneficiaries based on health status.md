@@ -66,7 +66,7 @@
 
 #### (2) Rule of construction
 
-&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professionalwho is providing health care services to an individual to request that such individual undergo a genetic test.
+&emsp;Paragraph (1) shall not be construed to limit the authority of a health care professional who is providing health care services to an individual to request that such individual undergo a genetic test.
 
 #### (3) Rule of construction regarding payment
 
@@ -82,7 +82,7 @@
 
 &emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The plan clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 

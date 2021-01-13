@@ -4,6 +4,8 @@ There shall be granted to the several counties or parishes of each State and Ter
 
 (R.S. §2286.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2286 derived from act May 26, 1824, ch. 169, §1, 4 Stat. 50.

@@ -26,7 +26,7 @@ In this subchapter:
 
 &emsp;The term "basic research" means research—
 
-&emsp;&emsp;(A) to gain fundamental knowledge or understanding of phenomena and observablefacts, without specific application toward processes or products; and
+&emsp;&emsp;(A) to gain fundamental knowledge or understanding of phenomena and observable facts, without specific application toward processes or products; and
 
 &emsp;&emsp;(B) for the advancement of knowledge in the field of education.
 
@@ -168,7 +168,7 @@ The Head Start Act, referred to in par. (17)(B), is subchapter B (§§635–657)
 
 #### Amendments
 
-<b>2015</b>—Par. (1). Pub. L. 114–95 amended par. (1) generally. Prior to amendment, text read as follows: "The terms 'elementary school', 'secondary school', 'local educational agency', and 'State educational agency' have the meanings given those terms in section 7801 of this title and the terms 'freely associated states' and 'outlying area' have the meanings given those terms in section 6331(c) of this title."
+<b>2015</b>—Par. (1). Pub. L. 114–95 amended par. (1) generally. Prior to amendment, text read as follows: "Theterms 'elementary school', 'secondary school', 'local educational agency', and 'State educational agency' have the meanings given those terms in section 7801 of this title and the terms 'freely associated states' and 'outlying area' have the meanings given those terms in section 6331(c) of this title."
 
 #### Effective Date of 2015 Amendment
 

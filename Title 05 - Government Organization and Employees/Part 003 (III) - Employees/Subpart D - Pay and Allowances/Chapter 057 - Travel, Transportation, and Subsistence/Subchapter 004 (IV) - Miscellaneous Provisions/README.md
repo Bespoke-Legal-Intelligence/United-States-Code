@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–563, §4(a), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV.

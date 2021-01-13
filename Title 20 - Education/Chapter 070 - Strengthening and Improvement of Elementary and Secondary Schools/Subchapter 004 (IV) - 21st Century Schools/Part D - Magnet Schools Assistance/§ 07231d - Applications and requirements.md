@@ -10,7 +10,7 @@ Each application submitted under subsection (a) shall include—
 
 &emsp;(1) a description of—
 
-&emsp;&emsp;(A) how a grant awarded under this part will be used to promote desegregation, including any available evidence on, or if such evidence is not available, a rationale, based on current research, for how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
+&emsp;&emsp;(A) how a grant awarded under this part will be used to promote desegregation, including any available evidence on, or if suchevidence is not available, a rationale, based on current research, for how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
 
 &emsp;&emsp;(B) the manner and extent to which the magnet school program will increase student academic achievement in the instructional area or areas offered by the school, including any evidence, or if such evidence is not available, a rationale based on current research findings, to support such description;
 

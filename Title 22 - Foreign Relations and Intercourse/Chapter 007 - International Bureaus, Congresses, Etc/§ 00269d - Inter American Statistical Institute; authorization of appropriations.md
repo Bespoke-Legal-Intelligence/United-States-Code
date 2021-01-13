@@ -4,6 +4,8 @@ To enable the United States to become an adhering member of the Inter American S
 
 (Jan. 27, 1942, ch. 22, 56 Stat. 20; July 2, 1945, ch. 218, 59 Stat. 311.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1945</b>—Act July 2, 1945, substituted the single proviso for two provisos.

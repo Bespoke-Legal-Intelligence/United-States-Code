@@ -1,0 +1,158 @@
+### §4534. Drawback
+
+#### (a) "Good subject to USMCA drawback" defined
+
+For purposes of this Act, the term "good subject to USMCA drawback" means any imported good other than the following:
+
+&emsp;(1) A good entered under bond for transportation and exportation to a USMCA country.
+
+&emsp;(2) A good exported to a USMCA country in the same condition as when imported into theUnited States. For purposes of this paragraph—
+
+&emsp;&emsp;(A) processes such as testing, cleaning, repacking, sorting, marking, or inspecting a good, or preserving it in its same condition, shall not be considered to change the condition of the good, and
+
+&emsp;&emsp;(B) except for a good referred to in paragraph 11 of Annex 3–B of the USMCA that is exported to Mexico, if a good described in the first sentence of this paragraph is commingled with fungible goods and exported in the same condition, the origin of the good may be determined on the basis of the inventory methods provided for in the regulations implementing this title.<sup>1</sup>
+
+&emsp;(3) A good—
+
+&emsp;&emsp;(A) that is—
+
+&emsp;&emsp;&emsp;(i) deemed to be exported from the United States,
+
+&emsp;&emsp;&emsp;(ii) used as a material in the production of another good that is deemed to be exported to a USMCA country, or
+
+&emsp;&emsp;&emsp;(iii) substituted for by a good of the same kind and quality that is used as a material in the production of another good that is deemed to be exported to a USMCA country, and
+
+&emsp;&emsp;(B) that is delivered—
+
+&emsp;&emsp;&emsp;(i) to a duty-free shop,
+
+&emsp;&emsp;&emsp;(ii) for ship's stores or supplies for ships or aircraft, or
+
+&emsp;&emsp;&emsp;(iii) for use in a project undertaken jointly by the United States and a USMCA country and destined to become the property of the United States.
+
+&emsp;(4) A good exported to a USMCA country for which a refund of customs duties is granted by reason of—
+
+&emsp;&emsp;(A) the failure of the good to conform to sample or specification, or
+
+&emsp;&emsp;(B) the shipment of the good without the consent of the consignee.
+
+&emsp;(5) A good that qualifies under the rules of origin set out in section 202 <sup>1</sup> that is—
+
+&emsp;&emsp;(A) exported to a USMCA country,
+
+&emsp;&emsp;(B) used as a material in the production of another good that is exported to a USMCA country, or
+
+&emsp;&emsp;(C) substituted for by a good of the same kind and quality that is used as a material in the production of another good that is exported to a USMCA country.
+
+&emsp;(6) A good provided for in subheading 1701.13.20 or 1701.14.20 of the HTS that is imported under any re-export program or any like program and that is—
+
+&emsp;&emsp;(A) used as a material, or
+
+&emsp;&emsp;(B) substituted for by a good of the same kind and quality that is used as a material,
+
+> &emsp;in the production of a good provided for in existing Canadian tariff item 1701.99.00 or existing Mexican tariff item 1701.99.01, 1701.99.02, or 1701.99.99 (relating to refined sugar).
+
+&emsp;(7) A citrus product that is exported to Canada.
+
+&emsp;(8) A good used as a material, or substituted for by a good of the same kind and quality that is used as a material, in the production of—
+
+&emsp;&emsp;(A) apparel, or
+
+&emsp;&emsp;(B) a good provided for in subheading 6307.90.99 (insofar as it relates to furniture moving pads), 5811.00.20, or 5811.00.30 of the HTS,
+
+> &emsp;that is exported to Canada and that is subject to Canada's most-favored-nation rate of duty upon importation into Canada.
+
+> Where in paragraph (6) a good referred to by an item is described in parentheses following the item, the description is provided for purposes of reference only.
+
+#### (b) Same kind and quality
+
+For purposes of paragraphs (3)(A)(iii), (5)(C), (6)(B), and (8) of subsection (a), and for purposes of obtaining refunds, waivers, or reductions of customs duties with respect to a good subject to USMCA drawback under section 1313(n)(2) of this title, a good is a good of the same kind and quality as another good—
+
+&emsp;(1) for a good described in such paragraph (6)(B), if the good would have been considered of the same kind and quality as the other good on the day before the date on which the USMCA enters into force; or
+
+&emsp;(2) for other goods if—
+
+&emsp;&emsp;(A) the good is classified under the same 8-digit HTS subheading number as the other good; or
+
+&emsp;&emsp;(B) drawback would be allowed with respect to the goods under subsection (b)(4), (j)(1), or (p) of section 1313 of this title.
+
+#### (c) Elimination of drawback for fees under section 624 of title 7
+
+Notwithstanding any other provision of law, the Secretary of the Treasury may not, on condition of export, refund or reduce a fee applied pursuant to section 624 of title 7 with respect to goods included under subsection (a) that are exported to a USMCA country.
+
+#### (d) Inapplicability to countervailing and antidumping duties
+
+Nothing in this section or the amendments made by it shall be considered to authorize the refund, waiver, or reduction of countervailing duties or antidumping duties imposed on an imported good.
+
+#### (e) Action on claim
+
+#### (1) In general
+
+&emsp;If the Commissioner of U.S. Customs and Border Protection determines that a claim of preferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+
+#### (2) Claims described
+
+&emsp;A claim described in this paragraph is a claim for—
+
+&emsp;&emsp;(A) a refund, waiver, or reduction of duty, under any applicable provision of law; or
+
+&emsp;&emsp;(B) a credit against a bond under section 1312(d)(1) of this title.
+
+(Pub. L. 116–113, title II, §208, title V, §501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260, div. O, title VI, §601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
+
+#### References in Text
+
+This Act, referred to in subsec. (a), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
+
+This title, referred to in subsec. (a)(2)(B), is title II of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 19, which enacted this subchapter and amended and enacted provisions set out as notes under several sections within this title. For complete classification of title II to the Code, see Tables.
+
+Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
+The amendments made by this section, referred to in subsec. (d), mean the amendments made by section 203(b) and (c) of Pub. L. 103–182, which amended sections 81c, 1311 to 1313, and 1562 of this title.
+
+#### Codification
+
+Subsecs. (a), (d), and (e) of former section 3333 of this title, which were transferred and redesignated as subsecs. (a), (c), and (d), respectively, of this section by Pub. L. 116–113, §501(b)(1), (2), (d)(1)–(3), were based on Pub. L. 103–182, title II, §203(a), (d), (e), Dec. 8, 1993, 107 Stat. 2086, 2092.
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–113, §501(a), struck out "\[reserved\]" after "Drawback" in section catchline.
+
+Subsec. (a). Pub. L. 116–113, §501(b)(3)(A)–(C), substituted "USMCA" for "NAFTA" in heading, struck out "and the amendments made by subsection (b)" after "of this Act" and substituted "USMCA drawback" for "NAFTA drawback" in introductory provisions, and substituted "USMCA country" for "NAFTA country" wherever appearing in pars. (1) to (5).
+
+Pub. L. 116–113, §501(b)(1), (2), transferred subsec. (a) of section 3333 of this title to this section and inserted it after section catchline. See Codification note above.
+
+Subsec. (a)(2)(A). Pub. L. 116–113, §501(b)(3)(D)(i), inserted "sorting, marking," after "repacking,".
+
+Subsec. (a)(2)(B). Pub. L. 116–113, §501(b)(3)(D)(ii), substituted "paragraph 11 of Annex 3–B of the USMCA" for "paragraph 12 of section A of Annex 703.2 of the Agreement".
+
+Subsec. (a)(6). Pub. L. 116–113, §501(b)(3)(E), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "A good provided for in subheading 1701.11.02 of the HTS that is—
+
+&emsp;"(A) used as a material, or
+
+&emsp;"(B) substituted for by a good of the same kind and quality that is used as a material,
+
+> in the production of a good provided for in existing Canadian tariff item 1701.99.00 or existing Mexican tariff item 1701.99.01 or 1701.99.99 (relating to refined sugar)."
+
+Subsec. (b). Pub. L. 116–113, §501(c), added subpar. (b).
+
+Subsec. (c). Pub. L. 116–113, §501(d)(4), substituted "exported to a USMCA country." for "exported to—
+
+&emsp;"(1) Canada after December 31, 1995, for so long as it is a NAFTA country; or
+
+&emsp;"(2) Mexico after December 31, 2000, for so long as it is a NAFTA country."
+
+Pub. L. 116–113, §501(d)(1)–(3), transferred subsec. (d) of section 3333 of this title to this section, inserted it after subsec. (b), and redesignated it as subsec. (c). See Codification note above.
+
+Subsec. (d). Pub. L. 116–113, §501(d)(1)–(3), transferred subsec. (e) of section 3333 of this title to this section, inserted it after subsec. (c), and redesignated it as subsec. (d). See Codification note above.
+
+Subsec. (e). Pub. L. 116–260 added subsec. (e).
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Amendment by section 501(b) to (d) of Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under section 81c of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

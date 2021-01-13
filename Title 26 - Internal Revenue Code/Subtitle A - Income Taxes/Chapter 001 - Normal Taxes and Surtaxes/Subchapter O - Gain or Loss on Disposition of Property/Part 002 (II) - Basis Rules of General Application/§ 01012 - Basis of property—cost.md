@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
+The basis of property shall be the cost of such property, except as otherwise provided in thissubchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
 
 #### (b) Special rule for apportioned real estate taxes
 

@@ -36,7 +36,7 @@ The Secretary, in coordination with the Director of the Centers for Disease Cont
 
 &emsp;(2) providing training for public health entomologists and other health care professionals, as appropriate, to address vector-borne diseases, including tick-borne diseases;
 
-&emsp;(3) conducting research to develop and validate prevention and control tools and methods, including evidence-based and innovative, evidence-informed tools and methods to anticipate and respond to disease outbreaks; or
+&emsp;(3) conducting research to develop and validate prevention and control tools and methods, including evidence-based and innovative,evidence-informed tools and methods to anticipate and respond to disease outbreaks; or
 
 &emsp;(4) preparing for and responding to outbreaks of vector-borne diseases, including tick-borne diseases.
 

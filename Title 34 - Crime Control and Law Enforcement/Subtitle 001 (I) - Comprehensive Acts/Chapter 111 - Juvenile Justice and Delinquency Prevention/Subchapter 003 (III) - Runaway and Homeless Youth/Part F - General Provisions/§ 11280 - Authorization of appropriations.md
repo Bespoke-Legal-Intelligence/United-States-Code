@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;There are authorized to be appropriated to carry out this subchapter (other than part E)$127,421,000 for each of fiscal years 2019 through 2020.
+&emsp;There are authorized to be appropriated to carry out this subchapter (other than part E) $127,421,000 for each of fiscal years 2019 through 2020.
 
 #### (2) Allocation
 
@@ -35,6 +35,8 @@
 No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
 (Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §11, Oct. 8, 2008, 122 Stat. 4073; Pub. L. 115–385, title IV, §402(b), Dec. 21, 2018, 132 Stat. 5159.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -97,6 +99,8 @@ Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 Subsec. (b). Pub. L. 95–115, §7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
 
 <b>1976</b>—Pub. L. 94–273 substituted "June 30, 1975, and 1976, and September 30, 1977" for "June 30, 1975, 1976, and 1977".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

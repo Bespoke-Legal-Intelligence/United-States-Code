@@ -2,11 +2,11 @@
 
 #### (a) Benefits
 
-The Secretary, acting through the Commissioner, shall offer limited benefits to a Tier 1 participant who has been certified in accordance with the guidelines referred to in subsection (b). Such benefits may include a reduction in the score assigned pursuant to the Automated Targeting System of not greater than 20 percent of the high-risk threshold established by the Secretary.
+The Secretary, acting through the Commissioner, shall offer limited benefits to a Tier 1participant who has been certified in accordance with the guidelines referred to in subsection (b). Such benefits may include a reduction in the score assigned pursuant to the Automated Targeting System of not greater than 20 percent of the high-risk threshold established by the Secretary.
 
 #### (b) Guidelines
 
-Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall update the guidelines for certifyinga C–TPAT participant's security measures and supply chain security practices under this section. Such guidelines shall include a background investigation and extensive documentation review.
+Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall update the guidelines for certifying a C–TPAT participant's security measures and supply chain security practices under this section. Such guidelines shall include a background investigation and extensive documentation review.
 
 #### (c) Timeframe
 

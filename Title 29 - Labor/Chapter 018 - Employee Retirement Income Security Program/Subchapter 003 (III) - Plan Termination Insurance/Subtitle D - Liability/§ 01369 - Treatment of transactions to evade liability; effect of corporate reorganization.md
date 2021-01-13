@@ -22,6 +22,8 @@ For purposes of this subtitle, the following rules apply in the case of certain 
 
 (Pub. L. 93–406, title IV, §4069, as added Pub. L. 99–272, title XI, §11013(a), Apr. 7, 1986, 100 Stat. 260.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 99–272, title XI, §11013(b), Apr. 7, 1986, 100 Stat. 261, provided that: "Section 4069(a) of the Employee Retirement Income Security Act of 1974 (as added by subsection (a)) \[subsec. (a) of this section\] shall apply with respect to transactions becoming effective on or after January 1, 1986."

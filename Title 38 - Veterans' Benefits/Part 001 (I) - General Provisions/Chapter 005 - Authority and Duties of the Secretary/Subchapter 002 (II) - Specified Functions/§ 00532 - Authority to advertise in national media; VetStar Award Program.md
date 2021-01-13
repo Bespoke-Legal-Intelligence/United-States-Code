@@ -16,6 +16,8 @@ VetStar Award Program.—(1) The Secretary shall establish an award program, to 
 
 (Added Pub. L. 110–389, title VIII, §809(a), Oct. 10, 2008, 122 Stat. 4189; amended Pub. L. 112–154, title VII, §709(a), (b)(1), Aug. 6, 2012, 126 Stat. 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–154 inserted "; VetStar Award Program" after "national media" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

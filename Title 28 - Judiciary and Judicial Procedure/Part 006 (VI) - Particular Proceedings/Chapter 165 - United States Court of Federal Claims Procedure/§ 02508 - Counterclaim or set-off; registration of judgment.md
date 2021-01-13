@@ -14,6 +14,8 @@ Based on title 28, U.S.C., 1940 ed., §252 (Mar. 3, 1911, ch. 231, §146, 36 Sta
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
@@ -23,6 +25,8 @@ Changes were made in phraseology.
 <b>1954</b>—Act Sept. 3, 1954, struck out "United States" from name of Court of Claims in first par.
 
 <b>1953</b>—Act July 28, 1953, substituted "United States Court of Claims" for "Court of Claims" in first par., and substituted "shall be enforceable as other judgments" for "be a judgment of such district court and enforceable as such" in third par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

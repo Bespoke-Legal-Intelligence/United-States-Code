@@ -38,6 +38,8 @@ Based on section 255 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 
 Punishment provision was rewritten to make it more definite by substituting a maximum of $5,000 in lieu of the words "fined at the discretion of the court." As thus revised this provision conforms with the first punishment provision of section 111 of this title. So, also, the greater punishment provided by the second paragraph of section 111 was added to this section for offenses involving the use of dangerous weapons.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–294 repealed Pub. L. 103–322, §320101(b)(1). See 1994 Amendment note below.
@@ -78,17 +80,19 @@ Subsecs. (b) to (e). Pub. L. 92–539 added subsecs. (b) to (e).
 
 <b>1964</b>—Pub. L. 88–493 included heads of foreign states or governments and foreign ministers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–467, §1, Oct. 8, 1976, 90 Stat. 1997, provided: "That this Act \[enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notesunder this section\] may be cited as the 'Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons'."
+Pub. L. 94–467, §1, Oct. 8, 1976, 90 Stat. 1997, provided: "That this Act \[enacting section 878 of this title, amending this section and sections 11, 970, 1116, and 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Act for the Prevention and Punishment of Crimes Against Internationally Protected Persons'."
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–539, §1, Oct. 24, 1972, 86 Stat. 1070, provided: "That this Act \[enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Act for the Protection of Foreign Officials and Official Guests of the United States'."
+Pub. L. 92–539, §1, Oct. 24, 1972, 86 Stat. 1070, provided: "That this Act \[enacting sections 970, 1116, and 1117 ofthis title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Act for the Protection of Foreign Officials and Official Guests of the United States'."
 
 #### State and Local Laws Not Superseded
 

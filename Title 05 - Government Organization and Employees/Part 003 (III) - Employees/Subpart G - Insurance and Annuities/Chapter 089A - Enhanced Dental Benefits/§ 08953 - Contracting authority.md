@@ -1,6 +1,6 @@
 ### §8953. Contracting authority
 
-(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding. An employee organization may contract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
+(a)(1) The Office shall contract with a reasonable number of qualified companies for a policy or policies of benefits described under section 8954 without regard to section 6101(b) to (d) oftitle 41 or any other statute requiring competitive bidding. An employee organization may contract with a qualified company for the purpose of participating with that qualified company in any contract between the Office and that qualified company.
 
 (2) The Office shall ensure that each resulting contract is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
@@ -38,6 +38,8 @@
 
 (Added Pub. L. 108–496, §2, Dec. 23, 2004, 118 Stat. 4002; amended Pub. L. 111–350, §5(a)(16), Jan. 4, 2011, 124 Stat. 3842.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
@@ -45,6 +47,8 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §306. Agency strategic plans
 
-(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the Presidentand Congress of its availability. Such plan shall contain—
+(a) Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the President and Congress of its availability. Such plan shall contain—
 
 &emsp;(1) a comprehensive mission statement covering the major functions and operations of the agency;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processes for planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and
 
-&emsp;&emsp;(F) the extent to which the agency has the capacity to assist agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.
+&emsp;&emsp;(F) the extent to which the agency has the capacity to assist agency staff and programoffices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.
 
 (b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 
@@ -48,6 +48,8 @@
 
 (Added Pub. L. 111–352, §2, Jan. 4, 2011, 124 Stat. 3866; amended Pub. L. 115–435, title I, §101(c), Jan. 14, 2019, 132 Stat. 5533.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 306, added Pub. L. 103–62, §3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, §902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241, related to strategic plans, prior to repeal by Pub. L. 111–352, §2, Jan. 4, 2011, 124 Stat. 3866.
@@ -60,9 +62,11 @@ Subsec. (a)(8). Pub. L. 115–435, §101(c)(2), inserted ", and citations to re
 
 Subsec. (a)(9). Pub. L. 115–435, §101(c)(3), added par. (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 115–435, title IV, §403, Jan. 14, 2019, 132 Stat. 5557, provided that: "Except as otherwise provided, this Act \[see Short Title of 2019 Amendment note set out under section 101 of this title\], and the amendmentsmade by this Act, shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 14, 2019\]."
+Pub. L. 115–435, title IV, §403, Jan. 14, 2019, 132 Stat. 5557, provided that: "Except as otherwise provided, this Act \[see Short Title of 2019 Amendment note set out under section 101 of this title\], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 14, 2019\]."
 
 #### Construction of 2019 Amendment
 

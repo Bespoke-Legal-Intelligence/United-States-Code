@@ -16,7 +16,7 @@ Air Carrier Requirements.—(1) The Secretary of Transportation shall require ea
 
 &emsp;(C) the name and telephone number of a contact for each passenger.
 
-(3) In carrying out this subsection, the Secretary of Transportation shall consider the necessity and feasibility of requiring air carriers to collect passenger manifest information as acondition for passengers boarding a flight of the carrier.
+(3) In carrying out this subsection, the Secretary of Transportation shall consider the necessity and feasibility of requiring air carriers to collect passenger manifest information as a condition for passengers boarding a flight of the carrier.
 
 (b)
 
@@ -124,7 +124,7 @@ In subsection (b), the word "imposing" is added for clarity. The words "imposed 
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(d)(8)(A), substituted "The" for "Not later than March 16, 1991, the" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 115–254, §1991(d)(8)(B)(i), substituted "Each" for "Not later than 60 days after thedate of enactment of the Aviation and Transportation Security Act, each".
+Subsec. (c)(1). Pub. L. 115–254, §1991(d)(8)(B)(i), substituted "Each" for "Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each".
 
 Subsec. (c)(2)(F), (5). Pub. L. 115–254, §1991(d)(8)(B)(ii), substituted "Administrator of the Transportation Security Administration" for "Under Secretary".
 

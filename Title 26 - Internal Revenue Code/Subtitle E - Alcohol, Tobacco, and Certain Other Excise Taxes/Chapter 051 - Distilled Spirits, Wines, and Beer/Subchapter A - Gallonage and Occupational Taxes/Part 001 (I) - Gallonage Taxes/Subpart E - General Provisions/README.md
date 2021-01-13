@@ -8,7 +8,13 @@ Subpart E—General Provisions
 | [5064\.](%C2%A7%2005064%20-%20Losses%20resulting%20from%20disaster%2C%20vandalism%2C%20or%20malicious%20mischief.md) | Losses resulting from disaster, vandalism, or malicious mischief. |
 | [5065\.](%C2%A7%2005065%20-%20Territorial%20extent%20of%20law.md) | Territorial extent of law. |
 | [5066\.](%C2%A7%2005066%20-%20Distilled%20spirits%20for%20use%20of%20foreign%20embassies%2C%20legations%2C%20etc.md) | Distilled spirits for use of foreign embassies, legations, etc. |
-| [5067\.](%C2%A7%2005067%20-%20Cross%20reference.md) | Cross reference. |
+| [5067\.](%C2%A7%2005067%20-%20Reduced%20rates%20not%20allowed%20for%20smuggled%20or%20illegally%20produced%20beer%2C%20wine%2C%20or%20spirits.md) | Reduced rates not allowed for illegally produced beer, wine, or spirits. <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [5068\.](%C2%A7%2005068%20-%20Cross%20reference.md) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,11 +24,15 @@ A prior subpart E, comprising sections 5061 to 5065, related to general provisio
 
 #### Amendments
 
+<b>2020</b>—Pub. L. 116–260, div. EE, title I, §108(b), Dec. 27, 2020, 134 Stat. 3049, added items 5067 and 5068 and struck out former item 5067 "Cross reference".
+
 <b>1978</b>—Pub. L. 95–423, §1(b), Oct. 6, 1978, 92 Stat. 936, substituted "Losses resulting from disaster, vandalism, or malicious mischief" for "Losses caused by disaster" in item 5064.
 
 <b>1971</b>—Pub. L. 91–659, §3(b), Jan. 8, 1971, 84 Stat. 1966, added item 5066 and redesignated former item 5066 as 5067.
 
 <b>1965</b>—Pub. L. 89–44, title V, §501(e), June 21, 1965, 79 Stat. 150, struck out item 5063 "Floor stocks tax refunds on distilled spirits, wines, cordials, and beer".
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -35,4 +45,5 @@ A prior subpart E, comprising sections 5061 to 5065, related to general provisio
 - [&sect; 05064 - Losses resulting from disaster, vandalism, or malicious mischief](%C2%A7%2005064%20-%20Losses%20resulting%20from%20disaster%2C%20vandalism%2C%20or%20malicious%20mischief.md)
 - [&sect; 05065 - Territorial extent of law](%C2%A7%2005065%20-%20Territorial%20extent%20of%20law.md)
 - [&sect; 05066 - Distilled spirits for use of foreign embassies, legations, etc](%C2%A7%2005066%20-%20Distilled%20spirits%20for%20use%20of%20foreign%20embassies%2C%20legations%2C%20etc.md)
-- [&sect; 05067 - Cross reference](%C2%A7%2005067%20-%20Cross%20reference.md)
+- [&sect; 05067 - Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits](%C2%A7%2005067%20-%20Reduced%20rates%20not%20allowed%20for%20smuggled%20or%20illegally%20produced%20beer%2C%20wine%2C%20or%20spirits.md)
+- [&sect; 05068 - Cross reference](%C2%A7%2005068%20-%20Cross%20reference.md)

@@ -84,13 +84,71 @@ A written report of the findings of the Board for each inspection under this sec
 
 &emsp;Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
 
-(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929.)
+#### (i) Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+
+#### (1) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term "covered issuer" means an issuer that is required to file reports under section 78m or 78o(d) of this title; and
+
+&emsp;&emsp;(B) the term "non-inspection year" means, with respect to a covered issuer, a year—
+
+&emsp;&emsp;&emsp;(i) during which the Commission identifies the covered issuer under paragraph (2)(A) with respect to every report described in subparagraph (A) filed by the covered issuer during that year; and
+
+&emsp;&emsp;&emsp;(ii) that begins after December 18, 2020.
+
+#### (2) Disclosure to Commission
+
+&emsp;The Commission shall—
+
+&emsp;&emsp;(A) identify each covered issuer that, with respect to the preparation of the audit report on the financial statement of the covered issuer that is included in a report described in paragraph (1)(A) filed by the covered issuer, retains a registered public accounting firm that has a branch or office that—
+
+&emsp;&emsp;&emsp;(i) is located in a foreign jurisdiction; and
+
+&emsp;&emsp;&emsp;(ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction described in clause (i), as determined by the Board; and
+
+&emsp;&emsp;(B) require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
+
+#### (3) Trading prohibition after 3 years of non-inspections
+
+#### (A) In general
+
+&emsp;&emsp;If the Commission determines that a covered issuer has 3 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+&emsp;&emsp;&emsp;(i) on a national securities exchange; or
+
+&emsp;&emsp;&emsp;(ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the "over-the-counter" trading of securities.
+
+#### (B) Removal of initial prohibition
+
+&emsp;&emsp;If, after the Commission imposes a prohibition on a covered issuer under subparagraph (A), the covered issuer certifies to the Commission that the covered issuer has retained a registered public accounting firm that the Board has inspected under this section to the satisfaction of the Commission, the Commission shall end that prohibition.
+
+#### (C) Recurrence of non-inspection years
+
+&emsp;&emsp;If, after the Commission ends a prohibition under subparagraph (B) or (D) with respect to a covered issuer, the Commission determines that the covered issuer has a non-inspection year, the Commission shall prohibit the securities of the covered issuer from being traded—
+
+&emsp;&emsp;&emsp;(i) on a national securities exchange; or
+
+&emsp;&emsp;&emsp;(ii) through any other method that is within the jurisdiction of the Commission to regulate, including through the method of trading that is commonly referred to as the "over-the-counter" trading of securities.
+
+#### (D) Removal of subsequent prohibition
+
+&emsp;&emsp;If, after the end of the 5-year period beginning on the date on which the Commission imposes a prohibition on a covered issuer under subparagraph (C), the covered issuer certifies to the Commission that the covered issuer will retain a registered public accounting firm that the Board is able to inspect under this section, the Commission shall end that prohibition.
+
+#### (4) Rules
+
+&emsp;Not later than 90 days after December 18, 2020, the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
+
+(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, §2, Dec. 18, 2020, 134 Stat. 1063.)
 
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i). Pub. L. 116–222 added subsec. (i).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

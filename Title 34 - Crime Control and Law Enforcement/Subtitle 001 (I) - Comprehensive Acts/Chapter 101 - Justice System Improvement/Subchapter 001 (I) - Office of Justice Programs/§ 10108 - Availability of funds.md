@@ -28,6 +28,8 @@ This section applies to DOJ grant funds for fiscal years beginning with fiscal y
 
 (Pub. L. 90–351, title I, §108, as added Pub. L. 109–162, title XI, §1161(a), Jan. 5, 2006, 119 Stat. 3118; amended Pub. L. 109–271, §8(g), Aug. 12, 2006, 120 Stat. 767.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3712g of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -35,6 +37,8 @@ Section was formerly classified to section 3712g of Title 42, The Public Health 
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–271 substituted "be deobligated" for "revert to the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

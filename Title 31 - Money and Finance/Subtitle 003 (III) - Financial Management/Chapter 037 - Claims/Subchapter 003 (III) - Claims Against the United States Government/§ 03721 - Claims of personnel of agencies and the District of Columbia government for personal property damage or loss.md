@@ -20,7 +20,7 @@
 
 (c) On paying a claim under this section, the Government is subrogated for the amount of the payment to a right or claim that the claimant may have against a foreign country for the damage or loss for which the Government made the payment.
 
-(d) The Mayor of the District of Columbia may settle and pay a claim against the District of Columbia government made by an officer or employee of the District of Columbia governmentto the same extent the head of an agency may settle and pay a claim under this section.
+(d) The Mayor of the District of Columbia may settle and pay a claim against the District ofColumbia government made by an officer or employee of the District of Columbia government to the same extent the head of an agency may settle and pay a claim under this section.
 
 (e) A claim may not be allowed under this section if the personal property damage or loss occurred at quarters occupied by the claimant in a State or the District of Columbia that were not assigned or provided in kind by the United States Government or the District of Columbia government.
 
@@ -208,6 +208,8 @@ Act
 
 July 28, 1982, Pub. L. 97–226, §1(a), 96 Stat. 245.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–106 inserted after first sentence "If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000."
@@ -219,6 +221,8 @@ July 28, 1982, Pub. L. 97–226, §1(a), 96 Stat. 245.
 Subsec. (c). Pub. L. 100–565, §1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted "section" for "subsection", struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
 <b>1983</b>—Subsec. (b). Pub. L. 97–452 substituted "$25,000" for "$15,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

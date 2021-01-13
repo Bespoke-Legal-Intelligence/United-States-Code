@@ -62,7 +62,7 @@ The compensation provided under this section, when authorized or approved by the
 
 This section shall take effect on July 31, 2001, unless Congress otherwise provides in an Act enacted before that date.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3628\], Oct. 30, 2000, 114 Stat. 1654, 1654A–506; Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(A), Dec. 28, 2001, 115 Stat. 1372.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3628\], Oct. 30, 2000, 114 Stat. 1654, 1654A–506; Pub. L.107–107, div. C, title XXXI, §3151(a)(4)(A), Dec. 28, 2001, 115 Stat. 1372.)
 
 #### Amendments
 

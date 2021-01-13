@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–206, title IV, §420(b), Dec. 20, 1993, 107 Stat. 2438, struck out item 10707 "Delivery to district court".

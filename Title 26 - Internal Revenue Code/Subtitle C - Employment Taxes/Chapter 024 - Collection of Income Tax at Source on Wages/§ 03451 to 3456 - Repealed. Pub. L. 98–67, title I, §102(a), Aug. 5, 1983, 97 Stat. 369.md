@@ -42,7 +42,7 @@ Election to have paragraph (1) not apply.—Paragraph (1) shall not apply with r
 
 "(d)
 
-Estimated Tax Payments.—For purposes of determining the amount of any addition to tax under section 6654 of the Internal Revenue Code of 1986 with respect to any installment required to be paid before July1, 1983, the amount of the credit allowed by section 31 of such Code for any taxable year which includes any portion of the period beginning July 1, 1983, and ending December 31, 1983, shall be increased by an amount equal to 10 percent of the aggregate amount of payments—
+Estimated Tax Payments.—For purposes of determining the amount of any addition to tax under section 6654 of the Internal Revenue Code of 1986 with respect to any installment required to be paid before July 1, 1983, the amount of the credit allowed by section 31 of such Code for any taxable year which includes any portion of the period beginning July 1, 1983, and ending December 31, 1983, shall be increased by an amount equal to 10 percent of the aggregate amount of payments—
 
 &emsp;"(1) which are received during the portion of such taxable year after June 30, 1983, and before January 1, 1984, and
 

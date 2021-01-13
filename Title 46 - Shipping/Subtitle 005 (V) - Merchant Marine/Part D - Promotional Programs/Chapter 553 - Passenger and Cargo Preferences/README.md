@@ -1,14 +1,14 @@
 ### <b>CHAPTER 553—PASSENGER AND CARGO PREFERENCES</b>
 
-#### SUBCHAPTER I—GENERAL
+#### SUBCHAPTER I—GENERAL <sup>1</sup>
 
 | Sec. |  |
 | :--- | ---: |
-| [55301\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2055301%20-%20Priority%20loading%20for%20coal.md) | Priority loading for coal. |
-| [55302\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2055302%20-%20Transportation%20of%20United%20States%20Government%20personnel.md) | Transportation of United States Government personnel. |
-| [55303\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2055303%20-%20Motor%20vehicles%20owned%20by%20United%20States%20Government%20personnel.md) | Motor vehicles owned by United States Government personnel. |
-| [55304\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2055304%20-%20Exports%20financed%20by%20the%20United%20States%20Government.md) | Exports financed by the United States Government. |
-| [55305\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2055305%20-%20Cargoes%20procured%2C%20furnished%2C%20or%20financed%20by%20the%20United%20States%20Government.md) | Cargoes procured, furnished, or financed by the United States Government. |
+| \[55301. | Renumbered.\] |
+| [55302\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055302%20-%20Transportation%20of%20United%20States%20Government%20personnel.md) | Transportation of United States Government personnel. |
+| [55303\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055303%20-%20Motor%20vehicles%20owned%20by%20United%20States%20Government%20personnel.md) | Motor vehicles owned by United States Government personnel. |
+| [55304\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055304%20-%20Exports%20financed%20by%20the%20United%20States%20Government.md) | Exports financed by the United States Government. |
+| [55305\.](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/%C2%A7%2055305%20-%20Cargoes%20procured%2C%20furnished%2C%20or%20financed%20by%20the%20United%20States%20Government.md) | Cargoes procured, furnished, or financed by the United States Government. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,15 +39,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1024(b)(1)(B)(i), Jan. 1, 2021, 134 Stat. 3842, which directed amendment of the analysis for subchapter I of this chapter by striking out item 55301, was executed by striking item 55301 "Priority loading for coal" from this analysis to reflect the probable intent of Congress.
+
 <b>2013</b>—Pub. L. 113–67, div. A, title VI, §602(b), Dec. 26, 2013, 127 Stat. 1188, struck out items 55316 "Financing the transportation of agricultural commodities" and 55317 "Termination of subchapter".
+
+<i><sup>1</sup></i><i> So in original. Does not conform to subchapter heading.</i>
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - General](Subchapter%20001%20%28I%29%20-%20General/README.md)
+- [Subchapter 001 (I) - Government Impelled Transportation](Subchapter%20001%20%28I%29%20-%20Government%20Impelled%20Transportation/README.md)
 - [Subchapter 002 (II) - Export Transportation of Agricultural Commodities](Subchapter%20002%20%28II%29%20-%20Export%20Transportation%20of%20Agricultural%20Commodities/README.md)
 - [Subchapter 003 (III) - American Great Lakes Vessels](Subchapter%20003%20%28III%29%20-%20American%20Great%20Lakes%20Vessels/README.md)

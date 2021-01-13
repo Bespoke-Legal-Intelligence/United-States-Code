@@ -24,7 +24,7 @@
 
 #### (3) Subsequent renewal of waiver
 
-&emsp;The President may renew a waiver under paragraph (1) for subsequent periods of notmore than 12 months each if, not less than 15 days before the renewal is to take effect, the Secretary of State certifies to the appropriate congressional committees and leadership that the government of the country to which the waiver applies has effectively implemented and is effectively enforcing the measures that formed the basis for the certification under paragraph (2).
+&emsp;The President may renew a waiver under paragraph (1) for subsequent periods of not more than 12 months each if, not less than 15 days before the renewal is to take effect, the Secretary of State certifies to the appropriate congressional committees and leadership that the government of the country to which the waiver applies has effectively implemented and is effectively enforcing the measures that formed the basis for the certification under paragraph (2).
 
 #### (b) Waivers for national security and access to prescription medications
 
@@ -38,7 +38,7 @@
 
 #### (2) Monitoring
 
-&emsp;The President shall establish a monitoring program to verify that a person that receives a waiver under paragraph (1)(B) is not trafficking illicit opioids.
+&emsp;The President shall establish a monitoring program to verify that a person that receivesa waiver under paragraph (1)(B) is not trafficking illicit opioids.
 
 #### (3) Notification
 
@@ -50,7 +50,15 @@ The President may waive, for renewable periods of 180 days, the application of t
 
 (Pub. L. 116–92, div. F, title LXXII, §7214, Dec. 20, 2019, 133 Stat. 2267.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the original "this subtitle", meaning subtitle A (§§7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities of President under this section delegated to Secretary of State, in consultation with the Secretary of the Treasury, by section 1(b)(i) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 

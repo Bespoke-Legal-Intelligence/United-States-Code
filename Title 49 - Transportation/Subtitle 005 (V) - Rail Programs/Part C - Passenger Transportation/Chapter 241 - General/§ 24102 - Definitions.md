@@ -160,7 +160,7 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 <b>2008</b>—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: " 'basic system' means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria."
 
-<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: " 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
+<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows:" 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
 
 Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted ", including a unit of State or local government," after "means a person". Former par. (7) redesignated (6).
 

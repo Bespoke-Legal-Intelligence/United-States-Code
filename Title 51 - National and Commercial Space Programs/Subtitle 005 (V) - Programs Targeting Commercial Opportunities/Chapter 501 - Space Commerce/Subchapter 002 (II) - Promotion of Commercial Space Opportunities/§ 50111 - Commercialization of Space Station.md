@@ -46,7 +46,7 @@ Reports.—Not later than December 1, 2017, and biennially thereafter until 2023
 
 &emsp;&emsp;(A) a description of the progress in achieving the Administration's deep space human exploration objectives on ISS and prospects for accomplishing future mission requirements, space exploration objectives, and other research objectives on future commercially supplied low-Earth orbit platforms or migration of those objectives to cis-lunar space;
 
-&emsp;&emsp;(B) the steps NASA is taking and will take, including demonstrations that could be conducted on the ISS, to stimulate and facilitate commercial demand and supply of products and services in low-Earth orbit;
+&emsp;&emsp;(B) the steps NASA is taking and will take, including demonstrations that couldbe conducted on the ISS, to stimulate and facilitate commercial demand and supply of products and services in low-Earth orbit;
 
 &emsp;&emsp;(C) an identification of barriers preventing the commercialization of low-Earth orbit, including issues relating to policy, regulations, commercial intellectual property, data, and confidentiality, that could inhibit the use of the ISS as a commercial incubator;
 
@@ -120,15 +120,19 @@ Pub. L. 110–422, title IX, §902, Oct. 15, 2008, 122 Stat. 4805.
 
 In subsection (b)(1)(D), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008, referred to in subsec. (b)(2), is section 101(3)(A) of Pub. L. 110–422, Oct. 15, 2008, 122 Stat. 4783, which was not classified to the Code.
 
-The National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (c)(1), (2)(E), (G), is Pub. L. 115–10, Mar. 21, 2017, 131 Stat. 18. Section 2 of the Act is set out as a note under section 10101 of this title, section 301(b)(2) of the Act is set out in a note under this section, and section 432 of the Act is set out in a note under section 20302 of this title.
+The National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (c)(1), (2)(E), (G), is Pub. L. 115–10, Mar. 21, 2017, 131Stat. 18. Section 2 of the Act is set out as a note under section 10101 of this title, section 301(b)(2) of the Act is set out in a note under this section, and section 432 of the Act is set out in a note under section 20302 of this title.
 
 #### Amendments
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–10 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Maximizing Utilization of ISS
 

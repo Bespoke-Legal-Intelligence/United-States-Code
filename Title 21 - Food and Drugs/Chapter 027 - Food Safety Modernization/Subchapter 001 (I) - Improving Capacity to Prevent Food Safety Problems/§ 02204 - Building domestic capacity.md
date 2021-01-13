@@ -74,9 +74,9 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 
 &emsp;The report described under paragraph (1)(B) shall—
 
-&emsp;&emsp;(A) include conclusions concerning the reasons that such existing programs have proven successful or not successful and what factors contributed to such conclusions;
+&emsp;&emsp;(A) include conclusions concerning the reasons that such existing programs haveproven successful or not successful and what factors contributed to such conclusions;
 
-&emsp;&emsp;(B) include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at suchDepartment as identified during the evaluation conduct <sup>3</sup> under this subsection; and
+&emsp;&emsp;(B) include recommendations for consolidation and elimination to reduce duplication and inefficiencies in such programs at such Department as identified during the evaluation conduct <sup>3</sup> under this subsection; and
 
 &emsp;&emsp;(C) be made publicly available in a publication entitled "Guide to the U.S. Department of Health and Human Services Programs".
 
@@ -91,6 +91,8 @@ The Secretary, the Secretary of Agriculture, and the Secretary of Homeland Secur
 &emsp;Not later than 15 months after January 4, 2011, the Secretary shall submit to Congress a report that describes the findings of the study conducted under paragraph (1) and that includes any recommendations determined appropriate by the Secretary.
 
 (Pub. L. 111–353, title I, §110, Jan. 4, 2011, 124 Stat. 3913.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

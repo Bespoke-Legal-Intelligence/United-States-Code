@@ -36,7 +36,7 @@ In this chapter:
 
 <b>1985</b>—Par. (1)(A)(ii). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1984</b>—Par. (1)(A)(i)(II), (ii)(II). Pub. L. 98–525, §533(a)(1), inserted "(other than after having been placed on that list after a selection from below the promotion zone)".
+<b>1984</b>—Par. (1)(A)(i)(II), (ii)(II). Pub. L. 98–525, §533(a)(1), inserted "(other than after having beenplaced on that list after a selection from below the promotion zone)".
 
 Par. (1)(B). Pub. L. 98–525, §533(a)(2), inserted "in the promotion zone" after "the junior officer" and struck out "in the promotion zone" after "higher grade".
 

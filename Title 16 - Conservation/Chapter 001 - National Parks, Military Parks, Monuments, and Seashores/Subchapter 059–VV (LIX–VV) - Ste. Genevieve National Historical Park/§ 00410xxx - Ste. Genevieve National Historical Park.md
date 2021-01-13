@@ -116,7 +116,7 @@ The Map shall be on file and available for public inspection in the appropriate 
 
 #### (4) Changes or alterations
 
-&emsp;No changes or alterations shall be made to any property or project covered by a cooperative agreement entered into under paragraph (1) unless the Secretary and the other party tothe agreement agree to the changes or alterations.
+&emsp;No changes or alterations shall be made to any property or project covered by a cooperative agreement entered into under paragraph (1) unless the Secretary and the other party to the agreement agree to the changes or alterations.
 
 #### (5) Conversion, use, or disposal
 

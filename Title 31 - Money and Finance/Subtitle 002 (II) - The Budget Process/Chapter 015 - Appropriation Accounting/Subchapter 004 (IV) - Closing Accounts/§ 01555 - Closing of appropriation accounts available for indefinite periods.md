@@ -30,6 +30,8 @@ In subsection (a), the words "indefinite period" are substituted for "not limite
 
 In subsection (b), the words "or were heretofore withdrawn from the appropriation account by administrative action" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 substituted "Closing of appropriation accounts available" for "Withdrawal of unobligated balances of appropriations" in section catchline and amended text generally. Prior to amendment, text read as follows:
@@ -38,7 +40,9 @@ In subsection (b), the words "or were heretofore withdrawn from the appropriatio
 
 "(b) An amount of an appropriation withdrawn under this section may be restored to the applicable appropriation account to pay obligations and to settle accounts."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, with transitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
+Amendment by Pub. L. 101–510 applicable to any appropriation account the obligated balance of which, on Nov. 5, 1990, has not been transferred under section 1552(a)(1) of this title, as in effect Nov. 4, 1990, withtransitional provisions, see section 1405(b) of Pub. L. 101–510, set out as a note under section 1551 of this title.
 

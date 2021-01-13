@@ -104,7 +104,7 @@ Pub. L. 114–151, May 9, 2016, 130 Stat. 369, provided that:
 
 #### "SEC. 2. SENSE OF CONGRESS.
 
-"It is the sense of Congress that the President should establish an interagency coordinating committee tocoordinate the efforts of the executive branch to protect and preserve international cultural property at risk from political instability, armed conflict, or natural or other disasters. Such committee should—
+"It is the sense of Congress that the President should establish an interagency coordinating committee to coordinate the efforts of the executive branch to protect and preserve international cultural property at risk from political instability, armed conflict, or natural or other disasters. Such committee should—
 
 &emsp;"(1) be chaired by a Department of State employee of Assistant Secretary rank or higher, concurrent with that employee's other duties;
 

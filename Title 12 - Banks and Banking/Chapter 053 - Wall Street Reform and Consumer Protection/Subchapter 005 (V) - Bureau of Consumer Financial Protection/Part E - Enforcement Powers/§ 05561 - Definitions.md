@@ -24,6 +24,8 @@ For purposes of this part, the following definitions shall apply:
 
 (Pub. L. 111–203, title X, §1051, July 21, 2010, 124 Stat. 2018.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 111–203, title X, §1058, July 21, 2010, 124 Stat. 2035, provided that: "This subtitle \[subtitle E (§§1051–1058), enacting this part\] shall become effective on the designated transfer date."

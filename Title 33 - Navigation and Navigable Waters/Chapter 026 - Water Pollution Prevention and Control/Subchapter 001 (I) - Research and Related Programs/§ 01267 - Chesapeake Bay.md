@@ -178,7 +178,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;&emsp;(A) establish a small watershed grants program as part of the Chesapeake Bay Program; and
 
-&emsp;&emsp;(B) offer technical assistance and assistance grants under subsection (d) to local governments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
+&emsp;&emsp;(B) offer technical assistance and assistance grants under subsection (d) to localgovernments and nonprofit organizations and individuals in the Chesapeake Bay region to implement—
 
 &emsp;&emsp;&emsp;(i) cooperative tributary basin strategies that address the water quality and living resource needs in the Chesapeake Bay ecosystem; and
 
@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 
@@ -228,9 +228,21 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended.
+There are authorized to be appropriated to carry out this section—
 
-(June 30, 1948, ch. 758, title I, §117, as added Pub. L. 100–4, title I, §103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, §203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, §5007, Dec. 16, 2016, 130 Stat. 1896.)
+&emsp;(1) for fiscal year 2021, $90,000,000;
+
+&emsp;(2) for fiscal year 2022, $90,500,000;
+
+&emsp;(3) for fiscal year 2023, $91,000,000;
+
+&emsp;(4) for fiscal year 2024, $91,500,000; and
+
+&emsp;(5) for fiscal year 2025, $92,000,000.
+
+(June 30, 1948, ch. 758, title I, §117, as added Pub. L. 100–4, title I, §103, Feb. 4, 1987, 101 Stat. 10; amended Pub. L. 106–457, title II, §203, Nov. 7, 2000, 114 Stat. 1967; Pub. L. 114–322, title IV, §5007, Dec. 16, 2016, 130 Stat. 1896; Pub. L. 116–188, title I, §109, Oct. 30, 2020, 134 Stat. 920.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -238,9 +250,225 @@ November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the
 
 #### Amendments
 
+<b>2020</b>—Subsec. (j). Pub. L. 116–188 added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005. Such sums shall remain available until expended."
+
 <b>2016</b>—Subsec. (i)(3). Pub. L. 114–322 added par. (3).
 
 <b>2000</b>—Pub. L. 106–457 amended section generally, substituting subsecs. (a) to (j) for former subsecs. (a) to (d), which related to continuation of the Chesapeake Bay Program and establishment and maintenance in the Environmental Protection Agency of an office, division, or branch of Chesapeake Bay Programs, interstate development plan grants, progress reports from grant recipient States, and authorization of appropriations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Chesapeake Watershed Investments for Landscape Defense
+
+Pub. L. 116–188, title I, §111, Oct. 30, 2020, 134 Stat. 921, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Chesapeake bay agreements.—The term 'Chesapeake Bay agreements' means the formal, voluntary agreements—
+
+&emsp;&emsp;"(A) executed to achieve the goal of restoring and protecting the Chesapeake Bay watershed ecosystem and the living resources of the Chesapeake Bay watershed ecosystem; and
+
+&emsp;&emsp;"(B) signed by the Chesapeake Executive Council.
+
+&emsp;"(2)
+
+Chesapeake bay program.—The term 'Chesapeake Bay program' means the program directed by the Chesapeake Executive Council in accordance with the Chesapeake Bay agreements.
+
+&emsp;"(3)
+
+Chesapeake bay watershed.—The term 'Chesapeake Bay watershed' means the region that covers—
+
+&emsp;&emsp;"(A) the Chesapeake Bay;
+
+&emsp;&emsp;"(B) the portions of the States of Delaware, Maryland, New York, Pennsylvania, Virginia, and West Virginia that drain into the Chesapeake Bay; and
+
+&emsp;&emsp;"(C) the District of Columbia.
+
+&emsp;"(4)
+
+Chesapeake executive council.—The term 'Chesapeake Executive Council' means the council comprised of—
+
+&emsp;&emsp;"(A) the Governors of each of the States of Delaware, Maryland, New York, Pennsylvania, Virginia, and West Virginia;
+
+&emsp;&emsp;"(B) the Mayor of the District of Columbia;
+
+&emsp;&emsp;"(C) the Chair of the Chesapeake Bay Commission; and
+
+&emsp;&emsp;"(D) the Administrator of the Environmental Protection Agency.
+
+&emsp;"(5)
+
+Chesapeake wild program.—The term 'Chesapeake WILD program' means the nonregulatory program established by the Secretary under subsection (b)(1).
+
+&emsp;"(6)
+
+Grant program.—The term 'grant program' means the Chesapeake Watershed Investments for Landscape Defense grant program established by the Secretary under subsection (c)(1).
+
+&emsp;"(7)
+
+Restoration and protection activity.—The term 'restoration and protection activity' means an activity carried out for the conservation, stewardship, and enhancement of habitat for fish and wildlife—
+
+&emsp;&emsp;"(A) to preserve and improve ecosystems and ecological processes on which the fish and wildlife depend; and
+
+&emsp;&emsp;"(B) for use and enjoyment by the public.
+
+&emsp;"(8)
+
+Secretary.—The term 'Secretary' means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
+
+"(b)
+
+Program Establishment.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Oct. 30, 2020\], the Secretary shall establish a nonregulatory program, to be known as the 'Chesapeake Watershed Investments for Landscape Defense program'.
+
+&emsp;"(2)
+
+Purposes.—The purposes of the Chesapeake WILD program are—
+
+&emsp;&emsp;"(A) coordinating restoration and protection activities among Federal, State, local, and regional entities and conservation partners throughout the Chesapeake Bay watershed;
+
+&emsp;&emsp;"(B) engaging other agencies and organizations to build a broader range of partner support, capacity, and potential funding for projects in the Chesapeake Bay watershed;
+
+&emsp;&emsp;"(C) carrying out coordinated restoration and protection activities, and providing for technical assistance, throughout the Chesapeake Bay watershed—
+
+&emsp;&emsp;&emsp;"(i) to sustain and enhance restoration and protection activities;
+
+&emsp;&emsp;&emsp;"(ii) to improve and maintain water quality to support fish and wildlife, habitats of fish and wildlife, and drinking water for people;
+
+&emsp;&emsp;&emsp;"(iii) to sustain and enhance water management for volume and flood damage mitigation improvements to benefit fish and wildlife habitat;
+
+&emsp;&emsp;&emsp;"(iv) to improve opportunities for public access and recreation in the Chesapeake Bay watershed consistent with the ecological needs of fish and wildlife habitat;
+
+&emsp;&emsp;&emsp;"(v) to facilitate strategic planning to maximize the resilience of natural ecosystems and habitats under changing watershed conditions;
+
+&emsp;&emsp;&emsp;"(vi) to engage the public through outreach, education, and citizen involvement to increase capacity and support for coordinated restoration and protection activities in the Chesapeake Bay watershed;
+
+&emsp;&emsp;&emsp;"(vii) to sustain and enhance vulnerable communities and fish and wildlife habitat;
+
+&emsp;&emsp;&emsp;"(viii) to conserve and restore fish, wildlife, and plant corridors; and
+
+&emsp;&emsp;&emsp;"(ix) to increase scientific capacity to support the planning, monitoring, and research activities necessary to carry out coordinated restoration and protection activities.
+
+&emsp;"(3)
+
+Duties.—In carrying out the Chesapeake WILD program, the Secretary shall—
+
+&emsp;&emsp;"(A) draw on existing plans for the Chesapeake Bay watershed, or portions of the Chesapeake Bay watershed, including the Chesapeake Bay agreements, and work in consultation with applicable management entities, including Chesapeake Bay program partners, such as the Federal Government, State and local governments, the Chesapeake Bay Commission, and other regional organizations, as appropriate, to identify, prioritize, and implement restoration and protection activities within the Chesapeake Bay watershed;
+
+&emsp;&emsp;"(B) adopt a Chesapeake Bay watershed-wide strategy that—
+
+&emsp;&emsp;&emsp;"(i) supports the implementation of a shared set of science-based restoration and protection activities developed in accordance with subparagraph (A); and
+
+&emsp;&emsp;&emsp;"(ii) targets cost-effective projects with measurable results; and
+
+&emsp;&emsp;"(C) establish the grant program in accordance with subsection (c).
+
+&emsp;"(4)
+
+Coordination.—In establishing the Chesapeake WILD program, the Secretary shall consult, as appropriate, with—
+
+&emsp;&emsp;"(A) the heads of Federal agencies, including—
+
+&emsp;&emsp;&emsp;"(i) the Administrator of the Environmental Protection Agency;
+
+&emsp;&emsp;&emsp;"(ii) the Administrator of the National Oceanic and Atmospheric Administration;
+
+&emsp;&emsp;&emsp;"(iii) the Chief of the Natural Resources Conservation Service;
+
+&emsp;&emsp;&emsp;"(iv) the Chief of Engineers;
+
+&emsp;&emsp;&emsp;"(v) the Director of the United States Geological Survey;
+
+&emsp;&emsp;&emsp;"(vi) the Secretary of Transportation;
+
+&emsp;&emsp;&emsp;"(vii) the Chief of the Forest Service; and
+
+&emsp;&emsp;&emsp;"(viii) the head of any other applicable agency;
+
+&emsp;&emsp;"(B) the Governors of each of the States of Delaware, Maryland, New York, Pennsylvania, Virginia, and West Virginia and the Mayor of the District of Columbia;
+
+&emsp;&emsp;"(C) fish and wildlife joint venture partnerships; and
+
+&emsp;&emsp;"(D) other public agencies and organizations with authority for the planning and implementation of conservation strategies in the Chesapeake Bay watershed.
+
+"(c)
+
+Grants and Technical Assistance.—
+
+&emsp;"(1)
+
+Chesapeake wild grant program.—To the extent that funds are made available to carry out this subsection, the Secretary shall establish and carry out, as part of the Chesapeake WILD program, a voluntary grant and technical assistance program, to be known as the 'Chesapeake Watershed Investments for Landscape Defense grant program', to provide competitive matching grants of varying amounts and technical assistance to eligible entities described in paragraph (2) to carry out activities described in subsection (b)(2).
+
+&emsp;"(2)
+
+Eligible entities.—The following entities are eligible to receive a grant and technical assistance under the grant program:
+
+&emsp;&emsp;"(A) A State.
+
+&emsp;&emsp;"(B) The District of Columbia.
+
+&emsp;&emsp;"(C) A unit of local government.
+
+&emsp;&emsp;"(D) A nonprofit organization.
+
+&emsp;&emsp;"(E) An institution of higher education as such term is defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+&emsp;&emsp;"(F) Any other entity that the Secretary determines to be appropriate in accordance with the criteria established under paragraph (3).
+
+&emsp;"(3)
+
+Criteria.—The Secretary, in consultation with officials and entities described in subsection (b)(4), shall establish criteria for the grant program to help ensure that activities funded under this subsection—
+
+&emsp;&emsp;"(A) accomplish 1 or more of the purposes described in subsection (b)(2); and
+
+&emsp;&emsp;"(B) advance the implementation of priority actions or needs identified in the Chesapeake Bay watershed-wide strategy adopted under subsection (b)(3)(B).
+
+&emsp;"(4)
+
+Cost sharing.—
+
+&emsp;&emsp;"(A)
+
+Department of the interior share.—The Department of the Interior share of the cost of a project funded under the grant program shall not exceed 50 percent of the total cost of the project, as determined by the Secretary.
+
+&emsp;&emsp;"(B)
+
+Non-department of the interior share.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The non-Department of the Interior share of the cost of a project funded under the grant program may be provided in cash or in the form of an in-kind contribution of services or materials.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Other federal funding.—Non-Department of the Interior Federal funds may be used for not more than 25 percent of the total cost of a project funded under the grant program.
+
+&emsp;"(5)
+
+Administration.—The Secretary may enter into an agreement to manage the grant program with an organization that offers grant management services.
+
+"(d)
+
+Reporting.—Not later than 180 days after the date of enactment of this Act \[Oct. 30, 2020\], and annually thereafter, the Secretary shall submit to Congress a report describing the implementation of this section, including a description of each project that has received funding under this section.
+
+"(e)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2021 through 2025.
+
+&emsp;"(2)
+
+Supplement, not supplant.—Funds made available under paragraph (1) shall supplement, and not supplant, funding for other activities conducted by the Secretary in the Chesapeake Bay watershed."
 
 #### Chesapeake Bay Accountability and Recovery
 
@@ -358,7 +586,7 @@ In General.—The Director, in consultation with the Chesapeake Executive Counci
 
 &emsp;"(3) to the extent that information is available, a detailed accounting from each State of all funds received and obligated from a Federal agency for restoration activities during the current and preceding fiscal years; and
 
-&emsp;"(4) a description of each of the proposed Federal and State restoration activities to be carried out in the succeeding fiscal year (corresponding to those activities listed in subparagraphs (A) and (B) of paragraph (1)), including—
+&emsp;"(4) a description of each of the proposed Federal and State restoration activities to be carried out inthe succeeding fiscal year (corresponding to those activities listed in subparagraphs (A) and (B) of paragraph (1)), including—
 
 &emsp;&emsp;"(A) the project description;
 
@@ -482,15 +710,17 @@ Study.—The Secretary shall conduct a study of nutrient loading that occurs as 
 
 Report.—Not later than 18 months after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the results of the study."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13508. Chesapeake Bay Protection and Restoration
 
 Ex. Ord. No. 13508, May 12, 2009, 74 F.R. 23099, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica and in furtherance of the purposes of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 <i>et seq</i>.), and other laws, and to protect and restore the health, heritage, natural resources, and social and economic value of the Nation's largest estuarine ecosystem and the natural sustainability of its watershed, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the Clean Water Act of 1972, as amended (33 U.S.C. 1251 <i>et seq</i>.), and other laws, and to protect and restore the health, heritage, natural resources, and social and economic value of the Nation's largest estuarine ecosystem and the natural sustainability of its watershed, it is hereby ordered as follows:
 
 #### PART 1—Preamble
 
-The Chesapeake Bay is a national treasure constituting the largest estuary in the United States and one of the largest and most biologically productive estuaries in the world. The Federal Government has nationally significant assets in the Chesapeake Bay and its watershed in the form of public lands, facilities, military installations, parks, forests, wildlife refuges, monuments, and museums.
+The Chesapeake Bay is a national treasure constituting the largest estuary in the United States and oneof the largest and most biologically productive estuaries in the world. The Federal Government has nationally significant assets in the Chesapeake Bay and its watershed in the form of public lands, facilities, military installations, parks, forests, wildlife refuges, monuments, and museums.
 
 Despite significant efforts by Federal, State, and local governments and other interested parties, water pollution in the Chesapeake Bay prevents the attainment of existing State water quality standards and the "fishable and swimmable" goals of the Clean Water Act. At the current level and scope of pollution control within the Chesapeake Bay's watershed, restoration of the Chesapeake Bay is not expected for many years. The pollutants that are largely responsible for pollution of the Chesapeake Bay are nutrients, in the form of nitrogen and phosphorus, and sediment. These pollutants come from many sources, including sewage treatment plants, city streets, development sites, agricultural operations, and deposition from the air onto the waters of the Chesapeake Bay and the lands of the watershed.
 
@@ -532,7 +762,7 @@ Sec. 203. <i>Strategy for Protecting and Restoring the Chesapeake Bay</i>. The C
 
 The Committee shall review the draft reports submitted by lead agencies under section 202 of this order and, in consultation with relevant State agencies, suggest appropriate revisions to the agency that provided the draft report. It shall then integrate these reports into a coordinated strategy for restoration and protection of the Chesapeake Bay consistent with the requirements of this order. Together with the final reports prepared by the lead agencies, the draft strategy shall be published for public review and comment within 180 days of the date of this order and a final strategy shall be published within 1 year. To the extent practicable and authorized under their existing authorities, agencies may begin implementing core elements of restoration and protection programs and strategies, in consultation with the Committee, as soon as possible and prior to release of a final strategy.
 
-Sec. 204. <i>Collaboration with State Partners</i>. In preparing the reports under section 202 and the strategy under section 203, the lead agencies and the Committee shall consult extensively with the States of Virginia, Maryland, Pennsylvania, West Virginia, New York, and Delaware and the District of Columbia. The goal of this consultation is to ensure that Federal actions to protect and restore the Chesapeake Bay are closely coordinated with actions by State and local agencies in the watershed and that the resources, authorities, and expertise of Federal, State, and local agencies are used as efficiently as possible for the benefit of the Chesapeake Bay's water quality and ecosystem and habitat health and viability.
+Sec. 204. <i>Collaboration with State Partners</i>. In preparing the reports under section 202 and the strategy under section 203, the lead agencies and the Committee shall consult extensively with the States of Virginia, Maryland, Pennsylvania, West Virginia, New York, and Delaware and the District of Columbia. The goal of this consultation is to ensure that Federal actions to protect and restore the Chesapeake Bay are closely coordinated with actions by State and local agencies in the watershed and that the resources, authorities, and expertise of Federal, State, and local agencies are used as efficiently as possible for the benefit of the ChesapeakeBay's water quality and ecosystem and habitat health and viability.
 
 Sec. 205. <i>Annual Action Plan and Progress Report</i>. Beginning in 2010, the Committee shall publish an annual Chesapeake Bay Action Plan (Action Plan) describing how Federal funding proposed in the President's Budget will be used to protect and restore the Chesapeake Bay during the upcoming fiscal year. This plan will be accompanied by an Annual Progress Report reviewing indicators of environmental conditions in the Chesapeake Bay, assessing implementation of the Action Plan during the preceding fiscal year, and recommending steps to improve progress in restoring and protecting the Chesapeake Bay. The Committee shall consult with stakeholders (including relevant State agencies) and members of the public in developing the Action Plan and Annual Progress Report.
 

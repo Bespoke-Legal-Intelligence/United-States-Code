@@ -38,7 +38,7 @@ Costs incurred by the Secretary of the Interior for the physical fortification o
 
 #### (4) Response; notice
 
-&emsp;Before incurring costs pursuant to activities described in subsection (b), the Secretary shall consider cost containment measures recommended by a project beneficiary that has elected to consult with the Bureau of Reclamation on such activities. The Secretary shall provide to the project beneficiary—
+&emsp;Before incurring costs pursuant to activities described in subsection (b), the Secretary shallconsider cost containment measures recommended by a project beneficiary that has elected to consult with the Bureau of Reclamation on such activities. The Secretary shall provide to the project beneficiary—
 
 &emsp;&emsp;(A) a timely written response describing proposed actions, if any, to address the recommendation; and
 
@@ -53,6 +53,8 @@ Costs incurred by the Secretary of the Interior for the physical fortification o
 Reclamation project security costs at the levels of activity that existed prior to September 11, 2001, shall remain reimbursable.
 
 (Pub. L. 110–229, title V, §513, May 8, 2008, 122 Stat. 843.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

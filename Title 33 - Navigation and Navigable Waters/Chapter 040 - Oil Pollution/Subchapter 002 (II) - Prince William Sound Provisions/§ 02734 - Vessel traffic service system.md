@@ -8,9 +8,13 @@ The Secretary of Transportation shall within one year after August 18, 1990—
 
 (Pub. L. 101–380, title V, §5004, Aug. 18, 1990, 104 Stat. 553; Pub. L. 107–295, title IV, §408(b)(2), Nov. 25, 2002, 116 Stat. 2117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Par. (2). Pub. L. 107–295 substituted "Transportation and Infrastructure" for "Merchant Marine and Fisheries".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

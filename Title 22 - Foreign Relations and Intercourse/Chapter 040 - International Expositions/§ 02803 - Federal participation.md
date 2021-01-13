@@ -24,7 +24,7 @@ The Federal Government may participate in an international exposition proposed t
 
 &emsp;(C) the Secretary of Commerce shall determine whether the Federal Government should be deeded a satisfactory site for the Federal pavilion in fee simple, free of all liens and encumbrances, as a condition of participation in the exposition.
 
-(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, in consultation with the Administrator determines that no design of a Federal pavilion will satisfy both needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
+(2) Notwithstanding paragraph (1)(B) of this subsection, if the Secretary of Commerce, inconsultation with the Administrator determines that no design of a Federal pavilion will satisfy both needs described in paragraph (1)(B) of this subsection, the Secretary shall design a temporary Federal pavilion.
 
 #### (c) Authorization of appropriations for Federal pavilion
 
@@ -46,11 +46,15 @@ For the purposes of this section—
 
 (Pub. L. 91–269, §3, May 27, 1970, 84 Stat. 272; Pub. L. 97–254, §16(a), Sept. 8, 1982, 96 Stat. 812.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–254, §16(a)(1)–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a planunder this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
+<b>1982</b>—Subsec. (a). Pub. L. 97–254, §16(a)(1)–(3), designated existing provisions as subsec. (a), redesignated cls. (a) to (c) thereof as cls. (1) to (3) respectively, and in cl. (3) as so redesignated, substituted provisions requiring the Secretary of Commerce to include in a plan under this section any documentation, designs, or recommendations described in subsec. (b) of this section for provisions that the Secretary in developing a plan should consider whether there was a need for the construction of a Federal pavilion, and if so, that there could be included in the plan a recommendation that Government participation in the exposition be conditioned on its being deeded a satisfactory site for the pavilion and that the Secretary would seek the advice of the Administrator of the General Services Administration in carrying out the provisions of former subsec. (c).
 
 Subsecs. (b) to (d). Pub. L. 97–254, §16(a)(4), added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

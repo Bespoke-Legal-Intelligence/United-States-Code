@@ -24,7 +24,7 @@
 
 (3) The requirements in paragraph (1) shall expire on October 28, 2014.
 
-(Added Pub. L. 85–56, title XXII, §2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, §107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 111–84, div. A, title V, §511, Oct. 28, 2009, 123 Stat. 2280; Pub. L. 113–291, div. A, title X, §1071(e)(1), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 114–328, div. A, title VI, §618(c), Dec. 23, 2016, 130 Stat. 2160.)
+(Added Pub. L. 85–56, title XXII, §2201(31)(A), June 17, 1957, 71 Stat. 160; amended Pub. L. 87–651, title I, §107(c), Sept. 7, 1962, 76 Stat. 508; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), (4), Nov. 29, 1989, 103 Stat. 1602, 1603; Pub. L. 111–84, div. A, title V, §511, Oct. 28, 2009, 123 Stat. 2280;Pub. L. 113–291, div. A, title X, §1071(e)(1), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 114–328, div. A, title VI, §618(c), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### Historical and Revision Notes
 

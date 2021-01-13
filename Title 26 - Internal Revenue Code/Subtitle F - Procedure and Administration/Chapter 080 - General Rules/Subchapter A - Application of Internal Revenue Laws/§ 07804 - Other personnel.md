@@ -242,7 +242,7 @@ Taxpayer Service.—The Internal Revenue Service shall use the fair and equitabl
 
 "(c)
 
-Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner ofInternal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
+Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
 
 "(d)
 
@@ -308,7 +308,7 @@ Other assistance.—In addition to any other forms of technical assistance provi
 
 Powers of the Secretary.—In carrying out his responsibilities under this section, the Secretary is authorized—
 
-&emsp;"(1) to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained and competent to render effective tax counseling to the elderly;
+&emsp;"(1) to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained andcompetent to render effective tax counseling to the elderly;
 
 &emsp;"(2) to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
 

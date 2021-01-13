@@ -40,7 +40,7 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 &emsp;(3) is determined by the Secretary to be of national significance;
 
-> and would be subject to demolition or major alteration in a manner inconsistent with the purposes of this subchapter unless acquired by theSecretary. Such property may be acquired only as provided in subsection (a)(1) of this section.
+> and would be subject to demolition or major alteration in a manner inconsistent with the purposes of this subchapter unless acquired by the Secretary. Such property may be acquired only as provided in subsection (a)(1) of this section.
 
 #### (c) Easements; manner of acquisition
 

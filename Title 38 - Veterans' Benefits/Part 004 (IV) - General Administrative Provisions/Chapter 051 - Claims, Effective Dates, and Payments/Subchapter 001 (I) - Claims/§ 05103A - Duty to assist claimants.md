@@ -10,7 +10,7 @@ Duty To Assist.—(1) The Secretary shall make reasonable efforts to assist a cl
 
 (b)
 
-Assistance in Obtaining Private Records.—(1) As part of the assistance providedunder subsection (a), the Secretary shall make reasonable efforts to obtain relevant private records that the claimant adequately identifies to the Secretary.
+Assistance in Obtaining Private Records.—(1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant private records that the claimant adequately identifies to the Secretary.
 
 (2)(A) Whenever the Secretary, after making such reasonable efforts, is unable to obtain all of the relevant records sought, the Secretary shall notify the claimant that the Secretary is unable to obtain records with respect to the claim. Such a notification shall—
 
@@ -36,7 +36,7 @@ Assistance in Obtaining Private Records.—(1) As part of the assistance provide
 
 Obtaining Records for Compensation Claims.—(1) In the case of a claim for disability compensation, the assistance provided by the Secretary under this section shall include obtaining the following records if relevant to the claim:
 
-&emsp;(A) The claimant's service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant's active military, naval, or air service that are held or maintained by a governmental entity.
+&emsp;(A) The claimant's service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant's active military, naval, air, or space service that are held or maintained by a governmental entity.
 
 &emsp;(B) Records of relevant medical treatment or examination of the claimant at Department health-care facilities or at the expense of the Department, if the claimant furnishes information sufficient to locate those records.
 
@@ -52,7 +52,7 @@ Medical Examinations for Compensation Claims.—(1) In the case of a claim for d
 
 &emsp;(A) contains competent evidence that the claimant has a current disability, or persistent or recurrent symptoms of disability; and
 
-&emsp;(B) indicates that the disability or symptoms may be associated with the claimant's active military, naval, or air service; but
+&emsp;(B) indicates that the disability or symptoms may be associated with the claimant's active military, naval, air, or space service; but
 
 &emsp;(C) does not contain sufficient medical evidence for the Secretary to make a decision on the claim.
 
@@ -84,13 +84,13 @@ Rule With Respect to Disallowed Claims.—Nothing in this section shall be const
 
 Other Assistance Not Precluded.—Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
 
-(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2097; amended Pub. L. 112–154, title V, §505(a), (b), Aug. 6, 2012, 126 Stat. 1192; Pub. L. 115–55, §2(c), (d), Aug. 23, 2017, 131 Stat. 1105.)
+(Added Pub. L. 106–475, §3(a), Nov. 9, 2000, 114 Stat. 2097; amended Pub. L. 112–154, title V, §505(a), (b), Aug. 6, 2012, 126 Stat. 1192; Pub. L. 115–55, §2(c), (d), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–283, div. A, title IX, §926(a)(51), Jan. 1, 2021, 134 Stat. 3830.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(c), (d) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (c)(1)(A), (d)(2)(B). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2017</b>—Subsec. (e). Pub. L. 115–55, §2(d)(2), added subsec. (e). Former subsec. (e) redesignated (g).
 
@@ -122,9 +122,11 @@ Subsec. (c). Pub. L. 112–154, §505(b), amended subsec. (c) generally. Prior t
 
 &emsp;"(3) Any other relevant records held by any Federal department or agency that the claimant adequately identifies and authorizes the Secretary to obtain."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date of 2012 Amendment
 

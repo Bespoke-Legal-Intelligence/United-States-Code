@@ -8,11 +8,15 @@ When letters and other intellectual productions (exclusive of patented material,
 
 Based on 44 U.S. Code, 1964 ed., §400 (June 30, 1949, ch. 288, title V, §510, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(7), substituted "Archivist" for "Administrator of General Services".
 
 <b>1976</b>—Pub. L. 94–553 substituted "productions (exclusive of patented material, published works under copyright protection, and unpublished works for which copyright registration has been made) come into the custody or possession of the Administrator of General Services, the United States or its agents are not liable for infringement of copyright or analogous rights" for "productions, exclusive of material copyrighted or patented, come into the custody or possession of the Administrator of General Services, the United States or its agents are not liable for infringement of literary property rights or analogous rights".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

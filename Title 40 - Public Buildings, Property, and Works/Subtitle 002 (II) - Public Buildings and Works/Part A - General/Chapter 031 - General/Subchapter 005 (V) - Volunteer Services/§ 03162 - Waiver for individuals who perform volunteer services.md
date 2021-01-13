@@ -30,7 +30,7 @@ In accordance with regulations.—Volunteers described in subsection (a) who are
 
 &emsp;(2)
 
-Criteria and content of regulations.—In prescribing the regulations, the Secretary shall consider criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
+Criteria and content of regulations.—In prescribing the regulations, the Secretaryshall consider criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
 
 &emsp;&emsp;(A) a payment for an expense may be received by a volunteer for items such as uniform allowances, protective gear and clothing, reimbursement for approximate out-of-pocket expenses, or the cost or expense of meals and transportation;
 
@@ -85,6 +85,8 @@ Pub. L. 103–355, title VII, §7305, Oct. 13, 1994, 108 Stat. 3384; Pub. L. 104
 In subsection (a), the references to sections 254b and 254c of title 42 in 40:276d–3 are omitted. Sections 329 and 330 of the Public Health Service Act were omitted in the general amendment of subpart I of part D of title III of the Act (42:254b et seq.) by sections 2 and 3(a) of the Health Care Consolidation Act of 1996 (Public Law 104–299, 110 Stat. 3626), which enacted new sections 330 and 330A of the Public Health Service Act. Sections 330 and 330A do not refer to the Act of March 3, 1931 (ch. 411, 46 Stat. 1494).
 
 In subsection (b)(1), the words "Volunteers who are performing services directly to a public or private nonprofit entity may not receive those payments" are added for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

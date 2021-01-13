@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered expatriate" means an expatriate who meets the requirements of subparagraph (A), (B), or (C) of section 877(a)(2).
+&emsp;&emsp;The term "covered expatriate" means an expatriate who meets the requirements ofsubparagraph (A), (B), or (C) of section 877(a)(2).
 
 #### (B) Exceptions
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the date a court of the United States cancels a naturalized citizen's certificate of naturalization.
 
-> &emsp;Subparagraph (A) or (B) shall not apply to any individual unless the renunciation or voluntary relinquishment is subsequently approved by the issuance to the individual of acertificate of loss of nationality by the United States Department of State.
+> &emsp;Subparagraph (A) or (B) shall not apply to any individual unless the renunciation or voluntary relinquishment is subsequently approved by the issuance to the individual of a certificate of loss of nationality by the United States Department of State.
 
 #### (5) Long-term resident
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22,2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 

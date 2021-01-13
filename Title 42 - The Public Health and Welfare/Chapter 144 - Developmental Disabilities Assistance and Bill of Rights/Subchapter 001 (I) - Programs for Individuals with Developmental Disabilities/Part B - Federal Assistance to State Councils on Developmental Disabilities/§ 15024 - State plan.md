@@ -130,7 +130,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (H) Human rights
 
-&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted underthis part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
+&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted under this part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
 
 #### (I) Minority participation
 
@@ -154,7 +154,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (N) Other assurances
 
-&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretary may find necessary to carry out the provisions (including the purpose) of this part.
+&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretarymay find necessary to carry out the provisions (including the purpose) of this part.
 
 #### (d) Public input and review, submission, and approval
 

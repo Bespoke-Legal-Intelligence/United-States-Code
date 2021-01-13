@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Select Committee on Intelligence, the Committee on Appropriations, and the majority leader and minority leader of the Senate; and
 
-&emsp;&emsp;(B) the Committee on Financial Services <sup>1</sup> the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and theSpeaker and minority leader of the House of Representatives.
+&emsp;&emsp;(B) the Committee on Financial Services <sup>1</sup> the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Speaker and minority leader of the House of Representatives.
 
 #### (3) Materially assisted
 
@@ -28,11 +28,15 @@ In this chapter:
 
 (Pub. L. 113–95, §2, Apr. 3, 2014, 128 Stat. 1088; Pub. L. 115–44, title II, §228(b), Aug. 2, 2017, 131 Stat. 914.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (2)(A). Pub. L. 115–44, §228(b)(1), inserted "the Committee on Banking, Housing, and Urban Affairs," before "the Committee on Foreign Relations".
 
 Par. (2)(B). Pub. L. 115–44, §228(b)(2), inserted "the Committee on Financial Services" before "the Committee on Foreign Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

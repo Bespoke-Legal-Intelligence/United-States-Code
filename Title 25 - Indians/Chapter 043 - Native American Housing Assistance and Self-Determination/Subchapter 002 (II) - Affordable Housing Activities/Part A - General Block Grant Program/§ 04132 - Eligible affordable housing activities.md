@@ -40,7 +40,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (A) In general
 
-&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-makingin the design and implementation of Federal housing and related activity funding.
 
 #### (B) Study
 
@@ -58,13 +58,15 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 (Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, §8, Nov. 13, 2002, 116 Stat. 2055; Pub. L. 109–58, title V, §506(b), Aug. 8, 2005, 119 Stat. 779; Pub. L. 110–411, title II, §202, Oct. 14, 2008, 122 Stat. 4325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (4), (6), and (7)(A), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Par. (9). Pub. L. 110–411, §202(4), added par. (9).
 <b>2005</b>—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting "improvement to achieve greater energy efficiency," after "planning," in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 <b>2002</b>—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

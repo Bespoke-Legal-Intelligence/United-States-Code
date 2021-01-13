@@ -26,6 +26,8 @@ Words "upon conviction thereof shall be" were omitted as surplusage, since punis
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 inserted "under this title" after "warrant, shall be fined" and struck out "not more than $1,000" after "for a first offense".

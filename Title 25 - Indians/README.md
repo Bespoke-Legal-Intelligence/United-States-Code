@@ -57,6 +57,8 @@
 | [<b>46.</b>](Chapter%20046%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/README.md) | <b>Indian Self-Determination and Education Assistance</b> | <b>5301</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Conveyance%20of%20Submarginal%20Land/README.md) | <b>Conveyance of Submarginal Land</b> | <b>5501</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Indian%20Trust%20Asset%20Reform/README.md) | <b>Indian Trust Asset Reform</b> | <b>5601</b> |
+| [<b>49.</b>](Chapter%20049%20-%20Savanna%27s%20Act/README.md) | <b>Savanna's Act</b> | <b>5701</b> |
+| [<b>50.</b>](Chapter%20050%20-%20Native%20American%20Business%20Incubators%20Program/README.md) | <b>Native American Business Incubators Program</b> | <b>5801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4933,3 +4935,5 @@ omitted
 - [Chapter 046 - Indian Self-Determination and Education Assistance](Chapter%20046%20-%20Indian%20Self-Determination%20and%20Education%20Assistance/README.md)
 - [Chapter 047 - Conveyance of Submarginal Land](Chapter%20047%20-%20Conveyance%20of%20Submarginal%20Land/README.md)
 - [Chapter 048 - Indian Trust Asset Reform](Chapter%20048%20-%20Indian%20Trust%20Asset%20Reform/README.md)
+- [Chapter 049 - Savanna's Act](Chapter%20049%20-%20Savanna%27s%20Act/README.md)
+- [Chapter 050 - Native American Business Incubators Program](Chapter%20050%20-%20Native%20American%20Business%20Incubators%20Program/README.md)

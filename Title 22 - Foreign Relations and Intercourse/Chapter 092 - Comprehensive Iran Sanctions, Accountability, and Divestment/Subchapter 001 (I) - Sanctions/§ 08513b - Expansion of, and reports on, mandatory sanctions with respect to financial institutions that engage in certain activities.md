@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 90 days after August 10, 2012, the Secretary of the Treasury shall revise the regulations prescribed under section 8513(c)(1) of this title to apply to a foreign financial institution described in subsection (b) to the same extent and in the same manner as those regulations apply to a foreign financial institution that the Secretary of the Treasury finds knowingly engages in an activity described in section 8513(c)(2) of this title.
+Not later than 90 days after August 10, 2012, the Secretary of the Treasury shall revise theregulations prescribed under section 8513(c)(1) of this title to apply to a foreign financial institution described in subsection (b) to the same extent and in the same manner as those regulations apply to a foreign financial institution that the Secretary of the Treasury finds knowingly engages in an activity described in section 8513(c)(2) of this title.
 
 #### (b) Foreign financial institutions described
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (1) Financial institution
 
-&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
+&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Z) of section 5312(a)(2) of title 31.
 
 #### (2) Foreign financial institution
 
@@ -52,5 +52,11 @@ In this section:
 
 &emsp;&emsp;(D) a financial institution, wherever located, owned or controlled by a financial institution described in subparagraph (A), (B), or (C).
 
-(Pub. L. 111–195, title I, §104A, as added Pub. L. 112–158, title II, §216(a), Aug. 10, 2012, 126 Stat. 1232.)
+(Pub. L. 111–195, title I, §104A, as added Pub. L. 112–158, title II, §216(a), Aug. 10, 2012, 126 Stat. 1232; amended Pub. L. 116–283, div. F, title LXI, §6110(e)(1)(B), Jan. 1, 2021, 134 Stat. 4563.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 116–283 substituted "(Z)" for "(Y)".
 

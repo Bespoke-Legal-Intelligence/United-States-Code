@@ -30,9 +30,11 @@ The report required by section 3281 of this title shall include information on t
 
 (1) The President may not enter into any binding international undertaking negotiated pursuant to subsection (a) which is not a treaty until such time as such proposed undertaking has been submitted to the Congress and has been approved by concurrent resolution.
 
-(2) The proposals prepared pursuant to subsection (b) shall be submitted to the Congress as part of an annual authorization Act for the Department of Energy.
+(2) The proposals prepared pursuant to subsection (b) shall be submitted to the Congress aspart of an annual authorization Act for the Department of Energy.
 
 (Pub. L. 95–242, title I, §104, Mar. 10, 1978, 92 Stat. 122.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -40,9 +42,13 @@ Subsec. (b) of this section, directed the President to submit to Congress not la
 
 Subsec. (c) of this section, which directed the President, in the report required by section 103 of Pub. L. 95–242, title I, Mar. 10, 1978, 92 Stat. 122, formerly set out as a note under section 3222 of this title, to also address the desirability of and options for foreign participation, including investment, in new United States uranium enrichment facilities, the arrangements that would be required to implement such participation, and the commitments that would be required as a condition of such participation, was omitted in view of the omission of section 103 of Pub. L. 95–242.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

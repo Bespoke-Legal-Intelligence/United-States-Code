@@ -14,7 +14,7 @@ The Secretary of the Interior shall establish regulations requiring all material
 
 #### (c) Disbursement of payments to compensate commercial fishermen; restrictions
 
-(1) Payments shall be disbursed by the Secretary from the Fund to compensate commercial fishermen for actual and consequential damages, including resulting economic loss, due to damages to, or loss of, fishing gear by materials, equipment, tools, containers, or other items associated with Outer Continental Shelf oil and gas exploration, development, or production activities. The compensation payable under this section for resulting economic loss shall be an amount equal to 50 per centum of such loss. For purposes of this subsection, the term "resulting economic loss" means the gross income, as estimated by the Secretary, that a commercial fisherman who is eligible for compensation under this section will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the damaged or lost fishing gear concerned is repaired or replaced and available for use.
+(1) Payments shall be disbursed by the Secretary from the Fund to compensate commercial fishermen for actual and consequential damages, including resulting economic loss, due to damages to, or loss of, fishing gear by materials, equipment, tools, containers, or other items associated with Outer Continental Shelf oil and gas exploration, development, or production activities. The compensation payable under this section for resulting economic loss shall be an amount equal to 50 per centum of such loss. For purposes of this subsection, the term "resulting economic loss" means the gross income, as estimated by the Secretary, that a commercial fisherman who is eligible for compensation underthis section will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the damaged or lost fishing gear concerned is repaired or replaced and available for use.
 
 (2) Notwithstanding the provisions of paragraph (1) of this subsection, no payment may be made by the Secretary from the Fund—
 
@@ -27,6 +27,8 @@ The Secretary of the Interior shall establish regulations requiring all material
 &emsp;(D) for any portion of the damages claimed with respect to which the claimant has received, or will receive, compensation from insurance.
 
 (Pub. L. 95–372, title IV, §403, Sept. 18, 1978, 92 Stat. 687; Pub. L. 96–561, title II, §240(b)(2), Dec. 22, 1980, 94 Stat. 3301; Pub. L. 97–212, §§3, 7, June 30, 1982, 96 Stat. 144, 147; Pub. L. 98–498, title IV, §420(1), (2), Oct. 19, 1984, 98 Stat. 2309.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Subsec. (c)(1). Pub. L. 97–212, §3(1), substituted "Fund" for "appropriate ar
 Subsec. (c)(2). Pub. L. 97–212, §3(2), substituted "the Fund" for "any area account established under this subchapter" in provisions preceding subpar. (A), struck out subpars. (A) and (E) which related, respectively, to damage caused by materials, equipment, tools, containers, or other items attributable to a financially responsible party and the party admitted responsibility and to loss of profits for any period in excess of 6 months unless such claim was supported by records with respect to the claimant's profits during the previous 12-month period, redesignated subpars. (B), (C), and (D) as (A), (B), and (C) respectively, redesignated subpar. (F) as (D), and in subpar. (D) as so redesignated, substituted "received, or will receive," for "or will receive".
 
 <b>1980</b>—Subsec. (c)(2)(A). Pub. L. 96–561 inserted reference to party admitting responsibility.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

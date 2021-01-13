@@ -38,7 +38,7 @@ Assignment of space within judicial branch.—The Director may assign space made
 
 &emsp;(2)
 
-Vacating occupied space.—When the Chief Justice notifies the Architect that thejudicial branch requires additional space in the Building and other improvements, the Architect shall accommodate those requirements within 90 days after the date of the notification, except that if the space was made available to the Administrator of General Services, it shall be vacated expeditiously by not later than a date the Chief Justice and the Administrator agree on.
+Vacating occupied space.—When the Chief Justice notifies the Architect that the judicial branch requires additional space in the Building and other improvements, the Architect shall accommodate those requirements within 90 days after the date of the notification, except that if the space was made available to the Administrator of General Services, it shall be vacated expeditiously by not later than a date the Chief Justice and the Administrator agree on.
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Subleased Space.—
 
 &emsp;(1)
 
-Rental rate.—Space subleased by the Architect under subsection (a)(3) is subject to reimbursement at a rate which is comparable to prevailing rental rates for similar facilities in the area but not less than the rate established under section 6504(b)(2) of this title plus an amount the Architect and the person subleasing the space agree is necessary to pay each year for the cost of administering the Building (including the cost of operation, maintenance, rehabilitation, security, and structural, mechanical, and domestic care) that is attributable to the space.
+Rental rate.—Space subleased by the Architect under subsection (a)(3) is subject to reimbursement at a rate which is comparable to prevailing rental rates for similar facilities in the area but not less than the rate established under section 6504(b)(2) of this title plus an amount the Architect and the person subleasing the space agree is necessary to pay each year for the cost of administering theBuilding (including the cost of operation, maintenance, rehabilitation, security, and structural, mechanical, and domestic care) that is attributable to the space.
 
 &emsp;(2)
 
@@ -137,6 +137,8 @@ In subsection (c)(1), the words "and reassign" are omitted as unnecessary.
 In subsection (d)(1), the word "Building" \[meaning the Thurgood Marshall Federal Judiciary Building\] is substituted for "Federal Judiciary Building" in the source provision because of section 2 of the Act of February 8, 1993 (Public Law 103–4, 107 Stat. 30).
 
 In subsection (f), the reference to "this subsection" is translated as "this section" to correct an apparent error in the source provision being restated.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

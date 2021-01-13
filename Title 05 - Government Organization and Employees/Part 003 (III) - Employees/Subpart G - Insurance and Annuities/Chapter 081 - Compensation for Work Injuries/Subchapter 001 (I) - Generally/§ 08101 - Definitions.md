@@ -22,7 +22,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(i) a commissioned officer of the Regular Corps of the Public Health Service;
 
-&emsp;&emsp;(ii) a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
+&emsp;&emsp;(ii) a commissioned officer of the Reserve Corps <sup>1</sup> of the Public Health Service on active duty;
 
 &emsp;&emsp;(iii) a commissioned officer of the Environmental Science Services Administration; or
 
@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) "medical, surgical, and hospital services and supplies" includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay atthe time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regularfull-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) "injury" includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -86,9 +86,9 @@ For the purpose of this subchapter—
 
 > &emsp;Such an individual is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 4 months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of study or training during the semester or other enrollment period immediately after the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A student whose 23rd birthday occurs during a semester or other enrollment period is deemed a student until the end of the semester or other enrollment period;
 
-&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average)published monthly by the Bureau of Labor Statistics; and
+&emsp;(18) "price index" means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
-&emsp;(19) "organ" means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
+&emsp;(19) "organ" means a part of the body that performs a special function, and for purposesof this subchapter excludes the brain, heart, and back; and
 
 &emsp;(20) "United States medical officers and hospitals" includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
@@ -228,6 +228,8 @@ Paragraph (17) is reorganized and restated for clarity and to conform to the sty
 
 In paragraph (19), the words "July 1966 and each later month" are substituted for "the month this section becomes effective and each month thereafter". The words "section 8146a of this title" are substituted for "this section" to reflect the codification of section 43 in title 5.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of August 25, 1958, 72 Stat. 838, referred to in par. (1)(E), is set out as a note under section 102 of Title 3, The President.
@@ -262,6 +264,12 @@ Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
 <b>1967</b>—Par. (1)(iii). Pub. L. 90–83, §1(4), substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey". See Historical and Revision Notes under section 2101 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1980 Amendment
 
 Pub. L. 96–499, title IV, §422, Dec. 5, 1980, 94 Stat. 2608, provided that: "The amendments made by section 421 \[amending this section and section 8146a of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] with respect to any adjustments which are to be made on or after that date; except that the period specified in such section as extending from December to December shall, with respect to the adjustment to be made on March 1, 1981, extend instead from the last month in which the price index resulted in an adjustment prior to enactment to December of 1980."
@@ -274,12 +282,6 @@ Pub. L. 93–416, §28(a), Sept. 7, 1974, 88 Stat. 1151, provided that: "Except 
 
 Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: "This Act \[amending section 8111 of this title and enacting provisions set out as a note under section 8111 of this title\] may be cited as the 'Attendant Allowance Adjustment Act'."
 
-#### Transfer of Functions
-
-Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
-
 #### Processing of Claims Filed by District of Columbia Employees
 
 Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that: "All functions of the Secretary under chapter 81 of title 5 of the United States Code, with respect to the processing of claims filed by employees of the government of the District for compensation for work injuries, are transferred to and shall be exercised by the Commissioner, effective the day after the day on which the District establishes an independent personnel system or systems." An independent personnel system was established for the District by D.C. Law 2–139, Mar. 3, 1979, 25 DCR 5740.
@@ -287,4 +289,14 @@ Pub. L. 93–198, title II, §204(e), Dec. 24, 1973, 87 Stat. 783, provided that
 #### Study and Report to Congress by Secretary of Labor of Provisions and Programs Under Subchapter
 
 Pub. L. 93–416, §27, Sept. 7, 1974, 88 Stat. 1150, directed Secretary of Labor to conduct a study of the provisions of this subchapter and its programs which was to include: hearings, research, and other activities necessary to formulate recommendations; an examination of need for authority to increase allowances for services of attendants above the maximum fixed by section 8111 of this title in exceptional circumstances; an examination of the effectiveness of this subchapter; and recommendations as to survivor benefits; report results of the study together with his findings and recommendations not later than 12 months after Sept. 7, 1974.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Environmental Science Services Administration in Department of Commerce, including offices of Administrator and Deputy Administrator thereof, abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to this title, which created National Oceanic and Atmospheric Administration in Department of Commerce and transferred personnel, property, records, and unexpended balances of funds of Environmental Science Services Administration to such newly created National Oceanic and Atmospheric Administration. Components of Environmental Science Services Administration thus transferred included Weather Bureau \[now National Weather Service\], Coast and Geodetic Survey \[now National Ocean Survey\], Environmental Data Services, National Environmental Satellite Center, and ESSA Research Laboratories.
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -54,7 +54,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (d) When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title III, §307(d), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224; Pub. L. 114–137, §2(a), Mar. 18, 2016, 130 Stat. 310.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L.95–454, title III, §307(d), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224; Pub. L. 114–137, §2(a), Mar. 18, 2016, 130 Stat. 310.)
 
 #### Repeal and Reenactment of Section
 
@@ -118,7 +118,7 @@ Further consideration not required.—When a preference eligible, for reasons co
 
 &emsp;(4)
 
-Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individualwho is not an officer or employee of the Office of Personnel Management.
+Delegation prohibition.—In the case of a preference eligible described in paragraph (2), the functions of the Director under this subsection may not be delegated to an individual who is not an officer or employee of the Office of Personnel Management.
 
 (d)
 
@@ -174,6 +174,8 @@ In subsection (c), the prohibition in former section 864 is restated in positive
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsecs. (b) to (d). Pub. L. 114–137 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
@@ -183,6 +185,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 95–454, §307(d), designated existing provisions as par. (1), substituted provisions respecting authority of the Office with respect to the selection procedures applicable, for provisions respecting authority of the Commission with respect to the selection procedures applicable, and added pars. (2) to (4).
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted "section 2108(3)(C)–(G)" for "section 2108(3)(B)–(F)." See Historical and Revision Notes under section 3305 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

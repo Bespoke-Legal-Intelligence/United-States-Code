@@ -20,7 +20,7 @@
 
 &emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
-(d) To the extent they consider necessary, the Comptroller General and the Director of theCongressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
+(d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
 (e)(1) The Comptroller General shall—
 
@@ -126,9 +126,13 @@ Act
 
 June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97–255, §3, 96 Stat. 815.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–452 redesignated existing provision as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements Contained in This Section
 
@@ -198,7 +202,7 @@ Reports on contracts entered into relating to procurement from violators of wate
 
 National requirements and costs of water pollution control.—Section 516 of the Federal Water Pollution Control Act (33 U.S.C. 1375)."
 
-Pub. L. 107–295, title III, §322(b), Nov. 25, 2002, 116 Stat. 2103, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 107–295, title III, §322(b), Nov. 25, 2002, 116 Stat. 2103, as amended by Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(b)(2), Jan. 1, 2021, 134 Stat. 4765, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;"(1)
 
@@ -218,7 +222,7 @@ Conditions of public ports of the united states.—Section 308(c) of title 49, U
 
 &emsp;"(5)
 
-Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118) \[see 46 U.S.C. 306(a)\].
+Activities of federal maritime commission.—Section 46106(a) of title 46, United States Code.
 
 &emsp;"(6)
 
@@ -552,7 +556,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;"(30) The following provisions of the Older Americans Act of 1965:
 
-&emsp;&emsp;"(A) Section 206(d) (42 U.S.C. 3017(d)).
+&emsp;&emsp;"(A) Section 206(d) \[now 206(e)\] (42 U.S.C. 3017(d) \[3017(e)\]).
 
 &emsp;&emsp;"(B) Section 207 (42 U.S.C. 3018).
 
@@ -582,7 +586,7 @@ Pub. L. 106–197, §1, May 2, 2000, 114 Stat. 246, provided that: "Section 3003
 
 &emsp;"(5) Section 8 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997f).
 
-&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)) \[now 34 U.S.C. 10102(b)\], 520 (42U.S.C. 3766) \[now 34 U.S.C. 10201\], 522 (42 U.S.C. 3766b) \[now 34 U.S.C. 10203\], and 810 (42 U.S.C. 3789e) \[now 34 U.S.C. 10229\].
+&emsp;"(6) The following provisions of the Omnibus Crime Control and Safe Streets Act of 1968: sections 102(b) (42 U.S.C. 3712(b)) \[now 34 U.S.C. 10102(b)\], 520 (42 U.S.C. 3766) \[now 34 U.S.C. 10201\], 522 (42 U.S.C. 3766b) \[now 34 U.S.C. 10203\], and 810 (42 U.S.C. 3789e) \[now 34 U.S.C. 10229\].
 
 &emsp;"(7) The following provisions of the Immigration and Nationality Act: sections 103 (8 U.S.C. 1103), 207(c)(3) (8 U.S.C. 1157(c)(3)), 412(b) (8 U.S.C. 1522(b)), and 413 (8 U.S.C. 1523), and subsections (h), (l), (o), (q), and (r) of section 286 (8 U.S.C. 1356).
 
@@ -656,13 +660,13 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(e)\], Nov. 29,
 
 &emsp;"(15) Section 407(f) of the Food for Peace Act (Public Law 83–480; 7 U.S.C. 1736a) (relating to Public Law 480 programs and activities).
 
-&emsp;"(16) \[Former\] Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; \[former\] 22 U.S.C. 2199(c)) (relating to OPIC audit report).
+&emsp;"(16) Section 239(c) of the Foreign Assistance Act of 1961 (Public Law 87–195; \[former\] 22 U.S.C. 2199(c)) (relating to OPIC audit report).
 
 &emsp;"(17) Section 504(i) of the National Endowment for Democracy Act (Public Law 98–164; 22 U.S.C. 4413(i)) (relating to the activities of the National Endowment for Democracy).
 
 &emsp;"(18) Section 5(b) of the Japan-United States Friendship Act (Public Law 94–118; 22 U.S.C. 2904(b)) (relating to Japan-United States Friendship Commission activities)."
 
-Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, §813(i)(2), Aug. 13, 2018, 132 Stat. 1852, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, as amended by Pub. L. 115–232, div. A, title VIII, §813(i)(2), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(b)(3), Jan. 1, 2021, 134 Stat. 4765, provided that: "Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;"(1) The following sections of title 10, United States Code: sections 113, 115a, 116, 139(f) \[now 139(g)\], 221, \[former\] 226, 401(d), \[former\] 662(b), 946, \[former\] 1464(c), \[former\] 2006(e)(3), 2010, 2011(e), 2391(c), 2431(a), 2432, 2457(d), 2461(g), 2537, 2662(b), 2706, 2859, 2861, 2902(g)(2), 4542(g)(2), 7424(b), 7425(b), 7431(c), 10541, 12302(d), and 16137.
 
@@ -708,7 +712,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, as amend
 
 &emsp;"(22) Section 12 of the Act of March 9, 1920 (popularly known as the 'Suits in Admiralty Act') (46 App. U.S.C. 752) \[now 46 U.S.C. 30918\].
 
-&emsp;"(23) Sections 208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1118, 1241(b)(2), 1291) \[see 46 U.S.C. 306(a), 55305(d)\].
+&emsp;"(23) Sections 44106(a) \[probably should be "46106(a)"\] and 55305(d) of title 46, United States Code.
 
 &emsp;"(24) Sections 11 and 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–2, 98h–5).
 
@@ -822,7 +826,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;"(30) section 50 of Public Law 87–297 (22 U.S.C. 2590);
 
-&emsp;"(31) \[former\] section 240A of the Foreign Assistance Act of 1961 (\[former\] 22 U.S.C. 2200a);
+&emsp;"(31) section 240A of the Foreign Assistance Act of 1961 (\[former\] 22 U.S.C. 2200a);
 
 &emsp;"(32) section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)); or
 

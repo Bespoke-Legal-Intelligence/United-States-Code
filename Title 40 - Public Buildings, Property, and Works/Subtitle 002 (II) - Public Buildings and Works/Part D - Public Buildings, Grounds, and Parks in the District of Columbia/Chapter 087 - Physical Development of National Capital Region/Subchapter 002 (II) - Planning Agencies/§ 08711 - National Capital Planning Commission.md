@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
+Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for theUnited States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
 (b)
 
@@ -104,9 +104,9 @@ June 6, 1924, ch. 270, §13, formerly §4, 43 Stat. 464; renumbered §13, July 1
 
 Pub. L. 105–83, (last proviso in par. under heading "National Capital Planning Commission"), Nov. 14, 1997, 111 Stat. 1589.
 
-In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" \[meaning the Commissioner of the District of Columbia\] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words "Council of the District of Columbia" are substituted for "Board of Commissioners of the District of Columbia" \[subsequently changed to "District of Columbia Council" because of section 402(21), (28),\(32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)\] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
+In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" \[meaning the Commissioner of the District of Columbia\] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words "Council of the District of Columbia" are substituted for "Board of Commissioners of the District of Columbia" \[subsequently changed to "District of Columbia Council" because of section 402(21), (28), (32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)\] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
 
-In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmental Affairs of the Senate, and the Chairman of the Committee on Government Reform of the House of Representatives" are substituted for "and the chairman of the Committees of the District of Columbia of the Senate and the House of Representatives" in section 2(b)(1) of the Act of June 24, 1924 (ch. 270), because of Rule XXV of the Standing Rules of the Senate, as amended by Senate Resolution 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved February 4, 1977, section 1(b)(1) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.), and Rule X(1)(h) of House Resolution No. 5 (105th Congress, January 6, 1999).
+In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmental Affairs of the Senate,and the Chairman of the Committee on Government Reform of the House of Representatives" are substituted for "and the chairman of the Committees of the District of Columbia of the Senate and the House of Representatives" in section 2(b)(1) of the Act of June 24, 1924 (ch. 270), because of Rule XXV of the Standing Rules of the Senate, as amended by Senate Resolution 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved February 4, 1977, section 1(b)(1) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.), and Rule X(1)(h) of House Resolution No. 5 (105th Congress, January 6, 1999).
 
 In subsection (b)(2), the words "bona fide" are omitted as unnecessary.
 
@@ -124,6 +124,8 @@ In subsection (g), the words "Said Commission shall report to Congress annually 
 
 In subsection (h), the words "beginning in fiscal year 1998 and thereafter" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, as amended, which is not classified to the Code.
@@ -135,6 +137,8 @@ Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 4
 <b>2011</b>—Subsec. (d). Pub. L. 111–350, which directed substitution of "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)", was executed by making the substitution for "section 3709 of the Revised Statues (41 U.S.C. 5)" to reflect the probable intent of Congress.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–284 inserted "of this title" after "sections 5101 and 5102".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

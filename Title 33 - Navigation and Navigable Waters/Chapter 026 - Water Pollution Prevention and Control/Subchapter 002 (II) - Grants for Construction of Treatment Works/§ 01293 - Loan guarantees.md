@@ -2,7 +2,7 @@
 
 #### (a) State or local obligations issued exclusively to Federal Financing Bank for publicly owned treatment works; determination of eligibility of project by Administrator
 
-Subject to the conditions of this section and to such terms and conditions as the Administrator determines to be necessary to carry out the purposes of this subchapter, the Administrator is authorized to guarantee, and to make commitments to guarantee, the principal and interest (including interest accruing between the date of default and the date of the payment in full of the guarantee) of any loan, obligation, or participation therein of any State, municipality, or intermunicipal or interstate agency issued directly and exclusively to the Federal Financing Bank to finance that part of the cost of any grant-eligible project for the construction of publicly owned treatment works not paid for with Federal financial assistance under this subchapter (other than this section), which project the Administrator has determined to be eligible for such financial assistance under this subchapter, including, but not limited to, projects eligible for reimbursement under section 1286 of this title.
+Subject to the conditions of this section and to such terms and conditions as the Administrator determines to be necessary to carry out the purposes of this subchapter, the Administrator is authorized to guarantee, and to makecommitments to guarantee, the principal and interest (including interest accruing between the date of default and the date of the payment in full of the guarantee) of any loan, obligation, or participation therein of any State, municipality, or intermunicipal or interstate agency issued directly and exclusively to the Federal Financing Bank to finance that part of the cost of any grant-eligible project for the construction of publicly owned treatment works not paid for with Federal financial assistance under this subchapter (other than this section), which project the Administrator has determined to be eligible for such financial assistance under this subchapter, including, but not limited to, projects eligible for reimbursement under section 1286 of this title.
 
 #### (b) Conditions for issuance
 
@@ -24,9 +24,13 @@ The Administrator, in determining whether there is a reasonable assurance of rep
 
 (June 30, 1948, ch. 758, title II, §213, as added Pub. L. 94–558, Oct. 19, 1976, 90 Stat. 2639; amended Pub. L. 96–483, §2(e), Oct. 21, 1980, 94 Stat. 2361.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–483 struck out "(1) all or any portion of the funds retained by such grantee under section 1284(b)(3) of this title, and (2)" after "limited to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

@@ -82,7 +82,7 @@
 | 40,000 | 50\.00&nbsp;&nbsp; |
 | 41,000 | 49\.00&nbsp;&nbsp; |
 | 42,000 | 48\.00&nbsp;&nbsp; |
-| 43,000 | 48\.00&nbsp;&nbsp; |
+| 43,000 | 48\.00   |
 | 44,000 | 47\.00&nbsp;&nbsp; |
 | 45,000 | 47\.00&nbsp;&nbsp; |
 | 46,000 | 46\.00&nbsp;&nbsp; |
@@ -139,7 +139,7 @@ Oct. 20, 1976, Pub. L. 94–565, §§2, 4, 90 Stat. 2662, 2664.
 
 31:1602(b)(1), (2)(1st sentence).
 
-In subsection (a)(1), before subclause (A), the word "payment" is added for clarity. Subclause (E) is substituted for 16:715s(h)(2) because of the restatement. In clause (2), the words "Secretary of Commerce" are substituted for "Bureau of the Census" for consistency. In clause (4), the words "the jurisdiction of" are omitted as surplus. The word "deemed" is substituted for "treated" for consistency.
+In subsection (a)(1), before subclause (A), the word "payment" is added for clarity. Subclause (E) is substituted for 16:715s(h)(2) because of the restatement. In clause (2), the words "Secretary of Commerce" are substituted for "Bureau of the Census" for consistency. In clause (4), the words "the jurisdiction of" are omitted as surplus. The word "deemed" is substituted for "treated" for consistency.p
 
 In subsections (b) and (c), the word "population" before "limitation" is omitted as unnecessary.
 
@@ -150,6 +150,8 @@ In subsection (b)(2), the words "chief executive officer" are substituted for "G
 In subsection (c)(1), the words "amount equal to" and "within the jurisdiction of such unit of local government" are omitted as surplus.
 
 In subsection (c)(2), the words "computed under the . . . table" are omitted as unnecessary. The words "the limitation is equal to the population times" are substituted for "Payment shall not exceed the amount computed by multiplying such population by" for clarity and consistency.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -183,6 +185,8 @@ Subsec. (d). Pub. L. 103–397, §3, added subsec. (d).
 
 <b>1983</b>—Subsec. (a)(4). Pub. L. 98–63 struck out par. (4) which provided that if any part of a small unit was located within another unit, entitlement land within both units was deemed to be located within the smaller unit.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by sections 2(a), (b)(1), and 3 of Pub. L. 103–397 effective Oct. 1, 1994, and amendment by section 2(b)(2) of Pub. L. 103–397 effective Oct. 1, 1998, see section 5(a) of Pub. L. 103–397, set out as a note under section 6902 of this title.
@@ -197,9 +201,11 @@ Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the am
 
 #### Proportional Payments to Local Governments
 
-Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2703, provided in part that: "That in the event the sumsappropriated for any fiscal year for payments pursuant to this chapter \[meaning chapter 69 of Title 31, 31 U.S.C. 6901 et seq.\] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally".
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1496, provided in part: "That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter \[meaning chapter 69 of Title 31, 31 U.S.C. 6901 et seq.\] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2703.
 
 Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 222.
 

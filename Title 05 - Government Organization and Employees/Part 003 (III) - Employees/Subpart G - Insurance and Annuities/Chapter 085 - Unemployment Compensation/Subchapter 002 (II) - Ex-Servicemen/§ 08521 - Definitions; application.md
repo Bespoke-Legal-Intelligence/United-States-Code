@@ -52,6 +52,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This incorporates into 5 U.S.C. 8521 the definition of "State" which is applicable to the source statute of that section by virtue of section 1301(a)(1) of title 42.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 8 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 546, which contained provisions substantially identical to those of section 301 of Pub. L. 102–164, amending this section and enacting provisions set out below, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
@@ -70,7 +72,7 @@ Subsec. (c). Pub. L. 102–164, §301(a), struck out subsec. (c) which read as f
 
 "(2) The aggregate amount of compensation payable on the basis of Federal service (as defined in subsection (a)) to any individual with respect to any benefit year shall not exceed 13 times the individual's weekly benefit amount for total unemployment."
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–362, §201(a), substituted provision that "Federal service" means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only if the service was continuous for 365 days or more, for provision that "Federal service" meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–362, §201(a), substituted provision that "Federal service" means active service (not including active duty in a reserve status unless for a continuous period of 180 days or more) in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration if with respect to that service the individual was discharged or released under honorable conditions (and, if an officer, did not resign for the good of the service), and the individual was discharged or released after completing his first full term of active service which the individual initially agreed to serve, or the individual was discharged or released before completing such term of active service for the convenience of the Government under an early release program, because of medical disqualification, pregnancy, parenthood, or any service-incurred injury or disability, because of hardship, or because of personality disorders or inaptitude but only ifthe service was continuous for 365 days or more, for provision that "Federal service" meant active service, including active duty for training purposes, in the armed forces or the Commissioned Corps of the National Oceanic and Atmospheric Administration which either began after January 31, 1955, or terminated after October 27, 1958, if that service was continuous for 365 days or more, or was terminated earlier because of an actual service-incurred injury or disability, and with respect to that service, the individual was discharged or released under honorable conditions, did not resign or voluntarily leave the service, and was not released or discharged for cause as defined by the Department of Defense.
 
 Subsec. (c). Pub. L. 97–362, §201(b), added subsec. (c).
 
@@ -81,6 +83,8 @@ Subsec. (c). Pub. L. 97–362, §201(b), added subsec. (c).
 Subsec. (a)(1)(A). Pub. L. 96–364 substituted "365" for "90".
 
 <b>1976</b>—Subsec. (a)(3). Pub. L. 94–566 added the Virgin Islands to definition of "State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

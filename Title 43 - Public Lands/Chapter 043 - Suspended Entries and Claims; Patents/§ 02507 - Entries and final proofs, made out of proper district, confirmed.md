@@ -4,17 +4,23 @@ Whenever it shall appear to the Secretary of the Interior, or such officer as he
 
 (Mar. 9, 1904, ch. 503, §1, 33 Stat. 64; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which was classified to section 254 of this title, prior to repeal by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
+Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which wasclassified to section 254 of this title, prior to repeal by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was formerly classified to section 1167 of this title prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Act Mar. 9, 1904, ch. 503, §2, 33 Stat. 64, provided: "That this Act \[enacting this section\] shall be in force from and after its passage and approval."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

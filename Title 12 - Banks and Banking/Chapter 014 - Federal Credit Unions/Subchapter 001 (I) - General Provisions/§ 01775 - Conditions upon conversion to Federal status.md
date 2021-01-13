@@ -1,6 +1,6 @@
 ### §1775. Conditions upon conversion to Federal status
 
-Any District of Columbia credit union converting into a Federal credit union in accordance with sections 1773 to 1775 of this title shall thereupon be subject to the limitations, vested with the powers, and charged with the liabilities conferred and imposed by the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] upon credit unions organized thereunder, except that—
+Any District of Columbia credit union converting into a Federal credit union in accordance with sections 1773 to 1775 of this title shallthereupon be subject to the limitations, vested with the powers, and charged with the liabilities conferred and imposed by the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] upon credit unions organized thereunder, except that—
 
 &emsp;(1) no fee shall be imposed upon a credit union converting pursuant to sections 1773 to 1775 of this title as an incident to its conversion;
 
@@ -9,6 +9,8 @@ Any District of Columbia credit union converting into a Federal credit union in 
 &emsp;(3) a credit union converting pursuant to sections 1773 to 1775 of this title shall submit proposed bylaws to the Board for the Board's approval after its conversion, but not later than thirty days following its next annual meeting or six months after August 1, 1964, whichever is later: <i>Provided</i>, That any existing bylaw inconsistent with any other requirements of the Federal Credit Union Act shall be deemed null and void.
 
 (Pub. L. 88–395, §3, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ The District of Columbia Credit Unions Act, referred to in par. (2), was act Jun
 #### Codification
 
 Section was not enacted as part of the Federal Credit Union Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

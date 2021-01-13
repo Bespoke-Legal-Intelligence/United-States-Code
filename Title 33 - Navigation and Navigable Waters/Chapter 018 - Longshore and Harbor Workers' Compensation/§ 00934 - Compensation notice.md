@@ -1,12 +1,16 @@
 ### §934. Compensation notice
 
-Every employer who has secured compensation under the provisions of this chapter shall keep posted in a conspicuous place or places in and about his place or places of business typewritten or printed notices, in accordance with a form prescribed by the Secretary, stating that such employer has secured the payment of compensation in accordance with the provisions of this chapter. Such notices shall contain the name and address of the carrier, if any, with whom the employer has secured payment of compensation and the date of the expiration of the policy.
+Every employer who has secured compensation under the provisions of this chapter shall keep posted in a conspicuous place or places inand about his place or places of business typewritten or printed notices, in accordance with a form prescribed by the Secretary, stating that such employer has secured the payment of compensation in accordance with the provisions of this chapter. Such notices shall contain the name and address of the carrier, if any, with whom the employer has secured payment of compensation and the date of the expiration of the policy.
 
 (Mar. 4, 1927, ch. 509, §34, 44 Stat. 1441; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–426 substituted "Secretary" for "commission". See Transfer of Functions note set out under section 902 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -19,9 +19,11 @@
 | [910\.](%C2%A7%2000910%20-%20Introduction%20and%20reference%20of%20resolution.md) | Introduction and reference of resolution. |
 | [911\.](%C2%A7%2000911%20-%20Discharge%20of%20committee%20considering%20resolution.md) | Discharge of committee considering resolution. |
 | [912\.](%C2%A7%2000912%20-%20Procedure%20after%20report%20or%20discharge%20of%20committee%3B%20debate%3B%20vote%20on%20final%20passage.md) | Procedure after report or discharge of committee; debate; vote on final passage. |
-| \[913. | Omitted.\] |
+| \[913. | Omitted.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

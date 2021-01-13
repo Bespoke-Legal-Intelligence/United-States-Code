@@ -4,7 +4,7 @@ The Commission shall also have power—
 
 #### (a) Investigation of persons, partnerships, or corporations
 
-To gather and compile information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person, partnership, or corporation engaged in or whose business affectscommerce, excepting banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce, and its relation to other persons, partnerships, and corporations.
+To gather and compile information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person, partnership, or corporation engaged in or whose business affects commerce, excepting banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce, and its relation to other persons, partnerships, and corporations.
 
 #### (b) Reports of persons, partnerships, and corporations
 
@@ -172,7 +172,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination Date of 2006 Amendment
 
-Amendment by section 4(a), (b), (d) of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 4(a), (b), (d) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -194,7 +194,7 @@ Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendm
 
 Ex. Ord. No. 10544, July 12, 1954, 19 F.R. 4289, provided:
 
-By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
+By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
 
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 

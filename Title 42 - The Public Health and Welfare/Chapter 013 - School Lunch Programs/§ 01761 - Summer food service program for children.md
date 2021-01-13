@@ -306,7 +306,7 @@
 
 #### (D) Use of funds
 
-&emsp;&emsp;A State and eligible service institution may use funds made available under this paragraph to pay for such costs as the Secretary determines are necessary to establish and maintain summer food service programs.
+&emsp;&emsp;A State and eligible service institution may use funds made available under thisparagraph to pay for such costs as the Secretary determines are necessary to establish and maintain summer food service programs.
 
 #### (E) Reallocation
 
@@ -362,7 +362,7 @@ Amendments.—A permanent agreement described in clause (i) may be amended as ne
 
 Termination.—A permanent agreement described in clause (i)—
 
-&emsp;&emsp;&emsp;(I) may be terminated for convenience by the service institution and State agencythat is a party to the permanent agreement; and
+&emsp;&emsp;&emsp;(I) may be terminated for convenience by the service institution and State agency that is a party to the permanent agreement; and
 
 &emsp;&emsp;&emsp;(II) shall be terminated—
 
@@ -394,7 +394,7 @@ Amount.—Payment to service institutions for administrative costs shall equal t
 
 #### (c) Payments for meals served during May through September; exceptions for continuous school calendars or non-school sites; National Youth Sports Program
 
-(1) Payments shall be made to service institutions only for meals served during the months of May through September, except in the case of service institutions that operate food service programs for children on school vacation at any time under a continuous school calendar or that provide meal service at non-school sites to children who are not in school for a period during the months of October through April due to a natural disaster, building repair, court order, or similar cause.
+(1) Payments shall be made to service institutions only for meals served during the months of May through September, except in the case of service institutions that operate food service programs for children on school vacation at any time under a continuous school calendar or that provide meal service at non-school sites to children who are not in school for a period duringthe months of October through April due to a natural disaster, building repair, court order, or similar cause.
 
 (2) Children participating in National Youth Sports Programs operated by higher education institutions shall be eligible to participate in the program under this paragraph on showing residence in areas in which poor economic conditions exist or on the basis of income eligibility statements for children enrolled in the program.
 
@@ -406,7 +406,7 @@ Not later than April 15, May 15, and July 1 of each year, the Secretary shall fo
 
 (1) Not later than June 1, July 15, and August 15 of each year, or, in the case of service institutions that operate under a continuous school calendar, the first day of each month of operation, the State shall forward advance program payments to each service institution. The State shall not release the second month's advance program payment to any service institution (excluding a school) that has not certified that it has held training sessions for its own personnel and the site personnel with regard to program duties and responsibilities. No advance program payment may be made for any month in which the service institution will operate under the program for less than ten days.
 
-(2) The amount of the advance program payment for any month in the case of any service institution shall be an amount equal to (A) the total program payment for meals served by such service institution in the same calendar month of the preceding calendar year, (B) 50 percent of the amount established by the State to be needed by such service institution for meals if such service institution contracts with a food service management company, or (C) 65 percent of the amount established by the State to be needed by such service institution for meals if such service institution prepares its own meals, whichever amount is greatest: <i>Provided</i>, That the advance program payment may not exceed the total amount estimated by the State to be needed by such service institution for meals to be served in the month for which such advance program payment is made or $40,000, whichever is less, except that a State may make a larger advance program payment to such service institution where the State determines that such larger paymentis necessary for the operation of the program by such service institution and sufficient administrative and management capability to justify a larger payment is demonstrated. The State shall forward any remaining payment due a service institution not later than seventy-five days following receipt of valid claims. If the State has reason to believe that a service institution will not be able to submit a valid claim for reimbursement covering the period for which an advance program payment has been made, the subsequent month's advance program payment shall be withheld until such time as the State has received a valid claim. Program payments advanced to service institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance program payment.
+(2) The amount of the advance program payment for any month in the case of any service institution shall be an amount equal to (A) the total program payment for meals served by such service institution in the same calendar month of the preceding calendar year, (B) 50 percent of the amount established by the State to be needed by such service institution for meals if such service institution contracts with a food service management company, or (C) 65 percent of the amount established by the State to be needed by such service institution for meals if such service institution prepares its own meals, whichever amount is greatest: <i>Provided</i>, That the advance program payment may not exceed the total amount estimated by the State to be needed by such service institution for meals to be served in the month for which such advance program payment is made or $40,000, whichever is less, except that a State may make a larger advance program payment to such service institution where the State determines that such larger payment is necessary for the operation of the program by such service institution and sufficient administrative and management capability to justify a larger payment is demonstrated. The State shall forward any remaining payment due a service institution not later than seventy-five days following receipt of valid claims. If the State has reason to believe that a service institution will not be able to submit a valid claim for reimbursement covering the period for which an advance program payment has been made, the subsequent month's advance program payment shall be withheld until such time as the State has received a valid claim. Program payments advanced to service institutions that are not subsequently deducted from a valid claim for reimbursement shall be repaid upon demand by the State. Any prior payment that is under dispute may be subtracted from an advance program payment.
 
 #### (f) Nutritional standards
 
@@ -424,7 +424,7 @@ Not later than April 15, May 15, and July 1 of each year, the Secretary shall fo
 
 (7)
 
-Offer versus serve.—A school food authority participating as a service institution may permit a child to refuse one or more items of a meal that the child does not intend to consume, under rules that the school uses for school meals programs. A refusal of an offered food item shall not affect the amount of payments made under this section to a school for the meal.
+Offer versus serve.—A school food authority participating as a service institutionmay permit a child to refuse one or more items of a meal that the child does not intend to consume, under rules that the school uses for school meals programs. A refusal of an offered food item shall not affect the amount of payments made under this section to a school for the meal.
 
 #### (g) Regulations, guidelines, applications, and handbooks; publication; startup costs
 
@@ -444,7 +444,7 @@ Expenditures of funds from State and local sources for the maintenance of food p
 
 (1) The Secretary shall pay to each State for its administrative costs incurred under this section in any fiscal year an amount equal to (A) 20 percent of the first $50,000 in funds distributed to that State for the program in the preceding fiscal year; (B) 10 percent of the next $100,000 distributed to that State for the program in the preceding fiscal year; (C) 5 percent of the next $250,000 in funds distributed to that State for the program in the preceding fiscal year; and (D) 2½ percent of any remaining funds distributed to that State for the program in the preceding fiscal year: <i>Provided</i>, That such amounts may be adjusted by the Secretary to reflect changes in the size of that State's program since the preceding fiscal year.
 
-(2) The Secretary shall establish standards and effective dates for the proper, efficient, and effective administration of the program by the State. If the Secretary finds that the State has failed without good cause to meet any of the Secretary's standards or has failed without good cause to carry out the approved State management and administration plan under subsection (n) of this section, the Secretary may withholdfrom the State such funds authorized under this subsection as the Secretary determines to be appropriate.
+(2) The Secretary shall establish standards and effective dates for the proper, efficient, and effective administration of the program by the State. If the Secretary finds that the State has failed without good cause to meet any of the Secretary's standards or has failed without good cause to carry out the approved State management and administration plan under subsection (n) of this section, the Secretary may withhold from the State such funds authorized under this subsection as the Secretary determines to be appropriate.
 
 (3) To provide for adequate nutritional and food quality monitoring, and to further the implementation of the program, an additional amount, not to exceed the lesser of actual costs or 1 percent of program funds, shall be made available by the Secretary to States to pay for State or local health department inspections, and to reinspect facilities and deliveries to test meal quality.
 
@@ -472,7 +472,7 @@ Each State desiring to participate in the program shall notify the Secretary by 
 
 (2) Whoever being a partner, officer, director, or managing agent connected in any capacity with any partnership, association, corporation, business, or organization, either public or private, that receives benefits under the program, knowingly or willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any benefits provided by this section or any money, funds, assets, or property derived from benefits provided by this section, shall be fined not more than $10,000 or imprisoned for not more than five years, or both (but, if the benefits, money, funds, assets, or property involved is not over $200, then the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both).
 
-(3) If two or more persons conspire or collude to accomplish any act made unlawful under thissubsection, and one or more of such persons do any act to effect the object of the conspiracy or collusion, each shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
+(3) If two or more persons conspire or collude to accomplish any act made unlawful under this subsection, and one or more of such persons do any act to effect the object of the conspiracy or collusion, each shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
 
 #### (p) Monitoring of participating private nonprofit organizations
 
@@ -588,7 +588,7 @@ Pub. L. 108–211 substituted "June 30, 2004" for "March 31, 2004".
 
 Subsec. (a)(1)(D)(ii). Pub. L. 105–336, §107(j)(3)(B)(ii), substituted "individuals who have a disability" for "the mentally or physically handicapped".
 
-Subsec. (a)(3)(C). Pub. L. 105–336, §107(j)(2)(A), inserted "or" at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: "conduct a regularly scheduled food service primarily for homeless children; or".
+Subsec. (a)(3)(C). Pub. L. 105–336, §107(j)(2)(A), inserted "or" at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows:"conduct a regularly scheduled food service primarily for homeless children; or".
 
 Subsec. (a)(7)(B)(i). Pub. L. 105–336, §105(a), added cl. (i) and struck out former cl. (i) which read as follows:
 
@@ -694,7 +694,7 @@ Subsec. (a)(7)(C). Pub. L. 103–448, §114(b), struck out subpar. (C) which rea
 
 "(C)(i) Except as provided in clause (ii), no private nonprofit organization (other than organizations eligible under paragraph (1)) may participate in the program in an area where a school food authority or a local, municipal, or county government participated in the program before such organization applied to participate until the expiration of the 1-year period beginning on the date that such school food authority or local, municipal, or county government terminated its participation in the program.
 
-"(ii) Clause (i) shall not apply if the appropriate State agency or regional office of the Department of Agriculture (whichever administers the program in the area concerned), after consultation with the schoolfood authority or local, municipal, or county government concerned, determines that such school food authority or local, municipal, or county government would have discontinued its participation in the program regardless of whether a private nonprofit organization was available to participate in the program in such area."
+"(ii) Clause (i) shall not apply if the appropriate State agency or regional office of the Department of Agriculture (whichever administers the program in the area concerned), after consultation with the school food authority or local, municipal, or county government concerned, determines that such school food authority or local, municipal, or county government would have discontinued its participation in the program regardless of whether a private nonprofit organization was available to participate in the program in such area."
 
 Subsec. (c)(1). Pub. L. 103–448, §114(c), inserted before period at end "or that provide meal service at non-school sites to children who are not in school for a period during the months of October through April due to a natural disaster, building repair, court order, or similar cause".
 
@@ -826,7 +826,7 @@ Subsec. (a)(1). Pub. L. 94–20, §1(a), inserted "and for the period July 1, 19
 
 Subsec. (b). Pub. L. 94–105 substituted provisions for payment to service institutions of the full cost of obtaining, preparing and serving food and administrative costs, with maximum rates for each kind of meal and its related administrative cost and adjustment of the rates each March 1 on the basis of changes in the series for food away from home of the Consumer Price Index for provisions apportioning among the states the appropriated sums, with a maximum basic grant of $50,000, and reserving 2 per centum of the appropriated sums for apportionment to Guam, Puerto Rico, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
-Subsec. (c). Pub. L. 94–105 substituted provisions for disbursement to service institutions only for meals served during May through Sept. except for institutions with programs for children on school vacation at any time under a continuous school calendar for provisions for the disbursement of funds by the State educational agency to service institutions on a nondiscriminatory basis for the cost of obtaining agricultural commodities and other foods, purchase and rental of equipment and authorizing financial assistance not to exceed 3 per centum of the operating costs in cases of severe need.
+Subsec. (c). Pub. L. 94–105 substituted provisions for disbursement to service institutions only for meals served during May through Sept. except for institutions with programs for children on school vacation atany time under a continuous school calendar for provisions for the disbursement of funds by the State educational agency to service institutions on a nondiscriminatory basis for the cost of obtaining agricultural commodities and other foods, purchase and rental of equipment and authorizing financial assistance not to exceed 3 per centum of the operating costs in cases of severe need.
 
 Subsec. (d). Pub. L. 94–105 substituted provisions relating to the advance payment to States for meals served in that month and deductions in the next month for advances for which valid claims have not been established within 180 days for provisions for the disbursement of funds directly to service institutions in states where the State educational agency is forbidden by law to disburse funds to such institutions.
 
@@ -884,7 +884,7 @@ Amendment by sections 105(a)–(d) and 107(j)(3)(B) of Pub. L. 105–336 effecti
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title VII, §706(m), Aug. 22, 1996, 110 Stat. 2293, provided that: "The amendments made by subsection (b) \[amending this section\] shall become effective on January 1, 1997."
+Pub. L. 104–193, title VII, §706(m), Aug. 22, 1996, 110 Stat. 2293, provided that: "The amendments made bysubsection (b) \[amending this section\] shall become effective on January 1, 1997."
 
 #### Effective Date of 1994 Amendment
 

@@ -25,4 +25,5 @@ A prior part F, consisting of part G of title IV of Pub. L. 89–329, was redesi
 - [&sect; 01087tt - Discretion of student financial aid administrators](%C2%A7%2001087tt%20-%20Discretion%20of%20student%20financial%20aid%20administrators.md)
 - [&sect; 01087uu - Disregard of student aid in other Federal programs](%C2%A7%2001087uu%20-%20Disregard%20of%20student%20aid%20in%20other%20Federal%20programs.md)
 - [&sect; 01087uu&#8211;1 - Native American students](%C2%A7%2001087uu%E2%80%931%20-%20Native%20American%20students.md)
+- [&sect; 01087uu&#8211;2 - Special rules for independent students](%C2%A7%2001087uu%E2%80%932%20-%20Special%20rules%20for%20independent%20students.md)
 - [&sect; 01087vv - Definitions](%C2%A7%2001087vv%20-%20Definitions.md)

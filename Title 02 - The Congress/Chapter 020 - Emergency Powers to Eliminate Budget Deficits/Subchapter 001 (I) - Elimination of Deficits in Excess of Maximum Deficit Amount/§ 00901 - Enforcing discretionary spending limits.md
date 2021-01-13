@@ -70,7 +70,7 @@
 
 #### (B) Continuing disability reviews and redeterminations
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -102,7 +102,7 @@
 
 #### (C) Health care fraud and abuse control
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for the health care fraud abuse control program at the Department of Health and Human Services (75–8393–0–7–571), then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for suchprogram for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for the health care fraud abuse control program at the Department of Health and Human Services (75–8393–0–7–571), then the adjustments for that fiscal year shall be the amount of additional new budget authority provided in that Act for such program for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $270,000,000 in additional new budget authority;
 
@@ -188,7 +188,7 @@
 
 #### (I) Additional new budget authority
 
-&emsp;&emsp;&emsp;&emsp;The term "additional new budget authority" means the amount provided for a fiscal year in an appropriation Act that is in excess of the average costs for wildfire suppression operations as reported in the budget of the President submitted under section 1105(a) of title 31 for fiscal year 2015 and are specified to pay for the costs of wildfire suppressionoperations in an amount not to exceed the amount specified for that fiscal year in clause (i).
+&emsp;&emsp;&emsp;&emsp;The term "additional new budget authority" means the amount provided for a fiscal year in an appropriation Act that is in excess of the average costs for wildfire suppression operations as reported in the budget of the President submitted under section 1105(a) of title 31 for fiscal year 2015 and are specified to pay for the costs of wildfire suppression operations in an amount not to exceed the amount specified for that fiscal year in clause (i).
 
 #### (II) Wildfire suppression operations
 
@@ -259,6 +259,8 @@ As used in this subchapter, the term "discretionary spending limit" means—
 > as adjusted in strict conformance with subsection (b).
 
 (Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, §101(a), title VIII, §815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, §1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, §30101(a), title II, §30206(c), Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, §102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, §8704(a)(1)(A), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 116–37, title I, §101(a), (c), Aug. 2, 2019, 133 Stat. 1049.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -429,6 +431,8 @@ Subsec. (a)(6)(I). Pub. L. 101–508, §13101(e)(2), redesignated subsec. (a)(6)
 <b>1987</b>—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
 Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out "and" before "contract authority" and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

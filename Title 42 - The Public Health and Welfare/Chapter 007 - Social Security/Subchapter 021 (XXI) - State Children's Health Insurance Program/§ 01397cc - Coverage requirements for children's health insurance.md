@@ -22,7 +22,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used undersubparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
@@ -80,7 +80,7 @@ The benchmark benefit packages are as follows:
 
 #### (3) Treatment of other categories
 
-&emsp;Nothing in this subsection shall be construed as preventing a State child health plan from providing coverage of benefits that arenot within a category of services described in paragraph (1) or (2).
+&emsp;Nothing in this subsection shall be construed as preventing a State child health plan from providing coverage of benefits that are not within a category of services described in paragraph (1) or (2).
 
 #### (4) Determination of actuarial value
 
@@ -118,7 +118,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Permitting use of dental benchmark plans by certain States
 
-&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
+&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dentalcoverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
 
 #### (C) Benchmark dental benefit packages
 
@@ -140,7 +140,7 @@ The benchmark benefit packages are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section.
+&emsp;&emsp;A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act \[42 U.S.C. 300gg–26(a)\], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
 
 #### (B) Deemed compliance
 
@@ -152,7 +152,11 @@ The benchmark benefit packages are as follows:
 
 #### (9) Availability of coverage for items and services furnished through school-based health centers
 
-&emsp;Nothing in this subchapter shall be construed as limiting a State's ability to providechild health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title).
+&emsp;Nothing in this subchapter shall be construed as limiting a State's ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title).
+
+#### (10) Certain in vitro diagnostic products for COVID–19 testing
+
+&emsp;The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 <sup>1</sup> (and the administration of such product).
 
 #### (d) Description of existing comprehensive State-based coverage
 
@@ -188,11 +192,11 @@ The benchmark benefit packages are as follows:
 
 #### (B) Protection for lower income children
 
-&emsp;&emsp;The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
+&emsp;&emsp;The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children fromfamilies with higher income over children from families with lower income.
 
-#### (2) No cost sharing on benefits for preventive services or pregnancy-related assistance
+#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, or pregnancy-related assistance
 
-&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
+&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing
 
@@ -236,7 +240,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Group health plans and group health insurance coverage
 
-&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted underthe applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
+&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
 
 #### (2) Compliance with other requirements
 
@@ -246,11 +250,13 @@ The benchmark benefit packages are as follows:
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917.)
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+March 18, 2020, referred to in subsec. (c)(10), was in the original "the date of the enactment of this subparagraph", and was translated as if it had read "the date of the enactment of this paragraph" to reflect the probable intent of Congress.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406,Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
@@ -261,6 +267,14 @@ subpart 2—other requirements" (preceding section 300gg–4 of this title), and
 exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(7)(A). Pub. L. 116–260, §203(a)(4)(C)(ii), inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation."
+
+Pub. L. 116–260, §203(a)(4)(C)(i), which directed substitution of "section 2726(a)" for "section 2705(a)", could not be executed because of the intervening general amendment by Pub. L. 115–271, §5022(d). See 2018 Amendment note below.
+
+Subsec. (c)(10). Pub. L. 116–127, §6004(b)(1), added par. (10).
+
+Subsec. (e)(2). Pub. L. 116–127, §6004(b)(3), in heading, inserted ", COVID–19 testing," before "or pregnancy-related assistance" and, in text, substituted "categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or" for "category of services described in subsection (c)(1)(D) or".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–271, §5022(b)(2)(A), substituted "paragraphs (5), (6), (7), and (8)" for "paragraphs (5), (6), and (7)" in introductory provisions.
 
@@ -307,4 +321,6 @@ Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: 
 Amendment by section 501(a)(1) of Pub. L. 111–3 applicable to coverage of items and services furnished on or after Oct. 1, 2009, see section 501(a)(3) of Pub. L. 111–3, set out as a note under section 1397bb of this title.
 
 Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to new coverage periods beginning on or after the date of the enactment of this Act \[Feb. 4, 2009\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) In the case of any plan which provides that after not more than 2 years of service each participant has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (ii) of subparagraph (A) shall be applied by substituting "2 years of service" for "1 year of service".
 
-&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section170(b)(1)(A)(ii)) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting "26" for "21". This clause shall not apply to any plan to which clause (i) applies.
+&emsp;&emsp;(ii) In the case of any plan maintained exclusively for employees of an educational institution (as defined in section 170(b)(1)(A)(ii)) by an employer which is exempt from tax under section 501(a) which provides that each participant having at least 1 year of service has a right to 100 percent of his accrued benefit under the plan which is nonforfeitable (within the meaning of section 411) at the time such benefit accrues, clause (i) of subparagraph (A) shall be applied by substituting "26" for "21". This clause shall not apply to any plan to which clause (i) applies.
 
 #### (2) Maximum age conditions
 
@@ -26,7 +26,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;For purposes of this subsection, the term "year of service" means a 12-month period during which the employee has not less than 1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, under regulations prescribed by the Secretary of Labor, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
+&emsp;&emsp;For purposes of this subsection, the term "year of service" means a 12-month period during which the employee has not less than1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, under regulations prescribed by the Secretary of Labor, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
 
 #### (B) Seasonal industries
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case in which the plan is unable to determine the hours described in subclause (I), 8 hours of service per day of such absence,
 
-&emsp;&emsp;&nbsp;except that the total number of hours treated as hours of service under this clause by reason of any such pregnancy or placement shall not exceed 501 hours.
+&emsp;&emsp;&nbsp;except that the total number of hours treated as hours of service under thisclause by reason of any such pregnancy or placement shall not exceed 501 hours.
 
 #### (iii) Year to which hours are credited
 
@@ -186,7 +186,7 @@
 
 #### (E) Qualified plan
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified plan" means any plan which\(without regard to this subsection) meets the requirements of section 401(a).
+&emsp;&emsp;For purposes of this paragraph, the term "qualified plan" means any plan which (without regard to this subsection) meets the requirements of section 401(a).
 
 #### (3) Exclusion of certain employees
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
-&emsp;&emsp;(C) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
+&emsp;&emsp;(C) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income fromsources within the United States (within the meaning of section 861(a)(3)).
 
 > &emsp;Subparagraph (A) shall not apply with respect to coverage of employees under a plan pursuant to an agreement under such subparagraph. For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence).
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) such requirements were met immediately before each such change, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the coverage under such plan is not significantly changed during the transition period (other than by reason of the change in members of a group) or suchplan meets such other requirements as the Secretary may prescribe by regulation.
+&emsp;&emsp;&emsp;&emsp;(II) the coverage under such plan is not significantly changed during the transition period (other than by reason of the change in members of a group) or such plan meets such other requirements as the Secretary may prescribe by regulation.
 
 #### (ii) Transition period
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;&emsp;(i) such plan benefits 50 percent or more of all the employees who are eligible under a nondiscriminatory classification under the plan, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the amounts allocated to each participant's account for the year does not exceed 2 percent of the compensation of that participant for the year.
+&emsp;&emsp;&emsp;(ii) the sum of the amounts allocated to each participant's account for the yeardoes not exceed 2 percent of the compensation of that participant for the year.
 
 #### (E) Eligibility to contribute
 
@@ -322,7 +322,7 @@ The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 3
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, in concluding provisions, substituted "For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence)." for "Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard aircraft in flight."
 
-<b>1997</b>—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974."
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the requirements of section 401(a)(3) as in effect on September 1, 1974."
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–239 struck out comma before period at end.
 
@@ -344,7 +344,7 @@ Subsec. (a)(2). Pub. L. 99–509 substituted a period for "unless—
 
 &emsp;&emsp;"(ii) target benefit plan (as defined under regulations prescribed by the Secretary), and
 
-&emsp;"(B) such employees begin employment with the employer after they have attained a specified age which is not more than 5 years before the normal retirement age under the plan."
+&emsp;"(B) such employees begin employment with the employer after they have attained a specified agewhich is not more than 5 years before the normal retirement age under the plan."
 
 Subsec. (a)(5)(B). Pub. L. 99–514, §1113(d)(A), substituted "2-year" for "3-year" in heading.
 
@@ -418,7 +418,7 @@ Pub. L. 93–406, title II, §1017, Sept. 2, 1974, 88 Stat. 932, as amended by P
 
 "(a)
 
-General Rule.—Except as otherwise provided in this section, the amendments made by this part \[part 1 (§§1011–1017) of subtitle A of title II of Pub. L. 93–406, enacting this section and sections 411, 412, 413, 414, and 4971 of this title, amending sections 275, 401, 404, 406, 407, 805, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6512, 6601, 6653, 6659 \[now 6662\], 6676, 6677, 6679, 6682,6688, 6861, 6862, and 7422 of this title and enacting provisions set out as notes under this section and sections 411 and 412 of this title\] shall apply for plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\].
+General Rule.—Except as otherwise provided in this section, the amendments made by this part \[part 1 (§§1011–1017) of subtitle A of title II of Pub. L. 93–406, enacting this section and sections 411, 412, 413, 414, and 4971 of this title, amending sections 275, 401, 404, 406, 407, 805, 6161, 6201, 6204, 6211, 6212, 6213, 6214, 6344, 6501, 6503, 6512, 6601, 6653, 6659 \[now 6662\], 6676, 6677, 6679, 6682, 6688, 6861, 6862, and 7422 of this title and enacting provisions set out as notes under this section and sections 411 and 412 of this title\] shall apply for plan years beginning after the date of the enactment of this Act \[Sept. 2, 1974\].
 
 "(b)
 

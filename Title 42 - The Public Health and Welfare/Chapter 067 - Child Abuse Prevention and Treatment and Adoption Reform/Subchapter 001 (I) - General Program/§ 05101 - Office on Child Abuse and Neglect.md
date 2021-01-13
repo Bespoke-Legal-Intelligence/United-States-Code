@@ -6,7 +6,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 #### (b) Purpose
 
-The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regularintradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 (Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
@@ -74,7 +74,7 @@ Pub. L. 102–295, §1(a), May 28, 1992, 106 Stat. 187, provided that: "This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: "This Act \[amending sections 5117aa to 5117aa–12 and 5117aa–22 of this title and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the 'Abandoned Infants Assistance Act Amendments of 1991'."
+Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: "This Act \[amending sections 5117aa to5117aa–12 and 5117aa–22 of this title and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the 'Abandoned Infants Assistance Act Amendments of 1991'."
 
 #### Short Title of 1989 Amendment
 

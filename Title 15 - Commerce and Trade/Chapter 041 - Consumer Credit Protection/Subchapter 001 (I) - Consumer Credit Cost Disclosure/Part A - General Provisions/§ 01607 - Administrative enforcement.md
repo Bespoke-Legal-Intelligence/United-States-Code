@@ -92,7 +92,7 @@ The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 193
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (a)(4), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(5), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(5), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, whichis classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board".
 
 &emsp;"(ii) require";
 
-> directed the substitution of "reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditorto become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
+> directed the substitution of "reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
 
 &emsp;"(B) the";
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L
 
 #### Transfer of Functions
 
-"National Credit Union Administration Board" substituted for "Director of the Bureau of Federal Credit Unions" in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C. 1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
+"National Credit Union Administration Board" substituted for "Director of the Bureau of Federal Credit Unions" in subsec. (a)(3) pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 \[12 U.S.C.1752a\] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "if".</i>
 

@@ -64,13 +64,15 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;(C) the progress of those independent states of the former Soviet Union that are non-nuclear-weapon states and of the Baltic states towards achieving the objective of applying full scope safeguards to all their peaceful nuclear activities.
 
-> Portions of the information required by paragraph (6) may be submitted in classified form, asnecessary. Any such information that may not be published or disclosed under section 12(c)(1) <sup>3</sup> of the Export Administration Act of 1979 shall be submitted as confidential.
+> Portions of the information required by paragraph (6) may be submitted in classified form, as necessary. Any such information that may not be published or disclosed under section 12(c)(1) <sup>3</sup> of the Export Administration Act of 1979 shall be submitted as confidential.
 
 #### (b) Analysis of civil agreements for cooperation
 
 In the first report required by this section, the President shall analyze each civil agreement for cooperation negotiated pursuant to section 2153 of title 42, and shall discuss the scope and adequacy of the requirements and obligations relating to safeguards and other controls therein.
 
 (Pub. L. 95–242, title VI, §601, Mar. 10, 1978, 92 Stat. 150; Pub. L. 103–236, title VIII, §811, Apr. 30, 1994, 108 Stat. 507.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–236 struck out "and" after the semicolon in par. (4), substituted a semicolon for the period in par. (5), and added par. (6) and concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -93,6 +97,8 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to the requirement that the President annually report to Congress on the Government's efforts to prevent proliferation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 15 of House Document No. 103–7.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

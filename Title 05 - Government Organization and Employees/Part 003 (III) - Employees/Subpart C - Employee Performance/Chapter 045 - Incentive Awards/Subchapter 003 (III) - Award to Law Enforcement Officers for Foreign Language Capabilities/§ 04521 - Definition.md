@@ -14,13 +14,17 @@ For the purpose of this subchapter, the term "law enforcement officer" means—
 
 &emsp;(6) a pretrial services officer (referred to in section 3153 of title 18).
 
-(Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, §627, Oct. 28, 1991, 105Stat. 874; Pub. L. 102–378, §2(21), Oct. 2, 1992, 106 Stat. 1348.)
+(Added Pub. L. 101–509, title V, §529 \[title IV, §408(a)\], Nov. 5, 1990, 104 Stat. 1427, 1467; amended Pub. L. 102–141, title VI, §627, Oct. 28, 1991, 105 Stat. 874; Pub. L. 102–378, §2(21), Oct. 2, 1992, 106 Stat. 1348.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–378 amended section generally, substituting in par. (1) "section 5541(3)" for "section 8331(20) or section 8401(17)".
 
 <b>1991</b>—Pub. L. 102–141 amended section generally. Prior to amendment, section read as follows: "For the purpose of this subchapter, the term 'law enforcement officer' has the same meaning as under section 5949(a)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

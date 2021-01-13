@@ -22,6 +22,8 @@ The provision <sup>1</sup> of this section shall take effect on April 9, 1992.
 
 (Pub. L. 102–392, title III, §314, Oct. 6, 1992, 106 Stat. 1723.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 121e of this title prior to editorial reclassification and renumbering as this section.

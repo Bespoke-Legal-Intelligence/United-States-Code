@@ -24,7 +24,7 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 
 #### (3) Exception for fuel on which Leaking Underground Storage Tank Trust Fund financing rate separately imposed
 
-&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under paragraph\(2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
+&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax was imposed with respect to such fuel under section 4041(d) or 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.
 
 #### (4) Termination of Leaking Underground Storage Tank Trust Fund financing rate
 
@@ -110,7 +110,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 &emsp;"(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon."
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub.L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
 
 &nbsp;
 
@@ -123,7 +123,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. B, title II, §205(b), Dec. 19, 2014, 128 Stat. 4065, provided that: "The amendment made by this section \[amending this section\] shall apply to fuel used after March 31, 2015."
+Pub. L. 113–295, div. B, title II, §205(b), Dec. 19, 2014, 128 Stat. 4065, provided that: "The amendment made bythis section \[amending this section\] shall apply to fuel used after March 31, 2015."
 
 #### Effective Date of 2007 Amendment
 

@@ -20,6 +20,8 @@ Covered Costs.—For purposes of subsection (a)(2), costs relating to a course o
 
 (Added Pub. L. 105–368, title VIII, §803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, §102(b), Jan. 23, 2002, 115 Stat. 2448; Pub. L. 111–163, title III, §301(b), May 5, 2010, 124 Stat. 1146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–163, §301(b)(1), substituted "an" for "a recently appointed".
@@ -27,6 +29,8 @@ Covered Costs.—For purposes of subsection (a)(2), costs relating to a course o
 Subsec. (c). Pub. L. 111–163, §301(b)(2), struck out subsec. (c). Text read as follows: "For purposes of subsection (a), an individual shall be considered to be recently appointed to a position if the individual has held that position for less than 6 months."
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–135 substituted "in a position (as determined by the Secretary) providing direct-patient care services or services incident to direct-patient care services" for "under an appointment under section 7402(b) of this title in a position" and "(as so determined)" for "(as determined by the Secretary)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inclusion of Vet Center Employees in Education Debt Reduction Program of Department of Veterans Affairs
 

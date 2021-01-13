@@ -30,7 +30,7 @@ The Attorney General, in coordination with the Director of the Bureau of Prisons
 
 #### (1) Obtaining identification
 
-&emsp;The Director shall assist prisoners in obtaining identification prior to release from a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term in community confinement, including a social security card,driver's license or other official photo identification, and a birth certificate.
+&emsp;The Director shall assist prisoners in obtaining identification prior to release from a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term in community confinement, including a social security card, driver's license or other official photo identification, and a birth certificate.
 
 #### (2) Assistance developing release plan
 
@@ -66,7 +66,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (B) Tracking
 
-&emsp;&emsp;In carrying out this paragraph, the Director shall quantitatively track the progress in responding to the reentry needs and deficits of individual inmates.
+&emsp;&emsp;In carrying out this paragraph, the Director shall quantitatively track the progressin responding to the reentry needs and deficits of individual inmates.
 
 #### (C) Annual report
 
@@ -134,7 +134,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (B) Placement in home detention
 
-&emsp;&emsp;In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention, upon written request from either the Bureau of Prisons or an eligible elderly offender or eligible terminally ill offender.
+&emsp;&emsp;In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention, upon written request from either the Bureau of Prisons or an eligibleelderly offender or eligible terminally ill offender.
 
 #### (C) Waiver
 
@@ -202,6 +202,8 @@ There are authorized to be appropriated to the Attorney General to carry out thi
 
 (Pub. L. 110–199, title II, §231, Apr. 9, 2008, 122 Stat. 683; Pub. L. 113–128, title V, §512(bb)(2), July 22, 2014, 128 Stat. 1717; Pub. L. 115–391, title V, §504(b), title VI, §§603(a), 604(a), Dec. 21, 2018, 132 Stat. 5233, 5238, 5241.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 17541 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -241,6 +243,8 @@ Subsec. (g)(5)(D). Pub. L. 115–391, §603(a)(5)(B), added subpar. (D).
 Subsecs. (h), (i). Pub. L. 115–391, §504(b)(2)–(4), redesignated subsec. (i) as (h), substituted "2019 through 2023" for "2009 and 2010", and struck out former subsec. (h) which related to the Federal Remote Satellite Tracking and Reentry Training program.
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–128 substituted "the one-stop partners and one-stop operators (as such terms are defined in section 3102 of title 29) that provide services at any center operated under a one-stop delivery system established under section 3151(e) of title 29" for "the one-stop partners and one-stop operators (as such terms are defined in section 2801 of title 29) that provide services at any center operated under a one-stop delivery system established under section 2864(c) of title 29".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

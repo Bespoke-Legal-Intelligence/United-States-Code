@@ -2,7 +2,7 @@
 
 #### (a) Specific and other site locations; remedial action; consultations; boundaries; Grand Junction, Colorado, site restriction
 
-(1) As soon as practicable, but no later than one year after November 8, 1978, the Secretary shall designate processing sites at or near the following locations:
+(1) As soon as practicable, but no later than one year after November 8, 1978, the Secretaryshall designate processing sites at or near the following locations:
 
 &emsp;&emsp;Salt Lake City, Utah
 
@@ -92,7 +92,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### (3) Remediation
 
-&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (10 U.S.C. 8720 note; Public Law 105–261), including—
+&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense AuthorizationAct for Fiscal Year 1999 (10 U.S.C. 8720 note; Public Law 105–261), including—
 
 &emsp;&emsp;(A) ground water restoration; and
 

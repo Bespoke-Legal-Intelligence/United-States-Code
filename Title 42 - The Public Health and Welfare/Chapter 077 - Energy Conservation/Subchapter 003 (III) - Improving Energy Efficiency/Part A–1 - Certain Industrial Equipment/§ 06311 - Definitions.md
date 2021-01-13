@@ -158,7 +158,7 @@ General purpose electric motor (subtype ii).—The term "general purpose electri
 
 &emsp;&emsp;&emsp;(vii) A poly-phase motor with voltage of not more than 600 volts (other than 230 or 460 volts.<sup>1</sup>
 
-&emsp;(C) The term "definite purpose motor" means any motor designed in standard ratings with standard operating characteristics or standard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
+&emsp;(C) The term "definite purpose motor" means any motor designed in standard ratings with standard operating characteristics orstandard mechanical construction for use under service conditions other than usual or for use on a particular type of application and which cannot be used in most general purpose applications.
 
 &emsp;(D) The term "special purpose motor" means any motor, other than a general purpose motor or definite purpose motor, which has special operating characteristics or special mechanical construction, or both, designed for a particular application.
 
@@ -214,7 +214,7 @@ Exclusion.—The terms "walk-in cooler" and "walk-in freezer" do not include pro
 
 &emsp;&emsp;(B) is designed for use in—
 
-&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-familyhousing common areas and coin laundries; or
+&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-family housing common areas and coin laundries; or
 
 &emsp;&emsp;&emsp;(ii) other commercial applications.
 
@@ -289,6 +289,124 @@ Pars. (8) to (18). Pub. L. 102–486, §122(a)(3), added pars. (8) to (18).
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Extended Product System Rebate Program
+
+Pub. L. 116–260, div. Z, title I, §1005, Dec. 27, 2020, 134 Stat. 2430, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Electric motor.—The term 'electric motor' has the meaning given the term in section 431.12 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 27, 2020\]).
+
+&emsp;"(2)
+
+Electronic control.—The term 'electronic control' means—
+
+&emsp;&emsp;"(A) a power converter; or
+
+&emsp;&emsp;"(B) a combination of a power circuit and control circuit included on 1 chassis.
+
+&emsp;"(3)
+
+Extended product system.—The term 'extended product system' means an electric motor and any required associated electronic control and driven load that—
+
+&emsp;&emsp;"(A) offers variable speed or multispeed operation;
+
+&emsp;&emsp;"(B) offers partial load control that reduces input energy requirements (as measured in kilowatt-hours) as compared to identified base levels set by the Secretary of Energy (in this section referred to as the 'Secretary'); and
+
+&emsp;&emsp;"(C)(i) has greater than 1 horsepower; and
+
+&emsp;&emsp;"(ii) uses an extended product system technology, as determined by the Secretary.
+
+&emsp;"(4)
+
+Qualified extended product system.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'qualified extended product system' means an extended product system that—
+
+&emsp;&emsp;&emsp;"(i) includes an electric motor and an electronic control; and
+
+&emsp;&emsp;&emsp;"(ii) reduces the input energy (as measured in kilowatt-hours) required to operate the extended product system by not less than 5 percent, as compared to identified base levels set by the Secretary.
+
+&emsp;&emsp;"(B)
+
+Inclusions.—The term 'qualified extended product system' includes commercial or industrial machinery or equipment that—
+
+&emsp;&emsp;&emsp;"(i)(I) did not previously make use of the extended product system prior to the redesign described in subclause (II); and
+
+&emsp;&emsp;&emsp;"(II) incorporates an extended product system that has greater than 1 horsepower into redesigned machinery or equipment; and
+
+&emsp;&emsp;&emsp;"(ii) was previously used prior to, and was placed back into service during, calendar year 2021 or 2022.
+
+"(b)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a program to provide rebates for expenditures made by qualified entities for the purchase or installation of a qualified extended product system.
+
+"(c)
+
+Qualified Entities.—
+
+&emsp;"(1)
+
+Eligibility requirements.—A qualified entity under this section shall be—
+
+&emsp;&emsp;"(A) in the case of a qualified extended product system described in subsection (a)(4)(A), the purchaser of the qualified extended product that is installed; and
+
+&emsp;&emsp;"(B) in the case of a qualified extended product system described in subsection (a)(4)(B), the manufacturer of the commercial or industrial machinery or equipment that incorporated the extended product system into that machinery or equipment.
+
+&emsp;"(2)
+
+Application.—To be eligible to receive a rebate under this section, a qualified entity shall submit to the Secretary—
+
+&emsp;&emsp;"(A) an application in such form, at such time, and containing such information as the Secretary may require; and
+
+&emsp;&emsp;"(B) a certification that includes demonstrated evidence—
+
+&emsp;&emsp;&emsp;"(i) that the entity is a qualified entity; and
+
+&emsp;&emsp;&emsp;"(ii)(I) in the case of a qualified entity described in paragraph (1)(A)—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) that the qualified entity installed the qualified extended product system during the 2 fiscal years following the date of enactment of this Act;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) that the qualified extended product system meets the requirements of subsection (a)(4)(A); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity on which the qualified extended product system was installed; or
+
+&emsp;&emsp;&emsp;"(II) in the case of a qualified entity described in paragraph (1)(B), demonstrated evidence—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) that the qualified extended product system meets the requirements of subsection (a)(4)(B); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) showing the serial number, manufacturer, and model number from the nameplate of the installed motor of the qualified entity with which the extended product system is integrated.
+
+"(d)
+
+Authorized Amount of Rebate.—
+
+&emsp;"(1)
+
+In general.—The Secretary may provide to a qualified entity a rebate in an amount equal to the product obtained by multiplying—
+
+&emsp;&emsp;"(A) an amount equal to the sum of the nameplate rated horsepower of—
+
+&emsp;&emsp;&emsp;"(i) the electric motor to which the qualified extended product system is attached; and
+
+&emsp;&emsp;&emsp;"(ii) the electronic control; and
+
+&emsp;&emsp;"(B) $25.
+
+&emsp;"(2)
+
+Maximum aggregate amount.—A qualified entity shall not be entitled to aggregate rebates under this section in excess of $25,000 per calendar year.
+
+"(e)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2022 and 2023."
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should follow "volts".</i>
 

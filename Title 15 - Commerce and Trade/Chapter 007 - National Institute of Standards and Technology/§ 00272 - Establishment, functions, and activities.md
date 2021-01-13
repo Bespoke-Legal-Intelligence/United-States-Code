@@ -16,7 +16,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the "Secreta
 
 &emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
-&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
+&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information,techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
@@ -182,7 +182,7 @@ Subsec. (b)(4). Pub. L. 110–69, §3013(b), inserted "and grants and cooperativ
 
 Subsec. (c). Pub. L. 110–69, §3002(c)(2)(A)(ii), struck out "and, if appropriate, through other appropriate officials," before "may," in introductory provisions.
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out ", including comparing standards used in scientificinvestigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government" after "consistent with those standards".
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–113, §12(a)(1), struck out ", including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government" after "consistent with those standards".
 
 Subsec. (b)(3) to (12). Pub. L. 104–113, §12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
 
@@ -198,13 +198,17 @@ Par. (20). Pub. L. 100–235 added par. (20).
 
 <b>1950</b>—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
+#### Change of Name
+
+Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of Title 6, Domestic Security, see section 652a(c)(3) of Title 6, enacted Jan. 1, 2021.
+
 #### Construction of Pub. L. 115–236
 
 Pub. L. 115–236, §2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies."
 
 #### Dissemination of Resources for Small Businesses
 
-Pub. L. 115–236, §2(c), Aug. 14, 2018, 132 Stat. 2444, provided that:
+Pub. L. 115–236, §2(c), Aug. 14, 2018, 132 Stat. 2444, as amended by Pub. L. 116–283, div. H, title XCIV, §9401(g)(4)(B), Jan. 1, 2021, 134 Stat. 4809, provided that:
 
 "(1)
 
@@ -228,7 +232,7 @@ Requirements.—The Director shall ensure that the resources disseminated pursua
 
 "(3)
 
-National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 401 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7451).
+National cybersecurity awareness and education program.—The Director shall ensure that the resources disseminated under paragraph (1) are consistent with the efforts of the Director under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274) \[15 U.S.C. 7443\].
 
 "(4)
 

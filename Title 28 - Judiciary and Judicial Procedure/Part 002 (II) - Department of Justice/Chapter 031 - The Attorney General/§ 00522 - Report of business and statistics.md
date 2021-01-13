@@ -32,6 +32,8 @@ The words "and a detailed statement of the amounts used for defraying the expens
 
 In paragraph (3), the words "involving the United States" are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (b), is the date of enactment of Pub. L. 107–273, which was approved Nov. 2, 2002.
@@ -41,6 +43,8 @@ The date of enactment of 21st Century Department of Justice Appropriations Autho
 <b>2002</b>—Pub. L. 107–273 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–273 substituted "by April 1 of each year" for "at the beginning of each regular session of Congress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report to Congress on Banking Law Offenses
 

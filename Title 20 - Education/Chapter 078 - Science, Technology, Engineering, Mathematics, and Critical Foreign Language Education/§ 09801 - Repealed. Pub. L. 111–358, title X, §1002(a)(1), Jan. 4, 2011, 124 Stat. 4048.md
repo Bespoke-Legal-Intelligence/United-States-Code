@@ -20,7 +20,7 @@ Conflict of Interest Statement.—Any person awarded a grant or contract funded 
 
 "(c)
 
-Application to Federal Grants and Contracts.—Subsections (a) and (b) shall take effect 360days after the date of enactment of this Act \[Aug. 9, 2007\].
+Application to Federal Grants and Contracts.—Subsections (a) and (b) shall take effect 360 days after the date of enactment of this Act \[Aug. 9, 2007\].
 
 "(d)
 

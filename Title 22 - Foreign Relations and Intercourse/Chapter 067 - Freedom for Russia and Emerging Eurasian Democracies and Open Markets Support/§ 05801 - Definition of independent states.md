@@ -4,13 +4,21 @@ For purposes of this Act, the terms "independent states of the former Soviet Uni
 
 (Pub. L. 102–511, §3, Oct. 24, 1992, 106 Stat. 3321.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title III, §321, Dec. 27, 2020, 134 Stat. 3101, provided that: "This subtitle \[subtitle C (§§321–330) of title III of div. FF of Pub. L. 116–260, amending provisions set out as a note under section 5811 of this title\] may be cited as the 'Belarus Democracy, Human Rights, and Sovereignty Act of 2020'."
+
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a noteunder section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
+Pub. L. 112–82, §1, Jan. 3, 2012, 125 Stat. 1863, provided that: "This Act \[amending provisions set out as a note under section 5811 of this title\] may be cited as the 'Belarus Democracy and Human Rights Act of 2011'."
 
 #### Short Title of 2007 Amendment
 

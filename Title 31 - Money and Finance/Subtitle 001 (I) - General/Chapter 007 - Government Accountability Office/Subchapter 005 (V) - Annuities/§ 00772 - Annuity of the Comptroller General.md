@@ -72,9 +72,11 @@ In subsections (c) and (d), the words "Comptroller General" are substituted for 
 
 In subsection (c), the words "Notwithstanding the preceding paragraph of this section" are omitted as surplus. The words "after January 1, 1966" are omitted as executed. The words "receive an annuity under this section" are substituted for "and no deduction from his salary shall be made under the preceding paragraph . . . be subject to the provisions of the preceding paragraph of this section" for clarity and because of the restatement.
 
-In subsection (d), before clause (1), the words "after October 25, 1978" are omitted as executed. The words "(except a Comptroller General remaining subject to subchapter III of chapter 83 of title 5)" are added for clarity. In clauses (1) and (2), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the United States Code. The words "a sum equal to" are omitted as surplus. In clause (1), before subclause (A), the words "makes such an election under this paragraph" are omitted as surplus. The word "redeposit" is substituted for "covering" for clarity. The words "the general fund of" and "authorized under the preceding paragraph" are omitted as surplus. In subclauses (A) and (B), the words "before deductions are made under clause (2)(A) of this subsection" and "before deductions are made under clause (2)(B) of this subsection" are substituted for "prior to the date current deductions begin from his salary" for clarity. The words "per annum" are omitted as surplus. In clause (2), the words "authorized by this paragraph" are omitted as surplus.
+In subsection (d), before clause (1), the words "after October 25, 1978" are omitted as executed. The words "(except a Comptroller General remaining subject to subchapter III of chapter 83 of title 5)" are added for clarity. In clauses (1) and (2), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the United States Code. The words "a sum equal to" are omitted as surplus. In clause (1), before subclause (A), the words "makes such an election under this paragraph" are omitted as surplus. The word "redeposit" is substituted for "covering" for clarity. The words "the general fund of" and"authorized under the preceding paragraph" are omitted as surplus. In subclauses (A) and (B), the words "before deductions are made under clause (2)(A) of this subsection" and "before deductions are made under clause (2)(B) of this subsection" are substituted for "prior to the date current deductions begin from his salary" for clarity. The words "per annum" are omitted as surplus. In clause (2), the words "authorized by this paragraph" are omitted as surplus.
 
 In subsection (e), the words "Comptroller General" are substituted for "person" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -83,6 +85,8 @@ In subsection (e), the words "Comptroller General" are substituted for "person" 
 <b>1988</b>—Subsec. (a). Pub. L. 100–426, §203(1), substituted "retires under section 703(e)(1) of this title" for "is retired for age under section 703(e)(1) of this title after serving at least 10 years".
 
 Subsec. (c). Pub. L. 100–426, §203(2), substituted "subchapter III of chapter 83 or chapter 84 of title 5 remains subject to such subchapter III or such chapter 84 (as the case may be)" for "subchapter III of chapter 83 of title 5 remains subject to subchapter III".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

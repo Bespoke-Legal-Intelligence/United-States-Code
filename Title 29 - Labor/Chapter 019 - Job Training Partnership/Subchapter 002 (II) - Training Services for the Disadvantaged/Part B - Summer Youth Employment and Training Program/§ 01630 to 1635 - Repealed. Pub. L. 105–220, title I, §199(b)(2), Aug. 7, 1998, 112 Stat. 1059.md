@@ -8,7 +8,7 @@ Section 1631, Pub. L. 97–300, title II, §252, as added Pub. L. 102–367, tit
 
 A prior section 1631, Pub. L. 97–300, title II, §252, formerly §251, Oct. 13, 1982, 96 Stat. 1364; renumbered §252 and amended Pub. L. 99–496, §§5(b), 8(a)(1), Oct. 16, 1986, 100 Stat. 1262, 1263, related to allotment of funding for summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
-Section 1632, Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar. 31, 1994, 108 Stat. 267; Pub. L. 104–193, title I, §110(n)(8), Aug. 22, 1996, 110 Stat. 2174, related to use of funds.
+Section 1632, Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1061; amended Pub. L. 103–227, title X, §1016(a)(1)–(2)(B), Mar.31, 1994, 108 Stat. 267; Pub. L. 104–193, title I, §110(n)(8), Aug. 22, 1996, 110 Stat. 2174, related to use of funds.
 
 A prior section 1632, Pub. L. 97–300, title II, §253, formerly §252, Oct. 13, 1982, 96 Stat. 1364; renumbered §253 and amended Pub. L. 99–496, §8(a)(1), (b), Oct. 16, 1986, 100 Stat. 1263, related to use of funds for summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
@@ -21,6 +21,8 @@ Section 1634, Pub. L. 97–300, title II, §255, as added Pub. L. 102–367, tit
 A prior section 1634, Pub. L. 97–300, title II, §255, formerly §254, Oct. 13, 1982, 96 Stat. 1364; renumbered §255 and amended Pub. L. 99–496, §8(a)(1), (c), Oct. 16, 1986, 100 Stat. 1263, related to private industry councils and service delivery areas, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
 Section 1635, Pub. L. 97–300, title II, §256, as added Pub. L. 102–367, title II, §205, Sept. 7, 1992, 106 Stat. 1063; amended Pub. L. 103–227, title X, §1016(b), Mar. 31, 1994, 108 Stat. 268, related to transfer of funds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

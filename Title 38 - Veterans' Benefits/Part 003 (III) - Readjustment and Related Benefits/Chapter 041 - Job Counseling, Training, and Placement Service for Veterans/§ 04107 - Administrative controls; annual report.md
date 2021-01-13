@@ -34,7 +34,9 @@
 
 &emsp;&emsp;(E) the percentage of participants in programs under this chapter who obtain a certificate, degree, diploma, licensure, or industry-recognized credential relating to the program in which they participated under this chapter during the third 90-day period following their completion of the program.
 
-(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2007; amended Pub. L. 93–508, title IV, §401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, §309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, §507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, §307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered §4107 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045; Pub. L. 112–56, title II, §238, Nov. 21, 2011, 125 Stat. 726.)
+(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2007; amended Pub. L. 93–508,title IV, §401(f), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §604, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 95–202, title III, §309(b), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 96–466, title V, §507, Oct. 17, 1980, 94 Stat. 2205; Pub. L. 97–306, title III, §307, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(d), 15(a)(2), May 20, 1988, 102 Stat. 558, 574; renumbered §4107 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§4(a)(3)(B), (e)(1), 5(a)(1)(D), (E), (d)(1), Nov. 7, 2002, 116 Stat. 2042, 2044, 2045; Pub. L. 112–56, title II, §238, Nov. 21, 2011, 125 Stat. 726.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Subsec. (c). Pub. L. 94–502, §604(2), (3), substituted "occupational training
 Subsec. (b). Pub. L. 93–508, §401(f)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c). Pub. L. 93–508, §401(f)(2), (3), redesignated former subsec. (b) as (c) and substituted "other eligible veterans, and eligible persons" for "and other eligible veterans".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

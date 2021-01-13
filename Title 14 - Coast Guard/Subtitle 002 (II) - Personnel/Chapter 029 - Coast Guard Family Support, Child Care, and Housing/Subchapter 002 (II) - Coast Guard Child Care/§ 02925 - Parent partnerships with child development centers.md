@@ -24,7 +24,9 @@ FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a b
 
 Parent Participation Initiative.—The Commandant is authorized to establish a parent participation initiative at each Coast Guard child development center to encourage and facilitate parent participation in educational and related activities at the center.
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3032, §555; renumbered §2925, Pub.L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3032, §555; renumbered §2925, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -145,6 +145,8 @@
 
 <i>Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, provided that, effective 5 years after Aug. 13, 2018, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XI, §1107(c), Aug. 13, 2018, 132 Stat. 2005, substituted "certification using numerical ratings" for "certification from registers." in item 3317, "selection using numerical ratings" for "selection from certificates." in item 3318, and "Competitive service; selection using category rating" for "Alternative ranking and selection procedures." in item 3319.
@@ -187,7 +189,7 @@ Pub. L. 101–12, §5(b), Apr. 10, 1989, 103 Stat. 33, added item 3352.
 
 <b>1979</b>—Pub. L. 96–54, §2(a)(13), Aug. 14, 1979, 93 Stat. 382, struck out item 3315a "Registers; individuals receiving compensation for work injuries".
 
-<b>1978</b>—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted "probationary period" for "probation; period of" in item 3321,struck out item 3319 "Competitive service; selection; members of family restriction", added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
+<b>1978</b>—Pub. L. 95–454, title III, §§303(b), 307(h)(2), 309(b), title IV, §403(b), title IX, §906(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1149, 1152, 1165, 1227, substituted "probationary period" for "probation; period of" in item 3321, struck out item 3319 "Competitive service; selection; members of family restriction", added items 3327 and 3391 to 3397, and struck out items 3391 to 3398.
 
 Pub. L. 95–437, §3(b), Oct. 10, 1978, 92 Stat. 1058, added heading for subchapter VII and items 3391 to 3398.
 

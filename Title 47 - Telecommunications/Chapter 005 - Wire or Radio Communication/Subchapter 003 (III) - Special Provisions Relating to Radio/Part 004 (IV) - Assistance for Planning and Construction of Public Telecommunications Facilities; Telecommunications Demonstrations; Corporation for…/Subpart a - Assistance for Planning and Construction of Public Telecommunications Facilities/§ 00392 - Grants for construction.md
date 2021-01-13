@@ -56,13 +56,15 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 (June 19, 1934, ch. 652, title III, §392, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 65; amended Pub. L. 90–129, title I, §§102, 103(b)–(e), 104, Nov. 7, 1967, 81 Stat. 365–367; Pub. L. 94–309, §4, June 5, 1976, 90 Stat. 683; Pub. L. 95–567, title I, §103(a), Nov. 2, 1978, 92 Stat. 2405; Pub. L. 97–35, title XII, §1223, Aug. 13, 1981, 95 Stat. 725.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–35, §1223(a), inserted provisions relating to noninterference of facilities with services required under this part, and substituted "primarily" for "only".
 
 Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating to good cause for release of applicant or owner from requirements.
 
-<b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 8½ percent limit on grants and criteria for awarding grants.
+<b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking outprovisions for an 8½ percent limit on grants and criteria for awarding grants.
 
 <b>1976</b>—Subsec. (a)(1)(C). Pub. L. 94–309, §4(a), substituted "a public or private nonprofit college or university or other educational or cultural institution which is affiliated with an eligible college or university" for "a college or university deriving its support in whole or in part from tax revenues".
 
@@ -84,11 +86,13 @@ Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for const
 
 Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. (1), restricted such provisions to noncommercial educational television broadcasting facilities, and added par. (2).
 
-Subsec. (d). Pub. L. 90–129, §103(d), inserted in cls. (2) and (3) "noncommercial" and "or noncommercial educational radio broadcasting facilities, as the case maybe," before and after "educational television broadcasting facilities", respectively.
+Subsec. (d). Pub. L. 90–129, §103(d), inserted in cls. (2) and (3) "noncommercial" and "or noncommercial educational radio broadcasting facilities, as the case may be," before and after "educational television broadcasting facilities", respectively.
 
 Subsec. (e). Pub. L. 90–129, §104, increased the maximum Federal share in the cost of constructing educational broadcasting facilities from 50 to 75 percent, eliminated the additional credit, formerly allowed the grantee, of 25 percent of the cost of facilities owned by the applicant on the date his application is filed, eliminated the prohibition against using not more than 15 percent of a grant for the acquisition and installation of interconnection facilities, microwave equipment, boosters, translators, and repeaters, and provided for payment of cost of the project from the sum available therefor.
 
 Subsec. (f). Pub. L. 90–129, §103(e), inserted "or radio" in introductory text and, in par. (2), "noncommercial" and "or noncommercial educational radio purposes, as the case may be" before and after "educational television purposes", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

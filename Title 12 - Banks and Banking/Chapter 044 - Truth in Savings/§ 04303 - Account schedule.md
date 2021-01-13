@@ -48,9 +48,13 @@ Schedules required under subsection (a) shall be written in clear and plain lang
 
 (Pub. L. 102–242, title II, §264, Dec. 19, 1991, 105 Stat. 2335; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsecs. (a), (d). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

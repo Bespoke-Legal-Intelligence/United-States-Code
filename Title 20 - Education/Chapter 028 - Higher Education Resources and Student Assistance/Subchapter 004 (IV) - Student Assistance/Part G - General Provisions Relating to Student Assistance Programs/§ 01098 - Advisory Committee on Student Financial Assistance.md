@@ -128,7 +128,7 @@ The Advisory Committee shall—
 
 &emsp;(2) assess the adequacy of current methods for disseminating information about programs under this subchapter and recommend improvements, as appropriate, regarding early needs assessment and information for first-year secondary school students;
 
-&emsp;(3) assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter, as well as policies that promote use of such technology to reduce cost and enhance service and programintegrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
+&emsp;(3) assess and make recommendations concerning the feasibility and degree of use of appropriate technology in the application for, and delivery and management of, financial assistance under this subchapter, as well as policies that promote use of such technology to reduce cost and enhance service and program integrity, including electronic application and reapplication, just-in-time delivery of funds, reporting of disbursements and reconciliation;
 
 &emsp;(4) conduct a review and analysis of regulations in accordance with subsection (l); and
 

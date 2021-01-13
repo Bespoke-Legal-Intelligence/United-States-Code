@@ -120,7 +120,7 @@ Sections 12 to 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 770–775, which relate
 
 <b>1994</b>—Subsec. (o). Pub. L. 103–437 substituted " 'Energy Committees' means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives" for " 'Joint Committee' means the Joint Committee on Atomic Energy".
 
-<b>1992</b>—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentenceread as follows: "Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235."
+<b>1992</b>—Subsec. (v). Pub. L. 102–486 amended last sentence generally. Prior to amendment, last sentence read as follows: "Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235."
 
 <b>1990</b>—Subsec. (v). Pub. L. 101–575 inserted at end "Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235."
 

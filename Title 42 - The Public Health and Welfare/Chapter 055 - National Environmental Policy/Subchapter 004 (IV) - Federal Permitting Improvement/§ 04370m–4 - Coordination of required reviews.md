@@ -24,7 +24,7 @@ To integrate environmental reviews and authorizations, each agency shall, to the
 
 #### (B) NEPA obligations
 
-&emsp;&emsp;An environmental document adopted under subparagraph (A) or a document thatincludes documentation incorporated under subparagraph (A) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
+&emsp;&emsp;An environmental document adopted under subparagraph (A) or a document that includes documentation incorporated under subparagraph (A) may serve as the documentation required for an environmental review or a supplemental environmental review required to be prepared by a lead agency under NEPA.
 
 #### (C) Supplementation of State documents
 

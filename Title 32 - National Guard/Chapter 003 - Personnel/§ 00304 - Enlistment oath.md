@@ -26,11 +26,15 @@ June 3, 1916, ch. 134, §70; restated June 4, 1920, ch. 227, subch. I, §38; res
 
 The words "or affirmation" are omitted as covered by the definition of the word "oath" in section 1 of title 1. The words "Each person" are substituted for the word "Men". The words "\_\_\_\_\_\_\_\_\_\_\_\_ National Guard" are substituted for the words "National Guard (Air National Guard)".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 <b>1962</b>—Pub. L. 87–751 substituted "support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them" for "bear true faith and allegiance to the United States of America and to the State of \_\_\_\_\_\_\_\_\_\_\_\_: That I will serve them honestly and faithfully against all their enemies whomsoever" and inserted "So help me God."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

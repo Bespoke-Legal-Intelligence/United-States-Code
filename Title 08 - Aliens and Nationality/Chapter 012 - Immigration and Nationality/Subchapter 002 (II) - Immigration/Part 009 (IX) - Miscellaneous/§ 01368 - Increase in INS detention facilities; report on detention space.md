@@ -34,13 +34,15 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (B) All inadmissible or deportable aliens
 
-&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number ofinadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
+&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number of inadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
 
 #### (C) Subsequent reports
 
 &emsp;&emsp;Each report under paragraph (1) following the first such report shall include the estimates under subparagraphs (A) and (B), made with respect to the 6-month period immediately preceding the date of the submission of the report.
 
 (Pub. L. 104–208, div. C, title III, §§308(g)(10)(G), 386, Sept. 30, 1996, 110 Stat. 3009–625, 3009–653.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -49,6 +51,8 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–208, §308(g)(10)(G), substituted "inadmissible" for "excludable" in pars. (1)(B), (C) and (2)(B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

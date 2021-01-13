@@ -38,7 +38,7 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;(11) communicating with tribal leaders, tribal community and victims' advocates, tribal justice officials, indigent defense representatives, and residents of Indian country on a regular basis regarding public safety and justice concerns facing tribal communities;
 
-&emsp;(12) conducting meaningful and timely consultation with tribal leaders and tribal justice officials in the development of regulatory policies and other actions that affect public safety and justice in Indian country;
+&emsp;(12) conducting meaningful and timely consultation with tribal leaders and tribal justiceofficials in the development of regulatory policies and other actions that affect public safety and justice in Indian country;
 
 &emsp;(13) providing technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center and other national crime information databases pursuant to section 534 of title 28;
 
@@ -138,9 +138,11 @@ Not later than 1 year after July 29, 2010, the Secretary, acting through the Bur
 
 &emsp;(2) an assessment and consideration of the construction of Federal detention facilities in Indian country; and
 
-&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General andin consultation with Indian tribes, determines to be necessary.
+&emsp;(3) any other alternatives as the Secretary, in coordination with the Attorney General and in consultation with Indian tribes, determines to be necessary.
 
 (Pub. L. 101–379, §3, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§211(b), 231(a), 262, July 29, 2010, 124 Stat. 2264, 2272, 2299.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -171,6 +173,64 @@ Subsec. (e)(3). Pub. L. 111–211, §231(a)(2), substituted "agencies" for "Agen
 Subsec. (e)(4). Pub. L. 111–211, §231(a)(3), added par. (4).
 
 Subsec. (f). Pub. L. 111–211, §211(b)(5), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Designation of Coordinator of Federal Efforts To Combat Violence Against Native People
+
+Pub. L. 116–166, §§2, 3, Oct. 10, 2020, 134 Stat. 766, provided that:
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act \[enacting this note, provisions set out as a note under section 2801 of this title, and provisions not classified to the Code\]—
+
+&emsp;"(1) the term 'Commission' means the Department of the Interior and the Department of Justice Joint Commission on Reducing Violent Crime Against Indians under section 4 \[134 Stat. 767\];
+
+&emsp;"(2) the term 'human trafficking' means act or practice described in paragraph (9) or paragraph (10) \[probably should be "paragraph (11) or paragraph (12)"\] of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102);
+
+&emsp;"(3) the term 'Indian' means a member of an Indian tribe;
+
+&emsp;"(4) the terms 'Indian lands' and 'Indian tribe' have the meanings given the terms in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 (25 U.S.C. 4302); and
+
+&emsp;"(5) the terms 'urban centers' and 'urban Indian organization' have the meanings given the terms in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
+
+#### "SEC. 3. COORDINATOR OF FEDERAL EFFORTS TO COMBAT VIOLENCE AGAINST NATIVE PEOPLE.
+
+"(a)
+
+Coordinator Designation.—The Secretary of the Interior shall designate an official within the Office of Justice Services in the Bureau of Indian Affairs who shall—
+
+&emsp;"(1) coordinate prevention efforts, grants, and programs related to the murder of, trafficking of, and missing Indians across Federal agencies, including—
+
+&emsp;&emsp;"(A) the Bureau of Indian Affairs; and
+
+&emsp;&emsp;"(B) the Department of Justice, including—
+
+&emsp;&emsp;&emsp;"(i) the Office of Justice Programs;
+
+&emsp;&emsp;&emsp;"(ii) the Office on Violence Against Women;
+
+&emsp;&emsp;&emsp;"(iii) the Office of Community Oriented Policing Services;
+
+&emsp;&emsp;&emsp;"(iv) the Federal Bureau of Investigation; and
+
+&emsp;&emsp;&emsp;"(v) the Office of Tribal Justice;
+
+&emsp;"(2) ensure prevention efforts, grants, and programs of Federal agencies related to the murder of, trafficking of, and missing Indians consider the unique challenges of combating crime, violence, and human trafficking of Indians and on Indian lands faced by Tribal communities, urban centers, the Bureau of Indian Affairs, Tribal law enforcement, Federal law enforcement, and State and local law enforcement;
+
+&emsp;"(3) work in cooperation with outside organizations with expertise in working with Indian tribes and Indian Tribes to provide victim centered and culturally relevant training to tribal law enforcement, Indian Health Service health care providers, urban Indian organizations, Tribal community members and businesses, on how to effectively identify, respond to and report instances of missing persons, murder, and trafficking within Indian lands and of Indians; and
+
+&emsp;"(4) report directly to the Secretary of the Interior.
+
+"(b)
+
+Report.—The official designated in subsection (a) shall submit to the Committee on Indian Affairs and the Committee on the Judiciary of the Senate and the Committee on Natural Resources and the Committee on the Judiciary of the House of Representatives a report to provide information on Federal coordination efforts accomplished over the previous year that includes—
+
+&emsp;"(1) a summary of all coordination activities undertaken in compliance with this section;
+
+&emsp;"(2) a summary of all trainings completed under subsection (a)(3); and
+
+&emsp;"(3) recommendations for improving coordination across Federal agencies and of relevant Federal programs."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subchapter B of chapter I of title 25,".</i>
 

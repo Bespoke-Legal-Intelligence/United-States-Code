@@ -32,6 +32,8 @@ An agreement described in subsection (a) shall—
 
 (Pub. L. 103–322, title XX, §200209, Sept. 13, 1994, 108 Stat. 2060.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14118 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

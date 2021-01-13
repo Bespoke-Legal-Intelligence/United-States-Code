@@ -26,6 +26,8 @@ Forfeiture provision was omitted to conform with current administrative practice
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177 substituted "10 years" for "two years" in last par.

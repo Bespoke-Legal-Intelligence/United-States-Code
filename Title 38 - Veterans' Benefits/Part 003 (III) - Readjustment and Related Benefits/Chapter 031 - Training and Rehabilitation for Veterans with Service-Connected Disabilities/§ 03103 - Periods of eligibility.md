@@ -1,18 +1,18 @@
 ### §3103. Periods of eligibility
 
-(a) Except as provided in subsection (b), (c), (d), or (e) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, or air service.
+(a) Except as provided in subsection (b), (c), (d), (e), or (g) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran's discharge or release from active military, naval, air, or space service.
 
 (b)(1) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because a medical condition of such veteran made it infeasible for such veteran to participate in such a program, the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program, and such period of eligibility shall again begin to run on the first day following such veteran's recovery from such condition on which it is reasonably feasible, as determined under regulations which the Secretary shall prescribe, for such veteran to participate in such a program.
 
 (2) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because—
 
-&emsp;(A) such veteran had not met the requirement of a discharge or release from active military, naval, or air service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
+&emsp;(A) such veteran had not met the requirement of a discharge or release from active military, naval, air, or space service under conditions other than dishonorable before (i) the nature of such discharge or release was changed by appropriate authority, or (ii) the Secretary determined, under regulations prescribed by the Secretary, that such discharge or release was under conditions other than dishonorable, or
 
 &emsp;(B) such veteran's discharge or dismissal was, under section 5303 of this title, a bar to benefits under this title before the Secretary made a determination that such discharge or dismissal is not a bar to such benefits,
 
 > the twelve-year period of eligibility shall not run during the period of time that such veteran was so prevented from participating in such a program.
 
-(3) In any case in which the Secretary determines that a veteran has been prevented fromparticipating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because such veteran had not established the existence of a service-connected disability rated at 10 percent or more, the twelve-year period of eligibility shall not run during the period such veteran was so prevented from participating in such a program.
+(3) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility prescribed in subsection (a) of this section because such veteran had not established the existence of a service-connected disability rated at 10 percent or more, the twelve-year period of eligibility shall not run during the period such veteran was so prevented from participating in such a program.
 
 (c) In any case in which the Secretary determines that a veteran is in need of services to overcome a serious employment handicap, such veteran may be afforded a vocational rehabilitation program after the expiration of the period of eligibility otherwise applicable to such veteran if the Secretary also determines, on the basis of such veteran's current employment handicap and need for such services, that an extension of the applicable period of eligibility is necessary for such veteran and—
 
@@ -30,13 +30,25 @@
 
 (f) In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1503; amended Pub. L. 99–576, title III, §333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3103 and amended, Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(c), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(2), Dec. 27, 2001, 115 Stat. 979; Pub. L. 107–330, title III, §308(h), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 112–56, title II, §233(b), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–48, title IV, §402, Aug. 16, 2017, 131 Stat. 996.)
+(g) Subsection (a) shall not apply to a veteran who was discharged or released from active military, naval, or air service on or after January 1, 2013.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1503; amended Pub. L. 99–576, title III, §333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3103 and amended, Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(c), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(2), Dec. 27, 2001, 115 Stat. 979; Pub. L. 107–330, title III, §308(h), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 112–56, title II, §233(b), Nov. 21, 2011, 125 Stat. 720; Pub. L. 115–48, title IV, §402, Aug. 16, 2017, 131 Stat. 996; Pub. L. 116–283, div. A, title IX, §926(a)(42), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title I, §1025(a), Jan. 5, 2021, 134 Stat. 4960.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior section 3103 was renumbered section 5303 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–315, §1025(a)(1), substituted "(e), or (g)" for "or (e)".
+
+Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (b)(2)(A). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (g). Pub. L. 116–315, §1025(a)(2), added subsec. (g).
 
 <b>2017</b>—Subsec. (f). Pub. L. 115–48 substituted "12304, 12304a, or 12304b" for "or 12304".
 
@@ -68,6 +80,8 @@ Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted "3102(1)(A)" for "1502(
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–576 inserted "currently" after "goal".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–56 effective June 1, 2012, and applicable with respect to rehabilitation programs beginning after such date, see section 233(c) of Pub. L. 112–56, set out as a note under section 3102 of this title.
@@ -83,4 +97,14 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+
+#### Extension of Time Limitations for Use of Entitlement: Vocational Rehabilitation and Training
+
+Pub. L. 116–315, title I, §1105(b), Jan. 5, 2021, 134 Stat. 4964, provided that: "The subsection (g) temporarily added to section 3103 of title 38, United States Code, by subsection (c) of such section 6 \[formerly set out as a note below\] is amended—
+
+"(1) in paragraph (1), by striking 'the period the individual is so prevented from participating such program' and inserting 'the period beginning on March 1, 2020, and ending on December 21, 2021'; and
+
+"(2) in paragraph (2), by striking 'the first day after the individual is able to resume participation in such program' and inserting 'December 22, 2021'."
+
+Pub. L. 116–140, §6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that during Mar. 1, 2020, to Dec. 21, 2021, the Secretary of Veterans Affairs would apply subsec. (a) by striking "or (e)" and inserting "(e), or (g)" and adding subsec. (g), relating to the twelve-year period of eligibility prescribed in subsec. (a), was repealed by Pub. L. 116–315, title I, §1025(b), Jan. 5, 2021, 134 Stat. 4960.
 

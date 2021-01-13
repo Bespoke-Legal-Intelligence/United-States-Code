@@ -1,8 +1,10 @@
 ### §1325. Annual report
 
-Not later than December 31 of each year, the Chairperson of the Council shall submit to the appropriate congressional committees and leadership a report on the activities of the Council during the preceding 12-month period.
+Not later than December 31 of each year, the Chairperson of the Council shall submit to theappropriate congressional committees and leadership a report on the activities of the Council during the preceding 12-month period.
 
 (Added Pub. L. 115–390, title II, §202(a), Dec. 21, 2018, 132 Stat. 5184.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

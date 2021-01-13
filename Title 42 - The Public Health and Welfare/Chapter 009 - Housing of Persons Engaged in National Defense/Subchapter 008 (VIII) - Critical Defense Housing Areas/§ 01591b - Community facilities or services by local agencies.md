@@ -12,7 +12,7 @@ In order to assure that community facilities or services required in connection 
 
 #### (c) Maintenance and operation of facilities
 
-&emsp;no community facilities or services shall be provided, and no community facilities shall be maintained and operated, by the United States directly except where the appropriate local agency is demonstrably unable to provide such facilities and services, or to maintain or operate such community facilities and services adequately with its own personnel, with loans, grants, or payments authorized to be made pursuant to subchapter IX of this chapter.
+&emsp;no community facilities or services shall be provided, and no community facilities shall be maintained and operated, by the United States directly except where the appropriate local agency is demonstrably unable to provide such facilities and services, or to maintain or operate such community facilities and servicesadequately with its own personnel, with loans, grants, or payments authorized to be made pursuant to subchapter IX of this chapter.
 
 For the purposes of this section, the term "chief executive officer of the appropriate political subdivision" shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
 

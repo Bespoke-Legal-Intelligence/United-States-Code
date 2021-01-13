@@ -2,7 +2,7 @@
 
 #### (a) Issuance and form
 
-Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the United States Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the United States Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the United States Patent andTrademark Office, and any conditions and limitations that may be imposed in the registration.
+Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the United States Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the United States Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the United States Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
 
 #### (b) Certificate as prima facie evidence
 
@@ -66,7 +66,7 @@ Subsec. (g). Pub. L. 111–146, §3(a)(4), amended subsec. (g) generally. Prior 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–330 struck out second period at end of first sentence.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and of registrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein."
+<b>1988</b>—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and ofregistrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein."
 
 Subsec. (c). Pub. L. 100–667, §109(3), added subsec. (c). Former subsec. (c) redesignated (d).
 

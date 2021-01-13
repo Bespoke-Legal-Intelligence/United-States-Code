@@ -4,6 +4,8 @@ The short title of the Act of December 23, 1913, ch. 6, 38 Stat. 251, shall be t
 
 (Dec. 23, 1913, ch. 6, §1 (par.), 38 Stat. 251.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of December 23, 1913, ch. 6, referred to in text, is classified to this section, sections 1, 35, 59, 90, 92, 141, 142, 221, 222 to 225b, 241 to 246, 247 to 247b, 248, 248–1, 248a, 248b, 261 to 263, 281 to 290, 301 to 308, 321 to 336, 338 to 339a, 341 to 352, 353 to 361, 371 to 371b, 371b–2 to 376, 391, 392, 393, 411 to 416, 418 to 421, 441 to 448, 461, 462, 462b to 467, 481 to 486, 501a to 506, 521, 522, 531, 601 to 604a, and 611 to 633 of this title and as a provision set out as a note under this section. Subsecs. (a)–(c) and (h)–(k) of section 22 of the Act, which were classified to former sections 593 to 599 of this title, were repealed and restated in sections 217 to 220, 433, 655, 656, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §§1, 21, 62 Stat. 683, 862, the first section of which enacted Title 18. Sections 217 to 220 of Title 18 were subsequently renumbered sections 212 to 215 of Title 18, respectively, by Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed by Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ The Act of December 23, 1913, ch. 6, referred to in text, is classified to this 
 #### Codification
 
 This section is comprised of the first par. of section 1 of act Dec. 23, 1913. The second to fourth pars. of section 1 are classified to section 221 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1996 Amendment
 
@@ -38,7 +42,7 @@ Pub. L. 97–320, title IV, §410(a), Oct. 15, 1982, 96 Stat. 1515, provided tha
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–221, §1, Mar. 31, 1980, 94 Stat. 132, provided that: "This Act \[enacting sections 4a, 86a, 93a, 248a, 1730g, 1735f–7a, 1831d, and 3501 to 3524 of this title, and section 1646 of Title 15, Commerce and Trade, amending sections 24, 27, 29, 51b, 51b–1, 72, 85, 92, 95, 214a, 248, 342, 347b, 355, 360, 371a, 412, 461, 463, 481, 1425a, 1425b, 1431, 1464, 1724, 1726, 1728, 1752, 1757, 1763, 1785, 1787, 1795, to 1795i, 1813, 1817, 1821, 1828, 1832, 1842, and 1843 of thistitle, and sections 57a, 687, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of Title 15, repealing sections 86a, 371b–1, 1730e, and 1831a of this title, and sections 1614, 1636, and 1639 of Title 15, enacting provisions set out as notes under this section, sections 27, 85, 86a, 191, 248, 355, 371a, 1425a, 1724, 1730g, 1735f–7, 1735f–7a, 1787, 1813, 1817, 3101, 3501, and 3521 of this title, and sections 1601, 1602, and 1607 of Title 15, and repealing provisions set out as notes under sections 85, 86a, 371b–1, and 1831a of this title\] may be cited as the 'Depository Institutions Deregulation and Monetary Control Act of 1980'."
+Pub. L. 96–221, §1, Mar. 31, 1980, 94 Stat. 132, provided that: "This Act \[enacting sections 4a, 86a, 93a, 248a, 1730g, 1735f–7a, 1831d, and 3501 to 3524 of this title, and section 1646 of Title 15, Commerce and Trade, amending sections 24, 27, 29, 51b, 51b–1, 72, 85, 92, 95, 214a, 248, 342, 347b, 355, 360, 371a, 412, 461, 463, 481, 1425a, 1425b, 1431, 1464, 1724, 1726, 1728, 1752, 1757, 1763, 1785, 1787, 1795, to 1795i, 1813, 1817, 1821, 1828, 1832, 1842, and 1843 of this title, and sections 57a, 687, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of Title 15, repealing sections 86a, 371b–1, 1730e, and 1831a of this title, and sections 1614, 1636, and 1639 of Title 15, enacting provisions set out as notes under this section, sections 27, 85, 86a, 191, 248, 355, 371a, 1425a, 1724, 1730g, 1735f–7, 1735f–7a, 1787, 1813, 1817, 3101, 3501, and 3521 of this title, and sections 1601, 1602, and 1607 of Title 15, and repealing provisions set out as notes under sections 85, 86a, 371b–1, and 1831a of this title\] may be cited as the 'Depository Institutions Deregulation and Monetary Control Act of 1980'."
 
 Pub. L. 96–221, title I, §101, Mar. 31, 1980, 94 Stat. 132, provided that: "This title \[enacting section 248a of this title, amending sections 248, 342, 347b, 355, 360, 412, 461, 463, and 1425a of this title and enacting provisions set out as notes under sections 248 and 355 of this title\] may be cited as the 'Monetary Control Act of 1980'."
 

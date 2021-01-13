@@ -90,7 +90,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;&emsp;&emsp;(ii) any commodity pool operator registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the commodity pool operator that require the commodity pool operator to be registered under that Act, or a commodity pool, as defined in that Act;
 
-&emsp;&emsp;&emsp;(iii) any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading adviser or introducing broker to be registered under that Act;
+&emsp;&emsp;&emsp;(iii) any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7U.S.C. 1 et seq.), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading adviser or introducing broker to be registered under that Act;
 
 &emsp;&emsp;&emsp;(iv) any derivatives clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the derivatives clearing organization that require the derivatives clearing organization to be registered under that Act;
 
@@ -152,11 +152,13 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 (Pub. L. 111–203, §2, July 21, 2010, 124 Stat. 1386.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) oftitle III of Pub. L. 111–203 amended section 1813(q) of this title.
+Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended section 1813(q) of this title.
 
 Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
 
@@ -173,6 +175,8 @@ The Sarbanes-Oxley Act of 2002, referred to in par. (12)(B)(xi), is Pub. L. 107�
 The Securities Investor Protection Act of 1970, referred to in par. (12)(B)(xii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -202,6 +206,8 @@ Pub. L. 111–203, title X, §1001, July 21, 2010, 124 Stat. 1955, provided that
 
 Pub. L. 111–203, title XII, §1201, July 21, 2010, 124 Stat. 2129, provided that: "This title \[enacting subchapter VII of this chapter and section 4719 of this title\] may be cited as the 'Improving Access to Mainstream Financial Institutions Act of 2010'."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13772. Core Principles for Regulating the United States Financial System
 
 Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, provided:
@@ -224,7 +230,7 @@ Section 1. <i>Policy</i>. It shall be the policy of my Administration to regulat
 
 (g) restore public accountability within Federal financial regulatory agencies and rationalize the Federal financial regulatory framework.
 
-Sec. 2. <i>Directive to the Secretary of the Treasury</i>. The Secretary of the Treasury shall consult with the heads of the member agencies of the Financial Stability Oversight Council and shall report to the President within 120 days of the date of this order (and periodically thereafter) on the extent to which existing laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies promote the Core Principles and what actions have been taken, and are currently being taken, to promote and support the Core Principles. That report, and all subsequent reports, shall identify any laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies that inhibit Federal regulation of the United States financial system in a manner consistent with the Core Principles.
+Sec. 2. <i>Directive to the Secretary of the Treasury</i>. The Secretary of the Treasury shall consult with the heads of the member agencies of the Financial Stability Oversight Council and shall report to the President within 120 days of the date of this order (and periodically thereafter) on the extent to which existing laws,treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies promote the Core Principles and what actions have been taken, and are currently being taken, to promote and support the Core Principles. That report, and all subsequent reports, shall identify any laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies that inhibit Federal regulation of the United States financial system in a manner consistent with the Core Principles.
 
 Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

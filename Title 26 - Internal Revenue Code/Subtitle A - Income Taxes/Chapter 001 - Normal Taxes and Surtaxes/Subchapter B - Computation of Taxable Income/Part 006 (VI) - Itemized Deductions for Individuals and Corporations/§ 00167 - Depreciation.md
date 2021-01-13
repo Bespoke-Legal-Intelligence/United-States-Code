@@ -98,7 +98,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (C) Tax-exempt use property subject to lease
 
-&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not beless than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 
 #### (2) Certain interests or rights acquired separately
 
@@ -208,7 +208,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (B) Participations and residuals
 
-&emsp;&emsp;For purposes of this paragraph, the term "participations and residuals" means, with respect to any property, costs the amount of which by contract varies with the amount of income earned in connection with such property.
+&emsp;&emsp;For purposes of this paragraph, the term "participations and residuals" means, with respect to any property, costs the amount of which by contract varies with the amount ofincome earned in connection with such property.
 
 #### (C) Special rules relating to recomputation years
 
@@ -250,7 +250,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "applicable musical property" means any musical composition (includingany accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
+&emsp;&emsp;&emsp;The term "applicable musical property" means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
 
 #### (ii) Exceptions
 
@@ -316,7 +316,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat.1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–222, title II, §207(a), title V, §503(a), May 17, 2006, 120 Stat. 350, 354; Pub. L. 110–140, title XV, §1502(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–172, §11(a)(13), Dec. 29, 2007, 121 Stat. 2485.)
 
 #### References in Text
 
@@ -368,7 +368,7 @@ Subsec. (g). Pub. L. 103–66, §13261(b)(1), (f)(1), redesignated subsec. (f) a
 
 > Nothing in this subsection shall be construed to limit or reduce an allowance otherwise allowable under subsection (a)."
 
-Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) and struck out former subsec. (c) "Limitations on use of certain methods and rates" which read as follows: "Paragraphs (2), (3), and (4) of subsection (b) shall apply only in the case of property (other than intangible property) described in subsection (a) with a useful life of 3 years or more—
+Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) and struck out former subsec. (c)"Limitations on use of certain methods and rates" which read as follows: "Paragraphs (2), (3), and (4) of subsection (b) shall apply only in the case of property (other than intangible property) described in subsection (a) with a useful life of 3 years or more—
 
 &emsp;"(1) the construction, reconstruction, or erection of which is completed after December 31, 1953, and then only to that portion of the basis which is properly attributable to such construction, reconstruction, or erection after December 31, 1953, or
 
@@ -492,7 +492,7 @@ Subsec. (k)(1). Pub. L. 94–455, §§203(a)(1), 1906(b)(13)(A), substituted ref
 
 Subsec. (k)(2)(A). Pub. L. 94–455, §203(a)(2), substituted "$20,000" for "$15,000".
 
-Subsec. (k)(3)(B). Pub. L. 94–455, §§203(a)(3), 1906(b)(13)(A), substituted "the Leased Housing Program under section 8 of the United States Housing Actof 1937" for "the policies of the Housing and Urban Development Act of 1968" and struck out "or his delegate" after "Secretary".
+Subsec. (k)(3)(B). Pub. L. 94–455, §§203(a)(3), 1906(b)(13)(A), substituted "the Leased Housing Program under section 8 of the United States Housing Act of 1937" for "the policies of the Housing and Urban Development Act of 1968" and struck out "or his delegate" after "Secretary".
 
 Subsec. (k)(3)(D). Pub. L. 94–455, §203(a)(4), added subpar. (D).
 
@@ -552,7 +552,7 @@ Pub. L. 109–58, title XIII, §1329(c), Aug. 8, 2005, 119 Stat. 1020, provided 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title II, §242(c), Oct. 22, 2004, 118 Stat. 1439, provided that: "The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title II, §242(c), Oct. 22, 2004, 118 Stat. 1439, provided that: "The amendments made by thissection \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Amendment by section 847(b)(1) of Pub. L. 108–357 applicable to leases entered into after Mar. 12, 2004, and amendment by section 847(b)(2) of Pub. L. 108–357 applicable to leases entered into after Oct. 3, 2004, except that such amendments inapplicable to qualified transportation property, see section 849 of Pub. L. 108–357, set out as an Effective Date note under section 470 of this title.
 
@@ -634,7 +634,7 @@ Pub. L. 96–613, §2(b), Dec. 28, 1980, 94 Stat. 3579, provided that: "The amen
 
 Amendment by section 312(c)(4) of Pub. L. 95–600 applicable to taxable years ending after Dec. 31, 1978, see section 312(d) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 46 of this title.
 
-Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this subsection \[amending this section and sections 57, 191, 280B, 1245, and 1250 of this title\] shall take effect as if included in the respective provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to which such amendments relate, as such provision\[s\] were added to such Code, or amended, by section 2124 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XXI, §2124, Oct. 4, 1976, 90 Stat. 1916\]."
+Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this subsection \[amending this section and sections 57, 191, 280B, 1245, and 1250 of this title\] shall take effect as if included in the respective provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to which such amendments relate, as such provision\[s\] were added to such Code, or amended, by section 2124 ofthe Tax Reform Act of 1976 \[Pub. L. 94–455, title XXI, §2124, Oct. 4, 1976, 90 Stat. 1916\]."
 
 Amendment by Pub. L. 95–615 to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.
 
@@ -706,7 +706,7 @@ Transitional rule.—The adjusted basis of RRB property (as defined in section 1
 
 #### Internal Revenue Code Provisions Relating to Depreciation as Not Applicable to Calculations of Secretary of Health and Human Services in Determining Costs of Programs
 
-Pub. L. 97–34, title II, §203(e), Aug. 13, 1981, 95 Stat. 222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The Secretary of Health and Human Services is not required to apply any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended, in calculating depreciation (for the purpose of determining any cost under a program administered by the Secretary), unless a provision of law requires so expressly."
+Pub. L. 97–34, title II, §203(e), Aug. 13, 1981, 95 Stat. 222, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The Secretary of Health and Human Services is not required to apply any provisionof the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended, in calculating depreciation (for the purpose of determining any cost under a program administered by the Secretary), unless a provision of law requires so expressly."
 
 #### Class Life System; Application to Real Property; General Rule
 

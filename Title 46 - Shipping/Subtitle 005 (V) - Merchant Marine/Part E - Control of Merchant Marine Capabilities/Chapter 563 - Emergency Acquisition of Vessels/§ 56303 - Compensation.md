@@ -54,6 +54,8 @@ June 29, 1936, ch. 858, title IX, §902(a) (3d, last sentences), (b), (d) (1st p
 
 46 App.:1242(c) (last sentence).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 802 of the Merchant Marine Act, 1936, referred to in subsec. (c)(1), is section 802 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.

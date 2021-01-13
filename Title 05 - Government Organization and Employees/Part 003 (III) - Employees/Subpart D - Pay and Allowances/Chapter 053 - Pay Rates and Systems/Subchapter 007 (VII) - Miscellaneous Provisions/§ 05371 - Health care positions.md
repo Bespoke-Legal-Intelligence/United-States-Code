@@ -38,6 +38,8 @@ For repeal of the Act of Aug. 1, 1947, ch. 433, 61 Stat. 715, as amended, see re
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–378 substituted "chapter 74" for "chapter 73" in introductory provisions and inserted "subchapter V of chapter 55," after "61," in pars. (1) and (2).
@@ -45,6 +47,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting designated provisions directing that Office of Personnel Management may provide that chapter 73 of title 38 provisions apply to certain health care professionals for undesignated text authorizing agency heads to fix pay rates for scientific and professional positions at between GS–16 and GS–18 rates.
 
 <b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

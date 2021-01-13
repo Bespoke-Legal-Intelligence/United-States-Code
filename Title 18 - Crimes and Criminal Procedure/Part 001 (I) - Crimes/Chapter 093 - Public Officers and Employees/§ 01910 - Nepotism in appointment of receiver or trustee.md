@@ -12,6 +12,8 @@ Based on section 531 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in last par.

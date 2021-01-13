@@ -122,11 +122,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the original use of such property in the qualified opportunity zone commences with the qualified opportunity fund or the qualified opportunity fund substantially improves the property, and
 
-&emsp;&emsp;&emsp;&emsp;(III) during substantially all of the qualified opportunity fund's holding period for such property, substantially allof the use of such property was in a qualified opportunity zone.
+&emsp;&emsp;&emsp;&emsp;(III) during substantially all of the qualified opportunity fund's holding period for such property, substantially all of the use of such property was in a qualified opportunity zone.
 
 #### (ii) Substantial improvement
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-month period in the hands of the qualified opportunity fund.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-monthperiod in the hands of the qualified opportunity fund.
 
 #### (iii) Related party
 

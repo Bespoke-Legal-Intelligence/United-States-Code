@@ -154,7 +154,7 @@ Amounts provided as a grant under this chapter—
 
 &emsp;Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, §701, Oct. 17, 2006, 120Stat. 2081; Pub. L. 116–9, title VII, §7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785.)
+(Pub. L. 106–411, §4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, §701, Oct. 17, 2006, 120 Stat. 2081; Pub. L. 116–9, title VII, §7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785.)
 
 #### References in Text
 

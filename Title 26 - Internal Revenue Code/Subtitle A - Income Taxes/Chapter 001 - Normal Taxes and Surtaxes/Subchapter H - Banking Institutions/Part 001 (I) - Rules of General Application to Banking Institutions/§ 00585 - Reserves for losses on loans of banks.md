@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the balance of the reserve at the close of the base year, or
 
-&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at theclose of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
+&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
 > &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 

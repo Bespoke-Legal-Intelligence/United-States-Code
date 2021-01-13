@@ -7,6 +7,7 @@
 | [1203\.](%C2%A7%2001203%20-%20Research%20and%20development.md) | Research and development. |
 | [1204\.](%C2%A7%2001204%20-%20Grant%20program%20for%20remote%20community%20alert%20systems.md) | Grant program for remote community alert systems. |
 | [1205\.](%C2%A7%2001205%20-%20Funding.md) | Funding. |
+| [1206\.](%C2%A7%2001206%20-%20Reliable%20emergency%20alert%20distribution%20improvement.md) | Reliable emergency alert distribution improvement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,3 +21,4 @@
 - [&sect; 01203 - Research and development](%C2%A7%2001203%20-%20Research%20and%20development.md)
 - [&sect; 01204 - Grant program for remote community alert systems](%C2%A7%2001204%20-%20Grant%20program%20for%20remote%20community%20alert%20systems.md)
 - [&sect; 01205 - Funding](%C2%A7%2001205%20-%20Funding.md)
+- [&sect; 01206 - Reliable emergency alert distribution improvement](%C2%A7%2001206%20-%20Reliable%20emergency%20alert%20distribution%20improvement.md)

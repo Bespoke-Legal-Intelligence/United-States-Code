@@ -10,7 +10,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 #### (1) Prior to petition to Tax Court
 
-&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), thebond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
+&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
 
 #### (2) Effect of Tax Court decision
 
@@ -58,7 +58,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 &emsp;With respect to any property described in paragraph (1), the exceptions provided by subsection (b)(3)(B) shall apply.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 94–455, title XII, §1204(c)(7)–(9), title XIX, §1906(a)(38), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1830, 1834; Pub. L. 100–203, title X, §10713(b)(2)(E), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6245(a), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, §7822(d)(2), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 115–141, div. U, title IV, §401(a)(321), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 94–455, title XII, §1204(c)(7)–(9), title XIX, §1906(a)(38), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698,1830, 1834; Pub. L. 100–203, title X, §10713(b)(2)(E), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6245(a), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, §7822(d)(2), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 115–141, div. U, title IV, §401(a)(321), Mar. 23, 2018, 132 Stat. 1199.)
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (b)(3)(A). Pub. L. 94–455, §1204(c)(8), substituted "an assessment ha
 
 Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made onor after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
+Subsec. (b)(3)(C). Pub. L. 94–455, §1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
 
 Subsec. (c). Pub. L. 94–455, §1204(c)(9), added subsec. (c).
 

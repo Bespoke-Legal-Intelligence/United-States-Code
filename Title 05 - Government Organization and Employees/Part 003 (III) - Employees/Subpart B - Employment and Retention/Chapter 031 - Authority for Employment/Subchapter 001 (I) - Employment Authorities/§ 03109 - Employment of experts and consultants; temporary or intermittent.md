@@ -54,6 +54,8 @@ In subsection (b), the words "the provisions of this title governing appointment
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(3). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
@@ -66,9 +68,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–454 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
 #### Limitation on Consulting Services
 
@@ -128,13 +132,15 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §503\], Dec. 21, 1982, 96 Sta
 
 Pub. L. 102–377, title V, §504, Oct. 2, 1992, 106 Stat. 1342, provided that: "The expenditure of any appropriation under this Act or subsequent Energy and Water Development Appropriations Acts for any consulting service through procurement contract, pursuant to section 3109 of title 5, United States Code, hereafter shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive Order issued pursuant to existing law."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13433. Protecting American Taxpayers From Payment of Contingency Fees
 
 Ex. Ord. No. 13433, May 16, 2007, 72 F.R. 28441, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations or individuals that provide such services to or on behalf of the United States shall be compensated in amounts that are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
+Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations orindividuals that provide such services to or on behalf of the United States shall be compensated in amounts that are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
 
 Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement within their respective agencies the policy set forth in section 1, consistent with such instructions as the Attorney General may prescribe.
 

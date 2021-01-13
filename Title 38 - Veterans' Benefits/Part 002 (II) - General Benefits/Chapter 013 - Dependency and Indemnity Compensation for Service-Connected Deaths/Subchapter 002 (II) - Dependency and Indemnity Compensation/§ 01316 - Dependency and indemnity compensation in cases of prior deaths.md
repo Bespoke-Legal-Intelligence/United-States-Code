@@ -2,7 +2,7 @@
 
 (a)(1) Any person who is eligible as a surviving spouse or child for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor.
 
-(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1,1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
+(2) Any person who is eligible as a parent, or, but for such person's annual income, would be eligible as a parent, for death compensation by reason of a death occurring before January 1, 1957, may receive dependency and indemnity compensation upon application therefor; however, the annual income limitations established by section 1315 of this title shall apply to each such parent.
 
 (b)(1) Whenever the surviving spouse of a veteran has been granted dependency and indemnity compensation by reason of this section, payments to such surviving spouse and to the children of the veteran shall thereafter be made under this chapter, and shall not thereafter be made to them by reason of the death of the veteran under (A) other provisions of law administered by the Secretary providing for the payment of compensation or pension, or (B) subchapter I of chapter 81 of title 5.
 
@@ -21,6 +21,8 @@
 (4) Notwithstanding paragraph (2), where a child receives dependency and indemnity compensation under this chapter, and thereafter dies, the portion of servicemen's indemnity in which such child had an interest may be paid (subject to paragraph (3)) to another child of the person by reason of whose death such servicemen's indemnity was payable.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1130, §416; Pub. L. 94–433, title IV, §405(11)–(16), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 97–295, §4(11), Oct. 12, 1982, 96 Stat. 1305; renumbered §1316 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 94–433, §405(13), substituted "paid to such child" for "
 Subsec. (d). Pub. L. 94–433, §405(14), substituted "such parent" for "him" in cls. (1) and (2).
 
 Subsec. (e). Pub. L. 94–433, §405(15), (16), substituted "such person" and "such beneficiary's" for "he" and "his", respectively, in par. (1) and "such child's" and "the Administrator" for "his" and "he", respectively, in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

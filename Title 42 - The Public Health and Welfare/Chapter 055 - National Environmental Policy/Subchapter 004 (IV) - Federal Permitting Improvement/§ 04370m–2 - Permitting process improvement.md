@@ -108,7 +108,7 @@
 
 #### (B) Explanation
 
-&emsp;&emsp;If the facilitating agency or lead agency, as applicable, determines that the project isnot a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
+&emsp;&emsp;If the facilitating agency or lead agency, as applicable, determines that the project is not a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
 
 #### (C) Final determination
 
@@ -164,7 +164,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
+&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make aspecific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
 
 #### (B) Required information
 
@@ -294,7 +294,7 @@
 
 #### (A) State authority
 
-&emsp;&emsp;If the Federal environmental review is being implemented within the boundaries of a State, the State, consistent with State law, may choose to participate in the environmental review and authorization process under this subsection and to make subject to the process all State agencies that—
+&emsp;&emsp;If the Federal environmental review is being implemented within the boundaries of a State, the State, consistent with Statelaw, may choose to participate in the environmental review and authorization process under this subsection and to make subject to the process all State agencies that—
 
 &emsp;&emsp;&emsp;(i) have jurisdiction over the covered project;
 

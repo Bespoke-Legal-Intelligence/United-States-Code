@@ -46,7 +46,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (i) Control
 
-&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent ofthe total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+&emsp;&emsp;&emsp;The term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 #### (ii) Disposition of the converted property
 
@@ -118,7 +118,7 @@ For purposes of this subtitle, if livestock are destroyed by or on account of di
 
 #### (B) Further extension by Secretary
 
-&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as theSecretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
+&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as the Secretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
 
 #### (f) Replacement of livestock with other farm property in certain cases
 
@@ -190,7 +190,7 @@ For purposes of subsection (a), if, because of drought, flood, or other weather-
 
 #### (4) Principal residence
 
-&emsp;For purposes of this subsection, the term "principal residence" has the same meaning aswhen used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
+&emsp;For purposes of this subsection, the term "principal residence" has the same meaning as when used in section 121, except that such term shall include a residence not treated as a principal residence solely because the taxpayer does not own the residence.
 
 #### (i) Replacement property must be acquired from unrelated person in certain cases
 
@@ -346,7 +346,7 @@ Amendment by section 221(a)(27)(D), (77) of Pub. L. 113–295 effective Dec. 19,
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
+Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007,see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
 #### Effective Date of 2005 Amendment
 
@@ -414,7 +414,7 @@ Pub. L. 91–172, title IX, §915(b), Dec. 30, 1969, 83 Stat. 723, as amended by
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -426,5 +426,5 @@ Act June 29, 1956, ch. 464, §5(b), 70 Stat. 407, provided that: "The amendment 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

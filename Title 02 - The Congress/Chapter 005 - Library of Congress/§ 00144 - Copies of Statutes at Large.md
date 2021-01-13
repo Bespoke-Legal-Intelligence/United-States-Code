@@ -4,6 +4,8 @@ Ten of the copies of the Statutes at Large, published by Little, Brown \& Co., w
 
 (R.S. §96.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §96 derived from act Feb. 5, 1859, ch. 22, §11, 11 Stat. 381.

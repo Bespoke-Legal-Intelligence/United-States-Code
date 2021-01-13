@@ -32,7 +32,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) This chapter
 
-&emsp;No provision of this section shall be construed as superseding the authority of the Federal Deposit Insurance Corporation to review subsidiary activities under section 1831a of this title.
+&emsp;No provision of this section shall be construed as superseding the authority of theFederal Deposit Insurance Corporation to review subsidiary activities under section 1831a of this title.
 
 #### (2) Federal Reserve Act
 
@@ -40,9 +40,13 @@ For purposes of this section, the following definitions shall apply:
 
 (Sept. 21, 1950, ch. 967, §2\[46\], as added Pub. L. 106–102, title I, §121(d)(1), Nov. 12, 1999, 113 Stat. 1380.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 121(b) of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(4), is section 121(b) of Pub. L. 106–102, title I, Nov. 12, 1999, 113 Stat. 1378, which amended section 371c of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

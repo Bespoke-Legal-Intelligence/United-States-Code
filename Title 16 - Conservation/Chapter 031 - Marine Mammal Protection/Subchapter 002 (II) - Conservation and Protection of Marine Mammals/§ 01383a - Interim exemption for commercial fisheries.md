@@ -20,7 +20,7 @@
 
 &emsp;(B) publish in the Federal Register not later than one hundred and twenty days after November 23, 1988, a final list of the fisheries and other information required by paragraph (A), together with a summary of the provisions of this section and information sufficient to advise vessel owners on how to obtain an exemption and otherwise comply with the requirements of this section; and
 
-&emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f), and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required undersubparagraph (A) and publish in the Federal Register any necessary changes.
+&emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f), and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
 (2)(A) An exemption shall be granted by the Secretary in accordance with this section for a vessel engaged in a fishery identified under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner, the name and description of the vessel, the fisheries in which it will be engaged, and such other information as the Secretary considers necessary. A decal or other physical evidence that the exemption is current and valid shall be issued by the Secretary at the time an exemption is granted, and so long as the exemption remains current and valid, shall be reissued annually thereafter.
 
@@ -70,7 +70,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(1) the type of fishery engaged in by the owner's vessel;
 
-&emsp;(2) the date and approximate time of any incidental taking of a marine mammal, together with the area in which the incidental taking occurred, the fishing gear used at the time ofthe incidental taking, and the species of fish involved; and
+&emsp;(2) the date and approximate time of any incidental taking of a marine mammal, together with the area in which the incidental taking occurred, the fishing gear used at the time of the incidental taking, and the species of fish involved; and
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
@@ -100,7 +100,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(B) the requirement that assignment of observers is fair and equitable among fisheries and among vessels in a fishery;
 
-&emsp;(C) consistent with paragraph (1), the requirement that no individual person or vessel, or group of persons or vessels, be subject to excessive or overly burdensome observer coverage; and
+&emsp;(C) consistent with paragraph (1), the requirement that no individual person or vessel,or group of persons or vessels, be subject to excessive or overly burdensome observer coverage; and
 
 &emsp;(D) where practicable, the need to minimize costs and avoid duplication.
 
@@ -232,7 +232,7 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 #### (n) Owner of fixed commercial fishing gear deemed owner of vessel engaged in fishery in which gear deployed
 
-For the purposes of this section, the owner of fixed or other commercial fishing gear that isdeployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
+For the purposes of this section, the owner of fixed or other commercial fishing gear that is deployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
 
 #### (o) Definitions
 

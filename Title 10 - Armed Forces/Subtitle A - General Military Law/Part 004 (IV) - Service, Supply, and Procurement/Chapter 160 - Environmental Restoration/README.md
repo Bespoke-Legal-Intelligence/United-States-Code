@@ -14,10 +14,14 @@
 | [2709\.](%C2%A7%2002709%20-%20Investment%20control%20process%20for%20environmental%20technologies.md) | Investment control process for environmental technologies. |
 | [2710\.](%C2%A7%2002710%20-%20Inventory%20of%20unexploded%20ordnance%2C%20discarded%20military%20munitions%2C%20and%20munitions%20constituents%20at%20defense%20sites%20%28other%20than%20operational%20ranges%29.md) | Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges). |
 | [2711\.](%C2%A7%2002711%20-%20Annual%20report%20on%20defense%20environmental%20programs.md) | Annual report on defense environmental programs. |
+| [2712\.](%C2%A7%2002712%20-%20Reporting%20on%20usage%20and%20spills%20of%20aqueous%20film-forming%20foam.md) | Reporting on usage and spills of aqueous film-forming foam. |
+| [2713\.](%C2%A7%2002713%20-%20Native%20American%20lands%20environmental%20mitigation%20program.md) | Native American lands environmental mitigation program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title III, §§318(b), 319(b), Jan. 1, 2021, 134 Stat. 3519, 3521, added items 2712 and 2713.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §317(b), title X, §1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck out item 2706 "Annual reports to Congress" and added item 2711.
 
@@ -52,3 +56,5 @@ Pub. L. 102–25, title VII, §701(e)(6), Apr. 6, 1991, 105 Stat. 114, substitut
 - [&sect; 02709 - Investment control process for environmental technologies](%C2%A7%2002709%20-%20Investment%20control%20process%20for%20environmental%20technologies.md)
 - [&sect; 02710 - Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)](%C2%A7%2002710%20-%20Inventory%20of%20unexploded%20ordnance%2C%20discarded%20military%20munitions%2C%20and%20munitions%20constituents%20at%20defense%20sites%20%28other%20than%20operational%20ranges%29.md)
 - [&sect; 02711 - Annual report on defense environmental programs](%C2%A7%2002711%20-%20Annual%20report%20on%20defense%20environmental%20programs.md)
+- [&sect; 02712 - Reporting on usage and spills of aqueous film-forming foam](%C2%A7%2002712%20-%20Reporting%20on%20usage%20and%20spills%20of%20aqueous%20film-forming%20foam.md)
+- [&sect; 02713 - Native American lands environmental mitigation program](%C2%A7%2002713%20-%20Native%20American%20lands%20environmental%20mitigation%20program.md)

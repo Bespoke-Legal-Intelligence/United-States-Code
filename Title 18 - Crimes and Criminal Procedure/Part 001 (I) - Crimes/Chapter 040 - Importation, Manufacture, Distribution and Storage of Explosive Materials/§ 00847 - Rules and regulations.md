@@ -4,9 +4,13 @@ The administration of this chapter shall be vested in the Attorney General. The 
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 107–296, title XI, §1112(e)(3), Nov. 25, 2002, 116 Stat. 2276.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–296 substituted "Attorney General" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

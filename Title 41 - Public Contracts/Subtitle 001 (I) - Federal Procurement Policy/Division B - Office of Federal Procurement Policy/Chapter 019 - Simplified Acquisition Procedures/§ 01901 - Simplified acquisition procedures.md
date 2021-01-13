@@ -52,6 +52,8 @@ Section 31(e) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(e))
 
 In subsection (e)(2), the reference to section 253 of this title is limited to section 3303(e) of the revised title for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(b)(4)(A), substituted "commercial products or commercial services" for "commercial items".
@@ -61,6 +63,8 @@ Subsec. (e). Pub. L. 115–232, §836(b)(4)(B), substituted "Commercial Products
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### <b>Staturory Notes and Related Subsidiaries</b>
 
 #### Procurement Through Commercial E-Commerce Portals
 
@@ -142,13 +146,13 @@ Relationship to Other Provisions of Law.—
 
 "(g)
 
-Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a product through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
+Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a productthrough a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
 
 "(h)
 
 Disclosure, Protection, and Use of Information.—In any contract awarded to a commercial e-commerce portal provider pursuant to subsection (a), the Administrator shall require that the provider—
 
-&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to aproduct ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
+&emsp;"(1) agree not to sell or otherwise make available to any third party any information pertaining to a product ordered by the Federal Government through the commercial e-commerce portal in a manner that identifies the Federal Government, or any of its departments or agencies, as the purchaser, except if the information is needed to process or deliver an order or the Administrator provides written consent;
 
 &emsp;"(2) agree to take the necessary precautions to safeguard any information pertaining to the Federal Government, especially precautions necessary to protect against national security or cybersecurity threats; and
 

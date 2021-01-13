@@ -10,7 +10,7 @@ In addition to the functions required by Executive Order 13648 (78 Fed. Reg. 406
 
 &emsp;(3) coordinate efforts among United States Federal agencies and non-Federal partners, including missions, domestic and international organizations, the private sector, and other global partners, to implement the strategic plans required by paragraph (2) in each focus country;
 
-&emsp;(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products, and other relevant topics under this chapter; and
+&emsp;(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products,and other relevant topics under this chapter; and
 
 &emsp;(5) coordinate or carry out other functions as are necessary to implement this chapter.
 

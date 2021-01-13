@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to themaximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
+&emsp;&emsp;In carrying out the Initiative, the Secretary shall organize activities among multidisciplinary teams to leverage, to the maximum extent practicable, expertise from the National Laboratories, institutions of higher education, and the private sector.
 
 #### (B) Goals
 
@@ -114,5 +114,5 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: "The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next GenerationLighting Initiative carried out under section 16192 of this title."
+<b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: "The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under section 16192 of this title."
 

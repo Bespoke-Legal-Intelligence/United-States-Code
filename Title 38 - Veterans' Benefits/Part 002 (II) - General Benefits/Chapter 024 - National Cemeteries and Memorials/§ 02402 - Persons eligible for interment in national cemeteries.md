@@ -2,7 +2,7 @@
 
 (a) Under such regulations as the Secretary may prescribe and subject to the provisions of section 6105 of this title, the remains of the following persons may be buried in any open national cemetery under the control of the National Cemetery Administration:
 
-&emsp;(1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, or air service).
+&emsp;(1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, air, or space service).
 
 &emsp;(2) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) resided in the United States.
 
-&emsp;(9)(A) The parent of a person described in subparagraph (B), if the Secretary determinesthat there is available space at the gravesite where the person described in subparagraph (B) is interred.
+&emsp;(9)(A) The parent of a person described in subparagraph (B), if the Secretary determines that there is available space at the gravesite where the person described in subparagraph (B) is interred.
 
 &emsp;(B) A person described in this subparagraph is a person described in paragraph (1) who—
 
@@ -60,13 +60,17 @@
 
 &emsp;(3) The term "training-related injury" means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–283, div. A, title IX, §926(a)(39), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2(1) of the Hmong Veterans' Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under section 1423 of Title 8, Aliens and Nationality.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–407 inserted ", and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024" after "paragraph (7)".
 
@@ -102,6 +106,8 @@ Pub. L. 102–40 substituted "6105" for "3505" in introductory provisions.
 
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out "wife, husband," before "surviving spouse".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–141, div. J, title II, §251(b), Mar. 23, 2018, 132 Stat. 825, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to an individual dying on or after the date of the enactment of this Act \[Mar. 23, 2018\]."
@@ -112,7 +118,7 @@ Amendment by Pub. L. 111–275 applicable with respect to the death, on or after
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec.16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
+Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec. 16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
 
 Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after January 1, 2000."
 

@@ -22,7 +22,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;(2) securities of any eligible portfolio company with respect to which the business development company satisfies the requirements of section 80a–2(a)(46)(C)(ii) of this title;
 
-&emsp;(3) securities purchased in transactions not involving any public offering from an issuer described in sections 80a–2(a)(46)(A) and (B) of this title or from a person who is, or who within the preceding thirteen months has been, an affiliated person of such issuer, or from anyperson in transactions incident thereto, if such securities were—
+&emsp;(3) securities purchased in transactions not involving any public offering from an issuer described in sections 80a–2(a)(46)(A) and (B) of this title or from a person who is, or who within the preceding thirteen months has been, an affiliated person of such issuer, or from any person in transactions incident thereto, if such securities were—
 
 &emsp;&emsp;(A) issued by an issuer that is, or was immediately prior to the purchase of its securities by the business development company, in bankruptcy proceedings, subject to reorganization under the supervision of a court of competent jurisdiction, or subject to a plan or arrangement resulting from such bankruptcy proceedings or reorganization;
 

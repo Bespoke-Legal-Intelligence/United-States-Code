@@ -38,7 +38,7 @@
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 
-&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of thistitle, premium pay under section 5545(c)(2) of this title.
+&emsp;(2) with respect to a law enforcement officer as defined in section 8331(20) or 8401(17) of this title, premium pay under section 5545(c)(2) of this title.
 
 (d) In determining the amount of insurance to which an employee is entitled—
 
@@ -79,6 +79,8 @@ Sept. 2, 1958, Pub. L. 85–872, §3, 72 Stat. 1697.
 In subsection (a), the words "An employee eligible for insurance is entitled" are coextensive with and substituted for "Each employee to whom this chapter applies shall be eligible".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -129,6 +131,8 @@ Subsec. (d)(1). Pub. L. 95–454, §801(a)(3)(E), substituted "subchapter VI of 
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–737 inserted provision that, for the purpose of this chapter, "annual pay" includes premium pay under section 5545(c)(1) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–238 effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238 set out as a note under section 3307 of this title.
@@ -163,7 +167,7 @@ Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that
 
 #### 1967 Adjustment in Amount of Insurance
 
-Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: "For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
+Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: "For the purposes of determiningthe amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
 &emsp;"(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
 

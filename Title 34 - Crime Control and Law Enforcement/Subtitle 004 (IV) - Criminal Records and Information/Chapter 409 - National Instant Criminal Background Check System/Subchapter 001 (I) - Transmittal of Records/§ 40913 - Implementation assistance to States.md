@@ -26,7 +26,7 @@ Grants awarded to States or Indian tribes under this section may only be used to
 
 &emsp;(6) collect and analyze data needed to demonstrate levels of State compliance with this chapter; and
 
-&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
+&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no morethan 10 percent of each grant shall be used for this purpose.
 
 #### (c) Eligibility
 
@@ -73,6 +73,8 @@ The Attorney General shall direct the Office of Justice Programs, the Bureau of 
 &emsp;(2) provide technical assistance and training services to grantees under this section.
 
 (Pub. L. 110–180, title I, §103, Jan. 8, 2008, 121 Stat. 2567; Pub. L. 115–141, div. S, title VI, §603(b), Mar. 23, 2018, 132 Stat. 1135.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

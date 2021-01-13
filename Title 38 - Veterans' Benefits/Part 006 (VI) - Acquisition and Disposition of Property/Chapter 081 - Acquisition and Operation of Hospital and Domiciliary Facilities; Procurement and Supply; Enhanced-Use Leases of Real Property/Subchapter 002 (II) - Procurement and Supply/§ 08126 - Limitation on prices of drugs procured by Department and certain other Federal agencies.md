@@ -4,7 +4,7 @@
 
 &emsp;(1) beginning January 1, 1993, the manufacturer shall make available for procurement on the Federal Supply Schedule of the General Services Administration each covered drug of the manufacturer;
 
-&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate), except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
+&emsp;(2) with respect to each covered drug of the manufacturer procured by a Federal agency described in subsection (b) on or after January 1, 1993, that is purchased under depot contracting systems or listed on the Federal Supply Schedule, the manufacturer has entered into and has in effect a pharmaceutical pricing agreement with the Secretary (or the Federal agency involved, if the Secretary delegates to the Federal agency the authority to enter into such a pharmaceutical pricing agreement) under which the price charged during the one-year period beginning on the date on which the agreement takes effect may not exceed 76 percent of the non-Federal average manufacturer price (less the amount of any additional discount required under subsection (c)) during the one-year period ending one month before such date (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period are not available, during such period as the Secretary considers appropriate),except that such price may nominally exceed such amount if found by the Secretary to be in the best interests of the Department or such Federal agencies;
 
 &emsp;(3) with respect to each covered drug of the manufacturer procured by a State home receiving funds under section 1741 of this title, the price charged may not exceed the price charged under the Federal Supply Schedule at the time the drug is procured; and
 
@@ -116,6 +116,8 @@
 
 (Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -144,13 +146,15 @@ Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior t
 
 Subsec. (i). Pub. L. 103–18, §1(a)(4), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–106, div. A, title VII, §737(b), Feb. 10, 1996, 110 Stat. 383, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971)."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–18, §1(b), Apr. 12, 1993, 107 Stat. 54, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\]."
+Pub. L. 103–18, §1(b), Apr. 12, 1993, 107 Stat. 54, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\]."
 
 #### Transfer of Functions
 

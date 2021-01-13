@@ -41,7 +41,7 @@
 |  |  |
 | :--- | ---: |
 | [8851\.](Subchapter%20004%20%28IV%29%20-%20Department%20of%20Energy%20Quantum%20Activities/%C2%A7%2008851%20-%20Quantum%20information%20science%20research%20program.md) | Quantum information science research program. |
-| [8852\.](Subchapter%20004%20%28IV%29%20-%20Department%20of%20Energy%20Quantum%20Activities/%C2%A7%2008852%20-%20National%20Quantum%20Information%20Science%20Research%20Centers.md) | National Quantum Information Science Research Centers. |
+| [8851\.](Subchapter%20004%20%28IV%29%20-%20Department%20of%20Energy%20Quantum%20Activities/%C2%A7%2008851%20-%20Quantum%20information%20science%20research%20program.md) | National Quantum Information Science Research Centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

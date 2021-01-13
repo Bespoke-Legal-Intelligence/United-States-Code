@@ -94,7 +94,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### (iii) Unanticipated circumstances
 
-&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State or changes occur related to improvements in data or measurement approaches, the eligible agency, at the end of the program year, may revise the State determined levels of performance required under this subparagraph. After public comment, as described in subparagraph (B),the eligible agency shall submit such revised levels of performance to the Secretary with evidence supporting the revision. The Secretary shall approve any such revision if that revision meets the requirements of clause (ii).
+&emsp;&emsp;&emsp;If unanticipated circumstances arise in a State or changes occur related to improvements in data or measurement approaches, the eligible agency, at the end of the program year, may revise the State determined levels of performance required under this subparagraph. After public comment, as described in subparagraph (B), the eligible agency shall submit such revised levels of performance to the Secretary with evidence supporting the revision. The Secretary shall approve any such revision if that revision meets the requirements of clause (ii).
 
 #### (B) Public comment
 
@@ -134,7 +134,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title, that are served under this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) by the career and technical education programs or programs of studyof the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;
 
 &emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance on the State determined levels of performance under subparagraph (A) between any such subgroup or special population and the performance of all CTE concentrators served by the eligible agency under this chapter, which shall include a quantifiable description of the progress each such subgroup or special population of students served by the eligible agency under this chapter has made in meeting the State determined levels of performance; and
 

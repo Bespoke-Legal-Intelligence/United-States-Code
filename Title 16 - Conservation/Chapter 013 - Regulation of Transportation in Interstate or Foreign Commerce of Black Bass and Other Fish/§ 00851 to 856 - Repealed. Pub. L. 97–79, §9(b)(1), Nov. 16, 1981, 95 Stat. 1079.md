@@ -12,7 +12,7 @@ Section 852c, act May 20, 1926, ch. 346, §5, as added July 2, 1930, ch. 801, 46
 
 Section 852d, act May 20, 1926, ch. 346, §6, as added July 2, 1930, ch. 801, 46 Stat. 846; amended 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1947, ch. 348, 61 Stat 517; Oct. 17, 1968, Pub. L. 90–578, title IV, §402(b)(2), 82 Stat. 1118; Dec. 5, 1969, Pub. L. 91–135, §9(c), 83 Stat. 282; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to the power of arrest without warrant, utilization of Federal agencies, searches and seizures, and forfeitures. See sections 3374 and 3375 of this title.
 
-Section 853, act May 20, 1926, ch. 346, §7, as added July 2, 1930, ch. 801, 46 Stat. 847; amended July 30, 1947, ch. 348, 61 Stat. 517, set out the penalties for the violation of the provisions of this chapter. See section 3373 of this title.
+Section 853, act May 20, 1926, ch. 346, §7, as added July 2, 1930, ch. 801, 46 Stat. 847; amended July 30, 1947, ch.348, 61 Stat. 517, set out the penalties for the violation of the provisions of this chapter. See section 3373 of this title.
 
 Section 854, act May 20, 1926, ch. 346, §8, as added July 2, 1930, ch. 801, 46 Stat. 847; amended July 30, 1947, ch. 348, 61 Stat. 517; July 16, 1952, ch. 911, §2, 66 Stat. 736, related to the effect of this chapter on the power of States. See section 3378(a) of this title.
 

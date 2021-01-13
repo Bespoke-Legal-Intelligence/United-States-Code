@@ -18,13 +18,15 @@ The provisions of this section shall be liberally construed to effectuate its pu
 
 Based on title 18, U.S.C., 1940 ed., §682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 9, 1942, ch. 295, §1, 56 Stat. 271).
 
-The word "dismissing" was substituted for "sustaining a motion to dismiss" in two places for conciseness and clarity, there being no difference in effect of a decision of dismissal whether made on motion or by the court sua sponte.
+The word "dismissing" was substituted for "sustaining a motion to dismiss" in two places for conciseness and clarity, there being no difference in effect ofa decision of dismissal whether made on motion or by the court sua sponte.
 
 Minor changes were made to conform to Rule 12 of the Federal Rules of Criminal Procedure. The final sentence authorizing promulgation of rules is omitted as redundant.
 
 #### 1949 Act
 
 This section \[section 58\] corrects a typographical error in the second paragraph of section 3731 of title 18, U.S.C., and conforms the language of the fifth, tenth, and eleventh paragraphs of such section 3731 with the changed nomenclature of title 28, U.S.C., Judiciary and Judicial Procedure. See sections 41, 43, and 451 of the latter title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Fifth par. Pub. L. 91–644, §14(a)(3), substituted as a fifth par. provision f
 <b>1968</b>—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. "defendant shall be released in accordance with chapter 207 of this title" for "defendant shall be admitted to bail on his own recognizance", respectively.
 
 <b>1949</b>—Act May 24, 1949, substituted "invalidity" for "validity" after "upon the" in second par., and conformed language of fifth, tenth, and eleventh pars. to the changed nomenclature of the courts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

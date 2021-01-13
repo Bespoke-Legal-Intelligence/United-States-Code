@@ -36,7 +36,7 @@ This chapter, referred to in subsec. (e)(2), was in the original "this Act", mea
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part."
+<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) readas follows: "Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part."
 
 Subsec. (e). Pub. L. 103–82, §324(b), added subsec. (e).
 

@@ -20,7 +20,7 @@
 
 #### (1) Income, gift, and certain other taxes
 
-&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18 months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
+&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
 
 #### (2) Estate tax
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Pub. L. 96–223, title I, §101(i), Apr. 2, 1980, 94 Stat. 254, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

@@ -52,6 +52,8 @@ In subsection (b)(1), reference to "section 21, and section 22" is omitted as un
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a)(1)(C). Pub. L. 96–54, §2(a)(19), substituted "National Oceanic and Atmospheric" for "Environmental Science Services".
@@ -64,6 +66,8 @@ Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted "Office" for "Commission".
 
 <b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey." See Historical and Revision Notes under section 2101 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendments by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
@@ -71,6 +75,8 @@ Amendments by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

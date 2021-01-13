@@ -4,7 +4,9 @@ Nothing in this Act shall be construed to limit or curtail the Corporation's cur
 
 (Pub. L. 111–203, title I, §172(c), July 21, 2010, 124 Stat. 1439.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

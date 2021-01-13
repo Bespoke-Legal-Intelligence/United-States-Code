@@ -20,7 +20,7 @@ An eligible institution may, upon the request of a student, make payments to the
 
 #### (1) In general
 
-&emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period of time (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students' work-study obligations as described in paragraph (2)(A)(iii), as follows:
+&emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period oftime (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students' work-study obligations as described in paragraph (2)(A)(iii), as follows:
 
 &emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wages such students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
 
@@ -54,7 +54,7 @@ Section was originally enacted as section 125 (and later renumbered section 145)
 
 #### Prior Provisions
 
-A prior section 445 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, title I, §145, formerly §125, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250; renumbered §145, Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726; renumbered Pub. L. 89–329, title IV, §445, by Pub. L. 90–575, title I, §131(a),\(b)(1), Oct. 16, 1968, 82 Stat. 1028, related to sources of matching funds, prior to the general revision of this part by Pub. L. 99–498. See section 1087–54 of this title.
+A prior section 445 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, title I, §145, formerly §125, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250; renumbered §145, Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726; renumbered Pub. L. 89–329, title IV, §445, by Pub. L. 90–575, title I, §131(a), (b)(1), Oct. 16, 1968, 82 Stat. 1028, related to sources of matching funds, prior to the general revision of this part by Pub. L. 99–498. See section 1087–54 of this title.
 
 #### Amendments
 

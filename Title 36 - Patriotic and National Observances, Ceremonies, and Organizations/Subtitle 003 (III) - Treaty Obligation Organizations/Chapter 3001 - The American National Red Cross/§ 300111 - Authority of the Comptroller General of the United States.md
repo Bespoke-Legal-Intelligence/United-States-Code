@@ -4,6 +4,8 @@ The Comptroller General of the United States is authorized to review the corpora
 
 (Added Pub. L. 110–26, §11(a), May 11, 2007, 121 Stat. 109.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300111 was renumbered section 300113 of this title.

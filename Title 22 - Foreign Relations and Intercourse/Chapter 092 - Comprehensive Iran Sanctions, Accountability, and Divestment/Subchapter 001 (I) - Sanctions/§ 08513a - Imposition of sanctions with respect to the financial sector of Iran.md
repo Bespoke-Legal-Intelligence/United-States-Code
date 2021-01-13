@@ -156,13 +156,15 @@ The provisions of this section shall terminate on the date that is 30 days after
 
 (Pub. L. 112–81, div. A, title XII, §1245, Dec. 31, 2011, 125 Stat. 1647; Pub. L. 112–158, title V, §§503(a)(1), (b)(1), 504(a), Aug. 10, 2012, 126 Stat. 1260, 1261; Pub. L. 112–239, div. A, title XII, §1250, Jan. 2, 2013, 126 Stat. 2016.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub.L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as partof the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2012, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
 
 #### Amendments
 
@@ -182,6 +184,8 @@ Subsec. (h)(3), (4). Pub. L. 112–158, §504(a)(2), added par. (3) and redesign
 
 Subsec. (i). Pub. L. 112–158, §504(a)(3), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–158, title V, §503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1298)."
@@ -189,6 +193,8 @@ Pub. L. 112–158, title V, §503(a)(2), Aug. 10, 2012, 126 Stat. 1261, provided
 Pub. L. 112–158, title V, §503(b)(2), Aug. 10, 2012, 126 Stat. 1261, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on September 1, 2012."
 
 Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided that: "The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to financial transactions conducted or facilitated on or after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -209,6 +215,8 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2020–06, June 5, 2020, 85 F.R. 36995.
 
 Determination of President of the United States, No. 2020–03, Oct. 25, 2019, 84 F.R. 59917.
 

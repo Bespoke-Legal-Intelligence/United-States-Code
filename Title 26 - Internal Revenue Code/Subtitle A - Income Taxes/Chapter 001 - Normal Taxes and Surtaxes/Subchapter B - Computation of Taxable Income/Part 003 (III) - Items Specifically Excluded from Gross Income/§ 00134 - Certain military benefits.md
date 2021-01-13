@@ -96,7 +96,7 @@ Pub. L. 110–245, title I, §112(b), June 17, 2008, 122 Stat. 1635, provided th
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title V, §585(b)(3), Oct. 28, 2004, 118 Stat. 1932, provided that: "The amendments made by this subsection \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to travel benefits provided after the date of the enactment of this Act \[Oct. 28, 2004\]."
+Pub. L. 108–375, div. A, title V, §585(b)(3), Oct. 28, 2004, 118 Stat. 1932, provided that: "The amendments madeby this subsection \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to travel benefits provided after the date of the enactment of this Act \[Oct. 28, 2004\]."
 
 #### Effective Date of 2003 Amendment
 

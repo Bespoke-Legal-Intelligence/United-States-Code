@@ -96,7 +96,7 @@ Amendment by Pub. L. 97–34 applicable with respect to options granted on or af
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–167 applicable with respect to calendar years beginning after 1979, see section 7(c)of Pub. L. 96–167, set out as a note under section 6652 of this title.
+Amendment by Pub. L. 96–167 applicable with respect to calendar years beginning after 1979, see section 7(c) of Pub. L. 96–167, set out as a note under section 6652 of this title.
 
 #### Effective Date
 

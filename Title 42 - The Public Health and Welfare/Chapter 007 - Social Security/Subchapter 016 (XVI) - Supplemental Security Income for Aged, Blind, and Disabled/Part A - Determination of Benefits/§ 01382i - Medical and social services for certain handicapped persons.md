@@ -44,7 +44,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 (2) The method of computing and making payments under this section shall be as follows:
 
-&emsp;(A) The Commissioner of Social Security shall, prior to each period for which a payment is to be made to a State, estimate theamount to be paid to the State for such period under the provisions of this section.
+&emsp;(A) The Commissioner of Social Security shall, prior to each period for which a payment is to be made to a State, estimate the amount to be paid to the State for such period under the provisions of this section.
 
 &emsp;(B) From the allotment available therefor, the Commissioner of Social Security shall pay the amount so estimated, reduced or increased, as the case may be, by any sum (not previously adjusted under this subsection) by which the Commissioner finds that the Commissioner's estimate of the amount to be paid the State for any prior period under this section was greater or less than the amount which should have been paid to the State for such period under this section.
 

@@ -4,7 +4,9 @@ Pursuant to the agreement concluded under the authority of section 277d–32 of 
 
 (Pub. L. 89–640, §2, Oct. 10, 1966, 80 Stat. 884; Pub. L. 94–425, Sept. 28, 1976, 90 Stat. 1333.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–425 substituted provisions authorizing appropriations of $10,800,000 for construction costs for project based on June 1976 prices, with exception that no funds may be appropriated for fiscal year ending Sept. 30, 1977 for provisions authorizing appropriations not to exceed $12,600,000 for construction costs forproject, eliminated provision requiring approval of title by Attorney General, and inserted provision authorizing financial participation of Secretary of State through Commissioner to acquire land for construction of project contingent upon city of San Diego furnishing its appropriate share of funds.
+<b>1976</b>—Pub. L. 94–425 substituted provisions authorizing appropriations of $10,800,000 for construction costs for project based on June 1976 prices, with exception that no funds may be appropriated for fiscal year ending Sept. 30, 1977 for provisions authorizing appropriations not to exceed $12,600,000 for construction costs for project, eliminated provision requiring approval of title by Attorney General, and inserted provision authorizing financial participation of Secretary of State through Commissioner to acquire land for construction of project contingent upon city of San Diego furnishing its appropriate share of funds.
 

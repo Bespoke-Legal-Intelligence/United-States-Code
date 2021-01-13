@@ -62,6 +62,8 @@ This section may be cited as the "Architect of the Capitol Human Resources Act".
 
 (Pub. L. 103–283, title III, §312, July 22, 1994, 108 Stat. 1443; Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 166b–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -71,6 +73,8 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 
@@ -108,7 +112,7 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 "(3) Nothing in this subsection may be construed to require the Architect of the Capitol to provide duplicative benefits for any employee.
 
-"(4) The Architect of the Capitol shall make employer contributions for benefits for employees of the Architect (including temporary employees) directly to any third party designated to receive such contributions on behalf of the employees under a collective bargaining agreement, participation agreement, or anyother arrangement entered into by the Architect which provides for such contributions."
+"(4) The Architect of the Capitol shall make employer contributions for benefits for employees of the Architect (including temporary employees) directly to any third party designated to receive such contributions on behalf of the employees under a collective bargaining agreement, participation agreement, or any other arrangement entered into by the Architect which provides for such contributions."
 
 #### Treatment of Separated Employees of Architect of Capitol
 

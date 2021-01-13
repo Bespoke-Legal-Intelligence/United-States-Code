@@ -10,13 +10,17 @@ Telecommunications Act of 1996.—Nothing in sections 116 through this section o
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 632.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
 
 The Telecommunications Act of 1996, referred to in subsec. (b), is Pub. L. 104–104, Feb. 8, 1996, 110 Stat. 56. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications, and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date; Application of Amendment
 
-Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the firstmonth beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
+Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 

@@ -34,7 +34,7 @@ Duties.—The Attorney General shall—
 
 &emsp;&emsp;(D) products purchased by Federal agencies that are manufactured overseas and could be manufactured by prisoners participating in a prison work program without reducing job opportunities for other workers in the United States;
 
-&emsp;(4) on an annual basis, review, validate, and release publicly on the Department of Justicewebsite the risk and needs assessment system, which review shall include—
+&emsp;(4) on an annual basis, review, validate, and release publicly on the Department of Justice website the risk and needs assessment system, which review shall include—
 
 &emsp;&emsp;(A) any subsequent changes to the risk and needs assessment system made after the date of enactment of this subchapter;
 
@@ -52,11 +52,15 @@ Duties.—The Attorney General shall—
 
 (Added Pub. L. 115–391, title I, §101(a), Dec. 21, 2018, 132 Stat. 5195.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The First Step Act of 2018, referred to in subsec. (a)(6), is Pub. L. 115–391, Dec. 21, 2018, 132 Stat. 5194. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note under section 1 of this title and Tables.
 
 The date of enactment of this subchapter, referred to in subsec. (b)(1), (4)(A), is the date of enactment of Pub. L. 115–391, which was approved Dec. 21, 2018.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Independent Review Committee
 

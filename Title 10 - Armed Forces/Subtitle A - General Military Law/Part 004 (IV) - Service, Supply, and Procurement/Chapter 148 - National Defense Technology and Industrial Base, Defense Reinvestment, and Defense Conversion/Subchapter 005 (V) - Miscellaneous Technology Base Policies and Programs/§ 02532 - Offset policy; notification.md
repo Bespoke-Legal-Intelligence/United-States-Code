@@ -32,9 +32,17 @@ Definitions.—In this section:
 
 (Added Pub. L. 100–456, div. A, title VIII, §825(b), Sept. 29, 1988, 102 Stat. 2020, §2505; renumbered §2532, Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(b), Jan. 1, 2021, 134 Stat. 4151, 4284, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after section 4851, and redesignated as section 4852 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 2505 of this title as this section.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Review of Offset Arrangements by Secretary of Defense
 
@@ -56,7 +64,7 @@ Pub. L. 100–456, div. A, title VIII, §825(a), Sept. 29, 1988, 102 Stat. 2019,
 
 &emsp;"(2) Some United States contractors and subcontractors may be adversely affected by such contractual arrangements.
 
-&emsp;"(3) Many contracts which provide for or are subject to offset arrangements require, in connection with such arrangements, the transfer of United States technology to foreign firms.
+&emsp;"(3) Many contracts which provide for or are subject to offset arrangements require, in connectionwith such arrangements, the transfer of United States technology to foreign firms.
 
 &emsp;"(4) The use of such transferred technology by foreign firms in conjunction with foreign trade practices permitted under the trade policies of the countries of such firms can give foreign firms a competitive advantage against United States firms in world markets for products using such technology.
 

@@ -106,7 +106,7 @@ Subsec. (b). Pub. L. 97–34, §821(b), extended termination date to Jan. 1, 198
 
 Subsec. (b). Pub. L. 96–499, §1151(b), substituted "1983" for "1982".
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
 
 Subsec. (b). Pub. L. 91–614, §201(b)(2), substituted "January 1, 1982" for "January 1, 1974".
 
@@ -120,7 +120,7 @@ Pub. L. 90–285 substituted "April 30, 1968" and "May 1, 1968" for "March 31, 1
 
 Subsec. (b). Pub. L. 90–364, §105(b)(2), substituted "1973" for "1969".
 
-Subsec. (c). Pub. L. 90–364, §105(b)(2), extended provisions calling for treatment of bills not rendered before the end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
+Subsec. (c). Pub. L. 90–364, §105(b)(2), extended provisions calling for treatment of bills not rendered beforethe end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
 
 Pub. L. 90–285 substituted "March 1, 1968," for "February 1, 1968", "May 1, 1968" for "April 1, 1968", "April 30, 1968" for "March 31, 1968", and "February 29, 1968" for "January 31, 1968".
 
@@ -184,7 +184,7 @@ Pub. L. 85–859, title I, §133(b), Sept. 2, 1958, 72 Stat. 1292, as amended by
 
 "(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall apply with respect to amounts paid on or after the effective date prescribed in section (1)(c) of this Act for services rendered on or after such date.
 
-"(2) The amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall not apply with respect to amounts paid pursuant to bills rendered before the effective date prescribed in section 1(c) of this Act. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
+"(2) The amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall not apply with respect to amounts paid pursuant to bills rendered before the effective date prescribed in section 1(c) of this Act. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date the provisions of subchapter Bof chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -18,7 +18,7 @@ Applications Resulting From Prior Employment.—An applicant is not considered t
 
 (c)
 
-Foreign Currency Exchange Rate.—If an applicant's or entity's gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant's or entity's gross income exceeds the threshold specified in paragraphs <sup>1</sup> (3) or (4) of subsection (a).
+Foreign Currency Exchange Rate.—If an applicant's or entity's gross income in the preceding calendar year is not in United States dollars, the average currency exchange rate, as reported by the Internal Revenue Service, during that calendar year shall be used to determine whether the applicant's or entity's gross incomeexceeds the threshold specified in paragraphs <sup>1</sup> (3) or (4) of subsection (a).
 
 (d)
 
@@ -34,6 +34,8 @@ Director's Authority.—In addition to the limits imposed by this section, the D
 
 (Added and amended Pub. L. 112–29, §§10(g)(1), 20(j), Sept. 16, 2011, 125 Stat. 318, 335; Pub. L. 112–274, §1(m), Jan. 14, 2013, 126 Stat. 2459.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3), (4), is classified to section 61(a) of Title 26, Internal Revenue Code.
@@ -43,6 +45,8 @@ Section 61(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(3
 <b>2013</b>—Subsec. (a). Pub. L. 112–274 inserted "of this title" after "For purposes" in introductory provisions.
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–29, §20(j), struck out "of this title" after "For purposes" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

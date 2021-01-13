@@ -66,7 +66,7 @@ Any fees, charges, or commissions collected by the Architect of the Capitol unde
 
 #### (B) Modification of rates and fees
 
-&emsp;&emsp;If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit a plan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
+&emsp;&emsp;If a determination is made under subparagraph (A) that a subsidy is being received, the Architect of the Capitol shall submit aplan to the Committee on House Administration of the House of Representatives on how to update the program to ensure no subsidy is being received. If the committee does not act on the plan within 60 days, the Architect of the Capitol shall take appropriate steps to increase rates or fees to ensure reimbursement for the cost of the program consistent with an appropriate schedule for amortization, to be charged to those using the charging stations.
 
 #### (f) Effective date
 

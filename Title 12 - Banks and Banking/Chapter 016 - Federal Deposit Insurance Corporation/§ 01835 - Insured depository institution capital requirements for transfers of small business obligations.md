@@ -34,7 +34,7 @@ If an insured depository institution ceases to be a qualified insured depository
 
 #### (f) Prompt corrective action not affected
 
-The capital of an insured depository institution shall be computed without regard to thissection in determining whether the institution is adequately capitalized, undercapitalized, significantly undercapitalized, or critically undercapitalized under section 1831o of this title.
+The capital of an insured depository institution shall be computed without regard to this section in determining whether the institution is adequately capitalized, undercapitalized, significantly undercapitalized, or critically undercapitalized under section 1831o of this title.
 
 #### (g) Regulations required
 
@@ -73,6 +73,8 @@ For purposes of this section—
 &emsp;(9) the term "well capitalized" has the same meaning as in section 1831o(b) of this title.
 
 (Pub. L. 103–325, title II, §208, Sept. 23, 1994, 108 Stat. 2201.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

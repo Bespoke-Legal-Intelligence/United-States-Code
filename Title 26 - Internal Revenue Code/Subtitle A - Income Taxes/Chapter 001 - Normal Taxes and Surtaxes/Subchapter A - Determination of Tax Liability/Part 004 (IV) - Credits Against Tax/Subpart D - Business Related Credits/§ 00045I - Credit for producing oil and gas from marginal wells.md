@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) $3 ($0.33 for qualified natural gas production).
 
-> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendar year preceding the calendar year in which the taxable year begins.
+> &emsp;&emsp;The applicable reference price for a taxable year is the reference price of the calendaryear preceding the calendar year in which the taxable year begins.
 
 #### (B) Inflation adjustment
 
@@ -118,15 +118,19 @@ Subsec. (d)(3). Pub. L. 109–58, §1322(a)(3)(D)(ii), substituted "section 45K"
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 fortaxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
 #### Effective Date
 
-Section applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
+Section applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L.108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
 
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2020</b>—Internal Revenue Notice 2021–34.
+
+<b>2019</b>—Internal Revenue Notice 2020–21.
 
 <b>2018</b>—Internal Revenue Notice 2019–37.
 

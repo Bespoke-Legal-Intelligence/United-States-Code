@@ -36,9 +36,11 @@
 
 (2) Whenever a modification to such plans is agreed to, the Secretaries shall jointly submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on such modification. Any such report shall be submitted within 30 days after the modification is agreed to.
 
-(e) The Secretary shall prescribe regulations to govern any exercise of the authority of theSecretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
+(e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, §1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, §8(a)(8), Dec. 21, 2006, 120Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, §1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -94,6 +96,8 @@ Subsec. (d). Pub. L. 102–54, §14(f)(4)(B), amended section as in effect immed
 
 Subsecs. (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" and "Secretary's" for "Administrator's" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
@@ -107,6 +111,8 @@ Pub. L. 97–174, §2(b), May 4, 1982, 96 Stat. 70, provided that: "The Congress
 &emsp;"(1) During and immediately after a period of war or national emergency involving the use of the Armed Forces of the United States in armed conflict, the Department of Defense might not have adequate health-care resources to care for military personnel wounded in combat and other active-duty military personnel.
 
 &emsp;"(2) The Veterans' Administration has an extensive, comprehensive health-care system that could be used to assist the Department of Defense in caring for such personnel in such a situation."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12751
 

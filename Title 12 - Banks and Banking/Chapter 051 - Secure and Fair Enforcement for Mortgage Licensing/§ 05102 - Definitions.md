@@ -28,7 +28,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) does not include any individual who is not otherwise described in clause (i) and who performs purely administrative or clerical tasks on behalf of a person who is described in any such clause;
 
-&emsp;&emsp;&emsp;(iii) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless the person or entity is compensated bya lender, a mortgage broker, or other loan originator or by any agent of such lender, mortgage broker, or other loan originator; and
+&emsp;&emsp;&emsp;(iii) does not include a person or entity that only performs real estate brokerage activities and is licensed or registered in accordance with applicable State law, unless the person or entity is compensated by a lender, a mortgage broker, or other loan originator or by any agent of such lender, mortgage broker, or other loan originator; and
 
 &emsp;&emsp;&emsp;(iv) does not include a person or entity solely involved in extensions of credit relating to timeshare plans, as that term is defined in section 101(53D) of title 11.
 
@@ -148,6 +148,8 @@ For purposes of this chapter, the following definitions shall apply:
 
 (Pub. L. 110–289, div. A, title V, §1503, July 30, 2008, 122 Stat. 2811; Pub. L. 111–203, title X, §1100(2)–(4), July 21, 2010, 124 Stat. 2106.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1602(w) of title 15 by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -167,6 +169,8 @@ Par. (10). Pub. L. 111–203, §1100(4)(C), added par. (10) and struck out forme
 Par. (11)(C). Pub. L. 111–203, §1100(3), substituted "Director" for "Secretary".
 
 Par. (12)(A)(ii). Pub. L. 111–203, §1100(2), substituted "Bureau" for "Federal banking agencies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

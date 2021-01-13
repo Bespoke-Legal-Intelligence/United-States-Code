@@ -88,6 +88,8 @@ Preference eligibles.—Notwithstanding paragraphs (1) and (2), an appointing of
 
 <i>See 2018 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of this title.
@@ -111,6 +113,8 @@ Subsec. (c)(7). Pub. L. 115–232, §1107(b)(1)(B), redesignated par. (7) as (6)
 "(1) An appointing official may select any applicant in the highest quality category or, if fewer than 3 candidates have been assigned to the highest quality category, in a merged category consisting of the highest and the second highest quality categories.
 
 "(2) Notwithstanding paragraph (1), the appointing official may not pass over a preference-eligible in the same category from which selection is made, unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

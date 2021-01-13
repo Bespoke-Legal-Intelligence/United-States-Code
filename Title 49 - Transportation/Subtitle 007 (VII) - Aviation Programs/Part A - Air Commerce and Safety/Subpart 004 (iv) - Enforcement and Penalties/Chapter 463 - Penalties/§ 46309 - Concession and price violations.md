@@ -46,7 +46,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(d)(2); added Jan. 3, 1975, 
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-In this section, the words "fined under title 18" are substituted for "a fine of not less than $100 and not more than $5,000" and "fined not less than $100, nor more than $5,000" for consistency with title 18. The words "for each offense" are omitted as surplus. The words "fares, or charges" are omitted as surplus because of the definition of "rate" in section 40102(a) of the revised title.
+In this section, the words "fined under title 18" are substituted for "a fine of not less than $100 and not more than $5,000" and "fined not less than $100, nor more than $5,000" for consistency with title 18. Thewords "for each offense" are omitted as surplus. The words "fares, or charges" are omitted as surplus because of the definition of "rate" in section 40102(a) of the revised title.
 
 In subsection (a), before clause (1), the word "representative" is omitted as surplus. The words "shall be deemed guilty of a misdemeanor" are omitted as superseded by 18:3559. The words "and, upon conviction thereof" are omitted as surplus. In clause (2), the words "device or" and "suffer or" are omitted as surplus.
 

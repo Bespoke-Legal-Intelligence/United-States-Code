@@ -42,7 +42,7 @@ If an election is made under subsection (a), and a deficiency attributable to th
 
 #### (e) Time for payment of interest
 
-If the time for payment for any amount of tax has been extended under this section, interest payable under section 6601 on any unpaid portion of such amount shall be paid annually atthe same time as, and as part of, each installment payment of the tax. Interest, on that part of a deficiency prorated under this section to any installment the date for payment of which has not arrived, for the period before the date fixed for the last installment preceding the assessment of the deficiency, shall be paid upon notice and demand from the Secretary.
+If the time for payment for any amount of tax has been extended under this section, interest payable under section 6601 on any unpaid portion of such amount shall be paid annually at the same time as, and as part of, each installment payment of the tax. Interest, on that part of a deficiency prorated under this section to any installment the date for payment of which has not arrived, for the period before the date fixed for the last installment preceding the assessment of the deficiency, shall be paid upon notice and demand from the Secretary.
 
 #### (f) Tax attributable to recovery of foreign expropriation loss
 
@@ -50,7 +50,7 @@ For purposes of this section, the tax attributable to a recovery of a foreign ex
 
 &emsp;(1) the additional tax imposed by section 1351(d)(1) on such recovery, and
 
-&emsp;(2) the amount by which the tax imposed under subtitle A is increased by reason of the gain on such recovery which under section 1351(e) is considered as gain on the involuntary conversion of property.
+&emsp;(2) the amount by which the tax imposed under subtitle A is increased by reason of thegain on such recovery which under section 1351(e) is considered as gain on the involuntary conversion of property.
 
 #### (g) Failure to pay installment
 

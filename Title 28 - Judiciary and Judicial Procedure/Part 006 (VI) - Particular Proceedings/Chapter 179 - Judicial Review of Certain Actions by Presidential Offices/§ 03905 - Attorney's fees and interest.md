@@ -14,9 +14,13 @@ Punitive Damages.—Except as otherwise provided in chapter 5 of title 3, no pun
 
 (Added Pub. L. 104–331, §3(c), Oct. 26, 1996, 110 Stat. 4070.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 706 and 717 of the Civil Rights Act of 1964, referred to in subsecs. (a) and (b), are classified to sections 2000e–5 and 2000e–16, respectively, of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

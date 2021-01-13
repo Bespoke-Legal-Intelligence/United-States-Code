@@ -52,13 +52,13 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Request for hearing
 
-&emsp;&emsp;Not later than 30 days after the date of receipt of notification of a determination of the Secretary of Labor under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously, and if a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+&emsp;&emsp;Not later than 30 days after the date of receipt of notification of a determination of the Secretary of Labor under this paragraph,either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously, and if a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 #### (3) Grounds for determination of complaints
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection, andshall not conduct an investigation otherwise required under paragraph (2), unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection, and shall not conduct an investigation otherwise required under paragraph (2), unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 #### (B) Rebuttal evidence
 
@@ -112,7 +112,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (E) Other appeals
 
-&emsp;&emsp;Unless the complainant brings an action under subparagraph (D), any person adversely affected or aggrieved by a final order issued under subparagraph (A) may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation, not later than 60 days after the date of the issuance of the final order of the Secretary of Labor under subparagraph (A). Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order. An order of the Secretary of Labor with respect to which reviewcould have been obtained under this subparagraph shall not be subject to judicial review in any criminal or other civil proceeding.
+&emsp;&emsp;Unless the complainant brings an action under subparagraph (D), any person adversely affected or aggrieved by a final order issued under subparagraph (A) may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation, not later than 60 days after the date of the issuance of the final order of the Secretary of Labor under subparagraph (A). Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order. An order of the Secretary of Labor with respect to which review could have been obtained under this subparagraph shall not be subject to judicial review in any criminal or other civil proceeding.
 
 #### (5) Failure to comply with order
 
@@ -148,9 +148,13 @@ For the purposes of this section, the term "covered employee" means any individu
 
 (Pub. L. 111–203, title X, §1057, July 21, 2010, 124 Stat. 2031.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a)(1), (2), and (d)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

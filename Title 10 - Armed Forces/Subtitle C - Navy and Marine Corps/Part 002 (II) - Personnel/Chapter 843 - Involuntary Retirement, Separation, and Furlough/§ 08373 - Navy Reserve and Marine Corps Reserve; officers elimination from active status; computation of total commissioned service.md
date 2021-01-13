@@ -136,7 +136,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 

@@ -48,7 +48,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (A) In general
 
-&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policyform (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
+&emsp;&emsp;The requirement of this paragraph is met, for health insurance coverage policy forms offered by an issuer in the individual market, if the issuer offers a lower-level coverage policy form (as defined in subparagraph (B)) and a higher-level coverage policy form (as defined in subparagraph (C)) each of which includes benefits substantially similar to other individual health insurance coverage offered by the issuer in that State and each of which is covered under a method described in section 300gg–44(c)(3)(A) of this title (relating to risk adjustment, risk spreading, or financial subsidization).
 
 #### (B) Lower-level of coverage described
 
@@ -72,7 +72,7 @@ In this part, the term "eligible individual" means an individual—
 
 #### (5) Assumptions
 
-&emsp;For purposes of paragraph (3), the actuarial value of benefits provided under individual health insurance coverage shall be calculated based on a standardized population and a set of standardized utilization and cost factors.
+&emsp;For purposes of paragraph (3), the actuarial value of benefits provided under individualhealth insurance coverage shall be calculated based on a standardized population and a set of standardized utilization and cost factors.
 
 #### (d) Special rules for network plans
 

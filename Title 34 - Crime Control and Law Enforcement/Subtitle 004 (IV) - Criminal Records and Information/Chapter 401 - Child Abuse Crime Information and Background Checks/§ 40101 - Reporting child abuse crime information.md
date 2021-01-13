@@ -16,7 +16,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 (2) The Attorney General shall require as a part of each State timetable that the State—
 
-&emsp;(A) by not later than the date that is 5 years after December 20, 1993, have in a computerized criminal history file at least 80 percent of the final dispositions that have been rendered in all identifiable child abuse crime cases in which there has been an event of activity within the last 5 years;
+&emsp;(A) by not later than the date that is 5 years after December 20, 1993, have in a computerized criminal history file at least 80 percent ofthe final dispositions that have been rendered in all identifiable child abuse crime cases in which there has been an event of activity within the last 5 years;
 
 &emsp;(B) continue to maintain a reporting rate of at least 80 percent for final dispositions in all identifiable child abuse crime cases in which there has been an event of activity within the preceding 5 years; and
 
@@ -50,6 +50,8 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 (Pub. L. 103–209, §2, Dec. 20, 1993, 107 Stat. 2490; Pub. L. 103–322, title XXXII, §320928(b), (h), (i), Sept. 13, 1994, 108 Stat. 2132, 2133.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5119 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -61,6 +63,8 @@ Section was formerly classified to section 5119 of Title 42, The Public Health a
 Subsec. (b)(2)(A). Pub. L. 103–322, §320928(i), substituted "5 years after" for "3 years after".
 
 Subsec. (f)(2). Pub. L. 103–322, §320928(h), substituted "2 years" for "1 year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidelines for Adoption of Safeguards by Care Providers and States for Protecting Children, the Elderly, or Individuals With Disabilities From Abuse
 

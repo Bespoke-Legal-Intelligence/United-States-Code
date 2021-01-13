@@ -16,5 +16,5 @@ Definition.—In this section, the term "report" includes any certification, not
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "shall provide to Congress (or" for "shall, upon request byany committee of Congress to which the report is submitted or referred, provide to Congress (or each".
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "shall provide to Congress (or" for "shall, upon request by any committee of Congress to which the report is submitted or referred, provide to Congress (or each".
 

@@ -18,7 +18,7 @@ Compilation of Directory Information.—(1) The Secretary of Defense may collect
 
 (5) The Secretary of Defense shall prescribe regulations to carry out this subsection. Regulations prescribed under this subsection shall be submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. Regulations prescribed by the Secretaries concerned to carry out this subsection shall be as uniform as practicable.
 
-(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretaryof Defense to require, that any educational institution furnish directory information to the Secretary.
+(6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
 
 (c)
 
@@ -26,9 +26,9 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(i) shall provide to military recruiters the same access to secondary school students as is provided generally to postsecondary educational institutions or to prospective employers of those students; and
 
-&emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
+&emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+(B) A local educational agency may not release a student's name, address, electronic mailaddress, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -70,17 +70,19 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(F) The term "member of the House of Representatives" includes a Delegate or Resident Commissioner to Congress.
 
-(d)
-
-Directory Information Defined.—In this section, the term "directory information" has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
-
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, §521(a), Jan. 1, 2021, 134 Stat. 3597.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), (6)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. Section 8101 of the Act is classified to section 7801 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1)(A)(ii). Pub. L. 116–283, §521(a)(1)(A), substituted "electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g)." for "and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B))."
+
+Subsec. (c)(1)(B). Pub. L. 116–283, §521(a)(1)(B), substituted "electronic mail address, and telephone listing" for "and telephone listing".
+
+Subsec. (d). Pub. L. 116–283, §521(a)(2), struck out subsec. (d). Text read as follows: "In this section, the term 'directory information' has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g)."
 
 <b>2015</b>—Subsec. (c)(6)(A)(i). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
@@ -142,37 +144,25 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Pilot Programs on Direct Commissions to Cyber Positions
+#### Armed Services Vocational Aptitude Battery Test Special Purpose Adjunct To Address Computational Thinking
 
-Pub. L. 114–328, div. A, title V, §509, Dec. 23, 2016, 130 Stat. 2109, provided that:
+Pub. L. 116–283, div. A, title V, §594, Jan. 1, 2021, 134 Stat. 3666, provided that: "Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions."
+
+#### Programs on Direct Commissions to Cyber Positions
+
+Pub. L. 114–328, div. A, title V, §509, Dec. 23, 2016, 130 Stat. 2109, as amended by Pub. L. 116–283, div. A, title V, §509A, Jan. 1, 2021, 134 Stat. 3586, provided that:
 
 "(a)
 
-Pilot Programs Authorized.—Each Secretary of a military department may carry out a pilot program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals.
+Programs Authorized.—Each Secretary of a military department may carry out a program to improve the ability of an Armed Force under the jurisdiction of the Secretary to recruit cyber professionals.
 
 "(b)
 
-Elements.—Under a pilot program established under this section, an individual who meets educational, physical, and other requirements determined appropriate by the Secretary of the military department concerned may receive an original appointment as a commissioned officer in a cyber specialty.
+Elements.—Under a program established under this section, an individual who meets educational, physical, and other requirements determined appropriate by the Secretary of the military department concerned may receive an original appointment as a commissioned officer in a cyber specialty.
 
 "(c)
 
-Consultation.—In developing a pilot program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy withrespect to an existing, similar program carried out by the Secretary of the Navy.
-
-"(d)
-
-Duration.—
-
-&emsp;"(1)
-
-Commencement.—The Secretary of a military department may commence a pilot program under this section on or after January 1, 2017.
-
-&emsp;"(2)
-
-Termination.—All pilot programs under this section shall terminate no later than December 31, 2022.
-
-"(e)
-
-Status Report.—Not later than January 1, 2020, each Secretary of a military department who conducts a pilot program under this section shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing an evaluation of the success of the program in obtaining skilled cyber personnel for the Armed Forces."
+Consultation.—In developing a program for the Army or the Air Force under this section, the Secretary of the Army and the Secretary of the Air Force may consult with the Secretary of the Navy with respect to an existing, similar program carried out by the Secretary of the Navy."
 
 #### Temporary Authority To Develop and Provide Additional Recruitment Incentives
 
@@ -268,9 +258,9 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 "(b)
 
-Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment ofthis Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
+Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
-&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
+&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, andattitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
 &emsp;"(2) Means for assessing how qualified persons fulfill their enlistment obligation.
 
@@ -396,7 +386,7 @@ In general.—The Secretary may not develop an incentive under this section, or 
 
 &emsp;"(2)
 
-Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit thecontinuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
+Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
 
 #### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
 
@@ -482,7 +472,7 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 &emsp;"(D) For the Army to sponsor motor sports competitions for high school students at which recruiters meet with potential recruits.
 
-&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronic mail addresses of persons who are identified as potential recruits through activities under the pilot program.
+&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronicmail addresses of persons who are identified as potential recruits through activities under the pilot program.
 
 &emsp;"(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
 
@@ -564,7 +554,7 @@ Specific Reforms.—As part of the reforms in military recruiting systems to be 
 
 &emsp;"(4) Require that the Secretary of each military department include as a measurement of recruiter performance the percentage of persons enlisted by a recruiter who complete initial combat training or basic training.
 
-&emsp;"(5) Assess trends in the number and use of waivers over the 1991–1997 period that were issued to permitapplicants to enlist with medical or other conditions that would otherwise be disqualifying.
+&emsp;"(5) Assess trends in the number and use of waivers over the 1991–1997 period that were issued to permit applicants to enlist with medical or other conditions that would otherwise be disqualifying.
 
 &emsp;"(6) Require the Secretary of each military department to implement policies and procedures (A) to ensure the prompt separation of recruits who are unable to successfully complete basic training, and (B) to remove those recruits from the training environment while separation proceedings are pending.
 

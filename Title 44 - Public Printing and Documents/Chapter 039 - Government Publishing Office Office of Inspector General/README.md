@@ -8,13 +8,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94, div. P, title XVI, §1602(c)(2), Dec. 20, 2019, 133 Stat. 3212, substituted "Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel" for "Appointment of Inspector General; supervision; removal" in item 3902.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in chapter heading onauthority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in chapter heading on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 
 ---

@@ -2,7 +2,7 @@
 
 (a) The Secretary of each military department shall maintain a single list, to be known as the reserve active-status list, for each armed force under the Secretary's jurisdiction. That list shall include the names of all reserve officers of that armed force who are in an active status other than those on an active-duty list described in section 620 of this title or warrant officers (including commissioned warrant officers).
 
-(b) The reserve active-status list for the Army shall include officers in the Army Reserve and the Army National Guard of the United States. The reserve active-status list for the Air Force shall include officers in the Air Force Reserve and the Air National Guard of the United States. The Secretary of the Navy shall maintain separate lists for the Navy Reserve and the Marine Corps Reserve.
+(b) The reserve active-status list for the Army shall include officers in the Army Reserve and the Army National Guard of the United States.The reserve active-status list for the Air Force shall include officers in the Air Force Reserve and the Air National Guard of the United States. The Secretary of the Navy shall maintain separate lists for the Navy Reserve and the Marine Corps Reserve.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2922; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(OO), Jan. 6, 2006, 119 Stat. 3234.)
 
@@ -20,7 +20,7 @@ Section 1686 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 "(a)
 
-Six-Month Deadline.—Not later than six months after the effective date of this title \[Oct. 1, 1996,see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], the Secretary of the military department concerned shall ensure that—
+Six-Month Deadline.—Not later than six months after the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], the Secretary of the military department concerned shall ensure that—
 
 &emsp;"(1) all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the reserve active-status list of their Armed Force under section 14002 of title 10, United States Code, as added by this title, shall be placed on the list for their armed force and in their competitive category; and
 

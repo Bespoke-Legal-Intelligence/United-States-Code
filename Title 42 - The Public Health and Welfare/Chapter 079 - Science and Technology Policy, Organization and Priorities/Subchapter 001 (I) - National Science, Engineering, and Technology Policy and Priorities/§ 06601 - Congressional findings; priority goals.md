@@ -54,6 +54,106 @@ Pub. L. 94–282, §1, May 11, 1976, 90 Stat. 459, provided that: "This Act \[en
 
 Pub. L. 94–282, title II, §201, May 11, 1976, 90 Stat. 463, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Presidential Science and Technology Advisory Organization Act of 1976'."
 
+#### Industries of the Future
+
+Pub. L. 116–283, div. H, title XCIV, §9412, Jan. 1, 2021, 134 Stat. 4818, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Industries of the Future Act of 2020'.
+
+"(b)
+
+Report on Federal Research and Development Focused on Industries of the Future.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Director of the Office of Science and Technology Policy shall submit to Congress a report on research and development investments, infrastructure, and workforce development investments of the Federal Government that enable continued United States leadership in industries of the future.
+
+&emsp;"(2)
+
+Contents.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A definition, for purposes of this section, of the term 'industries of the future' that includes emerging technologies.
+
+&emsp;&emsp;"(B) An assessment of the current baseline of investments in civilian research and development investments of the Federal Government in the industries of the future.
+
+&emsp;&emsp;"(C) A plan to double such baseline investments in artificial intelligence and quantum information science by fiscal year 2022.
+
+&emsp;&emsp;"(D) A detailed plan to increase investments described in subparagraph (B) in industries of the future to $10,000,000,000 per year by fiscal year 2025.
+
+&emsp;&emsp;"(E) A plan to leverage investments described in subparagraphs (B), (C), and (D) in industries of the future to elicit complimentary investments by non-Federal entities, including providing incentives for significant complementary investments by such entities and facilitating public-private partnerships.
+
+&emsp;&emsp;"(F) Proposals for the Federal Government, including any necessary draft legislation, to implement such plans.
+
+"(c)
+
+Industries of the Future Coordination Council.—
+
+&emsp;"(1)
+
+Establishment.—
+
+&emsp;&emsp;"(A)
+
+In general.—The President shall establish or designate a council to advise the Director of the Office of Science and Technology Policy on matters relevant to the Director and the industries of the future.
+
+&emsp;&emsp;"(B)
+
+Designation.—The council established or designated under subparagraph (A) shall be known as the 'Industries of the Future Coordination Council' (in this section the 'Council').
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+Composition.—The Council shall be composed of employees of the Federal Government who shall be appointed as follows:
+
+&emsp;&emsp;&emsp;"(i) One member appointed by the Director.
+
+&emsp;&emsp;&emsp;"(ii) A chairperson of the Select Committee on Artificial Intelligence of the National Science and Technology Council.
+
+&emsp;&emsp;&emsp;"(iii) A chairperson of the Subcommittee on Advanced Manufacturing of the National Science and Technology Council.
+
+&emsp;&emsp;&emsp;"(iv) A chairperson of the Subcommittee on Quantum Information Science of the National Science and Technology Council.
+
+&emsp;&emsp;&emsp;"(v) Such other members as the President considers appropriate.
+
+&emsp;&emsp;"(B)
+
+Chairperson.—The member appointed to the Council under paragraph (A)(i) shall serve as the chairperson of the Council.
+
+&emsp;"(3)
+
+Duties.—The duties of the Council are as follows:
+
+&emsp;&emsp;"(A) To provide the Director with advice on ways in which in \[sic\] the Federal Government can ensure the United States continues to lead the world in developing emerging technologies that improve the quality of life of the people of the United States, increase economic competitiveness of the United States, and strengthen the national security of the United States, including identification of the following:
+
+&emsp;&emsp;&emsp;"(i) Federal investments required in fundamental research and development, infrastructure, technology transfer, and workforce development of the United States workers who will support the industries of the future.
+
+&emsp;&emsp;&emsp;"(ii) Actions necessary to create and further develop the workforce that will support the industries of the future.
+
+&emsp;&emsp;&emsp;"(iii) Actions required to leverage the strength of the research and development ecosystem of the United States, which includes academia, industry, and nonprofit organizations, to support industries of the future.
+
+&emsp;&emsp;&emsp;"(iv) Ways that the Federal Government can consider leveraging existing partnerships and creating new partnerships and other multisector collaborations to advance the industries of the future.
+
+&emsp;&emsp;&emsp;"(v) Actions required to accelerate the translation of federally funded research and development to practice and meaningful benefits for society while mitigating any risks.
+
+&emsp;&emsp;"(B) To provide the Director with advice on matters relevant to the report required under subsection (b).
+
+&emsp;"(4)
+
+Coordination.—The Council shall coordinate with and utilize relevant existing National Science and Technology Council committees to the maximum extent feasible in order to minimize duplication of effort.
+
+&emsp;"(5)
+
+Applicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council established under this subsection.
+
+&emsp;"(6)
+
+Sunset.—The Council shall terminate on the date that is 6 years after the date of the enactment of this Act \[Jan. 1, 2021\]."
+
 #### Securing American Science and Technology
 
 Pub. L. 116–92, div. A, title XVII, §1746, Dec. 20, 2019, 133 Stat. 1843, provided that:
@@ -336,7 +436,7 @@ Responsibilities for fusion energy sciences.—In regard to coordinating Federal
 
 Ex. Ord. No. 12039, Feb. 24, 1978, 43 F.R. 8095, as amended by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, provided:
 
-By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 7 of Reorganization Plan No. 1 of 1977 (42 FR 56101 (October 21, 1977)) \[set out in Appendix of Title 5, Government Organization and Employees\], Section 301 of Title 3 of the United States Code, and Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and as President of the United States of America, in order to provide forthe transfer of certain science and technology functions, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 7 of Reorganization Plan No. 1 of 1977 (42 FR 56101 (October 21, 1977)) \[set out in Appendix of Title 5, Government Organization and Employees\], Section 301 of Title 3 of the United States Code, and Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and as President of the United States of America, in order to provide for the transfer of certain science and technology functions, it is hereby ordered as follows:
 
 Section 1. (a) The transfer, provided by Section 5A of Reorganization Plan No. 1 of 1977 (42 FR 56101) \[set out in Appendix of Title 5, Government Organization and Employees\], of certain functions under the National Science and Technology Policy, Organization, and Priorities Act of 1976, hereinafter referred to as the Act (90 Stat. 459, 42 U.S.C. 6601 et seq.), from the Office of Science and Technology Policy and its Director to the Director of the National Science Foundation is hereby effective.
 
@@ -428,7 +528,7 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 
 (c) To the extent practicable and permitted by law, executive departments and agencies shall make resources, including, but not limited to, personnel, office support, and printing, available to the Council as requested by the Assistant.
 
-(d) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
+(d) All executive departments and agencies shall cooperate with the Council and provide such assistance,information, and advice to the Council as the Council may request, to the extent permitted by law.
 
 #### Executive Order No. 12882
 
@@ -488,7 +588,7 @@ Sec. 2. <i>Mission</i>.
 
 (c) The Commission shall not be responsible for the review and approval of specific projects.
 
-(d) The Commission may accept suggestions of issues for consideration from executive departments andagencies and the public as it deems appropriate in support of its mission.
+(d) The Commission may accept suggestions of issues for consideration from executive departments and agencies and the public as it deems appropriate in support of its mission.
 
 (e) In establishing priorities for its activities, the Commission shall consider, among other things, the significance of particular issues; the need for legal, regulatory, and policy guidance with respect to such issues; the connection of the issues to the goal of Federal advancement of science and technology; and the availability of other appropriate entities or fora for deliberating on the issues.
 
@@ -566,7 +666,7 @@ Ex. Ord. No. 13859, Feb. 11, 2019, 84 F.R. 3967, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy and Principles</i>. Artificial Intelligence (AI) promises to drive growth of the United States economy, enhance our economic and national security, and improve our quality of life. The United States is the world leader in AI research and development (R\&D) and deployment. Continued American leadership in AI is of paramount importance to maintaining the economic and national security of the United States and to shaping the global evolution of AI in a manner consistent with our Nation's values, policies, and priorities. The Federal Government plays an important role in facilitating AI R\&D, promoting the trust of the American people in the development and deployment of AI-related technologies, training a workforce capable of using AI in their occupations, and protecting the American AI technology base from attempted acquisition by strategic competitors and adversarial nations. Maintaining American leadership in AI requires a concerted effort to promote advancements in technology and innovation, while protecting American technology, economic and national security, civil liberties, privacy, and American values and enhancing international andindustry collaboration with foreign partners and allies. It is the policy of the United States Government to sustain and enhance the scientific, technological, and economic leadership position of the United States in AI R\&D and deployment through a coordinated Federal Government strategy, the American AI Initiative (Initiative), guided by five principles:
+Section 1. <i>Policy and Principles</i>. Artificial Intelligence (AI) promises to drive growth of the United States economy, enhance our economic and national security, and improve our quality of life. The United States is the world leader in AI research and development (R\&D) and deployment. Continued American leadership in AI is of paramount importance to maintaining the economic and national security of the United States and to shaping the global evolution of AI in a manner consistent with our Nation's values, policies, and priorities. The Federal Government plays an important role in facilitating AI R\&D, promoting the trust of the American people in the development and deployment of AI-related technologies, training a workforce capable of using AI in their occupations, and protecting the American AI technology base from attempted acquisition by strategic competitors and adversarial nations. Maintaining American leadership in AI requires a concerted effort to promote advancements in technology and innovation, while protecting American technology, economic and national security, civil liberties, privacy, and American values and enhancing international and industry collaboration with foreign partners and allies. It is the policy of the United States Government to sustain and enhance the scientific, technological, and economic leadership position of the United States in AI R\&D and deployment through a coordinated Federal Government strategy, the American AI Initiative (Initiative), guided by five principles:
 
 (a) The United States must drive technological breakthroughs in AI across the Federal Government, industry, and academia in order to promote scientific discovery, economic competitiveness, and national security.
 
@@ -614,7 +714,7 @@ Sec. 5. <i>Data and Computing Resources for AI Research and Development</i>.
 
 (ii) Within 120 days of the date of this order, OMB, including through its interagency councils and the Select Committee, shall update implementation guidance for Enterprise Data Inventories and Source Code Inventories to support discovery and usability in AI R\&D.
 
-(iii) Within 180 days of the date of this order, and in accordance with the implementation of the Cross-Agency Priority Goal: Leveraging Federal Data as a Strategic Asset, from the March 2018 President's Management Agenda, agencies shall consider methods of improvingthe quality, usability, and appropriate access to priority data identified by the AI research community. Agencies shall also identify any associated resource implications.
+(iii) Within 180 days of the date of this order, and in accordance with the implementation of the Cross-Agency Priority Goal: Leveraging Federal Data as a Strategic Asset, from the March 2018 President's Management Agenda, agencies shall consider methods of improving the quality, usability, and appropriate access to priority data identified by the AI research community. Agencies shall also identify any associated resource implications.
 
 (iv) In identifying data and models for consideration for increased public access, agencies, in coordination with the Senior Agency Officials for Privacy established pursuant to Executive Order 13719 of February 9, 2016 (Establishment of the Federal Privacy Council) \[42 U.S.C. 2000ee–2 note\], the heads of Federal statistical entities, Federal program managers, and other relevant personnel shall identify any barriers to, or requirements associated with, increased access to and use of such data and models, including:
 
@@ -720,7 +820,7 @@ Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science and technology, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. In every age of our Nation's history, American ingenuity has driven technological progress and the promise of the American Dream. Scientific advancement has improved the lives of our citizens, created jobs and better futures for American workers, and kept the American people safe at home and abroad. American thinkers, inventors, and entrepreneurs, empowered by free-market capitalism and driven by bold ideas, have created an ecosystem of innovation that is the envy of the world, making our Nation prosperous and strong.
+Section 1. <i>Purpose</i>. In every age of our Nation's history, American ingenuity has driven technologicalprogress and the promise of the American Dream. Scientific advancement has improved the lives of our citizens, created jobs and better futures for American workers, and kept the American people safe at home and abroad. American thinkers, inventors, and entrepreneurs, empowered by free-market capitalism and driven by bold ideas, have created an ecosystem of innovation that is the envy of the world, making our Nation prosperous and strong.
 
 Since World War II, our Nation's greatest scientists and engineers have advised the Federal Government, guiding the United States through the nuclear age, the mission to the moon, and the transformations of the digital revolution. Emerging technologies like artificial intelligence and quantum information science are now on the horizon, and how we address their development will determine whether they give rise to new American industries or challenge American values. With American leadership facing fierce global competition, today more than ever our Nation is in need of new approaches for unleashing the creativity of our research enterprise and empowering private sector innovation to ensure American technological dominance.
 
@@ -752,7 +852,7 @@ Sec. 4. <i>Administration</i>. (a) The heads of executive departments and agenci
 
 Sec. 5. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order \[Oct. 22, 2019\] unless extended by the President.
 
-Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary ofEnergy in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary of Energy in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -774,7 +874,7 @@ Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, prov
 
 Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
 
-I have worked hard to restore trust and ensure openness in government. This memorandum will further our progress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
+I have worked hard to restore trust and ensure openness in government. This memorandum will further ourprogress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
 
 In January 1994, I established the Advisory Committee on Human Radiation Experiments (the "Advisory Committee") to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects ("Recommendations for Balancing National Security Interests and the Rights of the Public," Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
@@ -808,7 +908,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (d) The agencies shall jointly propose to require that in classified research involving human subjects, two additional elements of information be provided to potential subjects when consent is sought from subjects:
 
-(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk to subjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director ofthe White House Office of Science and Technology Policy.
+(i) the identity of the sponsoring Federal agency. Exceptions are allowed if the head of the sponsoring agency determines that providing this information could compromise intelligence sources or methods and that the research involves no more than minimal risk to subjects. The determination about sources and methods is to be made in consultation with the Director of Central Intelligence and the Assistant to the President for National Security Affairs. The determination about risk is to be made in consultation with the Director of the White House Office of Science and Technology Policy.
 
 (ii) a statement that the project is "classified" and an explanation of what classified means.
 
@@ -824,7 +924,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 3\. <i>Agency Head Approval of Classified Research Projects</i>. Agencies may not conduct any classified human research project subject to the Common Rule unless the agency head has personally approved the specific project.
 
-4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
+4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completedin the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
 
 5\. <i>Definitions</i>. For purposes of this memorandum, the terms "research" and "human subject" shall have the meaning set forth in the Common Rule. "Classified human research" means research involving "classified information" as defined in \[former\] Executive Order 12958.
 

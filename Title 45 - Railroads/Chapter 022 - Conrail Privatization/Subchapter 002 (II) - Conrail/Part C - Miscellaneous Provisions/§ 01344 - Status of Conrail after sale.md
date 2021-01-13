@@ -4,9 +4,13 @@ The Corporation shall be a rail carrier as defined in section 10102 of title 49,
 
 (Pub. L. 99–509, title IV, §4036, Oct. 21, 1986, 100 Stat. 1909; Pub. L. 104–88, title III, §332, Dec. 29, 1995, 109 Stat. 953.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–88 substituted "section 10102" for "section 10102(19)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

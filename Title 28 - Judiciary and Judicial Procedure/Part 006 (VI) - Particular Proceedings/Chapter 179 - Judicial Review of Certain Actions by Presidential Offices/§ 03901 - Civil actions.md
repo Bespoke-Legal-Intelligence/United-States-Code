@@ -10,6 +10,8 @@ Jury Trial.—In an action described in subsection (a), any party may demand a j
 
 (Added Pub. L. 104–331, §3(c), Oct. 26, 1996, 110 Stat. 4070.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1997, see section 3(d) of Pub. L. 104–331, set out as a note under section 1296 of this title.

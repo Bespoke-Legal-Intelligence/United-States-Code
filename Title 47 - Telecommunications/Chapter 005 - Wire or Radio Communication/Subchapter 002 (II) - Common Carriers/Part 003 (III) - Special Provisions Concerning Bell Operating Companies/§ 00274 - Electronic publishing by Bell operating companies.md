@@ -58,7 +58,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (B) Teaming arrangements
 
-&emsp;&emsp;A Bell operating company may engage in nondiscriminatory teaming or business arrangements to engage in electronic publishing with any separated affiliate or with any other electronic publisher if (i) the Bell operating company only provides facilities, services, and basic telephone service information as authorized by this section, and (ii)the Bell operating company does not own such teaming or business arrangement.
+&emsp;&emsp;A Bell operating company may engage in nondiscriminatory teaming or business arrangements to engage in electronic publishing with any separated affiliate or with any other electronic publisher if (i) the Bell operating company only provides facilities, services, and basic telephone service information as authorized by this section, and (ii) the Bell operating company does not own such teaming or business arrangement.
 
 #### (C) Electronic publishing joint ventures
 
@@ -96,7 +96,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 #### (1) In general
 
-&emsp;The term "electronic publishing" means the dissemination, provision, publication, or sale to an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
+&emsp;The term "electronic publishing" means the dissemination, provision, publication, or saleto an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
 
 #### (2) Exceptions
 
@@ -161,6 +161,8 @@ As used in this section—
 &emsp;(10) The term "Bell operating company" has the meaning provided in section 153 of this title, except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
 
 (June 19, 1934, ch. 652, title II, §274, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 100.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

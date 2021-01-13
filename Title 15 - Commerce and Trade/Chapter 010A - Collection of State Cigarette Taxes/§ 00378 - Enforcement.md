@@ -38,7 +38,7 @@ The Attorney General of the United States shall administer and enforce this chap
 
 #### (A) In general
 
-&emsp;&emsp;The remedies available under this section and section 377 of this title are in addition to any other remedies available under Federal, State, local, tribal, or other law.
+&emsp;&emsp;The remedies available under this section and section 377 of this title are in addition toany other remedies available under Federal, State, local, tribal, or other law.
 
 #### (B) State court proceedings
 

@@ -30,7 +30,7 @@ This section shall not be construed to prohibit the unitization of producing fie
 
 #### (e) Report to Congress covering extension of restrictions on joint bidding
 
-The Secretary shall study and report to the Congress, not later than 6 months after December 22, 1975, with respect to the feasibility anddesirability of extending the prohibition on joint bidding to—
+The Secretary shall study and report to the Congress, not later than 6 months after December 22, 1975, with respect to the feasibility and desirability of extending the prohibition on joint bidding to—
 
 &emsp;(1) bidding for any right to develop crude oil, natural gas, and natural gas liquids on Federal lands other than those located on the Outer Continental Shelf; and
 

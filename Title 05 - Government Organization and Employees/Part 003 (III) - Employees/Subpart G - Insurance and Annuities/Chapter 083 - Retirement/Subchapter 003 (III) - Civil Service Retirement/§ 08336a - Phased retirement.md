@@ -60,7 +60,7 @@
 
 (c)(1) Except as otherwise provided under this subsection, the phased retirement annuity for a phased retiree is the product obtained by multiplying—
 
-&emsp;(A) the amount of an annuity computed under section 8339 that would have been payable to the phased retiree if, on the date on which the phased retiree enters phased retirement status, the phased retiree had separatedfrom service and retired under section 8336(a) or (b); by
+&emsp;(A) the amount of an annuity computed under section 8339 that would have been payable to the phased retiree if, on the date on which the phased retiree enters phased retirement status, the phased retiree had separated from service and retired under section 8336(a) or (b); by
 
 &emsp;(B) the phased retirement percentage for the phased retiree.
 
@@ -78,7 +78,7 @@
 
 (B) Notwithstanding subparagraph (A), if a phased retiree does not make such a deposit and dies in service as a phased retiree, a survivor of the phased retiree shall have the same right to make such deposit as would have been available had the employee not entered phased retirement status and died in service.
 
-(C) If a phased retiree makes an election for an actuarial annuity reduction under section 8334(d)(2) and dies in service as a phased retiree, the amount of any deposit upon which such actuarial reduction shall have been based shall be deemed to have been fully paid.
+(C) If a phased retiree makes an election for an actuarial annuity reduction under section8334(d)(2) and dies in service as a phased retiree, the amount of any deposit upon which such actuarial reduction shall have been based shall be deemed to have been fully paid.
 
 (7) A phased retirement annuity shall commence on the date on which a phased retiree enters phased employment.
 
@@ -129,6 +129,8 @@
 (n) For purposes of chapter 87, a phased retiree shall be deemed to be receiving basic pay at the rate of a full-time employee in the position to which the phased retiree is appointed.
 
 (Added Pub. L. 112–141, div. F, title I, §100121(a)(2), July 6, 2012, 126 Stat. 907.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

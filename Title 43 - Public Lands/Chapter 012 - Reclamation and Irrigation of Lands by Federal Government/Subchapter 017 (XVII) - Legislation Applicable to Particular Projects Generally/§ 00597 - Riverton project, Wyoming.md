@@ -6,6 +6,8 @@ When any land on the project is opened to homestead entry under the terms of the
 
 (June 5, 1920, ch. 235, §1, 41 Stat. 915; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1404.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Reclamation Act and Acts amendatory thereof or supplementary thereto, the reclamation law, and the "Reclamation Law", referred to in text, probably mean act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto. See act June 5, 1920, ch. 235, 41 Stat. 913, under the heading "
@@ -20,7 +22,9 @@ Act of March 3, 1905, referred to in text, is act Mar. 3, 1905, ch. 1452, 33 Sta
 
 The first par. of this section is from part of the first section of act June 5, 1920. The second par. of this section is from a proviso in the first section of act Mar. 4, 1921. For classification of other provisions of these Acts, see Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Restoration of Lands to Public Domain
 
-Act Aug. 15, 1953, ch. 509, §2, 67 Stat. 612, provided that: "Subject only to the existing rights and interests which are not extinguished and terminated by this Act \[act Aug. 15, 1953, ch. 509, 67 Stat. 592\], all unentered and vacant lands within the area described in section 1hereof \[describing unentered and vacant lands of the Riverton reclamation project within the ceded portion of the Wind River Indian Reservation\], are hereby restored to the public domain for administration, use, occupancy, and disposal under the reclamation and public land laws of the United States: <i>Provided</i>, That the sale or other disposition of such lands shall be at rates and upon terms and conditions approved by the Secretary of the Interior: <i>Provided further</i>, That the average price of all such lands disposed of by sale shall be not less than $6.25 per acre."
+Act Aug. 15, 1953, ch. 509, §2, 67 Stat. 612, provided that: "Subject only to the existing rights and interests which are not extinguished and terminated by this Act \[act Aug. 15, 1953, ch. 509, 67 Stat. 592\], all unentered and vacant lands within the area described in section 1 hereof \[describing unentered and vacant lands of the Riverton reclamation project within the ceded portion of the Wind River Indian Reservation\], are hereby restored to the public domain for administration, use, occupancy, and disposal under the reclamation and public land laws of the United States: <i>Provided</i>, That the sale or other disposition of such lands shall be at rates and upon terms and conditions approved by the Secretary of the Interior: <i>Provided further</i>, That the average price of all such lands disposed of by sale shall be not less than $6.25 per acre."
 

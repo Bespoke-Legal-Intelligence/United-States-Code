@@ -60,7 +60,7 @@ Analog transmissions.—In the case of an analog transmission, a person who is m
 
 Digital transmissions.—
 
-&emsp;&emsp;(A) If a digital transmission standard for the placement of copyright management information for a category of works is set in a voluntary, consensus standard-setting process involving a representative cross-section of broadcast stations or cable systems andcopyright owners of a category of works that are intended for public performance by such stations or systems, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to the particular copyright management information addressed by such standard if—
+&emsp;&emsp;(A) If a digital transmission standard for the placement of copyright management information for a category of works is set in a voluntary, consensus standard-setting process involving a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to the particular copyright management information addressed by such standard if—
 
 &emsp;&emsp;&emsp;(i) the placement of such information by someone other than such person is not in accordance with such standard; and
 
@@ -87,6 +87,8 @@ Definitions.—As used in this subsection—
 &emsp;&emsp;(B) the term "cable system" has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2872; amended Pub. L. 106–44, §1(e), Aug. 5, 1999, 113 Stat. 222.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

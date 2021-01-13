@@ -24,11 +24,13 @@ Notwithstanding any other provision of this chapter, any Farm Credit Bank or dir
 
 &emsp;(2) the participation by the Farm Credit Bank or association would equal or exceed 50 percent of the principal of the loan or, when taken together with participations in the loan by other Farm Credit System institutions, would cause the cumulative amount of the participations by all Farm Credit System institutions in the loan to equal or exceed 50 percent of the principal of the loan;
 
-&emsp;(3) the participation would cause the cumulative amount of participations that the FarmCredit Bank or association has outstanding under this section to exceed 15 percent of the total assets of the Farm Credit Bank or association; or
+&emsp;(3) the participation would cause the cumulative amount of participations that the Farm Credit Bank or association has outstanding under this section to exceed 15 percent of the total assets of the Farm Credit Bank or association; or
 
 &emsp;(4) the loan is of the type authorized under section 2019(b) or 2075(a)(2) of this title.
 
 (Pub. L. 92–181, title IV, §4.18A, as added Pub. L. 103–376, §5, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 107–171, title V, §5401(b), May 13, 2002, 116 Stat. 349.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

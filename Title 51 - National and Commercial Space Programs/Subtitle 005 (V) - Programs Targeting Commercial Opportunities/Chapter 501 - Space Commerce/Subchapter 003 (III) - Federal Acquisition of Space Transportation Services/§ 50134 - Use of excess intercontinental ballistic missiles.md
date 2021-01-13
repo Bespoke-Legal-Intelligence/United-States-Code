@@ -56,6 +56,8 @@ Pub. L. 105–303, title II, §205, Oct. 28, 1998, 112 Stat. 2857; Pub. L. 106�
 
 In subsection (b)(1), in the matter before subparagraph (A), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

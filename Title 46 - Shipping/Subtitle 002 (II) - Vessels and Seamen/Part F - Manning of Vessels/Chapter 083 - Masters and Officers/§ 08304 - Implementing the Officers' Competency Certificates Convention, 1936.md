@@ -10,7 +10,7 @@
 
 &emsp;(3) a barge; and
 
-&emsp;(4) a vessel of less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;(4) a vessel of less than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 (c) A person may not engage or employ an individual to serve as, and an individual may not serve as, a master, mate, or engineer on a vessel to which this section applies, if the individual does not have a license issued under section 7101 of this title authorizing service in the capacity in which the individual is to be engaged or employed.
 
@@ -58,6 +58,8 @@ Subsection (h) provides for an appeal of the detention order.
 
 Subsection (i) permits the designation of a Customs Service officer or employee to enforce this section.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Officers' Competency Certificates Convention, 1936, referred to in subsec. (b), is set out in 54 Stat. Pt. 2, p. 1683.
@@ -66,7 +68,9 @@ The Officers' Competency Certificates Convention, 1936, referred to in subsec. (
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "200 gross tons".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

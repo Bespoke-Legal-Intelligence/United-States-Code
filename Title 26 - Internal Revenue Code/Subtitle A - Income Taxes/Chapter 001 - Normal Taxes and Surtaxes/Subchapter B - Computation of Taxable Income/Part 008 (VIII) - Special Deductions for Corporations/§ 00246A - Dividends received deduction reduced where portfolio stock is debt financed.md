@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bank or bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning anystock of such bank or bank holding company which the taxpayer has an option to acquire.
+&emsp;&emsp;If, as of the beginning of the ex-dividend date, the taxpayer owns stock of any bank or bank holding company having a value equal to at least 80 percent of the total value of the stock of such bank or bank holding company, for purposes of paragraph (2)(A)(i), the taxpayer shall be treated as owning any stock of such bank or bank holding company which the taxpayer has an option to acquire.
 
 #### (B) Definitions
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to dividends received or accrued after Dec. 31, 1987, in taxable years ending after such date, see section 10221(e)(1) of Pub. L. 100–203, set out as a note under section 243 of this title.
+Amendment by Pub. L. 100–203 applicable to dividends received or accrued after Dec. 31, 1987, in taxable yearsending after such date, see section 10221(e)(1) of Pub. L. 100–203, set out as a note under section 243 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -24,6 +24,8 @@ Subsection (b) empowers a chapter 13 debtor engaged in business to operate his b
 
 Subsection (c) requires a chapter 13 debtor engaged in business to file with the court certain financial statements relating to the operation of the business.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–327 substituted "704(a)(8)" for "704(8)".
@@ -31,6 +33,8 @@ Subsection (c) requires a chapter 13 debtor engaged in business to file with the
 <b>1984</b>—Subsec. (b). Pub. L. 98–353, §526, struck out the comma after "of the debtor".
 
 Subsec. (c). Pub. L. 98–353, §311(b)(2), substituted "section 704(8)" for "section 704(7)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

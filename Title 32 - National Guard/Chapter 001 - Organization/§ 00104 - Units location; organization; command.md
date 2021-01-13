@@ -56,7 +56,7 @@ June 3, 1916, ch. 134, §60; June 4, 1920, ch. 227 subch. I, §36; restated June
 
 In subsection (a), the words "within their respective borders" are omitted as surplusage.
 
-In subsection (b), the word "Army" is substituted for the words "Regular Army", since the Army is the category for which the organization is prescribed, and the Regular Army is a personnel category for which no organization is prescribed. Similarly, the words "Air Force" are used instead of the words "Regular Air Force".
+In subsection (b), the word "Army" is substituted for the words "Regular Army", since the Army is the category for which the organization is prescribed, and theRegular Army is a personnel category for which no organization is prescribed. Similarly, the words "Air Force" are used instead of the words "Regular Air Force".
 
 In subsection (c), the words "by branch of the Army or organization of the Air Force" are substituted for the words "as to branch or arm of service". The words "branch, organization, or allotment of a unit" are substituted for the words "allotment, branch, or arm of units or organizations".
 
@@ -67,6 +67,8 @@ In subsection (d), the word "brigades" is omitted as surplusage.
 In subsection (e), the word "tactical" is omitted as surplusage.
 
 In subsection (f), the words "have received compensation from the United States as members of the National Guard" are substituted for the words "shall be entitled to and shall have received compensation under the provisions of this title". The words "actual strength \* \* \* in commissioned officers or enlisted members" are substituted for the words "commissioned or enlisted strength".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Subsec. (d). Pub. L. 109–163, §1057(b)(3), substituted "State, the Commonweal
 <b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(2), substituted "Each State or Territory and Puerto Rico" for "Each State and Territory, Puerto Rico, and the Canal Zone".
 
 Subsecs. (c), (d). Pub. L. 100–456, §1234(b)(1), struck out "the Canal Zone," after "Puerto Rico,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Council of Governors
 
@@ -108,6 +112,8 @@ Act Aug. 10, 1956, ch. 1041, §32, 70A Stat. 633, provided that:
 
 "(b) The First Corps Cadets, antedating, and continuously existing in the State of Massachusetts since, the Act of May 8, 1792, now designated as the 126th Tank Battalion, 26th Infantry Division, hereby declared to be a corps as defined in subsection (a) of this Act for all purposes thereof and now incorporated in the Organized Militia and a part of the National Guard of Massachusetts, shall be allowed to retain its ancient privileges and organization. The First Corps Cadets is hereby declared to be entitled to a lieutenant colonel in command and a major second in command; and those officers, when federally recognized, are entitled to the pay provided by law for their respective grades: <i>Provided</i>, That nothing in this section or other provisions of law shall be considered to be in derogation of any other ancient privileges to which the First Corps Cadets is entitled under the laws, customs, or usages of the State of Massachusetts."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13528. Establishment of the Council of Governors
 
 Ex. Ord. No. 13528, Jan. 11, 2010, 75 F.R. 2053, provided:
@@ -116,7 +122,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Council of Governors.</i>
 
-(a) There is established a Council of Governors (Council). The Council shall consist of 10 State Governors appointed by the President (Members), of whom no more than five shall be of the same political party. The term of service for each Member appointed to serve on theCouncil shall be 2 years, but a Member may be reappointed for additional terms.
+(a) There is established a Council of Governors (Council). The Council shall consist of 10 State Governors appointed by the President (Members), of whom no more than five shall be of the same political party. The term of service for each Member appointed to serve on the Council shall be 2 years, but a Member may be reappointed for additional terms.
 
 (b) The President shall designate two Members, who shall not be members of the same political party, to serve as Co-Chairs of the Council.
 

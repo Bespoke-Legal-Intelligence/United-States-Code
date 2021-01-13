@@ -65,6 +65,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–260, title III, §302(a)(2), Jan. 10, 2013, 126 Stat. 2425, which directed amendment of the table of sections for chapter 72 by adding item 7255 and striking out former item 7255 "Offices", without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
@@ -75,7 +77,7 @@
 
 <b>1999</b>—Pub. L. 106–117, title X, §§1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
 
-<b>1998</b>—Pub. L. 105–368, title V, §512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted "APPEALS FOR VETERANS CLAIMS" for "VETERANS APPEALS" in chapter heading, struck out "of Veterans Appeals"after "Court" in item 7286, substituted "Court decision" for "United States Court of Veterans Appeals decision" in item 7291, and struck out "Court of Veterans Appeals" before "Retirement Fund" in item 7298.
+<b>1998</b>—Pub. L. 105–368, title V, §512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted "APPEALS FOR VETERANS CLAIMS" for "VETERANS APPEALS" in chapter heading, struck out "of Veterans Appeals" after "Court" in item 7286, substituted "Court decision" for "United States Court of Veterans Appeals decision" in item 7291, and struck out "Court of Veterans Appeals" before "Retirement Fund" in item 7298.
 
 <b>1991</b>—Pub. L. 102–82, §2(b), Aug. 6, 1991, 105 Stat. 375, added item 7286.
 

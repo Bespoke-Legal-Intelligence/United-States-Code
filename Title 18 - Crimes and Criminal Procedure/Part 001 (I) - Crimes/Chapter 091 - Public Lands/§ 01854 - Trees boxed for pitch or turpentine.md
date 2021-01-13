@@ -18,6 +18,8 @@ Maximum fine was increased from $500 to $1,000 to conform to other comparable se
 
 Minor changes also were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $1,000" in last par.

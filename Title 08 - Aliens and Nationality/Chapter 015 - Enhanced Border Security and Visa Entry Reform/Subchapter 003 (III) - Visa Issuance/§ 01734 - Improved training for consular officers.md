@@ -6,13 +6,15 @@ The Secretary of State shall require that all consular officers responsible for 
 
 #### (b) Use of foreign intelligence information
 
-As an ongoing component of the training required in subsection (a), the Secretary of State shall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
+As an ongoing component of the training required in subsection (a), the Secretary of Stateshall coordinate with the Assistant to the President for Homeland Security, Federal law enforcement agencies, and the intelligence community to compile and disseminate to the Bureau of Consular Affairs reports, bulletins, updates, and other current unclassified information relevant to terrorists and terrorism and to screening visa applicants who pose a potential threat to the safety or security of the United States.
 
 #### (c) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to implement this section.
 
 (Pub. L. 107–173, title III, §305, May 14, 2002, 116 Stat. 555; Pub. L. 108–458, title VII, §7203(c), Dec. 17, 2004, 118 Stat. 3814.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -52,7 +52,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 &emsp;&emsp;&emsp;(iv) streamlining emergency communications throughout national, regional, and local governments to manage the potential energy crisis resulting from heating fuel and electricity shortages;
 
-&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of the team's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
+&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of theteam's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
 
 &emsp;&emsp;&emsp;(vi) developing a public outreach strategy to facilitate preparation by the population and communication with the population in the event of a crisis.
 
@@ -152,15 +152,21 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 (Pub. L. 113–272, §7, Dec. 18, 2014, 128 Stat. 2960; Pub. L. 115–254, div. F, title VI, §1470(r), Oct. 5, 2018, 132 Stat. 3518.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(3). Pub. L. 115–254, §1470(r)(1), (2), substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in heading and introductory provisions.
 
 Subsec. (c)(3)(B). Pub. L. 115–254, §1470(r)(3), struck out "by eligible investors (as defined in section 2198 of this title)" after "of applications".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

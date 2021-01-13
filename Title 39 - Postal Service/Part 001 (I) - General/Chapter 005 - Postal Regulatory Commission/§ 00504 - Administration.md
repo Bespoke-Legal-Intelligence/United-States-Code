@@ -20,7 +20,7 @@
 
 > The written concurrence of a majority of the Commissioners then holding office shall, with respect to each subpoena under subparagraph (A), be required in advance of its issuance.
 
-(3) In the case of contumacy or failure to obey a subpoena issued under this subsection, upon application by the Commission, the district court of the United States for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+(3) In the case of contumacy or failure to obey a subpoena issued under this subsection, uponapplication by the Commission, the district court of the United States for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 (4) For purposes of this subsection, the term "covered person" means an officer, employee, agent, or contractor of the Postal Service.
 
@@ -41,6 +41,8 @@
 (2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, §3604; Pub. L. 94–421, §4, Sept. 24, 1976, 90 Stat. 1305; renumbered §504 and amended Pub. L. 109–435, title VI, §§601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,9 +70,13 @@ Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferre
 
 Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (d), as so redesignated, made minor changes in phraseology.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment; Savings Provisions
 
-Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11570. Regulation of Conduct for Postal Rate Commission and Its Employees
 

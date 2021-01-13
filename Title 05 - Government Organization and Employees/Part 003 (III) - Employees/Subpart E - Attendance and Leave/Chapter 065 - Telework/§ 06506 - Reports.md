@@ -108,9 +108,13 @@ Review and inclusion of relevant information.—The Chair and Vice Chair of the 
 
 (Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3169.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsecs. (b)(1) and (c)(1)(A), is the date of enactment of Pub. L. 111–292, which was approved Dec. 9, 2010.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

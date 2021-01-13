@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) for the provision of monitoring and treatment benefits and initial health evaluation benefits under part B;
 
-&emsp;&emsp;(B) for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
+&emsp;&emsp;(B) for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and forfollowup to individuals who are enrolled in the monitoring program;
 
 &emsp;&emsp;(C) for the provision of counseling for benefits under part B, with respect to WTC-related health conditions, for individuals eligible for such benefits;
 
@@ -58,7 +58,7 @@
 
 #### (5) Review on feasibility of consolidating Data Centers
 
-&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit tothe Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the feasibility of consolidating Data Centers into a single Data Center.
+&emsp;Not later than July 1, 2011, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the feasibility of consolidating Data Centers into a single Data Center.
 
 #### (b) Centers of Excellence
 
@@ -120,7 +120,7 @@
 
 #### (2) Fixed infrastructure costs
 
-&emsp;For purposes of paragraph (1), the term "fixed infrastructure costs" means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operatethe WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
+&emsp;For purposes of paragraph (1), the term "fixed infrastructure costs" means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
 
 #### (d) GAO analysis
 

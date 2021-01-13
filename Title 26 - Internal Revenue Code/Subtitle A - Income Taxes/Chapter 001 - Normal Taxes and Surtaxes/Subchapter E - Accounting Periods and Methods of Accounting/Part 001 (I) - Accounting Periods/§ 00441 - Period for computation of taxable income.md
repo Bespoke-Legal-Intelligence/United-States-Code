@@ -92,7 +92,7 @@ Except as provided in section 443 (relating to returns for periods of less than 
 
 #### (3) Subsequent changes of ownership
 
-&emsp;The Secretary shall prescribe regulations under which paragraphs (1) and (2) shall apply to a change of ownership of a corporation after the taxable year of the corporation has been determined under paragraph (1) or (2) only if such change is a substantial change of ownership.
+&emsp;The Secretary shall prescribe regulations under which paragraphs (1) and (2) shall apply to a change of ownership of a corporation after the taxable year of the corporation has beendetermined under paragraph (1) or (2) only if such change is a substantial change of ownership.
 
 #### (4) Voting power determined
 

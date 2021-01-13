@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–161, div. E, title V, §553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 "Border tunnels and passages".

@@ -14,6 +14,8 @@ Maximum imprisonment provision was changed from 1 year to 3 years so as to be co
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

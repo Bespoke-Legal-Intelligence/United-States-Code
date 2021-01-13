@@ -52,7 +52,7 @@ Subsec. (g). Pub. L. 102–550, §203(c), substituted "If" for "Except as provid
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "12753".</i>
 

@@ -18,7 +18,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;(A) if at the close of the day on which such dividend is received, such corporation is a member of the same affiliated group as the corporation distributing such dividend, and
 
-&emsp;&emsp;(B) if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which endsafter December 31, 1963, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
+&emsp;&emsp;(B) if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
 
 #### (2) Affiliated group
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 115–97, §13002(a)(3), which directed amendment of subsec
 
 Subsec. (c)(1). Pub. L. 115–97, §13002(a)(2), substituted "65 percent" for "80 percent" and "50 percent" for "70 percent".
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows:"In the case of any dividend received from a 20-percent owned corporation—
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–295, §221(a)(41)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of any dividend received from a 20-percent owned corporation—
 
 &emsp;"(A) subsection (a)(1) of this section, and
 
@@ -174,7 +174,7 @@ Pub. L. 115–97, title I, §13002(f), Dec. 22, 2017, 131 Stat. 2101, provided t
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined inthe same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
 Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

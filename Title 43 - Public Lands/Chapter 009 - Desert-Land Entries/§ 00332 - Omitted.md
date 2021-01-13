@@ -1,5 +1,7 @@
 ### §332. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 7, 1917, ch. 48, 40 Stat. 250, suspended expenditure and cultivation requirements during World War I.

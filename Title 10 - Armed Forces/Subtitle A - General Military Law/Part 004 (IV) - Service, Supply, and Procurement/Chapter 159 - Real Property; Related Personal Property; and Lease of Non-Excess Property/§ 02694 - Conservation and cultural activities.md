@@ -22,7 +22,7 @@ Activities.—(1) A conservation or cultural activity eligible for the program t
 
 &emsp;(B) The conduct of wildlife studies to ensure the safety and sustainability of military operations.
 
-&emsp;(C) The identification and return of Native American human remains and cultural items in the possession or control of the Department of Defense, or discovered on land under the jurisdiction of the Department, to the appropriate Native American tribes.
+&emsp;(C) The identification and return of Native American human remains and cultural itemsin the possession or control of the Department of Defense, or discovered on land under the jurisdiction of the Department, to the appropriate Native American tribes.
 
 &emsp;(D) The control of invasive species that may hinder military activities or degrade military training ranges.
 

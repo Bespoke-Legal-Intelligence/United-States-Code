@@ -1,8 +1,10 @@
 ### §§616aaa to 616fff–7. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 616aaa, Pub. L. 89–161, §1, Sept. 2, 1965, 79 Stat. 615, authorized construction, operation, andmaintenance of the Auburn-Folsom South unit, American River division, Central Valley project, California, and described principal features of this unit.
+Section 616aaa, Pub. L. 89–161, §1, Sept. 2, 1965, 79 Stat. 615, authorized construction, operation, and maintenance of the Auburn-Folsom South unit, American River division, Central Valley project, California, and described principal features of this unit.
 
 Section 616bbb, Pub. L. 89–161, §2, Sept. 2, 1965, 79 Stat. 616, provided for financial and operational integration and coordination of this unit with Central Valley project.
 

@@ -1,5 +1,7 @@
 ## Subtitle I—Patriotic and National Observances and Ceremonies
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–237, §3(a)(2)(A), Dec. 18, 2014, 128 Stat. 2835, struck out item for part A "Observances and Ceremonies", which consisted of items for chapters 1 to 9, and item for part B "United States Government Organizations Involved With Observances and Ceremonies", which consisted of items for chapters 21 to 25.

@@ -4,9 +4,13 @@ The Secretary of the Interior may continue any land district in which is situate
 
 (R.S. §2249.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2249 derived from act Sept. 4, 1841, ch. 16, §7, 5 Stat. 455.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

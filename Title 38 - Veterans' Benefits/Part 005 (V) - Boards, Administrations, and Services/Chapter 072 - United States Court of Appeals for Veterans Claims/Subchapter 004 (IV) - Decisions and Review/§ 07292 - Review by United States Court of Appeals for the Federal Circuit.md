@@ -2,13 +2,13 @@
 
 (a) After a decision of the United States Court of Appeals for Veterans Claims is entered in a case, any party to the case may obtain a review of the decision with respect to the validity of a decision of the Court on a rule of law or of any statute or regulation (other than a refusal to review the schedule of ratings for disabilities adopted under section 1155 of this title) or any interpretation thereof (other than a determination as to a factual matter) that was relied on by the Court in making the decision. Such a review shall be obtained by filing a notice of appeal with the Court of Appeals for Veterans Claims within the time and in the manner prescribed for appeal to United States courts of appeals from United States district courts.
 
-(b)(1) When a judge or panel of the Court of Appeals for Veterans Claims, in making an order not otherwise appealable under this section, determines that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that there is in fact a disagreement between the appellant and the Secretary with respect to that question of law and that the ultimate termination of the case may be materially advanced by the immediate consideration of that question, the judge or panel shall notify the chief judge of that determination. Upon receiving such a notification, the chief judge shall certify that such a question is presented, and any party to the case may then petition the Court of Appeals for the Federal Circuit to decide the question. That court may permit an interlocutory appeal to be taken on that question if such a petition is filed with it within 10 days after the certification by the chief judge of the Court of Appeals for Veterans Claims. Neither the application for, nor the granting of, an appeal under this paragraph shall stay proceedings in the Court of Appeals for Veterans Claims, unless a stay is ordered by a judge of the Court of Appeals for Veterans Claims or by the Court of Appeals for the Federal Circuit.
+(b)(1) When a judge or panel of the Court of Appeals for Veterans Claims, in making an order not otherwise appealable under this section, determines that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that there is in fact a disagreement between the appellant and the Secretary with respect to that question of law and that the ultimate termination of the case may be materially advanced by the immediate consideration of that question, the judge or panel shall notify the chief judge of that determination. Upon receiving such a notification, the chief judge shall certify that such a question is presented, and any party to the case may then petition the Court of Appeals for the Federal Circuit to decide the question. That court may permit an interlocutoryappeal to be taken on that question if such a petition is filed with it within 10 days after the certification by the chief judge of the Court of Appeals for Veterans Claims. Neither the application for, nor the granting of, an appeal under this paragraph shall stay proceedings in the Court of Appeals for Veterans Claims, unless a stay is ordered by a judge of the Court of Appeals for Veterans Claims or by the Court of Appeals for the Federal Circuit.
 
 (2) For purposes of subsections (d) and (e) of this section, an order described in this paragraph shall be treated as a decision of the Court of Appeals for Veterans Claims.
 
 (c) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction to review and decide any challenge to the validity of any statute or regulation or any interpretation thereof brought under this section, and to interpret constitutional and statutory provisions, to the extent presented and necessary to a decision. The judgment of such court shall be final subject to review by the Supreme Court upon certiorari, in the manner provided in section 1254 of title 28.
 
-(d)(1) The Court of Appeals for the Federal Circuit shall decide all relevant questions of law,including interpreting constitutional and statutory provisions. The court shall hold unlawful and set aside any regulation or any interpretation thereof (other than a determination as to a factual matter) that was relied upon in the decision of the Court of Appeals for Veterans Claims that the Court of Appeals for the Federal Circuit finds to be—
+(d)(1) The Court of Appeals for the Federal Circuit shall decide all relevant questions of law, including interpreting constitutional and statutory provisions. The court shall hold unlawful and set aside any regulation or any interpretation thereof (other than a determination as to a factual matter) that was relied upon in the decision of the Court of Appeals for Veterans Claims that the Court of Appeals for the Federal Circuit finds to be—
 
 &emsp;(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
 
@@ -26,6 +26,8 @@
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4120, §4092; amended Pub. L. 101–94, title III, §302(b), Aug. 16, 1989, 103 Stat. 628; renumbered §7292, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, §402(a), Dec. 6, 2002, 116 Stat. 2832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–330 inserted "a decision of the Court on a rule of law or of" after "the validity of" in first sentence.
@@ -41,6 +43,8 @@ Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for
 Subsec. (c). Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactment of Pub. L. 102–40 by substituting "United States Court" for "United States Courts".
 
 <b>1989</b>—Subsec. (d)(1). Pub. L. 101–94 struck out "statute or" before "regulation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

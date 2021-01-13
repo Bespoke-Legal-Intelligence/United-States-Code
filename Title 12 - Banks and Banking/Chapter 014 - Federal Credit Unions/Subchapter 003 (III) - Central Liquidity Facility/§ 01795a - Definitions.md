@@ -2,7 +2,7 @@
 
 As used in this subchapter, the term—
 
-&emsp;(1) "liquidity needs" means the needs of credit unions primarily serving natural persons for—
+&emsp;(1) "liquidity needs" means the needs of credit unions for—
 
 &emsp;&emsp;(A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
@@ -16,7 +16,13 @@ As used in this subchapter, the term—
 
 &emsp;(4) "member" means a Regular or an Agent member of the Facility.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, §302, as added Pub. L. 95–630, title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, §309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, §302, as added Pub. L. 95–630, title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, §309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, §4016(a)(1), (b)(1)(A), Mar. 27, 2020, 134 Stat. 481, 482.)
+
+#### Amendment of Paragraph (1)
+
+<i>Pub. L. 116–136, div. A, title IV, §4016(b)(1)(A), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, §540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, paragraph (1) of this section is amended by inserting "primarily serving natural persons" after "credit unions" in introductory provisions. See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -24,7 +30,17 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 #### Amendments
 
+<b>2020</b>—Par. (1). Pub. L. 116–136, §4016(b)(1)(A), inserted "primarily serving natural persons" after "credit unions" in introductory provisions.
+
+Pub. L. 116–136, §4016(a)(1), struck out "primarily serving natural persons" after "credit unions" in introductory provisions.
+
 <b>1980</b>—Pub. L. 96–221, §309(b)(2), substituted "title" for "subchapter", which for purposes of codification has been editorially translated as "subchapter", thereby requiring no further change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. A, title IV, §4016(b)(2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, §540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that: "The amendments made by paragraph (1) \[amending this section and sections 1795c and 1795e of this title\] shall take effect on December 31, 2021."
 
 #### Effective Date
 

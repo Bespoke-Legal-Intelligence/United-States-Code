@@ -34,7 +34,7 @@ Crediting amounts received.—An amount an executive agency receives under this 
 
 (d)
 
-Rent Payments for Lease Space.—An agency may make rent payments to the Administration for lease space relating to expansion needs of the agency. Payment rates shall approximate commercial charges for comparable space as provided in subsection (b). Payments shall be deposited into the Federal Buildings Fund. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in the Rental of Space activity of the Fund.
+Rent Payments for Lease Space.—An agency may make rent payments to the Administration for lease space relating to expansion needs of the agency. Payment rates shall approximate commercial charges for comparablespace as provided in subsection (b). Payments shall be deposited into the Federal Buildings Fund. The Administration may use amounts received under this subsection, in addition to amounts received as New Obligational Authority, in the Rental of Space activity of the Fund.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1113.)
 

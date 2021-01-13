@@ -52,9 +52,13 @@ Effective Date.—Subsections (a) and (b) shall take effect on the earlier of—
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4060; amended Pub. L. 111–275, title VII, §703(c), Oct. 13, 2010, 124 Stat. 2888.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–275 substituted "under section 4323(d) of title 38" for "under paragraphs (1) and (2)(A) of section 4323(c) of title 38".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

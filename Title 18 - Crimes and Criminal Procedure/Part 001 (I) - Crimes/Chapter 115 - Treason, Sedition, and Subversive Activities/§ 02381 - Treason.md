@@ -16,6 +16,8 @@ The words "every person so convicted of treason" were omitted as redundant.
 
 Minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 inserted "under this title but" before "not less than $10,000".

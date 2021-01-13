@@ -10,7 +10,17 @@ In this chapter:
 
 &emsp;(4) The term "acquisition workforce" has the meaning provided in section 101(a)(18) of this title.
 
-(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4288; amended Pub. L. 113–291, div. A, title X, §1071(a)(11), Dec. 19, 2014, 128 Stat. 3505.)
+(Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4288; amended Pub. L.113–291, div. A, title X, §1071(a)(11), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 116–283, div. A, title XVIII, §1806(a)(2)–(4), Jan. 1, 2021, 134 Stat. 4152.)
+
+#### Amendment and Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(a)(2)–(4), 1808(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4152, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended and transferred as follows:</i>
+
+<i>(1) paragraphs (1), (2), and (3) of this section are transferred to section 3001 of this title, as added by section 1806(a)(1) of Pub. L. 116–283, and redesignated as subsections (c), (a), and (b), respectively, of that section; and</i>
+
+<i>(2) this section, as part of chapter 205 of this title as transferred and redesignated by section 1808(a)(1) of Pub. L. 116–283, is redesignated as section 3101 of this title.</i>
+
+<i>See 2021 Amendment notes and Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -18,7 +28,17 @@ A prior section 2545 was renumbered section 2555 of this title.
 
 #### Amendments
 
+<b>2021</b>—Par. (1). Pub. L. 116–283, §1806(a)(4), redesignated par. (1) as section 3001(c) of this title.
+
+Par. (2). Pub. L. 116–283, §1806(a)(2), redesignated par. (2) as section 3001(a) of this title.
+
+Par. (3). Pub. L. 116–283, §1806(a)(3), redesignated par. (3) as section 3001(b) of this title.
+
 <b>2014</b>—Par. (1). Pub. L. 113–291 substituted "section 131 of title 41" for "section 4(16) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(16))".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Short Title of 2011 Amendment
 

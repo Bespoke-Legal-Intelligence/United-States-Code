@@ -22,7 +22,7 @@
 
 #### (2) Requirements
 
-&emsp;To be eligible to receive a grant or cooperative agreement under paragraph (1), an entity shall submit to the Secretary an applicationcontaining such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the grant or cooperative agreement shall operate in accordance with the following:
+&emsp;To be eligible to receive a grant or cooperative agreement under paragraph (1), an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the grant or cooperative agreement shall operate in accordance with the following:
 
 &emsp;&emsp;(A) The center will collect, analyze, and report autism spectrum disorder and other developmental disability data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities.
 

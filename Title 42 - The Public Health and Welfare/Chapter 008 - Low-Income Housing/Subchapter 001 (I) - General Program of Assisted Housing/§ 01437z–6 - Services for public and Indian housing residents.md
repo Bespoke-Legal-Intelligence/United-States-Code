@@ -12,7 +12,7 @@ Grantees under this section may use such amounts only for activities on or near 
 
 &emsp;(2) the provision of service coordinators or a congregate housing services program for elderly individuals, elderly disabled individuals, nonelderly disabled individuals, or temporarily disabled individuals;
 
-&emsp;(3) the provision of services related to work readiness, including education, job training and counseling, job search skills, business development training and planning, tutoring, mentoring, adult literacy, computer access, personal and family counseling, health screening, work readiness health services, transportation, and child care;
+&emsp;(3) the provision of services related to work readiness, including education, job trainingand counseling, job search skills, business development training and planning, tutoring, mentoring, adult literacy, computer access, personal and family counseling, health screening, work readiness health services, transportation, and child care;
 
 &emsp;(4) economic and job development, including employer linkages and job placement, and the start-up of resident microenterprises, community credit unions, and revolving loan funds, including the licensing, bonding, and insurance needed to operate such enterprises;
 

@@ -110,6 +110,8 @@ A social networking website seeking to use the system shall submit an applicatio
 
 (Pub. L. 110–400, §3, Oct. 13, 2008, 122 Stat. 4225.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c)(2)(D), is Pub. L. 110–400, Oct. 13, 2008, 122 Stat. 4224, known as the Keeping the Internet Devoid of Sexual Predators Act of 2008, and also known as the KIDS Act of 2008, which enacted this section and section 20916 of this title, amended section 20981 of this title, and enacted provisions set out as notes under sections 10101 and 20981 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.

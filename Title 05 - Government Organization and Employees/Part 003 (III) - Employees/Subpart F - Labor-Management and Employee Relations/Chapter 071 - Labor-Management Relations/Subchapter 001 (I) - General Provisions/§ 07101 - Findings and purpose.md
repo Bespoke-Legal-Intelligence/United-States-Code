@@ -18,9 +18,13 @@
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91–375, §6(c)(19), Aug. 12, 1970, 84 Stat. 776, related to right of postal employees to organize, prior to the general amendment of this chapter by Pub. L. 94–454.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -63,6 +67,8 @@ Availability of Results.—The results of the agency surveys under subsection (a
 "(d)
 
 Agency defined.—For purposes of this section, the term 'agency' means an Executive agency (as defined by section 105 of title 5, United States Code)."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10988
 
@@ -342,7 +348,7 @@ Sec. 18. <i>Standards of conduct for labor organizations.</i>
 
 (c) A labor organization which has or seeks recognition as a representative of employees under this Order shall file financial and other reports, provide for bonding of officials and employees of the organization, and comply with trusteeship and election standards.
 
-(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles appliedto unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
+(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles applied to unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
 
 Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
@@ -378,7 +384,7 @@ Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
 #### Miscellaneous Provisions
 
-Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half the time spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
+Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half thetime spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
 
 Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
 
@@ -458,7 +464,7 @@ Organization. The Labor Relations Group shall consist of the Director of the Off
 
 (c)
 
-Agencies. Agencies with at least 1,000 employees represented by a collective bargaining representative pursuant to chapter 71 of title 5, United States Code, shall participate in the Labor Relations Group. Agencies with a smaller number of employees represented by a collective bargaining representative may, at theelection of their agency head and with the concurrence of the OPM Director, participate in the Labor Relations Group. Agencies participating in the Labor Relations Group shall provide assistance helpful in carrying out the responsibilities outlined in subsection (d) of this section. Such assistance shall include designating an agency employee to serve as a point of contact with OPM responsible for providing the Labor Relations Group with sample language for proposals and counter-proposals on significant matters proposed for inclusion in term CBAs, as well as for analyzing and discussing with OPM and the Labor Relations Group the effects of significant CBA provisions on agency effectiveness and efficiency. Participating agencies should provide other assistance as necessary to support the Labor Relations Group in its mission.
+Agencies. Agencies with at least 1,000 employees represented by a collective bargaining representative pursuant to chapter 71 of title 5, United States Code, shall participate in the Labor Relations Group. Agencies with a smaller number of employees represented by a collective bargaining representative may, at the election of their agency head and with the concurrence of the OPM Director, participate in the Labor Relations Group. Agencies participating in the Labor Relations Group shall provide assistance helpful in carrying out the responsibilities outlined in subsection (d) of this section. Such assistance shall include designating an agency employee to serve as a point of contact with OPM responsible for providing the Labor Relations Group with sample language for proposals and counter-proposals on significant matters proposed for inclusion in term CBAs, as well as for analyzing and discussing with OPM and the Labor Relations Group the effects of significant CBA provisions on agency effectiveness and efficiency. Participating agencies should provide other assistance as necessary to support the Labor Relations Group in its mission.
 
 (d)
 
@@ -510,7 +516,7 @@ Sec. 6. <i>Permissive Bargaining</i>. The heads of agencies subject to the provi
 
 Sec. 7. <i>Efficient Bargaining over Procedures and Appropriate Arrangements</i>. (a) Before beginning negotiations during a term CBA over matters addressed by sections 7106(b)(2) or 7106(b)(3) of title 5, United States Code, agencies shall evaluate whether or not such matters are already covered by the term CBA and therefore are not subject to the duty to bargain. If such matters are already covered by a term CBA, the agency shall not bargain over such matters.
 
-(b) Consistent with section 1 of this order, agencies that engage in bargaining over procedures pursuant to section 7106(b)(2) of title 5, United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute procedures associated with the exercise of management rights, which do not include measures that excessively interfere with the exercise of such rights. Likewise, consistent with section 1 of this order, agencies that engage in bargaining over appropriate arrangements pursuant to section 7106(b)(3) of title 5, United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute appropriate arrangements for employees adversely affected by the exercise of management rights. In such negotiations, agencies shall ensure that a resulting appropriate arrangement does not excessively interfere with the exercise of management rights.
+(b) Consistent with section 1 of this order, agencies that engage in bargaining over procedures pursuant tosection 7106(b)(2) of title 5, United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute procedures associated with the exercise of management rights, which do not include measures that excessively interfere with the exercise of such rights. Likewise, consistent with section 1 of this order, agencies that engage in bargaining over appropriate arrangements pursuant to section 7106(b)(3) of title 5, United States Code, shall, consistent with their obligation to negotiate in good faith, bargain over only those items that constitute appropriate arrangements for employees adversely affected by the exercise of management rights. In such negotiations, agencies shall ensure that a resulting appropriate arrangement does not excessively interfere with the exercise of management rights.
 
 Sec. 8. <i>Public Accessibility</i>. (a) Each agency subject to chapter 71 of title 5, United States Code, that engages in any negotiation with a collective bargaining representative, as defined therein, shall submit to the OPM Director each term CBA currently in effect and its expiration date. Such agency shall also submit any new term CBA and its expiration date to the OPM Director within 30 days of its effective date, and submit new arbitral awards to the OPM Director within 10 business days of receipt. The OPM Director shall make each term CBA publicly accessible on the Internet as soon as practicable.
 
@@ -538,7 +544,7 @@ Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-On May 25, 2018, I signed three Executive Orders requiring executive departments and agencies (agencies) to negotiate collective bargaining agreements that will reduce costs and promote government performance and accountability. These Executive Orders, Executive Order 13836 of May 25, 2018 (Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining) \[set out above\], Executive Order 13837 of May 25, 2018 (Ensuring Transparency, Accountability, and Efficiency in Taxpayer-Funded Union Time Use) \[5 U.S.C. 7131 note\], and Executive Order 13839 of May 25, 2018 (Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles) \[5 U.S.C. note prec. 7501\], were partially enjoined by the United States District Court for the District of Columbia on August 25, 2018. The District Court's injunction barred enforcement of sections 5(a),5(e), and 6 of Executive Order 13836, sections 3(a), 4(a), and 4(b) of Executive Order 13837, and sections 3, 4(a), and 4(c) of Executive Order 13839.
+On May 25, 2018, I signed three Executive Orders requiring executive departments and agencies (agencies) to negotiate collective bargaining agreements that will reduce costs and promote government performance and accountability. These Executive Orders, Executive Order 13836 of May 25, 2018 (Developing Efficient, Effective, and Cost-Reducing Approaches to Federal Sector Collective Bargaining) \[set out above\], Executive Order 13837 of May 25, 2018 (Ensuring Transparency, Accountability, and Efficiency in Taxpayer-Funded Union Time Use) \[5 U.S.C. 7131 note\], and Executive Order 13839 of May 25, 2018 (Promoting Accountability and Streamlining Removal Procedures Consistent with Merit System Principles) \[5 U.S.C. note prec. 7501\], were partially enjoined by the United States District Court for the District of Columbia on August 25, 2018. The District Court's injunction barred enforcement of sections 5(a), 5(e), and 6 of Executive Order 13836, sections 3(a), 4(a), and 4(b) of Executive Order 13837, and sections 3, 4(a), and 4(c) of Executive Order 13839.
 
 On July 16, 2019, the United States Court of Appeals for the District of Columbia Circuit held that the District Court lacked jurisdiction and vacated its judgment, and the Court of Appeals has now issued the mandate making its judgment effective.
 

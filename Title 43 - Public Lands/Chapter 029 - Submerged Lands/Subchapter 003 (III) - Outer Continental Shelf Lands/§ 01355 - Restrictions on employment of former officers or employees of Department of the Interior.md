@@ -22,9 +22,13 @@ No full-time officer or employee of the Department of the Interior who directly 
 
 (Aug. 7, 1953, ch. 345, §29, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 668.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Executive Schedule, referred to in text, is set out in section 5311 et seq. of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

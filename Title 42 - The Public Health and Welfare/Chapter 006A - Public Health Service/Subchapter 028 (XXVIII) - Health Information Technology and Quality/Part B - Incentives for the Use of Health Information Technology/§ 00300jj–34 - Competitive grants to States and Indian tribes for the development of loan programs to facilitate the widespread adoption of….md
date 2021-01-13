@@ -14,7 +14,7 @@ For purposes of this subsection, the term "eligible entity" means a State or Ind
 
 &emsp;(3) provides assurances to the National Coordinator that the entity will establish a Loan Fund in accordance with subsection (c);
 
-&emsp;(4) provides assurances to the National Coordinator that the entity will not provide aloan from the Loan Fund to a health care provider unless the provider agrees to—
+&emsp;(4) provides assurances to the National Coordinator that the entity will not provide a loan from the Loan Fund to a health care provider unless the provider agrees to—
 
 &emsp;&emsp;(A) submit reports on quality measures adopted by the Federal Government (by not later than 90 days after the date on which such measures are adopted), to—
 
@@ -90,7 +90,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (1) Combined financial administration
 
-&emsp;An eligible entity may (as a convenience and to avoid unnecessary administrative costs)combine, in accordance with applicable State law, the financial administration of a Loan Fund established under this subsection with the financial administration of any other revolving fund established by the entity if otherwise not prohibited by the law under which the Loan Fund was established.
+&emsp;An eligible entity may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with applicable State law, the financial administration of a Loan Fund established under this subsection with the financial administration of any other revolving fund established by the entity if otherwise not prohibited by the law under which the Loan Fund was established.
 
 #### (2) Cost of administering fund
 

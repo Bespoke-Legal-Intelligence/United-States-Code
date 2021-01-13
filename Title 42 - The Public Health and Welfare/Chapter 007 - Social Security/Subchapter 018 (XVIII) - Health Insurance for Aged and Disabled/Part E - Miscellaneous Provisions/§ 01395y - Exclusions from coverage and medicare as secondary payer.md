@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of this subchapter, no payment may be made under part A or part B for any expenses incurred for items or services—
 
-&emsp;(1)(A) which, except for items and services described in a succeeding subparagraph or additional preventive services (as described in section 1395x(ddd)(1) of this title), are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member,
+&emsp;(1)(A) which, except for items and services described in a succeeding subparagraph or additional preventive services (as described insection 1395x(ddd)(1) of this title), are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member,
 
 &emsp;(B) in the case of items and services described in section 1395x(s)(10) of this title, which are not reasonable and necessary for the prevention of illness,
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;(9) where such expenses are for custodial care (except, in the case of hospice care, as is otherwise permitted under paragraph (1)(C));
 
-&emsp;(10) where such expenses are for cosmetic surgery or are incurred in connection therewith, except as required for the prompt repair of accidental injury or for improvement of the functioning of a malformed body member;
+&emsp;(10) where such expenses are for cosmetic surgery or are incurred in connection therewith, except as required for the prompt repairof accidental injury or for improvement of the functioning of a malformed body member;
 
 &emsp;(11) where such expenses constitute charges imposed by immediate relatives of such individual or members of his household;
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;(25) not later than January 1, 2014, for which the payment is other than by electronic funds transfer (EFT) or an electronic remittance in a form as specified in ASC X12 835 Health Care Payment and Remittance Advice or subsequent standard.
 
-> Paragraph (7) shall not apply to Federally qualified health center services described in section 1395x(aa)(3)(B) of this title. In making a national coverage determination (as defined in paragraph (1)(B) of section 1395ff(f) of this title) the Secretary shall ensure consistent with subsection (l) that the public is afforded notice and opportunity to comment prior to implementation by the Secretary of the determination; meetings of advisory committees with respect to the determination are made on the record; in making the determination, the Secretary has considered applicable information (including clinical experience and medical, technical, and scientific evidence) with respect to the subject matter of the determination; and in the determination, provide a clear statement of the basis for the determination (including responses to comments received from the public), the assumptions underlying that basis, and make available to the public the data (other than proprietary data) considered in making the determination.
+> Paragraph (7) shall not apply to Federally qualified health center services described in section 1395x(aa)(3)(B) of this title. In making a national coverage determination (as defined in paragraph\(1)(B) of section 1395ff(f) of this title) the Secretary shall ensure consistent with subsection (l) that the public is afforded notice and opportunity to comment prior to implementation by the Secretary of the determination; meetings of advisory committees with respect to the determination are made on the record; in making the determination, the Secretary has considered applicable information (including clinical experience and medical, technical, and scientific evidence) with respect to the subject matter of the determination; and in the determination, provide a clear statement of the basis for the determination (including responses to comments received from the public), the assumptions underlying that basis, and make available to the public the data (other than proprietary data) considered in making the determination.
 
 #### (b) Medicare as secondary payer
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;&emsp;&emsp;(ii) may not differentiate in the benefits it provides between individuals having end stage renal disease and other individuals covered by such plan on the basis of the existence of end stage renal disease, the need for renal dialysis, or in any other manner;
 
-> &emsp;&emsp;except that clause (ii) shall not prohibit a plan from paying benefits secondary to this subchapter when an individual is entitled to or eligible for benefits under this subchapter under section 426–1 of this title after the end of the 12-month period described in clause (i). Effective for items and services furnished on or after February 1, 1991, and before August 5, 1997,<sup>2</sup> (with respect to periods beginning on or after February 1, 1990), this subparagraph shall be applied by substituting "18-month" for "12-month" each place it appears. Effective for items and services furnished on or after August 5, 1997,<sup>2</sup> (with respect to periods beginning on or after the date that is 18 months prior to August 5, 1997), clauses (i) and (ii) shall be applied by substituting "30-month" for "12-month" each place it appears.
+> &emsp;&emsp;except that clause (ii) shall not prohibit a plan from paying benefits secondary to this subchapter when an individual is entitled to or eligible for benefits under this subchapter under section 426–1 of this title after the end of the 12-month period described in clause\(i). Effective for items and services furnished on or after February 1, 1991, and before August 5, 1997,<sup>2</sup> (with respect to periods beginning on or after February 1, 1990), this subparagraph shall be applied by substituting "18-month" for "12-month" each place it appears. Effective for items and services furnished on or after August 5, 1997,<sup>2</sup> (with respect to periods beginning on or after the date that is 18 months prior to August 5, 1997), clauses (i) and (ii) shall be applied by substituting "30-month" for "12-month" each place it appears.
 
 #### (D) Treatment of certain members of religious orders
 
@@ -224,7 +224,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (II) Secretarial providing access to claims information through a website
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall maintain and make available to individuals to whom items and services are furnished under this subchapter (and to authorized family or other representatives recognized under regulations and to an applicable plan which has obtained the consent of the individual) access to information on the claims for such items and services\(including payment amounts for such claims), including those claims that relate to a potential settlement, judgment, award, or other payment. Such access shall be provided to an individual, representative, or plan through a website that requires a password to gain access to the information. The Secretary shall update the information on claims and payments on such website in as timely a manner as possible but not later than 15 days after the date that payment is made. Information related to claims and payments subject to the notice under subclause (I) shall be maintained and made available consistent with the following:
+&emsp;&emsp;&emsp;&emsp;The Secretary shall maintain and make available to individuals to whom items and services are furnished under this subchapter (and to authorized family or other representatives recognized under regulations and to an applicable plan which has obtained the consent of the individual) access to information on the claims for such items and services (including payment amounts for such claims), including those claims that relate to a potential settlement, judgment, award, or other payment. Such access shall be provided to an individual, representative, or plan through a website that requires a password to gain access to the information. The Secretary shall update the information on claims and payments on such website in as timely a manner as possible but not later than 15 days after the date that payment is made. Information related to claims and payments subject to the notice under subclause (I) shall be maintained and made available consistent with the following:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) The information shall be as complete as possible and shall include provider or supplier name, diagnosis codes (if any), dates of service, and conditional payment amounts.
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) The website provides a method for the receipt of secure electronic communications with the individual, representative, or plan involved.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) The website provides that information is transmitted from the website in a form that includes an official time and date that the information is transmitted.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) The website provides that information is transmitted from thewebsite in a form that includes an official time and date that the information is transmitted.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) The website shall permit the individual, representative, or plan to download a statement of reimbursement amounts (in this clause referred to as a "statement of reimbursement amount") on payments for claims under this subchapter relating to a potential settlement, judgment, award, or other payment.
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (VI) Effective date
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall promulgate final regulations to carry out this clause notlater than 9 months after January 10, 2013.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall promulgate final regulations to carry out this clause not later than 9 months after January 10, 2013.
 
 #### (VII) Website including successor technology
 
@@ -310,7 +310,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (B) Disclosure to fiscal intermediaries and carriers
 
-&emsp;&emsp;In addition to any other information provided under this subchapter to fiscal intermediaries and carriers, the Administratorshall disclose to such intermediaries and carriers (or to such a single intermediary or carrier as the Secretary may designate) the information received under subparagraph (A) for purposes of carrying out this subsection.
+&emsp;&emsp;In addition to any other information provided under this subchapter to fiscal intermediaries and carriers, the Administrator shall disclose to such intermediaries and carriers (or to such a single intermediary or carrier as the Secretary may designate) the information received under subparagraph (A) for purposes of carrying out this subsection.
 
 #### (C) Contacting employers
 
@@ -320,7 +320,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (ii) Employer response
 
-&emsp;&emsp;&emsp;Within 30 days of the date of receipt of the inquiry, the employer shall notify the intermediary or carrier making the inquiry as to the determinations described in clause (i). An employer (other than a Federal or other governmental entity) who willfully or repeatedly fails to provide timely and accurate notice in accordance with the previous sentence shall be subject to a civil money penalty of not to exceed $1,000 for each individual with respect to which such an inquiry is made. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;&emsp;Within 30 days of the date of receipt of the inquiry, the employer shall notify the intermediary or carrier making the inquiry as to the determinations described in clause (i). An employer (other than a Federal or other governmental entity) who willfully or repeatedly fails to providetimely and accurate notice in accordance with the previous sentence shall be subject to a civil money penalty of not to exceed $1,000 for each individual with respect to which such an inquiry is made. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (D) Obtaining information from beneficiaries
 
@@ -362,7 +362,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (ii) Deposit of amounts collected
 
-&emsp;&emsp;&emsp;Any amounts collected pursuant to clause (i) shall be deposited in the FederalHospital Insurance Trust Fund under section 1395i of this title.
+&emsp;&emsp;&emsp;Any amounts collected pursuant to clause (i) shall be deposited in the Federal Hospital Insurance Trust Fund under section 1395i of this title.
 
 #### (C) Sharing of information
 
@@ -382,7 +382,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (A) Requirement
 
-&emsp;&emsp;On and after the first day of the first calendar quarter beginning after the date that is 18 months after December 29, 2007, an applicable plan shall—
+&emsp;&emsp;On and after the first day of the first calendar quarter beginning after the date thatis 18 months after December 29, 2007, an applicable plan shall—
 
 &emsp;&emsp;&emsp;(i) determine whether a claimant (including an individual whose claim is unresolved) is entitled to benefits under the program under this subchapter on any basis; and
 
@@ -432,11 +432,21 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (G) Sharing of information
 
-&emsp;&emsp;The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may share information collected under this paragraph as necessary for purposes of the proper coordination of benefits.
+
+#### (ii) Specified information
+
+&emsp;&emsp;&emsp;In responding to any query made on or after the date that is 1 year after December 11, 2020, from an applicable plan related to a determination described in subparagraph (A)(i), the Secretary, notwithstanding any other provision of law, shall provide to such applicable plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) whether a claimant subject to the query is, or during the preceding 3-year period has been, entitled to benefits under the program under this subchapter on any basis; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to the extent applicable, the plan name and address of any Medicare Advantage plan under part C and any prescription drug plan under part D in which the claimant is enrolled or has been enrolled during such period.
 
 #### (H) Implementation
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may implement thisparagraph by program instruction or otherwise.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may implement this paragraph by program instruction or otherwise.
 
 #### (I) Regulations
 
@@ -484,7 +494,7 @@ No payment may be made under part B for any expenses incurred for—
 
 &emsp;&emsp;(B) which may be dispensed only upon prescription,
 
-&emsp;&emsp;(C) for which the Secretary has issued a notice of an opportunity for a hearing under subsection (e) of section 355 of title 21 on a proposed order of the Secretary to withdraw approval of an application for such drugproduct under such section because the Secretary has determined that the drug is less than effective for all conditions of use prescribed, recommended, or suggested in its labeling, and
+&emsp;&emsp;(C) for which the Secretary has issued a notice of an opportunity for a hearing under subsection (e) of section 355 of title 21 on a proposed order of the Secretary to withdraw approval of an application for such drug product under such section because the Secretary has determined that the drug is less than effective for all conditions of use prescribed, recommended, or suggested in its labeling, and
 
 &emsp;&emsp;(D) for which the Secretary has not determined there is a compelling justification for its medical need; and
 
@@ -538,7 +548,7 @@ The Secretary shall, in making the determinations under paragraphs (1) and (9) o
 
 #### (i) Awards and contracts for original research and experimentation of new and existing medical procedures; conditions
 
-In order to supplement the activities of the Medicare Payment Advisory Commission under section 1395ww(e) of this title in assessing thesafety, efficacy, and cost-effectiveness of new and existing medical procedures, the Secretary may carry out, or award grants or contracts for, original research and experimentation of the type described in clause (ii) of section 1395ww(e)(6)(E) of this title with respect to such a procedure if the Secretary finds that—
+In order to supplement the activities of the Medicare Payment Advisory Commission under section 1395ww(e) of this title in assessing the safety, efficacy, and cost-effectiveness of new and existing medical procedures, the Secretary may carry out, or award grants or contracts for, original research and experimentation of the type described in clause (ii) of section 1395ww(e)(6)(E) of this title with respect to such a procedure if the Secretary finds that—
 
 &emsp;(1) such procedure is not of sufficient commercial value to justify research and experimentation by a commercial organization;
 
@@ -610,7 +620,7 @@ In order to supplement the activities of the Medicare Payment Advisory Commissio
 
 #### (B) Consultation
 
-&emsp;&emsp;The Secretary shall require the fiscal intermediaries or carriers providing services within the same area to consult on all new local coverage determinations within the area.
+&emsp;&emsp;The Secretary shall require the fiscal intermediaries or carriers providing serviceswithin the same area to consult on all new local coverage determinations within the area.
 
 #### (C) Dissemination of information
 
@@ -680,13 +690,13 @@ In order to supplement the activities of the Medicare Payment Advisory Commissio
 
 #### (3) Promulgation of regulations
 
-&emsp;The Secretary shall promulgate regulations to carry out this subsection, section1395w–112(b)(7) of this section (including as applied pursuant to section 1395w–27(f)(3)(D) of this title), and section 1396b(i)(2)(C) of this title.
+&emsp;The Secretary shall promulgate regulations to carry out this subsection, section 1395w–112(b)(7) of this section (including as applied pursuant to section 1395w–27(f)(3)(D) of this title), and section 1396b(i)(2)(C) of this title.
 
 #### (4) Credible allegation of fraud
 
 &emsp;In carrying out this subsection, section 1395w–112(b)(7) of this title (including as applied pursuant to section 1395w–27(f)(3)(D) of this title), and section 1396b(i)(2)(C) of this title, a fraud hotline tip (as defined by the Secretary) without further evidence shall not be treated as sufficient evidence for a credible allegation of fraud.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1862, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 325; amended Pub. L. 90–248, title I, §§127(b), 128, Jan. 2, 1968, 81 Stat. 846, 847; Pub. L. 92–603, title II, §§210, 211(c)(1), 229(a), 256(c), Oct. 30, 1972, 86 Stat. 1382, 1384, 1408, 1447; Pub. L. 93–233, §18(k)(3), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–480, §4(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–182, title I, §103, Dec. 31, 1975, 89 Stat. 1051; Pub. L. 95–142, §§7(a), 13(a), (b)(1), (2), Oct. 25, 1977, 91 Stat. 1192, 1197, 1198; Pub. L. 95–210, §1(f), Dec. 13, 1977, 91 Stat. 1487; Pub. L. 96–272, title III, §308(a), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§913(b), 936(c), 939(a), 953, Dec. 5, 1980, 94 Stat. 2620, 2640, 2647; Pub. L. 96–611, §1(a)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2103(a)(1), 2146(a), 2152(a), Aug. 13, 1981, 95 Stat. 787, 800, 802; Pub. L. 97–248, title I, §§116(b), 122(f), (g)(1), 128(a)(2)–(4), 142, 148(a), Sept. 3, 1982, 96 Stat. 353, 362, 366, 381, 394; Pub. L. 97–448, title III, §309(b)(10), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(f), 602(e), Apr. 20, 1983, 97 Stat. 162, 163; Pub. L. 98–369, div. B, title III, §§2301(a), 2304(c), 2313(c), 2344(a)–(c), 2354(b)(30), (31), July 18, 1984, 98 Stat. 1063, 1068, 1078, 1095, 1101, 1102; Pub. L. 99–272, title IX, §§9201(a), 9307(a), 9401(c)(1), Apr. 7, 1986, 100 Stat. 170, 193, 199; Pub. L. 99–509, title IX, §§9316(b), 9319(a), (b), 9320(h)(1), 9343(c)(1), Oct. 21, 1986, 100 Stat. 2007, 2010, 2011, 2016, 2040; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–93, §§8(c)(1), (3), 10, Aug. 18, 1987, 101 Stat. 692, 693, 696; Pub. L. 100–203, title IV, §§4009(j)(6)(C), 4034(a), 4036(a)(1), 4039(c)(1), 4072(c), 4085(i)(15), (16), Dec. 22, 1987, 101 Stat. 1330–59, 1330–77, 1330–79, 1330–82, 1330–117, 1330–133; Pub. L. 100–360, title II, §§202(d), 204(d)(2), 205(e)(1), title IV, §411(f)(4)(D)(i), (i)(4)(D), July 1, 1988, 102 Stat. 715, 729, 731, 778, 790; Pub. L. 100–485, title VI, §608(d)(7), (24)(C), Oct. 13, 1988, 102 Stat. 2415, 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xi), 6103(b)(3)(B), 6115(b), 6202(a)(2)(A), (b)(1), (e)(1), 6411(d)(2), Dec. 19, 1989, 103 Stat. 2154, 2199, 2219, 2228, 2229, 2234, 2271; Pub. L. 101–508, title IV, §§4107(b), 4153(b)(2)(B), 4157(c)(1), 4161(a)(3)(C), 4163(d)(2), 4203(a)(1), (b), (c)(1), 4204(g)(1), Nov. 5, 1990, 104 Stat. 1388–62, 1388–84, 1388–89, 1388–94, 1388–100, 1388–107, 1388–112; Pub. L. 103–66, title XIII, §§13561(a)(1), (b)–(d)(1), (e)(1), 13581(b)(1), Aug. 10, 1993, 107 Stat. 593, 594, 611; Pub. L. 103–432, title I, §§145(c)(1), 147(e)(6), 151(a)(1)(A), (C), (2)(A), (b)(3)(A), (B), (c)(1), (4)–(6), (9)(B), 156(a)(2)(D), 157(b)(7), Oct. 31, 1994, 108 Stat. 4427, 4430, 4432–4436, 4441, 4442; Pub. L. 104–224, §1, Oct. 2, 1996, 110 Stat. 3031; Pub. L. 104–226, §1(b)(1), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 105–12, §9(a)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4022(b)(1)(B), 4102(c), 4103(c), 4104(c)(3), 4201(c)(1), 4319(b), 4432(b)(1), 4507(a)(2)(B), 4511(a)(2)(C), 4541(b), 4603(c)(2)(C), 4614(a), 4631(a)(1), (b), (c)(1), 4632(a), 4633(a), (b), Aug. 5, 1997, 111 Stat. 354, 361, 362, 365, 373, 394, 420, 441, 442, 456, 471, 474, 486, 487; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§305(b), 321(k)(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–362, 1501A–367; Pub. L. 106–554, §1(a)(6) \[title I, §102(c), title III, §313(a), title IV, §432(b)(1), title V, §522(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–499, 2763A–526, 2763A–546; Pub. L. 107–105, §3(a), Dec. 27, 2001, 115 Stat. 1006; Pub. L. 108–173, title III, §§301(a)–(c), 303(i)(3)(B), title VI, §§611(d)(1), 612(c), 613(c), title VII, §731(a)(1), (b)(1), title IX, §§900(e)(1)(J), 944(a)(1), 948(a), 950(a), Dec. 8, 2003, 117 Stat. 2221, 2222, 2254, 2304–2306, 2349, 2351, 2372, 2422, 2425, 2426; Pub. L. 109–171, title V, §5112(d), Feb. 8, 2006, 120 Stat. 44; Pub. L. 110–173, title I, §111(a), Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §§101(a)(3), (b)(3), (4), 135(a)(2)(A), 143(b)(7), 152(b)(1)(D), 153(b)(2), July 15, 2008, 122 Stat. 2497, 2498, 2535, 2543, 2552, 2555; Pub. L. 111–148, title I, §1104(d), title IV, §4103(d), title VI, §6402(g)(3), (h)(1), Mar. 23, 2010, 124 Stat. 153, 556, 759, 760; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–242, title II, §§201, 202(a), 203–205(a), Jan. 10, 2013, 126 Stat. 2375, 2378, 2380, 2381; Pub. L. 113–188, title IX, §902(d), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–10, title V, §516(a), Apr. 16, 2015, 129 Stat. 175; Pub. L. 114–255, div. A, title IV, §4009(a), Dec. 13, 2016, 130 Stat. 1185; Pub. L. 115–271, title II, §2008(c), (d), title IV, §4002, Oct. 24, 2018, 132 Stat. 3931, 3959.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1862, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 325; amended Pub. L. 90–248, title I, §§127(b), 128, Jan. 2, 1968, 81 Stat. 846, 847; Pub. L.92–603, title II, §§210, 211(c)(1), 229(a), 256(c), Oct. 30, 1972, 86 Stat. 1382, 1384, 1408, 1447; Pub. L. 93–233, §18(k)(3), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–480, §4(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–182, title I, §103, Dec. 31, 1975, 89 Stat. 1051; Pub. L. 95–142, §§7(a), 13(a), (b)(1), (2), Oct. 25, 1977, 91 Stat. 1192, 1197, 1198; Pub. L. 95–210, §1(f), Dec. 13, 1977, 91 Stat. 1487; Pub. L. 96–272, title III, §308(a), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§913(b), 936(c), 939(a), 953, Dec. 5, 1980, 94 Stat. 2620, 2640, 2647; Pub. L. 96–611, §1(a)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2103(a)(1), 2146(a), 2152(a), Aug. 13, 1981, 95 Stat. 787, 800, 802; Pub. L. 97–248, title I, §§116(b), 122(f), (g)(1), 128(a)(2)–(4), 142, 148(a), Sept. 3, 1982, 96 Stat. 353, 362, 366, 381, 394; Pub. L. 97–448, title III, §309(b)(10), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(f), 602(e), Apr. 20, 1983, 97 Stat. 162, 163; Pub. L. 98–369, div. B, title III, §§2301(a), 2304(c), 2313(c), 2344(a)–(c), 2354(b)(30), (31), July 18, 1984, 98 Stat. 1063, 1068, 1078, 1095, 1101, 1102; Pub. L. 99–272, title IX, §§9201(a), 9307(a), 9401(c)(1), Apr. 7, 1986, 100 Stat. 170, 193, 199; Pub. L. 99–509, title IX, §§9316(b), 9319(a), (b), 9320(h)(1), 9343(c)(1), Oct. 21, 1986, 100 Stat. 2007, 2010, 2011, 2016, 2040; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–93, §§8(c)(1), (3), 10, Aug. 18, 1987, 101 Stat. 692, 693, 696; Pub. L. 100–203, title IV, §§4009(j)(6)(C), 4034(a), 4036(a)(1), 4039(c)(1), 4072(c), 4085(i)(15), (16), Dec. 22, 1987, 101 Stat. 1330–59, 1330–77, 1330–79, 1330–82, 1330–117, 1330–133; Pub. L. 100–360, title II, §§202(d), 204(d)(2), 205(e)(1), title IV, §411(f)(4)(D)(i), (i)(4)(D), July 1, 1988, 102 Stat. 715, 729, 731, 778, 790; Pub. L. 100–485, title VI, §608(d)(7), (24)(C), Oct. 13, 1988, 102 Stat. 2415, 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xi), 6103(b)(3)(B), 6115(b), 6202(a)(2)(A), (b)(1), (e)(1), 6411(d)(2), Dec. 19, 1989, 103 Stat. 2154, 2199, 2219, 2228, 2229, 2234, 2271; Pub. L. 101–508, title IV, §§4107(b), 4153(b)(2)(B), 4157(c)(1), 4161(a)(3)(C), 4163(d)(2), 4203(a)(1), (b), (c)(1), 4204(g)(1), Nov. 5, 1990, 104 Stat. 1388–62, 1388–84, 1388–89, 1388–94, 1388–100, 1388–107, 1388–112; Pub. L. 103–66, title XIII, §§13561(a)(1), (b)–(d)(1), (e)(1), 13581(b)(1), Aug. 10, 1993, 107 Stat. 593, 594, 611; Pub. L. 103–432, title I, §§145(c)(1), 147(e)(6), 151(a)(1)(A), (C), (2)(A), (b)(3)(A), (B), (c)(1), (4)–(6), (9)(B), 156(a)(2)(D), 157(b)(7), Oct. 31, 1994, 108 Stat. 4427, 4430, 4432–4436, 4441, 4442; Pub. L. 104–224, §1, Oct. 2, 1996, 110 Stat. 3031; Pub. L. 104–226, §1(b)(1), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 105–12, §9(a)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4022(b)(1)(B), 4102(c), 4103(c), 4104(c)(3), 4201(c)(1), 4319(b), 4432(b)(1), 4507(a)(2)(B), 4511(a)(2)(C), 4541(b), 4603(c)(2)(C), 4614(a), 4631(a)(1), (b), (c)(1), 4632(a), 4633(a), (b), Aug. 5, 1997, 111 Stat. 354, 361, 362, 365, 373, 394, 420, 441, 442, 456, 471, 474, 486, 487; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§305(b), 321(k)(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–362, 1501A–367; Pub. L. 106–554, §1(a)(6) \[title I, §102(c), title III, §313(a), title IV, §432(b)(1), title V, §522(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–499, 2763A–526, 2763A–546; Pub. L. 107–105, §3(a), Dec. 27, 2001, 115 Stat. 1006; Pub. L. 108–173, title III, §§301(a)–(c), 303(i)(3)(B), title VI, §§611(d)(1), 612(c), 613(c), title VII, §731(a)(1), (b)(1), title IX, §§900(e)(1)(J), 944(a)(1), 948(a), 950(a), Dec. 8, 2003, 117 Stat. 2221, 2222, 2254, 2304–2306, 2349, 2351, 2372, 2422, 2425, 2426; Pub. L. 109–171, title V, §5112(d), Feb. 8, 2006, 120 Stat. 44; Pub. L. 110–173, title I, §111(a), Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §§101(a)(3), (b)(3), (4), 135(a)(2)(A), 143(b)(7), 152(b)(1)(D), 153(b)(2), July 15, 2008, 122 Stat. 2497, 2498, 2535, 2543, 2552, 2555; Pub. L. 111–148, title I, §1104(d), title IV, §4103(d), title VI, §6402(g)(3), (h)(1), Mar. 23, 2010, 124 Stat. 153, 556, 759, 760; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–242, title II, §§201, 202(a), 203–205(a), Jan. 10, 2013, 126 Stat. 2375, 2378, 2380, 2381; Pub. L. 113–188, title IX, §902(d), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–10, title V, §516(a), Apr. 16, 2015, 129 Stat. 175; Pub. L. 114–255, div. A, title IV, §4009(a), Dec. 13, 2016, 130 Stat. 1185; Pub. L. 115–271, title II, §2008(c), (d), title IV, §4002, Oct. 24, 2018, 132 Stat. 3931, 3959; Pub. L. 116–215, div. B, title III, §1301, Dec. 11, 2020, 134 Stat. 1045.)
 
 #### References in Text
 
@@ -702,9 +712,11 @@ Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (c)(1)(
 
 Section 1314(i) of this title, which was transferred and redesignated as subsec. (j) of this section by Pub. L. 108–173, was based on act Aug. 14, 1935, ch. 531, title XI, §1114(i), as added Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546.
 
-Amendments by section 301(a) to (c) of Pub. L. 108–173 were executed to this section as it read on the date of enactment of Pub. L. 108–173 to reflect the probable intent of Congress, notwithstanding section 301(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note below, which provided that the amendments by section 301(a) of Pub. L. 108–173 be effective as if included in the enactment of title III of Pub. L. 98–369 and that the amendments by section 301(b), (c) of Pub. L. 108–173 be effective as if included in the enactment of section 953 of Pub. L. 96–499. The amendments by section 301(a) are incapable of being executed to this section as it read on the effective date of title III of Pub.L. 98–369, and the amendments by section 301(b), (c) are incapable of being executed to this section as it read on the effective date of section 953 of Pub. L. 96–499. See 2003 Amendment notes below.
+Amendments by section 301(a) to (c) of Pub. L. 108–173 were executed to this section as it read on the date of enactment of Pub. L. 108–173 to reflect the probable intent of Congress, notwithstanding section 301(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note below, which provided that the amendments by section 301(a) of Pub. L. 108–173 be effective as if included in the enactment of title III of Pub. L. 98–369 and that the amendments by section 301(b), (c) of Pub. L. 108–173 be effective as if included in the enactment of section 953 of Pub. L. 96–499. The amendments by section 301(a) are incapable of being executed to this section as it read on the effective date of title III of Pub. L. 98–369, and the amendments by section 301(b), (c) are incapable of being executed to this section as it read on the effective date of section 953 of Pub. L. 96–499. See 2003 Amendment notes below.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(8)(G). Pub. L. 116–215 inserted clause (i) designation and heading and added clause (ii).
 
 <b>2018</b>—Subsec. (b)(7)(A)(i). Pub. L. 115–271, §4002, amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been a primary plan to the program under this subchapter; and".
 
@@ -786,7 +798,7 @@ Subsec. (b)(2)(B)(ii). Pub. L. 108–173, §301(b)(2), substituted "A primary pl
 
 Pub. L. 108–173, §301(a)(2)(A), redesignated cl. (i) as (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (b)(2)(B)(iii). Pub. L. 108–173, §301(b)(3), substituted "In order to recover payment made under this subchapter for an item or service, the United States may bring an action against any or all entities that are or were required or responsible (directly, as an insurer or self-insurer, as a third-party administrator, as an employer that sponsors or contributes to a group health plan, or large group health plan, or otherwise) to make payment with respect to the same item or service (or any portion thereof) under a primary plan. The United States may, in accordance with paragraph (3)(A) collect double damages against any such entity. In addition, the United States may recover under this clause from any entity that has received payment from a primary plan or from the proceeds of a primary plan's payment to any entity." for "In order to recover payment under this subchapter for such an item or service, the United States may bring an action against any entity which is required or responsible (directly, as athird-party administrator, or otherwise) to make payment with respect to such item or service (or any portion thereof) under a primary plan (and may, in accordance with paragraph (3)(A) collect double damages against that entity), or against any other entity (including any physician or provider) that has received payment from that entity with respect to the item or service, and may join or intervene in any action related to the events that gave rise to the need for the item or service."
+Subsec. (b)(2)(B)(iii). Pub. L. 108–173, §301(b)(3), substituted "In order to recover payment made under this subchapter for an item or service, the United States may bring an action against any or all entities that are or were required or responsible (directly, as an insurer or self-insurer, as a third-party administrator, as an employer that sponsors or contributes to a group health plan, or large group health plan, or otherwise) to make payment with respect to the same item or service (or any portion thereof) under a primary plan. The United States may, in accordance with paragraph (3)(A) collect double damages against any such entity. In addition, the United States may recover under this clause from any entity that has received payment from a primary plan or from the proceeds of a primary plan's payment to any entity." for "In order to recover payment under this subchapter for such an item or service, the United States may bring an action against any entity which is required or responsible (directly, as a third-party administrator, or otherwise) to make payment with respect to such item or service (or any portion thereof) under a primary plan (and may, in accordance with paragraph (3)(A) collect double damages against that entity), or against any other entity (including any physician or provider) that has received payment from that entity with respect to the item or service, and may join or intervene in any action related to the events that gave rise to the need for the item or service."
 
 Pub. L. 108–173, §301(a)(2)(A), redesignated cl. (ii) as (iii). Former cl. (iii) redesignated (iv).
 
@@ -1034,7 +1046,7 @@ Pub. L. 100–203, §4009(j)(6)(C), made technical amendment to Pub. L. 99–509
 
 Subsec. (b)(2)(A)(ii). Pub. L. 100–203, §4036(a)(1), substituted "can reasonably be expected to be made under such a plan" for "the Secretary determines will be made under such a plan as promptly as would otherwise be the case if payment were made by the Secretary under this subchapter".
 
-Subsec. (b)(4)(B)(i). Pub. L. 100–203, §4034(a), substituted "subsection (b) of section 5000 of the InternalRevenue Code of 1986 without regard to subsection (d) of such section" for "section 5000(b) of the Internal Revenue Code of 1986".
+Subsec. (b)(4)(B)(i). Pub. L. 100–203, §4034(a), substituted "subsection (b) of section 5000 of the Internal Revenue Code of 1986 without regard to subsection (d) of such section" for "section 5000(b) of the Internal Revenue Code of 1986".
 
 Subsec. (d). Pub. L. 100–93, §8(c)(1)(A), struck out subsec. (d), which provided that no payment be made under this subchapter for any item or services to an individual by a person where Secretary determines such person knowingly and willfully made any false statement or representation of a material fact, submitted excessive bills or requests, or furnished excessive services or supplies, and provided a dissatisfied person with a hearing on determination of the Secretary.
 
@@ -1198,7 +1210,7 @@ Amendment by section 4103(d) of Pub. L. 111–148 applicable to services furnish
 
 Amendment by section 101(a)(3), (b)(3), (4) of Pub. L. 110–275 applicable to services furnished on or after Jan. 1, 2009, see section 101(c) of Pub. L. 110–275, set out as a note under section 1395l of this title.
 
-Pub. L. 110–275, title I, §135(a)(2)(B), July 15, 2008, 122 Stat. 2535, provided that: "The amendments made bythis paragraph \[amending this section\] shall apply to advanced diagnostic imaging services furnished on or after January 1, 2012."
+Pub. L. 110–275, title I, §135(a)(2)(B), July 15, 2008, 122 Stat. 2535, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to advanced diagnostic imaging services furnished on or after January 1, 2012."
 
 Amendment by section 143(b)(7) of Pub. L. 110–275 applicable to services furnished on or after July 1, 2009, see section 143(c) of Pub. L. 110–275, set out as a note under section 1395k of this title.
 
@@ -1206,7 +1218,7 @@ Amendment by section 152(b)(1)(D) of Pub. L. 110–275 applicable to services fu
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5112(f) of Pub. L. 109–171, set out as a note under section 1395l of this title.
+Amendment by Pub. L. 109–171 applicable to services furnished on or after Jan. 1, 2007, see section 5112(f) ofPub. L. 109–171, set out as a note under section 1395l of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -1268,13 +1280,13 @@ Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furni
 
 Amendment by section 4432(b)(1) of Pub. L. 105–33 applicable to items and services furnished on or after July 1, 1998, see section 4432(d) of Pub. L. 105–33, set out as a note under section 1395i–3 of this title.
 
-Amendment by section 4507(a)(2)(B) of Pub. L. 105–33 applicable with respect to contracts entered into onand after Jan. 1, 1998, see section 4507(c) of Pub. L. 105–33, set out as a note under section 1395a of this title.
+Amendment by section 4507(a)(2)(B) of Pub. L. 105–33 applicable with respect to contracts entered into on and after Jan. 1, 1998, see section 4507(c) of Pub. L. 105–33, set out as a note under section 1395a of this title.
 
 Amendment by section 4511(a)(2)(C) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
 
 Amendment by section 4541(b) of Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, including portions of cost reporting periods occurring on or after such date, see section 4541(e) of Pub. L. 105–33, set out as a note under section 1395l of this title.
 
-Amendment by section 4603(c)(2)(C) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
+Amendment by section 4603(c)(2)(C) of Pub. L. 105–33 applicable to cost reporting periods beginning on orafter Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
 Pub. L. 105–33, title IV, §4614(c), Aug. 5, 1997, 111 Stat. 475, provided that: "The amendments made by this section \[amending this section\] apply to services furnished on or after October 1, 1997."
 
@@ -1346,7 +1358,7 @@ Amendment by section 204(d)(2) of Pub. L. 100–360 applicable to screening mamm
 
 Amendment by section 205(e)(1) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 205(f) of Pub. L. 100–360, set out as a note under section 1395k of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(i)(4)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(i)(4)(D) of Pub. L.100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 Pub. L. 100–360, title IV, §411(f)(4)(D)(ii), July 1, 1988, 102 Stat. 778, provided that: "The amendment made by clause (i) \[amending this section\] shall apply to operations performed on or after 60 days after the date of the enactment of this Act \[July 1, 1988\]."
 
@@ -1486,7 +1498,7 @@ Pub. L. 103–432, title I, §151(a)(1)(B), Oct. 31, 1994, 108 Stat. 4433, provi
 
 #### Retroactive Exemption for Certain Situations Involving Religious Orders
 
-Pub. L. 103–66, title XIII, §13561(f), Aug. 10, 1993, 107 Stat. 595, provided that: "Section 1862(b)(1)(D) of the Social Security Act \[42 U.S.C. 1395y(b)(1)(D)\] applies, with respect to items and services furnished before October 1, 1989, to any claims that the Secretary of Health and Human Services had not identified as of that date as subject to the provisions of section 1862(b) of such Act."
+Pub. L. 103–66, title XIII, §13561(f), Aug. 10, 1993, 107 Stat. 595, provided that: "Section 1862(b)(1)(D) of theSocial Security Act \[42 U.S.C. 1395y(b)(1)(D)\] applies, with respect to items and services furnished before October 1, 1989, to any claims that the Secretary of Health and Human Services had not identified as of that date as subject to the provisions of section 1862(b) of such Act."
 
 #### GAO Study of Extension of Secondary Payer Period
 
@@ -1546,7 +1558,7 @@ Pub. L. 99–272, title IX, §9205, Apr. 7, 1986, 100 Stat. 178, as amended by P
 
 #### Recommendations and Guidelines for Elimination of Assistants at Surgery; Report to Congress
 
-Pub. L. 99–272, title IX, §9307(d), Apr. 7, 1986, 100 Stat. 194, provided that the Secretary of Health and Human Services, after consultation with the Physician Payment Review Commission, develop recommendations and guidelines respecting other surgical procedures for which an assistant at surgery was generally not medically necessary and circumstances under which use of an assistant at surgery was generally appropriate but should be subject to prior approval of an appropriate entity and that the Secretary report to Congress, not later than January 1, 1987, on these recommendations and guidelines.
+Pub. L. 99–272, title IX, §9307(d), Apr. 7, 1986, 100 Stat. 194, provided that the Secretary of Health and HumanServices, after consultation with the Physician Payment Review Commission, develop recommendations and guidelines respecting other surgical procedures for which an assistant at surgery was generally not medically necessary and circumstances under which use of an assistant at surgery was generally appropriate but should be subject to prior approval of an appropriate entity and that the Secretary report to Congress, not later than January 1, 1987, on these recommendations and guidelines.
 
 #### Pacemaker Reimbursement Review and Reform; Promulgation of Regulations; Effective Date of Pacemaker Registration
 

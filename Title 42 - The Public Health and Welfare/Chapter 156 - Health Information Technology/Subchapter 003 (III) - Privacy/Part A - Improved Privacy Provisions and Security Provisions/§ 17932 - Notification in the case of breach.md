@@ -26,7 +26,7 @@ For purposes of this section, a breach shall be treated as discovered by a cover
 
 #### (1) Individual notice
 
-&emsp;Notice required under this section to be provided to an individual, with respect to abreach, shall be provided promptly and in the following form:
+&emsp;Notice required under this section to be provided to an individual, with respect to a breach, shall be provided promptly and in the following form:
 
 &emsp;&emsp;(A) Written notification by first-class mail to the individual (or the next of kin of the individual if the individual is deceased) at the last known address of the individual or the next of kin, respectively, or, if specified as a preference by the individual, by electronic mail. The notification may be provided in one or more mailings as information is available.
 
@@ -74,7 +74,7 @@ If a law enforcement official determines that a notification, notice, or posting
 
 #### (B) Exception in case timely guidance not issued
 
-&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term "unsecured protected health information" shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
+&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term "unsecured protected health information" shall mean protected health information that is not secured by a technology standard that renders protected health information unusable,unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
 #### (2) Guidance
 

@@ -4,6 +4,8 @@ Whenever the President is satisfied that forcible opposition has been offered, o
 
 (R.S. §2413.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2413 derived from act May 29, 1830, ch. 163, §2, 4 Stat. 417.

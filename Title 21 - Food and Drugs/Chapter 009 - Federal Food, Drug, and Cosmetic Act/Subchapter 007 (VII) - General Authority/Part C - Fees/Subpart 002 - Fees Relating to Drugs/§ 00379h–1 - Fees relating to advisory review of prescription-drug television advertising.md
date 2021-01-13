@@ -36,7 +36,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Late payment
 
-&emsp;&emsp;&emsp;If a person has submitted a notification under subparagraph (C) with respect to a fiscal year and has not paid all advisory review fees due under subparagraph (D) not later than November 1 of such fiscal year (or, in the case of such a notification submitted with respect to fiscal year 2008, notlater than 150 days after September 27, 2007, or an earlier date specified by the Secretary), the fees shall be regarded as late and an increase in the amount of fees applies in accordance with this clause, notwithstanding any other provision of this section. For such person, all advisory review fees for such fiscal year shall be due and payable 20 days before any direct-to-consumer advertisement is submitted to the Secretary for advisory review, and each such fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
+&emsp;&emsp;&emsp;If a person has submitted a notification under subparagraph (C) with respect to a fiscal year and has not paid all advisory review fees due under subparagraph (D) not later than November 1 of such fiscal year\(or, in the case of such a notification submitted with respect to fiscal year 2008, not later than 150 days after September 27, 2007, or an earlier date specified by the Secretary), the fees shall be regarded as late and an increase in the amount of fees applies in accordance with this clause, notwithstanding any other provision of this section. For such person, all advisory review fees for such fiscal year shall be due and payable 20 days before any direct-to-consumer advertisement is submitted to the Secretary for advisory review, and each such fee shall be equal to 150 percent of the fee that otherwise would have applied pursuant to subsection (c)(3).
 
 #### (ii) Exceeding identified number of submissions
 
@@ -104,7 +104,7 @@ Fees under subsection (a)(1) shall be established to generate revenue amounts of
 
 #### (1) Inflation adjustment
 
-&emsp;Beginning with fiscal year 2009, the revenues established in subsection (b) shall be adjustedby the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
+&emsp;Beginning with fiscal year 2009, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
 
 &emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; U.S. city average), for the 12-month period ending June 30 preceding the fiscal year for which fees are being established;
 
@@ -152,7 +152,7 @@ Fees under subsection (a)(1) shall be established to generate revenue amounts of
 
 #### (3) Use of operating reserve
 
-&emsp;The Secretary may use funds from the reserves only to the extent necessary in any fiscal year to make up the difference between the fee revenue amount established for that fiscal year under subsections (b) and (c) and the amount of fees actually collected for that fiscal year pursuant to subsection (a)(1), or to pay costs of ending the program under this section if it is terminated pursuant to subsection (f) or not reauthorized beyond fiscal year 2012.
+&emsp;The Secretary may use funds from the reserves only to the extent necessary in any fiscal year to make up the difference between the fee revenue amount established for that fiscal year under subsections (b) and (c) and the amount of fees actually collected for that fiscal year pursuant to subsection (a)(1), or topay costs of ending the program under this section if it is terminated pursuant to subsection (f) or not reauthorized beyond fiscal year 2012.
 
 #### (4) Refund of operating reserves
 
@@ -214,7 +214,7 @@ For purposes of this section:
 
 &emsp;(3) The term "carry over submission" means a submission for an advisory review for which a fee was paid in one fiscal year that is submitted for review in the following fiscal year.
 
-&emsp;(4) The term "direct-to-consumer television advertisement" means an advertisement for a prescription drug product (as defined in section 379g(3) of this title) intended to be displayed on any television channel for less than 3 minutes.
+&emsp;(4) The term "direct-to-consumer television advertisement" means an advertisement for aprescription drug product (as defined in section 379g(3) of this title) intended to be displayed on any television channel for less than 3 minutes.
 
 &emsp;(5) The term "DTC advertisement" has the meaning indicated for such term in subsection (a)(1)(A).
 
@@ -241,6 +241,8 @@ For purposes of this section:
 &emsp;(11) The term "submission for advisory review" means an original submission of a direct-to-consumer television advertisement for which the sponsor voluntarily requests advisory comments before the advertisement is publicly disseminated.
 
 (June 25, 1938, ch. 675, §736A, as added Pub. L. 110–85, title I, §104, Sept. 27, 2007, 121 Stat. 832.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

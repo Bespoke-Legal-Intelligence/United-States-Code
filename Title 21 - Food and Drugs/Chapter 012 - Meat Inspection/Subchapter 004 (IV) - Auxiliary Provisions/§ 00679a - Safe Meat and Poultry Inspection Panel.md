@@ -78,9 +78,11 @@ The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food a
 
 #### (i) Funding
 
-From funds available to the Secretary to carry out this chapter and the Poultry ProductsInspection Act (21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
+From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
 
 (Mar. 4, 1907, ch. 2907, title IV, §410, as added Pub. L. 104–127, title IX, §918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85�
 #### Prior Provisions
 
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Appropriated Funds
 

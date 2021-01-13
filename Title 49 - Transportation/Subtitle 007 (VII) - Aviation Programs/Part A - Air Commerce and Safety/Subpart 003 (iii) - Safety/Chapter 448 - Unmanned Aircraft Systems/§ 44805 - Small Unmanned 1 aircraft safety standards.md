@@ -14,7 +14,7 @@ FAA Process for Acceptance and Authorization.—The Administrator of the Federal
 
 (b)
 
-Considerations.—Before accepting consensus safety standards under subsection (a), the Administrator of the Federal Aviation Administration shall consider the following:
+Considerations.—Before accepting consensus safety standards under subsection (a), theAdministrator of the Federal Aviation Administration shall consider the following:
 
 &emsp;(1) Technologies or standards related to geographic limitations, altitude limitations, and sense and avoid capabilities.
 

@@ -32,9 +32,13 @@ The section is reorganized to place the statutes relating to vacancies together,
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Director; Deputy Director; Associate Directors" for "Term of office; filling vacancies; removal" in section catchline, and in text provisions relating to the Director, Deputy Director, and Associate Directors of the Office of Personnel Management for provisions relating to the term of office, vacancies, and removal of members of the United States Civil Service Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

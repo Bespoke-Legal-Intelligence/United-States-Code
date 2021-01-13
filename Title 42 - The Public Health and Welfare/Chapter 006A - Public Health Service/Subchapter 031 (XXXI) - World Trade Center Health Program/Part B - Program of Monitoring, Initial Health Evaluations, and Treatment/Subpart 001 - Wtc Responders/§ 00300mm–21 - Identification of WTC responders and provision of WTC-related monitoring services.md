@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) worked or volunteered onsite in rescue, recovery, debris cleanup, or related support services in lower Manhattan (south of Canal St.), the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning on September 11, 2001, and ending on September 14, 2001, for at least 24 hours during the period beginning on September 11, 2001, and ending on September 30, 2001, or for at least 80 hours during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
-&emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south ofCanal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
+&emsp;&emsp;&emsp;(ii)(I) was a member of the Police Department of New York City (whether active or retired) or a member of the Port Authority Police of the Port Authority of New York and New Jersey (whether active or retired) who participated onsite in rescue, recovery, debris cleanup, or related services in lower Manhattan (south of Canal St.), including Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least 4 hours during the period beginning September 11, 2001, and ending on September 14, 2001;
 
 &emsp;&emsp;&emsp;(II) participated onsite in rescue, recovery, debris cleanup, or related services at Ground Zero, the Staten Island Landfill, or the barge loading piers, for at least one day during the period beginning on September 11, 2001, and ending on July 31, 2002;
 
@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of whichno more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
+&emsp;&emsp;The total number of individuals not described in paragraph (1)(A) or (2)(A)(ii) who may be enrolled under paragraph (3)(A)(ii) shall not exceed 75,000 at any time, of which no more than 2,500 may be individuals enrolled based on modified eligibility criteria established under paragraph (1)(C).
 
 #### (B) Process
 
@@ -126,7 +126,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved bythe WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 

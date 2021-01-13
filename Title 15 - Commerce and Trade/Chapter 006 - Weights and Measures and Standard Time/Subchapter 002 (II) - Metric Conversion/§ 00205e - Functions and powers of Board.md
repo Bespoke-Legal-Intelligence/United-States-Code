@@ -6,7 +6,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(2) provide for appropriate procedures whereby various groups, under the auspices of the Board, may formulate, and recommend or suggest, to the Board specific programs for coordinating conversion in each industry and segment thereof and specific dimensions and configurations in the metric system and in other measurements for general use. Such programs, dimensions, and configurations shall be consistent with (A) the needs, interests, and capabilities of manufacturers (large and small), suppliers, labor, consumers, educators, and other interested groups, and (B) the national interest;
 
-&emsp;(3) publicize, in an appropriate manner, proposed programs and provide an opportunity for interested groups or individuals to submit comments on such programs. At the request of interested parties, the Board, in its discretion, may hold hearings with regard to such programs. Such comments and hearings may be considered by the Board;
+&emsp;(3) publicize, in an appropriate manner, proposed programs and provide an opportunity for interested groups or individuals to submitcomments on such programs. At the request of interested parties, the Board, in its discretion, may hold hearings with regard to such programs. Such comments and hearings may be considered by the Board;
 
 &emsp;(4) encourage activities of standardization organizations to develop or revise, as rapidly as practicable, engineering standards on a metric measurement basis, and to take advantage of opportunities to promote (A) rationalization or simplification of relationships, (B) improvements of design, (C) reduction of size variations, (D) increases in economy, and (E) where feasible, the efficient use of energy and the conservation of natural resources;
 
@@ -16,7 +16,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;(7) assist the public through information and education programs, to become familiar with the meaning and applicability of metric terms and measures in daily life. Such programs shall include—
 
-&emsp;&emsp;(A) public information programs conducted by the Board, through the use ofnewspapers, magazines, radio, television, and other media, and through talks before appropriate citizens' groups, and trade and public organizations;
+&emsp;&emsp;(A) public information programs conducted by the Board, through the use of newspapers, magazines, radio, television, and other media, and through talks before appropriate citizens' groups, and trade and public organizations;
 
 &emsp;&emsp;(B) counseling and consultation by the Secretary of Education; the Secretary of Labor; the Administrator of the Small Business Administration; and the Director of the National Science Foundation, with educational associations, State and local educational agencies, labor education committees, apprentice training committees, and other interested groups, in order to assure (i) that the metric system of measurement is included in the curriculum of the Nation's educational institutions, and (ii) that teachers and other appropriate personnel are properly trained to teach the metric system of measurement;
 

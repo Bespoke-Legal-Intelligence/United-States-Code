@@ -16,9 +16,13 @@ In this chapter:
 
 (Pub. L. 111–13, title V, §5102, Apr. 21, 2009, 123 Stat. 1598.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13317, referred to in par. (2), is set out as a note under section 8301 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

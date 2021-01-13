@@ -88,7 +88,7 @@ In subsection (a), the word "agency" is substituted for "department of the Gover
 
 In subsection (b), before clause (1), the words "buy or lease" are substituted for "purchase or hire" for consistency. In clause (1)(C), the words "section 101 of title 5" are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
-In subsection (c)(1), before clause (A), the word "agency" is substituted for "department" for consistency. The words "total cost" are substituted for "cost" because of the restatement. The words "(except costs required only for transportation)" are substituted for "which shall be in addition to the amount required for transportation" for clarity. Clause (A) is substituted for "completely equipped for operation" and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the word "agency" is substituted for "department" for consistency. The words "total cost" are substituted for "cost" because of the restatement. The words "(except costs required only for transportation)" are substituted for "which shall be in addition to the amount required for transportation" for clarity. Clause (A) is substitutedfor "completely equipped for operation" and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
 
 In subsection (c)(2), the words "Notwithstanding any other provisions of law" are omitted as surplus.
 
@@ -97,6 +97,8 @@ In subsection (d), the words "armed forces" are substituted for "Military and Na
 In subsection (e)(2), the words "motor boats, trucks" in 31:638d are omitted as being included in "vehicles". The words "adopted by Congress" are omitted as surplus.
 
 In subsection (e)(3), the words "horse-drawn" in 31:638e are omitted because the section applies only to motor vehicles and aircraft described in 31:638a and also is obsolete. The words "motor boats" are omitted as being included in "vehicles".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Motor Vehicles Purchased for Intelligence Activities; Exception From Monetary Limitations
 
@@ -118,9 +120,11 @@ Pub. L. 100–202, §101(b) \[title VIII, §8119\], Dec. 22, 1987, 101 Stat. 132
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
 
-Pub. L. 116–93, div. C, title VII, §702, Dec. 20, 2019, 133 Stat. 2484, provided that: "Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection \[sic\] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: <i>Provided</i>, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles: <i>Provided further</i>, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles."
+Pub. L. 116–260, div. E, title VII, §702, Dec. 27, 2020, 134 Stat. 1430, provided that: "Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: <i>Provided</i>, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles: <i>Provided further</i>, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title VII, §702, Dec. 20, 2019, 133 Stat. 2484.
 
 Pub. L. 116–6, div. D, title VII, §702, Feb. 15, 2019, 133 Stat. 187.
 

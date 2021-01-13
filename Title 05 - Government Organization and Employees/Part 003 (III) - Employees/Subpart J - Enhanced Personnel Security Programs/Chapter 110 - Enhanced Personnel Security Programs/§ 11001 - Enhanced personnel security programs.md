@@ -2,7 +2,7 @@
 
 (a)
 
-Enhanced Personnel Security Program.—The Director of National Intelligenceshall direct each agency to implement a program to provide enhanced security review of covered individuals—
+Enhanced Personnel Security Program.—The Director of National Intelligence shall direct each agency to implement a program to provide enhanced security review of covered individuals—
 
 &emsp;(1) in accordance with this section; and
 
@@ -98,6 +98,8 @@ Definitions.—In this section—
 
 (Added Pub. L. 114–113, div. M, title III, §306(a)(1), Dec. 18, 2015, 129 Stat. 2914; amended Pub. L. 116–92, div. E, title LXVII, §6711, Dec. 20, 2019, 133 Stat. 2225.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Intelligence Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is the date of enactment of div. M of Pub. L. 114–113, which was approved Dec. 18, 2015.
@@ -105,6 +107,8 @@ The date of the enactment of the Intelligence Authorization Act for Fiscal Year 
 #### Amendments
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92 substituted "Review" for "Audit" in heading and "review" for "audit" in text of pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Resolution of Backlog of Overdue Periodic Reinvestigations
 

@@ -102,5 +102,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Termination of Reporting Requirements
 
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report toCongress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

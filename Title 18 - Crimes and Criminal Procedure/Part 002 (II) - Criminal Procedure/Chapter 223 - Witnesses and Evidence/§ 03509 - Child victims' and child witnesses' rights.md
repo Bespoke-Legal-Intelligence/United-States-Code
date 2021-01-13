@@ -26,7 +26,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term "sexually explicit conduct" means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate,harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 
@@ -136,7 +136,7 @@ Presumption.—A child is presumed to be competent.
 
 &emsp;(3)
 
-Requirement of written motion.—A competency examination regarding a childwitness may be conducted by the court only upon written motion and offer of proof of incompetency by a party.
+Requirement of written motion.—A competency examination regarding a child witness may be conducted by the court only upon written motion and offer of proof of incompetency by a party.
 
 &emsp;(4)
 
@@ -222,7 +222,7 @@ Closing the Courtroom.—When a child testifies the court may order the exclusio
 
 (f)
 
-Victim Impact Statement.—In preparing the presentence report pursuant to rule 32(c) of the Federal Rules of Criminal Procedure, the probation officer shall request information from the multidisciplinary child abuse team and other appropriate sources to determine the impact of the offense on the child victim and any other children who may have been affected. A guardian ad litem appointed under subsection\(h) shall make every effort to obtain and report information that accurately expresses the child's and the family's views concerning the child's victimization. A guardian ad litem shall use forms that permit the child to express the child's views concerning the personal consequences of the child's victimization, at a level and in a form of communication commensurate with the child's age and ability.
+Victim Impact Statement.—In preparing the presentence report pursuant to rule 32(c) of the Federal Rules of Criminal Procedure, the probation officer shall request information from the multidisciplinary child abuse team and other appropriate sources to determine the impact of the offense on the child victim and any other children who may have been affected. A guardian ad litem appointed under subsection (h) shall make every effort to obtain and report information that accurately expresses the child's and the family's views concerning the child's victimization. A guardian ad litem shall use forms that permit the child to express the child's views concerning the personal consequences of the child's victimization, at a level and in a form of communication commensurate with the child's age and ability.
 
 (g)
 
@@ -296,6 +296,8 @@ Prohibition on Reproduction of Child Pornography.—
 
 (Added Pub. L. 101–647, title II, §225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, §605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, §3(11), May 7, 2009, 123 Stat. 1608; Pub. L. 115–299, §6, Dec. 7, 2018, 132 Stat. 4388.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (c)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -325,6 +327,8 @@ Pub. L. 103–322, §330010(7)(A), substituted "subsection" for "subdivision" in
 Subsec. (a)(11) to (13). Pub. L. 103–322, §330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: "the term 'exploitation' means child pornography or child prostitution;".
 
 Subsec. (k). Pub. L. 103–322, §330018(b), substituted heading for one which read "Extension of Child Statute of Limitations" and struck out first sentence which read as follows: "No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -92,7 +92,7 @@ A certification under subsection (a) or reversal of certification under subsecti
 
 #### References in Text
 
-Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of Pub. L. 114–94, which enacted thissection and section 2714a of Title 22, Foreign Relations and Intercourse, and amended sections 6103, 6320, 6331, and 7508 of this title.
+Section 32101 of the FAST Act, referred to in subsec. (a), is section 32101 of Pub. L. 114–94, which enacted this section and section 2714a of Title 22, Foreign Relations and Intercourse, and amended sections 6103, 6320, 6331, and 7508 of this title.
 
 #### Amendments
 

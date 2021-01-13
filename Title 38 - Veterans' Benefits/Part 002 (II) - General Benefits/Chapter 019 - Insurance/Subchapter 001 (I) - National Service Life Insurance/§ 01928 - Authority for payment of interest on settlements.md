@@ -8,11 +8,15 @@
 
 (Added Pub. L. 100–687, div. B, title XIV, §1401(a)(1), Nov. 18, 1988, 102 Stat. 4128, §728; renumbered §1928 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 728 of this title as this section and substituted "Secretary" for "Administrator" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 100–687, div. B, title XIV, §1401(a)(3), Nov. 18, 1988, 102 Stat. 4129, provided that: "The amendments made by this subsection \[enacting this section and section 763 \[now 1963\] of this title\] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act \[Nov. 18, 1988\]."
+Pub. L. 100–687, div. B, title XIV, §1401(a)(3), Nov. 18, 1988, 102 Stat. 4129, provided that: "The amendmentsmade by this subsection \[enacting this section and section 763 \[now 1963\] of this title\] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act \[Nov. 18, 1988\]."
 

@@ -48,9 +48,11 @@ The Secretary shall cause to be made such frequent spot inspections as he deems 
 
 #### (h) Maintenance of respiratory equipment; substitutes for environmental controls
 
-Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
+Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to bemaintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
 
 (Pub. L. 91–173, title II, §202, Dec. 30, 1969, 83 Stat. 760; Pub. L. 95–164, title II, §202(a), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ This chapter, referred to in subsec. (h), was in the original "this Act", meanin
 #### Amendments
 
 <b>1977</b>—Subsec. (e). Pub. L. 95–164 substituted a general reference to an "approved device" used to measure the average concentration of respirable dust for provisions which had referred to a specific device known as an "MRE instrument".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

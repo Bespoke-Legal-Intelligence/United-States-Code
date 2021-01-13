@@ -4,6 +4,8 @@ The authority of the Secretary to enter into enhanced-use leases under this subc
 
 (Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, §103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, §208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, §211(j), Aug. 6, 2012, 126 Stat. 1182.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–154 substituted "December 31, 2023" for "December 31, 2011".
@@ -15,6 +17,8 @@ The authority of the Secretary to enter into enhanced-use leases under this subc
 <b>1996</b>—Pub. L. 104–110 substituted "December 31, 1997" for "December 31, 1995".
 
 <b>1994</b>—Pub. L. 103–452 substituted "December 31, 1995" for "December 31, 1994".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Ratification of Actions During Period of Expired Authority
 

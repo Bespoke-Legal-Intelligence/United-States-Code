@@ -4,7 +4,7 @@
 
 (1) The Secretary is authorized to provide temporary assistance to citizens of the United States and to dependents of citizens of the United States, if they (A) are identified by the Department of State as having returned, or been brought, from a foreign country to the United States because of the destitution of the citizen of the United States or the illness of such citizen or any of his dependents or because of war, threat of war, invasion, or similar crisis, and (B) are without available resources.
 
-(2) Except in such cases or classes of cases as are set forth in regulations of the Secretary, provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
+(2) Except in such cases or classes of cases as are set forth in regulations of the Secretary,provision shall be made for reimbursement to the United States by the recipients of the temporary assistance to cover the cost thereof.
 
 (3) The Secretary may provide assistance under paragraph (1) directly or through utilization of the services and facilities of appropriate public or private agencies and organizations, in accordance with agreements providing for payment, in advance or by way of reimbursement, as may be determined by the Secretary, of the cost thereof. Such cost shall be determined by such statistical, sampling, or other method as may be provided in the agreement.
 
@@ -18,7 +18,7 @@ For purposes of this section, the term "temporary assistance" means money paymen
 
 #### (d) Maximum total amount of temporary assistance
 
-The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009, except that, in the case of fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000.
+The total amount of temporary assistance provided under this section shall not exceed $1,000,000 during any fiscal year beginning after September 30, 2009, except that, in the case of fiscal year 2020, the total amount of such assistance provided during such fiscal year shall not exceed $10,000,000.
 
 #### (e) Authority of Secretary to accept gifts
 
@@ -26,9 +26,11 @@ The total amount of temporary assistance provided under this section shall not e
 
 (2) Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.
 
-(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133, July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 108–11, title I, §1701, Apr. 16, 2003, 117 Stat. 585; Pub. L. 109–250, §1(a), July 27, 2006, 120 Stat. 652; Pub. L. 111–127, §2, Jan. 27, 2010, 124 Stat. 4; Pub. L. 115–57, §2(a), Sept. 12, 2017, 131 Stat. 1148.)
+(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133, July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 108–11, title I, §1701, Apr. 16, 2003, 117 Stat. 585; Pub. L. 109–250, §1(a), July 27, 2006, 120 Stat. 652; Pub. L. 111–127, §2, Jan. 27, 2010, 124 Stat. 4; Pub. L. 115–57, §2(a), Sept. 12, 2017, 131 Stat. 1148; Pub. L. 116–148, §2(a), July 13, 2020, 134 Stat. 661.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–148 substituted "fiscal year 2020, the total amount of such assistance provided during such fiscal year shall not exceed $10,000,000." for "fiscal years 2017 and 2018, the total amount of such assistance provided during each such fiscal year shall not exceed $25,000,000."
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–57 substituted "fiscal years 2017 and 2018" for "fiscal year 2010" and "each such fiscal year" for "that fiscal year".
 
@@ -67,4 +69,12 @@ Subsec. (d). Pub. L. 94–44, §1, substituted provisions setting the maximum to
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–508, title V, §5056(b), Nov. 5, 1990, 104 Stat. 1388–230, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning after September 30, 1989."
+
+#### Limit on Direct Contact With Repatriated Individuals During COVID–19 Emergency Period
+
+Pub. L. 116–148, §3, July 13, 2020, 134 Stat. 661, provided that: "During the emergency period described in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)(B)), in providing temporary assistance under section 1113 of such Act (42 U.S.C. 1313), no employee of the Administration for Children and Families of the Department of Health and Human Services shall have direct, in-person contact with an individual specified in section 1113(a)(1) of such Act (42 U.S.C. 1313(a)(1)), except in the case of a uniformed member of the Regular Corps or the Ready Reserve Corps of the Commissioned Corps of the Public Health Service (as described in section 203 of the Public Health Service Act (42 U.S.C. 204)) in an active duty status who, as determined by the Secretary of Health and Human Services, has—
+
+&emsp;"(1) received appropriate training on infection prevention and control; and
+
+&emsp;"(2) access to appropriate personal protective equipment."
 

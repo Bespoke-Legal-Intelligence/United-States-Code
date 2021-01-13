@@ -1,14 +1,20 @@
 ### §205. Missile Defense Agency
 
-(a)
+The Director of the Missile Defense Agency shall be appointed for a six-year term.
+
+(Added Pub. L. 115–91, div. A, title XVI, §1676(c)(1), Dec. 12, 2017, 131 Stat. 1773; amended Pub. L. 116–283, div. A, title XVI, §1641(a), Jan. 1, 2021, 134 Stat. 4061.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, text read as follows:
+
+"(a)
 
 Term of Director.—The Director of the Missile Defense Agency shall be appointed for a six-year term.
 
-(b)
+"(b)
 
-Reporting.—The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering.
-
-(Added Pub. L. 115–91, div. A, title XVI, §1676(c)(1), Dec. 12, 2017, 131 Stat. 1773.)
+Reporting.—The Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering."
 
 #### Application
 
@@ -20,5 +26,5 @@ Terms.—Subsection (a) of section 205 of title 10, United States Code, as added
 
 "(B)
 
-Reporting.—Subsection (b) of such section 205 shall apply beginning on February 1, 2018. In carrying out such subsection, the Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering in the same manner as the Missile Defense Agency was under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to Department of Defense Directive 5134.09. Any reference in such Instruction to the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be deemed to be a reference to the Under Secretary of Defense for Research and Engineering, including with respect to the Under Secretary serving as the chairman of the Missile Defense Executive Board."
+Reporting.—\[Former\] Subsection (b) of such section 205 shall apply beginning on February 1, 2018. In carrying out such subsection, the Missile Defense Agency shall be under the authority, direction, and control of the Under Secretary of Defense for Research and Engineering in the same manner as the Missile Defense Agency was under the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to Department of Defense Directive 5134.09. Any reference in such Instruction to the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be deemed to be a reference to the Under Secretary of Defense for Research and Engineering, including with respect to the Under Secretary serving as the chairman of the Missile Defense Executive Board."
 

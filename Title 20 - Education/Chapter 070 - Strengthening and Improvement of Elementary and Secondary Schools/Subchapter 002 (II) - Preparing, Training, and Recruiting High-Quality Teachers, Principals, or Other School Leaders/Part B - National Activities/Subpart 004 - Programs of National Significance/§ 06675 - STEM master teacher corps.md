@@ -38,7 +38,7 @@ Another prior section 6675, Pub. L. 89–10, title II, §2305, as added Pub. L. 
 
 Section 6676, Pub. L. 89–10, title II, §2306, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1654, related to support of innovative preretirement teacher certification programs.
 
-Another prior section 6676, Pub. L. 89–10, title II, §2306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from privatesources, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6676, Pub. L. 89–10, title II, §2306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from private sources, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Section 6677, Pub. L. 89–10, title II, §2307, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1655; amended Pub. L. 107–296, title XVII, §1704(e)(9), Nov. 25, 2002, 116 Stat. 2315, required a report not later than Mar. 31, 2006, on the effectiveness of the Troops-to-Teachers Program.
 

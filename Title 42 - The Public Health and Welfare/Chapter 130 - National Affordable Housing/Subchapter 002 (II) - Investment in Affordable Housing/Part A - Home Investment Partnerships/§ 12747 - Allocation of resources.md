@@ -34,7 +34,7 @@
 
 #### (E) Adjustments
 
-&emsp;&emsp;In developing the basic formula in subparagraph (A), the Secretary shall (i) avoid the allocation of an excessively large share of amounts made available under this part to any one State or unit of general localgovernment, and (ii) take into account the need for a geographic distribution of amounts made available under this part that appropriately reflects the housing need in each region of the Nation.
+&emsp;&emsp;In developing the basic formula in subparagraph (A), the Secretary shall (i) avoid the allocation of an excessively large share of amounts made available under this part to any one State or unit of general local government, and (ii) take into account the need for a geographic distribution of amounts made available under this part that appropriately reflects the housing need in each region of the Nation.
 
 #### (F) Consultation
 
@@ -52,7 +52,7 @@
 
 #### (3) Minimum local allocation
 
-&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities, urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
+&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities,urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
 
 #### (4) Threshold reduction
 
@@ -100,7 +100,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
 
-(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 105–65, title II, §214, Oct. 27, 1997, 111 Stat. 1366.)
+(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752,3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 105–65, title II, §214, Oct. 27, 1997, 111 Stat. 1366.)
 
 #### Amendments
 

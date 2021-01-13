@@ -24,6 +24,8 @@
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1734; amended Pub. L. 98–573, title II, §212(b)(4), title VI, §623(b)(1), Oct. 30, 1984, 98 Stat. 2984, 3041; Pub. L. 103–182, title VI, §684(a)(3), Dec. 8, 1993, 107 Stat. 2219.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 515 of the Tariff Act of 1930, referred to in subsec. (a), is classified to section 1515 of Title 19, Customs Duties.
@@ -64,6 +66,8 @@ Pub. L. 98–573, §212(b)(4), amended subsec. (h) generally, substituting "cust
 
 Subsec. (i). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (i) as (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by section 212(b)(4) of Pub. L. 98–573 effective on close of 180th day after Oct. 30, 1984, see section 214(d) of Pub. L. 98–573, set out as a note under section 1304 of Title 19, Customs Duties.
@@ -76,7 +80,7 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 #### Application of 1993 Amendment
 
-For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, formerly set out as a note under section 1581 of this title.
 
 #### Transfer of Functions
 

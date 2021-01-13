@@ -8,7 +8,7 @@ There is established within the United States Geological Survey a post-earthquak
 
 &emsp;(3) analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
 
-(Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239; amended Pub. L. 115–307, §2(c)(1)(B), Dec. 11, 2018, 132 Stat. 4409.)
+(Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239; amended Pub.L. 115–307, §2(c)(1)(B), Dec. 11, 2018, 132 Stat. 4409.)
 
 #### Amendments
 
@@ -22,5 +22,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Report on Funding of Program
 
-Pub. L. 101–614, §11(b), Nov. 16, 1990, 104 Stat. 3239, directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds providedby Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.
+Pub. L. 101–614, §11(b), Nov. 16, 1990, 104 Stat. 3239, directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds provided by Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.
 

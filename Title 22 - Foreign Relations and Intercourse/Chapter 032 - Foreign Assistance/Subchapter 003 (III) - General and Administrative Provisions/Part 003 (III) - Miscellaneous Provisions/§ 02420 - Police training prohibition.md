@@ -26,13 +26,15 @@ Subsection (a) of this section shall not apply—
 
 #### (c) Country with longstanding democratic tradition, etc.
 
-Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern of gross violations of internationally recognized human rights.
+Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern ofgross violations of internationally recognized human rights.
 
 #### (d) Assistance to Honduras or El Salvador
 
 Notwithstanding the prohibition contained in subsection (a) assistance may be provided to Honduras or El Salvador for fiscal years 1986 and 1987 if, at least 30 days before providing assistance, the President notifies the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title, that he has determined that the government of the recipient country has made significant progress, during the preceding six months, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the nonviolent expression of their political views, or prolonged detention without trial. Any such notification shall include a full description of the assistance which is proposed to be provided and of the purposes to which it is to be directed.
 
 (Pub. L. 87–195, pt. III, §660, as added Pub. L. 93–559, §30(a), Dec. 30, 1974, 88 Stat. 1803; amended Pub. L. 99–83, title I, §127(b), title VII, §711, Aug. 8, 1985, 99 Stat. 205, 243; Pub. L. 101–513, title V, §594, Nov. 5, 1990, 104 Stat. 2060; Pub. L. 104–107, title V, §540A(d), Feb. 12, 1996, 110 Stat. 737; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §574\], Nov. 29, 1999, 113 Stat. 1535, 1501A–111.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -52,13 +54,11 @@ Section 515(c) of the Omnibus Crime Control and Safe Streets Act of 1968, referr
 
 Subsecs. (c), (d). Pub. L. 99–83, §711, added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Exemption of Narcotics-Related Military Assistance for Specific Fiscal Years From Prohibition on Assistance for Law Enforcement Agencies
 
@@ -83,6 +83,12 @@ Notification to Congress.—At least 15 days before any transfer under subsectio
 Coordination With International Narcotics Control Assistance Program.—Assistance provided pursuant to this section shall be coordinated with international narcotics control assistance under chapter 8 of part 1 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291 et seq.)."
 
 Pub. L. 102–583, §7, Nov. 2, 1992, 106 Stat. 4933, provided for exemption of narcotics-related military assistance for fiscal years 1993 and 1994 from prohibition on assistance for law enforcement agencies, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Assistance to Public Security Forces of El Salvador; Delegation of Functions
 

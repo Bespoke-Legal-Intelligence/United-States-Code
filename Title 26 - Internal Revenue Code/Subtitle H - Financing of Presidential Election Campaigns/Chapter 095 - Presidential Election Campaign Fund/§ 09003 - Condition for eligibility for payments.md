@@ -18,7 +18,7 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(c), and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
 
-> Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
+> Such certification shall be made within such time prior to the day of the presidential electionas the Commission shall prescribe by rules or regulations.
 
 #### (c) Minor and new parties
 

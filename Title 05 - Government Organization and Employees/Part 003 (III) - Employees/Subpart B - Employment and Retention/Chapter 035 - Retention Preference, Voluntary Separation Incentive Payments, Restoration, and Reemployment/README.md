@@ -78,6 +78,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447, div. B, title I, §114(b), Dec. 8, 2004, 118 Stat. 2869, and Pub. L. 108–458, title II, §2004(b), Dec. 17, 2004, 118 Stat. 3704, amended analysis identically, adding item for subchapter VII.

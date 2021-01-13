@@ -62,6 +62,40 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the term "private education loan" has the meaning given the term in section 1650(a) of this title.
 
+#### (F) Reporting information during COVID–19 pandemic
+
+#### (i) Definitions
+
+&emsp;&emsp;&emsp;In this subsection:
+
+#### (I) Accommodation
+
+&emsp;&emsp;&emsp;&emsp;The term "accommodation" includes an agreement to defer 1 or more payments, make a partial payment, forbear any delinquent amounts, modify a loan or contract, or any other assistance or relief granted to a consumer who is affected by the coronavirus disease 2019 (COVID–19) pandemic during the covered period.
+
+#### (II) Covered period
+
+&emsp;&emsp;&emsp;&emsp;The term "covered period" means the period beginning on January 31, 2020 and ending on the later of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) 120 days after March 27, 2020; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 120 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates.
+
+#### (ii) Reporting
+
+&emsp;&emsp;&emsp;Except as provided in clause (iii), if a furnisher makes an accommodation with respect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) report the credit obligation or account as current; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if the credit obligation or account was delinquent before the accommodation—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) maintain the delinquent status during the period in which the accommodation is in effect; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the consumer brings the credit obligation or account current during the period described in item (aa), report the credit obligation or account as current.
+
+#### (iii) Exception
+
+&emsp;&emsp;&emsp;Clause (ii) shall not apply with respect to a credit obligation or account of a consumer that has been charged-off.
+
 #### (2) Duty to correct and update information
 
 &emsp;A person who—
@@ -100,7 +134,7 @@
 
 #### (A) Reasonable procedures
 
-&emsp;&emsp;A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 1681c–2 of this title relating to information resulting from identity theft, to prevent that person from refurnishing such blocked information.
+&emsp;&emsp;A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 1681c–2 of this title relating to information resulting from identity theft, to preventthat person from refurnishing such blocked information.
 
 #### (B) Information alleged to result from identity theft
 
@@ -174,7 +208,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal bankingagencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -306,13 +340,19 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 &emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, §602(a), May 24, 2018, 132 Stat. 1366.)
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, §602(a), May 24, 2018, 132 Stat. 1366; Pub. L. 116–136, div. A, title IV, §4021, Mar. 27, 2020, 134 Stat. 489.)
+
+#### References in Text
+
+The National Emergencies Act, referred to in subsec. (a)(1)(F)(i)(II)(bb), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 #### Prior Provisions
 
 A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681t of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(F). Pub. L. 116–136 added subpar. (F).
 
 <b>2018</b>—Subsec. (a)(1)(E). Pub. L. 115–174 added subpar. (E).
 

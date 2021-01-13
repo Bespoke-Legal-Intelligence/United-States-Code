@@ -10,7 +10,7 @@ Subpenas For Witnesses.—A subpena for a witness required to attend a district 
 
 (c)
 
-Review of Agency Action.—Except as provided in section 20104(c) of this title, a proceeding to review a final action of the Secretary ofTransportation under this part or, as applicable to railroad safety, chapter 51 or 57 of this title shall be brought in the appropriate court of appeals as provided in chapter 158 of title 28.
+Review of Agency Action.—Except as provided in section 20104(c) of this title, a proceeding to review a final action of the Secretary of Transportation under this part or, as applicable to railroad safety, chapter 51 or 57 of this title shall be brought in the appropriate court of appeals as provided in chapter 158 of title 28.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 870.)
 

@@ -12,9 +12,7 @@ Duty to Assist.—(1) If a claimant, in connection with a supplemental claim, re
 
 (Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3008; renumbered §5108, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, §2(i)(1), Aug. 23, 2017, 131 Stat. 1109.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(i)(1) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -24,9 +22,11 @@ Duty to Assist.—(1) If a claimant, in connection with a supplemental claim, re
 
 Pub. L. 102–83 substituted "Secretary" for "Administrator".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date
 

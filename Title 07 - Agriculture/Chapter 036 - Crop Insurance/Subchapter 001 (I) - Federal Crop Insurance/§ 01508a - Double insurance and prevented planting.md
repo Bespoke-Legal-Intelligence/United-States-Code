@@ -54,7 +54,7 @@ In this section:
 
 #### (B) Effect of no loss to second crop
 
-&emsp;&emsp;If the producer makes an election under paragraph (1)(B) and the producer does not suffer an insurable loss to the second crop, the producer shall be responsible for a premium for the first crop that is equal to—
+&emsp;&emsp;If the producer makes an election under paragraph (1)(B) and the producer does notsuffer an insurable loss to the second crop, the producer shall be responsible for a premium for the first crop that is equal to—
 
 &emsp;&emsp;&emsp;(i) the full premium owed by the producer for the first crop; less
 

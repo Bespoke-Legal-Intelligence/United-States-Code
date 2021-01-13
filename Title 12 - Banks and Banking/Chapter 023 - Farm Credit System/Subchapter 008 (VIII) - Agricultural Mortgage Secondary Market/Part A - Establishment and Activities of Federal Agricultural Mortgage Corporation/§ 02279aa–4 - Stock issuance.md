@@ -34,7 +34,7 @@
 
 #### (ii) Class A stock
 
-&emsp;&emsp;&emsp;Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(a)(2)(A) of this title, including national banking associations (which shallbe allowed to purchase and hold such stock).
+&emsp;&emsp;&emsp;Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(a)(2)(A) of this title, including national banking associations (which shall be allowed to purchase and hold such stock).
 
 #### (iii) Class B stock
 
@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;Such dividends as may be declared by the Board, in the discretion of the Board, shall be paid by the Corporation to the holders of the voting common stock of the Corporation pro rata based on the total number of shares of both classes of stock outstanding.
+&emsp;Such dividends as may be declared by the Board, in the discretion of the Board, shall be paid by the Corporation to the holders of thevoting common stock of the Corporation pro rata based on the total number of shares of both classes of stock outstanding.
 
 #### (2) Reserves requirement
 
@@ -100,6 +100,8 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 (Pub. L. 92–181, title VIII, §8.4, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1692; amended Pub. L. 100–399, title VI, §601(d), (e), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 115–334, title V, §5411(44), Dec. 20, 2018, 132 Stat. 4684.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, within existing provisions, designated first and second sentences as subpars. (A) and (B), respectively, added subpar. (C) and struck out former third sentence which read "Voting shall be by classes as described in section 2279aa–2(a)(9) of this title.", designated fourth to sixth sentences collectively as subpar. (D) and individually as cls. (i) to (iii), respectively, thereof, substituted "2279aa–2(a)(2)(A)" for "2279aa–2(b)(2)(A)" in subpar. (D)(ii) and "2279aa–2(a)(2)(B)" for "2279aa–2(b)(2)(B)" in subpar. (D)(iii), and inserted subpar. and cl. headings.
@@ -107,6 +109,8 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(d), in penultimate sentence, inserted "and" after "institutions" and inserted ", including national banking associations (which shall be allowed to purchase and hold such stock)" before period at end.
 
 Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted "books of the Corporation" for "books of the Association".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

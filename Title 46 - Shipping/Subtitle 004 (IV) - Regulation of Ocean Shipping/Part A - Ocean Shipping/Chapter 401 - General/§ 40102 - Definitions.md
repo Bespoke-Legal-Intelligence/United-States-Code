@@ -190,7 +190,7 @@ Shipper.—The term "shipper" means—
 
 &emsp;&emsp;(D) a shippers' association; or
 
-&emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment ofall charges applicable under the tariff or service contract.
+&emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
 
 &emsp;(24)
 
@@ -324,6 +324,8 @@ In the definition of "shipper", the words "non-vessel-operating common carrier" 
 
 The definition of "Commission" is omitted because the full name of the Federal Maritime Commission is used the first time the Commission is referred to in each section. The definition of "person" is omitted as unnecessary because of 1 U.S.C. 1. The definition of "United States" is omitted because the term is defined in chapter 1 of the revised title for purposes of the title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sherman Act, referred to in par. (2)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
@@ -340,9 +342,11 @@ The Antitrust Civil Process Act, referred to in par. (2)(F), is Pub. L. 87–664
 
 <b>2018</b>—Pars. (5) to (26). Pub. L. 115–282 added par. (5) and redesignated former pars. (5) to (25) as (6) to (26), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Agreements Unaffected
 
-Pub. L. 115–282, title VII, §714, Dec. 4, 2018, 132 Stat. 4299, provided that: "Nothing in this Act \[probably should be "this title", enacting section 41105A of this title, amending sections 303, 306, 308, 40102, 40104, 40304, 40307, 40901, 40902, 41104, 41105, and 41307 of this title, and enacting provisions set out as notes under sections 305, 40304, 41104, and 41307 of this title\] may be construed—
+Pub. L. 115–282, title VII, §714, Dec. 4, 2018, 132 Stat. 4299, provided that: "Nothing in this Act \[probably should be "this title", enacting section 41105A of this title, amending sections 40102, 40104, 40304, 40307, 40901, 40902, 41104, 41105, 41307, 46103, 46106, and 46108 of this title, and enacting provisions set out as notes under sections 40304, 41104, 41307, and 46105 of this title\] may be construed—
 
 &emsp;"(1) to limit or amend the definition of 'agreement' in section 40102(1) of title 46, United States Code, with respect to the exclusion of maritime labor agreements; or
 

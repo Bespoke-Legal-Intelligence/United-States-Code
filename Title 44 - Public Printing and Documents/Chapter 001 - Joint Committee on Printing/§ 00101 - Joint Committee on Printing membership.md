@@ -10,15 +10,23 @@ Based on 44 U.S. Code, 1964 ed., §1 (Jan. 12, 1895, ch. 23, §1, 28 Stat. 601; 
 
 Last seven words in the statute, "who shall have the powers hereinafter stated", are omitted as unnecessary since the powers of the Committee are stated in other sections.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
 <b>1981</b>—Pub. L. 97–4 substituted "four members" for "two members" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–283, div. H, title XCVI, §9602(a), Jan. 1, 2021, 134 Stat. 4828, provided that: "This section \[enacting section 2912 of this title, amending section 2901 of this title, and enacting provisions set out as a note under section 2912 of this title\] may be cited as the 'Electronic Message Preservation Act'."
 
 #### Short Title of 2019 Amendment
 

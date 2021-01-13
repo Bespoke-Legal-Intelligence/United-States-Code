@@ -80,6 +80,8 @@ Access to the index established by this section is subject to cancellation if th
 
 (Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272; Pub. L. 109–162, title X, §1002, Jan. 5, 2006, 119 Stat. 3084; Pub. L. 115–50, §2(b), Aug. 18, 2017, 131 Stat. 1001.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14132 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
@@ -90,7 +92,7 @@ Section was formerly classified to section 14132 of Title 42, The Public Health 
 
 &emsp;"(A) not later than 2 years after October 30, 2004, have been accredited by a nonprofit professional association of persons actively involved in forensic science that is nationally recognized within the forensic science community; and
 
-&emsp;"(B) undergo external audits, not less than once every 2 years, that demonstrate compliance withstandards established by the Director of the Federal Bureau of Investigation; and".
+&emsp;"(B) undergo external audits, not less than once every 2 years, that demonstrate compliance with standards established by the Director of the Federal Bureau of Investigation; and".
 
 <b>2006</b>—Subsec. (a)(1)(C). Pub. L. 109–162, §1002(1), struck out "DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and" after "provided that".
 

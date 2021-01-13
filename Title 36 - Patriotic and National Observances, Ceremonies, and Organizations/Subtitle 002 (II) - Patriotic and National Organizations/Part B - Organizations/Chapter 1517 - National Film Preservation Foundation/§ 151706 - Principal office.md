@@ -22,6 +22,8 @@ Oct. 11, 1996, Pub. L. 104–285, title II, §204(a)(2), (3), 110 Stat. 3384.
 
 This section is substituted for the source provisions for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–9 inserted ", or another place as determined by the board of directors" after "District of Columbia".

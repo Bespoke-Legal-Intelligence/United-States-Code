@@ -112,7 +112,7 @@ Obligations of Secretary.—In carrying out cleanup activities under subsection 
 
 "(c)
 
-Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of this section \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
+Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of thissection \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
 
 &emsp;"(A) the land conveyance entitlements of local entities and residents of the Pribilof Islands under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
 
@@ -120,7 +120,7 @@ Resolution of Federal Responsibilities.—(1) Within 9 months after the date of 
 
 &emsp;"(C) any other matters which the Secretary deems appropriate.
 
-"(2) The report required under paragraph (1) shall include the estimated costs of all actions, and shall contain the statements of the Secretary of Commerce, the Secretary of the Interior, any statement submitted bythe State of Alaska, and any statements of claims or recommendations submitted by local entities and residents of the Pribilof Islands.
+"(2) The report required under paragraph (1) shall include the estimated costs of all actions, and shall contain the statements of the Secretary of Commerce, the Secretary of the Interior, any statement submitted by the State of Alaska, and any statements of claims or recommendations submitted by local entities and residents of the Pribilof Islands.
 
 "\[(d) Redesignated as section 212 of Pub. L. 89–702, and transferred to section 1169b of this title.\]
 

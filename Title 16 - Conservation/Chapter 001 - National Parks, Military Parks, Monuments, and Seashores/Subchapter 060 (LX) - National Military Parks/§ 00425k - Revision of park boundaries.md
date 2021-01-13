@@ -30,5 +30,5 @@ Pub. L. 102–541, §1, Oct. 27, 1992, 106 Stat. 3565, provided that: "Congress 
 
 #### Acquisition of Certain Lands by Donation Only
 
-Pub. L. 102–541, §2(b), Oct. 27, 1992, 106 Stat. 3565, provided that lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by Pub. L. 106–150, §1(b)(2), Dec. 9, 1999, 113 Stat. 1730.
+Pub. L. 102–541, §2(b), Oct. 27, 1992, 106 Stat. 3565, provided that lands included within the boundaries of theFredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by Pub. L. 106–150, §1(b)(2), Dec. 9, 1999, 113 Stat. 1730.
 

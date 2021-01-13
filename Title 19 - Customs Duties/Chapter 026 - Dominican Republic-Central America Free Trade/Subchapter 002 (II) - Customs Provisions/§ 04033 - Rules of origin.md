@@ -159,7 +159,7 @@ nc
 
 #### (i) Automotive good
 
-&emsp;&emsp;&emsp;The term "automotive good" means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20,heading 8409, or in any of headings 8701 through 8708.
+&emsp;&emsp;&emsp;The term "automotive good" means a good provided for in any of subheadings 8407.31 through 8407.34, subheading 8408.20, heading 8409, or in any of headings 8701 through 8708.
 
 #### (ii) RVC
 
@@ -177,7 +177,7 @@ nc
 
 #### (i) Basis of calculation
 
-&emsp;&emsp;&emsp;For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, or producer may average the amounts calculated under the formula contained in subparagraph (A), over the producer's fiscal year—
+&emsp;&emsp;&emsp;For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, orproducer may average the amounts calculated under the formula contained in subparagraph (A), over the producer's fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to all motor vehicles in any 1 of the categories described in clause (ii); or
 
@@ -245,7 +245,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of one or more of the CAFTA–DR countries to the location of the producer.
 
-&emsp;&emsp;&emsp;(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of one or more of the CAFTA–DR countries, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+&emsp;&emsp;&emsp;(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of one or more of the CAFTA–DR countries, other than duties or taxes that arewaived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
 
 &emsp;&emsp;&emsp;(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
 
@@ -311,7 +311,7 @@ nc
 
 &emsp;&emsp;(C) A nonoriginating material provided for in heading 0805, or any of subheadings 2009.11 through 2009.39, that is used in the production of a good provided for in any of subheadings 2009.11 through 2009.39, or in fruit or vegetable juice of any single fruit or vegetable, fortified with minerals or vitamins, concentrated or unconcentrated, provided for in subheading 2106.90 or 2202.90.
 
-&emsp;&emsp;(D) A nonoriginating material provided for in heading 0901 or 2101 that is used in theproduction of a good provided for in heading 0901 or 2101.
+&emsp;&emsp;(D) A nonoriginating material provided for in heading 0901 or 2101 that is used in the production of a good provided for in heading 0901 or 2101.
 
 &emsp;&emsp;(E) A nonoriginating material provided for in heading 1006 that is used in the production of a good provided for in heading 1102 or 1103 or subheading 1904.90.
 
@@ -413,7 +413,7 @@ A good that has undergone production necessary to qualify as an originating good
 
 #### (m) Goods classifiable as goods put up in sets
 
-Notwithstanding the rules set forth in Annex 4.1 of the Agreement, goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless—
+Notwithstanding the rules set forth in Annex 4.1 of the Agreement, goods classifiable as goodsput up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless—
 
 &emsp;(1) each of the goods in the set is an originating good; or
 
@@ -477,7 +477,7 @@ In this section:
 
 &emsp;&emsp;(G) goods produced on board factory ships from the goods referred to in subparagraph (F), if such factory ships are registered or recorded with that CAFTA–DR country and fly the flag of that country;
 
-&emsp;&emsp;(H) goods taken by a CAFTA–DR country or a person of a CAFTA–DR country fromthe seabed or subsoil outside territorial waters, if a CAFTA–DR country has rights to exploit such seabed or subsoil;
+&emsp;&emsp;(H) goods taken by a CAFTA–DR country or a person of a CAFTA–DR country from the seabed or subsoil outside territorial waters, if a CAFTA–DR country has rights to exploit such seabed or subsoil;
 
 &emsp;&emsp;(I) goods taken from outer space, if the goods are obtained by a CAFTA–DR country or a person of a CAFTA–DR country and not processed in the territory of a country other than a CAFTA–DR country;
 
@@ -575,7 +575,7 @@ In this section:
 
 #### (21) Remanufactured good
 
-&emsp;The term "remanufactured good" means a good that is classified under chapter 84, 85, or87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
+&emsp;The term "remanufactured good" means a good that is classified under chapter 84, 85, or 87, or heading 9026, 9031, or 9032, other than a good classified under heading 8418 or 8516, and that—
 
 &emsp;&emsp;(A) is entirely or partially comprised of recovered goods; and
 
@@ -655,7 +655,7 @@ In this section:
 
 #### (D) Deemed approval of request
 
-&emsp;&emsp;If, after an interested entity submits a request under subparagraph (C)(i), the President does not, within the applicable time period specified in subparagraph (C)(iv), makea determination under subparagraph (C)(ii) regarding the request, the fabric, yarn, or fiber that is the subject of the request shall be considered to be added, in an unrestricted quantity, to the list in Annex 3.25 of the Agreement beginning—
+&emsp;&emsp;If, after an interested entity submits a request under subparagraph (C)(i), the President does not, within the applicable time period specified in subparagraph (C)(iv), make a determination under subparagraph (C)(ii) regarding the request, the fabric, yarn, or fiber that is the subject of the request shall be considered to be added, in an unrestricted quantity, to the list in Annex 3.25 of the Agreement beginning—
 
 &emsp;&emsp;&emsp;(i) 45 days after the date on which the request was submitted; or
 

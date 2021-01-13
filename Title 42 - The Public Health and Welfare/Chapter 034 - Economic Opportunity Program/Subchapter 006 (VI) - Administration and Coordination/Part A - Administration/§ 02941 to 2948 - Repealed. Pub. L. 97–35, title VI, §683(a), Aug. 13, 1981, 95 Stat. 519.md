@@ -24,5 +24,5 @@ Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the g
 
 #### Community Action Programs and Community Economic Development Powers Not Subject to Delegation
 
-Pub. L. 92–424, §28, Sept. 19, 1972, 86 Stat. 705, which prohibited the Director of the Office of Economic Opportunity from delegating his functions under section 221 and title VII of such Act \[section 2808 of this titleand subchapter VII of this chapter\] to any other agency, was repealed by Pub. L. 93–644, §9(b), Jan. 4, 1975, 88 Stat. 2314, as amended by Pub. L. 94–341, §3(b)(1), July 6, 1976, 90 Stat. 807, effective on the date on which a reorganization plan is effective under section 2941 of this title, as amended by section 9(a) of Pub. L. 93–644.
+Pub. L. 92–424, §28, Sept. 19, 1972, 86 Stat. 705, which prohibited the Director of the Office of Economic Opportunity from delegating his functions under section 221 and title VII of such Act \[section 2808 of this title and subchapter VII of this chapter\] to any other agency, was repealed by Pub. L. 93–644, §9(b), Jan. 4, 1975, 88 Stat. 2314, as amended by Pub. L. 94–341, §3(b)(1), July 6, 1976, 90 Stat. 807, effective on the date on which a reorganization plan is effective under section 2941 of this title, as amended by section 9(a) of Pub. L. 93–644.
 

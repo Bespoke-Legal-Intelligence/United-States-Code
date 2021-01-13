@@ -70,11 +70,15 @@ Issues which can properly be raised under an appeals procedure may not be raised
 
 (Pub. L. 96–465, title I, §1015, Oct. 17, 1980, 94 Stat. 2137; Pub. L. 102–138, title I, §153(d)(2), Oct. 28, 1991, 105 Stat. 674.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (d). Pub. L. 102–138 substituted "section 4139(a)(2)" for "section 4139(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–138, title I, §153(f), Oct. 28, 1991, 105 Stat. 674, provided that: "The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respectto any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\]."
+Pub. L. 102–138, title I, §153(f), Oct. 28, 1991, 105 Stat. 674, provided that: "The amendments made by this section \[amending this section and sections 4131, 4134, 4137, 4139, and 4140 of this title\] shall not apply with respect to any grievance (within the meaning of section 1101 of the Act \[22 U.S.C. 4131\], as amended by this section) arising before the date of enactment of this Act \[Oct. 28, 1991\]."
 

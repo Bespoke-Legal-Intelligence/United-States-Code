@@ -144,7 +144,13 @@ In this chapter:
 
 &emsp;The term "victim of trafficking" means a person subjected to an act or practice described in paragraph (9) or (10) <sup>2</sup>.
 
-(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239; Pub. L. 115–254, div. F, title VI, §1470(p), Oct. 5, 2018, 132 Stat. 3518; Pub. L. 115–427, §2, Jan. 9, 2019, 132 Stat. 5503.)
+#### (18) Grounds related to human trafficking
+
+&emsp;The term "grounds related to human trafficking" means grounds related to the criteria for inadmissibility to the United States described in subsection (a)(2)(H) of section 1182 of title 8.
+
+(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887; Pub. L. 110–457, title III, §304(a), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1212(b)(1), Mar. 7, 2013, 127 Stat. 143; Pub. L. 114–22, title I, §108(b), May 29, 2015, 129 Stat. 239; Pub. L. 115–254, div. F, title VI, §1470(p), Oct. 5, 2018, 132 Stat. 3518; Pub. L. 115–427, §2, Jan. 9, 2019, 132 Stat. 5503; Pub. L. 116–283, div. A, title XII, §1299R(d)(2), Jan. 1, 2021, 134 Stat. 4028.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -160,6 +166,8 @@ Paragraphs (9) and (10), referred to in pars. (16) and (17), were redesignated p
 
 #### Amendments
 
+<b>2021</b>—Par. (18). Pub. L. 116–283 added par. (18).
+
 <b>2019</b>—Pars. (5) to (17). Pub. L. 115–427 added pars. (5) and (6) and redesignated former pars. (5) to (15) as (7) to (17), respectively.
 
 <b>2018</b>—Par. (8)(A)(viii). Pub. L. 115–254 amended cl. (viii) generally. Prior to amendment, cl. (viii) read as follows: "programs under title IV of chapter 2 of part I of that Act, relating to the Overseas Private Investment Corporation; and".
@@ -171,6 +179,8 @@ Paragraphs (9) and (10), referred to in pars. (16) and (17), were redesignated p
 <b>2008</b>—Par. (1). Pub. L. 110–457 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 <b>2003</b>—Par. (7)(A)(i). Pub. L. 108–193 inserted "in support of programs of nongovernmental organizations" before "that is made available".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

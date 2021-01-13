@@ -26,7 +26,7 @@
 
 (b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
-(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred inan appropriate enlisted grade or rating, as determined by the Secretary.
+(2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title V, §543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: "The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 \[now 7448, 8459, and 9448\] of title 10, United States Code, to reflect the amendments made by this section \[amending this section and sections 6959 and 9348 of this title\]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act \[Dec. 12, 2017\] and to persons who begin attendance at such military service academies on or after that date."
+Pub. L. 115–91, div. A, title V, §543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: "The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 \[now 7448, 8459, and 9448\] of title 10, UnitedStates Code, to reflect the amendments made by this section \[amending this section and sections 6959 and 9348 of this title\]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act \[Dec. 12, 2017\] and to persons who begin attendance at such military service academies on or after that date."
 
 #### Effective Date of 1996 Amendment
 

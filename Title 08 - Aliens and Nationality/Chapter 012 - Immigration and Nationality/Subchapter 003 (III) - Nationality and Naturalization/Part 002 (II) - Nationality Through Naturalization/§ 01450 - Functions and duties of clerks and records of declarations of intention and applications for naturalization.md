@@ -16,6 +16,8 @@
 
 (June 27, 1952, ch. 477, title III, ch. 2, §339, 66 Stat. 259; Pub. L. 101–649, title IV, §407(d)(17), Nov. 29, 1990, 104 Stat. 5045; Pub. L. 102–232, title I, §102(b)(1), Dec. 12, 1991, 105 Stat. 1735.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–232, §102(b)(1)(F), inserted sentence at end relating to return of defaced or injured certificates of naturalization to Attorney General.
@@ -28,6 +30,8 @@ Subsec. (a)(3), (4). Pub. L. 102–232, §102(b)(1)(C)–(E), added par. (4), re
 
 <b>1990</b>—Pub. L. 101–649 amended section generally, substituting provisions relating to functions and duties of clerks and records of declarations of intention and applications for naturalization, for provisions relating to functions and duties of clerks of naturalization courts.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–232 effective 30 days after Dec. 12, 1991, see section 102(c) of Pub. L. 102–232, set out as a note under section 1421 of this title.
@@ -38,5 +42,5 @@ Amendment by Pub. L. 101–649 not applicable to functions and duties respecting
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

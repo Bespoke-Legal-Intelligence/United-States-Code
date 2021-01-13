@@ -12,13 +12,15 @@ Notwithstanding any other provision of law, any appeal from—
 
 #### (b) Appellate proceedings
 
-If appeals are taken from decisions described in subsection (a) of this section involving section 1005 or 1008 <sup>1</sup> of this title or section 9 or 15of the Milwaukee Railroad Restructuring Act \[45 U.S.C. 908 or 915\], the court of appeals shall determine such appeals in a consolidated proceeding, sitting en banc.
+If appeals are taken from decisions described in subsection (a) of this section involving section 1005 or 1008 <sup>1</sup> of this title or section 9 or 15 of the Milwaukee Railroad Restructuring Act \[45 U.S.C. 908 or 915\], the court of appeals shall determine such appeals in a consolidated proceeding, sitting en banc.
 
 #### (c) Action in United States Court of Claims
 
 Nothing in this chapter or in the Milwaukee Railroad Restructuring Act (45 U.S.C. 901 et seq.) shall limit the right of any person to commence an action in the United States Court of Claims <sup>1</sup> under section 1491 of title 28 (commonly referred to as the Tucker Act).
 
 (Pub. L. 96–254, title I, §124, as added Pub. L. 96–448, title VII, §701(a)(1), Oct. 14, 1980, 94 Stat. 1959; amended Pub. L. 98–620, title IV, §402(49), Nov. 8, 1984, 98 Stat. 3361.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ The United States Court of Claims, referred to in subsec. (c), and the United St
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provision requiring the court to render a final decision no later than 60 days after the filing of the last such appeal.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

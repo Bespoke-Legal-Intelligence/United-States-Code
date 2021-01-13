@@ -16,7 +16,11 @@ Authority.—The Secretary of Defense is authorized to conduct or support a prog
 
 &emsp;(6) Military intelligence operations.
 
-&emsp;(7) Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+&emsp;(7) Air domain awareness operations.
+
+&emsp;(8) Operations or activities that contribute to an existing international coalition operation that is determined by the Secretary to be in the national interest of the United States.
+
+&emsp;(9) Cyberspace security and defensive cyberspace operations.
 
 (b)
 
@@ -28,7 +32,7 @@ Concurrence in conduct of programs.—The concurrence of the Secretary of State 
 
 &emsp;(2)
 
-Joint development and planning of programs.—The Secretary of Defense and theSecretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
+Joint development and planning of programs.—The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
 
 &emsp;(3)
 
@@ -92,7 +96,7 @@ Notice and Wait on Activities Under Programs.—Not later than 15 days before in
 
 &emsp;(5) Information, including the amount, type, and purpose, on the security assistance provided the foreign country during the three preceding fiscal years pursuant to authorities under this title, the Foreign Assistance Act of 1961, and any other train and equip authorities of the Department of Defense.
 
-&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, and of the interagency integrated country strategy, that will be advanced by the program.
+&emsp;(6) A description of the elements of the theater security cooperation plan of the geographic combatant command concerned, andof the interagency integrated country strategy, that will be advanced by the program.
 
 &emsp;(7) In the case of a program described in subsection (d)(3), each of the following:
 
@@ -138,7 +142,7 @@ In general.—Amounts available in a fiscal year to carry out the authority in s
 
 Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908.)
 
 #### References in Text
 
@@ -149,6 +153,10 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pu
 A prior section 333 was renumbered section 253 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7), (8). Pub. L. 116–283, §1201(1), (2), added par. (7) and redesignated former par. (7) as (8).
+
+Subsec. (a)(9). Pub. L. 116–283, §1201(3), added par. (9).
 
 <b>2019</b>—Subsec. (a)(7). Pub. L. 116–92, §1201(a), inserted "existing" before "international coalition operation".
 
@@ -164,9 +172,67 @@ Subsec. (e)(8). Pub. L. 115–232, §1203(c)(2), added par. (8).
 
 Subsec. (c)(2)(B). Pub. L. 115–91, §1204(b)(1)(B), substituted "Institutional capacity building" for "Respect for civilian control of the military".
 
-Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military" for "Human rights training" and in text, inserted "or the Department of State" after "Department of Defense" and substituted "training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military" for "human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict".
+Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military" for "Human rights training" and in text, inserted"or the Department of State" after "Department of Defense" and substituted "training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military" for "human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict".
 
-Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutionsof such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
+Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
+
+#### Pilot Program To Improve Cyber Cooperation with Vietnam, Thailand, and Indonesia
+
+Pub. L. 116–283, div. A, title XII, §1256, Jan. 1, 2021, 134 Stat. 3956, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, with the concurrence of the Secretary of State, may establish, using existing authorities of the Department of Defense, a pilot program in Vietnam, Thailand, and Indonesia—
+
+&emsp;"(1) to enhance the cyber security, resilience, and readiness of the military forces of Vietnam, Thailand, and Indonesia; and
+
+&emsp;"(2) to increase regional cooperation between the United States and Vietnam, Thailand, and Indonesia on cyber issues.
+
+"(b)
+
+Elements.—The activities of the pilot program under subsection (a) shall include the following:
+
+&emsp;"(1) Provision of training to military officers and civilian officials in the ministries of defense of Vietnam, Thailand, and Indonesia.
+
+&emsp;"(2) The facilitation of regular dialogues and trainings among the Department of Defense and the ministries of defense of Vietnam, Thailand, and Indonesia with respect to the development of infrastructure to protect against foreign cyber attacks.
+
+&emsp;"(3) To undertake, as part of cyber cooperation, training that includes curricula expressly relating to human rights, the rule of law, and internet freedom.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Design of pilot program.—Not later than June 1, 2021, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a report on the design of the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Progress report.—Not later than December 31, 2021, and annually thereafter until the date on which the pilot program terminates under subsection (e), the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a report on the pilot program that includes—
+
+&emsp;&emsp;"(A) a description of the activities conducted and the results of such activities;
+
+&emsp;&emsp;"(B) an assessment of reforms relevant to cybersecurity and technology in enhancing the cyber security, resilience, and readiness of the military forces of Vietnam, Thailand, and Indonesia;
+
+&emsp;&emsp;"(C) an assessment of the effectiveness of curricula relating to human rights, the rule of law, and internet freedom; and
+
+&emsp;&emsp;"(D) the content and curriculum of any program made available to participants of such program.
+
+"(d)
+
+Certification.—Not later than 30 days before the date on which the pilot program under subsection (a) is scheduled to commence, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a certification indicating whether such program would credibly enable, enhance, or facilitate violations of internet freedom or other human rights abuses in Vietnam, Indonesia, or Thailand.
+
+"(e)
+
+Termination.—The pilot program under subsection (a) shall terminate on December 31, 2024.
+
+"(f)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Guidance
 
@@ -174,7 +240,7 @@ Pub. L. 114–328, div. A, title XII, §1241(d)(4), Dec. 23, 2016, 130 Stat. 250
 
 #### Training for Eastern European National Security Forces in the Course of Multilateral Exercises
 
-Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662, provided that:
+Pub. L. 114–92, div. A, title XII, §1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, §1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, §1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, §1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, §1243, Jan. 1, 2021, 134 Stat. 3947, provided that:
 
 "(a)
 
@@ -204,7 +270,7 @@ Eligible Countries.—
 
 &emsp;"(1)
 
-In general.—Training may be provided under subsection (a) to the national security forces of the countries determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be appropriate recipients of such training from among the countries as follows:
+In general.—Training may be provided under subsection (a) to the national security forces of thecountries determined by the Secretary of Defense, with the concurrence of the Secretary of State, to be appropriate recipients of such training from among the countries as follows:
 
 &emsp;&emsp;"(A) Countries that are a signatory to the Partnership for Peace Framework Documents, but not a member of the North Atlantic Treaty Organization.
 
@@ -278,7 +344,7 @@ Incremental Expenses Defined.—In this section, the term 'incremental expenses'
 
 "(h)
 
-Termination of Authority.—The authority under this section shall terminate on December 31, 2021. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2021."
+Termination of Authority.—The authority under this section shall terminate on December 31, 2023. Any activity under this section initiated before that date may be completed, but only using funds available for the period beginning on October 1, 2015, and ending on December 31, 2023."
 
 #### Indo-Pacific Maritime Security Initiative
 
@@ -478,65 +544,5 @@ Expiration.—Assistance and training may not be provided under this section aft
 
 #### Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights
 
-Pub. L. 113–291, div. A, title XII, §1206, Dec. 19, 2014, 128 Stat. 3538, as amended by Pub. L. 115–232, div. A, title XII, §1205(c), Aug. 13, 2018, 132 Stat. 2018, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense is authorized to conduct human rights training of security forces and associated security ministries of foreign countries.
-
-"(b)
-
-Construction With Limitation on Use of Funds.—Human rights training authorized by this section may be conducted for security forces otherwise prohibited from receiving such training under any provision of law only if—
-
-&emsp;"(1) such training is conducted in the country of origin of the security forces;
-
-&emsp;"(2) such training is withheld from any individual of a unit when there is credible information that such individual has committed a gross violation of human rights or has commanded a unit that has committed a gross violation of human rights;
-
-&emsp;"(3) such training may be considered a corrective step, but is not sufficient for meeting the accountability requirement under the exception established in section 362(b) of title 10, United States Code; and
-
-&emsp;"(4) reasonable efforts have been made to assist the foreign country to take all necessary corrective steps regarding a gross violation of human rights with respect to the unit, including using funds authorized by this Act \[see Tables for classification\] to provide technical assistance or other types of support for accountability.
-
-"(c)
-
-Role of the Secretary of State.—
-
-&emsp;"(1)
-
-Concurrence.—Training activities may be conducted under this section only with the concurrence of the Secretary of State.
-
-&emsp;"(2)
-
-Consultation.—The Secretary of Defense shall consult with the Secretary of State on the content of the training, the methods of instruction to be provided, and the intended beneficiaries of training conducted under this section.
-
-"(d)
-
-Authorized Activities.—Human rights training authorized by this section may include associated activities and expenses necessary for the conduct of training and assessments designed to further the purposes of this section, including technical assistance or other types of support for accountability.
-
-"(e)
-
-Annual Reports.—Not later than March 31 each year through 2020, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the use of the authority in this section during the preceding fiscal year. Each report shall include information on any human rights training (as defined in subsection (f)) or other assistance that was provided during the fiscal year to foreign security forces.
-
-"(f)
-
-Definitions.—In this section
-
-&emsp;"(1) The term 'appropriate committees of Congress' means—
-
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
-
-&emsp;"(2) The term 'human rights training' means training for the purpose of directly improving the conduct of foreign security forces to—
-
-&emsp;&emsp;"(A) prevent gross violations of human rights and support accountability for such violations;
-
-&emsp;&emsp;"(B) strengthen compliance with the laws of armed conflict and respect for civilian control over the military;
-
-&emsp;&emsp;"(C) promote and assist in the establishment of a military justice system and other mechanisms for accountability; and
-
-&emsp;&emsp;"(D) prevent the use of child soldiers.
-
-"(g)
-
-Sunset.—The authority in subsection (a) shall expire on September 30, 2020."
+Pub. L. 113–291, div. A, title XII, §1206, Dec. 19, 2014, 128 Stat. 3538, as amended by Pub. L. 115–232, div. A, title XII, §1205(c), Aug. 13, 2018, 132 Stat. 2018, authorized the Secretary of Defense to conduct human rights training of security forces and associated security ministries of foreign countries and terminated such authority on Sept. 30, 2020.
 

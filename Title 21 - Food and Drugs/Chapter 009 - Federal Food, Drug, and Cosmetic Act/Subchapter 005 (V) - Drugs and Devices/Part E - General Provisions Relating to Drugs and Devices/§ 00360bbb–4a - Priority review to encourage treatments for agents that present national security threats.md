@@ -36,7 +36,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall award a priority review voucher to the sponsor of a material threatmedical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
+&emsp;The Secretary shall award a priority review voucher to the sponsor of a material threat medical countermeasure application upon approval by the Secretary of such material threat medical countermeasure application.
 
 #### (2) Transferability
 
@@ -109,6 +109,8 @@ The provisions of this section shall supplement, not supplant, any other provisi
 The Secretary may not award any priority review vouchers under subsection (b) after October 1, 2023.
 
 (June 25, 1938, ch. 675, §565A, as added Pub. L. 114–255, div. A, title III, §3086, Dec. 13, 2016, 130 Stat. 1144.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

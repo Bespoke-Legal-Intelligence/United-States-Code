@@ -1,6 +1,6 @@
 ### §8112. Definition
 
-For purposes of this subchapter, the term "intellectual property enforcement" means matters relating to the enforcement of laws protecting copyrights, patents, trademarks, other forms of intellectual property, and trade secrets, both inthe United States and abroad, including in particular matters relating to combating counterfeit and infringing goods.
+For purposes of this subchapter, the term "intellectual property enforcement" means matters relating to the enforcement of laws protecting copyrights, patents, trademarks, other forms of intellectual property, and trade secrets, both in the United States and abroad, including in particular matters relating to combating counterfeit and infringing goods.
 
 (Pub. L. 110–403, title III, §302, Oct. 13, 2008, 122 Stat. 4266.)
 

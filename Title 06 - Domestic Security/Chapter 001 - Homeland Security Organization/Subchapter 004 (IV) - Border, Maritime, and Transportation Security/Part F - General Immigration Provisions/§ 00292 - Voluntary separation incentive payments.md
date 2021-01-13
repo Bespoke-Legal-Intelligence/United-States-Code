@@ -84,7 +84,7 @@ The Attorney General and the Secretary may, to the extent necessary to help carr
 
 #### (4) Final basic pay defined
 
-&emsp;In this subsection, the term "final basic pay" means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate ofbasic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
+&emsp;In this subsection, the term "final basic pay" means, with respect to an employee, the total amount of basic pay which would be payable for a year of service by such employee, computed using the employee's final rate of basic pay, and, if last serving on other than a full-time basis, with appropriate adjustment therefor.
 
 #### (e) Effect of subsequent employment with the Government
 
@@ -102,11 +102,15 @@ An individual who receives a voluntary separation incentive payment under this s
 
 (Pub. L. 107–296, title IV, §472, Nov. 25, 2002, 116 Stat. 2205.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 663 of Public Law 104–208, referred to in subsecs. (a)(1) and (b)(3), probably means Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §663\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, which is classified as a note under section 5597 of Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any requirement authorized by or under section 351, 352, 360, or 360i of this title applicable to a device intended for human use shall apply to such device until the applicability of the requirement to the device has been changed by action taken under section 360c, 360d, or 360e of this title or under subsection (g) of this section, and any requirement established by or under section 351, 352, 360, or 360i of this title which is inconsistent with a requirement imposed on such device under section 360d or 360e of this title or under subsection (g) of this section shall not apply to such device.
+Any requirement authorized by or under section 351, 352, 360, or 360i of this title applicable to a device intended for human use shall applyto such device until the applicability of the requirement to the device has been changed by action taken under section 360c, 360d, or 360e of this title or under subsection (g) of this section, and any requirement established by or under section 351, 352, 360, or 360i of this title which is inconsistent with a requirement imposed on such device under section 360d or 360e of this title or under subsection (g) of this section shall not apply to such device.
 
 #### (b) Custom devices
 
@@ -60,7 +60,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) upon such other conditions as the Secretary may prescribe in such regulation,
 
-> if, because of its potentiality for harmful effect or the collateral measures necessary to its use, the Secretary determines that there cannot otherwise be reasonable assurance of its safety and effectiveness. No condition prescribed under subparagraph (B) may restrict the use of a device to persons with specific training or experience in its use or to persons for use in certain facilities unless the Secretary determines that such a restriction is required for the safe and effective use of the device. No such condition may exclude a person from using a device solely because the person does not have the training or experience to make him eligible for certification by a certifying board recognized by the American Board of Medical Specialties or has not been certified by such a Board. A device subject to a regulation under this subsection is a restricted device.
+> if, because of its potentiality for harmful effect or the collateral measures necessary to its use, the Secretary determines that there cannot otherwise be reasonable assurance of its safety and effectiveness. No condition prescribed under subparagraph (B) may restrict the use of a device to persons with specific training or experience in its use or to persons for use in certain facilities unless the Secretary determines that such a restriction is required for the safe and effective use of the device. No such condition may exclude a person from using a device solely because the person does not have the training or experience to make him eligible for certification by a certifying board recognized by the American Board of Medical Specialties or has notbeen certified by such a Board. A device subject to a regulation under this subsection is a restricted device.
 
 (2) The label of a restricted device shall bear such appropriate statements of the restrictions required by a regulation under paragraph (1) as the Secretary may in such regulation prescribe.
 
@@ -74,7 +74,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(ii) afford opportunity for an oral hearing; and
 
-&emsp;(iii) ensure that such regulation conforms, to the extent practicable, with internationallyrecognized standards defining quality systems, or parts of the standards, for medical devices.
+&emsp;(iii) ensure that such regulation conforms, to the extent practicable, with internationally recognized standards defining quality systems, or parts of the standards, for medical devices.
 
 > The Secretary shall provide the advisory committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A).
 
@@ -110,7 +110,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(B) Two of the members shall be appointed from persons who are representative of interests of the device manufacturing industry; two of the members shall be appointed from persons who are representative of the interests of physicians and other health professionals; and two of the members shall be representative of the interests of the general public.
 
-> Members of the advisory committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of the advisory committee to serve as its chairman. The Secretary shall furnish the advisory committee with clerical and other assistance. Section 14 of the Federal Advisory Committee Act shall not apply with respect to the duration of the advisory committee established under this paragraph.
+> Members of the advisory committee who are not officers or employees of the United States, while attending conferences or meetings of the committee or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members ofthe advisory committee to serve as its chairman. The Secretary shall furnish the advisory committee with clerical and other assistance. Section 14 of the Federal Advisory Committee Act shall not apply with respect to the duration of the advisory committee established under this paragraph.
 
 #### (g) Exemption for devices for investigational use
 
@@ -154,7 +154,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 > The determination required by subparagraph (D)(ii) shall be concurred in by a licensed physician who is not involved in the testing of the human subject with respect to which such determination is made unless immediate use of the device is required to save the life of the human subject of such testing and there is not sufficient time to obtain such concurrence.
 
-(4)(A) An application, submitted in accordance with the procedures prescribed by regulations under paragraph (2), for an exemption for a device (other than an exemption from section 360f of this title) shall be deemed approved on the thirtieth day after the submission of the application to the Secretary unless on or before such day the Secretary by order disapproves the application and notifies the applicant of the disapproval of the application.
+(4)(A) An application, submitted in accordance with the procedures prescribed by regulations under paragraph (2), for an exemption for a device (other than an exemption from section 360f of this title) shall be deemed approved on the thirtieth day after the submission of the application to the Secretary unless on or before suchday the Secretary by order disapproves the application and notifies the applicant of the disapproval of the application.
 
 (B) The Secretary may disapprove an application only if he finds that the investigation with respect to which the application is submitted does not conform to procedures and conditions prescribed under regulations under paragraph (2). Such a notification shall contain the order of disapproval and a complete statement of the reasons for the Secretary's disapproval of the application and afford the applicant opportunity for an informal hearing on the disapproval order.
 
@@ -166,7 +166,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) an additional or different investigation may be necessary to support clearance or approval of the device.
 
-(5) The Secretary may by order withdraw an exemption granted under this subsection for adevice if the Secretary determines that the conditions applicable to the device under this subsection for such exemption are not met. Such an order may be issued only after opportunity for an informal hearing, except that such an order may be issued before the provision of an opportunity for an informal hearing if the Secretary determines that the continuation of testing under the exemption with respect to which the order is to be issued will result in an unreasonable risk to the public health.
+(5) The Secretary may by order withdraw an exemption granted under this subsection for a device if the Secretary determines that the conditions applicable to the device under this subsection for such exemption are not met. Such an order may be issued only after opportunity for an informal hearing, except that such an order may be issued before the provision of an opportunity for an informal hearing if the Secretary determines that the continuation of testing under the exemption with respect to which the order is to be issued will result in an unreasonable risk to the public health.
 
 (6)(A) Not later than 1 year after November 21, 1997, the Secretary shall by regulation establish, with respect to a device for which an exemption under this subsection is in effect, procedures and conditions that, without requiring an additional approval of an application for an exemption or the approval of a supplement to such an application, permit—
 
@@ -200,7 +200,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 (B) For purposes of subparagraph (A), a determination described in this subparagraph with respect to a clinical hold is a determination that—
 
-&emsp;(i) the device involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation, taking into account the qualifications of the clinical investigators, information about the device, the design of the clinical investigation, the condition for which the device is to be investigated, and the health status of the subjects involved; or
+&emsp;(i) the device involved represents an unreasonable risk to the safety of the persons who are the subjects of the clinical investigation,taking into account the qualifications of the clinical investigators, information about the device, the design of the clinical investigation, the condition for which the device is to be investigated, and the health status of the subjects involved; or
 
 &emsp;(ii) the clinical hold should be issued for such other reasons as the Secretary may by regulation establish.
 
@@ -294,7 +294,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 > within the sixty-day period beginning on the enactment date (or within such greater period as the Secretary, after making the finding required under section 360e(d)(1)(B) of this title, and the petitioner or applicant may agree upon), the Secretary shall act on such petition or application in accordance with paragraph (2) or section 360e of this title except that the period within which the Secretary must act on the petition or application shall be within the one hundred and twenty-day period beginning on the date the petition or application is filed. If such a petition or application is filed within such sixty-day (or greater) period, clause (i) of this subparagraph shall not apply to such device before the expiration of such one hundred and twenty-day period, or if such petition is denied or such application is denied approval, before the date of such denial, whichever occurs first.
 
-(iii) In the case of a device which is described in subparagraph (E) of paragraph (1), which the Secretary in a notice published in the Federal Register after March 31, 1976, declared to be a new drug subject to section 355 of this title, and which is in class III—
+(iii) In the case of a device which is described in subparagraph (E) of paragraph (1), which the Secretary in a notice published in the Federal Register after March 31, 1976, declared to be anew drug subject to section 355 of this title, and which is in class III—
 
 &emsp;(I) the device shall, after eighteen months after the enactment date, have in effect an approved application under section 360e of this title unless exempt under subsection (g) of this section, and
 
@@ -304,7 +304,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (4) Repealed. Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.
 
-(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph\(B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
+(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
 
 (B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
 
@@ -332,7 +332,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(B) if, before the use of a device, an institutional review committee or an appropriate local committee approves the use in the treatment or diagnosis of a disease or condition referred to in paragraph (2)(A), unless a physician determines in an emergency situation that approval from an institutional review committee or an appropriate local committee can not be obtained in time to prevent serious harm or death to a patient.
 
-> In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee or an appropriate local committee, the physician shall, after the use of the device, notify the chairperson of the institutional review committee or an appropriate local committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
+> In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee or an appropriate local committee, the physician shall, after the use of the device, notify the chairperson of the institutional review committee or an appropriate local committee ofsuch use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
 
 (5) The Secretary may require a person granted an exemption under paragraph (2) to demonstrate continued compliance with the requirements of this subsection if the Secretary believes such demonstration to be necessary to protect the public health, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met, or if the Secretary has reason to believe that the criteria for the exemption are no longer met. If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.
 
@@ -340,7 +340,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;(i) The device with respect to which the exemption is granted—
 
-&emsp;&emsp;(I) is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use inpediatric patients or in a pediatric subpopulation in which the disease or condition occurs; or
+&emsp;&emsp;(I) is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs; or
 
 &emsp;&emsp;(II) is intended for the treatment or diagnosis of a disease or condition that does not occur in pediatric patients or that occurs in pediatric patients in such numbers that the development of the device for such patients is impossible, highly impracticable, or unsafe.
 
@@ -382,7 +382,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (1) The term device,<sup>1</sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
 
-&emsp;(A) for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
+&emsp;(A) for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patientpopulations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
 
 &emsp;(B) for maintaining or encouraging a healthy lifestyle and is unrelated to the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
 
@@ -394,7 +394,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;&emsp;(iii) such function is not intended to interpret or analyze patient records, including medical image data, for the purpose of the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
 
-&emsp;(D) for transferring, storing, converting formats, or displaying clinical laboratory test or other device data and results, findings by a health care professional with respect to such data and results, general information aboutsuch findings, and general background information about such laboratory test or other device, unless such function is intended to interpret or analyze clinical laboratory test or other device data, results, and findings; or
+&emsp;(D) for transferring, storing, converting formats, or displaying clinical laboratory test or other device data and results, findings by a health care professional with respect to such data and results, general information about such findings, and general background information about such laboratory test or other device, unless such function is intended to interpret or analyze clinical laboratory test or other device data, results, and findings; or
 
 &emsp;(E) unless the function is intended to acquire, process, or analyze a medical image or a signal from an in vitro diagnostic device or a pattern or signal from a signal acquisition system, for the purpose of—
 
@@ -448,7 +448,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 #### (1) In general
 
-&emsp;The Secretary may, subject to the succeeding provisions of this subsection, approve an application (or a supplement to such an application) submitted under section 360e of this title with respect to an applicable medical imaging device, or, in the case of an applicable medical imaging device for which a notification is submitted under section 360(k) of this title, may make a substantial equivalence determination with respect to an applicable medical imaging device, or may grant a request submitted under section 360c(f)(2) of this title for an applicable medical imaging device, if such application, notification, or request involves the use of a contrast agent that is not—
+&emsp;The Secretary may, subject to the succeeding provisions of this subsection, approvean application (or a supplement to such an application) submitted under section 360e of this title with respect to an applicable medical imaging device, or, in the case of an applicable medical imaging device for which a notification is submitted under section 360(k) of this title, may make a substantial equivalence determination with respect to an applicable medical imaging device, or may grant a request submitted under section 360c(f)(2) of this title for an applicable medical imaging device, if such application, notification, or request involves the use of a contrast agent that is not—
 
 &emsp;&emsp;(A) in a concentration, rate of administration, or route of administration that is different from those described in the approved labeling of the contrast agent, except that the Secretary may approve such application, make such substantial equivalence determination, or grant such request if the Secretary determines that such differences in concentration, rate of administration, or route of administration exist but do not adversely affect the safety and effectiveness of the contrast agent when used with the device;
 
@@ -512,7 +512,9 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 &emsp;An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), titleVII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065.)
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -582,7 +584,7 @@ Subsec. (m)(6)(A)(ii). Pub. L. 112–144, §613(a)(1)(A)(ii), added cl. (ii) and
 
 Subsec. (m)(6)(A)(iv). Pub. L. 112–144, §507(c), substituted "2017" for "2012".
 
-Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
+Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information onthe number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
 
 Subsec. (m)(7). Pub. L. 112–144, §613(a)(2), substituted "regarding a device described in paragraph (6)(A)(i)(I)" for "regarding a device".
 
@@ -594,7 +596,7 @@ Subsec. (m)(3). Pub. L. 110–85, §303(a)(1), substituted "Except as provided i
 
 Subsec. (m)(5). Pub. L. 110–85, §303(a)(2), inserted ", if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met," after "public health" and inserted at end "If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
-Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: "The Secretary may suspend or withdraw anexemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
+Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: "The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
 <b>2005</b>—Subsec. (n). Pub. L. 109–96 added subsec. (n).
 
@@ -646,6 +648,8 @@ Subsec. (l)(5). Pub. L. 101–629, §4(b)(2), added par. (5).
 
 Subsec. (m). Pub. L. 101–629, §14(a), added subsec. (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
@@ -680,7 +684,7 @@ Requirements.—In promulgating the regulations under paragraph (1), the Secreta
 
 &emsp;"(3)
 
-Premarket notification.—The Secretary shall make findings under section 510(m) of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 360(m)) to determine whether over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(q)\]), as amended by subsection (a)) require a report under section 510(k) \[21 U.S.C. 360(k)\] to provide reasonable assurance of safety and effectiveness.
+Premarket notification.—The Secretary shall make findings under section 510(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(m)) to determine whether over-the-counter hearing aids (as defined in section 520(q) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j\[(q)\]), as amended by subsection (a)) require a report under section 510(k) \[21 U.S.C. 360(k)\] to provide reasonable assurance of safety and effectiveness.
 
 &emsp;"(4)
 
@@ -724,7 +728,7 @@ Pub. L. 107–250, title II, §213, Oct. 26, 2002, 116 Stat. 1614, provided that
 
 #### Report on Humanitarian Device Exemptions
 
-Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of Health and Human Services, within 4 years after issuance of regulations under 21 U.S.C. 360j(m)(6), to report to Congress on types of devices exempted, an evaluation of effects of such section, and a recommendation on extension of the section.
+Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of Health and Human Services, within4 years after issuance of regulations under 21 U.S.C. 360j(m)(6), to report to Congress on types of devices exempted, an evaluation of effects of such section, and a recommendation on extension of the section.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

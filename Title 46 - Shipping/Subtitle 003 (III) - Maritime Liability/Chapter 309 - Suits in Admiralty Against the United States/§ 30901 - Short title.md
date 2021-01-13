@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 46 App.:741 note.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act Mar. 9, 1920, ch. 95, 41 Stat. 525, which enacted chapter 20 (§741 et seq.) of the former Appendix to this title, was popularly known as the "Suits in Admiralty Act", prior to being repealed and restated in this chapter by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710.

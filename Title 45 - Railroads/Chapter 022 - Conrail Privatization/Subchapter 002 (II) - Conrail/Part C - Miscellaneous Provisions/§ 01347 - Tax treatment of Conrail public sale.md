@@ -46,13 +46,15 @@ For purposes of this section—
 
 #### (2) Public sale
 
-&emsp;The term "public sale" means the sale of stock in Conrail pursuant to a public offeringunder the Conrail Privatization Act \[45 U.S.C. 1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
+&emsp;The term "public sale" means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act \[45 U.S.C. 1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
 
 #### (3) Secretary
 
 &emsp;The term "Secretary" means the Secretary of the Treasury or his delegate.
 
 (Pub. L. 99–509, title VIII, §8021, Oct. 21, 1986, 100 Stat. 1954; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

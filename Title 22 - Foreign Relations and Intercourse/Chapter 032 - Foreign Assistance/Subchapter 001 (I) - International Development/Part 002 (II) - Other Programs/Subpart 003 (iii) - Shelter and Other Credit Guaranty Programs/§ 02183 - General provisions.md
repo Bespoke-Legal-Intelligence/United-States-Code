@@ -6,7 +6,7 @@ A fee shall be charged for each guaranty issued under section 2182 or 2182a of t
 
 #### (b) Accumulated and existing fees; expenditure of fees; revolving fund account; investments; use of investment income
 
-The amount of $50,000,000 of fees accumulated under prior investment guaranty provisions repealed by the Foreign Assistance Act of 1969, together with all fees collected in connection with guaranties issued under section 2182 of this title or under prior housing guaranty authorities, shall be available for meeting necessary administrative and operating expenses of carrying out the provisions of section 2182 of this title and administering housing guaranties heretofore authorized under this subpart and under prior housing guaranty provisions repealed by the Foreign Assistance Act of 1969 (including, but not limited to expenses pertaining to personnel,supplies, and printing), subject to such limitations as may be imposed in annual appropriation Acts; for meeting management and custodial costs incurred with respect to currencies or other assets acquired under guaranties made pursuant to section 2182 of this title or heretofore pursuant to this subpart or prior Latin American and other housing guaranty authorities repealed by the Foreign Assistance Act of 1969; and to pay the cost of investigating and adjusting (including costs of arbitration) claims under such guaranties; and shall be available for expenditure in discharge of liabilities under such guaranties until such time as all such property has been disposed of and all such liabilities have been discharged or have expired, or until all such fees have been expended in accordance with the provisions of this subsection. Fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section. All of the foregoing fees referred to in this section together with earnings thereon and other income arising from guaranty operations under this subpart shall be held in a revolving fund account maintained in the Treasury of the United States. All funds in such account may be invested in obligations of the United States. Any interest or other receipts derived from such investments shall be credited to such account and may be used for the purposes cited in this section.
+The amount of $50,000,000 of fees accumulated under prior investment guaranty provisions repealed by the Foreign Assistance Act of 1969, together with all fees collected in connection with guaranties issued under section 2182 of this title or under prior housing guaranty authorities, shall be available for meeting necessary administrative and operating expenses of carrying out the provisions of section 2182 of this title and administering housing guaranties heretofore authorized under this subpart and under prior housing guaranty provisions repealed by the Foreign Assistance Act of 1969 (including, but not limited to expenses pertaining to personnel, supplies, and printing), subject to such limitations as may be imposed in annual appropriation Acts; for meeting management and custodial costs incurred with respect to currencies or other assets acquired under guaranties made pursuant to section 2182 of this title or heretofore pursuant to this subpart or prior Latin American and other housing guaranty authorities repealed by the Foreign Assistance Act of 1969; and to pay the cost of investigating and adjusting (including costs of arbitration) claims under such guaranties; and shall be available for expenditure in discharge of liabilities under such guaranties until such time as all such property has been disposed of and all such liabilities have been discharged or have expired, or until all such fees have been expended in accordance with the provisions of this subsection. Fees collected in connection with guaranties issued under section 2182a of this title shall likewise be available to meet similar expenses, costs, or liabilities incurred in connection with the programs authorized by that section. All of the foregoing fees referred to in this section together with earnings thereon and other income arising from guaranty operations under this subpart shall be held in a revolving fund account maintained in the Treasury of the United States. All funds in such account may be invested in obligations of the United States. Any interest or other receipts derived from such investments shall be credited to such account and may be used for the purposes cited in this section.
 
 #### (c) Priorities of funds for guaranty payments
 
@@ -44,23 +44,17 @@ No payment may be made under any guaranty issued pursuant to this subpart for an
 
 #### (j) Guaranties for housing projects; percentage requirement for families with income below median income
 
-Guaranties shall be issued under section 2182 of this title only for housing projects which are coordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
+Guaranties shall be issued under section 2182 of this title only for housing projects which arecoordinated with and complementary to any development assistance being furnished under part I of this subchapter and which are specifically designed to demonstrate the feasibility and suitability of particular kinds of housing or of financial or other institutional arrangements. Of the aggregate face value of housing guaranties hereafter issued under this subpart, not less than 90 per centum shall be issued for housing suitable for families with income below the median income (below the median urban income for housing in urban areas) in the country in which the housing is located.
 
 (Pub. L. 87–195, pt. I, §223, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 808; amended Pub. L. 92–226, pt. I, §103(b) Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §5(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–559, §§7(2), 8(a)(3)–(5), Dec. 30, 1974, 88 Stat. 1796, 1797; Pub. L. 94–161, title III, §311(5), Dec. 20, 1975, 89 Stat. 861; Pub. L. 94–329, title IV, §414, June 30, 1976, 90 Stat. 761; Pub. L. 95–88, title I, §117(a)(3), (b)(2), (c), Aug. 3, 1977, 91 Stat. 540; Pub. L. 95–424, title I, §115(c)–(j), Oct. 6, 1978, 92 Stat. 951, 952; Pub. L. 96–53, title I, §112(c), (d), Aug. 14, 1979, 93 Stat. 364; Pub. L. 97–113, title III, §310(b), Dec. 29, 1981, 95 Stat. 1535; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–142; Pub. L. 105–277, div. A, §101(d) \[title II\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–157.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
 
 Section 2200 of this title, referred to in subsec. (d), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by section 2182a of this title. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to section 2200 of this title, prior to repeal by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-
-References to part I of this subchapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Codification
 
@@ -124,6 +118,16 @@ Subsec. (i). Pub. L. 93–559, §7(2), substituted "June 30, 1976" for "June 30,
 
 <b>1972</b>—Subsec. (i). Pub. L. 92–226 substituted "June 30, 1974" for "June 30, 1972".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of this subchapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+
 #### Effective Date of 1984 Amendment
 
 Section 311(d) of H.R. 5119, as passed by the House of Representatives on May 10, 1984, and enacted into permanent law by Pub. L. 98–473, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903, provided that: "The amendment made by subsection (c) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 12, 1984\]."
@@ -135,6 +139,8 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

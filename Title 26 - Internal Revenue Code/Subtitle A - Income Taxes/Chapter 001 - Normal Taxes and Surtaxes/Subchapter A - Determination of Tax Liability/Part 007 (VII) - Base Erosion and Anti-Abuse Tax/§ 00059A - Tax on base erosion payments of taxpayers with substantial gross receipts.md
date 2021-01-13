@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (3) Special rules for determining interest for which deduction allowed
 
-&emsp;For purposes of applying paragraph (1), in the case of a taxpayer to which section 163(j) applies for the taxable year, the reduction in the amount of interest for which a deduction is allowed by reason of such subsection shallbe treated as allocable first to interest paid or accrued to persons who are not related parties with respect to the taxpayer and then to such related parties.
+&emsp;For purposes of applying paragraph (1), in the case of a taxpayer to which section 163(j) applies for the taxable year, the reduction in the amount of interest for which a deduction is allowed by reason of such subsection shall be treated as allocable first to interest paid or accrued to persons who are not related parties with respect to the taxpayer and then to such related parties.
 
 #### (4) Base erosion percentage
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "derivative" means any contract (including any option, forward contract, futures contract, short position, swap, or similar contract) the value of which, or any payment or other transfer with respect to which, is (directly or indirectly) determined by reference to one or more of the following:
+&emsp;&emsp;The term "derivative" means any contract (including any option, forward contract, futures contract, short position, swap, or similar contract) the value of which, or any payment or other transfer with respect towhich, is (directly or indirectly) determined by reference to one or more of the following:
 
 &emsp;&emsp;&emsp;(i) Any share of stock in a corporation.
 

@@ -16,7 +16,7 @@ Within five business days after the receipt by the institutional trustee of a wr
 
 #### (c) Disclosure of information deemed not violative of any law
 
-The disclosure of any such information as to the names and addresses of the indenture security holders in accordance with the provisions of this section, regardless of the source from which such information was derived, shall not be deemed to be a violation of any existing law, or of any law hereafter enacted which does not specifically refer to this section, nor shall such trustee be held accountable by reason of mailingany material pursuant to a request made under subsection (b) of this section.
+The disclosure of any such information as to the names and addresses of the indenture security holders in accordance with the provisions of this section, regardless of the source from which such information was derived, shall not be deemed to be a violation of any existing law, or of any law hereafter enacted which does not specifically refer to this section, nor shall such trustee be held accountable by reason of mailing any material pursuant to a request made under subsection (b) of this section.
 
 (May 27, 1933, ch. 38, title III, §312, as added Aug. 3, 1939, ch. 411, 53 Stat. 1164; amended Pub. L. 101–550, title IV, §410, Nov. 15, 1990, 104 Stat. 2728.)
 

@@ -70,13 +70,43 @@ Section 6101 of title 41 shall not apply to any contract of hazard insurance or 
 
 #### (2) Release
 
-&emsp;The Secretary may release, in whole or in part, any real property interest, or tangible personal property interest, in connection with a grant after the date that is 20 years after the date on which the grant was awarded.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary may release, in whole or in part, any real property interest, or tangible personal property interest, in connection with a grant after the date that is 20 years after the date on which the grant was awarded.
+
+#### (B) Certain releases
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;On written request from a recipient of a grant under section 3149(d) of this title, the Secretary shall release, in accordance with this subparagraph, any Federal interest in connection with the grant, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the request is made not less than 7 years after the final disbursement of the original grant;
+
+&emsp;&emsp;&emsp;&emsp;(II) the recipient has complied with the terms and conditions of the grant to the satisfaction of the Secretary;
+
+&emsp;&emsp;&emsp;&emsp;(III) any proceeds realized from the grant will be used for 1 or more activities that continue to carry out the economic development purposes of this chapter; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) the recipient includes in the written request a description of how the recipient will use the proceeds of the grant in accordance with subclause (III).
+
+#### (ii) Deadline
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the Secretary shall complete all closeout actions for the grant by not later than 180 days after receipt and acceptance of the written request under clause (i).
+
+#### (II) Extension
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may extend a deadline under subclause (I) by an additional 180 days if the Secretary determines the extension to be necessary.
+
+#### (iii) Savings provision
+
+&emsp;&emsp;&emsp;Section 3212 of this title shall continue to apply to a project assisted with a grant under section 3149(d) of this title regardless of whether the Secretary releases a Federal interest under clause (i).
 
 #### (e) Powers of conveyance and execution
 
 The power to convey and to execute, in the name of the Secretary, deeds of conveyance, deeds of release, assignments and satisfactions of mortgages, and any other written instrument relating to real or personal property or any interest in such property acquired by the Secretary under this chapter may be exercised by the Secretary, or by any officer or agent appointed by the Secretary for that purpose, without the execution of any express delegation of power or power of attorney.
 
-(Pub. L. 89–136, title VI, §601, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611.)
+(Pub. L. 89–136, title VI, §601, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611; amended Pub. L. 116–192, §2, Oct. 30, 2020, 134 Stat. 978.)
 
 #### References in Text
 
@@ -84,7 +114,7 @@ The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pu
 
 The Trade Act of 1974, referred to in subsec. (d)(1)(C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
+The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31,May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -96,7 +126,21 @@ A prior section 3211, Pub. L. 89–136, title VII, §701, Aug. 26, 1965, 79 Stat
 
 A prior section 601(a) of Pub. L. 89–136 was classified to section 3201 of this title prior to repeal by Pub. L. 105–393, §102(a).
 
+#### Amendments
+
+<b>2020</b>—Subsec. (d)(2). Pub. L. 116–192 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the Secretary may" for "The Secretary may", and added subpar. (B).
+
 #### Effective Date
 
 Section effective Feb. 11, 1999, see section 105 of Pub. L. 105–393, set out as a note under section 3121 of this title.
+
+#### Authorization for Temporary Personnel To Respond to Coronavirus
+
+Pub. L. 116–136, div. B, title II, Mar. 27, 2020, 134 Stat. 510, provided in part: "That the Secretary of Commerce is authorized to appoint and fix the compensation of such temporary personnel as may be necessary to implement the requirements under this heading \[
+
+'economic development assistance programs' under
+
+'Economic Development Administration'\] in this Act \[div. B of Pub. L. 116–136\] to prevent, prepare for, and respond to coronavirus, without regard to the provisions of title 5, United States Code, governing appointments in competitive service: <i>Provided further</i>, That the Secretary of Commerce is authorized to appoint such temporary personnel, after serving continuously for 2 years, to positions in the Economic Development Administration in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions and an individual appointed under this provision shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure".
+
+\[For definition of "coronavirus" as used in provision of title II of div. B of Pub. L. 116–136, set out above, see section 23005 of div. B of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 

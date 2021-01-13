@@ -66,7 +66,9 @@ Upon the approval of any application for insurance, the Board shall notify the a
 
 &emsp;No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V,§§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title II, §201, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, §301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, §2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, §2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, §726(11), Oct. 13, 2006, 120 Stat. 2002.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -90,13 +92,15 @@ Subsec. (c). Pub. L. 95–630, §502(b), substituted "Board" for "Administrator"
 
 Subsecs. (d), (e). Pub. L. 95–630, §§502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted "Board" for "Administrator".
 
-<b>1977</b>—Subsec. (c)(3) Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
+<b>1977</b>—Subsec. (c)(3). Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
 <b>1971</b>—Subsec. (c)(2). Pub. L. 92–221, §1(a), substituted "disapproved" for "reject".
 
 Subsec. (c)(3). Pub. L. 92–221, §2, added par. (3).
 
 Subsec. (d). Pub. L. 92–221, §1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

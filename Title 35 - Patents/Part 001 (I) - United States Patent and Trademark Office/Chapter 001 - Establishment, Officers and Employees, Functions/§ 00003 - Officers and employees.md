@@ -50,7 +50,7 @@ Salary and performance agreement.—The Commissioners shall be paid an annual ra
 
 &emsp;&emsp;(C)
 
-Removal.—The Commissioners may be removed from office by the Secretary formisconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
+Removal.—The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
 
 &emsp;(3)
 
@@ -120,13 +120,15 @@ Continuation in office of certain officers.—(A) The individual serving as the 
 
 #### Historical and Revision Notes
 
-Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, §1, 39 Stat. 8, (2) Feb. 14, 1927,ch. 139, §1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, §1, 46 Stat. 155).
+Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, ch. 22, §1, 39 Stat. 8, (2) Feb. 14, 1927, ch. 139, §1, 44 Stat. 1098, (3) Apr. 11, 1930, ch. 132, §1, 46 Stat. 155).
 
 The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., §7) permit a vacancy to be temporarily filled only for not more than 30 days.
 
 Changes in language are made. "Assistant commissioners" is used in the second sentence (and elsewhere in the bill) as referring to all three assistants.
 
 This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263) which vests all functions of the Patent Office in the Secretary of Commerce and authorizes delegation by him. It has been found impractical to so word the various sections of the title, and a general provision has been inserted as the second paragraph of this section of the bill, leaving the wording of various sections of the title in terms of officers previously specified and to whom the functions presently stand delegated.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -181,6 +183,8 @@ Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs
 <b>1959</b>—Pub. L. 86–370 authorized Secretary of Commerce to fix compensation of examiners-in-chief.
 
 <b>1958</b>—Pub. L. 85–933 increased number of examiners-in-chief from nine to not more than fifteen and specified annual compensation of Commissioner.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

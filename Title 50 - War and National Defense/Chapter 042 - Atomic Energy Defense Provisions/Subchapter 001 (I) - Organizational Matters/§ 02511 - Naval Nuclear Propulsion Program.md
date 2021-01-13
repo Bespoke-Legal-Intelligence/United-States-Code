@@ -18,7 +18,7 @@ All national security functions and activities performed immediately before Oct.
 
 #### Executive Order No. 12344 To Remain in Force
 
-Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of titleXXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
+Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of title XXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
 
 #### Ex. Ord. No. 12344. Naval Nuclear Propulsion Program
 

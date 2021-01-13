@@ -44,7 +44,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 #### (4) Special rule
 
-&emsp;The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.
+&emsp;The determinations of the Director of the Census under this subsection shall be effectiveupon publication in the Federal Register and shall not be subject to review in any court.
 
 #### (c) Requirement of voting notices, forms, instructions, assistance, or other materials and ballots in minority language
 
@@ -59,6 +59,8 @@ Any State or political subdivision subject to the prohibition of subsection (b) 
 For purposes of this section, the term "language minorities" or "language minority group" means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
 
 (Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921; Pub. L. 109–246, §§7, 8, July 27, 2006, 120 Stat. 581.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -75,6 +77,8 @@ Subsec. (b)(2)(A). Pub. L. 109–246, §8, substituted "the 2010 American Commun
 <b>1982</b>—Subsec. (b). Pub. L. 97–205, §4, substituted "Prior to August 6, 1992" for "Prior to August 6, 1985".
 
 Subsec. (c). Pub. L. 97–205, §2(d), inserted "and American Indians" after "Alaskan natives".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

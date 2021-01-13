@@ -80,7 +80,7 @@ In this subchapter and subchapter II:
 
 #### (14) Payment acres
 
-&emsp;The term "payment acres", with respect to the provision of price loss coverage payments and agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
+&emsp;The term "payment acres", with respect to the provision of price loss coverage paymentsand agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
 
 #### (15) Payment yield
 

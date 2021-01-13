@@ -158,7 +158,7 @@ This section shall not apply to a loan described in subsection (b) made before D
 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, §2002(b), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §2611(b), Feb. 7, 2014, 128 Stat. 763; Pub. L. 115–334, title II, §§2101, 2301(d)(1)(B), Dec. 20, 2018, 132 Stat. 4530, 4553.)
+(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, §2002(b),May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §2611(b), Feb. 7, 2014, 128 Stat. 763; Pub. L. 115–334, title II, §§2101, 2301(d)(1)(B), Dec. 20, 2018, 132 Stat. 4530, 4553.)
 
 #### References in Text
 

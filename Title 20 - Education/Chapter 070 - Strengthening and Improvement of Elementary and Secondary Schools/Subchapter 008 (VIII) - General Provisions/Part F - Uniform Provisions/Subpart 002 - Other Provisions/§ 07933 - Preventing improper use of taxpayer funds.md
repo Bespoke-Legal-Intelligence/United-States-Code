@@ -24,7 +24,7 @@ Section was enacted as part of the Every Student Succeeds Act, and not as part o
 
 #### Prior Provisions
 
-A prior section 7933, Pub. L. 89–10, title IX, §9303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3806, stated purpose of former part C of subchapter IX of this chapter, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7933, Pub. L. 89–10, title IX, §9303, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3806, stated purpose of former part C of subchapter IX of this chapter, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (1) Applicability of duties of Inspector General of executive branch establishment
 
-&emsp;The Inspector General shall carry out the same duties and responsibilities with respectto the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4), under the same terms and conditions which apply under such section.
+&emsp;The Inspector General shall carry out the same duties and responsibilities with respect to the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4), under the same terms and conditions which apply under such section.
 
 #### (2) Semiannual reports
 
@@ -80,7 +80,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (3) Equipment and supplies
 
-&emsp;The Chief of the Capitol Police shall provide the Office with appropriate and adequate office space, together with such equipment, supplies, and communications facilities and services as determined by the Inspector General tobe necessary for the operation of the Office, and shall provide necessary maintenance services for such office space and the equipment and facilities located therein.
+&emsp;The Chief of the Capitol Police shall provide the Office with appropriate and adequate office space, together with such equipment, supplies, and communications facilities and services as determined by the Inspector General to be necessary for the operation of the Office, and shall provide necessary maintenance services for such office space and the equipment and facilities located therein.
 
 #### (e) Transfer of functions
 
@@ -98,6 +98,8 @@ This section shall be effective on August 2, 2005.
 
 (Pub. L. 109–55, title I, §1004, Aug. 2, 2005, 119 Stat. 572; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -109,6 +111,8 @@ The provisions of title 5 regarding appointments in the competitive service, ref
 Section is comprised of section 1004 of Pub. L. 109–55. Subsec. (g) of section 1004 of Pub. L. 109–55 amended section 1903 of this title.
 
 Section is from the Legislative Branch Appropriations Act, 2006.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

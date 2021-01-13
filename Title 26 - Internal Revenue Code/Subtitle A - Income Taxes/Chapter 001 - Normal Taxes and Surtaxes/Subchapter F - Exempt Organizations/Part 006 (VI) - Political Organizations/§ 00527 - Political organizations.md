@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (3) Certain separate segregated funds
 
-&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organizationdescribed in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18 or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2))) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 
 #### (g) Treatment of newsletter funds
 
@@ -358,7 +358,7 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–25, title III, §3101(b)(1), July 1, 2019, 133 Stat. 1015.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–25, title III, §3101(b)(1), July 1, 2019, 133 Stat. 1015.)
 
 #### References in Text
 
@@ -532,7 +532,7 @@ Organizations already in existence.—In the case of an organization established
 
 Information availability.—The amendment made by subsection (b)(2) \[amending section 6104 of this title\] shall take effect on the date that is 45 days after the date of the enactment of this section."
 
-Pub. L. 106–230, §2(d), July 1, 2000, 114 Stat. 482, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to expenditures made and contributions received after the date of the enactment of this Act \[July 1, 2000\], except that suchamendment shall not apply to expenditures made, or contributions received, after such date pursuant to a contract entered into on or before such date."
+Pub. L. 106–230, §2(d), July 1, 2000, 114 Stat. 482, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to expenditures made and contributions received after the date of the enactment of this Act \[July 1, 2000\], except that such amendment shall not apply to expenditures made, or contributions received, after such date pursuant to a contract entered into on or before such date."
 
 #### Effective Date of 1988 Amendment
 

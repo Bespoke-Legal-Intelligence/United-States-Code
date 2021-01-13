@@ -102,6 +102,8 @@ June 29, 1936, ch. 858, title XI, §1103(f), as added June 23, 1938, ch. 600, §
 
 June 29, 1936, ch. 858, title XI, §1103(h), as added Pub. L. 104–239, §13(a), Oct. 8, 1996, 110 Stat. 3134; Pub. L. 108–136, title XXXV, §3528(b), Nov. 24, 2003, 117 Stat. 1802.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3506(d)(1), substituted "that amount, $850,000,000 shall be limited to obligations related to fishing vessels and fishery facilities." for "that amount—" and pars. (1) and (2) which read as follows:

@@ -78,7 +78,7 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 &emsp;The Secretary, in consultation with Indian tribes and tribal organizations, shall—
 
-&emsp;&emsp;(A) identify and use, where appropriate, federally owned structures suitable for localresidential or regional behavioral health treatment for Indian youths; and
+&emsp;&emsp;(A) identify and use, where appropriate, federally owned structures suitable for local residential or regional behavioral health treatment for Indian youths; and
 
 &emsp;&emsp;(B) establish guidelines for determining the suitability of any such federally owned structure to be used for local residential or regional behavioral health treatment for Indian youths.
 
@@ -90,7 +90,7 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 #### (1) In general
 
-&emsp;The Secretary, Indian tribes, or tribal organizations, in cooperation with the Secretary of the Interior, shall develop and implement within each Service unit, community-based rehabilitation and follow-up services for Indian youths who are having significant behavioral health problems, and require long-term treatment, community reintegration, and monitoring to support the Indian youths after their return to their home community.
+&emsp;The Secretary, Indian tribes, or tribal organizations, in cooperation with the Secretary ofthe Interior, shall develop and implement within each Service unit, community-based rehabilitation and follow-up services for Indian youths who are having significant behavioral health problems, and require long-term treatment, community reintegration, and monitoring to support the Indian youths after their return to their home community.
 
 #### (2) Administration
 
@@ -119,6 +119,8 @@ The Secretary, acting through the Service, shall collect data for the report und
 &emsp;(5) the costs of the services described in paragraph (4).
 
 (Pub. L. 94–437, title VII, §708, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

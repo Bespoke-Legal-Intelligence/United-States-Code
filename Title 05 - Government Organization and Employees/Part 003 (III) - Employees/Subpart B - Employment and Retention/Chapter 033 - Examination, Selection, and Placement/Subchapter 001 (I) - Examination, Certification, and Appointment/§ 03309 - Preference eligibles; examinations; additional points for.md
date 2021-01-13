@@ -42,6 +42,8 @@ The word "competitive" is added before "service" for clarity. Application of thi
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Par. (2). Pub. L. 105–85 substituted "section 2108(3)(A)–(B)" for "section 2108(3)(A)".

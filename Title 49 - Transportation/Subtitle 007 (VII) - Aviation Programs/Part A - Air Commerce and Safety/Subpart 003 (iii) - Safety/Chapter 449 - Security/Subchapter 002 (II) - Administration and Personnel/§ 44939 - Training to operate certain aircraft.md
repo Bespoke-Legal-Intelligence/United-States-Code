@@ -22,7 +22,7 @@ Waiting Period.—A person operating as a flight instructor, pilot school, or av
 
 (b)
 
-Interruption of Training.—If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
+Interruption of Training.—If the Secretary of Homeland Security, more than 30 daysafter receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
 
 (c)
 
@@ -38,7 +38,7 @@ Expedited Processing.—The Secretary of Homeland Security shall establish a pro
 
 &emsp;(3) is an individual that has unescorted access to a secured area of an airport designated under section 44936(a)(1)(A)(ii); or
 
-&emsp;(4) is an individual that is part of a class of individuals that the Secretary has determinedthat providing aviation training to presents minimal risk to aviation or national security because of the aviation training already possessed by such class of individuals.
+&emsp;(4) is an individual that is part of a class of individuals that the Secretary has determined that providing aviation training to presents minimal risk to aviation or national security because of the aviation training already possessed by such class of individuals.
 
 (e)
 
@@ -102,7 +102,7 @@ Use of overseas facilities.—In order to implement section 44939 of title 49, U
 
 "(3)
 
-Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting in the administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section."
+Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting inthe administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section."
 
 #### Report
 

@@ -12,7 +12,9 @@ The physical and mental examination of arriving aliens (including alien crewmen)
 
 If an examining medical officer determines that an alien arriving in the United States is inadmissible, is helpless from sickness, mental or physical disability, or infancy, and is accompanied by another alien whose protection or guardianship may be required, the officer may certify such fact for purposes of applying section 1182(a)(10)(B) of this title with respect to the other alien.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §232, 66 Stat. 196; Pub. L. 99–500, §101(b) \[title II, §206(a), formerly §206\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, renumbered §206(a), Pub. L. 100–525, §4(b)(1), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §206\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; Pub. L. 100–525, §4(b)(2), (d), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 104–208, div. C, title III, §§308(b)(2), (3)(C), (c)(2)(A), (d)(4)(H), Sept. 30, 1996, 110 Stat. 3009–615, 3009–616, 3009–618.)
+(June 27, 1952, ch. 477, title II, ch. 4, §232, 66 Stat. 196; Pub. L. 99–500, §101(b) \[title II, §206(a), formerly §206\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, renumbered §206(a), Pub. L. 100–525, §4(b)(1), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §206\], Oct. 30, 1986, 100Stat. 3341–39, 3341–56; Pub. L. 100–525, §4(b)(2), (d), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 104–208, div. C, title III, §§308(b)(2), (3)(C), (c)(2)(A), (d)(4)(H), Sept. 30, 1996, 110 Stat. 3009–615, 3009–616, 3009–618.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Subsec. (c). Pub. L. 104–208, §308(c)(2)(A), added subsec. (c).
 <b>1986</b>—Pub. L. 99–500, §101(b) \[title II, §206(a), formerly §206\], as redesignated and amended by Pub. L. 100–525, §4(b)(1), (2), substituted "by the Attorney General" for "on board the vessel or at the airport of arrival of the aircraft bringing them, unless the Attorney General directs their detention in a United States immigration station or other place specified by him at the expense of such vessel or aircraft except as otherwise provided in this chapter, as circumstances may require or justify,".
 
 Pub. L. 99–591, §101(b) \[title II, §206\], a corrected version of Pub. L. 99–500, §101(b) \[title II, §206(a)\], was repealed by Pub. L. 100–525, §4(d), effective as of Oct. 30, 1986.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -16,7 +16,7 @@ The Council shall advise, consult with, and make recommendations to, the Adminis
 
 #### (c) Compensation and allowances; travel expenses
 
-Members of the Council appointed under this section shall, while attending meetings or conferences of the Council or otherwise engaged in business of the Council, receive compensationand allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
+Members of the Council appointed under this section shall, while attending meetings or conferences of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) <sup>1</sup> of title 5.
 
 #### (d) Advisory committee termination provision inapplicable
 
@@ -32,7 +32,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–182 inserted ", of which two such members shall be associated with small, rural public water systems" before period at end of second sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–182 inserted ", of which two such members shall be associated with small, ruralpublic water systems" before period at end of second sentence.
 
 #### Termination of Advisory Committees
 

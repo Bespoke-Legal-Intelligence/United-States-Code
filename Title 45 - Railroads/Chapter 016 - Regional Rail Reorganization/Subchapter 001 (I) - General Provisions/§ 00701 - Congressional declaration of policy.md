@@ -6,9 +6,9 @@ The Congress finds and declares that—
 
 &emsp;(1) Essential rail service in the midwest and northeast region of the United States is provided by railroads which are today insolvent and attempting to undergo reorganization under the Bankruptcy Act.
 
-&emsp;(2) This essential rail service is threatened with cessation or significant curtailment because of the inability of the trustees of such railroads to formulate acceptable plans for reorganization. This rail service is operated overrail properties which were acquired for a public use, but which have been permitted to deteriorate and now require extensive rehabilitation and modernization.
+&emsp;(2) This essential rail service is threatened with cessation or significant curtailment because of the inability of the trustees of such railroads to formulate acceptable plans for reorganization. This rail service is operated over rail properties which were acquired for a public use, but which have been permitted to deteriorate and now require extensive rehabilitation and modernization.
 
-&emsp;(3) The public convenience and necessity require adequate and efficient rail service in this region and throughout the Nation to meet the needs of commerce, the national defense, the environment, and the service requirements of passengers, United States mail, shippers, States and their political subdivisions, and consumers.
+&emsp;(3) The public convenience and necessity require adequate and efficient rail service in thisregion and throughout the Nation to meet the needs of commerce, the national defense, the environment, and the service requirements of passengers, United States mail, shippers, States and their political subdivisions, and consumers.
 
 &emsp;(4) Continuation and improvement of essential rail service in this region is also necessary to preserve and maintain adequate national rail services and an efficient national rail transportation system.
 
@@ -34,9 +34,13 @@ It is therefore declared to be the purpose of Congress in this chapter to provid
 
 (Pub. L. 93–236, title I, §101, Jan. 2, 1974, 87 Stat. 986.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Bankruptcy Act, referred to in subsec. (a)(1), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1978 Amendment
 

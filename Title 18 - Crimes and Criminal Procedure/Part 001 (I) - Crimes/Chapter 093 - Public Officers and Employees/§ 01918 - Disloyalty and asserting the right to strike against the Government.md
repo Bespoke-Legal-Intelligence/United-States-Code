@@ -38,6 +38,8 @@ The words "From and after July 1, 1956", appearing in the Act of June 29, 1956, 
 
 The words "shall be guilty of a felony" are omitted as unnecessary in view of the definitive section 1 of this title. (See reviser's note under section 550 of this title.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $1,000" in concluding provisions.

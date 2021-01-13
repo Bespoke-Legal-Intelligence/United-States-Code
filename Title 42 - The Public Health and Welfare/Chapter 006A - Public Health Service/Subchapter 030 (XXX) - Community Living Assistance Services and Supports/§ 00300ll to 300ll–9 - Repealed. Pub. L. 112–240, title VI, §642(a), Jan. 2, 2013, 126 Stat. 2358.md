@@ -6,7 +6,7 @@ Section 300ll–1, act July 1, 1944, ch. 373, title XXXII, §3202, as added Pub.
 
 Section 300ll–2, act July 1, 1944, ch. 373, title XXXII, §3203, as added and amended Pub. L. 111–148, title VIII, §8002(a)(1), title X, §10801(a)(1), Mar. 23, 2010, 124 Stat. 830, 1015, required the Secretary to develop at least 3 actuarially sound benefit plans as alternatives for consideration for designation by the Secretary as the CLASS Independence Benefit Plan.
 
-Section 300ll–3, act July 1, 1944, ch. 373, title XXXII, §3204, as added and amended Pub. L. 111–148, title VIII,§8002(a)(1), title X, §10801(a)(2), Mar. 23, 2010, 124 Stat. 834, 1015, related to enrollment and disenrollment requirements.
+Section 300ll–3, act July 1, 1944, ch. 373, title XXXII, §3204, as added and amended Pub. L. 111–148, title VIII, §8002(a)(1), title X, §10801(a)(2), Mar. 23, 2010, 124 Stat. 834, 1015, related to enrollment and disenrollment requirements.
 
 Section 300ll–4, act July 1, 1944, ch. 373, title XXXII, §3205, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 836, related to benefits and determination of eligibility.
 

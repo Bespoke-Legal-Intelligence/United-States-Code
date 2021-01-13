@@ -81,7 +81,7 @@
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
-(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, asappropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
+(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
 
 (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
@@ -129,11 +129,13 @@
 
 (i)(1) Each employee or Member who has received a refund of retirement deductions under this or any other retirement system established for employees of the Government covering service for which such employee or Member may be allowed credit under this chapter may deposit the amount received, with interest. Credit may not be allowed for the service covered by the refund until the deposit is made.
 
-(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentenceof section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
+(2) Interest under this subsection shall be computed in accordance with paragraphs (2) and (3) of section 8334(e) and regulations prescribed by the Office. The option under the third sentence of section 8334(e)(2) to make a deposit in one or more installments shall apply to deposits under this subsection.
 
 (3) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, §104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, §371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, §5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, §215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, §516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, §3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, §1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, §122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, §535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, §5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(b), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 115–352, §§2(b), 3(b), Dec. 21, 2018, 132 Stat. 5067, 5068.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -191,7 +193,7 @@ Subsec. (f)(4). Pub. L. 106–346, §101(a) \[title V, §505(b)(3)\], inserted "
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 
-<b>1997</b>—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2)which read as follows: "The applicable percentage under this subsection for any pay period shall be—
+<b>1997</b>—Subsec. (a)(2), (3). Pub. L. 105–33, §7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The applicable percentage under this subsection for any pay period shall be—
 
 &emsp;"(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
 
@@ -229,6 +231,8 @@ Subsec. (e)(2)(B). Pub. L. 103–353, §5(d)(2), inserted before comma at end "f
 
 <b>1988</b>—Subsec. (e)(5). Pub. L. 100–238 added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by section 1901(b) of Pub. L. 111–84 applicable with respect to any annuity, entitlement to which is based on a death or other separation from service occurring on or after Oct. 28, 2009, see section 1901(c) of Pub. L. 111–84, set out as a note under section 8415 of this title.
@@ -249,7 +253,7 @@ Amendment by Pub. L. 107–135 effective 60 days after Jan. 23, 2002, and applic
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the United States on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
+Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the UnitedStates on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
 
 #### Effective Date of 2000 Amendments
 

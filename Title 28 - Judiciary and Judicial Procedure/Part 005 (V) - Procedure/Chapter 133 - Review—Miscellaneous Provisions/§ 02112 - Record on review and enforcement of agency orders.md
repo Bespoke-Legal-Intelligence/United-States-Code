@@ -8,7 +8,7 @@
 
 &emsp;(3) If an agency, board, commission, or officer receives two or more petitions for review of an order in accordance with the first sentence of paragraph (1) of this subsection, the agency, board, commission, or officer shall, promptly after the expiration of the ten-day period specified in that sentence, so notify the judicial panel on multidistrict litigation authorized by section 1407 of this title, in such form as that panel shall prescribe. The judicial panel on multidistrict litigation shall, by means of random selection, designate one court of appeals, from among the courts of appeals in which petitions for review have been filed and received within the ten-day period specified in the first sentence of paragraph (1), in which the record is to be filed, and shall issue an order consolidating the petitions for review in that court of appeals. The judicial panel on multidistrict litigation shall, after providing notice to the public and an opportunity for the submission of comments, prescribe rules with respect to the consolidation of proceedings under this paragraph. The agency, board, commission, or officer concerned shall file the record in the court of appeals designated pursuant to this paragraph.
 
-&emsp;(4) Any court of appeals in which proceedings with respect to an order of an agency, board, commission, or officer have been instituted may, to the extent authorized by law, stay the effective date of the order. Any such stay may thereafter be modified, revoked, or extended by a court of appeals designated pursuant to paragraph (3) with respect to that order or by any other court of appeals to which the proceedings are transferred.
+&emsp;(4) Any court of appeals in which proceedings with respect to an order of an agency, board, commission, or officer have been instituted may, to the extent authorized by law, stay the effective date of the order. Any such stay may thereafter be modified, revoked, or extended by a court of appeals designated pursuant to paragraph (3) with respect to thatorder or by any other court of appeals to which the proceedings are transferred.
 
 &emsp;(5) All courts in which proceedings are instituted with respect to the same order, other than the court in which the record is filed pursuant to this subsection, shall transfer those proceedings to the court in which the record is so filed. For the convenience of the parties in the interest of justice, the court in which the record is filed may thereafter transfer all the proceedings with respect to that order to any other court of appeals.
 
@@ -20,6 +20,8 @@
 
 (Added Pub. L. 85–791, §2, Aug. 28, 1958, 72 Stat. 941; amended Pub. L. 89–773, §5(a), (b), Nov. 6, 1966, 80 Stat. 1323; Pub. L. 100–236, §1, Jan. 8, 1988, 101 Stat. 1731.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–236 substituted "If proceedings are instituted in two or more courts of appeals with respect to the same order, the following shall apply:" and pars. (1) to (5) for "If proceedings have been instituted in two or more courts of appeals with respect to the same order the agency, board, commission, or officer concerned shall file the record in that one of such courts in which a proceeding with respect to such order was first instituted. The other courts in which such proceedings are pending shall thereupon transfer them to the court of appeals in which the record has been filed. For the convenience of the parties in the interest of justice such court may thereafter transfer all the proceedings with respect to such order to any other court of appeals."
@@ -28,11 +30,13 @@
 
 Subsec. (b). Pub. L. 89–773, §5(b), substituted "the rules prescribed under the authority of section 2072 of this title" for "the said rules of the court of appeals" and for "the rules of such court".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–236, §3, Jan. 8, 1988, 101 Stat. 1732, provided that: "The amendments made by this Act \[amending this section and section 1369 of Title 33, Navigation and Navigable Waters\] take effect 180 days after the date of the enactment of this Act \[Jan 8, 1988\], except that the judicial panel on multidistrict litigation may issue rules pursuant to subsection (a)(3) of section 2112 of title 28, United States Code (as added by section 1), on or after such date of enactment."
 
 #### Savings Provision
 
-Pub. L. 89–773, §5(c), Nov. 6, 1966, 80 Stat. 1323, provided that: "The amendments of section 2112 of title 28 of the United States Code made by this Act shall not operate to invalidate or repeal rules adopted under the authority of that section prior to the enactment of this Act \[Nov. 6, 1966\], which rules shall remain in effect until superseded by rules prescribed under the authority of section 2072 of title 28 of the United States Code as amended by this Act."
+Pub. L. 89–773, §5(c), Nov. 6, 1966, 80 Stat. 1323, provided that: "The amendments of section 2112 of title 28 of the United States Code made by this Act shall not operate to invalidate or repeal rules adopted under the authority of that section prior to the enactment of thisAct \[Nov. 6, 1966\], which rules shall remain in effect until superseded by rules prescribed under the authority of section 2072 of title 28 of the United States Code as amended by this Act."
 

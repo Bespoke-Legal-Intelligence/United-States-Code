@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) add stability to the treaty and nontreaty fisheries by reducing variations in fish availability.
 
-(b) In order to assist the harvesters of the salmon and steelhead resources within the Columbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy against Smith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
+(b) In order to assist the harvesters of the salmon and steelhead resources within theColumbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy against Smith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
 
 &emsp;(1) encourage stability in and promote the economic well being of the treaty and nontreaty commercial fishing and charter fishing industries and improve the distribution of fishing power between treaty and nontreaty fisheries through—
 

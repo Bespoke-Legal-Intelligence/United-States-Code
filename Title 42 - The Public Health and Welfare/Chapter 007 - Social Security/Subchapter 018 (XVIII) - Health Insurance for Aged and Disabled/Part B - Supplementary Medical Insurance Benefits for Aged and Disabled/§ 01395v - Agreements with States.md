@@ -16,7 +16,7 @@ An agreement entered into with any State pursuant to subsection (a) may be appli
 
 #### (c) Eligible individuals
 
-For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395o of this title) on the date an agreement covering him is entered into under subsection (a) or he becomes an eligible individual (within the meaning of such section) at any time after such date; and he shall be treated as receiving money payments described in subsection (b) if he receives such payments for the month in which the agreement is entered into or any month thereafter.
+For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395o of this title) on the date an agreement covering him is entered into under subsection (a) or he becomes an eligible individual (within the meaning of such section) atany time after such date; and he shall be treated as receiving money payments described in subsection (b) if he receives such payments for the month in which the agreement is entered into or any month thereafter.
 
 #### (d) Monthly premiums; coverage periods
 
@@ -150,7 +150,7 @@ Pub. L. 100–360, title III, §301(e)(3), July 1, 1988, 102 Stat. 750, provided
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

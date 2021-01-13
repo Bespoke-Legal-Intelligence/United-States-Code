@@ -10,13 +10,15 @@ No person shall be paid compensation as a Lyndon Baines Johnson congressional in
 
 &emsp;(1) if the intern is a student, a certificate that such intern was during the academic year immediately preceding his employment, a bona fide student at a college, university, or similar institution of higher learning; or
 
-&emsp;(2) if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacherin government or social studies at a secondary school or a postsecondary school.
+&emsp;(2) if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacher in government or social studies at a secondary school or a postsecondary school.
 
 #### (c) Regulations by Committee on House Oversight
 
 The Committee on House Oversight shall prescribe such regulations as may be necessary to carry out this section.
 
 (Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079; Pub. L. 104–186, title II, §204(6), (7), Aug. 20, 1996, 110 Stat. 1730.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -31,6 +33,8 @@ Section is based on section 1 of House Resolution No. 420, Ninety-third Congress
 Subsec. (b). Pub. L. 104–186, §204(6), substituted "Chief Administrative Officer" for "Clerk".
 
 Subsec. (c). Pub. L. 104–186, §204(7)(B), substituted "House Oversight" for "House Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

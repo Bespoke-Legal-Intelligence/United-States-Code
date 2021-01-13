@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted "UNITED STATES COURT OF FEDERAL CLAIMS" for "UNITED STATES CLAIMS COURT" as chapter heading.

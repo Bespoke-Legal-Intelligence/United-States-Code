@@ -20,17 +20,19 @@ Historical and Revision Notes
 
 A definition of "agency" is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–92, div. C, title XXXV, §3514(a), Dec. 20, 2019, 133 Stat. 1980, provided that: "This section \[amending section 50302 of this title, enacting provisions set out as a note under section 50302 of this title, and amending provisions set out as notes under section 51318 of this title and section 9620 of Title 42, The Public Health and Welfare\] may be cited as the 'Ports Improvement Act'."
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–265, §1, Oct. 11, 2018, 132 Stat. 3742, provided that: "This Act \[enacting section 6309 of this title, amending sections 2116, 3306, 3316, and 6101 of this title and sections 1952, 1954, and 1958 of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section, sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 1, 58, 88, and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Save Our Seas Act of 2018'."
+Pub. L. 115–265, §1, Oct. 11, 2018, 132 Stat. 3742, provided that: "This Act \[enacting section 6309 of this title, amending sections 2116, 3306, 3316, and 6101 of this title and sections 1952, 1954, and 1958 of Title 33, Navigation and Navigable Waters, and enacting provisions setout as notes under this section, sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 1, 58, 88, and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Save Our Seas Act of 2018'."
 
 Pub. L. 115–265, title II, §201, Oct. 11, 2018, 132 Stat. 3744, provided that: "This title \[enacting section 6309 of this title, amending sections 2116, 3306, 3316, and 6101 of this title, and enacting provisions set out as notes under sections 2101, 2116, 3201, 3203, 3306, 3315, and 3316 of this title, sections 88 and 93 of Title 14, Coast Guard, and section 822 of Title 45, Railroads\] may be cited as the 'Hamm Alert Maritime Safety Act of 2018'."
 
-Pub. L. 115–254, div. J, §1801, Oct. 5, 2018, 132 Stat. 3533, provided that: "This division \[div. J (§§1801–1816)of Pub. L. 115–254, enacting sections 243 and 244 of Title 6, Domestic Security, amending sections 70101 to 70103, and 70112 of this title, and sections 921, 941, 945, and 983 of Title 6, repealing sections 70107A and 70116 of this title and sections 922 and 984 of Title 6, enacting provisions set out as notes under sections 70101, 70102, 70107A, and 70112 of this title, and amending provisions set out as a note under section 70107A of this title\] may be cited as the 'Maritime Security Improvement Act of 2018'."
+Pub. L. 115–254, div. J, §1801, Oct. 5, 2018, 132 Stat. 3533, provided that: "This division \[div. J (§§1801–1816) of Pub. L. 115–254, enacting sections 243 and 244 of Title 6, Domestic Security, amending sections 70101 to 70103, and 70112 of this title, and sections 921, 941, 945, and 983 of Title 6, repealing sections 70107A and 70116 of this title and sections 922 and 984 of Title 6, enacting provisions set out as notes under sections 70101, 70102, 70107A, and 70112 of this title, and amending provisions set out as a note under section 70107A of this title\] may be cited as the 'Maritime Security Improvement Act of 2018'."
 
 #### Short Title of 2012 Amendment
 
@@ -108,7 +110,7 @@ Pub. L. 97–31, §1, Aug. 6, 1981, 95 Stat. 151, provided: "That this Act \[see
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–372, §1, July 31, 1976, 90 Stat. 1042, provided: "That this Act \[see Tables for classification\] may be cited as the 'Negotiated Shipbuilding Contracting Act of 1976'."
+Pub. L. 94–372, §1, July 31, 1976, 90 Stat. 1042, provided: "That this Act \[see Tables for classification\] may becited as the 'Negotiated Shipbuilding Contracting Act of 1976'."
 
 #### Short Title of 1970 Amendment
 

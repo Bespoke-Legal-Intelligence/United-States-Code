@@ -4,11 +4,15 @@ The Secretary shall submit to the Congress an annual report on the implementatio
 
 (Pub. L. 97–451, title III, §302, Jan. 12, 1983, 96 Stat. 2461; Pub. L. 103–437, §11(a)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 105–362, title IX, §901(j)(1), Nov. 10, 1998, 112 Stat. 3290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–362 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "Commencing with fiscal year 1984, the Inspector General of the Department of the Interior shall conduct a biennial audit of the Federal royalty management system. The Inspector General shall submit the results of such audit to the Secretary and to the Congress."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committees on".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
@@ -16,5 +20,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Study of the Adequacy of Royalty Management for Minerals on Federal and Indian Lands
 
-Pub. L. 97–451, title III, §303, Jan. 12, 1983, 96 Stat. 2461, directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indian allottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
+Pub. L. 97–451, title III, §303, Jan. 12, 1983, 96 Stat. 2461, directed Secretary to study question of adequacy of royalty management for coal, uranium and other energy and nonenergy minerals on Federal and Indian lands, include proposed legislation if Secretary determined that such legislation was necessary to ensure prompt and proper collection of revenues owed to the United States, the States and Indian tribes or Indianallottees from the sale, lease or other disposal of such minerals, with study to be submitted to Congress not later than one year from Jan. 12, 1983.
 

@@ -1,16 +1,18 @@
 ### §3041. Power of courts and magistrates
 
-For any offense against the United States, the offender may, by any justice or judge of the United States, or by any United States magistrate judge, or by any chancellor, judge of a supreme or superior court, chief or first judge of the common pleas, mayor of a city, justice of the peace, or other magistrate, of any state where the offender may be found, and at the expense of the United States, be arrested and imprisoned or released as provided in chapter 207 of this title, as the case may be, for trial beforesuch court of the United States as by law has cognizance of the offense. Copies of the process shall be returned as speedily as may be into the office of the clerk of such court, together with the recognizances of the witnesses for their appearances to testify in the case.
+For any offense against the United States, the offender may, by any justice or judge of the United States, or by any United States magistrate judge, or by any chancellor, judge of a supreme or superior court, chief or first judge of the common pleas, mayor of a city, justice of the peace, or other magistrate, of any state where the offender may be found, and at the expense of the United States, be arrested and imprisoned or released as provided in chapter 207 of this title, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. Copies of the process shall be returned as speedily as may be into the office of the clerk of such court, together with the recognizances of the witnesses for their appearances to testify in the case.
 
 A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of the United States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, §5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578, title III, §301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, §204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, §5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578,title III, §301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, §204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §591 (R.S. §1014; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956).
 
 This section was completely rewritten to omit all provisions superseded by Federal Rules of Criminal Procedure, rules 3, 4, 5, 40 and 54(a) which prescribed the procedure for preliminary proceedings and examinations before United States judges and commissioners and for removal proceedings but not for preliminary examinations before State magistrates.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ This section was completely rewritten to omit all provisions superseded by Feder
 <b>1968</b>—Pub. L. 90–578 substituted "United States magistrate" and "magistrate" for "United States commissioner" and "commissioner", respectively.
 
 <b>1966</b>—Pub. L. 89–465 substituted "or released as provided in chapter 207 of this title" for "or bailed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

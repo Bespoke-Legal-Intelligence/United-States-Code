@@ -28,6 +28,8 @@ For the purposes of this subchapter:
 
 (Pub. L. 102–325, title XIII, §1317, July 23, 1992, 106 Stat. 802.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 5, 6, 7, 105, 109, and 110 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450c et seq.), referred to in subsec. (c), are sections 5, 6, 7, 105, 109, and 110 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which were classified to sections 450c, 450d, 450e, 450j, 450m, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5305, 5306, 5307, 5324, 5330, and 5331, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -36,7 +38,7 @@ The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub
 
 #### Codification
 
-Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated,effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
+Subsec. (a) of this section, which required the Secretary to submit a biennial report to Congress on programs established under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

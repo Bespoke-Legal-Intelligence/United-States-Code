@@ -12,6 +12,10 @@ Written Findings Required.—(1) Each determination or decision under section 23
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 85–800, §10, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, §1(f), Sept. 10, 1962, 76 Stat. 529; Pub. L. 89–607, §1(1), Sept. 27, 1966, 80 Stat. 850; Pub. L. 90–378, §2, July 5, 1968, 82 Stat. 290; Pub. L. 98–369, div. B, title VII, §2725, July 18, 1984, 98 Stat. 1193; Pub. L. 99–145, title XIII, §1303(a)(16), Nov. 8, 1985, 99 Stat. 739; Pub. L. 103–355, title I, §1504, Oct. 13, 1994, 108 Stat. 3297.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1864(b), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 367 of this title, as amended by section 1864(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4751 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 Historical and Revision Notes
 
 <i>Revised section</i>
@@ -65,6 +69,10 @@ Subsec. (b). Pub. L. 98–369, §2725(2), amended subsec. (b) generally, strikin
 <b>1962</b>—Subsec. (b). Pub. L. 87–653 substituted "section 2306(c)" for "section 2306", required decisions to negotiate contracts under section 2304(a)(2), (7), (8), (10) to (12) of this title to be based on a written finding by the person making the decision, which findings shall set out facts and circumstances illustrative of conditions described in section 2304(a)(11) to (16), indicate why the type of contract selected under section 2306(c) is likely to be less costly than any other or that its impracticable to obtain the required property or services except under such contract, indicate why advance payments under section 2307(c) would be in the public interest, or establish with respect to section 2304(a), (2), (7), (8), (10) to (12) that formal advertising would not have been feasible and practicable.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–800 substituted "2307(c)" for "2307(a)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 

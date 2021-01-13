@@ -54,6 +54,8 @@
 
 (Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, §506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, §111, Nov. 22, 2005, 119 Stat. 2305.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3393a, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 107–296, title XIII, §1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
@@ -62,13 +64,15 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before "Except as provided", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
+<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before "Except as provided", redesignatedsubpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
 
 "(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
 
 "(B) For the purpose of subparagraph (A), 'career employee in the civil service' shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes."
 
 <b>1989</b>—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

@@ -1,6 +1,6 @@
 ### §5301. Buying obligations of the United States Government
 
-(a) The President may direct the Secretary of the Treasury to make an agreement with theFederal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
+(a) The President may direct the Secretary of the Treasury to make an agreement with the Federal reserve banks and the Board of Governors of the Federal Reserve System when the President decides that the foreign commerce of the United States is affected adversely because—
 
 &emsp;(1) the value of coins and currency of a foreign country compared to the present standard value of gold is depreciating;
 
@@ -41,6 +41,16 @@ May 12, 1933, ch. 25, §43(less (b)(1)(last sentence)), 48 Stat. 51; Jan. 30, 19
 In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) is omitted as obsolete because clause (1) is omitted as executed, and clause (2) is omitted as expired. The text of 31:821(b)(matter after (2)) is omitted as obsolete because silver is no longer coined. The words "in his discretion" and "several" are omitted as surplus. The words "Board of Governors of the Federal Reserve System" are substituted for "Federal Reserve Board" because of 12:241. The words "upon investigation" are omitted as surplus. In clause (1), the word "foreign" is substituted for "of any other government or governments" to eliminate unnecessary words. The words "coins and" are added for consistency. In clause (2), the words "United States coins and currency" are substituted for "currency issues of the United States" for consistency. In clause (4), the words "so that the United States Government and the governments of other countries can stabilize" are substituted for "to secure by international agreement a stabilization" for clarity. The words "at proper levels" are omitted as surplus.
 
 In subsection (b), before clause (1), the words "(and the Board is authorized to permit the banks notwithstanding another law)" are substituted for "notwithstanding any provisions of law or rules and regulations to the contrary" for clarity. In clause (1), the words "pursuant to existing law" are omitted as surplus. The words "through each entire" are substituted for "throughout" for clarity. In clause (2), the words "in portfolio", "or periods of time Treasury bills or other" and "in an aggregate sum of" are omitted as surplus.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–283, div. F, §6001, Jan. 1, 2021, 134 Stat. 4547, provided that: "This division \[see Tables for classification\] may be cited as the 'Anti-Money Laundering Act of 2020'."
+
+Pub. L. 116–283, div. F, title LXIV, §6401, Jan. 1, 2021, 134 Stat. 4604, provided that: "This title \[enacting section 5336 of this title, amending sections 5321 and 5322of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title\] may be cited as the 'Corporate Transparency Act'."
+
+Pub. L. 116–283, div. H, title XCVII, §9711, Jan. 1, 2021, 134 Stat. 4838, provided that: "This subtitle \[subtitle B (§§9711–9714) of title XCVII of div. H of Pub. L. 116–283, enacting provisions set out as notes under sections 5311 and 5318A of this title\] may be cited as the 'Combating Russian Money Laundering Act'."
 
 #### Short Title of 2006 Amendment
 

@@ -1,6 +1,6 @@
 ### §8223. Grants
 
-(a) Any medical school which is affiliated with the Department under an agreement entered into pursuant to this title may apply to the Secretary for a grant under this subchapter to assist such school, in part, to carry out, through the Department medical facility with which it is affiliated, projects and programs in furtherance of the purposes of this subchapter, except that no grant shall be made for the construction of any building which will not be located on land under the jurisdiction of the Secretary. Any such application shall contain such information in such detail as the Secretary deems necessary and appropriate.
+(a) Any medical school which is affiliated with the Department under an agreement entered into pursuant to this title may apply to the Secretary for a grant under this subchapter to assist such school, in part, to carry out, through the Department medical facility with which it is affiliated, projects and programs in furtherance of the purposes of this subchapter, except thatno grant shall be made for the construction of any building which will not be located on land under the jurisdiction of the Secretary. Any such application shall contain such information in such detail as the Secretary deems necessary and appropriate.
 
 (b) An application for a grant under this section may be approved by the Secretary only upon the Secretary's determination that—
 
@@ -13,6 +13,8 @@
 &emsp;(4) the application provides for making such reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
 (Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1104, §5083; amended Pub. L. 94–581, title II, §§207, 210(f)(4), Oct. 21, 1976, 90 Stat. 2860, 2865; Pub. L. 96–151, title I, §103(b)(2), Dec. 20, 1979, 93 Stat. 1093; renumbered §8223, Pub. L. 102–40, title IV, §402(b)(2)(C), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 <b>1976</b>—Subsec. (a). Pub. L. 94–581, §207, substituted "pursuant to this title" for "pursuant to subchapter IV of chapter 81 of this title".
 
 Subsec. (b). Pub. L. 94–581, §210(f)(4), substituted "the Administrator's" for "his" in provisions preceding par. (1) and in par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

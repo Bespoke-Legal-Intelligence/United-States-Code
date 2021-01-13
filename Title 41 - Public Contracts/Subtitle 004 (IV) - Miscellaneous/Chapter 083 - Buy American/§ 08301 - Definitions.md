@@ -32,6 +32,8 @@ In paragraph (1), the words "the Philippine Islands" are omitted because of Proc
 
 In paragraph (2), the words "when used in a geographical sense" are omitted as unnecessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation of Buy American Act With Respect to Certain Water Resource Projects
 
 Pub. L. 100–371, title V, §508, July 19, 1988, 102 Stat. 875, provided that:
@@ -43,6 +45,8 @@ General Rule.—For purposes of title III of the Act of March 3, 1933 (47 Stat. 
 "(b)
 
 Applicability.—Subsection (a) shall only apply to contracts entered into after the date of the enactment of this Act \[July 19, 1988\]."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13788. Buy American and Hire American
 
@@ -92,7 +96,7 @@ Sec. 4. <i>Judicious Use of Waivers</i>. (a) To the extent permitted by law, pub
 
 (c) To the extent permitted by law, before granting a public interest waiver, the relevant agency shall take appropriate account of whether a significant portion of the cost advantage of a foreign-sourced product is the result of the use of dumped steel, iron, or manufactured goods or the use of injuriously subsidized steel, iron, or manufactured goods, and it shall integrate any findings into its waiver determination as appropriate.
 
-Sec. 5. <i>Ensuring the Integrity of the Immigration System in Order to "Hire American."</i> (a) In order to advance thepolicy outlined in section 2(b) of this order, the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of Homeland Security shall, as soon as practicable, and consistent with applicable law, propose new rules and issue new guidance, to supersede or revise previous rules and guidance if appropriate, to protect the interests of United States workers in the administration of our immigration system, including through the prevention of fraud or abuse.
+Sec. 5. <i>Ensuring the Integrity of the Immigration System in Order to "Hire American."</i> (a) In order to advance the policy outlined in section 2(b) of this order, the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of Homeland Security shall, as soon as practicable, and consistent with applicable law, propose new rules and issue new guidance, to supersede or revise previous rules and guidance if appropriate, to protect the interests of United States workers in the administration of our immigration system, including through the prevention of fraud or abuse.
 
 (b) In order to promote the proper functioning of the H–1B visa program, the Secretary of State, the Attorney General, the Secretary of Labor, and the Secretary of Homeland Security shall, as soon as practicable, suggest reforms to help ensure that H–1B visas are awarded to the most-skilled or highest-paid petition beneficiaries.
 
@@ -140,7 +144,7 @@ Sec. 3. <i>Application of Buy-American Principles to Covered Programs</i>. (a) W
 
 (b) The head of each agency administering a covered program shall include in the report required by section 4 of this order a detailed explanation of the strategy, plan, or program developed to satisfy the requirement of subsection (a) of this section.
 
-Sec. 4. <i>Identification of Opportunities to Maximize the Use of Buy-American Principles</i>. Within 120 days of the date of this order, the head of each agency administering a covered program shall identify in a report to the President, through the Assistant to the President for Trade and Manufacturing Policy, any tools, techniques, terms, or conditions that have been used or could be used, consistent with law and in furtherance of the policy set forth in section 1 of this order, to maximize the use of iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against Federal financial assistance awards for infrastructure projects. In preparing this report, the agency head shall take care to analyze whether covered programs within the agency head's jurisdiction would support, through terms and conditions on new Federal financial assistance awards under such covered programs, the imposition of a requirement to use iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against such Federal financial assistance awards.
+Sec. 4. <i>Identification of Opportunities to Maximize the Use of Buy-American Principles</i>. Within 120 days of thedate of this order, the head of each agency administering a covered program shall identify in a report to the President, through the Assistant to the President for Trade and Manufacturing Policy, any tools, techniques, terms, or conditions that have been used or could be used, consistent with law and in furtherance of the policy set forth in section 1 of this order, to maximize the use of iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against Federal financial assistance awards for infrastructure projects. In preparing this report, the agency head shall take care to analyze whether covered programs within the agency head's jurisdiction would support, through terms and conditions on new Federal financial assistance awards under such covered programs, the imposition of a requirement to use iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against such Federal financial assistance awards.
 
 Sec. 5. \[Amended Ex. Ord. No. 13788, set out above.\]
 
@@ -154,7 +158,7 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

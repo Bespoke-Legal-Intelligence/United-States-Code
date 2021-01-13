@@ -2,7 +2,7 @@
 
 #### (a) Amount and term of coverage
 
-After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insuranceor guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
+After the expiration of sixty days following December 31, 1973, no Federal officer or agency shall approve any financial assistance for acquisition or construction purposes for use in any area that has been identified by the Administrator as an area having special flood hazards and in which the sale of flood insurance has been made available under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\], unless the building or mobile home and any personal property to which such financial assistance relates is covered by flood insurance in an amount at least equal to its development or project cost (less estimated land cost) or to the maximum limit of coverage made available with respect to the particular type of property under the National Flood Insurance Act of 1968, whichever is less: <i>Provided</i>, That if the financial assistance provided is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan. The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.
 
 #### (b) Requirement for mortgage loans
 
@@ -182,7 +182,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;(A) terminate any insurance purchased by the lender or servicer under paragraph (2); and
 
-&emsp;&emsp;(B) refund to the borrower all premiums paid by the borrower for any insurance purchased by the lender or servicer under paragraph (2) during any period during which the borrower's flood insurance coverage and the insurance coverage purchased by the lenderor servicer were each in effect, and any related fees charged to the borrower with respect to the insurance purchased by the lender or servicer during such period.
+&emsp;&emsp;(B) refund to the borrower all premiums paid by the borrower for any insurance purchased by the lender or servicer under paragraph (2) during any period during which the borrower's flood insurance coverage and the insurance coverage purchased by the lender or servicer were each in effect, and any related fees charged to the borrower with respect to the insurance purchased by the lender or servicer during such period.
 
 #### (4) Sufficiency of demonstration
 
@@ -358,7 +358,7 @@ Subsec. (f)(5). Pub. L. 112–141, §100208, substituted "$2,000" for "$350" and
 
 Subsec. (h)(1)(B). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
+<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing EnterpriseOversight of the Department of Housing and Urban Development".
 
 <b>1994</b>—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
@@ -400,7 +400,7 @@ Definitions.—In this subparagraph—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) is not subject to the requirement to escrow premiums and fees for flood insurance under section 102(d)(1) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)) as in effect on July 5, 2012; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of theFlood Disaster Protection Act of 1973, as amended; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(cc) would, if the loan had been originated, refinanced, increased, extended, or renewed on or after January 1, 2016, be subject to the requirements under section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended; and
 
 &emsp;&emsp;&emsp;"(III) the term 'section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973, as amended' means section 102(d)(1)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(d)(1)(A)), as amended by—
 

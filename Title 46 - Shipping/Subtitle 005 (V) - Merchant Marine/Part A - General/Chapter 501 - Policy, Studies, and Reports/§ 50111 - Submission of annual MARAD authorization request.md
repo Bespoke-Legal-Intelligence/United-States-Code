@@ -62,6 +62,8 @@ June 29, 1936, ch. 858, title II, §212(g), 49 Stat. 1990; Pub. L. 90–268, §1
 
 In subsection (a), the words "on or before the 1st day of December in each year" in 46 App. U.S.C. 811 (last sentence) are omitted for consistency with the April 1 date in 46 App.:1118. The words "and of the operations of any corporation in which the United States is a stockholder, and the names and compensation of all persons employed by the Secretary of Transportation" in 46 App. U.S.C. 811 (last sentence) are omitted because the provision originally applied to the United States Shipping Board (which was abolished in 1933) and presumably is not intended to apply to the Secretary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92 amended section generally. Prior to amendment, section related to annual reports to Congress.

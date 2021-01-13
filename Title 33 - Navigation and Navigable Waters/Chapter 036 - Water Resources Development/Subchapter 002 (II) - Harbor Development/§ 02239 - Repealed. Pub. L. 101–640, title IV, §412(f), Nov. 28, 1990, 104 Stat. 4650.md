@@ -2,6 +2,8 @@
 
 Section, Pub. L. 99–662, title II, §211, Nov. 17, 1986, 100 Stat. 4106; Pub. L. 100–676, §32, Nov. 17, 1988, 102 Stat. 4030, directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Sediments Decontamination Technology
 
 Pub. L. 102–580, title IV, §405, Oct. 31, 1992, 106 Stat. 4863, as amended by Pub. L. 104–303, title II, §226, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, §204, Aug. 17, 1999, 113 Stat. 285, provided that:
@@ -76,7 +78,7 @@ Demonstration Project.—The Secretary, in consultation with the Administrator o
 
 "(d)
 
-Mud Dump Site Defined.—For purposes of this section, the term 'Mud Dump Site' means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+Mud Dump Site Defined.—For purposes of this section, the term 'Mud Dump Site' means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North,73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
 "(e)
 

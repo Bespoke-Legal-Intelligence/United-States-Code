@@ -42,7 +42,7 @@ The Committee shall designate as National Geospatial Data Asset data themes the 
 
 &emsp;&emsp;(B) provide leadership and facilitate the development and implementation of a plan for nationwide population of the National Geospatial Data Asset data theme, which shall—
 
-&emsp;&emsp;&emsp;(i) include developing partnership programs with States, Indian tribes, institutions of higher education, private sector entities, other Federal agencies, and local governments;
+&emsp;&emsp;&emsp;(i) include developing partnership programs with States, Indian tribes, institutions of higher education, private sectorentities, other Federal agencies, and local governments;
 
 &emsp;&emsp;&emsp;(ii) meet the needs of users of geospatial data;
 
@@ -66,7 +66,7 @@ The Committee shall designate as National Geospatial Data Asset data themes the 
 
 &emsp;&emsp;&emsp;&emsp;(II) comments, as appropriate, regarding the summary and evaluation of the performance report provided by the Committee under section 2802(c)(12) of this title;
 
-&emsp;&emsp;&emsp;(iii) publish maps or comparable graphics online (in accordance with the mappingconventions specified by the Committee) showing the extent and status of the National Geospatial Data Asset data themes for which the covered agency is a lead covered agency;
+&emsp;&emsp;&emsp;(iii) publish maps or comparable graphics online (in accordance with the mapping conventions specified by the Committee) showing the extent and status of the National Geospatial Data Asset data themes for which the covered agency is a lead covered agency;
 
 &emsp;&emsp;&emsp;(iv) encourage individuals and entities that are a source of geospatial data or metadata for geospatial data for the National Geospatial Data Asset data theme to provide access to such data through the GeoPlatform;
 

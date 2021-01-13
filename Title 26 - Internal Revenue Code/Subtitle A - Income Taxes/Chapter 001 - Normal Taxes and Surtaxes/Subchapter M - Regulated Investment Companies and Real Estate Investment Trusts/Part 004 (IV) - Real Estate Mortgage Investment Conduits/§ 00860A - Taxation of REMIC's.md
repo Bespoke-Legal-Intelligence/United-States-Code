@@ -44,7 +44,7 @@ Treatment of existing entities.—The amendment made by section 673 shall not ap
 
 &emsp;"(3)
 
-Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part \[this subtitle\]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986."
+Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part \[thissubtitle\]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986."
 
 #### Study of Amendments by Pub. L. 99–514
 

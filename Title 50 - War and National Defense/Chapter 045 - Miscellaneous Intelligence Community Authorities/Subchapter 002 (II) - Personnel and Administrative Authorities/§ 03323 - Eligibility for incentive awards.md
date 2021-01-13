@@ -14,7 +14,7 @@ During fiscal year 1987, the Director of Central Intelligence may exercise the a
 
 #### (d) Payment and acceptance of award
 
-An award made by the Director of Central Intelligence to an employee or member of theArmed Forces under the authority of section 4503 of title 5 or this section may be paid and accepted notwithstanding—
+An award made by the Director of Central Intelligence to an employee or member of the Armed Forces under the authority of section 4503 of title 5 or this section may be paid and accepted notwithstanding—
 
 &emsp;(1) section 5536 of title 5; and
 

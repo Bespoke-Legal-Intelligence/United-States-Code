@@ -34,7 +34,7 @@ In this section:
 
 &emsp;&emsp;(C) the 15-year period beginning on the date the security clearance was granted in the case of a Confidential Clearance.
 
-&emsp;(6) The term "personnel security investigation" means any investigation required for thepurpose of determining the eligibility of any military, civilian, or government contractor personnel to access classified information.
+&emsp;(6) The term "personnel security investigation" means any investigation required for the purpose of determining the eligibility of any military, civilian, or government contractor personnel to access classified information.
 
 &emsp;(7) The term "periodic reinvestigations" means investigations conducted for the purpose of updating a previously completed background investigation—
 
@@ -62,7 +62,7 @@ Access determination.—The term "access determination" means the determination 
 
 Except as otherwise provided, not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
 
-&emsp;(1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
+&emsp;(1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitiveprograms, throughout the United States Government;
 
 &emsp;(2) developing and implementing uniform and consistent policies and procedures to ensure the effective, efficient, and timely completion of security clearances and determinations for access to highly sensitive programs, including the standardization of security questionnaires, financial disclosure requirements for security clearance applicants, and polygraph policies and procedures;
 
@@ -106,7 +106,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 (5) The head of the entity selected pursuant to subsection (b) may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) determines that such action is necessary for national security purposes.
 
-(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedure by which agencies can seek review of actions required under this section.
+(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedureby which agencies can seek review of actions required under this section.
 
 #### (e) Database on security clearances
 
@@ -144,7 +144,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 #### (g) Reduction in length of personnel security clearance process
 
-(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selectionunder that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)(A) To the extent practical the plan under paragraph (1) shall require that each authorized adjudicative agency make a determination on at least 90 percent of all applications for a personnel security clearance within an average of 60 days after the date of receipt of the completed application for a security clearance by an authorized investigative agency. Such 60-day average period shall include—
 
@@ -214,7 +214,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (2) Rule of construction
 
-&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of anypersonnel action against an employee who lawfully discloses information to Congress.
+&emsp;Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
 
 #### (3) Disclosures
 
@@ -286,7 +286,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under section 3161 of this title.
 
-Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435\(now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order 12958, referred to in subsec. (a)(4)(A), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 Executive Order 10865, referred to in subsec. (a)(9)(A), is set out as a note under section 3161 of this title.
 
@@ -320,7 +320,7 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 #### Construction
 
-Pub. L. 113–126, title VI, §602(e), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[50 U.S.C. 3161 note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[50 U.S.C. 3161 note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[50 U.S.C. 3341(b)(7)\], as added by this section."
+Pub. L. 113–126, title VI, §602(e), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968\(60 Fed. Reg. 40245; relating to access to classified information) \[50 U.S.C. 3161 note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[50 U.S.C. 3161 note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[50 U.S.C. 3341(b)(7)\], as added by this section."
 
 #### Required Elements of Policies and Procedures
 

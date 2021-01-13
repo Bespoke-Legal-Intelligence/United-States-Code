@@ -108,6 +108,8 @@ In subsection (d), the words "officer or" are omitted as included within "employ
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
@@ -145,6 +147,8 @@ Subsec. (c)(1). Pub. L. 96–54, §2(a)(6), amended subsec. (c)(1) in same manne
 <b>1970</b>—Subsec. (e). Pub. L. 91–375 added subsec. (e).
 
 <b>1968</b>—Subsec. (a)(1)(F). Pub. L. 90–486 added subpar. (F).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

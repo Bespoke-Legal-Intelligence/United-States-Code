@@ -68,7 +68,7 @@ For purposes of this subpart—
 
 #### (5) Property
 
-&emsp;In applying this subsection, the term "property" includes services and the right to use property, but such term does not include money.
+&emsp;In applying this subsection, the term "property" includes services and the right to useproperty, but such term does not include money.
 
 #### (c) Special rules for applying subsection (b)
 

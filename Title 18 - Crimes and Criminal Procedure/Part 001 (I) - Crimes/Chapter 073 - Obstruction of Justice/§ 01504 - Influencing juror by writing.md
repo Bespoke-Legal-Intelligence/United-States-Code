@@ -1,6 +1,6 @@
 ### §1504. Influencing juror by writing
 
-Whoever attempts to influence the action or decision of any grand or petit juror of any court of the United States upon any issue or matter pending before such juror, or before the jury of which he is a member, or pertaining to his duties, by writing or sending to him any written communication, in relation to such issue or matter, shall be fined under this title or imprisoned not more than six months, or both.
+Whoever attempts to influence the action or decision of any grand or petit juror of any court of the United States upon any issue or matter pending before such juror, or before the jury of which he is a member, or pertaining to his duties, by writing or sending to him any written communication, in relation to such issue ormatter, shall be fined under this title or imprisoned not more than six months, or both.
 
 Nothing in this section shall be construed to prohibit the communication of a request to appear before the grand jury.
 
@@ -13,6 +13,8 @@ Based on title 18, U.S.C., 1940 ed., §243 (Mar. 4, 1909, ch. 321, §137, 35 Sta
 Last paragraph was added to remove the possibility that a proper request to appear before a grand jury might be construed as a technical violation of this section.
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

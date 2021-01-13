@@ -116,7 +116,7 @@ Beginning in fiscal year 2004, the Secretary shall assess and collect fees in ac
 
 &emsp;Subject to subsections (c), (d), (f), and (g)—
 
-&emsp;&emsp;(A) for fiscal year 2019, the fees required under subsection (a) shall be established togenerate a total revenue amount of $30,331,240; and
+&emsp;&emsp;(A) for fiscal year 2019, the fees required under subsection (a) shall be established to generate a total revenue amount of $30,331,240; and
 
 &emsp;&emsp;(B) for each of fiscal years 2020 through 2023, the fees required under subsection (a) shall be established to generate a total revenue amount of $29,931,240.
 
@@ -172,7 +172,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 #### (4) Final year adjustment
 
-&emsp;For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
+&emsp;For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under thissection, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
 
 #### (5) Limit
 
@@ -238,7 +238,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -302,7 +302,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (ii) Workload-based fee accounting
 
-&emsp;&emsp;&emsp;In applying clause (i), the Secretary shall account for the reduction of workload-based fee revenue increases by excesscollections under subsection (c)(3)(B), in such manner as needed to provide that no portion of any excess collections described in clause (i) is applied for purposes of reducing fee increases under both such subsection (c)(3)(B) and this paragraph.
+&emsp;&emsp;&emsp;In applying clause (i), the Secretary shall account for the reduction of workload-based fee revenue increases by excess collections under subsection (c)(3)(B), in such manner as needed to provide that no portion of any excess collections described in clause (i) is applied for purposes of reducing fee increases under both such subsection (c)(3)(B) and this paragraph.
 
 #### (C) Rule of application
 
@@ -333,6 +333,8 @@ The Secretary shall—
 #### Termination of Section
 
 <i>For termination of section by section 107(a) of Pub. L. 115–234, see Termination Date note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -409,6 +411,8 @@ Subsec. (g)(3)(A) to (E). Pub. L. 110–316, §103(d), amended subpars. (A) to (
 "(E) $10,000,000 for fiscal year 2008;".
 
 Subsec. (g)(4). Pub. L. 110–316, §103(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriations Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

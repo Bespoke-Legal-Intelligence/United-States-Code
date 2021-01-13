@@ -42,6 +42,8 @@ Correspondence.—Each report under paragraph (1) shall include copies of any co
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 250, §189; renumbered §609 and amended Pub. L. 109–59, title I, §§1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 621; Pub. L. 114–94, div. A, title II, §2001(h), Dec. 4, 2015, 129 Stat. 1444.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 substituted "the TIFIA program" for "this chapter (other than section 610)" wherever appearing.
@@ -57,6 +59,8 @@ Correspondence.—Each report under paragraph (1) shall include copies of any co
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 189 of this title as this section.
 
 Pub. L. 109–59, §1601(h), substituted "Reports" for "Report" in section catchline, "On June 1, 2006, and every 2 years thereafter," for "Not later than 4 years after the date of enactment of this subchapter," in introductory provisions, and "chapter (other than section 610)" for "subchapter" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

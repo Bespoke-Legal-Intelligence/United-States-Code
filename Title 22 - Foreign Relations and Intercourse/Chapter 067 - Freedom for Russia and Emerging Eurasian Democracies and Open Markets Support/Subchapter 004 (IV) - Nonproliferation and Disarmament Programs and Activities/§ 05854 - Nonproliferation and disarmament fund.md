@@ -40,11 +40,15 @@ Priority in carrying out this section shall be given to the activities described
 
 (Pub. L. 102–511, title V, §504, Oct. 24, 1992, 106 Stat. 3339.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsec. (c)(3), is section 510 of Pub. L. 101–513, title V, Nov. 5, 1991, 104 Stat. 2003, which is not classified to the Code.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority With Respect to Allocation and Administration of Nonproliferation and Disarmament Fund
 
@@ -56,7 +60,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1\. The authorities and duties vested in the President under section 504 of the Act \[22 U.S.C. 5854\] are hereby delegated to the Secretary of State. These authorities and duties shall be exercised in consultation with the Secretary of Defense and other appropriate agencies. The Secretary of State may, to the extent consistent with law, redelegate such authorities and duties and authorize their successive redelegation.
 
-2\. Notwithstanding the Presidential Memorandum of December 30, 1992 \[22 U.S.C. 5852 note\] (Delegation of Responsibilities under Title XIV of Public Law 102–484 and Title V of Public Law 102–511), the Secretary of State is hereby delegated the duties vested in the President under section 508 of the Act \[22 U.S.C. 5858\] insofar as those duties relate to notice of and reportson obligations and activities under section 504 of the Act \[22 U.S.C. 5854\].
+2\. Notwithstanding the Presidential Memorandum of December 30, 1992 \[22 U.S.C. 5852 note\] (Delegation of Responsibilities under Title XIV of Public Law 102–484 and Title V of Public Law 102–511), the Secretary of State is hereby delegated the duties vested in the President under section 508 of the Act \[22 U.S.C. 5858\] insofar as those duties relate to notice of and reports on obligations and activities under section 504 of the Act \[22 U.S.C. 5854\].
 
 3\. Funds appropriated or otherwise made available to the President for a "Nonproliferation and Disarmament Fund" authorized under section 504 of the Act \[22 U.S.C. 5854\] shall be deemed to be allocated to the Secretary of State without any further action of the President. Such funds may be reallocated or transferred as appropriate by the Secretary of State to any agency or part thereof for obligation or expenditure consistent with applicable law.
 

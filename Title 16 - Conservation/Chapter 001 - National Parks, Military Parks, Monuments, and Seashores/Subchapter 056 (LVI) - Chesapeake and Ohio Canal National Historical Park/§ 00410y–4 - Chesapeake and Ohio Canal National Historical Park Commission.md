@@ -52,5 +52,5 @@ Office of Commissioner of District of Columbia, as established by Reorg. Plan No
 
 #### Chesapeake and Ohio Canal National Historical Park Commission
 
-Pub. L. 113–178, §1, Sept. 26, 2014, 128 Stat. 1912, provided that: "The Chesapeake and Ohio Canal National Historical Park Commission (referred to in this Act \[enacting this note\] as the 'Commission') is authorized in accordance with the provisions of section 6 of the Chesapeake and Ohio Canal Development Act (16 U.S.C. 410y–4), except that the Commission shall terminate 10 years after the date of enactment of this Act \[Sept. 26, 2014\]."
+Pub. L. 113–178, §1, Sept. 26, 2014, 128 Stat. 1912, provided that: "The Chesapeake and Ohio Canal National Historical Park Commission (referred to in this Act \[enacting this note\] as the 'Commission') is authorized in accordance with the provisions of section 6 of the Chesapeake and Ohio Canal Development Act (16 U.S.C.410y–4), except that the Commission shall terminate 10 years after the date of enactment of this Act \[Sept. 26, 2014\]."
 

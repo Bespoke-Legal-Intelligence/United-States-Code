@@ -44,6 +44,8 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 (Pub. L. 109–248, title VI, §631, July 27, 2006, 120 Stat. 641.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 16988 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

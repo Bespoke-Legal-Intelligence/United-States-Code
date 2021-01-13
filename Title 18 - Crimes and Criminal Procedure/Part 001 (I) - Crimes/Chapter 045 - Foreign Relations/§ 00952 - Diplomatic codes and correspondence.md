@@ -10,6 +10,8 @@ Based on section 135 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 
 Minor changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

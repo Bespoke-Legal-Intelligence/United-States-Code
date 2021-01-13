@@ -24,7 +24,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 <b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: "If he considers it in the best interest of the United States, the Secretary of the Navy may have remitted or canceled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of that member's honorable discharge."
 
-Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted "The Secretary of the Navy" for "If the Secretary of the Navy considers it to be in the best interest of the United States, the Secretary" and inserted ", but only if the Secretary considers such action to be in the best interest of the United States" before period at end.
+Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted "The Secretary of the Navy" for "If the Secretary ofthe Navy considers it to be in the best interest of the United States, the Secretary" and inserted ", but only if the Secretary considers such action to be in the best interest of the United States" before period at end.
 
 Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted "of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service" for "of a member of the Navy on active duty, or a member of a reserve component of the Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty".
 

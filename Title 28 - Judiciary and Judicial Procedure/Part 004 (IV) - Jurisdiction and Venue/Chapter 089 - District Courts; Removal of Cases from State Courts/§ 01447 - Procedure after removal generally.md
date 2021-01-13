@@ -4,7 +4,7 @@
 
 (b) It may require the removing party to file with its clerk copies of all records and proceedings in such State court or may cause the same to be brought before it by writ of certiorari issued to such State court.
 
-(c) A motion to remand the case on the basis of any defect other than lack of subject matterjurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
+(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
 
 (d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
 
@@ -16,7 +16,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38, 36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38,36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
 Section consolidates procedural provisions of sections 71, 72, 74, 76, 80, 81 and 83 of title 28, U.S.C., 1940 ed., with important changes in substance and phraseology.
 
@@ -42,6 +42,8 @@ The provisions in section 80 of title 28, U.S.C., 1940 ed., relating to actions 
 
 This section strikes out subsections (c) and (d) of section 1447 of title 28, U.S.C., as covered by the Federal Rules of Civil Procedure, and adds a new subsection to such section 1447 to remove any doubt that the former law as to the finality of an order of remand to a State court is continued. This section also amends renumbered subsection (c) to remove any doubt that the former law authorizing the district court upon remand to order payment of costs is continued.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–51 inserted "1442 or" before "1443".
@@ -59,6 +61,8 @@ Subsec. (e). Pub. L. 100–702, §1016(c)(2), added subsec. (e).
 <b>1949</b>—Subsec. (c). Act May 24, 1949, §84(a), struck out former subsecs. (c) and (d), renumbered former subsec. (e) to be subsec. (c) and inserted at end of first sentence of new subsec. (c) "and may order the payment of just costs".
 
 Subsec. (d). Act May 24, 1949, §84(b), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception to Subsection (d)
 

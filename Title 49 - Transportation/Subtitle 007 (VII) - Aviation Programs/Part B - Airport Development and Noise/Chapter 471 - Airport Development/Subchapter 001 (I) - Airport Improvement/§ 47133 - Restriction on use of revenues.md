@@ -60,7 +60,7 @@ In General.—Notwithstanding any other provision of law, the Administrator of t
 
 "(b)
 
-Use of Revenue.—An airport sponsor that is in compliance with the conditions under subsection (c) may allocate revenue identified by the Administrator under subsection (a) for Federal, State, or local transportation infrastructure projects carried out by the airport sponsor or by a governing body within the geographical limits of the airport sponsor's jurisdiction.
+Use of Revenue.—An airport sponsor that is in compliance with the conditions under subsection (c) may allocate revenue identified by the Administratorunder subsection (a) for Federal, State, or local transportation infrastructure projects carried out by the airport sponsor or by a governing body within the geographical limits of the airport sponsor's jurisdiction.
 
 "(c)
 

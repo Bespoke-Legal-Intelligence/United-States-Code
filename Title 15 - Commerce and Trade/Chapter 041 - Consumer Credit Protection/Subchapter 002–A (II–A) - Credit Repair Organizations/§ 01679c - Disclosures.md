@@ -54,5 +54,5 @@ For a prior section 405 of Pub. L. 90–321, see note set out under section 1679
 
 #### Effective Date
 
-Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organizationbefore the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 

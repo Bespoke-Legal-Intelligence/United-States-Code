@@ -16,9 +16,11 @@
 
 (e) Whether or not the court grants recognition, and subject to sections 306 and 1510, a foreign representative is subject to applicable nonbankruptcy law.
 
-(f) Notwithstanding any other provision of this section, the failure of a foreign representative to commence a case or to obtain recognition underthis chapter does not affect any right the foreign representative may have to sue in a court in the United States to collect or recover a claim which is the property of the debtor.
+(f) Notwithstanding any other provision of this section, the failure of a foreign representative to commence a case or to obtain recognition under this chapter does not affect any right the foreign representative may have to sue in a court in the United States to collect or recover a claim which is the property of the debtor.
 
 (Added Pub. L. 109–8, title VIII, §801(a), Apr. 20, 2005, 119 Stat. 137.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

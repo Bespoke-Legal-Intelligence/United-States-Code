@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) adopt appropriate agricultural mortgage loan underwriting, appraisal, and servicing standards and procedures that meet or exceed the standards established by the Board;
 
-&emsp;&emsp;(F) for purposes of enabling the Corporation to examine the facility, agree to allow officers or employees of the Corporation to have access to all books, accounts, financial records, reports, files, and all other papers, things, or property, of any type whatsoever, belonging to or used by the Corporation that are necessary to facilitate an examination of the operations of the facility in connection with securities, and the pools of qualified loans that back securities, for which the Corporation has provided guarantees; and
+&emsp;&emsp;(F) for purposes of enabling the Corporation to examine the facility, agree to allow officers or employees of the Corporation to have access to all books, accounts, financial records, reports, files, and all other papers, things, or property, of any type whatsoever, belonging to or used by the Corporation that are necessary to facilitate an examination of the operations of the facility in connection with securities, and the pools of qualifiedloans that back securities, for which the Corporation has provided guarantees; and
 
 &emsp;&emsp;(G) adopt appropriate minimum standards and procedures relating to loan administration and disclosure to borrowers concerning the terms and rights applicable to loans for which guarantee is provided, in conformity with uniform standards established by the Corporation.
 
@@ -57,6 +57,8 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 &emsp;Any number of Farm Credit System institutions (other than the Corporation) may enter into an agreement with any certified facility (including an affiliate established under paragraph (1)) to sell the qualified loans of such institutions exclusively to or through the facility.
 
 (Pub. L. 92–181, title VIII, §8.5, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1694; amended Pub. L. 104–105, title I, §106, Feb. 10, 1996, 110 Stat. 164.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

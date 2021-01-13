@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, the applicable Secretary may not make financial assistance available for the benefit of any alien unless that alien is a resident of the United States and is—
 
-&emsp;(1) an alien lawfully admitted for permanent residence as an immigrant as defined by section 1101(a)(15) and (20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
+&emsp;(1) an alien lawfully admitted for permanent residence as an immigrant as defined by section 1101(a)(15) and (20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the UnitedStates temporarily with no intention of abandoning their residence in a foreign country;
 
 &emsp;(2) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8;
 
@@ -90,7 +90,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any individual applying for financial assistance on or after September 30, 1996, deny the application for such assistance on the basis of the immigration status of that individual; and
 
-&emsp;&emsp;&emsp;(iii) the applicable Secretary shall not be liable for the consequences of any action, delay, or failure of the Service to conduct such verification.
+&emsp;&emsp;&emsp;(iii) the applicable Secretary shall not be liable for the consequences of any action,delay, or failure of the Service to conduct such verification.
 
 &emsp;(5) If the applicable Secretary determines, after complying with the requirements of paragraph (4), that such an individual is not in a satisfactory immigration status, the applicable Secretary shall—
 
@@ -146,7 +146,7 @@ For purposes of this section, the term "applicable Secretary" means—
 
 &emsp;&emsp;(B) in carrying out subsection (d)—
 
-&emsp;&emsp;&emsp;(i) may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housing agency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
+&emsp;&emsp;&emsp;(i) may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housingagency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
 
 &emsp;&emsp;&emsp;(ii) may affirmatively establish or verify the eligibility of an individual or family under this section in accordance with the procedures set forth in section 1324a(b)(1) of title 8; and
 
@@ -222,9 +222,9 @@ Subsec. (d). Pub. L. 104–208, §574(1), inserted "or to be" after "being" in i
 
 Pub. L. 104–193, §441(a)(3), substituted "applicable Secretary" for "Secretary" wherever appearing in pars. (2) to (6).
 
-Pub. L. 104–193, §441(a)(1), (4), substituted "the term 'applicable Secretary' " for "the term 'Secretary' " and "applicable Secretary" for "Secretary of Housing and Urban Development" in closing provisions.
+Pub. L. 104–193, §441(a)(1), (4), substituted "the term 'applicable Secretary' " for "the term 'Secretary' " and"applicable Secretary" for "Secretary of Housing and Urban Development" in closing provisions.
 
-Subsec. (d)(1)(A). Pub. L. 104–208, §574(2), inserted at end "If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, orthe agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation."
+Subsec. (d)(1)(A). Pub. L. 104–208, §574(2), inserted at end "If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation."
 
 Subsec. (d)(2). Pub. L. 104–208, §574(3), substituted "on September 30, 1996, or applying for financial assistance on or after September 30, 1996" for "on February 5, 1988" in introductory provisions and added concluding provisions.
 

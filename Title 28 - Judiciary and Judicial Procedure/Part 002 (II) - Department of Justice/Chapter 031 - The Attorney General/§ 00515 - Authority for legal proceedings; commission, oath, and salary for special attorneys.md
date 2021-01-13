@@ -1,6 +1,6 @@
 ### §515. Authority for legal proceedings; commission, oath, and salary for special attorneys
 
-(a) The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney General under law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
+(a) The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney General under law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grandjury proceedings and proceedings before committing magistrate judges, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
 
 (b) Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney.
 
@@ -42,9 +42,13 @@ July 2, 1954, ch. 456, §202 (as applicable to special assistants and special at
 
 In subsection (a), the words "or counselor" are omitted as redundant. The words "United States attorneys" are substituted for "district attorneys" on authority of the Act of June 25, 1948, ch. 646, §1, 62 Stat. 909. The words "any provision of" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 struck out "at not more than $12,000" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

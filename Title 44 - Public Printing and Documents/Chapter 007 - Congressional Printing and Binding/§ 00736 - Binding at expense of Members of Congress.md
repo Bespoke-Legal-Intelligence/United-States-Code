@@ -8,9 +8,13 @@ The Director of the Government Publishing Office may bind at the Government Publ
 
 Based on 44 U.S. Code, 1964 ed., §171 (Dec. 10, 1877, ch. 6, 20 Stat. 5).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

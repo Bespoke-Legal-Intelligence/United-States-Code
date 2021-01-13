@@ -94,5 +94,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
+Pub. L. 102–190, div. B, title XXVII, §2809(c), Dec. 5. 1991, 105 Stat. 1543, provided that: "Section 2836 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts entered into under that section on or after the date of the enactment of this Act \[Dec. 5, 1991\]. The amendment made by subsection (b) \[repealing provisions set out as a note under section 2821 of this title\] shall not affect the validity of any contract entered into before that date under section 802 of the Military Construction Authorization Act, 1984 (10 U.S.C. 2821 note), as in effect on the day before that date."
 

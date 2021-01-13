@@ -22,9 +22,13 @@ The words "District of Columbia" are substituted for "Washington" as a clearer s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–221 substituted "District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks" for "District of Columbia".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Covered programs
 
-Notwithstanding any other provision of law, none of the funds authorized to be appropriatedby this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
+Notwithstanding any other provision of law, none of the funds authorized to be appropriated by this part shall be available for the United States proportionate share for programs for Burma, North Korea, Syria, Iran, Cuba, or the Palestine Liberation Organization or for projects whose purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it, or at the discretion of the President, Communist countries listed in section 2370(f) of this title.
 
 #### (b) Review and report by Secretary of State
 
@@ -14,7 +14,7 @@ The Secretary of State—
 
 #### (c) Exceptions
 
-(1) Subject to paragraph (2), the limitations of subsection (a) shall not apply to contributions to the International Atomic Energy Agency or the United Nations Children's Fund (UNICEF).
+(1) Subject to paragraph (2), the limitations of subsection (a) shall not apply to contributionsto the International Atomic Energy Agency or the United Nations Children's Fund (UNICEF).
 
 (2)(A) Except as provided in subparagraph (B), with respect to funds authorized to be appropriated by this part and available for the International Atomic Energy Agency, the limitations of subsection (a) shall apply to programs or projects of such Agency in Cuba.
 
@@ -36,6 +36,8 @@ The Secretary of State—
 
 (Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849; Pub. L. 107–228, div. B, title XIII, §1342, Sept. 30, 2002, 116 Stat. 1451; Pub. L. 109–13, div. A, title II, §2101, May 11, 2005, 119 Stat. 266; Pub. L. 110–161, div. J, title VI, §616, Dec. 26, 2007, 121 Stat. 2320.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003, referred to in subsec. (d)(1), is section 3 of Pub. L. 107–228, which is set out as a note under section 2651 of this title.
@@ -56,9 +58,13 @@ Subsec. (c). Pub. L. 105–277, §2809(a), designated existing provisions as par
 
 Subsec. (c). Pub. L. 103–236, §431(a)(2), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiary assessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
 
-&emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18,2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
+&emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18, 2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
 
 #### (C) Applicable reporting provision
 
@@ -152,7 +152,7 @@
 
 #### (2) Alignment of claims data with standardized patient assessment data
 
-&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
+&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedenthospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
 
 #### (3) Replacement of certain existing data
 
@@ -218,7 +218,7 @@
 
 #### (A) Period of time
 
-&emsp;&emsp;With respect to the period of time used for calculating measures under paragraph (1)(A),the Secretary shall, to the extent the Secretary determines appropriate, align resource use with the methodology used for purposes of section 1395ww(o)(2)(B)(ii) of this title.
+&emsp;&emsp;With respect to the period of time used for calculating measures under paragraph (1)(A), the Secretary shall, to the extent the Secretary determines appropriate, align resource use with the methodology used for purposes of section 1395ww(o)(2)(B)(ii) of this title.
 
 #### (B) Geographic and other adjustments
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall consider applying adjustments to the resource use and other measures specified under this subsection with respect to the domain described in paragraph (1)(A), taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.
+&emsp;&emsp;The Secretary shall consider applying adjustments to the resource use and othermeasures specified under this subsection with respect to the domain described in paragraph (1)(A), taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.
 
 #### (B) Risk adjustment
 
@@ -358,7 +358,7 @@ Before the initial rulemaking process to implement this section, the Secretary s
 
 #### (k) Funding
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer to theCenters for Medicare \& Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014, and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
+For purposes of carrying out this section, the Secretary shall provide for the transfer to the Centers for Medicare \& Medicaid Services Program Management Account, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, of $130,000,000. Fifty percent of such amount shall be available on October 6, 2014, and fifty percent of such amount shall be equally proportioned for each of fiscal years 2015 through 2019. Such sums shall remain available until expended.
 
 #### (l) Limitation
 
@@ -377,6 +377,16 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
+
+#### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program
+
+Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are described in such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
+
+&emsp;"(1) does not initially include skilled nursing care;
+
+&emsp;"(2) includes occupational therapy; and
+
+&emsp;"(3) includes physical therapy or speech language pathology."
 
 #### Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems
 
@@ -452,7 +462,7 @@ Periodic analyses.—The Secretary shall carry out periodic analyses, at least e
 
 &emsp;"(D)
 
-Funding.—There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determined appropriate by the Secretary) to carry out this paragraph $10,000,000, to remain available until expended.
+Funding.—There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determinedappropriate by the Secretary) to carry out this paragraph $10,000,000, to remain available until expended.
 
 "(3)
 

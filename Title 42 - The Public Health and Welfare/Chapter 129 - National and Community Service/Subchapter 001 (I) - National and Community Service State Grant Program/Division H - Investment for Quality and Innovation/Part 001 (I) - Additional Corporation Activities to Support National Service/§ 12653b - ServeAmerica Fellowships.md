@@ -34,7 +34,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allotted under paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
+&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allottedunder paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
 
 #### (2) Allotment; administrative costs
 
@@ -166,7 +166,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;To be eligible to participate in a service project as a fellow and receive a ServeAmericaFellowship, an eligible fellowship recipient shall—
+&emsp;To be eligible to participate in a service project as a fellow and receive a ServeAmerica Fellowship, an eligible fellowship recipient shall—
 
 &emsp;&emsp;(A) within 3 months after being selected as an eligible fellowship recipient by a State Commission, select a registered service sponsor organization described in subsection (d)—
 
@@ -240,7 +240,7 @@ A fellow who serves in a service project under this section shall be considered 
 
 A prior section 12653b, Pub. L. 101–610, title I, §198B, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843, which related to Presidential awards for service to individuals providing significant service and to outstanding service programs, was renumbered section 198A of Pub. L. 101–610 by Pub. L. 111–13, title I, §1803(b), Apr. 21, 2009, 123 Stat. 1554, and transferred to section 12653a of this title.
 
-Another prior section 12653b, Pub. L. 101–610, title I, §195B, as added Pub. L. 102–484, div. A, title X,§1092(a)(1), Oct. 23, 1992, 106 Stat. 2523, which related to national service program component of Civilian Community Corps Demonstration Program, was renumbered section 153 of Pub. L. 101–610 by Pub. L. 103–82, title I, §104(b), Sept. 21, 1993, 107 Stat. 840, and transferred to section 12613 of this title.
+Another prior section 12653b, Pub. L. 101–610, title I, §195B, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523, which related to national service program component of Civilian Community Corps Demonstration Program, was renumbered section 153 of Pub. L. 101–610 by Pub. L. 103–82, title I, §104(b), Sept. 21, 1993, 107 Stat. 840, and transferred to section 12613 of this title.
 
 #### Effective Date
 

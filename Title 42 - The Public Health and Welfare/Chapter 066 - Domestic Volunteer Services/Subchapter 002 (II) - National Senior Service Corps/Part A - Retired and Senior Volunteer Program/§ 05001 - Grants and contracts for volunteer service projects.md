@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided,</i><i>however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -178,7 +178,7 @@ Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by
 
 "(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps \[now National Senior Service Corps\] programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 
-"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in suchcapacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
+"(2)(A) Each aging resource specialist designated under paragraph (1) shall be qualified to serve in such capacity by appropriate experience and training, and shall be stationed in a State office of the Corporation.
 
 "(B) The primary responsibility of each aging resource specialist shall be—
 

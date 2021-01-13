@@ -44,7 +44,7 @@ Suspension, Termination, or Debarment of Contractor.—
 
 &emsp;(1)
 
-Grounds for suspension, termination, or debarment.—Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated,and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
+Grounds for suspension, termination, or debarment.—Payment under a contract awarded by a Federal agency may be suspended and the contract may be terminated, and the contractor or individual who made the contract with the agency may be suspended or debarred in accordance with the requirements of this section, if the head of the agency determines that—
 
 &emsp;&emsp;(A) the contractor is violating, or has violated, the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1); or
 
@@ -76,9 +76,13 @@ Historical and Revision Notes
 
 Pub. L. 100–690, title V, §5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, §4104(d), title VIII, §8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232 substituted "commercial products or commercial services (as defined in sections 103 and 103a, respectively, of this title)" for "commercial items (as defined in section 103 of this title)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

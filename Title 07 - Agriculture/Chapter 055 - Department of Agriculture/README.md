@@ -46,6 +46,7 @@
 | [2209h.](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md) | Reimbursement of Office of the General Counsel. |
 | [2209i.](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md) | Funding for preparation of final agency decisions regarding discrimination complaints. |
 | [2209j.](%C2%A7%2002209j%20-%20Permanent%20debarment%20from%20participation%20in%20Department%20of%20Agriculture%20programs%20for%20fraud.md) | Permanent debarment from participation in Department of Agriculture programs for fraud. |
+| [2209k.](%C2%A7%2002209k%20-%20Prohibition%20on%20payments%20to%20fossil%20fuel%20refiners%20and%20importers.md) | Prohibition on payments to fossil fuel refiners and importers. |
 | [2210\.](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md) | Deputy Secretary of Agriculture; appointment. |
 | [2211\.](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md) | Powers and duties of Deputy Secretary of Agriculture. |
 | 2211a to 2213. Omitted or Repealed. |  |
@@ -109,6 +110,7 @@
 | [2254\.](%C2%A7%2002254%20-%20Operation%2C%20maintenance%20and%20purchase%20of%20aircraft%20by%20Agricultural%20Research%20Service%3B%20construction%20and%20repair%20of%20buildings.md) | Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings. |
 | [2254a.](%C2%A7%2002254a%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products.md) | Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products. |
 | [2254b.](%C2%A7%2002254b%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products%3B%20exception.md) | Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception. |
+| [2254c.](%C2%A7%2002254c%20-%20Research.md) | Research. |
 | [2255\.](%C2%A7%2002255%20-%20Membership%20in%20International%20Wheat%20Advisory%20Committee%2C%20International%20Sugar%20Council%2C%20etc.md) | Membership in International Wheat Advisory Committee, International Sugar Council, etc. |
 | [2255a.](%C2%A7%2002255a%20-%20Financial%20assistance%20to%20national%20and%20international%20conferences.md) | Financial assistance to national and international conferences. |
 | [2255b.](%C2%A7%2002255b%20-%20Department%20of%20Agriculture%20conference%20transparency.md) | Department of Agriculture conference transparency. |
@@ -211,6 +213,7 @@
 - [&sect; 02209h - Reimbursement of Office of the General Counsel](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md)
 - [&sect; 02209i - Funding for preparation of final agency decisions regarding discrimination complaints](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md)
 - [&sect; 02209j - Permanent debarment from participation in Department of Agriculture programs for fraud](%C2%A7%2002209j%20-%20Permanent%20debarment%20from%20participation%20in%20Department%20of%20Agriculture%20programs%20for%20fraud.md)
+- [&sect; 02209k - Prohibition on payments to fossil fuel refiners and importers](%C2%A7%2002209k%20-%20Prohibition%20on%20payments%20to%20fossil%20fuel%20refiners%20and%20importers.md)
 - [&sect; 02210 - Deputy Secretary of Agriculture; appointment](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md)
 - [&sect; 02211 - Powers and duties of Deputy Secretary of Agriculture](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md)
 - [&sect; 02211a - Omitted](%C2%A7%2002211a%20-%20Omitted.md)
@@ -276,6 +279,7 @@
 - [&sect; 02254 - Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings](%C2%A7%2002254%20-%20Operation%2C%20maintenance%20and%20purchase%20of%20aircraft%20by%20Agricultural%20Research%20Service%3B%20construction%20and%20repair%20of%20buildings.md)
 - [&sect; 02254a - Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products](%C2%A7%2002254a%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products.md)
 - [&sect; 02254b - Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception](%C2%A7%2002254b%20-%20Availability%20of%20funds%20appropriated%20for%20Agricultural%20Research%20Service%20for%20research%20related%20to%20tobacco%20or%20tobacco%20products%3B%20exception.md)
+- [&sect; 02254c - Research](%C2%A7%2002254c%20-%20Research.md)
 - [&sect; 02255 - Membership in International Wheat Advisory Committee, International Sugar Council, etc](%C2%A7%2002255%20-%20Membership%20in%20International%20Wheat%20Advisory%20Committee%2C%20International%20Sugar%20Council%2C%20etc.md)
 - [&sect; 02255a - Financial assistance to national and international conferences](%C2%A7%2002255a%20-%20Financial%20assistance%20to%20national%20and%20international%20conferences.md)
 - [&sect; 02255b - Department of Agriculture conference transparency](%C2%A7%2002255b%20-%20Department%20of%20Agriculture%20conference%20transparency.md)

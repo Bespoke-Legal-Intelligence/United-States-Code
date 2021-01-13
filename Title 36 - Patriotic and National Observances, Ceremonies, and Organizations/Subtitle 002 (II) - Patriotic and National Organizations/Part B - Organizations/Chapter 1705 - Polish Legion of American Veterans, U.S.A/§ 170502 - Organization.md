@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Polish Legion of American Veterans, U.S.A. (in this chapter, the"corporation"), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
+Federal Charter.—Polish Legion of American Veterans, U.S.A. (in this chapter, the "corporation"), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
 
 (b)
 

@@ -34,7 +34,7 @@ In subsection (a) the words "In addition to the divisions herein created" are om
 
 In subsection (c) the words "from time to time" are omitted as surplusage.
 
-Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words "under section 5231 of this title" are substituted for the words "grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated".
+Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words "under section 5231 of this title" are substituted for the words "grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes suchgrade, rank, pay, and allowances for officers so designated".
 
 #### References in Text
 

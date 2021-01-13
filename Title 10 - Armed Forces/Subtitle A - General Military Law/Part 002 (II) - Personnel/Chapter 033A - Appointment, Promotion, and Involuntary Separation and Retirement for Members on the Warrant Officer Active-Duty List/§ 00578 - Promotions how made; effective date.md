@@ -10,7 +10,7 @@
 
 (e) A warrant officer who is appointed to a higher grade under this section is considered to have accepted such appointment on the date on which the appointment is made unless the officer expressly declines the appointment.
 
-(f) A warrant officer who has served continuously as an officer since subscribing to the oathof office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
+(f) A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 102–484, div. A, title X, §1052(4), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §501(c), Oct. 5, 1994, 108 Stat. 2748.)
 

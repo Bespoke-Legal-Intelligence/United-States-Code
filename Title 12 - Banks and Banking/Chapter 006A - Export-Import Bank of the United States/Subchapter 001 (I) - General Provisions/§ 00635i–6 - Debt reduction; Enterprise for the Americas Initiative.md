@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) Authority to sell, reduce, or cancel certain loans
 
-&emsp;Notwithstanding any other provision of law, the President may, in accordance with thissection, sell to any eligible purchaser any loan or portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
+&emsp;Notwithstanding any other provision of law, the President may, in accordance with this section, sell to any eligible purchaser any loan or portion thereof made before January 1, 1992, to any eligible country or any agency thereof pursuant to this subchapter, or, on receipt of payment from an eligible purchaser, reduce or cancel such loan or portion thereof, only for the purpose of facilitating—
 
 &emsp;&emsp;(A) debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps; or
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Treatment under securities laws
 
-&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] shall not be required with respect to the sale or offer for sale by the Bank of a loan or any interest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
+&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] shall not be required with respect to the sale or offer for sale by the Bank of a loan or anyinterest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
 
 #### (4) Administration
 
@@ -78,6 +78,8 @@ For the sale, reduction, and cancellation of loans or portions thereof pursuant 
 
 (July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; amended Pub. L. 107–189, §24(b)(5), June 14, 2002, 116 Stat. 709; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(L), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -95,6 +97,8 @@ A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i
 Subsec. (c)(1)(B). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to sections 1738f through 1738k of title 7.
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–189 substituted "subsection (b) of this section" for "section (b) of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

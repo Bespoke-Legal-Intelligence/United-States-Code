@@ -34,9 +34,9 @@
 
 &emsp;&emsp;(D) complying or agreeing to comply with export requirements of the boycotting country relating to shipments or transshipments of exports to the boycotted country, to any business concern of or organized under the laws of the boycotted country, or to any national or resident of the boycotted country;
 
-&emsp;&emsp;(E) compliance by an individual or agreement by an individual to comply with the immigration or passport requirements ofany country with respect to such individual or any member of such individual's family or with requests for information regarding requirements of employment of such individual within the boycotting country; and
+&emsp;&emsp;(E) compliance by an individual or agreement by an individual to comply with the immigration or passport requirements of any country with respect to such individual or any member of such individual's family or with requests for information regarding requirements of employment of such individual within the boycotting country; and
 
-&emsp;&emsp;(F) compliance by a United States person resident in a foreign country or agreement by such person to comply with the laws of that country with respect to his activities exclusively therein, and such regulations may contain exceptions for such resident complying with the laws or regulations of that foreign country governing imports into such country of trademarked, trade named, or similarly specifically identifiable products, or components of products for his own use, including the performance of contractual services within that country, as may be defined by such regulations.
+&emsp;&emsp;(F) compliance by a United States person resident in a foreign country or agreement by such person to comply with the laws of that country with respect to his activities exclusively therein, and such regulations may contain exceptions for such resident complying with the laws or regulations of that foreign country governing imports into such country of trademarked, trade named,or similarly specifically identifiable products, or components of products for his own use, including the performance of contractual services within that country, as may be defined by such regulations.
 
 #### (3) Special rules
 
@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;In addition to the regulations issued pursuant to subsection (a), regulations issued under subchapter I to carry out the policies set forth in section 4811(2)(D) <sup>1</sup> shall implement the policies set forth in this section.
+&emsp;In addition to the regulations issued pursuant to subsection (a), regulations issued under subchapter I to carry out the policies set forth in section 4811(2)(D) of this title shall implement the policies set forth in this section.
 
 #### (2) Requirements
 
@@ -64,13 +64,17 @@
 
 The provisions of this section and the regulations issued pursuant thereto shall preempt any law, rule, or regulation of any of the several States or the District of Columbia, or any of the territories or possessions of the United States, or of any governmental subdivision thereof, which law, rule, or regulation pertains to participation in, compliance with, implementation of, or the furnishing of information regarding restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States.
 
-(Pub. L. 115–232, div. A, title XVII, §1773, Aug. 13, 2018, 132 Stat. 2234.)
+(Pub. L. 115–232, div. A, title XVII, §1773, Aug. 13, 2018, 132 Stat. 2234; Pub. L. 116–283, div. A, title X, §1081(d)(10), Jan. 1, 2021, 134 Stat. 3874.)
 
 #### References in Text
 
 Subchapter I, referred to in subsec. (b)(1), was in the original "part I", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
-Section 4811(2)(D) of this title, referred to in subsec. (b)(1), was in the original "section 1752(1)(D)", and was translated as meaning section 1752(2)(D) of Pub. L. 115–232, to reflect the probable intent of Congress.
+#### Amendments
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "(2)(D)" for "(1)(D)" in reference to section 4811(2)(D) of this title.
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(10) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 

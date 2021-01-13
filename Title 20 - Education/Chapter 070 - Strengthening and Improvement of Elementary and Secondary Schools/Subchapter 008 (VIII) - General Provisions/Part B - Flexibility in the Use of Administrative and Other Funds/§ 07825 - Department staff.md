@@ -2,7 +2,7 @@
 
 The Secretary shall—
 
-&emsp;(1) not later than 60 days after December 10, 2015, identify the number of Department full-time equivalent employees who worked on or administered each education program orproject authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, and publish such information on the Department's website;
+&emsp;(1) not later than 60 days after December 10, 2015, identify the number of Department full-time equivalent employees who worked on or administered each education program or project authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, and publish such information on the Department's website;
 
 &emsp;(2) not later than 60 days after December 10, 2015, identify the number of full-time equivalent employees who worked on or administered each program or project authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, that has been eliminated or consolidated since December 10, 2015;
 

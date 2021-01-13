@@ -4,6 +4,8 @@ The President is hereby authorized to accept membership for the United States in
 
 (Jan. 28, 1948, ch. 38, §1, 62 Stat. 15.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purpose of Commission
 
 Act Jan. 28, 1948, ch. 38, 62 Stat. 15, provided that:

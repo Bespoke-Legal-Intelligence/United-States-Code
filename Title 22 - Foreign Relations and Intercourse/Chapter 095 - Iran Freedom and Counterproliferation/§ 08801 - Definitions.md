@@ -70,9 +70,11 @@ In this chapter:
 
 #### (b) Determinations of significance
 
-For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations\(or any corresponding similar regulation or ruling).
+For purposes of this chapter, in determining if financial transactions or financial services are significant, the President may consider the totality of the facts and circumstances, including factors similar to the factors set forth in section 561.404 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
 (Pub. L. 112–239, div. A, title XII, §1242, Jan. 2, 2013, 126 Stat. 2004.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -82,9 +84,13 @@ Section 4618 of title 50, referred to in subsec. (a)(6), was repealed by Pub. L.
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(6), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 112–239, div. A, title XII, §1241, Jan. 2, 2013, 126 Stat. 2004, provided that: "This subtitle \[subtitle D (§§1241–1255) of title XII of div. A of Pub. L. 112–239, enacting this chapter and section 8514c of this title, amending sections 8513a and 8551 of this title and section 2335 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 2333 and 2335 of Title 18\] may be cited as the 'Iran Freedom and Counter-Proliferation Act of 2012'."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13716
 
@@ -138,7 +144,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1247(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 et seq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
+• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 etseq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
 • Section 1248(b)(1) to the Secretary of State, with respect to the requirement to impose visa sanctions described in section 105(c) of CISADA;
 

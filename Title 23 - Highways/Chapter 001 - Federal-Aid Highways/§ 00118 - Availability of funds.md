@@ -32,6 +32,8 @@ Net obligations.—Notwithstanding any other provision of law (including a regul
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §§1111(a), 1501(b), Aug. 10, 2005, 119 Stat. 1171, 1235; Pub. L. 112–141, div. A, title I, §1519(b)(1)(B), (c)(4), formerly (c)(5), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(4), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 amended Pub. L. 112–141, §1519(c). See 2012 Amendment note below.
@@ -86,7 +88,7 @@ Subsec. (b)(3). Pub. L. 100–17, §114(c), amended par. (3) generally, revising
 
 Subsec. (b)(4). Pub. L. 100–17, §114(e)(3)(C), (D), inserted heading and aligned par. (4) with par. (2) as amended.
 
-Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted "Subject to section 149(d) of the Federal-Aid Highway Act of 1987, suchamount" for "Such amount" in par. (1), added par. (2), and aligned par. (1) with par. (2).
+Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted "Subject to section 149(d) of the Federal-Aid Highway Act of 1987, such amount" for "Such amount" in par. (1), added par. (2), and aligned par. (1) with par. (2).
 
 Subsec. (f). Pub. L. 100–17, §115, inserted "and the Commonwealth of Puerto Rico" after "the State of Alaska".
 
@@ -102,6 +104,8 @@ Subsecs. (c) to (f). Pub. L. 97–424, §115(b), added subsecs. (c) and (d) and 
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–574 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–94, div. A, title I, §1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
@@ -112,7 +116,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L.105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

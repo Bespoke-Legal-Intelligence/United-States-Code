@@ -104,6 +104,8 @@ Not later than 180 days after October 28, 1992, the Secretary shall promulgate r
 
 (Pub. L. 90–448, §3, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, title IV, §404, Dec. 24, 1969, 83 Stat. 395; Pub. L. 93–383, title I, §118, Aug. 22, 1974, 88 Stat. 653; Pub. L. 96–399, title III, §329, Oct. 8, 1980, 94 Stat. 1651; Pub. L. 102–550, title IX, §915, Oct. 28, 1992, 106 Stat. 3878; Pub. L. 109–281, §2(d)(1), Sept. 22, 2006, 120 Stat. 1181; Pub. L. 113–128, title V, §512(p), July 22, 2014, 128 Stat. 1711.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1437l of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
@@ -116,7 +118,7 @@ October 28, 1992, referred to in subsec. (g), was in the original "the date of e
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(1)(B)(iii). Pub. L. 113–128, §512(p)(1)(A), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
+<b>2014</b>—Subsec. (c)(1)(B)(iii). Pub. L. 113–128, §512(p)(1)(A), substituted "participants in YouthBuildprograms receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
 
 Subsec. (c)(2)(B). Pub. L. 113–128, §512(p)(1)(B), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
 
@@ -139,6 +141,8 @@ Par. (2). Pub. L. 96–399, §329(2), substituted "residing in the same metropol
 <b>1974</b>—Pub. L. 93–383 inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
 <b>1969</b>—Pub. L. 91–152 substituted provisions making applicable programs providing direct financial assistance in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, for provisions making applicable programs authorized by sections 1715l(d)(3), 1715z, and 1715z–1 of this title, the low-rent public housing program under the United States Housing Act of 1937, and the rent supplement program under section 101 of the Housing and Urban Development Act of 1965.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

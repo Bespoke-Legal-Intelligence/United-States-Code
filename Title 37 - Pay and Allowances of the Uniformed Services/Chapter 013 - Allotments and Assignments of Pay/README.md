@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [701\.](%C2%A7%2000701%20-%20Members%20of%20the%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Marine%20Corps%3B%20contract%20surgeons.md) | Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons. |
+| [701\.](%C2%A7%2000701%20-%20Members%20of%20the%20Army%2C%20Navy%2C%20Air%20Force%2C%20Marine%20Corps%2C%20and%20Space%20Force%3B%20contract%20surgeons.md) | Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons. |
 | \[702. | Repealed.\] |
 | [703\.](%C2%A7%2000703%20-%20Allotments%20members%20of%20Coast%20Guard.md) | Allotments: members of Coast Guard. |
 | [704\.](%C2%A7%2000704%20-%20Allotments%20officers%20of%20Public%20Health%20Service.md) | Allotments: officers of Public Health Service. |
@@ -12,7 +12,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §925(h)(4), Jan. 1, 2021, 134 Stat. 3828, substituted "Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons" for "Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons" in item 701.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
@@ -29,7 +33,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00701 - Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons](%C2%A7%2000701%20-%20Members%20of%20the%20Army%2C%20Navy%2C%20Air%20Force%2C%20and%20Marine%20Corps%3B%20contract%20surgeons.md)
+- [&sect; 00701 - Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons](%C2%A7%2000701%20-%20Members%20of%20the%20Army%2C%20Navy%2C%20Air%20Force%2C%20Marine%20Corps%2C%20and%20Space%20Force%3B%20contract%20surgeons.md)
 - [&sect; 00702 - Repealed. Pub. L. 99&#8211;145, title VI, &sect;683(b)(1), Nov. 8, 1985, 99 Stat. 665](%C2%A7%2000702%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20VI%2C%20%C2%A7683%28b%29%281%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20665.md)
 - [&sect; 00703 - Allotments members of Coast Guard](%C2%A7%2000703%20-%20Allotments%20members%20of%20Coast%20Guard.md)
 - [&sect; 00704 - Allotments officers of Public Health Service](%C2%A7%2000704%20-%20Allotments%20officers%20of%20Public%20Health%20Service.md)

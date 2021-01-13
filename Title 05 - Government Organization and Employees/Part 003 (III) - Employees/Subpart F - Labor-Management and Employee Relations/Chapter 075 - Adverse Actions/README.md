@@ -56,6 +56,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1097(e)(2), Dec. 12, 2017, 131 Stat. 1622, added item 7515 and struck out former item 7515 "Discipline of supervisors based on retaliation against whistleblowers". Item was added to and stricken from analysis for this chapter, notwithstanding directory language adding item to, and striking item from, analysis for subchapter II of this chapter.
@@ -64,13 +66,15 @@ Pub. L. 115–73, title I, §104(b), Oct. 26, 2017, 131 Stat. 1238, added item 7
 
 <b>1978</b>—Pub. L. 95–454, title II, §204(b), title IV, §411(1), Oct. 13, 1978, 92 Stat. 1137, 1173, substituted "SUSPENSION OF 14 DAYS OR LESS" for "COMPETITIVE SERVICE" in subchapter I heading, substituted "Definitions" for "Cause; procedure; exception" in item 7501, added items 7502 to 7504, substituted "REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS" for "PREFERENCE ELIGIBLES" in subchapter II heading, inserted "; application" in item 7511, substituted "Actions covered" for "Cause; procedure; exception" in item 7512, added items 7513 and 7514, substituted "ADMINISTRATIVE LAW JUDGES" for "HEARING EXAMINERS" in subchapter III heading, substituted "Actions against administrative law judges" for "Removal" in item 7521, and added subchapter V heading and items 7541 to 7543.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13839. Promoting Accountability and Streamlining Removal Procedures Consistent With Merit System Principles
 
 Ex. Ord. No. 13839, May 25, 2018, 83 F.R. 25343, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 1104(a)(1), 3301, and 7301 of title 5, United States Code, and section 301 of title 3, United States Code, and to ensure the effective functioning of the executive branch, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. Merit system principles call for holding Federal employees accountable for performance and conduct. They state that employees should maintain high standards of integrity, conduct, and concern for the public interest, and that the Federal workforce should be used efficiently and effectively. They further state that employees should be retained based on the adequacy of their performance, inadequate performance should be corrected, and employees should be separated who cannot or will not improve their performance to meet required standards. Unfortunately, implementation of America's civil service laws has fallen far short of these ideals. The Federal Employee Viewpoint Survey has consistently found that less than one-third of Federal employees believe that the Government deals with poor performers effectively. Failure to address unacceptable performance and misconduct undermines morale, burdens good performers with subpar colleagues, and inhibits the ability of executive agencies (as defined in section 105 of title 5, United States Code, but excluding the Government Accountability Office) (agencies) to accomplish their missions. This order advances the ability of supervisors in agencies to promote civil servant accountability consistent with merit system principles while simultaneously recognizing employees' procedural rights and protections.
+Section 1. <i>Purpose</i>. Merit system principles call for holding Federal employees accountable for performance and conduct. They state that employees should maintain high standards of integrity, conduct, and concern for the public interest, and that the Federal workforce should be used efficiently and effectively. They further state that employees should be retained based on the adequacy of their performance, inadequate performance should be corrected, and employees should be separated who cannot or will not improve their performance to meet required standards. Unfortunately, implementation of America's civil service laws has fallen far short of these ideals. The Federal EmployeeViewpoint Survey has consistently found that less than one-third of Federal employees believe that the Government deals with poor performers effectively. Failure to address unacceptable performance and misconduct undermines morale, burdens good performers with subpar colleagues, and inhibits the ability of executive agencies (as defined in section 105 of title 5, United States Code, but excluding the Government Accountability Office) (agencies) to accomplish their missions. This order advances the ability of supervisors in agencies to promote civil servant accountability consistent with merit system principles while simultaneously recognizing employees' procedural rights and protections.
 
 Sec. 2. <i>Principles for Accountability in the Federal Workforce</i>. (a) Removing unacceptable performers should be a straightforward process that minimizes the burden on supervisors. Agencies should limit opportunity periods to demonstrate acceptable performance under section 4302(c)(6) of title 5, United States Code, to the amount of time that provides sufficient opportunity to demonstrate acceptable performance.
 
@@ -82,7 +86,7 @@ Sec. 2. <i>Principles for Accountability in the Federal Workforce</i>. (a) Remov
 
 (e) When taking disciplinary action, agencies should have discretion to take into account an employee's disciplinary record and past work record, including all past misconduct -- not only similar past misconduct. Agencies should provide an employee with appropriate notice when taking a disciplinary action.
 
-(f) To the extent practicable, agencies should issue decisions on proposed removals taken under chapter 75of title 5, United States Code \[5 U.S.C. 7501 et seq.\], within 15 business days of the end of the employee reply period following a notice of proposed removal.
+(f) To the extent practicable, agencies should issue decisions on proposed removals taken under chapter 75 of title 5, United States Code \[5 U.S.C. 7501 et seq.\], within 15 business days of the end of the employee reply period following a notice of proposed removal.
 
 (g) To the extent practicable, agencies should limit the written notice of adverse action to the 30 days prescribed in section 7513(b)(1) of title 5, United States Code.
 
@@ -126,7 +130,7 @@ Sec. 6. <i>Data Collection of Adverse Actions</i>. (a) For fiscal year 2018, and
 
 (v) the number of decisions on proposed removals by the agency taken under chapter 75 of title 5, United States Code, not issued within 15 business days of the end of the employee reply period;
 
-(vi) the number of adverse personnel actions by the agency for which employees received written notice in excess of the 30 days prescribed in section 7513(b)(1) of title 5, United States Code;
+(vi) the number of adverse personnel actions by the agency for which employees received written notice inexcess of the 30 days prescribed in section 7513(b)(1) of title 5, United States Code;
 
 (vii) the number and key terms of settlements reached by the agency with civilian employees in cases arising out of adverse personnel actions; and
 
@@ -144,7 +148,7 @@ Sec. 7. <i>Implementation</i>. (a) Within 45 days of the date of this order, the
 
 (i) within 45 days of this order, revise its discipline and unacceptable performance policies to conform to the principles and requirements of this order, in areas where new final Office of Personnel Management (OPM) regulations are not required, and shall further revise such policies as necessary to conform to any new final OPM regulations, within 45 days of the issuance of such regulations; and
 
-(ii) renegotiate, as applicable, any collective bargaining agreement provisions that are inconsistent withany part of this order or any final OPM regulations promulgated pursuant to this order. Each agency shall give any contractually required notice of its intent to alter the terms of such agreement and reopen negotiations. Each agency shall, to the extent consistent with law, subsequently conform such terms to the requirements of this order, and to any final OPM regulations issued pursuant to this order, on the earliest practicable date permitted by law.
+(ii) renegotiate, as applicable, any collective bargaining agreement provisions that are inconsistent with any part of this order or any final OPM regulations promulgated pursuant to this order. Each agency shall give any contractually required notice of its intent to alter the terms of such agreement and reopen negotiations. Each agency shall, to the extent consistent with law, subsequently conform such terms to the requirements of this order, and to any final OPM regulations issued pursuant to this order, on the earliest practicable date permitted by law.
 
 (c) Within 15 months of the adoption of any final rules issued pursuant to subsection (a) of this section, the OPM Director shall submit to the President a report, through the Director of the Office of Management and Budget, evaluating the effect of those rules, including their effect on the ability of Federal supervisors to hold employees accountable for their performance.
 

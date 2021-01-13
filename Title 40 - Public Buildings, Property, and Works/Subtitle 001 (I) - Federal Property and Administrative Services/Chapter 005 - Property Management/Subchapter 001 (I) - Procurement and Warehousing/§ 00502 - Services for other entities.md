@@ -124,6 +124,8 @@ June 30, 1949, ch. 288, title II, §201(b), 63 Stat. 384; Sept. 5, 1950, ch. 849
 
 In subsection (b)(2), the words "the authority of" in 40:481(b)(2)(B) are omitted as unnecessary. The words "Committee for Purchase From People Who Are Blind or Severely Disabled" are substituted for \["\]Committee for Purchase from the Blind and Other Severely Handicapped" because of section 911(a) of the Rehabilitation Act Amendments of 1992 (Public Law 102–569, 106 Stat. 4486) and section 301 of the Rehabilitation Act Amendments of 1993 (Public Law 103–73, 107 Stat. 736).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(3)(B)(ii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -155,6 +157,8 @@ Subsec. (f). Pub. L. 111–263, §3, added subsec. (f).
 <b>2006</b>—Subsec. (d). Pub. L. 109–364 added subsec. (d).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–347 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

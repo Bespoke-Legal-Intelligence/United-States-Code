@@ -10,9 +10,9 @@ Closure or Disapproval.—Any payment of educational assistance described in sub
 
 (b)
 
-Educational Assistance Described.—Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+Educational Assistance Described.—Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
 
-&emsp;(1) was unable to complete such course or program as a result of—
+&emsp;(1) <sup>1</sup> was unable to complete such course or program as a result of—
 
 &emsp;&emsp;(A) the closure of the educational institution; or
 
@@ -40,17 +40,39 @@ Continuing Pursuit of Disapproved Courses.—(1) The Secretary may treat a cours
 
 &emsp;(B) continuing pursuing such course is in the best interest of the individual.
 
-(2) An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
+(2) An individual described in this paragraph is an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, as of the date on which the course is disapproved under this chapter.
 
 (e)
 
-Notice of Closures.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
+Notice of Closures.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed, the Secretary shall provide to each individual who is enrolled in a course or program or education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, notice of—
 
 &emsp;(1) such closure and the date of such closure; and
 
 &emsp;(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
-(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 116–315, title I, §1021, Jan. 5, 2021, 134 Stat. 4958, provided that, effective on Aug. 1, 2021, subsection (c) of this section is amended to read as follows:</i>
+
+<i>(c)</i>
+
+<i>Period Not Charged.—(1) The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—</i>
+
+&emsp;<i>(A) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and</i>
+
+&emsp;<i>(B) the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title.</i>
+
+<i>(2)(A) An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.</i>
+
+<i>(B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.</i>
+
+<i>(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.</i>
+
+<i>See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -58,7 +80,23 @@ A prior section 3699, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974,
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–315, §1007(a), substituted "chapter 30, 31," for "chapter 30," wherever appearing.
+
+Subsec. (c). Pub. L. 116–315, §1021(a), amended subsec. (c) generally. Prior to amendment, text read as follows: "The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
+
+&emsp;"(1) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+
+&emsp;"(2) the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title."
+
 <b>2019</b>—Subsec. (b). Pub. L. 116–61 substituted "this subsection" for "this paragraph".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1007(a) of Pub. L. 116–315 applicable as if included in the enactment of section 109 of Pub. L. 115–48, see section 1007(d) of Pub. L. 116–315, set out as a note under section 3680 of this title, and Effective Date note below.
+
+Pub. L. 116–315, title I, §1021(b), Jan. 5, 2021, 134 Stat. 4959, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on August 1, 2021."
 
 #### Effective Date
 
@@ -74,9 +112,31 @@ Special application.—
 
 &emsp;"(i)
 
-In general.—With respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by subsection (a)(1), during the period beginning January 1, 2015, and ending on the date of the enactment of this Act \[Sept. 29, 2017\], an individual described in clause (ii) who does not transfer credits from such program of education shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2) of such section, except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carrying out this subparagraph, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+In general.—With respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by subsection (a)(1), during the period beginning January 1, 2015, and ending on the date of the enactment of this Act \[Sept. 29, 2017\], an individual described in clause (ii) who does not transfer credits from such program of education shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2) of such section, except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carryingout this subparagraph, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
 
 &emsp;"(ii)
 
 Individual described.—An individual described in this clause is an individual who is enrolled in a course or program of education discontinued as described in clause (i) during the period beginning on the date that is 120 days before the date of such discontinuance and ending on the date of such discontinuance."
+
+#### Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation
+
+Pub. L. 116–315, title I, §1107(c), Jan. 5, 2021, 134 Stat. 4966, provided that: "The subparagraph (C) temporarily added to section 3699(b)(1) of title 38, United States Code, by section 5 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140; 38 U.S.C. 3699 note) \[set out below\] is amended by inserting 'or training establishment' after 'educational institution'."
+
+Pub. L. 116–140, §5, Apr. 28, 2020, 134 Stat. 632, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3699(b)(1) of title 38, United States Code, as if it were amended—
+
+&emsp;"(1) in subparagraph (A), by striking 'or' at the end;
+
+&emsp;"(2) in subparagraph (B)(ii), by striking 'and' at the end and inserting 'or' ; and
+
+&emsp;"(3) by adding at the end the following new subparagraph:
+
+&emsp;&emsp;" '(C) the temporary closure of an educational institution or the temporary closure or termination of a course or program of education by reason of an emergency situation; and'."
+
+\[The term "covered period" as used in section 5 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+
+#### Restoration of Entitlement to Rehabilitation Programs for Veterans Affected by School Closure or Disapproval
+
+Pub. L. 116–140, §7(a), Apr. 28, 2020, 134 Stat. 634, which provided that, during the period from Mar. 1, 2020, to Dec. 21, 2020, the Secretary of Veterans Affairs was to apply this section as if it were amended by striking "chapter 30," each time it appeared and inserting "chapter 30, 31,", was repealed by Pub. L. 116–315, title I, §1007(c), Jan. 5, 2021, 134 Stat. 4940. See 2021 Amendment note above.
+
+<i><sup>1</sup></i><i> See Prohibition of Charge to Entitlement of Students Unable To Pursue a Program of Education Due to an Emergency Situation note below.</i>
 

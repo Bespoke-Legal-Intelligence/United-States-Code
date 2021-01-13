@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–318, §4(b), Dec. 16, 2016, 130 Stat. 1614, added item for chapter 29.

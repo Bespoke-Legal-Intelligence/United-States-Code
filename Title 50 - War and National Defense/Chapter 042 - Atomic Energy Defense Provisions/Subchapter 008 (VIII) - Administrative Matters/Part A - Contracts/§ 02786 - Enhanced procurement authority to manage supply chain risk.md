@@ -4,9 +4,9 @@
 
 Subject to subsection (b), the Secretary of Energy may—
 
-&emsp;(1) carry out a covered procurement action; and
+&emsp;(1) carry out a covered procurement action or special exclusion action; and
 
-&emsp;(2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
+&emsp;(2) notwithstanding any other provision of law, limit, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action or special exclusion action.
 
 #### (b) Requirements
 
@@ -34,7 +34,7 @@ The Secretary may exercise the authority under subsection (a) only after—
 
 If the Secretary has exercised the authority under subsection (a), the Secretary shall—
 
-&emsp;(1) notify appropriate parties of the covered procurement action and the basis for the action only to the extent necessary to carry out the covered procurement action;
+&emsp;(1) notify appropriate parties of the covered procurement action or special exclusion action and the basis for the action only to the extent necessary to carry out the covered procurement action or special exclusion action;
 
 &emsp;(2) notify other Federal agencies responsible for procurement that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
 
@@ -44,7 +44,15 @@ If the Secretary has exercised the authority under subsection (a), the Secretary
 
 No action taken by the Secretary under the authority under subsection (a) shall be subject to review in any Federal court.
 
-#### (e) Definitions
+#### (e) Delegation of authority
+
+The Secretary may delegate the authority under this section to—
+
+&emsp;(1) in the case of the Administration, the Administrator; and
+
+&emsp;(2) in the case of any other component of the Department of Energy, the Senior Procurement Executive of the Department.
+
+#### (f) Definitions
 
 In this section:
 
@@ -70,7 +78,7 @@ In this section:
 
 &emsp;&emsp;(A) A source selection for a covered system or a covered item of supply involving either a performance specification, as described in subsection (a)(3)(B) of section 3306 of title 41, or an evaluation factor, as described in subsection (b)(1) of such section, relating to supply chain risk.
 
-&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk.
+&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for acovered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk.
 
 &emsp;&emsp;(C) Any contract action involving a contract for a covered system or a covered item of supply if the contract includes a clause establishing requirements relating to supply chain risk.
 
@@ -98,17 +106,31 @@ In this section:
 
 &emsp;&emsp;(E) Items associated with the design and development of nonproliferation and counterproliferation programs and systems.
 
-#### (6) Supply chain risk
+#### (6) Special exclusion action
+
+&emsp;The term "special exclusion action" means an action to prohibit, for a period not to exceed two years, the award of any contracts or subcontracts by the Administration or any other component of the Department of Energy related to any covered system to a source the Secretary determines to represent a supply chain risk.
+
+#### (7) Supply chain risk
 
 &emsp;The term "supply chain risk" means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system or covered item of supply so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system or item of supply.
 
-#### (f) Termination
+#### (g) Termination
 
 The authority under this section shall terminate on June 30, 2023.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901; Pub. L. 115–232, div. C, title XXXI, §3117, Aug. 13, 2018, 132 Stat. 2292; Pub. L. 116–92, div. C, title XXXI, §3133, Dec. 20, 2019, 133 Stat. 1958.)
+(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901; Pub. L. 115–232, div. C, title XXXI, §3117, Aug. 13, 2018, 132 Stat. 2292; Pub. L. 116–92, div. C, title XXXI, §3133, Dec. 20, 2019, 133 Stat. 1958; Pub. L. 116–283, div. C, title XXXI, §3161, Jan. 1, 2021, 134 Stat. 4391.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §3161(1), inserted "or special exclusion action" after "covered procurement action" in pars. (1) and (2).
+
+Subsec. (c)(1). Pub. L. 116–283, §3161(1), inserted "or special exclusion action" after "covered procurement action" in two places.
+
+Subsecs. (e), (f). Pub. L. 116–283, §3161(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(6), (7). Pub. L. 116–283, §3161(4), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (g). Pub. L. 116–283, §3161(2), redesignated subsec. (f) as (g).
 
 <b>2019</b>—Subsecs. (e) to (g). Pub. L. 116–92 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to Comptroller General review and report to Congress.
 

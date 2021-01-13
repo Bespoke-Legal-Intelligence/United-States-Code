@@ -12,7 +12,7 @@ Not later than 1 year after December 18, 2015, the Secretary of Homeland Securit
 
 #### (1) In general
 
-&emsp;Using the results of the integration and analysis conducted under subsection (b), and any other relevant information, the Director of the National Institute of Standards and Technology shall, on an ongoing basis, facilitate and support the development of methods for reducing cybersecurity risks to emergency response providers using the process described in section 272(e) of title 15.
+&emsp;Using the results of the integration and analysis conducted under subsection (b), andany other relevant information, the Director of the National Institute of Standards and Technology shall, on an ongoing basis, facilitate and support the development of methods for reducing cybersecurity risks to emergency response providers using the process described in section 272(e) of title 15.
 
 #### (2) Report
 
@@ -32,9 +32,17 @@ Nothing in this section shall be construed to—
 
 (Pub. L. 114–113, div. N, title IV, §404, Dec. 18, 2015, 129 Stat. 2980; Pub. L. 115–278, §2(h)(1)(H), Nov. 16, 2018, 132 Stat. 4183.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–278, §2(h)(1)(H), substituted "section 659 of this title" for "section 148 of this title, as redesignated by section 223(a)(3) of this division," and "Assistant Director for Emergency Communications" for "Director for Emergency Communications".
 
 Subsec. (b). Pub. L. 115–278, §2(h)(1)(H)(ii), substituted "Assistant Director for Emergency Communications" for "Director for Emergency Communications".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

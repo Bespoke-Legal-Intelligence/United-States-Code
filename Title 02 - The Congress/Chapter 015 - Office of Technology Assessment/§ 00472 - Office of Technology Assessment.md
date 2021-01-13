@@ -6,7 +6,7 @@ In accordance with the findings and declaration of purpose in section 471 of thi
 
 #### (b) Composition
 
-The Office shall consist of a Technology Assessment Board (hereinafter referred to as the "Board") which shall formulate and promulgatethe policies of the Office, and a Director who shall carry out such policies and administer the operations of the Office.
+The Office shall consist of a Technology Assessment Board (hereinafter referred to as the "Board") which shall formulate and promulgate the policies of the Office, and a Director who shall carry out such policies and administer the operations of the Office.
 
 #### (c) Functions and duties
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the House of Representatives an office to be known as the "Office of Interparliamentary Affairs" (hereafter in this section referred to as the "Office").
+There is hereby established in the House of Representatives an office to be known as the"Office of Interparliamentary Affairs" (hereafter in this section referred to as the "Office").
 
 #### (b) Duties
 
@@ -53,6 +53,8 @@ There are authorized to be appropriated for fiscal year 2003 and each succeeding
 This section shall take effect on September 30, 2003.
 
 (Pub. L. 108–83, title I, §103, Sept. 30, 2003, 117 Stat. 1016.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

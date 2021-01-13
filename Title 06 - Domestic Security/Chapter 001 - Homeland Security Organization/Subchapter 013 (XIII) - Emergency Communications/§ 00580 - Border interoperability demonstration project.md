@@ -62,6 +62,8 @@ There is authorized to be appropriated for grants under this section such sums a
 
 (Pub. L. 107–296, title XVIII, §1810, as added Pub. L. 110–53, title III, §302(a), Aug. 3, 2007, 121 Stat. 300; amended Pub. L. 115–278, §2(g)(6)(D), Nov. 16, 2018, 132 Stat. 4180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–278, §2(g)(6)(D)(iii), substituted "Assistant Director" for "Director" wherever appearing.
@@ -69,4 +71,10 @@ There is authorized to be appropriated for grants under this section such sums a
 Subsec. (a)(1). Pub. L. 115–278, §2(g)(6)(D)(i), substituted "Assistant Director for Emergency Communications (referred to in this section as the 'Assistant Director')" for "Director of the Office of Emergency Communications (referred to in this section as the 'Director')".
 
 Subsec. (c). Pub. L. 115–278, §2(g)(6)(D)(ii), substituted "Emergency Communications Division" for "Office of Emergency Communications" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

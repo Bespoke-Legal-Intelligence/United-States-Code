@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 #### (c) Use of amounts
 
-An entity shall use amounts received under a grant awarded under this section to carry outthe purposes described in section 2702 of this title through activities such as—
+An entity shall use amounts received under a grant awarded under this section to carry out the purposes described in section 2702 of this title through activities such as—
 
 &emsp;(1) the provision of technical assistance to workers, worker organizations, employers, State economic development agencies, State industrial extension programs, Advanced Technology Centers, and National Manufacturing Technology Centers to identify advanced workplace practices and strategies that enhance the effective evaluation, selection, and implementation of advanced workplace technologies;
 

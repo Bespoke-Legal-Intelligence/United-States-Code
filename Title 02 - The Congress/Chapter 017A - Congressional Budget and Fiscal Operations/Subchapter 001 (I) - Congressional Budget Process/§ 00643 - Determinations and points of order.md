@@ -34,9 +34,11 @@ Each provision of this Act that establishes a point of order against an amendmen
 
 #### (f) Effect of point of order in Senate
 
-In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
+In the Senate, if a point of order under this Act against a bill or resolution is sustained, thePresiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
 
 (Pub. L. 93–344, title III, §312, as added Pub. L. 101–508, title XIII, §13207(b)(1), Nov. 5, 1990, 104 Stat. 1388–618; amended Pub. L. 105–33, title X, §10113(a), Aug. 5, 1997, 111 Stat. 687.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

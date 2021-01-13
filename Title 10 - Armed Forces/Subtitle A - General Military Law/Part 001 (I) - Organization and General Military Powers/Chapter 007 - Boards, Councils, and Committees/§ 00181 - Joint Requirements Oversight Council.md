@@ -42,6 +42,8 @@ In general.—The Joint Requirements Oversight Council is composed of the follow
 
 &emsp;&emsp;(E) A Marine Corps officer in the grade of general.
 
+&emsp;&emsp;(F) A Space Force officer in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy.
+
 &emsp;(2)
 
 Selection of members.—Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for selection by the Secretary of the military department concerned.
@@ -64,7 +66,7 @@ In general.—The following officials of the Department of Defense shall serve a
 
 &emsp;&emsp;(C) The Under Secretary of Defense for Acquisition and Sustainment.
 
-&emsp;&emsp;(D) the <sup>1</sup> Under Secretary of Defense for Research and Engineering.
+&emsp;&emsp;(D) The Under Secretary of Defense for Research and Engineering.
 
 &emsp;&emsp;(E) The Under Secretary of Defense (Comptroller).
 
@@ -82,6 +84,10 @@ Input from combatant commands.—The Council shall seek and consider input from 
 
 Input from chiefs of staff.—The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to a capability proposed by an armed force, Defense Agency, or other entity of the Department of Defense under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3).
 
+&emsp;(4)
+
+Input from vice chief of the national guard bureau.—The Council shall seek, and strongly consider, the views of the Vice Chief of the National Guard Bureau regarding non-Federalized National Guard capabilities in support of homeland defense and civil support missions.
+
 (e)
 
 Performance Requirements as Responsibility of Armed Forces.—The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.
@@ -92,7 +98,7 @@ Analytic Support.—The Secretary of Defense shall ensure that analytical organi
 
 (g)
 
-Availability of Oversight Information to Congressional Defense Committees.—The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman of the Joint Chiefs of Staff to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
+Availability of Oversight Information to Congressional Defense Committees.—The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman of the Joint Chiefs of Staff to the Secretary that isapproved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
 (h)
 
@@ -106,9 +112,25 @@ Definitions.—In this section:
 
 &emsp;(4) The term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
-(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, §902(7), title XVI, §1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733.)
+(Added Pub. L. 104–106, div. A, title IX, §905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, §908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, §942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, \[div. A\], title VIII, §813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§101(d)(1), 105(a), title II, §201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, §841, title X, §1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, §951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, §802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, §925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, §1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, §902(7), title XVI, §1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title IX, §§906, 924(b)(9), title XVIII, §§1850(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3799, 3822, 4271, 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1850(m), Jan. 1, 2021, 134 Stat. 4151, 4271, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b)(6) of this section is amended by striking "2433(e)(2)" and inserting "4375(b)". See 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(6). Pub. L. 116–283, §1883(b)(2), substituted "4251(b)" for "2366a(b)" and "4252(a)(4)" for "2366b(a)(4)".
+
+Pub. L. 116–283, §1850(m), substituted "4375(b)" for "2433(e)(2)".
+
+Subsec. (c)(1)(F). Pub. L. 116–283, §924(b)(9), added subpar. (F).
+
+Subsec. (d)(1)(D). Pub. L. 116–283, §906(b), substituted "The" for "the".
+
+Subsec. (d)(4). Pub. L. 116–283, §906(a), added par. (4).
 
 <b>2019</b>—Subsec. (d)(1)(B). Pub. L. 116–92, §1621(e)(1)(A)(v), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
@@ -140,7 +162,7 @@ Subsec. (c)(1)(F). Pub. L. 111–383, §841(b), added subpar. (F).
 
 Subsec. (c)(2). Pub. L. 111–383, §841(a)(2), substituted "under subparagraphs (B), (C), (D), and (E) of paragraph (1)" for ", other than the Chairman of the Joint Chiefs of Staff,".
 
-Subsec. (c)(3). Pub. L. 111–383, §841(a)(3), struck out par. (3) which read as follows: "The functions of the Chairman of the Joint Chiefs of Staff as chairman of the Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff."
+Subsec. (c)(3). Pub. L. 111–383, §841(a)(3), struck out par. (3) which read as follows: "The functions of the Chairman of the Joint Chiefs of Staff as chairman ofthe Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff."
 
 Subsec. (d)(1). Pub. L. 111–383, §841(c)(1), substituted "The following officials of the Department of Defense shall serve as advisors to the Council on matters within their authority and expertise:" for "The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of Cost Assessment and Program Evaluation shall serve as advisors to the Council on matters within their authority and expertise." and added subpars. (A) to (F).
 
@@ -175,6 +197,10 @@ Subsec. (g). Pub. L. 110–181, §942(d), added subsec. (g).
 <b>1999</b>—Subsec. (d)(2)(B)(ii). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201 added subsec. (d).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1850(m) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
@@ -216,7 +242,5 @@ Pub. L. 110–181, div. A, title IX, §942(f), Jan. 28, 2008, 122 Stat. 288, pro
 
 #### Reports on Joint Requirements Oversight Council Reform Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, directed the Chairman of the Joints Chiefs of Staff tosubmit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
 

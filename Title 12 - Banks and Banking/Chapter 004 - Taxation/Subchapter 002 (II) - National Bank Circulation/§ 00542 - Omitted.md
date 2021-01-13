@@ -1,5 +1,7 @@
 ### §542. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Mar. 14, 1900, ch. 41, §13, 31 Stat. 49, related to tax on circulating notes secured by 2 per centum bonds.

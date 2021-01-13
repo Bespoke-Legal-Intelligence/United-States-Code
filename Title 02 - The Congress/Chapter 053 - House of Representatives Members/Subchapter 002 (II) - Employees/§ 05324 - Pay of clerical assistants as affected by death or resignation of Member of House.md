@@ -2,7 +2,9 @@
 
 Notwithstanding the provisions of section 5323 of this title, in case of the death or resignation of a Member of the House during his term of office, the clerical assistants designated by him and borne upon the clerk hire pay rolls of the House of Representatives on the date of such death or resignation shall be continued upon such pay rolls at their respective salaries until the successor to such Member of the House is elected to fill the vacancy.
 
-(Aug. 21, 1935, ch. 600, §1, 49 Stat. 679; Apr. 24, 1950, ch. 96, 64 Stat. 82; July 15, 1952, ch. 759, §1,66 Stat. 662; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.)
+(Aug. 21, 1935, ch. 600, §1, 49 Stat. 679; Apr. 24, 1950, ch. 96, 64 Stat. 82; July 15, 1952, ch. 759, §1, 66 Stat. 662; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 657.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -15,6 +17,8 @@ Section was formerly classified to section 92b of this title prior to editorial 
 <b>1952</b>—Joint Res. July 15, 1952, provided retirement credit to employees for time they were separated from employment following death or resignation of a Member and before election of his successor.
 
 <b>1950</b>—Joint Res. Apr. 24, 1950, struck out second sentence which limited continuance of clerical assistants of deceased or resigned House Members on pay roll to six months.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

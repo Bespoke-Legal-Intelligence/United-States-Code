@@ -42,11 +42,11 @@
 
 #### (A) Tuition remission rates
 
-&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health CareWorkforce Commission, shall establish Federal tuition remission rates to be used by the Track to provide reimbursement to affiliated and other participating health professions institutions for the cost of educational services provided by such institutions to Track students. The agreement entered into by such participating institutions under paragraph (1)(A)(i) shall contain an agreement to accept as payment in full the established remission rate under this subparagraph.
+&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health Care Workforce Commission, shall establish Federal tuition remission rates to be used by the Track to provide reimbursement to affiliated and other participating health professions institutions for the cost of educational services provided by such institutions to Track students. The agreement entered into by such participating institutions under paragraph (1)(A)(i) shall contain an agreement to accept as payment in full the established remission rate under this subparagraph.
 
 #### (B) Stipend
 
-&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health Care Workforce Commission, shall establish and update Federal stipend rates for payment to students under this part.
+&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health Care Workforce Commission, shall establish andupdate Federal stipend rates for payment to students under this part.
 
 #### (3) Reductions in the period of obligated service
 

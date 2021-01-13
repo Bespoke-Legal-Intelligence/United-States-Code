@@ -18,6 +18,8 @@ For the purpose of determining—
 
 (Pub. L. 96–70, title I, §1218, Sept. 27, 1979, 93 Stat. 466; Pub. L. 104–201, div. C, title XXXV, §3534, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3523(c)(2), Nov. 18, 1997, 111 Stat. 2065.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.
@@ -27,6 +29,8 @@ Section 3657(a) of this title, referred to in text, was repealed by Pub. L. 105�
 <b>1997</b>—Pub. L. 105–85, in concluding provisions, substituted "section 3642" for "section 3655" and "section 3657(a)" for "section 3657".
 
 <b>1996</b>—Par. (2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "benefits under subchapter III of chapter 83 of title 5, relating to civil service retirement;".
+
+#### <b>Executive Documents</b>
 
 #### Coordination of Pay and Employment Practices
 

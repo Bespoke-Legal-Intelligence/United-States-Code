@@ -50,6 +50,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
@@ -57,6 +59,242 @@
 <b>2004</b>—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted "Constitution Day and" before "Citizenship Day" in item 106.
 
 <b>2001</b>—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Route 66 Centennial Commission
+
+Pub. L. 116–256, Dec. 23, 2020, 134 Stat. 1142, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Route 66 Centennial Commission Act'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds that—
+
+&emsp;"(1) Route 66 was the first all-weather highway in the United States connecting the Midwest to California, and has played a major role in the history of the United States;
+
+&emsp;"(2) Route 66 has become a symbol of the heritage of travel and the legacy of seeking a better life shared by the people of the United States, and has been enshrined in the popular culture of the United States; and
+
+&emsp;"(3) the year 2026 will be the centennial anniversary of Route 66, and a commission should be established to study and recommend in a report to Congress activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors the Mother Road of the United States.
+
+#### "SEC. 3. ESTABLISHMENT.
+
+"There is established a commission to be known as the 'Route 66 Centennial Commission' (referred to in this Act as the 'Commission').
+
+#### "SEC. 4. DUTIES.
+
+"The Commission shall—
+
+&emsp;"(1) study activities that may be carried out by the Federal Government to determine whether the activities are fitting and proper to honor Route 66 on the occasion of the centennial anniversary of Route 66, including activities such as—
+
+&emsp;&emsp;"(A) the issuance of commemorative coins, medals, certificates of recognition, and postage stamps;
+
+&emsp;&emsp;"(B) ceremonies and celebrations commemorating specific events; and
+
+&emsp;&emsp;"(C) the production, publication, and distribution of books, pamphlets, films, electronic publications, and other educational materials; and
+
+&emsp;"(2) recommend to Congress—
+
+&emsp;&emsp;"(A) the activities that the Commission considers most fitting and proper to honor Route 66 on the occasion described in paragraph (1); and
+
+&emsp;&emsp;"(B) 1 or more entities in the Federal Government that the Commission considers most appropriate to carry out those activities.
+
+#### "SEC. 5. MEMBERSHIP.
+
+"(a)
+
+Number and Appointment.—The Commission shall be composed of 15 members appointed as follows:
+
+&emsp;"(1) 3 members, each of whom shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Secretary of Transportation.
+
+&emsp;"(2) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Illinois.
+
+&emsp;"(3) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Missouri.
+
+&emsp;"(4) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Kansas.
+
+&emsp;"(5) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Oklahoma.
+
+&emsp;"(6) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Texas.
+
+&emsp;"(7) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of New Mexico.
+
+&emsp;"(8) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of Arizona.
+
+&emsp;"(9) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Governor of California.
+
+&emsp;"(10) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Speaker of the House of Representatives.
+
+&emsp;"(11) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Minority Leader of the House of Representatives.
+
+&emsp;"(12) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Majority Leader of the Senate.
+
+&emsp;"(13) 1 member, who shall be an eligible individual described in subsection (b), appointed by the President based on the recommendation of the Minority Leader of the Senate.
+
+"(b)
+
+Eligible Individual.—An eligible individual referred to in subsection (a) is an individual with—
+
+&emsp;"(1) a demonstrated dedication to educating others about the importance of historical figures and events; and
+
+&emsp;"(2) substantial knowledge and appreciation of Route 66.
+
+"(c)
+
+Time of Appointment.—Each initial appointment of a member of the Commission shall be made before the expiration of the 120-day period beginning on the date of enactment of this Act \[Dec. 23, 2020\].
+
+"(d)
+
+Terms.—Each member shall be appointed for the life of the Commission.
+
+"(e)
+
+Vacancies.—A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
+
+"(f)
+
+Basic Pay.—Members shall serve on the Commission without pay.
+
+"(g)
+
+Travel Expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+"(h)
+
+Quorum.—7 members of the Commission shall constitute a quorum, but a lesser number may hold hearings.
+
+"(i)
+
+Chair and Vice Chair.—The Commission shall select a Chair and Vice Chair from among the members of the Commission.
+
+"(j)
+
+Meetings.—The Commission shall meet at the call of the Chair.
+
+#### "SEC. 6. DIRECTOR AND STAFF.
+
+"(a)
+
+Director.—The Commission may appoint and fix the pay of a Director and such additional personnel as the Commission considers to be appropriate.
+
+"(b)
+
+Applicability of Certain Civil Service Laws.—
+
+&emsp;"(1)
+
+Director.—The Director of the Commission shall—
+
+&emsp;&emsp;"(A) be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service; and
+
+&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates, except that the rate of pay for the Director may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of that title.
+
+&emsp;"(2)
+
+Staff.—The staff of the Commission shall—
+
+&emsp;&emsp;"(A) be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service; and
+
+&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates.
+
+"(c)
+
+Source of Compensation.—In accordance with section 10—
+
+&emsp;"(1) no Federal funds may be expended to compensate a Director or staff member of the Commission under this section; and
+
+&emsp;"(2) any compensation paid to a Director or any staff of the Commission appointed under this section shall be derived solely from donated funds.
+
+#### "SEC. 7. POWERS.
+
+"(a)
+
+Hearings and Sessions.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate to carry out this Act.
+
+"(b)
+
+Powers of Members and Agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take under this Act.
+
+"(c)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other Federal departments and agencies.
+
+"(d)
+
+Administrative Support Services.—
+
+&emsp;"(1)
+
+In general.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out this Act.
+
+&emsp;"(2)
+
+Detailees.—
+
+&emsp;&emsp;"(A)
+
+Federal employees.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—At the request of the Commission, the head of any Federal agency or department may detail to the Commission, on a reimbursable or nonreimbursable basis, any employee of the agency or department.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Civil service status.—The detail of an employee under clause (i) shall be without interruption or loss of civil service status or privilege.
+
+&emsp;&emsp;&emsp;"(iii)
+
+No additional compensation.—A Federal employee who is detailed to the Commission under this subparagraph may not receive any additional pay, allowances, benefits, or other compensation by reason of the detail of the employee to the Commission or any services performed by the employee for the Commission.
+
+&emsp;&emsp;"(B)
+
+State employees.—The Commission may—
+
+&emsp;&emsp;&emsp;"(i) accept the services of personnel detailed from a State; and
+
+&emsp;&emsp;&emsp;"(ii) reimburse the State for the services of the detailed personnel.
+
+"(e)
+
+Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use such voluntary and uncompensated services as the Commission determines to be necessary.
+
+"(f)
+
+Gifts.—The Commission may accept, use, and dispose of gifts, grants, bequests, or devises of money, services, or property from any public or private source for the purpose of covering the costs incurred by the Commission in carrying out this Act.
+
+#### "SEC. 8. REPORTS.
+
+"(a)
+
+Interim Reports.—The Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
+
+"(b)
+
+Final Report.—Not later than 2 years after the date on which all members of the Commission are appointed, the Commission shall submit to Congress a final report containing—
+
+&emsp;"(1) a detailed statement of the findings and conclusions of the Commission;
+
+&emsp;"(2) the recommendations of the Commission; and
+
+&emsp;"(3) any other information that the Commission considers to be appropriate.
+
+#### "SEC. 9. TERMINATION.
+
+"The Commission shall terminate on December 31, 2026.
+
+#### "SEC. 10. EXPENDITURES OF COMMISSION.
+
+"(a)
+
+In General.—All expenditures of the Commission, including any reimbursement required under this Act, shall be made solely from donated funds.
+
+"(b)
+
+No Additional Funds Authorized.—No additional funds are authorized to be appropriated to carry out this Act."
 
 #### American World War II Heritage Cities
 
@@ -70,7 +308,7 @@ Designation.—In order to recognize and ensure the continued preservation and i
 
 Application for Designation.—The Secretary may—
 
-&emsp;"(1) establish and publicize the process by which a city may apply for designation as an American WorldWar II Heritage City based on the criteria in subsection (c); and
+&emsp;"(1) establish and publicize the process by which a city may apply for designation as an American World War II Heritage City based on the criteria in subsection (c); and
 
 &emsp;"(2) encourage cities to apply for designation as an American World War II Heritage City.
 
@@ -196,7 +434,7 @@ Acceptance of Voluntary Services.—
 
 &emsp;"(1)
 
-Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any personvoluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
+Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program. The Secretary of Defense shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
 
 &emsp;"(2)
 
@@ -242,7 +480,7 @@ Fund.—The Fund shall terminate 60 days after the termination of the commemorat
 
 #### 400 Years of African-American History Commission
 
-Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692, provided that:
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692; Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1484, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -356,7 +594,7 @@ Duties.—The Commission shall—
 
 "(a)
 
-Initial Meeting.—Not later than 30 days after the date on which all members of the Commission havebeen appointed, the Commission shall hold the initial meeting of the Commission.
+Initial Meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold the initial meeting of the Commission.
 
 "(b)
 
@@ -524,7 +762,7 @@ Strategic Plan.—The Commission shall prepare a strategic plan for the activiti
 
 "(b)
 
-Final Report.—Not later than July 1, 2021, the Commission shall complete and submit to Congress a final report that contains—
+Final Report.—Not later than July 1, 2022, the Commission shall complete and submit to Congress a final report that contains—
 
 &emsp;"(1) a summary of the activities of the Commission;
 
@@ -536,7 +774,7 @@ Final Report.—Not later than July 1, 2021, the Commission shall complete and s
 
 "(a)
 
-Date of Termination.—The Commission shall terminate on July 1, 2021.
+Date of Termination.—The Commission shall terminate on July 1, 2022.
 
 "(b)
 
@@ -630,7 +868,7 @@ Time of Appointment.—Each initial appointment of a member of the Commission sh
 
 "(d)
 
-Continuation of Membership.—If a member of the Commission was appointed to the Commission as aMember of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
 
 "(e)
 
@@ -676,7 +914,7 @@ Director.—The Director of the Commission may be appointed without regard to th
 
 &emsp;"(2)
 
-Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with theprovisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
 
 #### "SEC. 7. POWERS.
 
@@ -922,7 +1160,7 @@ Postal Services.—The Centennial Commission may use the United States mails in 
 
 "(g)
 
-Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, anddispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
 
 "(h)
 
@@ -1092,7 +1330,7 @@ Reimbursement of incidental expenses.—The Secretary may provide for reimbursem
 
 "(g)
 
-Final Report.—Not later than 60 days after the end of the commemorative program, if established by the Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of the following:
+Final Report.—Not later than 60 days after the end of the commemorative program, if established bythe Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of the following:
 
 &emsp;"(1) All of the funds deposited into and expended from the Tomb of the Unknown Soldier Commemoration Fund.
 
@@ -1260,7 +1498,7 @@ Final Report.—Not later than August 31, 2017, the Commission shall submit a fi
 
 #### United States Semiquincentennial Commission
 
-Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
+Pub. L. 114–196, July 22, 2016, 130 Stat. 685, as amended by Pub. L. 116–282, §2, Dec. 31, 2020, 134 Stat. 3386, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -1352,7 +1590,15 @@ Composition.—The Commission shall be composed of the following members:
 
 &emsp;&emsp;"(H) The Archivist of the United States.
 
-&emsp;&emsp;"(I) The presiding officer of the Federal Council on the Arts and the Humanities.
+&emsp;&emsp;"(I) The Chairperson of the National Endowment for the Arts.
+
+&emsp;&emsp;"(J) The Chairperson of the National Endowment for the Humanities.
+
+&emsp;&emsp;"(K) The Director of the Institute of Museum and Library Services.
+
+&emsp;&emsp;"(L)(i) The Chief Justice of the United States; or
+
+&emsp;&emsp;"(ii) an Associate Justice or former Associate Justice appointed by the Chief Justice of the United States.
 
 "(c)
 
@@ -1370,9 +1616,21 @@ Vacancies.—A vacancy on the Commission—
 
 &emsp;&emsp;"(B) shall be filled in the same manner as the original appointment was made.
 
+&emsp;"(3)
+
+Removal of members who are private citizens.—Following notice and approval of the relevant appointing authority, on an affirmative vote of not less than 2/3 of the members of the Commission, the Commission may remove a member of the Commission appointed under subsection (b)(3).
+
 "(d)
 
-Meetings.—All meetings of the Commission shall be convened at Independence Hall in Philadelphia, Pennsylvania, to honor the historical significance of the building as the site of deliberations and adoption of both the United States Declaration of Independence and Constitution.
+Meetings.—
+
+&emsp;"(1)
+
+Location of first meeting.—The first meeting of the Commission shall be convened at Independence Hall in Philadelphia, Pennsylvania, to honor the historical significance of the building as the site of deliberations and adoption of both the United States Declaration of Independence and Constitution.
+
+&emsp;"(2)
+
+Location of subsequent meetings.—At least 1 meeting of the Commission each year shall be held in Philadelphia, Pennsylvania.
 
 "(e)
 
@@ -1432,7 +1690,7 @@ Report Submitted to the President.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[July 22, 2016\], the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
+In general.—Not later than March 31, 2020, the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
 
 &emsp;"(2)
 
@@ -1512,7 +1770,7 @@ Arts and humanities.—
 
 &emsp;&emsp;"(A)
 
-In general.—The presiding officer of the Federal Council on the Arts and the Humanities, the Chairperson of the National Endowment for the Arts, and the Chairperson of the National Endowment for the Humanities shall cooperate with theCommission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
+In general.—The Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, and the Director of the Institute of Museum and Library Services shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
 
 &emsp;&emsp;"(B)
 
@@ -1536,7 +1794,7 @@ Submission of recommendations.—Each of the officers described in this paragrap
 
 &emsp;"(4)
 
-Department of state.—The Secretary of State shall coordinate the participation of foreign nations in the celebration of the United States Semiquincentennial, including by soliciting the erection of monuments and other cultural cooperations in founding cities of the United States so as—
+Department of state.—The Secretary of State shall coordinate the participation of foreign nations in the celebration of the United States Semiquincentennial, including by soliciting the erection of monuments and other cultural cooperations in founding and other cities of the United States so as—
 
 &emsp;&emsp;"(A) to celebrate the shared heritage of the United States with the many peoples and nations of the world; and
 
@@ -1662,7 +1920,7 @@ Advisory Committees.—The Commission may appoint such advisory committees as th
 
 "(a)
 
-In General.—All expenditures of the Commission shall be made solely from donated funds.
+In General.—All expenditures of the Commission shall be made from donations, earned income, and any funds made available to carry out this Act under subsection (f).
 
 "(b)
 
@@ -1698,7 +1956,15 @@ No promulgation by commission.—The Commission shall not be required to prescri
 
 "(d)
 
-Annual Report.—Once each year during the period beginning on the date of enactment of this Act \[July 22, 2016\] and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
+Annual Report.—Annually during the period beginning 1 year after the Commission submits the report to the President under section 5(c)(1) and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
+
+"(e)
+
+Intellectual Property Protections.—The Commission shall have the exclusive right to use, and to allow others to use, the official marks, imprimaturs, and logos of the Commission.
+
+"(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this Act.
 
 #### "SEC. 10. TERMINATION OF COMMISSION.
 
@@ -2250,7 +2516,7 @@ Final Report.—Not later than November 30, 2011, the Commission shall submit a 
 
 #### "SEC. 9. ANNUAL AUDIT.
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shallmake the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
 
@@ -2342,35 +2608,39 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat.185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9892. Armed Forces Day
+#### <b>Executive Documents</b>
 
-Proc. No. 9892, May 17, 2019, 84 F.R. 23701, provided:
+#### Proc. No. 10034. Armed Forces Day
 
-From Normandy and Iwo Jima through Operations Desert Storm and Inherent Resolve, our Nation's Armed Forces have consistently made us proud by defeating our enemies and defending the freedoms we cherish. Their bravery, love of country, and devotion to duty are unmatched, and we are eternally grateful for the sacrifices they make for all American citizens. On Armed Forces Day, we honor all of the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who make up the finest military in the world.
+Proc. No. 10034, May 15, 2020, 85 F.R. 30585, provided:
 
-Every day, tens of thousands of American troops risk their lives and sacrifice time with their families and friends to protect our national security and keep us safe. Through their strength and dedication to our country, they protect our freedoms, interests, and way of life at duty stations all around the world. We thank them for their incredible service, and we recognize that our Nation has a sacred obligation to ensure that our Armed Forces remain ready and fully equipped to face any threat.
+In times of war and peace alike, on land, at sea, in the skies, in cyberspace, and beyond the Earth's atmosphere, the men and women of our Nation's Armed Forces serve with honor and distinction and stand ready to selflessly defend our Nation. On Armed Forces Day, we pay tribute to these patriots, whose work enables our country to shine always as a beacon of freedom and hope for the world.
 
-As President, I am committed to empowering America's warriors with every advantage they need to fulfill their missions. During the last 2 years, our Armed Forces have had one victory after another against ISIS, culminating in March with the liberation of 100 percent of the territory once held by ISIS in Syria and Iraq. We are encouraged by this tremendous success, and it is important that our military remains the strongest in the world. This is one of my Administration's highest priorities, and I have called on the Congress to increase funding for our national defense by $34 billion over last year's level. These additional resources are vital to enhancing our capabilities at sea, on the ground, in the air, and in space and guaranteeing that America's military never falls behind.
+Throughout our Nation's history, our Armed Forces have protected our country, our liberty, and our founding principles. Earlier this month, we marked the 75th anniversary of Victory in Europe Day, when United States and Allied forces liberated Europe and North Africa from tyranny and oppression. The courageous actions of these heroes will stand always as monuments to the very best of our Nation. Today, many of our service members have been called into action on the home front to aid in our fight against a new type of enemy—the coronavirus. Our Guardsmen, engineers, logisticians, and medical service members have provided critical lifesaving treatment, protective equipment, facilities, and other vital services and provisions quickly and efficiently to those in need. In March, I was honored as Commander in Chief to salute those aboard the USNS Comfort as these heroes set sail from the shores of Norfolk, Virginia, to bring aid and comfort to people in need of care in New York, New Jersey, and Connecticut. As they have shown throughout this crisis, working to ease the burdens on healthcare workers and first responders, our Armed Forces can adapt to any challenge and succeed in any mission.
 
-I also continue to advocate for our service members to receive increased support, which they deserve for bearing the burden of defending our freedoms. Last year, I signed into law the largest pay raise for our troops in 9 years, and, for 2020, I have called on the Congress to provide a 3.1 percent pay raise. This 3.1 percent raise would be the largest pay raise for our troops in 10 years and would further demonstrate our Nation's gratitude to the more than 2.1 million active duty and reserve military men and women.
+My Administration will always remain committed to ensuring our Nation has the strongest and most advanced military in the world. We owe it to our warriors to ensure that we provide them with the necessary training and equipment to meet current and future challenges. Since I took office, we have invested a historic $2.2 trillion in the United States military, purchasing the finest American-made planes, missiles, rockets, ships, and other pieces of military equipment. Additionally, last year, I was proud to sign into law legislation that provided a 3.1 percent pay raise for our troops—the largest pay raise for our military men and women in a decade—in recognition of their unparalleled duty, honor, courage, and commitment.
 
-Our courageous and vigilant Armed Forces safeguard the blessings of liberty for us and for future generations by selflessly answering the call of duty. Today, and every day, we acknowledge and celebrate all who proudly wear our Nation's uniforms and the family members who face unique challenges as they tirelessly support them.
+This year, we also celebrate the historic creation of the United States Space Force, the first new military branch since the establishment of the United States Air Force more than 70 years ago. We recognize that to combat the evolving threats of a 21st-century world, we must look to the newest warfighting domain and address malign activities in space. America's leadership in space is unparalleled, and with the addition of the United States Space Force, we are now even better positioned to meet the evolving threats in this emerging frontier of technology, exploration, and discovery. Approximately 16,000 military and civilian personnel have already been assigned to the Space Force, embarking on their mission to organize, train, and equip these new fighters responsible for protecting the United States and allied interests in the vast domain of space.
+
+Today, and every day, we reaffirm our unwavering support for the millions of American patriots who fill the ranks of our Armed Forces. We are eternally grateful for every Soldier, Sailor, Airman, Marine, Coast Guardsman, and member of the Space Force, and we deeply appreciate the sacrifices their families and loved ones make on our behalf. As one Nation, we pledge to always honor this service and this devotion given to our great country.
 
 NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
+I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9753 of May 18, 2018, is hereby superseded.
+Proclamation 9892 of May 17, 2019, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand nineteen, and of the Independence of the United States of America the two hundred and forty-third.
+IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of May, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fourth.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9892, May 17, 2019, 84 F.R. 23701, superseded by Proc. No. 10034, May 15, 2020, 85 F.R. 30586.
 
 Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23702.
 
@@ -2418,7 +2688,7 @@ Proc. No. 3172, Mar. 6, 1957, 22 F.R. 1427, superseded by Proc. No. 3399, Mar. 2
 
 Proc. No. 8455, Nov. 20, 2009, 74 F.R. 61261, provided:
 
-Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, andthey are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
+Our Nation's farm and ranch families supply many of the basic necessities of our daily life. They manage a large portion of our country's fertile land base, and they are caretakers of our valuable natural resources and diverse ecosystems. Their connections with urban and suburban communities are critical to our economy and to the nourishment of our people. During National Farm-City Week, we express gratitude for the contributions of our Nation's farmers and ranchers, and we rededicate ourselves to providing all Americans with access to healthy food, and thus, a healthy future.
 
 Pioneered by Native Americans, agriculture was our Nation's first industry. For agriculture to thrive in the 21st century, we must continue to cultivate the relationships between farmers and rural businesses and their partners and customers in cities and towns. American farmers and ranchers are proud to grow the food, feed, fuel, and fiber that enhance our national security and prosperity, and remain steadfast stewards of the land they love. We must ensure that farming is maintained as an economically, socially, and environmentally sustainable way of life for future generations.
 

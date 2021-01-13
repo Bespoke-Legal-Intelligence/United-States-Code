@@ -50,7 +50,7 @@ Gross income shall not include any amount received as payment under section 406 
 
 #### (2) Qualified disaster mitigation payment defined
 
-&emsp;For purposes of this section, the term "qualified disaster mitigation payment" means any amount which is paid pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
+&emsp;For purposes of this section, the term "qualified disaster mitigation payment" means any amount which is paid pursuant tothe Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
 
 #### (3) No increase in basis
 

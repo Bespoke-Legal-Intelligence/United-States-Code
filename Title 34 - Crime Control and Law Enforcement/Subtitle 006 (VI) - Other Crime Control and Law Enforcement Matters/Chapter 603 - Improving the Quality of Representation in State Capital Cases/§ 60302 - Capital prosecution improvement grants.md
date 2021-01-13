@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall award grants to States for the purpose of enhancing the abilityof prosecutors to effectively represent the public in State capital cases.
+The Attorney General shall award grants to States for the purpose of enhancing the ability of prosecutors to effectively represent the public in State capital cases.
 
 #### (b) Use of funds
 
@@ -27,6 +27,8 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 &emsp;Grants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
 
 (Pub. L. 108–405, title IV, §422, Oct. 30, 2004, 118 Stat. 2288.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -32,6 +32,8 @@
 
 (Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1219; amended Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 103–89, §3(b)(1)(K), Sept. 30, 1993, 107 Stat. 982.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5362, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, Pub. L. 95–251, §2(a)(1), (b)(1), Mar. 27, 1978, 92 Stat. 183, which related to hearing examiners, was renumbered section 5372 of this title by Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
@@ -41,6 +43,8 @@ A prior section 5362, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, Pub. L. 95�
 <b>1993</b>—Subsec. (c). Pub. L. 103–89 substituted "chapter 55 of this title, retirement and life insurance under chapters 83, 84, and 87" for "chapters 54 and 55 of this title, retirement and life insurance under chapters 83 and 87" in introductory provisions, redesignated par. (4) as (3), and struck out former par. (3) which read as follows: "for purposes of determining whether the employee is covered by the performance management and recognition system established under chapter 54 of this title, or".
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–615 substituted "performance management and recognition system established under chapter 54" for "merit pay system established under section 5402".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

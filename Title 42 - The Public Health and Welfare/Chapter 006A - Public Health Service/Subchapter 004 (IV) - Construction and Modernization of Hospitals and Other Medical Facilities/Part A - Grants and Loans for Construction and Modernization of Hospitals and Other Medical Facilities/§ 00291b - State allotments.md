@@ -82,7 +82,7 @@ A prior section 291n–1, act July 1, 1944, ch. 373, title VI, §637, formerly �
 
 A prior section 291r, act July 1, 1944, ch. 373, title VI, §648, as added July 12, 1954, ch. 471, §2, 68 Stat. 462, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291t, act July 1, 1944, ch. 373, title VI, §652, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Oct. 5, 1961, Pub. L. 87–395, §3(b), 75 Stat. 825; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291t, act July 1, 1944, ch. 373, title VI, §652, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Oct. 5, 1961, Pub. L. 87–395, §3(b), 75 Stat. 825; Sept. 25, 1962,Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291v(b), act July 1, 1944, ch. 373, title VI, §654, as added July 12, 1954, ch. 471, §3, 68 Stat. 463, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 

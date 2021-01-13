@@ -9,7 +9,7 @@
 | [3605\.](%C2%A7%2003605%20-%20Application%20with%20other%20laws.md) | Application with other laws. |
 | [3606\.](%C2%A7%2003606%20-%20Report%20to%20Congress.md) | Report to Congress. |
 | [3607\.](%C2%A7%2003607%20-%20Public-private%20use%20policy.md) | Public-private use policy. |
-| [3608\.](%C2%A7%2003608%20-%20Independent%20cost%20estimate.md) | Independent cost estimate. |
+| [3608\.](%C2%A7%2003608%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93271%2C%20title%20I%2C%20%C2%A7107%28a%29%2C%20Dec.%2031%2C%202020%2C%20134%20Stat.%203341.md) | Repealed. |
 | [3609\.](%C2%A7%2003609%20-%20Intent%20of%20Congress.md) | Intent of Congress. |
 | [3610\.](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [3611\.](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md) | Assessing and modeling named storms over coastal States. |
@@ -28,7 +28,7 @@
 - [&sect; 03605 - Application with other laws](%C2%A7%2003605%20-%20Application%20with%20other%20laws.md)
 - [&sect; 03606 - Report to Congress](%C2%A7%2003606%20-%20Report%20to%20Congress.md)
 - [&sect; 03607 - Public-private use policy](%C2%A7%2003607%20-%20Public-private%20use%20policy.md)
-- [&sect; 03608 - Independent cost estimate](%C2%A7%2003608%20-%20Independent%20cost%20estimate.md)
+- [&sect; 03608 - Repealed. Pub. L. 116&#8211;271, title I, &sect;107(a), Dec. 31, 2020, 134 Stat. 3341](%C2%A7%2003608%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93271%2C%20title%20I%2C%20%C2%A7107%28a%29%2C%20Dec.%2031%2C%202020%2C%20134%20Stat.%203341.md)
 - [&sect; 03609 - Intent of Congress](%C2%A7%2003609%20-%20Intent%20of%20Congress.md)
 - [&sect; 03610 - Authorization of appropriations](%C2%A7%2003610%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03611 - Assessing and modeling named storms over coastal States](%C2%A7%2003611%20-%20Assessing%20and%20modeling%20named%20storms%20over%20coastal%20States.md)

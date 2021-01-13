@@ -22,6 +22,8 @@ For each plan year for which section 1321 of this title applies to a plan, the p
 
 (Pub. L. 93–406, title IV, §4065, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 96–364, title I, §106, Sept. 26, 1980, 94 Stat. 1266.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1343(b) of this title, referred to in par. (2), was redesignated section 1343(c) of this title and a new section 1343(b) was added by Pub. L. 103–465, title VII, §771(b), Dec. 8, 1994, 108 Stat. 5042.
@@ -29,6 +31,8 @@ Section 1343(b) of this title, referred to in par. (2), was redesignated section
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–364 inserted provisions in par. (2) respecting waiver by corporation and added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

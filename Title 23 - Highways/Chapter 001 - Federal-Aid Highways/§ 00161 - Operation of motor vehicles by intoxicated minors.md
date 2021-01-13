@@ -14,7 +14,7 @@ Fiscal year 2012 and thereafter.—The Secretary shall withhold an amount equal 
 
 &emsp;(3)
 
-Requirement.—A State meets the requirement of this paragraph if the State hasenacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
+Requirement.—A State meets the requirement of this paragraph if the State has enacted and is enforcing a law that considers an individual under the age of 21 who has a blood alcohol concentration of 0.02 percent or greater while operating a motor vehicle in the State to be driving while intoxicated or driving under the influence of alcohol.
 
 (b)
 
@@ -46,6 +46,8 @@ Effect of noncompliance.—If, at the end of the period for which funds withheld
 
 (Added Pub. L. 104–59, title III, §320(a), Nov. 28, 1995, 109 Stat. 589; amended Pub. L. 105–178, title I, §1103(l)(3)(F), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §1404(h), July 6, 2012, 126 Stat. 559.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104, referred to in subsec. (a)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
@@ -59,6 +61,8 @@ Prior to fiscal year 2012" for "
 Thereafter" in par. heading, inserted "through fiscal year 2011" after "each fiscal year thereafter" in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "The Secretary shall withhold 5 percent of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1998, if the State does not meet the requirement of paragraph (3) on that date."
 
 <b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–178 substituted "paragraphs (1), (3), and (4) of section 104(b)" for "paragraphs (1), (3), and (5)(B) of section 104(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

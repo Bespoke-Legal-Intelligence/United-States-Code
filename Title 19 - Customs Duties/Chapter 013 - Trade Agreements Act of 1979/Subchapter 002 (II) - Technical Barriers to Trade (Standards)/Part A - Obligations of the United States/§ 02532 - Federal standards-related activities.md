@@ -52,7 +52,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (4) Access for foreign suppliers
 
-&emsp;Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
+&emsp;Each Federal agency shall, with respect to any conformity assessment procedure used byit, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
 
 (Pub. L. 96–39, title IV, §402, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, §351(c), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, §20(c)(14), Oct. 11, 1996, 110 Stat. 3529.)
 

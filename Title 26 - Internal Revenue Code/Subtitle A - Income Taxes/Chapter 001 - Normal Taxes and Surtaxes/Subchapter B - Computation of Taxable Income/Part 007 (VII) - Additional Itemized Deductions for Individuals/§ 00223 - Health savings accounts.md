@@ -123,7 +123,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) coverage for any benefit provided by permitted insurance,
 
-&emsp;&emsp;&emsp;(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, or long-term care, and
+&emsp;&emsp;&emsp;(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care, and
 
 &emsp;&emsp;&emsp;(iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -134,6 +134,10 @@ For purposes of this section—
 #### (C) Special rule for individuals eligible for certain veterans benefits
 
 &emsp;&emsp;An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives hospital care or medical services under any law administered by the Secretary of Veterans Affairs for a service-connected disability (within the meaning of section 101(16) of title 38, United States Code).
+
+#### (D) Special rule for individuals receiving benefits subject to surprise billing statutes
+
+&emsp;&emsp;An individual shall not fail to be treated as an eligible individual for any period merely because the individual receives benefits for medical care subject to and in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to such individual.
 
 #### (2) High deductible health plan
 
@@ -159,7 +163,7 @@ For purposes of this section—
 
 #### (C) Safe harbor for absence of preventive care deductible
 
-&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (withinthe meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
 
 #### (D) Special rules for network plans
 
@@ -172,6 +176,14 @@ For purposes of this section—
 #### (ii) Annual deductible
 
 &emsp;&emsp;&emsp;Such plan's annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
+
+#### (E) Safe harbor for absence of deductible for telehealth
+
+&emsp;&emsp;In the case of plan years beginning on or before December 31, 2021, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+
+#### (F) Special rule for surprise billing
+
+&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
 
 #### (3) Permitted insurance
 
@@ -229,7 +241,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -246,6 +258,10 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(iii) a health plan during a period in which the individual is receiving unemployment compensation under any Federal or State law, or
 
 &emsp;&emsp;&emsp;(iv) in the case of an account beneficiary who has attained the age specified in section 1811 of the Social Security Act, any health insurance other than a medicare supplemental policy (as defined in section 1882 of the Social Security Act).
+
+#### (D) Menstrual care product
+
+&emsp;&emsp;For purposes of this paragraph, the term "menstrual care product" means a tampon, pad, liner, cup, sponge, or similar product used by individuals with respect to menstruation or other genital-tract secretions.
 
 #### (3) Account beneficiary
 
@@ -375,7 +391,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), "calendar year 2003".
 
-> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4)shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
 
 #### (2) Rounding
 
@@ -391,7 +407,11 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090; Pub. L. 115–141, div. U, title IV, §401(a)(57), (58), Mar. 23, 2018, 132 Stat. 1186, 1187.)
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090; Pub. L. 115–141, div. U, title IV, §401(a)(57), (58), Mar. 23, 2018, 132 Stat. 1186, 1187; Pub. L. 116–136, div. A, title III, §§3701(a), (b), 3702(a), Mar. 27, 2020, 134 Stat. 415, 416; Pub. L. 116–260, div. BB, title I, §102(c)(4)(A), Dec. 27, 2020, 134 Stat. 2796.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 102 of div. BB of Pub. L. 116–260 applicable for plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -401,11 +421,27 @@ The Secretary may require—
 
 The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 300gg–111 and 300gg–112, respectively, of Title 42, The Public Health and Welfare.
+
+Sections 716 and 717 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 1185e and 1185f, respectively, of Title 29, Labor.
+
 #### Prior Provisions
 
 A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1)(B)(ii). Pub. L. 116–136, §3701(b), substituted "long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care" for "or long-term care".
+
+Subsec. (c)(1)(D). Pub. L. 116–260, §102(c)(4)(A)(i), added subpar. (D).
+
+Subsec. (c)(2)(E). Pub. L. 116–136, §3701(a), added subpar. (E).
+
+Subsec. (c)(2)(F). Pub. L. 116–260, §102(c)(4)(A)(ii), added subpar. (F).
+
+Subsec. (d)(2)(A). Pub. L. 116–136, §3702(a)(1), substituted "For purposes of this subparagraph, amounts paid for menstrual care products shall be treated as paid for medical care." for "Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin."
+
+Subsec. (d)(2)(D). Pub. L. 116–136, §3702(a)(2), added subpar. (D).
 
 <b>2018</b>—Subsec. (c)(2)(C). Pub. L. 115–141, §401(a)(57), substituted "section 1861" for "section 1871".
 
@@ -445,6 +481,14 @@ Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 <b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. BB, title I, §102(c)(4)(B), Dec. 27, 2020, 134 Stat. 2796, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply for plan years beginning on or after January 1, 2022."
+
+Pub. L. 116–136, div. A, title III, §3701(c), Mar. 27, 2020, 134 Stat. 415, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 27, 2020\]."
+
+Amendment by section 3702(a) of Pub. L. 116–136 applicable to amounts paid after Dec. 31, 2019, see section 3702(d)(1) of Pub. L. 116–136, set out as a note under section 220 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11002(d)(1)(V) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -482,6 +526,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2021</b>—Revenue Procedure 2020–32.
 
 <b>2020</b>—Revenue Procedure 2019–25.
 

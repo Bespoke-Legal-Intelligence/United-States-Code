@@ -32,6 +32,8 @@ Based on title 18, U.S.C., 1940 ed., §646 (Aug. 27, 1935, ch. 740, §204, 49 St
 
 A minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–217 substituted "section 1306 of title 40" for "sections 304f–304m of Title 40".

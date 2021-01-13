@@ -4,7 +4,7 @@ Section 651, Pub. L. 91–518, title X, §1001, as added Pub. L. 96–254, title
 
 Section 652, Pub. L. 91–518, title X, §1002, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 415, directed National Railroad Passenger Corporation to develop design and engineering plans for rail corridors in consultation with Secretary and rail carriers owning facilities to be used in the corridors.
 
-Section 653, Pub. L. 91–518, title X, §1003, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 416; amended H. Res. 549, Mar. 25, 1980, provided for submission of final corridor evaluation to Congress.
+Section 653, Pub. L. 91–518, title X, §1003, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 416;amended H. Res. 549, Mar. 25, 1980, provided for submission of final corridor evaluation to Congress.
 
 Section 654, Pub. L. 91–518, title X, §1004, as added Pub. L. 96–254, title II, §212, May 30, 1980, 94 Stat. 416, directed National Railroad Passenger Corporation to acquire equipment necessary to provide service in rail passenger corridors.
 

@@ -12,7 +12,7 @@
 
 #### (2) Contents of rule
 
-&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shallbe identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
+&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shall be identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
 
 &emsp;&emsp;(A) provide for the designation of jurisdictional authority that is in accordance with this subsection in accordance with this division and the amendments made by this division;
 
@@ -78,7 +78,7 @@
 
 #### (4) Rule of construction
 
-&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit theauthority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
+&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
 
 #### (5) Enforcement of retail sale provisions
 
@@ -106,9 +106,11 @@ As of June 22, 2009, the following documents issued by the Food and Drug Adminis
 
 (Pub. L. 111–31, div. A, title I, §102, June 22, 2009, 123 Stat. 1830.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. Chapter 9 \[IX\] of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1)(A), is act June 25, 1938, ch. 675, 52Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. Chapter 9 \[IX\] of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This division, referred to in subsec. (a)(2)(A), (5), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776, known as the Family Smoking Prevention and Tobacco Control Act. For complete classification of division A to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
 
@@ -119,6 +121,8 @@ Section 103(q), referred to in subsec. (a)(6), is section 103(q) of Pub. L. 111�
 #### Codification
 
 Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

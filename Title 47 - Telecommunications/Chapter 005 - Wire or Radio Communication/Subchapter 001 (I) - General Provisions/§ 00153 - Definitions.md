@@ -38,7 +38,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (6) Broadcast station
 
-&emsp;The term "broadcast station", "broadcasting station", or "radio broadcast station" means a radio station equipped to engage in broadcasting as herein defined.
+&emsp;The term "broadcast station", "broadcasting station", or "radio broadcast station"means a radio station equipped to engage in broadcasting as herein defined.
 
 #### (7) Broadcasting
 
@@ -78,7 +78,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (16) Customer premises equipment
 
-&emsp;The term "customer premises equipment" means equipment employed on the premises ofa person (other than a carrier) to originate, route, or terminate telecommunications.
+&emsp;The term "customer premises equipment" means equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
 
 #### (17) Dialing parity
 
@@ -280,7 +280,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (B) Digital television service
 
-&emsp;&emsp;The term "digital television service" means television service provided pursuantto the transmission standards prescribed by the Commission in section 73.682(d) of its regulations (47 C.F.R. 73.682(d)).
+&emsp;&emsp;The term "digital television service" means television service provided pursuant to the transmission standards prescribed by the Commission in section 73.682(d) of its regulations (47 C.F.R. 73.682(d)).
 
 #### (57) Transmission of energy by radio
 
@@ -295,6 +295,8 @@ For the purposes of this chapter, unless the context otherwise requires—
 &emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
 (June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -365,6 +367,8 @@ Subsec. (gg), "Great Lakes Agreement". Act Aug. 13, 1954, ch. 735, added another
 <b>1952</b>—Subsecs. (bb) to (dd). Act July 16, 1952, added subsecs. (bb) to (dd).
 
 <b>1937</b>—Subsecs. (w) to (aa). Act May 20, 1937, added subsecs. (w) to (aa).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1956 Amendment
 

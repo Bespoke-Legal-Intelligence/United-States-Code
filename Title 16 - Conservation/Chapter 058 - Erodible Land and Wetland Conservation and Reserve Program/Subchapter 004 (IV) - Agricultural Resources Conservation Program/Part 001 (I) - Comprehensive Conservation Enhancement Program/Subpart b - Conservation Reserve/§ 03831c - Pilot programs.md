@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) as determined by the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I) is located within 1 or more States that are part of the prairie pothole region, as selected by the Secretary based on consultation with State Committees of the Farm Service Agency and State technical committees established under section 3861(a) of this title from that region;
+&emsp;&emsp;&emsp;&emsp;(I) is located within 1 or more States that are part of the prairie pothole region, as selected by the Secretary based on consultation with State Committeesof the Farm Service Agency and State technical committees established under section 3861(a) of this title from that region;
 
 &emsp;&emsp;&emsp;&emsp;(II) had a cropping history or was considered to be planted during each of the 3 crop years preceding enrollment; and
 
@@ -176,7 +176,7 @@
 
 #### (B) Deadline for participation
 
-&emsp;&emsp;Eligible land may be enrolled in the program under this section through December 31, 2020.
+&emsp;&emsp;Eligible land may be enrolled in the program under this section through December 31, 2020.<sup>1</sup>
 
 #### (3) Contracts
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;The harvesting for seed, haying, or grazing of eligible land under subparagraph (A)(ii)(III) outside of the primary nesting season established for the applicable county shall be subject to the conditions that—
 
-&emsp;&emsp;&emsp;(i) with respect to eligible land that is so hayed or grazed, adequate stubble height shall be maintained to protect the soil on the eligible land, as determined by the applicable State conservationist after considering the advice of the applicable State technical committee; and
+&emsp;&emsp;&emsp;(i) with respect to eligible land that is so hayed or grazed, adequate stubble heightshall be maintained to protect the soil on the eligible land, as determined by the applicable State conservationist after considering the advice of the applicable State technical committee; and
 
 &emsp;&emsp;&emsp;(ii) with respect to eligible land that is so harvested for seed—
 
@@ -263,4 +263,10 @@
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+#### Soil Health and Income Protection Pilot Program Extension
+
+Pub. L. 116–260, div. O, title V, §501, Dec. 27, 2020, 134 Stat. 2149, provided that: "Section 1231C(b)(2)(B) of the Food Security Act of 1985 (16 U.S.C. 3831c(b)(2)(B)) shall be applied by substituting 'September 30, 2021' for 'December 31, 2020'."
+
+<i><sup>1</sup></i><i> See Soil Health and Income Protection Pilot Program Extension note below.</i>
 

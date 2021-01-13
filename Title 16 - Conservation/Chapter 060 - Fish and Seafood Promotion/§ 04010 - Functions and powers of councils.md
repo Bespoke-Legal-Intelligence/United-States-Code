@@ -28,7 +28,7 @@
 
 &emsp;(H) maintain books and records, prepare and submit to the Secretary such reports from time to time as may be necessary for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it, and cause a complete audit report to be submitted to the Secretary at the end of each fiscal year;
 
-&emsp;(I) reimburse the Secretary for the expenses incurred for the conduct of the referendum toestablish the council or any subsequent referendum to terminate the council that fails; and
+&emsp;(I) reimburse the Secretary for the expenses incurred for the conduct of the referendum to establish the council or any subsequent referendum to terminate the council that fails; and
 
 &emsp;(J) prepare and submit to the Secretary from time to time such reports or proposals as the council determines appropriate to further the purposes of this chapter.
 
@@ -42,7 +42,7 @@
 
 &emsp;(D) any reserve fund established under subsection (b)(5) of this section and any administrative expenses incurred by the Secretary specified as reimbursable under this chapter.
 
-(3) Marketing and promotion plans and amendments to such plans prepared by a council under subsection (a)(1)(C) of this section shall be designed to increase the general demand for fish and fish products described in accordance with section 4009(b)(3) of this title by encouraging, expanding, and improving the marketing, promotion and utilization of such fish and fish products, in domestic or foreign markets, or both, through consumer education, research, and other marketing and promotion activities.
+(3) Marketing and promotion plans and amendments to such plans prepared by a council under subsection (a)(1)(C) of this section shall be designed to increase the general demand for fish and fish products described in accordance with section 4009(b)(3) of this title by encouraging, expanding, and improving the marketing, promotion and utilization of such fish and fishproducts, in domestic or foreign markets, or both, through consumer education, research, and other marketing and promotion activities.
 
 (4) Consumer education and other marketing and promotion activities carried out by a council under a marketing and promotion plan and amendments to such plan may not contain references to any private brand or trade name and shall avoid the use of deceptive acts or practices in promoting fish or fish products or with respect to the quality, value, or use of any competing product or group of products.
 

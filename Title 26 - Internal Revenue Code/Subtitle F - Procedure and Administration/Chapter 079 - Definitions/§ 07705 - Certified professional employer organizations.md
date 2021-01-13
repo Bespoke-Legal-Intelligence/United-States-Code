@@ -34,7 +34,7 @@ A person meets the requirements of this subsection if such person—
 
 #### (A) In general
 
-&emsp;&emsp;A certified professional employer organization meets the requirements of this paragraph if the organization has posted a bondfor the payment of taxes under subtitle C (in a form acceptable to the Secretary) that is in an amount at least equal to the amount specified in subparagraph (B).
+&emsp;&emsp;A certified professional employer organization meets the requirements of this paragraph if the organization has posted a bond for the payment of taxes under subtitle C (in a form acceptable to the Secretary) that is in an amount at least equal to the amount specified in subparagraph (B).
 
 #### (B) Amount of bond
 

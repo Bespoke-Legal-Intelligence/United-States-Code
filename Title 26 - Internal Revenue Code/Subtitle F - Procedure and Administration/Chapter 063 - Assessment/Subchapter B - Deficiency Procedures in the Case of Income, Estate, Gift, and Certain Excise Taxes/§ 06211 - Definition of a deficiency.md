@@ -24,9 +24,9 @@ For purposes of this section—
 
 &emsp;(4) For purposes of subsection (a)—
 
-&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, and <sup>1</sup> 36B, 168(k)(4) <sup>2</sup> over the tax imposed by subtitle A (determined without regard to such credits), and
+&emsp;&emsp;(A) any excess of the sum of the credits allowable under sections 24(d), 25A by reason of subsection (i) thereof, 32, 34, 35, 36, 36B, 6428, and 6428A over the tax imposed by subtitle A (determined without regard to such credits), and
 
-&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return over the amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
+&emsp;&emsp;(B) any excess of the sum of such credits as shown by the taxpayer on his return overthe amount shown as the tax by the taxpayer on such return (determined without regard to such credits),
 
 > &emsp;shall be taken into account as negative amounts of tax.
 
@@ -34,13 +34,13 @@ For purposes of this section—
 
 In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership-related items shall be made only as provided in subchapter C.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 109–432, div. A, title IV, §402(b)(1), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–172, §11(a)(35), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–185, title I, §101(b)(1), Feb. 13, 2008, 122 Stat. 615; Pub. L. 110–289, div. C, title I, §3011(b)(2), July 30, 2008, 122 Stat. 2891; Pub. L. 111–5, div. B, title I, §§1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, 123 Stat. 312, 314, 334, 360; Pub. L. 111–148, title I, §1401(d)(3), as added title X, §§10105(d), 10909(b)(2)(N), (c), Mar. 23, 2010, 124 Stat. 906, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, §221(a)(5)(B), (8)(B), (112)(B), Dec. 19, 2014, 128 Stat. 4037, 4038, 4054; Pub. L. 115–97, title I, §13404(c)(3), Dec. 22, 2017, 131 Stat. 2138; Pub. L. 115–141, div. U, title I, §§101(l)(17), 106(a), title II, §201(c)(1), Mar. 23, 2018, 132 Stat. 1165, 1170, 1172.)
-
-#### References in Text
-
-Section 168(k)(4), referred to in subsec. (b)(4)(A), was repealed by Pub. L. 115–97, title I, §12001(b)(13), Dec. 22, 2017, 131 Stat. 2094.
+(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 109–432, div. A, title IV, §402(b)(1), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–172, §11(a)(35), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 110–185, title I, §101(b)(1), Feb. 13, 2008, 122 Stat. 615; Pub. L. 110–289, div. C, title I, §3011(b)(2), July 30, 2008, 122 Stat. 2891; Pub. L. 111–5, div. B, title I, §§1001(e)(1), 1004(b)(7), 1201(a)(3)(B), (b)(2), 1531(c)(4), Feb. 17, 2009, 123 Stat. 312, 314, 334, 360; Pub. L. 111–148, title I, §1401(d)(3), as added title X, §§10105(d), 10909(b)(2)(N), (c), Mar. 23, 2010, 124 Stat. 906, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 113–295, div. A, title II, §221(a)(5)(B), (8)(B), (112)(B), Dec. 19, 2014, 128 Stat. 4037, 4038, 4054; Pub. L. 115–97, title I, §13404(c)(3), Dec. 22, 2017, 131 Stat. 2138; Pub. L. 115–141, div. U, title I, §§101(l)(17), 106(a), title II, §201(c)(1), Mar. 23, 2018, 132 Stat. 1165, 1170, 1172; Pub. L. 116–136, div. A, title II, §2201(b)(1), Mar. 27, 2020, 134 Stat. 337; Pub. L. 116–260, div. N, title II, §272(b)(1), Dec. 27, 2020, 134 Stat. 1971.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(4)(A). Pub. L. 116–260 substituted "6428, and 6428A" for "and 6428".
+
+Pub. L. 116–136 substituted "36B, and 6428" for "and 36B, 168(k)(4)".
 
 <b>2018</b>—Subsec. (b)(4)(A). Pub. L. 115–141, §101(l)(17), substituted "subsection (i)" for "subsection (i)(5)".
 
@@ -106,7 +106,7 @@ Subsec. (b)(2). Pub. L. 96–223, §101(f)(1)(B), inserted reference to chapter 
 
 Subsec. (b)(5), (6). Pub. L. 96–223, §101(f)(3), added pars. (5) and (6).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted "chapters 41, 42, 43, and 44" for "chapters 42 and 43" after "taxes imposed by" and "chapter 41, 42, 43, or 44" for "chapter 42 or 43" after "A or B, or".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1307(d)(2)(E), (F)(i), 1605(b)(4)(A), (B), substituted "chapters 41, 42, 43, and 44" for "chapters 42 and 43" after "taxes imposed by"and "chapter 41, 42, 43, or 44" for "chapter 42 or 43" after "A or B, or".
 
 Subsec. (b)(1). Pub. L. 94–455, §1204(c)(4), struck out "and" after "31" and inserted ", and without regard to any credits resulting from the collection of amounts assessed under section 6851 (relating to termination assessments)" after "section 1451".
 
@@ -182,7 +182,7 @@ Pub. L. 105–34, title XII, §1231(d), Aug. 5, 1997, 111 Stat. 1023, provided t
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–647 applicable to notices of deficiencies mailed after Nov. 10, 1988, see section1015(r)(4) of Pub. L. 100–647, set out as a note under section 6201 of this title.
+Amendment by Pub. L. 100–647 applicable to notices of deficiencies mailed after Nov. 10, 1988, see section 1015(r)(4) of Pub. L. 100–647, set out as a note under section 6201 of this title.
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1204(c)(4) of Pub. L. 94–455 applicable to action taken under section 6851, 6861, or 6862 of this title where the notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
+Amendment by section 1204(c)(4) of Pub. L. 94–455 applicable to action taken under section 6851, 6861, or 6862of this title where the notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
 Amendment by section 1307(d)(2)(E), (F)(i) of Pub. L. 94–455 effective on and after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 501 of this title.
 
@@ -217,8 +217,4 @@ Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as a note under section 6420 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

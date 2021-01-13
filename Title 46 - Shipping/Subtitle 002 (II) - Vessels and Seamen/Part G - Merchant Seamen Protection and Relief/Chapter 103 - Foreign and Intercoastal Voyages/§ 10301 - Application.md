@@ -28,6 +28,8 @@ Historical and Revision Notes
 
 Section 10301 specifies that vessels on foreign and intercoastal voyages (except for fishing vessels and foreign vessels) are subject to the seamen protection and relief provisions contained in chapter 103.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–241 inserted "or to riding gang members" after "voyage".

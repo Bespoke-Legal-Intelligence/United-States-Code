@@ -24,9 +24,13 @@ The Secretary shall—
 
 (Pub. L. 114–323, title IV, §414, Dec. 16, 2016, 130 Stat. 1932.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section 414 of Pub. L. 114–323 amended section 3982 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

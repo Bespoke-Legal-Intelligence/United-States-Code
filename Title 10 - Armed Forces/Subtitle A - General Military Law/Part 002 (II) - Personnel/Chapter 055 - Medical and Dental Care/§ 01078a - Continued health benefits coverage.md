@@ -14,7 +14,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) immediately preceding that discharge or release, is entitled to medical and dental care under section 1074(a) of this title (except in the case of a member discharged or released from full-time National Guard duty); and
 
-&emsp;&emsp;(C) after that discharge or release and any period of transitional health care provided under section 1145(a) of this title, would not otherwise be eligible for any benefits under this chapter.
+&emsp;&emsp;(C) after that discharge or release and any period of transitional health care providedunder section 1145(a) of this title, would not otherwise be eligible for any benefits under this chapter.
 
 &emsp;(2) A member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces who—
 
@@ -124,7 +124,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 (2) Notwithstanding paragraph (1)(C), if a dependent of a member becomes eligible for continued coverage under subsection (b)(3) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
-(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverage under subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond thedate which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
+(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverage under subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
 (4)(A) Notwithstanding paragraph (1), in the case of a former spouse described in subparagraph (B), continued coverage under this section shall continue for such period as the former spouse may request.
 
@@ -214,7 +214,7 @@ Subsec. (d)(2)(A). Pub. L. 103–35, §201(g)(1)(B), inserted "under" after "cov
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VII, §713(b), Nov. 24, 2003, 117 Stat. 1531, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply to members of the uniformed services who are not otherwise covered by section 1078a of title 10, United States Code, before the date of the enactment of this Act \[Nov. 24, 2003\] and who, on or after such date, first meet the eligibility criteria specified in subsection (b) of that section."
+Pub. L. 108–136, div. A, title VII, §713(b), Nov. 24, 2003, 117 Stat. 1531, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to members of the uniformed services who are not otherwise covered by section 1078a of title 10, United States Code, before the date of the enactment of this Act \[Nov. 24, 2003\] and who, on or after such date, first meet the eligibility criteria specified in subsection (b) of that section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

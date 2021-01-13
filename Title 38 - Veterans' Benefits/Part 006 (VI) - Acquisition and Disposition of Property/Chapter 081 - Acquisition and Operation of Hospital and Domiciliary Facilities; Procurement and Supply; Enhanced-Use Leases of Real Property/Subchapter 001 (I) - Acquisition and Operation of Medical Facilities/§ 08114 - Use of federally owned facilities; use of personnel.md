@@ -6,6 +6,8 @@
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 61, §5014; renumbered §8114, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in section 5001(e) of this title prior to the general revision of this subchapter by Pub. L. 96–22.
@@ -18,7 +20,9 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alterationof any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
+Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 

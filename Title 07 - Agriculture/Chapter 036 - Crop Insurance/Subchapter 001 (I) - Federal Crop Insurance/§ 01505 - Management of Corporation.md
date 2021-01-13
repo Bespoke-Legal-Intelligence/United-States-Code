@@ -84,7 +84,7 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (5) Funding of reviews
 
-&emsp;Each contract to conduct a review under this subsection shall be funded from amountsmade available under section 1516(b)(2)(A)(ii) of this title.
+&emsp;Each contract to conduct a review under this subsection shall be funded from amounts made available under section 1516(b)(2)(A)(ii) of this title.
 
 #### (6) Relation to other authority
 
@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 106–224, §142(b), added subsec. (e).
 
 Pub. L. 103–354, §103, in second sentence struck out "or Assistant Secretary" after "Corporation, the Under Secretary" and substituted "one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture)" for "the Under Secretary or Assistant Secretary of Agriculture responsible for the farm credit programs of the Department of Agriculture".
 
-Pub. L. 103–354, §115(a)(1), substituted "The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board." for former third sentence which read as follows: "The Board shall be appointed by, and hold office at the pleasure of the Secretary, who shall not, himself, be a member of the Board."
+Pub. L. 103–354, §115(a)(1), substituted "The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board." for former third sentence which read as follows: "The Board shall be appointed by, and hold officeat the pleasure of the Secretary, who shall not, himself, be a member of the Board."
 
 Pub. L. 103–354, §102(b)(4)(C), in third sentence struck out "of Agriculture" before ", who shall not".
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) if the initial contract interest rate remained fixed for less than 5 years, be limited to a maximum increase or decrease of 1 percentage point; or
 
-&emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of suchpercentage point or points as the Secretary may prescribe;
+&emsp;&emsp;(B) if the initial contract interest rate remained fixed for 5 years or more, be limited to a maximum increase or decrease of such percentage point or points as the Secretary may prescribe;
 
 &emsp;(4) in the case of any single annual interest rate adjustment after the initial contract interest rate adjustment, be limited to a maximum increase or decrease of such percentage points as the Secretary may prescribe; and
 
@@ -39,6 +39,8 @@
 (e) The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first five years of the mortgage term.
 
 (Added Pub. L. 107–330, title III, §303(a), Dec. 6, 2002, 116 Stat. 2825; amended Pub. L. 108–454, title IV, §405(a), (b), Dec. 10, 2004, 118 Stat. 3616; Pub. L. 109–233, title I, §102, June 15, 2006, 120 Stat. 399; Pub. L. 110–389, title V, §505(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–154, title II, §209, Aug. 6, 2012, 126 Stat. 1179.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Subsec. (c)(3). Pub. L. 108–454, §405(b)(2), added par. (3) and struck out fo
 Subsec. (c)(4). Pub. L. 108–454, §405(b)(2), added par. (4). Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 108–454, §405(b)(1), (3), redesignated par. (4) as (5) and substituted "such number of percentage points as the Secretary shall prescribe for purposes of this section" for "5 percentage points above the initial contract interest rate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### No Effect on Guarantee of Loans Under Hybrid Adjustable Rate Mortgage Guarantee Demonstration Project
 

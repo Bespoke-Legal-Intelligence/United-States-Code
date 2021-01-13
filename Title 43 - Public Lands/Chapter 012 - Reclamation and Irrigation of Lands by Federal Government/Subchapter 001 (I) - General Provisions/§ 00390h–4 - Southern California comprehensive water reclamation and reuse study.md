@@ -14,9 +14,13 @@ The Secretary shall submit the report authorized by this section to the Committe
 
 (Pub. L. 102–575, title XVI, §1606, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reuse of Waste Water
 
@@ -44,7 +48,7 @@ Southern california comprehensive water reuse system.—
 
 &emsp;&emsp;"(A)
 
-Description.—A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of water supply for agricultural, municipal, industrial, and environmental needs of Southern California.
+Description.—A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of watersupply for agricultural, municipal, industrial, and environmental needs of Southern California.
 
 &emsp;&emsp;"(B)
 

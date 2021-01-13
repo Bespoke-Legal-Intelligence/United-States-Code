@@ -50,7 +50,7 @@ Actions When Airports Not Maintaining and Carrying Out Effective Security Measur
 
 &emsp;(B) each air carrier and foreign air carrier providing transportation between the United States and the airport shall provide written notice of the decision, on or with the ticket, to each passenger buying a ticket for transportation between the United States and the airport;
 
-&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
+&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concernedand each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
 
 &emsp;(D) the President may prohibit an air carrier or foreign air carrier from providing transportation between the United States and any other foreign airport that is served by aircraft flying to or from the airport with respect to which a decision is made under this section.
 
@@ -188,7 +188,7 @@ GAO Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Comptroller General of the United States shall review the effectiveness of the TSA \[Transportation Security Administration\] process to update, consolidate, or revoke security directives, emergency amendments, and other policies related to international aviationsecurity at last point of departure airports and submit to the appropriate committees of Congress and the Administrator a report on the findings and recommendations.
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Comptroller General of the United States shall review the effectiveness of the TSA \[Transportation Security Administration\] process to update, consolidate, or revoke security directives, emergency amendments, and other policies related to international aviation security at last point of departure airports and submit to the appropriate committees of Congress and the Administrator a report on the findings and recommendations.
 
 &emsp;"(2)
 

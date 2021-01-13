@@ -16,7 +16,7 @@ To be eligible for assistance under this part, an applicant shall propose to est
 
 &emsp;(6) to provide a written transitional living plan to each youth based on an assessment of such youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
-&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Innovation and Opportunity Act), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
+&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Innovation and Opportunity Act), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
 
 &emsp;(8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 
@@ -44,11 +44,13 @@ In selecting eligible applicants to receive grants under this part, the Secretar
 
 In this part—
 
-&emsp;(1) the term "maternity group home" means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children; and
+&emsp;(1) the term "maternity group home" means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and otherskills to promote their long-term economic independence in order to ensure the well-being of their children; and
 
 &emsp;(2) the term "exceptional circumstances" means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
 (Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Subsec. (c). Pub. L. 108–96, §107(b), added subsec. (c).
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §3(f)(1), inserted "which shall include money management, budgeting, consumer education, and use of credit" after "basic life skills".
 
 Subsec. (a)(13). Pub. L. 102–586, §3(f)(2), substituted "informed consent of the individual youth" for "consent of the individual youth and parent or legal guardian" and struck out "or a government agency involved in the disposition of criminal charges against youth" after "statistical records".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

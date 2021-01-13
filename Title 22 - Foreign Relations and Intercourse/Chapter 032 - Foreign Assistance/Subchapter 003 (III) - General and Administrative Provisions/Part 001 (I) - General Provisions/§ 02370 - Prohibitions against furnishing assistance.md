@@ -4,7 +4,7 @@
 
 (1) No assistance shall be furnished under this chapter to the present government of Cuba. As an additional means of implementing and carrying into effect the policy of the preceding sentence, the President is authorized to establish and maintain a total embargo upon all trade between the United States and Cuba.
 
-(2) Except as may be deemed necessary by the President in the interest of the United States, no assistance shall be furnished under this chapter to any government of Cuba, nor shall Cuba be entitled to receive any quota authorizing the importation of Cuban sugar into the United States or to receive any other benefit under any law of the United States, until the President determines that such government has taken appropriate steps according to international law standards to return to United States citizens, and to entities not less than 50 per centum beneficially owned by United States citizens, or to provide equitable compensation to such citizensand entities for property taken from such citizens and entities on or after January 1, 1959, by the Government of Cuba.
+(2) Except as may be deemed necessary by the President in the interest of the United States, no assistance shall be furnished under this chapter to any government of Cuba, nor shall Cuba be entitled to receive any quota authorizing the importation of Cuban sugar into the United States or to receive any other benefit under any law of the United States, until the President determines that such government has taken appropriate steps according to international law standards to return to United States citizens, and to entities not less than 50 per centum beneficially owned by United States citizens, or to provide equitable compensation to such citizens and entities for property taken from such citizens and entities on or after January 1, 1959, by the Government of Cuba.
 
 #### (b) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 
@@ -30,7 +30,7 @@ No assistance shall be furnished on a loan basis under part I of subchapter I of
 
 Upon request of the President (within seventy days after such action referred to in subparagraphs (A), (B), or (C) of this paragraph, the Foreign Claims Settlement Commission of the United States (established pursuant to Reorganization Plan No. 1 of 1954, 68 Stat. 1279) is hereby authorized to evaluate expropriated property, determining the full value of any property nationalized, expropriated, or seized, or subjected to discriminatory or other actions as aforesaid, for purposes of this subsection and to render an advisory report to the President within ninety days after such request. Unless authorized by the President, the Commission shall not publish its advisory report except to the citizen or entity owning such property. There is hereby authorized to be appropriated such amount, to remain available until expended, as may be necessary from time to time to enable the Commission to carry out expeditiously its functions under this subsection.
 
-(2) Notwithstanding any other provision of law, no court in the United States shall decline on the ground of the federal act of state doctrine to make a determination on the merits giving effect to the principles of international law in a case in which a claim of title or other rights to property is asserted by any party including a foreign state (or a party claiming through such state) based upon (or traced through) a confiscation or other taking after January 1, 1959, by an act of that state in violation of the principles of international law, including the principles of compensation and the other standards set out in this subsection: <i>Provided</i>, That this subparagraph shall not be applicable (1) in any case in which an act of a foreign state is not contrary to international law or with respect to a claim of title or other right to property acquired pursuant to an irrevocable letter of credit of notmore than 180 days duration issued in good faith prior to the time of the confiscation or other taking, or (2) in any case with respect to which the President determines that application of the act of state doctrine is required in that particular case by the foreign policy interests of the United States and a suggestion to this effect is filed on his behalf in that case with the court.
+(2) Notwithstanding any other provision of law, no court in the United States shall decline on the ground of the federal act of state doctrine to make a determination on the merits giving effect to the principles of international law in a case in which a claim of title or other rights to property is asserted by any party including a foreign state (or a party claiming through such state) based upon (or traced through) a confiscation or other taking after January 1, 1959, by an act of that state in violation of the principles of international law, including the principles of compensation and the other standards set out in this subsection: <i>Provided</i>, That this subparagraph shall not be applicable (1) in any case in which an act of a foreign state is not contrary to international law or with respect to a claim of title or other right to property acquired pursuant to an irrevocable letter of credit of not more than 180 days duration issued in good faith prior to the time of the confiscation or other taking, or (2) in any case with respect to which the President determines that application of the act of state doctrine is required in that particular case by the foreign policy interests of the United States and a suggestion to this effect is filed on his behalf in that case with the court.
 
 #### (f) Prohibition against assistance to Communist countries; conditions for waiver of restriction by President; enumeration of Communist countries; removal from application of provisions; preconditions
 
@@ -68,7 +68,7 @@ Without the express approval of Congress, no assistance shall be furnished under
 
 #### (l) Institution of investment guaranty program
 
-The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966, has failed to enter into an agreement with the President to institute the investment guaranty program under section 2194(a)(1) <sup>2</sup>of this title, providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1).<sup>2</sup>
+The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966, has failed to enter into an agreement with the President to institute the investment guaranty program under section 2194(a)(1) <sup>2</sup> of this title, providing protection against the specific risks of inconvertibility under subparagraph (A), and expropriation or confiscation under subparagraph (B), of such section 2194(a)(1).<sup>2</sup>
 
 #### (m) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560
 
@@ -130,7 +130,9 @@ In any decision to provide or continue to provide any program of assistance to a
 
 #### Amendment of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
+<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a)</i><i>and by striking out "Republic of Cuba" in subsec. (f).</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -141,10 +143,6 @@ Reorganization Plan No. 1 of 1954, 68 Stat. 1279, referred to in subsec. (e)(1),
 Section 2194(a)(1) of this title, referred to in subsec. (l), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
 The Food for Peace Act, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
-
-#### References to Part I Deemed To Include Section 2293
-
-References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
 
 #### Codification
 
@@ -172,7 +170,7 @@ Subsec. (g). Pub. L. 99–83, §1203, inserted provisions relating to waiver of 
 
 Subsec. (f). Pub. L. 97–113, §707, substituted "includes specifically, but is not limited to" for "shall include specifically, but not be limited to", repeated in a different sequence the list of countries included within the phrase "Communist country", and substituted "Democratic People's Republic of Korea" for "North Korean Peoples Republic", "German Democratic Republic" for "German Democratic Republic (East Germany)", "Mongolian People's Republic" for "Outer Mongolia-Mongolian Peoples Republic", "Republic of Cuba" for "Cuba", "Socialist Federal Republic of Yugoslavia" for "Federal Peoples Republic of Yugoslavia", "Socialist Republic of Romania" for "Rumanian Peoples Republic", and "Socialist Republic of Vietnam" for "North Vietnam".
 
-Subsec. (i). Pub. L. 97–113, §734(a)(1), struck out subsec. (i) which prohibited aid to countries determined bythe President to be engaging in or prepared for aggressive military efforts, insurrection, or subversion against the United States or any country receiving United States aid.
+Subsec. (i). Pub. L. 97–113, §734(a)(1), struck out subsec. (i) which prohibited aid to countries determined by the President to be engaging in or prepared for aggressive military efforts, insurrection, or subversion against the United States or any country receiving United States aid.
 
 Subsec. (k). Pub. L. 97–113, §702, struck out "for fiscal year 1977, fiscal year 1980, or fiscal year 1981" after "presentation materials to Congress".
 
@@ -194,7 +192,7 @@ Subsec. (a)(3). Pub. L. 95–88, §123(a)(2), struck out par. (3) which had dire
 
 Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countries that sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
 
-Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
+Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as thetotal value of defense articles and services sold to such country.
 
 <b>1976</b>—Subsec. (k). Pub. L. 94–329, §606, inserted provision exempting from the condition of express approval of Congress any productive enterprise in Egypt which is described in the presentation to Congress for fiscal year 1977.
 
@@ -224,7 +222,7 @@ Subsec. (v). Pub. L. 91–175, §303(b), repealed subsec. (v) covering the withh
 
 Subsec. (k). Pub. L. 90–137, §301(f)(2), substituted "506" for "510", classified to the Code as section 2318 of this title.
 
-Subsec. (n). Pub. L. 90–137, §301(f)(3), restated the prohibition against assistance to define the kind of assistance meant, that is, loans, credits, guarantees, or grants or other assistance, to extend the prohibition to assistance under any other Act and to sales under the Agricultural Trade Development and Assistance Act of 1954, and to eliminate specific reference to such items of transportation as items of economic assistance, andwar materials, such as arms, ammunition and implements of war, atomic energy materials, petroleum, transportation materials of strategic value, and items of primary strategic significance used in production of arms, ammunition, and implements of war.
+Subsec. (n). Pub. L. 90–137, §301(f)(3), restated the prohibition against assistance to define the kind of assistance meant, that is, loans, credits, guarantees, or grants or other assistance, to extend the prohibition to assistance under any other Act and to sales under the Agricultural Trade Development and Assistance Act of 1954, and to eliminate specific reference to such items of transportation as items of economic assistance, and war materials, such as arms, ammunition and implements of war, atomic energy materials, petroleum, transportation materials of strategic value, and items of primary strategic significance used in production of arms, ammunition, and implements of war.
 
 Subsecs. (s) to (u). Pub. L. 90–137, §301(f)(4), added subsecs. (s) to (u).
 
@@ -264,6 +262,12 @@ Subsec. (c). Pub. L. 87–565, §301(d)(2), extended the prohibition against pro
 
 Subsecs. (e) to (h). Pub. L. 87–565, §301(d)(3), added subsecs. (e) to (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -288,10 +292,6 @@ Pub. L. 94–104, §2(c)(5), Oct. 6, 1975, 89 Stat. 510, provided that: "This su
 
 Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624, cited as a credit to this section, was repealed by Pub. L. 97–113, title VII, §734(a)(13), Dec. 29, 1981, 95 Stat. 1560.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Assistance and Sales to Argentina
 
 Pub. L. 97–113, title VII, §725(b), (c), Dec. 29, 1981, 95 Stat. 1553, related to the provision of assistance and credits, loan guarantees, defense articles and services, export licenses, etc., by United States to Argentina, prior to repeal by Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1030.
@@ -302,7 +302,7 @@ Pub. L. 97–113, title VII, §726(b), (c), Dec. 29, 1981, 95 Stat. 1554, as ame
 
 "(b) Notwithstanding any other provision of law—
 
-&emsp;"(1) no assistance may be furnished under chapter 2, 4, 5, or 6 of part II of the Foreign Assistance Act of1961 \[22 U.S.C. 2311 et seq., 2346 et seq., 2347 et seq., 2348 et seq.\] to Chile;
+&emsp;"(1) no assistance may be furnished under chapter 2, 4, 5, or 6 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq., 2346 et seq., 2347 et seq., 2348 et seq.\] to Chile;
 
 &emsp;"(2) no sale of defense articles or services may be made under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] to Chile;
 
@@ -388,7 +388,7 @@ Release of Assistance.—The United States military assistance withheld pursuant
 
 &emsp;&emsp;"(iii) has been accepted, within 15 days from its announcement, by the Government of El Salvador and is being complied with by the Government of El Salvador;
 
-&emsp;"(C) the survival of the constitutional Government of El Salvador is being jeopardized by substantial andsustained offensive military actions or operations by the FMLN;
+&emsp;"(C) the survival of the constitutional Government of El Salvador is being jeopardized by substantial and sustained offensive military actions or operations by the FMLN;
 
 &emsp;"(D) proof exists that the FMLN is continuing to acquire or receive significant shipments of lethal military assistance from outside El Salvador, and this proof has been shared with the Congress; or
 
@@ -428,7 +428,7 @@ Duration of Availability of Funds.—Notwithstanding any other provision of law,
 
 "(g)
 
-Strengthening Civilian Control Over the Military.—In order to strengthen the control of the democratically-elected civilian Government of El Salvador over the armed forces of that country, United States military assistance for any fiscal year may be delivered to the armed forces of El Salvador only with the prior approval of the duly elected President of El Salvador.
+Strengthening Civilian Control Over the Military.—In order to strengthen the control of thedemocratically-elected civilian Government of El Salvador over the armed forces of that country, United States military assistance for any fiscal year may be delivered to the armed forces of El Salvador only with the prior approval of the duly elected President of El Salvador.
 
 "(h)
 
@@ -474,7 +474,7 @@ Pub. L. 96–533, title VII, §714, Dec. 16, 1980, 94 Stat. 3161, required repor
 
 Pub. L. 95–426, title VI, §613, Oct. 7, 1978, 92 Stat. 990, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: "The Congress finds that—
 
-&emsp;"(1) the President authorized the exchange of notes of May 30, 1977, between the Governments of theUnited States and Cuba which established an Interests Section for the United States in the Embassy of Switzerland in Havana and an Interests Section for Cuba in the Embassy of Czechoslovakia in Washington;
+&emsp;"(1) the President authorized the exchange of notes of May 30, 1977, between the Governments of the United States and Cuba which established an Interests Section for the United States in the Embassy of Switzerland in Havana and an Interests Section for Cuba in the Embassy of Czechoslovakia in Washington;
 
 &emsp;"(2) the President has the authority under the Export Administration Act of 1969 \[50 U.S.C. 4601 et seq.\] to limit trade with Cuba being conducted by subsidiaries of American firms operating in third countries;
 
@@ -581,6 +581,12 @@ Pub. L. 90–249, title I, §116, Jan. 2, 1968, 81 Stat. 940.
 Pub. L. 89–691, title I, §116, Oct. 15, 1966, 80 Stat. 1022.
 
 Pub. L. 89–273, title I, §116, Oct. 20, 1965, 79 Stat. 1005.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Interdiction of the Delivery of Offensive Weapons to Cuba
 

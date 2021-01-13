@@ -249,11 +249,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—TEMPORARY STATE FISCAL RELIEF
+#### SUBCHAPTER VI—CORONAVIRUS RELIEF FUND
 
 |  |  |
 | :--- | ---: |
-| [801\.](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/%C2%A7%2000801%20-%20Repealed.md) | Repealed. |
+| [801\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%20Fund/%C2%A7%2000801%20-%20Coronavirus%20relief%20fund.md) | Coronavirus relief fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -610,6 +610,7 @@
 | 1395i–3a. | Protecting residents of long-term care facilities. |
 | 1395i–4. | Medicare rural hospital flexibility program. |
 | 1395i–5. | Conditions for coverage of religious nonmedical health care institutional services. |
+| 1395i–6. | Hospice program survey and enforcement procedures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -951,7 +952,7 @@
 - [Subchapter 003 (III) - Grants to States for Unemployment Compensation Administration](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/README.md)
 - [Subchapter 004 (IV) - Grants to States for Aid and Services to Needy Families with Children and for Child-Welfare Services](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/README.md)
 - [Subchapter 005 (V) - Maternal and Child Health Services Block Grant](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/README.md)
-- [Subchapter 006 (VI) - Temporary State Fiscal Relief](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/README.md)
+- [Subchapter 006 (VI) - Coronavirus Relief Fund](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%20Fund/README.md)
 - [Subchapter 007 (VII) - Administration](Subchapter%20007%20%28VII%29%20-%20Administration/README.md)
 - [Subchapter 008 (VIII) - Special Benefits for Certain World War II Veterans](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/README.md)
 - [Subchapter 009 (IX) - Employment Security Administrative Financing](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/README.md)

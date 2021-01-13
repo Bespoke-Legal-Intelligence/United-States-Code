@@ -4,7 +4,7 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 &emsp;(1) enforces constitutional rights of individuals;
 
-&emsp;(2) establishes or enforces any statutory rights that prohibit discrimination on the basis of race, color, religion, sex, national origin, age, handicap, or disability;
+&emsp;(2) establishes or enforces any statutory rights that prohibit discrimination on thebasis of race, color, religion, sex, national origin, age, handicap, or disability;
 
 &emsp;(3) requires compliance with accounting and auditing procedures with respect to grants or other money or property provided by the Federal Government;
 
@@ -18,9 +18,13 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 (Pub. L. 93–344, title IV, §422, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 53.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

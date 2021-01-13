@@ -4,11 +4,15 @@ The Comptroller General is authorized to lease or otherwise provide space and se
 
 (Added Pub. L. 100–545, §1, Oct. 28, 1988, 102 Stat. 2728; amended Pub. L. 103–272, §4(f)(1)(D), July 5, 1994, 108 Stat. 1362; Pub. L. 107–217, §3(h)(2), Aug. 21, 2002, 116 Stat. 1299.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–217 substituted "(as defined in section 3306(a) of title 40)" for "(as defined in section 105 of the Public Buildings Cooperative Use Act of 1976 (40 U.S.C. 612a))".
 
 <b>1994</b>—Pub. L. 103–272 substituted "612a))." for "612a)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

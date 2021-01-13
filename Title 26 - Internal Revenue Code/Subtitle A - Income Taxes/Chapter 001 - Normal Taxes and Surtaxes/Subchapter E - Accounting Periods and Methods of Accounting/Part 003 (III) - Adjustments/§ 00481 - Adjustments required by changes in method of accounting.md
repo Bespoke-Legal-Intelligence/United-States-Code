@@ -34,7 +34,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
+&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxableyear preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
 
 &emsp;&emsp;(B) The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
 
@@ -70,7 +70,7 @@ The date of the enactment of the Tax Cuts and Jobs Act and the date of such enac
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–97 added subsec. (d).
 
-<b>2014</b>—Subsec. (b)(3)(C). Pub. L. 113–295 struck out subpar. (C) which read as follows: "In applying section7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939."
+<b>2014</b>—Subsec. (b)(3)(C). Pub. L. 113–295 struck out subpar. (C) which read as follows: "In applying section 7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939."
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–471 struck out subsec. (d) which provided that this section was not to apply to a change to which section 453 of this title, relating to change to installment method, applied.
 

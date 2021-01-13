@@ -10,7 +10,7 @@ Subject to the requirements of the Fish and Wildlife Coordination Act (16 U.S.C.
 
 &emsp;(3) increase the awareness and understanding of the hatchery and the System, through the development, publication, or distribution of educational materials and products;
 
-&emsp;(4) advance education concerning the purposes of the hatchery and the mission of the System, through the use of the hatchery as anoutdoor classroom and development of other educational programs; or
+&emsp;(4) advance education concerning the purposes of the hatchery and the mission of the System, through the use of the hatchery as an outdoor classroom and development of other educational programs; or
 
 &emsp;(5) contribute financial resources to the hatchery, under the terms that require that the net revenues be used exclusively for the benefit of the hatchery, through donation of net revenues from the sale of educational materials and products and through encouragement of gifts, devises, and bequests.
 
@@ -22,5 +22,5 @@ Amounts received by the Secretary of the Interior as a result of projects and pr
 
 #### References in Text
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (a), is act Mar. 10, 1934, ch. 55, 48 Stat. 401,which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 

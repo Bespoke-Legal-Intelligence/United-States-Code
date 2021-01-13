@@ -64,6 +64,8 @@ The Attorney General shall submit to Congress annual reports containing, with re
 
 (Pub. L. 101–379, §10, Aug. 18, 1990, 104 Stat. 477; Pub. L. 111–211, title II, §212, July 29, 2010, 124 Stat. 2267.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.

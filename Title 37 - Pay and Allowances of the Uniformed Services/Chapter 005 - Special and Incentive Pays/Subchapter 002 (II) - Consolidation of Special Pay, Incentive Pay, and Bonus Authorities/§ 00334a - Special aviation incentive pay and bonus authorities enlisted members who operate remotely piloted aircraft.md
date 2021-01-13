@@ -100,7 +100,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Aviation service.—The term "aviation service" means participation in aerial flightperformed, under regulations prescribed by the Secretary concerned, by an eligible enlisted member who is a remotely piloted aircraft pilot.
+Aviation service.—The term "aviation service" means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible enlisted member who is a remotely piloted aircraft pilot.
 
 &emsp;(2)
 

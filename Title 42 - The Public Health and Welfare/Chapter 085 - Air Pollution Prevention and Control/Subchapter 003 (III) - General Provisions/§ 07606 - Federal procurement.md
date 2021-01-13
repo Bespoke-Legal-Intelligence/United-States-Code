@@ -20,7 +20,7 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 #### Codification
 
-Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
+Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as anote under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
 
 Section was formerly classified to section 1857h–4 of this title.
 
@@ -68,9 +68,9 @@ Sec. 7. <i>Enforcement</i>. The Administrator may recommend to the Department of
 
 Sec. 8. <i>Exemptions—Reports to Congress</i>. (a) Upon a determination that the paramount interest of the United States so requires—
 
-(1) The head of a Federal agency may exempt any contract, grant, or loan, and, following consultation with the Administrator, any class of contracts, grants or loans from the provisions of this Order. In any such case, the head of the Federal agency granting such exemption shall (A) promptly notify the Administrator of such exemption and the justification therefor; (B) review the necessity for each such exemption annually; and (C) report to the Administrator annually all such exemptions in effect. Exemptions granted pursuant to this section shall be for a period not to exceed one year. Additional exemptions may be granted for periods not to exceed one year upon the making of a new determination by the head of the Federal agency concerned.
+(1) The head of a Federal agency may exempt any contract, grant, or loan, and, following consultationwith the Administrator, any class of contracts, grants or loans from the provisions of this Order. In any such case, the head of the Federal agency granting such exemption shall (A) promptly notify the Administrator of such exemption and the justification therefor; (B) review the necessity for each such exemption annually; and (C) report to the Administrator annually all such exemptions in effect. Exemptions granted pursuant to this section shall be for a period not to exceed one year. Additional exemptions may be granted for periods not to exceed one year upon the making of a new determination by the head of the Federal agency concerned.
 
-(2) The Administrator may, by rule or regulation, exempt any or all Federal agencies from any or all of the provisions of this Order with respect to any class or classes of contracts, grants, or loans, which (A) involveless than specified dollar amounts, or (B) have a minimal potential impact upon the environment, or (C) involve persons who are not prime contractors or direct recipients of Federal assistance by way of contracts, grants, or loans.
+(2) The Administrator may, by rule or regulation, exempt any or all Federal agencies from any or all of the provisions of this Order with respect to any class or classes of contracts, grants, or loans, which (A) involve less than specified dollar amounts, or (B) have a minimal potential impact upon the environment, or (C) involve persons who are not prime contractors or direct recipients of Federal assistance by way of contracts, grants, or loans.
 
 (b) Federal agencies shall reconsider any exemption granted under subsection (a) whenever requested to do so by the Administrator.
 

@@ -18,13 +18,19 @@
 | [6425\.](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md) | Adjustment of overpayment of estimated income tax by corporation. |
 | [6426\.](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md) | Credit for alcohol fuel, biodiesel, and alternative fuel mixtures. |
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
-| \[6428, 6429. Repealed.\] |  |
+| [6428\.](%C2%A7%2006428%20-%202020%20recovery%20rebates%20for%20individuals.md) | 2020 recovery rebates for individuals. |
+| [6428A.](%C2%A7%2006428A%20-%20Additional%202020%20recovery%20rebates%20for%20individuals.md) | Additional 2020 recovery rebates for individuals. |
+| \[6429. | Repealed.\] |
 | [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
 | \[6431, 6432. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. N, title II, §272(g)(2), Dec. 27, 2020, 134 Stat. 1976, added item 6428A.
+
+Pub. L. 116–136, div. A, title II, §2201(g)(2), Mar. 27, 2020, 134 Stat. 340, added item 6428.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212, struck out item 6432 "COBRA premium assistance".
 
@@ -50,7 +56,7 @@ Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, add
 
 <b>1988</b>—Pub. L. 100–418, title I, §1941(b)(3)(E), Aug. 23, 1988, 102 Stat. 1324, struck out items 6429 "Credit and refund of chapter 45 taxes paid by royalty owners" and 6430 "Credit or refund of windfall profit taxes to certain trust beneficiaries".
 
-<b>1986</b>—Pub. L. 99–514, title XVII, §1703(c)(2)(E), Oct. 22, 1986, 100 Stat. 2777, substituted ", used by local transit systems, or sold for certain exempt purposes" for "or by local transit systems" in item 6421.
+<b>1986</b>—Pub. L. 99–514, title XVII, §1703(c)(2)(E), Oct. 22, 1986, 100 Stat. 2777, substituted ", used by local transitsystems, or sold for certain exempt purposes" for "or by local transit systems" in item 6421.
 
 <b>1983</b>—Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
@@ -106,7 +112,8 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06425 - Adjustment of overpayment of estimated income tax by corporation](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md)
 - [&sect; 06426 - Credit for alcohol fuel, biodiesel, and alternative fuel mixtures](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md)
 - [&sect; 06427 - Fuels not used for taxable purposes](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md)
-- [&sect; 06428 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(112)(A), Dec. 19, 2014, 128 Stat. 4054](%C2%A7%2006428%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%28112%29%28A%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204054.md)
+- [&sect; 06428 - 2020 recovery rebates for individuals](%C2%A7%2006428%20-%202020%20recovery%20rebates%20for%20individuals.md)
+- [&sect; 06428A - Additional 2020 recovery rebates for individuals](%C2%A7%2006428A%20-%20Additional%202020%20recovery%20rebates%20for%20individuals.md)
 - [&sect; 06429 - Repealed. Pub. L. 113&#8211;295, div. A, title II, &sect;221(a)(113), Dec. 19, 2014, 128 Stat. 4054](%C2%A7%2006429%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93295%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7221%28a%29%28113%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%204054.md)
 - [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)
 - [&sect; 06431 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13404(b), Dec. 22, 2017, 131 Stat. 2138](%C2%A7%2006431%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713404%28b%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202138.md)

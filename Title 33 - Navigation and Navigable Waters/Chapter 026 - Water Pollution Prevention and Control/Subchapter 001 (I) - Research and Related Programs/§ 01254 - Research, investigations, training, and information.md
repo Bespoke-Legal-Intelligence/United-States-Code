@@ -38,7 +38,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 &emsp;&emsp;(A) to provide technical assistance to rural, small, and tribal municipalities for the purpose of assisting, in consultation with the State in which the assistance is provided, such municipalities and tribal governments in the planning, developing, and acquisition of financing for eligible projects and activities described in section 1383(c) of this title;
 
-&emsp;&emsp;(B) to provide technical assistance and training for rural, small, and tribal publicly owned treatment works and decentralized wastewater treatment systems to enable such treatment works and systems to protect water quality and achieve and maintain compliance with the requirements of this chapter; and
+&emsp;&emsp;(B) to provide technical assistance and training for rural, small, and tribal publiclyowned treatment works and decentralized wastewater treatment systems to enable such treatment works and systems to protect water quality and achieve and maintain compliance with the requirements of this chapter; and
 
 &emsp;&emsp;(C) to disseminate information to rural, small, and tribal municipalities and municipalities that meet the affordability criteria established under section 1383(i)(2) of this title by the State in which the municipality is located with respect to planning, design, construction, and operation of publicly owned treatment works and decentralized wastewater treatment systems.
 
@@ -78,7 +78,7 @@ The Administrator shall conduct research and technical development work, and mak
 
 &emsp;(C) provide, in addition to the program established under paragraph (1) of this subsection, training in technical matters relating to the causes, prevention, reduction, and elimination of pollution for personnel of public agencies and other persons with suitable qualifications.
 
-(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations onimproving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
+(4) The Administrator shall submit, through the President, a report to the Congress not later than December 31, 1973, summarizing the actions taken under this subsection and the effectiveness of such actions, and setting forth the number of persons trained, the occupational categories for which training was provided, the effectiveness of other Federal, State, and local training programs in this field, together with estimates of future needs, recommendations on improving training programs, and such other information and recommendations, including legislative recommendations, as he deems appropriate.
 
 #### (h) Lake pollution
 
@@ -174,13 +174,15 @@ Not later than 18 months after October 10, 2000, after consultation and in coope
 
 &emsp;(3) appropriate, accurate, expeditious, and cost-effective methods (including predictive models) for detecting in a timely manner in coastal recreation waters the presence of pathogens that are harmful to human health; and
 
-&emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
+&emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators tobe published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
 
 #### (w) Nonprofit organization
 
 For purposes of subsection (b)(8), the term "nonprofit organization" means a nonprofit organization that the Administrator determines, after consultation with the States regarding what small publicly owned treatments works in the State find to be most beneficial and effective, is qualified and experienced in providing on-site training and technical assistance to small publicly owned treatment works.
 
-(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amendedPub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, §4103, Oct. 23, 2018, 132 Stat. 3872.)
+(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 115–270, title IV, §4103, Oct. 23, 2018, 132 Stat. 3872.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -230,6 +232,8 @@ Subsec. (u)(4), (5), (6). Pub. L. 93–592, §1(d)–(f), substituted "June 30, 
 
 <b>1973</b>—Subsec. (u)(2). Pub. L. 93–207 substituted "fiscal years 1973 and 1974" for "fiscal year 1973".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States Geological Survey" substituted for "Geological Survey" in subsec. (a)(5) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
@@ -250,13 +254,19 @@ Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Columbia River Basin System; Protection From Oil Spills and Discharges; Criteria for Evaluation and Report to Congress by Commandant of Coast Guard in Consultation With Federal, Etc., Agencies
 
 Pub. L. 95–308, §8, June 30, 1978, 92 Stat. 359, set forth Congressional findings and declarations and evaluation criteria with respect to protection from oil spills and discharges and betterment of the Columbia River Basin system, with such evaluation by the Commandant of the Coast Guard to begin within 180 days after June 30, 1978, and immediate submission of the evaluation to appropriate Congressional committees.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Contiguous Zone of United States
 

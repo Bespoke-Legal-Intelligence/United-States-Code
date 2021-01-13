@@ -152,7 +152,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;&emsp;(C) consider the need to coordinate frequency use with other nations; and
 
-&emsp;&emsp;(D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and thebenefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
+&emsp;&emsp;(D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and the benefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
 
 #### (f) Additional reallocation report
 
@@ -202,7 +202,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 &emsp;&emsp;For purposes of subparagraph (A), comparable capability of systems—
 
-&emsp;&emsp;&emsp;(i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entitiesand incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
+&emsp;&emsp;&emsp;(i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entities and incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
 
 &emsp;&emsp;&emsp;(ii) includes the acquisition of state-of-the-art replacement systems intended to meet comparable operational scope, which may include incidental increases in functionality.
 
@@ -216,7 +216,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (5) Notice to congressional committees and GAO
 
-&emsp;The NTIA shall, at the time of providing an initial estimate of relocation or sharing costs to the Commission under paragraph (4)(A), submit to <sup>1</sup> Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation or sharing. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
+&emsp;The NTIA shall, at the time of providing an initial estimate of relocation or sharing costs to the Commission under paragraph (4)(A),submit to <sup>1</sup> Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation or sharing. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
 
 #### (6) Implementation of procedures
 
@@ -378,7 +378,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (F) Termination of board
 
-&emsp;&emsp;The dispute resolution board shall be terminated after it rules on the dispute that it was established to resolve and the time for appeal of its decision under paragraph (7) has expired, unless an appeal has been taken under such paragraph. If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.
+&emsp;&emsp;The dispute resolution board shall be terminated after it rules on the dispute that itwas established to resolve and the time for appeal of its decision under paragraph (7) has expired, unless an appeal has been taken under such paragraph. If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.
 
 #### (3) Procedures
 
@@ -427,6 +427,8 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 For purposes of this section, the term "Federal entity" means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
 (Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768; Pub. L. 108–494, title II, §202, Dec. 23, 2004, 118 Stat. 3991; Pub. L. 112–96, title VI, §6701(a), Feb. 22, 2012, 126 Stat. 245; Pub. L. 114–74, title X, §1005(b), (c), Nov. 2, 2015, 129 Stat. 623, 624.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -483,6 +485,8 @@ Subsec. (b)(3). Pub. L. 105–33, §3002(e)(2)(D), added par. (3).
 Subsec. (d)(4). Pub. L. 105–33, §3002(e)(3), substituted "initial report" for "final report".
 
 Subsecs. (f) to (i). Pub. L. 105–33, §3002(d)(1), added subsecs. (f) to (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Spectrum Management Authority Retained
 

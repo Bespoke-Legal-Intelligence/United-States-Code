@@ -4,6 +4,8 @@ The Library of Congress shall be arranged in two departments, a general library 
 
 (R.S. §81.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §81 derived from act July 14, 1832, ch. 221, §1, 4 Stat. 579.

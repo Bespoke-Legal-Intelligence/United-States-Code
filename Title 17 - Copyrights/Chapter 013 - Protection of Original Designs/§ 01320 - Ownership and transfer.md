@@ -18,6 +18,8 @@ Recordation of Transfer.—An assignment, grant, conveyance, or mortgage under s
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2913; amended Pub. L. 106–44, §1(f)(2), Aug. 5, 1999, 113 Stat. 222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–44 substituted "Acknowledgment" for "Acknowledgement" in heading.

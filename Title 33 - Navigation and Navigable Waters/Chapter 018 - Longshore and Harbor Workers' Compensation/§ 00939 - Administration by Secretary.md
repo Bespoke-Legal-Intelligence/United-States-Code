@@ -2,7 +2,7 @@
 
 #### (a) Prescribing rules and regulations; appointing and fixing compensation of employees; making expenditures
 
-Except as otherwise specifically provided, the Secretary shall administer the provisions of this chapter, and for such purpose the Secretary is authorized (1) to make such rules and regulations; (2) to appoint and fix the compensation of such temporary technical assistants and medical advisers, and, subject to the provisions of the civil service laws, to appoint, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of such deputy commissioners (except deputy commissioners appointed under subsection (a) of section 940 of this title) and other officers and employees; and (3) to make such expenditures (including expenditures for personal services and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and forprinting and binding) as may be necessary in the administration of this chapter. All expenditures of the Secretary in the administration of this chapter shall be allowed and paid as provided in section 945 <sup>1</sup> of this title upon the presentation of itemized vouchers therefor approved by the Secretary.
+Except as otherwise specifically provided, the Secretary shall administer the provisions of this chapter, and for such purpose the Secretary is authorized (1) to make such rules and regulations; (2) to appoint and fix the compensation of such temporary technical assistants and medical advisers, and, subject to the provisions of the civil service laws, to appoint, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of such deputy commissioners (except deputy commissioners appointed under subsection (a) of section 940 of this title) and other officers and employees; and (3) to make such expenditures (including expenditures for personal services and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and for printing and binding) as may be necessary in the administration of this chapter. All expenditures of the Secretary in the administration of this chapter shall be allowed and paid as provided in section 945 <sup>1</sup> of this title upon the presentation of itemized vouchers therefor approved by the Secretary.
 
 #### (b) Establishing compensation districts
 
@@ -15,6 +15,8 @@ The Secretary shall establish compensation districts, to include the high seas a
 (2) The Secretary shall direct the vocational rehabilitation of permanently disabled employees and shall arrange with the appropriate public or private agencies in States or Territories, possessions, or the District of Columbia for such rehabilitation. The Secretary may in his discretion furnish such prosthetic appliances or other apparatus made necessary by an injury upon which an award has been made under this chapter to render a disabled employee fit to engage in a remunerative occupation. Where necessary rehabilitation services are not available otherwise, the Secretary of Labor may, in his discretion, use the fund provided for in section 944 of this title in such amounts as may be necessary to procure such services, including necessary prosthetic appliance or other apparatus. This fund shall also be available in such amounts as may be authorized in annual appropriations for the Department of Labor for the costs of administering this subsection.
 
 (Mar. 4, 1927, ch. 509, §39, 44 Stat. 1442; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; July 26, 1956, ch. 735, §7, 70 Stat. 656; Pub. L. 92–576, §17, Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, §27(a)(2), (c), Sept. 28, 1984, 98 Stat. 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Subsecs. (b), (c)(2). Pub. L. 98–426, §27(a)(2), substituted "Secretary" for 
 <b>1956</b>—Subsec. (c). Act July 26, 1956, substituted "rehabilitation" for "education" at end of first sentence, and substituted last two sentences, relating to use of special fund where necessary rehabilitation services are not available, and availability of fund in amounts authorized annually for the Department of Labor for former sentence which provided that "If any surplus is left in any fiscal year in the fund provided for in section 944 of this title, such surplus may be used in subsequent fiscal years for the purposes of administration and investigation."
 
 <b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

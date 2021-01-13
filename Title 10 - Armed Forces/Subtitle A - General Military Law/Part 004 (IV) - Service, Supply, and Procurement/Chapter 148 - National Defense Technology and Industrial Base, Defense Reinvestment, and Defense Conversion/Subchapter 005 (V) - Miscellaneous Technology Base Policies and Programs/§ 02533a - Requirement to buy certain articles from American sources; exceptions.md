@@ -22,9 +22,9 @@ Covered Items.—An item referred to in subsection (a) is any of the following:
 
 &emsp;(2) Hand or measuring tools.
 
-&emsp;(3) <sup>1</sup> Stainless steel flatware.
+&emsp;(3) Stainless steel flatware.
 
-&emsp;(4) <sup>1</sup> Dinnerware.
+&emsp;(4) Dinnerware.
 
 (c)
 
@@ -48,7 +48,7 @@ Exception for Chemical Warfare Protective Clothing.—Subsection (a) does not pr
 
 &emsp;(1) such procurement is necessary—
 
-&emsp;&emsp;(A) to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements; or
+&emsp;&emsp;(A) to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government orUnited States firms under approved programs serving defense requirements; or
 
 &emsp;&emsp;(B) in furtherance of agreements with foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country; and
 
@@ -68,7 +68,9 @@ Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrument
 
 (h)
 
-Exception for Small Purchases.—Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title.
+Exception for Small Purchases.—(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+
+(2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
 
 (i)
 
@@ -84,15 +86,19 @@ Notification Required Within 7
 
 Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512; Pub. L. 116–283, div. A, title VIII, §817, Jan. 1, 2021, 134 Stat. 3751.)
 
-#### Delayed Applicability and Repeal of Subsection (b)(3) and (4)
+#### Transfer of Section
 
-<i>For delayed applicability of paragraphs (3) and (4) of subsection (b) of this section, see Effective Date of 2019 Amendment note below.</i>
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after section 4861, and redesignated as section 4862 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### Repeal of Subsection (b)(3) and (4)
 
 <i>Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that, effective Sept. 30, 2023, paragraphs (3) and (4) of subsection (b) of this section are repealed. See 2019 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h). Pub. L. 116–283 amended subsec. (h) generally. Prior to amendment, text read as follows: "Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title."
 
 <b>2019</b>—Subsec. (b)(3), (4). Pub. L. 116–92, §854(a)(3), struck out pars. (3) and (4) which added stainless steel flatware and dinnerware to the list of covered items.
 
@@ -138,9 +144,15 @@ Exceptions for Certain Other Commodities and Items.—Subsection (a) does not pr
 
 Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods", and added par. (2).
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1870(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title VIII, §854(a)(2), Dec. 20, 2019, 133 Stat. 1512, provided that: "Paragraphs (3) and (4) of section 2533a(b) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title VIII, §854(a)(2), Dec. 20, 2019, 133 Stat. 1512, as amended by Pub. L. 116–283, div. A, title XVIII, §1870(c)(5), Jan. 1, 2021, 134 Stat. 4285, provided that: "Paragraphs (3) and (4) of section 2533a(b) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act \[Dec. 20, 2019\]."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(c)(5), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 854(a)(2) of Pub. L. 116–92, set out above, is amended by substituting "section 4862(b)" for "section 2533a(b)".\]</i>
 
 Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that the amendment made by section 854(a)(3) is effective Sept. 30, 2023.
 
@@ -216,7 +228,7 @@ Inclusion of Information in New Training Programs.—The Secretary shall ensure 
 
 #### Application of Exception to Seafood Products
 
-Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(4), Dec. 19, 2014, 128 Stat. 3506, provided that: "Notwithstanding any other provision of law, section 2533a(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41, United States Code."
+Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(4), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 116–283, div. A, title XVIII, §1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4285, provided that: "Notwithstanding any other provision of law, section 2533a(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, orseafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41, United States Code."
 
-<i><sup>1</sup></i><i> See Delayed Applicability and Repeal of Subsection (b)(3) and (4) note below.</i>
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4151, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 8118 of Pub. L. 108–287, set out above, is amended by substituting "section 4862(f)" for "section 2533a(f)".\]</i>
 

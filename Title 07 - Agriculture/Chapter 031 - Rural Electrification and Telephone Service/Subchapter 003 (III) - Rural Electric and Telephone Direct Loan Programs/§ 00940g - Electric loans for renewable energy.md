@@ -2,7 +2,7 @@
 
 #### (a) Definition of renewable energy source
 
-In this section, the term "renewable energy source" means an energy conversion systemfueled from a solar, wind, hydropower, biomass, or geothermal source of energy.
+In this section, the term "renewable energy source" means an energy conversion system fueled from a solar, wind, hydropower, biomass, or geothermal source of energy.
 
 #### (b) Loans
 
@@ -20,5 +20,5 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

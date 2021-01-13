@@ -6,7 +6,7 @@ The Secretary shall maintain a central data base which provides an effective mea
 
 #### (b) Access
 
-The Secretary shall establish criteria, after an opportunity for public review and comment, foraccess to the data base which provides for appropriate use of the information by the public.
+The Secretary shall establish criteria, after an opportunity for public review and comment, for access to the data base which provides for appropriate use of the information by the public.
 
 (Pub. L. 102–440, title II, §203, Oct. 23, 1992, 106 Stat. 2233.)
 

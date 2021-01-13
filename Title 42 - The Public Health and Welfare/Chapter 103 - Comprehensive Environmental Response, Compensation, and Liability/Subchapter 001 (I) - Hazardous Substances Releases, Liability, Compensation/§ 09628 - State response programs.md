@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) purchase insurance or develop a risk sharing pool, an indemnity pool, or insurance mechanism to provide financing for response actions under a State response program; or
 
-&emsp;&emsp;&emsp;&emsp;(III) assist small communities, Indian tribes, rural areas, or disadvantagedareas in carrying out activities described in section 9604(k)(7)(A) of this title with respect to brownfield sites.
+&emsp;&emsp;&emsp;&emsp;(III) assist small communities, Indian tribes, rural areas, or disadvantaged areas in carrying out activities described in section 9604(k)(7)(A) of this title with respect to brownfield sites.
 
 #### (iii) Small communities, Indian tribes, rural areas, and disadvantaged areas
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(i) the State requests that the President provide assistance in the performance of a response action;
 
-&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contaminationhas migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
+&emsp;&emsp;&emsp;(ii) the Administrator determines that contamination has migrated or will migrate across a State line, resulting in the need for further response action to protect human health or the environment, or the President determines that contamination has migrated or is likely to migrate onto property subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States and may impact the authorized purposes of the Federal property;
 
 &emsp;&emsp;&emsp;(iii) after taking into consideration the response activities already taken, the Administrator determines that—
 
@@ -120,7 +120,7 @@
 
 #### (C) Public record
 
-&emsp;&emsp;The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
+&emsp;&emsp;The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistanceunder subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
 
 #### (D) EPA notification
 
@@ -202,5 +202,5 @@ The Safe Drinking Water Act, referred to in subsec. (c)(5), is title XIV of act 
 
 Subsec. (a)(1)(B)(iii), (iv). Pub. L. 115–141, §14(a)(2), added cls. (iii) and (iv).
 
-Subsec. (a)(3). Pub. L. 115–141, §15, amended par. (3) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006."
+Subsec. (a)(3). Pub. L. 115–141, §15, amended par. (3) generally. Prior to amendment, text read as follows:"There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006."
 

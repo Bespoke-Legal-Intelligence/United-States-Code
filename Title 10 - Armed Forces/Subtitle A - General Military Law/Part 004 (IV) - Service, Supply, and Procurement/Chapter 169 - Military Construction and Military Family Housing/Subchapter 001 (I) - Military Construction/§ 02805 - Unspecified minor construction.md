@@ -26,7 +26,7 @@ Laboratory Revitalization.—(1) For the revitalization and recapitalization of 
 
 (2) For purposes of this subsection, an unspecified minor military construction project is a military construction project that (notwithstanding subsection (a)) has an approved cost equal to or less than $6,000,000.
 
-(3) If the Secretary concerned makes a decision to carry out an unspecified minor military construction project to which this subsection applies, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title.
+(3) If the Secretary concerned makes a decision to carry out an unspecified minor militaryconstruction project to which this subsection applies, the Secretary concerned shall notify the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 14-day period beginning on the date the notification is received by the committees in an electronic medium pursuant to section 480 of this title.
 
 (4) In this subsection, the term "laboratory" includes—
 
@@ -54,11 +54,19 @@ Location of projects.—For purposes of paragraph (1), a project shall be consid
 
 &emsp;(3)
 
-Sunset.—The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2022.
+Sunset.—The requirements of this subsection shall not apply with respect to any fiscal year after fiscal year 2027.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. B, title XXVIII, §2802(a), (b), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 113–66, div. B, title XXVIII, §2801(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 113–291, div. B, title XXVIII, §2802, Dec. 19, 2014, 128 Stat. 3695; Pub. L. 114–328, div. B, title XXVIII, §2801, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. A, title II, §220(c)(2), div. B, title XXVIII, §§2801(a)(3), 2802, 2803, Dec. 12, 2017, 131 Stat. 1333, 1840, 1845, 1846; Pub. L. 116–92, div. A, title XVII, §1731(a)(55), Dec. 20, 2019, 133 Stat. 1815.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–136, div. A, title X, §1031(a)(36), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 110–181, div. B, title XXVIII, §§2803, 2804, Jan. 28, 2008, 122 Stat. 539; Pub. L. 111–84, div. B, title XXVIII, §2801(a)(1), (2), (b), Oct. 28, 2009, 123 Stat. 2660; Pub. L. 112–81, div. B, title XXVIII, §2802(a), (b), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 113–66, div. B, title XXVIII, §2801(a), Dec. 26, 2013, 127 Stat. 1006; Pub. L. 113–291, div. B, title XXVIII, §2802, Dec. 19, 2014, 128 Stat. 3695; Pub. L. 114–328, div. B, title XXVIII, §2801, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. A, title II, §220(c)(2), div. B, title XXVIII, §§2801(a)(3), 2802, 2803, Dec. 12, 2017, 131 Stat. 1333, 1840, 1845, 1846; Pub. L. 116–92, div. A, title XVII, §1731(a)(55), Dec. 20, 2019, 133 Stat. 1815; Pub. L. 116–283, div. A, title XVIII, §1843(c), div. B, title XXVIII, §2802, Jan. 1, 2021, 134 Stat. 4245, 4319.)
+
+#### Amendment of Subsection (d)(1)(B)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1843(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4245, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(1)(B) of this section is amended by striking "section 2363(a)" and inserting "section 4103(a)". See 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1)(B). Pub. L. 116–283, §1843(c), substituted "section 4103(a)" for "section 2363(a)".
+
+Subsec. (f)(3). Pub. L. 116–283, §2802, substituted "2027" for "2022".
 
 <b>2019</b>—Subsec. (d)(1)(B). Pub. L. 116–92 inserted "under" after "made available".
 
@@ -82,7 +90,7 @@ Subsec. (f). Pub. L. 115–91, §2803, added subsec. (f).
 
 Subsec. (d)(2). Pub. L. 114–328, §2801(a), (b)(1), substituted "$6,000,000" for "$4,000,000" in first sentence and struck out second sentence which read as follows: "The Secretary of Defense shall establish procedures for the review and approval of requests from the Secretary of a military department to carry out a construction project under this subsection."
 
-Subsec. (d)(3). Pub. L. 114–328, §2801(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a list and description of the construction projects carried out under this subsection, including the location and cost of each project."
+Subsec. (d)(3). Pub. L. 114–328, §2801(b)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not later than February 1, 2014, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority provided by this subsection. The report shall include a listand description of the construction projects carried out under this subsection, including the location and cost of each project."
 
 Subsec. (d)(5). Pub. L. 114–328, §2801(c), substituted "2025" for "2018".
 
@@ -110,7 +118,7 @@ Subsec. (d)(3). Pub. L. 112–81, §2802(b)(1), substituted "February 1, 2014" f
 
 Subsec. (d)(5). Pub. L. 112–81, §2802(b)(2), substituted "September 30, 2016" for "September 30, 2012".
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted "Within" for "Except as provided in paragraph\(2), within" in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: "A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year."
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §2801(a)(1), substituted "Within" for "Except as provided in paragraph (2), within" in par. (1), redesignated the second and third sentences of par. (1) as par. (2), and struck out former par. (2) which read as follows: "A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year."
 
 Subsec. (c). Pub. L. 111–84, §2801(a)(2), substituted "paragraph (2)" for "paragraphs (2) and (3)" in par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States."
 
@@ -180,6 +188,10 @@ Subsec. (c). Pub. L. 99–661, §2702(a)(3), substituted "$200,000" for "20 perc
 
 Subsec. (c). Pub. L. 99–167, §809(2), substituted "The" for "Only funds authorized for minor construction projects may be used to accomplish unspecified minor construction projects, except that the".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1843(c) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
@@ -194,7 +206,7 @@ Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 172
 
 #### Department of Defense Laboratory Revitalization Demonstration Program
 
-Pub. L. 104–106, div. B, title XXVIII, §2892, Feb. 10, 1996, 110 Stat. 590, as amended by Pub. L. 105–261, div.B, title XXVIII, §2871, Oct. 17, 1998, 112 Stat. 2225; Pub. L. 108–375, div. B, title XXVIII, §2891, Oct. 28, 2004, 118 Stat. 2154, provided that:
+Pub. L. 104–106, div. B, title XXVIII, §2892, Feb. 10, 1996, 110 Stat. 590, as amended by Pub. L. 105–261, div. B, title XXVIII, §2871, Oct. 17, 1998, 112 Stat. 2225; Pub. L. 108–375, div. B, title XXVIII, §2891, Oct. 28, 2004, 118 Stat. 2154, provided that:
 
 "(a)
 

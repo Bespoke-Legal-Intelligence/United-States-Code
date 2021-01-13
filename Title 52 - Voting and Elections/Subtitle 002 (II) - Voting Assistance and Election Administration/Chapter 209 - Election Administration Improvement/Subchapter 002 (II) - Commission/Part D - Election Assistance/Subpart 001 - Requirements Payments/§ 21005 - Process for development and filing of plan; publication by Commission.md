@@ -6,9 +6,11 @@ The chief State election official shall develop the State plan under this part t
 
 #### (b) Publication of plan by Commission
 
-After receiving the State plan of a State under this part, the Commission shall cause to havethe plan posted on the Commission's website with a notice published in the Federal Register.
+After receiving the State plan of a State under this part, the Commission shall cause to have the plan posted on the Commission's website with a notice published in the Federal Register.
 
 (Pub. L. 107–252, title II, §255, Oct. 29, 2002, 116 Stat. 1697; Pub. L. 112–74, div. C, title VI, §622(1), Dec. 23, 2011, 125 Stat. 926.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

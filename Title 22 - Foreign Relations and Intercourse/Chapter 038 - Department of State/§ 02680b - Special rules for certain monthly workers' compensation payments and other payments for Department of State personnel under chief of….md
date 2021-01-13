@@ -4,7 +4,7 @@
 
 #### (1) Increase
 
-&emsp;The Secretary of State may pay an additional monthly monetary benefit, providedthat the covered employee is receiving benefits under section 8105 or 8106 of title 5, and may determine the amount of each monthly monetary benefit amount by taking into account—
+&emsp;The Secretary of State or the head of any other Federal agency may pay an additional monthly monetary benefit, provided that the covered employee is receiving benefits under section 8105 or 8106 of title 5, and may determine the amount of each monthly monetary benefit amount by taking into account—
 
 &emsp;&emsp;(A) the severity of the qualifying injury;
 
@@ -26,7 +26,7 @@ The Secretary of State may pay the costs of or reimburse for diagnosing and trea
 
 #### (c) Information exchange
 
-To avoid duplicate or otherwise improper payments under this subsection, the Secretary of Labor and the Secretary of State shall exchange information about the amounts paid for treatment of qualifying injuries.
+To avoid duplicate or otherwise improper payments under this subsection, the Secretary of Labor, the Secretary of State, and, as appropriate, the head of any other Federal agency paying benefits under this section shall exchange information about the amounts paid for treatment of qualifying injuries.
 
 #### (d) Regulations
 
@@ -50,7 +50,7 @@ In this section:
 
 #### (2) Covered employee
 
-&emsp;The term "covered employee" means an employee of the Department of State who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People's Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f).
+&emsp;The term "covered employee" means an employee of the Federal Government who, on or after January 1, 2016, becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People's Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f), but does not include an individual receiving compensation under section 3519b of title 50.
 
 #### (3) Covered individual
 
@@ -86,7 +86,7 @@ The Secretary of State may designate another foreign country for the purposes of
 
 &emsp;(1) provides to the Committees on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives 30 days' notice of the designation of a particular additional country or duty station and the rationale for such addition; and
 
-&emsp;(2) provides no such additional monetary benefit pursuant to subsection (a) or (b) tocovered employees, covered dependents, or covered individuals for a qualifying injury until the 30-day notice period expires, unless there is written agreement by both the Chair and Ranking Members of both the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that there is no objection to proceeding with provision of such monetary benefit compensation in less than 30 days.
+&emsp;(2) provides no such additional monetary benefit pursuant to subsection (a) or (b) to covered employees, covered dependents, or covered individuals for a qualifying injury until the 30-day notice period expires, unless there is written agreement by both the Chair and Ranking Members of both the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that there is no objection to proceeding with provision of such monetary benefit compensation in less than 30 days.
 
 #### (g) Treatment of amounts
 
@@ -104,9 +104,25 @@ For purposes of section 104 of title 26, amounts paid pursuant to this section s
 
 #### (2) Rule of construction
 
-&emsp;Nothing in this section shall modify or otherwise supersede chapter 81 of title 5 or chapter 11 of title 42. Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers' compensation law.
+&emsp;Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act (42 U.S.C. 1651 et seq.), or section 3519b of title 50. Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers' compensation law.
 
-(Pub. L. 116–94, div. J, title IX, §901, Dec. 20, 2019, 133 Stat. 3079.)
+(Pub. L. 116–94, div. J, title IX, §901, Dec. 20, 2019, 133 Stat. 3079; Pub. L. 116–283, div. A, title XI, §1110, Jan. 1, 2021, 134 Stat. 3892.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Defense Base Act, referred to in subsec. (h)(2), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §1110(1), inserted "or the head of any other Federal agency" after "The Secretary of State" in introductory provisions.
+
+Subsec. (c). Pub. L. 116–283, §1110(2), substituted ", the Secretary of State, and, as appropriate, the head of any other Federal agency paying benefits under this section" for "and the Secretary of State".
+
+Subsec. (e)(2). Pub. L. 116–283, §1110(3), substituted "the Federal Government" for "the Department of State" and inserted ", but does not include an individual receiving compensation under section 3519b of title 50" before period at end.
+
+Subsec. (h)(2). Pub. L. 116–283, §1110(4), substituted "Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act (42 U.S.C. 1651 et seq.), or section 3519b of title 50." for "Nothing in this section shall modify or otherwise supersede chapter 81 of title 5 or chapter 11 of title 42."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

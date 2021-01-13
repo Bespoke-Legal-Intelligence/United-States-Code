@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term "accepted card or other means of access" means a card, code, or other means of access to a consumer's account for the purpose of initiating electronic fund transferswhen the person to whom such card or other means of access was issued has requested and received or has signed or has used, or authorized another to use, such card or other means of access for the purpose of transferring money between accounts or obtaining money, property, labor, or services;
+&emsp;(1) the term "accepted card or other means of access" means a card, code, or other means of access to a consumer's account for the purpose of initiating electronic fund transfers when the person to whom such card or other means of access was issued has requested and received or has signed or has used, or authorized another to use, such card or other means of access for the purpose of transferring money between accounts or obtaining money, property, labor, or services;
 
 &emsp;(2) the term "account" means a demand deposit, savings deposit, or other asset account (other than an occasional or incidental credit balance in an open end credit plan as defined in section 1602(i) <sup>1</sup> of this title), as described in regulations of the Bureau, established primarily for personal, family, or household purposes, but such term does not include an account held by a financial institution pursuant to a bona fide trust agreement;
 

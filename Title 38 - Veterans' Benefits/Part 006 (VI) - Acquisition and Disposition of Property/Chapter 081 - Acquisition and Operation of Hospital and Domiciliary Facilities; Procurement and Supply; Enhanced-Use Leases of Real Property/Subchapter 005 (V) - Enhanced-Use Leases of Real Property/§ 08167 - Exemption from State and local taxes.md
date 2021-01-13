@@ -2,13 +2,15 @@
 
 (a)
 
-Improvements and Operations Not Exempted.—The improvements and operations on land leased by a person with an enhanced-use lease from the Secretary shall be subject to allapplicable provisions of Federal, State, or local law relating to taxation, fees, and assessments.
+Improvements and Operations Not Exempted.—The improvements and operations on land leased by a person with an enhanced-use lease from the Secretary shall be subject to all applicable provisions of Federal, State, or local law relating to taxation, fees, and assessments.
 
 (b)
 
 Underlying Fee Title Interest Exempted.—The underlying fee title interest of the United States in any land subject to an enhanced-use lease shall not be subject, directly or indirectly, to any provision of State or local law relating to taxation, fees, or assessments.
 
 (Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 112—154, title II, §211(h), Aug. 6, 2012, 126 Stat. 1181.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -26,7 +26,7 @@ The Secretary is authorized to take the following actions:
 
 &emsp;&emsp;(B) contracts for project rental assistance in accordance with subsection (d)(2);
 
-> &emsp;assistance under this paragraph may be used to finance the acquisition, acquisition and moderate rehabilitation, construction, reconstruction, or moderate or substantial rehabilitation of housing, including the acquisition from the Resolution Trust Corporation, to be used as supportive housing for persons with disabilities and may include real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for persons with disabilities.
+> &emsp;assistance under this paragraph may be used to finance the acquisition, acquisition and moderate rehabilitation, construction, reconstruction, or moderate or substantial rehabilitation of housing, including the acquisition from the Resolution Trust Corporation, to be used as supportive housing for persons with disabilities and may include real property acquisition, site improvement, conversion, demolition, relocation, and other expenses thatthe Secretary determines are necessary to expand the supply of supportive housing for persons with disabilities.
 
 #### (3) Project rental assistance
 
@@ -146,7 +146,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (C) Requirements upon turnover
 
-&emsp;&emsp;The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 1437f(o) of this title for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incremental vouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
+&emsp;&emsp;The Secretary shall develop and issue, to public housing agencies that receive voucher assistance made available under this subsection and to public housing agencies that received voucher assistance under section 1437f(o) of this title for non-elderly disabled families pursuant to appropriation Acts for fiscal years 1997 through 2002 or any other subsequent appropriations for incrementalvouchers for non-elderly disabled families, guidance to ensure that, to the maximum extent possible, such vouchers continue to be provided upon turnover to qualified persons with disabilities or to qualified non-elderly disabled families, respectively.
 
 #### (e) Program requirements
 
@@ -234,7 +234,7 @@ Funds made available under subsection (b)(2) shall be allocated by the Secretary
 
 #### (2) Delegated processing
 
-&emsp;(A) In issuing a capital advance under subsection (d)(1) for any multifamily project (but not including any project that is a group home or independent living facility) for which financing for the purposes described in the last sentence of subsection (b) is provided by acombination of the capital advance and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
+&emsp;(A) In issuing a capital advance under subsection (d)(1) for any multifamily project (but not including any project that is a group home or independent living facility) for which financing for the purposes described in the last sentence of subsection (b) is provided by a combination of the capital advance and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—
 
 &emsp;&emsp;(i) is in geographic proximity to the property;
 
@@ -352,7 +352,7 @@ Funds made available under subsection (b)(2) shall be allocated by the Secretary
 
 #### (B) Termination of tenancy
 
-&emsp;&emsp;An owner may not terminate the tenancy or refuse to renew the lease of a tenant of a rental dwelling unit assisted under this section except—
+&emsp;&emsp;An owner may not terminate the tenancy or refuse to renew the lease of a tenant of arental dwelling unit assisted under this section except—
 
 &emsp;&emsp;&emsp;(i) for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause; and
 
@@ -416,7 +416,7 @@ As used in this section—
 
 &emsp;&emsp;(B) are located in housing that make available supportive services that address the individual health, mental health, or other needs of such persons.
 
-&emsp;(4) The term "independent living facility" means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe) inseparate dwelling units where each dwelling unit includes a kitchen and a bath. Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit.
+&emsp;(4) The term "independent living facility" means a project designed for occupancy by not more than 24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe) in separate dwelling units where each dwelling unit includes a kitchen and a bath. Not later than the date that the Secretary prescribes a limit exceeding the 24 person limit in the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the limit or the intention to prescribe a limit in excess of 24 persons, together with a detailed explanation of the reason for the new limit.
 
 &emsp;(5) The term "owner" means a private nonprofit organization that receives assistance under this section to develop and operate supportive housing for persons with disabilities.
 
@@ -468,15 +468,29 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 #### (3) Coordination
 
-&emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
+&emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the timeof loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098; Pub. L. 116–260, div. Q, title I, §101(d), Dec. 27, 2020, 134 Stat. 2164.)
+
+#### Amendment of Subsection (j)
+
+<i>Pub. L. 116–260, div. Q, title I, §101(d), (h), Dec. 27, 2020, 134 Stat. 2164, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:</i>
+
+#### <i>"(7) Carbon monoxide alarms</i>
+
+&emsp;<i>"Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—</i>
+
+&emsp;&emsp;<i>"(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or</i>
+
+&emsp;&emsp;<i>"(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register."</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### References in Text
 
 The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), is title II of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4094, which is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(3)(D) and (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title.For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(3)(D) and (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The amendments made by such Act, referred to in subsec. (b)(3)(F)(ii), probably means the amendments made by Pub. L. 111–374, Jan. 4, 2011, 124 Stat. 4089, known as the Frank Melville Supportive Housing Investment Act of 2010, which amended this section. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 8001 of this title and Tables.
 
@@ -497,6 +511,8 @@ In subsec. (j)(6)(A), "sections 3141–3144, 3146, and 3147 of title 40" substit
 November 28, 1990, referred to in subsecs. (l)(2) and (n)(2), was in the original "the enactment of this Act" and "the date of enactment of this Act", respectively, see Enactment of Section note below.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j)(7). Pub. L. 116–260 added par. (7).
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–374, §5(1)(B)(i), substituted "makes available" for "provides".
 
@@ -526,7 +542,7 @@ Subsec. (e). Pub. L. 111–374, §3(b)(1)(A), substituted "Program requirements"
 
 Subsec. (e)(1). Pub. L. 111–374, §3(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "All units in housing assisted under subsection (b)(2) shall be made available for occupancy by very low-income persons with disabilities for not less than 40 years."
 
-Subsec. (e)(2). Pub. L. 111–374, §3(a)(2), inserted ", except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of title 26 or with any tax-exempt housing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months" after "240 months" and substituted "upon expiration of a contract (or any renewed contract), renew such contract" for "extend any expiring contract".
+Subsec. (e)(2). Pub. L. 111–374, §3(a)(2), inserted ", except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of title 26 or with any tax-exempthousing bonds, the contract shall have an initial term of not less than 360 months and shall provide funding for a term of 60 months" after "240 months" and substituted "upon expiration of a contract (or any renewed contract), renew such contract" for "extend any expiring contract".
 
 Subsec. (e)(3), (4). Pub. L. 111–374, §3(b)(1)(C), added pars. (3) and (4).
 
@@ -556,7 +572,7 @@ Subsec. (h)(6). Pub. L. 111–374, §3(f)(3), added par. (6).
 
 Subsec. (i). Pub. L. 111–374, §3(e), added subsec. (i) and struck out former subsec. (i) which related to tenant selection.
 
-Subsec. (j)(4) to (7). Pub. L. 111–374, §5(6), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text ofpar. (4) read as follows: "The Secretary may require an owner to deposit an amount not to exceed $10,000 in a special escrow account to assure the owner's commitment to the housing."
+Subsec. (j)(4) to (7). Pub. L. 111–374, §5(6), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Secretary may require an owner to deposit an amount not to exceed $10,000 in a special escrow account to assure the owner's commitment to the housing."
 
 Subsec. (k)(1). Pub. L. 111–374, §5(7)(A), inserted ", which provides a separate bedroom for each tenant of the residence" before period at end of first sentence.
 
@@ -644,6 +660,10 @@ Subsec. (l)(3). Pub. L. 102–550, §601(d)(4), redesignated par. (2) as (3).
 
 <b>1991</b>—Subsec. (k)(4). Pub. L. 102–27 substituted "24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe)" for "20 persons with disabilities".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under section 1701q of Title 12, Banks and Banking.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by title VIII of Pub. L. 106–569 effective Dec. 27, 2000, unless effectiveness or applicability upon another date certain is specifically provided for, with provisions relating to effect of regulatory authority, see section 803 of Pub. L. 106–569, set out as a note under section 1701q of Title 12, Banks and Banking.
@@ -656,13 +676,17 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under section 1701q of Title 12, Banks and Banking.
 
+#### Construction of 2020 Amendment
+
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of div. Q of Pub. L. 116–260, set out as a note under section 1437a of this title.
+
 #### Inapplicability of Certain 1992 Amendments to Indian Public Housing
 
 Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to lower income housing developed or operated pursuant to contract between Secretary of Housing and Urban Development and Indian housing authority, see section 626 of Pub. L. 102–550, set out as a note under section 1437a of this title.
 
 #### Provision of Technical Assistance
 
-Pub. L. 111–374, §2(b), Jan. 4, 2011, 124 Stat. 4090, provided that: "The Secretary is authorized to the extent amounts are made available in future appropriations Acts, to provide technical assistance to public housing agencies and other administering entities to facilitate using vouchers to provide permanent supportive housing for persons with disabilities, help States reduce reliance on segregated restrictive settings for people with disabilities to meet community care requirements, end chronic homelessness, as 'chronically homeless' is defined in section 401 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361), and for other related purposes."
+Pub. L. 111–374, §2(b), Jan. 4, 2011, 124 Stat. 4090, provided that: "The Secretary is authorized to the extentamounts are made available in future appropriations Acts, to provide technical assistance to public housing agencies and other administering entities to facilitate using vouchers to provide permanent supportive housing for persons with disabilities, help States reduce reliance on segregated restrictive settings for people with disabilities to meet community care requirements, end chronic homelessness, as 'chronically homeless' is defined in section 401 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361), and for other related purposes."
 
 #### Rental Assistance Contract Obligations
 

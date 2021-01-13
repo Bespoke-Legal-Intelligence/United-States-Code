@@ -78,7 +78,7 @@ Section was formerly classified to section 294n of this title prior to renumberi
 
 Subsec. (c)(1). Pub. L. 111–87, §2(f)(1)(A), substituted "are authorized" for "is authorized" and inserted ", $36,535,000 for fiscal year 2010, $38,257,000 for fiscal year 2011, $40,170,000 for fiscal year 2012, and $42,178,000 for fiscal year 2013" before period at end.
 
-Subsec. (c)(2). Pub. L. 111–87, §2(f)(1)(B), substituted "are authorized" for "is authorized" and inserted ", $13,650,000 for fiscal year 2010, $14,333,000 for fiscalyear 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013" before period at end.
+Subsec. (c)(2). Pub. L. 111–87, §2(f)(1)(B), substituted "are authorized" for "is authorized" and inserted ", $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013" before period at end.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
@@ -114,7 +114,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted "and" after sem
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: "to train practitioners to provide for the health care needs of such individuals;".
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section:
 

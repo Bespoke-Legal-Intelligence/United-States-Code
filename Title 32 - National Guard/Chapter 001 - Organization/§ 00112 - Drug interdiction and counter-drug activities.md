@@ -26,7 +26,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 &emsp;(iii) The performance of the activities will not result in a significant increase in the cost of training.
 
-&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unitorganized to serve as a unit, the activities will support valid unit training requirements.
+&emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
 
 (3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
 
@@ -101,6 +101,8 @@ Definitions.—For purposes of this section:
 &emsp;(3) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
 (Added Pub. L. 101–189, div. A, title XII, §1207(a)(1), Nov. 29, 1989, 103 Stat. 1564; amended Pub. L. 102–25, title VII, §703, Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–396, title IX, §9099A, Oct. 6, 1992, 106 Stat. 1926; Pub. L. 104–106, div. A, title X, §1021, Feb. 10, 1996, 110 Stat. 426; Pub. L. 104–208, div. C, title VI, §660, Sept. 30, 1996, 110 Stat. 3009–720; Pub. L. 105–85, div. A, title X, §1031, Nov. 18, 1997, 111 Stat. 1880; Pub. L. 105–261, div. A, title X, §1022, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 106–65, div. A, title X, §1021, Oct. 5, 1999, 113 Stat. 746; Pub. L. 108–375, div. A, title IV, §416(k), Oct. 28, 2004, 118 Stat. 1869.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -187,6 +189,8 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 &emsp;"(A) the Attorney General of the United States in the case of a plan submitted for fiscal year 1990; and
 
 &emsp;"(B) the Director of National Drug Control Policy in the case of a plan submitted for subsequent fiscal years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

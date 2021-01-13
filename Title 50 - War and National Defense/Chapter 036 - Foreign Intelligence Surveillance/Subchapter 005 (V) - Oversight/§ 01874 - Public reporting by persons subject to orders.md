@@ -20,9 +20,9 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;&emsp;&emsp;(i) subchapter III;
 
-&emsp;&emsp;&emsp;(ii) subchapter IV with respect to applications described in section 1861(b)(2)(B) of this title; and
+&emsp;&emsp;&emsp;(ii) subchapter IV with respect to applications described in section 1861(b)(2)(B) <sup>1</sup> of this title; and
 
-&emsp;&emsp;&emsp;(iii) subchapter IV with respect to applications described in section 1861(b)(2)(C) of this title.
+&emsp;&emsp;&emsp;(iii) subchapter IV with respect to applications described in section 1861(b)(2)(C) <sup>1</sup> of this title.
 
 &emsp;(2) A semiannual report that aggregates the number of orders, directives, or national security letters with which the person was required to comply into separate categories of—
 
@@ -56,7 +56,7 @@ A person subject to a nondisclosure requirement accompanying an order or directi
 
 &emsp;(A) relating to national security letters for the previous 180 days; and
 
-&emsp;(B) relating to authorities under this chapter for the 180-day period of time ending on the date that is not less than 180 days prior to the date of the publication of such report, except that with respect to a platform, product, or service for which a person did not previously receive an order or directive (not including an enhancement to or iteration of an existing publicly available platform, product, or service) such report shall not include any information relating to such new order or directiveuntil 540 days after the date on which such new order or directive is received.
+&emsp;(B) relating to authorities under this chapter for the 180-day period of time ending on the date that is not less than 180 days prior to the date of the publication of such report, except that with respect to a platform, product, or service for which a person did not previously receive an order or directive (not including an enhancement to or iteration of an existing publicly available platform, product, or service) such report shall not include any information relating to such new order or directive until 540 days after the date on which such new order or directive is received.
 
 (2) A report described in paragraph (3) of subsection (a) shall include only information relating to the previous 180 days.
 
@@ -84,9 +84,13 @@ In this section:
 
 This chapter, referred to in subsecs. (a) and (b)(1)(B), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
+Section 1861(b)(2)(B), (C) of this title, referred to in subsec. (a)(1)(F)(ii), (iii), means section 1861(b)(2)(B), (C) of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1)(D). Pub. L. 115–118, §205(a)(4)(A), substituted "contents," for "contents".
 
 Subsec. (a)(3). Pub. L. 115–118, §205(a)(4)(B), substituted "comply into" for "comply in the into" in introductory provisions.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

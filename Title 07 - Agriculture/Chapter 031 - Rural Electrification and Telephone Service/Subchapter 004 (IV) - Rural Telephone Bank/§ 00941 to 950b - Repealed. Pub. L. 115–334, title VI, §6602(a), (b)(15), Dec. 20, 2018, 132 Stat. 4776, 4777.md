@@ -32,5 +32,5 @@ Pub. L. 100–203, title I, §1411(a), Dec. 22, 1987, 101 Stat. 1330–22, which
 
 #### Prepayment Regulations
 
-Pub. L. 100–203, title I, §1411(b)(2), Dec. 22, 1987, 101 Stat. 1330–23, which directed the Governor of the Rural Telephone Bank to issue regulations to carry out the amendment to this section by section 1411(b)(1) of Pub. L. 100–203 and was formerly set out as a note under section 948 of this title, was repealed by Pub. L. 115–334, title VI, §6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
+Pub. L. 100–203, title I, §1411(b)(2), Dec. 22, 1987, 101 Stat. 1330–23, which directed the Governor of the RuralTelephone Bank to issue regulations to carry out the amendment to this section by section 1411(b)(1) of Pub. L. 100–203 and was formerly set out as a note under section 948 of this title, was repealed by Pub. L. 115–334, title VI, §6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.
 

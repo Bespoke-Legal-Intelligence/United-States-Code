@@ -184,11 +184,11 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the termfor which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in MACPAC shall be filled in the manner in which the original appointment was made.
 
 #### (4) Compensation
 
-&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -256,13 +256,13 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (B) Transfer of funds
 
-&emsp;&emsp;Notwithstanding section 1397dd(a)(13) of this title, from the amounts appropriated insuch section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
+&emsp;&emsp;Notwithstanding section 1397dd(a)(13) of this title, from the amounts appropriated in such section for fiscal year 2010, $2,000,000 is hereby transferred and made available in such fiscal year to MACPAC to carry out the provisions of this section.
 
 #### (4) Availability
 
 &emsp;Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
+(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II,§2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
 
 #### References in Text
 
@@ -322,7 +322,7 @@ Pub. L. 111–3, §3, Feb. 4, 2009, 123 Stat. 10, provided that:
 
 "(a)
 
-General Effective Date.—Unless otherwise provided in this Act \[enacting this section and sections 247d–9, 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title and section 657p of Title 15, Commerce and Trade, transferring former section 1396 of this title to section 1396–1 of this title, amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, section 1514 of Title 19, Customs Duties, sections 5701 to 5703, 5712, 5713, 5721 to 5723, 5741, 6103, and 9801 of Title 26, Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, enacting provisions set out as notes under this section and sections 1305, 1396a, 1396b, 1396d, 1396u–7, 1396u–8, 1396w–2, 1397bb to 1397ee, 1397gg, and 1397hh of this title, section 1514 of Title 19, sections 5701 to 5703, 5711, 5712, 6103, and 6655 of Title 26, and section 1181 of Title 29, amending provisions set out as a note under section 1397gg of this title, and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\], subject to subsections (b)through (d), this Act (and the amendments made by this Act) shall take effect on April 1, 2009, and shall apply to child health assistance and medical assistance provided on or after that date.
+General Effective Date.—Unless otherwise provided in this Act \[enacting this section and sections 247d–9, 1320b–9a, 1396e–1, 1396w–2, and 1397kk to 1397mm of this title and section 657p of Title 15, Commerce and Trade, transferring former section 1396 of this title to section 1396–1 of this title, amending sections 300gg, 1308, 1320b–9, 1320b–9a, 1396a, 1396b, 1396r–1, 1396r–4, 1396u–7, 1397bb to 1397ee, and 1397gg to 1397jj of this title, section 1514 of Title 19, Customs Duties, sections 5701 to 5703, 5712, 5713, 5721 to 5723, 5741, 6103, and 9801 of Title 26, Internal Revenue Code, and sections 1022, 1132, and 1181 of Title 29, Labor, enacting provisions set out as notes under this section and sections 1305, 1396a, 1396b, 1396d, 1396u–7, 1396u–8, 1396w–2, 1397bb to 1397ee, 1397gg, and 1397hh of this title, section 1514 of Title 19, sections 5701 to 5703, 5711, 5712, 6103, and 6655 of Title 26, and section 1181 of Title 29, amending provisions set out as a note under section 1397gg of this title, and repealing provisions set out as notes under sections 1397aa and 1397ee of this title\], subject to subsections (b) through (d), this Act (and the amendments made by this Act) shall take effect on April 1, 2009, and shall apply to child health assistance and medical assistance provided on or after that date.
 
 "(b)
 
@@ -378,7 +378,7 @@ Pub. L. 111–3, title V, §506(c), Feb. 4, 2009, 123 Stat. 95, provided that: "
 
 #### No Federal Funding for Illegal Aliens; Disallowance for Unauthorized Expenditures
 
-Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, as amended by Pub. L. 111–148, title II, §2102(a)(2), Mar. 23, 2010, 124 Stat. 288, provided that: "Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the SocialSecurity Act \[42 U.S.C. 1301 et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively."
+Pub. L. 111–3, title VI, §605, Feb. 4, 2009, 123 Stat. 100, as amended by Pub. L. 111–148, title II, §2102(a)(2), Mar. 23, 2010, 124 Stat. 288, provided that: "Nothing in this Act \[see Effective Date note above\] allows Federal payment for individuals who are not lawfully residing in the United States. Titles XI, XIX, and XXI of the Social Security Act \[42 U.S.C. 1301 et seq., 1396 et seq., 1397aa et seq.\] provide for the disallowance of Federal financial participation for erroneous expenditures under Medicaid and under CHIP, respectively."
 
 #### Definitions
 

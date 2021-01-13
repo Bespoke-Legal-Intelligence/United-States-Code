@@ -34,11 +34,11 @@ Reduction of Annuity for Retired Employee.—(1) The Secretary may order that th
 
 &emsp;(C) the Secretary issues the order—
 
-&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph\(B)(ii), not later than five business days after receiving the response of the individual; or
+&emsp;&emsp;(i) in the case of a proposed order to which an individual responds under subparagraph (B)(ii), not later than five business days after receiving the response of the individual; or
 
 &emsp;&emsp;(ii) in the case of a proposed order to which an individual does not respond, not later than 15 business days after the Secretary provides notice to the individual under subparagraph (B)(i).
 
-(2) Upon the issuance of an order by the Secretary under paragraph (1), the individual shall have an opportunity to appeal the order to the Director of the Office of Personnel Management before the date that is seven business days after the date of such issuance.
+(2) Upon the issuance of an order by the Secretary under paragraph (1), the individual shall have an opportunity to appeal the order to the Director of the Office of Personnel Managementbefore the date that is seven business days after the date of such issuance.
 
 (3) The Director of the Office of Personnel Management shall make a final decision with respect to an appeal under paragraph (2) within 30 business days of receiving the appeal.
 
@@ -68,9 +68,13 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–41, title II, §203(a)(1), June 23, 2017, 131 Stat. 873.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 719 and 720 were renumbered sections 1919 and 1920 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

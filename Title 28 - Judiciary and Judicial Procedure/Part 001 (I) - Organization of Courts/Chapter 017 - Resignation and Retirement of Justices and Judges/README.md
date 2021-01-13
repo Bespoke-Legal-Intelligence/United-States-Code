@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273, div. C, title I, §11043(a)(2), Nov. 2, 2002, 116 Stat. 1855, struck out "; judicial discipline" after "failure to retire" in item 372.
@@ -40,6 +42,8 @@ Pub. L. 100–659, §2(b), Nov. 15, 1988, 102 Stat. 3916, added item 377.
 <b>1954</b>—Act Aug. 28, 1954, ch. 1053, §2, 68 Stat. 918, added item 375.
 
 Act Feb. 10, 1954, ch. 6, §4(b), 68 Stat. 13, transferred "; substitute judge on failure to retire" from item 371 to item 372.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

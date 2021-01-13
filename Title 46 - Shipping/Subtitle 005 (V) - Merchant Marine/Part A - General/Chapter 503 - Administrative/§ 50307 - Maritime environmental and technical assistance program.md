@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the marine transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
+In General.—The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
 
 (b)
 
@@ -36,9 +36,13 @@ Assistance.—The Secretary of Transportation may accept gifts, or enter into co
 
 Limitations on the Use of Funds.—Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
 
-(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969.)
+(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "maritime transportation" for "marine transportation".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3503(1), substituted "The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study" for "The Secretary of Transportation may engage in the environmental study".
 

@@ -32,7 +32,7 @@ Subsec. (a)(1). Pub. L. 109–364, §2851(b)(3)(C), substituted "section 2917" f
 
 &emsp;"(2) after the Committees on Armed Services and on Appropriations of the Senate and House of Representatives have been notified of the terms of the proposed contract, including the dollar amount of the contract and the amount of energy or fuel to be delivered to the Government under the contract".
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–26, which directed that "The term" be inserted in each paragraph after theparagraph designation and the first word after the first quotation marks in each paragraph be revised so that the initial letter of such word is lowercase, could not be executed because subsec. (c) contained no paragraphs and no quoted words. The probable intent of Congress was to amend section 2393(c) of this title.
+<b>1987</b>—Subsec. (c). Pub. L. 100–26, which directed that "The term" be inserted in each paragraph after the paragraph designation and the first word after the first quotation marks in each paragraph be revised so that the initial letter of such word is lowercase, could not be executed because subsec. (c) contained no paragraphs and no quoted words. The probable intent of Congress was to amend section 2393(c) of this title.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–321, §805(b)(3)(A), substituted "subsection (b)" for "subsection (c)".
 

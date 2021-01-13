@@ -20,7 +20,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;The Director of NIH, acting through the Office of the Director of NIH, may approve an application for a grant under subsection (a) only if the Board has under paragraph (2) recommended the application for approval.
+&emsp;&emsp;The Director of NIH, acting through the Office of the Director of NIH, may approvean application for a grant under subsection (a) only if the Board has under paragraph (2) recommended the application for approval.
 
 #### (2) Duties
 

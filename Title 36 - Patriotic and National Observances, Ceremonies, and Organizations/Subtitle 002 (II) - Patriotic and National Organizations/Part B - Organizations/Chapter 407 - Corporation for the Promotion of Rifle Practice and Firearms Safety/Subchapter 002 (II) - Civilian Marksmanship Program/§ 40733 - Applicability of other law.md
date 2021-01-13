@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 Feb. 10, 1996, Pub. L. 104–106, title XVI, §1614(e)(2), 110 Stat. 518.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b), section" for "Section", and added subsec. (b).

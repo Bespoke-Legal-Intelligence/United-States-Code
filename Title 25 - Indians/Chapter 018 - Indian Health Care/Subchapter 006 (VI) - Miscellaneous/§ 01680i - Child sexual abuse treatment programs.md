@@ -10,6 +10,8 @@ Beginning October 1, 1995, the Secretary and the Secretary of the Interior may e
 
 (Pub. L. 94–437, title VIII, §819, formerly title VII, §719, as added Pub. L. 100–713, title VII, §715, Nov. 23, 1988, 102 Stat. 4836; renumbered title VIII, §819, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §806, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–573, §806, amended section generally. Prior to amendment, section read as follows:

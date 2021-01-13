@@ -18,7 +18,7 @@ Upon the appointment of the Corporation under section 5382 of this title, the Co
 
 The Corporation, as receiver—
 
-&emsp;(1) shall consult with the primary financial regulatory agency or agencies of the covered financial company and its covered subsidiariesfor purposes of ensuring an orderly liquidation of the covered financial company;
+&emsp;(1) shall consult with the primary financial regulatory agency or agencies of the covered financial company and its covered subsidiaries for purposes of ensuring an orderly liquidation of the covered financial company;
 
 &emsp;(2) may consult with, or under subsection (a)(1)(B)(v) or (a)(1)(L) of section 5390 of this title, acquire the services of, any outside experts, as appropriate to inform and aid the Corporation in the orderly liquidation process;
 
@@ -52,6 +52,8 @@ Upon its appointment as receiver for a covered financial company, and thereafter
 
 (Pub. L. 111–203, title II, §204, July 21, 2010, 124 Stat. 1454; Pub. L. 114–113, div. O, title VII, §706(b)(2), Dec. 18, 2015, 129 Stat. 3029.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
@@ -59,6 +61,8 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original "this 
 #### Amendments
 
 <b>2015</b>—Subsec. (d)(4). Pub. L. 114–113 inserted ", except that, if the covered financial company or covered subsidiary is an insurance company or a subsidiary of an insurance company, the Corporation—" and subpars. (A) and (B) before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

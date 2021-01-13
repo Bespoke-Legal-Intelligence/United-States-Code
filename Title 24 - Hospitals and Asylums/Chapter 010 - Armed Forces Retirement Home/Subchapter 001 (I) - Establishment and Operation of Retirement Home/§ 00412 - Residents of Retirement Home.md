@@ -2,15 +2,23 @@
 
 #### (a) Persons eligible to be residents
 
-Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
+Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
-&emsp;(1) Persons who are 60 years of age or over and were discharged or released from service in the Armed Forces after 20 or more years of active service.
+&emsp;(1) Persons who were discharged or released from service in the Armed Forces after 20 or more years of active service.
 
 &emsp;(2) Persons who are determined under rules prescribed by the Chief Operating Officer to be suffering from a service-connected disability incurred in the line of duty in the Armed Forces.
 
 &emsp;(3) Persons who served in a war theater during a time of war declared by Congress or were eligible for hostile fire special pay under section 310 or 351 of title 37 and who are determined under rules prescribed by the Chief Operating Officer to be suffering from injuries, disease, or disability.
 
 &emsp;(4) Persons who served in a women's component of the Armed Forces before June 12, 1948, and are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
+
+&emsp;(5) Persons who are eligible for retired pay under chapter 1223 of title 10 and are—
+
+&emsp;&emsp;(A) eligible for care under section 1710 of title 38;
+
+&emsp;&emsp;(B) enrolled in coverage under chapter 55 of title 10; or
+
+&emsp;&emsp;(C) enrolled in a qualified health plan (as defined in section 18021(a) of title 42) that is acceptable to the Chief Operating Officer.
 
 #### (b) Persons ineligible to be residents
 
@@ -42,7 +50,7 @@ The Chief Operating Officer shall establish a system of priorities for the accep
 
 #### (1) Authority to admit
 
-&emsp;Except as otherwise established pursuant to subsection (d), the spouse of a person acceptedas a resident of a facility of the Retirement Home may be admitted to that facility if the spouse—
+&emsp;Except as otherwise established pursuant to subsection (d), the spouse of a person accepted as a resident of a facility of the Retirement Home may be admitted to that facility if the spouse—
 
 &emsp;&emsp;(A) is a covered beneficiary within the meaning of section 1072(5) of title 10;
 
@@ -54,13 +62,21 @@ The Chief Operating Officer shall establish a system of priorities for the accep
 
 &emsp;A spouse admitted in accordance with paragraph (1) shall be a resident of the Retirement Home consistent with this chapter, except as the Chief Operating Officer may otherwise provide.
 
-(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266; Pub. L. 112–81, div. A, title V, §§564(b)(1), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 114–328, div. A, title VI, §618(f), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–232, div. A, title XIV, §1412, Aug. 13, 2018, 132 Stat. 2090.)
+(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266; Pub. L. 112–81, div. A, title V, §§564(b)(1), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 114–328, div. A, title VI, §618(f), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–232, div. A, title XIV, §1412, Aug. 13, 2018, 132 Stat. 2090; Pub. L. 116–283, div. A, title XIV, §1412(a), Jan. 1, 2021, 134 Stat. 4030.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(2), was in the original "this Act", and was translated as meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, known as the Armed Forces Retirement Home Act of 1991, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XV to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1412(a)(1), struck out "active" before "commissioned service" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 116–283, §1412(a)(2), struck out "are 60 years of age or over and" before "were discharged".
+
+Subsec. (a)(5). Pub. L. 116–283, §1412(a)(3), added par. (5).
 
 <b>2018</b>—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to persons eligible to be residents, persons ineligible to be residents, acceptance, and priorities for acceptance, respectively.
 
@@ -79,6 +95,8 @@ Subsec. (f). Pub. L. 107–107, §1410(b)(1), struck out heading and text of sub
 &emsp;"(1) shall not be required to apply for acceptance as residents of the Retirement Home; and
 
 &emsp;"(2) shall become residents of the Retirement Home on that date."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

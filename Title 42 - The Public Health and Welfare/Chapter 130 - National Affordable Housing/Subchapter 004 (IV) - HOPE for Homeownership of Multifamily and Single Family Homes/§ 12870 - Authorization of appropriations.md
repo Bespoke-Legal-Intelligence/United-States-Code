@@ -6,7 +6,7 @@ There are authorized to be appropriated for grants under this title <sup>1</sup
 
 &emsp;(1) $285,000,000 shall be available for activities authorized under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\], of which up to $4,500,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> title;
 
-&emsp;(2) $285,000,000 shall be available for activities authorized under part A, of which up to$3,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
+&emsp;(2) $285,000,000 shall be available for activities authorized under part A, of which up to $3,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part; and
 
 &emsp;(3) $285,000,000 shall be available for activities under part B, of which up to $2,250,000 of any amounts appropriated may be made available for technical assistance to potential applicants, applicants and recipients of assistance under this <sup>2</sup> part.
 

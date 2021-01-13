@@ -32,6 +32,8 @@ This section may not be construed as creating any private right of action.
 
 (Sept. 21, 1950, ch. 967, §2\[30\], as added Pub. L. 101–73, title II, §225, Aug. 9, 1989, 103 Stat. 275; amended Pub. L. 103–325, title VI, §602(a)(59), Sept. 23, 1994, 108 Stat. 2291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e)(1)(A). Pub. L. 103–325 substituted "the vendors" for "venders".

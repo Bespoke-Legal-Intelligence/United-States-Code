@@ -24,7 +24,7 @@ The studies under this section shall—
 
 #### (c) Data analysis
 
-Data development and analysis under this section shall be performed by an institution ofhigher education with GIS capabilities. If the organization receiving the grant under subsection (a) does not have GIS capabilities, such organization shall contract with one or more entities with—
+Data development and analysis under this section shall be performed by an institution of higher education with GIS capabilities. If the organization receiving the grant under subsection (a) does not have GIS capabilities, such organization shall contract with one or more entities with—
 
 &emsp;(1) technological capabilities and resources to perform advanced image processing, GIS programming, and data analysis; and
 

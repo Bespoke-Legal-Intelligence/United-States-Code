@@ -4,6 +4,8 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 
 (June 25, 1938, ch. 675, §401, 52 Stat. 1046; Apr. 15, 1954, ch. 143, §1, 68 Stat. 54; Aug. 1, 1956, ch. 861, §1, 70 Stat. 919; Pub. L. 103–80, §3(h), Aug. 13, 1993, 107 Stat. 776.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–80 substituted "or reasonable standards of fill of container. No definition" for "and/or reasonable standards of fill of container: <i>Provided</i>, That no definition".
@@ -11,6 +13,8 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 <b>1956</b>—Act Aug. 1, 1956, designated provisions constituting subsec. (a) as entire section and repealed subsec. (b) which provided the procedure for establishment of regulations and is covered by section 371(e) of this title.
 
 <b>1954</b>—Act Apr. 15, 1954, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 
@@ -204,7 +208,7 @@ Staff.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminatethe appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
+In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate the appointment of an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
 &emsp;&emsp;"(B)
 
@@ -253,6 +257,8 @@ Limitation.—No payment may be made under subsection (d) except to the extent p
 "(f)
 
 Termination.—The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the recommendations and report under subsection (b)(3)."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13100. President's Council on Food Safety
 

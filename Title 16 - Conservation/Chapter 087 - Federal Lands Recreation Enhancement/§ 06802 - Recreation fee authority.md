@@ -92,7 +92,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 #### (2) Prohibited sites
 
-&emsp;The Secretary shall not charge an entrance fee for Federal recreational lands and waters managed by the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
+&emsp;The Secretary shall not charge an entrance fee for Federal recreational lands and waters managed by the Bureau of Land Management,the Bureau of Reclamation, or the Forest Service.
 
 #### (f) Standard amenity recreation fee
 

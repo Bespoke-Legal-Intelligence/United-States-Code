@@ -86,7 +86,7 @@ In this section:
 
 #### (11) Transitional housing
 
-&emsp;The term "transitional housing" has the meaning given the term in section 11360(29) of title 42.
+&emsp;The term "transitional housing" has the meaning given the term in section 11360(29) <sup>1</sup> of title 42.
 
 #### (12) YouthBuild program
 
@@ -228,7 +228,7 @@ In this section:
 
 &emsp;&emsp;(E) the focus of a proposed program on preparing youth for in-demand industry sectors or occupations, or postsecondary education and training opportunities;
 
-&emsp;&emsp;(F) the extent of an applicant's coordination of activities to be carried out throughthe proposed program with local boards, one-stop operators, and one-stop partners participating in the operation of the one-stop delivery system involved, or the extent of the applicant's good faith efforts in achieving such coordination;
+&emsp;&emsp;(F) the extent of an applicant's coordination of activities to be carried out through the proposed program with local boards, one-stop operators, and one-stop partners participating in the operation of the one-stop delivery system involved, or the extent of the applicant's good faith efforts in achieving such coordination;
 
 &emsp;&emsp;(G) the extent of the applicant's coordination of activities with public education, criminal justice, housing and community development, national service, or postsecondary education or other systems that relate to the goals of the proposed program;
 
@@ -300,7 +300,7 @@ Residential housing units rehabilitated or constructed using funds made availabl
 
 #### (5) State and local standards
 
-&emsp;All educational programs and activities supported with funds provided under subsection (c) shall be consistent with applicable State and local educational standards. Standards and procedures for the programs and activitiesthat relate to awarding academic credit for and certifying educational attainment in such programs and activities shall be consistent with applicable State and local educational standards.
+&emsp;All educational programs and activities supported with funds provided under subsection (c) shall be consistent with applicable State and local educational standards. Standards and procedures for the programs and activities that relate to awarding academic credit for and certifying educational attainment in such programs and activities shall be consistent with applicable State and local educational standards.
 
 #### (f) Levels of performance and indicators
 
@@ -360,11 +360,17 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 113–128, title I, §171, July 22, 2014, 128 Stat. 1576.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(10)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+Section 11360(29) of title 42, referred to in subsec. (b)(11), was redesignated section 11360(31) of title 42 by Pub. L. 116–260, div. Q, title I, §102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
+
+The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968,82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -402,7 +408,7 @@ Appointments.—The Secretary of Labor may appoint and fix the compensation of s
 
 &emsp;"(2)
 
-Experts and consultants.—The Secretary of Labor may obtain the services of experts and consultants in accordance with section 3109 of title 5, United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultantswho are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently.
+Experts and consultants.—The Secretary of Labor may obtain the services of experts and consultants in accordance with section 3109 of title 5, United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultants who are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently.
 
 "(e)
 
@@ -474,7 +480,7 @@ Accomplishing Orderly Transfer.—Consistent with the requirements of this secti
 
 "(n)
 
-Administration of Prior Grants.—Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under section 2801 of this title\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] 42 U.S.C. 12899 et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for thegrants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
+Administration of Prior Grants.—Notwithstanding any other provision of this Act \[See Short Title of 2006 Amendment note set out under section 2801 of this title\], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (\[former\] 42 U.S.C. 12899 et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act \[Sept. 22, 2006\], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants.
 
 "(o)
 
@@ -491,4 +497,6 @@ Effective Date.—This section takes effect on the earlier of—
 &emsp;"(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
 
 &emsp;"(2) September 30, 2006."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

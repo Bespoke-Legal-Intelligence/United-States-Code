@@ -34,7 +34,7 @@ Deadline.—The Secretary of Defense shall implement section 1553a of such title
 
 "(d)
 
-Resources.—In establishing and implementing the process under such section 1553a, the Secretary ofDefense shall, to the maximum extent practicable, use existing organizations, boards, processes, and personnel of the Department of Defense.
+Resources.—In establishing and implementing the process under such section 1553a, the Secretary of Defense shall, to the maximum extent practicable, use existing organizations, boards, processes, and personnel of the Department of Defense.
 
 "(e)
 

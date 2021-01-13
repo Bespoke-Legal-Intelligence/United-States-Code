@@ -18,6 +18,7 @@
 | [669i.](%C2%A7%2000669i%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [669j.](%C2%A7%2000669j%20-%20Repealed.%20Aug.%207%2C%201946%2C%20ch.%20770%2C%20%C2%A71%2814%29%2C%2060%20Stat.%20867.md) | Repealed. |
 | [669k.](%C2%A7%2000669k%20-%20Reports%20and%20certifications.md) | Reports and certifications. |
+| [669l.](%C2%A7%2000669l%20-%20Value%20of%20land.md) | Value of land. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,3 +43,4 @@
 - [&sect; 00669i - Rules and regulations](%C2%A7%2000669i%20-%20Rules%20and%20regulations.md)
 - [&sect; 00669j - Repealed. Aug. 7, 1946, ch. 770, &sect;1(14), 60 Stat. 867](%C2%A7%2000669j%20-%20Repealed.%20Aug.%207%2C%201946%2C%20ch.%20770%2C%20%C2%A71%2814%29%2C%2060%20Stat.%20867.md)
 - [&sect; 00669k - Reports and certifications](%C2%A7%2000669k%20-%20Reports%20and%20certifications.md)
+- [&sect; 00669l - Value of land](%C2%A7%2000669l%20-%20Value%20of%20land.md)

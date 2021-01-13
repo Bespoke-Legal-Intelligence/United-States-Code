@@ -210,7 +210,7 @@ The Truth in Lending Act, referred to in subsec. (f)(3), is title I of Pub. L. 9
 
 #### Prior Provisions
 
-A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct. 16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct.16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

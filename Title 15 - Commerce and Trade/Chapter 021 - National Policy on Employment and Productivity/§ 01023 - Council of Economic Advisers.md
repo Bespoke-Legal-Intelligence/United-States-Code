@@ -74,7 +74,7 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, textread as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
+<b>2012</b>—Subsec. (a). Pub. L. 112–166 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the "Council"). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman."
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–523, §110(a)(1), inserted "full" after "policy to promote".
 
@@ -122,7 +122,7 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R.30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Extension of Term of President's Economic Policy Advisory Board
 

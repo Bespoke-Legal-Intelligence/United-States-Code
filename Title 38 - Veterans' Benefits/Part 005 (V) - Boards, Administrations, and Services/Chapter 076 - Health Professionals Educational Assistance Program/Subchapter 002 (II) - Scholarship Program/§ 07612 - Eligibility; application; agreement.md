@@ -22,7 +22,7 @@
 
 &emsp;(C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
-(6)(A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in section 7602 of this title) in a program of education or training leading to employment as a physician or dentist until such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
+(6)(A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in section 7602 of this title) in a program of education or training leading to employment as a physician or dentistuntil such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
 
 (B) After such date, the Secretary shall ensure that of the scholarships awarded under this subchapter, a number of scholarships is awarded each year to individuals referred to in subparagraph (A) in an amount equal to not less than ten percent of the staffing shortage of physicians and dentists in the Department, as determined by the Secretary.
 
@@ -53,6 +53,8 @@
 (4) If a participant's period of obligated service is deferred under section 7616(b)(3)(A)(i) of this title, the agreement terms under paragraph (1) of this subsection shall provide for the participant to serve any additional period of obligated service that is prescribed by the Secretary under section 7616(b)(4)(B) of this title.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 520, §4312; amended Pub. L. 101–237, title II, §207(a), Dec. 18, 1989, 103 Stat. 2068; renumbered §7612 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(4), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title II, §202(a), Oct. 9, 1992, 106 Stat. 1983; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 111–163, title VI, §603(b), May 5, 2010, 124 Stat. 1173; Pub. L. 113–146, title III, §301(c), Aug. 7, 2014, 128 Stat. 1786; Pub. L. 115–182, title III, §301(a), June 6, 2018, 132 Stat. 1462.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -105,6 +107,8 @@ Subsec. (c)(4). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for
 Pub. L. 102–40, §402(d)(1), substituted "7616(b)(3)(A)(i)" for "4316(b)(3)(A)(i)" and "7616(b)(4)(B)" for "4316(b)(4)(B)".
 
 <b>1989</b>—Subsec. (b)(5). Pub. L. 101–237 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "In selecting applicants for the Scholarship Program, the Administrator shall give priority to the applications of individuals who will be entering their final year in a course of training."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

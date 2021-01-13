@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;As a part of the State performance plan described under paragraph (1), each State shall establish measurable and rigorous targets for the indicators established under the priority areas described in subsection (a)(3).
+&emsp;&emsp;As a part of the State performance plan described under paragraph (1), each Stateshall establish measurable and rigorous targets for the indicators established under the priority areas described in subsection (a)(3).
 
 #### (B) Data collection
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;(i) Require the State to prepare a corrective action plan or improvement plan if the Secretary determines that the State should be able to correct the problem within 1 year.
 
-&emsp;&emsp;&emsp;(ii) Require the State to enter into a compliance agreement under section 457 of the General Education Provisions Act \[20U.S.C. 1234f\], if the Secretary has reason to believe that the State cannot correct the problem within 1 year.
+&emsp;&emsp;&emsp;(ii) Require the State to enter into a compliance agreement under section 457 of the General Education Provisions Act \[20 U.S.C. 1234f\], if the Secretary has reason to believe that the State cannot correct the problem within 1 year.
 
 &emsp;&emsp;&emsp;(iii) For each year of the determination, withhold not less than 20 percent and not more than 50 percent of the State's funds under section 1411(e) of this title, until the Secretary determines the State has sufficiently addressed the areas in which the State needs intervention.
 
@@ -252,7 +252,7 @@
 
 #### (C) Standard of review
 
-&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good causeshown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall be conclusive if supported by substantial evidence.
+&emsp;&emsp;The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary's previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall be conclusive if supported by substantial evidence.
 
 #### (f) State enforcement
 

@@ -16,7 +16,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 &emsp;(5) A verbatim transcript shall be made of any hearing and shall be part of the record of proceedings.
 
-&emsp;(6) In those grievances in which the Board does not hold a hearing, the Board shall afford to each party the opportunity to review and to supplement, by written submissions, the record of proceedings prior to the decision by the Board. The decision of the Board shall be based exclusively on the record of proceedings.
+&emsp;(6) In those grievances in which the Board does not hold a hearing, the Board shall afford to each party the opportunity to review and to supplement, by written submissions, the record of proceedings prior to the decision bythe Board. The decision of the Board shall be based exclusively on the record of proceedings.
 
 &emsp;(7) The Board may act by or through panels or individual members designated by the Chairperson, except that hearings within the continental United States shall be held by panels of at least three members unless the parties agree otherwise. References in this subchapter to the Board shall be considered to be references to a panel or member of the Board where appropriate. All members of the Board shall act as impartial individuals in considering grievances.
 
@@ -26,6 +26,8 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 (Pub. L. 96–465, title I, §1106, Oct. 17, 1980, 94 Stat. 2145; Pub. L. 101–167, title V, §586(a), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 102–138, title I, §143(b), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–236, title I, §§177(a), 181(a)(4)(B), Apr. 30, 1994, 108 Stat. 414, 417; Pub. L. 107–228, div. A, title III, §314(b), Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, §5, Dec. 22, 2005, 119 Stat. 2652.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Par. (8). Pub. L. 109–140 inserted "the involuntary separation of the grievant (other than an involuntary separation for cause under section 4010(a) of this title)," after "considering" and substituted "the grievant, or" for "the grievant or".
@@ -34,7 +36,7 @@ The Board may adopt regulations concerning its organization and procedures. Such
 
 <b>1994</b>—Par. (8). Pub. L. 103–236, §181(a)(4)(B), inserted before period at end "or with respect to any action which would delay the separation of an employee pursuant to a reduction in force conducted under section 4010a of this title".
 
-Pub. L. 103–236, §177(a), substituted "until the date which is one year after such determination or until theBoard has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant." for "until the Board has ruled upon the grievance."
+Pub. L. 103–236, §177(a), substituted "until the date which is one year after such determination or until the Board has ruled upon the grievance, whichever comes first. The Board shall extend the one-year limitation under the preceding sentence and the Department shall continue to suspend such action, if the Board determines that the agency or the Board is responsible for the delay in the resolution of the grievance. The Board may also extend the 1-year limit if it determines that the delay is due to the complexity of the case, the unavailability of witnesses or to circumstances beyond the control of the agency, the Board or the grievant." for "until the Board has ruled upon the grievance."
 
 <b>1991</b>—Par. (8). Pub. L. 102–138 substituted "exercised his authority under subsection (a)(3) of section 4010 of this title" for "determined that there is reasonable cause to believe that a grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the grievant without pay pending a final resolution of the underlying matter".
 

@@ -8,9 +8,11 @@ If any funds authorized to be appropriated for any fiscal year for assistance un
 
 #### (2) Other assistance
 
-&emsp;Any such funds not used under paragraph (1) shall be reprogrammed within the account for which they were appropriated (subject to theregular reprogramming procedures under section 2394–1 of this title) in order to provide additional assistance for those countries.
+&emsp;Any such funds not used under paragraph (1) shall be reprogrammed within the account for which they were appropriated (subject to the regular reprogramming procedures under section 2394–1 of this title) in order to provide additional assistance for those countries.
 
 (Pub. L. 87–195, pt. I, §486, as added Pub. L. 100–690, title IV, §4206(a), Nov. 18, 1988, 102 Stat. 4270; amended Pub. L. 102–583, §6(b)(5), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(d), Nov. 2, 1994, 108 Stat. 4692.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -24,11 +26,15 @@ The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 
 
 Subsec. (b). Pub. L. 102–583, §6(b)(5)(B), substituted "(relating to the 'Foreign Military Financing Program')" for "(relating to foreign military sales financing)".
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Supersedure of Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989
 
 Pub. L. 100–690, title IV, §4206(b), Nov. 18, 1988, 102 Stat. 4270, which provided that the enactment of this section superseded section 578(d) of Pub. L. 100–461, Oct. 1, 1988, 102 Stat. 2268–46, and that funds could be transferred under subsec. (a)(1) of this section notwithstanding section 514 of Pub. L. 100–461, 102 Stat. 2268–23, was repealed by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

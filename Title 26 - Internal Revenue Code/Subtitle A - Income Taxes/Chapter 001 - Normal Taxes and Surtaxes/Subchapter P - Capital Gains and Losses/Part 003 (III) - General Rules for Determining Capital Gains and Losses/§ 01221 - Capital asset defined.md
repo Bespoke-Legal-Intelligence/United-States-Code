@@ -48,7 +48,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "commodities derivative financial instrument" means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price ofwhich is calculated by or determined by reference to a specified index.
+&emsp;&emsp;&emsp;The term "commodities derivative financial instrument" means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price of which is calculated by or determined by reference to a specified index.
 
 #### (ii) Specified index
 

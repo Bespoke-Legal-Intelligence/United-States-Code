@@ -24,19 +24,23 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103–123, title VII, §708(b), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 110–234, title VII, §7404(b)(2)(B), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7404(b)(2)(B), June 18, 2008, 122 Stat. 1664, 2008.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(D) to (F). Pub. L. 110–246, §7404(b)(2)(B)(i), in subpar. (D) inserted "and" at end, insubpar. (E) substituted period for "; and" at end, and struck out subpar. (F) which read as follows: "any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;".
+<b>2008</b>—Subsec. (a)(1)(D) to (F). Pub. L. 110–246, §7404(b)(2)(B)(i), in subpar. (D) inserted "and" at end, in subpar. (E) substituted period for "; and" at end, and struck out subpar. (F) which read as follows: "any college officer or other person connected with the extension department of the college as the Secretary of Agriculture may designate to the Postal Service to the extent that the official mail consists of correspondence, bulletins, and reports for the furtherance of the purpose of sections 341–343 and 344–348 of title 7;".
 
 Subsec. (a)(2) to (4). Pub. L. 110–246, §7404(b)(2)(B)(ii)–(iv), in par. (2) inserted "and" at end, in par. (3) substituted period for "; and" at end, and struck out par. (4) which read as follows: "mail of State agriculture experiment stations pursuant to sections 325 and 361f of title 7."
 
 <b>1993</b>—Subsec. (a)(3), (4). Pub. L. 103–123 inserted "and" at end of par. (3) and substituted period for "; and" at end of par. (4).
 
 <b>1976</b>—Subsec. (a)(5). Pub. L. 94–553 struck out par. (5) which related to articles for copyright deposited with postmasters and addressed to the Register of Copyrights pursuant to section 15 of title 17.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

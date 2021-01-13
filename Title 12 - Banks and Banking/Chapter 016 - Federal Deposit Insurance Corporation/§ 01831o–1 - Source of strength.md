@@ -36,9 +36,13 @@ In this section, the term "source of financial strength" means the ability of a 
 
 (Sept. 21, 1950, ch. 967, §2\[38A\], as added Pub. L. 111–203, title VI, §616(d), July 21, 2010, 124 Stat. 1616; amended Pub. L. 114–113, div. O, title VII, §706(a), Dec. 18, 2015, 129 Stat. 3029.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsecs. (c) to (f). Pub. L. 114–113 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

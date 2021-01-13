@@ -10,6 +10,8 @@ The current value of supplies returned to the working capital fund by a post, ac
 
 (Aug. 1, 1956, ch. 841, title I, §13, as added Pub. L. 88–205, pt. IV, §405, Dec. 16, 1963, 77 Stat. 391; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970 35 F.R. 7959, 84 Stat. 2085; Pub. L. 92–226, pt. IV, §407(c), Feb. 7, 1972, 86 Stat. 35; Pub. L. 95–426, title I, §109(a), Oct. 7, 1978, 92 Stat. 966; Pub. L. 96–465, title II, §2201(b), Oct. 17, 1980, 94 Stat. 2157; renumbered title I and amended Pub. L. 97–241, title II, §§202(a), 203(a), Aug. 24, 1982, 96 Stat. 282, 290; Pub. L. 101–246, title I, §112, Feb. 16, 1990, 104 Stat. 21.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (a), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
@@ -32,6 +34,8 @@ Section was formerly classified to section 170u of Title 5 prior to the general 
 
 <b>1972</b>—Pub. L. 92–226 struck out last sentence authorizing appropriation of amounts necessary to provide capital for the fund. See section 2680 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
@@ -44,9 +48,11 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Pub. L. 95–426, title I, §109(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1978."
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 ofReorg. Plan No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors, respectively, of Office of Management and Budget. Section 103 of Reorg. Plan No. 2 of 1970 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See Part I of Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors, respectively, of Office of Management and Budget. Section 103 of Reorg. Plan No. 2 of 1970 transferred all records, property, personnel, and funds of Bureau to Office of Management and Budget. See Part I of Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

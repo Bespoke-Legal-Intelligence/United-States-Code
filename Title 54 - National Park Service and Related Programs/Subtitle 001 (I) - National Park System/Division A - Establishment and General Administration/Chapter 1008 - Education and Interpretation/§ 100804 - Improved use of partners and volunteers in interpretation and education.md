@@ -2,7 +2,7 @@
 
 The Secretary may—
 
-&emsp;(1) coordinate with park partners and volunteers in the delivery of quality programs andservices to supplement those provided by the Service as part of a park's Long Range Interpretive Plan;
+&emsp;(1) coordinate with park partners and volunteers in the delivery of quality programs and services to supplement those provided by the Service as part of a park's Long Range Interpretive Plan;
 
 &emsp;(2) support interpretive partners by providing opportunities to participate in interpretive training; and
 

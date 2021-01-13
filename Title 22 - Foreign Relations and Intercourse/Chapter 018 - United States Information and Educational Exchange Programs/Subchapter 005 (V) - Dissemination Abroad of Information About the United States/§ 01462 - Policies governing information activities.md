@@ -4,9 +4,13 @@ In authorizing international information activities under this chapter, it is th
 
 (Jan. 27, 1948, ch. 36, title V, §502, 62 Stat. 10; Pub. L. 112–239, div. A, title X, §1078(d)(1), Jan. 2, 2013, 126 Stat. 1958.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239 inserted "and the Broadcasting Board of Governors" after "Secretary" and "or the Broadcasting Board of Governors" after "Department".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

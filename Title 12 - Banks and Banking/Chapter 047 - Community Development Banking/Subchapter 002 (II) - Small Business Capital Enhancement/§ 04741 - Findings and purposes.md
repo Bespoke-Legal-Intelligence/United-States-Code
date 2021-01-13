@@ -36,6 +36,8 @@ By encouraging States to implement administratively efficient capital access pro
 
 (Pub. L. 103–325, title II, §251, Sept. 23, 1994, 108 Stat. 2203.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–325, title II, §261, Sept. 23, 1994, 108 Stat. 2214, provided that: "This subtitle \[subtitle B (§§251–261) of title II of Pub. L. 103–325, enacting this subchapter\] shall become effective on January 6, 1996."
@@ -72,7 +74,7 @@ Bank holding company.—The term 'bank holding company' has the meaning given su
 
 Call report.—The term 'call report' means—
 
-&emsp;&emsp;"(A) reports of Condition and Income submitted to the Office of the Comptroller of the Currency,the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
+&emsp;&emsp;"(A) reports of Condition and Income submitted to the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
 
 &emsp;&emsp;"(B) the Office of Thrift Supervision Thrift Financial Report;
 
@@ -312,7 +314,7 @@ Capital sources.—The eligible institution shall receive capital both under the
 
 &emsp;&emsp;&emsp;"(ii)
 
-Amount of capital.—The amount of capital to be received under the Program shall not exceed 3 percent of risk-weighted assets, as reported in the call report immediately preceding the date of application, less the amount of any CDCI investment and any CPP investment.
+Amount of capital.—The amount of capital to be received under the Program shall not exceed 3 percent of risk-weighted assets, as reported in the call report immediately precedingthe date of application, less the amount of any CDCI investment and any CPP investment.
 
 &emsp;&emsp;&emsp;"(iii)
 

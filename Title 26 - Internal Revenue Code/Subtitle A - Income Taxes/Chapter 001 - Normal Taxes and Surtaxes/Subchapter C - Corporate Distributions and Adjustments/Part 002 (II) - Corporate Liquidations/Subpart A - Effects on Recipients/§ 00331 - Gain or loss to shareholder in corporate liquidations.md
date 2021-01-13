@@ -6,7 +6,7 @@ Amounts received by a shareholder in a distribution in complete liquidation of a
 
 #### (b) Nonapplication of section 301
 
-Section 301 (relating to effects on shareholder of distributions of property) shall not apply toany distribution of property (other than a distribution referred to in paragraph (2)(B) of section 316(b)) in complete liquidation.
+Section 301 (relating to effects on shareholder of distributions of property) shall not apply to any distribution of property (other than a distribution referred to in paragraph (2)(B) of section 316(b)) in complete liquidation.
 
 #### (c) Cross reference
 

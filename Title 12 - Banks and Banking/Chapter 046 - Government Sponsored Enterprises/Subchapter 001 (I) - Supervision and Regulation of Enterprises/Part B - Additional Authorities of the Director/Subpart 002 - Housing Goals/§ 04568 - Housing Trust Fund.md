@@ -80,7 +80,7 @@
 
 #### (B) Grant amount
 
-&emsp;&emsp;In each fiscal year other than fiscal year 2009, the Secretary shall make a grant to each State in an amount that is equal to the formula amount determined under paragraph (3) for that State.
+&emsp;&emsp;In each fiscal year other than fiscal year 2009, the Secretary shall make a grant toeach State in an amount that is equal to the formula amount determined under paragraph (3) for that State.
 
 #### (C) Minimum State allocations
 
@@ -164,7 +164,7 @@
 
 &emsp;Grant amounts allocated to a State or State designated entity under this subsection may be provided only to a recipient that is an organization, agency, or other entity (including a for-profit entity or a nonprofit entity) that—
 
-&emsp;&emsp;(A) has demonstrated experience and capacity to conduct an eligible activity underparagraph (7), as evidenced by its ability to—
+&emsp;&emsp;(A) has demonstrated experience and capacity to conduct an eligible activity under paragraph (7), as evidenced by its ability to—
 
 &emsp;&emsp;&emsp;(i) own, construct or rehabilitate, manage, and operate an affordable multifamily rental housing development;
 
@@ -222,7 +222,7 @@
 
 #### (E) Prohibition of consideration of use for meeting housing goals or duty to serve
 
-&emsp;&emsp;In determining compliance with the housing goals under this subpart and the duty to serve underserved markets under section 4565 of this title, the Director may not consider any grant amounts used under this section for eligible activities under paragraph (7). The Director shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from such grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
+&emsp;&emsp;In determining compliance with the housing goals under this subpart and the duty to serve underserved markets under section 4565 of this title, the Director may not consider any grant amounts used under this section for eligible activities under paragraph (7). The Director shall give credit toward the achievement of such housing goals and suchduty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from such grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
 
 #### (d) Reduction for failure to obtain return of misused funds
 
@@ -366,7 +366,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) in the case of rental housing projects under subsection (c)(7)(A), the extent to which rents for units in the project funded are affordable, especially for extremely low-income families;
 
-&emsp;&emsp;&emsp;(iv) in the case of rental housing projects under subsection (c)(7)(A), the extent of the duration for which such rents will remain affordable;
+&emsp;&emsp;&emsp;(iv) in the case of rental housing projects under subsection (c)(7)(A), the extent ofthe duration for which such rents will remain affordable;
 
 &emsp;&emsp;&emsp;(v) the extent to which the application makes use of other funding sources; and
 
@@ -378,13 +378,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (h) Affordable housing trust fund
 
-If, after July 30, 2008, in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year andany remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
+If, after July 30, 2008, in any year, there is enacted any provision of Federal law establishing an affordable housing trust fund other than under this chapter for use only for grants to provide affordable rental housing and affordable homeownership opportunities, and the subsequent year is a year referred to in subsection (c), the Secretary shall in such subsequent year and any remaining years referred to in subsection (c) transfer to such affordable housing trust fund the aggregate amount allocated pursuant to subsection (c) in such year. Notwithstanding any other provision of law, assistance provided using amounts transferred to such affordable housing trust fund pursuant to this subsection may not be used for any of the activities specified in clauses (i) through (vi) of subsection (c)(9)(D).
 
 #### (i) Funding accountability and transparency
 
 Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
 (Pub. L. 102–550, title XIII, §1338, as added Pub. L. 110–289, div. A, title I, §1131(b), July 30, 2008, 122 Stat. 2712.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

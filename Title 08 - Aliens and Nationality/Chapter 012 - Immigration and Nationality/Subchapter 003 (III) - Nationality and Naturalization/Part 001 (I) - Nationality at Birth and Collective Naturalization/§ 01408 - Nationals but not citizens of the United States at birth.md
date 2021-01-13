@@ -18,11 +18,15 @@ Unless otherwise provided in section 1401 of this title, the following shall be 
 
 (June 27, 1952, ch. 477, title III, ch. 1, §308, 66 Stat. 238; Pub. L. 99–396, §15(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 100–525, §3(2), Oct. 24, 1988, 102 Stat. 2614.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Par. (4). Pub. L. 100–525 amended Pub. L. 99–396. See 1986 Amendment note below.
 
 <b>1986</b>—Par. (4). Pub. L. 99–396, as amended by Pub. L. 100–525, added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

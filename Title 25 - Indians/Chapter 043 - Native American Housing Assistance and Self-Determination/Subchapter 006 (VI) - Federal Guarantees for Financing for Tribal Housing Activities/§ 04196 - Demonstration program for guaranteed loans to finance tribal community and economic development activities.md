@@ -48,7 +48,7 @@ A guarantee made under this section shall guarantee repayment of 95 percent of t
 
 &emsp;To ensure the repayment of notes and other obligations and charges incurred under this section and as a condition for receiving the guarantees, the Secretary shall require the Indian tribe or housing entity issuing the notes or obligations—
 
-&emsp;&emsp;(A) to enter into a contract, in a form acceptable to the Secretary, for repayment of notes or other obligations guaranteed under this section;
+&emsp;&emsp;(A) to enter into a contract, in a form acceptable to the Secretary, for repayment ofnotes or other obligations guaranteed under this section;
 
 &emsp;&emsp;(B) to demonstrate that the extent of each issuance and guarantee under this section is within the financial capacity of the Indian tribe; and
 
@@ -115,6 +115,8 @@ Not later than 4 years after October 14, 2008, the Secretary shall submit to Con
 The authority of the Secretary under this section to make new guarantees for notes and obligations shall terminate on October 1, 2013.
 
 (Pub. L. 104–330, title VI, §606, as added Pub. L. 110–411, title VI, §601(a), Oct. 14, 2008, 122 Stat. 4331.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

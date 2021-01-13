@@ -58,7 +58,7 @@ Exception for certain activities and locations.—In determining whether a defen
 
 &emsp;&emsp;(C) any activity involving officials of the United States that the Secretary of State determines is in the national interest of the United States if the Secretary reports to the appropriate congressional committees annually on the use of the authority under this subparagraph;
 
-&emsp;&emsp;(D) any activity undertaken exclusively for the purpose of meetings with officials of the United States or other foreign governments, or participation in training and related activities funded or arranged by the United States Government;
+&emsp;&emsp;(D) any activity undertaken exclusively for the purpose of meetings with officials ofthe United States or other foreign governments, or participation in training and related activities funded or arranged by the United States Government;
 
 &emsp;&emsp;(E) any activity related to legal representation—
 
@@ -92,6 +92,8 @@ Defined term.—In this subsection, the term "defendant" means—
 
 (Added Pub. L. 102–572, title X, §1003(a)(4), Oct. 29, 1992, 106 Stat. 4522; amended Pub. L. 115–253, §4(a), Oct. 3, 2018, 132 Stat. 3184; Pub. L. 116–94, div. J, title IX, §903(c)(1), Dec. 20, 2019, 133 Stat. 3083.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Promoting Security and Justice for Victims of Terrorism Act of 2019, referred to in subsec. (e)(1)(A), (B), is the date of enactment of section 903 of div. J of Pub. L. 116–94, which was approved Dec. 20, 2019.
@@ -120,13 +122,15 @@ Subsec. (e)(3) to (5). Pub. L. 116–94, §903(c)(1)(C), added pars. (3) to (5).
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–253 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment; Abrogation; Construction; Severability
 
 Amendment by Pub. L. 116–94 applicable to any case pending on or after Aug. 30, 2016, with additional rules of construction and abrogation and severability provisions, see section 903(c)(2) and (d) of Pub. L. 116–94, set out in a note under section 2333 of this title.
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–253, §4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: "The amendments made by this section\[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 3, 2018\]."
+Pub. L. 115–253, §4(b), Oct. 3, 2018, 132 Stat. 3185, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 3, 2018\]."
 
 #### Effective Date
 

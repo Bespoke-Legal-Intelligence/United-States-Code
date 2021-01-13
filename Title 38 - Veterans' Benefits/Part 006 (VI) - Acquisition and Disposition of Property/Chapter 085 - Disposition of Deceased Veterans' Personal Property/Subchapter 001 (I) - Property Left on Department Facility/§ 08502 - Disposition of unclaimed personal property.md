@@ -6,13 +6,15 @@
 
 (c) If the property of any decedent is not so delivered or claimed and accepted the Secretary or the Secretary's designee may dispose of such property by public or private sale in accordance with the provisions of this subchapter and regulations prescribed by the Secretary.
 
-(d) All sales authorized by this subchapter shall be for cash upon delivery at the premises where sold and without warranty, express or implied. The proceeds of such sales after payment of any expenses incident thereto as may be prescribed by regulations, together with any other moneys left or found on a facility, not disposed of in accordance with this subchapter, shall be credited to the General Post Fund, National Homes, Department of Veterans Affairs, a trust fund provided for in section 1321(a)(45) of title 31.In addition to the purposes for which such fund may be used under the existing law, disbursements may be made therefrom as authorized by the Secretary by regulation or otherwise for the purpose of satisfying any legal liability incurred by any employee in administering the provisions of this subchapter, including any expense incurred in connection therewith. Legal liability shall not exist when delivery or sale shall have been made in accordance with this subchapter.
+(d) All sales authorized by this subchapter shall be for cash upon delivery at the premises where sold and without warranty, express or implied. The proceeds of such sales after payment of any expenses incident thereto as may be prescribed by regulations, together with any other moneys left or found on a facility, not disposed of in accordance with this subchapter, shall be credited to the General Post Fund, National Homes, Department of Veterans Affairs, a trust fund provided for in section 1321(a)(45) of title 31. In addition to the purposes for which such fund may be used under the existing law, disbursements may be made therefrom as authorized by the Secretary by regulation or otherwise for the purpose of satisfying any legal liability incurred by any employee in administering the provisions of this subchapter, including any expense incurred in connection therewith. Legal liability shall not exist when delivery or sale shall have been made in accordance with this subchapter.
 
-(e) If, notwithstanding such sale, a claim is filed with the Secretary within five years after notice of sale as herein required, by or on behalf of any person or persons who if known would have been entitled to the property under section 8501 of this title or to possession thereof under this section, the Secretary shall determine the person or persons entitled under the provisions of this subchapter and may pay to such person or persons so entitled the proceeds of sale of such property, less expenses. Such payment shall be made out of the said trust fund, and in accord with the provisions of this section or section 8501 of this title. Persons under legal disability to sue in their own name may make claim for the proceeds of sale of such property at any time within five years after termination of such legal disability.
+(e) If, notwithstanding such sale, a claim is filed with the Secretary within five years after notice of sale as herein required, by or on behalf of any person or persons who if known would have been entitled to the property under section 8501 of this title or to possession thereof under this section, the Secretary shall determine theperson or persons entitled under the provisions of this subchapter and may pay to such person or persons so entitled the proceeds of sale of such property, less expenses. Such payment shall be made out of the said trust fund, and in accord with the provisions of this section or section 8501 of this title. Persons under legal disability to sue in their own name may make claim for the proceeds of sale of such property at any time within five years after termination of such legal disability.
 
 (f) Any such property, the sale of which is authorized under this subchapter and which remains unsold, may be used, destroyed, or otherwise disposed of in accordance with regulations promulgated by the Secretary.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1257, §5202; Pub. L. 94–581, title II, §208(a), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, §3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, §701(94), Oct. 28, 1986, 100 Stat. 3299; renumbered §8502 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(11), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(i)(11), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–135, title II, §208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -61,6 +63,8 @@ Subsec. (c). Pub. L. 99–576, §701(94)(E), substituted "the Administrator's" f
 <b>1982</b>—Subsec. (d). Pub. L. 97–258 substituted "section 1321(a)(45) of title 31" for "section 725s(a)(45) of title 31".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–581 inserted "or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title," after "(admitted as a veteran),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

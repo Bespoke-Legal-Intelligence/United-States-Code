@@ -26,7 +26,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;&emsp;(iii) interest income earned on funds received under this subchapter.
 
-&emsp;(C) For purposes of this paragraph, each entity receiving financial assistance under this subchapter shall maintain records sufficient to determine the amount of such income received and the purposes for which such income is expended.
+&emsp;(C) For purposes of this paragraph, each entity receiving financial assistance under this subchapter shall maintain records sufficientto determine the amount of such income received and the purposes for which such income is expended.
 
 &emsp;(8)(A) The Secretary shall notify the Governor and the appropriate local board and chief elected official of, and consult with the Governor and such board and official concerning, any activity to be funded by the Secretary under this subchapter within the corresponding State or local area.
 
@@ -58,11 +58,15 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 (Pub. L. 113–128, title I, §194, July 22, 2014, 128 Stat. 1605.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in par. (4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

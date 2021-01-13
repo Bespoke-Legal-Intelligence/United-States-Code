@@ -1,8 +1,8 @@
 ### §2736. Distinguished service medal
 
-The President may present, but not in the name of Congress, a distinguished service medal of appropriate design, with accompanying ribbon, together with a rosette or other device, to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by exceptionally meritorious service to the Government in a duty of great responsibility.
+The President may present, but not in the name of Congress, a distinguished service medal of appropriate design, with accompanying ribbon, together with a rosette or other device, to be worn in lieu thereof, to any individual who, while serving in any capacity with the Coast Guard, performs exceptionally meritorious service to the Government in a duty of great responsibility.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 535, §492; renumbered §2736, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 535, §492; renumbered §2736, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §§8505(a)(29), 8506(d), Jan. 1, 2021, 134 Stat. 4749, 4752.)
 
 #### Historical and Revision Notes
 
@@ -10,9 +10,15 @@ This section is new insofar as application to Coast Guard personnel in time of p
 
 The language is parallel to that found in title 34, U.S.C., 1946 ed., §355, providing for awards to personnel of the Navy. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283 substituted "individual" for "person" and "performs" for "distinguishes himself by".
+
 <b>2018</b>—Pub. L. 115–282 renumbered section 492 of this title as this section.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12824. Establishing the Homeland Security Distinguished Service Medal
 
@@ -22,7 +28,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. There is hereby established a Homeland Security Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Homeland Security to any member of the Armed Forces of the United States who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Homeland Security, or in other activities under the responsibility of the Secretary of Homeland Security, either national or international, as may be assigned by the Secretary.
 
-Sec. 2. The Homeland Security Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Homeland Security and shall be awarded under such regulations as the Secretary shall prescribe. These regulations shall place the Homeland Security Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
+Sec. 2. The Homeland Security Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Homeland Security and shall be awarded under such regulations as the Secretary shall prescribe. These regulationsshall place the Homeland Security Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
 
 Sec. 3. No more than one Homeland Security Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period of service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Homeland Security.
 

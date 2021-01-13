@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454, title IX, §906(a)(16), Oct. 13, 1978, 92 Stat. 1226, substituted "Office of Personnel Management" for "Civil Service Commission" in item 2951.

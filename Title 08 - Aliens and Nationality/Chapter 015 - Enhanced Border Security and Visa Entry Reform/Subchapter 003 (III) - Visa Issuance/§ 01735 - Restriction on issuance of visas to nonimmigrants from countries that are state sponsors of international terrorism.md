@@ -22,9 +22,13 @@ No nonimmigrant visa under section 1101(a)(15) of this title shall be issued to 
 
 (Pub. L. 107–173, title III, §306, May 14, 2002, 116 Stat. 555.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4605(j)(1)(A) of title 50, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1)(A) of title 50 can be found in section 4813(c)(1)(A)(i) of title 50, as enacted by Pub. L. 115–232.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

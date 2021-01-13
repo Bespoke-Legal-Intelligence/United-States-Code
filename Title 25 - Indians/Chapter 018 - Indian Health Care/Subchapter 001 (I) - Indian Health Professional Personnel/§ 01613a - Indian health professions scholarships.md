@@ -72,7 +72,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(iii) the enforcement of the requirement to meet the obligation or make the payment would be unconscionable.
 
-(E) Notwithstanding any other provision of law, in any case of extreme hardship or for other good cause shown, the Secretary may waive, inwhole or in part, the right of the United States to recover funds made available under this section.
+(E) Notwithstanding any other provision of law, in any case of extreme hardship or for other good cause shown, the Secretary may waive, in whole or in part, the right of the United States to recover funds made available under this section.
 
 (F) Notwithstanding any other provision of law, with respect to a recipient of an Indian Health Scholarship, no obligation for payment may be released by a discharge in bankruptcy under title 11, unless that discharge is granted after the expiration of the 5-year period beginning on the initial date on which that payment is due, and only if the bankruptcy court finds that the nondischarge of the obligation would be unconscionable.
 
@@ -81,6 +81,8 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
 (Pub. L. 94–437, title I, §104, as added Pub. L. 100–713, title I, §104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, §2(b), Oct. 19, 1996, 110 Stat. 3820.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ Subsec. (b)(5). Pub. L. 102–573, §103, added par. (5).
 Subsec. (c). Pub. L. 102–573, §102(c)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For purposes of this section, the term 'Indian' has the same meaning given that term by subsection (c) of section 1603 of this title, including all individuals described in clauses (1) through (4) of that subsection."
 
 Subsec. (d). Pub. L. 102–573, §102(c)(4), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

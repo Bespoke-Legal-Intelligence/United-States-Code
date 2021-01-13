@@ -62,7 +62,7 @@
 
 #### (ii) Sampling and other methods
 
-&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretarydeems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
+&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
 
 #### (E) Prohibition
 
@@ -72,7 +72,7 @@
 
 &emsp;Not later than 1 year after November 19, 2014, and annually thereafter,,<sup>2</sup> a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
 
-&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(6) of this title;
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter asseparately identified based on the types of providers listed in section 9858n(6) of this title;
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
@@ -146,7 +146,7 @@ Subsec. (a)(2). Pub. L. 105–33, §5602(2)(B), substituted "Annual" for "Biannu
 
 <b>1996</b>—Pub. L. 104–193, §611(1), substituted "Reports" for "Annual report" in section catchline.
 
-Subsec. (a). Pub. L. 104–193, §611(2), amended heading and text of subsec. (a) generally. Prior to amendment, text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under section 9858c(c)(3) of this title, data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
+Subsec. (a). Pub. L. 104–193, §611(2), amended heading and text of subsec. (a) generally. Prior to amendment,text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under section 9858c(c)(3) of this title, data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
 
 Subsec. (b)(1). Pub. L. 104–193, §611(2)\[(3)\](A), substituted "an application approved" for "a application approved".
 

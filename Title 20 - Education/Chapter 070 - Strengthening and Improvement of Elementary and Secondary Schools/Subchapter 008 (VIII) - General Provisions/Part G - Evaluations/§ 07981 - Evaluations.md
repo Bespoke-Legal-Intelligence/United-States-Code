@@ -2,7 +2,7 @@
 
 #### (a) Reservation of funds
 
-Except as provided in subsection <sup>1</sup> (b) and (e), the Secretary, in consultation with the Director of the Institute of Education Sciences, may reserve not more than 0.5 percent of the amount appropriated for each program authorized under this chapter to carry out activities under this section. If the Secretary elects to make a reservation under this subsection, the reserved amounts—
+Except as provided in subsection <sup>1</sup> (b) and (e), the Secretary, in consultation with the Director of the Institute of Education Sciences, may reserve not more than 0.5 percent of the amount appropriated for each program authorized under this chapter to carry out activities under thissection. If the Secretary elects to make a reservation under this subsection, the reserved amounts—
 
 &emsp;(1) shall first be used by the Secretary, acting through the Director of the Institute of Education Sciences, to—
 

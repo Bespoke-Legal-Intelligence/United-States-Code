@@ -18,13 +18,19 @@
 
 (Added Pub. L. 98–497, title I, §102(a)(2), Oct. 19, 1984, 98 Stat. 2281.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2104 was renumbered section 2108 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as an Effective Date of 1984 Amendment note under section 2102 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Emergency Preparedness Functions
 

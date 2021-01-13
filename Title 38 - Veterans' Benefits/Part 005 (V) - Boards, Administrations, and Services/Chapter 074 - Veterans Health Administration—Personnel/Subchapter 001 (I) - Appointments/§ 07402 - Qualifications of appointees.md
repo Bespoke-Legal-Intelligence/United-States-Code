@@ -136,6 +136,8 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 (Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §302(b), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 109–461, title II, §201(b), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 110–387, title IV, §405, Oct. 10, 2008, 122 Stat. 4129; Pub. L. 114–256, §4(a)(2), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 114–315, title VI, §613, Dec. 16, 2016, 130 Stat. 1576.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
@@ -166,6 +168,8 @@ Subsec. (g). Pub. L. 110–387, §405(b), added subsec. (g).
 
 <b>1991</b>—Subsec. (b)(9), (10). Pub. L. 102–86 added par. (9) and redesignated former par. (9) as (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
@@ -173,6 +177,50 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 #### Effective Date of 1991 Amendment
 
 Pub. L. 102–86, title III, §305(b), Aug. 14, 1991, 105 Stat. 417, provided that: "The amendment made by subsection (a) \[amending this section\] does not apply to any person employed as a social worker by the Department of Veterans Affairs on or before the date of the enactment of this Act \[Aug. 14, 1991\]."
+
+#### Prescription of Technical Qualifications for Licensed Hearing Aid Specialists and Requirement for Appointment of Such Specialists
+
+Pub. L. 116–171, title VII, §703, Oct. 17, 2020, 134 Stat. 829, provided that:
+
+"(a)
+
+Technical Qualifications.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs shall prescribe the technical qualifications required under section 7402(b)(14) of title 38, United States Code, to be appointed as a licensed hearing aid specialist under section 7401(3) of such title.
+
+&emsp;"(2)
+
+Elements for qualifications.—In prescribing the qualifications for licensed hearing aid specialists under paragraph (1), the Secretary shall, at a minimum, ensure that such qualifications are consistent with—
+
+&emsp;&emsp;"(A) the standards for licensure of hearing aid specialists that are required by a majority of States;
+
+&emsp;&emsp;"(B) any competencies needed to perform tasks and services commonly performed by hearing aid specialists pursuant to such standards; and
+
+&emsp;&emsp;"(C) any competencies needed to perform tasks specific to providing care to individuals under the laws administered by the Secretary.
+
+"(b)
+
+Authority to Set and Maintain Duties.—The Secretary shall retain the authority to set and maintain the duties for licensed hearing aid specialists appointed under section 7401(3) of title 38, United States Code, for the purposes of the employment of such specialists with the Department of Veterans Affairs.
+
+"(c)
+
+Appointment.—Not later than September 30, 2022, the Secretary shall appoint not fewer than one licensed hearing aid specialist at each medical center of the Department.
+
+"(d)
+
+Report.—Not later than September 30, 2022, and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report—
+
+&emsp;"(1) assessing the progress of the Secretary in appointing licensed hearing aid specialists under subsection (c);
+
+&emsp;"(2) assessing potential conflicts or obstacles that prevent the appointment of licensed hearing aid specialists;
+
+&emsp;"(3) assessing the factors that led to such conflicts or obstacles;
+
+&emsp;"(4) assessing access of patients to comprehensive hearing health care services from the Department consistent with the requirements under section 4(b) of the Veterans Mobility Safety Act of 2016 (Public Law 114–256; 38 U.S.C. 7401 note), including an assessment of the impact of infrastructure and equipment limitations on wait times for audiologic care; and
+
+&emsp;"(5) indicating the medical centers of the Department with vacancies for audiologists or licensed hearing aid specialists."
 
 #### Requirements Respecting Basic Proficiency in Spoken and Written English of Appointees After November 23, 1977
 

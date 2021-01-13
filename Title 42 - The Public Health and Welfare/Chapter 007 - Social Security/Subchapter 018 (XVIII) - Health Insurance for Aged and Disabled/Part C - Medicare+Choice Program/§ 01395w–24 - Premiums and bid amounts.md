@@ -6,7 +6,7 @@
 
 #### (A) Initial submission
 
-&emsp;&emsp;Not later than the second Monday in September of 2002, 2003, and 2004 (or the first Monday in June of each subsequent year), each MA organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each MA plan for the service area (or segment of such an area if permitted under subsection (h)) in which it intends to be offered in the following year the following:
+&emsp;&emsp;Not later than the second Monday in September of 2002, 2003, and 2004 (or the first Monday in June of each subsequent year), each MA organization shall submit to theSecretary, in a form and manner specified by the Secretary and for each MA plan for the service area (or segment of such an area if permitted under subsection (h)) in which it intends to be offered in the following year the following:
 
 &emsp;&emsp;&emsp;(i) The information described in paragraph (2), (3), (4), or (6)(A) for the type of plan and year involved.
 
@@ -16,7 +16,7 @@
 
 #### (B) Beneficiary rebate information
 
-&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) fora year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
+&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) for a year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
 
 &emsp;&emsp;&emsp;(i) the manner in which such rebate will be provided under clause (ii) of such subsection; and
 
@@ -92,7 +92,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary shall not review, approve, or disapprove the amounts submitted under paragraph (3) or, in the case of an MA private fee-for-service plan, subparagraphs (A)(ii) and (B) of paragraph (4).
+&emsp;&emsp;The Secretary shall not review, approve, or disapprove the amounts submitted underparagraph (3) or, in the case of an MA private fee-for-service plan, subparagraphs (A)(ii) and (B) of paragraph (4).
 
 #### (C) Rejection of bids
 
@@ -102,7 +102,7 @@
 
 #### (ii) Authority to deny bids that propose significant increases in cost sharing or decreases in benefits
 
-&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if itproposes significant increases in cost sharing or decreases in benefits offered under the plan.
+&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if it proposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 #### (6) Submission of bid amounts by MA organizations beginning in 2006
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(i) described in section 1395w–23(a)(1)(B)(i) of this title (relating to plans providing rebates), zero; or
 
-&emsp;&emsp;&emsp;(ii) described in section 1395w–23(a)(1)(B)(ii) of this title, the amount (if any) by which the unadjusted MA statutory non-drug monthly bid amount (as defined in subparagraph (E)) exceeds the applicable unadjusted MA area-specific non-drug monthly benchmark amount (as defined in section 1395w–23(j) of this title).
+&emsp;&emsp;&emsp;(ii) described in section 1395w–23(a)(1)(B)(ii) of this title, the amount (if any) by which the unadjusted MA statutory non-drug monthly bid amount (as defined in subparagraph (E)) exceeds the applicable unadjusted MAarea-specific non-drug monthly benchmark amount (as defined in section 1395w–23(j) of this title).
 
 #### (B) MA monthly prescription drug beneficiary premium
 
@@ -372,13 +372,13 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;For periods before 2006, in no event may—
 
-&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) for a year, exceed
+&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described insection 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) for a year, exceed
 
 &emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A and enrolled under part B if they were not members of a Medicare+Choice organization for the year.
 
 #### (2) For supplemental benefits before 2006
 
-&emsp;For periods before 2006, if the Medicare+Choice organization provides to itsmembers enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
+&emsp;For periods before 2006, if the Medicare+Choice organization provides to its members enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
 
 #### (3) Determination on other basis
 
@@ -642,7 +642,7 @@ Amendment by section 1000(a)(6) \[title III, §321(k)(6)(C)\] of Pub. L. 106–1
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §515(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendments made by this section \[amending this section\] apply to contract years beginning on or after January 1, 2001."
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendment made by subsection (a) \[amending this section\] applies to information submitted by Medicare+Choice organizations for years beginning with 1999."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §516(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–384, provided that: "The amendment made by subsection (a) \[amending this section\] applies to information submitted byMedicare+Choice organizations for years beginning with 1999."
 
 <i><sup>1</sup></i><i> So in original. Probably means subclause (I) of section 1395w–23(o)(3)(A)(ii) of this title.</i>
 

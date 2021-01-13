@@ -10,7 +10,7 @@ Disposition of Unclaimed Clothing.—
 
 &emsp;(1)
 
-In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Administrator of the Transportation Security Administration shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
+In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Administrator of the Transportation Security Administration shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations orother local charitable organizations for distribution to homeless or needy veterans and veteran families.
 
 &emsp;(2)
 

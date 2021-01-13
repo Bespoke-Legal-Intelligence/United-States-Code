@@ -28,6 +28,8 @@ Aug. 13, 1981, Pub. L. 97–35, §1741(b), 95 Stat. 763.
 
 In clause (1)(A), the word "Federal" is omitted as surplus because of section 101 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Omnibus Budget Reconciliation Act of 1981, referred to in par. (1)(B), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. For complete classification of this Act to the Code, see Tables.

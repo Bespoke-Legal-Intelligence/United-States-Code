@@ -6,7 +6,7 @@ The Secretary of the Interior, hereinafter referred to as the "Secretary", is au
 
 #### (b) Desalting complexes and plants
 
-(1) The Secretary is authorized to construct, operate, and maintain a desalting complex, including (1) a desalting plant to reduce the salinity of drain water from the Wellton-Mohawk division of the Gila project, Arizona (hereinafter referred to as the division), including a pretreatment plant for settling, softening, and filtration of the drain water to be desalted; (2) the necessary appurtenant works including the intake pumping plant system, product waterline, power transmission facilities, and permanent operating facilities; (3) the necessary extension in the United States and Mexico of the existing bypass drain to carry the reject stream from the desalting plant and other drainage waters to the Santa Clara Slough in Mexico, with the part in Mexico, subject to arrangements made pursuant to subsection (d); (4) replacement of the metal flume in the existing main outlet drain extension with a concrete siphon; (5) reduction of the quantity of irrigation return flows through acquisition of lands to reduce the size of the division, and irrigation efficiency improvements to minimize return flows; (6) acquire on behalf of the United States such lands or interest in lands in the Painted Rock Reservoir as may be necessary to operate the project in accordance withthe obligations of Minute No. 242, and (7) all associated facilities including roads, railroad spur, and transmission lines.
+(1) The Secretary is authorized to construct, operate, and maintain a desalting complex, including (1) a desalting plant to reduce the salinity of drain water from the Wellton-Mohawk division of the Gila project, Arizona (hereinafter referred to as the division), including a pretreatment plant for settling, softening, and filtration of the drain water to be desalted; (2) the necessary appurtenant works including the intake pumping plant system, product waterline, power transmission facilities, and permanent operating facilities; (3) the necessary extension in the United States and Mexico of the existing bypass drain to carry the reject stream from the desalting plant and other drainage waters to the Santa Clara Slough in Mexico, with the part in Mexico, subject to arrangements made pursuant to subsection (d); (4) replacement of the metal flume in the existing main outlet drain extension with a concrete siphon; (5) reduction of the quantity of irrigation return flows through acquisition of lands to reduce the size of the division, and irrigation efficiency improvements to minimize return flows; (6) acquire on behalf of the United States such lands or interest in lands in the Painted Rock Reservoir as may be necessary to operate the project in accordance with the obligations of Minute No. 242, and (7) all associated facilities including roads, railroad spur, and transmission lines.
 
 (2)(A) The desalting plant shall be designed to treat approximately one hundred and twenty-nine million gallons a day of drain water using advanced technology commercially available. The plant shall effect recovery initially of not less than 70 per centum of the drain water as product water, and shall effect reduction of not less than 90 per centum of the dissolved solids in the feed water. The Secretary shall use sources of electric power supply for the desalting complex that will not diminish the supply of power to preference customers from Federal power systems operated by the Secretary.
 
@@ -64,6 +64,8 @@ All cost associated with the desalting complex shall be nonreimbursable except a
 
 (Pub. L. 93–320, title I, §101, June 24, 1974, 88 Stat. 266; Pub. L. 96–336, §§1, 2, Sept. 4, 1980, 94 Stat. 1063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of July 30, 1947 (61 Stat. 628), known as the Gila Reauthorization Act, referred to in subsec. (f)(2), is act July 30, 1947, ch. 382, 61 Stat. 628, which was classified generally to subchapter XXI (§613 et seq.) of chapter 12 of this title, and was omitted from the Code.
@@ -73,6 +75,8 @@ Act of July 30, 1947 (61 Stat. 628), known as the Gila Reauthorization Act, refe
 <b>1980</b>—Subsec. (b)(2). Pub. L. 96–336, §1, designated existing provisions as subpar. (A), struck out requirement that all costs associated with the desalting plant be nonreimbursable, and added subpars. (B) and (C).
 
 Subsec. (c). Pub. L. 96–336, §2, included replacement water studies covering reject stream from the Colorado River waters used for the mitigation of fish and wildlife habitat losses.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) information on the average age for intervention for individuals diagnosed with autism spectrum disorder and other developmental disabilities, including how that age may have changed over the 4-year period beginning on September 30, 2019, and, as appropriate, how this age varies across population subgroups;
 
-&emsp;&emsp;(F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, onhow such average time varies across population subgroups;
+&emsp;&emsp;(F) information on the average time between initial screening and then diagnosis or rule out for individuals with autism spectrum disorder or other developmental disabilities, as well as information on the average time between diagnosis and evidence-based intervention for individuals with autism spectrum disorder or other developmental disabilities and, as appropriate, on how such average time varies across population subgroups;
 
 &emsp;&emsp;(G) information on the effectiveness and outcomes of interventions for individuals diagnosed with autism spectrum disorder, including by severity level as practicable, and other developmental disabilities and how the age of the individual or other factors, such as demographic characteristics, may affect such effectiveness;
 
@@ -100,7 +100,7 @@ Subsec. (b)(1). Pub. L. 116–60, §3(d)(2)(B), amended par. (1) generally. Prio
 
 Subsec. (b)(2)(A). Pub. L. 116–60, §3(d)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "demographic characteristics of youth transitioning from school-based to community-based supports;".
 
-Subsec. (b)(2)(B). Pub. L. 116–60, §3(d)(2)(C)(ii), substituted "the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;" for "young adults with autism spectrum disorder relating to post-secondary school transitional services, including an identification of existingFederal laws, regulations, policies, research, and programs;".
+Subsec. (b)(2)(B). Pub. L. 116–60, §3(d)(2)(C)(ii), substituted "the health and well-being of individuals with autism spectrum disorder, including an identification of existing Federal laws, regulations, policies, research, and programs;" for "young adults with autism spectrum disorder relating to post-secondary school transitional services, including an identification of existing Federal laws, regulations, policies, research, and programs;".
 
 Subsec. (b)(2)(C) to (E). Pub. L. 116–60, §3(d)(2)(C)(iii), amended subpars. (C) to (E) generally. Prior to amendment, subpars. (C) to (E) related, respectively, to proposals on establishing certain best practices guidelines, comprehensive approaches to transitioning from existing school-based services to those services available during adulthood, and proposals that seek to improve outcomes for adults with autism spectrum disorder making the transition from a school-based support system to adulthood.
 

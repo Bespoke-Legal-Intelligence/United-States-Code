@@ -66,7 +66,7 @@ In carrying out subsection (b), the Secretary shall ensure that—
 
 #### (2) Limitation on liability
 
-&emsp;No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with this section and any contract or agreement entered into pursuant to subsection (c)(2).
+&emsp;No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with thissection and any contract or agreement entered into pursuant to subsection (c)(2).
 
 #### (3) Rule of construction
 
@@ -77,6 +77,8 @@ In carrying out subsection (b), the Secretary shall ensure that—
 Not later than 1 year after December 18, 2015, the Privacy Officer appointed under section 142 of this title, in consultation with the Attorney General, shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable privacy laws, including those governing the acquisition, interception, retention, use, and disclosure of communications.
 
 (Pub. L. 107–296, title XXII, §2213, formerly title II, §230, as added Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964; renumbered title XXII, §2213, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(vii), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Section was formerly classified to section 151 of this title prior to renumberin
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–278, §2(g)(9)(A)(vii)(I), substituted "section 660 of this title" for "section 149 of this title".
 
 Subsec. (a)(4). Pub. L. 115–278, §2(g)(9)(A)(vii)(II), substituted "section 659 of this title" for "section 148 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Homeland Security Disclosure of Security Vulnerabilities
 
@@ -176,7 +180,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'information system' has the meaning given that term by section 3502 of title 44, United States Code.
 
-&emsp;"(3) The term 'appropriate information system' means an information system that the Secretary of Homeland Security selects for inclusion under the vulnerability disclosure policy required by subsection (a).
+&emsp;"(3) The term 'appropriate information system' means an information system that the Secretary of Homeland Security selects for inclusion under thevulnerability disclosure policy required by subsection (a).
 
 &emsp;"(4) The term 'appropriate congressional committees' means—
 
@@ -286,7 +290,7 @@ Pub. L. 114–113, div. N, title II, §223(b), Dec. 18, 2015, 129 Stat. 2966, as
 
 In general.—Except as provided in paragraph (2)—
 
-&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after thedate on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head of each agency shall apply and continue to utilize the capabilities to all information traveling between an agency information system and any information system other than an agency information system; and
+&emsp;"(A) not later than 1 year after the date of enactment of this Act \[Dec. 18, 2015\] or 2 months after the date on which the Secretary makes available the intrusion detection and prevention capabilities under section 2213(b)(1) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(1)\], whichever is later, the head of each agency shall apply and continue to utilize the capabilities to all information traveling between an agency information system and any information system other than an agency information system; and
 
 &emsp;"(B) not later than 6 months after the date on which the Secretary makes available improvements to the intrusion detection and prevention capabilities pursuant to section 2213(b)(2) of the Homeland Security Act of 2002 \[6 U.S.C. 663(b)(2)\], the head of each agency shall apply and continue to utilize the improved intrusion detection and prevention capabilities.
 

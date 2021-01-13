@@ -12,13 +12,15 @@
 
 &emsp;&emsp;(C) the number of inspectors employed by the Department of Agriculture in the calendar year concerned who were assigned to inspect plants referred to in paragraph (B) hereof and the frequency with which each such plant was inspected by such inspectors;
 
-&emsp;&emsp;(D) the number of inspectors that were licensed by each country from which any imports were received and that were assigned, during the calendar year concerned, to inspect such imports and the facilities in which such imports were handled; and the frequency and effectiveness of such inspections;
+&emsp;&emsp;(D) the number of inspectors that were licensed by each country from which any imports were received and that were assigned, during the calendar year concerned, to inspect such imports and the facilities inwhich such imports were handled; and the frequency and effectiveness of such inspections;
 
 &emsp;&emsp;(E) the total volume of eggs and egg products which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter; and
 
 &emsp;&emsp;(F) recommendations for legislation to improve such program.
 
 (Pub. L. 91–597, §26, Dec. 29, 1970, 84 Stat. 1634; Pub. L. 103–437, §8(4), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ This chapter, referred to in subsec. (a)(1), (2)(A), (E), was in the original "t
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Agriculture, Nutrition, and Forestry" for "Agriculture and Forestry" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

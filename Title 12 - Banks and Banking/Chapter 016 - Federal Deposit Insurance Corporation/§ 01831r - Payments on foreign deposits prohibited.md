@@ -6,13 +6,15 @@ Notwithstanding any other provision of law, the Corporation, the Board of Govern
 
 #### (b) Exception
 
-Subsection (a) shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action is not inconsistent with any requirement of section 1823(c) of this title.
+Subsection (a) shall not apply to any payment, assistance, guarantee, or transfer made or provided by the Corporation if the Board of Directors determines in writing that such action isnot inconsistent with any requirement of section 1823(c) of this title.
 
 #### (c) Discount window lending
 
 No provision of this section shall be construed as prohibiting any Federal Reserve bank from making advances or otherwise extending credit pursuant to the Federal Reserve Act \[12 U.S.C. 221 et seq.\] to any insured depository institution to the extent that such advance or extension of credit is consistent with the conditions and limitations imposed under section 10B of such Act \[12 U.S.C. 347b\].
 
 (Sept. 21, 1950, ch. 967, §2\[41\], as added Pub. L. 102–242, title III, §312, Dec. 19, 1991, 105 Stat. 2367.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

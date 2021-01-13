@@ -44,7 +44,7 @@ Amendment by Pub. L. 98–21 applicable to items and services furnished by or un
 
 Pub. L. 97–248, title I, §109(c)(1), (2), Sept. 3, 1982, 96 Stat. 339, provided that:
 
-"(1) The amendments made by this section \[amending this section and section 1395x of this title\] shall become effective on the date of the enactment of this Act\[Sept. 3, 1982\], except that section 1887(b)(1) of the Social Security Act \[42 U.S.C. 1395xx(b)(1)\] shall not apply before October 1, 1982, to services furnished by a physician and described in section 1887(a)(1)(B) of such Act \[42 U.S.C. 1395xx(a)(1)(B)\].
+"(1) The amendments made by this section \[amending this section and section 1395x of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1982\], except that section 1887(b)(1) of the Social Security Act \[42 U.S.C. 1395xx(b)(1)\] shall not apply before October 1, 1982, to services furnished by a physician and described in section 1887(a)(1)(B) of such Act \[42 U.S.C. 1395xx(a)(1)(B)\].
 
 "(2) In the case of a contract with a provider of services entered into prior to the date of the enactment of this Act \[Sept. 3, 1982\], the amendment made by subsection (a) \[amending this section\] shall apply to payments under such contract (A) 30 days after the first date (after such date of enactment) the provider of services may unilaterally terminate the contract, or (B) one year after the date of the enactment of this Act, whichever is earlier."
 

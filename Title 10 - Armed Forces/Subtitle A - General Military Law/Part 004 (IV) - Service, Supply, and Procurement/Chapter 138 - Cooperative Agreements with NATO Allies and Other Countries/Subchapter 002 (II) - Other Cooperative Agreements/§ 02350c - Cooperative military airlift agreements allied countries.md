@@ -4,7 +4,7 @@
 
 &emsp;(1) The rate of reimbursement for transportation provided shall be the same for each party and shall be not less than the rate charged to military forces of the United States, as determined by the Secretary of Defense under section 2208(h) of this title.
 
-&emsp;(2) Credits and liabilities accrued as a result of providing or receiving transportation shall be liquidated as agreed upon by the parties. Liquidation shall be either by direct payment to the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.
+&emsp;(2) Credits and liabilities accrued as a result of providing or receiving transportation shall be liquidated as agreed upon by the parties. Liquidation shall be either by direct paymentto the country that has provided the greater amount of transportation or by the providing of in-kind transportation services to that country. The liquidation shall occur on a regular basis, but not less often than once every 12 months.
 
 &emsp;(3) During peacetime, the only military airlift capacity that may be used to provide transportation is that capacity that (A) is not needed to meet the transportation requirements of the military forces of the country providing the transportation, and (B) was not created solely to accommodate the requirements of the military forces of the country receiving the transportation.
 
@@ -50,59 +50,7 @@ Subsec. (d). Pub. L. 101–189, §931(b)(2), substituted "subchapter I" for "cha
 
 #### Department of Defense Participation in European Program on Multilateral Exchange of Air Transportation and Air Refueling Services
 
-Pub. L. 112–239, div. A, title XII, §1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, §1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, provided that:
-
-"(a)
-
-Participation Authorized.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the 'ATARES program') of the Movement Coordination Centre Europe.
-
-&emsp;"(2)
-
-Scope of participation.—Participation in the ATARES program under paragraph (1) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value.
-
-&emsp;"(3)
-
-Limitations.—The United States' balance of executed flight hours, whether as credits or debits, in participation in the ATARES program under paragraph (1) may not exceed 500 hours. The United States' balance of executed flight hours for air refueling in the ATARES program under paragraph (1) may not exceed 200 hours.
-
-"(b)
-
-Written Arrangement or Agreement.—
-
-&emsp;"(1)
-
-Arrangement or agreement required.—The participation of the United States in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe.
-
-&emsp;"(2)
-
-Funding arrangements.—If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost sharing or other funding arrangement.
-
-&emsp;"(3)
-
-Other elements.—Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every five years, through the ATARES program.
-
-"(c)
-
-Implementation.—In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
-
-&emsp;"(1) pay the United States' equitable share of the operating expenses of the Movement Coordination Centre Europe and the ATARES consortium from funds available to the Department of Defense for operation and maintenance; and
-
-&emsp;"(2) assign members of the Armed Forces or Department of Defense civilian personnel, from among members and personnel within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill the United States' obligations under that arrangement or agreement.
-
-"(d)
-
-Crediting of Receipts.—Any amount received by the United States in carrying out a written arrangement or agreement entered into under subsection (b) shall be credited, as elected by the Secretary of Defense, to the following:
-
-&emsp;"(1) The appropriation, fund, or account used in incurring the obligation for which such amount is received.
-
-&emsp;"(2) An appropriation, fund, or account currently available for the purposes for which such obligation was made.
-
-"(e)
-
-Expiration.—The authority provided by this section to participate in the ATARES program shall expire five years after the date on which the Secretary of Defense first enters into a written arrangement or agreement under subsection (b). The Secretary shall publish notice of such date on a public website of the Department of Defense."
+Pub. L. 112–239, div. A, title XII, §1276, Jan. 2, 2013, 126 Stat. 2029, as amended by Pub. L. 115–91, div. A, title X, §1051(r)(9), Dec. 12, 2017, 131 Stat. 1565, which related to participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services (ATARES) program of the Movement Coordination Centre Europe, was repealed by Pub. L. 116–283, div. A, title XII, §1203(c), Jan. 1, 2021, 134 Stat. 3911. See section 2350o of this title.
 
 #### Department of Defense Participation in Strategic Airlift Capability Partnership
 

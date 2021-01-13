@@ -38,7 +38,7 @@ In general.—This division does not apply—
 
 &emsp;(2)
 
-Applicability of certain laws related to advertising, opening of bids, and length of contract.—Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to section 6101 of this title. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to section 6101 of this title is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
+Applicability of certain laws related to advertising, opening of bids, and length of contract.—Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statuteto procure without advertising or without regard to section 6101 of this title. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to section 6101 of this title is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3742.)
 
@@ -84,6 +84,8 @@ June 30, 1949, ch. 288, title III, §310, 63 Stat. 397; July 12, 1952, ch. 703, 
 
 In subsection (c)(1)(B), the words "except as provided in paragraph (2)" are added for clarity. The words "section 113(e) of title 40 or any other" are omitted as unnecessary.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13005. Empowerment Contracting
 
 Ex. Ord. No. 13005, May 21, 1996, 61 F.R. 26069, provided:
@@ -96,7 +98,7 @@ Accordingly, by the authority vested in me as President by the Constitution and 
 
 Section 1. <i>Policy</i>. The purpose of this order is to strengthen the economy and to improve the efficiency of the Federal procurement system by encouraging business development that expands the industrial base and increases competition.
 
-Sec. 2. <i>Empowerment Contracting Program</i>. In consultation with the Secretaries of the Departments of Housing and Urban Development, Labor, and Defense; the Administrator of General Services; the Administrator of the National Aeronautics and Space Administration; the Administrator of the Small Business Administration; and the Administrator for Federal Procurement Policy, the Secretary of the Department of Commerce shall develop policies and procedures to ensure that agencies, to the extent permitted by law, grant qualified large businesses and qualified small businesses appropriate incentives to encourage business activity in areas of general economic distress, including a price oran evaluation credit, when assessing offers for government contracts in unrestricted competitions, where the incentives would promote the policy set forth in this order. In developing such policies and procedures, the Secretary shall consider the size of the qualified businesses.
+Sec. 2. <i>Empowerment Contracting Program</i>. In consultation with the Secretaries of the Departments of Housing and Urban Development, Labor, and Defense; the Administrator of General Services; the Administrator of the National Aeronautics and Space Administration; the Administrator of the Small Business Administration; and the Administrator for Federal Procurement Policy, the Secretary of the Department of Commerce shall develop policies and procedures to ensure that agencies, to the extent permitted by law, grant qualified large businesses and qualified small businesses appropriate incentives to encourage business activity in areas of general economic distress, including a price or an evaluation credit, when assessing offers for government contracts in unrestricted competitions, where the incentives would promote the policy set forth in this order. In developing such policies and procedures, the Secretary shall consider the size of the qualified businesses.
 
 Sec. 3. <i>Monitoring and Evaluation</i>. The Secretary shall:
 
@@ -132,7 +134,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 (c) "Qualified large business" means a large for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; and (2) either has a significant physical presence in the area of general economic distress or has a direct impact on generating significant economic activity in the area of general economic distress.
 
-(d) "Qualified small business" means a small for-profit or not-for-profit trade or business that (1) employs a significant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
+(d) "Qualified small business" means a small for-profit or not-for-profit trade or business that (1) employs asignificant number of residents from the area of general economic distress; (2) has a significant physical presence in the area of general economic distress; or (3) has a direct impact on generating significant economic activity in the area of general economic distress.
 
 (e) "Secretary" means the Secretary of Commerce.
 
@@ -214,7 +216,7 @@ Sec. 2. <i>Anti-Trafficking Provisions</i>. (a) Within 180 days of the date of t
 
 Sec. 3. <i>Guidance and Training</i>. (a) The Administrator for Federal Procurement Policy shall:
 
-(1) in consultation with appropriate management councils, such as the Chief Acquisition Officers Council, provide guidance to agencies on developing appropriate internal procedures and controls for awardingand administering Federal contracts to improve monitoring of and compliance with actions to prevent trafficking in persons, consistent with section 106 of the TVPA, including the development of methods to track the number of trafficking violations reported and remedies applied; and
+(1) in consultation with appropriate management councils, such as the Chief Acquisition Officers Council, provide guidance to agencies on developing appropriate internal procedures and controls for awarding and administering Federal contracts to improve monitoring of and compliance with actions to prevent trafficking in persons, consistent with section 106 of the TVPA, including the development of methods to track the number of trafficking violations reported and remedies applied; and
 
 (2) in consultation with the Federal Acquisition Institute and appropriate management councils, such as the Chief Acquisition Officers Council:
 
@@ -296,7 +298,7 @@ I further direct the Director of OMB, in collaboration with the aforementioned o
 
 (1) govern the appropriate use and oversight of sole-source and other types of noncompetitive contracts and to maximize the use of full and open competition and other competitive procurement processes;
 
-(2) govern the appropriate use and oversight of all contract types, in full consideration of the agency's needs, and to minimize risk and maximize the value of Government contracts generally, consistent with the regulations to be promulgated pursuant to section 864 of Public Law 110–417;
+(2) govern the appropriate use and oversight of all contract types, in full consideration of the agency's needs, and to minimize risk and maximize the value of Government contracts generally, consistent with theregulations to be promulgated pursuant to section 864 of Public Law 110–417;
 
 (3) assist agencies in assessing the capacity and ability of the Federal acquisition workforce to develop, manage, and oversee acquisitions appropriately; and
 

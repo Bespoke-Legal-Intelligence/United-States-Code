@@ -16,7 +16,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;(1) represents a consortium—
 
-&emsp;&emsp;(A) whose principal purpose is to provide a broad range of coordinated health care services for a community defined in the entity'sgrant application as described in paragraph (2); and
+&emsp;&emsp;(A) whose principal purpose is to provide a broad range of coordinated health care services for a community defined in the entity's grant application as described in paragraph (2); and
 
 &emsp;&emsp;(B) that includes at least one of each of the following providers that serve the community (unless such provider does not exist within the community, declines or refuses to participate, or places unreasonable conditions on their participation)—
 
@@ -44,7 +44,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(G) demonstrates the consortium's ability to ensure that individuals participating in the program are enrolled in public insurance programs for which the individuals are eligible or know of private insurance programs where available;
 
-&emsp;&emsp;(H) presents a plan for leveraging other sources of revenue, which may include State and local sources and private grant funds, and integrating current and proposed new funding sources in a way to assure long-term sustainability of the program;
+&emsp;&emsp;(H) presents a plan for leveraging other sources of revenue, which may include State and local sources and private grant funds, and integrating current and proposed newfunding sources in a way to assure long-term sustainability of the program;
 
 &emsp;&emsp;(I) describes a plan for evaluation of the activities carried out under the grant, including measurement of progress toward the goals and objectives of the program and the use of evaluation findings to improve program performance;
 
@@ -134,7 +134,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;&emsp;(iii) Improvements to coordination of transportation to health care facilities.
 
-&emsp;&emsp;&emsp;(iv) Development of provider networks and other innovative models to engage physicians in voluntary efforts to serve the medically underserved within a community.
+&emsp;&emsp;&emsp;(iv) Development of provider networks and other innovative models to engage physicians in voluntary efforts to servethe medically underserved within a community.
 
 &emsp;&emsp;&emsp;(v) Recruitment, training, and compensation of necessary personnel.
 
@@ -176,7 +176,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(III) resulted in the provision of health care to such individuals at lower cost than would have been possible in the absence of the activities conducted by such grantee; and
 
-&emsp;&emsp;(B) provide for an independent annual financial audit of all records that relate tothe disposition of funds received through the grant.
+&emsp;&emsp;(B) provide for an independent annual financial audit of all records that relate to the disposition of funds received through the grant.
 
 #### (2) Progress
 

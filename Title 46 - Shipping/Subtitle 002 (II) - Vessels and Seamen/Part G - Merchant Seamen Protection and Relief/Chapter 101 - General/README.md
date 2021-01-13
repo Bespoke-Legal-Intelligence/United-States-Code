@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–206, title IV, §422(c)(2), Dec. 20, 1993, 107 Stat. 2439, struck out item 10102 "Designations and duties of shipping commissioners".

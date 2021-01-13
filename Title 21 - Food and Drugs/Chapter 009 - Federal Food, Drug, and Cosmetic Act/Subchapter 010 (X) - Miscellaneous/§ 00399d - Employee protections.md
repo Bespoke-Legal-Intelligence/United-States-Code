@@ -16,7 +16,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (1) In general
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days afterthe date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation
 
@@ -68,7 +68,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (D) Bad faith claim
 
-&emsp;&emsp;If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary may award to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
+&emsp;&emsp;If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary mayaward to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
 
 #### (4) Action in court
 
@@ -129,6 +129,8 @@ Any nondiscretionary duty imposed by this section shall be enforceable in a mand
 Subsection (a) shall not apply with respect to an employee of an entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food who, acting without direction from such entity (or such entity's agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, rule, regulation, standard, or ban under this chapter.
 
 (June 25, 1938, ch. 675, §1013, formerly §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968; renumbered §1013, Pub. L. 114–255, div. A, title III, §3073(b)(1), Dec. 13, 2016, 130 Stat. 1137.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

@@ -16,5 +16,5 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 #### Delegation of Authority
 
-Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001,66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
+Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
 

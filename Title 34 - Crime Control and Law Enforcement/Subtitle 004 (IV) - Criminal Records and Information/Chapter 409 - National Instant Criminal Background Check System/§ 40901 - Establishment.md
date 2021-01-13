@@ -52,7 +52,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;(ii) notify the Attorney General that such basis no longer applies so that the National Instant Criminal Background Check System is kept up to date.
 
-> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant Criminal Background Check System is updated, corrected, modified, or removed within 30 days of receipt.
+> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant CriminalBackground Check System is updated, corrected, modified, or removed within 30 days of receipt.
 
 #### (E) Annual report
 
@@ -76,7 +76,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;A certification required under clause (i) shall state, for the applicable period—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total number of records of the Federal department or agency demonstrating that a person falls within oneof the categories described in subsection (g) or (n) of section 922 of title 18;
+&emsp;&emsp;&emsp;&emsp;(I) the total number of records of the Federal department or agency demonstrating that a person falls within one of the categories described in subsection (g) or (n) of section 922 of title 18;
 
 &emsp;&emsp;&emsp;&emsp;(II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
 
@@ -144,7 +144,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 #### (2) Other authority
 
-&emsp;The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessaryto establish and operate the system in accordance with this section.
+&emsp;The Attorney General shall develop such computer software, design and obtain such telecommunications and computer hardware, and employ such personnel, as are necessary to establish and operate the system in accordance with this section.
 
 #### (f) Written reasons provided on request
 
@@ -182,7 +182,9 @@ As used in this section:
 
 There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
 
-(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
+(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504;Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -205,6 +207,8 @@ Subsec. (i)(2). Pub. L. 104–294, §603(h), made technical amendment to referen
 Subsec. (k). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. L. 103–322, §210603(b). See 1994 Amendment note below.
 
 <b>1994</b>—Subsec. (k). Pub. L. 103–322, §210603(b), as amended by Pub. L. 104–294, §603(i)(1), struck out ", which may be appropriated from the Violent Crime Reduction Trust Fund established by section 1115 of title 31" after "authorized to be appropriated".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -244,13 +248,15 @@ Additional Study of Other Persons Ineligible To Purchase Firearms.—The Attorne
 
 Definitions.—As used in this section, the terms 'firearm' and 'dealer' shall have the meanings given such terms in section 921(a) of title 18, United States Code."
 
+#### <b>Executive Documents</b>
+
 #### Tracing of Firearms in Connection With Criminal Investigations
 
 Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, provided:
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
+Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transferand movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
 
 Firearms tracing provides two principal benefits. First, tracing is an important investigative tool in individual cases, providing law enforcement agents with critical information that may lead to the apprehension of suspects, the recovery of other guns used in the commission of crimes, and the identification of potential witnesses, among other things. Second, analysis of tracing data in the aggregate provides valuable intelligence about local, regional, and national patterns relating to the movement and sources of guns used in the commission of crimes, which is useful for the effective deployment of law enforcement resources and development of enforcement strategies. Firearms tracing is a particularly valuable tool in detecting and investigating firearms trafficking, and has been deployed to help combat the pernicious problem of firearms trafficking across the Southwest border.
 

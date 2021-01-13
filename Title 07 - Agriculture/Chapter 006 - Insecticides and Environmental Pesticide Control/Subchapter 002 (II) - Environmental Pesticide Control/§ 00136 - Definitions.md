@@ -74,7 +74,7 @@ The term "environment" includes water, air, land, and all plants and man and oth
 
 #### (k) Fungus
 
-The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any non-chlorophyll-bearing plant of a lower order than mosses and liverworts), as for example, rust, smut, mildew, mold, yeast, and bacteria, exceptthose on or in living man or other animals and those on or in processed food, beverages, or pharmaceuticals.
+The term "fungus" means any non-chlorophyll-bearing thallophyte (that is, any non-chlorophyll-bearing plant of a lower order than mosses and liverworts), as for example, rust, smut, mildew, mold, yeast, and bacteria, except those on or in living man or other animals and those on or in processed food, beverages, or pharmaceuticals.
 
 #### (l) Imminent hazard
 
@@ -140,7 +140,7 @@ The term "insect" means any of the numerous small invertebrate animals generally
 
 &emsp;&emsp;(B) the labeling does not contain a statement of the use classification under which the product is registered;
 
-&emsp;&emsp;(C) there is not affixed to its container, and to the outside container or wrapper ofthe retail package, if there be one, through which the required information on the immediate container cannot be clearly read, a label bearing—
+&emsp;&emsp;(C) there is not affixed to its container, and to the outside container or wrapper of the retail package, if there be one, through which the required information on the immediate container cannot be clearly read, a label bearing—
 
 &emsp;&emsp;&emsp;(i) the name and address of the producer, registrant, or person for whom produced;
 
@@ -196,7 +196,7 @@ The term "registration" includes reregistration.
 
 #### (aa) State
 
-The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
+The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
 
 #### (bb) Unreasonable adverse effects on the environment
 

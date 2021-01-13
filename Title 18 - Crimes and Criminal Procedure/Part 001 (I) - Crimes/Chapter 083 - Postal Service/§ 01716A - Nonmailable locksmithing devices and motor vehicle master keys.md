@@ -6,6 +6,8 @@
 
 (Added Pub. L. 90–560, §2(1), Oct. 12, 1968, 82 Stat. 997; amended Pub. L. 91–375, Aug. 12, 1970, §6(j)(26), 84 Stat. 780; Pub. L. 100–690, title VII, §7090(c), Nov. 18, 1988, 102 Stat. 4410; Pub. L. 101–647, title XXXV, §3551, Nov. 29, 1990, 104 Stat. 4926.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "shall be fined under this title or" for "shall be under this title".
@@ -13,6 +15,8 @@
 <b>1988</b>—Pub. L. 100–690 inserted "locksmithing devices and" in section catchline, designated existing provisions as subsec. (a), substituted "under this title" for "fined not more than $1,000, or", and added subsec. (b).
 
 <b>1970</b>—Pub. L. 91–375 substituted "section 3002" for "section 4010" of title 39.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

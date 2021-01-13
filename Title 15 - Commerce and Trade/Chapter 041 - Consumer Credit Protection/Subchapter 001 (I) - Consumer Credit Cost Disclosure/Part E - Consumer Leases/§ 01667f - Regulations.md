@@ -62,7 +62,7 @@ Shorter period.—The Board may shorten the time period referred to in subparagr
 
 "(D)
 
-Compliance before effective date.—Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection) before the effective date of such requirement.
+Compliance before effective date.—Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (asadded by paragraph (1) of this subsection) before the effective date of such requirement.
 
 "(E)
 

@@ -78,5 +78,5 @@ Pub. L. 96–418, title VI, §608, Oct. 10, 1980, 94 Stat. 1774, provided that: 
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–82, title V, §505(c), Aug. 1, 1977, 91 Stat. 372, provided that: "The amendments made by subsection (a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code\] shall take effect October 1, 1977."
+Pub. L. 95–82, title V, §505(c), Aug. 1, 1977, 91 Stat. 372, provided that: "The amendments made by subsection\(a) \[amending this section\] and the repeal made by subsection (b) \[repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code\] shall take effect October 1, 1977."
 

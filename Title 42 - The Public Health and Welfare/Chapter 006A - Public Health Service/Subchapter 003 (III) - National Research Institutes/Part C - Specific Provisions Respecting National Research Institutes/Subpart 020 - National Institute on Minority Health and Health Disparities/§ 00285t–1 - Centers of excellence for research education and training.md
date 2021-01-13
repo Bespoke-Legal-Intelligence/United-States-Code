@@ -24,7 +24,7 @@ An award may be made under subsection (a) only if the applicant involved agrees 
 
 &emsp;&emsp;(C) has made significant efforts to recruit minority students to enroll in and graduate from the institution, which may include providing means-tested scholarships and other financial assistance as appropriate; and
 
-&emsp;&emsp;(D) has made significant recruitment efforts to increase the number of minority or other members of health disparity populations serving in faculty or administrative positions at the institution.
+&emsp;&emsp;(D) has made significant recruitment efforts to increase the number of minority orother members of health disparity populations serving in faculty or administrative positions at the institution.
 
 #### (2) Consortium
 

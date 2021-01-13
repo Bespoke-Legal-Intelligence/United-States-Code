@@ -104,7 +104,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 Grants and contracts awarded pursuant to subsection (a) shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
 
-&emsp;(1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtain housing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims' negative histories;
+&emsp;(1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtainhousing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims' negative histories;
 
 &emsp;(2) permitting applicants for housing or housing assistance to provide incomplete rental and employment histories, otherwise required as a condition of admission or assistance, if the victim believes that providing such rental and employment history would endanger the victim's or the victim children's safety;
 
@@ -133,6 +133,8 @@ There are authorized to be appropriated $4,000,000 for each of fiscal years 2014
 Up to 12 percent of the amount appropriated under subsection (g) for each fiscal year shall be used by the Attorney General for technical assistance costs under this section.
 
 (Pub. L. 103–322, title IV, §41405, as added Pub. L. 109–162, title VI, §601, Jan. 5, 2006, 119 Stat. 3035; amended Pub. L. 113–4, title VI, §603(2), Mar. 7, 2013, 127 Stat. 110.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

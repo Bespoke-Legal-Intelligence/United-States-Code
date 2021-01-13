@@ -62,7 +62,7 @@ For purposes of this chapter:
 
 &emsp;(17) The term "Office" means the Office of Civilian Radioactive Waste Management established in section 10224 <sup>2</sup> of this title.
 
-&emsp;(18) The term "repository" means any system licensed by the Commission that is intended to be used for, or may be used for, the permanent deep geologic disposal of high-level radioactive waste and spent nuclear fuel, whether or not such system is designed to permit the recovery, for a limited period duringinitial operation, of any materials placed in such system. Such term includes both surface and subsurface areas at which high-level radioactive waste and spent nuclear fuel handling activities are conducted.
+&emsp;(18) The term "repository" means any system licensed by the Commission that is intended to be used for, or may be used for, the permanent deep geologic disposal of high-level radioactive waste and spent nuclear fuel, whether or not such system is designed to permit the recovery, for a limited period during initial operation, of any materials placed in such system. Such term includes both surface and subsurface areas at which high-level radioactive waste and spent nuclear fuel handling activities are conducted.
 
 &emsp;(19) The term "reservation" means—
 
@@ -80,7 +80,7 @@ For purposes of this chapter:
 
 &emsp;(22) The term "siting research" means activities, including borings, surface excavations, shaft excavations, subsurface lateral excavations and borings, and in situ testing, to determine the suitability of a site for a test and evaluation facility.
 
-&emsp;(23) The term "spent nuclear fuel" means fuel that has been withdrawn from a nuclear reactor following irradiation, the constituent elements of which have not been separated by reprocessing.
+&emsp;(23) The term "spent nuclear fuel" means fuel that has been withdrawn from a nuclearreactor following irradiation, the constituent elements of which have not been separated by reprocessing.
 
 &emsp;(24) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 

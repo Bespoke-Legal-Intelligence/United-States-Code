@@ -56,7 +56,7 @@ The interim final and final regulations developed under subsection (a) shall req
 
 #### (4) Updates of regulations and program revisions
 
-&emsp;The Secretary shall periodically review and update, as appropriate, the training regulations issued under subsection (a) to reflect new or changing security threats. Each public transportation agency shall revise its training program accordingly and provide additional training as necessary to its workers within a reasonable time after the regulations are updated.
+&emsp;The Secretary shall periodically review and update, as appropriate, the training regulations issued under subsection (a) to reflectnew or changing security threats. Each public transportation agency shall revise its training program accordingly and provide additional training as necessary to its workers within a reasonable time after the regulations are updated.
 
 #### (e) Applicability
 

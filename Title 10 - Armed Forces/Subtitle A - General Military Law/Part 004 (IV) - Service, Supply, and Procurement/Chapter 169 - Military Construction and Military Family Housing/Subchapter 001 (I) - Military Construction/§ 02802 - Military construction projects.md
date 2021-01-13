@@ -14,7 +14,7 @@
 
 &emsp;(5) planning, supervision, administration, and overhead incident to the project.
 
-(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
+(c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation andinclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to section 1105 of title 31 for the fiscal year in which a contract is proposed to be awarded for the project.
 
 \[(d) Repealed. Pub. L. 114–328, div. B, title XXVIII, §2811(b), Dec. 23, 2016, 130 Stat. 2716.\]
 
@@ -94,6 +94,38 @@ Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, pro
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
+#### Pilot Program To Authorize Additional Military Construction Projects for Child Development Centers at Military Installations
+
+Pub. L. 116–283, div. B, title XXVIII, §2865, Jan. 1, 2021, 134 Stat. 4360, provided that:
+
+"(a)
+
+Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carry out military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
+
+"(b)
+
+Reporting Requirement as Condition of Authorization.—
+
+&emsp;"(1)
+
+Report required.—Not later than 90 days after the date of the enactment of a National Defense Authorization Act for a fiscal year covered by the pilot program, the Secretary of the military department concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that describes the location, title, and cost, together with a Department of Defense Form 1391, for each military construction project the Secretary proposes to carry out under the pilot program pursuant to that National Defense Authorization Act.
+
+&emsp;"(2)
+
+Timing of availability of funds.—No funds may be obligated or expended for a military construction project under the pilot program—
+
+&emsp;&emsp;"(A) unless the project is included in a report submitted under paragraph (1); and
+
+&emsp;&emsp;"(B) until the expiration of the 30-day period beginning on the date on which the Secretary concerned submits the report under paragraph (1) in which the project is included.
+
+"(c)
+
+Expiration of Authorization.—Section 2002 of a National Defense Authorization Act for a fiscal year covered by the pilot program shall apply with respect to the authorization of a military construction project carried out under the pilot program pursuant to that National Defense Authorization Act in the same manner as such section applies to the authorization of military construction projects contained in titles XXI through XXIII of that National Defense Authorization Act.
+
+"(d)
+
+Covered Fiscal Years.—The pilot program shall be carried out for each of fiscal years 2021 through 2025, as provided in the National Defense Authorization Act for that fiscal year."
+
 #### Amendment of Unified Facilities Criteria To Promote Military Installation Resilience, Energy Resilience, Energy and Climate Resiliency, and Cyber Resilience
 
 Pub. L. 116–92, div. B, title XXVIII, §2804, Dec. 20, 2019, 133 Stat. 1882, provided that:
@@ -166,7 +198,7 @@ Modification.—
 
 Certification requirement.—The Secretary of Defense shall modify Department of Defense Form 1391 to require, with respect to any proposed major or minor military construction project requiring congressional notification or approval, the inclusion of a certification by the Secretary of Defense or the Secretary of the military department concerned that the proposed military construction project takes into consideration—
 
-&emsp;&emsp;"(A) the potential adverse consequences of long-term changes in environmental conditions, such asincreasingly frequent extreme weather events, that could affect the military installation resilience of the installation for which the military construction project is proposed; and
+&emsp;&emsp;"(A) the potential adverse consequences of long-term changes in environmental conditions, such as increasingly frequent extreme weather events, that could affect the military installation resilience of the installation for which the military construction project is proposed; and
 
 &emsp;&emsp;"(B) building requirements in effect for the locality in which the military construction project is proposed and industry best practices that are developed to withstand extreme weather events and other consequences of changes in environmental conditions.
 
@@ -276,7 +308,7 @@ Minimum flood mitigation requirements.—When mitigating the flood risk of a maj
 
 "(b)
 
-Disclosure Requirements for Department of Defense Form 1391.—Not later than 30 days after thedate of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall amend Department of Defense Form 1391 to require, for each requested military construction project—
+Disclosure Requirements for Department of Defense Form 1391.—Not later than 30 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall amend Department of Defense Form 1391 to require, for each requested military construction project—
 
 &emsp;"(1) disclosure whether the project was included in the prior year's future-years defense program submitted to Congress pursuant to section 221 of title 10, United States Code; and
 
@@ -392,7 +424,7 @@ National capital region.—The term 'National Capital Region' has the meaning gi
 
 &emsp;"(2)
 
-World class military medical center.—The term 'world class military medical center' has the meaning given the term 'world class military medical facility' by the National Capital Region Base Realignment and Closure Health Systems Advisory Subcommittee of the Defense Health Board in appendix B of the report titled 'Achieving World Class—An Independent Review of the Design Plans for the Walter Reed National Military Medical Center and the Fort Belvoir Community Hospital' and published in May 2009, as required by section 2721 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of Public Law 110–417; 122 Stat. 4716)."
+World class military medical center.—The term 'world class military medical center' has the meaning given the term 'world class military medicalfacility' by the National Capital Region Base Realignment and Closure Health Systems Advisory Subcommittee of the Defense Health Board in appendix B of the report titled 'Achieving World Class—An Independent Review of the Design Plans for the Walter Reed National Military Medical Center and the Fort Belvoir Community Hospital' and published in May 2009, as required by section 2721 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of Public Law 110–417; 122 Stat. 4716)."
 
 #### Damage to Aviation Facilities Caused by Alkali Silica Reactivity
 

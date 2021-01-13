@@ -6,13 +6,17 @@ Unless retired or separated earlier, each officer on the lineal list of the comm
 
 #### (b) Flag officers
 
-Notwithstanding subsection (a), the President may defer the retirement of an officer serving ina position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
+Notwithstanding subsection (a), the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
 
 (Pub. L. 107–372, title II, §243, Dec. 19, 2002, 116 Stat. 3089.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853k of this title prior to repeal by Pub. L. 107–372.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

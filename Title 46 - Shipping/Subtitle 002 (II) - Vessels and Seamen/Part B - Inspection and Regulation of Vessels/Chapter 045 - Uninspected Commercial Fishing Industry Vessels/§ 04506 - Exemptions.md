@@ -6,7 +6,9 @@ The Secretary may exempt a vessel from any part of this chapter if, under regula
 
 &emsp;(2) the safety of the vessel and those on board will not be adversely affected.
 
-(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; amended Pub. L. 102–587, title V,§5222, Nov. 4, 1992, 106 Stat. 5081; Pub. L. 105–383, title III, §301(b)(6), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(b), Oct. 15, 2010, 124 Stat. 2964; Pub. L. 114–120, title III, §306(a)(5), Feb. 8, 2016, 130 Stat. 54.)
+(Added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1587; amended Pub. L. 102–587, title V, §5222, Nov. 4, 1992, 106 Stat. 5081; Pub. L. 105–383, title III, §301(b)(6), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(b), Oct. 15, 2010, 124 Stat. 2964; Pub. L. 114–120, title III, §306(a)(5), Feb. 8, 2016, 130 Stat. 54.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ The Secretary may exempt a vessel from any part of this chapter if, under regula
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: "is not operating on the high seas."
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–587 substituted "4502(b)(2)(B)" for "4502(b)(2)".
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

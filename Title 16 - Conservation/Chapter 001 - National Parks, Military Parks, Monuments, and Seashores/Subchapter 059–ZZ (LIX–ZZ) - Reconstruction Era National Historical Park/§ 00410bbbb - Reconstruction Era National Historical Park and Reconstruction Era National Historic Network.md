@@ -48,7 +48,7 @@ In this section:
 
 #### (C) Camp Saxton
 
-&emsp;&emsp;Subject to subparagraph (D), the Secretary is authorized to accept administrative jurisdiction of Federal land or interests in Federal land adjacent to the existing boundary at Camp Saxton, as reflected on the Map. Upon finalizing an agreement to accept administrative jurisdiction of Federal land or interests in Federal land, the Secretary shall expand the boundary of the historical park to encompass that Federal land or interests in Federal land.
+&emsp;&emsp;Subject to subparagraph (D), the Secretary is authorized to accept administrative jurisdiction of Federal land or interests in Federal land adjacent to the existing boundary at Camp Saxton, as reflected on the Map. Upon finalizing an agreement to accept administrative jurisdiction of Federal land or interests in Federal land, the Secretary shall expand the boundary of the historicalpark to encompass that Federal land or interests in Federal land.
 
 #### (D) Land acquisition authority
 

@@ -58,17 +58,21 @@ Any civil action brought under this title <sup>1</sup> may be brought in a Unit
 
 #### (C) Transferred authority
 
-&emsp;&emsp;In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
+&emsp;&emsp;In any action arising solely under laws for which authorities were transferred undersubtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
 
 (Pub. L. 111–203, title X, §1054, July 21, 2010, 124 Stat. 2028.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This title, referred to in subsecs. (b), (d)(2)(C), (f), and (g)(1), (2)(A), is title X of Pub. L. 111–203, July 21, 2010,124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This title, referred to in subsecs. (b), (d)(2)(C), (f), and (g)(1), (2)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Subtitle F, referred to in subsec. (g)(2)(C), is subtitle F (§§1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
 
 Subtitle H, referred to in subsec. (g)(2)(C), is subtitle H (§§1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

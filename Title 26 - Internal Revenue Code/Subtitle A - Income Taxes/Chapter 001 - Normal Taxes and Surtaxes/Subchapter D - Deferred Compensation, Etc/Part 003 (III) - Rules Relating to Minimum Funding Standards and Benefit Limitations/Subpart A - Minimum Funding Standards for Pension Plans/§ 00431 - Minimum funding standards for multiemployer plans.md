@@ -52,7 +52,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (4) Special rule for amounts first amortized in plan years before 2008
 
-&emsp;In the case of any amount amortized under section 412(b) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) over any period beginning with a plan year beginning before 2008 in lieu of the amortization described in paragraphs (2)(B) and (3)(B), such amount shall continue to be amortized under such section as so in effect.
+&emsp;In the case of any amount amortized under section 412(b) (as in effect on the day before the date of the enactment of the Pension Protection Act of 2006) over any period beginningwith a plan year beginning before 2008 in lieu of the amortization described in paragraphs (2)(B) and (3)(B), such amount shall continue to be amortized under such section as so in effect.
 
 #### (5) Combining and offsetting amounts to be amortized
 
@@ -124,7 +124,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;&emsp;&emsp;(I) no extension of the amortization period under clause (i) shall be allowed under subsection (d), and
 
-&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year beforethe election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
+&emsp;&emsp;&emsp;&emsp;(II) if an extension was granted under subsection (d) for any plan year before the election to have this subparagraph apply to the plan year, such extension shall not result in such amortization period exceeding 30 years.
 
 #### (iii) Net investment losses
 
@@ -196,7 +196,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this part, the value of the plan's assets shall be determined on the basis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this part, the value of the plan's assets shall be determined on thebasis of any reasonable actuarial method of valuation which takes into account fair market value and which is permitted under regulations prescribed by the Secretary.
 
 #### (B) Election with respect to bonds
 
@@ -286,11 +286,11 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (I) Commissioners' standard table
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners' standard table (described in section 807(d)(5)(A)) <sup>1</sup> used to determine reserves for group annuity contracts issued on January 1, 1993.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners' standard table (described in section 807(d)(5)(A)) <sup>1</sup> usedto determine reserves for group annuity contracts issued on January 1, 1993.
 
 #### (II) Secretarial authority
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independentstudies of mortality of individuals covered by pension plans.
+&emsp;&emsp;&emsp;&emsp;The Secretary may by regulation prescribe for plan years beginning after December 31, 1999, mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
 
 #### (v) Separate mortality tables for the disabled
 

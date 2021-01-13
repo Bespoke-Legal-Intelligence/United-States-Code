@@ -6,13 +6,15 @@ It is not a violation of any section of this chapter or of the Public Health Ser
 
 &emsp;(2) is held and not used, unless and until that product—
 
-&emsp;&emsp;(A) is approved, cleared, or licensed under section 355, 360(k), 360b, or 360e of this titleor section 351 of the Public Health Service Act \[42 U.S.C. 262\] or conditionally approved under section 360ccc of this title;
+&emsp;&emsp;(A) is approved, cleared, or licensed under section 355, 360(k), 360b, or 360e of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\] or conditionally approved under section 360ccc of this title;
 
 &emsp;&emsp;(B) is authorized for investigational use under section 355, 360b, or 360j of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\]; or
 
 &emsp;&emsp;(C) is authorized for use under section 360bbb–3 of this title or section 360bbb–3a of this title.
 
 (June 25, 1938, ch. 675, §564B, as added Pub. L. 113–5, title III, §302(d), Mar. 13, 2013, 127 Stat. 185; amended Pub. L. 114–255, div. A, title III, §3088(d), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 116–22, title VII, §705(d), June 24, 2019, 133 Stat. 964.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -24,7 +24,7 @@ In determining the amount of the non-Federal share of the cost of a project, the
 
 #### (2) Certain States, political subdivisions, and nonprofit organizations
 
-&emsp;In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
+&emsp;In the case of a grant to a State, or a political subdivision of a State, that the Secretarydetermines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
 
 #### (3) Training, research, and technical assistance
 

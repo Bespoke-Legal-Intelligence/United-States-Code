@@ -16,9 +16,13 @@ For the purpose of this subchapter the term—
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2839; amended Pub. L. 103–103, §3(a), Oct. 8, 1993, 107 Stat. 1022.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Par. (6). Pub. L. 103–103 inserted before period at end "(disregarding any advanced leave)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

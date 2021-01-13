@@ -126,7 +126,7 @@ The Administrator shall—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annualsalary payable to a member of the Federal Government's Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
+&emsp;&emsp;Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annual salary payable to a member of the Federal Government's Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
 
 #### (B) Definition of compensation
 
@@ -149,6 +149,8 @@ The Administrator, either by making grants to or entering into contracts with pu
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
 (Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, §211, May 29, 2015, 129 Stat. 249; Pub. L. 115–141, div. Q, title II, §201, Mar. 23, 2018, 132 Stat. 1120; Pub. L. 115–267, §2(c), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, §202(c), Dec. 21, 2018, 132 Stat. 5268.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -186,7 +188,7 @@ Subsec. (b)(1)(F). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (I
 
 Pub. L. 115–267, §2(c)(2)(C), struck out subpar. (F) which related to requirement to annually provide the Office of Juvenile Justice and Delinquency Prevention certain information based on reports received by the National Center for Missing and Exploited Children.
 
-Subsec. (b)(1)(G). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally.Prior to amendment, text read as follows: "provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;".
+Subsec. (b)(1)(G). Pub. L. 115–267, §2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally. Prior to amendment, text read as follows: "provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;".
 
 Pub. L. 115–267, §2(c)(2)(C), struck out subpar. (G) which read as follows: "provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;".
 
@@ -272,7 +274,7 @@ Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Pri
 
 &emsp;"(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and".
 
-Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
+Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan forfacilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
 
 Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted "24-hour" after "national" and "and" at end, and added subpar. (B).
 
@@ -281,6 +283,8 @@ Subsec. (b)(2)(A). Pub. L. 100–690, §7285(b)(2)(A), amended subpar. (A) gener
 Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted "and training" after "assistance" and "and in locating and recovering missing children" before semicolon.
 
 Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

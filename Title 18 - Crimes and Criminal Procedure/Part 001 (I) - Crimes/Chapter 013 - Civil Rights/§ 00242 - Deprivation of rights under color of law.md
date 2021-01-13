@@ -12,6 +12,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 A minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294, §607(a), substituted "any State, Territory, Commonwealth, Possession, or District" for "any State, Territory, or District".
@@ -31,6 +33,8 @@ Pub. L. 103–322, §60006(b), inserted before period at end ", or may be sente
 <b>1988</b>—Pub. L. 100–690 inserted "and if bodily injury results shall be fined under this title or imprisoned not more than ten years, or both;" after "or both;".
 
 <b>1968</b>—Pub. L. 90–284 provided for imprisonment for any term of years or for life when death results.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

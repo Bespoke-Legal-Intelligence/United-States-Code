@@ -62,7 +62,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;(E) The collection, disclosure, or use of personal information collected from students for the purpose of marketing or for selling that information (or otherwise providing that information to others for that purpose), including arrangements to protect student privacy that are provided by the agency in the event of such collection, disclosure, or use.
 
-&emsp;&emsp;(F)(i) The right of a parent of a student to inspect, upon the request of the parent, any instrument used in the collection of personal information under subparagraph (E) before the instrument is administered or distributed to a student; and
+&emsp;&emsp;(F)(i) The right of a parent of a student to inspect, upon the request of the parent, anyinstrument used in the collection of personal information under subparagraph (E) before the instrument is administered or distributed to a student; and
 
 &emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to such instrument within a reasonable period of time after the request is received.
 
@@ -144,7 +144,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 #### (D) Funding
 
-&emsp;&emsp;A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7101 et seq.\] to enhance parental involvement in areas affecting the in-school privacy of students.
+&emsp;&emsp;A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementaryand Secondary Education Act of 1965 \[20 U.S.C. 7101 et seq.\] to enhance parental involvement in areas affecting the in-school privacy of students.
 
 #### (6) Definitions
 
@@ -192,7 +192,7 @@ Educational agencies and institutions shall give parents and students effective 
 
 #### (e) Enforcement
 
-The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable programshall be taken only if the Secretary determines that—
+The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable program shall be taken only if the Secretary determines that—
 
 &emsp;(1) there has been a failure to comply with such section; and
 

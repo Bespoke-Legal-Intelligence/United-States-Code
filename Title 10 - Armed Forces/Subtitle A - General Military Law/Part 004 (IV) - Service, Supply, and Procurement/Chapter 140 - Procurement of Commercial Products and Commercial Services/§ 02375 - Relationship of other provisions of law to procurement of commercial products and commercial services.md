@@ -32,7 +32,7 @@ Applicability of Defense-unique Statutes to Contracts for Commercially Available
 
 (e)
 
-Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that theUnder Secretary of Defense for Acquisition and Sustainment determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
+Covered Provision of Law or Contract Clause Requirement.—A provision of law or contract clause requirement referred to in subsections (b)(2), (c)(2), and (d)(2) is a provision of law or contract clause requirement that the Under Secretary of Defense for Acquisition and Sustainment determines sets forth policies, procedures, requirements, or restrictions for the procurement of property or services by the Federal Government, except for a provision of law or contract clause requirement that—
 
 &emsp;(1) provides for criminal or civil penalties;
 
@@ -40,9 +40,21 @@ Covered Provision of Law or Contract Clause Requirement.—A provision of law or
 
 &emsp;(3) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products and commercial services.
 
-(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, §902(57), Dec. 20, 2019, 133 Stat. 1549.)
+(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, §902(57), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title XVIII, §1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4285.)
+
+#### Renumbering and Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1821(a)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4151, 4195, 4285, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law—</i>
+
+<i>(1) this section, as part of chapter 247 of this title as transferred and redesignated by section 1821(a)(1) of Pub. L. 116–283, is redesignated as section 3452 of this title; and</i>
+
+<i>(2) subsection (e)(2) of this section is amended by striking "section 2533a" and "section 2533b" and inserting "section 4862" and "section 4863", respectively.</i>
+
+<i>See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(2). Pub. L. 116–283, §1870(c)(6)(A), substituted "section 4862" for "section 2533a" and "section 4863" for "section 2533b".
 
 <b>2019</b>—Subsecs. (b)(2), (c)(2), (d)(2), (e). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -70,13 +82,17 @@ List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.�
 
 "(c)
 
-Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title."
+Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For aprovision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title."
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 1906 of title 41" for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)".
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted "(41 U.S.C. 430)" after "section 34 of the Office of Federal Procurement Policy Act".
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "a provision relating to an exception" for "provisions relating to exceptions" and "section 2306a(b)" for "section 2306a(d)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

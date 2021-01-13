@@ -1,12 +1,14 @@
 ### §108. Assistance to the President for unanticipated needs
 
-(a) There is authorized to be appropriated to the President an amount not to exceed $1,000,000 each fiscal year to enable the President, in his discretion, to meet unanticipated needs for the furtherance of the national interest, security, or defense, including personnel needs and needs for services described in section 3109(b) of title 5, and administrative expenses related thereto, without regard to any provision of law regulating the employment or compensation of persons in the Government service or regulating expenditures of Government funds.
+(a) There is authorized to be appropriated to the President an amount not to exceed $1,000,000 each fiscal year to enable the President, in his discretion, to meet unanticipated needs for the furtherance of the national interest, security, or defense, including personnel needs and needs for services described in section 3109(b) of title 5,and administrative expenses related thereto, without regard to any provision of law regulating the employment or compensation of persons in the Government service or regulating expenditures of Government funds.
 
 (b) The President shall transmit a report to each House of the Congress for each fiscal year beginning on or after the effective date of this subsection which sets forth the purposes for which expenditures were made under this section for such fiscal year and the amount expended for each such purpose. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report.
 
 (c) An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
 
 (Added Pub. L. 95–570, §2(a), Nov. 2, 1978, 92 Stat. 2449.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Qua
 Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by act Sept. 19, 1951, ch. 407, title IV, §401(a)(1), 65 Stat. 333.
 
 Act Oct. 31, 1951, ch. 654, §1(2), 65 Stat. 701, repealed that part of act Mar. 4, 1911, ch. 285, §1, 36 Stat. 1404, from which prior section 108, as enacted by act June 25, 1948, ch. 644, §1, 62 Stat. 672, had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

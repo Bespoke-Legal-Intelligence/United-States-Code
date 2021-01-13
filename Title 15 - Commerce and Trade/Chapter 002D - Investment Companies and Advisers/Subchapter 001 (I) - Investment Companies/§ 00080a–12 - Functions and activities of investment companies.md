@@ -24,7 +24,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(i) more than 3 per centum of the total outstanding voting stock of the acquired company;
 
-&emsp;(ii) securities issued by the acquired company having an aggregate value in excess of 5 per centum of the value of the total assets of the acquiring company; or
+&emsp;(ii) securities issued by the acquired company having an aggregate value in excess of 5per centum of the value of the total assets of the acquiring company; or
 
 &emsp;(iii) securities issued by the acquired company and all other investment companies (other than treasury stock of the acquiring company) having an aggregate value in excess of 10 per centum of the value of the total assets of the acquiring company.
 
@@ -68,7 +68,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
-&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
+&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respectto securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
 
 &emsp;(IV) the acquired company has a policy that prohibits it from acquiring any securities of registered open-end investment companies or registered unit investment trusts in reliance on this subparagraph or subparagraph (F); and
 
@@ -160,5 +160,5 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

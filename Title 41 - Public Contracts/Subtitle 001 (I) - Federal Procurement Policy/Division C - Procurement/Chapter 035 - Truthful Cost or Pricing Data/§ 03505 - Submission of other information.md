@@ -14,7 +14,7 @@ Reasonable limitations.—Reasonable limitations on requests for sales data rela
 
 &emsp;(2)
 
-Limitation on scope of request.—A requirement that a contracting officer limit, tothe maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
+Limitation on scope of request.—A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
 &emsp;(3)
 
@@ -38,9 +38,13 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §304A(d), as added Pub. L. 103–355, title I, §1251(a)(2), Oct. 13, 1994, 108 Stat. 3281; Pub. L. 104–106, title XLII, §§4201(b)(1), 4321(e)(4), Feb. 10, 1996, 110 Stat. 652, 675; Pub. L. 105–261, div. A, title VIII, §808(b), Oct. 17, 1998, 112 Stat. 2085.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

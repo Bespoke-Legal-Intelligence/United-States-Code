@@ -26,7 +26,7 @@ Criminal Penalty.—Whoever has been convicted of having failed to give up posse
 
 (c)
 
-Failure To Give Up Possession of Household Goods Defined.—For purposes of this section, the term "failed to give up possession ofhousehold goods" means the knowing and willful failure, in violation of a contract, to deliver to, or unload at, the destination of a shipment of household goods that is subject to jurisdiction under subchapter I or III of chapter 135 of this title, for which charges have been estimated by the motor carrier providing transportation of such goods, and for which the shipper has tendered a payment described in clause (i), (ii), or (iii) of section 13707(b)(3)(A).
+Failure To Give Up Possession of Household Goods Defined.—For purposes of this section, the term "failed to give up possession of household goods" means the knowing and willful failure, in violation of a contract, to deliver to, or unload at, the destination of a shipment of household goods that is subject to jurisdiction under subchapter I or III of chapter 135 of this title, for which charges have been estimated by the motor carrier providing transportation of such goods, and for which the shipper has tendered a payment described in clause (i), (ii), or (iii) of section 13707(b)(3)(A).
 
 (Added Pub. L. 109–59, title IV, §4210(a), Aug. 10, 2005, 119 Stat. 1758; amended Pub. L. 112–141, div. C, title II, §§32922(b), 32923(b), July 6, 2012, 126 Stat. 828.)
 

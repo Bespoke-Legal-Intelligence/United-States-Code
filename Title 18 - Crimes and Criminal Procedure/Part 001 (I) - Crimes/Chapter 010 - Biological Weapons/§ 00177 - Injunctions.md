@@ -20,6 +20,8 @@ Affirmative Defense.—It is an affirmative defense against an injunction under 
 
 (Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 104–132, title V, §511(b)(2), Apr. 24, 1996, 110 Stat. 1284.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–132 inserted "threat," after "attempt,".

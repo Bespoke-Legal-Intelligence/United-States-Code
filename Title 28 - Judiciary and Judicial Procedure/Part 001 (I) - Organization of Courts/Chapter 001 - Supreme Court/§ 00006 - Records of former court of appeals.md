@@ -12,6 +12,8 @@ In a letter dated August 8, 1944, the clerk of the Supreme Court advised that ma
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Oct. 25, 1951, inserted "until deposited with the National Archives of the United States" in first sentence.

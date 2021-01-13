@@ -36,7 +36,7 @@ To further the purpose of this subchapter to provide a new source of long-term f
 
 #### (1) In general
 
-&emsp;A loan secured by agricultural real estate may not be treated as a qualified loan if the principal amount of such loan exceeds $2,500,000, adjusted for inflation, except as provided in paragraph (2).
+&emsp;A loan secured by agricultural real estate may not be treated as a qualified loan if theprincipal amount of such loan exceeds $2,500,000, adjusted for inflation, except as provided in paragraph (2).
 
 #### (2) Acreage exception
 
@@ -51,6 +51,8 @@ The standards established under subsection (a) shall not discriminate against sm
 #### Amendment of Subsection (c)(2)
 
 <i>Pub. L. 115–334, title V, §5410, Dec. 20, 2018, 132 Stat. 4678, provided that, effective 1 year after the date a report submitted in accordance with section 5414 of Pub. L. 115–334 indicates that it is feasible to increase the acreage limitation in subsection (c)(2) of this section to 2,000 acres, subsection (c)(2) of this section is amended by striking "1,000" and inserting "2,000". See 2018 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -78,9 +80,11 @@ Subsecs. (d), (e). Pub. L. 110–246, §5406(c)(4), (5), redesignated subsec. (e
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–399 inserted "permanent" after "appointment and election of the".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–334, title V, §5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act \[132 Stat. 4724\] indicates that it is feasible to increase the acreage limitation insection 8.8(c)(2) of the Farm Credit Act of 1971 \[12 U.S.C. 2279aa–8(c)(2)\] to 2,000 acres."
+Pub. L. 115–334, title V, §5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act \[132 Stat. 4724\] indicates that it is feasible to increase the acreage limitation in section 8.8(c)(2) of the Farm Credit Act of 1971 \[12 U.S.C. 2279aa–8(c)(2)\] to 2,000 acres."
 
 #### Effective Date of 2008 Amendment
 

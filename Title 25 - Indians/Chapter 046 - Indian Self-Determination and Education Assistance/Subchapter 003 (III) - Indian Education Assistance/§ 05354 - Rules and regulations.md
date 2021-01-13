@@ -16,13 +16,17 @@ The Secretary is authorized to revise and amend any rules or regulations promulg
 
 (Pub. L. 93–638, title II, §207, Jan. 4, 1975, 88 Stat. 2216.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 458c of this title prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4, Ninety-fifth Congress (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Section 105 of Senate Resolution No. 4 established atemporary Select Committee on Indian Affairs having jurisdiction over matters relating to Indian affairs (such matters previously having been within the jurisdiction of the Committee on Interior and Insular Affairs). Senate Resolution No. 127, June 6, 1984, Ninety-eighth Congress, established the Select Committee on Indian Affairs as a permanent committee of the Senate, and section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress, redesignated the Select Committee on Indian Affairs as the Committee on Indian Affairs.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4, Ninety-fifth Congress (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977. Section 105 of Senate Resolution No. 4 established a temporary Select Committee on Indian Affairs having jurisdiction over matters relating to Indian affairs (such matters previously having been within the jurisdiction of the Committee on Interior and Insular Affairs). Senate Resolution No. 127, June 6, 1984, Ninety-eighth Congress, established the Select Committee on Indian Affairs as a permanent committee of the Senate, and section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress, redesignated the Select Committee on Indian Affairs as the Committee on Indian Affairs.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

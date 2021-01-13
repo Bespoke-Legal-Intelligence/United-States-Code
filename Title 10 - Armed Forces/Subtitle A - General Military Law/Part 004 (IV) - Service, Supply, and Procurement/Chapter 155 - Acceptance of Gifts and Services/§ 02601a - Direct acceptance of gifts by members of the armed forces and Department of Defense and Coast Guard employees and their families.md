@@ -38,7 +38,7 @@ Gifts From Certain Sources Prohibited.—The regulations prescribed under subsec
 
 (e)
 
-Application of Certain Regulations.—To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
+Application of Certain Regulations.—To the extent provided in the regulations issued under subsection (a) to implement subsection\(b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
 
 (Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, §1076(f)(32), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–291, div. A, title X, §1071(e)(4), (f)(19), Dec. 19, 2014, 128 Stat. 3510, 3511.)
 

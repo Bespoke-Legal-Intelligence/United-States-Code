@@ -10,13 +10,15 @@ Notwithstanding any other provision of this part, there are authorized to be app
 
 #### (c) Administration
 
-The amounts appropriated to carry out this section shall be reserved from the total amount appropriated for each fiscal year and shall be added to the other funds appropriated to carry out section 1252(j) <sup>1</sup> of title 8 and administered under such section.
+The amounts appropriated to carry out this section shall be reserved from the total amountappropriated for each fiscal year and shall be added to the other funds appropriated to carry out section 1252(j) <sup>1</sup> of title 8 and administered under such section.
 
 #### (d) Report to Congress
 
 Not later than May 15, 1999, the Attorney General shall submit a report to the Congress which contains the recommendation of the Attorney General concerning the extension of the program under this section.
 
 (Pub. L. 103–322, title II, §20110, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

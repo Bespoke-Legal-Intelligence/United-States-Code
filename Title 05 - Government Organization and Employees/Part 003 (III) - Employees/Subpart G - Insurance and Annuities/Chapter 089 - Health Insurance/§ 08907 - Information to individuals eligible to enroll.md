@@ -28,6 +28,8 @@ Sept. 28, 1959, Pub. L. 86–382, §10(d), 73 Stat. 715.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
@@ -43,6 +45,8 @@ Subsec. (b)(1). Pub. L. 98–615, §3(5)(B)(ii), substituted "enrollee or the en
 Subsec. (b)(3). Pub. L. 98–615, §3(5)(B)(iii), substituted "the enrollee and any eligible family members" for "the employee or members of his family".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;(A) with respect to the United States, the zone established by Presidential Proclamation Numbered 5030 of March 10, 1983 (16 U.S.C. 1453 note); and
 
-&emsp;&emsp;(B) with respect to a foreign country, a designated zone similar to the zone referred to in subparagraph (A) for that country, consistent with international law.
+&emsp;&emsp;(B) with respect to a foreign country, a designated zone similar to the zone referredto in subparagraph (A) for that country, consistent with international law.
 
 #### (6) Fisheries resources
 
@@ -70,7 +70,7 @@ In this chapter:
 
 #### (9) High seas
 
-&emsp;The term "high seas" does not include an area that is within the exclusive economiczone of the United States or of any other country.
+&emsp;The term "high seas" does not include an area that is within the exclusive economic zone of the United States or of any other country.
 
 #### (10) North Pacific Fisheries Convention
 

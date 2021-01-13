@@ -1,12 +1,14 @@
 ### §2910. Preservation of Freedmen's Bureau records
 
-The Archivist shall preserve the records of the Bureau of Refugees, Freedmen, and Abandoned Lands, commonly referred to as the "Freedmen's Bureau", by using—
+The Archivist shall preserve the records of the Bureau of Refugees, Freedmen, and AbandonedLands, commonly referred to as the "Freedmen's Bureau", by using—
 
 &emsp;(1) microfilm technology for preservation of the documents comprising these records so that they can be maintained for future generations; and
 
 &emsp;(2) the results of the pilot project with the University of Florida to create future partnerships with Howard University and other institutions for the purposes of indexing these records and making them more easily accessible to the public, including historians, genealogists, and students, and for any other purposes determined by the Archivist.
 
 (Added Pub. L. 106–444, §2(a), Nov. 6, 2000, 114 Stat. 1929.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

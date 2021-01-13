@@ -36,6 +36,8 @@ The Clerk shall maintain the information posted on the public Internet site of t
 
 (Pub. L. 110–81, title III, §304, Sept. 14, 2007, 121 Stat. 752; Pub. L. 112–105, §19(b)(1), Apr. 4, 2012, 126 Stat. 304.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsecs. (a)(2) and (c), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -48,9 +50,11 @@ Section was formerly classified to section 104e of this title prior to editorial
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–105 substituted ", or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress." for period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics ofHouse of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2012 Amendment
 

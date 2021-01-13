@@ -56,7 +56,7 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 #### (1) Family and attorney visits
 
-&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien'sfamily, and to contact, retain, and communicate with an attorney.
+&emsp;An alien in the custody of the Attorney General pursuant to this subchapter shall be given reasonable opportunity, as determined by the Attorney General, to communicate with and receive visits from members of the alien's family, and to contact, retain, and communicate with an attorney.
 
 #### (2) Diplomatic contact
 
@@ -64,9 +64,13 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 
 (June 27, 1952, ch. 477, title V, §507, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1266; amended Pub. L. 104–208, div. C, title III, §308(d)(4)(Q), Sept. 30, 1996, 110 Stat. 3009–619.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2)(D). Pub. L. 104–208 substituted "removal because such alien is inadmissible" for "exclusion because such alien is excludable".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

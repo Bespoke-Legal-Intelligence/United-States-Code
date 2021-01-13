@@ -20,7 +20,7 @@ Certification Determination.—Not later than 20 days after the date the Secreta
 
 &emsp;&emsp;&emsp;(ii) requisitioned or purchased under chapter 563 of this title; or
 
-&emsp;&emsp;&emsp;(iii) owned, chartered, or controlled by the United States Government and used bythe Government for a war, armed conflict, national emergency, or maritime mobilization need (including for training purposes or testing for readiness and suitability for mission performance); and
+&emsp;&emsp;&emsp;(iii) owned, chartered, or controlled by the United States Government and used by the Government for a war, armed conflict, national emergency, or maritime mobilization need (including for training purposes or testing for readiness and suitability for mission performance); and
 
 &emsp;&emsp;(B) during the period of that employment, possessed a valid license, certificate of registry, or merchant mariner's document issued under chapter 71 or 73 of this title; and
 
@@ -51,6 +51,8 @@ June 29, 1936, ch. 858, title III, §302, as added Pub. L. 104–239, §10(a), O
 In subsection (c)(1)(B), the words "(as applicable)" are omitted as unnecessary.
 
 In subsection (d), the words "certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))" are substituted for "certificate referred to in paragraph (1) of section 4301(a) of title 38" because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

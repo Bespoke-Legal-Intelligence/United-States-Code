@@ -24,6 +24,8 @@
 
 The section is supplied for convenience.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
@@ -31,6 +33,8 @@ The section is supplied for convenience.
 <b>1970</b>—Subsec. (a). Pub. L. 91–375, §6(c)(3)(A), (B), designated existing provisions as subsec. (a) and inserted in introductory text "as otherwise provided by this section or" after "except".
 
 Subsec. (b). Pub. L. 91–375, §6(c)(3)(C), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

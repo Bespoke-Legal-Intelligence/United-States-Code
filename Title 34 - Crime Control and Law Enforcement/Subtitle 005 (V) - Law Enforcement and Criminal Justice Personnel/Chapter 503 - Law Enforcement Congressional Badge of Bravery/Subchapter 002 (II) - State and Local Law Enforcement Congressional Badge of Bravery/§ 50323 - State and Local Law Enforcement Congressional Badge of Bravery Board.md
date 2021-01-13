@@ -116,6 +116,8 @@ The State and Local Board shall do the following:
 
 (Pub. L. 110–298, title II, §203, July 31, 2008, 122 Stat. 2991.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 15253 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

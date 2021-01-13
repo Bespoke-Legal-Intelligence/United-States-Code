@@ -58,7 +58,7 @@ Dissemination of information.—The procedures established pursuant to subsectio
 
 (d)
 
-Protection From Liability of Operationally Critical Contractors.—(1) No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section that is conducted in accordance with procedures established pursuant to subsection (b).
+Protection From Liability of Operationally Critical Contractors.—(1) No cause of action shall lie or be maintained in any court against any operationally critical contractor, and such action shall be promptly dismissed, for compliance with this section and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting, that is conducted in accordance with procedures established pursuant to subsection (b) and such contract requirements.
 
 (2)(A) Nothing in this section shall be construed—
 
@@ -88,9 +88,11 @@ Cyber incident.—The term "cyber incident" means actions taken through the use 
 
 Operationally critical contractor.—The term "operationally critical contractor" means a contractor designated by the Secretary for purposes of this section as a critical source of supply for airlift, sealift, intermodal transportation services, or logistical support that is essential to the mobilization, deployment, or sustainment of the Armed Forces in a contingency operation.
 
-(Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, §1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116.)
+(Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, §1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116; Pub. L. 116–283, div. A, title XVII, §1704, Jan. 1, 2021, 134 Stat. 4082.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 116–283 inserted "and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting," after "compliance with this section" and "and such contract requirements" before period at end.
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §1641(c)(1), substituted "and section 393 of this title" for "and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 2224 note)".
 
@@ -98,7 +100,7 @@ Subsecs. (d), (e). Pub. L. 114–92, §1641(b), added subsec. (d) and redesignat
 
 #### Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor
 
-Pub. L. 116–92, div. A, title IX, §905, Dec. 20, 2019, 133 Stat. 1557, provided that:
+Pub. L. 116–92, div. A, title IX, §905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, §1713(b), Jan. 1, 2021, 134 Stat. 4090, provided that:
 
 "(a)
 
@@ -106,7 +108,7 @@ Advisor.—
 
 &emsp;"(1)
 
-In general.—The Under Secretary of Defense for Policy shall, acting through the Joint Staff, designate an officer within the Office of the Under Secretary of Defense for Policy to serve within that Office as the Senior Military Advisor for Cyber Policy, and concurrently, as the Deputy Principal Cyber Advisor.
+In general.—The Secretary of Defense shall, acting through the Joint Staff, designate an officer within the Office of the Secretary of Defense to serve within that Office as the Senior Military Advisor for Cyber Policy, and concurrently, as the Deputy Principal Cyber Advisor.
 
 &emsp;"(2)
 
@@ -282,7 +284,7 @@ Elements.—Each review under paragraph (1) shall include the following:
 
 &emsp;"(3)
 
-Briefing.—Not later than October 1, 2020, each of the secretaries of the military departments shall brief the Committees on Armed Services of the Senate and House of Representatives on the findings of the Secretary with respect to the review conducted by the Secretary pursuant to paragraph (1)."
+Briefing.—Not later than October 1, 2020, each of the secretaries of the military departments shall brief the Committees on Armed Services of the Senate and House of Representatives on the findings ofthe Secretary with respect to the review conducted by the Secretary pursuant to paragraph (1)."
 
 #### Consortia of Universities To Advise Secretary of Defense on Cybersecurity Matters
 

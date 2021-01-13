@@ -44,7 +44,7 @@
 
 (d)(1) There shall be in the Department such number of Deputy Assistant Secretaries, not exceeding 19, as the Secretary may determine. Each Deputy Assistant Secretary shall be appointed by the Secretary and shall perform such functions as the Secretary prescribes.
 
-(2) At least two-thirds of the number of positions established and filled under paragraph (1) shall be filled by individuals who have at least five years of continuous service in the Federalcivil service in the executive branch immediately preceding their appointment as a Deputy Assistant Secretary. For purposes of determining such continuous service of an individual, there shall be excluded any service by such individual in a position—
+(2) At least two-thirds of the number of positions established and filled under paragraph (1) shall be filled by individuals who have at least five years of continuous service in the Federal civil service in the executive branch immediately preceding their appointment as a Deputy Assistant Secretary. For purposes of determining such continuous service of an individual, there shall be excluded any service by such individual in a position—
 
 &emsp;(A) of a confidential, policy-determining, policy-making, or policy-advocating character;
 
@@ -53,6 +53,8 @@
 &emsp;(C) to which such individual was appointed by the President.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 381; amended Pub. L. 107–287, §5(a)–(c), Nov. 7, 2002, 116 Stat. 2030; Pub. L. 112–166, §2(m), Aug. 10, 2012, 126 Stat. 1287; Pub. L. 115–41, title I, §101(b), June 23, 2017, 131 Stat. 865.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -69,6 +71,8 @@ Provisions similar to those in this section were contained in sections 4(a), (b)
 Subsec. (b)(11). Pub. L. 107–287, §5(b), added par. (11).
 
 Subsec. (d)(1). Pub. L. 107–287, §5(c), substituted "19" for "18".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Judicial review
 
-The appropriate United States district court shall have exclusive jurisdiction over litigation arising under this section <sup>1</sup> involving any redomesticating or redomesticated insurer.
+The appropriate United States district court shall have exclusive jurisdiction over litigationarising under this section <sup>1</sup> involving any redomesticating or redomesticated insurer.
 
 #### (b) Severability
 

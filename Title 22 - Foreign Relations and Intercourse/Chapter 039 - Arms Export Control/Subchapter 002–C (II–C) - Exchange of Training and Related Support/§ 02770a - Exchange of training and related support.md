@@ -2,7 +2,7 @@
 
 #### (a) Authorization; eligibility; scope
 
-Subject to subsection (b), the President may provide training and related support to militaryand civilian defense personnel of a friendly foreign country or an international organization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
+Subject to subsection (b), the President may provide training and related support to military and civilian defense personnel of a friendly foreign country or an international organization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
 
 #### (b) Reciprocal arrangements; reimbursement
 
@@ -18,9 +18,13 @@ Not later than February 1 of each year, the President shall submit to the Congre
 
 (Pub. L. 90–629, ch. 2C, §30A, as added Pub. L. 99–83, title I, §116, Aug. 8, 1985, 99 Stat. 201.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

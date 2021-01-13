@@ -8,7 +8,7 @@ Authorization.—
 
 In general.—When defense access roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, the Secretary is authorized, out of the funds appropriated for defense access roads, to provide for—
 
-&emsp;&emsp;(A) the construction and maintenance of defense access roads (including bridges,tubes, tunnels, and culverts or other hydraulic appurtenances on those roads) to—
+&emsp;&emsp;(A) the construction and maintenance of defense access roads (including bridges, tubes, tunnels, and culverts or other hydraulic appurtenances on those roads) to—
 
 &emsp;&emsp;&emsp;(i) military reservations;
 
@@ -58,6 +58,8 @@ Repair of Certain Damages and Infrastructure.—The funds appropriated to carry 
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 86–657, §8(d), July 14, 1960, 74 Stat. 524; Pub. L. 87–61, title I, §105, June 29, 1961, 75 Stat. 123; Pub. L. 97–424, title I, §155, Jan. 6, 1983, 96 Stat. 2134; Pub. L. 100–17, title I, §133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, §3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110–417, div. B, title XXVIII, §2814(a), Oct. 14, 2008, 122 Stat. 4728; Pub. L. 112–81, div. B, title XXVIII, §2816(a), Dec. 31, 2011, 125 Stat. 1689; Pub. L. 112–141, div. A, title I, §1516, July 6, 2012, 126 Stat. 574; Pub. L. 115–232, div. B, title XXVIII, §2865, Aug. 13, 2018, 132 Stat. 2285; Pub. L. 116–92, div. B, title XXVIII, §2808, Dec. 20, 2019, 133 Stat. 1885.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §2808(1), added par. (1) and struck out former par. (1) which read as follows: "The Secretary is authorized, out of the funds appropriated for defense access roads, to provide for the construction and maintenance of defense access roads (including bridges, tubes, and tunnels thereon) to military reservations, to defense industries and defense industry sites, and to the sources of raw materials when such roads are certified to the Secretary as important to the national defense by the Secretary of Defense or such other official as the President may designate, and for replacing existing highways and highway connections that are shut off from the general public use by necessary closures, closures due to mean sea level fluctuation and flooding, or restrictions at military reservations and defense industry sites."
@@ -92,6 +94,8 @@ Subsec. (i). Pub. L. 115–232, §2865(b), added subsec. (i).
 
 <b>1960</b>—Subsec. (g). Pub. L. 86–657 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
@@ -106,7 +110,7 @@ Convening of committee.—Not later than 90 days after the date of the enactment
 
 "(2)
 
-Report.—Not later than one year after the date of the enactment of this Act, the Secretary of Defenseshall submit to Congress a report describing the results of the Economic Adjustment Committee deliberations and containing an implementation plan to expand funding sources for the mitigation of significant transportation impacts to access to military reservations pursuant to subsection (b) of section 210 of title 23, United States Code, as amended by subsection (a)."
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report describing the results of the Economic Adjustment Committee deliberations and containing an implementation plan to expand funding sources for the mitigation of significant transportation impacts to access to military reservations pursuant to subsection (b) of section 210 of title 23, United States Code, as amended by subsection (a)."
 
 #### Separate Budget Request for Program
 

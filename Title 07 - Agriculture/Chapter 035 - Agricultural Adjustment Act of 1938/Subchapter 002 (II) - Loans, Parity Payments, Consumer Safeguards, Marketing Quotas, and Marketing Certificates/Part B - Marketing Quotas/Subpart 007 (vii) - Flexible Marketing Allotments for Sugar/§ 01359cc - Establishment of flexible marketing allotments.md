@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish flexible marketing allotments for sugar for any crop year in which the allotments are required under section 1359bb(b) of this title in accordance with this section.
+The Secretary shall establish flexible marketing allotments for sugar for any crop year inwhich the allotments are required under section 1359bb(b) of this title in accordance with this section.
 
 #### (b) Overall allotment quantity
 
@@ -74,7 +74,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (f) Filling cane sugar allotments
 
-Except as provided in section 1359ee of this title, a State cane sugar allotment establishedunder subsection (e) for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
+Except as provided in section 1359ee of this title, a State cane sugar allotment established under subsection (e) for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
 
 #### (g) Adjustment of marketing allotments
 

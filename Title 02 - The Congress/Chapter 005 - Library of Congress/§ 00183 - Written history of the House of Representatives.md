@@ -48,6 +48,8 @@ The Librarian of Congress shall solicit and accept funding for the preparation, 
 
 (Pub. L. 106–99, §2, Nov. 12, 1999, 113 Stat. 1330; Pub. L. 108–7, div. H, title I, §1305, Feb. 20, 2003, 117 Stat. 379; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section and section 183a of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–99, which enacted this section and section 183a of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
@@ -55,6 +57,8 @@ This section and section 183a of this title, referred to in subsec. (a), was in 
 #### Amendments
 
 <b>2003</b>—Subsec. (c)(3). Pub. L. 108–7 inserted "excerpts of" after "dissemination of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -12,11 +12,13 @@
 
 (2) Prior to the expiration of the thirty-six calendar month period following July 1, 1975, each United States district court shall prepare and submit a plan in accordance with subsections (a) through (d) above to govern the trial or other disposition of offenses within the jurisdiction of such court during the fourth and fifth twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c).
 
-(3) Not later than June 30, 1980, each United States district court with respect to which implementation has not been ordered under section 3174(c) shall prepare and submit a plan in accordance with subsections (a) through (d) to govern the trial or other disposition of offenses within the jurisdiction of such court during the sixth and subsequent twelve-calendar-month periods following the effective date of subsection 3161(b) and subsection 3161(c) in effect prior to the date of enactment of this paragraph.
+(3) Not later than June 30, 1980, each United States district court with respect to which implementation has not been ordered under section 3174(c) shall prepare and submit a plan in accordance with subsections (a) through (d) to govern the trial or other disposition of offenses within the jurisdiction of such court during the sixth and subsequent twelve-calendar-month periods following the effective date of subsection3161(b) and subsection 3161(c) in effect prior to the date of enactment of this paragraph.
 
 (f) Plans adopted pursuant to this section shall, upon adoption, and recommendations of the district planning group shall, upon completion, become public documents.
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2081; amended Pub. L. 96–43, §8, Aug. 2, 1979, 93 Stat. 329; Pub. L. 101–647, title XXXV, §3577, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ For the effective date of subsection 3161(b) and subsection 3161(c) in effect pr
 <b>1979</b>—Subsec. (e)(2). Pub. L. 96–43, §8(1), substituted "fifth twelve-calendar" for "subsequent twelve-calendar".
 
 Subsec. (e)(3). Pub. L. 96–43, §8(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

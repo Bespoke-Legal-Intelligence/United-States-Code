@@ -8,9 +8,9 @@
 
 &emsp;(2) enlisted members of the Regular Navy and Regular Marine Corps; and
 
-&emsp;(3) reserve enlisted members of the Navy and Marine Corps who, at the time of retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, are serving on active duty.
+&emsp;(3) reserve enlisted members of the Navy and Marine Corps who, at the time of retirementor transfer to the Fleet Reserve or Fleet Marine Corps Reserve, are serving on active duty.
 
-(c) An enlisted member of the naval service who is advanced on the retired list under thissection is entitled to recompute his retired or retainer pay under formula A of the following table, and a warrant officer of the naval service so advanced is entitled to recompute his retired pay under formula B of that table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
+(c) An enlisted member of the naval service who is advanced on the retired list under this section is entitled to recompute his retired or retainer pay under formula A of the following table, and a warrant officer of the naval service so advanced is entitled to recompute his retired pay under formula B of that table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
 &nbsp;
 

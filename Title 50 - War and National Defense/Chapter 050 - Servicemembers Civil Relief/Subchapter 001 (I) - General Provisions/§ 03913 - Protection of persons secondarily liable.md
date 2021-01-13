@@ -6,7 +6,7 @@ Whenever pursuant to this chapter a court stays, postpones, or suspends (1) the 
 
 #### (b) Vacation or set-aside of judgments
 
-When a judgment or decree is vacated or set aside, in whole or in part, pursuant to this chapter, the court may also set aside or vacate, as the case may be, the judgment or decree as to a surety, guarantor, endorser, accommodationmaker, comaker, or other person who is or may be primarily or secondarily liable on the contract or liability for the enforcement of the judgment or decree.
+When a judgment or decree is vacated or set aside, in whole or in part, pursuant to this chapter, the court may also set aside or vacate, as the case may be, the judgment or decree as to a surety, guarantor, endorser, accommodation maker, comaker, or other person who is or may be primarily or secondarily liable on the contract or liability for the enforcement of the judgment or decree.
 
 #### (c) Bail bond not to be enforced during period of military service
 

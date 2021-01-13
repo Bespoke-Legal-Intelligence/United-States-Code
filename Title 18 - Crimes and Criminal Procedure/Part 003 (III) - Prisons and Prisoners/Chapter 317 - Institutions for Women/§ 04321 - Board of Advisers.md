@@ -16,9 +16,13 @@ The provisions relating to the appointment of the board in the first instance we
 
 Minor changes were made in translation, phraseology, and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 struck out "parole or" before "discharge" at end of first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -56,7 +56,7 @@ Treatment of transfers in trust.—For purposes of subparagraph (A), a transfer 
 
 &emsp;&emsp;&emsp;"(ii) the assets of the trust will be includible in the gross estate of the grandchild if the grandchild dies before the trust is terminated, and
 
-&emsp;&emsp;&emsp;"(iii) all of the income of the trust for periods after the grandchild has attained age 21 will be distributed to (or for the benefit of) such grandchild not less frequently than annually.
+&emsp;&emsp;&emsp;"(iii) all of the income of the trust for periods after the grandchild has attained age 21 will bedistributed to (or for the benefit of) such grandchild not less frequently than annually.
 
 &emsp;&emsp;"(C)
 
@@ -70,7 +70,7 @@ Coordination with taxable terminations and taxable distributions.—For purposes
 
 &emsp;"(4)
 
-Definitions.—Terms used in this section shall have the same respective meanings as when used inchapter 13 of the Internal Revenue Code of 1986; except that section 2612(c)(2) of such Code shall not apply in determining whether an individual is a grandchild of the transferor.
+Definitions.—Terms used in this section shall have the same respective meanings as when used in chapter 13 of the Internal Revenue Code of 1986; except that section 2612(c)(2) of such Code shall not apply in determining whether an individual is a grandchild of the transferor.
 
 "(c)
 

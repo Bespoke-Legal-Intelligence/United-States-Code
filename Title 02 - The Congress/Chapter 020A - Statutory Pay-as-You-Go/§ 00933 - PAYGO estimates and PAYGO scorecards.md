@@ -10,7 +10,7 @@
 
 #### (B) Senate
 
-&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
+&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall includethe following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
 
 #### (C) Conference reports and amendments between the Houses
 
@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
+&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) ofsection 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
 
 #### (2) Adjustments
 
@@ -74,7 +74,7 @@
 
 #### (B) Baseline
 
-&emsp;&emsp;Any estimate made pursuant to subparagraph (A) shall be prepared using baselineestimates supplied by the Congressional Budget Office, consistent with section 907 of this title. CBO estimates of legislation adjusted for current policy shall include a separate presentation of costs excluded from the calculation of budgetary effects for the legislation, as well as an updated total of all excluded costs of provisions within subsection (c), (d), or (e) of section 936 of this title, as applicable, and in the case of paragraph (1) of section 936(f) of this title, within any of the subparagraphs (A) through (L) of such paragraph, as applicable.
+&emsp;&emsp;Any estimate made pursuant to subparagraph (A) shall be prepared using baseline estimates supplied by the Congressional Budget Office, consistent with section 907 of this title. CBO estimates of legislation adjusted for current policy shall include a separate presentation of costs excluded from the calculation of budgetary effects for the legislation, as well as an updated total of all excluded costs of provisions within subsection (c), (d), or (e) of section 936 of this title, as applicable, and in the case of paragraph (1) of section 936(f) of this title, within any of the subparagraphs (A) through (L) of such paragraph, as applicable.
 
 #### (3) Limitation on availability of excess savings
 
@@ -176,13 +176,15 @@ OMB shall cumulate the budgetary effects of a PAYGO Act over the budget year (wh
 
 (Pub. L. 111–139, title I, §4, Feb. 12, 2010, 124 Stat. 9.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (a)(1), is title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and section 3101 of Title 31, Money and Finance, and enacted provisions set out as a note under section 712 of Title 31. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub.L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 As amended by this title, referred to in subsec. (d)(3), means as amended by title I of Pub. L. 111–139.
 

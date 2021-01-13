@@ -1,8 +1,12 @@
 ### §1750. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 105–83, title VII, §702, Nov. 14, 1997, 111 Stat. 1624, which set out congressional findings, wasomitted from the Code as being of special and not general application.
+Section, Pub. L. 105–83, title VII, §702, Nov. 14, 1997, 111 Stat. 1624, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

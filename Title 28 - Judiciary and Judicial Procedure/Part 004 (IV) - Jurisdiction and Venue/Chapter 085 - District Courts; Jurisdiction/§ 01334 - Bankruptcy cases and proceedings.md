@@ -6,7 +6,7 @@
 
 (c)(1) Except with respect to a case under chapter 15 of title 11, nothing in this section prevents a district court in the interest of justice, or in the interest of comity with State courts or respect for State law, from abstaining from hearing a particular proceeding arising under title 11 or arising in or related to a case under title 11.
 
-(2) Upon timely motion of a party in a proceeding based upon a State law claim or State law cause of action, related to a case under title 11 but not arising under title 11 or arising in a case under title 11, with respect to which an action could not have been commenced in a court of the United States absent jurisdiction under this section, the district court shall abstain from hearing such proceeding if an action is commenced, and can be timely adjudicated, in a State forum of appropriate jurisdiction.
+(2) Upon timely motion of a party in a proceeding based upon a State law claim or State law cause of action, related to a case under title 11 but not arising under title 11 or arising in a case under title 11, with respect to which an action could not have been commenced in a court of the United States absent jurisdiction underthis section, the district court shall abstain from hearing such proceeding if an action is commenced, and can be timely adjudicated, in a State forum of appropriate jurisdiction.
 
 (d) Any decision to abstain or not to abstain made under subsection (c) (other than a decision not to abstain in a proceeding described in subsection (c)(2)) is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title. Subsection (c) and this subsection shall not be construed to limit the applicability of the stay provided for by section 362 of title 11, United States Code, as such section applies to an action affecting the property of the estate in bankruptcy.
 
@@ -23,6 +23,8 @@
 Based on title 28, U.S.C., 1940 ed., §§41(19) and 371(6) (Mar. 3, 1911, ch. 231, §§24, par. 19, 256, par. 6, 36 Stat. 1093, 1160).
 
 Changes in phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -42,9 +44,11 @@ Subsec. (e). Pub. L. 103–394, §104(b)(1), redesignated subsec. (d) as (e).
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–554 substituted "and of property of the estate" for "and of the estate".
 
-<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted "cases" for "matters" in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted "Except as provided in subsection (b) of this section, the district" for "The district" and "original and exclusive jurisdictionof all cases under title 11" for "original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy", and added subsecs. (b) to (d).
+<b>1984</b>—Pub. L. 98–353 in amending section generally, substituted "cases" for "matters" in section catchline, designated existing provision as subsec. (a), and in subsec. (a) as so designated, substituted "Except as provided in subsection (b) of this section, the district" for "The district" and "original and exclusive jurisdiction of all cases under title 11" for "original jurisdiction, exclusive of the courts of the States, of all matters and proceedings in bankruptcy", and added subsecs. (b) to (d).
 
 <b>1978</b>—Pub. L. 95–598 directed the general amendment of section to relate to bankruptcy appeals, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -74,5 +78,5 @@ Pub. L. 98–353, title I, §115, July 10, 1984, 98 Stat. 343, provided that:
 
 &emsp;"(2) cases under title 11 of the United States Code, and proceedings arising under title 11 of the United States Code or arising in or related to cases under title 11 of the United States Code, that are pending immediately before such date in the bankruptcy courts continued by section 404(a) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687).
 
-"(b) On the date of the enactment of this Act \[July 10, 1984\], there shall be transferred to the appropriate district court of the United States appeals from final judgments, orders, and decrees of the bankruptcy courts pending immediately before such date in the bankruptcy appellate panels appointed under section 405(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2685) \[formerly set out as a note preceding section 1471 of this title\]."
+"(b) On the date of the enactment of this Act \[July 10, 1984\], there shall be transferred to the appropriatedistrict court of the United States appeals from final judgments, orders, and decrees of the bankruptcy courts pending immediately before such date in the bankruptcy appellate panels appointed under section 405(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2685) \[formerly set out as a note preceding section 1471 of this title\]."
 

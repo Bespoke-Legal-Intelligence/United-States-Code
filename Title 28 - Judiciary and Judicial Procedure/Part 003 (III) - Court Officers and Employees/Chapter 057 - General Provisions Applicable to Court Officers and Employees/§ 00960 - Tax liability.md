@@ -28,9 +28,13 @@ Word "Federal" was added before "State" in recognition of the liability of such 
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

@@ -32,7 +32,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 &emsp;&emsp;(A) requirements on any alien for whom the documentary requirements in section 1182(a)(7)(B) of this title have been waived by the Attorney General and the Secretary of State under section 1182(d)(4)(B) of this title; or
 
-&emsp;&emsp;(B) requirements that are inconsistent with the North American Free Trade Agreement.
+&emsp;&emsp;(B) requirements that are inconsistent with the USMCA (as defined in section 4502 of title 19).
 
 #### (2) No reduction of authority
 
@@ -88,7 +88,9 @@ The Attorney General shall continuously update and improve the integrated entry 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2008.
 
-(Pub. L. 104–208, div. C, title I, §110, Sept. 30, 1996, 110 Stat. 3009–558; Pub. L. 105–259, §1, Oct. 15, 1998, 112 Stat. 1918; Pub. L. 105–277, div. A, §101(b) \[title I, §116\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 106–215, §2(a), June 15, 2000, 114 Stat. 337.)
+(Pub. L. 104–208, div. C, title I, §110, Sept. 30, 1996, 110 Stat. 3009–558; Pub. L. 105–259, §1, Oct. 15, 1998, 112 Stat. 1918; Pub. L. 105–277, div. A, §101(b) \[title I, §116\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 106–215, §2(a), June 15, 2000, 114 Stat. 337; Pub. L. 116–113, title V, §503(d)(1), Jan. 29, 2020, 134 Stat. 72.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -101,6 +103,8 @@ Section was formerly set out as a note under section 1221 of this title.
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1)(B). Pub. L. 116–113 substituted "USMCA (as defined in section 4502 of title 19)" for "North American Free Trade Agreement".
 
 <b>2000</b>—Pub. L. 106–215 amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -130,7 +134,7 @@ Information.—The report shall include the following information:
 
 &emsp;&emsp;"(B) The number of departure records that were successfully matched to records of the alien's prior arrival in the United States, with an accounting by the alien's country of nationality and by the alien's classification as an immigrant or nonimmigrant.
 
-&emsp;&emsp;"(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
+&emsp;&emsp;"(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiverprogram under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
 
 "(c)
 
@@ -142,9 +146,15 @@ Pub. L. 105–259 in introductory provisions, substituted "October 15, 1998" for
 
 Subsec. (a)(3). Pub. L. 105–277, §116(2)–(4), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable to visas issued on or after that date, see section 503(f) of Pub. L. 116–113, set out as a note under section 1184 of this title.
 
 #### Visa Integrity and Security
 

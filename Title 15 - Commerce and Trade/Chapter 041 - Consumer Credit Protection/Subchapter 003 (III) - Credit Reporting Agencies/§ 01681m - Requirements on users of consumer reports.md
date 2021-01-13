@@ -230,7 +230,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V)
 
 &emsp;&emsp;&emsp;(iv) a model notice that may be used to comply with this subsection; and
 
-&emsp;&emsp;&emsp;(v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to theconsumer were set based on information from a consumer report.
+&emsp;&emsp;&emsp;(v) the timing of the notice required under paragraph (1), including the circumstances under which the notice must be provided after the terms offered to the consumer were set based on information from a consumer report.
 
 #### (7) Compliance
 
@@ -276,7 +276,7 @@ Subsec. (g). Pub. L. 108–159, §155, added subsec. (g).
 
 Subsec. (h). Pub. L. 108–159, §311(a), added subsec. (h).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report."
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2411(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the charge for such credit or insurance is increased either wholly or partly because of informationcontained in a consumer report from a consumer reporting agency, the user of the consumer report shall so advise the consumer against whom such adverse action has been taken and supply the name and address of the consumer reporting agency making the report."
 
 Subsec. (b). Pub. L. 104–208, §2411(e), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 

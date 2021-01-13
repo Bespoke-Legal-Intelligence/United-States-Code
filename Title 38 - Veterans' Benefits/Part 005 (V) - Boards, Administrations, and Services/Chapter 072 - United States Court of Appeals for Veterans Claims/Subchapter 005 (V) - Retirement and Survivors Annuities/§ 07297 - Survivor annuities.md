@@ -36,7 +36,7 @@
 
 &emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and elects to receive retired pay under section 7296 of this title.
 
-(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (l) of thissection), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
+(f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (l) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
 &emsp;(A) if the judge is survived by a surviving spouse but not by a dependent child, there shall be paid to the surviving spouse an annuity beginning with the day of the death of the judge, in an amount computed as provided in subsection (k) of this section; or
 
@@ -144,6 +144,8 @@
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 620, §4097; renumbered §7297 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, §5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 114–315, title II, §203, Dec. 16, 2016, 130 Stat. 1549.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (p). Pub. L. 114–315 added subsec. (p).
@@ -193,6 +195,8 @@ Pub. L. 102–82 inserted "except section 8440c of title 5" before period at end
 Pub. L. 102–40, §402(d)(1), substituted "7296(d)" for "4096(d)".
 
 Subsec. (o). Pub. L. 102–40, §402(d)(1), substituted "7253(e)" for "4053(e)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

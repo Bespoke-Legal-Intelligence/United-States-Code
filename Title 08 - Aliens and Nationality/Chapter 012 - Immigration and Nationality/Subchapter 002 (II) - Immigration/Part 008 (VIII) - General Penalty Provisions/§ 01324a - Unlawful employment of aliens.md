@@ -40,7 +40,7 @@
 
 #### (B) Period
 
-&emsp;&emsp;The period described in this subparagraph is 3 years, or, if less, the period of time thatthe individual is authorized to be employed in the United States.
+&emsp;&emsp;The period described in this subparagraph is 3 years, or, if less, the period of time that the individual is authorized to be employed in the United States.
 
 #### (C) Liability
 
@@ -108,7 +108,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (E) Authority to prohibit use of certain documents
 
-&emsp;&emsp;If the Attorney General finds, by regulation, that any document described in subparagraph (B), (C), or (D) as establishing employment authorization or identity does not reliably establish such authorization or identity or is being used fraudulently to an unacceptable degree, the Attorney Generalmay prohibit or place conditions on its use for purposes of this subsection.
+&emsp;&emsp;If the Attorney General finds, by regulation, that any document described in subparagraph (B), (C), or (D) as establishing employment authorization or identity does not reliably establish such authorization or identity or is being used fraudulently to an unacceptable degree, the Attorney General may prohibit or place conditions on its use for purposes of this subsection.
 
 #### (2) Individual attestation of employment authorization
 
@@ -186,7 +186,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Using of counterfeit-resistant documents
 
-&emsp;&emsp;If the system requires that a document be presented to or examined by an employer,the document must be in a form which is resistant to counterfeiting and tampering.
+&emsp;&emsp;If the system requires that a document be presented to or examined by an employer, the document must be in a form which is resistant to counterfeiting and tampering.
 
 #### (C) Limited use of system
 
@@ -322,7 +322,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (5) Order for civil money penalty for paperwork violations
 
-&emsp;With respect to a violation of subsection (a)(1)(B), the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individualwas an unauthorized alien, and the history of previous violations.
+&emsp;With respect to a violation of subsection (a)(1)(B), the order under this subsection shall require the person or entity to pay a civil penalty in an amount of not less than $100 and not more than $1,000 for each individual with respect to whom such violation occurred. In determining the amount of the penalty, due consideration shall be given to the size of the business of the employer being charged, the good faith of the employer, the seriousness of the violation, whether or not the individual was an unauthorized alien, and the history of previous violations.
 
 #### (6) Order for prohibited indemnity bonds
 
@@ -376,9 +376,11 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274A, as added Pub. L. 99–603, title I, §101(a)(1), Nov. 6, 1986, 100 Stat. 3360; amended Pub. L. 100–525, §2(a)(1), Oct. 24, 1988, 102 Stat. 2609; Pub. L. 101–649, title V, §§521(a), 538(a), Nov. 29, 1990, 104 Stat. 5053, 5056; Pub. L. 102–232, title III, §§306(b)(2), 309(b)(11), Dec. 12, 1991, 105 Stat. 1752, 1759; Pub. L. 103–416, title II, §§213, 219(z)(4), Oct. 25, 1994, 108 Stat. 4314, 4318; Pub. L. 104–208, div. C, title III, §379(a), title IV, §§411(a), 412(a)–(d), 416, Sept. 30, 1996, 110 Stat. 3009–649, 3009–666 to 3009–669; Pub. L. 108–390, §1(a), Oct. 30, 2004, 118 Stat. 2242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, "this Act",meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -394,7 +396,7 @@ Subsec. (b)(3). Pub. L. 108–390, §1(a)(3), inserted "a paper, microfiche, mic
 
 Subsec. (a)(7). Pub. L. 104–208, §412(d), added par. (7).
 
-Subsec. (b)(1)(B). Pub. L. 104–208, §412(a)(1)(A), (B), redesignated cl. (v) as (ii), substituted ", alien registration card, or other document designated by the Attorney General, if the document" for "or other alien registration card, if the card" in introductory provisions of that cl., and struck out former cls. (ii) to (iv) which read as follows:
+Subsec. (b)(1)(B). Pub. L. 104–208, §412(a)(1)(A), (B), redesignated cl. (v) as (ii), substituted ", alien registration card, or other document designated by the Attorney General, if the document" for "or other alien registration card, if the card" in introductory provisionsof that cl., and struck out former cls. (ii) to (iv) which read as follows:
 
 "(ii) certificate of United States citizenship;
 
@@ -450,6 +452,8 @@ Subsec. (j)(1). Pub. L. 100–525, §2(a)(1)(G), made technical amendment to pro
 
 Subsec. (j)(2). Pub. L. 100–525, §2(a)(1)(H), substituted "this section" for "that section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the earlier of—
@@ -462,7 +466,7 @@ Pub. L. 108–390, §1(b), Oct. 30, 2004, 118 Stat. 2242, provided that: "The am
 
 Pub. L. 104–208, div. C, title III, §379(b), Sept. 30, 1996, 110 Stat. 3009–650, provided that: "The amendments made by subsection (a) \[amending this section and section 1324c of this title\] shall apply to orders issued on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Pub. L. 104–208, div. C, title IV, §411(b), Sept. 30, 1996, 110 Stat. 3009–666, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title IV, §411(b), Sept. 30, 1996, 110 Stat. 3009–666, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–668, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that:
 
@@ -474,7 +478,7 @@ Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–
 
 "(4) The amendment made by subsection (d) \[amending this section\] applies to hiring occurring before, on, or after the date of the enactment of this Act, but no penalty shall be imposed under subsection (e) or (f) of section 274A of the Immigration and Nationality Act \[subsecs. (e) and (f) of this section\] for such hiring occurring before such date."
 
-\[Pub. L. 105–54, §3(b), Oct. 6, 1997, 111 Stat. 1176, provided that: "The amendment made by subsection (a) \[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\]."\]
+\[Pub. L. 105–54, §3(b), Oct. 6, 1997, 111 Stat. 1176, provided that: "The amendment made by subsection (a)\[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\]."\]
 
 #### Effective Date of 1994 Amendment
 
@@ -864,7 +868,7 @@ Initial Response.—The confirmation system shall provide confirmation or a tent
 
 "(c)
 
-Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner ofSocial Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
+Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
 
 "(d)
 
@@ -927,6 +931,8 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 &emsp;"(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
+
+\[Pub. L. 116–260, div. O, title I, §101, Dec. 27, 2020, 134 Stat. 2148, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."\]
 
 \[Pub. L. 116–94, div. I, title I, §101, Dec. 20, 2019, 133 Stat. 3019, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."\]
 
@@ -1017,6 +1023,8 @@ Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: 
 &emsp;&emsp;"(C) the violation of terms and conditions of nonimmigrant visas by foreign visitors."
 
 \[Functions of President under section 402 of Pub. L. 99–603 delegated to Secretary of Homeland Security, except functions in section 402(3)(A) which were delegated to Secretary of Labor, by sections 1(b) and 2(a) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended, set out as a note under section 1364 of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12989. Economy and Efficiency in Government Procurement Through Compliance with Certain Immigration and Nationality Act Provisions and Use of an Electronic Employment Eligibility Verification System
 

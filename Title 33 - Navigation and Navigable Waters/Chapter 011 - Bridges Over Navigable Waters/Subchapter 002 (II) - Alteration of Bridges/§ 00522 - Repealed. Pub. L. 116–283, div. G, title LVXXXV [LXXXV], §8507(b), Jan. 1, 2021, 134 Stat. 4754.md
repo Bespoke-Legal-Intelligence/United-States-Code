@@ -1,0 +1,4 @@
+### §522. Repealed. Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(b), Jan. 1, 2021, 134 Stat. 4754
+
+Section, act June 21, 1940, ch. 409, §12, 54 Stat. 501, related to applicability of certain provisions of law existing in 1940.
+

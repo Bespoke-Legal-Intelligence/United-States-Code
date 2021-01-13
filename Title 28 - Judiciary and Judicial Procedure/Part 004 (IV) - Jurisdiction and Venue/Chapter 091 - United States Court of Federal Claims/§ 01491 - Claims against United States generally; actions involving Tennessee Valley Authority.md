@@ -30,11 +30,13 @@ The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims 
 
 The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension claims appears in section 1501 of this title.
 
-Words "in respect of which claims the party would be entitled to redress against the United States either ina court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
+Words "in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
 
 For additional provisions respecting jurisdiction of the court of claims in war contract settlement cases see section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph 
 <b>1954</b>—Act Sept. 3, 1954, inserted "; actions involving Tennessee Valley Authority" in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
 
 <b>1953</b>—Act July 28, 1953, substituted "United States Court of Claims" for "Court of Claims" near beginning of section, and inserted last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -14,6 +14,8 @@ Persons detailed to the international staff of the North Atlantic Treaty Organiz
 
 (Aug. 26, 1954, ch. 937, title IV, §408, 68 Stat. 845; Pub. L. 85–141, §8(h), Aug. 14, 1957, 71 Stat. 361; Pub. L. 86–108, ch. II, §205(h), July 24, 1959, 73 Stat. 250; Pub. L. 96–465, title II, §2206(a)(6), Oct. 17, 1980, 94 Stat. 2161.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
@@ -29,6 +31,8 @@ Subsec. (c). Pub. L. 96–465, §2206(a)(6)(C), among other changes, substituted
 <b>1959</b>—Subsec. (c). Pub. L. 86–108 substituted "five years" for "four years".
 
 <b>1957</b>—Subsec. (a). Pub. L. 85–141 struck out provisions authorizing appropriations of not more than $3,200,000 for the fiscal year 1955.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 111–117, div. E, title I, §118, Dec. 16, 2009, 123 Stat. 3293, provid
 
 &emsp;"(2) attempts to achieve economic incentives offered by host countries to encourage private investment for the benefit of the United States Armed Forces;
 
-&emsp;"(3) attempts to recover funds due to be paid to the United States by host countries for assets deeded orotherwise imparted to host countries upon the cessation of United States operations at military installations;
+&emsp;"(3) attempts to recover funds due to be paid to the United States by host countries for assets deeded or otherwise imparted to host countries upon the cessation of United States operations at military installations;
 
 &emsp;"(4) the amount spent by host countries on defense, in dollars and in terms of the percent of gross domestic product (GDP) of the host country; and
 
@@ -226,7 +230,7 @@ Annual Report.—(1) Not later than January 31 of each year through 2008, the Se
 
 &emsp;&emsp;"(ii) a description of the circumstances which led to the defense, military, security, and nuclear decisions of NATO on matters such as the Prague Capabilities Commitment and the NATO Response Force being made in bodies other than the Defense Planning Committee;
 
-&emsp;&emsp;"(iii) a description of the extent to which any member that does not participate in the integrated military structure of NATO contributes to each of the component committees of NATO, including any and all committees relevant to the Prague Capabilities Commitment and the NATO Response Force;
+&emsp;&emsp;"(iii) a description of the extent to which any member that does not participate in the integratedmilitary structure of NATO contributes to each of the component committees of NATO, including any and all committees relevant to the Prague Capabilities Commitment and the NATO Response Force;
 
 &emsp;&emsp;"(iv) a description of the extent to which any member that does not participate in the integrated military structure of NATO participates in deliberations and decisions of NATO on resource policy, contribution ceilings, infrastructure, force structure, modernization, threat assessments, training, exercises, deployments, and other issues related to the Prague Capabilities Commitment or the NATO Response Force;
 
@@ -286,9 +290,9 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 &emsp;"(6) In late 2002, NATO will hold a summit in Prague, the Czech Republic, at which it will decide which additional emerging democracies in Central and Eastern Europe to invite to join the Alliance in the next round of NATO enlargement.
 
-&emsp;"(7) In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that their countries will cooperate in jointly seeking NATO membership in the next round of NATO enlargement, that the realization of NATO membership by one or more ofthese countries would be a success for all, and that eventual NATO membership for all of these countries would be a success for Europe and NATO.
+&emsp;"(7) In May 2000 in Vilnius, Lithuania, the foreign ministers of Albania, Bulgaria, Estonia, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, Romania, Slovakia, and Slovenia issued a statement (later joined by Croatia) declaring that their countries will cooperate in jointly seeking NATO membership in the next round of NATO enlargement, that the realization of NATO membership by one or more of these countries would be a success for all, and that eventual NATO membership for all of these countries would be a success for Europe and NATO.
 
-&emsp;"(8) On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated '\[a\]ll of Europe's new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance to join the institutions of Europe—as Europe's old democracies have . . . I believe in NATO membership for all of Europe's democracies that seek it and are ready to share the responsibilities that NATO brings . . . \[a\]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . \[w\]e will not trade away the fate of free European peoples . . . \[n\]o more Munichs . . . \[n\]o more Yaltas . . . \[a\]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom'.
+&emsp;"(8) On June 15, 2001, in a speech in Warsaw, Poland, President George W. Bush stated '\[a\]ll of Europe's new democracies, from the Baltic to the Black Sea and all that lie between, should have the same chance for security and freedom—and the same chance tojoin the institutions of Europe—as Europe's old democracies have . . . I believe in NATO membership for all of Europe's democracies that seek it and are ready to share the responsibilities that NATO brings . . . \[a\]s we plan to enlarge NATO, no nation should be used as a pawn in the agenda of others . . . \[w\]e will not trade away the fate of free European peoples . . . \[n\]o more Munichs . . . \[n\]o more Yaltas . . . \[a\]s we plan the Prague Summit, we should not calculate how little we can get away with, but how much we can do to advance the cause of freedom'.
 
 &emsp;"(9) On October 22, 1996, in a speech in Detroit, Michigan, former President William J. Clinton stated 'NATO's doors will not close behind its first new members . . . NATO should remain open to all of Europe's emerging democracies who are ready to shoulder the responsibilities of membership . . . \[n\]o nation will be automatically excluded . . . \[n\]o country outside NATO will have a veto . . . \[a\] gray zone of insecurity must not reemerge in Europe'.
 
@@ -378,11 +382,11 @@ Policy With Respect to NATO Enlargement.—Congress urges the President to outli
 
 &emsp;"(2) the United States should ensure that NATO continues a process whereby all other emerging democracies in Central and Eastern Europe that wish to join NATO will be considered for membership in NATO as soon as they meet the criteria for such membership;
 
-&emsp;"(3) the United States should ensure that no limitations are placed on the numbers of NATO troops ortypes of equipment, including tactical nuclear weapons, to be deployed on the territory of new member states;
+&emsp;"(3) the United States should ensure that no limitations are placed on the numbers of NATO troops or types of equipment, including tactical nuclear weapons, to be deployed on the territory of new member states;
 
 &emsp;"(4) the United States should reject all efforts to condition NATO decisions on review or approval by the United Nations Security Council;
 
-&emsp;"(5) the United States should clearly delineate those NATO deliberations, including but not limited to discussions on arms control, further Alliance enlargement, procurement matters, and strategic doctrine, that are not subject to review or discussion in the NATO-Russia Permanent Joint Council;
+&emsp;"(5) the United States should clearly delineate those NATO deliberations, including but not limitedto discussions on arms control, further Alliance enlargement, procurement matters, and strategic doctrine, that are not subject to review or discussion in the NATO-Russia Permanent Joint Council;
 
 &emsp;"(6) the United States should work to ensure that countries invited to join the Alliance are provided an immediate seat in NATO discussions; and
 
@@ -642,11 +646,11 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 &emsp;"(18) A number of Central and Eastern European countries have expressed interest in NATO membership, and have taken concrete steps to demonstrate this commitment, including their participation in Partnership for Peace activities.
 
-&emsp;"(19) The Caucasus region remains important geographically and politically to the future security of Central Europe. As NATO proceeds with the process of enlargement, the United States and NATO shouldcontinue to examine means to strengthen the sovereignty and enhance the security of United Nations recognized countries in that region.
+&emsp;"(19) The Caucasus region remains important geographically and politically to the future security of Central Europe. As NATO proceeds with the process of enlargement, the United States and NATO should continue to examine means to strengthen the sovereignty and enhance the security of United Nations recognized countries in that region.
 
 &emsp;"(20) In recognition that not all countries which have requested membership in NATO will necessarily qualify at the same pace, the accession date for each new member will vary.
 
-&emsp;"(21) The provision of additional NATO transition assistance should include those emerging democracies most ready for closer ties with NATO and should be designed to assist other countries meeting specified criteria of eligibility to move forward toward eventual NATO membership.
+&emsp;"(21) The provision of additional NATO transition assistance should include those emerging democracies most ready for closer ties with NATO and should be designed to assist other countries meetingspecified criteria of eligibility to move forward toward eventual NATO membership.
 
 &emsp;"(22) The Congress of the United States finds in particular that Poland, Hungary, and the Czech Republic have made significant progress toward achieving the criteria set forth in section 203(d)(3) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and should be eligible for the additional assistance described in this Act.
 
@@ -728,13 +732,13 @@ Availability.—Of the funds authorized to be appropriated by subsection (a)—
 
 &emsp;"(1) not less than $20,000,000 shall be available for the cost, as defined in section 502(5) of the \[Federal\] Credit Reform Act of 1990 \[2 U.S.C. 661a(5)\], of direct loans pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the 'Foreign Military Financing Program');
 
-&emsp;"(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authorityof section 203(c)(4) of the NATO Participation Act of 1994 (relating to the 'Foreign Military Financing Program'); and
+&emsp;"(2) not less than $30,000,000 shall be available for assistance on a grant basis pursuant to the authority of section 203(c)(4) of the NATO Participation Act of 1994 (relating to the 'Foreign Military Financing Program'); and
 
 &emsp;"(3) not more than $10,000,000 shall be available for assistance pursuant to the authority of section 203(c)(3) of the NATO Participation Act of 1994 (relating to international military education and training).
 
 "(c)
 
-Rule of Construction.—Amounts authorized to be appropriated under this section are authorized to be appropriated in addition to such amounts as otherwise may be available for such purposes.
+Rule of Construction.—Amounts authorized to be appropriated under this section are authorized to beappropriated in addition to such amounts as otherwise may be available for such purposes.
 
 #### "SEC. 608. REGIONAL AIRSPACE INITIATIVE AND PARTNERSHIP FOR PEACE INFORMATION MANAGEMENT SYSTEM.
 
@@ -992,7 +996,7 @@ Pub. L. 103–337, div. A, title XIII, §1313(a)–(d), Oct. 5, 1994, 108 Stat. 
 
 "(a)
 
-Policy.—It is the policy of the United States that the North Atlantic Treaty Organization (NATO) allies should assist the United States in paying the incremental costs incurred by the United States formaintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO solely for support of NATO roles and missions.
+Policy.—It is the policy of the United States that the North Atlantic Treaty Organization (NATO) allies should assist the United States in paying the incremental costs incurred by the United States for maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO solely for support of NATO roles and missions.
 
 "(b)
 
@@ -1000,7 +1004,7 @@ Implementation.—The President shall take all necessary actions to ensure the e
 
 "(c)
 
-Incremental Costs Defined.—For purposes of subsection (a), the definition provided for the term 'incremental costs' in section 1046 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190, set out below\], as added by subsection (e), shall apply with respect to maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO in the same manner as such term applies with respect to permanent stationing ashore of United States forces in foreign nations for purposes of subsection (e)(4) of such section 1046.
+Incremental Costs Defined.—For purposes of subsection (a), the definition provided for the term 'incremental costs' in section 1046 of the National DefenseAuthorization Act for Fiscal Years 1992 and 1993 \[Pub. L. 102–190, set out below\], as added by subsection (e), shall apply with respect to maintaining members of the Armed Forces in assignments to permanent duty ashore in European member nations of NATO in the same manner as such term applies with respect to permanent stationing ashore of United States forces in foreign nations for purposes of subsection (e)(4) of such section 1046.
 
 "\[(d) Redesignated (c).\]"
 
@@ -1148,7 +1152,7 @@ Pub. L. 98–525, title X, §1002, Oct. 19, 1984, 98 Stat. 2574, as amended by P
 
 "(c)(1) The end strength level of members of the Armed Forces of the United States assigned to permanent duty ashore in European member nations of the North Atlantic Treaty Organization may not exceed a permanent ceiling of approximately 100,000 in any fiscal year.
 
-"(2) If the Secretary of Defense certifies to the Congress in writing during any fiscal year after fiscal year 1985 that during the previous fiscal year the member nations of NATO (other than the United States) have undertaken significant measures to improve their conventional defense capacity consistent with the goals set forth in subsection (b) which contributes to lengthening the time period between an armed attack on any NATO country and the time the Supreme Allied Commander, Europe, would have to request the release and use of nuclear weapons, the Congress would give strong consideration to authorizing an increase in the permanent ceiling prescribed in paragraph (1) for fiscal years after such fiscal year.
+"(2) If the Secretary of Defense certifies to the Congress in writing during any fiscal year after fiscal year1985 that during the previous fiscal year the member nations of NATO (other than the United States) have undertaken significant measures to improve their conventional defense capacity consistent with the goals set forth in subsection (b) which contributes to lengthening the time period between an armed attack on any NATO country and the time the Supreme Allied Commander, Europe, would have to request the release and use of nuclear weapons, the Congress would give strong consideration to authorizing an increase in the permanent ceiling prescribed in paragraph (1) for fiscal years after such fiscal year.
 
 "(3) For purposes of this subsection, the following members of the Armed Forces are excluded in calculating the end strength level of members of the Armed Forces of the United States assigned to permanent duty ashore in European member nations of NATO:
 
@@ -1202,7 +1206,7 @@ Pub. L. 97–252, title XI, §1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 "(a) The Congress finds that—
 
-&emsp;"(1) the United States remains firmly committed to cooperating closely with its North Atlantic TreatyOrganization (hereinafter in this section referred to as 'NATO') allies in protecting liberty and maintaining world peace;
+&emsp;"(1) the United States remains firmly committed to cooperating closely with its North Atlantic Treaty Organization (hereinafter in this section referred to as 'NATO') allies in protecting liberty and maintaining world peace;
 
 &emsp;"(2) the financial burden of providing for the defense of Western Europe and for the protection of the interests of NATO member countries in areas outside the NATO treaty area has reached such proportions that new cooperative approaches among the United States and its NATO allies are required to achieve and maintain an adequate collective defense at acceptable costs;
 
@@ -1258,13 +1262,15 @@ Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
 "(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteen months after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
 
-"(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenance and operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North Atlantic Treaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
+"(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenanceand operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North Atlantic Treaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
 
 "(d) The President shall submit to the Congress within ninety days after the date of enactment of this Act \[Nov. 16, 1973\], and at the end of each ninety-day period thereafter, a written report informing the Congress of the progress that has been made in implementing the provisions of this section."
 
 #### United States Citizens Commission on NATO
 
 Pub. L. 86–719, Sept. 7, 1960, 74 Stat. 818, as amended by Pub. L. 87–116, July 31, 1961, 75 Stat. 242, provided for a United States Citizens Commission on NATO to terminate on June 30, 1962, including the appointment of the Commission, vacancies, chairman and vice chairman, statement of purpose, conferences in NATO countries, representative status, authority of Commission, compensation and expenses, appropriations, and reports to Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11633. Security Clearance Program for United States Citizens Employed Directly by NATO, SEATO, and CENTO
 

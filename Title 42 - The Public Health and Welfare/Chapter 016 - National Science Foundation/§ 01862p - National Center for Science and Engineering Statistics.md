@@ -8,7 +8,7 @@ There is established within the Foundation a National Center for Science and Eng
 
 In carrying out subsection (a) of this section, the Director, acting through the Center shall—
 
-&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to the science and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
+&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to thescience and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
 
 &emsp;&emsp;(A) research and development trends;
 

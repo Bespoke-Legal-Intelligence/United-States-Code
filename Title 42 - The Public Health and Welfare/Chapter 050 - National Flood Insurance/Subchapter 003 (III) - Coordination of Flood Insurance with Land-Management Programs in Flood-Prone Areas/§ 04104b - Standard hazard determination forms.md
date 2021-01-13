@@ -32,7 +32,7 @@ Any person increasing, extending, renewing, or purchasing a loan secured by impr
 
 #### (f) Effective date
 
-The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) and shall take effect upon the expiration of the 180-day period beginning on such issuance.
+The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) and shalltake effect upon the expiration of the 180-day period beginning on such issuance.
 
 (Pub. L. 90–448, title XIII, §1365, as added Pub. L. 103–325, title V, §528, Sept. 23, 1994, 108 Stat. 2264; amended Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 

@@ -18,9 +18,11 @@ The Congress finds that it is in the national security interest of the United St
 
 (Pub. L. 102–484, div. A, title XIV, §1411, Oct. 23, 1992, 106 Stat. 2563.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 102–484, div. A, title XIV, §1401, Oct. 23, 1992, 106 Stat. 2563, provided that: "This title \[enacting thischapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the 'Former Soviet Union Demilitarization Act of 1992'."
+Pub. L. 102–484, div. A, title XIV, §1401, Oct. 23, 1992, 106 Stat. 2563, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 2551 of this title\] may be cited as the 'Former Soviet Union Demilitarization Act of 1992'."
 
 #### Policy on Reduction of Russian Nuclear Forces
 
@@ -38,7 +40,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(2) In the Treaty on the Non-Proliferation of Nuclear Weapons, in exchange for the non-nuclear-weapon states agreeing not to seek a nuclear weapons capability nor to assist other non-nuclear-weapon states in doing so, the United States agreed to seek the complete elimination of all nuclear weapons worldwide, as declared in the preamble to the Treaty, which states that it is a goal of the parties to the Treaty to 'facilitate the cessation of the manufacture of nuclear weapons, the liquidation of all their existing stockpiles, and the elimination from national arsenals of nuclear weapons and the means of their delivery' as well as in Article VI of the Treaty, which states that 'each of the parties to the Treaty undertakes to pursue negotiations in good faith on effective measures relating to the cessation of the nuclear arms race at an early date and to nuclear disarmament'.
 
-&emsp;"(3) Carrying out a policy of seeking further significant and continuous reductions in the nuclear arsenals of all countries, besides reducing the likelihood of the proliferation of nuclear weapons and increasing the likelihood of a successful extension and possible strengthening of the Treaty on the Non-Proliferation of Nuclear Weapons in 1995, when the Treaty is scheduled for review and possible extension, has additional benefits to the national security of the United States, including—
+&emsp;"(3) Carrying out a policy of seeking further significant and continuous reductions in the nuclear arsenals of all countries, besides reducing the likelihood of the proliferation of nuclear weapons and increasing the likelihood of a successful extension and possible strengthening of the Treaty on the Non-Proliferationof Nuclear Weapons in 1995, when the Treaty is scheduled for review and possible extension, has additional benefits to the national security of the United States, including—
 
 &emsp;&emsp;"(A) a reduced risk of accidental enablement and launch of a nuclear weapon, and
 

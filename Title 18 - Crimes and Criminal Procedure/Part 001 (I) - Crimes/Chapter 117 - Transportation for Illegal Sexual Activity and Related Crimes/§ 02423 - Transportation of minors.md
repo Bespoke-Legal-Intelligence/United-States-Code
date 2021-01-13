@@ -48,6 +48,8 @@ Words "Possession of the United States" were inserted twice. (See reviser's note
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–392, §14(1), substituted "with a motivating purpose" for "for the purpose".
@@ -66,11 +68,11 @@ Subsec. (g). Pub. L. 114–22, §111(b), substituted "clear and convincing evide
 
 Pub. L. 108–21, §103(a)(2)(C), (b)(2)(B), substituted "and imprisoned not less than 5 years and" for ", imprisoned" and "30 years" for "15 years, or both".
 
-Subsec. (b) to (g). Pub. L. 108–21, §105(a), added subsecs. (b) to (g) and struck out former subsec. (b) which read as follows:
+Subsecs. (b) to (g). Pub. L. 108–21, §105(a), added subsecs. (b) to (g) and struck out former subsec. (b) which read as follows:
 
 "(b)
 
-Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a personunder 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both."
+Travel With Intent To Engage in Sexual Act With a Juvenile.—A person who travels in interstate commerce, or conspires to do so, or a United States citizen or an alien admitted for permanent residence in the United States who travels in foreign commerce, or conspires to do so, for the purpose of engaging in any sexual act (as defined in section 2246) with a person under 18 years of age that would be in violation of chapter 109A if the sexual act occurred in the special maritime and territorial jurisdiction of the United States shall be fined under this title, imprisoned not more than 15 years, or both."
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 repealed Pub. L. 104–294, §601(b)(4). See 1996 Amendment note below.
 
@@ -95,6 +97,8 @@ Transportation With Intent To Engage in Criminal Sexual Activity.—A person who
 <b>1986</b>—Pub. L. 99–628 amended section generally, revising and restating as one paragraph provisions formerly contained in subsec. (a) and striking out subsec. (b) which provided definitions.
 
 <b>1978</b>—Pub. L. 95–225 substituted "Transportation of minors" for "Coercion or enticement of minor female" in section catchline, designated existing provision as subsec. (a), substituted provisions relating to conduct prohibiting the transportation of minors for provisions relating to conduct prohibiting the coercion or enticement of a minor female, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

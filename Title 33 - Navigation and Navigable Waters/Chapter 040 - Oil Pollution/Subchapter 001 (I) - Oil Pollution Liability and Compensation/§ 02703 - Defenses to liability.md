@@ -12,7 +12,7 @@ A responsible party is not liable for removal costs or damages under section 270
 
 &emsp;&emsp;(A) exercised due care with respect to the oil concerned, taking into consideration the characteristics of the oil and in light of all relevant facts and circumstances; and
 
-&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third partyand the foreseeable consequences of those acts or omissions; or
+&emsp;&emsp;(B) took precautions against foreseeable acts or omissions of any such third party and the foreseeable consequences of those acts or omissions; or
 
 &emsp;(4) any combination of paragraphs (1), (2), and (3).
 
@@ -98,7 +98,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;&emsp;&emsp;(ii) Interviews with past and present owners, operators, and occupants of the facility and the real property on which the facility is located for the purpose of gathering information regarding the potential for oil at the facility and on the real property on which the facility is located.
 
-&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property on which the facility is located since the property was first developed.
+&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previoususes and occupancies of the real property on which the facility is located since the property was first developed.
 
 &emsp;&emsp;&emsp;(iv) Searches for recorded environmental cleanup liens against the facility and the real property on which the facility is located that are filed under Federal, State, or local law.
 
@@ -147,6 +147,8 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 &emsp;Nothing in this paragraph shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
 (Pub. L. 101–380, title I, §1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, §703(c), Aug. 9, 2004, 118 Stat. 1072; Pub. L. 115–232, div. C, title XXXV, §3547(b), Aug. 13, 2018, 132 Stat. 2328.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

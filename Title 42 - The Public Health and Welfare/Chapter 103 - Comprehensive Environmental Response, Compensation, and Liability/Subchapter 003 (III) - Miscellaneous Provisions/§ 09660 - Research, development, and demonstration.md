@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;(B) The availability of technologies which have been sufficiently developed for field demonstration and which are likely to be cost-effective and reliable.
 
-&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, takinginto account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
+&emsp;&emsp;(C) The availability and suitability of sites for demonstrating such technologies, taking into account the physical, biological, chemical, and geological characteristics of the sites, the extent and type of contamination found at the site, and the capability to conduct demonstration projects in such a manner as to assure the protection of human health and the environment.
 
 &emsp;&emsp;(D) The likelihood that the data to be generated from the demonstration project at the site will be applicable to other sites.
 
@@ -416,7 +416,7 @@ Hazardous waste research at the hanford site.—
 
 &emsp;"(A)
 
-Interagency agreements.—The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
+Interagency agreements.—The Administrator and the Secretary of Energy are authorized toenter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
 
 &emsp;"(B)
 

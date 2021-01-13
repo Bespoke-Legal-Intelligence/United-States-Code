@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–248, title VIII, §8143(b)(2), Oct. 23, 2002, 116 Stat. 1570, added item 903.

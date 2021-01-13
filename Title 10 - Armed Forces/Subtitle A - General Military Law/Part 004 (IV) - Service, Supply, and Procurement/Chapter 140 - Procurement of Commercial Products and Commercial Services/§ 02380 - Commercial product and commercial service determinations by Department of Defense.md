@@ -10,6 +10,22 @@ In General.—The Secretary of Defense shall—
 
 (b)
 
+Determinations Regarding the Commercial Nature of Products or Services.—
+
+&emsp;(1)
+
+In general.—In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
+
+&emsp;&emsp;(A) request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and
+
+&emsp;&emsp;(B) consider the views of appropriate public and private sector entities.
+
+&emsp;(2)
+
+Memorandum.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+
+(c)
+
 Items Previously Acquired Using Commercial Acquisition Procedures.—
 
 &emsp;(1)
@@ -26,9 +42,19 @@ Limitation.—(A) Except as provided under subparagraph (B), funds appropriated 
 
 &emsp;&emsp;(ii) a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
 
-(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869.)
+(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4217.)
+
+#### Renumbering of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1821(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4195, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section, as part of chapter 247 of this title as transferred and redesignated by section 1821(a)(1) of Pub. L. 116–283, is redesignated as section 3456 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283, §816(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–283, §816(1), redesignated subsec. (b) as (c).
+
+Subsec. (c)(2)(B)(i). Pub. L. 116–283, §1831(j)(5), which directed amendment of section "2380(b)(2)(B)(i)" of this title, effective Jan. 1, 2022, by substituting "section 3703(d)(2)" for "section 2306a(b)(4)(B)", could not be executed in subsec. (b)(2)(B)(i) because "section 2306a(b)(4)(B)" did not appear after the redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 116–283, §816(1), and also could not be executed in subsec. (c)(2)(B)(i) to reflect the probable intent of Congress, due to the intervening amendment by section 1821(a)(2) of Pub. L. 116–283, which renumbered this section as section 3456 of this title, effective Jan. 1, 2022.
 
 <b>2018</b>—Pub. L. 115–232, §836(d)(8)(E), substituted "Commercial product and commercial service" for "Commercial item" in section catchline.
 
@@ -36,7 +62,7 @@ Subsec. (a). Pub. L. 115–232, §836(d)(5)(A), substituted "commercial product 
 
 Subsec. (b). Pub. L. 115–232, §836(d)(5)(B)(i)–(iii), in heading, struck out "Item" after "Commercial" and, in text, substituted "a product or service" for "an item" and struck out "item" after "using commercial" wherever appearing.
 
-Subsec. (b)(1). Pub. L. 115–232, §836(d)(5)(B)(iv)–(vi) substituted "prior commercial product or service determination" for "prior commercial item determination","such product or service" for "such item", and "the product or service" for "the item".
+Subsec. (b)(1). Pub. L. 115–232, §836(d)(5)(B)(iv)–(vi) substituted "prior commercial product or service determination" for "prior commercial item determination", "such product or service" for "such item", and "the product or service" for "the item".
 
 Subsec. (b)(2)(B)(ii). Pub. L. 115–232, §836(d)(5)(B)(vi), substituted "the product or service" for "the item".
 
@@ -47,6 +73,10 @@ Subsec. (b)(2)(B)(ii). Pub. L. 115–232, §836(d)(5)(B)(vi), substituted "the p
 "(1) establish and maintain a centralized capability with necessary expertise and resources to oversee the making of commercial item determinations for the purposes of procurements by the Department of Defense; and
 
 "(2) provide public access to Department of Defense commercial item determinations for the purposes of procurements by the Department of Defense."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1821(a)(2) and 1831(j)(5) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

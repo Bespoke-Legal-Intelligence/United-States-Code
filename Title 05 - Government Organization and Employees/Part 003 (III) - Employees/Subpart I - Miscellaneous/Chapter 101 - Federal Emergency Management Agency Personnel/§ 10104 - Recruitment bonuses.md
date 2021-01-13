@@ -56,6 +56,8 @@ Contents.—Each report submitted under this subsection shall include, with resp
 
 (Added Pub. L. 109–295, title VI, §621(a), Oct. 4, 2006, 120 Stat. 1414.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (e), is the date of enactment of Pub. L. 109–295, which was approved Oct. 4, 2006.

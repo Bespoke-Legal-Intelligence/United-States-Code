@@ -56,7 +56,7 @@
 
 &emsp;&emsp;A declaration under this subsection shall terminate upon the earlier of—
 
-&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation as appropriate with the Secretary of Homeland Security or the Secretary of Defense, that the circumstances described in paragraph (1) have ceased to exist; or
+&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation as appropriate with the Secretary of Homeland Security or the Secretary of Defense, that the circumstancesdescribed in paragraph (1) have ceased to exist; or
 
 &emsp;&emsp;&emsp;(ii) a change in the approval status of the product such that the circumstances described in subsection (a)(2) have ceased to exist.
 
@@ -136,7 +136,7 @@ An authorization of a product under this section shall state—
 
 &emsp;&emsp;&emsp;&emsp;(I) that the Secretary has authorized the emergency use of the product;
 
-&emsp;&emsp;&emsp;&emsp;(II) of the significant known and potential benefits and risks of such use,and of the extent to which such benefits and risks are unknown; and
+&emsp;&emsp;&emsp;&emsp;(II) of the significant known and potential benefits and risks of such use, and of the extent to which such benefits and risks are unknown; and
 
 &emsp;&emsp;&emsp;&emsp;(III) of the option to accept or refuse administration of the product, of the consequences, if any, of refusing administration of the product, and of the alternatives to the product that are available and of their benefits and risks.
 
@@ -248,7 +248,7 @@ If a product is the subject of an authorization under this section, the use of s
 
 #### (l) Option to carry out authorized activities
 
-Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
+Nothing in this section provides the Secretary any authority to require any person to carry outany activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
 
 #### (m) Categorization of laboratory tests associated with devices subject to authorization
 
@@ -269,6 +269,8 @@ Nothing in this section provides the Secretary any authority to require any pers
 &emsp;A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act \[42 U.S.C. 263a\] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
 (June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -310,7 +312,7 @@ Subsec. (b)(1). Pub. L. 113–5, §302(a)(2)(B), substituted "may make a declara
 
 Subsec. (b)(2)(A)(ii). Pub. L. 113–5, §302(a)(2)(C)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the expiration of the one-year period beginning on the date on which the declaration is made."
 
-Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal."
+Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar.\(B) read as follows: "Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal."
 
 Subsec. (b)(4). Pub. L. 113–5, §302(a)(2)(D), substituted ", and advance notice of termination under this subsection" for "advance notice of termination, and renewal under this subsection".
 
@@ -353,6 +355,24 @@ Subsec. (j)(4). Pub. L. 113–5, §302(a)(8), added par. (4).
 Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
 <b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+
+#### <b>Executive Documents</b>
+
+#### Making General Use Respirators Available
+
+Memorandum of President of the United States, Mar. 11, 2020, 85 F.R. 15049, provided:
+
+Memorandum for the Secretary of Health and Human Services \[and\] the Secretary of Labor
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+It is the policy of the United States to take proactive measures to prepare for and respond to public health threats, including the public health emergency involving Coronavirus Disease 2019 (COVID–19), which was declared by the Secretary of Health and Human Services on February 4, 2020, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3). We must ensure that our healthcare providers have full access to the products they need. On March 10, 2020, the Secretary of Health and Human Services took action by issuing a declaration pursuant to section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d), which will help bring products necessary for addressing the epidemic to healthcare providers across the Nation. Unfortunately, at present, public health experts anticipate shortages in the supply of personal respiratory devices (respirators) available for use by healthcare workers in mitigating further transmission of COVID–19.
+
+To help prevent the spread of COVID–19, the Secretary of Health and Human Services shall take all appropriate and necessary steps with respect to general use respirators to facilitate their emergency use by healthcare personnel in healthcare facilities and elsewhere, including under the authorities granted by section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d) and section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3). Additionally, the Secretary of Labor shall consider all appropriate and necessary steps to increase the availability of respirators.
+
+The Secretary of Health and Human Services is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

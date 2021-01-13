@@ -4,9 +4,13 @@ In the course of or in connection with any proceeding under this part or any exa
 
 (Pub. L. 92–181, title V, §5.37, as added Pub. L. 99–205, title II, §204, Dec. 23, 1985, 99 Stat. 1702; amended Pub. L. 100–233, title VIII, §805(ee), Jan. 6, 1988, 101 Stat. 1717.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–233 substituted "proceedings, examinations, or investigations" for "proceedings, claims, examinations, or investigations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

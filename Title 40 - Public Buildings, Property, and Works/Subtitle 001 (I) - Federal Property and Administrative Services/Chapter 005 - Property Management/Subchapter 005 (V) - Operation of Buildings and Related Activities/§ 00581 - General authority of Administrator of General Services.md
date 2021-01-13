@@ -148,13 +148,15 @@ In subsection (c)(3) and (4), the words "without regard to the provisions of sec
 
 In subsection (c)(5), the words "Defense Industrial Reserve" are substituted for "National Industrial Reserve" because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
-In subsection (d)(3), the words "Federal Buildings Fund" are substituted for "Buildings Management Fund" because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances in the Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
+In subsection (d)(3), the words "Federal Buildings Fund" are substituted for "Buildings Management Fund" because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances inthe Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
 
 In subsection (e), before clause (1), the words "section 501 of title 36" are substituted for "the Act of August 6, 1965, 70 Stat 1049" in section 210(a)(15) of the Federal Property and Administrative Services Act of 1949 because of section 5(b) of the Act of August 12, 1998 (Public Law 105–225, 112 Stat. 1499), the first section of which enacted Title 36, United States Code. In clause (1), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5" are substituted for "the civil service and classification laws" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
 In subsection (f)(1)(A), the words "Defense Industrial Reserve pursuant to section 2535 of title 10" are substituted for "National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]" because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
 In subsection (g)(1), the words "mixed-ownership Government corporation" are substituted for "mixed-ownership corporation" for consistency with chapter 91 of title 31. The words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act" in section 210(a)(6) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -165,6 +167,8 @@ In subsection (g)(1), the words "mixed-ownership Government corporation" are sub
 Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section."
 
 Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted "and" at end, in par. (2), substituted a period for "; and" at end, and struck out par. (3) which read as follows: "furnish arms and ammunition for the protection force the Administration maintains."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -190,7 +194,7 @@ Designation of Relevant Courses, Certifications, Degrees, Licenses, and Registra
 
 "(c)
 
-Identified Competencies.—An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shalldemonstrate each core competency at the start of the employment period.
+Identified Competencies.—An individual shall demonstrate each core competency identified by the Administrator under subsection (a) for the category of personnel that includes such individual. An individual shall demonstrate each core competency through the means identified under subsection (b) not later than one year after the date on which such core competency is identified under subsection (a) or, if the date of hire of such individual occurs after the date of such identification, not later than one year after such date of hire. In the case of an individual hired for an employment period not to exceed one year, such individual shall demonstrate each core competency at the start of the employment period.
 
 "(d)
 
@@ -203,6 +207,8 @@ Curriculum With Respect to Facility Management and Operation of High-Performance
 "(f)
 
 Applicability of This Section to Functions Performed Under Contract.—Training requirements under this section shall apply to non-Federal personnel performing building operations and maintenance, energy management, safety, and design functions under a contract with a Federal department or agency. A contractor shall provide training to, and certify the demonstration of core competencies for, non-Federal personnel in a manner that is approved by the Administrator."
+
+#### <b>Executive Documents</b>
 
 #### Facilitating Access to Federal Property for Siting of Mobile Services Antennas
 

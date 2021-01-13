@@ -234,7 +234,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(ii) the provision of 1-way digital data service by that station causes any interference.
 
-(B) The Commission shall grant any such station, upon application (made in such form and manner and containing such information as the Commission may require) by the licensee or permittee of that station, authority to move the station to another location, to modify its facilities to operate on a different channel, or to use booster or auxiliary transmitting locations, if the grant of authority will not cause interference to the allowable or protected service areas of full service digital television stations, National Television Standards Committee assignments, or television translator stations, and provided, however, no such authority shall be granted unless it is consistent with existing Commission regulations relating to the movement, modification, and use of non-class A low power television transmission facilities in order—
+(B) The Commission shall grant any such station, upon application (made in such form and manner and containing such information as the Commission may require) by the licensee or permittee of that station, authority to move thestation to another location, to modify its facilities to operate on a different channel, or to use booster or auxiliary transmitting locations, if the grant of authority will not cause interference to the allowable or protected service areas of full service digital television stations, National Television Standards Committee assignments, or television translator stations, and provided, however, no such authority shall be granted unless it is consistent with existing Commission regulations relating to the movement, modification, and use of non-class A low power television transmission facilities in order—
 
 &emsp;(i) to operate within television channels 2 through 51, inclusive; or
 
@@ -288,6 +288,8 @@ As used in this section:
 
 (June 19, 1934, ch. 652, title III, §336, as added Pub. L. 104–104, title II, §201, Feb. 8, 1996, 110 Stat. 107; Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–595; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 115–141, div. P, title IV, §402(i)(6), Mar. 23, 2018, 132 Stat. 1090.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of LPTV Digital Data Services Act, referred to in subsec. (h)(3), probably means the date of enactment of Pub. L. 106–554, which enacted subsec. (h) of this section, and which was approved Dec. 21, 2000. There is no public law with that short title.
@@ -301,6 +303,8 @@ This chapter, referred to in subsec. (h)(6), was in the original "this Act", mea
 <b>2000</b>—Subsecs. (h), (i). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>1999</b>—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition to Digital Television
 
@@ -350,7 +354,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 S
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594, provided that: "Congress finds the following:
 
-&emsp;"(1) Since the creation of low-power television licenses by the Federal Communications Commission,a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
+&emsp;"(1) Since the creation of low-power television licenses by the Federal Communications Commission, a small number of license holders have operated their stations in a manner beneficial to the public good providing broadcasting to their communities that would not otherwise be available.
 
 &emsp;"(2) These low-power broadcasters have operated their stations in a manner consistent with the programming objectives and hours of operation of full-power broadcasters providing worthwhile services to their respective communities while under severe license limitations compared to their full-power counterparts.
 
@@ -359,6 +363,8 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 &emsp;"(4) The passage of the Telecommunications Act of 1996 \[Pub. L. 104–104, see Short Title of 1996 Amendment note set out under section 609 of this title\] has added to the uncertainty of the future status of these stations by the lack of specific provisions regarding the permanency of their licenses, or their treatment during the transition to high definition, digital television.
 
 &emsp;"(5) It is in the public interest to promote diversity in television programming such as that currently provided by low-power television stations to foreign-language communities."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13038
 

@@ -42,13 +42,15 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 #### (d) Background checks
 
-State and local Court Appointed Special Advocate programs are authorized to request fingerprint-based criminal background checks from the Federal Bureau of Investigation's criminal history database for prospective volunteers. Therequesting program is responsible for the reasonable costs associated with the Federal records check.
+State and local Court Appointed Special Advocate programs are authorized to request fingerprint-based criminal background checks fromthe Federal Bureau of Investigation's criminal history database for prospective volunteers. The requesting program is responsible for the reasonable costs associated with the Federal records check.
 
 #### (e) Reporting
 
 An organization that receives a grant under this section for a fiscal year shall submit to the Administrator a report regarding the use of the grant for the fiscal year, including a discussion of outcome performance measures (which shall be established by the Administrator) to determine the effectiveness of the programs of the organization in meeting the needs of children in the child welfare system.
 
 (Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986; Pub. L. 113–4, title I, §106(2), Mar. 7, 2013, 127 Stat. 77; Pub. L. 115–424, §2(h)(4), Jan. 7, 2019, 132 Stat. 5470.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -71,6 +73,8 @@ Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted "(1)(A)" for "(1)
 Subsec. (d). Pub. L. 109–162, §112(c)(3), added subsec. (d).
 
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted "sections 5673 and 5676 of this title" for "sections 5665a, 5673, and 5676 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

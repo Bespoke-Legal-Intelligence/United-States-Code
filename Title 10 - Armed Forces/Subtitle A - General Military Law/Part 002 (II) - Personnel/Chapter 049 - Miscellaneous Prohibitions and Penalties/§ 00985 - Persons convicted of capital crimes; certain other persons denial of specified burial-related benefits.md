@@ -36,7 +36,7 @@ Subsecs. (c), (d). Pub. L. 115–232, §592(2), (3), added subsec. (c) and redes
 
 <b>2006</b>—Pub. L. 109–163, §662(c)(1), substituted "Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits" for "Persons convicted of capital crimes: denial of certain burial-related benefits" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §662(b)(1)(B), substituted "any of the following persons:" for "a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole." and added pars. (1) and (2).
+Subsec. (a). Pub. L. 109–163, §662(b)(1)(B), substituted "any of the following persons:" for "a person who hasbeen convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole." and added pars. (1) and (2).
 
 Pub. L. 109–163, §662(b)(1)(A), inserted "(under section 1491 of this title or any other authority)" after "military honors".
 

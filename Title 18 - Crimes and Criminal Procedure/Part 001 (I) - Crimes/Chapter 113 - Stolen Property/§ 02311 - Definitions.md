@@ -20,7 +20,7 @@ As used in this chapter:
 
 "Vessel" means any watercraft or other contrivance used or designed for transportation or navigation on, under, or immediately above, water.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L.103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, §307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
 
 #### Historical and Revision Notes
 
@@ -38,6 +38,8 @@ In the paragraph defining "value" which came from said section 417 of title 18, 
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177 inserted definition of "Vessel".
@@ -51,6 +53,8 @@ Minor changes were made in phraseology.
 <b>1984</b>—Pub. L. 98–547 inserted "valid or blank motor vehicle title;" in definition of "Securities".
 
 <b>1961</b>—Pub. L. 87–371 inserted definition of "Tax stamp".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -66,7 +70,7 @@ Pub. L. 105–147, §1, Dec. 16, 1997, 111 Stat. 2678, provided that: "This Act 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: "This Act \[amending sections 1961, 2318, and2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the 'Anticounterfeiting Consumer Protection Act of 1996'."
+Pub. L. 104–153, §1, July 2, 1996, 110 Stat. 1386, provided that: "This Act \[amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19\] may be cited as the 'Anticounterfeiting Consumer Protection Act of 1996'."
 
 #### Short Title of 1992 Amendment
 

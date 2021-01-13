@@ -38,6 +38,8 @@ R.S. §3679(f)(1); Mar. 3, 1905, ch. 1484, §4(1st par.), 33 Stat. 1257; Feb. 27
 
 In the section, before clause (1), the word "apportionments" is substituted for "apportionments and reapportionments" because of section 1512(a)(last sentence) of the revised title. In subclause (D), the word "law" is substituted for "private relief acts or other laws" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in par. (4)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

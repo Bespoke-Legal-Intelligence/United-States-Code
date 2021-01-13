@@ -90,7 +90,7 @@ For purposes of this section, the term "year", where applied to service as a tea
 
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B) and (g)(3), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B) and\(g)(3), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 

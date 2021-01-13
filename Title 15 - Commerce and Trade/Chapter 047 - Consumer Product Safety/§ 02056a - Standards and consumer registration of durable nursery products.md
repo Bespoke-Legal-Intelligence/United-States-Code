@@ -72,7 +72,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (1) Rulemaking
 
-&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of1980 (44 U.S.C. 3501 et seq.), not later than 1 year after August 14, 2008, the Commission shall, pursuant to its authority under section 2065(b) of this title, promulgate a final consumer product safety rule to require each manufacturer of a durable infant or toddler product—
+&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), not later than 1 year after August 14, 2008, the Commission shall, pursuant to its authority under section 2065(b) of this title, promulgate a final consumer product safety rule to require each manufacturer of a durable infant or toddler product—
 
 &emsp;&emsp;(A) to provide consumers with a postage-paid consumer registration form with each such product;
 

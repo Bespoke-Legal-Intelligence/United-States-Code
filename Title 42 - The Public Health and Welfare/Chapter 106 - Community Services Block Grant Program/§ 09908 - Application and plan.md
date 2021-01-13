@@ -140,7 +140,7 @@ A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this ti
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, inthe State and in communities with entities providing activities through statewide and local workforce development systems under such Act" for "the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998".
+<b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act" for "the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998".
 
 #### Effective Date of 2014 Amendment
 

@@ -18,6 +18,8 @@ Words "whoever shall counsel, aid, abet, or assist in the perpetration of any of
 
 Minor changes also were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $1,000" in second par.

@@ -54,7 +54,7 @@ In this chapter:
 
 #### (10) State
 
-&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of the NorthernMariana Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
+&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
 #### (11) Transhipment
 

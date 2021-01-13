@@ -80,7 +80,7 @@ Sec. 4. <i>Mission and Functions of the Council</i>. The Council shall work acro
 
 (ii) identify practices and strategies that most successfully reduce and remove burdensome Federal, State, local, and tribal laws, regulations, and administrative practices that artificially raise the costs of housing development, while highlighting actors that successfully implement such practices and strategies;
 
-(b) evaluate and quantify the effect that various Federal, State, local, and tribal regulatory barriers have on affordable housing development, and the economy in general, and identify ways to improve the data available to the public and private researchers who evaluate such effects, without violating privacy laws or creating unnecessary burdens;
+(b) evaluate and quantify the effect that various Federal, State, local, and tribal regulatory barriers haveon affordable housing development, and the economy in general, and identify ways to improve the data available to the public and private researchers who evaluate such effects, without violating privacy laws or creating unnecessary burdens;
 
 (c) identify and assess the actions each agency can take under existing authorities to minimize Federal regulatory barriers that unnecessarily raise the costs of housing development;
 

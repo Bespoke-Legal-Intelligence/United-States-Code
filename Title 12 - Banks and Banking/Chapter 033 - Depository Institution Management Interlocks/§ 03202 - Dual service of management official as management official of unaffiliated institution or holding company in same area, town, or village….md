@@ -8,11 +8,15 @@ A management official of a depository institution or a depository holding compan
 
 (Pub. L. 95–630, title II, §203, Nov. 10, 1978, 92 Stat. 3673; Pub. L. 98–181, title I \[title VII, §701(c)\], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 109–351, title VI, §610, Oct. 13, 2006, 120 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Par. (1). Pub. L. 109–351 substituted "$50,000,000" for "$20,000,000".
 
 <b>1983</b>—Par. (1). Pub. L. 98–181 substituted "primary metropolitan statistical area, the same metropolitan statistical area, or the same consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas" for "standard metropolitan statistical area".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

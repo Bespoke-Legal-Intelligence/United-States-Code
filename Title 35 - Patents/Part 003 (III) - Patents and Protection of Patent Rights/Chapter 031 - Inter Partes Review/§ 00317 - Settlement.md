@@ -10,6 +10,8 @@ Agreements in Writing.—Any agreement or understanding between the patent owner
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, §13202(a)(5), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 303.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, section related to restriction on subsequent request for inter partes reexamination.
@@ -20,11 +22,13 @@ Subsec. (a). Pub. L. 107–273, §13202(a)(5)(A), substituted "third-party reque
 
 Subsec. (b). Pub. L. 107–273, §13202(a)(5)(B), struck out "United States Code," after "title 28,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued before, on, or after that effective date, with provisions for graduated implementation, see section 6(c)(2) of Pub. L. 112–29, set out as a note under section 311 of this title.
 
 #### Effective Date
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 

@@ -12,6 +12,8 @@ Effective October 1, 1988, and to continue thereafter, the Disbursing Officer of
 
 (Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1054.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act:

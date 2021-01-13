@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(C) the Attorney General finds that there exist extraordinary and temporary conditions in the foreign state that prevent aliens who are nationals of the state from returning to the state in safety, unless the Attorney General finds that permitting the aliens to remain temporarily in the United States is contrary to the national interest of the United States.
 
-> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney Generalshall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
+> &emsp;A designation of a foreign state (or part of such foreign state) under this paragraph shall not become effective unless notice of the designation (including a statement of the findings under this paragraph and the effective date of the designation) is published in the Federal Register. In such notice, the Attorney General shall also state an estimate of the number of nationals of the foreign state designated who are (or within the effective period of the designation are likely to become) eligible for temporary protected status under this section and their immigration status in the United States.
 
 #### (2) Effective period of designation for foreign states
 
@@ -182,7 +182,7 @@
 
 #### (e) Relation of period of temporary protected status to cancellation of removal
 
-With respect to an alien granted temporary protected status under this section, the period ofsuch status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
+With respect to an alien granted temporary protected status under this section, the period of such status shall not be counted as a period of physical presence in the United States for purposes of section 1229b(a) of this title, unless the Attorney General determines that extreme hardship exists. Such period shall not cause a break in the continuity of residence of the period before and after such period for purposes of such section.
 
 #### (f) Benefits and status during period of temporary protected status
 
@@ -240,6 +240,8 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 (June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(l)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -281,6 +283,8 @@ Subsec. (c)(2)(A)(iii)(II). Pub. L. 101–649, §603(a)(24)(C), substituted "(2)
 Subsec. (c)(2)(A)(iii)(III). Pub. L. 101–649, §603(a)(24)(D), which directed the substitution of "(3) (relating to security and related grounds)" for "(27) and (29) (relating to national security)", and a period for "; or", was executed by substituting "(3) (relating to security and related grounds)" for "(27) and (29) of such section (relating to national security)", and a period for ", or", as the probable intent of Congress.
 
 Subsec. (c)(2)(A)(iii)(IV). Pub. L. 101–649, §603(a)(24)(E), struck out subcl. (IV) which referred to par. (33).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

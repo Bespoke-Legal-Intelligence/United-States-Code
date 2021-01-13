@@ -10,7 +10,7 @@ Authority to Establish Program.—(1) The Secretary of Defense may establish a p
 
 &emsp;(A) the basis for the determination;
 
-&emsp;(B) any additional categories of individuals to be eligible for the travel program under subsection (c)(5); <sup>1</sup>
+&emsp;(B) any additional categories of individuals to be eligible for the travel program under subsection (c)(6);
 
 &emsp;(C) how the Secretary will ensure that the travel program is established and operated in compliance with the conditions specified in subsection (b); and
 
@@ -82,13 +82,11 @@ Veterans With Service-connected Disabilities Rated as Total.—(1) Travel may no
 
 Construction.—The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 
-(Added Pub. L. 110–181, div. A, title III, §374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, §622(a), Jan. 2, 2013, 126 Stat. 1779; Pub. L. 115–232, div. A, title VI, §624, Aug. 13, 2018, 132 Stat. 1801.)
-
-#### References in Text
-
-Subsection (c)(5), referred to in subsec. (a)(3)(B), was redesignated subsec. (c)(6) of this section by Pub. L. 115–232, div. A, title VI, §624(a), Aug. 13, 2018, 132 Stat. 1801.
+(Added Pub. L. 110–181, div. A, title III, §374(a), Jan. 28, 2008, 122 Stat. 82; amended Pub. L. 112–239, div. A, title VI, §622(a), Jan. 2, 2013, 126 Stat. 1779; Pub. L. 115–232, div. A, title VI, §624, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, §1081(a)(43), Jan. 1, 2021, 134 Stat. 3873.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3)(B). Pub. L. 116–283 substituted "subsection (c)(6)" for "subsection (c)(5)".
 
 <b>2018</b>—Subsec. (c)(4) to (6). Pub. L. 115–232, §624(a), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -165,6 +163,4 @@ Additional Responsibilities.—In addition to carrying out subsections (a) throu
 "(e)
 
 Disability Rated as Total Defined.—In this section, the term 'disability rated as total' has the meaning given the term in section 1414(e)(3) of title 10, United States Code."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

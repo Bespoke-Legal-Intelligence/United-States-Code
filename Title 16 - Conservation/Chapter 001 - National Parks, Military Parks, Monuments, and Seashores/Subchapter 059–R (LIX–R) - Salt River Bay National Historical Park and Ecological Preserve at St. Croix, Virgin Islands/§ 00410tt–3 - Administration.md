@@ -26,7 +26,7 @@ The Secretary, after consulting with the Salt River Bay National Historical Park
 
 #### (d) Training assistance
 
-During the 10-year period beginning on February 24, 1992, the Secretary shall, subject to appropriations, provide the funds for the employees of the Government of the United States Virgin Islands directly engaged in the joint management of the park and shall implement, in consultation with the Government of the United States Virgin Islands, a program under whichVirgin Islands citizens may be trained in all phases of park operations and management: <i>Provided, however</i>, That in no event shall the Secretary provide more than 50 percent of the funding for such purposes. A primary objective of the program shall be to train employees in the skills necessary for operating and managing a Virgin Islands Territorial Park System.
+During the 10-year period beginning on February 24, 1992, the Secretary shall, subject to appropriations, provide the funds for the employees of the Government of the United States Virgin Islands directly engaged in the joint management of the park and shall implement, in consultation with the Government of the United States Virgin Islands, a program under which Virgin Islands citizens may be trained in all phases of park operations and management: <i>Provided, however</i>, That in no event shall the Secretary provide more than 50 percent of the funding for such purposes. A primary objective of the program shall be to train employees in the skills necessary for operating and managing a Virgin Islands Territorial Park System.
 
 (Pub. L. 102–247, title I, §105, Feb. 24, 1992, 106 Stat. 34; Pub. L. 103–437, §6(d)(13), Nov. 2, 1994, 108 Stat. 4584.)
 

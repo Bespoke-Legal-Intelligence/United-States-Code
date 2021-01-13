@@ -10,7 +10,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) Taxes
 
-&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paidby a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
+&emsp;There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 960 for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
 
 #### (2) Charitable contributions
 
@@ -102,7 +102,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is theamount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
 
 #### (2) Minimum credit
 
@@ -142,7 +142,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 &emsp;The term "United States-owned foreign corporation" has the meaning given to such term by section 904(h)(6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, §31, title II, §205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, §3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, §304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, §232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, §11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, §402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, §403(n)(2), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 113–295, div. A, title II, §221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§13001(b)(5)(B), 14301(c)(4), Dec. 22, 2017, 131 Stat. 2098, 2222.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 180; Pub. L. 85–866, title I, §31, title II, §205(a), Sept. 2, 1958, 72 Stat. 1631, 1680; Pub. L. 87–403, §3(b), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II,§207(b)(4), Feb. 26, 1964, 78 Stat. 42; Pub. L. 91–172, title IV, §401(b)(2)(C), title V, §512(f)(5), (6), Dec. 30, 1969, 83 Stat. 602, 641; Pub. L. 94–12, title III, §304(a), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §1033(b)(3), title XIX, §§1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834; Pub. L. 97–34, title II, §232(a), (b)(1), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title I, §§58(b), 125(a), July 18, 1984, 98 Stat. 575, 647; Pub. L. 99–514, title XII, §1225(a), title XVIII, §1899A(17), Oct. 22, 1986, 100 Stat. 2558, 2959; Pub. L. 101–508, title XI, §11801(c)(18), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 108–357, title IV, §402(b)(1), Oct. 22, 2004, 118 Stat. 1492; Pub. L. 109–135, title IV, §403(n)(2), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 113–295, div. A, title II, §221(a)(64), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§13001(b)(5)(B), 14301(c)(4), Dec. 22, 2017, 131 Stat. 2098, 2222.)
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsec. (c)(5). Pub. L. 115–97, §13001(b)(5)(B), amended par. (5) generally. 
 
 Subsec. (b)(9). Pub. L. 99–514, §1225(a), added par. (9).
 
-<b>1984</b>—Subsec. (b)(5). Pub. L. 98–369, §58(b), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)" for "There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a) in subpar. (A) as so redesignated, and added subpars. (B) and (C).
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–369, §58(b), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), there shall be allowed as a deduction an amount equal to the net capital loss for the taxable year (determined without regard to paragraph (7)(A)" for "There shall be allowed as deductions losses from sales or exchanges of capital assets during the taxable year which are disallowed as deductions under section 1211(a)" in subpar. (A) as so redesignated, and added subpars. (B) and (C).
 
 Subsec. (b)(6). Pub. L. 98–369, §58(b), divided existing par. (6) into subpars. (A) and (B) and substituted references to the application of paragraph (7) for references to capital loss carryback and carryover provided in section 1212.
 
@@ -224,7 +224,7 @@ Pub. L. 108–357, title IV, §402(c), Oct. 22, 2004, 118 Stat. 1492, provided t
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XII, §1225(c), Oct. 22, 1986, 100 Stat. 2559, as amended by Pub. L. 100–647, title I, §1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: "The amendments made by this section \[amending this section and section 545 of this title\] shall apply to gains and losses realized on or after January 1, 1986."
+Pub. L. 99–514, title XII, §1225(c), Oct. 22, 1986, 100 Stat. 2559, as amended by Pub. L. 100–647, title I,§1012(k), Nov. 10, 1988, 102 Stat. 3513, provided that: "The amendments made by this section \[amending this section and section 545 of this title\] shall apply to gains and losses realized on or after January 1, 1986."
 
 #### Effective Date of 1984 Amendment
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendments
 
-Amendment by Pub. L. 87–834 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) ofPub. L. 87–834, set out as an Effective Date note under section 78 of this title.
+Amendment by Pub. L. 87–834 applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) of Pub. L. 87–834, set out as an Effective Date note under section 78 of this title.
 
 Amendment by Pub. L. 87–403 applicable only with respect to distributions made after Feb. 2, 1962, see section 3(g) of Pub. L. 87–403, set out as a note under section 312 of this title.
 

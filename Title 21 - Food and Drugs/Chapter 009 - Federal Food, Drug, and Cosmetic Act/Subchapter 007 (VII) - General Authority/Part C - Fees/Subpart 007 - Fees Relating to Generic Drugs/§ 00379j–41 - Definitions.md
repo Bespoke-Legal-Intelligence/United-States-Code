@@ -118,6 +118,8 @@ For purposes of this subpart:
 
 <i>For termination of section by section 305(a) of Pub. L. 115–52, see Effective and Termination Dates note set out below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 357 of this title, referred to in par. (1)(A), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
@@ -129,6 +131,8 @@ The Drug Price Competition and Patent Term Restoration Act of 1984, referred to 
 <b>2017</b>—Par. (1)(B). Pub. L. 115–52, §302(1), substituted "application—" for "application for a positron emission tomography drug." and added cls. (i) and (ii).
 
 Pars. (5) to (13). Pub. L. 115–52, §302(2), (3), added par. (5) and redesignated former pars. (5) to (12) as (6) to (13), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -150,7 +154,7 @@ Pub. L. 115–52, title III, §307, Aug. 18, 2017, 131 Stat. 1027, provided that
 
 #### Finding of 2017 Amendment
 
-Pub. L. 115–52, title III, §301(b), Aug. 18, 2017, 131 Stat. 1020, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–42 and 379j–43 of this title and repealing provisions set out as notes under this section and section 379j–43 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–41 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
+Pub. L. 115–52, title III, §301(b), Aug. 18, 2017, 131 Stat. 1020, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–42 and 379j–43of this title and repealing provisions set out as notes under this section and section 379j–43 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–41 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 #### Finding of 2012 Amendment
 

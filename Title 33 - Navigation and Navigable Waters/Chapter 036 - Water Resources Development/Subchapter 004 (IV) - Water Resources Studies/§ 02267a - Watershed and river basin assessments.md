@@ -32,7 +32,7 @@ An assessment under subsection (a) shall be carried out in cooperation and coord
 
 #### (c) Consultation
 
-In carrying out an assessment under subsection (a), the Secretary shall consult withFederal, tribal, State, interstate, and local governmental entities.
+In carrying out an assessment under subsection (a), the Secretary shall consult with Federal, tribal, State, interstate, and local governmental entities.
 
 #### (d) Priority river basins and watersheds
 
@@ -79,6 +79,8 @@ In carrying out an assessment under subsection (a), the Secretary may accept con
 &emsp;&emsp;The credit under subparagraph (A) may not exceed an amount equal to 25 percent of the costs of the assessment.
 
 (Pub. L. 99–662, title VII, §729, Nov. 17, 1986, 100 Stat. 4164; Pub. L. 106–541, title II, §202, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2010, Nov. 8, 2007, 121 Stat. 1074.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -14,13 +14,13 @@
 
 \[Relinquishment of rights by lessee.\] The lessee may, in the discretion of the Secretary of the Interior, be permitted at any time to make written relinquishment of all rights under such a lease and upon acceptance thereof be thereby relieved of all future obligations under said lease.
 
-\[Lease of additional land for camp sites and other purposes.\] In addition to areas of mineral land to be included in leases under this section the Secretary of the Interior, in his discretion, may grant to the lessee the right to use, during the life of the lease, subject to the payment of an annual rental of not less than $1 per acre, a tract of unoccupied land, not exceeding forty acres in area, for camp sites, milling, smelting, and refining works, and for other purposes connected with and necessary to the proper development and use of the deposits covered by the lease.
+\[Lease of additional land for camp sites and other purposes.\] In addition to areas of mineral land to be included in leases under this section the Secretary of the Interior, in his discretion, may grant to the lessee the right to use, during the life of the lease, subject to the payment of an annual rental of not less than $1 per acre, a tract of unoccupied land, not exceedingforty acres in area, for camp sites, milling, smelting, and refining works, and for other purposes connected with and necessary to the proper development and use of the deposits covered by the lease.
 
 \[Reservation of surface of leased land to United States; easements.\] The Secretary of the Interior, in his discretion, in making any lease under this section, may reserve to the United States the right to lease for a term not exceeding that of the mineral lease, the surface of the lands embraced within such lease under existing law or laws hereafter enacted, insofar as said surface is not necessary for use of the lessee in extracting and removing the deposits therein: <i>Provided</i>, That the said Secretary, during the life of the lease, is hereby authorized to issue such permits for easements herein provided to be reserved.
 
 \[Rights and duties of successors to lessees.\] Any successor in interest or assignee of any lease granted under this section, whether by voluntary transfer, judicial sale, foreclosure sale, or otherwise, shall be subject to all the conditions of the lease under which such rights are held and also subject to all the provisions and conditions of this section to the same extent as though such successor or assign were the original lessee hereunder.
 
-\[Forfeiture of leases; notice.\] Any lease granted under this section may be forfeited and canceled by appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shallfail to comply with the terms of this section or with such conditions not inconsistent herewith as may be specifically recited in the lease.
+\[Forfeiture of leases; notice.\] Any lease granted under this section may be forfeited and canceled by appropriate proceedings in the United States district court for the district in which said property or some part thereof is situated whenever the lessee, after reasonable notice in writing, as prescribed in the lease, shall fail to comply with the terms of this section or with such conditions not inconsistent herewith as may be specifically recited in the lease.
 
 \[Royalties payable by lessees.\] For the privilege of mining or extracting the mineral deposits in the ground covered by the lease the lessee shall pay to the United States, for the benefit of the Indians, a royalty which shall not be less than 5 per centum of the net value of the output of the minerals at the mine, due and payable at the end of each month succeeding that of the extraction of the minerals from the mine, and an annual rental, payable at the date of such lease and annually thereafter on the area covered by such lease, at the rate of not less than 25 cents per acre for the first calendar year thereafter; not less than 50 cents per acre for the second, third, fourth, and fifth years, respectively; and not less than $1 per acre for each and every year thereafter during the continuance of the lease, except that such rental for any year shall be credited against the royalties as they accrue for that year.
 
@@ -38,9 +38,11 @@
 
 \[Mining locations by and leases to other Indians.\] The Secretary of the Interior is authorized to permit other Indians to make locations and obtain leases under the provisions of this section, under such rules and regulations as he may prescribe in regard to the working, developing, disposition, and selling of the products, and the disposition of the proceeds thereof of any such mine by such Indians.
 
-\["Metalliferous" defined.\] Wherever the term "metalliferous" is used in this section it shall be defined and construed by the Secretary of the Interior to include magnesite, gypsum, limestone, and asbestos.
+\["Metalliferous" defined.\] Wherever the term "metalliferous" is used in this section it shall be defined and construed by the Secretaryof the Interior to include magnesite, gypsum, limestone, and asbestos.
 
 (June 30, 1919, ch. 4, §26, 41 Stat. 31; Mar. 3, 1921, ch. 119, 41 Stat. 1231; Dec. 16, 1926, ch. 12, 44 Stat. 922; Pub. L. 94–550, §10, Oct. 18, 1976, 90 Stat. 2536.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ The mining laws of the United States, referred to in text, are classified genera
 <b>1926</b>—Act Dec. 16, 1926, inserted "and nonmetalliferous minerals, not including oil and gas" after "metalliferous minerals" in first and second paragraphs and reenacted third, fourth, and fifth paragraphs without change.
 
 <b>1921</b>—Act Mar. 3, 1921, which directed amendment of this section followed by a paragraph defining the term "metalliferous", was executed by adding such paragaph at the end of this section.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

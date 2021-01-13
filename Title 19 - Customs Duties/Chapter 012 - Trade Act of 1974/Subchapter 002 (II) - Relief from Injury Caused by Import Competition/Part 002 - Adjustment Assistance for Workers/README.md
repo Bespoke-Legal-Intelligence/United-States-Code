@@ -122,7 +122,7 @@ Pub. L. 113–235, div. B, title V, §541, Dec. 16, 2014, 128 Stat. 2217, provid
 
 "(a)
 
-In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[19 U.S.C. 2346(b)\] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
+In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) \[part 3 of this subchapter\], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act \[19 U.S.C. 2346(b)\] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
 
 "(b)
 
@@ -206,7 +206,7 @@ Adjustment Assistance for Firms.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II ofthe Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
+In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
 
 &emsp;"(2)
 
@@ -420,7 +420,7 @@ Exception.—Notwithstanding subparagraph (A), any assistance approved under cha
 
 \[Amendment by Pub. L. 106–113 to section 285 of Pub. L. 93–618, set out above, effective as of July 1, 1999, see section 1000(a)(5) \[title VII, §702(e)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 2317 of this title.\]
 
-\[Amendment by Pub. L. 103–182 to section 285 of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2271 of this title.\]
+\[Amendment by Pub. L. 103–182 to section 285 of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as an Effective Date of 1993 Amendment note under section 2271 of this title.\]
 
 \[Parts 2 and 3 of this subchapter applicable as if amendments by sections 13007 and 13008 of Pub. L. 99–272, amending section 285 of Pub. L. 93–618, set out above, and sections 2317 and 2346 of this title, had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 2291 of this title.\]
 

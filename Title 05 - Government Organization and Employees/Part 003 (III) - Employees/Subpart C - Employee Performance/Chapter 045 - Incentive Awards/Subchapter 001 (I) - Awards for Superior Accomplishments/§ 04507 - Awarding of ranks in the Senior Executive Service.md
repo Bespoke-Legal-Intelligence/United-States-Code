@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section, "agency", "senior executive", and "career appointee" have the meanings set forth in section 3132(a) of this title.
 
-(b) Each agency shall submit annually to the Office recommendations of career appointees in the agency to be awarded the rank of Meritorious Executive or Distinguished Executive. The recommendations may take into account the individual's performance over a period of years. The Office shall review such recommendationsand provide to the President recommendations as to which of the agency recommended appointees should receive such rank.
+(b) Each agency shall submit annually to the Office recommendations of career appointees in the agency to be awarded the rank of Meritorious Executive or Distinguished Executive. The recommendations may take into account the individual's performance over a period of years. The Office shall review such recommendations and provide to the President recommendations as to which of the agency recommended appointees should receive such rank.
 
 (c) During any fiscal year, the President may, subject to subsection (d) of this section, award to any career appointee recommended by the Office the rank of—
 
@@ -24,11 +24,15 @@
 
 (Added Pub. L. 95–454, title IV, §406(a), Oct. 13, 1978, 92 Stat. 1170; amended Pub. L. 105–277, div. A, §101(h) \[title VI, §631(a), (b)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (e)(1). Pub. L. 105–277, §101(h) \[title VI, §631(a)\], substituted "an amount equal to 20 percent of annual basic pay" for "$10,000".
 
 Subsec. (e)(2). Pub. L. 105–277, §101(h) \[title VI, §631(b)\], substituted "an amount equal to 35 percent of annual basic pay" for "$20,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

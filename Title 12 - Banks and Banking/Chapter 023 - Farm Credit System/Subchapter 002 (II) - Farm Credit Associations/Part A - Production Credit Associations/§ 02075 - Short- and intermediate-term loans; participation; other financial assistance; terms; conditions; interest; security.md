@@ -48,6 +48,8 @@ Each production credit association, under standards prescribed by the board of d
 
 (Pub. L. 92–181, title II, §2.4, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1632; amended Pub. L. 100–399, title IV, §401(p), (q), Aug. 17, 1988, 102 Stat. 997; Pub. L. 101–624, title XVIII, §1832(b), Nov. 28, 1990, 104 Stat. 3832; Pub. L. 115–334, title V, §5411(3), Dec. 20, 2018, 132 Stat. 4679.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat. 594; Pub. L. 95–443, Oct. 10, 1978, 92 Stat. 1066; Pub. L. 96–592, title II, §204, Dec. 24, 1980, 94 Stat. 3441; Pub. L. 99–509, title I, §1033(b), Oct. 21, 1986, 100 Stat. 1877, related to terms, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
@@ -56,11 +58,13 @@ A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat.
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–334 struck out subsec. (d) which described a special rule for providing credit and technical assistance in a district containing only two production credit associations.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted "some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year" for "at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended".
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted "some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year" for "at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended".
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(p), substituted "this part" for "this subchapter" and substituted "or planned" for "planned".
 
 Subsec. (d). Pub. L. 100–399, §401(q), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

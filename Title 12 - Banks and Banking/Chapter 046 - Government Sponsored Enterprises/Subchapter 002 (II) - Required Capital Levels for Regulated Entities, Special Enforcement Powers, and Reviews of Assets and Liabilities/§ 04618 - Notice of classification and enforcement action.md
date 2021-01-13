@@ -44,6 +44,8 @@ An action referred to in subsection (b) shall take effect upon receipt by the re
 
 (Pub. L. 102–550, title XIII, §1368, Oct. 28, 1992, 106 Stat. 3980; Pub. L. 110–289, div. A, title I, §1145(b)(1), July 30, 2008, 122 Stat. 2767.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed and a new par. (6) added by Pub. L. 110–289, div. A, title I, §1144(5)(C), (D), July 30, 2008, 122 Stat. 2733. The new par. (6) does not relate to appointment of a conservator.
@@ -51,6 +53,8 @@ Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed an
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–289 substituted "a regulated entity" for "an enterprise" and "the regulated entity" for "the enterprise" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

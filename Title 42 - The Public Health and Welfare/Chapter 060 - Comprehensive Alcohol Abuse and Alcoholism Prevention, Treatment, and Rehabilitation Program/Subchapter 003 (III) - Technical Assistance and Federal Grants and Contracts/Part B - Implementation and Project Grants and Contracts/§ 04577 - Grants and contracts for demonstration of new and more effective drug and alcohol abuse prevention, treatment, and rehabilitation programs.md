@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 94–371, §4(c)(1), struck out subsec. (d) which related t
 
 Pub. L. 94–371, §4(c), July 26, 1976, 90 Stat. 1035, provided that the amendment made by section 4(c)(1) of Pub. L. 94–371 is effective July 1, 1976.
 
-Pub. L. 94–371, §12(b), July 26, 1976, 90 Stat. 1041, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976."
+Pub. L. 94–371, §12(b), July 26, 1976, 90 Stat. 1041, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976."
 
 Pub. L. 94–573, §19(b), Oct. 21, 1976, 90 Stat. 2720, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976."
 

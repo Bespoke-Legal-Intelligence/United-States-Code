@@ -64,6 +64,8 @@ Periodic Reports.—The uniform forms for periodic reports required under subsec
 
 (Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, §4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
@@ -72,7 +74,9 @@ For the effective date of this section, referred to in subsec. (a), see Effectiv
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–54, §4(b)(2)(A), inserted "subchapter V of chapter 11 and" after "cases under".
 
-Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 11 and" after "trustees under" in introductory provisions and "subchapter V of chapter 11 and" after "cases under" in concluding provisions.
+Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 11 and" after "trustees under" inintroductory provisions and "subchapter V of chapter 11 and" after "cases under" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

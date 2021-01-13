@@ -68,5 +68,5 @@ The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), 
 
 #### Short Title
 
-Pub. L. 107–231, §1, Oct. 1, 2002, 116 Stat. 1471, provided that: "This Act \[enacting this chapter and amending section 281a of this title\] may be cited as the 'National Construction Safety Team Act'."
+Pub. L. 107–231, §1, Oct. 1, 2002, 116 Stat. 1471, provided that: "This Act \[enacting this chapter and amendingsection 281a of this title\] may be cited as the 'National Construction Safety Team Act'."
 

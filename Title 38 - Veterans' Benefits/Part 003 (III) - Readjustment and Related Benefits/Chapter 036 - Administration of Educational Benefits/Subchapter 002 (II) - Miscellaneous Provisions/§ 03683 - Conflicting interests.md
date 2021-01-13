@@ -30,6 +30,8 @@ Waiver Authority.—(1) The Secretary may waive in writing the application of th
 
 (Added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 22, §1783; amended Pub. L. 92–540, title IV, §403(10), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 94–502, title V, §513(a)(14)–(16), Oct. 15, 1976, 90 Stat. 2403; Pub. L. 97–295, §4(54), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3683 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 115–251, title III, §302(a), Sept. 29, 2018, 132 Stat. 3178; Pub. L. 116–61, §6(5), Sept. 30, 2019, 133 Stat. 1117.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1190, 1201, which was classified to former sections 1664 and 1764 of this title, prior to repeal by sections 4(a) and 3(a)(3) of Pub. L. 89–358, respectively.
@@ -62,9 +64,11 @@ Subsec. (d). Pub. L. 94–502, §513(a)(16), substituted "if the Administrator f
 
 <b>1972</b>—Subsecs. (a), (b). Pub. L. 92–540 inserted "this chapter or" before "chapter 34 or 35" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–251, title III, §302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2018\] and shall apply with respect to conflicts of interest that occur on or after that date."
+Pub. L. 115–251, title III, §302(b), Sept. 29, 2018, 132 Stat. 3179, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 29, 2018\] and shall apply with respect to conflicts of interest that occur on or after that date."
 
 #### Effective Date of 1976 Amendment
 

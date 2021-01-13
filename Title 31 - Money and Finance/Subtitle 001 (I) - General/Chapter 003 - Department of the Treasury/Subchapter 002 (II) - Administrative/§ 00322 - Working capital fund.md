@@ -1,6 +1,6 @@
 ### §322. Working capital fund
 
-(a) The Department of the Treasury has a working capital fund. Amounts in the fund are available for expenses of operating and maintaining common administrative services of the Department that the Secretary of the Treasury, with the approval of the Director of the Office of Management and Budget, decides may be carried out more advantageously and more economically as central services.
+(a) The Department of the Treasury has a working capital fund. Amounts in the fund are available for expenses of operating and maintaining common administrative services of theDepartment that the Secretary of the Treasury, with the approval of the Director of the Office of Management and Budget, decides may be carried out more advantageously and more economically as central services.
 
 (b) Amounts in the fund remain available until expended. Amounts may be appropriated to the fund.
 
@@ -51,6 +51,8 @@ In subsection (b), the words "Amounts in the fund remain available until expende
 In subsection (c)(1), the words "amounts appropriated to the fund" are substituted for "any appropriations made for the purpose of providing capital" to eliminate unnecessary words. In clause (2), the word "reasonable" is substituted for "fair and reasonable" because it is inclusive.
 
 In subsection (d), the words "other Federal agencies" are omitted because they are included in "other sources".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

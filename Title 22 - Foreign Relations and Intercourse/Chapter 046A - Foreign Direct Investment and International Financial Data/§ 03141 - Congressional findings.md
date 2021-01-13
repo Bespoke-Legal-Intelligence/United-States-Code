@@ -16,13 +16,17 @@ The Congress makes the following findings:
 
 (Pub. L. 101–533, §2, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
-#### Amendments
-
-<b>2004</b>—Par. (6). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Executive Order Numbered 11961, referred to in par. (4), is set out as a note under section 3101 of this title.
+
+#### Amendments
+
+<b>2004</b>—Par. (6). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -16,13 +16,15 @@ The Secretary of Housing and Urban Development, the Comptroller of the Currency,
 
 &emsp;(2) utilize, contract with and act through, without regard to section 6101 of title 41, any Federal, State, or local public agency or instrumentality, educational institution, or non-profit agency or organization with the consent of the agency or organization concerned, and any funds available to said officers for carrying out their respective functions, powers, and duties shall be available to reimburse or pay any such agency or organization; and, whenever in the judgment of any such officer necessary, he may make advance, progress, or other payments with respect to such contracts without regard to the provisions of subsections (a) and (b) of section 3324 of title 31; and
 
-&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Agency,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agencyfor expenditure by them, respectively, in accordance with the provisions hereof.
+&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Agency,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agency for expenditure by them, respectively, in accordance with the provisions hereof.
 
 #### (d) Use of funds for library memberships
 
 The Secretary of Housing and Urban Development may utilize funds made available to him for salaries and expenses for payment in advance for dues or fees for library memberships in organizations (or for membership of the individual librarians in organizations which will not accept library membership) whose publications are available to members only, or to members at a price lower than to the general public, and for payment in advance for publications available only upon that basis or available at a reduced price on prepublication order.
 
 (Aug. 10, 1948, ch. 832, title V, §502, 62 Stat. 1283; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Apr. 20, 1950, ch. 94, title V, §503, 64 Stat. 80; Pub. L. 87–70, title IX, §909, June 30, 1961, 75 Stat. 192; Pub. L. 90–19, §5(d)(1)–(3), (8)–(13), May 25, 1967, 81 Stat. 21; Pub. L. 98–479, title II, §§202(b), 203(c), Oct. 17, 1984, 98 Stat. 2228, 2229; Pub. L. 100–242, title V, §570(a)(1), (3), Feb. 5, 1988, 101 Stat. 1949, 1950; Pub. L. 101–73, title III, §306, Aug. 9, 1989, 103 Stat. 352; Pub. L. 111–203, title III, §370, July 21, 2010, 124 Stat. 1565.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,6 +74,8 @@ Subsec. (d). Pub. L. 87–70, §909(2), added subsec. (d).
 
 <b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
@@ -84,17 +88,19 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Secretary of Housing and Urban Development, see Parts 1, 2, and 9 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
 #### Annual Report on Areas of Program Administration and Management Which Require Improvement
 
-Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat.1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
+Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat. 1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11196
 
 Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171, which delegated functions to Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Secretary of Housing and Urban Development, see Parts 1, 2, and 9 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to the Federal Housing Finance Agency.</i>
 

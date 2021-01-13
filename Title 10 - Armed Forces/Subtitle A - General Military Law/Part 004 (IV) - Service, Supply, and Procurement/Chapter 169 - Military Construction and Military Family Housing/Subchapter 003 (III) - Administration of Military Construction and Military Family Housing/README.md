@@ -3,6 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2851\.](%C2%A7%2002851%20-%20Supervision%20of%20military%20construction%20projects.md) | Supervision of military construction projects. |
+| [2851a.](%C2%A7%2002851a%20-%20Supervision%20of%20military%20housing%20by%20Chief%20Housing%20Officer.md) | Supervision of military housing by Chief Housing Officer. |
 | [2852\.](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md) | Military construction projects: waiver of certain restrictions. |
 | [2853\.](%C2%A7%2002853%20-%20Authorized%20cost%20and%20scope%20of%20work%20variations.md) | Authorized cost and scope of work variations. |
 | [2854\.](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md) | Restoration or replacement of damaged or destroyed facilities. |
@@ -22,11 +23,13 @@
 | [2867\.](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md) | Energy monitoring and utility control system specification for military construction and military family housing activities. |
 | [2868\.](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md) | Utility services: furnishing for certain buildings. |
 | [2869\.](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md) | Exchange of property at military installations. |
-| [2870\.](%C2%A7%2002870%20-%20Use%20of%20qualified%20apprentices%20by%20military%20construction%20contractors.md) | Use of qualified apprentices by military construction contractors. |
+| \[2870. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VIII, §818(b)(1), div. B, title XXVIII, §2811(k)(1)(A), Jan. 1, 2021, 134 Stat. 3751, 4326, added item 2851a and struck out item 2870 "Use of qualified apprentices by military construction contractors".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
 
@@ -78,6 +81,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02851 - Supervision of military construction projects](%C2%A7%2002851%20-%20Supervision%20of%20military%20construction%20projects.md)
+- [&sect; 02851a - Supervision of military housing by Chief Housing Officer](%C2%A7%2002851a%20-%20Supervision%20of%20military%20housing%20by%20Chief%20Housing%20Officer.md)
 - [&sect; 02852 - Military construction projects waiver of certain restrictions](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md)
 - [&sect; 02853 - Authorized cost and scope of work variations](%C2%A7%2002853%20-%20Authorized%20cost%20and%20scope%20of%20work%20variations.md)
 - [&sect; 02854 - Restoration or replacement of damaged or destroyed facilities](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md)
@@ -97,4 +101,4 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 - [&sect; 02867 - Energy monitoring and utility control system specification for military construction and military family housing activities](%C2%A7%2002867%20-%20Energy%20monitoring%20and%20utility%20control%20system%20specification%20for%20military%20construction%20and%20military%20family%20housing%20activities.md)
 - [&sect; 02868 - Utility services furnishing for certain buildings](%C2%A7%2002868%20-%20Utility%20services%20furnishing%20for%20certain%20buildings.md)
 - [&sect; 02869 - Exchange of property at military installations](%C2%A7%2002869%20-%20Exchange%20of%20property%20at%20military%20installations.md)
-- [&sect; 02870 - Use of qualified apprentices by military construction contractors](%C2%A7%2002870%20-%20Use%20of%20qualified%20apprentices%20by%20military%20construction%20contractors.md)
+- [&sect; 02870 - Repealed. Pub. L. 116&#8211;283, div. A, title VIII, &sect;818(a), Jan. 1, 2021, 134 Stat. 3751](%C2%A7%2002870%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7818%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%203751.md)

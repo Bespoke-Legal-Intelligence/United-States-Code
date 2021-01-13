@@ -114,7 +114,7 @@ Electronic logging device.—The term "electronic logging device" means an elect
 
 &emsp;(2)
 
-Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or tosubsequently alter the record created by that device.
+Tamper resistant.—The term "tamper resistant" means resistant to allowing any individual to cause an electronic device to record the incorrect date, time, and location for changes to on-duty driving status of a commercial motor vehicle operator under part 395 of title 49, Code of Federal Regulations, or to subsequently alter the record created by that device.
 
 (g)
 

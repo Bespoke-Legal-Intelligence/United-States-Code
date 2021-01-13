@@ -122,7 +122,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(B) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was affirmative, but the preliminary determination under section 1673b(e)(1) of this title was negative, shall modify any suspension of liquidation and security requirement previously ordered under section 1673b(d) of this title to apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered; or
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date onwhich suspension of liquidation is first ordered.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, shall apply any suspension of liquidation and security requirement ordered under subsection (c)(1)(B) to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation is first ordered.
 
 #### (5) Method for determining estimated all-others rate
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3)of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by section 1333(a) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1324(b)(3) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, see section 1337(a), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

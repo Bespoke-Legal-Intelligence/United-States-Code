@@ -16,7 +16,7 @@ Actions of administrator.—When the President, on the recommendation of the Adm
 
 &emsp;&emsp;(B) pending a sale, may lease the property for not more than 5 years and on terms the Administrator considers to be in the public interest; or
 
-&emsp;&emsp;(C) may sell the property at public sale to the highest responsible bidder on terms and after public advertisement that the Administrator considers to be in the public interest.
+&emsp;&emsp;(C) may sell the property at public sale to the highest responsible bidder on terms andafter public advertisement that the Administrator considers to be in the public interest.
 
 &emsp;(2)
 
@@ -116,13 +116,17 @@ In subsection (a), the words "wholly owned Government corporations" are substitu
 
 In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
 
-In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
+In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration"because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
 In subsection (f), the words "as hereinafter" are omitted as obsolete. The words "which have been or may hereafter be" and "notwithstanding any declaration that the same is in excess of its needs" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–287 substituted "chapter 3201 of title 54" for "the Act of August 21, 1935 (16 U.S.C. 461 et seq.) (known as the Historic Sites, Buildings, and Antiquities Act)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provisions
 
@@ -212,7 +216,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;"(9) improving the efficiency of real property transfers for the provision of services to the homeless; and
 
-&emsp;"(10) assisting Federal agencies in achieving the Government's sustainability goals by reducing excessspace, inventory, and energy consumption, as well as by leveraging new technologies.
+&emsp;"(10) assisting Federal agencies in achieving the Government's sustainability goals by reducing excess space, inventory, and energy consumption, as well as by leveraging new technologies.
 
 #### "SEC. 3. DEFINITIONS.
 
@@ -370,7 +374,7 @@ Compensation.—
 
 &emsp;"(1)
 
-Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rate equal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United StatesCode, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
+Rate of pay for members.—Each member, other than the Chairperson, shall be paid at a rate equal to the daily equivalent of the minimum annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties vested in the Board.
 
 &emsp;"(2)
 
@@ -408,7 +412,7 @@ Qualifications.—Appointments shall be made with consideration of a balance of 
 
 "(a)
 
-Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts, shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
+Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts,shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
 
 "(b)
 
@@ -620,7 +624,7 @@ Second round.—Not earlier than 3 years after the date of transmittal of the fi
 
 &emsp;"(3)
 
-Consensus in majority.—The Board shall seek to develop consensus recommendations, but if a consensus cannot be obtained, the Board may include inthe reports required under this subsection recommendations that are supported by a majority of the Board.
+Consensus in majority.—The Board shall seek to develop consensus recommendations, but if a consensus cannot be obtained, the Board may include in the reports required under this subsection recommendations that are supported by a majority of the Board.
 
 "(h)
 

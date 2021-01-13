@@ -18,7 +18,7 @@ The Secretary of the Army is authorized and directed to acquire, by such means a
 
 #### (b) Omission of designated lands from area
 
-Notwithstanding the provisions of subsection (a) of this section, the Secretary of the Interior is authorized, after consultation with appropriate public officials of the affected political subdivisions of the States of Pennsylvania or New Jersey, as the case may be, to designate not more than three hundred acres adjacent and contiguous to the Borough of Milford, Pennsylvania, and not more than one thousand acres in Sussex County, New Jersey, for omission from the Delaware Valley National Recreation Area and the lands so designated shall not be acquired for said national recreation area under authority of this subchapter.
+Notwithstanding the provisions of subsection (a) of this section, the Secretary of the Interioris authorized, after consultation with appropriate public officials of the affected political subdivisions of the States of Pennsylvania or New Jersey, as the case may be, to designate not more than three hundred acres adjacent and contiguous to the Borough of Milford, Pennsylvania, and not more than one thousand acres in Sussex County, New Jersey, for omission from the Delaware Valley National Recreation Area and the lands so designated shall not be acquired for said national recreation area under authority of this subchapter.
 
 #### (c) Extension of boundaries; study and report to Congress
 

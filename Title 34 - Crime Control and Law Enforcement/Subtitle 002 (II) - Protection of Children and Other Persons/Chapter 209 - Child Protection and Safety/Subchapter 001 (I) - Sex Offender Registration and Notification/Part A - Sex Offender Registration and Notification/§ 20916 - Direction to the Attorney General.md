@@ -14,7 +14,7 @@ The Attorney General, using the authority provided in section 118(b)(4) of the S
 
 #### (d) Notice to sex offenders of new requirements
 
-The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sex offender as a result of the implementation of this section.
+The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sexoffender as a result of the implementation of this section.
 
 #### (e) Definitions
 
@@ -41,6 +41,8 @@ The Attorney General shall ensure that procedures are in place to notify each se
 &emsp;A term defined for the purposes of the Sex Offender Registration and Notification Act \[34 U.S.C. 20901 et seq.\] has the same meaning in this Act.
 
 (Pub. L. 110–400, §2, Oct. 13, 2008, 122 Stat. 4224.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

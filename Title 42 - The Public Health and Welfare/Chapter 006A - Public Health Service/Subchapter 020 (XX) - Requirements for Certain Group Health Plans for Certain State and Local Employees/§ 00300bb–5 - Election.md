@@ -70,7 +70,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;The term "TAA-related loss of coverage" means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
 
-(July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII,§1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
+(July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985,Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Construction of 2002 Amendment
 

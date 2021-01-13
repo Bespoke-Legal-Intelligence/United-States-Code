@@ -20,17 +20,23 @@ The amendments made by this section shall take effect no later than October 1, 2
 
 (Pub. L. 115–31, div. J, title VII, §7081, May 5, 2017, 131 Stat. 716.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section appears under the heading "Consular and Border Security Programs" in title VII of div. J of Pub. L. 115–31. It was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
 Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended section 214 of Title 22, Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under section 214 of Title 22.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Balances
 
-Pub. L. 116–94, div. G, title VII, §7034(l)(9), Dec. 20, 2019, 133 Stat. 2873, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2020."
+Pub. L. 116–260, div. K, title VII, §7034(l)(9), Dec. 27, 2020, 134 Stat. 1750, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2021."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(l)(9), Dec. 20, 2019, 133 Stat. 2873.
 
 Pub. L. 116–6, div. F, title VII, §7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
 

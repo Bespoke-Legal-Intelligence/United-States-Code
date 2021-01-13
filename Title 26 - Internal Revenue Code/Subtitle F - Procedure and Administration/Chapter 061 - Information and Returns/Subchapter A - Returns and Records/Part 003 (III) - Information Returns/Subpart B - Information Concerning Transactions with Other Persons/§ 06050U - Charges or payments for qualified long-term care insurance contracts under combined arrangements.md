@@ -24,5 +24,5 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### Effective Date
 
-Section applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginningafter Dec. 31, 2009, and to charges made after Dec. 31, 2009, see section 844(g)(1), (3) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 72 of this title.
+Section applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, and to charges made after Dec. 31, 2009, see section 844(g)(1), (3) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 72 of this title.
 

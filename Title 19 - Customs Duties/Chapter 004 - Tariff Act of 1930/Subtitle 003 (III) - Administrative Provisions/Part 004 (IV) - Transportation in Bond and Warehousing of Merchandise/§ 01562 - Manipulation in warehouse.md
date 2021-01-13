@@ -2,21 +2,21 @@
 
 Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission being granted by the Secretary of the Treasury, and under customs supervision, at the expense of the proprietor, merchandise may be cleaned, sorted, repacked, or otherwise changed in condition, but not manufactured, in bonded warehouses established for that purpose and be withdrawn therefrom—
 
-&emsp;(1) without payment of duties for exportation to a NAFTA country, as defined in section 3301(4) of this title, if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 3333(a) of this title;
+&emsp;(1) without payment of duties for exportation to a USMCA country, as defined in section 4502 of this title, if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 4534(a) of this title;
 
-&emsp;(2) for exportation to a NAFTA country if the merchandise consists of goods subject to NAFTA drawback, as defined in section 3333(a) of this title, except that—
+&emsp;(2) for exportation to a USMCA country if the merchandise consists of goods subject to USMCA drawback, as defined in section 4534(a) of this title, except that—
 
 &emsp;&emsp;(A) the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition, and
 
-&emsp;&emsp;(B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the merchandise, the customs duty may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;&emsp;(B) duty shall be paid on the merchandise before the 61st day after the date of exportation, but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the USMCA country on the merchandise, the customs duty may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;&emsp;&emsp;(i) the total amount of customs duties paid or owed on the merchandise on importation into the United States, or
 
-&emsp;&emsp;&emsp;(ii) the total amount of customs duties paid on the merchandise to the NAFTA country;
+&emsp;&emsp;&emsp;(ii) the total amount of customs duties paid on the merchandise to the USMCA country;
 
-&emsp;(3) without payment of duties for exportation to any foreign country other than to Chile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
+&emsp;(3) without payment of duties for exportation to any foreign country other than to Chile, to a USMCA country, or to Canada when exports to that country are subject to paragraph (4);
 
-&emsp;(4) without payment of duties for exportation to Canada (if that country ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
+&emsp;(4) without payment of duties for exportation to Canada (if that country ceases to be a USMCA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
 
 &emsp;&emsp;(A) is only cleaned, sorted, or repacked in a bonded warehouse, or
 
@@ -40,9 +40,9 @@ Merchandise shall only be withdrawn from a bonded warehouse in such quantity and
 
 &emsp;&emsp;&emsp;(IV) 25 percent during the 1-year period beginning on January 1, 2014.
 
-> Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions fromthe final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
+> Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
 
-(June 17, 1930, ch. 497, title IV, §562, 46 Stat. 745; June 25, 1938, ch. 679, §§2, 25, 52 Stat. 1077, 1088; Aug. 8, 1953, ch. 397, §18(f), 67 Stat. 518; June 30, 1955, ch. 258, §2(a)(5), 69 Stat. 242; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 100–449, title II, §204(c)(4), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 103–182, title II, §203(b)(4), Dec. 8, 1993, 107 Stat. 2090; Pub. L. 108–77, title II, §203(b)(4), Sept. 3, 2003, 117 Stat. 928; Pub. L. 109–280, title XIV, §1635(e), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §562, 46 Stat. 745; June 25, 1938, ch. 679, §§2, 25, 52 Stat. 1077, 1088; Aug. 8, 1953, ch. 397, §18(f), 67 Stat. 518; June 30, 1955, ch. 258, §2(a)(5), 69 Stat. 242; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 100–449, title II, §204(c)(4), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 103–182, title II, §203(b)(4), Dec. 8, 1993, 107 Stat. 2090; Pub. L. 108–77, title II, §203(b)(4), Sept. 3, 2003, 117 Stat. 928; Pub. L. 109–280, title XIV, §1635(e), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 116–113, title V, §501(e)(4), Jan. 29, 2020, 134 Stat. 69; Pub. L. 116–260, div. O, title VI, §601(c)(2)(A)(iv), Dec. 27, 2020, 134 Stat. 2150.)
 
 #### Amendment of Section
 
@@ -63,6 +63,14 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. §2980, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+<b>2020</b>—Par. (1). Pub. L. 116–113, §501(e)(4)(A), added par. (1) and struck out former par. (1) which read as follows: "without payment of duties for exportation to a NAFTA country, as defined in section 3301(4) of this title, if the merchandise is of a kind described in any of paragraphs (1) through (8) of section 3333(a) of this title;".
+
+Par. (2). Pub. L. 116–113, §501(e)(4)(B), substituted "section 4534(a) of this title" for "section 3333(a) of this title", in introductory provisions, and "USMCA" for "NAFTA" wherever appearing.
+
+Par. (2)(B). Pub. L. 116–260 substituted "(subject to section 4534(e) of this title)" for "(subject to section 1508(b)(2)(B) of this title)" in introductory provisions.
+
+Pars. (3), (4). Pub. L. 116–113, §501(e)(4)(C), substituted "USMCA" for "NAFTA" in two places.
 
 <b>2006</b>—Pub. L. 109–280, in introductory provisions, substituted "Merchandise shall only be withdrawn from a bonded warehouse in such quantity and in such condition as the Secretary of the Treasury shall by regulation prescribe. Upon permission" for "Unless by special authority of the Secretary of the Treasury, no merchandise shall be withdrawn from bonded warehouse in less quantity than an entire bale, cask, box, or other package; or, if in bulk, in the entire quantity imported or in a quantity not less than one ton weight. All merchandise so withdrawn shall be withdrawn in the original packages in which imported unless, upon the application of the importer, it appears to be the appropriate customs officer that it is necessary to the safety or preservation of the merchandise to repack or transfer the same; except that upon permission therefor".
 
@@ -92,9 +100,15 @@ Par. (6). Pub. L. 108–77, §§107(c), 203(b)(4)(D), temporarily added par. (6)
 
 <b>1938</b>—Act June 25, 1938, inserted sentence providing for manipulation of imported merchandise entering and remaining in continuous customs custody in cases where neither the protection of the revenue nor proper conduct of business requires such manipulation be done in a bonded warehouse, and inserted "Wake Island, Midway Islands, Kingman Reef" before "or the island of Guam".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under section 81c of this title.
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehousefor consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -102,7 +116,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 

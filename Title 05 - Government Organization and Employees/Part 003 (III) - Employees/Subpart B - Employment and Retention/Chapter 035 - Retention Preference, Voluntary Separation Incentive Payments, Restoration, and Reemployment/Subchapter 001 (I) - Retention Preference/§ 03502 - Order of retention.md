@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) service rendered as an employee described in section 2105(c) if such employee moves or has moved, on or after January 1, 1966, without a break in service of more than 3 days, from a position in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard to a position in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
-(b) A preference eligible described in section 2108(3)(C) of this title who has a compensableservice-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
+(b) A preference eligible described in section 2108(3)(C) of this title who has a compensable service-connected disability of 30 percent or more and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other preference eligibles.
 
 (c) An employee who is entitled to retention preference and whose performance has not been rated unacceptable under a performance appraisal system implemented under chapter 43 of this title is entitled to be retained in preference to other competing employees.
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) shall consist of written notification as to—
 
-&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
+&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction inforce (broken down by geographic area or on such other basis as may be required under paragraph (4));
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
@@ -117,6 +117,8 @@ In subsection (a), the words "reduction in force" are substituted for "reduction
 In subsections (a) and (b), the references to "performance" ratings and ratings of "satisfactory" are added on authority of former section 2005, which is carried into section 4304.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -184,6 +186,8 @@ Subsec. (c). Pub. L. 95–454, §307(e), added subsec. (c).
 
 Subsec. (a)(C). Pub. L. 90–367 added subsec. (a)(C).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(g)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–434, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that:
@@ -214,7 +218,7 @@ Pub. L. 104–106, div. A, title X, §1043(d)(2), Feb. 10, 1996, 110 Stat. 438, 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. D, title XLIV, §4433(a)(2), Oct. 23, 1992, 106 Stat. 2722, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\]."
+Pub. L. 102–484, div. D, title XLIV, §4433(a)(2), Oct. 23, 1992, 106 Stat. 2722, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -264,7 +268,7 @@ Study and Report.—(1) The Director of the Office of Personnel Management shall
 
 "(b)
 
-Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a programunder this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
+Agreements To Establish Interagency Placement Program.—(1) The Director may establish a Government-wide interagency placement program for Federal employees affected by reductions in force if, during the 6-month period beginning on the date of the enactment of this Act \[Oct. 5, 1994\], the Director, in consultation with the Secretary of Defense, determines that such a program is feasible. To carry out the program, the Director may enter into an agreement with the head of each agency that agrees to participate in the program. If the Director establishes a program under this subsection, it is not necessary that the program be an interagency placement program within the meaning of subsection (a)(2).
 
 "(2) If the Director establishes a program pursuant to paragraph (1), the report required by subsection (a)(5) shall identify each agency that does not agree to participate in the program and the reasons of the head of that agency for not agreeing to participate.
 
@@ -298,7 +302,9 @@ Pub. L. 102–484, div. D, title XLIV, §4433(b), Oct. 23, 1992, 106 Stat. 2722,
 
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
 
-Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see section 5117(a) of Title 25, Indians.
+Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec.\(a) of this section, see section 5117(a) of Title 25, Indians.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12828. Delegation of Certain Personnel Management Authorities
 

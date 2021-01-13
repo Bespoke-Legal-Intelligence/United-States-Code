@@ -4,9 +4,13 @@ As used in this chapter, the terms "bank", "bank holding company", "subsidiary",
 
 (Pub. L. 91–607, title I, §106(a), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 106–102, title I, §121(c), Nov. 12, 1999, 113 Stat. 1380.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–102 inserted at end "For purposes of this chapter, a financial subsidiary of a national bank engaging in activities pursuant to section 24a(a) of this title shall be deemed to be a subsidiary of a bank holding company, and not a subsidiary of a bank."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

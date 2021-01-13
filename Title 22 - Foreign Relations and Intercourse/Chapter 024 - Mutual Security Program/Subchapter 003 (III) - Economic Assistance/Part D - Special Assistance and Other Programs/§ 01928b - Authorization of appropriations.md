@@ -4,6 +4,8 @@ There is authorized to be appropriated annually (1) for the annual contribution 
 
 (July 11, 1956, ch. 562, §2, 70 Stat. 523; Pub. L. 85–477, ch. V, §502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, §401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, §405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, §101(a) \[title III, §303\], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, §744(b), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459; Pub. L. 107–77, title IV, §408(b)(1), Nov. 28, 2001, 115 Stat. 790.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was not enacted as part of the Mutual Security Act of 1954 which comprises this chapter.
@@ -24,6 +26,8 @@ Pub. L. 100–202 substituted "annually (1)" for "annually,", "(2) $100,000, $50
 
 <b>1958</b>—Pub. L. 85–477 substituted provisions authorizing an annual contribution towards the maintenance of the Conference of such sum as may be agreed upon but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year for maintenance, for provisions which authorized an annual contribution of $6,000 for maintenance.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: "In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be "paragraphs (1) or (2)", which amended this section and sections 276c–1, 1928c, and 1928d of this title\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly."
@@ -34,7 +38,7 @@ A permanent appropriation to carry out cl. (2) of this section is contained in s
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
 
 #### Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference
 

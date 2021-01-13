@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Under authority of section 13 of this title, the Secretary, through the Service, shall enter intocontracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
+Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
 &emsp;(1) estimate the population of urban Indians residing in the urban center in which such organization is situated who are or could be recipients of health care or referral services;
 
@@ -112,6 +112,8 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 (Pub. L. 94–437, title V, §503, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4821; amended Pub. L. 101–630, title V, §505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Child Welfare Act of 1978, referred to in subsec. (f)(4)(A), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
@@ -145,6 +147,8 @@ Subsec. (f)(1). Pub. L. 102–573, §501(b)(1)(F), inserted "or receiving grants
 Subsec. (f)(5). Pub. L. 102–573, §505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
 <b>1990</b>—Subsecs. (c) to (f). Pub. L. 101–630 added subsecs. (c) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Facilities Assessment
 

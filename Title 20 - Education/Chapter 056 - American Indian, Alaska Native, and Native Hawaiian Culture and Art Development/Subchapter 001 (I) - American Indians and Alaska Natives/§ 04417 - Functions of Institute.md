@@ -10,7 +10,7 @@ The primary functions of the Institute shall be—
 
 #### (b) Administrative entities
 
-(1) The Board shall be responsible for establishing the policies and internal organizationthat relate to the control and monitoring of all subdivisions, administrative entities, and departments of the Institute.
+(1) The Board shall be responsible for establishing the policies and internal organization that relate to the control and monitoring of all subdivisions, administrative entities, and departments of the Institute.
 
 (2) The specific responsibilities of each subdivision, entity, and department of the Institute are solely within the discretion of the Board, or its designee.
 
@@ -60,7 +60,7 @@ In addition to the centers and programs described in subsection (b), the Institu
 
 &emsp;"(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute."
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
 

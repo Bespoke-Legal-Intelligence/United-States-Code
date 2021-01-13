@@ -60,7 +60,7 @@
 
 #### (E) Maintenance of halls
 
-&emsp;&emsp;The Board shall maintain the Hall of Nations, the Hall of States, and the Grand Foyer of the John F. Kennedy Center for the Performing Arts in a manner that is suitable to a national performing arts center that is operated as a Presidential memorial and in a manner consistent with other national Presidential memorials.
+&emsp;&emsp;The Board shall maintain the Hall of Nations, the Hall of States, and the GrandFoyer of the John F. Kennedy Center for the Performing Arts in a manner that is suitable to a national performing arts center that is operated as a Presidential memorial and in a manner consistent with other national Presidential memorials.
 
 #### (F) Maintenance of grounds
 
@@ -182,7 +182,7 @@ Study.—The Secretary \[of Transportation\], in cooperation with the District o
 
 "(2)
 
-Report.—Not later than September 30, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results ofthe study with an assessment of the impacts (including environmental, aesthetic, economic, and historical impacts) associated with the implementation of each of the methods examined under the study.
+Report.—Not later than September 30, 1999, the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report containing the results of the study with an assessment of the impacts (including environmental, aesthetic, economic, and historical impacts) associated with the implementation of each of the methods examined under the study.
 
 "(3)
 

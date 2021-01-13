@@ -1,6 +1,6 @@
 ### §332. Judicial councils of circuits
 
-(a)(1) The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he or she may designate, a meeting of the judicial council of the circuit, consisting of the chief judge of the circuit, who shall preside, and an equal number of circuit judges and district judges of the circuit, as such number is determined by majority vote of all such judges of the circuit in regular active service.
+(a)(1) The chief judge of each judicial circuit shall call, at least twice in each year and atsuch places as he or she may designate, a meeting of the judicial council of the circuit, consisting of the chief judge of the circuit, who shall preside, and an equal number of circuit judges and district judges of the circuit, as such number is determined by majority vote of all such judges of the circuit in regular active service.
 
 (2) Members of the council shall serve for terms established by a majority vote of all judges of the circuit in regular active service.
 
@@ -18,7 +18,7 @@
 
 (d)(1) Each judicial council shall make all necessary and appropriate orders for the effective and expeditious administration of justice within its circuit. Any general order relating to practice and procedure shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such order so relating shall take effect upon the date specified by such judicial council. Copies of such orders so relating shall be furnished to the Judicial Conference and the Administrative Office of the United States Courts and be made available to the public. Each council is authorized to hold hearings, to take sworn testimony, and to issue subpoenas and subpoenas duces tecum. Subpoenas and subpoenas duces tecum shall be issued by the clerk of the court of appeals, at the direction of the chief judge of the circuit or his designee and under the seal of the court, and shall be served in the manner provided in rule 45(c) of the Federal Rules of Civil Procedure for subpoenas and subpoenas duces tecum issued on behalf of the United States or an officer or agency thereof.
 
-(2) All judicial officers and employees of the circuit shall promptly carry into effect all orders of the judicial council. In the case of failure to comply with an order made under this subsection or a subpoena issued under chapter 16 of this title, a judicial council or a special committee appointed under section 353 of this title may institute a contempt proceeding in any district court in which the judicial officer or employeeof the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.
+(2) All judicial officers and employees of the circuit shall promptly carry into effect all orders of the judicial council. In the case of failure to comply with an order made under this subsection or a subpoena issued under chapter 16 of this title, a judicial council or a special committee appointed under section 353 of this title may institute a contempt proceeding in any district court in which the judicial officer or employee of the circuit who fails to comply with the order made under this subsection shall be ordered to show cause before the court why he or she should not be held in contempt of court.
 
 (3) Unless an impediment to the administration of justice is involved, regular business of the courts need not be referred to the council.
 
@@ -79,6 +79,8 @@ The final sentence of section 448 of title 28, U.S.C., 1940 ed., excepting from 
 The requirement for attendance of circuit judges, unless excused by the chief judge, was included in conformity with a similar provision of section 331 of this title.
 
 Changes in phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -146,7 +148,7 @@ Pub. L. 100–459 substituted "level IV" for "level V".
 
 <b>1980</b>—Pub. L. 96–458, §2(d)(1), substituted "Judicial councils of circuits" for "Judicial councils" in section catchline.
 
-Subsec. (a). Pub. L. 96–458, §2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted "each judicial circuit" for "each circuit", substituted "a meeting ofthe judicial council of the circuit, consisting of—" for "a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.", and added subpars. (A) to (C) and pars. (2) to (7).
+Subsec. (a). Pub. L. 96–458, §2(a), in par. (1) designated existing provisions as introductory provision and in such introductory provision substituted "each judicial circuit" for "each circuit", substituted "a meeting of the judicial council of the circuit, consisting of—" for "a council of the circuit judges for the circuit, in regular active service, at which he shall preside. Each circuit judge, unless excused by the chief judge, shall attend all sessions of the council.", and added subpars. (A) to (C) and pars. (2) to (7).
 
 Subsec. (c). Pub. L. 96–458, §2(b), substituted "semiannually" for "quarterly".
 
@@ -157,6 +159,8 @@ Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designatin
 <b>1971</b>—Pub. L. 91–647 designated existing four paragraphs as subsecs. (a), (b), (c), and (d), respectively, and added subsecs. (e) and (f).
 
 <b>1963</b>—Pub. L. 88–176 inserted "regular" before "active service" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

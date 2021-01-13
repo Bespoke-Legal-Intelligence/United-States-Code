@@ -1,6 +1,6 @@
 ### §5313. Withdrawal of distilled spirits from customs custody free of tax for use of the United States
 
-Distilled spirits may be withdrawn free of tax from customs custody by the United States orany governmental agency thereof for its own use for nonbeverage purposes, under such regulations as may be prescribed by the Secretary.
+Distilled spirits may be withdrawn free of tax from customs custody by the United States or any governmental agency thereof for its own use for nonbeverage purposes, under such regulations as may be prescribed by the Secretary.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

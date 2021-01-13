@@ -1,5 +1,7 @@
 ### §§1171 to 1195. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1171, R.S. §1689, which related to general application of provisions to consular officers, was transferred to section 4191 of this title.

@@ -20,7 +20,7 @@
 
 &emsp;(9) Establish pretrial services pursuant to section 3152 of title 18, United States Code;
 
-&emsp;(10)(A) Purchase, exchange, transfer, distribute, and assign the custody of lawbooks, equipment, supplies, and other personal property for the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)); (B) provide or make available readily to each court appropriate equipment for the interpretation of proceedings in accordance with section 1828 of this title; and (C) enter into and perform contracts and other transactions upon such terms as the Director may deem appropriate as may be necessary to the conduct of the work of the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)), and contracts for nonpersonal services providing pretrial services, agencies, for the interpretation of proceedings, and for the provision of special interpretation services pursuant to section 1828 of this title may be awarded without regard to section 6101(b) to (d) of title 41;
+&emsp;(10)(A) Purchase, exchange, transfer, distribute, and assign the custody of lawbooks, equipment, supplies, and other personal property for the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)); (B) provide or make available readily to each court appropriate equipment for the interpretation of proceedings in accordance with section 1828 of this title; and (C) enter into and perform contracts and other transactions upon such terms as the Director may deem appropriate as may be necessary to the conduct of thework of the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)), and contracts for nonpersonal services providing pretrial services, agencies, for the interpretation of proceedings, and for the provision of special interpretation services pursuant to section 1828 of this title may be awarded without regard to section 6101(b) to (d) of title 41;
 
 &emsp;(11) Audit vouchers and accounts of the courts, the Federal Judicial Center, the offices providing pretrial services, and their clerical and administrative personnel;
 
@@ -72,7 +72,7 @@
 
 &emsp;(4) prepare and distribute a manual, with annual supplements and periodic revisions, for the use of such officers, which shall set forth their powers and duties, describe all categories of proceedings that may arise before them, and contain such other information as may be required to enable them to discharge their powers and duties promptly, effectively, and impartially.
 
-(e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provision of law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
+(e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provisionof law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
 
 (f) The Director may make, promulgate, issue, rescind, and amend rules and regulations (including regulations prescribing standards of conduct for Administrative Office employees) as may be necessary to carry out the Director's functions, powers, duties, and authority. The Director may publish in the Federal Register such rules, regulations, and notices for the judicial branch of Government as the Director determines to be of public interest; and the Director of the Federal Register hereby is authorized to accept and shall publish such materials.
 
@@ -80,7 +80,7 @@
 
 (2) The Director hereby is authorized to enter into contracts for public utility services and related terminal equipment for periods not exceeding ten years.
 
-(3)(A) In order to promote the recycling and reuse of recyclable materials, the Director mayprovide for the sale or disposal of recyclable scrap materials from paper products and other consumable office supplies held by an entity within the judicial branch.
+(3)(A) In order to promote the recycling and reuse of recyclable materials, the Director may provide for the sale or disposal of recyclable scrap materials from paper products and other consumable office supplies held by an entity within the judicial branch.
 
 (B) The sale or disposal of recyclable materials under subparagraph (A) shall be consistent with the procedures provided in sections 541–555 of title 40 for the sale of surplus property.
 
@@ -158,7 +158,7 @@ Parallel with agency regulations.—The regulations issued under subparagraph (A
 
 Effective date.—Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
 
-(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27,1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, §1122(e), Dec. 20, 2019, 133 Stat. 1609.)
+(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, §1122(e), Dec. 20, 2019, 133 Stat. 1609.)
 
 #### Historical and Revision Notes
 
@@ -201,6 +201,8 @@ Changes were made in phraseology and arrangement.
 By Senate amendment, all provisions relating to the Tax Court were eliminated, therefore, as finally enacted, sections 1130(a)(b) and 1131 of Title 26, U.S.C., Internal Revenue Code \[1940 ed.\], did not constitute part of the source of this section. However, no change in the text of the section was necessary. See 80th Congress Senate Report No. 1559.
 
 As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 305, which was classified to title 28, U.S.C., 1946 ed., §374b, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -344,13 +346,15 @@ Subsec. (a)(10), (11). Pub. L. 90–219, §203(c), inserted ", the Federal Judi
 
 <b>1956</b>—Subsec. (a)(7). Act Aug. 3, 1956, inserted "annuities to widows and surviving dependent children of judges and" after "Regulate and pay".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judges", "magistrate judge", "magistrate judges", and "Magistrate judges" substituted for "United States magistrates", "magistrate", "magistrates", and "Magistrates", respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, "United States magistrates" substituted for "United States Commissioners" pursuant to section 402(b)(2) of Pub. L. 90–578. See chapter 43 (§631 et seq.) of this title.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–8, div. D, title III, §307(c), Mar. 11, 2009, 123 Stat. 649, provided that: "Subsection (b) \[enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees\] and the amendment made by subsection (a) \[amending this section\] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of Public Law 110–177 \[Jan. 7, 2008\]."
+Pub. L. 111–8, div. D, title III, §307(c), Mar. 11, 2009, 123 Stat. 649, provided that: "Subsection (b) \[enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees\] and the amendment made by subsection (a) \[amending this section\] shall apply with respect to any payment made on or after the first day of the first applicable pay periodbeginning on or after the date of the enactment of Public Law 110–177 \[Jan. 7, 2008\]."
 
 #### Effective Date of 2008 Amendment
 

@@ -44,7 +44,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L.98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
 
 Historical and Revision Notes
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Pub. L. 98–209, §12(a), Dec. 6, 1983, 97 Stat. 1407, provided that:
 
-"(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
+"(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effecton the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
 "(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
 
@@ -426,7 +426,7 @@ Access upon request.—Upon request of the Chief Medical Officer, the Department
 
 &emsp;"(3)
 
-Lack of expeditious availability.—If access to individuals, information, or assistance is not made available to the Chief Medical Officer upon request on an expeditious basis as required by paragraph (2), the Chief Medical Officer shall notify the Assistant Secretary of Defense for Health Affairs and the AssistantSecretary of Defense for Special Operations and Low Intensity Conflict, who shall take actions to resolve the matter expeditiously.
+Lack of expeditious availability.—If access to individuals, information, or assistance is not made available to the Chief Medical Officer upon request on an expeditious basis as required by paragraph (2), the Chief Medical Officer shall notify the Assistant Secretary of Defense for Health Affairs and the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, who shall take actions to resolve the matter expeditiously.
 
 "(e)
 
@@ -612,7 +612,7 @@ Assessments Required.—Prior to any transfer referred to under subsection (a), 
 
 "(c)
 
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Foreign Affairs of theHouse of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate."
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate."
 
 #### Requirements for Certifications Relating to the Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities
 
@@ -714,7 +714,7 @@ Covered persons.—The requirement in paragraph (1) shall apply to any person wh
 
 &emsp;"(3)
 
-Disposition under law of war.—For purposes of this subsection, the disposition of a person underthe law of war has the meaning given in section 1021(c), except that no transfer otherwise described in paragraph (4) of that section shall be made unless consistent with the requirements of section 1028.
+Disposition under law of war.—For purposes of this subsection, the disposition of a person under the law of war has the meaning given in section 1021(c), except that no transfer otherwise described in paragraph (4) of that section shall be made unless consistent with the requirements of section 1028.
 
 &emsp;"(4)
 
@@ -818,7 +818,7 @@ Applicability.—The Secretary of Defense is not required to apply the procedure
 
 "(d)
 
-Report on Modification of Procedures.—The Secretary of Defense shall submit to the appropriatecommittees of Congress a report on any modification of the procedures submitted under this section. The report on any such modification shall be so submitted not later than 60 days before the date on which such modification goes into effect.
+Report on Modification of Procedures.—The Secretary of Defense shall submit to the appropriate committees of Congress a report on any modification of the procedures submitted under this section. The report on any such modification shall be so submitted not later than 60 days before the date on which such modification goes into effect.
 
 "(e)
 
@@ -922,7 +922,7 @@ Deadline for regulations.—The Secretary of Defense shall prescribe the regulat
 
 &emsp;"(3)
 
-Congressional notification.—Not later than five days after the Secretary issues a waiver pursuantto paragraph (1), the Secretary shall submit to Congress written notification of the waiver."
+Congressional notification.—Not later than five days after the Secretary issues a waiver pursuant to paragraph (1), the Secretary shall submit to Congress written notification of the waiver."
 
 #### No Miranda Warnings for Al Qaeda Terrorists
 
@@ -1108,7 +1108,7 @@ Additional Matters To Be Included in Initial Report.—The first report submitte
 
 \[Pub. L. 114–92, div. A, title X, §1038(b), Nov. 25, 2015, 129 Stat. 974, provided that: "Nothing in the amendment made by subsection (a) \[amending section 319(c) of Pub. L. 111–32, set out above, by adding par. (6)\] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 \[Pub. L. 111–32, set out above\] before the date of the enactment of this section \[Nov. 25, 2015\]."\]
 
-\[Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of Pub. L. 111–32, set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of Pub. L. 111–32is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.\]
+\[Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of Pub. L. 111–32, set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of Pub. L. 111–32 is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.\]
 
 #### Policy on Role of Military Medical and Behavioral Science Personnel in Interrogation of Detainees
 
@@ -1224,7 +1224,7 @@ Limitation on claims.—The jurisdiction of the United States Court of Appeals f
 
 &emsp;&emsp;"(C)
 
-Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to analien under this paragraph shall be limited to the consideration of—
+Scope of review.—The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to an alien under this paragraph shall be limited to the consideration of—
 
 &emsp;&emsp;&emsp;"(i) whether the status determination of the Combatant Status Review Tribunal with regard to such alien was consistent with the standards and procedures specified by the Secretary of Defense for Combatant Status Review Tribunals (including the requirement that the conclusion of the Tribunal be supported by a preponderance of the evidence and allowing a rebuttable presumption in favor the Government's evidence); and
 
@@ -1566,7 +1566,7 @@ Section 1. <i>Findings.</i>
 
 (f) Given the danger to the safety of the United States and the nature of international terrorism, and to the extent provided by and under this order, I find consistent with section 836 of title 10, United States Code, that it is not practicable to apply in military commissions under this order the principles of law and the rules of evidence generally recognized in the trial of criminal cases in the United States district courts.
 
-(g) Having fully considered the magnitude of the potential deaths, injuries, and property destruction that would result from potential acts of terrorism against the United States, and the probability that such acts will occur, I have determined that an extraordinary emergency exists for national defense purposes, that this emergency constitutes an urgent and compelling government interest, and that issuance of this order is necessary to meet the emergency.
+(g) Having fully considered the magnitude of the potential deaths, injuries, and property destruction thatwould result from potential acts of terrorism against the United States, and the probability that such acts will occur, I have determined that an extraordinary emergency exists for national defense purposes, that this emergency constitutes an urgent and compelling government interest, and that issuance of this order is necessary to meet the emergency.
 
 Sec. 2. <i>Definition and Policy.</i>
 
@@ -1624,7 +1624,7 @@ Sec. 7. <i>Relationship to Other Law and Forums.</i>
 
 &emsp;(1) military tribunals shall have exclusive jurisdiction with respect to offenses by the individual; and
 
-&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any courtof any foreign nation, or (iii) any international tribunal.
+&emsp;(2) the individual shall not be privileged to seek any remedy or maintain any proceeding, directly or indirectly, or to have any such remedy or proceeding sought on the individual's behalf, in (i) any court of the United States, or any State thereof, (ii) any court of any foreign nation, or (iii) any international tribunal.
 
 (c) This order is not intended to and does not create any right, benefit, or privilege, substantive or procedural, enforceable at law or equity by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
@@ -1716,7 +1716,7 @@ Sec. 5. <i>Diplomatic Efforts</i>. The Secretary of State shall expeditiously pu
 
 Sec. 6. <i>Humane Standards of Confinement</i>. No individual currently detained at Guantanamo shall be held in the custody or under the effective control of any officer, employee, or other agent of the United States Government, or at a facility owned, operated, or controlled by a department or agency of the United States, except in conformity with all applicable laws governing the conditions of such confinement, including Common Article 3 of the Geneva Conventions. The Secretary of Defense shall immediately undertake a review of the conditions of detention at Guantanamo to ensure full compliance with this directive. Such review shall be completed within 30 days and any necessary corrections shall be implemented immediately thereafter.
 
-Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
+Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissionsto which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
 
 Sec. 8. <i>General Provisions</i>.
 
@@ -1758,7 +1758,7 @@ Sec. 3. <i>Periodic Review</i>. The Secretary of Defense shall coordinate a proc
 
 (7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee's continued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
 
-(8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutes or summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
+(8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutesor summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
 
 (b) <i>Subsequent Full Review</i>. The continued detention of each detainee shall be subject to subsequent full reviews and hearings by the PRB on a triennial basis. Each subsequent review shall employ the procedures set forth in section 3(a) of this order.
 
@@ -1786,7 +1786,7 @@ Sec. 5. <i>Annual Committee Review</i>. (a) The Committee shall conduct an annua
 
 Sec. 6. <i>Continuing Obligation of the Departments of Justice and Defense to Assess Feasibility of Prosecution</i>. As to each detainee whom the interagency review established by Executive Order 13492 has designated for continued law of war detention, the Attorney General and the Secretary of Defense shall continue to assess whether prosecution of the detainee is feasible and in the national security interests of the United States, and shall refer detainees for prosecution, as appropriate.
 
-Sec. 7. <i>Obligation of Other Departments and Agencies to Assist the Secretary of Defense</i>. All departments, agencies, entities, and officers of the United States, to the maximum extent permitted by law, shall provide theSecretary of Defense such assistance as may be requested to implement this order.
+Sec. 7. <i>Obligation of Other Departments and Agencies to Assist the Secretary of Defense</i>. All departments, agencies, entities, and officers of the United States, to the maximum extent permitted by law, shall provide the Secretary of Defense such assistance as may be requested to implement this order.
 
 Sec. 8. <i>Legality of Detention</i>. The process established under this order does not address the legality of any detainee's law of war detention. If, at any time during the periodic review process established in this order, material information calls into question the legality of detention, the matter will be referred immediately to the Secretary of Defense and the Attorney General for appropriate action.
 
@@ -1814,7 +1814,7 @@ Ex. Ord. No. 13823, Jan. 30, 2018, 83 F.R. 4831, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Findings</i>. (a) Consistent with long-standing law of war principles and applicable law, the United States may detain certain persons captured in connection with an armed conflict for the duration of the conflict.
+Section 1. <i>Findings</i>. (a) Consistent with long-standing law of war principles and applicable law, the UnitedStates may detain certain persons captured in connection with an armed conflict for the duration of the conflict.
 
 (b) Following the terrorist attacks of September 11, 2001, the 2001 Authorization for Use of Military Force (AUMF) and other authorities authorized the United States to detain certain persons who were a part of or substantially supported al-Qa'ida, the Taliban, or associated forces engaged in hostilities against the United States or its coalition partners. Today, the United States remains engaged in an armed conflict with al-Qa'ida, the Taliban, and associated forces, including with the Islamic State of Iraq and Syria.
 
@@ -1848,7 +1848,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1874,7 +1874,7 @@ Sec. 3. (a) Pursuant to section 5542 of the Military Justice Act of 2016 (MJA) \
 
 (c) Nothing in title LX of the MJA shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
 
-(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
+(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in thisorder, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
 
 Sec. 4. The Manual for Courts-Martial, United States, as amended by section 1 of this order, is amended as described in Annex 2, which is attached to and made a part of this order \[not set out in the Code\].
 
@@ -1914,7 +1914,7 @@ Sec. 10. Except as provided by Rule for Courts-Martial 902A, as promulgated by A
 
 Sec. 11. The amendments to Article 146 of the UCMJ \[10 U.S.C. 946\] enacted by section 5521 of the MJA and the new Article 146a \[10 U.S.C. 946a\] enacted by section 5522 of the MJA shall take effect on the day after the report for fiscal year 2017 required by Article 146(c) of the UCMJ (as in effect before the MJA's amendments) is submitted in accordance with Article 146(c)(1), but in no event later than December 1, 2018.
 
-Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, theSecretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
+Sec. 12. In accordance with Article 33 of the UCMJ \[10 U.S.C. 833\], as amended by section 5204 of the MJA, the Secretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ \[10 U.S.C. 830, 834\]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

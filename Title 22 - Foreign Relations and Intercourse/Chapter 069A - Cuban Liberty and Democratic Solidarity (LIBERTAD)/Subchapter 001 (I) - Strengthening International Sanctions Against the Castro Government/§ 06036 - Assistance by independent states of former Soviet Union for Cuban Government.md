@@ -16,6 +16,8 @@ Not later than 90 days after March 12, 1996, the President shall submit to the a
 
 (Pub. L. 104–114, title I, §106, Mar. 12, 1996, 110 Stat. 795.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 106 of Pub. L. 104–114. Subsecs. (b), (c), and (d)(2) of section 106 of Pub. L. 104–114 amended sections 2295a and 2295b of this title.

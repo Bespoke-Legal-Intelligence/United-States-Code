@@ -84,7 +84,7 @@ Availability of Excess Capacities to Private-sector Partners.—Capacities of a 
 
 &emsp;&emsp;&emsp;(i) any claim for damages or injury to any person or property arising out of the use of the capabilities, except under the circumstances described in section 2563(c)(3) of this title; and
 
-&emsp;&emsp;&emsp;(ii) any liability or claim for damages or injury to any person or property arisingout of a decision by the Secretary to suspend or terminate that use of capabilities during a war or national emergency.
+&emsp;&emsp;&emsp;(ii) any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary to suspend or terminate that use of capabilities during a war or national emergency.
 
 (f)
 
@@ -108,6 +108,10 @@ Definitions.—In this section:
 
 (Added Pub. L. 114–92, div. A, title II, §211(a), Nov. 25, 2015, 129 Stat. 764; amended Pub. L. 115–232, div. A, title II, §231, Aug. 13, 2018, 132 Stat. 1690; Pub. L. 116–92, div. A, title XVII, §1731(a)(45), Dec. 20, 2019, 133 Stat. 1814.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4245, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 307 of this title, as added by section 1844(a) of Pub. L. 116–283, inserted after section 4145, and redesignated as section 4146 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Prior Provisions
 
 A prior section 2368, added Pub. L. 100–456, div. A, title VIII, §823(a)(1), Sept. 29, 1988, 102 Stat. 2018; amended Pub. L. 101–189, div. A, title VIII, §841(c)(1), Nov. 29, 1989, 103 Stat. 1514; Pub. L. 102–25, title VII, §701(g)(1), Apr. 6, 1991, 105 Stat. 115, which authorized studies in fields of research and development essential to development of critical technologies, was repealed by Pub. L. 102–190, div. A, title VIII, §821(c)(1), Dec. 5, 1991, 105 Stat. 1431.
@@ -117,4 +121,8 @@ A prior section 2368, added Pub. L. 100–456, div. A, title VIII, §823(a)(1), 
 <b>2019</b>—Subsec. (f)(1). Pub. L. 116–92 substituted "transaction" for "transition".
 
 <b>2018</b>—Subsecs. (f) to (h). Pub. L. 115–232 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

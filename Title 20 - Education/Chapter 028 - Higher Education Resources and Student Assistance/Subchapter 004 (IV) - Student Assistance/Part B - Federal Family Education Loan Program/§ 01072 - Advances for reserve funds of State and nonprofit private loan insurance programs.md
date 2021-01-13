@@ -4,7 +4,7 @@
 
 #### (1) Purpose; eligible recipients
 
-&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (withwhich he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
+&emsp;From sums appropriated pursuant to paragraphs (3) and (4)(A) of section 1071(b) of this title, the Secretary is authorized to make advances to any State with which the Secretary has made an agreement pursuant to section 1078(b) of this title for the purpose of helping to establish or strengthen the reserve fund of the student loan insurance program covered by that agreement. If for any fiscal year a State does not have a student loan insurance program covered by an agreement made pursuant to section 1078(b) of this title, and the Secretary determines after consultation with the chief executive officer of that State that there is no reasonable likelihood that the State will have such a student loan insurance program for such year, the Secretary may make advances for such year for the same purpose to one or more nonprofit private institutions or organizations with which the Secretary has made an agreement pursuant to section 1078(b) of this title in order to enable students in the State to participate in a program of student loan insurance covered by such an agreement. The Secretary may make advances under this subsection both to a State program (with which he has such an agreement) and to one or more nonprofit private institutions or organizations (with which he has such an agreement) in that State if he determines that such advances are necessary in order that students in each eligible institution have access through such institution to a student loan insurance program which meets the requirements of section 1078(b)(1) of this title.
 
 #### (2) Matching requirement
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) For the purpose of subparagraph (B), the unspent balance of the advances made to a State pursuant to subsection (a) shall be that portion of the balance of the State's reserve fund (remaining at the time of the State's first request for an advance pursuant to this subsection) which bears the same ratio to such balance as the Federal advances made and not returned by such State, pursuant to subsection (a), bears to the total of all past contributions to such reserve funds from all sources (other than interest on investment of any portion of the reserve fund) contributed since the date such State executed an agreement pursuant to section 1078(b) of this title.
 
-&emsp;(D) If the sums appropriated for any fiscal year for paying the amounts determined undersubparagraphs (A) and (B) are not sufficient to pay such amounts in full, then such amounts shall be reduced—
+&emsp;(D) If the sums appropriated for any fiscal year for paying the amounts determined under subparagraphs (A) and (B) are not sufficient to pay such amounts in full, then such amounts shall be reduced—
 
 &emsp;&emsp;(i) by ratably reducing that portion of the amount allocated to each State which exceeds $50,000; and
 
@@ -180,7 +180,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;The Secretary shall require each guaranty agency to return reserve funds under paragraph (1) based on the agency's required share of recalled reserve funds held by guaranty agencies as of September 30, 1996. For purposes of this paragraph, a guaranty agency's required share of recalled reserve funds shall be determined as follows:
 
-&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing (i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflecting later accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
+&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing (i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflectinglater accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
 
 &emsp;&emsp;(B) If the reserve ratio of any guaranty agency as computed under subparagraph (A) exceeds 2.0 percent, the agency's required share shall include so much of the amounts held in the agency's reserve funds as exceed a reserve ratio of 2.0 percent.
 
@@ -320,7 +320,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (4) Offset of required shares
 
-&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of the amount required under this subsection or subsection (h), the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
+&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of theamount required under this subsection or subsection (h), the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
 
 #### (5) Definition of reserve funds
 

@@ -2,7 +2,7 @@
 
 \[(a) Repealed. Pub. L. 105–362, title XV, §1501(a), Nov. 10, 1998, 112 Stat. 3294.\]
 
-(b) This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.
+(b) This chapter does not prevent a Government pension plan from using the services of anenrolled actuary employed by an agency administering the plan.
 
 (c) The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.
 
@@ -30,11 +30,15 @@ In subsection (a), before clause (1), the words "Notwithstanding any other provi
 
 In subsection (b), the words "This chapter does not prevent" are substituted for "Nothing in this chapter shall preclude" for clarity. The words "or agencies" are omitted as unnecessary because of 1:1.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–362 struck out subsec. (a) which required Government pension plans to be subject to 29 U.S.C. 1023, except for officers or employees of the Central Intelligence Agency unless the President specifically approves application of the requirements of section 1023 in writing for such officers and employees.
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–66 added subsec. (c).
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12177. Delegation of Functions to Director of Office of Management and Budget and Secretary of the Treasury
 

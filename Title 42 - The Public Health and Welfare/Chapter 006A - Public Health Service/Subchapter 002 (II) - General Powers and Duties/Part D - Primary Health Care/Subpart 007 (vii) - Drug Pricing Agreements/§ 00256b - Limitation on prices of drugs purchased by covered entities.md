@@ -28,7 +28,7 @@
 
 #### (3) Drugs provided under State medicaid plans
 
-&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment ismade by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;Drugs described in this paragraph are drugs purchased by the entity for which payment is made by the State under the State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (4) "Covered entity" defined
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public or private non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate share adjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
+&emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate shareadjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
 
 &emsp;&emsp;&emsp;(iii) does not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement.
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) appropriate credits and refunds are issued to covered entities if such discounts or rebates have the effect of lowering the applicable ceiling price for the relevant quarter for the drugs involved.
 
-&emsp;&emsp;&emsp;(v) Selective auditing of manufacturers and wholesalers to ensure the integrity of the drug discount program under this section.
+&emsp;&emsp;&emsp;(v) Selective auditing of manufacturers and wholesalers to ensure the integrity ofthe drug discount program under this section.
 
 &emsp;&emsp;&emsp;(vi) The imposition of sanctions in the form of civil monetary penalties, which—
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(v) The imposition of sanctions, in appropriate cases as determined by the Secretary, additional to those to which covered entities are subject under subsection (a)(5)(D), through one or more of the following actions:
 
-&emsp;&emsp;&emsp;&emsp;(I) Where a covered entity knowingly and intentionally violates subsection (a)(5)(B), the covered entity shall be required to pay a monetary penalty to amanufacturer or manufacturers in the form of interest on sums for which the covered entity is found liable under subsection (a)(5)(D), such interest to be compounded monthly and equal to the current short term interest rate as determined by the Federal Reserve for the time period for which the covered entity is liable.
+&emsp;&emsp;&emsp;&emsp;(I) Where a covered entity knowingly and intentionally violates subsection (a)(5)(B), the covered entity shall be required to pay a monetary penalty to a manufacturer or manufacturers in the form of interest on sums for which the covered entity is found liable under subsection (a)(5)(D), such interest to be compounded monthly and equal to the current short term interest rate as determined by the Federal Reserve for the time period for which the covered entity is liable.
 
 &emsp;&emsp;&emsp;&emsp;(II) Where the Secretary determines a violation of subsection (a)(5)(B) was systematic and egregious as well as knowing and intentional, removing the covered entity from the drug discount program under this section and disqualifying the entity from re-entry into such program for a reasonable period of time to be determined by the Secretary.
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(ii) establish such deadlines and procedures as may be necessary to ensure that claims shall be resolved fairly, efficiently, and expeditiously;
 
-&emsp;&emsp;&emsp;(iii) establish procedures by which a covered entity may discover and obtain such information and documents from manufacturers and third parties as may be relevant to demonstrate the merits of a claim that charges for a manufacturer's product have exceeded the applicable ceiling price under this section, and may submit such documents and information to the administrative official or body responsible for adjudicating such claim;
+&emsp;&emsp;&emsp;(iii) establish procedures by which a covered entity may discover and obtain such information and documents from manufacturers and third parties as may be relevant to demonstrate the merits of a claim thatcharges for a manufacturer's product have exceeded the applicable ceiling price under this section, and may submit such documents and information to the administrative official or body responsible for adjudicating such claim;
 
 &emsp;&emsp;&emsp;(iv) require that a manufacturer conduct an audit of a covered entity pursuant to subsection (a)(5)(C) as a prerequisite to initiating administrative dispute resolution proceedings against a covered entity;
 
@@ -386,7 +386,31 @@ In general.—The amendments made by this section \[amending this section\] and 
 
 "(2)
 
-Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
+Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall betaken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
+
+#### Pricing of Diagnostic Testing
+
+Pub. L. 116–136, div. A, title III, §3202, Mar. 27, 2020, 134 Stat. 367, provided that:
+
+"(a)
+
+Reimbursement Rates.—A group health plan or a health insurance issuer providing coverage of items and services described in section 6001(a) of division F of the Families First Coronavirus Response Act (Public Law 116–127) \[42 U.S.C. 1320b–5 note\] with respect to an enrollee shall reimburse the provider of the diagnostic testing as follows:
+
+&emsp;"(1) If the health plan or issuer has a negotiated rate with such provider in effect before the public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), such negotiated rate shall apply throughout the period of such declaration.
+
+&emsp;"(2) If the health plan or issuer does not have a negotiated rate with such provider, such plan or issuer shall reimburse the provider in an amount that equals the cash price for such service as listed by the provider on a public internet website, or such plan or issuer may negotiate a rate with such provider for less than such cash price.
+
+"(b)
+
+Requirement to Publicize Cash Price for Diagnostic Testing for COVID–19.—
+
+&emsp;"(1)
+
+In general.—During the emergency period declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), each provider of a diagnostic test for COVID–19 shall make public the cash price for such test on a public internet website of such provider.
+
+&emsp;"(2)
+
+Civil monetary penalties.—The Secretary of Health and Human Services may impose a civil monetary penalty on any provider of a diagnostic test for COVID–19 that is not in compliance with paragraph (1) and has not completed a corrective action plan to comply with the requirements of such paragraph, in an amount not to exceed $300 per day that the violation is ongoing."
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 

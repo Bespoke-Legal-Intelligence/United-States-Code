@@ -50,6 +50,8 @@ Pub. L. 98–237, §19(b), Mar. 20, 1984; added Pub. L. 105–258, title I, §11
 
 In subsection (b), in paragraphs (2) and (3), the words "described in section 1702(17) of this Appendix" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–282 inserted "advertise, hold oneself out, or" after "may not" in introductory provisions.

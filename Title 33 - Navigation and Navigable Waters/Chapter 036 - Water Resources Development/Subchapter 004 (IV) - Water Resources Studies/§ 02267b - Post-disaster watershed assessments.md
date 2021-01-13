@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may carry out projects identified under a watershed assessment under subsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
+&emsp;The Secretary may carry out projects identified under a watershed assessment undersubsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
 
 &emsp;&emsp;(A) Section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s).
 
@@ -64,6 +64,8 @@ A watershed assessment under subsection (a) shall be initiated not later than 2 
 
 (Pub. L. 113–121, title III, §3025, June 10, 2014, 128 Stat. 1303; Pub. L. 115–270, title I, §1139, Oct. 23, 2018, 132 Stat. 3784.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Flood Control Act of 1948, referred to in subsecs. (b)(1)(A) and (c), is act June 30, 1948, ch. 771, title II, 62 Stat. 1175. For complete classification of this Act to the Code, see Tables.
@@ -85,6 +87,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–270 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

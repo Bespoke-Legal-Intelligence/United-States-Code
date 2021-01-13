@@ -144,7 +144,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;Paragraph (1) shall not apply with respect to taxes paid or accrued to a country if the President—
 
-&emsp;&emsp;&emsp;(i) determines that a waiver of the application of such paragraph is in the national interest of the United States and will expand trade and investment opportunities for United States companies in such country; and
+&emsp;&emsp;&emsp;(i) determines that a waiver of the application of such paragraph is in the national interest of the United States and will expand trade and investment opportunitiesfor United States companies in such country; and
 
 &emsp;&emsp;&emsp;(ii) reports such waiver under subparagraph (B).
 
@@ -372,7 +372,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29,1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396; Pub. L. 115–97, title I, §14301(c)(7)–(14), Dec. 22, 2017, 131 Stat. 2222, 2223; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xii), Mar. 23, 2018, 132 Stat. 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396; Pub. L. 115–97, title I, §14301(c)(7)–(14), Dec. 22, 2017, 131 Stat. 2222, 2223; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xii), Mar. 23, 2018, 132 Stat. 1208.)
 
 #### References in Text
 
@@ -486,7 +486,7 @@ Subsecs. (h), (i). Pub. L. 98–369, §801(d)(1), added subsec. (h) and redesign
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 substituted "(relating to corporate minimum tax)" for "(relating to minimum tax for tax preferences)" after "section 56", and inserted "section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts)," after "owner employees)".
 
-<b>1978</b>—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax of a foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
+<b>1978</b>—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax ofa foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
 
 Subsec. (g)(2). Pub. L. 95–600, §701(u)(1)(B), inserted provision relating to application of section 957(c) of this title.
 
@@ -536,7 +536,7 @@ Pub. L. 111–226, title II, §212(b), Aug. 10, 2010, 124 Stat. 2398, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to covered asset acquisitions (as defined in section 901(m)(2) of the Internal Revenue Code of 1986, as added by this section) after December 31, 2010.
 
 "(2)
 
@@ -620,7 +620,7 @@ Amendment by section 265(b)(2)(A)(iv) of Pub. L. 97–248 applicable to distribu
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(u)(1)(C), Nov. 6, 1978, 92 Stat. 2913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply todistributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
+Pub. L. 95–600, title VII, §701(u)(1)(C), Nov. 6, 1978, 92 Stat. 2913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply as if included in section 901(g) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by section 1051(d)(2) of the Tax Reform Act of 1976 \[section 1051(d)(2) of Pub. L. 94–455\]. The amendments made by subparagraph (B) \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 6, 1978\] in taxable years ending after such date."
 
 #### Effective Date of 1976 Amendment
 
@@ -648,7 +648,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 301(b)(9) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by section 301(b)(9) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, seesection 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 Pub. L. 91–172, title V, §506(c), Dec. 30, 1969, 83 Stat. 635, provided that: "The amendments made by this section \[amending this section and section 904 of this title\] shall apply with respect to taxable years beginning after December 31, 1969."
 
@@ -684,7 +684,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

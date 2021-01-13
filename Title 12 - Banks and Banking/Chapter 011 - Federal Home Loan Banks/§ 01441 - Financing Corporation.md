@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay shall be determined by the Director by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5)of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Director required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -154,7 +154,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (5) Pro rata distribution of amounts required to be invested in excess of $1,000,000,000
 
-&emsp;With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Director may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal HomeLoan Bank (or any successor to such bank) shall invest shall be determined by the Director by multiplying such excess amount by the percentage arrived at by dividing—
+&emsp;With respect to any amount in excess of the $1,000,000,000 amount referred to in paragraph (4) which the Director may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Director by multiplying such excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;(A) the sum of the total assets (as of the most recent December 31) held by all Savings Association Insurance Fund members which are members of such bank; by
 
@@ -294,13 +294,13 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) In general
 
-&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by the Director, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
+&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by theDirector, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
 
 &emsp;&emsp;(A) direct obligations of the United States;
 
 &emsp;&emsp;(B) obligations, participations, or other instruments of, or issued by, the Federal National Mortgage Association or the Government National Mortgage Association;
 
-&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposedof by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
+&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposed of by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
 
 &emsp;&emsp;(D) any other security in which it is lawful for fiduciary and trust funds to be invested under the laws of any State.
 
@@ -378,7 +378,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (j) Regulations
 
-The Director may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
+The Director may prescribe such regulations as may be necessary to carry out the provisionsof this section, including regulations defining terms used in this section.
 
 #### (k) Definitions
 
@@ -397,6 +397,8 @@ For purposes of this section, the following definitions shall apply:
 &emsp;The term "insured depository institution" has the same meaning as in section 1813 of this title <sup>5</sup>
 
 (July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, §9(d)(2), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title II, §1204(6), (8), (12), July 30, 2008, 122 Stat. 2786.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -548,6 +550,8 @@ Subsec. (k)(3), (4). Pub. L. 101–73, §512(10), (17)(B), added par. (4) and re
 
 Subsec. (l). Pub. L. 101–73, §713, redesignated subsec. (l) as (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
@@ -570,7 +574,7 @@ Termination of certain assessment rates.—Subparagraph (A) of section 21(f)(2) 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, title XVI, §1618, Oct. 28, 1992, 106 Stat. 4097, provided that: "Except as otherwise provided by aspecific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\]."
+Pub. L. 102–550, title XVI, §1618, Oct. 28, 1992, 106 Stat. 4097, provided that: "Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\]."
 
 #### Effective Date of 1991 Amendment
 

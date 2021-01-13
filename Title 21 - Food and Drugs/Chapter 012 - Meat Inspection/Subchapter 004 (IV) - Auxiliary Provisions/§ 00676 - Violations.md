@@ -10,11 +10,15 @@ Nothing in this chapter shall be construed as requiring the Secretary to report 
 
 (Mar. 4, 1907, ch. 2907, title IV, §406, as added Pub. L. 90–201, §16, Dec. 15, 1967, 81 Stat. 599; amended Pub. L. 99–641, title IV, §403(c), Nov. 10, 1986, 100 Stat. 3570.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–641, §403(c)(1), temporarily inserted provisions which related to factors required to be considered by Secretary in determining whether public interest is served by written notice of warning. See Effective and Termination Dates of 1986 Amendment note below.
 
 Subsec. (c). Pub. L. 99–641, §403(c)(2), temporarily added subsec. (c). See Effective and Termination Dates of 1986 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1986 Amendment
 

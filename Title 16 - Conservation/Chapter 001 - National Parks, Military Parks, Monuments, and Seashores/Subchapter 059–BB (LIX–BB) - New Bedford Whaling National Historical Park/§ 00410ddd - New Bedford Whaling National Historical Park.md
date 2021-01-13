@@ -76,7 +76,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 #### (1) In general
 
-&emsp;The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4) <sup>2</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).<sup>2</sup>
+&emsp;The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a NationalPark Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4) <sup>2</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).<sup>2</sup>
 
 #### (2) Cooperative agreements
 

@@ -26,6 +26,8 @@ Preventive Maintenance.—A preventive maintenance activity shall be eligible fo
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–70, §21(d)(2), (e)(3), June 25, 1959, 73 Stat. 145, 146; Pub. L. 90–495, §26, Aug. 23, 1968, 82 Stat. 829; Pub. L. 95–599, title I, §124(d), Nov. 6, 1978, 92 Stat. 2705; Pub. L. 97–424, title I, §114, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §125(b)(2), Apr. 2, 1987, 101 Stat. 167; Pub. L. 104–59, title III, §309, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §1111(b)(1), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 112–141, div. A, title I, §1507, July 6, 2012, 126 Stat. 565.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §1507(2), added subsec. (a). Former subsec. (a) redesignated (b).
@@ -50,7 +52,7 @@ Subsec. (e). Pub. L. 112–141, §1507(1), redesignated subsec. (d) as (e).
 
 "(d) The Secretary in consultation with the State highway departments and interested and knowledgeable private organizations and individuals shall as soon as possible establish national bridge inspection standards in order to provide for the proper safety inspection of bridges. Such standards shall specify in detail the method by which inspections shall be conducted by the State highway departments, the maximum time lapse between inspections and the qualifications for those charged with the responsibility for carrying out such inspections. Each State shall be required to maintain written reports to be available to the Secretary pursuant to such inspections together with a notation of the action taken pursuant to the findings of such inspections. Each State shall be required to maintain a current inventory of all bridges.
 
-"(e) The Secretary shall establish in cooperation with the State highway departments a program designed to train appropriate employees of the Federal Government and the State governments to carry out bridge inspections. Such a program shall be revised from time to time in light of new or improved techniques. For the purposes of this section the Secretary may use funds made available pursuant to the provisions of section 104(a) and section 307(a) of this title."
+"(e) The Secretary shall establish in cooperation with the State highway departments a program designed totrain appropriate employees of the Federal Government and the State governments to carry out bridge inspections. Such a program shall be revised from time to time in light of new or improved techniques. For the purposes of this section the Secretary may use funds made available pursuant to the provisions of section 104(a) and section 307(a) of this title."
 
 <b>1983</b>—Subsec. (c). Pub. L. 97–424 substituted "State highway district, municipality, county, other political or administrative subdivision of the State, or the entire State in which such project is located, whichever the Secretary deems most appropriate," for "entire State" after "all types in the", and struck out exception for a situation where such project was subject to an agreement pursuant to subsection (b) of this section, in which case approval was to have been withheld only for secondary or urban projects in the county or municipality where such project is located.
 
@@ -61,6 +63,8 @@ Subsec. (e). Pub. L. 112–141, §1507(1), redesignated subsec. (d) as (e).
 <b>1959</b>—Subsec. (a). Pub. L. 86–70, §21(e)(3), substituted "It" for "Except as provided in subsection (d) of this section, it".
 
 Subsec. (d). Pub. L. 86–70, §21(d)(2), repealed subsec. (d) which related to expenditure of funds apportioned to the Territory of Alaska and contributed by the Territory for the maintenance of roads.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

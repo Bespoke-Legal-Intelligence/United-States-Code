@@ -20,9 +20,11 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 
 &emsp;(5) has made demonstrable progress in establishing an independent judiciary; and
 
-&emsp;(6) has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from suchcitizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
+&emsp;(6) has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
 
 (Pub. L. 104–114, title II, §206, Mar. 12, 1996, 110 Stat. 812.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

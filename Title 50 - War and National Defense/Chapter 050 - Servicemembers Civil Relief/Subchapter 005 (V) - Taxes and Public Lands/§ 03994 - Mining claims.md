@@ -6,7 +6,7 @@ The provisions of section 28 of title 30 specified in subsection (b) shall not a
 
 #### (b) Requirements
 
-The provisions in section 28 of title 30 that shall not apply under subsection (a) are those which require that on each mining claim located after May 10, 1872, and until a patent has been issued for such claim, not less than $100 worth of labor shall be performed or improvements made during each year.
+The provisions in section 28 of title 30 that shall not apply under subsection (a) are those which require that on each mining claim located after May 10, 1872, and until a patent has beenissued for such claim, not less than $100 worth of labor shall be performed or improvements made during each year.
 
 #### (c) Period of protection from forfeiture
 

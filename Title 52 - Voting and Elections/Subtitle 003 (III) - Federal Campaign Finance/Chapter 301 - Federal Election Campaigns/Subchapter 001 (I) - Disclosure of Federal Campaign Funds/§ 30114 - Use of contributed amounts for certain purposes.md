@@ -56,9 +56,9 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 #### (2) House candidates
 
-&emsp;Notwithstanding any other provision of this Act, in the case of a candidate for election for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, an authorized committee and a leadership PAC of the candidate may not make any expenditure for a flight on an aircraft unless—
+&emsp;Notwithstanding any other provision of this Act, in the case of a candidate for election for the office of Representative in, or Delegate or Resident Commissioner to, the Congress, an authorized committee and a leadership PAC ofthe candidate may not make any expenditure for a flight on an aircraft unless—
 
-&emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier orcommercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
+&emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
 
 &emsp;&emsp;(B) the aircraft is operated by an entity of the Federal government or the government of any State.
 
@@ -77,6 +77,8 @@ A contribution accepted by a candidate, and any other donation received by an in
 &emsp;In this subsection, the term "leadership PAC" has the meaning given such term in section 30104(i)(8)(B) of this title.
 
 (Pub. L. 92–225, title III, §313, as added Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95; amended Pub. L. 108–447, div. H, title V, §532, Dec. 8, 2004, 118 Stat. 3272; Pub. L. 110–81, title VI, §601(a), Sept. 14, 2007, 121 Stat. 774.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -99,6 +101,8 @@ Another prior section 313 of Pub. L. 92–225 was renumbered section 308, and is
 <b>2007</b>—Subsec. (c). Pub. L. 110–81 added subsec. (c).
 
 <b>2004</b>—Subsec. (a)(5), (6). Pub. L. 108–447, which directed the amendment of section 312a(a) of the Federal Election Campaign Act of 1971 by adding pars. (5) and (6), was executed by making the amendments to this section, which is section 313 of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

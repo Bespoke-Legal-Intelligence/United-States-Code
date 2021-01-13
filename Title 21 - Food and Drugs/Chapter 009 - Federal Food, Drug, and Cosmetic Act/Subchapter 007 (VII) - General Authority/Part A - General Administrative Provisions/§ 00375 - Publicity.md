@@ -10,9 +10,13 @@ The Secretary may also cause to be disseminated information regarding food, drug
 
 (June 25, 1938, ch. 675, §705, 52 Stat. 1057; Pub. L. 111–31, div. A, title I, §103(j), June 22, 2009, 123 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–31 inserted "tobacco products," after "devices,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 3310 contains the requirement for maintaining inspection records.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out as a note under section 3101 of this title.

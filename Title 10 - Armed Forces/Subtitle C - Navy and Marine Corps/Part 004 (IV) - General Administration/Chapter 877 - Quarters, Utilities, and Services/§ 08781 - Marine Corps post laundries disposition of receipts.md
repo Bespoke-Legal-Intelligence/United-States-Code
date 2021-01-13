@@ -24,7 +24,7 @@ In subsection (a) the words "Marine Corps" are inserted before the words "post l
 
 #### Prior Provisions
 
-A prior section 8781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, authorized Secretary of Air Force to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Air Force to determine whether he should be required, because of substandard performance of duty, to show cause for hisretention on active list, prior to repeal by Pub. L. 96–513, title II, §213, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 1181(a) of this title.
+A prior section 8781, acts Aug. 10, 1956, ch. 1041, 70A Stat. 542; July 12, 1960, Pub. L. 86–616, §7(a), 74 Stat. 391, authorized Secretary of Air Force to convene at any time a board of officers to review record of any commissioned officer on active list of Regular Air Force to determine whether he should be required, because of substandard performance of duty, to show cause for his retention on active list, prior to repeal by Pub. L. 96–513, title II, §213, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 1181(a) of this title.
 
 #### Amendments
 

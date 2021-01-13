@@ -12,6 +12,8 @@ Words "upon conviction thereof" were omitted as surplusage since punishment can 
 
 Minor changes were made in phraseology and translations.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

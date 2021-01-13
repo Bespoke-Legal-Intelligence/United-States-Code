@@ -26,3 +26,5 @@
 - [&sect; 03334e - Enhanced procurement authority to manage supply chain risk](%C2%A7%2003334e%20-%20Enhanced%20procurement%20authority%20to%20manage%20supply%20chain%20risk.md)
 - [&sect; 03334f - Congressional notification of designation of covered intelligence officer as persona non grata](%C2%A7%2003334f%20-%20Congressional%20notification%20of%20designation%20of%20covered%20intelligence%20officer%20as%20persona%20non%20grata.md)
 - [&sect; 03334g - Reports on intelligence community loan repayment and related programs](%C2%A7%2003334g%20-%20Reports%20on%20intelligence%20community%20loan%20repayment%20and%20related%20programs.md)
+- [&sect; 03334h - Data collection on attrition in intelligence community](%C2%A7%2003334h%20-%20Data%20collection%20on%20attrition%20in%20intelligence%20community.md)
+- [&sect; 03334i - Seedling investment in next-generation microelectronics in support of artificial intelligence](%C2%A7%2003334i%20-%20Seedling%20investment%20in%20next-generation%20microelectronics%20in%20support%20of%20artificial%20intelligence.md)

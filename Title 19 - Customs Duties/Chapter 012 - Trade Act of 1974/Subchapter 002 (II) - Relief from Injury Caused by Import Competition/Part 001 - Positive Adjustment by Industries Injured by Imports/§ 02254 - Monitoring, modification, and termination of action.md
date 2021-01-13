@@ -4,7 +4,7 @@
 
 (1) So long as any action taken under section 2253 of this title remains in effect, the Commission shall monitor developments with respect to the domestic industry, including the progress and specific efforts made by workers and firms in the domestic industry to make a positive adjustment to import competition.
 
-(2) If the initial period during which the action taken under section 2253 of this title is in effect exceeds 3 years, or if an extension of such action exceeds 3 years, the Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than the date that is the mid-point of the initial period, and of each such extension, during which the action is in effect.
+(2) If the initial period during which the action taken under section 2253 of this title is in effectexceeds 3 years, or if an extension of such action exceeds 3 years, the Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than the date that is the mid-point of the initial period, and of each such extension, during which the action is in effect.
 
 (3) In the course of preparing each report under paragraph (2), the Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 
@@ -42,7 +42,7 @@
 
 (2) During the course of the evaluation conducted under paragraph (1), the Commission shall, after reasonable public notice, hold a hearing on the effectiveness of the action. All interested persons shall have the opportunity to attend such hearing and to present evidence or testimony at such hearing.
 
-(3) A report on the evaluation made under paragraph (1) and the hearings held under paragraph (2) shall be submitted by the Commission to the President and to the Congress by no laterthan the 180th day after the day on which the actions taken under section 2253 of this title terminated.
+(3) A report on the evaluation made under paragraph (1) and the hearings held under paragraph (2) shall be submitted by the Commission to the President and to the Congress by no later than the 180th day after the day on which the actions taken under section 2253 of this title terminated.
 
 #### (e) Other provisions
 

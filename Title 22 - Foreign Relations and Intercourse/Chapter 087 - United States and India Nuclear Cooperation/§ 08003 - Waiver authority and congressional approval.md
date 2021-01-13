@@ -50,7 +50,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;(A) A summary of the plan provided by India to the United States and the IAEA to separate India's civil and military nuclear facilities, materials, and programs, and the declaration made by India to the IAEA identifying India's civil facilities to be placed under IAEA safeguards, including an analysis of the credibility of such plan and declaration, together with copies of the plan and declaration.
 
-&emsp;&emsp;(B) A summary of the agreement that has been entered into between India and the IAEA requiring the application of safeguards in accordance with IAEA practices to India's civil nuclear facilities as declared in the plan described in subparagraph (A), together with a copy of the agreement, and a description of the progress toward its full implementation.
+&emsp;&emsp;(B) A summary of the agreement that has been entered into between India and the IAEA requiring the application of safeguardsin accordance with IAEA practices to India's civil nuclear facilities as declared in the plan described in subparagraph (A), together with a copy of the agreement, and a description of the progress toward its full implementation.
 
 &emsp;&emsp;(C) A summary of the progress made toward conclusion and implementation of an Additional Protocol between India and the IAEA, including a description of the scope of such Additional Protocol.
 
@@ -98,7 +98,7 @@ The determination referred to in subsection (a) is a determination by the Presid
 
 &emsp;&emsp;&emsp;(ii) at the time of the transfer, either the Government of India did not own, control, or direct the Indian person that made the transfer or the Indian person that made the transfer is a natural person who acted without the knowledge of any entity described in subparagraph (B) or (C) of section 8008(5) of this title; and
 
-&emsp;&emsp;&emsp;(iii) the President certifies to the appropriate congressional committees that the Government of India has taken or is taking appropriate judicial or other enforcement actions against the Indian person with respect to such transfer.
+&emsp;&emsp;&emsp;(iii) the President certifies to the appropriate congressional committees that theGovernment of India has taken or is taking appropriate judicial or other enforcement actions against the Indian person with respect to such transfer.
 
 #### (4) Exports, reexports, transfers, and retransfers to India related to enrichment, reprocessing, and heavy water production
 
@@ -278,7 +278,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(II) nuclear explosive devices;
 
-&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that canbe attributed to India's declared civil reactors;
+&emsp;&emsp;(I) an estimate of the amount of electricity India's nuclear reactors produced for civil purposes during the previous year and the proportion of such production that can be attributed to India's declared civil reactors;
 
 &emsp;&emsp;(J) an analysis as to whether imported uranium has affected the rate of production in India of nuclear explosive devices;
 
@@ -322,7 +322,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 &emsp;&emsp;&emsp;&emsp;(I) any instances in which the United States or India requested consultations arising from concerns over compliance with the provisions of Article 7(1) of the Agreement, and the results of such consultations; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters were resolved by the end of the reporting period; and
+&emsp;&emsp;&emsp;&emsp;(II) any matters not otherwise identified in this report that have become the subject of consultations pursuant to Article 13(2) of the Agreement, and a statement as to whether such matters wereresolved by the end of the reporting period; and
 
 &emsp;&emsp;&emsp;(iv) a statement as to whether—
 
@@ -346,6 +346,8 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 (Pub. L. 109–401, title I, §104, Dec. 18, 2006, 120 Stat. 2729; Pub. L. 110–369, title I, §§101(c), 105, Oct. 8, 2008, 122 Stat. 4029, 4030.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original "this title", meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
@@ -365,6 +367,8 @@ Section is comprised of section 104 of Pub. L. 109–401. Subsec. (e) of section
 Subsec. (g)(1)(B) to (E). Pub. L. 110–369, §105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
 Subsec. (g)(2)(M). Pub. L. 110–369, §105(b), added subpar. (M).
+
+#### <b>Executive Documents</b>
 
 #### Proposed Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy
 

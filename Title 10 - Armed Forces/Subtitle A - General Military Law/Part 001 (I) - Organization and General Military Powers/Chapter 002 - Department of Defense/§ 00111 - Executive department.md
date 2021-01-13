@@ -72,13 +72,57 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Modernization of Process Used by the Department of Defense To Identify, Task, and Manage Congressional Reporting Requirements
+
+Pub. L. 116–283, div. A, title IX, §908, Jan. 1, 2021, 134 Stat. 3799, provided that:
+
+"(a)
+
+Ongoing Analysis Required.—The Assistant Secretary of Defense for Legislative Affairs shall conduct on an ongoing basis an analysis of the process used by the Department of Defense to identify reports to Congress required by annual national defense authorization Acts, assign responsibility for preparation of such reports, and manage the completion and delivery of such reports to Congress for the purpose of identifying mechanisms to optimize and otherwise modernize the process.
+
+"(b)
+
+Consultation.—The Assistant Secretary shall conduct the analysis required by subsection (a) withthe assistance of and in consultation with the Chief Information Officer of the Department of Defense.
+
+"(c)
+
+Elements.—The analysis required by subsection (a) shall include the following:
+
+&emsp;"(1) A business process reengineering of the process described in subsection (a).
+
+&emsp;"(2) An assessment of applicable commercially available analytics tools, technologies, and services in connection with such business process reengineering.
+
+&emsp;"(3) Such other actions as the Assistant Secretary considers appropriate for purposes of the analysis."
+
+#### Authority of President To Extend Military Leader Appointments
+
+Pub. L. 116–136, div. B, title III, §13007, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) The President may extend the appointment of the Chief of Army Reserve as prescribed in section 7038(c) of title 10, United States Code, for the incumbent in that position as of the date of the enactment of this Act \[Mar. 27, 2020\] until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 7038(c).
+
+"(b) The President may extend the appointment of the Chief of Navy Reserve as prescribed in section 8083(c) of title 10, United States Code, for the incumbent in that position as of the date of the enactment of this Act until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 8083(c).
+
+"(c) The President may extend the appointment of the Chief of Staff of the Air Force prescribed in section 9033(a)(1) of title 10, United States Code, for the incumbent in that position as of the date of the enactment of this Act until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 9033(a)(1).
+
+"(d) The President may extend the appointment of the Chief of Space Operations, as prescribed in section 9082(a)(2) of title 10, United States Code, for the incumbent in that position as of the date of the enactment of this Act until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 9082(a)(2).
+
+"(e) The President may extend the appointment of the Chief of the National Guard Bureau as prescribed in section 10502(b) of title 10, United States Code, for the incumbent in that position as of the date of the enactment of this Act until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 10502(b).
+
+"(f) The President may extend the appointment of Director, Army National Guard and Director, Air National Guard as prescribed in section 10506(a)(3)(D) of title 10, United States Code, for the incumbent in such position as of the date of the enactment of this Act until the date of the appointment of the successor to such incumbent, notwithstanding any limitation otherwise imposed on such term by such section 10506(a)(3)(D).
+
+"(g) Notwithstanding paragraph (4) of section 10505(a) of title 10, United States Code, the Secretary of Defense may waive the limitations in paragraphs (2) and (3) of that section for a period of not more than 270 days.
+
+"(h)(1) The President may delegate the exercise of the authorities in subsections (a) through (f) to the Secretary of Defense.
+
+"(2) The Secretary of Defense may not redelegate the exercise of any authority delegated to the Secretary pursuant to paragraph (1), and may not delegate the exercise of the authority in subsection (g)."
+
 #### Termination of Reporting Requirements
 
 Pub. L. 116–92, div. A, title XVII, §1702(a), (b), Dec. 20, 2019, 133 Stat. 1796, provided that:
 
 "(a)
 
-Termination.—Effective on December 30, 2021, each report described in subsection (b) that is still required to be submitted to Congress as of such effectivedate shall no longer be required to be submitted to Congress.
+Termination.—Effective on December 30, 2021, each report described in subsection (b) that is still required to be submitted to Congress as of such effective date shall no longer be required to be submitted to Congress.
 
 "(b)
 
@@ -115,6 +159,16 @@ Requirement.—Except as expressly otherwise provided in the provision of law re
 "(2)
 
 Briefing.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the actions to be taken to ensure compliance with the requirement in paragraph (1), including on any impediments to compliance with the requirement."
+
+Pub. L. 115–91, div. A, title X, §1051(x), Dec. 12, 2017, 131 Stat. 1567, provided that: "Effective on December 31, 2021, the reports required under the following provisions of title 10, United States Code, shall no longer be required to be submitted to Congress:
+
+&emsp;"(1) Section 113(c)(1).
+
+&emsp;"(2) Section 113(e).
+
+&emsp;"(3) Section 116.
+
+&emsp;"(4) Section 2432."
 
 #### Exemption to Report Termination Requirements
 
@@ -186,7 +240,7 @@ Actions in Support of Strategy.—
 
 &emsp;"(1)
 
-Study.—The Department of Defense shall conduct a study of the following in order to determine how best to implement effective cross-functionalteams in the Department to achieve the strategic objectives of the Secretary of Defense:
+Study.—The Department of Defense shall conduct a study of the following in order to determine how best to implement effective cross-functional teams in the Department to achieve the strategic objectives of the Secretary of Defense:
 
 &emsp;&emsp;"(A) Lessons learned, as reflected in academic literature, business and management school case studies, and the work of leading management consultant firms, on the successful and failed application of cross-functional teams in the private sector and government, and on the cultural factors necessary to support effective cross-functional teams.
 
@@ -280,7 +334,7 @@ Directive on Collaborative Culture and Behavior.—The guidance issued by the Se
 
 &emsp;"(1) articulate the shared purposes, values, and principles for the operation of the Office of the Secretary of Defense that are required to promote a team-oriented, collaborative, results-driven culture within the Office to support the primary objectives of the Department of Defense;
 
-&emsp;"(2) ensure that collaboration across functional and organizational boundaries is an important factor in the performance review of leaders of cross-functionalteams established pursuant to subsection (c), members of teams, and other appropriate leaders of the Department; and
+&emsp;"(2) ensure that collaboration across functional and organizational boundaries is an important factor in the performance review of leaders of cross-functional teams established pursuant to subsection (c), members of teams, and other appropriate leaders of the Department; and
 
 &emsp;"(3) identify key practices that senior leaders of the Department should follow with regard to leadership, organizational practice, collaboration, and the functioning of cross-functional teams, and the types of personnel behavior that senior leaders should encourage and discourage.
 
@@ -668,7 +722,7 @@ Plan for Achievement of Cost Savings.—
 
 &emsp;"(1)
 
-In general.—Commencing not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
+In general.—Commencing not later than 120 days after the date of the enactment of this Act \[Nov.25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
 
 &emsp;"(2)
 
@@ -1018,7 +1072,7 @@ Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623,
 
 #### Commission on Roles and Missions of Armed Forces
 
-Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
+Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than30 days after submission of comments by the Secretary of Defense.
 
 #### Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense
 
@@ -1090,7 +1144,7 @@ Pub. L. 96–107, title VIII, §808, Nov. 9, 1979, 93 Stat. 814, which directed 
 
 #### Defense Manpower Commission
 
-Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, established the Commission; provided for its composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
+Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, established the Commission; provided forits composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
 
 #### Air Force Reserve and Air National Guard of United States; Study and Investigation of Relative Status; Advantages and Disadvantages of Alternatives; Modernization and Manpower Needs; Report to President and Congress
 
@@ -1138,7 +1192,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 6. Miscellaneous Provisions
 
-(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defense of any of the records, property, and personnel affectedby this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
+(a) The Secretary of Defense may from time to time effect such transfers within the Department of Defense of any of the records, property, and personnel affected by this reorganization plan, and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan.
 
 (b) Nothing herein shall affect the compensation of the Chairman of the Military Liaison Committee (63 Stat. 762).
 

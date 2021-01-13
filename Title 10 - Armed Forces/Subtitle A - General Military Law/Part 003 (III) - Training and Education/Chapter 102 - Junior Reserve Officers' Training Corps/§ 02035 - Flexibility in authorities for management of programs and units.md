@@ -22,7 +22,7 @@ Elements.—The initiatives undertaken pursuant to this subsection may provide f
 
 &emsp;&emsp;(C) Authority for Junior Reserve Officers' Training Corps instructors to undertake school duties, in addition to Junior Reserve Officers' Training Corps duties, at small schools.
 
-&emsp;&emsp;(D) Authority for the payment of instructor compensation for a limited number ofJunior Reserve Officers' Training Corps instructors on a 10-month per year basis rather than a 12-month per year basis.
+&emsp;&emsp;(D) Authority for the payment of instructor compensation for a limited number of Junior Reserve Officers' Training Corps instructors on a 10-month per year basis rather than a 12-month per year basis.
 
 &emsp;&emsp;(E) Such other actions as the Secretaries of the military departments consider appropriate.
 

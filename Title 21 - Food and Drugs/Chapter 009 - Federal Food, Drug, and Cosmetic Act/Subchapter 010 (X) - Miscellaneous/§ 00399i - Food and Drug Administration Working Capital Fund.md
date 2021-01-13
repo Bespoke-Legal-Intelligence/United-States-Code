@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established in the Treasury of the United States a Working Capital Fund (the Fund) to be administered by the Food and Drug Administration (FDA), without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocks may be maintained to meet, in whole or in part, the needs of the FDA and requisitions of other Government Offices, and (2) such other services as the Commissioner of the FDA, subject to review by the Secretary of Health and Human Services, determines may be performed more advantageously as central services. The Fund shall be reimbursed from applicable discretionary resources, notwithstanding any otherwise applicable purpose limitations, available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment, information technology, and other expenses. Charges for equipment and information technology shall include costs associated with maintenance, repair, and depreciation (including improvement and replacement).
+There is hereby established in the Treasury of the United States a Working Capital Fund (the Fund) to be administered by the Food and Drug Administration (FDA), without fiscal year limitation, for the payment of salaries, travel, and other expenses necessary to the maintenance and operation of (1) a supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, materials, equipment, and blank forms, for which stocksmay be maintained to meet, in whole or in part, the needs of the FDA and requisitions of other Government Offices, and (2) such other services as the Commissioner of the FDA, subject to review by the Secretary of Health and Human Services, determines may be performed more advantageously as central services. The Fund shall be reimbursed from applicable discretionary resources, notwithstanding any otherwise applicable purpose limitations, available when services are performed or stock furnished, or in advance, on a basis of rates which shall include estimated or actual charges for personal services, materials, equipment, information technology, and other expenses. Charges for equipment and information technology shall include costs associated with maintenance, repair, and depreciation (including improvement and replacement).
 
 #### (b) Appropriations
 
@@ -14,6 +14,8 @@ No amounts may be transferred pursuant to this section that are designated by th
 
 (Pub. L. 115–141, div. A, title VII, §722, Mar. 23, 2018, 132 Stat. 387.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b), is div. A of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 351, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018. For complete classification of this Act to the Code, see Tables.
@@ -23,4 +25,126 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 #### Codification
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+### <b>CHAPTER 10—POULTRY AND POULTRY PRODUCTS INSPECTION</b>
+
+Sec.
+
+451\.
+
+Congressional statement of findings.
+
+452\.
+
+Congressional declaration of policy.
+
+453\.
+
+Definitions.
+
+454\.
+
+Federal and State cooperation in development and administration of State poultry product inspection programs.
+
+455\.
+
+Inspection in official establishments.
+
+456\.
+
+Operation of premises, facilities and equipment.
+
+457\.
+
+Labeling and container standards.
+
+458\.
+
+Prohibited acts.
+
+459\.
+
+Compliance by all establishments.
+
+460\.
+
+Miscellaneous activities subject to regulation.
+
+461\.
+
+Offenses and punishment.
+
+462\.
+
+Reporting of violations; notice; opportunity to present views.
+
+463\.
+
+Rules and regulations.
+
+464\.
+
+Exemptions.
+
+465\.
+
+Limitations upon entry of poultry products and other materials into official establishments.
+
+466\.
+
+Imports.
+
+467\.
+
+Inspection services.
+
+467a.
+
+Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks.
+
+467b.
+
+Seizure and condemnation.
+
+467c.
+
+Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas.
+
+467d.
+
+Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts.
+
+467e.
+
+Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters.
+
+467f.
+
+Federal Food, Drug, and Cosmetic Act applications.
+
+468\.
+
+Cost of inspection; overtime.
+
+469\.
+
+Authorization of appropriations.
+
+470\.
+
+Omitted.
+
+471\.
+
+Safe Meat and Poultry Inspection Panel.
+
+472\.
+
+Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments.
+
+473\.
+
+Grants for improvements to meat and poultry facilities to allow for interstate shipment.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

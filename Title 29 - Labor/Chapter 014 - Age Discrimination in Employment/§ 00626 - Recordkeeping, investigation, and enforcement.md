@@ -6,7 +6,7 @@ The Equal Employment Opportunity Commission shall have the power to make investi
 
 #### (b) Enforcement; prohibition of age discrimination under fair labor standards; unpaid minimum wages and unpaid overtime compensation; liquidated damages; judicial relief; conciliation, conference, and persuasion
 
-The provisions of this chapter shall be enforced in accordance with the powers, remedies, and procedures provided in sections 211(b), 216 (except for subsection (a) thereof), and 217 of this title, and subsection (c) of this section. Any act prohibited under section 623 of this title shall be deemed to be a prohibited act under section 215 of this title. Amounts owing to a person as a result of a violation of this chapter shall be deemed to be unpaid minimum wages or unpaid overtime compensation for purposes of sections 216 and 217 of this title: <i>Provided</i>, That liquidated damages shall be payable only in cases of willful violations of this chapter. In any action brought to enforce this chapter the court shall have jurisdiction to grant such legal or equitable relief as may be appropriate to effectuate the purposes of this chapter, including without limitation judgments compelling employment, reinstatement or promotion, or enforcing the liability for amounts deemed to be unpaid minimum wages or unpaid overtime compensation under this section. Before instituting any action under this section, the Equal Employment Opportunity Commission shall attempt to eliminate the discriminatory practice or practices alleged, and to effect voluntary compliance with the requirements of this chapter through informal methods of conciliation, conference, and persuasion.
+The provisions of this chapter shall be enforced in accordance with the powers, remedies,and procedures provided in sections 211(b), 216 (except for subsection (a) thereof), and 217 of this title, and subsection (c) of this section. Any act prohibited under section 623 of this title shall be deemed to be a prohibited act under section 215 of this title. Amounts owing to a person as a result of a violation of this chapter shall be deemed to be unpaid minimum wages or unpaid overtime compensation for purposes of sections 216 and 217 of this title: <i>Provided</i>, That liquidated damages shall be payable only in cases of willful violations of this chapter. In any action brought to enforce this chapter the court shall have jurisdiction to grant such legal or equitable relief as may be appropriate to effectuate the purposes of this chapter, including without limitation judgments compelling employment, reinstatement or promotion, or enforcing the liability for amounts deemed to be unpaid minimum wages or unpaid overtime compensation under this section. Before instituting any action under this section, the Equal Employment Opportunity Commission shall attempt to eliminate the discriminatory practice or practices alleged, and to effect voluntary compliance with the requirements of this chapter through informal methods of conciliation, conference, and persuasion.
 
 #### (c) Civil actions; persons aggrieved; jurisdiction; judicial relief; termination of individual action upon commencement of action by Commission; jury trial
 
@@ -24,7 +24,7 @@ The provisions of this chapter shall be enforced in accordance with the powers, 
 
 (2) Upon receiving such a charge, the Commission shall promptly notify all persons named in such charge as prospective defendants in the action and shall promptly seek to eliminate any alleged unlawful practice by informal methods of conciliation, conference, and persuasion.
 
-(3) For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this chapter, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, includingeach time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
+(3) For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this chapter, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, including each time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
 
 #### (e) Reliance on administrative rulings; notice of dismissal or termination; civil action after receipt of notice
 
@@ -50,7 +50,7 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 &emsp;(G) the agreement provides that for a period of at least 7 days following the execution of such agreement, the individual may revoke the agreement, and the agreement shall not become effective or enforceable until the revocation period has expired;
 
-&emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing in a manner calculated to be understood by the average individual eligible to participate, as to—
+&emsp;(H) if a waiver is requested in connection with an exit incentive or other employment termination program offered to a group or class of employees, the employer (at the commencement of the period specified in subparagraph (F)) informs the individual in writing ina manner calculated to be understood by the average individual eligible to participate, as to—
 
 &emsp;&emsp;(i) any class, unit, or group of individuals covered by such program, any eligibility factors for such program, and any time limits applicable to such program; and
 
@@ -68,6 +68,8 @@ Section 259 of this title shall apply to actions under this chapter. If a charge
 
 (Pub. L. 90–202, §7, Dec. 15, 1967, 81 Stat. 604; Pub. L. 95–256, §4(a), (b)(1), (c)(1), Apr. 6, 1978, 92 Stat. 190, 191; 1978 Reorg. Plan No. 1, §2, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 101–433, title II, §201, Oct. 16, 1990, 104 Stat. 983; Pub. L. 102–166, title I, §115, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 111–2, §4, Jan. 29, 2009, 123 Stat. 6.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–2, §4(1)(B)–(3), inserted "(1)" before "No civil" and "(2)" before "Upon receiving" and added par. (3).
@@ -83,6 +85,8 @@ Pub. L. 111–2, §4(1)(A), which directed amendment of first sentence by redesi
 Subsec. (d). Pub. L. 95–256, §4(b)(1), substituted references to the filing of a charge with the Secretary alleging unlawful discrimination for references to the filing with the Secretary of notice of intent to sue.
 
 Subsec. (e). Pub. L. 95–256, §4(c)(1), designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -102,15 +106,17 @@ Pub. L. 95–256, §4(b)(2), Apr. 6, 1978, 92 Stat. 190, provided that: "The ame
 
 Pub. L. 95–256, §4(c)(2), Apr. 6, 1978, 92 Stat. 191, provided that: "The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act \[Apr. 6, 1978\]."
 
-#### Transfer of Functions
-
-"Equal Employment Opportunity Commission" and "Commission" substituted for "Secretary", meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
 #### Rule on Waivers
 
 Pub. L. 101–433, title II, §202(b), Oct. 16, 1990, 104 Stat. 984, provided that: "Effective on the date of enactment of this Act \[Oct. 16, 1990\], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect."
 
 #### Age Discrimination Claims Assistance
 
-Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, §2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+Pub. L. 100–283, Apr. 7, 1988, 102 Stat. 78, as amended by Pub. L. 101–504, §2, Nov. 3, 1990, 104 Stat. 1298, provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period wasapplicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+"Equal Employment Opportunity Commission" and "Commission" substituted for "Secretary", meaning Secretary of Labor, pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Secretary of Labor to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
 

@@ -69,6 +69,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–136, div. A, title XI, §1125(b)(3), Nov. 24, 2003, 117 Stat. 1640, added item 7302.

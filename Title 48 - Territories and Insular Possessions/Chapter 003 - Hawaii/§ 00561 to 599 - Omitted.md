@@ -14,7 +14,7 @@ Section 562b, act July 15, 1935, ch. 378, §2, 49 Stat. 480, empowered legislatu
 
 Section 562c, act July 15, 1935, ch. 378, §3, 49 Stat. 480, approved, ratified, and confirmed issuance of revenue bonds which had been authorized by legislature prior to July 15, 1935.
 
-Section 562c–1, act Apr. 3, 1944, ch. 154, 58 Stat. 186, ratified and confirmed legislative action which had extended time within which revenue bonds could be issued without presidential approval and without reference to Hawaiian Organic Act.
+Section 562c–1, act Apr. 3, 1944, ch. 154, 58 Stat. 186, ratified and confirmed legislative action which had extended time within which revenue bonds could beissued without presidential approval and without reference to Hawaiian Organic Act.
 
 Section 562c–2, act July 30, 1947, ch. 396, 61 Stat. 676, ratified and confirmed legislative action which had extended time within which revenue bonds could be issued without presidential approval and without reference to Hawaiian Organic Act.
 

@@ -72,5 +72,5 @@ Prohibition.—The Director of the Foundation may revise the regulations under p
 
 Interagency Communication.—Upon a finding that research misconduct has occurred, the Foundation shall, in addition to any possible final action under section 689.3 of title 45, Code of Federal Regulations, notify other Federal science agencies of the finding."
 
-\[For definitions of "Foundation" and "Federal science agency" as used in section 115 of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.\]
+\[For definitions of "Foundation" and "Federal science agency" as used in section 115 of Pub. L.114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.\]
 

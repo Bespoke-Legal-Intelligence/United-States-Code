@@ -128,7 +128,7 @@ The State shall use the automated system required by this section to extract inf
 
 &emsp;&emsp;(A) transmission of orders and notices to employers (and other debtors) for the withholding of income—
 
-&emsp;&emsp;&emsp;(i) within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, anotherState, an employer, the Federal Parent Locator Service, or another source recognized by the State;
+&emsp;&emsp;&emsp;(i) within 2 business days after receipt of notice of, and the income source subject to, such withholding from a court, another State, an employer, the Federal Parent Locator Service, or another source recognized by the State;
 
 &emsp;&emsp;&emsp;(ii) using uniform formats prescribed by the Secretary; and
 

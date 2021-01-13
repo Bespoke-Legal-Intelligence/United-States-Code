@@ -6,7 +6,7 @@ In General.—An individual may not operate by any means or embark in any submer
 
 (b)
 
-Evidence of Intent To Evade Detection.—In any civil enforcement proceeding for a violation of subsection (a), the presence of any of the indicia described in paragraph (1)(A), (E), (F), or (G), or in paragraph (4), (5), or (6), of section 70507(b) may be considered, in the totality of the circumstances, to be prima facie evidence of intent to evade detection.
+Evidence of Intent To Evade Detection.—In any civil enforcement proceeding for a violation of subsection (a), the presence of anyof the indicia described in paragraph (1)(A), (E), (F), or (G), or in paragraph (4), (5), or (6), of section 70507(b) may be considered, in the totality of the circumstances, to be prima facie evidence of intent to evade detection.
 
 (c)
 
@@ -16,7 +16,7 @@ Defenses.—
 
 In general.—It is a defense in any civil enforcement proceeding for a violation of subsection (a) that the submersible vessel or semi-submersible vessel involved was, at the time of the violation—
 
-&emsp;&emsp;(A) a vessel of the United States or lawfully registered in a foreign nation asclaimed by the master or individual in charge of the vessel when requested to make a claim by an officer of the United States authorized to enforce applicable provisions of United States law;
+&emsp;&emsp;(A) a vessel of the United States or lawfully registered in a foreign nation as claimed by the master or individual in charge of the vessel when requested to make a claim by an officer of the United States authorized to enforce applicable provisions of United States law;
 
 &emsp;&emsp;(B) classed by and designed in accordance with the rules of a classification society;
 

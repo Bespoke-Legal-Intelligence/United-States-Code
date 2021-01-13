@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the quantity of sugar that would provide for reasonable carryover stocks;
 
-&emsp;&emsp;(C) the quantity of sugar that will be available from carry-in stocks for humanconsumption in the United States during the crop year;
+&emsp;&emsp;(C) the quantity of sugar that will be available from carry-in stocks for human consumption in the United States during the crop year;
 
 &emsp;&emsp;(D) the quantity of sugar that will be available from the domestic processing of sugarcane, sugar beets, and in-process beet sugar; and
 
@@ -18,7 +18,7 @@
 
 #### (2) Exclusion
 
-&emsp;The estimates under this subsection shall not apply to sugar imported for the production of polyhydric alcohol or to any sugar refined and reexported in refined form or in products containing sugar.
+&emsp;The estimates under this subsection shall not apply to sugar imported for the productionof polyhydric alcohol or to any sugar refined and reexported in refined form or in products containing sugar.
 
 #### (3) Reestimates
 

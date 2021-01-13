@@ -68,7 +68,7 @@ In general.—The President, or the designee of the President, shall issue regul
 
 &emsp;(2)
 
-Agency regulations.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by theappropriate officer of an executive agency to implement the statutory provisions referred to in paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b)—
+Agency regulations.—The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the appropriate officer of an executive agency to implement the statutory provisions referred to in paragraphs (1) and (3) of subsection (a) and paragraphs (1) and (3) of subsection (b)—
 
 &emsp;&emsp;(A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 
@@ -80,13 +80,15 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 (e)
 
-Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
+Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relatesto any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 
 (f)
 
 Effective Date.—This section shall take effect on October 1, 1997.
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4055.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Sections 1977 and 1977A of the Revised Statutes, referred to in subsec. (b)(1)(B
 Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(B), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The effective date of this chapter, referred to in subsec. (e), is Oct. 1, 1997, unless otherwise provided, see section 471 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

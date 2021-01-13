@@ -34,7 +34,7 @@ In this chapter:
 
 #### (5) Consumer product
 
-&emsp;The term "consumer product" means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary householdor residence, a school, in recreation, or otherwise; but such term does not include—
+&emsp;The term "consumer product" means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 
@@ -96,7 +96,7 @@ In this chapter:
 
 #### (15) State
 
-&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, Johnston Island, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
+&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, JohnstonIsland, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
 
 #### (16) Third-party logistics provider
 
@@ -154,7 +154,7 @@ Pub. L. 97–35, title XII, §1215, Aug. 13, 1981, 95 Stat. 724, provided that:
 
 "(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under section 2051 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated bythe Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations under the Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981."
+"(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations underthe Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981."
 
 #### Effective Date
 

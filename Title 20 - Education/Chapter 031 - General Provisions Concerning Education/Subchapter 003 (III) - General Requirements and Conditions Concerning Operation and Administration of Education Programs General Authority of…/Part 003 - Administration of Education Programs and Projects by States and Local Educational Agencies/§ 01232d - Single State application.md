@@ -40,7 +40,7 @@ An application submitted under subsection (a) shall set forth assurances, satisf
 
 &emsp;&emsp;(D) the State will provide an opportunity for interested agencies, organizations, and individuals to suggest improvements in the administration of the program and to allege that there has been a failure by any entity to comply with applicable statutes and regulations; and
 
-&emsp;(8) that none of the funds expended under any applicable program will be used to acquireequipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
+&emsp;(8) that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 
 #### (c) Effective term of general application
 

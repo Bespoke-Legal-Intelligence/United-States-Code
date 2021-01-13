@@ -150,7 +150,7 @@ Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by
 
 "(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department ofTransportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 "(b)
 
@@ -204,7 +204,7 @@ Statutory Construction.—Nothing in this section expands the authority or juris
 
 #### Restrictions on Essential Air Service Subsidies
 
-Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: "The Secretary \[of Transportation\] mayprovide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles."
+Pub. L. 106–181, title II, §205, Apr. 5, 2000, 114 Stat. 94, provided that: "The Secretary \[of Transportation\] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles."
 
 Pub. L. 106–69, title III, §332, Oct. 9, 1999, 113 Stat. 1022, provided that: "Hereafter, notwithstanding 49 U.S.C. 41742, no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport."
 

@@ -20,11 +20,19 @@ For purposes of this title, the term "life insurance contract" means any contrac
 
 &emsp;Determinations under paragraph (1) shall be made—
 
-&emsp;&emsp;(A) on the basis of interest at the greater of an annual effective rate of 4 percent or the rate or rates guaranteed on issuance of the contract,
+&emsp;&emsp;(A) on the basis of interest at the greater of the applicable accumulation test minimum rate or the rate or rates guaranteed on issuance of the contract,
 
 &emsp;&emsp;(B) on the basis of the rules of subparagraph (B)(i) (and, in the case of qualified additional benefits, subparagraph (B)(ii)) of subsection (c)(3), and
 
 &emsp;&emsp;(C) by taking into account under subparagraphs (A) and (D) of subsection (e)(1) only current and future death benefits and qualified additional benefits.
+
+#### (3) Applicable accumulation test minimum rate
+
+&emsp;For purposes of paragraph (2)(A), the term "applicable accumulation test minimum rate" means the lesser of—
+
+&emsp;&emsp;(A) an annual effective rate of 4 percent, or
+
+&emsp;&emsp;(B) the insurance interest rate (as defined in subsection (f)(11)) in effect at the time the contract is issued.
 
 #### (c) Guideline premium requirements
 
@@ -56,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any reasonable charges (other than mortality charges) which (on the basis of the company's experience, if any, with respect to similar contracts) are reasonably expected to be actually paid, and
 
-&emsp;&emsp;&emsp;(iii) interest at the greater of an annual effective rate of 6 percent or the rate or rates guaranteed on issuance of the contract.
+&emsp;&emsp;&emsp;(iii) interest at the greater of the applicable guideline premium minimum rate or the rate or rates guaranteed on issuance of the contract.
 
 #### (C) When determination made
 
@@ -72,9 +80,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;If any company does not have adequate experience for purposes of the determination under subparagraph (B)(ii), to the extent provided in regulations, such determination shall be made on the basis of the industry-wide experience.
 
+#### (E) Applicable guideline premium minimum rate
+
+&emsp;&emsp;For purposes of subparagraph (B)(iii), the term "applicable guideline premium minimum rate" means the applicable accumulation test minimum rate (as defined in subsection (b)(3)) plus 2 percentage points.
+
 #### (4) Guideline level premium
 
-&emsp;The term "guideline level premium" means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting "4 percent" for "6 percent".
+&emsp;The term "guideline level premium" means the level annual amount, payable over a period not ending before the insured attains age 95, computed on the same basis as the guideline single premium, except that paragraph (3)(B)(iii) shall be applied by substituting "the applicable accumulation test minimum rate" for "the applicable guideline premium minimum rate".
 
 #### (d) Cash value corridor for purposes of subsection (a)(2)(B)
 
@@ -132,7 +144,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -232,7 +244,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -261,6 +273,38 @@ For purposes of this section—
 #### (10) Prevailing commissioners' standard tables
 
 &emsp;For purposes of subsection (c)(3)(B)(i), the term "prevailing commissioners' standard tables" means the most recent commissioners' standard tables prescribed by the National Association of Insurance Commissioners which are permitted to be used in computing reserves for that type of contract under the insurance laws of at least 26 States when the contract was issued. If the prevailing commissioners' standard tables as of the beginning of any calendar year (hereinafter in this paragraph referred to as the "year of change") are different from the prevailing commissioners' standard tables as of the beginning of the preceding calendar year, the issuer may use the prevailing commissioners' standard tables as of the beginning of the preceding calendar year with respect to any contract issued after the change and before the close of the 3-year period beginning on the first day of the year of change.
+
+#### (11) Insurance interest rate
+
+&emsp;For purposes of this section—
+
+#### (A) In general
+
+&emsp;&emsp;The term "insurance interest rate" means, with respect to any contract issued in any calendar year, the lesser of—
+
+&emsp;&emsp;&emsp;(i) the section 7702 valuation interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year), or
+
+&emsp;&emsp;&emsp;(ii) the section 7702 applicable Federal interest rate for such calendar year (or, if such calendar year is not an adjustment year, the most recent adjustment year).
+
+#### (B) Section 7702 valuation interest rate
+
+&emsp;&emsp;The term "section 7702 valuation interest rate" means, with respect to any adjustment year, the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners' Standard Valuation Law) as effective in the calendar year immediately preceding such adjustment year.
+
+#### (C) Section 7702 applicable Federal interest rate
+
+&emsp;&emsp;The term "section 7702 applicable Federal interest rate" means, with respect to any adjustment year, the average (rounded to the nearest whole percentage point) of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the most recent 60-month period ending before the second calendar year prior to such adjustment year.
+
+#### (D) Adjustment year
+
+&emsp;&emsp;The term "adjustment year" means the calendar year following any calendar year that includes the effective date of a change in the prescribed U.S. valuation interest rate for life insurance with guaranteed durations of more than 20 years (as defined in the National Association of Insurance Commissioners' Standard Valuation Law).
+
+#### (E) Transition rule
+
+&emsp;&emsp;Notwithstanding subparagraph (A), the insurance interest rate shall be 2 percent in the case of any contract which is issued during the period that—
+
+&emsp;&emsp;&emsp;(i) begins on January 1, 2021, and
+
+&emsp;&emsp;&emsp;(ii) ends immediately before the beginning of the first adjustment year that beings <sup>1</sup> after December 31, 2021.
 
 #### (g) Treatment of contracts which do not meet subsection (a) test
 
@@ -300,7 +344,7 @@ For purposes of this section—
 
 #### (3) Contract continues to be treated as insurance contract
 
-&emsp;If any contract which is a life insurance contract under the applicable law does not meetthe definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
+&emsp;If any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), such contract shall, notwithstanding such failure, be treated as an insurance contract for purposes of this title.
 
 #### (h) Endowment contracts receive same treatment
 
@@ -360,9 +404,21 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146.)
+(Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(A). Pub. L. 116–260, §205(a)(1), substituted "the applicable accumulation test minimum rate" for "an annual effective rate of 4 percent".
+
+Subsec. (b)(3). Pub. L. 116–260, §205(a)(2), added par. (3).
+
+Subsec. (c)(3)(B)(iii). Pub. L. 116–260, §205(b)(1), substituted "the applicable guideline premium minimum rate" for "an annual effective rate of 6 percent".
+
+Subsec. (c)(3)(E). Pub. L. 116–260, §205(b)(2), added subpar. (E).
+
+Subsec. (c)(4). Pub. L. 116–260, §205(c), substituted "the applicable accumulation test minimum rate" for "4 percent" and "the applicable guideline premium minimum rate" for "6 percent".
+
+Subsec. (f)(11). Pub. L. 116–260, §205(d), added par. (11).
 
 <b>2017</b>—Subsec. (c)(3)(B)(i). Pub. L. 115–97, §13517(a)(4)(A), added cl. (i) and struck out former cl. (i) which read as follows: "reasonable mortality charges which meet the requirements (if any) prescribed in regulations and which (except as provided in regulations) do not exceed the mortality charges specified in the prevailing commissioners' standard tables (as defined in section 807(d)(5)) as of the time the contract is issued,".
 
@@ -394,7 +450,11 @@ Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess 
 
 Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
-Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
+Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title II, §205(e), Dec. 27, 2020, 134 Stat. 3059, provided that: "The amendments made by this section \[amending this section\] shall apply to contracts issued after December 31, 2020."
 
 #### Effective Date of 2017 Amendment
 
@@ -492,5 +552,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
-Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: "Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954\[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code."
+Pub. L. 98–369, div. A, title II, §221(b)(3), as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: "Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "begins".</i>
 

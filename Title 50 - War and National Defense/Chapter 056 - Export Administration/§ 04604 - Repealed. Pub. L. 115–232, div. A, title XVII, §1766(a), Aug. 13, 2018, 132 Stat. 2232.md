@@ -1,6 +1,6 @@
 ### §4604. Repealed. Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232
 
-Section, Pub. L. 96–72, §5, Sept. 29, 1979, 93 Stat. 506; Pub. L. 99–64, title I, §§105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, 99 Stat. 123–129; Pub. L. 100–418, title II, §§2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, 102 Stat. 1347–1358, 1369; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to prohibition or curtailment of exports for national security purposes.
+Section, Pub. L. 96–72, §5, Sept. 29, 1979, 93 Stat. 506; Pub. L. 99–64, title I, §§105(a)–(c)(1), (d)–(j), 106, 107, July12, 1985, 99 Stat. 123–129; Pub. L. 100–418, title II, §§2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, 102 Stat. 1347–1358, 1369; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to prohibition or curtailment of exports for national security purposes.
 
 Section was formerly classified to section 2404 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
@@ -60,7 +60,7 @@ Classification.—Each report under subsections (d) and (e) shall be submitted i
 
 "(g)
 
-Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the AssistantSecretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
+Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
 
 "(h)
 

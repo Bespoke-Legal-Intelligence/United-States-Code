@@ -36,7 +36,7 @@ A method of determining inventories shall not be treated as failing to clearly r
 
 #### (4) Coordination with section 481
 
-&emsp;Any change in method of accounting made pursuant to this subsection shall be treatedfor purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
+&emsp;Any change in method of accounting made pursuant to this subsection shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary.
 
 #### (d) Cross reference
 

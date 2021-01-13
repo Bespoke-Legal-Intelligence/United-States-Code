@@ -20,7 +20,7 @@
 
 &emsp;(3) the term "payment" means a payment or reimbursement, in cash or in kind.
 
-(d)(1) The head of each agency of the executive branch shall, in the manner provided in paragraph (2), submit to the Director of the Office of Government Ethics reports of payments of morethan $250 accepted under this section with respect to employees of the agency. The Director shall make such reports available for public inspection and copying.
+(d)(1) The head of each agency of the executive branch shall, in the manner provided in paragraph (2), submit to the Director of the Office of Government Ethics reports of payments of more than $250 accepted under this section with respect to employees of the agency. The Director shall make such reports available for public inspection and copying.
 
 (2) The reports required by paragraph (1) shall, with respect to each payment—
 
@@ -31,6 +31,8 @@
 &emsp;(C) be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
 (Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 and amended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

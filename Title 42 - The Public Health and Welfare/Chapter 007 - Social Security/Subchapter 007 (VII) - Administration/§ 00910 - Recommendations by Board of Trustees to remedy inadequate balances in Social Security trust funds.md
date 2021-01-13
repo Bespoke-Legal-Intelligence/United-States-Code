@@ -24,7 +24,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(l) or 1395i(j) of this title, as of the beginning of such year, to".
+Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section401(l) or 1395i(j) of this title, as of the beginning of such year, to".
 
 #### Effective Date of 1994 Amendment
 

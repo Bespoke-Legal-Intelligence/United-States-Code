@@ -66,7 +66,7 @@ Jurisdiction.—There is jurisdiction over the offenses in subsection (a) in the
 
 &emsp;&emsp;&emsp;(iv) any property of any legal entity organized under the laws of the United States, including any of its States, districts, commonwealths, territories, or possessions;
 
-&emsp;(3) the offense is committed on board a vessel flying the flag of the United States or anaircraft which is registered under the laws of the United States at the time the offense is committed;
+&emsp;(3) the offense is committed on board a vessel flying the flag of the United States or an aircraft which is registered under the laws of the United States at the time the offense is committed;
 
 &emsp;(4) the offense is committed on board an aircraft which is operated by the United States; or
 
@@ -156,6 +156,8 @@ Civil Penalty.—In addition to any other criminal, civil, or administrative lia
 
 (Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6604, Dec. 17, 2004, 118 Stat. 3764; Pub. L. 109–177, title IV, §408, Mar. 9, 2006, 120 Stat. 245.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
@@ -173,6 +175,8 @@ Subsec. (c)(2)(B). Pub. L. 108–458, §6604(a)(3), as amended by Pub. L. 109–
 Subsec. (e)(13), (14). Pub. L. 108–458, §6604(b), as amended by Pub. L. 109–177, §408(2), added par. (13) and redesignated former par. (13) as (14).
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–273 substituted "described in subsection (b)" for "described in subsection (c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

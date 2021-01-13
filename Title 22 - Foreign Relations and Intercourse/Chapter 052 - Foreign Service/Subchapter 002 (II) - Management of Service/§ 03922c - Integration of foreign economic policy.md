@@ -32,9 +32,13 @@ The Secretary shall establish curriculum at the George P. Shultz National Foreig
 
 (Pub. L. 114–323, title IV, §406, Dec. 16, 2016, 130 Stat. 1929.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

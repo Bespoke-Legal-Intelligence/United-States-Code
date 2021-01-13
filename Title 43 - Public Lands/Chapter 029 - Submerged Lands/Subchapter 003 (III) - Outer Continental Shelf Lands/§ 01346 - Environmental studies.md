@@ -30,6 +30,8 @@ In executing his responsibilities under this section, the Secretary shall, to th
 
 (Aug. 7, 1953, ch. 345, §20, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 653; amended Pub. L. 103–426, §1(b), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–66, title I, §1082(b), Dec. 21, 1995, 109 Stat. 722.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–66 substituted "every 3 fiscal years" for "each fiscal year".
@@ -38,7 +40,9 @@ In executing his responsibilities under this section, the Secretary shall, to th
 
 Subsec. (a)(2). Pub. L. 103–426, §1(b)(2), inserted before last sentence "In the case of an agreement under section 1337(k)(2) of this title, each study required by paragraph (1) of this subsection shall be commenced not later than 6 months prior to commencing negotiations for such agreement or the entering into the memorandum of agreement as the case may be."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 15th item on page 111 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 15th item on page 111 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

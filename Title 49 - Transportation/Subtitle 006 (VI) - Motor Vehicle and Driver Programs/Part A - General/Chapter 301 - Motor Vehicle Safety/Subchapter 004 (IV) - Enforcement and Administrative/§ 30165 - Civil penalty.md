@@ -16,7 +16,7 @@ School buses.—
 
 In general.—Notwithstanding paragraph (1), the maximum amount of a civil penalty under this paragraph shall be $10,000 in the case of—
 
-&emsp;&emsp;&emsp;(i) the manufacture, sale, offer for sale, introduction or delivery for introductioninto interstate commerce, or importation of a school bus or school bus equipment (as those terms are defined in section 30125(a) of this title) in violation of section 30112(a)(1) of this title; or
+&emsp;&emsp;&emsp;(i) the manufacture, sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a school bus or school bus equipment (as those terms are defined in section 30125(a) of this title) in violation of section 30112(a)(1) of this title; or
 
 &emsp;&emsp;&emsp;(ii) a violation of section 30112(a)(2) of this title.
 
@@ -160,5 +160,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Civil Penalty Criteria
 
-Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
+Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factorsdescribed in section 30165(c) of title 49, United States Code."
 

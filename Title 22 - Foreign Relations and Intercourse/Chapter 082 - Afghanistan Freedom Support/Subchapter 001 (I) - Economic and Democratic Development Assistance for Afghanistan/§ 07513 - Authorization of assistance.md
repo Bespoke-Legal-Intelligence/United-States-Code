@@ -58,7 +58,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;(C) provision of critical agricultural inputs, such as seeds, tools, and fertilizer, and strengthening of seed multiplication, certification, and distribution systems;
 
-&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among otherthings, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
+&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
 
 &emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional,and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
 &emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(ii) strengthening democratic political parties;
 
-&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials ofgovernment, political, and civic or other nongovernmental entities;
+&emsp;&emsp;&emsp;(iii) international exchanges and professional training for members or officials of government, political, and civic or other nongovernmental entities;
 
 &emsp;&emsp;&emsp;(iv) national, regional, and local elections and political party development;
 
@@ -250,6 +250,8 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 (Pub. L. 107–327, title I, §103, Dec. 4, 2002, 116 Stat. 2799; Pub. L. 108–458, title VII, §7104(e)(1)(B), (f)(2)–(g), (j)(1), (k)(2), Dec. 17, 2004, 118 Stat. 3782, 3783, 3785, 3787, 3788.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7536 of this title, referred to in subsec. (d)(1)(C), was omitted from the Code.
@@ -274,6 +276,8 @@ Subsec. (a)(7)(A)(xii). Pub. L. 108–458, §7104(k)(2), substituted "Afghan Ind
 
 Subsec. (d). Pub. L. 108–458, §7104(g), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -284,7 +288,7 @@ Pub. L. 114–328, div. A, title XV, §1521(c)(2), Dec. 23, 2016, 130 Stat. 2576
 
 "(A)
 
-In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation bythe Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
+In general.—The Secretary of Defense, with the concurrence of the Secretary of State, shall support, to the extent practicable, the efforts of the Government of Afghanistan to promote the security of Afghan women and girls during and after the security transition process through the development and implementation by the Government of Afghanistan of an Afghan-led plan that should include the elements described in this paragraph.
 
 "(B)
 
@@ -354,7 +358,7 @@ Formulation and Execution of Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense, shall implement any project under the program authorized under subsection (a).
+In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense,shall implement any project under the program authorized under subsection (a).
 
 &emsp;"(2)
 
@@ -468,7 +472,7 @@ Elements of Performance Monitoring System.—The performance monitoring system r
 
 &emsp;"(1) PRT-specific work plans that incorporate the long-term strategy, mission, and clearly defined objectives required by section 1230(c)(3) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 386), and include plans for developing the capacity of national, provincial, and local government and other civil institutions in Afghanistan to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities; and
 
-&emsp;"(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
+&emsp;"(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals togetherwith a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
 
 "(c)
 

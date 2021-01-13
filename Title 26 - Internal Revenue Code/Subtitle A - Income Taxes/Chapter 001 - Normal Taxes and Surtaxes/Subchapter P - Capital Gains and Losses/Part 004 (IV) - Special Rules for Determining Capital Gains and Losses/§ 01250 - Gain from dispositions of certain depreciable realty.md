@@ -50,7 +50,7 @@ Except as otherwise provided in this section—
 
 &emsp;&emsp;&emsp;(i) in the case of section 1250 property disposed of pursuant to a written contract which was, on July 24, 1969, and at all times thereafter, binding on the owner of the property, 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
-&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
+&emsp;&emsp;&emsp;(ii) in the case of section 1250 property with respect to which a mortgage is insured under section 221(d)(3) or 236 of the National Housing Act, or housing financed or assisted by direct loan or tax abatement under similar provisions of State or local laws, and with respect to which the owner is subject to the restrictions described in section 1039(b)(1)(B) (as in effect on the daybefore the date of the enactment of the Revenue Reconciliation Act of 1990), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 20 full months;
 
 &emsp;&emsp;&emsp;(iii) in the case of residential rental property (as defined in section 167(j)(2)(B)) other than that covered by clauses (i) and (ii), 100 percent minus 1 percentage point for each full month the property was held after the date the property was held 100 full months;
 
@@ -250,7 +250,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 &emsp;&emsp;&emsp;(i) 25 percent of the adjusted basis of the property,
 
-&emsp;&emsp;&emsp;(ii) 10 percent of the adjusted basis of the property, determined without regard to the adjustments provided in paragraphs (2) and (3) of section 1016(a), or
+&emsp;&emsp;&emsp;(ii) 10 percent of the adjusted basis of the property, determined without regard tothe adjustments provided in paragraphs (2) and (3) of section 1016(a), or
 
 &emsp;&emsp;&emsp;(iii) $5,000.
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 93–625 applicable with respect to property placed in serv
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) ofPub. L. 92–178, set out as a note under section 642 of this title.
+Amendment by Pub. L. 92–178 applicable to taxable years ending after Dec. 31, 1971, see section 303(d) of Pub. L. 92–178, set out as a note under section 642 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -14,9 +14,11 @@ Not later than 180 days after December 16, 2016, and annually thereafter for 3 y
 
 &emsp;&emsp;(B) an assessment of compliance by the United Nations Secretariat and such agencies, funds, and programs with any applicable geographic distribution formula; and
 
-&emsp;&emsp;(C) a description of any steps taken or planned to be taken by the United States toincrease the staffing of United States citizens at the United Nations Secretariat and such agencies, funds and programs.
+&emsp;&emsp;(C) a description of any steps taken or planned to be taken by the United States to increase the staffing of United States citizens at the United Nations Secretariat and such agencies, funds and programs.
 
 (Pub. L. 102–138, title I, §181, Oct. 28, 1991, 105 Stat. 682; Pub. L. 114–323, title III, §308, Dec. 16, 2016, 130 Stat. 1923.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

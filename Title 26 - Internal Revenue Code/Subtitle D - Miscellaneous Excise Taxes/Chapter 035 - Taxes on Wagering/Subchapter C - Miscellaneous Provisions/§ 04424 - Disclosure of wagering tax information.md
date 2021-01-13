@@ -34,7 +34,7 @@ Except in connection with the administration or civil or criminal enforcement of
 
 Section 6103(f) shall apply with respect to any return, payment, or registration made pursuant to this chapter.
 
-(Added Pub. L. 93–499, §3(c)(1), Oct. 29, 1974, 88 Stat. 1550; amended Pub. L. 94–455, title XII,§1202(h)(6), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1834.)
+(Added Pub. L. 93–499, §3(c)(1), Oct. 29, 1974, 88 Stat. 1550; amended Pub. L. 94–455, title XII, §1202(h)(6), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1834.)
 
 #### Amendments
 

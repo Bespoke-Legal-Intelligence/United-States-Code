@@ -38,7 +38,7 @@ Abatement.—Order the contractor to take affirmative action to abate the repris
 
 &emsp;&emsp;(B)
 
-Reinstatement.—Order the contractor to reinstate the individual to the position that the individual held before the reprisal,together with the compensation (including back pay), employment benefits, and other terms and conditions of employment that would apply to the individual in that position if the reprisal had not been taken.
+Reinstatement.—Order the contractor to reinstate the individual to the position that the individual held before the reprisal, together with the compensation (including back pay), employment benefits, and other terms and conditions of employment that would apply to the individual in that position if the reprisal had not been taken.
 
 &emsp;&emsp;(C)
 
@@ -99,6 +99,8 @@ June 30, 1949, ch. 288, title III, §315, as added Pub. L. 103–355, title VI, 
 41:265(d).
 
 In subsection (d)(2), the word "contractor" is substituted for "person" for clarity and for consistency with subsection (d)(1).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

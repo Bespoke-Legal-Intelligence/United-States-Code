@@ -1,6 +1,6 @@
 ### §2637. Exhaustion of administrative remedies
 
-(a) A civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930may be commenced in the Court of International Trade only if all liquidated duties, charges, or exactions have been paid at the time the action is commenced, except that a surety's obligation to pay such liquidated duties, charges, or exactions is limited to the sum of any bond related to each entry included in the denied protest.
+(a) A civil action contesting the denial of a protest under section 515 of the Tariff Act of 1930 may be commenced in the Court of International Trade only if all liquidated duties, charges, or exactions have been paid at the time the action is commenced, except that a surety's obligation to pay such liquidated duties, charges, or exactions is limited to the sum of any bond related to each entry included in the denied protest.
 
 (b) A civil action contesting the denial of a petition under section 516 of the Tariff Act of 1930 may be commenced in the Court of International Trade only by a person who has first exhausted the procedures set forth in such section.
 
@@ -9,6 +9,8 @@
 (d) In any civil action not specified in this section, the Court of International Trade shall, where appropriate, require the exhaustion of administrative remedies.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1735.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 #### Prior Provisions
 
 A prior section 2637, acts June 25, 1948, ch. 646, 62 Stat. 982; June 2, 1970, Pub. L. 91–271, title I, §118, 84 Stat. 280; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(E), 93 Stat. 306, related to witnesses and inspection of documents, prior to the general revision of this chapter by Pub. L. 96–417. See section 2641 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(8) anti-crime strategies should be improved through the expansion of community-oriented policing initiatives.
 
-(Pub. L. 100–690, title V, §5122, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4245; Pub. L. 105–276, title V, §586(b), Oct. 21, 1998, 112 Stat. 2646.)
+(Pub. L. 100–690, title V, §5122, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov.28, 1990, 104 Stat. 4245; Pub. L. 105–276, title V, §586(b), Oct. 21, 1998, 112 Stat. 2646.)
 
 #### Amendments
 

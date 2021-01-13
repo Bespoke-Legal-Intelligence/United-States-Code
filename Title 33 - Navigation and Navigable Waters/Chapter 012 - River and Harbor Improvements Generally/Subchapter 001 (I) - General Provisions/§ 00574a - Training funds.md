@@ -8,7 +8,7 @@ The Secretary may include individuals not employed by the Department of the Army
 
 #### (1) In general
 
-&emsp;An individual not employed by the Department of the Army attending a training classor course described in subsection (a) shall pay the full cost of the training provided to the individual.
+&emsp;An individual not employed by the Department of the Army attending a training class or course described in subsection (a) shall pay the full cost of the training provided to the individual.
 
 #### (2) Payments
 
@@ -25,6 +25,8 @@ The Secretary may include individuals not employed by the Department of the Army
 &emsp;Any payments received under paragraph (2) that are in excess of the actual cost of training provided shall be credited as miscellaneous receipts to the Treasury of the United States.
 
 (Pub. L. 110–114, title II, §2016, Nov. 8, 2007, 121 Stat. 1076.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

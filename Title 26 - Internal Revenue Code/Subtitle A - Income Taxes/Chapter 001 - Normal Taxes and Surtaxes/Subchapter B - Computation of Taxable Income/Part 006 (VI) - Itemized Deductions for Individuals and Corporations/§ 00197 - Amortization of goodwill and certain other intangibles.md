@@ -158,7 +158,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 &emsp;&emsp;&emsp;(i) no loss shall be recognized by reason of such disposition (or such worthlessness), and
 
-&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangibles shall be made for any loss not recognized under clause (i).
+&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangiblesshall be made for any loss not recognized under clause (i).
 
 #### (B) Special rule for covenants not to compete
 

@@ -18,7 +18,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 &emsp;(7) to evaluate the effect on bodily impairment and occupational disability of miners afflicted with an occupational disease;
 
-&emsp;(8) to prepare and publish from time to time, reports on all significant aspects of occupational diseases of miners as well as on themedical aspects of injuries, other than diseases, which are revealed by the research carried on pursuant to this subsection;
+&emsp;(8) to prepare and publish from time to time, reports on all significant aspects of occupational diseases of miners as well as on the medical aspects of injuries, other than diseases, which are revealed by the research carried on pursuant to this subsection;
 
 &emsp;(9) to study the relationship between coal or other mine environments and occupational diseases of miners;
 
@@ -54,6 +54,8 @@ The Secretary of Health and Human Services is authorized to make grants to any p
 
 (Pub. L. 91–173, title V, §501, Dec. 30, 1969, 83 Stat. 798; Pub. L. 95–164, title III, §303(a), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(12), (c), (e), and (f), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -71,6 +73,8 @@ Subsec. (c). Pub. L. 95–164, §303(a)(4), substituted "the Secretary of the In
 Subsec. (d). Pub. L. 95–164, §303(a)(1), inserted reference to mines other than coal mines.
 
 Subsec. (e). Pub. L. 95–164, §303(a)(5), substituted "Secretary of the Interior" for "Secretary" and "$60,000,000" for "$30,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

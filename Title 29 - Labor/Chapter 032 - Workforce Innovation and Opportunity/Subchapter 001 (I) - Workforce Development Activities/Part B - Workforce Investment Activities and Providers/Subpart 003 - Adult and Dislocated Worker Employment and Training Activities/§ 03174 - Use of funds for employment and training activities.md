@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) local areas by providing information on and support for the effective development, convening, and implementation of industry or sector partnerships; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriers to employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in section 3141(c) of this title;
+&emsp;&emsp;&emsp;&emsp;(IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriersto employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in section 3141(c) of this title;
 
 &emsp;&emsp;&emsp;(ii) providing assistance to local areas as described in section 3121(b)(7) of this title;
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(xiii) developing and disseminating common intake procedures and related items, including registration processes, materials, or software; and
 
-&emsp;&emsp;&emsp;(xiv) providing technical assistance to local areas that are implementing pay-for-performance contract strategies, which technical assistance may include providing assistance with data collection, meetingdata entry requirements, identifying levels of performance, and conducting evaluations of such strategies.
+&emsp;&emsp;&emsp;(xiv) providing technical assistance to local areas that are implementing pay-for-performance contract strategies, which technical assistance may include providing assistance with data collection, meeting data entry requirements, identifying levels of performance, and conducting evaluations of such strategies.
 
 #### (B) Limitation
 
@@ -166,7 +166,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Other funds
 
-&emsp;&emsp;Consistent with subsections (h) and (i) of section 3151 of this title, a portion of the funds made available under Federal law authorizing the programs and activities described in section 3151(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+&emsp;&emsp;Consistent with subsections (h) and (i) of section 3151 of this title, a portion of the funds made available under Federal law authorizing the programs and activities described in section 3151(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C.49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
 
 #### (2) Career services
 
@@ -192,7 +192,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(v) provision of referrals to and coordination of activities with other programs and services, including programs and services within the one-stop delivery system and, in appropriate cases, other workforce development programs;
 
-&emsp;&emsp;&emsp;(vi) provision of workforce and labor market employment statistics information, including the provision of accurate information relating to local, regional,and national labor market areas, including—
+&emsp;&emsp;&emsp;(vi) provision of workforce and labor market employment statistics information, including the provision of accurate information relating to local, regional, and national labor market areas, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) job vacancy listings in such labor market areas;
 
@@ -220,7 +220,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) in-depth interviewing and evaluation to identify employment barriers and appropriate employment goals;
 
-&emsp;&emsp;&emsp;&emsp;(II) development of an individual employment plan, to identify the employment goals, appropriate achievement objectives, and appropriate combination of services for the participant to achieve the employment goals, including providing information on eligible providers of training services pursuant to paragraph (3)(F)(ii), and career pathways to attain career objectives;
+&emsp;&emsp;&emsp;&emsp;(II) development of an individual employment plan, to identify the employment goals, appropriate achievement objectives, and appropriate combination of services for the participant to achieve the employment goals, including providing information on eligible providersof training services pursuant to paragraph (3)(F)(ii), and career pathways to attain career objectives;
 
 &emsp;&emsp;&emsp;&emsp;(III) group counseling;
 
@@ -334,7 +334,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (E) Priority
 
-&emsp;&emsp;With respect to funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 3173(b) of this title, priority shall begiven to recipients of public assistance, other low-income individuals, and individuals who are basic skills deficient for receipt of career services described in paragraph (2)(A)(xii) and training services. The appropriate local board and the Governor shall direct the one-stop operators in the local area with regard to making determinations related to such priority.
+&emsp;&emsp;With respect to funds allocated to a local area for adult employment and training activities under paragraph (2)(A) or (3) of section 3173(b) of this title, priority shall be given to recipients of public assistance, other low-income individuals, and individuals who are basic skills deficient for receipt of career services described in paragraph (2)(A)(xii) and training services. The appropriate local board and the Governor shall direct the one-stop operators in the local area with regard to making determinations related to such priority.
 
 #### (F) Consumer choice requirements
 
@@ -378,7 +378,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(V) the local board determines that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) it would be most appropriate to award a contract to an institution of higher education or other eligible provider of training services in order to facilitate the training of multiple individuals in in-demand industry sectors or occupations; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) it would be most appropriate to award a contract to an institution ofhigher education or other eligible provider of training services in order to facilitate the training of multiple individuals in in-demand industry sectors or occupations; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) such contract does not limit customer choice; or
 
@@ -400,7 +400,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) the Governor approves the increase with respect to a program carried out with funds reserved by the State under that subpart, taking into account the factors described in clause (ii); or
 
-&emsp;&emsp;&emsp;&emsp;(II) the local board approves the increase with respect to a program carriedout with funds allocated to a local area under such subpart, taking into account those factors.
+&emsp;&emsp;&emsp;&emsp;(II) the local board approves the increase with respect to a program carried out with funds allocated to a local area under such subpart, taking into account those factors.
 
 #### (ii) Factors
 
@@ -574,6 +574,8 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 (Pub. L. 113–128, title I, §134, July 22, 2014, 128 Stat. 1520; Pub. L. 114–18, §2(e)(3), May 22, 2015, 129 Stat. 214; Pub. L. 115–224, title III, §303, July 31, 2018, 132 Stat. 1623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
@@ -582,7 +584,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(B)(v)
 
 The Social Security Act, referred to in subsecs. (a)(3)(A)(viii)(II)(aa), (c)(2)(A)(ix)(I), and (d)(1)(A)(vi)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§601 et seq.) and D (§651 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (a)(3)(A)(viii)(II)(cc), (c)(2)(A)(vii), and (d)(1)(A)(xi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of theAct is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part B of chapter 1 of title VII of the Act is classified generally to subpart 2 (§796e et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (a)(3)(A)(viii)(II)(cc), (c)(2)(A)(vii), and (d)(1)(A)(xi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part B of chapter 1 of title VII of the Act is classified generally to subpart 2 (§796e et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Wagner-Peyser Act, referred to in (c)(1)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
@@ -597,6 +599,8 @@ The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub
 <b>2018</b>—Subsec. (c)(2)(A)(vii). Pub. L. 115–224 substituted "out-of-school youth" for "school dropouts".
 
 <b>2015</b>—Subsec. (a)(2)(B)(ii). Pub. L. 114–18 substituted "section 3121(b)(7)" for "section 3121(b)(6)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Funding Levels.—The Under Secretary of Defense for Acquisition and Sustainment each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
+Funding Levels.—The Under Secretary of Defense for Acquisition and Sustainment each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programsin the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
 
 (c)
 
@@ -114,7 +114,7 @@ Elements.—The review required under subsection (a) shall, at a minimum, consid
 
 &emsp;"(1) existing contracting processes and tools for oversight of contracts, including contractor responsibility determinations and documentation of performance; and
 
-&emsp;"(2) the extent to which best practices for contractors and subcontractors identified in the appendix to part 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures.
+&emsp;"(2) the extent to which best practices for contractors and subcontractors identified in the appendix topart 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures.
 
 "(c)
 

@@ -10,7 +10,7 @@ A prior subpart III, consisting of sections 3030g–11 to 3030g–13 of this tit
 
 Section 3030g–11, Pub. L. 89–73, title III, §338, as added Pub. L. 102–375, title III, §316(a), Sept. 30, 1992, 106 Stat. 1239; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, provided for establishment and implementation of the programs.
 
-Section 3030g–12, Pub. L. 89–73, title III, §338A, as added Pub. L. 102–375, title III, §316(a), Sept. 30, 1992, 106 Stat. 1240; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 103–382, title III, §391(r)(1), Oct. 20, 1994, 108 Stat. 4024, described required contents of application and criteria for selection among applicants.
+Section 3030g–12, Pub. L. 89–73, title III, §338A, as added Pub. L. 102–375, title III, §316(a), Sept. 30, 1992, 106 Stat. 1240; amended Pub. L. 103–171, §3(a)(13), Dec. 2,1993, 107 Stat. 1990; Pub. L. 103–382, title III, §391(r)(1), Oct. 20, 1994, 108 Stat. 4024, described required contents of application and criteria for selection among applicants.
 
 Section 3030g–13, Pub. L. 89–73, title III, §338B, as added Pub. L. 102–375, title III, §316(a), Sept. 30, 1992, 106 Stat. 1240; amended Pub. L. 103–171, §3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1990, required States receiving grants to submit reports evaluating projects.
 
@@ -21,3 +21,4 @@ Section 3030g–13, Pub. L. 89–73, title III, §338B, as added Pub. L. 102–3
 
 - [&sect; 03030g&#8211;21 - Nutrition](%C2%A7%2003030g%E2%80%9321%20-%20Nutrition.md)
 - [&sect; 03030g&#8211;22 - Payment requirement](%C2%A7%2003030g%E2%80%9322%20-%20Payment%20requirement.md)
+- [&sect; 03030g&#8211;23 - Nutrition services impact study](%C2%A7%2003030g%E2%80%9323%20-%20Nutrition%20services%20impact%20study.md)

@@ -28,7 +28,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (2) Notwithstanding paragraph (1) of this subsection, an individual to whom a radio station is licensed under the provisions of this chapter may be issued an operator's license to operate that station.
 
-(3) In addition to amateur operator licenses which the Commission may issue to aliens pursuant to paragraph (2) of this subsection, and notwithstanding section 301 of this title and paragraph (1) of this subsection, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit an alien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
+(3) In addition to amateur operator licenses which the Commission may issue to aliens pursuant to paragraph (2) of this subsection, and notwithstanding section 301 of this title and paragraph (1) of this subsection, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit analien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
 
 (m)(1) Have authority to suspend the license of any operator upon proof sufficient to satisfy the Commission that the licensee—
 
@@ -48,7 +48,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator's license by fraudulent means.
 
-(2) No order of suspension of any operator's license shall take effect until fifteen days' notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mailthe said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+(2) No order of suspension of any operator's license shall take effect until fifteen days' notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
 
 (n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
 
-(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio stationlicenses and radio operator licenses issued by such government with respect to such aircraft.
 
 (u) Require that, if technically feasible—
 
@@ -86,7 +86,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;&emsp;&emsp;(ii) for equipment designed for multiple purposes, capable of receiving or playing video programming transmitted simultaneously with sound but whose essential utility is derived from other purposes.
 
-(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term "direct-to-home satellite services" means the distributionor broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
+(v) Have exclusive jurisdiction to regulate the provision of direct-to-home satellite services. As used in this subsection, the term "direct-to-home satellite services" means the distribution or broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
 
 (w) Omitted.
 
@@ -134,9 +134,11 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (June 19, 1934, ch. 652, title III, §303, 48 Stat. 1082; May 20, 1937, ch. 229, §§5, 6, 50 Stat. 190, 191; Pub. L. 85–817, §1, Aug. 28, 1958, 72 Stat. 981; Pub. L. 87–445, Apr. 27, 1962, 76 Stat. 64; Pub. L. 87–529, §1, July 10, 1962, 76 Stat. 150; Pub. L. 88–313, §1, May 28, 1964, 78 Stat. 202; Pub. L. 88–487, §2, Aug. 22, 1964, 78 Stat. 602; Pub. L. 89–268, Oct. 19, 1965, 79 Stat. 990; Pub. L. 92–81, §1, Aug. 10, 1971, 85 Stat. 302; Pub. L. 93–505, §1, Nov. 30, 1974, 88 Stat. 1576; Pub. L. 97–259, title I, §§109–111(a), 113(b), Sept. 13, 1982, 96 Stat. 1092, 1093; Pub. L. 101–396, §8(a), Sept. 28, 1990, 104 Stat. 850; Pub. L. 101–431, §3, Oct. 15, 1990, 104 Stat. 960; Pub. L. 102–538, title II, §210(a), Oct. 27, 1992, 106 Stat. 3544; Pub. L. 104–104, title II, §205(b), title IV, §403(g), title V, §551(b)(1), (c), Feb. 8, 1996, 110 Stat. 114, 131, 140, 141; Pub. L. 105–33, title III, §3005, Aug. 5, 1997, 111 Stat. 268; Pub. L. 111–260, title II, §§203(a), (b), 204(a), 205(a), Oct. 8, 2010, 124 Stat. 2772–2774; Pub. L. 111–265, §2(12)–(15), Oct. 8, 2010, 124 Stat. 2796.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat.1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Codification
 
@@ -212,6 +214,8 @@ Subsec. (s). Pub. L. 87–529 added subsec. (s).
 
 Subsec. (r). Act May 20, 1937, §6(b), added subsec. (r).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–104, title V, §551(e), Feb. 8, 1996, 110 Stat. 142, provided that:
@@ -262,7 +266,7 @@ Implementing Regulations.—Within 18 months after the submission to the Commiss
 
 "(c)
 
-Alternate Means of Compliance.—An entity may meet the requirements of section 303(aa) of the Communications Act of 1934 \[47 U.S.C. 303(aa)\] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
+Alternate Means of Compliance.—An entity may meet the requirements of section 303(aa) of theCommunications Act of 1934 \[47 U.S.C. 303(aa)\] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
 
 "(d)
 
@@ -310,7 +314,7 @@ In general.—The Commission shall provide affected entities with—
 
 &emsp;&emsp;"(i) not less than 2 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(2) of the Communications Act of 1934 (as added by subsection (a) of this section); and
 
-&emsp;&emsp;"(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
+&emsp;&emsp;"(ii) not less than 3 years after the adoption of such regulations to begin placing in service devices that comply with the requirements of section 303(bb)(1) of the Communications Act of 1934 (as added by subsection (a) of this section).
 
 &emsp;"(B)
 
@@ -321,6 +325,32 @@ Application.—Such regulations shall apply only to devices manufactured or impo
 Pub. L. 101–431, §6, Oct. 15, 1990, 104 Stat. 962, provided that: "The Federal Communications Commission shall promulgate rules to implement this Act \[amending this section and section 330 of this title and enacting provisions set out as notes under this section and section 609 of this title\] within 180 days after the date of its enactment \[Oct. 15, 1990\]."
 
 Pub. L. 100–459, title VI, §608, Oct. 1, 1988, 102 Stat. 2228, directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with section 1464 of Title 18, Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by Pub. L. 102–356, §16(b), Aug. 26, 1992, 106 Stat. 954.
+
+#### Authorization of Use of Automatic Identification Systems Devices To Mark Fishing Equipment
+
+Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8416, Jan. 1, 2021, 134 Stat. 4727, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Assistant Secretary' means the Assistant Secretary of Commerce for Communications and Information and the National Telecommunications and Information Administration Administrator;
+
+&emsp;"(2) the term 'Automatic Identification System' has the meaning given the term in section 164.46(a) of title 33, Code of Federal Regulations, or any successor regulation;
+
+&emsp;"(3) the term 'Automatic Identification System device' means a covered device that operates in radio frequencies assigned for Automatic Identification System stations;
+
+&emsp;"(4) the term 'Commission' means the Federal Communications Commission; and
+
+&emsp;"(5) the term 'covered device' means a device used to mark fishing equipment.
+
+"(b)
+
+Rulemaking Required.—Not later than 180 days after the date of enactment of this Act \[Jan. 1, 2021\], the Commission, in coordination with the Assistant Secretary, and in consultation with the Commandant \[of the Coast Guard\] and the Secretary of State, shall initiate a rulemaking proceeding to consider whether to authorize covered devices to operate in radio frequencies assigned for Automatic Identification System stations.
+
+"(c)
+
+Considerations.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to the manner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents."
 
 #### Local Community Radio
 
@@ -412,7 +442,7 @@ Notification.—Upon receipt of a complaint of interference from a low-power FM 
 
 &emsp;"(1) With respect to those low-power FM stations licensed at locations that do not satisfy third-adjacent channel spacing requirements under section 73.807 of the Commission's rules (47 CFR 73.807), the Federal Communications Commission shall provide the same interference protections that FM translator stations and FM booster stations are required to provide as set forth in section 74.1203 of its rules (47 CFR 74.1203) as in effect on the date of enactment of this Act.
 
-&emsp;"(2) For a period of 1 year after a new low-power FM station is constructed on a third-adjacent channel, such low-power FM station shall be required tobroadcast periodic announcements that alert listeners that interference that they may be experiencing could be the result of the operation of such low-power FM station on a third-adjacent channel and shall instruct affected listeners to contact such low-power FM station to report any interference. The Federal Communications Commission shall require all newly constructed low-power FM stations on third-adjacent channels to—
+&emsp;"(2) For a period of 1 year after a new low-power FM station is constructed on a third-adjacent channel, such low-power FM station shall be required to broadcast periodic announcements that alert listeners that interference that they may be experiencing could be the result of the operation of such low-power FM station on a third-adjacent channel and shall instruct affected listeners to contact such low-power FM station to report any interference. The Federal Communications Commission shall require all newly constructed low-power FM stations on third-adjacent channels to—
 
 &emsp;&emsp;"(A) notify the Federal Communications Commission and all affected stations on third-adjacent channels of an interference complaint by electronic communication within 48 hours after the receipt of such complaint; and
 

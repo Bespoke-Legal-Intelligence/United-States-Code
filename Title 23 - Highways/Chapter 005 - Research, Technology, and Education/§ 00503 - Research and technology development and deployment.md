@@ -104,7 +104,7 @@ Objectives.—In carrying out this paragraph, the Secretary shall carry out rese
 
 &emsp;&emsp;&emsp;(ii) to improve the safety and security of highway infrastructure;
 
-&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used ininfrastructure design, construction, and management;
+&emsp;&emsp;&emsp;(iii) to increase the reliability of lifecycle performance predictions used in infrastructure design, construction, and management;
 
 &emsp;&emsp;&emsp;(iv) to improve the ability of transportation agencies to deliver projects that meet expectations for timeliness, quality, and cost;
 
@@ -164,7 +164,7 @@ Lifecycle costs analysis study.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—In this subparagraph, the term "lifecycle costs analysis" means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
+In general.—In this subparagraph, the term "lifecycle costs analysis" means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user, reconstruction, rehabilitation, restoring,and resurfacing costs, over the life of the project segment.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -608,7 +608,7 @@ Report.—Not later than 3 years after the date that the first grant is awarded 
 
 &emsp;&emsp;&emsp;(v) improved access to transportation alternatives;
 
-&emsp;&emsp;&emsp;(vi) provided the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions;
+&emsp;&emsp;&emsp;(vi) provided the public with access to real-time integrated traffic, transit, andmultimodal transportation information to make informed travel decisions;
 
 &emsp;&emsp;&emsp;(vii) provided cost savings to transportation agencies, businesses, and the traveling public; or
 
@@ -652,7 +652,7 @@ Grant flexibility.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applicationsthat meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
 
@@ -693,6 +693,8 @@ Multijurisdictional group.—The term "multijurisdictional group" means a any <
 &emsp;&emsp;&emsp;&emsp;(II) is an eligible entity under this paragraph.
 
 (Added Pub. L. 105–178, title V, §5103, June 9, 1998, 112 Stat. 427; amended Pub. L. 109–59, title V, §§5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, 119 Stat. 1786–1789; Pub. L. 112–141, div. E, title II, §52003(a), July 6, 2012, 126 Stat. 872; Pub. L. 114–94, div. A, title VI, §§6003, 6004, Dec. 4, 2015, 129 Stat. 1562.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -759,6 +761,8 @@ Subsec. (c). Pub. L. 109–59, §5203(b)(1), added subsec. (c).
 Subsec. (d). Pub. L. 109–59, §5203(c)(1), added subsec. (d).
 
 Subsec. (e). Pub. L. 109–59, §5203(d), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -18,7 +18,7 @@ Nothing in this section shall be construed to affect in any way the December 31,
 
 #### (c) Regional management plans for waste disposal
 
-The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, andlocal agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
+The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposalstrategy. These plans should address, among other things—
 
 &emsp;(1) the sources, quantities, and types of materials that require and will require disposal;
 
@@ -41,6 +41,8 @@ The Administrator, in cooperation with the Secretary of Commerce, shall submit t
 &emsp;(3) recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.
 
 (Pub. L. 92–532, title II, §203, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–381, §1, Oct. 6, 1980, 94 Stat. 1523; Pub. L. 99–272, title VI, §6063, Apr. 7, 1986, 100 Stat. 131.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

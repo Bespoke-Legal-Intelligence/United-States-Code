@@ -84,6 +84,8 @@ June 29, 1936, ch. 858, title XI, §1104A(<i>l</i>), (n), as added Pub. L. 108�
 
 46 App.:1274(<i>l</i>).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, §3506(c)(1), substituted "and administration" for "procedures" in section catchline.
@@ -95,6 +97,8 @@ Subsecs. (c), (d). Pub. L. 116–92, §3506(c)(2), added subsecs. (c) and (d).
 Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(D), (2)(G), (b)(7), into this section by inserting "or Administrator" after "Secretary" wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(1)(D), (2)(G), (b)(7), which directed the amendment of section 1274(l), (n) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Expedited Consideration of Low-Risk Applications
 

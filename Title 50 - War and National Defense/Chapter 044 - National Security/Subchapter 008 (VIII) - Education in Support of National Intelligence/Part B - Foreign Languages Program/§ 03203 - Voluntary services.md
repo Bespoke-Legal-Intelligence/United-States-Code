@@ -32,7 +32,7 @@ The head of a covered element of the intelligence community may recruit and trai
 
 (2)(A) With respect to voluntary services under paragraph (1) provided by an individual that are within the scope of the services accepted under that paragraph, the individual shall be deemed to be a volunteer of a governmental entity or nonprofit institution for purposes of the Volunteer Protection Act of 1997 (42 U.S.C. 14501 et seq.).
 
-(B) In the case of any claim against such an individual with respect to the provision of such services, section 4(d) of such Act (42 U.S.C. 14503(d)) <sup>1</sup> shall not apply.
+(B) In the case of any claim against such an individual with respect to the provision of suchservices, section 4(d) of such Act (42 U.S.C. 14503(d)) <sup>1</sup> shall not apply.
 
 (3) Acceptance of voluntary services under this section shall have no bearing on the issuance or renewal of a security clearance.
 

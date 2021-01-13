@@ -4,15 +4,19 @@
 
 In this part:
 
-#### (1) Child
+#### (1) Caregiver assessment
+
+&emsp;The term "caregiver assessment" means a defined process of gathering information to identify the specific needs, barriers to carrying out caregiving responsibilities, and existing supports of a family caregiver or older relative caregiver, as identified by the caregiver involved, to appropriately target recommendations for support services described in section 3030s–1(b) of this title. Such assessment shall be administered through direct contact with the caregiver, which may include contact through a home visit, the Internet, telephone or teleconference, or in-person interaction.
+
+#### (2) Child
 
 &emsp;The term "child" means an individual who is not more than 18 years of age.
 
-#### (2) Individual with a disability
+#### (3) Individual with a disability
 
 &emsp;The term "individual with a disability" means an individual with a disability, as defined in section 12102 of this title, who is not less than age 18 and not more than age 59.
 
-#### (3) Older relative caregiver
+#### (4) Older relative caregiver
 
 &emsp;The term "older relative caregiver" means a caregiver who—
 
@@ -34,9 +38,11 @@ In this part:
 
 In providing services under this part, for family caregivers who provide care for individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
 
-(Pub. L. 89–73, title III, §372, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §320, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(k)(2), (m), Apr. 19, 2016, 130 Stat. 340, 341.)
+(Pub. L. 89–73, title III, §372, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §320, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(k)(2), (m), Apr. 19, 2016, 130 Stat. 340, 341; Pub. L. 116–131, title II, §217(a), Mar. 25, 2020, 134 Stat. 260.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–131 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 <b>2016</b>—Pub. L. 114–144, §4(m), substituted "this part" for "this subpart" in introductory provisions.
 
@@ -54,7 +60,7 @@ For short title of this part as the "National Family Caregiver Support Act", see
 
 #### Recognize, Assist, Include, Support, and Engage Family Caregivers
 
-Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, provided that:
+Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, as amended by Pub. L. 116–131, title I, §122(b), (c), Mar. 25, 2020, 134 Stat. 248, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -74,7 +80,7 @@ Family caregiver.—The term 'family caregiver' means an adult family member or 
 
 &emsp;"(3)
 
-Secretary.—The term 'Secretary' means the Secretary of Health and Human Services.
+Secretary.—The term 'Secretary' means the Secretary of Health and Human Services, acting through the Assistant Secretary for Aging.
 
 &emsp;"(4)
 
@@ -240,5 +246,5 @@ Nonapplicability of FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) s
 
 #### "SEC. 6. SUNSET PROVISION.
 
-"The authority and obligations established by this Act shall terminate on the date that is 3 years after the date of enactment of this Act \[Jan. 22, 2018\]."
+"The authority and obligations established by this Act shall terminate on the date that is 4 years after the date of enactment of this Act \[Jan. 22, 2018\]."
 

@@ -56,7 +56,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;&emsp;(iii) at any other time considered appropriate by the Secretary.
 
-&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
+&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed withoutregard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
 
 > &emsp;The Secretary may enter into such contracts without regard to final rules having been promulgated.
 
@@ -110,7 +110,7 @@ Activities described in this subsection are as follows:
 
 #### (3) Increase in CMS staffing devoted to protecting Medicaid program integrity
 
-&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary bythe Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+&emsp;From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
 #### (4) Evaluations
 

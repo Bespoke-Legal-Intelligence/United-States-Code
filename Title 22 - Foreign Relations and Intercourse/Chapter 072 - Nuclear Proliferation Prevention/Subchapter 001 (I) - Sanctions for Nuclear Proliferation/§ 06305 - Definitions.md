@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) an individual who is not a citizen of the United States or an alien admitted for permanent residence to the United States; or
 
-&emsp;&emsp;(B) a corporation, partnership, or other nongovernment entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States;
+&emsp;&emsp;(B) a corporation, partnership, or other nongovernment entity which is created ororganized under the laws of a foreign country or which has its principal place of business outside the United States;
 
 &emsp;(2) the term "goods or technology" means—
 
@@ -32,9 +32,13 @@ For purposes of this subchapter—
 
 (Pub. L. 103–236, title VIII, §830, Apr. 30, 1994, 108 Stat. 521.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original a reference to this part, meaning part B of title VIII of Pub. L. 103–236, which is classified principally to this subchapter. For complete classification of part B to the Code, see Effective Date note set out under section 6301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

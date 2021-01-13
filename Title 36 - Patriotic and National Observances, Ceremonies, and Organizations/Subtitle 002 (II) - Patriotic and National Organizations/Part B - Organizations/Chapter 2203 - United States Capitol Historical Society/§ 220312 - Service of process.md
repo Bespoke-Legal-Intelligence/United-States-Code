@@ -1,6 +1,6 @@
 ### §220312. Service of process
 
-The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business addressof the agent, is notice to or service on the corporation.
+The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465.)
 

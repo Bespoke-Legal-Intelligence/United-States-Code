@@ -26,6 +26,8 @@
 
 (Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–614; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided for restrictions relating to details to fill vacancies, prior to repeal by Pub. L. 105–277, div. C, title I, §151(b), (d)(1), Oct. 21, 1998, 112 Stat. 2681–611, 2681–616, effective 30 days after Oct. 21, 1998. See section 3347 of this title.
@@ -33,6 +35,8 @@ A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

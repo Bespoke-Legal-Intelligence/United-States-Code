@@ -28,13 +28,15 @@ Committee Procedures.—A negotiated rulemaking committee established under this
 
 (f)
 
-Report of Committee.—If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shall transmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate. Any committee member may include as an addendum to the report additional information, recommendations, or materials.
+Report of Committee.—If a committee reaches a consensus on a proposed rule, at the conclusion of negotiations the committee shall transmit to the agency that established the committee a report containing the proposed rule. If the committee does not reach a consensus on a proposed rule, the committee may transmit to the agency a report specifying any areas in which the committee reached a consensus. The committee may include in a report any other information, recommendations, or materials that the committee considers appropriate.Any committee member may include as an addendum to the report additional information, recommendations, or materials.
 
 (g)
 
 Records of Committee.—In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 10(b) and (c) of the Federal Advisory Committee Act.
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4973, §586; renumbered §566, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

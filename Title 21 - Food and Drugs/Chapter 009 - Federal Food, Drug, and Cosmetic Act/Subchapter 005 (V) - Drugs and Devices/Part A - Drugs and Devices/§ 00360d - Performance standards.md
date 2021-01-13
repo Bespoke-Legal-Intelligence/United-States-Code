@@ -52,7 +52,7 @@
 
 (2) If, after publication of a notice in accordance with paragraph (1), the Secretary receives a request for a change in the classification of the device, the Secretary shall, within 60 days of the publication of the notice, after consultation with the appropriate panel under section 360c of this title, either deny the request or give notice of an intent to initiate such change under section 360c(e) of this title.
 
-(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisory committee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing aperformance standard and publish in the Federal Register findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisory committee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing a performance standard and publish in the Federal Register findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 (B) A regulation establishing a performance standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before one year after the date of its publication unless (i) the Secretary determines that an earlier effective date is necessary for the protection of the public health and safety, or (ii) such standard has been established for a device which, effective upon the effective date of the standard, has been reclassified from class III to class II. Such date or dates shall be established so as to minimize, consistent with the public health and safety, economic loss to, and disruption or dislocation of, domestic and international trade.
 
@@ -162,6 +162,8 @@
 
 (June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–52 added subsec. (d).
@@ -221,6 +223,8 @@ Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relati
 Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

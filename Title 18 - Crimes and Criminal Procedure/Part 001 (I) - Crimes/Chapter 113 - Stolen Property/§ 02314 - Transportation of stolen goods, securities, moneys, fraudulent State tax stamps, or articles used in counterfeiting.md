@@ -12,7 +12,7 @@ Whoever, with unlawful or fraudulent intent, transports in interstate or foreign
 
 Whoever transports, transmits, or transfers in interstate or foreign commerce any veterans' memorial object, knowing the same to have been stolen, converted or taken by fraud—
 
-Shall be fined under this title or imprisoned not more than ten years, or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater. If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans' memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.
+Shall be fined under this title or imprisoned not more than ten years, or both. If the offenseinvolves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater. If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans' memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
@@ -42,13 +42,15 @@ Section 418 of title 18, U.S.C., 1940 ed., relating to venue, was omitted as com
 
 Section 418a of title 18, U.S.C., 1940 ed., relating to conspiracy, was omitted as covered by section 371 of this title, the general conspiracy section.
 
-Section 419 of title 18, U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Actshould be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
+Section 419 of title 18, U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Act should be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
 
 Changes were made in phraseology and arrangement.
 
 #### 1949 Act
 
 This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., to conform to the original law upon which the section is based.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

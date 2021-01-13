@@ -28,7 +28,7 @@
 
 (1) At the election of the employer with respect to any employee, the employer shall deduct and withhold upon the wages paid to such employee a tax (in lieu of the tax required to be deducted and withheld under subsection (a)) determined in accordance with tables prescribed by the Secretary in accordance with paragraph (6).
 
-(2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll periodcontaining a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
+(2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
 (3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
@@ -140,7 +140,7 @@ The Secretary may, under regulations prescribed by him, authorize—
 
 &emsp;&emsp;(B) to determine the amount to be deducted and withheld upon each payment of wages to such employee during such quarter as if the appropriate average of the wages so estimated constituted the actual wages paid, and
 
-&emsp;&emsp;(C) to deduct and withhold upon any payment of wages to such employee during such quarter (and, in the case of tips referred to in subsection (k), within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount required to bededucted and withheld during such quarter without regard to this subsection.
+&emsp;&emsp;(C) to deduct and withhold upon any payment of wages to such employee during such quarter (and, in the case of tips referred to in subsection (k), within 30 days thereafter) such amount as may be necessary to adjust the amount actually deducted and withheld upon the wages of such employee during such quarter to the amount required to be deducted and withheld during such quarter without regard to this subsection.
 
 #### (2) Withholding on basis of annualized wages
 
@@ -280,7 +280,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (5) Special rule for sick pay paid pursuant to certain collective-bargaining agreements
 
-&emsp;In the case of any sick pay paid pursuant to a collective-bargaining agreement between employee representatives and one or more employers which contains a provision specifying that this paragraph is to apply to sick pay paid pursuant to such agreement and contains a provision for determining the amount to be deducted and withheld from each payment of such sick pay—
+&emsp;In the case of any sick pay paid pursuant to a collective-bargaining agreement between employee representatives and one or more employers which contains a provision specifying that this paragraph is to apply to sick paypaid pursuant to such agreement and contains a provision for determining the amount to be deducted and withheld from each payment of such sick pay—
 
 &emsp;&emsp;(A) the requirement of paragraph (1)(C) that a request for withholding be in effect shall not apply, and
 
@@ -332,7 +332,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(B) from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
 
-> &emsp;if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulationsprescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
+> &emsp;if the employer and employee, or the person making and the person receiving such other type of payment, agree to such withholding. Such agreement shall be in such form and manner as the Secretary may by regulations prescribe. For purposes of this chapter (and so much of subtitle F as relates to this chapter), remuneration or other payments with respect to which such agreement is made shall be treated as if they were wages paid by an employer to an employee to the extent that such remuneration is paid or other payments are made during the period for which the agreement is in effect.
 
 #### (q) Extension of withholding to certain gambling winnings
 
@@ -468,7 +468,7 @@ The date of the enactment of this subsection, referred to in subsec. (r)(4), is 
 
 #### Amendments
 
-<b>2017</b>—Subsec. (a)(2). Pub. L. 115–97, §11041(c)(1), substituted "means the amount by which the wages exceed the taxpayer's withholding allowance, prorated to thepayroll period." for "means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section."
+<b>2017</b>—Subsec. (a)(2). Pub. L. 115–97, §11041(c)(1), substituted "means the amount by which the wages exceed the taxpayer's withholding allowance, prorated to the payroll period." for "means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section."
 
 Subsec. (b)(1), (2). Pub. L. 115–97, §11041(c)(2)(C), substituted "allowance" for "exemption" in two places.
 
@@ -570,7 +570,7 @@ Subsec. (r). Pub. L. 99–514, §1303(b)(4), struck out subsec. (r) which provid
 
 Subsec. (s). Pub. L. 97–248, §317(a), added subsec. (s).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §101(e)(1), revised subsec. (a) generally to provide for a 5-percent reduction in income tax withholding rates on Oct. 1, 1981, a further 10-percent reduction on July 1, 1982, and a final 10-percent reduction on July 1, 1983.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §101(e)(1), revised subsec. (a) generally to provide for a 5-percent reduction in income tax withholding rates on Oct. 1, 1981, a further10-percent reduction on July 1, 1982, and a final 10-percent reduction on July 1, 1983.
 
 Subsec. (b)(1). Pub. L. 97–34, §101(e)(2)(A), redesignated par. (2) as (1). Former par. (1), which set out a table for determining amount of one withholding exemption for each of the various payroll periods, was struck out.
 
@@ -604,7 +604,7 @@ Subsec. (m)(1). Pub. L. 95–600, §§101(e)(2), 102(c)(2), substituted "$1,000"
 
 Subsec. (r). Pub. L. 95–600, §601(b)(2), added subsec. (r).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–30, §105(a), substituted "With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977" for "With respect to wages paid prior to January 1, 1978, the tables so prescribed shall be the same as the tables prescribed under this section which were in effect on January 1, 1976. With respect to wages paid after December 31, 1977, the Secretary shall prescribe new tables which shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made tosubsections (b) and (c) of section 141 by the Tax Reform Act of 1976".
+<b>1977</b>—Subsec. (a). Pub. L. 95–30, §105(a), substituted "With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977" for "With respect to wages paid prior to January 1, 1978, the tables so prescribed shall be the same as the tables prescribed under this section which were in effect on January 1, 1976. With respect to wages paid after December 31, 1977, the Secretary shall prescribe new tables which shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made to subsections (b) and (c) of section 141 by the Tax Reform Act of 1976".
 
 Subsec. (f)(1). Pub. L. 95–30, §105(b)(1), substituted "zero bracket" for "standard deduction" in subpar. (G) and in provisions following subpar. (G).
 
@@ -760,7 +760,7 @@ Pub. L. 112–56, title I, §102(b), Nov. 21, 2011, 125 Stat. 712, provided that
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–222, title V, §511(b), May 17, 2006, 120 Stat. 365, as amended by Pub. L. 111–5, div. B, title I, §1511,Feb. 17, 2009, 123 Stat. 355, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2011."
+Pub. L. 109–222, title V, §511(b), May 17, 2006, 120 Stat. 365, as amended by Pub. L. 111–5, div. B, title I, §1511, Feb. 17, 2009, 123 Stat. 355, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2011."
 
 #### Effective Date of 2001 Amendment
 
@@ -870,7 +870,7 @@ Pub. L. 91–36, §2(b), June 30, 1969, 83 Stat. 42, provided that: "The amendme
 
 Pub. L. 89–368, title I, §101(e)(6), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by paragraphs (1) and (2) of this subsection \[amending this section\] shall apply only with respect to remuneration paid after December 31, 1966, but only with respect to withholding exemptions based on estimation years beginning after such date."
 
-Pub. L. 89–368, title I, §101(g), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by this section (other than subsection (e) \[amending this section\]) shall apply only with respect to remuneration paid after April 30, 1966."
+Pub. L. 89–368, title I, §101(g), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by this section\(other than subsection (e) \[amending this section\]) shall apply only with respect to remuneration paid after April 30, 1966."
 
 #### Effective Date of 1965 Amendments
 

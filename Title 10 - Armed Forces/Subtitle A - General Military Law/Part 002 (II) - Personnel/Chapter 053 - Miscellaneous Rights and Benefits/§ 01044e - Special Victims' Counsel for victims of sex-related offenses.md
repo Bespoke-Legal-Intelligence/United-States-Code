@@ -80,7 +80,7 @@ Types of Legal Assistance Authorized.—The types of legal assistance authorized
 
 &emsp;&emsp;(C) in any resulting military justice proceedings.
 
-&emsp;(11) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (h).<sup>1</sup>
+&emsp;(11) Such other legal assistance as the Secretary of Defense (or, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) may authorize in the regulations prescribed under subsection (i).
 
 (c)
 
@@ -102,7 +102,7 @@ Qualifications.—(1) An individual may not be designated as a Special Victims' 
 
 (e)
 
-Administrative Responsibility.—(1) Consistent with the regulations prescribed under subsection (h),<sup>1</sup> the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
+Administrative Responsibility.—(1) Consistent with the regulations prescribed under subsection (i), the Judge Advocate General (as defined in section 801(1) of this title) under the jurisdiction of the Secretary concerned, and within the Marine Corps the Staff Judge Advocate to the Commandant of the Marine Corps, is responsible for the establishment and supervision of individuals designated as Special Victims' Counsel.
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims' Counsel programs operated under this section.
 
@@ -122,7 +122,7 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
-(2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
+(2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of theavailability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
 
 (3) The assistance of a Special Victims' Counsel under this subsection shall be available to an individual described in subsection (a)(2) regardless of whether the individual elects unrestricted or restricted reporting of the alleged sex-related offense. The individual shall also be informed that the assistance of a Special Victims' Counsel may be declined, in whole or in part, but that declining such assistance does not preclude the individual from subsequently requesting the assistance of a Special Victims' Counsel.
 
@@ -132,7 +132,7 @@ Availability of Special Victims' Counsel.—(1) An individual described in subse
 
 (g)
 
-Staffing Caseload Levels.—Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims' Counsel <sup>2</sup> serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims' Counsel does not exceed, to the extent practicable, 25 cases any given time.
+Staffing Caseload Levels.—Commencing not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary concerned shall ensure that the number of Special Victims' Counsel <sup>1</sup> serving in each military department (and with respect to the Coast Guard) is sufficient to ensure that the average caseload of a Special Victims' Counsel does not exceed, to the extent practicable, 25 cases any given time.
 
 (h)
 
@@ -146,15 +146,15 @@ Alleged Sex-related Offense Defined.—In this section, the term "alleged sex-re
 
 Regulations.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub.L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title V, §§541, 542(a), Dec. 20, 2019, 133 Stat. 1374, 1375.)
+(Added Pub. L. 113–66, div. A, title XVII, §1716(a)(1), Dec. 26, 2013, 127 Stat. 966; amended Pub. L. 113–291, div. A, title V, §§531(c), 533, 534(a), Dec. 19, 2014, 128 Stat. 3364, 3366, 3367; Pub. L. 114–92, div. A, title V, §§532–534(a), 535(a), (b), Nov. 25, 2015, 129 Stat. 815, 816; Pub. L. 115–91, div. A, title X, §1081(c)(2)(D), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–92, div. A, title V, §§541, 542(a), Dec. 20, 2019, 133 Stat. 1374, 1375; Pub. L. 116–283, div. A, title X, §1081(a)(22), Jan. 1, 2021, 134 Stat. 3872.)
 
 #### References in Text
-
-Subsection (h), referred to in subsecs. (b)(11) and (e), was redesignated subsection (i) of this section by Pub. L. 116–92, div. A, title V, §541(c)(1), Dec. 20, 2019, 133 Stat. 1375.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (g), is the date of enactment of Pub. L. 116–92 which was approved Dec. 20, 2019.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (b)(11), (e). Pub. L. 116–283 substituted "subsection (i)" for "subsection (h)".
 
 <b>2019</b>—Subsec. (b)(8)(D). Pub. L. 116–92, §541(a), substituted ", section 1408(h) of this title, and other" for "and other".
 
@@ -202,7 +202,7 @@ Notification to Victims of Events in Military Justice Process.—
 
 &emsp;"(1)
 
-Notification required.—A member of the Armed Forces who is the victim of an alleged sexual assault by another member of the Armed Forces shall receive notification of each significant event in the military justice process that relates to the investigation, prosecution, and confinement of such other member for such assault.
+Notification required.—A member of the Armed Forces who is the victim of an alleged sexualassault by another member of the Armed Forces shall receive notification of each significant event in the military justice process that relates to the investigation, prosecution, and confinement of such other member for such assault.
 
 &emsp;"(2)
 
@@ -298,13 +298,11 @@ Definitions.—In this section:
 
 #### Implementation
 
-Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shall be implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title XVII, §1716(a)(4), Dec. 26, 2013, 127 Stat. 969, provided that: "Section 1044e of title 10, United States Code, as added by paragraph (1), shallbe implemented within 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Enhanced Training Requirement
 
 Pub. L. 113–66, div. A, title XVII, §1716(b), Dec. 26, 2013, 127 Stat. 969, provided that: "The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, shall implement, consistent with the guidelines provided under section 1044e of title 10, United States Code, as added by subsection (a), in-depth and advanced training for all military and civilian attorneys providing legal assistance under section 1044 or 1044e of such title to support victims of alleged sex-related offenses."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Counsels".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Counsels".</i>
 

@@ -52,11 +52,15 @@ In paragraph (4), the words "of the United States of America" are omitted as unn
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Par. (3)(B). Pub. L. 96–54 substituted "Mayor" for "Commissioner".
 
 <b>1968</b>—Par. (3)(B). Pub. L. 90–623 substituted "Commissioner" for "Board of Commissioners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

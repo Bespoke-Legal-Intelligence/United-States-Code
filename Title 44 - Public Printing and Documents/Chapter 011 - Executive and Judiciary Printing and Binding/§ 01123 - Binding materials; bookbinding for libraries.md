@@ -10,9 +10,13 @@ Based on 44 U.S. Code, 1964 ed., §116 (Jan. 12, 1895, ch. 23, §86, 28 Stat. 62
 
 This section incorporates all but the first sentence of former section 116. The balance will be found in section 501 of the revision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113 struck out "the Patent Office," after "the Surgeon General's Office,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

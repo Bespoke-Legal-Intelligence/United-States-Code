@@ -80,7 +80,7 @@ Subsec. (c)(2). Pub. L. 115–232, §809(a), substituted "section 8333" for "sec
 
 <b>1980</b>—Subsec. (c)(2). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of the Department of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
 
-Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
+Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability to persons who became members of the uniformed servicesbefore the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
 <b>1967</b>—Subsec. (c)(2). Pub. L. 90–207 inserted ", or if he has served as senior enlisted advisor of the Navy or as sergeant major of the Marine Corps, he shall be entitled to retired pay at the rate of 75 percent of the highest basic pay to which he was entitled while so serving, if that rate is higher" after "retirement".
 

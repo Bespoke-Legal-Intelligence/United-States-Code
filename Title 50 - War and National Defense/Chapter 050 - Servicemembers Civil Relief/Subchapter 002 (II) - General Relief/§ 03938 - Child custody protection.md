@@ -18,7 +18,7 @@ In any case where State law applicable to a child custody proceeding involving a
 
 #### (e) Deployment defined
 
-In this section, the term "deployment" means the movement or mobilization of a servicemember to a location for a period of longer than 60 days and not longer than 540 days pursuant to temporary or permanent official orders—
+In this section, the term "deployment" means the movement or mobilization of aservicemember to a location for a period of longer than 60 days and not longer than 540 days pursuant to temporary or permanent official orders—
 
 &emsp;(1) that are designated as unaccompanied;
 

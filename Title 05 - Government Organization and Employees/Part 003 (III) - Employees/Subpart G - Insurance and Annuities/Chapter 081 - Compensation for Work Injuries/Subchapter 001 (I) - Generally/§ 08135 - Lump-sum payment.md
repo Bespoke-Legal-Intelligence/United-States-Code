@@ -52,6 +52,8 @@ July 4, 1966, Pub. L. 89–488, §8, 80 Stat. 254.
 
 The word "widower" is substituted for "dependent widower" to conform to the definition in 5 U.S.C. 8101(11). The words "section 8133 of title 5" are substituted for "section 10" to reflect the codification of that section in title 5, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–303 substituted "age 55" for "age 60".
@@ -61,6 +63,8 @@ The word "widower" is substituted for "dependent widower" to conform to the defi
 Subsec. (a)(1). Pub. L. 93–416, §19, substituted "$50" for "$5".
 
 Subsec. (b). Pub. L. 93–416, §16(b), inserted "before reaching age 60" after "On remarriage".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

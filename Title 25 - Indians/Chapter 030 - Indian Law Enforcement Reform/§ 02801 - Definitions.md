@@ -28,15 +28,23 @@ For purposes of this chapter—
 
 (Pub. L. 101–379, §2, Aug. 18, 1990, 104 Stat. 473; Pub. L. 111–211, title II, §§203(b), 211(a), July 29, 2010, 124 Stat. 2263, 2264.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–211, §211(a), redesignated and reordered pars. (9) and (1) to (7) as (1) to (8), respectively, substituted "Office of Justice Services" for "Division of Law Enforcement Services" in par. (1), and struck out former par. (8) which read as follows: "The term 'Division of Law Enforcement Services' means the entity established within the Bureau under section 2802(b) of this title."
 
 Par. (10). Pub. L. 111–211, §203(b), added par. (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–166, §1, Oct. 10, 2020, 134 Stat. 766, provided that: "This Act \[enacting provisions set out as a note under section 2802 of this title\] may be cited as the 'Not Invisible Act of 2019'."
+
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–211, title II, §201(a), July 29, 2010, 124 Stat. 2261, provided that: "This title \[enacting part G (§458ccc et seq.) of subchapter II of chapter 14 of this title and sections 2810 to 2815, 3665a, and 3682 of this title, redesignating part F (§458bbb et seq.) of subchapter II of chapter 14 of this title as part H (§458ddd et seq.), amending this section and sections 458ddd–1, 458ddd–2, 1302, 1321, 2411 to 2413, 2414a, 2415, 2431 to 2433, 2441, 2442, 2451, 2453, 2802 to 2804, 2809, 3613, 3621, 3653, 3662, 3663, 3666, and 3681 of this title, sections 841, 845, 1162, 4042, and 4352 of Title 18, Crimes and Criminal Procedure, sections 872, 872a, 873, and 878 of Title 21, Food and Drugs, sections 534 and 543 of Title 28, Judiciary and Judicial Procedure, and sections 2996f, 3732, 3796h, 3796dd, 5616, 5783, and 13709 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 1302 of this title, section 872 of Title 21, section 534 of Title 28, and sections 3732, 3796h, 3796dd, and 14044 of Title 42, amending provisions set out as a note under section 534 of Title28, and repealing provisions set out as a note under section 3651 of this title\] may be cited as the 'Tribal Law and Order Act of 2010'."
+Pub. L. 111–211, title II, §201(a), July 29, 2010, 124 Stat. 2261, provided that: "This title \[enacting part G (§458ccc et seq.) of subchapter II of chapter 14 of this title and sections 2810 to 2815, 3665a, and 3682 of this title, redesignating part F (§458bbb et seq.) of subchapter II of chapter 14 of this title as part H (§458ddd et seq.), amending this section and sections 458ddd–1, 458ddd–2, 1302, 1321, 2411 to 2413, 2414a, 2415, 2431 to 2433, 2441, 2442, 2451, 2453, 2802 to 2804, 2809, 3613, 3621, 3653, 3662, 3663, 3666, and 3681 of this title, sections 841, 845, 1162, 4042, and 4352 of Title 18, Crimes and Criminal Procedure, sections 872, 872a, 873, and 878 of Title 21, Food and Drugs, sections 534 and 543 of Title 28, Judiciary and Judicial Procedure, and sections 2996f, 3732, 3796h, 3796dd, 5616, 5783, and 13709 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 1302 of this title, section 872 of Title 21, section 534 of Title 28, and sections 3732, 3796h, 3796dd, and 14044 of Title 42, amending provisions set out as a note under section 534 of Title 28, and repealing provisions set out as a note under section 3651 of this title\] may be cited as the 'Tribal Law and Order Act of 2010'."
 
 #### Short Title
 
@@ -126,6 +134,8 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 Tribal government.—The term 'tribal government' means the governing body of a federally recognized Indian tribe."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13898. Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives
 
 Ex. Ord. No. 13898, Nov. 26, 2019, 84 F.R. 66059, provided:
@@ -136,7 +146,7 @@ Section 1. <i>Purpose</i>. My Administration has heard the ongoing and serious c
 
 Sec. 2. <i>Establishment</i>. (a) There is hereby established the Task Force on Missing and Murdered American Indians and Alaska Natives (Task Force), co-chaired by the Attorney General and the Secretary of the Interior (Secretary) or their designees.
 
-(b) The Department of Justice shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force. The Attorney General, in consultation with the Secretary, shall designate an official of the Department of Justice to serve as the Executive Director of the Task Force, responsible for coordinating its day-to-day functions.As necessary and appropriate, the Co-Chairs may afford the other members of the Task Force an opportunity to provide input into the decision of whom to designate as the Executive Director.
+(b) The Department of Justice shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force. The Attorney General, in consultation with the Secretary, shall designate an official of the Department of Justice to serve as the Executive Director of the Task Force, responsible for coordinating its day-to-day functions. As necessary and appropriate, the Co-Chairs may afford the other members of the Task Force an opportunity to provide input into the decision of whom to designate as the Executive Director.
 
 Sec. 3. <i>Membership</i>. (a) In addition to the Co-Chairs, the Task Force shall be composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government and shall include the following members:
 
@@ -154,7 +164,7 @@ Sec. 3. <i>Membership</i>. (a) In addition to the Co-Chairs, the Task Force shal
 
 (vii) such representatives of other executive departments, agencies, and offices as the Co-Chairs may, from time to time, designate.
 
-(b) In performing the functions set forth in sections 4 and 5 of this order, the Co-Chairs and members may designate representatives of their respective departments, agencies, offices, or entities under their direction to participate in the Task Force as necessary, and the Co-Chairs may also direct coordination with other Presidential task forces. In carrying out its functions, the Task Force shall coordinate with appropriate White House officials, including the Senior Counselor to the President, the Assistant to the President for Domestic Policy, and the Deputy Assistant to the President and Director of Intergovernmental Affairs.
+(b) In performing the functions set forth in sections 4 and 5 of this order, the Co-Chairs and members may designate representatives of their respective departments, agencies, offices, or entities under their direction to participate in the Task Force as necessary, and the Co-Chairs may also direct coordination with other Presidential task forces. In carrying out its functions, the Task Force shall coordinate with appropriate White House officials, including the Senior Counselor to thePresident, the Assistant to the President for Domestic Policy, and the Deputy Assistant to the President and Director of Intergovernmental Affairs.
 
 Sec. 4. <i>Mission and Functions</i>. (a) The Task Force shall:
 

@@ -18,7 +18,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 (2) The authority of the Commission established in this subsection shall not be subject to or affected by the provisions of part III of title 5 or section 1342 of title 31.
 
-(3) Any person who provides assistance to the Commission under this subsection shall not beconsidered, by reason of having provided such assistance, a Federal employee.
+(3) Any person who provides assistance to the Commission under this subsection shall not be considered, by reason of having provided such assistance, a Federal employee.
 
 (4) Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
 
@@ -46,7 +46,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (3) State preemption
 
-&emsp;(A) Notwithstanding sections 152(b) and 221(b) of this title, no State or local government shall have any authority to regulate the entry of or the rates charged by any commercial mobile service or any private mobile service, except that this paragraph shall not prohibit a State from regulating the other terms and conditions of commercial mobile services. Nothing in this subparagraph shall exempt providers of commercial mobile services (where such services are a substitute for land line telephone exchange service for a substantial portion of the communications within such State) from requirements imposed by a State commission on all providers of telecommunications services necessary to ensure the universal availability of telecommunications service at affordable rates. Notwithstanding the first sentence of this subparagraph, a State may petition the Commission for authority to regulate the rates for any commercial mobile service and the Commission shall grant such petition if such State demonstrates that—
+&emsp;(A) Notwithstanding sections 152(b) and 221(b) of this title, no State or local government shall have any authority to regulate the entry of or the rates charged by any commercial mobile service or any private mobile service, except that this paragraph shall not prohibit a State from regulating the other terms and conditions of commercial mobile services.Nothing in this subparagraph shall exempt providers of commercial mobile services (where such services are a substitute for land line telephone exchange service for a substantial portion of the communications within such State) from requirements imposed by a State commission on all providers of telecommunications services necessary to ensure the universal availability of telecommunications service at affordable rates. Notwithstanding the first sentence of this subparagraph, a State may petition the Commission for authority to regulate the rates for any commercial mobile service and the Commission shall grant such petition if such State demonstrates that—
 
 &emsp;&emsp;(i) market conditions with respect to such services fail to protect subscribers adequately from unjust and unreasonable rates or rates that are unjustly or unreasonably discriminatory; or
 
@@ -106,7 +106,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (8) Mobile services access
 
-&emsp;A person engaged in the provision of commercial mobile services, insofar as such personis so engaged, shall not be required to provide equal access to common carriers for the provision of telephone toll services. If the Commission determines that subscribers to such services are denied access to the provider of telephone toll services of the subscribers' choice, and that such denial is contrary to the public interest, convenience, and necessity, then the Commission shall prescribe regulations to afford subscribers unblocked access to the provider of telephone toll services of the subscribers' choice through the use of a carrier identification code assigned to such provider or other mechanism. The requirements for unblocking shall not apply to mobile satellite services unless the Commission finds it to be in the public interest to apply such requirements to such services.
+&emsp;A person engaged in the provision of commercial mobile services, insofar as such person is so engaged, shall not be required to provide equal access to common carriers for the provision of telephone toll services. If the Commission determines that subscribers to such services are denied access to the provider of telephone toll services of the subscribers' choice, and that such denial is contrary to the public interest, convenience, and necessity, then the Commission shall prescribe regulations to afford subscribers unblocked access to the provider of telephone toll services of the subscribers' choice through the use of a carrier identification code assigned to such provider or other mechanism. The requirements for unblocking shall not apply to mobile satellite services unless the Commission finds it to be in the public interest to apply such requirements to such services.
 
 #### (d) Definitions
 
@@ -119,6 +119,8 @@ For purposes of this section—
 &emsp;(3) the term "private mobile service" means any mobile service (as defined in section 153 of this title) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
 
 (June 19, 1934, ch. 652, title III, §332, formerly §331, as added Pub. L. 97–259, title I, §120(a), Sept. 13, 1982, 96 Stat. 1096; renumbered §332, Pub. L. 102–385, §25(b), Oct. 5, 1992, 106 Stat. 1502; amended Pub. L. 103–66, title VI, §6002(b)(2)(A), Aug. 10, 1993, 107 Stat. 392; Pub. L. 104–104, §3(d)(2), title VII, §§704(a), 705, Feb. 8, 1996, 110 Stat. 61, 151, 153; Pub. L. 115–141, div. P, title IV, §402(g), Mar. 23, 2018, 132 Stat. 1089.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -138,7 +140,7 @@ In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679(b) o
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: "The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additional providers or classes of providers in those services would be likely to enhance competition."
+<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: "The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additionalproviders or classes of providers in those services would be likely to enhance competition."
 
 <b>1996</b>—Subsec. (c)(7). Pub. L. 104–104, §704(a), added par. (7).
 
@@ -147,6 +149,8 @@ Subsec. (c)(8). Pub. L. 104–104, §705, added par. (8).
 Subsec. (d)(1), (3). Pub. L. 104–104, §3(d)(2), substituted "section 153" for "section 153(n)".
 
 <b>1993</b>—Pub. L. 103–66 struck out "Private land" before "mobile services" in section catchline, struck out "land" before "mobile services" wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -166,7 +170,7 @@ Effective dates of mobile service amendments.—The amendments made by subsectio
 
 #### Availability of Property
 
-Pub. L. 104–104, title VII, §704(c), Feb. 8, 1996, 110 Stat. 152, provided that: "Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property,rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes."
+Pub. L. 104–104, title VII, §704(c), Feb. 8, 1996, 110 Stat. 152, provided that: "Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency's mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes."
 
 #### Transitional Rulemaking for Mobile Service Providers
 

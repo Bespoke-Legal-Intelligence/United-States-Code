@@ -48,9 +48,13 @@ In this chapter:
 
 (Pub. L. 105–277, div. G, subdiv. A, title XI, §1103, Oct. 21, 1998, 112 Stat. 2681–766.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this subdivision", meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

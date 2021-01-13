@@ -24,9 +24,13 @@ Indian allotments were included in the definition on authority of the case of <i
 
 This section \[section 25\], by adding to section 1151 of title 18, U.S.C., the phrase "except as otherwise provided in sections 1154 and 1156 of this title", incorporates in this section the limitations of the term "Indian country" which are added to sections 1154 and 1156 by sections 27 and 28 of this bill.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1949</b>—Act May 24, 1949, incorporated the limitations of term "Indian country" which are contained in sections 1154 and 1156 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1976 Amendment
 

@@ -1,6 +1,6 @@
 ### §594. Intimidation of voters
 
-Whoever intimidates, threatens, coerces, or attempts to intimidate, threaten, or coerce, any other person for the purpose of interfering withthe right of such other person to vote or to vote as he may choose, or of causing such other person to vote for, or not to vote for, any candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of Columbia, or Resident Commissioner, at any election held solely or in part for the purpose of electing such candidate, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever intimidates, threatens, coerces, or attempts to intimidate, threaten, or coerce, any other person for the purpose of interfering with the right of such other person to vote or to vote as he may choose, or of causing such other person to vote for, or not to vote for, any candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of Columbia, or Resident Commissioner, at any election held solely or in part for the purpose of electing such candidate, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 720; Pub. L. 91–405, title II, §204(d)(5), Sept. 22, 1970, 84 Stat. 853; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -10,11 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §§61, 61g (Aug. 2, 1939, 11:50 a.m. E.S.T
 
 This section consolidates sections 61 and 61g of title 18, U.S.C., 1940 ed., with changes in phraseology only.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1970</b>—Pub. L. 91–405 substituted "Delegate from the District of Columbia, or Resident Commissioner" for "Delegates or Commissioners from the Territories and possessions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

@@ -24,11 +24,15 @@ Subsection (e) of such section 41(26), relating to defense in nature of interple
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–2 inserted "subsection (a) or (d) of" before "section 1332".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
+Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
 

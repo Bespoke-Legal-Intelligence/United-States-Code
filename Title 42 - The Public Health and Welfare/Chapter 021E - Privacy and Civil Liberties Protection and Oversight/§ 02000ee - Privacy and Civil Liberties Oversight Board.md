@@ -20,7 +20,7 @@ The Board shall—
 
 &emsp;(1) analyze and review actions the executive branch takes to protect the Nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties; and
 
-&emsp;(2) ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
+&emsp;(2) ensure that liberty concerns are appropriately considered in the development andimplementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
 
 #### (d) Functions
 
@@ -108,7 +108,7 @@ The Board shall—
 
 The Board—
 
-&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with theprotection of classified information and applicable law; and
+&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
 
 &emsp;(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 

@@ -8,9 +8,13 @@ The Joint Committee on Printing shall fix upon standards of paper for the differ
 
 Based on 44 U.S. Code, 1964 ed., §5 (Jan. 12, 1895, ch. 23, §3, 28 Stat. 601; Mar. 3, 1925, ch. 421, §1, 43 Stat. 1105).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Policy on Permanent Papers
 
@@ -22,7 +26,7 @@ Pub. L. 101–423, Oct. 12, 1990, 104 Stat. 912, as amended by Pub. L. 113–235
 
 "Whereas nationwide hundreds of millions of dollars will have to be spent by the Federal, State, and local governments and private institutions to salvage the most essential books and other materials in the libraries and archives of government, academic, and private institutions;
 
-"Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life ofseveral hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers;
+"Whereas paper manufacturers can produce a sufficient supply of acid free permanent papers with a life of several hundred years, at prices competitive with acid papers, if publishers would specify the use of such papers, and some publishers and many university presses are already publishing on acid free permanent papers;
 
 "Whereas most Government agencies do not require the use of acid free permanent papers for appropriate Federal records and publications;
 
@@ -48,7 +52,7 @@ Sec. 2. The Congress of the United States urgently recommends that—
 
 &emsp;"(3) American publishers and State and local governments use acid free permanent papers for publications of enduring value, in voluntary compliance with the American National Standard;
 
-&emsp;"(4) all publishers, private and governmental, prominently note the use of acid free permanent paper in books, advertisements, catalogs, and standard bibliographic listings; and
+&emsp;"(4) all publishers, private and governmental, prominently note the use of acid free permanentpaper in books, advertisements, catalogs, and standard bibliographic listings; and
 
 &emsp;"(5) the Secretary of State, Librarian of Congress, Archivist of the United States, and other Federal officials make known the national policy regarding acid free permanent papers to foreign governments and appropriate international agencies since the acid paper problem is worldwide and essential foreign materials being imported by our libraries are printed on acid papers.
 

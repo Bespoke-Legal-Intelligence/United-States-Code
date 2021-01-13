@@ -34,6 +34,8 @@ June 29, 1936, ch. 858, title XI, §1104A(c)(1) (1st sentence), (2) \[§1104A fo
 
 In subsection (a), the words "a security interest the Secretary considers necessary" are substituted for "such security interest, which may include a mortgage or mortgages on a vessel or vessels, as the Secretary may reasonably require" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (D). See 2006 Amendment note below.

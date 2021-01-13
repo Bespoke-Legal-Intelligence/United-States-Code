@@ -38,7 +38,7 @@ It shall be an affirmative defense to actions under subsection (a) or (g) that�
 
 &emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
-&emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
+&emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or onbehalf of a foreign official, party, party official, or candidate and was directly related to—
 
 &emsp;&emsp;(A) the promotion, demonstration, or explanation of products or services; or
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 &emsp;&emsp;(i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
 
-&emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
+&emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section,effective as of the date of publication of such order in the Federal Register.
 
 &emsp;(2)(A) A person's state of mind is "knowing" with respect to conduct, a circumstance, or a result if—
 
@@ -90,7 +90,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 
@@ -142,7 +142,7 @@ Definition.—For purposes of this section:
 
 International organization providing commercial communications services.—The term 'international organization providing commercial communications services' means—
 
-&emsp;&emsp;"(A) the International Telecommunications Satellite Organization established pursuant to the Agreement Relating to the International Telecommunications Satellite Organization; and
+&emsp;&emsp;"(A) the International Telecommunications Satellite Organization established pursuant to theAgreement Relating to the International Telecommunications Satellite Organization; and
 
 &emsp;&emsp;"(B) the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Satellite Organization.
 
@@ -160,7 +160,7 @@ Treatment.—An international organization providing commercial communications s
 
 &emsp;"(2)
 
-Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within theUnited States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
+Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
 "(c)
 
@@ -270,7 +270,7 @@ Additional information.—In consultation with the private sector participants a
 
 "(b)
 
-Definition.—For purposes of this section, the term 'Convention' means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997,and signed on December 17, 1997, by the United States and 32 other nations."
+Definition.—For purposes of this section, the term 'Convention' means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997, and signed on December 17, 1997, by the United States and 32 other nations."
 
 #### International Agreements Concerning Acts Prohibited With Respect to Issuers and Domestic Concerns; Report to Congress
 

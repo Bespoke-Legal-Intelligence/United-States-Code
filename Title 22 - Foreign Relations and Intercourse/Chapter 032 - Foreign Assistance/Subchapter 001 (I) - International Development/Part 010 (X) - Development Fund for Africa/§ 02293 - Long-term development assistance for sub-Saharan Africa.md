@@ -174,6 +174,8 @@ Funds made available to carry out this section may be used to assist the governm
 
 (Pub. L. 87–195, pt. I, §496, as added Pub. L. 101–513, title V, §562(a), Nov. 5, 1990, 104 Stat. 2026; amended Pub. L. 106–200, title I, §127(c), May 18, 2000, 114 Stat. 273; Pub. L. 106–264, title I, §111(b), Aug. 19, 2000, 114 Stat. 752.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (n)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -192,9 +194,7 @@ Subsec. (h)(4). Pub. L. 106–200, §127(c)(1)(A), (2), redesignated par. (3) as
 
 Subsec. (i)(2). Pub. L. 106–264 inserted at end "In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries."
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Electrify Africa
 
@@ -322,7 +322,7 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;"(9) A description of how the President intends to promote trade in electrical equipment with countries in sub-Saharan Africa, including a description of how the government of each country receiving assistance pursuant to the strategy—
 
-&emsp;&emsp;"(A) plans to lower or eliminate import tariffs or other taxes for energy and other power productionand distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
+&emsp;&emsp;"(A) plans to lower or eliminate import tariffs or other taxes for energy and other power production and distribution technologies destined for sub-Saharan Africa, including equipment used to provide energy access, including solar lanterns, solar home systems, and micro and mini grids; and
 
 &emsp;&emsp;"(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
 
@@ -474,7 +474,7 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development."
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means titleXII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development."
 
 Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, as amended by Pub. L. 110–234, title VII, §7511(c)(39), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(39), June 18, 2008, 122 Stat. 1664, 2032, provided that:
 
@@ -490,7 +490,7 @@ Additional Requirements in Carrying Out the Initiative.—In providing developme
 
 &emsp;"(3) shall favor countries that are implementing reforms of their trade and investment laws and regulations in order to enhance free market development in the food processing and agricultural sectors; and
 
-&emsp;"(4) shall ensure that programs are designed and conducted in cooperation with African and UnitedStates organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
+&emsp;"(4) shall ensure that programs are designed and conducted in cooperation with African and United States organizations and institutions, such as private and voluntary organizations, cooperatives, land-grant and other appropriate universities, and local producer-owned cooperative marketing and buying associations, that have expertise in addressing the needs of the poor, small-scale farmers, entrepreneurs, and rural workers, including women.
 
 "(b)
 
@@ -606,6 +606,12 @@ Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided tha
 
 &emsp;"(5) a description of the assistance for the critical sector priorities specified in section 496(i), by sector, including the amounts obligated."
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
 #### Ex. Ord. No. 13746. Advancing the Goals of the Power Africa Initiative To Expand Access to Electricity in Sub-Saharan Africa Through the Establishment of the President's Power Africa Working Group
 
 Ex. Ord. No. 13746, Nov. 3, 2016, 81 F.R. 78697, provided:
@@ -622,7 +628,7 @@ The Electrify Africa Act of 2015, enacted on February 8, 2016 (Public Law 114–
 
 Sec. 2. <i>Establishment of the Coordinator for Power Africa</i>. The United States Agency for International Development (USAID) shall serve as the lead agency to facilitate the implementation of Power Africa and associated activities across the United States Government. The Administrator of USAID shall establish the position of Coordinator for Power Africa within USAID.
 
-Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the Power Africa Working Group (Working Group), co-chaired by the Coordinator for Power Africa within USAID and a member of the National Security Council (NSC) staff to be designated by the Assistant to the President for National Security Affairs. The Working Group shall serve as the multi-agency coordinating and advisory body for the Federal Government's efforts to identify, evaluate, prioritize, and deliver assistance to energy projects across Sub-Saharan Africa in order to advance the energy access and electricity generation goals of Power Africa and promote policy cohesion across the Federal Government. Through the Working Group, participating departments and agencies shall provide advice and promote coherence of United States Government positions on and assistance for priority energy projects and policy reforms in support of Power Africa.
+Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the Power Africa Working Group (Working Group), co-chaired by the Coordinator for Power Africa within USAID and a member of the National Security Council (NSC) staff to be designated by the Assistant to the President for National Security Affairs. The Working Group shall serve as the multi-agency coordinating and advisory body for the Federal Government's efforts to identify, evaluate, prioritize, and deliver assistance to energy projects across Sub-Saharan Africa in order to advance the energy access and electricity generation goals of Power Africa and promote policycohesion across the Federal Government. Through the Working Group, participating departments and agencies shall provide advice and promote coherence of United States Government positions on and assistance for priority energy projects and policy reforms in support of Power Africa.
 
 (b) The Working Group shall consist of representatives of the following executive branch departments and agencies (Participating Agencies):
 

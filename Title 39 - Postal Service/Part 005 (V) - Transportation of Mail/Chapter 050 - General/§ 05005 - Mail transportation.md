@@ -12,11 +12,13 @@
 
 (2) A contract under subsection (a)(3) of this section may be renewed at the existing rate by mutual agreement between the contractor or subcontractor and the Postal Service.
 
-(3) Any contract between the Postal Service and any carrier or person for the transportation of mail shall be available for inspection in the office of the Postal Service and either the Surface Transportation Board or the Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 40102(a) of title 49), as appropriate, and in post offices on the post roads involved as determined by the Postal Service, at least 15 days prior to the effective date of the contract.
+(3) Any contract between the Postal Service and any carrier or person for the transportationof mail shall be available for inspection in the office of the Postal Service and either the Surface Transportation Board or the Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 40102(a) of title 49), as appropriate, and in post offices on the post roads involved as determined by the Postal Service, at least 15 days prior to the effective date of the contract.
 
 (c) The Postal Service, in determining whether to obtain transportation of mail by contract under subsection (a)(3) of this section or by Government motor vehicle, shall use the mode of transportation which best serves the public interest, due consideration being given to the cost of the transportation service under each mode.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 767; Pub. L. 92–286, May 1, 1972, 86 Stat. 133; Pub. L. 98–443, §9(g)(2), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 103–272, §5(k)(2), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §307(1), (2), Dec. 29, 1995, 109 Stat. 945, 946; Pub. L. 109–435, title X, §1002(a)(2), (b)(1), Dec. 20, 2006, 120 Stat. 3254, 3255.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (b)(3). Pub. L. 104–88, §307(2), substituted "Surface Transportation 
 <b>1984</b>—Subsec. (b)(3). Pub. L. 98–443 substituted "Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 101 of the Federal Aviation Act of 1958)" for "Civil Aeronautics Board".
 
 <b>1972</b>—Subsec. (b)(2). Pub. L. 92–286 substituted "contractor or subcontractor" for "holder".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

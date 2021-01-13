@@ -22,7 +22,7 @@ For purposes of this section, the term "transitional area" means, subject to sub
 
 &emsp;&emsp;&emsp;(i) to qualify under such subsection as a transitional area; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (B) and (C), to have a cumulative total of 1,500 or moreliving cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (B) and (C), to have a cumulative total of 1,500 or more living cases of AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) as of December 31 of the most recent calendar year for which such data is available.
 
 #### (B) Permitting margin of error applicable to certain metropolitan areas
 

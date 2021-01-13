@@ -1,6 +1,6 @@
 ### §17952. Regulatory references
 
-Each reference in this subchapter to a provision of the Code of Federal Regulations refers tosuch provision as in effect on February 17, 2009 (or to the most recent update of such provision).
+Each reference in this subchapter to a provision of the Code of Federal Regulations refers to such provision as in effect on February 17, 2009 (or to the most recent update of such provision).
 
 (Pub. L. 111–5, div. A, title XIII, §13422, Feb. 17, 2009, 123 Stat. 276.)
 

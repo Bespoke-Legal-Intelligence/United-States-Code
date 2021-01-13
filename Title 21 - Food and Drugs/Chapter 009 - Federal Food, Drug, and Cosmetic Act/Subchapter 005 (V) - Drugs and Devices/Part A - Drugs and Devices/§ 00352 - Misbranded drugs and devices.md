@@ -40,7 +40,7 @@ If any word, statement, or other information required by or under authority of t
 
 #### (f) Directions for use and warnings on label
 
-Unless its labeling bears (1) adequate directions for use; and (2) such adequate warnings against use in those pathological conditions or by children where its use may be dangerous to health, or against unsafe dosage or methods or duration of administration or application, in such manner and form, as are necessary for the protection of users, except that where any requirement of clause (1) of this paragraph, as applied to any drug or device, is not necessary for the protection of the public health, the Secretary shall promulgate regulations exemptingsuch drug or device from such requirement. Required labeling for prescription devices intended for use in health care facilities or by a health care professional and required labeling for in vitro diagnostic devices intended for use by health care professionals or in blood establishments may be made available solely by electronic means, provided that the labeling complies with all applicable requirements of law, and that the manufacturer affords such users the opportunity to request the labeling in paper form, and after such request, promptly provides the requested information without additional cost.
+Unless its labeling bears (1) adequate directions for use; and (2) such adequate warnings against use in those pathological conditions or by children where its use may be dangerous to health, or against unsafe dosage or methods or duration of administration or application, in such manner and form, as are necessary for the protection of users, except that where any requirement of clause (1) of this paragraph, as applied to any drug or device, is not necessary for the protection of the public health, the Secretary shall promulgate regulations exempting such drug or device from such requirement. Required labeling for prescription devices intended for use in health care facilities or by a health care professional and required labeling for in vitro diagnostic devices intended for use by health care professionals or in blood establishments may be made available solely by electronic means, provided that the labeling complies with all applicable requirements of law, and that the manufacturer affords such users the opportunity to request the labeling in paper form, and after such request, promptly provides the requested information without additional cost.
 
 #### (g) Representations as recognized drug; packing and labeling; inconsistent requirements for designation of drug
 
@@ -48,7 +48,7 @@ If it purports to be a drug the name of which is recognized in an official compe
 
 #### (h) Deteriorative drugs; packing and labeling
 
-If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
+If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of suchcompendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
 
 #### (i) Drug; misleading container; imitation; offer for sale under another name
 
@@ -114,7 +114,7 @@ If it is a new animal drug—
 
 #### (x) Nonprescription drugs
 
-If it is a nonprescription drug (as defined in section 379aa of this title) that is marketed in the United States, unless the label of such drug includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa of this title) mayreceive a report of a serious adverse event (as defined in section 379aa of this title) with such drug.
+If it is a nonprescription drug (as defined in section 379aa of this title) that is marketed in the United States, unless the label of such drug includes a domestic address or domestic phone number through which the responsible person (as described in section 379aa of this title) may receive a report of a serious adverse event (as defined in section 379aa of this title) with such drug.
 
 #### (y) Drugs subject to approved risk evaluation and mitigation strategy
 
@@ -138,15 +138,27 @@ If it is a drug and it fails to bear the product identifier as required by secti
 
 #### (dd) Improper labeling of antimicrobial drugs
 
-If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labeling fails to conform with the requirements under section 360a–2(d) of this title.
+If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labelingfails to conform with the requirements under section 360a–2(d) of this title.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436.)
+#### (ee) Nonprescription drug subject to regulation
+
+If it is a nonprescription drug that is subject to section 355h of this title, is not the subject of an application approved under section 355 of this title, and does not comply with the requirements under section 355h of this title.
+
+#### (ff) Drugs manufactured, prepared, propagated, compounded, or processed in facilities for which fees have not been paid
+
+If it is a drug and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–72 of this title.
+
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436; Pub. L. 116–136, div. A, title III, §3852, Mar. 27, 2020, 134 Stat. 454.)
 
 #### Applicability of Amendment
 
 <i>Amendment of section by section 303(a) of Pub. L. 115–234 applicable beginning on Sept. 30, 2023. See 2018 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsecs. (ee), (ff). Pub. L. 116–136 added subsecs. (ee) and (ff).
 
 <b>2018</b>—Subsec. (w)(3). Pub. L. 115–234 added par. (3).
 
@@ -249,6 +261,8 @@ Par. (o). Pub. L. 87–781, §305, added par. (o).
 <b>1941</b>—Par. (k). Act Dec. 22, 1941, added par. (k).
 
 <b>1939</b>—Par. (d). Act June 29, 1939, substituted "name, and quality or proportion" for "name, quantity, and percentage".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -374,7 +388,7 @@ In general.—In the case of direct-to-consumer television advertisements, the S
 
 "(2)
 
-Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, includingdetermining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
+Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
 
 Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
 
@@ -382,7 +396,7 @@ Pub. L. 105–115, title I, §114(b), Nov. 21, 1997, 111 Stat. 2312, provided th
 
 #### Counterfeiting of Drugs; Congressional Findings and Declaration of Policy
 
-Pub. L. 89–74, §9(a), July 15, 1965, 79 Stat. 234, provided that: "The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating the brand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins."
+Pub. L. 89–74, §9(a), July 15, 1965, 79 Stat. 234, provided that: "The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating thebrand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins."
 
 Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out as an Effective Date of 1965 Amendment note under section 321 of this title.
 

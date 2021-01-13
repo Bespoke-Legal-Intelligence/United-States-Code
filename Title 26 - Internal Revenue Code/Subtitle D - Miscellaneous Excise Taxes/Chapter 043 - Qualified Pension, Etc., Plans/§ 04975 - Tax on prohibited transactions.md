@@ -6,7 +6,7 @@ There is hereby imposed a tax on each prohibited transaction. The rate of tax sh
 
 #### (b) Additional taxes on disqualified person
 
-In any case in which an initial tax is imposed by subsection (a) on a prohibited transaction and the transaction is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount involved. The tax imposed by this subsection shall be paid by any disqualified person who participated in the prohibited transaction (other than a fiduciary acting only as such).
+In any case in which an initial tax is imposed by subsection (a) on a prohibited transaction and the transaction is not corrected within the taxable period, there is hereby imposed a taxequal to 100 percent of the amount involved. The tax imposed by this subsection shall be paid by any disqualified person who participated in the prohibited transaction (other than a fiduciary acting only as such).
 
 #### (c) Prohibited transaction
 
@@ -120,7 +120,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(11) service by a disqualified person as a fiduciary in addition to being an officer, employee, agent, or other representative of a disqualified person;
 
-&emsp;(12) the making by a fiduciary of a distribution of the assets of the trust in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 4044 of title IV of the Employee Retirement Income Security Act of 1974 (relating to allocation of assets);
+&emsp;(12) the making by a fiduciary of a distribution of the assets of the trust in accordance with the terms of the plan if such assets aredistributed in the same manner as provided under section 4044 of title IV of the Employee Retirement Income Security Act of 1974 (relating to allocation of assets);
 
 &emsp;(13) any transaction which is exempt from section 406 of such Act by reason of section 408(e) of such Act (or which would be so exempt if such section 406 applied to such transaction) or which is exempt from section 406 of such Act by reason of section 408(b)(12) of such Act;
 
@@ -182,7 +182,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) if <sup>3</sup> the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
 
-&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
+&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraphexecuted through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
 
 &emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>1</sup>
 
@@ -214,7 +214,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(H) the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager's pricing policies and procedures, and the manager's policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
 
-&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
+&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which itrelates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
 
 > &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>1</sup> or
 
@@ -432,7 +432,7 @@ For purposes of this section—
 
 #### (ii) Computer model
 
-&emsp;&emsp;&emsp;The requirements of this clause are met if the investment advice provided underthe investment advice program is provided pursuant to a computer model that—
+&emsp;&emsp;&emsp;The requirements of this clause are met if the investment advice provided under the investment advice program is provided pursuant to a computer model that—
 
 &emsp;&emsp;&emsp;&emsp;(I) applies generally accepted investment theories that take into account the historic returns of different asset classes over defined periods of time,
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) operates in a manner that is not biased in favor of investments offered by the fiduciary adviser or a person with a material affiliation or contractual relationship with the fiduciary adviser, and
 
-&emsp;&emsp;&emsp;&emsp;(V) takes into account all investment options under the plan in specifying how a participant's account balance should be invested and is not inappropriately weighted with respect to any investment option.
+&emsp;&emsp;&emsp;&emsp;(V) takes into account all investment options under the plan in specifying howa participant's account balance should be invested and is not inappropriately weighted with respect to any investment option.
 
 #### (iii) Certification
 
@@ -568,7 +568,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(VI) an employee, agent, or registered representative of a person described in subclauses (I) through (V) who satisfies the requirements of applicable insurance, banking, and securities laws relating to the provision of the advice.
 
-&emsp;&emsp;&nbsp;For purposes of this title, a person who develops the computer model described in subparagraph (C)(ii) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) to a participant or beneficiary and shall be treated as a fiduciary adviser for purposes of this paragraph and subsection (d)(17), except that the Secretary of Labor may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
+&emsp;&emsp;&nbsp;For purposes of this title, a person who develops the computer model described in subparagraph (C)(ii) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) to a participant or beneficiary and shall be treated as a fiduciaryadviser for purposes of this paragraph and subsection (d)(17), except that the Secretary of Labor may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
 
 #### (ii) Affiliate
 
@@ -630,7 +630,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term "correct" means, with respect to a transaction—
 
-&emsp;&emsp;&emsp;&emsp;(I) to undo the transaction to the extent possible and in any case to makegood to the plan or affected account any losses resulting from the transaction, and
+&emsp;&emsp;&emsp;&emsp;(I) to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
 
 &emsp;&emsp;&emsp;&emsp;(II) to restore to the plan or affected account any profits made through the use of assets of the plan.
 
@@ -868,7 +868,7 @@ Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginni
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, seesection 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 Pub. L. 105–34, title X, §1074(b), Aug. 5, 1997, 111 Stat. 949, provided that: "The amendment made by this section \[amending this section\] shall apply to prohibited transactions occurring after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -876,7 +876,7 @@ Amendment by section 1506(b)(1) of Pub. L. 105–34 applicable to taxable years 
 
 Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, seesection 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendments
 
@@ -938,7 +938,7 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 &emsp;"(A) a loan of money or other extension of credit between a plan and a disqualified person under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such loan or other extension of credit remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be, and if the execution of the contract, the making of the loan, or the extension of credit was not, at the time of such execution, making, or extension, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law);
 
-&emsp;"(B) a lease of joint use of property involving the plan and a disqualified person pursuant to a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such lease or joint use remains at least as favorable to theplan as an arm's-length transaction with an unrelated party would be and if the execution of the contract was not, at the time of such execution, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law;
+&emsp;"(B) a lease of joint use of property involving the plan and a disqualified person pursuant to a binding contract in effect on July 1, 1974 (or pursuant to renewals of such a contract), until June 30, 1984, if such lease or joint use remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the execution of the contract was not, at the time of such execution, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law;
 
 &emsp;"(C) the sale, exchange, or other disposition of property described in subparagraph (B) between a plan and a disqualified person before June 30, 1984, if—
 
@@ -946,7 +946,7 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 &emsp;&emsp;"(ii) in the case of the acquisition of the property by the plan, the plan pays an amount which is not in excess of the fair market value of the property at the time of such acquisition:
 
-&emsp;"(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
+&emsp;"(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under abinding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
 
 &emsp;"(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer real property) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
 

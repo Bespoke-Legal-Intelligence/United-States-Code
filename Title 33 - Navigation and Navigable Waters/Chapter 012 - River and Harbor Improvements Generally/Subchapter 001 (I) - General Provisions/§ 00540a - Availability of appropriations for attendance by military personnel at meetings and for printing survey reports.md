@@ -4,6 +4,8 @@ Appropriations in this title <sup>1</sup> or appropriations made in this title�
 
 (Pub. L. 102–377, title I, Oct. 2, 1992, 106 Stat. 1325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title I of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1315. For complete classification of title I to the Code, see Tables.

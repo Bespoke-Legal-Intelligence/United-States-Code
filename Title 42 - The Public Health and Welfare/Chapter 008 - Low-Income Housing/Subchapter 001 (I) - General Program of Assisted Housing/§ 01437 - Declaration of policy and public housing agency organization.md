@@ -8,7 +8,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(A) to assist States and political subdivisions of States to remedy the unsafe housing conditions and the acute shortage of decent and safe dwellings for low-income families;
 
-&emsp;&emsp;(B) to assist States and political subdivisions of States to address the shortage ofhousing affordable to low-income families; and
+&emsp;&emsp;(B) to assist States and political subdivisions of States to address the shortage of housing affordable to low-income families; and
 
 &emsp;&emsp;(C) consistent with the objectives of this subchapter, to vest in public housing agencies that perform well, the maximum amount of responsibility and flexibility in program administration, with appropriate accountability to public housing residents, localities, and the general public;
 
@@ -76,7 +76,7 @@ Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 8
 
 Subsec. (b)(3), (4). Pub. L. 114–201, §114(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-<b>1998</b>—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: "It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistentwith the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project."
+<b>1998</b>—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: "It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project."
 
 <b>1990</b>—Pub. L. 101–625 substituted "low-income housing" for "lower income housing".
 
@@ -208,7 +208,7 @@ Findings.—Congress finds that—
 
 &emsp;"(2) the inventory of public housing units owned, assisted, or operated by public housing agencies, an asset in which the Federal Government has invested over $90,000,000,000, has traditionally provided rental housing that is affordable to low-income persons;
 
-&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people invery poor neighborhoods and disincentives for economic self-sufficiency;
+&emsp;"(3) despite serving this critical function, the public housing system is plagued by a series of problems, including the concentration of very poor people in very poor neighborhoods and disincentives for economic self-sufficiency;
 
 &emsp;"(4) the Federal method of overseeing every aspect of public housing by detailed and complex statutes and regulations has aggravated the problem and has placed excessive administrative burdens on public housing agencies; and
 

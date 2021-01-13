@@ -8,7 +8,7 @@
 
 #### (b) Use of funds in account
 
-Funds transferred under subsection (a) shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+Funds transferred under subsection (a) shall be merged with, and be available for the sametime period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 
 #### (c) Exchange rates applicable to obligations
 
@@ -28,7 +28,7 @@ A transfer of funds back to the account under subsection (d) may not be made aft
 
 #### (f) Transfers to account from regular appropriations
 
-(1) At the end of the fiscal year or other period for which appropriations for the expenses of the Peace Corps are made available, unobligated balances of such appropriation may be transferred into the Foreign Currency Fluctuations,Peace Corps, Account, to be merged with, and to be available for the same period and purposes as, that account.
+(1) At the end of the fiscal year or other period for which appropriations for the expenses of the Peace Corps are made available, unobligated balances of such appropriation may be transferred into the Foreign Currency Fluctuations, Peace Corps, Account, to be merged with, and to be available for the same period and purposes as, that account.
 
 (2) The authority of this subsection shall be exercised only to the extent that specific amounts are provided in advance in an appropriation Act.
 
@@ -42,9 +42,13 @@ Each year the Director of the Peace Corps shall submit to the Committee on Forei
 
 (Pub. L. 87–293, title I, §16, as added Pub. L. 102–565, §2(a), Oct. 28, 1992, 106 Stat. 4265.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

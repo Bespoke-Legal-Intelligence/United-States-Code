@@ -34,11 +34,15 @@ Sept. 26, 1961, Pub. L. 87–304, §2, 75 Stat. 662.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–465, §2303(b), substituted "departure" for "evacuation" after "issuance of the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

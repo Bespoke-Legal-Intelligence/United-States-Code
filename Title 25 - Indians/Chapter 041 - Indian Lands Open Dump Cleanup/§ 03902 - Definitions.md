@@ -22,11 +22,11 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (4) Alaska Native land
 
-&emsp;The term "Alaska Native land" means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C. 1151 et seq.; commonly known as the "Fur Seal Act of 1966").
+&emsp;The term "Alaska Native land" means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], including any land reconveyed under section 14(c)(3) of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C. 1151 et seq.; commonly known as the "Fur Seal Act of 1966").
 
 #### (5) Indian tribal government
 
-&emsp;The term "Indian tribal government" means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribal government" means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible forthe special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (6) Alaska Native entity
 
@@ -49,6 +49,8 @@ For the purposes of this chapter, the following definitions shall apply:
 &emsp;The term "solid waste" has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
 
 (Pub. L. 103–399, §3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, §5, Feb. 12, 1996, 110 Stat. 764.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

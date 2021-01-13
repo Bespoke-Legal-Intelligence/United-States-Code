@@ -52,7 +52,7 @@ In the event that medical questions are raised in any case, the Secretary shall 
 
 #### (f) Place of examination; exclusion of physicians other than examining physician of Secretary; good cause for conclusions of other physicians respecting impairment; examination by employer's physician; suspension of proceedings and compensation for refusal of examination
 
-An employee shall submit to a physical examination under subsection (e) at such place as the Secretary may require. The place, or places, shall be designated by the Secretary and shallbe reasonably convenient for the employee. No physician selected by the employer, carrier, or employee shall be present at or participate in any manner in such examination, nor shall conclusions of such physicians as to the nature or extent of impairment or the cause of impairment be available to the examining physician unless otherwise ordered, for good cause, by the Secretary. Such employer or carrier shall, upon request, be entitled to have the employee examined immediately thereafter and upon the same premises by a qualified physician or physicians in the presence of such physician as the employee may select, if any. Proceedings shall be suspended and no compensation shall be payable for any period during which the employee may refuse to submit to examination.
+An employee shall submit to a physical examination under subsection (e) at such place as the Secretary may require. The place, or places, shall be designated by the Secretary and shall be reasonably convenient for the employee. No physician selected by the employer, carrier, or employee shall be present at or participate in any manner in such examination, nor shall conclusions of such physicians as to the nature or extent of impairment or the cause of impairment be available to the examining physician unless otherwise ordered, for good cause, by the Secretary. Such employer or carrier shall, upon request, be entitled to have the employee examined immediately thereafter and upon the same premises by a qualified physician or physicians in the presence of such physician as the employee may select, if any. Proceedings shall be suspended and no compensation shall be payable for any period during which the employee may refuse to submit to examination.
 
 #### (g) Fees and charges for examinations, treatment, or service; limitation; regulations
 
@@ -68,7 +68,7 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 #### (j) Procedure; judicial review
 
-(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriate to carry out the provisions of subsection (c), including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
+(1) The Secretary shall have the authority to make rules and regulations and to establish procedures, not inconsistent with the provisions of this chapter, which are necessary or appropriateto carry out the provisions of subsection (c), including the nature and extent of the proof and evidence necessary for actions under this section and the methods of taking and furnishing such proof and evidence.
 
 (2) Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
@@ -83,6 +83,8 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 (2) If an employee refuses to submit to medical or surgical services solely because, in adherence to the tenets and practice of a recognized church or religious denomination, the employee relies upon prayer or spiritual means alone for healing, such employee shall not be considered to have unreasonably refused medical or surgical treatment under subsection (d).
 
 (Mar. 4, 1927, ch. 509, §7, 44 Stat. 1427; May 26, 1934, ch. 354, §1, 48 Stat. 806; June 25, 1938, ch. 685, §§2, 3, 52 Stat. 1165; Pub. L. 86–757, Sept. 13, 1960, 74 Stat. 900; Pub. L. 92–576, §6, Oct. 27, 1972, 86 Stat. 1254; Pub. L. 98–426, §7, Sept. 28, 1984, 98 Stat. 1642.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -102,7 +104,7 @@ Subsec. (b). Pub. L. 92–576, substituted provisions for employee's choosing of
 
 Subsec. (c). Pub. L. 92–576 substituted provisions respecting Secretary's designation of physicians in community authorized to render medical care and posting of their names for prior provisions respecting deputy commissioner's determination of size of panel of physicians (named by employer) following statutory criteria and approval of their qualifications, and requirement of posting of names and addresses of physicians so as to afford reasonable notice.
 
-Subsec. (d). Pub. L. 92–576 substituted the Secretary for the deputy commissioner as the person to exercise the various authorities, struck out introductory provisions respecting employer's failure to maintain a panel of physicians for examination purposes or to permit the employee to choose an attending physician from the panel and employee's procurement of treatment and services and selection of a physician at expense of employer, decreased from twenty to ten days the period within which to make the formal report of injury and treatment, and authorized suspension of compensation for refusal to submit to an examination by a physician of the employer.
+Subsec. (d). Pub. L. 92–576 substituted the Secretary for the deputy commissioner as the person to exercise the various authorities, struck out introductory provisions respecting employer's failure to maintain a panel of physicians for examination purposes or to permit the employee to choose an attending physician from the panel and employee's procurement of treatment and services and selection of a physician at expense of employer, decreased from twenty to ten days the period within which to make the formal report of injury andtreatment, and authorized suspension of compensation for refusal to submit to an examination by a physician of the employer.
 
 Subsec. (e). Pub. L. 92–576 substituted provisions respecting physical examination to determine medical questions by a physician employed or selected by the Secretary, such physician's report of the physical impairment, review or reexamination of the employee, and the charging of costs to an employer, who is a self-insurer, or the insurance company carrying the risk or the special fund for prior provisions respecting examination of employee by a physician selected by the deputy commissioner (who shall submit a report of the disability) whenever the deputy commissioner was of the opinion that the employer's physician was partial in his estimate of the degree of permanent disability or the extent of temporary disability and charging cost of examination to the employer, if he was a self-insurer, or to the insurance company which was carrying the risk when the physician's estimate was not impartial.
 
@@ -127,6 +129,8 @@ Subsecs. (e) to (g). Pub. L. 86–757 redesignated former subsecs. (b) to (d) as
 Subsec. (d). Act June 25, 1938, §3, added subsec. (d).
 
 <b>1934</b>—Subsec. (a). Act May 26, 1934, authorized deputy commissioner to suspend payment of compensation for refusal, without justification, to submit to medical or surgical treatment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -22,7 +22,7 @@
 
 &emsp;(7) strengthen the capacity of general governmental institutions to contribute to balanced urban growth and stabilization; and
 
-&emsp;(8) increase coordination among Federal programs that seek to promote job opportunities and skills, decent and affordable housing, public safety, access to health care, educationalopportunities, and fiscal soundness for urban communities and their residents.
+&emsp;(8) increase coordination among Federal programs that seek to promote job opportunities and skills, decent and affordable housing, public safety, access to health care, educational opportunities, and fiscal soundness for urban communities and their residents.
 
 (Pub. L. 91–609, title VII, §702, Dec. 31, 1970, 84 Stat. 1791; Pub. L. 95–128, title VI, §601(b), Oct. 12, 1977, 91 Stat. 1143; Pub. L. 98–479, title II, §204(i), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 102–550, title IX, §921(1), Oct. 28, 1992, 106 Stat. 3883.)
 

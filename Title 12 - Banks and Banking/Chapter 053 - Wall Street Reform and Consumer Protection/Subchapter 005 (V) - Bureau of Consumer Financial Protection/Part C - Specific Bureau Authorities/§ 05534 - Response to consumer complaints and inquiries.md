@@ -24,7 +24,7 @@ A covered person subject to supervision and primary enforcement by the Bureau pu
 
 #### (1) In general
 
-&emsp;A covered person subject to supervision and primary enforcement by the Bureau pursuant to section 5515 of this title shall, in a timely manner, comply with a consumer request for information in the control or possession of such covered person concerning the consumer financial product or service that the consumer obtained from such covered person, including supporting written documentation, concerning the account of the consumer.
+&emsp;A covered person subject to supervision and primary enforcement by the Bureau pursuantto section 5515 of this title shall, in a timely manner, comply with a consumer request for information in the control or possession of such covered person concerning the consumer financial product or service that the consumer obtained from such covered person, including supporting written documentation, concerning the account of the consumer.
 
 #### (2) Exceptions
 
@@ -43,6 +43,8 @@ A covered person subject to supervision and primary enforcement by the Bureau pu
 The Bureau shall enter into a memorandum of understanding with any affected Federal regulatory agency regarding procedures by which any covered person, and the prudential regulators, and any other agency having jurisdiction over a covered person, including the Secretary of the Department of Housing and Urban Development and the Secretary of Education, shall comply with this section.
 
 (Pub. L. 111–203, title X, §1034, July 21, 2010, 124 Stat. 2008.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

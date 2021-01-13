@@ -8,7 +8,7 @@
 
 #### (2) Claims established under quality control system
 
-&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest onany unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
+&emsp;To the extent that a State agency does not pay a claim established under section 2025(c)(1) of this title, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding, within 30 days from the date on which the bill for collection is received by the State agency, the State agency shall be liable for interest on any unpaid portion of such claim accruing from the date on which the bill for collection was received by the State agency, unless the State agency appeals the claim under section 2025(c)(7) of this title. If the State agency appeals such claim (in whole or in part), the interest on any unpaid portion of the claim shall accrue from the date of the decision on the administrative appeal, or from a date that is 1 year after the date the bill is received, whichever is earlier, until the date the unpaid portion of the payment is received. If the State agency pays such claim (in whole or in part, including an agreement to have all or part of the claim paid through a reduction in Federal administrative funding) and the claim is subsequently overturned through administrative or judicial appeal, any amounts paid by the State agency shall be promptly returned with interest, accruing from the date the payment is received until the date the payment is returned.
 
 #### (3) Computation of interest
 
@@ -38,7 +38,7 @@
 
 #### (3) Maximum reduction absent fraud
 
-&emsp;If a household received an overissuance of benefits without any member of the household being found ineligible to participate in the program under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
+&emsp;If a household received an overissuance of benefits without any member of the household being found ineligible to participate in theprogram under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
 
 &emsp;&emsp;(A) 10 percent of the monthly allotment of the household; or
 
@@ -84,7 +84,7 @@
 
 #### (II) Determination appealed
 
-&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon as practicable, remit to the Secretary adollar amount subject to the finding made in the administrative and judicial review.
+&emsp;&emsp;&emsp;&emsp;If the determination of the Secretary under clause (ii) is appealed, upon completion of administrative and judicial review under clause (iv), and a finding of liability on the part of the State, the appealing State agency shall, as soon as practicable, remit to the Secretary a dollar amount subject to the finding made in the administrative and judicial review.
 
 #### (vi) Alternative method of collection
 
@@ -118,7 +118,7 @@
 
 #### (d) Recovery of overissuance of benefits
 
-The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
+The amount of an overissuance of benefits, as determined under subsection (b)(1), that has notbeen recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
 (Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, §4020(b)(1), Feb. 7, 2014, 128 Stat. 798.)
 
@@ -148,7 +148,7 @@ Subsec. (d). Pub. L. 103–66, §13941(b), added subsec. (d).
 
 <b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–624 substituted "on the date of receipt (or, if the date of receipt is not a business day, on the next business day)" for "within thirty days".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans forprogram investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–435, §601, inserted provisions relating to review of State agency's plans for program investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
 
 Pub. L. 100–435, §602, inserted provisions relating to failure of State agency to pay a claim under section 2025(c)(1)(C) of this title and interest with respect to unpaid portion of such claims.
 

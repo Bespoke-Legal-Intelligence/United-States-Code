@@ -22,6 +22,8 @@
 
 (Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139; amended Pub. L. 95–115, §8(a), Oct. 3, 1977, 91 Stat. 1060; Pub. L. 98–473, title II, §223(o), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 103–322, title XXXIII, §330001(i), Sept. 13, 1994, 108 Stat. 2140.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec. (b), as originally created by section 11111 of Title 34, Crime Control and Law Enforcement, was headed by an Associate Administrator. However, section 11111 of Title 34, as amended by Pub. L. 98–473, establishes the Office of Juvenile Justice and Delinquency Prevention, headed by an Administrator.
@@ -33,6 +35,8 @@ The Office of Juvenile Justice and Delinquency Prevention, referred to in subsec
 <b>1984</b>—Subsec. (b). Pub. L. 98–473 substituted "Sentencing Commission" for "Parole Board".
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–115 substituted "Associate" for "Deputy Assistant" and "Office of" for "National Institute for".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -48,7 +52,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 #### Repeals
 
-Section 521 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1139, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 
 #### Transfer of Functions
 
@@ -56,7 +60,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Termination of Advisory Boards
 

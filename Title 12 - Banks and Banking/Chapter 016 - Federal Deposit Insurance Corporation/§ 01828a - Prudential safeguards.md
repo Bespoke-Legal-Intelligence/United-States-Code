@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
 
-&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund orother adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
+&emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or the Deposit Insurance Fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
 #### (3) Review
 
@@ -74,11 +74,13 @@
 
 (Pub. L. 106–102, title I, §114, Nov. 12, 1999, 113 Stat. 1369; Pub. L. 109–173, §9(i), Feb. 15, 2006, 119 Stat. 3618.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act and the Act, referred to in text, probably are references to Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76,81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 The Bank Holding Company Act of 1956, referred to in subsec. (b)(2)(A), (4)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
@@ -93,6 +95,8 @@ Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of th
 #### Amendments
 
 <b>2006</b>—Subsecs. (a)(1)(B), (b)(2)(B), (4)(B), (c)(1)(B). Pub. L. 109–173 substituted "the Deposit Insurance Fund" for "any Federal deposit insurance fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

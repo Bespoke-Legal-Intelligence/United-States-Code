@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—EXPANSION OF DEPARTMENT HOSPITAL EDUCATION AND TRAINING CAPACITY
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS' ADMINISTRATION".

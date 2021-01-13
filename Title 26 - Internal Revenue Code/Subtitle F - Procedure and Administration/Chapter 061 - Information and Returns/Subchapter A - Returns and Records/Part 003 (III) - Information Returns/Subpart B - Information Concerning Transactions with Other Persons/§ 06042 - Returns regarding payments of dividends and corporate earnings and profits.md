@@ -44,7 +44,7 @@
 
 #### (c) Statements to be furnished to persons with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -68,7 +68,7 @@ Every corporation shall, when required by the Secretary—
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make returns for former references to persons making returns and struck out provisions directing that no statement was required to be furnished to any person under this subsection if the aggregate amount of payments to such person as shown on the return made under subsec. (a)(1) was less than $10.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, substituted "information is required" for"information is furnished" in heading and, in text, substituted references to persons required to make returns for former references to persons making returns and struck out provisions directing that no statement was required to be furnished to any person under this subsection if the aggregate amount of payments to such person as shown on the return made under subsec. (a)(1) was less than $10.
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–369, in amending par. (2) generally, designated existing provision as subpar. (A), redesignated as cls. (i) and (ii) of subpar. (A) text formerly designated (A) and (B), and added subpar. (B).
 

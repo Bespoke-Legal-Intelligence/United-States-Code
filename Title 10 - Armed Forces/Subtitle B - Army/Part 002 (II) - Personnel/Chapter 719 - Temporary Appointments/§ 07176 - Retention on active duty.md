@@ -52,7 +52,7 @@ The words "commissioned officers and warrant" are omitted as covered by the defi
 
 <b>1989</b>—Pub. L. 101–189 amended section generally. Prior to amendment, section read as follows: "Notwithstanding any other provision of law, the President may retain on active duty a disabled officer until his physical condition is such that he will not be further benefited by retention in a military or Veterans' Administration hospital or until he is processed for physical disability benefits provided by law."
 
-<b>1958</b>—Pub. L. 85–861 substituted "may retain on active duty a disabled officer" for "shall retain on active duty any disabled officer who has only a temporary appointment", and "military or Veterans' Administration hospital or until he is processed for physical disability benefits provided by law" for "military hospital or in the Army".
+<b>1958</b>—Pub. L. 85–861 substituted "may retain on active duty a disabled officer" for "shall retain on active dutyany disabled officer who has only a temporary appointment", and "military or Veterans' Administration hospital or until he is processed for physical disability benefits provided by law" for "military hospital or in the Army".
 
 #### Effective Date of 2018 Amendment
 

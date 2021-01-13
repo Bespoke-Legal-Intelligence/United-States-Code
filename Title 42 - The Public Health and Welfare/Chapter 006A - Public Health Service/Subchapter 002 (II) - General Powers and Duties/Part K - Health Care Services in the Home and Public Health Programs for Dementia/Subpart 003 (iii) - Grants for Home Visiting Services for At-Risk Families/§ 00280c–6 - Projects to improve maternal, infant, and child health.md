@@ -56,7 +56,7 @@ In awarding grants under subsection (a), the Secretary shall take into considera
 
 &emsp;(2) different combinations of professional and lay home visitors utilized within programs that are reflective of the identified service needs and characteristics of target populations;
 
-&emsp;(3) the extent to which the population to be targeted has limited access to health care, andrelated social, family support, and developmental services; and
+&emsp;(3) the extent to which the population to be targeted has limited access to health care, and related social, family support, and developmental services; and
 
 &emsp;(4) whether such grants are equitably distributed among urban and rural settings and whether entities serving Native American communities are represented among the grantees.
 
@@ -226,7 +226,7 @@ The Secretary may make a grant under subsection (a) only if—
 
 &emsp;&emsp;(A) include a summary of the data contained in the annual reports submitted under subsection (m);
 
-&emsp;&emsp;(B) assess the relative effectiveness of projects under subsection (a) in urban andrural areas, and among programs utilizing differing combinations of professionals and trained home visitors recruited from the community to meet the needs of defined target service populations; and
+&emsp;&emsp;(B) assess the relative effectiveness of projects under subsection (a) in urban and rural areas, and among programs utilizing differing combinations of professionals and trained home visitors recruited from the community to meet the needs of defined target service populations; and
 
 &emsp;&emsp;(C) make further recommendations necessary or desirable to increase the effectiveness of such projects.
 

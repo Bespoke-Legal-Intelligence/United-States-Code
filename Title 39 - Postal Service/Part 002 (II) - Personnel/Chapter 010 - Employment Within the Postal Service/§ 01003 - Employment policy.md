@@ -10,6 +10,8 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(c)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
@@ -19,6 +21,8 @@ Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subse
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted "chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978," for "chapters 2 and 12 of this title".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(A)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -34,7 +38,7 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 &emsp;"(1) to an officer or employee who retired, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], for services rendered during such period; and
 
-&emsp;"(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code \[section 5581 et seq. of Title 5, Government Organization and Employees\], relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], by an officer or employee who died during such period.
+&emsp;"(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code \[section 5581 et seq.of Title 5, Government Organization and Employees\], relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after April 16, 1970, and ending on the date of enactment of this Act \[Aug. 12, 1970\], by an officer or employee who died during such period.
 
 > Such retroactive pay, compensation, or salary shall not be considered as basic pay for the purposes of subchapter III of chapter 83 of title 5, United States Code \[section 8331 et seq. of Title 5\], relating to civil service retirement, or any other retirement law or retirement system, in the case of any such retired or deceased officer or employee.
 
@@ -44,7 +48,7 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 "(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay for GS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section."
 
-Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
+\[Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,6 +12,8 @@ Bill in equity is changed to civil action and the section is restricted to exclu
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "134(a)".
@@ -29,6 +31,8 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(e)\], inserted "(a)" after "s
 <b>1984</b>—Pub. L. 98–622 substituted "Patent Appeals and Interferences in an appeal under section 134 of this title may," for "Appeals may" in first sentence and "Patent Appeals and Interferences" for "Appeals" in second sentence.
 
 <b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

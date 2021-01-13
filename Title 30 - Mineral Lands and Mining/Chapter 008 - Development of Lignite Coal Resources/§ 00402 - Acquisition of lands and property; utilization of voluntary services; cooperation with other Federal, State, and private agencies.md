@@ -4,6 +4,8 @@ For the purpose of this chapter the Secretary, acting through the United States 
 
 (Mar. 25, 1948, ch. 146, §2, 62 Stat. 85.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.

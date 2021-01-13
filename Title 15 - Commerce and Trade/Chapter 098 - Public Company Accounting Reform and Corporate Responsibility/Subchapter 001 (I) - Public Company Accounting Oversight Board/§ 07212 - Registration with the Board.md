@@ -58,7 +58,7 @@ Registration applications and annual reports required by this subsection, or suc
 
 #### (f) Registration and annual fees
 
-The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
+The Board shall assess and collect a registration fee and an annual fee from each registeredpublic accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
 
 (Pub. L. 107–204, title I, §102, July 30, 2002, 116 Stat. 753; Pub. L. 111–203, title IX, §982(c), July 21, 2010, 124 Stat. 1928.)
 

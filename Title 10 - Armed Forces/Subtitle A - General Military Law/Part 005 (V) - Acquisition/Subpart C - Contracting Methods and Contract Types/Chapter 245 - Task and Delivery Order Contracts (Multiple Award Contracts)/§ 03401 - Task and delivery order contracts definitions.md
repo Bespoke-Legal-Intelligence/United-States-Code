@@ -1,0 +1,34 @@
+### §3401. Task and delivery order contracts: definitions
+
+In this chapter:
+
+&emsp;(1)
+
+Delivery order contract.—The term "delivery order contract" means a contract for property—
+
+&emsp;&emsp;(A) that does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
+
+&emsp;&emsp;(B) that provides for the issuance of orders for the delivery of property during the period of the contract.
+
+&emsp;(2)
+
+Task order contract.—The term "task order contract" means a contract for services—
+
+&emsp;&emsp;(A) that does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
+
+&emsp;&emsp;(B) that provides for the issuance of orders for the performance of tasks during the period of the contract.
+
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3253, §2304d; renumbered §3401 and amended Pub. L. 116–283, div. A, title XVIII, §1820(b), Jan. 1, 2021, 134 Stat. 4191.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1820(b)(1), (2), renumbered section 2304d of this title as this section and reversed order and designations of pars. (1) and (2).
+
+Par. (1). Pub. L. 116–283, §1820(b)(3), inserted heading, inserted dash after "for property", and reorganized remainder of text of par. (1) into designated subpars. (A) and (B).
+
+Par. (2). Pub. L. 116–283, §1820(b)(4), inserted heading, inserted dash after "for services", and reorganized remainder of text of par. (2) into designated subpars. (A) and (B).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

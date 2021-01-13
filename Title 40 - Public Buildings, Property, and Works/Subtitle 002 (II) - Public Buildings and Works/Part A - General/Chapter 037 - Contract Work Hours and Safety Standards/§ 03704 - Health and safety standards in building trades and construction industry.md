@@ -24,7 +24,7 @@ Actions to gain compliance.—The Secretary may make inspections, hold hearings,
 
 Remedy when noncompliance found.—When the Secretary, after an opportunity for an adjudicatory hearing by the Secretary, establishes noncompliance under this section of any condition of a contract described in—
 
-&emsp;&emsp;(A) section 3701(b)(1)(B)(i) or (ii) of this title, the governmental agency for which the contract work is done may cancel the contract and make other contracts for the completion of the contract work, charging any additional cost to the original contractor; or
+&emsp;&emsp;(A) section 3701(b)(1)(B)(i) or (ii) of this title, the governmental agency for which thecontract work is done may cancel the contract and make other contracts for the completion of the contract work, charging any additional cost to the original contractor; or
 
 &emsp;&emsp;(B) section 3701(b)(1)(B)(iii) of this title, the governmental agency which is providing the financial guarantee, assistance, or insurance for the contract work may withhold the guarantee, assistance, or insurance attributable to the performance of the contract.
 
@@ -42,7 +42,7 @@ Transmittal of names of repeat violators to comptroller general.—When the Secr
 
 &emsp;(2)
 
-Ban on awarding contracts.—The Comptroller General shall distribute each name transmitted under paragraph (1) to all agencies of the Federal Government. Unless the Secretary otherwise recommends, the contractor, subcontractor, or any person in which thecontractor or subcontractor has a substantial interest may not be awarded a contract subject to this section until three years have elapsed from the date the name is transmitted to the Comptroller General. The Secretary shall terminate the ban if, before the end of the three-year period, the Secretary, after affording interested persons due notice and an opportunity for a hearing, is satisfied that a contractor or subcontractor whose name was transmitted to the Comptroller General will comply responsibly with the requirements of this section. The Comptroller General shall inform all Government agencies after being informed of the Secretary's action.
+Ban on awarding contracts.—The Comptroller General shall distribute each name transmitted under paragraph (1) to all agencies of the Federal Government. Unless the Secretary otherwise recommends, the contractor, subcontractor, or any person in which the contractor or subcontractor has a substantial interest may not be awarded a contract subject to this section until three years have elapsed from the date the name is transmitted to the Comptroller General. The Secretary shall terminate the ban if, before the end of the three-year period, the Secretary, after affording interested persons due notice and an opportunity for a hearing, is satisfied that a contractor or subcontractor whose name was transmitted to the Comptroller General will comply responsibly with the requirements of this section. The Comptroller General shall inform all Government agencies after being informed of the Secretary's action.
 
 &emsp;(3)
 
@@ -128,6 +128,8 @@ In subsection (d)(2), before clause (A), the words "chapter 33 of title 5" are s
 
 In subsection (d)(6), the words "expenses under section 5703 of title 5" are substituted for 40:333(e)(3)(words after semicolon) to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -140,7 +142,9 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(1), is Reorg
 
 Subsec. (a)(2). Pub. L. 109–284, §6(17), struck out "of this section" after "subsection (d)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided bylaw. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

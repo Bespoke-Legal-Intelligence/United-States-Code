@@ -14,6 +14,8 @@ Definition.—For purposes of this section, the term "Office of the Chief Techno
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsec. (b), is an act of the District of Columbia and is not classified to the Code.
@@ -21,6 +23,8 @@ The District of Columbia Government Comprehensive Merit Personnel Act of 1978, r
 The District of Columbia Campaign Finance Reform and Conflict of Interest Act, referred to in subsec. (b), is Pub. L. 93–376, Aug. 14, 1974, 88 Stat. 447, as amended, which is not classified to the Code.
 
 The Office of the Chief Technology Officer Establishment Act of 1998, referred to in subsec. (c), is an act of the District of Columbia and is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

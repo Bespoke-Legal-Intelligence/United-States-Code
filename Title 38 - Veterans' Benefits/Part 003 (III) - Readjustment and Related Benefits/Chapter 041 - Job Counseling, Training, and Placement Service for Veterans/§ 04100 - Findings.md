@@ -8,11 +8,57 @@ The Congress makes the following findings:
 
 (Added Pub. L. 97–306, title III, §301(a), Oct. 14, 1982, 96 Stat. 1436, §2000; amended Pub. L. 100–323, §15(b)(1), May 20, 1988, 102 Stat. 574; renumbered §4100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 2000 of this title as this section.
 
 <b>1988</b>—Par. (2). Pub. L. 100–323, §15(b)(1), inserted "and Training" after "for Veterans' Employment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Grants for Provision of Transition Assistance to Members of the Armed Forces After Separation, Retirement, or Discharge
+
+Pub. L. 116–315, title IV, §4304, Jan. 5, 2021, 134 Stat. 5018, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall make grants to eligible organizations for the provision of transition assistance to members of the Armed Forces who are separated, retired, or discharged from the Armed Forces, and spouses of such members.
+
+"(b)
+
+Use of Funds.—The recipient of a grant under this section shall use the grant to provide to members of the Armed Forces and spouses described in subsection (a) resume assistance, interview training, job recruitment training, and related services leading directly to successful transition, as determined by the Secretary.
+
+"(c)
+
+Eligible Organizations.—To be eligible for a grant under this section, an organization shall submit to the Secretary an application containing such information and assurances as the Secretary, in consultation with the Secretary of Labor, may require.
+
+"(d)
+
+Priority.—In making grants under this section, the Secretary shall give priority to an organization that—
+
+&emsp;"(1) provides multiple forms of services described in subsection (b); or
+
+&emsp;"(2) is located in a State with—
+
+&emsp;&emsp;"(A) a high rate of unemployment among veterans;
+
+&emsp;&emsp;"(B) a high rate of usage of unemployment benefits for recently separated members of the Armed Forces; or
+
+&emsp;&emsp;"(C) a labor force or economy that has been significantly impacted by a covered public health emergency (as such term is defined in section 131(n) \[sic; there is no section 131 of Pub. L. 116–315\]).
+
+"(e)
+
+Amount of Grant.—A grant under this section shall be in an amount that does not exceed 50 percent of the amount required by the organization to provide the services described in subsection (b).
+
+"(f)
+
+Deadline.—The Secretary shall carry out this section not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\].
+
+"(g)
+
+Termination.—The authority to provide a grant under this section shall terminate on the date that is five years after the date on which the Secretary implements the grant program under this section."
 
 #### Honoring Investments in Recruiting and Employing American Military Veterans
 

@@ -34,7 +34,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 #### (c) Penalties
 
-It shall be unlawful for any person to disclose any such information described in subsection (a) other than for the purposes provided in subsections (a) and (b), and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned for not more than 6 months, or both, and shall be required to pay the costs of prosecution.
+It shall be unlawful for any person to disclose any such information described in subsection (a) other than for the purposes provided in subsections (a) and (b), and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned fornot more than 6 months, or both, and shall be required to pay the costs of prosecution.
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
@@ -96,7 +96,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9353(d)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after the end of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\]."
+Pub. L. 99–509, title IX, §9353(d)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after theend of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 #### Freedom of Information Act Request
 

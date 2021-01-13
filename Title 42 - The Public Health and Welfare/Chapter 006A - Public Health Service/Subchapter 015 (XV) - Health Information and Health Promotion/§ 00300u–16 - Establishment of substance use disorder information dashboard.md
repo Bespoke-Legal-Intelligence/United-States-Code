@@ -24,7 +24,7 @@ Not later than 6 months after October 24, 2018, the Secretary of Health and Huma
 
 &emsp;(3) provides data on substance use disorder prevention and treatment strategies in different regions of and populations in the United States;
 
-&emsp;(4) identifies information on alternatives to controlled substances for pain management, such as approaches studied by the National Institutes of Health Pain Consortium, the National Center for Complimentary and Integrative Health, and other institutes and centers at the National Institutes of Health, as appropriate; and
+&emsp;(4) identifies information on alternatives to controlled substances for pain management,such as approaches studied by the National Institutes of Health Pain Consortium, the National Center for Complimentary and Integrative Health, and other institutes and centers at the National Institutes of Health, as appropriate; and
 
 &emsp;(5) identifies guidelines and best practices for health care providers regarding treatment of substance use disorders.
 

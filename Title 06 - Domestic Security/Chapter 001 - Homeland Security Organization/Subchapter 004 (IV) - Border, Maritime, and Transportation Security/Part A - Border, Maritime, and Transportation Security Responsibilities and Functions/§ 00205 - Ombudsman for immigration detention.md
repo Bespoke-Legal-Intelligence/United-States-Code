@@ -12,7 +12,7 @@ The functions of the Ombudsman shall be to—
 
 &emsp;(2) Establish an accessible and standardized process regarding complaints against any officer or employee of U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement, or any contracted, subcontracted, or cooperating entity personnel, for violations of law, standards of professional conduct, contract terms, or policy related to immigration detention;
 
-&emsp;(3) Conduct unannounced inspections of detention facilities holding individuals in federalimmigration custody, including those owned or operated by units of State or local government and privately-owned or operated facilities;
+&emsp;(3) Conduct unannounced inspections of detention facilities holding individuals in federal immigration custody, including those owned or operated by units of State or local government and privately-owned or operated facilities;
 
 &emsp;(4) Review, examine, and make recommendations to address concerns or violations of contract terms identified in reviews, audits, investigations, or detainee interviews regarding immigration detention facilities and services;
 

@@ -6,7 +6,7 @@ The President having terminated governmental relations between the United States
 
 &emsp;(1) to help maintain peace, security, and stability in the Western Pacific; and
 
-&emsp;(2) to promote the foreign policy of the United States by authorizing the continuationof commercial, cultural, and other relations between the people of the United States and the people on Taiwan.
+&emsp;(2) to promote the foreign policy of the United States by authorizing the continuation of commercial, cultural, and other relations between the people of the United States and the people on Taiwan.
 
 #### (b) Policy
 
@@ -30,13 +30,87 @@ Nothing contained in this chapter shall contravene the interest of the United St
 
 (Pub. L. 96–8, §2, Apr. 10, 1979, 93 Stat. 14.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 96–8, §18, Apr. 10, 1979, 93 Stat. 21, provided that: "This Act \[enacting this chapter\] shall be effective as of January 1, 1979."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title III, §311, Dec. 27, 2020, 134 Stat. 3099, provided that: "This subtitle \[subtitle B (§§311–315) of title III of div. FF of Pub. L. 116–260, enacting provisions set out as a note below\] may be cited as the 'Taiwan Assurance Act of 2020'."
+
 #### Short Title
 
 Pub. L. 96–8, §1, Apr. 10, 1979, 93 Stat. 14, provided that: "This Act \[enacting this chapter\] may be cited as the 'Taiwan Relations Act'."
+
+#### Statement of Policy and Sense of Congress on the Taiwan Relations Act
+
+Pub. L. 116–283, div. A, title XII, §1260, Jan. 1, 2021, 134 Stat. 3959, provided that:
+
+"(a)
+
+Statement of Policy.—It is the policy of the United States—
+
+&emsp;"(1) that the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.) and the Six Assurances provided by the United States to Taiwan in July 1982 are the foundation for United States-Taiwan relations;
+
+&emsp;"(2) to fully pursue the deepening of the extensive, close, and friendly relations of the United States and Taiwan pursuant to the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.), the intent of which is to facilitate greater cooperation and the broadening and deepening of United States-Taiwan relations;
+
+&emsp;"(3) that the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.) shall be implemented and executed, consistent with the Six Assurances, to address evolving political, security, and economic dynamics and circumstances;
+
+&emsp;"(4) that, as set forth in the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.), the United States decision to establish diplomatic relations with the People's Republic of China rests upon the expectation that the future of Taiwan will be determined by peaceful means, and that any effort to determine the future of Taiwan by other than peaceful means, including boycotts and embargoes, is a threat to the peace and security of the Western Pacific area and of grave concern to the United States;
+
+&emsp;"(5) that the increasingly coercive and aggressive behavior of the People's Republic of China towards Taiwan is contrary to the expectation of the peaceful resolution of the future of Taiwan; and
+
+&emsp;"(6) as set forth in the Taiwan Relations Act (Public Law 96–8; 22 U.S.C. 3301 et seq.), to maintain the capacity to resist any resort to force or other formsof coercion that would jeopardize the security, or the social or economic system, of the people on Taiwan.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the United States should continue to support the development of capable, ready, and modern defense forces necessary for Taiwan to maintain a sufficient self-defense capability, including by—
+
+&emsp;&emsp;"(A) supporting acquisition by Taiwan of defense articles and services through foreign military sales, direct commercial sales, and industrial cooperation, with an emphasis on capabilities that support the asymmetric defense strategy of Taiwan, including anti-ship, coastal defense, anti-armor, air defense, undersea warfare, advanced command, control, communications, computers, intelligence, surveillance, and reconnaissance, and resilient command and control capabilities;
+
+&emsp;&emsp;"(B) ensuring timely review of and response to requests of Taiwan for defense articles and services;
+
+&emsp;&emsp;"(C) conducting practical training and military exercises with Taiwan that enable Taiwan to maintain a sufficient self-defense capability;
+
+&emsp;&emsp;"(D) examining the potential for expanding professional military education and technical training opportunities in the United States for military personnel of Taiwan;
+
+&emsp;&emsp;"(E) increasing exchanges between senior defense officials and general officers of the United States and Taiwan at the strategic, policy, and functional levels, consistent with the Taiwan Travel Act (Public Law 115–135; 132 Stat. 341), especially for the purposes of—
+
+&emsp;&emsp;&emsp;"(i) enhancing cooperation on defense planning;
+
+&emsp;&emsp;&emsp;"(ii) improving the interoperability of the military forces of the United States and Taiwan; and
+
+&emsp;&emsp;&emsp;"(iii) improving the reserve force of Taiwan; and
+
+&emsp;&emsp;"(F) expanding cooperation in humanitarian assistance and disaster relief;
+
+&emsp;"(2) the Secretary of State should ensure that any policy guidance related to United States-Taiwan relations is fully consistent with the statement of policy set forth in subsection (a);
+
+&emsp;"(3) the Secretary of Defense should ensure that policy guidance related to United States-Taiwan defense relations is fully consistent with the statement of policy set forth in subsection (a); and
+
+&emsp;"(4) the Secretary of State, the Secretary of Defense, and the heads of other Federal agencies and departments, as appropriate, should issue new guidance as required to carry out such policy."
+
+#### Taiwan's Inclusion in International Organizations
+
+Pub. L. 116–260, div. FF, title III, §314, Dec. 27, 2020, 134 Stat. 3100, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that the People's Republic of China's attempts to dictate the terms of Taiwan's participation in international organizations, has, in many cases, resulted in Taiwan's exclusion from such organizations even when statehood is not a requirement, and that such exclusion—
+
+&emsp;"(1) is detrimental to global health, civilian air safety, and efforts to counter transnational crime;
+
+&emsp;"(2) negatively impacts the safety and security of citizens globally; and
+
+&emsp;"(3) negatively impacts the security of Taiwan and its democracy.
+
+"(b)
+
+Statement of Policy.—It is the policy of the United States to advocate for Taiwan's meaningful participation in the United Nations, the World Health Assembly, the International Civil Aviation Organization, the International Criminal Police Organization, and other international bodies, as appropriate, and to advocate for Taiwan's membership in the Food and Agriculture Organization, the United Nations Educational, Scientific and Cultural Organization, and other international organizations for which statehood is not a requirement for membership."
 
 #### Commitment to Taiwan
 
@@ -88,9 +162,11 @@ Sense of Congress.—It is the sense of Congress that the United States should�
 
 &emsp;"(7) consider the advisability and feasibility of reestablishing port of call exchanges between the United States navy and the Taiwan navy."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12143
 
-Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, which provided for facilitation of the maintenance of commercial, cultural, and other relations between the peoples of the United States and Taiwan, was superseded by Ex. Ord. No. 13014, Aug. 15, 1996, 61 F.R. 42963, set out below.
+Ex. Ord. No. 12143, June 22, 1979, 44 F.R. 37191, which provided for facilitation of the maintenance of commercial, cultural, and other relations between the peoples of the United States and Taiwan, was supersededby Ex. Ord. No. 13014, Aug. 15, 1996, 61 F.R. 42963, set out below.
 
 #### Ex. Ord. No. 13014. Maintaining Unofficial Relations With the People on Taiwan
 
@@ -100,7 +176,7 @@ In light of the recognition of the People's Republic of China by the United Stat
 
 Section 1. <i>Delegation and Reservation of Functions.</i>
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there aredelegated to the Secretary of State ("Secretary") all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan ("Institute"). In carrying out these functions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President by this order, there are delegated to the Secretary of State ("Secretary") all functions conferred upon the President by the Act, including the authority under section 7(a) of the Act \[22 U.S.C. 3306(a)\] to specify which laws of the United States relative to the provision of consular services may be administered by employees of the American Institute on Taiwan ("Institute"). In carrying out these functions, the Secretary may redelegate his authority, and shall consult with other departments and agencies as he deems appropriate.
 
 1–102. There are delegated to the Director of the Office of Personnel Management the functions conferred upon the President by paragraphs (1) and (2) of section 11(a) of the Act \[22 U.S.C. 3310(a)\]. These functions shall be exercised in consultation with the Secretary.
 

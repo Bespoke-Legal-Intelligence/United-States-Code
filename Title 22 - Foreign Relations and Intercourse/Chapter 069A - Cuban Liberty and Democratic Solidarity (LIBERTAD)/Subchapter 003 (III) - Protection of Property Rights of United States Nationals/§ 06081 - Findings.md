@@ -36,7 +36,7 @@ The Congress makes the following findings:
 
 &emsp;(10) The United States Government has an obligation to its citizens to provide protection against wrongful confiscations by foreign nations and their citizens, including the provision of private remedies.
 
-&emsp;(11) To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations shouldbe endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro's wrongful seizures.
+&emsp;(11) To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations should be endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro's wrongful seizures.
 
 (Pub. L. 104–114, title III, §301, Mar. 12, 1996, 110 Stat. 814.)
 

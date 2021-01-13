@@ -16,7 +16,7 @@ If a participant who qualifies under subsection (a) to receive a deferred annuit
 
 #### Prior Provisions
 
-A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048; Pub. L. 97–269, title VI, §608, Sept. 27, 1982, 96 Stat. 1152; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to discontinued service benefits and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 234 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048; Pub. L. 97–269, title VI, §608, Sept. 27,1982, 96 Stat. 1152; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to discontinued service benefits and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 

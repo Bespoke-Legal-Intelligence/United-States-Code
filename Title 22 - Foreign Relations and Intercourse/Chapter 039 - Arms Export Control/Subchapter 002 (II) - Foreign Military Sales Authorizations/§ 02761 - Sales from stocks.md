@@ -178,7 +178,9 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993; Pub. L. 115–232, div. A, title XII, §1279(b), Aug. 13, 2018, 132 Stat. 2072.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec.29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, §208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993; Pub. L. 115–232, div. A, title XII, §1279(b), Aug. 13, 2018, 132 Stat. 2072.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,7 +220,7 @@ Subsec. (e)(3)(C)(i)(II). Pub. L. 113–66, §1250(b)(3), substituted "activitie
 
 Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted "the Republic of Korea," before "or Israel".
 
-Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted ", to any member government of that Organization, orto the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel" for "or to any member government of that Organization if that Organization or member government".
+Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted ", to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel" for "or to any member government of that Organization if that Organization or member government".
 
 <b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(l)(1), inserted "or the Governments of Australia, New Zealand, Japan, or Israel" after "North Atlantic Treaty Organization".
 
@@ -308,6 +310,8 @@ Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted "defense articles, defen
 
 Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–106, div. D, title XLIII, §4303(b)–(d), Feb. 10, 1996, 110 Stat. 659, provided that:
@@ -356,13 +360,9 @@ Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided th
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Delegation of Functions
-
-For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
-
 #### Notional Milestones and Standard Timelines for Contracts for Foreign Military Sales
 
-Pub. L. 115–91, div. A, title VIII, §887, Dec. 12, 2017, 131 Stat. 1506, provided that:
+Pub. L. 115–91, div. A, title VIII, §887, Dec. 12, 2017, 131 Stat. 1506, as amended by Pub. L. 116–283, div. A, title VIII, §887, Jan. 1, 2021, 134 Stat. 3791, provided that:
 
 "(a)
 
@@ -386,7 +386,7 @@ Submissions to Congress.—
 
 &emsp;"(1)
 
-Quarterly notification.—During the period beginning 180 days after the date of the enactment of this Act and ending on December 31, 2021, the Secretary shall submit to the appropriate committees of Congress, on a quarterly basis, a report that includes a list of each foreign military sale with a value greater than or equal to the dollar threshold for congressional notification under section 36 of the Arms Export Control Act (22 U.S.C. 2776)—
+Quarterly notification.—During the period beginning 180 days after the date of the enactment of this Act and ending on December 31, 2022, the Secretary shall submit to the appropriate committees of Congress, on a quarterly basis, a report that includes a list of each foreign military sale with a value greater than or equal to the dollar threshold for congressional notification under section 36 of the Arms Export Control Act (22 U.S.C. 2776)—
 
 &emsp;&emsp;"(A) for which the final delivery of a defense article or defense service has not been completed; and
 
@@ -394,17 +394,21 @@ Quarterly notification.—During the period beginning 180 days after the date of
 
 &emsp;"(2)
 
-Annual report.—Not later than November 1, 2019, and annually thereafter until December 31, 2021, the Secretary shall submit to the appropriate committees of Congress a report that summarizes—
+Annual report.—Not later than November 1, 2019, and annually thereafter until December 31, 2022, the Secretary shall submit to the appropriate committees of Congress a report that summarizes—
 
 &emsp;&emsp;"(A) the number, set forth separately by dollar value and notional milestone, of foreign military sales that met the standard timeline to achieve a notional milestone established under subsection (a) during the preceding fiscal year; and
 
 &emsp;&emsp;"(B) the number, set forth separately by dollar value and notional milestone, of each foreign military sale that did not meet the standard timeline to achieve a notional milestone established under subsection (a), and a description of any extenuating factors explaining why such a sale did not achieve such milestone.
 
+&emsp;"(3)
+
+Applicability.—The requirements of this subsection apply only to foreign military sales processes within the Department of Defense.
+
 "(c)
 
 Definitions.—In this section—
 
-&emsp;"(1) the terms 'defense article' and 'defense service' have the meanings given those terms, respectively, insection 47 of the Arms Export Control Act (22 U.S.C. 2794); and
+&emsp;"(1) the terms 'defense article' and 'defense service' have the meanings given those terms, respectively, in section 47 of the Arms Export Control Act (22 U.S.C. 2794); and
 
 &emsp;"(2) the term 'appropriate committees of Congress' means—
 
@@ -427,6 +431,12 @@ Plan Required.—Not later than 180 days after the date of the enactment of this
 "(b)
 
 Process for Gathering Input.—The Secretary of Defense shall establish a process for contractors to provide input, feedback, and adjudication of any differences regarding the appropriateness of governmental pricing and availability estimates prior to the delivery to potential foreign customers of formal responses to Letters of Request for Pricing and Availability."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

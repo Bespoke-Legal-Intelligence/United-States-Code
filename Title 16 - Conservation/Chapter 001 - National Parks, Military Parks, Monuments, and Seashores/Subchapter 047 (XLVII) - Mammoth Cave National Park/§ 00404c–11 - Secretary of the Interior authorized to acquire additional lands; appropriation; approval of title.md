@@ -12,7 +12,7 @@ The title to lands, interests in lands, and other property to be acquired pursua
 
 Section 404c of this title, referred to in text, was omitted from the Code.
 
-This Act, referred to in text, is act June 5, 1942, which is classified to sections 404c–1 to 404c–12 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 5, 1942, which is classified to sections 404c–1 to 404c–12 of this title.For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

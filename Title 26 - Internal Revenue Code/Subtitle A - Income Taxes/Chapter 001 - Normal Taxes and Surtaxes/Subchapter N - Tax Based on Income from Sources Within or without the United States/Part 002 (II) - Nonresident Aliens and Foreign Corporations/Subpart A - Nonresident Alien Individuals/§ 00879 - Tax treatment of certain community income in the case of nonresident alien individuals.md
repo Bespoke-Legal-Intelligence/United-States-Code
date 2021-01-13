@@ -50,7 +50,7 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §139(c), July 18, 1984, 98 Stat. 677, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
+Pub. L. 98–369, div. A, title I, §139(c), July 18, 1984, 98 Stat. 677, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
 
 #### Effective Date of 1981 Amendment
 

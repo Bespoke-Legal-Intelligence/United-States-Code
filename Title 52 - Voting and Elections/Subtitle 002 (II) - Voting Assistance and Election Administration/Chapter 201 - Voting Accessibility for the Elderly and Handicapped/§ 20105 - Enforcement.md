@@ -14,9 +14,13 @@ Notwithstanding any other provision of law, no award of attorney fees may be mad
 
 (Pub. L. 98–435, §6, Sept. 28, 1984, 98 Stat. 1679.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1973ee–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

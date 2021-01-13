@@ -242,7 +242,7 @@
 
 #### (5) Rule of construction
 
-&emsp;Nothing in this subpart shall be construed to require that each of the elements described in subparagraphs of paragraph (2) be offered by each provider of youth services.
+&emsp;Nothing in this subpart shall be construed to require that each of the elements described insubparagraphs of paragraph (2) be offered by each provider of youth services.
 
 #### (6) Prohibitions
 
@@ -260,9 +260,11 @@
 
 #### (8) Volunteers
 
-&emsp;The local board shall make opportunities available for individuals who have successfullyparticipated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
+&emsp;The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
 (Pub. L. 113–128, title I, §129, July 22, 2014, 128 Stat. 1504; Pub. L. 114–18, §2(e)(2), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, §9215(yyy)(3), Dec. 10, 2015, 129 Stat. 2192.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -273,6 +275,8 @@ This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014,
 <b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–18 substituted "subsections (b)(7) and (c)(2) of section 3121 of this title" for "subsections (b)(6) and (c)(2) of section 3121 of this title".
 
 Subsec. (c)(1)(C)(iii). Pub. L. 114–95 substituted "(based on challenging State academic standards established under section 6311(b)(1) of title 20" for "(based on State academic content and student academic achievement standards established under section 6311 of title 20)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

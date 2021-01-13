@@ -22,7 +22,7 @@ Each issuer that is required to file reports pursuant to section 13(a) or 15(d) 
 
 &emsp;(2) A list of such coal or other mines, of which the issuer or a subsidiary of the issuer is an operator, that receive written notice from the Mine Safety and Health Administration of—
 
-&emsp;&emsp;(A) a pattern of violations of mandatory health or safety standards that are of such nature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards under section 104(e) of such Act (30 U.S.C. 814(e)); or
+&emsp;&emsp;(A) a pattern of violations of mandatory health or safety standards that are of suchnature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards under section 104(e) of such Act (30 U.S.C. 814(e)); or
 
 &emsp;&emsp;(B) the potential to have such a pattern.
 
@@ -62,7 +62,7 @@ In this section—
 
 &emsp;(2) the term "coal or other mine" means a coal or other mine, as defined in section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802), that is subject to the provisions of such Act (30 U.S.C. 801 et seq.); and
 
-&emsp;(3) the term "operator" has the meaning given the term in section 3 of the FederalMine Safety and Health Act of 1977 (30 U.S.C. 802).
+&emsp;(3) the term "operator" has the meaning given the term in section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802).
 
 #### (f) Effective date
 

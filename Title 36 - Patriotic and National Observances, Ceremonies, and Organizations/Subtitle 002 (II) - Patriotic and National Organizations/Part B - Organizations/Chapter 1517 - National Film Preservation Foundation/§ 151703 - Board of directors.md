@@ -108,6 +108,8 @@ In subsection (b)(3), the words "is not an employee" are substituted for "nor .�
 
 In subsection (d), the words "for the transaction of business" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(5). Pub. L. 110–336 substituted "120 days" for "60 days".

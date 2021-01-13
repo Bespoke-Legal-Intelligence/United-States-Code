@@ -1,0 +1,14 @@
+### §9204. Generative adversarial network defined
+
+In this chapter, the term "generative adversarial network" means, with respect to artificial intelligence, the machine learning process of attempting to cause a generator artificial neural network (referred to in this section as the "generator" <sup>1</sup> and a discriminator artificial neural network (referred to in this section as a "discriminator") to compete against each other to become more accurate in their function and outputs, through which the generator and discriminator create a feedback loop, causing the generator to produce increasingly higher-quality artificial outputs and the discriminator to increasingly improve in detecting such artificial outputs.
+
+(Pub. L. 116–258, §6, Dec. 23, 2020, 134 Stat. 1152.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 116–258, Dec. 23, 2020, 134 Stat. 1150, known as the Identifying Outputs of Generative Adversarial Networks Act and also as the IOGAN Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+
+This section, referred to in text, was in the original "this paragraph", and was translated as reading "this section", meaning section 6 of Pub. L. 116–258, to reflect the probable intent of Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+

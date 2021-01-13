@@ -100,7 +100,7 @@ No pay and allowances.—A student from a military academy of a foreign country 
 
 &emsp;&emsp;(B)
 
-Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
+Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparablesupport and services to the exchanged cadet or midshipman in that foreign country.
 
 &emsp;&emsp;(C)
 
@@ -156,7 +156,7 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 &emsp;(3) The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L.115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
+(Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
 
 #### Prior Provisions
 

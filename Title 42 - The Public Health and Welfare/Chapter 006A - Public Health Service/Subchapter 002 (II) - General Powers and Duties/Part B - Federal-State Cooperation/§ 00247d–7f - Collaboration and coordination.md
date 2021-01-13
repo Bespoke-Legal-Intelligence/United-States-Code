@@ -28,7 +28,7 @@
 
 #### (D) Transcript
 
-&emsp;&emsp;The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5 to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof)with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
+&emsp;&emsp;The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5 to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
 
 #### (E) Exemption
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (B) Exception
 
-&emsp;&emsp;The term "covered activities" shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
+&emsp;&emsp;The term "covered activities" shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has beengranted under subsection (a)(4), the following activities involving 2 or more persons:
 
 &emsp;&emsp;&emsp;(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
 

@@ -84,7 +84,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -94,11 +94,11 @@ Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective D
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Delegation of Functions
-
-For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
-
 #### Indefinite Appointments for Certain Reserve Officers
 
 Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
+
+#### Delegation of Functions
+
+For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 

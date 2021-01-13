@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–391, title III, §301(b), Dec. 21, 2018, 132 Stat. 5220, added item 4322.

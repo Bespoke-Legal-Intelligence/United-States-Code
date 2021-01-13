@@ -42,11 +42,15 @@ In subsections (f) and (g), the word "official" is substituted for "officer" bec
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–566 substituted provisions that each State is entitled to be paid by the United States with respect to each individual whose base period wages included Federal wages an amount which shall bear the same ratio to the total amount of compensation paid to such individual as the amount of his Federal wages in his base period bears to the total amount of his base period wages for provisions that each State is entitled to be paid by the United States an amount equal to the additional cost to the State of payments of compensation in accordance with an agreement under this subchapter which would not have been made by the State but for the agreement.
+
+#### <b>Statutory Notes and Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

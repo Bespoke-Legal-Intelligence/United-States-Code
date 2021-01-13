@@ -6,6 +6,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, §5220; Pub. L. 94–581, title II, §208(b), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, §3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, §701(99), Oct. 28, 1986, 100 Stat. 3300; renumbered §8520, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title II, §208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–135 substituted "the penultimate sentence of section 1781(b)" for "the last sentence of section 1713(b)".
@@ -20,13 +22,15 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 Subsec. (b). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Administration" in two places.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(99)(A), substituted "any surviving" for "surviving him any", "thedecedent's" for "his" in two places, "such person" for "he", and "owned by such person" for "owned by him".
+<b>1986</b>—Subsec. (a). Pub. L. 99–576, §701(99)(A), substituted "any surviving" for "surviving him any", "the decedent's" for "his" in two places, "such person" for "he", and "owned by such person" for "owned by him".
 
 Subsec. (b). Pub. L. 99–576, §701(99)(B), substituted "such person's" for "his".
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted "section 1321(a)(45) of title 31" for "section 725s(a)(45) of title 31".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–581 inserted ", or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title," after "(admitted as a veteran)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

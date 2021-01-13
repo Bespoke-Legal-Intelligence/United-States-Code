@@ -34,7 +34,7 @@ For definition of "antitrust laws", referred to in text, see section 37a(1) of t
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–26, §3, July 3, 1997, 111 Stat. 242, provided that: "This Act \[see Short Title of 1997 Amendments note set out under section 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act."
+Pub. L. 105–26, §3, July 3, 1997, 111 Stat. 242, provided that: "This Act \[see Short Title of 1997 Amendmentsnote set out under section 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act."
 
 #### Effective Date
 

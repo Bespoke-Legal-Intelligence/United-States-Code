@@ -102,7 +102,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pu
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Pub. L. 112–141, div. D, title I, §40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II \[Pub. L. 112–30\]."
+Pub. L. 112–141, div. D, title I, §40102(b)(2)(B), July 6, 2012, 126 Stat. 845, provided that: "The amendmentmade by this paragraph \[amending this section\] shall take effect as if included in the amendments made by section 142 of the Surface Transportation Extension Act of 2011, Part II \[Pub. L. 112–30\]."
 
 Amendment by section 40102(b)(1)(B) of Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 

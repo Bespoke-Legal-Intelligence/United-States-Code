@@ -68,9 +68,11 @@ The first sentence is based in part on former sections 73b–2, 836, and 837, wh
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2017</b>—Subsec. (c). Pub. L. 115–34 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director."
+<b>2017</b>—Subsec. (c). Pub. L. 115–34 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent morethan $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director."
 
 <b>2014</b>—Subsec. (b)(1)(A). Pub. L. 113–291, §915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year."
 
@@ -91,6 +93,8 @@ Subsec. (c). Pub. L. 103–329, §634(c), redesignated par. (1) as entire subsec
 Subsec. (c). Pub. L. 99–234 added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–22 inserted "and reports" in section catchline, designated existing provisions as subsec. (a), substituted "Administrator of General Services" for "Director of the Bureau of the Budget", struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -134,7 +138,7 @@ Transportation network company.—The term 'transportation network company'—
 
 #### Reports Regarding Foreign Travel
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L.106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, §2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §707\], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 "(a)
 

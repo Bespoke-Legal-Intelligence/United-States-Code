@@ -14,7 +14,7 @@ Authority.—(1) Subject to the availability of appropriations, the Secretary ma
 
 (b)
 
-Service Agreement for Scholarship Recipients.—(1) To receive financial assistance under this section an individual shall enter into an agreement to accept and continue employment in the Department for the period of obligated service determined under paragraph (2).
+Service Agreement for Scholarship Recipients.—(1) To receive financial assistanceunder this section an individual shall enter into an agreement to accept and continue employment in the Department for the period of obligated service determined under paragraph (2).
 
 (2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary as being appropriate to obtain adequate service in exchange for the financial assistance and otherwise to achieve the goals set forth in section 7901(a) of this title. In no event may the period of service required of a recipient be less than the period equal to the total period of pursuit of a degree for which the Secretary agrees to provide the recipient with financial assistance under this section. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be.
 
@@ -63,6 +63,8 @@ Internships.—(1) The Secretary may offer a compensated internship to an indivi
 Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance Payments.—An individual who receives a payment of educational assistance under chapter 30, 31, 32, 34, or 35 of this title or chapter 1606 or 1607 of title 10 for a month in which the individual is enrolled in a course of education leading to a doctoral degree in information security is not eligible to receive financial assistance under this section for that month.
 
 (Added Pub. L. 109–461, title IX, §903(a)(1), Dec. 22, 2006, 120 Stat. 3460.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

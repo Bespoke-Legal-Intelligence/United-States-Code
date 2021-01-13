@@ -6,7 +6,7 @@ In the case of an expenditure for repairing the home owned by an individual who 
 
 &emsp;(2) no such expenditures were made for repairing such home pursuant to any prior finding under this section,
 
-> the amount paid to any such State for any quarter under section 303(a), 1203(a), 1353(a), or1383(a) of this title shall be increased by 50 per centum of such expenditures, except that the excess above $500 expended with respect to any one home shall not be included in determining such expenditures.
+> the amount paid to any such State for any quarter under section 303(a), 1203(a), 1353(a), or 1383(a) of this title shall be increased by 50 per centum of such expenditures, except that the excess above $500 expended with respect to any one home shall not be included in determining such expenditures.
 
 (Aug. 14, 1935, ch. 531, title XI, §1119, as added Pub. L. 90–248, title II, §209(a), Jan. 2, 1968, 81 Stat. 894; amended Pub. L. 104–193, title I, §108(g)(5), Aug. 22, 1996, 110 Stat. 2168.)
 

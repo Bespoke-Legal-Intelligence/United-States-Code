@@ -14,7 +14,7 @@ Lands among the rail properties of the Alaska Railroad shall not be—
 
 #### (b) Review and settlement of claims; administrative adjudication; management of lands; procedures applicable
 
-(1)(A) During the ten months following January 14, 1983, so far as practicable consistent with the priority of preparing the report required pursuant to section 1204(a) of this title, the Secretary of the Interior, Village Corporations with claims of valid existing rights, and the State shall review and make a good faith effort to settle as many of the claims as possible. Any agreement to settle such claims shall take effect and bind the United States, the State, and the Village Corporation only as of the date of transfer of the railroad.
+(1)(A) During the ten months following January 14, 1983, so far as practicable consistent withthe priority of preparing the report required pursuant to section 1204(a) of this title, the Secretary of the Interior, Village Corporations with claims of valid existing rights, and the State shall review and make a good faith effort to settle as many of the claims as possible. Any agreement to settle such claims shall take effect and bind the United States, the State, and the Village Corporation only as of the date of transfer of the railroad.
 
 (B) At the conclusion of the review and settlement process provided in subparagraph (A) of this paragraph, the Secretary of the Interior shall prepare a report identifying lands to be conveyed in accordance with settlement agreements under this chapter or applicable law. Such settlement shall not give rise to a presumption as to whether a parcel of land subject to such agreement is or is not public land.
 
@@ -46,6 +46,8 @@ The State shall be liable to a party receiving a conveyance of land among the ra
 
 (Pub. L. 97–468, title VI, §606(a)–(c), (e), Jan. 14, 1983, 96 Stat. 2564–2566, 2571; Pub. L. 98–620, title IV, §402(52), Nov. 8, 1984, 98 Stat. 3361.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12 of the Act of January 2, 1976, as amended, referred to in subsecs. (a)(1), (4) and (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, as amended, which is set out as a note under section 1611 of Title 43, Public Lands. Section 12(b)(8)(i)(D) of such Act as amended by subsection (d)(5) of this section is the amendment of subsection (b)(8)(i)(D) of section 12 of Pub. L. 94–204 by section 606(d)(5) of Pub. L. 97–468, title VI, Jan. 14, 1983, 96 Stat. 2566.
@@ -59,6 +61,8 @@ Section is comprised of subsecs. (a)–(c) and (e) of section 606 of Pub. L. 97�
 #### Amendments
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–620 struck out provision that required review of agency action pursuant to this chapter to be expedited to same extent as expedited review provided by section 1108 of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3168).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

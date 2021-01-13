@@ -14,7 +14,11 @@ As used in this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(i) has the meaning given that term in section 2341 of title 18; and
 
-&emsp;&emsp;&emsp;(ii) includes roll-your-own tobacco (as defined in section 5702 of title 26).
+&emsp;&emsp;&emsp;(ii) includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) roll-your-own tobacco (as defined in section 5702 of title 26); and
+
+&emsp;&emsp;&emsp;&emsp;(II) an electronic nicotine delivery system.
 
 #### (B) Exception
 
@@ -44,7 +48,39 @@ As used in this chapter, the following definitions apply:
 
 &emsp;The term "delivery seller" means a person who makes a delivery sale.
 
-#### (7) Indian country
+#### (7) Electronic nicotine delivery system
+
+&emsp;The term "electronic nicotine delivery system"—
+
+&emsp;&emsp;(A) means any electronic device that, through an aerosolized solution, delivers nicotine, flavor, or any other substance to the user inhaling from the device;
+
+&emsp;&emsp;(B) includes—
+
+&emsp;&emsp;&emsp;(i) an e-cigarette;
+
+&emsp;&emsp;&emsp;(ii) an e-hookah;
+
+&emsp;&emsp;&emsp;(iii) an e-cigar;
+
+&emsp;&emsp;&emsp;(iv) a vape pen;
+
+&emsp;&emsp;&emsp;(v) an advanced refillable personal vaporizer;
+
+&emsp;&emsp;&emsp;(vi) an electronic pipe; and
+
+&emsp;&emsp;&emsp;(vii) any component, liquid, part, or accessory of a device described in subparagraph (A), without regard to whether the component, liquid, part, or accessory is sold separately from the device; and
+
+&emsp;&emsp;(C) does not include a product that is—
+
+&emsp;&emsp;&emsp;(i) approved by the Food and Drug Administration for—
+
+&emsp;&emsp;&emsp;&emsp;(I) sale as a tobacco cessation product; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any other therapeutic purpose; and
+
+&emsp;&emsp;&emsp;(ii) marketed and sold solely for a purpose described in clause (i).
+
+#### (8) Indian country
 
 &emsp;The term "Indian country"—
 
@@ -52,11 +88,11 @@ As used in this chapter, the following definitions apply:
 
 &emsp;&emsp;(B) includes any other land held by the United States in trust or restricted status for one or more Indian tribes.
 
-#### (8) Indian tribe
+#### (9) Indian tribe
 
 &emsp;The term "Indian tribe", "tribe", or "tribal" refers to an Indian tribe as defined in section 5304(e) of title 25 or as listed pursuant to section 5131 of title 25.
 
-#### (9) Interstate commerce
+#### (10) Interstate commerce
 
 #### (A) In general
 
@@ -66,31 +102,41 @@ As used in this chapter, the following definitions apply:
 
 &emsp;&emsp;A sale, shipment, or transfer of cigarettes or smokeless tobacco that is made in interstate commerce, as defined in this paragraph, shall be deemed to have been made into the State, place, or locality in which such cigarettes or smokeless tobacco are delivered.
 
-#### (10) Person
+#### (11) Person
 
 &emsp;The term "person" means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such a government, or joint stock company.
 
-#### (11) State
+#### (12) State
 
 &emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-#### (12) Smokeless tobacco
+#### (13) Smokeless tobacco
 
 &emsp;The term "smokeless tobacco" means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
 
-#### (13) Tobacco tax administrator
+#### (14) Tobacco tax administrator
 
 &emsp;The term "tobacco tax administrator" means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
 
-#### (14) Use
+#### (15) Use
 
 &emsp;The term "use" includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
-(Oct. 19, 1949, ch. 699, §1, as added Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088.)
+(Oct. 19, 1949, ch. 699, §1, as added Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088; amended Pub. L. 116–260, div. FF, title VI, §602(a)(1), Dec. 27, 2020, 134 Stat. 3136.)
 
 #### Prior Provisions
 
 A prior section 375, act Oct. 19, 1949, ch. 699, §1, 63 Stat. 884; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088.
+
+#### Amendments
+
+<b>2020</b>—Par. (2)(A)(ii). Pub. L. 116–260, §602(a)(1)(A), substituted "includes—" for "includes", inserted subcl. (I) designation before "roll-your-own tobacco", and added subcl. (II).
+
+Pars. (7) to (15). Pub. L. 116–260, §602(a)(1)(B), (C), added par. (7) and redesignated former pars. (7) to (14) as (8) to (15), respectively.
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title VI, §602(b), Dec. 27, 2020, 134 Stat. 3137, provided that: "This section \[amending this section and section 376a of this title and enacting provisions set out as a note under this section\], and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act \[Dec. 27, 2020\]."
 
 #### Effective Date
 
@@ -104,6 +150,10 @@ In General.—Except as provided in subsection (b), this Act \[see Short Title o
 
 BATFE Authority.—The amendments made by section 4 \[amending section 2343 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of enactment of this Act."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title VI, §601, Dec. 27, 2020, 134 Stat. 3136, provided that: "This title \[amending this section and section 376a of this title and enacting provisions set out as notes under this section and section 1716E of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Preventing Online Sales of E-Cigarettes to Children Act'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–154, §1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: "This Act \[enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Prevent All Cigarette Trafficking Act of 2009' or 'PACT Act'."
@@ -115,6 +165,10 @@ Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this 
 #### Severability
 
 Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: "If any provision of this Act \[see Short Title of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby."
+
+#### Rule of Construction
+
+Pub. L. 116–260, div. FF, title VI, §602(c), Dec. 27, 2020, 134 Stat. 3137, provided that: "Nothing in this section \[amending this section and section 376a of this title and enacting provisions set out as a note under this section\], or an amendment made by this section, may be construed to affect or otherwise alter any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), including its implementing regulations."
 
 #### Findings and Purpose
 
@@ -140,7 +194,7 @@ Findings.—Congress finds that—
 
 &emsp;"(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005;
 
-&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United Statesincreased from only about 40 in 2000 to more than 500 in 2005; and
+&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettesand smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
 
 &emsp;"(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
 

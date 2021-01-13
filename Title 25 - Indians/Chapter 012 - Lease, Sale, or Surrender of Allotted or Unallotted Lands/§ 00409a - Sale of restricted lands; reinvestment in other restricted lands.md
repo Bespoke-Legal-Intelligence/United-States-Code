@@ -4,6 +4,8 @@ Whenever any nontaxable land of a restricted Indian of the Five Civilized Tribes
 
 (Mar. 2, 1931, ch. 374, 46 Stat. 1471; June 30, 1932, ch. 333, 47 Stat. 474.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1932</b>—Act June 30, 1932, made section applicable to lands of any restricted Indian of any other Indian tribe, and provided for sale of lands to any State and acquisition by any State instead of only to and by the State of Oklahoma.

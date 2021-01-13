@@ -28,7 +28,7 @@ No financial assistance for low-rent housing and related facilities shall be mad
 
 #### (d) Payments; contracts to specify uses of housing
 
-The Secretary may make payments pursuant to any contract for financial assistance under this section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
+The Secretary may make payments pursuant to any contract for financial assistance underthis section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
 
 #### (e) Regulations for prevention of waste
 
@@ -82,7 +82,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
-&emsp;&emsp;&emsp;(iii) Annual payments for operating costs of such housing (without regard to whether the housing is an existing structure), not to exceed 75 percent of the annual operating costs of such housing.
+&emsp;&emsp;&emsp;(iii) Annual payments for operating costs of such housing (without regard towhether the housing is an existing structure), not to exceed 75 percent of the annual operating costs of such housing.
 
 #### (B) Available assistance
 

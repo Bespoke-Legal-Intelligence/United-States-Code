@@ -16,6 +16,8 @@ Seizure and Forfeiture.—Articles imported in violation of the rights set forth
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2916.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 337 of the Tariff Act of 1930, referred to in subsec. (a)(1), is classified to section 1337 of Title 19, Customs Duties.

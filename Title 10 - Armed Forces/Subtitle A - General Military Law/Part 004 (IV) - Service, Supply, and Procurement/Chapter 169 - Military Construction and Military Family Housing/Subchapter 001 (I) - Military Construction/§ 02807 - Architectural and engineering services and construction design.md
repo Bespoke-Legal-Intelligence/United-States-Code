@@ -22,7 +22,7 @@ Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at e
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261, §2801(a), substituted "$500,000" for "$300,000".
 
-Subsec. (d). Pub. L. 105–261, §2801(b), substituted "architectural and engineering services and constructiondesign" for "study, planning, design, architectural, and engineering services".
+Subsec. (d). Pub. L. 105–261, §2801(b), substituted "architectural and engineering services and construction design" for "study, planning, design, architectural, and engineering services".
 
 <b>1991</b>—Subsec. (c)(2). Pub. L. 102–190 substituted "after" for "after either" and struck out before period at end "or after each such committee has indicated approval of the increased level of activity".
 

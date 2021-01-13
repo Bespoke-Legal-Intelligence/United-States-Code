@@ -8,7 +8,7 @@ General Requirements.—A person owning or operating a pipeline facility shall�
 
 &emsp;(2) prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title;
 
-&emsp;(3) allow access to or copying of records, make reports and provide information, and allow entry or inspection required under section 60117(a)–(d) of this title; and
+&emsp;(3) allow access to or copying of records, make reports and provide information, and allow entry or inspection required under subsections (a) through (e) of section 60117 of this title; and
 
 &emsp;(4) conduct a risk analysis, and adopt and implement an integrity management program, for pipeline facilities as required under section 60109(c).
 
@@ -94,7 +94,7 @@ Good cause.—In clause (i), the term "good cause" may include actions such as r
 
 Limitation on Statutory Construction.—Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005; Pub. L. 109–468, §10, Dec. 29, 2006, 120 Stat. 3494; Pub. L. 112–90, §2(b), Jan. 3, 2012, 125 Stat. 1905.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005; Pub. L. 109–468, §10, Dec. 29, 2006, 120 Stat. 3494; Pub. L. 112–90, §2(b), Jan. 3, 2012, 125 Stat. 1905; Pub. L. 116–260, div. R, title I, §108(b)(3), Dec. 27, 2020, 134 Stat. 2223.)
 
 Historical and Revision Notes
 
@@ -150,13 +150,15 @@ In subsection (a)(1), the words "at all times after the date . . . takes effec
 
 In subsection (a)(2), the words "establish and" in 49 App.:2006(a)(2) and "and comply with such plan" are omitted as surplus.
 
-In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. Theword "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
+In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. The word "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
 
 In subsection (c), the words "any part of" are substituted for "in whole or in part" to eliminate unnecessary words. The words "and to such extent" and "he determines that . . . of compliance with such standard" are omitted as surplus.
 
 In subsection (d), the words "to which the certification or agreement applies" are added for clarity. The words "to the granting of the waiver" and "any State agency action granting" are omitted as surplus. The words "shall provide a prompt opportunity for a hearing" are substituted for "shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing" to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(3). Pub. L. 116–260 substituted "subsections (a) through (e) of section 60117" for "section 60117(a)–(d)".
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–90 amended subsec. (e) generally. Prior to amendment, text read as follows: "If the Secretary or the National Transportation Safety Board investigate an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident."
 

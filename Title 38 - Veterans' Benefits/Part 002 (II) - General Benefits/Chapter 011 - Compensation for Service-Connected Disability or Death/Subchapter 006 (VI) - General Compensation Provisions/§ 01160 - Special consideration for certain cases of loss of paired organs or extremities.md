@@ -18,9 +18,11 @@
 
 > the Secretary shall assign and pay to the veteran the applicable rate of compensation under this chapter as if the combination of disabilities were the result of service-connected disability.
 
-(b) If a veteran described in subsection (a) of this section receives any money or property ofvalue pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the non-service-connected disability described in such subsection, the increase in the rate of compensation otherwise payable under this section shall not be paid for any month following a month in which any such money or property is received until such time as the total of the amount of such increase that would otherwise have been payable equals the total of the amount of any such money received and the fair market value of any such property received.
+(b) If a veteran described in subsection (a) of this section receives any money or property of value pursuant to an award in a judicial proceeding based upon, or a settlement or compromise of, any cause of action for damages for the non-service-connected disability described in such subsection, the increase in the rate of compensation otherwise payable under this section shall not be paid for any month following a month in which any such money or property is received until such time as the total of the amount of such increase that would otherwise have been payable equals the total of the amount of any such money received and the fair market value of any such property received.
 
 (Added Pub. L. 87–610, §1, Aug. 28, 1962, 76 Stat. 406, §360; amended Pub. L. 89–311, §3(a), (b), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 94–433, title IV, §404(22), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–160, title VII, §702(3), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title I, §109(a)(1), Oct. 28, 1986, 100 Stat. 3253; renumbered §1160 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–330, title I, §103, Dec. 6, 2002, 116 Stat. 2821; Pub. L. 110–157, title I, §102, Dec. 26, 2007, 121 Stat. 1831.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (a). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 <b>1976</b>—Pub. L. 94–433 substituted "such veteran's" for "his" wherever appearing.
 
 <b>1965</b>—Pub. L. 89–311 added cl. (3) referring to total deafness in one ear as a result of service-connected disability and total deafness in the other ear as the result of non-service-connected disability not the result of his own willful misconduct, inserted reference to total deafness in both ears and, in section catchline, inserted reference to bilateral deafness.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

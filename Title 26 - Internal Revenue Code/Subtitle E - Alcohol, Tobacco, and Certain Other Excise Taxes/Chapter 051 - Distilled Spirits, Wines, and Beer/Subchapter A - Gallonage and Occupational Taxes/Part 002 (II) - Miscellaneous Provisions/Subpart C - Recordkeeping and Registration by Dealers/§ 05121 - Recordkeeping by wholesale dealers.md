@@ -4,7 +4,7 @@
 
 #### (1) Distilled spirits
 
-&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keep daily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies ofsuch records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
+&emsp;Every wholesale dealer in liquors who sells distilled spirits to other dealers shall keep daily a record of distilled spirits received and disposed of by him, in such form and at such place and containing such information, and shall submit correct summaries of such records to the Secretary at such time and in such form and manner, as the Secretary shall by regulations prescribe. Such dealer shall also submit correct extracts from or copies of such records, at such time and in such form and manner as the Secretary may by regulations prescribe; however, the Secretary may on application by such dealer, in accordance with such regulations, relieve him from this requirement until further notice, whenever the Secretary deems that the submission of such extracts or copies serves no useful purpose in law enforcement or in protection of the revenue.
 
 #### (2) Wines and beer
 

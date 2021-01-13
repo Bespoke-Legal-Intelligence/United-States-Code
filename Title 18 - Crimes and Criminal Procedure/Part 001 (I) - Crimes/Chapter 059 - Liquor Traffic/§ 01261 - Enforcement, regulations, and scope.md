@@ -20,13 +20,17 @@ Changes were made in phraseology and arrangement.
 
 This section \[section 31\] corrects a typographical error in section 1261 of title 18, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296, which directed amendment of subsec. (a) generally, was executed by amending text of section generally to reflect the probable intent of Congress and the amendment by Pub. L. 107–273, see below. Prior to amendment, text read as follows: "The Secretary of the Treasury shall enforce the provisions of this chapter. Regulations to carry out its provisions shall be prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury."
+<b>2002</b>—Pub. L. 107–296, which directed amendment of subsec. (a) generally, was executed by amending text of section generally to reflect the probable intent of Congress and the amendment by Pub. L. 107–273, see below. Prior to amendment, text read as follows: "The Secretary of the Treasury shall enforce the provisions of this chapter. Regulations to carry out its provisions shall be prescribed by the Commissioner of InternalRevenue with the approval of the Secretary of the Treasury."
 
-Pub. L. 107–273 struck out subsec. (a) designation and subsec. (b) which read as follows: "This chapter shall not apply to the Canal Zone.".
+Pub. L. 107–273 struck out subsec. (a) designation and subsec. (b) which read as follows: "This chapter shall not apply to the Canal Zone."
 
 <b>1949</b>—Subsec. (b). Act May 24, 1949, substituted subsection designation "(b)" for "(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

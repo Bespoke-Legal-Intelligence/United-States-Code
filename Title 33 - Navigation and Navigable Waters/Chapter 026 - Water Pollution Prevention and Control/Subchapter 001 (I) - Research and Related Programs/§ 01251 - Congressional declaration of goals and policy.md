@@ -44,6 +44,8 @@ It is the policy of Congress that the authority of each State to allocate quanti
 
 (June 30, 1948, ch. 758, title I, §101, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816; amended Pub. L. 95–217, §§5(a), 26(b), Dec. 27, 1977, 91 Stat. 1567, 1575; Pub. L. 100–4, title III, §316(b), Feb. 4, 1987, 101 Stat. 60.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a)(7). Pub. L. 100–4 added par. (7).
@@ -51,6 +53,14 @@ It is the policy of Congress that the authority of each State to allocate quanti
 <b>1977</b>—Subsec. (b). Pub. L. 95–217, §26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–337, §1, Jan. 13, 2021, 134 Stat. 5120, provided that: "This Act \[amending section 1330 of this title\] may be cited as the 'Protect and Restore America's Estuaries Act'."
+
+Pub. L. 116–294, §1, Jan. 5, 2021, 134 Stat. 4899, provided that: "This Act \[amending section 1268 of this title\] may be cited as the 'Great Lakes Restoration Initiative Act of 2019' or the 'GLRI Act of 2019'."
 
 #### Short Title of 2019 Amendment
 
@@ -128,9 +138,9 @@ Act June 30, 1948, ch. 758, title V, §520, formerly §518, as added by Pub. L. 
 
 Pub. L. 92–500, §4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
-"(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+"(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
-"(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as ineffect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
+"(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
 "(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act \[section 1282 of this title\] and in subsection (c) of section 3 of this Act."
 
@@ -228,10 +238,6 @@ Pub. L. 100–4, §2, Feb. 4, 1987, 101 Stat. 8, provided that: "No payments may
 
 Pub. L. 95–217, §74, Dec. 27, 1977, 91 Stat. 1609, provided that the Administrator of the Environmental Protection Agency conduct a study to examine the geographical, hydrological, and biological characteristics of marine waters to determine the effects of seafood processes which dispose of untreated natural wastes into such waters and to include in this study an examination of technologies which may be used in such processes to facilitate the use of the nutrients in these wastes or to reduce the discharge of such wastes into the marine environment and to submit the result of this study to Congress not later than Jan. 1, 1979.
 
-#### Standards
-
-For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
-
 #### Oversight Study
 
 Pub. L. 92–500, §5, Oct. 18, 1972, 86 Stat. 897, authorized the Comptroller General of the United States to conduct a study and review of the research, pilot, and demonstration programs related to prevention and control of water pollution conducted, supported, or assisted by any Federal agency pursuant to any Federal law or regulation and assess conflicts between these programs and their coordination and efficacy, and to report to Congress thereon by Oct. 1, 1973.
@@ -270,11 +276,21 @@ Pub. L. 92–500, §10, Oct. 18, 1972, 86 Stat. 899, directed President to make 
 
 #### Efficiency Study
 
-Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report resultsof his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of theFederal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
 #### Sex Discrimination
 
 Pub. L. 92–500, §13, Oct. 18, 1972, 86 Stat. 903, provided that: "No person in the United States shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this Act \[see Short Title note above\] the Federal Water Pollution Control Act \[this chapter\], or the Environmental Financing Act \[set out as a note under section 1281 of this title\]. This section shall be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[section 2000d et seq. of Title 42, The Public Health and Welfare\]. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discriminatee."
+
+#### Definition of "Administrator"
+
+Pub. L. 100–4, §1(d), Feb. 4, 1987, 101 Stat. 8, provided that: "For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term 'Administrator' means the Administrator of the Environmental Protection Agency."
+
+#### <b>Executive Documents</b>
+
+#### Standards
+
+For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
 #### Contiguous Zone of United States
 
@@ -295,8 +311,4 @@ Ex. Ord. No. 11742, Oct. 23, 1973, 38 F.R. 29457, provided:
 Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code and as President of the United States, I hereby authorize and empower the Secretary of State, in coordination with the Council on Environmental Quality, the Environmental Protection Agency, and other appropriate Federal agencies, to perform, without the approval, ratification, or other action of the President, the functions vested in the President by Section 7 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500; 86 Stat. 898) with respect to international agreements relating to the enhancement of the environment.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definition of "Administrator"
-
-Pub. L. 100–4, §1(d), Feb. 4, 1987, 101 Stat. 8, provided that: "For purposes of this Act \[see Short Title of 1987 Amendment note above\], the term 'Administrator' means the Administrator of the Environmental Protection Agency."
 

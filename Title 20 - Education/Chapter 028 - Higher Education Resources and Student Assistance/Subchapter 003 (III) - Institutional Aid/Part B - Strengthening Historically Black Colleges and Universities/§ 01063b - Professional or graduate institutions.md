@@ -106,7 +106,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 #### (2) Qualified graduate program
 
-&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in the physical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
+&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in thephysical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
 
 &emsp;(B) Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified graduate program.
 
@@ -126,7 +126,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 Subject to subsection (g), of the amount appropriated to carry out this section for any fiscal year—
 
-&emsp;(1) the first $56,900,000 (or any lesser amount appropriated) shall be available only for thepurposes of making grants to institutions or programs described in subparagraphs (A) through (R) of subsection (e)(1);
+&emsp;(1) the first $56,900,000 (or any lesser amount appropriated) shall be available only for the purposes of making grants to institutions or programs described in subparagraphs (A) through (R) of subsection (e)(1);
 
 &emsp;(2) any amount in excess of $56,900,000, but not in excess of $62,900,000, shall be available for the purpose of making grants to institutions or programs described in subparagraphs (S) through (X) of subsection (e)(1); and
 

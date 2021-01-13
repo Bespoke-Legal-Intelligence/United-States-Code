@@ -30,7 +30,7 @@ In any major disaster, the President may—
 
 &emsp;&emsp;(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of a major disaster.
 
-(Pub. L. 93–288, title IV, §402, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat.4696; amended Pub. L. 109–295, title VI, §681(a), Oct. 4, 2006, 120 Stat. 1444; Pub. L. 115–254, div. D, §1206(a), Oct. 5, 2018, 132 Stat. 3440.)
+(Pub. L. 93–288, title IV, §402, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4696; amended Pub. L. 109–295, title VI, §681(a), Oct. 4, 2006, 120 Stat. 1444; Pub. L. 115–254, div. D, §1206(a), Oct. 5, 2018, 132 Stat. 3440.)
 
 #### Prior Provisions
 

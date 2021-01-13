@@ -28,13 +28,17 @@ In this section:
 
 #### (2) To effect the involuntary return
 
-&emsp;The term "to effect the involuntary return" means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
+&emsp;The term "to effect the involuntary return" means to require, by means of physical forceor circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
 
 (Aug. 1, 1956, ch. 841, title I, §58, as added Pub. L. 107–228, div. A, title II, §241, Sept. 30, 2002, 116 Stat. 1373.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

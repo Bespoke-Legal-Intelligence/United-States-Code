@@ -78,7 +78,7 @@ The objectives of the VfP Program should include—
 
 #### (2) Use of funds
 
-&emsp;Amounts made available under paragraph (1) may be used by the VfP Office to provide personnel and other resources to develop, manage, and expand the VfP Program, under thesupervision of the United States Agency for International Development.
+&emsp;Amounts made available under paragraph (1) may be used by the VfP Office to provide personnel and other resources to develop, manage, and expand the VfP Program, under the supervision of the United States Agency for International Development.
 
 #### (e) Coordination
 
@@ -89,6 +89,8 @@ The VfP Office shall coordinate its efforts with other public and private effort
 The VfP Office shall submit an annual report to Congress on the activities of the VfP Office.
 
 (Pub. L. 111–13, title V, §5103, Apr. 21, 2009, 123 Stat. 1598.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

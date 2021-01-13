@@ -38,6 +38,8 @@ It is the purpose of the Congress to achieve the objective of this subchapter by
 
 (Pub. L. 89–454, title II, §202, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998; amended Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1961; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 100–220, title III, §§3103, 3104(b)(1)(A), (B), Dec. 29, 1987, 101 Stat. 1469, 1470; Pub. L. 105–160, §3, Mar. 6, 1998, 112 Stat. 21; Pub. L. 107–299, §2, Nov. 26, 2002, 116 Stat. 2345; Pub. L. 110–394, §3, Oct. 13, 2008, 122 Stat. 4205.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–394, §3(c), inserted "management," after "development," wherever appearing.
@@ -60,7 +62,7 @@ Subsec. (c). Pub. L. 110–394, §3(b), substituted "to promote integrated resea
 
 <b>1998</b>—Subsec. (a)(1)(D) to (F). Pub. L. 105–160, §3(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted "The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant institutes, and other institutions." for "Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities."
+Subsec. (a)(6). Pub. L. 105–160, §3(b), substituted "The most cost-effective way to promote such activities is through continued and increased Federal support of the establishment, development, and operation of programsand projects by sea grant colleges, sea grant institutes, and other institutions." for "Continued and increased Federal support of the establishment, development, and operation of programs and projects by sea grant colleges, sea grant regional consortia, institutions of higher education, institutes, laboratories, and other appropriate public and private entities is the most cost-effective way to promote such activities."
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–220, §§3103(1), 3104(b)(1)(A), added pars. (1) to (3), redesignated former pars. (1) to (3) as (4) to (6), respectively, and substituted "ocean, coastal, and Great Lakes resources" for "ocean and coastal resources" in pars. (4) and (5).
 
@@ -71,6 +73,12 @@ Subsec. (c). Pub. L. 100–220, §3104(b)(1)(B), substituted "ocean, coastal, an
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–428 substituted "national sea grant college program" for "national sea grant program".
 
 <b>1976</b>—Pub. L. 94–461 completely rewrote the Congressional statement of findings, objectives, and purposes of the National Sea Grant Program Act to reflect the extension and strengthening of the national sea grant program to promote research, education, training, and advisory service activities in fields related to ocean and coastal resources through federal support to sea grant colleges, sea grant regional consortia, and other institutions through the National Oceanic and Atmospheric Administration, and to make education, training, research, and advisory services responsive to state, local, regional, or national needs and problems.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–221, §1, Dec. 18, 2020, 134 Stat. 1057, provided that: "This Act \[amending sections 1123, 1126, 1127, 1128, and 1131 of this title, repealing section 857–20 of this title, and enacting provisions set out as notes under sections 1123 and 1127 of this title\] may be cited as the 'National Sea Grant College Program Amendments Act of 2020'."
 
 #### Short Title of 2008 Amendment
 

@@ -22,35 +22,7 @@
 
 #### (2) Programs
 
-#### (A) Solar energy
-
-&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for solar energy, including—
-
-&emsp;&emsp;&emsp;(i) photovoltaics;
-
-&emsp;&emsp;&emsp;(ii) solar hot water and solar space heating;
-
-&emsp;&emsp;&emsp;(iii) concentrating solar power;
-
-&emsp;&emsp;&emsp;(iv) lighting systems that integrate sunlight and electrical lighting in complement to each other in common lighting fixtures for the purpose of improving energy efficiency;
-
-&emsp;&emsp;&emsp;(v) manufacturability of low cost, high quality solar systems; and
-
-&emsp;&emsp;&emsp;(vi) development of products that can be easily integrated into new and existing buildings.
-
-#### (B) Wind energy
-
-&emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for wind energy, including—
-
-&emsp;&emsp;&emsp;(i) low speed wind energy;
-
-&emsp;&emsp;&emsp;(ii) offshore wind energy;
-
-&emsp;&emsp;&emsp;(iii) testing and verification (including construction and operation of a research and testing facility capable of testing wind turbines); and
-
-&emsp;&emsp;&emsp;(iv) distributed wind energy generation.
-
-#### (C) Geothermal
+#### (A) Geothermal
 
 &emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for geothermal energy. The program shall focus on developing improved technologies for reducing the costs of geothermal energy installations, including technologies for—
 
@@ -64,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(v) increasing the understanding of reservoir life cycle and management.
 
-#### (D) Hydropower
+#### (B) Hydropower
 
 &emsp;&emsp;The Secretary shall conduct a program of research, development, demonstration, and commercial application for cost competitive technologies that enable the development of new and incremental hydropower capacity, adding to the diversity of the energy supply of the United States, including:
 
@@ -72,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) Advanced technologies to enhance environmental performance and yield greater energy efficiencies.
 
-#### (E) Miscellaneous projects
+#### (C) Miscellaneous projects
 
 &emsp;&emsp;The Secretary shall conduct research, development, demonstration, and commercial application programs for—
 
@@ -108,17 +80,7 @@ From the amounts authorized under subsection (b), there are authorized to be app
 
 &emsp;(4) $419,000,000 for fiscal year 2010, of which $150,000,000 shall be for section 16232(d) of this title.
 
-#### (d) Solar power
-
-From amounts authorized under subsection (b), there is authorized to be appropriated to carry out activities under subsection (a)(2)(A)—
-
-&emsp;(1) $140,000,000 for fiscal year 2007, of which $40,000,000 shall be for activities under section 16235 of this title;
-
-&emsp;(2) $200,000,000 for fiscal year 2008, of which $50,000,000 shall be for activities under section 16235 of this title; and
-
-&emsp;(3) $250,000,000 for fiscal year 2009, of which $50,000,000 shall be for activities under section 16235 of this title.
-
-#### (e) Administration
+#### (d) Administration
 
 Of the funds authorized under subsection (c), not less than $5,000,000 for each fiscal year shall be made available for grants to—
 
@@ -128,7 +90,7 @@ Of the funds authorized under subsection (c), not less than $5,000,000 for each 
 
 &emsp;(3) Hispanic-serving institutions.
 
-#### (f) Rural demonstration projects
+#### (e) Rural demonstration projects
 
 In carrying out this section, the Secretary, in consultation with the Secretary of Agriculture, shall demonstrate the use of renewable energy technologies to assist in delivering electricity to rural and remote locations including —
 
@@ -138,7 +100,7 @@ In carrying out this section, the Secretary, in consultation with the Secretary 
 
 &emsp;(3) geothermal energy systems.
 
-#### (g) Analysis and evaluation
+#### (f) Analysis and evaluation
 
 #### (1) In general
 
@@ -154,9 +116,13 @@ In carrying out this section, the Secretary, in consultation with the Secretary 
 
 &emsp;The Secretary may designate up to 1 percent of the funds appropriated for carrying out this part for analysis and evaluation activities under this subsection.
 
-(Pub. L. 109–58, title IX, §931, Aug. 8, 2005, 119 Stat. 868; Pub. L. 110–140, title II, §231, Dec. 19, 2007, 121 Stat. 1536.)
+(Pub. L. 109–58, title IX, §931, Aug. 8, 2005, 119 Stat. 868; Pub. L. 110–140, title II, §231, Dec. 19, 2007, 121 Stat. 1536; Pub. L. 116–260, div. Z, title III, §3006(b)(3), Dec. 27, 2020, 134 Stat. 2512.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §3006(b)(3)(A)(i), (ii), redesignated subpars. (C) to (E) as (A) to (C), respectively, and struck out former subpars. (A) and (B) which related to solar and wind energy programs.
+
+Subsecs. (d) to (g). Pub. L. 116–260, §3006(b)(3)(B), (C), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which related to solar power.
 
 <b>2007</b>—Subsec. (b)(4). Pub. L. 110–140, §231(1), added par. (4).
 

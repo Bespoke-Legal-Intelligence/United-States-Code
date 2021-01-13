@@ -18,6 +18,8 @@ Forfeiture provision was rephrased to make it clear that forfeiture was not depe
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177, title VI, §602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted "Restricted building or grounds" for "Temporary residences and offices of the President and others" in item 1752.

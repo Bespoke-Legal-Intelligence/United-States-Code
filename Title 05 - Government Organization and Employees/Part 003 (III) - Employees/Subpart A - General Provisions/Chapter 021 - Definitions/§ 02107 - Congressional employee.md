@@ -54,6 +54,8 @@ Paragraph (6), relating to Official Reporters of Debates of the Senate and their
 
 In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c)), the word "officers" is omitted as included in "employees," and the words "United States" preceding the words "Botanic Garden" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (4). Pub. L. 111–145, inserted "or employee" after "member".
@@ -63,6 +65,8 @@ In paragraph (8), based on the act of September 26, 1966 (5 App. U.S.C. 2251(c))
 <b>1996</b>—Par. (5). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
 <b>1970</b>—Par. (9). Pub. L. 91—510 added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

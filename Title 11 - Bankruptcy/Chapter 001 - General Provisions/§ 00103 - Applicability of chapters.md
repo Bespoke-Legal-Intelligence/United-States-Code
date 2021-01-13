@@ -18,7 +18,7 @@ Scope of Application.—Subchapter V of chapter 7 of this title shall apply only
 
 (h) Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.
 
-(i) Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a small business debtor elects that subchapter V of chapter 11 shall apply.
+(i) Subchapter V of chapter 11 of this title applies only in a case under chapter 11 in which a debtor (as defined in section 1182) elects that subchapter V of chapter 11 shall apply.
 
 (j) Chapter 13 of this title applies only in a case under such chapter.
 
@@ -30,13 +30,15 @@ Scope of Application.—Subchapter V of chapter 7 of this title shall apply only
 
 &emsp;(2) section 1509 applies whether or not a case under this title is pending.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, §802(a), Apr. 20, 2005, 119 Stat. 145; Pub. L. 111–327, §2(a)(2), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–54, §4(a)(2), Aug. 23, 2019, 133 Stat. 1085.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 97–222, §2, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §423, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §252, Oct. 27, 1986, 100 Stat. 3104; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(5)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–394; Pub. L. 109–8, title VIII, §802(a), Apr. 20, 2005, 119 Stat. 145; Pub. L. 111–327, §2(a)(2), Dec. 22, 2010, 124 Stat. 3557; Pub. L. 116–54, §4(a)(2), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–136, div. A, title I, §1113(a)(2), Mar. 27, 2020, 134 Stat. 311.)
 
 #### Historical and Revision Notes
 
 #### senate report no. 95–989
 
 Section 103 prescribes which chapters of the proposed bankruptcy code apply in various cases. All cases, other than cases ancillary to foreign proceedings, are filed under chapter 7, 9, 11, or 13, the operative chapters of the proposed bankruptcy code. The general provisions that apply no matter which chapter a case is filed under are found in chapters 1, 3, and 5. Subsection (a) makes this explicit, with an exception for chapter 9. The other provisions, which are self-explanatory, provide the special rules for Stockbroker Liquidations, Commodity Broker Liquidations, Municipal Debt Adjustments, and Railroad Reorganizations.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (e), popularly kn
 Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (e), was classified to section 4422 of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i). Pub. L. 116–136 substituted "debtor (as defined in section 1182)" for "small business debtor".
 
 <b>2019</b>—Subsecs. (i) to (l). Pub. L. 116–54 added subsec. (i) and redesignated former subsecs. (i) to (k) as (j) to (l), respectively.
 
@@ -63,6 +67,8 @@ Subsec. (i). Pub. L. 99–554, §252(2), added subsec. (i).
 <b>1984</b>—Subsec. (c). Pub. L. 98–353 substituted "stockbroker" for "stockholder".
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–222 struck out "except with respect to section 746(c) which applies to margin payments made by any debtor to a commodity broker or forward contract merchant" after "concerning a commodity broker".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

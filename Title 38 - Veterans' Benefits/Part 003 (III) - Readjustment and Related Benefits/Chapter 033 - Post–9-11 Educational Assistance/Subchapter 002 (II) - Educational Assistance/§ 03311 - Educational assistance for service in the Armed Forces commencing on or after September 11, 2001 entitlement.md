@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 12 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -66,16 +66,6 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(7) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 12 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
-
-&emsp;&emsp;(B) after completion of service described in subparagraph (A)—
-
-&emsp;&emsp;&emsp;(i) continues on active duty for an aggregate of less than 12 months; or
-
-&emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 12 months, is discharged or released from active duty as described in subsection (c).
-
-&emsp;(8) An individual who—
-
 &emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 90 days, but less than 6 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
@@ -84,9 +74,13 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(ii) before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
 
-&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
+&emsp;(8) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-&emsp;(10) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
+&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
+
+&emsp;(10) An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001, while a member of the Selected Reserve from a service-connected disability.
+
+&emsp;(11) An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001, and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
 
 (c)
 
@@ -132,11 +126,11 @@ Marine Gunnery Sergeant John David Fry Scholarship.—
 
 &emsp;(1)
 
-In general.—Educational assistance payable by reason of paragraph (9) of subsection (b) shall be known as the "Marine Gunnery Sergeant John David Fry scholarship".
+In general.—Educational assistance payable by reason of paragraphs (8), (9), and (10) of subsection (b) shall be known as the "Marine Gunnery Sergeant John David Fry scholarship".
 
 &emsp;(2)
 
-Limitation.—The entitlement of an individual to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
+Limitation.—The entitlement of an individual to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) because the individual was a spouse of a person described in such paragraph shall expire on the earlier of—
 
 &emsp;&emsp;(A) the date that is 15 years after the date on which the person died; or
 
@@ -144,7 +138,7 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe)under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
@@ -158,31 +152,17 @@ In general.—An election made under paragraph (3) by a spouse described in subp
 
 Eligible surviving spouse.—A spouse described in this subparagraph is an individual—
 
-&emsp;&emsp;&emsp;(i) who is entitled to assistance under subsection (a) pursuant to paragraph (9) of subsection (b); and
+&emsp;&emsp;&emsp;(i) who is entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b); and
 
 &emsp;&emsp;&emsp;(ii) who was the spouse of a member of the Armed Forces who died during the period beginning on September 11, 2001, and ending on December 31, 2005.
 
 &emsp;(5)
 
-Definition of child.—For purposes of paragraph (9) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
+Definition of child.—For purposes of paragraphs (8), (9), and (10) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938.)
 
-#### Amendment of Section
-
-<i>Pub. L. 115–48, title I, §105(a), (c)(1), (d), Aug. 16, 2017, 131 Stat. 975, 977, provided that, effective Aug. 1, 2020, this section is amended—</i>
-
-<i>(1) in subsection (b)—</i>
-
-<i>(A) in paragraph (6)(A), by striking "12 months" and inserting "6 months";</i>
-
-<i>(B) by striking paragraph (7); and</i>
-
-<i>(C) by redesignating paragraphs (8), (9), and (10) as paragraphs (7), (8), and (9), respectively; and</i>
-
-<i>(2) in subsection (f), by striking "paragraph (9)" each place it appears and inserting "paragraph (8)".</i>
-
-<i>See 2017 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -191,6 +171,10 @@ Section 182 of title 14, referred to in subsec. (d)(2), was repealed by Pub. L. 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(9) to (11). Pub. L. 116–315, §1002(a), added pars. (9) and (10) and redesignated former par. (9) as (11).
+
+Subsec. (f). Pub. L. 116–315, §1002(b)(1), substituted "paragraphs (8), (9), and (10)" for "paragraph (8)" wherever appearing.
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–232 substituted "section 7448, 8459, or 9448 of title 10" for "section 4348, 6959, or 9348 of title 10".
 
@@ -222,7 +206,7 @@ Subsec. (f)(5). Pub. L. 114–315, §401(b)(2), (c), redesignated par. (4) as (5
 
 Subsec. (f)(2) to (4). Pub. L. 113–146, §701(b), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-<b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted "A discharge or release from active duty in theArmed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service" for "A discharge or release from active duty in the Armed Forces" in introductory provisions.
+<b>2011</b>—Subsec. (c)(4). Pub. L. 111–377, §101(b), substituted "A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service" for "A discharge or release from active duty in the Armed Forces" in introductory provisions.
 
 Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted "or section 182 of title 14" before period at end.
 
@@ -230,15 +214,21 @@ Subsec. (d)(2). Pub. L. 111–377, §101(c), inserted "or section 182 of title 1
 
 Subsec. (f). Pub. L. 111–32, §1002(a)(2), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–315, title I, §1002(c), Jan. 5, 2021, 134 Stat. 4939, provided that: "The amendments made by this section \[amending this section and sections 3313, 3317, 3320, and 3322 of this title\] shall take effect immediately after the amendments made by section 105 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48) \[see section 105(d) of Pub. L. 115–48 set out as a note below\] take effect \[Aug. 1, 2020\] and shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after August 1, 2021."
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–48, title I, §102(c), Aug. 16, 2017, 131 Stat. 975, provided that: "The amendments made by this section \[amending this section and section 3313 of this title\] shall take effect on August 1, 2018."
 
 Pub. L. 115–48, title I, §105(d), Aug. 16, 2017, 131 Stat. 977, provided that: "The amendments made by this section \[amending this section and sections 3313, 3316, 3317, 3321, 3322, and 3679 of this title\] shall take effect on August 1, 2020."
-
-#### Effective Date of 2018 Amendment
-
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2014 Amendment
 
@@ -274,7 +264,7 @@ Effective date.—The amendments made by this section \[amending this section an
 
 "(2)
 
-Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of section 3311(b) of title 38, United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010."
+Applicability.—The Secretary of Veterans Affairs shall begin making payments to individuals entitled to educational assistance by reason of paragraph (9) of section 3311(b) \[now 38 U.S.C. 3311(b)(8)\] of title 38, United States Code, as added by subsection (a), by not later than August 1, 2010. In the case of an individual entitled to educational assistance by reason of such paragraph for the period beginning on August 1, 2009, and ending on July 31, 2010, the Secretary shall make retroactive payments to such individual for such period by not later than August 1, 2010."
 
 #### Effective Date
 

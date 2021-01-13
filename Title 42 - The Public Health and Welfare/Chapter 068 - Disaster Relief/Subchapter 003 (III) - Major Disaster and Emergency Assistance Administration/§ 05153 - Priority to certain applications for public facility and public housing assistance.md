@@ -40,7 +40,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act J
 
 #### Prior Provisions
 
-A prior section 5153, Pub. L. 93–288, title III, §313, May 22, 1974, 88 Stat. 150, related to same subject matter aspresent section but with references to different acts and provisions, prior to repeal by Pub. L. 100–707, §105(g).
+A prior section 5153, Pub. L. 93–288, title III, §313, May 22, 1974, 88 Stat. 150, related to same subject matter as present section but with references to different acts and provisions, prior to repeal by Pub. L. 100–707, §105(g).
 
 A prior section 310 of Pub. L. 93–288 was renumbered section 307 by Pub. L. 100–707 and was classified to section 5150 of this title, prior to repeal by Pub. L. 109–295.
 

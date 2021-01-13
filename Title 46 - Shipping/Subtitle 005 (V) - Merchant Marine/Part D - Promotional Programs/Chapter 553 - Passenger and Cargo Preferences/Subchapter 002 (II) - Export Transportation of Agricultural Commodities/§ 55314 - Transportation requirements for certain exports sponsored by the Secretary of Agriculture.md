@@ -20,7 +20,7 @@ Applicable Export Activity.—The activities specified in this subsection are ex
 
 &emsp;(5) under which agricultural commodities or their products are made available for emergency food relief at less than prevailing world market prices;
 
-&emsp;(6) under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than thedifference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
+&emsp;(6) under which a cash grant is made directly or through an intermediary to a foreign purchaser to enable the purchaser to obtain United States agricultural commodities or their products in an amount greater than the difference between the prevailing world market price and the United States market price, free along side vessel at a United States port; or
 
 &emsp;(7) under which agricultural commodities owned or controlled by or under loan from the Corporation are exchanged or bartered for materials, goods, equipment, or services produced in foreign countries, except export activities described in section 55313(5) of this title.
 
@@ -70,6 +70,8 @@ In subsection (a)(2), the words "the 12-month period beginning October 1 of each
 
 In subsection (c)(4), before subparagraph (A), the words "or instrumentality" are omitted as unnecessary because of the definition of "agency" in chapter 1.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Peace Act, referred to in subsec. (b)(1), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. Title II of the Act is classified generally to subchapter III (§1721 et seq.) of chapter 41 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
@@ -97,6 +99,8 @@ Fiscal" for "
 Calendar" to reflect the probable intent of Congress.
 
 Subsecs. (b)(1), (c)(2). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

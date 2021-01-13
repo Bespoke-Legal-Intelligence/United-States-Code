@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratiofor such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 

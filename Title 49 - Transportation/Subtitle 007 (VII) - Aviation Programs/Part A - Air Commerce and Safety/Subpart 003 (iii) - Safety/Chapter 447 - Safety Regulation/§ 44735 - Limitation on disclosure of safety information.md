@@ -2,7 +2,11 @@
 
 (a)
 
-In General.—Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosedto the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5 if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law.
+In General.—Except as provided by subsection (c), a report, data, or other information described in subsection (b) shall not be disclosed to the public by the Administrator of the Federal Aviation Administration pursuant to section 552(b)(3)(B) of title 5—
+
+&emsp;(1) if the report, data, or other information is submitted to the Federal Aviation Administration voluntarily and is not required to be submitted to the Administrator under any other provision of law; or
+
+&emsp;(2) if the report, data, or other information is submitted to the Federal Aviation Administration pursuant to section 102(e) of the Aircraft Certification, Safety, and Accountability Act.
 
 (b)
 
@@ -24,11 +28,19 @@ Exception for De-identified Information.—
 
 &emsp;(1)
 
-In general.—The limitation established by subsection (a) shall not apply to a report, data, or other information if the information contained in the report, data, or other information has been de-identified.
+In general.—The limitation established by subsection (a) shall not apply to a report,data, or other information if the information contained in the report, data, or other information has been de-identified.
 
 &emsp;(2)
 
 De-identified defined.—In this subsection, the term "de-identified" means the process by which all information that is likely to establish the identity of the specific persons or entities submitting reports, data, or other information is removed from the reports, data, or other information.
 
-(Added Pub. L. 112–95, title III, §310(a), Feb. 14, 2012, 126 Stat. 64.)
+(Added Pub. L. 112–95, title III, §310(a), Feb. 14, 2012, 126 Stat. 64; amended Pub. L. 116–260, div. V, title I, §102(g), Dec. 27, 2020, 134 Stat. 2311.)
+
+#### References in Text
+
+Section 102(e) of the Aircraft Certification, Safety, and Accountability Act, referred to in subsec. (a)(2), is section 102(e) of title I of Pub. L. 116–260, div. V, Dec. 27, 2020, 134 Stat. 2310, which is set out in a note under section 44701 of this title.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260 inserted "—" after "title 5", designated remaining existing provisions as par. (1), and added par. (2).
 

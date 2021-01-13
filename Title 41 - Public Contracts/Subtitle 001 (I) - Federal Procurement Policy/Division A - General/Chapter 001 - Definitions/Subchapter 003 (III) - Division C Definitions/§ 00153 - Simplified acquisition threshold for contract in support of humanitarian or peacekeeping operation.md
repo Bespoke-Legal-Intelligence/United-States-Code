@@ -6,7 +6,7 @@ In general.—In division C, the term "simplified acquisition threshold" has the
 
 (2)
 
-Definition.—In paragraph (1), the term "humanitarian or peacekeeping operation"means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
+Definition.—In paragraph (1), the term "humanitarian or peacekeeping operation" means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3683.)
 

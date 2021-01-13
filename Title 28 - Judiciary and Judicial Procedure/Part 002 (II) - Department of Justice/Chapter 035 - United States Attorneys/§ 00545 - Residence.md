@@ -4,7 +4,7 @@
 
 (b) The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, §1, Oct. 27, 1978, 92 Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat.700; Pub. L. 103–322, title XXXII, §320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, §501(a), Mar. 9, 2006, 120 Stat. 246.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, §1, Oct. 27, 1978, 92 Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat. 700; Pub. L. 103–322, title XXXII, §320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, §501(a), Mar. 9, 2006, 120 Stat. 246.)
 
 Historical and Revision Notes<br>1966
 
@@ -38,9 +38,11 @@ Other provisions of section 524 of title 28, U.S.C., 1940 ed., were incorporated
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the UnitedStates Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
@@ -51,6 +53,8 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 <b>1979</b>—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistant United States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–530 inserted provision that this subsection not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

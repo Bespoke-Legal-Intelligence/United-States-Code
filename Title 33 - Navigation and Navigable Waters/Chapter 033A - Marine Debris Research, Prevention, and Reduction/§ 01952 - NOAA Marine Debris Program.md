@@ -96,6 +96,8 @@ At the discretion of the Administrator or at the request of the Governor of an a
 
 (Pub. L. 109–449, §3, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, §604(a)–(c), Dec. 20, 2012, 126 Stat. 1576, 1577; Pub. L. 115–265, title I, §101, Oct. 11, 2018, 132 Stat. 3742.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(6) to (8). Pub. L. 115–265, §101(1), added pars. (6) to (8).

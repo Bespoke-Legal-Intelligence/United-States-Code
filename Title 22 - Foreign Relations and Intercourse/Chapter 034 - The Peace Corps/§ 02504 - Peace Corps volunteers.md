@@ -16,7 +16,7 @@ Volunteers shall be entitled to receive a readjustment allowance at a rate not l
 
 #### (e) Health care
 
-Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under section 2507b of this title) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive, preparatory to their service,such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f), and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
+Volunteers shall receive such health care (including, if necessary, for volunteers and trainees, services under section 2507b of this title) during their service, applicants for enrollment shall receive such health examinations preparatory to their service, applicants for enrollment who have accepted an invitation to begin a period of training under section 2507(a) of this title shall receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f), and former volunteers shall receive such health examinations within six months after termination of their service, including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services), as the President may deem necessary or appropriate. Subject to such conditions as the President may prescribe, such health care may be provided in any facility of any agency of the United States Government, and in such cases the appropriation for maintaining and operating such facility shall be reimbursed from appropriations available under this chapter. Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
 #### (f) Prescription of medications
 
@@ -106,6 +106,8 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 (Pub. L. 87–293, title I, §5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, §2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, §2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, §2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, §2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, §4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, §2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, §1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, §9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, §2(b)(1)–(3), May 21, 1999, 113 Stat. 55; Pub. L. 112–57, §§3, 8(a)(1), (b), Nov. 21, 2011, 125 Stat. 744, 745; Pub. L. 115–256, title I, §101(a)(1), title III, §301, Oct. 9, 2018, 132 Stat. 3651, 3655.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
@@ -116,7 +118,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e)
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal TortClaims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, §101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
@@ -198,7 +200,7 @@ Subsec. (h). Pub. L. 89–134, §2(d), extended check cashing and currency excha
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
 
-Subsec. (c). Pub. L. 88–200, §2(b), substituted "a readjustment allowance" for "termination payments" in first sentence, the second sentence reading "The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States" for "The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine" and "readjustment allowance" for "termination payment" in third sentence.
+Subsec. (c). Pub. L. 88–200, §2(b), substituted "a readjustment allowance" for "termination payments" infirst sentence, the second sentence reading "The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States" for "The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine" and "readjustment allowance" for "termination payment" in third sentence.
 
 Subsec. (f)(2). Pub. L. 88–200, §2(c), substituted "readjustment allowances" for "termination payments."
 
@@ -207,6 +209,8 @@ Subsec. (g). Pub. L. 88–200, §2(d), provided for assignment of volunteers to 
 Subsec. (h). Pub. L. 88–200, §2(e), provided that volunteers shall be deemed employees of the U.S. Government for the purposes of absentee voting assistance and payment of general average contributions for transportation of baggage.
 
 Subsec. (k). Pub. L. 88–200, §2(f), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -219,10 +223,6 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
-
-#### Delegation of Functions
-
-Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Implementation of Recommendations by the Inspector General of the Peace Corps
 
@@ -272,7 +272,7 @@ Reports to the Peace Corps.—An organization making an evaluation under this se
 
 "(d)
 
-Report to Congress.—Not later than 90 days after receipt of a report required by subsection (c), theDirector of the Peace Corps shall transmit the report, together with the Director's comments, to the appropriate congressional committees.
+Report to Congress.—Not later than 90 days after receipt of a report required by subsection (c), the Director of the Peace Corps shall transmit the report, together with the Director's comments, to the appropriate congressional committees.
 
 "(e)
 
@@ -309,6 +309,12 @@ Director.—The term 'Director' means the Director of the Peace Corps.
 &emsp;"(3)
 
 Peace corps volunteer.—The term 'Peace Corps volunteer' means an individual described in section 5(a) of the Peace Corps Act (22 U.S.C. 2504(a))."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section, except those under subsec. (f)(1)(B), delegated to Director of Peace Corps, with function of prescribing conditions in subsec. (e) to be exercised in consultation with head of agency responsible for facility, by sections 1–103, 1–106, and 1–301(c) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 

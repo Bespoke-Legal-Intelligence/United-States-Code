@@ -18,6 +18,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294, §607(a), substituted "any State, Territory, Commonwealth, Possession, or District" for "any State, Territory, or District" in first par.
@@ -37,6 +39,8 @@ Pub. L. 103–322, §60006(a), substituted ", or may be sentenced to death." fo
 <b>1988</b>—Pub. L. 100–690 struck out "of citizens" after "rights" in section catchline and substituted "inhabitant of any State, Territory, or District" for "citizen" in text.
 
 <b>1968</b>—Pub. L. 90–284 increased limitation on fines from $5,000 to $10,000 and provided for imprisonment for any term of years or for life when death results.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

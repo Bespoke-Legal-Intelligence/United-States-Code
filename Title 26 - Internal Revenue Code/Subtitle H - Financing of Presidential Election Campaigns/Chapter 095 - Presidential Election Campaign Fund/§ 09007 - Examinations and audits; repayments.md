@@ -30,7 +30,7 @@ No notification shall be made by the Commission under subsection (b) with respec
 
 All payments received by the Secretary of the Treasury under subsection (b) shall be deposited by him in the general fund of the Treasury.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 568; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §404(c)(9)–(11), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title III, §307(e), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(B), (C), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 568; amended Pub. L. 93–53, §6(c),July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §404(c)(9)–(11), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title III, §307(e), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(B), (C), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 

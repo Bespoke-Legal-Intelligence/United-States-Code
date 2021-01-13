@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 #### (2) Maintenance of arrangement
 
-&emsp;No taxable year with respect to an employer shall be treated as occurring within the creditperiod unless the arrangement described in paragraph (1) is included in the plan for such year.
+&emsp;No taxable year with respect to an employer shall be treated as occurring within the credit period unless the arrangement described in paragraph (1) is included in the plan for such year.
 
 #### (c) Eligible employer
 

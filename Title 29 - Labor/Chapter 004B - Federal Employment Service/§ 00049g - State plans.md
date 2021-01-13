@@ -4,6 +4,8 @@ Any State desiring to receive assistance under section 49e of this title shall p
 
 (June 6, 1933, ch. 49, §8, 48 Stat. 115; Aug. 3, 1954, ch. 655, §6(b), 68 Stat. 665; Pub. L. 97–300, title VI, §601(d), formerly title V, §501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, §601(d), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §306, Aug. 7, 1998, 112 Stat. 1081; Pub. L. 113–128, title III, §306, July 22, 2014, 128 Stat. 1627.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–128 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans.
@@ -29,6 +31,8 @@ Subsec. (d). Pub. L. 97–300, §601(d)(3), designated provisions relating to th
 Subsec. (e). Pub. L. 97–300, §601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
 <b>1954</b>—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

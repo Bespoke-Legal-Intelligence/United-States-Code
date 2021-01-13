@@ -8,6 +8,7 @@
 | [2533a.](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy certain articles from American sources; exceptions. |
 | [2533b.](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy strategic materials critical to national security from American sources; exceptions. |
 | [2533c.](%C2%A7%2002533c%20-%20Prohibition%20on%20acquisition%20of%20sensitive%20materials%20from%20non-allied%20foreign%20nations.md) | Prohibition on acquisition of sensitive materials from non-allied foreign nations. |
+| [2533d.](%C2%A7%2002533d%20-%20Additional%20requirements%20pertaining%20to%20printed%20circuit%20boards.md) | Additional requirements pertaining to printed circuit boards. |
 | [2534\.](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md) | Miscellaneous limitations on the procurement of goods other than United States goods. |
 | [2535\.](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md) | Defense Industrial Reserve. |
 | [2536\.](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md) | Award of certain contracts to entities controlled by a foreign government: prohibition. |
@@ -19,7 +20,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Subchapter
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, chapter 148 of this title, and therefore this subchapter, is repealed. See Effective Date of Repeal note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VIII, §841(b), Jan. 1, 2021, 134 Stat. 3763, added item 2533d.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §871(b), Aug. 13, 2018, 132 Stat. 1905, added item 2533c.
 
@@ -37,6 +44,10 @@
 
 <b>1992</b>—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
 
 ---
 
@@ -48,6 +59,7 @@
 - [&sect; 02533a - Requirement to buy certain articles from American sources; exceptions](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02533b - Requirement to buy strategic materials critical to national security from American sources; exceptions](%C2%A7%2002533b%20-%20Requirement%20to%20buy%20strategic%20materials%20critical%20to%20national%20security%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02533c - Prohibition on acquisition of sensitive materials from non-allied foreign nations](%C2%A7%2002533c%20-%20Prohibition%20on%20acquisition%20of%20sensitive%20materials%20from%20non-allied%20foreign%20nations.md)
+- [&sect; 02533d - Additional requirements pertaining to printed circuit boards](%C2%A7%2002533d%20-%20Additional%20requirements%20pertaining%20to%20printed%20circuit%20boards.md)
 - [&sect; 02534 - Miscellaneous limitations on the procurement of goods other than United States goods](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md)
 - [&sect; 02535 - Defense Industrial Reserve](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md)
 - [&sect; 02536 - Award of certain contracts to entities controlled by a foreign government prohibition](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md)

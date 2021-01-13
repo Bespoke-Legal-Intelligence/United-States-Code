@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value ofthe land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 #### \[(3) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(96), Dec. 19, 2014, 128 Stat. 4051\]
 
@@ -44,7 +44,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 &emsp;&emsp;&emsp;&emsp;(I) the indebtedness incurred by the donor in acquiring such property,
 
-&emsp;&emsp;&emsp;&emsp;(II) the indebtedness incurred before the acquisition of such property if suchindebtedness would not have been incurred but for such acquisition,
+&emsp;&emsp;&emsp;&emsp;(II) the indebtedness incurred before the acquisition of such property if such indebtedness would not have been incurred but for such acquisition,
 
 &emsp;&emsp;&emsp;&emsp;(III) the indebtedness incurred after the acquisition of such property if such indebtedness would not have been incurred but for such acquisition and the incurrence of such indebtedness was reasonably foreseeable at the time of such acquisition, and
 
@@ -98,7 +98,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (B) Qualified conservation easement
 
-&emsp;&emsp;The term "qualified conservation easement" means a qualified conservation contribution (as defined in section 170(h)(1)) of a qualified real property interest (as defined in section 170(h)(2)(C)), except that clause (iv) of section 170(h)(4)(A) shall not apply, and the restriction on the use of such interest described in section 170(h)(2)(C) shall include a prohibition on more than a de minimis use for a commercial recreational activity.
+&emsp;&emsp;The term "qualified conservation easement" means a qualified conservation contribution (as defined in section 170(h)(1)) of a qualified real property interest (as defined in section 170(h)(2)(C)), except that clause (iv) of section 170(h)(4)(A) shall not apply, and the restriction on the use of such interest described in section 170(h)(2)(C) shall includea prohibition on more than a de minimis use for a commercial recreational activity.
 
 #### (C) Individual described
 

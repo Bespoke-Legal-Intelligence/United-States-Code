@@ -1,6 +1,6 @@
 ### §2706. Emergency Homeowners' Relief Fund
 
-To carry out the purposes of this chapter, the Secretary is authorized to establish in the Treasury of the United States an Emergency Homeowners' Relief Fund (hereinafter in this chapter referred to as the "fund") which shall be available to the Secretary without fiscal year limitation—
+To carry out the purposes of this chapter, the Secretary is authorized to establish in theTreasury of the United States an Emergency Homeowners' Relief Fund (hereinafter in this chapter referred to as the "fund") which shall be available to the Secretary without fiscal year limitation—
 
 &emsp;(1) for making payments in connection with defaulted loans or advances of credit insured under section 2704 of this title;
 
@@ -9,6 +9,8 @@ To carry out the purposes of this chapter, the Secretary is authorized to establ
 &emsp;(3) to pay such administrative expenses (or portion of such expenses) of carrying out the provisions of this chapter as the Secretary may deem necessary.
 
 (Pub. L. 94–50, title I, §107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, §204(m)(1), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title XIV, §1496(b)(4), July 21, 2010, 124 Stat. 2208.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ To carry out the purposes of this chapter, the Secretary is authorized to establ
 <b>1984</b>—Subsec. (a). Pub. L. 98–479, §204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
 
 Subsec. (b). Pub. L. 98–479, §204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

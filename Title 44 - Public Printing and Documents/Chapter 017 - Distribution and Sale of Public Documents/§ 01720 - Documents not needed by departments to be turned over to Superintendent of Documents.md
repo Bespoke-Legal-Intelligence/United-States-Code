@@ -1,6 +1,6 @@
 ### §1720. Documents not needed by departments to be turned over to Superintendent of Documents
 
-Public documents accumulating in the several executive departments, bureaus, and offices, notneeded for official use, shall be turned over to the Superintendent of Documents annually for distribution or sale.
+Public documents accumulating in the several executive departments, bureaus, and offices, not needed for official use, shall be turned over to the Superintendent of Documents annually for distribution or sale.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1282.)
 

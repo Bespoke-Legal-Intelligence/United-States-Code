@@ -16,9 +16,13 @@ To encourage innovative and environmentally sound engineering solutions and inno
 
 (Pub. L. 104–303, title II, §212, Oct. 12, 1996, 110 Stat. 3684.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

@@ -10,13 +10,13 @@ Information and listing services performed by the Clearinghouse shall be provide
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to establish, operate, and maintain the Clearinghouse created by subsection (a).
+There are authorized to be appropriated such sums as are necessary to establish, operate, andmaintain the Clearinghouse created by subsection (a).
 
 (Pub. L. 92–157, title II, §202, Nov. 18, 1971, 85 Stat. 461; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 101–597, title IV, §401(d), Nov. 16, 1990, 104 Stat. 3035.)
 
 #### References in Text
 
-Section 294n of this title, referred to in subsec. (b), was in the original a reference to section 741 of act July1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title and was subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
+Section 294n of this title, referred to in subsec. (b), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title and was subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
 
 #### Change of Name
 

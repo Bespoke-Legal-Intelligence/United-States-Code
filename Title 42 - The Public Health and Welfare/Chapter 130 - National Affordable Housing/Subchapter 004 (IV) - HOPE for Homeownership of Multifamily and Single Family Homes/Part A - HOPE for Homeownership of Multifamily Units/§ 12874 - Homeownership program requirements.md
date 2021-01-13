@@ -6,7 +6,7 @@ A homeownership program under this part shall provide for acquisition by eligibl
 
 #### (b) Affordability
 
-A homeownership program under this part shall provide for the establishment of salesprices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property, and for sales to eligible families, such that the eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
+A homeownership program under this part shall provide for the establishment of sales prices (including principal, insurance, taxes, and interest and closing costs) for initial acquisition of the property, and for sales to eligible families, such that the eligible family shall not be required to expend more than 30 percent of the adjusted income of the family per month to complete a sale under the homeownership program.
 
 #### (c) Plan
 
@@ -36,7 +36,7 @@ Acquisition or rehabilitation of a property under a homeownership program under 
 
 &emsp;&emsp;(A) such encumbrance will not threaten the long-term availability of the property for occupancy by low-income families;
 
-&emsp;&emsp;(B) neither the Federal Government nor the public housing agency will be exposed to undue risks related to action that may have to be taken pursuant to paragraph (3);
+&emsp;&emsp;(B) neither the Federal Government nor the public housing agency will be exposed toundue risks related to action that may have to be taken pursuant to paragraph (3);
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 

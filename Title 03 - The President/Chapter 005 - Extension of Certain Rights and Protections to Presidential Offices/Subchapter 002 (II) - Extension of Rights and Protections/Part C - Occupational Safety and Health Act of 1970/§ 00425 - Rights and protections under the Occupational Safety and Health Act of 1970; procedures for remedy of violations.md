@@ -42,7 +42,7 @@ Hearings and review.—If after issuing a citation or notification, the Secretar
 
 &emsp;&emsp;(A) the citation and notification shall be deemed a final order (within the meaning of section 10(b) of the Occupational Safety and Health Act of 1970) if the employer fails to notify the Secretary of Labor within 15 days (excluding Saturdays, Sundays, and Federal holidays) after receipt of the notice that the employer intends to contest the citation or notification; or
 
-&emsp;&emsp;(B) opportunity for a hearing before the Occupational Safety and Health Review Commission shall be afforded in accordance with section 10(c) of the Occupational Safety and Health Act of 1970, if the employer gives timely notice to the Secretary that he intends to contest the citation or notification.
+&emsp;&emsp;(B) opportunity for a hearing before the Occupational Safety and Health Review Commission shall be afforded in accordance with section 10(c) of the Occupational Safety and Health Act of 1970, if the employer givestimely notice to the Secretary that he intends to contest the citation or notification.
 
 &emsp;(4)
 
@@ -90,9 +90,13 @@ Effective Date.—Subsections (a) through (c) shall take effect on the earlier o
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4062.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Occupational Safety and Health Act of 1970, referred to in subsecs. (a) to (c)(4) and (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. Sections 5, 6, 8 to 10, 13, and 19 of the Act are classified to sections 654, 655, 657 to 659, 662, and 668, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

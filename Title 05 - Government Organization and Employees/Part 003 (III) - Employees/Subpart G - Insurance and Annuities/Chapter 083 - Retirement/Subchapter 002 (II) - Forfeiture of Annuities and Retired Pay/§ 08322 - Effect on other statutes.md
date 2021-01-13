@@ -22,6 +22,8 @@ The words "and section 3282 of Title 18" are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Retroactive Restoration of Annuity and Retired Pay; Redeposits of Contributions and Offsets
 
 Section 2 of Pub. L. 87–299, Sept. 26, 1961, 75 Stat. 648, provided that:

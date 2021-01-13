@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) there is a need to ensure that services, supports, and other assistance are provided in a culturally competent manner, that ensures that individuals from racial and ethnic minority backgrounds are fully included in all activities provided under this subchapter;
 
-&emsp;(9) family members, friends, and members of the community can play an important role inenhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
+&emsp;(9) family members, friends, and members of the community can play an important role in enhancing the lives of individuals with developmental disabilities, especially when the family members, friends, and community members are provided with the necessary community services, individualized supports, and other forms of assistance;
 
 &emsp;(10) current research indicates that 88 percent of individuals with developmental disabilities live with their families or in their own households;
 
@@ -98,7 +98,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(4) services, supports, and other assistance should be provided in a manner that demonstrates respect for individual dignity, personal preferences, and cultural differences;
 
-&emsp;(5) specific efforts must be made to ensure that individuals with developmental disabilities from racial and ethnic minority backgrounds and their families enjoy increased and meaningful opportunities to access and use community services, individualized supports, and other forms of assistance available to other individuals with developmental disabilities and their families;
+&emsp;(5) specific efforts must be made to ensure that individuals with developmental disabilities from racial and ethnic minority backgrounds and their families enjoy increased and meaningful opportunities to access and usecommunity services, individualized supports, and other forms of assistance available to other individuals with developmental disabilities and their families;
 
 &emsp;(6) recruitment efforts in disciplines related to developmental disabilities relating to pre-service training, community training, practice, administration, and policymaking must focus on bringing larger numbers of racial and ethnic minorities into the disciplines in order to provide appropriate skills, knowledge, role models, and sufficient personnel to address the growing needs of an increasingly diverse population;
 
@@ -188,7 +188,7 @@ Healthy Athletes.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services may award grants to, or enter into contracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
+In general.—The Secretary of Health and Human Services may award grants to, or enter intocontracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
 
 &emsp;"(2)
 
@@ -278,7 +278,7 @@ Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of 
 
 (13) The Chairperson of the National Council on Disability; and
 
-(14) No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who representa broad spectrum of perspectives, experience, and expertise on intellectual disabilities; persons with intellectual disabilities and members of families with a child or adult with intellectual disabilities; and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall serve for two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
+(14) No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who represent a broad spectrum of perspectives, experience, and expertise on intellectual disabilities; persons with intellectual disabilities and members of families with a child or adult with intellectual disabilities; and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall serve for two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
 
 (b) The President shall designate the Chair of the Committee from the 21 citizen members. The Chair shall preside over meetings of the Committee and represent the Committee on appropriate occasions.
 

@@ -8,7 +8,7 @@ After notifying the Indian tribe of the designation pursuant to section 7912 of 
 
 &emsp;(2) The remedial action shall be selected and performed in accordance with section 7918 of this title by the Secretary or such person as he may designate.
 
-&emsp;(3) The Secretary, the Commission, and the Administrator and their authorized representatives shall have a permanent right of entry at any time to inspect such processing site in furtherance of the provisions of this subchapter, to carry out such agreement, and to enforce any rules prescribed under this chapter.
+&emsp;(3) The Secretary, the Commission, and the Administrator and their authorized representatives shall have a permanent right of entry at any time to inspect such processing site infurtherance of the provisions of this subchapter, to carry out such agreement, and to enforce any rules prescribed under this chapter.
 
 > Each agreement under this section shall take effect only upon concurrence of the Commission with the terms and conditions thereof.
 

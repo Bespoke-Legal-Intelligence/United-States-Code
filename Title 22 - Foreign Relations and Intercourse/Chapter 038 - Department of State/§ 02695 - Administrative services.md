@@ -14,13 +14,17 @@ Whenever the head of any Federal agency performing any foreign affairs functions
 
 (Aug. 1, 1956, ch. 841, title I, §23, as added Pub. L. 95–426, title I, §111(a), Oct. 7, 1978, 92 Stat. 967; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 102–138, title I, §118, Oct. 28, 1991, 105 Stat. 657; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(f), title XIII, §1335(l)(1), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(l)(1), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
-Pub. L. 105–277, §1225(f), substituted "and the Agency for International Development" for "the Agency for International Development, and the Arms Control and Disarmament Agency".
+Pub. L. 105–277, §1225(f), substituted "and the Agency for International Development" for "the Agency forInternational Development, and the Arms Control and Disarmament Agency".
 
 <b>1991</b>—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

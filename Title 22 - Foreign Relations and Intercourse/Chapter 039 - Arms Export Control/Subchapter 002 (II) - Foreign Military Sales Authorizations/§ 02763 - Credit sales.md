@@ -30,7 +30,7 @@ References in any law to credits extended under this section shall be deemed to 
 
 #### (f) Audit of certain private firms
 
-For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms that have entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
+For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms thathave entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
 
 #### (g) Notification requirements with respect to cash flow financing
 
@@ -43,6 +43,8 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
 (Pub. L. 90–629, ch. 2, §23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, §45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, §105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, §102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, §101(e) \[title V, §572\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, §580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, §102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -70,6 +72,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87
 
 <b>1974</b>—Pub. L. 93–559 incorporated existing provisions in cl. (1) and added cl. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -81,10 +85,6 @@ Pub. L. 94–329, title II, §208(b), June 30, 1976, 90 Stat. 739, provided that
 #### Effective Date
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of the President under this section and section 7069 of div. I of Pub. L. 112–74 (see Similar Provisions note below), with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Similar Provisions
 
@@ -131,4 +131,62 @@ Pub. L. 101–513, title V, §561, Nov. 5, 1990, 104 Stat. 2026.
 Pub. L. 101–167, title V, §571, Nov. 21, 1989, 103 Stat. 1245.
 
 Pub. L. 100–461, title V, §580, Oct. 1, 1988, 102 Stat. 2268–48.
+
+#### Eastern European Security
+
+Pub. L. 116–332, Jan. 13, 2021, 134 Stat. 5111, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Eastern European Security Act'.
+
+#### "SEC. 2. SENSE OF CONGRESS.
+
+"It is the sense of Congress that it is in the national security interest of the United States to—
+
+&emsp;"(1) deter aggression against North Atlantic Treaty Organization (NATO) allies by Russia or any other adversary;
+
+&emsp;"(2) assist NATO allies in acquiring and deploying modern, NATO interoperable military equipment and reducing their dependence on Russian or former Soviet-era defense articles;
+
+&emsp;"(3) ensure that NATO allies meet alliance defense commitments, including through adequate investments in national defense;
+
+&emsp;"(4) supplement existing grant assistance to key allies through foreign military financing loans, at rates competitive with those already available on commercial markets, to purchase NATO-interoperable military equipment; and
+
+&emsp;"(5) work to maintain and strengthen the democratic institutions and practices of all NATO allies, in accordance with the goals of Article 2 of the North Atlantic Treaty.
+
+#### "SEC. 3. FOREIGN MILITARY LOAN AUTHORITY.
+
+"(a)
+
+In General.—Beginning in fiscal year 2021, subject to the notification requirements under subsection (b) and to the availability of appropriations, the President, acting through the Secretary of State, is authorized—
+
+&emsp;"(1) to make direct loans under section 23 of the Arms Export Control Act (22 U.S.C. 2763) to NATO member countries that joined the alliance after March 1, 1999, notwithstanding the minimum interest rate required by subsection (c)(1) of such section; and
+
+&emsp;"(2) to charge fees for such loans under paragraph (1), which shall be collected from borrowers in accordance with section 502(7) of the Congressional Budget Act of 1974 \[2 U.S.C. 661a(7)\], and which may be used to cover the costs of such loans as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\].
+
+"(b)
+
+Notification.—A loan may not be made under the authority provided by subsection (a) unless the Secretary of State submits to the appropriate congressional committees a certification, not fewer than fifteen days before entering into an agreement to make such loan, that—
+
+&emsp;"(1) the recipient country is making demonstrable progress toward meeting its defense spending commitments in accordance with the 2014 NATO Wales Summit Declaration; and
+
+&emsp;"(2) the government of such recipient country is respecting that country's constitution and upholds democratic values such as freedom of religion, freedom of speech, freedom of the press, the rule of law, and the rights of religious minorities.
+
+"(c)
+
+Repayment.—A loan made under the authority provided by subsection (a) shall be repaid in not more than 12 years, but may include a grace period of up to 1 year on the repayment of the principal.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this Act, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+
+&emsp;"(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of the President under this section and section 7069 of div. I of Pub. L. 112–74 (see Similar Provisions note below), with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

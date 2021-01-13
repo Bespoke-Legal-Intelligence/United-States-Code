@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Pub. L. 97–324, title I, §106(a), Oct. 15, 1982, 96 Stat. 1600.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90 substituted "space launch system" for "space shuttle" in section catchline and text.

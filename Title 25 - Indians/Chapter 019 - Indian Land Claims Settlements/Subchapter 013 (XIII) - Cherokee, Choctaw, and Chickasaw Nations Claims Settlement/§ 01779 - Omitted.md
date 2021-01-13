@@ -1,8 +1,12 @@
 ### §1779. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 107–331, title VI, §602, Dec. 13, 2002, 116 Stat. 2845, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

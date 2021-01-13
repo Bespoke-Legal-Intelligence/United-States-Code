@@ -8,7 +8,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(2) bona fide news interview,
 
-&emsp;(3) bona fide news documentary (if the appearance of the candidate is incidental to the presentation of the subject or subjects covered by the news documentary), or
+&emsp;(3) bona fide news documentary (if the appearance of the candidate is incidental to thepresentation of the subject or subjects covered by the news documentary), or
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
@@ -94,7 +94,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 &emsp;&emsp;(D) the class of time that is purchased;
 
-&emsp;&emsp;(E) the name of the candidate to which the communication refers and the office to which the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
+&emsp;&emsp;(E) the name of the candidate to which the communication refers and the office towhich the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
 
 &emsp;&emsp;(F) in the case of a request made by, or on behalf of, a candidate, the name of the candidate, the authorized committee of the candidate, and the treasurer of such committee; and
 
@@ -102,9 +102,11 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 #### (3) Time to maintain file
 
-&emsp;The information required under this subsection shall be placed in a political file assoon as possible and shall be retained by the licensee for a period of not less than 2 years.
+&emsp;The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
 
 (June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -131,6 +133,8 @@ Subsecs. (c) to (g). Pub. L. 92–225, §104(c), added subsecs. (c) to (f) and r
 <b>1959</b>—Subsec. (a). Pub. L. 86–274 provided that appearances by legally qualified candidates on bona fide newscasts, interviews and documentaries and on on-the-spot coverage of bona fide news events shall not be deemed to be use of a broadcasting station within the meaning of this subsection.
 
 <b>1952</b>—Act July 16, 1952, designated existing provisions as subsecs. (a) and (c) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -83,7 +83,7 @@
 | [18385\.](Subchapter%20007%20%28VII%29%20-%20Space%20Science/%C2%A7%2018385%20-%20On-going%20restoration%20of%20radioisotope%20thermoelectric%20generator%20material%20production.md) | On-going restoration of radioisotope thermoelectric generator material production. |
 | [18386\.](Subchapter%20007%20%28VII%29%20-%20Space%20Science/%C2%A7%2018386%20-%20Collaboration%20with%20ESMD%20and%20SOMD%20on%20robotic%20missions.md) | Collaboration with ESMD and SOMD on robotic missions. |
 | [18387\.](Subchapter%20007%20%28VII%29%20-%20Space%20Science/%C2%A7%2018387%20-%20Near-Earth%20object%20survey%20and%20policy%20with%20respect%20to%20threats%20posed.md) | Near-Earth object survey and policy with respect to threats posed. |
-| [18388\.](Subchapter%20007%20%28VII%29%20-%20Space%20Science/%C2%A7%2018388%20-%20Space%20weather.md) | Space weather. |
+| [18388\.](Subchapter%20007%20%28VII%29%20-%20Space%20Science/%C2%A7%2018388%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93181%2C%20%C2%A72%28c%29%282%29%2C%20Oct.%2021%2C%202020%2C%20134%20Stat.%20892.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Upon a written motion by an individual sentenced to imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the "applicant"), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
+In General.—Upon a written motion by an individual sentenced to imprisonment or death pursuant to a conviction for a Federal offense\(referred to in this section as the "applicant"), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
 
 &emsp;(1) The applicant asserts, under penalty of perjury, that the applicant is actually innocent of—
 
@@ -230,6 +230,8 @@ Not a motion under section 2255.—A motion under this section shall not be cons
 
 (Added Pub. L. 108–405, title IV, §411(a)(1), Oct. 30, 2004, 118 Stat. 2279; amended Pub. L. 114–324, §11(a), Dec. 16, 2016, 130 Stat. 1956.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Enactment of the Justice For All Act of 2004, referred to in subsec. (a)(10)(A), is the enactment of Pub. L. 108–405, which was approved Oct. 30, 2004.
@@ -253,6 +255,8 @@ Subsec. (e)(2). Pub. L. 114–324, §11(a)(4)(B), substituted "to NDIS" for "to 
 Subsec. (g)(2)(A). Pub. L. 114–324, §11(a)(1), substituted "sentenced to" for "under a sentence of".
 
 Subsec. (g)(2)(B). Pub. L. 114–324, §11(a)(5), struck out "death" after "during a Federal".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

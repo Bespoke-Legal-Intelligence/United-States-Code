@@ -116,7 +116,7 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 #### (1) In general
 
-&emsp;In approving applications under this section, the Secretary shall give special consideration to applications from institutions of higher education or consortia of such institutions for programs that show the greatest promise of success based on—
+&emsp;In approving applications under this section, the Secretary shall give special considerationto applications from institutions of higher education or consortia of such institutions for programs that show the greatest promise of success based on—
 
 &emsp;&emsp;(A) the extent to which programs in the academic discipline with respect to which the application is made have satisfactorily met the needs of public and private sector employers;
 

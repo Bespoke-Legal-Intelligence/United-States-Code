@@ -2,7 +2,7 @@
 
 #### (a) Premiums payable when due; accrual; waiver or reduction
 
-The designated payor of each plan shall pay the premiums imposed by the corporation under this subchapter with respect to that plan when they are due. Premiums under this subchapter are payable at the time, and on an estimated, advance, or other basis, as determined by the corporation. Premiums imposed by this subchapter on September 2, 1974 (applicable to that portion of any plan year during which such date occurs) are due within 30 days after such date. Premiums imposed by this subchapter on the first plan year commencing after September 2, 1974, are due within 30 days after such plan year commences. Premiums shall continue to accrue until a plan's assets are distributed pursuant toa termination procedure, or until a trustee is appointed pursuant to section 1342 of this title, whichever is earlier. The corporation may waive or reduce premiums for a multiemployer plan for any plan year during which such plan receives financial assistance from the corporation under section 1431 of this title, except that any amount so waived or reduced shall be treated as financial assistance under such section.
+The designated payor of each plan shall pay the premiums imposed by the corporation under this subchapter with respect to that plan when they are due. Premiums under this subchapter are payable at the time, and on an estimated, advance, or other basis, as determined by the corporation. Premiums imposed by this subchapter on September 2, 1974 (applicable to that portion of any plan year during which such date occurs) are due within 30 days after such date. Premiums imposed by this subchapter on the first plan year commencing after September 2, 1974, are due within 30 days after such plan year commences. Premiums shall continue to accrue until a plan's assets are distributed pursuant to a termination procedure, or until a trustee is appointed pursuant to section 1342 of this title, whichever is earlier. The corporation may waive or reduce premiums for a multiemployer plan for any plan year during which such plan receives financial assistance from the corporation under section 1431 of this title, except that any amount so waived or reduced shall be treated as financial assistance under such section.
 
 #### (b) Late payment charge; waiver; interest on overpayment
 
@@ -12,7 +12,7 @@ The designated payor of each plan shall pay the premiums imposed by the corporat
 
 #### (c) Civil action to recover premium penalty and interest
 
-If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for the recovery of the amount of the premium penalty, and interest, and process may be served in any other district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
+If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for therecovery of the amount of the premium penalty, and interest, and process may be served in any other district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
 
 #### (d) Basic benefits guarantee not stopped by designated payor's failure to pay premiums when due
 
@@ -30,6 +30,8 @@ The corporation shall not cease to guarantee basic benefits on account of the fa
 
 (Pub. L. 93–406, title IV, §4007, Sept. 2, 1974, 88 Stat. 1013; Pub. L. 96–364, title IV, §§402(a)(3), 403(b), Sept. 26, 1980, 94 Stat. 1298, 1300; Pub. L. 100–203, title IX, §9331(c), Dec. 22, 1987, 101 Stat. 1330–368; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title IV, §406(a), Aug. 17, 2006, 120 Stat. 929.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–280 designated existing provisions as par. (1) and added par. (2).
@@ -41,6 +43,8 @@ The corporation shall not cease to guarantee basic benefits on account of the fa
 Subsec. (e). Pub. L. 100–203, §9331(c)(2), added subsec. (e).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364 inserted provisions relating to waiver or reduction of premiums, and struck out provisions relating to payment of premiums under statutory requirements respecting contingent liability coverage.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

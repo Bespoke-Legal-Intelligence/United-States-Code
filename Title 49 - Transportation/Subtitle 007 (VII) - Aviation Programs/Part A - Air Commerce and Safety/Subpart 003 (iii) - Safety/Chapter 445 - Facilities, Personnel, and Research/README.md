@@ -20,10 +20,13 @@
 | [44516\.](%C2%A7%2044516%20-%20Human%20factors%20program.md) | Human factors program. |
 | [44517\.](%C2%A7%2044517%20-%20Program%20to%20permit%20cost%20sharing%20of%20air%20traffic%20modernization%20projects.md) | Program to permit cost sharing of air traffic modernization projects. |
 | [44518\.](%C2%A7%2044518%20-%20Advanced%20Materials%20Center%20of%20Excellence.md) | Advanced Materials Center of Excellence. |
+| [44519\.](%C2%A7%2044519%20-%20Certification%20personnel%20continuing%20education%20and%20training.md) | Certification personnel continuing education and training. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. V, title I, §112(b), Dec. 27, 2020, 134 Stat. 2332, added item 44519.
 
 <b>2018</b>—Pub. L. 115–254, div. B, title V, §524(b), title VII, §762(b), Oct. 5, 2018, 132 Stat. 3364, 3428, substituted "Regions and centers" for "Civil aeromedical research" in item 44507 and added item 44518.
 
@@ -54,3 +57,4 @@
 - [&sect; 44516 - Human factors program](%C2%A7%2044516%20-%20Human%20factors%20program.md)
 - [&sect; 44517 - Program to permit cost sharing of air traffic modernization projects](%C2%A7%2044517%20-%20Program%20to%20permit%20cost%20sharing%20of%20air%20traffic%20modernization%20projects.md)
 - [&sect; 44518 - Advanced Materials Center of Excellence](%C2%A7%2044518%20-%20Advanced%20Materials%20Center%20of%20Excellence.md)
+- [&sect; 44519 - Certification personnel continuing education and training](%C2%A7%2044519%20-%20Certification%20personnel%20continuing%20education%20and%20training.md)

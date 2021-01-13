@@ -4,6 +4,8 @@ Consuls and vice consuls shall have the right, in the ports or places to which t
 
 (R.S. §1707; June 25, 1948, ch. 646, §39, 62 Stat. 992.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1707 derived from act Apr. 14, 1792, ch. 24, §2, 1 Stat. 255.
@@ -15,6 +17,8 @@ Section was formerly classified to section 1173 of this title, and prior thereto
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, repealed second sentence relating to authenticated copies of consular acts received as evidence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

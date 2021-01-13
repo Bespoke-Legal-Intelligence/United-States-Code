@@ -16,13 +16,17 @@ Use.—(1) The database under subsection (a) shall be available to executive age
 
 (Added Pub. L. 112–239, div. A, title VIII, §851(a)(1), Jan. 2, 2013, 126 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (b)(2), is section 892 of Pub. L. 111–383, which was formerly set out as a note under section 2306a of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title X, §1073(f), Nov. 25, 2015, 129 Stat. 996.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Use of Elements of Department of Defense Pilot Project
 
-Pub. L. 112–239, div. A, title VIII, §851(b), Jan. 2, 2013, 126 Stat. 1855, provided that: "In establishing the database required by section 3312 of title 41, United States Code (as added by subsection (a)), the Administrator for Federal Procurement Policy shall use and incorporate appropriate elements of the pilot project on pricing being carried out by the Under Secretary of Defense forAcquisition, Technology, and Logistics pursuant to section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[Pub. L. 111–383\] (10 U.S.C. 2306a note) and the Better Buying Power initiative of the Secretary of Defense."
+Pub. L. 112–239, div. A, title VIII, §851(b), Jan. 2, 2013, 126 Stat. 1855, provided that: "In establishing the database required by section 3312 of title 41, United States Code (as added by subsection (a)), the Administrator for Federal Procurement Policy shall use and incorporate appropriate elements of the pilot project on pricing being carried out by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[Pub. L. 111–383\] (10 U.S.C. 2306a note) and the Better Buying Power initiative of the Secretary of Defense."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,6 +12,8 @@ This section is placed in part 1 since it relates to trade-mark cases in the Pat
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -19,6 +21,8 @@ Language is changed.
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

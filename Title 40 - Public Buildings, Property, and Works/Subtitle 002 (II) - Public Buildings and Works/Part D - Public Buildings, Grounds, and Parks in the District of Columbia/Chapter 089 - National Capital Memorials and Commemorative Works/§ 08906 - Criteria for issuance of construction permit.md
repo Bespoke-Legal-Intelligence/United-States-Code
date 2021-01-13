@@ -26,7 +26,7 @@ Donation for Perpetual Maintenance and Preservation.—
 
 (c)
 
-Suspension for Misrepresentation in Fundraising.—The Secretary of the Interior orAdministrator may suspend any activity under this chapter that relates to the establishment of a commemorative work if the Secretary or Administrator determines that fundraising efforts relating to the work have misrepresented an affiliation with the work or the Federal Government.
+Suspension for Misrepresentation in Fundraising.—The Secretary of the Interior or Administrator may suspend any activity under this chapter that relates to the establishment of a commemorative work if the Secretary or Administrator determines that fundraising efforts relating to the work have misrepresented an affiliation with the work or the Federal Government.
 
 (d)
 
@@ -74,6 +74,8 @@ In subsection (b)(1), the words "Notwithstanding any other provision of law" are
 
 In subsection (b)(2), the words "Congress authorizes and directs that" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Commemorative Works Clarification and Revision Act of 2003, referred to in subsec. (b)(2), (3), is the date of enactment of Pub. L. 108–126, which was approved on Nov. 17, 2003.
@@ -99,6 +101,8 @@ Inventory of available amounts.—The Secretary of the Interior and Administrato
 "(4)
 
 Nonapplicability.—This subsection does not apply when a department or agency of the Federal Government constructs the work and less than 50 percent of the funding for the work is provided by private sources."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

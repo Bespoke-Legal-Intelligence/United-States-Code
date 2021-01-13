@@ -48,7 +48,7 @@ Any department or agency of the United States may provide to the Office and any 
 
 #### (f) Procurement of temporary and intermittent services
 
-The Director may procure temporary and intermittent services under section 3109(b) of title 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
+The Director may procure temporary and intermittent services under section 3109(b) oftitle 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
 
 #### (g) Post-employment prohibitions
 
@@ -63,6 +63,8 @@ The Office, in consultation with the Chairperson, may appoint such special advis
 The Office, in consultation with the Chairperson, may establish and maintain an academic and professional fellowship program, under which qualified academics and professionals shall be invited to spend not longer than 2 years at the Office, to perform research and to provide advanced training for Office personnel.
 
 (Pub. L. 111–203, title I, §152, July 21, 2010, 124 Stat. 1413.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

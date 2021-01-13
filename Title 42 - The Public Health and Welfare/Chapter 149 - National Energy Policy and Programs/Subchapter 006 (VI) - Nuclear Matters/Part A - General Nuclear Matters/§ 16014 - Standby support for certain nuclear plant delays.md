@@ -128,7 +128,7 @@ For each advanced nuclear facility that is covered by a contract under this sect
 
 #### (2) Interim final rulemaking
 
-&emsp;Not later than 270 days after August 8, 2005, the Secretary shall issue for public commentan interim final rule regulating contracts authorized by this section.
+&emsp;Not later than 270 days after August 8, 2005, the Secretary shall issue for public comment an interim final rule regulating contracts authorized by this section.
 
 #### (3) Notice of final rulemaking
 

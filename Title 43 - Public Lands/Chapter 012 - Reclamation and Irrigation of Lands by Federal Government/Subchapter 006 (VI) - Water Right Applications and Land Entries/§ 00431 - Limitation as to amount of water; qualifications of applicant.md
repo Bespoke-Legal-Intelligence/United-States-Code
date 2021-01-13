@@ -1,8 +1,10 @@
 ### §431. Limitation as to amount of water; qualifications of applicant
 
-No right to the use of water for land in private ownership shall be sold for a tract exceeding one hundred and sixty acres to any one landowner,and no such sale shall be made to any landowner unless he be an actual bona fide resident on such land, or occupant thereof residing in the neighborhood of said land, and no such right shall permanently attach until all payments therefor are made.
+No right to the use of water for land in private ownership shall be sold for a tract exceeding one hundred and sixty acres to any one landowner, and no such sale shall be made to any landowner unless he be an actual bona fide resident on such land, or occupant thereof residing in the neighborhood of said land, and no such right shall permanently attach until all payments therefor are made.
 
 (June 17, 1902, ch. 1093, §5, 32 Stat. 389.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Imperial Irrigation District of California; Nonapplicability of Federal Reclamation Laws
 

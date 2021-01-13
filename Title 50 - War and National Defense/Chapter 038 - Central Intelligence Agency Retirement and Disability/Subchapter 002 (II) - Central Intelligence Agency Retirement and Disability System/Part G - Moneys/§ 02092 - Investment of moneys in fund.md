@@ -6,7 +6,7 @@ The Director may, with the approval of the Secretary of the Treasury, invest fro
 
 #### Prior Provisions
 
-A prior section 262 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to investment of moneys in the fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 262 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to investment of moneys inthe fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Effective Date
 

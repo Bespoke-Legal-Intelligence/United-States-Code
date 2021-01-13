@@ -4,11 +4,15 @@ If a participant in the program is discharged or released from active duty under
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1625; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3225, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1625 of this title as this section.
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

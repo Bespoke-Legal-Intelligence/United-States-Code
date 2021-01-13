@@ -22,7 +22,7 @@ There are hereby transferred to the Office all functions, powers, and duties of�
 
 &emsp;&emsp;(D) sections 302(a)(5)(A), 602(a)(5)(A), 705(a)(3)(A), 1202(a)(5)(A), 1352(a)(5)(A), 1382(a)(5)(A), and 1396a(a)(4)(A) of this title; and
 
-&emsp;(4) any other department, agency, office, or officer (other than the President) under anyother provision of law or regulation applicable to a program of grant-in-aid that specifically requires the establishment and maintenance of personnel standards on a merit basis with respect to the program;
+&emsp;(4) any other department, agency, office, or officer (other than the President) under any other provision of law or regulation applicable to a program of grant-in-aid that specifically requires the establishment and maintenance of personnel standards on a merit basis with respect to the program;
 
 > insofar as the functions, powers, and duties relate to the prescription of personnel standards on a merit basis.
 
@@ -82,7 +82,7 @@ Effective one year after October 13, 1978, all statutory personnel requirements 
 
 &emsp;(4) chapter 15 of title 5, relating to political activities of certain State and local employees.
 
-(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92 Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246,§4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 91–648, title II, §208, Jan. 5, 1971, 84 Stat. 1915; Pub. L. 95–454, §602(a)(2), (3), Oct. 13, 1978, 92 Stat. 1188, 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 110–234, title IV, §4002(b)(1)(C), (2)(CC), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(C), (2)(CC), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 

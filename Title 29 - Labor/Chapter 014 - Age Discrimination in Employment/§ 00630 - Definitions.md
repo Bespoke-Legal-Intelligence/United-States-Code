@@ -32,11 +32,13 @@ For the purposes of this chapter—
 
 (j) The term "firefighter" means an employee, the duties of whose position are primarily to perform work directly connected with the control and extinguishment of fires or the maintenance and use of firefighting apparatus and equipment, including an employee engaged in this activity who is transferred to a supervisory or administrative position.
 
-(k) The term "law enforcement officer" means an employee, the duties of whose position areprimarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, "detention" includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
+(k) The term "law enforcement officer" means an employee, the duties of whose position are primarily the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of a State, including an employee engaged in this activity who is transferred to a supervisory or administrative position. For the purpose of this subsection, "detention" includes the duties of employees assigned to guard individuals incarcerated in any penal institution.
 
 (l) The term "compensation, terms, conditions, or privileges of employment" encompasses all employee benefits, including such benefits provided pursuant to a bona fide employee benefit plan.
 
 (Pub. L. 90–202, §11, Dec. 15, 1967, 81 Stat. 605; Pub. L. 93–259, §28(a)(1)–(4), Apr. 8, 1974, 88 Stat. 74; Pub. L. 98–459, title VIII, §802(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–592, §4, Oct. 31, 1986, 100 Stat. 3343; Pub. L. 101–433, title I, §102, Oct. 16, 1990, 104 Stat. 978.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -64,6 +66,8 @@ Subsec. (c). Pub. L. 93–259, §28(a)(3), struck out text excluding from term "
 
 Subsec. (f). Pub. L. 93–259, §28(a)(4), excepted from the term "employee" elected public officials, persons chosen by such officials for such officials' personal staff, appointees on policymaking level, and immediate advisers with respect to exercise of constitutional or legal powers of the public office but excluded from such exemption employees subject to civil laws of a State government, governmental agency, or political subdivision.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–433 applicable only to any employee benefit established or modified on or after Oct. 16, 1990, and other conduct occurring more than 180 days after Oct. 16, 1990, except as otherwise provided, see section 105 of Pub. L. 101–433, set out as a note under section 623 of this title.
@@ -79,6 +83,8 @@ Amendment by Pub. L. 98–459 effective Oct. 9, 1984, see section 803(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–259 effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as a note under section 202 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -382,7 +382,7 @@ Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted "section 1223(6)" for "
 
 &emsp;"(D) neither spouse is ineligible for the benefits of subsection (a) with respect to such property by reason of paragraph (3)."
 
-Subsec. (c)(1). Pub. L. 105–206, §6005(e)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a) shall not apply and subsection (b)(3) shall not apply; but the amount of gain excluded from gross income under subsection (a) with respect to such sale or exchange shall not exceed—
+Subsec. (c)(1). Pub. L. 105–206, §6005(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of a sale or exchange to which this subsection applies, the ownership and use requirements of subsection (a) shall not apply and subsection (b)(3) shall not apply; but the amount of gain excluded from gross income under subsection (a) with respect to such sale or exchange shall not exceed—
 
 &emsp;"(A) the amount which bears the same ratio to the amount which would be so excluded under this section if such requirements had been met, as
 
@@ -426,7 +426,7 @@ Amendment by section 212(c) of Pub. L. 113–295 effective as if included in the
 
 Pub. L. 113–295, div. A, title II, §213(d), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendments made by this section \[amending this section and sections 125 and 877 of this title and provisions set out as a note under section 6511 of this title\] shall take effect as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008 \[Pub. L. 110–245\] to which they relate."
 
-Amendment by section 221(a)(20) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+Amendment by section 221(a)(20) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, seesection 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -460,7 +460,7 @@ Amendment by section 403(ee) of Pub. L. 109–135 effective as if included in th
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §840(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendment made by this section \[amending this section\] shall apply to salesor exchanges after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §840(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendment made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2003 Amendment
 
@@ -516,7 +516,7 @@ Binding contracts.—At the election of the taxpayer, the amendments made by thi
 
 &emsp;"(A) such sale or exchange is pursuant to a contract which was binding on such date, or
 
-&emsp;"(B) without regard to such amendments, gain would not be recognized under section 1034 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) on such sale or exchange by reason of a new residence acquired on or before such date or with respect to the acquisition of which by the taxpayer a binding contract was in effect on such date.
+&emsp;"(B) without regard to such amendments, gain would not be recognized under section 1034 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) on suchsale or exchange by reason of a new residence acquired on or before such date or with respect to the acquisition of which by the taxpayer a binding contract was in effect on such date.
 
 > This paragraph shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) of the Internal Revenue Code of 1986 applies to such individual."
 

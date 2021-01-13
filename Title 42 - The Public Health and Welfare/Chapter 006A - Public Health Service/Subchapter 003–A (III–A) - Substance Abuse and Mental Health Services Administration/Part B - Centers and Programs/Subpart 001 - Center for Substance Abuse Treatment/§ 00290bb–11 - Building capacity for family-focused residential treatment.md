@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Evaluation requirement
 
-&emsp;The Secretary shall require any evaluation of a family-focused residential treatment program by an eligible entity that uses funds awarded under this section for all or part of the costs of the evaluation be designed to assist in the determination of whether the program may qualify as a promising, supported,or well-supported practice in accordance with the requirements of such section 671(e)(4)(C).
+&emsp;The Secretary shall require any evaluation of a family-focused residential treatment program by an eligible entity that uses funds awarded under this section for all or part of the costs of the evaluation be designed to assist in the determination of whether the program may qualify as a promising, supported, or well-supported practice in accordance with the requirements of such section 671(e)(4)(C).
 
 #### (c) Authorization of appropriations
 
@@ -70,7 +70,7 @@ Guidance on Family-focused Residential Treatment Programs.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary, in consultation with divisions of the Department of Health and Human Services administering substance use disorder or child welfare programs, shall develop and issue guidance to States identifying opportunities to support family-focused residential treatment programs for the provision of substance use disorder treatment. Before issuing such guidance, the Secretary shall solicit input from representatives of States, health care providers with expertise in addiction medicine, obstetrics and gynecology, neonatology, child trauma, and child development, health plans, recipients of family-focused treatment services, and other relevant stakeholders.
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary, in consultation with divisions of the Department of Health and Human Services administering substance use disorder or child welfare programs, shall develop and issue guidance to States identifying opportunities to support family-focused residential treatment programs for the provision of substance use disorder treatment. Before issuing such guidance,the Secretary shall solicit input from representatives of States, health care providers with expertise in addiction medicine, obstetrics and gynecology, neonatology, child trauma, and child development, health plans, recipients of family-focused treatment services, and other relevant stakeholders.
 
 &emsp;"(2)
 

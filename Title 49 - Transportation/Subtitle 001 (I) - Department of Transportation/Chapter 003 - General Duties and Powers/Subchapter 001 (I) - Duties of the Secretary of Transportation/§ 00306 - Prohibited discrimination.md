@@ -6,7 +6,7 @@
 
 (c) When the Secretary of Transportation decides that a person receiving financial assistance under a law referred to in subsection (b) of this section has not complied with that subsection, a Federal civil rights law, or an order or regulation issued under a Federal civil rights law, the Secretary shall notify the person of the decision and require the person to take necessary action to ensure compliance with that subsection.
 
-(d) If a person does not comply with subsection (b) of this section within a reasonable time after receiving a notice under subsection (c) of this section, the Secretary shall take at least one of the following actions:
+(d) If a person does not comply with subsection (b) of this section within a reasonabletime after receiving a notice under subsection (c) of this section, the Secretary shall take at least one of the following actions:
 
 &emsp;(1) direct that no more Federal financial assistance be provided the person.
 

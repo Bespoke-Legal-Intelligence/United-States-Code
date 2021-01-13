@@ -32,6 +32,8 @@ Not later than 180 days after August 8, 2014, the President shall submit a strat
 
 (Pub. L. 113–150, title III, §302, Aug. 8, 2014, 128 Stat. 1822.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Authority Pursuant to Section 302(b) of the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014
 
 Memorandum of President of the United States, May 7, 2015, 80 F.R. 32849, provided:

@@ -12,7 +12,7 @@
 
 (5) If the Commission determines that a document marked as confidential by a manufacturer or private labeler to be barred from disclosure under paragraph (2) may be disclosed because it is not confidential information as provided in paragraph (2), the Commission shall notify such person in writing that the Commission intends to disclose such document at a date not less than 10 days after the date of receipt of notification.
 
-(6) Any person receiving such notification may, if he believes such disclosure is barred byparagraph (2), before the date set for release of the document, bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place or business, or in which the documents are located, or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documents shall not be disclosed until the court has ruled on the application for a stay.
+(6) Any person receiving such notification may, if he believes such disclosure is barred by paragraph (2), before the date set for release of the document, bring an action in the district court of the United States in the district inwhich the complainant resides, or has his principal place or business, or in which the documents are located, or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documents shall not be disclosed until the court has ruled on the application for a stay.
 
 (7) Nothing in this Act shall authorize the withholding of information by the Commission or any officer or employee under its control from the duly authorized committees or subcommittees of the Congress, and the provisions of paragraphs (2) through (6) shall not apply to such disclosures, except that the Commission shall immediately notify the manufacturer or private labeler of any such request for information designated as confidential by the manufacturer or private labeler.
 
@@ -90,7 +90,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 (5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
-(Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116; Pub. L. 110–314, title II, §§211, 235(c)(2), Aug. 14, 2008, 122 Stat. 3047, 3074.)
+(Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116; Pub. L. 110–314, title II, §§211, 235(c)(2), Aug. 14, 2008, 122 Stat. 3047, 3074.)
 
 #### References in Text
 
@@ -148,5 +148,5 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 #### Confidentiality Protections for Information Reported on Incidents of Children Choking
 
-For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part contained in a toy or game, to be treated as information submitted pursuant to section 2064(b) of this title, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
+For purposes of subsection (b)(5) of this section, information reported to Consumer Product Safety Commission on incidents of children choking on a marble, small ball, latex balloon, or other small part containedin a toy or game, to be treated as information submitted pursuant to section 2064(b) of this title, see section 102 of Pub. L. 103–267, set out as a Reporting Requirements note under section 2064 of this title.
 

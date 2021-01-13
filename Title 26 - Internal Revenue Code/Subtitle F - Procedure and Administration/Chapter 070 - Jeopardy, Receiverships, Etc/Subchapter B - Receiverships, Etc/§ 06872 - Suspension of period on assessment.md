@@ -12,5 +12,5 @@ If the regulations issued pursuant to section 6036 require the giving of notice 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 

@@ -1,0 +1,14 @@
+### §119. Contracting for statistical analyses and data evaluation
+
+(a)
+
+In General.—The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, as determined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.".<sup>1</sup>
+
+(b)
+
+Rule of Construction.—Nothing in this section may be construed to limit the authority of the Secretary to enter into contracts or other agreements for statistical analyses and data evaluation under any other provision of law.
+
+(Added Pub. L. 116–171, title III, §306(a), Oct. 17, 2020, 134 Stat. 805.)
+
+<i><sup>1</sup></i><i> So in original. The quotation marks and second period probably should not appear.</i>
+

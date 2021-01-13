@@ -102,7 +102,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 There are authorized to be appropriated such sums as may be necessary to implement this part, to remain available until expended.
 
-(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24,1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 106–469, title I, §104(2), Nov. 9, 2000, 114 Stat. 2033; Pub. L. 108–7, div. F, title III, §339(b)(1), Feb. 20, 2003, 117 Stat. 278.)
+(Pub. L. 94–163, title II, §256, as added Pub. L. 98–370, §2, July 18, 1984, 98 Stat. 1211; amended Pub. L. 101–218, §7, Dec. 11, 1989, 103 Stat. 1867; Pub. L. 102–486, title XII, §§1207, 1208, Oct. 24, 1992, 106 Stat. 2962, 2964; Pub. L. 104–306, §1(3), Oct. 14, 1996, 110 Stat. 3810; Pub. L. 106–469, title I, §104(2), Nov. 9, 2000, 114 Stat. 2033; Pub. L. 108–7, div. F, title III, §339(b)(1), Feb. 20, 2003, 117 Stat. 278.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 <b>2003</b>—Subsec. (h). Pub. L. 108–7 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle. There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part. There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary."
 
-<b>2000</b>—Subsec. (h). Pub. L. 106–469 inserted at end "There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary."
+<b>2000</b>—Subsec. (h). Pub. L. 106–469 inserted at end "There are authorized to be appropriated for fiscalyears 2000 through 2003, such sums as may be necessary."
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–306 inserted at end "There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part."
 

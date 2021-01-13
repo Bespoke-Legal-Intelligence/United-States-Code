@@ -44,7 +44,7 @@ For the purposes of this chapter—
 
 (2) The test methods found by the Commission to be generally applicable for defining the flammability or combustibility characteristics of any such substance shall also be specified in such regulations.
 
-(3) In establishing definitions and test methods related to flammability and combustibility,the Commission shall consider the existing definitions and test methods of other Federal agencies involved in the regulation of flammable and combustible substances in storage, transportation and use; and to the extent possible, shall establish compatible definitions and test methods.
+(3) In establishing definitions and test methods related to flammability and combustibility, the Commission shall consider the existing definitions and test methods of other Federal agencies involved in the regulation of flammable and combustible substances in storage, transportation and use; and to the extent possible, shall establish compatible definitions and test methods.
 
 (4) Until such time as the Commission issues a regulation under paragraph (1) defining the term "combustible" as applied to liquids, such term shall apply to any liquid which has a flash point above eighty degrees Fahrenheit to and including one hundred and fifty degrees, as determined by the Tagliabue Open Cup Tester.
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, §204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978,92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, §204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 #### References in Text
 
@@ -136,7 +136,7 @@ Pub. L. 99–339, title I, §109(d)(3), June 19, 1986, 100 Stat. 653, provided t
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for the implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of title 7, and regulations thereunder, relating to the control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as a note under section 136 of Title 7, Agriculture.
+Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for the implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of title 7, and regulations thereunder, relating to the control of economic poisons, asin existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as a note under section 136 of Title 7, Agriculture.
 
 #### Effective Date of 1970 Amendment
 
@@ -184,7 +184,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Effect Upon Federal and State Law
 
-Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, §204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
+Pub. L. 86–613, §18, formerly §17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, §4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, §4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, §17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, §204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
 
 "(a) Nothing in this act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall be construed to modify or affect the provisions of the Flammable Fabrics Act, as amended (15 U.S.C. 1191 to 1200) \[sections 1191 to 1204 of this title\], or any regulations promulgated thereunder; or of chapter 39, title 18, United States Code, as amended (18 U.S.C. 831 et seq.), or any regulations promulgated thereunder or under sections 204(a)(2) and 204(a)(3) of the Interstate Commerce Act, as amended \[section 31502 of Title 49, Transportation\] (relating to the transportation of dangerous substances and explosives by surface carriers); or of section 1716, title 18, United States Code, or any regulations promulgated thereunder (relating to mailing of dangerous substances); or of section 902 \[section 1472 of former Title 49\] or regulations promulgated under section 601 of the Federal Aviation Act of 1958 \[section 1421 of former Title 49\] (relating to transportation of dangerous substances and explosives in aircraft); or of the Federal Food, Drug, and Cosmetic Act \[chapter 9 of Title 21, Food and Drugs\]; or of the Public Health Service Act \[chapter 6A of Title 42, The Public Health and Welfare\]; or of the Federal Insecticide, Fungicide, and Rodenticide Act \[section 136 et seq. of Title 7, Agriculture\]; or of the Dangerous Drug Act for the District of Columbia (70 Stat. 612), or the Act entitled 'An Act to regulate the practice of pharmacy and the sale of poisons in the District of Columbia, and for other purposes', approved May 7, 1906 (34 Stat. 175), as amended; or of any other Act of Congress, except as specified in section 19 \[set out as a note under sections 401 to 411 of this title\].
 

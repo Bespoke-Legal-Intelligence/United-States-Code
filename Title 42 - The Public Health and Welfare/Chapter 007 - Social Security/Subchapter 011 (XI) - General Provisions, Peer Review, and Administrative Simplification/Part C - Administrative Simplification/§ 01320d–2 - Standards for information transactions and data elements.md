@@ -176,7 +176,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;(C) determine whether such operating rules represent a consensus view of the health care stakeholders and are consistent with and do not conflict with other existing standards;
 
-&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standardsadopted for health information technology; and
+&emsp;&emsp;(D) evaluate whether such operating rules are consistent with electronic standards adopted for health information technology; and
 
 &emsp;&emsp;(E) submit to the Secretary a recommendation as to whether the Secretary should adopt such operating rules.
 
@@ -314,7 +314,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 &emsp;&emsp;&emsp;(i) the standards and associated operating rules described under paragraph (1) of such subsection; and
 
-&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operatingrules (as described under subsection (i)(5)) for any other financial and administrative transactions.
+&emsp;&emsp;&emsp;(ii) a standard (as described under subsection (a)(1)(B)) and associated operating rules (as described under subsection (i)(5)) for any other financial and administrative transactions.
 
 #### (B) Fee amount
 
@@ -398,13 +398,17 @@ Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
 
 Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
 
+#### Guidance on Protected Health Information
+
+Pub. L. 116–136, div. A, title III, §3224, Mar. 27, 2020, 134 Stat. 380, provided that: "Not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\], the Secretary of Health and Human Services shall issue guidance on the sharing of patients' protected health information pursuant to section 160.103 of title 45, Code of Federal Regulations (or any successor regulations) during the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) with respect to COVID–19, during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to COVID–19, and during the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to COVID–19. Such guidance shall include information on compliance with the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and applicable policies, including such policies that may come into effect during such emergencies."
+
 #### Making T–MSIS Data on Substance Use Disorders Available to Researchers
 
 Pub. L. 115–271, title I, §1015(b), Oct. 24, 2018, 132 Stat. 3922, provided that:
 
 "(1)
 
-In general.—The Secretary \[probably means the Secretary of Health and Human Services\] shall publish in the Federal Register a system of records notice for the data specified in paragraph (2) for the Transformed Medicaid Statistical Information System, in accordance with section 552a(e)(4) of title 5, United States Code. The notice shall outline policies that protect the security and privacy of the data that, at a minimum, meet the security and privacy policies of SORN 09–70–0541 for the Medicaid Statistical Information System.
+In general.—The Secretary \[probably means the Secretary of Health and Human Services\] shall publish in the Federal Register a system of records notice for the data specified in paragraph (2) for the Transformed Medicaid Statistical Information System, in accordance with section 552a(e)(4) of title 5, United States Code. The notice shall outline policies that protect the security and privacy of the data that, at a minimum,meet the security and privacy policies of SORN 09–70–0541 for the Medicaid Statistical Information System.
 
 "(2)
 
@@ -606,7 +610,7 @@ Coordination.—The Secretary shall carry out this section in coordination with 
 
 "(d)
 
-Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under subsections (a) and (b), the Secretary shall solicit the input of relevant national, State, and local associations; medical societies; licensing boards; providers of mental and substance use disorder treatment; organizations with expertise on domestic violence, sexual assault, elder abuse, and child abuse; and organizationsrepresenting patients and consumers and the families of patients and consumers.
+Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under subsections (a) and (b), the Secretary shall solicit the input of relevant national, State, and local associations; medical societies; licensing boards; providers of mental and substance use disorder treatment; organizations with expertise on domestic violence, sexual assault, elder abuse, and child abuse; and organizations representing patients and consumers and the families of patients and consumers.
 
 "(e)
 
@@ -748,7 +752,7 @@ Sec. 3. <i>Implementation.</i>
 
 (d) On an annual basis, the Department of Justice, in consultation with the Department of Health and Human Services, shall provide to the President of the United States a report that includes the following information:
 
-(i) the number of requests made to the Deputy Attorney General for authorization to use protected healthinformation discovered during health oversight activities in a non-health oversight, unrelated investigation;
+(i) the number of requests made to the Deputy Attorney General for authorization to use protected health information discovered during health oversight activities in a non-health oversight, unrelated investigation;
 
 (ii) the number of requests that were granted as applied for, granted as modified, or denied;
 

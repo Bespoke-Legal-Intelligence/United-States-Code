@@ -24,7 +24,7 @@ the structure and operation of international control and other organizations use
 
 #### (f) Training of control system personnel
 
-the training of scientists, technicians, and other personnel for manning the control systems which may be created by internationalarms control, nonproliferation, and disarmament agreements;
+the training of scientists, technicians, and other personnel for manning the control systems which may be created by international arms control, nonproliferation, and disarmament agreements;
 
 #### (g) Danger of war from accident, miscalculation, or surprise attack
 
@@ -48,13 +48,15 @@ methods for the maintenance of peace and security during different stages of arm
 
 #### (l) War prevention factors
 
-the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basic structure of a lasting peace may be established; and
+the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basicstructure of a lasting peace may be established; and
 
 #### (m) Other related problems
 
 such related problems as the Secretary of State may determine to be in need of research, development, or study in order to carry out the provisions of this chapter.
 
 (Pub. L. 87–297, title III, §301, formerly §31, Sept. 26, 1961, 75 Stat. 633; Pub. L. 88–186, §5, Nov. 26, 1963, 77 Stat. 342; Pub. L. 95–108, §3, Aug. 17, 1977, 91 Stat. 871; Pub. L. 97–339, §4, Oct. 15, 1982, 96 Stat. 1636; Pub. L. 103–236, title VII, §719(c), Apr. 30, 1994, 108 Stat. 501; renumbered §301 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(6), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -71,6 +73,8 @@ Subsec. (m). Pub. L. 105–277, §1223(6)(B), substituted "Secretary of State" f
 <b>1977</b>—Pub. L. 95–108 struck out "United States" before "private" in cl. (2) of opening par.
 
 <b>1963</b>—Pub. L. 88–186 inserted "United States" before "private" in cl. (2) of opening par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

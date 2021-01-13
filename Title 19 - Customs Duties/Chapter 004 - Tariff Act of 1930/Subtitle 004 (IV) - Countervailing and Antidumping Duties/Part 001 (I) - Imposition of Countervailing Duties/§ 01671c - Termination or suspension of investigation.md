@@ -136,13 +136,13 @@ Before an investigation may be suspended under subsection (b) or (c) the adminis
 
 &emsp;&emsp;&emsp;(i) notwithstanding the affirmative preliminary determination required under paragraph (1)(A), the liquidation of entries of subject merchandise shall not be suspended under section 1671b(d)(2) of this title,
 
-&emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to aprevious affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
+&emsp;&emsp;&emsp;(ii) if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case with respect to such merchandise, that suspension of liquidation shall terminate, and
 
 &emsp;&emsp;&emsp;(iii) the administering authority shall refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title.
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c), then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c), then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determinationin the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 
@@ -272,7 +272,7 @@ Subsec. (g)(1). Pub. L. 103–465, §270(a)(1)(E), substituted "countervailable 
 
 Subsec. (h)(2). Pub. L. 103–465, §233(a)(5)(L), substituted "subject merchandise" for "merchandise which is the subject of the investigation".
 
-Subsec. (h)(3). Pub. L. 103–465, §§233(a)(5)(L), 264(c)(5), in introductory provisions, substituted "subject merchandise" for "merchandise which is the subject of the investigation", in subpar. (A), substituted "1671b(d)(2)" for "1671b(d)(1)", and in subpar. (B), substituted "1671b(d)(1)(B)" for "1671b(d)(2)".
+Subsec. (h)(3). Pub. L. 103–465, §§233(a)(5)(L), 264(c)(5), in introductory provisions, substituted "subject merchandise" for "merchandise which is the subject of theinvestigation", in subpar. (A), substituted "1671b(d)(2)" for "1671b(d)(1)", and in subpar. (B), substituted "1671b(d)(1)(B)" for "1671b(d)(2)".
 
 Subsec. (i)(1)(A). Pub. L. 103–465, §264(c)(6), substituted "1671b(d)(2)" for "1671b(d)(1)" in introductory provisions.
 

@@ -10,9 +10,13 @@
 
 The section is supplied for convenience. The "excepted service" has come to mean all employees not in the competitive service, for whatever reason.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454 inserted reference to Senior Executive Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available to carry out this section, the Attorney General may make grants to States to study and to improve the collection of data with respect to individuals whose parole or post-incarceration supervision is revoked, and which such individuals represent the greatest risk to victims and community safety.
+From amounts made available to carry out this section, the Attorney General may make grants to States to study and to improve the collection of data with respect to individualswhose parole or post-incarceration supervision is revoked, and which such individuals represent the greatest risk to victims and community safety.
 
 #### (b) Application
 
@@ -25,6 +25,8 @@ As a condition of receiving a grant under this section, a State shall—
 Any statistical analysis of population data under this section shall be conducted in accordance with the Federal Register Notice dated October 30, 1997, relating to classification standards.
 
 (Pub. L. 110–199, title II, §242, Apr. 9, 2008, 122 Stat. 690.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

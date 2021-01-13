@@ -8,6 +8,7 @@
 - [&sect; 04701 - Findings and purposes](%C2%A7%2004701%20-%20Findings%20and%20purposes.md)
 - [&sect; 04702 - Definitions](%C2%A7%2004702%20-%20Definitions.md)
 - [&sect; 04703 - Establishment of national Fund for community development banking](%C2%A7%2004703%20-%20Establishment%20of%20national%20Fund%20for%20community%20development%20banking.md)
+- [&sect; 04703a - Capital investments for neighborhoods disproportionately impacted by the COVID&#8211;19 pandemic](%C2%A7%2004703a%20-%20Capital%20investments%20for%20neighborhoods%20disproportionately%20impacted%20by%20the%20COVID%E2%80%9319%20pandemic.md)
 - [&sect; 04704 - Applications for assistance](%C2%A7%2004704%20-%20Applications%20for%20assistance.md)
 - [&sect; 04705 - Community partnerships](%C2%A7%2004705%20-%20Community%20partnerships.md)
 - [&sect; 04706 - Selection of institutions](%C2%A7%2004706%20-%20Selection%20of%20institutions.md)

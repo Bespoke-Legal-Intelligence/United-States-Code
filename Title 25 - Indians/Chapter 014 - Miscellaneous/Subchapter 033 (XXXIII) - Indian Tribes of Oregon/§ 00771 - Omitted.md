@@ -1,5 +1,7 @@
 ### §771. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 30, 1954, ch. 1085, §1, 68 Stat. 979, which related to enrollment of descendants and determination of eligibility, was omitted from the Code as being of special and not general application.

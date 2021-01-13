@@ -2,7 +2,7 @@
 
 (a)
 
-Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
+Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) ifthe Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
 &emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 <sup>1</sup> of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
 
@@ -16,7 +16,7 @@ Denial of Funds for Preventing Military Recruiting on Campus.—No funds describ
 
 &emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
-&emsp;&emsp;(A) Names, addresses, and telephone listings.
+&emsp;&emsp;(A) Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
 
 &emsp;&emsp;(B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
@@ -54,7 +54,7 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 &emsp;(2) shall publish in the Federal Register a notice of the determination and the effect of the determination on the eligibility of the institution of higher education (and any subelement of that institution) for contracts and grants.
 
-(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952.)
+(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, §521(b), Jan. 1, 2021, 134 Stat. 3597.)
 
 #### References in Text
 
@@ -65,6 +65,8 @@ Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L
 Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under section 503 of this title, prior to repeal by Pub. L. 106–65, §549(b).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(A). Pub. L. 116–283 substituted "electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings" for "and telephone listings".
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §1076(f)(10), substituted "or the Secretary" for "or Secretary".
 

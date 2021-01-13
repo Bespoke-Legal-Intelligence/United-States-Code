@@ -16,6 +16,8 @@ If 2 or more flood control projects are located within the same geographic area,
 
 (Pub. L. 113–121, title III, §3012, June 10, 2014, 128 Stat. 1284.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

@@ -18,6 +18,8 @@ Definition.—For purposes of this section—
 
 (Added Pub. L. 109–162, title I, §115, Jan. 5, 2006, 119 Stat. 2988; amended Pub. L. 113–4, title IX, §906(c), Mar. 7, 2013, 127 Stat. 125.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b)(1)(B). Pub. L. 113–4 inserted "or tribal" after "State".

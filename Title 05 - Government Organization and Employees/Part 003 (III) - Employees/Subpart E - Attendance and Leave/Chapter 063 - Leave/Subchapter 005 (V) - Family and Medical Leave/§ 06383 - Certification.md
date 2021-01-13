@@ -30,11 +30,15 @@
 
 (Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 21; amended Pub. L. 110–181, div. A, title V, §585(b)(3)(D), Jan. 28, 2008, 122 Stat. 132; Pub. L. 111–84, div. A, title V, §565(b)(1)(C), Oct. 28, 2009, 123 Stat. 2311.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "paragraph (1)(E) or (3) of section 6382(a)" for "section 6382(a)(3)".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

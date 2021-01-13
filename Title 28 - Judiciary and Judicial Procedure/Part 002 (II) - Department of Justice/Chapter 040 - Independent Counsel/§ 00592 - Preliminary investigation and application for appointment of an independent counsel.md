@@ -30,7 +30,7 @@ Notification of division of the court.—If the Attorney General, upon completio
 
 &emsp;(2)
 
-Form of notification.—Such notification shall contain a summary of the informationreceived and a summary of the results of the preliminary investigation.
+Form of notification.—Such notification shall contain a summary of the information received and a summary of the results of the preliminary investigation.
 
 (c)
 
@@ -88,6 +88,8 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1868; amended Pub. L. 97–409, §§2(a)(1), 4(b)–(e), Jan. 3, 1983, 96 Stat. 2039–2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1295; Pub. L. 103–270, §3(l), June 30, 1994, 108 Stat. 736.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–270 inserted "or as is deemed necessary for law enforcement purposes" after "Except as otherwise provided in this chapter".
@@ -98,7 +100,7 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted "that there are no reasonable grounds to believe that further investigation or prosecution is warranted" for "that the matter is so unsubstantiated that no further investigation or prosecution is warranted" and substituted "independent counsel" for "special prosecutor".
 
-Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted "finds reasonable grounds to believe that further investigation or prosecution is warranted" for "finds the matter warrants further investigation or prosecution" after "preliminary investigation", "that there are no reasonable grounds to believe that further investigation or prosecution is warranted" for "that the matter is so unsubstantiated as not to warrant further investigation or prosecution", and "independent counsel" for "special prosecutor", and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
+Subsec. (c)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(d), substituted "finds reasonable grounds to believe that further investigation or prosecution is warranted" for "finds the matter warrants further investigation or prosecution" after "preliminary investigation", "that there are no reasonable grounds to believe that further investigation or prosecution is warranted" for "thatthe matter is so unsubstantiated as not to warrant further investigation or prosecution", and "independent counsel" for "special prosecutor", and inserted provision that in determining whether reasonable grounds exist to warrant further investigation or prosecution, the Attorney General shall comply with written or other established policies of the Department of Justice with respect to the enforcement of criminal laws.
 
 Subsec. (c)(2). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" in provisions following subpar. (B).
 
@@ -107,6 +109,8 @@ Subsec. (c)(2)(A). Pub. L. 97–409, §4(e)(1), substituted "information suffici
 Subsec. (c)(2)(B). Pub. L. 97–409, §4(e)(2), substituted "reasonable grounds exist to warrant" for "such information warrants" after "appropriate, that".
 
 Subsecs. (d)(1), (e), (f). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

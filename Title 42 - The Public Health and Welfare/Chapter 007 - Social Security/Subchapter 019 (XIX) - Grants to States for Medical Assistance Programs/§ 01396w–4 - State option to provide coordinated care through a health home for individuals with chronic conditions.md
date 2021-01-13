@@ -26,7 +26,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (B) Alternate models of payment
 
-&emsp;&emsp;The methodology for determining payment for provision of health home services underthis section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
+&emsp;&emsp;The methodology for determining payment for provision of health home services under this section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment.
 
 #### (3) Planning grants
 
@@ -62,7 +62,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (C) Best practices
 
-&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on the internet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
+&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on theinternet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
 
 #### (D) Definitions
 
@@ -206,7 +206,7 @@ Pub. L. 111–148, title II, §2703(b)(2), Mar. 23, 2010, 124 Stat. 322, provide
 
 "(A)
 
-In general.—Not later than January 1, 2014, the Secretary of Health and Human Services shall surveyStates that have elected the option under section 1945 of the Social Security Act \[42 U.S.C. 1396w–4\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
+In general.—Not later than January 1, 2014, the Secretary of Health and Human Services shall survey States that have elected the option under section 1945 of the Social Security Act \[42 U.S.C. 1396w–4\] (as added by subsection (a)) and report to Congress on the nature, extent, and use of such option, particularly as it pertains to—
 
 &emsp;"(i) hospital admission rates;
 

@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commerciallending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
+&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
 
 #### (B) Coordination of examinations
 
@@ -34,7 +34,7 @@
 
 #### (C) On-site examination
 
-&emsp;&emsp;Each Federal branch or agency, and each State branch or agency, of a foreign bank shall be subject to on-site examination by an appropriate Federal banking agency or State bank supervisor as frequently as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.
+&emsp;&emsp;Each Federal branch or agency, and each State branch or agency, of a foreign bank shall be subject to on-site examination by anappropriate Federal banking agency or State bank supervisor as frequently as would a national bank or a State bank, respectively, by the appropriate Federal banking agency.
 
 #### (D) Cost of examinations
 
@@ -96,7 +96,7 @@
 
 #### (C) Additional conditions
 
-&emsp;&emsp;In approving an application under this paragraph, the Board, after requesting and taking into consideration the views of the appropriate State bank supervisor or the Comptroller of the Currency, as the case may be, may impose such conditions or restrictions relating to the activities or business operations of the proposed branch, agency, or commercial lending company subsidiary, including restrictions on sources of funding, as are considered appropriate. The Board shall coordinate with the appropriate State bank supervisor or the Comptroller of the Currency, as appropriate, in the implementation of such conditions or restrictions.
+&emsp;&emsp;In approving an application under this paragraph, the Board, after requesting and taking into consideration the views of the appropriate State bank supervisor or the Comptroller of the Currency, as the case may be, may impose such conditions or restrictions relating to the activities or business operations of the proposed branch,agency, or commercial lending company subsidiary, including restrictions on sources of funding, as are considered appropriate. The Board shall coordinate with the appropriate State bank supervisor or the Comptroller of the Currency, as appropriate, in the implementation of such conditions or restrictions.
 
 #### (D) Modification of conditions
 
@@ -144,7 +144,7 @@
 
 #### (4) Compliance with State and Federal law
 
-&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries inthe United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
+&emsp;Any foreign bank required to terminate activities conducted at offices or subsidiaries in the United States pursuant to this subsection shall comply with the requirements of applicable Federal and State law with respect to procedures for the closure or dissolution of such offices or subsidiaries.
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
@@ -232,7 +232,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term "insured branch" has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term "insured branch" has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 
@@ -244,7 +244,7 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 
 &emsp;(1) analyzing the capital standards contained in the framework for measurement of capital adequacy established by the Supervisory Committee of the Bank for International Settlements, foreign regulatory capital standards that apply to foreign banks conducting banking operations in the United States, and the relationship of the Basle and foreign standards to risk-based capital and leverage requirements for United States banks; and
 
-&emsp;(2) establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leverage requirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under this section and sections 3 and 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1842, 1843\].
+&emsp;(2) establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leveragerequirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under this section and sections 3 and 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1842, 1843\].
 
 > An update shall be prepared annually explaining any changes in the analysis under paragraph (1) and resulting changes in the guidelines pursuant to paragraph (2).
 
@@ -263,6 +263,8 @@ Not later than 180 days after December 19, 1991, the Board and the Secretary of 
 &emsp;&emsp;(B) shall be uniform, to the extent practicable.
 
 (Pub. L. 95–369, §7, Sept. 17, 1978, 92 Stat. 620; Pub. L. 102–242, title II, §§202(a), 203(a), 214(b), Dec. 19, 1991, 105 Stat. 2286, 2291, 2304; Pub. L. 102–550, title XV, §1507, title XVI, §1604(a)(1), (2), (12), (13), Oct. 28, 1992, 106 Stat. 4056, 4081–4083; Pub. L. 103–328, title I, §107(e)(1), Sept. 29, 1994, 108 Stat. 2360; Pub. L. 104–208, div. A, title II, §2214, Sept. 30, 1996, 110 Stat. 3009–411; Pub. L. 111–203, title I, §173(a), (b), July 21, 2010, 124 Stat. 1440.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -312,7 +314,7 @@ Subsec. (e)(1)(A). Pub. L. 104–208, §2214(c), designated existing provisions 
 
 &emsp;"(ii) the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> or a refusal by such office or subsidiary" for "against which the Board or, in the case of an order issued undersection 3102(i) of this title, the Comptroller of the Currency has issued an order under paragraph (1) or a refusal by such office or subsidiary".
+> or a refusal by such office or subsidiary" for "against which the Board or, in the case of an order issued under section 3102(i) of this title, the Comptroller of the Currency has issued an order under paragraph (1) or a refusal by such office or subsidiary".
 
 Subsec. (e)(6)(B). Pub. L. 102–550, §1604(a)(1)(B), substituted "order referred to in subparagraph (A)" for "order issued under paragraph (1)".
 
@@ -326,9 +328,11 @@ Subsec. (j)(1). Pub. L. 102–550, §1604(a)(13), substituted "Supervisory Commi
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–242, §203(a), added par. (1), inserted heading for par. (2), and struck out former par. (1) which read as follows: "The Board may make examinations of each branch or agency of a foreign bank, and of each commercial lending company or bank controlled by one or more foreign banks or by one or more foreign companies that control a foreign bank, the cost of which shall be assessed against and paid by such foreign bank or company, as the case may be. The Board shall, insofar as possible, use the reports of examinations made by the Comptroller, the Federal Deposit Insurance Corporation, or the appropriate State bank supervisory authority for the purposes of this subsection."
 
-Subsecs. (d) to (h). Pub. L. 102–242, §202(a), added subsecs. (d) to (h) and struck out former subsec. (d) which read as follows: "On or before two years after September 17, 1978, the Board after consultation with the appropriate State bank supervisory authorities shall report to the Committee on Banking, Finance and Urban Affairs of the United States House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the United States Senate its recommendations with respect to the implementation of this chapter, including any recommended requirements such as limitations on loans to affiliates or capital adequacy requirements which should be imposed on foreign banks to carry out the purposes of this chapter. Not later than one hundred and eighty days after September 17, 1978, the Board shall report to such Committees the steps which have been taken to consult and cooperate with State bank supervisory authorities as required by subsection (a)(1)(B) of this section."
+Subsecs. (d) to (h). Pub. L. 102–242, §202(a), added subsecs. (d) to (h) and struck out former subsec. (d) whichread as follows: "On or before two years after September 17, 1978, the Board after consultation with the appropriate State bank supervisory authorities shall report to the Committee on Banking, Finance and Urban Affairs of the United States House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the United States Senate its recommendations with respect to the implementation of this chapter, including any recommended requirements such as limitations on loans to affiliates or capital adequacy requirements which should be imposed on foreign banks to carry out the purposes of this chapter. Not later than one hundred and eighty days after September 17, 1978, the Board shall report to such Committees the steps which have been taken to consult and cooperate with State bank supervisory authorities as required by subsection (a)(1)(B) of this section."
 
 Subsec. (j). Pub. L. 102–242, §214(b), as amended by Pub. L. 102–550, §1604(a)(12), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

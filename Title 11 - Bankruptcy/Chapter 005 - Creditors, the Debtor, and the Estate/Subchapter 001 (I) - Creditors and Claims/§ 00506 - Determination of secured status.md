@@ -1,6 +1,6 @@
 ### §506. Determination of secured status
 
-(a)(1) An allowed claim of a creditor secured by a lien on property in which the estate has aninterest, or that is subject to setoff under section 553 of this title, is a secured claim to the extent of the value of such creditor's interest in the estate's interest in such property, or to the extent of the amount subject to setoff, as the case may be, and is an unsecured claim to the extent that the value of such creditor's interest or the amount so subject to setoff is less than the amount of such allowed claim. Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor's interest.
+(a)(1) An allowed claim of a creditor secured by a lien on property in which the estate has an interest, or that is subject to setoff under section 553 of this title, is a secured claim to the extent of the value of such creditor's interest in the estate's interest in such property, or to the extent of the amount subject to setoff, as the case may be, and is an unsecured claim to the extent that the value of such creditor's interest or the amount so subject to setoff is less than the amount of such allowed claim. Such value shall be determined in light of the purpose of the valuation and of the proposed disposition or use of such property, and in conjunction with any hearing on such disposition or use or on a plan affecting such creditor's interest.
 
 (2) If the debtor is an individual in a case under chapter 7 or 13, such value with respect to personal property securing an allowed claim shall be determined based on the replacement value of such property as of the date of the filing of the petition without deduction for costs of sale or marketing. With respect to property acquired for personal, family, or household purposes, replacement value shall mean the price a retail merchant would charge for property of that kind considering the age and condition of the property at the time value is determined.
 
@@ -26,7 +26,7 @@ Section 506(b) of the House amendment adopts language contained in the Senate am
 
 Section 506(c) of the House amendment was contained in H.R. 8200 as passed by the House and adopted, verbatim, in the Senate amendment. Any time the trustee or debtor in possession expends money to provide for the reasonable and necessary cost and expenses of preserving or disposing of a secured creditor's collateral, the trustee or debtor in possession is entitled to recover such expenses from the secured party or from the property securing an allowed secured claim held by such party.
 
-Section 506(d) of the House amendment is derived from H.R. 8200 as passed by the House and is adopted in lieu of the alternative test provided in section 506(d) of the Senate amendment. For purposes of section 506(d) of the House amendment, the debtor is a party in interest.
+Section 506(d) of the House amendment is derived from H.R. 8200 as passed by the House and is adopted in lieu of the alternative test provided in section 506(d) of the Senate amendment. For purposes of section 506(d)of the House amendment, the debtor is a party in interest.
 
 Determination of Secured Status: The House amendment deletes section 506(d)(3) of the Senate amendment, which insures that a tax lien securing a nondischargeable tax claim is not voided because a tax authority with notice or knowledge of the bankruptcy case fails to file a claim for the liability (as it may elect not to do, if it is clear there are insufficient assets to pay the liability). Since the House amendment retains section 506(d) of the House bill that a lien is not voided unless a party in interest has requested that the court determine and allow or disallow the claim, provision of the Senate amendment is not necessary.
 
@@ -44,6 +44,8 @@ Subsection (d) provides that to the extent a secured claim is not allowed, its l
 
 Subsection (d) permits liens to pass through the bankruptcy case unaffected. However, if a party in interest requests the court to determine and allow or disallow the claim secured by the lien under section 502 and the claim is not allowed, then the lien is void to the extent that the claim is not allowed. The voiding provision does not apply to claims disallowed only under section 502(e), which requires disallowance of certain claims against the debtor by a codebtor, surety, or guarantor for contribution or reimbursement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §327, designated existing provisions as par. (1) and added par. (2).
@@ -57,6 +59,8 @@ Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted ", including the payment of
 Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted "such claim was disallowed only under section 502(b)(5) or 502(e) of this title" for "a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title".
 
 Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted "such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title" for "such claim was disallowed only under section 502(e) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

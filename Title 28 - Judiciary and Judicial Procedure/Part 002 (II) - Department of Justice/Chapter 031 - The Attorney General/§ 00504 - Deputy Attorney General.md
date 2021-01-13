@@ -24,6 +24,8 @@ Mar. 3, 1903, ch. 1006, §1 (so much of 2d par. under "Department of Justice" as
 
 The words "may appoint" are substituted for "is authorized to appoint". So much of the Act of Mar. 3, 1903, as relates to pay is omitted as superseded by §303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, §11(b), 73 Stat. 9, related to tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
@@ -33,6 +35,8 @@ A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, P
 <b>2002</b>—Pub. L. 107–273 repealed Pub. L. 107–77, §612(c). See 2001 Amendment note below.
 
 <b>2001</b>—Pub. L. 107–77, §612(c), which directed amendment of section catchline by substituting "Attorneys" for "Attorney" and amendment of text by inserting "and a Deputy Attorney General for Combating Domestic Terrorism" after "General", was repealed by Pub. L. 107–273.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Position Relating to Combating Domestic Terrorism
 

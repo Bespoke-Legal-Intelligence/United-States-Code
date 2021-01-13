@@ -38,6 +38,8 @@ The Secretary of Homeland Security shall assign additional immigration officers 
 
 (June 27, 1952, ch. 477, title II, ch. 4, §235A, as added Pub. L. 104–208, div. C, title I, §123(a), Sept. 30, 1996, 110 Stat. 3009–560; amended Pub. L. 108–458, title VII, §§7206(a), 7210(d)(1), Dec. 17, 2004, 118 Stat. 3817, 3825.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 September 30, 1996, referred to in subsec. (a)(1), was in the original "the date of the enactment of such Act", which was translated as meaning the date of enactment of Pub. L. 104–208, which enacted this section, to reflect the probable intent of Congress.
@@ -49,6 +51,8 @@ September 30, 1996, referred to in subsec. (a)(1), was in the original "the date
 Additional stations.—Subject to paragraph (5), not later than October 31, 2000, the Attorney General, in consultation with the Secretary of State, shall establish preinspection stations in at least 5 additional foreign airports which the Attorney General, in consultation with the Secretary of State, determines, based on the data compiled under paragraph (3) and such other information as may be available, would most effectively reduce the number of aliens who arrive from abroad by air at points of entry within the United States who are inadmissible to the United States. Such preinspection stations shall be in addition to those established prior to September 30, 1996, or pursuant to paragraph (1)."
 
 Subsec. (b). Pub. L. 108–458, §7206(a), inserted "and immigration security initiative" after "program" in heading, substituted "Secretary of Homeland Security" for "Attorney General" in text, and inserted at end "Beginning not later than December 31, 2006, the number of airports selected for an assignment under this subsection shall be at least 50."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -78,7 +82,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;"(4) the Federal Government should work with other countries to ensure effective inspection regimes at all airports;
 
-&emsp;"(5) the Federal Government should work with other countries to improve passport standards and provide foreign assistance to countries that need helpmaking the transition to the global standard for identification; and
+&emsp;"(5) the Federal Government should work with other countries to improve passport standards and provide foreign assistance to countries that need help making the transition to the global standard for identification; and
 
 &emsp;"(6) the Department of Homeland Security, in coordination with the Department of State and other Federal agencies, should implement the initiatives called for in this subsection."
 

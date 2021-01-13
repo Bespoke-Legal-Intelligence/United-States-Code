@@ -42,7 +42,7 @@ The Secretary may provide technical assistance for the Department, either direct
 
 #### (1) In general
 
-&emsp;If the Director receives notice under subsection (a) of the termination, reduction, orlimitation of payments under this chapter, the Director—
+&emsp;If the Director receives notice under subsection (a) of the termination, reduction, or limitation of payments under this chapter, the Director—
 
 &emsp;&emsp;(A) may, not later than 60 days after receiving such notice, file with the United States Court of Appeals for the Ninth Circuit, or in the United States Court of Appeals for the District of Columbia, a petition for review of the action of the Secretary; and
 
@@ -115,6 +115,8 @@ The Secretary may provide technical assistance for the Department, either direct
 &emsp;&emsp;A judgment under subparagraph (A) shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification, as provided in section 1254 of title 28.
 
 (Pub. L. 104–330, title VIII, §818, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2891, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

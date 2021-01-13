@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(i) issue an order that the new product may be introduced or delivered for introduction into interstate commerce if the Secretary finds that none of the grounds specified in paragraph (2) of this subsection applies; or
 
-&emsp;&emsp;&emsp;(ii) issue an order that the new product may not be introduced or delivered for introduction into interstate commerce if the Secretary finds (and sets forth the basis for such finding as part of or accompanying such denial) that 1 or more grounds for denial specified in paragraph (2) of this subsection apply.
+&emsp;&emsp;&emsp;(ii) issue an order that the new product may not be introduced or delivered for introduction into interstate commerce if the Secretary finds (and sets forth the basis for such finding as part of or accompanying such denial) that 1 or moregrounds for denial specified in paragraph (2) of this subsection apply.
 
 #### (B) Restrictions on sale and distribution
 
@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters fromthe Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
+&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
 
 &emsp;&emsp;(A) that the continued marketing of such tobacco product no longer is appropriate for the protection of the public health;
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(E) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when the application was reviewed, that the labeling of such tobacco product, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary of such fact; or
 
-&emsp;&emsp;(F) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such order was issued, that such tobacco product is not shown to conform in all respects to a tobacco product standard which is in effect under section 387g of this title, compliance with which was a condition to the issuance of an order relating to the application, and that there is a lack of adequate information to justify the deviation from such standard.
+&emsp;&emsp;(F) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such order was issued, that such tobacco product is not shown to conform in all respects to a tobacco product standard which is in effect under section 387g of this title, compliancewith which was a condition to the issuance of an order relating to the application, and that there is a lack of adequate information to justify the deviation from such standard.
 
 #### (2) Appeal
 
@@ -197,6 +197,8 @@ An order issued by the Secretary under this section shall be served—
 The Secretary may exempt tobacco products intended for investigational use from the provisions of this subchapter under such conditions as the Secretary may by regulation prescribe.
 
 (June 25, 1938, ch. 675, §910, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1807.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

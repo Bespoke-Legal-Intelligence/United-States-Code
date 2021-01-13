@@ -18,9 +18,11 @@
 | [2644\.](%C2%A7%2002644%20-%20Interest.md) | Interest. |
 | [2645\.](%C2%A7%2002645%20-%20Decisions.md) | Decisions. |
 | [2646\.](%C2%A7%2002646%20-%20Retrial%20or%20rehearing.md) | Retrial or rehearing. |
-| \[2647. | Repealed.\] |
+| \[2647. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Except as otherwise provided in this subchapter, nothing contained in this subch
 
 &emsp;&emsp;(B) should regularly work to reduce complexity in the system, including complexity caused merely by the existence of structural, definitional, and other non-policy based differences between and among different export control and sanctions systems; and
 
-&emsp;&emsp;(C) should coordinate controls on items exported, reexported, or in-country transferred in connection with a foreign military sale under chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) or a commercial sale under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] to reduce as much unnecessary administrative burden as possible that is a result of differences between the exercise of those two authorities.
+&emsp;&emsp;(C) should coordinate controls on items exported, reexported, or in-country transferredin connection with a foreign military sale under chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) or a commercial sale under section 38 of the Arms Export Control Act \[22 U.S.C. 2778\] to reduce as much unnecessary administrative burden as possible that is a result of differences between the exercise of those two authorities.
 
 #### (c) Nonproliferation controls
 

@@ -4,7 +4,37 @@
 
 (b) Nothing contained in this chapter shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation.
 
-(Mar. 9, 1945, ch. 20, §3, 59 Stat. 34; July 25, 1947, ch. 326, 61 Stat. 448.)
+(c)(1) Nothing contained in this chapter shall modify, impair, or supersede the operation of any of the antitrust laws with respect to the business of health insurance (including the business of dental insurance and limited-scope dental benefits).
+
+(2) Paragraph (1) shall not apply with respect to making a contract, or engaging in a combination or conspiracy—
+
+&emsp;(A) to collect, compile, or disseminate historical loss data;
+
+&emsp;(B) to determine a loss development factor applicable to historical loss data;
+
+&emsp;(C) to perform actuarial services if such contract, combination, or conspiracy does not involve a restraint of trade; or
+
+&emsp;(D) to develop or disseminate a standard insurance policy form (including a standard addendum to an insurance policy form and standard terminology in an insurance policy form) if such contract, combination, or conspiracy is not to adhere to such standard form or require adherence to such standard form.
+
+(3) For purposes of this subsection—
+
+&emsp;(A) the term "antitrust laws" has the meaning given it in subsection (a) of section 12 of this title, except that such term includes section 45 of this title to the extent that such section 45 applies to unfair methods of competition;
+
+&emsp;(B) the term "business of health insurance (including the business of dental insurance and limited-scope dental benefits)" does not include—
+
+&emsp;&emsp;(i) the business of life insurance (including annuities); or
+
+&emsp;&emsp;(ii) the business of property or casualty insurance, including but not limited to—
+
+&emsp;&emsp;&emsp;(I) any insurance or benefits defined as "excepted benefits" under paragraph (1), subparagraph (B) or (C) of paragraph (2), or paragraph (3) of section 9832(c) of title 26 whether offered separately or in combination with insurance or benefits described in paragraph (2)(A) of such section; and
+
+&emsp;&emsp;&emsp;(II) any other line of insurance that is classified as property or casualty insurance under State law;
+
+&emsp;(C) the term "historical loss data" means information respecting claims paid, or reserves held for claims reported, by any person engaged in the business of insurance; and
+
+&emsp;(D) the term "loss development factor" means an adjustment to be made to reserves held for losses incurred for claims reported by any person engaged in the business of insurance, for the purpose of bringing such reserves to an ultimate paid basis.
+
+(Mar. 9, 1945, ch. 20, §3, 59 Stat. 34; July 25, 1947, ch. 326, 61 Stat. 448; Pub. L. 116–327, §2(a), Jan. 13, 2021, 134 Stat. 5097.)
 
 #### References in Text
 
@@ -12,11 +42,17 @@ Act of July 2, 1890, as amended, known as the Sherman Act, referred to in subsec
 
 Act of October 15, 1914, as amended, known as the Clayton Act, referred to in subsec. (a), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-Act of September 26, 1914, known as the Federal Trade Commission Act, referred to in subsec. (a), is generally classified to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+Act of September 26, 1914, known as the Federal Trade Commission Act, referred to in subsec. (a), isgenerally classified to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, referred to in subsec. (a), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c). Pub. L. 116–327 added subsec. (c).
+
 <b>1947</b>—Act July 25, 1947, substituted "June 30, 1948" for "January 1, 1948".
+
+#### Related Provision
+
+Pub. L. 116–327, §2(b), Jan. 13, 2021, 134 Stat. 5098, provided that: "For purposes of section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section applies to unfair methods of competition, section 3(c) of the McCarran-Ferguson Act \[15 U.S.C. 1013(c)\] shall apply with respect to the business of health insurance without regard to whether such business is carried on for profit, notwithstanding the definition of 'Corporation' contained in section 4 of the Federal Trade Commission Act \[15 U.S.C. 44\]."
 

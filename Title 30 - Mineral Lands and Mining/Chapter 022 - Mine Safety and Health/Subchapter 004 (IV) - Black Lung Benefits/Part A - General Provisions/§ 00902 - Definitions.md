@@ -48,7 +48,7 @@ For purposes of this subchapter—
 
 &emsp;(C) a student.
 
-> The term "student" means a "full-time student" as defined in section 402(d)(7) of title 42, ora "student" as defined in section 8101(17) of title 5. The determination of an individual's status as the "child" of the miner or widow, as the case may be, shall be made in accordance with section 416(h)(2) or (3) of title 42 as if such miner or widow were the "insured individual" referred to therein.
+> The term "student" means a "full-time student" as defined in section 402(d)(7) of title 42, or a "student" as defined in section 8101(17) of title 5. The determination of an individual's status as the "child" of the miner or widow, as the case may be, shall be made in accordance with section 416(h)(2) or (3) of title 42 as if such miner or widow were the "insured individual" referred to therein.
 
 (h) The term "fund" means the Black Lung Disability Trust Fund established by section 9501 of title 26.
 
@@ -59,6 +59,8 @@ For purposes of this subchapter—
 &emsp;(2) in which (A) the claimant was notified by the Department of Labor of an administrative or informal denial more than 1 year prior to March 1, 1978, and did not, within 1 year from the date of notification of such denial, request a hearing, present additional evidence or indicate an intention to present additional evidence, or (B) the claim was denied under the law in effect prior to March 1, 1978, following a formal hearing or administrative or judicial review proceeding.
 
 (Pub. L. 91–173, title IV, §402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, §2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, §104(b)(1), title II, §205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(1), Nov. 2, 2002, 116 Stat. 1925.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Subsec. (e). Pub. L. 92–303, §1(c)(3), expanded definition of "widow" by refe
 Subsec. (f). Pub. L. 92–303, §4(a), expanded definition of "total disability" to include a miner prevented from engaging in gainful employment by pneumoconiosis.
 
 Subsec. (g). Pub. L. 92–303, §1(c)(4), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

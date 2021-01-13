@@ -40,7 +40,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(M) Programs to—
 
-&emsp;&emsp;(i) assist in the placement of employees displaced as a result of actions pursuant to the program in enterprises not representing a proliferation threat; and
+&emsp;&emsp;(i) assist in the placement of employees displaced as a result of actions pursuant tothe program in enterprises not representing a proliferation threat; and
 
 &emsp;&emsp;(ii) convert sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
 
@@ -70,7 +70,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (1) In general
 
-&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds forpurposes of the programs described in paragraph (2).
+&emsp;The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
 
 #### (2) Programs covered
 
@@ -106,7 +106,7 @@ In this section:
 
 &emsp;(2) The term "radiological materials" includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
 
-&emsp;(3) The term "related equipment" includes equipment useful for enrichment of uranium in the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
+&emsp;(3) The term "related equipment" includes equipment useful for enrichment of uraniumin the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
 
 &emsp;(4) The term "highly-enriched uranium" means uranium enriched to or above 20 percent in the isotope 235.
 

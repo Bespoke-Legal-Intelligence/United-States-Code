@@ -8,7 +8,7 @@ Management of Purchase Cards.—The Secretary of Defense shall prescribe regulat
 
 Required Safeguards and Internal Controls.—Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
 
-&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for officialuse, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
+&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
 
 &emsp;(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
 
@@ -70,6 +70,10 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 (Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, \[div. A\], title X, §1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, §2(b), Oct. 5, 2012, 126 Stat. 1447.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1864(b), Jan. 1, 2021, 134 Stat. 4151, 4279, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 367 of this title, as amended by section 1864(a) of Pub. L. 116–283, inserted after section 4753, and redesignated as section 4754 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(2) to (15). Pub. L. 112–194 added pars. (2), (11) to (13), and (15) and redesignated former pars. (2) to (7) and (8) as (3) to (8) and (14), respectively.
@@ -85,6 +89,10 @@ Subsec. (b)(1) to (6). Pub. L. 107–314, §1007(b)(1)(C), substituted "purchase
 Subsec. (b)(7) to (10). Pub. L. 107–314, §1007(a)(2), added pars. (7) to (10).
 
 Subsec. (c). Pub. L. 107–314, §1007(a)(2), added subsec. (c).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Regulations
 

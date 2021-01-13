@@ -30,13 +30,15 @@ Such report shall include, with respect to voting practices and plenary actions 
 
 #### (c) Format
 
-Information required pursuant to subsection (b)(3) shall also be submitted, together with anexplanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
+Information required pursuant to subsection (b)(3) shall also be submitted, together with an explanation of the statistical methodology, in a format identical to that contained in chapter II of the Report to Congress on Voting Practices in the United Nations, dated March 14, 1988.
 
 #### (d) Statement by Secretary of State
 
 Each report under subsection (a) shall contain a statement by the Secretary of State discussing the measures which have been taken to inform United States diplomatic missions of United Nations General Assembly and Security Council activities.
 
 (Pub. L. 101–246, title IV, §406, Feb. 16, 1990, 104 Stat. 66; Pub. L. 108–447, div. D, title V, §534(k), Dec. 8, 2004, 118 Stat. 3007.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -46,7 +48,9 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(4). Pub. L. 108–447 inserted before semicolon at end ", including a separate listing of all plenary votes cast by member countries of the United Nations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States".
+<b>2004</b>—Subsec. (b)(4). Pub. L. 108–447 inserted before semicolon at end ", including a separate listing of all plenary votes cast by member countries of the UnitedNations in the General Assembly on resolutions specifically related to Israel that are opposed by the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

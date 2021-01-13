@@ -6,7 +6,7 @@
 
 &emsp;(2) full-time National Guard duty performed by a member of the Army National Guard of the United States shall be considered active duty in Federal service as a Reserve of the Army; and
 
-&emsp;(3) inactive-duty training performed by a member of the Army National Guard of the United States in his status as a member of the Army National Guard, in accordance with regulations prescribed under section 502 of title 32 or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Army.
+&emsp;(3) inactive-duty training performed by a member of the Army National Guard of the United States in his status as a member of the Army National Guard, in accordance with regulations prescribed under section 502 of title 32or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Army.
 
 (b) For the purposes of laws providing benefits for members of the Air National Guard of the United States and their dependents and beneficiaries—
 

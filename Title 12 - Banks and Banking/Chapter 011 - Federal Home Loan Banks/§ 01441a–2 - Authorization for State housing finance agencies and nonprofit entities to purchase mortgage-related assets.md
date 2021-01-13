@@ -6,13 +6,17 @@ Notwithstanding any other provision of Federal or State law, a State housing fin
 
 #### (b) Investment requirement
 
-Any State housing finance authority or nonprofit entity which purchases mortgage-relatedassets pursuant to subsection (a) shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
+Any State housing finance authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
 
 (Pub. L. 101–73, title XIII, §1302, Aug. 9, 1989, 103 Stat. 548.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

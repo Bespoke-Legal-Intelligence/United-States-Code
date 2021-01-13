@@ -28,5 +28,5 @@ Subsec. (c)(3). Pub. L. 112–81, §527(b), inserted "or denial of reenlistment"
 
 #### Effective Date
 
-Pub. L. 111–383, div. A, title V, §534(b), Jan. 7, 2011, 124 Stat. 4217, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to members evaluated for fitness for duty by Physical Evaluation Boards on or after that date."
+Pub. L. 111–383, div. A, title V, §534(b), Jan. 7, 2011, 124 Stat. 4217, provided that: "The amendments made bysubsection (a) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\], and shall apply with respect to members evaluated for fitness for duty by Physical Evaluation Boards on or after that date."
 

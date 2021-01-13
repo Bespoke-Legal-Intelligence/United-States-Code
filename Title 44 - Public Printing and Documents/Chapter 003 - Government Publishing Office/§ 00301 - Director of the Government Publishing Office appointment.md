@@ -1,6 +1,6 @@
 ### §301. Director of the Government Publishing Office: appointment
 
-The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person to take charge of and manage the Government Publishing Office. The title shall be Director of the Government Publishing Office.
+The President of the United States shall nominate and, by and with the advice and consent ofthe Senate, appoint a suitable person to take charge of and manage the Government Publishing Office. The title shall be Director of the Government Publishing Office.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1239; Pub. L. 92–310, title II, §210(a)(1), (2), June 6, 1972, 86 Stat. 204; Pub. L. 113–235, div. H, title I, §1301(b), (c), (g), Dec. 16, 2014, 128 Stat. 2537, 2538.)
 
@@ -10,6 +10,8 @@ Based on 44 U.S. Code, 1964 ed., §31 (Jan. 12, 1895, ch. 23, §17, 28 Stat. 603
 
 Changes are made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(g), struck out ", who must be a practical printer and versed in the art of bookbinding," after "suitable person" and substituted "The" for "His".
@@ -17,6 +19,8 @@ Changes are made in phraseology.
 Pub. L. 113–235, §1301(c), substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline and text.
 
 <b>1972</b>—Pub. L. 92–310 struck out "; bond" in section catchline, and provisions from text which required the Public Printer to give a bond in the sum of $25,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

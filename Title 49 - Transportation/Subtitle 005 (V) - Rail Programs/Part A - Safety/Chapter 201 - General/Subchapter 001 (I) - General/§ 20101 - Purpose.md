@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Oct. 16, 1970, Pub. L. 91–458, §101, 84 Stat. 971.
 
-The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" are substituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
+The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" aresubstituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
 
 #### Short Title of 2015 Amendment
 
@@ -44,7 +44,7 @@ Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: "This Ac
 
 Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: "This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the 'Swift Rail Development Act of 1994'."
 
-Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: "This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note undersection 11504 of this title\] may be cited as the 'Federal Railroad Safety Authorization Act of 1994'."
+Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: "This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the 'Federal Railroad Safety Authorization Act of 1994'."
 
 #### Shared-Use Study
 
@@ -154,7 +154,7 @@ Progress assessment.—No less frequently than annually, the Secretary shall ass
 
 Report to congress.—Beginning in 2009, not later than November 1 of each year, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the performance of the Federal Railroad Administration containing the progress assessment required by paragraph (1) toward achieving the goals of the railroad safety strategy and annual plans under subsection (a)."
 
-\[For definitions of "railroad", "Department", "Secretary", and "crossing", as used in section 102 of Pub.L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "railroad", "Department", "Secretary", and "crossing", as used in section 102 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
 #### Reports on Statutory Mandates and Recommendations
 

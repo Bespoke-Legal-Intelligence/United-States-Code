@@ -26,7 +26,7 @@ Invalid Defenses.—It is not a defense to an adjustment of the price of a contr
 
 &emsp;&emsp;(B) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(2) the contracting officer should have known that the cost or pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
+&emsp;(2) the contracting officer should have known that the cost or pricing data in issue were defective even though the contractor or subcontractor took no affirmative action tobring the character of the data to the attention of the contracting officer;
 
 &emsp;(3) the contract was based on an agreement between the contractor and the Federal Government about the total cost of the contract and there was no agreement about the cost of each item procured under the contract; or
 
@@ -50,7 +50,7 @@ When not allowed.—A contractor shall not be allowed to offset an amount otherw
 
 &emsp;&emsp;(A) the certification under section 3502(b) of this title with respect to the cost or pricing data involved was known to be false when signed; or
 
-&emsp;&emsp;(B) the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricingdata would not have resulted in an increase in that price in the amount to be offset.
+&emsp;&emsp;(B) the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3768.)
 

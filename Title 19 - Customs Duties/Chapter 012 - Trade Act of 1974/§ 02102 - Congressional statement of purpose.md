@@ -22,7 +22,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Statement of Purposes of 1984 Amendment
 
-Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: "The purposes of this title \[see Short Title of 1984 Amendment note set out under section 2101 of this title\] are—
+Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: "The purposes of this title \[seeShort Title of 1984 Amendment note set out under section 2101 of this title\] are—
 
 &emsp;"(1) to foster the economic growth of, and full employment in, the United States by expanding competitive United States exports through the achievement of commercial opportunities in foreign markets substantially equivalent to those accorded by the United States;
 

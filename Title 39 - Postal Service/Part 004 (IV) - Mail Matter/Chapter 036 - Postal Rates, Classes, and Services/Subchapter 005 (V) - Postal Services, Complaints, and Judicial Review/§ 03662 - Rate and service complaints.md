@@ -34,6 +34,8 @@ Authority To Order Fines in Cases of Deliberate Noncompliance.—In addition, in
 
 (Added Pub. L. 109–435, title II, §205, Dec. 20, 2006, 120 Stat. 3216.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3662, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 764, related to rate and service complaints, prior to repeal by Pub. L. 109–435, title II, §205, Dec. 20, 2006, 120 Stat. 3216.

@@ -6,7 +6,7 @@ Authority.—The Secretary concerned may, solely for the purpose of restructurin
 
 &emsp;(1) discharge an officer described in subsection (b); or
 
-&emsp;(2) transfer such an officer from the active-duty list of that armed force to the reserve active-status list of a reserve component of that armed force.
+&emsp;(2) transfer such an officer from the active-duty list of that armed force to the reserve active-status list of a reserve component.
 
 (b)
 
@@ -20,15 +20,19 @@ Covered Officers.—(1) The authority under this section may be exercised in the
 
 (c)
 
-Appointment of Transferred Officers.—An officer of the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
+Appointment of Transferred Officers.—An officer of the Regular Army, Regular Air Force, Regular Navy, Regular Marine Corps, or Regular Space Force who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under section 12203 of this title.
 
 (d)
 
 Regulations.—The Secretary concerned shall prescribe regulations for the exercise of the Secretary's authority under this section.
 
-(Added Pub. L. 108–375, div. A, title V, §501(c)(1)(A), Oct. 28, 2004, 118 Stat. 1873; amended Pub. L. 110–181, div. A, title V, §503(b), Jan. 28, 2008, 122 Stat. 95.)
+(Added Pub. L. 108–375, div. A, title V, §501(c)(1)(A), Oct. 28, 2004, 118 Stat. 1873; amended Pub. L. 110–181, div. A, title V, §503(b), Jan. 28, 2008, 122 Stat. 95; Pub. L. 116–283, div. A, title IX, §924(b)(4)(H), (16), Jan. 1, 2021, 134 Stat. 3822, 3823.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §924(b)(16), struck out "of that armed force" before period at end.
+
+Subsec. (c). Pub. L. 116–283, §924(b)(4)(H), substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps".
 
 <b>2008</b>—Subsec. (b)(1)(A), (B). Pub. L. 110–181 substituted "six years" for "5 years".
 

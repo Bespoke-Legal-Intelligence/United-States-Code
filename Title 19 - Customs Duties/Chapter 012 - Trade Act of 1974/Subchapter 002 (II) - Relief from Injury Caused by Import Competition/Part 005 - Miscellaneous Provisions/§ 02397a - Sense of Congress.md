@@ -18,7 +18,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 For revival and applicability, beginning on June 29, 2015, of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
-For termination of section, beginning on July 1, 2021, with certain exceptions and subject to section 406(b) ofPub. L. 114–27, see section 406 of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
+For termination of section, beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
 For revival and applicability, beginning on Oct. 21, 2011, of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 

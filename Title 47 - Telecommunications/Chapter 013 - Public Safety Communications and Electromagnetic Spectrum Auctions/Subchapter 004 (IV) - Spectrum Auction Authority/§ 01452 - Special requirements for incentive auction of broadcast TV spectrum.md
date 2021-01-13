@@ -18,7 +18,7 @@
 
 #### (3) Confidentiality
 
-&emsp;The Commission shall take all reasonable steps necessary to protect the confidentialityof Commission-held data of a licensee participating in the reverse auction under paragraph (1), including withholding the identity of such licensee until the reassignments and reallocations (if any) under subsection (b)(1)(B) become effective, as described in subsection (f)(2).
+&emsp;The Commission shall take all reasonable steps necessary to protect the confidentiality of Commission-held data of a licensee participating in the reverse auction under paragraph (1), including withholding the identity of such licensee until the reassignments and reallocations (if any) under subsection (b)(1)(B) become effective, as described in subsection (f)(2).
 
 #### (4) Protection of carriage rights of licensees sharing a channel
 
@@ -341,6 +341,8 @@ Nothing in subsection (b) shall be construed to—
 (1) Nothing in subsections (j) through (m) shall alter the final transition phase completion date established by the Commission for full power and Class A television stations.
 
 (Pub. L. 112–96, title VI, §6403, Feb. 22, 2012, 126 Stat. 225; Pub. L. 115–141, div. E, title V, §511, Mar. 23, 2018, 132 Stat. 563.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

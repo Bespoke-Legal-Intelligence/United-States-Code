@@ -88,6 +88,8 @@ Succession.—Subject to the time limitations under section 3346 of title 5, the
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, §6304(f), Dec. 20, 2018, 132 Stat. 4752.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -95,6 +97,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–334 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -38,7 +38,7 @@
 
 #### (3) Participating levees
 
-&emsp;For non-Federal levees the owners of which are participating in the emergency response to natural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.
+&emsp;For non-Federal levees the owners of which are participating in the emergency response tonatural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.
 
 #### (c) Levee review
 
@@ -66,9 +66,27 @@
 
 &emsp;In carrying out the inventory and review under this subsection, the Secretary shall not be required to review any levee that has been inspected by a State, regional district, or Indian tribe using the same methodology described in paragraph (3) during the 1-year period immediately preceding June 10, 2014, if the Governor of the State or chief executive of the regional district or tribal government, as applicable, requests an exemption from the review.
 
-(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, §3016(d), June 10, 2014, 128 Stat. 1292; Pub. L. 114–322, title I, §1130(b), Dec. 16, 2016, 130 Stat. 1650.)
+#### (d) Identification of deficiencies
+
+#### (1) In general
+
+&emsp;For each levee included in an inventory established under subsection (b) or for which the Secretary has conducted a review under subsection (c), the Secretary shall—
+
+&emsp;&emsp;(A) identify the specific engineering and maintenance deficiencies, if any; and
+
+&emsp;&emsp;(B) describe the recommended remedies to correct each deficiency identified under subparagraph (A), and, if requested by owner of a non-Federal levee, the associated costs of those remedies.
+
+#### (2) Consultation
+
+&emsp;In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.
+
+(Pub. L. 110–114, title IX, §9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, §3016(d), June 10, 2014, 128 Stat. 1292; Pub. L. 114–322, title I, §1130(b), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 116–260, div. AA, title I, §131, Dec. 27, 2020, 134 Stat. 2644.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–260 added subsec. (d).
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–322, §1130(b)(1)(A), substituted "1 year after December 16, 2016," for "one year after November 8, 2007,".
 
@@ -83,6 +101,8 @@ Subsec. (c)(5). Pub. L. 114–322, §1130(b)(2)(B), substituted "State, regional
 <b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–121, §3016(d)(1), substituted "and updated levee information provided by States, Indian tribes, Federal agencies, and other entities" for "and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies".
 
 Subsec. (c). Pub. L. 113–121, §3016(d)(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

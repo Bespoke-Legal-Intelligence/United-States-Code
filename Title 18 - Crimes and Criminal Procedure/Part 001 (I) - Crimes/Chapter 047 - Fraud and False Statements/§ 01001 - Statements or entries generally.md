@@ -14,7 +14,7 @@
 
 (c) With respect to any matter within the jurisdiction of the legislative branch, subsection (a) shall apply only to—
 
-&emsp;(1) administrative matters, including a claim for payment, a matter related to the procurement of property or services, personnel or employment practices, or support services, or a document required by law, rule, or regulation to be submitted to the Congress or any office or officer within the legislative branch; or
+&emsp;(1) administrative matters, including a claim for payment, a matter related to theprocurement of property or services, personnel or employment practices, or support services, or a document required by law, rule, or regulation to be submitted to the Congress or any office or officer within the legislative branch; or
 
 &emsp;(2) any investigation or review, conducted pursuant to the authority of any committee, subcommittee, commission or office of the Congress, consistent with applicable rules of the House or Senate.
 
@@ -34,6 +34,8 @@ Words "or any corporation in which the United States of America is a stockholder
 
 In addition to minor changes of phraseology, the maximum term of imprisonment was changed from 10 to 5 years to be consistent with comparable sections. (See reviser's note under section 287 of this title.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–248 inserted last sentence in concluding provisions.
@@ -43,6 +45,8 @@ In addition to minor changes of phraseology, the maximum term of imprisonment wa
 <b>1996</b>—Pub. L. 104–292 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Whoever, in any matter within the jurisdiction of any department or agency of the United States knowingly and willfully falsifies, conceals or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious or fraudulent statement or entry, shall be fined under this title or imprisoned not more than five years, or both."
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -72,7 +76,7 @@ Pub. L. 104–292, §1, Oct. 11, 1996, 110 Stat. 3459, provided that: "This Act 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–322, title XXIX, §290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: "This section \[amending section 1030 of this title\] maybe cited as the 'Computer Abuse Amendments Act of 1994'."
+Pub. L. 103–322, title XXIX, §290001(a), Sept. 13, 1994, 108 Stat. 2097, as amended by Pub. L. 104–294, title VI, §604(b)(34), Oct. 11, 1996, 110 Stat. 3508, provided that: "This section \[amending section 1030 of this title\] may be cited as the 'Computer Abuse Amendments Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -84,7 +88,7 @@ Pub. L. 101–123, §1, Oct. 23, 1989, 103 Stat. 759, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: "This Act \[enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the 'Major Fraud Act of 1988'."
+Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: "This Act \[enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 ofTitle 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the 'Major Fraud Act of 1988'."
 
 #### Short Title of 1986 Amendment
 

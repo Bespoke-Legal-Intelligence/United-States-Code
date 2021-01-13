@@ -66,7 +66,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;&emsp;&emsp;(vi) the total amount of support due and unpaid for all fiscal years; and
 
-&emsp;&emsp;&emsp;(vii) the number of child support cases filed in each State in such fiscal year, and the amount of the collections made in each State in such fiscal year, on behalf of children residing in another State or against parents residing in another State;
+&emsp;&emsp;&emsp;(vii) the number of child support cases filed in each State in such fiscal year, andthe amount of the collections made in each State in such fiscal year, on behalf of children residing in another State or against parents residing in another State;
 
 &emsp;&emsp;(D) the status of all State plans under this part as of the end of the fiscal year last ending before the report is submitted, together with an explanation of any problems which are delaying or preventing approval of State plans under this part;
 
@@ -116,7 +116,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 (2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a), on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
-(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
+(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that thereis a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
 (3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title, and shall waive the single statewide system requirement under sections 654(16) and 654a of this title, with respect to a State if—
 
@@ -166,7 +166,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(C) for a State with a paternity establishment percentage of not less than 50 percent but less than 75 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 3 percentage points;
 
-&emsp;(D) for a State with a paternity establishment percentage of not less than 45 percentbut less than 50 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 4 percentage points;
+&emsp;(D) for a State with a paternity establishment percentage of not less than 45 percent but less than 50 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 4 percentage points;
 
 &emsp;(E) for a State with a paternity establishment percentage of not less than 40 percent but less than 45 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 5 percentage points; or
 
@@ -214,9 +214,9 @@ The standards required by subsection (a)(1) shall include standards establishing
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>1</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
-&emsp;(1) information dissemination and technical assistance to States, training of State andFederal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
+&emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
-&emsp;(2) research, demonstration, and special projects of regional or national significance relating to the operation of State programs under this part.
+&emsp;(2) research, demonstration, and special projects of regional or national significancerelating to the operation of State programs under this part.
 
 > The amount appropriated under this subsection shall remain available until expended.
 
@@ -280,7 +280,7 @@ The Secretary shall use the authorities otherwise provided by law to ensure the 
 
 &emsp;Nothing in this subsection shall be construed to require a change to existing data exchange standards found to be effective and efficient.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX,§9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L.104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
 
 #### References in Text
 
@@ -344,7 +344,7 @@ Subsec. (a)(8). Pub. L. 104–193, §395(d)(1)(B), substituted "noncustodial" fo
 
 Subsec. (a)(9). Pub. L. 104–193, §316(e)(1), inserted "Federal" before "Parent".
 
-Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: "The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter."
+Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: "The information contained in any such report under subparagraph\(A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter."
 
 Subsec. (a)(10)(A). Pub. L. 104–193, §346(a)(1)(A), substituted "this part, including—" for "this part;".
 
@@ -540,13 +540,13 @@ Pub. L. 104–193, title III, §342(c), Aug. 22, 1996, 110 Stat. 2234, provided 
 
 Pub. L. 104–193, title III, §346(b), Aug. 22, 1996, 110 Stat. 2239, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to fiscal year 1997 and succeeding fiscal years."
 
-Pub. L. 104–193, title III, §370(b), Aug. 22, 1996, 110 Stat. 2252, provided that: "This section \[amending thissection and section 654 of this title\] and the amendments made by this section shall become effective October 1, 1997."
+Pub. L. 104–193, title III, §370(b), Aug. 22, 1996, 110 Stat. 2252, provided that: "This section \[amending this section and section 654 of this title\] and the amendments made by this section shall become effective October 1, 1997."
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13721(c), Aug. 10, 1993, 107 Stat. 660, provided that: "The amendments made by this section \[amending this section and section 666 of this title\] shall become effective with respect to a State on the later of—
+Pub. L. 103–66, title XIII, §13721(c), Aug. 10, 1993, 107 Stat. 660, provided that: "The amendments made bythis section \[amending this section and section 666 of this title\] shall become effective with respect to a State on the later of—
 
 &emsp;"(1) October 1, 1993 or,
 

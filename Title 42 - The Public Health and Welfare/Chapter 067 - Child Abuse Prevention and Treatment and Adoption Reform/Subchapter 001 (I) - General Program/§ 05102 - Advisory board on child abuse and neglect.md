@@ -10,7 +10,7 @@ The Secretary shall publish a notice in the Federal Register soliciting nominati
 
 #### (c) Composition
 
-In establishing the board under subsection (a), the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+In establishing the board under subsection (a), the Secretary shall appoint members from thegeneral public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
 
 &emsp;(1) law (including the judiciary);
 
@@ -58,7 +58,7 @@ Not later than 1 year after the establishment of the board under subsection (a),
 
 &emsp;(3) recommendations for modifications needed to facilitate coordinated national data collection with respect to child protection and child welfare.
 
-(Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr.24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065; Pub. L. 111–320, title I, §111, Dec. 20, 2010, 124 Stat. 3460.)
+(Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065; Pub. L. 111–320, title I, §111, Dec. 20, 2010, 124 Stat. 3460.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Pub. L. 98–457, title I, §128, Oct. 9, 1984, 98 Stat. 1755, provided that:
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless,in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Limitations on Use of Appropriated Funds
 

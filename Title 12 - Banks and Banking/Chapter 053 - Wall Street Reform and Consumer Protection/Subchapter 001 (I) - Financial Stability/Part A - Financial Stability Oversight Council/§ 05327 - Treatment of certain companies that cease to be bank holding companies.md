@@ -46,6 +46,8 @@ If an entity described in subsection (a) ceases to be a bank holding company at 
 
 (Pub. L. 111–203, title I, §117, July 21, 2010, 124 Stat. 1406.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(1)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.

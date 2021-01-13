@@ -98,7 +98,7 @@
 
 (6) In this subsection:
 
-&emsp;(A) The term "defense nonappropriated fund instrumentality" means a nonappropriatedfund instrumentality of the Department of Defense.
+&emsp;(A) The term "defense nonappropriated fund instrumentality" means a nonappropriated fund instrumentality of the Department of Defense.
 
 &emsp;(B) The term "Coast Guard nonappropriated fund instrumentality" means a nonappropriated fund instrumentality of the Coast Guard.
 
@@ -162,6 +162,8 @@ In subsection (b) the word "agency" is substituted for "department, independent 
 
 In subsection (e), the words "section 5582(b) of this title" are substituted for "the first section of the Act of August 3, 1950 (5 U.S.C. 61f)" to reflect the codification of the section in title 5, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Executive Schedule, referred to in subsec. (a)(2)(i), is set out in section 5311 et seq. of this title.
@@ -208,7 +210,7 @@ Subsec. (b). Pub. L. 105–55, §310(a)(3), inserted at end "The Architect of th
 
 <b>1990</b>—Subsec. (a)(1)(E). Pub. L. 101–474, §5(k)(1), added subpar. (E).
 
-Subsec. (a)(2)(i). Pub. L. 101–509 substituted "employee (other" for "employee, other", inserted "or an employee whose pay is fixed under section 5376)" before "whose rate", and substituted "the Executive Schedule" for "GS–18".
+Subsec. (a)(2)(i). Pub. L. 101–509 substituted "employee (other" for "employee, other", inserted "or an employee whose pay is fixed under section 5376)" before"whose rate", and substituted "the Executive Schedule" for "GS–18".
 
 Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end "However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section."
 
@@ -219,6 +221,8 @@ Subsec. (b). Pub. L. 101–474, §5(k)(2), inserted at end "However, the Directo
 <b>1979</b>—Subsec. (a)(2)(iii). Pub. L. 96–70 substituted "areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)" for "Canal Zone".
 
 <b>1978</b>—Subsec. (a)(2)(i). Pub. L. 95–454 inserted reference to a member of the Senior Executive Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -248,7 +252,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions ofsections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
+Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
 #### Transfer of Functions
 

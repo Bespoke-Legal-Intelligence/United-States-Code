@@ -48,7 +48,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 #### (d) Right of action in district court; relief; factors not to be considered by court
 
-Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section may bring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for such use consistent with subsection (c), and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
+Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section may bring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for suchuse consistent with subsection (c), and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
 
 #### (e) Petition to Commission; relief
 
@@ -94,6 +94,8 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (June 19, 1934, ch. 652, title VI, §612, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; amended Pub. L. 102–385, §§9, 10(a), (b), Oct. 5, 1992, 106 Stat. 1484, 1486; Pub. L. 104–104, title V, §506(b), Feb. 8, 1996, 110 Stat. 137.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
 For information regarding constitutionality of certain provisions of section 612 of act June 19, 1934, as added by section 10(b) of Pub. L. 102–385, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
@@ -119,6 +121,8 @@ Subsec. (h). Pub. L. 102–385, §10(a), inserted "or the cable operator" after 
 Subsec. (i). Pub. L. 102–385, §9(c), added subsec. (i).
 
 Subsec. (j). Pub. L. 102–385, §10(b), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

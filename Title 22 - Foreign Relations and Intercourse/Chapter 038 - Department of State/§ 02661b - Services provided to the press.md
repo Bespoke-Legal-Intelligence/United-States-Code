@@ -4,6 +4,8 @@ In fiscal year 2001 and thereafter reimbursements for services provided to the p
 
 (Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–90.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This appropriation, referred to in text, probably means appropriations under the headings "DEPARTMENT OF STATE", "
@@ -11,6 +13,8 @@ This appropriation, referred to in text, probably means appropriations under the
 Administration of Foreign Affairs", and "
 
 diplomatic and consular programs" of the annual Department of State and Related Agency Appropriations Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Diplomatic and Consular Programs Account
 

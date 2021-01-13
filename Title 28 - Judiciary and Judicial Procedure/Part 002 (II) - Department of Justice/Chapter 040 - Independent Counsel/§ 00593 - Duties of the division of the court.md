@@ -44,7 +44,7 @@ Procedure for request by independent counsel.—(A) If the independent counsel d
 
 &emsp;&emsp;(ii) the 30-day period referred to in subparagraph (A) elapses without a notification to the division of the court that no further investigation is warranted,
 
-> &emsp;the division of the court shall expand the jurisdiction of the appropriate independent counsel to include the matters involved or shall appoint another independent counsel to investigate such matters.
+> &emsp;the division of the court shall expand the jurisdiction of the appropriate independentcounsel to include the matters involved or shall appoint another independent counsel to investigate such matters.
 
 (d)
 
@@ -84,6 +84,8 @@ Amicus Curiae Briefs.—When presented with significant legal issues, the divisi
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted "the independent counsel who conducted the investigation and" before "Attorney General" in last sentence.
@@ -104,13 +106,15 @@ Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted "independent co
 
 Subsecs. (f), (g). Pub. L. 97–409, §5, added subsecs. (f) and (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment; Transition Provisions
 
 Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, and, notwithstanding restriction in subsec. (b)(2) of this section, the division of the court described in section 49 of this title is authorized to appoint as an independent counsel any individual who, on June 30, 1994, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations, see section 7(a), (h) of Pub. L. 103–270, set out as a note under section 591 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independentcounsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
+Amendment by Pub. L. 100–191 effective Dec. 15, 1987, and applicable to proceedings initiated and independent counsels appointed on and after Dec. 15, 1987, but with subsec. (f) applicable to previously initiated proceedings pending on Dec. 15, 1987, see section 6 of Pub. L. 100–191, set out as a note under section 591 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

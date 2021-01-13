@@ -34,6 +34,8 @@ Temporary Fiduciaries.—When in the opinion of the Secretary, a temporary fiduc
 
 (Added Pub. L. 108–454, title V, §502(a), Dec. 10, 2004, 118 Stat. 3618.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the first day of the seventh month beginning after Dec. 10, 2004, see section 507(a) of Pub. L. 108–454, set out as an Effective Date of 2004 Amendment note under section 5312 of this title.

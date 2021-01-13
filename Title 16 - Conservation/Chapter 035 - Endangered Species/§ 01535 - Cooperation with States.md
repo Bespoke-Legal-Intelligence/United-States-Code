@@ -10,7 +10,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 #### (c) Cooperative agreements
 
-(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, thatthe State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
+(1) In furtherance of the purposes of this chapter, the Secretary is authorized to enter into a cooperative agreement in accordance with this section with any State which establishes and maintains an adequate and active program for the conservation of endangered species and threatened species. Within one hundred and twenty days after the Secretary receives a certified copy of such a proposed State program, he shall make a determination whether such program is in accordance with this chapter. Unless he determines, pursuant to this paragraph, that the State program is not in accordance with this chapter, he shall enter into a cooperative agreement with the State for the purpose of assisting in implementation of the State program. In order for a State program to be deemed an adequate and active program for the conservation of endangered species and threatened species, the Secretary must find, and annually thereafter reconfirm such finding, that under the State program—
 
 &emsp;(A) authority resides in the State agency to conserve resident species of fish or wildlife determined by the State agency or the Secretary to be endangered or threatened;
 
@@ -126,7 +126,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 &emsp;"(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State whichis unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 

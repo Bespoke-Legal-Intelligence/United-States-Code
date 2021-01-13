@@ -34,7 +34,7 @@
 
 (3) A notice filed under paragraph (1) may be withdrawn by such entity.
 
-(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. Ifsuch creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
+(g)(1) Notice provided to a creditor by the debtor or the court other than in accordance with this section (excluding this subsection) shall not be effective notice until such notice is brought to the attention of such creditor. If such creditor designates a person or an organizational subdivision of such creditor to be responsible for receiving notices under this title and establishes reasonable procedures so that such notices receivable by such creditor are to be delivered to such person or such subdivision, then a notice provided to such creditor other than in accordance with this section (excluding this subsection) shall not be considered to have been brought to the attention of such creditor until such notice is received by such person or such subdivision.
 
 (2) A monetary penalty may not be imposed on a creditor for a violation of a stay in effect under section 362(a) (including a monetary penalty imposed under section 362(k)) or for failure to comply with section 542 or 543 unless the conduct that is the basis of such violation or of such failure occurs after such creditor receives notice effective under this section of the order for relief.
 
@@ -50,9 +50,11 @@ Section 342(c) of H.R. 8200 as passed by the House is deleted as a matter to be 
 
 #### senate report no. 95–989
 
-Subsection (a) of section 342 requires the clerk of the bankruptcy court to give notice of the order for relief. The rules will prescribe to whom the notice should be sent and in what manner notice will be given. The rules already prescribe such things, and they will continue to govern unless changed as provided in section 404(a) of the bill. Due process will certainly require notice to all creditors and equity security holders. State and Federal governmental representatives responsible for collecting taxes will also receive notice. In cases where the debtor is subject to regulation, the regulatory agency with jurisdiction will receive notice. In order to insure maximum notice to all parties in interest, the Rules will include notice by publication in appropriate cases and for appropriate issues. Other notices will be given as appropriate.
+Subsection (a) of section 342 requires the clerk of the bankruptcy court to give notice of the order for relief.The rules will prescribe to whom the notice should be sent and in what manner notice will be given. The rules already prescribe such things, and they will continue to govern unless changed as provided in section 404(a) of the bill. Due process will certainly require notice to all creditors and equity security holders. State and Federal governmental representatives responsible for collecting taxes will also receive notice. In cases where the debtor is subject to regulation, the regulatory agency with jurisdiction will receive notice. In order to insure maximum notice to all parties in interest, the Rules will include notice by publication in appropriate cases and for appropriate issues. Other notices will be given as appropriate.
 
 Subsections (b) and (c) \[enacted as section 549(c)\] are derived from section 21g of the Bankruptcy Act \[section 44(g) of former title 11\]. They specify that the trustee may file notice of the commencement of the case in land recording offices in order to give notice of the pendency of the case to potential transferees of the debtor's real property. Such filing is unnecessary in the county in which the bankruptcy case is commenced. If notice is properly filed, a subsequent purchaser of the property will not be a bona fide purchaser. Otherwise, a purchaser, including a purchaser at a judicial sale, that has no knowledge of the case, is not prevented from obtaining the status of a bona fide purchaser by the mere commencement of the case. "County" is defined in title 1 of the United States Code to include other political subdivisions where counties are not used.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsecs. (e) to (g). Pub. L. 109–8, §315(a)(2), added subsecs. (e) to (g).
 Pub. L. 98–353, §302(1), designated existing provisions as subsec. (a).
 
 Subsec. (b). Pub. L. 98–353, §302(2), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

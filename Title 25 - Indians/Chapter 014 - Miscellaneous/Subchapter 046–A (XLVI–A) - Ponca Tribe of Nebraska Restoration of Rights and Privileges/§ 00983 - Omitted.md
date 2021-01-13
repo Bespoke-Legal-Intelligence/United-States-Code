@@ -1,8 +1,12 @@
 ### §983. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 101–484, §2, Oct. 31, 1990, 104 Stat. 1167, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -14,7 +14,7 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 &emsp;The Secretary shall provide each appellant an opportunity for a hearing before an administrative law judge in accordance with sections 554 and 556 of title 5. The expenses for conducting the hearing shall be reimbursed by the Commodity Credit Corporation.
 
-(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, §1403(h), May 22, 2008, 122 Stat. 988; Pub. L.110–246, §4(a), title I, §1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
+(Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 202; amended Pub. L. 110–234, title I, §1403(h), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, §4(a), title I, §1403(h), June 18, 2008, 122 Stat. 1664, 1716.)
 
 #### Codification
 
@@ -32,5 +32,5 @@ Subsec. (c). Pub. L. 110–246, §1403(h)(2), struck out subsec. (c) which relat
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

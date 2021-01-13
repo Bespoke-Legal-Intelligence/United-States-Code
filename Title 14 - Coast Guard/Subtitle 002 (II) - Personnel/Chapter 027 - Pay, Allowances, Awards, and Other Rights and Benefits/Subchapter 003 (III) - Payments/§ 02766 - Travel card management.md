@@ -10,6 +10,8 @@ Withholding of Nondisputed Obligations.—The Secretary may also establish requi
 
 (Added Pub. L. 108–293, title II, §210(a), Aug. 9, 2004, 118 Stat. 1036, §517; renumbered §2766, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 517 of this title as this section.

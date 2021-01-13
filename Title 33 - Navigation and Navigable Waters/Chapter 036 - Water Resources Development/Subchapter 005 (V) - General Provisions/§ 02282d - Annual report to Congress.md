@@ -28,7 +28,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 #### (1) Publication
 
-&emsp;Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies, proposed modifications to authorized water resources development projects and feasibilitystudies, and proposed modifications for an environmental infrastructure program to be included in the annual report.
+&emsp;Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program to be included in the annual report.
 
 #### (2) Deadline for requests
 
@@ -74,7 +74,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;&emsp;&emsp;(II) improvement to transportation;
 
-&emsp;&emsp;&emsp;&emsp;(III) the national economy;
+&emsp;&emsp;&emsp;&emsp;(III) the national, regional, or local economy;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the environment; or
 
@@ -91,6 +91,44 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 &emsp;&emsp;&emsp;&emsp;(I) that local support exists for the proposed feasibility study or proposed modification to an authorized water resources development project or feasibility study (including the water resources development project that is the subject of the proposed feasibility study or the proposed modification to an authorized feasibility study); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the financial ability to provide the required non-Federal cost share.
+
+#### (D) Modifications of projects carried out pursuant to continuing authority programs
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;With respect to a project being carried out pursuant to a continuing authority program for which a proposed modification is necessary because the project is projected to exceed, in the coming fiscal year, the maximum Federal cost of the project, the Secretary shall include a proposed modification in the annual report if the proposed modification will result in completion of construction the <sup>1</sup> project and the justification for the modification is not the result of a change in the scope of the project.
+
+#### (ii) Inclusion
+
+&emsp;&emsp;&emsp;For each proposed modification included in an annual report under clause (i), the Secretary shall include in the annual report—
+
+&emsp;&emsp;&emsp;&emsp;(I) a justification of why the modification is necessary;
+
+&emsp;&emsp;&emsp;&emsp;(II) an estimate of the total cost and timeline required to complete construction of the project; and
+
+&emsp;&emsp;&emsp;&emsp;(III) an indication of continued support by the non-Federal interest and the financial ability of the non-Federal interest to provide the required cost-share.
+
+#### (iii) Definition
+
+&emsp;&emsp;&emsp;For the purposes of this subparagraph, the term "continuing authority program" means any of—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 701r of this title;
+
+&emsp;&emsp;&emsp;&emsp;(II) section 426g of this title;
+
+&emsp;&emsp;&emsp;&emsp;(III) section 577 of this title;
+
+&emsp;&emsp;&emsp;&emsp;(IV) section 426i of this title;
+
+&emsp;&emsp;&emsp;&emsp;(V) section 2326 of this title;
+
+&emsp;&emsp;&emsp;&emsp;(VI) section 701s of this title;
+
+&emsp;&emsp;&emsp;&emsp;(VII) section 2330 of this title;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) section 701g of this title; and
+
+&emsp;&emsp;&emsp;&emsp;(IX) section 2309a of this title.
 
 #### (2) Transparency
 
@@ -158,9 +196,11 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;In carrying out the activities described in this section—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program; and
+&emsp;&emsp;&emsp;(i) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary's determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program;
 
-&emsp;&emsp;&emsp;(ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
+&emsp;&emsp;&emsp;(ii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis that the proposals are for the purposes of navigation, flood risk management, ecosystem restoration, or municipal or agricultural water supply; and
+
+&emsp;&emsp;&emsp;(iii) the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
 
 #### (d) Programmatic modifications in annual report
 
@@ -210,15 +250,25 @@ In this section:
 
 #### (5) Water resources development project
 
-&emsp;The term "water resources development project" includes a project under an environmental infrastructure assistance program if authorized before December 16, 2016.
+&emsp;The term "water resources development project" includes a project under an environmental infrastructure assistance program.
 
-(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, §1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, §1332(a), Oct. 23, 2018, 132 Stat. 3834.)
+(Pub. L. 113–121, title VII, §7001, June 10, 2014, 128 Stat. 1360; Pub. L. 114–322, title I, §1157(b), Dec. 16, 2016, 130 Stat. 1666; Pub. L. 115–270, title I, §1332(a), Oct. 23, 2018, 132 Stat. 3834; Pub. L. 116–260, div. AA, title I, §127(a), Dec. 27, 2020, 134 Stat. 2640.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1)(B)(ii)(III). Pub. L. 116–260, §127(a)(1)(A)(i), inserted ", regional, or local" after "national".
+
+Subsec. (c)(1)(D). Pub. L. 116–260, §127(a)(1)(A)(ii), added subpar. (D).
+
+Subsec. (c)(4)(B)(ii), (iii). Pub. L. 116–260, §127(a)(1)(B), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (g)(5). Pub. L. 116–260, §127(a)(2), struck out "if authorized before December 16, 2016" before period at end.
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–270, §1332(a)(1), added par. (4).
 
@@ -230,9 +280,19 @@ Subsecs. (d) to (g). Pub. L. 115–270, §1332(a)(3), (4), added subsec. (d) and
 
 <b>2016</b>—Subsec. (f)(5). Pub. L. 114–322 added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Over-Budget Cap Programs
+
+Pub. L. 116–260, div. AA, title I, §127(b), Dec. 27, 2020, 134 Stat. 2642, provided that: "For any project carried out under a continuing authority program, as such term is defined in section 7001(c)(1)(D) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d\[(c)(1)(D)\])), \[sic\] for which the Secretary \[of the Army\] is required to include a proposed modification in an annual report under such section 7001(c)(1)(D), the Secretary shall, to the extent practicable, inform the non-Federal interest of the process for carrying out the project pursuant to section 105 of the Water Resources Development Act of 1986 (33 U.S.C. 2215) and whether the Secretary has the authority to complete a feasibility study for the project."
+
+#### Annual Report on Status of Feasibility Studies
+
+Pub. L. 116–260, div. AA, title I, §127(c), Dec. 27, 2020, 134 Stat. 2642, provided that: "Concurrent with each report submitted under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d), the Secretary \[of the Army\] shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that provides for an accounting of all outstanding feasibility studies being conducted by the Secretary, including, for each such study, its length, cost, and expected completion date."
+
 #### Dissemination of Information
 
-Pub. L. 115–270, title I, §1104, Oct. 23, 2018, 132 Stat. 3771, provided that:
+Pub. L. 115–270, title I, §1104, Oct. 23, 2018, 132 Stat. 3771, as amended by Pub. L. 116–260, div. AA, title II, §229, Dec. 27, 2020, 134 Stat. 2698, provided that:
 
 "(a)
 
@@ -254,17 +314,35 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Dissemination of Process Information.—The Secretary shall develop, support, and implement education and awareness efforts for non-Federal interests with respect to the annual Report to Congress on Future Water Resources Development required under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d), including efforts to—
+Dissemination of Process Information.—
 
-&emsp;"(1) develop and disseminate technical assistance materials, seminars, and guidance on the annual process as it relates to non-Federal interests;
+&emsp;"(1)
 
-&emsp;"(2) provide written notice to local elected officials and previous and potential non-Federal interests on the annual process and on opportunities to address local water resources challenges through the missions and authorities of the Corps of Engineers;
+In general.—The Secretary shall develop, support, and implement education and awareness efforts for non-Federal interests with respect to the annual Report to Congress on Future Water Resources Development required under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d), including efforts to—
 
-&emsp;"(3) issue guidance for non-Federal interests to assist such interests in developing proposals for water resources development projects that satisfy the requirements of such section 7001; and
+&emsp;&emsp;"(A) develop and disseminate technical assistance materials, seminars, and guidance on the annual process as it relates to non-Federal interests;
 
-&emsp;"(4) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations and Corps of Engineers decision documents."
+&emsp;&emsp;"(B) provide written notice to local elected officials and previous and potential non-Federal interests on the annual process and on opportunities to address local water resources challenges through the missions and authorities of the Corps of Engineers;
+
+&emsp;&emsp;"(C) issue guidance for non-Federal interests to assist such interests in developing proposals for water resources development projects that satisfy the requirements of such section 7001; and
+
+&emsp;&emsp;"(D) provide, at the request of a non-Federal interest, assistance with researching and identifying existing project authorizations and Corps of Engineers decision documents.
+
+&emsp;"(2)
+
+Annual reporting.—Not less frequently than annually, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written update on the progress of the implementation of paragraph (1), including a description of each education and outreach action the Secretary is taking to implement that paragraph.
+
+&emsp;"(3)
+
+Guidance; compliance.—The Secretary shall—
+
+&emsp;&emsp;"(A) issue guidance on the uniform implementation by each district of the Corps of Engineers of the process for submitting proposals under section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d); and
+
+&emsp;&emsp;"(B) each year, ensure compliance with the guidance issued under subparagraph (A)."
 
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "of".</i>
 

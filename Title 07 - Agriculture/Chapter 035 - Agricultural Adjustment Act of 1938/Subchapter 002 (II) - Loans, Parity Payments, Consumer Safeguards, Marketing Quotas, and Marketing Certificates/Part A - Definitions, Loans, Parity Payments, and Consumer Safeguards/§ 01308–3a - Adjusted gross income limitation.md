@@ -132,7 +132,7 @@ Pub. L. 115–334, title I, §1704(c), Dec. 20, 2018, 132 Stat. 4526, provided t
 
 Pub. L. 113–79, title I, §1605(g), Feb. 7, 2014, 128 Stat. 708, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of the enactment of this Act \[Feb. 7, 2014\], shall apply with respect to the 2013 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as so in effect on that day)."
 
-Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a))."
+Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18,2008, 122 Stat. 1664, 1744, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a))."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

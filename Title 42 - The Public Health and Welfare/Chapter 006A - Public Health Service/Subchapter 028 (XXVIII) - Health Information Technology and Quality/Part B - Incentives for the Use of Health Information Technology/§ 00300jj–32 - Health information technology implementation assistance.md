@@ -44,7 +44,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 #### (2) Affiliation
 
-&emsp;Regional centers shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies and is awarded financial assistance under this section. Individual awards shall be decided on the basis of merit.
+&emsp;Regional centers shall be affiliated with any United States-based nonprofit institution ororganization, or group thereof, that applies and is awarded financial assistance under this section. Individual awards shall be decided on the basis of merit.
 
 #### (3) Objective
 

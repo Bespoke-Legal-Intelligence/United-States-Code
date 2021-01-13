@@ -4,9 +4,13 @@ For the survey of the public lands lying within the limits of land grants made b
 
 (Mar. 2, 1895, ch. 189, §1, 28 Stat. 937; Pub. L. 96–470, title I, §108(b), Oct. 19, 1980, 94 Stat. 2239.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–470 struck out provision requiring Secretary of the Interior to report to each regular session of Congress what has been done under this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appropriations
 

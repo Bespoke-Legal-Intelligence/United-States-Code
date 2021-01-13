@@ -6,7 +6,7 @@ Any person who violates section 841(a)(1) of this title or section 856 of this t
 
 #### (b) Second offenders
 
-Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, after a prior conviction under subsection (a) has become final is punishable (1) by the greater of (A) a term of imprisonment of not less than three years and not more than life imprisonment or (B) three times the maximum punishment authorized by section 841(b) of this title for a first offense, and (2) at least three times any term of supervised releaseauthorized by section 841(b) of this title for a first offense. A fine up to three times that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
+Any person who violates section 841(a)(1) of this title or section 856 of this title by distributing, possessing with intent to distribute, or manufacturing a controlled substance in or on, or within one thousand feet of, the real property comprising a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university, or a playground, or housing facility owned by a public housing authority, or within 100 feet of a public or private youth center, public swimming pool, or video arcade facility, after a prior conviction under subsection (a) has become final is punishable (1) by the greater of (A) a term of imprisonment of not less than three years and not more than life imprisonment or (B) three times the maximum punishment authorized by section 841(b) of this title for a first offense, and (2) at least three times any term of supervised release authorized by section 841(b) of this title for a first offense. A fine up to three times that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
 
 #### (c) Employing children to distribute drugs near schools or playgrounds
 
@@ -35,6 +35,8 @@ For the purposes of this section—
 &emsp;(4) The term "swimming pool" includes any parking lot appurtenant thereto.
 
 (Pub. L. 91–513, title II, §419, formerly §405A, as added Pub. L. 98–473, title II, §503(a), Oct. 12, 1984, 98 Stat. 2069; amended Pub. L. 99–570, title I, §§1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11, 3207–52, 3207–55; Pub. L. 99–646, §28, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VI, §§6452(b)(1), 6457, 6458, Nov. 18, 1988, 102 Stat. 4371, 4373; renumbered §419 and amended Pub. L. 101–647, title X, §§1002(b), 1003(b), title XII, §1214, title XV, §1502, title XXXV, §3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4833, 4836, 4932; Pub. L. 103–322, title XIV, §140006, title XXXII, §320107, title XXXIII, §330009(a), Sept. 13, 1994, 108 Stat. 2032, 2111, 2143.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -89,6 +91,8 @@ Pub. L. 99–570, §§1104(a), 1841(b)(2), inserted reference to section 856 of 
 Pub. L. 99–570, §1104(c), amended cls. (1) and (2) generally. Prior to amendment, cls. (1) and (2) read as follows: "(1) by a term of imprisonment of not less than three years and not more than life imprisonment and (2) at least three times any special term authorized by section 841(b) of this title for a second or subsequent offense involving the same controlled substance and schedule."
 
 Subsec. (c). Pub. L. 99–570, §1866(c), substituted reference to chapter 311 of title 18 for reference to section 4202 of that title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

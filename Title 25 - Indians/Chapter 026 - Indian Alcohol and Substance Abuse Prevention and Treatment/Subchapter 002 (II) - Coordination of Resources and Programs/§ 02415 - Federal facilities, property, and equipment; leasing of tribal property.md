@@ -6,7 +6,7 @@ In the furtherance of the purposes and goals of this chapter, the Secretary of t
 
 #### (b) Costs
 
-Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) may be borne by the Secretary ofthe Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of the Interior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
+Any additional cost associated with the use of Federal facilities, property, or equipment under subsection (a) may be borne by the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services out of available Federal, tribal, State, local, or private funds, if not otherwise prohibited by law. This subsection does not require the Secretary of theInterior, nor the Attorney General, nor the Secretary of Health and Human Services to expend additional funds to meet the additional costs which may be associated with the provision of such facilities, property, or equipment for community use. Where the use of Federal facilities, property, or equipment under subsection (a) furthers the purposes and goals of this chapter, the use of funds other than those funds appropriated to the Department of the Interior, the Department of Justice, or the Department of Health and Human Services to meet the additional costs associated with such use shall not constitute an augmentation of Federal appropriations.
 
 #### (c) Leases
 
@@ -15,6 +15,8 @@ Any additional cost associated with the use of Federal facilities, property, or 
 (2) A tribally owned or leased facility may be leased pursuant to this authority to house a regional treatment center to be established pursuant to section 2474(b) <sup>1</sup> of this title only if all the tribes within the Indian Health Service area to be served by such regional treatment center initially consent to such Federal lease.
 
 (Pub. L. 99–570, title IV, §4209, Oct. 27, 1986, 100 Stat. 3207–142; Pub. L. 100–690, title II, §2205, Nov. 18, 1988, 102 Stat. 4217; Pub. L. 111–211, title II, §241(a)(5), July 29, 2010, 124 Stat. 2289.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Subsec. (c)(1). Pub. L. 111–211, §241(a)(5)(C), which directed insertion of "
 <b>1988</b>—Pub. L. 100–690, §2205(1), inserted "; leasing of tribal property" in section catchline.
 
 Subsec. (c). Pub. L. 100–690, §2205(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Lease and Operation of Facilities in Fairbanks, Alaska
 

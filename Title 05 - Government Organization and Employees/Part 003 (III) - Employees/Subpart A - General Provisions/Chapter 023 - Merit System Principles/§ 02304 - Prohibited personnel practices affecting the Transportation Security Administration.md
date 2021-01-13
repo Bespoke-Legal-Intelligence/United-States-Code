@@ -16,9 +16,13 @@ Rule of Construction.—Nothing in this section shall be construed to affect any
 
 (Added Pub. L. 112–199, title I, §109(a)(2), Nov. 27, 2012, 126 Stat. 1470.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2304 was renumbered section 2305 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

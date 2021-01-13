@@ -1,0 +1,8 @@
+### §774. Transferred
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Section, Aug. 19, 1950, ch. 761, §4, 64 Stat. 466, which related to rules and regulations necessary to carry out benefit provisions, was transferred to section 2534(b) of Title 14, Coast Guard.
+

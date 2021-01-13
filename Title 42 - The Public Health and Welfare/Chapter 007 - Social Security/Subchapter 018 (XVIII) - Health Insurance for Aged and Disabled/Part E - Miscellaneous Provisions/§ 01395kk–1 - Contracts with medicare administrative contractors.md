@@ -70,7 +70,7 @@
 
 #### (A) Nonduplication of duties
 
-&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentence shall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
+&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentenceshall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
 
 #### (B) Construction
 
@@ -202,7 +202,7 @@
 
 #### (B) Conditions
 
-&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
+&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directlyfrom conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
 
 #### (C) Scope of indemnification
 
@@ -262,7 +262,7 @@
 
 #### (f) Incentives to improve contractor performance in provider education and outreach
 
-The Secretary shall use specific claims payment error rates or similar methodology of medicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
+The Secretary shall use specific claims payment error rates or similar methodology ofmedicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
 
 #### (g) Communications with beneficiaries, providers of services and suppliers
 
@@ -514,7 +514,7 @@ Pub. L. 108–173, title IX, §912(b), Dec. 8, 2003, 117 Stat. 2388, provided th
 
 "(1)
 
-In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[42 U.S.C. 1395kk–1(e)(2)\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
+In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[42 U.S.C.1395kk–1(e)(2)\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
 
 "(2)
 

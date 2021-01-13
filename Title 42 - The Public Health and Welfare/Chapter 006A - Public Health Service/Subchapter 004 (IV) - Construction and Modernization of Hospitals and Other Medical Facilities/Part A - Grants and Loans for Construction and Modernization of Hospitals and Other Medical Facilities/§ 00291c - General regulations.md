@@ -1,6 +1,6 @@
 ### §291c. General regulations
 
-The Surgeon General, with the approval of the Federal Hospital Council and the Secretary of Health and Human Services shall by general regulations prescribe—
+The Surgeon General, with the approval of the Federal Hospital Council and the Secretary ofHealth and Human Services shall by general regulations prescribe—
 
 #### (a) Priority of projects; determination
 
@@ -34,7 +34,7 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 #### (e) State plan requirements; assurances necessary for approval of application
 
-&emsp;that the State plan shall provide for adequate hospitals, and other facilities for which aid under this part is available, for all persons residing in the State, and adequate hospitals (and such other facilities) to furnish needed services for persons unable to pay therefor.Such regulations may also require that before approval of an application for a project is recommended by a State agency to the Surgeon General for approval under this part, assurance shall be received by the State from the applicant that (1) the facility or portion thereof to be constructed or modernized will be made available to all persons residing in the territorial area of the applicant; and (2) there will be made available in the facility or portion thereof to be constructed or modernized a reasonable volume of services to persons unable to pay therefor, but an exception shall be made if such a requirement is not feasible from a financial viewpoint.
+&emsp;that the State plan shall provide for adequate hospitals, and other facilities for which aid under this part is available, for all persons residing in the State, and adequate hospitals (and such other facilities) to furnish needed services for persons unable to pay therefor. Such regulations may also require that before approval of an application for a project is recommended by a State agency to the Surgeon General for approval under this part, assurance shall be received by the State from the applicant that (1) the facility or portion thereof to be constructed or modernized will be made available to all persons residing in the territorial area of the applicant; and (2) there will be made available in the facility or portion thereof to be constructed or modernized a reasonable volume of services to persons unable to pay therefor, but an exception shall be made if such a requirement is not feasible from a financial viewpoint.
 
 (July 1, 1944, ch. 373, title VI, §603, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 451; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; Pub. L. 91–296, title I, §110, June 30, 1970, 84 Stat. 339; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -62,5 +62,5 @@ Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919, provided that the amendme
 
 "Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 whichis classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

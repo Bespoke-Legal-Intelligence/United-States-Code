@@ -1,0 +1,22 @@
+### §9201. Definitions
+
+In this chapter:
+
+#### (1) Animal
+
+&emsp;The term "animal" has the meaning given the term in section 8302 of this title.
+
+#### (2) Transboundary disease
+
+&emsp;The term "transboundary disease" has the meaning given the term in section 8914(a) of this title.
+
+#### (3) Veterinary countermeasure
+
+&emsp;The term "veterinary countermeasure" has the meaning given the term in section 8302 of this title.
+
+(Pub. L. 116–260, div. P, §2, Dec. 27, 2020, 134 Stat. 2159.)
+
+#### Short Title
+
+Pub. L. 116–260, div. P, §1, Dec. 27, 2020, 134 Stat. 2159, provided that: "This division \[enacting this chapter\] may be cited as the 'National Bio and Agro-Defense Facility Act of 2020'."
+

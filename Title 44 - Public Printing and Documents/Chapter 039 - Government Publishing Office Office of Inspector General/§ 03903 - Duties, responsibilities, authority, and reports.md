@@ -44,7 +44,7 @@
 
 (3)(A) Before the first grant of authority under paragraph (1), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this subsection.
 
-(B) The authority granted under this subsection (including any grant of authority to an individual under paragraph (1), without regardto whether the individual is in compliance with paragraph (2)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under subparagraph (A) of this paragraph or paragraph (4). Any suspension of authority under this subparagraph shall be reported to the appropriate committees of Congress.
+(B) The authority granted under this subsection (including any grant of authority to an individual under paragraph (1), without regard to whether the individual is in compliance with paragraph (2)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under subparagraph (A) of this paragraph or paragraph (4). Any suspension of authority under this subparagraph shall be reported to the appropriate committees of Congress.
 
 (4) To ensure the proper exercise of the law enforcement powers authorized under this subsection, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
 
@@ -60,6 +60,8 @@
 
 (Added Pub. L. 100–504, title II, §202, Oct. 18, 1988, 102 Stat. 2531; amended Pub. L. 113–235, div. H, title I, §1301(b), (c)(1), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. P, title XVI, §§1603(c), 1604(c), 1605(c), Dec. 20, 2019, 133 Stat. 3216, 3219, 3220.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 4, 5, 6, and 7 of the Inspector General Act of 1978, referred to in subsecs. (a), (b)(3), and (c)(3)(A), are sections 4, 5, 6, and 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 116–94, §1603(c), added subsec. (c).
 Subsec. (d). Pub. L. 116–94, §1604(c), added subsec. (d).
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer" in introductory provisions and par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

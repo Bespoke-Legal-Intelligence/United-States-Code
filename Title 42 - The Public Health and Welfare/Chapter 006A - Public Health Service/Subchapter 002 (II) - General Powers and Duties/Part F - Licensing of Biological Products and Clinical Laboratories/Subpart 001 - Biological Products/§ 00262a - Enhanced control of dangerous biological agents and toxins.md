@@ -26,7 +26,7 @@
 
 #### (2) Biennial review
 
-&emsp;The Secretary shall review and republish the list under paragraph (1) biennially, or more often as needed, and shall by regulation revise the list as necessary in accordance with such paragraph.
+&emsp;The Secretary shall review and republish the list under paragraph (1) biennially, or moreoften as needed, and shall by regulation revise the list as necessary in accordance with such paragraph.
 
 #### (b) Regulation of transfers of listed agents and toxins
 
@@ -244,7 +244,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (3) Other exemptions
 
-&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title,to any of the information specified in paragraph (1).
+&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title, to any of the information specified in paragraph (1).
 
 #### (4) Rule of construction
 
@@ -326,7 +326,7 @@ For purposes of this section:
 
 #### (m) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2002 through 2007.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
 
 (July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
 
@@ -360,7 +360,7 @@ Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided th
 
 #### National Science Advisory Board for Biosecurity
 
-Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: "The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
+Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: "The National Science AdvisoryBoard for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
 
 &emsp;"(1) a core curriculum and training requirements for workers in maximum containment biological laboratories; and
 

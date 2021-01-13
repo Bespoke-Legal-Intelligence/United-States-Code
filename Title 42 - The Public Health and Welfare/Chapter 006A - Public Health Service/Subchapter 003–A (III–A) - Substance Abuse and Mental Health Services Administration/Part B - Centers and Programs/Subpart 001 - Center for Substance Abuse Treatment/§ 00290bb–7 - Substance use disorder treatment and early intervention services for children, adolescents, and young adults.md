@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants, contracts, or cooperative agreements to public and privatenonprofit entities, including Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
+The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
 
 &emsp;(1) providing early identification and services to meet the needs of children, adolescents, and young adults who are at risk of substance use disorders;
 

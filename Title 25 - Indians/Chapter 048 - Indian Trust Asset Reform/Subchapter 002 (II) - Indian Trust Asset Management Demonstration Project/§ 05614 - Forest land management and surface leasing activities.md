@@ -92,7 +92,7 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 #### (2) Authority of Secretary
 
-&emsp;Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to Indian tribes under Federal law (including regulations), the Secretary may, on reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under this section.
+&emsp;Pursuant to the authority of the Secretary to fulfill the trust obligation of the UnitedStates to Indian tribes under Federal law (including regulations), the Secretary may, on reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under this section.
 
 #### (h) Compliance
 
@@ -120,9 +120,11 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 (Pub. L. 114–178, title II, §205, June 22, 2016, 130 Stat. 436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Indian Forest Resources Management Act, referred to in subsec. (b)(2)(B)(i), is title III of Pub.L. 101–630, Nov. 28, 1990, 104 Stat. 4532, which is classified generally to chapter 33 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Indian Forest Resources Management Act, referred to in subsec. (b)(2)(B)(i), is title III of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4532, which is classified generally to chapter 33 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

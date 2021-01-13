@@ -4,6 +4,8 @@ The Librarian shall make the purchases of books for the law library, under the d
 
 (R.S. §84.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §84 derived from act July 14, 1832, ch. 221, §4, 4 Stat. 579.

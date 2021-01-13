@@ -12,7 +12,7 @@ The Administrator is authorized, without regard to sections 1341, 1342, and 1349
 
 <b>1996</b>—Pub. L. 104–106 substituted "June 30, 1997" for "June 30, 1996" in two places and "July 1, 1997" for "July 1, 1996".
 
-<b>1986</b>—Pub. L. 99–661, §3138(a), substituted "Los Alamos School Board shall not extend beyond June 30, 1996" for "Los Alamos School Board shall not extend beyond June 30, 1986" and "New Mexico, shall not extend beyond June 30, 1996" for "New Mexico, shall not extend beyond June 30, 1987".
+<b>1986</b>—Pub. L. 99–661, §3138(a), substituted "Los Alamos School Board shall not extend beyond June 30, 1996" for "Los Alamos School Board shall not extendbeyond June 30, 1986" and "New Mexico, shall not extend beyond June 30, 1996" for "New Mexico, shall not extend beyond June 30, 1987".
 
 Pub. L. 99–661, §3138(b)(1), inserted at end "The authority to enter into a contract under the preceding sentence with the Los Alamos School Board and with the county of Los Alamos, New Mexico, shall be effective with respect to a period before July 1, 1996, only to the extent or in such amounts as are provided in appropriation Acts."
 

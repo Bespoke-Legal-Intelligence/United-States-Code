@@ -18,5 +18,5 @@ The prioritization and direction of the Federally funded portfolio of pain resea
 
 #### Codification
 
-Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part ofthe Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Public Health Service Act which comprises this chapter.
 

@@ -10,9 +10,11 @@ Geothermal leases for lands withdrawn or acquired in aid of functions of the Dep
 
 #### (c) Exemption of certain Federal lands
 
-Geothermal leases under this chapter shall not be issued for lands administered in accordance with (1) the Act of August 25, 1916 (39 Stat. 535),<sup>1</sup> as amended or supplemented, (2) for lands within a national recreation area, (3) for lands in a fish hatchery administered by the Secretary, wildlife refuge, wildlife range, game range, wildlife management area, waterfowl production area, or for lands acquired or reserved for the protection and conservation of fish and wildlife that are threatened with extinction, (4) for tribally or individually owned Indian trust or restricted lands, within or without the boundaries of Indian reservations.
+Geothermal leases under this chapter shall not be issued for lands administered in accordance with (1) the Act of August 25, 1916 (39 Stat. 535),<sup>1</sup>as amended or supplemented, (2) for lands within a national recreation area, (3) for lands in a fish hatchery administered by the Secretary, wildlife refuge, wildlife range, game range, wildlife management area, waterfowl production area, or for lands acquired or reserved for the protection and conservation of fish and wildlife that are threatened with extinction, (4) for tribally or individually owned Indian trust or restricted lands, within or without the boundaries of Indian reservations.
 
 (Pub. L. 91–581, §15, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 95–91, title III, §301(b), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 578, 606, 607; Pub. L. 109–58, title II, §236(15), Aug. 8, 2005, 119 Stat. 672.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -22,9 +24,11 @@ The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (c), is act Au
 
 <b>2005</b>—Pub. L. 109–58 inserted section catchline.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The PublicHealth and Welfare, and which terminated Federal Power Commission and transferred its functions (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to sections 301(b), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(b), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Federal Power Commission and transferred its functions (with certain exceptions) to Secretary of Energy.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

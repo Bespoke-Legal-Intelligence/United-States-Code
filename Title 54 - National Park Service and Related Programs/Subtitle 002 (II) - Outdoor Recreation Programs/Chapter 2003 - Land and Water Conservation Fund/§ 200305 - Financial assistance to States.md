@@ -58,7 +58,7 @@ Provision of assistance when plan not otherwise available or to maintain plan.�
 
 &emsp;(4)
 
-Wetlands.—A comprehensive statewide outdoor recreation plan shall specifically address wetlands within the State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 301 of the Emergency Wetlands Resources Act of 1986 (16 U.S.C. 3921) or, if the national plan has not been completed, consistent with the provisions of that section.
+Wetlands.—A comprehensive statewide outdoor recreation plan shall specifically address wetlands within the State as an important outdoor recreation resource as a prerequisite to approval, except that a revised comprehensive statewide outdoor recreation plan shall not be required by the Secretary, if a State submits, and the Secretary, acting through the Director, approves, as a part of and as an addendum to the existing comprehensive statewide outdoor recreation plan, a wetlands priority plan developed in consultation with the State agency with responsibility for fish and wildlife resources and consistent with the national wetlands priority conservation plan developed under section 301 of the Emergency Wetlands Resources Act of 1986 (16 U.S.C. 3921) or, if the national plan hasnot been completed, consistent with the provisions of that section.
 
 (e)
 
@@ -94,7 +94,7 @@ Payments.—
 
 &emsp;(1)
 
-Criteria for making payments.—The Secretary may make a payment to a State only for a planning, acquisition, or development project that is approved by the Secretary. The Secretary shall not make a payment for or on account of any project with respect to which financial assistance has been given or promised under any other Federal program or activity, and no financial assistance shall be given under any other Federal program or activity for or on account of anyproject with respect to which the assistance has been given or promised under this chapter. The Secretary may make payments from time to time in keeping with the rate of progress toward the satisfactory completion of a project. The approval of all projects and all payments, or any commitments relating thereto, shall be withheld until the Secretary receives appropriate written assurance from the State that the State has the ability and intention to finance its share of the cost of all of the projects, and to operate and maintain by acceptable standards, at State expense, the properties or facilities acquired or developed for public outdoor recreation use.
+Criteria for making payments.—The Secretary may make a payment to a State only for a planning, acquisition, or development project that is approved by the Secretary. The Secretary shall not make a payment for or on account of any project with respect to which financial assistance has been given or promised under any other Federal program or activity, and no financial assistance shall be given under any other Federal program or activity for or on account of any project with respect to which the assistance has been given or promised under this chapter. The Secretary may make payments from time to time in keeping with the rate of progress toward the satisfactory completion of a project. The approval of all projects and all payments, or any commitments relating thereto, shall be withheld until the Secretary receives appropriate written assurance from the State that the State has the ability and intention to finance its share of the cost of all of the projects, and to operate and maintain by acceptable standards, at State expense, the properties or facilities acquired or developed for public outdoor recreation use.
 
 &emsp;(2)
 
@@ -195,6 +195,8 @@ In subsection (f)(2), the words "chief executive official" are substituted for "
 In subsection (j), the words "(including those conducted pursuant to title VII of the Housing Act of 1961 and section 701 of the Housing Act of 1954)" are omitted as obsolete. The authority to make grants or loans under title VII terminated on December 31, 1974. Section 701 was repealed by section 313(b) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 398).
 
 In subsection (k)(3), the words "and the remaining share of the cost shall be borne by the State" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

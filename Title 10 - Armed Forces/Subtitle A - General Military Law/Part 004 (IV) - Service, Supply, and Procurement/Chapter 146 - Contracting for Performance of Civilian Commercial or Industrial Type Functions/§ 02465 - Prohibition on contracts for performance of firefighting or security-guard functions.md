@@ -26,7 +26,7 @@
 
 <b>1988</b>—Pub. L. 100–370 renumbered section 2693 of this title as this section.
 
-<b>1987</b>—Pub. L. 100–180 inserted "or security-guard" before "functions" in section catchline and subsec. (a),and substituted "a function" for "the function" in subsec. (b)(1).
+<b>1987</b>—Pub. L. 100–180 inserted "or security-guard" before "functions" in section catchline and subsec. (a), and substituted "a function" for "the function" in subsec. (b)(1).
 
 #### Temporary Authority To Contract With Local and State Governments for Performance of Security Functions at United States Military Installations
 
@@ -38,7 +38,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title III, §355\], Oct. 30, 2000, 114 Stat
 
 "(a)
 
-Restriction on Conversion.—The Secretary of the Army may not convert to contractor performance the emergency response functions of any chemical weapons storage installation that, as of the date of the enactment of this Act \[Oct. 30, 2000\], are performed for that installation by employees of the United States until the certification required by subsection (c) has been submitted in accordance with that subsection.
+Restriction on Conversion.—The Secretary of the Army may not convert to contractor performance the emergency response functions of any chemical weapons storage installation that, as of the date of the enactment of this Act \[Oct. 30, 2000\], are performed for that installation by employees of the United Statesuntil the certification required by subsection (c) has been submitted in accordance with that subsection.
 
 "(b)
 

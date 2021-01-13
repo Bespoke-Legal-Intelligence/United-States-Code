@@ -1,6 +1,6 @@
 ### §11903. Record keeping and reporting violations
 
-A person required to make a report to the Board, or make, prepare, or preserve a record,under subchapter III of chapter 111 of this title about transportation subject to the jurisdiction of the Board under this part that knowingly and willfully—
+A person required to make a report to the Board, or make, prepare, or preserve a record, under subchapter III of chapter 111 of this title about transportation subject to the jurisdiction of the Board under this part that knowingly and willfully—
 
 &emsp;(1) makes a false entry in the report or record;
 

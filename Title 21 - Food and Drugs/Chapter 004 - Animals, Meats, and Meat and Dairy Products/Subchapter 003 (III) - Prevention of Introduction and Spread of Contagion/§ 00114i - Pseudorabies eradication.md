@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-Congress finds that efforts to eradicate pseudorabies in United States swine populations by the Department of Agriculture in cooperation with State agencies and the pork industry have a high priority and should be continueduntil pseudorabies is completely eradicated in the United States.
+Congress finds that efforts to eradicate pseudorabies in United States swine populations by the Department of Agriculture in cooperation with State agencies and the pork industry have a high priority and should be continued until pseudorabies is completely eradicated in the United States.
 
 #### (b) Establishment of program
 
@@ -17,6 +17,8 @@ The Secretary shall ensure that not less than 65 percent of the funds appropriat
 There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b).
 
 (Pub. L. 101–624, title XXV, §2506, Nov. 28, 1990, 104 Stat. 4068; Pub. L. 104–127, title IX, §916, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10505, May 13, 2002, 116 Stat. 511.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

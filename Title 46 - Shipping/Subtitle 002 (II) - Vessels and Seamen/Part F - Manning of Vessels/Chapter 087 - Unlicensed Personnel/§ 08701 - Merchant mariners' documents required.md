@@ -28,7 +28,7 @@
 
 (d) A person (including an individual) violating this section is liable to the United States Government for a civil penalty of $500.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(A), July 17, 1984, 98 Stat. 449; Pub. L. 99–640, §11(c), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 104–324, title VII, §731, title XI, §1104(e), Oct. 19, 1996, 110 Stat. 3940, 3967; Pub. L. 107–295, title III, §324(b), Nov. 25, 2002, 116 Stat. 2104.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 554; Pub. L. 98–364, title IV, §402(12)(A), July 17, 1984, 98 Stat.449; Pub. L. 99–640, §11(c), Nov. 10, 1986, 100 Stat. 3550; Pub. L. 104–324, title VII, §731, title XI, §1104(e), Oct. 19, 1996, 110 Stat. 3940, 3967; Pub. L. 107–295, title III, §324(b), Nov. 25, 2002, 116 Stat. 2104.)
 
 Historical and Revision Notes
 
@@ -56,6 +56,8 @@ Subsection (c) requires an individual to exhibit the required document to the ma
 
 Subsection (d) prescribes the penalty for violation of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(9), (10). Pub. L. 107–295 added par. (9) and redesignated former par. (9) as (10).
@@ -71,4 +73,32 @@ Subsec. (a)(9). Pub. L. 104–324, §1104(e), added par. (9).
 <b>1984</b>—Subsec. (a)(3). Pub. L. 98–364, §402(12)(A)(i), substituted "fishing, fish tender, or whaling" for "fishing or whaling".
 
 Subsec. (a)(6), (7). Pub. L. 98–364, §402(12)(A)(ii)– (iv), added pars. (6) and (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Non-Operating Individual
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8313(a), (b), Jan. 1, 2021, 134 Stat. 4697, 4698, provided that:
+
+"(a)
+
+In General.—The Secretary of the department in which the Coast Guard is operating shall not enforce section 8701 of title 46, United States Code, with respect to the following:
+
+&emsp;"(1) A vessel with respect to individuals, other than crew members required by the Certificate of Inspection or to ensure the safe navigation of the vessel and not a member of the steward's department, engaged on board for the sole purpose of carrying out spill response activities, salvage, marine firefighting, or commercial diving business or functions from or on any vessel, including marine firefighters, spill response personnel, salvage personnel, and commercial divers and diving support personnel.
+
+&emsp;"(2) An offshore supply vessel, an industrial vessel (as such term is defined in section 90.10–16 of title 46, Code of Federal Regulations), or other similarly engaged vessel with respect to persons engaged in the business of the ship on board the vessel—
+
+&emsp;&emsp;"(A) for—
+
+&emsp;&emsp;&emsp;"(i) supporting or executing the industrial business or function of the vessel;
+
+&emsp;&emsp;&emsp;"(ii) brief periods to conduct surveys or investigations, assess crew competence, conduct vessel trials, provide extraordinary security resources, or similar tasks not traditionally performed by the vessel crew; or
+
+&emsp;&emsp;&emsp;"(iii) performing maintenance tasks on equipment under warranty, or on equipment not owned by the vessel owner, or maintenance beyond the capability of the vessel crew to perform; and
+
+&emsp;&emsp;"(B) not the master or crew members required by the certificate of inspection and not a member of the steward's department.
+
+"(b)
+
+Sunset.—The prohibition in subsection (a) shall terminate on the date that is 2 years after the date of the enactment of this Act \[Jan. 1, 2021\]."
 

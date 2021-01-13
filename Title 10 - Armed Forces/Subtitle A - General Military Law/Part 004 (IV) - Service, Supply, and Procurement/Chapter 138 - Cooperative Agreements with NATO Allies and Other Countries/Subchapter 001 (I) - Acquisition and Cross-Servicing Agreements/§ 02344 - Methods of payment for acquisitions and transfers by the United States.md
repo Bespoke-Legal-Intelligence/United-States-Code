@@ -1,6 +1,6 @@
 ### §2344. Methods of payment for acquisitions and transfers by the United States
 
-(a) Logistics support, supplies, and services may be acquired or transferred by the United States under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
+(a) Logistics support, supplies, and services may be acquired or transferred by the UnitedStates under the authority of this subchapter on a reimbursement basis or by replacement-in-kind or exchange of supplies or services of an equal value.
 
 (b)(1) In entering into agreements with the Government of another North Atlantic Treaty Organization country or other foreign country for the acquisition or transfer of logistic support, supplies, and services on a reimbursement basis, the Secretary of Defense shall negotiate for adoption of the following pricing principles for reciprocal application:
 
@@ -16,7 +16,7 @@
 
 (3) To the extent that indirect costs (including charges for plant and production equipment), administrative surcharges, and contract administration costs with respect to any North Atlantic Treaty Organization country or other foreign country are not waived by operation of the reciprocal pricing principles of paragraph (1), the Secretary of Defense may, on a reciprocal basis, agree to waive such costs.
 
-(4) The pricing principles set forth in paragraph (2) and the waiver authority provided in paragraph (3) shall also apply to agreementswith North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
+(4) The pricing principles set forth in paragraph (2) and the waiver authority provided in paragraph (3) shall also apply to agreements with North Atlantic Treaty Organization subsidiary bodies and the United Nations Organization or any regional international organization under this subchapter.
 
 (c) In acquiring or transferring logistics support, supplies, or services under the authority of this subchapter by exchange of supplies or services, the Secretary of Defense may not agree to or carry out the following:
 

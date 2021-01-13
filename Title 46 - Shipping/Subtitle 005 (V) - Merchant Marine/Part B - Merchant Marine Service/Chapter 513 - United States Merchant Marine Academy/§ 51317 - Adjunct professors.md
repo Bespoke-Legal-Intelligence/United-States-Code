@@ -16,6 +16,8 @@ Contract Requirements.—Each contract under the program—
 
 (Added Pub. L. 111–84, div. C, title XXXV, §3503(a), Oct. 28, 2009, 123 Stat. 2719; amended Pub. L. 115–91, div. C, title XXXV, §3509, Dec. 12, 2017, 131 Stat. 1916.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–91, §3509(1)(A), struck out "and" at end.

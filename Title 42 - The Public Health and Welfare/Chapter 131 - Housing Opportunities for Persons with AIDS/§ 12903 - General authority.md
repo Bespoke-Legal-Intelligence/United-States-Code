@@ -22,7 +22,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;&emsp;&emsp;(II) States with more than 2,000 individuals living with HIV or AIDS outside of metropolitan statistical areas.
 
-&emsp;&emsp;&emsp;(ii) 25 percent of such amounts among States and metropolitan statistical areasbased on the method described in subparagraph (C).
+&emsp;&emsp;&emsp;(ii) 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
 
 #### (B) Source of data
 

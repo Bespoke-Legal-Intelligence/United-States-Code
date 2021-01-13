@@ -16,7 +16,7 @@
 
 #### (b) Receipt
 
-Under such regulations as the Secretary may prescribe, fermented materials to be used in the production of distilled spirits may be received on the bonded premises of a distilled spirits plant authorized to produce distilled spirits as follows—
+Under such regulations as the Secretary may prescribe, fermented materials to be used in theproduction of distilled spirits may be received on the bonded premises of a distilled spirits plant authorized to produce distilled spirits as follows—
 
 &emsp;(1) from the premises of a bonded wine cellar authorized to remove such material by section 5362(c)(6);
 

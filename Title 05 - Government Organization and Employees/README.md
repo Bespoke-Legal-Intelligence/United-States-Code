@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted "Civil Service Functions and Responsibilities" for "The United States Civil Service Commission" in item for part II.
@@ -5577,6 +5579,8 @@ Elim.
 
 5911
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
 Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378, provided in part: "That the laws relating to the organization of the Government of the United States and to its civilian officers and employees, generally, are revised, codified, and enacted as title 5 of the United States Code, entitled 'Government Organization and Employees', and may be cited as '5 U.S.C., §    '."
@@ -5595,7 +5599,7 @@ Pub. L. 89–554, §7(c), Sept. 6, 1966, 80 Stat. 631, provided that: "An order,
 
 #### Savings Provision
 
-Pub. L. 89–554, §7(d), Sept. 6, 1966, 80 Stat. 631, provided that: "An action taken or an offense committed under a law replaced by sections 1–6 of this Act isdeemed to have been taken or committed under the corresponding provision enacted by this Act."
+Pub. L. 89–554, §7(d), Sept. 6, 1966, 80 Stat. 631, provided that: "An action taken or an offense committed under a law replaced by sections 1–6 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act."
 
 #### Legislative Construction
 
@@ -5699,7 +5703,7 @@ Program Requirements.—The policies, processes, and procedures established purs
 
 &emsp;"(3) employees selected to perform interagency rotational service are selected in a fully open and competitive manner that is consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of title 5, United States Code, unless the Interagency Community of Interest position is otherwise exempt under another provision of law;
 
-&emsp;"(4) an employee performing service in a position in another agency pursuant to the program established under this section shall be entitled to return, within a reasonable period of time after the end of the periodof service, to the position held by the employee, or a corresponding or higher position, in his or her employing agency;
+&emsp;"(4) an employee performing service in a position in another agency pursuant to the program established under this section shall be entitled to return, within a reasonable period of time after the end of the period of service, to the position held by the employee, or a corresponding or higher position, in his or her employing agency;
 
 &emsp;"(5) an employee performing interagency rotational service shall have all the rights that would be available to the employee if the employee were detailed or assigned under a provision of law other than this section from the agency employing the employee to the agency in which the position in which the employee is serving is located; and
 

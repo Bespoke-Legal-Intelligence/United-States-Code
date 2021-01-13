@@ -20,7 +20,7 @@ In General.—(1) There is established within the Department a Center for Innova
 
 (5) In selecting a model for testing, the Secretary may consider, in addition to other factors identified in this subsection, the following factors:
 
-&emsp;(A) Whether the model includes a regular process for monitoring and updating patient care plans in a manner that is consistent with the needs and preferences of individuals receiving benefits under this chapter.
+&emsp;(A) Whether the model includes a regular process for monitoring and updating patientcare plans in a manner that is consistent with the needs and preferences of individuals receiving benefits under this chapter.
 
 &emsp;(B) Whether the model places the individual receiving benefits under this chapter (including family members and other caregivers of such individual) at the center of the care team of such individual.
 
@@ -94,7 +94,7 @@ Waiver of Authorities.—(1) Subject to reporting under paragraph (2) and approv
 
 &emsp;(ii) the matter after the resolving clause of which is as follows: "that Congress approves the request for a waiver under section 1703E(f) of title 38, United States Code, as submitted by the Secretary on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_", the blank space being filled with the appropriate date.
 
-(D)(i) Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House without amendment not later than 15 legislative days after the date of introduction thereof. If a committee fails to report the joint resolution within that period, the committee shall be dischargedfrom further consideration of the joint resolution.
+(D)(i) Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House without amendment not later than 15 legislative daysafter the date of introduction thereof. If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution.
 
 (ii) It shall be in order at any time after the third legislative day after each committee authorized to consider a joint resolution has reported or has been discharged from consideration of a joint resolution, to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on a joint resolution addressing a particular submission. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
@@ -144,7 +144,7 @@ Limitations.—(1) The Secretary may not carry out more than 10 pilot programs c
 
 &emsp;(i) the Secretary determines that the additional expenditure is necessary to carry out pilot programs under this section;
 
-&emsp;(ii) the Secretary submits to the Committees on Veterans' Affairs of the Senate and theHouse of Representatives a report setting forth the amount of the additional expenditure and a justification for the additional expenditure; and
+&emsp;(ii) the Secretary submits to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report setting forth the amount of the additional expenditure and a justification for the additional expenditure; and
 
 &emsp;(iii) the Chairmen of the Committees on Veterans' Affairs of the Senate and the House of Representatives transmit to the Secretary a letter approving of the additional expenditure.
 
@@ -190,11 +190,13 @@ Expansion of Successful Pilot Programs.—Taking into account the evaluation und
 
 (Added Pub. L. 115–182, title I, §152(a), June 6, 2018, 132 Stat. 1432.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(6)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. Law 115–182, which was approved June 6, 2018.
+The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

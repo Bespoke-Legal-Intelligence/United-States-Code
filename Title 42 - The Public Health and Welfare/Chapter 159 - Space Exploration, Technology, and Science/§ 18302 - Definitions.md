@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Near-Earth space
 
-&emsp;The term "near-Earth space" means the region of space that includes low-Earth orbitand extends out to and includes geo-synchronous orbit.
+&emsp;The term "near-Earth space" means the region of space that includes low-Earth orbit and extends out to and includes geo-synchronous orbit.
 
 #### (8) NOAA
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;Such initial evaluation shall consist of procedures—
 
-&emsp;&emsp;&emsp;&emsp;(I) to determine whether a child is a child with a disability (as defined in 1401of this title) within 60 days of receiving parental consent for the evaluation, or, if the State establishes a timeframe within which the evaluation must be conducted, within such timeframe; and
+&emsp;&emsp;&emsp;&emsp;(I) to determine whether a child is a child with a disability (as defined in 1401 of this title) within 60 days of receiving parental consent for the evaluation, or, if the State establishes a timeframe within which the evaluation must be conducted, within such timeframe; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to determine the educational needs of such child.
 
@@ -50,7 +50,7 @@
 
 #### (II) For services
 
-&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and related services to the child by utilizing the procedures described in section 1415 of this title.
+&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and relatedservices to the child by utilizing the procedures described in section 1415 of this title.
 
 #### (III) Effect on agency obligations
 
@@ -320,7 +320,7 @@
 
 #### (i) Attendance not necessary
 
-&emsp;&emsp;&emsp;A member of the IEP Team shall not be required to attend an IEP meeting, in whole or in part, if the parent of a child with a disability and the local educational agency agree that the attendance of suchmember is not necessary because the member's area of the curriculum or related services is not being modified or discussed in the meeting.
+&emsp;&emsp;&emsp;A member of the IEP Team shall not be required to attend an IEP meeting, in whole or in part, if the parent of a child with a disability and the local educational agency agree that the attendance of such member is not necessary because the member's area of the curriculum or related services is not being modified or discussed in the meeting.
 
 #### (ii) Excusal
 
@@ -358,7 +358,7 @@
 
 #### (I) Transfer within the same State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the localeducational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
 
 #### (II) Transfer outside State
 
@@ -394,7 +394,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a child with limited English proficiency, consider the language needs of the child as such needs relate to the child's IEP;
 
-&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless theIEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
+&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
 
 &emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communication needs, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
 
@@ -506,7 +506,7 @@
 
 #### (6) Failure to meet transition objectives
 
-&emsp;If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
+&emsp;If a participating agency, other than the local educational agency, fails to provide thetransition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
 
 #### (7) Children with disabilities in adult prisons
 

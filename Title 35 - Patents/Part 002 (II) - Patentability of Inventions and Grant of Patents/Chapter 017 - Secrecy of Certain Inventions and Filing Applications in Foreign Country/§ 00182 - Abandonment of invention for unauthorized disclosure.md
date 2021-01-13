@@ -10,11 +10,15 @@ Based on Title 35, U.S.C., 1946 ed., §152 (Feb. 1, 1952, ch. 4, §2, 66 Stat. 4
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 struck out "of this title" after "181".
 
 <b>1999</b>—Pub. L. 106–113 substituted "Commissioner of Patents" for "Commissioner" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

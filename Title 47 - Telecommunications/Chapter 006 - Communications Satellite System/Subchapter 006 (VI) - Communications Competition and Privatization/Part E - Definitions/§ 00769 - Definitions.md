@@ -54,7 +54,7 @@ As used in this subchapter:
 
 #### (10) Space segment
 
-&emsp;The term "space segment" means the satellites, and the tracking, telemetry, command, control, monitoring and related facilities and equipment used to support the operation of satellites owned or leased by INTELSAT, Inmarsat, or a separated entity or successor entity.
+&emsp;The term "space segment" means the satellites, and the tracking, telemetry, command,control, monitoring and related facilities and equipment used to support the operation of satellites owned or leased by INTELSAT, Inmarsat, or a separated entity or successor entity.
 
 #### (11) Non-core services
 
@@ -86,7 +86,7 @@ As used in this subchapter:
 
 #### (16) Inmarsat Convention
 
-&emsp;The term "Inmarsat Convention" means the Convention on the International MaritimeSatellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
+&emsp;The term "Inmarsat Convention" means the Convention on the International Maritime Satellite Organization (Inmarsat) (TIAS 9605, 31 UST 1).
 
 #### (17) National corporation
 
@@ -113,6 +113,8 @@ As used in this subchapter:
 Except as otherwise provided in subsection (a), terms used in this subchapter that are defined in section 153 of this title have the meanings provided in such section.
 
 (Pub. L. 87–624, title VI, §681, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 58.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

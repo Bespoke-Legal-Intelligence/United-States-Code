@@ -70,5 +70,5 @@ Subsequent Appeal Rights of Accused Not Affected.—An appeal under paragraph (4
 
 #### Prior Provisions
 
-A prior section 950d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by the United States, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by theUnited States, prior to the general amendment of this chapter by Pub. L. 111–84.
 

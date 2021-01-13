@@ -74,7 +74,7 @@ Limitations on partial permit program returns and withdrawals.—A State may ret
 
 (3) The Administrator may, as to any permit application, waive paragraph (2) of this subsection.
 
-(4) In any case where, after December 27, 1977, the Administrator, pursuant to paragraph (2) of this subsection, objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing, or, if no hearing is requested within 90 days after thedate of such objection, the Administrator may issue the permit pursuant to subsection (a) of this section for such source in accordance with the guidelines and requirements of this chapter.
+(4) In any case where, after December 27, 1977, the Administrator, pursuant to paragraph (2) of this subsection, objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing, or, if no hearing is requested within 90 days after the date of such objection, the Administrator may issue the permit pursuant to subsection (a) of this section for such source in accordance with the guidelines and requirements of this chapter.
 
 #### (e) Waiver of notification requirement
 
@@ -176,7 +176,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(D) the permittee has received a permit modification under section 1311(c), 1311(g), 1311(h), 1311(i), 1311(k), 1311(n), or 1326(a) of this title; or
 
-&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved (but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
+&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved\(but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
 
 > &emsp;Subparagraph (B) shall not apply to any revised waste load allocations or any alternative grounds for translating water quality standards into effluent limitations, except where the cumulative effect of such revised allocations results in a decrease in the amount of pollutants discharged into the concerned waters, and such revised allocations are not the result of a discharger eliminating or substantially reducing its discharge of pollutants due to complying with the requirements of this chapter or for reasons otherwise unrelated to water quality.
 
@@ -238,7 +238,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(B) determining, to the maximum extent practicable, the nature and extent of pollutants in such discharges; and
 
-&emsp;&emsp;(C) establishing procedures and methods to control stormwater discharges to the extentnecessary to mitigate impacts on water quality.
+&emsp;&emsp;(C) establishing procedures and methods to control stormwater discharges to the extent necessary to mitigate impacts on water quality.
 
 > &emsp;Not later than October 1, 1988, the Administrator shall submit to Congress a report on the results of the study described in subparagraphs (A) and (B). Not later than October 1, 1989, the Administrator shall submit to Congress a report on the results of the study described in subparagraph (C).
 
@@ -314,7 +314,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (C) Review
 
-&emsp;&emsp;A schedule of compliance incorporated into a permit issued under this section maybe reviewed at the time the permit is renewed to determine whether the schedule should be modified.
+&emsp;&emsp;A schedule of compliance incorporated into a permit issued under this section may be reviewed at the time the permit is renewed to determine whether the schedule should be modified.
 
 #### (5) Existing authorities retained
 
@@ -324,7 +324,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (B) Flexibility
 
-&emsp;&emsp;Nothing in this subsection reduces or eliminates any flexibility available under this chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under section 1313(c) of this title.
+&emsp;&emsp;Nothing in this subsection reduces or eliminates any flexibility available underthis chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under section 1313(c) of this title.
 
 #### (6) Clarification of State authority
 
@@ -337,6 +337,8 @@ No permit shall be required under this chapter by the Administrator (or a State,
 &emsp;&emsp;In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
 
 (June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, §12313, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–436, §3(a), Jan. 14, 2019, 132 Stat. 5558.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -378,6 +380,8 @@ Subsec. (h). Pub. L. 95–217, §66, substituted "where no State program is appr
 
 Subsec. (l). Pub. L. 95–217, §33(c), added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -386,7 +390,7 @@ Enforcement functions of Administrator or other official of the Environmental Pr
 
 #### Permit Requirements for Discharges From Certain Vessels
 
-Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, §1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, §903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
+Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, §1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, §903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
 
 #### Stormwater Permit Requirements
 
@@ -470,7 +474,7 @@ Log Transfer Facility Defined.—For the purposes of this section, the term 'log
 
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 
-Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approvedunder this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

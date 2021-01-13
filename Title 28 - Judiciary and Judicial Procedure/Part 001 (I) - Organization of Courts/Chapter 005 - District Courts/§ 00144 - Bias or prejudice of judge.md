@@ -20,9 +20,13 @@ Changes were made in phraseology and arrangement.
 
 This amendment clarifies the intent in section 144 of title 28, U.S.C., to conform to the law as it existed at the time of the enactment of the revision limiting the filing of affidavits of prejudice to one such affidavit in any case.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1949</b>—Act May. 24, 1949, substituted "in any case" for "as to any judge" in second sentence of second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Terms
 

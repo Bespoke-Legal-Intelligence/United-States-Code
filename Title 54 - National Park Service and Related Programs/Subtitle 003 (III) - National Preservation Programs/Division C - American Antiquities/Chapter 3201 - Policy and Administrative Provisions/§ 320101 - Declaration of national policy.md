@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Aug. 21, 1935, ch. 593, §1, 49 Stat. 666.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 National Historic Sites
 
 &nbsp;
@@ -54,7 +56,7 @@ Edison National Historic Site \[references to Edison National Historic Site deem
 
 Eisenhower National Historic Site, Pennsylvania.—33 F.R. 16031, Nov. 27, 1967; Pub. L. 91–133, Dec. 2, 1969, 83 Stat. 274.
 
-Eleanor Roosevelt National Historic Site, New York.—Pub. L. 95–32, May 26, 1977, 91 Stat. 171; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300.
+Eleanor Roosevelt National Historic Site, New York.—Pub. L. 95–32, May 26, 1977, 91 Stat. 171; Pub. L. 105–364, Nov. 10, 1998, 112 Stat. 3300.
 
 Eugene O'Neill National Historic Site, California.—Pub. L. 94–539, §§1, 2, Oct. 18, 1976, 90 Stat. 2501.
 
@@ -92,7 +94,7 @@ Georgia O'Keeffe National Historic Site, New Mexico.—Pub. L. 96–344, §3, Se
 
 Golden Spike National Historic Site, Utah \[redesignated Golden Spike National Historical Park by Pub. L. 116–9, title II, §2205(b), Mar. 12, 2019, 133 Stat. 738 (16 U.S.C. 410cccc et seq.)\].—Pub. L. 89–102, July 30, 1965, 79 Stat. 426; Pub. L. 94–578, title II, §201(5), Oct. 21, 1976, 90 Stat. 2733.
 
-Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632; Pub. L. 105–365, Nov. 6, 1998, 112 Stat. 3301.
+Grant-Kohrs Ranch National Historic Site, Montana.—Pub. L. 92–406, Aug. 25, 1972, 86 Stat. 632; Pub. L. 105–365, Nov. 10, 1998, 112 Stat. 3301.
 
 Grey Towers National Historic Site, Pennsylvania.—Pub. L. 108–447, div. E, title III, §348, Dec. 8, 2004, 118 Stat. 3106.
 
@@ -102,7 +104,7 @@ Harry S Truman National Historic Site, Missouri.—Pub. L. 98–32, May 23, 1983
 
 Herbert Hoover National Historic Site, Iowa.—Pub. L. 89–119, Aug. 12, 1965, 79 Stat. 510.
 
-Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944; Pub. L. 105–364, Nov. 6, 1998, 112 Stat. 3300; Pub. L. 106–147, Dec. 9, 1999, 113 Stat. 1717; Pub. L. 116–9, title II, §2110, Mar. 12, 2019, 133 Stat. 733.
+Home of Franklin D. Roosevelt National Historic Site, New York.—Designated Jan. 15, 1944; Pub. L. 105–364, Nov. 10, 1998, 112 Stat. 3300; Pub. L. 106–147, Dec. 9, 1999, 113 Stat. 1717; Pub. L. 116–9, title II, §2110, Mar. 12, 2019, 133 Stat. 733.
 
 Honouliuli National Historic Site, Hawai'i.—Pub. L. 116–9, title II, §2206(d), Mar. 12, 2019, 133 Stat. 741.
 
@@ -114,7 +116,7 @@ James A. Garfield National Historic Site, Ohio.—Pub. L. 96–607, title XII, D
 
 Jefferson National Expansion Memorial, National Historical Site, Missouri \[redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328 (16 U.S.C. 450jj–10)\].—Designated Dec. 21, 1935.
 
-Jimmy Carter National Historic Site, Georgia.—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434; Pub. L. 105–106, §1, Nov. 20, 1997, 111 Stat. 2247.
+Jimmy Carter National Historic Site, Georgia \[redesignated Jimmy Carter National Historical Park by Pub. L. 116–341, §2(a), Jan. 13, 2021, 134 Stat. 5132 (16 U.S.C. 410hhhh et seq.)\].—Pub. L. 100–206, Dec. 23, 1987, 101 Stat. 1434; Pub. L. 105–106, §1, Nov. 20, 1997, 111 Stat. 2247.
 
 John Fitzgerald Kennedy National Historic Site, Massachusetts.—Pub. L. 90–20, May 26, 1967, 81 Stat. 29.
 
@@ -196,7 +198,7 @@ Ulysses S. Grant National Historic Site, Missouri.—Pub. L. 101–106, Oct. 2, 
 
 Vanderbilt Mansion National Historic Site, New York.—Designated Dec. 18, 1940.
 
-Weir Farm National Historic Site, Connecticut.—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1, Nov. 6, 1998, 112 Stat. 3296; Pub. L. 111–11, title VII, §7102, Mar. 30, 2009, 123 Stat. 1190.
+Weir Farm National Historic Site, Connecticut \[redesignated Weir Farm National Historical Park by Pub. L. 116–305, §2(a), Jan. 5, 2021, 134 Stat. 4917 (16 U.S.C. 410ffff et seq.)\].—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1, Nov. 10, 1998, 112 Stat. 3296; Pub. L. 111–11, title VII, §7102, Mar. 30, 2009, 123 Stat. 1190.
 
 William Howard Taft National Historic Site, Ohio.—Pub. L. 91–132, Dec. 2, 1969, 83 Stat. 273; Pub. L. 107–60, Nov. 5, 2001, 115 Stat. 408.
 
@@ -276,7 +278,7 @@ Journey Through Hallowed Ground National Heritage Area, Maryland, Pennsylvania, 
 
 Kenai Mountains-Turnagain Arm National Heritage Area, Alaska.—Pub. L. 111–11, title VIII, §8010, Mar. 30, 2009, 123 Stat. 1282.
 
-Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, §1404(d), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(d), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(D)(i), (2), Dec. 19, 2014, 128 Stat. 3802.
+Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, §1404(d), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(d), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(D)(i), (2), Dec. 19, 2014, 128 Stat. 3802; Pub. L. 116–260, div. G, title I, §113(b), Dec. 27, 2020, 134 Stat. 1505.
 
 Maritime Washington National Heritage Area, Washington.—Pub. L. 116–9, title VI, §6001(a)(2), Mar. 12, 2019, 133 Stat. 769.
 
@@ -342,7 +344,7 @@ National Heritage Partnerships
 
 &nbsp;
 
-America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iv), Dec. 19, 2014, 128 Stat. 3801.
+America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420; Pub. L. 113–76, div. G, title I, §119(a), Jan. 17, 2014, 128 Stat. 314; Pub. L. 113–291, div. B, title XXX, §3052(a)(1)(B)(iv), Dec. 19, 2014, 128 Stat. 3801; Pub. L. 116–260, div. G, title I, §113(a), Dec. 27, 2020, 134 Stat. 1505.
 
 Champlain Valley National Heritage Partnership, New York and Vermont.—Pub. L. 109–338, title II, §§281–289, Oct. 12, 2006, 120 Stat. 1819–1824.
 
@@ -398,7 +400,7 @@ Report.—Based on the evaluation conducted under subparagraph (A)(i), the Secre
 
 #### Crossroads of the West Historic District
 
-Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established the Crossroads of the West Historic District in Ogden, Utah, provided that the Secretary of the Interior could make grants and enter into cooperative agreements with the State of Utah, local governments, and nonprofit entities for the preparation of a plan for the development of historic, architectural, natural, cultural, and interpretive resources within theDistrict, for implementation of projects approved by the Secretary under that development plan, for an analysis assessing measures that could be taken to encourage economic development and revitalization within the District in a manner consistent with the District's historic character, and for assisting in the restoration, repair, rehabilitation and improvement of historic infrastructure, and the preservation and interpretation of properties, within the District, set forth the application process, and authorized appropriations.
+Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established the Crossroads of the West Historic District in Ogden, Utah, provided that the Secretary of the Interior could make grants and enter into cooperative agreements with the State of Utah, local governments, and nonprofit entities for the preparation of a plan for the development of historic, architectural, natural, cultural, and interpretive resources within the District, for implementation of projects approved by the Secretary under that development plan, for an analysis assessing measures that could be taken to encourage economic development and revitalization within the District in a manner consistent with the District's historic character, and for assisting in the restoration, repair, rehabilitation and improvement of historic infrastructure, and the preservation and interpretation of properties, within the District, set forth the application process, and authorized appropriations.
 
 #### Route 66 Corridor
 
@@ -406,7 +408,7 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, as amended by Pub. L. 111–11, 
 
 #### Chesapeake Bay Initiative
 
-Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448; Pub. L. 111–212, title III, §3005, July 29, 2010, 124 Stat. 2339; Pub. L. 112–74, div. E, title I, Dec. 23, 2011, 125 Stat. 991; Pub. L. 113–76, div. G, title IV, §428, Jan. 17, 2014, 128 Stat. 345; Pub. L. 114–113, div. G, title IV, §422, Dec. 18, 2015, 129 Stat. 2579; Pub. L. 115–141, div. G, title IV, §420, Mar. 23, 2018, 132 Stat. 691; Pub. L. 116–188, title I, §110, Oct. 30, 2020, 134 Stat. 920, known as the Chesapeake Bay Initiative Act of 1998, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
 #### Vancouver National Historic Reserve
 
@@ -440,7 +442,7 @@ Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
 "(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
-"(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (\[former\] 16 U.S.C. 1 and following) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act approved August 21, 1935 \[see 18 U.S.C. 1866(a), 54 U.S.C. 102303, 102304, 320101 et seq.\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structuraland other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
+"(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (\[former\] 16 U.S.C. 1 and following) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\] and the Act approved August 21, 1935 \[see 18 U.S.C. 1866(a), 54 U.S.C. 102303, 102304, 320101 et seq.\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
 
 #### Ebey's Landing National Historical Reserve
 
@@ -484,6 +486,8 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 "(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section."
 
+#### <b>Executive Documents</b>
+
 #### Proc. No. 3339. Establishment of Key Largo Coral Reef Preserve
 
 Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, provided:
@@ -504,7 +508,7 @@ WHEREAS the United States and the State of Florida are desirous of cooperating f
 
 WHEREAS by the terms of the Outer Continental Shelf Lands Act the United States has jurisdiction over the lands of the outer Continental Shelf and has the exclusive right to dispose of the natural resources of the sea bed and subsoil thereof; and
 
-WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43,Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
+WHEREAS section 12(a) of the Outer Continental Shelf Lands Act \[subsec. (a) of section 1341 of Title 43, Public Lands\] authorizes the President to withdraw from disposition any of the unleased lands of the outer Continental Shelf; and
 
 WHEREAS section 5 of the Outer Continental Shelf Lands Act \[section 1334 of Title 43\] authorizes the Secretary of the Interior to prescribe rules and regulations for the conservation of the natural resources of the outer Continental Shelf and to cooperate with the conservation agencies of adjacent States in the enforcement of conservation laws, rules, and regulations:
 

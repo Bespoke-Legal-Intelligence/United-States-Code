@@ -4,6 +4,8 @@ The right to redeem provided for by section 2410(c) of title 28, shall not arise
 
 (Apr. 20, 1950, ch. 94, title V, §505, 64 Stat. 81; Pub. L. 85–857, §13(q), Sept. 2, 1958, 72 Stat. 1266.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
@@ -15,6 +17,8 @@ Section was enacted as part of the Housing Act of 1950, and not as part of the N
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–857 struck out provisions which related to the right to redeem in cases in which the subordinate lien or interest derives from the issuance of guaranties of insurance under the Serviceman's Readjustment Act of 1944, as amended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

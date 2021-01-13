@@ -46,6 +46,8 @@ there <sup>1</sup> is hereby authorized to be appropriated to carry out the pro
 
 (Pub. L. 101–630, title IV, §409, Nov. 28, 1990, 104 Stat. 4551; Pub. L. 104–16, §1, June 21, 1995, 109 Stat. 190.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–16 substituted "1995, 1996, and 1997" for "and 1995".

@@ -10,7 +10,7 @@ Responsibility of Secretaries of Military Departments.—Subject to the authorit
 
 (c)
 
-Assignment of Responsibility to Other Components of DOD.—After consultation with the Secretaries of the military departments, the Secretary of Defense may assign the responsibility (or any part of the responsibility) for the administration and support of forces assigned to the combatant commands to other components of the Department of Defense (including Defense Agencies and combatant commands). A component assigned such a responsibility shall discharge that responsibility subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under section 164(c) of this title.
+Assignment of Responsibility to Other Components of DOD.—After consultation with the Secretaries of the military departments, the Secretary of Defense may assign the responsibility (or any part of the responsibility) for the administration and support of forces assigned to the combatant commands to other componentsof the Department of Defense (including Defense Agencies and combatant commands). A component assigned such a responsibility shall discharge that responsibility subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under section 164(c) of this title.
 
 (Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1016.)
 

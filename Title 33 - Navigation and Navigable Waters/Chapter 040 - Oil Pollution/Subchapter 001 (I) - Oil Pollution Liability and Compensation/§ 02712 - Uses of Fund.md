@@ -14,19 +14,17 @@ The Fund shall be available to the President for—
 
 &emsp;(3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
 
-&emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
+&emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages; and
 
 &emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (l) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
-&emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
+&emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operations and support incurred by the Coast Guard;
 
 &emsp;&emsp;(B) not more than $15,000,000 in each fiscal year shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred by, and activities related to, response and damage assessment capabilities of the National Oceanic and Atmospheric Administration;
 
 &emsp;&emsp;(C) not more than $30,000,000 each year through the end of fiscal year 1992 shall be available to establish the National Response System under section 1321(j) of this title, including the purchase and prepositioning of oil spill removal equipment; and
 
-&emsp;&emsp;(D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter; and
-
-&emsp;(6) the making of loans pursuant to the program established under section 2713(f) of this title.
+&emsp;&emsp;(D) not more than $27,250,000 in each fiscal year shall be available to carry out subchapter IV of this chapter.
 
 #### (b) Defense to liability for Fund
 
@@ -150,13 +148,39 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 &emsp;Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
-(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305.)
+(Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8302(a), 8303(b), title LVXXXV \[LXXXV\], §8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8302, Jan. 1, 2021, 134 Stat. 4692, provided that, effective 180 days after Jan. 1, 2021, subsection (b) of this section is amended—</i>
+
+<i>(1) by striking "The" and inserting the following:</i>
+
+#### <i>"(1) In general</i>
+
+&emsp;<i>The"; and</i>
+
+<i>(2) by adding at the end the following:</i>
+
+#### <i>"(2) Subrogated rights</i>
+
+&emsp;<i>"Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title, Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation."</i>
+
+<i>See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former section 1223 of this title and enacted provisions formerly set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former section 1223 of this title and enacted provisions formerly set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(5)(A). Pub. L. 116–283, §8513(c), substituted "operations and support" for "operating expenses".
+
+Subsec. (a)(6). Pub. L. 116–283, §8303(b), struck out par. (6) which read as follows: "the making of loans pursuant to the program established under section 2713(f) of this title."
+
+Subsec. (b). Pub. L. 116–283, §8302(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–282, §816(1), struck out subsec. (g) which related to audits.
 
@@ -176,6 +200,18 @@ Subsec. (l). Pub. L. 111–281, §708(b)(2), added subsec. (l).
 
 <b>2004</b>—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8302(b), Jan. 1, 2021, 134 Stat. 4692, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act \[Jan. 1, 2021\]."
+
+#### Use of Fund for Spills of National Significance
+
+Pub. L. 112–74, div. D, title V, §563, Dec. 23, 2011, 125 Stat. 981, provided that: "For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: <i>Provided</i>, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited."
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -189,8 +225,4 @@ Functions of President under subsec. (a)(2) of this section delegated to Federal
 Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (l) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
 
 Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
-
-#### Use of Fund for Spills of National Significance
-
-Pub. L. 112–74, div. D, title V, §563, Dec. 23, 2011, 125 Stat. 981, provided that: "For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: <i>Provided</i>, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited."
 

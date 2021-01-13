@@ -40,7 +40,7 @@
 
 &emsp;(4) in any case, reimburse the victim for lost income and necessary child care, transportation, and other expenses related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
 
-&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents, make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate; and
+&emsp;(5) in any case, if the victim (or if the victim is deceased, the victim's estate) consents,make restitution in services in lieu of money, or make restitution to a person or organization designated by the victim or the estate; and
 
 &emsp;(6) in the case of an offense under sections 1028(a)(7) or 1028A(a) of this title, pay an amount equal to the value of the time reasonably spent by the victim in an attempt to remediate the intended or actual harm incurred by the victim from the offense.
 
@@ -69,6 +69,8 @@
 (d) An order of restitution made pursuant to this section shall be issued and enforced in accordance with section 3664.
 
 (Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1253, §3579; renumbered §3663 and amended Pub. L. 98–473, title II, §212(a)(1), (3), Oct. 12, 1984, 98 Stat. 1987, 2010; Pub. L. 98–596, §9, Oct. 30, 1984, 98 Stat. 3138; Pub. L. 99–646, §§8(b), 20(a), 77(a), 78(a), 79(a), Nov. 10, 1986, 100 Stat. 3593, 3596, 3618, 3619; Pub. L. 100–182, §13, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–185, §12, Dec. 11, 1987, 101 Stat. 1285; Pub. L. 100–690, title VII, §7042, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 101–647, title XXV, §2509, title XXXV, §3595, Nov. 29, 1990, 104 Stat. 4863, 4931; Pub. L. 103–272, §5(e)(12), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title IV, §§40504, 40505, Sept. 13, 1994, 108 Stat. 1947; Pub. L. 104–132, title II, §205(a), Apr. 24, 1996, 110 Stat. 1229; Pub. L. 104–294, title VI, §§601(r)(1), (2), 605(l), Oct. 11, 1996, 110 Stat. 3502, 3510; Pub. L. 106–310, div. B, title XXXVI, §3613(c), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 109–59, title VII, §7128(b), Aug. 10, 2005, 119 Stat. 1910; Pub. L. 110–326, title II, §202, Sept. 26, 2008, 122 Stat. 3561.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,6 +136,8 @@ Subsec. (g). Pub. L. 98–473, §212(a)(3)(A), amended subsec. (g) generally. Pr
 
 Subsec. (h). Pub. L. 98–473, §212(a)(3)(B), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "An order of restitution may be enforced by the United States in the manner provided for the collection of fines and penalties by section 3565 or by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
@@ -150,7 +154,7 @@ Amendment by section 20(a) of Pub. L. 99–646 effective Nov. 1, 1987, see secti
 
 Pub. L. 99–646, §77(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\]."
 
-Pub. L. 99–646, §78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30thday after the date of the enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §78(b), Nov. 10, 1986, 100 Stat. 3618, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 30th day after the date of the enactment of this Act \[Nov. 10, 1986\]."
 
 Pub. L. 99–646, §79(b), Nov. 10, 1986, 100 Stat. 3619, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1986\]."
 

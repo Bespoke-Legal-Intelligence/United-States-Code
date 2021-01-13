@@ -10,7 +10,31 @@
 
 (e) A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of section 31705 of title 49 may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in section 31701 of title 49) and, if so filed, shall be allowed as a single claim.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, §702, Apr. 20, 2005, 119 Stat. 125.)
+(f)(1) In this subsection—
+
+&emsp;(A) the term "CARES forbearance claim" means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057);
+
+&emsp;(B) the term "eligible creditor" means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) <sup>1</sup> with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+
+&emsp;(C) the term "Federally backed mortgage loan" has the meaning given the term in section 4022(a) of the CARES Act (15 U.S.C. 9056(a)); and
+
+&emsp;(D) the term "Federally backed multifamily mortgage loan" has the meaning given the term in section 4023(f) of the CARES Act (15 U.S.C. 9057(f)).
+
+(2)(A) Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.
+
+(B) If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
+
+&emsp;(i) the relevant terms of the modification or deferral;
+
+&emsp;(ii) for a modification or deferral that is in writing, a copy of the modification or deferral; and
+
+&emsp;(iii) a description of the payments to be deferred until the date on which the mortgage loan matures.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, §702, Apr. 20, 2005, 119 Stat. 125; Pub. L. 116–260, div. FF, title X, §1001(d)(1), (3)(A), Dec. 27, 2020, 134 Stat. 3217, 3218.)
+
+#### Amendment of Subsection (f)
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, ef</i><i>fective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (f). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -28,7 +52,7 @@ For purposes of section 501, a proof of "interest" includes the interest of a ge
 
 This section governs the means by which creditors and equity security holders present their claims or interests to the court. Subsection (a) permits a creditor to file a proof of claim or interest. An indenture trustee representing creditors may file a proof of claim on behalf of the creditors he represents.
 
-This subsection is permissive only, and does not require filing of a proof of claim by any creditor. It permits filing where some purpose would be served, such as where a claim that appears on a list filed under proposed 11 U.S.C. 924 or 1111 was incorrectly stated or listed as disputed, contingent, or unliquidated, where a creditor with a lien is undersecured and asserts a claim for the balance of the debt owed him (his unsecured claim, as determined under proposed 11 U.S.C. 506(a)), or in a liquidation case where there will be a distribution of assets to the holders of allowed claims. In other instances, such as in no-asset liquidation cases, in situations where a secured creditor does not assert any claim against the estate and a determination of his claim is not made under proposed 11 U.S.C. 506, or in situations where the claim asserted would be subordinated and the creditor would not recover from the estate in any event, filing of a proof of claim may simply not be necessary. The Rules of Bankruptcy Procedure and practice under the law will guide creditors as to when filing is necessary and when it may be dispensed with. In general, however, unless a claim is listed in achapter 9 or chapter 11 case and allowed as a result of the list, a proof of claim will be a prerequisite to allowance for unsecured claims, including priority claims and the unsecured portion of a claim asserted by the holder of a lien.
+This subsection is permissive only, and does not require filing of a proof of claim by any creditor. It permits filing where some purpose would be served, such as where a claim that appears on a list filed under proposed 11 U.S.C. 924 or 1111 was incorrectly stated or listed as disputed, contingent, or unliquidated, where a creditor with a lien is undersecured and asserts a claim for the balance of the debt owed him (his unsecured claim, as determined under proposed 11 U.S.C. 506(a)), or in a liquidation case where there will be a distribution of assets to the holders of allowed claims. In other instances, such as in no-asset liquidation cases, in situations where a secured creditor does not assert any claim against the estate and a determination of his claim is not made under proposed 11 U.S.C. 506, or in situations where the claim asserted would be subordinated and the creditor would not recover from the estate in any event, filing of a proof of claim may simply not be necessary. The Rules of Bankruptcy Procedure and practice under the law will guide creditors as to when filing is necessary and when it may be dispensed with. In general, however, unless a claim is listed in a chapter 9 or chapter 11 case and allowed as a result of the list, a proof of claim will be a prerequisite to allowance for unsecured claims, including priority claims and the unsecured portion of a claim asserted by the holder of a lien.
 
 The Rules of Bankruptcy Procedure will set the time limits, the form, and the procedure for filing, which will determine whether claims are timely or tardily filed. The rules governing time limits for filing proofs of claims will continue to apply under section 405(d) of the bill. These provide a 6-month-bar date for the filing of tax claims.
 
@@ -40,11 +64,23 @@ Subsection (d) governs the filing of claims of the kind specified in subsections
 
 Subsection (e) gives governmental units (including tax authorities) at least six months following the date for the first meeting of creditors in a chapter 7 or chapter 13 case within which to file proof of claims.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–260, §1001(d)(3)(A), struck out subsec. (f) which related to CARES forbearance claims.
+
+Pub. L. 116–260, §1001(d)(1), added subsec. (f).
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–353 inserted "502(e)(2),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment made by section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2005 Amendment
 
@@ -57,4 +93,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Child Support Creditors or Their Representatives; Appearance Before Court
 
 Pub. L. 103–394, title III, §304(g), Oct. 22, 1994, 108 Stat. 4134, provided that: "Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics."
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

@@ -36,7 +36,7 @@
 
 #### (B) Considerations
 
-&emsp;&emsp;In evaluating applications submitted under subparagraph (A), the Secretary shallconsider the existing infrastructure of the entity that would allow for the timely capture of biospecimens and related clinical and demographic information for children, adolescents, and young adults with cancer for whom current treatments are least effective.
+&emsp;&emsp;In evaluating applications submitted under subparagraph (A), the Secretary shall consider the existing infrastructure of the entity that would allow for the timely capture of biospecimens and related clinical and demographic information for children, adolescents, and young adults with cancer for whom current treatments are least effective.
 
 #### (5) Privacy protections and informed consent
 

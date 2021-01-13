@@ -4,7 +4,7 @@
 
 Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.
 
-(2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term, but may be reappointed as provided in paragraph (1).
+(2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term,but may be reappointed as provided in paragraph (1).
 
 (3) The President may extend to eight years the combined period of service of an officer as Chairman and Vice Chairman if the President determines that such action is in the national interest. The limitation in this paragraph does not apply in time of war.
 
@@ -14,7 +14,7 @@ Requirement for Appointment.—(1) The President may appoint an officer as Chair
 
 &emsp;(A) the Vice Chairman of the Joint Chiefs of Staff;
 
-&emsp;(B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps; or
+&emsp;(B) the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, or the Chief of Space Operations; or
 
 &emsp;(C) the commander of a unified or specified combatant command.
 
@@ -22,15 +22,19 @@ Requirement for Appointment.—(1) The President may appoint an officer as Chair
 
 (c)
 
-Grade and Rank.—The Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
+Grade and Rank.—The Chairman, while so serving, holds the grade of general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, §924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822.)
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(1)(B). Pub. L. 116–283, §924(b)(7)(A)(i), which directed substitution of "the Commandant of the Marine Corps, or the Chief of Space Operations" for "or the Commandant of the Marine Corps" in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 116–283, §924(b)(7)(A)(ii), which directed substitution of ", in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade," for "or, in the case of the Navy, admiral", was executed by making the substitution for "or, in the case of an officer of the Navy, admiral", to reflect the probable intent of Congress.
+
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §921(b)(1)(A), substituted "four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war." for "two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments."
 
-Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer mayserve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
+Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
 
 <b>1987</b>—Pub. L. 100–180 substituted "grade and rank" for "rank" in section catchline.
 

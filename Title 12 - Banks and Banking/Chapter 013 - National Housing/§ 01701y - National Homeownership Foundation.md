@@ -26,7 +26,7 @@
 
 #### (b) Board of Directors; appointment of members; Chairman; terms of office; reappointment; compensation and travel expenses; Executive Director and other officers; vacancies; by-laws
 
-(1) The Foundation shall have a Board of Directors consisting of eighteen members, fifteen of whom shall be appointed by the President of the United States, with the advice and consentof the Senate. The other three members shall be, ex officio, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director of the Office of Economic Opportunity. The President shall appoint one of the fifteen appointed members to serve as Chairman of the Board during his term of office as a member.
+(1) The Foundation shall have a Board of Directors consisting of eighteen members, fifteen of whom shall be appointed by the President of the United States, with the advice and consent of the Senate. The other three members shall be, ex officio, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director of the Office of Economic Opportunity. The President shall appoint one of the fifteen appointed members to serve as Chairman of the Board during his term of office as a member.
 
 (2) Within thirty days after August 1, 1968, the President shall appoint the fifteen appointed members of the Board. Not more than five of such members shall, at the time of their appointment, be serving full time as officers or employees of the Federal Government, or as officers or employees of any State or local government. Each appointed member of the Board shall hold office for a term of three years, except that (A) any member appointed to fill a vacancy prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (B) the terms of the members first taking office shall expire, as designated by the President at the time of appointment, five at the end of the first year, five at the end of the second year, and five at the end of the third year after the date of appointment. Members of the Board, however appointed, shall be eligible for reappointment, but at no time shall there be more than five members of the Board who at the time of their appointment or reappointment were full-time officers or employees of the Federal Government or of any State or local government.
 
@@ -50,7 +50,7 @@
 
 &emsp;(E) arrange for, or provide on a limited basis, training for persons in the skills needed in administering programs of homeownership and housing opportunity for lower income families;
 
-&emsp;(F) encourage research and innovation, and collect and make available such information as may be desirable to further the purposes of this section, including but not limited to such activities as the sponsoring of seminars, conferences, and meetings and the establishment of a continuing information program to acquaint lower income families with the means they can use to improve the quality of their housing and the homeownership and housing opportunities available to them;
+&emsp;(F) encourage research and innovation, and collect and make available such informationas may be desirable to further the purposes of this section, including but not limited to such activities as the sponsoring of seminars, conferences, and meetings and the establishment of a continuing information program to acquaint lower income families with the means they can use to improve the quality of their housing and the homeownership and housing opportunities available to them;
 
 &emsp;(G) assist private and public organizations in establishing, in connection with their homeownership and housing opportunity programs for lower income families, counseling and similar activities designed to advise lower income families of the means available to better themselves economically through job training and manpower development programs; and
 
@@ -84,7 +84,7 @@ The Foundation shall coordinate its activities and consult with the Department o
 
 #### (g) Audit of financial transaction; access to records; report of audit; contents of report
 
-(1) The financial transactions of the Foundation shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
+(1) The financial transactions of the Foundation shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balancesor securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
 
 (2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
 
@@ -96,11 +96,13 @@ Funds of the Foundation shall be deposited, to the extent practicable, in accoun
 
 There is authorized to be appropriated to the Foundation not to exceed $10,000,000 to carry out the purposes of this section. Appropriations made hereunder shall remain available until expended.
 
-(Pub. L. 90–448, title I, §107, Aug. 1, 1968, 82 Stat. 491; Pub. L. 93–604, title VI, §604, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 104–66, title I, §1072(b), Dec.21, 1995, 109 Stat. 721; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 90–448, title I, §107, Aug. 1, 1968, 82 Stat. 491; Pub. L. 93–604, title VI, §604, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 104–66, title I, §1072(b), Dec. 21, 1995, 109 Stat. 721; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(2), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Codification
 
@@ -115,6 +117,8 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 <b>1975</b>—Subsec. (g)(1). Pub. L. 93–604, §604(1), inserted provision that the audit under this subsection shall be made at least once in every three years.
 
 Subsec. (g)(2). Pub. L. 93–604, §604(2), substituted "six and one-half months following the close of the last year covered by such audit" for "January 15 following the close of the fiscal year for which the audit was made".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

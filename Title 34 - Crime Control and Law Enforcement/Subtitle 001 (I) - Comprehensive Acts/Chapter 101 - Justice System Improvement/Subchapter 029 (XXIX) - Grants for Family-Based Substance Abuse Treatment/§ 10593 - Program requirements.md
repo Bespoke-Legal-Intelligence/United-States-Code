@@ -16,7 +16,7 @@ A program for which a grant is made under section 10591(1) of this title shall c
 
 &emsp;(6) The program shall ensure that a determination is made as to whether a nonviolent drug offender has completed the substance abuse treatment program.
 
-&emsp;(7) The program shall include the implementation of a system of graduated sanctions (including incentives) that are applied based on the accountability of the nonviolent parentdrug offender involved throughout the course of that program to encourage compliance with that program.
+&emsp;(7) The program shall include the implementation of a system of graduated sanctions (including incentives) that are applied based on the accountability of the nonviolent parent drug offender involved throughout the course of that program to encourage compliance with that program.
 
 &emsp;(8) The program shall develop and implement a reentry plan for each participant.
 
@@ -40,6 +40,8 @@ The Attorney General shall give priority consideration to grant applications for
 
 (Pub. L. 90–351, title I, §2923, as added Pub. L. 110–199, title I, §113, Apr. 9, 2008, 122 Stat. 675; amended Pub. L. 115–391, title V, §502(b)(2), Dec. 21, 2018, 132 Stat. 5228.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3797s–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -47,6 +49,8 @@ Section was formerly classified to section 3797s–2 of Title 42, The Public Hea
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–391 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2008 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report by Secretary.—The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
+Annual Report by Secretary.—The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress notlater than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
 
 &emsp;(1) The number of cases reviewed by the Department of Labor under this chapter during the fiscal year for which the report is made.
 
@@ -58,6 +58,8 @@ Uniform Categorization of Data.—The Secretary shall coordinate with the Secret
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3168; amended Pub. L. 108–454, title II, §202, Dec. 10, 2004, 118 Stat. 3606; Pub. L. 110–181, div. A, title V, §595, Jan. 28, 2008, 122 Stat. 139; Pub. L. 110–389, title III, §312(a)–(d), Oct. 10, 2008, 122 Stat. 4164, 4165.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4332 was renumbered section 7632 of this title.
@@ -70,11 +72,13 @@ Pub. L. 110–181 added par. (2), redesignated former pars. (2) to (6) as (3) to
 
 Subsec. (a)(3). Pub. L. 110–389, §312(b)(2), inserted "and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year" before period at end.
 
-Subsec. (a)(5) to (10). Pub. L. 110–389, §312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted "(4), or (5)" for "or (4)".
+Subsec. (a)(5) to (10). Pub. L. 110–389, §312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars.\(5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted "(4), or (5)" for "or (4)".
 
 Subsecs. (b), (c). Pub. L. 110–389, §312(c), (d), added subsecs. (b) and (c).
 
 <b>2004</b>—Pub. L. 108–454 substituted "no later than February 1, 2005, and annually thereafter" for "no later than February 1, 1996, and annually thereafter through 2000" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

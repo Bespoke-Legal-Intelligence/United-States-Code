@@ -112,6 +112,8 @@ In this section:
 
 (Pub. L. 107–296, title XIX, §1923, formerly title XVIII, §1802, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932; renumbered title XIX, §1902, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294; amended Pub. L. 111–140, §4(a), Feb. 16, 2010, 124 Stat. 32; renumbered §1923 and amended Pub. L. 115–387, §2(a)(5), (6), Dec. 21, 2018, 132 Stat. 5163, 5164.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(10), is section 1036 of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2190, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
@@ -126,13 +128,15 @@ Subsec. (a)(11). Pub. L. 115–387, §2(a)(6)(B), substituted "Office" for "Dome
 
 Subsec. (b). Pub. L. 111–140, §4(a)(2), added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 111–140, §2, Feb. 16, 2010, 124 Stat. 31, provided that: "Congress finds the following:
 
 &emsp;"(1) The threat of a nuclear terrorist attack on American interests, both domestic and abroad, is one of the most serious threats to the national security of the United States. In the wake of an attack, attribution of responsibility would be of utmost importance. Because of the destructive power of a nuclear weapon, there could be little forensic evidence except the radioactive material in the weapon itself.
 
-&emsp;"(2) Through advanced nuclear forensics, using both existing techniques and those under development, it may be possible to identify the source and pathway of a weapon or material after it is interdicted or detonated. Though identifying intercepted smuggled material is now possible in some cases, pre-detonation forensics is a relatively undeveloped field. The post-detonation nuclear forensics field is also immature, and the challenges are compounded by the pressures and time constraints of performing forensics after a nuclear or radiological attack.
+&emsp;"(2) Through advanced nuclear forensics, using both existing techniques and those under development, it may be possible to identify the source and pathway of a weapon or material after it is interdicted or detonated. Though identifying intercepted smuggled material is now possible in some cases, pre-detonation forensics is a relatively undeveloped field. The post-detonation nuclear forensics field is also immature,and the challenges are compounded by the pressures and time constraints of performing forensics after a nuclear or radiological attack.
 
 &emsp;"(3) A robust and well-known capability to identify the source of nuclear or radiological material intended for or used in an act of terror could also deter prospective proliferators. Furthermore, the threat of effective attribution could compel improved security at material storage facilities, preventing the unwitting transfer of nuclear or radiological materials.
 

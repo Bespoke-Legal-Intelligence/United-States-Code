@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Department of Agriculture not to exceed$90,000,000 for each of the fiscal years 2015 through 2021, to carry out the purposes of this part, including administrative costs, and salaries and expenses of employees of the Department of Agriculture.
+There are authorized to be appropriated to the Department of Agriculture not to exceed $90,000,000 for each of the fiscal years 2015 through 2021, to carry out the purposes of this part, including administrative costs, and salaries and expenses of employees of the Department of Agriculture.
 
 #### (b) Proportionate reduction
 
@@ -16,7 +16,7 @@ If in any year the amount appropriated under this part is insufficient to meet t
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival notes below.
 

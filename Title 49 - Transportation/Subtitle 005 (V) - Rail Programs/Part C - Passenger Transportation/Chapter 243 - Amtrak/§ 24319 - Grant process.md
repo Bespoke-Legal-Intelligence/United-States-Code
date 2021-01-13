@@ -70,7 +70,7 @@ Schedule.—Except as provided in paragraph (3), in each fiscal year for which a
 
 Exceptions.—The Secretary may make a payment to Amtrak of appropriated funds—
 
-&emsp;&emsp;(A) more frequently than the schedule under paragraph (2) if Amtrak, for goodcause, requests more frequent payment before the end of a payment period; or
+&emsp;&emsp;(A) more frequently than the schedule under paragraph (2) if Amtrak, for good cause, requests more frequent payment before the end of a payment period; or
 
 &emsp;&emsp;(B) with a different frequency or in different percentage allocations in the event of a continuing resolution or in the absence of an appropriations Act for the duration of a fiscal year.
 

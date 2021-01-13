@@ -40,11 +40,15 @@ In this title— <sup>1</sup>
 
 (Pub. L. 109–295, title VI, §602, Oct. 4, 2006, 120 Stat. 1394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
 Section 314(a)(6) of this title, referred to in par. (13), was in the original "section 502(a)(6) of the Homeland Security Act 2002" and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -71,6 +75,10 @@ Exceptions.—The following shall take effect on March 31, 2007:
 &emsp;"(4) The amendments made by subsection (a) \[sic\].
 
 &emsp;"(5) The amendments made by subsection (b)(1) \[sic\]."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–272, §1, Dec. 31, 2020, 134 Stat. 3349, provided that: "This Act \[amending section 791 of this title and enacting provisions set out as notes under section 791 of this title\] may be cited as the 'Federal Advance Contracts Enhancement Act' or the 'FACE Act'."
 
 #### Short Title of 2019 Amendment
 

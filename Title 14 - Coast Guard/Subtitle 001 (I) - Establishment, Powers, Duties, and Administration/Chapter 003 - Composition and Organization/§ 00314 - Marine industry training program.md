@@ -14,15 +14,17 @@ The Commandant shall, by policy, establish a program under which an officer, mem
 
 (Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2956, §59; amended Pub. L. 113–281, title II, §221(a)(1), Dec. 18, 2014, 128 Stat. 3037; renumbered §314, Pub. L. 115–282, title I, §104(b), Dec. 4, 2018, 132 Stat. 4196.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities notincident to service, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
+A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 59 of this title as this section.
 
-<b>2014</b>—Pub. L. 113–281 struck out subsec. (a) designation and heading before "The Commandant" and struck out subsec. (b). Text of subsec. (b) read as follows: "Not later than the date of the submission each year of the President's budget request under section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+<b>2014</b>—Pub. L. 113–281 struck out subsec. (a) designation and heading before "The Commandant" and struckout subsec. (b). Text of subsec. (b) read as follows: "Not later than the date of the submission each year of the President's budget request under section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
 &emsp;"(1) the number of officers, members, and employees of the Coast Guard assigned to private entities under this section; and
 

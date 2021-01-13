@@ -38,7 +38,7 @@ The on-site manager appointed under subsection (a) shall—
 
 #### (e) Steps or activities
 
-Steps or activities referred to in subsection (c)(1) are those steps or activities that, if not completed, will prevent a project from achieving its disarmament or nonproliferation goals, including, at a minimum, the following:
+Steps or activities referred to in subsection (c)(1) are those steps or activities that, if notcompleted, will prevent a project from achieving its disarmament or nonproliferation goals, including, at a minimum, the following:
 
 &emsp;(1) Identification and acquisition of permits (as defined in section 3733 of this title).
 

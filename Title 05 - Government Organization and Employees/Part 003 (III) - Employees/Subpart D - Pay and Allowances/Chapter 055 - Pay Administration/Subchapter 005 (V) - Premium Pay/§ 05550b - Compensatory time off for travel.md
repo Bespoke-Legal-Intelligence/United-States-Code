@@ -6,9 +6,13 @@
 
 (Added Pub. L. 108–411, title II, §203(a), Oct. 30, 2004, 118 Stat. 2313; amended Pub. L. 110–181, div. A, title XI, §1111(a), Jan. 28, 2008, 122 Stat. 360.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "any provision of section 5542(b)(2) or 5544(a)," for "section 5542(b)(2),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -16,7 +20,7 @@ Amendment by Pub. L. 110–181 effective on the earlier of the effective date of
 
 #### Effective Date
 
-Pub. L. 108–411, title II, §203(c), Oct. 30, 2004, 118 Stat. 2313, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the earlier of—
+Pub. L. 108–411, title II, §203(c), Oct. 30, 2004, 118 Stat. 2313, provided that: "The amendments made by thissection \[enacting this section\] shall take effect on the earlier of—
 
 &emsp;"(1) the effective date of any regulations prescribed to carry out such amendments; or
 

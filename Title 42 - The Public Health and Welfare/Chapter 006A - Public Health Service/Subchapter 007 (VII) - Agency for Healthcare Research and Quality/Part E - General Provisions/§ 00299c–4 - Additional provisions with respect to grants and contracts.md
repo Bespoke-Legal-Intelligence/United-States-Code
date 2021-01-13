@@ -34,5 +34,5 @@ In subsec. (d), "section 3324(a) and (b) of title 31 and section 6101 of title 4
 
 #### Prior Provisions
 
-A prior section 299c–4, act July 1, 1944, ch. 373, title IX, §925, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2203; amended Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(B), Sept. 23, 1996, 110 Stat. 2759, related to certain administrative authorities, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–5 of this title.
+A prior section 299c–4, act July 1, 1944, ch. 373, title IX, §925, as added Pub. L. 101–239, title VI, §6103(c), Dec.19, 1989, 103 Stat. 2203; amended Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(B), Sept. 23, 1996, 110 Stat. 2759, related to certain administrative authorities, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–5 of this title.
 

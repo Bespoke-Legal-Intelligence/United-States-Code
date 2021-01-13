@@ -10,9 +10,13 @@ In actions alleging infringement of a process patent based on the importation, s
 
 (Added Pub. L. 100–418, title IX, §9005(a), Aug. 23, 1988, 102 Stat. 1566; amended Pub. L. 103–465, title V, §533(b)(7), Dec. 8, 1994, 108 Stat. 4990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–465 substituted "sale, offer for sale, or use" for "sale, or use" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -208,7 +208,7 @@ Special rule for collective bargaining agreements.—In the case of plan maintai
 
 &emsp;"(B) in effect on July 1, 1985 (or ratified on or before such date),
 
-> the amendments made by this section shall not apply to years beginning before the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after July 1, 1985).
+> the amendments made by this section shall not apply to years beginning before the date on which the last of the collective bargaining agreements relating to theplan terminates (determined without regard to any extension thereof agreed to after July 1, 1985).
 
 "(3)
 

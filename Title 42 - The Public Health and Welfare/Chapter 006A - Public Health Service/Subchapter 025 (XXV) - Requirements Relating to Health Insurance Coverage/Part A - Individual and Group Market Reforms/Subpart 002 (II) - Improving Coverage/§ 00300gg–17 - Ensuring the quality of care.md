@@ -82,7 +82,7 @@ For purposes of subsection (a)(1)(D), wellness and health promotion activities m
 
 #### (4) Limitation on determination of premium rates or eligibility for health insurance
 
-&emsp;A premium rate may not be increased, health insurance coverage may not be denied,and a discount, rebate, or reward offered for participation in a wellness program may not be reduced or withheld under any health benefit plan issued pursuant to or in accordance with the Patient Protection and Affordable Care Act or an amendment made by that Act on the basis of, or on reliance upon—
+&emsp;A premium rate may not be increased, health insurance coverage may not be denied, and a discount, rebate, or reward offered for participation in a wellness program may not be reduced or withheld under any health benefit plan issued pursuant to or in accordance with the Patient Protection and Affordable Care Act or an amendment made by that Act on the basis of, or on reliance upon—
 
 &emsp;&emsp;(A) the lawful ownership or possession of a firearm or ammunition; or
 

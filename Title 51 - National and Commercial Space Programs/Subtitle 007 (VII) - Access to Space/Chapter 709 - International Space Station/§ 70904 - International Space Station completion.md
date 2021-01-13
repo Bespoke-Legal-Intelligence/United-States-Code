@@ -12,7 +12,7 @@ Elements, Capabilities, and Configuration Criteria.—The Administrator shall en
 
 &emsp;(2) be used for a diverse range of microgravity research, including fundamental, applied, and commercial research, consistent with section 40904 of this title;
 
-&emsp;(3) have an ability to support a crew size of at least 6 persons, unless the Administrator transmits to the Committee on Science andTechnology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 60 days after December 30, 2005, a report explaining why such a requirement should not be met, the impact of not meeting the requirement on the International Space Station research agenda and operations and international partner agreements, and what additional funding or other steps would be required to have an ability to support a crew size of at least 6 persons;
+&emsp;(3) have an ability to support a crew size of at least 6 persons, unless the Administrator transmits to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 60 days after December 30, 2005, a report explaining why such a requirement should not be met, the impact of not meeting the requirement on the International Space Station research agenda and operations and international partner agreements, and what additional funding or other steps would be required to have an ability to support a crew size of at least 6 persons;
 
 &emsp;(4) support Crew Exploration Vehicle docking and automated docking of cargo vehicles or modules launched by either heavy-lift or commercially-developed launch vehicles;
 
@@ -55,6 +55,8 @@ In subsections (b)(3) and (c)(2), the words "Committee on Science and Technology
 In subsections (b)(3) and (c)(2), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 
 In subsection (c)(2) the words "Not later than 60 days after the date of enactment of this Act \[December 30, 2005\], and" are omitted as obsolete.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

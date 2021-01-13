@@ -10,7 +10,9 @@
 
 &emsp;(3) any other cemetery, memorial, or monument transferred to the Veterans' Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII, §701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L.100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1000; amended Pub. L. 99–576, title VII, §701(52), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–527, §13(i), Oct. 25, 1988, 102 Stat. 2644; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2400 and amended Pub. L. 102–83, §§4(a)(3), (4), 5(a), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 105–368, title IV, §403(c)(3), Nov. 11, 1998, 112 Stat. 3338.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -38,6 +40,8 @@ Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Vet
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–576 substituted "servicemembers" for "servicemen" and "The Administrator" for "To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 105–368, title IV, §403(a)(1), Nov. 11, 1998, 112 Stat. 3337, provided that: "The National Cemetery System of the Department of Veterans Affairs shall hereafter be known and designated as the National Cemetery Administration. The position of Director of the National Cemetery System is hereby redesignated as Under Secretary of Veterans Affairs for Memorial Affairs."
@@ -59,6 +63,42 @@ Pub. L. 93–43, §10(a), June 18, 1973, 87 Stat. 88, provided that: "The first 
 #### Short Title
 
 For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the "National Cemeteries Act of 1973", see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### Transfer of Mare Island Naval Cemetery to Secretary of Veterans Affairs for Maintenance by National Cemetery Administration
+
+Pub. L. 116–283, div. H, title XCI, §9107, Jan. 1, 2021, 134 Stat. 4784, provided that:
+
+"(a)
+
+Agreement.—Beginning on the date that is 180 days after the date on which the Secretary submits the report required by subsection (c)(1), the Secretary of Veterans Affairs shall seek to enter into an agreement with the city of Vallejo, California, under which the city of Vallejo shall transfer to the Secretary all right, title, and interest in the Mare Island Naval Cemetery in Vallejo, California, at no cost to the Secretary. The Secretary shall seek to enter into such agreement before the date that is one year after the date on which such report is submitted.
+
+"(b)
+
+Maintenance by National Cemetery Administration.—If the Mare Island Naval Cemetery is transferred to the Secretary of Veterans Affairs pursuant to subsection (a), the National Cemetery Administration shall maintain the cemetery in the same manner as other cemeteries under the jurisdiction of the National Cemetery Administration.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the feasibility and advisability of exercising the authority to enter into an agreement under subsection (a).
+
+&emsp;"(2)
+
+Contents.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of the feasibility and advisability of entering into such an agreement.
+
+&emsp;&emsp;"(B) An estimate of the costs, including both direct and indirect costs, that the Department of Veterans Affairs would incur by entering into such an agreement.
+
+"(d)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) it is only potentially advisable and feasible to transfer the Mare Island Naval Cemetery from the city of Vallejo, California, to the Department of Veterans Affairs because the cemetery was previously under the control of the Department of Defense; and
+
+&emsp;"(2) the City of Vallejo should provide in-kind non-monetary contributions for the improvement and maintenance of Mare Island Naval Cemetery, including labor and equipment, to the extent practicable, to the Department of Veterans Affairs, following any transfer of the cemetery to the Department."
 
 #### Grants for Cemetery Research and the Production of Educational Materials
 
@@ -240,7 +280,7 @@ Reports.—(1) Not later than 120 days after the date of the enactment of this A
 
 #### Reimbursement of Account
 
-Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: "That during fiscal year 1999, or in subsequent fiscal years, the 'Construction, major projects'account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund."
+Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: "That during fiscal year 1999, or in subsequent fiscal years, the 'Construction, major projects' account shall be reimbursed, in the amount transferred, from other funds as they become part of the Pershing Hall Revolving Fund."
 
 #### Transfer of Pershing Hall to Department of Veterans Affairs
 

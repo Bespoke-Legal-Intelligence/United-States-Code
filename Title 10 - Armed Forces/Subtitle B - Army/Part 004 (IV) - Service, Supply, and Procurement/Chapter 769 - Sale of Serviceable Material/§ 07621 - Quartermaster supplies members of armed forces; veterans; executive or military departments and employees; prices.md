@@ -12,7 +12,7 @@
 
 (c) The Secretary may sell serviceable quartermaster property, other than subsistence supplies, to an officer of another armed force for his use in the service, in the same manner as these articles are sold to an officer of the Army.
 
-(d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
+(d) A person who has been discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, at the prices at which like property is sold to a member of the Army.
 
 (e) Under such conditions as the Secretary may prescribe, exterior articles of uniform may be sold to a person who has been discharged from the Army honorably or under honorable conditions, at the prices at which like articles are sold to members of the Army. This subsection does not modify section 772 or 773 of this title.
 
@@ -22,13 +22,13 @@
 
 &emsp;(1) at military installations outside the United States; and
 
-&emsp;(2) at military installations inside the United States where he determines that it is impracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
+&emsp;(2) at military installations inside the United States where he determines that it isimpracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
 
 > However, sales to officers and employees inside the United States may be made only to those residing within military installations.
 
 (h) Appropriations for subsistence of the Army may be applied to the purchase of subsistence supplies for sale to members of the Army on active duty for the use of themselves and their families.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 257, §4621; Pub. L. 87–651, title I, §118, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, §512(17), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 100–180, div. A, title III, §313(c), Dec. 4, 1987, 101 Stat. 1074; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title III, §375(b)(1), Feb. 10, 1996, 110 Stat. 283; renumbered §7621, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257, §4621; Pub. L. 87–651, title I, §118, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, §512(17), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 100–180, div. A, title III, §313(c), Dec. 4, 1987, 101 Stat. 1074; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title III, §375(b)(1), Feb. 10, 1996, 110 Stat. 283; renumbered §7621, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–283, div. A, title IX, §924(c)(1)(B), Jan. 1, 2021, 134 Stat. 3826.)
 
 Historical and Revision Notes<br>1956
 
@@ -148,9 +148,9 @@ In subsection (d), the words "other than subsistence supplies" are inserted, sin
 
 In subsection (e), the words "a person who has been discharged" are substituted for the words "discharged officers and enlisted men". The words "Navy \* \* \* or Marine Corps", omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words "may buy" are substituted for the words "shall \* \* \* be permitted to purchase". The words "at the prices at which like property is sold" are substituted for the words "at the same price as charged". The word "member" is substituted for the words "officers and enlisted men". The words "while undergoing such care and treatment" are omitted as surplusage.
 
-In subsection (f), the words "person who has been discharged" are substituted for the words "former members \* \* \* who have been separated therefrom". The words "at the prices at which like articles are sold to members" are inserted to conform to the last sentence of subsection (a) and subsection (e).
+In subsection (f), the words "person who has been discharged" are substituted for the words "former members \* \* \* who have been separated therefrom". Thewords "at the prices at which like articles are sold to members" are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
-In subsection (g), the words "regulations to be prescribed by the Secretary" are substituted for the words "Army Regulations". The words "of the Government" are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words "or to another executive department of the Government" are omitted as superseded by section 7 of the Act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to computation of costs are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion ofthe Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+In subsection (g), the words "regulations to be prescribed by the Secretary" are substituted for the words "Army Regulations". The words "of the Government" are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words "or to another executive department of the Government" are omitted as superseded by section 7 of the Act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to computation of costs are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (h), the word "outside" is substituted for the words "beyond the continental limitations". The words "or in Alaska" are omitted, since, under section 101(1) of this title, the words "United States" are defined to include only the States and the District of Columbia. The word "continental", after the words "within the", is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
@@ -165,6 +165,8 @@ The change corrects an internal reference.
 A prior section 7621 was renumbered section 8821 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4621 of this title as this section.
 

@@ -38,7 +38,7 @@
 
 (d) The Secretary concerned shall designate the adjutants general referred to in section 314 of this title to employ and administer the technicians authorized by this section.
 
-(e) A technician employed under subsection (a) is an employee of the Department of the Army or the Department of the Air Force, as the case may be, and an employee of the United States.However, a position authorized by this section is outside the competitive service if the technician employed in that position is required under subsection (b) to be a member of the National Guard.
+(e) A technician employed under subsection (a) is an employee of the Department of the Army or the Department of the Air Force, as the case may be, and an employee of the United States. However, a position authorized by this section is outside the competitive service if the technician employed in that position is required under subsection (b) to be a member of the National Guard.
 
 (f) Notwithstanding any other provision of law and under regulations prescribed by the Secretary concerned—
 
@@ -124,7 +124,7 @@ June 3, 1916, ch. 134, §90; restated June 4, 1920, ch. 227, subch. I, §46; res
 
 June 25, 1938, ch. 688, 52 Stat. 1173.
 
-In subsection (a), the words "may be spent" are substituted for the words "shall be available". The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word "persons" is substituted for the word "help". The words "Army National Guard" and "Air National Guard" are substituted for the words "organizations of all kinds". Thewords "the support of" are omitted as surplusage. The words "A caretaker employed under this subsection" are substituted for the words "Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers". The words "and other duties that do not interfere with the performance of his duties as caretaker" are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
+In subsection (a), the words "may be spent" are substituted for the words "shall be available". The reference to animals for military purposes and forage, bedding, and other supplies and services for them, is omitted as obsolete, since animals are not now authorized for the National Guard. The word "persons" is substituted for the word "help". The words "Army National Guard" and "Air National Guard" are substituted for the words "organizations of all kinds". The words "the support of" are omitted as surplusage. The words "A caretaker employed under this subsection" are substituted for the words "Moneys hereafter appropriated under the provisions of this title for compensation of help for care of material, animals, armament, and equipment, in the hands of the National Guard of the several States, Territories, and the District of Columbia shall be available for the hire of caretakers". The words "and other duties that do not interfere with the performance of his duties as caretaker" are substituted for 32:42a (1st proviso). 32:42a (2d and 3d provisos) is omitted as executed.
 
 In subsection (b), the words "However, if a unit has more than one caretaker" are substituted for the words "but if there are as many as two caretakers in any unit". The words "under this section", in the first sentence of the revised subsection, are inserted for clarity. The words "under this section", in the second sentence of the revised subsection, are substituted for the words "paid to caretakers who belong to the National Guard, as herein authorized". The words "under any of the provisions of this title" are omitted as surplusage.
 
@@ -135,6 +135,8 @@ In subsection (d), the words "one commissioned officer \* \* \* in a grade bel
 In subsection (e), the words "Funds appropriated by Congress" are substituted for the words "Funds hereafter appropriated under the provisions of this title for the support of", in 32:42, and "such moneys", in 32:42a. The words "are in addition to" are substituted for the words "shall be supplemental to", in 32:42, and "may be used as supplemental to", in 32:42a.
 
 In subsection (f), the words "authorized to be employed under this section" are substituted for the words "authorized to be employed". The words "person to employ them" are substituted for the words "by whom they shall be employed". The words "by regulations" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -188,7 +190,7 @@ Subsec. (b). Pub. L. 90–486 substituted provisions requiring, except as prescr
 
 Subsec. (c). Pub. L. 90–486 substituted provisions authorizing the Secretary concerned to designate adjutants general to employ and administer the technicians authorized by this section for provisions authorizing the Secretary concerned to place in a common pool for care, maintenance, and storage the material, armament, and equipment of the Army National Guard or Air National Guard, with proviso that not more than 15 caretakers be employed for each pool.
 
-Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employeeof the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
+Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employee of the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
 
 Subsec. (e). Pub. L. 90–486 substituted provisions authorizing the adjutant general of the jurisdiction concerned to separate from technicians employment any technician for the specified grounds, provisions requiring the technician concerned to be notified in writing of the termination of his employment at least 30 days prior to the termination date of such employment, and provisions granting a limited right of appeal from such termination, for provisions appropriating funds by Congress for the National Guard as additional to funds appropriated by the several states and territories, etc., and provisions making such funds available for the hire of caretakers and clerks.
 
@@ -197,6 +199,8 @@ Subsec. (f). Pub. L. 90–486 substituted provisions making inapplicable section
 Subsecs. (g), (h). Pub. L. 90–486 added subsecs. (g) and (h).
 
 <b>1961</b>—Subsec. (f). Pub. L. 87–224 provided that the authorized compensation may include employer's contributions to retirement systems, and that such contributions shall not exceed 6½ per centum of the compensation upon which based.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -232,7 +236,7 @@ Pub. L. 99–661, div. A, title VI, §654, Nov. 14, 1986, 100 Stat. 3890, provid
 
 "(a)
 
-Civil Service Retirement Credit.—A period of service performed under section 709 of title 32, United States Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
+Civil Service Retirement Credit.—A period of service performed under section 709 of title 32, UnitedStates Code (or under a prior corresponding provision of law), before January 1, 1969, which would not otherwise be creditable under subchapter III of chapter 83 of title 5, United States Code, because of the antepenultimate sentence of section 8332(b) of such title, shall be considered creditable service under such subchapter, notwithstanding such sentence, in the case of an individual described in subsection (b).
 
 "(b)
 
@@ -304,7 +308,7 @@ Pub. L. 90–486, §6, Aug. 13, 1968, 82 Stat. 758, as amended by Pub. L. 99–5
 
 > and was covered by a retirement system or plan of a State or the Commonwealth of Puerto Rico, may, if he is reemployed within sixty days under section 709 of title 32, United States Code, make the election described in subsection (a) of this section, within thirty days following the date of his reemployment.
 
-"(c) In the case of any person who files a valid election under this section to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, the United States may pay the amount of the employer's contributions to that system or plan that become due for periods beginning on or after the effective date of this Act \[see Effective Date note above\]. However, the payment by the United States, including any contribution thatmay be made by the United States toward the employer's tax imposed by section 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended (26 U.S.C. 3111), may not exceed the amount which the employing agency would otherwise contribute on behalf of the person to the Civil Service Retirement and Disability Fund under section 8334(a) of title 5, United States Code. Notwithstanding section 8332(b) of title 5, United States Code, as amended by section 5 of this Act, the service under section 709 of title 32, United States Code, or prior corresponding provision of law, of a person who has made an election to remain covered by the employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall not be creditable toward eligibility for or amount of annuity under subchapter III of chapter 83 of title 5, United States Code. A person who retires pursuant to his valid election shall not be eligible for any rights, benefits, or privileges to which retired civilian employees of the United States may be entitled."
+"(c) In the case of any person who files a valid election under this section to remain covered by an employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, the United States may pay the amount of the employer's contributions to that system or plan that become due for periods beginning on or after the effective date of this Act \[see Effective Date note above\]. However, the payment by the United States, including any contribution that may be made by the United States toward the employer's tax imposed by section 3111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended (26 U.S.C. 3111), may not exceed the amount which the employing agency would otherwise contribute on behalf of the person to the Civil Service Retirement and Disability Fund under section 8334(a) of title 5, United States Code. Notwithstanding section 8332(b) of title 5, United States Code, as amended by section 5 of this Act, the service under section 709 of title 32, United States Code, or prior corresponding provision of law, of a person who has made an election to remain covered by the employee retirement system of, or plan sponsored by, a State or the Commonwealth of Puerto Rico, shall not be creditable toward eligibility for or amount of annuity under subchapter III of chapter 83 of title 5, United States Code. A person who retires pursuant to his valid election shall not be eligible for any rights, benefits, or privileges to which retired civilian employees of the United States may be entitled."
 
 #### Compensation Rates; Conversion and Adjustment of Compensation to the General Schedule
 

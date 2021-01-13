@@ -1,12 +1,14 @@
 ### §4132. Senate Recording Studio and Senate Photographic Studio as successors to Senate Recording and Photographic Studios; rules, regulations, and fees for photographs and photographic services
 
-(a) The entity, in the Senate, known (prior to April 1, 1991) as the "Senate Recording and Photographic Studios" is abolished, and there is <sup>1</sup> established in its stead the following two entities: the "Senate Recording Studio", and the "Senate Photographic Studio"; and there are transferred, from the entity known (prior to April 1, 1991) as the "Senate Recording and Photographic Studios" to the Senate Recording Studio all personnel, equipment, supplies, and funds which are available for, relate to, or are utilized in connection with, recording, and to the Senate Photographic Studio all personnel, equipment, supplies, and funds which are available for, relate to, or are utilized in connection with, photography.
+(a) The entity, in the Senate, known (prior to April 1, 1991) as the "Senate Recording and Photographic Studios" is abolished, and there is <sup>1</sup> established in its stead the following two entities: the "Senate Recording Studio", and the "Senate Photographic Studio"; and there are transferred, from the entity known (prior toApril 1, 1991) as the "Senate Recording and Photographic Studios" to the Senate Recording Studio all personnel, equipment, supplies, and funds which are available for, relate to, or are utilized in connection with, recording, and to the Senate Photographic Studio all personnel, equipment, supplies, and funds which are available for, relate to, or are utilized in connection with, photography.
 
 (b)(1) The Sergeant at Arms and Doorkeeper of the Senate shall, subject to the approval of the majority and minority leaders, promulgate rules and regulations, and establish fees, for the provision of photographs and photographic services to be furnished by the Photographic Studio.
 
 (2) Omitted.
 
 (Pub. L. 96–304, title I, §108, July 8, 1980, 94 Stat. 890; Pub. L. 101–520, title I, §7(d), Nov. 5, 1990, 104 Stat. 2259.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -19,6 +21,8 @@ Subsec. (b)(2), which authorized the Sergeant at Arms and Doorkeeper of the Sena
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Senate Recording Studio hereafter shall be known as the Senate Recording and Photographic Studios. Subject to subsection (b) of this section, all references to the Senate Recording Studio (including the revolving fund) in any law, resolution, or regulation shall be considered as referring to the Senate Recording and Photographic Studios, and any provision of any law, resolution, or regulation which is applicable to the Senate Recording Studio shall be deemed to apply to the Senate Recording and Photographic Studios."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

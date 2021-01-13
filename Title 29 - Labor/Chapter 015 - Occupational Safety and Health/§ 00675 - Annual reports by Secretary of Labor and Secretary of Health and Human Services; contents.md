@@ -4,13 +4,15 @@ Within one hundred and twenty days following the convening of each regular sessi
 
 (Pub. L. 91–596, §26, Dec. 29, 1970, 84 Stat. 1615; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to the transmittal to Congress of reports prepared by the Secretary of Labor and the Secretary of Health and Human Services, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 98 and 124 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to the transmittal to Congress of reports prepared by the Secretary of Labor and theSecretary of Health and Human Services, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 98 and 124 of House Document No. 103–7.
 
 #### Study of Occupationally Related Pulmonary and Respiratory Diseases; Study To Be Completed and Report Submitted by September 1, 1979
 

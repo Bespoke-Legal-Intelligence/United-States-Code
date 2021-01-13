@@ -6,7 +6,7 @@ The Congress finds that the growth in size, scope, and numbers of employee benef
 
 #### (b) Protection of interstate commerce and beneficiaries by requiring disclosure and reporting, setting standards of conduct, etc., for fiduciaries
 
-It is hereby declared to be the policy of this chapter to protect interstate commerce and the interests of participants in employee benefit plans and their beneficiaries, by requiring the disclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
+It is hereby declared to be the policy of this chapter to protect interstate commerce and the interests of participants in employee benefit plans and their beneficiaries, by requiring thedisclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
 
 #### (c) Protection of interstate commerce, the Federal taxing power, and beneficiaries by vesting of accrued benefits, setting minimum standards of funding, requiring termination insurance
 
@@ -14,9 +14,13 @@ It is hereby further declared to be the policy of this chapter to protect inters
 
 (Pub. L. 93–406, title I, §2, Sept. 2, 1974, 88 Stat. 832.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendments; Transitional Rules
 
@@ -276,6 +280,8 @@ Pub. L. 96–364, title IV, §413, Sept. 26, 1980, 94 Stat. 1309, directed Compt
 
 Pub. L. 96–14, May 24, 1979, 93 Stat. 29, known as the Pension Policy Commission Act, authorized the President's Commission on Pension Policy established by Ex. Ord. No. 12071 to continue in operation for two years following May 24, 1979, and set forth membership, compensation, implementation, and reporting requirements, with the Commission to cease to exist ninety days after submission of the final report.
 
+#### <b>Executive Documents</b>
+
 #### <b>REORGANIZATION PLAN NO. 4 OF 1978</b>
 
 #### 43 F.R. 47713, 92 Stat. 3790, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–280, title I, §108(c), formerly §107(c), Aug. 17, 2006, 120 Stat. 820, renumbered §108(c), Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297
@@ -320,7 +326,7 @@ The transfers provided for in Section 101 of this Plan shall not affect the abil
 
 #### Sec. 105. Enforcement by the Secretary of the Treasury
 
-The transfers provided for in Section 102 of this Plan shall not affect the ability of the Secretary of the Treasury, subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, (a) to audit plans and employers and to enforce the excise tax provisions of subsections 4975(a) and 4975(b) of the Code \[26 U.S.C. 4975(a) and (b)\], to exercise the authority set forth in subsections 502(b)(1) and 502(h) of ERISA \[29 U.S.C. 1132(b)(1) and (h)\], or to exercise the authority set forth in Title III of ERISA, including the ability to make interpretations necessary to audit, to enforce such taxes, and to exercise such authority; and (b) consistent with the coordination requirements under Section 103 of this Plan, to disqualify, under section 401 of the Code \[26 U.S.C. 401\], a plan subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], including the ability to make the interpretations necessary to make such disqualification. However, in enforcing such excisetaxes and, to the extent applicable, in disqualifying such plans the Secretary of the Treasury shall be bound by the regulations, rulings, opinions, and exemptions issued by the Secretary of Labor pursuant to the authority transferred to the Secretary of Labor as provided in Section 102 of this Plan.
+The transfers provided for in Section 102 of this Plan shall not affect the ability of the Secretary of the Treasury, subject to the provisions of Title III of ERISA \[29 U.S.C. 1201 et seq.\] relating to jurisdiction, administration, and enforcement, (a) to audit plans and employers and to enforce the excise tax provisions of subsections 4975(a) and 4975(b) of the Code \[26 U.S.C. 4975(a) and (b)\], to exercise the authority set forth in subsections 502(b)(1) and 502(h) of ERISA \[29 U.S.C. 1132(b)(1) and (h)\], or to exercise the authority set forth in Title III of ERISA, including the ability to make interpretations necessary to audit, to enforce such taxes, and to exercise such authority; and (b) consistent with the coordination requirements under Section 103 of this Plan, to disqualify, under section 401 of the Code \[26 U.S.C. 401\], a plan subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], including the ability to make the interpretations necessary to make such disqualification. However, in enforcing such excise taxes and, to the extent applicable, in disqualifying such plans the Secretary of the Treasury shall be bound by the regulations, rulings, opinions, and exemptions issued by the Secretary of Labor pursuant to the authority transferred to the Secretary of Labor as provided in Section 102 of this Plan.
 
 #### Sec. 106. Coordination for Section 101 Transfer
 
@@ -358,7 +364,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 > To the Congress of the United States:
 
-Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan will eliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
+Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan willeliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
 
 ERISA was an essential step in the protection of worker pension rights. Its administrative provisions, however, have resulted in bureaucratic confusion and have been justifiably criticized by employers and unions alike. The biggest problem has been overlapping jurisdictional authority. Under current ERISA provisions, the Departments of Treasury and Labor both have authority to issue regulations and decisions.
 
@@ -372,7 +378,7 @@ The Reorganization Plan is the most significant result of their joint effort to 
 
 1\) Treasury will have statutory authority for minimum standards. The new plan puts all responsibility for funding, participation, and vesting of benefit rights in the Department of Treasury. These standards are necessary to ensure that employee benefit plans are adequately funded and that all beneficiary rights are protected. Treasury is the most appropriate Department to administer these provisions; however, Labor will continue to have veto power over Treasury decisions that significantly affect collectively bargained plans.
 
-2\) Labor will have statutory authority for fiduciary obligations. ERISA prohibits transactions in which self-interest or conflict of interest could occur, but allows certain exemptions from these prohibitions. Laborwill be responsible for overseeing fiduciary conduct under these provisions.
+2\) Labor will have statutory authority for fiduciary obligations. ERISA prohibits transactions in which self-interest or conflict of interest could occur, but allows certain exemptions from these prohibitions. Labor will be responsible for overseeing fiduciary conduct under these provisions.
 
 3\) Both Departments will retain enforcement powers. The Reorganization Plan will continue Treasury's authority to audit plans and levy tax penalties for any deviation from standards. The plan will also continue Labor's authority to bring civil action against plans and fiduciaries. These provisions are retained in order to keep the special expertise of each Department available. New coordination between the Departments will eliminate duplicative investigations of alleged violations.
 
@@ -418,7 +424,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the Federal Government to ex
 
 Regulatory burdens and complexity can be costly and discourage employers, especially small businesses, from offering workplace retirement plans to their employees. Businesses are sensitive to the overall expense of setting up such plans. A recent survey by the Pew Charitable Trusts found that 71 percent of small- and medium-sized businesses that do not offer retirement plans were deterred from doing so by high costs; 37 percent cited high costs as their main reason for not offering such a plan. Federal agencies should revise or eliminate rules and regulations that impose unnecessary costs and burdens on businesses, especially small businesses, and that hinder formation of workplace retirement plans.
 
-Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance and would encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
+Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance andwould encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
 
 Similarly, reducing the number and complexity of employee benefit plan notices and disclosures currently required would ease regulatory burdens. The costs and potential liabilities for employers and plan fiduciaries of complying with existing disclosure requirements may discourage plan formation or maintenance. Improving the effectiveness of required notices and disclosures and reducing their cost to employers promote retirement security by expanding access to workplace retirement plans.
 

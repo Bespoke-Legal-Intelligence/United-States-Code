@@ -16,7 +16,7 @@ Nothing in this chapter shall create or preclude a right of any religious organi
 
 Nothing in this chapter shall—
 
-&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities or policies of a person other than a government as a condition of receiving funding or other assistance; or
+&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities or policies of a person other than a governmentas a condition of receiving funding or other assistance; or
 
 &emsp;(2) restrict any authority that may exist under other law to so regulate or affect, except as provided in this chapter.
 

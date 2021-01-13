@@ -4,11 +4,15 @@ In places where the National Oceanic and Atmospheric Administration is serving w
 
 (Aug. 3, 1956, ch. 932, §1, 70 Stat. 988; Pub. L. 86–624, §24, July 12, 1960, 74 Stat. 418; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–624 substituted "the States of the continental United States, excluding Alaska" for "the several States".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a noteunder section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
+Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, and commissioned officers of Survey transferred to ESSA, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director of Survey. Subsequently, Environmental Science Services Administration abolished, National Oceanic and Atmospheric Administration established, and Commissioned Officer Corps of ESSA redesignated Commissioned Officer Corps of NOAA by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees. For further details, see note set out under section 851 of this title.
 

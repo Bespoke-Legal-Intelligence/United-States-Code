@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(m), formerly §203(<i>l</i>), 63 Stat. 388; redesignated §203(m), Aug. 1, 1955, ch. 442, 69 Stat. 430.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–284 substituted "(a)

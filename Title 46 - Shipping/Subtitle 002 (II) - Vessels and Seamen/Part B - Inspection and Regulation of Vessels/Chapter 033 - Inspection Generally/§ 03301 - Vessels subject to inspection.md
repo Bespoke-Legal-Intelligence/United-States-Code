@@ -88,11 +88,13 @@ Historical and Revision Notes
 
 46:391a
 
-Section 3301 lists all classes of vessels that are subject to inspection and certification by the Coast Guard. This section represents one of the sought-after advantages of the bill to simplify access to the provisions of law governing the regulation of vessels. Under thepresent law, a vessel's inspection status must be determined by examining a table appearing at section 2.01–7A of title 46, Code of Federal Regulations that divides all vessels into more than 70 separate classes.
+Section 3301 lists all classes of vessels that are subject to inspection and certification by the Coast Guard. This section represents one of the sought-after advantages of the bill to simplify access to the provisions of law governing the regulation of vessels. Under the present law, a vessel's inspection status must be determined by examining a table appearing at section 2.01–7A of title 46, Code of Federal Regulations that divides all vessels into more than 70 separate classes.
 
 It is important to note that while the classes of vessels are now limited to ten, there is no prohibition against developing regulations to meet the special needs of various size vessels within any one category. For example, it is expected that the Coast Guard will continue the practice of establishing standards for freight vessels of not more than 100 gross tons and other standards for larger freight vessels.
 
 It should also be noted that a particular vessel can, when engaged in various types of operations, be subject to varying inspection laws. For example, an offshore supply vessel could be classed as a small passenger vessel or a passenger vessel when it operates as a crew boat carrying individuals other than those defined in section 2101(21). If the offshore supply vessel is 500 gross tons and over it would then be subject to inspection as a seagoing motor vessel, a freight vessel, or a passenger vessel.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -103,6 +105,8 @@ It should also be noted that a particular vessel can, when engaged in various ty
 <b>1992</b>—Par. (13). Pub. L. 102–587 added par. (13).
 
 <b>1984</b>—Pars. (11), (12). Pub. L. 98–364 added pars. (11) and (12).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

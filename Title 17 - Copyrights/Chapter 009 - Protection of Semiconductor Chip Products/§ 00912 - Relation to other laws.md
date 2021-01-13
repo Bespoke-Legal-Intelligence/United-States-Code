@@ -10,9 +10,11 @@
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3354; amended Pub. L. 100–702, title X, §1020(b), Nov. 19, 1988, 102 Stat. 4672; Pub. L. 102–563, §3(c), Oct. 28, 1992, 106 Stat. 4248.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsecs. (a), (b). Pub. L. 102–563 inserted "or 10" after "8".
 
-<b>1988</b>—Subsecs. (d), (e). Pub. L. 100–702 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The provisions of sections 1338, 1400(a), and 1498(b) and (c) of title 28 shall apply withrespect to exclusive rights in mask works under this chapter."
+<b>1988</b>—Subsecs. (d), (e). Pub. L. 100–702 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The provisions of sections 1338, 1400(a), and 1498(b) and (c) of title 28 shall apply with respect to exclusive rights in mask works under this chapter."
 

@@ -40,6 +40,8 @@ For purposes of this chapter:
 
 (Pub. L. 101–510, div. A, title XV, §1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–107, div. A, title XIV, §1402, Dec. 28, 2001, 115 Stat. 1257; Pub. L. 111–281, title II, §205(a), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, §563(b)(1), Dec. 31, 2011, 125 Stat. 1423.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title XV of Pub. L. 101–510, div. A, Nov. 5, 1990, 104 Stat. 1722, as amended, which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note below and Tables.
@@ -74,9 +76,11 @@ Pars. (6) to (8). Pub. L. 107–107, §1402(2), redesignated pars. (6) to (8) as
 
 <b>2000</b>—Par. (7)(D). Pub. L. 106–398 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the Deputy Chief of Staff for Manpower of the Marine Corps."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 101–510, div. A, title XV, §1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, §366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Boardand Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) was applicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
+Pub. L. 101–510, div. A, title XV, §1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, §366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Board and Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) was applicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, §1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
 
 #### Short Title
 

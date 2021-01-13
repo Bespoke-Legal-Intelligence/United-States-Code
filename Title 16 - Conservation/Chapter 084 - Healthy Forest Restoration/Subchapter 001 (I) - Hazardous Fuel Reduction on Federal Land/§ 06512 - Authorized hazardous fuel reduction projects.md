@@ -54,7 +54,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (B) Covered project
 
-&emsp;&emsp;The term "covered project" means an authorized hazardous fuel reduction projectcarried out on land described in paragraph (1), (2), (3), or (5) of subsection (a).
+&emsp;&emsp;The term "covered project" means an authorized hazardous fuel reduction project carried out on land described in paragraph (1), (2), (3), or (5) of subsection (a).
 
 #### (C) Management direction
 

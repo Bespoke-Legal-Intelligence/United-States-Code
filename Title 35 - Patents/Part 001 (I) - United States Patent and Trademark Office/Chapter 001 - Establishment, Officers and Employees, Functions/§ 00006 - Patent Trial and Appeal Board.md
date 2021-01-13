@@ -18,13 +18,15 @@ Duties.—The Patent Trial and Appeal Board shall—
 
 (c) 3-
 
-Member Panels.—Each appeal, derivation proceeding, post-grant review, and inter partes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director. Only the Patent Trial and Appeal Board may grant rehearings.
+Member Panels.—Each appeal, derivation proceeding, post-grant review, and interpartes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director. Only the Patent Trial and Appeal Board may grant rehearings.
 
 (d)
 
 Treatment of Prior Appointments.—The Secretary of Commerce may, in the Secretary's discretion, deem the appointment of an administrative patent judge who, before the date of the enactment of this subsection, held office pursuant to an appointment by the Director to take effect on the date on which the Director initially appointed the administrative patent judge. It shall be a defense to a challenge to the appointment of an administrative patent judge on the basis of the judge's having been originally appointed by the Director that the administrative patent judge so appointed was acting as a de facto officer.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4717(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; amended Pub. L. 107–273, div. C, title III, §13203(a)(2), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, §1(a)(1), Aug. 12, 2008, 122 Stat. 3014; Pub. L. 112–29, §7(a)(1), Sept. 16, 2011, 125 Stat. 313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -44,6 +46,8 @@ Subsecs. (c), (d). Pub. L. 110–313, §1(a)(1)(C), which directed addition of s
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting "the Deputy Commissioner," after "Commissioner,", was executed by making the insertion after "The Director," to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–29, §7(e), Sept. 16, 2011, 125 Stat. 315, provided that: "The amendments made by this section \[amending this section, sections 134, 141, and 143 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that effective date, except that—
@@ -54,7 +58,7 @@ Pub. L. 112–29, §7(e), Sept. 16, 2011, 125 Stat. 315, provided that: "The ame
 
 &emsp;"(3) the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 of title 35, United States Code, before the effective date of the amendments made by this section; and
 
-&emsp;"(4) the Director's \[Under Secretary of Commerce for Intellectual Property and Director of the UnitedStates Patent and Trademark Office\] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section."
+&emsp;"(4) the Director's \[Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section."
 
 #### Effective Date
 

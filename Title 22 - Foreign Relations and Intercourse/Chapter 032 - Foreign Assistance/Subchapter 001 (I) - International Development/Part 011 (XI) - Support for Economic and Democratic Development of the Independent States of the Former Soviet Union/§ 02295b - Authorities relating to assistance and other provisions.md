@@ -14,7 +14,7 @@ Activities supported pursuant to this part may include the establishment of and 
 
 #### (d) Cooperative development and research projects
 
-Assistance under this part may include support for cooperative development projects, including cooperative development research projects, among the United States, other countries, and independent states of the former Soviet Union.
+Assistance under this part may include support for cooperative development projects, including cooperative development researchprojects, among the United States, other countries, and independent states of the former Soviet Union.
 
 #### (e) Administration of justice programs
 
@@ -46,7 +46,7 @@ Funds made available for assistance under this part may be used for procurement�
 
 &emsp;&emsp;(B) the President determines, on a case-by-case basis, that procurement in such other country is necessary—
 
-&emsp;&emsp;&emsp;(i) to meet unforseen <sup>1</sup> circumstances, such as emergency situations, where it isimportant to permit procurement in a country not specified in paragraph (1), or
+&emsp;&emsp;&emsp;(i) to meet unforseen <sup>1</sup> circumstances, such as emergency situations, where it is important to permit procurement in a country not specified in paragraph (1), or
 
 &emsp;&emsp;&emsp;(ii) to promote efficiency in the use of United States foreign assistance resources, including to avoid impairment of foreign assistance objectives.
 
@@ -90,7 +90,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;&emsp;(B) imports from the Cuban Government at preferential tariff rates;
 
-&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements under which Cuba does not pay appropriate transportation, insurance, or finance costs; and
+&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements underwhich Cuba does not pay appropriate transportation, insurance, or finance costs; and
 
 &emsp;&emsp;(D) the exchange, reduction, or forgiveness of debt of the Cuban Government in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
 
@@ -101,6 +101,8 @@ Assistance under this part shall be provided on such terms and conditions as the
 &emsp;(B) For purposes of subparagraph (A), the term "agency or instrumentality of the Government of Cuba" means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to "a foreign state" deemed to be a reference to "Cuba".
 
 (Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -122,9 +124,19 @@ Section 510 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 <b>1994</b>—Subsec. (j)(1)(C). Pub. L. 103–236 substituted "sections 2799aa and 2799aa–1" for "sections 2429 and 2429a".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+
+#### Trans-Caucasus Enterprise Fund
+
+Pub. L. 104–107, title II, \[(t)\], Feb. 12, 1996, 110 Stat. 714, provided that: "The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: <i>Provided</i>, That the President shall seek other bilateral and multilateral investors in the Fund: <i>Provided further</i>, That of the funds made available under this heading \[
+
+Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see 110 Stat. 712\], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -133,12 +145,6 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 Functions of President under subsecs. (c) and (g) of this section delegated to Coordinator by section 2(c) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, set out as a note under section 5812 of this title.
 
 Functions of President under subsecs. (h) and (i) of this section delegated by section 5(a) of Ex. Ord. No. 12884 to head of agency responsible for administering the particular program or activity with respect to which the authority is to be exercised.
-
-#### Trans-Caucasus Enterprise Fund
-
-Pub. L. 104–107, title II, \[(t)\], Feb. 12, 1996, 110 Stat. 714, provided that: "The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: <i>Provided</i>, That the President shall seek other bilateral and multilateral investors in the Fund: <i>Provided further</i>, That of the funds made available under this heading \[
-
-Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see 110 Stat. 712\], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "unforeseen".</i>
 

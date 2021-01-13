@@ -8,7 +8,7 @@ The President shall impose sanctions described in section 8791(c) of this title 
 
 #### (1) In general
 
-&emsp;Not later than 120 days after August 10, 2012, the President shall submit to the appropriate congressional committees a list of persons that the President determines have engaged in censorship, or activities relating to censorship, in a manner that prohibits, limits, or penalizes the legitimate exercise of freedom of expression by citizens of Syria.
+&emsp;Not later than 120 days after August 10, 2012, the President shall submit to the appropriatecongressional committees a list of persons that the President determines have engaged in censorship, or activities relating to censorship, in a manner that prohibits, limits, or penalizes the legitimate exercise of freedom of expression by citizens of Syria.
 
 #### (2) Updates of list
 

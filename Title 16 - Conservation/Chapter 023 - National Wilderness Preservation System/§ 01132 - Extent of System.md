@@ -6,7 +6,7 @@ All areas within the national forests classified at least 30 days before Septemb
 
 &emsp;(1) Within one year after September 3, 1964, file a map and legal description of each wilderness area with the Interior and Insular Affairs Committees of the United States Senate and the House of Representatives, and such descriptions shall have the same force and effect as if included in this chapter: <i>Provided, however</i>, That correction of clerical and typographical errors in such legal descriptions and maps may be made.
 
-&emsp;(2) Maintain, available to the public, records pertaining to said wilderness areas, including maps and legal descriptions, copies of regulations governing them, copies of public notices of, and reports submitted to Congress regarding pending additions, eliminations, or modifications. Maps, legal descriptions, and regulations pertaining to wilderness areas within their respective jurisdictions also shall be available to the public in the offices of regional foresters, national forest supervisors, and forest rangers.
+&emsp;(2) Maintain, available to the public, records pertaining to said wilderness areas, including maps and legal descriptions, copies of regulations governing them, copies of public notices of, and reports submitted to Congress regarding pending additions, eliminations, or modifications. Maps, legal descriptions, and regulations pertaining to wilderness areas within their respective jurisdictions also shall beavailable to the public in the offices of regional foresters, national forest supervisors, and forest rangers.
 
 #### (b) Review by Secretary of Agriculture of classifications as primitive areas; Presidential recommendations to Congress; approval of Congress; size of primitive areas; Gore Range-Eagles Nest Primitive Area, Colorado
 
@@ -36,7 +36,7 @@ Any modification or adjustment of boundaries of any wilderness area shall be rec
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energyand Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

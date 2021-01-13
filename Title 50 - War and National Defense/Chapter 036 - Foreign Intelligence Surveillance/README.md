@@ -8,7 +8,7 @@
 | [1802\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001802%20-%20Electronic%20surveillance%20authorization%20without%20court%20order%3B%20certification%20by%20Attorney%20General%3B%20reports%20to%20Congressional%20committees%E2%80%A6.md) | Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees; transmittal under seal; duties and compensation of communication common carrier; applications; jurisdiction of court. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001803%20-%20Designation%20of%20judges.md) | Designation of judges. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001804%20-%20Applications%20for%20court%20orders.md) | Applications for court orders. |
-| [1805\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805%20-%20Issuance%20of%20order.md) | Issuance or order. |
+| [1805\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001805%20-%20Issuance%20of%20order.md) | Issuance of order. |
 | 1805a to 1805c. Repealed. |  |
 | [1806\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001806%20-%20Use%20of%20information.md) | Use of information. |
 | [1807\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001807%20-%20Report%20of%20electronic%20surveillance.md) | Report of electronic surveillance. |
@@ -54,9 +54,9 @@
 
 |  |  |
 | :--- | ---: |
-| [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
-| [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Congressional%20oversight.md) | Congressional oversight. |
-| [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9356%2C%20title%20II%2C%20%C2%A7215%2C%20Oct.%2026%2C%202001%2C%20115%20Stat.%20287.md) | Repealed. |
+| [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Definitions.md) | Definitions. |
+| [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
+| [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Congressional%20oversight.md) | Congressional oversight. |
 | [1864\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001864%20-%20Notification%20of%20changes%20to%20retention%20of%20call%20detail%20record%20policies.md) | Notification of changes to retention of call detail record policies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

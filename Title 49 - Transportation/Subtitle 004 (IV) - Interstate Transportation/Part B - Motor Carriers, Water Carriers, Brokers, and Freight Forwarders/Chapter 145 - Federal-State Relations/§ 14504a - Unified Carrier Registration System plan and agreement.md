@@ -100,7 +100,7 @@ Vehicle registration.—The term "vehicle registration" means the registration o
 
 (b)
 
-Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
+Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions ofthis section as if the freight forwarder is a motor carrier.
 
 (c)
 
@@ -190,7 +190,7 @@ Rules and regulations governing the ucr agreement.—The board of directors shal
 
 &emsp;&emsp;(A) prescribe uniform forms and formats, for—
 
-&emsp;&emsp;&emsp;(i) the annual submission of the information required by a base-State of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder;
+&emsp;&emsp;&emsp;(i) the annual submission of the information required by a base-State of a motorcarrier, motor private carrier, leasing company, broker, or freight forwarder;
 
 &emsp;&emsp;&emsp;(ii) the transmission of information by a participating State to the Unified Carrier Registration System;
 
@@ -242,7 +242,7 @@ Subcommittees.—
 
 &emsp;&emsp;(A)
 
-Industry advisory subcommittee.—The chairperson shall appoint an industryadvisory subcommittee. The industry advisory subcommittee shall consider any matter before the board and make recommendations to the board.
+Industry advisory subcommittee.—The chairperson shall appoint an industry advisory subcommittee. The industry advisory subcommittee shall consider any matter before the board and make recommendations to the board.
 
 &emsp;&emsp;(B)
 

@@ -10,11 +10,15 @@ A person who, outside the United States, engages in the act of—
 
 (Added Pub. L. 103–322, title XII, §120003(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 107–56, title III, §374(a), Oct. 26, 2001, 115 Stat. 340.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56, §374(a)(2), in concluding provisions, substituted "shall be punished as is provided for the like offense within the United States" for "shall be fined under this title, imprisoned not more than 20 years, or both".
 
 Par. (2). Pub. L. 107–56, §374(a)(1), inserted "analog, digital, or electronic image," after "plate, stone,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1992 Amendment
 

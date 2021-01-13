@@ -60,7 +60,7 @@
 
 #### (4) Consultation with Board
 
-&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth inparagraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
+&emsp;The Commissioner shall consult with the Oversight Board on all matters set forth in paragraphs (2) and (3) (other than paragraph (3)(A)) of section 7802(d).
 
 #### (b) Chief Counsel for the Internal Revenue Service
 
@@ -118,7 +118,7 @@
 
 #### (ii) Appointment
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and theOversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
 
 #### (iii) Qualifications
 
@@ -184,7 +184,7 @@
 
 #### (iii) Report to be submitted directly
 
-&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget. The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).
+&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of theTreasury, or the Office of Management and Budget. The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).
 
 #### (iv) Coordination with report of Treasury Inspector General for Tax Administration
 
@@ -210,7 +210,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) appoint local taxpayer advocates and make available at least 1 such advocate for each State; and
 
-&emsp;&emsp;&emsp;&emsp;(II) evaluate and take personnel actions (including dismissal) with respectto any employee of any local office of a taxpayer advocate described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) evaluate and take personnel actions (including dismissal) with respect to any employee of any local office of a taxpayer advocate described in subclause (I).
 
 #### (ii) Consultation
 
@@ -288,7 +288,7 @@
 
 &emsp;(A)
 
-In general.—The Treasury Inspector General for Tax Administration shall includein each semiannual report under section 5 of the Inspector General Act of 1978—
+In general.—The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 5 of the Inspector General Act of 1978—
 
 &emsp;&emsp;(i) the number of taxpayer complaints during the reporting period;
 
@@ -370,7 +370,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (D) Not applicable to frivolous positions
 
-&emsp;&emsp;This paragraph shall not apply to a request for referral to the Internal Revenue Service Independent Office of Appeals which is denied on the basis that the issue involvedis a frivolous position (within the meaning of section 6702(c)).
+&emsp;&emsp;This paragraph shall not apply to a request for referral to the Internal Revenue Service Independent Office of Appeals which is denied on the basis that the issue involved is a frivolous position (within the meaning of section 6702(c)).
 
 #### (6) Staff
 
@@ -460,7 +460,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (A) Information technology
 
-&emsp;&emsp;For purposes of this subsection, the term "information technology" has the meaninggiven such term by section 11101 of title 40, United States Code.
+&emsp;&emsp;For purposes of this subsection, the term "information technology" has the meaning given such term by section 11101 of title 40, United States Code.
 
 #### (B) Internal Revenue Service
 
@@ -518,7 +518,7 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 #### Change of Name
 
-Pub. L. 116–25, title I, §1001(c), July 1, 2019, 133 Stat. 985, provided that: "Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals."
+Pub. L. 116–25, title I, §1001(c), July 1, 2019, 133 Stat. 985, provided that: "Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as areference to the Internal Revenue Service Independent Office of Appeals."
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

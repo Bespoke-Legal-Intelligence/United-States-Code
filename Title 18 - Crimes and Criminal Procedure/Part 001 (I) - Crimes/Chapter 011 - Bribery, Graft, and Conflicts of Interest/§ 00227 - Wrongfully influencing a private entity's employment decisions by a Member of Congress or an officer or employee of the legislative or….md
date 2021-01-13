@@ -18,9 +18,13 @@
 
 (Added Pub. L. 110–81, title I, §102(a), Sept. 14, 2007, 121 Stat. 739; amended Pub. L. 112–105, §18(a), Apr. 4, 2012, 126 Stat. 304.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–105 inserted "or an officer or employee of the legislative or executive branch" after "Congress" in section catchline, designated existing provisions as subsec. (a), substituted "a covered government person" for "a Senator or Representative in, or a Delegate or Resident Commissioner to, the Congress or an employee of either House of Congress" in introductory provisions, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

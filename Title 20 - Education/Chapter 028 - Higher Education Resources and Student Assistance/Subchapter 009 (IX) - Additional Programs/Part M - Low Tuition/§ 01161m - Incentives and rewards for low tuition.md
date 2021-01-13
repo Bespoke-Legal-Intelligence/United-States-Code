@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) have an annual tuition and fee increase, expressed as a percentage change, for the most recent academic year for which satisfactory data is available, that is in the lowest 20 percent of such increases for each category described in subsection (b);
 
-&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are in the lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
+&emsp;&emsp;(B) are public institutions of higher education that have tuition and fees that are inthe lowest quartile of institutions in each category described in subsection (b)(1), (b)(4), or (b)(7); or
 
 &emsp;&emsp;(C) are public institutions of higher education that have a tuition and fee increase of less than $600 for a first-time, full-time undergraduate student.
 
@@ -92,5 +92,5 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 

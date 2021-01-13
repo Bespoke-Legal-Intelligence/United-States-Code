@@ -116,7 +116,7 @@ The entry and exit data system shall include a requirement for the collection of
 
 #### (3) Data maintenance procedures
 
-&emsp;Heads of agencies that have databases or data systems linked to the entry and exit data system shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, such databases or data systems that ensure the accuracy and integrity of the data and for limiting access to the information in the databases or data systems to authorized personnel.
+&emsp;Heads of agencies that have databases or data systems linked to the entry and exit data system shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, such databases or data systems that ensurethe accuracy and integrity of the data and for limiting access to the information in the databases or data systems to authorized personnel.
 
 #### (4) Requirements
 
@@ -262,6 +262,8 @@ There are authorized to be appropriated to the Secretary, for each of the fiscal
 
 (Pub. L. 108–458, title VII, §7208, Dec. 17, 2004, 118 Stat. 3817; Pub. L. 110–161, div. E, title V, §565, Dec. 26, 2007, 121 Stat. 2091.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (b)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
@@ -278,7 +280,7 @@ December 26, 2007, referred to in subsec. (k)(3)(C), (D), was in the original "t
 
 #### Codification
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also aspart of the 9/11 Commission Implementation Act of 2004, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Amendments
 

@@ -42,11 +42,11 @@ Conditions of conveyance.—If the Secretary approves the conveyance of a histor
 
 &emsp;&emsp;(C)
 
-Conditions of sale.—If the Secretary approves the sale of a historic light station described in subparagraph (A), the sale shall be subject to the conditions set forth in paragraphs (1) to (4) and (8) of subsection (a), and subsection (b), of section 305104 of this title and any other terms or conditions that the Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
+Conditions of sale.—If the Secretary approves the sale of a historic light station described in subparagraph (A), the sale shall be subject to the conditions set forth in paragraphs (1) to (4) and (8) of subsection (a), and subsection (b), of section 305104 of this title and any other terms or conditions thatthe Secretary considers necessary to protect the resources of the System unit or wildlife refuge.
 
 &emsp;&emsp;(D)
 
-Cooperative agreements.—The Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities with respect to historic light stations described in subparagraph (A), as provided in this division, to the extent that the cooperative agreements are consistent with the Secretary's responsibilities to manageand administer the System unit or wildlife refuge.
+Cooperative agreements.—The Secretary is encouraged to enter into cooperative agreements with appropriate eligible entities with respect to historic light stations described in subparagraph (A), as provided in this division, to the extent that the cooperative agreements are consistent with the Secretary's responsibilities to manage and administer the System unit or wildlife refuge.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3216.)
 
@@ -65,6 +65,8 @@ Historical and Revision Notes
 16 U.S.C. 470w–7(b).
 
 Pub. L. 89–665, title III, §308(b), as added Pub. L. 106–355, §2, Oct. 24, 2000, 114 Stat. 1385; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -22,7 +22,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 #### (c) Duties and responsibilities
 
-The Commission shall appraise United States Government activities intended to understand, inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as "public diplomacy activities".
+The Commission shall appraise United States Government activities intended to understand,inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as "public diplomacy activities".
 
 #### (d) Reports
 
@@ -102,6 +102,8 @@ The Commission shall appraise United States Government activities intended to un
 
 (Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790; Pub. L. 112–239, div. A, title XII, §1280(a)–(c), Jan. 2, 2013, 126 Stat. 2032.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1280(a), inserted "(referred to in this section as the 'Commission')" before period at end.
@@ -114,13 +116,15 @@ Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior 
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
 <b>1998</b>—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
 <b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
 <b>1987</b>—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -160,7 +164,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29,
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Continued Service of Commission Members
 

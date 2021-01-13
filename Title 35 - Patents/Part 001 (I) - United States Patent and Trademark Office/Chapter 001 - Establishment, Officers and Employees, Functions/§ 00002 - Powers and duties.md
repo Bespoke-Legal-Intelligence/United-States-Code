@@ -28,7 +28,7 @@ Specific Powers.—The Office—
 
 &emsp;&emsp;(F) provide for the development of a performance-based process that includes quantitative and qualitative measures and standards for evaluating cost-effectiveness and is consistent with the principles of impartiality and competitiveness; and
 
-&emsp;&emsp;(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies that are important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
+&emsp;&emsp;(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies thatare important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
 
 &emsp;(3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
@@ -82,6 +82,8 @@ Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
 
 "Certificates of trade-mark registrations" is added, see note under section 1. Changes in language are made and the specific date eliminated.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -106,6 +108,8 @@ Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted ", and the Office is autho
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–274, §1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: "Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) \[amending this section and section 3 of this title\] shall be effective as of September 16, 2011."
@@ -125,6 +129,60 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Temporary Authority of Director of the USPTO During the COVID–19 Emergency
+
+Pub. L. 116–136, div. B, title II, §12004, Mar. 27, 2020, 134 Stat. 517, provided that:
+
+"(a)
+
+In General.—During the emergency period described in subsection (e), the Director may toll, waive, adjust, or modify, any timing deadline established by title 35, United States Code, the Trademark Act, section 18 of the Leahy-Smith America Invents Act \[Pub. L. 112–29\] (35 U.S.C. 321 note), or regulations promulgated thereunder, in effect during such period, if the Director determines that the emergency related to such period—
+
+&emsp;"(1) materially affects the functioning of the Patent and Trademark Office;
+
+&emsp;"(2) prejudices the rights of applicants, registrants, patent owners, or others appearing before the Office; or
+
+&emsp;"(3) prevents applicants, registrants, patent owners, or others appearing before the Office from filing a document or fee with the Office.
+
+"(b)
+
+Public Notice.—If the Director determines that tolling, waiving, adjusting, or modifying a timing deadline under subsection (a) is appropriate, the Director shall publish publicly a notice to such effect.
+
+"(c)
+
+Statement Required.—Not later than 20 days after the Director tolls, waives, adjusts, or modifies a timing deadline under subsection (a) and such toll, waiver, adjustment, or modification is in effect for a consecutive or cumulative period exceeding 120 days, the Director shall submit to Congress a statement describing the action taken, relevant background, and rationale for the period of tolling, waiver, adjustment, or modification.
+
+"(d)
+
+Other Laws.—Notwithstanding section 301 of the National Emergencies Act (50 U.S.C. 1631), the authority of the Director under subsection (a) is not contingent on a specification made by the President under such section or any other requirement under that Act \[50 U.S.C. 1601 et seq.\] (other than the emergency declaration under section 201(a) of such Act (50 U.S.C. 1621(a))). The authority described in this section supersedes the authority of title II of the National Emergencies Act (50 U.S.C. 1621 et seq.).
+
+"(e)
+
+Emergency Period.—The emergency period described in this subsection includes the duration of the portion of the emergency declared by the President pursuant to the National Emergencies Act on March 13, 2020, as a result of the COVID–19 outbreak (and any renewal thereof) beginning on or after the date of the enactment of this section \[Mar. 27, 2020\] and the 60 day period following such duration.
+
+"(f)
+
+Rule of Construction.—Nothing in this section may be construed as limiting other statutory authorities the Director may have to grant relief regarding filings or deadlines.
+
+"(g)
+
+Sunset.—Notwithstanding subsection (a), the authorities provided under this section shall expire upon the expiration of the 2-year period after the date of the enactment of this section.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Director.—The term 'Director' means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+
+&emsp;"(2)
+
+Trademark act.—The term 'Trademark Act' means the Act entitled 'An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes', approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+
+"(i)
+
+Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### USPTO Law School Clinic Certification Program
 

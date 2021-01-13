@@ -10,9 +10,13 @@ Reports to Congress.—Not later than March 1 of each year, the Secretary shall 
 
 (Added Pub. L. 114–315, title IV, §404(a)(2), Dec. 16, 2016, 130 Stat. 1554; amended Pub. L. 115–48, title I, §114, Aug. 16, 2017, 131 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–48 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

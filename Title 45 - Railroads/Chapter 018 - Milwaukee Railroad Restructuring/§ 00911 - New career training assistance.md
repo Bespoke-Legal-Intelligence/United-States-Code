@@ -26,9 +26,13 @@ As used in this section—
 
 (Pub. L. 96–101, §12, Nov. 4, 1979, 93 Stat. 743; Pub. L. 96–254, title I, §119(f), May 30, 1980, 94 Stat. 408.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (e)(2). Pub. L. 96–254 inserted reference to State-accredited institutions which have been in existence for not less than two years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

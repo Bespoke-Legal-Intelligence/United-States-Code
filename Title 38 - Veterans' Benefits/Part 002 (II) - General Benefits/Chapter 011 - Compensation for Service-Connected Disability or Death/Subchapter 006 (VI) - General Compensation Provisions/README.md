@@ -18,3 +18,6 @@
 - [&sect; 01161 - Payment of disability compensation in disability severance cases](%C2%A7%2001161%20-%20Payment%20of%20disability%20compensation%20in%20disability%20severance%20cases.md)
 - [&sect; 01162 - Clothing allowance](%C2%A7%2001162%20-%20Clothing%20allowance.md)
 - [&sect; 01163 - Trial work periods and vocational rehabilitation for certain veterans with total disability ratings](%C2%A7%2001163%20-%20Trial%20work%20periods%20and%20vocational%20rehabilitation%20for%20certain%20veterans%20with%20total%20disability%20ratings.md)
+- [&sect; 01164 - 1 Presumptions of service-connection for Coronavirus Disease 2019](%C2%A7%2001164%20-%201%20Presumptions%20of%20service-connection%20for%20Coronavirus%20Disease%202019.md)
+- [&sect; 01164 - 1 Specialized teams to evaluate claims involving military sexual trauma](%C2%A7%2001164%20-%201%20Specialized%20teams%20to%20evaluate%20claims%20involving%20military%20sexual%20trauma.md)
+- [&sect; 01165 - Choice of sex of medical examiner for certain disabilities](%C2%A7%2001165%20-%20Choice%20of%20sex%20of%20medical%20examiner%20for%20certain%20disabilities.md)

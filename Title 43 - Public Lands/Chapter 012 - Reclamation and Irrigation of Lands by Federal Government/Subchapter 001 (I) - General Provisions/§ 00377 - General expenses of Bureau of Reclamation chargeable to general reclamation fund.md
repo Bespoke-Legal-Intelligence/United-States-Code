@@ -4,15 +4,21 @@ The cost and expense after June 30, 1945, of the office of the Commissioner in t
 
 (Dec. 5, 1924, ch. 4, §4, subsec. O, 43 Stat. 704; Apr. 19, 1945, ch. 80, 59 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1945</b>—Act Apr. 19, 1945, amended section generally and made it applicable after June 30, 1945.
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 The definitions in section 371 of this title apply to this section.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 

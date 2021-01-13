@@ -4,6 +4,8 @@ The President is authorized to assist the Republic of the Philippines in fulfill
 
 (Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §631; amended Pub. L. 97–72, title I, §107(b), Nov. 3, 1981, 95 Stat. 1052; renumbered §1731, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 1731 was renumbered section 3531 of this title.
@@ -13,6 +15,8 @@ Prior section 1731 was renumbered section 3531 of this title.
 <b>1991</b>—Pub. L. 102–83 renumbered section 631 of this title as this section.
 
 <b>1981</b>—Pub. L. 97–72 inserted "in fulfilling its responsibility" after "The President is authorized to assist the Republic of the Philippines".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

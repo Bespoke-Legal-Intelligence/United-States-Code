@@ -4,7 +4,7 @@
 
 (1) Subject to subsection (g) of this section and section 225g(b)(1) of this title, effective October 1, 1987, the District shall be responsible for the provision of mental health services to residents of the District.
 
-(2) Not later than October 1, 1993, the Mayor shall complete the implementation of the finalsystem implementation plan reviewed by the Congress and the Council in accordance with the provisions of this subchapter for the establishment of a comprehensive District mental health system to provide mental health services and programs through community mental health facilities to individuals in the District of Columbia.
+(2) Not later than October 1, 1993, the Mayor shall complete the implementation of the final system implementation plan reviewed by the Congress and the Council in accordance with the provisions of this subchapter for the establishment of a comprehensive District mental health system to provide mental health services and programs through community mental health facilities to individuals in the District of Columbia.
 
 #### (b) Mayor; preliminary system implementation plan; final implementation plan; submission to and review by Council and Congressional committees
 
@@ -66,6 +66,8 @@ During the service coordination period, the District of Columbia and the Secreta
 
 (Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, as amended, which is not classified to the Code.
@@ -81,6 +83,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted "and, except as provided under an agreement entered into pursuant to subparagraph (C), complete" for "and complete" and "October 1, 1993" for "October 1, 1991".
 
 Subsec. (f)(2)(C). Pub. L. 102–150, §2(2), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -108,7 +112,7 @@ In General.—Notwithstanding any other provision of law, the United States is n
 
 &emsp;"(2) Preservation, maintenance, or repairs pursuant to a use permit executed on September 30, 1987, under which the United States (acting through the Secretary of Health and Human Services) granted permission to the District of Columbia to use and occupy portions of the Saint Elizabeths Hospital property known as the 'West Campus'.
 
-&emsp;"(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of theSaint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225g(b); sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act \[Dec. 15, 2006\].
+&emsp;"(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225g(b); sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act \[Dec. 15, 2006\].
 
 "(b)
 

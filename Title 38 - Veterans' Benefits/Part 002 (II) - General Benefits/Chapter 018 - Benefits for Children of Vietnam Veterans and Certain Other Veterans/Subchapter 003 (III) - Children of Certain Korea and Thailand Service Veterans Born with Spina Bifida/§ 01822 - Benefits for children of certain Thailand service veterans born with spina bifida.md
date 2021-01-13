@@ -22,6 +22,8 @@ Herbicide Agent.—For purposes of this section, the term "herbicide agent" mean
 
 (Added Pub. L. 116–23, §4(a), June 25, 2019, 133 Stat. 970.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1822 was renumbered section 1832 of this title.
@@ -41,6 +43,8 @@ Another prior section 1824 was renumbered section 3725 of this title and subsequ
 A prior section 1825 was renumbered 3725 of this title and subsequently repealed.
 
 Prior sections 1826 to 1830 were renumbered sections 3726 to 3730 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

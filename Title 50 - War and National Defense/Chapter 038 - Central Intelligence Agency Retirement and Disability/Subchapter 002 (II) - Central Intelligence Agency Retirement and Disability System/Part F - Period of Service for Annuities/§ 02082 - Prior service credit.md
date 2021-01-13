@@ -6,7 +6,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;(1) civilian service in the Government before becoming a participant that would be creditable toward retirement under subchapter III of chapter 83 of title 5 (as determined under section 8332(b) of such title); and
 
-&emsp;(2) honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps of the Public Health Service after June 30, 1960, or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961.
+&emsp;(2) honorable active service in the Armed Forces before the date of the separation upon which eligibility for an annuity is based, or honorable active service in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service after June 30, 1960, or as a commissioned officer of the National Oceanic and Atmospheric Administration after June 30, 1961.
 
 #### (b) Limitations
 
@@ -94,7 +94,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;&emsp;&emsp;(ii) caused by an instrumentality of war and incurred in the line of duty during a period of war (as defined in section 1101 of title 38); or
 
-&emsp;&emsp;(B) under chapter 67 <sup>1</sup> of title 10.
+&emsp;&emsp;(B) under chapter 67 <sup>2</sup> of title 10.
 
 #### (4) Survivor annuity
 
@@ -181,6 +181,10 @@ Subsec. (h)(4). Pub. L. 116–92, §6202(a)(2)(A)(ii), substituted "2031(l)" for
 
 <b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4)."
 
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–92 effective as if enacted on Oct. 28, 2009, and applicable to computations or participants, respectively, as of such date, see section 6202(e) of Pub. L. 116–92, set out as a note under section 2031 of this title.
@@ -191,11 +195,13 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a noteunder section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under section 2001 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -44,7 +44,7 @@ Other members.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Members of the board of governors other than the chairman shallbe elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
+In general.—Members of the board of governors other than the chairman shall be elected at the annual meeting of the corporation in accordance with such procedures as may be provided in the bylaws.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -96,7 +96,7 @@ Membership; appointment by president.—
 
 &emsp;&emsp;(A)
 
-In general.—The advisory council shall be composed of no fewer than 8 and no more than 10 members, each of whom shall be appointed by the President from principal officers of the executive departments and senior officers of the Armed Forces whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation.
+In general.—The advisory council shall be composed of no fewer than 8 and no more than 10 members, each of whom shall be appointed by the President from principal officers of the executive departments andsenior officers of the Armed Forces whose positions and interests qualify them to contribute to carrying out the programs and purposes of the corporation.
 
 &emsp;&emsp;(B)
 
@@ -191,6 +191,8 @@ In subsection (b)(1), the words "if, before the end of the 3-year term, the gove
 In subsection (b)(2), the words "as soon as practicable" are substituted for "as soon as may be" for clarity. The words "that may occur by death, resignation, or otherwise" are omitted as unnecessary. The words "a vacancy occurring in an elected position on the board" are substituted for "Any vacancy that may occur in the Governors elected by the chapters pursuant to subsection (b) of this section or in the Governors-at-large elected by the Board of Governors pursuant to subsection (c) of this section" to eliminate unnecessary words. The words "An individual appointed by the board to fill a vacancy serves" are substituted for "such appointees to serve" for clarity.
 
 In subsection (c)(2), the words "of the corporation" are substituted for "designated by the President of the United States" for consistency in the revised section.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

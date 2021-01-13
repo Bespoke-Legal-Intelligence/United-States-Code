@@ -30,7 +30,7 @@ Activities eligible for grant assistance under this section are the following:
 
 &emsp;(4) Purchase by the State of radon measurement equipment or devices.
 
-&emsp;(5) Purchase and maintenance of analytical equipment connected to radon measurement and analysis, including costs of calibration of such equipment.
+&emsp;(5) Purchase and maintenance of analytical equipment connected to radon measurementand analysis, including costs of calibration of such equipment.
 
 &emsp;(6) Payment of costs of Environmental Protection Agency-approved training programs related to radon for permanent State or local employees.
 

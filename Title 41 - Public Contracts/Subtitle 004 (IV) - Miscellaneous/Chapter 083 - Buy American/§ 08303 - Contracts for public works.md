@@ -28,7 +28,7 @@ Particular article, material, or supply.—If the head of the department or inde
 
 &emsp;(3)
 
-Inconsistent with public interest.—Subsection (a) shall be regarded as requiringthe purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned determines their purchase to be inconsistent with the public interest or their cost to be unreasonable.
+Inconsistent with public interest.—Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned determines their purchase to be inconsistent with the public interest or their cost to be unreasonable.
 
 (c)
 
@@ -78,6 +78,8 @@ In subsection (b)(3), the words "In order to clarify the original intent of Cong
 
 In subsection (c), the words "in the United States or elsewhere" are omitted as unnecessary.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10582. Uniform Procedures for Determinations
 
 Ex. Ord. No. 10582, Dec. 17, 1954, 19 F.R. 8723, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13881, §3, July 15, 2019, 84 F.R. 34258, provided:
@@ -100,7 +102,7 @@ Sec. 3. Nothing in this order shall affect the authority or responsibility of an
 
 (b) To place a fair proportion of the total purchases with small business concerns in accordance with section 302(b) of the Federal Property and Administrative Services Act of 1949, as amended \[former 41 U.S.C. 252(b)\] \[now 41 U.S.C. 3104\], \[former\] section 2(b) of the Armed Services Procurement Act of 1947, as amended, and \[former\] section 202 of the Small Business Act of 1953; or
 
-(c) To reject a bid or offer to furnish material of foreign origin in any situation in which the domestic supplier offering the lowest price for furnishing the desired materials undertakes to produce substantially all of such materials in areas of substantial unemployment, as determined by the Secretary of Labor in accordance with such appropriate regulations as he may establish and during such period as the President may determine that it is in the national interest to provide to such areas preference in the award of Government contracts: <i>Provided</i>, that nothing in this section shall prevent the rejection of a bid or offered price which is excessive; or
+(c) To reject a bid or offer to furnish material of foreign origin in any situation in which the domestic supplier offering the lowest price for furnishing the desired materials undertakes to produce substantially all ofsuch materials in areas of substantial unemployment, as determined by the Secretary of Labor in accordance with such appropriate regulations as he may establish and during such period as the President may determine that it is in the national interest to provide to such areas preference in the award of Government contracts: <i>Provided</i>, that nothing in this section shall prevent the rejection of a bid or offered price which is excessive; or
 
 (d) To reject any bid or offer for materials of foreign origin if such rejection is necessary to protect essential national-security interests after receiving advice with respect thereto from the President or from the Director \[now Administrator\] of the Federal Emergency Management Agency. In providing this advice the Director \[Administrator\] shall be governed by the principle that exceptions under this section shall be made only upon a clear showing that the payment of a greater differential than the procedures of this section generally prescribe is justified by consideration of national security.
 

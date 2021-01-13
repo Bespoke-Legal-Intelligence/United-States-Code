@@ -14,11 +14,15 @@ The Bureau shall require, in regulations which the Bureau shall prescribe, such 
 
 (Pub. L. 102–242, title II, §265, Dec. 19, 1991, 105 Stat. 2336; Pub. L. 102–550, title XVI, §1604(e)(2)(A), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, §1100B(1), July 21, 2010, 124 Stat. 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" in two places in introductory provisions.
 
 <b>1992</b>—Pub. L. 102–550 made technical amendment to references to "this chapter" wherever appearing to reflect correction of corresponding provision of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

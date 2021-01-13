@@ -24,7 +24,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;If the benefits of a household are reduced under a Federal, State, or local law relating to a means-tested public assistance program for the failure of a member of the household to perform an action required under the law or program, for the duration of the reduction—
 
-&emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decreasein the income of the household to the extent that the decrease is the result of the reduction; and
+&emsp;&emsp;(A) the household may not receive an increased allotment as the result of a decrease in the income of the household to the extent that the decrease is the result of the reduction; and
 
 &emsp;&emsp;(B) the State agency may reduce the allotment of the household by not more than 25 percent.
 
@@ -152,7 +152,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868; Pub. L. 115–334, title IV, §4022(3), Dec. 20, 2018, 132 Stat. 4653.)
+(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I,§§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868; Pub. L. 115–334, title IV, §4022(3), Dec. 20, 2018, 132 Stat. 4653.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Subsec. (c)(2)(B). Pub. L. 104–193, §827, struck out "of more than one month"
 
 Subsec. (c)(3). Pub. L. 104–193, §828, added par. (3) and struck out former par. (3) which read as follows: "A State agency—
 
-&emsp;"(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide thatan eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
+&emsp;"(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
 
 &emsp;"(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title."
 
@@ -268,7 +268,7 @@ Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amend
 
 Amendment by Pub. L. 100–435 effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see section 701(b)(3)(A) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
-Pub. L. 100–387, title V, §502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV,§4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 100–387, title V, §502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 "(1) The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[Aug. 11, 1988\].
 

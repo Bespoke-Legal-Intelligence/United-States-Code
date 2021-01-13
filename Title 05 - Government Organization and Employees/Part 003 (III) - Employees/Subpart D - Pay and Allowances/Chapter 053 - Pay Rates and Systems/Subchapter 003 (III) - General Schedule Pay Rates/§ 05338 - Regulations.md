@@ -8,9 +8,13 @@ The Office of Personnel Management may prescribe regulations necessary for the a
 
 The section is added on authority of former sections 1072 and 1072a, which are carried into section 5115.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

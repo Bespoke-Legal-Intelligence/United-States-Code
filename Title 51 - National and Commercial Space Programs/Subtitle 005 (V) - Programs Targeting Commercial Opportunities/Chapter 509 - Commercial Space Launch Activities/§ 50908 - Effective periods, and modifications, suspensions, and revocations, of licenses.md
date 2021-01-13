@@ -2,7 +2,7 @@
 
 (a)
 
-Effective Periods of Licenses.—The Secretary of Transportation shall specify the periodfor which a license issued or transferred under this chapter is in effect.
+Effective Periods of Licenses.—The Secretary of Transportation shall specify the period for which a license issued or transferred under this chapter is in effect.
 
 (b)
 
@@ -77,6 +77,8 @@ In subsection (a), the words "of time" and "in accordance with regulations issue
 In subsection (b), the words "the requirements of" are omitted as surplus.
 
 In subsection (e), the words "Whenever the Secretary takes any action" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

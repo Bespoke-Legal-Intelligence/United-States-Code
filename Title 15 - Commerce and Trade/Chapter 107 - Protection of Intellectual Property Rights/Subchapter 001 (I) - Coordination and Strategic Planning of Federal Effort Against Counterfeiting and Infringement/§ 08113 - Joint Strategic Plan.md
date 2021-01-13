@@ -12,7 +12,7 @@ The objectives of the Joint Strategic Plan against counterfeiting and infringeme
 
 &emsp;(4) Disrupting and eliminating domestic and international counterfeiting and infringement networks.
 
-&emsp;(5) Strengthening the capacity of other countries to protect and enforce intellectual property rights, and reducing the number of countries that fail to enforce laws preventing the financing, production, trafficking, and sale of counterfeit and infringing goods.
+&emsp;(5) Strengthening the capacity of other countries to protect and enforce intellectual property rights, and reducing the number ofcountries that fail to enforce laws preventing the financing, production, trafficking, and sale of counterfeit and infringing goods.
 
 &emsp;(6) Working with other countries to establish international standards and policies for the effective protection and enforcement of intellectual property rights.
 
@@ -48,7 +48,7 @@ In the development and implementation of the joint strategic plan, the heads of 
 
 Each joint strategic plan shall include the following:
 
-&emsp;(1) A description of the priorities identified for carrying out the objectives in the jointstrategic plan, including activities of the Federal Government relating to intellectual property enforcement.
+&emsp;(1) A description of the priorities identified for carrying out the objectives in the joint strategic plan, including activities of the Federal Government relating to intellectual property enforcement.
 
 &emsp;(2) A description of the means to be employed to achieve the priorities, including the means for improving the efficiency and effectiveness of the Federal Government's enforcement efforts against counterfeiting and infringement.
 

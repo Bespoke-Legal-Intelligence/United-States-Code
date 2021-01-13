@@ -100,7 +100,7 @@
 
 #### (F) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply to an alien who is a native or citizen of a countryin the Western Hemisphere with whose government the United States does not have full diplomatic relations and who arrives by aircraft at a port of entry.
+&emsp;&emsp;Subparagraph (A) shall not apply to an alien who is a native or citizen of a country in the Western Hemisphere with whose government the United States does not have full diplomatic relations and who arrives by aircraft at a port of entry.
 
 #### (G) Commonwealth of the Northern Mariana Islands
 
@@ -110,7 +110,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubtentitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
 
 #### (B) Exception
 
@@ -186,6 +186,8 @@
 
 (June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645; Pub. L. 110–229, title VII, §702(j)(5), May 8, 2008, 122 Stat. 867.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -203,6 +205,8 @@ Subsec. (b). Pub. L. 104–132, §422(a), which directed the general amendment o
 Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follows: "In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or section 1326 of this title, no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title."
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted "subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title" for "paragraph (27), (28), or (29) of section 1182(a) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

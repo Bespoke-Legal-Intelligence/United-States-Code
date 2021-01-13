@@ -2,7 +2,7 @@
 
 There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with the advice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
 
-(Feb. 14, 1903, ch. 552, §1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§1, 2, 35 Stat. 626; Mar. 4, 1909, ch.297, §1, 35 Stat. 861; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 3, 1917, ch. 163, §1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
+(Feb. 14, 1903, ch. 552, §1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§1, 2, 35 Stat. 626; Mar. 4, 1909, ch. 297, §1, 35 Stat. 861; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 3, 1917, ch. 163, §1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ The White House, March 13, 1950.
 
 #### Federal Maritime Board, and Maritime Functions of Secretary of Commerce
 
-Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
+Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with powervested in him to authorize their performance by said Maritime Administrator.
 
 #### Executive Order No. 13339
 
@@ -80,7 +80,7 @@ Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 1340
 
 #### Executive Order No. 13515
 
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Oct. 7, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, §8, Sept. 30, 2013, 78 F.R. 61819, which established the President's Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, set out below.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, §4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, §8, Sept. 30, 2013, 78 F.R. 61819, which established the President's Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, set out below.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 
@@ -128,7 +128,7 @@ Sec. 2. <i>President's Advisory Commission on Asian Americans and Pacific Island
 
 (ix) an analysis of the economic condition of the United States Pacific Island territories and freely associated states in an effort to devise strategies for helping each island develop and maintain a strong and diversified economy that supports its residents.
 
-(b) <i>Membership of the Commission</i>. The Commission shall consist of members appointed by the President who are United States citizens or nationals, or who are citizens of the Republic of Palau, the Republic of the Marshall Islands, or the Federated States of Micronesia who are subject to an applicable compact of free association with the United States, and shall include individuals having a history of engagement and involvement with AAPI communities and enterprises. The President shall designate one member of the Commission to serve as Chair.
+(b) <i>Membership of the Commission</i>. The Commission shall consist of members appointed by the President who are United States citizens or nationals, or who are citizens of the Republic of Palau, the Republic of the Marshall Islands, or the Federated States of Micronesia who are subject to an applicable compact of free association with the United States, and shall include individuals having a history of engagement and involvement with AAPI communities and enterprises. ThePresident shall designate one member of the Commission to serve as Chair.
 
 (c) <i>Administration of the Commission</i>. (i) The Secretary of Commerce, in consultation with the Secretary of Transportation, shall designate an Executive Director for the Commission. The Department of Commerce shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations, and shall, as necessary and appropriate under section 1535 of title 31, United States Code, enter into one or more agreements to obtain goods or services from the Department of Transportation in support of the Commission. The heads of other executive departments and agencies shall assist and provide information to the Commission, consistent with applicable law, as may be necessary to carry out its functions. Each executive department and agency shall bear its own expenses of assisting the Commission.
 
@@ -210,7 +210,7 @@ Sec. 4. <i>General Provisions</i>. (a) This order supersedes section 1(s) of Exe
 
 (d) For purposes of this order, the term "Asian American" includes persons within the jurisdiction of the United States having origins or ancestry in any of the original peoples of East Asia, Southeast Asia, or South Asia; and the term "Pacific Islander" includes persons within the jurisdiction of the United States having origins or ancestry in any of the original peoples of Hawaii, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or other Pacific Islands.
 
-(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

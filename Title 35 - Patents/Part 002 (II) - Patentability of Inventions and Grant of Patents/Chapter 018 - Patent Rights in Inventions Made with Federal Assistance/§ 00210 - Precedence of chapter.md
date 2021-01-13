@@ -38,7 +38,7 @@
 
 &emsp;(18) section 21(d) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2218(d); 88 Stat. 1548);
 
-&emsp;(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516);
+&emsp;(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516); <sup>1</sup>
 
 &emsp;(20) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178j; 92 Stat. 2533); and
 
@@ -46,7 +46,7 @@
 
 > The Act creating this chapter shall be construed to take precedence over any future Act unless that Act specifically cites this Act and provides that it shall take precedence over this Act.
 
-(b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.
+(b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made inthe performance of funding agreements with persons other than nonprofit organizations or small business firms.
 
 (c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
 
@@ -55,6 +55,8 @@
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, §4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82
 Section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191), referred to in subsec. (a)(13), was omitted from the Code.
 
 Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(17), was classified to section 1226(d) of Title 30, Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new section 1226 of Title 30. See section 1226(c) of Title 30.
+
+Section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516), referred to in subsec. (a)(19), was repealed by Pub. L. 116–260, div. Z, title III, §3006(f), Dec. 27, 2020, 134 Stat. 2513.
 
 The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
 
@@ -100,9 +104,11 @@ Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted "section 202(c)(4
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–620 substituted "February 18, 1983" for "August 23, 1971 (36 Fed. Reg. 16887)" and inserted provision that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in paragraph 202(c)(4) and section 203 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2011 Amendment
 

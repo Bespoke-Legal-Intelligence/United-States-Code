@@ -60,7 +60,7 @@ Semi-Annual Joint Force Readiness Review.—(1) Not later than 30 days after the
 
 Classification of Reports.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
-(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L. 113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132 Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325.)
+(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L. 113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsecs. (d) to (j). Pub. L. 114–328, §331(b)(2), (3), (c), added subsec. (h)
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §321(1), substituted "the military readiness of the active and reserve components." for "military readiness." and "subsections (b), (d), (e), (f), (g), (h), and (i)." for "subsections (b), (d), (f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e)."
 
-Subsec. (d). Pub. L. 113–291, §321(2), (3), added subsec. (d) and struck out former subsec. (d) which related tocomprehensive readiness indicators for active components.
+Subsec. (d). Pub. L. 113–291, §321(2), (3), added subsec. (d) and struck out former subsec. (d) which related to comprehensive readiness indicators for active components.
 
 Subsec. (e). Pub. L. 113–291, §321(2), (4), redesignated subsec. (g) as (e) and struck out former subsec. (e) which related to logistics indicators.
 
@@ -218,7 +218,7 @@ Reporting on waivers.—Each report on personnel and unit readiness submitted to
 
 #### Quarterly Reports on Personnel and Unit Readiness
 
-Pub. L. 110–181, div. A, title III, §351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: "The amendment madeby subsection (b) \[amending this section\] shall apply with respect to the quarterly report required under section 482 of title 10, United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section."
+Pub. L. 110–181, div. A, title III, §351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to the quarterly report required under section 482 of title 10, United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section."
 
 #### Quarterly Readiness Report Requirement
 

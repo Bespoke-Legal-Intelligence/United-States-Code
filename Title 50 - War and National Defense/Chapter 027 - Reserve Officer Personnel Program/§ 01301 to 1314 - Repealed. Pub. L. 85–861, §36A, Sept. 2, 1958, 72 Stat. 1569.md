@@ -26,5 +26,5 @@ Section 1312, act Sept. 3, 1954, ch. 1257, title IV, §412, 68 Stat. 1171, provi
 
 Section 1313, act Sept. 3, 1954, ch. 1257, title IV, §413, 68 Stat. 1171, provided for promotions under Secretary's regulations. See section 14301 et seq. of Title 10.
 
-Section 1314, act Sept. 3, 1954, ch. 1257, title IV, §414, as added June 30, 1955, ch. 247, §3(e), 69 Stat. 219, relatedto promotion of Naval and Marine officers selected for promotion prior to July 1, 1955.
+Section 1314, act Sept. 3, 1954, ch. 1257, title IV, §414, as added June 30, 1955, ch. 247, §3(e), 69 Stat. 219, related to promotion of Naval and Marine officers selected for promotion prior to July 1, 1955.
 

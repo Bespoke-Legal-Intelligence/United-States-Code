@@ -1,0 +1,4 @@
+### §579d–1. Repealed. Pub. L. 116–260, div. AA, title III, §360(g), Dec. 27, 2020, 134 Stat. 2733
+
+Section, Pub. L. 115–270, title I, §1301, Oct. 23, 2018, 132 Stat. 3814, related to deauthorization of inactive projects as of Public Law 115–270.
+

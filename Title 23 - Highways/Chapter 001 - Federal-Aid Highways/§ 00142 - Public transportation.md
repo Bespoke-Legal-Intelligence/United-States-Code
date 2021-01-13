@@ -1,6 +1,6 @@
 ### §142. Public transportation
 
-(a)(1) To encourage the development, improvement, and use of public mass transportation systems operating buses on Federal-aid highways for the transportation of passengers, so as to increase the traffic capacity of the Federal-aid highways for the movement of persons, the Secretary may approve as a project on any Federal-aid highway the construction of exclusive or preferential high occupancy vehicle lanes, highway traffic control devices, bus passenger loading areas and facilities (including shelters), and fringe and transportation corridor parking facilities, which may include electric vehicle charging stations or natural gas vehicle refueling stations, to serve high occupancy vehicle and public mass transportation passengers, and sums apportioned under section 104(b) of this title shall be available to finance the cost of projects under this paragraph. If fees are charged for the use of any parking facility constructed under this section, the rate thereof shall not be in excess of that required for maintenance and operation of the facility and the cost of providing shuttle service to and from the facility (including compensation to any person for operating the facility and for providing such shuttle service).
+(a)(1) To encourage the development, improvement, and use of public mass transportation systems operating buses on Federal-aid highways for the transportation of passengers, so as to increase the traffic capacity of the Federal-aid highways for the movement of persons, the Secretary may approve as a project on any Federal-aid highway the construction of exclusive or preferential high occupancy vehicle lanes, highway traffic control devices, bus passenger loading areas and facilities (including shelters), and fringe and transportation corridor parking facilities, which may include electric vehicle charging stations or natural gas vehicle refueling stations, to serve high occupancy vehicle and public mass transportation passengers, and sums apportioned under section 104(b) of this title shall be available to finance the cost of projects under this paragraph. If fees are charged for the use of any parking facility constructed under this section, the rate thereof shall not be in excess of that required for maintenance and operation of the facility and the cost of providing shuttle service to and from thefacility (including compensation to any person for operating the facility and for providing such shuttle service).
 
 (2) In addition to the projects under paragraph (1), the Secretary may approve payment from sums apportioned under section 104(b)(2) for carrying out any capital transit project eligible for assistance under chapter 53 of title 49, capital improvement to provide access and coordination between intercity and rural bus service, and construction of facilities to provide connections between highway transportation and other modes of transportation.
 
@@ -31,6 +31,8 @@ Availability of Rights-of-Way.—In any case where sufficient land or air space 
 (i) The provisions of section 5323(a)(1)(D) <sup>1</sup> of title 49 shall apply in carrying out subsection (a)(2) of this section.
 
 (Added Pub. L. 91–605, title I, §111(a), Dec. 31, 1970, 84 Stat. 1719; amended Pub. L. 93–87, title I, §121(a), Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §127, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §120, Jan. 6, 1983, 96 Stat. 2111; Pub. L. 102–240, title I, §1027(a)–(e), title III, §3003(b), Dec. 18, 1991, 105 Stat. 1966, 2088; Pub. L. 103–272, §5(f)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 103–429, §7(a)(4)(C), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 105–178, title I, §1103(l)(3)(D), (4), June 9, 1998, 112 Stat. 126; Pub. L. 112–141, div. A, title I, §§1513(b), 1519(c)(8), formerly §1519(c)(9), July 6, 2012, 126 Stat. 572, 576, renumbered §1519(c)(8), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1446(d)(5)(D), Dec. 4, 2015, 129 Stat. 1343, 1438.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -108,13 +110,15 @@ Subsec. (b). Pub. L. 93–87 added subsec. (b). Former subsec. (b) redesignated 
 
 Subsec. (c). Pub. L. 93–87 added subsec. (c). Former subsec. (c) incorporated in subsec. (e)(1), (3) of this section.
 
-Subsec. (d). Pub. L. 93–87 redesignated former subsec. (b) as (d), inserted "in urbanized areas" after "transportation systems", and struck out former subsec. (d) provisions which prohibited any project authorized by this section, other than a project for fringe or transportation parking facilities, from being approved unless the project would avoid the construction of a highway project which increases automobile traffic capacity,would provide a capacity for the movement of persons at least equal to that which would be provided by the avoided highway project, and would not exceed in the amount of the Federal share, the Federal share of the cost of the avoided highway project; or no other feasible or prudent highway project could provide the additional capacity for the movement of persons by motor vehicles on highways (other than on rails) provided by this project.
+Subsec. (d). Pub. L. 93–87 redesignated former subsec. (b) as (d), inserted "in urbanized areas" after "transportation systems", and struck out former subsec. (d) provisions which prohibited any project authorized by this section, other than a project for fringe or transportation parking facilities, from being approved unless the project would avoid the construction of a highway project which increases automobile traffic capacity, would provide a capacity for the movement of persons at least equal to that which would be provided by the avoided highway project, and would not exceed in the amount of the Federal share, the Federal share of the cost of the avoided highway project; or no other feasible or prudent highway project could provide the additional capacity for the movement of persons by motor vehicles on highways (other than on rails) provided by this project.
 
 Subsec. (e). Pub. L. 93–87 incorporated provisions of former subsec. (c) in pars. (1) and (3) and added par. (2). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 93–87 redesignated former subsec. (e) as (f) and substituted "will fully utilize" for "will have adequate capability to fully utilize".
 
 Subsecs. (g) to (k). Pub. L. 93–87 added subsecs. (g) to (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

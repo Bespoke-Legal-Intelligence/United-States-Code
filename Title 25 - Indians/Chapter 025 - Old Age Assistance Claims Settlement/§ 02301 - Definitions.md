@@ -10,9 +10,13 @@ For purposes of this chapter, the term—
 
 (Pub. L. 98–500, §2, Oct. 19, 1984, 98 Stat. 2317; Pub. L. 100–153, §5, Nov. 5, 1987, 101 Stat. 886.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Par. (2). Pub. L. 100–153 inserted proviso that "unauthorized disbursement" includes specifically identified reimbursements for welfare payments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

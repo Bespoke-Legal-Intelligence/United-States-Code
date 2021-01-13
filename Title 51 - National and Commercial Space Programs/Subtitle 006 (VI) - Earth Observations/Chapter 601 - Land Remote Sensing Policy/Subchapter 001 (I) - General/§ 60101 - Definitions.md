@@ -10,7 +10,7 @@ Cost of fulfilling user requests.—The term "cost of fulfilling user requests" 
 
 Data continuity.—The term "data continuity" means the continued acquisition and availability of unenhanced data which are, from the point of view of the user—
 
-&emsp;&emsp;(A) sufficiently consistent (in terms of acquisition geometry, coverage characteristics, and spectral characteristics) with previous Landsat data to allow comparisons for global and regional change detection and characterization; and
+&emsp;&emsp;(A) sufficiently consistent (in terms of acquisition geometry, coverage characteristics, and spectral characteristics) with previous Landsat data to allow comparisons forglobal and regional change detection and characterization; and
 
 &emsp;&emsp;(B) compatible with such data and with methods used to receive and process such data.
 
@@ -34,7 +34,7 @@ Land remote sensing.—The term "land remote sensing" means the collection of da
 
 &emsp;(5)
 
-Landsat program management.—The term "Landsat Program Management" meansthe integrated program management structure—
+Landsat program management.—The term "Landsat Program Management" means the integrated program management structure—
 
 &emsp;&emsp;(A) established by, and responsible to, the Administrator and the Secretary of Defense pursuant to section 60111(a) of this title; and
 
@@ -103,6 +103,8 @@ Historical and Revision Notes
 Pub. L. 102–555, §3, Oct. 28, 1992, 106 Stat. 4164.
 
 The definition of "Administrator" in section 3 of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4164) is omitted as unnecessary because of the definition added by section 10101 of title 51.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

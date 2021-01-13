@@ -10,11 +10,15 @@ Based on section 1519 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 19
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
 <b>1970</b>—Pub. L. 91–271 inserted "or his designee" after "Secretary of the Treasury," and substituted "to the appropriate customs officer" for "the collector".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

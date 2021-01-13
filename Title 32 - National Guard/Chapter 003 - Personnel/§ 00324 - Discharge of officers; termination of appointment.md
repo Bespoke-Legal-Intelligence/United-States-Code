@@ -36,6 +36,8 @@ In subsection (a), the words "shall be discharged" are substituted for the words
 
 In subsection (b), the words "Subject to subsection (a)" are inserted for clarity. The words "as provided by the laws" are substituted for the words "in such manner as \* \* \* shall provide by law".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383 amended directory language of Pub. L. 109–163, §1057(b)(5). See 2006 Amendment note below.
@@ -45,6 +47,8 @@ In subsection (b), the words "Subject to subsection (a)" are inserted for clarit
 <b>2006</b>—Subsec. (b). Pub. L. 109–163, §1057(b)(5), as amended by Pub. L. 111–383, substituted "State of whose National Guard he is a member, or by the laws of the Commonwealth of Puerto Rico, or the District of Columbia, Guam, or the Virgin Islands, of whose National Guard he is a member" for "State or Territory of whose National Guard he is a member, or by the laws of Puerto Rico or the District of Columbia, if he is a member of its National Guard".
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out ", the Canal Zone," after "Puerto Rico".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

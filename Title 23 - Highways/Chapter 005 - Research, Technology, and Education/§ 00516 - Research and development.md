@@ -28,6 +28,8 @@ Federal Share.—The Federal share payable on account of any project or activity
 
 (Added Pub. L. 112–141, div. E, title III, §53004(a), July 6, 2012, 126 Stat. 902.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.

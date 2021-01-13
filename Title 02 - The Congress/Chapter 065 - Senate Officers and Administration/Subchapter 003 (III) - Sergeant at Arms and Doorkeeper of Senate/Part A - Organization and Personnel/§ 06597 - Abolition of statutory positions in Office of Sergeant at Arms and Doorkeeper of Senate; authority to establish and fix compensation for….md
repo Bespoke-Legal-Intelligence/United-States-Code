@@ -4,9 +4,13 @@ Effective October 1, 1981, all statutory positions in the Office of the Sergeant
 
 (Pub. L. 97–51, §116, Oct. 1, 1981, 95 Stat. 963.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 61f–7 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Jurisdiction of Senate Chamber Public Address System From Architect of Capitol to Sergeant at Arms and Doorkeeper of Senate
 

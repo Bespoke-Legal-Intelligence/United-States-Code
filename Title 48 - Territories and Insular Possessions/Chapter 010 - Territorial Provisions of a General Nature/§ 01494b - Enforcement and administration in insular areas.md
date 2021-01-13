@@ -56,7 +56,7 @@
 
 (3) Equipment provided to the Government of Puerto Rico pursuant to paragraph (1) of this subsection shall be made available upon request to the Federal agencies involved in drug interdiction in Puerto Rico.
 
-(4)(A) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of Puerto Rico, shall provide appropriate training, technical assistance and equipment to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
+(4)(A) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, uponrequest of the Government of Puerto Rico, shall provide appropriate training, technical assistance and equipment to the Government of Puerto Rico to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
 
 (B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under this subparagraph shall remain available until expended.
 

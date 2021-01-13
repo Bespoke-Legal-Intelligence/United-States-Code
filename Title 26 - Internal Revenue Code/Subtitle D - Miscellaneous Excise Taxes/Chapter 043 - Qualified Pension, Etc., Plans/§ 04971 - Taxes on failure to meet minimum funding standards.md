@@ -330,7 +330,7 @@ Pub. L. 104–188, title I, §1464(b), Aug. 20, 1996, 110 Stat. 1825, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years beginning after Dec. 31, 1994, see section 751(b)(1) of Pub. L. 103–465, set out as a note under section 401 of this title.
+Amendment by Pub. L. 103–465 applicable to plan years beginning after Dec. 31, 1994, see section 751(b)(1)of Pub. L. 103–465, set out as a note under section 401 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -42,9 +42,13 @@ Commission Defined.—For purposes of this section, the term "Commission" means 
 
 (Added Pub. L. 108–44, §2(a), July 3, 2003, 117 Stat. 842; amended Pub. L. 111–203, title IX, §929G(a), July 21, 2010, 124 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission" for "Appointment of accountants, economists, and examiners by the Securities and Exchange Commission" in section catchline, added subsec. (a), and struck out former subsec. (a). Prior to amendment, text read as follows: "This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

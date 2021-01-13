@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 July 30, 1956, ch. 795, 70 Stat. 732.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–293 reenacted section catchline and text without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reaffirmation of Language
 

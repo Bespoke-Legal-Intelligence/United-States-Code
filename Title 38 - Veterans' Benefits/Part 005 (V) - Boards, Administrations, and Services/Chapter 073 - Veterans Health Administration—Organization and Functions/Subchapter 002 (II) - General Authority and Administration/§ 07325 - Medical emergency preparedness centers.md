@@ -4,7 +4,7 @@
 
 Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established at a Department medical center and shall be staffed by Department employees.
 
-(2) The Under Secretary for Health shall be responsible for supervising the operation of thecenters established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
+(2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
 (3) The Under Secretary shall carry out the Under Secretary's functions under paragraph (2) in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -16,7 +16,7 @@ Mission.—The mission of the centers shall be as follows:
 
 &emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11) or through interagency agreements entered into by the Secretary for that purpose.
 
-&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
+&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, andlocal health care agencies and personnel involved in or responding to the disaster or emergency.
 
 (c)
 
@@ -52,7 +52,7 @@ Dissemination of Research Products.—(1) The Under Secretary for Health and the
 
 Coordination of Activities.—The Secretary shall take appropriate actions to ensure that the work of each center is carried out—
 
-&emsp;(1) in close coordination with the Department of Defense, the Department of Healthand Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
+&emsp;(1) in close coordination with the Department of Defense, the Department of Health and Human Services, and other departments, agencies, and elements of the Government charged with coordination of plans for United States homeland security; and
 
 &emsp;(2) after taking into consideration applicable recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)) or any other joint interagency advisory group or committee designated by the President or the President's designee to coordinate Federal research on weapons of mass destruction.
 
@@ -66,7 +66,7 @@ Detail of Employees From Other Agencies.—Upon approval by the Secretary, the D
 
 (i)
 
-Funding.—(1) Amounts appropriated for the activities of the centers under this section shall be appropriated separately from amounts appropriated for the Department for medical care.
+Funding.—(1) Amounts appropriated for the activities of the centers under this section shallbe appropriated separately from amounts appropriated for the Department for medical care.
 
 (2) In addition to funds appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetics research account such amounts as the Under Secretary determines appropriate to carry out the purposes of this section. Any determination by the Under Secretary under the preceding sentence shall be made in consultation with the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -74,11 +74,15 @@ Funding.—(1) Amounts appropriated for the activities of the centers under this
 
 (Added Pub. L. 107–287, §2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, §1001(n)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted "section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11)" for "section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))".
 
 <b>2008</b>—Subsec. (i)(2). Pub. L. 110–387 substituted "medical services account" for "medical care account".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

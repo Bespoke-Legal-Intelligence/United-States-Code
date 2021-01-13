@@ -26,7 +26,7 @@
 
 (b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1).
 
-(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chaptersuch secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
+(c)(1) In any case under this chapter, the trustee shall immediately surrender and return to a secured party, lessor, or conditional vendor, described in subsection (a)(1), equipment described in subsection (a)(2), if at any time after the date of commencement of the case under this chapter such secured party, lessor, or conditional vendor is entitled pursuant to subsection (a)(1) to take possession of such equipment and makes a written demand for such possession of the trustee.
 
 (2) At such time as the trustee is required under paragraph (1) to surrender and return equipment described in subsection (a)(2), any lease of such equipment, and any security agreement or conditional sale contract relating to such equipment, if such security agreement or conditional sale contract is an executory contract, shall be deemed rejected.
 
@@ -54,6 +54,8 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 \[Section 1166\] This section \[enacted as section 1168\], derived with changes from the last sentence of present section 77(j) \[section 205(j) of former title 11\], protects the interests of rolling stock equipment financers, while providing the trustee with some opportunity to cure defaults, agree to make payments, and retain and use the equipment. The provision is parallel to section 1110, concerning aircraft equipment and vessels.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–181 amended section catchline and text generally, substituting present provisions consisting of subsecs. (a) to (e) for former subsecs. (a) to (d) which contained somewhat similar provisions.
@@ -77,6 +79,8 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 "(b) The trustee and the secured party, lessor, or conditional vendor, as the case may be, whose right to take possession is protected under subsection (a) of this section, may agree, subject to the court's approval, to extend the 60-day period specified in subsection (a)(1) of this section."
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 inserted a comma after "approval".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

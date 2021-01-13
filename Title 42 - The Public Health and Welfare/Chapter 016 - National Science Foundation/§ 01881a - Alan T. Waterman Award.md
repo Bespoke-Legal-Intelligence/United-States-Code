@@ -16,7 +16,7 @@ Not more than three awards may be made under this section in any one fiscal year
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act, 1976, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act, 1976, and not as part ofthe National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

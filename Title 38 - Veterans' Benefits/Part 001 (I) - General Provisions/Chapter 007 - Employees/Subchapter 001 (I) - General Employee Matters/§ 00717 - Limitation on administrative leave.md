@@ -18,9 +18,13 @@ Covered Individual.—In this section, the term "covered individual" means an em
 
 (Added Pub. L. 114–315, title V, §503(a)(1), Dec. 16, 2016, 130 Stat. 1568.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 717 and 718 were renumbered sections 1917 and 1918 of this title, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

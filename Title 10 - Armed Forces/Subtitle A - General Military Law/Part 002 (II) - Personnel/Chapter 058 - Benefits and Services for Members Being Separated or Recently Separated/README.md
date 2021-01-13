@@ -3,12 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1141\.](%C2%A7%2001141%20-%20Involuntary%20separation%20defined.md) | Involuntary separation defined. |
-| [1142\.](%C2%A7%2001142%20-%20Preseparation%20counseling%3B%20transmittal%20of%20certain%20records%20to%20Department%20of%20Veterans%20Affairs.md) | Preseparation counseling; transmittal of medical records to Department of Veterans Affairs.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1142\.](%C2%A7%2001142%20-%20Preseparation%20counseling%3B%20transmittal%20of%20certain%20records%20to%20Department%20of%20Veterans%20Affairs.md) | Preseparation counseling; transmittal of certain records to Department of Veterans Affairs. |
 | [1143\.](%C2%A7%2001143%20-%20Employment%20assistance.md) | Employment assistance. |
 | \[1143a. | Repealed.\] |
 | [1144\.](%C2%A7%2001144%20-%20Employment%20assistance%2C%20job%20training%20assistance%2C%20and%20other%20transitional%20services%20Department%20of%20Labor.md) | Employment assistance, job training assistance, and other transitional services: Department of Labor. |
@@ -28,6 +23,8 @@
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(26), Jan. 1, 2021, 134 Stat. 3872, added item 1142 and struck out former item 1142 "Preseparation counseling; transmittal of medical records to Department of Veterans Affairs".
+
 <b>2018</b>—Pub. L. 115–232, div. A, title V, §§522(b), 553(a)(2), Aug. 13, 2018, 132 Stat. 1756, 1772, added item 1155 and struck out item 1143a "Employment assistance".
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §541(b)(2), Jan. 2, 2013, 126 Stat. 1735, added item 1154.
@@ -41,8 +38,6 @@
 <b>1993</b>—Pub. L. 103–160, div. A, title XIII, §1332(e), Nov. 30, 1993, 107 Stat. 1797, added items 1152 and 1153.
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLIV, §§4441(a)(2), 4462(a)(2), Oct. 23, 1992, 106 Stat. 2730, 2740, added items 1143a and 1151.
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.</i>
 
 
 ---

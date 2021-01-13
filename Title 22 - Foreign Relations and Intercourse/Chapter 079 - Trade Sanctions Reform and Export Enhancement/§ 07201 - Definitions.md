@@ -54,11 +54,13 @@ In this chapter:
 
 (Pub. L. 106–387, §1(a) \[title IX, §902\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 113–79, title I, §1423(b), Feb. 7, 2014, 128 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Peace Act, referred to in par. (2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
+The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§5601 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
 
 Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) \[title IX, §903(a)(1)\] of Pub. L. 106–387, which is classified to section 7202(a)(1) of this title.
 
@@ -69,6 +71,8 @@ Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, re
 <b>2014</b>—Par. (2)(D)–(F). Pub. L. 113–79 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: "the dairy export incentive program administered under section 713a–14 of title 15;".
 
 <b>2008</b>—Par. (2)(A). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -36,6 +36,8 @@ Sept. 6, 1960, Pub. L. 86–707, §501(a), 74 Stat. 800.
 
 The remainder of the authority for this section is implied from the statutes from which this title is derived.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Merit Systems Protection Board and Office of Special Counsel; Authorization of Appropriations; Restriction on Appropriations
 
 Pub. L. 101–12, §8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L. 103–424, §1, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(a), 642(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365; Pub. L. 107–304, §2(a), (b), Nov. 27, 2002, 116 Stat. 2364; Pub. L. 115–91, div. A, title X, §1097(n)(1), Dec. 12, 2017, 131 Stat. 1626, provided that:
@@ -50,7 +52,7 @@ Authorization of Appropriations.—There are authorized to be appropriated, out 
 
 "(b)
 
-Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Boardor the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] (5 U.S.C. 5509 note)."
+Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] (5 U.S.C. 5509 note)."
 
 \[Pub. L. 115–91, div. A, title X, §1097(n)(2), Dec. 12, 2017, 131 Stat. 1626, provided that: "The amendment made by paragraph (1) \[amending section 8(a) of Pub. L. 101–12, set out above\] shall take effect as though enacted on September 30, 2017."\]
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (i), awards a grant to (or enters into a contract or cooperative agreement with) an entity to carry out a program for which such a position is approved under section 12573 of this title; and
 
-&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
+&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using nationalservice educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
 
 #### (2) Formula
 

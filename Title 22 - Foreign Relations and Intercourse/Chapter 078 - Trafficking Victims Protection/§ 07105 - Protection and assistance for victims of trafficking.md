@@ -24,7 +24,7 @@
 
 #### (2) Additional requirement
 
-&emsp;In establishing and conducting programs and initiatives described in paragraph (1), the Secretary of State and the Administrator of the United States Agency for International Development shall take all appropriate steps to enhance cooperative efforts among foreign countries, including countries of origin of victims of trafficking, to assist in the integration, reintegration, or resettlement, as appropriate, of victims of trafficking, including statelessvictims. In carrying out this paragraph, the Secretary and the Administrator shall take all appropriate steps to ensure that cooperative efforts among foreign countries are undertaken on a regional basis and shall brief Congress annually on such efforts.
+&emsp;In establishing and conducting programs and initiatives described in paragraph (1), the Secretary of State and the Administrator of the United States Agency for International Development shall take all appropriate steps to enhance cooperative efforts among foreign countries, including countries of origin of victims of trafficking, to assist in the integration, reintegration, or resettlement, as appropriate, of victims of trafficking, including stateless victims. In carrying out this paragraph, the Secretary and the Administrator shall take all appropriate steps to ensure that cooperative efforts among foreign countries are undertaken on a regional basis and shall brief Congress annually on such efforts.
 
 #### (b) Victims in the United States
 
@@ -42,7 +42,7 @@
 
 #### (ii) National human trafficking hotline
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
+&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the nationalhuman trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -86,7 +86,7 @@
 
 #### (iv) Assistance to investigations
 
-&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation andprosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
+&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
 #### (F) No requirement of official certification for United States citizens and lawful permanent residents
 
@@ -114,7 +114,7 @@
 
 #### (II) Consultation
 
-&emsp;&emsp;&emsp;&emsp;In making a determination under subclause (I), the Secretary shall consult with the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form <sup>1</sup> of trafficking.
+&emsp;&emsp;&emsp;&emsp;In making a determination under subclause (I), the Secretary shall consultwith the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form <sup>1</sup> of trafficking.
 
 #### (III) Letter of eligibility
 
@@ -226,7 +226,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (A) In general
 
-&emsp;&emsp;Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severeforms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+&emsp;&emsp;Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
 
 #### (B) Training components
 
@@ -288,7 +288,9 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003,117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, title V, §501(c), Dec. 21, 2018, 132 Stat. 5272, 5276; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, title V, §501(c), Dec. 21, 2018, 132 Stat. 5272, 5276; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -308,7 +310,7 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–425 substituted "programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—" and cls. (i) to (iii) for "programs for victims of trafficking, including programs that provide housing to victims of trafficking."
+<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–425 substituted "programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—" and cls. (i) to\(iii) for "programs for victims of trafficking, including programs that provide housing to victims of trafficking."
 
 <b>2018</b>—Subsec. (b)(1)(B)(ii). Pub. L. 115–392 inserted at end "The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings."
 
@@ -379,6 +381,8 @@ Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
 Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted "1184(o)(2)" for "1184(n)(1)".
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–228 inserted "In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:" at end of introductory provisions and added subpars. (A) to (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

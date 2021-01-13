@@ -40,7 +40,7 @@ For purposes of subsection (a)—
 
 For purposes of this section, the terms used in this section shall have the same respective meanings as when used in subpart D of part I of subchapter D of chapter 1.
 
-(Added Pub. L. 98–369, div. A, title V, §511(c)(1), July 18, 1984, 98 Stat. 861; amended Pub. L. 99–514, title XVIII, §1851(a)(11), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–647, title I, §1011B(a)(27)(A), (B), title III, §3021(a)(1)(C), Nov. 10, 1988, 102 Stat. 3487, 3626; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830.)
+(Added Pub. L. 98–369, div. A, title V, §511(c)(1), July 18, 1984, 98 Stat. 861; amended Pub. L. 99–514, title XVIII, §1851(a)(11), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–647, title I, §1011B(a)(27)(A), (B), title III, §3021(a)(1)(C), Nov.10, 1988, 102 Stat. 3487, 3626; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830.)
 
 #### Codification
 

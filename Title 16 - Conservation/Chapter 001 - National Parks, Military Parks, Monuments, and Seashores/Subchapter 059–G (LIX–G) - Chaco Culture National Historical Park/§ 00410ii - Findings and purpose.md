@@ -8,7 +8,7 @@
 
 &emsp;(3) development of the San Juan Basin's important natural resources and the valid existing rights of private property owners will not be adversely affected by the preservation of the archeological integrity of the area; and
 
-&emsp;(4) in light of the national significance of the Chacoan sites and the urgent need to protect them, continued cooperation between Federal agencies and private corporations is necessary to provide for development in the San Juan Basin in a manner compatible with preservation and archeological research.
+&emsp;(4) in light of the national significance of the Chacoan sites and the urgent need to protect them, continued cooperation between Federalagencies and private corporations is necessary to provide for development in the San Juan Basin in a manner compatible with preservation and archeological research.
 
 (b) It is the purpose of this subchapter to recognize the unique archeological resources associated with the prehistoric Chacoan culture in the San Juan Basin and surrounding areas; to provide for the preservation and interpretation of these resources; and to facilitate research activities associated with these resources.
 
@@ -24,5 +24,5 @@ Pub. L. 108–413, §1, Oct. 30, 2004, 118 Stat. 2325, provided that: "This Act 
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–11, §1, May 18, 1995, 109 Stat. 158, provided that: "This Act \[amending this section and sections410ii–1, 410ii–3, and 410ii–5 of this title\] may be cited as the 'Chacoan Outliers Protection Act of 1995'."
+Pub. L. 104–11, §1, May 18, 1995, 109 Stat. 158, provided that: "This Act \[amending this section and sections 410ii–1, 410ii–3, and 410ii–5 of this title\] may be cited as the 'Chacoan Outliers Protection Act of 1995'."
 

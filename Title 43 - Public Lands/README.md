@@ -59,6 +59,7 @@
 | [<b>45.</b>](Chapter%20045%20-%20State%20Control%20of%20Noxious%20Plants%20on%20Federal%20Lands/README.md) | <b>State Control of Noxious Plants on Federal Lands</b> | <b>2701</b> |
 | [<b>46.</b>](Chapter%20046%20-%20Geospatial%20Data/README.md) | <b>Geospatial Data</b> | <b>2801</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Reclamation%20Title%20Transfer/README.md) | <b>Reclamation Title Transfer</b> | <b>2901</b> |
+| [<b>49.</b>](Chapter%20049%20-%20National%20Landslide%20Preparedness/README.md) | <b>National Landslide Preparedness</b> | <b>3101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -309,3 +310,5 @@ Omitted
 - [Chapter 045 - State Control of Noxious Plants on Federal Lands](Chapter%20045%20-%20State%20Control%20of%20Noxious%20Plants%20on%20Federal%20Lands/README.md)
 - [Chapter 046 - Geospatial Data](Chapter%20046%20-%20Geospatial%20Data/README.md)
 - [Chapter 047 - Reclamation Title Transfer](Chapter%20047%20-%20Reclamation%20Title%20Transfer/README.md)
+- [Chapter 048 - Renewable Energy Production on Federal Land](Chapter%20048%20-%20Renewable%20Energy%20Production%20on%20Federal%20Land/README.md)
+- [Chapter 049 - National Landslide Preparedness](Chapter%20049%20-%20National%20Landslide%20Preparedness/README.md)

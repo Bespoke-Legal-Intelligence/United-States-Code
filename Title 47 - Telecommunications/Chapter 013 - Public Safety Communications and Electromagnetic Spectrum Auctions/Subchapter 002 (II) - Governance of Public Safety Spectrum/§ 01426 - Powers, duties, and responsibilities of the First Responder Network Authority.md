@@ -104,7 +104,7 @@ The First Responder Network Authority shall have the authority to do the followi
 
 #### (A) Required consultation
 
-&emsp;&emsp;In developing requests for proposals and otherwise carrying out its responsibilities under this chapter, the First Responder Network Authority shall consult with regional, State, tribal, and local jurisdictions regarding the distribution and expenditure of any amounts required to carry out the policies established under paragraph (1), including with regard to the—
+&emsp;&emsp;In developing requests for proposals and otherwise carrying out its responsibilitiesunder this chapter, the First Responder Network Authority shall consult with regional, State, tribal, and local jurisdictions regarding the distribution and expenditure of any amounts required to carry out the policies established under paragraph (1), including with regard to the—
 
 &emsp;&emsp;&emsp;(i) construction of a core network and any radio access network build out;
 
@@ -185,6 +185,8 @@ The authority of the First Responder Network Authority shall terminate on the da
 Not later than 10 years after February 22, 2012, the Comptroller General of the United States shall submit to Congress a report on what action Congress should take regarding the 15-year sunset of authority under subsection (f).
 
 (Pub. L. 112–96, title VI, §6206, Feb. 22, 2012, 126 Stat. 211.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

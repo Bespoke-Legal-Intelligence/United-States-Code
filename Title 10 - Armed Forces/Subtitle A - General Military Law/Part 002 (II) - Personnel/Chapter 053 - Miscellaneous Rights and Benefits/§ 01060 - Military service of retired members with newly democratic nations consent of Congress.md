@@ -44,7 +44,7 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 #### Effective Date
 
-Pub. L. 103–160, div. A, title XIV, §1433(d), Nov. 30, 1993, 107 Stat. 1835, provided that this section was totake effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, §182(b), Apr. 30, 1994, 108 Stat. 418.
+Pub. L. 103–160, div. A, title XIV, §1433(d), Nov. 30, 1993, 107 Stat. 1835, provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, §182(b), Apr. 30, 1994, 108 Stat. 418.
 
 #### Restoration of Withheld Benefits
 

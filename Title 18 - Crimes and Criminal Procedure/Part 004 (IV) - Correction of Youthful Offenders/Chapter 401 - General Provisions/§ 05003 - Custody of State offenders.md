@@ -20,6 +20,8 @@
 
 (Added May 9, 1952, ch. 253, §1, 66 Stat. 68; amended Pub. L. 89–267, §1, Oct. 19, 1965, 79 Stat. 990; Pub. L. 99–646, §66, Nov. 10, 1986, 100 Stat. 3615.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4082(b) of this title, referred to in subsec. (a)(2)(B), was repealed, and section 4082(f) was redesignated section 4082(b), by Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027.
@@ -28,7 +30,7 @@ For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Attorney General, when the Director shall certify that proper and adequate treatment facilitiesand personnel are available, is hereby authorized to contract with the proper officials of a State or Territory for the custody, care, subsistence, education, treatment, and training of persons convicted of criminal offenses in the courts of such State or Territory: <i>Provided</i>, That any such contract shall provide for reimbursing the United States in full for all costs or other expenses involved."
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Attorney General, when the Director shall certify that proper and adequate treatment facilities and personnel are available, is hereby authorized to contract with the proper officials of a State or Territory for the custody, care, subsistence, education, treatment, and training of persons convicted of criminal offenses in the courts of such State or Territory: <i>Provided</i>, That any such contract shall provide for reimbursing the United States in full for all costs or other expenses involved."
 
 <b>1965</b>—Subsec. (d). Pub. L. 89–267 added subsec. (d).
 

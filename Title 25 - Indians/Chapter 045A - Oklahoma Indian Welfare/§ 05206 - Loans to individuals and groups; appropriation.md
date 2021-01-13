@@ -4,9 +4,13 @@ The Secretary is authorized to make loans to individual Indians and to associati
 
 (June 26, 1936, ch. 831, §6, 49 Stat. 1968.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 506 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Administration of Funds in Revolving Fund
 

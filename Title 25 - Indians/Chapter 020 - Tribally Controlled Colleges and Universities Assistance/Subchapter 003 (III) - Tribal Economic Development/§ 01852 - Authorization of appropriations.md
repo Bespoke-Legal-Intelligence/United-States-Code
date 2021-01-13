@@ -4,6 +4,8 @@ There are authorized to be appropriated for grants under this subchapter, such s
 
 (Pub. L. 95–471, title IV, §403, as added Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 805; amended Pub. L. 102–325, title XIII, §1301(c), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(C), Oct. 7, 1998, 112 Stat. 1827; Pub. L. 110–315, title IX, §941(i), Aug. 14, 2008, 122 Stat. 3463.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009" for "$2,000,000 for fiscal year 1999" and "five succeeding" for "4 succeeding".
@@ -11,6 +13,8 @@ There are authorized to be appropriated for grants under this subchapter, such s
 <b>1998</b>—Pub. L. 105–244 substituted "1999" for "1993".
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1991 to 1996.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

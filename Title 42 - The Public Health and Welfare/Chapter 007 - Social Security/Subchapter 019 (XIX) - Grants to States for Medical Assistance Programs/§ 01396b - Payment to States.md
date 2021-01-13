@@ -66,7 +66,7 @@ From the sums appropriated therefor, the Secretary (except as otherwise provided
 
 &emsp;&emsp;(B) 75 per centum of the sums expended during each succeeding calendar quarter,
 
-> &emsp;with respect to costs incurred during such quarter (as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan) which are attributable to the establishment and operation of (including the training of personnel employed by) a State medicaid fraud control unit (described in subsection (q)); plus
+> &emsp;with respect to costs incurred during such quarter which are attributable to the establishment and operation of (including the training of personnel employed by) a State medicaid fraud control unit (described in subsection (q)); plus
 
 &emsp;(7) subject to section 1396r(g)(3)(B) of this title, an amount equal to 50 per centum of the remainder of the amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan.
 
@@ -82,7 +82,7 @@ From the sums appropriated therefor, the Secretary (except as otherwise provided
 
 &emsp;(B) one-quarter of 1 per centum of the sums expended by the Federal, State, and local governments during the previous quarter in carrying out the State's plan under this subchapter.
 
-(4) Amounts expended by a State for the use of an enrollment broker in marketing medicaid managed care organizations and other managed care entities to eligible individuals under thissubchapter shall be considered, for purposes of subsection (a)(7), to be necessary for the proper and efficient administration of the State plan but only if the following conditions are met with respect to the broker:
+(4) Amounts expended by a State for the use of an enrollment broker in marketing medicaid managed care organizations and other managed care entities to eligible individuals under this subchapter shall be considered, for purposes of subsection (a)(7), to be necessary for the properand efficient administration of the State plan but only if the following conditions are met with respect to the broker:
 
 &emsp;(A) The broker is independent of any such entity and of any health care providers (whether or not any such provider participates in the State plan under this subchapter) that provide coverage of services in the same State in which the broker is conducting enrollment activities.
 
@@ -144,7 +144,7 @@ A State plan approved under this subchapter may include, as a cost with respect 
 
 (3) For purposes of paragraph (1)(B), in the case of a family consisting of only one individual, the "highest amount which would ordinarily be paid" to such family under the State's plan approved under part A of subchapter IV of this chapter shall be the amount determined by the State agency (on the basis of reasonable relationship to the amounts payable under such plan to families consisting of two or more persons) to be the amount of the aid which would ordinarily be payable under such plan to a family (without any income or resources) consisting of one person if such plan provided for aid to such a family.
 
-(4) The limitations on payment imposed by the preceding provisions of this subsection shall not apply with respect to any amount expended by a State as medical assistance for any individual described in section 1396a(a)(10)(A)(i)(III), 1396a(a)(10)(A)(i)(IV), 1396a(a)(10)(A)(i)(V), 1396a(a)(10)(A)(i)(VI), 1396a(a)(10)(A)(i)(VII), 1396a(a)(10)(A)(i)(VIII), 1396a(a)(10)(A)(i)(IX), 1396a(a)(10)(A)(ii)(IX), 1396a(a)(10)(A)(ii)(X), 1396a(a)(10)(A)(ii)(XIII), 1396a(a)(10)(A)(ii)(XIV), or <sup>5</sup> 1396a(a)(10)(A)(ii)(XV), 1396a(a)(10)(A)(ii)(XVI), 1396a(a)(10)(A)(ii)(XVII), 1396a(a)(10)(A)(ii)(XVIII), 1396a(a)(10)(A)(ii)(XIX), 1396a(a)(10)(A)(ii)(XX), 1396a(a)(10)(A)(ii)(XXI),1396a(a)(10)(A)(ii)(XXII), 1396d(p)(1) of this title or for any individual—
+(4) The limitations on payment imposed by the preceding provisions of this subsection shall not apply with respect to any amount expended by a State as medical assistance for any individual described in section 1396a(a)(10)(A)(i)(III), 1396a(a)(10)(A)(i)(IV), 1396a(a)(10)(A)(i)(V), 1396a(a)(10)(A)(i)(VI), 1396a(a)(10)(A)(i)(VII), 1396a(a)(10)(A)(i)(VIII), 1396a(a)(10)(A)(i)(IX), 1396a(a)(10)(A)(ii)(IX), 1396a(a)(10)(A)(ii)(X), 1396a(a)(10)(A)(ii)(XIII), 1396a(a)(10)(A)(ii)(XIV), or <sup>5</sup> 1396a(a)(10)(A)(ii)(XV), 1396a(a)(10)(A)(ii)(XVI), 1396a(a)(10)(A)(ii)(XVII), 1396a(a)(10)(A)(ii)(XVIII), 1396a(a)(10)(A)(ii)(XIX), 1396a(a)(10)(A)(ii)(XX), 1396a(a)(10)(A)(ii)(XXI), 1396a(a)(10)(A)(ii)(XXII), 1396d(p)(1) of this title or for any individual—
 
 &emsp;(A) who is receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV or XVI, or part A of subchapter IV, or with respect to whom supplemental security income benefits are being paid under subchapter XVI, or
 
@@ -174,7 +174,7 @@ A State plan approved under this subchapter may include, as a cost with respect 
 
 (4)(A) The Secretary may not find the showing of a State, with respect to a calendar quarter under paragraph (1), to be satisfactory if the showing is submitted to the Secretary later than the 30th day after the last day of the calendar quarter, unless the State demonstrates to the satisfaction of the Secretary good cause for not meeting such deadline.
 
-(B) The Secretary shall find a showing of a State, with respect to a calendar quarter under paragraph (1), to be satisfactory under such paragraph with respect to the requirement that the State conduct annual onsite inspections in mental hospitals and intermediate care facilities for the mentally retarded under paragraphs\(26) and (31) of section 1396a(a) of this title, if the showing demonstrates that the State has conducted such an onsite inspection during the 12-month period ending on the last date of the calendar quarter—
+(B) The Secretary shall find a showing of a State, with respect to a calendar quarter under paragraph (1), to be satisfactory under such paragraph with respect to the requirement that the State conduct annual onsite inspections in mental hospitals and intermediate care facilities for the mentally retarded under paragraphs (26) and (31) of section 1396a(a) of this title, if the showing demonstrates that the State has conducted such an onsite inspection during the 12-month period ending on the last date of the calendar quarter—
 
 &emsp;(i) in each of not less than 98 per centum of the number of such hospitals and facilities requiring such inspection, and
 
@@ -226,7 +226,7 @@ Payment under the preceding provisions of this section shall not be made—
 
 &emsp;&emsp;(E) with respect to any amount expended for such an item or service furnished during calendar quarters beginning on or after October 1, 2017, subject to section 1396a(kk)(4)(A)(ii)(II) of this title, within a geographic area that is subject to a moratorium imposed under section 1395cc(j)(7) of this title by a provider or supplier that meets the requirements specified in subparagraph (C)(iii) of such section, during the period of such moratorium; or
 
-&emsp;(3) with respect to any amount expended for inpatient hospital services furnished under the plan (other than amounts attributable to the special situation of a hospital which serves a disproportionate number of low income patients with special needs) to the extent thatsuch amount exceeds the hospital's customary charges with respect to such services or (if such services are furnished under the plan by a public institution free of charge or at nominal charges to the public) exceeds an amount determined on the basis of those items (specified in regulations prescribed by the Secretary) included in the determination of such payment which the Secretary finds will provide fair compensation to such institution for such services; or
+&emsp;(3) with respect to any amount expended for inpatient hospital services furnished under the plan (other than amounts attributable to the special situation of a hospital which serves a disproportionate number of low income patients with special needs) to the extent that such amount exceeds the hospital's customary charges with respect to such services or (if such services are furnished under the plan by a public institution free of charge or at nominal charges to the public) exceeds an amount determined on the basis of those items (specified in regulations prescribed by the Secretary) included in the determination of such payment which the Secretary finds will provide fair compensation to such institution for such services; or
 
 &emsp;(4) with respect to any amount expended for care or services furnished under the plan by a hospital unless such hospital has in effect a utilization review plan which meets the requirements imposed by section 1395x(k) of this title for purposes of subchapter XVIII; and if such hospital has in effect such a utilization review plan for purposes of subchapter XVIII, such plan shall serve as the plan required by this subsection (with the same standards and procedures and the same review committee or group) as a condition of payment under this subchapter; the Secretary is authorized to waive the requirements of this paragraph if the State agency demonstrates to his satisfaction that it has in operation utilization review procedures which are superior in their effectiveness to the procedures required under section 1395x(k) of this title; or
 
@@ -238,7 +238,7 @@ Payment under the preceding provisions of this section shall not be made—
 
 &emsp;(8) with respect to any amount expended for medical assistance (A) for nursing facility services to reimburse (or otherwise compensate) a nursing facility for payment of a civil money penalty imposed under section 1396r(h) of this title or (B) for home and community care to reimburse (or otherwise compensate) a provider of such care for payment of a civil money penalty imposed under this subchapter or subchapter XI or for legal expenses in defense of an exclusion or civil money penalty under this subchapter or subchapter XI if there is no reasonable legal ground for the provider's case; or
 
-&emsp;(9) Repealed. Pub. L. 104–193, title I, §114(d)(2), Aug. 22, 1996, 110 Stat. 2180.
+&emsp;(9) with respect to any amount expended for non-emergency transportation authorized under section 1396a(a)(4) of this title, unless the State plan provides for the methods and procedures required under section 1396a(a)(30)(A) of this title; or
 
 &emsp;(10)(A) with respect to covered outpatient drugs unless there is a rebate agreement in effect under section 1396r–8 of this title with respect to such drugs or unless section 1396r–8(a)(3) of this title applies,<sup>3</sup>
 
@@ -590,7 +590,7 @@ For the purposes of this section, the term "State medicaid fraud control unit" m
 
 &emsp;&emsp;(i) procedures for reviewing complaints of abuse or neglect of patients in health care facilities which receive payments under the State plan under this subchapter;
 
-&emsp;&emsp;(ii) at the option of the entity, procedures for reviewing complaints of abuse or neglect of patients residing in board and care facilities; and
+&emsp;&emsp;(ii) at the option of the entity, procedures for reviewing complaints of abuse or neglect of patients residing in board and care facilities and of patients (who are receiving medical assistance under the State plan under this subchapter (or waiver of such plan)) in a noninstitutional or other setting; and
 
 &emsp;&emsp;(iii) procedures for acting upon such complaints under the criminal laws of the State or for referring such complaints to other State agencies for action.
 
@@ -674,7 +674,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 &emsp;&emsp;(i) who is not hospital-based and has at least 30 percent of the professional's patient volume (as estimated in accordance with a methodology established by the Secretary) attributable to individuals who are receiving medical assistance under this subchapter;
 
-&emsp;&emsp;(ii) who is not described in clause (i), who is a pediatrician, who is not hospital-based, and who has at least 20 percent of the professional's patient volume (as estimated in accordance with a methodology established by the Secretary) attributable to individualswho are receiving medical assistance under this subchapter; and
+&emsp;&emsp;(ii) who is not described in clause (i), who is a pediatrician, who is not hospital-based,and who has at least 20 percent of the professional's patient volume (as estimated in accordance with a methodology established by the Secretary) attributable to individuals who are receiving medical assistance under this subchapter; and
 
 &emsp;&emsp;(iii) who practices predominantly in a Federally qualified health center or rural health clinic and has at least 30 percent of the professional's patient volume (as estimated in accordance with a methodology established by the Secretary) attributable to needy individuals (as defined in paragraph (3)(F)); and
 
@@ -772,7 +772,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 &emsp;(D) To the extent specified by the Secretary, the certified EHR technology is compatible with State or Federal administrative management systems.
 
-> For purposes of subparagraph (B), a Medicaid provider described in paragraph (2)(A) may accept payments for the costs described in such subparagraph from a State or local government.For purposes of subparagraph (C), in establishing the means described in such subparagraph, which may include clinical quality reporting to the State, the State shall ensure that populations with unique needs, such as children, are appropriately addressed.
+> For purposes of subparagraph (B), a Medicaid provider described in paragraph (2)(A) may accept payments for the costs described in such subparagraph from a State or local government. For purposes of subparagraph (C), in establishing the means described in such subparagraph, which may include clinical quality reporting to the State, the State shall ensure that populations with unique needs, such as children, are appropriately addressed.
 
 (7) With respect to Medicaid providers described in paragraph (2)(A), the Secretary shall ensure coordination of payment with respect to such providers under sections 1395w–4(o) and 1395w–23(l) of this title and under this subsection to assure no duplication of funding. Such coordination shall include, to the extent practicable, a data matching process between State Medicaid agencies and the Centers for Medicare \& Medicaid Services using national provider identifiers. For such purposes, the Secretary may require the submission of such data relating to payments to such Medicaid providers as the Secretary may specify.
 
@@ -806,9 +806,9 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 (iii) In determining the amount of erroneous excess payments for medical assistance to an individual or family under clause (i)(II), the amount of the erroneous excess payment shall be the smaller of (I) the amount of the payment on behalf of the individual or family, or (II) the difference between the actual amount incurred for medical care by the individual or family and the amount which should have been incurred in order to establish eligibility for medical assistance.
 
-(iv) In determining the amount of erroneous excess payments, there shall not be included any error resulting from a failure of an individual to cooperate or give correct information with respect to third-party liability as required under section 1396k(a)(1)(C) or 602(a)(26)(C) <sup>4</sup> of this title or with respect to payments made in violation of section 1396e of this title.
+(iv) In determining the amount of erroneous excess payments, there shall not be included anyerror resulting from a failure of an individual to cooperate or give correct information with respect to third-party liability as required under section 1396k(a)(1)(C) or 602(a)(26)(C) <sup>4</sup> of this title or with respect to payments made in violation of section 1396e of this title.
 
-(v) In determining the amount of erroneous excess payments, there shall not be included anyerroneous payments made for ambulatory prenatal care provided during a presumptive eligibility period (as defined in section 1396r–1(b)(1) of this title), for items and services described in subsection (a) of section 1396r–1a of this title provided to a child during a presumptive eligibility period under such section, for medical assistance provided to an individual described in subsection (a) of section 1396r–1b of this title during a presumptive eligibility period under such section, or <sup>11</sup> for medical assistance provided to an individual described in subsection (a) of section 1396r–1c of this title during a presumptive eligibility period under such section, or for medical assistance provided to an individual during a presumptive eligibility period resulting from a determination of presumptive eligibility made by a hospital that elects under section 1396a(a)(47)(B) of this title to be a qualified entity for such purpose.
+(v) In determining the amount of erroneous excess payments, there shall not be included any erroneous payments made for ambulatory prenatal care provided during a presumptive eligibility period (as defined in section 1396r–1(b)(1) of this title), for items and services described in subsection (a) of section 1396r–1a of this title provided to a child during a presumptive eligibility period under such section, for medical assistance provided to an individual described in subsection (a) of section 1396r–1b of this title during a presumptive eligibility period under such section, or <sup>11</sup> for medical assistance provided to an individual described in subsection (a) of section 1396r–1c of this title during a presumptive eligibility period under such section, or for medical assistance provided to an individual during a presumptive eligibility period resulting from a determination of presumptive eligibility made by a hospital that elects under section 1396a(a)(47)(B) of this title to be a qualified entity for such purpose.
 
 (E) For purposes of subparagraph (D), there shall be excluded, in determining both erroneous excess payments for medical assistance and total expenditures for medical assistance—
 
@@ -856,7 +856,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 (B) In the case of a State that has elected to provide medical assistance to a category of aliens under subparagraph (A), no debt shall accrue under an affidavit of support against any sponsor of such an alien on the basis of provision of assistance to such category and the cost of such assistance shall not be considered as an unreimbursed cost.
 
-(C) As part of the State's ongoing eligibility redetermination requirements and proceduresfor an individual provided medical assistance as a result of an election by the State under subparagraph (A), a State shall verify that the individual continues to lawfully reside in the United States using the documentation presented to the State by the individual on initial enrollment. If the State cannot successfully verify that the individual is lawfully residing in the United States in this manner, it shall require that the individual provide the State with further documentation or other evidence to verify that the individual is lawfully residing in the United States.
+(C) As part of the State's ongoing eligibility redetermination requirements and procedures for an individual provided medical assistance as a result of an election by the State under subparagraph (A), a State shall verify that the individual continues to lawfully reside in the United States using the documentation presented to the State by the individual on initial enrollment. If the State cannot successfully verify that the individual is lawfully residing in the United States in this manner, it shall require that the individual provide the State with further documentation or other evidence to verify that the individual is lawfully residing in the United States.
 
 #### (w) Prohibition on use of voluntary contributions, and limitation on use of provider-specific taxes to obtain Federal financial participation under medicaid
 
@@ -1074,7 +1074,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 &emsp;(II) With respect to those federally recognized Indian tribes located within States having an international border whose membership includes individuals who are not citizens of the United States, the Secretary shall, after consulting with such tribes, issue regulations authorizing the presentation of such other forms of documentation (including tribal documentation, if appropriate) that the Secretary determines to be satisfactory documentary evidence of citizenship or nationality for purposes of satisfying the requirement of this subsection.
 
-&emsp;(vi) Such other document as the Secretary may specify, by regulation, that provides proof of United States citizenship or nationality and that provides a reliable means of documentation of personal identity.
+&emsp;(vi) Such other document as the Secretary may specify, by regulation, that providesproof of United States citizenship or nationality and that provides a reliable means of documentation of personal identity.
 
 (C) The following are documents described in this subparagraph:
 
@@ -1226,7 +1226,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 &emsp;&emsp;(A) For the purpose described in paragraph (3)(C)(i), activities that support an ongoing assessment of the behavioral health treatment needs of the State, taking into account the matters described in subclauses (I) through (IV) of such paragraph.
 
-&emsp;&emsp;(B) Activities that, taking into account the results of the assessment described in subparagraph (A), support the recruitment, training, and provision of technical assistance for providers participating under theState plan (or a waiver of such plan) that offer substance use disorder treatment or recovery services.
+&emsp;&emsp;(B) Activities that, taking into account the results of the assessment described insubparagraph (A), support the recruitment, training, and provision of technical assistance for providers participating under the State plan (or a waiver of such plan) that offer substance use disorder treatment or recovery services.
 
 &emsp;&emsp;(C) Improved reimbursement for and expansion of, through the provision of education, training, and technical assistance, the number or treatment capacity of providers participating under the State plan (or waiver) that—
 
@@ -1338,7 +1338,7 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 #### (A) In general
 
-&emsp;&emsp;For each quarter occurring during the period for which the demonstration project is conducted (after the first 18 months of such period), the Secretary shall pay under this subsection, subject to subparagraph (C), to each State selected under paragraph (4) an amount equal to 80 percent of so much of thequalified sums expended during such quarter.
+&emsp;&emsp;For each quarter occurring during the period for which the demonstration project is conducted (after the first 18 months of such period), the Secretary shall pay under thissubsection, subject to subparagraph (C), to each State selected under paragraph (4) an amount equal to 80 percent of so much of the qualified sums expended during such quarter.
 
 #### (B) Qualified sums defined
 
@@ -1406,13 +1406,55 @@ Notwithstanding the preceding provisions of this section, no payment shall be ma
 
 #### (8) CMS funding
 
-&emsp;There is appropriated, out of any funds in the Treasury not otherwise appropriated, $5,000,000 to the Centers for Medicare \& Medicaid Services for purposes of implementing thissubsection. Such amount shall remain available until expended.
+&emsp;There is appropriated, out of any funds in the Treasury not otherwise appropriated,$5,000,000 to the Centers for Medicare \& Medicaid Services for purposes of implementing this subsection. Such amount shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1903, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 349; amended Pub. L. 90–248, title II, §§220(a), 222(c), (d), 225(a), 229(c), 241(f)(5), Jan. 2, 1968, 81 Stat. 898, 901, 902, 904, 917; Pub. L. 90–364, title III, §303(a)(1), June 28, 1968, 82 Stat. 274; Pub. L. 91–56, §2(a), Aug. 9, 1969, 83 Stat. 99; Pub. L. 92–603, title II, §§207(a), 221(c)(6), 224(c), 225, 226(e), 229(c), 230, 233(c), 235(a), 237(a)(1), 249B, 278(b)(1), (5), (7), (16), 290, 295, 299E(a), Oct. 30, 1972, 86 Stat. 1379, 1389, 1395, 1396, 1404, 1410, 1411, 1414, 1415, 1428, 1453, 1454, 1457, 1459, 1462; Pub. L. 93–66, title II, §234(a), July 9, 1973, 87 Stat. 160; Pub. L. 93–233, §§13(a)(11), (12), 18(r)–(v), (x)(5), (6), (y)(1), Dec. 31, 1973, 87 Stat. 963, 971–973; Pub. L. 94–182, title I, §§110(a), 111(b), Dec. 31, 1975, 89 Stat. 1054; Pub. L. 94–460, title II, §202(a), Oct. 8, 1976, 90 Stat. 1957; Pub. L. 94–552, §1, Oct. 18, 1976, 90 Stat. 2540; Pub. L. 95–83, title I, §105(a)(1), (2), Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–142, §§3(c)(2), 8(c), 10(a), 11(a), 17(a)–(c), 20(a), Oct. 25, 1977, 91 Stat. 1179, 1195, 1196, 1201, 1205; Pub. L. 95–559, §14(c), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 95–626, title I, §102(b)(3), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–79, title I, §128, Oct. 4, 1979, 93 Stat. 629; Pub. L. 96–398, title IX, §901, Oct. 7, 1980, 94 Stat. 1609; Pub. L. 96–499, title IX, §§905(b), (c), 961(a), 963, 964, Dec. 5, 1980, 94 Stat. 2618, 2650, 2651; Pub. L. 97–35, title XXI, §§2101(a)(2), 2103(b)(1), 2106(b)(3), 2113(n), 2161, 2163, 2164(a), 2174(b), 2178(a), 2183(a), Aug. 13, 1981, 95 Stat. 786, 788, 792, 795, 803–806, 809, 813, 816; Pub. L. 97–248, title I, §§133(a), 137(a)(1), (2), (b)(11)–(16), (27), (g), 146(b), Sept. 3, 1982, 96 Stat. 373, 376, 378, 379, 381, 394; Pub. L. 97–448, title III, §309(b)(16), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §§2303(g)(2), 2363(a)(2), (4), (b), 2364, 2373(b)(11)–(14), July 18, 1984, 98 Stat. 1066, 1106, 1107, 1111, 1112; Pub. L. 98–617, §3(a)(6), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9503(b), (f), 9507(a), 9512(a), 9517(a), (c)(1), 9518(a), Apr. 7, 1986, 100 Stat. 206, 207, 210, 212, 215, 216; Pub. L. 99–509, title IX, §§9401(e)(2), 9403(g)(2), 9406(a), 9407(c), 9431(b)(2), 9434(a)(1), (2), (b), Oct. 21, 1986, 100 Stat. 2052, 2055, 2057, 2060, 2066, 2068, 2069; Pub. L. 99–514, title XVIII, §1895(c)(2), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 99–603, title I, §121(b)(2), Nov. 6, 1986, 100 Stat. 3390; Pub. L. 100–93, §8(g), (h)(1), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4112(b), 4113(a)(1), (b)(3), (d)(1), 4118(d)(1), (e)(11), (h)(1), (p)(5), 4211(d)(1), (g), (i), 4212(c)(1), (2), (d)(1), (e)(2), 4213(b)(2), Dec. 22, 1987, 101 Stat. 1330–149, 1330–150, 1330–152, 1330–155, 1330–159, 1330–204, 1330–205, 1330–207, 1330–212, 1330–213, 1330–219, as amended Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(iii), (k)(6)(B)(x), (7)(A), (D), (10)(D), (G)(ii), July 1, 1988, 102 Stat. 768, 794, 796; Pub. L. 100–360, title II, §202(h)(2), title III, §§301(f), 302(c)(3), (e)(4), title IV, §411(k)(12)(A), (13)(A), July 1, 1988, 102 Stat. 718, 750, 752, 753, 797, 798; Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), (f)(4), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6401(b), 6411(d)(2), 6901(b)(5)(A), Dec. 19, 1989, 103 Stat. 2259, 2271, 2299; Pub. L. 101–508, title IV, §§4401(a)(1), (b)(1), 4402(b), (d)(3), 4601(a)(3)(A), 4701(b)(2), 4704(b)(1), (2), 4711(c)(2), 4723(a), 4731(a), (b)(2), 4732(a), (b)(2), (c), (d), 4751(b)(1), 4752(a)(2), (b)(1), (e), 4801(a)(8), (e)(16)(A), Nov. 5, 1990, 104 Stat. 1388–143, 1388–159, 1388–163, 1388–164, 1388–166, 1388–170, 1388–172, 1388–187, 1388–194 to 1388–196, 1388–205 to 1388–207, 1388–212, 1388–218; Pub. L. 102–119, §26(i)(1), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–234, §§2(a), (b)(2), 3(b)(2)(B), 4(a), Dec. 12, 1991, 105 Stat. 1793, 1799, 1803, 1804; Pub. L. 103–66, title XIII, §§13602(b), 13604(a), 13622(a)(2), 13624(a), 13631(c), (h)(1), Aug. 10, 1993, 107 Stat. 619, 621, 632, 636, 643, 645; Pub. L. 104–193, title I, §114(d)(2), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 104–248, §1(b)(1), Oct. 9, 1996, 110 Stat. 3148; Pub. L. 105–12, §9(b)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4701(b)(1), (2)(A)(v)–(viii), (B), (C), (c), (d)(2), 4702(b)(1), 4703(a), (b)(1), 4705(b), 4706, 4707(b), 4708(a), (d), 4712(b)(2), (c)(2), 4722(a), (b), 4724(a), (b)(1), 4742(a), 4753(a), 4802(b)(2), 4912(b)(2), Aug. 5, 1997, 111 Stat. 492, 493, 495, 500, 501, 505, 506, 509, 514–516, 523, 525, 549, 573; Pub. L. 105–100, title I, §162(4), Nov. 19, 1997, 111 Stat. 2189; Pub. L. 106–31, title III, §3031(a), (b), May 21, 1999, 113 Stat. 103, 104; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§604(a)(2)(B), (b)(2), 608(e)–(k), (aa)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–395, 1501A–397, 1501A–398; Pub. L. 106–170, title II, §201(a)(4), (b), title IV, §407(a)–(c), Dec. 17, 1999, 113 Stat. 1893, 1913; Pub. L. 106–354, §2(b)(2)(B), Oct. 24, 2000, 114 Stat. 1383; Pub. L. 106–554, §1(a)(6) \[title VII, §§702(c)(1), 710(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574, 2763A–578; Pub. L. 108–357, title VII, §712(b), Oct. 22, 2004, 118 Stat. 1559; Pub. L. 108–446, title III, §305(j)(1), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 109–91, title I, §104(b), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–171, title VI, §§6002(b), 6033(a), 6036(a), 6043(b), 6051(a), 6062(c)(1), 6081, Feb. 8, 2006, 120 Stat. 59, 74, 80, 88, 92, 98, 111; Pub. L. 109–432, div. B, title IV, §§403, 405(c)(1)(A), Dec. 20, 2006, 120 Stat. 2994, 2998; Pub. L. 110–28, title VII, §7002(b)(1), May 25, 2007, 121 Stat. 187; Pub. L. 110–252, title VII, §7001(d)(3), June 30, 2008, 122 Stat. 2394; Pub. L. 110–379, §3(a), Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–3, title II, §§201(b)(2)(A), 211(a)(1)(B), (3), (b)(1)–(3)(A), (4), 214(a), title IV, §401(b), Feb. 4, 2009, 123 Stat. 39, 52–54, 56, 82; Pub. L. 111–5, div. B, title IV, §4201(a), Feb. 17, 2009, 123 Stat. 489; Pub. L. 111–148, title II, §§2001(a)(2)(B), (5)(D), (e)(2)(B), 2004(c)(1), 2102(a)(8), 2202(b), 2303(a)(4)(B), (b)(2)(B), 2402(d)(2)(A), 2501(c)(1), title VI, §§6402(c), (h)(2), 6504(a), (b)(1), 6506(a)(1), 6507, Mar. 23, 2010, 124 Stat. 272, 275, 279, 283, 288, 291, 294, 296, 303, 308, 757, 760, 776–778; Pub. L. 111–157, §5(a)(2), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–309, title II, §205(e), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–113, div. O, title V, §503(a)(1), Dec. 18, 2015, 129 Stat. 3020; Pub. L. 114–255, div. A, title V, §§5002, 5005(a)(4), 5008(a), div. B, title XII, §12006(a), div. C, title XVII, §17004(b)(1)(A), Dec. 13, 2016, 130 Stat. 1188, 1192, 1197, 1275, 1332; Pub. L. 115–222, §1(a), July 30, 2018, 132 Stat. 1560; Pub. L. 115–271, title I, §§1003, 1013, 1016(a), title IV, §4001, Oct. 24, 2018, 132 Stat. 3903, 3920, 3922, 3958; Pub. L. 116–16, §§6(a)(2)(A), 8(a), Apr. 18, 2019, 133 Stat. 861, 864.)
+#### (bb) Supplemental payment reporting requirements
+
+#### (1) Collection and availability of supplemental payment data
+
+#### (A) In general
+
+&emsp;&emsp;Not later than October 1, 2021, the Secretary shall establish a system for each State to submit reports, as determined appropriate by the Secretary, on supplemental payments data, as a requirement for a State plan or State plan amendment that would provide for a supplemental payment.
+
+#### (B) Requirements
+
+&emsp;&emsp;Each report submitted by a State in accordance with the requirement established under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;(i) An explanation of how supplemental payments made under the State plan or a State plan amendment will result in payments that are consistent with section 1396a(a)(30)(A) of this title, including standards with respect to efficiency, economy, quality of care, and access, along with the stated purpose and intended effects of the supplemental payment.
+
+&emsp;&emsp;&emsp;(ii) The criteria used to determine which providers are eligible to receive the supplemental payment.
+
+&emsp;&emsp;&emsp;(iii) A comprehensive description of the methodology used to calculate the amount of, and distribute, the supplemental payment to each eligible provider, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) data on the amount of the supplemental payment made to each eligible provider, if known, or, if the total amount is distributed using a formula based on data from 1 or more fiscal years, data on the total amount of the supplemental payments for the fiscal year or years available to all providers eligible to receive a supplemental payment;
+
+&emsp;&emsp;&emsp;&emsp;(II) if applicable, the specific criteria with respect to Medicaid service, utilization, or cost data to be used as the basis for calculations regarding the amount or distribution of the supplemental payment; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the timing of the supplemental payment made to each eligible provider.
+
+&emsp;&emsp;&emsp;(iv) An assurance that the total Medicaid payments made to an inpatient hospital provider, including the supplemental payment, will not exceed upper payment limits.
+
+&emsp;&emsp;&emsp;(v) If not already submitted, an upper payment limit demonstration under section 447.272 of title 42, Code of Federal Regulations (as such section is in effect as of December 27, 2020).
+
+#### (C) Public availability
+
+&emsp;&emsp;The Secretary shall make all reports and related data submitted under this paragraph publicly available on the website of the Centers for Medicare \& Medicaid Services on a timely basis.
+
+#### (2) Supplemental payment defined
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), in this subsection, the term "supplemental payment" means a payment to a provider that is in addition to any base payment made to the provider under the State plan under this subchapter or under demonstration authority.
+
+#### (B) DSH payments excluded
+
+&emsp;&emsp;Such term does not include a disproportionate share hospital payment made under section 1396r–4 of this title.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1903, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 349; amended Pub. L. 90–248, title II, §§220(a), 222(c), (d), 225(a), 229(c), 241(f)(5), Jan. 2, 1968, 81 Stat. 898, 901, 902, 904, 917; Pub. L. 90–364, title III, §303(a)(1), June 28, 1968, 82 Stat. 274; Pub. L. 91–56, §2(a), Aug. 9, 1969, 83 Stat. 99; Pub. L. 92–603, title II, §§207(a), 221(c)(6), 224(c), 225, 226(e), 229(c), 230, 233(c), 235(a), 237(a)(1), 249B, 278(b)(1), (5), (7), (16), 290, 295, 299E(a), Oct. 30, 1972, 86 Stat. 1379, 1389, 1395, 1396, 1404, 1410, 1411, 1414, 1415, 1428, 1453, 1454, 1457, 1459, 1462; Pub. L. 93–66, title II, §234(a), July 9, 1973, 87 Stat. 160; Pub. L. 93–233, §§13(a)(11), (12), 18(r)–(v), (x)(5), (6), (y)(1), Dec. 31, 1973, 87 Stat. 963, 971–973; Pub. L. 94–182, title I, §§110(a), 111(b), Dec. 31, 1975, 89 Stat. 1054; Pub. L. 94–460, title II, §202(a), Oct. 8, 1976, 90 Stat. 1957; Pub. L. 94–552, §1, Oct. 18, 1976, 90 Stat. 2540; Pub. L. 95–83, title I, §105(a)(1), (2), Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–142, §§3(c)(2), 8(c), 10(a), 11(a), 17(a)–(c), 20(a), Oct. 25, 1977, 91 Stat. 1179, 1195, 1196, 1201, 1205; Pub. L. 95–559, §14(c), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 95–626, title I, §102(b)(3), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–79, title I, §128, Oct. 4, 1979, 93 Stat. 629; Pub. L. 96–398, title IX, §901, Oct. 7, 1980, 94 Stat. 1609; Pub. L. 96–499, title IX, §§905(b), (c), 961(a), 963, 964, Dec. 5, 1980, 94 Stat. 2618, 2650, 2651; Pub. L. 97–35, title XXI, §§2101(a)(2), 2103(b)(1), 2106(b)(3), 2113(n), 2161, 2163, 2164(a), 2174(b), 2178(a), 2183(a), Aug. 13, 1981, 95 Stat. 786, 788, 792, 795, 803–806, 809, 813, 816; Pub. L. 97–248, title I, §§133(a), 137(a)(1), (2), (b)(11)–(16), (27), (g), 146(b), Sept. 3, 1982, 96 Stat. 373, 376, 378, 379, 381, 394; Pub. L. 97–448, title III, §309(b)(16), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §§2303(g)(2), 2363(a)(2), (4), (b), 2364, 2373(b)(11)–(14), July 18, 1984, 98 Stat. 1066, 1106, 1107, 1111, 1112; Pub. L. 98–617, §3(a)(6), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–272, title IX, §§9503(b), (f), 9507(a), 9512(a), 9517(a), (c)(1), 9518(a), Apr. 7, 1986, 100 Stat. 206, 207, 210, 212, 215, 216; Pub. L. 99–509, title IX, §§9401(e)(2), 9403(g)(2), 9406(a), 9407(c), 9431(b)(2), 9434(a)(1), (2), (b), Oct. 21, 1986, 100 Stat. 2052, 2055, 2057, 2060, 2066, 2068, 2069; Pub. L. 99–514, title XVIII, §1895(c)(2), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 99–603, title I, §121(b)(2), Nov. 6, 1986, 100 Stat. 3390; Pub. L. 100–93, §8(g), (h)(1), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4112(b), 4113(a)(1), (b)(3), (d)(1), 4118(d)(1), (e)(11), (h)(1), (p)(5), 4211(d)(1), (g), (i), 4212(c)(1), (2), (d)(1), (e)(2), 4213(b)(2), Dec. 22, 1987, 101 Stat. 1330–149, 1330–150, 1330–152, 1330–155, 1330–159, 1330–204,1330–205, 1330–207, 1330–212, 1330–213, 1330–219, as amended Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(iii), (k)(6)(B)(x), (7)(A), (D), (10)(D), (G)(ii), July 1, 1988, 102 Stat. 768, 794, 796; Pub. L. 100–360, title II, §202(h)(2), title III, §§301(f), 302(c)(3), (e)(4), title IV, §411(k)(12)(A), (13)(A), July 1, 1988, 102 Stat. 718, 750, 752, 753, 797, 798; Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), (f)(4), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6401(b), 6411(d)(2), 6901(b)(5)(A), Dec. 19, 1989, 103 Stat. 2259, 2271, 2299; Pub. L. 101–508, title IV, §§4401(a)(1), (b)(1), 4402(b), (d)(3), 4601(a)(3)(A), 4701(b)(2), 4704(b)(1), (2), 4711(c)(2), 4723(a), 4731(a), (b)(2), 4732(a), (b)(2), (c), (d), 4751(b)(1), 4752(a)(2), (b)(1), (e), 4801(a)(8), (e)(16)(A), Nov. 5, 1990, 104 Stat. 1388–143, 1388–159, 1388–163, 1388–164, 1388–166, 1388–170, 1388–172, 1388–187, 1388–194 to 1388–196, 1388–205 to 1388–207, 1388–212, 1388–218; Pub. L. 102–119, §26(i)(1), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–234, §§2(a), (b)(2), 3(b)(2)(B), 4(a), Dec. 12, 1991, 105 Stat. 1793, 1799, 1803, 1804; Pub. L. 103–66, title XIII, §§13602(b), 13604(a), 13622(a)(2), 13624(a), 13631(c), (h)(1), Aug. 10, 1993, 107 Stat. 619, 621, 632, 636, 643, 645; Pub. L. 104–193, title I, §114(d)(2), Aug. 22, 1996, 110 Stat. 2180; Pub. L. 104–248, §1(b)(1), Oct. 9, 1996, 110 Stat. 3148; Pub. L. 105–12, §9(b)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4701(b)(1), (2)(A)(v)–(viii), (B), (C), (c), (d)(2), 4702(b)(1), 4703(a), (b)(1), 4705(b), 4706, 4707(b), 4708(a), (d), 4712(b)(2), (c)(2), 4722(a), (b), 4724(a), (b)(1), 4742(a), 4753(a), 4802(b)(2), 4912(b)(2), Aug. 5, 1997, 111 Stat. 492, 493, 495, 500, 501, 505, 506, 509, 514–516, 523, 525, 549, 573; Pub. L. 105–100, title I, §162(4), Nov. 19, 1997, 111 Stat. 2189; Pub. L. 106–31, title III, §3031(a), (b), May 21, 1999, 113 Stat. 103, 104; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§604(a)(2)(B), (b)(2), 608(e)–(k), (aa)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–395, 1501A–397, 1501A–398; Pub. L. 106–170, title II, §201(a)(4), (b), title IV, §407(a)–(c), Dec. 17, 1999, 113 Stat. 1893, 1913; Pub. L. 106–354, §2(b)(2)(B), Oct. 24, 2000, 114 Stat. 1383; Pub. L. 106–554, §1(a)(6) \[title VII, §§702(c)(1), 710(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574, 2763A–578; Pub. L. 108–357, title VII, §712(b), Oct. 22, 2004, 118 Stat. 1559; Pub. L. 108–446, title III, §305(j)(1), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 109–91, title I, §104(b), Oct. 20, 2005, 119 Stat. 2092; Pub. L. 109–171, title VI, §§6002(b), 6033(a), 6036(a), 6043(b), 6051(a), 6062(c)(1), 6081, Feb. 8, 2006, 120 Stat. 59, 74, 80, 88, 92, 98, 111; Pub. L. 109–432, div. B, title IV, §§403, 405(c)(1)(A), Dec. 20, 2006, 120 Stat. 2994, 2998; Pub. L. 110–28, title VII, §7002(b)(1), May 25, 2007, 121 Stat. 187; Pub. L. 110–252, title VII, §7001(d)(3), June 30, 2008, 122 Stat. 2394; Pub. L. 110–379, §3(a), Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–3, title II, §§201(b)(2)(A), 211(a)(1)(B), (3), (b)(1)–(3)(A), (4), 214(a), title IV, §401(b), Feb. 4, 2009, 123 Stat. 39, 52–54, 56, 82; Pub. L. 111–5, div. B, title IV, §4201(a), Feb. 17, 2009, 123 Stat. 489; Pub. L. 111–148, title II, §§2001(a)(2)(B), (5)(D), (e)(2)(B), 2004(c)(1), 2102(a)(8), 2202(b), 2303(a)(4)(B), (b)(2)(B), 2402(d)(2)(A), 2501(c)(1), title VI, §§6402(c), (h)(2), 6504(a), (b)(1), 6506(a)(1), 6507, Mar. 23, 2010, 124 Stat. 272, 275, 279, 283, 288, 291, 294, 296, 303, 308, 757, 760, 776–778; Pub. L. 111–157, §5(a)(2), Apr. 15, 2010, 124 Stat. 1117; Pub. L. 111–309, title II, §205(e), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–113, div. O, title V, §503(a)(1), Dec. 18, 2015, 129 Stat. 3020; Pub. L. 114–255, div. A, title V, §§5002, 5005(a)(4), 5008(a), div. B, title XII, §12006(a), div. C, title XVII, §17004(b)(1)(A), Dec. 13, 2016, 130 Stat. 1188, 1192, 1197, 1275, 1332; Pub. L. 115–222, §1(a), July 30, 2018, 132 Stat. 1560; Pub. L. 115–271, title I, §§1003, 1013, 1016(a), title IV, §4001, Oct. 24, 2018, 132 Stat. 3903, 3920, 3922, 3958; Pub. L. 116–16, §§6(a)(2)(A), 8(a), Apr. 18, 2019, 133 Stat. 861, 864; Pub. L. 116–260, div. CC, title II, §§202, 207, 209(a)(3), Dec. 27, 2020, 134 Stat. 2977, 2984, 2986.)
 
 #### References in Text
 
-Subsection (w)(3)(A), referred to in subsec. (b)(5), was in the original "section 1902(w)(3)(A)", and was translated as reading "section 1903(w)(3)(A)", meaning section 1903(w)(3)(A) of the Social Security Act, to reflectthe probable intent of Congress, because section 1902(w)(3), which is classified to section 1396a(w)(3) of this title, does not contain a subpar. (A), and subsec. (w)(3)(A) of this section relates to health care related taxes.
+Subsection (w)(3)(A), referred to in subsec. (b)(5), was in the original "section 1902(w)(3)(A)", and was translated as reading "section 1903(w)(3)(A)", meaning section 1903(w)(3)(A) of the Social Security Act, to reflect the probable intent of Congress, because section 1902(w)(3), which is classified to section 1396a(w)(3) of this title, does not contain a subpar. (A), and subsec. (w)(3)(A) of this section relates to health care related taxes.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -1431,6 +1473,14 @@ Section 602 of this title, referred to in subsec. (u)(1)(D)(iv), was repealed an
 The Deficit Reduction Act of 2005, referred to in subsec. (x)(5), is Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 4. Section 6036 of the Act amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 1305 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(6). Pub. L. 116–260, §207(b), which directed amendment of concluding provisions by striking out "(as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan (or waiver of such plan))", was executed by striking out "(as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan)" after "such quarter", to reflect the probable intent of Congress.
+
+Subsec. (i)(9). Pub. L. 116–260, §209(a)(3), added par. (9).
+
+Subsec. (q)(4)(A)(ii). Pub. L. 116–260, §207(a), inserted "and of patients (who are receiving medical assistance under the State plan under this subchapter (or waiver of such plan)) in a noninstitutional or other setting" after "patients residing in board and care facilities".
+
+Subsec. (bb). Pub. L. 116–260, §202, added subsec. (bb).
 
 <b>2019</b>—Subsec. (i)(10)(C) to (E). Pub. L. 116–16, §6(a)(2)(A), added subpar. (E) and realigned margins.
 
@@ -1650,7 +1700,7 @@ Subsec. (f)(4). Pub. L. 105–100 substituted "1396d(p)(1), or 1396d(u) of this 
 
 Subsec. (f)(4)(C). Pub. L. 105–33, §4802(b)(2), inserted "or who is a PACE program eligible individual enrolled in a PACE program under section 1396u–4 of this title," after "section 1396a(a)(10)(A) of this title,".
 
-Subsec. (i). Pub. L. 105–33, §4708(d), inserted at end of closing provisions "Paragraphs (1), (2), (16), (17), and (18) shall apply with respect to items or services furnished and amounts expended by or through a managed care entity (as defined in section 1396u–2(a)(1)(B) of this title) in the same manner as such paragraphs apply to items or services furnished and amounts expended directly by the State."
+Subsec. (i). Pub. L. 105–33, §4708(d), inserted at end of closing provisions "Paragraphs (1), (2), (16), (17), and\(18) shall apply with respect to items or services furnished and amounts expended by or through a managed care entity (as defined in section 1396u–2(a)(1)(B) of this title) in the same manner as such paragraphs apply to items or services furnished and amounts expended directly by the State."
 
 Subsec. (i)(2). Pub. L. 105–33, §4724(a)(1), substituted "; or" for the period at end.
 
@@ -1714,7 +1764,7 @@ Subsec. (m)(2)(F). Pub. L. 105–33, §4701(d)(2)(B), struck out subpar. (F) whi
 
 &emsp;"(i) a contract with an entity described in subparagraph (E) or (G), with a qualified health maintenance organization (as defined in section 300e–9(d) of this title) which meets the requirement of subparagraph (A)(ii), or or with an eligible organization with a contract under section 1395mm of this title which meets the requirement of subparagraph (A)(ii), or
 
-&emsp;"(ii) a program pursuant to an undertaking described in paragraph (6) in which at least 25 percent of the membership enrolled on a prepaid basis are individuals who (I) are not insured for benefits under part B of subchapter XVIII of this chapter or eligible for benefits under this subchapter, and (II) (in the case of such individuals whose prepayments are made in whole or in part by any government entity) had the opportunity at the time of enrollment in the program to elect other coverage of health care costs that would have been paid in whole or in part by any governmental entity,
+&emsp;"(ii) a program pursuant to an undertaking described in paragraph (6) in which at least 25 percent of the membership enrolled on a prepaid basis are individuals who (I) are not insured for benefits under part B of subchapter XVIII of this chapter or eligible for benefits under this subchapter, and (II) (in the case of such individuals whose prepayments are made in whole or in part by any government entity) had the opportunity at the time of enrollment in the program to elect other coverage of health care costs thatwould have been paid in whole or in part by any governmental entity,
 
 > a State plan may restrict the period in which requests for termination of enrollment without cause under subparagraph (A)(vi)(I) are permitted to the first month of each period of enrollment, each such period of enrollment not to exceed six months in duration, but only if the State provides notification, at least twice per year, to individuals enrolled with such entity or organization of the right to terminate such enrollment and the restriction on the exercise of this right. Such restriction shall not apply to requests for termination of enrollment for cause."
 
@@ -1780,7 +1830,7 @@ Pub. L. 104–248, §1(b)(1)(C)(ii), inserted "(or certified by the State in acc
 
 Subsec. (i)(12)(A)(vii). Pub. L. 104–248, §1(b)(1)(C)(iii), redesignated cl. (vi) as (vii).
 
-Subsec. (i)(12)(B)(i). Pub. L. 104–248, §1(b)(1)(B), inserted "or is certified in family practice or obstetrics by the medical specialty board recognized by the American Osteopathic Association" before comma at end.
+Subsec. (i)(12)(B)(i). Pub. L. 104–248, §1(b)(1)(B), inserted "or is certified in family practice or obstetricsby the medical specialty board recognized by the American Osteopathic Association" before comma at end.
 
 Subsec. (i)(12)(B)(vi). Pub. L. 104–248, §1(b)(1)(C)(i), (iii), (iv), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
@@ -1920,7 +1970,7 @@ Subsec. (g)(1). Pub. L. 100–203, §4212(d)(1)(A), substituted "or services in 
 
 Subsec. (g)(4)(B). Pub. L. 100–203, §4212(d)(1)(B), substituted "and intermediate care facilities for the mentally retarded" for ", skilled nursing facilities, and intermediate care facilities".
 
-Subsec. (g)(6)(B) to (D). Pub. L. 100–203, §4212(d)(1)(C), redesignated subpar. (C) as (B) and substituted "services in an intermediate care facility for the mentallyretarded" for "intermediate care facility services", redesignated subpar. (D) as (C), and struck out former subpar. (B) which read as follows: "Such recertifications in the case of skilled nursing facility services shall be conducted at least—
+Subsec. (g)(6)(B) to (D). Pub. L. 100–203, §4212(d)(1)(C), redesignated subpar. (C) as (B) and substituted "services in an intermediate care facility for the mentally retarded" for "intermediate care facility services", redesignated subpar. (D) as (C), and struck out former subpar. (B) which read as follows: "Such recertifications in the case of skilled nursing facility services shall be conducted at least—
 
 &emsp;"(i) 30 days after the date of the initial certification,
 
@@ -1938,7 +1988,7 @@ Subsec. (i). Pub. L. 100–203, §4118(d)(1)(B), inserted sentence at end that n
 
 Subsec. (i)(1). Pub. L. 100–203, §4118(d)(1)(A), substituted "; or" for period at end.
 
-Subsec. (i)(2). Pub. L. 100–93, §8(g), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "with respect to any amount paid for services furnished under the plan after December 31, 1972, by a provider or other person during any period of time, if payment may not be made under subchapter XVIII of this chapter with respect to services furnished by such provider or person during such period of time solely by reason of a determination by the Secretary under section 1395y(d)(1) of this title or under clause (D), (E), or (F) of section 1395cc(b)(2) of this title, or by reason of noncompliance with a request made by the Secretary under clause (C)(ii) of such section 1395cc(b)(2) or under section 1396a(a)(38) of this title; or".
+Subsec. (i)(2). Pub. L. 100–93, §8(g), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "with respect to any amount paid for services furnished under the plan after December 31, 1972, by a provider or other person during any period of time, if payment may not be made under subchapter XVIII of this chapterwith respect to services furnished by such provider or person during such period of time solely by reason of a determination by the Secretary under section 1395y(d)(1) of this title or under clause (D), (E), or (F) of section 1395cc(b)(2) of this title, or by reason of noncompliance with a request made by the Secretary under clause (C)(ii) of such section 1395cc(b)(2) or under section 1396a(a)(38) of this title; or".
 
 Subsec. (i)(2)(A). Pub. L. 100–203, §4118(e)(11)(A), as added by Pub. L. 100–360, §411(k)(10)(D), as amended by Pub. L. 100–485, §608(d)(26)(K)(ii), substituted "under subchapter V, XVIII, or XX or under this subchapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title" for "in the State plan under this subchapter pursuant to section 1320a–7 of this title or section 1320a–7a of this title".
 
@@ -2004,7 +2054,7 @@ Subsec. (v). Pub. L. 99–509, §9406(a), added subsec. (v).
 
 <b>1984</b>—Subsec. (g)(1). Pub. L. 98–369, §2363(a)(2)(A), (B), in provision preceding subpar. (A), substituted "inpatient hospital services or intermediate care facility services for 60 days, skilled nursing facility services for 30 days, or inpatient mental hospital services for" for "care as an inpatient in a hospital (including an institution for tuberculosis), skilled nursing facility or intermediate care facility on 60 days, or in a hospital for mental diseases on", and struck out "which for purposes of this section means the four calendar quarters ending with June 30," before "the Federal medical assistance percentage", and struck out "in the same fiscal year" before "shall be decreased by a per centum thereof".
 
-Pub. L. 98–369, §2363(a)(2)(C), substituted ", skilled nursing facility services, or intermediate care facility services furnished beyond 60 days (or inpatient mental hospital services furnished beyond 90 days), such State has an effective program of medical review of the care of patients in mental hospitals, skilled nursing facilities, and intermediate care facilities pursuant to paragraphs (26) and (31) of section 1396a(a) of this title whereby the professional management of each case is reviewed and evaluated at least annually by independent professional review teams" for "(including tuberculosis hospitals), skilled nursing facility services, or intermediate care facility services furnished beyond 60 days (or inpatient mental hospital services furnished beyond 90 days), there is in operation in the State an effective program of control over utilization of such services; such a showing must include evidence that—" and former subpars. (A) through (D) requirement for evidence concerning an effective program of utilization of certain medical services.
+Pub. L. 98–369, §2363(a)(2)(C), substituted ", skilled nursing facility services, or intermediate care facility services furnished beyond 60 days (or inpatient mental hospital services furnished beyond 90 days), such State has an effective program of medical review of the care of patients in mental hospitals, skilled nursing facilities, and intermediate care facilities pursuant to paragraphs (26) and (31) of section 1396a(a) of this title whereby the professional management of each case is reviewed and evaluated at least annually by independent professional review teams" for "(including tuberculosis hospitals), skilled nursing facility services, or intermediate care facility services furnished beyond 60 days (or inpatient mental hospital services furnished beyond 90 days), there is in operation in the State an effective program of control over utilization of such services; such a showing must include evidence that—" and former subpars. (A) through (D) requirement forevidence concerning an effective program of utilization of certain medical services.
 
 Subsec. (g)(4)(B). Pub. L. 98–369, §2373(b)(11), substituted "paragraphs (26)" for "paragraph (26)" and "diligence" for "deligence".
 
@@ -2060,7 +2110,7 @@ Subsec. (t)(1)(A). Pub. L. 97–248, §137(b)(16)(A), substituted "payments unde
 
 Subsec. (t)(1)(B). Pub. L. 97–248, §137(b)(16)(B), (D), substituted "Consumer Price Index for all urban consumers (U.S. city average) published by the Bureau of Labor Statistics" for "consumer price index for all urban consumers (published by the Bureau of Labor Statistics)" and "for the 12-month period ending on September 30, 1983" for "between September 1982 and September 1983".
 
-Subsec. (t)(1)(C). Pub. L. 97–248, §137(b)(16)(C), (D), substituted "Consumer Price Index for all urban consumers (U.S. city average) published by the Bureau of Labor Statistics" for "consumer price index for all urban consumers (published by the Bureau of LaborStatistics)" and "for the 24-month period ending on September 30, 1984" for "between September 1982 and September 1984".
+Subsec. (t)(1)(C). Pub. L. 97–248, §137(b)(16)(C), (D), substituted "Consumer Price Index for all urban consumers (U.S. city average) published by the Bureau of Labor Statistics" for "consumer price index for all urban consumers (published by the Bureau of Labor Statistics)" and "for the 24-month period ending on September 30, 1984" for "between September 1982 and September 1984".
 
 Subsec. (t)(2)(A). Pub. L. 97–248, §137(b)(16)(A), substituted "payments under subsection (a)(6) of this section, interest paid under subsection (d)(5) of this section, and payments for claims relating to expenditures made for medical assistance for services received through a facility of the Indian Health Service" for "interest paid under subsection (d)(5) of this section".
 
@@ -2218,6 +2268,10 @@ Subsec. (f). Pub. L. 90–248, §220(a), added subsec. (f).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by section 209(a)(3) of Pub. L. 116–260 effective Dec. 27, 2020, and applicable to transportation furnished on or after such date, see section 209(a)(4) of Pub. L. 116–260, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2019 Amendment
 
 Amendment by section 6(a)(2)(A) of Pub. L. 116–16 effective on Apr. 18, 2019, and applicable to covered outpatient drugs supplied by manufacturers under agreements under section 1396r–8 of this title on or after that date, see section 6(e) of Pub. L. 116–16, set out as a note under section 1320a–7 of this title.
@@ -2286,7 +2340,7 @@ Pub. L. 109–171, title VI, §6033(b), Feb. 8, 2006, 120 Stat. 74, provided tha
 
 Pub. L. 109–171, title VI, §6036(b), Feb. 8, 2006, 120 Stat. 81, as amended by Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(v)(I), Dec. 20, 2006, 120 Stat. 3000, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to determinations of initial eligibility for medical assistance made on or after July 1, 2006, and to redeterminations of eligibility made on or after such date in the case of individuals for whom the requirement of section 1903(x) of the Social Security Act \[42 U.S.C. 1396b(x)\], as added by such amendments, was not previously met."
 
-Pub. L. 109–171, title VI, §6043(c), Feb. 8, 2006, 120 Stat. 88, provided that: "The amendments made by this section \[amending this section and section 1396o–1 of thistitle\] shall apply to non-emergency services furnished on or after January 1, 2007."
+Pub. L. 109–171, title VI, §6043(c), Feb. 8, 2006, 120 Stat. 88, provided that: "The amendments made by this section \[amending this section and section 1396o–1 of this title\] shall apply to non-emergency services furnished on or after January 1, 2007."
 
 Pub. L. 109–171, title VI, §6051(b), Feb. 8, 2006, 120 Stat. 92, provided that:
 
@@ -2454,7 +2508,7 @@ Pub. L. 101–508, title IV, §4701(c), Nov. 5, 1990, 104 Stat. 1388–171, prov
 
 Amendment by section 4704(b)(1), (2) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Amendment by section 4711(c)(2) of Pub. L. 101–508 applicable to civil money penalties imposed after Nov. 5,1990, see section 4711(e)(2)(B) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4711(c)(2) of Pub. L. 101–508 applicable to civil money penalties imposed after Nov. 5, 1990, see section 4711(e)(2)(B) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 Pub. L. 101–508, title IV, §4731(c), Nov. 5, 1990, 104 Stat. 1388–195, provided that: "The amendments made by subsections (a) and (b)(2) \[amending this section\] shall apply with respect to contract years beginning on or after January 1, 1992, and the amendments made by subsection (b)(1) \[amending section 1320a–7a of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
@@ -2464,7 +2518,7 @@ Pub. L. 101–508, title IV, §4752(b)(2), Nov. 5, 1990, 104 Stat. 1388–206, p
 
 Pub. L. 101–508, title IV, §4801(a)(9), Nov. 5, 1990, 104 Stat. 1388–212, provided that: "Except as provided in paragraph (6), the amendments made by this subsection \[amending this section and section 1396r of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\]."
 
-Pub. L. 101–508, title IV, §4801(e)(16)(B), Nov. 5, 1990, 104 Stat. 1388–218, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply with respect to actions initiated on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title IV, §4801(e)(16)(B), Nov. 5, 1990, 104 Stat. 1388–218, provided that: "The amendments made by subparagraph (A) \[amending this section\] shallapply with respect to actions initiated on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1989 Amendment
 
@@ -2512,7 +2566,7 @@ Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of P
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
-Amendment by section 9401(e)(2) of Pub. L. 99–509 applicable to medical assistance furnished in calendar quarters beginning on or after Apr. 1, 1987, without regard to whether of not final regulations to carry out such amendment have been promulgated by such date,see section 9401(f) of Pub. L. 99–509, set out as a note under section 1396a of this title.
+Amendment by section 9401(e)(2) of Pub. L. 99–509 applicable to medical assistance furnished in calendar quarters beginning on or after Apr. 1, 1987, without regard to whether of not final regulations to carry out such amendment have been promulgated by such date, see section 9401(f) of Pub. L. 99–509, set out as a note under section 1396a of this title.
 
 Amendment by section 9403(g)(2) of Pub. l. 99–509 applicable to payments under this subchapter for calendar quarters beginning on or after July 1, 1987, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date, see section 9403(h) of Pub. L. 99–509, set out as a note under section 1396a of this title.
 
@@ -2572,7 +2626,7 @@ Pub. L. 99–272, title IX, §9517(c)(2), (3), Apr. 7, 1986, 100 Stat. 216, as a
 
 \[Pub. L. 110–275, title II, §205(b), July 15, 2008, 122 Stat. 2594, provided that: "The amendments made by subsection (a) \[amending section 9517(c)(3)(A), (C) of Pub. L. 99–272, set out above\] shall take effect on the date of the enactment of this Act \[July 15, 2008\]."\]
 
-\[Pub. L. 106–554, §1(a)(6) \[title VII, §704(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–575, provided that: "The amendment made by subsection (a) \[amending section9517(c)(3)(C) of Pub. L. 99–272, set out above\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\]."\]
+\[Pub. L. 106–554, §1(a)(6) \[title VII, §704(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–575, provided that: "The amendment made by subsection (a) \[amending section 9517(c)(3)(C) of Pub. L. 99–272, set out above\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\]."\]
 
 \[Pub. L. 104–240, §1(b), Oct. 8, 1996, 110 Stat. 3140, provided that: "The amendment made by subsection (a) \[amending section 9517(c)(3)(B)(ii) of Pub. L. 99–272, set out above\] shall apply to quarters beginning on or after October 1, 1996."\]
 
@@ -2584,7 +2638,7 @@ Amendment by Pub. L. 98–617 effective as if originally included in the Deficit
 
 Amendment by section 2303(g)(2) of Pub. L. 98–369 applicable to payments for calendar quarters beginning on or after Oct. 1, 1984, but not applicable to clinical diagnostic laboratory tests furnished to inpatients of a provider operating under a waiver granted pursuant to section 602(k) of Pub. L. 98–21, set out as a note under section 1395y of this title, see section 2303(j)(2) and (3) of Pub. L. 98–369, set out as a note under section 1395l of this title.
 
-Pub. L. 98–369, div. B, title III, §2363(c), July 18, 1984, 98 Stat. 1107, provided that: "The amendments made by subsection (a) \[amending this section and section 1396a of this title\] apply to calendar quarters beginning on or after the date of the enactment of this Act \[July 18, 1984\], except that, in the case of individuals admitted to skilled nursing facilities before such date, the amendments made by such subsection shall not require recertifications sooner or more frequently than were required under the law in effect before such date."
+Pub. L. 98–369, div. B, title III, §2363(c), July 18, 1984, 98 Stat. 1107, provided that: "The amendments made by subsection (a) \[amending this section and section 1396aof this title\] apply to calendar quarters beginning on or after the date of the enactment of this Act \[July 18, 1984\], except that, in the case of individuals admitted to skilled nursing facilities before such date, the amendments made by such subsection shall not require recertifications sooner or more frequently than were required under the law in effect before such date."
 
 #### Effective Date of 1983 Amendment
 
@@ -2722,7 +2776,7 @@ In General.—Subject to subsection (b), the Secretary of Health and Human Servi
 
 "(b)
 
-Regulations Changing Treatment of Intergovernmental Transfers.—The Secretary may not issue any interim final regulation that changes the treatment (specified in section 433.45(a) of title 42, Code of Federal Regulations) of public funds as a source of State share of financial participation under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], except as may be necessary to permit the Secretary to deny Federal financial participation for public funds described in section 1903(w)(6)(A) of such Act \[42 U.S.C. 1396b(w)(6)(A)\] (as added by section 2(a) of this Act) that are derived from donations or taxes that would not otherwise be recognized as the non-Federal share under section 1903(w) of such Act.
+Regulations Changing Treatment of Intergovernmental Transfers.—The Secretary may not issue any interim final regulation that changes the treatment (specified in section 433.45(a) of title 42, Code of Federal Regulations) of public funds as a source of State share of financial participation under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], except as may be necessary to permit the Secretary to deny Federal financial participation for public funds described in section 1903(w)(6)(A) of such Act \[42 U.S.C. 1396b(w)(6)(A)\] (as added by section 2(a) of this Act) that are derived from donations or taxes that wouldnot otherwise be recognized as the non-Federal share under section 1903(w) of such Act.
 
 "(c)
 
@@ -2858,7 +2912,7 @@ Pub. L. 101–239, title VI, §6411(g), Dec. 19, 1989, 103 Stat. 2272, provided 
 
 Prohibition of disallowance pending issuance of regulations.—Except as specifically permitted under paragraph (3), the Secretary of Health and Human Services may not—
 
-&emsp;"(A) withhold, suspend, disallow, or deny Federal financial participation under section 1903(a) of the Social Security Act \[42 U.S.C. 1396b(a)\] for day habilitation and related services under paragraph (9) or (13) of section 1905(a) of such Act \[42 U.S.C. 1396d(a)(9),\(13)\] on behalf of persons with mental retardation or with related conditions pursuant to a provision of its State plan as approved on or before June 30, 1989, or
+&emsp;"(A) withhold, suspend, disallow, or deny Federal financial participation under section 1903(a) of the Social Security Act \[42 U.S.C. 1396b(a)\] for day habilitation and related services under paragraph (9) or (13) of section 1905(a) of such Act \[42 U.S.C. 1396d(a)(9), (13)\] on behalf of persons with mental retardation or with related conditions pursuant to a provision of its State plan as approved on or before June 30, 1989, or
 
 &emsp;"(B) withdraw Federal approval of any such State plan provision.
 
@@ -2876,7 +2930,7 @@ Prospective application of regulation.—If the Secretary promulgates a final re
 
 #### Nurse Aide Training and Evaluation Programs; Allocation of Costs Before October 1, 1990
 
-Pub. L. 101–239, title VI, §6901(b)(5)(B), Dec. 19, 1989, 103 Stat. 2299, provided that: "In making payments under section 1903(a)(2)(B) of the Social Security Act \[42 U.S.C. 1396b(a)(2)(B)\] for amounts expended for nurse aide training and competency evaluation programs, and competency evaluation programs, described in section 1919(e)(1) of such Act \[42 U.S.C. 1396r(e)(1)\], in the case of activities conducted before October 1, 1990, the Secretary of Health and Human Services shall not take into account, or allocate amounts on the basis of, the proportion of residents of nursing facilities that is entitled to benefits under title XVIII or XIX of such Act \[42 U.S.C. 1395 et seq., 1396 et seq.\]."
+Pub. L. 101–239, title VI, §6901(b)(5)(B), Dec. 19, 1989, 103 Stat. 2299, provided that: "In making payments under section 1903(a)(2)(B) of the Social Security Act \[42 U.S.C. 1396b(a)(2)(B)\] for amounts expended for nurse aide training and competency evaluation programs, and competency evaluation programs, described in section 1919(e)(1) of such Act \[42 U.S.C. 1396r(e)(1)\], in thecase of activities conducted before October 1, 1990, the Secretary of Health and Human Services shall not take into account, or allocate amounts on the basis of, the proportion of residents of nursing facilities that is entitled to benefits under title XVIII or XIX of such Act \[42 U.S.C. 1395 et seq., 1396 et seq.\]."
 
 #### Clarification of Federal Matching Rate for Survey and Certification Activities
 
@@ -2916,7 +2970,7 @@ Studies.—(1) The Secretary of Health and Human Services (hereafter referred to
 
 "(b)
 
-Moratorium on Penalties.—(1) During the 24-month period beginning with the first calendar quarter which begins after the date of the enactment of this Act \[Apr. 7, 1986\] (hereafter in this section referred toas the 'moratorium period'), the Secretary shall not impose any reductions in payments to States pursuant to section 403(i) of the Social Security Act \[42 U.S.C. 603(i)\] (or prior regulations), or pursuant to any comparable provision of law relating to the programs under title IV–A of such Act \[42 U.S.C. 601 et seq.\] in Puerto Rico, Guam, the Virgin Islands, American Samoa, or the Northern Mariana Islands.
+Moratorium on Penalties.—(1) During the 24-month period beginning with the first calendar quarter which begins after the date of the enactment of this Act \[Apr. 7, 1986\] (hereafter in this section referred to as the 'moratorium period'), the Secretary shall not impose any reductions in payments to States pursuant to section 403(i) of the Social Security Act \[42 U.S.C. 603(i)\] (or prior regulations), or pursuant to any comparable provision of law relating to the programs under title IV–A of such Act \[42 U.S.C. 601 et seq.\] in Puerto Rico, Guam, the Virgin Islands, American Samoa, or the Northern Mariana Islands.
 
 "(2) During the moratorium period, the Secretary and the States shall continue to operate the quality control systems in effect under title IV–A of the Social Security Act, and to calculate the error rates under the provisions referred to in paragraph (1).
 

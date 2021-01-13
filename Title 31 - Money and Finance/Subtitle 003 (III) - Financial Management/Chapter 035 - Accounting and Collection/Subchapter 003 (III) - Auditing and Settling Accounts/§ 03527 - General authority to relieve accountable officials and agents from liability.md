@@ -104,6 +104,8 @@ In subsection (d)(1), before clause (A), the words "restore or otherwise", and t
 
 Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sentence) to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(1)(A)(i), (B). Pub. L. 109–241 substituted "Secretary of Homeland Security" for "Secretary of Transportation".

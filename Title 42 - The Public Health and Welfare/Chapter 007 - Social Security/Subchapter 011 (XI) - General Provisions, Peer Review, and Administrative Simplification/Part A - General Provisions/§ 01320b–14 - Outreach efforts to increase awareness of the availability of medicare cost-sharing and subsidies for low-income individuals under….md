@@ -6,7 +6,7 @@
 
 &emsp;The Commissioner of Social Security (in this section referred to as the "Commissioner") shall conduct outreach efforts to—
 
-&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
+&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of thistitle, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
 
 &emsp;&emsp;(B) notify such individuals of the availability of such medical assistance, program, and subsidies under such sections.
 
@@ -54,7 +54,7 @@
 
 #### (3) Transmittal of data to States
 
-&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Programwith the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after the Secretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
+&emsp;Beginning on January 1, 2010, with the consent of an individual completing an application for benefits described in paragraph (1)(B), the Commissioner shall electronically transmit to the appropriate State Medicaid agency data from such application, as determined by the Commissioner, which transmittal shall initiate an application of the individual for benefits under the Medicare Savings Program with the State Medicaid agency. In order to ensure that such data transmittal provides effective assistance for purposes of State adjudication of applications for benefits under the Medicare Savings Program, the Commissioner shall consult with the Secretary, after the Secretary has consulted with the States, regarding the content, form, frequency, and manner in which data (on a uniform basis for all States) shall be transmitted under this subparagraph.
 
 #### (4) Coordination with outreach
 
@@ -66,7 +66,7 @@
 
 #### (i) Initial Medicare Savings Program costs
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amount appropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amountappropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
 
 #### (ii) Additional amount for low-income subsidy activities
 
@@ -140,11 +140,11 @@ Pub. L. 110–275, title I, §113(c), July 15, 2008, 122 Stat. 2506, provided th
 
 #### Effective Date
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "Theamendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### GAO Report
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "The Comptroller General of the United States shall conduct a study of the impact of section 1144 of the Social Security Act \[42 U.S.C. 1320b–14\] (as added by subsection (a)(1)) on the enrollment of individuals for medicare cost-sharing under the medicaid program. Not later than 18 months after the date that the Commissioner of Social Security first conducts outreach under section 1144 of such Act, the Comptroller General shall submit to Congress a report on such study. The report shall include such recommendations for legislative changes as the Comptroller General deems appropriate."
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, required the Comptroller General of the United States to conduct a study of the impact of this section on the enrollment of individuals for medicare cost-sharing under the medicaid program and to submit a report on the study no later than 18 months after the initial outreach.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

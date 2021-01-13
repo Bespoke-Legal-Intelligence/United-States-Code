@@ -44,7 +44,7 @@ Facilities.—The Secretary may plan, design, and construct a new facility or mo
 
 &emsp;(3) an estimate of the maximum cost of the facility;
 
-&emsp;(4) a statement identifying private and public agencies that will use the facility and the contribution each agency will make to the cost of the facility; and
+&emsp;(4) a statement identifying private and public agencies that will use the facility and thecontribution each agency will make to the cost of the facility; and
 
 &emsp;(5) a justification of the need for the facility.
 

@@ -6,19 +6,23 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;(2) The term "energy savings" means—
 
-&emsp;&emsp;(A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing federally owned building or buildings or other federally owned facilities as a result of—
+&emsp;&emsp;(A) a reduction in the cost of energy, water, or wastewater treatment, from a base cost established through a methodology set forth in the contract, used in an existing Federal building (as defined in section 8259 of this title) as a result of—
 
 &emsp;&emsp;&emsp;(i) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services;
 
-&emsp;&emsp;&emsp;(ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities; or
+&emsp;&emsp;&emsp;(ii) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a Federal building (as defined in section 8259 of this title); or
 
 &emsp;&emsp;&emsp;(iii) the increased efficient use of existing water sources in either interior or exterior applications;
 
 &emsp;&emsp;(B) the increased efficient use of an existing energy source by cogeneration or heat recovery;
 
-&emsp;&emsp;(C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users; and
+&emsp;&emsp;(C) if otherwise authorized by Federal or State law (including regulations), the sale or transfer of electrical or thermal energy generated on-site from renewable energy sources or cogeneration, but in excess of Federal needs, to utilities or non-Federal energy users;
 
-&emsp;&emsp;(D) the increased efficient use of existing water sources in interior or exterior applications.
+&emsp;&emsp;(D) the increased efficient use of existing water sources in interior or exterior applications;
+
+&emsp;&emsp;(E) the use, sale, or transfer of any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate); and
+
+&emsp;&emsp;(F) any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
 
 &emsp;(3) The terms "energy savings contract" and "energy savings performance contract" mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
@@ -28,9 +32,13 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, or other related activities, not at a Federal hydroelectric facility.
 
-(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 110–140, title V, §515, Dec. 19, 2007, 121 Stat. 1659.)
+(Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 110–140, title V, §515, Dec. 19, 2007, 121 Stat. 1659; Pub. L. 116–260, div. Z, title I, §1002(f), Dec. 27, 2020, 134 Stat. 2423.)
 
 #### Amendments
+
+<b>2020</b>—Par. (2)(A). Pub. L. 116–260, §1002(f)(1), substituted "Federal building (as defined in section 8259 of this title)" for "federally owned building or buildings or other federally owned facilities" in introductory provisions and in cl. (ii).
+
+Par. (2)(E), (F). Pub. L. 116–260, §1002(f)(2)–(4), added subpars. (E) and (F).
 
 <b>2007</b>—Par. (2). Pub. L. 110–140 substituted "means—" for "means" in introductory provisions, inserted subpar. (A) designation before "a reduction", redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (D).
 
@@ -38,7 +46,7 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;"(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services; or
 
-&emsp;"(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities."
+&emsp;"(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federallyowned building or buildings or other federally owned facilities."
 
 Par. (3). Pub. L. 108–375, §1090(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The terms 'energy savings contract' and 'energy savings performance contract' mean a contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
 

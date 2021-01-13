@@ -26,9 +26,13 @@ The words "Committee on Government Operations of the Senate" are substituted for
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Committee on Governmental Affairs of the Senate" for "Committee on Government Operations of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

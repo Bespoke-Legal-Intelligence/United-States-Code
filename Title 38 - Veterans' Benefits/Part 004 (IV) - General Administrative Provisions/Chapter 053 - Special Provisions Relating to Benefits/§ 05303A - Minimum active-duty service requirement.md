@@ -32,7 +32,7 @@
 
 &emsp;(G) to benefits under chapter 30 or chapter 37 of this title by reason of—
 
-&emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, asdescribed in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
+&emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
 
 &emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexisted service on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
 
@@ -72,6 +72,8 @@
 
 (Added Pub. L. 97–66, title VI, §604(a)(1), Oct. 17, 1981, 95 Stat. 1035, §3103A; amended Pub. L. 97–306, title IV, §408(a), Oct. 14, 1982, 96 Stat. 1445; Pub. L. 99–576, title III, §321(11), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §102(b)(3), Nov. 18, 1988, 102 Stat. 4163; Pub. L. 101–510, div. A, title V, §562(a)(4), Nov. 5, 1990, 104 Stat. 1574; renumbered §5303A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 103–353, §3, Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–446, title IX, §908, Nov. 2, 1994, 108 Stat. 4678; Pub. L. 105–368, title X, §1005(b)(15), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 114–315, title VII, §703, Dec. 16, 2016, 130 Stat. 1585.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, §420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -92,7 +94,7 @@ Subsec. (b)(3)(G). Pub. L. 103–353 added subpar. (G).
 
 Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered by the Veterans' Administration".
 
-Subsec. (b)(1). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered by the Veterans' Administration" in concluding provisions.
+Subsec. (b)(1). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered bythe Veterans' Administration" in concluding provisions.
 
 Subsec. (b)(3)(C). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
 
@@ -119,6 +121,8 @@ Subsecs. (c)(1), (d)(1). Pub. L. 102–83, §4(a)(1), substituted "administered 
 Subsecs. (d), (e). Pub. L. 97–306, §408(a)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 97–306, §408(a)(3), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

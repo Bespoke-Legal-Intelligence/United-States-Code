@@ -10,7 +10,7 @@
 
 &emsp;(B) the Dean of the Uniformed Services University of the Health Sciences, who shall be an ex officio member, and
 
-&emsp;(C) six members, each of whom shall be appointed at the expiration of the term of a member appointed under this subparagraph, as provided for in paragraph (2), by the members currently serving on the Council pursuant tothis subparagraph and paragraph (2), including the member whose expiring term is so being filled by such appointment.
+&emsp;(C) six members, each of whom shall be appointed at the expiration of the term of a member appointed under this subparagraph, as provided for in paragraph (2), by the members currently serving on the Council pursuant to this subparagraph and paragraph (2), including the member whose expiring term is so being filled by such appointment.
 
 (2) The term of office of each member of the Council appointed under clause (C) of paragraph (1) shall be four years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 

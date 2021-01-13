@@ -84,7 +84,7 @@ Performance measures.—Performance measures shall be established during the pro
 
 &emsp;&emsp;(C)
 
-Program plan.—To the maximum extent practicable, each program pursuedunder this chapter shall be part of a data-driven, outcome-oriented program plan.
+Program plan.—To the maximum extent practicable, each program pursued under this chapter shall be part of a data-driven, outcome-oriented program plan.
 
 &emsp;&emsp;(D)
 
@@ -300,7 +300,7 @@ Prize increases.—The Secretary may increase the amount of a prize after the in
 
 &emsp;&emsp;&emsp;(vi)
 
-Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of theSenate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
+Congressional notification.—A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
 
 &emsp;&emsp;&emsp;(vii)
 
@@ -378,7 +378,9 @@ Use of technology.—The research, development, or use of a technology under a c
 
 Waiver of advertising requirements.—Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
 
-(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat.3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, §6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
+(Added Pub. L. 105–178, title V, §5102, June 9, 1998, 112 Stat. 422; amended Pub. L. 109–59, title V, §§5201(b)–(g), (i)(1), (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781–1785; Pub. L. 110–244, title I, §111(g)(1), June 6, 2008, 122 Stat. 1605; Pub. L. 111–350, §5(e)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. E, title II, §52002(a), July 6, 2012, 126 Stat. 866; Pub. L. 114–94, div. A, title VI, §6019(d)(1)(C), Dec. 4, 2015, 129 Stat. 1581.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -494,6 +496,8 @@ Subsec. (i). Pub. L. 109–59, §5201(l), added subsec. (i).
 
 Subsec. (j). Pub. L. 109–59, §5202(a)(1), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -562,7 +566,7 @@ Technical Assistance and Training.—In fiscal year 2006, the Secretary \[of Tra
 
 "(d)
 
-Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2), $750,000 for each of fiscal years 2006 through 2009 shallbe available to carry out subsection (c) of this subsection."
+Funding.—Of the amounts made available by section 5101(a)(1) of this Act \[119 Stat. 1779\], $9,000,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsections (a) and (b) of this section. Of the amounts made available by section 5101(a)(2), $750,000 for each of fiscal years 2006 through 2009 shall be available to carry out subsection (c) of this subsection."
 
 #### Thermal Imaging
 
@@ -642,7 +646,7 @@ Program Stages.—
 
 &emsp;"(1)
 
-First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatial information technologies in national transportation infrastructure development and construction.
+First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatialinformation technologies in national transportation infrastructure development and construction.
 
 &emsp;"(2)
 
@@ -696,7 +700,7 @@ Grants.—In carrying out this paragraph, the Secretary may make grants to State
 
 &emsp;&emsp;"(C)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2000 by section 5001(a)(2) of this Act \[112 Stat. 419\], $700,000 per fiscal year shall be available to carry out this paragraph.
 
 &emsp;"(2)
 
@@ -776,7 +780,7 @@ Objectives.—The objectives of the program are—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to aggregate data into reports for multipoint data distribution techniques; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by an entity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by anentity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
 
 &emsp;&emsp;"(C)
 
@@ -816,7 +820,7 @@ Requirements.—The Secretary shall award contracts under clause (i)—
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain suchprovisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
+Provisions in contracts.—The Secretary shall require that each contract for the deployment of an intelligent transportation infrastructure system under this subparagraph contain such provisions relating to asset ownership, maintenance, fixed price, and revenue sharing as the Secretary considers to be appropriate.
 
 &emsp;&emsp;"(E)
 
@@ -1046,7 +1050,7 @@ Consultation With Federal Officials.—In carrying out the intelligent transport
 
 "(e)
 
-Technical Assistance, Training, and Information.—The Secretary may provide technical assistance,training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
+Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
 
 "(f)
 
@@ -1174,7 +1178,7 @@ Use of standards development organizations.—In carrying out this section, the 
 
 "(b)
 
-Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards andspecifying the status of the development of each standard identified.
+Report on Critical Standards.—Not later than June 1, 1999, the Secretary shall submit a report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives identifying which standards are critical to ensuring national interoperability or critical to the development of other standards and specifying the status of the development of each standard identified.
 
 "(c)
 
@@ -1390,7 +1394,7 @@ In general.—The Secretary shall continue to support the Urban Consortium's ITS
 
 &emsp;"(2)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
 
 "(c)
 
@@ -1432,7 +1436,7 @@ Chairman.—The chairman of the advisory committee shall be designated by the Se
 
 "(e)
 
-Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in thebusiness of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+Pay and Expenses.—Members of the advisory committee shall serve without pay, except that the Secretary may allow any member, while engaged in the business of the advisory committee or a subordinate committee, travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
 "(f)
 

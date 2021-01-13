@@ -4,9 +4,13 @@ Where, in carrying out the provisions of this Act, it becomes necessary to acqui
 
 (June 17, 1902, ch. 1093, §7, 32 Stat. 389.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this Title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Section as Unaffected by Submerged Lands Act
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) a direction to any postmaster to whom sexually oriented advertisements originating with such defendant are tendered for transmission through the mails to refuse to accept such advertisements for mailing; or
 
-&emsp;(3) a direction to any postmaster at the office at which registered or certified letters or other letters or mail arrive, addressed to the defendant or his representative, to return theregistered or certified letters or other letters or mail to the sender appropriately marked as being in response to mail in violation of section 3010 of this title, after the defendant, or his representative, has been notified and given reasonable opportunity to examine such letters or mail and to obtain delivery of mail which is clearly not connected with activity alleged to be in violation of section 3010 of this title.
+&emsp;(3) a direction to any postmaster at the office at which registered or certified letters or other letters or mail arrive, addressed to the defendant or his representative, to return the registered or certified letters or other letters or mail to the sender appropriately marked as being in response to mail in violation of section 3010 of this title, after the defendant, or his representative, has been notified and given reasonable opportunity to examine such letters or mail and to obtain delivery of mail which is clearly not connected with activity alleged to be in violation of section 3010 of this title.
 
 (b) The statement that remittances may be made to a person named in a sexually oriented advertisement is prima facie evidence that such named person is the principal, agent, or representative of the mailer for the receipt of remittances on his behalf. The court is not precluded from ascertaining the existence of the agency on the basis of any other evidence.
 
@@ -18,9 +18,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 750; Pub. L. 106–168, title I, §105(b)(2)(B), Dec. 12, 1999, 113 Stat. 1811.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–168 substituted "3007" for "3006, 3007,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

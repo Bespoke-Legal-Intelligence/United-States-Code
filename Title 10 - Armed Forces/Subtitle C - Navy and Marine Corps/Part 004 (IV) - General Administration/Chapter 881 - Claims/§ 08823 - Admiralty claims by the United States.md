@@ -54,7 +54,7 @@ In subsection (a) the words "consider, ascertain, adjust, determine" are omitted
 
 In subsection (b) the words "and to deliver" are omitted as covered by the word "execute". The words "Amounts received under this section" are substituted for the words "All such payments" for clarity and uniformity. The words "of the United States as miscellaneous receipts" are omitted as surplusage.
 
-In subsection (c) the words "In any case where the amount to be received by the United States is not more than" are substituted for the words "Where the net amount received in settlement does not exceed" for clarity, since the delegation of authority necessarily precedes receipt of payment. The words "the Secretary may delegate his authority" are substituted for the words "the authority of the Secretary of the Navy \* \* \* may be exercised" for clarity.
+In subsection (c) the words "In any case where the amount to be received by the United States is not more than" are substituted for the words "Where the net amount received in settlement does not exceed" for clarity, since the delegation of authority necessarilyprecedes receipt of payment. The words "the Secretary may delegate his authority" are substituted for the words "the authority of the Secretary of the Navy \* \* \* may be exercised" for clarity.
 
 In subsection (d) the words "but not until then", "for all purposes", and "to the contrary" are omitted as surplusage.
 
@@ -80,7 +80,7 @@ A prior section 8847, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 
 
 A prior section 8848, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, §1(71), June 30, 1960, 74 Stat. 279; Pub. L. 90–130, §1(31)(B), Nov. 8, 1967, 81 Stat. 382; Pub. L. 90–486, §9(2), Aug. 13, 1968, 82 Stat. 760; Pub. L. 96–513, title V, §514(7), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 99–145, title V, §522(b)(1), title XIII, §1303(a)(27)(A), Nov. 8, 1985, 99 Stat. 632, 740, related to transfer or discharge of reserve first lieutenants, captains, majors, and lieutenant colonels with 28 years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14501 et seq. of this title.
 
-A prior section 8849, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1536, related to separation ortransfer to Retired Reserve of female reserve lieutenant colonels, except those designated under former section 8067 of this title, upon completion of 28 years of service, prior to repeal by Pub. L. 86–559, §1(72), June 30, 1960, 74 Stat. 279.
+A prior section 8849, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1536, related to separation or transfer to Retired Reserve of female reserve lieutenant colonels, except those designated under former section 8067 of this title, upon completion of 28 years of service, prior to repeal by Pub. L. 86–559, §1(72), June 30, 1960, 74 Stat. 279.
 
 A prior section 8850, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 90–168, §2(22), Dec. 1, 1967, 81 Stat. 525; Pub. L. 104–106, div. A, title XV, §1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer or discharge of excessive reserve commissioned officers in active status with 30 or more years of service, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See sections 14514 and 14704 of this title.
 

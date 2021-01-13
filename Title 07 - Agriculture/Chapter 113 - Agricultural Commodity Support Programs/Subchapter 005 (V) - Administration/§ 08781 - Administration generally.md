@@ -30,7 +30,7 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (4) Interim regulations
 
-&emsp;Notwithstanding paragraphs (1) and (2), the Secretary shall implement the amendmentsmade by sections 1603 and 1604 for the 2009 crop, fiscal, or program year, as appropriate, through the promulgation of an interim rule.
+&emsp;Notwithstanding paragraphs (1) and (2), the Secretary shall implement the amendments made by sections 1603 and 1604 for the 2009 crop, fiscal, or program year, as appropriate, through the promulgation of an interim rule.
 
 #### (d) Adjustment authority related to trade agreements compliance
 

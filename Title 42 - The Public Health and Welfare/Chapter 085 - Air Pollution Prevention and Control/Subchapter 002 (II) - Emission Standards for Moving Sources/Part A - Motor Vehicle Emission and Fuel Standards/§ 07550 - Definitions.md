@@ -28,7 +28,7 @@ Motor vehicle or engine part manufacturer.—The term "motor vehicle or engine p
 
 &emsp;(10)
 
-Nonroad engine.—The term "nonroad engine" means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely for competition, or that is not subject to standards promulgated under section 7411 of this title or section 7521 of this title.
+Nonroad engine.—The term "nonroad engine" means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely forcompetition, or that is not subject to standards promulgated under section 7411 of this title or section 7521 of this title.
 
 &emsp;(11)
 

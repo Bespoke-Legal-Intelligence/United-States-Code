@@ -24,6 +24,8 @@ The Commissioner of U.S. Customs and Border Protection may waive the polygraph e
 
 (Pub. L. 111–376, §3, Jan. 4, 2011, 124 Stat. 4104; Pub. L. 114–279, §5, Dec. 16, 2016, 130 Stat. 1422.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Anti-Border Corruption Act of 2010, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
@@ -32,9 +34,11 @@ Section was enacted as part of the Anti-Border Corruption Act of 2010, and not a
 
 <b>2016</b>—Pub. L. 114–279 designated existing provisions as subsec. (a), inserted heading, in par. (1) inserted "(except as provided in subsection (b))" after "Border Protection", and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Waiver of Certain Polygraph Examination Requirements
 
-Pub. L. 114–328, div. A, title X, §1049, Dec. 23, 2016, 130 Stat. 2396, provided that: "The Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection, may waive the polygraph examination requirement under section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376) \[6 U.S.C. 221\] for any applicant who—
+Pub. L. 114–328, div. A, title X, §1049, Dec. 23, 2016, 130 Stat. 2396, provided that: "The Secretary of HomelandSecurity, acting through the Commissioner of U.S. Customs and Border Protection, may waive the polygraph examination requirement under section 3 of the Anti-Border Corruption Act of 2010 (Public Law 111–376) \[6 U.S.C. 221\] for any applicant who—
 
 &emsp;"(1) the Commissioner determines is suitable for employment;
 

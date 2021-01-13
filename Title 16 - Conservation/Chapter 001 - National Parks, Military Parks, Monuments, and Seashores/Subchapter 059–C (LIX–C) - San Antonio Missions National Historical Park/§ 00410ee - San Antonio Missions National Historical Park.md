@@ -26,7 +26,7 @@
 
 #### (4) Revisions
 
-&emsp;After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;After advising the Committee on Energy and Natural Resources of the United States Senateand the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 #### (b) Acquisition of lands and interests; cooperative agreements; submittal to Department of Justice
 

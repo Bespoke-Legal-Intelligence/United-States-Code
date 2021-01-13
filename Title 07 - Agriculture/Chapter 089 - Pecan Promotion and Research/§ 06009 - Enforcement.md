@@ -38,7 +38,7 @@ A civil action to be brought under this section shall be referred to the Attorne
 
 &emsp;A person against whom a civil penalty is assessed or a cease and desist order is issued under subsection (c) may obtain review of such penalty or order in the district court of the United States for the district in which such person resides or does business, or in the United States District Court for the District of Columbia, by—
 
-&emsp;&emsp;(A) filing, within the 30-day period beginning on the date such penalty is assessed or order issued, a notice of appeal in such court; and
+&emsp;&emsp;(A) filing, within the 30-day period beginning on the date such penalty is assessed ororder issued, a notice of appeal in such court; and
 
 &emsp;&emsp;(B) simultaneously sending a copy of the notice by certified mail to the Secretary.
 
@@ -56,7 +56,7 @@ Any person who fails to obey a cease and desist order after the order has become
 
 #### (f) Failure to pay penalty
 
-If a person fails to pay a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate district court has entered a final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which theperson resides or conducts business. In such action, the validity and appropriateness of such order imposing such civil penalty shall not be subject to review.
+If a person fails to pay a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate district court has entered a final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of such order imposing such civil penalty shall not be subject to review.
 
 (Pub. L. 101–624, title XIX, §1914, Nov. 28, 1990, 104 Stat. 3851.)
 

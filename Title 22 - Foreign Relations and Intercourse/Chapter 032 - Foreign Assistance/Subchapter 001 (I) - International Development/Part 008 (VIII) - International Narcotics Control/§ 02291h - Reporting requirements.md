@@ -26,7 +26,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(4) In addition, for each country identified pursuant to paragraph (3),<sup>1</sup> the following:
 
-&emsp;&emsp;(A) A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
+&emsp;&emsp;(A) A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of theUnited Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
 
 &emsp;&emsp;(B) Whether as a matter of government policy or practice, such country encourages or facilitates the illicit production or distribution of narcotic or psychotropic drugs or other controlled substances or the laundering of proceeds from illegal drug transactions; and whether any senior official of the government of such country engages in, encourages, or facilitates the illicit production or distribution of such drugs or substances, or the laundering of proceeds from illegal drug transactions.
 
@@ -80,7 +80,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(8)(A) A separate section that contains the following:
 
-&emsp;&emsp;(i) An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of such chemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
+&emsp;&emsp;(i) An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of suchchemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
 
 &emsp;&emsp;(ii) An identification of the five countries that imported the largest amount of the chemicals described in clause (i) during the preceding calendar year and have the highest rate of diversion of such chemicals for use in the illicit production of methamphetamine (either in that country or in another country).
 
@@ -88,7 +88,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(B) The identification of countries that imported the largest amount of chemicals under subparagraph (A)(ii) shall be based on the following:
 
-&emsp;&emsp;(i) An economic analysis that estimates the legitimate demand for such chemicals insuch countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
+&emsp;&emsp;(i) An economic analysis that estimates the legitimate demand for such chemicals in such countries as compared to the actual or estimated amount of such chemicals that is imported into such countries.
 
 &emsp;&emsp;(ii) The best available data and other information regarding the production of methamphetamine in such countries and the diversion of such chemicals for use in the production of methamphetamine.
 
@@ -124,6 +124,8 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 (Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which was set out as a note under section 1902 of the former Appendix to Title 46, Shipping, prior to being repealed by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
@@ -158,19 +160,17 @@ Pub. L. 103–447, §101(f)(1)(C), struck out heading and text of subsec. (c). T
 
 &emsp;"(1) the term 'precursor chemical' has the same meaning as the term 'listed chemical' has under paragraph (33) of section 802 of title 21; and
 
-&emsp;"(2) the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significantamounts of proceeds from international narcotics trafficking."
+&emsp;"(2) the term 'major money laundering country' means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking."
 
 Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Plan To Address Diversion of Precursor Chemicals
 
@@ -179,6 +179,12 @@ Pub. L. 109–177, title VII, §722(d), Mar. 9, 2006, 120 Stat. 269, required th
 #### Statutory References to Annual Reports, Certifications, and Definitions
 
 Pub. L. 102–583, §6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sept. 30, 1994, any reference in any provision of law to section 2291h or 2291j of this title would be deemed a reference to the corresponding provision of section 2291i or 2291k of this title, respectively, unless the context required otherwise; any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(e) or (i) of this title be deemed a reference to section 2291h or 2291(e) of this title, respectively; and that any reference in any provision of law enacted before Nov. 2, 1992, to section 2291(h) of this title be deemed, as of Oct. 1, 1992, to be a reference to section 2291j of this title, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

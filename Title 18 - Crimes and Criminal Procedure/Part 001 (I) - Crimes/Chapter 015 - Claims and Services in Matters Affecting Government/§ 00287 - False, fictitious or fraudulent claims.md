@@ -20,9 +20,13 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–562 substituted "imprisoned not more than five years and shall be subject to a fine in the amount provided in this title" for "fined not more than $10,000 or imprisoned not more than five years, or both".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increased Penalties for False Claims in Defense Procurement
 

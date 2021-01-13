@@ -78,7 +78,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 #### (4) Nondiscriminatory benefits
 
-&emsp;A plan does not meet the requirements of paragraph (2)(B) unless all benefits available to participants who are key employees are available to all other participants.
+&emsp;A plan does not meet the requirements of paragraph (2)(B) unless all benefits availableto participants who are key employees are available to all other participants.
 
 #### (5) Special rule
 
@@ -96,7 +96,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 #### (B) Definitions
 
-&emsp;&emsp;For purposes of subparagraph (A), the terms "church plan" and "church employee"have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
+&emsp;&emsp;For purposes of subparagraph (A), the terms "church plan" and "church employee" have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
 
 &emsp;&emsp;&emsp;(i) section 414(e) shall be applied by substituting "section 501(c)(3)" for "section 501" each place it appears, and
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 89–97 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date
 
-Pub. L. 88–272, title II, §204(d), Feb. 26, 1964, 78 Stat. 37, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) \[amending this section and section 7701 of this title\] and (c) \[amending sections 6052 and 6678 of this title\] and paragraph (3) of section 6652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 221(b)(2) of this Act), shall apply with respect to group-term life insurance provided after December 31, 1963, in taxable years ending after such date. The amendments made by subsection (b) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1963, in the form of group-term life insurance provided after such date. In applying section 79(b) of the Internal Revenue Code of 1986 (as added by subsection (a)(1) of this section) to a taxable year beginning before May 1, 1964,if paragraph (2)(B) of such section applies with respect to an employee for the period beginning May 1, 1964, and ending with the close of his first taxable year ending after April 30, 1964, such paragraph (2)(B) shall be treated as applying with respect to such employee for the period beginning January 1, 1964, and ending April 30, 1964."
+Pub. L. 88–272, title II, §204(d), Feb. 26, 1964, 78 Stat. 37, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) \[amending this section and section 7701 of this title\] and (c) \[amending sections 6052 and 6678 of this title\] and paragraph (3) of section 6652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 221(b)(2) of this Act), shall apply with respect to group-term life insurance provided after December 31, 1963, in taxable years ending after such date. The amendments made by subsection (b) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1963, in the form of group-term life insurance provided after such date. In applying section 79(b) of the Internal Revenue Code of 1986 (as added by subsection (a)(1) of this section) to a taxable year beginning before May 1, 1964, if paragraph (2)(B) of such section applies with respect to an employee for the period beginning May 1, 1964, and ending with the close of his first taxable year ending after April 30, 1964, such paragraph (2)(B) shall be treated as applying with respect to such employee for the period beginning January 1, 1964, and ending April 30, 1964."
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 

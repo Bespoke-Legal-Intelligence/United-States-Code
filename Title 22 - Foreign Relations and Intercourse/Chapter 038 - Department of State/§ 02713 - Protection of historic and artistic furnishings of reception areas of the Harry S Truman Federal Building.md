@@ -22,13 +22,15 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (3) Smithsonian Institution
 
-&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
+&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to theSmithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
 
 #### (c) "Reception areas" defined
 
 For purposes of this section, the term "reception areas" means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State's offices (seventh floor), the Deputy Secretary of State's offices (seventh floor), and the seventh floor reception area.
 
 (Aug. 1, 1956, ch. 841, title I, §41, as added Pub. L. 100–204, title I, §126(a)(2), Dec. 22, 1987, 101 Stat. 1341; amended Pub. L. 106–218, §2, June 20, 2000, 114 Stat. 345.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–218 substituted "Harry S Truman Federal Building" for "Department of State Building" in section catchline and in subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Designation of Department of State Building as Harry S Truman Federal Building
 

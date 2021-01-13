@@ -34,7 +34,7 @@ Deputy administrator.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There is established in the Transportation Security Administrationa Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
+Appointment.—There is established in the Transportation Security Administration a Deputy Administrator, who shall assist the Administrator in the management of the Transportation Security Administration. The Deputy Administrator shall be appointed by the President.
 
 &emsp;&emsp;(B)
 
@@ -326,7 +326,7 @@ Availability of information to congress.—Paragraph (1) does not authorize info
 
 &emsp;(3)
 
-Limitation on transferability of duties.—Except as otherwise provided by law, the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
+Limitation on transferability of duties.—Except as otherwise provided by law,the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
 &emsp;(4)
 
@@ -392,7 +392,7 @@ Periodic progress report.—
 
 &emsp;&emsp;&emsp;(i)
 
-Requirement for report.—Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31, United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progress made on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
+Requirement for report.—Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31, United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progressmade on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -474,7 +474,7 @@ Public and private stakeholders.—The term "public and private stakeholders" me
 
 &emsp;&emsp;(D)
 
-Transportation security information.—The term "transportation security information" means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
+Transportation security information.—The term "transportation security information" means information relating tothe risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
 
 &emsp;(2)
 
@@ -1446,7 +1446,7 @@ Contents.—The information published under paragraph (1) shall include—
 
 "(b)
 
-Inspector General Review.—Not later than 180 days after the date of enactment of this Act, and every 2 years thereafter until all of the requirements undertitles XIII \[6 U.S.C. 1111 et seq.\], XIV \[6 U.S.C. 1131 et seq.\], and XV \[6 U.S.C. 1151 et seq.\] of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et seq.) and under this title \[see Tables for classification\] have been fully implemented, the Inspector General of the Department shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report that—
+Inspector General Review.—Not later than 180 days after the date of enactment of this Act, and every 2 years thereafter until all of the requirements under titles XIII \[6 U.S.C. 1111 et seq.\], XIV \[6 U.S.C. 1131 et seq.\], and XV \[6 U.S.C. 1151 et seq.\] of the Implementing Recommendations of the 9/11 Commission Act of 2007 (6 U.S.C. 1111 et seq.) and under this title \[see Tables for classification\] have been fully implemented, the Inspector General of the Department shall submit to the appropriate committees of Congress \[Committees on Commerce, Science, and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report that—
 
 &emsp;"(1) identifies the requirements under such titles of that Act and under this title that have not been fully implemented;
 
@@ -1460,7 +1460,7 @@ Pub. L. 115–254, div. K, title I, §1968(a), Oct. 5, 2018, 132 Stat. 3608, pro
 
 "(1)
 
-In general.—If the Administrator \[of the Transportation Security Administration\] deploys any counterterrorism personnel or resource, such as explosive detection sweeps, random bag inspections, or patrols by Visible Intermodal Prevention and Response teams, to enhance security at a transportation system or transportation facility for a period of not less than 180 consecutive days, the Administrator shall provide sufficient notification to the system or facility operator, as applicable, not less than 14 days prior to terminating the deployment.
+In general.—If the Administrator \[of the Transportation Security Administration\] deploys any counterterrorism personnel or resource, such as explosive detection sweeps, random bag inspections, or patrols by Visible Intermodal Prevention and Response teams, to enhance security at a transportation system or transportation facility for a period of not less than 180 consecutive days, the Administrator shall providesufficient notification to the system or facility operator, as applicable, not less than 14 days prior to terminating the deployment.
 
 "(2)
 
@@ -1658,7 +1658,7 @@ In General.—Notwithstanding any provision of law, any statutory limitation on 
 
 "(b)
 
-Aviation Security.—Notwithstanding any provision of law imposing a limitation on the recruiting or hiring of personnel into the Transportation Security Administration to a maximum number of permanent positions, the Secretary of Homeland Security shall recruit and hire such personnel into the Administration as may be necessary—
+Aviation Security.—Notwithstanding any provision of law imposing a limitation on the recruiting orhiring of personnel into the Transportation Security Administration to a maximum number of permanent positions, the Secretary of Homeland Security shall recruit and hire such personnel into the Administration as may be necessary—
 
 &emsp;"(1) to provide appropriate levels of aviation security; and
 

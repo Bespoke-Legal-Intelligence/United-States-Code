@@ -10,7 +10,7 @@
 
 (c) Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20,2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193; Pub. L. 110–406, §7, Oct. 13, 2008, 122 Stat. 4293.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,8 @@ This section requires that the Director of the Administrative Office of the U. S
 This section requires the Judicial Conference to report to the Congress every four years after the effective date of the bankruptcy code any changes that have occurred in the cost of living during the preceding four years, and the appropriate adjustments to the dollar amounts in the bill. The dollar amounts are found primarily in the exemption section (11 U.S.C. 522), the wage priority (11 U.S.C. 507), and the eligibility for chapter 13 (11 U.S.C. 109). This section requires that the Conference recommend uniform percentage changes in these amounts based solely on cost of living changes. The dollar amounts in the bill would not change on that recommendation, absent Congressional veto. Instead, Congress is required to take affirmative action, by passing a law amending the appropriate section, if it wishes to accomplish the change.
 
 If the Judicial Conference has policy recommendations concerning the appropriate dollar amounts in the bankruptcy code based other than on cost of living considerations there are adequate channels through which it may communicate its views. This section is solely for the housekeeping function of maintaining the dollar amounts in the code at fairly constant real dollar levels.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -62,6 +64,8 @@ Pub. L. 109–8, §102(j), substituted "523(a)(2)(C), 707(b), and 1325(b)(3)" fo
 
 <b>1994</b>—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -69,6 +73,8 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendm
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+
+#### <b>Court Rules and Judicial Documents</b>
 
 #### Adjustment of Dollar Amounts
 

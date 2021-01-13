@@ -2,7 +2,7 @@
 
 #### (a) Establishment and authority
 
-There is established in the House of Representatives a Fine Arts Board (hereafter in sections 2121 and 2122 of this title referred to as the "Board"), comprised of the House of Representatives members of the Joint Committee on the Library. The chairman of the Committee on House Oversight of the House of Representatives shall be the chairman of the Board. The Board,in consultation with the House Office Building Commission, shall have authority over all works of fine art, historical objects, and similar property that are the property of the Congress and are for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
+There is established in the House of Representatives a Fine Arts Board (hereafter in sections 2121 and 2122 of this title referred to as the "Board"), comprised of the House of Representatives members of the Joint Committee on the Library. The chairman of the Committee on House Oversight of the House of Representatives shall be the chairman of the Board. The Board, in consultation with the House Office Building Commission, shall have authority over all works of fine art, historical objects, and similar property that are the property of the Congress and are for display or other use in the House of Representatives wing of the Capitol, the House of Representatives Office Buildings, or any other location under the control of the House of Representatives.
 
 #### (b) Clerk of the House of Representatives
 
@@ -14,13 +14,17 @@ The Architect of the Capitol shall provide assistance to the Board and to the Cl
 
 (Pub. L. 100–696, title X, §1001, Nov. 18, 1988, 102 Stat. 4611; Pub. L. 104–186, title II, §221(8), Aug. 20, 1996, 110 Stat. 1749.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188c of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

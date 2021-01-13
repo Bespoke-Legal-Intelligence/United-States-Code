@@ -24,7 +24,7 @@ The Secretary shall make the grants to States from the allotments made under sub
 
 #### (2) Reservations
 
-&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary among the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
+&emsp;(A) The Secretary is authorized to reserve 0.1 percent of the amount appropriated for each fiscal year under section 11435 of this title to be allocated by the Secretary amongthe United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, according to their respective need for assistance under this part, as determined by the Secretary.
 
 &emsp;(B)(i) The Secretary shall transfer 1 percent of the amount appropriated for each fiscal year under section 11435 of this title to the Department of the Interior for programs for Indian students served by schools funded by the Secretary of the Interior, as determined under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> that are consistent with the purposes of the programs described in this part.
 
@@ -260,7 +260,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(v) uniform or dress code requirements.
 
-&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths inschools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
+&emsp;&emsp;(I) A demonstration that the State educational agency and local educational agencies in the State have developed, and shall review and revise, policies to remove barriers to the identification of homeless children and youths, and the enrollment and retention of homeless children and youths in schools in the State, including barriers to enrollment and retention due to outstanding fees or fines, or absences.
 
 &emsp;&emsp;(J) Assurances that the following will be carried out:
 
@@ -282,7 +282,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (A) In general
 
-&emsp;&emsp;Each plan adopted under this subsection shall also describe how the State will ensure that local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).
+&emsp;&emsp;Each plan adopted under this subsection shall also describe how the State will ensurethat local educational agencies in the State will comply with the requirements of paragraphs (3) through (7).
 
 #### (B) Coordination
 
@@ -346,7 +346,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;(i) the child or youth shall be immediately enrolled in the school in which enrollment is sought, pending final resolution of the dispute, including all available appeals;
 
-&emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth or (in the case of an unaccompanied youth) the youth shall be provided with a written explanation of any decisions related to school selection or enrollment made by the school, the local educational agency, or the State educational agency involved, including the rights of the parent, guardian, or unaccompanied youth to appeal such decisions;
+&emsp;&emsp;&emsp;(ii) the parent or guardian of the child or youth or (in the case of an unaccompanied youth) the youth shall be provided with awritten explanation of any decisions related to school selection or enrollment made by the school, the local educational agency, or the State educational agency involved, including the rights of the parent, guardian, or unaccompanied youth to appeal such decisions;
 
 &emsp;&emsp;&emsp;(iii) the parent, guardian, or unaccompanied youth shall be referred to the local educational agency liaison designated under paragraph (1)(J)(ii), who shall carry out the dispute resolution process as described in paragraph (1)(C) as expeditiously as possible after receiving notice of the dispute; and
 
@@ -452,7 +452,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (B) Notice
 
-&emsp;&emsp;State Coordinators established under subsection (d)(3) and local educational agenciesshall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.
+&emsp;&emsp;State Coordinators established under subsection (d)(3) and local educational agencies shall inform school personnel, service providers, advocates working with homeless families, parents and guardians of homeless children and youths, and homeless children and youths of the duties of the local educational agency liaisons, and publish an annually updated list of the liaisons on the State educational agency's website.
 
 #### (C) Local and State coordination
 
@@ -480,7 +480,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(2)(B)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203,which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Runaway and Homeless Youth Act, referred to in subsecs. (f)(4)(B) and (g)(5)(A)(i), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which was classified generally to subchapter III (§5701 et seq.) of chapter 72 of this title, prior to editorial reclassification and renumbering as subchapter III (§11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
@@ -504,7 +504,7 @@ Another prior section 11432, Pub. L. 100–77, title VII, §722, July 22, 1987, 
 
 Subsec. (d)(2). Pub. L. 114–95, §9102(2)(A), substituted "To provide services and activities to improve the identification of homeless children and youths (including preschool-aged homeless children) and enable" for "To provide activities for, and services to, homeless children, including preschool-aged homeless children, and youths that enable" and "including, if" for "or, if".
 
-Subsec. (d)(3). Pub. L. 114–95, §9102(2)(B), substituted "designate in the State educational agency an Office ofthe Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f)." for "designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section."
+Subsec. (d)(3). Pub. L. 114–95, §9102(2)(B), substituted "designate in the State educational agency an Office of the Coordinator for Education of Homeless Children and Youths that can sufficiently carry out the duties described for the Office in this part in accordance with subsection (f)." for "designate an Office of Coordinator for Education of Homeless Children and Youths in the State educational agency in accordance with subsection (f) of this section."
 
 Subsec. (d)(5). Pub. L. 114–95, §9102(2)(C), added par. (5) and struck out former par. (5) which read as follows: "To develop and implement professional development programs for school personnel to heighten their awareness of, and capacity to respond to, specific problems in the education of homeless children and youths."
 

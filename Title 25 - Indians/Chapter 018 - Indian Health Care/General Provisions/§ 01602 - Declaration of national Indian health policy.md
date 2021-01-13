@@ -8,7 +8,7 @@ Congress declares that it is the policy of this Nation, in fulfillment of its sp
 
 &emsp;(3) to ensure maximum Indian participation in the direction of health care services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities;
 
-&emsp;(4) to increase the proportion of all degrees in the health professions and allied and associated health professions awarded to Indians so that the proportion of Indian health professionals in each Service area is raised to at least the level of that of the general population;
+&emsp;(4) to increase the proportion of all degrees in the health professions and allied and associated health professions awarded to Indians sothat the proportion of Indian health professionals in each Service area is raised to at least the level of that of the general population;
 
 &emsp;(5) to require that all actions under this chapter shall be carried out with active and meaningful consultation with Indian tribes and tribal organizations, and conference with urban Indian organizations, to implement this chapter and the national policy of Indian self-determination;
 
@@ -17,6 +17,8 @@ Congress declares that it is the policy of this Nation, in fulfillment of its sp
 &emsp;(7) to provide funding for programs and facilities operated by Indian tribes and tribal organizations in amounts that are not less than the amounts provided to programs and facilities operated directly by the Service.
 
 (Pub. L. 94–437, §3, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 102–573, §3(b), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

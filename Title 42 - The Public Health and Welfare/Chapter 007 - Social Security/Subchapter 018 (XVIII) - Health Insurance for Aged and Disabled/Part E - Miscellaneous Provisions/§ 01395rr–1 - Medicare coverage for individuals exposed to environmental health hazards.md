@@ -34,7 +34,7 @@
 
 &emsp;For purposes of paragraph (1), an individual described in this paragraph is an individual who enrolls in part B, submits to the Secretary an application to participate in the applicable pilot program under this subsection, and—
 
-&emsp;&emsp;(A) is an environmental exposure affected individual described in subsection (e)(2) whoresides in or around the geographic area subject to an emergency declaration made as of June 17, 2009; or
+&emsp;&emsp;(A) is an environmental exposure affected individual described in subsection (e)(2) who resides in or around the geographic area subject to an emergency declaration made as of June 17, 2009; or
 
 &emsp;&emsp;(B) is an environmental exposure affected individual described in subsection (e)(3) who—
 
@@ -50,7 +50,7 @@
 
 &emsp;For purposes of the pilot program under this subsection, the Secretary—
 
-&emsp;&emsp;(A) shall develop and implement appropriate methodologies to reimburse providers for furnishing benefits, items, or services for which payment is not otherwise covered or authorized under this subchapter, if such benefits, items, or services are furnished pursuant to paragraph (3); and
+&emsp;&emsp;(A) shall develop and implement appropriate methodologies to reimburse providers for furnishing benefits, items, or services forwhich payment is not otherwise covered or authorized under this subchapter, if such benefits, items, or services are furnished pursuant to paragraph (3); and
 
 &emsp;&emsp;(B) may develop and implement innovative approaches to reimbursing providers for any benefits, items, or services furnished under this subsection.
 

@@ -8,7 +8,7 @@ Except as otherwise specially provided for, the rate or rates of duty imposed by
 
 &emsp;(2) any article which is not subject to a quantitative or tariff-rate quota and which is covered by an entry for immediate transportation made at the port of original importation under section 1552 of this title, if entered for consumption at the port designated by the consignee, or his agent, in such transportation entry without having been taken into the custody of the appropriate customs officer under section 1490 of this title, shall be subject to the rate or rates in effect when the transportation entry was accepted at the port of original importation; and
 
-&emsp;(3) any article for which duties may, under section 1505 of this title, be paid at a time later than the time of making entry shall be subject to the rate or rates in effect at the time of entry.
+&emsp;(3) any article for which duties may, under section 1505 of this title, be paid at a timelater than the time of making entry shall be subject to the rate or rates in effect at the time of entry.
 
 #### (b) Articles removed from intended place of release
 
@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 103–182, §633(3), substituted "chapter 98 of the Harmoni
 
 Subsec. (d). Pub. L. 95–410, §204, substituted "publication in the Federal Register" for "publication in the weekly Treasury Decisions".
 
-<b>1975</b>—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted "or the imposition of countervailingduties under section 1303 of this title" after "antidumping duties".
+<b>1975</b>—Subsec. (d). Pub. L. 93–618, as amended by Pub. L. 96–39, inserted "or the imposition of countervailing duties under section 1303 of this title" after "antidumping duties".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Pub. L. 93–618, title III, §331(d), Jan. 3, 1975, 88 Stat. 2053, as amended by Pub. L. 103–465, title II, §261(d)(1)(A)(i), Dec. 8, 1994, 108 Stat. 4909, provided that:
 
-"(1) The amendments made by this section \[amending this section and sections 1303 and 1516 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 3, 1975.\]
+"(1) The amendments made by this section \[amending this section and sections 1303 and 1516 of this title\]shall take effect on the date of the enactment of this Act \[Jan. 3, 1975.\]
 
 "(2) For purposes of applying the provisions of section 303(a)(4) of the Tariff Act of 1930 \[section 1303(a)(4) of this title\] (as amended by subsection (a)) with respect to any investigation which was initiated before the date of the enactment of this Act \[Jan. 3, 1975\] under section 303 of such Act (as in effect before such date), such investigation shall be treated as having been initiated on the day after such date of enactment under section 303(a)(3)(B) of such Act."
 

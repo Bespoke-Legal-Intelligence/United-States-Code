@@ -104,6 +104,8 @@ Legal Fees.—A State assuming the responsibilities of the Secretary under this 
 
 (Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, §1307, Dec. 4, 2015, 129 Stat. 1390.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -123,6 +125,8 @@ Subsec. (d)(1). Pub. L. 114–94, §1307(2), added par. (1) and struck out forme
 Subsec. (d). Pub. L. 112–141, §1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State."
 
 Subsec. (f). Pub. L. 112–141, §1312(3), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

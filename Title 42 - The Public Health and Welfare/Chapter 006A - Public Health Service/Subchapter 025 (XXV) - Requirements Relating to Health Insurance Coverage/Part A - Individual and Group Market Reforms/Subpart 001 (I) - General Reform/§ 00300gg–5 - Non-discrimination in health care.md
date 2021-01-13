@@ -2,7 +2,7 @@
 
 #### (a) Providers
 
-A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not discriminate with respect to participation under the plan or coverage against any health care provider who is acting within the scope of that provider's license or certification under applicable State law. This section shall not require that a group health plan or health insurance issuer contract with any health care provider willing to abide by the terms and conditions for participation established by the plan or issuer. Nothing in thissection shall be construed as preventing a group health plan, a health insurance issuer, or the Secretary from establishing varying reimbursement rates based on quality or performance measures.
+A group health plan and a health insurance issuer offering group or individual health insurance coverage shall not discriminate with respect to participation under the plan or coverage against any health care provider who is acting within the scope of that provider's license or certification under applicable State law. This section shall not require that a group health plan or health insurance issuer contract with any health care provider willing to abide by the terms and conditions for participation established by the plan or issuer. Nothing in this section shall be construed as preventing a group health plan, a health insurance issuer, or the Secretary from establishing varying reimbursement rates based on quality or performance measures.
 
 #### (b) Individuals
 
@@ -25,6 +25,10 @@ Another prior section 2706 of act July 1, 1944, was successively renumbered by s
 #### Effective Date
 
 Section effective for plan years beginning on or after Jan. 1, 2014, see section 1255 of Pub. L. 111–148, set out as a note under section 300gg of this title.
+
+#### Implementing Protections Against Provider Discrimination
+
+Pub. L. 116–260, div. BB, title I, §108, Dec. 27, 2020, 134 Stat. 2859, provided that: "Not later than January 1,2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a)). The Secretaries shall accept and consider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,9 +28,13 @@ In subsection (a)(1), the words "corresponding to an efficiency rating of 'good'
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Responsibilities of the Office of Personnel Management" for "Ratings for performance" in section catchline and in text substituted provisions relating to the responsibilities of the Office of Personnel Management under this subchapter, for provisions relating to ratings for performance.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

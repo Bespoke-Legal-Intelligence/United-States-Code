@@ -26,13 +26,15 @@ Nothing contained in this part shall be deemed (1) to amend any other provision 
 
 &emsp;(B) enters into a compliance agreement approved by the Secretary;
 
-> the Secretary shall direct the Corporation to reduce or suspend any further payments of funds under this part to the recipient and the Corporation shall comply with such directive. Resumption of payments shall take place only when the Secretary certifies to the Corporation that the recipient has entered into a compliance agreement approved by the Secretary. A recipientwhose funds have been reduced or suspended under this paragraph may apply at any time to the Secretary for such certification.
+> the Secretary shall direct the Corporation to reduce or suspend any further payments of funds under this part to the recipient and the Corporation shall comply with such directive. Resumption of payments shall take place only when the Secretary certifies to the Corporation that the recipient has entered into a compliance agreement approved by the Secretary. A recipient whose funds have been reduced or suspended under this paragraph may apply at any time to the Secretary for such certification.
 
 #### (c) Control over content or distribution of programs
 
 Nothing in this section shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the content or distribution of public telecommunications programs and services, or over the curriculum or program of instruction of any educational institution or school system.
 
 (June 19, 1934, ch. 652, title III, §398, formerly §397, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §398 and amended Pub. L. 90–129, title I, §103(g), title II, §201(3), (5), Nov. 7, 1967, 81 Stat. 367, 368; Pub. L. 95–567, title III, §309, Nov. 2, 1978, 92 Stat. 2420; Pub. L. 100–626, §9(b), Nov. 7, 1988, 102 Stat. 3211; Pub. L. 115–141, div. P, title IV, §402(i)(9), Mar. 23, 2018, 132 Stat. 1090.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by 
 <b>1978</b>—Pub. L. 95–567 designated existing provisions as subsec. (a), substituted "public telecommunications entity" and "public telecommunications" for "educational broadcasting station or system" and "educational television or radio broadcasting", respectively, and added subsecs. (b) and (c).
 
 <b>1967</b>—Pub. L. 90–129, §§103(g), 201(5), inserted "or radio" and ", or over the Corporation or any of its grantees or contractors, or over the charter or bylaws of the Corporation," before and after "broadcasting", where first appearing, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

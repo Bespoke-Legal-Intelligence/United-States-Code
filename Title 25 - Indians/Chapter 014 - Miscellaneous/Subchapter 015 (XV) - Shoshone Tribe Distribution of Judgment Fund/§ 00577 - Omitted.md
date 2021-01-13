@@ -1,5 +1,7 @@
 ### §577. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 27, 1939, ch. 387, §7, 53 Stat. 1130, which related to liability of judgment funds for debts, was omitted from the Code as being of special and not general application.

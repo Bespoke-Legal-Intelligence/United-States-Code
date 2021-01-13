@@ -30,6 +30,8 @@ For the purposes of this chapter, the following definitions apply:
 
 (Pub. L. 102–477, §3, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, §1103(a), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, §4, Dec. 18, 2017, 131 Stat. 2026.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (2). Pub. L. 115–93, §4(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The terms 'Indian tribe' and 'tribe' shall have the meaning given the term 'Indian tribe' in section 5304(e) of this title."

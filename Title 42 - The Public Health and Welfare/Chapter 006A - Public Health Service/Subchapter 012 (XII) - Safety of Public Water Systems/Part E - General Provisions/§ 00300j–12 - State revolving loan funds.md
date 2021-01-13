@@ -50,7 +50,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, ordistribution facilities of public water systems, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
+&emsp;&emsp;Financial assistance under this section may be used by a public water system only for expenditures (including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter.
 
 #### (C) Sale of bonds
 
@@ -66,7 +66,7 @@
 
 #### (F) Loan assistance
 
-&emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+&emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewerthan 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
 
 #### (G) Emerging contaminants
 
@@ -164,7 +164,7 @@
 
 #### (F) Management and oversight
 
-&emsp;&emsp;The Administrator may retain up to 0.25 percent of the funds appropriated for this section for management and oversight of the requirements of this paragraph.
+&emsp;&emsp;The Administrator may retain up to 0.25 percent of the funds appropriated for thissection for management and oversight of the requirements of this paragraph.
 
 #### (G) Effective date
 
@@ -248,7 +248,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;&emsp;&emsp;(ii) does not exceed the expected design life of the project;
 
-&emsp;&emsp;(D) the recipient of each loan will establish a dedicated source of revenue (or, in the case of a privately owned system, demonstrate that there is adequate security) for the repayment of the loan; and
+&emsp;&emsp;(D) the recipient of each loan will establish a dedicated source of revenue (or, in thecase of a privately owned system, demonstrate that there is adequate security) for the repayment of the loan; and
 
 &emsp;&emsp;(E) the State loan fund will be credited with all payments of principal and interest on each loan;
 
@@ -384,7 +384,7 @@ Of the funds annually available under this section for grants to States, the Adm
 
 &emsp;&emsp;&emsp;(i) Any public water system described in subsection (a)(2) to acquire land or a conservation easement from a willing seller or grantor, if the purpose of the acquisition is to protect the source water of the system from contamination and to ensure compliance with national primary drinking water regulations.
 
-&emsp;&emsp;&emsp;(ii) Any community water system to implement local, voluntary source water protection measures to protect source water in areas delineated pursuant to section 300j–13 of this title, in order to facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. Funds authorized under this clause may be used to fund only voluntary, incentive-based mechanisms.
+&emsp;&emsp;&emsp;(ii) Any community water system to implement local, voluntary source water protection measures to protect source water in areas delineated pursuant to section 300j–13 of this title, in order to facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title orotherwise significantly further the health protection objectives of this subchapter. Funds authorized under this clause may be used to fund only voluntary, incentive-based mechanisms.
 
 &emsp;&emsp;&emsp;(iii) Any community water system to provide funding in accordance with section 300j–14(a)(1)(B)(i) of this title.
 
@@ -430,7 +430,7 @@ The failure or inability of any public water system to receive funds under this 
 
 #### (n) Health effects studies
 
-From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title),and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
+From funds appropriated pursuant to this section for each fiscal year, the Administrator shall reserve $10,000,000 for health effects studies on drinking water contaminants authorized by the Safe Drinking Water Act Amendments of 1996. In allocating funds made available under this subsection, the Administrator shall give priority to studies concerning the health effects of cryptosporidium (as authorized by section 300j–18(c) of this title), disinfection byproducts (as authorized by section 300j–18(c) of this title), and arsenic (as authorized by section 300g–1(b)(12)(A) of this title), and the implementation of a plan for studies of subpopulations at greater risk of adverse effects (as authorized by section 300j–18(a) of this title).
 
 #### (o) Monitoring for unregulated contaminants
 
@@ -442,7 +442,7 @@ Notwithstanding the other provisions of this section limiting the use of funds d
 
 #### (q) Small system technical assistance
 
-The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2016 through 2021 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
+The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2016 through 2021 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that thetotal amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
 
 #### (r) Evaluation
 
@@ -502,7 +502,7 @@ Subsec. (m)(1). Pub. L. 116–92, §7312(2), substituted "this section, except f
 
 Subsec. (t). Pub. L. 116–92, §7312(3), added subsec. (t).
 
-<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–270, §2015(a), substituted "(including expenditures for planning, design,siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not" for "(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not".
+<b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–270, §2015(a), substituted "(including expenditures for planning, design, siting, and associated preconstruction activities, or for replacing or rehabilitating aging treatment, storage, or distribution facilities of public water systems, but not" for "(including expenditures for planning, design, and associated preconstruction activities, including activities relating to the siting of the facility, but not".
 
 Subsec. (a)(4)(A). Pub. L. 115–270, §2022, substituted "fiscal years 2019 through 2023" for "fiscal year 2017".
 

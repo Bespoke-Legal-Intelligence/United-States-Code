@@ -54,7 +54,7 @@ The Board shall be composed of five members appointed by the Secretary without r
 
 #### (i) Technical and clerical assistance
 
-The Board is authorized to engage such technical assistance as may be required to carry outits functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
+The Board is authorized to engage such technical assistance as may be required to carry out its functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
 
 #### (j) "Provider of services" defined
 
@@ -64,7 +64,7 @@ In this section, the term "provider of services" includes a rural health clinic 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (f)(2). Pub. L. 103–66 substituted "the rate of interest on obligations issued for purchase by the Federal Hospital Insurance Trust Fund for the month in which" for "the rate of return on equity capital established by regulation pursuant to section 1395x(v)(1)(B) of this title and in effect at the time".
+<b>1993</b>—Subsec. (f)(2). Pub. L. 103–66 substituted "the rate of interest on obligations issued for purchase bythe Federal Hospital Insurance Trust Fund for the month in which" for "the rate of return on equity capital established by regulation pursuant to section 1395x(v)(1)(B) of this title and in effect at the time".
 
 <b>1990</b>—Subsec. (j). Pub. L. 101–508, §4161(b)(4), inserted "a rural health clinic and" after "includes".
 

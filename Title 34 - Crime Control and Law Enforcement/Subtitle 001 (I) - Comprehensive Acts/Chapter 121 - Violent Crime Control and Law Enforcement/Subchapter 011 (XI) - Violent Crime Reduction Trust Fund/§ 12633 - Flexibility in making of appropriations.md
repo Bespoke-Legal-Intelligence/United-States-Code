@@ -150,6 +150,8 @@ In this section—"Federal law enforcement program" means a program authorized i
 
 (Pub. L. 103–322, title XXXI, §310004, Sept. 13, 1994, 108 Stat. 2106; Pub. L. 111–320, title II, §202(e), Dec. 20, 2010, 124 Stat. 3509.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a) to (c), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
@@ -232,7 +234,7 @@ Section 300w–10 of title 42, referred to in subsec. (d), was repealed by Pub. 
 
 Section 5712d of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1172(b), Jan. 5, 2006, 119 Stat. 3123.
 
-Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 10261, 10332–10336, 20322, 20324, 20331, and 20334 of this title and repealed sections 3796aa–4 and 3796aa–7 of Title 42, The Public Health and Welfare.
+Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 10261, 10332–10336, 20322, 20324, 20331, and 20334 ofthis title and repealed sections 3796aa–4 and 3796aa–7 of Title 42, The Public Health and Welfare.
 
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XX (§10461 et seq.) of chapter 101 of this title and amended sections 10221, 10222, 10261, and 10541 of this title.
 

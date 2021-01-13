@@ -2,7 +2,7 @@
 
 (a)
 
-Transfers Between Armed Forces.—If either of the Secretaries concerned requests it and the other approves, real property may be transferred, without compensation, from one armed force to another. Section 2571(d) of this title shall apply to the transfer of real property under this subsection.
+Transfers Between Armed Forces.—If either of the Secretaries concerned requests it andthe other approves, real property may be transferred, without compensation, from one armed force to another. Section 2571(d) of this title shall apply to the transfer of real property under this subsection.
 
 (b)
 
@@ -66,7 +66,7 @@ The text of section 2693 of this title, which was transferred to the end of this
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (a), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
 
-<b>2006</b>—Pub. L. 109–364, §2825(d)(2)(A), substituted "Real property: transfer between armed forces and screening requirements for other Federal use" for "Screening of real property for further Federal use before conveyance" in section catchline.
+<b>2006</b>—Pub. L. 109–364, §2825(d)(2)(A), substituted "Real property: transfer between armed forces and screeningrequirements for other Federal use" for "Screening of real property for further Federal use before conveyance" in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §2825(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 

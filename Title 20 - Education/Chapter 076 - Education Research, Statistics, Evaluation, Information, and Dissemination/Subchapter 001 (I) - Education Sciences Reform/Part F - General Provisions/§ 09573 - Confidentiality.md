@@ -6,7 +6,7 @@ All collection, maintenance, use, and wide dissemination of data by the Institut
 
 #### (b) Student information
 
-The Director shall ensure that all individually identifiable information about students, their academic achievements, their families, and information with respect to individual schools, shall remain confidential in accordance with section 552a of title 5, the confidentiality standards of subsection (c) of this section, and sections 1232g and 1232h of this title.
+The Director shall ensure that all individually identifiable information about students, theiracademic achievements, their families, and information with respect to individual schools, shall remain confidential in accordance with section 552a of title 5, the confidentiality standards of subsection (c) of this section, and sections 1232g and 1232h of this title.
 
 #### (c) Confidentiality standards
 
@@ -74,7 +74,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) and (b), the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
+&emsp;Notwithstanding subsections (a) and (b), the Attorney General (or any Federal officer oremployee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
 
 &emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the Director that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
 

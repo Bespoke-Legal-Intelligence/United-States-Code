@@ -28,7 +28,7 @@ Copies of the reports required by this section to be submitted to the Congress s
 
 #### (e) Documentation of information; public availability; trade secrets and other disclosure exempt information
 
-The Commission, in cooperation with the Secretary, shall ensure that any relevant information, other than trade secrets and other proprietary information otherwise exempted from mandatory disclosure under any other provision of law, obtained from the conduct of each of the remedial actions authorized by this subchapter and the subsequent perpetual care of those residual radioactive materials is documented systematically, and made publicly available conveniently for use.
+The Commission, in cooperation with the Secretary, shall ensure that any relevant information, other than trade secrets and other proprietary information otherwise exempted from mandatory disclosure under any other provision of law, obtained from the conduct of each of theremedial actions authorized by this subchapter and the subsequent perpetual care of those residual radioactive materials is documented systematically, and made publicly available conveniently for use.
 
 (Pub. L. 95–604, title I, §114, Nov. 8, 1978, 92 Stat. 3032; H. Res. 549, Mar. 25, 1980.)
 

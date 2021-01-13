@@ -46,9 +46,13 @@ Pub. L. 101–611, title I, §112(a), (c), (d), Nov. 16, 1990, 104 Stat. 3198, 3
 
 42 U.S.C. 2465a(d).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–90 amended section generally. Prior to amendment, section related to space shuttle use policy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Flight Opportunities
 

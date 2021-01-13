@@ -4,6 +4,8 @@ Whenever a witness summoned as mentioned in section 192 of this title fails to a
 
 (R.S. §104; July 13, 1936, ch. 884, 49 Stat. 2041; June 22, 1938, ch. 594, 52 Stat. 942.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §104 derived from act Jan. 24, 1857, ch. 19, §3, 11 Stat. 156.

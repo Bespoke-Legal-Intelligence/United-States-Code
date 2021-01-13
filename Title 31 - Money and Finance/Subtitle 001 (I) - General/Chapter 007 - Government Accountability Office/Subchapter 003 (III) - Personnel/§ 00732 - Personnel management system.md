@@ -38,7 +38,7 @@
 
 > &emsp;notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
-&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title (except positions included in the Service under section 733(c) of this titleand senior-level positions described in section 732a(b) of this title); and
+&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
 
 &emsp;(5) the Comptroller General shall prescribe regulations under which an officer or employee of the Office shall be entitled to pay retention if, as a result of any reduction-in-force or other workforce adjustment procedure, position reclassification, or other appropriate circumstances as determined by the Comptroller General, such officer or employee is placed in or holds a position in a lower grade or band with a maximum rate of basic pay that is less than the rate of basic pay payable to the officer or employee immediately before the reduction in grade or band; such regulations—
 
@@ -224,6 +224,8 @@ In subsection (f)(3), the word "affect" is substituted for "prohibits or restric
 
 In subsection (g), the words "Notwithstanding any other provision of law" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level III of the Executive Level, referred to in subsec. (c)(2), probably means Level III of the Executive Schedule, which is set out in section 5314 of Title 5, Government Organization and Employees.
@@ -256,7 +258,7 @@ Subsec. (i). Pub. L. 108–271, §8(b), substituted "Government Accountability O
 
 <b>2000</b>—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted "(including senior-level positions under section 732a of this title)" after "129 positions" and substituted "733(c) of this title and senior-level positions described in section 732a(b) of this title);" for "733(c) of this title);".
 
-Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, tothe extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office."
+Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office."
 
 Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 
@@ -269,6 +271,8 @@ Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 Subsec. (c)(4). Pub. L. 100–426, §302, substituted "129" for "119" and "the rate of basic pay payable for grade GS–18 of the General Schedule" for "the highest rate for GS–18".
 
 <b>1984</b>—Subsec. (c)(4). Pub. L. 98–326 substituted "119" for "100".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -314,7 +318,7 @@ Pub. L. 110–323, §3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 "(a)
 
-Applicability.—This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
+Applicability.—This section applies in the case of any individual who, as of the date of the enactmentof this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
 &emsp;"(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
 

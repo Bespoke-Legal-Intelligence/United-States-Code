@@ -22,11 +22,11 @@ In this chapter, the following definitions apply:
 
 &emsp;(10) The term "GMD" means a geomagnetic disturbance caused by a solar storm or another naturally occurring phenomenon.
 
-&emsp;(11) The term "intelligence component of the Department" means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50, except—
+&emsp;(11) The term "intelligence component of the Department" means any element or entity ofthe Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50, except—
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
-&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 <sup>1</sup> of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force orthe authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50.<sup>2</sup>
+&emsp;&emsp;(B) the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 <sup>1</sup> of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50.<sup>2</sup>
 
 &emsp;(12) The term "key resources" means publicly or privately controlled resources essential to the minimal operations of the economy and government.
 
@@ -70,6 +70,8 @@ In this chapter, the following definitions apply:
 
 (Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140; Pub. L. 109–295, title VI, §612(d), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title VI, §613, Oct. 13, 2006, 120 Stat. 1943; Pub. L. 110–53, title V, §502(a), title IX, §901(d), Aug. 3, 2007, 121 Stat. 310, 371; Pub. L. 114–328, div. A, title XIX, §1913(a)(1), Dec. 23, 2016, 130 Stat. 2684.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -90,11 +92,23 @@ Par. (18). Pub. L. 110–53, §901(d), added par. (18).
 
 Pub. L. 109–295 inserted "fire," after "safety,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
 
 #### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. U, title III, §301, Dec. 27, 2020, 134 Stat. 2291, provided that: "This title \[enacting section 216 of this title\] may be cited as the 'Synthetic Opioid Exposure Prevention and Training Act'."
+
+Pub. L. 116–260, div. U, title VI, §601, Dec. 27, 2020, 134 Stat. 2294, provided that: "This title \[enacting section 124m–1 of this title and provisions set out as a note under section 124m–1 of this title\] may be cited as the 'Counter Threats Advisory Board Act of 2019'."
+
+Pub. L. 116–260, div. U, title VII, §701(a), Dec. 27, 2020, 134 Stat. 2295, provided that: "This title \[enacting section 195g of this title\] may be cited as the 'DHS Countering Unmanned Aircraft Systems Coordinator Act'."
+
+Pub. L. 116–260, div. U, title IX, §901, Dec. 27, 2020, 134 Stat. 2297, provided that: "This title \[enacting section 665 of this title, amending sections 609 and 652 of this title, and enacting provisions set out as notes under section 665 of this title\] may be cited as the 'DOTGOV Online Trust in Government Act of 2020' or the 'DOTGOV Act of 2020'."
+
+Pub. L. 116–116, §1, Mar. 2, 2020, 134 Stat. 110, provided that: "This Act \[amending section 124h of this title and enacting provisions set out as a note under section 121 of this title\] may be cited as the 'DHS Field Engagement Accountability Act'."
 
 Pub. L. 116–108, §1, Jan. 24, 2020, 133 Stat. 3294, provided that: "This Act \[enacting section 609a of this title and amending section 603 of this title\] may be cited as the 'Securing American Nonprofit Organizations Against Terrorism Act of 2019'."
 
@@ -150,7 +164,7 @@ Pub. L. 113–284, §1, Dec. 18, 2014, 128 Stat. 3089, provided that: "This Act 
 
 Pub. L. 113–282, §1, Dec. 18, 2014, 128 Stat. 3066, provided that: "This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under section 3543 of Title 44, Public Printing and Documents\] may be cited as the 'National Cybersecurity Protection Act of 2014'."
 
-Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
+Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of thischapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
 
 Pub. L. 113–246, §1, Dec. 18, 2014, 128 Stat. 2880, provided that: "This Act \[enacting section 146 of this title and provisions set out as a note under section 146 of this title\] may be cited as the 'Cybersecurity Workforce Assessment Act'."
 
@@ -172,7 +186,7 @@ Pub. L. 111–376, §1, Jan. 4, 2011, 124 Stat. 4104, provided that: "This Act \
 
 Pub. L. 111–271, §1, Oct. 12, 2010, 124 Stat. 2852, provided that: "This Act \[enacting section 613 of this title\] may be cited as the 'Redundancy Elimination and Enhanced Performance for Preparedness Grants Act'."
 
-Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: "This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435and 435d of Title 50\] may be cited as the 'Reducing Over-Classification Act'."
+Pub. L. 111–258, §1, Oct. 7, 2010, 124 Stat. 2648, provided that: "This Act \[enacting section 124m of this title and section 435d of Title 50, War and National Defense, amending sections 121 and 124k of this title and section 403–1 of Title 50, and enacting provisions set out as notes under section 124m of this title and sections 435 and 435d of Title 50\] may be cited as the 'Reducing Over-Classification Act'."
 
 Pub. L. 111–245, §1, Sept. 30, 2010, 124 Stat. 2620, provided that: "This Act \[enacting section 321n of this title, amending sections 453 and 464 of this title, and repealing section 464a of this title\] may be cited as the 'First Responder Anti-Terrorism Training Resources Act'."
 
@@ -214,7 +228,7 @@ For short title of part I of subchapter VIII of this chapter as the "Homeland Se
 
 Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: "This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the 'Federal Information Security Management Act of 2002'."
 
-\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
+\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347,title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
 
 #### Prohibition on Regulatory Authority
 

@@ -4,7 +4,7 @@
 
 (b) The Director of NIH may not make a grant or enter into a contract under subsection (a) unless the applicant for such assistance agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such subsection, to make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $4 of Federal funds provided in such assistance.
 
-(July 1, 1944, ch. 373, title IV, §404J, formerly §481B, as added Pub. L. 103–43, title XV, §1503, June 10, 1993, 107 Stat. 178; amended Pub. L. 105–392, title IV, §411, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–505, title III, §304, Nov. 13, 2000, 114 Stat. 2335; Pub. L. 109–482, title I, §103(b)(41), Jan. 15, 2007, 120 Stat. 3688; renumbered §404J and amended Pub. L. 112–74, div. F, title II, §221(b)(2), Dec. 23, 2011, 125 Stat. 1088.)
+(July 1, 1944, ch. 373, title IV, §404J, formerly §481B, as added Pub. L. 103–43, title XV, §1503, June 10, 1993, 107 Stat. 178; amended Pub. L. 105–392, title IV, §411, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–505, title III, §304, Nov. 13, 2000, 114 Stat. 2335; Pub. L. 109–482, title I, §103(b)(41),Jan. 15, 2007, 120 Stat. 3688; renumbered §404J and amended Pub. L. 112–74, div. F, title II, §221(b)(2), Dec. 23, 2011, 125 Stat. 1088.)
 
 #### Codification
 

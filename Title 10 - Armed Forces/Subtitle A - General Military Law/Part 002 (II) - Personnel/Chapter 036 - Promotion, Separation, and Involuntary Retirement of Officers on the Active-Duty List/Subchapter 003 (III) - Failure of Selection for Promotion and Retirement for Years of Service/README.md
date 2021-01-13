@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [627\.](%C2%A7%2000627%20-%20Failure%20of%20selection%20for%20promotion.md) | Failure of selection for promotion. |
 | [628\.](%C2%A7%2000628%20-%20Special%20selection%20boards.md) | Special selection boards. |
+| [628a.](%C2%A7%2000628a%20-%20Special%20selection%20review%20boards.md) | Special selection review boards. |
 | [629\.](%C2%A7%2000629%20-%20Removal%20from%20a%20list%20of%20officers%20recommended%20for%20promotion.md) | Removal from a list of officers recommended for promotion. |
 | [630\.](%C2%A7%2000630%20-%20Discharge%20of%20commissioned%20officers%20with%20less%20than%20six%20years%20of%20active%20commissioned%20service%20or%20found%20not%20qualified%20for%20promotion%20for%20first%E2%80%A6.md) | Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade). |
 | [631\.](%C2%A7%2000631%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20first%20lieutenants%20and%20lieutenants%20%28junior%20grade%29.md) | Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade). |
@@ -16,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §505(a)(2), Jan. 1, 2021, 134 Stat. 3568, added item 628a.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title V, §503(a)(3), Jan. 28, 2008, 122 Stat. 95, substituted "six years" for "five years" in item 630.
 
@@ -34,6 +37,7 @@
 
 - [&sect; 00627 - Failure of selection for promotion](%C2%A7%2000627%20-%20Failure%20of%20selection%20for%20promotion.md)
 - [&sect; 00628 - Special selection boards](%C2%A7%2000628%20-%20Special%20selection%20boards.md)
+- [&sect; 00628a - Special selection review boards](%C2%A7%2000628a%20-%20Special%20selection%20review%20boards.md)
 - [&sect; 00629 - Removal from a list of officers recommended for promotion](%C2%A7%2000629%20-%20Removal%20from%20a%20list%20of%20officers%20recommended%20for%20promotion.md)
 - [&sect; 00630 - Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first&#8230;](%C2%A7%2000630%20-%20Discharge%20of%20commissioned%20officers%20with%20less%20than%20six%20years%20of%20active%20commissioned%20service%20or%20found%20not%20qualified%20for%20promotion%20for%20first%E2%80%A6.md)
 - [&sect; 00631 - Effect of failure of selection for promotion first lieutenants and lieutenants (junior grade)](%C2%A7%2000631%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20first%20lieutenants%20and%20lieutenants%20%28junior%20grade%29.md)

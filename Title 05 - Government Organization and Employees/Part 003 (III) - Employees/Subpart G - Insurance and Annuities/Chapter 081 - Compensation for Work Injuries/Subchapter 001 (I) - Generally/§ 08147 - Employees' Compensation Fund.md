@@ -50,6 +50,8 @@ July 4, 1966, Pub. L. 89–488, §10(c), 80 Stat. 255.
 
 The word "performed" is substituted for "rendered" to conform to the style of title 5. The words "sections 8131 and 8132 of this title" are substituted for "sections 26 and 27" to reflect the codification of those sections in title 5.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–258 substituted "section 9101(2)" for "section 856", and "chapter 91" for "sections 841–869".
@@ -59,6 +61,8 @@ The word "performed" is substituted for "rendered" to conform to the style of ti
 <b>1974</b>—Subsec. (a). Pub. L. 93–416, §26, substituted "Office of Management and Budget" for "Bureau of the Budget".
 
 Subsec. (c). Pub. L. 93–416, §25, inserted reference to the United States Postal Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

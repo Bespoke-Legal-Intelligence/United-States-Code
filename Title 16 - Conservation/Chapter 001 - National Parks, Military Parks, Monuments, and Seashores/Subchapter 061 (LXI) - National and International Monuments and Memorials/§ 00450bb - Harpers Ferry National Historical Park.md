@@ -6,7 +6,7 @@ To carry out the purposes of sections 450bb to 450bb–2 of this title, the Secr
 
 #### (b) Bradley and Ruth Nash Addition
 
-The Secretary is authorized to acquire, by donation only, approximately 27 acres of land orinterests in land that are outside the boundary of the Harpers Ferry National Historical Park and generally depicted on the map entitled "Proposed Bradley and Ruth Nash Addition—Harpers Ferry National Historical Park", numbered 385–80056, and dated April 1, 1989.
+The Secretary is authorized to acquire, by donation only, approximately 27 acres of land or interests in land that are outside the boundary of the Harpers Ferry National Historical Park and generally depicted on the map entitled "Proposed Bradley and Ruth Nash Addition—Harpers Ferry National Historical Park", numbered 385–80056, and dated April 1, 1989.
 
 #### (c) Boundary expansion
 

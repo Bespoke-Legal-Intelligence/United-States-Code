@@ -38,6 +38,8 @@ The definitions of "uniformed services" and "armed forces" are omitted as unnece
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (4). Pub. L. 111–145 substituted "the Congressional Budget Office, and the United States Capitol Police" for "and the Congressional Budget Office".
@@ -51,6 +53,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1991</b>—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
 
 <b>1978</b>—Pub. L. 95–454 substituted " 'member' " for " 'officer' " in par. (1) and added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

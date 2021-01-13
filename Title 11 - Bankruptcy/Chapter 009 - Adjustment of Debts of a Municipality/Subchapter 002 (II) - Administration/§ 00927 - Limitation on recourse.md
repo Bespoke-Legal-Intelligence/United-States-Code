@@ -4,9 +4,13 @@ The holder of a claim payable solely from special revenues of the debtor under a
 
 (Added Pub. L. 100–597, §7(2), Nov. 3, 1988, 102 Stat. 3029.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 927 was renumbered section 930 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

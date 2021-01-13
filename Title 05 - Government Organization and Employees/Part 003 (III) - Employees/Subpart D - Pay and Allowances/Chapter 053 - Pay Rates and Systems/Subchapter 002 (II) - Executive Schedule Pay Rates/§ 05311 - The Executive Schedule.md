@@ -22,6 +22,8 @@ The words "There is hereby established" are omitted as executed. The word "offic
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–509 struck out "(a)" before "The Executive Schedule, which" and struck out subsec. (b) which read as follows:
@@ -45,6 +47,8 @@ Subsec. (b)(2). Pub. L. 100–325, §2(h)(2), substituted "(as defined in sectio
 <b>1978</b>—Pub. L. 95–454, §408(b)(1), inserted reference to Senior Executive Service positions.
 
 Pub. L. 95–454, §414(b)(1), designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

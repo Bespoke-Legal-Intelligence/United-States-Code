@@ -84,7 +84,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 &emsp;&emsp;(C) the system provides assistance with respect to—
 
-&emsp;&emsp;&emsp;(i) establishing the eligibility of the child, and the family of the child, for financial assistance and services under Federal, State, or local programs providing forhealth services, mental health services, educational services, social services, or other services; and
+&emsp;&emsp;&emsp;(i) establishing the eligibility of the child, and the family of the child, for financial assistance and services under Federal, State, or local programs providing for health services, mental health services, educational services, social services, or other services; and
 
 &emsp;&emsp;&emsp;(ii) seeking to ensure that the child receives appropriate services available under such programs.
 
@@ -124,7 +124,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(3) to provide for room and board or other services or expenditures associated with care of children in residential treatment centers serving more than 10 children or in inpatient hospital settings, except intensive home-based services and other services provided on an ambulatory or outpatient basis; or
 
-&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuing education whose duration does not exceed 2 days.
+&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuingeducation whose duration does not exceed 2 days.
 
 #### (g) Waivers
 

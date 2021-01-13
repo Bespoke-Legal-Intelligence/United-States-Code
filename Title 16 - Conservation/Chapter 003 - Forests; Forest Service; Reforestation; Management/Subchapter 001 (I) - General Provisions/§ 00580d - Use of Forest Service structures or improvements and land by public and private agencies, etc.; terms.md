@@ -6,7 +6,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for"recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
 
 #### Authorization for Lease of Forest Service Sites
 
@@ -460,7 +460,7 @@ Lead-based paint and asbestos abatement.—Notwithstanding any provision of law 
 
 &emsp;&emsp;"(A) provide notice to the person or entity acquiring the administrative site of the presence of the lead-based paint or asbestos-containing building material; and
 
-&emsp;&emsp;"(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
+&emsp;&emsp;"(B) obtain written assurance from the person or entity acquiring the administrative site that theperson or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
 
 &emsp;"(4)
 
@@ -501,6 +501,8 @@ Use.—Amounts deposited under paragraph (1) shall be available to the Secretary
 "(c)
 
 Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
+
+\[Pub. L. 116–260, div. G, title IV, §420, Dec. 27, 2020, 134 Stat. 1540, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2019'."\]
 
 \[Pub. L. 116–94, div. D, title IV, §420, Dec. 20, 2019, 133 Stat. 2747, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2019'."\]
 

@@ -22,7 +22,7 @@
 
 &emsp;(i) the termination of the investigation;
 
-&emsp;(ii) a summary of relevant facts ascertained by the Special Counsel, including the factsthat support, and the facts that do not support, the allegations of such person;
+&emsp;(ii) a summary of relevant facts ascertained by the Special Counsel, including the facts that support, and the facts that do not support, the allegations of such person;
 
 &emsp;(iii) the reasons for terminating the investigation; and
 
@@ -78,7 +78,7 @@
 
 (E) If the Board grants a stay under subparagraph (A), the head of the agency employing the employee who is the subject of the action shall give priority to a request for a transfer submitted by the employee.
 
-(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shallmake a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
+(2)(A)(i) Except as provided under clause (ii), no later than 240 days after the date of receiving an allegation of a prohibited personnel practice under paragraph (1), the Special Counsel shall make a determination whether there are reasonable grounds to believe that a prohibited personnel practice has occurred, exists, or is to be taken.
 
 (ii) If the Special Counsel is unable to make the required determination within the 240-day period specified under clause (i) and the person submitting the allegation of a prohibited personnel practice agrees to an extension of time, the determination shall be made within such additional period of time as shall be agreed upon between the Special Counsel and the person submitting the allegation.
 
@@ -98,7 +98,7 @@
 
 (4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
-(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
+(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnelaction which was taken or is to be taken against the individual.
 
 (ii) Corrective action under clause (i) may not be ordered if, after a finding that a protected disclosure was a contributing factor, the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
@@ -134,6 +134,8 @@
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–42, §1, June 27, 2017, 131 Stat. 883; Pub. L. 115–73, title I, §102(a), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, §1097(c)(3)(A), (4), (f), (j), Dec. 12, 2017, 131 Stat. 1619, 1622, 1625.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–91, §1097(f), added par. (6).
@@ -165,6 +167,8 @@ Subsec. (a)(2)(A)(iv). Pub. L. 103–424, §3(c)(2), added cl. (iv).
 Subsec. (b)(2). Pub. L. 103–424, §3(d), added subpars. (A) and (E) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
 Subsec. (g). Pub. L. 103–424, §8(a), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

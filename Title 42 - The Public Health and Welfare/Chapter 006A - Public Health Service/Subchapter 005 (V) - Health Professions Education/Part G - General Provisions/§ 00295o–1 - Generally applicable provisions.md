@@ -52,7 +52,7 @@ Training programs conducted with amounts received under this subchapter shall me
 
 #### (3) Administration
 
-&emsp;This subsection shall be carried out by the Secretary acting through the Administrator ofthe Health Resources and Services Administration.
+&emsp;This subsection shall be carried out by the Secretary acting through the Administrator of the Health Resources and Services Administration.
 
 #### (g) Preference or priority considerations
 

@@ -14,7 +14,7 @@ Penalty.—(1) Subject to section 21304 of this title, a person violating chapte
 
 &emsp;(C) other matters that justice requires.
 
-(4) If the Secretary does not compromise the amount of the civil penalty, the Secretary shallrefer the matter to the Attorney General for collection.
+(4) If the Secretary does not compromise the amount of the civil penalty, the Secretary shall refer the matter to the Attorney General for collection.
 
 (b)
 
@@ -70,7 +70,7 @@ Mar. 4, 1907, ch. 2939, §5(b), 34 Stat. 1417; restated Dec. 26, 1969, Pub. L. 9
 
 Mar. 4, 1907, ch. 2939, §5(c), 34 Stat. 1417; restated Dec. 26, 1969, Pub. L. 91–169, §1, 83 Stat. 464; June 22, 1988, Pub. L. 100–342, §16(6)(C), 102 Stat. 635.
 
-In this section, the words "Attorney General" are substituted for "United States attorney" because of 28:509. The words "civil action" are substituted for "suit or suits", "action", and "prosecutions" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In this section, the words "Attorney General" are substituted for "United States attorney" because of28:509. The words "civil action" are substituted for "suit or suits", "action", and "prosecutions" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 In subsection (a)(1), the words "(including but not limited to a railroad; any manager, supervisor, official, or other employee or agent of a railroad; any owner, manufacturer, lessor, or lessee of railroad equipment, track, or facilities; any independent contractor providing goods or services to a railroad; and any employee of such owner, manufacturer, lessor, lessee, or independent contractor)" are omitted as surplus because of the definition of "person" in 1:1 and because the provision being violated indicates to whom it applies. The words "violating chapter 211 of this title" are substituted for "that requires or permits any employee to go, be, or remain on duty in violation of section 62, section 63, or section 63a of this title, or that violates any other provision of this chapter" to eliminate unnecessary words. The words "to the United States Government for a civil penalty" are substituted for "for a penalty" for consistency in the revised title and with other titles of the United States Code.
 

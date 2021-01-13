@@ -16,6 +16,8 @@ References to the Secretary, meaning the Secretary of Commerce, were substituted
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–530 repealed subsec. (c) which related to duties of enumerators in Bureau of the Census.

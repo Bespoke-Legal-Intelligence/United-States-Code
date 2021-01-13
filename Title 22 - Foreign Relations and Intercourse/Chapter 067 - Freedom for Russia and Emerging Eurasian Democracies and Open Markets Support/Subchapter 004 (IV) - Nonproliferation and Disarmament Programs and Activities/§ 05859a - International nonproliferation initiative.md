@@ -18,7 +18,7 @@ Activities for which assistance may be provided under this section are activitie
 
 #### (c) Form of assistance
 
-(1) Assistance under this section may include funds and in-kind contributions of supplies, equipment, personnel, training, and other forms of assistance.
+(1) Assistance under this section may include funds and in-kind contributions of supplies,equipment, personnel, training, and other forms of assistance.
 
 (2) Assistance under this section may be provided to international organizations in the form of funds only if the amount in the "Contributions to International Organizations" account of the Department of State is insufficient or otherwise unavailable to meet the United States fair share of assessments for international nuclear nonproliferation activities.
 
@@ -65,6 +65,8 @@ Activities for which assistance may be provided under this section are activitie
 The authority of the Secretary of Defense to provide assistance under this section terminates at the close of fiscal year 2003.
 
 (Pub. L. 102–484, div. A, title XV, §1505, Oct. 23, 1992, 106 Stat. 2569; Pub. L. 103–160, div. A, title XI, §1182(c)(5), title XVI, §1602, Nov. 30, 1993, 107 Stat. 1772, 1843; Pub. L. 103–337, div. A, title X, §1070(c)(1), title XV, §1501, Oct. 5, 1994, 108 Stat. 2857, 2914; Pub. L. 104–106, div. A, title XIV, §1403, title XV, §1502(c)(2)(B), Feb. 10, 1996, 110 Stat. 489, 507; Pub. L. 104–201, div. A, title XIII, §1301, Sept. 23, 1996, 110 Stat. 2700; Pub. L. 105–85, div. A, title XIII, §1308, Nov. 18, 1997, 111 Stat. 1956; Pub. L. 105–261, div. A, title XV, §1531(b), Oct. 17, 1998, 112 Stat. 2180; Pub. L. 106–65, div. A, title X, §1067(8), title XV, §1505(b), (c), Oct. 5, 1999, 113 Stat. 774, 808; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1201(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–324; Pub. L. 107–107, div. A, title XII, §1203(b), Dec. 28, 2001, 115 Stat. 1246; Pub. L. 107–314, div. A, title XII, §1204(b), Dec. 2, 2002, 116 Stat. 2664.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -145,6 +147,8 @@ Subsec. (d)(4). Pub. L. 103–160, §1602(c), struck out par. (4) which read as 
 Subsec. (e)(1). Pub. L. 103–160, §1602(a), substituted "fiscal year 1994" for "fiscal year 1993".
 
 Subsec. (e)(2). Pub. L. 103–160, §1182(c)(5), substituted "(d)(4)" for "(d)(2)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

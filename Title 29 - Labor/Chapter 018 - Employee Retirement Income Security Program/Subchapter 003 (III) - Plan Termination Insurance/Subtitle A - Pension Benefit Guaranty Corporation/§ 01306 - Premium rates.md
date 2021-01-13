@@ -230,7 +230,7 @@
 
 > If the corporation uses two or more of the rate bases described in this subparagraph, the premium rates shall be designed to produce approximately equal amounts of aggregate premium revenue from each of the rate bases used.
 
-(D) For purposes of this paragraph, the corporation shall by regulation define the terms "value of assets" and "present value of the benefits <sup>5</sup> of the plan which are guaranteed" in amanner consistent with the purposes of this subchapter and the provisions of this section.
+(D) For purposes of this paragraph, the corporation shall by regulation define the terms "value of assets" and "present value of the benefits <sup>5</sup> of the plan which are guaranteed" in a manner consistent with the purposes of this subchapter and the provisions of this section.
 
 (7)
 
@@ -390,9 +390,11 @@ CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of th
 
 (Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592; Pub. L. 116–94, div. O, title II, §206, Dec. 20, 2019, 133 Stat. 3174.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
+The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
 
@@ -554,11 +556,13 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted "joint" for "concur
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation toprescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted "(C), (D), or (E)" for "(B) or (C)", "revised schedule" for "revised coverage schedule", and "Human Resources" for "Public Welfare", in par. (3) substituted "revised schedule" for "revised coverage schedule", and in par. (4) substituted "Human Resources" for "Public Welfare".
 
 Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -658,7 +662,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, see section 9331(f)(1)of Pub. L. 100–203, set out as a note under section 1305 of this title.
+Amendment by Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, see section 9331(f)(1) of Pub. L. 100–203, set out as a note under section 1305 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -690,7 +694,7 @@ Pub. L. 103–465, title VII, §774(c), Dec. 8, 1994, 108 Stat. 5046, provided t
 
 &emsp;"(1) January 1, 1998, or
 
-&emsp;"(2) the date the regulated public utility begins to collect from utility customers rates that reflect the costs incurred or projected to be incurred for additional premiums under section 4006(a)(3)(E) of the Employee Retirement Income Security Act of 1974 \[subsec. (a)(3)(E) of this section\] pursuant to final and nonappealable determinations by all public utility commissions (or other authorities having jurisdiction over the rates and terms of service by the regulated public utility) that the costs are just and reasonable and recoverable from customers of the regulated public utility."
+&emsp;"(2) the date the regulated public utility begins to collect from utility customers rates that reflect the costs incurred or projected to be incurred for additional premiums under section 4006(a)(3)(E) of the Employee Retirement Income Security Act of 1974 \[subsec. (a)(3)(E) of this section\] pursuant to final andnonappealable determinations by all public utility commissions (or other authorities having jurisdiction over the rates and terms of service by the regulated public utility) that the costs are just and reasonable and recoverable from customers of the regulated public utility."
 
 Pub. L. 99–272, title XI, §11005(e), Apr. 7, 1986, 100 Stat. 243, provided that:
 

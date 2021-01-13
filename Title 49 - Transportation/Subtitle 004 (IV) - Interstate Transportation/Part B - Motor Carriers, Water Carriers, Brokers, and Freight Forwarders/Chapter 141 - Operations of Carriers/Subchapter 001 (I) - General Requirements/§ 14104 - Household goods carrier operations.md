@@ -66,7 +66,7 @@ Binding.—A binding estimate under this paragraph must indicate that the carrie
 
 &emsp;&emsp;&emsp;(iii)
 
-Nonbinding.—A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper's shipment and the carrier's lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
+Nonbinding.—A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper'sshipment and the carrier's lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
 
 &emsp;(2)
 

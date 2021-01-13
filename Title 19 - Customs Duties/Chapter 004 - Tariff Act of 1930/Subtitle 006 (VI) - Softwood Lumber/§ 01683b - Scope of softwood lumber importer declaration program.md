@@ -24,7 +24,7 @@ The following products shall be subject to the importer declaration program esta
 
 #### (3) Other lumber products
 
-&emsp;Except as otherwise provided in subsection (b) or (c), softwood lumber products that are stringers, radius-cut box-spring frame components, fence pickets, truss components, pallet components, and door and window frame parts classified under subheading 4418.90.46.95, 4421.90.70.40, or 4421.90.97.40 of the HTS.
+&emsp;Except as otherwise provided in subsection (b) or (c), softwood lumber products that arestringers, radius-cut box-spring frame components, fence pickets, truss components, pallet components, and door and window frame parts classified under subheading 4418.90.46.95, 4421.90.70.40, or 4421.90.97.40 of the HTS.
 
 #### (b) Products excluded from program
 

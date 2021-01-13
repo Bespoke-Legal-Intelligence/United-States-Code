@@ -32,11 +32,11 @@ The options referred to in subsection (b) are as follows:
 
 #### (2) Transport by utility for direct sale to third party
 
-&emsp;The electric utility shall transmit the net excess power on behalf of the project owner oroperator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
+&emsp;The electric utility shall transmit the net excess power on behalf of the project owner or operator to up to 3 separate locations on the system of the utility for direct sale by the owner or operator to third parties at those locations.
 
 #### (3) Transport over private transmission lines
 
-&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power to up to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
+&emsp;The State and the electric utility shall permit, and shall waive or modify such laws as would otherwise prohibit, the construction and operation of private electric wires constructed, owned, and operated by the project owner or operator, to transport the power toup to 3 purchasers within a 3-mile radius of the project, allowing the wires to use or cross public rights-of-way, without subjecting the project to regulation as a public utility, and according the wires the same treatment for safety, zoning, land use, and other legal privileges as apply or would apply to the wires of the utility, except that—
 
 &emsp;&emsp;(A) there shall be no grant of any power of eminent domain to take or cross private property for the wires; and
 

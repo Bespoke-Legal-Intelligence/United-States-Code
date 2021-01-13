@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–314, div. A, title VIII, §825(c)(3), Dec. 2, 2002, 116 Stat. 2616, struck out item 11701 "On-line multiple award schedule contracting" and redesignated items 11702 to 11704 as 11701 to 11703, respectively.

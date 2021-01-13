@@ -1,6 +1,6 @@
 ### §801. Congressional review
 
-(a)(1)(A) Before a rule can take effect, the Federal agency promulgating such rule shall submit to each House of the Congress and to the Comptroller General a report containing—
+(a)(1)(A) Before a rule can take effect, the Federal agency promulgating such rule shall submitto each House of the Congress and to the Comptroller General a report containing—
 
 &emsp;(i) a copy of the rule;
 
@@ -102,11 +102,15 @@
 
 (Added Pub. L. 104–121, title II, §251, Mar. 29, 1996, 110 Stat. 868.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

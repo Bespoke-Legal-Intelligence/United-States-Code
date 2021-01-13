@@ -62,7 +62,7 @@ Subsec. (c)(9) to (11). Pub. L. 105–178 added pars. (9) to (11).
 
 Subsec. (c)(5). Pub. L. 101–239, §8016(2), (3), added par. (5).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end "The allotment for fiscal year 1989 andeach succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined."
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end "The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined."
 
 Subsec. (b). Pub. L. 100–203, §9135(a)(2)(B), inserted "American Samoa," after "the Virgin Islands," in two places.
 

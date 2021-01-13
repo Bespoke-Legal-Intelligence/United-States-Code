@@ -124,7 +124,7 @@ Selection priorities.—In selecting eligible members of the armed forces to rec
 
 &emsp;&emsp;&emsp;(i) have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
 
-&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schoolsunder the jurisdiction of a local educational agency; and
+&emsp;&emsp;&emsp;(ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency; and
 
 &emsp;&emsp;(B) may give priority to members who agree to seek employment in a high-need school.
 
@@ -192,7 +192,7 @@ Reimbursement Under Certain Circumstances.—
 
 Reimbursement required.—A participant who is paid a stipend or bonus under this subsection shall be subject to the repayment provisions of section 373 of title 37 under the following circumstances:
 
-&emsp;&emsp;(A) The participant fails to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) or to obtain employment as an elementary school teacher, secondary school teacher, or career or technical teacher as required by the participation agreement under subsection (e)(1).
+&emsp;&emsp;(A) The participant fails to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) or toobtain employment as an elementary school teacher, secondary school teacher, or career or technical teacher as required by the participation agreement under subsection (e)(1).
 
 &emsp;&emsp;(B) The participant voluntarily leaves, or is terminated for cause from, employment as an elementary school teacher, secondary school teacher, or career or technical teacher during the three years of required service in violation of the participation agreement.
 

@@ -22,9 +22,7 @@ In order to address the serious problems described in subsection (a), the Presid
 
 (Pub. L. 87–195, pt. I, §117, formerly §118, as added Pub. L. 95–88, title I, §113(a), Aug. 3, 1977, 91 Stat. 537; amended Pub. L. 95–424, title I, §110, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title III, §307, Dec. 29, 1981, 95 Stat. 1533; renumbered §117 and amended Pub. L. 99–529, title III, §301(1), (2), Oct. 24, 1986, 100 Stat. 3014; Pub. L. 101–513, title V, §562(d)(4), Nov. 5, 1990, 104 Stat. 2031.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -42,6 +40,12 @@ Other sections 117 of Pub. L. 87–195, pt. I, were classified to section 2151o 
 
 <b>1978</b>—Pub. L. 95–424 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of this title.
@@ -49,10 +53,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
-
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Defending Economic Livelihoods and Threatened Animals
 
@@ -250,7 +250,7 @@ Location.—In determining whether to locate a TEAM in a country, the President,
 
 #### "SEC. 646. PROMOTION OF WATER QUALITY, WATER TREATMENT SYSTEMS, AND ENERGY EFFICIENCY.
 
-"Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality,water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
+"Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality, water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
 
 #### "SEC. 647. GRANTS FOR PREFEASIBILITY STUDIES WITHIN A DESIGNATED SUBREGION.
 
@@ -333,4 +333,10 @@ Exception.—In lieu of the termination date specified in subsection (a), the te
 "This subtitle shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 2002\]."
 
 \[For definition of "appropriate congressional committees" as used in subtitle D of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

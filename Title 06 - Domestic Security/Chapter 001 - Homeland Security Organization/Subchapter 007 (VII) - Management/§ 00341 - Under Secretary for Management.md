@@ -16,7 +16,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(6) Security for personnel, information technology and communications systems, facilities, property, equipment, and other material resources.
 
-&emsp;(7) Strategic management planning and annual performance planning and identificationand tracking of performance measures relating to the responsibilities of the Department.
+&emsp;(7) Strategic management planning and annual performance planning and identification and tracking of performance measures relating to the responsibilities of the Department.
 
 &emsp;(8) Grants and other assistance management programs.
 
@@ -28,7 +28,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;&emsp;(C) the development of effective program management and regular oversight mechanisms, including clear roles and processes for program governance, sharing of best practices, and access to timely, reliable, and evaluated data on all acquisitions and investments; and
 
-&emsp;&emsp;(D) the overall supervision, including the conduct of internal audits and management analyses, of the programs and activities of the Department, including establishment of oversight procedures to ensure a full and effective review of the efforts by components of the Department to implement policies and procedures of the Department for management integration and transformation.
+&emsp;&emsp;(D) the overall supervision, including the conduct of internal audits and management analyses, of the programs and activities of the Department, including establishment of oversight procedures to ensure a full and effective review of the efforts by components of the Department to implement policies andprocedures of the Department for management integration and transformation.
 
 &emsp;(10) The development of a transition and succession plan, before December 1 of each year in which a Presidential election is held, to guide the transition of Department functions to a new Presidential administration, and making such plan available to the next Secretary and Under Secretary for Management and to the congressional homeland security committees.
 
@@ -224,6 +224,8 @@ In this section, the term "interoperable communications" has the meaning given t
 
 (Pub. L. 107–296, title VII, §701, Nov. 25, 2002, 116 Stat. 2218; Pub. L. 110–53, title XXIV, §2405(a), (b), Aug. 3, 2007, 121 Stat. 548; Pub. L. 114–29, §3, July 6, 2015, 129 Stat. 421; Pub. L. 114–328, div. A, title XIX, §1903(b), Dec. 23, 2016, 130 Stat. 2673; Pub. L. 115–38, §2, June 6, 2017, 131 Stat. 855.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(5). Pub. L. 115–38, §2(1), inserted "vehicle fleets (under subsection (c))," after "equipment,".
@@ -248,9 +250,11 @@ Subsec. (d). Pub. L. 114–29, §3(2), added subsec. (d).
 
 Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: "Identification and tracking of performance measures relating to the responsibilities of the Department."
 
-Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
+Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensurean efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
 
 Subsec. (c). Pub. L. 110–53, §2405(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Appointment; Incumbent
 

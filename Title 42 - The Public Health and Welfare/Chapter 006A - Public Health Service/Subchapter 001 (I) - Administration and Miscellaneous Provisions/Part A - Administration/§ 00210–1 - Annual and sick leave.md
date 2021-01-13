@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
+In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Ready Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
 #### (b) Repealed. Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499
 
@@ -12,9 +12,11 @@ In accordance with regulations of the President, commissioned officers of the Re
 
 For purposes of this section the term "accumulated annual leave" means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term "accrued annual leave" means the annual leave accruing to an officer during one leave year.
 
-(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586.)
+(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586; Pub. L. 116–136, div. A, title III, §3214(e)(3), Mar. 27, 2020, 134 Stat. 373.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–136 substituted "Ready Reserve Corps" for "Reserve Corps".
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–76, repealed subsec. (c) which set forth limitations on granting of annual leave under subsec. (a) of this section.
 
@@ -34,23 +36,47 @@ Section effective July 1, 1950, see section 3(a) of act Aug. 9, 1950, set out as
 
 #### Transfer of Functions
 
-Functions of Public Health Service, of Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services bysection 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, of Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-#### Delegation of Functions
+#### Authorization To Accumulate Excess Annual Leave
 
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Pub. L. 116–159, div. C, title I, §2106, Oct. 1, 2020, 134 Stat. 729, provided that:
+
+"(a)
+
+In General.—Notwithstanding section 219 of the Public Health Service Act (42 U.S.C. 210–1), a commissioned officer of the Public Health Service who, except for this section, would lose at the end of the fiscal year 2020 accumulated annual leave in excess of 60 days, may retain such amounts of accumulated annual leave in excess of 60 days.
+
+"(b)
+
+Use of Excess Leave.—Annual leave retained pursuant to subsection (a) shall be lost unless it is used by the officer no later than September 30, 2023.
+
+"(c)
+
+Applicability.—This section shall not apply to an officer on terminal leave preceding separation, retirement, or release from active duty, as of the effective date specified in subsection (d).
+
+"(d)
+
+Effective Date.—This section shall become effective on the earlier of—
+
+&emsp;"(1) the date of the enactment of this Act \[Oct. 1, 2020\]; or
+
+&emsp;"(2) September 30, 2020."
 
 #### Compensation for Prior Accumulated and Accrued Leave; Limitation; Inapplicable to Officers on Terminal Leave Prior to July 1, 1950
 
-Section 3(b), (c) of act Aug. 9, 1950, provided that any officer credited with more than sixty days of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
+Act Aug. 9, 1950, ch. 654, §3(b), (c), 64 Stat. 426, 427, provided that any officer credited with more than sixty days of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
 
 #### Availability of Funds
 
-Section 4 of act Aug. 9, 1950, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
+Act Aug. 9, 1950, ch. 654, §4, 64 Stat. 427, provided for the availability of funds for payment of compensation for prior accumulated and accrued leave for any officer under section 3 of this Act.
 
 #### Leave Regulations
 
 Act Aug. 9, 1950, ch. 654, §5, 64 Stat. 427, provided that: "Except insofar as the provisions of this Act \[enacting this section, amending section 210 of this title, and enacting provisions set out as notes under this section and section 210 of this title\] are inconsistent therewith, leave regulations adopted prior to the enactment of this Act \[Aug. 9, 1950\], pursuant to the Public Health Service Act \[42 U.S.C. 201 et seq.\], shall remain in effect until repealed, amended, or superseded."
+
+#### Delegation of Functions
+
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 <i><sup>1</sup></i><i> See 1962 Amendment note below.</i>
 

@@ -48,6 +48,8 @@ Not later than one year after June 26, 2008, the Secretary of Homeland Security 
 
 (Pub. L. 110–251, §2, June 26, 2008, 122 Stat. 2319.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Kendell Frederick Citizenship Assistance Act, and not as part of the Immigration and Nationality Act which comprises this chapter.

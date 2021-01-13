@@ -6,7 +6,7 @@ In the case of any applicable program in which Federal funds are made available 
 
 &emsp;(1) for periodic visits by State personnel of programs administered by local agencies to determine whether such programs are being conducted in accordance with such requirements;
 
-&emsp;(2) for periodic audits of expenditures under such programs by auditors of the State or other auditors not under the control, direction, or supervision of the local educational agency; and
+&emsp;(2) for periodic audits of expenditures under such programs by auditors of the State orother auditors not under the control, direction, or supervision of the local educational agency; and
 
 &emsp;(3) that the State investigate and resolve all complaints received by the State, or referred to the State by the Secretary, relating to the administration of such programs.
 

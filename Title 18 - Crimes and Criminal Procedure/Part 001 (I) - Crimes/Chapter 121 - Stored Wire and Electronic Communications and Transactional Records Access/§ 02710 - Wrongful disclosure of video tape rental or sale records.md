@@ -38,7 +38,7 @@ Video Tape Rental and Sale Records.—(1) A video tape service provider who know
 
 &emsp;&emsp;(i) the video tape service provider has provided the consumer with the opportunity, in a clear and conspicuous manner, to prohibit such disclosure; and
 
-&emsp;&emsp;(ii) the disclosure does not identify the title, description, or subject matter of any video tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is for the exclusive use of marketing goods and services directly to the consumer;
+&emsp;&emsp;(ii) the disclosure does not identify the title, description, or subject matter of anyvideo tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is for the exclusive use of marketing goods and services directly to the consumer;
 
 &emsp;(E) to any person if the disclosure is incident to the ordinary course of business of the video tape service provider; or
 
@@ -50,7 +50,7 @@ Video Tape Rental and Sale Records.—(1) A video tape service provider who know
 
 > If an order is granted pursuant to subparagraph (C) or (F), the court shall impose appropriate safeguards against unauthorized disclosure.
 
-(3) Court orders authorizing disclosure under subparagraph (C) shall issue only with prior notice to the consumer and only if the law enforcement agency shows that there is probable causeto believe that the records or other information sought are relevant to a legitimate law enforcement inquiry. In the case of a State government authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the video tape service provider, may quash or modify such order if the information or records requested are unreasonably voluminous in nature or if compliance with such order otherwise would cause an unreasonable burden on such provider.
+(3) Court orders authorizing disclosure under subparagraph (C) shall issue only with prior notice to the consumer and only if the law enforcement agency shows that there is probable cause to believe that the records or other information sought are relevant to a legitimate law enforcement inquiry. In the case of a State government authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the video tape service provider, may quash or modify such order if the information or records requested are unreasonably voluminous in nature or if compliance with such order otherwise would cause an unreasonable burden on such provider.
 
 (c)
 
@@ -83,6 +83,8 @@ Destruction of Old Records.—A person subject to this section shall destroy per
 Preemption.—The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
 
 (Added Pub. L. 100–618, §2(a)(2), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 112–258, §2, Jan. 10, 2013, 126 Stat. 2414.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

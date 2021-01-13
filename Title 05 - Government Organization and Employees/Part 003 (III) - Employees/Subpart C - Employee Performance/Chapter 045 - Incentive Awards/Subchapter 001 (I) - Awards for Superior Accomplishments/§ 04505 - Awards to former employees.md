@@ -22,9 +22,13 @@ The words "or grant" are added for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 substituted "subchapter" for "chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

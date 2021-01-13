@@ -38,7 +38,7 @@ As used in this part:
 
 &emsp;&emsp;(iii) a Navajo Community College under the Navajo Community College Act.
 
-&emsp;(D) Notwithstanding the first sentence of subparagraph (A), the Secretary shall restore the eligibility to participate in a program under subpart 1 of part A, part B, or part E of an institution that did not appeal its loss of eligibility within 30 days of receiving notification if the Secretary determines, on a case-by-case basis, that the institution's failure to appeal was substantially justified under the circumstances, and that—
+&emsp;(D) Notwithstanding the first sentence of subparagraph (A), the Secretary shall restore the eligibility to participate in a programunder subpart 1 of part A, part B, or part E of an institution that did not appeal its loss of eligibility within 30 days of receiving notification if the Secretary determines, on a case-by-case basis, that the institution's failure to appeal was substantially justified under the circumstances, and that—
 
 &emsp;&emsp;(i) the institution made a timely request that the appropriate guaranty agency correct errors in the draft data used to calculate the institution's cohort default rate;
 
@@ -48,7 +48,7 @@ As used in this part:
 
 #### (3) Appeals for regulatory relief
 
-&emsp;An institution whose cohort default rate, calculated in accordance with subsection (m),is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) for any two consecutive fiscal years may, not later than 30 days after the date the institution receives notification from the Secretary, file an appeal demonstrating exceptional mitigating circumstances, as defined in paragraph (5). The Secretary shall issue a decision on any such appeal not later than 45 days after the date of submission of the appeal. If the Secretary determines that the institution demonstrates exceptional mitigating circumstances, the Secretary may not subject the institution to provisional certification based solely on the institution's cohort default rate.
+&emsp;An institution whose cohort default rate, calculated in accordance with subsection (m), is equal to or greater than the threshold percentage specified in paragraph (2)(B)(iv) for any two consecutive fiscal years may, not later than 30 days after the date the institution receives notification from the Secretary, file an appeal demonstrating exceptional mitigating circumstances, as defined in paragraph (5). The Secretary shall issue a decision on any such appeal not later than 45 days after the date of submission of the appeal. If the Secretary determines that the institution demonstrates exceptional mitigating circumstances, the Secretary may not subject the institution to provisional certification based solely on the institution's cohort default rate.
 
 #### (4) Appeals based upon allegations of improper loan servicing
 
@@ -156,7 +156,7 @@ As used in this part:
 
 #### (A) In general
 
-&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 monthsimmediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
+&emsp;&emsp;An institution that demonstrates to the Secretary that the institution's participation rate index is equal to or less than 0.0625 for any of the 3 most recent fiscal years for which data is available shall not be subject to paragraph (2). The participation rate index shall be determined by multiplying the institution's cohort default rate for loans under this part or part D, or weighted average cohort default rate for loans under this part and part D, by the percentage of the institution's regular students, enrolled on at least a half-time basis, who received a loan made under this part or part D for a 12-month period ending during the 6 months immediately preceding the fiscal year for which the cohort of borrowers used to calculate the institution's cohort default rate is determined.
 
 #### (B) Data
 
@@ -220,7 +220,7 @@ As used in this part:
 
 &emsp;&emsp;&emsp;(iv) shall award any contract for financing, servicing, or administration of loans under this subchapter on a competitive basis;
 
-&emsp;&emsp;&emsp;(v) shall offer loans that carry an origination fee or an interest rate, or both, thatare less than such fee or rate authorized under the provisions of this subchapter;
+&emsp;&emsp;&emsp;(v) shall offer loans that carry an origination fee or an interest rate, or both, that are less than such fee or rate authorized under the provisions of this subchapter;
 
 &emsp;&emsp;&emsp;(vi) shall not have a cohort default rate (as defined in subsection (m)) greater than 10 percent;
 
@@ -262,11 +262,11 @@ As used in this part:
 
 &emsp;&emsp;(C) entered into any type of consulting arrangement, or other contract to provide services to a lender, with an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution;
 
-&emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisory board, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
+&emsp;&emsp;(D) compensated an employee who is employed in the financial aid office of an institution of higher education, or who otherwise has responsibilities with respect to student loans or other financial aid of the institution, and who is serving on an advisoryboard, commission, or group established by a lender or group of lenders for providing such service, except that the eligible lender may reimburse such employee for reasonable expenses incurred in providing such service;
 
 &emsp;&emsp;(E) performed for an institution of higher education any function that such institution of higher education is required to perform under this title, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
 
-&emsp;&emsp;(F) paid, on behalf of an institution of higher education, another person to perform any function that such institution of higher education is required to perform under this subchapter, except that a lender shall be permitted to perform functions on behalf ofsuch institution in accordance with section 1092(b) or 1092(l) of this title;
+&emsp;&emsp;(F) paid, on behalf of an institution of higher education, another person to perform any function that such institution of higher education is required to perform under this subchapter, except that a lender shall be permitted to perform functions on behalf of such institution in accordance with section 1092(b) or 1092(l) of this title;
 
 &emsp;&emsp;(G) provided payments or other benefits to a student at an institution of higher education to act as the lender's representative to secure applications under this subchapter from individual prospective borrowers, unless such student—
 
@@ -338,7 +338,7 @@ The term "insurance beneficiary" means the insured or its authorized representat
 
 #### (l) Default
 
-Except as provided in subsection (m), the term "default" includes only such defaults as haveexisted for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
+Except as provided in subsection (m), the term "default" includes only such defaults as have existed for (1) 270 days in the case of a loan which is repayable in monthly installments, or (2) 330 days in the case of a loan which is repayable in less frequent installments.
 
 #### (m) Cohort default rate
 
@@ -366,7 +366,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (4) Collection and reporting of cohort default rates and life of cohort default rates
 
-&emsp;(A) The Secretary shall publish not less often than once every fiscal year a report showing cohort default data and life of cohort default rates for each category of institution, including: (i) four-year public institutions; (ii) four-year private nonprofit institutions; (iii) two-year public institutions; (iv) two-year private nonprofit institutions; (v) four-year proprietary institutions; (vi) two-year proprietary institutions; and (vii) less than two-year proprietary institutions. For purposes of this subparagraph, for any fiscal year in which one or more current and former students at an institution enter repayment on loans under section 1078, 1078–2, or 1078–8 of this title, received for attendance at the institution, the Secretary shall publish the percentage of those current and former students who enter repayment on such loans (or on the portion of a loanmade under section 1078–3 of this title that is used to repay any such loans) received for attendance at the institution in that fiscal year who default before the end of each succeeding fiscal year.
+&emsp;(A) The Secretary shall publish not less often than once every fiscal year a report showing cohort default data and life of cohort default rates for each category of institution, including: (i) four-year public institutions; (ii) four-year private nonprofit institutions; (iii) two-year public institutions; (iv) two-year private nonprofit institutions; (v) four-year proprietary institutions; (vi) two-year proprietary institutions; and (vii) less than two-year proprietary institutions. For purposes of this subparagraph, for any fiscal year in which one or more current and former students at an institution enter repayment on loans under section 1078, 1078–2, or 1078–8 of this title, received for attendance at the institution, the Secretary shall publish the percentage of those current and former students who enter repayment on such loans (or on the portion of a loan made under section 1078–3 of this title that is used to repay any such loans) received for attendance at the institution in that fiscal year who default before the end of each succeeding fiscal year.
 
 &emsp;(B) The Secretary may designate such additional subcategories within the categories specified in subparagraph (A) as the Secretary deems appropriate.
 
@@ -432,7 +432,7 @@ Except as provided in subsection (m), the term "default" includes only such defa
 
 #### (ii) Trustees
 
-&emsp;&emsp;&emsp;A trustee described in paragraph (1)(D) shall not be an eligible not-for-profit holder under this chapter with respect to a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection\(d), if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
+&emsp;&emsp;&emsp;A trustee described in paragraph (1)(D) shall not be an eligible not-for-profit holder under this chapter with respect to a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C) of paragraph (1), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d), if such State, political subdivision, authority, agency, instrumentality, or other entity is owned or controlled, in whole or in part, by a for-profit entity.
 
 #### (C) Sole ownership of loans and income
 
@@ -530,7 +530,7 @@ Subsec. (m)(4)(A). Pub. L. 110–315, §436(e)(1)(C)(ii), amended subpar. (A) ge
 
 <b>2007</b>—Subsec. (o)(1)(A)(ii). Pub. L. 110–84, §304(1)(A), substituted "150 percent of the poverty line applicable to the borrower's family size" for "100 percent of the poverty line for a family of 2" and inserted "or" after semicolon at end.
 
-Subsec. (o)(1)(B), (C). Pub. L. 110–84, §304(1)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "such borrower is working full-time and has a Federal educational debt burden that equals or exceeds 20 percent of such borrower's adjusted gross income, and the difference between such borrower's adjusted gross income minus such burden is less than 220 percent of the greater of—
+Subsec. (o)(1)(B), (C). Pub. L. 110–84, §304(1)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "such borrower is working full-time and has a Federal educational debt burdenthat equals or exceeds 20 percent of such borrower's adjusted gross income, and the difference between such borrower's adjusted gross income minus such burden is less than 220 percent of the greater of—
 
 &emsp;"(i) the annual earnings of an individual earning the minimum wage under section 206 of title 29; or
 
@@ -684,7 +684,7 @@ Subsec. (n). Pub. L. 102–325, §427(f), struck out subsec. (n) which related t
 
 Subsec. (o). Pub. L. 102–325, §416(e)(2), added subsec. (o).
 
-<b>1991</b>—Subsec. (c)(1). Pub. L. 102–26 substituted "or who are beyond the age of compulsory school attendance in the State in which the institution is located" for "and who have the ability to benefit (as determined by the institution under section 1088(d) of this title) from the training offered by such institution;".
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–26 substituted "or who are beyond the age of compulsory school attendance in the State in which the institution is located"for "and who have the ability to benefit (as determined by the institution under section 1088(d) of this title) from the training offered by such institution;".
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–508 added par. (3).
 
@@ -766,7 +766,7 @@ Pub. L. 102–26, §2(d)(1), Apr. 9, 1991, 105 Stat. 124, provided that: "The am
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title III, §3004(d), Nov. 5, 1990, 104 Stat. 1388–27, provided that: "The amendments made by this section \[amending this section, section 1078 of this title, and provisions set out as a note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made by subsection (b) \[amending section 1078 of this title\] shall be effective upon enactment."
+Pub. L. 101–508, title III, §3004(d), Nov. 5, 1990, 104 Stat. 1388–27, provided that: "The amendments made bythis section \[amending this section, section 1078 of this title, and provisions set out as a note under section 1078–1 of this title\] shall be effective July 1, 1991, except that the amendment made by subsection (b) \[amending section 1078 of this title\] shall be effective upon enactment."
 
 #### Effective Date of 1987 Amendment
 
@@ -798,7 +798,7 @@ Applicability.—Subsection (a) shall apply to an institution of higher educatio
 
 "(c)
 
-Coverage.—This section shall be in effect for the period covered by this Act \[div. H of Pub. L. 114–141, 132 Stat. 696\] and for the succeeding fiscal year."
+Coverage.—This section shall be in effect for the period covered by this Act \[div. H of Pub. L. 115–141, 132 Stat. 696\] and for the succeeding fiscal year."
 
 #### Definition of Institution of Higher Education
 

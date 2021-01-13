@@ -16,7 +16,7 @@ Annually through September 30, 2023, the President shall conduct a confidential 
 
 The Inspector General of the Peace Corps shall—
 
-&emsp;(1) submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on ForeignAffairs and the Committee on Appropriations of the House of Representatives—
+&emsp;(1) submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives—
 
 &emsp;&emsp;(A) a report, not later than one year after November 21, 2011, and biennially through September 30, 2018, on reports received from volunteers relating to misconduct, mismanagement, or policy violations of Peace Corps staff, any breaches of the confidentiality of volunteers, and any actions taken to assure the safety of volunteers who provide such reports;
 
@@ -49,6 +49,8 @@ The Inspector General of the Peace Corps shall—
 &emsp;Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
 
 (Pub. L. 87–293, title I, §8E, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title II, §202, Oct. 9, 2018, 132 Stat. 3654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

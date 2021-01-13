@@ -14,7 +14,7 @@ Offeror for prime contract.—An offeror for a prime contract under this divisio
 
 &emsp;(2)
 
-Contractor.—The contractor for a prime contract under this division shall be requiredto submit cost or pricing data before the pricing of a change or modification to the contract if—
+Contractor.—The contractor for a prime contract under this division shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
 
 &emsp;&emsp;(A) in the case of a change or modification made to a prime contract referred to in paragraph (1)(A), the price adjustment is expected to exceed $2,000,000;
 
@@ -85,6 +85,8 @@ Historical and Revision Notes
 41:254b(a).
 
 June 30, 1949, ch. 288, title III, §304A(a), as added Pub. L. 103–355, title I, §1251(a)(2), Oct. 13, 1994, 108 Stat. 3278; Pub. L. 105–261, div. A, title VIII, §805(b), Oct. 17, 1998, 112 Stat. 2083.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

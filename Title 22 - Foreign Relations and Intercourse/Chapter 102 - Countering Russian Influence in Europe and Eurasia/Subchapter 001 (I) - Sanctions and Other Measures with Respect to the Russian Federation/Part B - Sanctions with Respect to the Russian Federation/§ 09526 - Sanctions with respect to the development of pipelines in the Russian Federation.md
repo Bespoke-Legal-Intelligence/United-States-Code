@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President, in coordination with allies of the United States, may impose five or more of the sanctions described in section 9529 of this title with respect to a person if the President determines that the person knowingly, on or after August 2, 2017, makes an investment described in subsection (b) or sells, leases, or provides to the Russian Federation, for the construction of Russian energy export pipelines,goods, services, technology, information, or support described in subsection (c)—
+The President, in coordination with allies of the United States, may impose five or more of the sanctions described in section 9529 of this title with respect to a person if the President determines that the person knowingly, on or after August 2, 2017, makes an investment described in subsection (b) or sells, leases, or provides to the Russian Federation, for the construction of Russian energy export pipelines, goods, services, technology, information, or support described in subsection (c)—
 
 &emsp;(1) any of which has a fair market value of $1,000,000 or more; or
 
@@ -18,9 +18,11 @@ Goods, services, technology, information, or support described in this subsectio
 
 (Pub. L. 115–44, title II, §232, Aug. 2, 2017, 131 Stat. 917.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Protecting Europe's Energy Security
 
-Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, provided that:
+Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended by Pub. L. 116–283, div. A, title XII, §1242(a)–(e), Jan. 1, 2021, 134 Stat. 3945–3947, provided that:
 
 #### "SEC. 7501. SHORT TITLE.
 
@@ -50,13 +52,21 @@ Report Required.—
 
 In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 20, 2019\], and every 90 days thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report that identifies, for the period specified in paragraph (2)—
 
-&emsp;&emsp;"(A) vessels that engaged in pipe-laying at depths of 100 feet or more below sea level for the construction of the Nord Stream 2 pipeline project, the TurkStream pipeline project, or any project that is a successor to either such project; and
+&emsp;&emsp;"(A) vessels that engaged in pipe-laying or pipe-laying activities at depths of 100 feet or more below sea level for the construction of the Nord Stream 2pipeline project, the TurkStream pipeline project, or any project that is a successor to either such project;
 
 &emsp;&emsp;"(B) foreign persons that the Secretary of State, in consultation with the Secretary of the Treasury, determines have knowingly—
 
-&emsp;&emsp;&emsp;"(i) sold, leased, or provided those vessels for the construction of such a project; or
+&emsp;&emsp;&emsp;"(i) sold, leased, or provided, or facilitated selling, leasing, or providing, those vessels for the construction of such a project;
 
-&emsp;&emsp;&emsp;"(ii) facilitated deceptive or structured transactions to provide those vessels for the construction of such a project.
+&emsp;&emsp;&emsp;"(ii) facilitated deceptive or structured transactions to provide those vessels for the construction of such a project;
+
+&emsp;&emsp;&emsp;"(iii) provided for those vessels underwriting services or insurance or reinsurance necessary or essential for the completion of such a project;
+
+&emsp;&emsp;&emsp;"(iv) provided services or facilities for technology upgrades or installation of welding equipment for, or retrofitting or tethering of, those vessels if the services or facilities are necessary or essential for the completion of such a project; or
+
+&emsp;&emsp;&emsp;"(v) provided services for the testing, inspection, or certification necessary or essential for the completion or operation of the Nord Stream 2 pipeline; and
+
+&emsp;&emsp;"(C) the consultations carried out pursuant to subsection (i) and describes the nature of the consultations and any concerns raised by the government of Norway, Switzerland, the United Kingdom, or any member country of the European Union.
 
 &emsp;"(2)
 
@@ -128,7 +138,7 @@ Exception for intelligence, law enforcement, and national security activities.�
 
 &emsp;"(2)
 
-Exception to comply with united nations headquarters agreement.—Sanctions under this section shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States tocomply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
+Exception to comply with united nations headquarters agreement.—Sanctions under this section shall not apply with respect to the admission of an alien to the United States if the admission of the alien is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other applicable international obligations.
 
 &emsp;"(3)
 
@@ -150,25 +160,23 @@ In general.—Notwithstanding any other provision of this section, the authoriti
 
 Good defined.—In this paragraph, the term 'good' means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
+&emsp;"(6)
+
+Exception for certain governments and governmental entities.—Sanctions under this section shall not apply with respect to—
+
+&emsp;&emsp;"(A) the European Union;
+
+&emsp;&emsp;"(B) the government of Norway, Switzerland, the United Kingdom, or any member country of the European Union; or
+
+&emsp;&emsp;"(C) any entity of the European Union or a government described in subparagraph (B) that is not operating as a business enterprise.
+
 "(f)
 
-Waivers.—
+National Interest Waiver.—The President may waive the application of sanctions under this section with respect to a person if the President—
 
-&emsp;"(1)
+&emsp;"(1) determines that the waiver is in the national interests of the United States; and
 
-National interest waiver for visa ban.—The President may waive the application of sanctions under subsection (b) with respect to an alien if the President—
-
-&emsp;&emsp;"(A) determines that the waiver is in the national interests of the United States; and
-
-&emsp;&emsp;"(B) submits to the appropriate congressional committees a report on the waiver and the reasons for the waiver.
-
-&emsp;"(2)
-
-National security waiver for economic and other sanctions.—The President may waive the application of sanctions under subsection (c) with respect to a person if the President—
-
-&emsp;&emsp;"(A) determines that the waiver is in the national security interests of the United States; and
-
-&emsp;&emsp;"(B) submits to the appropriate congressional committees a report on the waiver and the reasons for the waiver.
+&emsp;"(2) submits to the appropriate congressional committees a report on the waiver and the reasons for the waiver.
 
 "(g)
 
@@ -180,7 +188,7 @@ Implementation.—The President may exercise all authorities provided to the Pre
 
 &emsp;"(2)
 
-Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violationof this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 "(h)
 
@@ -195,6 +203,20 @@ Termination and Sunset.—The authority to impose sanctions under this section w
 &emsp;"(2) the date that is 5 years after the date of the enactment of this Act \[Dec. 20, 2019\].
 
 "(i)
+
+Consultations.—Before imposing sanctions under this section, the Secretary of State shall consult with the relevant governments of Norway, Switzerland, the United Kingdom, and member countries of the European Union with respect to the imposition of such sanctions.
+
+"(j)
+
+Report on Impact of Sanctions.—Not later than one year after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Jan. 1, 2021\], and annually thereafter until all sanctions imposed under this section have terminated under subsection (h), the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report detailing the impact of the imposition of sanctions under this section that includes information on—
+
+&emsp;"(1) whether the goals of the sanctions have been met;
+
+&emsp;"(2) the diplomatic impact of the sanctions, including on relationships with the governments of Norway, Switzerland, the United Kingdom, and member countries of the European Union; and
+
+&emsp;"(3) the economic impact of the sanctions, including the impact on United States persons.
+
+"(k)
 
 Definitions.—In this section:
 
@@ -220,6 +242,10 @@ Knowingly.—The term 'knowingly', with respect to conduct, a circumstance, or a
 
 &emsp;"(5)
 
+Pipe-laying activities.—The term 'pipe-laying activities' means activities that facilitate pipe-laying, including site preparation, trenching, surveying, placing rocks, backfilling, stringing, bending, welding, coating, and lowering of pipe.
+
+&emsp;"(6)
+
 United states person.—The term 'United States person' means—
 
 &emsp;&emsp;"(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States;
@@ -227,4 +253,8 @@ United states person.—The term 'United States person' means—
 &emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
 
 &emsp;&emsp;"(C) any person within the United States."
+
+\[Pub. L. 116–283, div. A, title XII, §1242(f), Jan. 1, 2021, 134 Stat. 3947, provided that: "The President may not impose sanctions with respect to a person identified in the first report submitted under section 7503(a) of the Protecting Europe's Energy Security Act of 2019 \[set out above\], as amended by this section, after the date of the enactment of this Act \[Jan. 1, 2021\] for operations subject to sanctions by reason of the amendments made by this section \[amending section 7503 of Pub. L. 116–92, set out above\] if the President certifies in that report that the person has, not later than 30 days after such date of enactment, engaged in good faith efforts to wind down such operations."\]
+
+\[Functions and authorities of President under sections 7503(d), (f), and (h) of Pub. L. 116–92, set out above, delegated to Secretary of State, in consultation with the Secretary of the Treasury, and under sections 7503(c) and (g) of Pub. L. 116–92 to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(a)(i)–(iii) and (b)(i), (ii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.\]
 

@@ -2,7 +2,7 @@
 
 #### (a) Period of registration
 
-(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordancewith the rules and regulations promulgated by him.
+(1) Every person who manufactures or distributes any controlled substance or list I chemical, or who proposes to engage in the manufacture or distribution of any controlled substance or list I chemical, shall obtain annually a registration issued by the Attorney General in accordance with the rules and regulations promulgated by him.
 
 (2) Every person who dispenses, or who proposes to dispense, any controlled substance, shall obtain from the Attorney General a registration issued in accordance with the rules and regulations promulgated by him. The Attorney General shall, by regulation, determine the period of such registrations. In no event, however, shall such registrations be issued for less than one year nor for more than three years.
 
@@ -36,7 +36,7 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 #### (g) Delivery of controlled substances by ultimate users for disposal
 
-(1) An ultimate user who has lawfully obtained a controlled substance in accordance with this subchapter may, without being registered, deliver the controlled substance to another person for the purpose of disposal of the controlled substance if—
+(1) An ultimate user who has lawfully obtained a controlled substance in accordance with this subchapter may, without being registered, deliver the controlled substance to another personfor the purpose of disposal of the controlled substance if—
 
 &emsp;(A) the person receiving the controlled substance is authorized under this subchapter to engage in such activity; and
 
@@ -96,6 +96,8 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 (Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, §2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, §3222(a), Oct. 24, 2018, 132 Stat. 3948.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (b), (c), and (g)(1), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
@@ -119,6 +121,8 @@ Subsec. (c). Pub. L. 103–200, §3(b)(3), inserted "or list I chemical" after "
 Subsec. (e). Pub. L. 103–200, §3(b)(4), inserted "or list I chemicals" after "controlled substances".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -158,7 +162,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress 
 
 &emsp;&emsp;"(C) responsible adults are in a unique position to reduce teen access to prescription drugs because the drugs often are found in the home.
 
-&emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (oftencalled 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
+&emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
 &emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 

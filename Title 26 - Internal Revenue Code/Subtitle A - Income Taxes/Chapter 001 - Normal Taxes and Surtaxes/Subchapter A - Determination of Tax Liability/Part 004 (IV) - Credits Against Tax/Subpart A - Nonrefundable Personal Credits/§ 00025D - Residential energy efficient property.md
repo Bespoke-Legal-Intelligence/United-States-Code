@@ -10,9 +10,11 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;(3) the qualified fuel cell property expenditures,
 
-&emsp;(4) the qualified small wind energy property expenditures, and
+&emsp;(4) the qualified small wind energy property expenditures,
 
-&emsp;(5) the qualified geothermal heat pump property expenditures,
+&emsp;(5) the qualified geothermal heat pump property expenditures, and
+
+&emsp;(6) the qualified biomass fuel property expenditures, and
 
 > made by the taxpayer during such year.
 
@@ -64,6 +66,20 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
 
+#### (6) Qualified biomass fuel property expenditure
+
+#### (A) In general
+
+&emsp;&emsp;The term "qualified biomass fuel property expenditure" means an expenditure for property—
+
+&emsp;&emsp;&emsp;(i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+
+&emsp;&emsp;&emsp;(ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+
+#### (B) Biomass fuel
+
+&emsp;&emsp;For purposes of this section, the term "biomass fuel" means any plant-derived fuel available on a renewable or recurring basis.
+
 #### (e) Special rules
 
 For purposes of this section—
@@ -86,7 +102,7 @@ For purposes of this section—
 
 #### (A) Maximum expenditures for fuel cells
 
-&emsp;&emsp;The maximum amount of such expenditures which may be taken into accountunder subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
+&emsp;&emsp;The maximum amount of such expenditures which may be taken into account under subsection (a) by all such individuals with respect to such dwelling unit during such calendar year shall be $1,667 in the case of each half kilowatt of capacity of qualified fuel cell property (as defined in section 48(c)(1)) with respect to which such expenditures relate.
 
 #### (B) Allocation of expenditures
 
@@ -130,7 +146,7 @@ For purposes of this section—
 
 #### (f) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditurewith respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (g) Applicable percentage
 
@@ -138,17 +154,27 @@ For purposes of subsection (a), the applicable percentage shall be—
 
 &emsp;(1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-&emsp;(2) in the case of property placed in service after December 31, 2019, and before January 1, 2021, 26 percent, and
+&emsp;(2) in the case of property placed in service after December 31, 2019, and before January 1, 2023, 26 percent, and
 
-&emsp;(3) in the case of property placed in service after December 31, 2020, and before January 1, 2022, 22 percent.
+&emsp;(3) in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.
 
 #### (h) Termination
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2021.
+The credit allowed under this section shall not apply to property placed in service after December 31, 2023.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(6). Pub. L. 116–260, §148(b)(1), added par. (6).
+
+Subsec. (d)(6). Pub. L. 116–260, §148(b)(2), added par. (6).
+
+Subsec. (g)(2). Pub. L. 116–260, §148(a)(2)(A), substituted "January 1, 2023" for "January 1, 2021".
+
+Subsec. (g)(3). Pub. L. 116–260, §148(a)(2)(B), substituted "after December 31, 2022, and before January 1, 2024" for "after December 31, 2020, and before January 1, 2022".
+
+Subsec. (h). Pub. L. 116–260, §148(a)(1), substituted "December 31, 2023" for "December 31, 2021".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–123, §40402(b)(1), substituted "the sum of the applicable percentages of—", pars. (1) to (5), and concluding provisions for "the sum of—
 
@@ -228,6 +254,12 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 
 "(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §148(c)(1), Dec. 27, 2020, 134 Stat. 3056, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2020."
+
+Amendment by section 148(b) of Pub. L. 116–260 applicable to expenditures paid or incurred in taxable years beginning after Dec. 31, 2020, see section 148(c)(2) of div. EE of Pub. L. 116–260, set out as a note under section 25C of this title.
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. D, title I, §40402(c), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2016."
@@ -248,7 +280,7 @@ Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provi
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable totaxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
+Amendment by Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2007, except that amendment by section 106(b) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 106(f)(1), (2) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 23 of this title.
 
 #### Effective and Termination Dates of 2005 Amendment
 

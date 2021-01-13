@@ -10,9 +10,13 @@ Based on Title 35, U.S.C., 1946 ed., §11a (May 9, 1938, ch. 188, 52 Stat. 342).
 
 This is a criminal statute. The language has been considerably simplified and the upper limit of the penalty is increased.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

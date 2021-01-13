@@ -12,7 +12,7 @@
 
 (4) In carrying out such research program, the Secretary shall act in cooperation with the entities described in section 7302(d) of this title.
 
-(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such researchavailable to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
+(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
 (c)(1) In conducting or supporting clinical research, the Secretary shall ensure that, whenever possible and appropriate—
 
@@ -34,6 +34,8 @@
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, §401(b), Dec. 6, 2003, 117 Stat. 2061.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b), is classified to section 764(b)(3) of Title 29, Labor.
@@ -49,6 +51,42 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 <b>1994</b>—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Use by Department of Veterans Affairs of Commercial Institutional Review Boards in Sponsored Research Trials
+
+Pub. L. 116–171, title VII, §704, Oct. 17, 2020, 134 Stat. 829, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs shall complete all necessary policy revisions within the directive of the Veterans Health Administration numbered 1200.05 and titled 'Requirements for the Protection of Human Subjects in Research', to allow sponsored clinical research of the Department of Veterans Affairs to use accredited commercial institutional review boards to review research proposal protocols of the Department.
+
+"(b)
+
+Identification of Review Boards.—Not later than 90 days after the completion of the policy revisions under subsection (a), the Secretary shall—
+
+&emsp;"(1) identify accredited commercial institutional review boards for use in connection with sponsored clinical research of the Department; and
+
+&emsp;"(2) establish a process to modify existing approvals in the event that a commercial institutional review board loses its accreditation during an ongoing clinical trial.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the completion of the policy revisions under subsection (a), and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on all approvals of institutional review boards used by the Department, including central institutional review boards and commercial institutional review boards.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include, at a minimum, the following:
+
+&emsp;&emsp;"(A) The name of each clinical trial with respect to which the use of an institutional review board has been approved.
+
+&emsp;&emsp;"(B) The institutional review board or institutional review boards used in the approval process for each clinical trial.
+
+&emsp;&emsp;"(C) The amount of time between submission and approval."
 
 #### Applicability to Fiscal Year 2002
 

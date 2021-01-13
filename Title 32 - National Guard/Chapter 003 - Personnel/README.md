@@ -29,6 +29,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §526(b), Oct. 17, 2006, 120 Stat. 2196, added item 328.
@@ -52,6 +54,8 @@
 <b>1961</b>—Pub. L. 87–378, §5(2), Oct. 4, 1961, 75 Stat. 808, inserted ", reenlistments, and extensions" in item 302.
 
 <b>1958</b>—Pub. L. 85–861, §2(8), Sept. 2, 1958, 72 Stat. 1544, added items 309 and 310.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Removal of Restrictions on the Transfer of Officers Between the Active and Inactive National Guard
 

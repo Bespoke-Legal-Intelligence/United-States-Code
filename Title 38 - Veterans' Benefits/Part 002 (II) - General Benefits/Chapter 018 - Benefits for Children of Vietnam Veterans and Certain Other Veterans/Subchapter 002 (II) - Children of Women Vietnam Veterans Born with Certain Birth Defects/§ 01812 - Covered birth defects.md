@@ -22,6 +22,8 @@ Limitations.—(1) The birth defects identified under subsection (a) may not inc
 
 (Added Pub. L. 106–419, title IV, §401(a), Nov. 1, 2000, 114 Stat. 1857.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1812 was renumbered section 3712 of this title.

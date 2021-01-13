@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 Section 7107 specifies that there is no time limit on the validity of a certificate of registry issued to a medical doctor or a professional nurse but is conditioned on the continuous possession of the appropriate license issued by a State.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–282 substituted "certificate of registry, whichever" for "merchant mariner's document, whichever".
@@ -30,11 +32,13 @@ Section 7107 specifies that there is no time limit on the validity of a certific
 
 <b>1990</b>—Pub. L. 101–380 substituted "is valid for 5 years and may be renewed for additional 5-year periods" for "is not limited in duration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 
 #### Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
 
-For provisions that a certificate of registry issued before Aug. 18, 1990, terminates on the day it would have expired if the amendment to this section by Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
+For provisions that a certificate of registry issued before Aug. 18, 1990, terminates on the day it would haveexpired if the amendment to this section by Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
 

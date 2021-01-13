@@ -149,6 +149,8 @@
 | [<b>97.</b>](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md) | <b>Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific</b> | <b>7801</b> |
 | [<b>98.</b>](Chapter%20098%20-%20Sportsmen%27s%20Access%20to%20Federal%20Land/README.md) | <b>Sportsmen's Access to Federal Land</b> | <b>7901</b> |
 | [<b>99.</b>](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md) | <b>Maritime Security and Fisheries Enforcement</b> | <b>8001</b> |
+| [<b>100.</b>](Chapter%20100%20-%20Nutria%20Eradication%20and%20Control/README.md) | <b>Nutria Eradication and Control</b> | <b>8101</b> |
+| [<b>101.</b>](Chapter%20101%20-%20National%20Fish%20Habitat%20Conservation%20Through%20Partnerships/README.md) | <b>National Fish Habitat Conservation Through Partnerships</b> | <b>8201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -303,3 +305,5 @@
 - [Chapter 097 - Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific](Chapter%20097%20-%20Convention%20on%20the%20Conservation%20and%20Management%20of%20High%20Seas%20Fishery%20Resources%20in%20the%20South%20Pacific/README.md)
 - [Chapter 098 - Sportsmen's Access to Federal Land](Chapter%20098%20-%20Sportsmen%27s%20Access%20to%20Federal%20Land/README.md)
 - [Chapter 099 - Maritime Security and Fisheries Enforcement](Chapter%20099%20-%20Maritime%20Security%20and%20Fisheries%20Enforcement/README.md)
+- [Chapter 100 - Nutria Eradication and Control](Chapter%20100%20-%20Nutria%20Eradication%20and%20Control/README.md)
+- [Chapter 101 - National Fish Habitat Conservation Through Partnerships](Chapter%20101%20-%20National%20Fish%20Habitat%20Conservation%20Through%20Partnerships/README.md)

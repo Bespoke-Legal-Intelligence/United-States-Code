@@ -36,9 +36,11 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–183, title II, §§211(a), 212(a), Dec. 16, 2003, 117 Stat. 2657; Pub. L. 111–275, title V, §502(d)(1), Oct. 13, 2010, 124 Stat. 2882.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14 of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
+Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
 Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans' Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
@@ -66,7 +68,7 @@ Subsec. (d)(2). Pub. L. 108–183, §212(a)(4), inserted "or whose service is de
 
 Subsecs. (c), (d). Pub. L. 107–14, §8(a)(1)(B), (C), redesignated subsec. (c) relating to the inapplicability of the second sentence of subsec. (a) to an individual described in paragraph (2) as (d) and substituted "With respect to benefits under chapter 23 of this title, in" for "In" in par. (1).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of "Subject to subsection (c), payments" for "Payments", could not be executed because"Payments" did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
+<b>2000</b>—Subsec. (a). Pub. L. 106–419, §332(a)(1), which directed substitution of "Subject to subsection (c), payments" for "Payments", could not be executed because "Payments" did not appear subsequent to the amendment by Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\]. See below.
 
 Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)(A)\], substituted "Except as provided in subsection (c), payments" for "Payments" in concluding provisions.
 
@@ -91,6 +93,8 @@ Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "ad
 <b>1966</b>—Pub. L. 89–641 increased the specified dollar/peso rate for payments from one peso for each dollar otherwise authorized to a rate in Philippine pesos equivalent to $0.50 for each dollar.
 
 <b>1961</b>—Pub. L. 87–268 substituted "section 412(a)" for "sections 412" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -120,7 +124,7 @@ Section 507(c) of Pub. L. 103–446 provided that: "The amendments made by this 
 
 #### Effective Date of 1966 Amendment
 
-Section 2(b) of Pub. L. 89–641 provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[Oct. 11, 1966\]."
+Section 2(b) of Pub. L. 89–641 provided that: "The amendments made by subsection (a) of this section\[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[Oct. 11, 1966\]."
 
 #### Effective Date of 1961 Amendment
 
@@ -148,7 +152,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(7) The benefits such veterans receive include service-connected compensation benefits paid under chapter 11 of title 38, United States Code, dependency indemnity compensation survivor benefits paid under chapter 13 of title 38, United States Code, and burial benefits under chapters 23 and 24 of title 38, United States Code, and such benefits are paid to beneficiaries at the rate of $0.50 per dollar authorized, unless they lawfully reside in the United States.
 
-&emsp;"(8) Dependents' educational assistance under chapter 35 of title 38, United States Code, is also payablefor the dependents of such veterans at the rate of $0.50 per dollar authorized, regardless of the veterans' residency.
+&emsp;"(8) Dependents' educational assistance under chapter 35 of title 38, United States Code, is also payable for the dependents of such veterans at the rate of $0.50 per dollar authorized, regardless of the veterans' residency.
 
 "(b)
 
@@ -234,7 +238,7 @@ Administration.—
 
 &emsp;"(1) The Secretary shall promptly issue application forms and instructions to ensure the prompt and efficient administration of the provisions of this section.
 
-&emsp;"(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and other provisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
+&emsp;"(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and otherprovisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
 
 "(k)
 

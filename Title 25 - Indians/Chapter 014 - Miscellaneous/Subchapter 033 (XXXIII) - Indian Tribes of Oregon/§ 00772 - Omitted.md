@@ -1,5 +1,7 @@
 ### §772. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 30, 1954, ch. 1085, §2, 68 Stat. 979, which authorized per capita payments to tribal members for certain judgments against the United States and exempted such payments from Federal tax, was omitted from the Code as being of special and not general application.

@@ -66,7 +66,7 @@ Sec. 6. <i>Encouraging the Development of an Artificial Kidney</i>. Within 120 d
 
 (b) produce a strategy for encouraging innovation in new therapies through the Kidney Innovation Accelerator (KidneyX), a public-private partnership between the Department and the American Society of Nephrology.
 
-Sec. 7. <i>Increasing Utilization of Available Organs</i>. (a) Within 90 days of the date of this order, the Secretary shall propose a regulation to enhance the procurement and utilization of organs available through deceased donation by revising Organ Procurement Organization (OPO) rules and evaluation metrics to establish more transparent, reliable, and enforceable objective metrics for evaluating an OPO's performance.
+Sec. 7. <i>Increasing Utilization of Available Organs</i>. (a) Within 90 days of the date of this order, the Secretary shall propose a regulation to enhance the procurement and utilization of organs available through deceased donation by revising Organ Procurement Organization (OPO) rules and evaluation metrics to establish moretransparent, reliable, and enforceable objective metrics for evaluating an OPO's performance.
 
 (b) Within 180 days of the date of this order, the Secretary shall streamline and expedite the process of kidney matching and delivery to reduce the discard rate. Removing process inefficiencies in matching and delivery that result in delayed acceptance by transplant centers will reduce the detrimental effects on organ quality of prolonged time with reduced or cut-off blood supply.
 

@@ -4,6 +4,8 @@ This chapter may be cited as the "Fair Labor Standards Act of 1938".
 
 (June 25, 1938, ch. 676, §1, 52 Stat. 1060.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–28, title VIII, §8101, May 25, 2007, 121 Stat. 188, provided that: "This subtitle \[subtitle A (§§8101–8104) of title VIII of Pub. L. 110–28, amending section 206 of this title, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under section 206 of this title\] may be cited as the 'Fair Minimum Wage Act of 2007'."
@@ -44,7 +46,7 @@ Pub. L. 93–259, §1(a), Apr. 8, 1974, 88 Stat. 55, provided that: "This Act \[
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: "That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the 'Fair Labor Standards Amendments of 1966'."
+Pub. L. 89–601, §1, Sept. 23, 1966, 80 Stat. 830, provided: "That this Act \[amending sections 203, 206, 207, 213, 214, 216, 218, and 255 of this title, and enacting provisions set out as notes under sections 207 and 214 of this title, section 1082 of former Title 5, Executive Departments and Government Officers and Employees, and section 2000e–14 of Title 42, The Public Health and Welfare\] may be cited as the 'Fair Labor Standards Amendments of 1966'."
 
 #### Short Title of 1963 Amendment
 

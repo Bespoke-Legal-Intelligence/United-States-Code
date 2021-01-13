@@ -60,7 +60,7 @@ For purposes of this section, the term "qualified debt instrument" means any deb
 
 &emsp;&emsp;(A) such amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 1988" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
 

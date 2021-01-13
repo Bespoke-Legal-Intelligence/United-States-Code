@@ -22,6 +22,8 @@
 
 (Added Pub. L. 104–201, div. A, title X, §1009(a)(2)(A), Sept. 23, 1996, 110 Stat. 2634, §673; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–213, title II, §217(11), Dec. 20, 2012, 126 Stat. 1558; renumbered §950, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 673 of this title as this section.
@@ -29,6 +31,8 @@
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–213 struck out "of Homeland Security (when the Coast Guard is not operating as a service in the Navy)" after "Secretary".
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

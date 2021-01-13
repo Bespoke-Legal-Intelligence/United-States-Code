@@ -1,5 +1,7 @@
 ### §644. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 91–264, §4, May 22, 1970, 84 Stat. 261, which affirmed bonds issued pursuant to this subchapter as valid and binding obligations, was omitted from the Code as being of special and not general application.

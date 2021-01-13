@@ -16,6 +16,8 @@ Words "upon conviction thereof" were omitted as unnecessary, since punishment ca
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
@@ -24,7 +26,9 @@ Minor changes were made in phraseology.
 
 <b>1953</b>—Subsec. (a). Act June 30, 1953, inserted "or defense activities" after "carrying on the war".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
-Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat.333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
+Act June 30, 1953, ch. 175, §7, 67 Stat. 134, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, formerly cited as credits to this section and also formerly set out as a note under this section.
 

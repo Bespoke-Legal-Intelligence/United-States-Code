@@ -58,6 +58,8 @@ Subsection (b) prohibits Federal pilot fees from being higher than those require
 
 Subsections (e) and (f) prescribe civil penalties for violation of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–383 substituted "not beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured" for "not on the high seas".
@@ -82,9 +84,13 @@ Subsec. (i). Pub. L. 101–595, §307(2), added subsec. (i).
 
 Subsec. (g). Pub. L. 98–557, §29(f)(2), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

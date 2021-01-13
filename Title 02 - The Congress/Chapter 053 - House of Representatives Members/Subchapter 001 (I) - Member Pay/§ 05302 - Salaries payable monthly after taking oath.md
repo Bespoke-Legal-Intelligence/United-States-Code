@@ -4,6 +4,8 @@ Each Member and Delegate, after he has taken and subscribed the required oath, i
 
 (R.S. §39.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 35 of this title prior to editorial reclassification and renumbering as this section.

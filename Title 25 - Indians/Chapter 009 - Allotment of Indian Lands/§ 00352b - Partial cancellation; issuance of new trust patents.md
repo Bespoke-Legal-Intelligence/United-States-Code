@@ -4,7 +4,9 @@ Where patents in fee have been issued for Indian allotments, during the trust pe
 
 (Feb. 26, 1927, ch. 215, §2, as added Feb. 21, 1931, ch. 271, 46 Stat. 1205.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of February 8, 1887, referred to in text, is popularly known as the Indian General Allotment Act. Forclassification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
+Act of February 8, 1887, referred to in text, is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
 

@@ -1,8 +1,10 @@
 ### §211a. Authority to grant, issue, and verify passports
 
-The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other person shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted for travel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
+The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other person shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted fortravel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
 
 (July 3, 1926, ch. 772, §1, 44 Stat. 887; Pub. L. 95–426, title I, §124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, §127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, §1(b), Oct. 25, 1994, 108 Stat. 4299.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -13,6 +15,8 @@ Pub. L. 103–415, §1(b)(2), which directed the amendment of this section by su
 Pub. L. 103–236 substituted "by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States," for "by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,".
 
 <b>1978</b>—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 
@@ -29,6 +33,8 @@ Pub. L. 100–202, §101(m) \[title VI, §622(b)\], Dec. 22, 1987, 101 Stat. 132
 #### Persons Entitled to Diplomatic or Official United States Passport
 
 Pub. L. 95–426, title I, §125, Oct. 7, 1978, 92 Stat. 971, provided that: "It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11295. Rules Governing Granting, Issuing, and Verifying of Passports
 

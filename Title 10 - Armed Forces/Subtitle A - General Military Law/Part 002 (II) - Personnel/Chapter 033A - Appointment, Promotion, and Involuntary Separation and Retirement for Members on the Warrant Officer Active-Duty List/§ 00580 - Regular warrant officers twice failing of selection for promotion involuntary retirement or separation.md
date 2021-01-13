@@ -1,6 +1,6 @@
 ### §580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation
 
-(a)(1) Unless retired or separated sooner under some other provision of law, a regular chief warrant officer who has twice failed of selection for promotion to the next higher regular warrant officer grade shall be retired under paragraph (2) or (3) or separated from active duty under paragraph (4).
+(a)(1) Unless retired or separated sooner under some other provision of law, a regular chief warrant officer who has twice failed of selection for promotion to the next higher regular warrantofficer grade shall be retired under paragraph (2) or (3) or separated from active duty under paragraph (4).
 
 (2) If a warrant officer described in paragraph (1) has more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired. The date of such retirement shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 

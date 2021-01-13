@@ -298,6 +298,8 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154; Pub. L. 115–52, title II, §203(f)(2)(A), Aug. 18, 2017, 131 Stat. 1015.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (c)(4)(A). Pub. L. 115–52 substituted "section 379j(g)" for "section 379j(h)".
@@ -316,9 +318,9 @@ Subsec. (d)(5), (6). Pub. L. 114–255, §3051(c)(1), redesignated par. (6) as (
 
 &emsp;"(D) the availability of which is in the best interest of the patients."
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144, §608(b)(1)(A), substituted "an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)" for "regulation promulgated under subsection (b)".
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–144, §608(b)(1)(A), substituted "an order issued under subsection (b) (or a regulation promulgated under such subsection prior toJuly 9, 2012)" for "regulation promulgated under subsection (b)".
 
-Subsec. (b). Pub. L. 112–144, §608(b)(1)(B)(i)(I), which directed substitution of "Order" for "Regulation" inthe heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 112–144, §608(b)(1)(B)(i)(I), which directed substitution of "Order" for "Regulation" in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 112–144, §608(b)(1)(B)(i)(II), in concluding provisions, substituted "by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5" for "by regulation, promulgated in accordance with this subsection" and inserted at end "Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner."
 
@@ -379,6 +381,8 @@ Subsec. (e). Pub. L. 101–629, §9(a)(2), inserted "and temporary suspension" a
 Subsec. (e)(3). Pub. L. 101–629, §9(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, §4(b)(1), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

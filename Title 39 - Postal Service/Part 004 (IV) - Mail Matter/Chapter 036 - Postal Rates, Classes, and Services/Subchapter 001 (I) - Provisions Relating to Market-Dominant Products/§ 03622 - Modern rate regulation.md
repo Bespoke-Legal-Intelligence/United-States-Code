@@ -134,7 +134,7 @@ Limitations.—In exercising the authority under clause (ii) in any year, the Po
 
 &emsp;(3)
 
-Review.—Ten years after the date of enactment of the Postal Accountability and Enhancement Act and as appropriate thereafter, the Commission shall review the system for regulating rates and classes for market-dominant products established under this section to determine if the system is achieving the objectives in subsection (b), taking into account the factors in subsection (c). If the Commission determines, after notice and opportunity for public comment, that the system is not achieving the objectives in subsection (b), taking into account the factors in subsection (c), the Commission may, by regulation, make such modification or adopt such alternative system for regulating rates and classes for market-dominant products as necessary to achieve the objectives.
+Review.—Ten years after the date of enactment of the Postal Accountability and Enhancement Act and as appropriate thereafter, the Commission shall review the system forregulating rates and classes for market-dominant products established under this section to determine if the system is achieving the objectives in subsection (b), taking into account the factors in subsection (c). If the Commission determines, after notice and opportunity for public comment, that the system is not achieving the objectives in subsection (b), taking into account the factors in subsection (c), the Commission may, by regulation, make such modification or adopt such alternative system for regulating rates and classes for market-dominant products as necessary to achieve the objectives.
 
 (e)
 
@@ -187,6 +187,8 @@ Report.—Whenever the Postal Service establishes a workshare discount rate, the
 Transition Rule.—For the 1-year period beginning on the date of enactment of this section, rates and classes for market-dominant products shall remain subject to modification in accordance with the provisions of this chapter and section 407, as such provisions were last in effect before the date of enactment of this section. Proceedings initiated to consider a request for a recommended decision filed by the Postal Service during that 1-year period shall be completed in accordance with subchapter II of chapter 36 of this title and implementing regulations, as in effect before the date of enactment of this section.
 
 (Added Pub. L. 109–435, title II, §201(a), Dec. 20, 2006, 120 Stat. 3201.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

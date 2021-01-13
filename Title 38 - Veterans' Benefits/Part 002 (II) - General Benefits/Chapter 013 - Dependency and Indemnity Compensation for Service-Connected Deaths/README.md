@@ -37,6 +37,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33, title VIII, §8031(b)(2), Aug. 5, 1997, 111 Stat. 669, added item 1303.
@@ -50,6 +52,8 @@
 <b>1976</b>—Pub. L. 94–433, §405(6), (8), Sept. 30, 1976, 90 Stat. 1379, substituted "surviving spouses" for "widows" in item 404 and "surviving spouse" for "widow" in item 411.
 
 <b>1969</b>—Pub. L. 91–96, §6, Oct. 27, 1969, 83 Stat. 145, substituted "Determination of pay grade" for "Computation of basic pay" in item 402 and "Certifications with respect to pay grade" for "Certifications with respect to basic pay" in item 421.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Uniformed Services, Promotion of Members in Missing Status; Effective Date
 

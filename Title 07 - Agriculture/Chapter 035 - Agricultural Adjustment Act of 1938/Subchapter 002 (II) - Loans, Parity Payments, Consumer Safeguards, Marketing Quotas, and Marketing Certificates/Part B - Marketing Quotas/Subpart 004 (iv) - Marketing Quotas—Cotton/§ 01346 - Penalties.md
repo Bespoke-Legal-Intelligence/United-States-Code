@@ -2,7 +2,7 @@
 
 (a) Whenever farm marketing quotas are in effect with respect to any crop of cotton, the producer shall be subject to a penalty on the farm marketing excess at a rate per pound equal to 50 per centum of the parity price per pound for cotton as of June 15 of the calendar year in which such crop is produced.
 
-(b) The farm marketing excess of cotton shall be regarded as available for marketing and the amount of penalty shall be computed upon the normal production of the acreage on the farm planted to cotton in excess of the farm acreage allotment. If a downward adjustment in the amount of the farm marketing excess is made pursuant to the proviso in section 1345 of this title, the difference between the amount of the penalty computed upon the farm marketing excess before such adjustment and as computed upon the adjusted farm marketing excess shall be returned to or allowed the producer.
+(b) The farm marketing excess of cotton shall be regarded as available for marketing and theamount of penalty shall be computed upon the normal production of the acreage on the farm planted to cotton in excess of the farm acreage allotment. If a downward adjustment in the amount of the farm marketing excess is made pursuant to the proviso in section 1345 of this title, the difference between the amount of the penalty computed upon the farm marketing excess before such adjustment and as computed upon the adjusted farm marketing excess shall be returned to or allowed the producer.
 
 (c) The person liable for payment or collection of the penalty shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
 

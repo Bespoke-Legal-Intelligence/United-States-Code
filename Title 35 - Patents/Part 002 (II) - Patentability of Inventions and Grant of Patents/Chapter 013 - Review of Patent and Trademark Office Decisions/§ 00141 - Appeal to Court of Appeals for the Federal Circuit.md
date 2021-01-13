@@ -24,6 +24,8 @@ Based on Title 35, U.S.C., 1946 ed., §59a (R.S. 4911, amended (1) Mar. 2, 1927,
 
 Changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, section related to appeals to the Court of Appeals for the Federal Circuit.
@@ -51,6 +53,8 @@ Pub. L. 98–622, §203(a)(3), reenacted last sentence with minor changes in wor
 <b>1982</b>—Pub. L. 97–164, §163(b)(2), substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals" in section catchline.
 
 Pub. L. 97–164, §163(a)(7), substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -104,7 +104,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 (5) The Secretary shall insure that—
 
-&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by the unit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
+&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by theunit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
 
 &emsp;(B) eligible neighborhood development activities comply with all applicable provisions of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\].
 
@@ -172,7 +172,7 @@ Subsec. (c)(3). Pub. L. 102–550, §832(f)(3), inserted before semicolon "and b
 
 Subsec. (e)(1). Pub. L. 102–550, §832(f)(4), inserted ", and from neighborhood development funding organizations," after "neighborhood".
 
-Subsec. (e)(3). Pub. L. 102–550, §832(b)(4), inserted before period ", except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization".
+Subsec. (e)(3). Pub. L. 102–550, §832(b)(4), inserted before period ", except that, if appropriations for thissection exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization".
 
 Subsec. (e)(5)(A). Pub. L. 102–550, §832(c), substituted "comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title" for "housing and community development plans of such unit".
 

@@ -50,7 +50,7 @@ A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as adde
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

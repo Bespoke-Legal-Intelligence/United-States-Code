@@ -40,7 +40,9 @@ Limitations for capital projects.—
 
 Amount available.—The amount available for capital projects under paragraph (1)(A) shall be not less than 55 percent of the funds apportioned to the recipient under this section.
 
-&emsp;&emsp;(B) <i>Allocation to subrecipients</i>.—A recipient of a grant under paragraph (1)(A) may allocate the amounts provided under the grant to—
+&emsp;&emsp;(B)
+
+Allocation to subrecipients.—A recipient of a grant under paragraph (1)(A) may allocate the amounts provided under the grant to—
 
 &emsp;&emsp;&emsp;(i) a private nonprofit organization; or
 

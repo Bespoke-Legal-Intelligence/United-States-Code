@@ -24,7 +24,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 &emsp;&emsp;Prior to conducting each initial assessment under subparagraph (A), the Administrator shall provide each eligible metropolitan area with, and shall notify each eligible metropolitan area of, the opportunity to—
 
-&emsp;&emsp;&emsp;(i) submit information that the eligible metropolitan area believes to be relevantto the determination of the threat, vulnerability, and consequences it faces from acts of terrorism; and
+&emsp;&emsp;&emsp;(i) submit information that the eligible metropolitan area believes to be relevant to the determination of the threat, vulnerability, and consequences it faces from acts of terrorism; and
 
 &emsp;&emsp;&emsp;(ii) review the risk assessment conducted by the Department of that eligible metropolitan area, including the bases for the assessment by the Department of the threat, vulnerability, and consequences from acts of terrorism faced by that eligible metropolitan area, and remedy erroneous or incomplete information.
 
@@ -118,7 +118,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (B) Funds retained
 
-&emsp;&emsp;A State shall provide each relevant high-risk urban area with an accounting of theitems, services, or activities on which any funds retained by the State under subparagraph (A) were expended.
+&emsp;&emsp;A State shall provide each relevant high-risk urban area with an accounting of the items, services, or activities on which any funds retained by the State under subparagraph (A) were expended.
 
 #### (3) Interstate urban areas
 

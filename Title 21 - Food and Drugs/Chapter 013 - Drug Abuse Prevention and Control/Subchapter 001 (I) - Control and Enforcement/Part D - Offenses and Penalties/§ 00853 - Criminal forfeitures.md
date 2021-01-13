@@ -6,11 +6,11 @@ Any person convicted of a violation of this subchapter or subchapter II punishab
 
 &emsp;(1) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation;
 
-&emsp;(2) any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation; and
+&emsp;(2) any of the person's property used, or intended to be used, in any manner or part, tocommit, or to facilitate the commission of, such violation; and
 
 &emsp;(3) in the case of a person convicted of engaging in a continuing criminal enterprise in violation of section 848 of this title, the person shall forfeit, in addition to any property described in paragraph (1) or (2), any of his interest in, claims against, and property or contractual rights affording a source of control over, the continuing criminal enterprise.
 
-> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by thispart, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+> The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
 #### (b) Meaning of term "property"
 
@@ -64,11 +64,11 @@ Failure to comply.—Failure to comply with an order under this subsection, or a
 
 #### (f) Warrant of seizure
 
-The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+The Government may request the issuance of a warrant authorizing the seizure of propertysubject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
-Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the courtshall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
+Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
 
 #### (h) Disposition of property
 
@@ -112,11 +112,11 @@ In order to facilitate the identification and location of property declared forf
 
 (1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
-(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
+(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicatethe validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
-(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidatethe hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
+(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
 (5) At the hearing, the petitioner may testify and present evidence and witnesses on his own behalf, and cross-examine witnesses who appear at the hearing. The United States may present evidence and witnesses in rebuttal and in defense of its claim to the property and cross-examine witnesses who appear at the hearing. In addition to testimony and evidence presented at the hearing, the court shall consider the relevant portions of the record of the criminal case which resulted in the order of forfeiture.
 
@@ -169,6 +169,8 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
 (Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, §743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, §5, May 7, 2009, 123 Stat. 1608.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -225,6 +227,8 @@ Subsec. (d). Pub. L. 98–473, §2301(e), struck out subsec. (d) which related t
 Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (l), (m), (n), (o), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (l), (m), (n), and (o), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (o), respectively, to give effect to the probable intent of Congress.
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out "for at least seven successive court days" after "to dispose of the property".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

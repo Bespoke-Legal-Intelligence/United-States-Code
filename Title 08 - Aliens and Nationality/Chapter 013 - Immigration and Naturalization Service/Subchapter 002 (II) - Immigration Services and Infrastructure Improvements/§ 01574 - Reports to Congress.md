@@ -90,9 +90,13 @@
 
 (Pub. L. 106–313, title II, §205, Oct. 17, 2000, 114 Stat. 1263.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The fiscal year in which this Act is enacted, referred to in subsec. (b)(3), is the fiscal year in which Pub. L. 106–313, which was approved Oct. 17, 2000, was enacted.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -190,7 +190,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;&emsp;(i) is voluntary on the part of the parties;
 
-&emsp;&emsp;&emsp;(ii) is not used to deny or delay a parent's right to a due process hearing under subsection (f), or to deny any other rights afforded under this subchapter; and
+&emsp;&emsp;&emsp;(ii) is not used to deny or delay a parent's right to a due process hearing undersubsection (f), or to deny any other rights afforded under this subchapter; and
 
 &emsp;&emsp;&emsp;(iii) is conducted by a qualified and impartial mediator who is trained in effective mediation techniques.
 
@@ -322,7 +322,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Procedural issues
 
-&emsp;&emsp;&emsp;In matters alleging a procedural violation, a hearing officer may find that achild did not receive a free appropriate public education only if the procedural inadequacies—
+&emsp;&emsp;&emsp;In matters alleging a procedural violation, a hearing officer may find that a child did not receive a free appropriate public education only if the procedural inadequacies—
 
 &emsp;&emsp;&emsp;&emsp;(I) impeded the child's right to a free appropriate public education;
 
@@ -370,7 +370,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (A) Decision made in hearing
 
-&emsp;&emsp;A decision made in a hearing conducted pursuant to subsection (f) or (k) shall be final, except that any party involved in such hearing may appeal such decision under the provisions of subsection (g) and paragraph (2).
+&emsp;&emsp;A decision made in a hearing conducted pursuant to subsection (f) or (k) shall befinal, except that any party involved in such hearing may appeal such decision under the provisions of subsection (g) and paragraph (2).
 
 #### (B) Decision made at appeal
 
@@ -412,7 +412,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 &emsp;&emsp;&emsp;&emsp;(II) to a prevailing party who is a State educational agency or local educational agency against the attorney of a parent who files a complaint or subsequent cause of action that is frivolous, unreasonable, or without foundation, or against the attorney of a parent who continued to litigate after the litigation clearly became frivolous, unreasonable, or without foundation; or
 
-&emsp;&emsp;&emsp;&emsp;(III) to a prevailing State educational agency or local educational agencyagainst the attorney of a parent, or against the parent, if the parent's complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.
+&emsp;&emsp;&emsp;&emsp;(III) to a prevailing State educational agency or local educational agency against the attorney of a parent, or against the parent, if the parent's complaint or subsequent cause of action was presented for any improper purpose, such as to harass, to cause unnecessary delay, or to needlessly increase the cost of litigation.
 
 #### (ii) Rule of construction
 
@@ -552,7 +552,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Change of placement order
 
-&emsp;&emsp;&emsp;In making the determination under clause (i), the hearing officer may order achange in placement of a child with a disability. In such situations, the hearing officer may—
+&emsp;&emsp;&emsp;In making the determination under clause (i), the hearing officer may order a change in placement of a child with a disability. In such situations, the hearing officer may—
 
 &emsp;&emsp;&emsp;&emsp;(I) return a child with a disability to the placement from which the child was removed; or
 
@@ -584,7 +584,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (C) Exception
 
-&emsp;&emsp;A local educational agency shall not be deemed to have knowledge that the child is a child with a disability if the parent of the child has not allowed an evaluation of the child pursuant to section 1414 of this title or has refused services under this subchapter or the child has been evaluated and it was determined that the child was not a child with a disability under this subchapter.
+&emsp;&emsp;A local educational agency shall not be deemed to have knowledge that the child isa child with a disability if the parent of the child has not allowed an evaluation of the child pursuant to section 1414 of this title or has refused services under this subchapter or the child has been evaluated and it was determined that the child was not a child with a disability under this subchapter.
 
 #### (D) Conditions that apply if no basis of knowledge
 

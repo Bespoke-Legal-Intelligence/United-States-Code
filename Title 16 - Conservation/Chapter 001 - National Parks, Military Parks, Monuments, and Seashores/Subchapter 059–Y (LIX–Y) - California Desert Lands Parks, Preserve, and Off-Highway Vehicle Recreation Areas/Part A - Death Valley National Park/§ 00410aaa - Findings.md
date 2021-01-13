@@ -48,7 +48,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 #### "SEC. 3. PURPOSES.
 
-"Consistent with the recommendations of the report required by section 705(b) \[now (c)\] of the California Desert Protection Act of 1994 \[16 U.S.C. 410aaa–75(b) \[now (c)\]\] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—
+"Consistent with the recommendations of the report required by section 705(b) \[now (c)\] of the CaliforniaDesert Protection Act of 1994 \[16 U.S.C. 410aaa–75(b) \[now (c)\]\] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—
 
 &emsp;"(1) to provide in trust to the Tribe land on which the Tribe can live permanently and govern the Tribe's affairs in a modern community within the ancestral homeland of the Tribe outside and within the Park;
 
@@ -306,7 +306,7 @@ Pub. L. 103–433, §3, as added by Pub. L. 116–9, title I, §1458(b), Mar. 12
 
 "(a)
 
-Titles I Through IX.—In titles I through IX \[enacting this subchapter, subchapter CXLII, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\], the term 'this Act' means only—
+Titles I Through IX.—In titles I through IX \[enacting this subchapter, subchapter CXLII, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section431 of this title and a table of Wilderness Areas set out under section 1132 of this title\], the term 'this Act' means only—
 
 &emsp;"(1) sections 1 and 2 \[enacting provisions set out as notes under this section\]; and
 

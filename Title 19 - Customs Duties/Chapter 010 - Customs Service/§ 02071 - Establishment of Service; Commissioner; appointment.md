@@ -56,7 +56,7 @@ Pub. L. 102–393, title VI, §637, Oct. 6, 1992, 106 Stat. 1779, provided that:
 
 #### Reports Regarding Expansion of Customs Preclearance Operations and Recovery for Damage Resulting From Customs Examinations
 
-Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, as amended by Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that the Secretary of the Treasury would assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports and report to Congress no later than Feb. 1, 1991, and also provided that the Secretary would evaluate various means by which persons whose merchandise is damaged during customs examinations could seek compensation from, or take other recourse against, the United States Customs Service, and report this evaluation to Congress by Feb. 1, 1991.
+Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, as amended by Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that the Secretary of the Treasury would assess the advisability of expanding the use of preclearance operations by theUnited States Customs Service at foreign airports and report to Congress no later than Feb. 1, 1991, and also provided that the Secretary would evaluate various means by which persons whose merchandise is damaged during customs examinations could seek compensation from, or take other recourse against, the United States Customs Service, and report this evaluation to Congress by Feb. 1, 1991.
 
 #### Pilot Preclearance Program
 

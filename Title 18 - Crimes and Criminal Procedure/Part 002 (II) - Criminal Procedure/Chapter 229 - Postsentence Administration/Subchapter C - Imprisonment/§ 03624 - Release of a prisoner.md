@@ -6,7 +6,7 @@ Date of Release.—A prisoner shall be released by the Bureau of Prisons on the 
 
 (b)
 
-Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year <sup>1</sup> other than a term of imprisonment for the duration of theprisoner's life, may receive credit toward the service of the prisoner's sentence of up to 54 days for each year of the prisoner's sentence imposed by the court, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment.
+Credit Toward Service of Sentence for Satisfactory Behavior.—(1) Subject to paragraph (2), a prisoner who is serving a term of imprisonment of more than 1 year <sup>1</sup> other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence of up to 54 days for each year of the prisoner's sentence imposed by the court, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with institutional disciplinary regulations. Subject to paragraph (2), if the Bureau determines that, during that year, the prisoner has not satisfactorily complied with such institutional regulations, the prisoner shall receive no such credit toward service of the prisoner's sentence or shall receive such lesser credit as the Bureau determines to be appropriate. In awarding credit under this section, the Bureau shall consider whether the prisoner, during the relevant period, has earned, or is making satisfactory progress toward earning, a high school diploma or an equivalent degree. Credit that has not been earned may not later be granted. Subject to paragraph (2), credit for the last year of a term of imprisonment shall be credited on the first day of the last year of the term of imprisonment.
 
 (2) Notwithstanding any other law, credit awarded under this subsection after the date of enactment of the Prison Litigation Reform Act shall vest on the date the prisoner is released from custody.
 
@@ -24,7 +24,7 @@ In general.—The Director of the Bureau of Prisons shall, to the extent practic
 
 &emsp;(2)
 
-Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.
+Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels andlower needs on home confinement for the maximum amount of time permitted under this paragraph.
 
 &emsp;(3)
 
@@ -90,7 +90,7 @@ Prerelease Custody or Supervised Release for Risk and Needs Assessment System Pa
 
 Eligible prisoners.—This subsection applies in the case of a prisoner (as such term is defined in section 3635) who—
 
-&emsp;&emsp;(A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the "System") in an amount that is equal to the remainder of the prisoner's imposed term of imprisonment;
+&emsp;&emsp;(A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the "System") in an amount thatis equal to the remainder of the prisoner's imposed term of imprisonment;
 
 &emsp;&emsp;(B) has shown through the periodic risk reassessments a demonstrated recidivism risk reduction or has maintained a minimum or low recidivism risk, during the prisoner's term of imprisonment;
 
@@ -204,6 +204,8 @@ Prerelease custody capacity.—The Director of the Bureau of Prisons shall ensur
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–177, title V, §505, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 110–199, title II, §251(a), Apr. 9, 2008, 122 Stat. 692; Pub. L. 115–391, title I, §102(b)(1), title V, §504(c), title VI, §602, Dec. 21, 2018, 132 Stat. 5210, 5233, 5238.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Prison Litigation Reform Act, referred to in subsec. (b)(2), probably means the date of enactment of the Prison Litigation Reform Act of 1995, section 101\[(a)\] \[title VIII\] of Pub. L. 104–134, which was approved Apr. 26, 1996.
@@ -264,7 +266,9 @@ Subsec. (f). Pub. L. 101–647, §2904, added subsec. (f).
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–646, §16(a), substituted "beginning at the end of" for "beginning after".
 
-Subsec. (e). Pub. L. 99–646, §17(a), substituted "imprisonment and runs concurrently" for "imprisonment. The term runs concurrently" and "supervised released. A term of supervised release does not run" for "supervised release, except that it does not run", struck out", other than during limited intervals as a condition of probation or supervised release," after "person is imprisoned", and inserted "unless the imprisonment is for a period of less than 30 consecutive days" before the period at end of third sentence.
+Subsec. (e). Pub. L. 99–646, §17(a), substituted "imprisonment and runs concurrently" for "imprisonment. The term runs concurrently" and "supervised released. A term of supervised release does not run" for "supervised release, except that it does not run", struck out ", other than during limited intervals as a condition of probation or supervised release," after "person is imprisoned", and inserted "unless the imprisonment is for a period of less than 30 consecutive days" before the period at end of third sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

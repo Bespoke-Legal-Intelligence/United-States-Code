@@ -114,11 +114,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—
+&emsp;&emsp;The amount of student loan payments made under service agreements under thissection on behalf of an eligible employee may not exceed—
 
-&emsp;&emsp;&emsp;(i) $500 in any month; or
+&emsp;&emsp;&emsp;(i) $833 in any month; or
 
-&emsp;&emsp;&emsp;(ii) a total of $40,000.
+&emsp;&emsp;&emsp;(ii) a total of $80,000.
 
 #### (B) Payments included in gross compensation limitations
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (B) Office subaccounts
 
-&emsp;&emsp;The Secretary shall ensure that, within the account established under subparagraph (A), a separate subaccount is established for each employing office to be used by each such office to make student loan payments under this section. Such student loan payments shall be made from any funds available to the employing office for student loan payments that are contained in the subaccount for the office.
+&emsp;&emsp;The Secretary shall ensure that, within the account established under subparagraph\(A), a separate subaccount is established for each employing office to be used by each such office to make student loan payments under this section. Such student loan payments shall be made from any funds available to the employing office for student loan payments that are contained in the subaccount for the office.
 
 #### (C) Limitation
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce theamount of student loan payments made under the agreement if adequate funds are not available to such office.
+&emsp;&emsp;&emsp;Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office.
 
 #### (ii) Notice
 
@@ -298,9 +298,9 @@ In this section:
 
 &emsp;There are authorized to be appropriated (or otherwise made available from appropriations) to carry out this section the following amounts for each fiscal year:
 
-&emsp;&emsp;(A) For each employing office that is the personal office of a Senator, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
+&emsp;&emsp;(A) For each employing office that is the personal office of a Senator, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.
 
-&emsp;&emsp;(B) For each other employing office, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
+&emsp;&emsp;(B) For each other employing office, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for salaries for such office.
 
 #### (2) Limitation
 
@@ -310,7 +310,9 @@ In this section:
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, §1001(a), (b), Dec. 23, 2011, 125 Stat. 1124; Pub. L. 115–141, div. I, title I, §103(a), Mar. 23, 2018, 132 Stat. 772.)
+(Pub. L. 107–68, title I, §102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, §916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, §1001(a), (b), Dec. 23, 2011, 125 Stat. 1124; Pub. L. 115–141, div. I, title I, §103(a), Mar. 23, 2018, 132 Stat. 772; Pub. L. 116–260, div. I, title I, §105(a), Dec. 27, 2020, 134 Stat. 1632.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -329,6 +331,12 @@ Section was formerly classified to section 60c–5 of this title prior to editor
 Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–260, §105(a)(1)(A), substituted "$833" for "$500".
+
+Subsec. (c)(2)(A)(ii). Pub. L. 116–260, §105(a)(1)(B), substituted "$80,000" for "$40,000".
+
+Subsec. (h)(1). Pub. L. 116–260, §105(a)(2), substituted "2.5 percent" for "2 percent" in subpars. (A) and (B).
 
 <b>2018</b>—Subsec. (a)(1), (2). Pub. L. 115–141, §103(a)(1)(B), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
 
@@ -365,6 +373,12 @@ Subsec. (b)(3). Pub. L. 112–74, §1001(b), added par. (3).
 <b>2002</b>—Subsec. (a). Pub. L. 107–117, §916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: "The term 'Committee' means the Committee on Rules and Administration of the Senate."
 
 Subsec. (g)(1). Pub. L. 107–117, §916(2), substituted "subsection (h)(1)(A)" for "subsection (i)(1)(A)" in subpar. (A) and "subsection (h)(1)(B)" for "subsection (i)(1)(B)" in subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. I, title I, §105(b), Dec. 27, 2020, 134 Stat. 1632, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on March 1, 2021."
 
 #### Effective Date of 2018 Amendment
 

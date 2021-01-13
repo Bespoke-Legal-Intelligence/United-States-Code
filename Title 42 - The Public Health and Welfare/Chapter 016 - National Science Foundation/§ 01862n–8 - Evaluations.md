@@ -16,7 +16,7 @@
 
 #### (2) Assessment benchmarks and tools
 
-&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall establish a common setof assessment benchmarks and tools, and shall enable every Foundation-sponsored project to incorporate the use of these benchmarks and tools in their project-based assessment activities.
+&emsp;The Director, through the Research, Evaluation and Communication Division of the Education and Human Resources Directorate of the Foundation, shall establish a common set of assessment benchmarks and tools, and shall enable every Foundation-sponsored project to incorporate the use of these benchmarks and tools in their project-based assessment activities.
 
 #### (3) Reports to Congress
 
@@ -42,7 +42,7 @@ This Act, referred to in subsec. (b), is Pub. L. 107–368, Dec. 19, 2002, 116 S
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Change of Name
 

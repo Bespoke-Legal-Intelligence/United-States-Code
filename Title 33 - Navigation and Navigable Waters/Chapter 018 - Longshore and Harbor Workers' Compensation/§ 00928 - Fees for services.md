@@ -10,7 +10,7 @@ If the employer or carrier pays or tenders payment of compensation without an aw
 
 #### (c) Approval; payment; lien
 
-In all cases fees for attorneys representing the claimant shall be approved in the manner herein provided. If any proceedings are had before the Board or any court for review of any action, award, order, or decision, the Board or court may approve an attorney's fee for the work done before it by the attorney for the claimant. An approved attorney's fee, in cases in which the obligation to pay the fee is upon the claimant, may be made a lien upon the compensation due under an award; and the deputy commissioner, Board, or court shall fix in the award approving the fee, such lien and manner of payment.
+In all cases fees for attorneys representing the claimant shall be approved in the manner herein provided. If any proceedings are had before the Board or any court for review of any action, award, order, or decision, the Board or court may approve an attorney's fee for the work done before it by the attorney for the claimant. An approved attorney's fee, in cases in which theobligation to pay the fee is upon the claimant, may be made a lien upon the compensation due under an award; and the deputy commissioner, Board, or court shall fix in the award approving the fee, such lien and manner of payment.
 
 #### (d) Costs; witnesses' fees and mileage; prohibition against diminution of compensation to claimant
 
@@ -22,6 +22,8 @@ A person who receives a fee, gratuity, or other consideration on account of serv
 
 (Mar. 4, 1927, ch. 509, §28, 44 Stat. 1438; Pub. L. 92–576, §13, Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, §17, Sept. 28, 1984, 98 Stat. 1650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–426 substituted "a fee, gratuity, or other consideration" for "any fees, other consideration, or any gratuity"; "with respect to" for "in respect of"; and "both" for "by both such fine and imprisonment"; and inserted "under this chapter," after "compensation".
@@ -29,6 +31,8 @@ A person who receives a fee, gratuity, or other consideration on account of serv
 <b>1972</b>—Subsec. (a). Pub. L. 92–576 substituted provisions respecting payment of attorney's fee for successful prosecution of claim for former provisions respecting approval by deputy commissioner or court of claims for legal services or for any other services rendered in respect of a claim or award for compensation and for lien upon the compensation in the manner and to the extent fixed by the deputy commissioner or the court. See subsec. (c).
 
 Subsecs. (b) to (e). Pub. L. 92–576 added subsecs. (b) to (d), redesignated former subsec. (b) as (e), and in subsec. (e), as so redesignated, struck out item (1) and (2) designations before "who", substituted "services rendered as a representative of a claimant" for "services so rendered", and included approval by the Board.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -6,7 +6,7 @@ The amount of taxes imposed by foreign countries and possessions of the United S
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–141 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b)relating to the foreign tax credit under section 901 and the tax credit under section 936, respectively.
+<b>2018</b>—Pub. L. 115–141 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to the foreign tax credit under section 901 and the tax credit under section 936, respectively.
 
 <b>1984</b>—Pub. L. 98–369, §471(c), renumbered section 33 of this title as this section.
 

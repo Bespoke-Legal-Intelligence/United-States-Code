@@ -66,7 +66,7 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 #### (I) Change allowed earlier if notified of no objection
 
-&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that itdoes not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
+&emsp;&emsp;A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that it does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
 
 #### (2) Emergency changes
 
@@ -104,11 +104,13 @@ The Board of Governors may exempt a designated financial market utility from, or
 
 (Pub. L. 111–203, title VIII, §806, July 21, 2010, 124 Stat. 1811.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Reserve Act, referred to in subsecs. (a) and (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer ProtectionAct, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should appear.</i>
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(C) organize and administer grant funds to county- or local-level Primary Care Extension Agencies that serve a catchment area, as determined by the State; and
 
-&emsp;&emsp;(D) organize State-wide or multistate networks of local-level Primary Care ExtensionAgencies to share and disseminate information and practices.
+&emsp;&emsp;(D) organize State-wide or multistate networks of local-level Primary Care Extension Agencies to share and disseminate information and practices.
 
 #### (2) Local Primary Care Extension Agency activities
 

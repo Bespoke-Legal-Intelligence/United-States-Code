@@ -18,7 +18,7 @@ It is unlawful for any person—
 
 &emsp;(8) to submit to the Secretary false information, regarding any matter that the Secretary is considering in the course of carrying out this chapter;
 
-&emsp;(9) to assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel pursuant to the requirements of this chapter, or any data collector employed by the National Oceanic and Atmospheric Administration or under contract to any person to carry out responsibilities under this chapter;
+&emsp;(9) to assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere withany observer on a vessel pursuant to the requirements of this chapter, or any data collector employed by the National Oceanic and Atmospheric Administration or under contract to any person to carry out responsibilities under this chapter;
 
 &emsp;(10) to fail to make, keep, or furnish any catch returns, statistical records, or other reports as are required by regulations adopted pursuant to this chapter to be made, kept, or furnished;
 

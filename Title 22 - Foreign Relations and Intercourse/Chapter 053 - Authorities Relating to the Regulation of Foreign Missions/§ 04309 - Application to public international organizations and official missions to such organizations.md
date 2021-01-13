@@ -16,9 +16,13 @@ For purposes of this section, "international organization" means—
 
 (Aug. 1, 1956, ch. 841, title II, §209, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 289.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under section 288 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

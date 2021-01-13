@@ -458,6 +458,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+<b>2020</b>—Revenue Procedure 2020–37.
+
 <b>2019</b>—Revenue Procedure 2019–26.
 
 <b>2018</b>—Revenue Procedure 2018–25.

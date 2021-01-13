@@ -6,7 +6,7 @@ There is hereby created the Rural Development Insurance Fund (hereinafter in thi
 
 #### (b) Transfer of assets and liabilities
 
-The assets and liabilities of the Agricultural Credit Insurance Fund referred to in section 1929(a) of this title applicable to loans for water systems and waste disposal facilities under section 1926(a)(1) of this title are hereby transferred to the Insurance Fund. Such assets (including the proceeds thereof) and liabilities and rural development loans guaranteed or insured pursuant to this chapter shall be subject to the provisions of this section.
+The assets and liabilities of the Agricultural Credit Insurance Fund referred to in section 1929(a) of this title applicable to loans for water systems and waste disposal facilities under section 1926(a)(1) of this title are hereby transferredto the Insurance Fund. Such assets (including the proceeds thereof) and liabilities and rural development loans guaranteed or insured pursuant to this chapter shall be subject to the provisions of this section.
 
 #### (c) Credits in the Treasury; investments; notes, purchasing authority of the Secretary
 
@@ -40,7 +40,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
-&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of thissection, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (h) Gross income; interest or other income on insured loans
 
@@ -120,7 +120,7 @@ Loan Guarantee Limits.—
 
 &emsp;"(1)
 
-Percentage of principal and interest.—No guarantee under this section shall exceed 90 percent of the principal and interest amount of the loan or $2,500,000, whichever is the lesser amount.
+Percentage of principal and interest.—No guarantee under this section shall exceed 90 percentof the principal and interest amount of the loan or $2,500,000, whichever is the lesser amount.
 
 &emsp;"(2)
 
@@ -206,7 +206,7 @@ Offer to be made without regard to financing.—The Secretary shall offer notes 
 
 Applicability of Prohibition on Curtailment or Limitation of Service.—Section 306(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(b)) shall be applicable to all notes or other obligations sold or intended to be sold under this section.
 
-"(h)(1) Notwithstanding the provisions of section 633 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460)\[title VI, Oct. 1, 1988, 102 Stat. 2263\], the Secretary of Agriculture shall offer to the issuer of any unsold note or other obligation described in paragraph (2)(A) for which such issuer made the good faith deposit described in paragraph (2)(A) the opportunity to purchase such note or other obligation consistent with the provisions of this subsection and subsections (f)(2) and (f)(3).
+"(h)(1) Notwithstanding the provisions of section 633 of the Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 (Public Law 100–460) \[title VI, Oct. 1, 1988, 102 Stat. 2263\], the Secretary of Agriculture shall offer to the issuer of any unsold note or other obligation described in paragraph (2)(A) for which such issuer made the good faith deposit described in paragraph (2)(A) the opportunity to purchase such note or other obligation consistent with the provisions of this subsection and subsections (f)(2) and (f)(3).
 
 "(2) The provisions of this subsection shall apply only to those issuers who:
 

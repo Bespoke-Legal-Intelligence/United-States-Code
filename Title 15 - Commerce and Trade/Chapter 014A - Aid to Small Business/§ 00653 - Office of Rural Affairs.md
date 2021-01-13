@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Small Business Administration an Office of Rural Affairs\(hereafter in this section referred to as the "Office").
+There is hereby established in the Small Business Administration an Office of Rural Affairs (hereafter in this section referred to as the "Office").
 
 #### (b) Appointment of director
 

@@ -14,9 +14,9 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 #### (d) Annual report
 
-Not later than January 30 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the following information with respect to the trade adjustment assistance for farmers program under this chapter during the preceding fiscal year:
+Not later than January 30 of each year, the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report containing the following information with respect to the trade adjustment assistance for farmers program under this part during the preceding fiscal year:
 
-&emsp;(1) A list of the agricultural commodities covered by a certification under this chapter.
+&emsp;(1) A list of the agricultural commodities covered by a certification under this part.
 
 &emsp;(2) The States or regions in which agricultural commodities are produced and the aggregate amount of such commodities produced in each such State or region.
 
@@ -38,7 +38,7 @@ Not later than January 30 of each year, the Secretary shall submit to the Commit
 
 &emsp;(11) The number of long-term business plans approved and denied by the Secretary.
 
-&emsp;(12) The total number of agricultural commodity producers, by congressional district, receiving initial technical assistance and intensive technical assistance, respectively, under this chapter.
+&emsp;(12) The total number of agricultural commodity producers, by congressional district, receiving initial technical assistance and intensive technical assistance, respectively, under this part.
 
 &emsp;(13) The types of initial technical assistance received by agricultural commodity producers participating in the program.
 
@@ -46,13 +46,13 @@ Not later than January 30 of each year, the Secretary shall submit to the Commit
 
 &emsp;(15) The number of agricultural commodity producers leaving the program before completing the projects in their long-term business plans and the reason those projects were not completed.
 
-&emsp;(16) The total number of agricultural commodity producers, by congressional district, receiving benefits under this chapter.
+&emsp;(16) The total number of agricultural commodity producers, by congressional district, receiving benefits under this part.
 
-&emsp;(17) The average duration of benefits received under this chapter.
+&emsp;(17) The average duration of benefits received under this part.
 
 &emsp;(18) The number of agricultural commodity producers in operation as of the date of the report and the number of agricultural commodity producers that ceased operations after completing the program and in the 1-year period following completion of the program.
 
-&emsp;(19) The number of agricultural commodity producers that report that such producers received benefits under a prior certification issued under this chapter in any of the 10 fiscal years preceding the date of the report.
+&emsp;(19) The number of agricultural commodity producers that report that such producers received benefits under a prior certification issued under this part in any of the 10 fiscal years preceding the date of the report.
 
 (Pub. L. 93–618, title II, §293, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 948; amended Pub. L. 111–5, div. B, title I, §§1882(b), 1884, Feb. 17, 2009, 123 Stat. 416, 419; Pub. L. 112–40, title II, §§201(b), (c), 223(a)(1), Oct. 21, 2011, 125 Stat. 403, 412; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
@@ -62,7 +62,7 @@ Not later than January 30 of each year, the Secretary shall submit to the Commit
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb.13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-It is the purpose of this section to establish four centers where nationally recognized distinguished experts in Constitutional law willproduce, on a periodic basis, articles of current interest relating to the Constitution of the United States which are suitable for use by James Madison scholars, educational institutions, law school reviews, bar associations, and the news media.
+It is the purpose of this section to establish four centers where nationally recognized distinguished experts in Constitutional law will produce, on a periodic basis, articles of current interest relating to the Constitution of the United States which are suitable for use by James Madison scholars, educational institutions, law school reviews, bar associations, and the news media.
 
 #### (b) Endowments
 
@@ -20,7 +20,7 @@ That portion of each endowment provided by this chapter <sup>2</sup> and any ac
 
 #### (e) Application for grant of endowment
 
-The application for the grant for an endowment shall require only such information and supporting material as is reasonably necessary to assure that the funds will be used for the purposes described herein. Acceptance of the grant by each university shall constitute an agreement and obligation of that university to fulfill the obligations set forth in this section.
+The application for the grant for an endowment shall require only such information andsupporting material as is reasonably necessary to assure that the funds will be used for the purposes described herein. Acceptance of the grant by each university shall constitute an agreement and obligation of that university to fulfill the obligations set forth in this section.
 
 #### (f) Amount of grant of endowment; recipients of offer
 

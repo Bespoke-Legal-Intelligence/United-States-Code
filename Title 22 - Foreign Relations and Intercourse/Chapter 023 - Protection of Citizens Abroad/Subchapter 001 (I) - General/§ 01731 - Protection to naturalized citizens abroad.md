@@ -1,0 +1,24 @@
+### §1731. Protection to naturalized citizens abroad
+
+All naturalized citizens of the United States while in foreign countries are entitled to andshall receive from this Government the same protection of persons and property which is accorded to native-born citizens.
+
+(R.S. §2000.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+R.S. §2000 derived from Act July 27, 1868, ch. 249, §2, 15 Stat. 224.
+
+Section was formerly classified to section 903a of Title 8, Aliens and Nationality.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Equitable Treatment by United States of Its Citizens Living Abroad
+
+Pub. L. 95–426, title VI, §611, Oct. 7, 1978, 92 Stat. 989, as amended by Pub. L. 96–60, title IV, §407, Aug. 15, 1979, 93 Stat. 405; Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: "The Congress finds that—
+
+&emsp;"(1) United States citizens living abroad should be provided fair and equitable treatment by the United States Government with regard to taxation, citizenship of progeny, veterans' benefits, voting rights, Social Security benefits, and other obligations, rights, and benefits; and
+
+&emsp;"(2) United States statutes and regulations should be designed so as not to create competitive disadvantage for individual American citizens living abroad or working in international markets."
+

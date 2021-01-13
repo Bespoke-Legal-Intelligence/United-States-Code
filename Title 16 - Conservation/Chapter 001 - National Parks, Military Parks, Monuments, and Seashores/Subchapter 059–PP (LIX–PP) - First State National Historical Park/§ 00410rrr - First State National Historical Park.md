@@ -30,7 +30,7 @@ In this section:
 
 #### (C) References
 
-&emsp;&emsp;Any references in a law, regulation, document, record, map, or other paper of theUnited States to the First State National Monument shall be considered to be a reference to the historical park.
+&emsp;&emsp;Any references in a law, regulation, document, record, map, or other paper of the United States to the First State National Monument shall be considered to be a reference to the historical park.
 
 #### (2) Purposes
 
@@ -134,7 +134,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delaware that are associated with the purposes of historical park.
+&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delawarethat are associated with the purposes of historical park.
 
 #### (2) Requirements
 

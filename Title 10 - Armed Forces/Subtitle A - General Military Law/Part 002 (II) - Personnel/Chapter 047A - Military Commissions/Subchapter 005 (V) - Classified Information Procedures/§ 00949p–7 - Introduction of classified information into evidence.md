@@ -38,7 +38,7 @@ Motion for production of statements in possession of the united states.—After 
 
 &emsp;(2)
 
-Invocation of privilege by the united states.—If the United States invokes a privilege, the trial counsel may provide the prior statements of the witness to the military judge during an ex parte presentation to the extent necessary to protect classified information from disclosure, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.).
+Invocation of privilege by the united states.—If the United States invokes a privilege, the trial counsel may provide the priorstatements of the witness to the military judge during an ex parte presentation to the extent necessary to protect classified information from disclosure, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.).
 
 &emsp;(3)
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) how to meet the needs of disadvantaged students, children with disabilities, and English learners, the needs of low-performing schools, and other educational needs of students;
 
-&emsp;&emsp;&emsp;&emsp;(II) that include, to the extent practicable, majority representation of individuals who, in the most recent 2 years, have had practical experience in the classroom, school administration, or State or local government (such as direct employees of a school, local educational agency, or State educational agency); and
+&emsp;&emsp;&emsp;&emsp;(II) that include, to the extent practicable, majority representation of individuals who, in the most recent 2 years, have had practical experience in the classroom, school administration, orState or local government (such as direct employees of a school, local educational agency, or State educational agency); and
 
 &emsp;&emsp;&emsp;&emsp;(III) who represent a regionally diverse cross-section of States;
 
@@ -114,7 +114,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments under subsection (b), or changes to its accountability system under subsection (c), suchinformation shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
+&emsp;&emsp;&emsp;If a State makes significant changes to its plan at any time, such as the adoption of new challenging State academic standards or new academic assessments under subsection (b), or changes to its accountability system under subsection (c), such information shall be submitted to the Secretary in the form of revisions or amendments to the State plan.
 
 #### (ii) Review of revised plans
 
@@ -260,9 +260,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) be administered through multiple statewide interim assessments during the course of the academic year that result in a single summative score that provides valid, reliable, and transparent information on student achievement or growth;
 
-&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in theUnited States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
+&emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in the United States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
-&emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, and other school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
+&emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, andother school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
 &emsp;&emsp;&emsp;(xi) enable results to be disaggregated within each State, local educational agency, and school by—
 
@@ -328,7 +328,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards for the grade level in which the student is enrolled; and
 
-&emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessment based on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
+&emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessmentbased on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
 
 #### (ii) Special rules
 
@@ -388,7 +388,7 @@
 
 #### (ii) State technical criteria
 
-&emsp;&emsp;&emsp;To allow for State approval of nationally-recognized high school academic assessments that are available for local selection under clause (i), a State educational agency shall establish technical criteria to determine if any such assessment meets the requirements of clause (v).
+&emsp;&emsp;&emsp;To allow for State approval of nationally-recognized high school academic assessments that are available for local selection under clause (i), a State educational agency shall establish technicalcriteria to determine if any such assessment meets the requirements of clause (v).
 
 #### (iii) State approval
 
@@ -454,7 +454,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensure that such computer adaptive assessments—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D), except such assessments shall not be required to meet the requirements of clause (i)(II); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D),except such assessments shall not be required to meet the requirements of clause (i)(II); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) assess the student's academic achievement to measure, in the subject being assessed, whether the student is performing at the student's grade level; and
 
@@ -680,7 +680,7 @@
 
 &emsp;&emsp;&emsp;(iii) is based on a school-level needs assessment;
 
-&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educationalagency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
+&emsp;&emsp;&emsp;(iv) identifies resource inequities, which may include a review of local educational agency and school-level budgeting, to be addressed through implementation of such comprehensive support and improvement plan;
 
 &emsp;&emsp;&emsp;(v) is approved by the school, local educational agency, and State educational agency; and
 
@@ -750,7 +750,7 @@
 
 #### (D) Special rule
 
-&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies ofany schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
+&emsp;&emsp;The State educational agency, based on the State's differentiation of schools under subsection (c)(4)(C) for school year 2017–2018, shall notify local educational agencies of any schools served by the local educational agency in which any subgroup of students, on its own, would lead to identification under subsection (c)(4)(D)(i)(I) using the State's methodology under subsection (c)(4)(D), after which notification of such schools under this paragraph shall result from differentiation of schools pursuant to subsection (c)(4)(C)(iii).
 
 #### (3) Continued support for school and local educational agency improvement
 
@@ -760,7 +760,7 @@
 
 &emsp;&emsp;&emsp;(i) establish statewide exit criteria for—
 
-&emsp;&emsp;&emsp;&emsp;(I) schools identified by the State for comprehensive support and improvement under subsection (c)(4)(D)(i), which, if not satisfied within a State-determined number of years (not to exceed four years), shall result in more rigorous State-determined action, such as the implementation of interventions (which may include addressing school-level operations); and
+&emsp;&emsp;&emsp;&emsp;(I) schools identified by the State for comprehensive support and improvement under subsection (c)(4)(D)(i), which, if not satisfied within a State-determinednumber of years (not to exceed four years), shall result in more rigorous State-determined action, such as the implementation of interventions (which may include addressing school-level operations); and
 
 &emsp;&emsp;&emsp;&emsp;(II) schools described in paragraph (2)(C), which, if not satisfied within a State-determined number of years, shall, in the case of such schools receiving assistance under this part, result in identification of the school by the State for comprehensive support and improvement under subsection (c)(4)(D)(i)(III);
 
@@ -880,13 +880,13 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(ii) when a determination is made that it is not in such child's best interest to remain in the school of origin, the child is immediately enrolled in a new school, even if the child is unable to produce records normally required for enrollment;
 
-&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended byany such child to obtain relevant academic and other records; and
+&emsp;&emsp;&emsp;(iii) the enrolling school shall immediately contact the school last attended by any such child to obtain relevant academic and other records; and
 
 &emsp;&emsp;&emsp;(iv) the State educational agency will designate an employee to serve as a point of contact for child welfare agencies and to oversee implementation of the State agency responsibilities required under this subparagraph, and such point of contact shall not be the State's Coordinator for Education of Homeless Children and Youths under section 722(d)(3) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(d)(3));
 
 &emsp;&emsp;(F) how the State educational agency will provide support to local educational agencies in the identification, enrollment, attendance, and school stability of homeless children and youths; and
 
-&emsp;&emsp;(G) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in the challenging State academic standards.
+&emsp;&emsp;(G) such other factors the State educational agency determines appropriate toprovide students an opportunity to achieve the knowledge and skills described in the challenging State academic standards.
 
 #### (2) Assurances
 
@@ -934,7 +934,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Nothing in paragraph (2)(N) shall be construed to—
 
-&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as definedin subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
+&emsp;&emsp;(A) require groups of students obtained by any entity that cross-tabulates the information provided under such paragraph to be considered subgroups of students, as defined in subsection (c)(2), for the purposes of the State accountability system under subsection (c); or
 
 &emsp;&emsp;(B) require or prohibit States or local educational agencies from publicly reporting data in a cross-tabulated manner, in order to meet the requirements of paragraph (2)(N).
 
@@ -1000,7 +1000,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;(iv) Information on the number and percentage of English learners achieving English language proficiency.
 
-&emsp;&emsp;&emsp;(v) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), information on the performance on the other indicator or indicators of school quality or student success under subsection (c)(4)(B)(v) used bythe State in the State accountability system.
+&emsp;&emsp;&emsp;(v) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), information on the performance on the other indicator or indicators of school quality or student success under subsection (c)(4)(B)(v) used by the State in the State accountability system.
 
 &emsp;&emsp;&emsp;(vi) Information on the progress of all students and each subgroup of students, as defined in subsection (c)(2), toward meeting the State-designed long term goals under subsection (c)(4)(A), including the progress of all students and each such subgroup of students against the State measurements of interim progress established under such subsection.
 
@@ -1070,7 +1070,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;The State educational agency shall ensure that each local educational agency collects appropriate data and includes in the local educational agency's annual report the information described in paragraph (1)(C), disaggregated in the same manner as required under such paragraph, except for clause (xii) of such paragraph, as applied to the local educational agency and each school served by the local educational agency, including—
 
-&emsp;&emsp;&emsp;(i) in the case of a local educational agency, information that shows how students served by the local educational agency achieved on the academic assessments described in subsection (b)(2) compared to students in the State as a whole;
+&emsp;&emsp;&emsp;(i) in the case of a local educational agency, information that shows how students served by the local educational agency achieved on the academic assessmentsdescribed in subsection (b)(2) compared to students in the State as a whole;
 
 &emsp;&emsp;&emsp;(ii) in the case of a school, information that shows how the school's students' achievement on the academic assessments described in subsection (b)(2) compared to students served by the local educational agency and the State as a whole; and
 
@@ -1138,7 +1138,7 @@ A State retains the right to enter into a voluntary partnership with another Sta
 
 #### (k) Special rule with respect to Bureau-funded schools
 
-In determining the assessments to be used by each school operated or funded by the Bureau ofIndian Education receiving funds under this part, the following shall apply until the requirements of section 7824(c) of this title have been met:
+In determining the assessments to be used by each school operated or funded by the Bureau of Indian Education receiving funds under this part, the following shall apply until the requirements of section 7824(c) of this title have been met:
 
 &emsp;(1) Each such school that is accredited by the State in which it is operating shall use the assessments and other academic indicators the State has developed and implemented to meet the requirements of this section, or such other appropriate assessment and academic indicators as approved by the Secretary of the Interior.
 

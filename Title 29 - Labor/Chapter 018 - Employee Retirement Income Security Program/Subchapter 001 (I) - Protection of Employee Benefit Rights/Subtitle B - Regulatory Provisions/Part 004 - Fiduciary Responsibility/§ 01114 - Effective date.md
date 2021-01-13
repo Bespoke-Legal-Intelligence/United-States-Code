@@ -28,11 +28,13 @@
 
 &emsp;(5) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a party in interest, if such plan is required to dispose of such property in order to comply with the provisions of section 1107(a) of this title (relating to the prohibition against holding excess employer securities and employer real property), and if the plan receives not less than adequate consideration.
 
-(d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) ofthis Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title) as an act or omission occurring before the effective date of this part.
+(d) Any election, or failure to elect, by a disqualified person under section 2003(c)(1)(B) of this Act shall be treated for purposes of this part (but not for purposes of section 1144 of this title) as an act or omission occurring before the effective date of this part.
 
 (e) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
 (Pub. L. 93–406, title I, §414, Sept. 2, 1974, 88 Stat. 889; Pub. L. 101–239, title VII, §7894(e)(6), (h)(4), Dec. 19, 1989, 103 Stat. 2450, 2451.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Section 2003(c)(1)(B) of this Act, referred to in subsec. (d), is section 2003(c
 <b>1989</b>—Subsec. (c)(2). Pub. L. 101–239, §7894(e)(6), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text, and substituted "or the corresponding provisions of prior law)" for ") or the corresponding provisions of prior law".
 
 Subsec. (e). Pub. L. 101–239, §7894(h)(4), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

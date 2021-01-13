@@ -86,7 +86,7 @@ Nothing in this section shall be construed to provide the Secretary with the aut
 
 In this section:
 
-&emsp;(1) The term "recovery housing" means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
+&emsp;(1) The term "recovery housing" means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promotesustained recovery from substance use disorders.
 
 &emsp;(2) The terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 5304 of title 25.
 

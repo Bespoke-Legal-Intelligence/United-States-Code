@@ -26,7 +26,7 @@ Public Information.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman's name, address, and ratings held shall be made available to the public after the 120thday following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
+In general.—Subject to paragraph (2) and notwithstanding any other provision of law, the information contained in the records of contents of any airman certificate issued under this section that is limited to an airman's name, address, and ratings held shall be made available to the public after the 120th day following the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Standard forms.—The Administrator shall promulgate—
 
 &emsp;(9)
 
-Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with areasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
+Right to correct inaccuracies.—An air carrier that maintains or requests and receives the records of an individual under paragraph (1) shall provide the individual with a reasonable opportunity to submit written comments to correct any inaccuracies contained in the records before making a final hiring decision with respect to the individual.
 
 &emsp;(10)
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire theindividual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -586,7 +586,7 @@ In subsection (b)(1)(E), the word "designate" is substituted for "be entitled wi
 
 In subsection (c)(1), before clause (A), the words "may appeal . . . to" are substituted for "may file with . . . a petition for review of the Secretary of Transportation's action" for consistency with section 1109 of the revised title. The words "the individual holds a certificate that" are substituted for "persons whose certificates" for clarity.
 
-In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, orstandards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
+In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
 
 In subsection (d), before clause (1), the words "in his discretion" are omitted as surplus. In clause (2), the words "the terms of" and "entered into" are omitted as surplus. The words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
 
@@ -652,7 +652,7 @@ Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section ident
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
+Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub.L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
 
 #### Effective Date of 2000 Amendment
 
@@ -996,7 +996,7 @@ Consultations.—In carrying out paragraph (1), the Administrator shall consult 
 
 &emsp;"(3)
 
-Report required.—Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report listing the medical conditions that have been added to the CACI program under paragraph (1).
+Report required.—Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee onTransportation and Infrastructure of the House of Representatives\] a report listing the medical conditions that have been added to the CACI program under paragraph (1).
 
 "(g)
 
@@ -1124,7 +1124,7 @@ Required information from individual.—The individual may obtain the informatio
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
+Provision of information to individual.—If the Administrator receives a requestunder this subparagraph, the Administrator shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) request the contractor to provide the requested information; and
 
@@ -1156,7 +1156,7 @@ Appeal From Certificate Actions.—
 
 &emsp;"(1)
 
-In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of theBoard may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
+In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
 
 &emsp;"(2)
 

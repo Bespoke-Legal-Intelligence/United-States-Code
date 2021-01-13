@@ -2,7 +2,7 @@
 
 #### (a) Steps to be taken prior to or concurrently with construction
 
-(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
+(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986,construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
 
 &emsp;(A) shall be undertaken or acquired before any construction of the project (other than such acquisition) commences, or
 
@@ -120,7 +120,7 @@ Fish and wildlife enhancement measures carried out as part of the project for At
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 
-The provisions of subsections (a), (b), and (d) shall be deemed to supplement the responsibility and authority of the Secretary pursuant tothe Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
+The provisions of subsections (a), (b), and (d) shall be deemed to supplement the responsibility and authority of the Secretary pursuant to the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], and nothing in this section is intended to affect that Act.
 
 #### (h) Programmatic mitigation plans
 
@@ -252,6 +252,8 @@ The Secretary shall consult with interested members of the public, the Director 
 
 (Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, §1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, §1162, Dec. 16, 2016, 130 Stat. 1668.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
@@ -295,6 +297,8 @@ Subsec. (d)(3) to (5). Pub. L. 110–114, §2036(a)(3), added pars. (3) to (5).
 <b>1999</b>—Subsec. (e). Pub. L. 106–53 inserted after second sentence "Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project."
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–580 inserted ", including lands, easements, rights-of-way, and relocations," before "for implementation and operation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability
 

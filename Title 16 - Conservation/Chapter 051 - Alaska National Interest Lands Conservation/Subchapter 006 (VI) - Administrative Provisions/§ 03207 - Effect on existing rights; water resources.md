@@ -4,7 +4,7 @@ Nothing in this Act shall be construed as limiting or restricting the power and 
 
 &emsp;(1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on lands within the State of Alaska;
 
-&emsp;(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, orrights in water resources development or control, or
+&emsp;(2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control, or
 
 &emsp;(3) as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto.
 

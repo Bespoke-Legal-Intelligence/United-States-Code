@@ -44,6 +44,8 @@ In subsection (b)(2), the word "accruing" is added for clarity. The word "both" 
 
 In subsection (c), the words "with respect to disputes concerning discounts", "by the required payment date", and "other allegations concerning" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(h)(8)(A), substituted "section 7103 of title 41" for "section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 605)".

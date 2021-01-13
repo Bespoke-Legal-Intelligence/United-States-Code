@@ -24,6 +24,8 @@ The Congress finds that—
 
 (Pub. L. 104–330, §2, Oct. 26, 1996, 110 Stat. 4017; Pub. L. 110–411, §2, Oct. 14, 2008, 122 Stat. 4320.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 93–638 (25 U.S.C. 450 et seq.), referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -31,6 +33,8 @@ Public Law 93–638 (25 U.S.C. 450 et seq.), referred to in par. (7), is Pub. L.
 #### Amendments
 
 <b>2008</b>—Pars. (6), (7). Pub. L. 110–411 substituted "shall" for "should".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -66,7 +70,7 @@ Pub. L. 106–568, title II, §201, Dec. 27, 2000, 114 Stat. 2872, provided that
 
 #### Short Title
 
-Pub. L. 104–330, §1(a), Oct. 26, 1996, 110 Stat. 4016, provided that: "This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905,12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the 'Native American Housing Assistance and Self-Determination Act of 1996'."
+Pub. L. 104–330, §1(a), Oct. 26, 1996, 110 Stat. 4016, provided that: "This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437l, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the 'Native American Housing Assistance and Self-Determination Act of 1996'."
 
 #### Findings of 2005 Amendment
 

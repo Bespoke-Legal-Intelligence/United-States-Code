@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of the Navy shall establish areas, to be known as "Southern Sea Otter Military Readiness Areas", for national defense purposes. Such areas shall include each of the following:
+Establishment.—The Secretary of the Navy shall establish areas, to be known as"Southern Sea Otter Military Readiness Areas", for national defense purposes. Such areas shall include each of the following:
 
 &emsp;(1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:
 

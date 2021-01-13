@@ -4,6 +4,8 @@ Notwithstanding the provisions of any Act of Congress to the contrary, any perso
 
 (June 21, 1949, ch. 232, §5, 63 Stat. 215.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Similar Provisions
 
 Provisions similar to this section were contained in act June 17, 1949, ch. 221, §2, 63 Stat. 201.

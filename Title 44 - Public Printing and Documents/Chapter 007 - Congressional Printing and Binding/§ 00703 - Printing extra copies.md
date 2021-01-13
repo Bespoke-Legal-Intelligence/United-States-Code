@@ -8,11 +8,15 @@ Orders for printing copies in addition to the "usual number", otherwise than pro
 
 Based on 44 U.S. Code, 1964 ed., §133 (Jan. 12, 1895, ch. 23, §2, 28 Stat. 601; Mar. 1, 1907, ch. 2284, §1, 34 Stat. 1013; Apr. 19, 1949, ch. 72, 63 Stat. 48).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
 
 <b>1996</b>—Pub. L. 104–186 substituted "House Oversight" for "House Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

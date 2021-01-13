@@ -22,7 +22,7 @@ The CASMIRC shall perform such duties as the Attorney General determines appropr
 
 &emsp;(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
-&emsp;(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction,mysterious disappearance of a child, child homicide, and serial murder covered in this section;
+&emsp;(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 
 &emsp;(7) working under the NCAVC in coordination with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to provide appropriate training to Federal, State, and local law enforcement in matters regarding child abductions, mysterious disappearances of children, child homicides; and
 
@@ -62,11 +62,15 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 105–314, title VII, §703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified as a note under section 531 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
 Section is comprised of subsecs. (a) to (f) of section 703 of Pub. L. 105–314. Subsec. (g) of section 703 repealed section 5776a of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 5601 and 5776a of Title 42.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

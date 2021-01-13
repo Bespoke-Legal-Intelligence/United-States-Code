@@ -86,7 +86,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Treatment of certain water supply projects.—The amendments made by this section shall not apply to amounts which are paid by the New Jersey Department of Environmental Protection for construction of alternative water supply projects in zones of drinking water contamination and which are designated by such department as being taken into account under this paragraph. Not more than $4,631,000 of such amounts may be designated under the preceding sentence.
+Treatment of certain water supply projects.—The amendments made by this section shallnot apply to amounts which are paid by the New Jersey Department of Environmental Protection for construction of alternative water supply projects in zones of drinking water contamination and which are designated by such department as being taken into account under this paragraph. Not more than $4,631,000 of such amounts may be designated under the preceding sentence.
 
 "(3)
 
@@ -110,5 +110,5 @@ Pub. L. 95–600, title III, §364(b), Nov. 6, 1978, 92 Stat. 2854, provided tha
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XXI, §2120(c), Oct. 4, 1976, 90 Stat. 1913, provided that: "The amendments made by this section \[amending this section and section 362 of thistitle\] apply to contributions made after January 31, 1976."
+Pub. L. 94–455, title XXI, §2120(c), Oct. 4, 1976, 90 Stat. 1913, provided that: "The amendments made by this section \[amending this section and section 362 of this title\] apply to contributions made after January 31, 1976."
 

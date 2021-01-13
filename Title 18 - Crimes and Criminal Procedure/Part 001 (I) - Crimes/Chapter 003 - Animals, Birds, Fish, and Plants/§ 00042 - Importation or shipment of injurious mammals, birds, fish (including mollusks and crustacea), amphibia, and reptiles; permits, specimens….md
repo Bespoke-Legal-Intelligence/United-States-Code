@@ -1,6 +1,6 @@
 ### §42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
 
-(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or anyshipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called "flying foxes" or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the quagga mussel of the species Dreissena rostriformis or Dreissena bugensis; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,<sup>1</sup> insofar as such importation is subject to regulation under that Act.
+(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called "flying foxes" or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the quagga mussel of the species Dreissena rostriformis or Dreissena bugensis; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and theeggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,<sup>1</sup> insofar as such importation is subject to regulation under that Act.
 
 (2) As used in this subsection, the term "wild" relates to any creatures that, whether or not raised in captivity, normally are found in a wild state; and the terms "wildlife" and "wildlife resources" include those resources that comprise wild mammals, wild birds, fish (including mollusks and crustacea), and all other classes of wild creatures whatsoever, and all types of aquatic and land vegetation upon which such wildlife resources are dependent.
 
@@ -39,6 +39,8 @@ Minor verbal changes were also made.
 #### 1949 Act
 
 This section \[section 2\] incorporates in section 42 of title 18, U.S.C., with slight changes in phraseology, the provisions of act of June 29, 1948 (ch. 716, 62 Stat. 1096), which became law subsequent to the enactment of the revision of title 18.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 86–702 included violations of regulations.
 Subsec. (b). Act May 24, 1949, reenacted subsec. (b) without change.
 
 Subsec. (c). Act May 24, 1949, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Invasive Species
 

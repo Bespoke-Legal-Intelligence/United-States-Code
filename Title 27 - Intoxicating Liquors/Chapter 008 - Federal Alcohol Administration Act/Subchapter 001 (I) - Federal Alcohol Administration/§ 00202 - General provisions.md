@@ -8,7 +8,7 @@ Appropriations to carry out powers and duties of the Secretary of the Treasury u
 
 #### (f) Utilization of other governmental agencies
 
-The Secretary of the Treasury may, with the consent of the department or agency affected,utilize the services of any department or other agency of the Government to the extent necessary to carry out his powers and duties under this chapter and authorize officers and employees thereof to act as his agents.
+The Secretary of the Treasury may, with the consent of the department or agency affected, utilize the services of any department or other agency of the Government to the extent necessary to carry out his powers and duties under this chapter and authorize officers and employees thereof to act as his agents.
 
 #### (g) Applicability of other laws
 
@@ -19,6 +19,8 @@ The provisions including penalties, of sections 49 and 50 of title 15, shall be 
 The Secretary of the Treasury is authorized to require, in such manner and form as he shall prescribe, such reports as are necessary to carry out his powers and duties under this chapter.
 
 (Aug. 29, 1935, ch. 814, title I, §102, formerly §2, 49 Stat. 977; 1940 Reorg. Plan No. III, §2, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 7, 1946, ch. 770, §1(46), 60 Stat. 870; renumbered title I, §102, Pub. L. 100–690, title VIII, §8001(a)(1), (2), Nov. 18, 1988, 102 Stat. 4517.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

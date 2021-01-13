@@ -10,6 +10,8 @@ The Deputy Administrator shall be paid compensation at a rate of pay, establishe
 
 (Pub. L. 96–70, title I, §1104, Sept. 27, 1979, 93 Stat. 457; Pub. L. 101–510, div. C, title XXXV, §3505, Nov. 5, 1990, 104 Stat. 1846; Pub. L. 104–201, div. C, title XXXV, §3524(a), Sept. 23, 1996, 110 Stat. 2860.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (b), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -24,9 +26,7 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 inserted before period at end ", and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title".
 
-#### Delegation of Functions
-
-Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 
@@ -35,4 +35,10 @@ Pub. L. 104–201, div. C, title XXXV, §3524(b), Sept. 23, 1996, 110 Stat. 2861
 &emsp;"(1) the tenure of the individual serving as Deputy Administrator of the Commission on the day before subsection (a) takes effect \[section 3524(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
 
 &emsp;"(2) until modified under section 1104(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], as amended by subsection (a), the compensation of the individual so serving."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Authority of President under this section to fix the compensation of and to define authorities and duties of Deputy Administrator delegated to Secretary of Defense, see section 1–302 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
 

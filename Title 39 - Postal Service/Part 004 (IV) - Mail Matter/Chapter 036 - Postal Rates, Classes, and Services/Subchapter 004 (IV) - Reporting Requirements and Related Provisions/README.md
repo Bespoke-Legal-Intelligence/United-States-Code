@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—REPORTING REQUIREMENTS AND RELATED PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter IV was redesignated subchapter V of this chapter.

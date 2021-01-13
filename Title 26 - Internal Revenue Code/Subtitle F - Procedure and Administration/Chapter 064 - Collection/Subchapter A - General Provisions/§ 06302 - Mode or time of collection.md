@@ -146,13 +146,13 @@ General rule.—Notwithstanding section 518 of the Highway Revenue Act of 1982, 
 
 "(2)
 
-Special rule where due date falls on saturday, sunday, or holiday.—If, but for this paragraph,the due date under paragraph (1) would fall on a Saturday, Sunday, or holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday."
+Special rule where due date falls on saturday, sunday, or holiday.—If, but for this paragraph, the due date under paragraph (1) would fall on a Saturday, Sunday, or holiday in the District of Columbia, such due date shall be deemed to be the immediately preceding day which is not a Saturday, Sunday, or such a holiday."
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–66 inserted "and diesel fuel" after "gasoline" in heading.
 
 Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of "chapter 21, 31, 32, or 33, or by section 4481" for "chapter 21" and all that follows down through "chapter 37,", was executed by making the substitution for "chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37" to reflect the probable intent of Congress. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of "chapter 21, 31, 32, or33, or by section 4481" for "chapter 21" and all that follows down through "chapter 37,", was executed by making the substitution for "chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37" to reflect the probable intent of Congress. See 1996 Amendment note above.
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted "communications services and" before "airline" in heading and "section 4251 or" after "imposed by" in text.
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 712(e) of Pub
 
 #### Effective Date of 1993 Amendments
 
-Pub. L. 103–182, title V, §523(b)(1), Dec. 8, 1993, 107 Stat. 2163, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\]."
+Pub. L. 103–182, title V, §523(b)(1), Dec. 8, 1993, 107 Stat. 2163, which provided that the amendments made by section 523 of Pub. L. 103–182 took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set out as a note under section 4041 of this title.
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to articles sold by manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
+Amendment by Pub. L. 98–369 applicable with respect to articles sold by manufacturer, producer, or importerafter Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -258,7 +258,7 @@ Pub. L. 95–147, §3(c), Oct. 28, 1977, 91 Stat. 1228, provided that: "The amen
 
 #### Regulations
 
-Pub. L. 103–182, title V, §523(b)(2), Dec. 8, 1993, 107 Stat. 2163, provided that: "Not later than 210 days after the date of enactment of this Act \[Dec. 8, 1993\], the Secretary of the Treasury or his delegate shall prescribe temporary regulations under section 6302(h) of the Internal Revenue Code of 1986 (as added by this section)."
+Pub. L. 103–182, title V, §523(b)(2), Dec. 8, 1993, 107 Stat. 2163, which required temporary regulations under subsec. (h) of this section to be prescribed no later than 210 days after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Savings Provision
 

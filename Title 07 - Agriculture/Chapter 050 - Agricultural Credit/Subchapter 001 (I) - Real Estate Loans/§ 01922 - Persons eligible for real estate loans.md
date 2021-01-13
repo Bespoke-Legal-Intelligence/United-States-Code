@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may make a direct loan under this subchapter to a farmer or rancher who has a direct loan outstanding under this subchapter on April 4, 1996.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary may make a direct loan under thissubchapter to a farmer or rancher who has a direct loan outstanding under this subchapter on April 4, 1996.
 
 #### (B) Less than 5 years
 

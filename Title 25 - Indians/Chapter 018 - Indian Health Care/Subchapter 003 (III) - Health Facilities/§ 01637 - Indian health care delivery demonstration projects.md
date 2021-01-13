@@ -4,7 +4,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of this section is to encourage the establishment of demonstration projectsthat meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination <sup>1</sup> and Education Assistance Act (25 U.S.C. 450 et seq.)— <sup>2</sup>
+&emsp;The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination <sup>1</sup> and Education Assistance Act (25 U.S.C. 450 et seq.)— <sup>2</sup>
 
 &emsp;&emsp;(A) to test alternative means of delivering health care and services to Indians through facilities; or
 
@@ -12,7 +12,7 @@
 
 #### (2) Authority
 
-&emsp;The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
+&emsp;The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act\(25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
 
 &emsp;&emsp;(A) test alternative means of delivering health care and services to Indians through facilities; or
 
@@ -126,6 +126,8 @@ The Secretary shall ensure that the planning, design, construction, renovation, 
 
 (Pub. L. 94–437, title III, §307, as added Pub. L. 101–630, title V, §504, Nov. 28, 1990, 104 Stat. 4562; amended Pub. L. 102–573, title III, §§304, 307(b)(2), title VII, §701(c)(2), title IX, §902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(B), (b)(2)(B), (c)(3)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -148,7 +150,7 @@ Subsec. (c)(3)(A). Pub. L. 102–573, §304(a)(2), substituted "On or before Sep
 
 Subsec. (c)(3)(B). Pub. L. 102–573, §304(a)(3), which directed amendment of subsec. (c) by striking subpar. (B) and inserting a new subpar. (B), was executed by making the amendment in par. (3) of subsec. (c) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: "After entering into contracts or awarding grants in accordance with subparagraph (A), and taking into account contracts entered into and grants awarded under such subparagraph, the Secretary may only enter into one contract or award one grant under this subsection with respect to a service area until the Secretary has entered into contracts or awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria developed under paragraph (1)."
 
-Subsec. (e). Pub. L. 102–573, §701(c)(2), made technical amendment to the reference to section 1680c of thistitle to reflect renumbering of corresponding section of original act.
+Subsec. (e). Pub. L. 102–573, §701(c)(2), made technical amendment to the reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (h). Pub. L. 102–573, §304(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects."
 

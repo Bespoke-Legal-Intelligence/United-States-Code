@@ -10,7 +10,7 @@
 
 &emsp;(2) in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 462, §7438; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L.106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §8738, Pub. L. 115–232, div. A, title VIII, §807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462, §7438; Pub. L. 87–796, §1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, §201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, §513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §8738, Pub. L. 115–232, div. A, title VIII, §807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
 
-Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
+Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, forprovisions relating to authorities of the Administrator of the Energy Research and Development Administration.
 
 Subsec. (c). Pub. L. 96–513, §513(37)(C), substituted "in this chapter" for "herein contained".
 

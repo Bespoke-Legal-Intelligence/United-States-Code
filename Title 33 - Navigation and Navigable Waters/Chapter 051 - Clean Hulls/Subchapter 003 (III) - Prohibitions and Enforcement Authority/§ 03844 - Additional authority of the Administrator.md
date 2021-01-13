@@ -1,8 +1,10 @@
 ### §3844. Additional authority of the Administrator
 
-The Administrator, in consultation with the Secretary, may establish, as necessary, terms and conditions regarding the removal and disposal of antifouling systems prohibited or restricted under this chapter.
+The Administrator, in consultation with the Secretary, may establish, as necessary, termsand conditions regarding the removal and disposal of antifouling systems prohibited or restricted under this chapter.
 
 (Pub. L. 111–281, title X, §1034, Oct. 15, 2010, 124 Stat. 3029.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

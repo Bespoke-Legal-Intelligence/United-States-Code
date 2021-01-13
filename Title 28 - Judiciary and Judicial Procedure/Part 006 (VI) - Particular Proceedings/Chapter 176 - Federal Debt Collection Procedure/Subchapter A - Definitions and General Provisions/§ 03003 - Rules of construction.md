@@ -66,9 +66,13 @@ Applicability of Federal Rules of Civil Procedure.—Except as provided otherwis
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (c)(8)(A) and (f), are set out in the Appendix to this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

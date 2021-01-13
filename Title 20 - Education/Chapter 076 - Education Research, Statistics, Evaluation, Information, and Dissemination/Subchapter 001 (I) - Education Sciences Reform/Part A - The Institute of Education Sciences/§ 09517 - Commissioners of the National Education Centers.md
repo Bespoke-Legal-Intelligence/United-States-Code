@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) may be reappointed by the Director; and
 
-&emsp;&emsp;(B) may serve after the expiration of that Commissioner's term, until a successor has been appointed, for a period not to exceed 1 additional year.
+&emsp;&emsp;(B) may serve after the expiration of that Commissioner's term, until a successor hasbeen appointed, for a period not to exceed 1 additional year.
 
 #### (b) Appointment of Commissioner for Education Statistics
 

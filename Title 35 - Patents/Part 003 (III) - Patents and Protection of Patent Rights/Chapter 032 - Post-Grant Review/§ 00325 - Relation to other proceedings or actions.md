@@ -44,7 +44,7 @@ Proceedings before the office.—The petitioner in a post-grant review of a clai
 
 &emsp;(2)
 
-Civil actions and other proceedings.—The petitioner in a post-grant review of aclaim in a patent under this chapter that results in a final written decision under section 328(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that post-grant review.
+Civil actions and other proceedings.—The petitioner in a post-grant review of a claim in a patent under this chapter that results in a final written decision under section 328(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that post-grant review.
 
 (f)
 
@@ -52,9 +52,13 @@ Reissue Patents.—A post-grant review may not be instituted under this chapter 
 
 (Added Pub. L. 112–29, §6(d), Sept. 16, 2011, 125 Stat. 307.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 337 of the Tariff Act of 1930, referred to in subsec. (e)(2), is classified to section 1337 of Title 19, Customs Duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

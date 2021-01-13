@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State shall use a portion of the amounts provided under a grant awarded under section 300ff–21 of this title to establish a program under section 300ff–22(b)(3)(B) of this title to provide therapeutics to treat HIV/AIDS or prevent the serious deterioration of health arising from HIV/AIDS in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
+A State shall use a portion of the amounts provided under a grant awarded under section300ff–21 of this title to establish a program under section 300ff–22(b)(3)(B) of this title to provide therapeutics to treat HIV/AIDS or prevent the serious deterioration of health arising from HIV/AIDS in eligible individuals, including measures for the prevention and treatment of opportunistic infections.
 
 #### (b) Eligible individual
 
@@ -42,7 +42,7 @@ For purposes of subsection (c)(1), the Secretary shall develop and maintain a li
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of thistitle to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
+&emsp;In carrying out subsection (a), a State may expend a grant under section 300ff–21 of this title to provide the therapeutics described in such subsection by paying on behalf of individuals with HIV/AIDS the costs of purchasing or maintaining health insurance or plans whose coverage includes a full range of such therapeutics and appropriate primary care services.
 
 #### (2) Limitation
 

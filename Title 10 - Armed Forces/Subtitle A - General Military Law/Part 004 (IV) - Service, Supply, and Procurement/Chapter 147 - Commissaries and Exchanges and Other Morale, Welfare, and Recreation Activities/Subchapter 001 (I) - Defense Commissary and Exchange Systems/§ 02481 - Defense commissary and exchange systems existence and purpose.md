@@ -136,7 +136,7 @@ Required savings to patrons.—The Secretary shall ensure that the level of savi
 
 &emsp;&emsp;"(A) Before commencing a pilot program the Secretary shall establish a baseline of savings to patrons achieved for each commissary or exchange to participate in such pilot program by comparing prices charged by such commissary or exchange for a representative market basket of goods to prices charged by local competitors for the same market basket of goods.
 
-&emsp;&emsp;"(B) After commencement of such pilot program, the Secretary shall ensure that each commissary orexchange, or private sector entity, participating in such pilot program conducts market-basket price comparisons not less than once a month and adjusts pricing as necessary to ensure that pricing achieves savings to patrons under such pilot program that are reasonably consistent with the baseline savings for the commissary or exchange established pursuant to subparagraph (A).
+&emsp;&emsp;"(B) After commencement of such pilot program, the Secretary shall ensure that each commissary or exchange, or private sector entity, participating in such pilot program conducts market-basket price comparisons not less than once a month and adjusts pricing as necessary to ensure that pricing achieves savings to patrons under such pilot program that are reasonably consistent with the baseline savings for the commissary or exchange established pursuant to subparagraph (A).
 
 &emsp;"(4)
 

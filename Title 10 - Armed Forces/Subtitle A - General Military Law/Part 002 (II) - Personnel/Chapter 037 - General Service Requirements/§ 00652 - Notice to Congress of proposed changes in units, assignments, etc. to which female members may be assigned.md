@@ -2,7 +2,7 @@
 
 (a)
 
-Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes tomake any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
+Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
 
 (2) A change referred to in paragraph (1) is a change that—
 

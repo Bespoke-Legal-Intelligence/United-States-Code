@@ -48,7 +48,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) to supplement the financing of United States exports to foreign markets which are actual or potential export markets for any country which the Bank determines—
 
-&emsp;&emsp;&emsp;(i) engages in predatory official export financing through the use of tied aid or partially untied aid credits, and impedesnegotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or
+&emsp;&emsp;&emsp;(i) engages in predatory official export financing through the use of tied aid or partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or
 
 &emsp;&emsp;&emsp;(ii) engages in predatory financing practices that seek to circumvent international agreements on tied aid; or
 
@@ -74,7 +74,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) any other type of export financing,
 
-> &emsp;in such manner and under such terms as the Bank determines to be appropriate, including combinations of export financing in the form of blended financing and parallel financing.
+> &emsp;in such manner and under such terms as the Bank determines to be appropriate, includingcombinations of export financing in the form of blended financing and parallel financing.
 
 #### (4) Information on countries which engage in official predatory export financing and impede negotiations
 
@@ -112,13 +112,13 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(I) The Bank shall process an application for tied aid in accordance with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
 
-&emsp;&emsp;&emsp;&emsp;(II) Twenty days prior to the scheduled meeting of the Board of Directors atwhich an application will be considered (unless the Bank determines that an earlier discussion is appropriate based on the facts of a particular financing), the Bank shall brief the Secretary on the application and deliver to the Secretary such documents, information, or data as may reasonably be necessary to permit the Secretary to review the application to determine if the application complies with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
+&emsp;&emsp;&emsp;&emsp;(II) Twenty days prior to the scheduled meeting of the Board of Directors at which an application will be considered (unless the Bank determines that an earlier discussion is appropriate based on the facts of a particular financing), the Bank shall brief the Secretary on the application and deliver to the Secretary such documents, information, or data as may reasonably be necessary to permit the Secretary to review the application to determine if the application complies with the principles and standards developed pursuant to subparagraph (A) and clause (i) of this subparagraph.
 
 &emsp;&emsp;&emsp;&emsp;(III) The Secretary may request a single postponement of the consideration by the Board of Directors of the application for up to 14 days to allow the Secretary to submit to the Board of Directors a memorandum objecting to the application.
 
 &emsp;&emsp;&emsp;&emsp;(IV) Case-by-case decisions on whether to approve the use of the Tied Aid Credit Fund shall be made by the Board of Directors, except that the approval of the Board of Directors (or a commitment letter based on that approval) shall not become final (except as provided in subclause (V)), if the Secretary indicates to the President of the Bank in writing the Secretary's intention to appeal the decision of the Board of Directors to the President of the United States and makes the appeal in writing not later than 20 days after the meeting at which the Board of Directors considered the application.
 
-&emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with the President of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
+&emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with thePresident of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
 
 #### (C) Initial principles, process, and standards
 
@@ -238,6 +238,8 @@ For purposes of this section, the following definitions shall apply:
 
 (July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
@@ -276,7 +278,7 @@ Subsec. (h)(7). Pub. L. 107–189, §10(d), added par. (7).
 
 <b>1997</b>—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out "through September 30, 1997" after "authorized by the Bank".
 
-Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentence read as follows: "There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997."
+Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentenceread as follows: "There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997."
 
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of "1997" for "1995", could not be executed because "1995" does not appear in text after amendment by Pub. L. 104–97. See below.
 
@@ -334,7 +336,7 @@ Subsec. (b)(2)(A). Pub. L. 101–240, §101(b)(3), substituted "carry out the pu
 
 Subsec. (c)(2). Pub. L. 101–240, §101(b)(4), substituted "amount equal to the concessionality level" for "cost" and "through fiscal year 1991" for "during fiscal years 1986, 1987, 1988, and 1989".
 
-Subsec. (e)(1). Pub. L. 101–240, §101(b)(7), which directed the insertion of ", and for fiscal years 1990, 1991, and 1992, $200,000,000" after "$300,000,000" was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000", and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., Vol. 135, pt. 22, pp. 31199, 31203.
+Subsec. (e)(1). Pub. L. 101–240, §101(b)(7), which directed the insertion of ", and for fiscal years 1990, 1991, and 1992, $200,000,000" after "$300,000,000" was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000", and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., vol. 135, pt. 22, pp. 31199, 31203, Nov. 21, 1989.
 
 Pub. L. 101–240, §101(b)(5), inserted ", and for fiscal years 1990 and 1991, $300,000,000" after "$300,000,000".
 
@@ -343,6 +345,8 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 <b>1988</b>—Subsecs. (c)(2), (e)(1). Pub. L. 100–418 substituted "1988, and 1989" for "and 1988".
 
 <b>1987</b>—Subsec. (c)(2). Pub. L. 100–217 substituted "during fiscal years 1986, 1987, and 1988" for "during fiscal year 1986".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Fund To Discourage Predatory Financing Practices
 

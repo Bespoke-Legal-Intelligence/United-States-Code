@@ -6,7 +6,7 @@ If the taxpayer so elects on his return for a taxable year, the cutting of timbe
 
 #### (b) Disposal of timber
 
-In the case of the disposal of timber held for more than 1 year before such disposal, by the owner thereof under any form or type of contract by virtue of which such owner either retains an economic interest in such timber or makes an outright sale of such timber, the difference between the amount realized from the disposal of such timber and the adjusted depletion basis thereof, shall be considered as though it were a gain or loss, as the case may be, on the sale of such timber. In determining the gross income, the adjusted gross income, or the taxable income of the lessee, the deductions allowable with respect to rents and royalties shall be determined without regard to the provisions of this subsection. In the case of disposal of timber with a retained economic interest, the date of disposal of such timber shall be deemed to be the date such timber is cut, but if payment is made to the owner under the contract beforesuch timber is cut the owner may elect to treat the date of such payment as the date of disposal of such timber. For purposes of this subsection, the term "owner" means any person who owns an interest in such timber, including a sublessor and a holder of a contract to cut timber.
+In the case of the disposal of timber held for more than 1 year before such disposal, by the owner thereof under any form or type of contract by virtue of which such owner either retains an economic interest in such timber or makes an outright sale of such timber, the difference between the amount realized from the disposal of such timber and the adjusted depletion basis thereof, shall be considered as though it were a gain or loss, as the case may be, on the sale of such timber. In determining the gross income, the adjusted gross income, or the taxable income of the lessee, the deductions allowable with respect to rents and royalties shall be determined without regard to the provisions of this subsection. In the case of disposal of timber with a retained economic interest, the date of disposal of such timber shall be deemed to be the date such timber is cut, but if payment is made to the owner under the contract before such timber is cut the owner may elect to treat the date of such payment as the date of disposal of such timber. For purposes of this subsection, the term "owner" means any person who owns an interest in such timber, including a sublessor and a holder of a contract to cut timber.
 
 #### (c) Disposal of coal or domestic iron ore with a retained economic interest
 
@@ -20,7 +20,7 @@ In the case of the disposal of coal (including lignite), or iron ore mined in th
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–357, in heading, struck out "with a retained economic interest" after "timber", in first sentence, substituted "either retains an economic interest in such timber or makes an outright sale of such timber" for "retains an economic interest in such timber", and, in third sentence, substituted "In the case of disposal of timber with a retained economic interest, the date of disposal" for "The date of disposal".
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, in heading, struck out "with a retained economic interest" after "timber", in first sentence, substituted "either retains aneconomic interest in such timber or makes an outright sale of such timber" for "retains an economic interest in such timber", and, in third sentence, substituted "In the case of disposal of timber with a retained economic interest, the date of disposal" for "The date of disposal".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "If for the taxable year of such gain or loss the maximum rate of tax imposed by this chapter on any net capital gain is less than such maximum rate for ordinary income, such owner" for "Such owner".
 
@@ -68,7 +68,7 @@ Special rule for fixed contracts.—
 
 &emsp;"(A)
 
-In general.—The amendment made by subsection (a) shall not apply to any disposition of an interest in coal by a person to a related person if suchcoal is subsequently sold before January 1, 1990, by either such person—
+In general.—The amendment made by subsection (a) shall not apply to any disposition of an interest in coal by a person to a related person if such coal is subsequently sold before January 1, 1990, by either such person—
 
 &emsp;&emsp;"(i) to a person who is not a related person with respect to either such person, and
 

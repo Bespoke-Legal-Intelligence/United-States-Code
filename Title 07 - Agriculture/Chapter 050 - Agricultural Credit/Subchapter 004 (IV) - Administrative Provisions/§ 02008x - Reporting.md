@@ -92,7 +92,7 @@ In preparing any report or review under this section, the Secretary shall aggreg
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitles A and B of the Act are classified generally to subchapters I (§1922 et seq.) and II (§1941 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128,Aug. 8, 1961, 75 Stat. 307. Subtitles A and B of the Act are classified generally to subchapters I (§1922 et seq.) and II (§1941 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) prescribe regulations on collecting by administrative offset consistent with the regulations referred to in paragraph (1).
 
-(c)(1)(A) Except as otherwise provided in this subsection, a disbursing official of the Department of the Treasury, the Department of Defense, the United States Postal Service, the Department of Health and Human Services, or any other government corporation, or any disbursing official of the United States designated by the Secretary of the Treasury, shall offset at least annually the amount of a payment which a payment certifying agency has certified to the disbursing official for disbursement, by an amount equal to the amount of a claim which a creditor agency has certified to the Secretary of the Treasury pursuant to this subsection.
+(c)(1)(A) Except as otherwise provided in this subsection, a disbursing official of the Department of the Treasury, the Department of Defense, the United States Postal Service, the Department of Health and Human Services, or any other government corporation, or any disbursing official of the United States designated by theSecretary of the Treasury, shall offset at least annually the amount of a payment which a payment certifying agency has certified to the disbursing official for disbursement, by an amount equal to the amount of a claim which a creditor agency has certified to the Secretary of the Treasury pursuant to this subsection.
 
 (B) An agency that designates disbursing officials pursuant to section 3321(c) of this title is not required to certify claims arising out of its operations to the Secretary of the Treasury before such agency's disbursing officials offset such claims.
 
@@ -140,6 +140,8 @@ In subsection (b)(3), the word "civil" is added for consistency in the revised t
 
 In subsection (c)(2), the word "either" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -196,6 +198,8 @@ Subsec. (e). Pub. L. 104–134, §31001(d)(2)(C), redesignated subsec. (c) as (e
 
 Subsecs. (f) to (h). Pub. L. 104–134, §31001(e), (f), added subsecs. (f) to (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–275, title I, §189(c), July 15, 2008, 122 Stat. 2591, provided that: "The amendments made by this section \[amending this section and section 1395kk of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[July 15, 2008\]."
@@ -210,13 +214,15 @@ Pub. L. 110–234, title XIV, §14219(b), May 22, 2008, 122 Stat. 1483, and Pub.
 
 Pub. L. 104–134, title III, §31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act \[Apr. 26, 1996\]."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13019. Supporting Families: Collecting Delinquent Child Support Obligations
 
 Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
 The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
-The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations frompersons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -224,7 +230,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (2) The Secretary may enter into reciprocal agreements with States concerning the collection by the Secretary of delinquent child support debts through administrative offsets.
 
-(b) The Secretary of Health and Human Services shall, within 120 days of the date of this order, implement procedures necessary to report to the Secretary of the Treasury information on past-due child support claims referred by States (including claims enforced by States pursuant to cooperative agreements with or by Indian tribal governments) to the Department of Health and Human Services.
+(b) The Secretary of Health and Human Services shall, within 120 days of the date of this order, implement procedures necessary to report to the Secretary of the Treasury information on past-due child support claims referred by States (including claims enforced by States pursuant to cooperative agreements with or byIndian tribal governments) to the Department of Health and Human Services.
 
 (c) The head of each executive department and agency that certifies payments to the Secretary or to another disbursing official shall review each class of payments that the department or agency certifies to determine if any such class should be exempt from offset and, if any class is so identified, submit to the Secretary a request for such an exemption together with the reasons therefor. With respect to classes of payments under means-tested programs existing on the date of this order, such submission shall be made within 30 days of the date of this order. With respect to classes of payments other than payments under means-tested programs existing on the date of this order, such submissions shall be made within 30 days of the date the Secretary establishes standards pursuant to section 3716(c)(3) of title 31, United States Code. With respect to a class of payments established after the date of this order, such submissions shall be made not later than 30 days after such class is established.
 

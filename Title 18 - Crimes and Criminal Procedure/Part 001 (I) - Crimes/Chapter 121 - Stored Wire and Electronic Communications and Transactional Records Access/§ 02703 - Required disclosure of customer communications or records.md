@@ -98,7 +98,7 @@ Definitions.—In this subsection—
 
 &emsp;(2)
 
-Motions to quash or modify.—(A) A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that is being required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—
+Motions to quash or modify.—(A) A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that isbeing required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—
 
 &emsp;&emsp;(i) that the customer or subscriber is not a United States person and does not reside in the United States; and
 
@@ -146,6 +146,8 @@ Disclosure to qualifying foreign government.—(A) It shall not constitute a vio
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title XXII, §2207(h)(1), formerly title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(h)(1), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 109–162, title XI, §1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, §2(1), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, §5228(b)(1), Dec. 23, 2016, 130 Stat. 2912; Pub. L. 115–141, div. V, §103(b), Mar. 23, 2018, 132 Stat. 1214.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(B)(i), are set out in the Appendix to this title.
@@ -154,7 +156,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A),
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–141 added subsec. (h).
 
-<b>2016</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 114–328 inserted "and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President" after "warrant procedures".
+<b>2016</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 114–328 inserted "and, in the case of a court-martial or otherproceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President" after "warrant procedures".
 
 <b>2009</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of "(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction" for "by a court with jurisdiction over the offense under investigation or an equivalent State warrant", was executed by making the substitution for "by a court with jurisdiction over the offense under investigation or equivalent State warrant" to reflect the probable intent of Congress.
 
@@ -207,6 +209,8 @@ Pub. L. 103–322 substituted "section 3127(2)(A)" for "section 3126(2)(A)".
 <b>1988</b>—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted "or trial" after "grand jury".
 
 Subsec. (d). Pub. L. 100–690, §7039, inserted "may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and" before "shall issue".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

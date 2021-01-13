@@ -14,7 +14,7 @@ There are hereby authorized to be appropriated such sums as may be necessary, bu
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–578 substituting provisions authorizing appropriations of not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for development of essential public facilities for provisions which authorized appropriation of $50,000 to carry out sections 430j to 430m and 430o to 430s of this title and inserted provisions for development and transmittal within three years from Oct. 21, 1976, of a final master plan for full development of the battlefield.
+<b>1976</b>—Pub. L. 94–578 substituting provisions authorizing appropriations of not more than $3,525,000 for the acquisition of lands and interests in lands, and not to exceed $500,000 for development of essential public facilities for provisions which authorized appropriationof $50,000 to carry out sections 430j to 430m and 430o to 430s of this title and inserted provisions for development and transmittal within three years from Oct. 21, 1976, of a final master plan for full development of the battlefield.
 
 #### Change of Name
 

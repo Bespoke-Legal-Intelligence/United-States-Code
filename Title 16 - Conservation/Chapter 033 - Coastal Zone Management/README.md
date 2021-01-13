@@ -27,6 +27,7 @@
 | [1464\.](%C2%A7%2001464%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1465\.](%C2%A7%2001465%20-%20Appeals%20to%20the%20Secretary.md) | Appeals to the Secretary. |
 | [1466\.](%C2%A7%2001466%20-%20Appeals%20relating%20to%20offshore%20mineral%20development.md) | Appeals relating to offshore mineral development. |
+| [1467\.](%C2%A7%2001467%20-%20Establishment%20of%20the%20Digital%20Coast.md) | Establishment of the Digital Coast. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,3 +61,4 @@
 - [&sect; 01464 - Authorization of appropriations](%C2%A7%2001464%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01465 - Appeals to the Secretary](%C2%A7%2001465%20-%20Appeals%20to%20the%20Secretary.md)
 - [&sect; 01466 - Appeals relating to offshore mineral development](%C2%A7%2001466%20-%20Appeals%20relating%20to%20offshore%20mineral%20development.md)
+- [&sect; 01467 - Establishment of the Digital Coast](%C2%A7%2001467%20-%20Establishment%20of%20the%20Digital%20Coast.md)

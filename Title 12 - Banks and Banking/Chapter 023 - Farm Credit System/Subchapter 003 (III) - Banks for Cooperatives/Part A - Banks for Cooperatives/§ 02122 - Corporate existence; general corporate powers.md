@@ -38,7 +38,7 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 
 (ii) As used in this subparagraph, the term "similar entity" means an entity that, while not eligible for a loan under section 2129 of this title, is functionally similar to an entity eligible for a loan under section 2129 of this title in that it derives a majority of its income from, or has a majority of its assets invested in, the conduct of activities functionally similar to those conducted by the entity.
 
-(iii) As used in this subparagraph, the term "participate" or "participation" refers to multilender transactions, including syndications, assignments, loan participations, subparticipations, or other forms of the purchase, sale, or transfer of interests in loans, other extensions of credit, or other technical and financial assistance.
+(iii) As used in this subparagraph, the term "participate" or "participation" refers to multilender transactions, including syndications, assignments, loan participations, subparticipations, or other forms of the purchase, sale, or transfer of interests in loans, other extensions ofcredit, or other technical and financial assistance.
 
 (12) Deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) or, to the extent necessary to facilitate transactions which may be financed under section 2128(b) of this title, any other financial organization, domestic or foreign, as may be authorized by its board of directors, and pay fees therefor and receive interest thereon as may be agreed. When designated for that purpose by the Secretary of the Treasury, it shall be a depository of public money, except receipts from customs, under such regulations as may be prescribed by the Secretary; may be employed as a fiscal agent of the Government, and shall perform all such reasonable duties as a depository of public money or financial agent of the Government as may be required of it. No Government funds deposited under the provisions of this subsection shall be invested in loans or bonds or other obligations of the bank.
 
@@ -59,6 +59,8 @@ Each bank for cooperatives shall be a body corporate and, subject to regulation 
 (18) As may be authorized by its board of directors, agree with other Farm Credit System institutions to share loan or other losses, whether to protect against capital impairment or for any other purpose.
 
 (Pub. L. 92–181, title III, §3.1, Dec. 10, 1971, 85 Stat. 602; Pub. L. 96–592, title III, §301, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(1), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §802(n), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 100–399, title IX, §901(b), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 102–552, title V, §502, Oct. 28, 1992, 106 Stat. 4130; Pub. L. 103–376, §§2, 6, Oct. 19, 1994, 108 Stat. 3497, 3500; Pub. L. 107–171, title V, §5401(a), May 13, 2002, 116 Stat. 349.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -87,6 +89,8 @@ Par. (12). Pub. L. 96–592, §301(2), inserted applicability to any insured Sta
 Par. (13). Pub. L. 96–592, §301(3), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 Pars. (18), (19). Pub. L. 96–592, §301(4), added pars. (18) and (19).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

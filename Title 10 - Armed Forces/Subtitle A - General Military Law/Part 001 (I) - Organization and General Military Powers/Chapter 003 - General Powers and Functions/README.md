@@ -10,6 +10,7 @@
 | [123b.](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md) | Forces stationed abroad: limitation on number. |
 | [124\.](%C2%A7%2000124%20-%20Detection%20and%20monitoring%20of%20aerial%20and%20maritime%20transit%20of%20illegal%20drugs%20Department%20of%20Defense%20to%20be%20lead%20agency.md) | Detection and monitoring of aerial and maritime transit of illegal drugs: Department of Defense to be lead agency. |
 | [125\.](%C2%A7%2000125%20-%20Functions%2C%20powers%2C%20and%20duties%20transfer%2C%20reassignment%2C%20consolidation%2C%20or%20abolition.md) | Functions, powers, and duties: transfer, reassignment, consolidation, or abolition. |
+| [125a.](%C2%A7%2000125a%20-%20Reform%20improvement%20of%20efficacy%20and%20efficiency.md) | Reform: improvement of efficacy and efficiency. |
 | [126\.](%C2%A7%2000126%20-%20Transfer%20of%20funds%20and%20employees.md) | Transfer of funds and employees. |
 | [127\.](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md) | Emergency and extraordinary expenses. |
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
@@ -17,6 +18,7 @@
 | [127c.](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md) | Purchase of weapons overseas: force protection. |
 | \[127d. | Renumbered.\] |
 | [127e.](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md) | Support of special operations to combat terrorism. |
+| [127f.](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment.md) | Expenditure of funds for clandestine activities that support operational preparation of the environment. |
 | [128\.](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Control and physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md) | Civilian personnel management. |
 | [129a.](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md) | General policy for total force management. |
@@ -39,7 +41,9 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struckout item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
+
+<b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 
@@ -112,6 +116,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00123b - Forces stationed abroad limitation on number](%C2%A7%2000123b%20-%20Forces%20stationed%20abroad%20limitation%20on%20number.md)
 - [&sect; 00124 - Detection and monitoring of aerial and maritime transit of illegal drugs Department of Defense to be lead agency](%C2%A7%2000124%20-%20Detection%20and%20monitoring%20of%20aerial%20and%20maritime%20transit%20of%20illegal%20drugs%20Department%20of%20Defense%20to%20be%20lead%20agency.md)
 - [&sect; 00125 - Functions, powers, and duties transfer, reassignment, consolidation, or abolition](%C2%A7%2000125%20-%20Functions%2C%20powers%2C%20and%20duties%20transfer%2C%20reassignment%2C%20consolidation%2C%20or%20abolition.md)
+- [&sect; 00125a - Reform improvement of efficacy and efficiency](%C2%A7%2000125a%20-%20Reform%20improvement%20of%20efficacy%20and%20efficiency.md)
 - [&sect; 00126 - Transfer of funds and employees](%C2%A7%2000126%20-%20Transfer%20of%20funds%20and%20employees.md)
 - [&sect; 00127 - Emergency and extraordinary expenses](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md)
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
@@ -119,6 +124,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00127c - Purchase of weapons overseas force protection](%C2%A7%2000127c%20-%20Purchase%20of%20weapons%20overseas%20force%20protection.md)
 - [&sect; 00127d - Renumbered &sect;331](%C2%A7%2000127d%20-%20Renumbered%20%C2%A7331.md)
 - [&sect; 00127e - Support of special operations to combat terrorism](%C2%A7%2000127e%20-%20Support%20of%20special%20operations%20to%20combat%20terrorism.md)
+- [&sect; 00127f - Expenditure of funds for clandestine activities that support operational preparation of the environment](%C2%A7%2000127f%20-%20Expenditure%20of%20funds%20for%20clandestine%20activities%20that%20support%20operational%20preparation%20of%20the%20environment.md)
 - [&sect; 00128 - Control and physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Control%20and%20physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Civilian personnel management](%C2%A7%2000129%20-%20Civilian%20personnel%20management.md)
 - [&sect; 00129a - General policy for total force management](%C2%A7%2000129a%20-%20General%20policy%20for%20total%20force%20management.md)

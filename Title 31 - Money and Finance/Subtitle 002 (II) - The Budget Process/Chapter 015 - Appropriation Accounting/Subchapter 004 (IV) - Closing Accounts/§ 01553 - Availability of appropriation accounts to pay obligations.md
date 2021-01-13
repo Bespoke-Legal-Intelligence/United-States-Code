@@ -8,7 +8,7 @@
 
 (c)(1) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount of obligations from that appropriation during a fiscal year for contract changes for that program, project, or activity to exceed $4,000,000, the obligation may only be made if the obligation is approved by the head of the agency (or an officer of the agency within the Office of the head of the agency to whom the head of the agency has delegated the authority to approve such an obligation).
 
-(2) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount obligated from that appropriation during a fiscal year for that program, project, or activity to exceed $25,000,000, the obligation may not be made until—
+(2) In the case of a fixed appropriation account with respect to which the period of availability for obligation has ended, if an obligation of funds from that account to provide funds for a program, project, or activity to cover amounts required for contract changes would cause the total amount obligated from that appropriation during a fiscal year for that program, project, oractivity to exceed $25,000,000, the obligation may not be made until—
 
 &emsp;(A) the head of the agency submits to the appropriate authorizing committees of Congress and the Committees on Appropriations of the Senate and the House of Representatives a notice in writing of the intent to obligate such funds, together with a description of the legal basis for the proposed obligation and the policy reasons for the proposed obligation; and
 
@@ -48,6 +48,8 @@ In subsection (a), the word "separately" is substituted for "as one fund" for cl
 
 In subsection (b), the words "Comptroller General" are substituted for "Comptroller General of the United States" and "General Accounting Office" for consistency. The words "affect the authority" are substituted for "abridge the existing authority" to eliminate unnecessary words. The words "settle claims and accounts" are substituted for "settle and adjust claims, demands, and accounts" for consistency with chapter 35 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
@@ -59,6 +61,8 @@ In subsection (b), the words "Comptroller General" are substituted for "Comptrol
 &emsp;"(1) relieve the Comptroller General of the duty to make decisions requested under law; or
 
 &emsp;"(2) affect the authority of the Comptroller General to settle claims and accounts."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -6,7 +6,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 &emsp;(1) has, before December 8, 2004, been determined by the Federal Communications Commission to be a signal a cable operator may carry as significantly viewed in such community, except to the extent that such signal is prevented from being carried by a cable system in such community under the Commission's network nonduplication and syndicated exclusivity rules; or
 
-&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed insuch community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
+&emsp;(2) is, after December 8, 2004, determined by the Commission to be significantly viewed in such community in accordance with the same standards and procedures concerning shares of viewing hours and audience surveys as are applicable under the rules, regulations, and authorizations of the Commission to determining with respect to a cable system whether signals are significantly viewed in a community.
 
 #### (b) Limitations
 
@@ -42,7 +42,7 @@ In addition to the broadcast signals that subscribers may receive under section�
 
 #### (2) Public availability of list
 
-&emsp;The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which the Commission issues an order making any modification of such stations and communities.
+&emsp;The Commission shall make readily available to the public in electronic form, on the Internet website of the Commission or other comparable facility, a list of the stations that are eligible for retransmission under subsection (a) and the communities in which such stations are eligible for such retransmission. The Commission shall update such list within 10 business days after the date on which theCommission issues an order making any modification of such stations and communities.
 
 #### (3) Modifications
 
@@ -108,7 +108,7 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;The Commission shall, no later than October 30, 2005, revise section 76.66 of its regulations (47 CFR 76.66), concerning satellite broadcast signal carriage, to permit (at the next cycle of elections under section 325 of this title) a television broadcast station that is located in a local market into which a satellite carrier retransmits a television broadcast station pursuant to section 338 of this title, to elect, with respect to such satellite carrier, between retransmission consent pursuant to such section 325 of this title and mandatory carriage pursuant to section 338 of this title separately for each county within such station's local market, if—
 
-&emsp;&emsp;(A) the satellite carrier has notified the station, pursuant to paragraph (3), that it intends to carry another affiliate of the same network pursuant to this section during the relevant election period in the station's local market; or
+&emsp;&emsp;(A) the satellite carrier has notified the station, pursuant to paragraph (3), that itintends to carry another affiliate of the same network pursuant to this section during the relevant election period in the station's local market; or
 
 &emsp;&emsp;(B) on the date notification under paragraph (3) was due, the satellite carrier was retransmitting into the station's local market pursuant to this section an affiliate of the same television network.
 
@@ -164,6 +164,8 @@ As used in this section:
 
 (June 19, 1934, ch. 652, title III, §340, as added Pub. L. 108–447, div. J, title IX \[title II, §202(a)\], Dec. 8, 2004, 118 Stat. 3409; amended Pub. L. 111–175, title II, §§203(a), 204(c), May 27, 2010, 124 Stat. 1245, 1250.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. Section 119(a)(3) of title 17 was repealed and section 119(a)(4) was redesignated as section 119(a)(3) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(B), (C), Dec. 20, 2019, 133 Stat. 3202. Section 119(a)(11) of title 17 was redesignated as section 119(a)(8) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
@@ -183,6 +185,8 @@ Subsec. (i)(4). Pub. L. 111–175, §204(c), struck out par. (4). Text read as f
 &emsp;"(D) to affect a satellite operator's obligations under subsection (a)(1) of this section; or
 
 &emsp;"(E) to affect the definitions of 'program related' and 'primary video'."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

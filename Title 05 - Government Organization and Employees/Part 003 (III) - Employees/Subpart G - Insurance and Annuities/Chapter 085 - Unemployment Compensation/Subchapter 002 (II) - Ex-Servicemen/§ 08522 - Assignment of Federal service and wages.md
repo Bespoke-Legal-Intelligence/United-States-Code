@@ -24,9 +24,13 @@ Sept. 13, 1960, Pub. L. 86–778, §542(c)(2), 74 Stat. 986.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–566 struck out "or to the Virgin Islands, as the case may be," after "shall be assigned to the State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

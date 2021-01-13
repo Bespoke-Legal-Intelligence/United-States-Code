@@ -36,11 +36,13 @@ For purposes of this section, the term "United Nations Headquarters District" me
 
 (Aug. 1, 1956, ch. 841, title II, §209A, as added Pub. L. 99–93, title I, §141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, §139(26), Apr. 30, 1994, 108 Stat. 399.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482, 61 Stat. 756, which is set out as a note under section 287 of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: "The Secretary shall apply tothose employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances."
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: "The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country's mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances."
 

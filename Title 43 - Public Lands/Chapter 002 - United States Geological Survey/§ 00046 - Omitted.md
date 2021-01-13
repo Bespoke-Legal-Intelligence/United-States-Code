@@ -1,5 +1,7 @@
 ### §46. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Oct. 12, 1949, ch. 680, title I, 63 Stat. 785, related to exchange of old freight carrying vehicles as part payment for new, was from the Interior Department Appropriation Act, 1950, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:

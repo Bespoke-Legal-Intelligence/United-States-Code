@@ -1,6 +1,6 @@
 ### §10153. Standby Reserve: status of members
 
-While in an inactive status, a Reserve is not eligible for pay or promotion and (as provided in section 12734(a) of this title) does not accrue credit for years of service under chapter 1223 of this title.
+While in an inactive status, a Reserve is not eligible for pay or promotion and (as provided insection 12734(a) of this title) does not accrue credit for years of service under chapter 1223 of this title.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975.)
 

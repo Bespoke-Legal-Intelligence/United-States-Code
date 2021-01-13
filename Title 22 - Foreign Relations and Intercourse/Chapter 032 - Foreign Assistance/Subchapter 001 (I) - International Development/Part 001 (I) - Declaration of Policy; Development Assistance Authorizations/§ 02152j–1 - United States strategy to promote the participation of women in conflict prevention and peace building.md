@@ -38,9 +38,11 @@ It is the sense of Congress that the President, in implementing each strategy su
 
 &emsp;(7) expand and apply gender analysis, as appropriate, to improve program design and targeting; and
 
-&emsp;(8) conduct assessments that include the perspectives of women regarding new initiativesin support of peace negotiations, transitional justice and accountability, efforts to counter violent extremism, or security sector reform.
+&emsp;(8) conduct assessments that include the perspectives of women regarding new initiatives in support of peace negotiations, transitional justice and accountability, efforts to counter violent extremism, or security sector reform.
 
 (Pub. L. 115–68, §5, Oct. 6, 2017, 131 Stat. 1203.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

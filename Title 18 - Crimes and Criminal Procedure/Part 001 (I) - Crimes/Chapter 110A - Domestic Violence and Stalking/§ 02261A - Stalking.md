@@ -22,11 +22,15 @@ Whoever—
 
 &emsp;&emsp;(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
 
-> &emsp;shall be punished as provided in section 2261(b) of this title.
+> &emsp;shall be punished as provided in section 2261(b) or section 2261B, as the case may be.
 
-(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, §107(b), Mar. 7, 2013, 127 Stat. 77; Pub. L. 115–334, title XII, §12502(a)(1), Dec. 20, 2018, 132 Stat. 4982.)
+(Added Pub. L. 104–201, div. A, title X, §1069(a), Sept. 23, 1996, 110 Stat. 2655; amended Pub. L. 106–386, div. B, title I, §1107(b)(1), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §114(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title I, §107(b), Mar. 7, 2013, 127 Stat. 77; Pub. L. 115–334, title XII, §12502(a)(1), Dec. 20, 2018, 132 Stat. 4982; Pub. L. 116–249, §2(c), Dec. 22, 2020, 134 Stat. 1126.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–249 substituted "section 2261(b) or section 2261B, as the case may be" for "section 2261(b) of this title" in concluding provisions.
 
 <b>2018</b>—Par. (1)(A)(iv). Pub. L. 115–334, §12502(a)(1)(A), added cl. (iv).
 
@@ -37,6 +41,8 @@ Par. (2)(A). Pub. L. 115–334, §12502(a)(1)(B), inserted ", a pet, a service 
 <b>2006</b>—Pub. L. 109–162 amended section catchline and text generally, revising and restating former provisions relating to stalking so as to include surveillance with intent to kill, injure, harass, or intimidate which results in substantial emotional distress to a person within the purview of the offense proscribed.
 
 <b>2000</b>—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Whoever travels across a State line or within the special maritime and territorial jurisdiction of the United States with the intent to injure or harass another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury (as defined in section 1365(g)(3) of this title) to, that person or a member of that person's immediate family (as defined in section 115 of this title) shall be punished as provided in section 2261 of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

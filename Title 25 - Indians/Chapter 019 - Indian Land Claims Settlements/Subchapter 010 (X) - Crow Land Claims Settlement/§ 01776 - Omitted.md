@@ -1,8 +1,12 @@
 ### §1776. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 103–444, §2, Nov. 2, 1994, 108 Stat. 4632, which set out congressional findings and purposes, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

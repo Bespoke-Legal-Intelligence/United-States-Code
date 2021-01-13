@@ -42,6 +42,8 @@ For purposes of this section—
 
 (Pub. L. 96–135, §2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, §205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, §801(e), title XIII, §1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2011(f) of this title, referred to in subsec. (c)(2), was in the original a reference to section 1131 of the Education Amendments of 1978, Pub. L. 95–561, meaning section 1131 of Pub. L. 95–561 prior to the general amendments of chapter 22 (§2000 et seq.) of this title by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979, and Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. As added by Pub. L. 107–110, section 1131 of Pub. L. 95–561 relates to policy for Indian control of Indian education and is classified to section 2011 of this title. Provisions relating to waivers of education personnel actions are now contained in section 2012(f) of this title.
@@ -52,7 +54,7 @@ Section was formerly classified to section 472a of this title prior to editorial
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–362, §801(e)(3), struck out par. (1) designation and struck out par. (2) whichread as follows: "The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions."
+<b>1998</b>—Subsec. (d). Pub. L. 105–362, §801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: "The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions."
 
 Pub. L. 105–362, §801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service."
 
@@ -66,13 +68,15 @@ Subsec. (f). Pub. L. 105–362, §801(e)(2), redesignated subsec. (f) as (e).
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–581 substituted "an applicant or employee" for "an employee".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b)(2) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990,with continued service by incumbent Under Secretary of the Interior, see section 529 \[title I, §112(e)(1), (2)(B)\] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

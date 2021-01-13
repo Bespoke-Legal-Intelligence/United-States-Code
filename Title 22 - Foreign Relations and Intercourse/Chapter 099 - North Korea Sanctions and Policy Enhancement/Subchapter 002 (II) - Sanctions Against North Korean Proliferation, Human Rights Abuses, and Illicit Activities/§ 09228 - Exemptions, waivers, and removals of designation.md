@@ -40,9 +40,11 @@ The President may waive, on a case-by-case basis, for renewable periods of betwe
 
 #### (d) Financial services for humanitarian and consular activities
 
-The President may promulgate such regulations, rules, and policies as may be necessary tofacilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
+The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
 
 (Pub. L. 114–122, title II, §208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, §322, Aug. 2, 2017, 131 Stat. 953; Pub. L. 116–92, div. F, title LXXI, §7143(a), Dec. 20, 2019, 133 Stat. 2255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,11 @@ Subsec. (b)(1), (3). Pub. L. 115–44, §322(b), inserted "9221a," after "sectio
 
 Subsec. (c). Pub. L. 115–44, §322(c), inserted "9221a," after "section 9214," and "9241a, 9241b," after "9229(b)," in introductory provisions.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
+
+Functions and authorities of President under section 7143 of Pub. L. 116–92 with respect to this section delegated to Secretary of State, in consultation with the Secretary of the Treasury, by section 1(a)(vi) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 
 Functions and authorities of President under subsecs. (b) and (c) of this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, and functions and authorities of President under subsec. (d) of this section delegated to Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 

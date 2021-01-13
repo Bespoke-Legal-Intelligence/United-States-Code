@@ -100,7 +100,7 @@ Pub. L. 114–94, div. A, title VII, §7308, Dec. 4, 2015, 129 Stat. 1599, as am
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress toward modifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress towardmodifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
 
 "(b)
 

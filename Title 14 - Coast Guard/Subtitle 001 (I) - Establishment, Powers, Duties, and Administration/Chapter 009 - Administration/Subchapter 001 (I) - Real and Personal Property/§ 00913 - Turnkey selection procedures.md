@@ -16,6 +16,8 @@ Definitions.—In this section, the following definitions apply:
 
 (Added Pub. L. 109–241, title II, §205(a), July 11, 2006, 120 Stat. 521, §677; renumbered §913, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 677 of this title as this section.

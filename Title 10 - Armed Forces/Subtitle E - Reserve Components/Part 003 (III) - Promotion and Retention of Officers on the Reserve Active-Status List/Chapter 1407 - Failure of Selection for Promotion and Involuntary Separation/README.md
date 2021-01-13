@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [14501\.](%C2%A7%2014501%20-%20Failure%20of%20selection%20for%20promotion.md) | Failure of selection for promotion. |
 | [14502\.](%C2%A7%2014502%20-%20Special%20selection%20boards%20correction%20of%20errors.md) | Special selection boards: correction of errors. |
+| [14502a.](%C2%A7%2014502a%20-%20Special%20selection%20review%20boards.md) | Special selection review boards. |
 | [14503\.](%C2%A7%2014503%20-%20Discharge%20of%20officers%20with%20less%20than%20six%20years%20of%20commissioned%20service%20or%20found%20not%20qualified%20for%20promotion%20to%20first%20lieutenant%20or%E2%80%A6.md) | Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade). |
 | [14504\.](%C2%A7%2014504%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20first%20lieutenants%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenants%E2%80%A6.md) | Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy. |
 | [14505\.](%C2%A7%2014505%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20captains%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenants%20of%20the%20Navy.md) | Effect of failure of selection for promotion: reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy. |
@@ -26,7 +27,9 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral andabove" for "major generals and rear admirals" in item 14511.
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §505(b)(2), Jan. 1, 2021, 134 Stat. 3571, added item 14502a.
+
+<b>2008</b>—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral and above" for "major generals and rear admirals" in item 14511.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §503(f), Oct. 17, 2006, 120 Stat. 2178, struck out "reserve" before "brigadier" in item 14510 and substituted "62" for "60" in items 14509 and 14510, "64" for "62" in item 14511, and "66" for "64" in item 14512.
 
@@ -45,6 +48,7 @@
 
 - [&sect; 14501 - Failure of selection for promotion](%C2%A7%2014501%20-%20Failure%20of%20selection%20for%20promotion.md)
 - [&sect; 14502 - Special selection boards correction of errors](%C2%A7%2014502%20-%20Special%20selection%20boards%20correction%20of%20errors.md)
+- [&sect; 14502a - Special selection review boards](%C2%A7%2014502a%20-%20Special%20selection%20review%20boards.md)
 - [&sect; 14503 - Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or&#8230;](%C2%A7%2014503%20-%20Discharge%20of%20officers%20with%20less%20than%20six%20years%20of%20commissioned%20service%20or%20found%20not%20qualified%20for%20promotion%20to%20first%20lieutenant%20or%E2%80%A6.md)
 - [&sect; 14504 - Effect of failure of selection for promotion reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants&#8230;](%C2%A7%2014504%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20first%20lieutenants%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenants%E2%80%A6.md)
 - [&sect; 14505 - Effect of failure of selection for promotion reserve captains of the Army, Air Force, and Marine Corps and reserve lieutenants of the Navy](%C2%A7%2014505%20-%20Effect%20of%20failure%20of%20selection%20for%20promotion%20reserve%20captains%20of%20the%20Army%2C%20Air%20Force%2C%20and%20Marine%20Corps%20and%20reserve%20lieutenants%20of%20the%20Navy.md)

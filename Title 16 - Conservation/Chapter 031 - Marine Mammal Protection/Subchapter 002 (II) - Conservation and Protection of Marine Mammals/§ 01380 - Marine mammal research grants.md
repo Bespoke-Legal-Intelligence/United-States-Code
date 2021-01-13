@@ -10,7 +10,7 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 #### (c) Gulf of Maine ecosystem protection
 
-(1) No later than 1 year after April 30, 1994, the Secretary of Commerce shall convene a regional workshop for the Gulf of Maine to assess human-caused factors affecting the health and stability of that marine ecosystem, of which marine mammals are a part. The workshop shall be conducted in consultation with the Marine Mammal Commission, the adjacent coastal States, individuals with expertise in marine mammal biology and ecology, representatives from environmental organizations, the fishing industry, and other appropriate persons. The goal of the workshop shall be to identify such factors, and to recommend a program of research and management to restore or maintain that marine ecosystem and its key components that—
+(1) No later than 1 year after April 30, 1994, the Secretary of Commerce shall convene a regionalworkshop for the Gulf of Maine to assess human-caused factors affecting the health and stability of that marine ecosystem, of which marine mammals are a part. The workshop shall be conducted in consultation with the Marine Mammal Commission, the adjacent coastal States, individuals with expertise in marine mammal biology and ecology, representatives from environmental organizations, the fishing industry, and other appropriate persons. The goal of the workshop shall be to identify such factors, and to recommend a program of research and management to restore or maintain that marine ecosystem and its key components that—
 
 &emsp;(A) protects and encourages marine mammals to develop to the greatest extent feasible commensurate with sound policies of resource management;
 

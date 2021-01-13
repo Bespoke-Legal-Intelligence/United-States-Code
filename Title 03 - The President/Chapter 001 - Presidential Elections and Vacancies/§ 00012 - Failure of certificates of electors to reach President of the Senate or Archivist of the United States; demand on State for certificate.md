@@ -4,11 +4,15 @@ When no certificate of vote and list mentioned in sections 9 and 11 of this titl
 
 (June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §8, 65 Stat. 712; Pub. L. 98–497, title I, §107(e)(1), (2)(B), Oct. 19, 1984, 98 Stat. 2291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" in section catchline and two places in text.
 
 <b>1951</b>—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Secretary of State" in section catchline and two places in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

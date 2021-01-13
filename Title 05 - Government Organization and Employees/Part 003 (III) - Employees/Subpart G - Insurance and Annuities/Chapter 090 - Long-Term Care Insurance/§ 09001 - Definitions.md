@@ -34,7 +34,7 @@ Annuitant.—The term "annuitant" means—
 
 &emsp;(3)
 
-Member of the uniformed services.—The term "member of the uniformed services"means a member of the uniformed services, other than a retired member of the uniformed services, who is—
+Member of the uniformed services.—The term "member of the uniformed services" means a member of the uniformed services, other than a retired member of the uniformed services, who is—
 
 &emsp;&emsp;(A) on active duty or full-time National Guard duty for a period of more than 30 days; or
 
@@ -86,6 +86,8 @@ Appropriate secretary.—The term "appropriate Secretary" means—
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, §138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, §561, Nov. 24, 2003, 117 Stat. 1482; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–356, title I, §117(a)(3), Oct. 16, 2006, 120 Stat. 2027.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is classified to section 7702B of Title 26, Internal Revenue Code.
@@ -111,6 +113,8 @@ Par. (4). Pub. L. 108–136, §561(c), substituted "and a member who has been tr
 <b>2001</b>—Par. (2). Pub. L. 107–104 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The term 'annuitant' has the meaning such term would have under paragraph (3) of section 8901 if, for purposes of such paragraph, the term 'employee' were considered to have the meaning given to it under paragraph (1) of this subsection."
 
 Par. (3)(A). Pub. L. 107–107 substituted "or" for "and" after semicolon.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

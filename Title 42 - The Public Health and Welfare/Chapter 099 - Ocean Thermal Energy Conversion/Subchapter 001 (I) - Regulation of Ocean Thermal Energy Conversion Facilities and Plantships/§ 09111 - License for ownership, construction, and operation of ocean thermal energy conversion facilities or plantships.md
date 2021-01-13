@@ -2,7 +2,7 @@
 
 #### (a) License requirement
 
-No person may engage in the ownership, construction, or operation of an ocean thermal energy conversion facility which is documented under the laws of the United States, which is located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States, or which is connected to the United States by pipeline or cable, except in accordance with a license issued pursuant to this chapter. No citizen of the United States may engage in the ownership, construction or operation of an ocean thermal energy conversion plantship except in accordance with a license issued pursuant to this chapter, or inaccordance with a license issued by a foreign nation whose licenses are found by the Administrator, after consultation with the Secretary of State, to be compatible with licenses issued pursuant to this chapter.
+No person may engage in the ownership, construction, or operation of an ocean thermal energy conversion facility which is documented under the laws of the United States, which is located in whole or in part between the highwater mark and the seaward boundary of the territorial sea of the United States, or which is connected to the United States by pipeline or cable, except in accordance with a license issued pursuant to this chapter. No citizen of the United States may engage in the ownership, construction or operation of an ocean thermal energy conversion plantship except in accordance with a license issued pursuant to this chapter, or in accordance with a license issued by a foreign nation whose licenses are found by the Administrator, after consultation with the Secretary of State, to be compatible with licenses issued pursuant to this chapter.
 
 #### (b) Documented plantships; documented facilities; facilities located in territorial sea; facilities connected to United States by pipeline or cable
 
@@ -20,7 +20,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(2) he determines that the construction and operation of the ocean thermal energy conversion facility or plantship will not be in the national interest and consistent with national security and other national policy goals and objectives, including energy self-sufficiency and environmental quality;
 
-&emsp;(3) he determines, after consultation with the Secretary of the department in which the Coast Guard is operating, that the ocean thermal energy conversion facility or plantship will not be operated with reasonable regard to the freedom of navigation or other reasonable uses of the high seas and authorized uses of the Continental Shelf, as defined by United States law, treaty, convention, or customary international law;
+&emsp;(3) he determines, after consultation with the Secretary of the department in which theCoast Guard is operating, that the ocean thermal energy conversion facility or plantship will not be operated with reasonable regard to the freedom of navigation or other reasonable uses of the high seas and authorized uses of the Continental Shelf, as defined by United States law, treaty, convention, or customary international law;
 
 &emsp;(4) he has been informed, within 45 days after the conclusion of public hearings on that application, or on proposed licenses for the designated application area, by the Administrator of the Environmental Protection Agency that the ocean thermal energy conversion facility or plantship will not conform with all applicable provisions of any law for which he has regulatory authority;
 

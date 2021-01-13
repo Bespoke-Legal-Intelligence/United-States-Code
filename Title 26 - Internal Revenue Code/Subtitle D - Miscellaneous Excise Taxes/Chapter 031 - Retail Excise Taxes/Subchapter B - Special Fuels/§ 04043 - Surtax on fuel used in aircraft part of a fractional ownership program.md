@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) Qualified fractional owner
 
-&emsp;&emsp;The term "qualified fractional owner" means any fractional owner which has aminimum fractional ownership interest in at least one fractional program aircraft.
+&emsp;&emsp;The term "qualified fractional owner" means any fractional owner which has a minimum fractional ownership interest in at least one fractional program aircraft.
 
 #### (B) Minimum fractional ownership interest
 

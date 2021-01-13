@@ -1,6 +1,8 @@
 ### §1300b–1. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 92–467, §2, Oct. 6, 1972, 86 Stat. 781, which provided for distribution of per capita shares to tribal members and authorized the governing body of each tribal group to use the balance of funds for any purposes approved by the Secretary of the Interior, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–467, §2, Oct. 6, 1972, 86 Stat. 781, which provided for distribution of per capita shares to tribal members and authorized the governing body of each tribal group to use the balance of funds for anypurposes approved by the Secretary of the Interior, was omitted from the Code as being of special and not general application.
 

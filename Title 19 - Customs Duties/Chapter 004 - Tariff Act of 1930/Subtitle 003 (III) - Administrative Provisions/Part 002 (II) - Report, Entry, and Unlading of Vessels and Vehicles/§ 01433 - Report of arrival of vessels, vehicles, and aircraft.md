@@ -38,7 +38,7 @@ The pilot of any aircraft arriving in the United States or the Virgin Islands fr
 
 #### (d) Presentation of documentation
 
-The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data, documents, papers, or manifests as the Secretary may by regulation prescribe.
+The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,documents, papers, or manifests as the Secretary may by regulation prescribe.
 
 #### (e) Prohibition on departures and discharge
 

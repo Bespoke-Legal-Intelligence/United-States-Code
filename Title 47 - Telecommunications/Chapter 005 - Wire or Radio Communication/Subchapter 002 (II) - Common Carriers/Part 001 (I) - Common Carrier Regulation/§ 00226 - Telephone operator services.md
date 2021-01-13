@@ -70,7 +70,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) the name, address, and toll-free telephone number of the provider of operator services;
 
-&emsp;&emsp;&emsp;(ii) a written disclosure that the rates for all operator-assisted calls are available on request, and that consumers have a right to obtain access to the interstate common carrier of their choice and maycontact their preferred interstate common carriers for information on accessing that carrier's service using that telephone; and
+&emsp;&emsp;&emsp;(ii) a written disclosure that the rates for all operator-assisted calls are available on request, and that consumers have a right to obtain access to the interstate common carrier of their choice and may contact their preferred interstate common carriers for information on accessing that carrier's service using that telephone; and
 
 &emsp;&emsp;&emsp;(iii) the name and address of the enforcement division of the Common Carrier Bureau of the Commission, to which the consumer may direct complaints regarding operator services;
 
@@ -138,13 +138,13 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (A) In general
 
-&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, and shall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
+&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, andshall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
 
 #### (B) Waiver authority
 
 &emsp;&emsp;The Commission may, after 4 years following October 17, 1990, waive the requirements of this paragraph only if—
 
-&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issuedunder paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) have been achieved; and
+&emsp;&emsp;&emsp;(i) the findings and conclusions of the Commission in the final report issued under paragraph (3)(B)(iii) state that the regulatory objectives specified in subsection (d)(1)(A) and (B) have been achieved; and
 
 &emsp;&emsp;&emsp;(ii) the Commission determines that such waiver will not adversely affect the continued achievement of such regulatory objectives.
 
@@ -196,13 +196,15 @@ Nothing in this section shall be construed to alter the obligations, powers, or 
 
 (June 19, 1934, ch. 652, title II, §226, as added Pub. L. 101–435, §3, Oct. 17, 1990, 104 Stat. 987; amended Pub. L. 101–555, §4, Nov. 15, 1990, 104 Stat. 2760; Pub. L. 102–538, title II, §207, Oct. 27, 1992, 106 Stat. 3543; Pub. L. 103–414, title III, §§303(a)(10), 304(a)(8), Oct. 25, 1994, 108 Stat. 4294, 4297.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: "The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed."
+<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: "The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect notlater than 45 days after the date the regulations are prescribed."
 
 Subsec. (e)(1). Pub. L. 103–414, §304(a)(8), struck out "within 9 months after October 17, 1990," after "The Commission," in introductory provisions.
 
@@ -219,6 +221,8 @@ Subsec. (b)(1)(J). Pub. L. 101–555, §4(b), struck out subpar. (J) which read 
 > unless the call is billed at a rate not greater than the other provider's rate for the call, the consumer requests a special service that is not available under tariff from the other provider, or the consumer expressly consents to a rate greater than the other provider's rate."
 
 Subsecs. (b)(2), (c)(1), (h)(1)(A). Pub. L. 101–555, §4(a), substituted "90 days" for "30 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

@@ -20,7 +20,7 @@ Information To Be Provided.—The debriefing shall include, at a minimum—
 
 &emsp;(4) a summary of the rationale for the award;
 
-&emsp;(5) in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the itembeing provided in accordance with the offer of the contractor awarded the contract; and
+&emsp;(5) in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract; and
 
 &emsp;(6) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the executive agency.
 
@@ -88,9 +88,13 @@ June 30, 1949, ch. 288, title III, §303B(e), as added Pub. L. 103–355, title 
 
 June 30, 1949, ch. 288, title III, §303B(g) (related to §303B(e)), as added Pub. L. 104–106, title XLI, §4104(b)(3), Feb. 10, 1996, 110 Stat. 645.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(5). Pub. L. 115–232 substituted "commercial product" for "commercial item".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

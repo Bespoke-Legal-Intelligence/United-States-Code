@@ -26,7 +26,19 @@ Annual Report Related to Installations Energy Management, Energy Resilience, and
 
 &emsp;(6) A list of energy resilience projects planned by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the next two fiscal years, including project description, fuel type, expected award date, and the type of appropriation or alternative financing expected for use.
 
-&emsp;(7) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+&emsp;(7) A description of the use of energy savings performance contracts (in this paragraph referred to as "ESPCs") by the Department of Defense, including—
+
+&emsp;&emsp;(A) the total investment value of the total number of ESPCs per service for the previous five fiscal years;
+
+&emsp;&emsp;(B) the location of facilities with ESPCs for the previous five fiscal years;
+
+&emsp;&emsp;(C) any limitations on expanding ESPCs throughout the Department of Defense;
+
+&emsp;&emsp;(D) the effect ESPCs have on military readiness; and
+
+&emsp;&emsp;(E) any additional information the Secretary determines relevant.
+
+&emsp;(8) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
 (b)
 
@@ -50,11 +62,11 @@ Annual Report Related to Operational Energy.—(1) Simultaneous with the annual 
 
 &emsp;(F) An evaluation of practices used in contingency operations during the previous fiscal year and potential improvements to such practices to reduce vulnerabilities associated with fuel convoys, including improvements in tent and structure efficiency, improvements in generator efficiency, and displacement of liquid fuels with on-site renewable energy generation. Such evaluation should identify challenges associated with the deployment of more efficient structures and equipment and renewable energy generation, and recommendations for overcoming such challenges.
 
-&emsp;(G) Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority withinthe Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
+&emsp;(G) Such recommendations as the Assistant Secretary considers appropriate for additional changes in organization or authority within the Department of Defense to enable further implementation of the energy strategy and such other comments and recommendations as the Assistant Secretary considers appropriate.
 
 (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, §313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, §311, Dec. 23, 2016, 130 Stat. 2072; Pub. L. 115–91, div. A, title X, §1081(a)(48), div. B, title XXVIII, §§2831(c)(7), 2836, Dec. 12, 2017, 131 Stat. 1597, 1858, 1859; Pub. L. 115–232, div. A, title III, §§312(c), 314(b)(1), Aug. 13, 2018, 132 Stat. 1710, 1712; Pub. L. 116–92, div. A, title III, §§319(a), 320(a)(2)(B), Dec. 20, 2019, 133 Stat. 1305, 1306.)
+(Added Pub. L. 109–364, div. B, title XXVIII, §2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, \[div. A\], title III, §331(a), (b)(1), div. B, title XXVIII, §2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, §332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, §2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§314(b), 342, div. B, title XXVIII, §§2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, §1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, §901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, §313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, §311, Dec. 23, 2016, 130 Stat. 2072; Pub. L. 115–91, div. A, title X, §1081(a)(48), div. B, title XXVIII, §§2831(c)(7), 2836, Dec. 12, 2017, 131 Stat. 1597, 1858, 1859; Pub. L. 115–232, div. A, title III, §§312(c), 314(b)(1), Aug. 13, 2018, 132 Stat. 1710, 1712; Pub. L. 116–92, div. A, title III, §§319(a), 320(a)(2)(B), Dec. 20, 2019, 133 Stat. 1305, 1306; Pub. L. 116–283, div. A, title III, §336(a), Jan. 1, 2021, 134 Stat. 3533.)
 
 #### References in Text
 
@@ -63,6 +75,8 @@ The Energy Policy Act of 2005, referred to in subsec. (a)(1), is Pub. L. 109–5
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492, which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7), (8). Pub. L. 116–283 added par. (7) and redesignated former par. (7) as (8).
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §319(a)(1), (2), inserted "and Readiness" after "Mission Assurance" in heading and "The Secretary shall ensure that mission operators of critical facilities provide to personnel of military installations any information necessary for the completion of such report." after "by the Secretary." in introductory provisions.
 
@@ -88,7 +102,7 @@ Subsec. (a)(1). Pub. L. 115–91, §2836(1), inserted ", including progress on 
 
 Pub. L. 115–91, §2831(c)(7)(B), substituted "2911(g)" for "2911(e)".
 
-Subsec. (a)(3). Pub. L. 115–91, §2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense."
+Subsec. (a)(3). Pub. L. 115–91, §2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department ofDefense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense."
 
 Subsec. (a)(4), (5). Pub. L. 115–91, §2836(3), (4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -163,6 +177,10 @@ Subsec. (b)(4). Pub. L. 112–81, §2821(b)(4), struck out par. (4) which read a
 Subsec. (a). Pub. L. 110–417, §2832, in heading substituted "Annual Report Related to Installations Energy Management" for "Report Required", in par. (1) inserted ", the Energy Independence and Security Act of 2007 (Public Law 110–140)," after "(Public Law 109–58)", and added par. (6).
 
 Subsec. (b). Pub. L. 110–417, §331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title III, §336(b), Jan. 1, 2021, 134 Stat. 3533, provided that: "The reporting requirement under paragraph (7) of section 2925(a) of title 10, United States Code, as added by subsection (a) of this section, applies to reports submitted under such section 2925 for fiscal year 2021 and thereafter."
 
 #### Termination of Reporting Requirements
 

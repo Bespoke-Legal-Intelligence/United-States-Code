@@ -1,5 +1,47 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Co-Location Agreements
+
+Pub. L. 116–259, title V, §502, Dec. 23, 2020, 134 Stat. 1178, provided that:
+
+"(a)
+
+In General.—During fiscal years 2021 through 2030, and subject to the availability of appropriations, the Administrator of the National Oceanic and Atmospheric Administration may execute noncompetitive co-location agreements for real property and incidental goods and services with entities described in subsection (b) for periods of not more than 20 years, if each such agreement is supported by a price reasonableness analysis.
+
+"(b)
+
+Entities Described.—An entity described in this subsection is—
+
+&emsp;"(1) the government of any State, territory, possession, or locality of the United States;
+
+&emsp;"(2) any Tribal organization (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304));
+
+&emsp;"(3) any subdivision of—
+
+&emsp;&emsp;"(A) a government described in paragraph (1); or
+
+&emsp;&emsp;"(B) an organization described in paragraph (2); or
+
+&emsp;"(4) any organization that is—
+
+&emsp;&emsp;"(A) organized under the laws of the United States or any jurisdiction within the United States; and
+
+&emsp;&emsp;"(B) described in section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)\] and exempt from tax under section 501(a) of such Code.
+
+"(c)
+
+Collaboration Agreements.—Upon the execution of an agreement authorized by subsection (a) with an entity, the Administrator may enter into agreements with the entity to collaborate or engage in projects or programs on matters of mutual interest for periods not to exceed the term of the agreement. The cost of such agreements shall be apportioned equitably, as determined by the Administrator.
+
+"(d)
+
+Savings Clause.—Nothing in this section shall be construed—
+
+&emsp;"(1) to affect the authority of the Administrator of General Services; or
+
+&emsp;"(2) to grant the Administrator of the National Oceanic and Atmospheric Administration any additional authority to enter into a lease without approval of the General Services Administration."
+
 
 ---
 
@@ -31,7 +73,7 @@
 - [&sect; 00857&#8211;17 - Interagency cooperation and assistance](%C2%A7%2000857%E2%80%9317%20-%20Interagency%20cooperation%20and%20assistance.md)
 - [&sect; 00857&#8211;18 - Authorization of appropriations](%C2%A7%2000857%E2%80%9318%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00857&#8211;19 - Biennial report](%C2%A7%2000857%E2%80%9319%20-%20Biennial%20report.md)
-- [&sect; 00857&#8211;20 - Coordination](%C2%A7%2000857%E2%80%9320%20-%20Coordination.md)
+- [&sect; 00857&#8211;20 - Repealed. Pub. L. 116&#8211;221, &sect;10, Dec. 18, 2020, 134 Stat. 1061](%C2%A7%2000857%E2%80%9320%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93221%2C%20%C2%A710%2C%20Dec.%2018%2C%202020%2C%20134%20Stat.%201061.md)
 - [&sect; 00857a, 858 - Repealed. Pub. L. 107&#8211;372, title II, &sect;271(2), (4), Dec. 19, 2002, 116 Stat. 3094](%C2%A7%2000857a%2C%20858%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93372%2C%20title%20II%2C%20%C2%A7271%282%29%2C%20%284%29%2C%20Dec.%2019%2C%202002%2C%20116%20Stat.%203094.md)
 - [&sect; 00859 - Repealed. June 16, 1942, ch. 413, &sect;19, 56 Stat. 369, eff. June 1, 1942](%C2%A7%2000859%20-%20Repealed.%20June%2016%2C%201942%2C%20ch.%20413%2C%20%C2%A719%2C%2056%20Stat.%20369%2C%20eff.%20June%201%2C%201942.md)
 - [&sect; 00860 - Repealed. Pub. L. 87&#8211;649, &sect;14b, Sept. 7, 1962, 76 Stat. 499](%C2%A7%2000860%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93649%2C%20%C2%A714b%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20499.md)

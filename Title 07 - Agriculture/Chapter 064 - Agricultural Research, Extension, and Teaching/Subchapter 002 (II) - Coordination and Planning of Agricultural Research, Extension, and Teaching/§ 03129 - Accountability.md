@@ -24,5 +24,5 @@ The Government Performance and Results Act of 1993, referred to in subsec. (c), 
 
 #### Prior Provisions
 
-A prior section 3129, Pub. L. 95–113, title XIV, §1413A, as added Pub. L. 96–294, title II, §255(a), June 30, 1980, 94 Stat. 707, provided for biomass energy educational and technical assistance programs, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(C), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3129, Pub. L. 95–113, title XIV, §1413A, as added Pub. L. 96–294, title II, §255(a), June 30, 1980,94 Stat. 707, provided for biomass energy educational and technical assistance programs, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(C), Nov. 28, 1990, 104 Stat. 3704.
 

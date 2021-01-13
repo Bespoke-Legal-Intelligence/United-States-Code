@@ -1,5 +1,7 @@
 ### §§70 to 72. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 70, act July 16, 1914, ch. 141, §1, 38 Stat. 456, repealed resolutions passed prior to July 1, 1914, authorizing payment for clerical and messenger service.

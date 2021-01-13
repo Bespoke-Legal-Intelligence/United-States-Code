@@ -8,7 +8,7 @@ General Requirements.—(1) To the extent provided in advance in an appropriatio
 
 &emsp;(B) is not more than $1,500,000,000 (plus additional amounts necessary to reflect inflation occurring after January 1, 1989) above that insurance or financial responsibility amount.
 
-(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 50914(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insurance involved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
+(2) The Secretary may not provide for paying a part of a claim for which death, bodily injury, or property damage or loss results from willful misconduct by the licensee or transferee. To the extent insurance required under section 50914(a)(1)(A) of this title is not available to cover a successful third party liability claim because of an insurance policy exclusion the Secretary decides is usual for the type of insuranceinvolved, the Secretary may provide for paying the excluded claims without regard to the limitation contained in section 50914(a)(1).
 
 (3)(A) A person described in this subparagraph is—
 
@@ -34,7 +34,7 @@ Notice, Participation, and Approval.—Before a payment under subsection (a) of 
 
 (c)
 
-Withholding Payments.—The Secretary may withhold a payment under subsection (a) ofthis section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
+Withholding Payments.—The Secretary may withhold a payment under subsection (a) of this section if the Secretary certifies that the amount is not reasonable. However, the Secretary shall deem to be reasonable the amount of a claim finally decided by a court of competent jurisdiction.
 
 (d)
 
@@ -190,6 +190,8 @@ In subsection (f), the word "only" is omitted as surplus.
 
 This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1340).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–90, §103(a)(2)(A), in introductory provisions, substituted "a person described in paragraph (3)(A)" for "a licensee or transferee under this chapter, a contractor, subcontractor, or customer of the licensee or transferee, or a contractor or subcontractor of a customer, but not against a space flight participant,".
@@ -227,6 +229,8 @@ Pub. L. 106–377 substituted "December 31, 2001" for "December 31, 2000".
 <b>1998</b>—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted "or reentry" after "one launch".
 
 <b>1996</b>—Subsec. (e)(6)(D). Pub. L. 104–287 substituted "related to a resolution" for "related to resolution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

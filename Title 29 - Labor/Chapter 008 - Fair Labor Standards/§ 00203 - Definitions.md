@@ -78,7 +78,7 @@ As used in this chapter—
 
 &emsp;(i) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996; and
 
-&emsp;(ii) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in clause (i) and the wage in effect under section 206(a)(1) of this title.
+&emsp;(ii) an additional amount on account of the tips received by such employee which amountis equal to the difference between the wage specified in clause (i) and the wage in effect under section 206(a)(1) of this title.
 
 > The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
 
@@ -110,7 +110,7 @@ As used in this chapter—
 
 &emsp;(ii) is an enterprise whose annual gross volume of sales made or business done is not less than $500,000 (exclusive of excise taxes at the retail level that are separately stated);
 
-&emsp;(B) is engaged in the operation of a hospital, an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises of such institution, a school for mentally or physically handicapped or gifted children, a preschool,elementary or secondary school, or an institution of higher education (regardless of whether or not such hospital, institution, or school is public or private or operated for profit or not for profit); or
+&emsp;(B) is engaged in the operation of a hospital, an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises of such institution, a school for mentally or physically handicapped or gifted children, a preschool, elementary or secondary school, or an institution of higher education (regardless of whether or not such hospital, institution, or school is public or private or operated for profit or not for profit); or
 
 &emsp;(C) is an activity of a public agency.
 
@@ -133,6 +133,8 @@ As used in this chapter—
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
 (June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -168,7 +170,7 @@ Subsec. (s). Pub. L. 101–157, §3(a), amended subsec. (s) generally, completel
 
 <b>1985</b>—Subsec. (e)(1). Pub. L. 99–150, §4(a)(1), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
-Subsec. (e)(2)(C)(ii). Pub. L. 99–150, §5, struck out "or" at end of subcl. (III), struck out "who" in subcl.\(IV) before "is an", substituted ", or" for period at end of subcl. (IV), and added subcl. (V).
+Subsec. (e)(2)(C)(ii). Pub. L. 99–150, §5, struck out "or" at end of subcl. (III), struck out "who" in subcl. (IV) before "is an", substituted ", or" for period at end of subcl. (IV), and added subcl. (V).
 
 Subsec. (e)(4). Pub. L. 99–150, §4(a)(2), added par. (4).
 
@@ -180,7 +182,7 @@ Subsec. (t). Pub. L. 95–151, §3(a), substituted "$30" for "$20".
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–259, §6(a)(1), redefined "employer" to include a public agency and struck out text which excluded from such term the United States or any State or political subdivision of a State (except with respect to employees of a State, or a political subdivision thereof, employed (1) in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or (2) in the operation of a railway or carrier referred to in such sentence).
 
-Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of "employee", incorporated existing introductory text in provisions designated as par. (1), inserting exception provision; added par. (2); incorporated existing cl. (1) in provisions designated as par. (3); and struck out former cl. (2) excepting from "employee", "any individual who is employed by an employer engaged in agriculture if such individual (A) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (B) commutes daily from his permanent residence to the farm on which he is so employed, and (C) has been engaged in agriculture less than thirteen weeks during the preceding calendar year".
+Subsec. (e). Pub. L. 93–259, §6(a)(2), in revising definition of "employee", incorporated existing introductory text in provisions designated as par. (1), inserting exception provision; added par. (2); incorporated existingcl. (1) in provisions designated as par. (3); and struck out former cl. (2) excepting from "employee", "any individual who is employed by an employer engaged in agriculture if such individual (A) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (B) commutes daily from his permanent residence to the farm on which he is so employed, and (C) has been engaged in agriculture less than thirteen weeks during the preceding calendar year".
 
 Subsec. (h). Pub. L. 93–259, §6(a)(3), substituted "other activity, or branch or group thereof" for "branch thereof, or group of industries".
 
@@ -225,6 +227,8 @@ Subsec. (j). Act Oct. 26, 1949, §3(b), inserted "closely related" before "proce
 Subsec. (l)(1). Act Oct. 26, 1949, §3(c), included parental employment of a child under 16 years of age in an occupation found by the Secretary of Labor to be hazardous for children between the ages of 16 and 18 years, in definition of oppressive child labor.
 
 Subsecs. (n), (o). Act Oct. 26, 1949, §3(d), added subsecs. (n) and (o).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -278,10 +282,6 @@ Pub. L. 115–141, div. S, title XII, §1201(c), Mar. 23, 2018, 132 Stat. 1149, 
 
 Pub. L. 106–151, §2, Dec. 9, 1999, 113 Stat. 1731, provided that: "The amendment made by section 1 \[amending this section\] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(k)\]."
 
-#### Transfer of Functions
-
-In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
-
 #### Preservation of Coverage
 
 Pub. L. 101–157, §3(b), Nov. 17, 1989, 103 Stat. 939, provided that:
@@ -302,7 +302,7 @@ Violations.—A violation of paragraph (1) shall be considered a violation of se
 
 #### Volunteers; Promulgation of Regulations
 
-Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: "Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry outparagraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\]."
+Pub. L. 99–150, §4(b), Nov. 13, 1985, 99 Stat. 790, provided that: "Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry out paragraph (4) of section 3(e) (as amended by subsection (a) of this section) \[29 U.S.C. 203(e)(4)\]."
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 
@@ -318,7 +318,13 @@ Pub. L. 95–151, §15(c), Nov. 1, 1977, 91 Stat. 1253, provided that: "On and a
 
 #### Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments
 
-Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in part that: "On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\]."
+Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in part that: "On and after the date of theenactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under section 201 of this title\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "in".</i>
 

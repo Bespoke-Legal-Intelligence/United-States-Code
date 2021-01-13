@@ -17,7 +17,7 @@
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514, title XIV, §1432(d)(2), title XVIII, §1852(e)(2)(B), Oct. 22, 1986, 100 Stat. 2730, 2868, added item 2515 and struck out item 2517 "Certain annuities under qualified plans".
+<b>1986</b>—Pub. L. 99–514, title XIV, §1432(d)(2), title XVIII, §1852(e)(2)(B), Oct. 22, 1986, 100 Stat. 2730, 2868, addeditem 2515 and struck out item 2517 "Certain annuities under qualified plans".
 
 <b>1981</b>—Pub. L. 97–34, title IV, §403(c)(3)(C), (d)(3)(B)(ii), Aug. 13, 1981, 95 Stat. 302, 304, as amended Pub. L. 97–448, title I, §104(a)(3)(B), Jan. 12, 1983, 96 Stat. 2380, struck out items 2515 "Tenancies by the entirety in real property" and 2515A "Tenancies by the entirety in personal property" and added item 2519.
 

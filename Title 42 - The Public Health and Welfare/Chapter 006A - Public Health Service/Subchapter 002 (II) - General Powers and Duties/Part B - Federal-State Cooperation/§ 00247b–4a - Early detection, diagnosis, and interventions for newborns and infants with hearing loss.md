@@ -26,7 +26,7 @@ For the purposes of this section only, the following terms in this section are d
 
 #### (6) Early intervention
 
-&emsp;Early intervention (e.g., nonmedical) means providing appropriate services for the child with hearing loss and ensuring that families ofthe child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.
+&emsp;Early intervention (e.g., nonmedical) means providing appropriate services for the child with hearing loss and ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, communication options and are given the opportunity to consider the full range of educational and program placements and options for their child.
 
 #### (b) Purposes
 
@@ -54,7 +54,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) Centers for Disease Control and Prevention
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperativeagreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
 
 &emsp;&emsp;(A) to ensure quality monitoring of newborn and infant hearing loss screening, evaluation, and intervention programs and systems;
 

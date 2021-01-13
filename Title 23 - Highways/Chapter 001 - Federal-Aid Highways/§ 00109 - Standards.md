@@ -128,6 +128,8 @@ Pavement Markings.—The Secretary shall not approve any pavement markings proje
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229; Pub. L. 109–59, title I, §1110(a), (c), title VI, §6008, Aug. 10, 2005, 119 Stat. 1170, 1171, 1874; Pub. L. 112–141, div. A, title I, §§1504, 1519(c)(3), formerly §1519(c)(4), July 6, 2012, 126 Stat. 564, 575, renumbered §1519(c)(3), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §1404(a), Dec. 4, 2015, 129 Stat. 1409.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c)(1). Pub. L. 114–94, §1404(a)(1)(A)(i), substituted "shall consider" for "may take into account" in introductory provisions.
@@ -168,7 +170,7 @@ Subsec. (c). Pub. L. 104–59, §304(2), added subsec. (c) and struck out former
 
 "(c)
 
-Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System, for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards."
+Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System,for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards."
 
 Subsec. (j). Pub. L. 104–59, §305(a), substituted "plan for—" and pars. (1) and (2) for "plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended."
 
@@ -213,6 +215,8 @@ Subsecs. (h) to (j). Pub. L. 91–605, §136(b), added subsecs. (h) to (j).
 Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–157 substituted "Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project" for "Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975", struck out "up" before "to such standards" and inserted "all" in phrase "throughout all the States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -442,7 +446,7 @@ Outcome measurements.—The Secretary shall establish a method to verify that ac
 
 #### Engineering Judgment
 
-Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices shouldnot be considered a substitute for engineering judgment."
+Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b)of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
 
 #### Highway Signs Relating to Veterans Cemeteries
 
@@ -556,7 +560,7 @@ General rule.—No funds made available out of the Highway Trust Fund may be use
 
 "(2)
 
-Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial constructionbefore approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
 
 #### Highway Signs for National Highway System
 
@@ -564,7 +568,7 @@ Pub. L. 104–59, title III, §359(b), Nov. 28, 1995, 109 Stat. 626, provided th
 
 "(1)
 
-Study.—The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing ahighway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
+Study.—The Secretary shall conduct a study to determine the cost, need, and efficacy of establishing a highway sign for identifying routes on the National Highway System. In conducting the study, the Secretary shall make a determination concerning whether to identify National Highway System route numbers.
 
 "(2)
 

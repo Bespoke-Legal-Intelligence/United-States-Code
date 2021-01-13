@@ -28,11 +28,11 @@
 
 #### (6) Limitation on indefinite detention
 
-&emsp;An alien detained solely under paragraph (1) who has not been removed under section1231(a)(1)(A) of this title, and whose removal is unlikely in the reasonably foreseeable future, may be detained for additional periods of up to six months only if the release of the alien will threaten the national security of the United States or the safety of the community or any person.
+&emsp;An alien detained solely under paragraph (1) who has not been removed under section 1231(a)(1)(A) of this title, and whose removal is unlikely in the reasonably foreseeable future, may be detained for additional periods of up to six months only if the release of the alien will threaten the national security of the United States or the safety of the community or any person.
 
 #### (7) Review of certification
 
-&emsp;The Attorney General shall review the certification made under paragraph (3) every 6 months. If the Attorney General determines, in the Attorney General's discretion, that the certification should be revoked, the alien may be released on such conditions as the Attorney General deems appropriate, unless such release is otherwise prohibited by law. The alien may request each 6 months in writing that the Attorney General reconsider the certification and may submit documents or other evidence in support of that request.
+&emsp;The Attorney General shall review the certification made under paragraph (3) every 6 months. If the Attorney General determines, in the Attorney General's discretion, that thecertification should be revoked, the alien may be released on such conditions as the Attorney General deems appropriate, unless such release is otherwise prohibited by law. The alien may request each 6 months in writing that the Attorney General reconsider the certification and may submit documents or other evidence in support of that request.
 
 #### (b) Habeas corpus and judicial review
 
@@ -72,9 +72,13 @@ The provisions of this section shall not be applicable to any other provision of
 
 (June 27, 1952, ch. 477, title II, ch. 4, §236A, as added Pub. L. 107–56, title IV, §412(a), Oct. 26, 2001, 115 Stat. 350.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

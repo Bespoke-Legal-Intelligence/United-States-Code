@@ -40,7 +40,7 @@ Investigations.—
 
 &emsp;(A)
 
-Conduct of investigations.—In conducting investigations of potential violations ofFederal criminal law or Federal regulations, the Inspector General shall—
+Conduct of investigations.—In conducting investigations of potential violations of Federal criminal law or Federal regulations, the Inspector General shall—
 
 &emsp;&emsp;(i) abide by professional standards applicable to Federal law enforcement agencies; and
 
@@ -60,7 +60,7 @@ Required reporting of allegations and investigations and inspector general autho
 
 &emsp;(A)
 
-In general.—The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a "Department entity") shall submit to the Inspector General a report of any allegation of—
+In general.—The head of a bureau, post, or other office of the Department of State (inthis paragraph referred to as a "Department entity") shall submit to the Inspector General a report of any allegation of—
 
 &emsp;&emsp;(i) waste, fraud, or abuse in a Department program or operation;
 
@@ -104,7 +104,7 @@ Deadline.—The head of a Department entity shall submit to the Inspector Genera
 
 #### (e) Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General; participation in formal interviews
 
-(1) The Inspector General shall have the same authority in carrying out the provisions of thissection as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
+(1) The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
@@ -121,6 +121,8 @@ Deadline.—The head of a Department entity shall submit to the Inspector Genera
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
 (Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443; Pub. L. 114–323, title II, §203, Dec. 16, 2016, 130 Stat. 1916.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +141,8 @@ Subsec. (d)(2)(F). Pub. L. 106–113, §1000(a)(7) \[div. A, title III, §339(b)
 Subsec. (e)(3). Pub. L. 105–277, §2208(b), added par. (3).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–529 repealed §413(a)(6) of Pub. L. 99–399 and reenacted last sentence which had been struck out by Pub. L. 99–399.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

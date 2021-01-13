@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment; Reasonableness.—A motor carrier providing transportation of passengers subject to jurisdiction under subchapter I of chapter 135 shall establish through routeswith other carriers of the same type and shall establish individual and joint rates applicable to them. Such through route must be reasonable.
+Establishment; Reasonableness.—A motor carrier providing transportation of passengers subject to jurisdiction under subchapter I of chapter 135 shall establish through routes with other carriers of the same type and shall establish individual and joint rates applicable to them. Such through route must be reasonable.
 
 (b)
 

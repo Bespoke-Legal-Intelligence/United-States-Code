@@ -30,7 +30,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;(D) training in early childhood, child, and adolescent development;
 
-&emsp;(7) improving the skills, qualifications, and availability of individuals providing services to children and families, and the supervisors of such individuals, through the child protection system, including improvements in the recruitment and retention of caseworkers;
+&emsp;(7) improving the skills, qualifications, and availability of individuals providing servicesto children and families, and the supervisors of such individuals, through the child protection system, including improvements in the recruitment and retention of caseworkers;
 
 &emsp;(8) developing, facilitating the use of, and implementing research-based strategies and training protocols for individuals mandated to report child abuse and neglect;
 
@@ -114,7 +114,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;(vi) procedures for immediate steps to be taken to ensure and protect the safety of a victim of child abuse or neglect and of any other child under the same care who may also be in danger of child abuse or neglect and ensuring their placement in a safe environment;
 
-&emsp;&emsp;&emsp;(vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected orknown instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
+&emsp;&emsp;&emsp;(vii) provisions for immunity from civil or criminal liability under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect, or who otherwise provide information or assistance, including medical evaluations or consultations, in connection with a report, investigation, or legal intervention pursuant to a good faith report of child abuse or neglect;
 
 &emsp;&emsp;&emsp;(viii) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III shall only be made available to—
 
@@ -152,7 +152,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 &emsp;&emsp;&emsp;&emsp;(II) by which individuals who disagree with an official finding of child abuse or neglect can appeal such finding;
 
-&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does not require reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
+&emsp;&emsp;&emsp;(xvi) provisions, procedures, and mechanisms that assure that the State does notrequire reunification of a surviving child with a parent who has been found by a court of competent jurisdiction—
 
 &emsp;&emsp;&emsp;&emsp;(I) to have committed murder (which would have been an offense under section 1111(a) of title 18 if the offense had occurred in the special maritime or territorial jurisdiction of the United States) of another child of such parent;
 
@@ -296,7 +296,7 @@ The Secretary shall make grants to the States, from allotments made under subsec
 
 #### (6) Reports
 
-&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems andthe citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
+&emsp;Each panel established under paragraph (1) shall prepare and make available to the State and the public, on an annual basis, a report containing a summary of the activities of the panel and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system.
 
 #### (d) Annual State data reports
 
@@ -356,7 +356,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 &emsp;(12) The number of children for whom individuals were appointed by the court to represent the best interests of such children and the average number of out of court contacts between such individuals and children.
 
-&emsp;(13) The annual report containing the summary of the activities of the citizen review panels of the State required by subsection (c)(6).
+&emsp;(13) The annual report containing the summary of the activities of the citizen reviewpanels of the State required by subsection (c)(6).
 
 &emsp;(14) The number of children under the care of the State child protection system who are transferred into the custody of the State juvenile justice system.
 
@@ -432,7 +432,7 @@ Within 6 months after receiving the State reports under subsection (d), the Secr
 
 &emsp;Notwithstanding paragraphs (2) and (4), except as provided in paragraph (3), no State or territory shall receive a grant under this section in an amount that is less than the amount such State or territory received under this section for fiscal year 2009.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130 Stat. 729, 730; Pub. L. 115–424, §3(a), Jan. 7, 2019, 132 Stat. 5470.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812; Pub. L. 111–320, title I, §115, Dec. 20, 2010, 124 Stat. 3467; Pub. L. 114–22, title VIII, §802(b), May 29, 2015, 129 Stat. 263; Pub. L. 114–198, title V, §503(b), (c), July 22, 2016, 130Stat. 729, 730; Pub. L. 115–424, §3(a), Jan. 7, 2019, 132 Stat. 5470.)
 
 #### References in Text
 
@@ -646,7 +646,7 @@ Subsec. (c)(4)(A)(iii)(I). Pub. L. 108–36, §114(c)(1)(A)(ii), substituted "St
 
 Subsec. (c)(4)(C). Pub. L. 108–36, §114(c)(1)(B), added subpar. (C).
 
-Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and locallevels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
+Subsec. (c)(6). Pub. L. 108–36, §114(c)(2), substituted "State and the public" for "public" and inserted before period at end "and recommendations to improve the child protection services system at the State and local levels. Not later than 6 months after the date on which a report is submitted by the panel to the State, the appropriate State agency shall submit a written response to State and local child protection systems and the citizen review panel that describes whether or how the State will incorporate the recommendations of such panel (where appropriate) to make measurable progress in improving the State and local child protective system".
 
 Subsec. (d)(13), (14). Pub. L. 108–36, §114(d), added pars. (13) and (14).
 

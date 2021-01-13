@@ -58,6 +58,8 @@ Five members of the National Council shall constitute a quorum and any vacancy i
 
 (Pub. L. 93–112, title IV, §400, as added Pub. L. 105–220, title IV, §407, Aug. 7, 1998, 112 Stat. 1198; amended Pub. L. 112–166, §2(q), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 113–128, title IV, §451, July 22, 2014, 128 Stat. 1674; Pub. L. 114–18, §3(a), May 22, 2015, 129 Stat. 214.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 780, Pub. L. 93–112, title IV, §400, as added Pub. L. 95–602, title I, §117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, §141(a), Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, §103(d)(2)(C), title V, §501, title X, §1001(e), Oct. 21, 1986, 100 Stat. 1810, 1828, 1843; Pub. L. 100–630, title II, §205(b), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, §102(p)(26), title IV, §401, Oct. 29, 1992, 106 Stat. 4360, 4421, related to establishment of the National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -98,11 +100,13 @@ Subsec. (d). Pub. L. 113–128, §451(3), substituted "Five" for "Eight".
 
 <b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–18, §3(b), May 22, 2015, 129 Stat. 214, provided that: "The amendment made by this section \[amending this section\] shall take effect as if enacted 1 day after the date of enactment of the Workforce Innovation and Opportunity Act \[Pub. L. 113–128, approved July 22, 2014\] (29 U.S.C. 3101 et seq.)."
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nominationpending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 

@@ -20,6 +20,8 @@ Aug. 10, 1956, ch. 1041, §31, 70A Stat. 632.
 
 The words "the Secretary concerned" are substituted for "officers and agents of the Finance Corps of the Army or finance officers of the Air Force, as the case may be" and "the Secretary of the Army or the Secretary of the Air Force, as the case may be" for consistency in the title. The words "various" and "issued" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398 substituted "section 402(e)" for "section 402(b)(3)".
@@ -27,6 +29,8 @@ The words "the Secretary concerned" are substituted for "officers and agents of 
 <b>1996</b>—Pub. L. 104–106 substituted "section 402(b)(3)" for "the last sentence of section 402(b)" and substituted "Secretary of Defense" for "Secretary concerned" in two places.
 
 <b>1985</b>—Pub. L. 99–145 inserted ": pay of enlisted members of the National Guard" in section catchline, and substituted "for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title," for "under sections 206(a), (b), and (d), 301(f), 309, 402(b) (last sentence), and 1002 of this title for pay", "All such disbursements" for "Disbursements", and "as prescribed in those" for "under the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

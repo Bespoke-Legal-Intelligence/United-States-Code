@@ -8,7 +8,7 @@ It shall be unlawful for any person to manufacture, enter into commerce, ship, t
 
 (1) Except as provided in paragraph (2) or (3), each toy, look-alike, or imitation firearm shall have as an integral part, permanently affixed, a blaze orange plug inserted in the barrel of such toy, look-alike, or imitation firearm. Such plug shall be recessed no more than 6 millimeters from the muzzle end of the barrel of such firearm.
 
-(2) The Secretary of Commerce may provide for an alternate marking or device for any toy, look-alike, or imitation firearm not capable of being marked as provided in paragraph (1) and may waive the requirement of any such marking or device for any toy, look-alike, or imitation firearm that will only be used in the theatrical, movie or television industry.
+(2) The Secretary of Commerce may provide for an alternate marking or device for any toy,look-alike, or imitation firearm not capable of being marked as provided in paragraph (1) and may waive the requirement of any such marking or device for any toy, look-alike, or imitation firearm that will only be used in the theatrical, movie or television industry.
 
 (3) The Secretary is authorized to make adjustments and changes in the marking system provided for by this section, after consulting with interested persons.
 

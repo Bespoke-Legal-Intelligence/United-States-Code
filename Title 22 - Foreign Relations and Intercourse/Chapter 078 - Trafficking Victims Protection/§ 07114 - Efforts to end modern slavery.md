@@ -16,7 +16,7 @@
 
 #### (b) Grant authorization
 
-The Secretary of State is authorized to make a grant or grants of funding to provide support for transformational programs and projects that seek to achieve a measurable and substantial reduction of the prevalence of modern slavery in targeted populations within partner countries (or jurisdictions thereof).
+The Secretary of State is authorized to make a grant or grants of funding to provide supportfor transformational programs and projects that seek to achieve a measurable and substantial reduction of the prevalence of modern slavery in targeted populations within partner countries (or jurisdictions thereof).
 
 #### (c) Monitoring and evaluation
 
@@ -85,6 +85,8 @@ In this section, the term "appropriate congressional committees" means—
 &emsp;(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 114–328, div. A, title XII, §1298, Dec. 23, 2016, 130 Stat. 2563.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

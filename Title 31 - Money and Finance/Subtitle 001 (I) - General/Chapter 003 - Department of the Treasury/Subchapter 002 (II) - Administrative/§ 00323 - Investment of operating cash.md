@@ -44,6 +44,8 @@ In subsection (a), before clause (1), the words "To manage United States cash" a
 
 In subsection (c), the words "Investments in obligations of depositaries maintaining such accounts" and "rates of interest" (the 2d time they appear) are omitted as unnecessary because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–351 amended section generally. Prior to amendment, section related to investment of operating cash.

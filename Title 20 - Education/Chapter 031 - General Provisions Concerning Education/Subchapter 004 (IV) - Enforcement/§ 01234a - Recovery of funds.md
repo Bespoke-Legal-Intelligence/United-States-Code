@@ -56,7 +56,7 @@ The Secretary shall publish decisions that have become final agency action under
 
 #### (i) Collection amounts and procedures
 
-The amount of a preliminary departmental decision under subsection (a) for which review has not been requested in accordance with subsection (b), and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g), may be collected by the Secretary in accordance with chapter 37 of title 31.
+The amount of a preliminary departmental decision under subsection (a) for which review has not been requested in accordance with subsection (b), and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g),may be collected by the Secretary in accordance with chapter 37 of title 31.
 
 #### (j) Compromise of preliminary departmental decisions; preconditions; notice requirements
 

@@ -30,7 +30,7 @@ As soon as practicable after October 8, 2010, the Chairman of the Commission sha
 
 #### (3) Representatives of other stakeholders and interested parties
 
-&emsp;Representatives of such other stakeholders and interested and affected parties as theChairman of the Commission determines appropriate.
+&emsp;Representatives of such other stakeholders and interested and affected parties as the Chairman of the Commission determines appropriate.
 
 #### (c) Development of recommendations
 
@@ -99,6 +99,8 @@ In this section—
 &emsp;(3) except as otherwise expressly provided, other terms have the meanings given such terms in section 153 of this title.
 
 (Pub. L. 111–260, title I, §106, Oct. 8, 2010, 124 Stat. 2762.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

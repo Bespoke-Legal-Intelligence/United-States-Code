@@ -54,7 +54,7 @@ The Director may require a regulated entity to submit a report to the Director a
 
 #### (C) Third tier
 
-&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than$1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
+&emsp;&emsp;A violation described in paragraph (1) shall be subject to a penalty of not more than $1,000,000 per day for each day during which such violation continues or such false or misleading information is not corrected, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
 
 #### (3) Assessments
 
@@ -66,6 +66,8 @@ The Director may require a regulated entity to submit a report to the Director a
 
 (Pub. L. 102–550, title XIII, §1314, Oct. 28, 1992, 106 Stat. 3946; Pub. L. 110–289, div. A, title I, §1104(a), July 30, 2008, 122 Stat. 2666.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(2), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
@@ -74,7 +76,7 @@ This chapter, referred to in subsec. (a)(2), was in the original "this title", m
 
 <b>2008</b>—Pub. L. 110–289, §1104(a)(1), substituted "regulated entities" for "enterprises" in section catchline.
 
-Subsec. (a). Pub. L. 110–289, §1104(a)(4)(A), substituted "Regular and special reports" for "Special reports and reports of financial condition" in subsec. heading, "Regular reports" for "Financial condition" in par. (1) heading, and "The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate" for "The Director may require an enterprise to submit reports of financial condition and operations" in par. (1).
+Subsec. (a). Pub. L. 110–289, §1104(a)(4)(A), substituted "Regular and special reports" for "Special reports andreports of financial condition" in subsec. heading, "Regular reports" for "Financial condition" in par. (1) heading, and "The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate" for "The Director may require an enterprise to submit reports of financial condition and operations" in par. (1).
 
 Subsec. (a)(2). Pub. L. 110–289, §1104(a)(4)(B), inserted ", by general or specific orders," after "may also require" and substituted "on any of the topics specified in paragraph (1) or any other relevant topics, if" for "whenever".
 

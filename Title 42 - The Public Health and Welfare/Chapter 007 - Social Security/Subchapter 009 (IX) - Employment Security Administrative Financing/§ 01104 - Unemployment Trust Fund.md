@@ -18,7 +18,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### (e) Separate book accounts
 
-The Fund shall be invested as a single fund, but the Secretary of the Treasury shall maintain a separate book account for each State agency, the employment security administration account, the Federal unemployment account, the railroad unemployment insurance account, and the railroad unemployment insurance administration fund and shall credit quarterly (on March 31, June 30, September 30, and December 31, of each year) to each account, on the basis of the average daily balance of such account, a proportionate part of the earnings of the Fund for the quarter ending on such date.For the purpose of this subsection, the average daily balance shall be computed—
+The Fund shall be invested as a single fund, but the Secretary of the Treasury shall maintain a separate book account for each State agency, the employment security administration account, the Federal unemployment account, the railroad unemployment insurance account, and the railroad unemployment insurance administration fund and shall credit quarterly (on March 31, June 30, September 30, and December 31, of each year) to each account, on the basis of the average daily balance of such account, a proportionate part of the earnings of the Fund for the quarter ending on such date. For the purpose of this subsection, the average daily balance shall be computed—
 
 &emsp;(1) in the case of any State account, by reducing (but not below zero) the amount in the account by the balance of advances made to the State under section 1321 of this title, and
 
@@ -58,7 +58,7 @@ Subsec. (g). Pub. L. 86–778 redesignated former subsec. (h) as (g).
 
 Subsec. (e). Pub. L. 85–927, §204(b), substituted "the railroad unemployment insurance account, and the railroad unemployment insurance administration fund" for "and the railroad unemployment insurance account".
 
-Subsec. (f). Pub. L. 85–927, §204(c), substituted "railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the case may be, at the time of such payment" for "fund as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the railroad unemployment insurance account at the time of such payment".
+Subsec. (f). Pub. L. 85–927, §204(c), substituted "railroad unemployment insurance account for the payment of benefits, and out of the railroad unemployment insurance administration fund for the payment of administrative expenses, as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the credit of such account or such fund, as the casemay be, at the time of such payment" for "fund as the Railroad Retirement Board may duly certify, not exceeding the amount standing to the railroad unemployment insurance account at the time of such payment".
 
 <b>1954</b>—Subsec. (a). Act Aug. 5, 1954, §5(b), substituted "or otherwise deposited in or credited to the Fund or any account therein" for "or deposited pursuant to appropriations to the Federal unemployment account".
 

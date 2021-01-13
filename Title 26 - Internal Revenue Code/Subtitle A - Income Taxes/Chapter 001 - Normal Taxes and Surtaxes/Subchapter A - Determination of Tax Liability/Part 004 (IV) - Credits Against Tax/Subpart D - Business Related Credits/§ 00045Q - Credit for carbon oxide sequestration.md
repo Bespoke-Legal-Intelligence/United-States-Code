@@ -114,7 +114,7 @@ For purposes of this section—
 
 For purposes of this section, the term "qualified facility" means any industrial facility or direct air capture facility—
 
-&emsp;(1) the construction of which begins before January 1, 2024, and—
+&emsp;(1) the construction of which begins before January 1, 2026, and—
 
 &emsp;&emsp;(A) construction of carbon capture equipment begins before such date, or
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (B) Election
 
-&emsp;&emsp;If the person described in subparagraph (A) makes an election under this subparagraphin such time and manner as the Secretary may prescribe by regulations, the credit under this section—
+&emsp;&emsp;If the person described in subparagraph (A) makes an election under this subparagraph in such time and manner as the Secretary may prescribe by regulations, the credit under this section—
 
 &emsp;&emsp;&emsp;(i) shall be allowable to the person that disposes of the qualified carbon oxide, utilizes the qualified carbon oxide, or uses the qualified carbon oxide as a tertiary injectant, and
 
@@ -256,7 +256,7 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 &emsp;(2) determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -267,6 +267,8 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(1). Pub. L. 116–260 substituted "January 1, 2026" for "January 1, 2024" in introductory provisions.
 
 <b>2018</b>—Pub. L. 115–123 amended section generally. Prior to amendment, section related to credit for carbon dioxide sequestration.
 
@@ -299,6 +301,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2020</b>—Internal Revenue Notice 2020–40.
 
 <b>2019</b>—Internal Revenue Notice 2019–31.
 

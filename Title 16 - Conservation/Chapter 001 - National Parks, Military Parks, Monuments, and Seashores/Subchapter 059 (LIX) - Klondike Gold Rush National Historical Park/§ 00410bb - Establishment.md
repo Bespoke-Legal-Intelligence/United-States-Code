@@ -34,7 +34,7 @@ The act of May 14, 1898, referred to in subsec. (c), is act May 14, 1898, ch. 29
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the Congress of the United States".
+<b>1994</b>—Subsec. (a). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senateand the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the Congress of the United States".
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–487 inserted "or exchange and notwithstanding the provisions of subsection 6(i) of the Act of July 7, 1958, (72 Stat. 339, 342), commonly known as the Alaska Statehood Act, the State may include the minerals in any such transaction" after "only by donation".
 

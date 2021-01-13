@@ -1,6 +1,6 @@
 ### §1720. Canceled stamps and envelopes
 
-Whoever uses or attempts to use in payment of postage, any canceled postage stamp, whether the same has been used or not, or removes, attempts to remove, or assists in removing, the canceling or defacing marks from any postage stamp, or the superscription from any stamped envelope, or postal card, that has once been used in payment of postage, with the intent to use the same for a like purpose, or to sell or offer to sell the same, or knowingly possesses any such postage stamp, stamped envelope, or postal card, with intent to use the same or knowingly sells or offers to sell any such postage stamp,stamped envelope, or postal card, or uses or attempts to use the same in payment of postage; or
+Whoever uses or attempts to use in payment of postage, any canceled postage stamp, whether the same has been used or not, or removes, attempts to remove, or assists in removing, the canceling or defacing marks from any postage stamp, or the superscription from any stamped envelope, or postal card, that has once been usedin payment of postage, with the intent to use the same for a like purpose, or to sell or offer to sell the same, or knowingly possesses any such postage stamp, stamped envelope, or postal card, with intent to use the same or knowingly sells or offers to sell any such postage stamp, stamped envelope, or postal card, or uses or attempts to use the same in payment of postage; or
 
 Whoever unlawfully and willfully removes from any mail matter any stamp attached thereto in payment of postage; or
 
@@ -17,6 +17,8 @@ Based on title 18, U.S.C., 1940 ed., §328 (Mar. 4, 1909, ch. 321, §205, 35 Sta
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Minor verbal changes were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

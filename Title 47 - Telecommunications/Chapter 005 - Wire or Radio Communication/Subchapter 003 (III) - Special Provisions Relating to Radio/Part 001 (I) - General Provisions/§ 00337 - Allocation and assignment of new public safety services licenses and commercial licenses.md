@@ -56,7 +56,7 @@ In establishing service rules with respect to licenses granted pursuant to this 
 
 #### (2) Incumbent qualifying low-power stations
 
-&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698megahertz to permit the continued operation of such station.
+&emsp;After making any allocation or assignment under this section, the Commission shall seek to assure, consistent with the Commission's plan for allotments for digital television service, that each qualifying low-power television station is assigned a frequency below 698 megahertz to permit the continued operation of such station.
 
 #### (f) Definitions
 
@@ -88,6 +88,8 @@ For purposes of this section:
 
 (June 19, 1934, ch. 652, title III, §337, as added Pub. L. 105–33, title III, §3004, Aug. 5, 1997, 111 Stat. 266; amended Pub. L. 106–79, title VIII, §8124(a), Oct. 25, 1999, 113 Stat. 1262; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213(a)(1), (d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, 1501A–297; Pub. L. 109–171, title III, §3002(c)(1), Feb. 8, 2006, 120 Stat. 21; Pub. L. 111–4, §2(b)(3), Feb. 11, 2009, 123 Stat. 112; Pub. L. 112–96, title VI, §6101(b), Feb. 22, 2012, 126 Stat. 205.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
@@ -109,6 +111,8 @@ Subsec. (e)(2). Pub. L. 109–171, §3002(c)(1)(B), substituted "698 megahertz" 
 &emsp;"(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) no later than September 30, 1998; and".
 
 Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading "commence competitive bidding for the commercial licenses created pursuant to subsection (a) after January 1, 2001.", was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Interference Protection
 
@@ -144,7 +148,7 @@ Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b
 
 "(5) Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for the frequencies described in paragraph (4) may be granted by the Federal Communications Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto.
 
-"(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 (47 U.S.C. 309(d)(1)), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuanceof the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
+"(6) Notwithstanding section 309(d)(1) of the Communications Act of 1934 (47 U.S.C. 309(d)(1)), the Federal Communications Commission may specify a period (which shall be not less than 5 days following issuance of the public notice described in paragraph (5)) for the filing of petitions to deny any application for an instrument of authorization for the frequencies described in paragraph (4).
 
 "(b)
 

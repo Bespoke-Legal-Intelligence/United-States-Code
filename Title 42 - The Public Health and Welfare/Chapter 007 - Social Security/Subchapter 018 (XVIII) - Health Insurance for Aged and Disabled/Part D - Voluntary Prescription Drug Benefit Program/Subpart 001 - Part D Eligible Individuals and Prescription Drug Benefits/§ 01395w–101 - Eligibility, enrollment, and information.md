@@ -38,7 +38,7 @@
 
 #### (A) Part D eligible individual
 
-&emsp;&emsp;The term "part D eligible individual" means an individual who is entitled to benefits under part A or enrolled under part B.
+&emsp;&emsp;The term "part D eligible individual" means an individual who is entitled to benefits under part A or enrolled under part B (but not including an individual enrolled solely for coverage of immunosuppressive drugs under section 1395o(b) of this title).
 
 #### (B) MA plan
 
@@ -88,7 +88,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The process established under subparagraph (A) shall include, except as provided in subparagraph (D), in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there ismore than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+&emsp;&emsp;The process established under subparagraph (A) shall include, except as provided in subparagraph (D), in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or anMA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
 
 #### (D) Special rule for plans that waive de minimis premiums
 
@@ -222,9 +222,11 @@
 
 &emsp;The information disseminated under paragraph (1) shall include information concerning the methodology for determining the late enrollment penalty under section 1395w–113(b) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149; Pub. L. 114–198, title VII, §704(a)(3), July 22, 2016, 130 Stat. 748.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–1, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2071; amended Pub. L. 109–432, div. B, title II, §206(b), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 111–148, title III, §3303(b), Mar. 23, 2010, 124 Stat. 469; Pub. L. 114–10, title II, §209(b)(2)(B)(ii), Apr. 16, 2015, 129 Stat. 149; Pub. L. 114–198, title VII, §704(a)(3), July 22, 2016, 130 Stat. 748; Pub. L. 116–260, div. CC, title IV, §402(g), Dec. 27, 2020, 134 Stat. 3002.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(3)(A). Pub. L. 116–260 inserted "(but not including an individual enrolled solely for coverage of immunosuppressive drugs under section 1395o(b) of this title)" before period at end.
 
 <b>2016</b>—Subsec. (b)(3)(D). Pub. L. 114–198 inserted ", subject to such limits as the Secretary may establish for individuals identified pursuant to section 1395w–104(c)(5) of this title" after "the Secretary".
 
@@ -256,7 +258,7 @@ Stakeholder meetings prior to effective date.—
 
 &emsp;"(A)
 
-In general.—Not later than January 1, 2017, the Secretary of Health and Human Services shall convene stakeholders, including individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plansponsors, and biopharmaceutical manufacturers for input regarding the topics described in subparagraph (B). The input described in the preceding sentence shall be provided to the Secretary in sufficient time in order for the Secretary to take such input into account in promulgating the regulations pursuant to paragraph (3).
+In general.—Not later than January 1, 2017, the Secretary of Health and Human Services shall convene stakeholders, including individuals entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] or enrolled under part B of such title \[42 U.S.C. 1395j et seq.\], advocacy groups representing such individuals, physicians, pharmacists, and other clinicians, retail pharmacies, plan sponsors, entities delegated by plan sponsors, and biopharmaceutical manufacturers for input regarding the topics described in subparagraph (B). The input described in the preceding sentence shall be provided to the Secretary in sufficient time in order for the Secretary to take such input into account in promulgating the regulations pursuant to paragraph (3).
 
 &emsp;"(B)
 
@@ -342,7 +344,7 @@ In general.—Not later than October 1, 2011, subject to subparagraph (B), the I
 
 &emsp;&emsp;"(B)
 
-Limitation on information contained in report.—The report submitted under subparagraph (A) shall not include any information that the Inspector General determines is proprietary or is likely to negatively impact the ability of a PDP sponsor or a State plan under title XIX \[42 U.S.C. 1396 et seq.\] to negotiate prices for covered part D drugs or covered outpatient drugs, respectively.
+Limitation on information contained in report.—The report submitted under subparagraph (A) shall not include any information that the Inspector General determines is proprietary or islikely to negatively impact the ability of a PDP sponsor or a State plan under title XIX \[42 U.S.C. 1396 et seq.\] to negotiate prices for covered part D drugs or covered outpatient drugs, respectively.
 
 &emsp;"(3)
 
@@ -452,7 +454,7 @@ Pub. L. 108–173, title I, §110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 "(a)
 
-Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts for pharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:
+Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts forpharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:
 
 &emsp;"(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies.
 

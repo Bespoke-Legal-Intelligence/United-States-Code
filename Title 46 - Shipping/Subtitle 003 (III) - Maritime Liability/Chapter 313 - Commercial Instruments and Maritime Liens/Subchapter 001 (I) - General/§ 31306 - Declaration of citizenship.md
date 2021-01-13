@@ -28,6 +28,8 @@ Section 31306(c) invalidates any instrument transferring an interest until the d
 
 Section 31306(d) provides for a criminal penalty for a violation of this section. The amount of the fine is prescribed under title 18, United States Code, and may include imprisonment for not more than 5 years, or both. This section makes no substantive change to law.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out "of Transportation" after "provided by the Secretary".
@@ -37,6 +39,8 @@ Section 31306(d) provides for a criminal penalty for a violation of this section
 <b>1989</b>—Subsec. (a). Pub. L. 101–225, §303(1)(A), substituted "Except as provided by the Secretary of Transportation, when" for "When" and "Secretary for filing" for "Secretary of Transportation for filing".
 
 Subsec. (c). Pub. L. 101–225, §303(1)(B), substituted "Except as provided by the Secretary, an" for "An".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

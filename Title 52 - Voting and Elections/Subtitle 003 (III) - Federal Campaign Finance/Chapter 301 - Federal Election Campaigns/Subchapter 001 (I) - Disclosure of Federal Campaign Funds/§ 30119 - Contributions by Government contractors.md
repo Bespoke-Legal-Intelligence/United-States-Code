@@ -10,13 +10,15 @@ It shall be unlawful for any person—
 
 #### (b) Separate segregated funds
 
-This section does not prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, any separate segregated fund by any corporation, labor organization, membership organization, cooperative, or corporation without capital stock for the purpose of influencing the nomination for election, or election, of any person to Federal office, unless the provisions of section 30118 of this title prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, such fund. Each specific prohibition, allowance, and duty applicable to a corporation, labor organization, or separate segregated fund under section 30118 of this title applies to a corporation, labor organization, or separate segregated fund to which this subsection applies.
+This section does not prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, any separate segregated fund by any corporation, labor organization, membership organization, cooperative, or corporation without capital stock for the purpose of influencing the nomination for election, or election, of any person to Federaloffice, unless the provisions of section 30118 of this title prohibit or make unlawful the establishment or administration of, or the solicitation of contributions to, such fund. Each specific prohibition, allowance, and duty applicable to a corporation, labor organization, or separate segregated fund under section 30118 of this title applies to a corporation, labor organization, or separate segregated fund to which this subsection applies.
 
 #### (c) "Labor organization" defined
 
 For purposes of this section, the term "labor organization" has the meaning given it by section 30118(b)(1) of this title.
 
 (Pub. L. 92–225, title III, §317, formerly §322, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 492; renumbered §317, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

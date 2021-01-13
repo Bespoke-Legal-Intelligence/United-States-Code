@@ -24,6 +24,8 @@ For purposes of juvenile drug courts, the term "violent offender" means a juveni
 
 (Pub. L. 90–351, title I, §2953, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1795; amended Pub. L. 109–162, title XI, §1141, Jan. 5, 2006, 119 Stat. 3110; Pub. L. 110–199, title I, §103(a), Apr. 9, 2008, 122 Stat. 668.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3797u–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -34,9 +36,11 @@ Section was formerly classified to section 3797u–2 of Title 42, The Public Hea
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–162 substituted "a felony-level offense that" for "an offense that" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction of 2008 Amendment
 
-For construction of amendments and provisions set out as a note below by Pub. L. 110–199 and requirementsfor grants made under such amendments and note, see section 60504 of this title.
+For construction of amendments and provisions set out as a note below by Pub. L. 110–199 and requirements for grants made under such amendments and note, see section 60504 of this title.
 
 #### Period for Compliance
 

@@ -34,11 +34,13 @@
 
 &emsp;(B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
 
-(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
+(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in suchaction for violation of any law or rule as alleged in such complaint.
 
 (7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
 
 (Pub. L. 111–8, div. D, title VI, §626(a), (b), Mar. 11, 2009, 123 Stat. 678; Pub. L. 111–24, title V, §511(a), May 22, 2009, 123 Stat. 1763; Pub. L. 111–203, title X, §1097, July 21, 2010, 124 Stat. 2102.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (b)(6). Pub. L. 111–203, §1097(2)(D), substituted "the Bureau of Cons
 Subsec. (b)(1). Pub. L. 111–24, §511(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in paragraph (6), a State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate State or district court of the United States to enforce the provisions of section 128 of the Truth in Lending Act (15 U.S.C. 1638), any other provision of the Truth in Lending Act, or any mortgage loan rule promulgated by the Federal Trade Commission to obtain penalties and relief provided under such Act or rule whenever the attorney general of the State has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of such Act or rule."
 
 Subsec. (b)(2), (3), (6). Pub. L. 111–24, §511(a)(2)(B), substituted "primary Federal regulator" for "Commission" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

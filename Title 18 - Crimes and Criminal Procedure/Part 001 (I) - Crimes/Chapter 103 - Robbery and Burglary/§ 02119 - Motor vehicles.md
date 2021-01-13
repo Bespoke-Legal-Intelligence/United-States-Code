@@ -1,6 +1,6 @@
 ### §2119. Motor vehicles
 
-Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall—
+Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> takes a motor vehicle that has been transported, shipped, or received ininterstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall—
 
 &emsp;(1) be fined under this title or imprisoned not more than 15 years, or both,
 
@@ -10,6 +10,8 @@ Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> tak
 
 (Added Pub. L. 102–519, title I, §101(a), Oct. 25, 1992, 106 Stat. 3384; amended Pub. L. 103–322, title VI, §60003(a)(14), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 104–217, §2, Oct. 1, 1996, 110 Stat. 3020.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (2). Pub. L. 104–217 inserted ", including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title" after "section 1365 of this title".
@@ -17,6 +19,8 @@ Whoever, with the intent to cause death or serious bodily harm <sup>1</sup> tak
 <b>1994</b>—Pub. L. 103–322, §60003(a)(14), which directed the amendment of section 2119(3) of title 18 by substituting ", with the intent to cause death or serious bodily harm" for ", possessing a firearm as defined in section 921 of this title,", was executed by making the substitution in introductory provisions rather than in par. (3), to reflect the probable intent of Congress.
 
 Par. (3). Pub. L. 103–322, §60003(a)(14), inserted before period at end ", or sentenced to death".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Cooperation To Prevent "Carjacking" and Motor Vehicle Theft
 

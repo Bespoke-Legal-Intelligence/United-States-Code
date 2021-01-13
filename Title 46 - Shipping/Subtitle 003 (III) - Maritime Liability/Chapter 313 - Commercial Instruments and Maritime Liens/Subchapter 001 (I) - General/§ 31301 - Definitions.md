@@ -96,11 +96,15 @@ Section 31301(5) defines "preferred maritime lien" to mean a lien on a vessel th
 
 Section 31301(6)(A) defines "preferred mortgage" to mean a mortgage that meets the requirements of section 31322. This clause makes no substantive change to law.
 
-Section 31301(6)(B) defines "preferred mortgage" to also mean a mortgage on a documented foreign vessel that is preferred under sections 31325 and 31326 for purposes of enforcement of the outstanding mortgage indebtedness. Preference is only granted if the mortgage is executed under the laws of a foreign country, registered under those laws in a public register at the port of registry or at a central office. The use of the word "established" in place of "created" in the current law or "effective" as used in the treaties is not intended to make any substantive change to law. The only substantive changes to law made by this clause are the elimination of the exemption of foreign vessels of less than 200 gross tons, and clarification of the rule of interpretation that if a vessel is registered in one country, but is permitted to fly temporarily the flag of another country (such as through a demise charter), it is the law of the country in which the ownership of the vessel is documented that is used to determine when a mortgage attains preferred status.
+Section 31301(6)(B) defines "preferred mortgage" to also mean a mortgage on a documented foreign vessel that is preferred under sections 31325 and 31326 for purposes of enforcement of the outstanding mortgage indebtedness. Preference is only granted if the mortgage is executed under the laws of a foreign country, registered under those laws in a public register at the port of registry or at a central office. The use of the word "established" in place of "created" in the current lawor "effective" as used in the treaties is not intended to make any substantive change to law. The only substantive changes to law made by this clause are the elimination of the exemption of foreign vessels of less than 200 gross tons, and clarification of the rule of interpretation that if a vessel is registered in one country, but is permitted to fly temporarily the flag of another country (such as through a demise charter), it is the law of the country in which the ownership of the vessel is documented that is used to determine when a mortgage attains preferred status.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2010</b>—Par. (7). Pub. L. 111–281 added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -114,7 +118,7 @@ Pub. L. 100–710, title I, §107, Nov. 23, 1988, 102 Stat. 4752, provided that:
 
 "(d) An instrument filed or recorded before January 1, 1989, is deemed to comply with any new requirement under chapter 313 of title 46, United States Code (as enacted by section 102 of this Act), affecting the validity of that instrument.
 
-"(e) Section 102 of this Act and amendments made by that section \[enacting former section 30101 and sections31301 to 31309, 31321 to 31330, and 31341 to 31343 of this title and provisions set out as a note preceding section 2101 of this title\] do not affect any civil action filed before January 1, 1989.
+"(e) Section 102 of this Act and amendments made by that section \[enacting former section 30101 and sections 31301 to 31309, 31321 to 31330, and 31341 to 31343 of this title and provisions set out as a note preceding section 2101 of this title\] do not affect any civil action filed before January 1, 1989.
 
 "(f) Section 104(b) of this Act and the amendments made by section 104(b) of this Act \[amending section 808 of the former Appendix to this title\] do not apply to any change in control resulting from, or which may at any time result from, any proposed plan of reorganization filed under the United States bankruptcy laws prior to the date of enactment of this Act \[Nov. 23, 1988\], except that transactions undertaken as a result of such a plan shall continue to be governed by section 9 of the Shipping Act, 1916 (\[former\] 46 App. U.S.C. 808) \[see 46 U.S.C. 56101, 57109\], as it existed prior to the date of enactment of this Act, to the extent that such section 9 would have governed such transactions."
 

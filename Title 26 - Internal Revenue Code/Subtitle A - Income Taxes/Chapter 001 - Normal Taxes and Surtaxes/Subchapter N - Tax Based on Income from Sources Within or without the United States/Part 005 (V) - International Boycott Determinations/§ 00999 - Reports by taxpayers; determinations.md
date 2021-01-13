@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) any other country (or with the government, a company, or a national of that country) in which such person or such member had operations during the taxable year if such person (or, if such person is a foreign corporation, any United States shareholder of that corporation) knows or has reason to know that participation in or co-operation with an international boycott is required as a condition of doing business within such country or with such government, company, or national,
 
-> &emsp;that person or shareholder (within the meaning of section 951(b)) shall report such operations to the Secretary at such time and in such manner as the Secretary prescribes, except that in the case of a foreign corporation such report shall be required only of a UnitedStates shareholder (within the meaning of such section) of such corporation.
+> &emsp;that person or shareholder (within the meaning of section 951(b)) shall report such operations to the Secretary at such time and in such manner as the Secretary prescribes, except that in the case of a foreign corporation such report shall be required only of a United States shareholder (within the meaning of such section) of such corporation.
 
 #### (2) Participation and cooperation; request therefor
 
@@ -78,7 +78,7 @@
 
 #### (d) Determination with respect to particular operations
 
-Upon a request made by the taxpayer, the Secretary shall issue a determination with respect to whether a particular operation of a person, or of a member of a controlled group which includes that person, constitutes participation in or cooperation with an international boycott. The Secretary may issue such a determination in advance of such operation in cases which are of such a nature that an advance determination is possible and appropriate under the circumstances. If the request is made before the operation is commenced, or before the end of a taxable year in which the operation is carried out, the Secretary may decline to issue such a determination before close of the taxable year.
+Upon a request made by the taxpayer, the Secretary shall issue a determination with respectto whether a particular operation of a person, or of a member of a controlled group which includes that person, constitutes participation in or cooperation with an international boycott. The Secretary may issue such a determination in advance of such operation in cases which are of such a nature that an advance determination is possible and appropriate under the circumstances. If the request is made before the operation is commenced, or before the end of a taxable year in which the operation is carried out, the Secretary may decline to issue such a determination before close of the taxable year.
 
 #### (e) Participation or cooperation by related persons
 
@@ -138,5 +138,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Reports by the Secretary
 
-Pub. L. 94–455, title X, §1067, Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 98–369, div. A, title IV, §441(c), July 18, 1984, 98 Stat. 815, which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under section 999(a) of this title and describing the administration of provisions relating to international boycott activity, terminated, effectiveMay 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 141 of House Document No. 103–7.
+Pub. L. 94–455, title X, §1067, Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 98–369, div. A, title IV, §441(c), July 18, 1984, 98 Stat. 815, which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under section 999(a) of this title and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 141 of House Document No. 103–7.
 

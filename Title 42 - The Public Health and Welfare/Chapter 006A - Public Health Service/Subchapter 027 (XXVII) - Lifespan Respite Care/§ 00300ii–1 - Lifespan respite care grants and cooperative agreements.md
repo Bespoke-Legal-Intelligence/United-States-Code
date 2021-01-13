@@ -128,7 +128,7 @@ When awarding grants or cooperative agreements under this section, the Secretary
 
 #### (2) Renewal
 
-&emsp;The Secretary may renew a grant or cooperative agreement under this section at the endof the term of the grant or cooperative agreement determined under paragraph (1).
+&emsp;The Secretary may renew a grant or cooperative agreement under this section at the end of the term of the grant or cooperative agreement determined under paragraph (1).
 
 #### (h) Maintenance of effort
 

@@ -40,7 +40,7 @@ Based upon the power of the Congress under Article I, Section 8, Clause 3 of the
 
 &emsp;(2) to encourage continued remediation and testing efforts to solve such problems by providers, suppliers, customers, and other contracting partners;
 
-&emsp;(3) to encourage private and public parties alike to resolve disputes relating to year 2000computer date-change problems by alternative dispute mechanisms in order to avoid costly and time-consuming litigation, to initiate those mechanisms as early as possible, and to encourage the prompt identification and correction of such problems; and
+&emsp;(3) to encourage private and public parties alike to resolve disputes relating to year 2000 computer date-change problems by alternative dispute mechanisms in order to avoid costly and time-consuming litigation, to initiate those mechanisms as early as possible, and to encourage the prompt identification and correction of such problems; and
 
 &emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
 

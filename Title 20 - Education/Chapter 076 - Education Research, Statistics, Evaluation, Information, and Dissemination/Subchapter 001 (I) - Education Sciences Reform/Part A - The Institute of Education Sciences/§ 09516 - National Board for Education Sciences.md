@@ -66,7 +66,7 @@ The duties of the Board shall be the following:
 
 #### (A) Qualifications
 
-&emsp;&emsp;Members appointed under paragraph (1) shall be highly qualified to appraise education research, statistics, evaluations, or development, and shall include the following individuals:
+&emsp;&emsp;Members appointed under paragraph (1) shall be highly qualified to appraise education research, statistics, evaluations, ordevelopment, and shall include the following individuals:
 
 &emsp;&emsp;&emsp;(i) Not fewer than 8 researchers in the field of statistics, evaluation, social sciences, or physical and biological sciences, which may include those researchers recommended by the National Academy of Sciences.
 

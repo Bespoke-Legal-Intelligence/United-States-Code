@@ -18,13 +18,17 @@ This section may not be construed to repeal, limit, or affect any authority to l
 
 #### (d) Self-implementation
 
-This section is intended to be self-implementing and shall not require the issuance of anyrule, regulation, or order to take effect as provided in section 705.
+This section is intended to be self-implementing and shall not require the issuance of any rule, regulation, or order to take effect as provided in section 705.
 
 (Pub. L. 104–330, title VII, §702, Oct. 26, 1996, 110 Stat. 4050.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 705, referred to in subsec. (d), is section 705 of Pub. L. 104–330, which is set out as an Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -114,7 +114,7 @@ Protection of Whistleblowers; Confidentiality.—
 
 &emsp;(1)
 
-In general.—Notwithstanding section 30167, and except as provided in paragraphs (4) and (5) of this subsection, the Secretary, and any officer or employee of the Department of Transportation, shall not disclose any information, including information provided by a whistleblower to the Secretary, which could reasonably be expected to reveal the identityof a whistleblower, except in accordance with the provisions of section 552a of title 5, unless—
+In general.—Notwithstanding section 30167, and except as provided in paragraphs (4) and (5) of this subsection, the Secretary, and any officer or employee of the Department of Transportation, shall not disclose any information, including information provided by a whistleblower to the Secretary, which could reasonably be expected to reveal the identity of a whistleblower, except in accordance with the provisions of section 552a of title 5, unless—
 
 &emsp;&emsp;(A) required to be disclosed to a defendant or respondent in connection with a public proceeding instituted by the Secretary or any entity described in paragraph (5);
 

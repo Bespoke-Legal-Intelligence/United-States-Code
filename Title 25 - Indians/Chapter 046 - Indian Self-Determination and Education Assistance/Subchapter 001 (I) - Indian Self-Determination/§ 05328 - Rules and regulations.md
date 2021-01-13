@@ -28,7 +28,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 &emsp;(i) subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990"; and
 
-&emsp;(ii) the recommendations of the Administrative Conference of the United States numbered82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
+&emsp;(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
 (B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
@@ -43,6 +43,8 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title.
 
 (Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -84,7 +86,7 @@ Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–644 inserted ", with the participation of Indian tribes and tribal organizations," after "authorized".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–472, §207(a), substituted "Health and Human Services" for "Health, Education,and Welfare", and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
+<b>1988</b>—Subsec. (a). Pub. L. 100–472, §207(a), substituted "Health and Human Services" for "Health, Education, and Welfare", and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
 
 Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -95,6 +97,8 @@ Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior t
 "(3) Within eight months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall publish proposed rules and regulations in the Federal Register for the purpose of receiving comments from interested parties.
 
 "(4) Within ten months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall promulgate rules and regulations to implement the provisions of this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

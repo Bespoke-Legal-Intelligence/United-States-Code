@@ -20,6 +20,8 @@ A person, including an election official, who in any election for Federal office
 
 (Pub. L. 103–31, §12, May 20, 1993, 107 Stat. 88.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1973gg–10 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

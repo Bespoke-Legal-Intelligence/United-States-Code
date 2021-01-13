@@ -58,7 +58,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 #### (B) EBT cards
 
-&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
+&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of theFood, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
 
 #### (C) De-obligation of coupons
 
@@ -236,11 +236,11 @@ In general.—A State agency may require that an electronic benefit card contain
 
 &emsp;(B)
 
-Other authorized users.—If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
+Other authorized users.—If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the Stateagency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
 
 (10)
 
-Federal law not applicable.—Section 1693o–2 of title 15 shall not apply to electronicbenefit transfer or reimbursement systems under this chapter.
+Federal law not applicable.—Section 1693o–2 of title 15 shall not apply to electronic benefit transfer or reimbursement systems under this chapter.
 
 (11)
 
@@ -366,7 +366,7 @@ Demonstration projects.—Before authorizing implementation of subparagraph (A) 
 
 Project requirements.—To be eligible to participate in a demonstration project under clause (i), a State agency shall submit to the Secretary for approval a plan that—
 
-&emsp;&emsp;&emsp;(I) provides recipient protections regarding privacy, ease of use, household access to benefits, and support similar to the protections provided under existing methods;
+&emsp;&emsp;&emsp;(I) provides recipient protections regarding privacy, ease of use, household accessto benefits, and support similar to the protections provided under existing methods;
 
 &emsp;&emsp;&emsp;(II) ensures that all recipients, including those without access to mobile payment technology and those who shop across State borders, have a means of benefit access;
 
@@ -456,7 +456,7 @@ Report to congress.—The Secretary shall—
 
 #### (A) Electronic benefit transfer card
 
-&emsp;&emsp;The term "electronic benefit transfer card" means a card that provides benefitsunder this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
+&emsp;&emsp;The term "electronic benefit transfer card" means a card that provides benefits under this chapter through an electronic benefit transfer service (as defined in subsection (h)(11)(A)).
 
 #### (B) Electronic benefit transfer contract
 
@@ -530,7 +530,7 @@ Report to congress.—The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with regulations promulgated by the Secretary, the Secretary shall pay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions—
+&emsp;&emsp;In accordance with regulations promulgated by the Secretary, the Secretary shallpay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions—
 
 &emsp;&emsp;&emsp;(i) incurred after February 11, 2000, and before October 1, 2002, if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
 
@@ -778,7 +778,7 @@ Subsec. (i)(7) to (11). Pub. L. 104–193, §825(a)(3), added pars. (7) to (11).
 
 <b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: "The State agency shall establish such a procedure for eligible households residing on reservations."
 
-<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances."
+<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuancesby the State agency or through supplemental issuances."
 
 Subsec. (i). Pub. L. 101–624, §1729(a), added subsec. (i).
 
@@ -849,6 +849,68 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 #### Savings Clause
 
 Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: "Nothing in this section \[amending this section and section 2019 of this title\] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section."
+
+#### Additional Assistance for SNAP Online Purchasing and Technology Improvements
+
+Pub. L. 116–260, div. N, title VII, §703, Dec. 27, 2020, 134 Stat. 2094, provided that:
+
+"(a)
+
+Resources for SNAP Online Purchasing.—Not later than 60 days after the date of enactment of this Act \[Dec. 27, 2020\], the Secretary shall provide—
+
+&emsp;"(1) additional support for the Food and Nutrition Service to conduct end-to-end testing in the online production environment; and
+
+&emsp;"(2) technical assistance to educate retailers on the process and technical requirements for the online acceptance of SNAP benefits and to support and expedite SNAP online purchasing.
+
+"(b)
+
+Snap Online Purchasing Assistance for Direct-marketing Farmers and Farmers' Markets.—The Secretary, on a competitive basis, shall enter into cooperative agreements with, or provide grants to, not more than 5 eligible entities to build out functionality,and provide assistance to direct-marketing farmers and farmers' markets to accept SNAP benefits through online transactions.
+
+&emsp;"(1)
+
+Selection priority.—The Secretary shall prioritize eligible entities with experience building online purchasing platforms for technology solutions for farmers' markets and direct-marketing farmers.
+
+&emsp;"(2)
+
+Definition of eligible entity.—In this subsection, the term 'eligible entity' means a nonprofit entity with experience building online purchasing platforms or technology solutions, or with experience working with commercial entities that have experience building online purchasing platforms or technology solutions.
+
+"(c)
+
+Issuance Innovation and Technology Improvement Support.—The Secretary shall—
+
+&emsp;"(1) review technological developments, including developments related to security and privacy, surrounding mobile payment technology, to support the mobile technologies demonstration projects and the use of mobile technologies authorized under section 7(k)(14) \[probably should be "7(k)(4)"\] of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(k)(4)\]; and
+
+&emsp;"(2) test methods to modernize electronic benefit transfer technology for the purpose of improving the security and integrity of the electronic benefits transfer system.
+
+"(d)
+
+Report.—Not later than January 31, 2022, and annually thereafter until all funds provided under subsection (e) have been expended, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that includes—
+
+&emsp;"(1) a description of the activities conducted under subsections (a), (b), and (c);
+
+&emsp;"(2) a description of any grants, cooperative agreements, or contracts awarded under this section;
+
+&emsp;"(3) an analysis of the technological developments surrounding mobile payment technology; and
+
+&emsp;"(4) a summary of EBT modernization testing results under subsection (c)(2).
+
+"(e)
+
+Funding.—
+
+&emsp;"(1)
+
+Appropriations.—There is hereby appropriated to the Secretary, out of any money in the Treasury not otherwise appropriated, $5,000,000 to be available until expended to carry out this section.
+
+&emsp;"(2)
+
+Use of funds.—With respect to the funds appropriated under paragraph (1), the Secretary shall use—
+
+&emsp;&emsp;"(A) not more than $1,000,000 for purposes described in subsection (a); and
+
+&emsp;&emsp;"(B) not more than $1,000,000 for purposes described in subsection (b)."
+
+\[For definitions of "Secretary" and "SNAP" as used in section 703 of div. N of Pub. L. 116–260, set out above, see section 701 of div. N of Pub. L. 116–260, set out as a note under section 2011 of this title.\]
 
 #### Report on Electronic Benefit Transfer Systems
 

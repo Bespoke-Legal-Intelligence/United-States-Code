@@ -30,7 +30,7 @@ Functions.—In order to enable the Committee to make recommendations in its ann
 
 &emsp;(2) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of services and resources of the two Departments, with the goal of improving the quality, efficiency and effectiveness of the delivery of benefits and services to veterans, service members, military retirees, and their families through an enhanced Department of Veterans Affairs and Department of Defense partnership, including with respect to job training and post-service placement.
 
-&emsp;(3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affectthe range of services, the quality of care, or the established priorities for benefits provided by either Department.
+&emsp;(3) Identify and assess further opportunities for the coordination and collaboration between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for benefits provided by either Department.
 
 &emsp;(4) Review the plans of both Departments for the acquisition of additional resources, especially new facilities and major equipment and technology, in order to assess the potential effect of such plans on further opportunities for the coordination and sharing of resources.
 
@@ -46,6 +46,8 @@ Job Training and Post-Service Placement Executive Committee.—The Job Training 
 
 (Added Pub. L. 108–136, div. A, title V, §583(a)(1), Nov. 24, 2003, 117 Stat. 1490; amended Pub. L. 114–92, div. A, title V, §561, Nov. 25, 2015, 129 Stat. 828.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(2). Pub. L. 114–92, §561(1), inserted "a subordinate Job Training and Post-Service Placement Executive Committee," before "such other committees".
@@ -53,6 +55,8 @@ Job Training and Post-Service Placement Executive Committee.—The Job Training 
 Subsec. (d)(2). Pub. L. 114–92, §561(3), inserted ", including with respect to job training and post-service placement" before period at end.
 
 Subsec. (e). Pub. L. 114–92, §561(2), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,6 +12,8 @@ Words "agency" and "employee" were inserted to eliminate any ambiguity as to sco
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $3,000".

@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title X, §1002(c), Dec. 20, 2006, 120 Stat. 3255, struck out item relating to chapter 52 "Transportation of Mail by Surface Carrier".

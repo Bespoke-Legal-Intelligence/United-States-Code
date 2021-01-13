@@ -13,7 +13,7 @@
 | [<b>7.</b>](Chapter%20007%20-%20Practice%20of%20Pharmacy%20and%20Sale%20of%20Poisons%20in%20Consular%20Districts%20in%20China/README.md) | <b>Practice of Pharmacy and Sale of Poisons in Consular Districts in China</b> | <b>201</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Narcotic%20Farms/README.md) | <b>Narcotic Farms \[Repealed\]</b> | <b>221</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Federal%20Food%2C%20Drug%2C%20and%20Cosmetic%20Act/README.md) | <b>Federal Food, Drug, and Cosmetic Act</b> | <b>301</b> |
-| [<b>10.</b>](Chapter%20010%20-%20Poultry%20and%20Poultry%20Products%20Inspection/README.md) | <b>Poultry and Poultry Products Inspection</b> | <b>451</b> |
+| <b>10.</b> | <b>Poultry and Poultry Products Inspection</b> | <b>451</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Manufacture%20of%20Narcotic%20Drugs/README.md) | <b>Manufacture of Narcotic Drugs \[Repealed\]</b> | <b>501</b> |
 | [<b>12.</b>](Chapter%20012%20-%20Meat%20Inspection/README.md) | <b>Meat Inspection</b> | <b>601</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Drug%20Abuse%20Prevention%20and%20Control/README.md) | <b>Drug Abuse Prevention and Control</b> | <b>801</b> |
@@ -32,6 +32,7 @@
 | [<b>26.</b>](Chapter%20026%20-%20Food%20Safety/README.md) | <b>Food Safety</b> | <b>2101</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md) | <b>Food Safety Modernization</b> | <b>2201</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Sanctions%20with%20Respect%20to%20Foreign%20Traffickers%20of%20Illicit%20Synthetic%20Opioids/README.md) | <b>Sanctions With Respect to Foreign Traffickers of Illicit Synthetic Opioids</b> | <b>2301</b> |
+| [<b>29.</b>](Chapter%20029%20-%20International%20Sports%20Doping/README.md) | <b>International Sports Doping</b> | <b>2401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,7 +51,6 @@
 - [Chapter 007 - Practice of Pharmacy and Sale of Poisons in Consular Districts in China](Chapter%20007%20-%20Practice%20of%20Pharmacy%20and%20Sale%20of%20Poisons%20in%20Consular%20Districts%20in%20China/README.md)
 - [Chapter 008 - Narcotic Farms](Chapter%20008%20-%20Narcotic%20Farms/README.md)
 - [Chapter 009 - Federal Food, Drug, and Cosmetic Act](Chapter%20009%20-%20Federal%20Food%2C%20Drug%2C%20and%20Cosmetic%20Act/README.md)
-- [Chapter 010 - Poultry and Poultry Products Inspection](Chapter%20010%20-%20Poultry%20and%20Poultry%20Products%20Inspection/README.md)
 - [Chapter 011 - Manufacture of Narcotic Drugs](Chapter%20011%20-%20Manufacture%20of%20Narcotic%20Drugs/README.md)
 - [Chapter 012 - Meat Inspection](Chapter%20012%20-%20Meat%20Inspection/README.md)
 - [Chapter 013 - Drug Abuse Prevention and Control](Chapter%20013%20-%20Drug%20Abuse%20Prevention%20and%20Control/README.md)
@@ -69,3 +69,4 @@
 - [Chapter 026 - Food Safety](Chapter%20026%20-%20Food%20Safety/README.md)
 - [Chapter 027 - Food Safety Modernization](Chapter%20027%20-%20Food%20Safety%20Modernization/README.md)
 - [Chapter 028 - Sanctions with Respect to Foreign Traffickers of Illicit Synthetic Opioids](Chapter%20028%20-%20Sanctions%20with%20Respect%20to%20Foreign%20Traffickers%20of%20Illicit%20Synthetic%20Opioids/README.md)
+- [Chapter 029 - International Sports Doping](Chapter%20029%20-%20International%20Sports%20Doping/README.md)

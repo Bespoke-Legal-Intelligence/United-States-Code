@@ -4,9 +4,13 @@ This chapter shall be interpreted and administered in a manner consistent with t
 
 (Pub. L. 93–248, §15, Feb. 5, 1974, 88 Stat. 10; Pub. L. 95–302, §1(6), June 26, 1978, 92 Stat. 345.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–302 inserted ", the protocol," after "convention".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

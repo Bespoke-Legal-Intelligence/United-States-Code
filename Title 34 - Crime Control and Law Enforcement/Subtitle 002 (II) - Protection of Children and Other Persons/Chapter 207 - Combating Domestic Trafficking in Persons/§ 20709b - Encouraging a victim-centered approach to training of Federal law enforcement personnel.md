@@ -8,7 +8,7 @@ The Attorney General, Secretary of Homeland Security, and Secretary of Labor sha
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 21, 2018, the Attorney General and the Secretary of Homeland Security shall develop an advanced training curriculum, to supplement the basic curriculum for investigative personnel of the Department of Justice and the Department of Homeland Security, respectively, that—
+&emsp;Not later than 1 year after December 21, 2018, the Attorney General and the Secretaryof Homeland Security shall develop an advanced training curriculum, to supplement the basic curriculum for investigative personnel of the Department of Justice and the Department of Homeland Security, respectively, that—
 
 &emsp;&emsp;(A) emphasizes a multidisciplinary, collaborative effort by law enforcement officers who provide a broad range of investigation and prosecution options in response to perpetrators, and victim service providers, who offer services and resources for victims;
 
@@ -29,6 +29,8 @@ The Attorney General, Secretary of Homeland Security, and Secretary of Labor sha
 &emsp;&emsp;(B) members of task forces that participate in the investigation of human trafficking offenses.
 
 (Pub. L. 115–393, title V, §501, Dec. 21, 2018, 132 Stat. 5275.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

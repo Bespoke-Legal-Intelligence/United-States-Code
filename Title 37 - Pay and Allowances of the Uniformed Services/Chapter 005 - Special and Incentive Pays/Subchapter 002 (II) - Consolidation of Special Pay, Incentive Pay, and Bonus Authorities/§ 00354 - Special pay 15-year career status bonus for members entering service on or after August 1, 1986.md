@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Bonus.—The Secretary concerned shall pay a bonus under this section to an eligible career bonus member if the member—
+Availability of Bonus.—The Secretary concerned shall pay a bonus under this sectionto an eligible career bonus member if the member—
 
 &emsp;(1) elects to receive the bonus under this section; and
 
@@ -68,6 +68,8 @@ Sunset and Continuation of Payments.—(1) A Secretary concerned may not pay a n
 
 (Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662, §322; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332; renumbered §354 and amended Pub. L. 110–181, div. A, title VI, §661(b)(1), (2), Jan. 28, 2008, 122 Stat. 178; Pub. L. 114–92, div. A, title VI, §631(c)(2), Nov. 25, 2015, 129 Stat. 844.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–92, §631(c)(2)(A), designated existing provisions as par. (1) and added par. (2).
@@ -83,6 +85,8 @@ Subsec. (f). Pub. L. 110–181, §661(b)(2), substituted "section 373" for "sect
 <b>2001</b>—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted "equal to $30,000" for "paid in a single lump sum of $30,000".
 
 Subsec. (d)(2) to (4). Pub. L. 107–107, §620(a)(2), (3), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted therein "The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments," for "The bonus".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment; Implementation
 

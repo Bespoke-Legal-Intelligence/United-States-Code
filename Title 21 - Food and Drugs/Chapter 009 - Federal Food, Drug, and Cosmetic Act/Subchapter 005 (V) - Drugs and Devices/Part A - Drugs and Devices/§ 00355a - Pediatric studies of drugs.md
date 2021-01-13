@@ -44,7 +44,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 &emsp;&emsp;(B)(i) if the drug is the subject of—
 
-&emsp;&emsp;&emsp;(I) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(ii) or (j)(2)(A)(vii)(II) of section 355 of this title and for which pediatric studies were submitted prior to the expiration of the patent (including any patent extensions); or
+&emsp;&emsp;&emsp;(I) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(ii) or (j)(2)(A)(vii)(II) of section 355 of this title and for which pediatric studies were submitted prior to theexpiration of the patent (including any patent extensions); or
 
 &emsp;&emsp;&emsp;(II) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
 
@@ -148,7 +148,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 &emsp;&emsp;(B) the specific drugs and drug uses, including labeled and off-labeled indications, studied under such sections;
 
-&emsp;&emsp;(C) the types of studies conducted under such sections, including trial design, thenumber of pediatric patients studied, and the number of centers and countries involved;
+&emsp;&emsp;(C) the types of studies conducted under such sections, including trial design, the number of pediatric patients studied, and the number of centers and countries involved;
 
 &emsp;&emsp;(D) the number of pediatric formulations developed and the number of pediatric formulations not developed and the reasons such formulations were not developed;
 
@@ -188,7 +188,7 @@ Exclusivity under this section shall only be granted for the completion of a stu
 
 #### (A) Request for labeling change and failure to agree
 
-&emsp;&emsp;If, on or after September 27, 2007, the Commissioner determines that the sponsor and the Commissioner have been unable to reach agreement on appropriate changes to the labeling for the drug that is the subject of the application, not later than 180 days after the date of submission of the application—
+&emsp;&emsp;If, on or after September 27, 2007, the Commissioner determines that the sponsor andthe Commissioner have been unable to reach agreement on appropriate changes to the labeling for the drug that is the subject of the application, not later than 180 days after the date of submission of the application—
 
 &emsp;&emsp;&emsp;(i) the Commissioner shall request that the sponsor of the application make any labeling change that the Commissioner determines to be appropriate; and
 
@@ -226,7 +226,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (2) Dissemination of information regarding labeling changes
 
-&emsp;Beginning on September 27, 2007, the Secretary shall include as a requirement of awritten request that the sponsors of the studies that result in labeling changes that are reflected in the annual summary developed pursuant to subsection (f)(6)(F) distribute, at least annually (or more frequently if the Secretary determines that it would be beneficial to the public health), such information to physicians and other health care providers.
+&emsp;Beginning on September 27, 2007, the Secretary shall include as a requirement of a written request that the sponsors of the studies that result in labeling changes that are reflected in the annual summary developed pursuant to subsection (f)(6)(F) distribute, at least annually (or more frequently if the Secretary determines that it would be beneficial to the public health), such information to physicians and other health care providers.
 
 #### (3) Effect of subsection
 
@@ -252,7 +252,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (m) Clarification of interaction of market exclusivity under this section and market exclusivity awarded to an applicant for approval of a drug under section 355(j) of this title
 
-If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivity period under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
+If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivityperiod under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
 
 &emsp;(1) the date on which the 180-day period would have expired by the number of days of the overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
 
@@ -282,7 +282,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) General rule
 
-&emsp;A drug for which an application has been submitted or approved under subsection (b)(2)or (j) of section 355 of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent, or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title, clause (iii) or (iv) of section 355(c)(3)(E) of this title, or section 360cc(a) of this title, or by an extension of such exclusivity under this section or section 355f of this title.
+&emsp;A drug for which an application has been submitted or approved under subsection (b)(2) or (j) of section 355 of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent, or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title, clause (iii) or (iv) of section 355(c)(3)(E) of this title, or section 360cc(a) of this title, or by an extension of such exclusivity under this section or section 355f of this title.
 
 #### (2) Labeling
 
@@ -322,6 +322,8 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 (June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (b), (c). Pub. L. 115–52, §505(b)(2)(A), substituted "subsection (d)(4)" for "subsection (d)(3)" in introductory provisions of par. (1) and in par. (2).
@@ -358,7 +360,7 @@ Subsec. (n)(1)(C). Pub. L. 113–5, §307(a)(2), added subpar. (C).
 
 <b>2012</b>—Subsec. (d)(1)(A). Pub. L. 112–144, §502(b), inserted at end "If a request under this subparagraph does not request studies in neonates, such request shall include a statement describing the rationale for not requesting studies in neonates."
 
-Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall bedeemed to satisfy the requirement for market exclusivity pursuant to this section."
+Subsec. (h). Pub. L. 112–144, §502(a)(1), amended subsec. (h) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section."
 
 Subsec. (k)(2). Pub. L. 112–144, §509(a)(1), substituted "subsection (f)(6)(F)" for "subsection (f)(3)(F)".
 
@@ -475,6 +477,8 @@ Pub. L. 107–109, §10, added subsec. (n).
 Subsec. (o). Pub. L. 107–109, §19(2), (3), redesignated subsec. (o) as (l).
 
 Pub. L. 107–109, §11(a), added subsec. (o).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

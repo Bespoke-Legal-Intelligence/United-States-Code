@@ -62,7 +62,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(1) require a permit to be obtained from, and fees to be paid to, the Secretary, with respect to—
 
-&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
+&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusiveeconomic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
 
 &emsp;&emsp;(B) the operator of any such vessel; or
 

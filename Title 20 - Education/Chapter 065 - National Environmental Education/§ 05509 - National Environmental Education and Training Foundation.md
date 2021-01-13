@@ -12,7 +12,7 @@
 
 &emsp;The purposes of the Foundation are—
 
-&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) herein, to encourage, accept, leverage, and administer private gifts for the benefit of, or inconnection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
+&emsp;&emsp;(A) subject to the limitation contained in the final sentence of subsection (d) herein, to encourage, accept, leverage, and administer private gifts for the benefit of, or in connection with, the environmental education and training activities and services of the United States Environmental Protection Agency;
 
 &emsp;&emsp;(B) to conduct such other environmental education activities as will further the development of an environmentally conscious and responsible public, a well-trained and environmentally literate workforce, and an environmentally advanced educational system;
 
@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of theFoundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(ii) The first officer or employee appointed by the Board shall be the Executive Director of the Foundation who—
 
-&emsp;&emsp;&emsp;(I) shall serve, at the direction of the Board, as the Secretary of the Board andthe Foundation's chief executive officer; and
+&emsp;&emsp;&emsp;(I) shall serve, at the direction of the Board, as the Secretary of the Board and the Foundation's chief executive officer; and
 
 &emsp;&emsp;&emsp;(II) shall be experienced in matters relating to environmental education and training.
 

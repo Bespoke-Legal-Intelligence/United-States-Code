@@ -64,7 +64,7 @@ Reimbursement.—Upon approval of the Secretary, the sponsor of a current or for
 
 (g)
 
-Designation of General Aviation Airports.—Notwithstanding any other provision of this section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
+Designation of General Aviation Airports.—Notwithstanding any other provision ofthis section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
 
 (h)
 

@@ -22,7 +22,7 @@
 
 &emsp;the term "facility" shall include a residential community treatment center; and
 
-&emsp;the term "relative" shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
+&emsp;the term "relative" shall mean a spouse, child (including stepchild, adopted child orchild as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
 (June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, §1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, §218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, §57(a), Nov. 10, 1986, 100 Stat. 3611.)
 
@@ -39,6 +39,8 @@ The phrase "if in his judgment it shall be for the well-being of the prisoner or
 Changes were made in phraseology.
 
 This section supersedes section 705 of title 18, U.S.C., 1940 ed., providing for execution of sentences in houses of correction or reformation; and section 748 of title 18, U.S.C., 1940 ed., providing for confinement of prisoners in United States Disciplinary Barracks.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -78,7 +80,9 @@ Subsec. (e). Pub. L. 89–176 designated as subsec. (e) fourth and last unnumber
 
 Subsec. (f). Pub. L. 89–176 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after thetaking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 

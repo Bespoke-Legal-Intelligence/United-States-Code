@@ -1,6 +1,6 @@
 ### §30145. Period of limitations
 
-(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I of this chapter, unless the indictment is found or the information is instituted within 5 years after the date of the violation.
+(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I ofthis chapter, unless the indictment is found or the information is instituted within 5 years after the date of the violation.
 
 (b) Notwithstanding any other provision of law—
 
@@ -11,6 +11,8 @@
 > Nothing in this subsection shall affect any proceeding pending in any court of the United States on January 1, 1975.
 
 (Pub. L. 92–225, title IV, §406, as added Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289; amended Pub. L. 94–283, title I, §115(f), May 11, 1976, 90 Stat. 496; Pub. L. 107–155, title III, §313(a), Mar. 27, 2002, 116 Stat. 106.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ Section was formerly classified to section 455 of Title 2, The Congress, prior t
 <b>1976</b>—Subsec. (a). Pub. L. 94–283, §115(f)(1), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
 
 Subsec. (b)(2). Pub. L. 94–283, §115(f)(2), struck out references to sections 608, 610, 611, and 613 of title 18.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

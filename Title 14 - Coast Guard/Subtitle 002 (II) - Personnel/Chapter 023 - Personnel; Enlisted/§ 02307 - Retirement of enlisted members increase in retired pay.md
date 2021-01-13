@@ -18,6 +18,8 @@ Subsection (c) is based on title 14, U.S.C., 1946 ed., §185d (May 24, 1939, ch.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §113(b), renumbered section 357 of this title as this section.
@@ -43,6 +45,8 @@ Subsec. (a). Pub. L. 98–557, §15(a)(3)(B), substituted reference to enlisted 
 <b>1963</b>—Subsec. (c). Pub. L. 88–114 struck out provisions which entitled enlisted men whose average marks in conduct were not less than 97½ percent of the maximum to a 10-percent increase of their retired pay.
 
 <b>1950</b>—Subsec. (c). Act Aug. 3, 1950, substituted "years' " for "years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enlisted Men in Service on September 6, 1963
 

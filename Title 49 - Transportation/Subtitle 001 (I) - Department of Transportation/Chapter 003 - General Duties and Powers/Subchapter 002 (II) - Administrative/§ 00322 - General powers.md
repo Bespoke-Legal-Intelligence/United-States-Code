@@ -34,7 +34,7 @@
 
 &emsp;(1) making the property would require a substantial initial investment or an extended period of preparation; and
 
-&emsp;(2) procurement by advertising would likely result in additional cost to the Government byduplication of investment or would result in duplication of necessary preparation that would unreasonably delay procuring the property.
+&emsp;(2) procurement by advertising would likely result in additional cost to the Government by duplication of investment or would result in duplication of necessary preparation that would unreasonably delay procuring the property.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422.)
 

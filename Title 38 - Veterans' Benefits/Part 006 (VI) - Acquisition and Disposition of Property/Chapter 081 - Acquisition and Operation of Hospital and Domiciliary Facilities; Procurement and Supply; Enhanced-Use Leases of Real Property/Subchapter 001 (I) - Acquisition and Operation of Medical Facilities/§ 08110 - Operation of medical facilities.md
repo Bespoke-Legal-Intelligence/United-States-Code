@@ -46,7 +46,9 @@
 
 &emsp;&emsp;(C) A description of the anticipated effects of the closure on veterans and on their access to care.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151,title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, §207, Sept. 29, 2018, 132 Stat. 3173.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, §207, Sept. 29, 2018, 132 Stat. 3173.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -138,6 +140,8 @@ Subsecs. (b), (c). Pub. L. 97–72, §108(b), redesignated subsec. (c) as (b). F
 
 <b>1979</b>—Subsec. (a)(4). Pub. L. 96–151 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–314, div. A, title VII, §726(b), Dec. 2, 2002, 116 Stat. 2599, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2003."
@@ -161,6 +165,56 @@ Pub. L. 96–151, title III, §301(b), Dec. 20, 1979, 93 Stat. 1096, provided th
 #### Effective Date
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
+
+#### Requirement for Certain Department of Veterans Affairs Medical Facilities To Have Physical Location for the Disposal of Controlled Substances Medications
+
+Pub. L. 116–315, title III, §3009, Jan. 5, 2021, 134 Stat. 4997, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall ensure that each covered Department medical facility has a physical location where patients may dispose of controlled substances medications.
+
+"(b)
+
+Covered Department Medical Facility.—In this section, the term 'covered Department medical facility' means a medical facility of the Department of Veterans Affairs with an onsite pharmacy or a physical location dedicated for law enforcement purposes.
+
+"(c)
+
+Effective Date.—This section shall take effect on January 1, 2022."
+
+#### Women Veterans Retrofit Initiative
+
+Pub. L. 116–315, title V, §5102, Jan. 5, 2021, 134 Stat. 5026, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall prioritize the retrofitting of existing medical facilities of the Department of Veterans Affairs with fixtures, materials, and other outfitting measures to support the provision of care to women veterans at such facilities.
+
+"(b)
+
+Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary shall submit to Congress, the Committee on Veterans' Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a plan to address deficiencies in environment of care for women veterans at medical facilities of the Department.
+
+&emsp;"(2)
+
+Elements.—The plan required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An explanation of the specific environment of care deficiencies that need correcting.
+
+&emsp;&emsp;"(B) An assessment of how the Secretary prioritizes retrofitting existing medical facilities to support provision of care to women veterans in comparison to other requirements.
+
+&emsp;&emsp;"(C) A five-year strategic plan and cost projection for retrofitting medical facilities of the Department to support the provision of care to women veterans as required under subsection (a).
+
+"(c)
+
+Authorization of Appropriations.—Subject to appropriations and the plan under (b), there is authorized to be appropriated to the Secretary $20,000,000 to carry out subsection (a) in addition to amounts otherwise made available to the Secretary for the purposes set forth in such subsection."
+
+#### Staffing of Women's Health Primary Care Providers at Medical Facilities of Department of Veterans Affairs
+
+Pub. L. 116–315, title V, §5201, Jan. 5, 2021, 134 Stat. 5034, provided that: "The Secretary of Veterans Affairs shall ensure that each medical facility of the Department of Veterans Affairs has not fewer than one full-time or part-time women's health primary care provider whose duties include, to the extent possible, providing training to other health care providers of the Department on the needs of women veterans."
 
 #### Planning and Activating Community Based Outpatient Clinics Handbook Update
 

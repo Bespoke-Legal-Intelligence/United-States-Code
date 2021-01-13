@@ -2,7 +2,7 @@
 
 #### (a) Provision of information to the President
 
-The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
+The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretaryof State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
 
 #### (b) Public identification and sanctioning of significant foreign narcotics traffickers
 
@@ -78,6 +78,8 @@ In any judicial review of a determination made under this section, if the determ
 
 (Pub. L. 106–120, title VIII, §804, Dec. 3, 1999, 113 Stat. 1626; Pub. L. 114–198, title VIII, §801, July 22, 2016, 130 Stat. 755.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -88,11 +90,15 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 <b>2016</b>—Subsec. (i). Pub. L. 114–198 added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

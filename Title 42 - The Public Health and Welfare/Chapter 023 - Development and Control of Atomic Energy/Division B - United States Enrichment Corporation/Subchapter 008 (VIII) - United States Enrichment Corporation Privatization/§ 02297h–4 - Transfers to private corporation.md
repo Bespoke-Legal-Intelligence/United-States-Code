@@ -10,7 +10,7 @@ Concurrent with privatization, the Corporation shall transfer to the private cor
 
 &emsp;(4) the Corporation's right to purchase power from the Secretary under section 2297h–6(b) of this title,
 
-&emsp;(5) such funds in accounts of the Corporation held by the Treasury or on deposit with any bank or other financial institution as approved by the Secretary of the Treasury, and
+&emsp;(5) such funds in accounts of the Corporation held by the Treasury or on deposit with anybank or other financial institution as approved by the Secretary of the Treasury, and
 
 &emsp;(6) all of the Corporation's records, including all of the papers and other documentary materials, regardless of physical form or characteristics, made or received by the Corporation.
 

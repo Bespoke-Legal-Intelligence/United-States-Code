@@ -82,7 +82,7 @@ Beginning with fiscal year 2018, and for each fiscal year for which fees are col
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of theSenate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (e) Public availability
 
@@ -130,6 +130,8 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 <i>For termination of section by section 405(b) of Pub. L. 115–52, see Effective and Termination Dates note set out below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 401(b) of the Biosimilar User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 401(b) of Pub. L. 115–52, which is set out as a note under section 379j–51 of this title.
@@ -155,6 +157,8 @@ Subsecs. (d), (e). Pub. L. 115–52, §904(d)(2), added subsec. (d) and redesign
 Pub. L. 115–52, §404(3)–(5), redesignated subsec. (e) as (d), substituted "2022" for "2017" in pars. (1) and (3), and struck out former subsec. (d) which related to a study of the workload volume and full costs associated with the process for the review of biosimilar biological product applications.
 
 Subsec. (f). Pub. L. 115–52, §904(d)(2), redesignated subsec. (d) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

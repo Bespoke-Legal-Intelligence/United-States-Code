@@ -28,7 +28,7 @@ Conditions for Development.—
 
 In general.—The Administration shall not enter into a contract for the development of a major program unless the Administrator determines that—
 
-&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and theprogram has developed a plan to manage those risks;
+&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and the program has developed a plan to manage those risks;
 
 &emsp;&emsp;(B) the technologies required for the program have been demonstrated in a relevant laboratory or test environment; and
 
@@ -40,7 +40,7 @@ Report.—The Administrator shall transmit a report describing the basis for the
 
 &emsp;(3)
 
-Nondelegation.—The Administrator may not delegate the determination requirement under this subsection, except in cases in which the Administrator has a conflict of interest.
+Nondelegation.—The Administrator may not delegate the determination requirementunder this subsection, except in cases in which the Administrator has a conflict of interest.
 
 (c)
 
@@ -114,11 +114,11 @@ Determination, report, and initiation of analysis.—Not later than 30 days afte
 
 &emsp;(2)
 
-Completion of analysis and transmittal to committees.—The Administration shallcomplete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
+Completion of analysis and transmittal to committees.—The Administration shall complete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
 
 (f)
 
-Thirty Percent Threshold.—If the Administrator determines under subsection (e) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (e)(1)(A), the Administrator shall not expend any additional funds on the program, other than termination costs, unless Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
+Thirty Percent Threshold.—If the Administrator determines under subsection (e) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (e)(1)(A), the Administrator shall not expend any additional funds on the program, other thantermination costs, unless Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3360; Pub. L. 115–10, title VIII, §828, Mar. 21, 2017, 131 Stat. 66.)
 
@@ -140,9 +140,13 @@ Pub. L. 109–155, title I, §103, Dec. 30, 2005, 119 Stat. 2907.
 
 In subsections (b)(2), (c)(1), (d)(3), and (e)(1)(A), (2), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–10 substituted "Procedural Requirements 7120.5E, dated August 14, 2012" for "Procedural Requirements 7120.5c, dated March 22, 2005".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

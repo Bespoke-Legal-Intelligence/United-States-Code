@@ -56,15 +56,17 @@ Scope of Review.—The Board shall review, with respect to the Academy—
 
 &emsp;(1) the state of morale and discipline;
 
-&emsp;(2) the curriculum;
+&emsp;(2) recruitment and retention, including diversity, inclusion, and issues regarding women specifically;
 
-&emsp;(3) instruction;
+&emsp;(3) the curriculum;
 
-&emsp;(4) physical equipment;
+&emsp;(4) instruction;
 
-&emsp;(5) fiscal affairs; and
+&emsp;(5) physical equipment;
 
-&emsp;(6) other matters relating to the Academy that the Board determines appropriate.
+&emsp;(6) fiscal affairs; and
+
+&emsp;(7) other matters relating to the Academy that the Board determines appropriate.
 
 (e)
 
@@ -78,7 +80,7 @@ Advisors.—If approved by the Secretary, the Board may consult with advisors in
 
 Reimbursement.—Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 510, §194; Pub. L. 101–595, title III, §304, Nov. 16, 1990, 104 Stat. 2984; Pub. L. 107–295, title IV, §408(a)(1), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 113–281, title II, §211, Dec. 18, 2014, 128 Stat. 3027; renumbered §1903, Pub. L. 115–282, title I, §110(b), Dec. 4, 2018, 132 Stat. 4212.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 510, §194; Pub. L. 101–595, title III, §304, Nov. 16, 1990, 104 Stat. 2984; Pub. L. 107–295, title IV, §408(a)(1), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 113–281, title II, §211, Dec. 18, 2014, 128 Stat. 3027; renumbered §1903, Pub. L. 115–282, title I, §110(b), Dec. 4, 2018, 132 Stat. 4212; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8277, Jan. 1, 2021, 134 Stat. 4687.)
 
 #### Historical and Revision Notes
 
@@ -86,11 +88,15 @@ Based on title 14, U.S.C., 1946 ed., §15h (Apr. 16, 1937, ch. 107, §7, 50 Stat
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(2) to (7). Pub. L. 116–283 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 194 of this title as this section.
 
-<b>2014</b>—Pub. L. 113–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to establishment and composition of Board of Visitors, designation of Members, absence of a Member or ex officio Member from an annual meeting, and annual visit to the Academy.
+<b>2014</b>—Pub. L. 113–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to establishment and composition of Board ofVisitors, designation of Members, absence of a Member or ex officio Member from an annual meeting, and annual visit to the Academy.
 
 <b>2002</b>—Subsec. (b)(2), (5). Pub. L. 107–295 substituted "Transportation and Infrastructure" for "Merchant Marine and Fisheries".
 

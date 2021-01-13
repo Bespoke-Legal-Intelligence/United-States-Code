@@ -4,6 +4,8 @@ Whoever knowingly uses, manufactures, or sells any cremation urn of a design app
 
 (Added Sept. 28, 1950, ch. 1092, §1(b), 64 Stat. 1077; amended Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250".

@@ -24,6 +24,8 @@ May 24, 1974, Pub. L. 93–289, §11(b), 88 Stat. 173.
 
 In subsection (b), the words "is not" are substituted for "shall not be" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
@@ -32,11 +34,13 @@ In subsection (b), the words "is not" are substituted for "shall not be" for con
 
 <b>1980</b>—Pub. L. 96–513 struck out "(a)" before "The Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Liability of United States for Losses or Damages
 
-Pub. L. 93–289, §11(b), May 24, 1974, 88 Stat. 173, which provided that the United States shall not be liable for any losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by Pub. L. 97–295, §§3(5), 6(b), Oct. 12, 1982, 96 Stat. 1304, 1314.
+Pub. L. 93–289, §11(b), May 24, 1974, 88 Stat. 173, which provided that the United States shall not be liable forany losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by Pub. L. 97–295, §§3(5), 6(b), Oct. 12, 1982, 96 Stat. 1304, 1314.
 

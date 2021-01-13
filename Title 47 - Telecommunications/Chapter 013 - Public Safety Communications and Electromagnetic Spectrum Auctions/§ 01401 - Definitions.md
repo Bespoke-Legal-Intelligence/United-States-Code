@@ -178,9 +178,13 @@ In this chapter:
 
 (Pub. L. 112–96, title VI, §6001, Feb. 22, 2012, 126 Stat. 201.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6402, referred to in par. (17), is section 6402 of Pub. L. 112–96, which amended section 309 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

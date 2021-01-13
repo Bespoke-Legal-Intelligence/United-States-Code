@@ -30,7 +30,7 @@ Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agri
 
 &emsp;(1) in any region in which there is a history of double-cropping of peanuts with agricultural commodities specified in subsection (b)(3), as determined by the Secretary, in which case the double-cropping shall be permitted;
 
-&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on the base acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on thebase acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
 
 &emsp;(3) by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3), except that—
 

@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–248, title III, §302(1), July 27, 2006, 120 Stat. 619, inserted "or to undergo postrelease proceedings" after "trial" in item 4241 and added item 4248.

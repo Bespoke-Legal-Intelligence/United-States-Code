@@ -5,7 +5,7 @@
 | Sec. | Art. | &nbsp; |
 | :--- | :---: | ---: |
 | [836\.](%C2%A7%2000836%20-%20Art.%2036.%20President%20may%20prescribe%20rules.md) | 36\. | President may prescribe rules. |
-| [837\.](%C2%A7%2000837%20-%20Art.%2037.%20Command%20influence.md) | Art.<sup>1</sup> 37. | Command influence. |
+| [837\.](%C2%A7%2000837%20-%20Art.%2037.%20Command%20influence.md) | 37\. | Command influence. |
 | [838\.](%C2%A7%2000838%20-%20Art.%2038.%20Duties%20of%20trial%20counsel%20and%20defense%20counsel.md) | 38\. | Duties of trial counsel and defense counsel. |
 | [839\.](%C2%A7%2000839%20-%20Art.%2039.%20Sessions.md) | 39\. | Sessions. |
 | [840\.](%C2%A7%2000840%20-%20Art.%2040.%20Continuances.md) | 40\. | Continuances. |
@@ -26,9 +26,9 @@
 | [853a.](%C2%A7%2000853a%20-%20Art.%2053a.%20Plea%20agreements.md) | 53a. | Plea agreements. |
 | [854\.](%C2%A7%2000854%20-%20Art.%2054.%20Record%20of%20trial.md) | 54\. | Record of trial. |
 
-<sup>1</sup> So in original. "Art." probably should not appear.
-
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(20), Jan. 1, 2021, 134 Stat. 3871, added item 837 and struck out former item 837 "837. Art. 37. Command influence".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title V, §532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted "Art. 37. Command influence" for "37. Unlawfully influencing action of court".
 

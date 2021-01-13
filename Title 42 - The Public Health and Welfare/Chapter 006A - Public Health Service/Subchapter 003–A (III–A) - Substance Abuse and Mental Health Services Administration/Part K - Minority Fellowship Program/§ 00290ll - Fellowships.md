@@ -8,7 +8,7 @@ The Secretary shall maintain a program, to be known as the Minority Fellowship P
 
 &emsp;(2) improving the quality of mental and substance use disorder prevention and treatment services delivered to racial and ethnic minority populations; and
 
-&emsp;(3) increasing the number of culturally competent mental and substance use disorders professionals who teach, administer services, conduct research, and provide direct mental orsubstance use disorder services to racial and ethnic minority populations.
+&emsp;(3) increasing the number of culturally competent mental and substance use disorders professionals who teach, administer services, conduct research, and provide direct mental or substance use disorder services to racial and ethnic minority populations.
 
 #### (b) Training covered
 

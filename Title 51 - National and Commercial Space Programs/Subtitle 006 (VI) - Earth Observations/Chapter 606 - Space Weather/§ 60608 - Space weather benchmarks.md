@@ -1,0 +1,10 @@
+### §60608. Space weather benchmarks
+
+The interagency working group established under section 60601(c) shall periodically review and update the benchmarks described in the report of the National Science and Technology Council entitled "Space Weather Phase 1 Benchmarks" and dated June 2018, as necessary, based on—
+
+&emsp;(1) any significant new data or advances in scientific understanding that become available; or
+
+&emsp;(2) the evolving needs of entities impacted by space weather phenomena.
+
+(Pub. L. 116–181, §2(b), Oct. 21, 2020, 134 Stat. 892.)
+

@@ -54,6 +54,8 @@
 
 (Dec. 23, 1913, ch. 6, §7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Pub. L. 103–66, title III, §3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, §602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739; Pub. L. 115–123, div. C, title II, §30205, Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–174, title II, §217, May 24, 2018, 132 Stat. 1326.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of subsec. (a) \[formerly first undesignated par.\] of section 7 of act Dec. 23, 1913, and subsec. (b) \[enacted by Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304\] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
@@ -82,6 +84,8 @@ Par. (2). Pub. L. 103–325, §602(d)(2), substituted "paragraph (1)(A)" for "su
 
 <b>1933</b>—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–94, div. C, title XXXII, §32203(b), Dec. 4, 2015, 129 Stat. 1740, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2016."
@@ -89,6 +93,10 @@ Pub. L. 114–94, div. C, title XXXII, §32203(b), Dec. 4, 2015, 129 Stat. 1740,
 #### Effective Date of 1933 Amendment
 
 Act June 16, 1933, ch. 89, §4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
+
+#### Discretionary Surplus Funds
+
+Pub. L. 116–283, div. F, title LXV, §6510, Jan. 1, 2021, 134 Stat. 4633, provided that: "The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $40,000,000."
 
 #### Additional Transfers for Fiscal Years 1997 and 1998
 

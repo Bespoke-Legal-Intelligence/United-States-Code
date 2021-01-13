@@ -8,9 +8,13 @@ The use of any invention in any vessel, aircraft or vehicle of any country which
 
 This section follows the requirement of the International Convention for the Protection of Industrial Property, to which the United States is a party, and also codifies the holding of the Supreme Court that use of a patented invention on board a foreign ship does not infringe a patent.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–465 substituted "not offered for sale or sold" for "not sold".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

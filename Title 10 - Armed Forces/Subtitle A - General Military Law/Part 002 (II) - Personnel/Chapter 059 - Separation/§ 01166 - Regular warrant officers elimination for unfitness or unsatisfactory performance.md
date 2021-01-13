@@ -40,7 +40,7 @@ In subsection (b), the words "The Secretary concerned may defer" are substituted
 
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
 
-Section 286a of title 14, referred to in subsec. (a), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 286a of title 14, referred to in subsec. (a), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and referencesto section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
 

@@ -1,0 +1,116 @@
+### §16274. Nuclear science and engineering support
+
+#### (a) University nuclear science and engineering support
+
+#### (1) In general
+
+&emsp;The Secretary shall conduct a program to invest in human resources and infrastructure in the nuclear sciences and related fields, including health physics, nuclear engineering, and radiochemistry, consistent with missions of the Department related to civilian nuclear research, development, demonstration, and commercial application.
+
+#### (2) Requirements
+
+&emsp;In carrying out the program under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) conduct a graduate and undergraduate fellowship program to attract new and talented students, which may include fellowships for students to spend time at National Laboratories in the areas of nuclear science, engineering, and health physics with a member of the National Laboratory staff acting as a mentor;
+
+&emsp;&emsp;(B) conduct a junior faculty research initiation grant program to assist universities in recruiting and retaining new faculty in the nuclear sciences and engineering by awarding grants to junior faculty for research on issues related to nuclear energy engineering and science;
+
+&emsp;&emsp;(C) support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
+
+&emsp;&emsp;(D) encourage collaborative nuclear research among industry, National Laboratories, and universities; and
+
+&emsp;&emsp;(E) support communication and outreach related to nuclear science, engineering, and health physics.
+
+#### (3) University-National Laboratory interactions
+
+&emsp;The Secretary shall conduct—
+
+&emsp;&emsp;(A) a fellowship program for professors at universities to spend sabbaticals at National Laboratories in the areas of nuclear science and technology; and
+
+&emsp;&emsp;(B) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
+
+#### (4) Strengthening university research and training reactors and associated infrastructure
+
+&emsp;In carrying out the program under this subsection, the Secretary may support—
+
+&emsp;&emsp;(A) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
+
+&emsp;&emsp;(B) consortia of universities to broaden access to university research reactors;
+
+&emsp;&emsp;(C) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+
+&emsp;&emsp;(D) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+
+#### (5) Radiological facilities management
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall carry out a program under which the Secretary shall provide project management, technical support, quality engineering and inspection, and nuclear material handling support to research reactors located at universities.
+
+#### (B) Authorization of appropriations
+
+&emsp;&emsp;Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the program under this paragraph $20,000,000 for each of fiscal years 2021 through 2025.
+
+#### (6) Nuclear energy university program
+
+&emsp;In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+
+#### (7) Operations and maintenance
+
+&emsp;Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
+
+#### (8) Definition
+
+&emsp;In this subsection, the term "junior faculty" means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+
+#### (b) Nuclear energy graduate traineeship subprogram
+
+#### (1) Establishment
+
+&emsp;In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
+
+#### (2) Requirements
+
+&emsp;In carrying out the subprogram under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) encourage appropriate partnerships among National Laboratories, affected universities, and industry; and
+
+&emsp;&emsp;(B) on an annual basis, evaluate the needs of the nuclear energy community to implement graduate traineeships for focused topical areas addressing mission-specific workforce needs.
+
+#### (3) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
+
+(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463.)
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260, §2003(c)(1), substituted "Nuclear" for "University nuclear" in section catchline.
+
+Subsec. (a). Pub. L. 116–260, §2003(c)(10), designated existing provisions as subsec. (a) and inserted heading.
+
+Pub. L. 116–260, §2003(c)(9), added pars. (5) and (6).
+
+Subsec. (b). Pub. L. 116–260, §2003(c)(11), added subsec. (b).
+
+Pub. L. 116–260, §2003(c)(7), redesignated subsec. (b) as par. (2).
+
+Pub. L. 116–260, §2003(c)(2), substituted "this subsection" for "this section" in introductory provisions, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and realigned margins.
+
+Subsec. (c). Pub. L. 116–260, §2003(c)(7), redesignated subsec. (c) as par. (3).
+
+Pub. L. 116–260, §2003(c)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (d). Pub. L. 116–260, §2003(c)(7), redesignated subsec. (d) as par. (4).
+
+Pub. L. 116–260, §2003(c)(4), substituted "this subsection" for "this section" in introductory provisions, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and realigned margins.
+
+Subsec. (e). Pub. L. 116–260, §2003(c)(8), redesignated subsec. (e) as par. (7). Margins realigned to reflect the probable intent of Congress.
+
+Pub. L. 116–260, §2003(c)(5), substituted "this subsection" for "this section".
+
+Subsec. (f). Pub. L. 116–260, §2003(c)(8), redesignated susbec. (f) as par. (8). Margins realigned to reflect the probable intent of Congress.
+
+Pub. L. 116–260, §2003(c)(6), substituted "this subsection" for "this section" and "paragraph (2)(B)" for "subsection (b)(2)".
+
+<b>2018</b>—Subsec. (d)(4). Pub. L. 115–248 substituted "that emphasize" for "as part of a taking into consideration effort that emphasizes".
+

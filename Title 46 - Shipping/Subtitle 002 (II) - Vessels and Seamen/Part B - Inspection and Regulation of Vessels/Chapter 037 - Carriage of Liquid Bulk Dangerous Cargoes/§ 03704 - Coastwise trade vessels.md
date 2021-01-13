@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 3704 requires any tank vessel that is entitled to engage in the coastwise trade to install certain equipment in the United States under the penalty of losing coastwise trading privileges if the installation work is done in a foreign country.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304 substituted "chapter 551 of this title" for "section 27 of the Merchant Marine Act, 1920 (46 App. U.S.C. 883),".

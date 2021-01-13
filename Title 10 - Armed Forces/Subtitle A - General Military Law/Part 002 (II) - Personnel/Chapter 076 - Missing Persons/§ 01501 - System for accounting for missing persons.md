@@ -66,7 +66,7 @@ Termination of Applicability of Procedures When Missing Person Is Accounted for.
 
 Secretary Concerned.—In this chapter, the term "Secretary concerned" includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, §582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, §901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, §581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L.113–291, div. A, title IX, §916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, §953(a), Dec. 23, 2016, 130 Stat. 2376.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, §582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, §901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, §581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L. 113–291, div. A, title IX, §916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, §953(a), Dec. 23, 2016, 130 Stat. 2376.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (a)(1)(B), (C). Pub. L. 111–383, §901(g)(2)(D)–(F), added subpar. (
 
 Subsec. (a)(2). Pub. L. 111–383, §901(g)(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 111–383, §901(g)(3), (5), redesignated par. (2) as (3), struck out "of the office" after "responsibilities", and substituted "official designated under paragraph (1) and (2)" for "head of the office". Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 111–383, §901(g)(3), (5), redesignated par. (2) as (3), struck out "of the office" after"responsibilities", and substituted "official designated under paragraph (1) and (2)" for "head of the office". Former par. (3) redesignated (4).
 
 Subsec. (a)(4). Pub. L. 111–383, §901(g)(3), (6), redesignated par. (3) as (4), substituted "designated official" for "office", and inserted "and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased)" after "evasion)". Former par. (4) redesignated (5).
 
@@ -150,7 +150,7 @@ Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, as amende
 
 "(a)
 
-Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations duringWorld War II (including in New Guinea) while engaged in flight operations.
+Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations during World War II (including in New Guinea) while engaged in flight operations.
 
 "(2) In order to provide high priority to carrying out paragraph (1), the Secretary of Defense shall consider increasing the number of personnel assigned to the Central Identification Laboratory, Hawaii.
 
@@ -176,5 +176,5 @@ Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The
 
 #### Congressional Statement of Purpose
 
-Pub. L. 104–106, div. A, title V, §569(a), Feb. 10, 1996, 110 Stat. 336, provided that: "The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time."
+Pub. L. 104–106, div. A, title V, §569(a), Feb. 10, 1996, 110 Stat. 336, provided that: "The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 ofTitle 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time."
 

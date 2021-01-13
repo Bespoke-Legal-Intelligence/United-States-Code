@@ -12,7 +12,7 @@ Prior to classification as section 33, section was formerly classified to sectio
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–846 struck out before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section 4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
+<b>1962</b>—Pub. L. 87–846 struck out before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
 
 <b>1954</b>—Act Aug. 23, 1954, inserted before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section 4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
 

@@ -8,17 +8,19 @@ Establishment.—The Secretary of the Navy shall establish a program to be known
 
 Purposes.—The purposes of the program are as follows:
 
-&emsp;(1) To promote the national goals of assuring national security, advancing economic development, protecting quality of life, and strengthening science education and communication through improved knowledge of the ocean.
+&emsp;(1) To promote the national goals of assuring national security, advancing economic development, protecting quality of life, ensuring environmental stewardship, and strengthening science education and communication through improved knowledge of the ocean.
 
 &emsp;(2) To coordinate and strengthen oceanographic efforts in support of those goals by—
 
-&emsp;&emsp;(A) identifying and carrying out partnerships among Federal agencies, academia, industry, and other members of the oceanographic scientific community in the areas of data, resources, education, and communication; and
+&emsp;&emsp;(A) creating and carrying out partnerships among Federal agencies, academia, industry, and other members of the oceanographic community in the areas of science, data, technology development, resources, education, and communication; and
 
-&emsp;&emsp;(B) reporting annually to Congress on the program.
+&emsp;&emsp;(B) accepting, planning, and executing oceanographic research projects funded by grants, contracts, cooperative agreements, or other vehicles as appropriate, that contribute to assuring national security, advancing economic development, protecting quality of life, ensuring environmental stewardship, and strengthening science education and communication through improved knowledge of the ocean.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7901; renumbered §8931, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7901; renumbered §8931, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(a), Jan. 1, 2021, 134 Stat. 3851.)
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to establishment and purposes of National Oceanographic Partnership Program. As enacted by Pub. L. 116–283, "SEC." preceding section designation and catchline text were editorially conformed to the style used in this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7901 of this title as this section.
 

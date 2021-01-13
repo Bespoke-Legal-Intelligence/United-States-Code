@@ -38,7 +38,7 @@ Subsecs. (c) to (h). Pub. L. 109–163, §687(c)(2)(B)–(D), added subsec. (c),
 
 Subsec. (f)(1). Pub. L. 101–510, §534(2), inserted "or fails to fulfill any term or condition prescribed pursuant to clause (4) of such subsection," after "agreement,".
 
-<b>1987</b>—Subsec. (e). Pub. L. 100–180, §1231(17), inserted "The term" after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (e). Pub. L. 100–180, §1231(17), inserted "The term" after each par. designation and revisedfirst word in quotes in each par. to make initial letter of such word lowercase.
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–94, §1268(10)(A), struck out "of this section" after "subsection (d)" and "subsection (a)".
 

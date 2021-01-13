@@ -66,9 +66,13 @@ In this chapter:
 
 (Pub. L. 109–401, title II, §203, Dec. 18, 2006, 120 Stat. 2742.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In par. (13)(C), "section 70502(b) of title 46" substituted for "section 3(b) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(b))" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

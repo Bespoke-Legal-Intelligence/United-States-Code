@@ -38,6 +38,8 @@ Sense of Congress Regarding Personnel.—It is the sense of Congress that the Ce
 
 (Added Pub. L. 113–235, div. H, title I, §1401(a)(1), Dec. 16, 2014, 128 Stat. 2539.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Approval of Business Plan
 
 Pub. L. 113–235, div. H, title I, §1401(b), Dec. 16, 2014, 128 Stat. 2541, provided that: "The Comptroller General may not begin operating the Center for Audit Excellence under subchapter VII of chapter 7 of title 31, United States Code (as added by subsection (a)) until—

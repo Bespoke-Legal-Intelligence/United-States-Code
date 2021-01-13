@@ -38,6 +38,8 @@ Section 105 is derived from section 2a (15) of present law \[section 11(a)(15) o
 
 This section is also an authorization, as required under 28 U.S.C. 2283, for a court of the United States to stay the action of a State court. As such, <i>Toucey v. New York Life Insurance Company</i>, 314 U.S. 118 (1941), is overruled.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are set out in the Appendix to this title.
@@ -57,6 +59,8 @@ Subsec. (d)(1). Pub. L. 109–8, §440(2), added par. (1) and struck out former 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out "bankruptcy" before "court".
 
 Subsec. (c). Pub. L. 98–353, §118(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

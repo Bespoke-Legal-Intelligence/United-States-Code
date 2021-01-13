@@ -80,7 +80,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 &emsp;&emsp;The term "lottery" includes any arrangement, other than a savings promotion raffle, under which—
 
-&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receive by reason of those participants' advances more than the amounts those participants have advanced; and
+&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receiveby reason of those participants' advances more than the amounts those participants have advanced; and
 
 &emsp;&emsp;&emsp;(ii) the identity of the winners is determined by any means which includes—
 
@@ -114,7 +114,7 @@ A savings association may not make a federally related mortgage loan to an agent
 
 (1) Notwithstanding any State law, a savings association may charge interest on any extension of credit at a rate of not more than 1 percent in excess of the discount rate on 90-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district in which such savings association is located or at the rate allowed by the laws of the State in which such savings association is located, whichever is greater.
 
-(2) If the rate prescribed in paragraph (1) exceeds the rate such savings association would be permitted to charge in the absence of this subsection, the receiving or charging a greater rate of interest than that prescribed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the extension of credit carries with it, or which has been agreed to be paid thereon. If such greater rate ofinterest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than 2 years after the date of such payment, an amount equal to twice the amount of the interest paid from the savings association taking or receiving such interest.
+(2) If the rate prescribed in paragraph (1) exceeds the rate such savings association would be permitted to charge in the absence of this subsection, the receiving or charging a greater rate of interest than that prescribed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the extension of credit carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than 2 years after the date of such payment, an amount equal to twice the amount of the interest paid from the savings association taking or receiving such interest.
 
 #### (h) Form and maturity of securities
 
@@ -125,6 +125,8 @@ No savings association shall—
 &emsp;(2) issue any securities the form of which has not been approved by the appropriate Federal banking agency.
 
 (June 13, 1933, ch. 64, §4, as added Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 280; amended Pub. L. 111–203, title III, §369(4), July 21, 2010, 124 Stat. 1558; Pub. L. 113–251, §3(d), Dec. 18, 2014, 128 Stat. 2889.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -150,7 +152,7 @@ In general.—The Director shall provide for the examination, safe and sound ope
 
 "(2)
 
-Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office."
+Regulations.—The Director may issue such regulations as the Director determines to be appropriateto carry out the responsibilities of the Director or the Office."
 
 Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted "Comptroller and the Corporation" for "Director" in two places.
 
@@ -163,6 +165,8 @@ Subsec. (c). Pub. L. 111–203, §369(4)(C), substituted "The regulations of the
 Subsec. (e)(5). Pub. L. 111–203, §369(4)(D), substituted "Comptroller" for "Director".
 
 Subsecs. (f), (h). Pub. L. 111–203, §369(4)(E), (F), substituted "appropriate Federal banking agency" for "Director" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -220,7 +224,7 @@ Minority.—The term 'minority' means any black American, Native American, Hispa
 
 "(c)
 
-Reports.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, theChairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section."
+Reports.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section."
 
 #### Abolition of Home Owners' Loan Corporation
 

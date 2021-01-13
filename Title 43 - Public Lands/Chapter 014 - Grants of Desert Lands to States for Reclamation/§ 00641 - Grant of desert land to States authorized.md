@@ -10,15 +10,19 @@ As fast as any State may furnish satisfactory proof according to such rules and 
 
 (Aug. 18, 1894, ch. 301, §4, 28 Stat. 422; Mar. 3, 1901, ch. 853, §3, 31 Stat. 1188; Jan. 6, 1921, ch. 10, 41 Stat. 1085; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act approved March 3, 1877, referred to in text, is act Mar. 3, 1877, ch. 107, 19 Stat. 377, as amended, popularly known as the Desert Lands Act, which is classified generally to sections 321 to 323, 325, 327 to 329 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Act amendatory thereof, approved March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which enacted sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 2505, and 2506 of this title, former section 1181 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, section 426 of Title 25, Indians, former section 495 of Title 25, and sections 30, 36, 44, 45, 48, and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+The Act amendatory thereof, approved March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which enacted sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 2505, and 2506 of this title, former section 1181 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, section 426 of Title 25, Indians, former section 495 of Title 25, and sections 30, 36,44, 45, 48, and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–579 struck out provisions authorizing Secretary of the Interior to promulgate regulations for reservation of lands by the State.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

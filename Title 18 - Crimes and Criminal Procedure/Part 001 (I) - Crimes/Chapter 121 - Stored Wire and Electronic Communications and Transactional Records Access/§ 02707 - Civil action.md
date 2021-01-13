@@ -44,6 +44,8 @@ Improper Disclosure.—Any willful disclosure of a "record", as that term is def
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26, 2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 115–141, div. V, §104(2)(B), Mar. 23, 2018, 132 Stat. 1216.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(3). Pub. L. 115–141 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "a good faith determination that section 2511(3) of this title permitted the conduct complained of;".
@@ -52,7 +54,7 @@ Improper Disclosure.—Any willful disclosure of a "record", as that term is def
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56, §223(b)(1), inserted ", other than the United States," after "person or entity".
 
-Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "If a court determines that any agency or department of the United States has violatedthis chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
+Subsec. (d). Pub. L. 107–56, §223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee."
 
 Subsec. (e)(1). Pub. L. 107–56, §815, as amended by Pub. L. 107–273, inserted "(including a request of a governmental entity under section 2703(f) of this title)" after "or a statutory authorization".
 
@@ -63,6 +65,8 @@ Subsec. (g). Pub. L. 107–56, §223(b)(3), added subsec. (g).
 Subsec. (c). Pub. L. 104–293, §601(c)(2), inserted at end "If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court."
 
 Subsecs. (d) to (f). Pub. L. 104–293, §601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

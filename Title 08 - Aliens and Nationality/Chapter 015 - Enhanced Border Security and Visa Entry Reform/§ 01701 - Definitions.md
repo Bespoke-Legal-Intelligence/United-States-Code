@@ -52,13 +52,15 @@ In this chapter:
 
 #### (6) President
 
-&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary ofState, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
+&emsp;The term "President" means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of U.S. Customs and Border Protection, and the Secretary of the Treasury.
 
 #### (7) USA PATRIOT Act
 
 &emsp;The term "USA PATRIOT Act" means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
 
 (Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 108–293, title VI, §619, Aug. 9, 2004, 118 Stat. 1062; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ The Uniting and Strengthening America by Providing Appropriate Tools Required to
 <b>2004</b>—Par. (4)(G). Pub. L. 108–293 substituted "The Coast Guard" for "The Coastal Security Service".
 
 <b>2002</b>—Par. (4)(J). Pub. L. 107–296 substituted "Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice" for "Bureau of Alcohol, Tobacco, and Firearms".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -134,7 +138,7 @@ Contents.—The plan submitted under subsection (a) shall include—
 
 &emsp;"(2) cost estimates for the implementation of the plan and ongoing operations;
 
-&emsp;"(3) recommendations for the appropriate agent within the Department of Homeland Security to be the executive agency for remotely piloted aircraft operations;
+&emsp;"(3) recommendations for the appropriate agent within the Department of Homeland Security to bethe executive agency for remotely piloted aircraft operations;
 
 &emsp;"(4) the number of remotely piloted aircraft required for the plan;
 

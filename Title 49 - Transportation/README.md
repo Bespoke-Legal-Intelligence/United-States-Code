@@ -37,7 +37,11 @@
 
 Table Showing Disposition of Former Sections of Title 49
 
-<i>Title 49</i>
+or Title 49
+
+Appendix
+
+<i>Title 49 or Title 49 Appendix</i>
 
 <i>Former Sections</i>
 
@@ -7509,7 +7513,7 @@ Continuing Effect.—An order, rule, or regulation in effect under a law replace
 
 "(d)
 
-Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken orcommitted under the corresponding provision enacted by this Act.
 
 "(e)
 
@@ -7593,7 +7597,7 @@ Pub. L. 96–258, §2, June 3, 1980, 94 Stat. 427, provided that:
 
 "(b) A reference to a law replaced by section 1 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-"(c) An order, rule, or regulation in effect under a law replaced by section 1 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by section 1 of this Act continues in effectunder the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
 "(d) An action taken or an offense committed under a law replaced by section 1 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 

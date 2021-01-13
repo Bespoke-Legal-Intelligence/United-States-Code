@@ -6,11 +6,15 @@
 
 (June 25, 1938, ch. 676, §2, 52 Stat. 1060; Oct. 26, 1949, ch. 736, §2, 63 Stat. 910; Pub. L. 93–259, §7(a), Apr. 8, 1974, 88 Stat. 62.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–259 inserted finding of Congress that employment of persons in domestic service in households affects commerce.
 
 <b>1949</b>—Subsec. (b). Act Oct. 26, 1949, inserted reference to regulation of commerce with foreign nations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

@@ -22,6 +22,8 @@ Judicial Review.—Any determination of the Copyright Royalty Judges under subse
 
 (Added Pub. L. 102–563, §2, Oct. 28, 1992, 106 Stat. 4246; amended Pub. L. 103–198, §6(b)(5), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, §5(i)(4)(A), Nov. 30, 2004, 118 Stat. 2368.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–419 amended section catchline and text generally, substituting provisions relating to determination of certain disputes for provisions relating to arbitration of certain disputes.
@@ -33,6 +35,8 @@ Subsec. (e). Pub. L. 103–198, §6(b)(5)(B), substituted "Librarian of Congress
 Subsec. (f). Pub. L. 103–198, §6(b)(5)(C), substituted "Librarian of Congress" for "Copyright Royalty Tribunal" in heading and before "shall adopt or reject" in text, substituted "Librarian of Congress" for "Tribunal" wherever appearing, and substituted "the Librarian's" for "its".
 
 Subsec. (g). Pub. L. 103–198, §6(b)(5)(D), substituted "Librarian of Congress" for "Copyright Royalty Tribunal" after "Any decision of the", "decision of the Librarian of Congress" for "Tribunal's decision" in second sentence, and "Librarian of Congress" for "Tribunal" wherever appearing in third through fifth sentences.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

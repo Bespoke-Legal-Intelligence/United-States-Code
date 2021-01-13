@@ -20,6 +20,8 @@ Mar. 2, 1895, ch. 187 (1st par. under heading "Treasury Department"), 28 Stat. 8
 
 In the section, the words "When the term of office . . . ends" are substituted for "whose terms of office have expired or shall expire" for consistency and to eliminate unnecessary words. The words "may continue to serve" are substituted for "The Secretary of the Treasury is authorized and directed to pay", "and who have been performing or shall perform the duties of their respective offices after the date of such expiration", and "the salary, compensation, fees, or emoluments authorized or provided by law in each case for the respective incumbents of the offices" because of 25 Op. Atty. Gen. 636 (1906) and for consistency with other titles of the United States Code. The words "until a successor is appointed and qualified" are substituted for "before the appointment and qualification of their successors" and 31:1016 (last sentence) for consistency with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 renumbered section 312 of this title as this section.
@@ -30,7 +32,9 @@ In the section, the words "When the term of office . . . ends" are substituted
 
 <b>1989</b>—Pub. L. 101–73 renumbered section 309 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 

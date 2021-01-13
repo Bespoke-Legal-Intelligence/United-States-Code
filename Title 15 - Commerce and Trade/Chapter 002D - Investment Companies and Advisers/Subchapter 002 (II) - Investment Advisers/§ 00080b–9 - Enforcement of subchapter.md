@@ -26,7 +26,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (A) First tier
 
-&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
+&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts andcircumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
 
 #### (B) Second tier
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

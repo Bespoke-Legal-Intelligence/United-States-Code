@@ -42,7 +42,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 #### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns
 
-(1) The Inspector General shall, not later than October 31 and April 30 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending September 30 and March 31, respectively. Not later than 30 days after the date of the receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, review, or audit conducted during the reporting period and—
+(1) The Inspector General shall, not later than October 31 and April 30 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Officeduring the immediately preceding six-month periods ending September 30 and March 31, respectively. Not later than 30 days after the date of the receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, review, or audit conducted during the reporting period and—
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
 
@@ -98,7 +98,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
-(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
+(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause\(ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
 
 (ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
 
@@ -158,7 +158,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(ii) all other personnel decisions concerning personnel permanently assigned to the Office of Inspector General, including selection and appointment to the Senior Intelligence Service, but excluding all security-based determinations that are not within the authority of a head of other Central Intelligence Agency offices.
 
-(C)(i) The Inspector General may designate an officer or employee appointed in accordancewith subparagraph (A) as a law enforcement officer solely for purposes of subchapter III of chapter 83 or chapter 84 of title 5 if such officer or employee is appointed to a position with responsibility for investigating suspected offenses against the criminal laws of the United States.
+(C)(i) The Inspector General may designate an officer or employee appointed in accordance with subparagraph (A) as a law enforcement officer solely for purposes of subchapter III of chapter 83 or chapter 84 of title 5 if such officer or employee is appointed to a position with responsibility for investigating suspected offenses against the criminal laws of the United States.
 
 (ii) In carrying out clause (i), the Inspector General shall ensure that any authority under such clause is exercised in a manner consistent with section 3307 of title 5 as it relates to law enforcement officers.
 
@@ -276,7 +276,7 @@ Subsec. (e)(5)(A). Pub. L. 111–259, §425(e), inserted "in any medium (includi
 
 Subsec. (e)(8). Pub. L. 111–259, §425(f)(1)(C), added par. (8). Former par. (8) redesignated (9).
 
-Subsec. (e)(9). Pub. L. 111–259, §425(f)(1)(A), (B), redesignated par. (8) as (9), substituted "The" for "Subject to the concurrence of the Director, the" and inserted at end "Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+Subsec. (e)(9). Pub. L. 111–259, §425(f)(1)(A), (B), redesignated par. (8) as (9), substituted "The" for "Subject to the concurrence of the Director, the" and inserted atend "Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
 
 &emsp;"(A) the selection of internal and external candidates for employment with the Office of Inspector General; and
 
@@ -344,7 +344,7 @@ Pub. L. 115–31, div. N, title IV, §412(b), May 5, 2017, 131 Stat. 821, provid
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–259, title IV, §425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: "Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency."
+Pub. L. 111–259, title IV, §425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: "Nothing in the amendmentmade by paragraph (1)(C) \[amending this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency."
 
 #### Termination of Reporting Requirements
 

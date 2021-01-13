@@ -24,11 +24,11 @@
 
 &emsp;(B) in addition to any deductions which would be required if the insurance were continued as provided under subparagraph (A) of this paragraph, the employee may elect continuous withholdings from annuity or compensation in amounts determined by the Office, and the employee's life insurance coverage shall be either continued without reduction or reduced each month by no more than 1 percent of its face value until no less than 50 percent of the amount of insurance in force before the first reduction remains.
 
-(4) If an employee elects to continue insurance under subparagraph (B) of paragraph (3) of thissubsection at the time eligibility to continue insurance during retirement or receipt of compensation for disease or injury arises, the individual may later cancel that election and life insurance coverage shall continue as if the individual had originally elected coverage under subparagraph (A) of paragraph (3) of this subsection.
+(4) If an employee elects to continue insurance under subparagraph (B) of paragraph (3) of this subsection at the time eligibility to continue insurance during retirement or receipt of compensation for disease or injury arises, the individual may later cancel that election and life insurance coverage shall continue as if the individual had originally elected coverage under subparagraph (A) of paragraph (3) of this subsection.
 
 (c) Notwithstanding subsections (a) and (b) of this section, an employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8701(a) of this title, within 60 days after entering on that leave without pay, may elect to continue his insurance and arrange to pay currently into the Employees' Life Insurance Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, his insurance will continue during nonpay status and stop as provided by subsection (a) of this section.
 
-(d)(1) An employee who enters on approved leave without pay in the circumstances described in paragraph (2) may elect to have such employee's life insurance continue (beyond the end of the 12 months of coverage provided for under subsection (a)) for an additional 12 months and arrange to pay currently into the Employees' Life Insurance Fund, through such employee's employing agency, both employee and agency contributions, from the beginning of that additional 12 months of coverage. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, such employee's insurance will continue during nonpay status and stop as provided by subsection (a). An individual making an election under this subsection may cancel that election at any time, in which case such employee's insurance will stop as provided by subsection (a) or upon receipt of notice of cancellation, whichever is later.
+(d)(1) An employee who enters on approved leave without pay in the circumstances described in paragraph (2) may elect to have such employee's life insurance continue (beyond the end of the 12 months of coverage provided for under subsection (a)) for an additional 12 months and arrange to pay currently into the Employees' Life Insurance Fund, through such employee's employing agency, both employee and agency contributions, from the beginning of that additional 12 months of coverage. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, such employee's insurance will continue during nonpay status and stop as provided bysubsection (a). An individual making an election under this subsection may cancel that election at any time, in which case such employee's insurance will stop as provided by subsection (a) or upon receipt of notice of cancellation, whichever is later.
 
 (2) This subsection applies in the case of any employee who—
 
@@ -84,7 +84,7 @@ Aug. 1, 1956, ch. 837, §501(c)(1) (less applicability to §2(b)), 70 Stat. 882.
 
 In subsection (b), the words "armed forces" are coextensive with and substituted for "Army, Navy, Air Force, and Marine Corps, or Coast Guard of the United States" in view of the definition of "armed forces" in section 2101.
 
-In subsection (c), the word "only" is supplied for clarity and for consistency with subsection (b). The words "under conditions determined by the Commission,without cost to him" are coextensive with and substituted for "as provided in subsection (b) of this section".
+In subsection (c), the word "only" is supplied for clarity and for consistency with subsection (b). The words "under conditions determined by the Commission, without cost to him" are coextensive with and substituted for "as provided in subsection (b) of this section".
 
 In subsection (d), the first sentence of former section 2091(c) is omitted as unnecessary as the definition of "employee" in section 8701 precludes acquisition of coverage by a member of a uniformed service. The words "section 101 of title 38" are substituted for "section 1101 of title 38" on authority of section 5(a) of the Act of Sept. 2, 1958, Pub. L. 85–857, 72 Stat. 1262.
 
@@ -107,6 +107,8 @@ Act
 July 18, 1966, Pub. L. 89–504, §406(a), 80 Stat. 298.
 
 The words "subsections (a)–(c) of this section" are substituted for "the foregoing" to reflect the codification of former 5 U.S.C. 2095. The word "officer" is omitted as included in "employee." The words "as defined by section 8701(a) of this title" are substituted for "as defined in section 2 of the Act" to reflect the codification of that section in 5 U.S.C. 8701(a). The words "Employees' Life Insurance Fund" and "Fund" are substituted for "fund" and "fund established by section 5 of this Act", respectively.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -170,13 +172,15 @@ Subsecs. (e), (f). Pub. L. 95–583, §1(a)(2), redesignated subsecs. (e) and (f
 
 <b>1972</b>—Subsec. (f). Pub. L. 92–529 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–311 effective in any case in which a finding of erroneous insurance coverage is made on or after Oct. 30, 1998, see section 11(c) of Pub. L. 105–311, set out as a note under section 8701 of this title.
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 98–353, title II, §207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, §7(2), provided that: "The amendments to chapter 87 of title 5, UnitedStates Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982."
+Pub. L. 98–353, title II, §207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, §7(2), provided that: "The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act \[which, as amended generally by Pub. L. 99–336, §7(1), amended this section and sections 8714a to 8714c of this title\] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982."
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
@@ -194,7 +198,7 @@ Amendment by Pub. L. 96–427 applicable only in case of an employee who retires
 
 #### Effective Date of 1978 Amendments
 
-Pub. L. 95–583, §3, Nov. 2, 1978, 92 Stat. 2482, provided that: "The amendments made by this Act \[amending this section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\]."
+Pub. L. 95–583, §3, Nov. 2, 1978, 92 Stat. 2482, provided that: "The amendments made by this Act \[amendingthis section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\]."
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

@@ -6,7 +6,7 @@ In addition to the usual number of the report of the Geological Survey, ten thou
 
 The reports of the Geological Survey, except the annual report of the Director, shall be published in editions recommended in each case by the Director and approved by the Secretary of the Interior, but not to exceed ten thousand copies.
 
-When the edition of a report of the Survey is exhausted, and the demand for it continues, there may be published, on the requisition of the Secretary of the Interior, as many additionalcopies of the report as the Director of the Survey states will, in his judgment, be necessary to meet the demand.
+When the edition of a report of the Survey is exhausted, and the demand for it continues, there may be published, on the requisition of the Secretary of the Interior, as many additional copies of the report as the Director of the Survey states will, in his judgment, be necessary to meet the demand.
 
 The report of the mineral resources of the United States shall be published in two octavo volumes and as a distinct publication, the number of copies, printing of separate chapters, and mode of distribution of which shall be the same as of the annual report.
 
@@ -21,6 +21,8 @@ The Director of the Geological Survey shall transmit to the Library of Congress 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §260 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 614; Mar. 2, 1895, ch. 189, §1, 28 Stat. 960; June 11, 1896, ch. 420, §1, 29 Stat. 453; June 4, 1897, ch. 2, §1, 30 Stat. 61; Mar. 2, 1901, No. 17, 31 Stat. 1465; May 16, 1902, No. 22, 32 Stat. 741; Mar. 4, 1909, ch. 299, §1, 35 Stat. 988).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

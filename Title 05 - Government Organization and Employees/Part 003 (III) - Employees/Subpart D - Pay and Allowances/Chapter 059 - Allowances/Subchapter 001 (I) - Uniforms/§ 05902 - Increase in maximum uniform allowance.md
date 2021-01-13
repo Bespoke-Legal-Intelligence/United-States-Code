@@ -2,7 +2,7 @@
 
 The Office of Personnel Management may, from time to time, by regulation adjust the maximum amount for the cost of uniforms and the maximum allowance for uniforms under section 5901.
 
-(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, §529\[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
+(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, §529 \[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
 
 Historical and Revision Notes
 
@@ -20,6 +20,8 @@ July 18, 1966, Pub. L. 89–504, §407(b), 80 Stat. 299.
 
 The words "any other provision of" following "Notwithstanding" are omitted as unnecessary. The words "section 5901 of this title" are substituted for "this title" in three places to reflect the codification of that title in title 5, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–509 amended section generally. Prior to amendment, section read as follows: "Notwithstanding section 5901 of this title, each of the respective maximum uniform allowances in effect on April 1, 1966, for the respective categories of employees to whom uniform allowances are paid under section 5901 of this title are increased, subject to the maximum allowance authorized by section 5901 of this title, as follows:
@@ -33,6 +35,8 @@ The words "any other provision of" following "Notwithstanding" are omitted as un
 &emsp;"(4) If the maximum uniform allowance is less than $50, it is increased by 40 percent.
 
 > The maximum uniform allowances, as in effect on April 1, 1966, and as increased by this section, may not be reduced."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -4,6 +4,8 @@ No money appropriated for the improvement of rivers and harbors shall be expende
 
 (July 13, 1892, ch. 158, §5, 27 Stat. 111.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Rivers and Harbors Appropriation Act of 1892.

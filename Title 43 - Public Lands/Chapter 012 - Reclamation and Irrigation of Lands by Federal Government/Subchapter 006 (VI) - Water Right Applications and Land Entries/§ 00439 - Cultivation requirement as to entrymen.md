@@ -4,6 +4,8 @@ The entryman upon lands to be irrigated shall, in addition to compliance with th
 
 (June 17, 1902, ch. 1093, §5, 32 Stat. 389.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Section as Unaffected by Submerged Lands Act
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.

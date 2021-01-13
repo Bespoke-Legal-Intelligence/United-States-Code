@@ -18,7 +18,7 @@
 
 #### (2) Inspection
 
-&emsp;In promulgating the regulations described in paragraph (1), the Secretary shall considerwhich records are needed for inspection to monitor the movement of tobacco products from the point of manufacture through distribution to retail outlets to assist in investigating potential illicit trade, smuggling, or counterfeiting of tobacco products.
+&emsp;In promulgating the regulations described in paragraph (1), the Secretary shall consider which records are needed for inspection to monitor the movement of tobacco products from the point of manufacture through distribution to retail outlets to assist in investigating potential illicit trade, smuggling, or counterfeiting of tobacco products.
 
 #### (3) Codes
 
@@ -61,6 +61,8 @@ If the Secretary has a reasonable belief that a tobacco product is part of an il
 In carrying out this section, the Secretary shall consult with the Attorney General of the United States and the Secretary of the Treasury, as appropriate.
 
 (June 25, 1938, ch. 675, §920, as added Pub. L. 111–31, div. A, title III, §301, June 22, 2009, 123 Stat. 1850.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

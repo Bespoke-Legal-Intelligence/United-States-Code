@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–452, title II, §223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 "Immunity of witnesses".

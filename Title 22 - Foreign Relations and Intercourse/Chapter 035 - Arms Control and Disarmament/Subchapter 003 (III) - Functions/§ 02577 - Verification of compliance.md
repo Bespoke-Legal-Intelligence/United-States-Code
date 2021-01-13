@@ -14,7 +14,7 @@ In order to ensure that arms control, nonproliferation, and disarmament agreemen
 
 #### (b) Assessments upon request
 
-Upon the request of the chairman or ranking minority member of the Committee on ForeignRelations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
+Upon the request of the chairman or ranking minority member of the Committee on Foreign Relations of the Senate or the Committee on International Relations of the House of Representatives, in case of an arms control, nonproliferation, or disarmament proposal presented to a foreign country by the United States or presented to the United States by a foreign country, the Secretary of State shall submit a report to the Committee on the degree to which elements of the proposal are capable of being verified.
 
 #### (c) Standard for verification of compliance
 
@@ -22,9 +22,11 @@ In making determinations under paragraphs (1) and (2) of subsection (a), the Sec
 
 #### (d) Rule of construction
 
-Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliance with arms control, nonproliferation, and disarmament agreements.
+Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliancewith arms control, nonproliferation, and disarmament agreements.
 
 (Pub. L. 87–297, title III, §306, formerly §37, as added Pub. L. 95–108, §4, Aug. 17, 1977, 91 Stat. 871; amended Pub. L. 103–236, title VII, §712, Apr. 30, 1994, 108 Stat. 495; renumbered §306 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(11), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1115\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 105–277, §1223(11)(A), substituted "Secretary of State" 
 Subsec. (d). Pub. L. 105–277, §1223(11)(B), struck out heading and text of subsec. (d). Text read as follows: "In order to ensure adherence of the United States to obligations or commitments undertaken in arms control, nonproliferation, and disarmament agreements, and in order for the Director to make the assessment required by section 2593a(a)(5) of this title, the Director, or the Director's designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on United States adherence to obligations undertaken in arms control, nonproliferation, or disarmament agreements."
 
 <b>1994</b>—Pub. L. 103–236 substituted "Verification of compliance" for "Verification of Arms Control Agreements" as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

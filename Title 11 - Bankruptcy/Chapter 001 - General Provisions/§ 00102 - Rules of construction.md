@@ -58,17 +58,21 @@ Paragraph (3) is a codification of <i>American Surety Co. v. Marotta</i>, 287 U.
 
 Paragraph (4) specifies that "may not" is prohibitive and not permissive (such as in "might not").
 
-Paragraph (5) specifies that "or" is not exclusive. Thus, if a party "may do (a) or (b)", then the party may do either or both. The party is not limited to a mutually exclusive choice between the two alternatives.
+Paragraph (5) specifies that "or" is not exclusive. Thus, if a party "may do (a) or (b)", then the party may do either or both. The party is not limited to amutually exclusive choice between the two alternatives.
 
 Paragraph (6) makes clear that "order for relief" means entry of an order for relief. If the court orally orders relief, but the order is not entered until a later time, then any time measurements in the bill are from entry, not from the oral order. In a voluntary case, the entry of the order for relief is the filing of the petition commencing the voluntary case.
 
 Paragraph (7) specifies that the singular includes the plural. The plural, however, generally does not include the singular. The bill uses only the singular, even when the item in question most often is found in plural quantities, in order to avoid the confusion possible if both rules of construction applied. When an item is specified in the plural, the plural is intended.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1986</b>—Par. (9). Pub. L. 99–554 added par. (9).
 
 <b>1984</b>—Par. (8). Pub. L. 98–353 substituted "contained" for "continued".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

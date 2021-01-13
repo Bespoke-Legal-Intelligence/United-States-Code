@@ -22,6 +22,8 @@ June 29, 1936, ch. 858, title VII, §701, 49 Stat. 2008; Pub. L. 97–31, §12(1
 
 The words "find and", "finding and", "in whole or in part", and "previously adopted" are omitted as unnecessary. The word "shall" is substituted for "is authorized and directed to" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Merchant Marine Act, 1936, referred to in text, is act June 29, 1936, ch. 858, 49 Stat. 1985. Title V of the Act enacted provisions set out as a note under section 53101 of this title. For complete classification of this Act to the Code, see Short Title of 1936 Amendment note set out under section 101 of this title and Tables.

@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessaryto establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -160,7 +160,7 @@ Reconsideration of applicants disqualified on basis of biographical assessments.
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If an individual described in paragraph (1)(A) or paragraph\(1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
+In general.—If an individual described in paragraph (1)(A) or paragraph (1)(B)(ii), who applied for the position of air traffic controller with the Administration in response to Vacancy Announcement FAA–AMC–14–ALLSRCE–33537 (issued on February 10, 2014), was disqualified from the position as the result of a biographical assessment, the Administrator shall provide the applicant an opportunity to reapply for the position as soon as practicable under the revised hiring practices.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -182,7 +182,7 @@ Retired military controllers.—The Administrator may establish a program to pro
 
 &emsp;&emsp;(B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 116–92, div. A, title XI, §§1132, 1133, Dec. 20, 2019, 133 Stat. 1615, 1616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389;Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 116–92, div. A, title XI, §§1132, 1133, Dec. 20, 2019, 133 Stat. 1615, 1616.)
 
 Historical and Revision Notes
 
@@ -283,6 +283,8 @@ Pub. L. 112–95, title VI, §609(b), Feb. 14, 2012, 126 Stat. 116, provided tha
 Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator of the Federal Aviation Administration shall transmit to Congress an annual update to the report submitted to Congress in December 2004 pursuant to section 221 of Public Law 108–176 \[set out below\]".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1830.
 
 Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2940.
 

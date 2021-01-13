@@ -8,6 +8,7 @@
 | [8604\.](%C2%A7%2008604%20-%20Reports%20required.md) | Reports required. |
 | [8605\.](%C2%A7%2008605%20-%20Definitions.md) | Definitions. |
 | [8606\.](%C2%A7%2008606%20-%20United%20States-Israel%20cooperation%20on%20energy%2C%20water%2C%20homeland%20security%2C%20agriculture%2C%20and%20alternative%20fuel%20technologies.md) | United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies. |
+| [8607\.](%C2%A7%2008607%20-%20Other%20matters%20of%20cooperation.md) | Other matters of cooperation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,3 +23,4 @@
 - [&sect; 08604 - Reports required](%C2%A7%2008604%20-%20Reports%20required.md)
 - [&sect; 08605 - Definitions](%C2%A7%2008605%20-%20Definitions.md)
 - [&sect; 08606 - United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies](%C2%A7%2008606%20-%20United%20States-Israel%20cooperation%20on%20energy%2C%20water%2C%20homeland%20security%2C%20agriculture%2C%20and%20alternative%20fuel%20technologies.md)
+- [&sect; 08607 - Other matters of cooperation](%C2%A7%2008607%20-%20Other%20matters%20of%20cooperation.md)

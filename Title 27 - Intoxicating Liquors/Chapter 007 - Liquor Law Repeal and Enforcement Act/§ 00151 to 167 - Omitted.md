@@ -1,12 +1,14 @@
 ### §§151 to 167. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections contained provisions which were incorporated in various sections of the Internal Revenue Code of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.
 
 Section 151, act Aug. 27, 1935, ch. 740, §2, 49 Stat. 872, defined "person", "Commissioner", "application", "permit", "bond", "regulation", and "articles", was incorporated in section 3124(a)(3)–(8) of the Internal Revenue Code of 1939.
 
-Section 152, act Aug. 27, 1935, ch. 740, §3, 49 Stat. 872, authorized Commissioner, his assistants, agents, and inspectors to investigate and report to United States attorney violations of this chapter and chapter 3 of this title, was incorporated in section 3117(a) of the Internal Revenue Code of 1939.
+Section 152, act Aug. 27, 1935, ch. 740, §3, 49 Stat. 872, authorized Commissioner, his assistants, agents, and inspectors to investigate and report to United Statesattorney violations of this chapter and chapter 3 of this title, was incorporated in section 3117(a) of the Internal Revenue Code of 1939.
 
 Section 153, act Aug. 27, 1935, ch. 740, §4, 49 Stat. 872, subjected violators of laws relating to denatured alcohol to laws relating to nondenatured alcohol, was incorporated in section 3111 of Internal Revenue Code of 1939.
 
@@ -16,7 +18,7 @@ Section 155, act Aug. 27, 1935, ch. 740, §6, 49 Stat. 873, required persons man
 
 Section 156, act Aug. 27, 1935, ch. 740, §7, 49 Stat. 874, provided for revocation of permits by Commissioner where terms of permit have been violated or provisions of this chapter and chapter 3 of this title have not been conformed to or other laws and regulations relating to intoxicating liquor have been violated, was incorporated in section 3114(b) of Internal Revenue Code of 1939.
 
-Section 157, act Aug. 27, 1935, ch. 740, §8, 49 Stat. 874, related to search, seizure, and forfeiture of liquor orproperty to be used in violation of this chapter or chapter 3 of this title or laws or regulations with respect to intoxicating liquor, was incorporated in section 3116 of Internal Revenue Code of 1939.
+Section 157, act Aug. 27, 1935, ch. 740, §8, 49 Stat. 874, related to search, seizure, and forfeiture of liquor or property to be used in violation of this chapter or chapter 3 of this title or laws or regulations with respect to intoxicating liquor, was incorporated in section 3116 of Internal Revenue Code of 1939.
 
 Section 158, act Aug. 27, 1935, ch. 740, §9, 49 Stat. 875, related to rights, privileges, powers, and protection of Commissioner and his assistants and employees, was incorporated in section 3121(a) of Internal Revenue Code of 1939.
 

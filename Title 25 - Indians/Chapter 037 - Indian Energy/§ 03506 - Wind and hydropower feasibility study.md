@@ -16,7 +16,7 @@ The study shall—
 
 &emsp;(4) determine seasonal capacity needs and associated transmission upgrades for integration of tribal wind generation and identify costs associated with these activities;
 
-&emsp;(5) include an independent tribal engineer and a Western Area Power Administrationcustomer representative as study team members; and
+&emsp;(5) include an independent tribal engineer and a Western Area Power Administration customer representative as study team members; and
 
 &emsp;(6) incorporate, to the extent appropriate, the results of the Dakotas Wind Transmission study prepared by the Western Area Power Administration.
 
@@ -47,6 +47,8 @@ Not later than 1 year after August 8, 2005, the Secretary of Energy, the Secreta
 &emsp;Costs incurred by the Secretary in carrying out this section shall be nonreimbursable.
 
 (Pub. L. 102–486, title XXVI, §2606, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 777; amended Pub. L. 115–325, title I, §105(c), Dec. 18, 2018, 132 Stat. 4456.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

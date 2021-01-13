@@ -44,7 +44,7 @@ The Secretary shall collect and, not less frequently than once every 3 years rep
 
 #### (c) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal <sup>1</sup> years 2019 through 2023, to remain available until expended.
+There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal <sup>1</sup>years 2019 through 2023, to remain available until expended.
 
 (Pub. L. 115–334, title XII, §12607, Dec. 20, 2018, 132 Stat. 5006.)
 

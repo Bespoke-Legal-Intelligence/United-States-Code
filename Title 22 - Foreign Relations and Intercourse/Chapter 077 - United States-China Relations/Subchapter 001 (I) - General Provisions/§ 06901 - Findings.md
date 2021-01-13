@@ -28,6 +28,12 @@ The Congress finds the following:
 
 (Pub. L. 106–286, div. B, title II, §202, Oct. 10, 2000, 114 Stat. 892.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–145, §1(a), June 17, 2020, 134 Stat. 648, provided that: "This Act \[enacting provisions set out as a note under this section\] may be cited as the 'Uyghur Human Rights Policy Act of 2020'."
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–7, div. P, §1, Feb. 20, 2003, 117 Stat. 552, provided that: "This division \[amending section 7002 of this title and enacting provisions set out as notes under section 7002 of this title\] may be cited as the 'United States-China Economic and Security Review Commission'."
@@ -38,7 +44,157 @@ Pub. L. 106–286, div. B, title II, §201(a), Oct. 10, 2000, 114 Stat. 891, pro
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### Imposition of Sanctions
+
+Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, provided that:
+
+"(a)
+
+Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[June 17, 2020\], and not less frequently than annually thereafter, the President shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for any of the following with respect to Uyghurs, ethnic Kazakhs, Kyrgyz, members of other Muslim minority groups, or other persons in Xinjiang Uyghur Autonomous Region:
+
+&emsp;&emsp;"(A) Torture.
+
+&emsp;&emsp;"(B) Cruel, inhuman, or degrading treatment or punishment.
+
+&emsp;&emsp;"(C) Prolonged detention without charges and trial.
+
+&emsp;&emsp;"(D) Causing the disappearance of persons by the abduction and clandestine detention of those persons.
+
+&emsp;&emsp;"(E) Other flagrant denial of the right to life, liberty, or the security of persons.
+
+&emsp;"(2)
+
+Form.—The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
+
+"(b)
+
+Imposition of Sanctions.—The President shall impose the sanctions described in subsection (c) with respect to each foreign person identified in the report required under subsection (a)(1).
+
+"(c)
+
+Sanctions Described.—The sanctions described in this subsection are the following:
+
+&emsp;"(1)
+
+Asset blocking.—The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person identified in the report required under subsection (a)(1) if such property and interests in property—
+
+&emsp;&emsp;"(A) are in the United States;
+
+&emsp;&emsp;"(B) come within the United States; or
+
+&emsp;&emsp;"(C) come within the possession or control of a United States person.
+
+&emsp;"(2)
+
+Ineligibility for visas, admission, or parole.—
+
+&emsp;&emsp;"(A)
+
+Visas, admission, or parole.—An alien described in subsection (a)(1) is—
+
+&emsp;&emsp;&emsp;"(i) inadmissible to the United States;
+
+&emsp;&emsp;&emsp;"(ii) ineligible to receive a visa or other documentation to enter the United States; and
+
+&emsp;&emsp;&emsp;"(iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+
+&emsp;&emsp;"(B)
+
+Current visas revoked.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—An alien described in subsection (a)(1) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Immediate effect.—A revocation under clause (i) shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) take effect immediately; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) cancel any other valid visa or entry documentation that is in the alien's possession.
+
+&emsp;"(3)
+
+Penalties.—The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a foreign person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1) to the same extent that such penalties apply to a person that commits an unlawful act described in subsection (a) of such section 206.
+
+"(d)
+
+Implementation.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+
+"(e)
+
+Waiver.—The President may waive the application of sanctions under this section with respect to a person identified in the report required under subsection (a)(1) if the President determines and certifies to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that such a waiver is in the national interest of the United States.
+
+"(f)
+
+Exceptions.—
+
+&emsp;"(1)
+
+Exception for intelligence activities.—Sanctions under this section shall not apply to any activity subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence activities of the United States.
+
+&emsp;"(2)
+
+Exception to comply with international obligations and for law enforcement activities.—Sanctions under subsection (c)(2) shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary—
+
+&emsp;&emsp;"(A) to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations; or
+
+&emsp;&emsp;"(B) to carry out or assist law enforcement activity in the United States.
+
+&emsp;"(3)
+
+Exception relating to importation of goods.—
+
+&emsp;&emsp;"(A)
+
+In general.—The authorities and requirements to impose sanctions authorized under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+
+&emsp;&emsp;"(B)
+
+Good defined.—In this paragraph, the term 'good' means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+
+"(g)
+
+Termination of Sanctions.—The President may terminate the application of sanctions under this section with respect to a person if the President determines and reports to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives not later than 15 days before the termination takes effect that—
+
+&emsp;"(1) information exists that the person did not engage in the activity for which sanctions were imposed;
+
+&emsp;"(2) the person has been prosecuted appropriately for the activity for which sanctions were imposed;
+
+&emsp;"(3) the person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a)(1) in the future; or
+
+&emsp;"(4) the termination of the sanctions is in the national security interests of the United States.
+
+"(h)
+
+Sunset.—This section, and any sanctions imposed under this section, shall terminate on the date that is 5 years after the date of the enactment of this Act \[June 17, 2020\].
+
+"(i)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Admission; admitted; alien.—The terms 'admission', 'admitted', and 'alien' have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+
+&emsp;"(2)
+
+Foreign person.—The term 'foreign person' means a person that is not a United States person.
+
+&emsp;"(3)
+
+United states person.—The term 'United States person' means—
+
+&emsp;&emsp;"(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+&emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity."
 
 #### Monitoring of Implementation of 1979 Agreement Between the United States and China on Cooperation in Science and Technology
 
@@ -80,7 +236,53 @@ Interagency Working Group.—The President shall establish an interagency workin
 
 #### Tibetan Policy
 
-Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, §13, Dec. 18, 2017, 131 Stat. 2041, provided that:
+Pub. L. 116–260, div. FF, title III, §342, Dec. 27, 2020, 134 Stat. 3122, provided that:
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) Tibetan Buddhism is practiced in many countries including Bhutan, India, Mongolia, Nepal, the People's Republic of China, the Russian Federation, and the United States, yet the Government of the People's Republic of China has repeatedly insisted on its role in managing the selection of Tibet's next spiritual leader, the Dalai Lama, through actions such as those described in the 'Measures on the Management of the Reincarnation of Living Buddhas' in 2007.
+
+&emsp;"(2) On March 19, 2019, Chinese Ministry of Affairs spokesperson reiterated that the 'reincarnation of living Buddhas including the Dalai Lama must comply with Chinese laws and regulations and follow religious rituals and historical conventions'.
+
+&emsp;"(3) The Government of the People's Republic of China has interfered in the process of recognizing a successor or reincarnation of Tibetan Buddhist leaders, including in 1995 by arbitrarily detaining Gedhun Choekyi Nyima, a 6-year old boy who was identified as the 11th Panchen Lama, and purporting to install its own candidate as the Panchen Lama.
+
+&emsp;"(4) The 14th Dalai Lama, Tenzin Gyatso, issued a statement on September 24, 2011, explaining the traditions and spiritual precepts of the selection of Dalai Lamas, setting forth his views on the considerations and process for selecting his successor, and providing a response to the Chinese government's claims that only the Chinese government has the ultimate authority in the selection process of the Dalai Lama.
+
+&emsp;"(5) The 14th Dalai Lama said in his statement that the person who reincarnates has sole legitimate authority over where and how he or she takes rebirth and how that reincarnation is to be recognized and if there is a need for a 15th Dalai Lama to be recognized, then the responsibility shall primarily rest with the officers of the Dalai Lama's Gaden Phodrang Trust, who will be informed by the written instructions of the 14th Dalai Lama.
+
+&emsp;"(6) Since 2011, the 14th Dalai Lama has reiterated publicly on numerous occasions that decisions on the successions, emanations, or reincarnations of the Dalai Lama belongs to the Tibetan Buddhist faith community alone.
+
+&emsp;"(7) On June 8, 2015, the United States House of Representatives unanimously approved House Resolution 337 which calls on the United States Government to 'underscore that government interference in the Tibetan reincarnation process is a violation of the internationally recognized right to religious freedom . . . and to highlight the fact that other countries besides China have long Tibetan Buddhist traditions, and that matters related to reincarnations in Tibetan Buddhism are of keen interest to Tibetan Buddhist populations worldwide'.
+
+&emsp;"(8) On April 25, 2018, the United States Senate unanimously approved Senate Resolution 429 which 'expresses its sense that the identification and installation of Tibetan Buddhist religious leaders, including a future 15th Dalai Lama, is a matter that should be determined solely within the Tibetan Buddhist faith community, in accordance with the inalienable right to religious freedom'.
+
+&emsp;"(9) The Department of State's Report on International Religious Freedom for 2018 reported on policies and efforts of the Government of the People's Republic of China to exert control over the selection of Tibetan Buddhist religious leaders, including reincarnate lamas, and stated that '\[United States\] officials underscored that decisions on the reincarnation of the Dalai Lama should be made solely by faith leaders.'.
+
+"(b)
+
+Statement of Policy.—It is the policy of the United States that—
+
+&emsp;"(1) decisions regarding the selection, education, and veneration of Tibetan Buddhist religious leaders are exclusively spiritual matters that should be made by the appropriate religious authorities within the Tibetan Buddhist tradition and in the context of the will of practitioners of Tibetan Buddhism;
+
+&emsp;"(2) the wishes of the 14th Dalai Lama, including any written instructions, should play a key role in the selection, education, and veneration of a future 15th Dalai Lama; and
+
+&emsp;"(3) interference by the Government of the People's Republic of China or any other government in the process of recognizing a successor or reincarnation of the 14th Dalai Lama and any future Dalai Lamas would represent a clear abuse of the right to religious freedom of Tibetan Buddhists and the Tibetan people.
+
+"(c)
+
+Holding Chinese Officials Responsible for Religious Freedom Abuses Targeting Tibetan Buddhists.—It is the policy of the United States to take all appropriate measures to hold accountable senior officials of the Government of the People's Republic of China or the Chinese Communist Party who directly interfere with the identification and installation of the future 15th Dalai Lama of Tibetan Buddhism, successor to the 14th Dalai Lama, including by—
+
+&emsp;"(1) imposing sanctions pursuant to the Global Magnitsky Human Rights Accountability Act \[subtitle F of title XII of div. A of Pub. L. 114–328\] (22 U.S.C. 2656 note); and
+
+&emsp;"(2) prohibiting admission to the United States under section 212(a)(2)(G) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(G)).
+
+"(d)
+
+Department of State Programming to Promote Religious Freedom for Tibetan Buddhists.—Consistent with section 401 of the Frank R. Wolf International Religious Freedom Act (Public Law 114–281; 130 Stat. 1436), the Ambassador-at-Large for International Religious Freedom should support efforts to protect and promote international religious freedom in China and for programs to protect Tibetan Buddhism in China and elsewhere."
+
+Pub. L. 107–228, div. A, title VI, subtitle B, Sept. 30, 2002, 116 Stat. 1396, as amended by Pub. L. 114–323, title VII, §715(b)(1), Dec. 16, 2016, 130 Stat. 1946; Pub. L. 115–94, §13, Dec. 18, 2017, 131 Stat. 2041; Pub. L. 116–260, div. FF, title III, §341, Dec. 27, 2020, 134 Stat. 3119, provided that:
 
 #### "SEC. 611. SHORT TITLE.
 
@@ -98,19 +300,25 @@ Policy.—
 
 &emsp;"(1)
 
-In general.—The President and the Secretary should encourage the Government of the People's Republic of China to enter into a dialogue with the Dalai Lama or his representatives leading to a negotiated agreement on Tibet.
+In general.—The President and the Secretary should encourage the Government of the People's Republic of China to enter into a dialogue without preconditions with the Dalai Lama or his representatives or democratically-elected leaders of the Tibetan community leading to a negotiated agreement on Tibet and should coordinate with other governments in multilateral efforts toward this goal.
 
 &emsp;"(2)
+
+Policy communication.—The Secretary of State shall ensure that, in accordance with this Act, United States policy on Tibet, as coordinated by the United States Special Coordinator for Tibetan Issues, is communicated to all Federal departments and agencies in contact with the Government of the People's Republic of China.
+
+&emsp;"(3)
 
 Compliance.—After such an agreement is reached, the President and the Secretary should work to ensure compliance with the agreement.
 
 "(b)
 
-Periodic Reports.—Not later than 180 days after the date of the enactment of the Department of State Authorities Act, Fiscal Year 2017, Improvements Act \[Dec. 18, 2017\], and annually thereafter until December 31, 2021, the President shall transmit to the appropriate congressional committees a report on—
+Periodic Reports.—Not later than 180 days after the date of the enactment of the Department of State Authorities Act, Fiscal Year 2017, Improvements Act \[Dec. 18, 2017\], and annually thereafter until December 31, 2031, the President shall transmit to the appropriate congressional committees and direct the Department of State to make public on its website a report on—
 
-&emsp;"(1) the steps taken by the President and the Secretary in accordance with subsection (a)(1) to implement the Tibetan Policy Act of 2002; and
+&emsp;"(1) the steps taken by the President and the Secretary in accordance with subsection (a)(1) to implement the Tibetan Policy Act of 2002;
 
-&emsp;"(2) the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama's own choosing or the representatives of such successor.
+&emsp;"(2) the status of any discussions between the People's Republic of China and the Dalai Lama or his representatives or a successor selected by a method of the 14th Dalai Lama's own choosing or the representatives of such successor; and
+
+&emsp;"(3) the steps taken by the United States Government to promote the human rights and distinct religious, cultural, linguistic, and historical identity of the Tibetan people, including the right of the Tibetan people to select, educate, and venerate their own religious leaders in accordance with their established religious practice and system.
 
 #### "SEC. 614. REPORTING ON TIBET.
 
@@ -146,15 +354,37 @@ Tibet Project Principles.—Projects in Tibet supported by international financi
 
 &emsp;"(4) promote accountability of the development agencies to the Tibetan people and active participation of Tibetans in all project stages;
 
-&emsp;"(5) respect Tibetan culture, traditions, and the Tibetan knowledge and wisdom about their landscape and survival techniques;
+&emsp;"(5) respect Tibetan human rights, culture, traditions, and the Tibetan knowledge and wisdom about their landscape and survival techniques;
 
 &emsp;"(6) be subject to on-site monitoring by the development agencies to ensure that the intended target group benefits;
 
 &emsp;"(7) be implemented by development agencies prepared to use Tibetan as the working language of the projects;
 
-&emsp;"(8) neither provide incentive for, nor facilitate the migration and settlement of, non-Tibetans into Tibet; and
+&emsp;"(8) neither provide incentive for, nor facilitate the migration and settlement of, non-Tibetans into Tibet;
 
-&emsp;"(9) neither provide incentive for, nor facilitate the transfer of ownership of, Tibetan land or natural resources to non-Tibetans.
+&emsp;"(9) neither provide incentive for, nor facilitate the involuntary or coerced transfer of ownership of, Tibetan land or natural resources to non-Tibetans; and
+
+&emsp;"(10) neither provide incentive for, nor facilitate the involuntary or coerced relocation of, Tibetan nomads from their traditional pasturelands into concentrated settlements.
+
+"(e)
+
+United States Assistance.—
+
+&emsp;"(1)
+
+In general.—The President is authorized to provide assistance to nongovernmental organizations to support inclusive economic growth, resilience, global health, education, environmental stewardship, and cultural and historical preservation for Tibetan communities in Tibet, in accordance with the principles specified in subsection (d).
+
+&emsp;"(2)
+
+Coordination.—Assistance authorized under paragraph (1) shall be carried out in coordination with the United States Special Coordinator for Tibetan Issues in accordance with section 621(d).
+
+"(f)
+
+Private Sector Investment.—The Secretary of State, in coordination with the Secretary of Commerce, should—
+
+&emsp;"(1) encourage United States businesses and individuals that are engaged in commerce or investing in enterprises in Tibet to be guided by the principles specified in subsection (d) and the United Nations Guiding Principles on Business and Human Rights; and
+
+&emsp;"(2) hold regular consultations with businesses and individuals that are engaged in commerce or are investing in enterprises in Tibet about the principles referenced in paragraph (1) and the business practices of such businesses and individuals in Tibet.
 
 #### "SEC. 617. RELEASE OF PRISONERS AND ACCESS TO PRISONS.
 
@@ -166,9 +396,27 @@ Tibet Project Principles.—Projects in Tibet supported by international financi
 
 &emsp;"(3) seek the immediate medical parole of Tibetan prisoners known to be in serious ill health.
 
-#### "SEC. 618. ESTABLISHMENT OF A UNITED STATES BRANCH OFFICE IN LHASA, TIBET.
+#### "SEC. 618. DIPLOMATIC REPRESENTATION RELATING TO TIBET.
 
-"The Secretary should make best efforts to establish an office in Lhasa, Tibet, to monitor political, economic, and cultural developments in Tibet.
+"(a)
+
+United States Consulate in Lhasa, Tibet.—The Secretary should seek to establish a United States consulate in Lhasa, Tibet—
+
+&emsp;"(1) to provide consular services to United States citizens traveling in Tibet; and
+
+&emsp;"(2) to monitor political, economic, and cultural developments in Tibet.
+
+"(b)
+
+Policy.—The Secretary may not authorize the establishment in the United States of any additional consulate of the People's Republic of China until such time as a United States consulate in Lhasa, Tibet, is established under subsection (a).
+
+"(c)
+
+Waiver.—The Secretary may waive the requirement under subsection (b), notwithstanding the lack of a United States consulate in Lhasa, not less than 30 days after the Secretary determines and reports to the appropriate congressional committees that it is in the national security interests of the United States to waive such requirements and submits to the appropriate congressional committees a report including—
+
+&emsp;"(1) a specific and detailed rationale for the determination that the waiver is in the national security interests of the United States; and
+
+&emsp;"(2) a description of the efforts by the Department of State to seek the establishment of a United States consulate in Lhasa.
 
 #### "SEC. 619. REQUIREMENT FOR TIBETAN LANGUAGE TRAINING.
 
@@ -186,7 +434,7 @@ High-Level Contacts.—Pursuant to section 105 of the International Religious Fr
 
 "(b)
 
-Promotion of Increased Advocacy.—Pursuant to section 108(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6417(a)), it is the sense of Congress that representatives of the United States Government in exchanges with officials of the Government of the People's Republic of China should call for and otherwise promote the cessation of all interference by the Government of the People's Republic of China or the Communist Party in the religious affairs of the Tibetan people.
+Promotion of Increased Advocacy.—Pursuant to section 108(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6417(a)), it is the sense of Congress that representatives of the United States Government in exchanges with officials of the Government of the People's Republic of China should call for and otherwise promote the cessation of all interference by the Government of the People's Republic of China or the Communist Party in the religious affairs of the Tibetan people, including with respect to the reincarnation system of Tibetan Buddhism.
 
 #### "SEC. 621. UNITED STATES SPECIAL COORDINATOR FOR TIBETAN ISSUES.
 
@@ -200,7 +448,21 @@ Consultation.—The Secretary shall consult with the chairmen and ranking minori
 
 "(c)
 
-Central Objective.—The central objective of the Special Coordinator is to promote substantive dialogue between the Government of the People's Republic of China and the Dalai Lama or his representatives.
+Objectives.—The objectives of the Special Coordinator are to—
+
+&emsp;"(1) promote substantive dialogue without preconditions, between the Government of the People's Republic of China and the Dalai Lama, his or her representatives, or democratically elected leaders of the Tibetan community, or explore activities to improve prospects for dialogue, that leads to a negotiated agreement on Tibet;
+
+&emsp;"(2) coordinate with other governments in multilateral efforts towards the goal of a negotiated agreement on Tibet;
+
+&emsp;"(3) encourage the Government of the People's Republic of China to address the aspirations of the Tibetan people with regard to their distinct historical, cultural, religious, and linguistic identity;
+
+&emsp;"(4) promote the human rights of the Tibetan people;
+
+&emsp;"(5) promote activities to preserve environment and water resources of the Tibetan plateau;
+
+&emsp;"(6) encourage that any initiatives or activities for Tibetan communities in the Tibet Autonomous Region are conducted in accordance with the principles espoused in section 616(d); and
+
+&emsp;"(7) promote access to Tibet in accordance with the Reciprocal Access to Tibet Act of 2018 (Public Law 115–330) \[8 U.S.C. 1182 note\].
 
 "(d)
 
@@ -208,15 +470,27 @@ Duties and Responsibilities.—The Special Coordinator shall—
 
 &emsp;"(1) coordinate United States Government policies, programs, and projects concerning Tibet;
 
-&emsp;"(2) vigorously promote the policy of seeking to protect the distinct religious, cultural, linguistic, and national identity of Tibet, and pressing for improved respect for human rights;
+&emsp;"(2) vigorously promote the policy of seeking to protect the distinct religious, cultural, linguistic,and national identity of Tibet, and pressing for improved respect for human rights;
 
 &emsp;"(3) maintain close contact with religious, cultural, and political leaders of the Tibetan people, including regular travel to Tibetan areas of the People's Republic of China, and to Tibetan refugee settlements in India and Nepal;
 
 &emsp;"(4) consult with Congress on policies relevant to Tibet and the future and welfare of the Tibetan people;
 
-&emsp;"(5) make efforts to establish contacts in the foreign ministries of other countries to pursue a negotiated solution for Tibet; and
+&emsp;"(5) make efforts to establish contacts in the foreign ministries of other countries to pursue a negotiated solution for Tibet;
 
-&emsp;"(6) take all appropriate steps to ensure adequate resources, staff, and bureaucratic support to fulfill the duties and responsibilities of the Special Coordinator."
+&emsp;"(6) provide guidance with respect to all projects carried out pursuant to assistance provided under section 616(e);
+
+&emsp;"(7) seek to establish international diplomatic coalitions to—
+
+&emsp;&emsp;"(A) oppose any effort by the Government of the People's Republic of China to select, educate, and venerate Tibetan Buddhist religious leaders in a manner inconsistent with the principle that the succession or identification of Tibetan Buddhist lamas, including the Dalai Lama, should occur without interference, in a manner consistent with traditional practice; and
+
+&emsp;&emsp;"(B) ensure that the identification and installation of Tibetan Buddhist religious leaders, including any future Dalai Lama, is determined solely within the Tibetan Buddhist faith community, in accordance with the internationally-recognized right to religious freedom; and
+
+&emsp;"(8) take all appropriate steps to ensure adequate resources, staff, and bureaucratic support to fulfill the duties and responsibilities of the Special Coordinator.
+
+"(e)
+
+Personnel.—The Secretary shall ensure that the Office of the Special Coordinator is adequately staffed at all times to assist in the management of the responsibilities of this section."
 
 \[For definitions of "Secretary" and "appropriate congressional committees" as used in subtitle B of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
@@ -292,7 +566,7 @@ In general.—Subject to subsection (b) and paragraph (2), for all purposes, inc
 
 &emsp;"(2)
 
-Exception.—If, in carrying out this subsection, the President determines that Macau is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
+Exception.—If, in carrying out this subsection, the President determines that Macau is not legallycompetent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
 
 #### "SEC. 204. REPORTING REQUIREMENT.
 

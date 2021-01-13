@@ -48,13 +48,35 @@
 
 (5) The authority of the Secretary of Defense to designate an alternative milestone decision authority for a program with respect to which the Secretary determines that the program is addressing a joint requirement, as set forth in paragraph (2)(A), shall apply only for a major defense acquisition program that reaches Milestone A after October 1, 2016, and before October 1, 2019.
 
-(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title VIII, §825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§807(b), 847(a), Dec. 23, 2016, 130 Stat. 2261, 2292; Pub. L. 115–91, div. A, title VIII, §831, title X, §1081(a)(38), Dec. 12, 2017, 131 Stat. 1467, 1596.)
+(Added Pub. L. 100–26, §7(b)(2)(A), Apr. 21, 1987, 101 Stat. 279; amended Pub. L. 102–484, div. A, title VIII, §817(b), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–92, div. A, title VIII, §825(a), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§807(b), 847(a), Dec. 23, 2016, 130 Stat. 2261, 2292; Pub. L. 115–91, div. A, title VIII, §831, title X, §1081(a)(38), Dec. 12, 2017, 131 Stat. 1467, 1596; Pub. L. 116–283, div. A, title XVIII, §1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4248–4250.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4151, 4248–4250, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 4201 of this title;</i>
+
+<i>(2) by transferring subsections (b) and (c) to section 4202(a) of this title; and</i>
+
+<i>(3) by transferring subsection (d) to section 4204 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1846(f)(8), Jan. 1, 2021, 134 Stat. 4151, 4251, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1846(c)(1), transferred subsec. (a) to section 4201 of this title.
+
+Subsecs. (b), (c). Pub. L. 116–283, §1846(d)(1), transferred subsecs. (b) and (c) to section 4202(a) of this title.
+
+Subsec. (d). Pub. L. 116–283, §1846(f)(1), transferred subsec. (d) to section 4204 of this title.
+
 <b>2017</b>—Subsec. (a)(1)(B). Pub. L. 115–91, §831(1), inserted "in the case of a program that is not a program for the acquisition of an automated information system (either a product or a service)," after "(B)".
 
-Subsec. (a)(2). Pub. L. 115–91, §831(2)(A), substituted "include—" for "include", inserted subpar. (A) designation before "an acquisition program", and added subpar. (B).
+Subsec. (a)(2). Pub. L. 115–91, §831(2), substituted "include—" for "include", inserted subpar. (A) designation before "an acquisition program", and added subpar. (B).
 
 Subsecs. (b), (c). Pub. L. 115–91, §1081(a)(38), substituted "subsection (a)(1)(B)" for "subsection (a)(2)".
 
@@ -77,6 +99,14 @@ Subsec. (c). Pub. L. 111–23, §206(b)(2), added subsec. (c).
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
 <b>1992</b>—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted "$300,000,000" for "$200,000,000", "1990" for "1980" in two places, and "$1,800,000,000" for "$1,000,000,000", and added subsec. (b).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2016 Amendment
 
@@ -338,7 +368,7 @@ Additional Measures To Ensure Competition at Subcontract Level.—The Secretary 
 
 &emsp;"(2) requiring prime contractors to give full and fair consideration to qualified sources other than the prime contractor for the development or construction of major subsystems and components of major weapon systems;
 
-&emsp;"(3) providing for government surveillance of the process by which prime contractors consider suchsources and determine whether to conduct such development or construction in-house or through a subcontract; and
+&emsp;"(3) providing for government surveillance of the process by which prime contractors consider such sources and determine whether to conduct such development or construction in-house or through a subcontract; and
 
 &emsp;"(4) providing for the assessment of the extent to which a contractor has given full and fair consideration to qualified sources other than the contractor in sourcing decisions as a part of past performance evaluations.
 
@@ -526,7 +556,7 @@ Pub. L. 107–314, div. A, title VIII, §803, Dec. 2, 2002, 116 Stat. 2603, whic
 
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
-Pub. L. 103–337, div. A, title VIII, §815, Oct. 5, 1994, 108 Stat. 2819, directed the Secretary of Defense to issue guidance, before Apr. 1, 1995, on how to achieve the purposes and intent of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) by ensuring timely compliance for major defense acquisition programs andhow to analyze, as early in the process as feasible, the life-cycle environmental costs for such major defense acquisition programs, directed the Secretary to analyze, beginning not later than Mar. 31, 1995, the environmental costs of a major defense acquisition process as an integral part of the life-cycle cost analysis of the program, and directed the Secretary to establish a data base for documents prepared by the Department of Defense in complying with the National Environmental Policy Act of 1969 with respect to major defense acquisition programs.
+Pub. L. 103–337, div. A, title VIII, §815, Oct. 5, 1994, 108 Stat. 2819, directed the Secretary of Defense to issue guidance, before Apr. 1, 1995, on how to achieve the purposes and intent of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) by ensuring timely compliance for major defense acquisition programs and how to analyze, as early in the process as feasible, the life-cycle environmental costs for such major defense acquisition programs, directed the Secretary to analyze, beginning not later than Mar. 31, 1995, the environmental costs of a major defense acquisition process as an integral part of the life-cycle cost analysis of the program, and directed the Secretary to establish a data base for documents prepared by the Department of Defense in complying with the National Environmental Policy Act of 1969 with respect to major defense acquisition programs.
 
 #### Efficient Contracting Processes
 

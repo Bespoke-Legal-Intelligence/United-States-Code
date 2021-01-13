@@ -18,7 +18,7 @@
 
 &emsp;(E) the plan contains an assessment of all operating practices, and includes agreements by labor and management to make implementing changes designed to achieve labor productivity increases (which may include changes in work rules to increase productivity) consistent with safe operations and adequate service.
 
-> For purposes of the determinations under this paragraph, adequate financing shall include all sources of private funds, the probable value and priority of valid claims against the estate, and Federal, State, or local funds available under programs (in existence as of January 1, 1980) which are or will be available to the proponent and which the proponent is likely to obtain.
+> For purposes of the determinations under this paragraph, adequate financing shall include all sources of private funds, the probable value andpriority of valid claims against the estate, and Federal, State, or local funds available under programs (in existence as of January 1, 1980) which are or will be available to the proponent and which the proponent is likely to obtain.
 
 #### (b) Submission of findings to bankruptcy court
 
@@ -43,6 +43,8 @@ Except as provided in this section, the findings of the Commission with respect 
 (2) Information provided pursuant to this subsection shall be used only for purposes of preparing a plan and shall not be disclosed to any competitor or, unless necessary in connection with the preparation of the plan, to any customer of the Milwaukee Railroad.
 
 (Pub. L. 96–101, §6, Nov. 4, 1979, 93 Stat. 738.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

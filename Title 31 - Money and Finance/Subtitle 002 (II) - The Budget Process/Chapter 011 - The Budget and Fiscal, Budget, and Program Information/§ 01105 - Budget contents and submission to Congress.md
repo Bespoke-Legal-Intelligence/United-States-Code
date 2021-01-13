@@ -148,7 +148,7 @@
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the totalamount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -230,7 +230,7 @@
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375.)
 
 Historical and Revision Notes<br>1982
 
@@ -356,7 +356,7 @@ In subsection (a)(23), the words "for appropriations" are substituted for "amoun
 
 In subsection (a)(24), the words "(as defined in section 9101(2) of this title)" are added because the subsection is based on a law to which the defined term applies. The words "decides are desirable" are substituted for "may wish to make" for consistency.
 
-In subsection (b), the words "for such years" in 31:11(a)(5)(words after 2d comma) are omitted becauseof the restatement. The words "of the United States" and "by him" are omitted as surplus. The words "to be included in each budget under subsection (a)(5) of this section" are added because of the restatement. The words "before October 16" are substituted for "on or before October 15", and the word "change" is substituted for "revision", for consistency.
+In subsection (b), the words "for such years" in 31:11(a)(5)(words after 2d comma) are omitted because of the restatement. The words "of the United States" and "by him" are omitted as surplus. The words "to be included in each budget under subsection (a)(5) of this section" are added because of the restatement. The words "before October 16" are substituted for "on or before October 15", and the word "change" is substituted for "revision", for consistency.
 
 In subsection (c), the words "new taxes, loans, or other" are omitted as being included in "appropriate action". The words "in effect" are substituted for "existing" for consistency. The word "aggregate" is omitted as surplus.
 
@@ -379,6 +379,8 @@ Act
 June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(1); added Sept. 8, 1982, Pub. L. 97–255, §3, 96 Stat. 815.
 
 The words "The President shall include in the supporting detail accompanying each Budget" are omitted as being included in the introductory provisions of 31:1105(a). The words "submitted on or after January 1, 1983" are omitted as executed. The words "by the President" and "if any" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -478,7 +480,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 Subsec. (a)(26). Pub. L. 100–690, §§1006, 1009, temporarily added par. (26) relating to statement of appropriations requested for drug programs. See Effective and Termination Dates of 1988 Amendments note below.
 
-Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as follows: "an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget's impact on the international competitiveness of United States business and the United States balance of payments position and shall include the following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
+Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as follows: "an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget's impact on the international competitiveness of United States business and the United States balance of payments position and shall includethe following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
 
 &emsp;"(A) the amount of borrowing by the Government in private credit markets;
 
@@ -504,6 +506,8 @@ Subsec. (f). Pub. L. 99–177, §241(b), added subsec. (f).
 
 <b>1983</b>—Subsec. (a)(25). Pub. L. 97–452 added par. (25).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–31, div. E, title VI, §630(b), May 5, 2017, 131 Stat. 376, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to budget submissions under section 1105(a) of title 31, United States Code, for fiscal year 2018 and each subsequent fiscal year."
@@ -524,7 +528,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending thissection and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission."
+Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: "This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission."
 
 #### Effective Date of 1999 Amendment
 
@@ -682,7 +686,7 @@ Introduction and Referral of President's Legislative Proposal.—
 
 &emsp;"(1)
 
-Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: 'A bill to respond to a medicare funding warning.' Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
+Introduction.—In the case of a legislative proposal submitted by the President pursuant to section1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: 'A bill to respond to a medicare funding warning.' Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
 
 &emsp;"(2)
 
@@ -718,7 +722,7 @@ Fallback Procedure for Floor Consideration if the House Fails to Vote on Final P
 
 &emsp;"(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
 
-&emsp;"(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership ofthe House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+&emsp;"(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 &emsp;"(3) Only one motion to discharge a particular committee may be adopted under this subsection in any session of a Congress.
 
@@ -802,7 +806,7 @@ In general.—If the Committee on Finance has not reported medicare funding legi
 
 &emsp;"(2)
 
-Debate limits.—Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled by the Minority Leader or the Minority Leader's designee. A point of order under this subsection may bemade at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
+Debate limits.—Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled by the Minority Leader or the Minority Leader's designee. A point of order under this subsection may be made at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
 
 &emsp;"(3)
 
@@ -949,6 +953,8 @@ For provisions requiring information about Deficit Reduction Fund, including a s
 #### Budget Control
 
 For provisions requiring annual review of direct spending and receipts to be part of each budget submitted under subsec. (a) of this section, see Ex. Ord. No. 12857, §3, Aug. 4, 1993, 58 F.R. 42181, formerly set out as a note under section 900 of Title 2, The Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 6715. Filing of Functional Organization Charts With the Director of the Bureau of the Budget
 

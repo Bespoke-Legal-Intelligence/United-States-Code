@@ -32,7 +32,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 &emsp;&emsp;Any building or structure assisted with amounts from a grant under this section shall be maintained as a facility to provide short-term supported housing or assistance for eligible persons—
 
-&emsp;&emsp;&emsp;(i) in the case of assistance involving substantial rehabilitation or acquisition ofthe building, for a period of not less than 10 years; and
+&emsp;&emsp;&emsp;(i) in the case of assistance involving substantial rehabilitation or acquisition of the building, for a period of not less than 10 years; and
 
 &emsp;&emsp;&emsp;(ii) in the case of assistance under paragraph (1), (3), or (4) of subsection (a), for a period of not less than 3 years.
 
@@ -42,7 +42,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 &emsp;&emsp;&emsp;(i) the structure is no longer needed to provide short-term supported housing or assistance or the continued operation of the structure for such purposes is no longer feasible; and
 
-&emsp;&emsp;&emsp;(ii) the structure will be used to benefit individuals or families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;&emsp;&emsp;(ii) the structure will be used to benefit individuals or families whose incomes donot exceed 80 percent of the median income for the area, as determined by the Secretary, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 #### (2) Residency and location limitations on short-term supported housing
 

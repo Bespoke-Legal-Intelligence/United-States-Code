@@ -48,7 +48,7 @@ Any allotments approved pursuant to this section during the four years following
 
 #### (e) Native allotment revisions on land selected by or conveyed to a Native Corporation
 
-(1) An allotment applicant who had an application pending before the Department of the Interior on December 18, 1971, and whose applicationis still open on the records of the Department of the Interior as of December 10, 2004, may revise the land description in the application to describe land other than the land that the applicant originally intended to claim if—
+(1) An allotment applicant who had an application pending before the Department of the Interior on December 18, 1971, and whose application is still open on the records of the Department of the Interior as of December 10, 2004, may revise the land description in the application to describe land other than the land that the applicant originally intended to claim if—
 
 &emsp;(A) the application—
 
@@ -86,6 +86,8 @@ Any allotments approved pursuant to this section during the four years following
 
 (Pub. L. 92–203, §18, Dec. 18, 1971, 85 Stat. 710; Pub. L. 102–415, §3, Oct. 14, 1992, 106 Stat. 2112; Pub. L. 108–452, title III, §§301, 303, 305, Dec. 10, 2004, 118 Stat. 3587, 3588, 3590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of February 8, 1887 (24 Stat. 389), referred to in subsec. (a), is popularly known as the Indian General Allotment Act. For complete classification of this Act to the Code, see Short Title note set out under section 331 of Title 25, Indians, and Tables.
@@ -108,13 +110,15 @@ Subsec. (f). Pub. L. 108–452, §305, added subsec. (f).
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–415 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Title Recovery of Native Allotments
 
 Pub. L. 108–452, title III, §302, Dec. 10, 2004, 118 Stat. 3588, provided that:
 
 "(a)
 
-In General.—In lieu of the process for the correction of conveyance documents available under subsection (d) of section 18 of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\], any Native Corporation may elect to reconvey all of the land encompassed by an allotment claim ora portion of the allotment claim agreeable to the applicant in satisfaction of the entire claim by tendering a valid and appropriate deed to the United States.
+In General.—In lieu of the process for the correction of conveyance documents available under subsection (d) of section 18 of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\], any Native Corporation may elect to reconvey all of the land encompassed by an allotment claim or a portion of the allotment claim agreeable to the applicant in satisfaction of the entire claim by tendering a valid and appropriate deed to the United States.
 
 "(b)
 

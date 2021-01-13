@@ -22,6 +22,8 @@ The Attorney General shall notify a person applying for assistance under this pa
 
 (Pub. L. 90–351, title I, §1213, as added Pub. L. 104–238, §2(2), Oct. 3, 1996, 110 Stat. 3115; amended Pub. L. 112–239, div. A, title X, §1086(b)(1)(G), (I), Jan. 2, 2013, 126 Stat. 1968.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3796d–2 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -32,7 +34,9 @@ Section was formerly classified to section 3796d–2 of Title 42, The Public Hea
 
 Subsec. (c). Pub. L. 112–239, §1086(b)(1)(G), substituted "person" for "dependent".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 

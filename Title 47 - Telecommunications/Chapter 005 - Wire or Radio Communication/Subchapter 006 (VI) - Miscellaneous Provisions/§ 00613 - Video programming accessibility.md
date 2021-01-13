@@ -28,7 +28,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (C) Cost
 
-&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph (A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effective date of such regulations would be economically burdensome to providers of video programming or program owners.
+&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph\(A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effective date of such regulations would be economically burdensome to providers of video programming or program owners.
 
 #### (D) Requirements for regulations
 
@@ -38,7 +38,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 &emsp;&emsp;&emsp;(ii) may exempt any service, class of service, program, class of program, equipment, or class of equipment for which the Commission has determined that the application of such regulations would be economically burdensome for the provider of such service, program, or equipment;
 
-&emsp;&emsp;&emsp;(iii) shall clarify that, for the purposes of implementation, of this subsection, theterms "video programming distributors" and "video programming providers" include an entity that makes available directly to the end user video programming through a distribution method that uses Internet protocol;
+&emsp;&emsp;&emsp;(iii) shall clarify that, for the purposes of implementation, of this subsection, the terms "video programming distributors" and "video programming providers" include an entity that makes available directly to the end user video programming through a distribution method that uses Internet protocol;
 
 &emsp;&emsp;&emsp;(iv) and describe the responsibilities of video programming providers or distributors and video programming owners;
 
@@ -100,7 +100,7 @@ The term "undue burden" means significant difficulty or expense. In determining 
 
 #### (3) Inquiries on further video description requirements
 
-&emsp;The Commission shall commence the following inquiries not later than 1 year after the completion of the phase-in of the reinstated regulations and shall report to Congress 1 yearthereafter on the findings for each of the following:
+&emsp;The Commission shall commence the following inquiries not later than 1 year after the completion of the phase-in of the reinstated regulations and shall report to Congress 1 year thereafter on the findings for each of the following:
 
 #### (A) Video description in television programming
 
@@ -162,7 +162,7 @@ Not later than 1 year after the Advisory Committee report under subsection (e)(2
 
 &emsp;(1) identify methods to convey emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) in a manner accessible to individuals who are blind or visually impaired; and
 
-&emsp;(2) promulgate regulations that require video programming providers and video programming distributors (as those terms are defined in section 79.1 of title 47, Code of Federal Regulations) and program owners to convey such emergency information in a manner accessible to individuals who are blind or visually impaired.
+&emsp;(2) promulgate regulations that require video programming providers and video programming distributors (as those terms are defined in section 79.1 of title 47, Code of FederalRegulations) and program owners to convey such emergency information in a manner accessible to individuals who are blind or visually impaired.
 
 #### (h) Definitions
 
@@ -178,9 +178,11 @@ For purposes of this section, section 303 of this title, and section 330 of this
 
 #### (j) <sup>2</sup> Private rights of actions prohibited
 
-Nothing in this section shall be construed to authorize any private right of action to enforceany requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
+Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
 (June 19, 1934, ch. 652, title VII, §713, as added Pub. L. 104–104, title III, §305, Feb. 8, 1996, 110 Stat. 126; amended Pub. L. 111–260, title II, §202, Oct. 8, 2010, 124 Stat. 2767; Pub. L. 111–265, §2(6)–(11), Oct. 8, 2010, 124 Stat. 2795, 2796; Pub. L. 115–141, div. P, title IV, §402(i)(11), Mar. 23, 2018, 132 Stat. 1090.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,6 +220,8 @@ Subsec. (g). Pub. L. 111–260, §202(a)(1), (3), added subsec. (g) and struck o
 
 Subsecs. (h), (j). Pub. L. 111–260, §202(a)(2), (3), added subsec. (h) and redesignated former subsec. (h) as (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Video Programming and Emergency Access Advisory Committee
 
 Pub. L. 111–260, §201, Oct. 8, 2010, 124 Stat. 2764, as amended by Pub. L. 111–265, §1(2)–(5), Oct. 8, 2010, 124 Stat. 2795, provided that:
@@ -232,7 +236,7 @@ Membership.—As soon as practicable after the date of enactment of this Act, th
 
 &emsp;"(1) Representatives of distributors and providers of video programming or a national organization representing such distributors.
 
-&emsp;"(2) Representatives of vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of video programming delivered using Internet protocol or a national organization representing such vendors, developers, or manufacturers.
+&emsp;"(2) Representatives of vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of video programmingdelivered using Internet protocol or a national organization representing such vendors, developers, or manufacturers.
 
 &emsp;"(3) Representatives of manufacturers of consumer electronics or information technology equipment or a national organization representing such manufacturers.
 

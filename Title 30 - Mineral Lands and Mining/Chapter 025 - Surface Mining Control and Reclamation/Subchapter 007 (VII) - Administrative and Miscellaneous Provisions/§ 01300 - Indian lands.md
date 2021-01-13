@@ -14,7 +14,7 @@ On and after one hundred and thirty-five days from August 3, 1977, all surface c
 
 #### (d) Compliance with permanent environmental protection standards of this chapter
 
-On and after thirty months from August 3, 1977, all surface coal mining operations on Indian lands shall comply with requirements at least as stringent as those imposed by sections 1257, 1258, 1259, 1260, 1265, 1266, 1267, and 1269 of this title and the Secretary shall incorporate the requirements of such provisions in all existing and new leases issued for coal on Indian lands.
+On and after thirty months from August 3, 1977, all surface coal mining operations on Indian lands shall comply with requirements at least as stringent as those imposed by sections1257, 1258, 1259, 1260, 1265, 1266, 1267, and 1269 of this title and the Secretary shall incorporate the requirements of such provisions in all existing and new leases issued for coal on Indian lands.
 
 #### (e) Inclusion and enforcement of terms and conditions of leases
 
@@ -74,7 +74,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under atribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
+&emsp;&emsp;&emsp;After exhausting all tribal remedies with respect to a civil action arising under a tribal program approved under section 1254(e) of this title, an interested party may file a petition for judicial review of the civil action in the United States circuit court for the circuit in which the surface coal mining operation named in the petition is located.
 
 #### (ii) Scope of review
 
@@ -109,6 +109,8 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 &emsp;Not later than 18 months after the date on which a tribal program is approved under subsection (e) of section 1254 of this title, the Secretary shall submit to the appropriate committees of Congress a report, developed in cooperation with the applicable Indian tribe, on the tribal program that includes a recommendation of the Secretary on whether primary regulatory authority under that subsection should be expanded to include additional Indian lands.
 
 (Pub. L. 95–87, title VII, §710, Aug. 3, 1977, 91 Stat. 523; Pub. L. 102–486, title XXV, §2514, Oct. 24, 1992, 106 Stat. 3112; Pub. L. 109–432, div. C, title II, §209, Dec. 20, 2006, 120 Stat. 3019.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General's functions by any ofsuch officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General's functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

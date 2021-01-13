@@ -26,7 +26,7 @@ Proceeding.—The term "proceeding" includes an investigation.
 
 (b)
 
-In General.—Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor orgrantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
+In General.—Except as otherwise provided in this section, costs incurred by a contractor, subcontractor, or personal services contractor in connection with a criminal, civil, or administrative proceeding commenced by the Federal Government, by a State, or by a contractor, subcontractor, or personal services contractor or grantee employee submitting a complaint under section 4712 of this title are not allowable as reimbursable costs under a covered contract, subcontract, or personal services contract if the proceeding—
 
 &emsp;(1) relates to a violation of, or failure to comply with, a Federal or State statute or regulation or to any other activity described in section 4712(a)(1) of this title; and
 
@@ -58,7 +58,7 @@ Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Governm
 
 (e)
 
-Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State.—In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract, subcontract, or personal services contract involved in the proceeding may allow the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
+Costs Specifically Authorized by Executive Agency in Proceeding Commenced by State.—In the case of a proceeding referred to in subsection (b) that is commenced by a State, the executive agency that awarded the covered contract, subcontract, or personal services contract involved in the proceeding may allow thecosts incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding as reimbursable costs if the executive agency determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of—
 
 &emsp;(1) a specific term or condition of the contract, subcontract, or personal services contract; or
 
@@ -130,9 +130,11 @@ June 30, 1949, ch. 288, title III, §306(k), as added Pub. L. 100–700, §8(a)(
 
 41:256(k)(5).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–261, §1(b)(2)(A)(i), (ii), inserted ", subcontractor, or personal services contractor" after"contractor" and ", subcontract, or personal services contract" after "contract" wherever appearing.
+<b>2016</b>—Pub. L. 114–261, §1(b)(2)(A)(i), (ii), inserted ", subcontractor, or personal services contractor" after "contractor" and ", subcontract, or personal services contract" after "contract" wherever appearing.
 
 Subsec. (b)(1). Pub. L. 114–261, §1(b)(2)(A)(iii), inserted "or to any other activity described in section 4712(a)(1) of this title" after "statute or regulation".
 

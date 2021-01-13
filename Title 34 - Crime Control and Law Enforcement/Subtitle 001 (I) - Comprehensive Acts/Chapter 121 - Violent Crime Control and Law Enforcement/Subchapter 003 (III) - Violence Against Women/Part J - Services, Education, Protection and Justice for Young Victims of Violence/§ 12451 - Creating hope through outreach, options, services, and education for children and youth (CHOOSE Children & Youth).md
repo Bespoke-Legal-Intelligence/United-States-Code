@@ -24,7 +24,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
 
-&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
+&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and highschools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
 &emsp;&emsp;(C) provide support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
@@ -96,17 +96,21 @@ The Attorney General shall prioritize grant applications under this section that
 
 (Pub. L. 103–322, title IV, §41201, as added Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84; amended Pub. L. 115–393, title I, §102, Dec. 21, 2018, 132 Stat. 5266.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14043c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 
-A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119 Stat. 3004, related to services to advocate for and respond to youth, prior to repeal by Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84.
+A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119Stat. 3004, related to services to advocate for and respond to youth, prior to repeal by Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84.
 
 #### Amendments
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–393 substituted "2019 through 2022" for "2014 through 2018".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -14,7 +14,7 @@ Confinement.—(1) Except as provided in this section, a rail carrier, express c
 
 (b)
 
-Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unloaded in a humane way into pens equipped for feeding, water, and rest for at least 5 consecutive hours. The owner or person having custody of the animals shall feed and water the animals. When the animals are not fed and watered bythe owner or person having custody, the rail carrier, express carrier, or common carrier (except by air or water), the receiver, trustee, or lessee of one of those carriers, or the owner or master of a vessel transporting the animals—
+Unloading, Feeding, Watering, and Rest.—Animals being transported shall be unloaded in a humane way into pens equipped for feeding, water, and rest for at least 5 consecutive hours. The owner or person having custody of the animals shall feed and water the animals. When the animals are not fed and watered by the owner or person having custody, the rail carrier, express carrier, or common carrier (except by air or water), the receiver, trustee, or lessee of one of those carriers, or the owner or master of a vessel transporting the animals—
 
 &emsp;(1) shall feed and water the animals at the reasonable expense of the owner or person having custody, except that the owner or shipper may provide food;
 

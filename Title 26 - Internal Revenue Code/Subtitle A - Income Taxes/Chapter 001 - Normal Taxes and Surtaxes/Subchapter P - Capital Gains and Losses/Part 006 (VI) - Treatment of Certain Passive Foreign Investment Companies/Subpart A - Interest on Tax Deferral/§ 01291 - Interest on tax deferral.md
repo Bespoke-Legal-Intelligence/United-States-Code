@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term "deferred tax amount" means, with respect to any distribution or disposition to which subsection (a) applies, an amount equal to the sum of—
+&emsp;The term "deferred tax amount" means, with respect to any distribution or dispositionto which subsection (a) applies, an amount equal to the sum of—
 
 &emsp;&emsp;(A) the aggregate increases in taxes described in paragraph (2), plus
 
@@ -250,7 +250,7 @@ Subsec. (e). Pub. L. 108–357, §413(c)(24)(B), inserted "(as in effect on the 
 
 &emsp;"(2) such a reduction shall not apply in the case of a decedent who was a nonresident alien at all times during his holding period in the stock."
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206 inserted at end "In the case of stock which is marked to market under section 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply."
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206 inserted at end "In the case of stock which is marked to market undersection 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply."
 
 <b>1997</b>—Subsec. (a)(3)(A). Pub. L. 105–34, §1122(b)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "The taxpayer's holding period shall be determined under section 1223; except that, for purposes of applying this section to an excess distribution, such holding period shall be treated as ending on the date of such distribution."
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1988 Amendment
 

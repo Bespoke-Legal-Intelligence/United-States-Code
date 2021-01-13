@@ -4,7 +4,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(a) "Commission" means the Pacific Salmon Commission established by the Treaty;
 
-&emsp;(b) "enhancement" means manmade improvements to natural habitats, or the application of artificial fish culture technology,that will lead to the increase of salmon stocks;
+&emsp;(b) "enhancement" means manmade improvements to natural habitats, or the application of artificial fish culture technology, that will lead to the increase of salmon stocks;
 
 &emsp;(c) "Magnuson Act" means the Act entitled "the Magnuson-Stevens Fishery Conservation and Management Act," as approved April 13, 1976, and as later amended (16 U.S.C. section 1801 et seq.);
 

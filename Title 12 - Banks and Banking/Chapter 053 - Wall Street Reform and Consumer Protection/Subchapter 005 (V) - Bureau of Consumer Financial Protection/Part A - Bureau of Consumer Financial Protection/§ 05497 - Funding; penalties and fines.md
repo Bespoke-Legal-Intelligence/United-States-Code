@@ -74,7 +74,7 @@
 
 #### (C) Assistance and costs
 
-&emsp;&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Bureau shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
+&emsp;&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Bureau shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the ComptrollerGeneral. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
 #### (b) Consumer Financial Protection Fund
 
@@ -122,7 +122,7 @@
 
 #### (2) Payment to victims
 
-&emsp;Amounts in the Civil Penalty Fund shall be available to the Bureau, without fiscal yearlimitation, for payments to the victims of activities for which civil penalties have been imposed under the Federal consumer financial laws. To the extent that such victims cannot be located or such payments are otherwise not practicable, the Bureau may use such funds for the purpose of consumer education and financial literacy programs.
+&emsp;Amounts in the Civil Penalty Fund shall be available to the Bureau, without fiscal year limitation, for payments to the victims of activities for which civil penalties have been imposed under the Federal consumer financial laws. To the extent that such victims cannot be located or such payments are otherwise not practicable, the Bureau may use such funds for the purpose of consumer education and financial literacy programs.
 
 #### (e) Authorization of appropriations; annual report
 
@@ -149,6 +149,8 @@
 &emsp;The Director shall prepare and submit a report, on an annual basis, to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives regarding the financial operating plans and forecasts of the Director, the financial condition and results of operations of the Bureau, and the sources and application of funds of the Bureau, including any funds appropriated in accordance with this subsection.
 
 (Pub. L. 111–203, title X, §1017, July 21, 2010, 124 Stat. 1975.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

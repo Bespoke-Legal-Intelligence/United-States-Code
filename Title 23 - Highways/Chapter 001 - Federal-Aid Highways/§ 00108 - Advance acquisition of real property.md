@@ -140,6 +140,8 @@ Additional conditions.—The Secretary may establish such other conditions or re
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528; Pub. L. 114–94, div. A, title I, §1109(c)(5), Dec. 4, 2015, 129 Stat. 1343.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (c)(1) and (d)(4)(A), (B)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -184,7 +186,7 @@ Subsec. (d). Pub. L. 112–141, §1302(c), added subsec. (d).
 
 Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary."
 
-Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to establishment and administration of right-of-way revolving fund.
+Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec.\(c) which related to establishment and administration of right-of-way revolving fund.
 
 <b>1994</b>—Subsec. (d)(2)(F). Pub. L. 103–429 substituted "section 303 of title 49" for "section 4(f) of the Department of Transportation Act".
 
@@ -215,6 +217,8 @@ Subsec. (c)(3). Pub. L. 93–87, §113(b), substituted "ten" for "seven" years i
 Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Standardized fishing vessel registration and information management system
 
-The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. Therecommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
+The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
 
 &emsp;(1) be designed to standardize the requirements of vessel registration and information collection systems required by this chapter, the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and any other marine resource law implemented by the Secretary, and, with the permission of a State, any marine resource law implemented by such State;
 
@@ -78,7 +78,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 #### (1) Federal program
 
-&emsp;The Secretary shall establish and implement a regionally based registry program for recreational fishermen in each of the 8 fisherymanagement regions. The program, which shall not require a fee before January 1, 2011, shall provide for—
+&emsp;The Secretary shall establish and implement a regionally based registry program for recreational fishermen in each of the 8 fishery management regions. The program, which shall not require a fee before January 1, 2011, shall provide for—
 
 &emsp;&emsp;(A) the registration (including identification and contact information) of individuals who engage in recreational fishing—
 
@@ -162,7 +162,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 #### (ii) Use of funds
 
-&emsp;&emsp;&emsp;Any funds awarded through such grants shall be used to support data collection, quality assurance, and outreach to entities submitting such data. The Secretary shall prioritize such grants based on the abilityof the grant to improve the quality and accuracy of such programs.
+&emsp;&emsp;&emsp;Any funds awarded through such grants shall be used to support data collection, quality assurance, and outreach to entities submitting such data. The Secretary shall prioritize such grants based on the ability of the grant to improve the quality and accuracy of such programs.
 
 #### (5) Report
 

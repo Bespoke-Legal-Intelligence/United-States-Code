@@ -38,7 +38,7 @@ Administrative Classification and Optional Deposit.—
 
 &emsp;&emsp;(C) the renewal application and fee are received not more than twenty-eight or less than twenty-seven years after the thirty-first day of December of the calendar year in which all of the works were first published; and
 
-&emsp;&emsp;(D) the renewal application identifies each work separately, including the periodicalcontaining it and its date of first publication.
+&emsp;&emsp;(D) the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
 
 (d)
 
@@ -106,9 +106,11 @@ Section 408(c)(3) provides under certain conditions an alternative to the separa
 
 Under subsection (d), a supplementary registration is subject to payment of a separate fee and would be maintained as an independent record, separate and apart from the record of the earlier registration it is intended to supplement. However, it would be required to identify clearly "the registration to be corrected or amplified" so that the two registrations could be tied together by appropriate means in the Copyright Office records. The original registration would not be expunged or cancelled; as stated in the subsection: "The information contained in a supplementary registration augments but does not supersede that contained in the earlier registration."
 
-<b>Published Edition of Previously Registered Work.</b> The present statute requires that, where a work is registered in unpublished form, it must be registered again when it is published, whether or not the published edition contains any new copyrightable material. Under the bill there would be no need to make a second registration for the published edition unless it contains sufficient added material to be considered a "derivative work" or "compilation" under section 103.
+<b>Published Edition of Previously Registered Work.</b> The present statute requires that, where a work is registered in unpublished form, it must be registered againwhen it is published, whether or not the published edition contains any new copyrightable material. Under the bill there would be no need to make a second registration for the published edition unless it contains sufficient added material to be considered a "derivative work" or "compilation" under section 103.
 
 On the other hand, there will be a number of cases where the copyright owner, although not required to do so, would like to have registration made for the published edition of the work, especially since the owner will still be obliged to deposit copies or phonorecords of it in the Copyright Office under section 407. From the point of view of the public there are advantages in allowing the owner to do so, since registration for the published edition will put on record the facts about the work in the form in which it is actually distributed to the public. Accordingly, section 408(e), which is intended to accomplish this result, makes an exception to the general rule against allowing more than one registration for the same work.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), is the 
 <b>1988</b>—Subsec. (a). Pub. L. 100–568, §9(a)(1), substituted "Such" for "Subject to the provisions of section 405(a), such".
 
 Subsec. (c)(2). Pub. L. 100–568, §9(a)(2), substituted "the following conditions:" for "all of the following conditions—", struck out subpar. (A) which read "if each of the works as first published bore a separate copyright notice, and the name of the owner of copyright in the work, or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner was the same in each notice; and", and redesignated subpars. (B) and (C) as (A) and (B), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

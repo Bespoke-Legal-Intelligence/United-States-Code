@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) the earnings and profits (within the meaning of section 316) of any corporation shall be determined without regard to this section and chapter 535 of title 46, United States Code, and
 
-&emsp;&emsp;(E) in applying the tax imposed by section 531 (relating to the accumulated earnings tax), amounts while held in the fund shall not be taken into account.
+&emsp;&emsp;(E) in applying the tax imposed by section 531 (relating to the accumulated earningstax), amounts while held in the fund shall not be taken into account.
 
 #### (2) Only qualified deposits eligible for treatment
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (4) Adjustment to basis of vessels, etc., where withdrawals pay principal on debt
 
-&emsp;If any portion of a qualified withdrawal to pay the principal on any indebtedness is made out of the ordinary income account or the capital gain account, then an amount equal to the aggregate reduction which would be required by paragraphs (2) and (3) if this were a qualified withdrawal for a purpose described in such paragraphs shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. Any amount of a withdrawal remaining after the application of the preceding sentence shall be treated as a nonqualified withdrawal.
+&emsp;If any portion of a qualified withdrawal to pay the principal on any indebtedness is made out of the ordinary income account or the capital gain account, then an amount equal to theaggregate reduction which would be required by paragraphs (2) and (3) if this were a qualified withdrawal for a purpose described in such paragraphs shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. Any amount of a withdrawal remaining after the application of the preceding sentence shall be treated as a nonqualified withdrawal.
 
 #### (5) Ordinary income recapture of basis reduction
 
@@ -294,7 +294,7 @@ Pub. L. 115–97, §13001(b)(2)(Q), struck out "or 1201(a)" after "section 1(h)"
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §17(e)(6)(A), substituted "chapter 535 of title 46 of the United States Code" for "section 607 of the Merchant Marine Act, 1936".
 
-Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, §17(e)(6)(B), substituted "chapter 535 of title 46, United States Code" for "section 607 of the Merchant Marine Act, 1936".
+Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, §17(e)(6)(B), substituted "chapter 535 of title 46, UnitedStates Code" for "section 607 of the Merchant Marine Act, 1936".
 
 Subsec. (g)(3)(C)(iii). Pub. L. 109–304, §17(e)(6)(C), substituted "Merchant Marine Act, 1936," for "Merchant Marine Act of 1936".
 

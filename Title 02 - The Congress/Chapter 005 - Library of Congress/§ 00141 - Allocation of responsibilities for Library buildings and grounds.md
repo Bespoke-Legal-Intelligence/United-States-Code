@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the architectural features of the buildings;
 
-&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for <sup>1</sup> under this paragraph;
+&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect tothe specific responsibilities set for <sup>1</sup> under this paragraph;
 
 &emsp;&emsp;(E) the care and maintenance of Library grounds; and
 
@@ -32,6 +32,8 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 
 (June 29, 1922, ch. 251, §1, 42 Stat. 715; Pub. L. 91–280, June 12, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(b), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(a), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 108–7, div. H, title I, §1208(a), Feb. 20, 2003, 117 Stat. 375.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–7 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "The Architect of the Capitol shall have charge of all structural work at the Library of Congress buildings and grounds (as defined in section 167j of this title), including all necessary repairs, the operation, maintenance, and repair of the mechanical plant and elevators, the care and maintenance of the grounds, and the purchasing of all equipment other than office equipment. The employees required for the performance of the foregoing duties shall be appointed by the Architect of the Capitol. All other duties on June 29, 1922, required to be performed by the Superintendent of the Library Building and Grounds shall be performed under the direction of the Librarian of Congress, who shall appoint the employees necessary therefor. The Librarian of Congress shall provide for the purchase and supply of office equipment and furniture for library purposes."
@@ -39,6 +41,8 @@ The Architect of the Capitol and the Librarian of Congress may enter into agreem
 <b>1990</b>—Pub. L. 101–520 and Pub. L. 101–562 made substantively identical amendments, substituting reference to the Library of Congress buildings and grounds (as defined in section 167j of this title) for reference to the Library Building and on the grounds.
 
 <b>1970</b>—Pub. L. 91–280 substituted "purchasing of all equipment other than office equipment" for "purchasing and supplying of all furniture and equipment for the building" in second sentence and inserted sentence at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 
@@ -76,11 +80,11 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### "SEC. 3. ACCEPTANCE OF TRANSFERRED GIFTS OR TRUST FUNDS.
 
-"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Librarybuildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
+"Gifts or trust funds given to the Library or the Library of Congress Trust Fund Board for the structural and mechanical work and refurbishment of Library buildings and grounds specified in section 1 shall be transferred to the Architect of the Capitol to be spent in accordance with the provisions of the first section of the Act of June 29, 1922 (2 U.S.C. 141).
 
 #### "SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-"There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+"There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Suchfunds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### "SEC. 5. EFFECTIVE DATE.
 

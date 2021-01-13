@@ -2,7 +2,7 @@
 
 (a) A documented vessel transporting cargo that transports not more than 12 individuals in addition to the crew on international voyages, or not more than 16 individuals in addition to the crew on other voyages, is not subject to inspection as a passenger vessel or a small passenger vessel if the vessel is otherwise subject to inspection under this chapter.
 
-(b) Except when subsection (e) of this section applies, before an individual in addition to thecrew is transported on a vessel as permitted by this section, the owner, charterer, managing operator, agent, master, or individual in charge of the vessel first shall notify the individual of the presence on board of dangerous articles as defined by law, and of other conditions or circumstances that would constitute a risk of safety to the individual on board.
+(b) Except when subsection (e) of this section applies, before an individual in addition to the crew is transported on a vessel as permitted by this section, the owner, charterer, managing operator, agent, master, or individual in charge of the vessel first shall notify the individual of the presence on board of dangerous articles as defined by law, and of other conditions or circumstances that would constitute a risk of safety to the individual on board.
 
 (c) A privilege authorized by this section applies to a vessel of a foreign country that affords a similar privilege to vessels of the United States in trades not restricted to vessels under its own flag.
 
@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 Section 3304 permits the carriage of not more than 12 individuals in addition to the crew on international voyages or not more than 16 individuals in addition to the crew on other voyages without subjecting a documented vessel carrying cargo to the inspection requirements of a passenger vessel. This section permits the bulk of vessels subject to the International Convention for Safety of Life at Sea to carry up to 12 passengers and to permit other cargo vessels, primarily those engaged in the coastwise trade, to carry up to 16 passengers without being categorized as passenger vessels. It also requires that these individuals be notified of the presence of dangerous articles or other conditions or circumstances that constitute a risk of safety. This is of prime importance on tank vessels that carry flammable or hazardous cargoes.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–307, §1(5)(A)(i), substituted "Transporting" for "Carrying" in section catchline.
@@ -39,6 +41,8 @@ Subsec. (c). Pub. L. 99–307, §1(5)(A)(iv), substituted "A privilege" for "The
 Subsec. (e). Pub. L. 99–307, §1(5)(A)(v), added subsec. (e).
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–364 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

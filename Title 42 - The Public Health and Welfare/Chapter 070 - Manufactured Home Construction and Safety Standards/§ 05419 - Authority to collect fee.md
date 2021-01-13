@@ -56,7 +56,7 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### References in Text
 
-For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3),see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
+For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3), see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
 
 #### Amendments
 

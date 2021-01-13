@@ -14,7 +14,7 @@
 
 &emsp;(A) An assessment of the projected size and associated cost of such civilian workforce in the current year and for each year in the future-years defense program.
 
-&emsp;(B) If the projected size and associated cost of such civilian workforce has changed from the previous year's projected size and associated cost, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts to reduce the overall costs of the total force of military, civilian, and contract workforces.
+&emsp;(B) If the projected size and associated cost of such civilian workforce has changed fromthe previous year's projected size and associated cost, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts to reduce the overall costs of the total force of military, civilian, and contract workforces.
 
 &emsp;(C) In the case of a transfer of functions between military, civilian, and contractor workforces, an explanation of the reasons for the transfer and the steps that have been taken to control the overall cost of the function to the Department.
 
@@ -32,7 +32,7 @@ Subsec. (c)(2)(B). Pub. L. 116–92, §1103(2), inserted "and associated cost" a
 
 Subsec. (a). Pub. L. 114–328, §1101(a)(1), in first sentence, struck out "solely" before "on the basis", in second sentence, substituted "Any" for "The management of such personnel in any fiscal year shall not be subject to any" and inserted "shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances" after "employees", and in third sentence, substituted "except in accordance with the requirements of this section and section 129a of this title." for "unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after February 10, 1996, and that refers specifically to this subsection."
 
-Subsec. (b). Pub. L. 114–328, §1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec.\(b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
+Subsec. (b). Pub. L. 114–328, §1101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to the number of, and the amount of funds available to be paid to, indirectly funded Government employees of the Department of Defense.
 
 Subsec. (c). Pub. L. 114–328, §1101(a)(2), (4), added subsec. (c) and struck out former subsec. (c) which defined the term "indirectly funded Government employees".
 

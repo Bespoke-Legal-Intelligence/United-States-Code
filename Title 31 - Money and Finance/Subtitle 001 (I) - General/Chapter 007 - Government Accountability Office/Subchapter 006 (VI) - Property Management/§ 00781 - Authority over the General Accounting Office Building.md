@@ -12,6 +12,8 @@
 
 (Added Pub. L. 100–545, §1, Oct. 28, 1988, 102 Stat. 2727; amended Pub. L. 107–217, §3(h)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 111–350, §5(h)(3), Jan. 4, 2011, 124 Stat. 3849.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
@@ -22,9 +24,33 @@ The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is ti
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "section 3307 of title 40" for "section 7 of the Public Buildings Act of 1959, as amended (40 U.S.C. 606)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.
+
+#### Source of Funds Used for Payment of Salaries and Expenses of Tiny Findings Child Development Center
+
+Pub. L. 116–136, div. B, title IX, §19009, Mar. 27, 2020, 134 Stat. 579, as amended by Pub. L. 116–260, div. O, title XI, §1101(b)(3), Dec. 27, 2020, 134 Stat. 2157, provided that:
+
+"(a)
+
+Reimbursements.—During the period beginning on the date of enactment of the Consolidated Appropriations Act, 2021 \[Dec. 27, 2020\] and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Government Accountability Office shall reimburse the Tiny Findings Child Development Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account 'Government Accountability Office—Salaries and Expenses'.
+
+"(b)
+
+Amount.—The amount of the reimbursement under this section for each month of the period described in subsection (a) shall be equal to the difference between—
+
+&emsp;"(1) the lesser of—
+
+&emsp;&emsp;"(A) the amount of the operating costs (including payroll, general, and administrative expenses) of the Center for such month; or
+
+&emsp;&emsp;"(B) $162,500; and
+
+&emsp;"(2) the amount of tuition payments collected by the Center for such month."
+
+\[For definition of "coronavirus" as used in section 19009 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

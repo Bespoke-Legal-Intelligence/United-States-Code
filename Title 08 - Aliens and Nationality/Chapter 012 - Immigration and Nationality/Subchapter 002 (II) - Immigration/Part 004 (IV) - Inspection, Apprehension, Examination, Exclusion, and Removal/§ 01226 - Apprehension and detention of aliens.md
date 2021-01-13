@@ -62,21 +62,25 @@ The Attorney General's discretionary judgment regarding the application of this 
 
 (June 27, 1952, ch. 477, title II, ch. 4, §236, 66 Stat. 200; Pub. L. 101–649, title V, §504(b), title VI, §603(a)(12), Nov. 29, 1990, 104 Stat. 5050, 5083; Pub. L. 102–232, title III, §306(a)(5), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title III, §§303(a), 371(b)(5), Sept. 30, 1996, 110 Stat. 3009–585, 3009–645.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208, §303(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) related to proceedings to determine whether aliens detained under section 1225 of this title should be allowed to enter or should be excluded and deported.
 
-Subsecs. (a) to (d). Pub. L. 104–208, §371(b)(5), substituted "An immigration judge" for "A special inquiry officer", "an immigration judge" for "a special inquiryofficer", and "immigration judge" for "special inquiry officer", wherever appearing.
+Subsecs. (a) to (d). Pub. L. 104–208, §371(b)(5), substituted "An immigration judge" for "A special inquiry officer", "an immigration judge" for "a special inquiry officer", and "immigration judge" for "special inquiry officer", wherever appearing.
 
 <b>1991</b>—Subsec. (e)(1). Pub. L. 102–232 substituted "upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)" for "upon completion of the alien's sentence for such conviction".
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted "has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title" for "is afflicted with a disease specified in section 1182(a)(6) of this title, or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of section 1182(a) of this title" and struck out at end "If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked."
+<b>1990</b>—Subsec. (d). Pub. L. 101–649, §603(a)(12), substituted "has a disease, illness, or addiction which would make the alien excludable under paragraph (1) of section 1182(a) of this title" for "is afflicted with a disease specified in section 1182(a)(6) of this title, or with any mental disease, defect, or disability which would bring such alien within any of the classes excluded from admission to the United States under paragraphs (1) to (4) or (5) of section 1182(a) of this title" andstruck out at end "If an alien is excluded by a special inquiry officer because of the existence of a physical disease, defect, or disability, other than one specified in section 1182(a)(6) of this title, the alien may appeal from the excluding decision in accordance with subsection (b) of this section, and the provisions of section 1183 of this title may be invoked."
 
 Subsec. (e). Pub. L. 101–649, §504(b), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Section 303(b) of subtitle A of title III of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title III, §303(b), Sept. 30, 1996, 110 Stat. 3009–586, provided that:
 
 "(1)
 

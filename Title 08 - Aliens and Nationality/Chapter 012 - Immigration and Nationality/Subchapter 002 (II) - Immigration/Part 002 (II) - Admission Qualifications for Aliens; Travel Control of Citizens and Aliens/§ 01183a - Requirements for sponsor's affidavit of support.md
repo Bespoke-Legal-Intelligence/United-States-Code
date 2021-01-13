@@ -68,13 +68,13 @@
 
 #### (c) Remedies
 
-Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include correspondingremedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
+Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
 
 #### (d) Notification of change of address
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -146,7 +146,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (i) Method of demonstration
 
-&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal incometax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28, that the copies are certified copies of such returns.
 
 #### (ii) Flexibility
 
@@ -178,6 +178,8 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 (June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75; Pub. L. 111–83, title V, §568(e), Oct. 28, 2009, 123 Stat. 2187.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (e), referred to in subsec. (a)(1)(B), does not define "means-tested public benefit".
@@ -198,6 +200,8 @@ Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (
 
 <b>1996</b>—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before such date, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
@@ -214,7 +218,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a)."
 
-Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for suchaffidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

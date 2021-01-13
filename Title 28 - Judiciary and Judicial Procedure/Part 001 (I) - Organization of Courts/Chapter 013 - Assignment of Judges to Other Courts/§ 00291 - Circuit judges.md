@@ -30,6 +30,8 @@ Other provisions of said section 22 of title 28, U.S.C., 1940 ed., are incorpora
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–572 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Chief Justice of the United States may designate and assign temporarily any circuit judge to act as circuit judge in another circuit upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit where the need arises."
@@ -49,6 +51,8 @@ Subsecs. (c), (d). Pub. L. 85–755 redesignated subsec. (d) as (c). Former subs
 <b>1954</b>—Subsec. (c). Act Sept. 3, 1954, struck out "United States" from name of Court of Claims.
 
 <b>1953</b>—Subsecs. (c), (d). Act July 28, 1953, added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

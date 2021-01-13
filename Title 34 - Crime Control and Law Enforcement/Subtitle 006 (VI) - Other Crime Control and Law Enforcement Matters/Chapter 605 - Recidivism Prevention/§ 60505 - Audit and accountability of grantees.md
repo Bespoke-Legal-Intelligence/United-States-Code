@@ -62,6 +62,8 @@ The Attorney General, in awarding grants under a covered grant program shall giv
 
 (Pub. L. 115–391, title V, §503, Dec. 21, 2018, 132 Stat. 5232.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 As amended by this title, referred to in subsec. (a)(1), means as amended by title V of Pub. L. 115–391.

@@ -12,7 +12,7 @@ The Director of the American Folklife Center at the Library of Congress shall es
 
 &emsp;(2) to create a collection of the recordings obtained (including a catalog and index) which will be available for public use through the National Digital Library of the Library of Congress and such other methods as the Director considers appropriate to the extent feasible subject to available resources; and
 
-&emsp;(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period ofwar and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary <sup>1</sup> to the efforts described in paragraphs (1) and (2).
+&emsp;(3) to solicit, reproduce, and collect written materials (such as letters and diaries) relevant to the personal histories of veterans of the Armed Forces who served during a period of war and to catalog such materials in a manner the Director considers appropriate, consistent with and complimentary <sup>1</sup> to the efforts described in paragraphs (1) and (2).
 
 #### (b) Use of and consultation with other entities
 

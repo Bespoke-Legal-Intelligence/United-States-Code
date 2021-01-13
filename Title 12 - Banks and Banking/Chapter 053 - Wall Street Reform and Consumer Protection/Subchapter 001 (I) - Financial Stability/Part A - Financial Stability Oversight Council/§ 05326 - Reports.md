@@ -26,7 +26,7 @@ Subject to subsection (b), the Council, acting through the Office of Financial R
 
 #### (2) Availability
 
-&emsp;Each bank holding company described in subsection (a) and nonbank financial companysupervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
+&emsp;Each bank holding company described in subsection (a) and nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
 
 #### (3) Confidentiality
 
@@ -34,9 +34,13 @@ Subject to subsection (b), the Council, acting through the Office of Financial R
 
 (Pub. L. 111–203, title I, §116, July 21, 2010, 124 Stat. 1406; Pub. L. 115–174, title IV, §401(c)(1)(B), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–174 substituted "$250,000,000,000" for "$50,000,000,000" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

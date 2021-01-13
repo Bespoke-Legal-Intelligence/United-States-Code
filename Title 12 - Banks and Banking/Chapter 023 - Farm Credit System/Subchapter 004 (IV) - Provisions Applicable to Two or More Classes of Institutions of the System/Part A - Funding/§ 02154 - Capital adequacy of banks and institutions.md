@@ -18,6 +18,8 @@ Each bank shall have on hand at the time of issuance of any note, bond, debentur
 
 (Pub. L. 92–181, title IV, §4.3, Dec. 10, 1971, 85 Stat. 611; Pub. L. 99–205, title I, §101(3), Dec. 23, 1985, 99 Stat. 1678; Pub. L. 100–233, title III, §304, title VIII, §§804(a)(3), 805(q), Jan. 6, 1988, 101 Stat. 1621, 1715, 1716; Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–233, §804(a)(3), struck out subpar. (A) designation and struck out subpar. (B) which read as follows: "Any directive issued under this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 2267 of this title to the same extent as an effective and outstanding order issued under section 2261 of this title that has become final."
@@ -32,13 +34,15 @@ Subsec. (a). Pub. L. 99–205 amended subsec. (a) generally. Prior to amendment,
 
 Subsecs. (b), (c). Pub. L. 99–205 added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
 #### Construction of 1988 Amendment
 
-Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed and that subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
+Pub. L. 100–399, title VII, §702(b), Aug. 17, 1988, 102 Stat. 1006, provided that section 805(q) of Pub. L. 100–233, cited as a credit to this section, is repealed andthat subsec. (c) of this section shall be applied and administered as if such section had not been enacted.
 
 #### Minimum Capital Adequacy Standards
 
@@ -50,7 +54,7 @@ In general.—
 
 &emsp;"(A)
 
-Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
+Establishment.—Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 (12 U.S.C. 2154(c) \[12 U.S.C. 2154(a)\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
 &emsp;"(B)
 

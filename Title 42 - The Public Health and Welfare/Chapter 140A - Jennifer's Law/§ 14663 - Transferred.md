@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section 14663 was editorially reclassified as section 40503 of Title 34, Crime Control and Law Enforcement.
+Section 14663 was editorially reclassified as former section 40503 of Title 34, Crime Control and Law Enforcement.
 

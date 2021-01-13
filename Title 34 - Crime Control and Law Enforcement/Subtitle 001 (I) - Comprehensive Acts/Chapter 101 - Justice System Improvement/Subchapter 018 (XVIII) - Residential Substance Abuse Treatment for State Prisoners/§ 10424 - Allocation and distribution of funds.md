@@ -14,13 +14,15 @@ The Federal share of a grant made under this subchapter may not exceed 75 percen
 
 #### (c) Local allocation
 
-At least 10 percent of the total amount made available to a State under subsection (a) for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-basedsubstance abuse treatment programs that are effective and science-based established by those local correctional facilities.
+At least 10 percent of the total amount made available to a State under subsection (a) for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-based substance abuse treatment programs that are effective and science-based established by those local correctional facilities.
 
 #### (d) Residential substance abuse treatment program defined
 
 In this subchapter, the term "residential substance abuse treatment program" means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).
 
 (Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, §2102(3), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §1144, Jan. 5, 2006, 119 Stat. 3111; Pub. L. 110–199, title I, §102(b), Apr. 9, 2008, 122 Stat. 668.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -33,6 +35,8 @@ Section was formerly classified to section 3796ff–3 of Title 42, The Public He
 <b>2006</b>—Subsec. (d). Pub. L. 109–162 added subsec. (d).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–273 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

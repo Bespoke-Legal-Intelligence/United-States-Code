@@ -126,7 +126,7 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 #### (g) Buy-in under this part for qualified medicare beneficiaries
 
-(1) The Secretary shall, at the request of a State made after 1989, enter into a modificationof an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
+(1) The Secretary shall, at the request of a State made after 1989, enter into a modification of an agreement entered into with the State pursuant to section 1395v(a) of this title under which the agreement provides for enrollment in the program established by this part of qualified medicare beneficiaries (as defined in section 1396d(p)(1) of this title).
 
 (2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B.
 
@@ -276,7 +276,7 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 
 > concerning the special benefits provided under this section.
 
-"(2) An individual may establish that the individual was entitled at a date to medical, surgical, and dentaltreatment and hospitalization under section 322(a) of the Public Health Service Act \[42 U.S.C. 249(a)\] (as in effect before October 1, 1981) by providing—
+"(2) An individual may establish that the individual was entitled at a date to medical, surgical, and dental treatment and hospitalization under section 322(a) of the Public Health Service Act \[42 U.S.C. 249(a)\] (as in effect before October 1, 1981) by providing—
 
 &emsp;"(A) documentation relating to the status under which the individual was provided care in (or under arrangements with) a Public Health Service facility on that date,
 

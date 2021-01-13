@@ -4,9 +4,13 @@ The right of way through the public lands of the United States situate in the St
 
 (May 21, 1896, ch. 212, §1, 29 Stat. 127.)
 
+#### <b>Editorial Notes</b>
+
 #### Short Title
 
 Sections 962 to 965 of this title are popularly known as the "Oil Pipe Line Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal; Savings Provision
 

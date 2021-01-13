@@ -18,7 +18,7 @@
 
 (D) Any vacancy occurring in the membership of the Commission shall be filled in the same manner as in the case of the original appointment.
 
-(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission, are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of his or her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
+(3) Members shall be chosen on the basis of their experience, integrity, impartiality, and good judgment and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission, are not elected or appointed officers or employees in the executive, legislative, or judicial branch of the Federal Government. Such members of the Commission shall not engage in any other business, vocation, or employment. Any individual who is engaging in any other business, vocation, or employment at the time of hisor her appointment to the Commission shall terminate or liquidate such activity no later than 90 days after such appointment.
 
 (4) Members of the Commission (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall receive compensation equivalent to the compensation paid at level IV of the Executive Schedule (5 U.S.C. 5315).
 
@@ -50,9 +50,11 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 (3) In carrying out its responsibilities under this Act, the Commission shall, to the fullest extent practicable, avail itself of the assistance, including personnel and facilities of other agencies and departments of the United States. The heads of such agencies and departments may make available to the Commission such personnel, facilities, and other assistance, with or without reimbursement, as the Commission may request.
 
-(4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation itmay fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
+(4) Notwithstanding the provisions of paragraph (2), the Commission is authorized to appear in and defend against any action instituted under this Act, either (A) by attorneys employed in its office, or (B) by counsel whom it may appoint, on a temporary basis as may be necessary for such purpose, without regard to the provisions of title 5 governing appointments in the competitive service, and whose compensation it may fix without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title. The compensation of counsel so appointed on a temporary basis shall be paid out of any funds otherwise available to pay the compensation of employees of the Commission.
 
 (Pub. L. 92–225, title III, §306, formerly §310, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1280; renumbered §309 and amended Pub. L. 94–283, title I, §§101(a)–(d), 105, May 11, 1976, 90 Stat. 475, 476, 481; renumbered §306 and amended Pub. L. 96–187, title I, §§105(3), (6), 112(b), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–61, title V, §512(a), Oct. 10, 1997, 111 Stat. 1305.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Subsec. (b). Pub. L. 94–283, §101(c)(2), designated existing provisions as pa
 Subsec. (c). Pub. L. 94–283, §101(c)(3), provided that the affirmative vote of 4 members of the Commission shall be required in order for the Commission to establish guidelines for compliance with the provisions of this Act or with chapter 95 or chapter 96 of title 26, or for the Commission to take any action in accordance with paragraph (6), (7), (8), or (10) of section 437d(a) of this title.
 
 Subsec. (f)(1). Pub. L. 94–283, §101(d), provided that the appointment and the fixing of pay of additional personnel by the staff director may be done without regard to the provisions of title 5 governing appointments in the competitive service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

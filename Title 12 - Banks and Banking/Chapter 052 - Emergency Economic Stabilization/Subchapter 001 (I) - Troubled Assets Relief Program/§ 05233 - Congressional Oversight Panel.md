@@ -56,7 +56,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (2) Pay
 
-&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
+&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the dailyequivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
 
 #### (3) Prohibition of compensation of Federal employees
 
@@ -122,9 +122,11 @@ The Oversight Panel shall terminate 6 months after the termination date specifie
 
 #### (2) Reimbursement of amounts
 
-&emsp;An amount equal to the expenses of the Oversight Panel shall be promptly transferredby the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
+&emsp;An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
 
 (Pub. L. 110–343, div. A, title I, §125, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title V, §501, May 20, 2009, 123 Stat. 1658.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

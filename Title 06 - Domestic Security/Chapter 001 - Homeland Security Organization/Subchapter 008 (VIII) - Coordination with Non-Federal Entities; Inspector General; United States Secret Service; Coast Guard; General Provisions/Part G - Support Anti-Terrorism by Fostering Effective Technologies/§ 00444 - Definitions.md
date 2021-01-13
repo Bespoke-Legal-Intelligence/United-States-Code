@@ -48,6 +48,8 @@ Requirements.—An act meets the requirements of this subparagraph if the act—
 
 (Pub. L. 107–296, title VIII, §865, Nov. 25, 2002, 116 Stat. 2241.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 85–804, referred to in par. (6), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.

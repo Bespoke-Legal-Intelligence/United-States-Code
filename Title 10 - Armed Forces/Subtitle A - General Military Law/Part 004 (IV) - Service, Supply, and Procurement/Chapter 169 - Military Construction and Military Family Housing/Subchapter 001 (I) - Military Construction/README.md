@@ -17,12 +17,15 @@
 | [2813\.](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md) | Acquisition of existing facilities in lieu of authorized construction. |
 | [2814\.](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md) | Special authority for development of Ford Island, Hawaii. |
 | [2815\.](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md) | Military installation resilience projects. |
+| [2816\.](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md) | Consideration of energy security and energy resilience in life-cycle cost for military construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, which directed amendment of the analysis at the beginning of this chapter by adding item 2815, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(c)(9), div. B, title XXVIII, §2804(b), Jan. 1, 2021, 134 Stat. 3873, 4321, added item 2816 and amended directory language of Pub. L. 116–92, §2801(b)(2). See 2019 Amendment note below.
+
+<b>2019</b>—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(9), Jan. 1, 2021, 134 Stat. 3873, added item 2815.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 "Joint use military construction projects: annual evaluation".
 
@@ -72,3 +75,4 @@ Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added it
 - [&sect; 02813 - Acquisition of existing facilities in lieu of authorized construction](%C2%A7%2002813%20-%20Acquisition%20of%20existing%20facilities%20in%20lieu%20of%20authorized%20construction.md)
 - [&sect; 02814 - Special authority for development of Ford Island, Hawaii](%C2%A7%2002814%20-%20Special%20authority%20for%20development%20of%20Ford%20Island%2C%20Hawaii.md)
 - [&sect; 02815 - Military installation resilience projects](%C2%A7%2002815%20-%20Military%20installation%20resilience%20projects.md)
+- [&sect; 02816 - Consideration of energy security and energy resilience in life-cycle cost for military construction](%C2%A7%2002816%20-%20Consideration%20of%20energy%20security%20and%20energy%20resilience%20in%20life-cycle%20cost%20for%20military%20construction.md)

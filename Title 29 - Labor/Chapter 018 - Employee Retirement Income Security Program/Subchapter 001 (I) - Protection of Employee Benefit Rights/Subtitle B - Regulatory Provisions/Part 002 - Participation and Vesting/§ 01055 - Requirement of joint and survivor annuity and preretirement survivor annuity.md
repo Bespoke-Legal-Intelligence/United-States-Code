@@ -18,7 +18,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(C) any participant under any other individual account plan unless—
 
-&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the deathof the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
+&emsp;&emsp;(i) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under subsection (c)(2), to a designated beneficiary),
 
 &emsp;&emsp;(ii) such participant does not elect the payment of benefits in the form of a life annuity, and
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 &emsp;&emsp;(ii) in the case of a benefit not payable in the form of an annuity, the first day on which all events have occurred which entitle the participant to such benefit.
 
-&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefitis to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;(B) For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 &emsp;(3) The term "earliest retirement age" means the earliest date on which, under the plan, the participant could elect to receive retirement benefits.
 
@@ -244,7 +244,9 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A),Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -328,7 +330,7 @@ Subsec. (c)(1)(B). Pub. L. 99–514, §1898(b)(4)(B)(i), substituted "paragraphs
 
 Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or".
 
-Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A)."
+Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Each plan shall provide to each participant, within the period beginning with the firstday of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A)."
 
 Subsec. (c)(4). Pub. L. 99–514, §1898(b)(4)(B)(ii), added par. (4). Former par. (4) redesignated (5).
 
@@ -377,6 +379,8 @@ Subsec. (h). Pub. L. 98–397 substituted provisions setting forth definitions f
 Subsec. (i). Pub. L. 98–397 substituted provisions relating to increased costs resulting from providing annuities under applicable plans for former provisions setting forth the effective date of this section.
 
 Subsec. (j). Pub. L. 98–397 added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

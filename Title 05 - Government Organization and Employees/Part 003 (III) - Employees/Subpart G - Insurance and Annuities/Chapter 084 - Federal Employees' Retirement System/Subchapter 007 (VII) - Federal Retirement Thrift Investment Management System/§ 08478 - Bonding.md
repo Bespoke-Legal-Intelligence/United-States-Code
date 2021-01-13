@@ -10,7 +10,7 @@
 
 &emsp;(iii) is subject to supervision or examination by Federal or State authority; and
 
-&emsp;(iv) has at all times a combined capital and surplus in excess of such minimum amount\(not less than $1,000,000) as the Secretary of Labor prescribes in regulations.
+&emsp;(iv) has at all times a combined capital and surplus in excess of such minimum amount (not less than $1,000,000) as the Secretary of Labor prescribes in regulations.
 
 (B) If—
 
@@ -42,7 +42,9 @@
 
 (f) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, title I, §§108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, §2(72), Oct. 2, 1992, 106 Stat. 1355.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, titleI, §§108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, §2(72), Oct. 2, 1992, 106 Stat. 1355.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -51,6 +53,8 @@
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–556, §108, struck out "(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)" after "each fiduciary".
 
 Subsec. (c)(2). Pub. L. 99–556, §115, substituted "sections 9304 through 9308 of title 31" for "sections 6 through 13 of title 6".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Interim Bonding Regulations
 

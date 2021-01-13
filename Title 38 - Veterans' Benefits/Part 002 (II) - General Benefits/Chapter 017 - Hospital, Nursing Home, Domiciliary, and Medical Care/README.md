@@ -22,6 +22,7 @@
 | [1709\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709%20-%20Comprehensive%20policy%20on%20reporting%20and%20tracking%20sexual%20assault%20incidents%20and%20other%20safety%20incidents.md) | Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents. |
 | [1709A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709A%20-%20Teleconsultation.md) | Teleconsultation. |
 | [1709B.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709B%20-%20Evaluations%20of%20mental%20health%20care%20and%20suicide%20prevention%20programs.md) | Evaluations of mental health care and suicide prevention programs. |
+| [1709C.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001709C%20-%20Assistance%20for%20child%20care%20for%20certain%20veterans%20receiving%20health%20care.md) | Assistance for child care for certain veterans receiving health care,<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,10 +54,11 @@
 | [1720C.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care.md) | Noninstitutional alternatives to nursing home care. |
 | [1720D.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md) | Counseling and treatment for sexual trauma. |
 | [1720E.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md) | Nasopharyngeal radium irradiation. |
-| [1720F.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md) | Comprehensive program for suicide prevention among veterans. |
+| [1720F.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans%20and%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces.md) | Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces. |
 | [1720G.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md) | Assistance and support services for caregivers. |
-| [1720H.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md) | Mental health treatment for veterans who served in classified missions. |
+| [1720H.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20and%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces%20who%20served%20in%20classified%20missions.md) | Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions. |
 | [1720I.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720I%20-%20Mental%20and%20behavioral%20health%20care%20for%20certain%20former%20members%20of%20the%20Armed%20Forces.md) | Mental and behavioral health care for certain former members of the Armed Forces. |
+| [1720J.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001720J%20-%20Emergent%20suicide%20care.md) | Emergent suicide care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -142,10 +144,25 @@
 | [1786\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001786%20-%20Care%20for%20newborn%20children%20of%20women%20veterans%20receiving%20maternity%20care.md) | Care for newborn children of women veterans receiving maternity care. |
 | [1787\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001787%20-%20Health%20care%20of%20family%20members%20of%20veterans%20stationed%20at%20Camp%20Lejeune%2C%20North%20Carolina.md) | Health care of family members of veterans stationed at Camp Lejeune, North Carolina. |
 | [1788\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001788%20-%20Transplant%20procedures%20with%20live%20donors%20and%20related%20services.md) | Transplant procedures with live donors and related services. |
+| [1789\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001789%20-%20Mental%20health%20services%20for%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces.md) | Mental health services for members of the reserve components of the Armed Forces. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, provided that, effective one year after Jan. 5, 2021, this analysis is amended by striking item 1730A and inserting new item 1730A "Prohibition on collection of copayments from certain veterans". See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
+
+Pub. L. 116–283, div. A, title VII, §§763(b), 764(a)(3)(B), Jan. 1, 2021, 134 Stat. 3725, 3726, which directed amendment of subchapter analysis for this chapter by adding item 1789 and substituting "Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces" for "Comprehensive program for suicide prevention among veterans" in item 1720F, was executed by making the amendments to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 116–283, div. A, title VII, §764(b)(2)(B), Jan. 1, 2021, 134 Stat. 3727, substituted "Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions" for "Mental health treatment for veterans who served in classified missions" in item 1720H.
+
+<b>2020</b>—Pub. L. 116–214, title II, §201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
 
 <b>2018</b>—Pub. L. 115–182, title I, §§101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted "Veterans Community Care Program" for "Contracts for hospital care and medical services in non-Department facilities" in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
 
@@ -161,7 +178,7 @@ Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
 <b>2012</b>—Pub. L. 112–154, title I, §§102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
-<b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 "Counseling, training, and mental health services for immediate family members".
+<b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 andstruck out former item 1782 "Counseling, training, and mental health services for immediate family members".
 
 <b>2008</b>—Pub. L. 110–387, title IV, §406(b), Oct. 10, 2008, 122 Stat. 4130, added item 1729B.
 
@@ -231,7 +248,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 <b>1976</b>—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted "NURSING HOME," in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted ", NURSING HOME" in item for subchapter II, inserted ", nursing home" in item 610, substituted "Care" for "Hospitalization" in item 611, and inserted "AND NURSING HOME" in item for subchapter III.
 
-<b>1973</b>—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted "Medical care for survivors and dependents of certain veterans" and "Fitting and training in use of prosthetic appliances; seeing-eye dogs" for "Fitting and training in use of prosthetic appliances" and "Seeing-eye dogs" in items 613 and 614 respectively, substituted "natural disaster" for "fire" in item 626, added item 628, substituted "Assistance to the Republic of the Philippines" and "Contracts and grants to provide hospital care, medical services and nursing home care" for "Grants to the Republic of the Philippines" and "Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948" in items 631 and 632, respectively, and added "SUBCHAPTER VI—SICKLE CELL ANEMIA" comprising items 651 to 654.
+<b>1973</b>—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted "Medical care for survivors and dependents of certain veterans" and "Fitting and training in use of prosthetic appliances; seeing-eye dogs" for "Fitting and training in use of prosthetic appliances" and "Seeing-eye dogs" in items 613 and 614, respectively, substituted "natural disaster" for "fire" in item 626, added item 628, substituted "Assistance to the Republic of the Philippines" and "Contracts and grants to provide hospital care, medical services and nursing home care" for "Grants to the Republic of the Philippines" and "Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948" in items 631 and 632, respectively, and added "SUBCHAPTER VI—SICKLE CELL ANEMIA" comprising items 651 to 654.
 
 Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arrests for crimes in hospitals and domiciliary reservations".
 
@@ -246,6 +263,8 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 <b>1959</b>—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 
 
 ---

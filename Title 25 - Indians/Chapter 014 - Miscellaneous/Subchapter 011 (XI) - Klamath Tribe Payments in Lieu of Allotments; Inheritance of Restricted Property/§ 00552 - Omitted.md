@@ -1,5 +1,7 @@
 ### §552. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 1, 1938, ch. 310, §2, 52 Stat. 605, which provided for monetary payments to members of the Klamath Tribe who had not received an allotment of land, was omitted from the Code as being of special and not general application.

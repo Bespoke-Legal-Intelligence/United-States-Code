@@ -4,6 +4,8 @@ If, under this chapter, budget authority is required to be made available for ob
 
 (Pub. L. 93–344, title X, §1016, July 12, 1974, 88 Stat. 336; Pub. L. 98–620, title IV, §402(35), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–119, title II, §206(b), Sept. 29, 1987, 101 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1406 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
@@ -14,9 +16,11 @@ Section was formerly classified to section 1406 of Title 31 prior to the general
 
 <b>1984</b>—Pub. L. 98–620 struck out provision requiring that the courts give precedence to civil actions brought under this section, and to appeals and writs from decisions in such actions, over all other civil actions, appeals, and writs.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Reaffirmation
 

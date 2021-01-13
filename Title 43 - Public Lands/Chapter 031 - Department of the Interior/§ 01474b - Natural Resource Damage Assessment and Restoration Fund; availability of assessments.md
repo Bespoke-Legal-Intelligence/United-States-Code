@@ -4,11 +4,15 @@ Notwithstanding any other provision of law, in fiscal year 1991 and thereafter, 
 
 (Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 994.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This appropriation, referred to in text, probably means appropriations under the heading "
 
 natural resource damage assessment and restoration fund" of the annual Department of the Interior and Related Agencies Appropriations Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Investment of Exxon Valdez Oil Spill Court Recovery in High Yield Investments and in Marine Research
 

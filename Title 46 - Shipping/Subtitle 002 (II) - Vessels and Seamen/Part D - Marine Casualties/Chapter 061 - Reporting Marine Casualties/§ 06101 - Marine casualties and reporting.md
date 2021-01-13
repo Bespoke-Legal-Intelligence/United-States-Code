@@ -58,7 +58,7 @@ Notice to State and Tribal Governments.—Not later than 24 hours after receivin
 
 (j) The Secretary shall publish all marine casualty reports prepared in accordance with this section in an electronic form.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L. 113–281, title III, §312, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–232, div. C, title XXXV, §§3541(b)(11), 3546(d), Aug. 13, 2018, 132 Stat. 2323, 2326; Pub. L. 115–265, title II, §211, Oct. 11, 2018, 132 Stat. 3749.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132; Pub. L. 109–241, title IX, §901(o), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(21), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603; Pub. L.113–281, title III, §312, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–232, div. C, title XXXV, §§3541(b)(11), 3546(d), Aug. 13, 2018, 132 Stat. 2323, 2326; Pub. L. 115–265, title II, §211, Oct. 11, 2018, 132 Stat. 3749.)
 
 Historical and Revision Notes
 
@@ -89,6 +89,8 @@ Subsection (c) requires the owner, charterer, managing operator, or agent of a U
 Subsection (d) makes it clear that the reporting requirements under subsection (b) are applicable to foreign vessels involved in a marine casualty when operating on the navigable waters of the United States, whether in innocent passage or not.
 
 Subsection (e) provides for the classification of marine casualties by regulation according to the gravity of the casualty, injuries to individuals, property damage, dangers created, and size, occupation, and means of propulsion of each vessel.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -129,6 +131,8 @@ Subsec. (d). Pub. L. 101–380, §4106(b)(2), designated existing provisions as 
 Subsec. (b). Pub. L. 98–557 inserted provisions relating to alcohol as a contributing factor to the casualty.
 
 Subsec. (c). Pub. L. 98–498, §212(b)(1)(B), struck out subsec. (c) which related to determination of status of a vessel that may be lost or imperiled and notification of the Coast Guard.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

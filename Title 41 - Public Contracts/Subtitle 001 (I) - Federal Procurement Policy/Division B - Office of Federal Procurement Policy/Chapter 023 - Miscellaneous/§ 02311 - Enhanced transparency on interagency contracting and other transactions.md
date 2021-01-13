@@ -4,7 +4,7 @@ The Director of the Office of Management and Budget shall direct appropriate rev
 
 &emsp;(1) interagency contracting actions, including data at the task or delivery-order level; and
 
-&emsp;(2) other transactions, including the initial award and any subsequent modificationsawarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
+&emsp;(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3739.)
 
@@ -25,6 +25,8 @@ Historical and Revision Notes
 Pub. L. 110–417, \[div. A\], title VIII, §874(a), Oct. 14, 2008, 122 Stat. 4558.
 
 In the first sentence, the words "Not later than one year after the date of enactment of this Act" are omitted because of section 6(f) of the bill.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Revisions in Federal Procurement Data System or Successor System
 

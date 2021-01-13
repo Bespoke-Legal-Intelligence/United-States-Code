@@ -20,13 +20,15 @@ Notwithstanding the provisions of section 1305 of title 19 and of section 1717 o
 
 #### (e) Information furnished to agency or official of United States Government
 
-It shall be unlawful for any person within the United States who is an agent of a foreign principal required to register under the provisions of this subchapter to transmit, convey, or otherwise furnish to any agency or official of the Government (including a Member or committee of either House of Congress) for or in the interests of such foreign principal any political propaganda or to request from any such agency or official for or in the interests of such foreign principal any information or advice with respect to any matter pertaining to the political or public interests, policies or relations of a foreign country or of a political party or pertaining to the foreign or domestic policies of the United States unless the propaganda or the request is prefaced or accompanied by a true and accurate statement to the effect that such person is registered as an agent of such foreign principal under this subchapter.
+It shall be unlawful for any person within the United States who is an agent of a foreign principal required to register under the provisions of this subchapter to transmit, convey, or otherwise furnish to any agency or official of the Government (including a Member or committee of either House of Congress) for or in the interests of such foreign principal any political propaganda or to request from any such agency or official for or in the interests of such foreignprincipal any information or advice with respect to any matter pertaining to the political or public interests, policies or relations of a foreign country or of a political party or pertaining to the foreign or domestic policies of the United States unless the propaganda or the request is prefaced or accompanied by a true and accurate statement to the effect that such person is registered as an agent of such foreign principal under this subchapter.
 
 #### (f) Appearances before Congressional committees
 
 Whenever any agent of a foreign principal required to register under this subchapter appears before any committee of Congress to testify for or in the interests of such foreign principal, he shall, at the time of such appearance, furnish the committee with a copy of his most recent registration statement filed with the Department of Justice as an agent of such foreign principal for inclusion in the records of the committee as part of his testimony.
 
 (June 8, 1938, ch. 327, §4, 52 Stat. 632; Aug. 7, 1939, ch. 521, §3, 53 Stat. 1246; Apr. 29, 1942, ch. 263, §1, 56 Stat. 255; Pub. L. 89–486, §4, July 4, 1966, 80 Stat. 246; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 104–65, §9(4)–(6), Dec. 19, 1995, 109 Stat. 700.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -42,7 +44,7 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 
 Pub. L. 104–65, §9(4)(A), substituted "informational materials" for "political propaganda".
 
-Subsec. (b). Pub. L. 104–65, §9(5), substituted "informational materials for or" for "political propagandafor or" and substituted "without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection." for cls. (i) and (ii) and concluding provisions which made it unlawful for an agent of a foreign principal to transmit in the United States political propaganda unless the propaganda identified the agent and contained information about the registration of the agent and authorized the Attorney General to prescribe regulations relating to the information to be provided.
+Subsec. (b). Pub. L. 104–65, §9(5), substituted "informational materials for or" for "political propaganda for or" and substituted "without placing in such informational materials a conspicuous statement that the materials are distributed by the agent on behalf of the foreign principal, and that additional information is on file with the Department of Justice, Washington, District of Columbia. The Attorney General may by rule define what constitutes a conspicuous statement for the purposes of this subsection." for cls. (i) and (ii) and concluding provisions which made it unlawful for an agent of a foreign principal to transmit in the United States political propaganda unless the propaganda identified the agent and contained information about the registration of the agent and authorized the Attorney General to prescribe regulations relating to the information to be provided.
 
 Subsec. (c). Pub. L. 104–65, §9(6), substituted "informational materials" for "political propaganda".
 
@@ -57,6 +59,8 @@ Subsecs. (e), (f). Pub. L. 89–486, §4(4), added subsecs. (e) and (f).
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
 
 <b>1939</b>—Act Aug. 7, 1939, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

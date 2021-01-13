@@ -4,6 +4,8 @@ The Board of Governors of the Federal Reserve System (hereinafter referred to as
 
 (Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, §203(b), 49 Stat. 704; Pub. L. 114–1, title I, §109(a), Jan. 12, 2015, 129 Stat. 9.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, §203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, §1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
@@ -13,6 +15,8 @@ Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2�
 <b>2015</b>—Pub. L. 114–1 inserted after second sentence "In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets."
 
 <b>1935</b>—Act Aug. 23, 1935, §203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

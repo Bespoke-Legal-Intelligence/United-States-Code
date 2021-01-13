@@ -40,7 +40,7 @@
 
 &emsp;(A) provide to each person affected by a decision or action by an Officer in Charge, Marine Inspection or by the Coast Guard marine safety center all information necessary for such person to exercise any right to appeal such decision or action; and
 
-&emsp;(B) if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Coast Guard Authorization Act of 2017.
+&emsp;(B) if such an appeal is filed, process such appeal under parts 1 through 4 of title 46, Code of Federal Regulations, as in effect on the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018.
 
 (4) In this section, the term "Officer in Charge, Marine Inspection" means any person from the civilian or military branch of the Coast Guard who—
 
@@ -48,7 +48,7 @@
 
 &emsp;(B) under the superintendence and direction of the cognizant Coast Guard district commander, is in charge of an inspection zone for the performance of duties with respect to the inspections under, and enforcement and administration of, subtitle II, chapter 700, and regulations under such laws.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 99–36, §1(a)(1), May 15, 1985, 99 Stat. 67; Pub. L. 99–640, §13(e), Nov. 10, 1986, 100 Stat. 3551; Pub. L. 107–217, §3(m)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–293, title IV, §416, Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–241, title IX, §901(f), July 11, 2006, 120 Stat. 564; Pub. L. 115–282, title V, §501(a), Dec. 4, 2018, 132 Stat. 4268.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 99–36, §1(a)(1), May 15, 1985, 99 Stat. 67; Pub. L. 99–640, §13(e), Nov. 10, 1986, 100 Stat. 3551; Pub. L. 107–217, §3(m)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–293, title IV, §416, Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–241, title IX, §901(f), July 11, 2006, 120 Stat. 564; Pub. L. 115–282, title V, §501(a), Dec. 4, 2018, 132 Stat. 4268; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(a)(1), Jan. 1, 2021, 134 Stat. 4752.)
 
 Historical and Revision Notes
 
@@ -112,11 +112,15 @@ Subsection (b) requires that defective life preservers and firehose be destroyed
 
 Subsection (c) provides flexibility in the inspection of various sizes of nautical school vessels.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of enactment of the Coast Guard Authorization Act of 2017, referred to in subsec. (d)(3)(B), probably means the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, Pub. L. 115–282, which enacted subsec. (d) of this section and chapter 700 of this title and was approved Dec. 4, 2018. No act with the title "Coast Guard Authorization Act of 2017" has been enacted.
+The date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 115–282, which was approved Dec. 4, 2018.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(3)(B). Pub. L. 116–283 substituted "Frank LoBiondo Coast Guard Authorization Act of 2018" for "Coast Guard Authorization Act of 2017".
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–282 added subsec. (d).
 
@@ -131,6 +135,8 @@ Subsec. (a)(4) to (6). Pub. L. 108–293, §416(a), added par. (4) and redesigna
 <b>1986</b>—Subsec. (c). Pub. L. 99–640 inserted "or by an educational institution under section 13 of the Coast Guard Authorization Act of 1986".
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted "lifesaving" and "life preserver, lifesaving device, or firehose" for "life-saving" and "life preserver or firehose", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

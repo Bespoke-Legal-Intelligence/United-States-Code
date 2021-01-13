@@ -78,7 +78,7 @@ The Commissioner of U.S. Customs and Border Protection shall ensure that each fe
 
 #### (1) In general
 
-&emsp;The amount of the fee to be charged under an agreement authorized under subsection (a) shall be paid by each entity requesting U.S. Customs and Border Protection services, and shall be for the full cost of providing such services, including the salaries and expenses of employees and contractors of U.S. Customs and Border Protection, to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such employees and contractors.
+&emsp;The amount of the fee to be charged under an agreement authorized under subsection (a)shall be paid by each entity requesting U.S. Customs and Border Protection services, and shall be for the full cost of providing such services, including the salaries and expenses of employees and contractors of U.S. Customs and Border Protection, to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such employees and contractors.
 
 #### (2) Timing
 
@@ -153,6 +153,8 @@ The Commissioner of U.S. Customs and Border Protection shall—
 Nothing in this section may be construed as imposing on U.S. Customs and Border Protection any responsibilities, duties, or authorities relating to real property.
 
 (Pub. L. 107–296, title IV, §481, as added Pub. L. 114–279, §2(a), Dec. 16, 2016, 130 Stat. 1413.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

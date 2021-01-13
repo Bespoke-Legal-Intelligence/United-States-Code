@@ -4,6 +4,8 @@ The Secretary shall prepare and submit to Congress, concurrent with the budget s
 
 (Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3913, §688; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–281, title II, §221(a)(8), Oct. 15, 2010, 124 Stat. 2920; renumbered §2947, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 688 of this title as this section.
@@ -12,9 +14,11 @@ The Secretary shall prepare and submit to Congress, concurrent with the budget s
 
 <b>2002</b>—Par. (4). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Final Report
 

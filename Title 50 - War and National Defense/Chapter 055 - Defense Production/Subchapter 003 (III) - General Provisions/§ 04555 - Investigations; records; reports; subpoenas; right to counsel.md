@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 102–558, §142(1), (2), redesignated subsec. (c) as (b) a
 
 Subsec. (c). Pub. L. 102–558, §142(2), (3), redesignated subsec. (d) as (c) and substituted "$10,000" for "$1,000". Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–558, §142(2), (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: "All information obtained by the Office of Price Stabilization under this section, as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both." Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 102–558, §142(2), (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: "All information obtained by the Office of Price Stabilization under this section,as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both." Former subsec. (d) redesignated (c).
 
 Subsecs. (e), (f). Pub. L. 102–558, §142(2), (5), redesignated subsec. (f) as (e) and substituted "subpoenaed" for "subpenaed". Former subsec. (e) redesignated (d).
 
@@ -66,5 +66,13 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Delegation of Functions
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Authority of President to implement the Defense Production Act of 1950 (this chapter) in this subchapter—
+
+&emsp;(1) with respect to hoarding of health and medical resources necessary to respond to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services, see section 2(a)(ii) of Ex. Ord. 13910, Mar. 23, 2020, 85 F.R. 17001, set out as a note under section 4512 of this title;
+
+&emsp;(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title; and
+
+&emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
+
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 

@@ -242,7 +242,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (ii) Employer contribution
 
-&emsp;&emsp;&emsp;The Bureau shall pay any employer contributions to the existing retirement planof each transferred employee, as required under that plan.
+&emsp;&emsp;&emsp;The Bureau shall pay any employer contributions to the existing retirement plan of each transferred employee, as required under that plan.
 
 #### (iii) Option to elect into the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan
 
@@ -326,7 +326,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (B) Medical, dental, vision, or life insurance after first year
 
-&emsp;&emsp;If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity's, medical, dental, vision, or life insurance program, an employee transferred pursuant to this part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to enroll, without regard to any regularly scheduled open season, in—
+&emsp;&emsp;If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity's, medical, dental, vision, or life insurance program, an employee transferred pursuant tothis part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to enroll, without regard to any regularly scheduled open season, in—
 
 &emsp;&emsp;&emsp;(i) the enhanced dental benefits program established under chapter 89A of title 5;
 
@@ -342,7 +342,7 @@ Examiners transferred to the Bureau are not subject to any additional certificat
 
 #### (D) Employee contribution
 
-&emsp;&emsp;An individual enrolled in the Federal Employees Health Benefits program shall payany employee contribution required by the plan.
+&emsp;&emsp;An individual enrolled in the Federal Employees Health Benefits program shall pay any employee contribution required by the plan.
 
 #### (E) Additional funding
 
@@ -384,13 +384,15 @@ In administering the provisions of this section, the Bureau—
 
 &emsp;(1) shall take no action that would unfairly disadvantage transferred employees relative to each other based on their prior employment by the Board of Governors, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks; and
 
-&emsp;(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Board of Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
+&emsp;(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Boardof Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
 
 #### (l) Implementation
 
 In implementing the provisions of this section, the Bureau shall coordinate with the Office of Personnel Management and other entities having expertise in matters related to employment to ensure a fair and orderly transition for affected employees.
 
 (Pub. L. 111–203, title X, §1064, July 21, 2010, 124 Stat. 2043.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

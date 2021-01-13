@@ -18,7 +18,7 @@ Such marine research plan shall include—
 
 &emsp;(2) a comprehensive inventory and description of all marine research related to water quality and ecosystem health expected to be conducted in the region during the 4-year term of the research plan;
 
-&emsp;(3) a statement and explanation of the marine research needs and priorities applicable to the marine and coastal waters of the region over the upcoming 10-year period with emphasis on the upcoming 3-to-5 year period;
+&emsp;(3) a statement and explanation of the marine research needs and priorities applicable to the marine and coastal waters of the regionover the upcoming 10-year period with emphasis on the upcoming 3-to-5 year period;
 
 &emsp;(4) an assessment of how the plan will incorporate existing marine, coastal, and estuarine research and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title; and
 

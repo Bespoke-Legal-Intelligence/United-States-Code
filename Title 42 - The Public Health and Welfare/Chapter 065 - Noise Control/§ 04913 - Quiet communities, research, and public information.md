@@ -34,7 +34,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;(4) conduct of studies and demonstrations to determine the resource and personnel needs of States and local governments required for the establishment and implementation of effective noise abatement and control programs; and
 
-&emsp;&emsp;(5) development of education and training materials and programs, including national and regional workshops, to support State and local noise abatement and control programs;
+&emsp;&emsp;(5) development of education and training materials and programs, including nationaland regional workshops, to support State and local noise abatement and control programs;
 
 > &emsp;except that no actions, plans or programs hereunder shall be inconsistent with existing Federal authority under this chapter to regulate sources of noise in interstate commerce;
 
@@ -58,5 +58,5 @@ In subsec. (b)(2), "section 44715 of title 49" substituted for reference to sect
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration ofQuiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
+<b>1978</b>—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration of Quiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
 

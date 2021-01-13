@@ -1,6 +1,6 @@
 ### §4139. Relationship to other remedies
 
-(a)(1) A grievant may not file a grievance with the Board if the grievant has formally requested, prior to filing a grievance, that the matter or matters which are the basis of thegrievance be considered or resolved and relief be provided under another provision of law, regulation, or Executive order, other than under section 1214 or 1221 of title 5, and the matter has been carried to final decision under such provision on its merits or is still under consideration.
+(a)(1) A grievant may not file a grievance with the Board if the grievant has formally requested, prior to filing a grievance, that the matter or matters which are the basis of the grievance be considered or resolved and relief be provided under another provision of law, regulation, or Executive order, other than under section 1214 or 1221 of title 5, and the matter has been carried to final decision under such provision on its merits or is still under consideration.
 
 (2) If a grievant is not prohibited from filing a grievance under paragraph (1), the grievant may file with the Board a grievance which is also eligible for consideration, resolution, and relief under chapter 12 of title 5 or a regulation or Executive order other than under this subchapter. An election of remedies under this subsection shall be final upon the acceptance of jurisdiction by the Board.
 
@@ -22,6 +22,8 @@
 
 (Pub. L. 96–465, title I, §1109, Oct. 17, 1980, 94 Stat. 2148; Pub. L. 101–12, §9(a)(3), Apr. 10, 1989, 103 Stat. 35; Pub. L. 102–138, title I, §153(d)(1), Oct. 28, 1991, 105 Stat. 673.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–138, §153(d)(1)(A), (B), redesignated former subsec. (a) as par. (1), redesignated former subsec. (b) as par. (2) of subsec. (a) and substituted "paragraph (1)" for "subsection (a) of this section" and "under this subsection" for "under this section", and added par. (3).
@@ -30,9 +32,11 @@ Subsec. (b). Pub. L. 102–138, §153(d)(1)(C), added subsec. (b). Former subsec
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–12 substituted "1214 or 1221" for "1206".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section 4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
+Amendment by Pub. L. 102–138 not applicable with respect to any grievance, within the meaning of section4131 of this title, arising before Oct. 28, 1991, see section 153(f) of Pub. L. 102–138, set out as a note under section 4115 of this title.
 
 #### Effective Date of 1989 Amendment
 

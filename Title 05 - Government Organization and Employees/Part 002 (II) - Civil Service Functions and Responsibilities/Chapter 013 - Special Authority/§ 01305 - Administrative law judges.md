@@ -26,6 +26,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 1305 to correct a typographical error.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–362 struck out "require reports by agencies, issue reports, including an annual report to Congress," after "may investigate,".
@@ -35,6 +37,8 @@ This section amends 5 U.S.C. 1305 to correct a typographical error.
 <b>1978</b>—Pub. L. 95–454 substituted provisions respecting functions pursuant to specified sections of this title of the Office of Personnel Management and the Merit Systems Protection Board for provisions respecting the functions pursuant to specified sections of this title of the Civil Service Commission.
 
 Pub. L. 95–251 substituted "Administrative law judges" for "Hearing examiners" in section catchline and "administrative law judges" for "hearing examiners" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

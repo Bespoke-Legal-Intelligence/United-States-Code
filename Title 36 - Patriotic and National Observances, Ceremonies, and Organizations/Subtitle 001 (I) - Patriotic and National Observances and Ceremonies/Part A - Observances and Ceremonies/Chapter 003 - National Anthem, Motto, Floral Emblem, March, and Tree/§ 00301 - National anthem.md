@@ -42,6 +42,8 @@ Mar. 3, 1931, ch. 436, 46 Stat. 1508.
 
 June 22, 1942, ch. 435, §6, 56 Stat. 380; Dec. 22, 1942, ch. 806, §6, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, §1(18), 90 Stat. 812.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(1)(A) to (C). Pub. L. 110–417 added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:

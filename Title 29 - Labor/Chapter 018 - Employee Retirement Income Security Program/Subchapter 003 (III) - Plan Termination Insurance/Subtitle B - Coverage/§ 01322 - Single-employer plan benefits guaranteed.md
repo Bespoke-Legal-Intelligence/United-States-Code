@@ -8,7 +8,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 (1) Except to the extent provided in paragraph (7)—
 
-&emsp;(A) no benefits provided by a plan which has been in effect for less than 60 months at thetime the plan terminates shall be guaranteed under this section, and
+&emsp;(A) no benefits provided by a plan which has been in effect for less than 60 months at the time the plan terminates shall be guaranteed under this section, and
 
 &emsp;(B) any increase in the amount of benefits under a plan resulting from a plan amendment which was made, or became effective, whichever is later, within 60 months before the date on which the plan terminates shall be disregarded.
 
@@ -50,7 +50,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 (6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
-(B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) oftitle 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
+(B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
 
 (7) Benefits described in paragraph (1) are guaranteed only to the extent of the greater of—
 
@@ -60,7 +60,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 > multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
-(8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title) is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
+(8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title)is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
 
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
@@ -112,7 +112,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 #### (h) Special rule for plans electing certain funding requirements
 
-If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
+If any plan makes an election under section 402(a)(1) of the Pension Protection Act of 2006 and is terminated effective before the end of the 10-year period beginning on the first day of the first applicable plan year—
 
 &emsp;(1) this section shall be applied—
 
@@ -126,7 +126,9 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 &emsp;&emsp;(B) the amount determined under paragraph (1).
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B),Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -178,13 +180,15 @@ Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
 Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted "(7)" for "(8)", struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years ending after Aug. 17, 2006, see section 402(j) of Pub. L. 109–280, set out as a Special Funding Rules for Certain Plans Maintained by Commercial Airlines note under section 430 of Title 26, Internal Revenue Code.
 
 Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005."
 
-Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendments made this section \[amending this section and section 1344 of thistitle\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\]."
 
 Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
 
@@ -192,7 +196,7 @@ Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8,1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\]."
 

@@ -142,7 +142,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (14) Low-income family
 
-&emsp;The term "low-income family" means a family whose income does not exceed 80 percent ofthe median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;The term "low-income family" means a family whose income does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may, for purposes of this paragraph, establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the findings of the Secretary or the agency that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 #### (15) Median income
 
@@ -218,15 +218,17 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (C) Establishment
 
-&emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
+&emsp;&emsp;A tribally designated housing entity may be authorized or established by one or moreIndian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
 (Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, §3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, §2, Oct. 12, 2010, 124 Stat. 2850.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467,which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -251,6 +253,8 @@ The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (
 Par. (12)(B). Pub. L. 105–256 substituted "Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)" for "Indian Self-Determination and Education Assistance Act of 1975".
 
 Par. (12)(C)(i)(II). Pub. L. 105–276, §595(e)(2), substituted "705" for "107".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

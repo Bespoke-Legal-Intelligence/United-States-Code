@@ -34,7 +34,7 @@ In any action brought under subsection (a), upon a finding of liability on the p
 
 &emsp;(2) the costs of the action, plus
 
-&emsp;(3) in the case of a plaintiff which is described in section 7430(c)(4)(A)(ii), reasonable attorneys fees, except that if the defendant is the United States, reasonable attorneys fees may be awarded only if the plaintiff is the prevailing party (as determined under section 7430(c)(4)).
+&emsp;(3) in the case of a plaintiff which is described in section 7430(c)(4)(A)(ii), reasonableattorneys fees, except that if the defendant is the United States, reasonable attorneys fees may be awarded only if the plaintiff is the prevailing party (as determined under section 7430(c)(4)).
 
 #### (d) Period for bringing action
 

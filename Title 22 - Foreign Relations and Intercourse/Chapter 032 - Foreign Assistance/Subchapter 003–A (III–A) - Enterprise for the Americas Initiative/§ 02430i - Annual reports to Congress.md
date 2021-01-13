@@ -4,6 +4,8 @@ The annual reports submitted pursuant to section 1738m of title 7 shall include 
 
 (Pub. L. 87–195, pt. IV, §710, as added Pub. L. 102–549, title VI, §602(a), Oct. 28, 1992, 106 Stat. 3669; amended Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 710 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 465, amended section 276 of this title and enacted provisions set out as a note under section 276 of this title, prior to repeal by Pub. L. 87–565, pt. IV, §401, Aug. 1, 1962, 76 Stat. 263, except insofar as section 710 affected section 276.
@@ -11,6 +13,8 @@ A prior section 710 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 465, am
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to section 1738m of title 7.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

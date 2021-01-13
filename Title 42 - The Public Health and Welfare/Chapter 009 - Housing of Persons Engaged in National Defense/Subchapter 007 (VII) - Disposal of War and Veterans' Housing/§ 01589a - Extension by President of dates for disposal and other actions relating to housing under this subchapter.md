@@ -1,6 +1,6 @@
 ### §1589a. Extension by President of dates for disposal and other actions relating to housing under this subchapter
 
-Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuant thereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
+Notwithstanding any other provision of law, the President is authorized to extend, for such period or periods as he shall specify, the time within which any action is required or permitted to be taken by the Secretary of Housing and Urban Development or others under the provisions of this subchapter or section 1553 of this title (or any contract entered into pursuantthereto), upon a determination by him, after considering the needs of national defense and the effect of such extension upon the general housing situation and the national economy, that such extension is in the public interest.
 
 (Oct. 14, 1940, ch. 862, title VI, §611, as added Sept. 1, 1951, ch. 378, title VI, §603(d), 65 Stat. 314; amended July 14, 1952, ch. 723, §6, 66 Stat. 603; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
@@ -40,7 +40,7 @@ This order supersedes Executive Order 10284, dated September 1, 1951.
 
 Ex. Ord. No. 10385, Aug. 16, 1952, 17 F.R. 7525, provided:
 
-The time stipulated in section 313 of the said act approved October 14, 1940, as amended \[section 1553 of thistitle\], within which, subject to the qualifications stated in the said section 313 \[section 1553 of this title\], housing of a temporary character under the jurisdiction of the Housing and Home Finance Administrator and constructed under certain laws must be removed is hereby extended from December 31, 1952, to July 1, 1954.
+The time stipulated in section 313 of the said act approved October 14, 1940, as amended \[section 1553 of this title\], within which, subject to the qualifications stated in the said section 313 \[section 1553 of this title\], housing of a temporary character under the jurisdiction of the Housing and Home Finance Administrator and constructed under certain laws must be removed is hereby extended from December 31, 1952, to July 1, 1954.
 
 #### Ex. Ord. No. 10395. Extension of Time
 

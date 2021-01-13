@@ -12,9 +12,13 @@ Section consolidates certain provisions of sections 41(3) and 371(4) of title 28
 
 Changes were made in arrangement and phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

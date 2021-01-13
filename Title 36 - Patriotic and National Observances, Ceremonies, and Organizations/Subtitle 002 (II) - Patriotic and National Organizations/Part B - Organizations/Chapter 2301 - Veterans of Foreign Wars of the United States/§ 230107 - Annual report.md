@@ -22,7 +22,9 @@ May 28, 1936, ch. 471, §8, 49 Stat. 1391; Aug. 30, 1964, Pub. L. 88–504, §4(
 
 The word "submit" is substituted for "make and transmit" for consistency in the revised title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
 

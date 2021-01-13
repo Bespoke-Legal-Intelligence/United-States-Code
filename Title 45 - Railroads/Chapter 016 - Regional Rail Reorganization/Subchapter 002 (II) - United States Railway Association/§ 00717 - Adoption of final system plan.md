@@ -2,9 +2,9 @@
 
 #### (a) Preliminary system plan
 
-(1) Within 420 days after January 2, 1974, the Association shall adopt and release a preliminary system plan prepared by it on the basis of reports and other information submitted to it by the Secretary, the Office, and interested persons in accordance with this chapter and on the basis of its own investigations, consultations, research, evaluation, and analysis pursuant to this chapter. Copies of the preliminary system plan shall be transmitted by the Association to the Secretary, the Office, the Governor and public utility commission of each State in the region, the Congress, each court having jurisdiction over a railroad in reorganization in the region, the special court, and interested persons, and a copy shall be published in the Federal Register. The Association shall invite and afford interested persons an opportunity to submit comments on the preliminary system plan to the Association within 60 days after the date of its release.
+(1) Within 420 days after January 2, 1974, the Association shall adopt and release a preliminary system plan prepared by it on the basis of reports and other information submitted to it by the Secretary, the Office, and interested personsin accordance with this chapter and on the basis of its own investigations, consultations, research, evaluation, and analysis pursuant to this chapter. Copies of the preliminary system plan shall be transmitted by the Association to the Secretary, the Office, the Governor and public utility commission of each State in the region, the Congress, each court having jurisdiction over a railroad in reorganization in the region, the special court, and interested persons, and a copy shall be published in the Federal Register. The Association shall invite and afford interested persons an opportunity to submit comments on the preliminary system plan to the Association within 60 days after the date of its release.
 
-(2) The Office is authorized and directed to hold public hearings on the preliminary system plan and to make available to the Association a summary and analysis of the evidence received in the course of such proceedings, together with its critique and evaluation of the preliminarysystem plan, not later than 60 days after the date of release of such plan. The Office is authorized to hold public hearings on any supplement to the preliminary system plan and to make available to the Association a summary and analysis of the evidence received in the course of such proceedings, together with its critique and evaluation of such supplement, not later than 30 days after the release of such supplement.
+(2) The Office is authorized and directed to hold public hearings on the preliminary system plan and to make available to the Association a summary and analysis of the evidence received in the course of such proceedings, together with its critique and evaluation of the preliminary system plan, not later than 60 days after the date of release of such plan. The Office is authorized to hold public hearings on any supplement to the preliminary system plan and to make available to the Association a summary and analysis of the evidence received in the course of such proceedings, together with its critique and evaluation of such supplement, not later than 30 days after the release of such supplement.
 
 #### (b) Approval
 
@@ -22,6 +22,8 @@ Within 30 days following the adoption of the final system plan by the Associatio
 
 (Pub. L. 93–236, title II, §207, Jan. 2, 1974, 87 Stat. 998; Pub. L. 93–488, §1(a), (b), Oct. 26, 1974, 88 Stat. 1464; Pub. L. 94–5, §4, Feb. 28, 1975, 89 Stat. 7.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), (2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 94–5, §4(a), designated existing provisions as par. (1) 
 <b>1974</b>—Subsec. (a)(1). Pub. L. 93–488, §1(a), substituted "420" for "300".
 
 Subsec. (c). Pub. L. 93–488, §1(b), substituted "540" for "420".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

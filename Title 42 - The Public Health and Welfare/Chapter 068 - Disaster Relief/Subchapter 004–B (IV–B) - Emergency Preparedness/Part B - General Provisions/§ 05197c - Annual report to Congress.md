@@ -1,6 +1,6 @@
 ### §5197c. Annual report to Congress
 
-The Administrator shall annually submit a written report to the President and Congress covering expenditures, contributions, work, and accomplishments of the Federal Emergency Management Agency pursuant to this subchapter, accompanied by such recommendations as the Administrator considers appropriate.
+The Administrator shall annually submit a written report to the President and Congresscovering expenditures, contributions, work, and accomplishments of the Federal Emergency Management Agency pursuant to this subchapter, accompanied by such recommendations as the Administrator considers appropriate.
 
 (Pub. L. 93–288, title VI, §624, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3110; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 

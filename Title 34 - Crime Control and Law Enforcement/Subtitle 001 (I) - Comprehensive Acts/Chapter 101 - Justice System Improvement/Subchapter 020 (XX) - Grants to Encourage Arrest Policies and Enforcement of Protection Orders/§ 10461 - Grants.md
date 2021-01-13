@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this subchapter is to encourage States, Indian tribal governments, State andlocal courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.
+The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.
 
 #### (b) Grant authority
 
@@ -24,7 +24,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(8) To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence <sup>1</sup> dating violence, sexual assault, and stalking against older individuals (as defined in section 3002 of title 42) and individuals with disabilities (as defined in section 12102(2) of title 42).
 
-&emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
+&emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions incases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
 &emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from victim service providers, staff from population specific organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
@@ -58,6 +58,10 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;&emsp;(C) providing ongoing victim advocacy and referrals to comprehensive services including legal, housing, health care, and economic assistance.
 
+&emsp;(23) To develop, strengthen, and implement policies, protocols, and training for law enforcement regarding cases of missing or murdered Indians, as described in section 5704 of title 25.
+
+&emsp;(24) To compile and annually report data to the Attorney General related to missing or murdered Indians, as described in section 5705 of title 25.
+
 #### (c) Eligibility
 
 Eligible grantees are—
@@ -74,7 +78,7 @@ Eligible grantees are—
 
 &emsp;&emsp;(C) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both parties file a claim and the court makes detailed findings of fact indicating that both parties acted primarily as aggressors and that neither party acted primarily in self-defense;
 
-&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
+&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking,or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
 
 &emsp;&emsp;(E) certify that,<sup>2</sup> their laws, policies, or practices will ensure that—
 
@@ -120,7 +124,9 @@ Of the amounts appropriated for purposes of this subchapter for each fiscal year
 
 Of the amounts appropriated for purposes of this subchapter for each fiscal year, not less than 25 percent shall be available for projects that address sexual assault, including stranger rape, acquaintance rape, alcohol or drug-facilitated rape, and rape within the context of an intimate partner relationship.
 
-(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, §102(a)(1), Mar. 7, 2013, 127 Stat. 70.)
+(Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, §102(a)(1), Mar. 7, 2013, 127 Stat. 70; Pub. L. 116–165, §7(a), Oct. 10, 2020, 134 Stat. 764.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -135,6 +141,8 @@ Section was formerly classified to section 3796hh of Title 42, The Public Health
 A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 10541 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(23), (24). Pub. L. 116–165 added pars. (23) and (24).
 
 <b>2013</b>—Subsec. (b). Pub. L. 113–4, §102(a)(1)(A)(i), in introductory provisions, substituted "grantees" for "States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government".
 
@@ -220,11 +228,13 @@ Subsec. (b)(8). Pub. L. 106–386, §1209(b), added par. (8).
 
 Subsec. (c). Pub. L. 106–386, §1102(b)(3), inserted "State and local courts (including juvenile courts)," after "Indian tribal governments" in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: "certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena."
+Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: "certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, thatthe abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena."
 
 Subsec. (d). Pub. L. 106–386, §1101(b)(2)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 106–386, §1102(b)(4), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

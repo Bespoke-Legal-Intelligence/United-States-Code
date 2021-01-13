@@ -36,7 +36,7 @@
 
 (3) The Librarian of Congress may exclude from the operation of this chapter an employee under the Library of Congress whose employment is temporary or of uncertain duration.
 
-(4) The Director or Acting Director of the Botanic Garden may exclude from the operation ofthis chapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
+(4) The Director or Acting Director of the Botanic Garden may exclude from the operation of this chapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
 
 (5) The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate each may exclude from the operation of this chapter a Congressional employee—
 
@@ -69,6 +69,8 @@
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 21, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,6 +122,8 @@ Subsec. (e). Pub. L. 100–659 added subsec. (e).
 
 <b>1986</b>—Subsec. (c)(5), (6). Pub. L. 99–556 added pars. (5) and (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "magistrate judge" substituted for "magistrate" wherever appearing in subsec. (e) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -162,7 +166,7 @@ Pub. L. 106–168, title II, §202(c), Dec. 12, 1999, 113 Stat. 1819, provided t
 
 &emsp;"(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act \[Act Dec. 23, 1913, ch. 6, see Codification note set out under 12 U.S.C. 241\];
 
-&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
+&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of suchbenefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
 
 &emsp;"(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
 

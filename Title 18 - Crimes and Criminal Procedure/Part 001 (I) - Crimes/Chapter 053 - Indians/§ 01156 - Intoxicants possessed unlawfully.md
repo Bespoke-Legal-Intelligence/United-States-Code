@@ -26,6 +26,8 @@ Minor changes were made in phraseology.
 
 This section \[section 28\] adds to section 1156 of title 18, U.S.C., a paragraph to conform this section and section 1154 of such title more closely to the laws relating to intoxicating liquors in the Indian country as they have been heretofore construed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" after "first offense, be" and for "fined not more than $2,000" after "subsequent offense, be" in first par.

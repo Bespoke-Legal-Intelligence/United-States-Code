@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–581, title II, §202(c), Oct. 21, 1976, 90 Stat. 2855, inserted ", NURSING HOME," in subchapter heading.
@@ -33,7 +35,8 @@
 - [&sect; 01720C - Noninstitutional alternatives to nursing home care](%C2%A7%2001720C%20-%20Noninstitutional%20alternatives%20to%20nursing%20home%20care.md)
 - [&sect; 01720D - Counseling and treatment for sexual trauma](%C2%A7%2001720D%20-%20Counseling%20and%20treatment%20for%20sexual%20trauma.md)
 - [&sect; 01720E - Nasopharyngeal radium irradiation](%C2%A7%2001720E%20-%20Nasopharyngeal%20radium%20irradiation.md)
-- [&sect; 01720F - Comprehensive program for suicide prevention among veterans](%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans.md)
+- [&sect; 01720F - Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces](%C2%A7%2001720F%20-%20Comprehensive%20program%20for%20suicide%20prevention%20among%20veterans%20and%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces.md)
 - [&sect; 01720G - Assistance and support services for caregivers](%C2%A7%2001720G%20-%20Assistance%20and%20support%20services%20for%20caregivers.md)
-- [&sect; 01720H - Mental health treatment for veterans who served in classified missions](%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20who%20served%20in%20classified%20missions.md)
+- [&sect; 01720H - Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions](%C2%A7%2001720H%20-%20Mental%20health%20treatment%20for%20veterans%20and%20members%20of%20the%20reserve%20components%20of%20the%20Armed%20Forces%20who%20served%20in%20classified%20missions.md)
 - [&sect; 01720I - Mental and behavioral health care for certain former members of the Armed Forces](%C2%A7%2001720I%20-%20Mental%20and%20behavioral%20health%20care%20for%20certain%20former%20members%20of%20the%20Armed%20Forces.md)
+- [&sect; 01720J - Emergent suicide care](%C2%A7%2001720J%20-%20Emergent%20suicide%20care.md)

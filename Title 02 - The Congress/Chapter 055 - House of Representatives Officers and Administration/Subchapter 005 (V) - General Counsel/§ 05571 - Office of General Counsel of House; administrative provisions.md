@@ -24,6 +24,8 @@ The provisions of this section shall become effective beginning with September 2
 
 (Pub. L. 106–57, title I, §101, Sept. 29, 1999, 113 Stat. 414; Pub. L. 107–273, div. A, title II, §202(b)(5), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 108–7, div. H, title I, §110(a), Feb. 20, 2003, 117 Stat. 355.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 130f of this title prior to editorial reclassification and renumbering as this section.
@@ -35,6 +37,8 @@ Section is from the Congressional Operations Appropriations Act, 2000, which is 
 <b>2003</b>—Subsec. (b). Pub. L. 108–7 amended Pub. L. 107–273. See 2002 Amendment note below.
 
 <b>2002</b>—Pub. L. 107–273, as amended by Pub. L. 108–7, substituted "as required by section 530D of title 28" for "with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the House to direct the General Counsel to intervene as a party in such proceeding pursuant to applicable rules of the House of Representatives".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -30,7 +30,7 @@ Subsection (a) shall not apply with respect to the following:
 
 &emsp;&emsp;&emsp;(i) consults with the appropriate congressional committees regarding the specific programs, projects, and activities to be carried out using such assistance; and
 
-&emsp;&emsp;&emsp;(ii) submits to the appropriate congressional committees a written memorandumthat contains the determination of the President under subparagraph (A).
+&emsp;&emsp;&emsp;(ii) submits to the appropriate congressional committees a written memorandum that contains the determination of the President under subparagraph (A).
 
 #### (c) Marking requirement
 
@@ -58,13 +58,19 @@ In this section:
 
 (Pub. L. 87–195, pt. III, §620L, as added Pub. L. 109–446, §3(a), Dec. 21, 2006, 120 Stat. 3320.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (c), and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

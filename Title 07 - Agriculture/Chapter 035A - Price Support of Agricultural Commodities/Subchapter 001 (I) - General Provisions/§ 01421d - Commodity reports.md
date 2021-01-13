@@ -40,7 +40,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification ofthe 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 Section is comprised of section 2514 of Pub. L. 101–624. Subsec. (d) of section 2514 of Pub. L. 101–624 repealed section 411a of this title.
 

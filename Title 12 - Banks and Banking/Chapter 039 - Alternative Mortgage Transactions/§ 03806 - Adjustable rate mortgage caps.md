@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any adjustable rate mortgage loan originated by a creditor shall include a limitation on the maximum interest rate that may apply during the term of the mortgage loan.
+Any adjustable rate mortgage loan originated by a creditor shall include a limitation on themaximum interest rate that may apply during the term of the mortgage loan.
 
 #### (b) Regulations
 
@@ -25,6 +25,8 @@ For the purpose of this section—
 This section shall take effect upon the expiration of 120 days after August 10, 1987.
 
 (Pub. L. 100–86, title XII, §1204, Aug. 10, 1987, 101 Stat. 662; Pub. L. 102–550, title IX, §952, Oct. 28, 1992, 106 Stat. 3893.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

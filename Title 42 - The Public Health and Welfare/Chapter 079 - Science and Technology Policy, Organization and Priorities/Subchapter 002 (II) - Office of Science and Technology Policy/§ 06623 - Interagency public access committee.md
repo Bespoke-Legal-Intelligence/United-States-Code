@@ -20,7 +20,7 @@ The working group shall—
 
 &emsp;(6) solicit input and recommendations from, and collaborate with, non-Federal stakeholders, including the public, universities, nonprofit and for-profit publishers, libraries, federally funded and non federally <sup>1</sup> funded research scientists, and other organizations and institutions with a stake in long term preservation and access to the results of federally funded research;
 
-&emsp;(7) establish priorities for coordinating the development of any Federal science agencypolicies related to public access to the results of federally funded research to maximize the benefits of such policies with respect to their potential economic or other impact on the science and engineering enterprise and the stakeholders thereof;
+&emsp;(7) establish priorities for coordinating the development of any Federal science agency policies related to public access to the results of federally funded research to maximize the benefits of such policies with respect to their potential economic or other impact on the science and engineering enterprise and the stakeholders thereof;
 
 &emsp;(8) take into consideration the distinction between scholarly publications and digital data;
 

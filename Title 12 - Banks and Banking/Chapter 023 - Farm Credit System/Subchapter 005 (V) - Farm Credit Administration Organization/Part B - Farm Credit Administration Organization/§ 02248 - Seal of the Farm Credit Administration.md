@@ -4,6 +4,8 @@ The Farm Credit Administration shall have a seal, as adopted by the Board, which
 
 (Pub. L. 92–181, title V, §5.13, formerly §5.14, Dec. 10, 1971, 85 Stat. 620; renumbered §5.13 and amended Pub. L. 99–205, title II, §201(3), Dec. 23, 1985, 99 Stat. 1690.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5.13 of Pub. L. 92–181 was classified to section 2247 of this title prior to repeal by Pub. L. 99–205, title II, §201(2), Dec. 23, 1985, 99 Stat. 1690.
@@ -11,6 +13,8 @@ A prior section 5.13 of Pub. L. 92–181 was classified to section 2247 of this 
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–205 substituted "Board" for "Governor".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

@@ -14,7 +14,7 @@
 
 #### (2) Government checks; certain other checks
 
-&emsp;Funds deposited in an account at a depository institution by check shall be available for withdrawal not later than the business day after the business day on which such funds are deposited in the case of—
+&emsp;Funds deposited in an account at a depository institution by check shall be available forwithdrawal not later than the business day after the business day on which such funds are deposited in the case of—
 
 &emsp;&emsp;(A) a check which—
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) is deposited in a receiving depository institution which is staffed by individuals employed by such institution;
 
-&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check,certified check, teller's check, or depository check, as the case may be; and
+&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check, certified check, teller's check, or depository check, as the case may be; and
 
 &emsp;&emsp;&emsp;(iii) is endorsed only by the person to whom it was issued.
 
@@ -162,7 +162,9 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086; Pub. L. 115–174, title II, §208(a)(2), May 24, 2018, 132 Stat. 1312.)
+(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, §1086(a), (e), July 21, 2010, 124Stat. 2085, 2086; Pub. L. 115–174, title II, §208(a)(2), May 24, 2018, 132 Stat. 1312.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -185,6 +187,8 @@ Subsec. (e)(2) to (4). Pub. L. 102–242, §227(a), (b)(1)(B), redesignated pars
 Subsec. (e)(1)(C). Pub. L. 101–625, §1001(2), substituted "prior to the expiration of the 2-year period beginning on November 28, 1990" for "before September 1, 1990".
 
 Subsec. (e)(2)(D). Pub. L. 101–625, §1001(3), substituted "the expiration of the 2-year period beginning on November 28, 1990" for "September 1, 1990".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

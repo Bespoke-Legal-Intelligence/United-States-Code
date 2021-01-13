@@ -42,7 +42,7 @@
 
 (1) The authority contained in this section shall be effective for any such emergency only upon prior notification to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Appropriations of each House of Congress. In the case of drawdowns authorized by subclauses (I) and (III) of subsection (a)(2)(A)(i), notifications shall be provided to those committees at least 15 days in advance of the drawdowns in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
-(2) The President shall keep the Congress fully and currently informed of all defense articles,defense services, and military education and training provided under this section, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Such report shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets.
+(2) The President shall keep the Congress fully and currently informed of all defense articles, defense services, and military education and training provided under this section, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Such report shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets.
 
 #### (c) Commercial transportation and related services
 
@@ -54,15 +54,13 @@ There are authorized to be appropriated to the President such sums as may be nec
 
 (Pub. L. 87–195, pt. II, §506, formerly §510, Sept. 4, 1961, 75 Stat. 437; Pub. L. 87–565, pt. II, §201(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. II, §202(c), Dec. 16, 1963, 77 Stat. 384; Pub. L. 88–633, pt. II, §201(e), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 89–171, pt. II, §201(g), Sept. 6, 1965, 79 Stat. 658; Pub. L. 89–583, pt. II, §201(d), Sept. 19, 1966, 80 Stat. 803; renumbered §506 and amended Pub. L. 90–137, pt. II, §201(j), Nov. 14, 1967, 81 Stat. 457; Pub. L. 90–554, pt. II, §201(b), Oct. 8, 1968, 82 Stat. 962; Pub. L. 91–175, pt. II, §202, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. II, §201(d), pt. III, §304(a)(2), Feb. 7, 1972, 86 Stat. 25, 28; Pub. L. 93–189, §12(b)(4), Dec. 17, 1973, 87 Stat. 721; Pub. L. 93–559, §11, Dec. 30, 1974, 88 Stat. 1798; Pub. L. 94–329, title I, §102, June 30, 1976, 90 Stat. 730; Pub. L. 96–92, §5(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 96–533, title I, §112(c), Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §110(b), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 101–167, title V, §551(b), Nov. 21, 1989, 103 Stat. 1236; Pub. L. 104–164, title I, §103(a), (b), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §576, Nov. 26, 1997, 111 Stat. 2433; Pub. L. 106–280, title I, §121, Oct. 6, 2000, 114 Stat. 850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (a)(1)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Migration and Refugee Assistance Act of 1962, referred to in subsec. (a)(2)(A)(i)(V), is Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, which is classified principally to chapter 36 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
-
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -121,6 +119,14 @@ Subsec. (c). Pub. L. 96–92 incorporated reimbursement provision of former subs
 <b>1963</b>—Subsec. (a). Pub. L. 88–205 substituted "1964" for "1963" wherever appearing.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–565 substituted "1963" for "1962" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

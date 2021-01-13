@@ -30,7 +30,7 @@ For the purposes of this section, each State shall provide by law for the regist
 
 #### (e) Change of residence; voting in person or by absentee ballot in State of prior residence
 
-If any citizen of the United States who is otherwise qualified to vote in any State or political subdivision in any election for President and Vice President has begun residence in such State or political subdivision after the thirtieth day next preceding such election and, for that reason, does not satisfy the registration requirements of such State or political subdivision he shall be allowed to vote for the choice of electors for President and Vice President, or for President and Vice President, in such election, (1) in person in the State or political subdivision in which he resided immediately prior to his removal if he had satisfied, as of the date of his change of residence, the requirements to vote in that State or political subdivision, or (2) by absentee ballot in the State or political subdivision in which he resided immediately prior to his removal if he satisfies, but for his nonresident status and the reason for his absence, the requirements for absentee voting in that State or political subdivision.
+If any citizen of the United States who is otherwise qualified to vote in any State or political subdivision in any election for President and Vice President has begun residence in such State or political subdivision after the thirtieth day next preceding such election and, for that reason, does not satisfy the registration requirements of such State or political subdivision he shall be allowed to vote for the choice of electors for President and Vice President, or for President and Vice President, in such election,\(1) in person in the State or political subdivision in which he resided immediately prior to his removal if he had satisfied, as of the date of his change of residence, the requirements to vote in that State or political subdivision, or (2) by absentee ballot in the State or political subdivision in which he resided immediately prior to his removal if he satisfies, but for his nonresident status and the reason for his absence, the requirements for absentee voting in that State or political subdivision.
 
 #### (f) Absentee registration requirement
 
@@ -49,6 +49,8 @@ The term "State" as used in this section includes each of the several States and
 The provisions of section 10307(c) of this title shall apply to false registration, and other fraudulent acts and conspiracies, committed under this section.
 
 (Pub. L. 89–110, title II, §202, as added Pub. L. 91–285, §6, June 22, 1970, 84 Stat. 316.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

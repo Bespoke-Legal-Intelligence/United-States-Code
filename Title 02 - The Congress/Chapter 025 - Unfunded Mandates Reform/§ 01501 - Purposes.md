@@ -24,13 +24,17 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(B) requiring that Federal agencies prepare and consider estimates of the budgetary impact of regulations containing Federal mandates upon State, local, and tribal governments and the private sector before adopting such regulations, and ensuring that small governments are given special consideration in that process; and
 
-&emsp;(8) to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
+&emsp;(8) to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations ofFederal statutes and regulations that impose Federal intergovernmental mandates.
 
 (Pub. L. 104–4, §2, Mar. 22, 1995, 109 Stat. 48.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

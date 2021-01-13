@@ -1,8 +1,10 @@
 ### §615. Books and records
 
-Every agent of a foreign principal registered under this subchapter shall keep and preserve while he is an agent of a foreign principal such books of account and other records with respect to all his activities, the disclosure of which is required under the provisions of this subchapter, in accordance with such business and accounting practices, as the Attorney General, having due regard for the national security and the public interest, may by regulation prescribe as necessary or appropriate for the enforcement of the provisions of this subchapter and shall preserve the same for a period of three years following the termination of such status. Until regulations are in effect under this section every agent of a foreign principal shall keep books of account and shall preserve all written records with respect to his activities. Such books and records shall be open at all reasonable times to the inspection of any official charged with the enforcement of this subchapter. It shall be unlawful for any person willfully to conceal, destroy, obliterate, mutilate, or falsify, or to attempt to conceal, destroy, obliterate, mutilate, or falsify, or to cause to be concealed, destroyed, obliterated, mutilated, or falsified, any books or records required to be kept under the provisions of this section.
+Every agent of a foreign principal registered under this subchapter shall keep and preserve while he is an agent of a foreign principal such books of account and other records with respect to all his activities, the disclosure of which is required under the provisions of this subchapter, in accordance with such business and accounting practices, as the Attorney General, having due regard for the national security and the public interest, may by regulation prescribe as necessary or appropriate for the enforcement of the provisions of this subchapter and shall preserve the same for a period of three years following the termination of such status. Until regulations are in effect under this section every agent of a foreign principal shall keep books of account and shall preserve all written records with respect to his activities. Such books and recordsshall be open at all reasonable times to the inspection of any official charged with the enforcement of this subchapter. It shall be unlawful for any person willfully to conceal, destroy, obliterate, mutilate, or falsify, or to attempt to conceal, destroy, obliterate, mutilate, or falsify, or to cause to be concealed, destroyed, obliterated, mutilated, or falsified, any books or records required to be kept under the provisions of this section.
 
 (June 8, 1938, ch. 327, §5, 52 Stat. 633; Apr. 29, 1942, ch. 263, §1, 56 Stat. 256; Pub. L. 89–486, §5, July 4, 1966, 80 Stat. 247.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -13,6 +15,8 @@ Prior to general amendment of act June 8, 1938, by act Apr. 29, 1942, section re
 <b>1966</b>—Pub. L. 89–486 inserted "in accordance with such business and accounting practices," after "under the provisions of this subchapter,".
 
 <b>1942</b>—Act Apr. 29, 1942, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

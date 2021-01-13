@@ -288,7 +288,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (C) Coordination with emergency homeownership counseling program
 
-&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) withthe demonstration program under this subsection.
+&emsp;&emsp;The Secretary may coordinate the provision of assistance under subsection (c) with the demonstration program under this subsection.
 
 #### (D) Eligibility for counseling
 
@@ -346,7 +346,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;(i) is an adult;
 
-&emsp;&emsp;&emsp;(ii) has not worked full-time, full-year in the labor force for a number of years, but has during such years, worked primarily without remuneration to care for the home and family; and
+&emsp;&emsp;&emsp;(ii) has not worked full-time, full-year in the labor force for a number of years, but has during such years, worked primarilywithout remuneration to care for the home and family; and
 
 &emsp;&emsp;&emsp;(iii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -360,7 +360,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;(i) (and whose spouse) has had no ownership in a principal residence during the 3-year period ending on the date of purchase of the home pursuant to which counseling is provided under this subsection;
 
-&emsp;&emsp;&emsp;(ii) is a displaced homemaker who, except for owning a residence with his or herspouse or residing in a residence owned by the spouse, meets the requirements of clause (i); or
+&emsp;&emsp;&emsp;(ii) is a displaced homemaker who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse, meets the requirements of clause (i); or
 
 &emsp;&emsp;&emsp;(iii) is a single parent who, except for owning a residence with his or her spouse or residing in a residence owned by the spouse while married, meets the requirements of clause (i).
 
@@ -430,7 +430,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (1) Establishment
 
-&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
+&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriateentity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
 
 #### (2) Eligibility and selection
 
@@ -594,7 +594,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (A) In general
 
-&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, including through programs sponsored by the Secretary of Housing and Urban Development.
+&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, includingthrough programs sponsored by the Secretary of Housing and Urban Development.
 
 #### (B) Contact information
 
@@ -686,7 +686,7 @@ For purposes of this section:
 
 #### (2) Misuse of funds
 
-&emsp;If any organization or entity that receives any covered assistance is determined by theSecretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
+&emsp;If any organization or entity that receives any covered assistance is determined by the Secretary to have used any covered assistance in a manner that is materially in violation of this section, the regulations issued under this section, or any requirements or conditions under which such assistance was provided—
 
 &emsp;&emsp;(A) the Secretary shall require that, within 12 months after the determination of such misuse, the organization or entity shall reimburse the Secretary for such misused amounts and return to the Secretary any such amounts that remain unused or uncommitted for use; and
 
@@ -699,6 +699,8 @@ For purposes of this section:
 &emsp;For purposes of this subsection, the term "covered assistance" means any grant or other financial assistance provided under this section.
 
 (Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1981, 95 Stat. 417; Pub. L. 98–181, title I \[title IV, §465\], Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336; Pub. L. 110–289, div. B, title I, §2127, July 30, 2008, 122 Stat. 2841; Pub. L. 111–203, title XIV, §§1443–1445, 1448, 1449, July 21, 2010, 124 Stat. 2165–2171, 2173, 2174.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -830,7 +832,7 @@ Subsec. (c). Pub. L. 100–242, §169(b), added subsec. (c).
 
 <b>1977</b>—Subsec. (a)(2). Pub. L. 95–128 authorized the Secretary to provide the services for other owners of single family dwelling units insured under subchapter II of this chapter.
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter orthe United States Housing Act of 1937, and added cl. (iv).
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–383, §811(b)(1), (c), in cl. (iii) substituted provisions authorizing counseling and advice to tenants and homeowners with respect to property maintenance, etc., for provisions authorizing counseling on household management, self-help, etc., for families receiving assistance under this chapter or the United States Housing Act of 1937, and added cl. (iv).
 
 Subsec. (a)(2). Pub. L. 93–383, §811(b)(2), added par. (2). Former par. (2) redesignated (3).
 
@@ -841,6 +843,8 @@ Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to publ
 <b>1970</b>—Subsec. (a). Pub. L. 91–609, §903(a), designated existing provisions as par. (1), inserted provision respecting specific authorities without limitation to such authorities, redesignated former par. (1) as cl. (i), struck out introductory text relating to assistance with respect to construction, rehabilitation, and operation by nonprofit organizations of housing for low or moderate income families now incorporated in cl. (i), redesignated former par. (2) as cl. (ii), inserting therein provision for assistance to public bodies or to nonprofit or cooperative organizations, including assistance with respect to self-help and mutual self-help programs, and added cl. (iii) and par. (2).
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted "section 1715z of this title or any other federally assisted program" for "any federally assisted program" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -946,7 +950,7 @@ Goal.—The goal of the pilot project grants under this subsection is to—
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary suchsums as are necessary to carry out this section and for the provision of additional financial educational services.
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section and for the provision of additional financial educational services.
 
 "(f)
 

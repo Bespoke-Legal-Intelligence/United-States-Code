@@ -32,6 +32,8 @@ Whistleblower Disclosure Defined.—In this section, the term "whistleblower dis
 
 (Added Pub. L. 115–41, title I, §102(a)(3), June 23, 2017, 131 Stat. 866.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.

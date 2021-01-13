@@ -86,21 +86,25 @@ Definitions.—In this section:
 
 (Added Pub. L. 112–249, §1(a)(1), Jan. 10, 2013, 126 Stat. 2398; amended Pub. L. 115–48, title III, §303, Aug. 16, 2017, 131 Stat. 991; Pub. L. 115–407, title I, §104, Dec. 31, 2018, 132 Stat. 5371.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Executive Order No. 13607, referred to in subsec. (d)(1), is set out as a note under section 3301 of this title.
 
 #### Prior Provisions
 
-A prior section 3698, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1589, §1798; amended Pub. L. 94–502, title V, §§502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, §104(3), title II, §202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, §201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§203(4), 213(4), title VI, §§601(h), 603(b), title VIII, §801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, §2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, §4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, §204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, §124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50; renumbered §3698 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, §306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
+A prior section 3698, added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1589, §1798; amended Pub.L. 94–502, title V, §§502(a), 513(a)(23), Oct. 15, 1976, 90 Stat. 2399, 2403; Pub. L. 95–202, title I, §104(3), title II, §202, Nov. 23, 1977, 91 Stat. 1435, 1438; Pub. L. 95–476, title II, §201, Oct. 18, 1978, 92 Stat. 1502; Pub. L. 96–466, title II, §§203(4), 213(4), title VI, §§601(h), 603(b), title VIII, §801(g), Oct. 17, 1980, 94 Stat. 2189, 2191, 2208, 2209, 2216; Pub. L. 97–35, title XX, §2005(d), Aug. 13, 1981, 95 Stat. 783; Pub. L. 97–295, §4(60), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §208, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–543, title II, §204(3), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 100–689, title I, §124(b), Nov. 18, 1988, 102 Stat. 4174; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50; renumbered §3698 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406, related to eligibility for loans under former subchapter III of this chapter, prior to repeal by Pub. L. 108–183, title III, §306(e), (h)(2), Dec. 16, 2003, 117 Stat. 2661, effective 90 days after Dec. 16, 2003.
 
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1)(C)(xii). Pub. L. 115–407 added cl. (xii).
 
 <b>2017</b>—Subsec. (c)(1)(C)(xi). Pub. L. 115–48 added cl. (xi).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Survey and Report; Definitions
 

@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 "Presentation of recognition items for retention purposes".

@@ -54,7 +54,7 @@ An award under subsection (a) shall be expended for activities to achieve the pr
 
 &emsp;&emsp;(A) include one or more hospitals that are participants in the National Disaster Medical System;
 
-&emsp;&emsp;(B) are located in a geographic area that faces a high degree of risk, as determined bythe Secretary in consultation with the Secretary of Homeland Security; or
+&emsp;&emsp;(B) are located in a geographic area that faces a high degree of risk, as determined by the Secretary in consultation with the Secretary of Homeland Security; or
 
 &emsp;&emsp;(C) have a significant need for funds to achieve the preparedness and response goals described in section 300hh–1(b)(3) of this title.
 
@@ -126,7 +126,7 @@ A political subdivision shall not participate in more than one coalition describ
 
 #### (A) In general
 
-&emsp;&emsp;From amounts appropriated for a fiscal year under paragraph (1)(A) and not reservedunder paragraph (1)(B)(i) or (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
+&emsp;&emsp;From amounts appropriated for a fiscal year under paragraph (1)(A) and not reserved under paragraph (1)(B)(i) or (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
 
 #### (B) Amount
 
@@ -136,7 +136,7 @@ A political subdivision shall not participate in more than one coalition describ
 
 #### (A) In general
 
-&emsp;&emsp;Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remaining unobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.
+&emsp;&emsp;Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remainingunobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.
 
 #### (B) Funds contingent on achieving benchmarks
 

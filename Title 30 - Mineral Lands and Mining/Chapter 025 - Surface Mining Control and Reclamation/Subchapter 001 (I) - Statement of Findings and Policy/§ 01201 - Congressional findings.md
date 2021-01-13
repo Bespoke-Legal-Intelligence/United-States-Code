@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;(h) there are a substantial number of acres of land throughout major regions of the United States disturbed by surface and underground coal on which little or no reclamation was conducted, and the impacts from these unreclaimed lands impose social and economic costs on residents in nearby and adjoining areas as well as continuing to impair environmental quality;
 
-&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed to serve as a basis for effective and reasonable regulation of such operations;
+&emsp;(i) while there is a need to regulate surface mining operations for minerals other than coal, more data and analyses are needed toserve as a basis for effective and reasonable regulation of such operations;
 
 &emsp;(j) surface and underground coal mining operations affect interstate commerce, contribute to the economic well-being, security, and general welfare of the Nation and should be conducted in an environmentally sound manner; and
 
@@ -26,9 +26,17 @@ The Congress finds and declares that—
 
 (Pub. L. 95–87, title I, §101, Aug. 3, 1977, 91 Stat. 447.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (e), (f), and (k), was in the original "this Act", meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended section 1114 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. Y, §1, Dec. 27, 2020, 134 Stat. 2417, provided that: "This division \[amending section 1232 of this title and enacting provisions set out as a note under section 1232 of this title\] may be cited as the 'American Miner Benefits Improvement Act of 2020'."
 
 #### Short Title of 2019 Amendment
 
@@ -54,7 +62,7 @@ Pub. L. 101–498, §1, Nov. 2, 1990, 104 Stat. 1207, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
+Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: "This Act \[amending sections 1221, 1222, 1224, 1226, 1229, and 1230 of this title and enacting provisions set out as notes under this section and section 1229 of this title\] may be cited as the Mining and Mineral Resources Research Institute Amendments of 1988."
 
 #### Short Title
 

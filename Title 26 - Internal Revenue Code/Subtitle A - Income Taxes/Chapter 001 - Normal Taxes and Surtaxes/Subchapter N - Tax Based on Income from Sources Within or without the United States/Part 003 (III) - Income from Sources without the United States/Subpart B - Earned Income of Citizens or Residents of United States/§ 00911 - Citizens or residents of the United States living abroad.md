@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (6) Denial of double benefits
 
-&emsp;No deduction or exclusion from gross income under this subtitle or credit against the taximposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
+&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
 
 #### (7) Aggregate benefit cannot exceed foreign earned income
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (A) Regular tax
 
-&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's netcapital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
+&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
 
@@ -431,7 +431,7 @@ Subsecs. (d) to (f). Pub. L. 94–455, §1011(b)(3), added subsecs. (d) and (e) 
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "which constitute earned income attributable to services performed during such uninterrupted period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (1), and "which constitute earned income attributable to services performed during such 18-month period" for "if such amounts constitute earned income (as defined in subsection (b)) attributable to such period" in par. (2), inserted provisions in pars. (1) and (2) requiring the amount excluded under such paragraphs to be computed by applying the special rules contained in subsec. (c), and eliminated provisions from par. (2) which limited the amount excluded under such paragraph to not more than $20,000 if the 18-month period includes the entire taxable year, and to not more than an amount which bears the same ratio to $20,000 as the number of days in the part of the taxable year within the 18-month period bears to the total number of days in such year if the 18-month period does not include the entire taxable year.
 
-Subsecs. (c) and (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 87–834 added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
@@ -523,7 +523,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title X, §1011(d), Oct. 4, 1976, 90 Stat. 1611, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: "The amendments made by this section \[amending this section and section 36 of this title\] shall apply to taxable years beginning after December 31, 1977."
+Pub. L. 94–455, title X, §1011(d), Oct. 4, 1976, 90 Stat. 1611, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: "The amendments made by this section \[amending this section and section 36 ofthis title\] shall apply to taxable years beginning after December 31, 1977."
 
 Amendment by section 1901(a)(115) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -575,5 +575,5 @@ General Rule.—As soon as practicable after December 31, 1993, and as soon as p
 
 "(b)
 
-Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 ofsuch Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
+Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a)."
 

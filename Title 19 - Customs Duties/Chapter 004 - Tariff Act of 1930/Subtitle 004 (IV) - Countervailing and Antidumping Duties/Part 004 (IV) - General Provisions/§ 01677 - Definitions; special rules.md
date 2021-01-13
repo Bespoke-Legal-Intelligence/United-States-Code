@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (B) Related parties
 
-&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subjectmerchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
+&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subject merchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
 
 &emsp;&emsp;(ii) For purposes of clause (i), a producer and an exporter or importer shall be considered to be related parties, if—
 
@@ -152,11 +152,11 @@ For purposes of this subtitle—
 
 #### (D) Domestic subsidy
 
-&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact,to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
+&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact, to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -214,7 +214,7 @@ For purposes of this subtitle—
 
 #### (II) Precompetitive development activity
 
-&emsp;&emsp;&emsp;&emsp;The term "precompetitive development activity" means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilotprojects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
+&emsp;&emsp;&emsp;&emsp;The term "precompetitive development activity" means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilot projects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
 
 #### (iii) Calculation rules
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -472,11 +472,11 @@ For purposes of this subtitle—
 
 #### (iv) Regional industry determinations
 
-&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisionsof clause (iii) shall apply to such investigations.
+&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -548,7 +548,7 @@ For purposes of this subtitle—
 
 #### (12) Attribution of merchandise to country of manufacture or production
 
-&emsp;For purposes of part I of this subtitle, merchandise shall be treated as the product of the country in which it was manufactured or produced without regard to whether it is imported directly from that country and withoutregard to whether it is imported in the same condition as when exported from that country or in a changed condition by reason of remanufacture or otherwise.
+&emsp;For purposes of part I of this subtitle, merchandise shall be treated as the product of the country in which it was manufactured or produced without regard to whether it is imported directly from that country and without regard to whether it is imported in the same condition as when exported from that country or in a changed condition by reason of remanufacture or otherwise.
 
 #### (13) Repealed. Pub. L. 103–465, title II, §222(i)(2), Dec. 8, 1994, 108 Stat. 4876
 
@@ -632,7 +632,7 @@ For purposes of this subtitle—
 
 #### (E) Collection of information
 
-&emsp;&emsp;Upon request by the administering authority, the Commissioner of U.S. Customs andBorder Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
+&emsp;&emsp;Upon request by the administering authority, the Commissioner of U.S. Customs and Border Protection shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of U.S. Customs and Border Protection that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
 
 #### (19) Equivalency of leases to sales
 
@@ -672,9 +672,9 @@ For purposes of this subtitle—
 
 &emsp;The term "United States-Canada Agreement" means the United States-Canada Free-Trade Agreement.
 
-#### (22) NAFTA
+#### (22) USMCA
 
-&emsp;The term "NAFTA" means the North American Free Trade Agreement.
+&emsp;The term "USMCA" has the meaning given that term in section 4502 of this title.
 
 #### (23) Entry
 
@@ -702,7 +702,7 @@ For purposes of this subtitle—
 
 #### (iv) Negligibility in threat analysis
 
-&emsp;&emsp;&emsp;Notwithstanding clauses (i) and (ii), the Commission shall not treat imports as negligible if it determines that there is a potential that imports from a country described in clause (i) will imminently account for more than 3 percent of the volume of all such merchandise imported into the United States, or that the aggregate volumes of imports from all countries described in clause (ii) will imminently exceed 7 percent of the volume of all such merchandise imported into the United States. The Commission shall considersuch imports only for purposes of determining threat of material injury.
+&emsp;&emsp;&emsp;Notwithstanding clauses (i) and (ii), the Commission shall not treat imports as negligible if it determines that there is a potential that imports from a country described in clause (i) will imminently account for more than 3 percent of the volume of all such merchandise imported into the United States, or that the aggregate volumes of imports from all countries described in clause (ii) will imminently exceed 7 percent of the volume of all such merchandise imported into the United States. The Commission shall consider such imports only for purposes of determining threat of material injury.
 
 #### (B) Negligibility for certain countries in countervailing duty investigations
 
@@ -788,7 +788,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) in making a preliminary determination under section 1673b(a) of this title in an investigation (including any investigation in which the Commission cumulatively assesses the volume and effect of imports under paragraph (7)(G)(i)), the dumping margin or margins published by the administering authority in its notice of initiation of the investigation;
 
-&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, thedumping margin or margins most recently published by the administering authority prior to the closing of the Commission's administrative record;
+&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, the dumping margin or margins most recentlypublished by the administering authority prior to the closing of the Commission's administrative record;
 
 &emsp;&emsp;&emsp;(iii) in a review under section 1675(b)(2) of this title, the most recent dumping margin or margins determined by the administering authority under section 1675a(c)(3) of this title, if any, or under section 1673b(b) or 1673d(a) of this title; and
 
@@ -824,7 +824,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–27, title V, §§503, 504(a), June 29, 2015, 129 Stat. 384, 385; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–27, title V, §§503, 504(a), June 29, 2015, 129 Stat. 384, 385; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title IV, §422(b), Jan. 29, 2020, 134 Stat. 65.)
 
 #### Amendment of Section
 
@@ -843,6 +843,8 @@ The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title.
 
 #### Amendments
+
+<b>2020</b>—Par. (22). Pub. L. 116–113 added par. (22) and struck out former par. (22) which defined "NAFTA" as the North American Free Trade Agreement.
 
 <b>2015</b>—Par. (7)(C)(iii)(I). Pub. L. 114–27, §503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,".
 
@@ -1040,13 +1042,17 @@ Par. (17). Pub. L. 98–573, §612(a)(5), substituted "commercial quantities" fo
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under section 1516a of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by section 412(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3431 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -1082,9 +1088,9 @@ All functions of the Secretary of the Treasury under this subtitle were transfer
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-#### Effect of Termination of NAFTA Country Status
+#### Effect of Termination of USMCA Country Status
 
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

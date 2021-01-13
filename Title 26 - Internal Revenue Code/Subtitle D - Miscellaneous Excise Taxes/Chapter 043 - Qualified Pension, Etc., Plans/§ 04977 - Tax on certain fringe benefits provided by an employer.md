@@ -38,7 +38,7 @@ All employees treated as employed by a single employer under subsection (b), (c)
 
 Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
 
-(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L. 99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
+(Added Pub. L. 98–369, div. A, title V, §531(e)(1), July 18, 1984, 98 Stat. 885; amended Pub. L.99–514, title XVIII, §1853(c)(1), (2), Oct. 22, 1986, 100 Stat. 2871; Pub. L. 103–66, title XIII, §13213(d)(3)(D), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1704(t)(66), Aug. 20, 1996, 110 Stat. 1890.)
 
 #### Amendments
 

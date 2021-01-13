@@ -24,7 +24,7 @@ Except as provided in subsection (d)(2), the risk-based premium to be assessed u
 
 #### (B) Default management plan
 
-&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit to the Secretary for approval, an annual default management plan, that shall specify the detailed short-term and long-term procedures that such institution will have in place to minimize defaults on loans to borrowers under this subpart. Under such plan the institution shall, among other measures, provide an exit interview to all borrowers that includes information concerning repayment schedules, loan deferments, forbearance, and the consequences of default.
+&emsp;&emsp;An institution of the type described in subparagraph (A) shall prepare and submit tothe Secretary for approval, an annual default management plan, that shall specify the detailed short-term and long-term procedures that such institution will have in place to minimize defaults on loans to borrowers under this subpart. Under such plan the institution shall, among other measures, provide an exit interview to all borrowers that includes information concerning repayment schedules, loan deferments, forbearance, and the consequences of default.
 
 #### (3) High-risk rate
 

@@ -2,9 +2,9 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, on the public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
+&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, onthe public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
 
-&emsp;(2) the situation in Alaska is unique in that, in most cases, no practical alternative meansare available to replace the food supplies and other items gathered from fish and wildlife which supply rural residents dependent on subsistence uses;
+&emsp;(2) the situation in Alaska is unique in that, in most cases, no practical alternative means are available to replace the food supplies and other items gathered from fish and wildlife which supply rural residents dependent on subsistence uses;
 
 &emsp;(3) continuation of the opportunity for subsistence uses of resources on public and other lands in Alaska is threatened by the increasing population of Alaska, with resultant pressure on subsistence resources, by sudden decline in the populations of some wildlife species which are crucial subsistence resources, by increased accessibility of remote areas containing subsistence resources, and by taking of fish and wildlife in a manner inconsistent with recognized principles of fish and wildlife management;
 

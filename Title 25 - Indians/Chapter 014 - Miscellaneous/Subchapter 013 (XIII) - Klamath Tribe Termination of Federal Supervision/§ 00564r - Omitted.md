@@ -1,6 +1,8 @@
 ### §564r. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, act Aug. 13, 1954, ch. 732, §19, 68 Stat. 722, which related to termination of Federal powers overtribe, was omitted from the Code as being of special and not general application.
+Section, act Aug. 13, 1954, ch. 732, §19, 68 Stat. 722, which related to termination of Federal powers over tribe, was omitted from the Code as being of special and not general application.
 

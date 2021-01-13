@@ -18,9 +18,11 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 (2) The United States executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level IV of the Executive Schedule under section 5315 of title 5. The United States alternate executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level V of the Executive Schedule under section 5316 of title 5.
 
-(3) The Secretary of the Treasury shall instruct the United States executive director of the Fund to present to the Fund's Executive Board a comprehensive set of proposals, consistent with maintaining high levels of competence of Fund personnel and consistent with the Articles of Agreement, with the objective of assuring that salaries and other compensation accorded Fund employees do not exceed those received by persons filling similar levels of responsibility within national government service or private industry. The Secretary shall report these proposals together with any measures adopted by the Fund's Executive Board to the Congress prior to February 1, 1979.
+(3) The Secretary of the Treasury shall instruct the United States executive director of the Fund to present to the Fund's Executive Board a comprehensive set of proposals, consistent with maintaining high levels of competence of Fund personnel and consistent with the Articles of Agreement, with the objective of assuring that salaries and other compensation accorded Fund employees do not exceed those received by persons filling similar levels of responsibility within national government serviceor private industry. The Secretary shall report these proposals together with any measures adopted by the Fund's Executive Board to the Congress prior to February 1, 1979.
 
 (July 31, 1945, ch. 339, §3, 59 Stat. 512; Pub. L. 93–94, Aug. 15, 1973, 87 Stat. 314; Pub. L. 94–564, §2, Oct. 19, 1976, 90 Stat. 2660; Pub. L. 95–435, §2, Oct. 10, 1978, 92 Stat. 1051.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–94 substituted "and an alternate for the governor of the Bank" for "who shall also serve as alternate for the governor of the Bank".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

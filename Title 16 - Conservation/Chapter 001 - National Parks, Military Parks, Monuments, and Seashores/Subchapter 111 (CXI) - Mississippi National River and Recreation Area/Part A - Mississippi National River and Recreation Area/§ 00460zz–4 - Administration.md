@@ -6,7 +6,7 @@ The Secretary shall administer the Area in accordance with this part. Only those
 
 #### (b) State and local authorities
 
-The Secretary shall consult and cooperate with the State of Minnesota and its political subdivisions concerning the development and management of Federal lands within the Area.
+The Secretary shall consult and cooperate with the State of Minnesota and its politicalsubdivisions concerning the development and management of Federal lands within the Area.
 
 #### (c) Land acquisition
 
@@ -14,7 +14,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 &emsp;(1) Any lands or interests therein owned by the State of Minnesota or any political subdivision thereof may be acquired only by donation.
 
-&emsp;(2) Privately owned lands or interests therein may be acquired only with the consent ofthe owner thereof unless the Secretary makes a determination pursuant to subsection (d)(2). In no event may the Secretary use the authority provided in subsection (d)(3) to acquire land or interests in land without the owner's consent for any use exercised prior to January 1, 1987, that is consistent with the plan under section 460zz–2 of this title.
+&emsp;(2) Privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary makes a determination pursuant to subsection (d)(2). In no event may the Secretary use the authority provided in subsection (d)(3) to acquire land or interests in land without the owner's consent for any use exercised prior to January 1, 1987, that is consistent with the plan under section 460zz–2 of this title.
 
 #### (d) Review of local plans
 

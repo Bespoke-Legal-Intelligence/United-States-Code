@@ -32,11 +32,13 @@ The only change made in this section was the substitution of the "Director of th
 
 This amendment \[see section 57\] conforms the language of section 3656 of title 18, U.S.C., to that of title 28, U.S.C., section 604(a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of the Public Health Service Act, referred to in the seventh undesignated par., is classified to section 201 of Title 42, The Public Health and Welfare.
 
-This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
+This Act, referred to in the seventh undesignated par., probably means Pub. L. 110–199, Apr. 9, 2008, 122 Stat. 657, known as the Second Chance Act of 2007: Community Safety Through Recidivism Prevention and also as the Second Chance Act of 2007. For completeclassification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
 #### Amendments
 
@@ -56,6 +58,8 @@ Pub. L. 100–182, §20(2), added ninth undesignated par.: "Whenever the court f
 
 <b>1949</b>—Act May 24, 1949, inserted in fifth par. of section "and direction" after "supervision".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under section 3006A of this title.
@@ -73,6 +77,8 @@ For construction of amendments by Pub. L. 110–199 and requirements for grants 
 #### Authorization of Appropriations
 
 Pub. L. 95–537, §4(a), Oct. 27, 1978, 92 Stat. 2038, as amended by Pub. L. 98–236, §2, Mar. 20, 1984, 98 Stat. 66; Pub. L. 99–570, title I, §1861(d), Oct. 27, 1986, 100 Stat. 3207–53; Pub. L. 100–690, title VI, §6291, Nov. 18, 1988, 102 Stat. 4369; Pub. L. 101–421, §2, Oct. 12, 1990, 104 Stat. 909, authorized appropriations to carry out the purposes of Pub. L. 95–537 and the seventh par. of this section for the fiscal year ending Sept. 30, 1980, to the fiscal year ending Sept. 30, 1992.
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Increase in Compensation Rates
 

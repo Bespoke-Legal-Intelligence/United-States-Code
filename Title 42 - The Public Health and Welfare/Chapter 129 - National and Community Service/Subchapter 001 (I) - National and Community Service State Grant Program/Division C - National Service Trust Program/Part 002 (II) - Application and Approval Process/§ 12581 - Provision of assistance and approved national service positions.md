@@ -2,7 +2,7 @@
 
 #### (a) One percent allotment for certain territories
 
-Of the funds allocated by the Corporation for provision of assistance under section 12571(a) of this title for a fiscal year, the Corporation shall reserve 1 percent for grants to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval by the Corporation of an application submitted under section 12582 of this title. The Corporation shall allot for a grant to each such territory under this subsection for a fiscal year an amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory bears to the total population of all such territories.
+Of the funds allocated by the Corporation for provision of assistance under section 12571(a) of this title for a fiscal year, the Corporation shall reserve 1 percent for grants to the United StatesVirgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval by the Corporation of an application submitted under section 12582 of this title. The Corporation shall allot for a grant to each such territory under this subsection for a fiscal year an amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory bears to the total population of all such territories.
 
 #### (b) Allotment for Indian tribes
 
@@ -62,7 +62,7 @@ The Corporation shall make an allotment of assistance (including the provision o
 
 #### (h) Approval of positions subject to available funds
 
-The Corporation may not approve positions as approved national service positions under this division for a fiscal year in excess of the number of such positions for which the Corporation has sufficient available funds in the National Service Trust for that fiscal year, taking into consideration funding needs for national service educational awards under division D based on completed service. If appropriations are insufficient to provide the maximum allowable national service educational awards under division D for all eligible participants, the Corporation is authorized to make necessary and reasonable adjustments to program rules.
+The Corporation may not approve positions as approved national service positions under thisdivision for a fiscal year in excess of the number of such positions for which the Corporation has sufficient available funds in the National Service Trust for that fiscal year, taking into consideration funding needs for national service educational awards under division D based on completed service. If appropriations are insufficient to provide the maximum allowable national service educational awards under division D for all eligible participants, the Corporation is authorized to make necessary and reasonable adjustments to program rules.
 
 #### (i) Sponsorship of approved national service positions
 
@@ -100,7 +100,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (3) Remainder
 
-&emsp;The Chief Executive Officer may use the funds reserved under paragraph (1), and notdistributed to make grants under this subsection for other activities described in section 12681(a)(2) of this title.
+&emsp;The Chief Executive Officer may use the funds reserved under paragraph (1), and not distributed to make grants under this subsection for other activities described in section 12681(a)(2) of this title.
 
 #### (l) Authority for fixed-amount grants
 
@@ -138,7 +138,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;&emsp;(A) shall require the grant recipient—
 
-&emsp;&emsp;&emsp;(i) to return a pro rata amount of the grant funds based upon the difference between the number of hours served by a participant and the minimum number of hours for completion of a term of service (as established by the Corporation);
+&emsp;&emsp;&emsp;(i) to return a pro rata amount of the grant funds based upon the difference between the number of hours served by a participant and the minimum number ofhours for completion of a term of service (as established by the Corporation);
 
 &emsp;&emsp;&emsp;(ii) to report on the program's performance on standardized measures and performance levels established by the Corporation;
 

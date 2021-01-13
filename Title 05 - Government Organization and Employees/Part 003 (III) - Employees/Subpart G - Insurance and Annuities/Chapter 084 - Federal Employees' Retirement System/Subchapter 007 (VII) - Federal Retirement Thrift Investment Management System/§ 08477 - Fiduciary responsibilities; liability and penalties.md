@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) the price of the security prevailing on a national securities exchange which is registered under section 6 of the Securities Exchange Act of 1934; or
 
-&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price not less favorable to the Thrift Savings Fund than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
+&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price notless favorable to the Thrift Savings Fund than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
 
 &emsp;&emsp;(B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary of Labor;
 
@@ -114,7 +114,7 @@
 
 &emsp;(3) serving as a fiduciary in addition to being an officer, employee, agent, or other representative of a party in interest.
 
-(e)(1)(A) Any fiduciary that breaches the responsibilities, duties, and obligations set out in subsection (b) or violates subsection (c) shall be personally liable to the Thrift Savings Fund for any losses to such Fund resulting from each such breach or violation and to restore to such Fund any profits made by the fiduciary throughuse of assets of such Fund by the fiduciary, and shall be subject to such other equitable or remedial relief as a court considers appropriate, except as provided in paragraphs (3) and (4) of this subsection. A fiduciary may be removed for a breach referred to in the preceding sentence.
+(e)(1)(A) Any fiduciary that breaches the responsibilities, duties, and obligations set out in subsection (b) or violates subsection (c) shall be personally liable to the Thrift Savings Fund for any losses to such Fund resulting from each such breach or violation and to restore to such Fund any profits made by the fiduciary through use of assets of such Fund by the fiduciary, and shall be subject to such other equitable or remedial relief as a court considers appropriate, except as provided in paragraphs (3) and (4) of this subsection. A fiduciary may be removed for a breach referred to in the preceding sentence.
 
 (B) The Secretary of Labor may assess a civil penalty against a party in interest with respect to each transaction which is engaged in by the party in interest and is prohibited by subsection (c). The amount of such penalty shall be equal to 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of the Internal Revenue Code of 1986) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary of Labor shall prescribe by regulation consistent with section 4975(f)(5) of such Code) within 90 days after the date the Secretary of Labor transmits notice to the party in interest (or such longer period as the Secretary of Labor may permit), such penalty may be in an amount not more than 100 percent of the amount involved.
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;(ii) to enforce any claim otherwise cognizable under sections 1346(b) and 2671 through 2680 of title 28, provided that the remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any fiduciary while acting within the scope of his duties or employment shall be exclusive of any other civil action or proceeding by the participant or beneficiary for recovery of money by reason of the same subject matter against the fiduciary (or the estate of such fiduciary) whose act or omission gave rise to such action or proceeding, whether or not such action or proceeding is based on an alleged violation of subsection (b) or (c).
 
-(4)(A) In all civil actions under paragraph (3)(A), attorneys appointed by the Secretarymay represent the Secretary (except as provided in section 518(a) of title 28), however all such litigation shall be subject to the direction and control of the Attorney General.
+(4)(A) In all civil actions under paragraph (3)(A), attorneys appointed by the Secretary may represent the Secretary (except as provided in section 518(a) of title 28), however all such litigation shall be subject to the direction and control of the Attorney General.
 
 (B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
@@ -200,7 +200,7 @@
 
 (7)(A) The district courts of the United States shall have exclusive jurisdiction of civil actions under this subsection.
 
-(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a district court of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
+(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a districtcourt of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
 
 (8)(A) A copy of the complaint or petition filed in any action brought under this subsection (other than by the Secretary of Labor) shall be served on the Executive Director, the Secretary of Labor, and the Secretary of the Treasury by certified mail.
 
@@ -213,6 +213,8 @@
 (2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, §133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, §3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325; Pub. L. 111–31, div. B, title I, §106(b), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, §3, Dec. 18, 2014, 128 Stat. 2921.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -277,6 +279,8 @@ Subsec. (e)(5). Pub. L. 100–366, §3(a)(2), substituted "paragraph (3)" for "p
 Subsec. (e)(1)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 Subsec. (e)(1)(E)(i). Pub. L. 99–556, §114(b), substituted "Secretary of Labor (or the Board under section 114 of the Federal Employees' Retirement System Technical Corrections Act of 1986)" for "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendments
 

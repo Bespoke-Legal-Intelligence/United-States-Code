@@ -40,6 +40,8 @@ This section restates, clarifies and simplifies the procedure in the nature of t
 
 This amendment conforms language of section 2255 of title 28, U.S.C., with that of section 1651 of such title and makes it clear that the section is applicable in the district courts in the Territories and possessions.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 408 of the Controlled Substances Act, referred to in subsec. (g), is classified to section 848 of Title 21, Food and Drugs.
@@ -52,6 +54,8 @@ Section 408 of the Controlled Substances Act, referred to in subsec. (g), is cla
 
 <b>1949</b>—Act May 24, 1949, substituted "court established by Act of Congress" for "court of the United States" in first par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Approval and Effective Date of Rules Governing Section 2254 Cases and Section 2255 Proceedings For United States District Courts
 
 For approval and effective date of rules governing petitions under section 2254 and motions under section 2255 of this title filed on or after Feb. 1, 1977, see section 1 of Pub. L. 94–426, set out as a note under section 2074 of this title.
@@ -62,7 +66,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### <i>(Effective Feb. 1, 1977, as amended to Jan. 24, 2020)</i>
+#### <i>(Effective Feb. 1, 1977, as amended to Jan. 13, 2021)</i>
 
 Rule
 
@@ -206,7 +210,7 @@ Separate Motions for Separate Judgments. A moving party who seeks relief from mo
 
 #### Advisory Committee Note
 
-Under these rules the application for relief is in the form of a motion rather than a petition (see rule 1 andadvisory committee note). Therefore, there is no requirement that the movant name a respondent. This is consistent with 28 U.S.C. §2255. The United States Attorney for the district in which the judgment under attack was entered is the proper party to oppose the motion since the federal government is the movant's adversary of record.
+Under these rules the application for relief is in the form of a motion rather than a petition (see rule 1 and advisory committee note). Therefore, there is no requirement that the movant name a respondent. This is consistent with 28 U.S.C. §2255. The United States Attorney for the district in which the judgment under attack was entered is the proper party to oppose the motion since the federal government is the movant's adversary of record.
 
 If the movant is attacking a federal judgment which will subject him to future custody, he must be in present custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
 
@@ -242,7 +246,7 @@ A major difficulty in deciding whether rule 35 or §2255 is the proper remedy is
 
 The courts have been flexible in considering motions under circumstances in which relief might appear to be precluded by <i>Hill v. United States</i>. In <i>Peterson v. United States</i>, 432 F.2d 545 (8th Cir. 1970), the court was confronted with a motion for reduction of sentence by a prisoner claiming to have received a harsher sentence than his codefendants because he stood trial rather than plead guilty. He alleged that this violated his constitutional right to a jury trial. The court ruled that, even though it was past the 120-day time period for a motion to reduce sentence, the claim was still cognizable under rule 35 as a motion to correct an illegal sentence.
 
-The courts have made even greater use of §2255 in these types of situations. In <i>United States v. Lewis</i>, 392 F.2d 440 (4th Cir. 1968), the prisoner moved under §2255 and rule 35 for relief from a sentence he claimed was the result of the judge's misunderstanding of the relevant sentencing law. The court held that he could not get relief under rule 35 because it was past the 120 days for correction of a sentence imposed in an illegal manner and under <i>Hill v. United States</i> it was not an illegalsentence. However, §2255 was applicable because of its "otherwise subject to collateral attack" language. The flaw was not a mere trial error relating to the finding of guilt, but a rare and unusual error which amounted to "exceptional circumstances" embraced in §2255's words "collateral attack." See 368 U.S. at 444 for discussion of other cases allowing use of §2255 to attack the sentence itself in similar circumstances, especially where the judge has sentenced out of a misapprehension of the law.
+The courts have made even greater use of §2255 in these types of situations. In <i>United States v. Lewis</i>, 392 F.2d 440 (4th Cir. 1968), the prisoner moved under §2255 and rule 35 for relief from a sentence he claimed was the result of the judge's misunderstanding of the relevant sentencing law. The court held that he could not get relief under rule 35 because it was past the 120 days for correction of a sentence imposed in an illegal manner and under <i>Hill v. United States</i> it was not an illegal sentence. However, §2255 was applicable because of its "otherwise subject to collateral attack" language. The flaw was not a mere trial error relating to the finding of guilt, but a rare and unusual error which amounted to "exceptional circumstances" embraced in §2255's words "collateral attack." See 368 U.S. at 444 for discussion of other cases allowing use of §2255 to attack the sentence itself in similar circumstances, especially where the judge has sentenced out of a misapprehension of the law.
 
 In <i>United States v. McCarthy</i>, 433 F.2d 591, 592 (1st Cir. 1970), the court allowed a prisoner who was past the time limit for a proper rule 35 motion to use §2255 to attack the sentence which he received upon a plea of guilty on the ground that it was induced by an unfulfilled promise of the prosecutor to recommend leniency. The court specifically noted that under §2255 this was a proper collateral attack on the sentence and there was no need to attack the conviction as well.
 
@@ -294,7 +298,7 @@ Time to File. The time for filing a motion is governed by 28 U.S.C. §2255 para.
 
 (d)
 
-Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or bya notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit ofthis rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
 
 > (As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
@@ -340,7 +344,7 @@ Referral to a Judge. The clerk must promptly forward the motion to the judge who
 
 (b)
 
-Initial Consideration by the Judge. The judge who receives the motion must promptly examine it. If it plainly appears from the motion, any attached exhibits, and the record of prior proceedings that the moving party is not entitled to relief, the judge must dismiss the motion and direct the clerk to notify the moving party. If the motion is not dismissed, the judge must order the United States attorney to file an answer, motion, or other response within a fixed time, or to take other action the judge may order.
+Initial Consideration by the Judge. The judge who receives the motion must promptly examine it. If it plainly appears from the motion, any attached exhibits, and the record of prior proceedings that the moving party is not entitled to relief, the judge must dismiss the motion and direct the clerk to notify the moving party. If the motion is not dismissed, the judge must order the United States attorney to file an answer, motion, or other response withina fixed time, or to take other action the judge may order.
 
 > (As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
@@ -404,7 +408,7 @@ Reply. The moving party may file a reply to the respondent's answer or other ple
 
 #### Advisory Committee Note
 
-Unlike the habeas corpus statutes (see 28 U.S.C. §§2243, 2248) §2255 does not specifically call for a return or answer by the United States Attorney or set any time limits as to when one must be submitted. The general practice, however, if the motion is not summarily dismissed, is for the government to file an answer to the motion as well as counter-affidavits, when appropriate. Rule 4 provides for an answer to the motion by the United States Attorney, and rule 5 indicates what its contents should be.
+Unlike the habeas corpus statutes (see 28 U.S.C. §§2243, 2248) §2255 does not specifically call for a returnor answer by the United States Attorney or set any time limits as to when one must be submitted. The general practice, however, if the motion is not summarily dismissed, is for the government to file an answer to the motion as well as counter-affidavits, when appropriate. Rule 4 provides for an answer to the motion by the United States Attorney, and rule 5 indicates what its contents should be.
 
 There is no requirement that the movant exhaust his remedies prior to seeking relief under §2255. However, the courts have held that such a motion is inappropriate if the movant is simultaneously appealing the decision.
 
@@ -604,7 +608,7 @@ In <i>Aiken v. United States</i>, 191 F.Supp. 43, 50 (M.D.N.Car. 1961), aff'd 29
 
 There have been holdings by some courts that a delay in filing a §2255 motion operates to increase the burden of proof which the movant must meet to obtain relief. The reasons for this, as expressed in <i>United States v. Bostic</i>, 206 F.Supp. 855 (D.C.Cir. 1962), are equitable in nature.
 
-&emsp;Obviously, the burden of proof on a motion to vacate a sentence under 28 U.S.C. §2255 is on the moving party. . . . The burden is particularly heavy if the issue is one of fact and a long time has elapsed since the trial of the case. While neither the statute of limitations nor laches can bar the assertion of a constitutional right, nevertheless, the passage of timemay make it impracticable to retry a case if the motion is granted and a new trial is ordered. No doubt, at times such a motion is a product of an afterthought. Long delay may raise a question of good faith.
+&emsp;Obviously, the burden of proof on a motion to vacate a sentence under 28 U.S.C. §2255 is on the moving party. . . . The burden is particularly heavy if theissue is one of fact and a long time has elapsed since the trial of the case. While neither the statute of limitations nor laches can bar the assertion of a constitutional right, nevertheless, the passage of time may make it impracticable to retry a case if the motion is granted and a new trial is ordered. No doubt, at times such a motion is a product of an afterthought. Long delay may raise a question of good faith.
 
 #### 206 F.Supp. at 856–857
 
@@ -682,11 +686,11 @@ The language of Rule 10 has been amended as part of general restyling of the rul
 
 (a)
 
-Certificate of Appealability. The district court must issue or deny a certificate of appealability when it enters a final order adverse to the applicant. Before entering the final order, the court may direct the parties to submit arguments on whether a certificate should issue. If the court issues a certificate, the court must state the specific issue or issues that satisfy the showing required by 28 U.S.C. §2253(c)(2). If the court denies a certificate, a party may not appeal the denial but may seek a certificate from the court of appeals under Federal Rule of Appellate Procedure 22. A motion to reconsider a denial does not extend the time to appeal.
+Certificate of Appealability. The district court must issue or deny a certificate of appealability when it enters a final order adverse to the applicant. Before entering the final order, the court may direct the parties to submit arguments on whether a certificate should issue. If the court issues a certificate, the court must state the specific issue or issues that satisfy the showing required by 28 U.S.C. §2253(c)(2). If the court denies a certificate, a party may not appeal the denial but may seek a certificate from the court of appeals under Federal Rule ofAppellate Procedure 22. A motion to reconsider a denial does not extend the time to appeal.
 
 (b)
 
-Time to Appeal. Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. A timely noticeof appeal must be filed even if the district court issues a certificate of appealability. These rules do not extend the time to appeal the original judgment of conviction.
+Time to Appeal. Federal Rule of Appellate Procedure 4(a) governs the time to appeal an order entered under these rules. A timely notice of appeal must be filed even if the district court issues a certificate of appealability. These rules do not extend the time to appeal the original judgment of conviction.
 
 > (As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 26, 2004, eff. Dec. 1, 2004; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
@@ -746,7 +750,7 @@ The Federal Rules of Criminal Procedure, referred to in heading and text, are se
 
 #### APPENDIX OF FORMS
 
-[Image not captured: 2255p1.gif][Image not captured: 2255p2.gif][Image not captured: 2255p3.gif][Image not captured: 2255p4.gif][Image not captured: 2255p5.gif][Image not captured: 2255p6.gif][Image not captured: 2255p7.gif][Image not captured: 2255p8.gif][Image not captured: 2255p9.gif][Image not captured: 2255p10.gif][Image not captured: 2255p11.gif][Image not captured: 2255p12.gif][Image not captured: 2255p13.gif][Image not captured: 2255p14.gif]
+[Image not captured: 2255p1.png][Image not captured: 2255p2.png][Image not captured: 2255p3.png][Image not captured: 2255p4.png][Image not captured: 2255p5.png][Image not captured: 2255p6.png][Image not captured: 2255p7.png][Image not captured: 2255p8.png][Image not captured: 2255p9.png][Image not captured: 2255p10.png][Image not captured: 2255p11.png][Image not captured: 2255p12.png][Image not captured: 2255p13.png][Image not captured: 2255p14.png]
 
 #### IN FORMA PAUPERIS DECLARATION
 

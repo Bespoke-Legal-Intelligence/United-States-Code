@@ -26,7 +26,7 @@
 
 Subsec. (c). Pub. L. 114–328, §502(hh)(2), struck out subsec. (c) which read as follows: "The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary."
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out at end "For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade."
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out at end "For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526of this title, an officer so appointed shall be considered an additional number in grade."
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted "for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps" for "for promotion to the grade of rear admiral (lower half)" in first sentence.
 

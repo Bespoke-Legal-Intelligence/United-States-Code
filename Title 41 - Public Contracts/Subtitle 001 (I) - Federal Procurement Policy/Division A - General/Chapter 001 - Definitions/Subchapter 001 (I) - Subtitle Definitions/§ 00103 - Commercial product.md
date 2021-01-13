@@ -12,7 +12,7 @@ In this subtitle, the term "commercial product" means any of the following:
 
 &emsp;&emsp;(A) evolved from a product described in paragraph (1) through advances in technology or performance; and
 
-&emsp;&emsp;(B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
+&emsp;&emsp;(B) is not yet available in the commercial marketplace but will be available in thecommercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
 
 &emsp;(3) A product that would satisfy the criteria in paragraph (1) or (2) were it not for—
 
@@ -24,7 +24,7 @@ In this subtitle, the term "commercial product" means any of the following:
 
 &emsp;(5) A product, or combination of products, referred to in paragraphs (1) through (4), even though the product, or combination of products, is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-&emsp;(6) A nondevelopmental item if the procuring agency determines, in accordance withconditions in the Federal Acquisition Regulation, that—
+&emsp;(6) A nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that—
 
 &emsp;&emsp;(A) the product was developed exclusively at private expense; and
 
@@ -32,9 +32,13 @@ In this subtitle, the term "commercial product" means any of the following:
 
 (Added Pub. L. 115–232, div. A, title VIII, §836(a)(1), Aug. 13, 2018, 132 Stat. 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 103, Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3679; Pub. L. 115–91, div. A, title VIII, §847(a), Dec. 12, 2017, 131 Stat. 1487, defined term "commercial item", prior to repeal by Pub. L. 115–232, div. A, title VIII, §836(a)(1), Aug. 13, 2018, 132 Stat. 1859, effective Jan. 1, 2020. See Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

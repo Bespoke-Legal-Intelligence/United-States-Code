@@ -8,11 +8,11 @@ The Congress finds and declares the following:
 
 &emsp;(3) Significant improvements in the ability to forecast climate on an intermediate and long-term basis are possible.
 
-&emsp;(4) Information regarding climate is not being fully disseminated or used, and Federal efforts have given insufficient attention to assessing and applying this information.
+&emsp;(4) Information regarding climate is not being fully disseminated or used, and Federalefforts have given insufficient attention to assessing and applying this information.
 
 &emsp;(5) Climate fluctuation and change occur on a global basis, and deficiencies exist in the system for monitoring global climate changes. International cooperation for the purpose of sharing the benefits and costs of a global effort to understand climate is essential.
 
-&emsp;(6) The United States lacks a well-defined and coordinated program in climate-relatedresearch, monitoring, assessment of effects, and information utilization.
+&emsp;(6) The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
 
 (Pub. L. 95–367, §2, Sept. 17, 1978, 92 Stat. 601.)
 

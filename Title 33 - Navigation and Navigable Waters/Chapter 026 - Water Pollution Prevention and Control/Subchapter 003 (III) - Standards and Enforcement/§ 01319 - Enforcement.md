@@ -2,7 +2,7 @@
 
 #### (a) State enforcement; compliance orders
 
-(1) Whenever, on the basis of any information available to him, the Administrator finds thatany person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
+(1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
 (2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of "federally assumed enforcement"), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
@@ -22,7 +22,7 @@
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -30,7 +30,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;Any person who—
 
-&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, orany requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
+&emsp;&emsp;(A) negligently violates section 1311, 1312, 1316, 1317, 1318, 1321(b)(3), 1322(p), 1328, or 1345 of this title, or any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or any requirement imposed in a pretreatment program approved under section 1342(a)(3) or 1342(b)(8) of this title or in a permit issued under section 1344 of this title by the Secretary of the Army or by a State; or
 
 &emsp;&emsp;(B) negligently introduces into a sewer system or into a publicly owned treatment works any pollutant or hazardous substance which such person knew or reasonably should have known could cause personal injury or property damage or, other than in compliance with all applicable Federal, State, or local requirements or permits, which causes such treatment works to violate any effluent limitation or condition in any permit issued to the treatment works under section 1342 of this title by the Administrator or a State;
 
@@ -154,7 +154,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;Action taken by the Administrator or the Secretary, as the case may be, under this subsection shall not affect or limit the Administrator's or Secretary's authority to enforce any provision of this chapter; except that any violation—
 
-&emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
+&emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commencedand is diligently prosecuting an action under this subsection,
 
 &emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
 
@@ -212,7 +212,9 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
 
-(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859;amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
+(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -257,6 +259,8 @@ Subsec. (c)(1). Pub. L. 95–217, §67(c)(2)(C), substituted "by a State or in a
 Subsec. (d). Pub. L. 95–217, §§55(c), 67(c)(2)(D), substituted "1318, 1328, or 1345 of this title" for "or 1318 of this title" and inserted "or in a permit issued under section 1344 of this title by a State," after "permit issued under section 1342 of this title by the Administrator, or by a State,".
 
 Subsec. (f). Pub. L. 95–217, §54(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

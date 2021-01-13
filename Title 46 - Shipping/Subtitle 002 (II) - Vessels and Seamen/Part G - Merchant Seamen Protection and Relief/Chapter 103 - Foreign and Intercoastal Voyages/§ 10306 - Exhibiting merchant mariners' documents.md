@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 10306 requires a seaman to exhibit an appropriately endorsed merchant mariner's document to the shipping commissioner before signing a shipping agreement. When a master acts as a shipping commissioner, the same procedure applies.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–206 substituted "master or individual in charge" for "shipping commissioner".

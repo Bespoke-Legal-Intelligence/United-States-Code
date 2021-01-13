@@ -2,7 +2,7 @@
 
 (a) This section applies, according to the provisions thereof, when a hearing is required to be conducted in accordance with section 556 of this title.
 
-(b) When the agency did not preside at the reception of the evidence, the presiding employee or, in cases not subject to section 554(d) of this title, an employee qualified to preside at hearings pursuant to section 556 of this title, shall initially decide the case unless the agency requires, either in specific cases or by general rule, the entire record to be certified to it for decision. When the presiding employee makes an initial decision, that decision then becomes the decision of the agency without further proceedings unless there is an appeal to, or review on motion of, the agency within time provided by rule. On appeal from or review of the initial decision, the agency has all the powers which it would have in making the initial decision except as it may limit the issues on notice or by rule. When the agency makes the decision without having presided at the reception of the evidence, the presiding employee or an employee qualifiedto preside at hearings pursuant to section 556 of this title shall first recommend a decision, except that in rule making or determining applications for initial licenses—
+(b) When the agency did not preside at the reception of the evidence, the presiding employee or, in cases not subject to section 554(d) of this title, an employee qualified to preside at hearings pursuant to section 556 of this title, shall initially decide the case unless the agency requires, either in specific cases or by general rule, the entire record to be certified to it for decision. When the presiding employee makes an initial decision, that decision then becomes the decision of the agency without further proceedings unless there is an appeal to, or review on motion of, the agency within time provided by rule. On appeal from or review of the initial decision, the agency has all the powers which it would have in making the initial decision except as it may limit the issues on notice or by rule. When the agency makes the decision without having presided at the reception of the evidence, the presiding employee or an employee qualified to preside at hearings pursuant to section 556 of this title shall first recommend a decision, except that in rule making or determining applications for initial licenses—
 
 &emsp;(1) instead thereof the agency may issue a tentative decision or one of its responsible employees may recommend a decision; or
 
@@ -64,6 +64,8 @@ In subsection (c), the word "employees" is substituted for "officers" in view of
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 557 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2207 of Title 7, Agriculture.
@@ -73,6 +75,8 @@ Section 557a of former Title 5, Executive Departments and Government Officers an
 #### Amendments
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–409 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

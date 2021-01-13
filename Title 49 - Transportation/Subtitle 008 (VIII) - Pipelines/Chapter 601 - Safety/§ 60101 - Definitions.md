@@ -26,7 +26,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(C) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
 
-&emsp;(5) "hazardous liquid pipeline facility" includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
+&emsp;(5) "hazardous liquid pipeline facility" includes a pipeline, a right of way, a facility, abuilding, or equipment used or intended to be used in transporting hazardous liquid;
 
 &emsp;(6) "interstate gas pipeline facility" means a gas pipeline facility—
 
@@ -128,7 +128,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 &emsp;(ii) is not bound by a classification the Commission establishes under the Natural Gas Act (15 U.S.C. 717 et seq.).
 
-(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, andthe composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
+(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standardsdefining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
 
 (B)(i) The Secretary also shall consider diameter when defining "regulated gathering line" for hazardous liquid.
 
@@ -358,6 +358,12 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted ", if appropria
 
 Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. R, §1(a), Dec. 27, 2020, 134 Stat. 2210, provided that: "This division \[enacting sections 60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60105, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60105, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020' or the 'PIPES Act of 2020'."
+
+Pub. L. 116–260, div. R, title II, §201, Dec. 27, 2020, 134 Stat. 2237, provided that: "This title \[amending sections 60102, 60105, and 60109 of this title and enacting provisions set out as notes under sections 60103 and 60105 of this title\] may be cited as the 'Leonel Rondon Pipeline Safety Act'."
+
 #### Short Title of 2016 Amendment
 
 Pub. L. 114–183, §1(a), June 22, 2016, 130 Stat. 514, provided that: "This Act \[enacting sections 60141 and 60302 of this title, amending this section and sections 6107, 60103, 60106 to 60109, 60115, 60117, 60124, 60125, and 60130 of this title, enacting provisions set out as notes under sections 108, 60102, 60103, 60108, 60109, and 60117 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2016' or the 'PIPES Act of 2016'."
@@ -376,11 +382,71 @@ Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–304, §1, Oct. 12, 1996, 110 Stat. 3793, provided that: "This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the 'Accountable Pipeline Safety and Partnership Act of 1996'."
+Pub. L. 104–304, §1, Oct. 12, 1996, 110 Stat. 3793, provided that: "This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section60301 of this title\] may be cited as the 'Accountable Pipeline Safety and Partnership Act of 1996'."
+
+#### Rule of Construction
+
+Pub. L. 116–260, div. R, title I, §123, Dec. 27, 2020, 134 Stat. 2236, provided that: "Nothing in this title \[enacting sections 60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] or an amendment made by this title may be construed to affect the authority of the Administrator of the Environmental Protection Agency under the Clean Air Act (42 U.S.C. 7401 et seq.), the authority of the Secretary of the Interior under the Mineral Leasing Act (30 U.S.C. 181 et seq.), or the authority of any State, to regulate a release of pollutants or hazardous substances to air, water, or land, including through the establishment and enforcement of requirements relating to such release."
 
 #### Transfer of Functions
 
 For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+
+#### Pipeline Workforce Development
+
+Pub. L. 116–260, div. R, title I, §102, Dec. 27, 2020, 134 Stat. 2214, provided that:
+
+"(a)
+
+Inspector Training.—Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Administrator \[of the Pipeline and Hazardous Materials Safety Administration\] shall—
+
+&emsp;"(1) review the inspector training programs provided at the Inspector Training and Qualifications Division of the Administration in Oklahoma City, Oklahoma; and
+
+&emsp;"(2) determine whether any of the programs referred to in paragraph (1), or any portions of the programs, could be provided online through teletraining or another type of distance learning.
+
+"(b)
+
+Staffing.—
+
+&emsp;"(1)
+
+In general.—The Secretary \[of Transportation\] shall increase the number of full-time equivalent employees (as compared to the number of positions on the date of enactment of this Act) by 8 full-time employees with subject matter expertise in pipeline safety, pipeline facilities, and pipeline systems to finalize outstanding rulemakings and fulfill congressional mandates.
+
+&emsp;"(2)
+
+Pipeline inspection and enforcement personnel.—The Secretary shall ensure that the number of full-time positions for pipeline inspection and enforcement personnel in the Office of Pipeline Safety of the Administration does not fall below the following:
+
+&emsp;&emsp;"(A) 224 for fiscal year 2021.
+
+&emsp;&emsp;"(B) 235 for fiscal year 2022.
+
+&emsp;&emsp;"(C) 247 for fiscal year 2023.
+
+"(c)
+
+Recruitment and Retention Incentives.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall use incentives, as necessary, to recruit and retain a qualified workforce, including inspection and enforcement personnel and attorneys and subject matter experts at the Office of Pipeline Safety of the Administration, including—
+
+&emsp;&emsp;"(A) special pay rates permitted under section 5305 of title 5, United States Code;
+
+&emsp;&emsp;"(B) repayment of student loans permitted under section 5379 of that title;
+
+&emsp;&emsp;"(C) tuition assistance permitted under chapter 41 of that title;
+
+&emsp;&emsp;"(D) recruitment incentives permitted under section 5753 of that title; and
+
+&emsp;&emsp;"(E) retention incentives permitted under section 5754 of that title.
+
+&emsp;"(2)
+
+Continued service agreement.—The Secretary shall ensure that the incentives described in paragraph (1) are accompanied by a continued service agreement.
+
+&emsp;"(3)
+
+Approval.—The Secretary shall request, as necessary, the approval of the Office of Personnel Management to use the incentives described in paragraph (1)."
 
 #### Technical Assistance Program
 
@@ -434,7 +500,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 
-Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501; Pub. L. 112–90, §32(f), Jan. 3, 2012, 125 Stat. 1923; Pub. L. 114–183, §§2(e), 22(b)(2), June 22, 2016, 130 Stat. 516, 529, provided that:
+Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, as amended by Pub. L. 109–468, §26, Dec. 29, 2006, 120 Stat. 3501; Pub. L. 112–90, §32(f), Jan. 3, 2012, 125 Stat. 1923; Pub. L. 114–183, §§2(e), 22(b)(2), June 22, 2016, 130 Stat. 516, 529; Pub. L. 116–260, div. R, title I, §101(g), Dec. 27, 2020, 134 Stat. 2214, provided that:
 
 "(a)
 
@@ -446,7 +512,7 @@ Memorandum of Understanding.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], theheads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
 &emsp;"(2)
 
@@ -520,7 +586,7 @@ Reports to Congress.—Not later than 1 year after the date of enactment of this
 
 "(f)
 
-Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2016 through 2019.
+Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2021 through 2023.
 
 "(g)
 
@@ -536,9 +602,23 @@ Independent Experts.—Not later than 180 days after the date of enactment of th
 
 "(i)
 
-Conflict of Interest.—The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator."
+Conflict of Interest.—The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, andincludes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator."
 
 #### Definitions
+
+Pub. L. 116–260, div. R, §2, Dec. 27, 2020, 134 Stat. 2211, provided that: "In this Act \[div. R of Pub. L. 116–260, see Short Title of 2020 Amendment note above\]:
+
+&emsp;"(1)
+
+Administration.—The term 'Administration' means the Pipeline and Hazardous Materials Safety Administration.
+
+&emsp;"(2)
+
+Administrator.—The term 'Administrator' means the Administrator of the Administration.
+
+&emsp;"(3)
+
+Secretary.—The term 'Secretary' means the Secretary of Transportation."
 
 Pub. L. 112–90, §1(c), Jan. 3, 2012, 125 Stat. 1904, provided that:
 

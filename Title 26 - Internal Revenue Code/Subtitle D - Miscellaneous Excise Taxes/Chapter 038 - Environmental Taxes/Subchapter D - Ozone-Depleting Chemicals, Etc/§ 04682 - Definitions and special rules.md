@@ -74,11 +74,11 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;The term "imported taxable product" means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if anyozone-depleting chemical was used as material in the manufacture or production of such product.
+&emsp;The term "imported taxable product" means any product (other than an ozone-depleting chemical) entered into the United States for consumption, use, or warehousing if any ozone-depleting chemical was used as material in the manufacture or production of such product.
 
 #### (2) De minimis exception
 
-&emsp;The term "imported taxable product" shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+&emsp;The term "imported taxable product" shall not include any product specified in regulations prescribed by the Secretary as using a deminimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
 
 #### (d) Exceptions
 
@@ -236,7 +236,7 @@ A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980,
 
 #### Amendments
 
-<b>2014</b>—Subsec. (h). Pub. L. 113–295 redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted "In general" for "Other tax-increase dates" in heading and struck out "after 1991" after "calendar year" in subpar. (C), and struck out former par. (1), which read as follows: "On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, orimporter thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990."
+<b>2014</b>—Subsec. (h). Pub. L. 113–295 redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted "In general" for "Other tax-increase dates" in heading and struck out "after 1991" after "calendar year" in subpar. (C), and struck out former par. (1), which read as follows: "On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990."
 
 <b>1997</b>—Subsec. (d)(1). Pub. L. 105–34, §903(a), substituted "recycled Halon-1301 or recycled Halon-2402" for "recycled halon".
 

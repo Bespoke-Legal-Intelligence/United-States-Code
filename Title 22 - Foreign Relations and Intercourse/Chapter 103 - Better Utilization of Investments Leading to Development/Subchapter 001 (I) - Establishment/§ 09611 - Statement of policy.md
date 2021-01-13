@@ -14,11 +14,13 @@ It is the policy of the United States to facilitate market-based private sector 
 
 &emsp;(6) to provide countries a robust alternative to state-directed investments by authoritarian governments and United States strategic competitors using best practices with respect to transparency and environmental and social safeguards, and which take into account the debt sustainability of partner countries;
 
-&emsp;(7) to leverage private sector capabilities and innovative development tools to help countries transition from recipients of bilateral development assistance toward increased self-reliance; and
+&emsp;(7) to leverage private sector capabilities and innovative development tools to helpcountries transition from recipients of bilateral development assistance toward increased self-reliance; and
 
 &emsp;(8) to complement and be guided by overall United States foreign policy, development, and national security objectives, taking into account the priorities and needs of countries receiving support.
 
 (Pub. L. 115–254, div. F, title I, §1411, Oct. 5, 2018, 132 Stat. 3486.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enhancement of Nongovernmental Sector in Poland and Hungary
 

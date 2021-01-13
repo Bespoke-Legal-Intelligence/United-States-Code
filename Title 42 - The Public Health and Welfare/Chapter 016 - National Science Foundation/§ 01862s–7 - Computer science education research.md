@@ -8,7 +8,7 @@ Congress finds that as the lead Federal agency for building the research knowled
 
 #### (1) In general
 
-&emsp;The Director of the Foundation shall award grants to eligible entities to research computer science education and computational thinking.
+&emsp;The Director of the Foundation shall award grants to eligible entities to research computer science and cybersecurity education and computational thinking.
 
 #### (2) Research
 
@@ -18,9 +18,11 @@ Congress finds that as the lead Federal agency for building the research knowled
 
 &emsp;&emsp;(B) scalable and sustainable models of professional development and ongoing support for the teachers described in subparagraph (A);
 
-&emsp;&emsp;(C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields; and
+&emsp;&emsp;(C) tools and models for teaching and learning aimed at supporting student success and inclusion in computing within and across diverse populations, particularly poor, rural, and tribal populations and other populations that have been historically underrepresented in computer science and STEM fields;
 
-&emsp;&emsp;(D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning.
+&emsp;&emsp;(D) high-quality learning opportunities for teaching computer science and, especially in poor, rural, or tribal schools at the elementary school and middle school levels, for integrating computational thinking into STEM teaching and learning; and
+
+&emsp;&emsp;(E) tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.
 
 #### (3) Uses of funds
 
@@ -50,7 +52,7 @@ Congress finds that as the lead Federal agency for building the research knowled
 
 #### (c) Collaborations
 
-In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
+In carrying out the grants established in subsection (b), eligible entities may collaborate and partner with local or remote schools to support the integration of computing, cybersecurity, and computational thinking within pre-kindergarten through grade 12 STEM curricula and instruction.
 
 #### (d) Metrics
 
@@ -64,13 +66,19 @@ The Director of the Foundation shall report, in the annual budget submission to 
 
 In this section, the term "eligible entity" means an institution of higher education or a nonprofit research organization.
 
-(Pub. L. 114–329, title III, §310, Jan. 6, 2017, 130 Stat. 3012; Pub. L. 116–102, §5, Dec. 24, 2019, 133 Stat. 3264.)
+(Pub. L. 114–329, title III, §310, Jan. 6, 2017, 130 Stat. 3012; Pub. L. 116–102, §5, Dec. 24, 2019, 133 Stat. 3264; Pub. L. 116–283, div. H, title XCIV, §9405(a), Jan. 1, 2021, 134 Stat. 4812.)
 
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283, §9405(a)(1)(A), inserted "and cybersecurity" after "computer science".
+
+Subsec. (b)(2)(E). Pub. L. 116–283, §9405(a)(1)(B), added subpar. (E).
+
+Subsec. (c). Pub. L. 116–283, §9405(a)(2), inserted ", cybersecurity," after "computing".
 
 <b>2019</b>—Subsec. (b)(3). Pub. L. 116–102 added par. (3).
 

@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LII, §5201, Feb. 10, 1996, 110 Stat. 689.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 11703 was renumbered section 11702 of this title.

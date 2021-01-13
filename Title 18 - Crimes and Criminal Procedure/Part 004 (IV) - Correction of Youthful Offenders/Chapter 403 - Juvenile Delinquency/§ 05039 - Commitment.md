@@ -8,11 +8,15 @@ Whenever possible, the Attorney General shall commit a juvenile to a foster home
 
 (Added Pub. L. 93–415, title V, §509, Sept. 7, 1974, 88 Stat. 1138; amended Pub. L. 103–322, title XIV, §140003, Sept. 13, 1994, 108 Stat. 2032.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 inserted ", whether pursuant to an adjudication of delinquency or conviction for an offense," after "committed" in first par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
-Section 509 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §509, Sept. 7, 1974, 88 Stat. 1138, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 

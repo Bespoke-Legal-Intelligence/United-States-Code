@@ -1,6 +1,6 @@
 ### §5202. Prohibitions regarding PLO
 
-It shall be unlawful, if the purpose be to further the interests of the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof, on or after the effective date of this chapter—
+It shall be unlawful, if the purpose be to further the interests of the Palestine LiberationOrganization or any of its constituent groups, any successor to any of those, or any agents thereof, on or after the effective date of this chapter—
 
 &emsp;(1) to receive anything of value except informational material from the PLO or any of its constituent groups, any successor thereto, or any agents thereof;
 
@@ -10,9 +10,13 @@ It shall be unlawful, if the purpose be to further the interests of the Palestin
 
 (Pub. L. 100–204, title X, §1003, Dec. 22, 1987, 101 Stat. 1407.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this chapter, referred to in text, as being 90 days after Dec. 22, 1987, see section 1005 of Pub. L. 100–204, set out as an Effective Date note under section 5201 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Certain Functions and Authorities
 

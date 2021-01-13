@@ -50,5 +50,5 @@ Subsec. (a)(6). Pub. L. 104–182, §113(b), added par. (6).
 
 Subsec. (c). Pub. L. 104–182, §112(a)(2), added subsec. (c).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–339 substituted "are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title" for subpars. (A) and (B) which related to stringency of State drinking water regulationsbetween period of promulgation and effective date of national interim drinking water regulations and during the period after such effective date.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–339 substituted "are no less stringent than the national primary drinking water regulations in effect under sections 300g–1(a) and 300g–1(b) of this title" for subpars. (A) and (B) which related to stringency of State drinking water regulations between period of promulgation and effective date of national interim drinking water regulations and during the period after such effective date.
 

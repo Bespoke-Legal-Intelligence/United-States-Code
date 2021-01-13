@@ -22,9 +22,13 @@
 
 (Added Pub. L. 102–559, §2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (a)(3)(A), is Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as an Effective Date note under section 3701 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

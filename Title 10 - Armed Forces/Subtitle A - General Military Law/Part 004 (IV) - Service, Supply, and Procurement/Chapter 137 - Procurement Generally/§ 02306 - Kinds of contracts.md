@@ -22,7 +22,25 @@
 
 (h) Multiyear contracting authority for the purchase of property is provided in section 2306b of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205; Pub. L. 108–136, div. A, title VIII, §842, Nov. 24, 2003, 117 Stat. 1552; Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 115–232, div. A, title VIII, §836(c)(4), Aug. 13, 2018, 132 Stat. 1865.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), (e), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–378, §1, July 5, 1968, 82 Stat. 289; Pub. L. 90–512, Sept. 25, 1968, 82 Stat. 863; Pub. L. 96–513, title V, §511(77), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §§907(b), 909(b), Dec. 1, 1981, 95 Stat. 1117, 1118; Pub. L. 98–369, div. B, title VII, §2724, July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §952(b)(1), (c)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(b)(1), (c)(1), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–189, div. A, title VIII, §805(a), Nov. 29, 1989, 103 Stat. 1488; Pub. L. 101–510, div. A, title VIII, §808, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 102–25, title VII, §701(d)(3), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §§1021, 1022(b), title IV, §§4102(b), 4401(c), title VIII, §8105(a), Oct. 13, 1994, 108 Stat. 3257, 3260, 3340, 3348, 3392; Pub. L. 105–85, div. A, title X, §1073(a)(45), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205; Pub. L. 108–136, div. A, title VIII, §842, Nov. 24, 2003, 117 Stat. 1552; Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 115–232, div. A, title VIII, §836(c)(4), Aug. 13, 2018, 132 Stat. 1865; Pub. L. 116–283, div. A, title XVIII, §1817(b), (c), (e), (g)(1), Jan. 1, 2021, 134 Stat. 4186, 4187.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1817(b), (c), (e), (g)(1), Jan. 1, 2021, 134 Stat. 4151, 4186, 4187, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to sections 3321(a) and 3322(a) of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3321(b) of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3323 of this title; and</i>
+
+<i>(4) by transferring subsections (d) and (e) to subsections (b) and (c), respectively, of section 3322 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 Historical and Revision Notes
 
@@ -76,6 +94,16 @@ Provisions similar to those in subsec. (h)(11) of this section were contained in
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1817(c), redesignated first sentence of subsec. (a) as section 3322(a) of this title.
+
+Pub. L. 116–283, §1817(b), redesignated subsec. (a) as section 3321(a) of this title.
+
+Subsec. (b). Pub. L. 116–283, §1817(b), redesignated subsec. (b) as section 3321(b) of this title.
+
+Subsec. (c). Pub. L. 116–283, §1817(g)(1), redesignated subsec. (c) as section 3323 of this title.
+
+Subsecs. (d), (e). Pub. L. 116–283, §1817(e), redesignated subsecs. (d) and (e) as section 3322(b) and (c), respectively, of this title.
+
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–81 added subsec. (c).
@@ -120,7 +148,7 @@ Subsec. (b). Pub. L. 99–145, §1303(a)(15)(B), struck out "of this title" befo
 
 <b>1984</b>—Pub. L. 98–369, §2724(f), substituted "Kinds of contracts; cost or pricing data: truth in negotiation" for "Kinds of contracts" in section catchline.
 
-Subsec. (a). Pub. L. 98–369, §2724(a), substituted "the limitation in the preceding sentence, the other provisions of this section, and other applicable provisions of law, the head of an agency, in awarding contracts under this chapter after using procedures other than sealed-bid procedures, may enter into" for "this limitation and subject to subsections (b)–(f), the head of any agency may, in negotiating contracts under section 2304 of this title, make".
+Subsec. (a). Pub. L. 98–369, §2724(a), substituted "the limitation in the preceding sentence, the other provisions of this section, and other applicable provisions of law, the head of an agency, in awarding contracts under this chapter after using procedures other thansealed-bid procedures, may enter into" for "this limitation and subject to subsections (b)–(f), the head of any agency may, in negotiating contracts under section 2304 of this title, make".
 
 Subsec. (b). Pub. L. 98–369, §2724(b), substituted "awarded under this chapter after using procedures other than sealed-bid procedures" for "negotiated under section 2304".
 
@@ -163,6 +191,14 @@ Subsec. (g). Pub. L. 90–378 added subsec. (g).
 <b>1962</b>—Subsec. (a). Pub. L. 87–653, §1(d), substituted "subsections (b)–(f)" for "subsections (b)–(e)".
 
 Subsec. (f). Pub. L. 87–653, §1(e), added subsec. (f).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -210,7 +246,7 @@ Approval Requirement for Certain Cost-type Contracts.—
 
 &emsp;"(1)
 
-In general.—A contracting officer of the Department of Defense may not enter into a cost-type contract described in paragraph (2) unless the contract is approved by the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable).
+In general.—A contracting officer of the Department of Defense may not enter into a cost-type contract described in paragraph (2) unless the contract is approved by the service acquisition executive of the military department concerned, the head of theDefense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable).
 
 &emsp;"(2)
 
@@ -250,7 +286,7 @@ Justification for Selection of Contract Type.—As modified under subsection (b)
 
 #### Multiyear Procurement Authority; Requests for Relief
 
-Pub. L. 100–526, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which provided that if for any fiscal year a multiyear contract was to be entered into under 10 U.S.C. 2306(h) was authorized by law for a particular procurement program and that authorization was subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appeared (after negotiations with contractors) that such savings could not be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President was to submit to Congress a request for relief from the specified cost savings that was to be achieved throughmultiyear contracting for that program and that any such request by the President was to include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions, was repealed and restated as subsec. (h)(11) of this section by Pub. L. 101–189, §805(b), (c).
+Pub. L. 100–526, title I, §104(a), Oct. 24, 1988, 102 Stat. 2624, which provided that if for any fiscal year a multiyear contract was to be entered into under 10 U.S.C. 2306(h) was authorized by law for a particular procurement program and that authorization was subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appeared (after negotiations with contractors) that such savings could not be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President was to submit to Congress a request for relief from the specified cost savings that was to be achieved through multiyear contracting for that program and that any such request by the President was to include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions, was repealed and restated as subsec. (h)(11) of this section by Pub. L. 101–189, §805(b), (c).
 
 #### Technical Data and Computer Software Packages; Procurement; Contracting Period; Deferred Ordering Clause; Exemptions; Report to Congressional Committees; Definitions
 

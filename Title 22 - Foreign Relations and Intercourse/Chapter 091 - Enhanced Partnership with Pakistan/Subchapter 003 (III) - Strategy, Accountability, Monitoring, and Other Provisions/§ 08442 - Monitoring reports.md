@@ -46,7 +46,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(14) a detailed description of the extent to which funds obligated and expended pursuant to section 8422(b) of this title meet the requirements of such section; and
 
-&emsp;(15) an assessment of the extent to which the Government of Pakistan exercises effective civilian control of the military, including a description of the extent to which civilian executive leaders and parliament exercise oversight and approval of military budgets, the chain of command, the process of promotion for senior military leaders, civilian involvement in strategic guidance and planning, and military involvement in civil administration.
+&emsp;(15) an assessment of the extent to which the Government of Pakistan exercises effective civilian control of the military, including a description of the extent to which civilian executive leaders and parliament exercise oversight and approval of military budgets, the chain of command, the process of promotion for seniormilitary leaders, civilian involvement in strategic guidance and planning, and military involvement in civil administration.
 
 #### (b) Government Accountability Office reports
 
@@ -79,6 +79,8 @@ In this section, the term "appropriate congressional committees" means—
 &emsp;(2) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 111–73, title III, §302, Oct. 15, 2009, 123 Stat. 2077.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

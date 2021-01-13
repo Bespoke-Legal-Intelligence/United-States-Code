@@ -4,6 +4,8 @@ Pursuant to the authority set out in the Reclamation Act of June 17, 1902, 32 St
 
 (Pub. L. 90–537, title II, §201, Sept. 30, 1968, 82 Stat. 886; Pub. L. 95–578, §10, Nov. 2, 1978, 92 Stat. 2472; Pub. L. 96–375, §10, Oct. 3, 1980, 94 Stat. 1507.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Reclamation Act of June 17, 1902, 32 Stat. 388, referred to in text, is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
@@ -15,6 +17,8 @@ The Water Resources Planning Act, as amended, referred to in text, is Pub. L. 89
 <b>1980</b>—Pub. L. 96–375 substituted "any Federal official" for "the Secretary" in proviso.
 
 <b>1978</b>—Pub. L. 95–578 substituted "November 2, 1978" for "September 30, 1968".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of National Water Commission
 

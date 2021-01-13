@@ -44,9 +44,11 @@ For the purposes of this chapter—
 
 (Pub. L. 102–242, title II, §274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, §1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, §332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, §2604(c), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, §1100B(1), (4), July 21, 2010, 124 Stat. 2109, 2110.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
+Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this titleby Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
 
 This chapter, referred to in par. (6), was in the original "this title", and was translated as meaning "this subtitle", which is subtitle F of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -61,6 +63,8 @@ Par. (4). Pub. L. 111–203, §1100B(4), added par. (4) and struck out former pa
 <b>1994</b>—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'account' means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts."
 
 <b>1992</b>—Pub. L. 102–550 made technical amendment to reference to "this chapter" in introductory provisions to reflect correction of corresponding provision of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

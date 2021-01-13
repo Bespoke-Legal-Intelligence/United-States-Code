@@ -14,7 +14,7 @@ The deputy commissioner shall make or cause to be made such investigations as he
 
 #### (d) Provisions governing conduct of hearing; administrative law judges
 
-Notwithstanding any other provisions of this chapter, any hearing held under this chaptershall be conducted in accordance with the provisions of section 554 of title 5. Any such hearing shall be conducted by a <sup>1</sup> administrative law judge qualified under section 3105 of that title. All powers, duties, and responsibilities vested by this chapter, on October 27, 1972, in the deputy commissioners with respect to such hearings shall be vested in such administrative law judges.
+Notwithstanding any other provisions of this chapter, any hearing held under this chapter shall be conducted in accordance with the provisions of section 554 of title 5. Any such hearing shall be conducted by a <sup>1</sup> administrative law judge qualified under section 3105 of that title. All powers, duties, and responsibilities vested by this chapter, on October 27, 1972, in the deputycommissioners with respect to such hearings shall be vested in such administrative law judges.
 
 #### (e) Filing and mailing of order rejecting claim or making award
 
@@ -34,6 +34,8 @@ An injured employee claiming or entitled to compensation shall submit to such ph
 
 (Mar. 4, 1927, ch. 509, §19, 44 Stat. 1435; June 25, 1938, ch. 685, §9, 52 Stat. 1167; Pub. L. 86–507, §1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, §14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsecs. (a), (b), (g), (h). Pub. L. 98–426, §27(a)(2), substituted "Secretary" for "commission". See Transfer of Functions note under section 902 of this title.
@@ -45,6 +47,8 @@ An injured employee claiming or entitled to compensation shall submit to such ph
 <b>1960</b>—Subsecs. (c), (e). Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
 
 <b>1938</b>—Subsec. (g). Act June 25, 1938, authorized transfer of cases, with administrative approval, at any time after filing of claim for the additional purposes of making investigations and taking other necessary action instead of after issuance of compensation order without anyone's approval.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

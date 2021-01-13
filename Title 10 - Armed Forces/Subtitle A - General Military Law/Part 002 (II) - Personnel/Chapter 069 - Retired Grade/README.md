@@ -2,7 +2,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1370\.](%C2%A7%2001370%20-%20Commissioned%20officers%20general%20rule%3B%20exceptions.md) | Commissioned officers: general rule; exceptions. |
+| [1370\.](%C2%A7%2001370%20-%20Regular%20commissioned%20officers.md) | Regular commissioned officers. |
+| [1370a.](%C2%A7%2001370a%20-%20Officers%20entitled%20to%20retired%20pay%20for%20non-regular%20service.md) | Officers entitled to retired pay for non-regular service. |
 | [1371\.](%C2%A7%2001371%20-%20Warrant%20officers%20general%20rule.md) | Warrant officers: general rule. |
 | [1372\.](%C2%A7%2001372%20-%20Grade%20on%20retirement%20for%20physical%20disability%20members%20of%20armed%20forces.md) | Grade on retirement for physical disability: members of armed forces. |
 | [1373\.](%C2%A7%2001373%20-%20Higher%20grade%20for%20later%20physical%20disability%20retired%20officers%20recalled%20to%20active%20duty.md) | Higher grade for later physical disability: retired officers recalled to active duty. |
@@ -13,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §508(a)(2), Jan. 1, 2021, 134 Stat. 3584, added items 1370 and 1370a and struck out former item 1370 "Commissioned officers: general rule; exceptions".
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(11), Oct. 5, 1994, 108 Stat. 3013, struck out item 1374 "Reserve commissioned officers: grade on retirement or transfer to Retired Reserve" and substituted "Temporary disability retired lists" for "Retired lists" in item 1376.
 
@@ -25,7 +28,8 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01370 - Commissioned officers general rule; exceptions](%C2%A7%2001370%20-%20Commissioned%20officers%20general%20rule%3B%20exceptions.md)
+- [&sect; 01370 - Regular commissioned officers](%C2%A7%2001370%20-%20Regular%20commissioned%20officers.md)
+- [&sect; 01370a - Officers entitled to retired pay for non-regular service](%C2%A7%2001370a%20-%20Officers%20entitled%20to%20retired%20pay%20for%20non-regular%20service.md)
 - [&sect; 01371 - Warrant officers general rule](%C2%A7%2001371%20-%20Warrant%20officers%20general%20rule.md)
 - [&sect; 01372 - Grade on retirement for physical disability members of armed forces](%C2%A7%2001372%20-%20Grade%20on%20retirement%20for%20physical%20disability%20members%20of%20armed%20forces.md)
 - [&sect; 01373 - Higher grade for later physical disability retired officers recalled to active duty](%C2%A7%2001373%20-%20Higher%20grade%20for%20later%20physical%20disability%20retired%20officers%20recalled%20to%20active%20duty.md)

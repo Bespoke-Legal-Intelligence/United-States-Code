@@ -160,11 +160,9 @@ Subsec. (a)(6)(C). Pub. L. 113–172, §4(a)(2), added subpar. (C).
 
 Pub. L. 113–172, §4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: "Section 303(a)(6)(C) of the Defense Production Act of 1950 \[50 U.S.C. 4533(a)(6)(C)\], as added by subsection (a)(2), shall not apply to a project undertaken pursuant to a determination made before the date of the enactment of this Act \[Sept. 26, 2014\]."
 
-#### Delegation of Functions
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
-
-For delegation of certain authority of President under this section, see sections 303(a), 304, 305(b), and 306–308 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, 16655, set out as a note under section 4553 of this title.
+Requirement described in subsec. (a)(6)(B) of this section not applicable during the 1-year period beginning on Mar. 27, 2020, and requirement described in subsec. (a)(6)(C) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017 of Pub. L. 116–136, set out as a note under section 4532 of this title.
 
 #### Authorization To Take Actions To Correct the Industrial Resource Shortfall for High-Purity Beryllium Metal
 
@@ -191,4 +189,18 @@ Report by the Secretary.—Before the end of the 6-month period beginning on the
 &emsp;"(4) the plans of the Department of Defense for use of providers of radiation-hardened electronics beyond the providers with which the Department had entered into contractual arrangements under the authority of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as of the date of the enactment of this Act."
 
 Pub. L. 107–314, div. A, title VIII, §829, Dec. 2, 2002, 116 Stat. 2618, provided that: "Notwithstanding the limitation in \[former\] section 303(a)(6)(C) of the Defense Production Act of 1950 (\[former\] 50 U.S.C. App. 2093(a)(6)(C)), action or actions may be taken under section 303 of that Act to correct the industrial resource shortfall for radiation-hardened electronics, if such actions do not cause the aggregate outstanding amount of all such actions to exceed $106,000,000."
+
+#### Delegation of Functions
+
+Authority of President under this section delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
+
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title.
+
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+
+For delegation of certain authority of President under this section, see sections 303(a), 304, 305(b), and 306–308 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, 16655, set out as a note under section 4553 of this title.
+
+#### Executive Waiver of Limitations
+
+Requirements of subsec. (a)(1) to (6) of this section waived during the national emergency declared by Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, set out as a note under section 1621 of this title, see section 2(c) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under section 4511 of this title.
 

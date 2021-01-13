@@ -40,7 +40,7 @@ In general.—A contractor with respect to an operating agreement (including an 
 
 &emsp;(2)
 
-Emergency preparedness agreement.—All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the termsof such Emergency Preparedness Agreement may be modified by the mutual consent of the contractor, the Secretary of Transportation, and the Secretary of Defense.
+Emergency preparedness agreement.—All terms and conditions of an Emergency Preparedness Agreement entered into under section 53107 shall remain in effect until the date the operating agreement would terminate according to its terms, except that the terms of such Emergency Preparedness Agreement may be modified by the mutual consent of the contractor, the Secretary of Transportation, and the Secretary of Defense.
 
 (e)
 
@@ -51,6 +51,8 @@ Transfer of Operating Agreements.—A contractor under an operating agreement ma
 Replacement Vessels.—A contractor may replace a vessel under an operating agreement with another vessel that is eligible to be included in the Fleet under section 53102(b), if the Secretary, in conjunction with the Secretary of Defense, approves the replacement of the vessel.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1812; amended Pub. L. 109–304, §13(a)(4), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(a), Oct. 17, 2006, 120 Stat. 2514; Pub. L. 110–181, div. C, title XXXV, §3526(f), Jan. 28, 2008, 122 Stat. 602; Pub. L. 112–239, div. C, title XXXV, §3508(e), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 115–91, div. C, title XXXV, §3503(a), Dec. 12, 2017, 131 Stat. 1911.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

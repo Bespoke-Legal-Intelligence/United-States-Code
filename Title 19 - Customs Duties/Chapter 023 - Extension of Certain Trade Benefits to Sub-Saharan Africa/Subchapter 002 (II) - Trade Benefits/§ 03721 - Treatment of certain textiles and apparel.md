@@ -46,7 +46,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (ii) Determination of damage or threat thereof
 
-&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
+&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-freetreatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
 
 #### (iii) Factors to consider
 
@@ -88,7 +88,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (A) In general
 
-&emsp;&emsp;Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 401 to the NAFTA.
+&emsp;&emsp;Apparel articles that are both cut (or knit-to-shape) and sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries, to the extent that apparel articles of such fabrics or yarns would be eligible for preferential treatment, without regard to the source of the fabrics or yarns, under Annex 4–B of the USMCA.
 
 #### (B) Additional apparel articles
 
@@ -110,7 +110,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (C) Removal of designation of fabrics or yarns not available in commercial quantities
 
-&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under subparagraph (A) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
+&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible forpreferential treatment under subparagraph (A) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
 
 #### (6) Handloomed, handmade, folklore articles and ethnic printed fabrics
 
@@ -140,7 +140,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (8) Textile articles originating entirely in one or more lesser developed beneficiary sub-Saharan African countries
 
-&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 ofthe Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
+&emsp;Textile and textile articles classifiable under chapters 50 through 60 or chapter 63 of the Harmonized Tariff Schedule of the United States that are products of a lesser developed beneficiary sub-Saharan African country and are wholly formed in one or more such countries from fibers, yarns, fabrics, fabric components, or components knit-to-shape that are the product of one or more such countries.
 
 #### (c) Lesser developed countries
 
@@ -246,9 +246,9 @@ In this section and section 3722 of this title:
 
 &emsp;The terms "beneficiary sub-Saharan African country" and "beneficiary sub-Saharan African countries" have the same meaning as such terms have under section 2466a(c) of this title.
 
-#### (3) NAFTA
+#### (3) USMCA
 
-&emsp;The term "NAFTA" means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+&emsp;The term "USMCA" has the meaning given that term in section 4502 of this title.
 
 #### (4) Former sub-Saharan African country
 
@@ -262,7 +262,7 @@ In this section and section 3722 of this title:
 
 This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2025.
 
-(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub. L. 110–436, §3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, §1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, §103(b), June 29, 2015, 129 Stat. 364.)
+(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub.L. 110–436, §3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, §1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, §103(b), June 29, 2015, 129 Stat. 364; Pub. L. 116–260, div. O, title VI, §602(a)(1), Dec. 27, 2020, 134 Stat. 2152.)
 
 #### References in Text
 
@@ -273,6 +273,10 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b),
 This chapter, referred to in subsec. (f)(4), was in the original "this Act", and was translated as reading "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(5)(A). Pub. L. 116–260, §602(a)(1)(A), substituted "Annex 4–B of the USMCA" for "Annex 401 to the NAFTA".
+
+Subsec. (f)(3). Pub. L. 116–260, §602(a)(1)(B), added par. (3) and struck out former par. (3) which defined "NAFTA".
 
 <b>2015</b>—Subsec. (b)(3)(A)(i). Pub. L. 114–27, §103(b)(2)(A), substituted "21 succeeding" for "11 succeeding".
 
@@ -368,6 +372,10 @@ Subsec. (b)(4)(B). Pub. L. 107–210, §3108(a)(4), substituted "21.5 microns" f
 
 Subsec. (b)(7). Pub. L. 107–210, §3108(a)(5), added par. (7).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–436, §3(b), Oct. 16, 2008, 122 Stat. 4980, provided that: "The amendments made by subsection (a) \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Oct. 16, 2008\]."
@@ -384,7 +392,7 @@ Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provide
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Delegation of Authority
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) The Administrator, National Highway Traffic Safety Administration.
 
-&emsp;&emsp;(B) The Director, Preparedness Division, Directorate of Emergency Preparedness andResponse of the Department of Homeland Security.
+&emsp;&emsp;(B) The Director, Preparedness Division, Directorate of Emergency Preparedness and Response of the Department of Homeland Security.
 
 &emsp;&emsp;(C) The Administrator, Health Resources and Services Administration, Department of Health and Human Services.
 
@@ -100,7 +100,7 @@
 
 #### (7) Annual reports
 
-&emsp;The Advisory Council shall prepare an annual report to the Secretary of Transportationregarding the Advisory Council's actions and recommendations.
+&emsp;The Advisory Council shall prepare an annual report to the Secretary of Transportation regarding the Advisory Council's actions and recommendations.
 
 (Pub. L. 109–59, title X, §10202, Aug. 10, 2005, 119 Stat. 1932; Pub. L. 112–141, div. C, title I, §31108, July 6, 2012, 126 Stat. 756.)
 

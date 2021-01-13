@@ -10,7 +10,7 @@ As used in this subchapter—
 
 (d) The term "fur product" means any article of wearing apparel made in whole or in part of fur or used fur.
 
-(e) The term "waste fur" means the ears, throats, or scrap pieces which have been severedfrom the animal pelt, and shall include mats or plates made therefrom.
+(e) The term "waste fur" means the ears, throats, or scrap pieces which have been severed from the animal pelt, and shall include mats or plates made therefrom.
 
 (f) The term "invoice" means a written account, memorandum, list, or catalog, which is issued in connection with any commercial dealing in fur products or furs, and describes the particulars of any fur products or furs, transported or delivered to a purchaser, consignee, factor, bailee, correspondent, or agent, or any other person who is engaged in dealing commercially in fur products or furs.
 

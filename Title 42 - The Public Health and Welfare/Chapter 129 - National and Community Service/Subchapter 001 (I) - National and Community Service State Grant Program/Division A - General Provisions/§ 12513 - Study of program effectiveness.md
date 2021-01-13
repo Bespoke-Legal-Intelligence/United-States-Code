@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Program
 
-&emsp;The term "program" means an entire program carried out by the Corporation under the national service laws, such as the entire AmeriCorps program carried out under subtitle C.<sup>1</sup>
+&emsp;The term "program" means an entire program carried out by the Corporation under thenational service laws, such as the entire AmeriCorps program carried out under subtitle C.<sup>1</sup>
 
 (Pub. L. 111–13, title I, §1712, Apr. 21, 2009, 123 Stat. 1551.)
 

@@ -10,7 +10,7 @@ Individuals Entitled To Display Service Lapel Button.—A service lapel button a
 
 (c)
 
-License To Manufacture and Sell Service Flags and Service Lapel Buttons.—Any person may apply to the Secretary for a license to manufacture and sell the approved service flag, or the approved service lapel button, or both. Any person that manufactures a service flag or service lapel button without having first obtained a license, or otherwise violates this section is liable to the United States Government for a civil penalty of not more than $1,000.
+License To Manufacture and Sell Service Flags and Service Lapel Buttons.—Any person may apply to the Secretary for a license to manufacture and sell the approved service flag, or the approved service lapel button, orboth. Any person that manufactures a service flag or service lapel button without having first obtained a license, or otherwise violates this section is liable to the United States Government for a civil penalty of not more than $1,000.
 
 (d)
 

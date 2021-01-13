@@ -16,11 +16,15 @@ The proviso of such section 24 is omitted as unnecessary since the provision con
 
 The omitted language is as follows: "In any suit brought under the jurisdiction conferred by this section the claimant shall be entitled to recover in the same manner, to the same extent, and subject to the same conditions and limitations, and the United States shall be entitled to the same defenses, both at law and in equity, and to the same offsets, counterclaims, and demands, as in cases brought in the Court of Claims under section 250 of this title: <i>Provided, however</i>, That nothing contained in this section shall be construed as altering the fiduciary or other relations between the United States and the several Indian tribes, bands, or groups."
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court".
 
 <b>1982</b>—Pub. L. 97–164 substituted "The United States Claims Court shall have jurisdiction" for "The Court of Claims shall have jurisdiction" and "cognizable in the Claims Court" for "cognizable in the Court of Claims".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

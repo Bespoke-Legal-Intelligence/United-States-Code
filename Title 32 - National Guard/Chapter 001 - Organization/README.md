@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §578(k)(3)(B), Oct. 5, 1999, 113 Stat. 631, added items 114 and 115 and struck out former item 114 "Honor guard functions at funerals for veterans".

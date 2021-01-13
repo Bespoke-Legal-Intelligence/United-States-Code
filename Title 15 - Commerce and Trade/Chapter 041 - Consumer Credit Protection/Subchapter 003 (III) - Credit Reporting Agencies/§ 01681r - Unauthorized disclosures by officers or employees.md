@@ -10,7 +10,7 @@ Any officer or employee of a consumer reporting agency who knowingly and willful
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date
 

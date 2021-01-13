@@ -28,6 +28,8 @@ Contents.—Any report required under paragraph (1) shall identify, with respect
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 28; Pub. L. 115–91, div. A, title X, §1097(h)(3), Dec. 12, 2017, 131 Stat. 1625.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

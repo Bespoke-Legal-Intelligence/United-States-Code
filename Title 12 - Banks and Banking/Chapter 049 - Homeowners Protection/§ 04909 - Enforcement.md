@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 etseq.\], compliance with the requirements imposed under this chapter shall be enforced under—
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], compliance with the requirements imposed under this chapter shall be enforced under—
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency (as defined in section 3(q) of that Act \[12 U.S.C. 1813(q)\]), with respect to—
 
@@ -40,6 +40,8 @@ In carrying out its enforcement activities under this section, each agency refer
 
 (Pub. L. 105–216, §10, July 29, 1998, 112 Stat. 907; Pub. L. 111–203, title X, §1095, July 21, 2010, 124 Stat. 2101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -66,9 +68,11 @@ Subsec. (a)(4). Pub. L. 111–203, §1095(1)(B)–(D), added par. (4).
 
 Subsec. (b)(2). Pub. L. 111–203, §1095(2), inserted ", subject to subtitle B of the Consumer Financial Protection Act of 2010" before the period.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

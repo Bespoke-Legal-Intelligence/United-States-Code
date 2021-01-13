@@ -6,7 +6,7 @@
 
 &emsp;(2) shall collect and remit fines, penalties, and forfeitures arising out of matters affecting the Postal Service;
 
-&emsp;(3) may adjust, pay, or credit the account of a postmaster or of an enlisted person of anArmed Force performing postal duties, for any loss of Postal Service funds, papers, postage, or other stamped stock or accountable paper; and
+&emsp;(3) may adjust, pay, or credit the account of a postmaster or of an enlisted person of an Armed Force performing postal duties, for any loss of Postal Service funds, papers, postage, or other stamped stock or accountable paper; and
 
 &emsp;(4) may prescribe penalties for failure to render accounts.
 
@@ -20,9 +20,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 744; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

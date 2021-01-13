@@ -24,6 +24,8 @@ For the purpose of this subchapter—
 
 (Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1001; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–230, §3(e), Dec. 28, 2012, 126 Stat. 1617.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employees in Executive agencies or competitive service from using official authority or influence to coerce political actions of persons or bodies, prior to the general revision of this subchapter by Pub. L. 103–94.
@@ -35,6 +37,8 @@ A prior section 7322, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 Pub. L. 112–230, §3(e)(1)–(3), inserted "or" at end of subpar. (A), struck out "or" at end of subpar. (B), and struck out subpar. (C) which read as follows: "the government of the District of Columbia, other than the Mayor or a member of the City Council or the Recorder of Deeds;".
 
 <b>2004</b>—Par. (1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

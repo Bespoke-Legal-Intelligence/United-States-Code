@@ -70,6 +70,8 @@ Definitions.—In this section—
 
 (Added Pub. L. 112–186, §2(a), Oct. 5, 2012, 126 Stat. 1427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(3), is classified to section 321 of Title 21, Food and Drugs.
@@ -78,7 +80,9 @@ Section 351 of the Public Health Service Act, referred to in subsec. (e)(4), is 
 
 Section 5(b) of the Orphan Drug Act, referred to in subsec. (e)(5), is classified to section 360ee(b) of Title 21.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Priority Given to Certain Investigations and Prosecutions
 
-Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increasedpriority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
+Pub. L. 112–186, §4(e), Oct. 5, 2012, 126 Stat. 1429, provided that: "The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 670 of title 18, United States Code, that involve pre-retail medical products."
 

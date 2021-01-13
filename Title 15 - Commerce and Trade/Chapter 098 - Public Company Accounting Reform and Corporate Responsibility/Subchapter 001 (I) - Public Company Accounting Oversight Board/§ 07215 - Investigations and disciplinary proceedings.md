@@ -16,7 +16,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 &emsp;&emsp;(A) require the testimony of the firm or of any person associated with a registered public accounting firm, with respect to any matter that the Board considers relevant or material to an investigation;
 
-&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered publicaccounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
+&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
 
 &emsp;&emsp;(C) request the testimony of, and production of any document in the possession of, any other person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, with appropriate notice, subject to the needs of the investigation, as permitted under the rules of the Board; and
 
@@ -90,7 +90,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (C) Availability to foreign oversight authorities
 
-&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board,all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
+&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
 
 &emsp;&emsp;&emsp;(i) the Board finds that it is necessary to accomplish the purposes of this Act or to protect investors;
 
@@ -186,7 +186,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Association with a public accounting firm
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firmunder this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
 #### (B) Association with an issuer, broker, or dealer
 
@@ -252,7 +252,7 @@ Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted ", broker,
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

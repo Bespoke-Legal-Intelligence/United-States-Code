@@ -8,7 +8,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (1) Policies and procedures
 
-&emsp;As soon as is practicable after July 21, 2010, the Corporation shall establish, by regulation, and in consultation with the Secretary, policies and procedures governing the issuance of guarantees authorized by this section. Such policies and procedures may include a requirement of collateral as a condition of any such guarantee.
+&emsp;As soon as is practicable after July 21, 2010, the Corporation shall establish, by regulation, and in consultation with the Secretary, policies and procedures governing the issuance of guarantees authorized by this section. Suchpolicies and procedures may include a requirement of collateral as a condition of any such guarantee.
 
 #### (2) Terms and conditions
 
@@ -28,7 +28,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (1) Additional debt guarantee authority
 
-&emsp;A request by the President under this section shall be considered granted by Congressupon adoption of a joint resolution approving such request. Such joint resolution shall be considered in the Senate under expedited procedures.
+&emsp;A request by the President under this section shall be considered granted by Congress upon adoption of a joint resolution approving such request. Such joint resolution shall be considered in the Senate under expedited procedures.
 
 #### (2) Fast track consideration in Senate
 
@@ -98,7 +98,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 &emsp;&emsp;(C) the title of which is as follows: "Joint resolution relating to the approval of a plan to guarantee obligations under section 1105 of the Dodd-Frank Wall Street Reform and Consumer Protection Act"; and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approves the obligation of any amount described in section 1105(c) of the Dodd-Frank WallStreet Reform and Consumer Protection Act.".
+&emsp;&emsp;(D) the matter after the resolving clause of which is as follows: "That Congress approves the obligation of any amount described in section 1105(c) of the Dodd-Frank Wall Street Reform and Consumer Protection Act.".
 
 #### (e) Funding
 
@@ -128,7 +128,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (f) Rule of construction
 
-For purposes of this section, a guarantee of deposits held by insured depository institutions shall not be treated as a debt guarantee program.
+For purposes of this section, a guarantee of deposits held by insured depository institutions in noninterest-bearing transaction accounts may be treated as a debt guarantee program.
 
 #### (g) Definitions
 
@@ -158,13 +158,33 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "solvent" means that the value of the assets of an entity exceed its obligations to creditors.
 
-(Pub. L. 111–203, title XI, §1105, July 21, 2010, 124 Stat. 2121.)
+#### (h) Approval of guarantee program during the COVID–19 crisis
+
+#### (1) In general
+
+&emsp;For purposes of the congressional joint resolution of approval provided for in subsections (c)(1) and (2) and (d), notwithstanding any other provision of this section, the Federal Deposit Insurance Corporation is approved upon enactment of this Act to establish a program provided for in subsection (a), provided that any such program and any such guarantee shall terminate not later than December 31, 2020.
+
+#### (2) Maximum amount
+
+&emsp;Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.
+
+(Pub. L. 111–203, title XI, §1105, July 21, 2010, 124 Stat. 2121; Pub. L. 116–136, div. A, title IV, §4008(a), Mar. 27, 2020, 134 Stat. 477.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 1105 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (d)(4)(C), (D), is section 1105 of Pub. L. 111–203, which is classified to this section.
 
 Section 208(n)(5)(E), referred to in subsec. (e)(5), probably means section 210(n)(5)(E) of Pub. L. 111–203, which is classified to section 5390(n)(5)(E) of this title, because section 208 does not contain a subsec. (n) and section 210(n)(5)(E) relates to treatment of certain purchases and sales of obligations by the Secretary as public debt.
+
+Enactment of this Act, referred to in subsec. (h)(1), probably means the date of enactment of subtitle A of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which was approved Mar. 27, 2020. For complete classification of this Act to the Code, see section 4001 of div. A of title IV of Pub. L. 116–136, set out as a Short Title note under section 9001 of this title, and Tables.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–136, §4008(a)(1), inserted "in noninterest-bearing transaction accounts" after "institutions" and substituted "may" for "shall not".
+
+Subsec. (h). Pub. L. 116–136, §4008(a)(2), added subsec. (h).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

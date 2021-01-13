@@ -56,7 +56,7 @@ As used in this subchapter:
 
 #### (7) Family child care provider
 
-&emsp;The term "family child care provider" means one individual who provides child careservices for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
+&emsp;The term "family child care provider" means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
 
 #### (8) Indian tribe
 

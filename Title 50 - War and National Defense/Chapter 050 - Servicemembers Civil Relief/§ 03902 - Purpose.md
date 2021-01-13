@@ -4,7 +4,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to provide for, strengthen, and expedite the national defense through protection extended by this chapter to servicemembers of the United States to enable such persons to devote their entire energy to the defense needs of the Nation; and
 
-&emsp;(2) to provide for the temporary suspension of judicial and administrative proceedings and transactions that may adversely affect the civil rights of servicemembers during their military service.
+&emsp;(2) to provide for the temporary suspension of judicial and administrative proceedings and transactions that may adversely affect thecivil rights of servicemembers during their military service.
 
 (Oct. 17, 1940, ch. 888, §2, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2836.)
 

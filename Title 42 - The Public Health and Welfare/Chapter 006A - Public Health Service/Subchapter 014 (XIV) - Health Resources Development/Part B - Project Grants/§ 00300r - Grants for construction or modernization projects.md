@@ -24,7 +24,7 @@
 
 #### (b) Projects for medically underserved populations; eligible grantees; maximum amounts; authorization of appropriations
 
-(1) The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart from hospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
+(1) The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart fromhospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
 
 (2) The amount of any grant under paragraph (1) may not exceed 80 per centum of the cost of the project for which the grant is made unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the grant may cover up to 100 per centum of such costs.
 

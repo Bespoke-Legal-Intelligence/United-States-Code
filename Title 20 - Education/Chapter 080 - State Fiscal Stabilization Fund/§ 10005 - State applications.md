@@ -54,7 +54,7 @@ An application under subsection (b) shall include the following assurances:
 
 &emsp;The State—
 
-&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C.6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
+&emsp;&emsp;(A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA (20 U.S.C. 6311(b)(3)) through activities such as those described in section 6112(a) <sup>1</sup> of such Act (20 U.S.C. 7301a(a));
 
 &emsp;&emsp;(B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) <sup>1</sup> of the ESEA (20 U.S.C. 6311(b)) and section 612(a)(16) of the IDEA (20 U.S.C. 1412(a)(16)) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 

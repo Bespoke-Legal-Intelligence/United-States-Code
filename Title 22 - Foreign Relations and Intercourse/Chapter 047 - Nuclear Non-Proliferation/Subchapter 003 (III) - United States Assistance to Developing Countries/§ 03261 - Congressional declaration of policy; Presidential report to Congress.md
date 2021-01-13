@@ -1,8 +1,10 @@
 ### §3261. Congressional declaration of policy; Presidential report to Congress
 
-The United States shall endeavor to cooperate with other nations, international institutions, and private organizations in establishing programs to assist in the development of non-nuclear energy resources, to cooperate with both developing and industrialized nations in protecting the international environment from contamination arising from both nuclear and non-nuclear energy activities, and shall seek to cooperate with and aid developing countries in meeting their energy needs through the development of such resources and the application ofnon-nuclear technologies consistent with the economic factors, the material resources of those countries, and environmental protection. The United States shall additionally seek to encourage other industrialized nations and groups of nations to make commitments for similar cooperation and aid to developing countries. The President shall report annually to Congress on the level of other nations' and groups of nations' commitments under such program and the relation of any such commitments to United States efforts under this title. In cooperating with and providing such assistance to developing countries, the United States shall give priority to parties to the Treaty.
+The United States shall endeavor to cooperate with other nations, international institutions, and private organizations in establishing programs to assist in the development of non-nuclear energy resources, to cooperate with both developing and industrialized nations in protecting the international environment from contamination arising from both nuclear and non-nuclear energy activities, and shall seek to cooperate with and aid developing countries in meeting their energy needs through the development of such resources and the application of non-nuclear technologies consistent with the economic factors, the material resources of those countries, and environmental protection. The United States shall additionally seek to encourage other industrialized nations and groups of nations to make commitments for similar cooperation and aid to developing countries. The President shall report annually to Congress on the level of other nations' and groups of nations' commitments under such program and the relation of any such commitments to United States efforts under this title. In cooperating with and providing such assistance to developing countries, the United States shall give priority to parties to the Treaty.
 
 (Pub. L. 95–242, title V, §501, Mar. 10, 1978, 92 Stat. 148.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -11,6 +13,8 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in this section requiring the President to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 126 of House Document No. 103–7.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

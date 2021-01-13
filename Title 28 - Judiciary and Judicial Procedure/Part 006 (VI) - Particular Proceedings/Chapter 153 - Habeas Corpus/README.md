@@ -25,6 +25,8 @@
 
 Chapter catchline was changed by Senate amendment. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–598, title II, §250(b), Nov. 6, 1978, 92 Stat. 2672, directed the addition of item 2256 "Habeas corpus from bankruptcy courts", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.

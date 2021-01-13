@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior analysis for Title 14, Coast Guard, consisted of items for part I "Regular Coast Guard" beginning with section 1, part II "Coast Guard Reserve and Auxiliary" beginning with section 701, and part III "Coast Guard Authorizations and Reports to Congress" beginning with section 2701, prior to repeal by Pub. L. 115–282, title I, §101, Dec. 4, 2018, 132 Stat. 4194.
@@ -2543,6 +2545,8 @@ Rep.
 381–388
 
 Rep.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Positive Law; Citation
 

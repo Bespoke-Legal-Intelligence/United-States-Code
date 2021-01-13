@@ -20,6 +20,8 @@
 
 (Aug. 1, 1956, ch. 841, title I, §35, as added Pub. L. 98–164, title I, §124, Nov. 22, 1983, 97 Stat. 1025; amended Pub. L. 100–204, title I, §173(a)(1), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 103–236, title I, §162(k)(1), Apr. 30, 1994, 108 Stat. 408.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 35 of act Aug. 1, 1956, was renumbered section 36 by section 124 of Pub. L. 98–164, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
@@ -34,9 +36,11 @@ Subsec. (b)(1). Pub. L. 103–236, §162(k)(1)(B)(iv), added par. (1). Former pa
 
 Subsec. (b)(2). Pub. L. 103–236, §162(k)(1)(B)(ii), (iii), (v), redesignated par. (1) as (2), struck out "with the bureaus and offices of the Department of State and" after "continuing liaison", inserted "and with the Federal Communications Commission, as appropriate" before semicolon, and struck out former par. (2) which read as follows: "in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;".
 
-Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted "any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may benecessary to coordinate actions on pending issues;" for "the Senior Interagency Group on International Communications and Information Policy".
+Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted "any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;" for "the Senior Interagency Group on International Communications and Information Policy".
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted after second sentence "The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

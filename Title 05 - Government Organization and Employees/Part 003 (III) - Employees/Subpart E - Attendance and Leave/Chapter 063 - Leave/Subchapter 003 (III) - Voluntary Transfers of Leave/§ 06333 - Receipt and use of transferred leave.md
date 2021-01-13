@@ -18,7 +18,7 @@
 
 (3) An employing agency shall approve or disapprove an application of a proposed leave recipient for leave under this subchapter, and, to the extent practicable, shall notify the proposed leave recipient (or other person acting on behalf of the proposed recipient, if appropriate) of the decision of the agency, in writing, within 10 days (excluding Saturdays, Sundays, and legal public holidays) after receiving such application.
 
-(b)(1) A leave recipient may use annual leave received under this subchapter in the same manner and for the same purposes as if such leaverecipient had accrued that leave under section 6303, except that any annual leave, and any sick leave, accrued or accumulated by the leave recipient and available for the purpose involved must be exhausted before any transferred annual leave may be used.
+(b)(1) A leave recipient may use annual leave received under this subchapter in the same manner and for the same purposes as if such leave recipient had accrued that leave under section 6303, except that any annual leave, and any sick leave, accrued or accumulated by the leave recipient and available for the purpose involved must be exhausted before any transferred annual leave may be used.
 
 (2)(A) The requirement under paragraph (1) relating to exhaustion of annual and sick leave shall not apply in the case of a leave recipient who—
 
@@ -42,9 +42,13 @@
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 110–181, div. A, title XVI, §1675(a), Jan. 28, 2008, 122 Stat. 484.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

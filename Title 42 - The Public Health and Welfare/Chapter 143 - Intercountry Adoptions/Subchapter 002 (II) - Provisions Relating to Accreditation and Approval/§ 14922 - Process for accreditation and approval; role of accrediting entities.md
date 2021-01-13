@@ -42,7 +42,7 @@ The duties described in this subsection are the following:
 
 #### (5) Report on use of Federal funding
 
-&emsp;Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
+&emsp;Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee onForeign Affairs of the House of Representatives that describes—
 
 &emsp;&emsp;(A) the amount of such funding the entity received; and
 

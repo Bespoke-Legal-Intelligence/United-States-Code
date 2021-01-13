@@ -142,7 +142,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 &emsp;&emsp;(I) The extent to which the project addresses identified municipal, State, or regional priorities.
 
-&emsp;&emsp;(J) The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonableexpectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
+&emsp;&emsp;(J) The readiness of the project to proceed toward development, including a demonstration by the obligor that there is a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under this chapter.
 
 &emsp;&emsp;(K) The extent to which assistance under this chapter reduces the contribution of Federal assistance to the project.
 
@@ -155,6 +155,8 @@ To be eligible to receive financial assistance under this chapter, a project sha
 Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
 (Pub. L. 113–121, title V, §5028, June 10, 2014, 128 Stat. 1335; Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437; Pub. L. 114–322, title IV, §5008(b)(2)(D), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, §4201(a)(2), Oct. 23, 2018, 132 Stat. 3877.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -169,6 +171,8 @@ Subsec. (b)(3). Pub. L. 114–322, §5008(b)(2)(D)(ii), substituted "section 390
 &emsp;"(A) the interest on which is exempt from the tax imposed under chapter 1 of title 26; or
 
 &emsp;"(B) with respect to which credit is allowable under subpart I or J of part IV of subchapter A of chapter 1 of title 26."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

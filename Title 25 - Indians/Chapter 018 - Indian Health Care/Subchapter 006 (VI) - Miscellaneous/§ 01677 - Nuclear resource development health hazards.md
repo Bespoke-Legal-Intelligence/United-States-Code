@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of the health hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
+The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of thehealth hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
 
 &emsp;(1) an evaluation of the nature and extent of nuclear resource development related health problems currently exhibited among Indians and the causes of such health problems;
 
@@ -50,9 +50,13 @@ In the case of any Indian who—
 
 (Pub. L. 94–437, title VIII, §807, formerly title VII, §707, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; renumbered title VIII, §807, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §813(b), Oct. 29, 1992, 106 Stat. 4572, 4590.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–573, §813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -60,5 +64,5 @@ In the case of any Indian who—
 
 #### Nuclear Resource Development Health Hazards; Study and Report
 
-Pub. L. 100–713, title VII, §717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number of active nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
+Pub. L. 100–713, title VII, §717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number ofactive nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
 

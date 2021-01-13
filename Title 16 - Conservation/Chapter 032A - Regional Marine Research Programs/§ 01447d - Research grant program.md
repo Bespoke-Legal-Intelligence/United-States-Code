@@ -12,7 +12,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 &emsp;(A) baseline assessment of marine environmental quality, including chemical, physical, and biological indicators of environmental quality;
 
-&emsp;(B) effects or potential effects of contaminants, including nutrients, toxic chemicalsand heavy metals, on the environment, including marine and aquatic organisms;
+&emsp;(B) effects or potential effects of contaminants, including nutrients, toxic chemicals and heavy metals, on the environment, including marine and aquatic organisms;
 
 &emsp;(C) effects of modification of habitats, including coastal wetlands, seagrass beds and reefs, on the environment, including marine organisms;
 
@@ -52,7 +52,7 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 (1) The Administrator of the National Oceanic and Atmospheric Administration shall review the annual grant application and, with the concurrence of the Administrator of the Environmental Protection Agency, approve such grant application with such conditions as are determined to be appropriate based on peer reviews conducted pursuant to paragraph (2).
 
-(2) The Administrator of the National Oceanic and Atmospheric Administration shall develop a system of peer review of grant applications which shall ensure that only the highest quality research is approved for funding and that each project is reviewed by research scientists outside the region concerned.
+(2) The Administrator of the National Oceanic and Atmospheric Administration shall develop asystem of peer review of grant applications which shall ensure that only the highest quality research is approved for funding and that each project is reviewed by research scientists outside the region concerned.
 
 #### (d) Reporting
 

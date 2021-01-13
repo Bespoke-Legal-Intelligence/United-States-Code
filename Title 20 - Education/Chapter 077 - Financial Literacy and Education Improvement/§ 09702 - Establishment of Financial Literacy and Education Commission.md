@@ -16,7 +16,7 @@ The Commission shall serve to improve the financial literacy and education of pe
 
 &emsp;&emsp;(A) the Secretary of the Treasury;
 
-&emsp;&emsp;(B) the respective head of each of the Federal banking agencies (as defined in section 1813 of title 12), the National Credit Union Administration, the Securities and Exchange Commission, each of the Departments of Education, Agriculture, Defense, Health and Human Services, Housing and Urban Development, Labor, and Veterans Affairs, the Federal Trade Commission, the General Services Administration, the Small Business Administration, the Social Security Administration, the Commodity Futures Trading Commission, and the Office of Personnel Management;
+&emsp;&emsp;(B) the respective head of each of the Federal banking agencies (as defined in section 1813 of title 12), the National Credit Union Administration, the Securities and Exchange Commission, each of the Departments of Education, Agriculture, Defense, Health and Human Services, Housing andUrban Development, Labor, and Veterans Affairs, the Federal Trade Commission, the General Services Administration, the Small Business Administration, the Social Security Administration, the Commodity Futures Trading Commission, and the Office of Personnel Management;
 
 &emsp;&emsp;(C) the Director of the Bureau of Consumer Financial Protection; and
 

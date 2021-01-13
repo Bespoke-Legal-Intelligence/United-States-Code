@@ -22,7 +22,7 @@ The Federal Land Policy Management Act (43 U.S.C. 1701–1784), referred to in p
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings "
+The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of actJune 4, 1897, ch. 2, 30 Stat. 34, under the headings "
 
 under the department of the interior." and "
 
@@ -30,7 +30,7 @@ surveying the public lands.", which are classified to sections 473 to 475, 477, 
 
 #### Amendments
 
-<b>2014</b>—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act' (16 U.S.C. 1901et seq.)", was executed by making the substitution for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)", to reflect the probable intent of Congress.
+<b>2014</b>—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act' (16 U.S.C. 1901 et seq.)", was executed by making the substitution for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)", to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

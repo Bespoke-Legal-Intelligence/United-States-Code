@@ -329,13 +329,15 @@ Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to
 | D.C. Code | 11–309 |
 | D.C. Code | 11–324 |
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B), (11)(C)(ii), is set out in the Appendix to this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–63, §101(1), struck out concluding provisions which read as follows: "For thepurposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled."
+<b>2011</b>—Subsec. (a). Pub. L. 112–63, §101(1), struck out concluding provisions which read as follows: "For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled."
 
 Subsec. (a)(2). Pub. L. 112–63, §101(2), inserted before semicolon at end ", except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State".
 
@@ -368,6 +370,8 @@ Subsec. (a). Pub. L. 85–554 substituted "$10,000" for "$3,000".
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 <b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

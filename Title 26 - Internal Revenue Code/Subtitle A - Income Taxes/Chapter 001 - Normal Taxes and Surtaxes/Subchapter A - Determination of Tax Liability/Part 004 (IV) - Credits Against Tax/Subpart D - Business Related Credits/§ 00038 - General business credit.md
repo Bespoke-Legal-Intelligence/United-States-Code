@@ -210,7 +210,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(8), (b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1184, 1201, 1208, 1211; Pub. L. 116–94, div. O, title I, §105(b), Dec. 20, 2019, 133 Stat. 3148.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV,§411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(8), (b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1184, 1201, 1208, 1211; Pub. L. 116–94, div. O, title I, §105(b), Dec. 20, 2019, 133 Stat. 3148.)
 
 #### References in Text
 
@@ -442,7 +442,7 @@ Subsec. (b)(7). Pub. L. 101–508, §11611(b)(1), added par. (7).
 
 Subsec. (c)(2). Pub. L. 101–508, §11813(b)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which permitted an offset of regular investment tax credit against 25 percent of minimum tax.
 
-Subsec. (c)(2)(C). Pub. L. 101–508, §11813(b)(2)(C), inserted "(as in effect on the day before the date of theenactment of the Revenue Reconciliation Act of 1990)" after "46(e)(1)" and "(as so in effect)" after "46(e)(2)".
+Subsec. (c)(2)(C). Pub. L. 101–508, §11813(b)(2)(C), inserted "(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)" after "46(e)(1)" and "(as so in effect)" after "46(e)(2)".
 
 Subsec. (c)(3). Pub. L. 101–508, §11813(b)(2)(B), redesignated par. (3) as (2).
 
@@ -512,7 +512,7 @@ Pub. L. 114–113, div. Q, title I, §186(e)(3), Dec. 18, 2015, 129 Stat. 3074, 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+Amendment by section 209(f)(1) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L.111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 Amendment by section 221(a)(2)(B), (6) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009
 
 #### Effective Date of 2008 Amendment
 
-Amendment by section 103(b) of Pub. L. 110–343 applicable to credits determined under section 46 of thistitle in taxable years beginning after Oct. 3, 2008, and to carrybacks of such credits, see section 103(f)(1), (2) of Pub. L. 110–343, set out as a note under section 48 of this title.
+Amendment by section 103(b) of Pub. L. 110–343 applicable to credits determined under section 46 of this title in taxable years beginning after Oct. 3, 2008, and to carrybacks of such credits, see section 103(f)(1), (2) of Pub. L. 110–343, set out as a note under section 48 of this title.
 
 Pub. L. 110–343, div. B, title I, §115(d), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendments made by this section \[enacting section 45Q of this title and amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
@@ -652,7 +652,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (c).—The amendment made by subsection (c) \[amending section 190 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act."
 
-Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effecton Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -674,7 +674,7 @@ Pub. L. 99–514, title XI, §1171(c), Oct. 22, 1986, 100 Stat. 2513, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall apply to compensation paid or accrued after December 31, 1986, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall apply to compensation paid or accrued after December 31, 1986, in taxable years ending after such date.
 
 "(2)
 
@@ -742,7 +742,7 @@ Other possessions.—The Secretary of the Treasury shall pay to each possession 
 
 &emsp;"(2)
 
-Coordination with credit allowed against united states income taxes.—No increase in the credit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined under subsection (a) shall be taken into account with respect to any person—
+Coordination with credit allowed against united states income taxes.—No increase in thecredit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined under subsection (a) shall be taken into account with respect to any person—
 
 &emsp;&emsp;"(A) to whom a credit is allowed against taxes imposed by the possession by reason of this section for such taxable year, or
 
@@ -858,7 +858,7 @@ Amount.—For purposes of subsection (a), the amount determined under this subse
 
 "(c)
 
-Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
+Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of theInternal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
 "(d)
 
@@ -1006,7 +1006,7 @@ For provisions requiring different applications of subsec. (c) of this section t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transition Rules
 

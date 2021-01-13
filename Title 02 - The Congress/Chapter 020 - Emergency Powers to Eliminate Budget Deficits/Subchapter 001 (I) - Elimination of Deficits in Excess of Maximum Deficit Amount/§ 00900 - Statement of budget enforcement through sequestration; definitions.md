@@ -26,7 +26,7 @@ As used in this subchapter:
 
 &emsp;(E) The term "revised nonsecurity category" means discretionary appropriations other than in budget function 050.
 
-&emsp;(F) The term "category" means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+&emsp;(F) The term "category" means the subsets of discretionary appropriations in section901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
 &emsp;(5) The term "baseline" means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
@@ -48,7 +48,7 @@ As used in this subchapter:
 
 &emsp;(11) The term "account" means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President's budget.
 
-&emsp;(12) The term "budget year" means, with respect to a session of Congress, the fiscal yearof the Government that starts on October 1 of the calendar year in which that session begins.
+&emsp;(12) The term "budget year" means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
 
 &emsp;(13) The term "current year" means, with respect to a budget year, the fiscal year that immediately precedes that budget year.
 
@@ -82,13 +82,15 @@ As used in this subchapter:
 
 (Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, §9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, §102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, §101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, June 5, 1997, 111 Stat. 2710, which is not classified to the Code.
 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(F), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990,was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -160,7 +162,7 @@ Subsec. (c)(6). Pub. L. 105–33, §10202(b)(3), added par. (6) and struck out f
 
 &emsp;"(B) with respect to budget year 1992, 1993, 1994, or 1995, new budget authority; unobligated balances; direct spending authority; and obligation limitations."
 
-Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted "that budget submission that are not included with it" for "submission of the fiscal year 1992 budget that are not included with a budget submission".
+Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted "that budget submission that are not included with it"for "submission of the fiscal year 1992 budget that are not included with a budget submission".
 
 Subsec. (c)(14). Pub. L. 105–33, §10202(b)(5), inserted "first 4" before "fiscal years" and struck out "through fiscal year 1995" after "the budget year".
 
@@ -182,9 +184,11 @@ Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19)
 
 <b>1990</b>—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective and Termination Dates
 
@@ -210,7 +214,7 @@ Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided tha
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: "This title \[enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the 'Budget Enforcement Act of 1990'."
+Pub. L. 101–508, title XIII, §13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: "This title \[enacting thissection and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title\] may be cited as the 'Budget Enforcement Act of 1990'."
 
 #### Short Title of 1987 Amendment
 
@@ -386,7 +390,7 @@ Hearings.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The joint committee may, for the purpose of carrying out this section, holdsuch hearings, sit and act at such times and places, require attendance of witnesses and production of books, papers, and documents, take such testimony, receive such evidence, and administer such oaths as the joint committee considers advisable.
+In general.—The joint committee may, for the purpose of carrying out this section, hold such hearings, sit and act at such times and places, require attendance of witnesses and production of books, papers, and documents, take such testimony, receive such evidence, and administer such oaths as the joint committee considers advisable.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -436,7 +440,7 @@ Referral and reporting.—Any committee of the House of Representatives to which
 
 &emsp;"(2)
 
-Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed of a motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+Proceeding to consideration.—After the last committee authorized to consider a joint committee bill reports it to the House or has been discharged (other than by motion) from its consideration, it shall be in order to move to proceed to consider the joint committee bill in the House. Such a motion shall not be in order after the House has disposed ofa motion to proceed with respect to the joint committee bill. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
 
 &emsp;"(3)
 
@@ -532,7 +536,7 @@ Loss of Privilege.—The provisions of this section shall cease to apply to the 
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
+&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner, and to the same extent as in the case of any other rule of such House."
 
 #### Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category
 
@@ -558,7 +562,7 @@ Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: 
 
 #### Waivers and Suspensions in the Senate
 
-Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: "Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuantto section 254(a) of this joint resolution \[section 904(a) of this title\]."
+Pub. L. 99–177, title II, §271(b), Dec. 12, 1985, 99 Stat. 1094, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: "Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution \[section 904(a) of this title\]."
 
 #### Appeals of Rulings
 
@@ -584,7 +588,7 @@ Pub. L. 100–119, title II, §213, Sept. 29, 1987, 101 Stat. 787, provided that
 
 &emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House."
 
-Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
+Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title noteabove\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -593,6 +597,8 @@ Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat.
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
 For provisions restoring various trust and retirement funds administered by the Secretary of the Treasury to the position in which they would have been if debt limit increases had been delayed, including transferring amounts to the funds to compensate those funds for current and prospective losses arising from premature redemption of some long term securities when the debt limit was reached, see notes set out under section 3101 of Title 31, Money and Finance.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12857
 
@@ -624,7 +630,7 @@ Sec. 2. <i>Deficit Reduction Fund.</i>
 
 > Within 30 days of enactment of the Omnibus Budget Reconciliation Act of 1993, the foregoing amounts may be adjusted by the Director of the Office of Management and Budget to reflect the final scoring of such Act.
 
-(c) <i>Status of Amounts in Fund</i>. (i) The amounts in the Deficit Reduction Fund shall be used exclusively to redeem maturing debt obligations of the Treasury of theUnited States held by foreign governments in the amounts specified in subsection (b).
+(c) <i>Status of Amounts in Fund</i>. (i) The amounts in the Deficit Reduction Fund shall be used exclusively to redeem maturing debt obligations of the Treasury of the United States held by foreign governments in the amounts specified in subsection (b).
 
 (ii) The amounts in the Deficit Reduction Fund as set forth in subsection (b) that result from increases in total revenues and spending reductions shall not be available for new spending or to finance measures that increase the deficit for purposes of budget enforcement procedures under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901–922 \[900–922\]).
 

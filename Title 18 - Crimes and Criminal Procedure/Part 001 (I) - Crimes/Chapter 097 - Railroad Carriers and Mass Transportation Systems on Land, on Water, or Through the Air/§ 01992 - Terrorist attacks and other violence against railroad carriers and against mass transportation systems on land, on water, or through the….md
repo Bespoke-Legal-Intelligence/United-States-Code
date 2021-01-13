@@ -60,7 +60,7 @@ Definitions.—In this section—
 
 &emsp;(1) the term "biological agent" has the meaning given to that term in section 178(1);
 
-&emsp;(2) the term "dangerous weapon" means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 2½ inches in length and a box cutter;
+&emsp;(2) the term "dangerous weapon" means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for,or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 2½ inches in length and a box cutter;
 
 &emsp;(3) the term "destructive device" has the meaning given to that term in section 921(a)(4);
 
@@ -91,6 +91,8 @@ Definitions.—In this section—
 &emsp;(16) the term "vehicle" means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
 (Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, §1539, Aug. 3, 2007, 121 Stat. 468; Pub. L. 115–232, div. C, title XXXV, §3541(b)(3), Aug. 13, 2018, 132 Stat. 2323.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

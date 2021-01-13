@@ -6,7 +6,7 @@ Increased Assistance for Members With Critical Skills or Specialty.—
 
 &emsp;(1)
 
-In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+In general.—In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ Supplemental Assistance for Additional Service.—
 
 &emsp;(1)
 
-In general.—The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (7) of such section (as applicable).
+In general.—The Secretary concerned may provide for the payment to an individual entitled to educational assistance under this chapter of supplemental educational assistance for additional service authorized by subchapter III of chapter 30. The amount so payable shall be payable as an increase in the monthly amount of educational assistance otherwise payable to the individual under paragraph (1)(B) of section 3313(c), or under paragraphs (2) through (6) of such section (as applicable).
 
 &emsp;(2)
 
@@ -60,11 +60,9 @@ Funding.—Payments for increased educational assistance under this section shal
 
 Regulations.—The Secretaries concerned shall administer this section in accordance with such regulations as the Secretary of Defense shall prescribe.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367; amended Pub. L. 111–275,title X, §1001(g)(4), (5), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §109(a)–(b)(1), Jan. 4, 2011, 124 Stat. 4119, 4120; Pub. L. 115–48, title I, §105(c)(3), Aug. 16, 2017, 131 Stat. 976.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2367; amended Pub. L. 111–275, title X, §1001(g)(4), (5), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §109(a)–(b)(1), Jan. 4, 2011, 124 Stat. 4119, 4120; Pub. L. 115–48, title I, §105(c)(3), Aug. 16, 2017, 131 Stat. 976.)
 
-#### Amendment of Subsections (a)(1) and (b)(1)
-
-<i>Pub. L. 115–48, title I, §105(c)(3), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsections (a)(1) and (b)(1) of this section are amended by striking "paragraphs (2) through (7)" and inserting "paragraphs (2) through (6)". See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +81,8 @@ Subsec. (e). Pub. L. 111–377, §109(a)(1), redesignated subsec. (c) as (e).
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–275, §1001(g)(4), substituted "supplemental" for "supplement".
 
 Subsec. (b)(3). Pub. L. 111–275, §1001(g)(5), substituted "educational assistance payable under section 3022" for "educational payable under section 3022".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

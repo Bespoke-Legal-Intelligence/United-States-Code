@@ -78,7 +78,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan,the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan, the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the amount paid or incurred by such trust during such taxable year to provide medical care (as defined in section 9832(d)(3)) directly or through insurance, reimbursement, or otherwise, or
 
@@ -176,7 +176,7 @@ Subsec. (f)(1). Pub. L. 105–34, §1531(b)(2)(E), substituted "section 9832(a)"
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
+Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of thistitle, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
 
 #### Effective Date
 

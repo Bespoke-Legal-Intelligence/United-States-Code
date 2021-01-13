@@ -110,7 +110,7 @@ The Secretary of Homeland Security shall provide to the Center the administrativ
 
 #### (1) Initial report
 
-&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congressa report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
+&emsp;Not later than 180 days after December 17, 2004, the President shall transmit to Congress a report regarding the implementation of this section, including a description of the staffing and resource needs of the Center.
 
 #### (2) Follow-up report
 
@@ -144,9 +144,11 @@ As part of its mission to combat terrorist travel, the Center shall work to supp
 
 #### (i) Coordination with the Office of Intelligence and Analysis
 
-The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcement agencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
+The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcementagencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
 
 (Pub. L. 108–458, title VII, §7202, Dec. 17, 2004, 118 Stat. 3813; Pub. L. 110–53, title VII, §721(a)–(c), Aug. 3, 2007, 121 Stat. 346–348.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -169,6 +171,8 @@ Pub. L. 110–53, §721(a)(2), redesignated subsec. (d) as (g).
 Subsec. (h). Pub. L. 110–53, §721(a)(2), redesignated subsec. (e) as (h).
 
 Subsec. (i). Pub. L. 110–53, §721(c), added subsec. (i).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

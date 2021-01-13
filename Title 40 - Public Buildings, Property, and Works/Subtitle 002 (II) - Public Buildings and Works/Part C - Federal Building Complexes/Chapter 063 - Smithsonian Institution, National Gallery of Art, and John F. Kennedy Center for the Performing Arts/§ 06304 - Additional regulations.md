@@ -6,7 +6,7 @@ Authority To Prescribe Additional Regulations.—In addition to the restrictions
 
 &emsp;(1) the adequate protection of the specified buildings and grounds and individuals and property in those buildings and grounds; and
 
-&emsp;(2) the maintenance of suitable order and decorum within the specified buildings and grounds, including the control of traffic and parking of vehicles in the National ZoologicalPark and all other areas in the District of Columbia under their control.
+&emsp;(2) the maintenance of suitable order and decorum within the specified buildings and grounds, including the control of traffic and parking of vehicles in the National Zoological Park and all other areas in the District of Columbia under their control.
 
 (b)
 

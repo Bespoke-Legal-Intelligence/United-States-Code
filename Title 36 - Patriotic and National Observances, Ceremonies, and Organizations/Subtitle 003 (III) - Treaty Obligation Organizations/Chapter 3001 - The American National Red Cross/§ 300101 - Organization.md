@@ -44,11 +44,15 @@ Jan. 5, 1905, ch. 23, §2 (1st sentence words before 2d comma), 33 Stat. 600; Ma
 
 This section is substituted for the source provisions to eliminate unnecessary and obsolete language.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–26, §3(1), inserted "a Federally chartered instrumentality of the United States and" before "a body corporate and politic".
 
 Subsec. (b). Pub. L. 110–26, §3(2), inserted at end "The corporation may conduct its business and affairs, and otherwise hold itself out, as the 'American Red Cross' in any jurisdiction."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings; Sense of Congress
 

@@ -2,13 +2,15 @@
 
 Section, Pub. L. 99–440, §3, Oct. 2, 1986, 100 Stat. 1087; Pub. L. 99–631, §1(a)(2), Nov. 7, 1986, 100 Stat. 3515; Pub. L. 103–149, §4(a)(3)(A), Nov. 23, 1993, 107 Stat. 1505, defined terms for purposes of this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective June 8, 1994, date on which President certified to Congress that interim government, elected on nonracial basis through free and fair elections, had taken office in South Africa, see section 4(a)(2) of Pub. L. 103–149, set out in a Repeal of Chapter; South African Democratic Transition Support note below.
 
 #### Short Title
 
-Pub. L. 99–440, §1, Oct. 2, 1986, 100 Stat. 1086, provided that Pub. L. 99–440, which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out asa note under section 2346d of this title, could be cited as the "Comprehensive Anti-Apartheid Act of 1986", prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
+Pub. L. 99–440, §1, Oct. 2, 1986, 100 Stat. 1086, provided that Pub. L. 99–440, which enacted this chapter and sections 2151o and 2346d of this title, amended sections 2151c and 2151n of this title and section 635 of Title 12, Banks and Banking, and enacted provisions set out as a note under section 2346d of this title, could be cited as the "Comprehensive Anti-Apartheid Act of 1986", prior to repeal by Pub. L. 103–149, §4(a)(2), Nov. 23, 1993, 107 Stat. 1505.
 
 #### Repeal of Chapter; South African Democratic Transition Support
 
@@ -98,7 +100,7 @@ Other Provisions.—The following provisions are repealed or amended as follows:
 
 &emsp;"(2) Section 211 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 (99 Stat. 432) is repealed, and section 1(b) of that Act is amended by striking the item in the table of contents relating to section 211.
 
-&emsp;"(3) Sections 1223 and 1224 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (101Stat. 1415) is repealed, and section 1(b) of that Act is amended by striking the items in the table of contents relating to sections 1223 and 1224.
+&emsp;"(3) Sections 1223 and 1224 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (101 Stat. 1415) is repealed, and section 1(b) of that Act is amended by striking the items in the table of contents relating to sections 1223 and 1224.
 
 &emsp;"(4) Section 362 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993 (105 Stat. 716) is repealed, and section 2 of that Act is amended by striking the item in the table of contents relating to section 362.
 
@@ -204,7 +206,7 @@ OPIC.—The President should immediately initiate negotiations with the Governme
 
 "(c)
 
-Trade and Development Agency.—In carrying out section 661 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2421\], the Director of the Trade and DevelopmentAgency should provide additional funds for activities related to projects in South Africa.
+Trade and Development Agency.—In carrying out section 661 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2421\], the Director of the Trade and Development Agency should provide additional funds for activities related to projects in South Africa.
 
 "(d)
 

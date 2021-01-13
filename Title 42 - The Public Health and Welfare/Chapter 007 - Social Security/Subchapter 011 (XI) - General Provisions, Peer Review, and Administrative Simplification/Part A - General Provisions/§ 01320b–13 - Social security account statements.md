@@ -10,7 +10,7 @@
 
 &emsp;(B) an estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for old-age, survivors, and disability insurance as shown by the records of the Commissioner on the date of the request;
 
-&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual forhospital insurance as shown by the records of the Commissioner on the date of the request;
+&emsp;(C) a separate estimate of the aggregate of the employer, employee, and self-employment contributions of the eligible individual for hospital insurance as shown by the records of the Commissioner on the date of the request;
 
 &emsp;(D) an estimate of the potential monthly retirement, disability, survivor, and auxiliary benefits payable on the eligible individual's account together with a description of the benefits payable under the medicare program of subchapter XVIII; and
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) who has attained age 25 or over, and
 
-&emsp;(C)(i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that the pattern of wages or self-employment income indicate a likelihood of noncovered employment.
+&emsp;(C)(i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that thepattern of wages or self-employment income indicate a likelihood of noncovered employment.
 
 #### (b) Notice to eligible individuals
 

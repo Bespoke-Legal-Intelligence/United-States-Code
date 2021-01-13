@@ -2,7 +2,7 @@
 
 (a) Sections 551–559 of title 5 apply to each hearing under this chapter about suspending or revoking a license, certificate of registry, or merchant mariner's document.
 
-(b) The individual whose license, certificate of registry, or merchant mariner's document hasbeen suspended or revoked under this chapter may appeal, within 30 days, the suspension or revocation to the Secretary.
+(b) The individual whose license, certificate of registry, or merchant mariner's document has been suspended or revoked under this chapter may appeal, within 30 days, the suspension or revocation to the Secretary.
 
 (c)(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner's document to make available to the Secretary, under section 30305(b)(7) of title 49, all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act <sup>1</sup> committed by the individual.
 
@@ -40,6 +40,8 @@ Section 7702(a) provides that Sections 551–559 of title 5 of the United States
 
 Subsection (b) allows an individual whose license, certificate, or document has been suspended or revoked to appeal it to the Secretary within 30 days.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 205(a)(3)(A) or (B) of that Act, referred to in subsec. (c)(1), means section 205(a)(3)(A), (B) of the National Driver Register Act of 1982, Pub. L. 97–364, which was set out in a note under section 401 of Title 23, Highways, and was repealed and restated in section 30304 of Title 49, Transportation, by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 975, 1379.
@@ -61,6 +63,8 @@ Subsec. (d)(1)(B)(iv). Pub. L. 108–293, §407(3)–(5), added cl. (iv).
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–380 added subsecs. (c) and (d).
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–36 substituted "mariner's" for "mariners' ".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

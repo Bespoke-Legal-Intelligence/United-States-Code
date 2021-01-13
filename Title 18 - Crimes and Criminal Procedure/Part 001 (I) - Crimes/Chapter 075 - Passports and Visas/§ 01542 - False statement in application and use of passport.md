@@ -18,6 +18,8 @@ Punishment of five years' imprisonment was substituted for "ten years" to confor
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 substituted "to facilitate" for "to facility" in last par.
@@ -28,7 +30,9 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322, §130009(a)(2), substituted "under this title, imprisoned not more than 10 years" for "not more than $2,000 or imprisoned not more than five years" in last par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 

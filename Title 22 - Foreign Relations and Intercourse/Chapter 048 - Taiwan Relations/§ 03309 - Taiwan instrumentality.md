@@ -14,6 +14,8 @@ Upon the granting by Taiwan of comparable privileges and immunities with respect
 
 (Pub. L. 96–8, §10, Apr. 10, 1979, 93 Stat. 18.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.

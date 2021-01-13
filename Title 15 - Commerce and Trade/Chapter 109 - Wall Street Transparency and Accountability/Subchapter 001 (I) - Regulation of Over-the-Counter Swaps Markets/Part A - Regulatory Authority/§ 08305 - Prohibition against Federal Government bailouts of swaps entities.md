@@ -106,7 +106,7 @@ The prohibition in subsection (a) shall be effective 2 years following the date 
 
 #### (B) Institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12
 
-&emsp;&emsp;All swaps entities that are institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12, that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swapor security-based swap activity of the swaps entity.
+&emsp;&emsp;All swaps entities that are institutions that pose a systemic risk and are subject to heightened prudential supervision as regulated under section 5323 of title 12, that are put into receivership or declared insolvent as a result of swap or security-based swap activity of the swaps entities shall be subject to the termination or transfer of that swap or security-based swap activity in accordance with applicable law prescribing the treatment of those contracts. No taxpayer funds shall be used to prevent the receivership of any swap entity resulting from swap or security-based swap activity of the swaps entity.
 
 #### (C) Non-FDIC insured, non-systemically significant institutions not subject to heightened prudential supervision as regulated under section 5323 of title 12
 

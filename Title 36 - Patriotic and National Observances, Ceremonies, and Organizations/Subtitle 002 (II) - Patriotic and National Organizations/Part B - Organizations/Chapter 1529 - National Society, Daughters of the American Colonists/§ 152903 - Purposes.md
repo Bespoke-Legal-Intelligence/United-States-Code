@@ -46,6 +46,8 @@ Clauses (6)–(8) restate 36:2903(6) as 3 clauses for clarity.
 
 This amends section 152903(8) of title 36 to correct an inconsistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (8). Pub. L. 105–354 substituted "corporation" for "Corporation".

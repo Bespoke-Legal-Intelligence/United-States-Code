@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §3(j)(6), Sept. 16, 2011, 125 Stat. 291, amended item 146 generally, substituting "Civil action in case of derivation proceeding" for "Civil action in case of interference".

@@ -24,7 +24,7 @@ A State, Indian tribal government, or unit of local government shall be deemed t
 
 #### (c) Use of funds
 
-A State or Indian tribal government may use Federal grant funds under this subchapter to pay for forensic medical exams performed by trained examiners for victims of sexual assault, except that such funds may not be used to pay for forensic medical exams by any State, Indian tribal government, or territorial government that requires victims of sexual assault to seek reimbursement for such exams from their insurance carriers.
+A State or Indian tribal government may use Federal grant funds under this subchapter topay for forensic medical exams performed by trained examiners for victims of sexual assault, except that such funds may not be used to pay for forensic medical exams by any State, Indian tribal government, or territorial government that requires victims of sexual assault to seek reimbursement for such exams from their insurance carriers.
 
 #### (d) Noncooperation
 
@@ -44,7 +44,7 @@ A State or Indian tribal government may use Federal grant funds under this subch
 
 &emsp;&emsp;(A) certifies that its judicial administrative policies and practices include notification to domestic violence offenders of the requirements delineated in section 922(g)(8) and (g)(9) of title 18 and any applicable related Federal, State, or local laws; or
 
-&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies andpractices will be in compliance with the requirements of subparagraph (A) within the later of—
+&emsp;&emsp;(B) gives the Attorney General assurances that its judicial administrative policies and practices will be in compliance with the requirements of subparagraph (A) within the later of—
 
 &emsp;&emsp;&emsp;(i) the period ending on the date on which the next session of the State legislature ends; or
 
@@ -55,6 +55,8 @@ A State or Indian tribal government may use Federal grant funds under this subch
 &emsp;Funds withheld from a State or unit of local government under subsection (a) shall be distributed to other States and units of local government, pro rata.
 
 (Pub. L. 90–351, title I, §2010, formerly §2005, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered §2010, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789; amended Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(f), Jan. 5, 2006, 119 Stat. 2974; Pub. L. 109–271, §2(j), Aug. 12, 2006, 120 Stat. 753; Pub. L. 113–4, title I, §101(4), Mar. 7, 2013, 127 Stat. 69.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Subsec. (d). Pub. L. 109–271 designated existing provisions as par. (1), inser
 Pub. L. 109–162 added subsec. (d).
 
 Subsec. (e). Pub. L. 109–162 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

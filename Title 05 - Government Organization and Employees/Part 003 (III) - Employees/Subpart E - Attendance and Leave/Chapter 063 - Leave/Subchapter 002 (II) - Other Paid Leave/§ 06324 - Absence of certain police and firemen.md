@@ -34,6 +34,8 @@ In subsection (b), the words "injury or illness" are substituted for "injury or 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–282, §2(c)(1), substituted "United States Secret Service Uniformed Division" for "Executive Protective Service force".
@@ -45,6 +47,8 @@ Subsec. (c). Pub. L. 111–282, §2(c)(3), added subsec. (c).
 <b>1975</b>—Subsecs. (a), (b)(3). Pub. L. 94–183 substituted "Executive Protective Service" for "White House Police".
 
 <b>1968</b>—Subsec. (b)(1). Pub. L. 90–623 substituted "District of Columbia Council" for "Commissioners of the District of Columbia".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

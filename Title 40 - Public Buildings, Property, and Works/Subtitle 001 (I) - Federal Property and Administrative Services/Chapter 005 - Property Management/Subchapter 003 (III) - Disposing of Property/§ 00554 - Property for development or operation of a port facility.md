@@ -70,6 +70,8 @@ June 30, 1949, ch. 288, title II, §203(q), as added Pub. L. 103–160, div. B, 
 
 In subsection (a), the words "Trust Territory of the Pacific Islands" are omitted and the words "the Federated States of Micronesia, the Marshall Islands, Palau" are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted "has the meaning given that term in section 101(a)(17) of title 10." for "means the following:

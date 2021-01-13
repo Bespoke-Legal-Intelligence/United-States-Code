@@ -80,7 +80,7 @@ Risk of harm after maximum period of confinement.—If, after the applicable max
 
 &emsp;&emsp;(D)
 
-Spirit and purpose.—The use of consecutive periods of room confinement to evade the spirit and purpose of this subsection shall be prohibited.
+Spirit and purpose.—The use of consecutive periods of room confinement toevade the spirit and purpose of this subsection shall be prohibited.
 
 (Added Pub. L. 115–391, title VI, §613(a), Dec. 21, 2018, 132 Stat. 5247.)
 

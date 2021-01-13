@@ -46,9 +46,13 @@ July 4, 1966, Pub. L. 89–488, §3(b), 80 Stat. 252.
 
 The words "maximum rate of basic pay for GS–15" and "minimum rate of basic pay for GS–2" are substituted for "highest rate of basic compensation provided for grade 15 of the General Schedule of the Classification Act of 1949" and "lowest rate of basic compensation provided for grade 2 by such General Schedule", respectively, for consistency of style within title 5 and to reflect the codification of the Classification Act of 1949 in title 5.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–566 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Personnel Not Affected by 1967 Increase
 

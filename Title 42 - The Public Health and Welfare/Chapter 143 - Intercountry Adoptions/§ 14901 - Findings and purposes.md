@@ -36,7 +36,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
+Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of thistitle\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
 
 &emsp;"(2)
 
@@ -50,9 +50,13 @@ Transition Rule.—The Convention and this Act \[see Short Title note below\] sh
 
 &emsp;"(2) in the case of a child emigrating from the United States, if the prospective adoptive parents of the child initiated the adoption process in their country of residence with the filing of an appropriate application before the effective date described in subsection (a)(2)."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–184, §1, Oct. 30, 2020, 134 Stat. 897, provided that: "This Act \[amending section 14914 of this title and enacting provisions set out as notes under section 14914 of this title\] may be cited as the 'Intercountry Adoption Information Act of 2019'."
+
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–276, §1, Jan. 14, 2013, 126 Stat. 2466, provided that: "This Act \[enacting section 14925 of thistitle, amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under section 14925 of this title\] may be cited as the 'Intercountry Adoption Universal Accreditation Act of 2012'."
+Pub. L. 112–276, §1, Jan. 14, 2013, 126 Stat. 2466, provided that: "This Act \[enacting section 14925 of this title, amending sections 14922 and 14943 of this title, and enacting provisions set out as a note under section 14925 of this title\] may be cited as the 'Intercountry Adoption Universal Accreditation Act of 2012'."
 
 #### Short Title
 

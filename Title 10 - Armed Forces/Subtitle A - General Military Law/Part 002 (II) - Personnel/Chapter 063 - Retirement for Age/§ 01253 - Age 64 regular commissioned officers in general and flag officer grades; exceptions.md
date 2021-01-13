@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
+General Rule.—Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
 (b)
 
@@ -22,9 +22,11 @@ Deferred Retirement of Chaplains.—(1) The Secretary of the military department
 
 (2) A deferment of the retirement of an officer referred to in paragraph (1) may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 
-(Added Pub. L. 109–364, div. A, title V, §502(a), Oct. 17, 2006, 120 Stat. 2176; amended Pub. L. 114–92, div. A, title V, §504(a), (b)(1), Nov. 25, 2015, 129 Stat. 807; Pub. L. 116–92, div. A, title V, §508, Dec. 20, 2019, 133 Stat. 1346.)
+(Added Pub. L. 109–364, div. A, title V, §502(a), Oct. 17, 2006, 120 Stat. 2176; amended Pub. L. 114–92, div. A, title V, §504(a), (b)(1), Nov. 25, 2015, 129 Stat. 807; Pub. L. 116–92, div. A, title V, §508, Dec. 20, 2019, 133 Stat. 1346; Pub. L. 116–283, div. A, title IX, §924(b)(3)(V), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2019</b>—Subsec. (c)(3). Pub. L. 116–92 struck out par. (3) which read as follows: "The authority to defer the retirement of an officer referred to in paragraph (1) expires December 31, 2020. Subject to paragraph (2), a deferment granted before that date may continue on and after that date."
 

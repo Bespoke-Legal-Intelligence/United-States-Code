@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any other provision of law, primarily for the purpose of deposit production.
+The appropriate Federal banking agencies shall prescribe uniform regulations effectiveJune 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any other provision of law, primarily for the purpose of deposit production.
 
 #### (b) Guidelines for meeting credit needs
 
@@ -78,9 +78,11 @@ For the purposes of this section, the following definitions shall apply:
 
 #### (5) Out-of-State bank
 
-&emsp;The term "out-of-State bank" means, with respect to any State, a bank the home State of which is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
+&emsp;The term "out-of-State bank" means, with respect to any State, a bank the home State ofwhich is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
 
 (Pub. L. 103–328, title I, §109, Sept. 29, 1994, 108 Stat. 2362; Pub. L. 106–102, title I, §106, Nov. 12, 1999, 113 Stat. 1359.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Section was enacted as part of the Riegle-Neal Interstate Banking and Branching 
 #### Amendments
 
 <b>1999</b>—Subsec. (e)(4). Pub. L. 106–102 inserted before period at end "and any branch of a bank controlled by an out-of-State bank holding company (as defined in section 1841(o)(7) of this title)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

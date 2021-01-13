@@ -48,6 +48,8 @@ Liability of Directors.—Directors are not personally liable, except for gross 
 
 (Added Pub. L. 107–252, title VI, §601(a), Oct. 29, 2002, 116 Stat. 1718, §152603; renumbered §90103, Pub. L. 113–237, §3(c)(6)(B), Dec. 18, 2014, 128 Stat. 2840.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 107–252, which was approved Oct. 29, 2002.

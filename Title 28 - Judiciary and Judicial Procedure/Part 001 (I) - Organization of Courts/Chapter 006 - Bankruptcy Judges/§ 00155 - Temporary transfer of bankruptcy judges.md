@@ -6,11 +6,15 @@
 
 (Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–651, title II, §202(a), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 100–659, §4(a), Nov. 15, 1988, 102 Stat. 3918.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–659 inserted "section 377 of this title or in" after "annuity in" and "which are applicable to such judge" after "title 5".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -10,6 +10,8 @@ Exception.—Members of the Council who are full-time officers or employees of t
 
 (Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1032.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2303, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related to the Executive Director of the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.

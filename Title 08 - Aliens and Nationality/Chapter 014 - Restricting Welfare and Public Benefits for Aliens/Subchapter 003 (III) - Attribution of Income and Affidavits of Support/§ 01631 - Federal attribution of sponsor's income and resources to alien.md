@@ -44,7 +44,7 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 &emsp;Subject to paragraph (2) and notwithstanding any other provision of this section, subsection (a) shall not apply to benefits—
 
-&emsp;&emsp;(A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien's child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse's or parent's family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
+&emsp;&emsp;(A) during a 12 month period if the alien demonstrates that (i) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to or acquiesced to such battery or cruelty, (ii) the alien's child has been battered or subjected to extreme cruelty in the United States by the spouse or parent of the alien (without the active participation of the alien in the battery or cruelty), or by a member of the spouse's or parent's family residing in the same household as the alien when the spouse or parent consented or acquiesced to and the alien did not actively participate in such battery or cruelty, or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or bya member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii) (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the public benefits applied for; and
 
 &emsp;&emsp;(B) after a 12 month period (regarding the batterer's income and resources only) if the alien demonstrates that such battery or cruelty under subparagraph (A) has been recognized in an order of a judge or administrative law judge or a prior determination of the Immigration and Naturalization Service, and that such battery or cruelty (in the opinion of the agency providing such public benefits, which opinion is not subject to review by any court) has a substantial connection to the need for the benefits.
 
@@ -53,6 +53,8 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 &emsp;The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
 (Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641; Pub. L. 107–171, title IV, §4401(b)(2)(B), May 13, 2002, 116 Stat. 333.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §551(b)(1), inserted "and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996" after "section 423".
 
 Subsecs. (e), (f). Pub. L. 104–208, §552, added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

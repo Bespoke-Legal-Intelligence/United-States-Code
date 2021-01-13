@@ -12,9 +12,13 @@ The Secretary shall—
 
 (Pub. L. 86–599, §2, July 7, 1960, 74 Stat. 336; Pub. L. 109–58, title X, §1009(a)(1)(B), Aug. 8, 2005, 119 Stat. 934.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 struck out "shall establish within the Department of the Interior an Office of Coal Research, and through such Office" after "The Secretary" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

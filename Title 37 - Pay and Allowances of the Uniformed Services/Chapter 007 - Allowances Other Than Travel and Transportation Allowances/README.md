@@ -8,7 +8,9 @@
 | [403\.](%C2%A7%2000403%20-%20Basic%20allowance%20for%20housing.md) | Basic allowance for housing. |
 | [403a.](%C2%A7%2000403a%20-%20Housing%20treatment%20for%20certain%20members%20of%20the%20armed%20forces%2C%20and%20their%20spouses%20and%20other%20dependents%2C%20undergoing%20a%20permanent%20change%20of%E2%80%A6.md) | Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States. |
 | [403b.](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md) | Cost-of-living allowance in the continental United States. |
-| \[404 to 412. Repealed.\] |  |
+| \[404. | Repealed.\] |
+| [405\.](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md) | Travel and transportation allowances: per diem while on duty outside the continental United States. |
+| \[406 to 412. Repealed.\] |  |
 | [413\.](%C2%A7%2000413%20-%20Chairman%20and%20Vice%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md) | Chairman and Vice Chairman of the Joint Chiefs of Staff. |
 | [414\.](%C2%A7%2000414%20-%20Personal%20money%20allowance.md) | Personal money allowance. |
 | [415\.](%C2%A7%2000415%20-%20Uniform%20allowance%20officers%3B%20initial%20allowance.md) | Uniform allowance: officers; initial allowance. |
@@ -27,7 +29,8 @@
 | \[428 to 432. Repealed.\] |  |
 | [433\.](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md) | Allowance for muster duty. |
 | [433a.](%C2%A7%2000433a%20-%20Allowance%20for%20participation%20in%20Ready%20Reserve%20screening.md) | Allowance for participation in Ready Reserve screening. |
-| \[434, 435. Repealed.\] |  |
+| \[434. | Repealed.\] |
+| [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
 | [436\.](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md) | High-deployment allowance: lengthy or numerous deployments; frequent mobilizations. |
 | [437\.](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premiums%20for%20Servicemembers%27%20Group%20Life%20Insurance%20members%20serving%20in%20a%20designated%20duty%20assignment.md) | Allowance to cover monthly premium for Servicemembers' Group Life Insurance: members serving in a designated duty assignment.<sup>1</sup> |
 
@@ -40,7 +43,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VI, §604(c)(1), Jan. 1, 2021, 134 Stat. 3672, added items 405 and 435.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title VI, §604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.
 
@@ -64,7 +71,7 @@ Pub. L. 110–181, div. A, title VI, §§631(a)(2), 633(a)(2), Jan. 28, 2008, 12
 
 Pub. L. 109–163, div. A, title VI, §§613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted "Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member" for "Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave" in item 404b.
 
-<b>2005</b>—Pub. L. 109–13, div. A, title I, §1026(b)(2), May 11, 2005, 119 Stat. 254, substituted "illness or injury ofmembers" for "the serious illness or injury of members" in item 411h.
+<b>2005</b>—Pub. L. 109–13, div. A, title I, §1026(b)(2), May 11, 2005, 119 Stat. 254, substituted "illness or injury of members" for "the serious illness or injury of members" in item 411h.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title VI, §605(b)(3), Oct. 28, 2004, 118 Stat. 1945, substituted "continental United States" for "United States or in Hawaii or Alaska" in item 405.
 
@@ -150,7 +157,7 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00404 - Renumbered &sect;474](%C2%A7%2000404%20-%20Renumbered%20%C2%A7474.md)
 - [&sect; 00404a - Renumbered &sect;474a](%C2%A7%2000404a%20-%20Renumbered%20%C2%A7474a.md)
 - [&sect; 00404b - Renumbered &sect;474b](%C2%A7%2000404b%20-%20Renumbered%20%C2%A7474b.md)
-- [&sect; 00405 - Renumbered &sect;475](%C2%A7%2000405%20-%20Renumbered%20%C2%A7475.md)
+- [&sect; 00405 - Travel and transportation allowances per diem while on duty outside the continental United States](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md)
 - [&sect; 00405a - Renumbered &sect;475a](%C2%A7%2000405a%20-%20Renumbered%20%C2%A7475a.md)
 - [&sect; 00406 - Renumbered &sect;476](%C2%A7%2000406%20-%20Renumbered%20%C2%A7476.md)
 - [&sect; 00406a - Renumbered &sect;476a](%C2%A7%2000406a%20-%20Renumbered%20%C2%A7476a.md)
@@ -198,7 +205,7 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00433 - Allowance for muster duty](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md)
 - [&sect; 00433a - Allowance for participation in Ready Reserve screening](%C2%A7%2000433a%20-%20Allowance%20for%20participation%20in%20Ready%20Reserve%20screening.md)
 - [&sect; 00434 - Renumbered &sect;494](%C2%A7%2000434%20-%20Renumbered%20%C2%A7494.md)
-- [&sect; 00435 - Renumbered &sect;495](%C2%A7%2000435%20-%20Renumbered%20%C2%A7495.md)
+- [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
 - [&sect; 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md)
 - [&sect; 00437 - Allowance to cover monthly premiums for Servicemembers' Group Life Insurance members serving in a designated duty assignment](%C2%A7%2000437%20-%20Allowance%20to%20cover%20monthly%20premiums%20for%20Servicemembers%27%20Group%20Life%20Insurance%20members%20serving%20in%20a%20designated%20duty%20assignment.md)
 - [&sect; 00438 - Preventive health services allowance](%C2%A7%2000438%20-%20Preventive%20health%20services%20allowance.md)

@@ -44,6 +44,8 @@ Alaska, Canal Zone, and Virgin Islands were added to the 9th, 5th, and 3rd Circu
 
 Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been retained in said title. For those which were incorporated in other sections of this revised title, see Distribution Table.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
@@ -51,6 +53,8 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 <b>1980</b>—Pub. L. 96–452 substituted "twelve" for "eleven" in text preceding table, substituted "District of the Canal Zone" for "Alabama, Canal Zone, Florida, Georgia" in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 
@@ -62,7 +66,7 @@ Pub. L. 96–452, §12, Oct. 14, 1980, 94 Stat. 1996, provided that: "This Act a
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70,title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Commission on Structural Alternatives for the Federal Courts of Appeals
 
@@ -70,7 +74,7 @@ Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established 
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals
 
-Sections 5 to 10 of Pub. L. 96–452 provided that:
+Pub. L. 96–452, §§5–10, Oct. 14, 1980, 94 Stat. 1994, 1995, provided that:
 
 "Sec. 5. Each circuit judge in regular active service of the former fifth circuit whose official station on the day before the effective date of this Act \[Oct. 1, 1981\]—
 
@@ -124,5 +128,5 @@ Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, S
 
 #### Continuation of Organization of Court
 
-Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948,shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of each of the several courts therein provided, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title, pursuant to his prior appointment.
 

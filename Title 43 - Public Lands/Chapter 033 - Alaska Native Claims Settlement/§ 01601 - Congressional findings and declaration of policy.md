@@ -6,7 +6,7 @@ Congress finds and declares that—
 
 &emsp;(b) the settlement should be accomplished rapidly, with certainty, in conformity with the real economic and social needs of Natives, without litigation, with maximum participation by Natives in decisions affecting their rights and property, without establishing any permanent racially defined institutions, rights, privileges, or obligations, without creating a reservation system or lengthy wardship or trusteeship, and without adding to the categories of property and institutions enjoying special tax privileges or to the legislation establishing special relationships between the United States Government and the State of Alaska;
 
-&emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or <sup>1</sup> Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programs primarily designed to benefit Native people and to report back to the Congress with his recommendations for the future management and operation of these programs within three years of December 18, 1971;
+&emsp;(c) no provision of this chapter shall replace or diminish any right, privilege, or obligation of Natives as citizens of the United States or of Alaska, or relieve, replace, or diminish any obligation of the United States or of the State or <sup>1</sup> Alaska to protect and promote the rights or welfare of Natives as citizens of the United States or of Alaska; the Secretary is authorized and directed, together with other appropriate agencies of the United States Government, to make a study of all Federal programs primarily designed to benefit Native people and to report back to the Congress with his recommendations for the future managementand operation of these programs within three years of December 18, 1971;
 
 &emsp;(d) no provision of this chapter shall constitute a precedent for reopening, renegotiating, or legislating upon any past settlement involving land claims or other matters with any Native organizations, or any tribe, band, or identifiable group of American Indians;
 
@@ -18,6 +18,8 @@ Congress finds and declares that—
 
 (Pub. L. 92–203, §2, Dec. 18, 1971, 85 Stat. 688; Pub. L. 115–232, div. A, title VIII, §809(p), Aug. 13, 2018, 132 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
@@ -25,6 +27,8 @@ The Public Works and Economic Development Act of 1965, referred to in subsec. (g
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–232 substituted "sections 8721 through 8738 of title 10" for "sections 7421 through 7438 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -70,7 +74,7 @@ Pub. L. 100–241, §2, Feb. 3, 1988, 101 Stat. 1788, provided that: "The Congre
 
 &emsp;"(1) the Alaska Native Claims Settlement Act \[this chapter\] was enacted in 1971 to achieve a fair and just settlement of all aboriginal land and hunting and fishing claims by Natives and Native groups of Alaska with maximum participation by Natives in decisions affecting their rights and property;
 
-&emsp;"(2) the settlement enabled Natives to participate in the subsequent expansion of Alaska's economy, encouraged efforts to address serious health and welfare problems in Native villages, and sparked a resurgence of interest in the cultural heritage of the Native peoples of Alaska;
+&emsp;"(2) the settlement enabled Natives to participate in the subsequent expansion of Alaska's economy, encouraged efforts to address serious health and welfare problems in Native villages, and sparked a resurgenceof interest in the cultural heritage of the Native peoples of Alaska;
 
 &emsp;"(3) despite these achievements and Congress's desire that the settlement be accomplished rapidly without litigation and in conformity with the real economic and social needs of Natives, the complexity of the land conveyance process and frequent and costly litigation have delayed implementation of the settlement and diminished its value;
 
@@ -100,7 +104,7 @@ Pub. L. 100–241, §16, Feb. 3, 1988, 101 Stat. 1813, provided that:
 
 "(a)
 
-Statute of Limitations.—(1) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of an amendment made by, or other provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see ShortTitle of 1988 Amendment note above\] shall be barred unless filed within the periods specified in this subsection.
+Statute of Limitations.—(1) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of an amendment made by, or other provision of this Act (the Alaska Native Claims Settlement Act Amendments of 1987) \[see Short Title of 1988 Amendment note above\] shall be barred unless filed within the periods specified in this subsection.
 
 "(2) If a civil action described in paragraph (1) challenges—
 

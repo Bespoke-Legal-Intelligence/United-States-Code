@@ -26,9 +26,11 @@
 | [14523\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014523%20-%20Program%20implementation.md) | Program implementation. |
 | [14524\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014524%20-%20Program%20development%20criteria.md) | Program development criteria. |
 | [14525\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014525%20-%20State%20development%20planning%20process.md) | State development planning process. |
-| [14526\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014526%20-%20Distressed%2C%20at-risk%2C%20and%20economically%20strong%20counties.md) | Distressed, at-risk, and economically strong counties. |
+| [14526\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014526%20-%20Distressed%2C%20at-risk%2C%20and%20economically%20strong%20counties.md) | Distressed, at-risk, and economically strong counties.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

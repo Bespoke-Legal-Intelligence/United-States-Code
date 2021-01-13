@@ -20,6 +20,8 @@ June 21, 1950, ch. 342, §3 (1st 28 words), 64 Stat. 249; Aug. 7, 1959, Pub. L. 
 
 The words "effectively" and "provisions of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–189 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".

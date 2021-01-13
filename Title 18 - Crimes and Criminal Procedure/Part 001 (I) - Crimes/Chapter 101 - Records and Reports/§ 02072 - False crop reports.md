@@ -12,6 +12,8 @@ Words "or any of its agencies" were inserted after "United States" so as to elim
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

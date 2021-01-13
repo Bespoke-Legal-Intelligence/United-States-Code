@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) administration;
 
-&emsp;&emsp;(B) research and evaluation, including assessment of the effect on public safety andother effects of the expansion of correctional capacity and sentencing reforms implemented pursuant to this part;
+&emsp;&emsp;(B) research and evaluation, including assessment of the effect on public safety and other effects of the expansion of correctional capacity and sentencing reforms implemented pursuant to this part;
 
 &emsp;&emsp;(C) technical assistance relating to the use of grant funds, and development and implementation of sentencing reforms implemented pursuant to this part; and
 
@@ -58,6 +58,8 @@
 
 (Pub. L. 103–322, title II, §20108, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–19; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 110–199, title I, §104(b), Apr. 9, 2008, 122 Stat. 669.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13708 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
@@ -69,6 +71,8 @@ A prior section 20108 of Pub. L. 103–322, title II, Sept. 13, 1994, 108 Stat. 
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–199 inserted at end "Funds obligated, but subsequently unspent and deobligated, may remain available, to the extent as may provided in appropriations Acts, for the purpose described in section 13702(a)(4) of this title for any subsequent fiscal year. The further obligation of such funds by an official for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2008 Amendment
 

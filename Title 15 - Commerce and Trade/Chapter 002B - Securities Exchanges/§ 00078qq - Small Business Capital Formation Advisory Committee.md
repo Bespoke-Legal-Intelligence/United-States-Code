@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the pre-IPO and post-IPO investors in such companies (both institutional, such as venture capital funds, and individual, such as angel investors); and
 
-&emsp;&emsp;&emsp;(iv) who represent participants in the marketplace for the securities of emerging companies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
+&emsp;&emsp;&emsp;(iv) who represent participants in the marketplace for the securities of emergingcompanies and smaller public companies, such as securities exchanges, alternative trading systems, analysts, information processors, and transfer agents; and
 
 &emsp;&emsp;(C) three non-voting members—
 

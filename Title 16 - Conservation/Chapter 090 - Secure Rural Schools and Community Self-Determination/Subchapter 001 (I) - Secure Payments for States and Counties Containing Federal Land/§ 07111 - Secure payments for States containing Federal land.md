@@ -20,7 +20,7 @@ For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secr
 
 #### (1) State payment
 
-&emsp;If an eligible county in a State that will receive a share of the State payment for fiscal year 2014 has already received, or will receive, a share of the 25-percent payment for fiscal year 2014 distributed to the State before April 16, 2015, the amount of the State payment shall be reduced by the amount of that eligible county's share of the 25-percent payment.
+&emsp;If an eligible county in a State that will receive a share of the State payment for fiscalyear 2014 has already received, or will receive, a share of the 25-percent payment for fiscal year 2014 distributed to the State before April 16, 2015, the amount of the State payment shall be reduced by the amount of that eligible county's share of the 25-percent payment.
 
 #### (2) County payment
 

@@ -22,9 +22,13 @@ The words "official place under the United States" are changed to "another offic
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Appointment of Commissioners" in section catchline, and in text provisions relating to the establishment, etc., of the Office of Personnel Management for provisions relating to the appointment of members to the United States Civil Service Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 
@@ -172,7 +176,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Governmentservices improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federalworkforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -244,7 +248,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 &emsp;"(iii) 7 percent shall be allocated to the National Voluntary Health Agencies.
 
-&emsp;"(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, be allocated by the local Federal coordinating committee among any or all of the following:
+&emsp;"(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, beallocated by the local Federal coordinating committee among any or all of the following:
 
 &emsp;&emsp;"(I) National federated groups (other than any identified in clauses (i), (ii), or (iii)), except that a national federated group shall not be eligible under this subclause unless there are at least 15 members of such group participating in the local campaign, unless the members of such group collectively receive at least 4 percent of the designated contributions in the local campaign, and unless such group was granted national eligibility status for the 1987, 1988, 1989, or 1990 Combined Federal Campaign.
 
@@ -314,9 +318,11 @@ Pub. L. 95–454, title IX, §904, Oct. 13, 1978, 92 Stat. 1224, provided that:
 
 "Except as otherwise expressly provided in this Act \[see Tables for classification\], no provision of this Act shall be construed to—
 
-&emsp;"(1) limit, curtail, abolish, or terminate any function of, or authority available to, the Presidentwhich the President had immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\]; or
+&emsp;"(1) limit, curtail, abolish, or terminate any function of, or authority available to, the President which the President had immediately before the effective date of this Act \[see Effective Date of 1978 Amendment note above\]; or
 
 &emsp;"(2) limit, curtail, or terminate the President's authority to delegate, redelegate, or terminate any delegation of functions."
+
+#### <b>Executive Documents</b>
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
@@ -512,7 +518,7 @@ The Plan I submit today would consolidate the central policymaking functions in 
 
 The cost of replacing the Civil Service Commission can be paid by our present resources. The reorganization itself would neither increase nor decrease the costs of personnel management throughout the government. But taken together with the substantive reforms I have proposed, this Plan will greatly improve the government's ability to manage programs, speed the delivery of Federal services to the public, and aid in executing other reorganizations I will propose to the Congress, by improving Federal personnel management.
 
-Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forthin 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
+Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
 I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees' legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
@@ -842,7 +848,7 @@ Sec. 8. The Director shall prescribe such rules and regulations as may be necess
 
 Sec. 9. Executive Order No. 10927 \[Mar. 18, 1961, 26 F.R. 2383\], as amended, is revoked. Notwithstanding that revocation, directives issued under that Order shall continue in effect until revoked or modified under the provisions of this Order.
 
-\[Section 2(d) of Ex. Ord. No. 13743 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continuein effect until revoked or modified under the provisions of Ex. Ord. No. 13743.\]
+\[Section 2(d) of Ex. Ord. No. 13743 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in effect until revoked or modified under the provisions of Ex. Ord. No. 13743.\]
 
 \[Section 2 of Ex. Ord. No. 12404 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in full force and effect until revoked or modified under the provisions of Ex. Ord. No. 12404.\]
 

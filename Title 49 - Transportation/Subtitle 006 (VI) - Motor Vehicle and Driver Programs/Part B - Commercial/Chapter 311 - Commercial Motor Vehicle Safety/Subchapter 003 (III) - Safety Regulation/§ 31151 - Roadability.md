@@ -20,7 +20,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(B) a requirement to match intermodal equipment readily to an intermodal equipment provider through a unique identifying number;
 
-&emsp;&emsp;(C) a requirement that an intermodal equipment provider identified under subparagraph (A) systematically inspect, repair, and maintain, or cause to be systematicallyinspected, repaired, and maintained, intermodal equipment described in subparagraph (A) that is intended for interchange with a motor carrier;
+&emsp;&emsp;(C) a requirement that an intermodal equipment provider identified under subparagraph (A) systematically inspect, repair, and maintain, or cause to be systematically inspected, repaired, and maintained, intermodal equipment described in subparagraph (A) that is intended for interchange with a motor carrier;
 
 &emsp;&emsp;(D) a requirement to ensure that each intermodal equipment provider identified under subparagraph (A) maintains a system of maintenance and repair records for such equipment;
 
@@ -42,7 +42,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shall be able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
 
-&emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodal equipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
+&emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodalequipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
 
 &emsp;&emsp;(M) a requirement that any actual damage or defect identified in the process established under subparagraph (L) be repaired before the equipment is made available for interchange to a motor carrier and that repairs of equipment made pursuant to the requirements of this subparagraph and reports made pursuant to the subparagraph (L) process be documented in the maintenance records for such equipment; and
 

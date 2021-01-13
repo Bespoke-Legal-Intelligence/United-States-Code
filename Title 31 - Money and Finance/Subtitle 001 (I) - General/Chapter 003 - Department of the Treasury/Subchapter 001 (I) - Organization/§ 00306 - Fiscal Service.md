@@ -32,9 +32,11 @@ In subsection (a), the word "service" is substituted for "agency" in section 1(a
 
 In subsection (b), the text of section 1(a)(7)(2d sentence) of Reorganization Plan No. 3 of 1940 is omitted because of the source provisions restated in section 301(d) of the revised title.
 
-In subsection (c), the words "Office of the Fiscal Assistant Secretary" in section 1(a)(2) of Reorganization Plan No. 3 of 1940 are omitted as unnecessary and forconsistency in chapter 3 of the revised title. The words "the Office of the Treasurer of the United States" are omitted because this office is no longer in the Fiscal Service. See Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words "Bureau of Government Financial Operations" are substituted for "Bureau of Accounts" because of Treasury Order 229 and appropriation Acts beginning with fiscal year 1975. The text of section 1(a)(2)(last sentence) is omitted as unnecessary because of section 301 of the revised title. The words "Commissioner of Government Financial Operations" are substituted for "Commissioner of Accounts and Deposits" in section 1(a)(3) of the Reorganization Plan because of Treasury Order 229 and appropriation Acts beginning with fiscal year 1975. The words before the last comma are omitted as executed. The words related to the organizational units, in section 1(a)(4) of the Reorganization Plan, that are being consolidated into the Bureau of the Public Debt are omitted as executed.
+In subsection (c), the words "Office of the Fiscal Assistant Secretary" in section 1(a)(2) of Reorganization Plan No. 3 of 1940 are omitted as unnecessary and for consistency in chapter 3 of the revised title. The words "the Office of the Treasurer of the United States" are omitted because this office is no longer in the Fiscal Service. See Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words "Bureau of Government Financial Operations" are substituted for "Bureau of Accounts" because of Treasury Order 229 and appropriation Acts beginning with fiscal year 1975. The text of section 1(a)(2)(last sentence) is omitted as unnecessary because of section 301 of the revised title. The words "Commissioner of Government Financial Operations" are substituted for "Commissioner of Accounts and Deposits" in section 1(a)(3) of the Reorganization Plan because of Treasury Order 229 and appropriation Acts beginning with fiscal year 1975. The words before the last comma are omitted as executed. The words related to the organizational units, in section 1(a)(4) of the Reorganization Plan, that are being consolidated into the Bureau of the Public Debt are omitted as executed.
 
 Subsection (d) is substituted for the text of section 1(a)(7)(last sentence) of Reorganization Plan No. 3 of 1940 for consistency in the revised title. The text of section 1(a)(5) and (6), (b), and (c) is omitted as superseded by the source provisions restated in section 321 of the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ The Bureau of Government Financial Operations, referred to in subsec. (c)(1), is
 #### Amendments
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–458 inserted "or employee" after "another officer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reimbursement of Financial Management Service and Bureau of the Public Debt
 

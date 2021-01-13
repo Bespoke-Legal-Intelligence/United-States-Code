@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, each fiscal year not later than Octo
 
 #### (i) Data collection
 
-The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and HumanServices regarding protection and advocacy services.
+The Secretary shall facilitate agreements to coordinate the collection of data by agencies within the Department of Health and Human Services regarding protection and advocacy services.
 
 #### (j) Training and technical assistance
 

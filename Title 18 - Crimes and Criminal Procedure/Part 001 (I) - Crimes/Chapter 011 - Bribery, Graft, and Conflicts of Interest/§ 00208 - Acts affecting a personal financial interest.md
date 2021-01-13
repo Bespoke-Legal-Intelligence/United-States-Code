@@ -6,7 +6,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (b) Subsection (a) shall not apply—
 
-&emsp;(1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
+&emsp;(1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling orother determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
 
 &emsp;(2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 
@@ -34,7 +34,9 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 &emsp;(B) provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, §205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, §405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, §5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322,title XXXIII, §§330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, §205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, §405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, §5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322, title XXXIII, §§330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -74,6 +76,8 @@ Subsecs. (c), (d). Pub. L. 101–194, §405(2), added subsecs. (c) and (d).
 
 Subsec. (b). Pub. L. 95–188, §205(b), inserted at end "In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
@@ -82,7 +86,15 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Exemptions from former section 434 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-#### Regulations
+#### "Particular Matter" Defined
+
+Pub. L. 100–446, title III, §319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section "particular matter", as applied to employees of the Department of the Interior and the Indian Health Service, means "particular matter involving specific parties", was repealed by Pub. L. 101–194, title V, §505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, §6(c), May 4, 1990, 104 Stat. 160.
+
+Similar provisions were contained in Pub. L. 100–202, §101(g) \[title III, §318\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
+
+#### <b>Executive Documents</b>
+
+#### Promulgation of Regulations
 
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
@@ -91,10 +103,4 @@ Responsibility of Office of Government Ethics for promulgating regulations and i
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals to individuals delegated to agency heads, see section 401 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to the President, see section 402 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
-
-#### "Particular Matter" Defined
-
-Pub. L. 100–446, title III, §319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section "particular matter", as applied to employees of the Department of the Interior and the Indian Health Service, means "particular matter involving specific parties", was repealed by Pub. L. 101–194, title V, §505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, §6(c), May 4, 1990, 104 Stat. 160.
-
-Similar provisions were contained in Pub. L. 100–202, §101(g) \[title III, §318\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
 

@@ -2,7 +2,7 @@
 
 #### (a) Coordination by Secretary with other Federal agencies in dissemination to Federal, State, and local authorities, etc.
 
-The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is madeavailable to Federal, State, and local authorities, the building industry and related segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of solar energy for the heating and cooling of buildings throughout the United States. In accordance with regulations prescribed under section 5514 of this title such information shall be disseminated on a coordinated basis by the Secretary, the Administrator, the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate Federal offices and agencies.
+The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is made available to Federal, State, and local authorities, the building industry and related segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of solar energy for the heating and cooling of buildings throughout the United States. In accordance with regulations prescribed under section 5514 of this title such information shall be disseminated on a coordinated basis by the Secretary, the Administrator, the Director of the National Institute of Standards and Technology, the Secretary of Energy, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, and other appropriate Federal offices and agencies.
 
 #### (b) Studies, investigations and modifications of building codes, zoning ordinances, etc., to promote use of solar energy in buildings
 
@@ -54,11 +54,11 @@ Each Federal officer and agency having functions under this subchapter shall inc
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed in item 12 on page 102), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed in item 12 on page 102), see section 3003 of Pub. L. 104–66, as amended,set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

@@ -4,6 +4,8 @@ In all suits now pending in the United States Court of Federal Claims by an Indi
 
 (Aug. 12, 1935, ch. 508, §2, 49 Stat. 596; Pub. L. 97–164, title I, §160(a)(8), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
@@ -18,11 +20,13 @@ Section was formerly classified to section 475a of this title prior to editorial
 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 

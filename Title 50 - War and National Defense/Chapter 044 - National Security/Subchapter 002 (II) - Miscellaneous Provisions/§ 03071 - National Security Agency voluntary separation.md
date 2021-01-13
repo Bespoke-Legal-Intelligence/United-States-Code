@@ -10,7 +10,7 @@ For purposes of this section—
 
 &emsp;(1) the term "Director" means the Director of the National Security Agency; and
 
-&emsp;(2) the term "employee" means an employee of the National Security Agency, servingunder an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c), except that such term does not include—
+&emsp;(2) the term "employee" means an employee of the National Security Agency, serving under an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c), except that such term does not include—
 
 &emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
 
@@ -58,7 +58,7 @@ An employee who receives separation pay under such program may not be reemployed
 
 &emsp;An employee may not be separated from service under this section unless the employee agrees that the employee will not—
 
-&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the National Security Agency; or
+&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except theUnited States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the National Security Agency; or
 
 &emsp;&emsp;(B) participate in any manner in the award, modification, or extension of any contract for property or services with the National Security Agency,
 
@@ -84,7 +84,7 @@ Before an employee may be eligible for early retirement, separation pay, or both
 
 #### (j) Notification of exercise of authority
 
-The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to thecongressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i).
+The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h), and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i).
 
 #### (k) Remittance of funds
 

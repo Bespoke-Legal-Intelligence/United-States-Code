@@ -50,9 +50,13 @@ Prohibition.—Except as provided in section 3641, no product that involves the 
 
 (Added Pub. L. 103–123, title VII, §704(a)(2), Oct. 28, 1993, 107 Stat. 1268; amended Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3209.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d), related to special authority relating to reduced-rate categories of mail.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

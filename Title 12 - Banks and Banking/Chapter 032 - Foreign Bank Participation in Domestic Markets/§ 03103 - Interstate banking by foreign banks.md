@@ -8,7 +8,7 @@
 
 #### (2) State branch or agency
 
-&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establishand operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
+&emsp;Subject to the provisions of this chapter and with the prior written approval by the Board and the appropriate State bank supervisor of an application, a foreign bank may establish and operate a State branch or agency in any State outside the home State of such foreign bank to the extent that such establishment and operation would be permitted under section 1828(d)(4) or 1831u of this title if the foreign bank were a State bank whose home State is the same State as the home State of the foreign bank.
 
 #### (3) Criteria for determination
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(ii) consult with the Secretary of the Treasury regarding capital equivalency; and
 
-&emsp;&emsp;(C) shall apply the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
+&emsp;&emsp;(C) shall apply the same requirements and conditions to which an application for aninterstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
 
 #### (4) Operation
 
@@ -64,7 +64,7 @@
 
 #### (B) Exception for branch that receives only deposits permissible for an Edge Act corporation
 
-&emsp;&emsp;Paragraph (1) shall not apply to any branch that receives only such deposits as are permissible for a corporation organizedunder section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] to receive.
+&emsp;&emsp;Paragraph (1) shall not apply to any branch that receives only such deposits as are permissible for a corporation organized under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\] to receive.
 
 #### (9) Home State of domestic bank defined
 
@@ -95,6 +95,8 @@ In the case of a foreign bank that has a domestic bank subsidiary within the Uni
 &emsp;(2) the fact that the domestic bank is controlled by a foreign bank which has Federal or State branches or agencies in States other than the home State of such domestic bank shall not affect the authority of the domestic bank to establish branches outside the home State of the domestic bank to the extent permitted under section 36(g) of this title or section 1828(d)(4) or 1831u of this title, as the case may be.
 
 (Pub. L. 95–369, §5, Sept. 17, 1978, 92 Stat. 613; Pub. L. 103–328, title I, §§104, 107(f), Sept. 29, 1994, 108 Stat. 2354, 2361; Pub. L. 106–102, title VII, §732, Nov. 12, 1999, 113 Stat. 1478.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

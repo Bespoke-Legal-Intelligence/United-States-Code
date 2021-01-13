@@ -24,6 +24,8 @@ The adulteration and misbranding provisions of this subchapter, other than the r
 
 (Mar. 4, 1907, ch. 2907, title I, §23, formerly 21st, 22nd pars., 34 Stat. 1265; June 29, 1938, ch. 810, 52 Stat. 1235; renumbered §23 and amended Pub. L. 90–201, §§1, 11, Dec. 15, 1967, 81 Stat. 584, 591; Pub. L. 91–342, July 18, 1970, 84 Stat. 438; Pub. L. 102–237, title X, §1016(a), Dec. 13, 1991, 105 Stat. 1902.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to sections 91 and 92 of this title.
@@ -37,6 +39,8 @@ Section was formerly classified to sections 91 and 92 of this title.
 <b>1967</b>—Pub. L. 90–201, §11, substituted provisions for personal, custom, and territorial slaughtering exemptions and for application of adulteration and misbranding provisions to inspection-free articles for farmer definition and retail butcher and retail dealer exemption provisions.
 
 <b>1938</b>—Act June 29, 1948, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

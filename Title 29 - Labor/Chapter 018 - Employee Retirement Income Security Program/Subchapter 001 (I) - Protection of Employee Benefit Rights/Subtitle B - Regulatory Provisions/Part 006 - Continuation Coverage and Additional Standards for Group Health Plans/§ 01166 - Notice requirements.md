@@ -28,6 +28,8 @@ For purposes of subsection (a)(4), any notification shall be made within 14 days
 
 (Pub. L. 93–406, title I, §606, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–509, title IX, §9501(d)(2), Oct. 21, 1986, 100 Stat. 2077; Pub. L. 99–514, title XVIII, §1895(d)(6)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 101–239, title VI, §6703(c), title VII, §7891(d)(1)(A), Dec. 19, 1989, 103 Stat. 2296, 2445; Pub. L. 104–191, title IV, §421(b)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -50,13 +52,15 @@ Par. (3). Pub. L. 99–514 inserted "within 60 days after the date of the qualif
 
 Par. (4)(A). Pub. L. 99–509 substituted "(4), or (6)" for "or (4)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L.104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989,regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
+Amendment by section 6703(c) of Pub. L. 101–239 applicable to plan years beginning on or after Dec. 19, 1989, regardless of whether the qualifying event occurred before, on, or after such date, see section 6703(d) of Pub. L. 101–239, set out as a note under section 1162 of this title.
 
 Amendment by section 7891(d)(1)(A) of Pub. L. 101–239 applicable with respect to plan years beginning on or after Jan. 1, 1990, see section 7891(d)(1)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26, Internal Revenue Code.
 

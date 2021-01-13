@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter shall be enforced by the Secretary and the Secretary of thedepartment in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
+The provisions of this chapter shall be enforced by the Secretary and the Secretary of the department in which the Coast Guard is operating. Such Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal agency, including all elements of the Department of Defense, and of any State agency, in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -52,7 +52,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expensesfor equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. Theallocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -180,7 +180,7 @@ Pub. L. 104–297, §115(a)(1), which directed substitution of "Guam or any" for
 
 Subsec. (e)(1). Pub. L. 104–297, §115(b)(1), substituted "marine resource law" for "fishery resource law" in introductory provisions and in subpars. (A) and (B).
 
-Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or$20,000, whichever is the lesser amount," after "reward".
+Subsec. (e)(1)(B). Pub. L. 104–297, §115(b)(2), inserted "of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount," after "reward".
 
 Subsec. (e)(1)(E). Pub. L. 104–297, §115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: "claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and".
 
@@ -240,7 +240,7 @@ Sec. 110. There is established in the Treasury a non-interest bearing fund to be
 
 "
 
-Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Sanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 

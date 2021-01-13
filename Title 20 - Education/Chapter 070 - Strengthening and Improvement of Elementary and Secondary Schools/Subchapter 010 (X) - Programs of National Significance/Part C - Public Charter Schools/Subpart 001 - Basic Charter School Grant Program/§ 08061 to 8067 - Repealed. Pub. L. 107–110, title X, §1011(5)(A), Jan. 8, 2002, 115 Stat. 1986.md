@@ -1,6 +1,6 @@
 ### §§8061 to 8067. Repealed. Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986
 
-Section 8061, Pub. L. 89–10, title X, §10301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3824; amended Pub. L. 105–278, §3(a), Oct. 22, 1998, 112 Stat. 2682; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(1)\], Dec.21, 2000, 114 Stat. 2763, 2763A–61, set forth findings and purpose.
+Section 8061, Pub. L. 89–10, title X, §10301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3824; amended Pub. L. 105–278, §3(a), Oct. 22, 1998, 112 Stat. 2682; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, set forth findings and purpose.
 
 Section 8062, Pub. L. 89–10, title X, §10302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3825; amended Pub. L. 105–278, §3(b), Oct. 22, 1998, 112 Stat. 2682; Pub. L. 106–554, §1(a)(1) \[title III, §322(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61, authorized charter school grant program.
 

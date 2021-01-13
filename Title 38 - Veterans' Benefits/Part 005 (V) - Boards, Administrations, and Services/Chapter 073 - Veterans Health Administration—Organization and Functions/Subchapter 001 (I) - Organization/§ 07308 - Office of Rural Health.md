@@ -36,6 +36,8 @@ Rural Health Resource Centers.—(1) There are, in the Office, veterans rural he
 
 (Added Pub. L. 109–461, title II, §212(a)(1), Dec. 22, 2006, 120 Stat. 3421; amended Pub. L. 112–154, title I, §110, Aug. 6, 2012, 126 Stat. 1175.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Subsec. (d). Pub. L. 112–154 added subsec. (d).

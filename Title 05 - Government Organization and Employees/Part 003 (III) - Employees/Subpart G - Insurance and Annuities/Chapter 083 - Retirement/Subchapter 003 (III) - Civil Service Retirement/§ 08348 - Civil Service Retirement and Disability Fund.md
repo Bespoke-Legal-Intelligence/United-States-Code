@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) benefits as provided by this subchapter or by the provisions of chapter 84 of this title which relate to benefits payable out of the Fund; and
 
-&emsp;&emsp;(B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
+&emsp;&emsp;(B) administrative expenses incurred by the Office of Personnel Management in placing in effect each annuity adjustment granted under section 8340 or 8462 of this title, in administering survivor annuities and elections providing therefor under sections 8339 and 8341 of this title or subchapters II and IV of chapter 84 of this title, in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law), in making an allotment or assignment made by an individual under section 8345(h) or 8465(b) of this title, in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title, and in withholding taxes pursuant to section 3405 of title 26 or section 8345(k) or 8469 of this title;
 
 &emsp;(2) is made available, subject to such annual limitation as the Congress may prescribe, for any expenses incurred by the Office in connection with the administration of this chapter, chapter 84 of this title, and other retirement and annuity statutes; and
 
@@ -50,7 +50,7 @@
 
 (C) As of the close of the fiscal years ending September 30, 2015, 2025, 2035, and 2039, if the result is a surplus, that amount shall be transferred to the Postal Service Retiree Health Benefits Fund, and any prior amortization schedule for payments shall be terminated.
 
-(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System.
+(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate usedin the most recent valuation of the Civil Service Retirement System.
 
 (E) The United States Postal Service shall pay the amounts so determined to the Office, with payments due not later than the date scheduled by the Office.
 
@@ -90,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27,1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 116–126, §3(a), Mar. 18, 2020, 134 Stat. 176.)
 
 Historical and Revision Notes<br>1966
 
@@ -146,6 +146,8 @@ Sept. 27, 1965, Pub. L. 89–205, §1(b), 79 Stat. 840.
 
 The change in subsection (f) is made for uniformity in style and because the full title of the Commission appears in subsection (a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 1241 and 1242 of the Panama Canal Act of 1979 \[Pub. L. 96–70\], referred to in subsec. (i)(1), amended sections 8336 and 8339 of this title, respectively.
@@ -155,6 +157,8 @@ Sections 1231(b) and 1243(a)(1) of the Panama Canal Act of 1979 \[Pub. L. 96–7
 Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510, div. C, title XXXV\], referred to in subsec. (i)(1), amended sections 8336, 8339, and 8348 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–126 inserted "in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title," after "8465(b) of this title,".
 
 <b>2006</b>—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
@@ -182,7 +186,7 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 <b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted "in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law)," before "and in withholding".
 
-Subsec. (i)(1). Pub. L. 101–510 substituted "1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991" for "1979".
+Subsec. (i)(1). Pub. L. 101–510 substituted "1979, and the amendments made by section 3506 of the PanamaCanal Commission Authorization Act for Fiscal Year 1991" for "1979".
 
 Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted "July 1, 1971" for "October 1, 1986" in two places.
 
@@ -216,6 +220,8 @@ Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out form
 
 Subsec. (g). Pub. L. 91–93, §103(a)(2), added subsec. (g) and struck out former subsec. (g) which contained restriction against use of Fund money to pay an increase in annuity benefits or a new annuity benefit under this subchapter or an earlier statute without an appropriation being made to the Fund in a sufficient amount to prevent an immediate increase in the unfunded accrued liability of the Fund.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–435 effective Oct. 1, 2006, see section 805(a) of Pub. L. 109–435, set out as a note under section 8334 of this title.
@@ -248,7 +254,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 Amendment by Pub. L. 97–346 effective Sept. 8, 1982, see section 3(n) of Pub. L. 97–346, set out as a note under section 8332 of this title.
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a paymentunder section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -276,7 +282,7 @@ In general.—
 
 &emsp;"(A)
 
-Request for review.—Notwithstanding any other provision of this section \[amending this section and section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
+Request for review.—Notwithstanding any other provision of this section \[amending this sectionand section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
 
 &emsp;"(B)
 
@@ -334,5 +340,5 @@ Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that 
 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 
-Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special issues in which the civil service retirement and disability fund was invested in accordance with subsecs. (d) and (e) of this section before Oct. 4, 1961, were to be redeemed and the moneys reinvested by the Secretary of the Treasury in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962.
+Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special issues in which the civil service retirement and disability fund was invested in accordance with subsecs. (d) and (e) of this section before Oct. 4, 1961, were to be redeemed and the moneys reinvested bythe Secretary of the Treasury in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962.
 

@@ -70,9 +70,13 @@ June 30, 1949, ch. 288, title III, §302(c)(2), as added Pub. L. 98–369, title
 
 June 30, 1949, ch. 288, title III, §303(h), as added Pub. L. 104–106, title XLI, §4101(b)(2), Feb. 10, 1996, 110 Stat. 642.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204 of title 23, referred to in subsec. (b)(2), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

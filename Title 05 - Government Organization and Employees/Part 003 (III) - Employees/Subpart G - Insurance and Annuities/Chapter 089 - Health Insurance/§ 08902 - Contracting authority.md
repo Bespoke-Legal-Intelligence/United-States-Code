@@ -14,7 +14,7 @@
 
 (e) The Office may prescribe reasonable minimum standards for health benefits plans described by section 8903 or 8903a of this title and for carriers offering the plans. Approval of a plan may be withdrawn only after notice and opportunity for hearing to the carrier concerned without regard to subchapter II of chapter 5 and chapter 7 of this title. The Office may terminate the contract of a carrier effective at the end of the contract term, if the Office finds that at no time during the preceding two contract terms did the carrier have 300 or more employees and annuitants, exclusive of family members, enrolled in the plan.
 
-(f) A contract may not be made or a plan approved which excludes an individual because ofrace, sex, health status, or, at the time of the first opportunity to enroll, because of age.
+(f) A contract may not be made or a plan approved which excludes an individual because of race, sex, health status, or, at the time of the first opportunity to enroll, because of age.
 
 (g) A contract may not be made or a plan approved which does not offer to each employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title whose enrollment in the plan is ended, except by a cancellation of enrollment, a temporary extension of coverage during which he may exercise the option to convert, without evidence of good health, to a nongroup contract providing health benefits. An employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title who exercises this option shall pay the full periodic charges of the nongroup contract.
 
@@ -34,7 +34,7 @@
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the costof health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 
@@ -54,7 +54,13 @@
 
 (o) A contract may not be made or a plan approved which includes coverage for any benefit, item, or service for which funds may not be used under the Assisted Suicide Funding Restriction Act of 1997.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842.)
+(p) Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–260, div. BB, title I, §102(d)(1), Dec. 27, 2020, 134 Stat. 2797.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 102(d)(1) of div. BB of Pub. L. 116–260 applicable with respect to contracts entered into or renewed for contract years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -76,17 +82,27 @@ Mar. 17, 1964, Pub. L. 88–284, §1(7)–(9), 78 Stat. 165.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (l), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (o), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
+Sections 2799A–1, 2799A–2, 2799A–7, 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act, referred to in subsec. (p), are classified to sections 300gg–111, 300gg–112, 300gg–117, 300gg–131, 300gg–132, 300gg–133, and 300gg–135, respectively, of Title 42, The Public Health and Welfare.
+
+Sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (p), are classified to sections 1185e, 1185f, and 1185k, respectively, of Title 29, Labor.
+
+Sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986, referred to in subsec. (p), are classified to sections 9816, 9817, and 9822, respectively, of Title 26, Internal Revenue Code.
+
 #### Codification
 
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sections 2701 to 2706 of Title 44, Public Printing and Documents, and provisions set out as a note under section 2102 of Title 44.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (p). Pub. L. 116–260 added subsec. (p).
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 5 of title 41".
 
@@ -142,6 +158,12 @@ Subsec. (m). Pub. L. 95–368 added subsec. (m).
 
 Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a health service or supply in specified cases.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. BB, title I, §102(e), Dec. 27, 2020, 134 Stat. 2797, provided that: "The amendments made by this section \[enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, and amending this section, section 223 of Title 26, and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42\] shall apply with respect to plan years (or, in the case of the amendment made by subsection (d)(1) \[amending this section\], with respect to contracts entered into or renewed for contract years) beginning on or after January 1, 2022."
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
@@ -152,7 +174,7 @@ Pub. L. 102–393, title V, §537(c), Oct. 6, 1992, 106 Stat. 1765, provided tha
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title VII, §7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: "Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991."
+Pub. L. 101–508, title VII, §7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: "Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 ofthis title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991."
 
 #### Effective Date of 1988 Amendment
 
@@ -216,7 +238,7 @@ Pub. L. 100–360, title IV, §422, July 1, 1988, 102 Stat. 810, which directed 
 
 #### Authority of Carrier To Contract for Comprehensive Medical Services From a Group Practice Unit or Organization
 
-Pub. L. 91–515, title IV, §401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, andWelfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as a beneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
+Pub. L. 91–515, title IV, §401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, and Welfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as a beneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

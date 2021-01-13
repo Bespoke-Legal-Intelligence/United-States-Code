@@ -12,7 +12,7 @@
 
 &emsp;(B) approved by the Director of the Office of Management and Budget and the Mayor of the District of Columbia.
 
-(2) Each agreement shall provide that the cost of providing the services shall be borne in the way provided in subsection (c) of this section by the government to which the services are provided at rates or charges based on the actual cost of providing the services.
+(2) Each agreement shall provide that the cost of providing the services shall be borne in the way provided in subsection (c) of this section bythe government to which the services are provided at rates or charges based on the actual cost of providing the services.
 
 (3) To carry out an agreement made under this subsection, the agreement may provide for the delegation of duties and powers of officers and employees of—
 
@@ -68,9 +68,13 @@ In subsection (c)(1), the words "United States Government" are substituted for "
 
 In subsection (c)(2), the words "District of Columbia government" are substituted for "each District officer and agency" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–177 substituted "and the Secret Service Uniformed Division" for "and the Executive Protective Service" and "their protective duties under sections 3056 and 3056A of title 18" for "their protective duties under section 302 of title 3 and section 3056 of title 18".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

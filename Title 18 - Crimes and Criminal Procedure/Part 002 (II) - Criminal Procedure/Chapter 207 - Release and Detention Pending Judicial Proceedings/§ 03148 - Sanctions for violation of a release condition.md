@@ -28,9 +28,11 @@ Prosecution for Contempt.—The judicial officer may commence a prosecution for 
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 99–646, §55(a), (h), Nov. 10, 1986, 100 Stat. 3607, 3610.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X, §1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X,§1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 
@@ -39,6 +41,8 @@ A prior section 3148, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 21
 Subsec. (b). Pub. L. 99–646, §55(h)(2), in introductory provision, substituted "such person's arrest" for "his arrest", "condition of release that such person not commit" for "condition of his release that he not commit", and "period of release," for "period of release", in par. (1)(B) substituted "condition of release" for "condition of his release", in par. (2)(A) inserted "of this title" after "section 3142(g)", and in concluding provision, substituted "the judicial officer shall" for "he shall" and inserted "of this title" after "section 3142".
 
 Subsec. (c). Pub. L. 99–646, §55(a), (h)(3), substituted "judicial officer" for "judge", "under section 401 of this title" for "pursuant to the provisions of section 401", and "condition of release" for "condition of his release".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

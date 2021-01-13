@@ -10,29 +10,13 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 &emsp;&emsp;(ii) in the case of a prime contract entered into on or before June 30, 2018, the price of the contract to the United States is expected to exceed $750,000.
 
-&emsp;(B) The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if—
+&emsp;(B) The contractor for a prime contract under this chapter shall be required to submit cost or pricing data before the pricing of a change or modification to the contract if the price adjustment is expected to exceed $2,000,000.
 
-&emsp;&emsp;(i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $2,000,000;
+&emsp;(C) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and the price of the subcontract is expected to exceed $2,000,000.
 
-&emsp;&emsp;(ii) in the case of a change or modification made after July 1, 2018, to a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price adjustment is expected to exceed $750,000; and
+&emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 
-&emsp;&emsp;(iii) in the case of a change or modification not covered by clause (i) or (ii), the price adjustment is expected to exceed $750,000.
-
-&emsp;(C) An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this section and—
-
-&emsp;&emsp;(i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $2,000,000;
-
-&emsp;&emsp;(ii) in the case of a subcontract entered into after July 1, 2018, under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $2,000,000; and
-
-&emsp;&emsp;(iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $750,000.
-
-&emsp;(D) The subcontractor for a subcontract covered by subparagraph (C) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if—
-
-&emsp;&emsp;(i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $2,000,000; and
-
-&emsp;&emsp;(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $750,000.
-
-(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by the head of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
+(2) A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under paragraph (1) (or required by thehead of the agency concerned to submit such data under subsection (c)) shall be required to certify that, to the best of the person's knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
 (3) Cost or pricing data required to be submitted under paragraph (1) (or under subsection (c)), and a certification required to be submitted under paragraph (2), shall be submitted—
 
@@ -44,7 +28,7 @@ Required Cost or Pricing Data and Certification.—(1) The head of an agency sha
 
 (5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) in the case of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
-(6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1).All such modifications shall be made without requiring consideration.
+(6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
 (7) Effective on October 1 of each year that is divisible by 5, each amount set forth in paragraph (1) shall be adjusted in accordance with section 1908 of title 41.
 
@@ -96,7 +80,7 @@ Noncommercial modifications of commercial products.—(A) The exception in parag
 
 Commercial product or commercial service determination.—(A) For purposes of applying the exception under paragraph (1)(B) to the required submission of certified cost or pricing data, the contracting officer may presume that a prior commercial product or commercial service determination made by a military department, a Defense Agency, or another component of the Department of Defense shall serve as a determination for subsequent procurements of such product or service.
 
-&emsp;(B) If the contracting officer does not make the presumption described in subparagraph (A) and instead chooses to proceed with a procurement of a product or service previously determined to be a commercial product or a commercial service using procedures other than the procedures authorized for the procurement of a commercial product or a commercial service, as the case may be, the contracting officer shall request a review of the commercial product or commercial service determination by the head of the contracting activity.
+&emsp;(B) If the contracting officer does not make the presumption described in subparagraph (A)and instead chooses to proceed with a procurement of a product or service previously determined to be a commercial product or a commercial service using procedures other than the procedures authorized for the procurement of a commercial product or a commercial service, as the case may be, the contracting officer shall request a review of the commercial product or commercial service determination by the head of the contracting activity.
 
 &emsp;(C) Not later than 30 days after receiving a request for review of a determination under subparagraph (B), the head of a contracting activity shall—
 
@@ -116,7 +100,7 @@ Cost or Pricing Data on Below-Threshold Contracts.—
 
 &emsp;(1)
 
-Authority to require submission.—Subject to paragraph (2), when certified cost orpricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
+Authority to require submission.—Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
 
 &emsp;(2)
 
@@ -152,7 +136,7 @@ Ineligibility for award.—(A) In the event the contracting officer is unable to
 
 &emsp;(B)(i) Any new determination made by the head of the contracting activity under subparagraph (A) shall be reported to the Principal Director, Defense Pricing and Contracting on a quarterly basis.
 
-&emsp;(ii) The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.
+&emsp;(ii) The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by suchofferors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.
 
 &emsp;(3)
 
@@ -166,7 +150,7 @@ Limitations on authority.—The Federal Acquisition Regulation shall include the
 
 (e)
 
-Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that suchprice was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
+Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
 
 (B) For the purposes of this section, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
@@ -204,7 +188,7 @@ Interest and Penalties for Certain Overpayments.—(1) If the United States make
 
 &emsp;(A) for interest on the amount of such overpayment, to be computed—
 
-&emsp;&emsp;(i) for the period beginning on the date the overpayment was made to the contractor and ending on the date the contractor repays the amount of such overpayment to the United States; and
+&emsp;&emsp;(i) for the period beginning on the date the overpayment was made to the contractor and ending on the date the contractor repaysthe amount of such overpayment to the United States; and
 
 &emsp;&emsp;(ii) at the current rate prescribed by the Secretary of the Treasury under section 6621 of the Internal Revenue Code of 1986; and
 
@@ -228,7 +212,33 @@ Cost or pricing data.—The term "cost or pricing data" means all facts that, as
 
 Subcontract.—The term "subcontract" includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub.L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, §1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§812, 851(b), 852(e), 853, Nov. 25, 2015, 129 Stat. 891, 916, 918, 919; Pub. L. 114–328, div. A, title VIII, §822, Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, §811(a)(1), (b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, §836(c)(5), Aug. 13, 2018, 132 Stat. 1865; Pub. L. 116–92, div. A, title VIII, §803, Dec. 20, 2019, 133 Stat. 1483.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, §814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 111–350, §5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, §1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§812, 851(b), 852(e), 853, Nov. 25, 2015, 129 Stat. 891, 916, 918, 919; Pub. L. 114–328, div. A, title VIII, §822, Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, §811(a)(1), (b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, §836(c)(5), Aug. 13, 2018, 132 Stat. 1865; Pub. L. 116–92, div. A, title VIII, §803, Dec. 20, 2019, 133 Stat. 1483; Pub. L. 116–283, div. A, title VIII, §814(a)(1), title X, §1081(d)(4)(B)(i), title XVIII, §1831(b), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i), Jan. 1, 2021, 134 Stat. 3749, 3874, 4209, 4211, 4213, 4214, 4216.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1831(b), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i), Jan. 1, 2021, 134 Stat. 4151, 4209, 4211, 4213, 4214, 4216, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3702 of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3703 of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3704 of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3705 of this title;</i>
+
+<i>(5) by transferring subsection (e) to section 3706 of this title;</i>
+
+<i>(6) by transferring subsection (f) to section 3707 of this title;</i>
+
+<i>(7) by transferring subsection (g) to section 3708 of this title; and</i>
+
+<i>(8) by transferring subsection (h) to section 3701(a) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### References in Text
 
@@ -241,6 +251,46 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1831(c)(1), redesignated subsec. (a) as section 3702 of this title.
+
+Subsec. (a)(1)(B). Pub. L. 116–283, §814(a)(1)(A), substituted "contract if the price adjustment is expected to exceed $2,000,000." for "contract if—
+
+&emsp;"(i) in the case of a change or modification made to a prime contract referred to in subparagraph (A)(i), the price adjustment is expected to exceed $2,000,000;
+
+&emsp;"(ii) in the case of a change or modification made after July 1, 2018, to a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price adjustment is expected to exceed $750,000; and
+
+&emsp;"(iii) in the case of a change or modification not covered by clause (i) or (ii), the price adjustment is expected to exceed $750,000."
+
+Subsec. (a)(1)(C). Pub. L. 116–283, §814(a)(1)(B), substituted "section and the price of the subcontract is expected to exceed $2,000,000." for "section and—
+
+&emsp;"(i) in the case of a subcontract under a prime contract referred to in subparagraph (A)(i), the price of the subcontract is expected to exceed $2,000,000;
+
+&emsp;"(ii) in the case of a subcontract entered into after July 1, 2018, under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to paragraph (6), the price of the subcontract is expected to exceed $2,000,000; and
+
+&emsp;"(iii) in the case of a subcontract not covered by clause (i) or (ii), the price of the subcontract is expected to exceed $750,000."
+
+Subsec. (a)(1)(D). Pub. L. 116–283, §814(a)(1)(C), substituted "subcontract if the price adjustment is expected to exceed $2,000,000." for "subcontract if—
+
+&emsp;"(i) in the case of a change or modification to a subcontract referred to in subparagraph (C)(i) or (C)(ii), the price adjustment is expected to exceed $2,000,000; and
+
+&emsp;"(ii) in the case of a change or modification to a subcontract referred to in subparagraph (C)(iii), the price adjustment is expected to exceed $750,000."
+
+Subsec. (b). Pub. L. 116–283, §1831(d)(1), redesignated subsec. (b) as section 3703 of this title.
+
+Subsec. (c). Pub. L. 116–283, §1831(e)(1), redesignated subsec. (c) as section 3704 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1831(f)(1), redesignated subsec. (d) as section 3705 of this title.
+
+Subsec. (d)(3). Pub. L. 116–283, §1081(d)(4)(B)(i), made technical correction to directory language of Pub. L. 115–232, §836(c)(5)(B). See 2018 Amendment note below.
+
+Subsec. (e). Pub. L. 116–283, §1831(g)(1), redesignated subsec. (e) as section 3706 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1831(h)(1), redesignated subsec. (f) as section 3707 of this title.
+
+Subsec. (g). Pub. L. 116–283, §1831(i), redesignated subsec. (g) as section 3708 of this title.
+
+Subsec. (h). Pub. L. 116–283, §1831(b), redesignated subsec. (h) as section 3701(a) of this title.
 
 <b>2019</b>—Subsec. (d)(1). Pub. L. 116–92, §803(1), inserted at end "Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government."
 
@@ -262,7 +312,7 @@ Subsec. (b)(4)(C). Pub. L. 115–232, §836(c)(5)(A)(iv)(VIII), struck out "comm
 
 Subsec. (b)(5). Pub. L. 115–232, §836(c)(5)(A)(v), substituted "commercial products or commercial services" for "commercial items".
 
-Subsec. (d)(2), (3). Pub. L. 115–232, §836(c)(5)(B), which directed the amendment of par. (2) by substituting "commercial products or commercial services" for "commercial items" wherever appearing, effective Jan. 1, 2020, was executed to par. (3) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–92, which redesignated par. (2) as (3), effective Dec. 20, 2019. See 2019 Amendment note above.
+Subsec. (d)(3). Pub. L. 115–232, §836(c)(5)(B), as amended by Pub. L. 116–283, §1081(d)(4)(B)(i), substituted "commercial products or commercial services" for "commercial items" wherever appearing.
 
 Subsec. (h)(2). Pub. L. 115–232, §836(c)(5)(C)(i), substituted "commercial products or commercial services" for "commercial items".
 
@@ -296,7 +346,7 @@ Subsec. (d)(1). Pub. L. 115–91, §811(b), substituted "the offeror shall be re
 
 <b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–328, §822(1), inserted "that is only expected to receive one bid" after "entered into using procedures other than sealed-bid procedures" in introductory provisions.
 
-Subsec. (b)(1)(A)(i). Pub. L. 114–328, §822(2)(A), substituted "competition that results in at least two ormore responsive and viable competing bids" for "price competition".
+Subsec. (b)(1)(A)(i). Pub. L. 114–328, §822(2)(A), substituted "competition that results in at least two or more responsive and viable competing bids" for "price competition".
 
 Subsec. (b)(6). Pub. L. 114–328, §822(2)(B), added par. (6).
 
@@ -380,7 +430,7 @@ Subsec. (f)(1). Pub. L. 103–355, §1209, struck out "with the Department of De
 
 Subsec. (g). Pub. L. 103–355, §1205, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
-"(1) For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section with respect to a contract or subcontract, the head of the agency, actingthrough any authorized representative of the head of the agency who is an employee of the United States or a member of the armed forces, shall have the right to examine all records of the contractor or subcontractor related to—
+"(1) For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section with respect to a contract or subcontract, the head of the agency, acting through any authorized representative of the head of the agency who is an employee of the United States or a member of the armed forces, shall have the right to examine all records of the contractor or subcontractor related to—
 
 &emsp;"(A) the proposal for the contract or subcontract;
 
@@ -398,7 +448,7 @@ Pub. L. 103–355, §1204(1), redesignated subsec. (f) as (g). Former subsec. (g
 
 Subsec. (h). Pub. L. 103–355, §1206, added subsec. (h).
 
-Subsec. (i). Pub. L. 103–355, §1208, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "In this section, the term 'cost or pricing data' means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived."
+Subsec. (i). Pub. L. 103–355, §1208, amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "In this section, the term 'cost orpricing data' means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived."
 
 Pub. L. 103–355, §1204(1), redesignated subsec. (g) as (i).
 
@@ -444,13 +494,25 @@ Subsec. (e)(2). Pub. L. 100–180, §804(b)(2), amended par. (2) generally. Prio
 
 Subsec. (g). Pub. L. 100–180, §804(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "In this section, the term 'cost or pricing data' means all information that is verifiable and that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived."
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title VIII, §814(a)(2), Jan. 1, 2021, 134 Stat. 3750, provided that: "The amendments made by this subsection \[amending this section\] shall apply to any contract, or modification or change to a contract, entered into on or after the date of the enactment of this Act \[Jan. 1, 2021\]."
+
+Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(4)(B)(i) of Pub. L. 116–283 is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted.
+
+Amendment by section 1831(b), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VIII, §818(b), Oct. 28, 2004, 118 Stat. 2016, as amended by Pub. L. 109–364, div. A, title X, §1071(g)(11), Oct. 17, 2006, 120 Stat. 2403, provided that: "Paragraph (3) of subsection (b) of section 2306a of title 10, United States Code (as added by subsection\(a)), shall take effect on June 1, 2005, and shall apply with respect to offers submitted, and to modifications of contracts or subcontracts made, on or after that date."
+Pub. L. 108–375, div. A, title VIII, §818(b), Oct. 28, 2004, 118 Stat. 2016, as amended by Pub. L. 109–364, div. A,title X, §1071(g)(11), Oct. 17, 2006, 120 Stat. 2403, provided that: "Paragraph (3) of subsection (b) of section 2306a of title 10, United States Code (as added by subsection (a)), shall take effect on June 1, 2005, and shall apply with respect to offers submitted, and to modifications of contracts or subcontracts made, on or after that date."
 
 #### Effective Date of 1996 Amendment
 
@@ -494,7 +556,7 @@ Pub. L. 114–92, div. A, title VIII, §851(e), Nov. 25, 2015, 129 Stat. 917, pr
 
 #### Pilot Program To Accelerate Contracting and Pricing Processes
 
-Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491, provided that:
+Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217, provided that:
 
 "(a)
 
@@ -512,9 +574,11 @@ Report.—Not later than January 30, 2021, the Secretary of Defense shall submit
 
 Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2023."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1831(j)(7), Jan. 1, 2021, 134 Stat. 4151, 4217, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 890(a)(2) of Pub. L. 115–232, set out above, is amended by substituting "of chapter 271" for "section 2306a".\]</i>
+
 #### Pilot Program for Streamlining Awards for Innovative Technology Projects
 
-Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326, provided that:
+Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, §832, Jan. 1, 2021, 134 Stat. 3753, provided that:
 
 "(a)
 
@@ -550,7 +614,7 @@ Guidance and Training.—The Secretary of Defense shall ensure that acquisition 
 
 "(f)
 
-Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2020.
+Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2022.
 
 "(g)
 
@@ -636,7 +700,7 @@ Pub. L. 112–239, div. A, title VIII, §831, Jan. 2, 2013, 126 Stat. 1842, prov
 
 "(a)
 
-Guidance.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the UnderSecretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by sections 2306a(d) and 2379 of title 10, United States Code. The guidance shall—
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by sections 2306a(d) and 2379 of title 10, United States Code. The guidance shall—
 
 &emsp;"(1) include standards for determining whether information on the prices at which the same or similar items have previously been sold is adequate for evaluating the reasonableness of price;
 
@@ -726,7 +790,7 @@ Definitions.—In this section:
 
 #### Defense Commercial Pricing Management Improvement
 
-Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314,div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615; Pub. L. 109–364, div. A, title VIII, §819, Oct. 17, 2006, 120 Stat. 2330; Pub. L. 113–291, div. A, title X, §1071(b)(9), Dec. 19, 2014, 128 Stat. 3507, which required revision of the Federal Acquisition Regulation to clarify the procedures and methods to be used for determining the reasonableness of prices of certain commercial items, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(18), Aug. 13, 2018, 132 Stat. 1848.
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615; Pub. L. 109–364, div. A, title VIII, §819, Oct. 17, 2006, 120 Stat. 2330; Pub. L. 113–291, div. A, title X, §1071(b)(9), Dec. 19, 2014, 128 Stat. 3507, which required revision of the Federal Acquisition Regulation to clarify the procedures and methods to be used for determining the reasonableness of prices of certain commercial items, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(18), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Review by Inspector General
 

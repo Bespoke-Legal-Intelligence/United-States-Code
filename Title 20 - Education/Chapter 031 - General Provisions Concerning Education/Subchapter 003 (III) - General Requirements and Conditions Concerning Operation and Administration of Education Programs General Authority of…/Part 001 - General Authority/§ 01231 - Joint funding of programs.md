@@ -12,7 +12,7 @@
 
 #### (b) Joint applications
 
-The Secretary may develop the criteria for, and require the submission of, joint applications under two or more applicable programs under which funds are awarded on a competitive basis, and may jointly review and approve such applications separately from other applications under such programs, when the Secretary determines that such joint awards are necessary toaddress a special need consistent with the purposes and authorized activities of each such program. Any applicant for such a joint award shall meet the eligibility requirements of each such program.
+The Secretary may develop the criteria for, and require the submission of, joint applications under two or more applicable programs under which funds are awarded on a competitive basis, and may jointly review and approve such applications separately from other applications under such programs, when the Secretary determines that such joint awards are necessary to address a special need consistent with the purposes and authorized activities of each such program. Any applicant for such a joint award shall meet the eligibility requirements of each such program.
 
 #### (c) Limitations on joint funding
 
@@ -48,5 +48,5 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
 
-Pub. L. 92–318, title III, §302(c), June 23, 1972, 86 Stat. 333, provided that: "The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act."
+Pub. L. 92–318, title III, §302(c), June 23, 1972, 86 Stat. 333, provided that: "The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon thedate of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act."
 

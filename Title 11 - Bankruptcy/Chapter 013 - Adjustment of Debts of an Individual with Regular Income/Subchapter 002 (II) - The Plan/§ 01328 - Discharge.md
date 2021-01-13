@@ -26,7 +26,7 @@
 
 (d) Notwithstanding any other provision of this section, a discharge granted under this section does not discharge the debtor from any debt based on an allowed claim filed under section 1305(a)(2) of this title if prior approval by the trustee of the debtor's incurring such debt was practicable and was not obtained.
 
-(e) On request of a party in interest before one year after a discharge under this section is granted, and after notice and a hearing, the court may revoke such discharge only if—
+(e) On request of a party in interest before one year after a discharge under this section isgranted, and after notice and a hearing, the court may revoke such discharge only if—
 
 &emsp;(1) such discharge was obtained by the debtor through fraud; and
 
@@ -50,7 +50,19 @@
 
 &emsp;(2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §532, July 10, 1984, 98 Stat. 389; Pub. L. 101–508, title III, §3007(b)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 101–581, §§2(b), 3, Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXXI, §§3102(b), 3103, Nov. 29, 1990, 104 Stat. 4916; Pub. L. 103–394, title III, §302, title V, §501(d)(38), Oct. 22, 1994, 108 Stat. 4132, 4147; Pub. L. 109–8, title I, §106(c), title II, §213(11), title III, §§312(2), 314(b), 330(d), title VII, §707, Apr. 20, 2005, 119 Stat. 38, 53, 87, 88, 102, 126.)
+(i) Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
+
+&emsp;(1) the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
+
+&emsp;(2)(A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
+
+&emsp;(B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) <sup>1</sup> of the mortgage described in subparagraph (A).
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §532, July 10, 1984, 98 Stat. 389; Pub. L. 101–508, title III, §3007(b)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 101–581, §§2(b), 3, Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXXI, §§3102(b), 3103, Nov. 29, 1990, 104 Stat. 4916; Pub. L. 103–394, title III, §302, title V, §501(d)(38), Oct. 22, 1994, 108 Stat. 4132, 4147; Pub. L. 109–8, title I, §106(c), title II, §213(11), title III, §§312(2), 314(b), 330(d), title VII, §707, Apr. 20, 2005, 119 Stat. 38, 53, 87, 88, 102, 126; Pub. L. 116–260, div. FF, title X, §1001(b), Dec. 27, 2020, 134 Stat. 3217.)
+
+#### Amendment of Subsection (i)
+
+<i>Pub. L. 116–260, div. FF, title X, §1001(b)(2), Dec. 27, 2020, 134 Stat. 3217, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (i). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -68,7 +80,19 @@ Subsection (d) excepts from any chapter 13 discharge a debt based on an allowed 
 
 A chapter 13 discharge obtained through fraud and before the moving party gained knowledge of the fraud may be revoked by the court under subsection (e), after notice and hearing, at the request of any party in interest made within 1 year after the discharge was granted.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (i). Pub. L. 116–260, §1001(b)(2), struck out subsec. (i) which read as follows: "Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
+
+&emsp;"(1) the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
+
+&emsp;"(2)(A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
+
+&emsp;"(B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) of the mortgage described in subparagraph (A)."
+
+Pub. L. 116–260, §1001(b)(1), added subsec. (i).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §330(d)(1), substituted "Subject to subsection (d), as" for "As" in introductory provisions.
 
@@ -112,6 +136,12 @@ Subsec. (a)(3). Pub. L. 101–581, §3(3), and Pub. L. 101–647, §3103(3), mad
 
 Subsec. (e)(2). Pub. L. 98–353, §532(2), substituted "the requesting party did not know of such fraud until" for "knowledge of such fraud came to the requesting party".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title X, §1001(b)(2), Dec. 27, 2020, 134 Stat. 3217, provided that the amendment made by section 1001(b)(2) is effective on the date that is 1 year after Dec. 27, 2020.
+
 #### Effective Date of 2005 Amendment
 
 Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 106(c), 213(11), 312(2), 314(b), and 707 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(d) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -131,4 +161,6 @@ Pub. L. 101–508, title III, §3007(b)(2), Nov. 5, 1990, 104 Stat. 1388–29, p
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

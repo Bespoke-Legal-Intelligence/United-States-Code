@@ -4,7 +4,7 @@
 
 (b) The principal duty of the Director for Expeditionary Warfare shall be to supervise the performance of all staff responsibilities of the Chief of Naval Operations regarding expeditionary warfare, including responsibilities regarding amphibious lift, mine warfare, naval fire support, and other missions essential to supporting expeditionary warfare.
 
-(c) The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
+(c) The Chief of Naval Operations shall transfer duties, responsibilities, and staff from otherpersonnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 
 (Added Pub. L. 102–484, div. A, title IX, §935(b)(1), Oct. 23, 1992, 106 Stat. 2478, §5038; amended Pub. L. 103–35, title II, §201(c)(10), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title IX, §944, Nov. 30, 1993, 107 Stat. 1737; Pub. L. 107–107, div. A, title IX, §932, Dec. 28, 2001, 115 Stat. 1200; Pub. L. 114–328, div. A, title V, §502(w), Dec. 23, 2016, 130 Stat. 2104; renumbered §8038, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 

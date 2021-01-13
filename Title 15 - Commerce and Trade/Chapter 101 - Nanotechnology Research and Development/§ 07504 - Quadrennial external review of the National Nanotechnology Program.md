@@ -28,7 +28,7 @@ The Director of the National Nanotechnology Coordination Office shall enter into
 
 &emsp;(12) an analysis of the relative position of the United States compared to other nations with respect to nanotechnology research and development, including the identification of any critical research areas where the United States should be the world leader to best achieve the goals of the Program; and
 
-&emsp;(13) an analysis of the current impact of nanotechnology on the United States economyand recommendations for increasing its future impact.
+&emsp;(13) an analysis of the current impact of nanotechnology on the United States economy and recommendations for increasing its future impact.
 
 #### (b) Study on molecular self-assembly
 
@@ -66,5 +66,5 @@ As part of the first quadrennial review conducted in accordance with subsection 
 
 <b>2017</b>—Pub. L. 114–329, §204(b)(3)(A)–(D), substituted "Quadrennial" for "Triennial" in section catchline and "quadrennial" for "triennial" in subsecs. (a) to (c).
 
-Subsec. (d). Pub. L. 114–329, §204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter."
+Subsec. (d). Pub. L. 114–329, §204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Scienceupon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter."
 

@@ -7,7 +7,9 @@
 | [1901\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001901%20-%20Administration%20of%20Academy.md) | Administration of Academy. |
 | [1902\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001902%20-%20Policy%20on%20sexual%20harassment%20and%20sexual%20violence.md) | Policy on sexual harassment and sexual violence. |
 | [1903\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001903%20-%20Annual%20Board%20of%20Visitors.md) | Annual Board of Visitors. |
-| [1904\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001904%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
+| [1904\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001904%20-%20Advisory%20Board%20on%20Women%20at%20the%20Coast%20Guard%20Academy.md) | Advisory Board on Women at the Coast Guard Academy. |
+| [1905\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001905%20-%20Coast%20Guard%20Academy%20minority%20outreach%20team%20program.md) | Coast Guard Academy minority outreach team program. |
+| [1906\.](Subchapter%20001%20%28I%29%20-%20Administration/%C2%A7%2001906%20-%20Participation%20in%20Federal%2C%20State%2C%20or%20other%20educational%20research%20grants.md) | Participation in Federal, State, or other educational research grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,11 +45,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 19, consisting of sections 690 to 693, related to carrying out an environmental compliance and restoration program, prior to repeal by Pub. L. 115–282, title I, §§104(c)(2), 110(a), Dec. 4, 2018, 132 Stat. 4199, 4211.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §§8215(b)(3), 8275(b), Jan. 1, 2021, 134 Stat. 4651, 4685, substituted "Advisory Board on Women at the Coast Guard Academy." for "Participation in Federal, State, or other educational research grants." in item 1904 and added items 1905 and 1906. Item 1906 was added at the end of subchapter I in the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language to amend the analysis for this chapter by adding that item "at the end".
 
 <b>2018</b>—Pub. L. 115–282, title I, §110(a), Dec. 4, 2018, 132 Stat. 4211, inserted chapter 19 designation and heading and added items 1901 to 1948.
 

@@ -28,7 +28,7 @@
 
 (c) Except as provided in subsection (d), leave granted under subsection (a) shall be leave without pay.
 
-(d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection.
+(d)(1) An employee may elect to substitute for leave under subparagraph (C), (D), or (E) of subsection (a)(1) any of the employee's accrued or accumulated annual or sick leave for any part of the 12-week period of leave under such subsection, except that nothing in this subchapter shall require an employing agency to provide paid sick leave in any situation in which such employing agency would not normally provide any such paid leave. An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave for any part of the 26-week period of leave under such subsection.
 
 (2)(A) An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
 
@@ -36,7 +36,7 @@
 
 &emsp;(i) 12 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
 
-&emsp;(ii) during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee under subchapter I.
+&emsp;(ii) during the 12-month period referred to in subsection (a)(1), and in addition to the 12 administrative workweeks under clause (i), any annual or sick leave accrued or accumulated by such employee.
 
 (C) Nothing in this subsection shall be considered to require that an employee first use all or any portion of the leave described in subparagraph (B)(ii) before being allowed to use the paid parental leave described in subparagraph (B)(i).
 
@@ -48,7 +48,7 @@
 
 &emsp;(iii) if not used by the employee before the end of the 12-month period (as referred to in subsection (a)(1)) to which it relates, shall not accumulate for any subsequent use.
 
-(E) Nothing in this paragraph shall be construed to modify the requirement to complete at least 12 months of service as an employee (within the meaning of section 6381(1)(A)) before thedate of the applicable birth or placement involved to be eligible for paid parental leave under subparagraph (B)(i) of this paragraph.
+(E) Nothing in this paragraph shall be construed to modify the requirement to complete at least 12 months of service as an employee (within the meaning of section 6381(1)(A)) before the date of the applicable birth or placement involved to be eligible for paid parental leave under subparagraph (B)(i) of this paragraph.
 
 (F)(i) An employee may not take leave under this paragraph unless the employee agrees (in writing), before the commencement of such leave, to work for the applicable employing agency for not less than a period of 12 weeks beginning on the date such leave concludes.
 
@@ -74,13 +74,15 @@
 
 (3) In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, §1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 7602(a), (b) of Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020. See 2019 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 116–283, §1103(f)(3)(A), struck out "under subchapter I" before "for any part" in two places.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 116–283, §1103(f)(3)(B), struck out before period at end "under subchapter I".
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §7602(b)(1), which directed amendment of section 6382(a)(1), without specifying the title to be amended, by inserting "and subsection (d)(2) of this section" after "section 6383" in introductory provisions, was executed to this section, to reflect the probable intent of Congress.
 
@@ -104,9 +106,11 @@ Subsec. (b)(1). Pub. L. 110–181, §585(b)(3)(A)(i), in second sentence, substi
 
 Subsec. (b)(2). Pub. L. 110–181, §585(b)(3)(A)(ii), inserted "or under subsection (a)(3)" after "subsection (a)(1)".
 
-Subsec. (d). Pub. L. 110–181, §585(b)(3)(B), inserted at end "An employee may elect to substitute for leaveunder subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection."
+Subsec. (d). Pub. L. 110–181, §585(b)(3)(B), inserted at end "An employee may elect to substitute for leave under subsection (a)(3) any of the employee's accrued or accumulated annual or sick leave under subchapter I for any part of the 26-week period of leave under such subsection."
 
 Subsec. (e). Pub. L. 110–181, §585(b)(3)(C), as amended by Pub. L. 110–417, inserted "or under subsection (a)(3)" after "subsection (a)(1)" in par. (1) and in introductory provisions of par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

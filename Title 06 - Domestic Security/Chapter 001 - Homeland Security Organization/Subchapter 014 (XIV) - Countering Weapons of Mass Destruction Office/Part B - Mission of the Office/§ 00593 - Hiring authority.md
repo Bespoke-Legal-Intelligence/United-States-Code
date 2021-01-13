@@ -1,8 +1,10 @@
 ### §593. Hiring authority
 
-In hiring personnel for the Office, the Secretary shall have the hiring and management authorities provided in section 1101 <sup>1</sup> of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note). The term of appointments for employees under subsection (c)(1) of such section may not exceed 5 years before granting any extension under subsection (c)(2) of such section.
+In hiring personnel for the Office, the Secretary shall have the hiring and managementauthorities provided in section 1101 <sup>1</sup> of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note). The term of appointments for employees under subsection (c)(1) of such section may not exceed 5 years before granting any extension under subsection (c)(2) of such section.
 
 (Pub. L. 107–296, title XIX, §1924, formerly title XVIII, §1803, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1934; renumbered title XIX, §1903, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294; renumbered §1924, Pub. L. 115–387, §2(a)(5), Dec. 21, 2018, 132 Stat. 5163.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

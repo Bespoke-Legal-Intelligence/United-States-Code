@@ -2,7 +2,7 @@
 
 #### (a) Rules and regulations
 
-The Secretary shall promulgate rules and regulations directed toward the surface effects of underground coal mining operations, embodying the following requirements and in accordance with the procedures established under section 1251 of this title: <i>Provided, however</i>, That in adopting any rules and regulations the Secretary shall consider the distinct difference between surface coal mining and underground coal mining. Such rules and regulations shall not conflict with nor supersede any provision of the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\] nor any regulation issued pursuant thereto, and shall not be promulgated until the Secretary has obtained the written concurrence of the head of the department which administers such Act.
+The Secretary shall promulgate rules and regulations directed toward the surface effects of underground coal mining operations, embodying the following requirements and in accordance with the procedures established under section 1251 of this title: <i>Provided, however</i>, That in adopting any rules and regulations the Secretary shall consider the distinct difference between surface coal mining and underground coal mining. Such rules and regulations shall notconflict with nor supersede any provision of the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\] nor any regulation issued pursuant thereto, and shall not be promulgated until the Secretary has obtained the written concurrence of the head of the department which administers such Act.
 
 #### (b) Permit requirements
 
@@ -24,7 +24,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(8) eliminate fire hazards and otherwise eliminate conditions which constitute a hazard to health and safety of the public;
 
-&emsp;(9) minimize the disturbances of the prevailing hydrologic balance at the minesite and in associated offsite areas and to the quantity of water in surface ground water systems bothduring and after coal mining operations and during reclamation by—
+&emsp;(9) minimize the disturbances of the prevailing hydrologic balance at the minesite and in associated offsite areas and to the quantity of water in surface ground water systems both during and after coal mining operations and during reclamation by—
 
 &emsp;&emsp;(A) avoiding acid or other toxic mine drainage by such measures as, but not limited to—
 
@@ -51,6 +51,8 @@ In order to protect the stability of the land, the regulatory authority shall su
 The provisions of this subchapter relating to State and Federal programs, permits, bonds, inspections and enforcement, public review, and administrative and judicial review shall be applicable to surface operations and surface impacts incident to an underground coal mine with such modifications to the permit application requirements, permit approval or denial procedures, and bond requirements as are necessary to accommodate the distinct difference between surface and underground coal mining. The Secretary shall promulgate such modifications in accordance with the rulemaking procedure established in section 1251 of this title.
 
 (Pub. L. 95–87, title V, §516, Aug. 3, 1977, 91 Stat. 495.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

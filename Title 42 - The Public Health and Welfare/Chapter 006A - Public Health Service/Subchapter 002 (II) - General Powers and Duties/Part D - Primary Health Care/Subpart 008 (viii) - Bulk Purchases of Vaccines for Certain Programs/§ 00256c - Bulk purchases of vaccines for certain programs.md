@@ -20,7 +20,7 @@ In carrying out subsection (a), the Secretary, in the discretion of the Secretar
 
 #### (d) Rule of construction
 
-This section may not be construed as requiring any State to reduce or terminate the supplyof vaccines provided by the State to any of the entities described in subsection (a)(2).
+This section may not be construed as requiring any State to reduce or terminate the supply of vaccines provided by the State to any of the entities described in subsection (a)(2).
 
 (July 1, 1944, ch. 373, title III, §340C, formerly §340B, as added Pub. L. 102–531, title III, §305, Oct. 27, 1992, 106 Stat. 3494; renumbered §340C, Pub. L. 103–43, title XX, §2008(i)(2)(A)(ii), June 10, 1993, 107 Stat. 213; amended Pub. L. 104–299, §4(a)(2), Oct. 11, 1996, 110 Stat. 3645.)
 

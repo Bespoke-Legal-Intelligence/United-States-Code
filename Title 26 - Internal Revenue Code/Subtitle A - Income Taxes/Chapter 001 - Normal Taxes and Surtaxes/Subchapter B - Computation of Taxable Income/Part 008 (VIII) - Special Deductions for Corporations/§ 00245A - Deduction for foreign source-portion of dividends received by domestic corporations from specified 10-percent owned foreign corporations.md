@@ -86,7 +86,7 @@ Any amount which is treated as a dividend under section 1291(d)(2)(B) shall not 
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section, including regulations for the treatment of United States shareholders owning stock of aspecified 10 percent <sup>1</sup> owned foreign corporation through a partnership.
+The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section, including regulations for the treatment of United States shareholders owning stock of a specified 10 percent <sup>1</sup> owned foreign corporation through a partnership.
 
 (Added Pub. L. 115–97, title I, §14101(a), Dec. 22, 2017, 131 Stat. 2189.)
 

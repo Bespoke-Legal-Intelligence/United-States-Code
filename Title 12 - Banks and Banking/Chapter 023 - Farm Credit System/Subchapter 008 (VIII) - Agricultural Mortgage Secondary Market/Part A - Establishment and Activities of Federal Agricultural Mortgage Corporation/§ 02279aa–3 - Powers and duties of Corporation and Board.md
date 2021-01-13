@@ -78,7 +78,9 @@ The Federal Reserve banks shall act as depositories for, and as fiscal agents or
 
 The Corporation shall have access to the book-entry system of the Federal Reserve System.
 
-(Pub. L. 92–181, title VIII, §8.3, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, §601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V, §503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, §308(b)(1), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§104, 105, Feb. 10, 1996, 110 Stat. 163.)
+(Pub. L. 92–181, title VIII, §8.3, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1691; amended Pub. L. 100–399, title VI, §601(c), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 102–237, title V,§503(c), Dec. 13, 1991, 105 Stat. 1877; Pub. L. 102–552, title III, §308(b)(1), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§104, 105, Feb. 10, 1996, 110 Stat. 163.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (e). Pub. L. 104–105, §105(2), substituted "Corporation shall have ac
 <b>1991</b>—Subsec. (c)(13), (14). Pub. L. 102–237 added par. (13) and redesignated former par. (13) as (14).
 
 <b>1988</b>—Subsec. (c)(4). Pub. L. 100–399 substituted "such persons" for "the persons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

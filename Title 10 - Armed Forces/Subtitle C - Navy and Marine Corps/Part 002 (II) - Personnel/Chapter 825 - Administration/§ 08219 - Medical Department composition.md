@@ -1,6 +1,6 @@
 ### §8219. Medical Department: composition
 
-The Medical Corps and Dental Corps, and such other staff corps as the Secretary of the Navy may establish under section 8090(b) of this title and designate to be in the Medical Department of the Navy, are in the Medical Department of the Navy.
+The Medical Corps and Dental Corps, and such other staff corps as the Secretary of the Navymay establish under section 8090(b) of this title and designate to be in the Medical Department of the Navy, are in the Medical Department of the Navy.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 377, §6027; Pub. L. 96–513, title III, §353, Dec. 12, 1980, 94 Stat. 2902; Pub. L. 99–433, title V, §514(c)(3), Oct. 1, 1986, 100 Stat. 1055; renumbered §8219 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(7), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 

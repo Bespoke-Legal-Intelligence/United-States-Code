@@ -1,5 +1,7 @@
 ### §111. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 111 transferred to section 1554 of this title.

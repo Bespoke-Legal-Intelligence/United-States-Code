@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible individual whose death is determined to have resulted from acovered injury or injuries, if the individual had one or more dependents under the age of 18, the legal guardian of the dependents may, in lieu of the death benefit under subsection (a), elect to receive on behalf of the aggregate of such dependents payments in accordance with this subsection. An election under the preceding sentence is effective in lieu of a request under subsection (a) by an individual who is not the legal guardian of such dependents.
+&emsp;In the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, if the individual had one or more dependents under the age of 18, the legal guardian of the dependents may, in lieu of the death benefit under subsection (a), elect to receive on behalf of the aggregate of such dependents payments in accordance with this subsection. An election under the preceding sentence is effective in lieu of a request under subsection (a) by an individual who is not the legal guardian of such dependents.
 
 #### (2) Amount of payments
 

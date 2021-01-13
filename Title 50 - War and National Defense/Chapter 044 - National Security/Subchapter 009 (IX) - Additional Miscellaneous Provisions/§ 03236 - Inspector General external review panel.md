@@ -34,7 +34,7 @@ A claim described in this subsection is any—
 
 &emsp;&emsp;&emsp;(i) The Inspector General of the Intelligence Community.
 
-&emsp;&emsp;&emsp;(ii) Except as provided in subparagraph (B), two members selected by the Inspector General as the Inspector General considers appropriate on a case-by-case basis from among inspectors general of the following:
+&emsp;&emsp;&emsp;(ii) Except as provided in subparagraph (B), two members selected by the InspectorGeneral as the Inspector General considers appropriate on a case-by-case basis from among inspectors general of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Department of Defense.
 

@@ -6,9 +6,9 @@
 
 &emsp;There is established in the Agency an Infrastructure Security Division.
 
-#### (2) Assistant Director
+#### (2) Executive Assistant Director
 
-&emsp;The Infrastructure Security Division shall be headed by an Assistant Director for Infrastructure Security (in this section referred to as the "Assistant Director"), who shall—
+&emsp;The Infrastructure Security Division shall be headed by an Executive Assistant Directorfor Infrastructure Security (in this section referred to as "the Executive Assistant Director"), who shall—
 
 &emsp;&emsp;(A) be at the level of Assistant Secretary within the Department;
 
@@ -18,11 +18,11 @@
 
 #### (3) Reference
 
-&emsp;Any reference to the Assistant Secretary for Infrastructure Protection in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Assistant Director for Infrastructure Security.
+&emsp;Any reference to the Assistant Secretary for Infrastructure Protection or Assistant Director for Infrastructure Security in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Infrastructure Security.
 
 #### (b) Functions
 
-The Assistant Director shall—
+The Executive Assistant Director shall—
 
 &emsp;(1) direct the critical infrastructure security efforts of the Agency;
 
@@ -32,7 +32,23 @@ The Assistant Director shall—
 
 &emsp;(4) carry out such other duties and powers as prescribed by the Director.
 
-(Pub. L. 107–296, title XXII, §2204, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4174.)
+(Pub. L. 107–296, title XXII, §2204, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4174; amended Pub. L. 116–283, div. H, title XC, §9001(d)(1), Jan. 1, 2021, 134 Stat. 4767.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §9001(d)(1)(A)(i), in heading, substituted "Executive Assistant Director" for "Assistant Director" and, in introductory provisions, substituted "Executive Assistant Director for Infrastructure Security" for "Assistant Director for Infrastructure Security" and "'the Executive Assistant Director' " for "the 'Assistant Director' ".
+
+Subsec. (a)(3). Pub. L. 116–283, §9001(d)(1)(A)(ii), inserted "or Assistant Director for Infrastructure Security" after "Assistant Secretary for Infrastructure Protection" and substituted "Executive Assistant Director for Infrastructure Security." for "Assistant Director for Infrastructure Security."
+
+Subsec. (b). Pub. L. 116–283, §9001(d)(1)(B), substituted "Executive Assistant Director" for "Assistant Director" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Continuation in Office
+
+Pub. L. 116–283, div. H, title XC, §9001(d)(2), Jan. 1, 2021, 134 Stat. 4767, provided that: "The individual serving as the Assistant Director for Infrastructure Security of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security on the day before the date of enactment of this Act \[Jan. 1, 2021\] may serve as the Executive Assistant Director for Infrastructure Security on and after that date without the need for renomination or reappointment."
 
 #### Assistant Secretary for Infrastructure Protection Authorized To Serve as Assistant Director for Infrastructure Security
 

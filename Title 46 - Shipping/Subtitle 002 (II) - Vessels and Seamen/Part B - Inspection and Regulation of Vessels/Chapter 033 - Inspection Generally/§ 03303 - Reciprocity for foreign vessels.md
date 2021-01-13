@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Section 3303 acknowledges the international concept of comity with respect to recognizing inspection laws and standards for foreign flag vessels that are similar to those of the United States. If a foreign nation is signatory to the International Convention for Safety of Life at Sea, it is presumed to have similar standards. However, reciprocity requirements for foreign flag tank vessels are included in chapter 37. Subsection (b) provides for a mutual waiver of fees for the inspection of foreign vessels carrying passengers from the United States.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–293 inserted "and section 3505" after "chapter 37".
@@ -27,6 +29,8 @@ Section 3303 acknowledges the international concept of comity with respect to re
 <b>1996</b>—Pub. L. 104–324 struck out subsec. (a) designation and subsec. (b) which read as follows: "The Secretary shall collect and pay to the Treasury the same fees for the inspection of foreign vessels carrying passengers from the United States that a foreign country charges vessels of the United States trading to the ports of that country. The Secretary may waive at any time the collection of the fees on notice of the proper authorities of any country concerned that the collection of fees for the inspection of vessels of the United States has been discontinued."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–587, in first sentence, struck out "only" after "is subject" and substituted "the condition of the vessel is" for "the condition of the vessel's propulsion equipment and lifesaving equipment are".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §1342. Limitation on voluntary services
 
-An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term "emergencies involving the safety of human life or the protection of property" does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
+An officer or employee of the United States Government or of the District of Columbia government may not accept voluntary services for either government or employ personal services exceeding that authorized by law except for emergencies involving the safety of human life or the protection of property. This section does not apply to a corporation getting amounts to make loans (except paid in capital amounts) without legal liability of the United States Government. As used in this section, the term "emergencies involving the safety of human life or the protection of property" does not includeongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 101–508, title XIII, §13213(b), Nov. 5, 1990, 104 Stat. 1388–621; Pub. L. 104–92, title III, §310(a), Jan. 6, 1996, 110 Stat. 20.)
 
@@ -24,11 +24,15 @@ R.S. §3679(b), (d)(2)(last sentence related to voluntary services); Mar. 3, 190
 
 The words "District of Columbia government" are added because of section 47–105 of the D.C. Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–92 temporarily amended section by inserting "All officers and employees of the United States Government or the District of Columbia government shall be deemed to be performing services relating to emergencies involving the safety of human life or the protection of property." after first sentence and by striking out at end "As used in this section, the term 'emergencies involving the safety of human life or the protection of property' does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property". See Effective and Termination Dates of 1996 Amendment note below.
 
 <b>1990</b>—Pub. L. 101–508 inserted at end "As used in this section, the term 'emergencies involving the safety of human life or the protection of property' does not include ongoing, regular functions of government the suspension of which would not imminently threaten the safety of human life or the protection of property."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1996 Amendment
 

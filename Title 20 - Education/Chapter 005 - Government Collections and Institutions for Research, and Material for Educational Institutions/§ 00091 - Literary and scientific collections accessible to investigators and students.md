@@ -1,6 +1,6 @@
 ### §91. Literary and scientific collections accessible to investigators and students
 
-The facilities for study, research and illustration in the Government departments and in the following and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
+The facilities for study, research and illustration in the Government departments and in thefollowing and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
 
 One. Of the Library of Congress.
 
@@ -70,7 +70,7 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5.
 
-Office of Education created and placed in Department of the Interior by act of July 20, 1868, ch. 176, 15 Stat. 106, which abolished Department of Education. In appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for "Office of Education".
+Office of Education created and placed in Department of the Interior by act of July 20, 1868, ch. 176, 15 Stat.106, which abolished Department of Education. In appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for "Office of Education".
 
 #### National Museum
 

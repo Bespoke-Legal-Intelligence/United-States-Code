@@ -38,7 +38,7 @@ In any case in which a single-employer plan is terminated in a distress terminat
 
 A person described in subsection (a) shall be subject to liability under this subsection to the trustee appointed under subsection (b) or (c) of section 1342 of this title. The liability of such person under this subsection shall consist of—
 
-&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum whichwould result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
+&emsp;(1) the sum of the shortfall amortization charge (within the meaning of section 1083(c)(1) of this title and 430(d)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of shortfall amortization installments (if any) determined for succeeding plan years under section 1083(c)(2) of this title and section 430(d)(2) of title 26 (which, for purposes of this subparagraph, shall include any increase in such sum which would result if all applications for waivers of the minimum funding standard under section 1082(c) of this title and section 412(c) of title 26 which are pending with respect to such plan were denied and if no additional contributions (other than those already made by the termination date) were made for the plan year in which the termination date occurs or for any previous plan year), and
 
 &emsp;(2) the sum of the waiver amortization charge (within the meaning of section 1083(e)(1) of this title and 430(e)(1) <sup>1</sup> of title 26) with respect to the plan (if any) for the plan year in which the termination date occurs, plus the aggregate total of waiver amortization installments (if any) determined for succeeding plan years under section 1083(e)(2) of this title and section 430(e)(2) of title 26,
 
@@ -102,7 +102,7 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (C) Relocation of workforce
 
-&emsp;&emsp;An eligible employee separated from employment at a facility shall not be taken into account in computing a workforce reduction if, within a reasonable period oftime, the employee is replaced by the employer, at the same or another facility located in the United States, by an employee who is a citizen or resident of the United States.
+&emsp;&emsp;An eligible employee separated from employment at a facility shall not be taken into account in computing a workforce reduction if, within a reasonable period of time, the employee is replaced by the employer, at the same or another facility located in the United States, by an employee who is a citizen or resident of the United States.
 
 #### (D) Dispositions
 
@@ -238,9 +238,11 @@ A person described in subsection (a) shall be subject to liability under this su
 
 #### (C) No addition to prefunding balance
 
-&emsp;&emsp;For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26, anyadditional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
+&emsp;&emsp;For purposes of section 1083(f)(6)(B) of this title and section 430(f)(6)(B) of title 26, any additional contribution made under paragraph (4) shall be treated in the same manner as a contribution an employer is required to make in order to avoid a benefit reduction under paragraph (1), (2), or (4) of section 1056(g) of this title or subsection (b), (c), or (e) of section 436 of title 26 for the plan year.
 
 (Pub. L. 93–406, title IV, §4062, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 95–598, title III, §321(b), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §403(g), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11011(a), (b), Apr. 7, 1986, 100 Stat. 253, 257; Pub. L. 100–203, title IX, §9312(b)(1), (2)(A), (B)(ii), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §§7881(f)(2), (10)(A), (B), 7891(a)(1), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445; Pub. L. 109–280, title I, §108(b)(4), formerly §107(b)(4), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; amended Pub. L. 113–235, div. P, §1(a), Dec. 16, 2014, 128 Stat. 2822.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -306,6 +308,8 @@ Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (
 
 <b>1978</b>—Subsec. (c)(2). Pub. L. 95–598 substituted "title 11" and "a debtor in a case under chapter 7 of such title" for "the Bankruptcy Act" and "the subject of a proceeding under that Act", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–235, div. P, §1(b), Dec. 16, 2014, 128 Stat. 2826, provided that:
@@ -316,7 +320,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 "(2)
 
-Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred."
+Transition rule.—An employer that had a cessation of operations before the date of enactment of this Act \[Dec. 16, 2014\] (as determined under subsection 4062(e) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1362(e)\] as in effect before the amendment made by this section), but did not enter into an arrangement with the Pension Benefit Guaranty Corporation to satisfy the requirements of such subsection (as so in effect) before such date of enactment, shall be permitted to make the election under section 4062(e)(4) of such Act (as in effect after the amendment made by this section) as if such cessation had occurred on such date of enactment. Such election shall be made not later than 30 days after such Corporation issues, on or after such date of the enactment, a final administrative determination that a substantial cessation of operations has occurred."
 
 #### Effective Date of 2006 Amendment
 

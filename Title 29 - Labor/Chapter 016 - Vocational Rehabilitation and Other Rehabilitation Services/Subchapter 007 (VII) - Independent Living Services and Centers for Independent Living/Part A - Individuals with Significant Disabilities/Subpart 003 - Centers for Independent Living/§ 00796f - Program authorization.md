@@ -24,7 +24,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (5) Prohibition on combined funds
 
-&emsp;No funds reserved by the Administrator under this subsection may be combined with funds appropriated under any other Act or part of this chapter if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this partare separately identified in such grant or payment and are used for the purposes of this part.
+&emsp;No funds reserved by the Administrator under this subsection may be combined with funds appropriated under any other Act or part of this chapter if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this part are separately identified in such grant or payment and are used for the purposes of this part.
 
 #### (c) In general
 
@@ -72,6 +72,8 @@ Whenever the Administrator determines that any amount of an allotment to a State
 
 (Pub. L. 93–112, title VII, §721, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, §481, July 22, 2014, 128 Stat. 1691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§796e) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
@@ -80,7 +82,7 @@ Part B of this subchapter, as in effect on the day before October 29, 1992, refe
 
 A prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4452; amended Pub. L. 103–73, title I, §114(h), Aug. 11, 1993, 107 Stat. 730, authorized program to assist centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2999; amended Pub. L. 99–506, title X, §1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, §208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, §701(1).
+Another prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978,92 Stat. 2999; amended Pub. L. 99–506, title X, §1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, §208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, §701(1).
 
 #### Amendments
 

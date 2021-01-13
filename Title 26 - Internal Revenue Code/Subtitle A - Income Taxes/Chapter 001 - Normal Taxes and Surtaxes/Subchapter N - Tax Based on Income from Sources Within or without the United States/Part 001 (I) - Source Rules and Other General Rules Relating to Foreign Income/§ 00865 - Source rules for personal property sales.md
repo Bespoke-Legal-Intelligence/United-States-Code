@@ -64,7 +64,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (C) Depreciation deductions
 
-&emsp;&emsp;The term "depreciation deductions" means any deductions for depreciation or amortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
+&emsp;&emsp;The term "depreciation deductions" means any deductions for depreciation oramortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
 
 #### (d) Exception for intangibles
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (2) Special rules for United States citizens and resident aliens
 
-&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated as a nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
+&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated asa nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
 
 #### (3) Special rule for certain stock sales by residents of Puerto Rico
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (4) Affiliate
 
-&emsp;The term "affiliate" means a member of the same affiliated group (within the meaning ofsection 1504(a) without regard to section 1504(b)).
+&emsp;The term "affiliate" means a member of the same affiliated group (within the meaning of section 1504(a) without regard to section 1504(b)).
 
 #### (5) Treatment of partnerships
 
@@ -254,7 +254,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 substituted "863" for "863(b)".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end "Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term 'unprocessed timber' means any log, cant, or similar form of timber."
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end "Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall besourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term 'unprocessed timber' means any log, cant, or similar form of timber."
 
 <b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–508 substituted "section 168(g)(4)" for "section 48(a)(2)(B)".
 

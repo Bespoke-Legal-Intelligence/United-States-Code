@@ -6,7 +6,7 @@ Authorization To Reimburse.—The Secretary shall carry out a program under whic
 
 (b)
 
-Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
+Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single individual, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
 
 (c)
 
@@ -54,13 +54,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
 
-(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386, §514; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI, §652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered §541, Pub. L. 113–281, title II, §214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered §2903, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386, §514; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI,§652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered §541, Pub. L. 113–281, title II, §214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered §2903, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(48), Jan. 1, 2021, 134 Stat. 4750.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 2903 was renumbered section 5103 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "individual" for "person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 541 of this title as this section.
 
@@ -71,6 +75,8 @@ A prior section 2903 was renumbered section 5103 of this title.
 Subsec. (g)(3). Pub. L. 104–201, §652(b)(2), added par. (3).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

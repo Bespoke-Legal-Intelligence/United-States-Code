@@ -1,6 +1,6 @@
 ### §3333. Reports
 
-(a) A special grand jury impaneled by any district court, with the concurrence of a majority of its members, may, upon completion of itsoriginal term, or each extension thereof, submit to the court a report—
+(a) A special grand jury impaneled by any district court, with the concurrence of a majority of its members, may, upon completion of its original term, or each extension thereof, submit to the court a report—
 
 &emsp;(1) concerning noncriminal misconduct, malfeasance, or misfeasance in office involving organized criminal activity by an appointed public officer or employee as the basis for a recommendation of removal or disciplinary action; or
 

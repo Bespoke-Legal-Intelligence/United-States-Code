@@ -92,7 +92,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (3) Specific construction
 
-&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
+&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individualposes a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
 
 (Pub. L. 101–336, title III, §302, July 26, 1990, 104 Stat. 355.)
 
@@ -102,5 +102,5 @@ For the effective date of this subparagraph, referred to in subsec. (b)(2)(B), (
 
 #### Effective Date
 
-Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec.\(b)(2)(B), (C) only) effective July 26, 1990, and with certain qualifications with respect to bringing of civil actions, see section 310 of Pub. L. 101–336, set out as a note under section 12181 of this title.
+Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec. (b)(2)(B), (C) only) effective July 26, 1990, and with certain qualifications with respect to bringing of civil actions, see section 310 of Pub. L. 101–336, set out as a note under section 12181 of this title.
 

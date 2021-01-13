@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iii) provide for the dissemination of results of the research; and
 
-&emsp;&emsp;&emsp;(iv) provide technical assistance and training to entities that provide servicesto Native Americans who are older individuals.
+&emsp;&emsp;&emsp;(iv) provide technical assistance and training to entities that provide services to Native Americans who are older individuals.
 
 #### (B) Areas of concern
 

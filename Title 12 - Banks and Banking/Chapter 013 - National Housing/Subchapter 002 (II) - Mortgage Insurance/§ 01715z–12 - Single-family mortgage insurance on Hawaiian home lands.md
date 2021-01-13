@@ -36,6 +36,8 @@ Possession of a lease of Hawaiian home lands issued under section 207(a) of the 
 
 (June 27, 1934, ch. 847, title II, §247, as added Pub. L. 98–181, title I \[title IV, §421\], Nov. 30, 1983, 97 Stat. 1213; amended Pub. L. 100–202, §101(f) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191; Pub. L. 100–242, title IV, §§413(a), (b), 429(h), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 100–628, title X, §1065, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 107–73, title II, §215, Nov. 26, 2001, 115 Stat. 677; Pub. L. 110–289, div. B, title I, §2119(a), July 30, 2008, 122 Stat. 2835.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
@@ -44,7 +46,7 @@ Section 4 of the Act entitled "An Act to provide for the admission of the State 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General InsuranceFund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
+<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
 <b>2001</b>—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 

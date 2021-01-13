@@ -30,6 +30,8 @@ The Secretary of the Interior is charged with the supervision of public business
 
 (R.S. §441; Mar. 3, 1879, ch. 182, 20 Stat. 394; Jan. 12, 1895, ch. 23, 28 Stat. 601; June 17, 1902, ch. 1093, §1, 32 Stat. 388; Feb. 14, 1903, ch. 552, §4, 32 Stat. 826; Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422; July 1, 1916, ch. 209, §1, 39 Stat. 309; Aug. 25, 1916, ch. 408, 39 Stat. 535; Ex. Ord. No. 3861, eff. June 8, 1923; Ex. Ord. No. 4175, eff. Mar. 17, 1925; Ex. Ord. No. 5398, eff. July 21, 1930; June 30, 1932, ch. 320, §1, 47 Stat. 446; Ex. Ord. No. 6611, eff. Feb. 22, 1934; Ex. Ord. No. 6726, eff. May 29, 1934; June 28, 1934, ch. 865, §1, 48 Stat. 1269; 1939 Reorg. Plan No. I, §201, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1940 Reorg. Plan No. IV, §11, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 3, §403(a), eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 85–56, title XXII, §2201(1), June 17, 1957, 71 Stat. 157; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §441 derived from acts Mar. 3, 1849, ch. 108, §§3, 5 to 9, 9 Stat. 395; Feb. 5, 1859, ch. 22, §1, 11 Stat. 379; July 20, 1868, ch. 176, §1, 15 Stat. 92, 106; July 8, 1870, ch. 230, §1, 16 Stat. 198.
@@ -40,6 +42,8 @@ Section was formerly classified to section 485 of Title 5 prior to the general r
 
 <b>1957</b>—Pub. L. 85–56 substituted "Bounty-lands" for "Pensions and bounty-lands" in par. 3.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States Bureau of Mines" substituted for "Bureau of Mines" in par. (5) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
@@ -49,62 +53,6 @@ Section was formerly classified to section 485 of Title 5 prior to the general r
 #### Effective Date of 1957 Amendment
 
 Amendment by Pub. L. 85–56 effective Jan. 1, 1958, see section 2301 of Pub. L. 85–56.
-
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
-
-Functions of General Land Office and of Grazing Service consolidated into a new agency known as Bureau of Land Management by Reorg. Plan No. 3 of 1946, §403(a), eff. July 16, 1946. See note set out under section 1 of this title.
-
-The following subjects of which Secretary of the Interior was charged with supervision by R.S. §441, were transferred in the manner indicated:
-
-Census—Transferred to Department of Commerce and Labor by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 826. (See Title 13, Census.)
-
-Pensions—Transferred to Veterans' Administration by Ex. Ord. No. 5398 of July 21, 1930, pursuant to act July 3, 1930, ch. 863, §1, 46 Stat. 1016. (See Title 38, Veterans' Benefits.)
-
-Patents—Transferred to Department of Commerce by Ex. Ord. No. 4175 of Mar. 17, 1925, pursuant to act Feb. 14, 1903, ch. 552 §12, 32 Stat. 830. (See Title 35, Patents.)
-
-Publications, custody and distribution—Transferred to Public Printer and superintendent of documents by act Jan. 12, 1895, ch. 23, 28 Stat. 601. (See Title 44, Public Printing and Documents.)
-
-Education—Transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §201, 4 F.R. 2728 53 Stat. 1424, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education.
-
-Government Hospital for the Insane—Designated St. Elizabeths Hospital by act July 1, 1916, ch. 209, §1, 39 Stat. 309—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Department of Health, Education, and Welfare redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
-
-Columbia Asylum for the Deaf and Dumb—Designated "Columbia Institution for the Deaf" by act Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422, thereafter "Gallaudet College" by act June 18, 1954, ch. 324, §1, 68 Stat. 265, and subsequently "Gallaudet University" by Pub. L. 99–371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees, and functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education. See, also, section 4301 et seq. of Title 20.
-
-The following subjects and agencies were placed under supervision of Secretary of the Interior by acts and executive orders cited thereto:
-
-Alaska Railroad—Ex. Ord. No. 3861 of June 8, 1923, pursuant to act Mar. 12, 1914, ch. 37, 38 Stat. 305, and Ex. Ord. 11107 of Apr. 25, 1963. For transfer to Secretary of Transportation of administration of Alaska Railroad and functions authorized to be carried out by Secretary of the Interior pursuant to Ex. Ord. No. 11107, Apr. 25, 1963, 28 F.R. 4225, relative to operation of railroad, seesection 6(i) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 941, which was classified to section 1655(i) of former Title 49, Transportation, prior to repeal by Pub. L. 97–468, title VI, §615(a)(4), Jan. 14, 1983, 96 Stat. 2579. Alaska Railroad transferred to State of Alaska on Jan. 5, 1985, pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
-
-Alaska Road Commission—Act June 30, 1932, ch. 320, §1, 47 Stat. 446—Transferred to Department of Commerce by act June 29, 1956, ch. 462, title I, §107, 70 Stat. 377, and terminated by act June 25, 1959, Pub. L. 86–70, §21(d)(7), 73 Stat. 146.
-
-Bureau of Mines—Transferred to Department of Commerce by Ex. Ord. No. 4239 of June 4, 1925; retransferred to Department of the Interior by Ex. Ord. No. 6611 of Feb. 22, 1934.
-
-Functions of Secretary of the Interior, Department of the Interior, and officers and components of Department of the Interior exercised by Bureau of Mines relating to fuel supply and demand analysis and data gathering, research and development relating to increased efficiency of production technology of solid fuel minerals other than research relating to mine health and safety and research relating to environmental and leasing consequences of solid fuel mining, and coal preparation and analysis transferred to Secretary of Energy by section 7152(d) of Title 42, The Public Health and Welfare. Subsequently, those functions transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42.
-
-For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
-
-Bureau of Reclamation—Act June 17, 1902, ch. 1093, 32 Stat. 388.
-
-Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(D), (3) of Title 42, The Public Health and Welfare, and to be exercised by Secretary through a separate Administration within Department of Energy.
-
-Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Division transferred to Office of Territories established July 28, 1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
-
-Fish and Wildlife Service—1939 Reorg. Plan No. II, §4(e), (f), 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, was succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1119. See section 742b of Title 16, Conservation.
-
-Geological Survey—Act Mar. 3, 1879, ch. 182, 20 Stat. 394.
-
-Grazing—Act June 28, 1934, ch. 865, 48 Stat. 1269.
-
-National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
-
-Office of Consumers' Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers' Counsel.
-
-Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
-
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Secretary of the Interior, see Parts 1, 2, and 10 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Report to Congress on Availability of Federal Programs to Territories of United States; Authorization of Appropriations
 
@@ -146,6 +94,70 @@ Act Apr. 30, 1908, ch. 153, 35 Stat. 73, provided: "That hereafter payment for t
 
 \[Act Apr. 30, 1908, set out above, was formerly classified to section 443b of Title 25, Indians, prior to editorial reclassification as this note.\]
 
+#### Section as Unaffected by Submerged Lands Act
+
+Provisions of this section as not amended, modified, or repealed by Submerged Lands Act, see section 1303 of this title.
+
+#### <b>Statutory Notes and Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+
+Functions of General Land Office and of Grazing Service consolidated into a new agency known as Bureau of Land Management by Reorg. Plan No. 3 of 1946, §403(a), eff. July 16, 1946. See note set out under section 1 of this title.
+
+The following subjects of which Secretary of the Interior was charged with supervision by R.S. §441, were transferred in the manner indicated:
+
+Census—Transferred to Department of Commerce and Labor by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 826. (See Title 13, Census.)
+
+Pensions—Transferred to Veterans' Administration by Ex. Ord. No. 5398 of July 21, 1930, pursuant to act July 3, 1930, ch. 863, §1, 46 Stat. 1016. (See Title 38, Veterans' Benefits.)
+
+Patents—Transferred to Department of Commerce by Ex. Ord. No. 4175 of Mar. 17, 1925, pursuant to act Feb. 14, 1903, ch. 552 §12, 32 Stat. 830. (See Title 35, Patents.)
+
+Publications, custody and distribution—Transferred to Public Printer and superintendent of documents by act Jan. 12, 1895, ch. 23, 28 Stat. 601. (See Title 44, Public Printing and Documents.)
+
+Education—Transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §201, 4 F.R. 2728 53 Stat. 1424, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education.
+
+Government Hospital for the Insane—Designated St. Elizabeths Hospital by act July 1, 1916, ch. 209, §1, 39 Stat. 309—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Department of Health, Education, and Welfare redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
+
+Columbia Asylum for the Deaf and Dumb—Designated "Columbia Institution for the Deaf" by act Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422, thereafter "Gallaudet College" by act June 18, 1954, ch. 324, §1, 68 Stat. 265, and subsequently "Gallaudet University" by Pub. L. 99–371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees, and functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education. See, also, section 4301 et seq. of Title 20.
+
+The following subjects and agencies were placed under supervision of Secretary of the Interior by acts and executive orders cited thereto:
+
+Alaska Railroad—Ex. Ord. No. 3861 of June 8, 1923, pursuant to act Mar. 12, 1914, ch. 37, 38 Stat. 305, and Ex. Ord. 11107 of Apr. 25, 1963. For transfer to Secretary of Transportation of administration of Alaska Railroad and functions authorized to be carried out by Secretary of the Interior pursuant to Ex. Ord. No. 11107, Apr. 25, 1963, 28 F.R. 4225, relative to operation of railroad, see section 6(i) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 941, which was classified to section 1655(i) of former Title 49, Transportation, prior to repeal by Pub. L. 97–468, title VI, §615(a)(4), Jan. 14, 1983, 96 Stat. 2579. Alaska Railroad transferred to State of Alaska on Jan. 5, 1985, pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
+
+Alaska Road Commission—Act June 30, 1932, ch. 320, §1, 47 Stat. 446—Transferred to Department of Commerce by act June 29, 1956, ch. 462, title I, §107, 70 Stat. 377, and terminated by act June 25, 1959, Pub. L. 86–70, §21(d)(7), 73 Stat. 146.
+
+Bureau of Mines—Transferred to Department of Commerce by Ex. Ord. No. 4239 of June 4, 1925; retransferred to Department of the Interior by Ex. Ord. No. 6611 of Feb. 22, 1934.
+
+Functions of Secretary of the Interior, Department of the Interior, and officers and components of Department of the Interior exercised by Bureau of Mines relating to fuel supply and demand analysis and data gathering, research and development relating to increased efficiency of production technology of solid fuel minerals other than research relating to mine health and safety and research relating to environmental and leasing consequences of solid fuel mining, and coal preparation and analysis transferred to Secretary of Energy by section 7152(d) of Title 42, The Public Health and Welfare. Subsequently, those functions transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42.
+
+For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
+
+Bureau of Reclamation—Act June 17, 1902, ch. 1093, 32 Stat. 388.
+
+Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(D), (3) of Title 42, The Public Health and Welfare, and to be exercised by Secretary through a separate Administration within Department of Energy.
+
+Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Division transferred to Office of Territories established July 28, 1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
+
+Fish and Wildlife Service—1939 Reorg. Plan No. II, §4(e), (f), 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, was succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1119. See section 742b of Title 16, Conservation.
+
+Geological Survey—Act Mar. 3, 1879, ch. 182, 20 Stat. 394.
+
+Grazing—Act June 28, 1934, ch. 865, 48 Stat. 1269.
+
+National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
+
+Office of Consumers' Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers' Counsel.
+
+Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Secretary of the Interior, see Parts 1, 2, and 10 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 9633
 
 Ex. Ord. No. 9633, eff. Sept. 28, 1945, 10 F.R. 12305, which reserved and placed certain resources of the Continental Shelf under the control and jurisdiction of the Secretary of the Interior, was revoked by Ex. Ord. No. 10426, eff. Jan. 16, 1953, 18 F.R. 405.
@@ -176,7 +188,7 @@ Sec. 2. EXECUTIVE BRANCH LEADERSHIP FOR DEVELOPMENT OF THE COORDINATED NATIONAL 
 
 Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establishing a National Geospatial Data Clearinghouse</i>. The Secretary, through the FGDC, and in consultation with, as appropriate, State, local, and tribal governments and other affected parties, shall take steps within 6 months of the date of this order, to establish an electronic National Geospatial Data Clearinghouse ("Clearinghouse") for the NSDI. The Clearinghouse shall be compatible with the National Information Infrastructure to enable integration with that effort.
 
-(b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date ofthis order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
+(b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date of this order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
 
 (c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 ("Management of Federal Information Resources") and any implementing bulletins.
 
@@ -184,7 +196,7 @@ Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establis
 
 (e) <i>Funding</i>. The Department of the Interior shall provide funding for the Clearinghouse to cover the initial prototype testing, standards development, and monitoring of the performance of the Clearinghouse. Agencies shall continue to fund their respective programs that collect and produce geospatial data; such data is then to be made part of the Clearinghouse for wider accessibility.
 
-Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent with OMB Circular No. A–119 ("Federal Participation in the Development and Use of Voluntary Standards"), and other applicable law and policies.
+Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent withOMB Circular No. A–119 ("Federal Participation in the Development and Use of Voluntary Standards"), and other applicable law and policies.
 
 (b) <i>Standards for Which Agencies Have Specific Responsibilities</i>. Agencies assigned responsibilities for data categories by OMB Circular No. A–16 shall develop, through the FGDC, standards for those data categories, so as to ensure that the data produced by all agencies are compatible.
 
@@ -215,8 +227,4 @@ Sec. 7. SCOPE. (a) For the purposes of this order, the term "agency" shall have 
 (e) Nothing in the order shall be construed to contravene the development of Federal Information Processing Standards and Guidelines adopted and promulgated under the provisions of section 111(d) of the Federal Property and Administrative Services Act of 1949 \[former 40 U.S.C. 759(d)\], as amended by the Computer Security Act of 1987 (Public Law 100–235), or any other United States law, regulation, or international agreement.
 
 Sec. 8. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-#### Section as Unaffected by Submerged Lands Act
-
-Provisions of this section as not amended, modified, or repealed by Submerged Lands Act, see section 1303 of this title.
 

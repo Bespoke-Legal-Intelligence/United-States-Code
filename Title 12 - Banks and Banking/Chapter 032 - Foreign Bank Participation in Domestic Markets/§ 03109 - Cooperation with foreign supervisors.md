@@ -40,6 +40,8 @@ Before making any disclosure of any information to a foreign authority, the Boar
 
 (Pub. L. 95–369, §15, as added Pub. L. 102–242, title II, §206, Dec. 19, 1991, 105 Stat. 2294; amended Pub. L. 109–351, title VII, §709, Oct. 13, 2006, 120 Stat. 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–351 added subsec. (c).

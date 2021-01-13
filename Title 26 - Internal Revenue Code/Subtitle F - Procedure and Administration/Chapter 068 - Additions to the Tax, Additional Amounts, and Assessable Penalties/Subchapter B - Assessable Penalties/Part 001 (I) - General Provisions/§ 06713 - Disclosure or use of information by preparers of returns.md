@@ -8,7 +8,7 @@ If any person who is engaged in the business of preparing, or providing services
 
 &emsp;(2) uses any such information for any purpose other than to prepare, or assist in preparing, any such return,
 
-> shall pay a penalty of $250 for each such disclosure or use, but the total amount imposed under this subsection on such a person for any calendar year shall not exceed $10,000.
+> shall pay a penalty of $250 for each such disclosure or use, but the total amount imposed underthis subsection on such a person for any calendar year shall not exceed $10,000.
 
 #### (b) Enhanced penalty for improper use or disclosure relating to identity theft
 

@@ -10,6 +10,8 @@ Presentation.—The Medal of Honor Flag shall be presented as specified in secti
 
 (Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570; amended Pub. L. 115–232, div. A, title VIII, §809(l)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 505 of title 14, referred to in subsec. (b), was redesignated section 2734 of title 14 by Pub. L. 115–282, title I, §116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to section 505 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -17,6 +19,8 @@ Section 505 of title 14, referred to in subsec. (b), was redesignated section 27
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "sections 7285, 8307, and 9285 of title 10" for "sections 3755, 6257, and 8755 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

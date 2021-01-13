@@ -10,7 +10,7 @@
 
 &emsp;(D) losses incurred because of the difference between the face value of the coins melted and the coins minted from the metal.
 
-(2) The Secretary shall reimburse the coinage metal fund for losses under paragraph (1)(C) and (D) of this subsection out of amounts in thecoinage profit fund under section 5111(b) of this title.
+(2) The Secretary shall reimburse the coinage metal fund for losses under paragraph (1)(C) and (D) of this subsection out of amounts in the coinage profit fund under section 5111(b) of this title.
 
 (b) The Secretary shall—
 
@@ -61,6 +61,8 @@ In subsection (a)(2), the words "The Secretary shall reimburse" are substituted 
 In subsection (b), before clause (1), the words "The Secretary shall" are substituted for "shall be destroyed in such manner and under such regulations as the Secretary of the Treasury may prescribe" in 31:421 because of the source provisions restated in section 321 of the revised title. In clause (1), the words "cancel and destroy" are substituted for "shall be destroyed" to conform to subsection (c) and section 5118(c) and (e) of the revised title. The words "(by a secure process)" are substituted for "may be destroyed by maceration instead of burning to ashes" in 31:422 to eliminate unnecessary words and because of the source provisions restated in section 321 of the revised title. The words "obsolete, mutilated, and worn . . . withdrawn from circulation" are substituted for "which by law are required to be taken up, and not reissued, when taken up" in 31:421 for consistency with subsection (a) and 12:124. The words "United States currency" are substituted for "all other notes" in 31:421 and "All national bank notes . . . and other obligations of the United States" for consistency in the revised title. The words "Mutilated United States notes, when replaced according to law" are omitted as superseded by the source provisions restated in section 5119(b) of the revised title. The text of the 3d paragraph(words before the first semicolon and between the 2d and last semicolons) under the heading "National Currency" in section 1 of the Act of June 23, 1874 (ch. 455, 18 Stat. 206), is omitted as executed. In clause (2), the words "dispose of the residue of the currency and notes" are substituted for "The pulp from such macerated issue shall be disposed of only under the direction of the Secretary of the Treasury" in 31:422 to eliminate unnecessary words and for consistency in the revised title.
 
 In subsection (c), the word "currency" is substituted for "currency . . . unfit for circulation" to eliminate unnecessary words. The words "regardless of who is responsible for, and regardless of who performs, such cancellation, destruction, or accounting" are omitted as unnecessary because of the restatement. The word "record" is substituted for "books, documents, papers, and records", and the words "make . . . easier" are substituted for "facilitate", for consistency in the revised title and with other titles of the United States Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 

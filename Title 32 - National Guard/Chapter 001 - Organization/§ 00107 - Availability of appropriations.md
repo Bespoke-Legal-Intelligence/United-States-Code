@@ -78,6 +78,8 @@ Aug. 10, 1956, ch. 1041, §30, 70A Stat. 632.
 
 The work "appropriations" is substituted for "funds appropriated" for consistency in the title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, or the District of Columbia".
@@ -99,6 +101,8 @@ Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as 
 Subsecs. (b), (c). Pub. L. 92–119, §1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–83 substituted "402 and 403" for "251 and 252".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 
@@ -138,5 +142,5 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 #### Availability of Appropriated Funds for the State Partnership Program
 
-Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, §1205(h), Dec. 26, 2013, 127 Stat. 899.
+Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulationsto defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, §1205(h), Dec. 26, 2013, 127 Stat. 899.
 

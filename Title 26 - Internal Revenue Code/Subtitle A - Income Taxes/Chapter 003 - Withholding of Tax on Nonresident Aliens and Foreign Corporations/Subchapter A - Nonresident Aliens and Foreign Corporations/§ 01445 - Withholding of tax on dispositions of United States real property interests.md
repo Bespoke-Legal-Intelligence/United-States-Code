@@ -60,7 +60,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 &emsp;&emsp;&emsp;(i) the transferee or qualified substitute has actual knowledge that the affidavit referred to in such paragraph, or the statement referred to in paragraph (9)(A)(ii), is false, or
 
-&emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent,transferee's agent, or qualified substitute that such affidavit or statement is false, or
+&emsp;&emsp;&emsp;(ii) the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor's agent, transferee's agent, or qualified substitute that such affidavit or statement is false, or
 
 &emsp;&emsp;(B) if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
 
@@ -158,7 +158,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (A) In general
 
-&emsp;&emsp;If any transferor's agent, transferee's agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required byregulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
+&emsp;&emsp;If any transferor's agent, transferee's agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
 
 #### (B) Liability limited to amount of compensation
 
@@ -212,7 +212,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (5) Rules relating to dispositions of interest in partnerships, trusts, or estates
 
-&emsp;To the extent provided in regulations, the transferee of a partnership interest or of a beneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
+&emsp;To the extent provided in regulations, the transferee of a partnership interest or of abeneficial interest in a trust or estate shall be required to deduct and withhold under subsection (a) a tax equal to 15 percent of the amount realized on the disposition.
 
 #### (6) Distributions by regulated investment companies and real estate investment trusts
 

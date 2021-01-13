@@ -193,9 +193,145 @@ Asset Protection Allowances for Families and Students
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's contribution from income or assets.
 
-(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(b), Sept. 27, 2007, 121 Stat. 801.)
+(Pub. L. 89–329, title IV, §476, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1463; amended Pub. L. 100–50, §14(1), (3), (4), (13)–(17), June 3, 1987, 101 Stat. 349, 351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 594; Pub. L. 103–208, §2(g)(6), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(h), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §474, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(b)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(b), Sept. 27, 2007, 121 Stat. 801; Pub. L. 116–260, div. FF, title VII, §702(e), Dec. 27, 2020, 134 Stat. 3145.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(e), Dec. 27, 2020, 134 Stat. 3137, 3145, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1087pp. Student aid index for independent students without dependents other than a spouse
+
+#### <i>(a) Computation of student aid index</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>For each independent student without dependents other than a spouse, the student aid index is equal to (except as provided in paragraph (2)) the sum of—</i>
+
+&emsp;&emsp;<i>(A) the family's available income (determined in accordance with subsection (b)); and</i>
+
+&emsp;&emsp;<i>(B) the family's available assets (determined in accordance with subsection (c)).</i>
+
+#### <i>(2) Exception</i>
+
+&emsp;<i>If the sum determined under paragraph (1) with respect to an independent student without dependents other than a spouse is less than − $1,500, the student aid index for the independent student shall be − $1,500.</i>
+
+#### <i>(b) Family's available income</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The family's available income is determined by—</i>
+
+&emsp;&emsp;<i>(A) deducting from total income (as defined in section 1087vv of this title)—</i>
+
+&emsp;&emsp;&emsp;<i>(i) Federal income taxes;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) an allowance for payroll taxes, determined in accordance with paragraph (2);</i>
+
+&emsp;&emsp;&emsp;<i>(iii) an income protection allowance that is equal to—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) in the case of a single independent student without dependents, $14,630, as adjusted pursuant to section 1078rr(b) of this title; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) in the case of a married independent student without dependents, $23,460, as adjusted pursuant to section 1078rr(b) of this title; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) in the case of a married independent student, an employment expense allowance, as determined in accordance with paragraph (3); and</i>
+
+&emsp;&emsp;<i>(B) multiplying the amount determined under subparagraph (A) by 50 percent.</i>
+
+#### <i>(2) Allowance for payroll taxes</i>
+
+&emsp;<i>The allowance for payroll taxes is equal to the sum of—</i>
+
+&emsp;&emsp;<i>(A) the total amount earned by the student (and spouse, if appropriate), multiplied by the rate of tax under section 3101(b) of title 26; and</i>
+
+&emsp;&emsp;<i>(B) the amount earned by the student (and spouse, if appropriate) that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.</i>
+
+#### <i>(3) Employment expense allowance</i>
+
+&emsp;<i>The employment expense allowance is equal to the following:</i>
+
+&emsp;&emsp;<i>(A) If the student is married, such allowance is equal to the lesser of $4,000 or 35 percent of the couple's combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).</i>
+
+&emsp;&emsp;<i>(B) If the student is not married, the employment expense allowance is zero.</i>
+
+#### <i>(c) Family's available assets</i>
+
+#### <i>(1) In general</i>
+
+#### <i>(A) Determination</i>
+
+&emsp;&emsp;<i>Except as provided in subparagraph (B), the family's available assets are equal to—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the difference between the family's assets (as defined in section 1087vv(f) of this title) and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by</i>
+
+&emsp;&emsp;&emsp;<i>(ii) 20 percent.</i>
+
+#### <i>(B) Not less than zero</i>
+
+&emsp;&emsp;<i>The family's available assets under this subsection shall not be less than zero.</i>
+
+#### <i>(2) Asset protection allowance</i>
+
+&emsp;<i>The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(d) of this title):</i>
+
+Asset Protection Allowances for Families and Students
+
+| If the age of the student is— | And the student is |  |
+| :--- | :---: | ---: |
+| married | single |  |
+| &nbsp; |  |  |
+| (1)then the allowance is— |  |  |
+|  |  |  |
+| 25 or less | &nbsp;$  0 | &nbsp;&nbsp;&nbsp;$0 |
+| 26 | &nbsp;$400 | &nbsp;$100 |
+| 27 | &nbsp;$700 | &nbsp;$300 |
+| 28 | &nbsp;$1,100 | &nbsp;$400 |
+| 29 | &nbsp;$1,500 | &nbsp;$600 |
+| 30 | &nbsp;$1,800 | &nbsp;$700 |
+| 31 | &nbsp;$2,200 | &nbsp;$800 |
+| 32 | &nbsp;$2,600 | &nbsp;$1,000 |
+| 33 | &nbsp;$2,900 | &nbsp;$1,100 |
+| 34 | &nbsp;$3,300 | &nbsp;$1,300 |
+| 35 | &nbsp;$3,700 | &nbsp;$1,400 |
+| 36 | &nbsp;$4,000 | &nbsp;$1,500 |
+| 37 | &nbsp;$4,400 | &nbsp;$1,700 |
+| 38 | &nbsp;$4,800 | &nbsp;$1,800 |
+| 39 | &nbsp;$5,100 | &nbsp;$2,000 |
+| 40 | &nbsp;$5,500 | &nbsp;$2,100 |
+| 41 | &nbsp;$5,600 | &nbsp;$2,200 |
+| 42 | &nbsp;$5,700 | &nbsp;$2,200 |
+| 43 | &nbsp;$5,900 | &nbsp;$2,300 |
+| 44 | &nbsp;$6,000 | &nbsp;$2,300 |
+| 45 | &nbsp;$6,200 | &nbsp;$2,400 |
+| 46 | &nbsp;$6,300 | &nbsp;$2,400 |
+| 47 | &nbsp;$6,500 | &nbsp;$2,500 |
+| 48 | &nbsp;$6,600 | &nbsp;$2,500 |
+| 49 | &nbsp;$6,800 | &nbsp;$2,600 |
+| 50 | &nbsp;$7,000 | &nbsp;$2,700 |
+| 51 | &nbsp;$7,100 | &nbsp;$2,700 |
+| 52 | &nbsp;$7,300 | &nbsp;$2,800 |
+| 53 | &nbsp;$7,500 | &nbsp;$2,900 |
+| 54 | &nbsp;$7,700 | &nbsp;$2,900 |
+| 55 | &nbsp;$7,900 | &nbsp;$3,000 |
+| 56 | &nbsp;$8,100 | &nbsp;$3,100 |
+| 57 | &nbsp;$8,400 | &nbsp;$3,100 |
+| 58 | &nbsp;$8,600 | &nbsp;$3,200 |
+| 59 | &nbsp;$8,800 | &nbsp;$3,300 |
+| 60 | &nbsp;$9,100 | &nbsp;$3,400 |
+| 61 | &nbsp;$9,300 | &nbsp;$3,500 |
+| 62 | &nbsp;$9,600 | &nbsp;$3,600 |
+| 63 | &nbsp;$9,900 | &nbsp;$3,700 |
+| 64 | $10,200 | &nbsp;$3,800 |
+| 65 or more | $10,500 | &nbsp;$3,900. |
+
+#### <i>(d) Computations in case of separation, divorce, or death</i>
+
+<i>In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for independent students without dependents other than a spouse.
 
 <b>2007</b>—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
@@ -227,7 +363,7 @@ Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted "$8,000"
 
 Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting "plus the amount of veterans' benefits paid during the award period under chapters 32, 34, and 35 of title 28", was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
+Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting "plus the amount of veterans' benefits paid during theaward period under chapters 32, 34, and 35 of title 28", was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
 
 Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted "subparagraph (C)" for "subparagraph (B)".
 
@@ -255,6 +391,10 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 
 Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087oo of this title.
@@ -267,7 +407,7 @@ Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provid
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of needunder this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1993 Amendment
 

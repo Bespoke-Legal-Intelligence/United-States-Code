@@ -47,6 +47,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177, title VI, §605(b), Mar. 9, 2006, 120 Stat. 255, added item 3056A.

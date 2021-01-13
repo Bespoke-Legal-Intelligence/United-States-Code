@@ -92,7 +92,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) any company, 10 percent or more of the outstanding voting securities of which are directly or indirectly owned, controlled, or held with power to vote, by such holding company; and
 
-&emsp;&emsp;(B) any person, the management or policies of which the Commission, after notice and opportunity for hearing, determines to be subject to a controlling influence, directly or indirectly, by such holding company (either alone or pursuant to an arrangement or understanding with one ormore other persons) so as to make it necessary for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon subsidiary companies of holding companies.
+&emsp;&emsp;(B) any person, the management or policies of which the Commission, after notice and opportunity for hearing, determines to be subject to a controlling influence, directly or indirectly, by such holding company (either alone or pursuant to an arrangement or understanding with one or more other persons) so as to make it necessary for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon subsidiary companies of holding companies.
 
 #### (17) Voting security
 

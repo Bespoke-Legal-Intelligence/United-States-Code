@@ -2,7 +2,7 @@
 
 #### (a) Company's share
 
-For purposes of section 805(a)(4), the term "company's share" means, with respect to any taxable year beginning after December 31, 2017, 70 percent.
+For purposes of section 805(a)(4), the term "company's share" means, with respect to anytaxable year beginning after December 31, 2017, 70 percent.
 
 #### (b) Policyholder's share
 
@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 100–647, §1018(h)(1), amended subsec. (e) generally. Pri
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 substituted "at the greater of the prevailing State assumed rate or the applicable Federal interest rate" for "at the prevailing State assumed rate or, where such rate is not used, another appropriate rate" in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted "or, where such rate is not used, another appropriaterate" after "assumed rate", in subpar. (A) and added subpar. (D).
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514, §1821(i)(1), inserted "or, where such rate is not used, another appropriate rate" after "assumed rate", in subpar. (A) and added subpar. (D).
 
 Subsec. (b)(3)(B). Pub. L. 99–514, §1821(i)(2), struck out "(including tax-exempt interest)" after "insurance gross income" in cl. (ii) and inserted at end "For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof."
 
@@ -72,7 +72,7 @@ Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made af
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
 
 Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

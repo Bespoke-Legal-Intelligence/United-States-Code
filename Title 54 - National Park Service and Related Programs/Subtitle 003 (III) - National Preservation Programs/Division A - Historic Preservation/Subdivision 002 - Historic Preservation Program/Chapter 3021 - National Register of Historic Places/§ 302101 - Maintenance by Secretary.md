@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 Pub. L. 89–665, title I, §101(a)(1)(A) (1st sentence), Oct. 15, 1966, 80 Stat. 915; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Recovery of Fees for Review Services for Historic Preservation Tax Certification
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–142, provided in part: "That notwithstanding any other provision of law, the National Park Service may hereafter recover all fees derived from providing necessary review services associated with historic preservation tax certification, and such funds shall be available until expended without further appropriation for the costs of such review services".
@@ -86,5 +88,5 @@ Historic building and structures.—The term 'historic building and structures' 
 
 #### Recommendations of Historic Properties for Preservation
 
-Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 et seq.\] fully reflect the historical experience of this nation."
+Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 etseq.\] fully reflect the historical experience of this nation."
 

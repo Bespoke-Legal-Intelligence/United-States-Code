@@ -6,7 +6,7 @@ The Congress makes the following findings and declarations:
 
 (2) The illegal importation, manufacture, distribution, and possession and improper use of controlled substances have a substantial and detrimental effect on the health and general welfare of the American people.
 
-(3) A major portion of the traffic in controlled substances flows through interstate and foreigncommerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantial and direct effect upon interstate commerce because—
+(3) A major portion of the traffic in controlled substances flows through interstate and foreign commerce. Incidents of the traffic which are not an integral part of the interstate or foreign flow, such as manufacture, local distribution, and possession, nonetheless have a substantial and direct effect upon interstate commerce because—
 
 &emsp;(A) after manufacture, many controlled substances are transported in interstate commerce,
 
@@ -24,9 +24,13 @@ The Congress makes the following findings and declarations:
 
 (Pub. L. 91–513, title II, §101, Oct. 27, 1970, 84 Stat. 1242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in par. (1), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -58,7 +62,7 @@ Pub. L. 115–83, §1, Nov. 17, 2017, 131 Stat. 1267, provided that: "This Act \
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–145, §1, Apr. 19, 2016, 130 Stat. 354, provided that: "This Act \[amending sections 823 and 824 of this title\] may be cited as the 'Ensuring Patient Access and Effective Drug Enforcement Act of 2016'."
+Pub. L. 114–145, §1, Apr. 19, 2016, 130 Stat. 354, provided that: "This Act \[amending sections 823 and 824 of thistitle\] may be cited as the 'Ensuring Patient Access and Effective Drug Enforcement Act of 2016'."
 
 #### Short Title of 2014 Amendment
 
@@ -74,7 +78,7 @@ Pub. L. 112–144, title XI, §1151, July 9, 2012, 126 Stat. 1130, provided that
 
 Pub. L. 111–273, §1, Oct. 12, 2010, 124 Stat. 2858, provided that: "This Act \[amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Secure and Responsible Drug Disposal Act of 2010'."
 
-Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notesunder section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
+Pub. L. 111–268, §1, Oct. 12, 2010, 124 Stat. 2847, provided that: "This Act \[amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title\] may be cited as the 'Combat Methamphetamine Enhancement Act of 2010'."
 
 Pub. L. 111–220, §1, Aug. 3, 2010, 124 Stat. 2372, provided that: "This Act \[amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Fair Sentencing Act of 2010'."
 
@@ -178,7 +182,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: "That this Act \[am
 
 #### Short Title
 
-Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
+Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, andsection 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
@@ -186,7 +190,7 @@ For short title and complete classification of title III of Pub. L. 91–513, wh
 
 #### Severability
 
-Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, provided that: "Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms,or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances."
+Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, provided that: "Any provision of this title \[see Short Title of 2000 Amendments note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances."
 
 #### Continuation of Orders, Rules, and Regulations
 
@@ -350,7 +354,7 @@ Funding.—Of the amounts made available to carry out the Controlled Substances 
 
 Reports.—After consultation with the Task Force, the Administrators shall—
 
-&emsp;"(1) transmit to the President and to each House of Congress not later than 270 days after the date of the enactment of this subtitle \[Nov. 18, 1988\] a report describing the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection);
+&emsp;"(1) transmit to the President and to each House of Congress not later than 270 days after the date of theenactment of this subtitle \[Nov. 18, 1988\] a report describing the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection);
 
 &emsp;"(2) periodically transmit to the President and to each House of Congress reports describing the implementation of the program established by the Task Force under subsection (c) (including an analysis of the factors specified in paragraphs (1) through (5) of that subsection) and the progress made in the cleanup and disposal of hazardous waste produced by illegal drug laboratories; and
 
@@ -498,7 +502,7 @@ Findings.—The Congress finds that—
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;"(1) all employers providing health insurance policies should ensure that the policies provide adequate coverage for treatment of drug and alcohol addiction in recognition that the health consequences and costs for individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
+&emsp;"(1) all employers providing health insurance policies should ensure that the policies provide adequate coverage for treatment of drug and alcohol addiction in recognition that the health consequences and costsfor individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
 
 &emsp;"(2) State insurance commissioners should encourage employers providing health benefits plans to ensure that the policies provide more adequate coverage for treatment of drug and alcohol addiction."
 
@@ -516,7 +520,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 &emsp;"(3) nine members appointed by the President of the United States.
 
-> At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more thanfive of the members appointed under paragraph (3) be members of the same political party.
+> At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party.
 
 "(b)
 
@@ -560,6 +564,8 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 \[Limitation on expenditures\] Total expenditures of the Commission shall not exceed $4,000,000."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11599
 
 Ex. Ord. No. 11599, June 17, 1971, 36 F.R. 11793, which established the Special Action Office for Drug Abuse Prevention, was superseded. See Prior Provisions notes set out under section 1111 of this title.
@@ -578,7 +584,7 @@ Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, provided:
 
 Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973, among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
 
-NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the United States, including section 5317 of title 5 of the United States Code, as amended, it is hereby ordered as follows:
+NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the UnitedStates, including section 5317 of title 5 of the United States Code, as amended, it is hereby ordered as follows:
 
 Section 1. The Attorney General, to the extent permitted by law, is authorized to coordinate all activities of executive branch departments and agencies which are directly related to the enforcement of laws respecting narcotics and dangerous drugs. Each department and agency of the Federal Government shall, upon request and to the extent permitted by law, assist the Attorney General in the performance of functions assigned to him pursuant to this order, and the Attorney General may, in carrying out those functions, utilize the services of any other agencies, Federal and State, as may be available and appropriate.
 

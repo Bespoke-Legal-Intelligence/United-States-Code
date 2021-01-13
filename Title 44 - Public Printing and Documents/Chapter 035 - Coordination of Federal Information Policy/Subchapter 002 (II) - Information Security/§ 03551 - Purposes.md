@@ -16,9 +16,13 @@ The purposes of this subchapter are to—
 
 (Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 3531 and 3541 of this title prior to repeal by Pub. L. 113–283.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cybersecurity Improvements to Agency Information Systems
 

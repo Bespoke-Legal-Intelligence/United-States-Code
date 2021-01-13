@@ -50,7 +50,7 @@ In general.—Any person engaged on January 1, 1988, in any trade or business wh
 
 &emsp;"(B)
 
-Limitation on amount of tax.—In the case of a taxpayer who paid an occupational tax in respect ofany premises for any taxable period which began before January 1, 1988, and includes such date, the amount of the occupational tax imposed by reason of subparagraph (A) in respect of such premises shall not exceed an amount equal to ½ the excess (if any) of—
+Limitation on amount of tax.—In the case of a taxpayer who paid an occupational tax in respect of any premises for any taxable period which began before January 1, 1988, and includes such date, the amount of the occupational tax imposed by reason of subparagraph (A) in respect of such premises shall not exceed an amount equal to ½ the excess (if any) of—
 
 &emsp;&emsp;"(i) the rate of such tax as in effect on January 1, 1988, over
 

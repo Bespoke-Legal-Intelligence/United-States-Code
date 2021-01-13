@@ -62,6 +62,8 @@
 
 (Added Pub. L. 99–576, title IV, §413(a), Oct. 28, 1986, 100 Stat. 3284, §1009; amended Pub. L. 101–237, title III, §313(b)(5), Dec. 18, 1989, 103 Stat. 2077; renumbered §2409, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–154, title VI, §604, Aug. 6, 2012, 126 Stat. 1201.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–154 designated existing provisions as par. (1), inserted "and subject to paragraph (2)" after "Secretary of the Army", and added pars. (2) to (4).
@@ -69,6 +71,8 @@
 <b>1991</b>—Pub. L. 102–83 renumbered section 1009 of this title as this section.
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–237 inserted "of the Army" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer to the Secretary of the Army and Management of Parcel of Federal Land in Arlington, Virginia
 
@@ -118,7 +122,7 @@ Availability of Funds.—Of the amount appropriated or otherwise made available 
 
 "(a)
 
-Authority To Accept Donations.—The Administrator of the National Aeronautics and Space Administration may accept gifts and donations of services, money, and property (including personal, tangible, orintangible property) for the purpose of an appropriate memorial or monument to the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107, whether such memorial or monument is constructed by the Administrator or is the memorial marker required by section 302.
+Authority To Accept Donations.—The Administrator of the National Aeronautics and Space Administration may accept gifts and donations of services, money, and property (including personal, tangible, or intangible property) for the purpose of an appropriate memorial or monument to the seven members of the crew of the Columbia Orbiter who died on February 1, 2003, over the State of Texas during the landing of space shuttle mission STS–107, whether such memorial or monument is constructed by the Administrator or is the memorial marker required by section 302.
 
 "(b)
 

@@ -168,7 +168,7 @@ A prior section 250, added Pub. L. 91–518, title IX, §901(a), Oct. 30, 1970, 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 172 of this title.
+Section applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, setout as an Effective Date of 2017 Amendment note under section 172 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "as".</i>
 

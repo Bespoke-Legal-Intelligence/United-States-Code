@@ -42,6 +42,8 @@ The conspiracy provision of said section 34 was also incorporated in section 238
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101(a) of the Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is classified to section 1801(a) of Title 50, War and National Defense.
@@ -61,6 +63,8 @@ Subsec. (d)(3). Pub. L. 103–359 substituted "(p)" for "(o)" in two places.
 <b>1986</b>—Subsec. (d). Pub. L. 99–399 added subsec. (d).
 
 <b>1954</b>—Act Sept. 3, 1954, increased the penalty for peacetime espionage and corrected a deficiency on the sentencing authority by increasing penalty to death or imprisonment for any term of years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

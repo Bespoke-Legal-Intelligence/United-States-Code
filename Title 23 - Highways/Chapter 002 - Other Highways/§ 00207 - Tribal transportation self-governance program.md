@@ -324,7 +324,7 @@ Regulation waiver.—
 
 &emsp;&emsp;(A)
 
-In general.—An Indian tribe may submit to the Secretary a written request to waive application of a regulation promulgated under this section with respect to a compact or funding agreement. The request shall identify the regulation sought to be waived and the basis for the request.
+In general.—An Indian tribe may submit to the Secretary a written request towaive application of a regulation promulgated under this section with respect to a compact or funding agreement. The request shall identify the regulation sought to be waived and the basis for the request.
 
 &emsp;&emsp;(B)
 
@@ -480,6 +480,8 @@ Effect of circulars, policies, manuals, guidance, and rules.—Unless expressly 
 
 (Added Pub. L. 114–94, div. A, title I, §1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, §1, Aug. 14, 2018, 132 Stat. 2443.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(BB), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
@@ -497,6 +499,8 @@ A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93�
 <b>2018</b>—Subsec. (n)(1)(B). Pub. L. 115–235, §1(1), substituted "42 months" for "21 months".
 
 Subsec. (n)(1)(C). Pub. L. 115–235, §1(2), substituted "48 months" for "30 months".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

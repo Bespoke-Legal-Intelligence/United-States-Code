@@ -1,5 +1,7 @@
 ### §1223. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 91–364, §3, July 31, 1970, 84 Stat. 688, which related to distribution of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.

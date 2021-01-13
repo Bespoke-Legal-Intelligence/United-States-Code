@@ -50,6 +50,8 @@ Availability.—The Maritime Administrator shall make available to the public fo
 
 (Added Pub. L. 115–91, div. C, title XXXV, §3516(a), Dec. 12, 2017, 131 Stat. 1927; amended Pub. L. 115–232, div. C, title XXXV, §3515(b), Aug. 13, 2018, 132 Stat. 2312.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy."

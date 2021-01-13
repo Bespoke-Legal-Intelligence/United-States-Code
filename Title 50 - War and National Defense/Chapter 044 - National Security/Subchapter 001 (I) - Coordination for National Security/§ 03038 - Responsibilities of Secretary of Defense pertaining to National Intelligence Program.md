@@ -22,7 +22,7 @@ Consistent with sections 3023 and 3024 of this title, the Secretary of Defense s
 
 &emsp;(1) through the National Security Agency (except as otherwise directed by the President or the National Security Council), the continued operation of an effective unified organization for the conduct of signals intelligence activities and shall ensure that the product is disseminated in a timely manner to authorized recipients;
 
-&emsp;(2) through the National Geospatial-Intelligence Agency (except as otherwise directed by the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense—
+&emsp;(2) through the National Geospatial-Intelligence Agency (except as otherwise directedby the President or the National Security Council), with appropriate representation from the intelligence community, the continued operation of an effective unified organization within the Department of Defense—
 
 &emsp;&emsp;(A) for carrying out tasking of imagery collection;
 
@@ -74,7 +74,7 @@ The Secretary of Defense, in carrying out the functions described in this sectio
 
 #### Codification
 
-Section was formerly classified to section 403–5 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
+Section was formerly classified to section 403–5 of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect theclassification of such sections prior to their editorial reclassification.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Department of Defense Strategy for Open-Source Intelligence.—
 
 &emsp;"(1)
 
-Development of strategy.—The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the 'Defense Strategy for Open-Source Intelligence'. The strategy shall be incorporated within the larger Defense intelligence strategy.
+Development of strategy.—The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the 'Defense Strategy for Open-Source Intelligence'.The strategy shall be incorporated within the larger Defense intelligence strategy.
 
 &emsp;"(2)
 

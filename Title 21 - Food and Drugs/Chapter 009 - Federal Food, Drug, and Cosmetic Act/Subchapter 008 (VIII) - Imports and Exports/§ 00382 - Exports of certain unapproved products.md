@@ -146,7 +146,7 @@ The exporter of a drug or device exported under subsection (b)(1) shall provide 
 
 For purposes of this section—
 
-&emsp;(1) a reference to the Secretary shall in the case of a biological product which is requiredto be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
+&emsp;(1) a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
 
 &emsp;(2) the term "drug" includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act).
 
@@ -155,6 +155,8 @@ For purposes of this section—
 Insulin and antibiotic drugs may be exported without regard to the requirements in this section if the insulin and antibiotic drugs meet the requirements of section 381(e)(1) of this title.
 
 (June 25, 1938, ch. 675, §802, as added Pub. L. 99–660, title I, §102(2), Nov. 14, 1986, 100 Stat. 3743; amended Pub. L. 104–134, title III, §2102(d)(1), Apr. 26, 1996, 110 Stat. 1321–315; Pub. L. 104–180, title VI, §603(c), Aug. 6, 1996, 110 Stat. 1595; Pub. L. 105–115, title I, §125(c), Nov. 21, 1997, 111 Stat. 2326.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

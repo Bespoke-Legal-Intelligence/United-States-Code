@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlledsubstances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
 
@@ -122,7 +122,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(i) The drugs or combinations of drugs have, under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] or section 262 of title 42, been approved for use in maintenance or detoxification treatment.
 
-&emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published in the Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
+&emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published inthe Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
 
 (D)(i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
 
@@ -268,7 +268,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 #### (3) Hospital-based agency
 
-&emsp;If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+&emsp;If a hospital-based emergency medical services agency is registered under subsection (f),the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
 
 #### (4) Administration outside physical presence of medical director or authorizing medical professional
 
@@ -314,7 +314,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 #### (7) No treatment as distribution
 
-&emsp;The delivery of controlled substances by a registered emergency medical services agencypursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title.
+&emsp;The delivery of controlled substances by a registered emergency medical services agency pursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title.
 
 #### (8) Restocking of emergency medical services vehicles at a hospital
 
@@ -426,13 +426,15 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;(M) The term "standing order" means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
 
-&emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
+&emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneouslyadminister a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 
 #### (k) "Factors as may be relevant to and consistent with the public health and safety" defined
 
 In this section, the phrase "factors as may be relevant to and consistent with the public health and safety" means factors that are relevant to and consistent with the findings contained in section 801 of this title.
 
 (Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, §712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, §1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, §3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, §3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, §2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, §303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, §2, Nov. 17, 2017, 131 Stat. 1267; Pub. L. 115–271, title III, §§3201(a)–(d), 3202(a), Oct. 24, 2018, 132 Stat. 3943, 3944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -508,7 +510,7 @@ Subsec. (h). Pub. L. 109–177 substituted "clause (iv) or (v) of section 802(39
 
 Subsec. (g)(2)(B)(iv). Pub. L. 109–56, §1(a), struck out cl. (iv) which read as follows: "In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have."
 
-<b>2002</b>—Subsec. (g)(2)(I). Pub. L. 107–273, §2501(1), which directed the substitution of "on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, orcombination of such drugs," for "on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,", was executed by making the substitution for the phrase which in the original began with "on the date of the enactment of the Drug Addiction Treatment Act of 2000," rather than the editorial translation "on October 17, 2000," to reflect the probable intent of Congress.
+<b>2002</b>—Subsec. (g)(2)(I). Pub. L. 107–273, §2501(1), which directed the substitution of "on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs," for "on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,", was executed by making the substitution for the phrase which in the original began with "on the date of the enactment of the Drug Addiction Treatment Act of 2000," rather than the editorial translation "on October 17, 2000," to reflect the probable intent of Congress.
 
 Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitution of "the date referred to in subparagraph (I)," for "October 17, 2000," was executed by making the substitution for text which in the original read "the date of the enactment of the Drug Addiction Treatment Act of 2000," rather than the editorial translation "October 17, 2000," to reflect the probable intent of Congress.
 
@@ -521,6 +523,8 @@ Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitut
 <b>1978</b>—Subsec. (f). Pub. L. 95–633 inserted provision relating to the construction of the Convention on Psychotropic Substances.
 
 <b>1974</b>—Subsec. (g). Pub. L. 93–281 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -544,7 +548,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 #### Update Regulations
 
-Pub. L. 114–198, title III, §303(c), July 22, 2016, 130 Stat. 723, provided that: "Not later than 18 months after the date of enactment of this Act \[July 22, 2016\], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) \[probably means subsec. (a)(3)(B)(vii) "of this section", set out as a note below\] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion."
+Pub. L. 114–198, title III, §303(c), July 22, 2016, 130 Stat. 723, provided that: "Not later than 18 months after the date of enactment of this Act \[July 22, 2016\],the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) \[probably means subsec. (a)(3)(B)(vii) "of this section", set out as a note below\] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion."
 
 #### Treatment for Children
 

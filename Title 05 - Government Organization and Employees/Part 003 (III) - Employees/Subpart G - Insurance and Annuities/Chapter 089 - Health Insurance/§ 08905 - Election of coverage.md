@@ -98,6 +98,8 @@ In subsection (b)(1)(C), the words "before January 1, 1965" are substituted for 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (i). Pub. L. 116–92 added subsec. (i).
@@ -152,6 +154,8 @@ Subsec. (f). Pub. L. 98–615, §3(4), redesignated former subsec. (e) as (f) an
 
 <b>1978</b>—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–92 applicable to any lapse in appropriations beginning on or after Dec. 20, 2019, see section 1110(d) of Pub. L. 116–92, set out as a note under section 8702 of this title.
@@ -180,7 +184,7 @@ Regulations to carry out amendment by Pub. L. 116–92 to be prescribed no later
 
 #### Weighted Average for First Year
 
-Pub. L. 113–67, div. A, title VII, §706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: "For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis."
+Pub. L. 113–67, div. A, title VII, §706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: "For the first contractyear for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis."
 
 #### Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act
 

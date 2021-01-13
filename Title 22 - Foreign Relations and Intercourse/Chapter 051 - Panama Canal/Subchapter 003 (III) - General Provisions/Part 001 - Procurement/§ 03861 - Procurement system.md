@@ -30,13 +30,15 @@ The Commission shall develop a Supplement to the Regulation (in this section ref
 
 #### (d) Consultation with Administrator for Federal Procurement Policy
 
-In establishing the Regulation and developing the Supplement, the Commission shall consult with the Administrator for Federal Procurement Policy.
+In establishing the Regulation and developing the Supplement, the Commission shall consultwith the Administrator for Federal Procurement Policy.
 
 #### (e) Effective date
 
 The Regulation and the Supplement shall take effect on the date of publication in the Federal Register, or January 1, 1999, whichever is earlier.
 
 (Pub. L. 96–70, title III, §3101, as added Pub. L. 105–85, div. C, title XXXV, §3541, Nov. 18, 1997, 111 Stat. 2070.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

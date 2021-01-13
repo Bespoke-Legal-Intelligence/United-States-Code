@@ -12,7 +12,7 @@ Notwithstanding provisions of law other than those contained in subsection (a), 
 
 &emsp;(2) shall give preference to persons whom he determines, by rule, are local residents; and
 
-&emsp;(3) shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a period of ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 (Public Law 94–204).
+&emsp;(3) shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a periodof ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 (Public Law 94–204).
 
 #### (c) "Visitor service" defined
 
@@ -22,7 +22,7 @@ As used in this section, the term "visitor service" means any service made avail
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, knownas the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in subsec. (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under section 1611 of Title 43, Public Lands.
 

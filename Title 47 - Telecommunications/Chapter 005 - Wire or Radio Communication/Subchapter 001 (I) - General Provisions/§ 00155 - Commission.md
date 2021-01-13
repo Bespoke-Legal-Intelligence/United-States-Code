@@ -24,7 +24,7 @@ From time to time as the Commission may find necessary, the Commission shall org
 
 (7) The filing of an application for review under this subsection shall be a condition precedent to judicial review of any order, decision, report, or action made or taken pursuant to a delegation under paragraph (1) of this subsection. The time within which a petition for review must be filed in a proceeding to which section 402(a) of this title applies, or within which an appeal must be taken under section 402(b) of this title, shall be computed from the date upon which public notice is given of orders disposing of all applications for review filed in any case.
 
-(8) The employees to whom the Commission may delegate review functions in any case of adjudication (as defined in section 551 of title 5) shall be qualified, by reason of their training, experience, and competence, to perform such review functions, and shall perform no duties inconsistent with such review functions. Such employees shall be in a grade classification or salary level commensurate with their important duties, and in no event less than the grade classification or salary level of the employee or employees whose actions are to be reviewed. In the performance of such review functions such employees shall be assigned to cases in rotation so far as practicable and shall not be responsible to or subject to the supervision or direction of any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for any agency.
+(8) The employees to whom the Commission may delegate review functions in any case of adjudication (as defined in section 551 of title 5) shall be qualified, by reason of their training, experience, and competence, to perform such review functions, and shall perform no duties inconsistent with such review functions. Such employees shall be in a grade classification or salary level commensurate with their important duties, and in no event less than the grade classification or salary level of the employee or employees whose actions are to be reviewed. In the performance of such review functions such employees shall be assigned to cases in rotation so far as practicable and shall not be responsible toor subject to the supervision or direction of any officer, employee, or agent engaged in the performance of investigative or prosecuting functions for any agency.
 
 (9) The secretary and seal of the Commission shall be the secretary and seal of each panel of the Commission, each individual commissioner, and each employee board or individual employee exercising functions delegated pursuant to paragraph (1) of this subsection.
 
@@ -37,6 +37,8 @@ Meetings of the Commission shall be held at regular intervals, not less frequent
 The Commission shall have a Managing Director who shall be appointed by the Chairman subject to the approval of the Commission. The Managing Director, under the supervision and direction of the Chairman, shall perform such administrative and executive functions as the Chairman shall delegate. The Managing Director shall be paid at a rate equal to the rate then payable for level V of the Executive Schedule.
 
 (June 19, 1934, ch. 652, title I, §5, 48 Stat. 1068; July 16, 1952, ch. 879, §4, 66 Stat. 712; Pub. L. 87–192, §§1, 2, Aug. 31, 1961, 75 Stat. 420; Pub. L. 96–470, title I, §116, Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–35, title XII, §1252, Aug. 13, 1981, 95 Stat. 738; Pub. L. 97–259, title I, §105, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 99–272, title V, §5002(c), Apr. 7, 1986, 100 Stat. 118; Pub. L. 100–594, §§4, 8(a), Nov. 3, 1988, 102 Stat. 3021, 3023; Pub. L. 103–414, title III, §303(a)(2), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title IV, §403(c), Feb. 8, 1996, 110 Stat. 130.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,7 +62,7 @@ Subsec. (g). Pub. L. 100–594, §4, struck out subsec. (g) which required an an
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–272 substituted "March 31" for "January 31".
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–259, §105(a), substituted "From" for "Within six months after July 16, 1952, andfrom" at beginning of subsection, and struck out "thereafter" after "time to time".
+<b>1982</b>—Subsec. (b). Pub. L. 97–259, §105(a), substituted "From" for "Within six months after July 16, 1952, and from" at beginning of subsection, and struck out "thereafter" after "time to time".
 
 Subsecs. (c) to (e). Pub. L. 97–259, §105(b), (c), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and in par. (1) of subsec. (c), as so redesignated, substituted "two" for "three" after "employee board consisting of".
 

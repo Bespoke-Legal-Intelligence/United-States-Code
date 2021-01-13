@@ -18,7 +18,7 @@ Limitation on Amount.—A fee charged for providing information under this secti
 
 (d)
 
-Retention of Fees.—Amounts received under subsection (a) for providing information in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from theUnited States Army Military History Institute during that fiscal year.
+Retention of Fees.—Amounts received under subsection (a) for providing information in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from the United States Army Military History Institute during that fiscal year.
 
 (e)
 

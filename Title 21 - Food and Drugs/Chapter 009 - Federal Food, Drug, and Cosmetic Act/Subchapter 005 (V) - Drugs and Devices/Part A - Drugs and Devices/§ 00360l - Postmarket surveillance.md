@@ -38,9 +38,11 @@
 
 #### (c) Dispute resolution
 
-A manufacturer may request review under section 360bbb–1 of this title of any order or condition requiring postmarket surveillance under this section. During the pendency of such review, the device subject to such a postmarket surveillance order or condition shall not, because of noncompliance with such order or condition, be deemed in violation of section 331(q)(1)(C) of this title, adulterated under section 351(f)(1) of this title, misbranded under section 352(t)(3) of this title, or in violation of, as applicable, section 360(k) of this title or section 360e of this title, unless deemed necessary to protect the public health.
+A manufacturer may request review under section 360bbb–1 of this title of any order or condition requiring postmarket surveillance under this section. During the pendency of such review, the device subject to such a postmarket surveillance order or condition shall not, because of noncompliance with such order or condition, be deemed in violation of section331(q)(1)(C) of this title, adulterated under section 351(f)(1) of this title, misbranded under section 352(t)(3) of this title, or in violation of, as applicable, section 360(k) of this title or section 360e of this title, unless deemed necessary to protect the public health.
 
 (June 25, 1938, ch. 675, §522, as added Pub. L. 101–629, §10, Nov. 28, 1990, 104 Stat. 4521; amended Pub. L. 102–300, §3(b), June 16, 1992, 106 Stat. 239; Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346; Pub. L. 110–85, title III, §307, Sept. 27, 2007, 121 Stat. 865; Pub. L. 112–144, title VI, §616, July 9, 2012, 126 Stat. 1062.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Subsec. (c). Pub. L. 110–85, §307(3)(D), added subsec. (c).
 <b>1997</b>—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–300 substituted "(a)(1)" for "(a)", inserted comma after "commerce", and inserted after first sentence "Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

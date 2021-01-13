@@ -30,7 +30,7 @@ The Director of the National Institutes of Health (referred to in this section a
 
 #### (4) Organization of consortia
 
-&emsp;Each consortium under paragraph (1) may use the facilities of a single lead institution,or be formed from several cooperating institutions, meeting such requirements as may be prescribed by the Director.
+&emsp;Each consortium under paragraph (1) may use the facilities of a single lead institution, or be formed from several cooperating institutions, meeting such requirements as may be prescribed by the Director.
 
 #### (c) Public input
 

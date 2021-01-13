@@ -6,7 +6,7 @@ Motor Carrier Requirements.—
 
 &emsp;(1)
 
-Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
+Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files withthe Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Requirements.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a broker under section 13904only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
+In general.—The Secretary may register a person as a broker under section 13904 only if the person files with the Secretary a surety bond, proof of trust fund, or other financial security, or a combination thereof, in a form and amount, and from a provider, determined by the Secretary to be adequate to ensure financial responsibility.
 
 &emsp;&emsp;(B)
 
@@ -76,7 +76,7 @@ Cancellation notice.—If a financial security required under this subsection is
 
 &emsp;&emsp;(A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
 
-&emsp;&emsp;(B) the Secretary shall immediately post such notification on the public Internet Website of the Department of Transportation.
+&emsp;&emsp;(B) the Secretary shall immediately post such notification on the public InternetWebsite of the Department of Transportation.
 
 &emsp;(5)
 
@@ -176,7 +176,7 @@ Freight forwarder insurance.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
+In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with theSecretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
 
 &emsp;&emsp;(B)
 

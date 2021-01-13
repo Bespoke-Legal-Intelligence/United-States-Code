@@ -66,6 +66,8 @@ Preservation of Existing Authorities.—Nothing in this section limits the use o
 
 (Added Pub. L. 112–141, div. A, title I, §1311(a), July 6, 2012, 126 Stat. 543; amended Pub. L. 114–94, div. A, title I, §1306, Dec. 4, 2015, 129 Stat. 1389.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (f) and (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -73,6 +75,8 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (f) and (
 #### Amendments
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–94 substituted "shall give substantial weight to" for "may use" and inserted "or other Federal environmental law" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

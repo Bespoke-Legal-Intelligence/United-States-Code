@@ -28,7 +28,7 @@ The period of any absence of a participant from a service position pursuant to t
 
 #### References in Text
 
-The Family and Medical Leave Act of 1993, referred to in subsecs. (a) and (c), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title I of the Act is classified generally to subchapter I (§2611 et seq.) of chapter 28 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsecs. (a) and (c), is Pub. L. 103–3, Feb. 5, 1993, 107Stat. 6. Title I of the Act is classified generally to subchapter I (§2611 et seq.) of chapter 28 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 #### Amendments
 

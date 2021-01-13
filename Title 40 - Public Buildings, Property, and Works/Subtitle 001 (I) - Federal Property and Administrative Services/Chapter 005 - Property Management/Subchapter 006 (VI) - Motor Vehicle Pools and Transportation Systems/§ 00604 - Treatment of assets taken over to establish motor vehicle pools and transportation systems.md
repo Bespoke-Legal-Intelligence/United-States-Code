@@ -42,9 +42,13 @@ June 30, 1949, ch. 288, title II, §211(g), (h), as added Sept. 5, 1950, ch. 849
 
 40:491(h).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–313 substituted "Acquisition Services Fund" for "General Supply Fund" in heading and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

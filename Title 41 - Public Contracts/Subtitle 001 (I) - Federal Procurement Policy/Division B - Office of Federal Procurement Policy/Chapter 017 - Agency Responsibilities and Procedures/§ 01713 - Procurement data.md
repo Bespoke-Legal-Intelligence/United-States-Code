@@ -44,6 +44,8 @@ Pub. L. 100–533, title V, §502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105–
 
 In subsection (b), the words "socially and economically disadvantaged individuals" are substituted for "socially and economically disadvantaged businesses" for consistency with the term set out in subsection (a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 31(b) of the Small Business Act, referred to in subsec. (a)(1), is classified to section 657a(b) of Title 15, Commerce and Trade.
@@ -53,6 +55,8 @@ Section 204 of the Women's Business Ownership Act of 1988, referred to in subsec
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act (15 U.S.C. 632(p))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

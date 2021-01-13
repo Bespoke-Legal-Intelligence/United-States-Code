@@ -16,17 +16,21 @@
 
 (d) The Attorney General may compromise or settle any claim asserted in such civil action or proceeding in the manner provided in section 2677 of title 28, and with the same effect.
 
-(e) The Secretary may, to the extent the Secretary considers appropriate, hold harmless or provide liability insurance for any person to whom the immunity provisions of this section apply (as described in subsection (a)), for damage for personal injury or death, or for property damage, negligently caused by such person while furnishing medical care or treatment (including the conduct of clinical studies or investigations) in the exercise of such person's duties in or for the Administration, if such person isassigned to a foreign country, detailed to State or political division thereof, or is acting under any other circumstances which would preclude the remedies of an injured third person against the United States, provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
+(e) The Secretary may, to the extent the Secretary considers appropriate, hold harmless or provide liability insurance for any person to whom the immunity provisions of this section apply (as described in subsection (a)), for damage for personal injury or death, or for property damage, negligently caused by such person while furnishing medical care or treatment (including the conduct of clinical studies or investigations) in the exercise of such person's duties in or for the Administration, if such person is assigned to a foreign country, detailed to State or political division thereof, or is acting under any other circumstances which would preclude the remedies of an injured third person against the United States, provided by sections 1346(b) and 2672 of title 28, for such damage or injury.
 
 (f) The exception provided in section 2680(h) of title 28 shall not apply to any claim arising out of a negligent or wrongful act or omission of any person described in subsection (a) in furnishing medical care or treatment (including medical care or treatment furnished in the course of a clinical study or investigation) while in the exercise of such person's duties in or for the Administration.
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 219; amended Pub. L. 108–170, title III, §302(e), Dec. 6, 2003, 117 Stat. 2058.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–170, §302(e)(1), substituted "health" for "medical" in three places in concluding provisions.
 
 Subsec. (a)(2). Pub. L. 108–170, §302(e)(2), substituted "health" for "medical" the first place it appeared and inserted "chiropractor," after "podiatrist,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -112,7 +112,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Such standards shall be compatible with part C of subchapter XI and may be based on standards developed by an appropriate standard setting organization.
+&emsp;&emsp;&emsp;The Secretary shall provide for the development, adoption, or recognition of standards relating to a standardized format for the card or other technology required under subparagraph (A). Suchstandards shall be compatible with part C of subchapter XI and may be based on standards developed by an appropriate standard setting organization.
 
 #### (ii) Consultation
 
@@ -120,7 +120,7 @@
 
 #### (iii) Implementation
 
-&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDPsponsors utilize such standards beginning January 1, 2006.
+&emsp;&emsp;&emsp;The Secretary shall develop, adopt, or recognize the standards under clause (i) by such date as the Secretary determines shall be sufficient to ensure that PDP sponsors utilize such standards beginning January 1, 2006.
 
 #### (3) Requirements on development and application of formularies
 
@@ -190,7 +190,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary shall identify, as appropriate, categories and classes of drugs for which the Secretary determines are of clinical concern.
+&emsp;&emsp;&emsp;&emsp;Subject to clause (iv), the Secretary shall identify, as appropriate, categoriesand classes of drugs for which the Secretary determines are of clinical concern.
 
 #### (II) Criteria
 
@@ -223,6 +223,16 @@
 &emsp;&emsp;&emsp;(i) use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
 
 &emsp;&emsp;&emsp;(ii) provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
+
+#### (4) Ensuring access during COVID–19 public health emergency period
+
+#### (A) In general
+
+&emsp;&emsp;During the emergency period described in section 1320b–5(g)(1)(B) of this title, subject to subparagraph (B), a prescription drug plan or MA–PD plan shall, notwithstanding any cost and utilization management, medication therapy management, or other such programs under this part, permit a part D eligible individual enrolled in such plan to obtain in a single fill or refill, at the option of such individual, the total day supply (not to exceed a 90-day supply) prescribed for such individual for a covered part D drug.
+
+#### (B) Safety edit exception
+
+&emsp;&emsp;A prescription drug plan or MA–PD plan may not permit a part D eligible individual to obtain a single fill or refill inconsistent with an applicable safety edit.
 
 #### (c) Cost and utilization management; quality assurance; medication therapy management program
 
@@ -286,7 +296,7 @@
 
 #### (C) Required interventions
 
-&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offermedication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
+&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
 
 &emsp;&emsp;&emsp;(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—
 
@@ -344,7 +354,7 @@
 
 #### (C) Report
 
-&emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health andHuman Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
+&emsp;&emsp;Not later than January 1, 2018, the Inspector General of the Department of Health and Human Services shall submit to Congress a report on the effectiveness of the procedures established under subparagraph (B)(i).
 
 #### (D) Notification and additional requirements with respect to outlier prescribers of opioids
 
@@ -402,7 +412,7 @@
 
 #### (vi) Public availability of information
 
-&emsp;&emsp;&emsp;The Secretary shall make aggregate information under this subparagraph available on the internet website of the Centers for Medicare \& Medicaid Services. Such information shall be in a form and mannerdetermined appropriate by the Secretary and shall not identify any specific prescriber. In carrying out this clause, the Secretary shall consult with interested stakeholders.
+&emsp;&emsp;&emsp;The Secretary shall make aggregate information under this subparagraph available on the internet website of the Centers for Medicare \& Medicaid Services. Such information shall be in a form and manner determined appropriate by the Secretary and shall not identify any specific prescriber. In carrying out this clause, the Secretary shall consult with interested stakeholders.
 
 #### (vii) Opioids defined
 
@@ -458,7 +468,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) of, and information about, the beneficiary's right to appeal such identification under subsection (h), including notice that if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the independent, outside entity contracted with the Secretary for review and resolution;
 
-&emsp;&emsp;&emsp;&emsp;(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers andpharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and
+&emsp;&emsp;&emsp;&emsp;(V) that the beneficiary can, in the case that the beneficiary has not previously submitted to the PDP sponsor preferences for which prescribers and pharmacies the beneficiary would prefer the PDP sponsor select under subparagraph (D), submit such preferences to the PDP sponsor; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) that includes clear instructions that explain how the beneficiary can contact the PDP sponsor.
 
@@ -504,7 +514,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For plan years beginning not later than January 1, 2021, a part D eligible individual who is not an exempted individual described in clause (ii) and who is identified under this clause as a part D eligible individual with a history of opioid-related overdose (as defined by the Secretary) shall be included as a potentially at-risk beneficiary for prescription drug abuse under the drug management program under this paragraph.
+&emsp;&emsp;&emsp;&emsp;For plan years beginning not later than January 1, 2021, a part D eligible individual who is not an exempted individual described in clause (ii) and who is identified under this clause as a part D eligible individual with a history ofopioid-related overdose (as defined by the Secretary) shall be included as a potentially at-risk beneficiary for prescription drug abuse under the drug management program under this paragraph.
 
 #### (II) Identification and notice
 
@@ -566,7 +576,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall develop standards for the termination of identification of an individual as an at-risk beneficiary for prescription drug abuse under this paragraph. Under such standards such identification shall terminate as of the earlier of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-risk beneficiary for prescription drug abuse described in subparagraph (C)(i); and
+&emsp;&emsp;&emsp;&emsp;(I) the date the individual demonstrates that the individual is no longer likely, in the absence of the restrictions under this paragraph, to be an at-riskbeneficiary for prescription drug abuse described in subparagraph (C)(i); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the end of such maximum period of identification as the Secretary may specify.
 
@@ -582,7 +592,7 @@
 
 #### (i) Data on decision to impose limitation
 
-&emsp;&emsp;&emsp;In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary for prescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules andprocedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
+&emsp;&emsp;&emsp;In the case of an at-risk beneficiary for prescription drug abuse (or an individual who is a potentially at-risk beneficiary for prescription drug abuse) whose access to coverage for frequently abused drugs under a prescription drug plan has been limited by a PDP sponsor under this paragraph, the Secretary shall establish rules and procedures to require the PDP sponsor to disclose data, including any necessary individually identifiable health information, in a form and manner specified by the Secretary, about the decision to impose such limitations and the limitations imposed by the sponsor under this part.
 
 #### (ii) Data to reduce fraud, abuse, and waste
 
@@ -626,7 +636,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) providers of services or suppliers that may facilitate the abuse or diversion of frequently abused drugs by beneficiaries.
 
-&emsp;&emsp;&emsp;(iii) Consultation with the contractor described in subparagraph (B) to verify if an individual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).
+&emsp;&emsp;&emsp;(iii) Consultation with the contractor described in subparagraph (B) to verify if anindividual enrolling in a prescription drug plan offered by a PDP sponsor has been previously identified by another PDP sponsor as an individual described in clause (ii)(I).
 
 #### (B) Reporting
 
@@ -780,7 +790,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (A) Initial standards
 
-&emsp;&emsp;Not later than September 1, 2005, the Secretary shall develop, adopt, recognize, or modify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title) under subparagraph (B).
+&emsp;&emsp;Not later than September 1, 2005, the Secretary shall develop, adopt, recognize, ormodify initial uniform standards relating to the requirements for electronic prescription drug programs described in paragraph (2) taking into consideration the recommendations (if any) from the National Committee on Vital and Health Statistics (as established under section 242k(k) of this title) under subparagraph (B).
 
 #### (B) Role of NCVHS
 
@@ -864,7 +874,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;&emsp;(i) a prescription issued when the practitioner and dispensing pharmacy are the same entity;
 
-&emsp;&emsp;&emsp;(ii) a prescription issued that cannot be transmitted electronically under the most recently implemented version of the National Council for Prescription Drug Programs SCRIPT Standard;
+&emsp;&emsp;&emsp;(ii) a prescription issued that cannot be transmitted electronically under the mostrecently implemented version of the National Council for Prescription Drug Programs SCRIPT Standard;
 
 &emsp;&emsp;&emsp;(iii) a prescription issued by a practitioner who received a waiver or a renewal thereof for a period of time as determined by the Secretary, not to exceed one year, from the requirement to use electronic prescribing due to demonstrated economic hardship, technological limitations that are not reasonably within the control of the practitioner, or other exceptional circumstance demonstrated by the practitioner;
 
@@ -916,7 +926,7 @@ Each PDP sponsor shall provide meaningful procedures for hearing and resolving g
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a PDP sponsor shall meet the requirements of paragraphs (4) and (5) of section 1395w–22(g) of this title with respect to benefits (including a determination related to the application of tiered cost-sharing described in subsection (g)(2)) in a manner similar (as determined by the Secretary) to the manner such requirements apply to an MA organization with respect to benefits under the original medicare fee-for-service program option it offers under an MA plan under part C. In applying this paragraph only the part D eligible individual shall be entitled to bring such an appeal.
+&emsp;Subject to paragraph (2), a PDP sponsor shall meet the requirements of paragraphs (4) and (5) of section 1395w–22(g) of this title with respect to benefits (including a determination related to the application of tiered cost-sharing described in subsection (g)(2)) in a manner similar (as determined by the Secretary) to the manner such requirements apply to an MA organization with respect to benefits under the original medicare fee-for-service program option it offers under an MA plan under part C. In applying this paragraph only the part Deligible individual shall be entitled to bring such an appeal.
 
 #### (2) Limitation in cases on nonformulary determinations
 
@@ -968,21 +978,47 @@ The following provisions shall apply to a PDP sponsor (and the agents, brokers, 
 
 &emsp;(4) The requirements regarding the appointment of agents and brokers and compliance with State information requests under subparagraphs (A) and (B), respectively, of section 1395w–21(h)(7) of this title.
 
-#### (m) <sup>5</sup> Prohibition on limiting certain information on drug prices
+#### (m) Prohibition on limiting certain information on drug prices
 
 A PDP sponsor and a Medicare Advantage organization shall ensure that each prescription drug plan or MA–PD plan offered by the sponsor or organization does not restrict a pharmacy that dispenses a prescription drug or biological from informing, nor penalize such pharmacy for informing, an enrollee in such plan of any differential between the negotiated price of, or copayment or coinsurance for, the drug or biological to the enrollee under the plan and a lower price the individual would pay for the drug or biological if the enrollee obtained the drug without using any health insurance coverage.
 
-#### (m) <sup>5</sup> Program integrity transparency measures
+#### (n) Program integrity transparency measures
 
 For program integrity transparency measures applied with respect to prescription drug plan and MA plans, see section 1395w–28(i) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964; Pub. L. 114–10, title V, §507, Apr. 16, 2015, 129 Stat. 168; Pub. L. 114–198, title VII, §704(a)(1), (2), (b), July 22, 2016, 130 Stat. 742–748; Pub. L. 115–123, div. E, title III, §50354, Feb. 9, 2018, 132 Stat. 213; Pub. L. 115–262, §2(a), Oct. 10, 2018, 132 Stat. 3670; Pub. L. 115–271, title II, §§2003(a), 2004, 2006, 2007(a), title VI, §§6062, 6063(c)–6065, 6102, 6103(b), Oct. 24, 2018, 132 Stat. 3926, 3928, 3930, 3986, 3989, 4004, 4005.)
+#### (o) Real-time benefit information
 
-#### Applicability of Amendments
+#### (1) In general
 
-<i>Amendment of section by section 2003(a) of Pub. L. 115–271 applicable to coverage of drugs prescribed on or after Jan. 1, 2021. See 2018 Amendment note below.</i>
+&emsp;After the Secretary has adopted a standard under paragraph (3) for electronic real-time benefit tools, and at a time determined appropriate by the Secretary, a PDP sponsor of a prescription drug plan shall implement one or more of such tools that meet the requirements described in paragraph (2).
 
-<i>Amendment of section by section 2007(a) of Pub. L. 115–271 applicable beginning not later than Jan. 1, 2021. See 2018 Amendment note below.</i>
+#### (2) Requirements
+
+&emsp;For purposes of paragraph (1), the requirements described in this paragraph, with respect to an electronic real-time benefit tool, are that the tool is capable of—
+
+&emsp;&emsp;(A) integrating with electronic prescribing and electronic health record systems of prescribing health care professionals for the transmission of formulary and benefit information in real time to such professionals; and
+
+&emsp;&emsp;(B) with respect to a covered part D drug, transmitting such information specific to an individual enrolled in a prescription drug plan, including the following:
+
+&emsp;&emsp;&emsp;(i) A list of any clinically-appropriate alternatives to such drug included in the formulary of such plan.
+
+&emsp;&emsp;&emsp;(ii) Cost-sharing information and the negotiated price for such drug and such alternatives at multiple pharmacy options, including the individual's preferred pharmacy and, as applicable, other retail pharmacies and a mail order pharmacy.
+
+&emsp;&emsp;&emsp;(iii) The formulary status of such drug and such alternatives and any prior authorization or other utilization management requirements applicable to such drug and such alternatives included in the formulary of such plan.
+
+#### (3) Standards
+
+&emsp;In order to be treated (for purposes of this subsection) as an electronic real-time benefit tool described in paragraph (1), such tool shall comply with technical standards adopted by the Secretary in consultation with the National Coordinator for Health Information Technology through notice and comment rulemaking. Such technical standards adopted by the Secretary shall be developed by a standards development organization, such as the National Council for Prescription Drug Programs, that consults with stakeholders such as PDP sponsors, Medicare Advantage organizations, beneficiary advocates, health care professionals, and health information technology software vendors.
+
+#### (4) Rules of construction
+
+&emsp;Nothing in this subsection shall be construed—
+
+&emsp;&emsp;(A) to prohibit the application of paragraph (b)(7) of section 423.160 of title 42, Code of Federal Regulations, as is to be added to such section pursuant to the final rule published in the Federal Register on May 23, 2019, and titled "Modernizing Part D and Medicare Advantage To Lower Drug Prices and Reduce Out-of-Pocket Expenses" (84 Fed. Reg. 23832 through 23884); or
+
+&emsp;&emsp;(B) to allow a PDP sponsor to use a real-time benefit tool to steer an individual, without the consent of the individual, to a particular pharmacy or pharmacy type over their preferred pharmacy or pharmacy type nor prohibit the designation of an individual's preferred pharmacy under such tool.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–4, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2082; amended Pub. L. 110–275, title I, §§103(a)(2), (b)(2), (c)(2), (d)(2), 176, July 15, 2008, 122 Stat. 2499–2501, 2581; Pub. L. 111–148, title III, §§3307(a), 3310(a), 3312(a), title X, §10328(a), Mar. 23, 2010, 124 Stat. 471, 475, 476, 964; Pub. L. 114–10, title V, §507, Apr. 16, 2015, 129 Stat. 168; Pub. L. 114–198, title VII, §704(a)(1), (2), (b), July 22, 2016, 130 Stat. 742–748; Pub. L. 115–123, div. E, title III, §50354, Feb. 9, 2018, 132 Stat. 213; Pub. L. 115–262, §2(a), Oct. 10, 2018, 132 Stat. 3670; Pub. L. 115–271, title II, §§2003(a), 2004, 2006, 2007(a), title VI, §§6062, 6063(c)–6065, 6102, 6103(b), Oct. 24, 2018, 132 Stat. 3926, 3928, 3930, 3986, 3989, 4004, 4005; Pub. L. 116–136, div. A, title III, §3714(a), Mar. 27, 2020, 134 Stat. 424; Pub. L. 116–260, div. CC, title I, §119(a), Dec. 27, 2020, 134 Stat. 2951.)
 
 #### References in Text
 
@@ -993,6 +1029,12 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 Section 119 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (c)(5)(K)(ii), is section 119 of Pub. L. 110–275, which is set out as a note under section 1395b–3 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(4). Pub. L. 116–136 added par. (4).
+
+Subsecs. (m), (n). Pub. L. 116–260, §119(a)(1), redesignated subsec. (m), relating to program integrity transparency measures, as (n).
+
+Subsec. (o). Pub. L. 116–260, §119(a)(2), added subsec. (o).
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–271, §6102(1), inserted ", subject to subparagraph (C)," before "including".
 
@@ -1018,7 +1060,7 @@ Subsec. (c)(5)(C)(v). Pub. L. 115–271, §2006(2), added cl. (v).
 
 Subsec. (c)(5)(E). Pub. L. 115–271, §2007(a)(2), substituted "and if on reconsideration a PDP sponsor affirms its denial, in whole or in part, the case shall be automatically forwarded to the independent, outside entity contracted with the Secretary for review and resolution." for "and the option of an automatic escalation to external review to the extent provided by the Secretary."
 
-Subsec. (c)(6). Pub. L. 115–123 added par. (6) relating to providing prescription drug plans with parts A and B claims data to promote the appropriate use of medications and improve health outcomes.
+Subsec. (c)(6). Pub. L. 115–123 added par. (6) relating to providing prescription drug plans with parts A and Bclaims data to promote the appropriate use of medications and improve health outcomes.
 
 Subsec. (e)(2)(E). Pub. L. 115–271, §6062, added subpar. (E).
 
@@ -1089,6 +1131,10 @@ Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beg
 #### Rule of Construction
 
 Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: "Nothing in this section \[amending this section\] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\]."
+
+#### Implementation of 2020 Amendment
+
+Pub. L. 116–136, div. A, title III, §3714(b), Mar. 27, 2020, 134 Stat. 424, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendment made by this section \[amending this section\] by program instruction or otherwise."
 
 #### Update of Biometric Component of Multifactor Authentication
 
@@ -1225,6 +1271,4 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 <i><sup>3</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>5</sup></i><i> So in original. Two subsecs. (m) have been enacted.</i>
 

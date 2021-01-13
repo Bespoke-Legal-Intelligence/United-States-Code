@@ -8,7 +8,7 @@
 
 #### (2) Charges
 
-&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
+&emsp;An alien placed in proceedings under this section may be charged with any applicableground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
 
 #### (3) Exclusive procedures
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
@@ -248,6 +248,8 @@ In this section and section 1229b of this title:
 
 (June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589; amended Pub. L. 106–386, div. B, title V, §1506(c)(1)(A), Oct. 28, 2000, 114 Stat. 1528; Pub. L. 109–13, div. B, title I, §101(d), May 11, 2005, 119 Stat. 304; Pub. L. 109–162, title VIII, §§813(a)(1), 825(a), Jan. 5, 2006, 119 Stat. 3057, 3063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(3), (b)(1), (4)(B), and (c)(3)(B), (C), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -274,6 +276,8 @@ Subsec. (e)(1). Pub. L. 109–162, §813(a)(1), substituted "battery or extreme 
 
 <b>2000</b>—Subsec. (c)(6)(C)(iv). Pub. L. 106–386 added cl. (iv).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–162, title VIII, §813(a)(2), Jan. 5, 2006, 119 Stat. 3058, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to a failure to appear that occurs before, on, or after the date of the enactment of this Act \[Jan. 5, 2006\]."
@@ -284,13 +288,13 @@ Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applicat
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and ImmigrantResponsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
+Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 1528, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1229–1229c) \[Pub. L. 104–208\]."
 
 #### Effective Date
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept.30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

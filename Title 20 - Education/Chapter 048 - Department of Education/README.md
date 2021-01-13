@@ -82,6 +82,7 @@
 | [3481\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003481%20-%20Gifts%20and%20bequests.md) | Gifts and bequests. |
 | [3482\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003482%20-%20Technical%20advice.md) | Technical advice. |
 | [3483\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003483%20-%20Working%20capital%20fund.md) | Working capital fund. |
+| [3483a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003483a%20-%20Department%20of%20Education%20Nonrecurring%20Expenses%20Fund.md) | Department of Education Nonrecurring Expenses Fund. |
 | [3484\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003484%20-%20Funds%20transfer.md) | Funds transfer. |
 | [3485\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003485%20-%20Seal%20of%20Department.md) | Seal of Department. |
 | [3486\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/Part%20B%20-%20General%20Administrative%20Provisions/%C2%A7%2003486%20-%20Annual%20report.md) | Annual report. |

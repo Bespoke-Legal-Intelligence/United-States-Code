@@ -38,6 +38,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–79, §2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
@@ -69,6 +71,8 @@ Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item
 <b>1957</b>—Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 596, added item 3500.
 
 <b>1954</b>—Act Aug. 20, 1954, ch. 769, §2, 68 Stat. 746, rephrased item 3486.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Protected Facilities for Housing Government Witnesses
 

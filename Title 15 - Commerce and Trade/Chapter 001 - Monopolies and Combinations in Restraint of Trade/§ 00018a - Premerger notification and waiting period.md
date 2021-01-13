@@ -108,7 +108,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 &emsp;(III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance.Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
 
 #### (f) Preliminary injunctions; hearings
 
@@ -136,7 +136,7 @@ Any information or documentary material filed with the Assistant Attorney Genera
 
 (1) Any action taken by the Federal Trade Commission or the Assistant Attorney General or any failure of the Federal Trade Commission or the Assistant Attorney General to take any action under this section shall not bar any proceeding or any action with respect to such acquisition at any time under any other section of this Act or any other provision of law.
 
-(2) Nothing contained in this section shall limit the authority of the Assistant AttorneyGeneral or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], or any other provision of law.
+(2) Nothing contained in this section shall limit the authority of the Assistant Attorney General or the Federal Trade Commission to secure at any time from any person documentary material, oral testimony, or other information under the Antitrust Civil Process Act \[15 U.S.C. 1311 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], or any other provision of law.
 
 #### (j) Omitted
 
@@ -158,7 +158,7 @@ The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–
 
 #### Codification
 
-December 21, 2000, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
+December 21, 2000, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of enactmentof Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
 
 Subsection (j), which required the Federal Trade Commission, with the concurrence of the Assistant Attorney General, to report annually to Congress on the operation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 172 of House Document No. 103–7.
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date
 
-Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of theClayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
+Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
 
 #### Assessment and Collection of Filing Fees
 

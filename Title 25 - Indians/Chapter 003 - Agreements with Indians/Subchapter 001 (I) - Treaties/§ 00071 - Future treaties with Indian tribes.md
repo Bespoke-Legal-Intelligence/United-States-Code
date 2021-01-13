@@ -4,6 +4,8 @@ No Indian nation or tribe within the territory of the United States shall be ack
 
 (R.S. §2079; Pub. L. 100–647, title III, §3042, Nov. 10, 1988, 102 Stat. 3641.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2079 derived from act Mar. 3, 1871, ch. 120, §1, 16 Stat. 566.
@@ -11,6 +13,8 @@ R.S. §2079 derived from act Mar. 3, 1871, ch. 120, §1, 16 Stat. 566.
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–647 inserted sentence at end relating to State tax treatment of income derived by Indians from exercise of fishing rights secured by treaties, Executive orders, or Acts of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

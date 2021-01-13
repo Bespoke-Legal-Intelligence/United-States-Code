@@ -54,7 +54,7 @@ Working group.—Not later than 60 days after the date of the enactment of the T
 
 &emsp;&emsp;(F) the Army Corps of Engineers;
 
-&emsp;&emsp;(G) the Saint Lawrence Seaway Development Corporation;
+&emsp;&emsp;(G) the Great Lakes St. Lawrence Seaway Development Corporation;
 
 &emsp;&emsp;(H) the Bureau of Labor Statistics;
 
@@ -98,13 +98,15 @@ Access to Data.—The Director shall ensure that—
 
 &emsp;(2) the data acquired, regardless of source, shall be protected in accordance with section 3572 of title 44.
 
-(Added Pub. L. 114–94, div. A, title VI, §6018(a), Dec. 4, 2015, 129 Stat. 1576; amended Pub. L. 115–435, title III, §302(c)(3)(B), Jan. 14, 2019, 132 Stat. 5553.)
+(Added Pub. L. 114–94, div. A, title VI, §6018(a), Dec. 4, 2015, 129 Stat. 1576; amended Pub. L. 115–435, title III, §302(c)(3)(B), Jan. 14, 2019, 132 Stat. 5553; Pub. L. 116–260, div. AA, title V, §512(c)(7)(A)(ii), Dec. 27, 2020, 134 Stat. 2757.)
 
 #### References in Text
 
 The date of the enactment of the Transportation for Tomorrow Act of 2015, referred to in subsec. (c)(2), (3), is the date of enactment of title VI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(2)(G). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
 
 <b>2019</b>—Subsec. (d)(2). Pub. L. 115–435 substituted "section 3572 of title 44." for "the Confidential Information Protection and Statistical Efficiency Act of 2002 (44 U.S.C. 3501 note; Public Law 107–347)."
 

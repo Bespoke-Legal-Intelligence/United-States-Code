@@ -22,7 +22,7 @@
 
 (b) Under the direction of the Secretary of Homeland Security, the Secret Service is authorized to detect and arrest any person who violates—
 
-&emsp;(1) section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213,216,<sup>1</sup> 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
+&emsp;(1) section 508, 509, 510, 871, or 879 of this title or, with respect to the Federal Deposit Insurance Corporation, Federal land banks, and Federal land bank associations, section 213, 216,<sup>1</sup> 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, or 1909 of this title;
 
 &emsp;(2) any of the laws of the United States relating to coins, obligations, and securities of the United States and of foreign governments; or
 
@@ -68,13 +68,15 @@ Section consolidates said section 148 of title 18, U.S.C., 1940 ed., and said se
 
 Said section 148 of title 12, U.S.C., 1940 ed., Banks and Banking, was concerned with offenses relating to counterfeiting and passing, etc., of transportation requests and to the unlawful possession or making of plates, stones, etc., used in making such requests, which were defined in sections 146 and 147 of said title 18, now sections 508 and 509 of this title.
 
-Said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking, were concerned with various offenses as defined in sections 981–985, 987 of said title 12,relating to Federal land banks, joint-stock land banks and national farm loan associations, and as defined in section 264 of said title 12 relating to the Federal Deposit Insurance Corporation. All of the provisions of said sections 981–985, 987 of said title 12, and the criminal provisions of said section 264 of said title 12, were transferred to this title where they were, in some instances, consolidated with similar provisions from other sections. Such provisions are now incorporated in sections 218, 221, 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, and 1909 of this title. In most instances, these sections, as the result of the consolidations, relate to other organizations as well as those mentioned above, but, by enumerating the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks, and national farm loan associations in this section, the powers of the Secret Service are not broadened beyond what they were in said sections 264(x) and 986 of said title 12.
+Said sections 264(x) and 986 of title 12, U.S.C., 1940 ed., Banks and Banking, were concerned with various offenses as defined in sections 981–985, 987 of said title 12, relating to Federal land banks, joint-stock land banks and national farm loan associations, and as defined in section 264 of said title 12 relating to the Federal Deposit Insurance Corporation. All of the provisions of said sections 981–985, 987 of said title 12, and the criminal provisions of said section 264 of said title 12, were transferred to this title where they were, in some instances, consolidated with similar provisions from other sections. Such provisions are now incorporated in sections 218, 221, 433, 493, 657, 709, 1006, 1007, 1011, 1013, 1014, 1907, and 1909 of this title. In most instances, these sections, as the result of the consolidations, relate to other organizations as well as those mentioned above, but, by enumerating the Federal Deposit Insurance Corporation, Federal land banks, joint-stock land banks, and national farm loan associations in this section, the powers of the Secret Service are not broadened beyond what they were in said sections 264(x) and 986 of said title 12.
 
 In this section, the wording of said section 148 of title 18, U.S.C., 1940 ed., and section 986 of title 12, U.S.C., 1940 ed., Banks and Banking reading "The Secretary of the Treasury is hereby authorized to direct and use the Secret Service Division of the Treasury Department" was adopted, rather than the wording of said section 264(x) of said title 12, which read "The Secret Service Division of the Treasury Department is authorized."
 
 Words "of the United States marshal having jurisdiction", following "custody" in all three of said sections, were omitted as surplusage.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,7 +138,7 @@ Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcemen
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
 
-<b>1971</b>—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted "Director, Deputy Director, Assistant Directors, Assistants to the Director" for "Chief, Deputy Chief, Assistant Chief".
+<b>1971</b>—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign stateor foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted "Director, Deputy Director, Assistant Directors, Assistants to the Director" for "Chief, Deputy Chief, Assistant Chief".
 
 Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -155,6 +157,8 @@ Pub. L. 87–791 required moneys expended from Secret Service appropriations for
 <b>1954</b>—Act Aug. 31, 1954, struck out "detect, and arrest any person violating any laws of the United States directly concerning official matters administered by and under the direct control of the Treasury Department".
 
 <b>1951</b>—Act July 16, 1951, provided basic authority for the Secret Service to perform certain functions and activities heretofore carried out by virtue of authority contained in appropriation acts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -218,7 +222,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[De
 
 #### Telecommunications Support to United States Secret Service by White House Communications Agency
 
-Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, asamended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8100\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–108, as amended by Pub. L. 106–92, §2, Nov. 9, 1999, 113 Stat. 1309, provided that: "Beginning in fiscal year 1997 and thereafter, and notwithstanding any other provision of law, fixed and mobile telecommunications support shall be provided by the White House Communications Agency (WHCA) to the United States Secret Service (USSS), without reimbursement, in connection with the Secret Service's duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President at the White House Security Complex in the Washington, D.C. Metropolitan Area and Camp David, Maryland. For these purposes, the White House Security Complex includes the White House, the White House grounds, the Dwight D. Eisenhower Executive Office Building, the New Executive Office Building, the Blair House, the Treasury Building, and the Vice President's Residence at the Naval Observatory."
 
 #### Off-Set of Costs of Protecting Former Presidents and Spouses
 
@@ -270,7 +274,7 @@ Sec. 2. As used in this Act the term—
 
 &emsp;"(2) 'Director' means the Director of the Secret Service;
 
-&emsp;"(3) 'protectee' means any person eligible to receive the protection authorized by section 3056 of title 18, United States Code, or Public Law 90–331 (82 Stat. 170) \[set out as a note above\];
+&emsp;"(3) 'protectee' means any person eligible to receive the protection authorized by section 3056 of title 18, United States Code, or Public Law 90–331 (82 Stat. 170) \[formerly set out as a note below\];
 
 &emsp;"(4) 'Executive departments' has the same meaning as provided in section 101 of title 5, United States Code;
 
@@ -286,7 +290,7 @@ Sec. 2. As used in this Act the term—
 
 Sec. 3. (a) Each protectee may designate one non-governmental property to be fully secured by the Secret Service on a permanent basis.
 
-"(b) A protectee may thereafter designate a different non-Governmental property in lieu of the non-Governmental property previously designated under subsection (a) (hereinafter in this Act referred to as the 'previously designated property') as the one non-Governmental property to be fully secured by the Secret Service on a permanent basis under subsection (a). Thereafter, any expenditures by the Secret Service to maintain a permanent guard detail or for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) shall be subject to the limitations imposed under section 4.
+"(b) A protectee may thereafter designate a different non-Governmental property in lieu of the non-Governmental property previously designated under subsection (a) (hereinafter in this Act referred to as the 'previously designated property') as the one non-Governmental property to be fully secured by the Secret Service on a permanent basis under subsection (a). Thereafter, any expenditures by the Secret Service tomaintain a permanent guard detail or for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) shall be subject to the limitations imposed under section 4.
 
 "(c) For the purposes of this section, where two or more protectees share the same domicile, such protectees shall be deemed a single protectee.
 
@@ -312,7 +316,7 @@ Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased,
 
 "
 
-Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056 of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
+Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056 of title 18, United States Code, and section 1 of Public Law 90–331 \[formerly set out as a note below\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
 
 &emsp;"(1) expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the Secret Service in the performance of its duties directly related to the protection of the President or the Vice President or other officer next in order of succession to the office of the President; and
 
@@ -342,7 +346,7 @@ Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended by Pub. L. 94–408, §
 
 #### Extension of Protection of President's Widow and Children
 
-Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the UnitedStates Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
+Pub. L. 90–145, Nov. 17, 1967, 81 Stat. 466, extended until Mar. 1, 1969, the authority vested in the United States Secret Service by section 3056 of this title, as it existed prior to the amendment in 1968 by Pub. L. 90–608, to protect the widow and minor children of a former President who were receiving such protection on Nov. 17, 1967.
 
 #### Applicability of Reorg. Plan No. 26 of 1950
 

@@ -60,11 +60,13 @@
 
 &emsp;(2) the educational institution or entity providing the course under contract has not obtained approval for the course under this chapter.
 
-(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
+(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department ofHomeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
 (h) In this section, the terms "State or local area", "recognized postsecondary credential", "industry or sector partnership", and "in-demand industry sector or occupation" have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
 (Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 115–48, title III, §302, Aug. 16, 2017, 131 Stat. 990.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -97,6 +99,8 @@ Subsec. (g). Pub. L. 105–114, §401(e), substituted "subsections (e) and (f)(1
 Subsec. (d)(2)(C). Pub. L. 104–275, §103(a)(2), substituted "subsection (g)" for "3689(b)(6) of this title".
 
 Subsecs. (e) to (g). Pub. L. 104–275, §103(b), added subsecs. (e) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

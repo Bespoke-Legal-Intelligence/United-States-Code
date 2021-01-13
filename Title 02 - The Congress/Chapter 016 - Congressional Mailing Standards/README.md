@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [501\.](%C2%A7%2000501%20-%20House%20Commission%20on%20Congressional%20Mailing%20Standards.md) | House Commission on Congressional Mailing Standards. |
+| [501\.](%C2%A7%2000501%20-%20House%20Communications%20Standards%20Commission.md) | House Communications Standards Commission. |
 | [502\.](%C2%A7%2000502%20-%20Select%20Committee%20on%20Standards%20and%20Conduct%20of%20the%20Senate.md) | Select Committee on Standards and Conduct of the Senate. |
 | [503\.](%C2%A7%2000503%20-%20Official%20mail%20of%20persons%20entitled%20to%20use%20congressional%20frank.md) | Official mail of persons entitled to use congressional frank. |
 | [504\.](%C2%A7%2000504%20-%20Mass%20mailings%20by%20Senate%20offices%3B%20quarterly%20statements%3B%20publication%20of%20summary%20tabulations.md) | Mass mailings by Senate offices; quarterly statements; publication of summary tabulations. |
@@ -16,7 +16,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00501 - House Commission on Congressional Mailing Standards](%C2%A7%2000501%20-%20House%20Commission%20on%20Congressional%20Mailing%20Standards.md)
+- [&sect; 00501 - House Communications Standards Commission](%C2%A7%2000501%20-%20House%20Communications%20Standards%20Commission.md)
 - [&sect; 00502 - Select Committee on Standards and Conduct of the Senate](%C2%A7%2000502%20-%20Select%20Committee%20on%20Standards%20and%20Conduct%20of%20the%20Senate.md)
 - [&sect; 00503 - Official mail of persons entitled to use congressional frank](%C2%A7%2000503%20-%20Official%20mail%20of%20persons%20entitled%20to%20use%20congressional%20frank.md)
 - [&sect; 00504 - Mass mailings by Senate offices; quarterly statements; publication of summary tabulations](%C2%A7%2000504%20-%20Mass%20mailings%20by%20Senate%20offices%3B%20quarterly%20statements%3B%20publication%20of%20summary%20tabulations.md)

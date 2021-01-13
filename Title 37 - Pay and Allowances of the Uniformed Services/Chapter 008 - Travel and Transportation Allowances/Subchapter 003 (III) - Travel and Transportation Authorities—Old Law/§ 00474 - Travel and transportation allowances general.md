@@ -138,7 +138,7 @@
 
 (k) No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, §621(a), Jan. 2, 2013, 126 Stat. 1778; Pub. L. 115–232, div. A, title VI, §603(a), Aug. 13, 2018, 132 Stat. 1794.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, §404; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V,§533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143; renumbered §474 and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, §621(a), Jan. 2, 2013, 126 Stat. 1778; Pub. L. 115–232, div. A, title VI, §603(a), Aug. 13, 2018, 132 Stat. 1794.)
 
 Historical and Revision Notes
 
@@ -182,13 +182,15 @@ In subsection (a), the words "that post" are substituted for the words "such des
 
 In subsection (b), the words "The Secretaries concerned" are substituted for the words "The respective Secretaries concerned" to conform to other subsections of the source statute.
 
-In subsection (c)(1), the words "under chapter 61 of title 10" are inserted for clarity. In clause (2), thewords "under any other law" are substituted for the words "for any other reason".
+In subsection (c)(1), the words "under chapter 61 of title 10" are inserted for clarity. In clause (2), the words "under any other law" are substituted for the words "for any other reason".
 
 In subsection (d), the words "may not be more than one of the following" are substituted for the words "shall be limited to one of the following". The words "or to be established" and "existing" are omitted, since this section, being permanent law, is consistently applicable in the present and does not speak only as of the date of its enactment. The words "of the Army" are substituted for the words "Department of the Army" after the words "Chief of Finance" to conform to section 3036(a)(5) of title 10. The words "under clause (1) of this subsection" are substituted for the words "pursuant to existing law".
 
 In subsection (e), the words "Fleet Logistic Air Wings" are substituted for the words "Fleet Logistics Support Unit" to reflect present terminology.
 
 In subsection (f), the words "under this section" are substituted for the words "under conditions authorized herein". The words "on the member's" are inserted for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -314,6 +316,8 @@ Subsec. (d). Pub. L. 89–718, §55, struck out reference to the Chief of Financ
 
 Subsec. (e). Pub. L. 89–718, §56, substituted "Military Airlift Command" for "Military Air Transport Service".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 602(g) of Pub. L. 105–85, set out as a note under section 402 of this title.
@@ -344,7 +348,7 @@ Amendment by section 1402(c) of Pub. L. 98–525 effective Oct. 1, 1985, see sec
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI,§631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
+Pub. L. 97–60, title I, §121(d), Oct. 14, 1981, 95 Stat. 1002, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 "(1) Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 405a and 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are separated from the service or released from active duty on or after November 1, 1981.
 
@@ -376,7 +380,7 @@ Pub. L. 100–26, §8(a), Apr. 21, 1987, 101 Stat. 284, as amended by Pub. L. 10
 
 #### Repeal of Policy and Regulation
 
-Pub. L. 115–232, div. A, title VI, §603(c)(1), Aug. 13, 2018, 132 Stat. 1795, provided that: "The policy, and any regulations issued pursuant to such policy, implemented by the Secretary of Defense on November 1, 2014, with respect to reductions in per diem allowances based on duration of temporary duty assignment or civilian travel shall have no force or effect."
+Pub. L. 115–232, div. A, title VI, §603(c)(1), Aug. 13, 2018, 132 Stat. 1795, provided that: "The policy, and any regulations issued pursuant to such policy, implemented by the Secretary of Defense on November 1, 2014, with respect to reductions in per diem allowancesbased on duration of temporary duty assignment or civilian travel shall have no force or effect."
 
 #### Modification of Flat Rate Per Diem Requirement for Personnel on Long-Term Temporary Duty Assignments
 

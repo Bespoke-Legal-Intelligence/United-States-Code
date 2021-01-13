@@ -4,6 +4,8 @@ For the purposes of any tax law enacted under authority of the United States or 
 
 (R.S. §5219; Mar. 4, 1923, ch. 267, 42 Stat. 1499; Mar. 25, 1926, ch. 88, 44 Stat. 223; Pub. L. 91–156, §§1(a), 2(a), Dec. 24, 1969, 83 Stat. 434.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5219 derived from act June 3, 1864, ch. 106, §41, 13 Stat. 111, which was the National Bank Act, and act Feb. 10, 1868, ch. 7, 15 Stat. 34. See section 38 of this title.
@@ -16,9 +18,11 @@ Pub. L. 91–156, §1(a), added par. 5.
 
 <b>1926</b>—Act Mar. 25, 1926, among other changes inserted "on their net income" in cl. (3) of former opening par., and added cl. (4) thereto, and inserted proviso in former subsec. 1(c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–156, §1(b), Dec. 24, 1969, 83 Stat. 434, provided that: "The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and localgovernments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\]."
+Pub. L. 91–156, §1(b), Dec. 24, 1969, 83 Stat. 434, provided that: "The amendment made by subsection (a) of this section \[setting out interim provisions regarding intangible personal property taxes of State and local governments on national banks\] shall be effective from the date of enactment of this Act \[Dec. 24, 1969\] until the effective date \[Jan. 1, 1973\] of the amendment made by section 2(a) of this Act \[removing restrictions on the taxation of national bank shares and directing that national banks, for purposes of both Federal and State tax laws, be treated as banks organized and existing under the laws of the State or other jurisdiction within which each bank's principal office is located\]."
 
 Pub. L. 91–156, §2(b), Dec. 24, 1969, 83 Stat. 434, as amended by Pub. L. 92–213, §4(a), Dec. 22, 1971, 85 Stat. 775, provided that: "The amendment made by subsection (a) \[removing all special restriction on the taxation of national bank shares by State and local taxing authorities\] becomes effective on January 1, 1973".
 

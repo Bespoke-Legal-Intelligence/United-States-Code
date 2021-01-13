@@ -2,7 +2,7 @@
 
 #### (a) General
 
-On the date when the Corporation is required to deposit securities with the special court pursuant to section 743(a)(1) of this title, the Association shall deposit with the special court the certificates of value of the Association required by this section. The Secretary shall guarantee the payment of all certificates of value delivered in accordance with this subchapter. All guarantees entered by the Secretary under this section shall constitute general obligations of the United States of America for the payment or redemption of which its full faith and credit are pledged. Such guarantees shall be valid and incontestable except as to mutual mistake of fact or as to fraud or material misrepresentation bythe holder of such certificates or the transferor of rail properties to which certificates of value of any series so guaranteed are issued.
+On the date when the Corporation is required to deposit securities with the special court pursuant to section 743(a)(1) of this title, the Association shall deposit with the special court the certificates of value of the Association required by this section. The Secretary shall guarantee the payment of all certificates of value delivered in accordance with this subchapter. All guarantees entered by the Secretary under this section shall constitute general obligations of the United States of America for the payment or redemption of which its full faith and credit are pledged. Such guarantees shall be valid and incontestable except as to mutual mistake of fact or as to fraud or material misrepresentation by the holder of such certificates or the transferor of rail properties to which certificates of value of any series so guaranteed are issued.
 
 #### (b) Number and distribution
 
@@ -34,11 +34,15 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 (Pub. L. 93–236, title III, §306, as added Pub. L. 94–210, title VI, §610(b), Feb. 5, 1976, 90 Stat. 104; amended Pub. L. 94–248, §§2, 3, Mar. 25, 1976, 90 Stat. 286.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (c)(3)(A). Pub. L. 94–248, §2, substituted "adjusted to reflect" for "without regard to".
 
 Subsec. (c)(3)(B). Pub. L. 94–248, §3, inserted provisions relating to adjustment of number of shares of common stock to reflect any stock splits, stock combinations, etc.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

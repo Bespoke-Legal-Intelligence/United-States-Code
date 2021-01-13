@@ -10,7 +10,7 @@ When used in this chapter—
 
 &emsp;(2) action of a hostile force or person, including rebellion or insurrection against the United States or any of its Allies; or
 
-&emsp;(3) the discharge or explosion of munitions intended for use in connection with a war or armed conflict with a hostile force or person as defined herein (except with respect to employees of a manufacturer, processor, or transporter of munitions during the manufacture, processing, or transporting thereof, or while stored on the premises of the manufacturer, processor, or transporter); or
+&emsp;(3) the discharge or explosion of munitions intended for use in connection with a war or armed conflict with a hostile force or person as defined herein (except with respect to employees of a manufacturer, processor, or transporter of munitions during the manufacture, processing, or transporting thereof, or whilestored on the premises of the manufacturer, processor, or transporter); or
 
 &emsp;(4) the collision of vessels in convoy or the operation of vessels or aircraft without running lights or without other customary peacetime aids to navigation; or
 

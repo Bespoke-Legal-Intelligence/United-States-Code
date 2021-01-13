@@ -24,9 +24,13 @@ In this chapter:
 
 (Pub. L. 106–264, title I, §102, Aug. 19, 2000, 114 Stat. 749.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

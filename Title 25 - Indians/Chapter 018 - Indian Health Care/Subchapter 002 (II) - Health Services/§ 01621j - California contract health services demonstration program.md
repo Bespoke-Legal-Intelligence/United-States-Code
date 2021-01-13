@@ -32,7 +32,7 @@ Not later than July 1, 1998, the California Rural Indian Health Board shall subm
 
 #### (f) "High-cost contract care cases" defined
 
-For the purposes of this section, the term "high-cost contract care cases" means those cases in which the cost of the medical treatment provided to an individual—
+For the purposes of this section, the term "high-cost contract care cases" means thosecases in which the cost of the medical treatment provided to an individual—
 
 &emsp;(1) would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) <sup>1</sup> of this title; and
 
@@ -40,9 +40,11 @@ For the purposes of this section, the term "high-cost contract care cases" means
 
 (Pub. L. 94–437, title II, §211, as added Pub. L. 102–573, title II, §206(c), Oct. 29, 1992, 106 Stat. 4549; amended Pub. L. 104–313, §2(c), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat.935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
+Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
 
 Section 1621a of this title, referred to in subsec. (f)(1), was amended generally by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b)(2).
 
@@ -55,6 +57,8 @@ Amendment by Pub. L. 111–148 is based on section 101(b)(3) of title I of S. 17
 <b>2010</b>—Subsec. (g). Pub. L. 111–148 struck out subsec. (g) which authorized appropriations for fiscal years 1996 through 2000.
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–313 substituted "1996 through 2000" for "1993, 1994, 1995, 1996, and 1997".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Boards
 

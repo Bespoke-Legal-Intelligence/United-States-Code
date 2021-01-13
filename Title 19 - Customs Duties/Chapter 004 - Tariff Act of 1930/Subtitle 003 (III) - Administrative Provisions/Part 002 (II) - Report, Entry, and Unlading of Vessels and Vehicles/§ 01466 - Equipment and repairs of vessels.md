@@ -20,7 +20,7 @@ If the appropriate customs officer has reasonable cause to believe a violation h
 
 #### (c) Violation
 
-After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a writtenpenalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
+After considering representations, if any, made by the person concerned pursuant to the notice issued under subsection (b), the appropriate customs officer shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If such officer determines that there was no violation, he shall promptly notify, in writing, the person to whom the notice was sent. If such officer determines that there was a violation, he shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under paragraphs (1) through (4) of subsection (b).
 
 #### (d) Remission for necessary repairs
 
@@ -74,7 +74,7 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 > Declaration and entry shall not be required with respect to the installation, equipment, parts, and materials described in paragraph (4).
 
-(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub.L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
+(June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: "the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas."
+<b>2006</b>—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: "thecost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas."
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–429 added par. (4) and concluding provisions.
 

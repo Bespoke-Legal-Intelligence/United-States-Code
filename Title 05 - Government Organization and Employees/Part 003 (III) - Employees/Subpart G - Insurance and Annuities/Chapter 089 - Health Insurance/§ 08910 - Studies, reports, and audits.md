@@ -12,7 +12,7 @@
 
 (d) The Office, in consultation with the Department of Health and Human Services, shall develop and implement a system through which the carrier for an approved health benefits plan described by section 8903 or 8903a will be able to identify those annuitants or other individuals covered by such plan who are entitled to benefits under part A or B of title XVIII of the Social Security Act in order to ensure that payments under coordination of benefits with Medicare do not exceed the statutory maximums which physicians may charge Medicare enrollees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, §7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92Stat. 1224; Pub. L. 101–508, title VII, §7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 
@@ -32,6 +32,8 @@ In subsection (b), the word "agency" is substituted for "department, agency, and
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Social Security Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -43,6 +45,8 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 <b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
 <b>1978</b>—Subsecs. (a) to (c). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

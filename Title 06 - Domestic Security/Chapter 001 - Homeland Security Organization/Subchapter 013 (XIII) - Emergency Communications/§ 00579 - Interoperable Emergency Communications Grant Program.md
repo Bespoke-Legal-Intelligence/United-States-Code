@@ -166,6 +166,8 @@ There are authorized to be appropriated for grants under this section—
 
 (Pub. L. 107–296, title XVIII, §1809, as added Pub. L. 110–53, title III, §301(a), Aug. 3, 2007, 121 Stat. 296; amended Pub. L. 115–278, §2(g)(6)(C), Nov. 16, 2018, 132 Stat. 4179.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–278, §2(g)(6)(C)(i), substituted "Assistant Director for Emergency Communications" for "Director of Emergency Communications" wherever appearing.
@@ -175,4 +177,10 @@ Subsec. (b). Pub. L. 115–278, §2(g)(6)(C)(ii), substituted "Assistant Directo
 Subsec. (e)(3). Pub. L. 115–278, §2(g)(6)(C)(iii), substituted "the Assistant Director" for "the Director".
 
 Subsec. (m)(1). Pub. L. 115–278, §2(g)(6)(C)(iv), substituted "The Assistant Director" for "the Director", "Cybersecurity and Infrastructure Security Agency" for "Office of Emergency Communications", and "the Assistant Director determines" for "the Director determines".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

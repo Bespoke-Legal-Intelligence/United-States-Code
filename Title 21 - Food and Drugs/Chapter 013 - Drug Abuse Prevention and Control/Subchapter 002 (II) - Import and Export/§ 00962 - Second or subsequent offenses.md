@@ -12,7 +12,9 @@ For purposes of this section, a person shall be considered convicted of a second
 
 Section 851 of this title shall apply with respect to any proceeding to sentence a person under this section.
 
-(Pub. L. 91–513, title III, §1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225(b), 505, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, §90105(b), Sept. 13, 1994, 108 Stat. 1988.)
+(Pub. L. 91–513, title III, §1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225(b), 505, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570,title I, §§1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, §90105(b), Sept. 13, 1994, 108 Stat. 1988.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "speci
 <b>1984</b>—Subsec. (a). Pub. L. 98–473, §225(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, §1005(c).
 
 Subsec. (b). Pub. L. 98–473, §505, inserted references to laws of a State or of a foreign country.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

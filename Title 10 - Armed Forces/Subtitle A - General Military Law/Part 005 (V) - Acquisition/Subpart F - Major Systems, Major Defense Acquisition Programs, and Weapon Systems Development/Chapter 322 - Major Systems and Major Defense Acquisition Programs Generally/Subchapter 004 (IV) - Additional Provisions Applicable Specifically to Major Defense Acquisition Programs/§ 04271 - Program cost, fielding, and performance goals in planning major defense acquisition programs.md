@@ -1,0 +1,42 @@
+### §4271. Program cost, fielding, and performance goals in planning major defense acquisition programs
+
+(a)
+
+Program Cost and Fielding Targets.—(1) Before funds are obligated for technology development, systems development, or production of a major defense acquisition program, the designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program will—
+
+&emsp;(A) be affordable;
+
+&emsp;(B) incorporate program planning that anticipates the evolution of capabilities to meet changing threats, technology insertion, and interoperability; and
+
+&emsp;(C) be fielded when needed.
+
+(2) The goals described in this paragraph are goals for—
+
+&emsp;(A) the procurement unit cost and sustainment cost (referred to in this section as the "program cost targets");
+
+&emsp;(B) the date for initial operational capability (referred to in this section as the "fielding target"); and
+
+&emsp;(C) technology maturation, prototyping, and a modular open system approach to evolve system capabilities and improve interoperability.
+
+(b)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "procurement unit cost" has the meaning provided in section 4351(2) of this title.
+
+&emsp;(2) The term "initial capabilities document" has the meaning provided in section 4251(d)(1) of this title.
+
+(Added Pub. L. 114–328, div. A, title VIII, §807(a)(1), Dec. 23, 2016, 130 Stat. 2260, §2448a; amended Pub. L. 115–232, div. A, title VIII, §831(a), Aug. 13, 2018, 132 Stat. 1857; renumbered §4271 and amended Pub. L. 116–283, div. A, title XVIII, §1847(e)(1), Jan. 1, 2021, 134 Stat. 4256.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1847(e)(1), renumbered section 2448a of this title as the section.
+
+Subsec. (b)(1). Pub. L. 116–283, §1847(e)(1)(A), substituted "section 4351(2)" for "section 2432(a)(2)".
+
+Subsec. (b)(2). Pub. L. 116–283, §1847(e)(1)(B), substituted "section 4251(d)(1)" for "section 2366a(d)(2)".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

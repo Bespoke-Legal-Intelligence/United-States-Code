@@ -20,7 +20,7 @@
 
 &emsp;A single-employer plan may terminate under a standard termination only if—
 
-&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate toaffected parties required under subsection (a)(2),
+&emsp;&emsp;(A) the plan administrator provides the 60-day advance notice of intent to terminate to affected parties required under subsection (a)(2),
 
 &emsp;&emsp;(B) the requirements of subparagraphs (A) and (B) of paragraph (2) are met,
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the projected amount of the assets of the plan (as of a proposed date of final distribution of assets),
 
-&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities (determined as of the proposed termination date) under the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities\(determined as of the proposed termination date) under the plan, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
@@ -108,7 +108,7 @@
 
 #### (B) Certification to the corporation of final distribution of assets
 
-&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
+&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send anotice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
 
 #### (4) Continuing authority
 
@@ -166,7 +166,7 @@
 
 #### (A) Information submitted to the corporation
 
-&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate isprovided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
+&emsp;&emsp;As soon as practicable after the date on which the notice of intent to terminate is provided pursuant to subsection (a)(2), the plan administrator shall provide the corporation, in such form as may be prescribed by the corporation in regulations, the following information:
 
 &emsp;&emsp;&emsp;(i) such information as the corporation may prescribe by regulation as necessary to make determinations under subparagraph (B) and paragraph (3);
 
@@ -250,7 +250,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title 5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
+&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
 
 #### (iii) Form and manner of information; charges
 
@@ -298,7 +298,7 @@
 
 #### (i) Finding with respect to benefit liabilities which are not guaranteed benefits
 
-&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title,the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
+&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
 
 #### (ii) Finding with respect to guaranteed benefits
 
@@ -310,7 +310,7 @@
 
 &emsp;&emsp;&emsp;The plan administrator shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2) and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
+&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2)and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet the requirements of clause (ii) commencing on the date on which the plan administrator or the corporation makes a finding under subparagraph (C)(ii).
 
@@ -345,6 +345,8 @@ For purposes of this section—
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) or distress termination under subsection (c).
 
 (Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050; Pub. L. 109–280, title IV, §409(a), title V, §506(a), Aug. 17, 2006, 120 Stat. 933, 946; Pub. L. 110–458, title I, §§104(d), 105(e)(1), Dec. 23, 2008, 122 Stat. 5104, 5105.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -450,7 +452,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading
 
 Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text "benefit liabilities" for "benefit commitments".
 
-Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before"the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
+Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before "the plan administrator", substituted period for ", and" after "termination of the plan", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title."
 
 Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before "the corporation shall commence", substituted period for ", and" after "section 1342 of this title", and struck out former subcl. (II) which read as follows: "the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title."
 
@@ -477,6 +479,8 @@ Pub. L. 99–272, §11008(b), amended subsec. (f) generally, substituting provis
 <b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(d)(2), inserted "single-employer" after "termination of a".
 
 Subsec. (g). Pub. L. 96–364, §403(d)(3), struck out subsec. (g) which related to petition to the appropriate court for appointment of a trustee.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -538,7 +542,7 @@ In general.—In the case of a single-employer plan termination for which a noti
 
 &emsp;"(2)
 
-Deemed compliance with notice requirements.—The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[29 U.S.C. 1341\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
+Deemed compliance with notice requirements.—The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amendedby this title) \[29 U.S.C. 1341\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
 
 &emsp;&emsp;"(A) the plan administrator provided notice to the participants in the plan regarding the termination in compliance with applicable regulations of the Pension Benefit Guaranty Corporation as in effect on the date of the notice, and
 
@@ -624,7 +628,7 @@ Pub. L. 99–272, title XI, §11008(d), Apr. 7, 1986, 100 Stat. 247, provided th
 
 "(1)
 
-Requirements to be met before final distribution of assets.—In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
+Requirements to be met before final distribution of assets.—In the case of the termination of asingle-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
 
 &emsp;"(A) determines that the assets of the plan are sufficient for benefit commitments (within the meaning of section 4041(d)(1) of the Employee Retirement Income Security Act of 1974 (as amended by section 11007) \[29 U.S.C. 1341(d)(1)\]) under the plan, and
 

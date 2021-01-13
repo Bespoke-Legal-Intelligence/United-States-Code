@@ -58,7 +58,7 @@ Except as provided in subsection (g), the Secretary of Commerce shall issue orde
 
 #### (B) Exemption
 
-&emsp;&emsp;The actions and regulations of the Secretary under subparagraph (A) shall not apply with respect to a State that is administering and enforcing a program under subsection (d).
+&emsp;&emsp;The actions and regulations of the Secretary under subparagraph (A) shall notapply with respect to a State that is administering and enforcing a program under subsection (d).
 
 #### (2) Cooperation with other agencies
 

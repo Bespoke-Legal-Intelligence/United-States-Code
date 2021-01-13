@@ -54,6 +54,8 @@ Limitation.—The Commandant is not required to provide a report under paragraph
 
 (Added Pub. L. 115–232, div. C, title XXXV, §3523(a), Aug. 13, 2018, 132 Stat. 2315, §657; renumbered §1155, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 657 of this title as this section.

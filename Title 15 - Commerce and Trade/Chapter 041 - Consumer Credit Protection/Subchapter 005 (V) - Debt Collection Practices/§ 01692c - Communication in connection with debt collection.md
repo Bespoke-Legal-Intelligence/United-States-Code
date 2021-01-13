@@ -16,7 +16,7 @@ Except as provided in section 1692b of this title, without the prior consent of 
 
 #### (c) Ceasing communication
 
-If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicatefurther with the consumer with respect to such debt, except—
+If a consumer notifies a debt collector in writing that the consumer refuses to pay a debt or that the consumer wishes the debt collector to cease further communication with the consumer, the debt collector shall not communicate further with the consumer with respect to such debt, except—
 
 &emsp;(1) to advise the consumer that the debt collector's further efforts are being terminated;
 
@@ -28,7 +28,7 @@ If a consumer notifies a debt collector in writing that the consumer refuses to 
 
 #### (d) "Consumer" defined
 
-For the purpose of this section, the term "consumer" includes the consumer's spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
+For the purpose of this section, the term "consumer" includes the consumer's spouse, parent\(if the consumer is a minor), guardian, executor, or administrator.
 
 (Pub. L. 90–321, title VIII, §805, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
 

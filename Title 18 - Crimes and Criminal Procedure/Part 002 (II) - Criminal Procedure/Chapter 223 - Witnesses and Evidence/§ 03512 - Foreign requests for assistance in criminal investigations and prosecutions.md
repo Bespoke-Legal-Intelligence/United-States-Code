@@ -78,6 +78,8 @@ Foreign authority.—The term "foreign authority" means a foreign judicial autho
 
 (Added Pub. L. 111–79, §2(4), Oct. 19, 2009, 123 Stat. 2087.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a)(2)(A) and (h)(1), are set out in the Appendix to this title.

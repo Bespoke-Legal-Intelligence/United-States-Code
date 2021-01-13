@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of determining the amount of the foreign tax credit, in the case of a taxpayer who takes foreign income taxes into account when accrued, the amount of any foreign income taxes (and any adjustment thereto) shall be translated into dollars by using the average exchange rate for the taxable year to which such taxes relate.
+&emsp;&emsp;For purposes of determining the amount of the foreign tax credit, in the case of a taxpayer who takes foreign income taxes into account when accrued, the amount of anyforeign income taxes (and any adjustment thereto) shall be translated into dollars by using the average exchange rate for the taxable year to which such taxes relate.
 
 #### (B) Exception for certain taxes
 
@@ -74,7 +74,7 @@ For purposes of determining the tax under this subtitle—
 
 #### (1) In general
 
-&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c))attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
+&emsp;Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion.
 
 #### (2) Distributions through tiers
 

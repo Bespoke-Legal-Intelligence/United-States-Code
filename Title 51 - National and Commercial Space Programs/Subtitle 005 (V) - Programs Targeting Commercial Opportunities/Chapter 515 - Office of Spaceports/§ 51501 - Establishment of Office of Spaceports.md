@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Office.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation shall identify, within the Office of Commercial SpaceTransportation, a centralized policy office to be known as the Office of Spaceports.
+Establishment of Office.—Not later than 90 days after the date of enactment of this section, the Secretary of Transportation shall identify, within the Office of Commercial Space Transportation, a centralized policy office to be known as the Office of Spaceports.
 
 (b)
 
@@ -35,6 +35,8 @@ Director.—The head of the Office of the Associate Administrator for Commercial
 Definition.—In this section the term "spaceport" means a launch or reentry site that is operated by an entity licensed by the Secretary of Transportation.
 
 (Added Pub. L. 115–254, div. B, title V, §580(b)(1), Oct. 5, 2018, 132 Stat. 3395.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

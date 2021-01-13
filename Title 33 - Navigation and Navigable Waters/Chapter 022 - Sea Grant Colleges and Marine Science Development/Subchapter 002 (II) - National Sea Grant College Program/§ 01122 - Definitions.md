@@ -56,7 +56,9 @@ As used in this subchapter—
 
 &emsp;(16) The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands, or any other territory or possession of the United States.
 
-(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L.95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
+(Pub. L. 89–454, title II, §203, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 999; amended Pub. L. 90–477, §1(1), Aug. 11, 1968, 82 Stat. 704; Pub. L. 91–349, July 23, 1970, 84 Stat. 448; Pub. L. 93–73, §1(1), (5), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1962; Pub. L. 95–428, §2(b), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(1), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3104(a), (b)(1)(C), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 102–186, §5(b)(1), Dec. 4, 1991, 105 Stat. 1284; Pub. L. 102–251, title III, §307(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 105–160, §4(a), Mar. 6, 1998, 112 Stat. 21; Pub. L. 105–174, title III, §10003, May 1, 1998, 112 Stat. 99; Pub. L. 110–394, §§4, 9(a)(4)(B), Oct. 13, 2008, 122 Stat. 4206, 4208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,9 +136,13 @@ Subsec. (b)(1). Pub. L. 93–73, §1(1), (5), authorized appropriations of $30,0
 
 <b>1968</b>—Subsec. (b)(1). Pub. L. 90–477 authorized appropriations for fiscal year ending June 30, 1969, not to exceed the sum of $6,000,000, and for fiscal year ending June 30, 1970, not to exceed the sum of $15,000,000.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of Title 16, Conservation.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

@@ -14,7 +14,7 @@ Except as provided in subsection (b), compliance with this subchapter shall be e
 
 &emsp;&emsp;&emsp;(i) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;&emsp;(ii) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches offoreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board;
+&emsp;&emsp;&emsp;(ii) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board;
 
 &emsp;&emsp;&emsp;(iii) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System and national nonmember banks) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation; and
 

@@ -28,5 +28,5 @@ Pub. L. 114–52, §1, Sept. 30, 2015, 129 Stat. 496, provided that: "This Act \
 
 #### Short Title
 
-Pub. L. 108–360, title II, §201, Oct. 25, 2004, 118 Stat. 1675, provided that: "This Act \[probably should be 'thistitle', enacting this chapter and amending section 1885d of this title\] may be cited as the 'National Windstorm Impact Reduction Act of 2004'."
+Pub. L. 108–360, title II, §201, Oct. 25, 2004, 118 Stat. 1675, provided that: "This Act \[probably should be 'this title', enacting this chapter and amending section 1885d of this title\] may be cited as the 'National Windstorm Impact Reduction Act of 2004'."
 

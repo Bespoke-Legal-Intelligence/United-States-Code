@@ -4,9 +4,13 @@ In accordance with regulations of the Farm Credit Administration, qualified lend
 
 (Pub. L. 92–181, title IV, §4.13A, as added Pub. L. 99–205, title III, §301(b), Dec. 23, 1985, 99 Stat. 1707; amended Pub. L. 100–233, title I, §104, Jan. 6, 1988, 101 Stat. 1579.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–233 substituted "qualified lenders" for "System institutions" and inserted "and copies of each appraisal of the borrower's assets made or used by the qualified lender" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

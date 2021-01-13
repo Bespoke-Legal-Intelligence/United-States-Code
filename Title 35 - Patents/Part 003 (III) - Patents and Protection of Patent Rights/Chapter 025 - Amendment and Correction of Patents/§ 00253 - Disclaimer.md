@@ -20,11 +20,15 @@ See section 288.
 
 The second paragraph is new and provides for the disclaiming or dedication of an entire patent, or any terminal part of the term, for example, a patentee may disclaim the last three years of the term of his patent.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 designated first and second pars. as subsecs. (a) and (b), respectively, inserted headings, in subsec. (a), substituted "Whenever" for "Whenever, without any deceptive intention,", and, in subsec. (b), substituted "In the manner set forth in subsection (a)," for "In like manner".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

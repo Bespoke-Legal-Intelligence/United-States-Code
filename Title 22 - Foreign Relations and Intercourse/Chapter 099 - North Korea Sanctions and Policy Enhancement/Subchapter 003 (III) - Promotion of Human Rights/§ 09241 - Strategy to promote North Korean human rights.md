@@ -26,6 +26,8 @@ The report required under subsection (a) should include—
 
 (Pub. L. 114–122, title III, §302, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–44, title III, §321(a)(1), Aug. 2, 2017, 131 Stat. 951; Pub. L. 115–272, title III, §303(c)(2), Oct. 25, 2018, 132 Stat. 4157; Pub. L. 116–92, div. F, title LXXI, §7122(b)(4), Dec. 20, 2019, 133 Stat. 2248.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(3). Pub. L. 116–92 substituted "section 9214(g)(1)(C)" for "section 9214(b)(1)(M)".
@@ -33,6 +35,8 @@ The report required under subsection (a) should include—
 <b>2018</b>—Subsec. (a). Pub. L. 115–272 substituted "Not later than 120 days after October 25, 2018, and periodically thereafter" for "Not later than 180 days after February 18, 2016".
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–44 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additional Determinations; Reports
 
@@ -44,7 +48,7 @@ Pub. L. 115–44, title III, §321(a)(2), Aug. 2, 2017, 131 Stat. 951, provided 
 
 &emsp;&emsp;"(ii) section 104(a) or 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9214(a)\[, (b)(1)\]), as amended by section 101 of this Act;
 
-&emsp;"(B) be included in the report required under section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) (relating to the annual report on trafficking in persons); and
+&emsp;"(B) be included in the report required under section 110(b) of the Trafficking Victims Protection Actof 2000 (22 U.S.C. 7107(b)) (relating to the annual report on trafficking in persons); and
 
 &emsp;"(C) be considered in any determination that the government of such country has made serious and sustained efforts to eliminate severe forms of trafficking in persons, as such term is defined for purposes of the Trafficking Victims Protection Act of 2000 \[22 U.S.C. 7101 et seq.\]."
 

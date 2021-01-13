@@ -8,6 +8,8 @@
 
 (Added Pub. L. 94–82, title II, §205(a)(1), Aug. 9, 1975, 89 Stat. 422; amended Pub. L. 101–194, title VII, §704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, §101(4), Oct. 13, 1994, 108 Stat. 3411.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -22,6 +24,8 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a)(1
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–194 substituted "corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect" for "corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under such section 5305) of the adjustments in the rates of pay under such Schedule."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–356, title I, §101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
@@ -32,7 +36,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a noteunder section 5318 of Title 5, Government Organization and Employees.
 
 #### References to "this Act" in Div. D of Pub. L. 111–8
 
@@ -44,7 +48,7 @@ Pub. L. 110–161, div. D, title VII, §749, Dec. 26, 2007, 121 Stat. 2035, prov
 
 #### Salary Adjustments
 
-Pub. L. 111–8, div. D, title III, §310, Mar. 11, 2009, 123 Stat. 649, provided that: "Pursuant to section 140 ofPublic Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 111–8, see Tables for classification and see section 750 of Pub. L. 111–8, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2009, to receive a salary adjustment in accordance with 28 U.S.C. 461."
+Pub. L. 111–8, div. D, title III, §310, Mar. 11, 2009, 123 Stat. 649, provided that: "Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 111–8, see Tables for classification and see section 750 of Pub. L. 111–8, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2009, to receive a salary adjustment in accordance with 28 U.S.C. 461."
 
 Pub. L. 110–161, div. D, title III, §305, Dec. 26, 2007, 121 Stat. 1989, provided that: "Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above\], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461."
 
@@ -82,7 +86,7 @@ Pub. L. 99–500, §101(b) \[title IV, §406\], Oct. 18, 1986, 100 Stat. 1783–
 
 Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 310, provided in part that: "Effective on the first day of the first applicable pay period commencing on or after January 1, 1985, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1985."
 
-Pub. L. 98–369, div. B, title II, §2207, July 18, 1984, 98 Stat. 1060, provided that: "Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates ofpay under the General Schedule during fiscal year 1984."
+Pub. L. 98–369, div. B, title II, §2207, July 18, 1984, 98 Stat. 1060, provided that: "Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984."
 
 #### Specific Congressional Authorization Required for Salary Increases for Federal Judges and Justices of the Supreme Court
 

@@ -30,6 +30,8 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).

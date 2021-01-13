@@ -40,6 +40,8 @@ The provision in such section 484 of title 28, U.S.C., 1940 ed., that the need f
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 550, acts June 25, 1948, ch. 646, 62 Stat. 912; Sept. 9, 1959, Pub. L. 86–243, §2, 73 Stat. 474, related to disbursement of salaries and expenses, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 571 of this title by section 4(c) of Pub. L. 89–554.
@@ -59,6 +61,8 @@ A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the pr
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647 substituted ", messengers, and private process servers" for "and messengers" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

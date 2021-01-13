@@ -76,7 +76,7 @@ For termination of section, beginning on July 1, 2021, with certain exceptions a
 
 For revival and applicability, beginning on Oct. 21, 2011, of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
-Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
+Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival notepreceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 

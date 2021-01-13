@@ -18,6 +18,8 @@
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §104(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1446; amended Pub. L. 109–163, div. A, title VIII, §847(f)(1), Jan. 6, 2006, 119 Stat. 3395; Pub. L. 111–350, §5(a)(9), Jan. 4, 2011, 124 Stat. 3841.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (b)(1), is set out in section 5315 of this title.
@@ -30,9 +32,11 @@ Subsec. (a)(2). Pub. L. 111–350, §5(a)(9)(B), substituted "section 7105(a)(1)
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 inserted "or a member of the Civilian Board of Contract Appeals appointed under section 42 of the Office of Federal Procurement Policy Act" after "of 1978".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title VIII, §847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: "Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section \[enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a noteunder section 607 of Title 41\], shall take effect 1 year after the date of the enactment of this Act \[Jan. 6, 2006\]."
+Pub. L. 109–163, div. A, title VIII, §847(g), Jan. 6, 2006, 119 Stat. 3395, provided that: "Section 42 of the Office of Federal Procurement Policy Act, as added by this section, and the amendments and repeals made by this section \[enacting section 438 of Title 41, Public Contracts, amending this section and sections 601 and 607 of Title 41, and enacting provisions set out as a note under section 607 of Title 41\], shall take effect 1 year after the date of the enactment of this Act \[Jan. 6, 2006\]."
 
 #### Effective Date
 

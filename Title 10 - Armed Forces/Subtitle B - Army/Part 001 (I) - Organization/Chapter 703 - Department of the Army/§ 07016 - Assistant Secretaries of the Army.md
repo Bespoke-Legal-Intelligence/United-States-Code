@@ -42,7 +42,7 @@ Subsec. (b)(6). Pub. L. 116–92, §911(a), added par. (6).
 
 Subsec. (b)(5)(B). Pub. L. 115–91, §505, substituted "an officer" for "a lieutenant general".
 
-<b>2016</b>—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end "In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year."
+<b>2016</b>—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end "In the event of a vacancy in the position of AssistantSecretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year."
 
 <b>2008</b>—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
 

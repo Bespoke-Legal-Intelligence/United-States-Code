@@ -152,6 +152,8 @@ In subsection (f)(1), the words "governing appointment in the competitive servic
 
 In subsection (g), the words "The General Counsel . . . shall have charge" are omitted as superseded by the source provisions restated in subsection (b) of this section and section 321(c) of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The provisions of title 5 governing appointment in the competitive service, referred to in subsec. (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
@@ -174,21 +176,19 @@ Subsec. (e). Pub. L. 112–166, §2(l)(1), substituted "8 Assistant Secretaries"
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–594 substituted "7" for "5".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–49 applicable after the end of the 90-day period beginning on July 26, 2007, see section 12 of Pub. L. 110–49, set out as a note under section5315 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–49 applicable after the end of the 90-day period beginning on July 26, 2007, see section 12 of Pub. L. 110–49, set out as a note under section 5315 of Title 5, Government Organization and Employees.
 
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–203, title V, §501, July 21, 2010, 124 Stat. 1580, provided that: "This subtitle \[subtitle A (§§501, 502) of title V of Pub. L. 111–203, enacting sections 313 and 314 of this title, amending section 321 of this title, and renumbering former sections 312 and 313 of this title as sections 315 and 312, respectively\] may be cited as the 'Federal Insurance Office Act of 2010'."
-
-#### Order of Succession
-
-For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Office of Secretary of the Treasury; Compensation
 
@@ -235,4 +235,10 @@ Pub. L. 103–2, Jan. 19, 1993, 107 Stat. 4, provided: "That (a) the compensatio
 #### Duties and Functions of Department of the Treasury
 
 Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out under section 501 of this title\] to be construed to interfere with exercise of functions, duties, and responsibilities of Department of the Treasury, as in effect immediately before Nov. 15, 1990, see section 204 of Pub. L. 101–576, set out as a note under section 501 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

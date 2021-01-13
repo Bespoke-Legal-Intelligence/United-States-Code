@@ -48,7 +48,7 @@ The Management Area shall consist of the public land in Imperial County, Califor
 
 #### (2) Effect
 
-&emsp;The map and legal description submitted under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct any errors in the map and legal description.
+&emsp;The map and legal description submitted under paragraph (1) shall have the same forceand effect as if included in this section, except that the Secretary may correct any errors in the map and legal description.
 
 #### (3) Availability
 
@@ -164,7 +164,7 @@ The Management Area shall consist of the public land in Imperial County, Califor
 
 #### (9) Military use
 
-&emsp;The Secretary may authorize use of the non-wilderness portion of the Management Area by the Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
+&emsp;The Secretary may authorize use of the non-wilderness portion of the Management Area bythe Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
 
 (Pub. L. 103–433, title I, §109, as added Pub. L. 116–9, title I, §1421, Mar. 12, 2019, 133 Stat. 696.)
 

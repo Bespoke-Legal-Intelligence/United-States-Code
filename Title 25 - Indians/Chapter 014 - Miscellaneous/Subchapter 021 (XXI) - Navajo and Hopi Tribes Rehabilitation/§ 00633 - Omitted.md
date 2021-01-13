@@ -1,5 +1,7 @@
 ### §633. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Apr. 19, 1950, ch. 92, §3, 64 Stat. 45, which provided that Navajo and Hopi Indians be given preference in employment and on-the-job training for projects undertaken pursuant to this subchapter, was omitted from the Code as being of special and not general application.

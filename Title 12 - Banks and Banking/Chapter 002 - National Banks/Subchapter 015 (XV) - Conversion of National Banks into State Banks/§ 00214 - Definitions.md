@@ -6,11 +6,15 @@
 
 (Aug. 17, 1950, ch. 729, §1, 64 Stat. 455; Sept. 3, 1954, ch. 1263, §24, 68 Stat. 1234; Pub. L. 109–351, title VII, §725(f), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(f), Oct. 16, 2006, 120 Stat. 2029.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–351 and 109–356 amended subsec. (a) identically, striking out "(except a national banking association)" before period at end.
 
 <b>1954</b>—Act Sept. 3, 1954, substituted "this subchapter and section 321 of this title" for "sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Separability
 

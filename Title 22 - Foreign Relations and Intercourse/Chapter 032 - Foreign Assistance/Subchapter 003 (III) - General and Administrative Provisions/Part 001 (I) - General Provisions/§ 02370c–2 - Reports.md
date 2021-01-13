@@ -28,9 +28,11 @@ If a country is notified pursuant to section 2370c–1(b)(2) of this title, or a
 
 #### (d) Information to be included in annual trafficking in persons report
 
-If the Secretary of State notifies a country pursuant to section 2370c–1(b)(2) of this title, or the President grants a waiver pursuant to section 2370c–1(c)(1) of this title, the Secretary of State shall include, in each report required under section 7107(b) of this title, the information required to be included in the annual report to Congress under paragraphs (1) through (5) of subsection (c).
+If the Secretary of State notifies a country pursuant to section 2370c–1(b)(2) of this title, or the President grants a waiver pursuant to section 2370c–1(c)(1) of this title, the Secretary of State shall include, in each report required under section 7107(b) of this title, the information required to be included in the annual reportto Congress under paragraphs (1) through (5) of subsection (c).
 
 (Pub. L. 110–457, title IV, §405, Dec. 23, 2008, 122 Stat. 5090; Pub. L. 115–425, title II, §212(c), Jan. 8, 2019, 132 Stat. 5486.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,9 +50,13 @@ Subsec. (c)(2) to (5). Pub. L. 115–425, §212(c)(1)(B)–(D), added par. (2), 
 
 Subsec. (d). Pub. L. 115–425, §212(c)(2), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as a note under section 2370c of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

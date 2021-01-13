@@ -12,6 +12,8 @@ A record of lawful admission for permanent residence may, in the discretion of t
 
 (June 27, 1952, ch. 477, title II, ch. 5, §249, 66 Stat. 219; Pub. L. 85–616, Aug. 8, 1958, 72 Stat. 546; Pub. L. 89–236, §19, Oct. 3, 1965, 79 Stat. 920; Pub. L. 99–603, title II, §203(a), Nov. 6, 1986, 100 Stat. 3405; Pub. L. 100–525, §2(j), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title VI, §603(a)(14), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §413(e), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §308(g)(10)(C), Sept. 30, 1996, 110 Stat. 3009–625.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (d). Pub. L. 104–208 substituted "section 1227(a)(4)(B)" for "section 1251(a)(4)(B)".
@@ -28,6 +30,8 @@ Pub. L. 104–132 inserted "and is not deportable under section 1251(a)(4)(B) of
 
 <b>1958</b>—Pub. L. 85–616 permitted record of lawful admission to be made in the case of aliens who entered the United States prior to June 28, 1940, authorized the record to be made as of the date of the approval of the application for those who entered subsequent to July 1, 1924, and prior to June 28, 1940, and substituted provisions requiring the alien to satisfy the Attorney General that he is not inadmissible under section 1182(a) of this title insofar as it relates to criminals, procurers and other immoral persons, subversives, violators of the narcotic laws or smugglers of aliens for provisions which required the alien to satisfy the Attorney General that he was not subject to deportation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendments
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
@@ -40,7 +44,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

@@ -56,6 +56,8 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 (Pub. L. 96–70, title I, §1302, Sept. 27, 1979, 93 Stat. 477; Pub. L. 99–195, §1(a), Dec. 23, 1985, 99 Stat. 1349; Pub. L. 100–203, title V, §5422(a), (b)(1), Dec. 22, 1987, 101 Stat. 1330–271, 1330–272; Pub. L. 100–705, §9, Nov. 19, 1988, 102 Stat. 4687; Pub. L. 102–484, div. C, title XXXV, §3521(b)(1), Oct. 23, 1992, 106 Stat. 2657; Pub. L. 104–106, div. C, title XXXV, §3525, Feb. 10, 1996, 110 Stat. 640; Pub. L. 104–201, div. C, title XXXV, §3539, Sept. 23, 1996, 110 Stat. 2865; Pub. L. 105–85, div. C, title XXXV, §3528, Nov. 18, 1997, 111 Stat. 2069; Pub. L. 108–309, §121, Sept. 30, 2004, 118 Stat. 1140.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979 which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
@@ -98,13 +100,15 @@ Subsec. (e). Pub. L. 100–203, §5422(a), added subsec. (e), directing Appropri
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–195 provided for deposit of interest receipts as miscellaneous receipts.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–705 effective Oct. 1, 1988, see section 10 of Pub. L. 100–705, set out as a note under section 3612 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendments made by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
+Pub. L. 100–203, title V, §5429, Dec. 22, 1987, 101 Stat. 1330–275, provided that: "This part and the amendmentsmade by this part \[part 2 (§§5421–5429) of subtitle E of title V of Pub. L. 100–203, enacting section 3714 of this title, amending this section, sections 3683, 3711, 3713, 3751, 3753, 3754, 3792, and 3793 of this title, and section 8348 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 3601 of this title\] take effect on January 1, 1988."
 
 #### Effective Date of 1985 Amendment
 

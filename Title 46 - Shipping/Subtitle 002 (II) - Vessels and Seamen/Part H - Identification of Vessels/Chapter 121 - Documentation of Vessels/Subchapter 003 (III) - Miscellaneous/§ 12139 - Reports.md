@@ -24,7 +24,7 @@ Tonnage.—The tonnage referred to in paragraph (1) is—
 
 Timing of submission.—If the rebuilding is completed in the United States, the report shall be submitted when the rebuilding is completed. If the rebuilding is completed outside the United States, the report shall be submitted when the vessel first arrives at a port in the customs territory of the United States.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120 Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(2), (b), Jan. 28, 2008, 122 Stat. 600, 601.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(2), (b), Jan. 28, 2008, 122 Stat. 600, 601.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Historical and Revision Notes
 July 14, 1956, ch. 600, §2 (1st sentence), 70 Stat. 544; Pub. L. 86–583, §2, July 5, 1960, 74 Stat. 321; Pub. L. 104–324, title VII, §707, Oct. 19, 1996, 110 Stat. 3934.
 
 In subsection (b)(1), the word "Secretary" is substituted for "Secretary of the Treasury", thereby incorporating the definition of "Secretary" in section 2101 of title 46. The functions of the Secretary of the Treasury relating to the Coast Guard previously were transferred to the Secretary of Transportation by section 6(b) of the Department of Transportation Act (Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 938). The Coast Guard and the functions of the Secretary of Transportation relating to the Coast Guard were again transferred to the Department of Homeland Security by section 888(b) of the Homeland Security Act of 2002 (Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135). The words "rebuilt outside the United States" are substituted for "and any part of the rebuilding, including the construction of major components of the hull and superstructure of the vessel, is not effected within the United States, its Territories (not including trust territories) or its possessions" because of the definition of "rebuilt" in section 12101, and the definition of "United States" in chapter 1, of the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

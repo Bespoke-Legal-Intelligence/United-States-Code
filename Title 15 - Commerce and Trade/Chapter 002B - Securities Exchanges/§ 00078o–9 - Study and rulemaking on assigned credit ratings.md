@@ -52,7 +52,7 @@ Section 941, referred to in subsec. (a), means section 941 of Pub. L. 111–203.
 
 Section 15E of the Securities Exchange Act of 1934, referred to in subsec. (d)(1), is classified to section 78o–7 of this title.
 
-H.R. 4173, referred to in subsec. (d)(1), became Pub. L. 111–203. As enacted, section 939D of Pub. L. 111–203 did not add a subsec. (w) to section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) but enacted provisions set out as a note below. For the provisions of section 15E(w) of the Securities Exchange Act of 1934, as that provision would have been added by section 939D of H.R. 4173 (111th Congress), as passed by the Senate on May 20, 2010, see 156 Cong. Rec. 80 at pp. S4338, S4339 (daily ed. May 25, 2010).
+H.R. 4173, referred to in subsec. (d)(1), became Pub. L. 111–203. As enacted, section 939D of Pub. L. 111–203 did not add a subsec. (w) to section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7) but enacted provisions set out as a note below. For the provisions of section 15E(w) of the Securities Exchange Act of 1934, as that provision would have been added by section 939D of H.R. 4173 (111th Congress), as passed by the Senate on May 20, 2010, see Cong. Rec., vol. 156, pt. 7, pp. 9188–9190, May 25, 2010.
 
 #### Codification
 

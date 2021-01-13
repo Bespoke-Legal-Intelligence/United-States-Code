@@ -122,7 +122,9 @@ As used in this section, the terms "insured System bank" and "bank" include each
 
 The Corporation shall not exercise any authority under this section during the 5-year period prior to January 1, 1993.
 
-(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989,103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
+(Pub. L. 92–181, title V, §5.61, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1616; amended Pub. L. 101–220, §6(b)(4), Dec. 12, 1989, 103 Stat. 1880; Pub. L. 101–624, title XVIII, §1836(b), Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §217, Feb. 10, 1996, 110 Stat. 179.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -139,6 +141,8 @@ Subsec. (a)(3)(B) to (F). Pub. L. 104–105, §217(a), added subpars. (B) to (E)
 <b>1990</b>—Subsec. (f). Pub. L. 101–624 substituted "prior to January 1, 1993" for "beginning on the date of the enactment of this part".
 
 <b>1989</b>—Subsec. (e). Pub. L. 101–220 inserted "and other association making direct loans under the authority provided under section 2279b of this title," after "production credit association".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

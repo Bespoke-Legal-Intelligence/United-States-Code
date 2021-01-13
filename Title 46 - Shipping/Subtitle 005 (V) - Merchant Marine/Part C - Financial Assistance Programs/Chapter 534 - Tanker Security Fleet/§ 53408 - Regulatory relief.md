@@ -1,0 +1,28 @@
+### §53408. Regulatory relief
+
+(a)
+
+Operation in Foreign Commerce.—A program participant for a vessel included in an operating agreement under this chapter may operate the vessel in the foreign commerce of the United States without restriction.
+
+(b)
+
+Other Restrictions.—The restrictions of section 55305(a) of this title concerning the building, rebuilding, or documentation of a vessel in a foreign country shall not apply to a vessel for any day the operator of the vessel is receiving payments for the operation of that vessel under an operating agreement under this chapter.
+
+(c)
+
+Telecommunications Equipment.—The telecommunications and other electronic equipment on an existing vessel that is redocumented under the laws of the United States for operation under an operating agreement under this chapter shall be deemed to satisfy all Federal Communications Commission equipment approval requirements, if—
+
+&emsp;(1) such equipment complies with all applicable international agreements and associated guidelines as determined by the country in which the vessel was documented immediately before becoming documented under the laws of the United States;
+
+&emsp;(2) that country has not been identified by the Secretary as inadequately enforcing international regulations as to that vessel; and
+
+&emsp;(3) at the end of its useful life, such equipment shall be replaced with equipment that meets Federal Communications Commission equipment approval standards.
+
+(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4417.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date
+
+Section effective upon completion and submission to Congress of report on United States-flagged fuel tanker vessel capacity and upon publication of certification related to program for United States-flagged fuel tanker vessels, see section 3511(d) of Pub. L. 116–283, set out as a note under section 53401 of this title.
+

@@ -22,13 +22,17 @@ Confidentiality of Test Results.—The results of tests performed with services 
 
 (c)
 
-Fees.—Fees made available under subsections (a)(3) and (a)(4) shall be established in the regulations prescribed pursuant to subsection (a). Such fees may not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
+Fees.—Fees made available under subsections (a)(3) and (a)(4) shall be established inthe regulations prescribed pursuant to subsection (a). Such fees may not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
 
 (d)
 
 Use of Fees.—Fees received under subsections (a)(3) and (a)(4) may be credited to the appropriations or other funds of the activity making such services available.
 
 (Added Pub. L. 103–160, div. A, title VIII, §822(b)(1), Nov. 30, 1993, 107 Stat. 1705, §2541; renumbered §2539b, Pub. L. 103–337, div. A, title X, §1070(a)(13)(A), Oct. 5, 1994, 108 Stat. 2856; amended Pub. L. 103–355, title III, §3022, Oct. 13, 1994, 108 Stat. 3333; Pub. L. 104–106, div. A, title VIII, §804, div. D, title XLIII, §4321(a)(8), Feb. 10, 1996, 110 Stat. 390, 671; Pub. L. 106–65, div. A, title X, §1066(a)(23), Oct. 5, 1999, 113 Stat. 771; Pub. L. 110–181, div. A, title II, §232, Jan. 28, 2008, 122 Stat. 46.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(f)(2), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after section 4891, and redesignated as section 4892 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
 
@@ -47,6 +51,10 @@ Subsec. (c). Pub. L. 104–106, §804, inserted "and indirect" after "recoup the
 <b>1994</b>—Pub. L. 103–337 renumbered section 2541 of this title as this section.
 
 Subsec. (a). Pub. L. 103–355, §3022, as amended by Pub. L. 104–106, §4321(a)(8), inserted "rent," after "sell," in par. (1) and ", rent," after "sell" in par. (2).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1996 Amendment
 

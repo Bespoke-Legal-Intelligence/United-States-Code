@@ -14,7 +14,7 @@ As used in this chapter the term—
 
 &emsp;(d) "juvenile delinquency" means—
 
-&emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile which would have been a crime if committed by an adult; or
+&emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile whichwould have been a crime if committed by an adult; or
 
 &emsp;&emsp;(2) noncriminal acts committed by a juvenile for which supervision or treatment by juvenile authorities of the United States, a State thereof, or of the foreign country concerned is authorized;
 
@@ -34,11 +34,15 @@ As used in this chapter the term—
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1213; amended Pub. L. 98–473, title II, §223(m)(1), Oct. 12, 1984, 98 Stat. 2029.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (f). Pub. L. 98–473 inserted "including a term of supervised release pursuant to section 3583" after "supervision".
 
 Subsec. (g). Pub. L. 98–473 substituted "under which" for "to a penalty of imprisonment the execution of which is suspended" and "a" for "the suspended" before "penalty".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

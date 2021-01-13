@@ -130,7 +130,7 @@ If a United States person directly or indirectly transfers property to a foreign
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, titleI, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823; Pub. L. 111–147, title V, §§531, 532(a), 533(c), Mar. 18, 2010, 124 Stat. 113, 114.)
+(Added Pub. L. 94–455, title X, §1013(a), Oct. 4, 1976, 90 Stat. 1614; amended Pub. L. 96–603, §2(b), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 104–188, title I, §1903(a)–(f), Aug. 20, 1996, 110 Stat. 1909, 1910; Pub. L. 105–34, title XVI, §1601(i)(2), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6018(g), July 22, 1998, 112 Stat. 823; Pub. L. 111–147, title V, §§531, 532(a), 533(c), Mar. 18, 2010, 124 Stat. 113, 114.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Amendment by section 6018 of Pub. L. 105–206 effective as if included in the p
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

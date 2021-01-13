@@ -4,9 +4,9 @@
 
 &emsp;(1) make contracts;
 
-&emsp;(2) sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or inequity to which the Board shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy. The Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Board is a party in its capacity as liquidating agent of a State-chartered credit union and which involves only the rights or obligations of members, creditors, and such State credit union under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Board or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board shall designate an agent upon whom service of process may be made in any State, territory, or jurisdiction in which any insured credit union is located;
+&emsp;(2) sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Board shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy. The Board may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Board is a party in its capacity as liquidating agent of a State-chartered credit union and which involves only the rights or obligations of members, creditors, and such State credit union under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Board or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board shall designate an agent upon whom service of process may be made in any State, territory, or jurisdiction in which any insured credit union is located;
 
-&emsp;(3) pursue to final disposition by way of compromise or otherwise claims both for and against the United States (other than tort claims, claims involving administrative expenses, and claims in excess of $5,000 arising out of contracts for construction, repairs, and the purchase of supplies and materials) which are not in litigation and have not been referred to the Department of Justice;
+&emsp;(3) pursue to final disposition by way of compromise or otherwise claims both for and against the United States (other than tort claims, claims involving administrative expenses, and claims in excess of $5,000 arising out of contracts for construction, repairs, andthe purchase of supplies and materials) which are not in litigation and have not been referred to the Department of Justice;
 
 &emsp;(4) to appoint such officers and employees as are not otherwise provided for in this chapter, to define their duties, fix their compensation, require bonds of them and fix the penalty thereof, and to dismiss at pleasure such officers or employees. Nothing in this chapter or any other Act shall be construed to prevent the appointment and compensation as an officer or employee of the Administration of any officer or employee of the United States in any board, commission, independent establishment, or executive department thereof;
 
@@ -38,6 +38,8 @@
 
 (June 26, 1934, ch. 750, title II, §209, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, §706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–351, title VII, §726(24), Oct. 13, 2006, 120 Stat. 2003; Pub. L. 115–174, title II, §212, May 24, 2018, 132 Stat. 1319.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9105 of title 31, referred to in subsec. (b)(3), was amended generally by Pub. L. 101–576, title III, §305, Nov. 15, 1990, 104 Stat. 2853, and as so amended no longer directs audits to be conducted in accordance with principles and procedures applicable to commercial corporate transactions.
@@ -59,6 +61,8 @@ In subsec. (b)(2), (3), "chapter 91 of title 31" and "section 9105 of title 31" 
 <b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing, "its" for "his", and "it" for "he" and "him", where appropriate.
 
 <b>1975</b>—Subsec. (b)(2). Pub. L. 93–604 substituted "audited by the General Accounting Office" for "audited annually by the General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

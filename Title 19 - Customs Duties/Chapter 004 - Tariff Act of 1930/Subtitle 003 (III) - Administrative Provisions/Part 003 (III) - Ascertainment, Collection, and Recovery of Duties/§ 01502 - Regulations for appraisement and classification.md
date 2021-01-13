@@ -28,7 +28,7 @@ Provisions almost identical with those in subsec. (c) of this section were conta
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182, §640(1), inserted "(including regulations establishing procedures for the issuance of binding rulings prior to the entry of the merchandise concerned)" after "law", substituted "ports of entry. The Secretary" for "ports of entry, and", inserted "or classifying" after "appraising" in two places, and substituted "any port, and may direct any customs officer at any port to review entries of merchandise filed at any other port" for "such port".
 
-Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) whichread as follows: "No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement."
+Subsec. (b). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, a final decision of the United States Court of International Trade, or a final decision of a binational panel pursuant to article 1904 of the United States-Canada Free-Trade Agreement."
 
 Pub. L. 103–182, §412(a), which directed the insertion of "the North American Free Trade Agreement or" before "the United States-Canada Free-Trade Agreement", could not be executed because the words "the United States-Canada Free-Trade Agreement" did not appear in subsec. (b) subsequent to amendment by Pub. L. 103–182, §640(2), effective Dec. 8, 1993. See above.
 
@@ -42,9 +42,9 @@ Subsec. (c). Pub. L. 103–182, §640(2), redesignated subsec. (c) as (b).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by section 412(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review, that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3431 of this title.
 
-Amendment by section 640 of Pub. L. 103–182 effective Dec. 8, 1993, see section 692 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 640 of Pub. L. 103–182 effective Dec. 8, 1993, see section 692 of Pub. L. 103–182, formerly set out as a note under section 58c of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -65,8 +65,4 @@ Functions of Secretary of the Treasury under subsec. (a) of this section, insofa
 Functions of Secretary of the Treasury under subsec. (b) of this section, with respect to functions transferred to Secretary of Commerce in section 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979, transferred to Secretary of Commerce pursuant to section 5(a)(1)(F) of Reorg. Plan No. 3 of 1979.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Effect of Termination of NAFTA Country Status
-
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
 

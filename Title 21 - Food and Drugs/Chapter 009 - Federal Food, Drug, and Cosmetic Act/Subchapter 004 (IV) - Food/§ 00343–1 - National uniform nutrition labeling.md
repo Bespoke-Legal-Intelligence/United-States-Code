@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
-&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of aState or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
+&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State formaple syrup that is of the type required by sections 341 and 343(g) of this title,
 
 &emsp;(2) any requirement for the labeling of food of the type required by section 343(c), 343(e), 343(i)(2), 343(w), or 343(x) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,
 
@@ -24,6 +24,8 @@
 
 (June 25, 1938, ch. 675, §403A, as added Pub. L. 101–535, §6(a), Nov. 8, 1990, 104 Stat. 2362; amended Pub. L. 102–108, §2(b), Aug. 17, 1991, 105 Stat. 549; Pub. L. 103–396, §3(a), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 108–282, title II, §203(c)(2), Aug. 2, 2004, 118 Stat. 908; Pub. L. 111–148, title IV, §4205(c), Mar. 23, 2010, 124 Stat. 576.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535\], referred to in subsec. (a), is set out below.
@@ -41,6 +43,8 @@ Subsec. (a)(2). Pub. L. 103–396, §3(a)(2), inserted at end "except that this 
 Subsec. (a)(3). Pub. L. 103–396, §3(a)(3), inserted at end "except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(h)(1) of this title and that is applicable to maple syrup,".
 
 <b>1991</b>—Subsec. (a)(5). Pub. L. 102–108 substituted "section 343(r)(5)(B) of this title" for "clause (B) of such section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -66,7 +70,7 @@ In general.—Except as provided in paragraph (2), the amendments made by sectio
 
 "(2)
 
-Exception.—If a State or political subdivision submits a petition under section 403A(b) of the Federal Food, Drug, and Cosmetic Act for a requirement described in section 403A(a) of such Act within 18 monthsof the date of the enactment of this Act, paragraphs (3) through (5) of such section 403A(a) shall not apply with respect to such State or political subdivision requirement until—
+Exception.—If a State or political subdivision submits a petition under section 403A(b) of the Federal Food, Drug, and Cosmetic Act for a requirement described in section 403A(a) of such Act within 18 months of the date of the enactment of this Act, paragraphs (3) through (5) of such section 403A(a) shall not apply with respect to such State or political subdivision requirement until—
 
 &emsp;"(A) 24 months after the date of the enactment of this Act, or
 

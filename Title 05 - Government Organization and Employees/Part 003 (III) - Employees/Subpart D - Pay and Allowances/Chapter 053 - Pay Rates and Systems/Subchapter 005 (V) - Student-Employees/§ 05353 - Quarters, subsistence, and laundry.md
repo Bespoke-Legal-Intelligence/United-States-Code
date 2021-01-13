@@ -22,9 +22,13 @@ The section is restated for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–623 inserted ", and the District of Columbia Council with respect to the government of the District of Columbia," after "head of the agency concerned".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

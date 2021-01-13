@@ -96,7 +96,7 @@ In addition to the required activities described in subsection (a) and the permi
 
 &emsp;(2) Providing professional development opportunities to individuals working with eligible cohorts of students described in section 1070a–22(d)(1)(A) of this title.
 
-&emsp;(3) Providing administrative support to help build the capacity of eligible entities described in section 1070a–21(c)(2) of this title tocompete for and manage grants awarded under this division.
+&emsp;(3) Providing administrative support to help build the capacity of eligible entities described in section 1070a–21(c)(2) of this title to compete for and manage grants awarded under this division.
 
 &emsp;(4) Providing strategies and activities that align efforts in the State to prepare eligible students to attend and succeed in postsecondary education, which may include the development of graduation and career plans.
 

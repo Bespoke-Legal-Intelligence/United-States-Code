@@ -46,7 +46,7 @@ Management.—Except as otherwise provided in this section, the Secretary shall 
 
 &emsp;"(4)
 
-Royalties.—Notwithstanding the Mineral Leasing Act (30 U.S.C. 181 et seq.), the royalty rate for leases issued pursuant to this section shall be 16.67 percent.
+Royalties.—Notwithstanding the Mineral Leasing Act (30 U.S.C. 181 et seq.), the royalty ratefor leases issued pursuant to this section shall be 16.67 percent.
 
 &emsp;"(5)
 

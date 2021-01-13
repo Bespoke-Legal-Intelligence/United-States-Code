@@ -2,7 +2,7 @@
 
 (a) The holder of a claim or interest allowed under section 502 of this title may accept or reject a plan. If the United States is a creditor or equity security holder, the Secretary of the Treasury may accept or reject the plan on behalf of the United States.
 
-(b) For the purposes of subsections (c) and (d) of this section, a holder of a claim or interest that has accepted or rejected the plan before thecommencement of the case under this title is deemed to have accepted or rejected such plan, as the case may be, if—
+(b) For the purposes of subsections (c) and (d) of this section, a holder of a claim or interest that has accepted or rejected the plan before the commencement of the case under this title is deemed to have accepted or rejected such plan, as the case may be, if—
 
 &emsp;(1) the solicitation of such acceptance or rejection was in compliance with any applicable nonbankruptcy law, rule, or regulation governing the adequacy of disclosure in connection with such solicitation; or
 
@@ -36,7 +36,7 @@ Prepetition solicitation is a common practice under chapter XI \[chapter 11 of f
 
 Subsection (c) specifies the required amount and number of acceptances for a class of creditors. A class of creditors has accepted a plan if at least two-thirds in amount and more than one-half in number of the allowed claims of the class that are voted are cast in favor of the plan. The amount and number are computed on the basis of claims actually voted for or against the plan, not as under chapter X \[chapter 10 of former title 11\] on the basis of the allowed claims in the class. Subsection (f) excludes from all these calculations claims not voted in good faith, and claims procured or solicited not in good faith or not in accordance with the provisions of this title.
 
-Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informed judgment about the plan may differ among classes. A class whose rights under the plan center on a particular fund or asset would have no use for an extensive description of other matters that could not affect them.
+Subsection (c) requires that the same disclosure statement be transmitted to each member of a class. It recognizes that the information needed for an informed judgment about the plan may differ among classes. A class whose rights under the plan center on a particularfund or asset would have no use for an extensive description of other matters that could not affect them.
 
 Subsection (d) relieves the court of the need to follow any otherwise applicable Federal or state law in determining the adequacy of the information contained in the disclosure statement submitted for its approval. It authorizes an agency or official, Federal or state, charged with administering cognate laws so pre-empted to advise the court on the adequacy of proposed disclosure statement. But they are not authorized to appeal the court's decision.
 
@@ -48,6 +48,8 @@ Subsection (e) provides that no acceptances are required from any class whose cl
 
 Subsection (g) provides that any class denied participation under the plan is conclusively deemed to have rejected the plan. There is obviously no need to submit a plan for a vote by a class that is to receive nothing. But under subsection (g) the excluded class is like a class that has not accepted, and is a dissenting class for purposes of confirmation under section 1130.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–353, §510(a), substituted "1125(a)" for "1125(a)(1)".
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 98–353, §510(b), inserted a comma after "such interests"
 Subsec. (f). Pub. L. 98–353, §510(c), substituted ", and each holder of a claim or interest of such class, are conclusively presumed" for "is deemed", "solicitation" for "solicititation", and "interests" for "interest".
 
 Subsec. (g). Pub. L. 98–353, §510(d), substituted "receive or retain any property" for "any payment or compensation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

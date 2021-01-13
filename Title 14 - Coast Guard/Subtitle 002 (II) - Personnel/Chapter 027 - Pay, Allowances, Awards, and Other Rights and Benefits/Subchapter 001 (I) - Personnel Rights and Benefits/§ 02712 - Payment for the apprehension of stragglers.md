@@ -14,6 +14,8 @@ The limitation as to amount that could be offered is removed.
 
 The provision concerning money due the deserter is eliminated. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 644 of this title as this section.

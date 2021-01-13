@@ -2,13 +2,13 @@
 
 #### (a) Age; voluntariness; length of service; computation of retired pay
 
-(1) A commissioned officer of the Service shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
+(1) A commissioned officer of the Regular Corps shall, if he applies for retirement, be retired on or after the first day of the month following the month in which he attains the age of sixty-four years. This paragraph does not permit or require the involuntary retirement of any individual because of the age of the individual.
 
-(2) A commissioned officer of the Service may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
+(2) A commissioned officer of the Regular Corps may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
 
-(3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
+(3) Any commissioned officer of the Regular Corps who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
 
-(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
+(4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was on active duty with the Regular Corps on the day preceding such retirement shall be entitled to receive retired pay calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
 
 &emsp;(i) his years of active service (determined without regard to subsection (d)) as a member of a uniformed service; plus
 
@@ -16,9 +16,9 @@
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
-> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting "40 per centum" for "50 per centum" each place the term appears.
+> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e)), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from theRegular Corps, it shall, instead, be 50 per centum of such pay, (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay, and (E) in the case of any officer who participates in the modernized retirement system by reason of section 1409(b) of title 10 (including pursuant to an election under subparagraph (B) of that section), subparagraph (C) shall be applied by substituting "40 per centum" for "50 per centum" each place the term appears.
 
-(5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Service may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
+(5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Regular Corps may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
 
 (6) The retired pay of a commissioned officer retired under this subsection who first became a member of a uniformed service after September 7, 1980, is determined by multiplying—
 
@@ -34,7 +34,7 @@ For purposes of subsection (a), the basic pay of the highest grade to which a co
 
 #### (c) Recall to active duty
 
-A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps or an officer of the Reserve Corps entitled to retired pay under subsection (a), be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular or Reserve Corps, be recalled to active duty at any time with his consent.
+A commissioned officer, retired for reasons other than for failure of promotion to the senior grade, may (1) if an officer of the Regular Corps entitled to retired pay under subsection (a) or under section 213a(a)(19) of this title, be involuntarily recalled to active duty during such times as the Commissioned Corps constitutes a branch of the land or naval forces of the United States, and (2) if an officer of either the Regular Corps or Ready Reserve Corps, be recalled to active duty at any time with his consent.
 
 #### (d) "Active service" defined
 
@@ -42,7 +42,7 @@ The term "active service", as used in subsection (a), includes:
 
 &emsp;(1) all active service in any of the uniformed services;
 
-&emsp;(2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service only the last five years thereof may be included;
+&emsp;(2) active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service only the last five years thereof may be included;
 
 &emsp;(3) all active service (other than service included under the preceding provisions of this subsection) which is creditable for retirement purposes under laws governing the retirement of members of any of the uniformed services; and
 
@@ -54,9 +54,9 @@ For the purpose of determining the number of years by which a percentage of the 
 
 #### (f) Retirement or separation for physical disability
 
-For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Service shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Service, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular or Reserve Corps of the Service.
+For purposes of retirement or separation for physical disability under chapter 61 of title 10, a commissioned officer of the Regular Corps shall be credited, in addition to the service described in section 1208(a)(2) of that title, with active service with the Public Health Service, other than as a commissioned officer, which the Surgeon General determines is comparable to service performed by commissioned officers of the Regular Corps, except that, if there are more than five years of such service, only the last five years thereof may be so credited. For such purposes, such section 1208(a)(2) shall be applicable to officers of the Regular Corps.
 
-(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70 Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464; Pub. L. 114–92, div. A, title VI, §631(c)(4), Nov. 25, 2015, 129 Stat. 845.)
+(July 1, 1944, ch. 373, title II, §211, 58 Stat. 688; Feb. 28, 1948, ch. 83, §7, 62 Stat. 46; Oct. 12, 1949, ch. 681, title V, §521(d), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §5(a)–(c), 70 Stat. 117; Aug. 10, 1956, ch. 1041, §5, 70A Stat. 620; Pub. L. 86–415, §4, Apr. 8, 1960, 74 Stat. 33; Pub. L. 91–253, §1, May 14, 1970, 84 Stat. 216; Pub. L. 96–76, title III, §308, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(2), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 97–25, title III, §303(b), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 98–94, title IX, §§922(d), 923(f), Sept. 24, 1983, 97 Stat. 642, 643; Pub. L. 99–348, title II, §207(b), July 1, 1986, 100 Stat. 702; Pub. L. 101–509, title V, §529 \[title III, §304(b)\], Nov. 5, 1990, 104 Stat. 1427, 1464; Pub. L. 114–92, div. A, title VI, §631(c)(4), Nov. 25, 2015, 129 Stat. 845; Pub. L. 116–136, div. A, title III, §3214(c), Mar. 27, 2020, 134 Stat. 373.)
 
 #### Codification
 
@@ -64,13 +64,23 @@ In subsec. (a)(4), "subchapter III of chapter 83 of title 5" substituted for "th
 
 #### Amendments
 
+<b>2020</b>—Pub. L. 116–136, §3214(c)(1), substituted "the Regular Corps" for "the Service" wherever appearing except in subsec. (c)(1), where "the Regular Corps" already appeared.
+
+Subsec. (a)(4). Pub. L. 116–136, §3214(c)(2), struck out "(in the case of an officer in the Reserve Corps)" after "who was" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 116–136, §3214(c)(3)(A), struck out "or an officer of the Reserve Corps" after "Regular Corps" and inserted "or under section 213a(a)(19) of this title" after "subsection (a)".
+
+Subsec. (c)(2). Pub. L. 116–136, §3214(c)(3)(B), substituted "Regular Corps or Ready Reserve Corps" for "Regular or Reserve Corps".
+
+Subsec. (f). Pub. L. 116–136, §3214(c)(4), struck out "the Regular or Reserve Corps of" after "applicable to officers of".
+
 <b>2015</b>—Subsec. (a)(4). Pub. L. 114–92, §631(c)(4)(A), substituted "calculated by multiplying the retired pay base determined under section 1406 of title 10 by the retired pay multiplier determined under section 1409 of such title for the numbers of years of service credited to the officer under this paragraph" for "at the rate of 2½ per centum of the basic pay of the highest grade held by him as such officer".
 
 Subsec. (a)(4)(E). Pub. L. 114–92, §631(c)(4)(B), added subpar. (E).
 
 <b>1990</b>—Subsec. (d)(4). Pub. L. 101–509 added par. (4).
 
-<b>1986</b>—Subsec. (a)(6). Pub. L. 99–348 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"In computing retired pay under paragraph (4) or (5) in the case of any commissioned officer who first became a member of a uniformed service on or after September 8, 1980, the monthly retired pay base computed under section 1407(h) of title 10 shall be used in lieu of using the basic pay of the highest grade held by him as such officer."
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–348 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "In computing retired pay under paragraph (4) or (5) in the case of any commissioned officer who first became a member of a uniformed service on or after September 8, 1980, the monthly retired pay base computed under section 1407(h) of title 10 shall be used in lieu of using the basic pay of the highest grade held by him as such officer."
 
 <b>1983</b>—Subsec. (a)(7). Pub. L. 98–94, §922(d), added par. (7).
 
@@ -142,7 +152,7 @@ Pub. L. 91–253, §2, May 14, 1970, 84 Stat. 217, provided that: "The amendment
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–415, §8(b), Apr. 8, 1960, 74 Stat. 36, provided that: "The amendment made by section 4 \[amending this section\] shall become effective on the date of enactment of this Act \[Apr. 8, 1960\] in the case of commissioned officers of the Regular Corps of the Public Health Service, and on July 1, 1960, in the case of commissioned officers of the Reserve Corps of the Public Health Service."
+Pub. L. 86–415, §8(b), Apr. 8, 1960, 74 Stat. 36, provided that: "The amendment made by section 4 \[amendingthis section\] shall become effective on the date of enactment of this Act \[Apr. 8, 1960\] in the case of commissioned officers of the Regular Corps of the Public Health Service, and on July 1, 1960, in the case of commissioned officers of the Reserve Corps of the Public Health Service."
 
 #### Effective Date of 1949 Amendment
 
@@ -152,7 +162,7 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 
 Pub. L. 86–415, §8(c), (d), Apr. 8, 1960, 74 Stat. 36, provided that:
 
-"(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[42 U.S.C. 212\],as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
+"(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act \[42 U.S.C. 212\], as amended by this Act, or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
 "(d) The limitation under subsection (f) of section 211 of the Public Health Service Act \[42 U.S.C. 212(f)\], as amended by this Act, on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960."
 
@@ -162,11 +172,11 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
-#### Delegation of Functions
-
-Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
-
 #### Coverage Under Civil Service Retirement Act
 
 Creditable service for purposes of the Civil Service Retirement Act for certain commissioned officers of the Regular or Reserve Corps of the Public Health Service, see section 6(a), (b) of Pub. L. 86–415, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+
+#### Delegation of Functions
+
+Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, eff. Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 

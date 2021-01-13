@@ -28,7 +28,7 @@
 
 &emsp;(B) Federal policy therefore should encourage the development of appropriate health, educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
 
-&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support byother family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations; and
+&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations; and
 
 &emsp;(11)(A) there has been limited research concerning the societal causes and consequences of adolescent pregnancy;
 

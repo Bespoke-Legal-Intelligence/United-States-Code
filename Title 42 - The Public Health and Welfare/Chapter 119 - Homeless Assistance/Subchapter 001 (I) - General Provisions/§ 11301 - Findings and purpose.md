@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the Nation faces an immediate and unprecedented crisis due to the lack of shelterfor a growing number of individuals and families, including elderly persons, handicapped persons, families with children, Native Americans, and veterans;
+&emsp;(1) the Nation faces an immediate and unprecedented crisis due to the lack of shelter for a growing number of individuals and families, including elderly persons, handicapped persons, families with children, Native Americans, and veterans;
 
 &emsp;(2) the problem of homelessness has become more severe and, in the absence of more effective efforts, is expected to become dramatically worse, endangering the lives and safety of the homeless;
 
@@ -54,7 +54,7 @@ Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: "This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
+Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: "This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b,11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the 'Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992'."
 
 #### Short Title of 1990 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 101–645, title VI, §601, Nov. 29, 1990, 104 Stat. 4734, provided that
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: "This Act \[enacting sections 3544, 11320, and11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437o, 1437r, 1472, 1480, 1484 to 1486, 1490o, 3002, 3015, 3021, 3025 to 3027, 3031, 3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 of this title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49l, 49l–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715l, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the 'Stewart B. McKinney Homeless Assistance Amendments Act of 1988'."
+Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: "This Act \[enacting sections 3544, 11320, and 11402 of this title and sections 1583, 1791 to 1791j of Title 29, Labor, amending sections 254e, 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, 290ee–1, 503, 504, 602, 1437d, 1437f, 1437n, 1437o, 1437r, 1472, 1480, 1484 to 1486, 1490o, 3002, 3015, 3021, 3025 to 3027, 3031, 3035a, 3056e, 4013, 4121, 4822, 5302, 5304, 5306, 5318, 8103, 11304, 11313, 11318, 11319, 11352, 11361, 11373 to 11375, 11377, 11382 to 11385, 11387, 11388, 11392, 11394, 11401, 11411, 11421, 11432, 11433, 11435, 11447, 11449, 11462 to 11464, and 11501 of this title, sections 1454, 1701x, 1701z–11, 1709, 1710, 1715z–1a, 1715z–12, 1715z–20, 1717, 2805, and 2806 of Title 12, Banks and Banking, sections 1701 and 1719 of Title 15, Commerce and Trade, and sections 49, 49a, 49b, 49d to 49j, 49l, 49l–1, 1502, 1504, 1505, 1514, 1516, 1531, and 1602 of Title 29, enacting provisions set out as notes under this section and sections 256, 1437d, 1437f, 1472, 11303, 11374, 11381, 11383, 11384, 11392, 11401, and 11501 of this title, sections 1710 and 1715z–1a of Title 12, section 2661 of Title 15, and section 1501 of Title 29, and amending provisions set out as notes under sections 290aa–3, 1472, 1490m, and 4822 of this title, sections 1701z–6, 1709, 1715l, and 2802 of Title 12, and section 49 of Title 29\] may be cited as the 'Stewart B. McKinney Homeless Assistance Amendments Act of 1988'."
 
 #### Short Title
 
@@ -112,7 +112,7 @@ Purposes.—The purposes of this division \[see Short Title of 2009 Amendment no
 
 #### References to Stewart B. McKinney Homeless Assistance Act
 
-Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Stewart B. McKinney Homeless Assistance Act shall be deemed to be a reference to the 'McKinney-Vento Homeless Assistance Act'."
+Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States tothe Stewart B. McKinney Homeless Assistance Act shall be deemed to be a reference to the 'McKinney-Vento Homeless Assistance Act'."
 
 #### Innovative Homeless Initiatives Demonstration Program
 

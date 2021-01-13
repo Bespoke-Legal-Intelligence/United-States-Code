@@ -8,7 +8,7 @@ Briefings Required.—The Secretary of Defense shall provide to the congressiona
 
 Elements.—Each briefing under subsection (a) shall include each of the following:
 
-&emsp;(1) A global update on activity within each geographic combatant command and how suchactivity supports the respective theater campaign plan.
+&emsp;(1) A global update on activity within each geographic combatant command and how such activity supports the respective theater campaign plan.
 
 &emsp;(2) An overview of authorities and legal issues, including limitations.
 

@@ -38,6 +38,8 @@ In subsection (b), the words "The Administrator shall transmit an annual report"
 
 In subsection (b), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 421(f) of the National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (a)(2), is section 421(f) of Pub. L. 115–10, which is set out as a note under section 20301 of this title.
@@ -47,6 +49,8 @@ Section 421(f) of the National Aeronautics and Space Administration Transition A
 <b>2017</b>—Subsec. (a). Pub. L. 115–10, §417(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "It is the policy of the United States to possess the capability for human access to space on a continuous basis."
 
 Subsec. (b). Pub. L. 115–10, §417(2), substituted "Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion" for "Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the progress being made toward developing the Crew Exploration Vehicle and the Crew Launch Vehicle".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -96,7 +100,7 @@ Termination of office.—The office established under paragraph (1) shall termin
 
 Submission.—Not later than 180 days after the date of enactment of this Act \[Oct. 15, 2008\], NASA shall provide a copy of the plan required by paragraph (1) to the Congress."
 
-Pub. L. 110–161, div. B, title III, Dec. 26, 2007, 121 Stat. 1919, provided that: "The Administrator of the National Aeronautics and Space Administration shall prepare a strategy for minimizing job losses when the National Aeronautics and Space Administration transitions from the Space Shuttle to a successor human-rated space transport vehicle. This strategy shall include: (1) specific initiatives that the National Aeronautics and Space Administration has undertaken, or plans to undertake, to maximize the utilization of existing civil service and contractor workforces at each of the affected Centers; (2) efforts to equitably distribute tasks and workload between the Centers to mitigate the brunt of job losses being borne by only certain Centers; (3) new workload, tasks, initiatives, and missions being secured for the affected Centers; and (4) overall projections of future civil service and contractor workforce levels at the affected Centers. The Administrator shall transmit this strategy to Congress not later than 90 days after the date of enactment of this Act \[Dec. 26, 2007\]. The Administrator shall update and transmit to Congress this strategy not less than every six months thereafter until the successor human-rated space transport vehicle is fully operational."
+Pub. L. 110–161, div. B, title III, Dec. 26, 2007, 121 Stat. 1919, provided that: "The Administrator of the National Aeronautics and Space Administration shall prepare a strategy for minimizing job losses when the National Aeronautics and Space Administration transitions from the Space Shuttle to a successor human-rated space transport vehicle. This strategy shall include: (1) specific initiatives that the National Aeronautics and Space Administration has undertaken, or plans to undertake, to maximize the utilization of existing civil service and contractor workforces at each of the affected Centers; (2) efforts to equitably distribute tasksand workload between the Centers to mitigate the brunt of job losses being borne by only certain Centers; (3) new workload, tasks, initiatives, and missions being secured for the affected Centers; and (4) overall projections of future civil service and contractor workforce levels at the affected Centers. The Administrator shall transmit this strategy to Congress not later than 90 days after the date of enactment of this Act \[Dec. 26, 2007\]. The Administrator shall update and transmit to Congress this strategy not less than every six months thereafter until the successor human-rated space transport vehicle is fully operational."
 
 Pub. L. 109–155, title V, §502, Dec. 30, 2005, 119 Stat. 2928, provided that:
 

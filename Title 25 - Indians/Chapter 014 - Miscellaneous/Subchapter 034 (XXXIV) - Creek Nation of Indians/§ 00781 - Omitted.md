@@ -1,5 +1,7 @@
 ### §781. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 1, 1955, ch. 444, §2, 69 Stat. 431, which authorized the Secretary of the Interior to complete allotment equalization payments and to distribute certain judgment funds, was omitted from the Code as being of special and not general application.

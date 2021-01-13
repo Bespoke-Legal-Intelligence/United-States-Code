@@ -20,6 +20,8 @@ To the extent that any law, rule, regulation, or ordinance of the District of Co
 
 (Pub. L. 96–8, §6, Apr. 10, 1979, 93 Stat. 17.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under section 3301 of this title.

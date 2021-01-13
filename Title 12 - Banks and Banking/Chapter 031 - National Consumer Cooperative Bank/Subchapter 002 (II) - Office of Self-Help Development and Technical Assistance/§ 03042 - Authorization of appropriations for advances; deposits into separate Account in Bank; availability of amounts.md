@@ -4,9 +4,13 @@ There are hereby authorized to be appropriated to the Office for the purpose of 
 
 (Pub. L. 95–351, title II, §202, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, §395(b)(1), Aug. 13, 1981, 95 Stat. 438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, and the next two succeeding fiscal years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

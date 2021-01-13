@@ -102,7 +102,7 @@ Amendment by Pub. L. 110–245 applicable to any individual whose expatriation d
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f)of Pub. L. 108–357, set out as a note under section 877 of this title.
+Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 #### Effective Date
 

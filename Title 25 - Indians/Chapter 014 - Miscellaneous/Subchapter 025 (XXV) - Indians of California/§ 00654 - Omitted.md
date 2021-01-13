@@ -1,5 +1,7 @@
 ### §654. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act May 18, 1928, ch. 624, §4, 45 Stat. 602, which related to the filing and verification of claims, was omitted from the Code as being of special and not general application.

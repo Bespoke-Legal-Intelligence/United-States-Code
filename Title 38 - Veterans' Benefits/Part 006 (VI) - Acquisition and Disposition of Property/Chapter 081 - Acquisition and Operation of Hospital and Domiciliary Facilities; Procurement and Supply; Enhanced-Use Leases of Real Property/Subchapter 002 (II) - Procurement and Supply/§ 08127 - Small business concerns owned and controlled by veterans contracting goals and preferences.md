@@ -16,11 +16,11 @@ Contracting Goals.—(1) In order to increase contracting opportunities for smal
 
 (b)
 
-Use of Noncompetitive Procedures for Certain Small Contracts.—For purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
+Use of Noncompetitive Procedures for Certain Small Contracts.—Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, in entering into a contract with a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities for an amount less than the simplified acquisition threshold (as defined in section 134 of title 41), a contracting officer of the Department may use procedures other than competitive procedures.
 
 (c)
 
-Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—For purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
+Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—Except as provided in subsection (d)(2), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department may award a contract to a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities using procedures other than competitive procedures if—
 
 &emsp;(1) such concern is determined to be a responsible source with respect to performance of such contract opportunity;
 
@@ -30,7 +30,37 @@ Sole Source Contracts for Contracts Above Simplified Acquisition Threshold.—Fo
 
 (d)
 
-Use of Restricted Competition.—Except as provided in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+Use of Restricted Competition.—(1) Except as provided in paragraph (2) and in subsections (b) and (c), for purposes of meeting the goals under subsection (a), and in accordance with this section, a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by veterans or small business concerns owned and controlled by veterans with service-connected disabilities will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States.
+
+(2)(A) Notwithstanding paragraph (1) and except as provided by subparagraph (B) of this paragraph, with respect to the procurement of a covered product or service, a contracting officer of the Department shall procure such product or service from a source designated under chapter 85 of title 41, and in accordance with the regulations prescribed under such chapter.
+
+(B)(i) Subject to clause (ii), subparagraph (A) shall not apply in the case of a covered product or service for which a contract was—
+
+&emsp;(I) awarded under paragraph (1) after December 22, 2006; and
+
+&emsp;(II) in effect on the day before the date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020.
+
+(ii) Clause (i) shall cease to apply to a covered product or service described in such clause upon a determination of the Secretary that when the current contract for the covered product or service is terminated or expires there is no reasonable expectation that—
+
+&emsp;(I) two or more small business concerns owned and controlled by veterans will submit offers as described in paragraph (1); and
+
+&emsp;(II) the award can be made at a fair and reasonable price that offers best value to the United States.
+
+(C) In this paragraph, the term "covered product or service" means—
+
+&emsp;(i) a product or service that—
+
+&emsp;&emsp;(I) is included on the procurement list under section 8503(a) of title 41; and
+
+&emsp;&emsp;(II) was included on such procurement list on or before December 22, 2006; or
+
+&emsp;(ii) a product or service that—
+
+&emsp;&emsp;(I) is a replacement for a product or service described under clause (i);
+
+&emsp;&emsp;(II) is essentially the same and meeting the same requirement as the product or service being replaced; and
+
+&emsp;&emsp;(III) a contracting officer determines meets the quality standards and delivery schedule of the Department.
 
 (e)
 
@@ -102,7 +132,7 @@ Applicability of Requirements to Contracts.—(1) If after December 31, 2008, th
 
 (j)
 
-Annual Reports.—Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contractingduring the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
+Annual Reports.—Not later than December 31 each year, the Secretary shall submit to Congress a report on small business contracting during the fiscal year ending in such year. Each report shall include, for the fiscal year covered by such report, the following:
 
 &emsp;(1) The percentage of the total amount of all contracts awarded by the Department during that fiscal year that were awarded to small business concerns owned and controlled by veterans.
 
@@ -114,6 +144,36 @@ Annual Reports.—Not later than December 31 each year, the Secretary shall subm
 
 (k)
 
+Limitations on Subcontracting.—(1)(A) The requirements applicable to a covered small business concern under section 46 of the Small Business Act (15 U.S.C. 657s) shall apply with respect to a small business concern owned and controlled by veterans that is awarded a contract under this section.
+
+(B) For purposes of applying the requirements of section 46 of the Small Business Act (15 U.S.C. 657s) pursuant to subparagraph (A), the term "similarly situated entity" used in such section 46 includes a subcontractor for a small business concern owned and controlled by veterans described in such subparagraph (A).
+
+(2) The Secretary may award a contract under this section only after the Secretary obtainsfrom the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
+
+&emsp;(A) specify the exact performance requirements applicable under such paragraph; and
+
+&emsp;(B) explicitly acknowledge that the certification is subject to section 1001 of title 18.
+
+(3)(A) The Director of Small and Disadvantaged Business Utilization for the Department, established pursuant to section 15(k) of the Small Business Act (15 U.S.C. 644(k)), and the Chief Acquisition Officer of the Department, established pursuant to section 1702 of title 41, shall jointly implement a process using the systems described in section 16(g)(2) of the Small Business Act (15 U.S.C. 645(g)(2)), or any other relevant systems available, to monitor compliance with this subsection.
+
+(B) The Director of Small and Disadvantaged Business Utilization and the Chief Acquisition Officer shall jointly refer any violations or suspected violations of this subsection to the Inspector General of the Department.
+
+(C) If the Secretary determines, in consultation with the Inspector General of the Department, that a small business concern that is awarded a contract under this section did not act in good faith with respect to the requirements described in paragraph (1)(A), the small business concern shall be subject to any or all of the following consequences—
+
+&emsp;(i) referral to the Debarment and Suspension Committee of the Department;
+
+&emsp;(ii) a fine under section 16(g)(1) of the Small Business Act (15 U.S.C. 645(g)(1)); and
+
+&emsp;(iii) prosecution for violating section 1001 of title 18.
+
+(D) Not later than November 30 for each of fiscal years 2021 through 2025, the Inspector General shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report for the fiscal year preceding the fiscal year during which the report is submitted that includes, for the fiscal year covered by the report—
+
+&emsp;(i) the number of referred violations and suspected violations received under subparagraph (B); and
+
+&emsp;(ii) the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
+
+(l)
+
 Definitions.—In this section:
 
 &emsp;(1) The term "small business concern" has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).
@@ -122,13 +182,139 @@ Definitions.—In this section:
 
 &emsp;(3) The term "small business concern owned and controlled by veterans with service-connected disabilities" has the meaning given the term "small business concern owned and controlled by service-disabled veterans" under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2)).
 
-(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660.)
+(Added Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, §806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, §5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, §706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, §501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, §1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660; Pub. L. 116–155, §2(a), (b), Aug. 8, 2020, 134 Stat. 698, 699; Pub. L. 116–183, §2(a), Oct. 30, 2020, 134 Stat. 895; Pub. L. 116–283, div. A, title VIII, §862(b)(1), (2), Jan. 1, 2021, 134 Stat. 3776, 3778; Pub. L. 116–315, title VII, §7009, Jan. 5, 2021, 134 Stat. 5061.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title VIII, §862(b)(1)(A), (C)–(E), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, this section is amended as follows:</i>
+
+<i>(1) in subsection (e), by striking "the Secretary under subsection (f)" and inserting "the Administrator under section 36 of the Small Business Act";</i>
+
+<i>(2) by redesignating subsections (k) (relating to limitations on subcontracting) and (l) (relating to definitions) as subsections (l) and (m), respectively;</i>
+
+<i>(3) by inserting after subsection (j) (relating to annual reports) the following new subsection:</i>
+
+<i>"(k)</i>
+
+<i>Annual Transfer for Certification Costs.—For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and section 8128 of this title. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget."</i>
+
+<i>(4) in subsection (m) (relating to definitions), as so redesignated—</i>
+
+<i>(A) by redesignating paragraphs (1), (2), and (3) as paragraphs (2), (3), and (4), respectively; and</i>
+
+<i>(B) by inserting before paragraph (2), as so redesignated, the following new paragraph:</i>
+
+&emsp;<i>"(1) The term 'Administrator' means the Administrator of the Small Business Administration."</i>
+
+<i>See 2021 Amendment notes and Effective Date of 2021 Amendment note below.</i>
+
+<i>Pub. L. 116–283, div. A, title VIII, §862(b)(1)(B), (2), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, subsection (f) of this section is amended. After such effective date, subsection (f) of this section will read as follows:</i>
+
+<i>(f)</i>
+
+<i>Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small</i><i>business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.</i>
+
+<i>(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code, (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.</i>
+
+<i>(B) For purposes of this subsection—</i>
+
+&emsp;<i>(i) the Secretary of Veterans Affairs shall—</i>
+
+&emsp;&emsp;<i>(I) verify an individual's status as a veteran or a service-disabled veteran; and</i>
+
+&emsp;&emsp;<i>(II) establish a system to permit the Administrator to access, but not alter, the verification of such status; and</i>
+
+&emsp;<i>(ii) the Administrator shall verify—</i>
+
+&emsp;&emsp;<i>(I) the status of a business concern as a small business concern; and</i>
+
+&emsp;&emsp;<i>(II) the ownership and control of such business concern.</i>
+
+<i>(C) The Administrator may not certify a concern under subsection (b) or section 36A if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).</i>
+
+<i>(3) Information maintained in the database shall be submitted on a voluntary basis by a veteran described in paragraph (1).</i>
+
+<i>(4) the Administrator shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.</i>
+
+<i>(5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.</i>
+
+<i>(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 5(i)). The decision of the Office of Hearings and Appeals shall be considered a final agency action.</i>
+
+<i>(B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.</i>
+
+<i>(ii) In this subparagraph, the term "interested party" means—</i>
+
+&emsp;<i>(I) the Secretary of Veterans Affairs or the Administrator; or</i>
+
+&emsp;<i>(II) in the case of a small business concern that is awarded a contract, the applicable contracting officer or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).</i>
+
+<i>See 2021 Amendment notes and Effective Date of 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Small Business Act, referred to in subsecs. (f)(8)(A) and (j)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to section 634(i) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
+
+The Small Business Act, referred to in subsec. (i)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to section 634(i) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 116–283, §862(b)(1)(A), substituted "the Administrator under section 36 of the Small Business Act" for "the Secretary under subsection (f)".
+
+Subsec. (f). Pub. L. 116–283, §862(b)(2), transferred subsec. (f) of this section to section 36(f) of the Small Business Act, which is classified to section 657f of Title 15, Commerce and Trade.
+
+Pub. L. 116–283, §862(b)(1)(B)(i), substituted "the Administrator" for "the Secretary" wherever appearing except in the last place it appears in par. (2)(A).
+
+Subsec. (f)(1). Pub. L. 116–283, §862(b)(1)(B)(ii), substituted "small business concerns owned and controlled by service-disabled veterans" for "small business concerns owned and controlled by veterans with service-connected disabilities".
+
+Subsec. (f)(2)(A). Pub. L. 116–283, §862(b)(1)(B)(iii)(I), inserted ", United States Code," after "title 5" and substituted "to obtain from the Secretary of Veterans Affairs" for "to access".
+
+Subsec. (f)(2)(B), (C). Pub. L. 116–283, §862(b)(1)(B)(iii)(II), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran."
+
+Subsec. (f)(3). Pub. L. 116–283, §862(b)(1)(B)(iv), substituted "a veteran described in paragraph (1)" for "such veterans".
+
+Subsec. (f)(4). Pub. L. 116–283, §862(b)(1)(B)(vii), substituted "The Administrator" for "The Secretary".
+
+Pub. L. 116–283, §862(b)(1)(B)(v), (vi), redesignated par. (5) as (4) and struck out former par. (4), which required verification of veteran ownership or control.
+
+Subsec. (f)(5). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+
+Subsec. (f)(6). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (8) as (6). Former par. (6) redesignated (5).
+
+Subsec. (f)(6)(A). Pub. L. 116–283, §862(b)(1)(B)(viii)(I), substituted "certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)" for "verify the status of the concern as a small business concern or theownership or control of the concern", "certification" for "verification", and "the Administration (as established under section 5(i))" for "the Small Business Administration (as established under section 5(i) of the Small Business Act)".
+
+Subsec. (f)(6)(B)(i). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(aa), substituted "small business concern owned and controlled by service-disabled veterans" for "small business concern owned and controlled by veterans with service-connected disabilities" and struck out "of the Small Business Administration" after "Hearings and Appeals".
+
+Subsec. (f)(6)(B)(ii)(I). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(bb)(AA), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the Secretary; or".
+
+Subsec. (f)(6)(B)(ii)(II). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(bb)(BB), substituted "the applicable contracting officer" for "the contracting officer of the Department".
+
+Subsec. (f)(6)(C). Pub. L. 116–283, §862(b)(1)(B)(viii)(III), struck out subpar. (C) which read as follows: "For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget."
+
+Subsec. (f)(7). Pub. L. 116–283, §862(b)(1)(B)(v), struck out par. (7) which read as follows: "The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern."
+
+Subsec. (f)(8). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (8) as (6).
+
+Subsec. (k). Pub. L. 116–283, §862(b)(1)(D), added subsec. (k). Former subsec. (k) redesignated (l).
+
+Pub. L. 116–183, §2(a)(2), added subsec. (k). Former subsec. (k) redesignated (l).
+
+Subsec. (k)(3)(A). Pub. L. 116–315 substituted "or any other" for "and any other".
+
+Subsec. (l). Pub. L. 116–283, §862(b)(1)(C), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
+
+Pub. L. 116–183, §2(a)(1), redesignated subsec. (k) as (l).
+
+Subsec. (m). Pub. L. 116–283, §862(b)(1)(E), added par. (1) and redesigated pars. (1) to (3) as (2) to (4), respectively.
+
+Pub. L. 116–283, §862(b)(1)(C), redesignated subsec. (l) as (m).
+
+<b>2020</b>—Subsecs. (b), (c). Pub. L. 116–155, §2(b), substituted "Except as provided in subsection (d)(2), for purposes" for "For purposes".
+
+Subsec. (d). Pub. L. 116–155, §2(a), designated existing provisions as par. (1), inserted "in paragraph (2) and" before "in subsections (b) and (c)", and added par. (2).
+
+Subsecs. (k), (l). Pub. L. 116–183 added subsec. (k) and redesignated former subsec. (k) as (l).
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–328, §1832(b)(2)(A), inserted "or a small business concern owned and controlled by veterans with service-connected disabilities" after "a small business concern owned and controlled by veterans".
 
@@ -179,6 +365,18 @@ Subsec. (f)(4). Pub. L. 111–275, §104(b)(1)(B), added par. (4) and struck out
 &emsp;"(B) In the case of a veteran who indicates a service-connected disability, verification of the service-disabled status of such veteran."
 
 <b>2008</b>—Subsecs. (j) to (l). Pub. L. 110–389 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title VIII, §862(b)(1), Jan. 1, 2021, 134 Stat. 3776, provided that the amendment made by section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–183, §2(b), Oct. 30, 2020, 134 Stat. 896, provided that: "Subsection (k) of section 8127 of title 38, United States Code, as added by subsection (a), shall apply with respect to a contract entered into after the date of the enactment of this Act \[Oct. 30, 2020\]."
+
+Pub. L. 116–155, §2(c), Aug. 8, 2020, 134 Stat. 699, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to a contract entered into on or after the date of the enactment of this Act \[Aug. 8, 2020\]."
 
 #### Effective Date of 2016 Amendment
 

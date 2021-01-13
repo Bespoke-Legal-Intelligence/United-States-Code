@@ -38,7 +38,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Review of World War I Valor Medals
 
-Pub. L. 116–92, div. A, title V, §584, Dec. 20, 2019, 133 Stat. 1412, provided that:
+Pub. L. 116–92, div. A, title V, §584, Dec. 20, 2019, 133 Stat. 1412, as amended by Pub. L. 116–283, div. A, title V, §561(a), Jan. 1, 2021, 134 Stat. 3639, provided that:
 
 "(a)
 
@@ -76,7 +76,7 @@ Waiver of Time Limitations.—An award of the Medal of Honor may be made under s
 
 "(f)
 
-Deadline.—The review under subsection (a) shall terminate not later than five years after the date of the enactment of this Act \[Dec. 20, 2019\].
+Deadline.—The review under subsection (a) shall terminate not later than six years after the date of the enactment of this Act \[Dec. 20, 2019\].
 
 "(g)
 
@@ -117,6 +117,8 @@ Secretary concerned.—The term 'Secretary concerned' means—
 &emsp;"(2)
 
 Application of definitions of origin.—If the military personnel records of a person do not reflect the person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
+
+\[Pub. L. 116–283, div. A, title V, §561(b), Jan. 1, 2021, 134 Stat. 3639, provided that: "The amendment made by subsection (a) \[amending section 584 of Pub. L. 116–92, set out above\] shall take effect as if enacted on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\] (Public Law 116–92; 133 Stat. 1281 \[1198\])."\]
 
 #### Review Regarding Award of Medal of Honor to Certain Asian American and Native American Pacific Islander War Veterans
 
@@ -172,7 +174,7 @@ Review Required.—The Secretary of the Army and the Secretary of the Navy shall
 
 "(b)
 
-Covered Jewish American War Veterans.—The Jewish American World War I veterans whose service is to be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
+Covered Jewish American War Veterans.—The Jewish American World War I veterans whose service isto be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
 
 "(c)
 
@@ -196,7 +198,7 @@ Covered Jewish American War Veterans and Hispanic American War Veterans.—The J
 
 &emsp;"(1) Any Jewish American war veteran or Hispanic American war veteran who was awarded the Distinguished Service Cross, the Navy Cross, or the Air Force Cross before the date of the enactment of this Act \[Dec. 28, 2001\].
 
-&emsp;"(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose beforethe end of the one-year period beginning on the date of the enactment of this Act.
+&emsp;"(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act.
 
 "(c)
 

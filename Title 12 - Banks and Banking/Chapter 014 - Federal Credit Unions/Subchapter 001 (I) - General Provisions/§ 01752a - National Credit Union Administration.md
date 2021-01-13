@@ -14,7 +14,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (A) Experience in financial services
 
-&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall giveconsideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
+&emsp;&emsp;In considering appointments to the Board under paragraph (1), the President shall give consideration to individuals who, by virtue of their education, training, or experience relating to a broad range of financial services, financial services regulation, or financial policy, are especially qualified to serve on the Board.
 
 #### (B) Limit on appointment of credit union officers
 
@@ -34,9 +34,11 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 #### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Theaudit shall be conducted at the place or places where the accounts of the Administration are kept.
 
 (June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -46,7 +48,7 @@ Section 1 of act June 29, 1948 transferred to the Federal Security Agency all fu
 
 Section 3 of act June 29, 1948 transferred to the Federal Security Agency, to be used in the administration of the functions, transferred, (a) all property, including office equipment, transferred to the Federal Deposit Insurance Corporation pursuant to Executive Order 9148 of April 27, 1942 \[see note under section 1751 of this title\], and in use on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\]; (b) all property, including office equipment, purchased by the Corporation for use exclusively in connection with the administration of the Federal Credit Union Act, as amended \[this chapter\], the cost of which had been charged to such functions and which were in use on the effective date of this Act; (c) all records and files pertaining exclusively to the supervision of Federal Credit Unions; and (d) all personnel employed primarily in the administration of the Federal Credit Union Act, as amended \[this chapter\], on the effective date of this Act.
 
-Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneyspayable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
+Section 4 of act June 29, 1948 transferred all funds allocated, specifically or otherwise, in the budget of the Federal Deposit Insurance Corporation for the administration of the Federal Credit Union Act, as amended \[this chapter\], during the fiscal year ending June 30, 1949, which were unexpended on the effective date of this Act \[see section 5 of act June 29, 1948, set out as a note below\], to the Federal Security Agency for use in the administration of the Federal Credit Union Act, as amended \[this chapter\]. The Corporation was to be reimbursed for the funds so transferred and for all other funds expended by it prior to the effective date of this Act in the administration of the Federal Credit Union Act, as amended \[this chapter\], in excess of fees from Federal Credit unions received by the Corporation, by deducting such amounts from the first moneys payable to the Secretary of the Treasury on account of the retirement of the stock of the Federal Deposit Insurance Corporation owned by the United States, and the Corporation was to have a charge on such stock for such amounts.
 
 Section 5 of act June 29, 1948 provided that the Act was to become effective on the thirtieth day following the date of enactment.
 
@@ -61,6 +63,8 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 <b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
 
 <b>1970</b>—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 
@@ -80,7 +84,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, required the Se
 
 #### Study of Corporate Credit Unions
 
-Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
+Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses,Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
 
 #### Study of Credit Union System by GAO
 

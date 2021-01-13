@@ -48,7 +48,7 @@ Limitation on Number of Appointments Allowable in a Calendar Year.—The authori
 
 &emsp;(2) In the case of a laboratory, agency, or organization described in subsection (b)(2), with respect to appointment authority under subsection (a)(2), the number equal to 3 percent of the total number of scientific, technical, engineering, mathematics, and technician positions in such laboratory, agency, or organization that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
-&emsp;(3) In the case of a laboratory described in subsection (b)(3), with respect to appointmentauthority under subsection (a)(3), the number equal to 10 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+&emsp;(3) In the case of a laboratory described in subsection (b)(3), with respect to appointment authority under subsection (a)(3), the number equal to 10 percent of the total number of scientific and engineering positions in such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 (d)
 
@@ -96,7 +96,11 @@ Definitions.—In this section:
 
 &emsp;(4) The term "veteran" has the meaning given that term in section 101 of title 38.
 
-(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453; amended Pub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636; Pub. L. 115–232, div. A, title XI, §1112(a), Aug. 13, 2018, 132 Stat. 2012.)
+(Added Pub. L. 114–328, div. A, title XI, §1122(a)(1), Dec. 23, 2016, 130 Stat. 2453; amendedPub. L. 115–91, div. A, title XI, §1111, Dec. 12, 2017, 131 Stat. 1636; Pub. L. 115–232, div. A, title XI, §1112(a), Aug. 13, 2018, 132 Stat. 2012.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1843(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4245, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter II of chapter 305 of this title, as added by section 1843(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of such subchapter, and redesignated as section 4111 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
 
@@ -109,4 +113,8 @@ Subsec. (d)(1)(A). Pub. L. 115–91, §1111(1)(A)(ii), which directed insertion 
 Subsec. (d)(2). Pub. L. 115–91, §1111(1)(B), designated existing provisions as subpar. (A), substituted "The laboratory positions" for "The positions", and added subpar. (B).
 
 Subsec. (f). Pub. L. 115–91, §1111(2), added pars. (1) and (3) and redesignated former pars. (1) and (2) as (2) and (4), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

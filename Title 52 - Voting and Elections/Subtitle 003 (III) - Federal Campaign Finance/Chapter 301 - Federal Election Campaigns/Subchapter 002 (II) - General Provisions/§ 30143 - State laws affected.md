@@ -8,7 +8,9 @@ Subject to subsection (b), the provisions of this Act, and of rules prescribed u
 
 Notwithstanding any other provision of this Act, a State or local committee of a political party may, subject to State law, use exclusively funds that are not subject to the prohibitions, limitations, and reporting requirements of the Act for the purchase or construction of an office building for such State or local committee.
 
-(Pub. L. 92–225, title IV, §403, Feb. 7, 1972, 86 Stat. 20; Pub. L. 93–443, title III, §301, Oct. 15,1974, 88 Stat. 1289; Pub. L. 107–155, title I, §103(b)(2), Mar. 27, 2002, 116 Stat. 87.)
+(Pub. L. 92–225, title IV, §403, Feb. 7, 1972, 86 Stat. 20; Pub. L. 93–443, title III, §301, Oct. 15, 1974, 88 Stat. 1289; Pub. L. 107–155, title I, §103(b)(2), Mar. 27, 2002, 116 Stat. 87.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ Section was formerly classified to section 453 of Title 2, The Congress, prior t
 <b>2002</b>—Pub. L. 107–155 designated existing provisions as subsec. (a), inserted heading, substituted "Subject to subsection (b), the provisions of this Act" for "The provisions of this Act", and added subsec. (b).
 
 <b>1974</b>—Pub. L. 93–443 substituted provision for Pub. L. 92–225 and rules thereunder to supersede and preempt any provision of State law with respect to election to Federal office for prior provisions which in former subsec. (a) stated that nothing in Pub. L. 92–225 shall be deemed to invalidate or make inapplicable any provision of State law, except where compliance with such provision would result in a violation of Pub. L. 92–225 and in former subsec. (b) stated that no provision of State law shall be construed to prohibit any person from taking any action authorized by Pub. L. 92–225 or from making any expenditure which he could lawfully make under Pub. L. 92–225.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

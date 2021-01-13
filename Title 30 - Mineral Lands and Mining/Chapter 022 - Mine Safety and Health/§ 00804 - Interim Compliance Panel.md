@@ -38,6 +38,8 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 
 (Pub. L. 91–173, §5, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, §102(d), Nov. 9, 1977, 91 Stat. 1291; Pub. L. 95–251, §2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -50,11 +52,13 @@ This chapter, referred to in subsecs. (c), (e), and (f)(1), was in the original 
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–164 substituted "Secretary of the Interior" for "Secretary of Labor".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a)(4) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-"Department of Health and Human Services" substituted for "Department of Health, Education, andWelfare" in subsec. (a) and "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (a) and "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 

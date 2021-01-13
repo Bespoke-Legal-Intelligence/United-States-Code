@@ -58,13 +58,17 @@ The Board shall, with respect to any grievance based on an alleged violation of 
 
 (Pub. L. 96–465, title I, §1107, Oct. 17, 1980, 94 Stat. 2146; Pub. L. 100–204, title I, §§181(a), (b), 182, Dec. 22, 1987, 101 Stat. 1363, 1364; Pub. L. 102–138, title I, §153(c), Oct. 28, 1991, 105 Stat. 673.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (f). Pub. L. 102–138 added subsec. (f).
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted ", tenure" after "promotion" in first sentence, and added pars. (2) and (3).
+<b>1987</b>—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted", tenure" after "promotion" in first sentence, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 100–204, §182, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

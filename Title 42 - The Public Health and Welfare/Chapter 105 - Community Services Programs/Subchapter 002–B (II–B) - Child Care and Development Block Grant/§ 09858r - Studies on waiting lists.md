@@ -30,7 +30,7 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part of the Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
+Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part ofthe Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
 
 #### Change of Name
 

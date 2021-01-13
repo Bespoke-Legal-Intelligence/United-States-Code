@@ -6,11 +6,15 @@
 
 (Pub. L. 90–206, title II, §225(h), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, §135(d), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, §701(f), Nov. 30, 1989, 103 Stat. 1765.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: "The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title."
 
 <b>1985</b>—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining "budget".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -18,7 +22,7 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
-Pub. L. 98–63, title I, §908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, §908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative,and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 #### Compensation and Emoluments of Attorney General
 
@@ -38,7 +42,7 @@ The statute requires that, in the budget next submitted after receipt of the rep
 
 The Commission's report, submitted to me on December 14, 1988, documented both the substantial erosion in the real level of Federal executive pay that has occurred since 1969 and the recruitment and retention problems that have resulted, especially for the Federal judiciary. The Commission is to be commended for its diligent and conscientious effort to address the complicated and complex problems associated with Federal pay levels.
 
-The Commission found that Federal executives and legislators have experienced a decline of approximately 35 percent in real salaries since 1969. In contrast, the salaries of General Schedule employees have declined by only 8 percent over the same period. The Commission's recommendations go a long way towards compensating for this salary erosion, but they do not make up the full gap. For example, for an official at Executive Level II, which is also the Congressional salaryrate, the salary level adjusted for inflation since 1969 would be $140,340, while the Commission's recommendation is $135,000.
+The Commission found that Federal executives and legislators have experienced a decline of approximately 35 percent in real salaries since 1969. In contrast, the salaries of General Schedule employees have declined by only 8 percent over the same period. The Commission's recommendations go a long way towards compensating for this salary erosion, but they do not make up the full gap. For example, for an official at Executive Level II, which is also the Congressional salary rate, the salary level adjusted for inflation since 1969 would be $140,340, while the Commission's recommendation is $135,000.
 
 Every one of the Commissions that has met over the past 20 years concluded that a pay increase for key Federal officials was necessary. Each Commission found that pay for senior Government officials fell far behind that of their counterparts in the private sector. They also surmised that we cannot afford a Government composed primarily of those wealthy enough to serve.
 

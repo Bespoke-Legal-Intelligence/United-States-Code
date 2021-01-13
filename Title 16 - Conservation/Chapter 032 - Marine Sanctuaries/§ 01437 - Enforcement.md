@@ -84,7 +84,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;(A) Notwithstanding any other law, amounts received by the United States as civil penalties, forfeitures of property, and costs imposed under paragraph (2) shall be retained by the Secretary in the manner provided for in section 9607(f)(1) of title 42.
 
-&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource orother property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
+&emsp;(B) Amounts received under this section for forfeitures and costs imposed under paragraph (2) shall be used to pay the reasonable and necessary costs incurred by the Secretary to provide temporary storage, care, maintenance, and disposal of any sanctuary resource or other property seized in connection with a violation of this chapter or any regulation or permit issued under this chapter.
 
 &emsp;(C) Amounts received under this section as civil penalties and any amounts remaining after the operation of subparagraph (B) shall be used, in order of priority, to—
 
@@ -112,7 +112,7 @@ Nothing in this section shall be considered to limit the authority of the Coast 
 
 #### (j) Injunctive relief
 
-If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title, the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
+If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title, the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction,loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 
 #### (k) Area of application and enforceability
 
@@ -154,7 +154,7 @@ Subsec. (e)(1). Pub. L. 102–587, §2107(c), added par. (1) and struck out form
 
 In general.—Notwithstanding any other law, the Secretary may use amounts received under this section in the form of civil penalties, forfeitures of property, and costs imposed under paragraph (2) to pay—
 
-&emsp;"(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care,and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
+&emsp;"(A) the reasonable and necessary costs incurred by the Secretary in providing temporary storage, care, and maintenance of any sanctuary resource or other property seized under this section pending disposition of any civil proceeding relating to any alleged violation with respect to which such property or sanctuary resource was seized; and
 
 &emsp;"(B) a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or of any regulation or permit issued under this chapter."
 

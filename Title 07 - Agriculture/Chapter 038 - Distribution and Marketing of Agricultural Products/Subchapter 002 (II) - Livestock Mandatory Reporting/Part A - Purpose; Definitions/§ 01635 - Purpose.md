@@ -172,3 +172,5 @@ Final Regulations.—Not later than 60 days after the conclusion of the comment 
 
 "The authority provided by this title \[enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title\] and the amendments made by this title (other than section 911 of subtitle A \[enacting this subchapter\] and the amendments made by that section) terminate\[s\] on September 30, 2020."
 
+\[Section 942 of Pub. L. 106–78, set out above, to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of div. O of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.\]
+

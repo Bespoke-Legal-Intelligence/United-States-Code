@@ -10,9 +10,13 @@ It shall be unlawful for—
 
 (Added Pub. L. 102–559, §2(a), Oct. 28, 1992, 106 Stat. 4228.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
 For information regarding constitutionality of par. (1) of this section, as added by section 2(a) of Pub. L. 102–559, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

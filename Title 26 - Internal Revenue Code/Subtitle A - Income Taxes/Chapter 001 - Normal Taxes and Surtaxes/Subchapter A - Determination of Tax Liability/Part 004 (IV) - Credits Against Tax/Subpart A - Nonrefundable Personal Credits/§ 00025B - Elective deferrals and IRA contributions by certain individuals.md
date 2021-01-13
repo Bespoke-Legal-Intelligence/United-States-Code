@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (3) Inflation adjustment
 
-&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollaramounts in paragraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -110,7 +110,7 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, titleIV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -118,7 +118,7 @@ Notwithstanding any other provision of law, a qualified retirement savings contr
 
 #### Amendments
 
-<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph\(A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+<b>2017</b>—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 Subsec. (d)(1)(D). Pub. L. 115–97, §11024(b), added subpar. (D).
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c)\[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
+Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c) \[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
 
 #### Effective Date
 

@@ -1,8 +1,10 @@
 ### §2763. Compensatory absence from duty for military personnel at isolated duty stations
 
-The Secretary may grant compensatory absence from duty to military personnel of the Coast Guard serving at isolated duty stations of the Coast Guard when conditions of duty result in confinement because of isolation or in long periods of continuous duty.
+The Secretary may grant compensatory absence from duty to military personnel of theCoast Guard serving at isolated duty stations of the Coast Guard when conditions of duty result in confinement because of isolation or in long periods of continuous duty.
 
 (Added Aug. 9, 1955, ch. 650, §4, 69 Stat. 577, §511; amended Pub. L. 94–546, §1(32), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 107–295, title III, §312(a), Nov. 25, 2002, 116 Stat. 2102; renumbered §2763, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -20,6 +20,8 @@ The provision of law referred to in subsections (a) and (b) is section 4313 of t
 
 (Pub. L. 94–440, title II, §101, Oct. 1, 1976, 90 Stat. 1448; Pub. L. 104–186, title I, §103, Aug. 20, 1996, 110 Stat. 1720.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -32,7 +34,9 @@ Section is based on House Resolution No. 1372, §1, Ninety-fourth Congress, July
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
+<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b)relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

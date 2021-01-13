@@ -58,7 +58,7 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (2) Leave less than 5 weeks prior to end of term
 
-&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section2612(a)(1) of this title or under section 2612(a)(3) of this title during the period that commences 5 weeks prior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
+&emsp;If the eligible employee begins leave under subparagraph (A), (B), or (C) of section 2612(a)(1) of this title or under section 2612(a)(3) of this title during the period that commences 5 weeks prior to the end of the academic term, the agency or school may require the employee to continue taking leave until the end of such term, if—
 
 &emsp;&emsp;(A) the leave is of greater than 2 weeks duration; and
 
@@ -78,6 +78,8 @@ If a local educational agency or a private elementary or secondary school that h
 
 (Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, §585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131; Pub. L. 114–95, title IX, §9215(hh), Dec. 10, 2015, 129 Stat. 2175.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -88,15 +90,17 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 <b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
-#### Effective Date of 2015 Amendment
-
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
-
 <b>2008</b>—Subsecs. (c)(1), (d)(2), (3). Pub. L. 110–181 inserted "or under section 2612(a)(3) of this title" after "section 2612(a)(1) of this title".
 
 <b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–110 substituted "section 7801 of title 20" for "section 8801 of title 20".
 
 <b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–382 substituted "section 8801 of title 20" for "section 2891(12) of title 20".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2015 Amendment
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 

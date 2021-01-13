@@ -14,7 +14,7 @@
 
 &emsp;The cautionary statement required by paragraph (1) for a toy or game shall be as follows:
 
-[Image not captured: t151278a.gif]
+[Image not captured: t151278a.png]
 
 #### (b) Balloons, small balls, and marbles
 
@@ -38,29 +38,29 @@
 
 &emsp;&emsp;In the case of balloons, or toys or games that contain latex balloons, the following cautionary statement applies:
 
-[Image not captured: t151278b.gif]
+[Image not captured: t151278b.png]
 
 #### (B) Balls
 
 &emsp;&emsp;In the case of balls, the following cautionary statement applies:
 
-[Image not captured: t151278c.gif]
+[Image not captured: t151278c.png]
 
 #### (C) Marbles
 
 &emsp;&emsp;In the case of marbles, the following cautionary statement applies:
 
-[Image not captured: t151278d.gif]
+[Image not captured: t151278d.png]
 
 #### (D) Toys and games
 
 &emsp;&emsp;In the case of toys or games containing balls, the following cautionary statement applies:
 
-[Image not captured: t151278e.gif]
+[Image not captured: t151278e.png]
 
 > &emsp;&emsp;In the case of toys or games containing marbles, the following cautionary statement applies:
 
-[Image not captured: t151278f.gif]
+[Image not captured: t151278f.png]
 
 #### (c) Advertising
 
@@ -108,7 +108,7 @@
 
 #### (3) Rulemaking
 
-&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate thissection with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effective date of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
+&emsp;Notwithstanding any provision of chapter 6 of title 5 or the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.), the Commission shall, not later than 90 days after August 14, 2008, promulgate regulations to effectuate this section with respect to catalogues and other printed material. The Commission may, under such regulations, provide a grace period of no more than 180 days for catalogues and other printed material printed prior to the effective date of paragraph (1) during which time distribution of such catalogues and other printed material shall not be considered a violation of such paragraph. The Commission may promulgate regulations concerning the size and placement of the cautionary statement required by paragraph (1) of this subsection as appropriate relative to the size and placement of the advertisements in such catalogues and other printed material. The Commission shall promulgate regulations that clarify the applicability of these requirements to catalogues and other printed material distributed solely between businesses and not to individual consumers.
 
 #### (4) Enforcement
 
@@ -138,11 +138,11 @@
 
 &emsp;(B)(i) In the case of a product to which subsection (a), subsection (b)(2)(B), subsection (b)(2)(C), or subsection (b)(2)(D) applies, the statement specified by this subparagraph is as follows:
 
-[Image not captured: t151278g.gif]
+[Image not captured: t151278g.png]
 
 &emsp;(ii) In the case of a product to which subsection (b)(2)(A) applies, the statement specified by this subparagraph is as follows:
 
-[Image not captured: t151278h.gif]
+[Image not captured: t151278h.png]
 
 #### (e) Treatment as misbranded hazardous substance
 
@@ -164,7 +164,7 @@ Pub. L. 103–267, title I, §101(d), June 16, 1994, 108 Stat. 725, provided tha
 
 #### Regulations
 
-Pub. L. 103–267, title I, §101(c), June 16, 1994, 108 Stat. 725, provided that: "The Consumer Product Safety Commission (hereinafter referred to as the 'Commission') shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section \[enacting this section and provisions setout as notes under this section and section 1261 of this title\] and section 24 of the Federal Hazardous Substances Act \[this section\] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act \[June 16, 1994\], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection."
+Pub. L. 103–267, title I, §101(c), June 16, 1994, 108 Stat. 725, provided that: "The Consumer Product Safety Commission (hereinafter referred to as the 'Commission') shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section \[enacting this section and provisions set out as notes under this section and section 1261 of this title\] and section 24 of the Federal Hazardous Substances Act \[this section\] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act \[June 16, 1994\], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection."
 
 #### Preemption
 

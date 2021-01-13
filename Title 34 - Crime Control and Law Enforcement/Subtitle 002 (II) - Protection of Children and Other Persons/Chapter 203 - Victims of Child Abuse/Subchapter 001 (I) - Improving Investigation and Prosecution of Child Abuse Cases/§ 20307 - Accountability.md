@@ -38,7 +38,7 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 #### (B) Prohibition
 
-&emsp;&emsp;The Administrator may not award a grant under any grant program described in this subchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
+&emsp;&emsp;The Administrator may not award a grant under any grant program described in thissubchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
 
 #### (C) Disclosure
 
@@ -73,6 +73,8 @@ Not later than March 1 of each year, the Attorney General shall submit to the Co
 &emsp;(3) analyzes the extent to which both rural and urban populations are served under the regional children's advocacy program.
 
 (Pub. L. 101–647, title II, §214C, as added Pub. L. 113–163, §2(b), Aug. 8, 2014, 128 Stat. 1864; amended Pub. L. 115–424, §2(g), Jan. 7, 2019, 132 Stat. 5469.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

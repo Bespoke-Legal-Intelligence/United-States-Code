@@ -56,7 +56,7 @@ Except as provided in subsection (b), the Commission may issue a license for the
 
 #### (B) Imposition of additional requirements
 
-&emsp;&emsp;If the Commission determines that additional physical protection requirements arenecessary (including a limit on the quantity of highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
+&emsp;&emsp;If the Commission determines that additional physical protection requirements are necessary (including a limit on the quantity of highly enriched uranium that may be contained in a single shipment), the Commission shall impose such requirements as license conditions or through other appropriate means.
 
 #### (4) First report to Congress
 

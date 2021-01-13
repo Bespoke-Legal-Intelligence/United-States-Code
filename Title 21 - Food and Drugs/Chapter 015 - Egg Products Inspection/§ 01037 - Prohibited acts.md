@@ -2,7 +2,7 @@
 
 (a)(1) No person shall buy, sell, or transport, or offer to buy or sell, or offer or receive for transportation, in any business in commerce any restricted eggs, capable of use as human food, except as authorized by regulations of the Secretary under such conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
 
-(2) No egg handler shall possess with intent to use, or use, any restricted eggs in the preparation of human food for commerce except that such eggs may be so possessed and used when authorized by regulations of the Secretary under such conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
+(2) No egg handler shall possess with intent to use, or use, any restricted eggs in the preparation of human food for commerce except that such eggs may be so possessed and used when authorized by regulations of the Secretary undersuch conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
 
 (b)(1) No person shall process any egg products for commerce at any plant except in compliance with the requirements of this chapter.
 
@@ -38,13 +38,17 @@
 
 (Pub. L. 91–597, §8, Dec. 29, 1970, 84 Stat. 1626; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(c), Dec. 13, 1991, 105 Stat. 1899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (2), (e)(7), (8), and (f), was in the original "this Act", meaningPub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1), (2), (e)(7), (8), and (f), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 #### Amendments
 
 <b>1991</b>—Subsecs. (c) to (f). Pub. L. 102–237 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

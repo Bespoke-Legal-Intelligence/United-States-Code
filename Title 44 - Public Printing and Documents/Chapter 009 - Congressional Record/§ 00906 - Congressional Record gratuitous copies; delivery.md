@@ -40,7 +40,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to each committee and commission of Congress, one daily and one semimonthly copy;
 
-&emsp;to each joint committee and joint commission in Congress, as may be designated by theJoint Committee on Printing, two copies of the daily, one semimonthly copy, and one bound copy;
+&emsp;to each joint committee and joint commission in Congress, as may be designated by the Joint Committee on Printing, two copies of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Secretary and the Sergeant at Arms of the Senate, for office use, each, six semimonthly copies;
 
@@ -72,7 +72,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to the offices of the superintendent of the Senate and House document rooms, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the offices of the superintendents of the Senate and House press galleries, each, two copies of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the offices of the superintendents of the Senate and House press galleries, each, twocopies of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
@@ -120,9 +120,11 @@ Copies of the daily edition, unless otherwise directed by the Joint Committee on
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
+Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L.86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
 
 "House of Representatives Publications Distribution Service" is substituted for "House Folding Room" because of the change of name under authority of Public Law 88–652.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -156,9 +158,11 @@ Provisions respecting National Homes for Disabled Volunteer Soldiers, referred t
 
 <b>1970</b>—Pub. L. 91–276 substituted provision authorizing the Public Printer to furnish the daily Congressional Record to subscribers at a price based upon cost of printing and distribution for prior subscription price of $1.50 per month.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1992 Amendment
 

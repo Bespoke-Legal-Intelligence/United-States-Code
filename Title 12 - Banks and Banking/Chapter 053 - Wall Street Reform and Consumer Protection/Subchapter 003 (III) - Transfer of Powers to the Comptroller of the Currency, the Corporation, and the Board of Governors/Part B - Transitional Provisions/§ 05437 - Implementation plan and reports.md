@@ -22,13 +22,17 @@ Within 60 days of receiving the plan required under subsection (a), the Inspecto
 
 #### (c) Implementation reports
 
-Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committeeon Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 (Pub. L. 111–203, title III, §327, July 21, 2010, 124 Stat. 1537.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Sections 301 through 326, referred to in subsecs. (a) and (b), are sections 301 to 326 of Pub. L. 111–203, which enacted sections 4b, 16, and 5401 to 5436 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and section 3502 of Title 44, Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

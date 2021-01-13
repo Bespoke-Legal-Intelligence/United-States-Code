@@ -36,7 +36,7 @@ Notice; Claim; Complaint.—
 
 &emsp;(E) Each of the Federal seizing agencies conducting nonjudicial forfeitures under this section shall report periodically to the Committees on the Judiciary of the House of Representatives and the Senate the number of occasions when an extension of time is granted under subparagraph (B).
 
-&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of timeis granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
+&emsp;(F) If the Government does not send notice of a seizure of property in accordance with subparagraph (A) to the person from whom the property was seized, and no extension of time is granted, the Government shall return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. The Government shall not be required to return contraband or other property that the person from whom the property was seized may not legally possess.
 
 &emsp;(2)(A) Any person claiming property seized in a nonjudicial civil forfeiture proceeding under a civil forfeiture statute may file a claim with the appropriate official after the seizure.
 
@@ -310,7 +310,9 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub.L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -334,7 +336,7 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 
 #### Amendments
 
-<b>2016</b>—Subsec. (i)(2)(D). Pub. L. 114–122 amended subpar. (D) generally. Prior to amendment, text read as follows: "the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or".
+<b>2016</b>—Subsec. (i)(2)(D). Pub. L. 114–122 amended subpar. (D) generally. Prior to amendment, text read as follows: "the Trading with the Enemy Act (50 U.S.C.App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or".
 
 <b>2009</b>—Subsec. (j)(3). Pub. L. 111–16 substituted "14 days" for "10 days".
 
@@ -343,6 +345,8 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 <b>2000</b>—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out "(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous" after "such property".
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

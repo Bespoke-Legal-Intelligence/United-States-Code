@@ -1,6 +1,6 @@
 ### §1158. Counterfeiting Indian Arts and Crafts Board trade mark
 
-Whoever counterfeits or colorably imitates any Government trade mark used or devised bythe Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
+Whoever counterfeits or colorably imitates any Government trade mark used or devised by the Indian Arts and Crafts Board in the Department of the Interior as provided in section 305a of Title 25, or, except as authorized by the Board, affixes any such Government trade mark, or knowingly, willfully, and corruptly affixes any reproduction, counterfeit, copy, or colorable imitation thereof upon any products, or to any labels, signs, prints, packages, wrappers, or receptacles intended to be used upon or in connection with the sale of such products; or
 
 Whoever knowingly makes any false statement for the purpose of obtaining the use of any such Government trade mark—
 
@@ -20,11 +20,15 @@ Maximum fine was changed from $2,000 to $500 to bring the offense within the cat
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250,000" in third par.
 
 <b>1990</b>—Pub. L. 101–644, in third par., added cls. (1) and (2), struck out "be fined not more than $500 or imprisoned not more than six months, or both; and" after "Shall", and designated remaining provision at end as cl. (3).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

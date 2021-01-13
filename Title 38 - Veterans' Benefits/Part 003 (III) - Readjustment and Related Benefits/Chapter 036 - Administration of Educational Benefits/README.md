@@ -8,6 +8,7 @@
 | [3671\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003671%20-%20Designation.md) | Designation. |
 | [3672\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003672%20-%20Approval%20of%20courses.md) | Approval of courses. |
 | [3673\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673%20-%20Approval%20activities%20cooperation%20and%20coordination%20of%20activities.md) | Approval activities: cooperation and coordination of activities. |
+| [3673A.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673A%20-%20Risk-based%20surveys.md) | Risk-based surveys. |
 | [3674\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674%20-%20Reimbursement%20of%20expenses.md) | Reimbursement of expenses. |
 | [3674A.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674A%20-%20Evaluations%20of%20agency%20performance%3B%20qualifications%20and%20performance%20of%20agency%20personnel.md) | Evaluations of agency performance; qualifications and performance of agency personnel. |
 | [3675\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003675%20-%20Approval%20of%20accredited%20courses.md) | Approval of accredited courses. |
@@ -47,10 +48,19 @@
 | [3698\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md) | Comprehensive policy on providing education information to veterans. |
 | [3699\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699%20-%20Effects%20of%20closure%20or%20disapproval%20of%20educational%20institution.md) | Effects of closure or disapproval of educational institution. |
 | [3699A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699A%20-%20Provision%20of%20certain%20information%20to%20educational%20institutions.md) | Provision of certain information to educational institutions. |
+| [3699B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699B%20-%20Treatment%20of%20certain%20for-profit%20educational%20institutions.md) | Treatment of certain for-profit educational institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–315, title I, §1020(a)(2), (c), Jan. 5, 2021, 134 Stat. 4958, provided that, effective Aug. 1, 2021, this analysis is amended by striking item 3696 and adding new item 3696 "Prohibition on certain advertising, sales, and enrollment practices". See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 
 <b>2017</b>—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 

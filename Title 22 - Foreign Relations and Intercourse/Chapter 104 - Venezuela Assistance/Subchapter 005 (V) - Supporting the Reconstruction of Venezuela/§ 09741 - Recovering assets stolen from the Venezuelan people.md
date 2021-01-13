@@ -2,7 +2,7 @@
 
 #### (a) Recovering assets
 
-The President, acting through the Secretary of State and in consultation with the Secretary of the Treasury, shall advance a coordinated international effort—
+The President, acting through the Secretary of State and in consultation with the Secretaryof the Treasury, shall advance a coordinated international effort—
 
 &emsp;(1) to work with foreign governments—
 

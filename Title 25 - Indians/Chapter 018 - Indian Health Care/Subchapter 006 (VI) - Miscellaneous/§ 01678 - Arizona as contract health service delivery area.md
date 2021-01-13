@@ -10,11 +10,13 @@ The Service shall not curtail any health care services provided to Indians resid
 
 (Pub. L. 94–437, title VIII, §808, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 808 of Pub. L. 94–437 is based on section 192(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Prior Provisions
 
-A prior section 1678, Pub. L. 94–437, title VIII, §808, formerly title VII, §708, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, §702, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, §808, and amended Pub. L. 102–573, title VII,§701(a), (b), title VIII, §803, Oct. 29, 1992, 106 Stat. 4572, 4585, temporarily designated Arizona as a contract health service delivery area, prior to repeal by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1678, Pub. L. 94–437, title VIII, §808, formerly title VII, §708, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, §702, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, §808, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §803, Oct. 29, 1992, 106 Stat. 4572, 4585, temporarily designated Arizona as a contract health service delivery area, prior to repeal by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 

@@ -18,11 +18,15 @@ Conspiracy.—A person who conspires to commit an offense under this section sha
 
 (Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–322, title VI, §60020, Sept. 13, 1994, 108 Stat. 1979; Pub. L. 107–56, title VIII, §811(g), Oct. 26, 2001, 115 Stat. 381.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–56 added subsec. (c).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 inserted "punished by death or" before "imprisoned for any term of years or for life".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

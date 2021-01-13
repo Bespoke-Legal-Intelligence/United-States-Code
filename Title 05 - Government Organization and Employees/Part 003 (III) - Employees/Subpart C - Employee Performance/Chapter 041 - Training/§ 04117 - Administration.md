@@ -26,13 +26,19 @@ Former sections 2301(4) and 2318(e) are combined and restated for clarity.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Department of Homeland Security
 

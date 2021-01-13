@@ -4,6 +4,8 @@ Administration of this chapter shall be under the principles of multiple use of 
 
 (Pub. L. 91–581, §17, Dec. 24, 1970, 84 Stat. 1571; Pub. L. 109–58, title II, §236(17), Aug. 8, 2005, 119 Stat. 672.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 inserted section catchline.

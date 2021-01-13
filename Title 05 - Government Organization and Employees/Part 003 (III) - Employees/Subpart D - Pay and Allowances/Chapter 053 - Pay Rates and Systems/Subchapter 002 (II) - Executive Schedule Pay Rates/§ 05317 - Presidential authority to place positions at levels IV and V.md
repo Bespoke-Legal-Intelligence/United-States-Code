@@ -28,13 +28,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 The amendment to 5 U.S.C. 5317 conforms to the style of title 5.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–670 increased from thirty to thirty-four the number of additional level IV and V positions authorized when necessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11189
 
@@ -58,11 +64,11 @@ Ex. Ord. No. 11995, June 8, 1977, 42 F.R. 29841, which placed the position of Ex
 
 #### Executive Order No. 12076
 
-Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, as amended by Ex. Ord. No. 12099, Nov. 17, 1978, 43 F.R. 54191; Ex. Ord. No. 12111, Jan. 2, 1979, 44 F.R. 1071; Ex.Ord. No. 12119, Feb. 14, 1979, 44 F.R. 10039, which related to the placement of positions in levels IV and V of the Federal Executive Salary Schedule, was revoked by Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, set out below.
+Ex. Ord. No. 12076, Aug. 18, 1978, 43 F.R. 37161, as amended by Ex. Ord. No. 12099, Nov. 17, 1978, 43 F.R. 54191; Ex. Ord. No. 12111, Jan. 2, 1979, 44 F.R. 1071; Ex. Ord. No. 12119, Feb. 14, 1979, 44 F.R. 10039, which related to the placement of positions in levels IV and V of the Federal Executive Salary Schedule, was revoked by Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, set out below.
 
 #### Ex. Ord. No. 12154. Placement of Positions in Levels IV and V
 
-Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, as amended by Ex. Ord. No. 12199, Mar. 12, 1980, 45 F.R. 16441; Ex. Ord. No. 12236, Sept. 3, 1980, 45 F.R. 58805; Ex. Ord. No. 12237, Sept. 3, 1980, 45 F.R. 58807; Ex. Ord. No. 12422, May 20, 1983, 48 F.R. 23157; Ex. Ord. No. 12431, July 8, 1983, 48 F.R. 31849; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12678, Apr. 28, 1989, 54 F.R. 18872; Ex. Ord. No. 12679, June 23, 1989, 54 F.R. 27149; Ex. Ord. No. 12749, Feb. 4, 1991, 56 F.R. 4711; Ex. Ord. No. 12758, Apr. 5, 1991, 56 F.R. 14631; Ex. Ord. No. 12814, Sept. 10, 1992, 57 F.R. 42483; Ex. Ord. No. 12833, Jan. 19, 1993, 58 F.R. 5907; Ex. Ord. No. 12841, Mar. 9, 1993, 58 F.R. 13529; Ex. Ord. No. 12942, Dec. 12, 1994, 59 F.R. 64551; Ex. Ord. No. 13063, Sept. 30, 1997, 62 F.R. 51757, provided:
+Ex. Ord. No. 12154, Sept. 4, 1979, 44 F.R. 51965, as amended by Ex. Ord. No. 12199, Mar. 12, 1980, 45 F.R.16441; Ex. Ord. No. 12236, Sept. 3, 1980, 45 F.R. 58805; Ex. Ord. No. 12237, Sept. 3, 1980, 45 F.R. 58807; Ex. Ord. No. 12422, May 20, 1983, 48 F.R. 23157; Ex. Ord. No. 12431, July 8, 1983, 48 F.R. 31849; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12678, Apr. 28, 1989, 54 F.R. 18872; Ex. Ord. No. 12679, June 23, 1989, 54 F.R. 27149; Ex. Ord. No. 12749, Feb. 4, 1991, 56 F.R. 4711; Ex. Ord. No. 12758, Apr. 5, 1991, 56 F.R. 14631; Ex. Ord. No. 12814, Sept. 10, 1992, 57 F.R. 42483; Ex. Ord. No. 12833, Jan. 19, 1993, 58 F.R. 5907; Ex. Ord. No. 12841, Mar. 9, 1993, 58 F.R. 13529; Ex. Ord. No. 12942, Dec. 12, 1994, 59 F.R. 64551; Ex. Ord. No. 13063, Sept. 30, 1997, 62 F.R. 51757, provided:
 
 By the authority vested in me as President by Section 5317 of Title 5 of the United States Code it is hereby ordered as follows:
 

@@ -4,7 +4,7 @@
 
 No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
 
-&emsp;(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+&emsp;(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country atthe time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
 
 &emsp;(2) the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 
@@ -60,7 +60,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary or the Administrator, as appropriate, shall not enter into an agreement under this chapter to provide agricultural commodities if such agreement requires or permits the distribution, handling, or allocation of such commodities by the militaryforces of any government or insurgent group.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary or the Administrator, as appropriate, shall not enter into an agreement under this chapter to provide agricultural commodities if such agreement requires or permits the distribution, handling, or allocation of such commodities by the military forces of any government or insurgent group.
 
 #### (B) Exception
 

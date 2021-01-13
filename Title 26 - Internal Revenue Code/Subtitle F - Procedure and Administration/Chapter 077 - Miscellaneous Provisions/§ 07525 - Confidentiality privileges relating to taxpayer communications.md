@@ -24,7 +24,7 @@
 
 #### (B) Tax advice
 
-&emsp;&emsp;The term "tax advice" means advice given by an individual with respect to a matter which is within the scope of the individual's authority to practice described in subparagraph (A).
+&emsp;&emsp;The term "tax advice" means advice given by an individual with respect to a matter which is within the scope of the individual'sauthority to practice described in subparagraph (A).
 
 #### (b) Section not to apply to communications regarding tax shelters
 

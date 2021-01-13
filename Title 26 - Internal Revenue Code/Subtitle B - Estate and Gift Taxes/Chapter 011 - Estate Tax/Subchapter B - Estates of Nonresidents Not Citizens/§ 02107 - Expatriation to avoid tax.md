@@ -16,7 +16,7 @@ For purposes of the tax imposed by subsection (a), the value of the gross estate
 
 &emsp;&emsp;(B) the total value of the stock of such corporation,
 
-> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owningstock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
+> then that proportion of the fair market value of the stock of such foreign corporation owned (within the meaning of section 958(a)) by such decedent at the time of his death, which the fair market value of any assets owned by such foreign corporation and situated in the United States, at the time of his death, bears to the total fair market value of all assets owned by such foreign corporation at the time of his death, shall be included in the gross estate of such decedent. For purposes of the preceding sentence, a decedent shall be treated as owning stock of a foreign corporation at the time of his death if, at the time of a transfer, by trust or otherwise, within the meaning of sections 2035 to 2038, inclusive, he owned such stock.
 
 #### (c) Credits
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 104–191, §511(f)(2)(A), redesignated subsec. (e) as (d) 
 
 "(d)
 
-Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to the transferof the estate of a decedent whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487)."
+Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to the transfer of the estate of a decedent whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487)."
 
 Subsec. (e). Pub. L. 104–191, §511(f)(2)(A), added subsec. (e). Former subsec. (e) redesignated (d).
 

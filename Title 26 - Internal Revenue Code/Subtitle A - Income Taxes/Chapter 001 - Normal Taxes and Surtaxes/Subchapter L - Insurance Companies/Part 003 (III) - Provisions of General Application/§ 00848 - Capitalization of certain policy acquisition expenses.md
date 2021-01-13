@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (2) Amounts determined on accrual basis
 
-&emsp;In the case of an insurance company subject to tax under part II of this subchapter, all computations entering into determinations of net premiums for any taxable year shall be made in the manner required under section 811(a) for life insurance companies.
+&emsp;In the case of an insurance company subject to tax under part II of this subchapter, allcomputations entering into determinations of net premiums for any taxable year shall be made in the manner required under section 811(a) for life insurance companies.
 
 #### (3) Treatment of certain policyholder dividends and similar amounts
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (3) Treatment of annuity contracts combined with noncancellable accident and health insurance
 
-&emsp;Any annuity contract combined with noncancellable accident and health insuranceshall be treated as a noncancellable accident and health insurance contract and not as an annuity contract.
+&emsp;Any annuity contract combined with noncancellable accident and health insurance shall be treated as a noncancellable accident and health insurance contract and not as an annuity contract.
 
 #### (4) Treatment of guaranteed renewable contracts
 
@@ -158,7 +158,7 @@ Nothing in any provision of law (other than this section or section 197) shall r
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
+&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurancecontract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
 
 #### (2) Adjustment to other contracts
 

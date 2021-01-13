@@ -4,6 +4,8 @@ Whoever knowingly violates section 5136A <sup>1</sup> of the Revised Statutes o
 
 (Added Pub. L. 90–203, §5(a), Dec. 15, 1967, 81 Stat. 611; amended Pub. L. 101–73, title IX, §962(b), Aug. 9, 1989, 103 Stat. 502; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5136A of the Revised Statutes of the United States, referred to in text, was renumbered section 5136B and a new section 5136A was added by Pub. L. 106–102, title I, §121(a), Nov. 12, 1999, 113 Stat. 1373. Sections 5136A and 5136B of the Revised Statutes are classified to sections 24a and 25a, respectively, of Title 12, Banks and Banking.
@@ -17,6 +19,8 @@ Section 20 of the Federal Deposit Insurance Act, referred to in text, is classif
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1989</b>—Pub. L. 101–73 struck out reference to section 410 of the National Housing Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

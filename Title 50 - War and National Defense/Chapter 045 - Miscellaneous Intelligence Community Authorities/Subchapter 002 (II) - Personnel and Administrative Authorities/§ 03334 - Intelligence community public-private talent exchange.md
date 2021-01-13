@@ -14,7 +14,7 @@ Under policies developed by the Director pursuant to subsection (a), pursuant to
 
 &emsp;A head of an element of the intelligence community exercising the authority of the head under subsection (a) shall provide for a written agreement among the element of the intelligence community, the private-sector organization, and the employee concerned regarding the terms and conditions of the employee's detail under this section. The agreement—
 
-&emsp;&emsp;(A) shall require that the employee of the element, upon completion of the detail, serve in the element, or elsewhere in the civil service if approved by the head of the element, for a period that is at least equal to the length of the detail;
+&emsp;&emsp;(A) shall require that the employee of the element, upon completion of the detail, serve in the element, or elsewhere in the civil service if approved by the head of theelement, for a period that is at least equal to the length of the detail;
 
 &emsp;&emsp;(B) shall provide that if the employee of the element fails to carry out the agreement, such employee shall be liable to the United States for payment of all nonsalary and benefit expenses of the detail, unless that failure was for good and sufficient reason, as determined by the head of the element;
 
@@ -44,7 +44,7 @@ A detail under this section may, at any time and for any reason, be terminated b
 
 #### (2) Longer periods
 
-&emsp;A detail under this section may be for a period in excess of 2 years, but not more than 3years, if the head of the element making the detail determines that such detail is necessary to meet critical mission or program requirements.
+&emsp;A detail under this section may be for a period in excess of 2 years, but not more than 3 years, if the head of the element making the detail determines that such detail is necessary to meet critical mission or program requirements.
 
 #### (3) Limitation
 
@@ -94,7 +94,7 @@ An employee of a private-sector organization who is detailed to an element of th
 
 #### (h) Prohibition against charging certain costs to the Federal Government
 
-A private-sector organization may not charge an element of the intelligence community or any other agency of the Federal Government, as direct costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee detailed to an element of the intelligence community under this section for the period of the detail and any subsequent renewal periods.
+A private-sector organization may not charge an element of the intelligence community or any other agency of the Federal Government, as direct costs under a Federal contract, the costsof pay or benefits paid by the organization to an employee detailed to an element of the intelligence community under this section for the period of the detail and any subsequent renewal periods.
 
 #### (i) Additional administrative matters
 

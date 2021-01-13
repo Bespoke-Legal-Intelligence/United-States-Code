@@ -14,6 +14,8 @@ The last sentence excepting bona fide holders in due course was omitted as surpl
 
 Other changes in phraseology also were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

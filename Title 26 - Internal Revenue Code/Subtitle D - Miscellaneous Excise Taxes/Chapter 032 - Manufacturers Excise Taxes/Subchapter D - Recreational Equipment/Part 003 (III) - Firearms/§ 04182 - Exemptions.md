@@ -40,7 +40,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-No inference.—Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment of any sales before the effective date of such amendments."
+No inference.—Nothing in the amendments made by this section shall be construed to create any inference with respect to the proper tax treatment ofany sales before the effective date of such amendments."
 
 #### Short Title of 1969 Amendment
 

@@ -66,11 +66,13 @@ In this chapter:
 
 &emsp;&emsp;(C) whose duties are primarily—
 
-&emsp;&emsp;&emsp;(i) engagement in or supervision of the prevention, detection, investigation, orprosecution of, or the incarceration of any person for, any violation of law; or
+&emsp;&emsp;&emsp;(i) engagement in or supervision of the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law; or
 
 &emsp;&emsp;&emsp;(ii) the protection of Federal, State, local, or foreign government officials against threats to personal safety.
 
 (Pub. L. 110–298, §2, July 31, 2008, 122 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -20,7 +20,7 @@ For any fiscal year after the end of the period for implementation, a jurisdicti
 
 #### (4) Funding reduction
 
-&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subjectto a funding reduction as specified in subsection (a).
+&emsp;If a jurisdiction does not comply with paragraph (3), then the jurisdiction shall be subject to a funding reduction as specified in subsection (a).
 
 #### (c) Reallocation
 
@@ -31,6 +31,8 @@ Amounts not allocated under a program referred to in this section to a jurisdict
 The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditions required to avoid the reduction of Federal funding under this section.
 
 (Pub. L. 109–248, title I, §125, July 27, 2006, 120 Stat. 598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

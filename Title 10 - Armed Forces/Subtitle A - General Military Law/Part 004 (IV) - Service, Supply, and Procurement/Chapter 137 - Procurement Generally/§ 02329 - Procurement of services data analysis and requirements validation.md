@@ -58,9 +58,9 @@ Timely Planning to Avoid Bridge Contracts.—(1) Effective October 1, 2018, the 
 
 &emsp;(i) for a services contract in an amount less than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the commander or the senior civilian official of the Defense Agency concerned, Department of Defense Field Activity concerned, command concerned, or military installation concerned, as applicable; or
 
-&emsp;(ii) for a services contract in an amount equal to or greater than $10,000,000, provide anupdate on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+&emsp;(ii) for a services contract in an amount equal to or greater than $10,000,000, provide an update on the status of the bridge contract (including the rationale for using the bridge contract) to the service acquisition executive for the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
 
-(B) Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary of Defense for Acquisition and Sustainment, as applicable.
+(B) Upon the second use, due to inadequate planning (as determined by the Secretary of Defense), of a bridge contract to provide for continuation of a service to be performed through a services contract in an amount less than $10,000,000, the commander or senior civilian official referred to in subparagraph (A)(i) shall provide notification of such second use to the Vice Chief of Staff of the armed force concerned and the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the combatant commander concerned, or the Under Secretary ofDefense for Acquisition and Sustainment, as applicable.
 
 (f)
 
@@ -88,6 +88,10 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–91, div. A, title VIII, §851(a)(1), Dec. 12, 2017, 131 Stat. 1489; amended Pub. L. 115–232, div. A, title VIII, §818(a), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, §817(a), title XVII, §1731(a)(42), Dec. 20, 2019, 133 Stat. 1488, 1814.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1856(g), Jan. 1, 2021, 134 Stat. 4151, 4275, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 341 of this title, inserted after section 4505, and redesignated as section 4506 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(3)(C), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
@@ -111,6 +115,10 @@ Subsec. (g)(1). Pub. L. 116–92, §1731(a)(42), substituted "term 'bridge contr
 Subsec. (b)(1). Pub. L. 115–232, §818(a)(2), substituted "at or before" for "at or about" and inserted "or on the date on which the future-years defense program is submitted to Congress under section 221 of this title" after "title 31".
 
 Subsec. (b)(5). Pub. L. 115–232, §818(a)(3)–(5), added par. (5).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Standard Guidelines for Evaluation of Requirements for Services Contracts
 

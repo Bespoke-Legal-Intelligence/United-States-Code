@@ -22,7 +22,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(5) provide, in the development of services for children, for utilization of the facilities and experience of voluntary agencies in accordance with State and local programs and arrangements, as authorized by the State;
 
-&emsp;(6) provide that the agency administering or supervising the administration of the plan will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require;
+&emsp;(6) provide that the agency administering or supervising the administration of the plan willfurnish such reports, containing such information, and participate in such evaluations, as the Secretary may require;
 
 &emsp;(7) provide for the diligent recruitment of potential foster and adoptive families that reflect the ethnic and racial diversity of children in the State for whom foster and adoptive homes are needed;
 
@@ -74,7 +74,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(viii) steps to ensure that the components of the transition plan development process required under section 675(5)(H) of this title that relate to the health care needs of children aging out of foster care, including the requirements to include options for health insurance, information about a health care power of attorney, health care proxy, or other similar document recognized under State law, and to provide the child with the option to execute such a document, are met; and
 
-&emsp;(B) subparagraph (A) shall not be construed to reduce or limit the responsibility of the State agency responsible for administering the State plan approved under subchapter XIX to administer and provide care and services forchildren with respect to whom services are provided under the State plan developed pursuant to this subpart;
+&emsp;(B) subparagraph (A) shall not be construed to reduce or limit the responsibility of the State agency responsible for administering the State plan approved under subchapter XIX to administer and provide care and services for children with respect to whom services are provided under the State plan developed pursuant to this subpart;
 
 &emsp;(16) provide that, not later than 1 year after September 28, 2006, the State shall have in place procedures providing for how the State programs assisted under this subpart, subpart 2 of this part, or part E would respond to a disaster, in accordance with criteria established by the Secretary which should include how a State would—
 
@@ -304,11 +304,11 @@ Effective Dates.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2) and subsections (b), (c), and (d), the amendments made by this part \[part IV (§§50741—50746) of subtitle A of title VII of div. E of Pub. L. 115–123, amending this section and sections 629h, 671, 672, 674, 675a, 676, and 679b of this title\] shall take effect as if enacted on January 1, 2018.
+In general.—Subject to paragraph (2) and subsections (b), (c), and (d), the amendments made bythis part \[part IV (§§50741—50746) of subtitle A of title VII of div. E of Pub. L. 115–123, amending this section and sections 629h, 671, 672, 674, 675a, 676, and 679b of this title\] shall take effect as if enacted on January 1, 2018.
 
 &emsp;"(2)
 
-Transition rule.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this part, the State plan shall not be regarded as failing to comply with the requirements of part B or E of title IV of such Act solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 9, 2018\]. For purposes of the previous sentence, in the case of a Statethat has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.
+Transition rule.—In the case of a State plan under part B or E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendments made by this part, the State plan shall not be regarded as failing to comply with the requirements of part B or E of title IV of such Act solely on the basis of the failure of the plan to meet the additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Feb. 9, 2018\]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be deemed to be a separate regular session of the State legislature.
 
 "(b)
 
@@ -380,7 +380,7 @@ In General.—Except as otherwise provided in this section, the amendments made 
 
 "(b)
 
-Delay Permitted If State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If theState has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay Permitted If State Legislation Required.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part B or E of title IV of the Social Security Act to meet the additional requirements imposed by the amendments made by a provision of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act \[July 3, 2006\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
 

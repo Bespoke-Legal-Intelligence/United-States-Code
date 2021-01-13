@@ -1,0 +1,290 @@
+### §3204. Use of procedures other than competitive procedures
+
+(a)
+
+When Procedures Other Than Competitive Procedures May Be Used.—The head of an agency may use procedures other than competitive procedures only when—
+
+&emsp;(1) the property or services needed by the agency are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the agency;
+
+&emsp;(2) the agency's need for the property or services is of such an unusual and compelling urgency that the United States would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals;
+
+&emsp;(3) it is necessary to award the contract to a particular source or sources in order—
+
+&emsp;&emsp;(A) to maintain a facility, producer, manufacturer, or other supplier available for furnishing property or services in case of a national emergency or to achieve industrial mobilization— <sup>1</sup>
+
+&emsp;&emsp;(B) to establish or maintain an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center— <sup>2</sup>
+
+&emsp;&emsp;(C) to procure the services of an expert for use, in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government, in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
+
+&emsp;(4) the terms of an international agreement or a treaty between the United States and a foreign government or international organization, or the written directions of a foreign government reimbursing the agency for the cost of the procurement of the property or services for such government, have the effect of requiring the use of procedures other than competitive procedures;
+
+&emsp;(5) subject to section 3201(e) of this title, a statute expressly authorizes or requires that the procurement be made through another agency or from a specified source, or the agency's need is for a brand-name commercial product for authorized resale;
+
+&emsp;(6) the disclosure of the agency's needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals; or
+
+&emsp;(7) the head of the agency (who may not delegate the authority under this paragraph)—
+
+&emsp;&emsp;(A) determines that it is necessary in the public interest to use procedures other than competitive procedures in the particular procurement concerned, and
+
+&emsp;&emsp;(B) notifies the Congress in writing of such determination not less than 30 days before the award of the contract.
+
+(b)
+
+Property or Services Considered to Be Available From Only One Source.—For the purposes of applying subsection (a)(1)—
+
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a concept—
+
+&emsp;&emsp;(i) that is unique and innovative or, in the case of a service, for which the source demonstrates a unique capability of the source to provide the service; and
+
+&emsp;&emsp;(ii) the substance of which is not otherwise available to the United States, and does not resemble the substance of a pending competitive procurement; and
+
+&emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment, or the continued provision of highly specialized services, such property or services may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures when it is likely that award to a source other than the original source would result in—
+
+&emsp;&emsp;(i) substantial duplication of cost to the United States which is not expected to be recovered through competition; or
+
+&emsp;&emsp;(ii) unacceptable delays in fulfilling the agency's needs.
+
+(c)
+
+Property or Services Needed With Unusual and Compelling Urgency.—
+
+&emsp;(1)
+
+Allowable contract period.—The contract period of a contract described in paragraph (2) that is entered into by an agency pursuant to the authority provided under subsection (a)(2)—
+
+&emsp;&emsp;(A) may not exceed the time necessary—
+
+&emsp;&emsp;&emsp;(i) to meet the unusual and compelling requirements of the work to be performed under the contract; and
+
+&emsp;&emsp;&emsp;(ii) for the agency to enter into another contract for the required goods or services through the use of competitive procedures; and
+
+&emsp;&emsp;(B) may not exceed one year unless the head of the agency entering into such contract determines that exceptional circumstances apply.
+
+&emsp;(2)
+
+Applicability of allowable contract period.—This subsection applies to any contract in an amount greater than the simplified acquisition threshold.
+
+(d)
+
+Offer Requests to Potential Sources.—The head of an agency using procedures other than competitive procedures to procure property or services by reason of the application of paragraph (2) or (6) of subsection (a) shall request offers from as many potential sources as is practicable under the circumstances.
+
+(e)
+
+Justification for Use of Procedures Other Than Competitive Procedures.—
+
+&emsp;(1)
+
+Prerequisites for awarding contract.—Except as provided in paragraphs (3), (4), and (7),,<sup>3</sup> the head of an agency may not award a contract using procedures other than competitive procedures unless—
+
+&emsp;&emsp;(A) the contracting officer for the contract justifies the use of such procedures in writing and certifies the accuracy and completeness of the justification;
+
+&emsp;&emsp;(B) the justification is approved—
+
+&emsp;&emsp;&emsp;(i) in the case of a contract for an amount exceeding $500,000 (but equal to or less than $10,000,000), by the competition advocate for the procuring activity (without further delegation) or by an official referred to in clause (ii) or (iii);
+
+&emsp;&emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $75,000,000), by the head of the procuring activity (or the head of the procuring activity's delegate designated pursuant to paragraph (5)(A)); or
+
+&emsp;&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $75,000,000, by the senior procurement executive of the agency designated pursuant to section 1702(c) of title 41 (without further delegation) or in the case of the Under Secretary of Defense for Acquisition and Sustainment, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (5)(B); and
+
+&emsp;&emsp;(C) any required notice has been published with respect to such contract pursuant to section 1708 of title 41 and all bids or proposals received in response to that notice have been considered by the head of the agency.
+
+&emsp;(2)
+
+Elements of justification.—The justification required by paragraph (1)(A) shall include—
+
+&emsp;&emsp;(A) a description of the agency's needs;
+
+&emsp;&emsp;(B) an identification of the statutory exception from the requirement to use competitive procedures and a demonstration, based on the proposed contractor's qualifications or the nature of the procurement, of the reasons for using that exception;
+
+&emsp;&emsp;(C) a determination that the anticipated cost will be fair and reasonable;
+
+&emsp;&emsp;(D) a description of the market survey conducted or a statement of the reasons a market survey was not conducted;
+
+&emsp;&emsp;(E) a listing of the sources, if any, that expressed in writing an interest in the procurement; and
+
+&emsp;&emsp;(F) a statement of the actions, if any, the agency may take to remove or overcome any barrier to competition before a subsequent procurement for such needs.
+
+&emsp;(3)
+
+Justification and approval allowed after contract awarded.—In the case of a procurement permitted by subsection (a)(2), the justification and approval required by paragraph (1) may be made after the contract is awarded.
+
+&emsp;(4)
+
+Justification and approval not required.—The justification and approval required by paragraph (1) is not required—
+
+&emsp;&emsp;(A) when a statute expressly requires that the procurement be made from a specified source;
+
+&emsp;&emsp;(B) when the agency's need is for a brand-name commercial product for authorized resale;
+
+&emsp;&emsp;(C) in the case of a procurement permitted by subsection (a)(7);
+
+&emsp;&emsp;(D) in the case of a procurement conducted under (i) chapter 85 of title 41, or (ii) section 8(a) of the Small Business Act (15 U.S.C. 637(a)); or
+
+&emsp;&emsp;(E) in the case of a procurement permitted by subsection (a)(4), but only if the head of the contracting activity prepares a document in connection with such procurement that describes the terms of an agreement or treaty, or the written directions, referred to in that subsection that have the effect of requiring the use of procedures other than competitive procedures.
+
+&emsp;(5)
+
+Restrictions on Agencies.—
+
+&emsp;&emsp;(A) In no case may the head of an agency—
+
+&emsp;&emsp;&emsp;(i) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount of funds available to the agency for procurement functions; or
+
+&emsp;&emsp;&emsp;(ii) procure property or services from another agency unless such other agency complies fully with the requirements of chapter 137 legacy provisions in its procurement of such property or services.
+
+&emsp;&emsp;(B) The restriction contained in subparagraph (A)(ii) is in addition to, and not in lieu of, any other restriction provided by law.
+
+&emsp;(6)
+
+Limitation on Delegations of Authority Under Paragraph (1)(B).—(A) The authority of the head of a procuring activity under paragraph (1)(B)(ii) may be delegated only to an officer or employee who—
+
+&emsp;&emsp;(i) if a member of the armed forces, is a general or flag officer; or
+
+&emsp;&emsp;(ii) if a civilian, is serving in a position with a grade under the General Schedule (or any other schedule for civilian officers or employees) that is comparable to or higher than the grade of brigadier general or rear admiral (lower half).
+
+&emsp;(B) The authority of the Under Secretary of Defense for Acquisition and Sustainment under paragraph (1)(B)(iii) may be delegated only to—
+
+&emsp;&emsp;(i) an Assistant Secretary of Defense; or
+
+&emsp;&emsp;(ii) with respect to the element of the Department of Defense (as specified in section 111(b) of this title), other than a military department, carrying out the procurement action concerned, an officer or employee serving in or assigned or detailed to that element who—
+
+&emsp;&emsp;&emsp;(I) if a member of the armed forces, is serving in a grade above brigadier general or rear admiral (lower half); or
+
+&emsp;&emsp;&emsp;(II) if a civilian, is serving in a position with a grade under the General Schedule (or any other schedule for civilian officers or employees) that is comparable to or higher than the grade of major general or rear admiral.
+
+&emsp;(7)
+
+Justification and approval not required for phase iii sbir award.—The justification and approval required by paragraph (1) is not required in the case of a Phase III award made pursuant to section 9(r)(4) of the Small Business Act (15 U.S.C. 638(r)(4)).
+
+(f)
+
+Public Availability of Justification and Approval Required for Using Procedures Other Than Competitive Procedures.—
+
+&emsp;(1)
+
+Time requirement.—
+
+&emsp;&emsp;(A)
+
+Within 14 days after contract award.—Except as provided in subparagraph (B), in the case of a procurement permitted by subsection (a), the head of an agency shall make publicly available, within 14 days after the award of the contract, the documents containing the justification and approval required by subsection (e)(1) with respect to the procurement.
+
+&emsp;&emsp;(B)
+
+Within 30 days after contract award.—In the case of a procurement permitted by subsection (a)(2), subparagraph (A) shall be applied by substituting "30 days" for "14 days".
+
+&emsp;(2)
+
+Availability on websites.—The documents shall be made available on the website of the agency and through a government-wide website selected by the Administrator for Federal Procurement Policy.
+
+&emsp;(3)
+
+Exception.—This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
+
+(g)
+
+Regulations With Respect to Negotiation of Prices.—
+
+&emsp;(1) The Secretary of Defense shall prescribe by regulation the manner in which the Department of Defense negotiates prices for supplies to be obtained through the use of procedures other than competitive procedures.
+
+&emsp;(2) The regulations required by paragraph (1) shall—
+
+&emsp;&emsp;(A) specify the incurred overhead a contractor may appropriately allocate to supplies referred to in that paragraph; and
+
+&emsp;&emsp;(B) require the contractor to identify those supplies which it did not manufacture or to which it did not contribute significant value.
+
+&emsp;(3) Such regulations shall not apply to an item of supply included in a contract or subcontract for which the price is based on established catalog or market prices of commercial products sold in substantial quantities to the general public.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(d)(1), (3)–(8), Jan. 1, 2021, 134 Stat. 4166–4169.)
+
+#### Codification
+
+The text of subsec. (c) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1811(d)(3), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, §101(c) \[title X, §923(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §923(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §923(a), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, §1005, title VII, §7203(a)(1)(A), Oct. 13, 1994, 108 Stat. 3254, 3379; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title X, §1073(a)(42), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 115–232, div. A, title VIII, 836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864.
+
+The text of subsec. (d) of section 2304 of this title, which was transferred to this section, redesignated as subsecs. (b) and (c), and amended by Pub. L. 116–283, §1811(d)(4), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 99–500, §101(c) \[title X, §923(b), (c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §923(b), (c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152,Pub. L. 99–661, div. A, title IX, formerly title IV, §923(b), (c), Nov. 14, 1986, 100 Stat. 3932, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546.
+
+The text of subsec. (e) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, §1811(d)(5), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187.
+
+The text of subsec. (f) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, §1811(d)(6), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, §504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 100–26, §7(d)(3)(A), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§817, 818, Nov. 29, 1989, 103 Stat. 1501, 1502; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §1003, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 104–106, div. D, title XLI, §§4102(a), title XLIII, §4321(b)(4), Feb. 10, 1996, 110 Stat. 643, 672; Pub. L. 105–85, div. A, title VIII, §841(b), title X, §1073(a)(43), Nov. 18, 1997, 111 Stat. 1843, 1902; Pub. L. 107–107, div. A, title X,§1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b)(2), Jan. 28, 2008, 122 Stat. 239; Pub. L. 111–350, §5(b)(12)(A)–(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §836(c)(2)(A), Aug. 13, 2018, 132 Stat. 1864; Pub. L. 116–92, div. A, title IX, §902(39), title XVII, §1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.
+
+The text of subsec. (l) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (f), and amended by Pub. L. 116–283, §1811(d)(7), was based on Pub. L. 110–181, div. A, title VIII, §844(b)(1), Jan. 28, 2008, 122 Stat. 239.
+
+The text of subsec. (i) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (g), and amended by Pub. L. 116–283, §1811(d)(8), was based on Pub. L. 99–500, §101(c) \[title X, §927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §927(a), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 115–232, div. A, title VIII, §836(c)(2)(C), Aug. 13, 2018, 132 Stat. 1864.
+
+#### Prior Provisions
+
+A prior section 3204, act Aug. 10, 1956, ch. 1041, 70A Stat. 173, Pub. L. 85–600, §1(2), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069, prescribed authorized strength of Regular Army in commissioned officers of active list, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(d)(3)(A), inserted heading.
+
+Pub. L. 116–283, §1811(d)(3), redesignated subsec. (c) of section 2304 of this title as subsec. (a) of this section.
+
+Subsec. (a)(3). Pub. L. 116–283, §1811(d)(3)(B), substituted "in order—
+
+> (A) to maintain" for "in order (A) to maintain", "industrial mobilization—
+
+> (B) to establish" for "industrial mobilization, (B) to establish", and "development center—
+
+> (C) to procure" for "development center, or (C) to procure".
+
+Subsec. (a)(5). Pub. L. 116–283, §1811(d)(3)(C), substituted "section 3201(e) of this title" for "subsection (k)".
+
+Subsec. (a)(7). Pub. L. 116–283, §1811(d)(3)(D), inserted "(who may not delegate the authority under this paragraph)" after "the head of the agency" in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, §1811(d)(4)(A), (B), inserted heading, struck out par. (1) designation at beginning, and substituted "subsection (a)(1)" for "subsection (c)(1)" in introductory provisions.
+
+Pub. L. 116–283, §1811(d)(4), redesignated subsec. (d) of section 2304 of this title as subsec. (b) of this section.
+
+Subsec. (b)(2). Pub. L. 116–283, §1811(d)(4)(C), struck out par. (2) which read as follows: "The authority of the head of an agency under subsection (c)(7) may not be delegated."
+
+Subsec. (c). Pub. L. 116–283, §1811(d)(4)(D), redesignated subsec. (b)(3) as (c) and inserted heading; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, inserted headings, and realigned margins; in par. (1) as redesignated, substituted "paragraph (2)" for "subparagraph (B)" and "subsection (a)(2)" for "subsection (c)(2)" in introductory provisions, redesignated cl. (i) and subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and realigned margins; and, in par. (2) as redesignated, substituted "This subsection" for "This paragraph". Substitution in par. (2) was executed by making the substitution for "This paragraph" instead of "this paragraph" as quoted in the directory language, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 116–283, §1811(d)(5), redesignated subsec. (e) of section 2304 of this title as subsec. (d) of this section, inserted heading, and substituted "paragraph (2) or (6) of subsection (a)" for "subsection (c)(2) or (c)(6)". Directory language inserting "
+
+Offer Requests to Potential Sources.—The head of", without specifying where insertion was to take place, was executed by striking out "The head of" at beginning and inserting quoted text in its place, to reflect the probable intent of Congress.
+
+Subsec. (e). Pub. L. 116–283, §1811(d)(6)(A), inserted heading.
+
+Pub. L. 116–283, §1811(d)(6), redesignated subsec. (f) of section 2304 of this title as subsec. (e) of this section.
+
+Subsec. (e)(1). Pub. L. 116–283, §1811(d)(6)(A), (B), inserted heading, substituted "Except as provided in paragraphs (3), (4), and (7)," for "Except as provided in paragraph (2) and paragraph (6)", and realigned margins of subpars. (A) to (C).
+
+Subsec. (e)(2). Pub. L. 116–283, §1811(d)(6)(C), (D), (K), redesignated par. (3) as (2), inserted heading, and realigned margin. Former par. (2) redesignated (3).
+
+Subsec. (e)(3). Pub. L. 116–283, §1811(d)(6)(C), (E), (K), redesignated par. (2) as (3), inserted heading, substituted "subsection (a)(2)" for "subsection (c)(2)", and realigned margin. Former par. (3) redesignated (2).
+
+Subsec. (e)(4). Pub. L. 116–283, §1811(d)(6)(G), (K), designated second sentence of par. (3) as (4), inserted heading, realigned margin, and substituted "subsection (a)(7)" for "subsection (c)(7)" in subpar. (C) and "subsection (a)(4)" for "subsection (c)(4)" in subpar. (E). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 116–283, §1811(d)(6)(F), (H), (K), redesignated par. (4) as (5), inserted heading, and realigned margin; inserted subpar. (A) designation before "In no case", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and, in cl. (ii), substituted "chapter 137 legacy provisions" for "this chapter"; and designated concluding provisions as subpar. (B) and substituted "subparagraph (A)(ii)" for "clause (B)". Former par. (5) redesignated (6).
+
+Subsec. (e)(6). Pub. L. 116–283, §1811(d)(6)(I), (K), redesignated par. (5) as (6), inserted heading, and realigned margin. Former par. (6) redesignated (7).
+
+Subsec. (e)(7). Pub. L. 116–283, §1811(d)(6)(J), (K), redesignated par. (6) as (7), inserted heading, and realigned margin.
+
+Subsec. (f). Pub. L. 116–283, §1811(d)(7)(A), inserted heading.
+
+Pub. L. 116–283, §1811(d)(7), redesignated subsec. (l) of section 2304 of this title as subsec. (f) of this section.
+
+Subsec. (f)(1). Pub. L. 116–283, §1811(d)(7)(A)–(C), inserted par. and subpar. headings, substituted "subsection (a)" for "subsection (c)" and "subsection (e)(1)" for "subsection (f)(1)" in subpar. (A) and "subsection (a)(2)" for "subsection (c)(2)" in subpar. (B).
+
+Subsec. (f)(2), (3). Pub. L. 116–283, §1811(d)(7)(D)–(F), inserted headings and realigned margins.
+
+Subsec. (g). Pub. L. 116–283, §1811(d)(8)(A), inserted heading.
+
+Pub. L. 116–283, §1811(d)(8), redesignated subsec. (i) of section 2304 of this title as subsec. (g) of this section.
+
+Subsec. (g)(1). Pub. L. 116–283, §1811(d)(8)(B), struck out ", as defined in section 2302(2) of this title" before period at end.
+
+Subsec. (g)(2), (3). Pub. L. 116–283, §1811(d)(8)(C), realigned margins.
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original. The dash probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The dash probably should be "; or".</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+

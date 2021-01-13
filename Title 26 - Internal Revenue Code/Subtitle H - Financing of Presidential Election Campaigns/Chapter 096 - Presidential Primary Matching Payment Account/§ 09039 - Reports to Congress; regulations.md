@@ -14,7 +14,7 @@ The Commission shall, as soon as practicable after each matching payment period,
 
 #### (b) Regulations, etc.
 
-The Commission is authorized to prescribe rules and regulations in accordance with the provisions of subsection (c), to conduct examinations and audits (in addition to the examinations and audits required by section 9038(a)), to conduct investigations, and to require the keeping and submission of any books, records, and information, which it determines to be necessary to carry out its responsibilities under this chapter.
+The Commission is authorized to prescribe rules and regulations in accordance with theprovisions of subsection (c), to conduct examinations and audits (in addition to the examinations and audits required by section 9038(a)), to conduct investigations, and to require the keeping and submission of any books, records, and information, which it determines to be necessary to carry out its responsibilities under this chapter.
 
 #### (c) Review of regulations
 
@@ -24,7 +24,7 @@ The Commission is authorized to prescribe rules and regulations in accordance wi
 
 (3) For purposes of this subsection, the term "legislative days" does not include any calendar day on which both Houses of the Congress are not in session.
 
-(4) For purposes of this subsection, the term "rule or regulation" means a provision or seriesof interrelated provisions stating a single separable rule of law.
+(4) For purposes of this subsection, the term "rule or regulation" means a provision or series of interrelated provisions stating a single separable rule of law.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1301; amended Pub. L. 94–283, title III, §304(b), May 11, 1976, 90 Stat. 499.)
 

@@ -1,6 +1,6 @@
 ### §5034. Duties of magistrate judge
 
-The magistrate judge shall insure that the juvenile is represented by counsel before proceeding with critical stages of the proceedings. Counsel shall be assigned to represent a juvenile when the juvenile and his parents, guardian, or custodian are financially unable to obtain adequate representation. In cases where the juvenile and his parents, guardian, or custodian are financially able to obtain adequate representation but have not retained counsel, the magistrate judge may assign counsel and order the payment of reasonable attorney's fees or may direct the juvenile, his parents, guardian, or custodian to retain private counsel within a specified period of time.
+The magistrate judge shall insure that the juvenile is represented by counsel before proceeding with critical stages of the proceedings. Counsel shall be assigned to represent a juvenile when the juvenile and his parents, guardian, or custodian are financially unable to obtain adequate representation. In cases where the juvenile and his parents, guardian, or custodian arefinancially able to obtain adequate representation but have not retained counsel, the magistrate judge may assign counsel and order the payment of reasonable attorney's fees or may direct the juvenile, his parents, guardian, or custodian to retain private counsel within a specified period of time.
 
 The magistrate judge may appoint a guardian ad litem if a parent or guardian of the juvenile is not present, or if the magistrate judge has reason to believe that the parents or guardian will not cooperate with the juvenile in preparing for trial, or that the interests of the parents or guardian and those of the juvenile are adverse.
 
@@ -18,6 +18,8 @@ The reference to particular sections dealing with probation was omitted as unnec
 
 Changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690 substituted "facility) upon" for "facility upon" in last par.
@@ -26,11 +28,13 @@ Changes were made in phraseology and arrangement.
 
 <b>1962</b>—Pub. L. 87–428 added fourth par. authorizing commitment of a juvenile delinquent to the custody of the Attorney General for observation and study.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "magistrate judge" substituted for "magistrate" in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Repeals
 
-Section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §504, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 

@@ -38,7 +38,7 @@ Section 1104 of the House amendment represents a compromise between the House bi
 
 #### senate report no. 95–989
 
-Subsection (a) provides for the mandatory appointment of a disinterested trustee in the case of a public company, as defined in section 1101(3), within 10 days of the order for relief, or of a successor, in the event of a vacancy, as soon as practicable.
+Subsection (a) provides for the mandatory appointment of a disinterested trustee in the case of a public company, as defined in section 1101(3), within 10 days ofthe order for relief, or of a successor, in the event of a vacancy, as soon as practicable.
 
 Section 156 of chapter X (\[former\] 11 U.S.C. 516 \[556\]) requires the appointment of a disinterested trustee if the debtor's liabilities are $250,000 or over. Section 1104(a) marks a substantial change. The appointment of a trustee is mandatory only for a public company, which under section 1101(3), has $5 million in liabilities, excluding tax and trade obligations, and 1,000 security holders. In view of past experience, cases involving public companies will under normal circumstances probably be relatively few in number but of vast importance in terms of public investor interest.
 
@@ -59,6 +59,8 @@ Subsection (b) permits the court, at any time after the commencement of the case
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
 Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel of private trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -81,6 +83,8 @@ Subsec. (d). Pub. L. 103–394, §§211(a)(1), 501(d)(30), redesignated subsec. 
 <b>1986</b>—Subsecs. (a), (b). Pub. L. 99–554, §222(1), (2), inserted "or the United States trustee" after "party in interest".
 
 Subsec. (c). Pub. L. 99–554, §222(3), substituted "the United States trustee, after consultation with parties in interest shall appoint, subject to the court's approval, one disinterested person other than the United States trustee to serve" for "the court shall appoint one disinterested person to serve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

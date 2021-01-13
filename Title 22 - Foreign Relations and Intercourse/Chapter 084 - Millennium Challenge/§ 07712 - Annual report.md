@@ -24,13 +24,19 @@ The report shall include the following:
 
 (Pub. L. 108–199, div. D, title VI, §613, Jan. 23, 2004, 118 Stat. 221; Pub. L. 115–167, title II, §204(b), Apr. 23, 2018, 132 Stat. 1280.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(A). Pub. L. 115–167 substituted "any Compact" for "the Compact".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–167 applicable to Compacts entered into between the United States and an eligible country under this chapter before, on, or after Apr. 23, 2018, see section 204(c) of Pub. L. 115–167, set out as a note under section 7708 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Function To Submit a Report Relating to Millennium Challenge Corporation Activities
 
@@ -38,9 +44,9 @@ Memorandum of President of the United States, Mar. 31, 2005, 70 F.R. 17195, prov
 
 Memorandum for the Secretary of State
 
-Consistent with section 301 of title 3, United States Code, the function of the President under section 613 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2004 (Division D of Public Law 108–199) \[22 U.S.C. 7712\] is assigned to the Secretary of State.
+Consistent with section 301 of title 3, United States Code, the function of the President under section 613 of the Foreign Operations, Export Financing, and RelatedPrograms Appropriations Act, 2004 (Division D of Public Law 108–199) \[22 U.S.C. 7712\] is assigned to the Secretary of State.
 
-The Secretary of State shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties. Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary informationthe Secretary requests to perform such function, in the format and on the schedule specified by the Secretary.
+The Secretary of State shall perform such function in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties. Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary information the Secretary requests to perform such function, in the format and on the schedule specified by the Secretary.
 
 Any reference in this memorandum to the provision of any Act shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
 

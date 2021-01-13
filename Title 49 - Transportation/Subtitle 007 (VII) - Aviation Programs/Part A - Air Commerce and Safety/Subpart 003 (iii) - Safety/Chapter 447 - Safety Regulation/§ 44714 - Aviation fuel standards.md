@@ -38,7 +38,7 @@ Use of Unleaded Aviation Gasoline.—The Administrator \[of the Federal Aviation
 
 &emsp;"(2) identifies the aircraft and engines that are eligible to use the qualified replacement unleaded gasoline; and
 
-&emsp;"(3) adopts a process (other than the traditional means of certification) to allow eligible aircraft and engines to operate using qualified replacement unleaded gasoline in a manner that ensures safety.
+&emsp;"(3) adopts a process (other than the traditional means of certification) to allow eligible aircraft andengines to operate using qualified replacement unleaded gasoline in a manner that ensures safety.
 
 "(b)
 

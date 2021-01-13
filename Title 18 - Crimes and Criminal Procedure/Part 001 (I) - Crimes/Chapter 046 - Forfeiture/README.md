@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177, title IV, §406(b)(1)(A), Mar. 9, 2006, 120 Stat. 244, added item 987.

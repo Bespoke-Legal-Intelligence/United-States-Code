@@ -50,7 +50,7 @@ In general.—Only a vessel for which a certificate of documentation with a regi
 
 &emsp;&emsp;(A) the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 1331(a))); or
 
-&emsp;&emsp;(B) the transportation of merchandise or personnel to or from a point in the UnitedStates from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
+&emsp;&emsp;(B) the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
 
 &emsp;(2)
 
@@ -80,9 +80,11 @@ Historical and Revision Notes
 
 46:12102(d).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096, originally derived from section 65o of former Title 46, Shipping, related to surrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See sections 12135 and 12136 of this title.
+A prior section 12111, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096, originally derived from section 65o of former Title 46, Shipping, related tosurrender and invalidation of certificates of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See sections 12135 and 12136 of this title.
 
 #### Amendments
 

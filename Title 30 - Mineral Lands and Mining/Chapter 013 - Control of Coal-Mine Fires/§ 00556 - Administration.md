@@ -28,6 +28,8 @@ In carrying out the provisions of section 553 of this title the Secretary of the
 
 (Aug. 31, 1954, ch. 1156, §6, 68 Stat. 1010.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

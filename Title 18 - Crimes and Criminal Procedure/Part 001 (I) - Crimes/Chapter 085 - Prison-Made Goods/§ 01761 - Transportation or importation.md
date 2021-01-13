@@ -8,7 +8,7 @@
 
 &emsp;(1) are participating in—one of not more than 50 prison work pilot projects designated by the Director of the Bureau of Justice Assistance;
 
-&emsp;(2) have, in connection with such work, received wages at a rate which is not less than that paid for work of a similar nature in the locality in which the work was performed, except that such wages may be subject to deductions which shall not, in the aggregate, exceed80 per centum of gross wages, and shall be limited as follows:
+&emsp;(2) have, in connection with such work, received wages at a rate which is not less than that paid for work of a similar nature in the locality in which the work was performed, except that such wages may be subject to deductions which shall not, in the aggregate, exceed 80 per centum of gross wages, and shall be limited as follows:
 
 &emsp;&emsp;(A) taxes (Federal, State, local);
 
@@ -42,6 +42,8 @@ Subsection (b) was rewritten to eliminate ambiguity and uncertainty by expressly
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (c)(1). Pub. L. 112–55, §221(1), struck out "non-Federal" after "50".
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 98–473, §609K(a), substituted "twenty" for "seven" and "
 Subsec. (d). Pub. L. 98–473, §609K(b), added subsec. (d).
 
 <b>1979</b>—Subsec. (c). Pub. L. 90–351 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

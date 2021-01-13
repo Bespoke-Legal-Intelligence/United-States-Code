@@ -96,7 +96,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is intended to be refunded to the purchaser or any subsequent vendee in reimbursement of costs incurred for local advertising.
 
-> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
+> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before thefirst day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
 
 #### (2) Aggregate amount which may be excluded
 

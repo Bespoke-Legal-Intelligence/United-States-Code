@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The term "unrelated trade or business" means, in the case of any organization subject to the tax imposed by section 511, any trade or business the conduct of which is not substantially related (aside from the need of such organization for income or funds or the use it makesof the profits derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organization described in section 511(a)(2)(B), to the exercise or performance of any purpose or function described in section 501(c)(3)), except that such term does not include any trade or business—
+The term "unrelated trade or business" means, in the case of any organization subject to the tax imposed by section 511, any trade or business the conduct of which is not substantially related (aside from the need of such organization for income or funds or the use it makes of the profits derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 (or, in the case of an organization described in section 511(a)(2)(B), to the exercise or performance of any purpose or function described in section 501(c)(3)), except that such term does not include any trade or business—
 
 &emsp;(1) in which substantially all the work in carrying on such trade or business is performed for the organization without compensation; or
 
@@ -182,7 +182,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 &emsp;&emsp;&emsp;&emsp;(I) any payment which entitles the payor to the use or acknowledgement of the name or logo (or product lines) of the payor's trade or business in regularly scheduled and printed material published by or on behalf of the payee organization that is not related to and primarily distributed in connection with a specific event conducted by the payee organization, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any payment made in connection with any qualified convention or trade show activity (as defined in subsection (d)(3)(B)).
+&emsp;&emsp;&emsp;&emsp;(II) any payment made in connection with any qualified convention or tradeshow activity (as defined in subsection (d)(3)(B)).
 
 #### (3) Allocation of portions of single payment
 
@@ -268,7 +268,7 @@ Pub. L. 95–502, title III, §301(b), Oct. 21, 1978, 92 Stat. 1702, provided th
 
 Pub. L. 94–455, title XIII, §1305(b), Oct. 4, 1976, 90 Stat. 1717, provided that: "The amendments made by subsection (a) \[amending this section\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\]."
 
-Pub. L. 94–455, title XIII, §1311(b), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies."
+Pub. L. 94–455, title XIII, §1311(b), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies."
 
 #### Effective Date of 1969 Amendment
 

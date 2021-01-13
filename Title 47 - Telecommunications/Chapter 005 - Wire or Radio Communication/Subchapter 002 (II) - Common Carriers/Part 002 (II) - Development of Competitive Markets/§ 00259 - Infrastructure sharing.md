@@ -32,7 +32,7 @@ For purposes of this section, the term "qualifying carrier" means a telecommunic
 
 &emsp;(1) lacks economies of scale or scope, as determined in accordance with regulations prescribed by the Commission pursuant to this section; and
 
-&emsp;(2) offers telephone exchange service, exchange access, and any other service that is included in universal service, to all consumers without preference throughout the service area for which such carrier has been designated as an eligible telecommunications carrier under section 214(e) of this title.
+&emsp;(2) offers telephone exchange service, exchange access, and any other service that isincluded in universal service, to all consumers without preference throughout the service area for which such carrier has been designated as an eligible telecommunications carrier under section 214(e) of this title.
 
 (June 19, 1934, ch. 652, title II, §259, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 77.)
 

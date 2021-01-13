@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Indian tribe
 
-&emsp;The term "Indian tribe" means any Indian or Alaska Native tribe, band, nation, pueblo,village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to section 5131 of this title.
+&emsp;The term "Indian tribe" means any Indian or Alaska Native tribe, band, nation, pueblo, village, or other community the name of which is included on a list published by the Secretary of the Interior pursuant to section 5131 of this title.
 
 #### (6) Lineal descendant
 
@@ -40,11 +40,15 @@ In this chapter:
 
 (Pub. L. 110–234, title VIII, §8102, May 22, 2008, 122 Stat. 1287; Pub. L. 110–246, §4(a), title VIII, §8102, June 18, 2008, 122 Stat. 1664, 2048.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment ofPub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 

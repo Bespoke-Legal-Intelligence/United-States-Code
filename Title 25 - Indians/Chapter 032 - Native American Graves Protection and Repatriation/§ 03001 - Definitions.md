@@ -4,7 +4,7 @@ For purposes of this chapter, the term—
 
 &emsp;(1) "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 
-&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically orprehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
 
 &emsp;(3) "cultural items" means human remains and—
 
@@ -18,7 +18,7 @@ For purposes of this chapter, the term—
 
 &emsp;(4) "Federal agency" means any department, agency, or instrumentality of the United States. Such term does not include the Smithsonian Institution.
 
-&emsp;(5) "Federal lands" means any land other than tribal lands which are controlled orowned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
+&emsp;(5) "Federal lands" means any land other than tribal lands which are controlled or owned by the United States, including lands selected by but not yet conveyed to Alaska Native Corporations and groups organized pursuant to the Alaska Native Claims Settlement Act of 1971 \[43 U.S.C. 1601 et seq.\].
 
 &emsp;(6) "Hui Malama I Na Kupuna O Hawai'i Nei" means the nonprofit, Native Hawaiian organization incorporated under the laws of the State of Hawaii by that name on April 17, 1989, for the purpose of providing guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues.
 
@@ -56,6 +56,8 @@ For purposes of this chapter, the term—
 
 (Pub. L. 101–601, §2, Nov. 16, 1990, 104 Stat. 3048; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -71,6 +73,8 @@ Section 4 of Public Law 86–3, referred to in par. (15)(C), is section 4 of Pub
 #### Amendments
 
 <b>1992</b>—Par. (13). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -22,7 +22,7 @@
 
 #### (C) Risks to financial stability and safety and soundness
 
-&emsp;&emsp;The Board of Governors may by order or rule promulgated pursuant to section 553 of title 5 apply any prudential standard established under this section to any bank holding company or bank holding companieswith total consolidated assets equal to or greater than $100,000,000,000 to which the prudential standard does not otherwise apply provided that the Board of Governors—
+&emsp;&emsp;The Board of Governors may by order or rule promulgated pursuant to section 553 of title 5 apply any prudential standard established under this section to any bank holding company or bank holding companies with total consolidated assets equal to or greater than $100,000,000,000 to which the prudential standard does not otherwise apply provided that the Board of Governors—
 
 &emsp;&emsp;&emsp;(i) determines that application of the prudential standard is appropriate—
 
@@ -102,7 +102,7 @@
 
 #### (1) In general
 
-&emsp;Subsequent to submission by the Council of a report to Congress under section 5325(c) of this title, the Board of Governors may issue regulations that require each nonbank financial company supervised by the Board of Governors and bank holding companies describedin subsection (a) to maintain a minimum amount of contingent capital that is convertible to equity in times of financial stress.
+&emsp;Subsequent to submission by the Council of a report to Congress under section 5325(c) of this title, the Board of Governors may issue regulations that require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to maintain a minimum amount of contingent capital that is convertible to equity in times of financial stress.
 
 #### (2) Factors to consider
 
@@ -168,7 +168,7 @@
 
 #### (6) No limiting effect
 
-&emsp;A resolution plan submitted in accordance with this subsection shall not be binding on a bankruptcy court, a receiver appointed under subchapter II, or any other authority that isauthorized or required to resolve the nonbank financial company supervised by the Board, any bank holding company, or any subsidiary or affiliate of the foregoing.
+&emsp;A resolution plan submitted in accordance with this subsection shall not be binding on a bankruptcy court, a receiver appointed under subchapter II, or any other authority that is authorized or required to resolve the nonbank financial company supervised by the Board, any bank holding company, or any subsidiary or affiliate of the foregoing.
 
 #### (7) No private right of action
 
@@ -312,7 +312,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (B) Report
 
-&emsp;&emsp;A company required to conduct stress tests under subparagraph (A) shall submit a report to the Board of Governors and to itsprimary financial regulatory agency at such time, in such form, and containing such information as the primary financial regulatory agency shall require.
+&emsp;&emsp;A company required to conduct stress tests under subparagraph (A) shall submit a report to the Board of Governors and to its primary financial regulatory agency at such time, in such form, and containing such information as the primary financial regulatory agency shall require.
 
 #### (C) Regulations
 
@@ -378,6 +378,8 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 (Pub. L. 111–203, title I, §165, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, §401(a), May 24, 2018, 132 Stat. 1356.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter II, referred to in subsec. (d)(6), was in the original "title II", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
@@ -404,11 +406,13 @@ Subsec. (h)(2). Pub. L. 115–174, §401(a)(4), substituted "$50,000,000,000" fo
 
 Subsec. (i)(1)(B)(i). Pub. L. 115–174, §401(a)(5)(A), substituted "2 different sets" for "3 different sets" and struck out ", adverse," after "baseline".
 
-Subsec. (i)(2)(A). Pub. L. 115–174, §401(a)(5)(B)(i), in first sentence, substituted "periodic" for "semiannual"and, in second sentence, substituted "$250,000,000,000" for "$10,000,000,000" and "periodic" for "annual".
+Subsec. (i)(2)(A). Pub. L. 115–174, §401(a)(5)(B)(i), in first sentence, substituted "periodic" for "semiannual" and, in second sentence, substituted "$250,000,000,000" for "$10,000,000,000" and "periodic" for "annual".
 
 Subsec. (i)(2)(C)(ii). Pub. L. 115–174, §401(a)(5)(B)(ii), substituted "2 different sets" for "3 different sets" and struck out ", adverse," after "baseline".
 
 Subsec. (j)(1). Pub. L. 115–174, §401(a)(6), substituted "$250,000,000,000" for "$50,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

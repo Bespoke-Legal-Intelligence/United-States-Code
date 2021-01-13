@@ -16,9 +16,13 @@
 
 (Added Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(b)(1)\], title II, §2603(b)(1), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 101(f) \[title VI, §648(b)(1)\] and 2603(b)(1) of div. A of Pub. L. 104–208 added identical sections 514.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

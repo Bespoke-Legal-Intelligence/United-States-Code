@@ -60,7 +60,7 @@ Authority To Prescribe Regulations.—The authority to prescribe regulations to 
 
 #### Short Title
 
-Pub. L. 97–176, §1, May 17, 1982, 96 Stat. 78, provided: "That this Act \[enacting this subchapter and repealing subchapter III of this chapter\] may be cited as the 'Northern Pacific Halibut Act of 1982'."
+Pub. L. 97–176, §1, May 17, 1982, 96 Stat. 78, provided: "That this Act \[enacting this subchapter and repealingsubchapter III of this chapter\] may be cited as the 'Northern Pacific Halibut Act of 1982'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

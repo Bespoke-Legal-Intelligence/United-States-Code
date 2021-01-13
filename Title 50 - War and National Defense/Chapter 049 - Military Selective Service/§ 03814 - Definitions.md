@@ -10,7 +10,7 @@ When used in this chapter—
 
 (d) The term "district court of the United States" shall be deemed to include the courts of the United States for the Territories and possessions of the United States.
 
-(e) The term "local board" shall be deemed to include an intercounty local board in the case of any registrant who is subject to the jurisdiction of an intercounty local board.
+(e) The term "local board" shall be deemed to include an intercounty local board in the case ofany registrant who is subject to the jurisdiction of an intercounty local board.
 
 (f) The term "Director" shall be deemed to mean the Director of the Selective Service System.
 

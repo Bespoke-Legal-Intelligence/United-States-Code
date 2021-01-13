@@ -22,7 +22,9 @@
 
 (f) During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
 
-(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, §503, Mar. 9, 2006, 120 Stat. 247.)
+(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91,title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, §503, Mar. 9, 2006, 120 Stat. 247.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -40,13 +42,15 @@
 
 <b>1965</b>—Subsec. (d)(1). Pub. L. 89–174 inserted reference to Secretary of Health, Education, and Welfare and Secretary of Housing and Urban Development.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L.96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
+Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of Title 20, Education.
 
 #### Effective Date of 1970 Amendment
 

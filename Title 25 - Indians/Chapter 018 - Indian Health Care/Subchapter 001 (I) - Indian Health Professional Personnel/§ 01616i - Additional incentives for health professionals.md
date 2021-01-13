@@ -2,7 +2,7 @@
 
 #### (a) Incentive special pay
 
-The Secretary may provide the incentive special pay authorized under section 302(b) or 335(b) of title 37 to civilian medical officers of the Indian Health Service who are assigned to, and serving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
+The Secretary may provide the incentive special pay authorized under section 302(b) or 335(b) of title 37 to civilian medical officers of the Indian Health Service who are assigned to, andserving in, positions included in the list established under subsection (b)(1) for which recruitment or retention of personnel is difficult.
 
 #### (b) List of positions; bonus pay
 
@@ -17,6 +17,8 @@ The Secretary may provide the incentive special pay authorized under section 302
 The Secretary may establish programs to allow the use of flexible work schedules, and compressed work schedules, in accordance with the provisions of subchapter II of chapter 61 of title 5, for health professionals employed by, or assigned to, the Service.
 
 (Pub. L. 94–437, title I, §116, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4798; amended Pub. L. 102–573, title I, §117(b)(8), title IX, §901(1), Oct. 29, 1992, 106 Stat. 4544, 4590; Pub. L. 115–91, div. A, title VI, §618(f), Dec. 12, 2017, 131 Stat. 1427.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

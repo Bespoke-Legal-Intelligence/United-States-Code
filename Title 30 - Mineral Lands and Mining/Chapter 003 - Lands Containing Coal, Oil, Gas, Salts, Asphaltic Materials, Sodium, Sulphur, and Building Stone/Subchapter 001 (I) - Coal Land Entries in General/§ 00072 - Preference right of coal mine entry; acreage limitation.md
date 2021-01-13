@@ -4,9 +4,13 @@ Any person or association of persons severally qualified, as provided in section
 
 (R.S. §2348.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2348 derived from act Mar. 3, 1873, ch. 279, §2, 17 Stat. 607.
+
+#### <b>Executive Documents</b>
 
 #### Indian Lands Excepted
 

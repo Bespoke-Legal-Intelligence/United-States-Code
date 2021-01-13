@@ -22,6 +22,8 @@ The word "office" is omitted as included in "position". The words "before August
 
 Standard changes are made to conform to the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 305 of the Government Employees Salary Reform Act of 1964, referred to in text, means section 305 of Pub. L. 88–426, Aug. 14, 1964. For complete classification of this section to the Code, see Tables.
@@ -29,6 +31,8 @@ Section 305 of the Government Employees Salary Reform Act of 1964, referred to i
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

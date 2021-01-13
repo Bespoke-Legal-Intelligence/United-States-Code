@@ -1,6 +1,6 @@
 ### §70031. Definitions
 
-As used in subchapters A through C <sup>1</sup> and this subchapter, unless the context otherwise requires:
+As used in subchapters I through III and this subchapter, unless the context otherwise requires:
 
 &emsp;(1) The term "marine environment" means—
 
@@ -16,11 +16,15 @@ As used in subchapters A through C <sup>1</sup> and this subchapter, unless the
 
 &emsp;(3) The term "navigable waters of the United States" includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
-(Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4261.)
+(Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4261; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(a)(4), Jan. 1, 2021, 134 Stat. 4753.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Presidential Proclamation No. 5928, referred to in par. (3), is set out under section 1331 of Title 43, Public Lands.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subchapters I through III".</i>
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "I through III" for "A through C" in introductory provisions.
 

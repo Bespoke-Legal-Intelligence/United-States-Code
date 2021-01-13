@@ -164,11 +164,13 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §601, 80 Stat. 303.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1(b) of the Act of August 25, 1958 (72 Stat. 838), referred to in par. (1)(H), is section 1(b) of Pub. L. 85–745 which is set out as a note under section 102 of Title 3, The President.
 
-Section 5 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is section 5 of Pub. L. 88–277,which is set out as a note under section 102 of Title 3, The President.
+Section 5 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is section 5 of Pub. L. 88–277, which is set out as a note under section 102 of Title 3, The President.
 
 The date of enactment of section 8903a of this title, referred to in par. (8)(B), means the date of enactment of Pub. L. 99–53, which enacted section 8903a and which was approved June 17, 1985.
 
@@ -230,6 +232,8 @@ Par. (3)(B). Pub. L. 91–418, §2(a), redefined "annuitant" to be a member of a
 
 Par. (3)(D)(i). Pub. L. 91–418, §2(b), redefined "annuitant" to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Gallaudet College, referred to in par. (1)(F), was redesignated Gallaudet University by section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of Title 20, Education.
@@ -240,7 +244,7 @@ Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -326,7 +330,7 @@ Transfers to the Employees Health Benefits Fund.—
 
 &emsp;"(1)
 
-In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
+In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established undersection 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
 
 &emsp;"(2)
 
@@ -412,7 +416,7 @@ Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 "(b)(1) An individual who, on September 30, 1995, is covered by a health benefits plan administered by the Farm Credit Administration may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
-&emsp;"(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
+&emsp;"(A) either as an individual or for self and family, if such individual is an employee, annuitant, orformer spouse as defined under section 8901 of such title; and
 
 &emsp;"(B) for coverage effective on and after September 30, 1995.
 

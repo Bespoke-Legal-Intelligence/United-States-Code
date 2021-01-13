@@ -8,11 +8,11 @@
 
 (C) Whenever any data and information is provided to the Secretary, pursuant to subparagraph (A) of this paragraph—
 
-&emsp;(i) by a lessee, in the form and manner of processing which is utilized by such lessee in the normal conduct of his business, the Secretary shall pay the reasonable cost of reproducing such data and information;
+&emsp;(i) by a lessee, in the form and manner of processing which is utilized by such lessee inthe normal conduct of his business, the Secretary shall pay the reasonable cost of reproducing such data and information;
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at thelowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 
@@ -61,6 +61,8 @@ Any provision of State or local law which provides for public access to any priv
 If the Secretary finds that any State cannot or does not comply with the regulations issued under subsection (c) of this section, he shall thereafter withhold transmittal and deny inspection of privileged information to such State until he finds that such State can and will comply with such regulations.
 
 (Aug. 7, 1953, ch. 345, §26, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 664.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Payment of Processing Costs for Data and Information Acquired; Permittees Eligible
 

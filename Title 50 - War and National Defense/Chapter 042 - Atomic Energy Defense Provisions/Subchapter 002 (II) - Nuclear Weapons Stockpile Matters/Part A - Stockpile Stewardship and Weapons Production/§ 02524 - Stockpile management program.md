@@ -30,7 +30,7 @@ In carrying out the stockpile management program under subsection (a), the Secre
 
 In accordance with the requirements under section 2529 of this title, for each budget submitted by the President to Congress under section 1105 of title 31, the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 
-(Pub. L. 107–314, div. D, title XLII, §4204, formerly Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926; renumbered Pub. L. 107–314, div. D, title XLII, §4204, and amended Pub. L. 108–136, div. C, title XXXI, §§3111, 3141(e)(5), Nov. 24, 2003, 117 Stat. 1743, 1758; Pub.L. 111–84, div. C, title XXXI, §3113(a)(2), Oct. 28, 2009, 123 Stat. 2704; Pub. L. 112–239, div. C, title XXXI, §3133(d), Jan. 2, 2013, 126 Stat. 2192; Pub. L. 113–66, div. C, title XXXI, §3146(c)(2), Dec. 26, 2013, 127 Stat. 1073.)
+(Pub. L. 107–314, div. D, title XLII, §4204, formerly Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926; renumbered Pub. L. 107–314, div. D, title XLII, §4204, and amended Pub. L. 108–136, div. C, title XXXI, §§3111, 3141(e)(5), Nov. 24, 2003, 117 Stat. 1743, 1758; Pub. L. 111–84, div. C, title XXXI, §3113(a)(2), Oct. 28, 2009, 123 Stat. 2704; Pub. L. 112–239, div. C, title XXXI, §3133(d), Jan. 2, 2013, 126 Stat. 2192; Pub. L. 113–66, div. C, title XXXI, §3146(c)(2), Dec. 26, 2013, 127 Stat. 1073.)
 
 #### Codification
 

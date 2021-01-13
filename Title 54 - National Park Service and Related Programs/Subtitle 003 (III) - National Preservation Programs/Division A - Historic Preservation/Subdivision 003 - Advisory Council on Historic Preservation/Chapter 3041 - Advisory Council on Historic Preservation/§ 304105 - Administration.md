@@ -30,7 +30,7 @@ Appointment and Compensation of Officers and Employees.—The Executive Director
 
 (d)
 
-Appointment and Compensation of Additional Personnel.—The Executive Directormay appoint and fix the compensation of such additional personnel as may be necessary to carry out the Council's duties, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
+Appointment and Compensation of Additional Personnel.—The Executive Director may appoint and fix the compensation of such additional personnel as may be necessary to carry out the Council's duties, without regard to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5.
 
 (e)
 
@@ -104,13 +104,15 @@ In subsection (a), the words "at a rate within the Executive Schedule" are added
 
 In subsection (c), the words "that exceed that prescribed for the highest rate established for grade 15 of the General Schedule under section 5332 of title 5 or in the Senior Executive Service under section 3393 of title 5" are substituted for "not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under section 5332 of title 5" for consistency with the intent of the source provision language as it existed in 1966, which included all Federal employees. The language is updated to reflect the existence of the Senior Executive Service and senior level employees above grade 15.
 
-In subsection (d), the words "chapter 51 and subchapter III of chapter 53 of title 5" are substituted for "the Classification Act of 1949" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the 1st section of which enacted Title 5, United States Code.
+In subsection (d), the words "chapter 51 and subchapter III of chapter 53 of title 5" are substituted for"the Classification Act of 1949" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the 1st section of which enacted Title 5, United States Code.
 
 In subsection (f)(1), the word "Secretary" is substituted for "Department of the Interior" because of 43 U.S.C. 1451.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of Pub. L. 89–665, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified tosection 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.
+Section 207 of the National Historic Preservation Act, referred to in subsec. (h), is section 207 of Pub. L. 89–665, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322, which related to transfer of personnel and property by Department of the Interior to Advisory Council on Historic Preservation and was classified to section 470o of Title 16, Conservation, prior to repeal by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.
 
 The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

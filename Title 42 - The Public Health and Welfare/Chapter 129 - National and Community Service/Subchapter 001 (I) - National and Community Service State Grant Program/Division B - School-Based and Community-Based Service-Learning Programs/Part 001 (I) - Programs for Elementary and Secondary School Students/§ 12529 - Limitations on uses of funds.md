@@ -6,7 +6,7 @@ Not more than 6 percent of the amount of assistance received by a State, territo
 
 #### Prior Provisions
 
-A prior section 12529, Pub. L. 101–610, title I, §116, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107Stat. 832, related to Federal, State, and local contributions, prior to the general amendment of this part by Pub. L. 111–13, effective Oct. 1, 2009.
+A prior section 12529, Pub. L. 101–610, title I, §116, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 832, related to Federal, State, and local contributions, prior to the general amendment of this part by Pub. L. 111–13, effective Oct. 1, 2009.
 
 A prior section 117 of Pub. L. 101–610 was classified to section 12541 of this title prior to the general amendment of this part by Pub. L. 111–13.
 
@@ -32,7 +32,7 @@ Section 12543, Pub. L. 101–610, title I, §117B, as added Pub. L. 103–82, ti
 
 Another prior section 12543, Pub. L. 101–610, title I, §123, Nov. 16, 1990, 104 Stat. 3141, as amended, which related to applications for assistance by States, Indian tribes and other local applicants, was renumbered section 199C of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655b of this title.
 
-Section 12544, Pub. L. 101–610, title I, §117C, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 834, set forth an application process for local grant eligibility.
+Section 12544, Pub. L. 101–610, title I, §117C, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat.834, set forth an application process for local grant eligibility.
 
 Another prior section 12544, Pub. L. 101–610, title I, §124, Nov. 16, 1990, 104 Stat. 3143, as amended, which prescribed appropriate focus for conservation and youth service corps programs, was renumbered section 199D of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655c of this title.
 

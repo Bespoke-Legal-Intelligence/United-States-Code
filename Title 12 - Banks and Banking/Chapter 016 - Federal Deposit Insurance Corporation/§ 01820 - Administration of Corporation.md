@@ -26,7 +26,7 @@ The Board of Directors shall administer the affairs of the Corporation fairly an
 
 #### (A) In general
 
-&emsp;&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II <sup>1</sup> of that Act, provided that such authoritymay not be used with respect to any such company that is in a generally sound condition.
+&emsp;&emsp;In addition to the examinations authorized under paragraph (2), any examiner appointed under paragraph (1) shall have power, on behalf of the Corporation, to make any special examination of any insured depository institution or nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], whenever the Board of Directors determines that a special examination of any such depository institution is necessary to determine the condition of such depository institution for insurance purposes, or of such nonbank financial company supervised by the Board of Governors or bank holding company described in section 165(a) of the Financial Stability Act of 2010 \[12 U.S.C. 5365(a)\], for the purpose of implementing its authority to provide for orderly liquidation of any such company under title II <sup>1</sup> of that Act, provided that such authority may not be used with respect to any such company that is in a generally sound condition.
 
 #### (B) Limitation
 
@@ -186,7 +186,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (B) Assessment and collection
 
-&emsp;&emsp;Any penalty imposed under subparagraph (A) shall be assessed and collected by the Corporation in the manner provided in section 1818(i)(2) of this title.
+&emsp;&emsp;Any penalty imposed under subparagraph (A) shall be assessed and collected by theCorporation in the manner provided in section 1818(i)(2) of this title.
 
 #### (5) Deposits of examination assessment
 
@@ -246,7 +246,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 &emsp;&emsp;&emsp;(i) with written notice to the State bank supervisor of the bank's home State and subject to the terms of any applicable cooperative agreement with the State bank supervisor of such home State, examine such branch for the purpose of determining compliance with host State laws that are applicable pursuant to section 1831a(j) of this title, including those that govern community reinvestment, fair lending, and consumer protection; and
 
-&emsp;&emsp;&emsp;(ii) if expressly permitted under and subject to the terms of a cooperative agreement with the State bank supervisor of the bank's home State or if such out-of-State insured State bank has been determined to be in a troubled condition by either the State bank supervisor of the bank's home State or the bank's appropriate Federal banking agency, participate in the examination of the bank by the State bank supervisor of the bank's homeState to ascertain that the activities of the branch in such host State are not conducted in an unsafe or unsound manner.
+&emsp;&emsp;&emsp;(ii) if expressly permitted under and subject to the terms of a cooperative agreement with the State bank supervisor of the bank's home State or if such out-of-State insured State bank has been determined to be in a troubled condition by either the State bank supervisor of the bank's home State or the bank's appropriate Federal banking agency, participate in the examination of the bank by the State bank supervisor of the bank's home State to ascertain that the activities of the branch in such host State are not conducted in an unsafe or unsound manner.
 
 #### (B) Notice of determination
 
@@ -256,7 +256,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (ii) Timing of notice
 
-&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall provide notice under clause (i) as soon as is reasonably possible, but in all cases not later than 15 business days after the date on which the State bank supervisor has made such final determination or has received written notification of such final determination.
+&emsp;&emsp;&emsp;The State bank supervisor of the home State of an insured State bank shall provide notice under clause (i) as soon as is reasonably possible, but in all cases not later than 15 business days after the date on which the State bank supervisor hasmade such final determination or has received written notification of such final determination.
 
 #### (3) Host State enforcement
 
@@ -314,7 +314,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (1) Examinations
 
-&emsp;The appropriate Federal banking agency shall, during each scheduled on-site examination required by this section, determine whether the insured depository institution iscomplying with the requirements of the national flood insurance program.
+&emsp;The appropriate Federal banking agency shall, during each scheduled on-site examination required by this section, determine whether the insured depository institution is complying with the requirements of the national flood insurance program.
 
 #### (2) Report
 
@@ -422,6 +422,8 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 (Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751; Pub. L. 109–351, title VI, §605, title VII, §§711, 723(a), Oct. 13, 2006, 120 Stat. 1981, 1991, 2000; Pub. L. 109–473, §1, Jan. 11, 2007, 120 Stat. 3561; Pub. L. 110–289, div. A, title VI, §1604(b)(1)(B), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title I, §172(a), title III, §§318(d), 363(4), July 21, 2010, 124 Stat. 1438, 1527, 1552; Pub. L. 114–94, div. G, title LXXXIII, §83001, Dec. 4, 2015, 129 Stat. 1796; Pub. L. 115–174, title II, §210, May 24, 2018, 132 Stat. 1316.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title II of that Act, referred to in subsec. (b)(3)(A), probably means title II of Pub. L. 111–203, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which is classified principally to subchapter II (§5381 et seq.) of chapter 53 of this title. The Financial Stability Act of 2010, which is title I of Pub. L. 111–203, does not contain titles. For complete classification of title II to the Code, see Tables.
@@ -446,7 +448,7 @@ Subsec. (d)(10). Pub. L. 114–94, §83001(2), substituted "$200,000,000" for "$
 
 &emsp;"(B)
 
-Limitation.—Before conducting a special examination of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, the Corporation shall review any available and acceptable resolution plan that the company has submitted in accordance with section 165(d) of that Act, consistent with the nonbinding effect of such plan, and available reports of examination, and shall coordinate to the maximum extent practicable with the Board of Governors, in order to minimize duplicative or conflicting examinations."
+Limitation.—Before conducting a special examination of a nonbank financial company supervised by the Board of Governors or a bank holding company described in section 165(a) of the Financial Stability Act of 2010, the Corporation shall reviewany available and acceptable resolution plan that the company has submitted in accordance with section 165(d) of that Act, consistent with the nonbinding effect of such plan, and available reports of examination, and shall coordinate to the maximum extent practicable with the Board of Governors, in order to minimize duplicative or conflicting examinations."
 
 > for " 'whenever the board of directors determines' and all that follows through the period", was executed by making the substitution for "whenever the Board of Directors determines" and all that followed through the period, to reflect the probable intent of Congress.
 
@@ -565,6 +567,8 @@ Subsec. (d). Pub. L. 95–630, §305(b), substituted provisions defining the ter
 Subsec. (c). Pub. L. 89–695 provided that in connection with examinations of insured banks and affiliates thereof, the appropriate Federal banking agency, or its designated representatives, could administer oaths and affirmations, take and preserve testimony under oath as to any matter in respect of the affairs or ownership of such bank or affiliate thereof, issue subpenas and subpenas duces tecum, and apply to the proper United States district court for the enforcement of such subpenas, provided such courts with jurisdiction and power to order and require compliance with any such subpena, and defined "affiliate" and "member bank".
 
 <b>1960</b>—Subsecs. (e) to (g). Pub. L. 86–671 struck out subsecs. (e) and (f) which related to reports of condition by insured nonmember State banks and access by Corporation to information of other bank supervisory authorities, and redesignated subsec. (g) as (e). See section 1817(a)(1) and (2) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

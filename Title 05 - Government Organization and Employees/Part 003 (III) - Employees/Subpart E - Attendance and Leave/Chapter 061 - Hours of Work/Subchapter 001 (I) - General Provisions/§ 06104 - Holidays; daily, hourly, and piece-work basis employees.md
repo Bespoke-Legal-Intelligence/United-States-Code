@@ -38,11 +38,15 @@ The enumeration of holidays is eliminated as unnecessary in view of section 6103
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–54 substituted "Mayor" for "Commissioner" in pars. (1) and (3), and "Council of the District of Columbia" for "District of Columbia Council" in par. (2).
 
 <b>1968</b>—Pub. L. 90–623 substituted "Commissioner" for "Board of Commissioners" in pars. (1) and (3), and "District of Columbia Council" for "Board of Commissioners" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -51,6 +55,8 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10552. Delegation of Authority To Promulgate Regulations
 

@@ -14,13 +14,21 @@ Exception.—An entity described in subsection (a) may have a direct financial i
 
 &emsp;&emsp;(B) the Department took appropriate steps to prevent any organizational conflict of interest in the selection process; or
 
-&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor,through a process over which the entity exercised no control.
+&emsp;(2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor, through a process over which the entity exercised no control.
 
 (c)
 
 Construction.—Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
 (Added Pub. L. 109–364, div. A, title VIII, §807(a)(1), Oct. 17, 2006, 120 Stat. 2315.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(f)(1), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter V of chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4292 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

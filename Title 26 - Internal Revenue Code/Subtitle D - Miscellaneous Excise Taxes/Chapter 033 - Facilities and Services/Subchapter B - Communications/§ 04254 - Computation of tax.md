@@ -16,7 +16,7 @@ If the tax imposed by section 4251 with respect to toll telephone service is pai
 
 For purposes of this subchapter, in determining the amounts paid for communications services, there shall not be included the amount of any State or local tax imposed on the furnishing or sale of such services, if the amount of such tax is separately stated in the bill.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291;Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
 
 #### Codification
 

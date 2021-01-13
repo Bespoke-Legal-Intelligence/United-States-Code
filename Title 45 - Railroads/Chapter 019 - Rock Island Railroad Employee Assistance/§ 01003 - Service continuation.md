@@ -16,9 +16,11 @@ Notwithstanding the provisions of Public Law 96–131, the Commission shall orde
 
 #### (c) Continuation of compensation terms for trackage rights, joint facilities, etc.
 
-The terms of compensation for all trackage rights, joint facilities, and similar arrangementsbetween other rail carriers and the trustee of the Rock Island Railroad which are in effect on or after March 15, 1980, on portions of the lines of the Rock Island Railroad involved in temporary emergency operations shall be continued in effect during the duration of the temporary emergency operating authority with the carrier providing temporary emergency service substituting for the trustee, except where the Rock Island Railroad has been given more favorable treatment by virtue of its bankruptcy. Such continuation shall not alter or affect the ultimate rights of other rail carriers under trackage rights, joint facilities, or similar arrangements nor prejudice the ultimate determination of any controversy or proceeding concerning rights of the parties with regard to assignment by the trustee of rights in or to the facilities or under the arrangements.
+The terms of compensation for all trackage rights, joint facilities, and similar arrangements between other rail carriers and the trustee of the Rock Island Railroad which are in effect on or after March 15, 1980, on portions of the lines of the Rock Island Railroad involved in temporary emergency operations shall be continued in effect during the duration of the temporary emergency operating authority with the carrier providing temporary emergency service substituting for the trustee, except where the Rock Island Railroad has been given more favorable treatment by virtue of its bankruptcy. Such continuation shall not alter or affect the ultimate rights of other rail carriers under trackage rights, joint facilities, or similar arrangements nor prejudice the ultimate determination of any controversy or proceeding concerning rights of the parties with regard to assignment by the trustee of rights in or to the facilities or under the arrangements.
 
 (Pub. L. 96–254, title I, §104, May 30, 1980, 94 Stat. 400; Pub. L. 104–88, title III, §329(1), Dec. 29, 1995, 109 Stat. 952.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,13 +34,15 @@ Section 916(b) of this title, referred to in subsec. (b)(1), was repealed by Pub
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "the provisions of Public Law 96–131" for "the provisions of section 11125 of title 49 or Public Law 96–131".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

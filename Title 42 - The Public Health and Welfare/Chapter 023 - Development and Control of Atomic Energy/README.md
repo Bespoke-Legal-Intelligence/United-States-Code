@@ -238,8 +238,7 @@
 | [2210h.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210h%20-%20Radiation%20source%20protection.md) | Radiation source protection. |
 | [2210i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210i%20-%20Secure%20transfer%20of%20nuclear%20materials.md) | Secure transfer of nuclear materials. |
 | [2211\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md) | Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions. |
-| 2212, 2213. | Repealed or Transferred. |
-| [2214\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002214%20-%20NRC%20user%20fees%20and%20annual%20charges.md) | NRC user fees and annual charges. |
+| 2212 to 2214. | Repealed or Transferred. |
 | [2215\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002215%20-%20Nuclear%20Regulatory%20Commission%20user%20fees%20and%20annual%20charges%20for%20fiscal%20year%202021%20and%20each%20fiscal%20year%20thereafter.md) | Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

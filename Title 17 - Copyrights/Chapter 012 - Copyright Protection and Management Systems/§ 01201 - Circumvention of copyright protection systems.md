@@ -2,7 +2,7 @@
 
 (a)
 
-Violations Regarding Circumvention of Technological Measures.—(1)(A) No person shall circumvent a technological measure that effectively controls access to a work protected under this title. The prohibition contained in the preceding sentence shall take effect at theend of the 2-year period beginning on the date of the enactment of this chapter.
+Violations Regarding Circumvention of Technological Measures.—(1)(A) No person shall circumvent a technological measure that effectively controls access to a work protected under this title. The prohibition contained in the preceding sentence shall take effect at the end of the 2-year period beginning on the date of the enactment of this chapter.
 
 (B) The prohibition contained in subparagraph (A) shall not apply to persons who are users of a copyrighted work which is in a particular class of works, if such persons are, or are likely to be in the succeeding 3-year period, adversely affected by virtue of such prohibition in their ability to make noninfringing uses of that particular class of works under this title, as determined under subparagraph (C).
 
@@ -108,7 +108,7 @@ Encryption Research.—
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "encryption research" means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
+&emsp;&emsp;(A) the term "encryption research" means activities necessary to identify and analyzeflaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
 
 &emsp;&emsp;(B) the term "encryption technology" means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
@@ -180,7 +180,7 @@ Circumvention permitted.—Notwithstanding the provisions of subsection (a)(1)(A
 
 &emsp;(2)
 
-Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminate personally identifying information and that is disclosed to a user as not having or using such capability.
+Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminatepersonally identifying information and that is disclosed to a user as not having or using such capability.
 
 (j)
 
@@ -238,7 +238,7 @@ Certain analog devices.—
 
 Certain encoding restrictions.—No person shall apply the automatic gain control copy control technology or colorstripe copy control technology to prevent or limit consumer copying except such copying—
 
-&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
+&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or ofaudiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
 
 &emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
 
@@ -282,6 +282,8 @@ Violations.—Any violation of paragraph (1) of this subsection shall be treated
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2863; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5006\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsecs. (a)(1)(A), (g)(5), and (k)(1), (4)(E), is the date of enactment of Pub. L. 105–304, which was approved Oct. 28, 1998.
@@ -291,6 +293,8 @@ The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and 
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–113 struck out "on the record" after "determination in a rulemaking proceeding" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Unlocking Consumer Choice and Wireless Competition
 
@@ -308,7 +312,7 @@ Repeal and Replace.—As of the date of the enactment of this Act \[Aug. 1, 2014
 
 "(b)
 
-Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
+Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, whoshall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
 
 "(c)
 

@@ -48,17 +48,19 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 &emsp;(A) states in writing that he will not petition for review of the initial determination; and
 
-&emsp;(B) enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
+&emsp;(B) enters into an agreement with the Secretary to repay to the Secretary all or anypart of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsiblefor such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
+(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 
 #### (i) Judicial review
 
 Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
 
 (Pub. L. 95–372, title IV, §405, Sept. 18, 1978, 92 Stat. 688; Pub. L. 97–212, §5, June 30, 1982, 96 Stat. 145; Pub. L. 98–498, title IV, §420(3), (4), Oct. 19, 1984, 98 Stat. 2309, 2310.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amo
 Subsec. (h)(2). Pub. L. 97–212, §5(7)(B), inserted provision that any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
 Subsec. (i). Pub. L. 97–212, §5(8), substituted "Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant" for "Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

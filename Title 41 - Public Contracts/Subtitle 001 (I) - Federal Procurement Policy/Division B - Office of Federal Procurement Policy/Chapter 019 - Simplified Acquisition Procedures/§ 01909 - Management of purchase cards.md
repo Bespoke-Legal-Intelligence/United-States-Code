@@ -4,7 +4,7 @@
 
 Required Safeguards and Internal Controls.—The head of each executive agency that issues and uses purchase cards and convenience checks shall establish and maintain safeguards and internal controls to ensure the following:
 
-&emsp;(1) There is a record in each executive agency of each holder of a purchase card issued by the agency for official use, annotated with the limitations on single transactions and total transactions that are applicable to the use of each such card or check by that purchase card holder.
+&emsp;(1) There is a record in each executive agency of each holder of a purchase card issued by the agency for official use, annotated with the limitations on single transactions and totaltransactions that are applicable to the use of each such card or check by that purchase card holder.
 
 &emsp;(2) Each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
 
@@ -18,7 +18,7 @@ Required Safeguards and Internal Controls.—The head of each executive agency t
 
 &emsp;(5) Payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
 
-&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by theagency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
+&emsp;(6) Rebates and refunds based on prompt payment, sales volume, or other actions by the agency on purchase card accounts are reviewed for accuracy and properly recorded as a receipt to the agency that pays the monthly bill.
 
 &emsp;(7) Records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
 
@@ -74,7 +74,7 @@ Risk Assessments and Audits.—The Inspector General of each executive agency sh
 
 &emsp;&emsp;(B) any patterns of such uses; and
 
-&emsp;&emsp;(C) categories of purchases that could be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices (excluding transactions made under card-based strategic sourcing arrangements);
+&emsp;&emsp;(C) categories of purchases that could be made by means other than purchase cards inorder to better aggregate purchases and obtain lower prices (excluding transactions made under card-based strategic sourcing arrangements);
 
 &emsp;(3) report to the head of the executive agency concerned on the results of such analysis or audits; and
 
@@ -85,6 +85,8 @@ Risk Assessments and Audits.—The Inspector General of each executive agency sh
 Relationship to Department of Defense Purchase Card Regulations.—The requirements of this section shall not apply to the Department of Defense. See section 2784 of title 10 for provisions relating to management of purchase cards in the Department.
 
 (Added Pub. L. 112–194, §2(a)(1), Oct. 5, 2012, 126 Stat. 1445.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Guidance on Management of Purchase Cards
 

@@ -31,7 +31,7 @@
 | 87f–1. | Registration requirements. |
 | 87f–2. | Reporting requirements. |
 | [87g.](%C2%A7%2000087g%20-%20Relation%20to%20State%20and%20local%20laws%3B%20separability.md) | Relation to State and local laws; separability. |
-| [87h.](%C2%A7%2000087h%20-%20Appropriations.md) | Appropriations. |
+| [87h.](%C2%A7%2000087h%20-%20Funding.md) | Funding. |
 | [87i.](%C2%A7%2000087i%20-%20Omitted.md) | Omitted. |
 | [87j.](%C2%A7%2000087j%20-%20Advisory%20committee.md) | Advisory committee. |
 | [87k.](%C2%A7%2000087k%20-%20Standardizing%20commercial%20inspections.md) | Standardizing commercial inspections. |
@@ -72,7 +72,7 @@
 - [&sect; 00087f&#8211;1 - Registration requirements](%C2%A7%2000087f%E2%80%931%20-%20Registration%20requirements.md)
 - [&sect; 00087f&#8211;2 - Reporting requirements](%C2%A7%2000087f%E2%80%932%20-%20Reporting%20requirements.md)
 - [&sect; 00087g - Relation to State and local laws; separability](%C2%A7%2000087g%20-%20Relation%20to%20State%20and%20local%20laws%3B%20separability.md)
-- [&sect; 00087h - Appropriations](%C2%A7%2000087h%20-%20Appropriations.md)
+- [&sect; 00087h - Funding](%C2%A7%2000087h%20-%20Funding.md)
 - [&sect; 00087i - Omitted](%C2%A7%2000087i%20-%20Omitted.md)
 - [&sect; 00087j - Advisory committee](%C2%A7%2000087j%20-%20Advisory%20committee.md)
 - [&sect; 00087k - Standardizing commercial inspections](%C2%A7%2000087k%20-%20Standardizing%20commercial%20inspections.md)

@@ -10,6 +10,8 @@
 
 Based on 44 U.S. Code, 1964 ed., §395(b) (June 30, 1949, ch. 288, title V, §505(b), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–187 substituted "The Archivist shall notify" for "He shall notify" and "the Archivist's attention" for "his attention".
@@ -21,6 +23,8 @@ Pub. L. 98–497, §203(a), inserted "In any case in which the head of the agenc
 Subsec. (b). Pub. L. 98–497, §107(b)(15)(B), substituted "Archivist" for "Administrator of General Services".
 
 <b>1980</b>—Pub. L. 96–511 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

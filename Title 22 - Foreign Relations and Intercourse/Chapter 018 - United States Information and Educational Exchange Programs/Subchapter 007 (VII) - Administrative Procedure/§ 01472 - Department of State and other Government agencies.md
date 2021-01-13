@@ -36,6 +36,8 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 (Jan. 27, 1948, ch. 36, title VIII, §802, 62 Stat. 12; Pub. L. 97–241, title III, §304(b), Aug. 24, 1982, 96 Stat. 292; Pub. L. 103–236, title II, §225, Apr. 30, 1994, 108 Stat. 423; Pub. L. 107–228, div. A, title V, §503, Sept. 30, 2002, 116 Stat. 1392.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: "All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .".
@@ -52,6 +54,8 @@ In subsec. (a)(2), "section 6306 of title 41" substituted for "section 3741 of t
 
 <b>1982</b>—Pub. L. 97–241 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
@@ -59,6 +63,8 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 #### Transfer of Functions
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10477. Authority of United States Information Agency
 
@@ -76,7 +82,7 @@ Sec. 3. <i>Authority under various other statutes</i>. The Director is authorize
 
 (c) The act of August 3, 1950, regarding the importation of sound recordings.
 
-(d) The provisions under the first heading "Salaries and Expenses" of the Department of State Appropriation Act, 1954, regarding (1) employment of aliens, by contract, for services abroad, (2) purchase of uniforms, (3) cost of transporting to and from a place of storage and the cost of storing the furniture and household effects of an employee of the Foreign Service who is assigned to a post at which he is unable to use his furniture and effects, under such regulations as the Secretary of State may prescribe, (4) dues for library membership in organizations which issue publications to members only, or to members at a price lower than to others, (5) examination of estimates of appropriations in the field, (6) purchase of ice and drinking water abroad, (7) payment of excise taxes on negotiable instruments abroad, and (8) procurement, by contract or otherwise, of services, supplies and facilities, as follows: (i) maintenance, improvement, and repair of properties used for international information activities in foreign countries, (ii) fuel and utilities for Government-owned or leased property abroad, and (iii) rental or lease for periods not exceeding ten years of offices, buildings, grounds, and living quarters, and the furnishing of living quarters to officers and employees engaged in international information activities abroad \[22 U.S.C. 291\].
+(d) The provisions under the first heading "Salaries and Expenses" of the Department of State Appropriation Act, 1954, regarding (1) employment of aliens, by contract, for services abroad, (2) purchase of uniforms,\(3) cost of transporting to and from a place of storage and the cost of storing the furniture and household effects of an employee of the Foreign Service who is assigned to a post at which he is unable to use his furniture and effects, under such regulations as the Secretary of State may prescribe, (4) dues for library membership in organizations which issue publications to members only, or to members at a price lower than to others, (5) examination of estimates of appropriations in the field, (6) purchase of ice and drinking water abroad, (7) payment of excise taxes on negotiable instruments abroad, and (8) procurement, by contract or otherwise, of services, supplies and facilities, as follows: (i) maintenance, improvement, and repair of properties used for international information activities in foreign countries, (ii) fuel and utilities for Government-owned or leased property abroad, and (iii) rental or lease for periods not exceeding ten years of offices, buildings, grounds, and living quarters, and the furnishing of living quarters to officers and employees engaged in international information activities abroad \[22 U.S.C. 291\].
 
 (e) The provisions of the Department of State Appropriation Act, 1954, regarding (1) exchange of funds for payment of expenses in connection with the operation of information establishments abroad without regard to the provisions of section 3651 of the Revised Statutes \[section 543 of former Title 31\], (section 103 of the General Provisions of the Department of State Appropriation Act, 1954), (2) payment of travel expenses outside the continental limits of the United States from funds available in the fiscal year that such travel is authorized and actually begins (section 104 of the General Provisions of the Department of State Appropriation Act, 1954), (3) granting authority to the chief of each information Field Staff to approve, with the concurrence of the Chief of Mission, use of Government-owned vehicles for travel under conditions described in section 105 of the General Provisions of the Department of State Appropriation Act, 1954, and (4) purchase with foreign currencies for use abroad of passenger motor vehicles (exclusive of buses, ambulances, and station wagons) at a cost not to exceed the equivalent of $2,200 for each vehicle (section 106 of the General Provisions of the Department of State Appropriation Act, 1954).
 

@@ -74,7 +74,9 @@ Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 12
 
 Changes were made in phraseology.
 
-By Senate amendment, this section was renumbered "1294", and subsec. (b), which related to the Tax Court,was eliminated. Therefore, as finally enacted, section 1141(b)(1)(2)(3) of Title 26, U.S.C., Internal Revenue Code 1939, was not one of the sources of this section. The Senate amendments also eliminated section 1141 of the Internal Revenue Code 1939 from the schedule of repeals. See Senate Report No. 1559.
+By Senate amendment, this section was renumbered "1294", and subsec. (b), which related to the Tax Court, was eliminated. Therefore, as finally enacted, section 1141(b)(1)(2)(3) of Title 26, U.S.C., Internal Revenue Code 1939, was not one of the sources of this section. The Senate amendments also eliminated section 1141 of the Internal Revenue Code 1939 from the schedule of repeals. See Senate Report No. 1559.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -91,6 +93,8 @@ By Senate amendment, this section was renumbered "1294", and subsec. (b), which 
 Pars. (3) to (7). Pub. L. 85–508 redesignated pars. (4) to (7) as (3) to (6), respectively.
 
 <b>1951</b>—Par. (7). Act Oct. 31, 1951, added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

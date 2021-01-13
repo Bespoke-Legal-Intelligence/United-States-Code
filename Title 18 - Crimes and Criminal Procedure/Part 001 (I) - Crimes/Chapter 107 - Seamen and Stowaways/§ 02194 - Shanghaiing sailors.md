@@ -16,6 +16,8 @@ Reference to persons aiding or abetting was omitted as unnecessary as such perso
 
 Minor changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $1,000" in last par.

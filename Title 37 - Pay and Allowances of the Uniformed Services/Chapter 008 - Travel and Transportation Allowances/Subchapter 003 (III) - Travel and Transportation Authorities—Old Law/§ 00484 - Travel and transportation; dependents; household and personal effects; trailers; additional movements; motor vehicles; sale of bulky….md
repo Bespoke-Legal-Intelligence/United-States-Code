@@ -24,7 +24,7 @@
 
 (d) Transportation requested by a dependent may be authorized under this section only if there is a reasonable relationship between the circumstances of the dependent and the requested destination.
 
-(e) In place of the transportation for dependents authorized by this section, and after thetravel is completed, the Secretary concerned may authorize—
+(e) In place of the transportation for dependents authorized by this section, and after the travel is completed, the Secretary concerned may authorize—
 
 &emsp;(1) reimbursement for the commercial cost of the transportation; or
 
@@ -46,7 +46,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(k) No transportation, allowance, or reimbursement may be provided under this section for a move that begins after the travel authorities transition expiration date.
+(k) No transportation, allowance, or reimbursement may be provided under this sectionfor a move that begins after the travel authorities transition expiration date.
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627, §554; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052; Pub. L. 107–314, div. A, title VI, §622(a), (b), Dec. 2, 2002, 116 Stat. 2571; renumbered §484 and amended Pub. L. 112–81, div. A, title VI, §631(d)(3), (e)(26), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1461, 1464, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
@@ -124,6 +124,8 @@ In subsection (h), the words "under subsection (g) of this section" are substitu
 
 In subsection (i), the words "the provisions of" are omitted as unnecessary. Clause (3) is substituted for "the Federal Tort Claims Act (60 Stat. 842–847), as amended," to reflect the correct citation of that Act.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 507 of title 14, referred to in subsec. (j)(2), was redesignated section 2710 of title 14 by Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 507 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -140,7 +142,7 @@ Subsec. (k). Pub. L. 112–81, §631(e)(26), added subsec. (k).
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–314, §622(a), substituted "two privately owned motor vehicles" for "one privately owned motor vehicle" in introductory and concluding provisions.
 
-Subsec. (i). Pub. L. 107–314, §622(b), inserted at end "In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date."
+Subsec. (i). Pub. L. 107–314, §622(b), inserted at end "In a case in which two motor vehicles of a member (orthe dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date."
 
 <b>1998</b>—Subsecs. (i), (j). Pub. L. 105–261 added subsec. (i) and redesignated former subsec. (i) as (j).
 
@@ -169,6 +171,8 @@ Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and tr
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–83 struck out "when it is located outside the United States, or in Alaska or Hawaii" after "shipped at United States expense".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

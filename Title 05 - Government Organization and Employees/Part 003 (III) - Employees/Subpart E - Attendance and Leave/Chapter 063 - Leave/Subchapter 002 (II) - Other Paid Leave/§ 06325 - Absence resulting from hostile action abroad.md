@@ -10,6 +10,8 @@ Leave may not be charged to the account of an employee for absence, not to excee
 
 (Added Pub. L. 90–221, §3(a), Dec. 23, 1967, 81 Stat. 671; amended Pub. L. 96–54, §2(a)(41), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–399, title VIII, §804, Aug. 27, 1986, 100 Stat. 883.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 408 of the Foreign Service Act of 1980, referred to in text, is classified to section 3968 of Title 22, Foreign Relations and Intercourse.
@@ -19,6 +21,8 @@ Section 408 of the Foreign Service Act of 1980, referred to in text, is classifi
 <b>1986</b>—Pub. L. 99–399 inserted sentence at end relating to alien employees.
 
 <b>1979</b>—Pub. L. 96–54 substituted provisions relating to leave charged to an account of an employee for absence, for provisions relating to leave charged to an account of any officer or employee for absence, and designated qualifying provisions as cls. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

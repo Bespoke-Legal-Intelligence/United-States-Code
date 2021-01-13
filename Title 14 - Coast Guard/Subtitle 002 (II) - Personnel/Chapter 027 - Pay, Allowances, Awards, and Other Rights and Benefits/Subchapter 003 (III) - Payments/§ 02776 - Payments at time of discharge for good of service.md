@@ -1,8 +1,8 @@
 ### §2776. Payments at time of discharge for good of service
 
-Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the person so discharged would otherwise be without funds to meet his immediate needs.
+Enlisted members discharged by dishonorable discharge, bad-conduct discharge, or any other discharge for the good of the service, may, upon discharge, be paid a sum not to exceed $25. The sum paid shall be fixed by and in the discretion of the Commandant, and shall be paid only in cases where the individual so discharged would otherwise be without funds to meet his immediate needs.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 533, §481; Pub. L. 98–557, §15(a)(3)(C), Oct. 30, 1984, 98 Stat. 2865; renumbered §2776, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 533, §481; Pub. L. 98–557, §15(a)(3)(C), Oct. 30, 1984, 98 Stat. 2865; renumbered §2776, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(44), Jan. 1, 2021, 134 Stat. 4750.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,11 @@ Said section 197 was made applicable to the Coast Guard by title 14, U.S.C., 194
 
 Said section would in no way be affected. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "individual" for "person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 481 of this title as this section.
 

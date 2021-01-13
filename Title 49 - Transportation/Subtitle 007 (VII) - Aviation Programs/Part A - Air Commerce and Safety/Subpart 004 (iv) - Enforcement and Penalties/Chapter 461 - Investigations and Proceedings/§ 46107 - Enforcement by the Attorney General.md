@@ -76,7 +76,7 @@ In subsection (c), the words "civil action" are substituted for "proceeding in c
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)" in introductory provisions.
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal AviationAdministration)" for "by the Administrator)" in introductory provisions.
 
 Pub. L. 115–254, §1991(f)(1), in introductory provisions, substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary".
 

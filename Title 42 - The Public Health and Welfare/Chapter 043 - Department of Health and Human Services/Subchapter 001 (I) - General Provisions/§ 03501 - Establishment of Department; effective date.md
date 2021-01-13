@@ -136,7 +136,7 @@ Purpose and responsibilities.—The Board shall make recommendations regarding t
 
 &emsp;"(4)
 
-Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assistthe Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances.
+Expert subcommittees.—The Board may form temporary expert subcommittees, as appropriate, to develop timely analysis on pressing issues and assist the Board in anticipating future regulatory challenges, including challenges emerging from new scientific advances.
 
 &emsp;"(5)
 
@@ -286,7 +286,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (b) In addition to any other authority conferred upon him by this order, the Director is authorized, in carrying out his functions hereunder, to—
 
-(1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director,shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
+(1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
 (2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 
@@ -354,7 +354,7 @@ Sec. 9. <i>Orders superseded</i>. Executive Order No. 11136 of January 3, 1964, 
 
 Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of the United States of America, it is hereby ordered as follows:
+Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code \[section 301 of title 3, The President\] and as President of theUnited States of America, it is hereby ordered as follows:
 
 Section 1. The Office of Consumer Affairs, established by Executive Order No. 11583 of February 24, 1971, as amended by Executive Order No. 11595 of May 26, 1971 \[set out above\], together with its functions, is hereby transferred from the Executive Office of the President to the Department of Health and Human Services. The Director of the Office of Consumer Affairs shall continue as the Special Assistant to the President for Consumer Affairs.
 

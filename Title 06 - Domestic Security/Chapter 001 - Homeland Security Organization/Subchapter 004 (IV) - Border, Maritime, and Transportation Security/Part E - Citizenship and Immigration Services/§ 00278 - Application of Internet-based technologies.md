@@ -2,7 +2,7 @@
 
 #### (a) Establishment of tracking system
 
-The Secretary, not later than 1 year after the effective date of this chapter, in consultation with the Technology Advisory Committee established under subsection (c), shall establish anInternet-based system, that will permit a person, employer, immigrant, or nonimmigrant who has filings with the Secretary for any benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), access to online information about the processing status of the filing involved.
+The Secretary, not later than 1 year after the effective date of this chapter, in consultation with the Technology Advisory Committee established under subsection (c), shall establish an Internet-based system, that will permit a person, employer, immigrant, or nonimmigrant who has filings with the Secretary for any benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), access to online information about the processing status of the filing involved.
 
 #### (b) Feasibility study for online filing and improved processing
 
@@ -32,11 +32,15 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 (Pub. L. 107–296, title IV, §461, Nov. 25, 2002, 116 Stat. 2202.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (a), (b)(2), and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
 The Immigration and Nationality Act, referred to in subsec. (a), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

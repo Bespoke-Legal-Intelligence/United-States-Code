@@ -18,7 +18,7 @@ To be eligible to receive a grant or contract under subsection (a) an entity sha
 
 &emsp;&emsp;(D) any other appropriate public or private nonprofit entity; and
 
-&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, andcontaining such information as the Secretary may require.
 
 #### (c) Preference
 

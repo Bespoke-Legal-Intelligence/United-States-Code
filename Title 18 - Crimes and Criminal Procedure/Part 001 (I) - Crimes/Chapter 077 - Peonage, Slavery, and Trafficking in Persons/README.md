@@ -26,7 +26,9 @@
 
 #### Historical and Revision Notes
 
-It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, "Piracy and Privateering".
+It was felt that further revision of this chapter should be considered at an opportune time for the samereasons stated with respect to chapter 81, "Piracy and Privateering".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

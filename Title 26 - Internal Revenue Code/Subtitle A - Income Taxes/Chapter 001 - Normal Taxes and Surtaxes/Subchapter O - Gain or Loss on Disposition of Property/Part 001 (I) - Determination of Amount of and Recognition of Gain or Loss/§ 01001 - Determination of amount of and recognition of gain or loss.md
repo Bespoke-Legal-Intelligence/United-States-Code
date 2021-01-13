@@ -52,7 +52,7 @@ Nothing in this section shall be construed to prevent (in the case of property s
 
 <b>1978</b>—Subsec. (e)(1). Pub. L. 95–600 inserted reference to section 1023. See Repeals note below.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted provision recognizing the entire amount of gain or loss, except as otherwise provided, for provision referring to section1002 for the determination of the extent of gain or loss to be recognized.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted provision recognizing the entire amount of gain or loss, except as otherwise provided, for provision referring to section 1002 for the determination of the extent of gain or loss to be recognized.
 
 <b>1969</b>—Subsec. (e). Pub. L. 91–172, §516(a), added subsec. (e).
 

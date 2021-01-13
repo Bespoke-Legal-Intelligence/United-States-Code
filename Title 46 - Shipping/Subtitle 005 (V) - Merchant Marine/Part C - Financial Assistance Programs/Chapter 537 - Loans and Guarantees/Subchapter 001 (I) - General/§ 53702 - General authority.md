@@ -18,7 +18,7 @@ Direct Loans for Fisheries.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to the same extent as an obligation guaranteed under this chapter except with respect to provisionsof this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
+In general.—Notwithstanding any other provision of this chapter, any obligation involving a fishing vessel, fishery facility, aquaculture facility, individual fishing quota, or fishing capacity reduction program issued under this chapter after October 11, 1996, shall be a direct loan obligation for which the Secretary shall be the obligee, rather than an obligation issued to an obligee other than the Secretary and guaranteed by the Secretary. A direct loan obligation under this subsection shall be treated in the same manner and to thesame extent as an obligation guaranteed under this chapter except with respect to provisions of this chapter that by their nature can only be applied to obligations guaranteed under this chapter.
 
 &emsp;(2)
 
@@ -61,6 +61,8 @@ June 29, 1936, ch. 858, title XI, §1103(a), as added June 23, 1938, ch. 600, §
 June 29, 1936, ch. 858, title XI, §1112, as added Pub. L. 104–297, title III, §303(a), Oct. 11, 1996, 110 Stat. 3616.
 
 In subsection (a), the words "on terms the Secretary may prescribe" are added based on language in 46 App. U.S.C. 1274(a) (before cl. (1)). The words "the unpaid balance of" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

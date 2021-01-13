@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau may take any action authorized under part E to prevent a covered person or service provider from committing or engaging inan unfair, deceptive, or abusive act or practice under Federal law in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.
+The Bureau may take any action authorized under part E to prevent a covered person or service provider from committing or engaging in an unfair, deceptive, or abusive act or practice under Federal law in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.
 
 #### (b) Rulemaking
 
@@ -45,6 +45,8 @@ In prescribing rules under this section, the Bureau shall consult with the Feder
 The rules of the Bureau under this section shall provide, with respect to an extension of credit secured by residential real estate or a dwelling, if documented income of the borrower, including income from a small business, is a repayment source for an extension of credit secured by residential real estate or a dwelling, the creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
 
 (Pub. L. 111–203, title X, §1031, July 21, 2010, 124 Stat. 2005.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

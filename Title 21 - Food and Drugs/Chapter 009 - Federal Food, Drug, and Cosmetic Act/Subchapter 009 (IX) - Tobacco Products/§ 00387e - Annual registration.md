@@ -34,7 +34,7 @@ The Secretary shall make available for inspection, to any person so requesting, 
 
 #### (g) Biennial inspection of registered establishments
 
-Every establishment registered with the Secretary under this section shall be subject to inspection under section 374 of this title or subsection (h), and every such establishment engaged in the manufacture, compounding, or processing of a tobacco product or tobacco products shall be so inspected by 1 or more officers or employees duly designated by the Secretary at least once in the 2-year period beginning with the date of registration of such establishmentunder this section and at least once in every successive 2-year period thereafter.
+Every establishment registered with the Secretary under this section shall be subject to inspection under section 374 of this title or subsection (h), and every such establishment engaged in the manufacture, compounding, or processing of a tobacco product or tobacco products shall be so inspected by 1 or more officers or employees duly designated by the Secretary at least once in the 2-year period beginning with the date of registration of such establishment under this section and at least once in every successive 2-year period thereafter.
 
 #### (h) Registration by foreign establishments
 
@@ -50,7 +50,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(B) in the case of any other tobacco product contained in an applicable list, a copy of all consumer information and other labeling for such tobacco product, a representative sampling of advertisements for such tobacco product, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular tobacco product; and
 
-&emsp;&emsp;(C) if the registrant filing a list has determined that a tobacco product contained in such list is not subject to a tobacco product standard established under section 387g of this title, a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular tobacco product.
+&emsp;&emsp;(C) if the registrant filing a list has determined that a tobacco product contained insuch list is not subject to a tobacco product standard established under section 387g of this title, a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular tobacco product.
 
 #### (2) Consultation with respect to forms
 
@@ -104,6 +104,8 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 (June 25, 1938, ch. 675, §905, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1792.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
@@ -111,6 +113,8 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b
 #### Prior Provisions
 
 A prior section 905 of act June 25, 1938, was renumbered section 1005 and is classified to section 395 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

@@ -4,7 +4,7 @@ The Commission shall serve as a national clearinghouse and resource for the comp
 
 &emsp;(1) carrying out the duties described in subpart 3 of this part (relating to the adoption of voluntary voting system guidelines), including the maintenance of a clearinghouse of information on the experiences of State and local governments in implementing the guidelines and in operating voting systems in general;
 
-&emsp;(2) carrying out the duties described in part B of this subchapter (relating to the testing, certification, decertification, and recertification of voting system hardware and software);
+&emsp;(2) carrying out the duties described in part B of this subchapter (relating to the testing,certification, decertification, and recertification of voting system hardware and software);
 
 &emsp;(3) carrying out the duties described in part C of this subchapter (relating to conducting studies and carrying out other activities to promote the effective administration of Federal elections);
 
@@ -15,6 +15,8 @@ The Commission shall serve as a national clearinghouse and resource for the comp
 &emsp;(6) developing and carrying out the Help America Vote College Program under subchapter V.
 
 (Pub. L. 107–252, title II, §202, Oct. 29, 2002, 116 Stat. 1673.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

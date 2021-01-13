@@ -60,7 +60,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 Subsec. (a)(3). Pub. L. 100–647, §1012(t)(3), added par. (3).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally. Prior to amendment, section read as follows: "The income of foreign governments or international organizations received from investments in the United States in stocks, bonds, or other domestic securities, owned by such foreign governments or by international organizations, or from interest on deposits in banks in the United States of moneys belonging to such foreign governments or international organizations, or from any other source within the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle."
+<b>1986</b>—Pub. L. 99–514 amended section generally. Prior to amendment, section read as follows: "The income of foreign governments or international organizations received from investments in the United States in stocks, bonds, or other domestic securities, owned by such foreign governments or by international organizations, or from interest on deposits in banks in the United Statesof moneys belonging to such foreign governments or international organizations, or from any other source within the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle."
 
 #### Effective Date of 1988 Amendment
 

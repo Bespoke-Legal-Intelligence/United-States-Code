@@ -138,7 +138,7 @@ Response Plan Required.—
 
 &emsp;"(1)
 
-In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
+In general.—Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan foraddressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
 
 &emsp;"(2)
 

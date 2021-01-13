@@ -12,7 +12,7 @@
 
 &emsp;(3) Take charge of all property of the United States used by the Court or its members;
 
-&emsp;(4) Disburse funds appropriated for work upon the Supreme Court building and grounds under the jurisdiction of the Architect of the Capitol upon certified vouchers submitted by the Architect;
+&emsp;(4) Disburse funds appropriated for work upon the Supreme Court building and groundsunder the jurisdiction of the Architect of the Capitol upon certified vouchers submitted by the Architect;
 
 &emsp;(5) Disburse funds appropriated for the purchase of books, pamphlets, periodicals and other publications, and for their repair, binding, and rebinding, upon vouchers certified by the librarian of the Court;
 
@@ -40,6 +40,8 @@ The marshal's duties as superintendent of the Supreme Court building are incorpo
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
@@ -47,6 +49,8 @@ Changes were made in phraseology.
 <b>1964</b>—Subsec. (c)(6). Pub. L. 88–279, §2(a), struck out "except the clerk, his deputies and employees," after "employees of the Court".
 
 Subsec. (c)(7). Pub. L. 88–279, §2(b), added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1964 Amendment
 

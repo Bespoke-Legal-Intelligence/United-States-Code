@@ -10,9 +10,11 @@ The Secretary shall appoint such employees to work in the branch, including a pr
 
 (Pub. L. 94–437, title V, §510, formerly §511, as added Pub. L. 101–630, title V, §508, Nov. 28, 1990, 104 Stat. 4567; renumbered §510 and amended Pub. L. 102–573, title V, §501(b)(7), title IX, §902(5)(B), Oct. 29, 1992, 106 Stat. 4569, 4591.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–573, §902(5)(B), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 102–573, §501(b)(7), inserted "and for providing central oversight of the programs andservices authorized under this subchapter" before period at end.
+Subsec. (a). Pub. L. 102–573, §501(b)(7), inserted "and for providing central oversight of the programs and services authorized under this subchapter" before period at end.
 

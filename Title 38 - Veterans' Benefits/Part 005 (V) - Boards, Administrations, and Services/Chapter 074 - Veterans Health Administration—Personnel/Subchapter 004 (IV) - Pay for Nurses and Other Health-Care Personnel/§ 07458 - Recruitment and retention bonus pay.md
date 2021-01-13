@@ -16,7 +16,7 @@
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a bonus under this section shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
-(2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of thetotal bonus in a lump sum at the time that the period of obligated service commences under the agreement.
+(2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of the total bonus in a lump sum at the time that the period of obligated service commences under the agreement.
 
 (B) If the Secretary makes a lump-sum payment under subparagraph (A) of this paragraph, the remaining balance of the bonus shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
@@ -28,7 +28,7 @@
 
 (f) The Secretary may enter into agreements under this section with individuals in a health profession other than nursing (and other than a health profession for which special pay may be provided under subchapter III) if the Secretary determines that there are significant problems with respect to recruitment and retention of employees in that health profession. The Secretary's authority to enter into any such agreement under this section, and such agreement, shall be subject to the provisions of this section in the same manner as are the authority to enter into an agreement under this section with a registered nurse and such an agreement.
 
-(g)(1) Except as provided in paragraph (2) of this subsection, an individual who voluntarily, or because of misconduct, fails to perform services as assigned by the Secretary for the period of obligated service provided in an agreement under this section shall refund to the United States the amount by which the total amount of bonus payments received by that individual under this section exceeds the amount that such individual would have received under an agreement under this section to serve for the period of obligated service actually served (as determined at the time the agreement is entered into). If the period actually served is less than two years, the amount to be refunded is the entire amount paid to the individual.
+(g)(1) Except as provided in paragraph (2) of this subsection, an individual who voluntarily, or because of misconduct, fails to perform services as assigned by the Secretary for the period of obligated service provided in an agreement under this section shall refund to the United States the amount by which the total amount ofbonus payments received by that individual under this section exceeds the amount that such individual would have received under an agreement under this section to serve for the period of obligated service actually served (as determined at the time the agreement is entered into). If the period actually served is less than two years, the amount to be refunded is the entire amount paid to the individual.
 
 (2) An individual shall not be required to make a refund under paragraph (1) of this subsection if the Secretary determines, in accordance with regulations prescribed under subsection (h) of this section, that the individual's failure to perform services for the period of obligated service is due to circumstances (not including separation for cause) beyond the control of the individual.
 
@@ -39,6 +39,8 @@
 (h) The Secretary shall prescribe regulations to carry out this section.
 
 (Added Pub. L. 100–322, title II, §212(a)\[(1)\], May 20, 1988, 102 Stat. 514, §4120; renumbered §7458 and amended Pub. L. 102–40, title IV, §401(c)(4), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(h)(4), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 110–387, title IX, §901(a)(6), Oct. 10, 2008, 122 Stat. 4142.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

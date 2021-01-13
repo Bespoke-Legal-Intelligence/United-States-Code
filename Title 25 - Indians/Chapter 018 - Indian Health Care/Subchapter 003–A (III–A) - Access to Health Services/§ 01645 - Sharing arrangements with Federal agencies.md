@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
+&emsp;The Secretary may enter into (or expand) arrangements for the sharing of medical facilities and services between the Service, Indian tribes, urban Indian organizations, and tribal organizations and the Department of Veterans Affairs and the Department of Defense.
 
 #### (2) Consultation by Secretary required
 
-&emsp;The Secretary may not finalize any arrangement between the Service and a Departmentdescribed in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
+&emsp;The Secretary may not finalize any arrangement between the Service and a Department described in paragraph (1) without first consulting with the Indian tribes which will be significantly affected by the arrangement.
 
 #### (b) Limitations
 
@@ -26,13 +26,15 @@ The Secretary shall not take any action under this section or under subchapter I
 
 #### (c) Reimbursement
 
-The Service, Indian tribe, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law.
+The Service, Indian tribe, urban Indian organization, or tribal organization shall be reimbursed by the Department of Veterans Affairs or the Department of Defense (as the case may be) where services are provided through the Service, an Indian tribe, an urban Indian organization, or a tribal organization to beneficiaries eligible for services from either such Department, notwithstanding any other provision of law, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621l(b) of this title.
 
 #### (d) Construction
 
 Nothing in this section may be construed as creating any right of a non-Indian veteran to obtain health services from the Service.
 
-(Pub. L. 94–437, title IV, §405, as added Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, §404, title VII, §701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, §2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, §101(e) \[title III, §336\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, §601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816; Pub. L. 108–173, title IX, §900(e)(6)(B), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, §405, as added Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, §404, title VII, §701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, §2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, §101(e) \[title III, §336\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, §601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816; Pub. L. 108–173, title IX, §900(e)(6)(B), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 116–260, div. FF, title XI, §1113, Dec. 27, 2020, 134 Stat. 3251; Pub. L. 116–311, §2, Jan. 5, 2021, 134 Stat. 4927.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,12 @@ Amendment by Pub. L. 111–148 is based on section 154 of title I of S. 1790, On
 Section was formerly set out as a note under section 1395qq of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 116–311 inserted ", regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621l(b) of this title" before period at end.
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §1113(1), inserted "urban Indian organizations," before "and tribal organizations".
+
+Subsec. (c). Pub. L. 116–260, §1113(2), inserted "urban Indian organization," before "or tribal organization" and "an urban Indian organization," before "or a tribal organization".
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment of program for direct billing of medicare, medicaid, and other third party payors by Indian tribes, tribal organizations, and Alaska Native health organizations.
 
@@ -107,6 +115,8 @@ Subsec. (b)(4). Pub. L. 102–573, §701(c)(3)(B), substituted "section 1642(a)"
 Subsec. (c)(2). Pub. L. 102–573, §404(1), substituted "1996" for "1995".
 
 Subsec. (e). Pub. L. 102–573, §404(2), substituted "1996" for "1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

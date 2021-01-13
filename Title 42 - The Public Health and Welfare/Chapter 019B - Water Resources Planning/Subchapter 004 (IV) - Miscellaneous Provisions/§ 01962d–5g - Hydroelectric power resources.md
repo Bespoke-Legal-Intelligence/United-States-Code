@@ -32,7 +32,7 @@ There is authorized to be appropriated to carry out subsections (a) and (b) of t
 
 #### (d) Feasibility studies of specific hydroelectric power installations; authorization of appropriations
 
-The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in thecourse of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
+The Secretary of the Army, acting through the Chief of Engineers, is authorized with respect to previously authorized projects to undertake feasibility studies of specific hydroelectric power installations that are identified in the course of the study authorized by this section, as having high potential for contribution toward meeting regional power needs. There is authorized to be appropriated to carry out this subsection not to exceed $5,000,000 per fiscal year for each of the fiscal years 1978 and 1979.
 
 (Pub. L. 94–587, §167, Oct. 22, 1976, 90 Stat. 2935; Pub. L. 103–437, §15(e)(1), Nov. 2, 1994, 108 Stat. 4592.)
 
@@ -54,5 +54,5 @@ Pub. L. 100–676, §42, Nov. 17, 1988, 102 Stat. 4040, directed Secretary to co
 
 #### Water Quality Effects of Hydroelectric Facilities
 
-Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
+Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake astudy of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
 

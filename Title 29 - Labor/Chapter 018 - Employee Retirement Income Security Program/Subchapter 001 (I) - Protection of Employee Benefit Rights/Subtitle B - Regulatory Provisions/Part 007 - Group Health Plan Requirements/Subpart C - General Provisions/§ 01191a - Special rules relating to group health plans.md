@@ -20,7 +20,7 @@ The requirements of this part shall not apply to any group health plan (and grou
 
 #### (2) Noncoordinated, excepted benefits
 
-&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(3) of this title if all of the following conditions are met:
+&emsp;The requirements of this part shall not apply to any group health plan (and grouphealth insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(3) of this title if all of the following conditions are met:
 
 &emsp;&emsp;(A) The benefits are provided under a separate policy, certificate, or contract of insurance.
 
@@ -56,11 +56,15 @@ For purposes of this part—
 
 (Pub. L. 93–406, title I, §732, formerly §705, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1948; renumbered §732 and amended Pub. L. 104–204, title VI, §603(a)(3), (b)(2), (3)(I)–(L), Sept. 26, 1996, 110 Stat. 2935, 2937, 2938.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–204, §603(b)(2), inserted "(other than section 1185 of this title)" after "part".
 
 Subsecs. (b), (c)(1) to (3). Pub. L. 104–204, §603(b)(3)(I)–(L), made technical amendment to references in original act which appear in text as references to section 1191b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

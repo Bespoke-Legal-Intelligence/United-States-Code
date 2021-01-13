@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–340, §2(a)(3)(A), Oct. 3, 2008, 122 Stat. 3736, added item 2442.

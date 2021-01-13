@@ -6,7 +6,7 @@
 
 &emsp;A State may—
 
-&emsp;&emsp;(A) administer and provide services under the programs described in subparagraphs (A)and (B)(i) of paragraph (2) through contracts with charitable, religious, or private organizations; and
+&emsp;&emsp;(A) administer and provide services under the programs described in subparagraphs (A) and (B)(i) of paragraph (2) through contracts with charitable, religious, or private organizations; and
 
 &emsp;&emsp;(B) provide beneficiaries of assistance under the programs described in subparagraphs (A) and (B)(ii) of paragraph (2) with certificates, vouchers, or other forms of disbursement which are redeemable with such organizations.
 
@@ -90,7 +90,7 @@ Nothing in this section shall be construed to preempt any provision of a State c
 
 #### References in Text
 
-Section 103(a) of this Act, referred to in subsec. (a)(2)(A), means section 103(a) of Pub. L. 104–193, which enacted this part and struck out former part A of this subchapter, except for section 618. For complete classification of section 103(a) to the Code, see Tables.
+Section 103(a) of this Act, referred to in subsec. (a)(2)(A), means section 103(a) of Pub. L. 104–193, whichenacted this part and struck out former part A of this subchapter, except for section 618. For complete classification of section 103(a) to the Code, see Tables.
 
 Titles I and II of this Act, referred to in subsec. (a)(2)(B), means titles I and II of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2110, 2185. For complete classification of these titles to the Code, see Tables.
 

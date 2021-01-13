@@ -172,6 +172,8 @@
 
 (Pub. L. 115–141, div. I, title I, §154, Mar. 23, 2018, 132 Stat. 787.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), are the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018. For the effective date of this section, see subsec. (f) of this section.

@@ -4,7 +4,7 @@
 
 The Secretary shall provide grants in accordance with this section to assist the residents of rural areas and small communities to secure adequate quantities of safe water—
 
-&emsp;(1) after a significant decline in the quantity or quality of water available from the water supplies of such rural areas and small communities, or when such a decline is imminent; or
+&emsp;(1) after a significant decline in the quantity or quality of water available from the watersupplies of such rural areas and small communities, or when such a decline is imminent; or
 
 &emsp;(2) when repairs, partial replacement, or significant maintenance efforts on established water systems would remedy—
 
@@ -102,7 +102,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, not less than 5 percent and not more than 7 percent of the total amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
+&emsp;&emsp;For each fiscal year, not less than 5 percent and not more than 7 percent of thetotal amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
 
 #### (B) Release
 

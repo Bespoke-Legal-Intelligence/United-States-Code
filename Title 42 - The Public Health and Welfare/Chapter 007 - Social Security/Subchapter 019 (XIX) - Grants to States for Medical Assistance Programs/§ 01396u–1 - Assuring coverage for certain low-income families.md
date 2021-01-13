@@ -26,7 +26,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 &emsp;&emsp;(A) may lower its income standards applicable with respect to part A of subchapter IV, but not below the income standards applicable under its State plan under such part on May 1, 1988;
 
-&emsp;&emsp;(B) may increase income or resource standards under the State plan referred to in paragraph (1) over a period (beginning after July 16, 1996) by a percentage that does not exceed the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over such period; and
+&emsp;&emsp;(B) may increase income or resource standards under the State plan referred to inparagraph (1) over a period (beginning after July 16, 1996) by a percentage that does not exceed the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over such period; and
 
 &emsp;&emsp;(C) may use income and resource methodologies that are less restrictive than the methodologies used under the State plan under such part as of July 16, 1996.
 
@@ -60,7 +60,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 #### (d) Waivers
 
-In the case of a waiver of a provision of part A of subchapter IV in effect with respect to a State as of July 16, 1996, or which is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1,1997, if the waiver affects eligibility of individuals for medical assistance under this subchapter, such waiver may (but need not) continue to be applied, at the option of the State, in relation to this subchapter after the date the waiver would otherwise expire.
+In the case of a waiver of a provision of part A of subchapter IV in effect with respect to a State as of July 16, 1996, or which is submitted to the Secretary before August 22, 1996, and approved by the Secretary on or before July 1, 1997, if the waiver affects eligibility of individuals for medical assistance under this subchapter, such waiver may (but need not) continue to be applied, at the option of the State, in relation to this subchapter after the date the waiver would otherwise expire.
 
 #### (e) State option to use 1 application form
 

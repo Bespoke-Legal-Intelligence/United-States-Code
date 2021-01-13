@@ -1,5 +1,7 @@
 ### §1221. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 24, 1954, ch. 900, §1, 68 Stat. 789, which related to sale of certain public lands in Wisconsin, was omitted from the Code as being of special and not general application.

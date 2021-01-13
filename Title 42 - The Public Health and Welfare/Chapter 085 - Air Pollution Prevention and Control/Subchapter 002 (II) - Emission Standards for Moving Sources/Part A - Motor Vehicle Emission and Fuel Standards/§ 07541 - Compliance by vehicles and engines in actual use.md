@@ -202,7 +202,7 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 (1) If at any time during the period for which the warranty applies under subsection (b), a motor vehicle fails to conform to the applicable regulations under section 7521 of this title as determined under subsection (b) of this section such nonconformity shall be remedied by the manufacturer at the cost of the manufacturer pursuant to such warranty as provided in subsection (b)(2)(without regard to subparagraph (C) thereof).
 
-(2) Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, orrequiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
+(2) Nothing in section 7543(a) of this title shall be construed to prohibit a State from testing, or requiring testing of, a motor vehicle after the date of sale of such vehicle to the ultimate purchaser (except that no new motor vehicle manufacturer or dealer may be required to conduct testing under this paragraph).
 
 #### (i) Warranty period
 
@@ -216,7 +216,7 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 &emsp;&emsp;(A) the device or component was not in general use on vehicles and engines manufactured prior to the model year 1990; and
 
-&emsp;&emsp;(B) the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in 1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
+&emsp;&emsp;(B) the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
 
 > &emsp;For purposes of this paragraph, the term "onboard emissions diagnostic device" means any device installed for the purpose of storing or processing emissions related diagnostic information, but not including any parts or other systems which it monitors except specified major emissions control components. Nothing in this chapter shall be construed to provide that any part (other than a part referred to in the preceding sentence) shall be required to be warranted under this chapter for the period of 8 years or 80,000 miles referred to in this paragraph.
 

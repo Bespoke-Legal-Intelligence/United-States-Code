@@ -10,7 +10,7 @@ Property Held in Trust.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), the Secretary shall hold excess real property transferred under this section in trust for the benefit and use of the group, band, or tribe of Indians, within whose reservation the excess real property is located.
+In general.—Except as provided in paragraph (2), the Secretary shall hold excess realproperty transferred under this section in trust for the benefit and use of the group, band, or tribe of Indians, within whose reservation the excess real property is located.
 
 &emsp;(2)
 

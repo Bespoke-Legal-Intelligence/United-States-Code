@@ -10,6 +10,8 @@ Covered Pay and Benefits.—Subsection (a) applies to any incentive pay, special
 
 (Added Pub. L. 114–92, div. A, title VI, §662(a), Nov. 25, 2015, 129 Stat. 859.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1015, added Pub. L. 106–65, div. A, title VI, §673(a)(1), Oct. 5, 1999, 113 Stat. 674, related to annual report on effects of recruitment and retention initiatives, prior to repeal by Pub. L. 109–364, div. A, title X, §1046(b)(1), Oct. 17, 2006, 120 Stat. 2393.

@@ -178,7 +178,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Exception
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certification under this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certificationunder this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
 
 #### (2) Requirements
 
@@ -256,7 +256,7 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Release from liability
 
-&emsp;No cause of action shall lie in any court against any electronic communication service provider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
+&emsp;No cause of action shall lie in any court against any electronic communication serviceprovider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
 
 #### (4) Challenging of directives
 
@@ -300,7 +300,7 @@ An acquisition authorized under subsection (a)—
 
 #### (C) Procedures for review
 
-&emsp;&emsp;A judge considering a petition filed under subparagraph (A) shall, not later than 30days after being assigned such petition, issue an order requiring the electronic communication service provider to comply with the directive or any part of it, as issued or as modified, if the judge finds that the directive meets the requirements of this section and is otherwise lawful. The judge shall provide a written statement for the record of the reasons for a determination under this paragraph.
+&emsp;&emsp;A judge considering a petition filed under subparagraph (A) shall, not later than 30 days after being assigned such petition, issue an order requiring the electronic communication service provider to comply with the directive or any part of it, as issued or as modified, if the judge finds that the directive meets the requirements of this section and is otherwise lawful. The judge shall provide a written statement for the record of the reasons for a determination under this paragraph.
 
 #### (D) Contempt of Court
 
@@ -364,7 +364,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) Approval
 
-&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h) contains all the required elements and that the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Courtshall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
+&emsp;&emsp;If the Court finds that a certification submitted in accordance with subsection (h) contains all the required elements and that the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) are consistent with the requirements of those subsections and with the fourth amendment to the Constitution of the United States, the Court shall enter an order approving the certification and the use, or continued use in the case of an acquisition authorized pursuant to a determination under subsection (c)(2), of the procedures for the acquisition.
 
 #### (B) Correction of deficiencies
 
@@ -382,7 +382,7 @@ An acquisition authorized under subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatorybody, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 #### (ii) Exception
 
@@ -418,7 +418,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Reauthorization of orders, authorizations, and directives
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certificationunder paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence seek to reauthorize or replace an authorization issued under subsection (a) by filing a certification pursuant to subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a), until the Court issues an order with respect to such certification under paragraph (3) at which time the provisions of that paragraph and paragraph (4) shall apply with respect to such certification.
 
 #### (k) Judicial proceedings
 
@@ -448,7 +448,7 @@ An acquisition authorized under subsection (a)—
 
 #### (1) Semiannual assessment
 
-&emsp;Not less frequently than once every 6 months, the Attorney General and Director of National Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
+&emsp;Not less frequently than once every 6 months, the Attorney General and Director ofNational Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
 
 &emsp;&emsp;(A) the Foreign Intelligence Surveillance Court; and
 
@@ -518,7 +518,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representatives and the Senate and the congressional intelligence committees of a material breach.
+&emsp;&emsp;The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representativesand the Senate and the congressional intelligence committees of a material breach.
 
 #### (B) Definitions
 
@@ -578,7 +578,7 @@ Subsec. (h)(6). Pub. L. 115–118, §101(b)(1)(E)(iii), substituted "to subsecti
 
 Subsecs. (i), (j). Pub. L. 115–118, §101(a)(1)(A), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1). Pub. L. 115–118, §101(b)(1)(F)(i), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e),and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" in subpars. (A) to (C).
+Subsec. (j)(1). Pub. L. 115–118, §101(b)(1)(F)(i), substituted "targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1)" for "targeting and minimization procedures adopted in accordance with subsections (d) and (e)" in subpars. (A) to (C).
 
 Subsec. (j)(2)(A). Pub. L. 115–118, §101(b)(1)(F)(ii)(I), substituted "with subsection (h)" for "with subsection (g)".
 
@@ -658,7 +658,7 @@ Exception for emergency acquisition.—
 
 &emsp;"(A)
 
-Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and theSelect Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made.
+Notice of determination.—If the Attorney General and the Director of National Intelligence make a determination pursuant to section 702(c)(2) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881a(c)(2)) with respect to the intentional acquisition of abouts communications, the Attorney General and the Director of National Intelligence shall notify the Committee on the Judiciary and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary and the Permanent Select Committee on Intelligence of the House of Representatives as soon as practicable, but not later than 7 days after the determination is made.
 
 &emsp;"(B)
 

@@ -40,7 +40,7 @@ Criminal Penalties.—
 
 &emsp;(1)
 
-In general.—Any person who violates, or attempts or conspires to violate, subsection\(a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
+In general.—Any person who violates, or attempts or conspires to violate, subsection (a) shall be fined not more than $2,000,000 and shall be sentenced to a term of imprisonment not less than 25 years or to imprisonment for life.
 
 &emsp;(2)
 

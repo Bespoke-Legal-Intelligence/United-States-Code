@@ -22,7 +22,7 @@ The Secretary may make peer-reviewed grants to, or enter into peer-reviewed cont
 
 &emsp;&emsp;(B) establish yearly benchmarks for improvement in organ donation rates in the State; and
 
-&emsp;&emsp;(C) report to the Secretary on an annual basis a description and assessment of theState's use of funds received under this subsection, accompanied by an assessment of initiatives for potential replication in other States.
+&emsp;&emsp;(C) report to the Secretary on an annual basis a description and assessment of the State's use of funds received under this subsection, accompanied by an assessment of initiatives for potential replication in other States.
 
 #### (3) Use of funds
 

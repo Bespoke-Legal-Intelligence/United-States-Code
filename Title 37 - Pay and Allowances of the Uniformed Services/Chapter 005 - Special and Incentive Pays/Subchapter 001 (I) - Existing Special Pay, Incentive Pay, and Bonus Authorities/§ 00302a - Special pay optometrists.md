@@ -14,7 +14,7 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 &emsp;&emsp;(A) of a Reserve component of the Army, Navy, or Air Force who is designated as an optometry officer; or
 
-&emsp;&emsp;(B) who is an optometry officer of the Reserve Corps of the Public Health Service,
+&emsp;&emsp;(B) who is an optometry officer of the Reserve Corps <sup>1</sup> of the Public Health Service,
 
 > &emsp;who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
@@ -37,6 +37,8 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 (4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). An officer who does not complete the period for which the payment was made under paragraph (1) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(d), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(5), Jan. 6, 2006, 119 Stat. 3328.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -66,6 +68,12 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1977 Amendment
 
 Pub. L. 95–114, §4, Sept. 30, 1977, 91 Stat. 1047, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 303 of this title\] become effective on October 1, 1977."
@@ -93,4 +101,6 @@ Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, pro
 #### Pay Continuation
 
 Enactment of this section not to reduce the pay to which any member of the uniformed services was entitled on June 30, 1971, see section 210 of Pub. L. 92–129, set out as a note under section 203 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

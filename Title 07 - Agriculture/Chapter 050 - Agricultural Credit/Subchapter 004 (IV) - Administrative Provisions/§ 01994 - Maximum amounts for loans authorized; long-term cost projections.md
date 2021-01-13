@@ -104,7 +104,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (B) Notice
 
-&emsp;&emsp;Not later than 15 days before the date on which the Secretary uses the authorityunder subparagraph (A), the Secretary shall submit a notice of the use of that authority to—
+&emsp;&emsp;Not later than 15 days before the date on which the Secretary uses the authority under subparagraph (A), the Secretary shall submit a notice of the use of that authority to—
 
 &emsp;&emsp;&emsp;(i) the Committee on Appropriations of the House of Representatives;
 
@@ -160,7 +160,7 @@ Subsec. (b)(1)(A). Pub. L. 110–246, §5303(2), in introductory provisions, sub
 
 Subsec. (b)(2)(A)(i). Pub. L. 110–246, §5302(b)(1)(A), in subcl. (I), substituted "an amount that is not less than 75 percent of the total amount" for "70 percent" and, in subcl. (II), inserted "; joint financing arrangements" at end of heading and, in text, substituted "an amount not less than 2/3 of the amount" for "60 percent" and inserted "and joint financing arrangements under section 1927(a)(3)(D) of this title" after "section 1935 of this title".
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted "2008 through 2012, an amount that is notless than 50 percent of the total amount" for "2003 through 2007, 35 percent".
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, §5302(b)(1)(B), substituted "2008 through 2012, an amount that is not less than 50 percent of the total amount" for "2003 through 2007, 35 percent".
 
 Subsec. (b)(2)(B)(i). Pub. L. 110–246, §5302(b)(2), substituted "an amount that is not less than 40 percent of the total amount" for "25 percent".
 

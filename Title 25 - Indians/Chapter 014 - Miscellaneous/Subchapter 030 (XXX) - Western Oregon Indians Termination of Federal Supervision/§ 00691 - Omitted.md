@@ -1,8 +1,12 @@
 ### §691. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1954, ch. 733, §1, 68 Stat. 724, which set out the purpose of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal of Inconsistent Laws
 

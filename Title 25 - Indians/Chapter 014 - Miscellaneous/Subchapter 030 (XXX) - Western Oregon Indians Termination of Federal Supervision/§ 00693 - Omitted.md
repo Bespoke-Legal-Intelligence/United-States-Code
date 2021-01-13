@@ -1,5 +1,7 @@
 ### §693. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1954, ch. 733, §3, 68 Stat. 724, which related to preparation and publication of membership roll, was omitted from the Code as being of special and not general application.

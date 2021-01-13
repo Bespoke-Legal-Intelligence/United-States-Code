@@ -14,7 +14,7 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 &emsp;(3) has filed an application for benefits under this section;
 
-> shall, in accordance with the succeeding provisions of this section, be entitled to benefitsunder part A and eligible to enroll under part B of subchapter XVIII, subject to the deductible, premium, and coinsurance provisions of that subchapter.
+> shall, in accordance with the succeeding provisions of this section, be entitled to benefits under part A and eligible to enroll under part B of subchapter XVIII, subject to the deductible, premium, and coinsurance provisions of that subchapter.
 
 #### (b) Duration of period of entitlement
 
@@ -28,7 +28,7 @@ Subject to subsection (c), entitlement of an individual to benefits under part A
 
 > &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
-&emsp;(2) shall end, in the case of an individual who receives a kidney transplant, with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
+&emsp;(2) shall end, in the case of an individual who receives a kidney transplant (except for eligibility for enrollment under part B solely for purposes of coverage of immunosuppressive drugs described in section 1395x(s)(2)(J) of this title), with the thirty-sixth month after the month in which such individual receives such transplant or, in the case of an individual who has not received a kidney transplant and no longer requires a regular course of dialysis, with the twelfth month after the month in which such course of dialysis is terminated.
 
 #### (c) Individuals participating in self-care dialysis training programs; kidney transplant failures; resumption of previously terminated regular course of dialysis
 
@@ -36,17 +36,19 @@ Notwithstanding the provisions of subsection (b)—
 
 &emsp;(1) in the case of any individual who participates in a self-care dialysis training program prior to the third month after the month in which such individual initiates a regular course of renal dialysis in a renal dialysis facility or provider of services meeting the requirements of section 1395rr(b) of this title, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is initiated;
 
-&emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2)) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such course is initiated or resumed; and
+&emsp;(2) in any case in which a kidney transplant fails (whether during or after the thirty-six-month period specified in subsection (b)(2)) and as a result the individual who received such transplant initiates or resumes a regular course of renal dialysis, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall beginwith the month in which such course is initiated or resumed; and
 
 &emsp;(3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII shall begin with the month in which such regular course of renal dialysis is resumed.
 
-(Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 114–74, title VIII, §844(b), Nov. 2, 2015, 129 Stat. 617.)
+(Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 114–74, title VIII, §844(b), Nov. 2, 2015, 129 Stat. 617; Pub. L. 116–260, div. CC, title IV, §402(a)(1), Dec. 27, 2020, 134 Stat. 2998.)
 
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–260 inserted "(except for eligibility for enrollment under part B solely for purposes of coverage of immunosuppressive drugs described in section 1395x(s)(2)(J) of this title)" before ", with the thirty-sixth month".
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–74 struck out subsec. (c) relating to continuing eligibility of certain terminated individuals.
 

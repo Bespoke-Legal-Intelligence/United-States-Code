@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294, title VI, §601(a)(6), Oct. 11, 1996, 110 Stat. 3498, added item 1122.

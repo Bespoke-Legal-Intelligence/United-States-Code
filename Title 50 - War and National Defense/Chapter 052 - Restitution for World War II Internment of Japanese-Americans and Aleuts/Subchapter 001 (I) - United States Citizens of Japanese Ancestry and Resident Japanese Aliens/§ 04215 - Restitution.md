@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (7), the Attorney General shall, subject to the availability of funds appropriated to the Fund for such purpose, pay out of the Fund to each eligible individual the sum of $20,000, unless such individual refuses, in the manner described in paragraph (5), to accept the payment.
+&emsp;Subject to paragraph (7), the Attorney General shall, subject to the availability of funds appropriated to the Fund for such purpose, payout of the Fund to each eligible individual the sum of $20,000, unless such individual refuses, in the manner described in paragraph (5), to accept the payment.
 
 #### (2) Location of eligible individuals
 
@@ -32,7 +32,7 @@
 
 #### (7) Exclusion of certain individuals
 
-&emsp;No payment may be made under this section to any individual who, after September 1, 1987,accepts payment pursuant to an award of a final judgment or a settlement on a claim against the United States for acts described in section 4218(2)(B) of this title, or to any surviving spouse, child, or parent of such individual to whom paragraph (8) applies.
+&emsp;No payment may be made under this section to any individual who, after September 1, 1987, accepts payment pursuant to an award of a final judgment or a settlement on a claim against the United States for acts described in section 4218(2)(B) of this title, or to any surviving spouse, child, or parent of such individual to whom paragraph (8) applies.
 
 #### (8) Payments in the case of deceased persons
 

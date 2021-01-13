@@ -34,7 +34,7 @@ Congress finds as follows:
 
 &emsp;(15) In fiscal year 2005, RAINN spent more than 91 cents of every dollar received directly on program services.
 
-&emsp;(16) The demand for RAINN's services is growing dramatically, as evidenced by the factthat, in 2005, the National Sexual Assault Hotline helped 137,039 people, an all-time record.
+&emsp;(16) The demand for RAINN's services is growing dramatically, as evidenced by the fact that, in 2005, the National Sexual Assault Hotline helped 137,039 people, an all-time record.
 
 &emsp;(17) The programs sponsored by RAINN and its local affiliates have contributed to the increase in the percentage of victims who report their rape to law enforcement.
 
@@ -85,6 +85,8 @@ For the purposes of this section:
 There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2007 through 2010.
 
 (Pub. L. 109–248, title VI, §628, July 27, 2006, 120 Stat. 638.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

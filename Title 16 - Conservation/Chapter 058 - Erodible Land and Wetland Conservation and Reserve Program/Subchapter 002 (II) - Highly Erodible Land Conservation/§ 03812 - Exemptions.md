@@ -26,7 +26,7 @@ Crop insurance.—
 
 &emsp;&emsp;(i)
 
-Operations new to compliance.—Notwithstanding section 3811(a) of this title, in the case of a person that is subject to section 3811 of this title for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in section 3811(a)(1)(E) of this title shall have 5 reinsurance years after the date on which such payments become subject to section 3811 of this title todevelop and comply with an approved conservation plan so as to maintain eligibility for such payments.
+Operations new to compliance.—Notwithstanding section 3811(a) of this title, in the case of a person that is subject to section 3811 of this title for the first time solely due to the amendment made by section 2611(a) of the Agricultural Act of 2014, any person who produces an agricultural commodity on the land that is the basis of the payments described in section 3811(a)(1)(E) of this title shall have 5 reinsurance years after the date on which such payments become subject to section 3811 of this title to develop and comply with an approved conservation plan so as to maintain eligibility for such payments.
 
 &emsp;&emsp;(ii)
 

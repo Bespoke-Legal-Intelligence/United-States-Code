@@ -30,7 +30,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 #### (4) Availability of variable rates
 
-&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that isrefinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
+&emsp;(A) For any loan made pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title and disbursed on or after July 1, 1987, or any loan made pursuant to such section prior to such date that is refinanced pursuant to section 1078–1(d) <sup>1</sup> or 1078–2(d) of this title, the applicable rate of interest during any 12-month period beginning on July 1 and ending on June 30 shall be determined under subparagraph (B), except that such rate shall not exceed 12 percent.
 
 &emsp;(B)(i) For any 12-month period beginning on July 1 and ending on or before June 30, 2001, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
 
@@ -110,7 +110,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) General rule
 
-&emsp;Notwithstanding the provisions of subsection (f), but subject to subsection (h), withrespect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding the provisions of subsection (f), but subject to subsection (h), with respect to any loan under section 1078 or 1078–8 of this title for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -136,7 +136,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to sections 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to anyloan made, insured, or guaranteed under this part (other than a loan made pursuant to sections 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of the securities with a comparable maturity as established by the Secretary; plus
 
@@ -252,7 +252,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Consultation
 
-&emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rate of interest under this subsection afterconsultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (k) Interest rates for new loans on or after October 1, 1998, and before July 1, 2006
 
@@ -308,7 +308,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Consolidation loans
 
-&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, and that was disbursedbefore July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, and that was disbursed before July 1, 2010, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 
@@ -418,7 +418,7 @@ Subsecs. (j), (k). Pub. L. 103–66, §4101(2), redesignated subsecs. (g) and (h
 
 Subsec. (e). Pub. L. 102–325, §415(c)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 102–325, §415(b), amended par. (1) heading and substituted "paragraph (5)" for "paragraph (3)" in par. (1)(B), amended par. (2) heading, added pars. (3) and (4), redesignated former par. (3) as (5), struck out "or" before "by reducing the number" and inserted ", or by reducing the amount of the final payment of the loan. Nothing in this paragraph shall be construed to require the lender to make additional disclosures pursuant to section 1083(b) of this title" before period at end, redesignated former par. (4) as (6), and struck out former par. (5) which provided for study of treatment of excess interest payments provisions.
+Pub. L. 102–325, §415(b), amended par. (1) heading and substituted "paragraph (5)" for "paragraph (3)" in par. (1)(B), amended par. (2) heading, added pars. (3) and (4), redesignated former par. (3) as (5), struck out "or" before "by reducing the number" and inserted ", or by reducing the amount of the final payment of the loan. Nothing in this paragraph shall be construed to requirethe lender to make additional disclosures pursuant to section 1083(b) of this title" before period at end, redesignated former par. (4) as (6), and struck out former par. (5) which provided for study of treatment of excess interest payments provisions.
 
 Subsecs. (f) to (h). Pub. L. 102–325, §415(c)(1), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 

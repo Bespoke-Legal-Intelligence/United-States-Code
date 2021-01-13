@@ -30,6 +30,8 @@ The words "his opinions" are substituted for "the opinions of the law officers h
 
 In the last sentence, the words "proper" and "complete and full" are omitted as unnecessary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in par. (1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
@@ -80,7 +82,7 @@ In general.—Any opinion of the Office of Legal Counsel that would have been se
 
 &emsp;"(2)
 
-Exception for covert action.—If the President determines that it is essential to limit access to a covert action finding under section 503(c)(2) of the National Security Act of 1947 (50 U.S.C. 3093(c)(2)), the President may limit access to information concerning such finding that would otherwise be provided ormade available under this subsection to those members of Congress who have been granted access to such finding under such section 503(c)(2).
+Exception for covert action.—If the President determines that it is essential to limit access toa covert action finding under section 503(c)(2) of the National Security Act of 1947 (50 U.S.C. 3093(c)(2)), the President may limit access to information concerning such finding that would otherwise be provided or made available under this subsection to those members of Congress who have been granted access to such finding under such section 503(c)(2).
 
 "(f)
 

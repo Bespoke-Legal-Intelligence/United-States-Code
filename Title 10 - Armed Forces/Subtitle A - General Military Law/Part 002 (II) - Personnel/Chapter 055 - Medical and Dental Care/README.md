@@ -9,6 +9,7 @@
 | [1073b.](%C2%A7%2001073b%20-%20Recurring%20reports%20and%20publication%20of%20certain%20data.md) | Recurring reports and publication of certain data. |
 | [1073c.](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md) | Administration of Defense Health Agency and military medical treatment facilities. |
 | [1073d.](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md) | Military medical treatment facilities. |
+| [1073e.](%C2%A7%2001073e%20-%20Protection%20of%20armed%20forces%20from%20infectious%20diseases.md) | Protection of armed forces from infectious diseases. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
 | [1074b.](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md) | Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC. |
@@ -73,12 +74,12 @@
 | [1095g.](%C2%A7%2001095g%20-%20TRICARE%20program%20waiver%20of%20recoupment%20of%20erroneous%20payments%20caused%20by%20administrative%20error.md) | TRICARE program: waiver of recoupment of erroneous payments caused by administrative error. |
 | [1096\.](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md) | Military-civilian health services partnership program. |
 | [1097\.](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md) | Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care. |
-| [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md) | TRICARE Prime: automatic enrollments; payment options. |
+| [1097a.](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments.md) | TRICARE Prime: automatic enrollment. |
 | [1097b.](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md) | TRICARE program: financial management. |
 | [1097c.](%C2%A7%2001097c%20-%20TRICARE%20program%20relationship%20with%20employer-sponsored%20group%20health%20plans.md) | TRICARE program: relationship with employer-sponsored group health plans. |
 | [1097d.](%C2%A7%2001097d%20-%20TRICARE%20program%20notice%20of%20change%20to%20benefits.md) | TRICARE program: notice of change to benefits. |
 | [1098\.](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md) | Incentives for participation in cost-effective health care plans. |
-| [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md) | Health care enrollment system. |
+| [1099\.](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system%20and%20payment%20options.md) | Health care enrollment system and payment options. |
 | [1100\.](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md) | Defense Health Program Account. |
 | [1101\.](%C2%A7%2001101%20-%20Resource%20allocation%20methods%20capitation%20or%20diagnosis-related%20groups.md) | Resource allocation methods: capitation or diagnosis-related groups. |
 | [1102\.](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md) | Confidentiality of medical quality assurance records: qualified immunity for participants. |
@@ -96,11 +97,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1437, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a "TRICARE Prime: automatic enrollments" and 1099 "Health care enrollment system and payment options" and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.</i>
-
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 
@@ -126,7 +125,7 @@ Pub. L. 111–383, div. A, title VII, §702(a)(2), Jan. 7, 2011, 124 Stat. 4245,
 
 <b>2006</b>—Pub. L. 109–364, div. A, title VII, §707(b), Oct. 17, 2006, 120 Stat. 2284, added item 1097c.
 
-Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" and substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after releasefrom active duty in support of a contingency operation" in item 1076d, effective Oct. 1, 2007.
+Pub. L. 109–364, div. A, title VII, §706(e), Oct. 17, 2006, 120 Stat. 2282, struck out item 1076b "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" and substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in item 1076d, effective Oct. 1, 2007.
 
 Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted "TRICARE program: TRICARE Standard coverage for members of the Selected Reserve" for "TRICARE program: coverage for members of the Ready Reserve" in item 1076b and "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" for "TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty" in item 1076d.
 
@@ -140,7 +139,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2), 758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a "Dependents' dental program" and 1076b "Selected Reserve dental insurance".
+<b>1999</b>—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5,1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a "Dependents' dental program" and 1076b "Selected Reserve dental insurance".
 
 <b>1998</b>—Pub. L. 105–261, div. A, title VII, §§711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
 
@@ -202,6 +201,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01073b - Recurring reports and publication of certain data](%C2%A7%2001073b%20-%20Recurring%20reports%20and%20publication%20of%20certain%20data.md)
 - [&sect; 01073c - Administration of Defense Health Agency and military medical treatment facilities](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md)
 - [&sect; 01073d - Military medical treatment facilities](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md)
+- [&sect; 01073e - Protection of armed forces from infectious diseases](%C2%A7%2001073e%20-%20Protection%20of%20armed%20forces%20from%20infectious%20diseases.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
 - [&sect; 01074b - Medical and dental care Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md)
@@ -266,12 +266,12 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01095g - TRICARE program waiver of recoupment of erroneous payments caused by administrative error](%C2%A7%2001095g%20-%20TRICARE%20program%20waiver%20of%20recoupment%20of%20erroneous%20payments%20caused%20by%20administrative%20error.md)
 - [&sect; 01096 - Military-civilian health services partnership program](%C2%A7%2001096%20-%20Military-civilian%20health%20services%20partnership%20program.md)
 - [&sect; 01097 - Contracts for medical care for retirees, dependents, and survivors alternative delivery of health care](%C2%A7%2001097%20-%20Contracts%20for%20medical%20care%20for%20retirees%2C%20dependents%2C%20and%20survivors%20alternative%20delivery%20of%20health%20care.md)
-- [&sect; 01097a - TRICARE Prime automatic enrollments; payment options](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments%3B%20payment%20options.md)
+- [&sect; 01097a - TRICARE Prime automatic enrollments](%C2%A7%2001097a%20-%20TRICARE%20Prime%20automatic%20enrollments.md)
 - [&sect; 01097b - TRICARE program financial management](%C2%A7%2001097b%20-%20TRICARE%20program%20financial%20management.md)
 - [&sect; 01097c - TRICARE program relationship with employer-sponsored group health plans](%C2%A7%2001097c%20-%20TRICARE%20program%20relationship%20with%20employer-sponsored%20group%20health%20plans.md)
 - [&sect; 01097d - TRICARE program notice of change to benefits](%C2%A7%2001097d%20-%20TRICARE%20program%20notice%20of%20change%20to%20benefits.md)
 - [&sect; 01098 - Incentives for participation in cost-effective health care plans](%C2%A7%2001098%20-%20Incentives%20for%20participation%20in%20cost-effective%20health%20care%20plans.md)
-- [&sect; 01099 - Health care enrollment system](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system.md)
+- [&sect; 01099 - Health care enrollment system and payment options](%C2%A7%2001099%20-%20Health%20care%20enrollment%20system%20and%20payment%20options.md)
 - [&sect; 01100 - Defense Health Program Account](%C2%A7%2001100%20-%20Defense%20Health%20Program%20Account.md)
 - [&sect; 01101 - Resource allocation methods capitation or diagnosis-related groups](%C2%A7%2001101%20-%20Resource%20allocation%20methods%20capitation%20or%20diagnosis-related%20groups.md)
 - [&sect; 01102 - Confidentiality of medical quality assurance records qualified immunity for participants](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md)

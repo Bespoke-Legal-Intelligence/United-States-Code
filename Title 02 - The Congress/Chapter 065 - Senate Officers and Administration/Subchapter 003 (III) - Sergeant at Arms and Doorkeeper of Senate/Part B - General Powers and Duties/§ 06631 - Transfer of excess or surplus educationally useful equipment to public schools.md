@@ -26,6 +26,8 @@ This section shall take effect beginning with fiscal year 1997 and shall be effe
 
 (Pub. L. 104–197, title I, §5, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–110, title X, §1076(a), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, §9215(yy), Dec. 10, 2015, 129 Stat. 2184.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 117b–2 of this title prior to editorial reclassification and renumbering as this section.
@@ -37,6 +39,8 @@ Section is from the Congressional Operations Appropriations Act, 1997, which is 
 <b>2015</b>—Subsec. (d)(1). Pub. L. 114–95 substituted "elementary school or secondary school, as such terms are defined in section 7801" for "public elementary or secondary school as such terms are defined in section 7801".
 
 <b>2002</b>—Subsec. (d)(1). Pub. L. 107–110 substituted "7801" for "8801".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

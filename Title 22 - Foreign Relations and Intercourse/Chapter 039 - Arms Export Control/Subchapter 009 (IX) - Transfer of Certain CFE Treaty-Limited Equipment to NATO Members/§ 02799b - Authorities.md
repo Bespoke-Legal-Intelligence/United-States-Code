@@ -42,9 +42,13 @@ The President shall ensure that transfers by the United States under subsection 
 
 (Pub. L. 90–629, ch. 9, §93, as added Pub. L. 102–228, §2, Dec. 12, 1991, 105 Stat. 1691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

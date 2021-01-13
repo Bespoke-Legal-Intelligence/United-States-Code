@@ -28,7 +28,7 @@ For purposes of this subchapter:
 
 A prior section 208 of Pub. L. 93–247 was renumbered section 207 and is classified to section 5116g of this title.
 
-Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of this title prior to the generalamendment of this subchapter by Pub. L. 103–252, §401(a).
+Another prior section 208 of Pub. L. 93–247 was classified to section 5116g of this title prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

@@ -128,7 +128,7 @@ Contracts and procurement of property or services.—In no case may an executive
 
 &emsp;&emsp;&emsp;(i) enter into a contract for property or services using procedures other than competitive procedures on the basis of the lack of advance planning or concerns related to the amount available to the agency for procurement functions; or
 
-&emsp;&emsp;&emsp;(ii) procure property or services from another executive agency unless the otherexecutive agency complies fully with the requirements of this division in its procurement of the property or services.
+&emsp;&emsp;&emsp;(ii) procure property or services from another executive agency unless the other executive agency complies fully with the requirements of this division in its procurement of the property or services.
 
 &emsp;&emsp;(B)
 
@@ -222,13 +222,21 @@ In subsection (f)(2), the words "referred to in subparagraph (A) of paragraph (1
 
 In subsec. (e)(1)(B)(ii), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (a)(5), (e)(4)(B). Pub. L. 115–232 substituted "commercial product" for "commercial item".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### General Services Administration: Notification of Use of Noncompetitive Procedures in Response to Public Health Emergency Declaration
+
+Pub. L. 116–136, div. B, title V, §15003, Mar. 27, 2020, 134 Stat. 532, provided that: "Notwithstanding 41 U.S.C. 3304(a)(7)(B), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with 41 U.S.C. 3304(a)(7)(A) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247(d) \[247d\]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract."
 
 #### Justification and Approval of Sole-Source Contracts
 

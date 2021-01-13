@@ -70,11 +70,13 @@
 
 &emsp;&emsp;(B) the appropriate congressional committees—
 
-&emsp;&emsp;&emsp;(i) are notified as early as practicable but in no event later than three days afteran obligation of amounts from the Fund; and
+&emsp;&emsp;&emsp;(i) are notified as early as practicable but in no event later than three days after an obligation of amounts from the Fund; and
 
 &emsp;&emsp;&emsp;(ii) are provided with an explanation of the emergency circumstances that necessitated such waiver.
 
 (Pub. L. 116–94, div. J, title V, §509, Dec. 20, 2019, 133 Stat. 3066.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

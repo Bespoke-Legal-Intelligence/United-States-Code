@@ -34,7 +34,7 @@
 
 (5) If a district court issues an order exercising its authority under paragraph (1), the court shall direct the United States marshal of the district where the court is meeting to furnish transportation and subsistence to the same extent as that provided in sections 4282 and 4285 of title 18.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248; Pub. L. 109–63, §2(b), Sept. 9, 2005, 119 Stat. 1994; Pub. L. 109–162, title XI, §1198(a), Jan. 5, 2006, 119 Stat. 3132.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248; Pub. L. 109–63, §2(b),Sept. 9, 2005, 119 Stat. 1994; Pub. L. 109–162, title XI, §1198(a), Jan. 5, 2006, 119 Stat. 3132.)
 
 #### Historical and Revision Notes
 
@@ -43,6 +43,8 @@ Based on title 28, U.S.C., 1940 ed., §15 (Mar. 3, 1911, ch. 231, §11, 36 Stat.
 Section was rewritten to include provision that notice of special terms should conform to rules approved by the judicial council of the circuit, thus insuring a uniform practice among the courts for convening special terms.
 
 Changes of phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

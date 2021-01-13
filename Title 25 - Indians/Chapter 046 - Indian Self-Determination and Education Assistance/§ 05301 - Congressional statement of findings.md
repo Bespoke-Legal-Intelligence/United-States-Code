@@ -20,9 +20,19 @@ The Congress further finds that—
 
 (Pub. L. 93–638, §2, Jan. 4, 1975, 88 Stat. 2203.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 450 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. DD, §1, Dec. 27, 2020, 134 Stat. 3008, provided that: "This division \[amending section 5363 of this title and repealing in part and omitting in part section 671 of Title 16, Conservation\] may be cited as the 'Montana Water Rights Protection Act'."
+
+Pub. L. 116–180, §1(a), Oct. 21, 2020, 134 Stat. 857, provided that: "This Act \[enacting sections 5364 to 5377 of this title, amending sections 5304, 5305, 5321, 5324, 5325, 5329, and 5361 to 5363 of this title, repealing sections 5364 to 5368 of this title, and enacting provisions set out as notes under sections 5305 and 5361 of this title\] may be cited as the 'Practical Reforms and Other Goals To Reinforce the Effectiveness of Self-Governance and Self-Determination for Indian Tribes Act of 2019' or the 'PROGRESS for Indian Tribes Act'."
 
 #### Short Title of 2018 Amendment
 
@@ -78,6 +88,8 @@ Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that:
 
 Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: "The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\]."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13175. Consultation and Coordination With Indian Tribal Governments
 
 Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249, provided:
@@ -118,7 +130,7 @@ Sec. 3. <i>Policymaking Criteria</i>. In addition to adhering to the fundamental
 
 Sec. 4. <i>Special Requirements for Legislative Proposals</i>. Agencies shall not submit to the Congress legislation that would be inconsistent with the policymaking criteria in Section 3.
 
-Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process to ensure meaningful and timely input by tribal officials in the development of regulatory policies that have tribal implications. Within 30 days after the effective date of this order, the head of each agency shall designate an official with principal responsibility for the agency's implementation of this order. Within 60 days of the effective date of this order, the designated official shall submit to the Office of Management and Budget (OMB) a description of the agency's consultation process.
+Sec. 5. <i>Consultation</i>. (a) Each agency shall have an accountable process to ensure meaningful and timelyinput by tribal officials in the development of regulatory policies that have tribal implications. Within 30 days after the effective date of this order, the head of each agency shall designate an official with principal responsibility for the agency's implementation of this order. Within 60 days of the effective date of this order, the designated official shall submit to the Office of Management and Budget (OMB) a description of the agency's consultation process.
 
 (b) To the extent practicable and permitted by law, no agency shall promulgate any regulation that has tribal implications, that imposes substantial direct compliance costs on Indian tribal governments, and that is not required by statute, unless:
 
@@ -156,7 +168,7 @@ Sec. 7. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has tribal implications to OMB pursuant to Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensurecompliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has tribal implications to OMB, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order the Director of OMB and the Assistant to the President for Intergovernmental Affairs shall confer with tribal officials to ensure that this order is being properly and effectively implemented.
 
@@ -296,7 +308,7 @@ Sec. 5. <i>General Provisions</i>. (a) The heads of executive departments, agenc
 
 (c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(d) For purposes of this order, "federally recognized tribe" means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a \[now 25 U.S.C. 5130\].
+(d) For purposes of this order, "federally recognized tribe" means an Indian or Alaska Native tribe, band,nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a \[now 25 U.S.C. 5130\].
 
 (e) For purposes of this order, "American Indian and Alaska Native" means a member of an Indian tribe, as membership is defined by the tribe.
 

@@ -68,7 +68,7 @@ Payment.—A secured loan under this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) other dedicated revenue sources that also secure the senior project obligations; or
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenuesources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
+&emsp;&emsp;&emsp;&emsp;(V) in the case of a secured loan for a project capitalizing a rural projects fund, any other dedicated revenue sources available to a State infrastructure bank, including repayments from loans made by the bank for rural infrastructure projects; and
 
 &emsp;&emsp;&emsp;(ii) include a rate covenant, coverage requirement, or similar security feature supporting the project obligations; and
 
@@ -88,7 +88,7 @@ Rural infrastructure projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
+In general.—The interest rate of a loan offered to a rural infrastructureproject or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -268,6 +268,8 @@ Terms.—In establishing the streamlined application process required by this su
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
@@ -315,6 +317,8 @@ Subsec. (b)(4). Pub. L. 109–59, §1601(d)(3)(C), struck out "marketable" befor
 Subsec. (b)(8). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter".
 
 Subsec. (c)(3) to (5). Pub. L. 109–59, §1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out "during the 10 years" after "at any time", in par. (3)(B)(ii), substituted "loan" for "loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)", and struck out heading and text of former par. (3). Text read as follows: "The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

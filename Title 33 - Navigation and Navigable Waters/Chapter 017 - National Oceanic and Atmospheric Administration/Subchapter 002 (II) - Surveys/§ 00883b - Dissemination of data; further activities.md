@@ -10,7 +10,9 @@ In order that full public benefit may be derived from the operations of the Nati
 
 (4) Distribution of nautical charts and related navigational publications.
 
-(Aug. 6, 1947, ch. 504, §2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat.1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, §605(a), Apr. 5, 2000, 114 Stat. 154.)
+(Aug. 6, 1947, ch. 504, §2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, §605(a), Apr. 5, 2000, 114 Stat. 154.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -22,9 +24,13 @@ Par. (5). Pub. L. 106–181, §605(a)(1), struck out par. (5) which read as foll
 
 Par. (6). Pub. L. 106–181, §605(a)(1), redesignated par. (6) as (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

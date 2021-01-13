@@ -114,7 +114,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 2017 Amendment
 
-Revised cadet and midshipman service agreements under this section and sections 7448 and 9448 of thistitle applicable to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on Dec. 12, 2017, and to persons who begin attendance at such military service academies on or after that date, see section 543(d) of Pub. L. 115–91, set out as a note under section 7448 of this title.
+Revised cadet and midshipman service agreements under this section and sections 7448 and 9448 of this title applicable to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on Dec. 12, 2017, and to persons who begin attendance at such military service academies on or after that date, see section 543(d) of Pub. L. 115–91, set out as a note under section 7448 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -138,7 +138,7 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
+Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L.99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
 
 #### Savings Provision
 

@@ -1,5 +1,7 @@
 ### §§100, 101. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 100 transferred to section 1551 of this title.

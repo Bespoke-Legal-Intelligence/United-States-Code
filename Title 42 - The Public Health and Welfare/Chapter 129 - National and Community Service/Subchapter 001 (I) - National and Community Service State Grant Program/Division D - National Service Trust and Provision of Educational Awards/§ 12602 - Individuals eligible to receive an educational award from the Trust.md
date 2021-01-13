@@ -42,7 +42,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
+&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term ofservice in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
 
 #### (2) Exception
 

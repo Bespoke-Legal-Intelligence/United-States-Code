@@ -6,6 +6,10 @@
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 97–258, §2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4161, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 207 of this title, as amended by section 1809(a) of Pub. L. 116–283, added after section 3133, and redesignated as section 3134 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 Historical and Revision Notes
 
 <i>Revised section</i>
@@ -31,4 +35,8 @@ In subsection (b), the words "an allotment under subsection (a)" are substituted
 #### Amendments
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted "disbursing official" for "disbursing officer".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

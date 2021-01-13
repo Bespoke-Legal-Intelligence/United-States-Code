@@ -4,6 +4,8 @@ There shall be a Capitol police. There shall be a captain of the Capitol police 
 
 (R.S. §1821; Apr. 28, 1902, ch. 594, 32 Stat. 124; June 28, 1943, ch. 173, title I, 57 Stat. 230; Pub. L. 96–152, §1(a), Dec. 20, 1979, 93 Stat. 1099; Pub. L. 108–7, div. H, title I, §1018(h)(1), Feb. 20, 2003, 117 Stat. 368; Pub. L. 111–145, §6(e)(1)–(3), Mar. 4, 2010, 124 Stat. 54, 55.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 206 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -23,6 +25,8 @@ Pub. L. 111–145, §6(e)(1), struck out "The captain and lieutenants shall be s
 <b>2003</b>—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read "The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.", was repealed by Pub. L. 111–145, §6(e)(2).
 
 <b>1979</b>—Pub. L. 96–152 inserted last sentence providing that the Capitol Police be headed by a Chief who shall be appointed by the Capitol Police Board and who shall serve at the pleasure of the Board.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -56,7 +60,7 @@ Pub. L. 111–145, §1, Mar. 4, 2010, 124 Stat. 49, provided that: "This Act \[s
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: "This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the 'U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007'."
+Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: "This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out asnotes under this section\] may be cited as the 'U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007'."
 
 #### Short Title of 2007 Amendment
 
@@ -98,7 +102,7 @@ Establishment.—There shall be established in the Capitol Police an Executive A
 
 &emsp;"(2)
 
-Appointment.—The Executive Assistant shall be appointed by the Chief of the Capitol Police inconsultation with the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate.
+Appointment.—The Executive Assistant shall be appointed by the Chief of the Capitol Police in consultation with the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate.
 
 &emsp;"(3)
 
@@ -208,7 +212,7 @@ Duties of Employees Transferred to Civilian Positions.—
 
 &emsp;"(1)
 
-Duties.—The duties of any individual who becomes a civilian employee of the Capitol Police under this section, including a Library of Congress Police civilian employee under subsection (a)(2) and a Library of Congress Police employee who becomes a civilian employee of the Capitol Police under subsection (b)(1)(B), shall be determined solely by the Chief of the Capitol Police, except that a Library of Congress Police civilian employee under subsection (a)(2) shall continue to support Library of Congresspolice operations until all Library of Congress Police employees are transferred to the United States Capitol Police under this section.
+Duties.—The duties of any individual who becomes a civilian employee of the Capitol Police under this section, including a Library of Congress Police civilian employee under subsection (a)(2) and a Library of Congress Police employee who becomes a civilian employee of the Capitol Police under subsection (b)(1)(B), shall be determined solely by the Chief of the Capitol Police, except that a Library of Congress Police civilian employee under subsection (a)(2) shall continue to support Library of Congress police operations until all Library of Congress Police employees are transferred to the United States Capitol Police under this section.
 
 &emsp;"(2)
 
@@ -362,7 +366,7 @@ Long Term Strategic Plan.—
 
 &emsp;"(1)
 
-In general.—The Chief of the United States Capitol Police, in consultation with the Comptroller General, shall develop a long term strategic plan which outlines the goals and objectives of the Capitol Police.
+In general.—The Chief of the United States Capitol Police, in consultation with the ComptrollerGeneral, shall develop a long term strategic plan which outlines the goals and objectives of the Capitol Police.
 
 &emsp;"(2)
 

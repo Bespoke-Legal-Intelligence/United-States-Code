@@ -1,6 +1,6 @@
 ### §3014. Nonmailable plants
 
-(a)(1) Whenever the Secretary of Agriculture establishes a quarantine under section 8 of thePlant Quarantine Act, prohibiting the transportation by common carrier of any plant from any State or other geographic area, the Secretary shall give notice of the establishment of such quarantine to the Postal Service in writing.
+(a)(1) Whenever the Secretary of Agriculture establishes a quarantine under section 8 of the Plant Quarantine Act, prohibiting the transportation by common carrier of any plant from any State or other geographic area, the Secretary shall give notice of the establishment of such quarantine to the Postal Service in writing.
 
 (2) Upon receiving any such notice under paragraph (1), the Postal Service shall ensure that copies of such notice are prominently displayed at post offices located within each State or area covered by the quarantine, and shall take any other measures which the Postal Service considers necessary in order to inform the public both of the establishment of such quarantine and of relevant provisions of this section and sections 1716B and 1716C of title 18 in connection therewith.
 
@@ -16,9 +16,13 @@
 
 (Added Pub. L. 100–574, §1(a)(1), Oct. 31, 1988, 102 Stat. 2892.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -34,7 +38,7 @@ In General.—This Act and the amendments made by this Act \[enacting this secti
 
 "(b)
 
-Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act."
+Regulations.—Nothing in this section shall prevent the United States Postal Service from taking anyaction which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

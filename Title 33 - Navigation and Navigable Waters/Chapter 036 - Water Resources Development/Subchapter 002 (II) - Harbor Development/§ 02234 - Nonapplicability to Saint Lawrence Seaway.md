@@ -1,6 +1,12 @@
 ### §2234. Nonapplicability to Saint Lawrence Seaway
 
-Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Saint Lawrence Seaway Development Corporation.
+Sections 2231, 2232, and 2233 of this title do not apply to any harbor or inland harbor project for that portion of the Saint Lawrence Seaway administered by the Great Lakes St. Lawrence Seaway Development Corporation.
 
-(Pub. L. 99–662, title II, §206, Nov. 17, 1986, 100 Stat. 4102.)
+(Pub. L. 99–662, title II, §206, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 116–260, div. AA, title V, §512(c)(5)(A), Dec. 27, 2020, 134 Stat. 2756.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
 

@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 > &emsp;The term includes equipment or technology modifications, process or procedure modifications, reformulation or redesign of products, substitution of raw materials, and improvements in housekeeping, maintenance, training, or inventory control.
 
-&emsp;(B) The term "source reduction" does not include any practice which alters the physical, chemical, or biological characteristics or the volume of a hazardous substance, pollutant, or contaminant through a process or activity which itself is not integral to and necessaryfor the production of a product or the providing of a service.
+&emsp;(B) The term "source reduction" does not include any practice which alters the physical, chemical, or biological characteristics or the volume of a hazardous substance, pollutant, or contaminant through a process or activity which itself is not integral to and necessary for the production of a product or the providing of a service.
 
 &emsp;(6) The term "multi-media" means water, air, and land.
 

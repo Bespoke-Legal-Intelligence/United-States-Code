@@ -22,7 +22,7 @@ There is established in the Executive Office of the President an Office of Natio
 
 #### (c) Access by Congress
 
-The location of the Office in the Executive Office of the President shall not be construed as affecting access by Congress, or any committeeof the House of Representatives or the Senate, to any—
+The location of the Office in the Executive Office of the President shall not be construed as affecting access by Congress, or any committee of the House of Representatives or the Senate, to any—
 
 &emsp;(1) information, document, or study in the possession of, or conducted by or at the direction of the Director; or
 
@@ -64,6 +64,8 @@ The location of the Office in the Executive Office of the President shall not be
 
 (Pub. L. 105–277, div. C, title VII, §§703, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §102, title VI, §602, title XI, §1120, Dec. 29, 2006, 120 Stat. 3505, 3533, 3548; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8217(a), (b), 8222(1), Oct. 24, 2018, 132 Stat. 4110, 4119, 4142; Pub. L. 116–74, §2(a)(2), (4), Nov. 27, 2019, 133 Stat. 1155.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d)(4), was in the original a reference to "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
@@ -104,11 +106,15 @@ Subsec. (b). Pub. L. 109–469, §102(b), amended subsec. (b) generally. Prior t
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Gifts to Office of National Drug Control Policy
 
-Pub. L. 116–93, div. C, title II, Dec. 20, 2019, 133 Stat. 2448, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
+Pub. L. 116–260, div. E, title II, Dec. 27, 2020, 134 Stat. 1394, provided in part: "That the Office \[of National Drug Control Policy\] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title II, Dec. 20, 2019, 133 Stat. 2448.
 
 Pub. L. 116–6, div. D, title II, Feb. 15, 2019, 133 Stat. 152.
 
@@ -164,6 +170,8 @@ Pub. L. 101–509, title III, Nov. 5, 1990, 104 Stat. 1402.
 
 Pub. L. 101–136, title III, Nov. 3, 1989, 103 Stat. 793.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12911. Seal for Office of National Drug Control Policy
 
 Ex. Ord. No. 12911, Apr. 25, 1994, 59 F.R. 21121 \[22121\], provided:
@@ -180,7 +188,7 @@ Sec. 2. The seal shall be of the design that is attached hereto and made a part 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[Image not captured: t211702.gif]
+[Image not captured: t211702.png]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "agencies' ".</i>
 

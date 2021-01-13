@@ -20,7 +20,7 @@ Provisions comprising this section were formerly classified to section 1762(f) o
 
 <b>2002</b>—Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "Foreign Service Institute".
 
-<b>1980</b>—Pub. L. 96–470 struck out provision requiring the Secretary of Agriculture to submit to the House Committee of Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry not later thanninety days after the end of each fiscal year a detailed report showing activities carried out under the authority of this section during such fiscal year.
+<b>1980</b>—Pub. L. 96–470 struck out provision requiring the Secretary of Agriculture to submit to the House Committee of Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry not later than ninety days after the end of each fiscal year a detailed report showing activities carried out under the authority of this section during such fiscal year.
 
 <b>1978</b>—Pub. L. 95–501, §401(4), substituted "this section" for "this subsection" in four places. See Codification note above.
 

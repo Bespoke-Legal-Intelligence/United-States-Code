@@ -20,9 +20,9 @@
 
 &emsp;In addition to making the adjustments required to produce the data described in paragraph (1), with respect to data collection occurring for fiscal years beginning with fiscal year 2009, in appropriate consultation with the Secretary of Health and Human Services, the Secretary of Commerce shall do the following:
 
-&emsp;&emsp;(A) Make appropriate adjustments to the Current Population Survey to develop more accurate State-specific estimates of thenumber of children enrolled in health coverage under subchapter XIX or this subchapter.
+&emsp;&emsp;(A) Make appropriate adjustments to the Current Population Survey to develop more accurate State-specific estimates of the number of children enrolled in health coverage under subchapter XIX or this subchapter.
 
-&emsp;&emsp;(B) Make appropriate adjustments to the Current Population Survey to improve the survey estimates used to determine a high-performing State under section 1397kk(b)(3)(B) of this title and any other data necessary for carrying out this subchapter.
+&emsp;&emsp;(B) Make appropriate adjustments to the Current Population Survey to improve the survey estimates used to determine a high-performing State under section 1397kk(b)(3)(B) of this title and any otherdata necessary for carrying out this subchapter.
 
 &emsp;&emsp;(C) Include health insurance survey information in the American Community Survey related to children.
 

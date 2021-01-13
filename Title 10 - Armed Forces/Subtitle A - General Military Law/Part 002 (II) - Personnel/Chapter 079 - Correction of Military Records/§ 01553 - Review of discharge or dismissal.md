@@ -6,11 +6,11 @@
 
 (2) If a board established under this section does not grant a request for an upgrade to the characterization of a discharge or dismissal, that declination may be considered under section 1552 or section 1553a of this title, as applicable.
 
-(c) A review by a board established under this section shall be based on the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review underthis section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
+(c) A review by a board established under this section shall be based on the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
 (d)(1)(A) In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable).
 
-(B) In the case of a former member described in paragraph (3)(B) who claims that the former member's post-traumatic stress disorder or traumatic brain injury as described in that paragraph in <sup>1</sup> based in whole or in part on sexual trauma, intimate partner violence, or spousal abuse, a board established under this section to review the former member's discharge or dismissal shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+(B) In the case of a former member described in paragraph (3)(B) who claims that the former member's post-traumatic stress disorder or traumatic brain injury as described in that paragraph is based in whole or in part on sexual trauma, intimate partner violence, or spousal abuse, a board established under this section to review the former member's discharge or dismissal shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
 
 (2) In the case of a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale or as justification for priority consideration, the Secretary concerned shall expedite a final decision and shall accord such cases sufficient priority to achieve an expedited resolution. In determining the priority of cases, the Secretary concerned shall weigh the medical and humanitarian circumstances of all cases and accord higher priority to cases not involving post-traumatic stress disorder or traumatic brain injury only when the individual cases are considered more compelling.
 
@@ -22,7 +22,7 @@
 
 (B) A former member described in this subparagraph is a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
 
-(e) In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
+(e) In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed whileserving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
 
 (f) Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
 
@@ -34,7 +34,7 @@
 
 &emsp;(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-(Added Pub. L. 85–857, §13(v)(2), Sept. 2, 1958, 72 Stat. 1266; amended Pub. L. 87–651, title I, §110(a), Sept. 7, 1962, 76 Stat. 509; Pub. L. 98–209, §11(b), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–84, div. A, title V, §512(b), Oct. 28, 2009, 123 Stat. 2281; Pub. L. 113–291, div. A, title V, §521(b), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–328, div. A, title V, §§533(b), 535, Dec. 23, 2016, 130 Stat. 2121, 2123; Pub. L. 115–91, div. A, title V, §§520(b), 521(b), (c)(2), title X, §1081(a)(28), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 116–92, div. A, title V, §§521(b), 522, 523(b)(2)(B), Dec. 20, 2019, 133 Stat. 1353, 1354.)
+(Added Pub. L. 85–857, §13(v)(2), Sept. 2, 1958, 72 Stat. 1266; amended Pub. L. 87–651, title I, §110(a), Sept. 7, 1962, 76 Stat. 509; Pub. L. 98–209, §11(b), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 111–84, div. A, title V, §512(b), Oct. 28, 2009, 123 Stat. 2281; Pub. L. 113–291, div. A, title V, §521(b), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–328, div. A, title V, §§533(b), 535, Dec. 23, 2016, 130 Stat. 2121, 2123; Pub. L. 115–91, div. A, title V, §§520(b), 521(b), (c)(2), title X, §1081(a)(28), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 116–92, div. A, title V, §§521(b), 522, 523(b)(2)(B), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title X, §1081(a)(28), Jan. 1, 2021, 134 Stat. 3872.)
 
 #### Historical and Revision Notes
 
@@ -45,6 +45,8 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (a), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1)(B). Pub. L. 116–283 substituted "is based" for "in based".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §522, substituted "not fewer than three" for "five".
 
@@ -107,6 +109,4 @@ Secretary concerned defined.—In this subsection, the term 'Secretary concerned
 #### Confidential Review of Characterization of Terms of Discharge of Members of the Armed Forces Who Are Victims of Sexual Offenses
 
 Pub. L. 113–291, div. A, title V, §547, Dec. 19, 2014, 128 Stat. 3375, which related to review process for correction of military records, consideration of individual experiences in connection with offenses, and preservation of confidentiality, was repealed by Pub. L. 115–91, div. A, title V, §522(a)(3), Dec. 12, 2017, 131 Stat. 1380. See section 1554b of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

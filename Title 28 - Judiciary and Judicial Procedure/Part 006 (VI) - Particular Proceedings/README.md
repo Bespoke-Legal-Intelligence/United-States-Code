@@ -40,6 +40,8 @@
 
 Chapters 169, 171 and 173 were renumbered "167", "169" and "171", respectively, without change in their section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–287, §4(b)(2), Dec. 19, 2014, 128 Stat. 3261, added item for chapter 190.

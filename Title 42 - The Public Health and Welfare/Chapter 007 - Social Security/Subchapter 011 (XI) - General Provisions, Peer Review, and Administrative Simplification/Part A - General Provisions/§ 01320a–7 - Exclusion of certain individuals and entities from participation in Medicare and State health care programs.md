@@ -18,7 +18,7 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution,prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -114,7 +114,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
 
-&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined bythe Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
+&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
 &emsp;&emsp;(B) full and complete information as to any significant business transactions (as defined by the Secretary in regulations), occurring during the five-year period ending on the date of such request, between the entity and any wholly owned supplier or between the entity and any subcontractor.
 
@@ -202,7 +202,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (d) Notice to State agencies and exclusion under State health care programs
 
-(1) Subject to paragraph (3), the Secretary shall exercise the authority under this section and section 1320a–7a of this title in a manner that results in an individual's or entity's exclusion from all the programs under subchapter XVIII and all the State health care programs in which the individual or entity may otherwise participate.
+(1) Subject to paragraph (3), the Secretary shall exercise the authority under this sectionand section 1320a–7a of this title in a manner that results in an individual's or entity's exclusion from all the programs under subchapter XVIII and all the State health care programs in which the individual or entity may otherwise participate.
 
 (2) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) and to which section 824(a)(5) of title 21 may apply, the Attorney General)—
 
@@ -292,7 +292,7 @@ For purposes of subsection (b)(8)(A)(iii):
 
 &emsp;(2) The term "member of the household" means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804; Pub. L. 116–16, §6(d), Apr. 18, 2019, 133 Stat. 864.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426; Pub. L. 111–148, title VI, §§6402(d)(1), (e), (k), 6406(c), 6408(c), 6703(d)(3)(A), Mar. 23, 2010, 124 Stat. 757, 759, 763, 769, 772, 804; Pub. L. 116–16, §6(d), Apr. 18, 2019, 133 Stat. 864.)
 
 #### References in Text
 

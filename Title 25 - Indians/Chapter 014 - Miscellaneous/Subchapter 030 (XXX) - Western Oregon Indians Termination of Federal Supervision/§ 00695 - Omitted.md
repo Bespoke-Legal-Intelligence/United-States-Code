@@ -1,5 +1,7 @@
 ### §695. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1954, ch. 733, §5, 68 Stat. 725, which related to transfer of tribal property by the Secretary of the Interior to a corporation or other legal entity organized by the tribe, was omitted from the Code as being of special and not general application.

@@ -50,9 +50,13 @@
 
 (Pub. L. 93–320, title II, §203, June 24, 1974, 88 Stat. 271; Pub. L. 98–569, §3, Oct. 30, 1984, 98 Stat. 2937.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b)(3) to (5). Pub. L. 98–569 added pars. (3) to (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

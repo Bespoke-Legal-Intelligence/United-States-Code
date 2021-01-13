@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §34, part (R.S. 4889, amended Mar. 3, 1915
 
 The requirement for signature in the corresponding section of existing statute is omitted; regulations of the Patent Office can take care of any substitute. A redundant clause is omitted.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -17,6 +19,8 @@ The requirement for signature in the corresponding section of existing statute i
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1975</b>—Pub. L. 94–131 substituted provisions respecting drawings requiring necessary-for-understanding drawings and submission of drawings within prescribed time period and limiting use of drawings submitted after filing date of application for prior provision requiring the applicant to furnish a drawing when the nature of the case admitted it.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

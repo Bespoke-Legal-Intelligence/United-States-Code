@@ -70,7 +70,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
 
-&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppressevidence that the alien alleges was unlawfully obtained; and
+&emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppress evidence that the alien alleges was unlawfully obtained; and
 
 &emsp;&emsp;(C) section 3504 of title 18 and section 1806(c) of title 50 shall not apply if the Attorney General determines that public disclosure would pose a risk to the national security of the United States because it would disclose classified information or otherwise threaten the integrity of a pending investigation.
 
@@ -142,7 +142,7 @@ Following the receipt of evidence, the Government and the alien shall be given f
 
 #### (g) Burden of proof
 
-In the hearing, it is the Government's burden to prove, by the preponderance of the evidence,that the alien is subject to removal because the alien is an alien terrorist.
+In the hearing, it is the Government's burden to prove, by the preponderance of the evidence, that the alien is subject to removal because the alien is an alien terrorist.
 
 #### (h) Rules of evidence
 
@@ -178,13 +178,15 @@ Not later than 3 months from December 28, 2001, the Attorney General shall submi
 
 (June 27, 1952, ch. 477, title V, §504, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1260; amended Pub. L. 104–208, div. C, title III, §§308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, 110 Stat. 3009–623, 3009–624, 3009–641 to 3009–644; Pub. L. 107–108, title III, §313, Dec. 28, 2001, 115 Stat. 1401.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the original a reference to "section 244(e)", meaning section 244(e) of act June 27, 1952, which was classified to section 1254(e) of this title. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615, repealed section 244 and renumbered section 244A as section 244, which is classified to section 1254a of this title. For provisions relating to voluntary departure, see section 1229c of this title.
+Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the original a reference to "section 244(e)", meaning section 244(e) of act June 27, 1952, which was classified to section 1254(e) of this title. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110Stat. 3009–615, repealed section 244 and renumbered section 244A as section 244, which is classified to section 1254a of this title. For provisions relating to voluntary departure, see section 1229c of this title.
 
 The USA PATRIOT Act of 2001, referred to in subsec. (l), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or the USA PATRIOT Act. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
@@ -213,6 +215,8 @@ Subsec. (k)(2). Pub. L. 104–208, §308(g)(7)(B), substituted "by withholding o
 Subsec. (k)(3). Pub. L. 104–208, §308(g)(8)(B), substituted "cancellation of removal under section 1229b of this title" for "suspension of deportation under subsection (a) or (e) of section 1254 of this title".
 
 Subsec. (k)(4) to (6). Pub. L. 104–208, §357, added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

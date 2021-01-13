@@ -48,7 +48,7 @@ Each parent training and information center that receives assistance under this 
 
 &emsp;&emsp;(B) communicate effectively and work collaboratively with personnel responsible for providing special education, early intervention services, transition services, and related services;
 
-&emsp;&emsp;(C) participate in decisionmaking processes and the development of individualizededucation programs under subchapter II and individualized family service plans under subchapter III;
+&emsp;&emsp;(C) participate in decisionmaking processes and the development of individualized education programs under subchapter II and individualized family service plans under subchapter III;
 
 &emsp;&emsp;(D) obtain appropriate information about the range, type, and quality of—
 
@@ -126,5 +126,5 @@ Each application for assistance under this section shall identify with specifici
 
 A prior section 1471, Pub. L. 91–230, title VI, §671, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 135, related to congressional findings and purposes for subpart 1 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1471, Pub. L. 91–230, title VI, §671, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100–630, title I, §108(a),Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(158)–(161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §§11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607, related to congressional findings and policy with regard to early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Another prior section 1471, Pub. L. 91–230, title VI, §671, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145; amended Pub. L. 100–630, title I, §108(a), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(158)–(161), Oct. 30, 1990, 104 Stat. 1149; Pub. L. 102–119, §§11, 25(a)(16), (b), Oct. 7, 1991, 105 Stat. 595, 606, 607, related to congressional findings and policy with regard to early intervention services for infants and toddlers with disabilities and their families, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

@@ -14,7 +14,7 @@
 
 &emsp;(A) which generates solid waste, and
 
-&emsp;(B) which, if conducted by a person other than such agency, would require a permit orlicense from such agency in order to dispose of such solid waste,
+&emsp;(B) which, if conducted by a person other than such agency, would require a permit or license from such agency in order to dispose of such solid waste,
 
 > shall insure compliance with such guidelines and the purposes of this chapter in conducting such activity.
 

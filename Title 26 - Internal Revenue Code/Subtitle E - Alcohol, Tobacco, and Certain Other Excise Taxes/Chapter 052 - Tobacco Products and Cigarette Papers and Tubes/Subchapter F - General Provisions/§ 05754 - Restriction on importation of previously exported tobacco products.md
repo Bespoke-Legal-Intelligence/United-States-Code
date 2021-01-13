@@ -22,7 +22,7 @@
 
 #### (b) Export label
 
-For purposes of this section, an article is labeled for export or contains an export label if it bears the mark, label, or notice required under section 5704(b).
+For purposes of this section, an article is labeled for export or contains an export label if itbears the mark, label, or notice required under section 5704(b).
 
 #### (c) Cross references
 

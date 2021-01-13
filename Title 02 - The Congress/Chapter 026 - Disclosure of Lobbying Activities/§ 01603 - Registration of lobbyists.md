@@ -62,7 +62,7 @@ Each registration under this section shall contain—
 
 &emsp;(6) the name of each employee of the registrant who has acted or whom the registrant expects to act as a lobbyist on behalf of the client and, if any such employee has served as a covered executive branch official or a covered legislative branch official in the 20 years before the date on which the employee first acted as a lobbyist on behalf of the client, the position in which such employee served; and
 
-&emsp;(7) for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, an illegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
+&emsp;(7) for any listed lobbyist who was convicted in a Federal or State court of an offense involving bribery, extortion, embezzlement, anillegal kickback, tax evasion, fraud, a conflict of interest, making a false statement, perjury, or money laundering, the date of the conviction and a description of the offense.
 
 > No disclosure is required under paragraph (3)(B) if the organization that would be identified as affiliated with the client is listed on the client's publicly accessible Internet website as being a member of or contributor to the client, unless the organization in whole or in major part plans, supervises, or controls such lobbying activities. If a registrant relies upon the preceding sentence, the registrant must disclose the specific Internet address of the web page containing the information relied upon. Nothing in paragraph (3)(B) shall be construed to require the disclosure of any information about individuals who are members of, or donors to, an entity treated as a client by this chapter or an organization identified under that paragraph.
 
@@ -87,6 +87,8 @@ A registrant who after registration—
 > may so notify the Secretary of the Senate and the Clerk of the House of Representatives and terminate its registration.
 
 (Pub. L. 104–65, §4, Dec. 19, 1995, 109 Stat. 696; Pub. L. 110–81, title II, §§201(b)(2), (5), 207(a)(1), (b), 208, Sept. 14, 2007, 121 Stat. 742, 747, 748; Pub. L. 115–418, §2(a), Jan. 3, 2019, 132 Stat. 5440.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Subsec. (b)(3)(B). Pub. L. 110–81, §207(a)(1)(B), amended subpar. (B) general
 Subsec. (b)(4). Pub. L. 110–81, §201(b)(5)(D), substituted "$5,000" for "$10,000" in introductory provisions.
 
 Subsec. (b)(6). Pub. L. 110–81, §208, substituted "in the 20 years before the date on which the employee first acted" for "in the 2 years before the date on which such employee first acted (after December 19, 1995)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

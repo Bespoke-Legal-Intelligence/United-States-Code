@@ -10,7 +10,7 @@ The Secretary of Commerce may, as appropriate, provide notice and reasonable opp
 
 #### (c) Report
 
-The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988, submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
+The Secretary of Commerce shall, by no later than the date that is 1 year after August 23, 1988,submit to the Congress and the President a report on the findings and recommendations reached by the Secretary of Commerce as a result of the study conducted under subsection (a). Such report shall be referred to the appropriate committees of the House of Representatives and of the Senate.
 
 (Pub. L. 100–418, title I, §1381, Aug. 23, 1988, 102 Stat. 1224.)
 

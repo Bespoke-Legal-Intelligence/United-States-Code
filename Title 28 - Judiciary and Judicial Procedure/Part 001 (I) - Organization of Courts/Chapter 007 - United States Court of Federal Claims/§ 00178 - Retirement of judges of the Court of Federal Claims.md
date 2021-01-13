@@ -57,7 +57,7 @@
 
 (h) An annuity under this section shall be payable at the times and in the same manner as the salary of a Court of Federal Claims judge in regular active service. Such annuity shall begin to accrue on the day following the day on which the annuitant's salary as a judge in regular active service ceases to accrue.
 
-(i)(1) Payments under this section which would otherwise be made to a judge of the Court of Federal Claims based upon his or her service shall be paid (in whole or in part) by the Director of the Administrative Office of the United States Courts to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.
+(i)(1) Payments under this section which would otherwise be made to a judge of the Court of Federal Claims based upon his or her service shall be paid (in whole or in part) by the Director of the Administrative Office of the UnitedStates Courts to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation. Any payment under this paragraph to a person bars recovery by any other person.
 
 (2) Paragraph (1) shall apply only to payments made by the Director of the Administrative Office of the United States Courts after the date of receipt by the Director of written notice of such decree, order, or agreement, and such additional information as the Director may prescribe.
 
@@ -113,11 +113,13 @@
 
 (3)(A) There are authorized to be appropriated to the Court of Federal Claims Judges Retirement Fund amounts required to reduce to zero the unfunded liability of the Fund.
 
-(B) For purposes of subparagraph (A), the term "unfunded liability" means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31, of the present value of all benefits payablefrom the Court of Federal Claims Judges Retirement Fund, over the balance in the Fund as of the date the unfunded liability is determined. In making any determination under this subparagraph, the Comptroller General shall use the applicable information contained in the reports filed pursuant to section 9503 of title 31, with respect to the retirement annuities provided for in this section.
+(B) For purposes of subparagraph (A), the term "unfunded liability" means the estimated excess, determined on an annual basis in accordance with the provisions of section 9503 of title 31, of the present value of all benefits payable from the Court of Federal Claims Judges Retirement Fund, over the balance in the Fund as of the date the unfunded liability is determined. In making any determination under this subparagraph, the Comptroller General shall use the applicable information contained in the reports filed pursuant to section 9503 of title 31, with respect to the retirement annuities provided for in this section.
 
 (C) There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 
 (Added Pub. L. 101–650, title III, §306(a)(1), Dec. 1, 1990, 104 Stat. 5105; amended Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(a), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,6 +138,8 @@ Subsec. (j)(1). Pub. L. 102–198, §7(a)(2)(A), substituted "paragraph (4)" for
 Subsec. (j)(2). Pub. L. 102–198, §7(a)(2)(B), substituted "Subject to paragraph (4), if" for "If".
 
 Subsec. (j)(3). Pub. L. 102–198, §7(a)(2)(C), inserted "for" after "(other than".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

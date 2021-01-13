@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–2, §3(b), Feb. 18, 2005, 119 Stat. 9, added item for chapter 114.

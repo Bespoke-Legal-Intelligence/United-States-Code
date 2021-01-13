@@ -4,7 +4,7 @@ In furtherance of the findings and policy stated in section 101912 of this title
 
 &emsp;(1)
 
-Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitive process shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
+Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitiveprocess shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
 
 &emsp;(2)
 
@@ -92,7 +92,7 @@ Secondary factors.—The Secretary may also consider such secondary factors as t
 
 &emsp;&emsp;(C)
 
-Development of regulations.—In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession contract should be identified as a factor in the selection of a best proposal under this section.
+Development of regulations.—In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indiantribes, or Native Alaskans in the operation of a concession contract should be identified as a factor in the selection of a best proposal under this section.
 
 &emsp;(6)
 
@@ -209,6 +209,8 @@ In paragraph (2)(B)(i), the words "by electronic means" are substituted for "the
 In paragraph (5)(C), the words "concession contract" are substituted for "concession, contracts" to correct an error in the source provision.
 
 In paragraph (8)(B)(ii)(III), the word "concession" is added for consistency in this subchapter.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

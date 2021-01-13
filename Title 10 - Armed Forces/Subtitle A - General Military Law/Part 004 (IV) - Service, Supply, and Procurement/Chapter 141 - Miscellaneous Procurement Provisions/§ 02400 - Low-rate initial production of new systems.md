@@ -14,7 +14,7 @@ Determination of Quantities To Be Procured for Low-Rate Initial Production.—(1
 
 (4) The quantity of articles of a major system that may be procured for low-rate initial production may not be less than one operationally configured production unit unless another quantity is established at the milestone B decision.
 
-(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone B decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph, the term "SAR" means a Selected Acquisition Report submitted under section 2432 of this title.
+(5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone B decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph,the term "SAR" means a Selected Acquisition Report submitted under section 2432 of this title.
 
 (b)
 
@@ -31,6 +31,10 @@ Low-Rate Initial Production of Weapon Systems.—Except as provided in subsectio
 Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
 (Added Pub. L. 101–189, div. A, title VIII, §803(a), Nov. 29, 1989, 103 Stat. 1487; amended Pub. L. 103–355, title III, §3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, §1062(d), div. D, title XLIII, §4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673; Pub. L. 107–107, div. A, title VIII, §821(c), Dec. 28, 2001, 115 Stat. 1182.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(c)(1)(A), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter II, and redesignated as section 4231 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -59,6 +63,10 @@ Subsec. (c). Pub. L. 104–106, §1062(d), struck out "(1)" before "With respect
 Subsec. (a)(4). Pub. L. 103–355, §3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (a)(5). Pub. L. 103–355, §3015(2), redesignated par. (4) as (5) and inserted after first sentence "If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1996 Amendment
 

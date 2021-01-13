@@ -114,6 +114,8 @@ The Federal Board shall do the following:
 
 (Pub. L. 110–298, title I, §103, July 31, 2008, 122 Stat. 2987.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 15243 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

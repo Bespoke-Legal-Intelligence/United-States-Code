@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, subject to the availability of funds and in consultation with the Administrator, shall use amounts in the Fund to providefinancial assistance for projects for the conservation of Asian elephants for which final project proposals are approved by the Secretary in accordance with this section.
+The Secretary, subject to the availability of funds and in consultation with the Administrator, shall use amounts in the Fund to provide financial assistance for projects for the conservation of Asian elephants for which final project proposals are approved by the Secretary in accordance with this section.
 
 #### (b) Project proposal
 
@@ -16,7 +16,7 @@ Any relevant wildlife management authority of a nation within the range of Asian
 
 &emsp;(4) An estimate of the funds and time required to complete the project.
 
-&emsp;(5) Evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
+&emsp;(5) Evidence of support of the project by appropriate governmental entities of countriesin which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
 
 &emsp;(6) Information regarding the source and amount of matching funding available to the applicant.
 

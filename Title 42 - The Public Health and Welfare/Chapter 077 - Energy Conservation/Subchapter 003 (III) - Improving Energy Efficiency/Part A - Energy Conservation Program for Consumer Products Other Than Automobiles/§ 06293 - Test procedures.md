@@ -30,7 +30,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (5) With respect to fluorescent lamp ballasts manufactured on or after January 1, 1990, and to which standards are applicable under section 6295 of this title, the Secretary shall prescribe test procedures that are in accord with ANSI standard C82.2–1984 or other test procedures determined appropriate by the Secretary.
 
-(6) With respect to fluorescent lamps and incandescent reflector lamps to which standardsare applicable under subsection (i) of section 6295 of this title, the Secretary shall prescribe test procedures, to be carried out by accredited test laboratories, that take into consideration the applicable IES or ANSI standard.
+(6) With respect to fluorescent lamps and incandescent reflector lamps to which standards are applicable under subsection (i) of section 6295 of this title, the Secretary shall prescribe test procedures, to be carried out by accredited test laboratories, that take into consideration the applicable IES or ANSI standard.
 
 (7)(A) Test procedures for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title shall be the test procedures specified in ASME A112.18.1M–1989 for such products.
 
@@ -58,7 +58,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) <sup>1</sup> of this title.
 
-(C) Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
+(C) Notwithstanding subparagraph (B), if manufacturers document engineering predictionsand analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
 
 (13) Test procedures for dehumidifiers shall be based on the test criteria used under the Energy Star Program Requirements for Dehumidifiers developed by the Environmental Protection Agency, as in effect on August 8, 2005, unless revised by the Secretary pursuant to this section.
 
@@ -88,7 +88,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 &emsp;(B) in any broadcast advertisement,
 
-> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable undersubsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
+> with respect to the energy use or efficiency or, in the case of showerheads, faucets, water closets, and urinals, water use of a covered product to which a test procedure is applicable under subsection (a) or the cost of energy consumed by such product, unless such product has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
 (2) Effective 180 days after an amended or new test procedure applicable to a covered product is prescribed or established under subsection (b), no manufacturer, distributor, retailer, or private labeler may make any representation—
 
@@ -112,7 +112,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 
-(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such date and have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
+(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such dateand have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
 
 (4) The Secretary's authority to amend energy conservation standards under this subsection shall not affect the Secretary's obligation to issue final rules as described in section 6295 of this title.
 

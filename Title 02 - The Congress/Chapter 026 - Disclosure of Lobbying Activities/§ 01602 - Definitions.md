@@ -136,7 +136,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(xix) between—
 
-&emsp;&emsp;&emsp;&emsp;(I) officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act \[15 U.S.C. 78c(a)(26)\]) that is registered with or established by the Securities and Exchange Commission as required by that Act \[15 U.S.C. 78a et seq.\] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(I) officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act \[15 U.S.C. 78c(a)(26)\]) that is registered with or established by the Securities and Exchange Commission as required by that Act \[15 U.S.C. 78a et seq.\] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided underthe Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Securities and Exchange Commission or the Commodities Future Trading Commission, respectively;
 
@@ -198,6 +198,8 @@ As used in this chapter:
 
 (Pub. L. 104–65, §3, Dec. 19, 1995, 109 Stat. 691; Pub. L. 105–166, §§2, 3, Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(1), Sept. 14, 2007, 121 Stat. 742.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -227,6 +229,8 @@ The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 19
 Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end ", including any communication compelled by a Federal contract, grant, loan, permit, or license".
 
 Par. (15)(F). Pub. L. 105–166, §3(b), inserted before period at end ", or a group of governments acting together as an international organization".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

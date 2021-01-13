@@ -10,6 +10,8 @@ Applicable Provisions.—Subsections (b) through (e) of section 1804 of this tit
 
 (Added Pub. L. 106–419, title IV, §401(a), Nov. 1, 2000, 114 Stat. 1858.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1814 was renumbered section 3714 of this title.

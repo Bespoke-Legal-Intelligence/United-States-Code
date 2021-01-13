@@ -10,7 +10,7 @@
 
 &emsp;The core functions referred to in paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include thepreparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
+&emsp;&emsp;(A) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include the preparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of this subchapter.
 
 &emsp;&emsp;(B) Provision of community services—
 
@@ -30,7 +30,7 @@
 
 #### (2) Establishment of consultation process by the Secretary
 
-&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows the Secretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to the unmet needs of individuals with developmental disabilities and their families.
+&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows theSecretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to the unmet needs of individuals with developmental disabilities and their families.
 
 #### (c) Technical assistance
 

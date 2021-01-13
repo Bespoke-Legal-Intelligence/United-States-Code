@@ -32,6 +32,8 @@ Penalty.—(1) An employee who does not complete a period of obligated service u
 
 (Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1465; amended Pub. L. 116–61, §6(8), Sept. 30, 2019, 133 Stat. 1117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–61 struck out second closing parenthesis before period at end.

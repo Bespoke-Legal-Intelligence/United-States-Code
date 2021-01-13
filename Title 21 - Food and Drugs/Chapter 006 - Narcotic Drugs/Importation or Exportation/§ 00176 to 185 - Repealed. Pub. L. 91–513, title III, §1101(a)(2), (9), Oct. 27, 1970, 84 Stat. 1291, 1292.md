@@ -1,6 +1,6 @@
 ### §§176 to 185. Repealed. Pub. L. 91–513, title III, §1101(a)(2), (9), Oct. 27, 1970, 84 Stat. 1291, 1292
 
-Section 176, acts Feb. 9, 1909, ch. 100, §2(g), 35 Stat. 614; Jan. 17, 1914, ch. 9, 38 Stat. 275; May 26, 1922, ch. 202 §1, 42 Stat. 596; June 7, 1924, ch. 352, 43 Stat. 657, covered liability of masters of vessels and persons in charge of railroad cars and other vehicles used to carry narcotic drugs.
+Section 176, acts Feb. 9, 1909, ch. 100, §2(g), 35 Stat. 614; Jan. 17, 1914, ch. 9, 38 Stat. 275; May 26, 1922, ch. 202§1, 42 Stat. 596; June 7, 1924, ch. 352, 43 Stat. 657, covered liability of masters of vessels and persons in charge of railroad cars and other vehicles used to carry narcotic drugs.
 
 Section 176a, act Feb. 9, 1909, ch. 100, §2(h), as added July 18, 1956, ch. 629, title I, §106, 70 Stat. 570, covered illegal importation of marihuana and set penalties for such illegal importation. See section 801 et seq. of this title.
 
@@ -25,6 +25,8 @@ Section 184, act Feb. 9, 1909, ch. 100, §8, as added Jan. 17, 1914, ch. 9, 38 S
 Section 184a, acts July 11, 1941, ch. 289, §1, 55 Stat. 584; July 18, 1956, ch. 629, title I, §108, 70 Stat. 571, made illegal bringing on board a vessel of United States any narcotic drugs not constituting a part of the cargo.
 
 Section 185, act Feb. 9, 1909, ch. 100, §9, as added May 26, 1922, ch. 202, §4, 42 Stat. 598, authorized the citation of act Feb. 9, 1909, ch. 100, as the "Narcotic Drugs Import and Export Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

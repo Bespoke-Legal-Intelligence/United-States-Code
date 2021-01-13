@@ -52,7 +52,7 @@ In carrying out the program established under subsection (a), the Secretary—
 
 In carrying out the program established under subsection (a), the Secretary shall have the following administrative authorities:
 
-&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of theForeign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
+&emsp;(1) The Secretary may provide allowances and benefits under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
 
 &emsp;(2)(A) The Secretary may allocate or transfer to any agency of the United States Government any part of any funds available for carrying out this section, including any advance to the United States Government by any country or international organization for the procurement of commodities, supplies, or services.
 
@@ -80,7 +80,7 @@ In carrying out the program established under subsection (a), the Secretary shal
 
 &emsp;&emsp;(F) notwithstanding any other provision of law, transportation and payment of per diem in lieu of subsistence to foreign participants engaged in activities of the program under this section while such participants are away from their homes in countries other than the United States, at rates not in excess of those prescribed by the standardized Government travel regulations;
 
-&emsp;&emsp;(G) expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stop-overs while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage; and
+&emsp;&emsp;(G) expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stop-overs while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any partof such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage; and
 
 &emsp;&emsp;(H) grants to, and cooperative agreements and contracts with, any individual, corporation, or other body of persons, nonprofit organization, friendly government or government agency, whether within or without the United States, and international organizations, as the Secretary determines is appropriate to carry out the purposes of this section.
 
@@ -158,6 +158,8 @@ In this section:
 
 (Pub. L. 87–195, pt. I, §129, as added Pub. L. 105–277, div. A, §101(d) \[title V, §589(a)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–205; amended Pub. L. 106–309, title II, §204, Oct. 17, 2000, 114 Stat. 1092.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
@@ -171,6 +173,8 @@ Another section 129 of Pub. L. 87–195 was renumbered section 130 and is classi
 #### Amendments
 
 <b>2000</b>—Subsec. (b)(3). Pub. L. 106–309 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

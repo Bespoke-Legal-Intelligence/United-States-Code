@@ -42,7 +42,7 @@ Not later than October 1, 1995, the property, liabilities, contracts, records, a
 
 #### (5) Reorganization authority
 
-&emsp;Nothing contained in this section shall prohibit the Board from reorganizing functions at the John F. Kennedy Center for the Performing Arts in accordance with laws governing reorganizations.
+&emsp;Nothing contained in this section shall prohibit the Board from reorganizing functions atthe John F. Kennedy Center for the Performing Arts in accordance with laws governing reorganizations.
 
 #### (e) Review of Board actions
 
@@ -52,7 +52,7 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 #### (1) "Theatrical employee" defined
 
-&emsp;As used in this subsection, the term "theatrical employee" means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including anychange in the trade as a result of a technological advance.
+&emsp;As used in this subsection, the term "theatrical employee" means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including any change in the trade as a result of a technological advance.
 
 #### (2) Collective bargaining
 

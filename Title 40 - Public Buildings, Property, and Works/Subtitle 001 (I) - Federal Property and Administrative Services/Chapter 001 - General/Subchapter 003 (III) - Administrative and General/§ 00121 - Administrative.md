@@ -80,7 +80,7 @@ Transfer of resources.—
 
 &emsp;&emsp;(A)
 
-Within administration.—If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported to the Director of the Office of Management and Budget.
+Within administration.—If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported tothe Director of the Office of Management and Budget.
 
 &emsp;&emsp;(B)
 
@@ -88,7 +88,7 @@ Between agencies.—If the Administrator transfers a function from one executive
 
 (f)
 
-Advisory Committees.—The Administrator may establish advisory committees to provideadvice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
+Advisory Committees.—The Administrator may establish advisory committees to provide advice on any function of the Administrator under this subtitle. Members of the advisory committees shall serve without compensation but are entitled to transportation and not more than $25 a day instead of expenses under section 5703 of title 5.
 
 (g)
 
@@ -176,25 +176,29 @@ In subsection (e)(2), subparagraph (A) is substituted for 40:754 (last sentence)
 
 In subsection (f), the words "expenses under" are substituted for "subsistence, as authorized by" for consistency in the revised title. The words "section 5703 of title 5" are substituted for "section 5 of the Act of August 2, 1946 (5 U.S.C. 73b–2)" in section 205(g) of the Federal Property and Administrative Services Act of 1949 because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12072. Federal Space Management
 
-Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, provided:
+Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, §1, Aug. 24, 2020, 85 F.R. 52879, provided:
 
 By the authority vested in me as President of the United States of America by Section 205(a) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 486(a)) \[now 40 U.S.C. 121(a)\], and in order to prescribe appropriate policies and directives, not inconsistent with that Act \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\] and other applicable provisions of law, for the planning, acquisition, utilization, and management of Federal space facilities, it is hereby ordered as follows:
 
 #### 1–1.
 
-Space Acquisition
+Space Acquisition and Management. \[sic\]
 
 1–101. Federal facilities and Federal use of space in urban areas shall serve to strengthen the Nation's cities and to make them attractive places to live and work. Such Federal space shall conserve existing urban resources and encourage the development and redevelopment of cities.
 
 1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact a site selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
 
-1–103. Except where such selection is otherwise prohibited, the process for meeting Federal space needs in urban areas shall give first consideration to a centralized community business area and adjacent areas of similar character, including other specific areas which may be recommended by local officials.
+1–103. In the process for meeting Federal space needs, except where such selection is otherwise prohibited, and where cost and security considerations take precedence, preference is to be given to qualified opportunity zones (as defined in 26 U.S.C. 1400Z–1), other distressed areas, and centralized community business areas (including other specific areas which may be recommended by local officials).
 
 1–104. The process of meeting Federal space needs in urban areas shall be consistent with the policies of this Order and shall include consideration of the following criteria:
 
@@ -226,9 +230,9 @@ Space Acquisition
 
 Administrator of General Services
 
-1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition and utilization of Federally owned and leased space. In particular, the Administrator shall:
+1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition, utilization, and disposal of Federally owned and leased space. In particular, the Administrator shall:
 
-(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs of the Federal government and improve the management and administration of government activities.
+(a) Select, acquire, manage, and dispose of Federal space in a manner that will foster the policies and programs of the Federal Government and improve the management and administration of government activities.
 
 (b) Issue regulations, standards, and criteria for the selection, acquisition, and management of Federally owned and leased space.
 
@@ -236,11 +240,9 @@ Administrator of General Services
 
 (d) Ensure, in cooperation with the heads of Executive agencies, that their essential space requirements are met in a manner that is economically feasible and prudent.
 
-(e) Make maximum use of existing Federally controlled facilities which, in his judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
+(e) Make maximum use of existing Federally controlled facilities which, in the Administrator's judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
 
-(f) Annually submit long–range plans and programs for the acquisition, modernization, and use of space for approval by the President.
-
-1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out his functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
+1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out the Administrator's functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
 
 1–203. In the process of meeting Federal space needs in urban areas and implementing the policies of this Order, the Administrator shall:
 
@@ -265,8 +267,6 @@ General Provisions
 1–302. Executive agencies which acquire or utilize Federally owned or leased space under authority other than the Federal Property and Administrative Services Act of 1949, as amended \[now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41\], shall conform to the provisions of this Order to the extent they have the authority to do so.
 
 1–303. Executive Order No. 11512 of February 27, 1970, is revoked.
-
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12512
 
@@ -432,7 +432,7 @@ Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Off
 
 (v) identify and pursue goals, with appropriate deadlines, consistent with and supportive of the agency's asset management plan and measure progress against such goals;
 
-(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[54 U.S.C. 306101 note\], and for environmental management under other Executive Orders; and
+(vi) incorporate planning and management requirements for historic property under Executive Order 13287of March 3, 2003 \[54 U.S.C. 306101 note\], and for environmental management under other Executive Orders; and
 
 (vii) identify any other information and pursue any other actions necessary to the appropriate development and implementation of the agency asset management plan.
 

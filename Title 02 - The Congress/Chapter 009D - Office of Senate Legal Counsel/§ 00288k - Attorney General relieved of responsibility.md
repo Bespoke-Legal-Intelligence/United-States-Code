@@ -12,15 +12,19 @@
 
 (Pub. L. 95–521, title VII, §712, Oct. 26, 1978, 92 Stat. 1883; Pub. L. 107–273, div. A, title II, §202(b)(2), Nov. 2, 2002, 116 Stat. 1774; Pub. L. 108–7, div. H, title I, §110(b), Feb. 20, 2003, 117 Stat. 355.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–7 made technical amendment to reference in original act which appears in text as reference to section 530D of title 28.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–273 added subsec. (b) and struck out former subsec. (b) which read as follows: "The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to section 288e of this title."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department ofJustice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under section 5571 of this title.
+Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under section 5571 of this title.
 
 #### Effective Date
 

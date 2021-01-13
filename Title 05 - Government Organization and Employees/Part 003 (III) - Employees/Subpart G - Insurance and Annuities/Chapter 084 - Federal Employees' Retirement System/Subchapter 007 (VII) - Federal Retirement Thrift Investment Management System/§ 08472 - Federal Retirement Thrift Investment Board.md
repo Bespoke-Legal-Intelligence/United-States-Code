@@ -62,6 +62,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 578; amended Pub. L. 99–509, title VI, §6001(e), Oct. 21, 1986, 100 Stat. 1931; Pub. L. 113–255, §2(c), Dec. 18, 2014, 128 Stat. 2920.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 311 of the Federal Employees' Retirement System Act of 1986 \[Pub. L. 99–335\], referred to in subsecs. (c) and (e)(1), is set out as a note below.
@@ -71,6 +73,8 @@ Section 311 of the Federal Employees' Retirement System Act of 1986 \[Pub. L. 99
 <b>2014</b>—Subsec. (g)(2). Pub. L. 113–255 substituted "under section 8438(c)(2)(B)" for "required by section 8438 of this title to be invested in securities of the Government".
 
 <b>1986</b>—Subsecs. (i), (j). Pub. L. 99–509 added subsecs. (i) and (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

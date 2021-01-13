@@ -16,6 +16,8 @@
 
 (Added Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–15, referred to in subsec. (b), is contained in the General Schedule which is set out under section 5332 of this title.
@@ -23,6 +25,8 @@ GS–15, referred to in subsec. (b), is contained in the General Schedule which 
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

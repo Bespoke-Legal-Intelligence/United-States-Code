@@ -26,7 +26,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VII, §701(c)(2), June 21, 1965, 79 Stat. 157, provided in part that: "The amendments made by section 402 \[repealing sections 4451 to 4457 of this title\] (relating to playing cards) and by subsection (c) of section 405 \[amending this section\] shall apply on and after the day after the date of the enactment of this Act \[June 21, 1965\]."
+Pub. L. 89–44, title VII, §701(c)(2), June 21, 1965, 79 Stat. 157, provided in part that: "The amendmentsmade by section 402 \[repealing sections 4451 to 4457 of this title\] (relating to playing cards) and by subsection (c) of section 405 \[amending this section\] shall apply on and after the day after the date of the enactment of this Act \[June 21, 1965\]."
 
 #### Savings Provision
 

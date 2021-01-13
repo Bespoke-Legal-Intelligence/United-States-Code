@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 8906 prescribes the penalties for violations of this chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–324 substituted "not more than $25,000" for "$1,000".

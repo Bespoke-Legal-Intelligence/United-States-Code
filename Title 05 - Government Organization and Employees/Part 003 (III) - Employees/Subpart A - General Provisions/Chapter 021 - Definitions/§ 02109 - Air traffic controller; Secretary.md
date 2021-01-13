@@ -16,11 +16,15 @@ For the purpose of this title—
 
 (Added Pub. L. 92–297, §1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, §1(a), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 99–335, title II, §207(b), June 6, 1986, 100 Stat. 594.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Par. (1). Pub. L. 99–335 amended par. (1) generally including within term "air traffic controller" or "controller" references to a flight service station facility and to employment providing preflight, inflight, or airport advisory service to aircraft operators and striking out provision that regulations prescribed by the Secretary be used in determining who is an air traffic controller.
 
-<b>1980</b>—Pub. L. 96–347 substituted "controller; Secretary" for "controller" in section catchline, and in text included employees of the Department of Defense within the meaning of air traffic controller or controller and defined "Secretary" to mean Secretary of Transportation with respect to controllers in the Department of Transportation and Secretary of Defense with respect to controllers in the Department of Defense.
+<b>1980</b>—Pub. L. 96–347 substituted "controller; Secretary" for "controller" in section catchline, and in text included employees of the Department of Defense within the meaning of air traffic controller or controller and defined "Secretary" to mean Secretary of Transportation with respect to controllers in the Department of Transportation and Secretary of Defensewith respect to controllers in the Department of Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

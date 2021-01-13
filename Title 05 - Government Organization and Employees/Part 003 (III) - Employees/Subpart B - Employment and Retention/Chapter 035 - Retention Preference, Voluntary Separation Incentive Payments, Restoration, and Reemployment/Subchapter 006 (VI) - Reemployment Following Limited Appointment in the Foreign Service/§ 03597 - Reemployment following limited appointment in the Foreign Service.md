@@ -4,9 +4,13 @@ An employee of any agency who accepts, with the consent of the head of that agen
 
 (Added Pub. L. 96–465, title II, §2301(a), Oct. 17, 1980, 94 Stat. 2164.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 309 of the Foreign Service Act of 1980, referred to in text, is classified to section 3949 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

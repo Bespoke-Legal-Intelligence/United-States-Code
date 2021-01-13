@@ -76,7 +76,7 @@ In this section, the term "eligible insured" means an individual—
 
 #### (5) Special rule for pediatric dental plans
 
-&emsp;If an individual enrolls in both a qualified health plan and a plan described in section 18031(d)(2)(B)(ii)(I) <sup>2</sup> of this title for any plan year, subsection (a) shall not apply to that portion of any reduction in cost-sharing under subsection (c) that (under regulations prescribed by the Secretary) is properly allocableto pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 18022(b)(1)(J) of this title.
+&emsp;If an individual enrolls in both a qualified health plan and a plan described in section 18031(d)(2)(B)(ii)(I) <sup>2</sup> of this title for any plan year, subsection (a) shall not apply to that portion of any reduction in cost-sharing under subsection (c) that (under regulations prescribed by the Secretary) is properly allocable to pediatric dental benefits which are included in the essential health benefits required to be provided by a qualified health plan under section 18022(b)(1)(J) of this title.
 
 #### (d) Special rules for Indians
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (2) Limitations on reduction
 
-&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage for any month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
+&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage forany month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
 
 #### (3) Data used for eligibility
 

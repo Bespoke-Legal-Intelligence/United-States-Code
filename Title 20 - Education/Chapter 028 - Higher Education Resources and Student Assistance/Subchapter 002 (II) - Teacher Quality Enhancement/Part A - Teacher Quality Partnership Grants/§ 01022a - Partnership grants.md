@@ -44,7 +44,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(ii) challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)(1)\], established by the State in which the partnership is located;
 
-&emsp;&emsp;(F) how the partnership will prepare general education teachers to teach students with disabilities, including training relatedto participation as a member of individualized education program teams, as defined in section 614(d)(1)(B) of the Individuals with Disabilities Education Act \[20 U.S.C. 1414(d)(1)(B)\];
+&emsp;&emsp;(F) how the partnership will prepare general education teachers to teach students with disabilities, including training related to participation as a member of individualized education program teams, as defined in section 614(d)(1)(B) of the Individuals with Disabilities Education Act \[20 U.S.C. 1414(d)(1)(B)\];
 
 &emsp;&emsp;(G) how the partnership will prepare general education and special education teachers to teach students who are limited English proficient;
 
@@ -74,7 +74,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 An eligible partnership that receives a grant under this section—
 
-&emsp;(1) shall use grant funds to carry out a program for the preparation of teachers under subsection (d), a teaching residency program under subsection (e), or a combination of such programs; and
+&emsp;(1) shall use grant funds to carry out a program for the preparation of teachers undersubsection (d), a teaching residency program under subsection (e), or a combination of such programs; and
 
 &emsp;(2) may use grant funds to carry out a leadership development program under subsection (f).
 
@@ -128,7 +128,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;(v) developing admissions goals and priorities aligned with the hiring objectives of the high-need local educational agency in the eligible partnership; and
 
-&emsp;&emsp;&emsp;(vi) implementing program and curriculum changes, as applicable, to ensure that prospective teachers have the requisite content knowledge, preparation, and degree to teach Advanced Placement or International Baccalaureate courses successfully.
+&emsp;&emsp;&emsp;(vi) implementing program and curriculum changes, as applicable, to ensure that prospective teachers have the requisite content knowledge, preparation, and degree to teach Advanced Placement orInternational Baccalaureate courses successfully.
 
 #### (2) Clinical experience and interaction
 
@@ -228,7 +228,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;&emsp;&emsp;&emsp;(III) who may be relieved from teaching duties as a result of such additional responsibilities.
 
-&emsp;&emsp;&emsp;(iv) The establishment of clear criteria for the selection of mentor teachers basedon measures of teacher effectiveness and the appropriate subject area knowledge. Evaluation of teacher effectiveness shall be based on, but not limited to, observations of the following:
+&emsp;&emsp;&emsp;(iv) The establishment of clear criteria for the selection of mentor teachers based on measures of teacher effectiveness and the appropriate subject area knowledge. Evaluation of teacher effectiveness shall be based on, but not limited to, observations of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Planning and preparation, including demonstrated knowledge of content, pedagogy, and assessment, including the use of formative and diagnostic assessments to improve student learning.
 
@@ -408,7 +408,7 @@ Nothing in this section shall be construed to prohibit an eligible partnership f
 
 #### (k) Supplement, not supplant
 
-Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities under this section.
+Funds made available under this section shall be used to supplement, and not supplant, otherFederal, State, and local funds that would otherwise be expended to carry out activities under this section.
 
 (Pub. L. 89–329, title II, §202, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3133; amended Pub. L. 111–39, title II, §201(2), July 1, 2009, 123 Stat. 1936; Pub. L. 114–95, title IX, §§9214(c)(3), 9215(oo)(3), Dec. 10, 2015, 129 Stat. 2161, 2179.)
 
@@ -432,7 +432,7 @@ Another prior section 202 of Pub. L. 89–329 was classified to section 1022 of 
 
 Subsec. (b)(6)(H). Pub. L. 114–95, §9214(c)(3)(A), substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act," for "highly qualified teachers" in introductory provisions.
 
-Subsec. (d)(1)(A)(i)(I). Pub. L. 114–95, §9214(c)(3)(B)(i)(I), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualificationsdescribed in section 612(a)(14)(C) of the Individuals with Disabilities Education Act (including teachers in rural school districts, special educators, and teachers of students who are limited English proficient)" for "be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects)".
+Subsec. (d)(1)(A)(i)(I). Pub. L. 114–95, §9214(c)(3)(B)(i)(I), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act (including teachers in rural school districts, special educators, and teachers of students who are limited English proficient)" for "be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects)".
 
 Subsec. (d)(1)(B)(iii). Pub. L. 114–95, §9214(c)(3)(B)(i)(II), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities" for "become highly qualified, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities as described in section 602(10)(D) of the Individuals with Disabilities Education Act".
 

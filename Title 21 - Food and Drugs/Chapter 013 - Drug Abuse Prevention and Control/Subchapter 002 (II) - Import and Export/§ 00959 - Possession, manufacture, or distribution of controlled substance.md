@@ -2,7 +2,7 @@
 
 #### (a) Manufacture or distribution for purpose of unlawful importation
 
-It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.
+It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listedchemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.
 
 #### (b) Manufacture or distribution of listed chemical for purpose of manufacture or unlawful importation of controlled substance
 
@@ -25,6 +25,8 @@ It shall be unlawful for any United States citizen on board any aircraft, or any
 This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States.
 
 (Pub. L. 91–513, title III, §1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, §3161(a), Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, §102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, §2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 114–154, §2, May 16, 2016, 130 Stat. 387; Pub. L. 115–91, div. A, title X, §1012(b), Dec. 12, 2017, 131 Stat. 1546.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -49,6 +51,8 @@ Pub. L. 104–237, §102(a), inserted "or listed chemical" after "schedule I or 
 Subsec. (b). Pub. L. 104–237, §102(b), inserted "or listed chemical" after "controlled substance" in pars. (1) and (2).
 
 <b>1986</b>—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted "or into waters within a distance of 12 miles of the coast of the United States" in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

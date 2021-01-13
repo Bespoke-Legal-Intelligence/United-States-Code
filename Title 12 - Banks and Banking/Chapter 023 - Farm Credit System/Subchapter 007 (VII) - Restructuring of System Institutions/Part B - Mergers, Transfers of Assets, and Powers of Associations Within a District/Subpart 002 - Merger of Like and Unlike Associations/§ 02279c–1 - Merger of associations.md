@@ -24,7 +24,7 @@ Two or more associations within the same district, whether or not organized unde
 
 #### (2) Consolidation
 
-&emsp;The Farm Credit Administration shall issue regulations that establish the manner inwhich the powers and obligations of the associations that form the merged association are consolidated and, to the extent necessary, reconciled in the merged association.
+&emsp;The Farm Credit Administration shall issue regulations that establish the manner in which the powers and obligations of the associations that form the merged association are consolidated and, to the extent necessary, reconciled in the merged association.
 
 #### (c) Stock issuance
 
@@ -38,6 +38,8 @@ Two or more associations within the same district, whether or not organized unde
 
 (Pub. L. 92–181, title VII, §7.8, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1647; amended Pub. L. 100–399, title IV, §408(k), (l), Aug. 17, 1988, 102 Stat. 1002.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–399, §408(k), struck out second sentence, which directed that, following a merger under subsection (a) of this section, the provisions of section 2154a of this title were to be applicable to the merged association.
@@ -47,6 +49,8 @@ Subsec. (c)(2). Pub. L. 100–399, §408(l), substituted "Capitalization" for "P
 Subsec. (c)(3). Pub. L. 100–399, §408(l), struck out par. (3) which read as follows: "Voting stock of a merged association shall be issued to and held by farmers, ranchers, or producers or harvesters of aquatic products who are or were, immediately prior to the merger, direct borrowers from one of the associations forming the merged association or the supervising bank of such merged association."
 
 Subsec. (d). Pub. L. 100–399, §408(l), struck out subsec. (d) which read as follows: "The plan of merger shall provide for the issuance, transfer, and retirement of stock and the distribution of earnings in accordance with the provisions of section 2154a of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

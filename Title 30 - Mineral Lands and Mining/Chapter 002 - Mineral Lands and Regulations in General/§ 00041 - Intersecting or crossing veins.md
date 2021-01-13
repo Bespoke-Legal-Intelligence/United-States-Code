@@ -4,6 +4,8 @@ Where two or more veins intersect or cross each other, priority of title shall g
 
 (R.S. §2336.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2336 derived from act May 10, 1872, ch. 152, §14, 17 Stat. 96.

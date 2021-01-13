@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, the term "qualified business" has the meaning given to such term by section 1397C(d); except that—
 
-&emsp;&emsp;(A) in lieu of applying paragraph (2)(B) thereof, the rental to others of real property located in any low-income community shall be treated as a qualified business if there aresubstantial improvements located on such property, and
+&emsp;&emsp;(A) in lieu of applying paragraph (2)(B) thereof, the rental to others of real property located in any low-income community shall be treated as a qualified business if there are substantial improvements located on such property, and
 
 &emsp;&emsp;(B) paragraph (3) thereof shall not apply.
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (2) Targeted populations
 
-&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.
+&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities arequalified active low-income community businesses with respect to such populations.
 
 #### (3) Areas not within census tracts
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 &emsp;&emsp;(G) $3,500,000,000 for each of calendar years 2010 through 2019, and
 
-&emsp;&emsp;(H) $5,000,000,000 for 2020.
+&emsp;&emsp;(H) $5,000,000,000 for for <sup>2</sup> each of calendar years 2020 through 2025.
 
 #### (2) Allocation of limitation
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (3) Carryover of unused limitation
 
-&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2025.
+&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
 
 #### (g) Recapture of credit in certain cases
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate decrease in the credits allowed to the taxpayer under section 38 for all prior taxable years which would have resulted if no credit had been determined under this section with respect to such investment, plus
 
-&emsp;&emsp;(B) interest at the underpayment rate established under section 6621 on the amountdetermined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.
+&emsp;&emsp;(B) interest at the underpayment rate established under section 6621 on the amount determined under subparagraph (A) for each prior taxable year for the period beginning on the due date for filing the return for the prior taxable year involved.
 
 > &emsp;No deduction shall be allowed under this chapter for interest described in subparagraph (B).
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (B) No credits against tax
 
-&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
+&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by thischapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
 #### (h) Basis reduction
 
@@ -264,13 +264,17 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 116–94, div. Q, title I, §141(a), (b), Dec. 20, 2019, 133 Stat. 3234.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 116–94, div. Q, title I, §141(a), (b), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §112(a), (b), Dec. 27, 2020, 134 Stat. 3050.)
 
 #### References in Text
 
 Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, §13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(1)(H). Pub. L. 116–260, §112(a), substituted "for each of calendar years 2020 through 2025" for "2020".
+
+Subsec. (f)(3). Pub. L. 116–260, §112(b), substituted "2030" for "2025".
 
 <b>2019</b>—Subsec. (f)(1)(H). Pub. L. 116–94, §141(a), added subpar. (H).
 
@@ -312,6 +316,10 @@ Subsec. (e)(4). Pub. L. 108–357, §221(b), added par. (4).
 
 Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §112(c), Dec. 27, 2020, 134 Stat. 3050, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2020."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §141(c), Dec. 20, 2019, 133 Stat. 3234, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2019."
@@ -322,7 +330,7 @@ Pub. L. 114–113, div. Q, title I, §141(c), Dec. 18, 2015, 129 Stat. 3056, pro
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–295, div. A, title I, §115(c), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendments made bythis section \[amending this section\] shall apply to calendar years beginning after December 31, 2013."
+Pub. L. 113–295, div. A, title I, §115(c), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2013."
 
 #### Effective Date of 2013 Amendment
 
@@ -385,4 +393,6 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 276
 Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

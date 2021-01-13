@@ -6,11 +6,13 @@ For the purposes of this chapter—
 
 (2) The term "World War I" includes, in the case of any veteran, any period of service performed by such veteran after November 11, 1918, and before July 2, 1921, if such veteran served in the active military, naval, or air service after April 5, 1917, and before November 12, 1918.
 
-(3) The term "Civil War veteran" includes a person who served in the military or naval forces of the Confederate States of America during the Civil War, and the term "active military or naval service" includes active service in those forces.
+(3) The term "Civil War veteran" includes a person who served in the military or navalforces of the Confederate States of America during the Civil War, and the term "active military or naval service" includes active service in those forces.
 
 (4) The term "period of war" means the Mexican border period, World War I, World War II, the Korean conflict, the Vietnam era, the Persian Gulf War, and the period beginning on the date of any future declaration of war by the Congress and ending on the date prescribed by Presidential proclamation or concurrent resolution of the Congress.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §501; Pub. L. 94–169, title I, §106(1), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 95–588, title I, §101, Nov. 4, 1978, 92 Stat. 2497; Pub. L. 102–25, title III, §333(a), Apr. 6, 1991, 105 Stat. 88; renumbered §1501, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -28,6 +30,8 @@ Par. (4). Pub. L. 102–25 inserted "the Persian Gulf War," after "the Vietnam e
 
 <b>1975</b>—Par. (2). Pub. L. 94–169 substituted "such veteran" for "him".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L. 95–588, set out as a note under section 101 of this title.
@@ -35,6 +39,38 @@ Amendment by Pub. L. 95–588 effective Jan. 1, 1979, see section 401 of Pub. L.
 #### Effective Date of 1975 Amendment
 
 Pub. L. 94–169, title I, §106, Dec. 23, 1975, 89 Stat. 1017, provided that the amendment made by that section is effective Jan. 1, 1976.
+
+#### Plan To Address the Financial Exploitation of Veterans Receiving Pension From the Department of Veterans Affairs
+
+Pub. L. 116–315, title VI, §6002, Jan. 5, 2021, 134 Stat. 5051, provided that:
+
+"(a)
+
+Development of Method for Solicitation and Collection of Information.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall develop a method for systematically soliciting and collecting information on complaints received, referrals made, and actions taken by the pension management centers of the Department of Veterans Affairs and any other relevant components of the Department, in cases of potential financial exploitation of individuals receiving pension under chapter 15 of title 38, United States Code.
+
+"(b)
+
+Plan To Assess and Address Financial Exploitation of Veterans.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall develop and periodically update a plan—
+
+&emsp;&emsp;"(A) to regularly assess the information solicited and collected under subsection (a) to identify trends of potential financial exploitation of the individuals described in subsection (a) across the Department; and
+
+&emsp;&emsp;"(B) to outline actions that the Department can take to improve education and training to address those trends.
+
+&emsp;"(2)
+
+Submission of plan.—Not later than one year after the date of the enactment of this Act and not less frequently than once every two years thereafter until the date that is six years after the date of the enactment of this Act, the Secretary shall submit the plan most recently developed or updated under paragraph (1) to—
+
+&emsp;&emsp;"(A) the Comptroller General of the United States; and
+
+&emsp;&emsp;"(B) the Committee on Veterans' Affairs and the Special Committee on Aging of the Senate and the Committee on Veterans' Affairs of the House of Representatives."
+
+#### Notice Regarding Fees Charged in Connection With Filing an Application for Veterans Pension
+
+Pub. L. 116–315, title VI, §6006, Jan. 5, 2021, 134 Stat. 5053, provided that: "The Under Secretary for Benefits of the Department of Veterans Affairs shall ensure that every paper or electronic document relating to the receipt of pension under chapter 15 of title 38, United States Code, that is available to individuals who apply for such pension, including educational forms about or applications for such pension, includes a notice that the Department does not charge any fee in connection with the filing of an application for such pension."
 
 #### Secretary of Veterans Affairs Notice of Dishonest, Predatory, or Otherwise Unlawful Practices Targeting Individuals Who Are Eligible for Increased Pension on Basis of Need for Regular Aid and Attendance
 

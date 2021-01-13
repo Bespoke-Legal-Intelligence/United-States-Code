@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of the Army may provide financial assistance to a State tosupport activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
+Authority.—The Secretary of the Army may provide financial assistance to a State to support activities carried out by the Army National Guard of the State in the performance of duties that the Secretary has assigned, with the consent of the Chief of the National Guard Bureau, to the Army National Guard of the State. The Secretary shall determine the amount of the assistance that is appropriate for the purpose.
 
 (b)
 
@@ -24,6 +24,8 @@ Availability of Funds.—Funds appropriated for the Army for a fiscal year are a
 
 (Added Pub. L. 105–85, div. A, title III, §386(a), Nov. 18, 1997, 111 Stat. 1712; amended Pub. L. 105–261, div. A, title III, §375(a), Oct. 17, 1998, 112 Stat. 1992; Pub. L. 106–65, div. A, title X, §1066(d)(4), Oct. 5, 1999, 113 Stat. 773; Pub. L. 108–375, div. A, title VIII, §806, Oct. 28, 2004, 118 Stat. 2010; Pub. L. 115–232, div. A, title VIII, §809(j), Aug. 13, 2018, 132 Stat. 1843.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232 substituted "section 7013(b) of title 10" for "section 3013(b) of title 10".
@@ -33,6 +35,8 @@ Availability of Funds.—Funds appropriated for the Army for a fiscal year are a
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted "October 17, 1998" for "the date of the enactment of this subsection".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Activities supported under this section may include only those activities that are carried out by the Army National Guard in the performance of responsibilities of the Secretary of the Army under paragraphs (6), (10), and (11) of section 3013(b) of title 10."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

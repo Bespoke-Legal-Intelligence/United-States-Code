@@ -20,6 +20,7 @@
 | :--- | :---: | ---: |
 | [<b>421.</b>](Part%20B%20-%20Actions%20to%20Address%20Foreign%20Practices/Chapter%20421%20-%20Regulations%20Affecting%20Shipping%20in%20Foreign%20Trade/README.md) | <b>Regulations Affecting Shipping in Foreign Trade</b> | <b>42101</b> |
 | [<b>423.</b>](Part%20B%20-%20Actions%20to%20Address%20Foreign%20Practices/Chapter%20423%20-%20Foreign%20Shipping%20Practices/README.md) | <b>Foreign Shipping Practices</b> | <b>42301</b> |
+| [<b>425.</b>](Part%20B%20-%20Actions%20to%20Address%20Foreign%20Practices/Chapter%20425%20-%20National%20Shipper%20Advisory%20Committee/README.md) | <b>National Shipper Advisory Committee</b> | <b>42501 </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +32,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part D—Federal Maritime Commission
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>461.</b>](Part%20D%20-%20Federal%20Maritime%20Commission/Chapter%20461%20-%20Federal%20Maritime%20Commission/README.md) | <b>Federal Maritime Commission</b> | <b>46101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §§8604(c), 8605(b)(5), Jan. 1, 2021, 134 Stat. 4764, 4765, added item for chapter 425 and item for part D. Item for chapter 425 was formatted to the style of this analysis to reflect the probable intent of Congress.
+
+<i><sup>1</sup></i><i> Section number editorially supplied.</i>
+
 
 ---
 
@@ -39,3 +56,4 @@
 - [Part A - Ocean Shipping](Part%20A%20-%20Ocean%20Shipping/README.md)
 - [Part B - Actions to Address Foreign Practices](Part%20B%20-%20Actions%20to%20Address%20Foreign%20Practices/README.md)
 - [Part C - Miscellaneous](Part%20C%20-%20Miscellaneous/README.md)
+- [Part D - Federal Maritime Commission](Part%20D%20-%20Federal%20Maritime%20Commission/README.md)

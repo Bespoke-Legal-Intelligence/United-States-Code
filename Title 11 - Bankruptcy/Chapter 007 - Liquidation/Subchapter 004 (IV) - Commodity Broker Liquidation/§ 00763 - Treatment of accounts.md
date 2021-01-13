@@ -14,9 +14,13 @@
 
 Section 763 provides for separate treatment of accounts held in separate capacities. A deficit in one account held for a customer may not be offset against the net equity in another account held by the same customer in a separate capacity or held by another customer.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "by the debtor for" for "by" and "treated as" for "deemed to be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

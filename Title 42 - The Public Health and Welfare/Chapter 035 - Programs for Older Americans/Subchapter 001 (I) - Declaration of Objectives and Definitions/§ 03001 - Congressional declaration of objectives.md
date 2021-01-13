@@ -4,7 +4,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(1) An adequate income in retirement in accordance with the American standard of living.
 
-&emsp;(2) The best possible physical and mental health which science can make available and without regard to economic status.
+&emsp;(2) The best possible physical and mental health (including access to person-centered, trauma-informed services as appropriate) which science can make available and without regard to economic status.
 
 &emsp;(3) Obtaining and maintaining suitable housing, independently selected, designed and located with reference to special needs and available at costs which older citizens can afford.
 
@@ -22,9 +22,11 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(10) Freedom, independence, and the free exercise of individual initiative in planning and managing their own lives, full participation in the planning and operation of community-based services and programs provided for their benefit, and protection against abuse, neglect, and exploitation.
 
-(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
+(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305; Pub. L. 116–131, title I, §102, Mar. 25, 2020, 134 Stat. 242.)
 
 #### Amendments
+
+<b>2020</b>—Par. (2). Pub. L. 116–131 inserted "(including access to person-centered, trauma-informed services as appropriate)" after "health".
 
 <b>1992</b>—Par. (4). Pub. L. 102–375, §101, inserted ", including support to family members and other persons providing voluntary care to older individuals needing long-term care services" after "homes".
 
@@ -114,7 +116,7 @@ Application of Amendments.—The amendments made by title I of this Act \[enacti
 
 "(c)
 
-Effective Date of Section 506.—The amendments made by section 506 of this Act \[enacting section2991b–1 of this title and amending sections 2991a, 2991b, and 2992d of this title\] shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1987\]."
+Effective Date of Section 506.—The amendments made by section 506 of this Act \[enacting section 2991b–1 of this title and amending sections 2991a, 2991b, and 2992d of this title\] shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1987\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -133,6 +135,10 @@ Pub. L. 98–459, title VIII, §803, Oct. 9, 1984, 98 Stat. 1793, provided that:
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–478, title V, §504, Oct. 18, 1978, 92 Stat. 1559, provided that: "This Act \[see Short Title of 1978 Amendment note below\], and the amendments made by this Act, shall take effect at the close of September 30, 1978."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–131, §1, Mar. 25, 2020, 134 Stat. 240, provided that: "This Act \[enacting and amending numerous sections and provisions set out as notes throughout this chapter\] may be cited as the 'Supporting Older Americans Act of 2020'."
 
 #### Short Title of 2016 Amendment
 
@@ -160,7 +166,7 @@ Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
+Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5,2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
 
 #### Short Title of 1986 Amendment
 
@@ -180,7 +186,7 @@ Pub. L. 95–478, §1(a), Oct. 18, 1978, 92 Stat. 1513, provided that: "This Act
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: "That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the 'Older Americans Amendments of 1975'."
+Pub. L. 94–135, §1, Nov. 28, 1975, 89 Stat. 713, provided: "That this Act \[enacting chapter 76 and sections 3002, 3020a, 3024, 3028, 3034, 3045f, and 3056 to 3056f of this title, amending sections 289k–5, 3002, 3012, 3014, 3015, 3022, 3023, 3024, 3025, 3026, 3028, 3033, 3034, 3037, 3037a, 3041d, 3041f, 3045b, 3045d, 3045e, 3045f, 3045g, 5011, 5012, and 5082 of this title and sections 1008a, 1208a, and 1341 of Title 20, Education, repealing sections 3061 to 3067 of this title, enacting provisions set out as notes under section 5001 of this title and section 871 of Title 29, Labor, and amending provisions set out as a note under section 2809 of this title\] may be cited as the 'Older Americans Amendments of 1975'."
 
 #### Short Title of 1973 Amendment
 
@@ -205,6 +211,48 @@ Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 9
 #### Regulations
 
 Pub. L. 102–375, title IX, §902, Sept. 30, 1992, 106 Stat. 1305, provided that: "Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\]."
+
+#### Principles for Person-Directed Services and Supports During Serious Illness
+
+Pub. L. 116–131, title VI, §604, Mar. 25, 2020, 134 Stat. 269, provided that:
+
+"(a)
+
+Definitions.—
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator means the Administrator of the Administration for Community Living.
+
+&emsp;"(2)
+
+Covered agency.—The term 'covered agency' means—
+
+&emsp;&emsp;"(A) a State agency or area agency on aging; and
+
+&emsp;&emsp;"(B) a Federal agency other than the Department of Health and Human Services, and a unit of thatDepartment other than the Administration on Aging, that the Assistant Secretary determines performs functions for which the principles are relevant, and the Centers for Medicare \& Medicaid Services.
+
+&emsp;"(3)
+
+Principles.—The term 'principles' means the Principles for Person-directed Services and Supports during Serious Illness, issued by the Administration for Community Living on September 1, 2017, or an updated set of such Principles.
+
+&emsp;"(4)
+
+State agency.—The term 'State agency' has the meaning given the term in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002).
+
+"(b)
+
+Dissemination.—The Administrator shall disseminate the principles to appropriate stakeholders within the aging network, as determined by the Assistant Secretary, and to covered agencies. The covered agencies may use the principles in setting priorities for service delivery and care plans in programs carried out by the agencies.
+
+"(c)
+
+Feedback.—The Administrator shall solicit, on an ongoing basis, feedback on the principles from covered agencies, experts in the fields of aging and dementia, and stakeholders who provide or receive disability services.
+
+"(d)
+
+Report.—Not less often than once, but not more often than annually, during the 3 years after the date of enactment of this Act \[Mar. 25, 2020\], the Administrator shall prepare and submit to Congress a report describing the feedback received under subsection (c) and indicating if any changes or updates are needed to the principles."
+
+\[For definitions of "area agency on aging" and "Assistant Secretary" as used in section 604 of Pub. L. 116–131, set out above, as being the same as those given in section 3002 of this title, see section 4 of Pub. L. 116–131, set out as a note below.\]
 
 #### Guidance on Serving Holocaust Survivors
 
@@ -386,7 +434,7 @@ Individual or organization with expertise.—The committee may consult with any 
 
 "(f)
 
-Report.—Not later than 20 months after an arrangement is entered into under subsection (d), thecommittee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a).
+Report.—Not later than 20 months after an arrangement is entered into under subsection (d), the committee shall submit, to the Secretary, the Speaker of the House of Representatives, and the President pro tempore of the Senate, a report containing the results of the study referred to in subsection (a).
 
 "(g)
 
@@ -564,7 +612,7 @@ Planning and Direction.—The Conference described in subsection (a) shall be pl
 
 Purpose.—The purpose of the Conference described in subsection (a) shall be to gather individuals representing the spectrum of thought and experience in the field of aging to—
 
-&emsp;"(1) evaluate the manner in which the objectives of this Act \[probably means the Older Americans Act of 1965, Pub. L. 89–73, which enacted this chapter\] can be met by using the resources and talents of older individuals, of families and communities of such individuals, and of individuals from the public and private sectors;
+&emsp;"(1) evaluate the manner in which the objectives of this Act \[probably means the Older Americans Act of1965, Pub. L. 89–73, which enacted this chapter\] can be met by using the resources and talents of older individuals, of families and communities of such individuals, and of individuals from the public and private sectors;
 
 &emsp;"(2) evaluate the manner in which national policies that are related to economic security and health care are prepared so that such policies serve individuals born from 1946 to 1964 and later, as the individuals become older individuals, including an examination of the Social Security, Medicare, and Medicaid programs carried out under titles II, XVIII, and XIX of the Social Security Act (42 U.S.C. 401 et seq., 1395 et seq., and 1396 et seq.) in relation to providing services under this Act, and determine how well such policies respond to the needs of older individuals; and
 
@@ -768,7 +816,11 @@ Conference not convened.—If the Conference is not convened before December 31,
 
 Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, authorized the President to call a White House Conference on Aging in 1981 to develop recommendations relating to economic well-being, health care, housing, social services, and employment of the aging.
 
+#### Definitions
+
+Pub. L. 116–131, §4, Mar. 25, 2020, 134 Stat. 241, provided that: "In this Act \[see Short Title of 2020 Amendment note set out above\], the terms 'area agency on aging', 'Assistant Secretary', 'greatest social need', 'older individual', and 'Secretary' have the meanings given such terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)."
+
 #### Executive Order No. 11022
 
-Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R.36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

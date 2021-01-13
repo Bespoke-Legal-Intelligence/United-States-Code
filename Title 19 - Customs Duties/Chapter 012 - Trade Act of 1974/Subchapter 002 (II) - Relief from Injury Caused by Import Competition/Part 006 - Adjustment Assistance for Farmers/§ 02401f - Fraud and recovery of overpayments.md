@@ -36,7 +36,7 @@ Any amount recovered under this section shall be returned to the Treasury of the
 
 #### (e) Penalties
 
-Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for himself or for any other person any payment authorized to be furnished under this part shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
+Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for himself or for anyother person any payment authorized to be furnished under this part shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 
 (Pub. L. 93–618, title II, §297, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 952; amended Pub. L. 111–5, div. B, title I, §1885, Feb. 17, 2009, 123 Stat. 419; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 

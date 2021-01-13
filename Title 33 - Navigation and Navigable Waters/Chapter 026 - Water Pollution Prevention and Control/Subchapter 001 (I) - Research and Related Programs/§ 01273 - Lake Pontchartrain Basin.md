@@ -6,7 +6,7 @@ The Administrator shall establish within the Environmental Protection Agency the
 
 #### (b) Purpose
 
-The purpose of the program shall be to restore the ecological health of the Basin by developingand funding restoration projects and related scientific and public education projects.
+The purpose of the program shall be to restore the ecological health of the Basin by developing and funding restoration projects and related scientific and public education projects.
 
 #### (c) Duties
 
@@ -56,6 +56,8 @@ In this section, the following definitions apply:
 
 (June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, §1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, §1, Dec. 28, 2012, 126 Stat. 1628.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Another section 121 of act June 30, 1948, was renumbered section 122 and is classified to section 1274 of this title.
@@ -67,6 +69,8 @@ Another section 121 of act June 30, 1948, was renumbered section 122 and is clas
 Subsec. (f)(1). Pub. L. 112–237, §1(2), substituted "2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017" for "2011".
 
 <b>2006</b>—Subsec. (f)(1). Pub. L. 109–392 substituted "2011" for "2005".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Management Conference
 

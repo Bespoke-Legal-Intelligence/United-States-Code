@@ -2,7 +2,7 @@
 
 #### (a) Advance acquisition of property; special account for payment of costs; limitation; use of property
 
-It is the sense of the Congress that in furnishing assistance under subchapter I of this chapter excess personal property, or (if a substantial savings would occur) other property already owned by an agency of the United States Government, shall be utilized wherever practicable in lieu of or supplementary to the procurement of new items for United States-assisted projects and programs. The President is authorized to maintain in a separate account, which shall, notwithstanding section 1535(d) of title 31, be free from fiscal year limitation, $5,000,000 of funds made available under part I of subchapter I of this chapter, which may be used to pay costs (including personnel costs) of acquisition, storage, renovation and rehabilitation, packing, crating, handling, transportation, and related costs of property classified as domestic or foreign excess property pursuant to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any property available from an agency of the United States Government, or other property, in advance of known requirements therefor for use in furtherance of the purposes of subchapter I of this chapter: <i>Provided</i>, That the amount of property classified as domestic excess property pursuant to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 held at any one time pursuant to this section shall not exceed $15,000,000 in total original acquisition cost. Property acquired pursuant to the preceding sentence may be furnished (1) pursuant to any provision of subchapter I of this chapter for which funds are authorized for the furnishing of assistance, in which case the separate account established pursuant to this section shall be repaid from funds made available for such provision for all costs incurred, or (2) pursuant to section 2357 of this title, in which case such separate account shall be repaid in accordance with the provisions of that section for all costs incurred.
+It is the sense of the Congress that in furnishing assistance under subchapter I of this chapter excess personal property, or (if a substantial savings would occur) other property already owned by an agency of the United States Government, shall be utilized wherever practicable in lieu of or supplementary to the procurement of new items for United States-assisted projects and programs. The President is authorized to maintain in a separate account, which shall, notwithstanding section 1535(d) of title 31, be free from fiscal year limitation, $5,000,000 of funds made available under part I of subchapter I of this chapter, which may be used to pay costs (including personnel costs) of acquisition, storage, renovation and rehabilitation,packing, crating, handling, transportation, and related costs of property classified as domestic or foreign excess property pursuant to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, any property available from an agency of the United States Government, or other property, in advance of known requirements therefor for use in furtherance of the purposes of subchapter I of this chapter: <i>Provided</i>, That the amount of property classified as domestic excess property pursuant to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 held at any one time pursuant to this section shall not exceed $15,000,000 in total original acquisition cost. Property acquired pursuant to the preceding sentence may be furnished (1) pursuant to any provision of subchapter I of this chapter for which funds are authorized for the furnishing of assistance, in which case the separate account established pursuant to this section shall be repaid from funds made available for such provision for all costs incurred, or (2) pursuant to section 2357 of this title, in which case such separate account shall be repaid in accordance with the provisions of that section for all costs incurred.
 
 #### (b) Transfer of domestic excess property
 
@@ -10,13 +10,7 @@ Property classified as domestic excess property under chapters 1 to 11 of title 
 
 (Pub. L. 87–195, pt. III, §608, Sept. 4, 1961, 75 Stat. 441; Pub. L. 89–583, pt. III, §301(c), Sept. 19, 1966, 80 Stat. 804; Pub. L. 90–137, pt. III, §301(b), Nov. 14, 1967, 81 Stat. 458; Pub. L. 95–424, title I, §102(g)(2)(C), Oct. 6, 1978, 92 Stat. 942; Pub. L. 97–113, title VII, §701, Dec. 29, 1981, 95 Stat. 1543.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
-
-#### References to Part I Deemed To Include Section 2293
-
-References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -36,9 +30,21 @@ In subsec. (b), "section 549(a) to (e) of title 40" substituted for "section 203
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–583 permitted personnel costs attributable to the excess property program to be charged to the separate account for the advance acquisition of property.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
+#### References to Part I Deemed To Include Section 2293
+
+References to part I of subchapter I of this chapter are deemed to include a reference to section 2293 of this title. See section 2293(d)(1) of this title.
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

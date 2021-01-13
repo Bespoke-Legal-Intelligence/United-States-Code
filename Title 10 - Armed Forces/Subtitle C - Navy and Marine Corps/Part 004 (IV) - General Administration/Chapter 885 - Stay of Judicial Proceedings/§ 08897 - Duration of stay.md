@@ -1,6 +1,6 @@
 ### §8897. Duration of stay
 
-A stay of proceedings under this chapter remains in effect for the period specified in the certificate upon which it was based unless the Secretary of the Navy issues a new certificate under section 8895 or 8896 of this title changingthe termination date. However, a stay under this chapter may not remain in force longer than six months after the cessation of hostilities.
+A stay of proceedings under this chapter remains in effect for the period specified in the certificate upon which it was based unless the Secretary of the Navy issues a new certificate under section 8895 or 8896 of this title changing the termination date. However, a stay under this chapter may not remain in force longer than six months after the cessation of hostilities.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 485, §7727; renumbered §8897 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(10), 809(a), Aug. 13, 2018, 132 Stat. 1837, 1840.)
 

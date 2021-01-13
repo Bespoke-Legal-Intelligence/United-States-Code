@@ -22,6 +22,8 @@
 
 (Added Pub. L. 102–40, title II, §202, May 7, 1991, 105 Stat. 200; amended Pub. L. 108–170, title III, §302(g), Dec. 6, 2003, 117 Stat. 2058.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4108(a) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
@@ -29,6 +31,8 @@ Provisions similar to those in this section were contained in section 4108(a) of
 #### Amendments
 
 <b>2003</b>—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

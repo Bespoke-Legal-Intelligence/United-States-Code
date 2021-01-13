@@ -44,6 +44,8 @@ In subsection (a), the words "Federal service" are substituted for the words "se
 
 In subsection (b), the words "A general court-martial may sentence to—" are substituted for the words "and such courts shall have the power to impose \* \* \* to sentence". The words "any combination of these punishments" are substituted for the words "or any two or more of such punishments may be combined in the sentences imposed by such courts".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "States and Territories, Puerto Rico, and the District of Columbia".
@@ -67,6 +69,8 @@ In subsection (b), the words "A general court-martial may sentence to—" are su
 &emsp;"(6) any combination of these punishments."
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 substituted "Territory or Puerto Rico" for "Territory, Puerto Rico, or the Canal Zone,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Models for State Code of Military Justice and State Manual for Courts-Martial
 

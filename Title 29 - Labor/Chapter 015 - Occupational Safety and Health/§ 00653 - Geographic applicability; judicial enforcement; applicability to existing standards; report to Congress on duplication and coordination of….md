@@ -1,6 +1,6 @@
 ### §653. Geographic applicability; judicial enforcement; applicability to existing standards; report to Congress on duplication and coordination of Federal laws; workmen's compensation law or common law or statutory rights, duties, or liabilities of employers and employees unaffected
 
-(a) This chapter shall apply with respect to employment performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, Lake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], Johnston Island, and the Canal Zone. The Secretary of the Interior shall, by regulation, provide for judicial enforcement of this chapter by the courts established for areas in which there are no United States district courts having jurisdiction.
+(a) This chapter shall apply with respect to employment performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, Lake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], JohnstonIsland, and the Canal Zone. The Secretary of the Interior shall, by regulation, provide for judicial enforcement of this chapter by the courts established for areas in which there are no United States district courts having jurisdiction.
 
 (b)(1) Nothing in this chapter shall apply to working conditions of employees with respect to which other Federal agencies, and State agencies acting under section 2021 of title 42, exercise statutory authority to prescribe or enforce standards or regulations affecting occupational safety or health.
 
@@ -11,6 +11,8 @@
 (4) Nothing in this chapter shall be construed to supersede or in any manner affect any workmen's compensation law or to enlarge or diminish or affect in any other manner the common law or statutory rights, duties, or liabilities of employers and employees under any law with respect to injuries, diseases, or death of employees arising out of, or in the course of, employment.
 
 (Pub. L. 91–596, §4, Dec. 29, 1970, 84 Stat. 1592.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ Public Law 85–742, Act of August 23, 1958, referred to in subsec. (b)(2), is P
 The National Foundation on the Arts and the Humanities Act, referred to in subsec. (b)(2), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, known as the National Foundation on the Arts and the Humanities Act of 1965, which is classified principally to subchapter I (§951 et seq.) of chapter 26 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 20 and Tables.
 
 The effective date of this chapter, referred to in subsec. (b)(2), (3), is the effective date of Pub. L. 91–596, which is 120 days after Dec. 29, 1970, see section 34 of Pub. L. 91–596, set out as an Effective Date note under section 651 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

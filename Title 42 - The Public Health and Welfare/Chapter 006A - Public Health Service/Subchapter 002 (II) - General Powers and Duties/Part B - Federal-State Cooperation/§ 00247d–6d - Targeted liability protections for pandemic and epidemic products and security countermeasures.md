@@ -244,7 +244,7 @@
 
 &emsp;&emsp;(B) facts supporting the allegation that such alleged willful misconduct proximately caused the injury claimed; and
 
-&emsp;&emsp;(C) facts supporting the allegation that the person on whose behalf the complaintwas filed suffered death or serious physical injury.
+&emsp;&emsp;(C) facts supporting the allegation that the person on whose behalf the complaint was filed suffered death or serious physical injury.
 
 #### (4) Verification, certification, and medical records
 
@@ -314,7 +314,7 @@
 
 #### (8) Noneconomic damages
 
-&emsp;In an action under subsection (d), any noneconomic damages may be awarded only in anamount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
+&emsp;In an action under subsection (d), any noneconomic damages may be awarded only in an amount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
 
 #### (9) Rule 11 sanctions
 
@@ -346,9 +346,11 @@ In this section:
 
 &emsp;&emsp;(A) a qualified pandemic or epidemic product (as defined in paragraph (7));
 
-&emsp;&emsp;(B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title); or
+&emsp;&emsp;(B) a security countermeasure (as defined in section 247d–6b(c)(1)(B) of this title);
 
-&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\].
+&emsp;&emsp;(C) a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)), biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) that is authorized for emergency use in accordance with section 564, 564A, or 564B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3, 360bbb–3a, 360bbb–3b\]; or
+
+&emsp;&emsp;(D) a respiratory protective device that is approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or any successor regulations), and that the Secretary determines to be a priority for use during a public health emergency declared under section 247d of this title.
 
 #### (2) Covered person
 
@@ -388,7 +390,7 @@ In this section:
 
 #### (6) Program planner
 
-&emsp;The term "program planner" means a State or local government, including an Indiantribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b).
+&emsp;The term "program planner" means a State or local government, including an Indian tribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b).
 
 #### (7) Qualified pandemic or epidemic product
 
@@ -414,7 +416,7 @@ In this section:
 
 &emsp;The term "qualified person", when used with respect to the administration or use of a covered countermeasure, means—
 
-&emsp;&emsp;(A) a licensed health professional or other individual who is authorized to prescribe, administer, or dispense such countermeasures under the law of the State in which the countermeasure was prescribed, administered, or dispensed; or
+&emsp;&emsp;(A) a licensed health professional or other individual who is authorized to prescribe, administer, or dispense such countermeasures under the law of the State inwhich the countermeasure was prescribed, administered, or dispensed; or
 
 &emsp;&emsp;(B) a person within a category of persons so identified in a declaration by the Secretary under subsection (b).
 
@@ -432,7 +434,7 @@ In this section:
 
 &emsp;&emsp;(C) necessitates medical or surgical intervention to preclude permanent impairment of a body function or permanent damage to a body structure.
 
-(July 1, 1944, ch. 373, title III, §319F–3, as added Pub. L. 109–148, div. C, §2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, §402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196.)
+(July 1, 1944, ch. 373, title III, §319F–3, as added Pub. L. 109–148, div. C, §2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, §402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196; Pub. L. 116–127, div. F, §6005, Mar. 18, 2020, 134 Stat. 207; Pub. L. 116–136, div. A, title III, §3103, Mar. 27, 2020, 134 Stat. 361.)
 
 #### References in Text
 
@@ -443,6 +445,16 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are
 The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h), is div. C of Pub. L. 109–148, Dec. 30, 2005, 119 Stat. 2818, which enacted this section, section 247d–6e of this title, and provisions set out as a note under section 201 of this title. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–136 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "a personal respiratory protective device that is—
+
+&emsp;"(i) approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
+
+&emsp;"(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+
+&emsp;"(iii) used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to section 247d of this title as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV)."
+
+Pub. L. 116–127 added subpar. (D).
 
 <b>2013</b>—Subsec. (i)(1)(C). Pub. L. 113–5, §402(g)(3)(A), inserted ", 564A, or 564B" after "564".
 

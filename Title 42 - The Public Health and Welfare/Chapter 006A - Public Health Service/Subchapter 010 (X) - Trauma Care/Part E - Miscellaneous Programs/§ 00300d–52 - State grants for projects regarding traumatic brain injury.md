@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator for the Administration for Commu
 
 #### (d) Application for grant
 
-The Secretary may make a grant under subsection (a) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under subsection (a) only if an application for the grant issubmitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (e) Use of State and American Indian consortium grants
 
@@ -108,13 +108,13 @@ For purposes of this section:
 
 &emsp;(1) The terms "American Indian consortium" and "State" have the meanings given to those terms in section 300d–53 of this title.
 
-&emsp;(2) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma.The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+&emsp;(2) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 #### (i) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated $7,321,000 for each of fiscal years 2020 through 2024.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 113–196, §3, Nov. 26, 2014, 128 Stat. 2052; Pub. L. 115–377, §3, Dec. 21, 2018, 132 Stat. 5114.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304,Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 113–196, §3, Nov. 26, 2014, 128 Stat. 2052; Pub. L. 115–377, §3, Dec. 21, 2018, 132 Stat. 5114.)
 
 #### References in Text
 

@@ -1,6 +1,6 @@
 ### §1303. American Historical Association: report
 
-In addition to the usual number of the report of the American Historical Association, five thousand five hundred copies shall be printed: one thousand for the Senate, two thousand forthe House of Representatives, one thousand five hundred for distribution by the Association and the Smithsonian Institution, and one thousand copies for the use of the Association.
+In addition to the usual number of the report of the American Historical Association, five thousand five hundred copies shall be printed:one thousand for the Senate, two thousand for the House of Representatives, one thousand five hundred for distribution by the Association and the Smithsonian Institution, and one thousand copies for the use of the Association.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266.)
 

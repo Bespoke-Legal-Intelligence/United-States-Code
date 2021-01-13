@@ -22,9 +22,13 @@ The fact that an applicant for appointment as a Foreign Service officer candidat
 
 (Pub. L. 96–465, title I, §301, Oct. 17, 1980, 94 Stat. 2083; Pub. L. 100–204, title I, §179(a), Dec. 22, 1987, 101 Stat. 1362.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (d)(3). Pub. L. 100–204 inserted sentence at end relating to exemption from income taxation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

@@ -66,7 +66,7 @@
 
 #### (B) Non-Federal members
 
-&emsp;&emsp;Non-federal <sup>2</sup> members of the Coordinating Committee shall serve without pay, but maybe reimbursed for reasonable costs incurred while performing their duties on behalf of the Coordinating Committee.
+&emsp;&emsp;Non-federal <sup>2</sup> members of the Coordinating Committee shall serve without pay, but may be reimbursed for reasonable costs incurred while performing their duties on behalf of the Coordinating Committee.
 
 #### (b) State Coordinating Committees
 

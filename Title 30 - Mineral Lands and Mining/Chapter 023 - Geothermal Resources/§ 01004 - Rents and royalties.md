@@ -122,6 +122,8 @@ Any annual rental under this section that is paid with respect to a lease before
 
 (Pub. L. 91–581, §5, Dec. 24, 1970, 84 Stat. 1567; Pub. L. 109–58, title II, §§223(a), 224(a), 228, 230, 232, 233, 236(7), Aug. 8, 2005, 119 Stat. 661, 662, 667–670, 672.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
@@ -140,6 +142,8 @@ Subsec. (f). Pub. L. 109–58, §232, added subsec. (f).
 
 Subsec. (g). Pub. L. 109–58, §233(b), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title II, §223(c), Aug. 8, 2005, 119 Stat. 662, provided that: "The schedule of fees established under the amendment made by subsection (a)(4) \[amending this section\] shall apply with respect to payments under a lease converted under this subsection that are due and owing, and have been paid, on or after July 16, 2003. This subsection shall not require the refund of royalties paid to a State under section 20 of the Geothermal Steam Act of 1970 (30 U.S.C. 1019) prior to the date of enactment of this Act \[Aug. 8, 2005\]."
@@ -154,7 +158,7 @@ Near-Term Production Incentive for Existing Leases.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[30 U.S.C. 1004(a)\],the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
+In general.—Notwithstanding section 5(a) of the Geothermal Steam Act of 1970 \[30 U.S.C. 1004(a)\], the royalty required to be paid shall be 50 percent of the amount of the royalty otherwise required, on any lease issued before the date of enactment of this Act \[Aug. 8, 2005\] that does not convert to new royalty terms under subsection (e)—
 
 &emsp;&emsp;"(A) with respect to commercial production of energy from a facility that begins such production in the 6-year period beginning on the date of enactment of this Act; or
 

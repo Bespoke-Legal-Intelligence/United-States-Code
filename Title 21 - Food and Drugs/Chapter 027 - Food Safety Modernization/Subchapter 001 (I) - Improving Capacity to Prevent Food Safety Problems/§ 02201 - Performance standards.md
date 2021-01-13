@@ -24,9 +24,13 @@ The Secretary shall periodically review and revise, as appropriate, the guidance
 
 (Pub. L. 111–353, title I, §104, Jan. 4, 2011, 124 Stat. 3899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Secretary, referred to in text, probably means the Secretary of Health and Human Services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

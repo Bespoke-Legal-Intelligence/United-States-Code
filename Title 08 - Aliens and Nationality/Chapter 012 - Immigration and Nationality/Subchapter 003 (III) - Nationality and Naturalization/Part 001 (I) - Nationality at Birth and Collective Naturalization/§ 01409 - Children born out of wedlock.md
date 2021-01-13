@@ -20,7 +20,9 @@
 
 (c) Notwithstanding the provision of subsection (a) of this section, a person born, after December 23, 1952, outside the United States and out of wedlock shall be held to have acquired at birth the nationality status of his mother, if the mother had the nationality of the United States at the time of such person's birth, and if the mother had previously been physically present in the United States or one of its outlying possessions for a continuous period of one year.
 
-(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Pub. L. 97–116, §18(l), Dec. 29, 1981, 95Stat. 1620; Pub. L. 99–653, §13, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(k), 9(r), Oct. 24, 1988, 102 Stat. 2617, 2621.)
+(June 27, 1952, ch. 477, title III, ch. 1, §309, 66 Stat. 238; Pub. L. 97–116, §18(l), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §13, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(k), 9(r), Oct. 24, 1988, 102 Stat. 2617, 2621.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (c). Pub. L. 100–525, §9(r)(2), substituted "after December 23, 1952"
 <b>1981</b>—Subsec. (a). Pub. L. 97–116, §18(l)(1), substituted "(c), (d), (e), and (g) of section 1401" for "(3) to (5) and (7) of section 1401(a)".
 
 Subsec. (b). Pub. L. 97–116, §18(l)(2), substituted "section 1401(g)" for "section 1401(a)(7)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

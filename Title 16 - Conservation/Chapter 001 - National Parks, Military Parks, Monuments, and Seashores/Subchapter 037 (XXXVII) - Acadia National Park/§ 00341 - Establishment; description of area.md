@@ -64,7 +64,7 @@ Technical and limited revisions.—Subject to section 102(k), notwithstanding an
 
 &emsp;&emsp;&emsp;"(i) any such boundary revision shall not be a part of a more-comprehensive boundary revision; and
 
-&emsp;&emsp;&emsp;"(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a total of 100 acres, as compared to the size of the Park on the date of enactment of this paragraph.
+&emsp;&emsp;&emsp;"(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a totalof 100 acres, as compared to the size of the Park on the date of enactment of this paragraph.
 
 #### "SEC. 102. LANDS WITHIN BOUNDARIES.
 
@@ -202,7 +202,7 @@ Limitation.—The Secretary may not use the authority provided by section 100506
 
 #### "SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
 
-"(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
+"(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary tocarry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
 "(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (\[former\] 16 U.S.C. 460l–9) \[now 54 U.S.C. 200306(a)(4)\], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
@@ -298,7 +298,7 @@ Pub. L. 97–335, Oct. 15, 1982, 96 Stat. 1627, as amended by Pub. L. 104–333,
 
 "(b) Notwithstanding any other provisions of this Act \[this note\], the Secretary is also authorized to accept by donation, as a coholder for enforcement purposes only, a limited enforcement interest in conservation easements on lands outside the boundary established by section 2 hereof and within the town of Isle au Haut which may from time to time be donated to the Isle au Haut Land Conservation Trust, a trust established under the laws of the State of Maine. The Superintendent of Acadia National Park is hereby authorized to serve as an ex officio trustee of such trust.
 
-"Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effortshall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
+"Sec. 4. (a) The management and use of parklands on Isle au Haut shall not interfere with the maintenance of a viable local community with a traditional resource-based economy outside the boundary of the park. To the maximum extent practicable, no development or plan for the convenience of park visitors shall be undertaken which would be incompatible with the preservation of the flora and fauna or the physiographic conditions now prevailing, and every effort shall be exerted to maintain and preserve this portion of the park in as nearly its present state and condition as possible. In recognition of the special fragility and sensitivity of the park's resources, visitation shall be strictly limited to assure negligible adverse impact on such resources, to conserve the character of the town and to protect the quality of the visitor experience.
 
 "\[(b), (c) Repealed. Pub. L. 104–333, div. I, title VIII, §814(d)(1)(C), Nov. 12, 1996, 110 Stat. 4196.\]
 

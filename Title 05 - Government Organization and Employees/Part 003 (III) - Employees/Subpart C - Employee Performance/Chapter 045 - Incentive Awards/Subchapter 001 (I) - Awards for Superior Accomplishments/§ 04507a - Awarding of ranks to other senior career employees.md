@@ -12,9 +12,13 @@
 
 (Added Pub. L. 107–67, title VI, §641(a), Nov. 12, 2001, 115 Stat. 554.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–15, referred to in subsec. (a), is contained in the General Schedule, which is set out under section 5332 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

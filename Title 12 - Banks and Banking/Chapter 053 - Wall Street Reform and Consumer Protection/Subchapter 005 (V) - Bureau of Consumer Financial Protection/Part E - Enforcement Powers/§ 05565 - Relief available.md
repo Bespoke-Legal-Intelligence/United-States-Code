@@ -82,6 +82,8 @@ In any action brought by the Bureau, a State attorney general, or any State regu
 
 (Pub. L. 111–203, title X, §1055, July 21, 2010, 124 Stat. 2029.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under section 5561 of this title.

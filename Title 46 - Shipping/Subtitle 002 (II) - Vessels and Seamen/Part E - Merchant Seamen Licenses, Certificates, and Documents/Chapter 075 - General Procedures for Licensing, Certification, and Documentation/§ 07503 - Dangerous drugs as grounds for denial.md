@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 Section 7503 provides that the issuance of a license, certificate, or document may be denied by the Secretary to any individual who has been convicted, within 10 years, of violating a dangerous drug law of the United States or to any individual who has been a user of a dangerous drug, unless the individual provides satisfactory proof of being cured. This includes PCP and LSD. See also the note to section 7704. However, the Secretary may deny issuing a license, certificate or document to the individual who has used or been convicted of a "controlled substance" such as LSD if that use or conviction occurred before the date of enactment of this Act.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of repealed subsec. (a) and subsec. (b) identical to present provisions.
@@ -29,6 +31,8 @@ Section 7503 provides that the issuance of a license, certificate, or document m
 <b>1990</b>—Subsec. (a). Pub. L. 101–380 struck out subsec. (a) which defined "dangerous drug" for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted "certificate of registry, or merchant mariner's document" for first reference to "certificate, or document".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -26,7 +26,7 @@ In carrying out the provisions of this section, the Administrator shall conduct,
 
 &emsp;(2) advanced waste treatment methods applicable to point and nonpoint sources, including inplace or accumulated sources of pollutants, and methods for reclaiming and recycling water and confining pollutants so they will not migrate to cause water or other environmental pollution; and
 
-&emsp;(3) improved methods and procedures to identify and measure the effects of pollutantson the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
+&emsp;(3) improved methods and procedures to identify and measure the effects of pollutants on the chemical, physical, and biological integrity of water, including those pollutants created by new technological developments.
 
 #### (e) Research and demonstration projects covering agricultural pollution and pollution from sewage in rural areas; dissemination of information
 
@@ -62,15 +62,25 @@ The Administrator is authorized to make a grant to any grantee who received an i
 
 (June 30, 1948, ch. 758, title I, §105, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 825; amended Pub. L. 93–592, §2, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, §§8, 9, Dec. 27, 1977, 91 Stat. 1568.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Subsecs. (i), (j). Pub. L. 95–217 added subsecs. (i) and (j).
 
 <b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted "the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975," for "and the fiscal year ending June 30, 1974,".
 
+#### <b>Statutory Notes and Executive Documents</b>
+
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

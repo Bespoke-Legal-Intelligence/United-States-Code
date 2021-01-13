@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the term "reinspection" means—
 
-&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
+&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 ormore inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
 
 &emsp;&emsp;&emsp;(ii) with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction;
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-monthperiod ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
+&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
 
 #### (B) Compounded basis
 
@@ -137,6 +137,8 @@ Not later than 120 days after each fiscal year for which fees are assessed under
 For fiscal year 2010 and each fiscal year thereafter, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted or otherwise affected under the other provisions of this section.
 
 (June 25, 1938, ch. 675, §743, as added Pub. L. 111–353, title I, §107(a), Jan. 4, 2011, 124 Stat. 3906.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

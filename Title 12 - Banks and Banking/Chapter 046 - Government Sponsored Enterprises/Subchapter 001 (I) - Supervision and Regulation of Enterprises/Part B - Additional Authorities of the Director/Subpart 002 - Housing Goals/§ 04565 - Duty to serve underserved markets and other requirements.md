@@ -38,7 +38,7 @@
 
 #### (b) In general
 
-To meet the housing goals established under this subpart and to carry out the duty under subsection (a) of this section, each enterprise shall—
+To meet the housing goals established under this subpart and to carry out the duty undersubsection (a) of this section, each enterprise shall—
 
 &emsp;(1) design programs and products that facilitate the use of assistance provided by the Federal Government and State and local governments;
 
@@ -86,6 +86,8 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 (Pub. L. 102–550, title XIII, §1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, §517(c), Oct. 27, 1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -104,7 +106,7 @@ Pub. L. 110–289, §1128(c)(1), substituted "housing goals established under th
 
 Subsec. (b). Pub. L. 110–289, §1129(a)(3)(E), redesignated subsec. (a) as (b).
 
-Pub. L. 110–289, §1129(a)(2), struck out subsec. (b). Text read as follows: "Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary."
+Pub. L. 110–289, §1129(a)(2), struck out subsec. (b). Text read as follows: "Actions taken under subsection\(a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary."
 
 Subsecs. (c), (d). Pub. L. 110–289, §1129(a)(5), added subsecs. (c) and (d).
 

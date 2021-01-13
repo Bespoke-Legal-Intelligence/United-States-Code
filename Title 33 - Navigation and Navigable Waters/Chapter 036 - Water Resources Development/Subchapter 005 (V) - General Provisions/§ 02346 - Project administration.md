@@ -16,6 +16,8 @@ The Secretary shall assign a unique tracking number to each water resources proj
 
 (Pub. L. 110–114, title II, §2041, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, §1136(b), Dec. 16, 2016, 130 Stat. 1657.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -23,6 +25,8 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–322 inserted "final post-authorization change report," after "final reevaluation report,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

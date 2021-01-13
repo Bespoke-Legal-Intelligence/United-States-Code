@@ -112,7 +112,7 @@
 
 #### (ii) Post-employment ban
 
-&emsp;&emsp;&emsp;Each individual described in clause (i) shall be subject to a ban disallowing compensation from the manufactured housing industry during the period of, and during the 1-year following, the membership of the individual on the consensus committee.
+&emsp;&emsp;&emsp;Each individual described in clause (i) shall be subject to a ban disallowing compensation from the manufactured housingindustry during the period of, and during the 1-year following, the membership of the individual on the consensus committee.
 
 #### (G) Meetings
 
@@ -220,7 +220,7 @@
 
 #### (6) Failure to act
 
-&emsp;If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month periodbeginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
+&emsp;If the Secretary fails to take final action under paragraph (5) and to cause notice of the action to be published in the Federal Register before the expiration of the 12-month period beginning on the date on which the proposed revised standard is submitted to the Secretary under paragraph (4)(A)—
 
 &emsp;&emsp;(A) the Secretary shall appear in person before the appropriate housing and appropriations subcommittees and committees of the House of Representatives and the Senate (referred to in this paragraph as the "committees") on a date or dates to be specified by the committees, but in no event later than 30 days after the expiration of that 12-month period, and shall state before the committees the reasons for failing to take final action as required under paragraph (5); and
 
@@ -284,7 +284,7 @@
 
 #### (c) Effective date of orders establishing standards
 
-Each order establishing a Federal manufactured home construction and safety standardshall specify the date such standard is to take effect, which shall not be sooner than one hundred and eighty days or later than one year after the date such order is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest, and publishes his reasons for such finding.
+Each order establishing a Federal manufactured home construction and safety standard shall specify the date such standard is to take effect, which shall not be sooner than one hundred and eighty days or later than one year after the date such order is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest, and publishes his reasons for such finding.
 
 #### (d) Supremacy of Federal standards
 
@@ -378,5 +378,5 @@ Section effective upon the expiration of 180 days following Aug. 22, 1974, see s
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establishthermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
 

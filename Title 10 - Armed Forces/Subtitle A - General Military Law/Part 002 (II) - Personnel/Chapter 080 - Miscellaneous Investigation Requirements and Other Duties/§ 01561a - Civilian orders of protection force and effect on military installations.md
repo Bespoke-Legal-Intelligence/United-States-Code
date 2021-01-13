@@ -38,7 +38,7 @@ Particular Elements.—The policies and procedures required by subsection (a) sh
 
 &emsp;"(1) A requirement for notice between and among the commander, military law enforcement elements, and military criminal investigative elements of an installation when a member of the Armed Forces assigned to such installation, a civilian employee employed at such installation, a civilian spouse or intimate partner of a member assigned to such installation, or a civilian spouse or intimate partner of a civilian employee employed at such installation becomes subject to a civilian protective order.
 
-&emsp;"(2) A statement of policy that failure to register a civilian protective order may not be a justification for the lack of enforcement of such order by militarylaw enforcement and other applicable personnel who have knowledge of such order.
+&emsp;"(2) A statement of policy that failure to register a civilian protective order may not be a justification for the lack of enforcement of such order by military law enforcement and other applicable personnel who have knowledge of such order.
 
 "(d)
 

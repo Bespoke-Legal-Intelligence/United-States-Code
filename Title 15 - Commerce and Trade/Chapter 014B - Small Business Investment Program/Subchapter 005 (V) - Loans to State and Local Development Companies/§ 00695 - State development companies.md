@@ -42,7 +42,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 &emsp;&emsp;(J) increased use of sustainable design, including designs that reduce the use of greenhouse gas emitting fossil fuels, or low-impact design to produce buildings that reduce the use of non-renewable resources and minimize environmental impact,
 
-&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as thesmall-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
+&emsp;&emsp;(K) plant, equipment and process upgrades of renewable energy sources such as the small-scale production of energy for individual buildings or communities consumption, commonly known as micropower, or renewable fuels producers including biodiesel and ethanol producers, or
 
 &emsp;&emsp;(L) reduction of rates of unemployment in labor surplus areas, as such areas are determined by the Secretary of Labor.
 
@@ -54,7 +54,7 @@ In order to qualify for assistance under this subchapter, the development compan
 
 (1) A project meets the objective set forth in subsection (d)(1) if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
 
-(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
+(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one jobfor every $65,000 guaranteed by the Administration.
 
 (3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
 

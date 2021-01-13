@@ -4,7 +4,7 @@
 
 In General.—Notwithstanding any other provision of law, neither the Administrator of the Federal Aviation Administration, nor any agency receiving information from the Administrator, shall disclose voluntarily-provided safety or security related information if the Administrator finds that—
 
-&emsp;(1) the disclosure of the information would inhibit the voluntary provision of that type of information and that the receipt of that type of information aids in fulfilling the Administrator's safety and security responsibilities; and
+&emsp;(1) the disclosure of the information would inhibit the voluntary provision of that type ofinformation and that the receipt of that type of information aids in fulfilling the Administrator's safety and security responsibilities; and
 
 &emsp;(2) withholding such information from disclosure would be consistent with the Administrator's safety and security responsibilities.
 

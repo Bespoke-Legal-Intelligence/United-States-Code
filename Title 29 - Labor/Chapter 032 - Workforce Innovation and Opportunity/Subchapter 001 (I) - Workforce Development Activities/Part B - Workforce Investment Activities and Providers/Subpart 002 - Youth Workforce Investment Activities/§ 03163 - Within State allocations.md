@@ -72,7 +72,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be used for the administrative costs of any of the local workforce investment activities described in this subpart or subpart 3, regardless of whether the funds were allocated under this subsection or section 3173(b) of this title.
+&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be usedfor the administrative costs of any of the local workforce investment activities described in this subpart or subpart 3, regardless of whether the funds were allocated under this subsection or section 3173(b) of this title.
 
 #### (c) Reallocation among local areas
 
@@ -94,11 +94,41 @@
 
 (Pub. L. 113–128, title I, §128, July 22, 2014, 128 Stat. 1502.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+
+#### Workforce Response Activities
+
+Pub. L. 116–136, div. A, title III, §3515, Mar. 27, 2020, 134 Stat. 407, provided that:
+
+"(a)
+
+Administrative Costs.—Notwithstanding section 128(b)(4) of the Workforce Innovation \[and\] Opportunity Act (29 U.S.C. 3163(b)(4)), of the total amount allocated to a local area (including the total amount allotted to a single State local area) under subtitle B of title I of such Act (29 U.S.C. 3151 et seq.) for program year 2019, not more than 20 percent of the total amount may be used for the administrative costs of carrying out local workforce investment activities under chapter 2 \[29 U.S.C. 3161 et seq.\] or chapter 3 \[29 U.S.C. 3171 et seq.\] of subtitle B of title I of such Act, if the portion of the total amount that exceeds 10 percent of the total amount is used to respond to a qualifying emergency.
+
+"(b)
+
+Rapid Response Activities.—
+
+&emsp;"(1)
+
+Statewide rapid response.—Of the funds reserved by a Governor for program year 2019 for statewide activities under section 128(a) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3163(a)) that remain unobligated, such funds may be used for statewide rapid response activities as described in section 134(a)(2)(A) of such Act (29 U.S.C. 3174(a)(2)(A)) for responding to a qualifying emergency.
+
+&emsp;"(2)
+
+Local boards.—Of the funds reserved by a Governor for program year 2019 under section 133(a)(2) of such Act (29 U.S.C. 3173(a)(2)) that remain unobligated, such funds may be released within 30 days after the date of enactment of this Act \[Mar. 27, 2020\] to the local boards most impacted by the coronavirus at the determination of the Governor for rapid response activities related to responding to a qualifying emergency.
+
+"(c)
+
+Definitions.—Except as otherwise provided, the terms in this section have the meanings given the terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)."
+
+\[For definitions of "qualifying emergency" and "coronavirus" as used in section 3515 of Pub. L. 116–136, set out above, see section 3502 of Pub. L. 116–136, set out in a note under section 1001 of Title 20, Education.\]
 

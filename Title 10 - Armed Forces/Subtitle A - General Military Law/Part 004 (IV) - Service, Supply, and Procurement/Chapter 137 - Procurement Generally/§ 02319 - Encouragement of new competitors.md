@@ -10,7 +10,7 @@
 
 &emsp;(3) specify an estimate of the costs of testing and evaluation likely to be incurred by a potential offeror in order to become qualified;
 
-&emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursable basis, a prompt opportunity to demonstrateits ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
+&emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursable basis, a prompt opportunity to demonstrate its ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
 
 &emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources and who shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
 
@@ -22,7 +22,7 @@
 
 (B) The waiver authority provided in this paragraph does not apply with respect to a qualified products list.
 
-(3) A potential offeror may not be denied the opportunity to submit and have considered an offer for a contract solely because the potential offeror (A) is not on a qualified bidders list, qualified manufacturers list, or qualified products list, or (B) has not been identified as meeting a qualification requirement established after October 19, 1984, if the potential offeror can demonstrate to the satisfaction of the contracting officer (or, in the case of a contract for the procurement of an aviation critical safety item or ship critical safety item, the head of the design control activity for such item) that the potential offeror or its product meets the standards established for qualification or can meet such standards before the date specified for award of the contract.
+(3) A potential offeror may not be denied the opportunity to submit and have considered an offer for a contract solely because the potentialofferor (A) is not on a qualified bidders list, qualified manufacturers list, or qualified products list, or (B) has not been identified as meeting a qualification requirement established after October 19, 1984, if the potential offeror can demonstrate to the satisfaction of the contracting officer (or, in the case of a contract for the procurement of an aviation critical safety item or ship critical safety item, the head of the design control activity for such item) that the potential offeror or its product meets the standards established for qualification or can meet such standards before the date specified for award of the contract.
 
 (4) Nothing contained in this subsection requires the referral of an offer to the Small Business Administration pursuant to section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)) if the basis for the referral is a challenge by the offeror to either the validity of the qualification requirement or the offeror's compliance with such requirement.
 
@@ -54,6 +54,10 @@ Definitions.—In this section:
 
 (Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541; Pub. L. 109–364, div. A, title I, §130(d), Oct. 17, 2006, 120 Stat. 2110.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1813(d), Jan. 1, 2021, 134 Stat. 4151, 4179, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, inserted after section 3242, and redesignated as section 3243 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(3). Pub. L. 109–364, §130(d)(1), inserted "or ship critical safety item" after "aviation critical safety item".
@@ -71,6 +75,10 @@ Subsec. (c)(1), (3). Pub. L. 100–26, §7(i)(4), substituted "October 19, 1984,
 Subsec. (c)(4). Pub. L. 100–26, §7(d)(5)(A), inserted "(15 U.S.C. 637(b)(7))" after "Small Business Act".
 
 Subsec. (d)(2). Pub. L. 100–26, §7(d)(5)(B), inserted "(15 U.S.C. 632)" after "Small Business Act".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

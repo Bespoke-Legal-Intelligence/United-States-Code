@@ -10,11 +10,11 @@ The Administrator may withhold, condition, or restrict the making of any grant f
 
 &emsp;(1) such treatment works will not comply with applicable standards under section 7411 or 7412 of this title,
 
-&emsp;(2) the State does not have in effect, or is not carrying out, a State implementation plan approved by the Administrator which expressly quantifies and provides for the increase in emissions of each air pollutant (from stationary and mobile sources in any area to which either part C or part D of subchapter I applies for such pollutant) which increase may reasonably be anticipated to result directly or indirectly from the new sewage treatment capacity which would be created by such construction.<sup>1</sup>
+&emsp;(2) the State does not have in effect, or is not carrying out, a State implementation plan approved by the Administrator which expressly quantifies and provides for the increase in emissions of each air pollutant (from stationary and mobile sources in any area to which either part C or part D of subchapter Iapplies for such pollutant) which increase may reasonably be anticipated to result directly or indirectly from the new sewage treatment capacity which would be created by such construction.<sup>1</sup>
 
 &emsp;(3) the construction of such treatment works would create new sewage treatment capacity which—
 
-&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase providedfor under the provisions referred to in paragraph (2) for any such area, or
+&emsp;&emsp;(A) may reasonably be anticipated to cause or contribute to, directly or indirectly, an increase in emissions of any air pollutant in excess of the increase provided for under the provisions referred to in paragraph (2) for any such area, or
 
 &emsp;&emsp;(B) would otherwise not be in conformity with the applicable implementation plan, or
 

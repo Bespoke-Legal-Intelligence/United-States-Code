@@ -50,7 +50,7 @@ Exemption from criminal prosecution.—The Corporation shall be exempt from all 
 
 #### (5) Maximum amount limitation on outstanding obligations
 
-&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue orincur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of—
+&emsp;Notwithstanding any other provisions of this chapter, the Corporation may not issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of obligations of the Deposit Insurance Fund, outstanding would exceed the sum of—
 
 &emsp;&emsp;(A) the amount of cash or the equivalent of cash held by the Deposit Insurance Fund;
 
@@ -84,6 +84,8 @@ The full faith and credit of the United States is pledged to the payment of any 
 
 (Sept. 21, 1950, ch. 967, §2\[15\], 64 Stat. 890; Pub. L. 101–73, title II, §219, Aug. 9, 1989, 103 Stat. 261; Pub. L. 102–242, title I, §102(a), (c), Dec. 19, 1991, 105 Stat. 2236, 2237; Pub. L. 103–325, title VI, §602(a)(43), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(R), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(25), Feb. 15, 2006, 119 Stat. 3614; Pub. L. 109–351, title VII, §720(a), Oct. 13, 2006, 120 Stat. 1998.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code, referred to in subsecs. (a) and (b), is classified to Title 26, Internal Revenue Code.
@@ -113,6 +115,8 @@ obligations liabilities" in heading.
 Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided for calculation of net worth and asset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73 designated existing provision as subsec. (a), inserted heading, and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

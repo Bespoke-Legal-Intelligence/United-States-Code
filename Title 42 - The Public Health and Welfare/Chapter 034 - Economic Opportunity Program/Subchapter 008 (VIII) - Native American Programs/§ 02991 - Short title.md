@@ -18,7 +18,7 @@ Pub. L. 109–394, §1, Dec. 14, 2006, 120 Stat. 2705, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–361, §1, Nov. 10, 1998, 112 Stat. 3278, provided that: "This Act \[amending sections 2991b–1 and2992d of this title\] may be cited as the 'Native American Programs Act Amendments of 1998'."
+Pub. L. 105–361, §1, Nov. 10, 1998, 112 Stat. 3278, provided that: "This Act \[amending sections 2991b–1 and 2992d of this title\] may be cited as the 'Native American Programs Act Amendments of 1998'."
 
 #### Short Title of 1992 Amendments
 

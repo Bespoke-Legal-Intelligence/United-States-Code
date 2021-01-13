@@ -30,9 +30,11 @@ Funding options.—In carrying out a contract under this subchapter, a Federal a
 
 Promotion of contracts.—In carrying out this section, a Federal agency shall not—
 
-&emsp;(i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years; or
+&emsp;(i) establish a Federal agency policy that limits the maximum contract term under subparagraph (D) to a period shorter than 25 years;
 
-&emsp;(ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures.
+&emsp;(ii) limit the total amount of obligations under energy savings performance contracts or other private financing of energy savings measures; or
+
+&emsp;(iii) limit the recognition of operation and maintenance savings associated with systems modernized or replaced with the implementation of energy conservation measures, water conservation measures, or any combination of energy conservation measures and water conservation measures.
 
 (G)
 
@@ -45,6 +47,18 @@ In general.—In the case of energy savings performance contracts, the evaluatio
 &emsp;(ii)
 
 Modification of existing contracts.—Not later than 18 months after December 19, 2007, each Federal agency shall, to the maximum extent practicable, modify any indefinite delivery and indefinite quantity energy savings performance contracts, and other indefinite delivery and indefinite quantity contracts using private financing, to conform to the amendments made by subtitle B of title V of the Energy Independence and Security Act of 2007.
+
+(H)
+
+Miscellaneous authority.—Notwithstanding subtitle I of title 40, a Federal agency may accept, retain, sell, or transfer, and apply the proceeds of the sale or transfer of, any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate) to fund a contract under this subchapter.
+
+(I)
+
+Excluded contracts.—A contract entered into under this subchapter may not be for work performed—
+
+&emsp;(i) at a Federal hydroelectric facility that provides power marketed by a Power Marketing Administration; or
+
+&emsp;(ii) at a hydroelectric facility owned and operated by the Tennessee Valley Authority established under the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831 et seq.).
 
 #### (b) Implementation
 
@@ -70,7 +84,7 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 &emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
-&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
+&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the proceduresand methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
@@ -104,11 +118,13 @@ Modification of existing contracts.—Not later than 18 months after December 19
 
 (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422.)
 
 #### References in Text
 
 The Energy Independence and Security Act of 2007, referred to in subsec. (a)(2)(G)(ii), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle B of title V of the Act enacted part A (§17131) of subchapter IV of chapter 152 of this title and amended this section and sections 8256, 8258, and 8287c of this title and section 2913 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of this title and Tables.
+
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (a)(2)(I)(ii), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### Codification
 
@@ -122,11 +138,15 @@ In subsec. (c)(2), "section 4106(d) of title 41" substituted for "section 303J(d
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(2)(F)(iii). Pub. L. 116–260, §1002(c), added cl. (iii).
+
+Subsec. (a)(2)(H), (I). Pub. L. 116–260, §1002(d), added subpars. (H) and (I).
+
 <b>2011</b>—Subsec. (c). Pub. L. 111–383 added subsec. (c).
 
 <b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted "beginning on the date of the delivery order" after "25 years" in introductory provisions.
 
-Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and".
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "30 days before the award of anysuch contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and".
 
 Subsec. (a)(2)(E). Pub. L. 110–140, §512, added subpar. (E).
 
@@ -166,7 +186,7 @@ Pub. L. 103–211, title III, §402, Feb. 12, 1994, 108 Stat. 40, provided that:
 
 #### Review
 
-Pub. L. 108–375, div. A, title X, §1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that: "Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Energy shall complete a review of the Energy Savings Performance Contract program to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program. In addition, this review shall identify all areas for increasing program flexibility and effectiveness, including audit and measurement verification requirements, accounting for energy use in determining savings, contracting requirements, including the identification of additional qualified contractors, and energy efficiency services covered. The Secretary shall report these findings to Congress and shall implement identified administrative and regulatory changes to increase program flexibility and effectiveness to the extent that such changes are consistent with statutory authority."
+Pub. L. 108–375, div. A, title X, §1090(f), Oct. 28, 2004, 118 Stat. 2068, provided that, not later than 180 days after Oct. 28, 2004, the Secretary of Energy was to complete a review, and report its findings to Congress, of the Energy Savings Performance Contract program, which was to identify statutory, regulatory, and administrative obstacles that prevent Federal agencies from fully utilizing the program.
 
 #### Extension of Authority
 

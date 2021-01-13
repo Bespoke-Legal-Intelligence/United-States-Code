@@ -78,11 +78,11 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;It is the sense of Congress that for fiscal year 2011 and each fiscal year thereafter—
 
-&emsp;&emsp;&emsp;(i) amounts appropriated to a FLAME Fund in excess of the amount estimated by the Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i) should be designated as amounts necessary to meet emergency needs;
+&emsp;&emsp;&emsp;(i) amounts appropriated to a FLAME Fund in excess of the amount estimated bythe Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i) should be designated as amounts necessary to meet emergency needs;
 
 &emsp;&emsp;&emsp;(ii) the Secretary concerned should promptly make a supplemental request for additional funds to replenish the FLAME Fund if the Secretary determines that the FLAME Fund will be exhausted within 30 days; and
 
-&emsp;&emsp;&emsp;(iii) funding made available through the FLAME Fund should be used to supplement the funding otherwise appropriatedto the Secretary concerned for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts.
+&emsp;&emsp;&emsp;(iii) funding made available through the FLAME Fund should be used to supplement the funding otherwise appropriated to the Secretary concerned for wildfire suppression and Federal emergency response in the Wildland Fire Management appropriation accounts.
 
 #### (3) Availability
 
@@ -181,6 +181,8 @@ The Secretary concerned may not transfer funds from non-fire accounts to the Wil
 The authority of the Secretary concerned to use the FLAME Fund established for that Secretary shall terminate at the end of the third fiscal year in which no appropriations to, or withdrawals from, that FLAME Fund have been made for a period of three consecutive fiscal years. Upon termination of such authority, any amounts remaining in the affected FLAME Fund shall be transferred to, and made a part of, the Wildland Fire Management appropriation account of the Secretary concerned for wildland suppression activities.
 
 (Pub. L. 111–88, div. A, title V, §502, Oct. 30, 2009, 123 Stat. 2968.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

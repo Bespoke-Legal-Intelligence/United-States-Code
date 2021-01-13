@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–35, §4(b), July 30, 2019, 133 Stat. 1047, added item 21704A.

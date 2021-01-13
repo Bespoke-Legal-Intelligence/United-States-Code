@@ -24,6 +24,8 @@ If the Attorney General determines at any time that a declaration is invalid und
 
 (Pub. L. 101–647, title XXV, §2579, Nov. 29, 1990, 104 Stat. 4900; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".

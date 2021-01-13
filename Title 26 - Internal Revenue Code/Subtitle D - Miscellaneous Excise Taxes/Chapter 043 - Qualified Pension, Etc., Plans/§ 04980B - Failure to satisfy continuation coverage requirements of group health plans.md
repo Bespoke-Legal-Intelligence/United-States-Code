@@ -106,7 +106,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (5) Waiver by Secretary
 
-&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, theSecretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
+&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive relative to the failure involved.
 
 #### (d) Tax not to apply to certain plans
 
@@ -230,7 +230,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(ii) may, at the election of the payor, be made in monthly installments.
 
-> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" isdeemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
+> &emsp;&emsp;In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage. In the case of an individual described in the last sentence of subparagraph (B)(i), any reference in clause (i) of this subparagraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in subclause (I) or (II) of subparagraph (B)(i).
 
 #### (D) No requirement of insurability
 
@@ -314,7 +314,7 @@ This section shall not apply to—
 
 #### (B) Effect of election on other beneficiaries
 
-&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any otherqualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
+&emsp;&emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of subsection (g)(1) shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
 
 #### (C) Temporary extension of COBRA election period for certain individuals
 
@@ -374,7 +374,7 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of thecovered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
@@ -446,7 +446,7 @@ For purposes of this section—
 
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I),\(5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(i)(V), (iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2704(c)(2) of the Act is classified to section 300gg–3(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -508,7 +508,7 @@ Pub. L. 101–239, §7891(d)(1)(B)(i)(II), inserted "(or, in the case of a group
 
 Subsec. (f)(6)(B). Pub. L. 101–239, §7891(d)(1)(B)(i)(I), inserted "(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)" after "30 days".
 
-Subsec. (f)(6)(C). Pub. L. 101–239, §6701(c), inserted before period at end "and each qualified beneficiary whois determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B) is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled".
+Subsec. (f)(6)(C). Pub. L. 101–239, §6701(c), inserted before period at end "and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B) is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled".
 
 Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted "the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1))" for "the individual's employment or previous employment with an employer".
 
@@ -574,9 +574,9 @@ Section applicable to taxable years beginning after Dec. 31, 1988, but not appli
 
 #### Construction of 2002 Amendment
 
-Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creatingnew mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
 
 #### Notification of Changes in Continuation Coverage
 
-Pub. L. 104–191, title IV, §421(e), Aug. 21, 1996, 110 Stat. 2089, provided that: "Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\]."
+Pub. L. 104–191, title IV, §421(e), Aug. 21, 1996, 110 Stat. 2089, provided that: "Not later than November 1,1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\]."
 

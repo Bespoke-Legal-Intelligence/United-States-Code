@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary, consistent with section 1665a of this title, acting through the Service, Indian Tribes, and Tribal Organizations, is authorized to establish and operate fetal alcohol spectrum disorders programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602 of this title.
+&emsp;The Secretary, consistent with section 1665a of this title, acting through the Service, Indian Tribes, and Tribal Organizations, is authorized to establish and operate fetal alcohol spectrum disorders programs as provided in this section for the purposes of meeting thehealth status objectives specified in section 1602 of this title.
 
 #### (2) Use of funds
 
@@ -59,6 +59,8 @@ The Secretary, acting through the Substance Abuse and Mental Health Services Adm
 Ten percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian Organizations funded under subchapter IV.
 
 (Pub. L. 94–437, title VII, §712, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

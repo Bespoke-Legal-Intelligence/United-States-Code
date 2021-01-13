@@ -26,17 +26,27 @@ In this chapter:
 
 &emsp;(4) The terms "State" and "local government" have the meaning given those terms in section 6302 of title 31.
 
-(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, §101(c) \[title X, §956(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, §841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, §701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, §1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511.)
+(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, §101(c) \[title X, §956(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, §841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, §701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, §1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511; Pub. L. 116–283, div. A, title XVIII, §1872(a)(3)(A), Jan. 1, 2021, 134 Stat. 4288.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1872(a)(3)(A), Jan. 1, 2021, 134 Stat. 4151, 4288, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by transferring the text of this section to section 4951 of this title, inserting it after subsection (a), and redesignating it as subsection (b). See 2021 Amendment note below.</i>
 
 #### Amendment of Paragraph (3)
 
-<i>Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511, provided that, effective Oct. 1, 2021, paragraph (3) of this section is amended by striking "Director of the Defense Logistics Agency" and inserting "Under Secretary of Defense for Acquisition and Sustainment". See 2019 Amendment note below.</i>
+<i>Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511, as amended by Pub. L. 116–283, div. A, title XVIII, §1872(a)(3)(B), Jan.</i><i>1, 2021, 134 Stat. 4288, provided that, effective Oct. 1, 2021, paragraph (3) of this section is amended by striking "Director of the Defense Logistics Agency" and inserting "Under Secretary of Defense for Acquisition and Sustainment". See 2019 Amendment note below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1872(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4289, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 transferred the text of this section to section 4951 of this title, inserted it after subsec. (a), and redesignated it as subsec. (b).
 
 <b>2019</b>—Par. (3). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Director of the Defense Logistics Agency".
 
@@ -62,9 +72,19 @@ Par. (2). Pub. L. 100–180, §807(b)(2), substituted "means—" for "means", de
 
 &emsp;"(2) 'Secretary' means the Secretary of Defense acting through the Director of the Defense Logistics Agency."
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511, provided that the amendment made by section 852(a) is effective on Oct. 1, 2021.
+Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511, as amended by Pub. L. 116–283, div. A, title XVIII, §1872(a)(3)(B), Jan. 1, 2021, 134 Stat. 4288, provided that the amendment made by section 852(a) is effective on Oct. 1, 2021.
+
+\[Pub. L. 116–283, div. A, title XVIII, §1872(a)(3)(B), Jan. 1, 2021, 134 Stat. 4288, provided in part that the technical amendment made by section 1872(a)(3)(B) to section 852(a) of Pub. L. 116–92, set out above, should not be made if the effective date of such section 1872(a)(3)(B) is after Oct. 1, 2021. Section 1872(a)(3)(B) of Pub. L. 116–283 is effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.\]
 
 #### Effective Date of 1985 Amendment
 

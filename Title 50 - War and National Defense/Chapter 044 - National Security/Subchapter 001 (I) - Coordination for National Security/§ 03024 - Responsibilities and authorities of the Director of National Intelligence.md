@@ -42,7 +42,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (B) Notwithstanding any other provision of law, pursuant to relevant appropriations Acts for the National Intelligence Program, the Director of the Office of Management and Budget shall exercise the authority of the Director of the Office of Management and Budget to apportion funds, at the exclusive direction of the Director of National Intelligence, for allocation to the elements of the intelligence community through the relevant host executive departments and the Central Intelligence Agency. Department comptrollers or appropriate budget execution officers shall allot, allocate, reprogram, or transfer funds appropriated for the National Intelligence Program in an expeditious manner.
 
-(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that are part of the National Intelligence Program, which may include audits and evaluations.
+(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that arepart of the National Intelligence Program, which may include audits and evaluations.
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and section 1517 of title 31 and the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.).
 
@@ -54,7 +54,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (1)(A) No funds made available under the National Intelligence Program may be transferred or reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
 
-(B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds madeavailable under the Military Intelligence Program or any successor program or programs.
+(B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds made available under the Military Intelligence Program or any successor program or programs.
 
 (2) Subject to the succeeding provisions of this subsection, the Director of National Intelligence may transfer or reprogram funds appropriated for a program within the National Intelligence Program—
 
@@ -180,7 +180,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (3)(A) The Director of National Intelligence shall prescribe, in consultation with the heads of other agencies or elements of the intelligence community, and the heads of their respective departments, personnel policies and programs applicable to the intelligence community that—
 
-&emsp;(i) encourage and facilitate assignments and details of personnel to national intelligencecenters, and between elements of the intelligence community;
+&emsp;(i) encourage and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community;
 
 &emsp;(ii) set standards for education, training, and career development of personnel of the intelligence community;
 
@@ -348,7 +348,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (1) In carrying out the responsibilities and authorities under this section, the Director of National Intelligence may exercise the acquisition and appropriations authorities referred to in the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3501 et seq.\] other than the authorities referred to in section 8(b) of that Act \[50 U.S.C. 3510(b)\].
 
-(2) For the purpose of the exercise of any authority referred to in paragraph (1), a referenceto the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
+(2) For the purpose of the exercise of any authority referred to in paragraph (1), a reference to the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
 
 (3)(A) Any determination or decision to be made under an authority referred to in paragraph (1) by the head of an agency may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final.
 
@@ -496,7 +496,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(1) ensure that—
 
-&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
+&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by theDirector of National Intelligence for intelligence community networks; and
 
 &emsp;&emsp;(B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
 
@@ -514,7 +514,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 (2) In this subsection, the term "fundraising" means the raising of funds through the active participation in the promotion, production, or presentation of an event designed to raise funds and does not include the direct solicitation of money by any other means.
 
-(3) Not later than 7 days after the date the Director engages in fundraising authorized by thissubsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
+(3) Not later than 7 days after the date the Director engages in fundraising authorized by this subsection or at the time the decision is made to participate in such fundraising, the Director shall notify the congressional intelligence committees of such fundraising.
 
 (4) The Director, in consultation with the Director of the Office of Government Ethics, shall issue regulations to carry out the authority provided in this subsection. Such regulations shall ensure that such authority is exercised in a manner that is consistent with all relevant ethical constraints and principles, including the avoidance of any prohibited conflict of interest or appearance of impropriety.
 
@@ -552,7 +552,7 @@ In subsec. (q)(4)(B), "section 109 of title 41" substituted for "section 4(9) of
 
 #### Prior Provisions
 
-A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11, 1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 3035 of this title.
+A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11,1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 3035 of this title.
 
 Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub. L. 98–215, title IV, §403, Dec. 9, 1983, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
@@ -576,7 +576,7 @@ Subsec. (z). Pub. L. 115–31, §402, added subsec. (z).
 
 Subsec. (v)(3), (4). Pub. L. 114–113, §105(a), added par. (3) and redesignated former par. (3) as (4).
 
-<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) readas follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
+<b>2014</b>—Subsec. (g)(4). Pub. L. 113–126, §329(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Not later than February 1 of each year, the Director of National Intelligence shall submit to the President and to the Congress an annual report that identifies any statute, regulation, policy, or practice that the Director believes impedes the ability of the Director to fully and effectively implement paragraph (1)."
 
 Subsec. (j). Pub. L. 113–126, §501(1), substituted "classified information" for "sensitive compartmented information" in heading.
 
@@ -636,7 +636,7 @@ Pub. L. 116–92, div. E, title LVII, §5723, Dec. 20, 2019, 133 Stat. 2177, pro
 
 "(a)
 
-Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency, shall carry out a program to award prizes competitively to stimulate research and development relevant to fifth-generation technology.
+Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency \[probably should be "Activity"\], shall carry out a program to award prizes competitively to stimulate research and development relevant to fifth-generation technology.
 
 "(b)
 
@@ -656,7 +656,7 @@ Pub. L. 116–92, div. E, title LVII, §5724, Dec. 20, 2019, 133 Stat. 2177, pro
 
 "(a)
 
-Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency, shall carry out a program to award prizes competitively to stimulate the research, development, or commercialization of technologies to automatically detect machine-manipulated media.
+Prize Competition.—Pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719), the Director of National Intelligence, acting through the Director of the Intelligence Advanced Research Projects Agency \[probably should be "Activity"\], shall carry out a program to award prizes competitively to stimulate the research, development, or commercialization of technologies to automatically detect machine-manipulated media.
 
 "(b)
 
@@ -682,7 +682,7 @@ In General.—The Director of National Intelligence and the Director of the Fede
 
 &emsp;&emsp;"(A) hostile foreign governments; and
 
-&emsp;&emsp;"(B) individuals who have violated a criminal law of the United States or of any State, or who havecommitted acts that would be a criminal violation if committed within the jurisdiction of the United States or any State; and
+&emsp;&emsp;"(B) individuals who have violated a criminal law of the United States or of any State, or who have committed acts that would be a criminal violation if committed within the jurisdiction of the United States or any State; and
 
 &emsp;"(2) when appropriate, develop countermeasures against such International Mobile Subscriber Identity-catchers, with prioritization given to such International Mobile Subscriber Identity-catchers identified in the National Capital Region.
 
@@ -856,7 +856,7 @@ Implementation.—Not later than 180 days after the date of the enactment of thi
 
 #### Reports and Briefings on National Security Effects of Global Water Insecurity and Emerging Infectious Disease and Pandemics
 
-Pub. L. 116–92, div. E, title LXVII, §6722, Dec. 20, 2019, 133 Stat. 2232, provided that:
+Pub. L. 116–92, div. E, title LXVII, §6722, Dec. 20, 2019, 133 Stat. 2232, as amended by Pub. L. 116–260, div. W, title VI, §622, Dec. 27, 2020, 134 Stat. 2404, provided that:
 
 "(a)
 
@@ -926,13 +926,13 @@ Examination of response capacity.—In examining the risks, costs, and impacts o
 
 &emsp;&emsp;&emsp;"(i) the ability of affected nations to effectively detect and manage emerging infectious diseases and a possible transnational pandemic;
 
-&emsp;&emsp;&emsp;"(ii) the role and capacity of international organizations and nongovernmental organizations to respond to emerging infectious disease and apossible pandemic, and their ability to coordinate with affected and donor nations; and
+&emsp;&emsp;&emsp;"(ii) the role and capacity of international organizations and nongovernmental organizations to respond to emerging infectious disease and a possible pandemic, and their ability to coordinate with affected and donor nations; and
 
 &emsp;&emsp;&emsp;"(iii) the effectiveness of current international frameworks, agreements, and health systems to respond to emerging infectious diseases and a possible transnational pandemic.
 
 &emsp;"(2)
 
-Quinquennial briefings.—Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter, the Director shall provide to the congressional intelligence committees a briefing that updates the matters contained in the report.
+Annual briefings.—Not later than January 31, 2021, and annually thereafter, the Director shall provide to the congressional intelligence committees a briefing that updates the matters contained in the report required under paragraph (1).
 
 &emsp;"(3)
 
@@ -947,6 +947,8 @@ Appropriate congressional committees defined.—In this subsection, the term 'ap
 &emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;&emsp;"(C) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate."
+
+\[Pub. L. 116–260, §622(a)(2), which directed substitution of "not later than January 31, 2021, and annually thereafter" for "beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter" was executed by substituting "Not later than January 31, 2021, and annually thereafter" for "Beginning on the date that is 5 years after the date on which the Director submits the report under paragraph (1), and every 5 years thereafter" to reflect the probable intent of Congress.\]
 
 \[For definitions of "congressional intelligence committees" and "intelligence community" as used in section 6722 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
 
@@ -1098,7 +1100,7 @@ In General.—The Director of National Intelligence shall establish a formal rel
 
 "(b)
 
-Purpose.—The purpose of the relationship under subsection (a) shall be to permit the intelligence community to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center, particularly vulnerability and consequence analysis, for real time response to reported threats and long term planning for projected threats."
+Purpose.—The purpose of the relationship under subsection (a) shall be to permit the intelligence community to take full advantage of the capabilities of theNational Infrastructure Simulation and Analysis Center, particularly vulnerability and consequence analysis, for real time response to reported threats and long term planning for projected threats."
 
 #### Pilot Program on Analysis of Signals and Other Intelligence by Intelligence Analysts of Various Elements of the Intelligence Community
 
@@ -1130,7 +1132,7 @@ Survey of Current Standards.—
 
 &emsp;"(1)
 
-Survey.—The Director of Central Intelligence shall carry out a survey of current standards for thespelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
+Survey.—The Director of Central Intelligence shall carry out a survey of current standards for the spelling of foreign names and places, and the use of geographic coordinates for such places, among the elements of the intelligence community.
 
 &emsp;"(2)
 

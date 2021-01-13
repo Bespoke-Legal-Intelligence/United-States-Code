@@ -16,7 +16,7 @@
 
 &emsp;(2) cannot be brought in for adjudication because of its condition.
 
-(c) The jurisdiction conferred by this section of prizes brought into the territorial waters of a cobelligerent may not be exercised, nor may prizes be appropriated for the use of the United States within those territorial waters, unless the government having jurisdiction over those waters consents to the exercise of the jurisdiction or to the appropriation.
+(c) The jurisdiction conferred by this section of prizes brought into the territorial waters of acobelligerent may not be exercised, nor may prizes be appropriated for the use of the United States within those territorial waters, unless the government having jurisdiction over those waters consents to the exercise of the jurisdiction or to the appropriation.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 474, §7652; Pub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; renumbered §8852, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 

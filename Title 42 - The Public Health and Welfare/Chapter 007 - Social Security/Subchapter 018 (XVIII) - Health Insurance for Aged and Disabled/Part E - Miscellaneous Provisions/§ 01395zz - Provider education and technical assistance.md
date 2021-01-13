@@ -54,7 +54,7 @@ Nothing in this section or section 1395ddd(g) of this title shall be construed a
 
 For purposes of this section, the term "medicare contractor" includes the following:
 
-&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with acontract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
+&emsp;(1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
 
 &emsp;(2) An eligible entity with a contract under section 1395ddd of this title.
 
@@ -78,7 +78,7 @@ Subsecs. (e) to (g). Pub. L. 108–173, §921(f)(1), added subsecs. (e) to (g).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §921(d)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2004."
+Pub. L. 108–173, title IX, §921(d)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect on October 1, 2004."
 
 Pub. L. 108–173, title IX, §921(e)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2004."
 

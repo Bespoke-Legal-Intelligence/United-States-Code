@@ -1,6 +1,8 @@
 ### §1437. Repealed. Pub. L. 101–73, title VII, §703(a), Aug. 9, 1989, 103 Stat. 415
 
-Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I \[title VII, §702(b)\], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
+Section, acts July 22, 1932, ch. 522, §17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, §127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, §8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I \[title VII, §702(b)\], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions, Personnel, and Property of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board
 
@@ -98,7 +100,7 @@ Reimbursement.—The reimbursement required under paragraph (1) with respect to 
 
 &emsp;"(3)
 
-Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savingsand Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
+Agency services.—Any agency, department, or other instrumentality of the United States (including any Federal home loan bank), and any successor to any such agency, department, or instrumentality, which was providing supporting services to the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation before the enactment of this Act \[Aug. 9, 1989\] in connection with functions that are transferred to the Office of Thrift Supervision, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Federal Housing Finance Board shall—
 
 &emsp;&emsp;"(A) continue to provide such services, on a reimbursable basis, until the transfer of such functions is complete; and
 
@@ -190,7 +192,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;"(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;"(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shallbe applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;"(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit InsuranceCorporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;"(4)
 
@@ -282,7 +284,7 @@ Allocation of employees.—The Director of the Office of Thrift Supervision, the
 
 "(c)
 
-Federal Home Loan Bank Personnel.—Employees of the Federal home loan banks or the joint offices of such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing functions or activities on behalf of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation shall be treated as employees of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for purposes of determining, pursuant to subsection (b)(1), the number of employees performing or supporting functions or activities of such Board or Corporation to the extent such functions or activities are transferred to the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, the Resolution Trust Corporation, or the Federal Housing Finance Board.
+Federal Home Loan Bank Personnel.—Employees of the Federal home loan banks or the joint officesof such banks who, on the day before the date of the enactment of this Act \[Aug. 9, 1989\], are performing functions or activities on behalf of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation shall be treated as employees of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation for purposes of determining, pursuant to subsection (b)(1), the number of employees performing or supporting functions or activities of such Board or Corporation to the extent such functions or activities are transferred to the Federal Deposit Insurance Corporation, the Office of Thrift Supervision, the Resolution Trust Corporation, or the Federal Housing Finance Board.
 
 "(d)
 
@@ -392,7 +394,7 @@ Principal Supervisory Agent.—Beginning on the date of enactment of this Act \[
 
 #### Special Account
 
-Pub. L. 101–73, title VII, §725, Aug. 9, 1989, 103 Stat. 429, provided that: "At the time of dissolution of theFederal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board."
+Pub. L. 101–73, title VII, §725, Aug. 9, 1989, 103 Stat. 429, provided that: "At the time of dissolution of the Federal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board."
 
 #### Improvements in Supervisory Process
 
@@ -490,7 +492,7 @@ Pub. L. 100–86, title IV, §415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 "(a)
 
-Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
+Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
 
 "(b)
 

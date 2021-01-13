@@ -118,7 +118,7 @@
 
 &emsp;(C) take any other actions necessary to carry out the purpose of this section.
 
-(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits or accepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee inany amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
+(h) The Attorney General may bring a civil action in any district court of the United States against any employee who knowingly solicits or accepts a gift from a foreign government not consented to by this section or who fails to deposit or report such gift as required by this section. The court in which such action is brought may assess a penalty against such employee in any amount not to exceed the retail value of the gift improperly solicited or received plus $5,000.
 
 (i) The President shall direct all Chiefs of a United States Diplomatic Mission to inform their host governments that it is a general policy of the United States Government to prohibit United States Government employees from receiving gifts or decorations of more than minimal value.
 
@@ -174,6 +174,8 @@ In subsection (c), the words "under regulations prescribed under this section" a
 
 In subsection (e), the words "The President may prescribe regulations to carry out the purpose of this section" are substituted for "Rules and regulations to carry out the purposes of this Act may be prescribed by or under the authority of the President". Under 3 U.S.C. 301, the President may delegate the authority vested in him by this subsection.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 152 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(G), is classified to section 152 of Title 26, Internal Revenue Code.
@@ -212,7 +214,7 @@ Subsec. (d). Pub. L. 95–426, §712(b)(2), substituted "official use, for forwa
 
 Subsec. (e). Pub. L. 95–426, §712(c), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), gifts" for "Gifts", "(A)" and "(B)" for "(1)" and "(2)", respectively, and added par. (2).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of "employee" to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangiblepresent for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
+<b>1977</b>—Subsec. (a). Pub. L. 95–105 in par. (1) inserted provisions expanding definition of "employee" to include an officer or employee of the United States Postal Service or Postal Rate Commission, certain experts and consultants, the Vice President, and any Delegate to Congress, in par. (2) incorporated existing provisions into subpars. (A) and (C) and added subpar. (B), in par. (3) substituted reference to tangible or intangible present for reference to present, in par. (4) inserted reference to award, and added pars. (5) and (6).
 
 Subsec. (b). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 
@@ -223,6 +225,8 @@ Subsec. (d). Pub. L. 95–105 struck out provisions requiring the Secretary of S
 Subsec. (e). Pub. L. 95–105 substituted provisions relating to the disposal of decorations for provisions authorizing the President to prescribe regulations to carry out the purposes of this section.
 
 Subsecs. (f) to (k). Pub. L. 95–105 added subsecs. (f) to (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -249,6 +253,8 @@ Pub. L. 95–426, title VII, §712(d), Oct. 7, 1978, 92 Stat. 995, provided that
 #### Wearing of Certain Decorations
 
 Act Aug. 10, 1956, ch. 1041, §33A, 70 Stat. 1126, as added by Pub. L. 85–861, Sept. 2, 1958, §33(e), 72 Stat. 1567, provided: "A member or former member of an armed force of the United States holding any office of profit or trust under the United States may wear any decoration, order, medal, or emblem accepted (1) under the Act of July 20, 1942, chapter 508 (56 Stat. 662), or (2) before August 1, 1947, from the government of a cobelligerent or neutral nation or an American Republic."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11320
 

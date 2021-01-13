@@ -172,9 +172,7 @@ As used in this subchapter:
 
 (Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(1), Jan. 28, 2008, 122 Stat. 128; Pub. L. 111–84, div. A, title V, §565(a)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2309, 2310; Pub. L. 111–119, §2(a), Dec. 21, 2009, 123 Stat. 3476; Pub. L. 116–92, div. F, title LXXVI, §7604(b), Dec. 20, 2019, 133 Stat. 2308.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 7604(b) of Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020. See 2019 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -190,7 +188,7 @@ Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck 
 
 Pars. (16), (17). Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
 
-Par. (18). Pub. L. 111–84, §565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: "The term 'serious injury or illness', in the case of a member of the Armed Forces, including amember of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating."
+Par. (18). Pub. L. 111–84, §565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: "The term 'serious injury or illness', in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating."
 
 Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
@@ -203,6 +201,8 @@ Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18).
 <b>2004</b>—Par. (4)(A)(iv). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1995</b>—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

@@ -30,9 +30,13 @@ Historical and Revision Notes
 
 Section 3308 requires the Secretary to carry out additional inspections as might be necessary to ensure compliance with applicable laws and regulations, and to ensure that accommodations are maintained in a sanitary condition and that all appliances are in good working order.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–324 inserted "or have examined" after "examine" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

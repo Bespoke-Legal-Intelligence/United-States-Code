@@ -4,9 +4,13 @@ The committee may allow any party reimbursement from the applicable accounts of 
 
 (Pub. L. 91–138, §17, Dec. 5, 1969, 83 Stat. 290; Pub. L. 104–186, title II, §211(4), Aug. 20, 1996, 110 Stat. 1744.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

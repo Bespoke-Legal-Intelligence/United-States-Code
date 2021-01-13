@@ -2,7 +2,7 @@
 
 #### (a) Meandering in the surveying of submerged land
 
-(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shall be meandered in accordance with the principles in the Bureau of Land Management, "Manual of Surveying Instructions" (1973).
+(1) Except as provided in paragraph (2), whenever the Secretary surveys land selected by a Native, a Native Corporation, or the State pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], the Alaska Statehood Act, or this Act, lakes, rivers, and streams shallbe meandered in accordance with the principles in the Bureau of Land Management, "Manual of Surveying Instructions" (1973).
 
 (2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
@@ -30,6 +30,8 @@ For the purposes of this section, the terms "navigable" and "navigability" means
 
 (Pub. L. 96–487, title IX, §901, Dec. 2, 1980, 94 Stat. 2430; Pub. L. 99–258, Mar. 19, 1986, 100 Stat. 42; Pub. L. 99–644, Nov. 10, 1986, 100 Stat. 3581; Pub. L. 100–395, title I, §101, Aug. 16, 1988, 102 Stat. 979.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -52,13 +54,15 @@ August 16, 1988, referred to in subsec. (b)(1), was in the original "the date of
 
 Pub. L. 99–258 substituted "six years after the date of execution" for "five years after the date of execution" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Construction
 
-Pub. L. 100–395, title I, §102, Aug. 16, 1988, 102 Stat. 980, provided that: "Nothing in this Act \[amending thissection and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited to the Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement."
+Pub. L. 100–395, title I, §102, Aug. 16, 1988, 102 Stat. 980, provided that: "Nothing in this Act \[amending this section and section 3192 of Title 16, Conservation, and enacting provisions set out as notes under this section\] shall amend or alter any land exchange agreement to which the United States is a party, or any statute, including but not limited to the Act of January 2, 1976 (89 Stat. 1151) and section 506(c) of the Alaska National Interest Lands Conservation Act (94 Stat. 2409; Public Law 96–487), that authorizes, ratifies or implements such an agreement."
 
 #### Report to Congress
 

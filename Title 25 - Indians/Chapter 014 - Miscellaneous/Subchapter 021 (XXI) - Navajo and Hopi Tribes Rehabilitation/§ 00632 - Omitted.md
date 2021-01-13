@@ -1,5 +1,7 @@
 ### §632. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Apr. 19, 1950, ch. 92, §2, 64 Stat. 45, which established guidelines for administration of program, was omitted from the Code as being of special and not general application.

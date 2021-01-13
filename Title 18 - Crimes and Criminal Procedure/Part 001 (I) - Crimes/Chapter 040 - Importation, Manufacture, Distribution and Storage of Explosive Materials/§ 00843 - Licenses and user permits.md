@@ -26,7 +26,7 @@
 
 (e)(1) Any person whose application is denied or whose license or permit is revoked shall receive a written notice from the Attorney General stating the specific grounds upon which such denial or revocation is based. Any notice of a revocation of a license or permit shall be given to the holder of such license or permit prior to or concurrently with the effective date of the revocation.
 
-(2) If the Attorney General denies an application for, or revokes a license, or permit, he shall, upon request by the aggrieved party, promptly hold a hearing to review his denial or revocation. In the case of a revocation, the Attorney General may upon a request of the holder stay the effective date of the revocation. A hearing under this section shall be at a location convenient to the aggrieved party. The Attorney General shall give written notice of his decision to the aggrieved party within a reasonable time after the hearing. The aggrieved party may, within sixty days after receipt of the Secretary's <sup>2</sup> written decision, file a petition with the United States court of appeals for the district in which he resides or has his principal place of business for a judicial review of such denial or revocation, pursuant to sections 701–706 of title 5, United States Code.
+(2) If the Attorney General denies an application for, or revokes a license, or permit, he shall, upon request by the aggrieved party, promptly hold a hearing to review his denial or revocation. In the case of a revocation, the Attorney General may upon a request of the holder stay the effective date of the revocation. A hearing under this section shall be at a location convenient to the aggrieved party. The Attorney General shall give written notice of his decision to the aggrieved party within a reasonable time after the hearing. The aggrieved party may, within sixty days after receipt of the Secretary's <sup>2</sup> written decision, file a petition withthe United States court of appeals for the district in which he resides or has his principal place of business for a judicial review of such denial or revocation, pursuant to sections 701–706 of title 5, United States Code.
 
 (f) Licensees and holders of user permits shall make available for inspection at all reasonable times their records kept pursuant to this chapter or the regulations issued hereunder, and licensees and permittees shall submit to the Attorney General such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Attorney General may enter during business hours the premises (including places of storage) of any licensee or holder of a user permit, for the purpose of inspecting or examining (1) any records or documents required to be kept by such licensee or permittee, under the provisions of this chapter or regulations issued hereunder, and (2) any explosive materials kept or stored by such licensee or permittee at such premises. Upon the request of any State or any political subdivision thereof, the Attorney General may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received explosive materials, together with a description of such explosive materials. The Secretary <sup>1</sup> may inspect the places of storage for explosive materials of an applicant for a limited permit or, at the time of renewal of such permit, a holder of a limited permit, only as provided in subsection (b)(4).
 
@@ -34,7 +34,7 @@
 
 (h)(1) If the Secretary <sup>1</sup> receives, from an employer, the name and other identifying information of a responsible person or an employee who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Secretary <sup>1</sup> shall determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i). In making the determination, the Secretary <sup>1</sup> may take into account a letter or document issued under paragraph (2).
 
-(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one ofthe persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
+(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
 
 (B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
 
@@ -65,6 +65,8 @@ In general.—Licensed manufacturers and licensed importers and persons who manu
 Reimbursement.—The Secretary <sup>1</sup> shall, by regulation, authorize reimbursement of the fair market value of samples furnished pursuant to this subsection, as well as the reasonable costs of shipment.
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 955; amended Pub. L. 107–296, title XI, §§1112(e)(3), 1122(c)–(h), 1124, Nov. 25, 2002, 116 Stat. 2276, 2281, 2282, 2285.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -97,6 +99,8 @@ Subsec. (g). Pub. L. 107–296, §1122(g), inserted "user" before "permits".
 Subsec. (h). Pub. L. 107–296, §1122(h), added subsec. (h).
 
 Subsec. (i). Pub. L. 107–296, §1124, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

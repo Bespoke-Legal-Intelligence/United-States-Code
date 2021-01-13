@@ -8,7 +8,7 @@ The Secretary shall be represented by the Chief Counsel for the Internal Revenue
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1959</b>—Pub. L. 86–368 substituted "Chief Counsel for the Internal Revenue Service or his delegate" for "Assistant General Counsel of the Treasury Departmentserving as Chief Counsel of the Internal Revenue Service, or the delegate of such Chief Counsel,".
+<b>1959</b>—Pub. L. 86–368 substituted "Chief Counsel for the Internal Revenue Service or his delegate" for "Assistant General Counsel of the Treasury Department serving as Chief Counsel of the Internal Revenue Service, or the delegate of such Chief Counsel,".
 
 #### Effective Date of 1959 Amendment
 

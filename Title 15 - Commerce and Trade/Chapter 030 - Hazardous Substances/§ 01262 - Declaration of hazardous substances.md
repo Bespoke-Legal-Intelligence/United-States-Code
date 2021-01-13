@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commissionmay by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances, which it finds meets the requirements of section 1261(f)(1)(A) of this title.
+&emsp;Whenever in the judgment of the Commission such action will promote the objectives of this chapter by avoiding or resolving uncertainty as to its application, the Commission may by regulation declare to be a hazardous substance, for the purposes of this chapter, any substance or mixture of substances, which it finds meets the requirements of section 1261(f)(1)(A) of this title.
 
 #### (2) Procedure
 
@@ -20,7 +20,7 @@ If the Commission finds that, because of the size of the package involved or bec
 
 #### (d) Exemption from requirements of this chapter of substances or containers adequately regulated by other provisions of law
 
-The Commission may exempt from the requirements established by or pursuant to this chapter any hazardous substance or container of a hazardous substance with respect to which it finds that adequate requirements satisfying the purposes of this chapter have been established by or pursuant to any other Act of Congress.
+The Commission may exempt from the requirements established by or pursuant to thischapter any hazardous substance or container of a hazardous substance with respect to which it finds that adequate requirements satisfying the purposes of this chapter have been established by or pursuant to any other Act of Congress.
 
 #### (e) Regulation of toys or articles intended for use by children
 
@@ -78,7 +78,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 No regulation under section 1261(q)(1) of this title classifying an article or substance as a banned hazardous substance and no regulation under subsection (e) of this section may be proposed by the Commission unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
-&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposedregulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
+&emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
 &emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) was not published by the Commission as the proposed regulation or part of the proposed regulation;
 
@@ -152,7 +152,7 @@ Subsec. (d). Pub. L. 89–756, §2(e), inserted "hazardous substance or" before 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 

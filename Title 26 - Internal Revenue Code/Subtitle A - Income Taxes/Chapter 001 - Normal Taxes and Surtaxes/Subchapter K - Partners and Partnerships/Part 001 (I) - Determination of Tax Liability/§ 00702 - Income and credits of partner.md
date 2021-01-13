@@ -26,7 +26,7 @@ The character of any item of income, gain, loss, deduction, or credit included i
 
 #### (c) Gross income of a partner
 
-In any case where it is necessary to determine the gross income of a partner for purposes ofthis title, such amount shall include his distributive share of the gross income of the partnership.
+In any case where it is necessary to determine the gross income of a partner for purposes of this title, such amount shall include his distributive share of the gross income of the partnership.
 
 #### (d) Cross reference
 

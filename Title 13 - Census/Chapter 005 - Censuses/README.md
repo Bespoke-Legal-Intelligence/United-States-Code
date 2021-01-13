@@ -50,6 +50,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–113, §3(b)(2), Nov. 21, 1997, 111 Stat. 2275, substituted "POPULATION, HOUSING, AND UNEMPLOYMENT" for "POPULATION, HOUSING, AGRICULTURE, IRRIGATION, AND UNEMPLOYMENT" in the item for subchapter II, and struck out item 142 "Agriculture and irrigation".

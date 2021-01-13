@@ -2,7 +2,7 @@
 
 #### (a) Time to be disregarded
 
-In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall bedisregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
@@ -48,7 +48,7 @@ The provisions of this section shall apply to the spouse of any individual entit
 
 #### (d) Missing status
 
-The period of service in the area or contingency operation referred to in subsection (a) shall include the period during which an individual entitled to benefits under subsection (a) is ina missing status, within the meaning of section 6013(f)(3).
+The period of service in the area or contingency operation referred to in subsection (a) shall include the period during which an individual entitled to benefits under subsection (a) is in a missing status, within the meaning of section 6013(f)(3).
 
 #### (e) Exceptions
 

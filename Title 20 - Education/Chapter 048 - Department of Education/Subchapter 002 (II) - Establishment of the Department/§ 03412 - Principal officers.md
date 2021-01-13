@@ -28,7 +28,7 @@
 
 (3) There shall be in the Department, a Special Assistant for Gender Equity who shall be appointed by the Secretary. The Special Assistant shall promote, coordinate, and evaluate gender equity programs, including the dissemination of information, technical assistance, and coordination of research activities. The Special Assistant shall advise the Secretary and Deputy Secretary on all matters relating to gender equity.
 
-(4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9514(a)\] and perform the duties described in that Act \[20 U.S.C. 9501 et seq.\].
+(4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of2002 \[20 U.S.C. 9514(a)\] and perform the duties described in that Act \[20 U.S.C. 9501 et seq.\].
 
 #### (c) Inspector General
 
@@ -100,7 +100,7 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(1)(C). Pub. L. 113–76, §307(b)(1), substituted "Assistant Secretary for Career, Technical, and Adult Education" for "Assistant Secretary for Vocational and Adult Education".
+<b>2014</b>—Subsec. (b)(1)(C). Pub. L. 113–76, §307(b)(1), substituted "Assistant Secretary for Career, Technical,and Adult Education" for "Assistant Secretary for Vocational and Adult Education".
 
 Subsec. (h). Pub. L. 113–76, §307(b)(2), substituted "Assistant Secretary for Career, Technical, and Adult Education" for "Assistant Secretary for Vocational and Adult Education" in two places.
 

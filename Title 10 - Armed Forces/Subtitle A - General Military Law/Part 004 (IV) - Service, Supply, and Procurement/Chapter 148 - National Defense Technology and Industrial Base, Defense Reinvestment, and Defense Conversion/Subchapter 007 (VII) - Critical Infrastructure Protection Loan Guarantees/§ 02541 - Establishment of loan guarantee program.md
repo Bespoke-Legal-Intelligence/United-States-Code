@@ -40,9 +40,17 @@ Authority Subject to Provisions of Appropriations.—The Secretary may guarantee
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–258.)
 
+#### Transfer of Subchapter and Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1873(b), (c), Jan. 1, 2021, 134 Stat. 4151, 4290, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation</i><i>and applicability of existing law, this subchapter is transferred to chapter 389 of this title, as added by section 1873(a) of Pub. L. 116–283, inserted after subchapter I, and redesignated as subchapter II, and this section is redesignated as section 4981 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Prior Provisions
 
 A prior section 2541 was renumbered section 2551 of this title.
 
 Another prior section 2541 was renumbered section 2539b of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

@@ -42,7 +42,7 @@ For provisions of law which make additional individuals eligible for medical ass
 
 &emsp;(C) Section 232 of Public Law 93–66 (relating to deeming eligible for medical assistance certain blind and disabled medically indigent persons).
 
-&emsp;(D) Section 13(c) of Public Law 93–233 (relating to deeming eligible for medical assistance certain individuals receiving mandatory State supplementary payments).
+&emsp;(D) Section 13(c) of Public Law 93–233 (relating to deeming eligible for medical assistancecertain individuals receiving mandatory State supplementary payments).
 
 &emsp;(E) Section 503 of Public Law 94–566 (relating to deeming eligible for medical assistance certain individuals who would be eligible for supplemental security income benefits but for cost-of-living increases in social security benefits).
 
@@ -56,7 +56,7 @@ For other provisions of law that establish additional requirements for State pla
 
 &emsp;(2) Section 212(a) of Public Law 93–66 (relating to requiring mandatory minimum State supplementation of SSI benefits program).
 
-(Aug. 14, 1935, ch. 531, title XIX, §1939, formerly §1920, as added Pub. L. 99–272, title IX, §9526, Apr. 7, 1986, 100 Stat. 218; renumbered §1921, Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 99–514, title XVIII, §1895(c)(5), Oct. 22, 1986, 100 Stat. 2936; Pub. L. 99–643, §6(c), Nov. 10, 1986, 100 Stat. 3578; renumbered §1922, Pub. L. 100–93, §5(b), Aug. 18, 1987, 101 Stat. 690; renumbered §1923 and §1924 and amended Pub. L. 100–203, title IV, §§4112(a)(1), 4118(p)(9), 4211(a)(1), title IX, §9116(d), Dec. 22, 1987, 101 Stat. 1330–148, 1330–159, 1330–182, 1330–306, as amended Pub. L. 100–360, title IV, §411(k)(6)(B)(i), (10)(L), (n)(3), July 1, 1988, 102 Stat. 793, 797, as amended Pub. L. 100–485, title VI, §608(d)(28), Oct. 13, 1988, 102 Stat. 2423; renumbered §1925, Pub. L. 100–360, title III, §303(a)(1)(A), July 1, 1988, 102 Stat. 754; renumbered §1926 and amended Pub. L. 100–485, title II, §202(c)(5), title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2378, 2385; renumbered §1927, Pub. L.101–239, title VI, §6402(b), Dec. 19, 1989, 103 Stat. 2260; renumbered §1928, Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; Pub. L. 102–54, §13(q)(3)(A)(v), June 13, 1991, 105 Stat. 279; renumbered §1931, Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637; renumbered §1932, Pub. L. 104–193, title I, §114(a)(1), Aug. 22, 1996, 110 Stat. 2177; renumbered §§1933, 1934, and 1935, Pub. L. 105–33, title IV, §§4701(a), 4732(c), 4802(a)(2), Aug. 5, 1997, 111 Stat. 489, 520, 538; renumbered §1936, Pub. L. 108–173, title I, §103(a)(2)(A), Dec. 8, 2003, 117 Stat. 2154; renumbered §1937, renumbered §1938, renumbered §1939, Pub. L. 109–171, title VI, §§6034(a)(1), 6044(a), 6082(1), Feb. 8, 2006, 120 Stat. 74, 88, 113.)
+(Aug. 14, 1935, ch. 531, title XIX, §1939, formerly §1920, as added Pub. L. 99–272, title IX, §9526, Apr. 7, 1986, 100 Stat. 218; renumbered §1921, Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 99–514, title XVIII, §1895(c)(5), Oct. 22, 1986, 100 Stat. 2936; Pub. L. 99–643, §6(c), Nov. 10, 1986, 100 Stat. 3578; renumbered §1922, Pub. L. 100–93, §5(b), Aug. 18, 1987, 101 Stat. 690; renumbered §1923 and §1924 and amended Pub. L. 100–203, title IV, §§4112(a)(1), 4118(p)(9), 4211(a)(1), title IX, §9116(d), Dec. 22, 1987, 101 Stat. 1330–148, 1330–159, 1330–182, 1330–306, as amended Pub. L. 100–360, title IV, §411(k)(6)(B)(i), (10)(L), (n)(3), July 1, 1988, 102 Stat. 793, 797, as amended Pub. L. 100–485, title VI, §608(d)(28), Oct. 13, 1988, 102 Stat. 2423; renumbered §1925, Pub. L. 100–360, title III, §303(a)(1)(A), July 1, 1988, 102 Stat. 754; renumbered §1926 and amended Pub. L. 100–485, title II, §202(c)(5), title III, §303(a)(1), Oct. 13, 1988, 102 Stat. 2378, 2385; renumbered §1927, Pub. L. 101–239, title VI, §6402(b), Dec. 19, 1989, 103 Stat. 2260; renumbered §1928, Pub. L. 101–508, title IV, §4401(a)(3), Nov. 5, 1990, 104 Stat. 1388–143; Pub. L. 102–54, §13(q)(3)(A)(v), June 13, 1991, 105 Stat. 279; renumbered §1931, Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637; renumbered §1932, Pub. L. 104–193, title I, §114(a)(1), Aug. 22, 1996, 110 Stat. 2177; renumbered §§1933, 1934, and 1935, Pub. L. 105–33, title IV, §§4701(a), 4732(c), 4802(a)(2), Aug. 5, 1997, 111 Stat. 489, 520, 538; renumbered §1936, Pub. L. 108–173, title I, §103(a)(2)(A), Dec. 8, 2003, 117 Stat. 2154; renumbered §1937, renumbered §1938, renumbered §1939, Pub. L. 109–171, title VI, §§6034(a)(1), 6044(a), 6082(1), Feb. 8, 2006, 120 Stat. 74, 88, 113.)
 
 #### References in Text
 
@@ -110,7 +110,7 @@ Subsec. (a)(2). Pub. L. 100–203, §4118(p)(9), as amended by Pub. L. 100–360
 
 Subsec. (a)(2)(E). Pub. L. 100–203, §9116(d), as amended generally by Pub. L. 100–360, §411(n)(3), as added by Pub. L. 100–485, §608(d)(28), added subpar. (E).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1895(c)(5)(A), redesignated subpars. (B) and (C) as (C) and (D), respectively, and inserted at beginning of subpar. (A) "Section 602(a)(32) of this title (relating to individuals who are deemed recipients of aid but for whom a payment is not made)."
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1895(c)(5)(A), redesignated subpars. (B) and (C) as (C) and (D), respectively, and inserted at beginning of subpar. (A) "Section 602(a)(32) of this title (relating to individuals whoare deemed recipients of aid but for whom a payment is not made)."
 
 Subsec. (a)(2). Pub. L. 99–643, which directed amendment of section 1920(a)(2) of the Social Security Act by designating existing provisions as subpar. (A) and adding subpar. (B) relating to section 1383c of this title as it relates to individuals who lose eligibility for SSI benefits due to entitlement to child's insurance benefits, was executed to this section, section 1921 of the Social Security Act, to reflect the probable intent of Congress and the redesignation of section 1920 of the Social Security Act as section 1921 by Pub. L. 99–509.
 
@@ -128,7 +128,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1986 Amendments
 
-Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub.L. 99–643, set out as a note under section 1396a of this title.
+Amendment by Pub. L. 99–643 effective July 1, 1987, except as otherwise provided, see section 10(b) of Pub. L. 99–643, set out as a note under section 1396a of this title.
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 

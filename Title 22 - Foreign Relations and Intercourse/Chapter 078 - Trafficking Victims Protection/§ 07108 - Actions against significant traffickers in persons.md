@@ -50,7 +50,7 @@ Nothing in this section prohibits or otherwise limits the authorized law enforce
 
 #### (2) Promulgation of rules and regulations
 
-&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take suchactions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
+&emsp;The head of any agency, including the Secretary of Treasury, is authorized to take such actions as may be necessary to carry out any authority delegated by the President pursuant to paragraph (1), including promulgating rules and regulations.
 
 #### (3) Opportunity for review
 
@@ -65,6 +65,8 @@ In this section, the term "foreign person" means any citizen or national of a fo
 Nothing in this section shall be construed as precluding judicial review of the exercise of the authority described in subsection (a).
 
 (Pub. L. 106–386, div. A, §111, Oct. 28, 2000, 114 Stat. 1484; Pub. L. 115–425, title I, §124, Jan. 8, 2019, 132 Stat. 5479.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

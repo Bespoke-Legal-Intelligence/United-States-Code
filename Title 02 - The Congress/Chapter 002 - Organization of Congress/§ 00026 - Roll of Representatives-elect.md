@@ -4,6 +4,8 @@ Before the first meeting of each Congress the Clerk of the next preceding House 
 
 (R.S. §§31–33; Pub. L. 104–186, title II, §202(2), Aug. 20, 1996, 110 Stat. 1724.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §31 derived from acts Feb. 21, 1867, ch. 56, §1, 14 Stat. 397 and Mar. 3, 1863, ch. 108, 12 Stat. 804.
@@ -14,5 +16,5 @@ R.S. §31 constitutes first sentence; R.S. §32 constitutes second sentence; and
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 struck out third sentence which read as follows: "In case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or of the absence or inability of both to act, the duties of the Clerk relative to the preparation of the roll of the House ofRepresentatives or the organization of the House shall be performed by the Doorkeeper of the next preceding House of Representatives." See Codification note above.
+<b>1996</b>—Pub. L. 104–186 struck out third sentence which read as follows: "In case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or of the absence or inability of both to act, the duties of the Clerk relative to the preparation of the roll of the House of Representatives or the organization of the House shall be performed by the Doorkeeper of the next preceding House of Representatives." See Codification note above.
 

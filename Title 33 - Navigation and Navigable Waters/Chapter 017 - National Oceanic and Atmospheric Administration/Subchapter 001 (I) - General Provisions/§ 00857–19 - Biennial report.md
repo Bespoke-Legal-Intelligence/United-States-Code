@@ -4,6 +4,8 @@ Beginning in September, 2001, the President shall transmit to the Congress bienn
 
 (Pub. L. 106–256, §5, Aug. 7, 2000, 114 Stat. 648.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### National Ocean Policy
 
 Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, §306, Dec. 19, 2002, 116 Stat. 3096, provided that:
@@ -52,7 +54,7 @@ Membership.—
 
 &emsp;"(1)
 
-Appointment.—The Commission shall be composed of 16 members appointed by the President from among individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
+Appointment.—The Commission shall be composed of 16 members appointed by the President fromamong individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
 
 &emsp;"(2)
 
@@ -106,7 +108,7 @@ Notice; Minutes; Public Availability of Documents.—
 
 &emsp;&emsp;"(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
-&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copiesof all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
+&emsp;&emsp;"(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
 &emsp;"(3)
 
@@ -146,7 +148,7 @@ Required matter.—The final report of the Commission shall include the followin
 
 &emsp;&emsp;"(D) A review of the known and anticipated supply of, and demand for, ocean and coastal resources of the United States.
 
-&emsp;&emsp;"(E) A review of and recommendations concerning the relationship between Federal, State, and local governments and the private sector in planning and carrying out ocean and coastal activities.
+&emsp;&emsp;"(E) A review of and recommendations concerning the relationship between Federal, State, and local governments and the private sector inplanning and carrying out ocean and coastal activities.
 
 &emsp;&emsp;"(F) A review of opportunities for the development of or investment in new products, technologies, or markets related to ocean and coastal activities.
 
@@ -240,6 +242,8 @@ Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 1
 
 Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 13366
 
 Ex. Ord. No. 13366, Dec. 17, 2004, 69 F.R. 76591, which established the Committee on Ocean Policy, was revoked by Ex. Ord. No. 13547, §10, July 19, 2010, 75 F.R. 43027, formerly set out below.
@@ -306,7 +310,7 @@ Sec. 4. <i>Interagency Coordination</i>. (a) To ensure appropriate coordination 
 
 &emsp;(4) an employee of the Office of the Vice President.
 
-(ii) Consistent with applicable law and subject to the availability of appropriations, OSTP or CEQ shall provide the Committee with funding, including throughthe National Science and Technology Council pursuant to title VII, section 723 of \[division E of\] the Consolidated Appropriations Act, 2018 (Public Law 115–141 \[132 Stat. 592\]), or any successor provision, or through the Office of Environmental Quality pursuant to the Office of Environmental Quality Management Fund, 42 U.S.C. 4375. OSTP or CEQ shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed to implement this order.
+(ii) Consistent with applicable law and subject to the availability of appropriations, OSTP or CEQ shall provide the Committee with funding, including through the National Science and Technology Council pursuant to title VII, section 723 of \[division E of\] the Consolidated Appropriations Act, 2018 (Public Law 115–141 \[132 Stat. 592\]), or any successor provision, or through the Office of Environmental Quality pursuant to the Office of Environmental Quality Management Fund, 42 U.S.C. 4375. OSTP or CEQ shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed to implement this order.
 
 (iii) The Committee shall be administered by an Executive Director and such full-time staff as the Co-Chairs recommend.
 

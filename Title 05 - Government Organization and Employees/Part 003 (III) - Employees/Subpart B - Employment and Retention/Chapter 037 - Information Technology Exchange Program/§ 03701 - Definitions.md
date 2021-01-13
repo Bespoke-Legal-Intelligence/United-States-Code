@@ -14,9 +14,13 @@ For purposes of this chapter—
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2925; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Par. (1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

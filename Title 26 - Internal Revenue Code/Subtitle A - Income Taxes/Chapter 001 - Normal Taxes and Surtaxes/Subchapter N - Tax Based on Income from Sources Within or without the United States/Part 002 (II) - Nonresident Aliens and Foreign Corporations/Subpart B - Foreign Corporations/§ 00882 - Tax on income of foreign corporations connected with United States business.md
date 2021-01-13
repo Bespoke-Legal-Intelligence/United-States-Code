@@ -90,7 +90,7 @@ Pub. L. 115–97, §12001(b)(14), struck out ", 55," after "section 11".
 
 Subsec. (b). Pub. L. 100–647, §1012(s)(2)(B), inserted ", except where the context clearly indicates otherwise" after "foreign corporation".
 
-Subsec. (e). Pub. L. 100–647, §6133(a), substituted "interest on obligations of the United States which is notportfolio interest (as defined in section 881(c)(2))" for "interest on obligations of the United States", and struck out at end "The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year."
+Subsec. (e). Pub. L. 100–647, §6133(a), substituted "interest on obligations of the United States which is not portfolio interest (as defined in section 881(c)(2))" for "interest on obligations of the United States", and struck out at end "The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year."
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §701(e)(4)(F), inserted reference to section 55.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 701(e)(4)(F) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 701(e)(4)(F) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, Pub. L. 99–499, title V, to which it relates, see section 2001(e) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

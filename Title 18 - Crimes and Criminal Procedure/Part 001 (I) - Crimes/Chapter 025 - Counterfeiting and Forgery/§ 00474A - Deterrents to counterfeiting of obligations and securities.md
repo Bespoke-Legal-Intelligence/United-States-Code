@@ -2,7 +2,7 @@
 
 (a) Whoever has in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
-(b) Whoever has in his control or possession, after a distinctive counterfeit deterrent has been adopted by the Secretary of the Treasuryfor the obligations and other securities of the United States by publication in the Federal Register, any essentially identical feature or device adapted to the making of any such obligation or security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
+(b) Whoever has in his control or possession, after a distinctive counterfeit deterrent has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States by publication in the Federal Register, any essentially identical feature or device adapted to the making of any such obligation or security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
 (c) As used in this section—
 
@@ -16,9 +16,13 @@
 
 (Added Pub. L. 102–550, title XV, §1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(a)\], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) \[title VI, §648(a)\] and 2603(a), amended section identically, substituting "class B felony" for "class C felony".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

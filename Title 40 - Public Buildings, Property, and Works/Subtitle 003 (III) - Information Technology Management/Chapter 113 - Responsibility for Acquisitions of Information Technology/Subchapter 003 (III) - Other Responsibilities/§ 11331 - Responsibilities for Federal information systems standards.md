@@ -70,6 +70,8 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5131(a)–(d), Feb. 10, 1996, 110 Stat. 687.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained, respectively, in sections 3552 and 3553 of title 44, as enacted by Pub. L. 113–283.
@@ -193,6 +195,8 @@ Delegation of waiver authority.—The Secretary may delegate to the head of one 
 &emsp;"(3)
 
 Notice.—Notice of each waiver and delegation shall be transmitted promptly to Congress and published promptly in the Federal Register."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendments
 

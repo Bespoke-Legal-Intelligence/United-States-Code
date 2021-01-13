@@ -20,6 +20,8 @@ Feb. 15, 1980, Pub. L. 96–191, §4(i), 94 Stat. 31.
 
 The words "to do so" and "corrective" are omitted as surplus. The words "under section 753 of this title" are added for clarity.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of this title.

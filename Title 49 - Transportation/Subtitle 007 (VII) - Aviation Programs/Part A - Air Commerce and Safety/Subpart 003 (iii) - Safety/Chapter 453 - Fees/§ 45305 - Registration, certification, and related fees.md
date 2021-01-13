@@ -48,7 +48,7 @@ In general.—Notwithstanding section 3302 of title 31, any fee authorized to be
 
 &emsp;&emsp;(A) be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
 
-&emsp;&emsp;(B) be available for expenditure only to pay the costs of activities and services forwhich the fee is imposed, including all costs associated with collecting the fee; and
+&emsp;&emsp;(B) be available for expenditure only to pay the costs of activities and services for which the fee is imposed, including all costs associated with collecting the fee; and
 
 &emsp;&emsp;(C) remain available until expended.
 

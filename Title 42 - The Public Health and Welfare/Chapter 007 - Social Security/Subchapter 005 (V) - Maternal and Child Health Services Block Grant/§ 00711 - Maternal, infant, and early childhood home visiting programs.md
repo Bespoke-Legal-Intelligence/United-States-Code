@@ -190,7 +190,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Majority of grant funds used for evidence-based models
 
-&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grant paid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
+&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grantpaid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
 
 #### (iii) Criteria for evidence of effectiveness of models
 
@@ -200,7 +200,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;(i) The program adheres to a clear, consistent model that satisfies the requirements of being grounded in empirically-based knowledge related to home visiting and linked to the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B) related to the purposes of the program.
 
-&emsp;&emsp;(ii) The program employs well-trained and competent staff, as demonstrated by education or training, such as nurses, socialworkers, educators, child development specialists, or other well-trained and competent staff, and provides ongoing and specific training on the model being delivered.
+&emsp;&emsp;(ii) The program employs well-trained and competent staff, as demonstrated by education or training, such as nurses, social workers, educators, child development specialists, or other well-trained and competent staff, and provides ongoing and specific training on the model being delivered.
 
 &emsp;&emsp;(iii) The program maintains high quality supervision to establish home visitor competencies.
 
@@ -260,7 +260,7 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
-&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
+&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with fundsmade available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
 
 &emsp;(10) Other information as required by the Secretary.
 
@@ -349,6 +349,54 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 &emsp;&emsp;(B) information regarding any technical assistance provided under subsection (d)(1)(B)(iii)(I), including the type of any such assistance provided; and
 
 &emsp;&emsp;(C) recommendations for such legislative or administrative action as the Secretary determines appropriate.
+
+#### (5) Data exchange standards for improved interoperability
+
+#### (A) Designation and use of data exchange standards
+
+#### (i) Designation
+
+&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
+
+#### (ii) Data exchange standards must be nonproprietary and interoperable
+
+&emsp;&emsp;&emsp;The data exchange standards designated under clause (i) shall, to the extent practicable, be nonproprietary and interoperable.
+
+#### (iii) Other requirements
+
+&emsp;&emsp;&emsp;In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate—
+
+&emsp;&emsp;&emsp;&emsp;(I) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget;
+
+&emsp;&emsp;&emsp;&emsp;(II) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and
+
+&emsp;&emsp;&emsp;&emsp;(III) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance.
+
+#### (B) Data exchange standards for Federal reporting
+
+#### (i) Designation
+
+&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a program referred to in this section shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern Federal reporting and exchange requirements under applicable Federal law.
+
+#### (ii) Requirements
+
+&emsp;&emsp;&emsp;The data exchange reporting standards required by clause (i) shall, to the extent practicable—
+
+&emsp;&emsp;&emsp;&emsp;(I) incorporate a widely accepted, nonproprietary, searchable, computer-readable format;
+
+&emsp;&emsp;&emsp;&emsp;(II) be consistent with and implement applicable accounting principles;
+
+&emsp;&emsp;&emsp;&emsp;(III) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) be capable of being continually upgraded as necessary.
+
+#### (iii) Incorporation of nonproprietary standards
+
+&emsp;&emsp;&emsp;In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Mark up Language.
+
+#### (iv) Rule of construction
+
+&emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.
 
 #### (i) Application of other provisions of subchapter
 
@@ -458,60 +506,6 @@ In this section:
 
 (Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231.)
 
-#### Amendment of Subsection (h)
-
-<i>Pub. L. 115–123, div. E, title VI, §50606, Feb. 9, 2018, 132 Stat. 230, provided that, effective on the date that is 2 years after Feb. 9, 2018, subsection (h) of this section is amended by adding at the end the following:</i>
-
-#### <i>(5) Data exchange standards for improved interoperability</i>
-
-#### <i>(A) Designation and use of data exchange standards</i>
-
-#### <i>(i) Designation</i>
-
-&emsp;&emsp;&emsp;<i>The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.</i>
-
-#### <i>(ii) Data exchange standards must be nonproprietary and interoperable</i>
-
-&emsp;&emsp;&emsp;<i>The data exchange standards designated under clause (i) shall, to the extent practicable, be nonproprietary and interoperable.</i>
-
-#### <i>(iii) Other requirements</i>
-
-&emsp;&emsp;&emsp;<i>In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) interoperable standards developed and maintained by an international voluntary consensus standards body, as defined by the Office of Management and Budget;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) interoperable standards developed and maintained by intergovernmental partnerships, such as the National Information Exchange Model; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) interoperable standards developed and maintained by Federal entities with authority over contracting and financial assistance.</i>
-
-#### <i>(B) Data exchange standards for Federal reporting</i>
-
-#### <i>(i) Designation</i>
-
-&emsp;&emsp;&emsp;<i>The head of the department or agency responsible for administering a program referred to in this section shall, in consultation with an interagency work group established by the Office of Management and Budget, and considering State government perspectives, designate data exchange standards to govern Federal reporting and exchange requirements under applicable Federal law.</i>
-
-#### <i>(ii) Requirements</i>
-
-&emsp;&emsp;&emsp;<i>The data exchange reporting standards required by clause (i) shall, to the extent practicable—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) incorporate a widely accepted, nonproprietary, searchable, computer-readable format;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) be consistent with and implement applicable accounting principles;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(III) be implemented in a manner that is cost-effective and improves program efficiency and effectiveness; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(IV) be capable of being continually upgraded as necessary.</i>
-
-#### <i>(iii) Incorporation of nonproprietary standards</i>
-
-&emsp;&emsp;&emsp;<i>In designating data exchange standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Mark up Language.</i>
-
-#### <i>(iv) Rule of construction</i>
-
-&emsp;&emsp;&emsp;<i>Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.</i>
-
-<i>See 2018 Amendment notes below.</i>
-
 #### References in Text
 
 The Child Abuse Prevention and Treatment Act, referred to in subsec. (e)(9), is Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4. Title II of the Act is classified generally to subchapter III (§5116 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
@@ -559,6 +553,52 @@ Subsec. (j)(2), (3). Pub. L. 113–93, §209(2), inserted "(or portion of a fisc
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. E, title VI, §50606(b), Feb. 9, 2018, 132 Stat. 231, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Feb. 9, 2018\]."
+
+#### Allowing Home Visiting Programs To Continue Serving Families Safely
+
+Pub. L. 116–260, div. X, §10, Dec. 27, 2020, 134 Stat. 2416, provided that:
+
+"(a)
+
+In General.—For purposes of section 511 of the Social Security Act \[42 U.S.C. 711\], during the COVID–19 public health emergency period—
+
+&emsp;"(1) a virtual home visit shall be considered a home visit;
+
+&emsp;"(2) funding for, and staffing levels of, a program conducted pursuant to such section shall not be reduced on account of reduced enrollment in the program; and
+
+&emsp;"(3) funds provided for such a program may be used—
+
+&emsp;&emsp;"(A) to train home visitors in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings remotely, training on safety and planning for families served;
+
+&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as areneeded to conduct and support a virtual home visit; and
+
+&emsp;&emsp;"(C) to provide emergency supplies to families served, regardless of whether the provision of such supplies is within the scope of the approved program, such as diapers, formula, non-perishable food, water, hand soap, and hand sanitizer.
+
+"(b)
+
+Virtual Home Visit Defined.—In subsection (a), the term 'virtual home visit' means a home visit, as described in an applicable service delivery model, that is conducted solely by the use of electronic information and telecommunications technologies.
+
+"(c)
+
+Authority to Delay Deadlines.—
+
+&emsp;"(1)
+
+In general.—The Secretary may extend the deadline by which a requirement of section 511 of the Social Security Act must be met, by such period of time as the Secretary deems appropriate, taking into consideration the impact of the COVID–19 public health emergency on eligible entity home visiting programs and the impact of families enrolled in home visiting programs. The Secretary may delay the deadline for submission, waive performance measures, or allow for alternative data sources to be used to show improvement in performance in the manner provided in section 511(d)(1) of such Act.
+
+&emsp;"(2)
+
+Delay of deadline for statewide needs assessment.—The Secretary may delay the October 1, 2020, deadline for reviewing and updating any needs assessment required by section 511(b)(1) or 511(h)(2)(A) of the Social Security Act, but any such delay shall not affect the timing for, or amount of, any payment to the State involved from the fiscal year allotments available to the State under section 502(c) of such Act \[42 U.S.C. 702(c)\].
+
+&emsp;"(3)
+
+Guidance.—The Secretary shall provide to eligible entities funded under section 511 of the Social Security Act information on the parameters used in extending a deadline under paragraph (1) or (2) of this subsection.
+
+"(d)
+
+Timely Release of Title V Funds.—The authorities provided in this section shall not be interpreted to authorize or require any delay in the timely release of funds under title V of the Social Security Act \[42 U.S.C. 701 et seq.\]."
+
+\[For definitions of terms used in section 10 of div. X of Pub. L. 116–260, set out above, see section 2 of div. X of Pub. L. 116–260, set out as a note under section 629h of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

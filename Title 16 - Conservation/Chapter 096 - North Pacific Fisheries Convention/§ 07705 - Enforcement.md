@@ -10,7 +10,7 @@ The Secretary and the Secretary of the department in which the Coast Guard is op
 
 #### (b) Secretarial actions
 
-The Secretary and the Secretary of the department in which the Coast Guard is operating shall prevent any person from violating this chapter with respect to fishing activities or the conservation of fisheries resources in the Convention Area in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though sections 308 through 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858, 1859, 1860, and 1861) were incorporated into and made a part of this chapter. Any person that violates this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) in the same manner, by the same means, and with the same jurisdiction, power, and duties as though sections 308 through 311 of that Act (16 U.S.C. 1858, 1859, 1860, and 1861) were incorporated into and made a part of this chapter.
+The Secretary and the Secretary of the department in which the Coast Guard is operating shall prevent any person from violating this chapter with respect to fishing activities or the conservation of fisheries resources in the Convention Area in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though sections 308 through 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858, 1859, 1860, and 1861) were incorporated into and made a part of this chapter. Any person that violates this chapter is subject to the penalties and entitled to the privileges and immunities provided in theMagnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) in the same manner, by the same means, and with the same jurisdiction, power, and duties as though sections 308 through 311 of that Act (16 U.S.C. 1858, 1859, 1860, and 1861) were incorporated into and made a part of this chapter.
 
 #### (c) Jurisdiction of the courts
 
@@ -46,7 +46,7 @@ The Secretary and the Secretary of the department in which the Coast Guard is op
 
 &emsp;&emsp;(A) to a Federal employee who is responsible for administering, implementing, or enforcing this chapter;
 
-&emsp;&emsp;(B) to the Commission, in accordance with requirements in the North Pacific Fisheries Convention and decisions of the Commission, and, insofar as possible, in accordancewith an agreement with the Commission that prevents public disclosure of the identity or business of any person;
+&emsp;&emsp;(B) to the Commission, in accordance with requirements in the North Pacific Fisheries Convention and decisions of the Commission, and, insofar as possible, in accordance with an agreement with the Commission that prevents public disclosure of the identity or business of any person;
 
 &emsp;&emsp;(C) to State, Council, or marine fisheries commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business of any person;
 

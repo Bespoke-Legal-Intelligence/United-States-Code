@@ -20,13 +20,13 @@ Of the amount available under subsection (a) for a fiscal year, the Secretary—
 
 #### Prior Provisions
 
-A prior section 6661, Pub. L. 89–10, title II, §2201, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1642, set forth purpose of part B of former subchapter II of this chapter and defined terms, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 6661, Pub. L. 89–10, title II, §2201, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115Stat. 1642, set forth purpose of part B of former subchapter II of this chapter and defined terms, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Another prior section 6661, Pub. L. 89–10, title II, §2251, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391, set forth purposes of former part relating to reading and literacy grants, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 6661a to 6661i were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 
-Section 6661a, Pub. L. 89–10, title II, §2252, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\],Oct. 21, 1998, 112 Stat. 2681–337, 2681–392; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(b)(2)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms for purposes of former part.
+Section 6661a, Pub. L. 89–10, title II, §2252, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–392; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(b)(2)(A)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, defined terms for purposes of former part.
 
 Section 6661b, Pub. L. 89–10, title II, §2253, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–393, related to reading and literacy grants to State educational agencies.
 

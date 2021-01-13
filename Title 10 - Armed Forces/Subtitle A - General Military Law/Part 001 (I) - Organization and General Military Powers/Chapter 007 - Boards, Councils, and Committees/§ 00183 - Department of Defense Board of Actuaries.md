@@ -12,7 +12,7 @@ Members.—(1) The Board shall consist of three members who shall be appointed b
 
 (3) A member of the Board may be removed by the Secretary of Defense only for misconduct or failure to perform functions vested in the Board.
 
-(4) A member of the Board who is not an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5 for each day the member is engaged in the performance of the duties of the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of that title in connection with such duties.
+(4) A member of the Board who is not an employee of the United States is entitled to receivepay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5 for each day the member is engaged in the performance of the duties of the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of that title in connection with such duties.
 
 (c)
 

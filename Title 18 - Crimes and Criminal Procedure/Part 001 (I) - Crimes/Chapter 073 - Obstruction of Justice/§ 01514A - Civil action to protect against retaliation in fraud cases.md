@@ -66,7 +66,7 @@ Compensatory damages.—Relief for any action under paragraph (1) shall include�
 
 &emsp;&emsp;(B) the amount of back pay, with interest; and
 
-&emsp;&emsp;(C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;&emsp;(C) compensation for any special damages sustained as a result of the discrimination,including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (d)
 
@@ -86,6 +86,8 @@ Predispute arbitration agreements.—No predispute arbitration agreement shall b
 
 (Added Pub. L. 107–204, title VIII, §806(a), July 30, 2002, 116 Stat. 802; amended Pub. L. 111–203, title IX, §§922(b), (c), 929A, July 21, 2010, 124 Stat. 1848, 1852.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §929A, in introductory provisions, inserted "including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company" after "the Securities Exchange Act of 1934 (15 U.S.C. 78o(d))".
@@ -97,6 +99,8 @@ Subsec. (b)(2)(D). Pub. L. 111–203, §922(c)(1)(A), substituted "180" for "90"
 Subsec. (b)(2)(E). Pub. L. 111–203, §922(c)(1)(B), added subpar. (E).
 
 Subsec. (e). Pub. L. 111–203, §922(c)(2), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -1,8 +1,10 @@
 ### §41105A. Authority
 
-Nothing in section 41105, as amended by the Federal Maritime Commission Authorization Act of 2017, shall be construed to limit the authority of the Department of Justice regarding antitrust matters.
+Nothing in section 41105, as amended by the Federal Maritime Commission AuthorizationAct of 2017, shall be construed to limit the authority of the Department of Justice regarding antitrust matters.
 
 (Added Pub. L. 115–282, title VII, §709(b)(1), Dec. 4, 2018, 132 Stat. 4296.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

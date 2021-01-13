@@ -12,7 +12,7 @@ Each compact required under subsection (a) of this section shall set forth the g
 
 An Indian tribe participating in the Tribal Self-Governance Demonstration Project under title III <sup>1</sup> on August 18, 2000, shall have the option at any time after August 18, 2000, to—
 
-&emsp;(1) retain the Tribal Self-Governance Demonstration Project compact of that Indian tribe (in whole or in part) to the extent that the provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
+&emsp;(1) retain the Tribal Self-Governance Demonstration Project compact of that Indian tribe (in whole or in part) to the extent thatthe provisions of that funding agreement are not directly contrary to any express provision of this subchapter; or
 
 &emsp;(2) instead of retaining a compact or portion thereof under paragraph (1), negotiate a new compact in a manner consistent with the requirements of this subchapter.
 
@@ -21,6 +21,8 @@ An Indian tribe participating in the Tribal Self-Governance Demonstration Projec
 The effective date of a compact shall be the date of the approval and execution by the Indian tribe or another date agreed upon by the parties, and shall remain in effect for so long as permitted by Federal law or until terminated by mutual written agreement, retrocession, or reassumption.
 
 (Pub. L. 93–638, title V, §504, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 715.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

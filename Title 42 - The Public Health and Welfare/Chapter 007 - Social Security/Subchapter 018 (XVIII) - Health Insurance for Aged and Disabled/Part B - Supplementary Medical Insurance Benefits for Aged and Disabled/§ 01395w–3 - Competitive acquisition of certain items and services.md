@@ -54,7 +54,7 @@
 
 #### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
 
-&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programs under this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
+&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programsunder this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Rural areas.
 
@@ -64,7 +64,7 @@
 
 #### (E) Verification by OIG
 
-&emsp;&emsp;The Inspector General of the Department of Health and Human Services shall, through post-award audit, survey, or otherwise, assess the process used by the Centers for Medicare \& Medicaid Services to conduct competitive bidding and subsequent pricing determinations under this section that are the basis for pivotal bid amounts and single payment amounts for items and services in competitive bidding areas under rounds 1and 2 of the competitive acquisition programs under this section and may continue to verify such calculations for subsequent rounds of such programs.
+&emsp;&emsp;The Inspector General of the Department of Health and Human Services shall, through post-award audit, survey, or otherwise, assess the process used by the Centers for Medicare \& Medicaid Services to conduct competitive bidding and subsequent pricing determinations under this section that are the basis for pivotal bid amounts and single payment amounts for items and services in competitive bidding areas under rounds 1 and 2 of the competitive acquisition programs under this section and may continue to verify such calculations for subsequent rounds of such programs.
 
 #### (F) Supplier feedback on missing financial documentation
 
@@ -118,7 +118,7 @@
 
 #### (ii) Treatment of other bidders
 
-&emsp;&emsp;&emsp;In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.
+&emsp;&emsp;&emsp;In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the publicannouncement of the contract suppliers for such area.
 
 #### (2) Items and services described
 
@@ -126,7 +126,7 @@
 
 #### (A) Durable medical equipment and medical supplies
 
-&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher, complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCScodes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes) (and related accessories when furnished in connection with such complex rehabilitative power wheelchairs, complex rehabilitative manual wheelchairs, and certain manual wheelchairs), and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title.
+&emsp;&emsp;Covered items (as defined in section 1395m(a)(13) of this title) for which payment would otherwise be made under section 1395m(a) of this title, including items used in infusion and drugs (other than inhalation drugs) and supplies used in conjunction with durable medical equipment, but excluding class III devices under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher, complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes) (and related accessories when furnished in connection with such complex rehabilitative power wheelchairs, complex rehabilitative manual wheelchairs, and certain manual wheelchairs), and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title.
 
 #### (B) Other equipment and supplies
 
@@ -290,7 +290,7 @@
 
 #### (7) Consideration in determining categories for bids
 
-&emsp;The Secretary may consider the clinical efficiency and value of specific items withincodes, including whether some items have a greater therapeutic advantage to individuals.
+&emsp;The Secretary may consider the clinical efficiency and value of specific items within codes, including whether some items have a greater therapeutic advantage to individuals.
 
 #### (8) Authority to contract for education, monitoring, outreach, and complaint services
 
@@ -492,7 +492,7 @@ Subsec. (c)(5). Pub. L. 110–275, §154(c)(2)(A), substituted "December 31, 201
 
 Subsec. (d). Pub. L. 110–275, §154(c)(2)(B), substituted "July 1, 2011" for "July 1, 2009".
 
-Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on the application of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
+Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on theapplication of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
 
 Subsec. (f). Pub. L. 110–275, §154(b)(3), added subsec. (f).
 
@@ -510,7 +510,7 @@ Amendment by Pub. L. 106–113 effective as if included in the enactment of the 
 
 #### Construction of 2015 Amendment
 
-Pub. L. 114–10, title V, §522(b)(2), Apr. 16, 2015, 129 Stat. 177, provided that: "Nothing in the amendmentmade by paragraph (1) \[amending this section\] shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) before the date of the enactment of this Act \[Apr. 16, 2015\]."
+Pub. L. 114–10, title V, §522(b)(2), Apr. 16, 2015, 129 Stat. 177, provided that: "Nothing in the amendment made by paragraph (1) \[amending this section\] shall be construed as affecting the authority of the Secretary of Health and Human Services to require State licensure of an entity under the Medicare competitive acquisition program under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) before the date of the enactment of this Act \[Apr. 16, 2015\]."
 
 #### Non-Application of Medicare Fee Schedule Adjustments for Wheelchair Accessories and Seat and Back Cushions When Furnished in Connection With Complex Rehabilitative Manual Wheelchairs
 
@@ -578,7 +578,7 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended
 
 #### Study by GAO
 
-Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

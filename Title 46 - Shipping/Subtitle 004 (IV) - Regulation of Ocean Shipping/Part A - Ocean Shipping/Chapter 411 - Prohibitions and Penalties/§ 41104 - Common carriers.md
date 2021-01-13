@@ -70,6 +70,8 @@ Historical and Revision Notes
 
 Pub. L. 98–237, §10(b)(1)–(12), Mar. 20, 1984, 98 Stat. 77; Pub. L. 101–595, title VII, §710(c), Nov. 16, 1990, 104 Stat. 2997; Pub. L. 102–251, title II, §201(b), Mar. 9, 1992, 106 Stat. 60; Pub. L. 105–258, title I, §109(a), Oct. 14, 1998, 112 Stat. 1909; Pub. L. 105–383, title IV, §424(b), Nov. 13, 1998, 112 Stat. 3441.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–282, §708(a)(1), designated existing provisions as subsec. (a) and inserted heading.
@@ -79,6 +81,8 @@ Subsec. (a)(11). Pub. L. 115–282, §708(a)(2)(A), amended par. (11) generally.
 Subsec. (a)(13). Pub. L. 115–282, §708(a)(2)(B), (C), added par. (13).
 
 Subsecs. (b), (c). Pub. L. 115–282, §708(a)(3), added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

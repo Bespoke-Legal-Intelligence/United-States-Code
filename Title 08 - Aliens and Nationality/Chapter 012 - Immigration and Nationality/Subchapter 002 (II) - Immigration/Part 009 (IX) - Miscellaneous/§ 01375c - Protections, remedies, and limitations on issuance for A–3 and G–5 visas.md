@@ -12,11 +12,11 @@
 
 #### (2) Suspension requirement
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall suspend, for a period of at least 1 year, except if the Secretary determines and reports to the appropriate congressional committees, in advance, the reasons a shorter period is in the national interest,,<sup>2</sup> the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, if there is an unpaid default or final civil judgement directly or indirectly related to human trafficking against the employer or a family member assigned to the embassy, or the diplomatic mission or international organization hosting the employer or family member has not responded affirmatively to a request to waive immunity within 6 weeks of the request in a case brought by the United States Government and the country that accredited the employer or family member or, in the case of international organizations, the country of citizenship, has not initiated prosecution against the employer or family member.
+&emsp;Notwithstanding any other provision of law, the Secretary shall suspend, for a period of at least 1 year, except if the Secretary determines and reports to the appropriate congressional committees, in advance, the reasons a shorter period is in the national interest,,<sup>2</sup> the issuance of A–3 visas or G–5 visas to applicants seeking to work for officials of a diplomatic mission or an international organization, ifthere is an unpaid default or final civil judgement directly or indirectly related to human trafficking against the employer or a family member assigned to the embassy, or the diplomatic mission or international organization hosting the employer or family member has not responded affirmatively to a request to waive immunity within 6 weeks of the request in a case brought by the United States Government and the country that accredited the employer or family member or, in the case of international organizations, the country of citizenship, has not initiated prosecution against the employer or family member.
 
 #### (3) Action by diplomatic missions or international organizations
 
-&emsp;The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that, as applicable, the unpaid default judgment or final civil judgement has been resolved, the diplomatic mission or international organization hosting the employer or family member has waived immunity for the employer or family member or the country that accredited the employer or family member or the country of citizenship of the employer or family member completed the prosecution of the employer or family member, and the diplomatic mission orinternational organization hosting the employer or family member has a mechanism in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
+&emsp;The Secretary may suspend the application of the limitation under paragraph (2) if the Secretary determines and reports to the appropriate congressional committees that, as applicable, the unpaid default judgment or final civil judgement has been resolved, the diplomatic mission or international organization hosting the employer or family member has waived immunity for the employer or family member or the country that accredited the employer or family member or the country of citizenship of the employer or family member completed the prosecution of the employer or family member, and the diplomatic mission or international organization hosting the employer or family member has a mechanism in place to ensure that such abuse or exploitation does not reoccur with respect to any alien employed by an employee of such mission or institution.
 
 #### (b) Protections and remedies for A–3 and G–5 nonimmigrants employed by diplomats and staff of international organizations
 
@@ -96,7 +96,7 @@
 
 #### (2) Feasibility of oversight of employees of diplomats and representatives of other institutions report
 
-&emsp;Not later than 180 days after December 23, 2008, the Secretary shall submit a report tothe appropriate congressional committees on the feasibility of—
+&emsp;Not later than 180 days after December 23, 2008, the Secretary shall submit a report to the appropriate congressional committees on the feasibility of—
 
 &emsp;&emsp;(A) establishing a system to monitor the treatment of nonimmigrants holding an A–3 visa or a G–5 visa who have been admitted to the United States;
 
@@ -139,6 +139,8 @@ In this section:
 &emsp;&emsp;(B) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate.
 
 (Pub. L. 110–457, title II, §203, Dec. 23, 2008, 122 Stat. 5057; Pub. L. 115–425, title I, §123, Jan. 8, 2019, 132 Stat. 5479.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

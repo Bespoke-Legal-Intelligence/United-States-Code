@@ -2,7 +2,7 @@
 
 (a) The Secretary may enter into a multiyear contract for the procurement of supplies or services if the Secretary makes each of the following determinations:
 
-&emsp;(1) Appropriations are available for obligations that are necessary for total paymentsthat would be required during the fiscal year in which the contract is entered into, plus the estimated amount of any cancellation charge payable under the contract.
+&emsp;(1) Appropriations are available for obligations that are necessary for total payments that would be required during the fiscal year in which the contract is entered into, plus the estimated amount of any cancellation charge payable under the contract.
 
 &emsp;(2) The contract is in the best interest of the United States by reason of the effect that use of a multiyear, rather than one-year, contract would have in—
 
@@ -51,6 +51,8 @@
 &emsp;(3) The term "nonrecurring, unrecovered costs" means those costs reasonably incurred by the contractor in performing a multiyear contract which (as determined under regulations prescribed under subsection (d) of this section) are generally incurred on a one-time basis.
 
 (Added Pub. L. 100–322, title IV, §404(a), May 20, 1988, 102 Stat. 545; amended Pub. L. 101–237, title VI, §601(a), (b)(1), Dec. 18, 1989, 103 Stat. 2094; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

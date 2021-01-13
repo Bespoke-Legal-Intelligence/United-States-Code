@@ -38,6 +38,8 @@ In subsection (a), the designation is added, and the words "last Monday in May" 
 
 In subsection (b)(4), the word "media" is substituted for "newspapers, radio stations, and all other mediums of information" to eliminate unnecessary words.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### National Moment of Remembrance
 
 Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–161, div. H, title I, §1502(e), Dec. 26, 2007, 121 Stat. 2250, provided that:
@@ -302,7 +304,7 @@ Who may act on behalf of commission.—Except as provided in paragraph (1), noth
 
 &emsp;&emsp;"(B)
 
-Duration of legal agreements.—A contract, lease, or other legal agreement entered into by the Commission may not extend beyond the date of termination of the Commission.
+Duration of legal agreements.—A contract, lease, or other legal agreement entered intoby the Commission may not extend beyond the date of termination of the Commission.
 
 &emsp;"(3)
 

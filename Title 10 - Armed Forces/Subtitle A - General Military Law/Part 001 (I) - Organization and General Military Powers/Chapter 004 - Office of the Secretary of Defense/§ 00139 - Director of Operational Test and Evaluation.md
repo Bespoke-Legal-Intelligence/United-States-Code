@@ -38,7 +38,7 @@
 
 (4) The Director shall have prompt access to all data regarding modeling and simulation activity proposed to be used by military departments and defense agencies in support of operational or live fire test and evaluation of military capabilities. This access shall include data associated with verification, validation, and accreditation activities.
 
-(f)(1) The Director of the Missile Defense Agency shall make available to the Director of Operational Test and Evaluation the results of all tests and evaluations conducted by the Missile Defense Agency and of all studies conducted by the Missile Defense Agency in connection with tests and evaluations in the Missile Defense Agency.
+(f)(1) The Director of the Missile Defense Agency shall make available to the Director of Operational Test and Evaluation the results of all tests and evaluations conducted by the Missile Defense Agency and of all studies conducted by the Missile Defense Agency in connectionwith tests and evaluations in the Missile Defense Agency.
 
 (2) The Director of Operational Test and Evaluation may require that such observers as the Director designates be present during the preparation for and the conducting of any test and evaluation conducted by the Missile Defense Agency.
 
@@ -48,7 +48,7 @@
 
 (h)(1) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
 
-(2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,,<sup>1</sup> the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2025.
+(2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year, through January 31, 2026.
 
 (3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
 
@@ -62,7 +62,17 @@
 
 (k) The Director shall have sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director prescribed by law.
 
-(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1),904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, §235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, §231(f), Oct. 17, 2006, 120 Stat. 2133; Pub. L. 110–181, div. A, title II, §221, Jan. 28, 2008, 122 Stat. 37; Pub. L. 110–417, \[div. A\], title II, §251(c), Oct. 14, 2008, 122 Stat. 4400; Pub. L. 114–328, div. A, title VIII, §845, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–232, div. A, title VIII, §887(a), Aug. 13, 2018, 132 Stat. 1916; Pub. L. 116–92, div. A, title VIII, §815, title IX, §902(4), Dec. 20, 2019, 133 Stat. 1487, 1542.)
+(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, §235, Dec. 2, 2002, 116 Stat. 2491; Pub. L. 109–364, div. A, title II, §231(f), Oct. 17, 2006, 120 Stat. 2133; Pub. L. 110–181, div. A, title II, §221, Jan. 28, 2008, 122 Stat. 37; Pub. L. 110–417, \[div. A\], title II, §251(c), Oct. 14, 2008, 122 Stat. 4400; Pub. L. 114–328, div. A, title VIII, §845, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–232, div. A, title VIII, §887(a), Aug. 13, 2018, 132 Stat. 1916; Pub. L. 116–92, div. A, title VIII, §815, title IX, §902(4), Dec. 20, 2019, 133 Stat. 1487, 1542; Pub. L. 116–283, div. A, title II, §271, title XVIII, §§1845(c)(1), 1846(i)(1), Jan. 1, 2021, 134 Stat. 3502, 4247, 4251.)
+
+#### Amendment of Subsections (a)(2)(B) and (b)(6)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(1), 1846(i)(1), Jan. 1, 2021, 134 Stat. 4151, 4247, 4251, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended—</i>
+
+<i>(1) in subsection (a)(2)(B), by striking "section 2430" and inserting "section 4201";</i>
+
+<i>(2) in subsection (b)(6), by striking "section 2366" and inserting "section 4172".</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 #### Codification
 
@@ -75,6 +85,12 @@ A prior section 139 was renumbered section 140 of this title.
 Another prior section 139 was renumbered section 2431 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(B). Pub. L. 116–283, §1846(i)(1), substituted "section 4201" for "section 2430".
+
+Subsec. (b)(6). Pub. L. 116–283, §1845(c)(1), substituted "section 4172" for "section 2366".
+
+Subsec. (h)(2). Pub. L. 116–283, §271, substituted "Engineering," for "Engineering,," and ", through January 31, 2026" for ", through January 31, 2025".
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92, §902(4)(A), substituted ", the Under Secretary of Defense for Acquisition and Sustainment, and the Under Secretary of Defense for Research and Engineering" for "and the Under Secretary of Defense for Acquisition, Technology, and Logistics" in two places.
 
@@ -138,13 +154,13 @@ Subsec. (a)(2)(B). Pub. L. 101–189, §1622(e)(1)(B), which directed amendment 
 
 Subsec. (b)(4). Pub. L. 101–189, §802(b)(1)(A), inserted "and" after "defense agency;".
 
-Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "analyze the results of theoperational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
+Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
 
 &emsp;"(A) whether the test and evaluation performed was adequate; and
 
 &emsp;"(B) whether the test and evaluation results confirm that the items or components actually tested are effective and suitable for combat; and".
 
-Subsec. (c). Pub. L. 101–189, §802(b)(2), (3), redesignated subsec. (d)(1) as (c) and struck out former subsec. (c) which read as follows: "Each report of the Director required under subsection (b)(5) shall be submitted to the committees specified in that subsection in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report."
+Subsec. (c). Pub. L. 101–189, §802(b)(2), (3), redesignated subsec. (d)(1) as (c) and struck out former subsec.\(c) which read as follows: "Each report of the Director required under subsection (b)(5) shall be submitted to the committees specified in that subsection in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary of Defense and the Under Secretary of Defense for Acquisition and shall be accompanied by such comments as the Secretary may wish to make on the report."
 
 Subsec. (d). Pub. L. 101–189, §802(b)(4), redesignated former par. (2) of subsec. (d) as entire subsec. Former par. (1) of subsec. (d) redesignated subsec. (c).
 
@@ -177,6 +193,10 @@ Pub. L. 99–348 substituted "Director of Defense Research and Engineering" for 
 Subsec. (g)(1). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§§903(c)(6), 910(c)\], and Pub. L. 99–661, §§903(c)(6), 910(c), amended par. (1) identically, inserting ", the Under Secretary of Defense for Acquisition," and substituting "10 days after transmission of the budget for the next fiscal year under section 1105 of title 31" for "January 15 immediately following the end of the fiscal year for which the report is prepared".
 
 Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§903(c)(7)\], and Pub. L. 99–661, §903(c)(7), amended section identically adding subsec. (i).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1845(c)(1) and 1846(i)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
@@ -253,6 +273,4 @@ Inclusion of Testing Needs in Strategic Plan.—The Director, Test Resource Mana
 "(e)
 
 Report to Congress.—Not later than nine months after the date of the enactment of this Act \[Oct. 17, 2006\], the Under Secretary and the Director of Operational Test and Evaluation shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the review conducted under paragraph (1) of subsection (b), including any new or revised guidance issued pursuant to paragraph (2) of that subsection."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

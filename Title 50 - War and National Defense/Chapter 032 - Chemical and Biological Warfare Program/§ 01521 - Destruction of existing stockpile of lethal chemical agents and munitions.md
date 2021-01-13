@@ -198,7 +198,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 &emsp;(ii) In the case of an incentive payment for the completion of facility closure activities within the target incentive range specified in such clause, $55,000,000.
 
-(C) An incentives clause in a contract under this section shall specify the target incentiveranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
+(C) An incentives clause in a contract under this section shall specify the target incentive ranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
 
 (D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
 
@@ -222,7 +222,7 @@ In determining the technologies to supplement the neutralization destruction of 
 
 In this section:
 
-&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
+&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or otherdamaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
 &emsp;(2) The term "Chemical Weapons Convention" means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).
 
@@ -272,7 +272,7 @@ Subsecs. (o), (p). Pub. L. 112–239, §1421(a)(3), (4), added subsec. (o) and r
 
 <b>2011</b>—Pub. L. 111–383, §1421(a), which directed the general amendment of section 1412 of the "National Defense Authorization Act, 1986 (50 U.S.C. 1521)", was executed by making the amendment to this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress. Prior to amendment, section related to destruction of existing stockpile of lethal chemical agents and munitions by Dec. 31, 2004.
 
-<b>2008</b>—Subsec. (c)(5)(B). Pub. L. 110–181, §924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No assistance may be provided under this paragraph after the completion of the destruction of the United States' stockpile of lethal chemical agents and munitions."
+<b>2008</b>—Subsec. (c)(5)(B). Pub. L. 110–181, §924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No assistance may be provided underthis paragraph after the completion of the destruction of the United States' stockpile of lethal chemical agents and munitions."
 
 Subsec. (e)(3). Pub. L. 110–181, §923, inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "training in chemical warfare defense operations; and".
 
@@ -358,7 +358,7 @@ Subsec. (g)(3), (4). Pub. L. 102–484, §179(3)(D), redesignated par. (4) as (3
 
 <b>1991</b>—Subsec. (b)(5). Pub. L. 102–190, §151(a), substituted "July 31, 1999" for "April 30, 1997".
 
-Subsec. (c)(3). Pub. L. 102–190, §151(b), inserted at end "Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence."
+Subsec. (c)(3). Pub. L. 102–190, §151(b), inserted at end "Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry outthis section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence."
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §171(b), substituted "November 8, 1985" for "the date of the enactment of this Act".
 

@@ -4,6 +4,8 @@ Any contractor for energy from the project failing or refusing to execute a cont
 
 (July 19, 1940, ch. 643, §11, 54 Stat. 778.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

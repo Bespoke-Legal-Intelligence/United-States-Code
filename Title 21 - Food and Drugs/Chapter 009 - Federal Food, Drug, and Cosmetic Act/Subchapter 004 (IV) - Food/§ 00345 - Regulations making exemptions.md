@@ -4,13 +4,17 @@ The Secretary shall promulgate regulations exempting from any labeling requireme
 
 (June 25, 1938, ch. 675, §405, 52 Stat. 1049; Pub. L. 101–535, §5(a), Nov. 8, 1990, 104 Stat. 2362.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–535 inserted at end "This section does not apply to the labeling requirements of sections 343(q) and 343(r) of this title."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of thistitle, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Construction of Amendments by Pub. L. 101–535
 

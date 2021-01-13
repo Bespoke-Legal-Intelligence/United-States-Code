@@ -42,7 +42,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles and ground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary; and
 
-&emsp;(7) if the cost is incurred on a measure to improve the efficiency of an airport building (such as a measure designed to meet one or more of the criteria for being considered a high-performance green building as set forth under section 401(13) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17061(13))) and—
+&emsp;(7) if the cost is incurred on a measure to improve the efficiency of an airport building (such as a measure designed to meet one ormore of the criteria for being considered a high-performance green building as set forth under section 401(13) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17061(13))) and—
 
 &emsp;&emsp;(A) the measure is for a project for airport development;
 
@@ -263,7 +263,7 @@ Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 
 &emsp;"(A) after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed; or
 
-&emsp;"(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and isconsistent with all applicable statutory and administrative requirements;".
+&emsp;"(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;".
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
 

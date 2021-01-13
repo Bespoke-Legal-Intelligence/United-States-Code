@@ -24,5 +24,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 of Pub. L. 91–161, set out as a note under section 2272 of this title.
+Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 ofPub. L. 91–161, set out as a note under section 2272 of this title.
 

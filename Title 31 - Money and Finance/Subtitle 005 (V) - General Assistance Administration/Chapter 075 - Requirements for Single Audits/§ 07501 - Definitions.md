@@ -72,6 +72,8 @@
 
 (Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2327; amended Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1396.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -79,6 +81,8 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions defining terms used in this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2016 Amendment
 

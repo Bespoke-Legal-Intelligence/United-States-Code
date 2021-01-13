@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 The section is included to provide in subchapter I of chapter 5 of the revised title a complete list of the organizational units established by law that are in the Office of Management and Budget or are subject to the direction and supervision of the Director of the Office of Management and Budget.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–576 renumbered section 503 of this title as this section.

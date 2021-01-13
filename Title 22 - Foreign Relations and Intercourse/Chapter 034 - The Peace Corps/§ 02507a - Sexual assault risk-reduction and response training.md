@@ -16,9 +16,9 @@ Once a volunteer has arrived in his or her country of service, the President sha
 
 #### (1) In general
 
-&emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each countryin which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
+&emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
 
-&emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
+&emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statisticsregarding unreported crime collected through anonymous surveys;
 
 &emsp;&emsp;(B) the current early termination rate of volunteers serving in such country;
 
@@ -106,13 +106,17 @@ In this section and sections 2507b through 2507g of this title:
 
 &emsp;&emsp;(B) suffer substantial emotional distress.
 
-(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736; amended Pub. L. 115–256, title III, §302, Oct. 9, 2018, 132 Stat. 3656.)
+(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736; amendedPub. L. 115–256, title III, §302, Oct. 9, 2018, 132 Stat. 3656.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–256, §302(1), amended subsec. (d) generally. Prior to amendment, text read as follows: "Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country."
 
 Subsec. (f)(2)(B)(iii). Pub. L. 115–256, §302(2), substituted "Victim's Advocates," for "victim advocates".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Offset of Costs and Personnel
 

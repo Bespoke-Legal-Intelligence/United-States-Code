@@ -20,13 +20,17 @@ To the maximum extent practicable, the Secretary shall ensure access to National
 
 (Pub. L. 110–234, title VIII, §8104, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, §4(a), title VIII, §8104, June 18, 2008, 122 Stat. 1664, 2049.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The American Indian Religious Freedom Act, referred to in subsec. (b)(3), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 1996 of Title 42 and Tables.
+The American Indian Religious Freedom Act, referred to in subsec. (b)(3), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

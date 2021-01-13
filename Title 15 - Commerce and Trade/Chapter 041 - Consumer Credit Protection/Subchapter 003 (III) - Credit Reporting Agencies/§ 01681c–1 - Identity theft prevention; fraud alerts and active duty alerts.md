@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
+&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reportingagency described in section 1681a(p) of this title that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
 
 &emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, during the 7-year period beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period and the agency has received appropriate proof of the identity of the requester for such purpose;
 
@@ -44,7 +44,7 @@ Upon the direct request of an active duty military consumer, or an individual ac
 
 &emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
-&emsp;(2) during the 2-year period beginning on the date of such request, exclude the active dutymilitary consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
+&emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
 &emsp;(3) refer the information regarding the active duty alert to each of the other consumer reporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
 
@@ -76,7 +76,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (A) Notification
 
-&emsp;&emsp;Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users of a consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
+&emsp;&emsp;Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users ofa consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
 
 #### (B) Limitation on users
 
@@ -174,7 +174,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;A security freeze shall not apply to the making of a consumer report for use of the following:
 
-&emsp;&emsp;(A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, or an assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demanddeposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, "reviewing the account" includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
+&emsp;&emsp;(A) A person or entity, or a subsidiary, affiliate, or agent of that person or entity, or an assignee of a financial obligation owed by the consumer to that person or entity, or a prospective assignee of a financial obligation owed by the consumer to that person or entity in conjunction with the proposed purchase of the financial obligation, with which the consumer has or had prior to assignment an account or contract including a demand deposit account, or to whom the consumer issued a negotiable instrument, for the purposes of reviewing the account or collecting the financial obligation owed for the account, contract, or negotiable instrument. For purposes of this subparagraph, "reviewing the account" includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.
 
 &emsp;&emsp;(B) Any Federal, State, or local agency, law enforcement agency, trial court, or private collection agency acting pursuant to a court order, warrant, or subpoena.
 
@@ -278,7 +278,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Upon receiving a direct request from a protected consumer's representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
 
-&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer's representative; or
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means,1 business day after receiving the request directly from the protected consumer's representative; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer's representative.
 
@@ -316,7 +316,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (C) Removal of freeze by request
 
-&emsp;&emsp;Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer's representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Uponreceiving a direct request from the protected consumer's representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
+&emsp;&emsp;Except as provided in subparagraph (A)(iii), a security freeze shall remain in place until a protected consumer's representative or protected consumer described in subparagraph (A)(ii) directly requests that the security freeze be removed. Upon receiving a direct request from the protected consumer's representative or protected consumer described in subparagraph (A)(ii) that a consumer reporting agency remove a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, remove the security freeze not later than—
 
 &emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 hour after receiving the request for removal; or
 
@@ -398,7 +398,7 @@ Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended b
 
 Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
 
-\[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159,set out as a Definitions note under section 1681 of this title.\]
+\[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

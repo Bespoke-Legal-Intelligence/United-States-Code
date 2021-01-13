@@ -28,6 +28,8 @@ The words "disbursing official" are substituted for "disbursing officer" because
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 94–22 struck out "or individual" after "employee" wherever appearing.

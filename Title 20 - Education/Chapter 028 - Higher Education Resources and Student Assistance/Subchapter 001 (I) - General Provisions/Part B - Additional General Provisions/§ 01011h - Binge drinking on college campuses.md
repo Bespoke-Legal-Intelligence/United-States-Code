@@ -6,7 +6,7 @@ This section may be cited as the "Collegiate Initiative To Reduce Binge Drinking
 
 #### (b) Sense of Congress
 
-It is the sense of Congress that, in an effort to change the culture of alcohol consumption on college campuses, all institutions of higher education should carry out the following:
+It is the sense of Congress that, in an effort to change the culture of alcohol consumption oncollege campuses, all institutions of higher education should carry out the following:
 
 &emsp;(1) The president of the institution should appoint a task force consisting of school administrators, faculty, students, Greek system representatives, and others to conduct a full examination of student and academic life at the institution. The task force should make recommendations for a broad range of policy and program changes that would serve to reduce alcohol and other drug-related problems. The institution should provide resources to assist the task force in promoting the campus policies and proposed environmental changes that have been identified.
 

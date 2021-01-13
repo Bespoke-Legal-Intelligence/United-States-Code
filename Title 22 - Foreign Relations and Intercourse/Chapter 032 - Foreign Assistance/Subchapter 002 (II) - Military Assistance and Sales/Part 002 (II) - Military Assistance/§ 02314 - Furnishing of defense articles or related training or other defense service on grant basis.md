@@ -52,7 +52,7 @@ The President shall regularly reduce and, with such deliberate speed as orderly 
 
 #### (e) Consent by President to transfer
 
-In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under subsection (a)(1) or (a)(4) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under subsection (a)(1) or (a)(4) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President.
+In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under subsection (a)(1) or (a)(4) to the transfer unless theUnited States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under subsection (a)(1) or (a)(4) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President.
 
 #### (f) Disposition of defense articles furnished on a grant basis; net proceeds to be paid over to the United States
 
@@ -84,13 +84,15 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 (B) In the event a statement with respect to an assistance or training transaction is requested pursuant to subparagraph (A) of this paragraph but is not transmitted in accordance therewith within 60 days after receipt of such request, such assistance or training transaction shall be suspended unless and until such statement is transmitted.
 
-(C)(i) In the event a statement with respect to an assistance or training transaction is transmitted under subparagraph (A) of this paragraph, the Congress may at any time thereafter adopt a joint resolution terminating or restricting such assistance or training transaction.
+(C)(i) In the event a statement with respect to an assistance or training transaction is transmitted under subparagraph (A) of this paragraph, the Congress may at any time thereafteradopt a joint resolution terminating or restricting such assistance or training transaction.
 
 (ii) Any such resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
 (iii) The term "certification", as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under subparagraph (A) of this paragraph.
 
 (Pub. L. 87–195, pt. II, §505, formerly §506, Sept. 4, 1961, 75 Stat. 436; Pub. L. 87–565, pt. II, §201(a), Aug. 1, 1962, 76 Stat. 259; Pub. L. 89–583, pt. II, §201(b), Sept. 19, 1966, 80 Stat. 803; renumbered §505, Pub. L. 90–137, pt. II, §201(e), Nov. 14, 1967, 81 Stat. 456 and amended Pub. L. 92–226, pt. II, §201(b), (c), Feb. 7, 1972, 86 Stat. 25; Pub. L. 93–189, §12(b)(3), Dec. 17, 1973, 87 Stat. 721; Pub. L. 94–329, title II, §§203(b), 204(b)(2), title III, §§302(a), 304(a), June 30, 1976, 90 Stat. 735, 736, 751, 754; Pub. L. 95–105, title I, §109(a)(4), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–83, title I, §123(b), Aug. 8, 1985, 99 Stat. 205; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1998; Pub. L. 103–236, title I, §162(e)(2), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,6 +136,8 @@ Subsec. (e). Pub. L. 92–226, §201(c), repealed provisions respecting conditio
 
 <b>1962</b>—Subsecs. (c), (d). Pub. L. 87–565 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
@@ -145,6 +149,8 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Effective Date of 1976 Amendment
 
 Pub. L. 94–329, title II, §203(b), June 30, 1976, 90 Stat. 735, provided that the amendment made by that section is effective July 1, 1976.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

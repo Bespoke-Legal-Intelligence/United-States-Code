@@ -1,8 +1,10 @@
 ### §416. Laws applicable to withdrawn lands; restoration to entry
 
-All lands entered and entries made under the homestead laws within areas so withdrawn during such withdrawal shall be subject to all the provisions, limitations, charges, terms, and conditions of this Act; that said surveys shall be prosecuted diligently to completion, and upon the completion thereof, and of the necessary maps, plans, and estimates of cost, the Secretary of the Interior shall determine whether or not said project is practicable and advisable,and if determined to be impracticable or unadvisable he shall thereupon restore said lands to entry.
+All lands entered and entries made under the homestead laws within areas so withdrawn during such withdrawal shall be subject to all the provisions, limitations, charges, terms, and conditions of this Act; that said surveys shall be prosecuted diligently to completion, and upon the completion thereof, and of the necessary maps, plans, and estimates of cost, the Secretary of the Interior shall determine whether or not said project is practicable and advisable, and if determined to be impracticable or unadvisable he shall thereupon restore said lands to entry.
 
 (June 17, 1902, ch. 1093, §3, 32 Stat. 388; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -17,6 +19,8 @@ Section is comprised of part of section 3 of act June 17, 1902. Remainder of suc
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–579 struck out provisions that the Secretary of the Interior withdraw from public entry lands required for irrigation works contemplated under the Act of June 17, 1902, prior to the giving of the public notice provided for in section 419 of this title, that he restore such withdrawn lands to public entry when he deemed such lands unnecessary for the purposes of such Act, and that he withdraw from entry, except under the homestead laws, any public lands believed to be susceptible of irrigation from said works prior to the beginning of surveys for any contemplated irrigation works.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

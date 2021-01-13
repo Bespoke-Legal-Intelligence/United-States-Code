@@ -1,6 +1,6 @@
 ### §30501. Definition
 
-In this chapter, the term "owner" includes a charterer that mans, supplies, and navigates avessel at the charterer's own expense or by the charterer's own procurement.
+In this chapter, the term "owner" includes a charterer that mans, supplies, and navigates a vessel at the charterer's own expense or by the charterer's own procurement.
 
 (Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1512.)
 

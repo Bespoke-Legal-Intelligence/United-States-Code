@@ -4,9 +4,13 @@ Laws now applicable to lands or resources in the Territory of Alaska shall conti
 
 (Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 471o of Title 48, Territories and Insular Possessions.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

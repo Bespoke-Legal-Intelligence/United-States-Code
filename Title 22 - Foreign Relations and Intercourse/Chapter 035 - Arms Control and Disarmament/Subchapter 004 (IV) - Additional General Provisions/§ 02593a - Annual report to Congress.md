@@ -64,6 +64,8 @@ In this section, the term "appropriate congressional committees" means—
 
 (Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487; Pub. L. 107–228, div. B, title XI, §1103, Sept. 30, 2002, 116 Stat. 1426; Pub. L. 113–66, div. A, title XII, §1247, Dec. 26, 2013, 127 Stat. 924; Pub. L. 114–92, div. A, title XII, §1272, Nov. 25, 2015, 129 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999, referred to in subsec. (d), is section 1000(a)(7) \[div. B, title XI, §1102(1)\] of Pub. L. 106–113, which is set out as a note under section 2652c of this title.
@@ -110,6 +112,8 @@ Subsec. (b). Pub. L. 105–277, §1223(15)(B), inserted at end "The portions of 
 
 Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
@@ -121,10 +125,6 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
-
-#### Delegation of Functions
-
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
 #### United States Participation in Open Skies Treaty
 
@@ -140,11 +140,11 @@ Notification Required.—Not later than 120 days before the provision of notice 
 
 "(d)
 
-Definition of Open Skies Treaty; Treaty.—In this section \[enacting this note\], the term 'Open Skies Treaty' or 'Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
+Definition of Open Skies Treaty; Treaty.—In this section \[enacting this note\], the term 'Open SkiesTreaty' or 'Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
 
 #### Notification of Breach of INF Treaty by the Russian Federation
 
-Pub. L. 115–91, div. A, title XII, §§1244(a), 1246, Dec. 12, 2017, 131 Stat. 1673, 1675, as amended by Pub. L. 116–92,div. A, title XII, §1235(c), Dec. 20, 2019, 133 Stat. 1650, provided that:
+Pub. L. 115–91, div. A, title XII, §§1244(a), 1246, Dec. 12, 2017, 131 Stat. 1673, 1675, as amended by Pub. L. 116–92, div. A, title XII, §1235(c), Dec. 20, 2019, 133 Stat. 1650, provided that:
 
 #### SEC. 1244. NOTIFICATION REQUIREMENT RELATED TO RUSSIAN FEDERATION DEVELOPMENT OF NONCOMPLIANT SYSTEMS AND UNITED STATES ACTIONS REGARDING MATERIAL BREACH OF INF TREATY BY THE RUSSIAN FEDERATION.
 
@@ -254,7 +254,7 @@ Briefings Required.—
 
 &emsp;"(1)
 
-In general.—At the time of the submission of the report required under subsection (c), and every six months thereafter until the date on which the Russian Federation is in compliance with its obligations under the INF Treaty, the Secretary of State,jointly with the Secretary of Defense and the heads of such other departments or agencies as appropriate, shall provide to the appropriate congressional committees a briefing on the status of United States efforts to resolve its concerns relating to noncompliance by the Russian Federation with its obligations under the INF Treaty.
+In general.—At the time of the submission of the report required under subsection (c), and every six months thereafter until the date on which the Russian Federation is in compliance with its obligations under the INF Treaty, the Secretary of State, jointly with the Secretary of Defense and the heads of such other departments or agencies as appropriate, shall provide to the appropriate congressional committees a briefing on the status of United States efforts to resolve its concerns relating to noncompliance by the Russian Federation with its obligations under the INF Treaty.
 
 &emsp;"(2)
 
@@ -321,4 +321,10 @@ Reporting Requirement.—The Director of the Arms Control and Disarmament Agency
 "(b)
 
 Contents of Reports.—The reports required by subsection (a) shall include information reflecting the activities of forums established to consider issues relating to treaty implementation and treaty compliance."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 

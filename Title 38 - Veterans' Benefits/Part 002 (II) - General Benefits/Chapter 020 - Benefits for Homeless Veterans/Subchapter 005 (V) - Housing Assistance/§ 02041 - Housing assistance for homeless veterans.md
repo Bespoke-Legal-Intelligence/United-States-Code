@@ -32,7 +32,7 @@
 
 (5) An approved entity that leases a property from the Secretary under this section shall be responsible for the payment of any taxes, utilities, liability insurance, and other maintenance charges or similar charges that apply to the property.
 
-(6) Any agreement, deed, or other instrument executed by the Secretary under this subsectionshall be on such terms and conditions as the Secretary determines to be appropriate and necessary to carry out the purpose of such agreement.
+(6) Any agreement, deed, or other instrument executed by the Secretary under this subsection shall be on such terms and conditions as the Secretary determines to be appropriate and necessary to carry out the purpose of such agreement.
 
 (b)(1) Subject to paragraphs (2) and (3), the Secretary may make loans to organizations described in paragraph (1)(A) of subsection (a) to finance the purchase of property by such organizations under such subsection.
 
@@ -48,6 +48,8 @@
 
 (Added Pub. L. 102–54, §9(a), June 13, 1991, 105 Stat. 272, §1835; renumbered §3735, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–590, §§8, 9, Nov. 10, 1992, 106 Stat. 5140; Pub. L. 103–446, title XII, §1201(d)(13), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–110, title I, §101(h), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §203(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 105–368, title VI, §602(e)(1)(G), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 106–117, title IX, §902, Nov. 30, 1999, 113 Stat. 1587; renumbered §2041, Pub. L. 107–95, §5(c), Dec. 21, 2001, 115 Stat. 918; Pub. L. 108–170, title IV, §404, Dec. 6, 2003, 117 Stat. 2063; Pub. L. 109–444, §8(a)(5), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title VII, §705, title X, §§1004(a)(5), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–37, §10(e), Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–191, title II, §205, Oct. 5, 2012, 126 Stat. 1439; Pub. L. 113–59, §10, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title II, §205, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §303, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title III, §304, Sept. 29, 2016, 130 Stat. 939.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–228 substituted "September 30, 2017" for "September 30, 2016".
@@ -62,7 +64,7 @@
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–37 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461,the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(5), substituted "established under section 3722 of this title" for "under this chapter".
 
@@ -98,13 +100,21 @@ Subsec. (c). Pub. L. 102–590, §9(a)(1), redesignated subsec. (b) as (c).
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1835 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
 
+#### Availability of Telehealth for Case Managers and Homeless Veterans
+
+Pub. L. 116–136, div. B, title X, §20011, Mar. 27, 2020, 134 Stat. 589, provided that: "The Secretary of Veterans Affairs shall ensure that telehealth capabilities are available during a public health emergency for case managers of, and homeless veterans participating in, the Department of Housing and Urban Development–Department of Veterans Affairs Supportive Housing program (commonly referred to as 'HUD–VASH')."
+
+\[For definition of "public health emergency" as used in section 20011 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
+
 #### Collaboration in Provision of Case Management Services to Homeless Veterans in Supported Housing Program
 
-Pub. L. 112–154, title III, §304, Aug. 6, 2012, 126 Stat. 1185, provided that:
+Pub. L. 112–154, title III, §304, Aug. 6, 2012, 126 Stat. 1185, as amended by Pub. L. 116–315, title IV, §4207(a), Jan. 5, 2021, 134 Stat. 5015, provided that:
 
 "(a)
 
@@ -213,6 +223,42 @@ Elements.—Each report required by paragraph (1) shall include, for the period 
 &emsp;&emsp;"(G) A discussion of the benefits of increasing the ratio of case managers to recipients of vouchers under the supported housing program described in such subsection to veterans who reside in rural areas.
 
 &emsp;&emsp;"(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate for the improvement of collaboration in the provision of case management services under such supported housing program."
+
+<i>\[Pub. L. 116–315, title IV, §4207, Jan. 5, 2021, 134 Stat. 5015, provided that, effective on the first day of the first fiscal year that begins after Jan. 5, 2021, section 304 of Pub. L. 112–154, set out above, is amended:</i>
+
+<i>\[(1) in subsection (a)—</i>
+
+<i>\[(A) by inserting "(1)" before "The Secretary"; and</i>
+
+<i>\[(B) by adding at the end the following new paragraphs:</i>
+
+<i>\["(2)(A) The director of each covered medical center shall seek to enter into one or more contracts or agreements described in paragraph (1).</i>
+
+<i>\["(B) Any contract or agreement under subparagraph (A) may require that each case manager employed by an eligible entity who performs services under the contract or agreement has credentials equivalent to the credentials required for a case manager of the Department.</i>
+
+<i>\["(C)(i) The Secretary may waive the requirement under subparagraph (A) with respect to a covered medical center if the Secretary determines that fulfilling such requirement is infeasible.</i>
+
+<i>\["(ii) If the Secretary grants a waiver under clause (i), the Secretary shall, not later than 90 days after granting such waiver, submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing—</i>
+
+&emsp;<i>\["(I) an explanation of the determination made under clause (i);</i>
+
+&emsp;<i>\["(II) a plan to increase the number of case managers of the Department; and</i>
+
+&emsp;<i>\["(III) a plan for the covered medical center to increase use of housing vouchers allocated to that medical center under the program described in paragraph (1).</i>
+
+<i>\["(D) In this paragraph, the term 'covered medical center' means a medical center of the Department with respect to which the Secretary determines that—</i>
+
+&emsp;<i>\["(i) more than 15 percent of all housing vouchers allocated to that medical center under the program described in paragraph (1) during the fiscal year preceding the fiscal year in which such determination was made were unused due to a lack of case management services provided by the Secretary; and</i>
+
+&emsp;<i>\["(ii) one or more case manager positions have been vacant for at least nine consecutive months immediately preceding the date of such determination."; and</i>
+
+<i>\[(2) in subsection (b)(2)—</i>
+
+<i>\[(A) in the matter before subparagraph (A), by striking ", including because—" and inserting a period; and</i>
+
+<i>\[(B) by striking subparagraphs (A), (B), and (C).\]</i>
+
+\[Pub. L. 116–315, title IV, §4207(b), Jan. 5, 2021, 134 Stat. 5015, provided that: "The amendments made by this section \[amending section 304 of Pub. L. 112–154, set out above\] shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act \[Jan. 5, 2021\]."\]
 
 #### Ratification of Actions During Period of Expired Authority
 

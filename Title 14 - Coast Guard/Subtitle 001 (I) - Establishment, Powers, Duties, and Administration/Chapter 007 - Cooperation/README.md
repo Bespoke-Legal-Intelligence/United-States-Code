@@ -20,8 +20,12 @@
 | [716\.](%C2%A7%2000716%20-%20Arctic%20maritime%20transportation.md) | Arctic maritime transportation. |
 | [717\.](%C2%A7%2000717%20-%20Agreements.md) | Agreements. |
 | [718\.](%C2%A7%2000718%20-%20Training%3B%20emergency%20response%20providers.md) | Training; emergency response providers. |
+| [719\.](%C2%A7%2000719%20-%20Research%20projects%3B%20transactions%20other%20than%20contracts%20and%20grants.md) | Research projects; transactions other than contracts and grants. |
+| [720\.](%C2%A7%2000720%20-%20VHF%20communications%20services.md) | VHF communication services.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -31,7 +35,11 @@ A prior analysis for chapter 7 "COOPERATION WITH OTHER AGENCIES" consisted of it
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8218(b), title LVXXXV \[LXXXV\], §8501(b)(2), Jan. 1, 2021, 134 Stat. 4655, 4746, added items 719 and 720.
+
 <b>2018</b>—Pub. L. 115–282, title I, §106(a), title III, §306(b), Dec. 4, 2018, 132 Stat. 4202, 4247, inserted chapter 7 designation and heading and added items 701 to 718.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -56,3 +64,5 @@ A prior analysis for chapter 7 "COOPERATION WITH OTHER AGENCIES" consisted of it
 - [&sect; 00716 - Arctic maritime transportation](%C2%A7%2000716%20-%20Arctic%20maritime%20transportation.md)
 - [&sect; 00717 - Agreements](%C2%A7%2000717%20-%20Agreements.md)
 - [&sect; 00718 - Training; emergency response providers](%C2%A7%2000718%20-%20Training%3B%20emergency%20response%20providers.md)
+- [&sect; 00719 - Research projects; transactions other than contracts and grants](%C2%A7%2000719%20-%20Research%20projects%3B%20transactions%20other%20than%20contracts%20and%20grants.md)
+- [&sect; 00720 - VHF communications services](%C2%A7%2000720%20-%20VHF%20communications%20services.md)

@@ -4,6 +4,8 @@ For the purposes of section 1110 of this title, every veteran shall be taken to 
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1119, §311; renumbered §1111 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 311 of this title as this section.

@@ -10,9 +10,11 @@ Except as may be otherwise prescribed by regulations issued by the Attorney Gene
 
 #### (c) Removal on other than arriving vessel or aircraft; expenses
 
-If the Attorney General finds that removal of an alien crewman under this section on the vessel or aircraft on which he arrived is impracticable or impossible, or would cause undue hardship to such alien crewman, he may cause the alien crewman to be removed from the port of arrival or any other port on another vessel or aircraft of the same transportation line, unless the Attorney General finds this to be impracticable. All expenses incurred in connection with such removal, including expenses incurred in transferring an alien crewman from one place in the United States to another under such conditions and safeguards as the Attorney General shall impose, shall be paid by the owner or owners of the vessel or aircraft on which the alien arrived in the United States. The vessel or aircraft on which the alien arrived shall not be granted clearance until such expenses have been paid or their payment guaranteed to the satisfaction of the Attorney General. An alien crewman who is transferred within the United States in accordance with this subsection shall not be regarded as having been landed in the United States.
+If the Attorney General finds that removal of an alien crewman under this section on the vessel or aircraft on which he arrived is impracticable or impossible, or would cause undue hardshipto such alien crewman, he may cause the alien crewman to be removed from the port of arrival or any other port on another vessel or aircraft of the same transportation line, unless the Attorney General finds this to be impracticable. All expenses incurred in connection with such removal, including expenses incurred in transferring an alien crewman from one place in the United States to another under such conditions and safeguards as the Attorney General shall impose, shall be paid by the owner or owners of the vessel or aircraft on which the alien arrived in the United States. The vessel or aircraft on which the alien arrived shall not be granted clearance until such expenses have been paid or their payment guaranteed to the satisfaction of the Attorney General. An alien crewman who is transferred within the United States in accordance with this subsection shall not be regarded as having been landed in the United States.
 
 (June 27, 1952, ch. 477, title II, ch. 6, §254, 66 Stat. 221; Pub. L. 101–649, title V, §543(a)(4), Nov. 29, 1990, 104 Stat. 5058; Pub. L. 102–232, title III, §306(c)(4)(C), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title III, §308(e)(1)(I), (2)(F), (12), Sept. 30, 1996, 110 Stat. 3009–619, 3009–620.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ If the Attorney General finds that removal of an alien crewman under this sectio
 <b>1991</b>—Subsec. (a). Pub. L. 102–232 substituted "Commissioner" for "collector of customs" before period at end of penultimate sentence.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted "Commissioner the sum of $3,000" for "collector of customs of the customs district in which the port of arrival is located or in which the failure to comply with the orders of the officer occurs the sum of $1,000" and "$500" for "$200".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

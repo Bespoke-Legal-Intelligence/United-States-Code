@@ -132,7 +132,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary of the Interior, in coordination with the Secretary of theArmy, shall prepare and keep on file for public inspection in the appropriate office of the Secretary of the Interior a map and a legal description of the revised boundary of the Park.
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Interior, in coordination with the Secretary of the Army, shall prepare and keep on file for public inspection in the appropriate office of the Secretary of the Interior a map and a legal description of the revised boundary of the Park.
 
 #### (II) Effect
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary of the Interior may request that the Secretary of the Army conduct 1 or more investigations of military munitions or munitions debris on any land transferred under paragraph (1)(A).
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Interior may request that the Secretary of the Army conduct 1 or more investigations of military munitions or munitions debris onany land transferred under paragraph (1)(A).
 
 #### (II) Access
 

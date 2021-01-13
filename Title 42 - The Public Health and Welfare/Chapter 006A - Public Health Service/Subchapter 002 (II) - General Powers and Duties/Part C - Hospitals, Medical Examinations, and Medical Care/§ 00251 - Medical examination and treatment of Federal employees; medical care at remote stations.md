@@ -12,7 +12,7 @@
 
 (b) The Secretary is authorized to provide medical, surgical, and dental treatment and hospitalization and optometric care for Federal employees (as defined in section 8901(1) of title 5) and their dependents at remote medical facilities of the Public Health Service where such care and treatment are not otherwise available. Such employees and their dependents who are not entitled to this care and treatment under any other provision of law shall be charged for it at rates established by the Secretary to reflect the reasonable cost of providing the care and treatment. Any payments pursuant to the preceding sentence shall be credited to the applicable appropriation to the Public Health Service for the year in which such payments are received.
 
-(July 1, 1944, ch. 373, title III, §324, 58 Stat. 697; Pub. L. 90–174, §10(a), (b), Dec. 5, 1967, 81 Stat. 540; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979,43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–468, title VI, §615(b)(4), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(July 1, 1944, ch. 373, title III, §324, 58 Stat. 697; Pub. L. 90–174, §10(a), (b), Dec. 5, 1967, 81 Stat. 540; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–468, title VI, §615(b)(4), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 #### References in Text
 

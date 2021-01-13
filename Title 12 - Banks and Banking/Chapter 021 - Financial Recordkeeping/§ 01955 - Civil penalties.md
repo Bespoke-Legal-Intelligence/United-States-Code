@@ -4,7 +4,9 @@
 
 (b) In the event of the failure of any person to pay any penalty assessed under this section, a civil action for the recovery thereof may, in the discretion of the Secretary, be brought in the name of the United States.
 
-(Pub. L. 91–508, title I, §125, Oct. 26, 1970, 84 Stat. 1117; Pub. L. 100–690, title VI, §6185(d)(3)(B), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §1535(c)(1), Oct. 28, 1992, 106 Stat. 4067.)
+(Pub. L. 91–508, title I, §125, Oct. 26, 1970, 84 Stat. 1117; Pub. L. 100–690, title VI, §6185(d)(3)(B), Nov.18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §1535(c)(1), Oct. 28, 1992, 106 Stat. 4067.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -12,7 +14,9 @@
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted "or grossly negligent" after "willful" and "or through gross negligence" after "willfully" and substituted "$10,000" for "$1,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlierthan the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
+Section effective on first day of seventh calendar month which begins after Oct. 26, 1970, except that the Secretary of the Treasury may, by regulation, provide that this section be effective on any date not earlier than the publication of such regulations in the Federal Register and not later than first day of thirteenth calendar month which begins after Oct. 26, 1970, see section 401(a), (b) of Pub. L. 91–508, set out as a note under section 1951 of this title.
 

@@ -12,7 +12,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (1) Per student credit
 
-&emsp;In the case of any eligible student for whom an election is in effect under this section for any taxable year, the American Opportunity Tax Credit is an amount equal to the sum of—
+&emsp;In the case of any eligible student for whom an election is in effect under this section forany taxable year, the American Opportunity Tax Credit is an amount equal to the sum of—
 
 &emsp;&emsp;(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
 
@@ -26,7 +26,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (B) Credit allowed for year only if individual is at least ½ time student for portion of year
 
-&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowedfor a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
+&emsp;&emsp;The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
 
 #### (C) Credit allowed only for first 4 years of postsecondary education
 
@@ -82,9 +82,9 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (d) Limitations based on modified adjusted gross income
 
-#### (1) American Opportunity Tax Credit
+#### (1) In general
 
-&emsp;The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
+&emsp;The American Opportunity Tax Credit and the Lifetime Learning Credit shall each (determined without regard to this paragraph) be reduced (but not below zero) by the amount which bears the same ratio to each such credit (as so determined) as—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -94,21 +94,9 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;&emsp;(B) $10,000 ($20,000 in the case of a joint return).
 
-#### (2) Lifetime Learning Credit
+#### (2) Modified adjusted gross income
 
-&emsp;The Lifetime Learning Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
-
-&emsp;&emsp;(A) the excess of—
-
-&emsp;&emsp;&emsp;(i) the taxpayer's modified adjusted gross income for such taxable year, over
-
-&emsp;&emsp;&emsp;(ii) $40,000 ($80,000 in the case of a joint return), bears to
-
-&emsp;&emsp;(B) $10,000 ($20,000 in the case of a joint return).
-
-#### (3) Modified adjusted gross income
-
-&emsp;For purposes of this subsection, the term "modified adjusted gross income" means theadjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+&emsp;For purposes of this subsection, the term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (e) Election not to have section apply
 
@@ -196,7 +184,7 @@ For purposes of this section—
 
 #### (4) Treatment of certain prepayments
 
-&emsp;If qualified tuition and related expenses are paid by the taxpayer during a taxable year foran academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.
+&emsp;If qualified tuition and related expenses are paid by the taxpayer during a taxable year for an academic period which begins during the first 3 months following such taxable year, such academic period shall be treated for purposes of this section as beginning during such taxable year.
 
 #### (5) Denial of double benefit
 
@@ -214,19 +202,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
-#### (h) Inflation adjustment
-
-#### (1) In general
-
-&emsp;In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
-
-&emsp;&emsp;(A) such dollar amount, multiplied by
-
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
-
-#### (2) Rounding
-
-&emsp;If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
+#### \[(h) Repealed. Pub. L. 116–260, div. EE, title I, §104(a)(2), Dec. 27, 2020, 134 Stat. 3041\]
 
 #### (i) Portion of American Opportunity Tax Credit made refundable
 
@@ -236,7 +212,7 @@ Forty percent of so much of the credit allowed under subsection (a) as is attrib
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -249,6 +225,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–260, §104(a)(1), added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which provided income limitations for the American Opportunity Tax Credit and Lifetime Learning Credit, respectively.
+
+Subsec. (h). Pub. L. 116–260, §104(a)(2), struck out subsec. (h) which related to inflation adjustments for the Lifetime Learning Credit for taxable years beginning after 2001.
 
 <b>2018</b>—Pub. L. 115–141, §101(l)(14), substituted "American Opportunity Tax Credit" for "Hope Scholarship Credit" wherever appearing in text.
 
@@ -318,6 +298,10 @@ In general.—No credit shall be allowed under subsection (a) for a taxable year
 
 Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section \[amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealing section 222 of this title\] shall apply to taxable years beginning after December 31, 2020."
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 101(l)(1) to (9), (11) to (14) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
@@ -354,7 +338,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provisions of the
 
 Amendment by section 103(a)(1) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 103(e)(1) of Pub. L. 112–240, set out as a note under section 24 of this title.
 
-Amendment by section 104(c)(2)(D) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+Amendment by section 104(c)(2)(D) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31,2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -366,7 +350,7 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and TerminationDates of 2009 Amendment note under section 24 of this title.
+Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 #### Effective Date of 2001 Amendment
 

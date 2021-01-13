@@ -22,7 +22,7 @@ Pub. L. 107–253, §1, Oct. 29, 2002, 116 Stat. 1731, provided that: "This Act 
 
 #### Weather Modification Program
 
-Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to research and experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, §201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
+Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to researchand experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, §201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1965</b>
 
@@ -80,7 +80,7 @@ Nothing in this reorganization plan shall divest the Secretary of any function v
 
 (b) The President may similarly authorize any such person to act as Deputy Administrator.
 
-(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect to which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
+(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect to which he so serves. Such compensation, if authorized, shall be in lieu of,but not in addition to, other compensation from the United States to which such person may be entitled.
 
 #### Message of the President
 

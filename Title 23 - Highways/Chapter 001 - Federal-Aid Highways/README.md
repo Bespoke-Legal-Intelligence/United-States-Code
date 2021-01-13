@@ -75,6 +75,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.
@@ -105,7 +107,7 @@ Pub. L. 102–143, title III, §333(b), (c), Oct. 28, 1991, 105 Stat. 947, added
 
 <b>1990</b>—Pub. L. 101–516, title III, §333(b), Nov. 5, 1990, 104 Stat. 2186, which added item 159, was repealed by Pub. L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947. Section 333(d) of Pub. L. 102–143 provided that the amendments made by section 333 of Pub. L. 101–516 shall be treated as having not been enacted into law.
 
-<b>1987</b>—Pub. L. 100–17, title I, §§113(d)(2), 114(e)(5), 125(b)(1), 126(b), 133(b)(1), Apr. 2, 1987, 101 Stat. 150, 153, 167, 171, substituted "Advance construction" for "Construction by States in advance of apportionment" in item 115, and "Availability of funds" for "Availability of sums apportioned" in item 118, struck out "and width" after "Vehicle weight" in item 127, substituted "Carpool and vanpool projects" for identical words in item 146, "National bridge inspection program" for "Pavement marking demonstration program" in item 151, and "Income from airspace rights-of-way" for "Highways crossing Federal projects" in item 156.
+<b>1987</b>—Pub. L. 100–17, title I, §§113(d)(2), 114(e)(5), 125(b)(1), 126(b), 133(b)(1), Apr. 2, 1987, 101 Stat. 150, 153, 167, 171, substituted "Advance construction" for "Construction by States in advance of apportionment" in item 115, and "Availability of funds" for "Availability of sums apportioned" in item 118, struck out "and width" after "Vehicle weight" in item 127, substituted "Carpool and vanpool projects" for identical words in item 146, "National bridge inspection program" for"Pavement marking demonstration program" in item 151, and "Income from airspace rights-of-way" for "Highways crossing Federal projects" in item 156.
 
 <b>1984</b>—Pub. L. 98–363, §6(b), July 17, 1984, 98 Stat. 437, added item 158.
 

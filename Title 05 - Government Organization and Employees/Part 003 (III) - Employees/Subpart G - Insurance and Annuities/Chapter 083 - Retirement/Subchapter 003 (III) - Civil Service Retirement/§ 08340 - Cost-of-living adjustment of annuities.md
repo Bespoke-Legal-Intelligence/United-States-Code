@@ -10,7 +10,7 @@
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 
-&emsp;(1) The first increase (if any) made under subsection (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow, widower, or former spouse,<sup>1</sup> of a deceased employee or Member, or to the widow, widower, former spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, shall be equal to theproduct (adjusted to the nearest 1/10 of 1 percent) of—
+&emsp;(1) The first increase (if any) made under subsection (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow, widower, or former spouse,<sup>1</sup> of a deceased employee or Member, or to the widow, widower, former spouse, or insurable interest designee of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;&emsp;(A) 1/12 of the applicable percent change computed under subsection (b) of this section, multiplied by
 
@@ -112,11 +112,13 @@ Nov. 1, 1965, Pub. L. 89–314, §1, 79 Stat. 1162.
 
 July 18, 1966, Pub. L. 89–504, §507, 80 Stat. 302.
 
-In subsection (a), the words "Effective December 1, 1965 \* \* \* before December 2, 1965," are substituted for "Effective the first day of the third month which begins after the date of enactment of this amendment\* \* \* not later than such effective date." In clause (1), the words "month of July 1965" are substituted for "month latest published on date of enactment of this amendment" for clarity and since the July 1965 price index was the price index for the month latest published on September 27, 1965, the date of enactment of the amendment. The word "base" is inserted before "month of July 1965" for clarity and on authority of the second sentence of 5 U.S.C. App. 2268(a) which provided: "The month used in determining the increase based on the per centum rise in the price index under this subsection shall be the base month for determining the per centum change in the price index until the next succeeding increase occurs." In view of the foregoing and of the definition of "base month" in 5 U.S.C. 8331(16), the quoted sentence is omitted as executed and unnecessary. In clause (2), the words "before October 2, 1956," are substituted for "on or before October 1, 1956." In the second sentence, which is based on 5 App. U.S.C. 2268(f), the words "before January 1, 1966," are substituted for "not later than December 31, 1965." In clause (B), the words "Act of June 25, 1958 (72 Stat. 219)" are substituted for "Public Law 85–465" to conform to the style of title 5, United States Code.
+In subsection (a), the words "Effective December 1, 1965 \* \* \* before December 2, 1965," are substituted for "Effective the first day of the third month which begins after the date of enactment of this amendment \* \* \* not later than such effective date." In clause (1), the words "month of July 1965" are substituted for "month latest published on date of enactment of this amendment" for clarity and since the July 1965 price index was the price index for the month latest published on September 27, 1965, the date of enactment of the amendment. The word "base" is inserted before "month of July 1965" for clarity and on authority of the second sentence of 5 U.S.C. App. 2268(a) which provided: "The month used in determining the increase based on the per centum rise in the price index under this subsection shall be the base month for determining the per centum change in the price index until the next succeeding increase occurs." In view of the foregoing and of the definition of "base month" in 5 U.S.C. 8331(16), the quoted sentence is omitted as executed and unnecessary. In clause (2), the words "before October 2, 1956," are substituted for "on or before October 1, 1956." In the second sentence, which is based on 5 App. U.S.C. 2268(f), the words "before January 1, 1966," are substituted for "not later than December 31, 1965." In clause (B), the words "Act of June 25, 1958 (72 Stat. 219)" are substituted for "Public Law 85–465" to conform to the style of title 5, United States Code.
 
 In the first sentence of subsection (b), the words "after the first increase under this section," following "Each month," are omitted as executed and unnecessary.
 
 In subsection (f), the words "September 1, 1966," are substituted for "the first day of the second month after the enactment of this subsection."
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -150,7 +152,7 @@ Subsec. (c)(1). Pub. L. 97–35, §1702(b), in opening provision inserted refere
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–440, §1306(a), struck out "1 percent plus" after "shall be increased by".
 
-Pub. L. 94–440, §1306(c)(1), substituted provisions requiring that Commission shall determine percent change in price index on Jan. 1 and July 1 of each year and effective Mar. 1 or Sept. 1, each annuity payable from Fund shall be increased by the computed percent change in the price index adjusted to the nearest 1/10 of 1 percent, for provisions requiring that Commission shall determine percent change in price index on amonthly basis and effective the first day of the third month that begins after the price index change equals a rise of 3 percent for 3 consecutive months over the prior price index, each annuity payable from Fund shall be increased by the highest rise in the price index over those months adjusted to the nearest 1/10 of 1 percent.
+Pub. L. 94–440, §1306(c)(1), substituted provisions requiring that Commission shall determine percent change in price index on Jan. 1 and July 1 of each year and effective Mar. 1 or Sept. 1, each annuity payable from Fund shall be increased by the computed percent change in the price index adjusted to the nearest 1/10 of 1 percent, for provisions requiring that Commission shall determine percent change in price index on a monthly basis and effective the first day of the third month that begins after the price index change equals a rise of 3 percent for 3 consecutive months over the prior price index, each annuity payable from Fund shall be increased by the highest rise in the price index over those months adjusted to the nearest 1/10 of 1 percent.
 
 <b>1975</b>—Subsec. (c)(1). Pub. L. 94–126 substituted reference to "section 8339(m) of this title" for "section 8339(n) of this title".
 
@@ -161,6 +163,8 @@ Subsec. (c)(3). Pub. L. 94–183 substituted "after October 31, 1969" for "on or
 <b>1969</b>—Subsec. (b). Pub. L. 91–93, §204(a), increased the annuity payable from the Fund by 1 percent.
 
 Subsec. (c)(2). Pub. L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentage references to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 
@@ -228,7 +232,7 @@ Delay in Effective Date of Adjustments.—A cost-of-living increase described in
 
 "(c)
 
-Rule of Construction.—Nothing in this section shall be considered to affect any determination relating to eligibility for an annuity increase or the amount of the first increase in an annuity under section 8340(b)or (c) or section 8462(b) or (c) of title 5, United States Code, or comparable provisions of law."
+Rule of Construction.—Nothing in this section shall be considered to affect any determination relating to eligibility for an annuity increase or the amount of the first increase in an annuity under section 8340(b) or (c) or section 8462(b) or (c) of title 5, United States Code, or comparable provisions of law."
 
 #### Time of Payment of Annuity or Retired or Retirement Pay Which President Adjusts
 

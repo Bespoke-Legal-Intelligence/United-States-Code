@@ -34,7 +34,7 @@ Testing, inspection, and initial approval.—The owner of a container submitted 
 
 &emsp;(3)
 
-Credit to appropriation.—Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operating expenses of the Coast Guard.
+Credit to appropriation.—Amounts received by the Secretary as reimbursement shall be credited to the appropriation for operations and support of the Coast Guard.
 
 (c)
 
@@ -56,7 +56,7 @@ In general.—When the Secretary issues a detention or other order under this se
 
 &emsp;(2)
 
-Information to include.—The notification shall identify the container involved, give the location of the container, and describe the condition or situation giving rise to the order.
+Information to include.—The notification shall identify the container involved, givethe location of the container, and describe the condition or situation giving rise to the order.
 
 (e)
 
@@ -70,7 +70,7 @@ Duration of Orders.—An order issued by the Secretary under this section remain
 
 Notice of Defective Container to Country Issuing Safety Approval Plate.—If the Secretary has reason to believe that a container bearing a safety approval plate issued by another country was defective at the time of approval, the Secretary shall notify that country.
 
-(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1695.)
+(Pub. L. 109–304, §11, Oct. 6, 2006, 120 Stat. 1695; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(b), Jan. 1, 2021, 134 Stat. 4761.)
 
 Historical and Revision Notes
 
@@ -88,11 +88,17 @@ Historical and Revision Notes
 
 Pub. L. 95–208, §5, Dec. 13, 1977, 91 Stat. 1477; Pub. L. 97–249, §1(2), Sept. 8, 1982, 96 Stat. 708.
 
-In subsection (a), before paragraph (1), the words "On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention" are omitted as obsolete. The words "and regulations prescribed under this chapter" are added for clarity. In paragraph\(1), the words "new . . . and existing containers which are subject to this chapter" are omitted as obsolete. Paragraphs (2) and (3) are substituted for "test, inspect, and approve designs for new containers and new containers being manufactured" to eliminate unnecessary words. In paragraph (4), before subparagraph (A), the words "is subject to this chapter" are omitted as unnecessary. In subparagraph (A), the word "valid" is omitted as unnecessary. In paragraph (5), the words "or regulations prescribed under this chapter" are added for consistency. In paragraph (6), the word "valid" is omitted as unnecessary.
+In subsection (a), before paragraph (1), the words "On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention" are omitted as obsolete. The words "and regulations prescribed under this chapter" are added for clarity. In paragraph (1), the words "new . . . and existing containers which are subject to this chapter" are omitted as obsolete. Paragraphs (2) and (3) are substituted for "test, inspect, and approve designs for new containers and new containers being manufactured" to eliminate unnecessary words. In paragraph (4), before subparagraph (A), the words "is subject to this chapter" are omitted as unnecessary. In subparagraph (A), the word "valid" is omitted as unnecessary. In paragraph (5), the words "or regulations prescribed under this chapter" are added for consistency. In paragraph (6), the word "valid" is omitted as unnecessary.
 
 In subsection (b)(3), the words "appropriation for the operating expenses of the Coast Guard" are substituted for "appropriations bearing the cost thereof" for clarity.
 
 In subsection (d)(2), the word "reasonably" is omitted as unnecessary.
 
 In subsection (e), the words "which first occurs" are omitted as unnecessary. In paragraph (1), the words "the Secretary declares" are substituted for "is declared by the Secretary, or under regulations promulgated by the Secretary" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(3). Pub. L. 116–283 substituted "operations and support" for "operating expenses".
 

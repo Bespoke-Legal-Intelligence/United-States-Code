@@ -28,6 +28,8 @@ Limitation.—The committee shall not accept any donation from a foreign nationa
 
 (Added Pub. L. 107–155, title III, §308(a)(2), Mar. 27, 2002, 116 Stat. 103.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Election Campaign Act of 1971, referred to in subsec. (c), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§30101 et seq.) of Title 52. Section 319 of this Act is classified to section 30121 of Title 52. For complete classification of this Act to the Code, see Tables.
@@ -35,6 +37,8 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (c), is Pub. L
 #### Prior Provisions
 
 A prior section 510 was renumbered section 511 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

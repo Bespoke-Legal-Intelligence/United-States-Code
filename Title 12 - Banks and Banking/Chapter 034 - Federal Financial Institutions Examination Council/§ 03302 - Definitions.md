@@ -10,11 +10,15 @@ As used in this chapter—
 
 (Pub. L. 95–630, title X, §1003, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(1), Aug. 9, 1989, 103 Stat. 438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Par. (1). Pub. L. 101–73, §744(a)(1)(A), substituted "Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
 Par. (3). Pub. L. 101–73, §744(a)(1)(B), substituted "savings association" for "savings and loan association".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

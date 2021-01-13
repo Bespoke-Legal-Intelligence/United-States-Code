@@ -20,7 +20,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (4) Future obligation of Fund
 
-&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that suchsubsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
+&emsp;In the case of a completed remedial action pursuant to an agreement described in paragraph (1), the Fund shall be subject to an obligation for subsequent remedial actions at the same facility but only to the extent that such subsequent actions are necessary by reason of the failure of the original remedial action. Such obligation shall be in a proportion equal to, but not exceeding, the proportion contributed by the Fund for the original remedial action. The Fund's obligation for such future remedial action may be met through Fund expenditures or through payment, following settlement or enforcement action, by parties who were not signatories to the original agreement.
 
 #### (c) Effect of agreement
 
@@ -70,7 +70,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Notice
 
-&emsp;Whenever the President determines that a period of negotiation under this subsection would facilitate an agreement with potentially responsible parties for taking responseaction (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
+&emsp;Whenever the President determines that a period of negotiation under this subsection would facilitate an agreement with potentially responsible parties for taking response action (including any action described in section 9604(b) of this title) and would expedite remedial action, the President shall so notify all such parties and shall provide them with information concerning each of the following:
 
 &emsp;&emsp;(A) The names and addresses of potentially responsible parties (including owners and operators and other persons referred to in section 9607(a) of this title), to the extent such information is available.
 
@@ -84,7 +84,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (A) Moratorium
 
-&emsp;&emsp;Except as provided in this subsection, the President may not commence action under section 9604(a) of this title or take any action under section 9606 of this title for 120 days after providing notice and information under this subsection with respect to such action. Except as provided in this subsection, the President may not commence a remedial investigation and feasibility study under section 9604(b) of this title for 90 days after providing notice and information under this subsection with respect to such action. The President may commence any additional studies or investigations authorized under section 9604(b) of this title, including remedial design, during the negotiation period.
+&emsp;&emsp;Except as provided in this subsection, the President may not commence action under section 9604(a) of this title or take any action under section 9606 of this title for 120 days after providing notice and informationunder this subsection with respect to such action. Except as provided in this subsection, the President may not commence a remedial investigation and feasibility study under section 9604(b) of this title for 90 days after providing notice and information under this subsection with respect to such action. The President may commence any additional studies or investigations authorized under section 9604(b) of this title, including remedial design, during the negotiation period.
 
 #### (B) Proposals
 
@@ -110,7 +110,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (D) Costs
 
-&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed by the potentially responsible parties whose offer is accepted by the President. Where anoffer under this section is not accepted, such costs shall be considered costs of response.
+&emsp;&emsp;The costs incurred by the President in producing the nonbinding preliminary allocation of responsibility shall be reimbursed by the potentially responsible parties whose offer is accepted by the President. Where an offer under this section is not accepted, such costs shall be considered costs of response.
 
 #### (E) Decision to reject offer
 
@@ -182,7 +182,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;(A) Except for the portion of the remedial action which is subject to a covenant not to sue under paragraph (2) or under subsection (g) (relating to de minimis settlements), a covenant not to sue a person concerning future liability to the United States shall include an exception to the covenant that allows the President to sue such person concerning future liability resulting from the release or threatened release that is the subject of the covenant where such liability arises out of conditions which are unknown at the time the President certifies under paragraph (3) that remedial action has been completed at the facility concerned.
 
-&emsp;(B) In extraordinary circumstances, the President may determine, after assessment of relevant factors such as those referred to in paragraph (4) and volume, toxicity, mobility, strength of evidence, ability to pay, litigative risks, public interest considerations, precedential value, and inequities and aggravating factors, not to include the exception referred to in subparagraph (A) if other terms, conditions, or requirements of the agreement containing the covenant not to sue are sufficient to provide all reasonable assurances that public health and the environment will be protected from any future releases at or from the facility.
+&emsp;(B) In extraordinary circumstances, the President may determine, after assessment of relevant factors such as those referred to in paragraph (4) and volume, toxicity, mobility, strength of evidence, ability to pay, litigative risks, public interest considerations, precedential value, and inequities and aggravating factors, not to include the exception referred toin subparagraph (A) if other terms, conditions, or requirements of the agreement containing the covenant not to sue are sufficient to provide all reasonable assurances that public health and the environment will be protected from any future releases at or from the facility.
 
 &emsp;(C) The President is authorized to include any provisions allowing future enforcement action under section 9606 or 9607 of this title that in the discretion of the President are necessary and appropriate to assure protection of public health, welfare, and the environment.
 
@@ -222,7 +222,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (5) Effect of agreement
 
-&emsp;A party who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the otherpotentially responsible parties unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+&emsp;A party who has resolved its liability to the United States under this subsection shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the other potentially responsible parties unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
 
 #### (6) Settlements with other potentially responsible parties
 
@@ -250,7 +250,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (A) Waiver of claims
 
-&emsp;&emsp;The President shall require, as a condition for settlement under this subsection, that a potentially responsible party waive all of the claims (including a claim for contribution under this chapter) that the party may have against other potentially responsible parties for response costs incurred with respect to the facility, unless the President determines that requiring a waiver would be unjust.
+&emsp;&emsp;The President shall require, as a condition for settlement under this subsection, that apotentially responsible party waive all of the claims (including a claim for contribution under this chapter) that the party may have against other potentially responsible parties for response costs incurred with respect to the facility, unless the President determines that requiring a waiver would be unjust.
 
 #### (B) Failure to comply
 

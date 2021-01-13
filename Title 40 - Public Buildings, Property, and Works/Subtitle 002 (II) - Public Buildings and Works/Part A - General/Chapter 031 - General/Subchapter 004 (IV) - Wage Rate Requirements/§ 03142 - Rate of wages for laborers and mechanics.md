@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of theGovernment or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
+Application.—The advertised specifications for every contract in excess of $2,000, to which the Federal Government or the District of Columbia is a party, for construction, alteration, or repair, including painting and decorating, of public buildings and public works of the Government or the District of Columbia that are located in a State or the District of Columbia and which requires or involves the employment of mechanics or laborers shall contain a provision stating the minimum wages to be paid various classes of laborers and mechanics.
 
 (b)
 
@@ -62,7 +62,9 @@ In subsection (a), the words "a State" are substituted for "the geographical lim
 
 In subsection (b), the words "city, town, village, or other" are omitted as unnecessary.
 
-In subsection (d), the words "of a type" are omitted as unnecessary. The words "basic hourly rate of pay" are substituted for "rate of pay described in paragraph (1)" for clarity.
+In subsection (d), the words "of a type" are omitted as unnecessary. The words "basic hourly rate of pay"are substituted for "rate of pay described in paragraph (1)" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

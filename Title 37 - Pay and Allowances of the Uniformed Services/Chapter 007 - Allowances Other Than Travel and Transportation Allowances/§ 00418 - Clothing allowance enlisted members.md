@@ -1,12 +1,12 @@
 ### §418. Clothing allowance: enlisted members
 
-(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kindof clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
+(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
-(b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
+(b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section topersons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 
 (c) A uniform allowance may not be paid, and uniforms may not be furnished, under section 1593 of title 10 or section 5901 of title 5 to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
-(d)(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
+(d)(1) In the case of athletic footwear needed by members of the Army, Navy, Air Force, Marine Corps, or Space Force upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.
 
 (2) In procuring athletic footwear to comply with paragraph (1), the Secretary of Defense shall—
 
@@ -20,11 +20,11 @@
 
 &emsp;(B) cannot be met with athletic footwear that complies with the requirements of this subsection.
 
-(4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
+(4) This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, the Marine Corps, or the Space Force upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.
 
 (5) The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, §817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, §633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, §925(e)(2), Jan. 1, 2021, 134 Stat. 3827.)
 
 Historical and Revision Notes
 
@@ -42,11 +42,17 @@ Oct. 12, 1949, ch. 681, §505, 63 Stat. 828.
 
 The words "the armed forces" are substituted for the words "the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard" to conform to the definition in section 101(4) of this title. The words "the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve" are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and section 751a of title 14, those organizations, or their successors, are components of the armed force concerned.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 116–283, §925(e)(2)(A), substituted "Marine Corps, or Space Force" for "or Marine Corps".
+
+Subsec. (d)(4). Pub. L. 116–283, §925(e)(2)(B), substituted "the Marine Corps, or the Space Force" for "or the Marine Corps".
 
 <b>2017</b>—Subsec. (d)(4), (5). Pub. L. 115–91 added pars. (4) and (5).
 
@@ -62,9 +68,13 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substitu
 
 Subsec. (c). Pub. L. 104–201 substituted "for which clothing is furnished or a uniform allowance is paid under this section" for "for which a uniform allowance is paid under section 415 or 416 of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10113. Clothing Allowances for Enlisted Personnel
 

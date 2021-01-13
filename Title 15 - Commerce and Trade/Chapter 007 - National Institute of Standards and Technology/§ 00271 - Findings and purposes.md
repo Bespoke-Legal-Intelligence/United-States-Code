@@ -10,7 +10,7 @@
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has takena lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 
@@ -41,6 +41,10 @@ This chapter, referred to in subsec. (b), was in the original "this Act" meaning
 Section 5115(c) of Pub. L. 100–418 provided that: "References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology."
 
 Act Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–207, §1, Dec. 4, 2020, 134 Stat. 1001, provided that: "This Act \[enacting sections 278g–3a to 278g–3e of this title and provisions set out as a note under section 278g–3a of this title\] may be cited as the 'Internet of Things Cybersecurity Improvement Act of 2020' or the 'IoT Cybersecurity Improvement Act of 2020'."
 
 #### Short Title of 2018 Amendment
 

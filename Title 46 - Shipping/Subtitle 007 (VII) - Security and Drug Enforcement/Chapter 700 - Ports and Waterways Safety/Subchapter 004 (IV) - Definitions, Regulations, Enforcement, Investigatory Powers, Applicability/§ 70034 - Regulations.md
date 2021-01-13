@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—In accordance with section 553 of title 5, the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement subchapters A through C <sup>1</sup> and this subchapter.
+In General.—In accordance with section 553 of title 5, the Secretary shall issue, and may from time to time amend or repeal, regulations necessary to implement subchapters I through III and this subchapter.
 
 (b)
 
-Consultation.—In the exercise of the regulatory authority under subchapters A through C <sup>1</sup> and this subchapter, the Secretary shall consult with, and receive and consider the views of all interested persons, including—
+Consultation.—In the exercise of the regulatory authority under subchapters I through III and this subchapter, the Secretary shall consult with, and receive and consider the views of all interested persons, including—
 
 &emsp;(1) interested Federal departments and agencies;
 
@@ -22,7 +22,73 @@ Consultation.—In the exercise of the regulatory authority under subchapters A 
 
 &emsp;(7) advisory committees consisting of all interested segments of the public when the establishment of such committees is considered necessary because the issues involved are highly complex or controversial.
 
-(Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4261.)
+(Added Pub. L. 115–282, title IV, §401(a), Dec. 4, 2018, 132 Stat. 4261; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(a)(7), Jan. 1, 2021, 134 Stat. 4753.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "I through III" for "A through C" in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Safety of Special Activities
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8343, Jan. 1, 2021, 134 Stat. 4710, provided that:
+
+"(a)
+
+In General.—The Secretary of the department in which the Coast Guard is operating shall conduct a 2-year pilot program to establish and implement a process to—
+
+&emsp;"(1) establish safety zones to address special activities in the exclusive economic zone;
+
+&emsp;"(2) account for the number of safety zones established for special activities;
+
+&emsp;"(3) differentiate whether an applicant who requests a safety zone for such activities is—
+
+&emsp;&emsp;"(A) an individual;
+
+&emsp;&emsp;"(B) an organization; or
+
+&emsp;&emsp;"(C) a government entity; and
+
+&emsp;"(4) account for Coast Guard resources utilized to enforce safety zones established for special activities, including—
+
+&emsp;&emsp;"(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and
+
+&emsp;&emsp;"(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required.
+
+"(b)
+
+Briefing.—Not later than 180 days after the expiration of the 2-year pilot program, the Commandant \[of the Coast Guard\] shall brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate regarding—
+
+&emsp;"(1) the process required under subsection (a); and
+
+&emsp;"(2) whether the authority to establish safety zones to address special activities in the exclusive economic zone should be extended or made permanent in the interest of safety.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Safety zone.—The term 'safety zone' has the meaning given such term in section 165.20 of title 33, Code of Federal Regulations.
+
+&emsp;"(2)
+
+Special activities.—The term 'special activities' includes—
+
+&emsp;&emsp;"(A) space activities, including launch and reentry, as such terms are defined in section 50902 of title 51, United States Code, carried out by United States citizens; and
+
+&emsp;&emsp;"(B) offshore energy development activities, as described in section 8(p)(1)(C) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(p)(1)(C)), on or near a fixed platform.
+
+&emsp;"(3)
+
+United states citizen.—The term 'United States citizen' has the meaning given the term 'eligible owners' in section 12103 of title 46, United States Code.
+
+&emsp;"(4)
+
+Fixed platform.—The term 'fixed platform' means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes."
 
 #### Safety Zones for Permitted Marine Events
 
@@ -43,6 +109,4 @@ Pub. L. 114–120, title III, §305, Feb. 8, 2016, 130 Stat. 54, provided that: 
 &emsp;&emsp;"(A) the number of Coast Guard or Coast Guard Auxiliary vessels used; and
 
 &emsp;&emsp;"(B) the number of Coast Guard or Coast Guard Auxiliary patrol hours required."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subchapters I through III".</i>
 

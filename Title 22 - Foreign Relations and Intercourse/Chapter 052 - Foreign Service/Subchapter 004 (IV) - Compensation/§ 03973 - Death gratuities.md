@@ -2,7 +2,7 @@
 
 #### (a) Criteria; amount; payment deemed gift
 
-The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year's salary at level II of the Executive Schedule under section 5313 of title 5 at the time of death, except that for employees compensated under local compensation plans established under section 3968 of this title the amount shall be equal to the greater of either one year's salary at the time of death, or one year's basic salary at the highest step of the highest grade on the local compensation plan from which the employeewas being paid at the time of death. Any death gratuity payment made under this section shall be held to have been a gift and shall be in addition to any other benefit payable from any source.
+The Secretary may provide for payment of a gratuity to the surviving dependents of any Foreign Service employee, who dies as a result of injuries sustained in the performance of duty abroad, in an amount equal to one year's salary at level II of the Executive Schedule under section 5313 of title 5 at the time of death, except that for employees compensated under local compensation plans established under section 3968 of this title the amount shall be equal to the greater of either one year's salary at the time of death, or one year's basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death. Any death gratuity payment made under this section shall be held to have been a gift and shall be in addition to any other benefit payable from any source.
 
 #### (b) Other executive agencies
 
@@ -26,6 +26,8 @@ As used in this section—
 
 (Pub. L. 96–465, title I, §413, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 113–76, div. K, title VII, §7082(a), Jan. 17, 2014, 128 Stat. 565.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–76, §7082(a)(1), substituted "at level II of the Executive Schedule under section 5313 of title 5, United States Code, at the time of death, except that for employees compensated under local compensation plans established under section 3968 of this title the amount shall be equal to the greater of either one year's salary at the time of death, or one year's basic salary at the highest step of the highest grade on the local compensation plan from which the employee was being paid at the time of death" for "at the time of death".
@@ -43,6 +45,8 @@ Subsec. (c). Pub. L. 113–76, §7082(a)(4), amended subsec. (c) generally. Prio
 > "If there is no survivor entitled to payment under this subsection, no payment shall be made."
 
 Subsecs. (d), (e). Pub. L. 113–76, §7082(a)(2), redesignated subsecs. (b) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

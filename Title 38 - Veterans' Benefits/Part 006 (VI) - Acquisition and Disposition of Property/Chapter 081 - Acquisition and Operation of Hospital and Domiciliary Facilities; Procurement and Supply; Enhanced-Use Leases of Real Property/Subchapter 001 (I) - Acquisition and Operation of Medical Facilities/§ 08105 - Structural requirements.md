@@ -10,6 +10,8 @@
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 57, §5005; amended Pub. L. 96–128, title V, §501(e), Nov. 28, 1979, 93 Stat. 987; renumbered §8105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b)(3). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" in two places.
@@ -26,6 +28,8 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–128 substituted "subchapter III of this chapter" for "section 5031 of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as a note under section 1114 of this title.
@@ -36,5 +40,5 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, suchcommittee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

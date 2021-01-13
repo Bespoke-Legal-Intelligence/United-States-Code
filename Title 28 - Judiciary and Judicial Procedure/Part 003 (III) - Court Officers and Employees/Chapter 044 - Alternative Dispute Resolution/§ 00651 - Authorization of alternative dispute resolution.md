@@ -28,6 +28,8 @@ Program Support.—The Federal Judicial Center and the Administrative Office of 
 
 (Added Pub. L. 100–702, title IX, §901(a), Nov. 19, 1988, 102 Stat. 4659; amended Pub. L. 105–315, §3, Oct. 30, 1998, 112 Stat. 2993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
@@ -35,6 +37,8 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to authorization of alternative dispute resolution for provisions relating to authorization of arbitration.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -50,9 +54,9 @@ Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: "Congress 
 
 &emsp;"(1) alternative dispute resolution, when supported by the bench and bar, and utilizing properly trained neutrals in a program adequately administered by the court, has the potential to provide a variety of benefits, including greater satisfaction of the parties, innovative methods of resolving disputes, and greater efficiency in achieving settlements;
 
-&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States,thereby allowing the courts to process their remaining cases more efficiently; and
+&emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States, thereby allowing the courts to process their remaining cases more efficiently; and
 
-&emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should consider including mediation in their local alternative dispute resolution programs."
+&emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should considerincluding mediation in their local alternative dispute resolution programs."
 
 #### Model Procedures
 

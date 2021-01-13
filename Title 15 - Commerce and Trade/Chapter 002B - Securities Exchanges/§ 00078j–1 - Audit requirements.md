@@ -14,7 +14,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (1) Investigation and report to management
 
-&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whetheror not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;&emsp;(A)(i) determine whether it is likely that an illegal act has occurred; and
 
@@ -234,7 +234,7 @@ Subsec. (m). Pub. L. 107–204, §301, added subsec. (m).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date
 

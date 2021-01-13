@@ -16,15 +16,19 @@ This revised section and section 5032 of this title were rewritten to make clear
 
 The other provisions of said section 922 are incorporated in section 5032 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–415 amended section generally, substituting "Custody prior to appearance before magistrate", for "Jurisdiction; written consent; jury trial precluded" in section catchline, and substituting provisions relating to advice of rights by arresting officer, notification of Attorney General, parents, guardian or custodian, and appearance before magistrate, for provisions relating to jurisdiction of district courts, jury, consent by juvenile, and apprisal of rights by Judge of District Court.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Words "magistrate judge" substituted for "magistrate" in catchline and wherever appearing in textpursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Repeals
 
-Section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §503, Sept. 7, 1974, 88 Stat. 1135, cited as a credit to this section, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
 

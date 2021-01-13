@@ -4,6 +4,8 @@ The surviving spouse, child or children, and dependent parent or parents of any 
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1122, §321; Pub. L. 92–197, §6, Dec. 15, 1971, 85 Stat. 662; Pub. L. 94–433, title IV, §404(12), Sept. 30, 1976, 90 Stat. 1378; renumbered §1121 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 321 of this title as this section.
@@ -13,6 +15,8 @@ Pub. L. 102–83, §5(c)(1), substituted "1122" for "322".
 <b>1976</b>—Pub. L. 94–433 substituted "spouse" for "widow".
 
 <b>1971</b>—Pub. L. 92–197 struck out eligibility clause when the veteran died after April 30, 1957, under circumstances described in section 417(a) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

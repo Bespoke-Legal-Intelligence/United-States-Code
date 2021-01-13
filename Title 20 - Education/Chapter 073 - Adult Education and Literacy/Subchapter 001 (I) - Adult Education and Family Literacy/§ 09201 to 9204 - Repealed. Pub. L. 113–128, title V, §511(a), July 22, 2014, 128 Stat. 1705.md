@@ -6,7 +6,7 @@ Section 9202, Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; 
 
 Section 9203, Pub. L. 105–220, title II, §204, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, related to the effect of this subchapter on home schools.
 
-Section 9204, Pub. L. 105–220, title II, §205, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[titleVIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, authorized appropriations.
+Section 9204, Pub. L. 105–220, title II, §205, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, authorized appropriations.
 
 #### Effective Date of Repeal
 

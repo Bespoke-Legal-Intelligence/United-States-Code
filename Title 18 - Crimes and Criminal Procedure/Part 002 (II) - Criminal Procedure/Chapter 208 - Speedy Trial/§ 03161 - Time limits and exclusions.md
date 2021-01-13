@@ -68,7 +68,7 @@
 
 (i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within the meaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
 
-(j)(1) If the attorney for the Government knows that a person charged with an offense isserving a term of imprisonment in any penal institution, he shall promptly—
+(j)(1) If the attorney for the Government knows that a person charged with an offense is serving a term of imprisonment in any penal institution, he shall promptly—
 
 &emsp;(A) undertake to obtain the presence of the prisoner for trial; or
 
@@ -85,6 +85,8 @@
 (2) If the defendant is absent (as defined by subsection (h)(3)) on the day set for trial, and the defendant's subsequent appearance before the court on a bench warrant or other process or surrender to the court occurs not more than 21 days after the day set for trial, the time limit required by subsection (c), as extended by subsection (h), shall be further extended by 21 days.
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076; amended Pub. L. 96–43, §§2–5, Aug. 2, 1979, 93 Stat. 327, 328; Pub. L. 98–473, title II, §1219, Oct. 12, 1984, 98 Stat. 2167; Pub. L. 100–690, title VI, §6476, Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–406, §13, Oct. 13, 2008, 122 Stat. 4294.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -118,13 +120,15 @@ Subsec. (h)(8)(B)(iii). Pub. L. 96–43, §5(b), inserted provision authorizing 
 
 Subsec. (h)(8)(B)(iv). Pub. L. 96–43, §5(c), added cl. (iv).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "magistrate judge" substituted for "magistrate" in subsec. (c)(1) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as an Effective Date note under section 3505 of this title.
+Amendment by Pub. L. 98–473 effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set outas an Effective Date note under section 3505 of this title.
 
 #### Short Title of 1979 Amendment
 

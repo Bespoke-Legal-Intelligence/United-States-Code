@@ -60,7 +60,7 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 (2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
-(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on whichthe transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
+(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
 
 &emsp;(i) the party incurred the costs in anticipation of entering into the transaction; and
 
@@ -78,7 +78,7 @@ Definitions.—In this section:
 
 Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
 
-(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of this title, if—
+(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants inthe transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of this title, if—
 
 &emsp;(A) competitive procedures were used for the selection of parties for participation in the transaction; and
 
@@ -99,6 +99,10 @@ Authority To Provide Prototypes and Follow-on Production Items as Government-fur
 Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 
 (Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4243, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 301 of this title, as added by section 1841(a) of Pub. L. 116–283, inserted after section 4002, and redesignated as section 4003 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
 
@@ -127,6 +131,22 @@ Subsec. (d)(1)(B). Pub. L. 115–91, §864(b), inserted "(including small busine
 Subsec. (d)(1)(C). Pub. L. 115–91, §864(c), substituted "provided by sources other than" for "provided by parties to the transaction".
 
 Subsec. (f)(1). Pub. L. 115–91, §864(d), inserted at end "A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Relaxation of Department of Defense Other Transaction Authority Requirements Related to the National Emergency for the Coronavirus Disease 2019
+
+Pub. L. 116–136, div. B, title III, §13006, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) Notwithstanding paragraph (3) of section 2371b(a) of title 10, United States Code, the authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A) of such section \[probably should be "subsection"\], and the authority of the Under Secretaries of Defense under paragraph (2)(B) of such section \[probably should be "subsection"\], for any transaction related to the national emergency for the Coronavirus Disease 2019 (COVID–19) may be delegated to such officials in the Department of Defense as the Secretary of Defense shall specify for purposes of this section.
+
+"(b)(1) Notwithstanding clause (ii) of section 2371b(a)(2)(B) of title 10, United States Code, no advance notice to Congress is required under that clause for transitions described in that section that are related to the national emergency for the Coronavirus Disease 2019 (COVID–19).
+
+"(2) In the event a transaction covered by paragraph (1) is carried out, the Under Secretary of Defense forResearch and Engineering or the Under Secretary of Defense for Acquisition and Sustainment, as applicable, shall submit to the congressional defense committees a notice on the carrying out of such transaction as soon as is practicable after the commencement of the carrying out of such transaction.
+
+"(3) In this subsection, the term 'congressional defense committees' has the meaning given such term in section 101(a)(16) of title 10, United States Code."
 
 #### Updated Guidance
 

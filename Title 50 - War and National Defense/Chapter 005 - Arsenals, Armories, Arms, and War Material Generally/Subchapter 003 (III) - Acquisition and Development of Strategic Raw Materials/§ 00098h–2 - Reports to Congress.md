@@ -6,7 +6,7 @@
 
 &emsp;(2) information with respect to the acquisition and disposal of materials under this subchapter by barter, as provided for in section 98e(c) of this title, during such fiscal year;
 
-&emsp;(3) information with respect to the activities by the Stockpile Manager to encourage theconservation, substitution, and development of strategic and critical materials within the United States;
+&emsp;(3) information with respect to the activities by the Stockpile Manager to encourage the conservation, substitution, and development of strategic and critical materials within the United States;
 
 &emsp;(4) information with respect to the research and development activities conducted under sections 98a and 98g of this title;
 

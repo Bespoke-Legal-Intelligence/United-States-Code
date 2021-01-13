@@ -6,15 +6,19 @@ Population Data for Payment Period Beginning October 1, 1994.—For the payment 
 
 (b)
 
-Data for Payment Periods Beginning After September 30, 1995.—For any payment period beginning after September 30, 1995, the Secretary, in making allocations pursuant to sections 6704 through 6706 and 6708, shall use information more recent than the information used for the payment period beginning October 1, 1994, provided the Secretary notifies the Committee on Government Operations of the Houseof Representatives at least 90 days prior to the beginning of the payment period that the Secretary has determined that the more recent information is more reliable than the information used for the payment period beginning October 1, 1994.
+Data for Payment Periods Beginning After September 30, 1995.—For any payment period beginning after September 30, 1995, the Secretary, in making allocations pursuant to sections 6704 through 6706 and 6708, shall use information more recent than the information used for the payment period beginning October 1, 1994, provided the Secretary notifies the Committee on Government Operations of the House of Representatives at least 90 days prior to the beginning of the payment period that the Secretary has determined that the more recent information is more reliable than the information used for the payment period beginning October 1, 1994.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1873.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 6709, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1018; Pub. L. 97–452, §1(25), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–185, §9(d), Nov. 30, 1983, 97 Stat. 1312, related to other local government allocations, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform ofHouse of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

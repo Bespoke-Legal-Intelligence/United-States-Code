@@ -66,13 +66,13 @@ The Director may—
 
 #### (5) Authority of the Director to prohibit persons from serving as loan originators
 
-&emsp;In any cease and desist proceeding under paragraph (1), the Director may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as the Director shall determine, any person who has violated this chapter or regulations thereunder, from acting as a loan originator if the conduct of that person demonstrates unfitness to serve as a loan originator.
+&emsp;In any cease and desist proceeding under paragraph (1), the Director may issue an order to prohibit, conditionally or unconditionally,and permanently or for such period of time as the Director shall determine, any person who has violated this chapter or regulations thereunder, from acting as a loan originator if the conduct of that person demonstrates unfitness to serve as a loan originator.
 
 #### (d) Authority of the Director to assess money penalties
 
 #### (1) In general
 
-&emsp;The Director may impose a civil penalty on a loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title, ifthe Director finds, on the record after notice and opportunity for hearing, that such loan originator has violated or failed to comply with any requirement of this chapter or any regulation prescribed by the Director under this chapter or order issued under subsection (c).
+&emsp;The Director may impose a civil penalty on a loan originator operating in any State which is subject to a licensing system established by the Director under section 5107 of this title, if the Director finds, on the record after notice and opportunity for hearing, that such loan originator has violated or failed to comply with any requirement of this chapter or any regulation prescribed by the Director under this chapter or order issued under subsection (c).
 
 #### (2) Maximum amount of penalty
 
@@ -80,9 +80,13 @@ The Director may—
 
 (Pub. L. 110–289, div. A, title V, §1514, July 30, 2008, 122 Stat. 2821; Pub. L. 111–203, title X, §1100(3), (9), July 21, 2010, 124 Stat. 2106, 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 111–203 substituted "by the Bureau" for "under HUD backup licensing system" in section catchline and "Director" for "Secretary" wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

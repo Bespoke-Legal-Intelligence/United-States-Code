@@ -52,6 +52,8 @@
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, §204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §46(a)–(l), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalties for anyone who offered or gave anything of value to an officer or other person to influence his decisions, prior to the general amendment of this chapter by Pub. L. 87–849, and is substantially covered by revised section 201.
@@ -96,6 +98,8 @@ Subsecs. (e) to (k). Pub. L. 99–646, §46(f)–(k), redesignated former subsec
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–405 included Delegate from District of Columbia in definition of "public official".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–322, title XXXIII, §330011(b), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 46(b) of Pub. L. 99–646 took effect.
@@ -124,6 +128,8 @@ Pub. L. 104–177, §1, Aug. 6, 1996, 110 Stat. 1563, provided that: "This Act \
 
 Pub. L. 99–370, §1, Aug. 4, 1986, 100 Stat. 779, provided that: "This Act \[amending section 215 of this title and enacting provisions set out as a note under section 215 of this title\] may be cited as the 'Bank Bribery Amendments Act of 1985'."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11222
 
 Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469, as amended by Ex. Ord. No. 11590, Apr. 23, 1971, 36 F.R. 7831; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12565, Sept. 25, 1986, 51 F.R. 34437, which established standards of ethical conduct for government officers and employees, was revoked by Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
@@ -148,7 +154,7 @@ Robert F. Kennedy,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Introduction
 
-Public Law 87–849, which came into force January 21, 1963, affected seven statutes which applied to officers and employees of the Government and were generally spoken of as the "conflict of interest" laws. These included six sections of the criminal code, 18 U.S.C. 216, 281, 283, 284, 434 and 1914, and a statute containing no penalties, section 190 of the Revised Statutes (5 U.S.C. 99). Public Law 87–849 (sometimes referred to hereinafter as "the Act") repealed section 190 and one of the criminal statutes, 18 U.S.C. 216, without replacing them.<sup>1</sup> In addition it repealed and supplanted the other five criminal statutes. It is the purpose of this memorandum to summarize the new law and to describe the principal differences between it and the legislation it has replaced.
+Public Law 87–849, which came into force January 21, 1963, affected seven statutes which applied to officersand employees of the Government and were generally spoken of as the "conflict of interest" laws. These included six sections of the criminal code, 18 U.S.C. 216, 281, 283, 284, 434 and 1914, and a statute containing no penalties, section 190 of the Revised Statutes (5 U.S.C. 99). Public Law 87–849 (sometimes referred to hereinafter as "the Act") repealed section 190 and one of the criminal statutes, 18 U.S.C. 216, without replacing them.<sup>1</sup> In addition it repealed and supplanted the other five criminal statutes. It is the purpose of this memorandum to summarize the new law and to describe the principal differences between it and the legislation it has replaced.
 
 The Act accomplished its revisions by enacting new sections 203, 205, 207, 208 and 209 of title 18 of the United States Code and providing that they supplant the above-mentioned sections 281, 283, 284, 434 and 1914 of title 18 respectively.<sup>2</sup> It will be convenient, therefore, after summarizing the principal provisions of the new sections, to examine each section separately, comparing it with its precursor before passing to the next. First of all, however, it is necessary to describe the background and provisions of the new 18 U.S.C. 202(a), which has no counterpart among the statutes formerly in effect.
 
@@ -162,7 +168,7 @@ The recruiting problem noted by the Committee generated a major part of the impe
 
 #### Summary of the Main Conflict of Interest Provisions of Public Law 87–849
 
-A regular officer or employee of the Government—that is, one appointed or employed to serve more than130 days in any period of 365 days—is in general subject to the following major prohibitions (the citations are to the new sections of Title 18):
+A regular officer or employee of the Government—that is, one appointed or employed to serve more than 130 days in any period of 365 days—is in general subject to the following major prohibitions (the citations are to the new sections of Title 18):
 
 1\. He may not, except in the discharge of his official duties, represent anyone else before a court or Government agency in a matter in which the United States is a party or has an interest. This prohibition applies both to paid and unpaid representation of another (18 U.S.C. 203 and 205).
 
@@ -196,7 +202,7 @@ As appears below, there are a number of exceptions to the prohibitions summarize
 
 United States Code
 
-<i>New 18 U.S.C. 203</i>. Subsection (a) of this section in general prohibits a Member of Congress and an officer or employee of the United States in any branch or agency of the Government from soliciting or receiving compensation for services rendered on behalf of another person before a Government department or agency in relation to any particular matter in which the United States is a party or has a direct and substantial interest. The subsection does not preclude compensation for services rendered on behalf of another in court.
+<i>New 18 U.S.C. 203</i>. Subsection (a) of this section in general prohibits a Member of Congress and an officer or employee of the United States in any branch oragency of the Government from soliciting or receiving compensation for services rendered on behalf of another person before a Government department or agency in relation to any particular matter in which the United States is a party or has a direct and substantial interest. The subsection does not preclude compensation for services rendered on behalf of another in court.
 
 Subsection (a) is essentially a rewrite of the repealed portion of 18 U.S.C. 281. However, subsections (b) and (c) have no counterparts in the previous statutes.
 
@@ -236,7 +242,7 @@ The proviso following subsections (a) and (b) authorizes an agency head, notwith
 
 Federal Register.
 
-Subsections (a) and (b) describe the activities they forbid as being in connection with "particular matter\[s\] involving a specific party or parties" in which the former officer or employee had participated. The quoted language does not include general rulemaking, the formulation of general policy or standards, or other similar matters. Thus, past participation in or official responsibility for a matter of this kind on behalf of the Government does not disqualify a former employee from representing another person in a proceeding which is governed by the rule or other result of such matter.
+Subsections (a) and (b) describe the activities they forbid as being in connection with "particularmatter\[s\] involving a specific party or parties" in which the former officer or employee had participated. The quoted language does not include general rulemaking, the formulation of general policy or standards, or other similar matters. Thus, past participation in or official responsibility for a matter of this kind on behalf of the Government does not disqualify a former employee from representing another person in a proceeding which is governed by the rule or other result of such matter.
 
 Subsection (a) bars permanently a greater variety of actions than subsection (b) bars temporarily. The conduct made unlawful by the former is <i>any action as agent or attorney</i>, while that made unlawful by the latter is a <i>personal appearance as agent or attorney</i>. However, neither subsection precludes postemployment activities which may fairly be characterized as no more than aiding or assisting another.<sup>8</sup> An individual who has left an agency to accept private employment may, for example, immediately perform technical work in his company's plant in relation to a contract for which he had official responsibility—or, for that matter, in relation to one he helped the agency negotiate. On the other hand, he is forbidden for a year, in the first case, to appear personally before the agency as the agent or attorney of his company in connection with a dispute over the terms of the contract. And he may at no time appear personally before the agency or otherwise act as agent or attorney for his company in such dispute if he helped negotiate the contract.
 
@@ -244,7 +250,7 @@ Comparing subsection (a) with the antecedent 18 U.S.C. 284 discloses that it fol
 
 It will be seen that subsections (a) and (b) in combination are less restrictive in some respects, and more restrictive in others, than the combination of the prior 18 U.S.C. 284 and 5 U.S.C. 99. Thus, former officers or employees who were outside the Government when the Act came into force on January 21, 1963, will in certain situations be enabled to carry on activities before the Government which were previously barred. For example, the repeal of 5 U.S.C. 99 permits an attorney who left an executive department for private practice a year before to take certain cases against the Government immediately which would be subject to the bar of 5 U.S.C. 99 for another year. On the other hand, former officers or employees became precluded on and after January 21, 1963 from engaging or continuing to engage in certain activities which were permissible until that date. This result follows from the replacement of the 2-year bar of 18 U.S.C. 284 with a lifetime bar of subsection (a) in comparable situations, from the increase in the variety of matters covered by subsection (a) as compared with 18 U.S.C. 284 and from the introduction of the 1-year bar of subsection (b).
 
-Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individualfrom acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
+Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individual from acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
 
 The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainly to lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
 
@@ -294,13 +300,13 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 2\. H. Rept. 748, 87th Cong., 1st sess.
 
-3\. 107 Cong., Rec. 14774.
+3\. 107 Cong. Rec. 14774.
 
-4\. Hearing of June 21, 1962, before the Senate Judiciary Committee, 87th Cong., 2d sess., on <i>Conflicts of Interest.</i>
+4\. Hearing of June 21, 1962 before the Senate Judiciary Committee, 87th Cong., 2d sess., on <i>Conflicts of Interest.</i>
 
 5\. S. Rept. 2213, 87th Cong., 2d sess.
 
-6\. 108 Cong. Rec. 20805 and 21130 (daily ed., October 3 and 4, 1962).
+6\. 108 Cong. Rec. 20805 and 21130 (daily ed., October 3 and 4, 1962) \[Cong. Rec., vol. 108, pt. 16, pp. 21975, 22311, Oct. 3 and 4, 1962\].
 
 #### Other Material
 
@@ -310,7 +316,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 3\. 42 Op. A.G. No. 6, January 31, 1962.
 
-4\. Memorandum of December 10, 1956, for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
+4\. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
 
 5\. Staff report of Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 85th Cong., 2d sess., <i>Federal Conflict of Interest Legislation</i> (Comm. Print 1958).
 
@@ -334,5 +340,5 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 <sup>7</sup> Neither section 203 nor section 205 prevents a special Government employee, during his period of affiliation with the Government, from representing another person before the Government in a particular matter only because it is within his official responsibility. Therefore the inclusion of a <i>former</i> special Government employee within the 1-year postemployment ban of subsection (b) may subject him to a temporary restraint from which he was free prior to the end of his Government service. However, since special Government employees usually do not have "official responsibility," as that term is defined in section 202(b), their inclusion within the 1-year ban will not have a widespread effect.
 
-<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawful for a former officer or employee to act as agent or attorney for, <i>or aid or assist</i>, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one's acting as agent or attorney for another and his aiding or assisting another.
+<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawfulfor a former officer or employee to act as agent or attorney for, <i>or aid or assist</i>, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one's acting as agent or attorney for another and his aiding or assisting another.
 

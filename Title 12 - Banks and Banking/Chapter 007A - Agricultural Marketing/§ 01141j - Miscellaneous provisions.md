@@ -32,7 +32,9 @@ This chapter may be cited as the "Agricultural Marketing Act."
 
 As used in this chapter, the term "agricultural commodity" includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in section 92 of title 7.
 
-(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317; Pub. L.110–234, title I, §1610, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, §4(a), title I, §1610, June 18, 2008, 122 Stat. 1664, 1746.)
+(June 15, 1929, ch. 24, §15, 46 Stat. 18; Mar. 4, 1931, ch. 520, §3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §55, 48 Stat. 266; June 3, 1935, ch. 164, §12, 49 Stat. 317; Pub. L. 110–234, title I, §1610, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, §4(a), title I, §1610, June 18, 2008, 122 Stat. 1664, 1746.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -50,6 +52,8 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 
 <b>1931</b>—Subsec. (g). Act Mar. 4, 1931, added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "The Governor" and "Farm Credit Administration" substituted in text for "any member" and "board", respectively, and "Governor of the Farm Credit Administration" substituted for "members of the board", pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
@@ -61,6 +65,8 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Transfer of Functions
 
 Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq of this title.
+
+#### <b>Executive Documents</b>
 
 #### Exceptions From Transfer of Functions
 

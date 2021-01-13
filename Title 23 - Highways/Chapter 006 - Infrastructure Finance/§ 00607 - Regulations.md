@@ -4,6 +4,8 @@ The Secretary may promulgate such regulations as the Secretary determines to be 
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §187; renumbered §607 and amended Pub. L. 109–59, title I, §1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, §2001(f), Dec. 4, 2015, 129 Stat. 1444.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 substituted "the TIFIA program" for "this chapter".
@@ -13,6 +15,8 @@ The Secretary may promulgate such regulations as the Secretary determines to be 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 187 of this title as this section.
 
 Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

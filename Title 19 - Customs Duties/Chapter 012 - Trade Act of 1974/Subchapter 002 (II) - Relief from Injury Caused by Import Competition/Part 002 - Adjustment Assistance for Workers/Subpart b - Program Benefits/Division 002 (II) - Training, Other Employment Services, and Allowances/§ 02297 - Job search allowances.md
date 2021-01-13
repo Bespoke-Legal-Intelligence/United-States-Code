@@ -16,7 +16,7 @@
 
 #### (B) Local employment not available
 
-&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to securesuitable employment in the commuting area in which the worker resides.
+&emsp;&emsp;The Secretary determines that the worker cannot reasonably be expected to secure suitable employment in the commuting area in which the worker resides.
 
 #### (C) Application
 
@@ -48,7 +48,7 @@
 
 Notwithstanding subsection (b), a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
 
-(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13,1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -94,7 +94,7 @@ Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, subst
 
 #### Effective and Termination Dates of 2015 Revival
 
-For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect onDec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 

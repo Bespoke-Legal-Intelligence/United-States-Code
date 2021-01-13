@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 &emsp;(6) Such violence substantially affects interstate commerce in many ways, including the following:
 
-&emsp;&emsp;(A) The movement of members of targeted groups is impeded, and members of such groups are forced to move across State lines to escape the incidence or risk of such violence.
+&emsp;&emsp;(A) The movement of members of targeted groups is impeded, and members of suchgroups are forced to move across State lines to escape the incidence or risk of such violence.
 
 &emsp;&emsp;(B) Members of targeted groups are prevented from purchasing goods and services, obtaining or sustaining employment, or participating in other commercial activity.
 
@@ -33,6 +33,8 @@ Congress makes the following findings:
 &emsp;(10) The problem of crimes motivated by bias is sufficiently serious, widespread, and interstate in nature as to warrant Federal assistance to States, local jurisdictions, and Indian tribes.
 
 (Pub. L. 111–84, div. E, §4702, Oct. 28, 2009, 123 Stat. 2835.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -4,7 +4,7 @@
 
 Except as provided in sections 1371, 1373, 1374, 1379, 1381, 1383, 1383a, and 1387 of this title and subchapter V, it is unlawful—
 
-&emsp;(1) for any person subject to the jurisdiction of the United States or any vessel or otherconveyance subject to the jurisdiction of the United States to take any marine mammal on the high seas;
+&emsp;(1) for any person subject to the jurisdiction of the United States or any vessel or other conveyance subject to the jurisdiction of the United States to take any marine mammal on the high seas;
 
 &emsp;(2) except as expressly provided for by an international treaty, convention, or agreement to which the United States is a party and which was entered into before the effective date of this subchapter or by any statute implementing any such treaty, convention, or agreement—
 
@@ -52,7 +52,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
-&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in a manner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
+&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in amanner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
 
 #### (d) Nonapplicability of prohibitions
 
@@ -80,7 +80,7 @@ The effective date of this chapter referred to in subsec. (e), means the effecti
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–238, §24(c)(9), which directed technical amendment to reference to subchapterV of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by section 13(c) of Pub. L. 103–238. See below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–238, §24(c)(9), which directed technical amendment to reference to subchapter V of this chapter in introductory provisions to reflect renumbering of corresponding title of original act, could not be executed to text because of prior amendment by section 13(c) of Pub. L. 103–238. See below.
 
 Pub. L. 103–238, §13(c), in introductory provisions inserted reference to section 1387 of this title and made technical amendment to reference to subchapter V of this chapter to reflect renumbering of corresponding title of original act.
 

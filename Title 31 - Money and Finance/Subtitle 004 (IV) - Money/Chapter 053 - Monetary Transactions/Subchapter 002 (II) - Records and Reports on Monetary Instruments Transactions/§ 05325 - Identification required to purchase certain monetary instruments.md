@@ -22,6 +22,8 @@ Transaction Account Defined.—For purposes of this section, the term "transacti
 
 (Added Pub. L. 100–690, title VI, §6185(b), Nov. 18, 1988, 102 Stat. 4355.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (c), is classified to section 461(b)(1)(C) of Title 12, Banks and Banking.

@@ -1,6 +1,6 @@
 ### §5901. Uniform allowances
 
-(a) There is authorized to be appropriated annually to each agency of the Government of the United States, including a Government ownedcorporation, and of the government of the District of Columbia, on a showing of necessity or desirability, such sums as may be necessary to carry out this subchapter. The head of the agency concerned, out of funds made available by the appropriation, shall—
+(a) There is authorized to be appropriated annually to each agency of the Government of theUnited States, including a Government owned corporation, and of the government of the District of Columbia, on a showing of necessity or desirability, such sums as may be necessary to carry out this subchapter. The head of the agency concerned, out of funds made available by the appropriation, shall—
 
 &emsp;(1) furnish to each of these employees a uniform at a cost not to exceed $400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902); or
 
@@ -74,6 +74,8 @@ July 18, 1966, Pub. L. 89–504, §407(a), 80 Stat. 299.
 
 The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the deletion of subsection (d) thereof, reflect the recodification of subsection (d) in 5 U.S.C. 5903 by section 1(40)(A) of this bill. In the last sentence of subsection (a), the words "When" and "pays" are substituted for "In those instances where" and "makes reimbursement", respectively.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(1), (2). Pub. L. 102–378 substituted "5902)" for "5902)."
@@ -81,6 +83,8 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 <b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted "such sums as may be necessary to carry out this subchapter." for "an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform."
 
 Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substituted "$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902)." for "$125 a year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

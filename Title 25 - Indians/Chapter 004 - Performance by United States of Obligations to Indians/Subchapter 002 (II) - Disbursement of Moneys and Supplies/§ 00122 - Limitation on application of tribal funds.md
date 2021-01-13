@@ -4,6 +4,8 @@ No funds belonging to any Indian tribe with which treaty relations exist shall b
 
 (R.S. §2097.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2097 derived from act July 26, 1866, ch. 266, §2, 14 Stat. 280.

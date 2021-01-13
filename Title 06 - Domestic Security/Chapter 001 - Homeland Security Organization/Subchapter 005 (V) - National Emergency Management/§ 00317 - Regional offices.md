@@ -18,7 +18,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### (B) Considerations
 
-&emsp;&emsp;In selecting a Regional Administrator for a Regional Office, the Administrator shall consider the familiarity of an individual with the geographical area and demographic characteristics of the population served by such Regional Office.
+&emsp;&emsp;In selecting a Regional Administrator for a Regional Office, the Administrator shallconsider the familiarity of an individual with the geographical area and demographic characteristics of the population served by such Regional Office.
 
 #### (c) Responsibilities
 
@@ -134,6 +134,8 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 (Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat. 2214, related to the role of the Federal Emergency Management Agency, prior to repeal by Pub. L. 109–295, title VI, §611(4), Oct. 4. 2006, 120 Stat. 1395.
@@ -141,6 +143,8 @@ A prior section 317, Pub. L. 107–296, title V, §507, Nov. 25, 2002, 116 Stat.
 #### Amendments
 
 <b>2007</b>—Subsec. (c)(2)(I) to (K). Pub. L. 110–53 added subpars. (I) and (J) and redesignated former subpar. (I) as (K).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

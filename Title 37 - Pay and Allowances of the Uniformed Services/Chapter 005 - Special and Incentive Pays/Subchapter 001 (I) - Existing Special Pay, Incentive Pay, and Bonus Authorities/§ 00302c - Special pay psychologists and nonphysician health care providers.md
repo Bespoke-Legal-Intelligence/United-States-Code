@@ -4,7 +4,7 @@
 
 Public Health Service Corps.—A member who is—
 
-&emsp;(1) an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a psychologist; and
+&emsp;(1) an officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service and is designated as a psychologist; and
 
 &emsp;(2) has been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology,
 
@@ -38,7 +38,7 @@ Army, Navy, and Air Force Psychologists.—The Secretary of Defense may provide 
 
 Nonphysician Health Care Providers.—The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-&emsp;(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service;
 
 &emsp;(2) is a health care provider (other than a psychologist);
 
@@ -47,6 +47,8 @@ Nonphysician Health Care Providers.—The Secretary concerned may authorize the 
 &emsp;(4) is certified by a professional board in the officer's specialty.
 
 (Added Pub. L. 100–140, §2(a), Oct. 26, 1987, 101 Stat. 830; amended Pub. L. 101–189, div. A, title VII, §704(a), (b)(1), (c), Nov. 29, 1989, 103 Stat. 1471; Pub. L. 101–510, div. A, title VI, §618(a), Nov. 5, 1990, 104 Stat. 1579; Pub. L. 102–25, title VII, §702(a)(2)(A), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §611, Oct. 23, 1992, 106 Stat. 2420; Pub. L. 104–106, div. A, title VI, §617, Feb. 10, 1996, 110 Stat. 362; Pub. L. 104–201, div. A, title VI, §614(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title X, §1073(c)(5), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–398, §1 \[\[div. A\], title VI, §627\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 110–181, div. A, title X, §1063(b), Jan. 28, 2008, 122 Stat. 322.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -80,6 +82,12 @@ Subsecs. (a), (b). Pub. L. 101–189, §704(c), inserted headings.
 
 Subsec. (c). Pub. L. 101–189, §704(a), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
@@ -94,7 +102,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Implementation of Subsection (d)
 
-Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: "The Secretary of Defensemay not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: "The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
 &emsp;"(1) justifying the need of the military departments for the authority provided in such subsection; and
 
@@ -111,4 +119,6 @@ Pub. L. 101–189, div. A, title VII, §704(d), Nov. 29, 1989, 103 Stat. 1471, p
 &emsp;"(2) describing the manner in which that authority will be implemented."
 
 \[Report submitted to Committees on Apr. 20, 1994.\]
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

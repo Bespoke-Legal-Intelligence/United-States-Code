@@ -20,7 +20,9 @@ Authority.—In carrying out an initiative under subsection (a), the Commandant 
 
 &emsp;(2) enter into agreements with nonprofit entities to provide youth programs and activities to such child.
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3030, §543; renumbered §2905, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3030, §543; renumbered §2905, Pub.L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

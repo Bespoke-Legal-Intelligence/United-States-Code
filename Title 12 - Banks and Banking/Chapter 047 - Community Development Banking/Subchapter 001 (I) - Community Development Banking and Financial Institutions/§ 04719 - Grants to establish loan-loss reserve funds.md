@@ -30,7 +30,7 @@ The purposes of this section are—
 
 #### (4) Technical assistance grants
 
-&emsp;The Fund shall make technical assistance grants to community development financialinstitutions or any partnership between or among such institutions to support and maintain a small dollar loan program. Any grant amounts received under this paragraph may be used for technology, staff support, and other costs associated with establishing a small dollar loan program.
+&emsp;The Fund shall make technical assistance grants to community development financial institutions or any partnership between or among such institutions to support and maintain a small dollar loan program. Any grant amounts received under this paragraph may be used for technology, staff support, and other costs associated with establishing a small dollar loan program.
 
 #### (c) Definitions
 
@@ -51,6 +51,8 @@ For purposes of this section—
 &emsp;&emsp;(E) meet any other affordability requirements as may be established by the Administrator.
 
 (Pub. L. 103–325, title I, §122, as added Pub. L. 111–203, title XII, §1206, July 21, 2010, 124 Stat. 2131.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

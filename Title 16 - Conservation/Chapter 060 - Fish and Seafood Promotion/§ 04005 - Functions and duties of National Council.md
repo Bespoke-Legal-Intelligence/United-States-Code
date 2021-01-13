@@ -34,7 +34,7 @@ The National Council may employ and determine the salary of an executive directo
 
 #### (e) Funding of referendum
 
-The National Council may enter into agreements with applicants proposing to establish acouncil under section 4009 of this title for the purposes of funding a referendum establishing the council. The National Council may enter into agreements with the councils established under section 4009 of this title for the purpose of funding a referendum to establish quality standards, or a referendum to terminate any such council.
+The National Council may enter into agreements with applicants proposing to establish a council under section 4009 of this title for the purposes of funding a referendum establishing the council. The National Council may enter into agreements with the councils established under section 4009 of this title for the purpose of funding a referendum to establish quality standards, or a referendum to terminate any such council.
 
 #### (f) Agreements
 
@@ -56,5 +56,5 @@ Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 
 
 #### Continuity of Council Functions, Contracts, and Personnel
 
-Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: "All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990."
+Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: "All current functions, contracts inforce, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990."
 

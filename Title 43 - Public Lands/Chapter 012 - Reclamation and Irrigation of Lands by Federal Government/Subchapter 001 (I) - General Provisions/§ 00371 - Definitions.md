@@ -14,9 +14,13 @@ When used in sections 371, 376, 377, 412, 417, 433, 462, 466, 478, 493, 494, 500
 
 (Dec. 5, 1924, ch. 4, §4, subsec. A, 43 Stat. 701.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act June 17, 1902, referred to in par. (b), is popularly known as the Reclamation Act or National Irrigation Act of 1902, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2015 Amendment
 
@@ -32,7 +36,7 @@ Pub. L. 102–575, §1, Oct. 30, 1992, 106 Stat. 4600, provided that: "This Act 
 
 #### Short Title of 1984 Amendments
 
-For short title of Pub. L. 98–434 as the "High Plains States Groundwater Demonstration Program Act of1983", see section 1 of Pub. L. 98–434, set out as a Short Title note under section 390g of this title.
+For short title of Pub. L. 98–434 as the "High Plains States Groundwater Demonstration Program Act of 1983", see section 1 of Pub. L. 98–434, set out as a Short Title note under section 390g of this title.
 
 For short title of Pub. L. 98–404 as "The Reclamation Safety of Dams Act Amendments of 1984", see section 1 of Pub. L. 98–404, set out as a note under section 506 of this title.
 
@@ -42,7 +46,7 @@ For short title of Pub. L. 95–578 as the "Reclamation Safety of Dams Act of 19
 
 #### Short Title of 1958 Amendment
 
-For short title of title III of Pub. L. 85–500, which enacted section 390b of this title, as the "Water Supply Act of 1958", see section 302 of Pub. L. 85–500, set out as a Short Title note under section 390b of this title.
+For short title of title III of Pub. L. 85–500, which enacted section 390b of this title, as the "Water SupplyAct of 1958", see section 302 of Pub. L. 85–500, set out as a Short Title note under section 390b of this title.
 
 #### Short Title
 
@@ -112,7 +116,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;&emsp;"(D) at least one representative chosen from a list submitted by Tribal governments located in the Western States.
 
-&emsp;"(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For theUnited States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
+&emsp;"(2) In addition to the ten members appointed by the President, twelve Members from the United States Congress shall serve as ex officio members of the Commission. For the United States Senate: the Chairmen and the Ranking Minority Members of the Committees on Energy and Natural Resources, and Appropriations, and the Subcommittee of the Committee on Energy and Natural Resources which has jurisdiction over the Bureau of Reclamation. For the United States House of Representatives: the Chairman \[Chairmen\] and Ranking Minority Members of the Committees on Natural Resources, Public Works and Transportation \[now Transportation and Infrastructure\], and Appropriations.
 
 "(c) The President shall appoint one member of the Commission to serve as Chairman.
 
@@ -188,7 +192,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 "There are hereby authorized to be appropriated not to exceed $10,000,000 to carry out the purposes of sections 3001 through 3009 of this title."
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 \[Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.\]
 

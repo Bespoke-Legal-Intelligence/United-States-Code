@@ -4,9 +4,13 @@ All claims under section 72 of this title must be presented to the register of t
 
 (R.S. §2349.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2349 derived from act Mar. 3, 1873, ch. 279, §3, 17 Stat. 607.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

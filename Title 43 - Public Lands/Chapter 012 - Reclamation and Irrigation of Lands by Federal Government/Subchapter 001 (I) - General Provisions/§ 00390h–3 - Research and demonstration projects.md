@@ -2,7 +2,7 @@
 
 #### (a) Reclamation of wastewater and ground and surface waters
 
-The Secretary is authorized to conduct research and to construct, operate, and maintain cooperative demonstration projects for the development and demonstration of appropriate treatment technologies for the reclamation of municipal, industrial, domestic, and agricultural wastewater, and naturally impaired ground and surface waters. The Federal share of the costs of demonstration projects shall not exceed 50 per centum of the total cost including operation and maintenance. Rights to inventions developed pursuant to this section shall be governed by the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480) \[15 U.S.C. 3701 et seq.\] as amended by the Technology Transfer Act of 1986 (Public Law 99–502).
+The Secretary is authorized to conduct research and to construct, operate, and maintain cooperative demonstration projects for the development and demonstration of appropriate treatment technologies for the reclamation of municipal, industrial, domestic, and agricultural wastewater, and naturally impaired ground and surface waters. The Federal share of the costs of demonstration projects shall not exceed 50 per centum of the total cost including operation and maintenance. Rights to inventions developed pursuant to this section shall begoverned by the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480) \[15 U.S.C. 3701 et seq.\] as amended by the Technology Transfer Act of 1986 (Public Law 99–502).
 
 #### (b) Long Beach Desalination Research and Development Project
 
@@ -25,6 +25,8 @@ The Secretary is authorized to conduct research and to construct, operate, and m
 A Federal contribution in excess of 25 percent for a project under this section may not be made until after the Secretary determines that the project is not feasible without such Federal contribution.
 
 (Pub. L. 102–575, title XVI, §1605, Oct. 30, 1992, 106 Stat. 4665; Pub. L. 104–266, §5, Oct. 9, 1996, 110 Stat. 3295.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

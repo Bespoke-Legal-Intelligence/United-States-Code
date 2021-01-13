@@ -32,7 +32,7 @@ Continuation During Hospitalization.—(1) A member described in paragraph (2) m
 
 &emsp;(A) is injured or wounded under the circumstances described in subsection (a)(2)(C) and is hospitalized for the treatment of the injury or wound; or
 
-&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
+&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary ofDefense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
 
 (d)
 
@@ -44,7 +44,9 @@ Limitations and Administration.—(1) In the case of an area described in subpar
 
 Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306; Pub. L. 111–84,div. A, title VI, §618(a), Oct. 28, 2009, 123 Stat. 2355; Pub. L. 112–81, div. A, title VI, §616(a), Dec. 31, 2011, 125 Stat. 1451; Pub. L. 112–239, div. A, title X, §1076(h)(1), Jan. 2, 2013, 126 Stat. 1955.)
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108–375, div. A, title VI, §623(a), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §§636, 642(b), Jan. 6, 2006, 119 Stat. 3300, 3306; Pub. L. 111–84, div. A, title VI, §618(a), Oct. 28, 2009, 123 Stat. 2355; Pub. L. 112–81, div. A, title VI, §616(a), Dec. 31, 2011, 125 Stat. 1451; Pub. L. 112–239, div. A, title X, §1076(h)(1), Jan. 2, 2013, 126 Stat. 1955.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -119,6 +121,8 @@ Subsec. (e). Pub. L. 108–136, §619, added subsec. (e).
 Subsec. (a)(4). Pub. L. 98–94, §905(a), added cl. (4).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–132 increased rate of special pay from $55 to $65 a month.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

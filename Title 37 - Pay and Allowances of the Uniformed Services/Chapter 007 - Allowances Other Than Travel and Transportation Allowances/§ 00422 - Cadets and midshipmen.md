@@ -62,6 +62,8 @@ Oct. 12, 1949, ch. 681, §508 (less applicability to pay), 63 Stat. 828.
 
 In subsection (a), the words "prescribed under section 410 of this title" are inserted to reflect that revised section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -74,11 +76,13 @@ In subsection (a), the words "prescribed under section 410 of this title" are in
 
 Subsec. (d). Pub. L. 88–647, §202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -28,6 +28,8 @@
 
 (Added Pub. L. 103–322, title VI, §60015(a), Sept. 13, 1994, 108 Stat. 1974; amended Pub. L. 104–294, title VI, §607(k), Oct. 11, 1996, 110 Stat. 3512.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–294 added subsec. (c).

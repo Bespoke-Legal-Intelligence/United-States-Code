@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is recognized as possessing powers of self-government.
 
-&emsp;(6) The term "class I gaming" means social games solely for prizes of minimal value or traditional forms of Indian gaming engaged in by individuals as a part of, or in connection with, tribal ceremonies or celebrations.
+&emsp;(6) The term "class I gaming" means social games solely for prizes of minimal value ortraditional forms of Indian gaming engaged in by individuals as a part of, or in connection with, tribal ceremonies or celebrations.
 
 &emsp;(7)(A) The term "class II gaming" means—
 
@@ -64,6 +64,8 @@ For purposes of this chapter—
 
 (Pub. L. 100–497, §4, Oct. 17, 1988, 102 Stat. 2467; Pub. L. 102–238, §2(a), Dec. 17, 1991, 105 Stat. 1908; Pub. L. 102–497, §16, Oct. 24, 1992, 106 Stat. 3261.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
@@ -74,11 +76,13 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1991</b>—Par. (7)(E), (F). Pub. L. 102–238 added subpars. (E) and (F).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Class II Gaming With Respect to Indian Tribes in Wisconsin or Montana Engaged in Negotiating Tribal-State Compacts
 
 Pub. L. 101–301, §6, May 24, 1990, 104 Stat. 209, provided that: "Notwithstanding any other provision of law, the term 'class II gaming' includes, for purposes of applying Public Law 100–497 \[25 U.S.C. 2701 et seq.\] with respect to any Indian tribe located in the State of Wisconsin or the State of Montana, during the 1-year period beginning on the date of enactment of this Act \[May 24, 1990\], any gaming described in section 4(7)(B)(ii) of Public Law 100–497 \[25 U.S.C. 2703(7)(B)(ii)\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated made a request, by no later than November 16, 1988, to the State in which such gaming is operated to negotiate a Tribal-State compact under section 11(d)(3) of Public Law 100–497 \[25 U.S.C. 2710(d)(3)\]."
 
 #### Tribal-State Compact Covering Indian Tribes in Minnesota; Operation of Class II Games; Allowance of Additional Year for Negotiations
 
-Pub. L. 101–121, title I, §118, Oct. 23, 1989, 103 Stat. 722, provided that: "Notwithstanding any other provision of law, the term 'Class II gaming' in Public Law 100–497 \[25 U.S.C. 2701 et seq.\], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act \[Oct. 23, 1989\] and continuing for 365 days from that date, any gaming described in section 4(7)(B)(ii) of Public Law 100–497 \[25 U.S.C. 2703(7)(B)(ii)\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication \[sic\] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of Public Law 100–497 \[Oct. 17, 1988\], to negotiate a tribal-state compact pursuant to section 11(d)(3) of Public Law 100–497 \[25 U.S.C. 2710(d)(3)\]."
+Pub. L. 101–121, title I, §118, Oct. 23, 1989, 103 Stat. 722, provided that: "Notwithstanding any other provision oflaw, the term 'Class II gaming' in Public Law 100–497 \[25 U.S.C. 2701 et seq.\], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act \[Oct. 23, 1989\] and continuing for 365 days from that date, any gaming described in section 4(7)(B)(ii) of Public Law 100–497 \[25 U.S.C. 2703(7)(B)(ii)\] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication \[sic\] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of Public Law 100–497 \[Oct. 17, 1988\], to negotiate a tribal-state compact pursuant to section 11(d)(3) of Public Law 100–497 \[25 U.S.C. 2710(d)(3)\]."
 

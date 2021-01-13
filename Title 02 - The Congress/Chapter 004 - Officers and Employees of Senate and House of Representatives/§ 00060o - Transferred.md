@@ -1,8 +1,12 @@
 ### §60<i>o</i>. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 60o was editorially reclassified as section 4537 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Lump Sum Payment for Accrued Annual Leave of Senate Employees
 

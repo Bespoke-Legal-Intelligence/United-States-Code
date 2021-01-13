@@ -6,6 +6,8 @@
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712; amended Pub. L. 110–161, div. D, title I, §107, Dec. 26, 2007, 121 Stat. 1977.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "Office of Personnel Management" for "Office of Management and Budget".

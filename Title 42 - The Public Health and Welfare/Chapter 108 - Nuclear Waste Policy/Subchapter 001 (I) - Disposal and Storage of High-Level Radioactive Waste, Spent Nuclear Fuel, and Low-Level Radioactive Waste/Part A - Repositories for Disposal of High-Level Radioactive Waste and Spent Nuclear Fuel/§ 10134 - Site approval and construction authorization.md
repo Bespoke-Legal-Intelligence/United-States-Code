@@ -14,7 +14,7 @@
 
 &emsp;(E) preliminary comments of the Commission concerning the extent to which the at-depth site characterization analysis and the waste form proposal for such site seem to be sufficient for inclusion in any application to be submitted by the Secretary for licensing of such site as a repository;
 
-&emsp;(F) the views and comments of the Governor and legislature of any State, or the governingbody of any affected Indian tribe, as determined by the Secretary, together with the response of the Secretary to such views;
+&emsp;(F) the views and comments of the Governor and legislature of any State, or the governing body of any affected Indian tribe, as determined by the Secretary, together with the response of the Secretary to such views;
 
 &emsp;(G) such other information as the Secretary considers appropriate; and
 
@@ -30,7 +30,7 @@
 
 #### (b) Submission of application
 
-If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
+If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days afterthe date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
 
 #### (c) Status report on application
 
@@ -54,7 +54,7 @@ The Commission shall consider an application for a construction authorization fo
 
 #### (f) Environmental impact statement
 
-(1) Any recommendation made by the Secretary under this section shall be considered amajor Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). A final environmental impact statement prepared by the Secretary under such Act shall accompany any recommendation to the President to approve a site for a repository.
+(1) Any recommendation made by the Secretary under this section shall be considered a major Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). A final environmental impact statement prepared by the Secretary under such Act shall accompany any recommendation to the President to approve a site for a repository.
 
 (2) With respect to the requirements imposed by the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), compliance with the procedures and requirements of this chapter shall be deemed adequate consideration of the need for a repository, the time of the initial availability of a repository, and all alternatives to the isolation of high-level radioactive waste and spent nuclear fuel in a repository.
 

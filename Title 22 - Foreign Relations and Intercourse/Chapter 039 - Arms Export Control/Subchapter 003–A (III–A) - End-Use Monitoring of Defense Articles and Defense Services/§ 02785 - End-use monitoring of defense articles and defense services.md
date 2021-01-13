@@ -10,7 +10,7 @@
 
 &emsp;To the extent practicable, such program—
 
-&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regularend-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
+&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
 
 &emsp;&emsp;(B) shall be designed to provide reasonable assurance that—
 
@@ -36,6 +36,8 @@ For purposes of this section, defense articles and defense services sold, leased
 
 (Pub. L. 90–629, ch. 3A, §40A, as added Pub. L. 104–164, title I, §150(a), July 21, 1996, 110 Stat. 1436; amended Pub. L. 107–228, div. B, title XII, §1205(b), Sept. 30, 2002, 116 Stat. 1428.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (d), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
@@ -50,9 +52,13 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted "and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons" before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 104–164, title I, §150(b), July 21, 1996, 110 Stat. 1437, provided that: "Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

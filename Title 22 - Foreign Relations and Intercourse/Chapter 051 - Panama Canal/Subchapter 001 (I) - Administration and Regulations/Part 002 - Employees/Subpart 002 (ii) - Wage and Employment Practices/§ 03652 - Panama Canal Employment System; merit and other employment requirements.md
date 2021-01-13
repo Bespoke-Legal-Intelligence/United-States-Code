@@ -24,9 +24,11 @@ The Commission shall establish a Panama Canal Employment System and prescribe th
 
 #### (c) Exclusion of employees or positions from coverage
 
-The Commission may exclude any employee or position from coverage under any provision ofthis subpart, other than the interchange rights extended under subsection (a)(4).
+The Commission may exclude any employee or position from coverage under any provision of this subpart, other than the interchange rights extended under subsection (a)(4).
 
 (Pub. L. 96–70, title I, §1212, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3530(a), Sept. 23, 1996, 110 Stat. 2862; Pub. L. 105–85, div. C, title XXXV, §§3523(d), 3550(d)(5), Nov. 18, 1997, 111 Stat. 2065, 2074; Pub. L. 105–261, div. A, title XXXV, §§3507(c), 3512(a)(2), Oct. 17, 1998, 112 Stat. 2269, 2271.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -50,9 +52,13 @@ Pub. L. 105–85, §3523(d), substituted ", the Panama Canal Act Amendments of 
 
 <b>1996</b>—Pub. L. 104–201 amended section generally, substituting subsecs. (a) to (c) requiring the Commission to establish a Panama Canal Employment System for former subsecs. (a) to (d) requiring the President to establish such a System.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 Pub. L. 104–201, div. C, title XXXV, §3530(b), Sept. 23, 1996, 110 Stat. 2863, provided that: "The Panama Canal Employment System and all elections, rules, regulations, and orders relating thereto, as last in effect before the amendment made by subsection (a) \[amending this section\] takes effect, shall continue in effect, according to their terms, until modified, terminated, or superseded under section 1212 of the Panama Canal Act of 1979 \[this section\], as amended by subsection (a)."
+
+#### <b>Executive Documents</b>
 
 #### Coordination of Pay and Employment Practices
 

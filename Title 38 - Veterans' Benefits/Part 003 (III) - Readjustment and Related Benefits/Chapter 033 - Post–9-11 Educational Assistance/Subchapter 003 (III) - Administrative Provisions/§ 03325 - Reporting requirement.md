@@ -40,9 +40,13 @@ Termination.—No report shall be required under this section after January 1, 2
 
 (Added Pub. L. 112–154, title IV, §402(a)(1), Aug. 6, 2012, 126 Stat. 1188; amended Pub. L. 114–315, title IV, §404(a)(1), Dec. 16, 2016, 130 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(3), (4). Pub. L. 114–315 added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

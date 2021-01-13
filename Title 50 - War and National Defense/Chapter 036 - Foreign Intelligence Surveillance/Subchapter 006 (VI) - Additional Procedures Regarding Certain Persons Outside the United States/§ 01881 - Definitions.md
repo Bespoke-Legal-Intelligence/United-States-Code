@@ -62,7 +62,7 @@ Subsec. (b)(5). Pub. L. 115–118, §205(a)(5)(B)(ii), made technical amendment 
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own termsupon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, §2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
+Pub. L. 115–96, div. A, §1002, Dec. 22, 2017, 131 Stat. 2045, which temporarily extended the effective date of the amendments made by section 403(b) of Pub. L. 110–261 to Jan. 19, 2018, was repealed by its own terms upon the enactment, on Jan. 19, 2018, of section 201(a) of Pub. L. 115–118, which amended the dates specified in section 403(b) of Pub. L. 110–261, and by Pub. L. 115–120, div. B, §2002, Jan. 22, 2018, 132 Stat. 31, which was effective on Jan. 22, 2018.
 
 #### Effective Date of Repeal
 

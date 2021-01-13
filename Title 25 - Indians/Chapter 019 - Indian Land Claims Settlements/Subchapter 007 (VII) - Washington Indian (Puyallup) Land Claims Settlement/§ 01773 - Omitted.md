@@ -1,8 +1,12 @@
 ### §1773. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 101–41, §2, June 21, 1989, 103 Stat. 83, which set out congressional findings and purpose, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

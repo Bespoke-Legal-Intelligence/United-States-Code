@@ -90,6 +90,7 @@
 | 353a–1. | Enhanced communication. |
 | [353b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353b%20-%20Outsourcing%20facilities.md) | Outsourcing facilities. |
 | [353c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353c%20-%20Prereview%20of%20television%20advertisements.md) | Prereview of television advertisements. |
+| [353d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353d%20-%20Process%20to%20update%20labeling%20for%20certain%20generic%20drugs.md) | Process to update labeling for certain generic drugs. |
 | [354\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md) | Veterinary feed directive drugs. |
 | [355\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355%20-%20New%20drugs.md) | New drugs. |
 | 355–1. | Risk evaluation and mitigation strategies. |
@@ -102,6 +103,7 @@
 | [355e.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355e%20-%20Pharmaceutical%20security.md) | Pharmaceutical security. |
 | [355f.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355f%20-%20Extension%20of%20exclusivity%20period%20for%20new%20qualified%20infectious%20disease%20products.md) | Extension of exclusivity period for new qualified infectious disease products. |
 | [355g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355g%20-%20Utilizing%20real%20world%20evidence.md) | Utilizing real world evidence. |
+| [355h.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355h%20-%20Regulation%20of%20certain%20nonprescription%20drugs%20that%20are%20marketed%20without%20an%20approved%20drug%20application.md) | Regulation of certain nonprescription drugs that are marketed without an approved drug application. |
 | [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Expedited%20approval%20of%20drugs%20for%20serious%20or%20life-threatening%20diseases%20or%20conditions.md) | Expedited approval of drugs for serious or life-threatening diseases or conditions. |
 | 356–1. | Accelerated approval of priority countermeasures. |
 | [356a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356a%20-%20Manufacturing%20changes.md) | Manufacturing changes. |
@@ -114,6 +116,7 @@
 | [356g.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356g%20-%20Standards%20for%20regenerative%20medicine%20and%20regenerative%20advanced%20therapies.md) | Standards for regenerative medicine and regenerative advanced therapies. |
 | [356h.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356h%20-%20Competitive%20generic%20therapies.md) | Competitive generic therapies. |
 | [356i.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356i%20-%20Prompt%20reports%20of%20marketing%20status.md) | Prompt reports of marketing status. |
+| [356j.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356j%20-%20Discontinuance%20or%20interruption%20in%20the%20production%20of%20medical%20devices.md) | Discontinuance or interruption in the production of medical devices. |
 | [357\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000357%20-%20Qualification%20of%20drug%20development%20tools.md) | Qualification of drug development tools. |
 | [358\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000358%20-%20Authority%20to%20designate%20official%20names.md) | Authority to designate official names. |
 | [359\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000359%20-%20Nonapplicability%20of%20subchapter%20to%20cosmetics.md) | Nonapplicability of subchapter to cosmetics. |
@@ -122,6 +125,7 @@
 | 360a–1. | Clinical trials. |
 | 360a–2. | Susceptibility test interpretive criteria for microorganisms. |
 | [360b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360b%20-%20New%20animal%20drugs.md) | New animal drugs. |
+| 360b–1. | Priority zoonotic animal drugs. |
 | [360c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360c%20-%20Classification%20of%20devices%20intended%20for%20human%20use.md) | Classification of devices intended for human use. |
 | 360c–1. | Reporting. |
 | [360d.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360d%20-%20Performance%20standards.md) | Performance standards. |
@@ -190,24 +194,24 @@
 | :--- | ---: |
 | [360bbb.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20E%20-%20General%20Provisions%20Relating%20to%20Drugs%20and%20Devices/%C2%A7%2000360bbb%20-%20Expanded%20access%20to%20unapproved%20therapies%20and%20diagnostics.md) | Expanded access to unapproved therapies and diagnostics. |
 | 360bbb–0. | Expanded access policy required for investigational drugs. |
-| 360bbb–0a. | &nbsp;Investigational drugs for use by eligible patients. |
+| 360bbb–0a. | Investigational drugs for use by eligible patients. |
 | 360bbb–1. | Dispute resolution. |
 | 360bbb–2. | Classification of products. |
 | 360bbb–3. | Authorization for medical products for use in emergencies. |
-| 360bbb–3a. | &nbsp;Emergency use of medical products. |
-| 360bbb–3b. | &nbsp;Products held for emergency use. |
-| 360bbb–3c. | &nbsp;Expedited development and review of medical products for emergency uses. |
+| 360bbb–3a. | Emergency use of medical products. |
+| 360bbb–3b. | Products held for emergency use. |
+| 360bbb–3c. | Expedited development and review of medical products for emergency uses. |
 | 360bbb–4. | Countermeasure development, review, and technical assistance. |
-| 360bbb–4a. | &nbsp;Priority review to encourage treatments for agents that present national security threats. |
+| 360bbb–4a. | Priority review to encourage treatments for agents that present national security threats. |
 | 360bbb–4b. | Medical countermeasure master files. |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
 | 360bbb–7. | Notification. |
 | 360bbb–8. | Consultation with external experts on rare diseases, targeted therapies, and genetic targeting of treatments. |
-| 360bbb–8a. | &nbsp;Optimizing global clinical trials. |
-| 360bbb–8b. | &nbsp;Use of clinical investigation data from outside the United States. |
-| 360bbb–8c. | &nbsp;Patient participation in medical product discussion. |
-| 360bbb–8d. | &nbsp;Notification, nondistribution, and recall of controlled substances. |
+| 360bbb–8a. | Optimizing global clinical trials. |
+| 360bbb–8b. | Use of clinical investigation data from outside the United States. |
+| 360bbb–8c. | Patient participation in medical product discussion. |
+| 360bbb–8d. | Notification, nondistribution, and recall of controlled substances. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -252,9 +256,10 @@
 | 360fff–2. | Eligibility determinations; data submission; filing. |
 | 360fff–3. | GRASE determination. |
 | 360fff–4. | Guidance; other provisions. |
-| 360fff–5. | Sunscreen monograph. |
+| 360fff–5. | Repealed. |
 | 360fff–6. | Non-sunscreen time and extent applications. |
 | 360fff–7. | Report. |
+| 360fff–8. | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -391,6 +396,16 @@
 | :--- | ---: |
 | 379j–61. | Definitions. |
 | 379j–62. | Authority to assess and use outsourcing facility fees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 10—fees relating to over-the-counter drugs
+
+|  |  |
+| :--- | ---: |
+| 379j–71. | Definitions. |
+| 379j–72. | Authority to assess and use OTC monograph fees. |
+| 379j–73. | Reauthorization; reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

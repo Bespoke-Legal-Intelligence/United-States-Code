@@ -242,7 +242,7 @@ Subsec. (b). Pub. L. 103–429 inserted "Government" before "money may be expend
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -257,6 +257,8 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1830.
 
 Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2940.
 

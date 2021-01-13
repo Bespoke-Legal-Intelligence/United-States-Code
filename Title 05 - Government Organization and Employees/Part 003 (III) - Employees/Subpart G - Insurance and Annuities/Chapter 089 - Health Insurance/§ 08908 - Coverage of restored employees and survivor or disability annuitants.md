@@ -30,6 +30,8 @@ Mar. 17, 1964, Pub. L. 88–284, §1 (less (1)–(13)), 78 Stat. 165.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–208 added subsec. (d).
@@ -43,6 +45,8 @@ Subsec. (c). Pub. L. 99–53, §3(a)(1), added subsec. (c).
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
 
 <b>1976</b>—Pub. L. 94–342 designated existing provisions as subsec. (a), added subsec. (b), and substituted "employees and survivor annuitants" for "employee" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

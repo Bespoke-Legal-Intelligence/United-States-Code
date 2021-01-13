@@ -22,9 +22,11 @@ The exception in subsection (b) "except in the District of Columbia" conforms wi
 
 The clause in said last paragraph of section 1 of title 28 providing that any district judge, who violates the residence requirement, shall be deemed guilty of a high misdemeanor, was omitted. This penalty provision was attached to the residence requirement at the time of compilation of the Revised Statutes of 1878, although it is apparent that Congress only intended that the penalty should be invoked upon the unauthorized practice of law. See <i>U.S. ex. rel. Laughlin v. Eicher</i>, supra, in which an outline of the history of said section 1 of title 28 is given.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted "the Southern District of New York, and the Eastern District ofNew York," after "the District of Columbia," and inserted "Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed." at end.
+<b>1996</b>—Subsec. (b). Pub. L. 104–317 inserted "the Southern District of New York, and the Eastern District of New York," after "the District of Columbia," and inserted "Each district judge of the Southern District of New York and the Eastern District of New York may reside within 20 miles of the district to which he or she is appointed." at end.
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–208 struck out provision requiring that one of the district judges for the Eastern District of Louisiana reside in East Baton Rouge Parish, Louisiana.
 
@@ -42,6 +44,8 @@ Subsecs. (d), (e). Act Feb. 10, 1954, struck out subsecs. (d) and (e) which rela
 
 <b>1949</b>—Subsecs. (c) to (e). Act Aug. 3, 1949, added subsecs. (c) to (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 92–208 effective 120 days after Dec. 18, 1971, see section 3(f) of Pub. L. 92–208, set out as a note under section 98 of this title.
@@ -52,7 +56,7 @@ Amendment by Pub. L. 86–3 effective on admission of Hawaii into the Union, see
 
 #### Tenure and Salary Rights of Judges in Puerto Rico in Office on September 12, 1966
 
-Pub. L. 89–571, §4, Sept. 12, 1966, 80 Stat. 764, provided that: "The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue to receive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\]."
+Pub. L. 89–571, §4, Sept. 12, 1966, 80 Stat. 764, provided that: "The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue toreceive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\]."
 
 #### Applicability of Orders Under 1954 Amendment
 

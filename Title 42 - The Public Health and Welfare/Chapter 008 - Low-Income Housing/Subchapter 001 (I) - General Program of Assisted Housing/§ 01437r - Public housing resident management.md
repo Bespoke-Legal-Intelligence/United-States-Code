@@ -22,7 +22,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 #### (3) Bonding and insurance
 
-&emsp;Before assuming any management responsibility for a public housing project, the resident management corporation shall provide fidelity bonding and insurance, or equivalent protection, in accordance with regulations and requirements of the Secretary and the publichousing agency. Such bonding and insurance, or its equivalent, shall be adequate to protect the Secretary and the public housing agency against loss, theft, embezzlement, or fraudulent acts on the part of the resident management corporation or its employees.
+&emsp;Before assuming any management responsibility for a public housing project, the resident management corporation shall provide fidelity bonding and insurance, or equivalent protection, in accordance with regulations and requirements of the Secretary and the public housing agency. Such bonding and insurance, or its equivalent, shall be adequate to protect the Secretary and the public housing agency against loss, theft, embezzlement, or fraudulent acts on the part of the resident management corporation or its employees.
 
 #### (4) Management responsibilities
 
@@ -80,7 +80,7 @@ A contract under this section for management of a public housing project by a re
 
 #### (4) Calculation of Operating Fund allocation
 
-&emsp;Notwithstanding any provision of section 1437g of this title or any regulation under such section, and subject to the exception provided in paragraph (3), the portion of the amount received by a public housing agency under section 1437g of this title that is due to an allocation from the Operating Fund and that is allocated to a public housing project managed by a resident management corporation shall not be less than the public housing agency per unit monthly amount provided in the previous year as determined on an individual project basis.
+&emsp;Notwithstanding any provision of section 1437g of this title or any regulation under suchsection, and subject to the exception provided in paragraph (3), the portion of the amount received by a public housing agency under section 1437g of this title that is due to an allocation from the Operating Fund and that is allocated to a public housing project managed by a resident management corporation shall not be less than the public housing agency per unit monthly amount provided in the previous year as determined on an individual project basis.
 
 #### (5) Calculation of total income
 
@@ -126,7 +126,7 @@ Subsec. (f). Pub. L. 105–276, §532(a)(5), struck out heading and text of subs
 
 Subsec. (g). Pub. L. 105–276, §532(a)(5), struck out heading and text of subsec. (g). Text read as follows: "Not later than 3 years after February 5, 1988, the Secretary shall—
 
-&emsp;"(1) conduct an evaluation and assessment of resident management, and particularly of the effect of resident management on living conditions in public housing; and
+&emsp;"(1) conduct an evaluation and assessment of resident management, and particularly of the effect ofresident management on living conditions in public housing; and
 
 &emsp;"(2) submit to the Congress a report setting forth the findings of the Secretary as a result of the evaluation and assessment and including any recommendations the Secretary determines to be appropriate."
 

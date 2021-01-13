@@ -4,7 +4,7 @@
 
 Three-Year Assignment Period.—(1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
 
-(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
+(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or toremain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
 
 (3) The assignment period requirement of the first sentence of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual's assignment as a deputy program manager.
 
@@ -36,7 +36,7 @@ Waiver of Assignment Period.—(1) With respect to a person assigned to a critic
 
 (e)
 
-Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the acquisition workforce serving in critical acquisition positions to new assignments after completion of five yearsof service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
+Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the acquisition workforce serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
 (2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
@@ -50,11 +50,25 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 (h)
 
-Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the acquisition workforce to critical acquisition positions.
+Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel ofthat military department who are members of the acquisition workforce to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520; Pub. L. 116–283, div. A, title XVIII, §§1849(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4264, 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1849(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4264, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(2), by striking "section 2432" and inserting "chapter 324"; and</i>
+
+<i>(2) for any other reference in the text to a source section that is redesignated by title XVIII of Pub. L. 116–283, by striking such reference and inserting a reference to the appropriate section as so redesignated.</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §1883(b)(2), substituted "section 4214(a)" for "section 2435(a)".
+
+Pub. L. 116–283, §1849(m), substituted "chapter 324" for "section 2432".
 
 <b>2019</b>—Subsec. (e)(1). Pub. L. 116–92, §861(j)(10)(A), substituted "of the acquisition workforce" for "of the Acquisition Corps".
 
@@ -95,6 +109,10 @@ Subsec. (b)(1)(A). Pub. L. 102–484, §812(b)(2)(A), inserted "(except as provi
 Subsec. (b)(3). Pub. L. 102–484, §812(b)(2)(B), added par. (3).
 
 Subsec. (e)(2). Pub. L. 102–484, §812(a), inserted at end "Reviews under this subsection shall be carried out after October 1, 1995, but may be carried out before that date."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Job Referral System Deadline
 

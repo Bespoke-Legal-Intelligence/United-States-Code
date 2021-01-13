@@ -58,7 +58,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a student referred to in subsection (a) shall, upon the completion of a period of service in the uniformed services, notify the institution of higher education of the student's intent to return to the institution not later than three years after the completion of the period of service.
+&emsp;&emsp;Except as provided in subparagraph (B), a student referred to in subsection (a) shall,upon the completion of a period of service in the uniformed services, notify the institution of higher education of the student's intent to return to the institution not later than three years after the completion of the period of service.
 
 #### (B) Hospitalization or convalescence
 

@@ -32,6 +32,8 @@
 | [3522\.](%C2%A7%2003522%20-%20Detail%20of%20employees.md) | Detail of employees. |
 | [3523\.](%C2%A7%2003523%20-%20Intelligence%20operations%20and%20cover%20enhancement%20authority.md) | Intelligence operations and cover enhancement authority. |
 | [3524\.](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md) | Support for the Associate Director of the Central Intelligence Agency for Military Affairs. |
+| [3525\.](%C2%A7%2003525%20-%20Office%20of%20the%20Ombudsman%20for%20Analytic%20Objectivity.md) | Office of the Ombudsman for Analytic Objectivity. |
+| [3526\.](%C2%A7%2003526%20-%20Improvement%20of%20education%20in%20science%2C%20technology%2C%20engineering%2C%20arts%2C%20and%20mathematics.md) | Improvement of education in science, technology, engineering, arts, and mathematics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -70,3 +72,5 @@
 - [&sect; 03522 - Detail of employees](%C2%A7%2003522%20-%20Detail%20of%20employees.md)
 - [&sect; 03523 - Intelligence operations and cover enhancement authority](%C2%A7%2003523%20-%20Intelligence%20operations%20and%20cover%20enhancement%20authority.md)
 - [&sect; 03524 - Support for the Associate Director of the Central Intelligence Agency for Military Affairs](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md)
+- [&sect; 03525 - Office of the Ombudsman for Analytic Objectivity](%C2%A7%2003525%20-%20Office%20of%20the%20Ombudsman%20for%20Analytic%20Objectivity.md)
+- [&sect; 03526 - Improvement of education in science, technology, engineering, arts, and mathematics](%C2%A7%2003526%20-%20Improvement%20of%20education%20in%20science%2C%20technology%2C%20engineering%2C%20arts%2C%20and%20mathematics.md)

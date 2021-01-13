@@ -46,13 +46,17 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 106–102, title I, §115, Nov. 12, 1999, 113 Stat. 1371.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (d)(6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

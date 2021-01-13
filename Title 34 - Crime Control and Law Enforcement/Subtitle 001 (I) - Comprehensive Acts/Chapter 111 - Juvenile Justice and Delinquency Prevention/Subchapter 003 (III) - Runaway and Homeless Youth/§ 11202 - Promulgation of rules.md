@@ -4,6 +4,8 @@ The Secretary of Health and Human Services (hereinafter in this subchapter refer
 
 (Pub. L. 93–415, title III, §303, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 98–473, title II, §650, Oct. 12, 1984, 98 Stat. 2122.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5702 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 5702 of Title 42, The Public Health a
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 substituted "Health and Human Services" for "Health, Education, and Welfare" and "issue such rules as the Secretary" for "prescribe such rules as he".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

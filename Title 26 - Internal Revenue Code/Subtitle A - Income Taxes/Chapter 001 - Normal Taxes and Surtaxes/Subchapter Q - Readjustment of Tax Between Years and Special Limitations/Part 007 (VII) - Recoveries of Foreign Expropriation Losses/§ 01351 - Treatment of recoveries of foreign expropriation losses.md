@@ -12,7 +12,7 @@
 
 #### (b) Definition of foreign expropriation loss
 
-For purposes of this section, the term "foreign expropriation loss" means any loss sustained by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing. For purposes of the preceding sentence, a debt which becomes worthless shall, to the extent of any deduction allowed under section 166(a), be treated as a loss.
+For purposes of this section, the term "foreign expropriation loss" means any loss sustained byreason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing. For purposes of the preceding sentence, a debt which becomes worthless shall, to the extent of any deduction allowed under section 166(a), be treated as a loss.
 
 #### (c) Amount of recovery
 
@@ -48,7 +48,7 @@ That part of the amount of a recovery of a foreign expropriation loss to which t
 
 #### (f) Basis of recovered property
 
-The basis of property (other than money) received as a recovery of a foreign expropriationloss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
+The basis of property (other than money) received as a recovery of a foreign expropriation loss to which this section applies shall be an amount equal to its fair market value on the date of receipt, reduced by such part of the gain under subsection (e) which is not recognized as provided in section 1033.
 
 #### (g) Restoration of value of investments
 
@@ -134,7 +134,7 @@ Amendment by section 1031(b)(3) of Pub. L. 94–455 applicable to taxable years 
 
 #### Effective Date
 
-Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]added by section 1(a)) sustained after December 31, 1958."
+Pub. L. 89–384, §2, Apr. 8, 1966, 80 Stat. 105, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by section 1 (except subsection (b)) \[enacting this section and section 6167 of this title and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

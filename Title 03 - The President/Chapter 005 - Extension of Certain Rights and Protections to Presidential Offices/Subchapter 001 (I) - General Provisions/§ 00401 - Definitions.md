@@ -40,6 +40,8 @@ Definitions Relating to Certain Matters.—For purposes of applying this chapter
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4054.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 104–331, §2(b), Oct. 26, 1996, 110 Stat. 4068, provided that: "Appropriate measures shall be taken to ensure that—

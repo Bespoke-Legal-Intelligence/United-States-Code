@@ -20,11 +20,11 @@
 
 #### (5) States and political subdivisions as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from a State or anypolitical subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (b) Underpayments
 
-If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of wages or compensation and the underpayment cannot be adjusted under subsection (a) of this section, the amount of the underpayment shall be assessed and collected in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
+If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of wages or compensation and the underpayment cannot be adjusted under subsection (a) of this section, the amount of the underpayment shall be assessed and collected in such manner and at suchtimes (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 768; Pub. L. 86–778, title I, §103(r)(1), Sept. 13, 1960, 74 Stat. 940; Pub. L. 89–97, title III, §317(d), July 30, 1965, 79 Stat. 389; Pub. L. 94–455, title XIX, §1906(a)(13), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 99–272, title XIII, §13205(a)(2)(D), Apr. 7, 1986, 100 Stat. 315.)
 

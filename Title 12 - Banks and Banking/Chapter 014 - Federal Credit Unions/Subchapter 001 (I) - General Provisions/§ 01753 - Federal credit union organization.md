@@ -20,6 +20,8 @@ Any seven or more natural persons who desire to form a Federal credit union shal
 
 (June 26, 1934, ch. 750, title I, §103, formerly §3, 48 Stat. 1217; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; renumbered §4 and amended Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §103, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §§503, 504, Oct. 15, 1982, 96 Stat. 1528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–320, §503, substituted "each subscribe either individually or collectively" for "subscribe".
@@ -32,9 +34,13 @@ Par. (4). Pub. L. 97–320, §504, substituted "the initial par value of the sha
 
 <b>1959</b>—Pub. L. 86–354 changed "The" to "the" in subsecs. (1) to (7) and the period to a semicolon in subsecs. (1) to (6) and inserted "and" at end of subsec. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

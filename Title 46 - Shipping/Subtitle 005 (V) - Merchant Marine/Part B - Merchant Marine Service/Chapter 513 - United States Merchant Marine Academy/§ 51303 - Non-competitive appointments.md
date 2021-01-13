@@ -26,6 +26,8 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XIII, §1303(b)(3)(D), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1999.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

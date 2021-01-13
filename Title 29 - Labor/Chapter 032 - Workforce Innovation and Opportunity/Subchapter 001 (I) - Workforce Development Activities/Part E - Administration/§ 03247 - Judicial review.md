@@ -8,7 +8,7 @@
 
 #### (2) Action on petition
 
-&emsp;The clerk of the court shall transmit a copy of the review petition to the Secretary, who shall file the record on which the final order was entered as provided in section 2112 of title 28. The filing of a review petition shall notstay the order of the Secretary, unless the court orders a stay. Petitions filed under this subsection shall be heard expeditiously, if possible within 10 days after the date of filing of a reply to the petition.
+&emsp;The clerk of the court shall transmit a copy of the review petition to the Secretary, who shall file the record on which the final order was entered as provided in section 2112 of title 28. The filing of a review petition shall not stay the order of the Secretary, unless the court orders a stay. Petitions filed under this subsection shall be heard expeditiously, if possible within 10 days after the date of filing of a reply to the petition.
 
 #### (3) Standard and scope of review
 
@@ -19,6 +19,8 @@
 The court shall have jurisdiction to make and enter a decree affirming, modifying, or setting aside the order of the Secretary in whole or in part. The judgment of the court regarding the order shall be final, subject to certiorari review by the Supreme Court as provided in section 1254(1) of title 28.
 
 (Pub. L. 113–128, title I, §187, July 22, 2014, 128 Stat. 1597.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

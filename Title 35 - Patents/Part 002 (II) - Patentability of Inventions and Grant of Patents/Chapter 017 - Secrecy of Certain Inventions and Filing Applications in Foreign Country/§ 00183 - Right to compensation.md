@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §153 (Feb. 1, 1952, ch. 4, §3, 66 Stat. 4
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 struck out "of this title" after "181".
@@ -17,6 +19,8 @@ Language is changed.
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" in two places.
 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

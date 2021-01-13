@@ -8,13 +8,13 @@
 
 #### (2) Third and fourth years of medical school
 
-&emsp;For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fundunder section 292q of this title, were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
+&emsp;For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fund under section 292q of this title, were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
 
 #### (b) Terms and conditions
 
 Subject to section 292s of this title, any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
 
-&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
+&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree,doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
 
 &emsp;(2) who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
 
@@ -64,7 +64,7 @@ Subject to regulations of the Secretary, a school may assess a charge with respe
 
 #### (i) Charge with respect to late payments
 
-Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c), for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than thedue date of the next installment after receipt by the borrower of notice of the assessment of the charge.
+Subject to regulations of the Secretary, and in accordance with this section, a school shall assess a charge with respect to a loan made under this subpart for failure of the borrower to pay all or any part of an installment when it is due and, in the case of a borrower who is entitled to deferment of the loan under subsection (c), for any failure to file timely and satisfactory evidence of such entitlement. No such charge may be made if the payment of such installment or the filing of such evidence is made within 60 days after the date on which such installment or filing is due. The amount of any such charge may not exceed an amount equal to 6 percent of the amount of such installment. The school may elect to add the amount of any such charge to the principal amount of the loan as of the first day after the day on which such installment or evidence was due, or to make the amount of the charge payable to the school not later than the due date of the next installment after receipt by the borrower of notice of the assessment of the charge.
 
 #### (j) Authority of schools regarding rate of payment
 
@@ -128,7 +128,7 @@ Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 
 &emsp;"(2) $2,500."
 
-Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2),which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
+Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
 
 #### Effective Date of 1998 Amendment
 

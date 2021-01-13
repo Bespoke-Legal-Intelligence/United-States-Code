@@ -48,7 +48,7 @@ Transportation and Transportation-related Data Access.—The Director shall be p
 
 &emsp;(1) information that is expressly prohibited by law from being disclosed to another Federal agency; or
 
-&emsp;(2) information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilitieswhich have been delegated to, or vested by law, in such agency.
+&emsp;(2) information that the agency possessing the information determines could not be disclosed without significantly impairing the discharge of authorities and responsibilities which have been delegated to, or vested by law, in such agency.
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 892; amended Pub. L. 114–94, div. A, title VI, §6018(b), Dec. 4, 2015, 129 Stat. 1577.)
 

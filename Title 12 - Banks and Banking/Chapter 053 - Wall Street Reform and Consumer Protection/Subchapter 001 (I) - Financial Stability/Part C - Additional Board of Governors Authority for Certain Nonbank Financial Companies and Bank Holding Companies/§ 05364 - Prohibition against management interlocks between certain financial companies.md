@@ -4,6 +4,8 @@ A nonbank financial company supervised by the Board of Governors shall be treate
 
 (Pub. L. 111–203, title I, §164, July 21, 2010, 124 Stat. 1423; Pub. L. 115–174, title IV, §401(c)(1)(F), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
@@ -11,6 +13,8 @@ The Depository Institution Management Interlocks Act, referred to in text, is ti
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–174 substituted "$250,000,000,000" for "$50,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

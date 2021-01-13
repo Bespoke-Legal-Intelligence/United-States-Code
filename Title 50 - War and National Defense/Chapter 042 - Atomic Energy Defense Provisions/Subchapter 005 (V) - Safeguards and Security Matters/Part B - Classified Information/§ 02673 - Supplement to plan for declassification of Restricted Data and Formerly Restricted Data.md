@@ -2,7 +2,7 @@
 
 #### (a) Supplement to plan
 
-The Secretary of Energy and the Archivist of the United States shall, after consultation withthe members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a supplement to the plan required under subsection (a) of section 2672 of this title.
+The Secretary of Energy and the Archivist of the United States shall, after consultation with the members of the National Security Council and in consultation with the Secretary of Defense and the heads of other appropriate Federal agencies, develop a supplement to the plan required under subsection (a) of section 2672 of this title.
 
 #### (b) Contents of supplement
 

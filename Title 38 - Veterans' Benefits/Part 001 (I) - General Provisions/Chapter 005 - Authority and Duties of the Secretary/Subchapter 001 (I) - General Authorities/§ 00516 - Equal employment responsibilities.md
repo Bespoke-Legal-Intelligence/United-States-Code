@@ -50,21 +50,25 @@
 
 &emsp;(C) shall include copies of such complaints, with the information described in subparagraph (A) redacted.
 
-(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report onthe complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
+(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report on the complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
 
 (f) The Secretary shall ensure that an employee of the Department who seeks counseling relating to employment discrimination may elect to receive such counseling from an employee of the Department who carries out equal employment opportunity counseling functions on a full-time basis rather than from an employee of the Department who carries out such functions on a part-time basis.
 
-(g) The number of employees of the Department whose duties include equal employment opportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases.
+(g) The number of employees of the Department whose duties include equal employmentopportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases.
 
 (h) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
 
 (Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–170 substituted "45 days" for "30 days".
 
 <b>1998</b>—Subsec. (e)(2)(E). Pub. L. 105–368 substituted "Under Secretary of Veterans Affairs for Memorial Affairs" for "Director of the National Cemetery System".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;If at the time of original issue there was an intention to call a debt instrument beforematurity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
+&emsp;&emsp;If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
 
 &emsp;&emsp;&emsp;(i) the original issue discount, reduced by
 
@@ -106,7 +106,7 @@ For purposes of this title—
 
 This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86),Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(c)(1)(A), (D), (E), Mar. 23, 2018, 132 Stat. 1205.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 531; amended Pub. L. 99–514, title XVIII, §1803(a)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2791, 2792; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 105–34, title X, §1003(c)(1), Aug. 5, 1997, 111 Stat. 910; Pub. L. 113–295, div. A, title II, §221(a)(86), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(c)(1)(A), (D), (E), Mar. 23, 2018, 132 Stat. 1205.)
 
 #### References in Text
 
@@ -240,7 +240,7 @@ Special rules for sales after december 31, 1984, and before july 1, 1985.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of any sale or exchange after December 31, 1984, and before July 1, 1985, of property other than new section 38 property—
+In general.—In the case of any sale or exchange after December 31, 1984, and before July 1,1985, of property other than new section 38 property—
 
 &emsp;&emsp;&emsp;"(i) sections 483(c)(1)(B) and 1274(c)(3) of the Internal Revenue Code of 1986 shall be applied by substituting the testing rate determined under subparagraph (B) for 110 percent of the applicable Federal rate determined under section 1274(d) of such Code, and
 
@@ -370,7 +370,7 @@ Residences.—Any sale or exchange of a residence by an individual, an estate, o
 
 &emsp;&emsp;&emsp;"(aa) such residence on the date of such sale or exchange (or in the case of an estate or testamentary trust, on the date of death of the decedent) was the principal residence (within the meaning of section 1034) of the individual or decedent, or
 
-&emsp;&emsp;&emsp;"(bb) during the 2-year period ending on such date, no substantial portion of such residence was of a character subject to an allowance under this title \[probably means the Internal Revenue Code of 1986\] for depreciation (or amortization in lieu thereof) in the hands of such individual or decedent, and
+&emsp;&emsp;&emsp;"(bb) during the 2-year period ending on such date, no substantial portion of such residence was of a character subject to an allowance under this title \[probably means the Internal Revenue Code of 1986\] for depreciation\(or amortization in lieu thereof) in the hands of such individual or decedent, and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) such residence was not at any time, in the hands of such individual, estate, testamentary trust, or decedent, described in section 1221(1) (relating to inventory, etc.).
 
@@ -522,7 +522,7 @@ Spread period.—For purposes of this paragraph, the term 'spread period' means 
 
 &emsp;&emsp;"(D)
 
-Cash basis income.—For purposes of this paragraph, the term 'cash basis income' means for any taxable year the aggregate amount which would be includible in the gross income of the taxpayer with respect to short-term obligations described in subsection (b) of section 1281 of such Code if the provisions of section 1281 of such Code did not apply to such taxable year and all prior taxable years within the spread period.
+Cash basis income.—For purposes of this paragraph, the term 'cash basis income' means for any taxable year the aggregate amount whichwould be includible in the gross income of the taxpayer with respect to short-term obligations described in subsection (b) of section 1281 of such Code if the provisions of section 1281 of such Code did not apply to such taxable year and all prior taxable years within the spread period.
 
 &emsp;&emsp;"(E)
 

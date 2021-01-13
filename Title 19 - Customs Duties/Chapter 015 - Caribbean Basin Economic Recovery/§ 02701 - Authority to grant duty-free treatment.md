@@ -12,13 +12,17 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 <b>2000</b>—Pub. L. 106–200 inserted "(or other preferential treatment)" after "treatment".
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–164, §1, Oct. 10, 2020, 134 Stat. 758, provided that: "This Act \[amending sections 58c and 2703 of this title and amending provisions set out as a note under section 3805 of this title\] may be cited as the 'Extension of the Caribbean Basin Economic Recovery Act'."
+
 #### Short Title of 2010 Amendment
 
 Pub. L. 111–171, §1, May 24, 2010, 124 Stat. 1194, provided that: "This Act \[amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under section 2703a of this title and section 6655 of Title 26, Internal Revenue Code\] may be cited as the 'Haiti Economic Lift Program Act of 2010'."
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–234, title XV, §15401, May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, §4(a), title XV, §15401, June 18,2008, 122 Stat. 1664, 2289, provided that: "This part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending sections 2703 and 2703a of this title and enacting provisions set out as notes under section 2703a of this title\] may be cited as the 'Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008' or the 'HOPE II Act'."
+Pub. L. 110–234, title XV, §15401, May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, §4(a), title XV, §15401, June 18, 2008, 122 Stat. 1664, 2289, provided that: "This part \[part I (§§15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending sections 2703 and 2703a of this title and enacting provisions set out as notes under section 2703a of this title\] may be cited as the 'Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008' or the 'HOPE II Act'."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -80,7 +84,7 @@ Schedule of Meetings.—The President shall take the necessary steps to convene 
 
 "(b)
 
-Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)).
+Purpose.—The purpose of the meetings scheduled under subsection (a) is to reach agreement between the United States and CBTPA beneficiary countries on the likely timing and procedures for initiating negotiations for CBTPA beneficiary countries to enter into mutually advantageous free trade agreements with the United States that contain provisions comparable to those in the NAFTA and would make substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (\[former\] 19 U.S.C. 3317(b)(5)).
 
 "(c)
 

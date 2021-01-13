@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Secretary shall conduct a study to determine the feasibility of treating the Navajo Nation as a State for the purposes of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to provide services to Indians living within the boundaries of the Navajo Nation through an entity established having the same authority and performing the same functions as single-State medicaid agencies responsible for the administration of the State plan under title XIX of the Social Security Act.
+The Secretary shall conduct a study to determine the feasibility of treating the Navajo Nation as a State for the purposes of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to provide services to Indians living within theboundaries of the Navajo Nation through an entity established having the same authority and performing the same functions as single-State medicaid agencies responsible for the administration of the State plan under title XIX of the Social Security Act.
 
 #### (b) Considerations
 
@@ -29,6 +29,8 @@ Not later then 3 years after March 23, 2010, the Secretary shall submit to the C
 &emsp;(4) legislative actions that would be required to authorize the establishment of such entity if such entity is determined by the Secretary to be feasible.
 
 (Pub. L. 94–437, title IV, §411, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

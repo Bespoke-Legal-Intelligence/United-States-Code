@@ -18,9 +18,7 @@ Such assistance shall be available—
 
 (Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Statement of Policy
 
@@ -136,7 +134,7 @@ Sense of the Congress.—It is the sense of the Congress that the President, act
 
 &emsp;&emsp;"(B) to encourage the development of new such centers and programs;
 
-&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and OtherCruel, Inhuman or Degrading Treatment or Punishment; and
+&emsp;"(2) use the voice and vote of the United States to support the work of the Special Rapporteur on Torture and the Committee Against Torture established under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
 
 &emsp;"(3) use the voice and vote of the United States to establish a country rapporteur or similar procedural mechanism to investigate human rights violations in a country if either the Special Rapporteur or the Committee Against Torture indicates that a systematic practice of torture is prevalent in that country.
 
@@ -163,4 +161,10 @@ Gender-Related Considerations.—In conducting training under subsection (a)(4) 
 \[Pub. L. 108–179, §2(b), Dec. 15, 2003, 117 Stat. 2643, provided that: "The amendment made by subsection (a) \[amending section 5(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003."\]
 
 \[Pub. L. 108–179, §3(b), Dec. 15, 2003, 117 Stat. 2643, provided that: "The amendment made by subsection (a) \[amending section 4(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003."\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

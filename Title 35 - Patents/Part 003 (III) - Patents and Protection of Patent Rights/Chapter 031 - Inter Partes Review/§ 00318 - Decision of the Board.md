@@ -18,11 +18,15 @@ Data on Length of Review.—The Office shall make available to the public data d
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, §13202(c)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 303.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, text read as follows: "Once an order for inter partes reexamination of a patent has been issued under section 313, the patent owner may obtain a stay of any pending litigation which involves an issue of patentability of any claims of the patent which are the subject of the inter partes reexamination order, unless the court before which such litigation is pending determines that a stay would not serve the interests of justice."
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -30,5 +34,5 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in theUnited States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 

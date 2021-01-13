@@ -14,7 +14,7 @@ The Secretary shall support Federal programs administered by the National Instit
 
 #### (b) Pediatric emergency medical research
 
-The Secretary shall support Federal programs administered by the National Institutes of Health, the Agency for Healthcare Research and Quality, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and other agencies to coordinate and expand research in pediatric emergency medical care systems and pediatric emergency medicine, including—
+The Secretary shall support Federal programs administered by the National Institutes of Health, the Agency for Healthcare Research andQuality, the Health Resources and Services Administration, the Centers for Disease Control and Prevention, and other agencies to coordinate and expand research in pediatric emergency medical care systems and pediatric emergency medicine, including—
 
 &emsp;(1) an examination of the gaps and opportunities in pediatric emergency care research and a strategy for the optimal organization and funding of such research;
 

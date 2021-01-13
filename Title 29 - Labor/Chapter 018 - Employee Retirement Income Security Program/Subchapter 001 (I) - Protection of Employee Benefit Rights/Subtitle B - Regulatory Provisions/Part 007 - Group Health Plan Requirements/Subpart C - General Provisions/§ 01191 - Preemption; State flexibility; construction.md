@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) substitutes for the reference to "12 months" and "18 months" in section 1181(a)(2) of this title a reference to any shorter period of time;
 
-&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A) <sup>1</sup>of this title a reference to any greater number of days;
+&emsp;&emsp;(C) substitutes for the references to "63 days" in sections 1181(c)(2)(A) and (d)(4)(A) <sup>1</sup> of this title a reference to any greater number of days;
 
 &emsp;&emsp;(D) substitutes for the reference to "30-day period" in sections 1181(b)(2) <sup>2</sup> and (d)(1) of this title a reference to any greater period;
 
@@ -52,9 +52,13 @@ For purposes of this section—
 
 (Pub. L. 93–406, title I, §731, formerly §704, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1946; renumbered §731 and amended Pub. L. 104–204, title VI, §603(a)(3), (b)(1), Sept. 26, 1996, 110 Stat. 2935, 2937.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–204, §603(b)(1), substituted "Except as provided in section 1185 of this title, nothing" for "Nothing".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

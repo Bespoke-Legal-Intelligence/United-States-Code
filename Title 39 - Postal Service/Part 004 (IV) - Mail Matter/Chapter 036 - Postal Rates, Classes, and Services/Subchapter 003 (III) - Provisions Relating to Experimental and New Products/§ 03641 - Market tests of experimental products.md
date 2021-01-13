@@ -92,6 +92,8 @@ Effective Date.—Market tests under this subchapter may be conducted in any yea
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 763; Pub. L. 94–421, §6(a), Sept. 24, 1976, 90 Stat. 1306; Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3207.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in subsec. (h), is classified to section 632 of Title 15, Commerce and Trade.
@@ -112,13 +114,15 @@ Subsec. (e). Pub. L. 94–421 redesignated former subsec. (a) as (e) and struck 
 
 Subsec. (f). Pub. L. 94–421 redesignated former subsec. (b) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Rate Change Request Made on September 18, 1975, or Under Docket Number R76–1
 
-Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, orwhich at any time has been included under, Postal Rate Commission Docket Number R76–1."
+Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a)of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1."
 
 #### Applicability of Former Provisions of Section to Rate Change Request Made on September 18, 1975, Under Docket Number R76–1
 

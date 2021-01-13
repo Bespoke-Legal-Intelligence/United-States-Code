@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (3) Specified asset
 
-&emsp;The term "specified asset" means securities (as defined in section 475(c)(2) without regardto the last sentence thereof), commodities (as defined in section 475(e)(2)), real estate held for rental or investment, cash or cash equivalents, options or derivative contracts with respect to any of the foregoing, and an interest in a partnership to the extent of the partnership's proportionate interest in any of the foregoing.
+&emsp;The term "specified asset" means securities (as defined in section 475(c)(2) without regard to the last sentence thereof), commodities (as defined in section 475(e)(2)), real estate held for rental or investment, cash or cash equivalents, options or derivative contracts with respect to any of the foregoing, and an interest in a partnership to the extent of the partnership's proportionate interest in any of the foregoing.
 
 #### (4) Exceptions
 

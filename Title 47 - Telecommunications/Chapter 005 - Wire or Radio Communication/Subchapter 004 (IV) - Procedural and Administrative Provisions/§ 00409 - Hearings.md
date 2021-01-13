@@ -2,7 +2,7 @@
 
 #### (a) Filing of initial decisions; exceptions
 
-In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, the person or persons conducting the hearing shall prepare and file an initial, tentative, or recommended decision, except where such person or persons become unavailable to the Commission or where the Commission finds upon the record that due and timely execution of its functions imperatively and unavoidably require that the record be certified to the Commission for initial or final decision.
+In every case of adjudication (as defined in section 551 of title 5) which has been designatedby the Commission for hearing, the person or persons conducting the hearing shall prepare and file an initial, tentative, or recommended decision, except where such person or persons become unavailable to the Commission or where the Commission finds upon the record that due and timely execution of its functions imperatively and unavoidably require that the record be certified to the Commission for initial or final decision.
 
 #### (b) Exceptions to initial decisions; memoranda; determination of Commission or authority within Commission; prohibition against consideration of own decision
 
@@ -36,7 +36,7 @@ The testimony of any witness may be taken, at the instance of a party, in any pr
 
 #### (i) Oaths; testimony in writing
 
-Every person deposing as herein provided shall be cautioned and sworn (or affirm, if he so request) to testify the whole truth, and shall be carefully examined. His testimony shall be reduced to writing by the magistrate taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
+Every person deposing as herein provided shall be cautioned and sworn (or affirm, if he so request) to testify the whole truth, and shall becarefully examined. His testimony shall be reduced to writing by the magistrate taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 
 #### (j) Foreign depositions
 
@@ -53,6 +53,8 @@ Witnesses whose depositions are taken as authorized in this chapter, and the mag
 Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce books, papers, schedules of charges, contracts, agreements, and documents, if in his power to do so, in obedience to the subpena or lawful requirement of the Commission, shall be guilty of a misdemeanor and upon conviction thereof by a court of competent jurisdiction shall be punished by a fine of not less than $100 nor more than $5,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
 (June 19, 1934, ch. 652, title IV, §409, 48 Stat. 1096; July 16, 1952, ch. 879, §16, 66 Stat. 721; Pub. L. 87–192, §4, Aug. 31, 1961, 75 Stat. 422; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–452, title II, §242, Oct. 15, 1970, 84 Stat. 930; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,11 +74,13 @@ In subsecs. (a), (b), and (c)(1), "adjudication (as defined in section 551 of ti
 
 Subsec. (b). Pub. L. 87–192 provided for filing of memoranda in support of exceptions to initial, tentative, or recommended decisions, to be passed upon by the Commission or the designated authority within the Commission, and eliminated provisions for oral argument on the exceptions, filing of initial decisions, with stated exceptions, incorporated in subsec. (a) of this section, and making all decisions part of the record and requiring the decisions to include a statement of findings, and conclusions upon all material issues of fact, law, or discretion and the appropriate decision, order, or requirement. See section 557 of Title 5, Government Organization and Employees.
 
-Subsec. (c). Pub. L. 87–192 continued requirement of notice and opportunity for participation by all partieswhen person seeks to make any additional presentation of case, having previously participated in the presentation of or preparation for presentation of the case, made applicable provisions of section 554(d) of Title 5 to applications for initial licenses and eliminated provisions for separation of functions of examiners from the investigative and prosecutory functions of persons engaged in performance of such functions, prohibition against consultation with Commission or any member or employee thereof with respect to initial decisions or exceptions taken to findings, rulings or recommendations, prohibition against members of Office of The General Counsel, Office of the Chief Engineer or the Office of the Chief Accountant from making any presentations respecting a case, and prohibition against persons engaged in performance of investigative or prosecuting functions for the Commission from consulting in any case of adjudication.
+Subsec. (c). Pub. L. 87–192 continued requirement of notice and opportunity for participation by all parties when person seeks to make any additional presentation of case, having previously participated in the presentation of or preparation for presentation of the case, made applicable provisions of section 554(d) of Title 5 to applications for initial licenses and eliminated provisions for separation of functions of examiners from the investigative and prosecutory functions of persons engaged in performance of such functions, prohibition against consultation with Commission or any member or employee thereof with respect to initial decisions or exceptions taken to findings, rulings or recommendations, prohibition against members of Office of The General Counsel, Office of the Chief Engineer or the Office of the Chief Accountant from making any presentations respecting a case, and prohibition against persons engaged in performance of investigative or prosecuting functions for the Commission from consulting in any case of adjudication.
 
 Subsec. (d). Pub. L. 87–192 inserted references to section 155(d) of this title.
 
 <b>1952</b>—Act July 16, 1952, amended section generally, inserting subsecs. (a) to (d) and redesignating former subsecs. (b) to (j) as (e) to (m), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -88,7 +92,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Savings Provision
 
-Pub. L. 87–192, §5, Aug. 31, 1961, 75 Stat. 422, provided that: "Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect to any case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act."
+Pub. L. 87–192, §5, Aug. 31, 1961, 75 Stat. 422, provided that: "Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect toany case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

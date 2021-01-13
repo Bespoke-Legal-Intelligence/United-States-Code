@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §211(a), as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1126.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10579. Interagency Motor-Vehicle Pools and Systems
 
 Ex. Ord. No. 10579, Dec. 1, 1954, 19 F.R. 7925, provided:
@@ -38,7 +40,7 @@ Section 1. <i>Purpose and general policy</i>. (a) The purpose of these regulatio
 
 (b) The Administrator of General Services (hereinafter referred to as the Administrator) shall establish and provide for the operation of interagency motor-vehicle pools and systems for the purpose of providing more efficient or economical transportation of Government personnel and property within specific areas by motor vehicles or local transit systems. Pools or systems based in whole or in part upon use of privately-owned vehicles and facilities shall be preferred to Government ownership of vehicles and facilities to the extent that it is feasible to provide required motor-vehicle services of satisfactory quality and cost from commercial or other private sources.
 
-Sec. 2. <i>Conduct of studies to determine advisability of establishing motor-vehicle pools or systems</i>. (a) The Administrator shall select areas in which studies are to be conducted to determine the advisability of establishing motor-vehicle pools or systems. Before initiating any such study, he shall give at least thirty days notice to the head of each executive agency (as defined in section 3(a) of the Act \[now 40 U.S.C. 102(4)\]). The notice shall include a statement of the approximate geographic area to be studied and the date on which the study will begin.
+Sec. 2. <i>Conduct of studies to determine advisability of establishing motor-vehicle pools or systems</i>. (a) The Administrator shall select areas in which studies are to be conducted to determine the advisability of establishing motor-vehicle pools or systems. Before initiating any such study, he shall give at least thirty days notice to the head of each executive agency (as defined in section3(a) of the Act \[now 40 U.S.C. 102(4)\]). The notice shall include a statement of the approximate geographic area to be studied and the date on which the study will begin.
 
 (b) The head of each executive agency receiving notice that such a study is to be made shall provide information which is required or pertinent. He shall also designate one or more officials in the field with whom members of a staff assigned by the General Services Administration may consult. Such designated officials shall provide such assigned staff with needed information and assistance, including reasonable opportunities to observe motor-vehicle operations and facilities and to examine pertinent cost and other records.
 
@@ -64,7 +66,7 @@ Sec. 6. <i>Review of determinations not agreed to by agencies affected</i>. (a) 
 
 (c) The Director's decision upon each such appeal, if it holds that the determination shall apply in whole or in part to the appealing agency, shall state the extent to which the determination applies and the effective date of its application. To the extent that the Director's decision on an appeal does not uphold the Administrator's determination, such determination shall be of no force and effect.
 
-Sec. 7. <i>Compliance with determinations and decisions on appeals</i>. (a) When a determination or a decision on anappeal made in accordance with these regulations has become effective, each executive agency affected shall comply therewith.
+Sec. 7. <i>Compliance with determinations and decisions on appeals</i>. (a) When a determination or a decision on an appeal made in accordance with these regulations has become effective, each executive agency affected shall comply therewith.
 
 (b) The Director shall take such actions as he deems appropriate to assist in securing compliance with determinations which have become effective. In the exercise of this authority to establish reserves in apportioning appropriations and funds, the Director shall take account of such savings as accrue from the establishment of inter-agency motor-vehicle pools and systems.
 
@@ -82,7 +84,7 @@ Sec. 8. <i>Discontinuance or curtailment of service</i>. (a) If, during any reas
 
 (e) If the Administrator does not agree with such request and is unable to make arrangements which are mutually acceptable to him and to the head of the executive agency concerned, the agency's request for discontinuance or modification and the Administrator's reasons for not agreeing with the request shall be forwarded to the Director who shall be responsible for making a final and binding decision.
 
-(f) When a pool or system is discontinued or curtailed, such transfers of vehicles and related equipment and supplies, personnel, records, facilities, and funds as may be appropriate will be made, subject to the approval of the Director.
+(f) When a pool or system is discontinued or curtailed, such transfers of vehicles and related equipmentand supplies, personnel, records, facilities, and funds as may be appropriate will be made, subject to the approval of the Director.
 
 Sec. 9. <i>Motor vehicles exempted from inclusion in interagency motor-vehicle pools</i>. The following-described classes of motor vehicles shall be exempt from inclusion in interagency motor-vehicle pools or systems:
 

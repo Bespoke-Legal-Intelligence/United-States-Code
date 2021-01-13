@@ -4,17 +4,17 @@
 
 (b) A member of the Naval Militia may wear the uniform prescribed for the Naval Militia.
 
-(c) A retired officer of the Army, Navy, Air Force, or Marine Corps may bear the title and wear the uniform of his retired grade.
+(c) A retired officer of the Army, Navy, Air Force, Marine Corps, or Space Force may bear the title and wear the uniform of his retired grade.
 
-(d) A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
+(d) A person who is discharged honorably or under honorable conditions from the Army, Navy, Air Force, Marine Corps, or Space Force may wear his uniform while going from the place of discharge to his home, within three months after his discharge.
 
-(e) A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, or Marine Corps may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
+(e) A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, Marine Corps, or Space Force may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
 
-(f) While portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
+(f) While portraying a member of the Army, Navy, Air Force, Marine Corps, or Space Force, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
 
 (g) An officer or resident of a veterans' home administered by the Department of Veterans Affairs may wear such uniform as the Secretary of the military department concerned may prescribe.
 
-(h) While attending a course of military instruction conducted by the Army, Navy, Air Force, or Marine Corps, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
+(h) While attending a course of military instruction conducted by the Army, Navy, Air Force, Marine Corps, or Space Force, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
 
 (i) Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525;Pub. L. 116–283, div. A, title IX, §924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes
 
@@ -136,13 +136,15 @@ In subsection (g), the word "resident" is substituted for the word "members", si
 
 In subsection (h), the words "authorized and" and "for wear during such course of instruction" are omitted as surplusage. The word "naval" is omitted as covered by the word "military". The words "Army, Navy, Air Force, or Marine Corps" are substituted for the words "military or naval authorities". The words "that armed force" are substituted for the words "such military or naval authorities".
 
-In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flyingschools or Air Force service schools". The words "in such manner" are omitted as surplusage.
+In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flying schools or Air Force service schools". The words "in such manner" are omitted as surplusage.
 
 #### Constitutionality
 
 For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" wherever appearing.
 
 <b>1996</b>—Subsec. (h). Pub. L. 104–201 inserted before period at end "if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned".
 

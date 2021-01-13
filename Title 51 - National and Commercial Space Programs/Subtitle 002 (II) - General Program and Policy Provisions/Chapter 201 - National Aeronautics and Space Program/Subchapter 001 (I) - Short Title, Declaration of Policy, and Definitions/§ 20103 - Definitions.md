@@ -10,7 +10,7 @@ Aeronautical and space activities.—The term "aeronautical and space activities
 
 &emsp;&emsp;(B) the development, construction, testing, and operation for research purposes of aeronautical and space vehicles;
 
-&emsp;&emsp;(C) the operation of a space transportation system including the space shuttle, upperstages, space platforms, and related equipment; and
+&emsp;&emsp;(C) the operation of a space transportation system including the space shuttle, upper stages, space platforms, and related equipment; and
 
 &emsp;&emsp;(D) such other activities as may be required for the exploration of space.
 

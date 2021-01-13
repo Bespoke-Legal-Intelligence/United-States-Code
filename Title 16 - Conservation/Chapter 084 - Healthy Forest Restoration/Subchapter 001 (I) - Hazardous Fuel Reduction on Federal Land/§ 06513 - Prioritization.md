@@ -34,11 +34,11 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (B) Applicability and allocation
 
-&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. The Secretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reduction projects on land described in section 6512(a)(4) of this title.
+&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. The Secretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reductionprojects on land described in section 6512(a)(4) of this title.
 
 #### (C) Wildland-urban interface
 
-&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall useexisting definitions of the term "wildland-urban interface" rather than the definition of that term provided under section 6511 of this title.
+&emsp;&emsp;In the case of an authorized hazardous fuel reduction project for which a decision notice is issued during the 1-year period beginning on December 3, 2003, the Secretary shall use existing definitions of the term "wildland-urban interface" rather than the definition of that term provided under section 6511 of this title.
 
 #### (2) Non-Federal land
 

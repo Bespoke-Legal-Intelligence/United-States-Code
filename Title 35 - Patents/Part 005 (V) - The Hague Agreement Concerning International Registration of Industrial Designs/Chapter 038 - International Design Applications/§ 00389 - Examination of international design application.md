@@ -10,13 +10,15 @@ Applicability of Chapter 16.—All questions of substance and, unless otherwise 
 
 (c)
 
-Fees.—The Director may prescribe fees for filing international design applications, for designating the United States, and for any other processing, services, or materials relating to international design applications, and may provide for later payment of such fees, including surcharges for later submission of fees.
+Fees.—The Director may prescribe fees for filing international design applications, for designating the United States, and for any otherprocessing, services, or materials relating to international design applications, and may provide for later payment of such fees, including surcharges for later submission of fees.
 
 (d)
 
 Issuance of Patent.—The Director may issue a patent based on an international design application designating the United States, in accordance with the provisions of this title. Such patent shall have the force and effect of a patent issued on an application filed under chapter 16.
 
 (Added Pub. L. 112–211, title I, §101(a), Dec. 18, 2012, 126 Stat. 1530.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

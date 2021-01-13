@@ -10,7 +10,7 @@
 
 &emsp;(2) the Archivist states that the Archivist does not intend to take any action under subsection (e) of this section.
 
-(d) In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection\(e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
+(d) In the event the Archivist notifies the President under subsection (c) that the Archivist does intend to take action under subsection (e), the President may dispose of such Presidential records if copies of the disposal schedule are submitted to the appropriate Congressional Committees at least 60 calendar days of continuous session of Congress in advance of the proposed disposal date. For the purpose of this section, continuity of session is broken only by an adjournment of Congress sine die, and the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the days in which Congress is in continuous session.
 
 (e) The Archivist shall request the advice of the Committee on Rules and Administration and the Committee on Governmental Affairs of the Senate and the Committee on House Oversight and the Committee on Government Operations of the House of Representatives with respect to any proposed disposal of Presidential records whenever the Archivist considers that—
 
@@ -29,6 +29,8 @@
 (4) The Archivist is authorized to dispose of such Presidential records which the Archivist has appraised and determined to have insufficient administrative, historical, informational, or evidentiary value to warrant their continued preservation. Notice of such disposal shall be published in the Federal Register at least 60 days in advance of the proposed disposal date. Publication of such notice shall constitute a final agency action for purposes of review under chapter 7 of title 5, United States Code.
 
 (Added Pub. L. 95–591, §2(a), Nov. 4, 1978, 92 Stat. 2524; amended Pub. L. 104–186, title II, §223(9), Aug. 20, 1996, 110 Stat. 1752; Pub. L. 113–187, §§2(c), 8(3), Nov. 26, 2014, 128 Stat. 2006, 2011; Pub. L. 114–136, §3, Mar. 18, 2016, 130 Stat. 305.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -60,6 +62,8 @@ Subsec. (g)(3). Pub. L. 113–187, §8(3)(F), substituted "the Archivist has" fo
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -71,6 +75,8 @@ Committee on Government Operations of House of Representatives treated as referr
 #### Effective Date
 
 Section effective with respect to Presidential records created during a term of office of President beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95–591, set out as a note under section 2201 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Classified National Security Information
 

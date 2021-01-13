@@ -14,7 +14,7 @@ Maximum Amount; Waiver.—(1) The amount of payments made for a participant unde
 
 (2)(A) The Secretary may waive the limitations under paragraph (1) in the case of a participant described in subparagraph (B). In the case of such a waiver, the total amount of payments payable to or for that participant is the total amount of the principal and the interest on the participant's loans referred to in subsection (a).
 
-(B) A participant described in this subparagraph is a participant in the Program who the Secretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
+(B) A participant described in this subparagraph is a participant in the Program who theSecretary determines serves in a position for which there is a shortage of qualified employees by reason of either the location or the requirements of the position.
 
 (Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1465.)
 

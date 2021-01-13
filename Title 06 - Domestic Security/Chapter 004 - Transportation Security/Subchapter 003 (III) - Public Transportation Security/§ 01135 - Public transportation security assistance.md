@@ -124,7 +124,7 @@ The Secretary shall establish a process to require the return of any misspent gr
 
 &emsp;(C) $750,000,000 for fiscal year 2009, except that not more than 30 percent of such funds may be used for operational costs under subsection (b)(2);
 
-&emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such fundsmay be used for operational costs under subsection (b)(2); and
+&emsp;(D) $900,000,000 for fiscal year 2010, except that not more than 20 percent of such funds may be used for operational costs under subsection (b)(2); and
 
 &emsp;(E) $1,100,000,000 for fiscal year 2011, except that not more than 10 percent of such funds may be used for operational costs under subsection (b)(2).
 
@@ -141,6 +141,8 @@ Waiver.—The Secretary may waive the limitation on operational costs specified 
 Effective date.—Funds provided for fiscal year 2007 transit security grants under Public Law 110–28 shall be allocated based on security assessments that are in existence as of August 3, 2007.
 
 (Pub. L. 110–53, title XIV, §1406, Aug. 3, 2007, 121 Stat. 405.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

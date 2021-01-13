@@ -4,6 +4,8 @@ No consular officer shall certify any invoice unless he is satisfied that the pe
 
 (R.S. §1715.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1715 derived from act Aug. 18, 1856, ch. 127, §27, 11 Stat. 62.

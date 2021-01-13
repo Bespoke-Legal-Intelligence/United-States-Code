@@ -96,7 +96,7 @@ In general.—Notwithstanding any other provision of law, regulations issued und
 
 &emsp;(2)
 
-Definition.—In this section, the term "driver of a ready mixed concrete delivery vehicle" means a driver of a vehicle designed to deliver ready mixed concrete on a daily basis and is equipped with a mechanism under which the vehicle's propulsion engine provides the power to operate a mixer drum to agitate and mix the product en route to the delivery site.
+Definition.—In this section, the term "driver of a ready mixed concrete delivery vehicle" means a driver of a vehicle designed to deliver ready mixed concrete on a daily basisand is equipped with a mechanism under which the vehicle's propulsion engine provides the power to operate a mixer drum to agitate and mix the product en route to the delivery site.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408; Pub. L. 109–59, title IV, §4145(b), Aug. 10, 2005, 119 Stat. 1749; Pub. L. 114–94, div. A, title V, §5521, Dec. 4, 2015, 129 Stat. 1559.)
 
@@ -214,7 +214,7 @@ Regulation.—The term 'regulation' has the meaning that term has under section 
 
 &emsp;"(D)
 
-Utility service vehicle.—The term 'utility service vehicle' has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615)."
+Utility service vehicle.—The term 'utility service vehicle' has the meaning that term has undersection 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615)."
 
 #### Study of Adequacy of Parking Facilities
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–452, title IV, §401(b), Oct. 15, 1970, 84 Stat. 933, added item 1623.

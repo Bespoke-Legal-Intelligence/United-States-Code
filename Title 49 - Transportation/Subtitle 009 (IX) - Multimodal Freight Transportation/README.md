@@ -9,7 +9,7 @@
 
 #### Prior Provisions
 
-A prior subtitle IX, consisting of chapters 701 and 703, related to commercial space transportation, prior to being transferred and renumbered as chapters 509 and 511 of Title 51, National and Commercial Space Programs.
+A prior subtitle IX, consisting of chapters 701 and 703, related to commercial space transportation, prior tobeing transferred and renumbered as chapters 509 and 511 of Title 51, National and Commercial Space Programs.
 
 
 ---

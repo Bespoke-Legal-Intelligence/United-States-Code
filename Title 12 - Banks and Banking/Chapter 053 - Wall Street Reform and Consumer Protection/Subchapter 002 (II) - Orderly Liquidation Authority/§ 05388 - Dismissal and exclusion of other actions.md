@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Effective as of the date of the appointment of the Corporation as receiver for the covered financial company under section 5382 of this title or the appointment of SIPC as trustee for a covered broker or dealer under section 5385 of thistitle, as applicable, any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code or the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.) shall be dismissed, upon notice to the bankruptcy court (with respect to a case commenced under the Bankruptcy Code), and upon notice to SIPC (with respect to a covered broker or dealer) and no such case or proceeding may be commenced with respect to a covered financial company at any time while the orderly liquidation is pending.
+Effective as of the date of the appointment of the Corporation as receiver for the covered financial company under section 5382 of this title or the appointment of SIPC as trustee for a covered broker or dealer under section 5385 of this title, as applicable, any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code or the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.) shall be dismissed, upon notice to the bankruptcy court (with respect to a case commenced under the Bankruptcy Code), and upon notice to SIPC (with respect to a covered broker or dealer) and no such case or proceeding may be commenced with respect to a covered financial company at any time while the orderly liquidation is pending.
 
 #### (b) Revesting of assets
 
@@ -14,9 +14,13 @@ Notwithstanding subsections (a) and (b), any order entered or other relief grant
 
 (Pub. L. 111–203, title II, §208, July 21, 2010, 124 Stat. 1459.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

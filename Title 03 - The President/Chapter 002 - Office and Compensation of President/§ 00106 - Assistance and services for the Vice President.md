@@ -16,7 +16,7 @@
 
 > Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured under paragraph (2) of this subsection for a period in excess of one year if the Vice President determines such procurement is necessary.
 
-(b) In order to carry out the executive duties and responsibilities referred to in subsection (a), there are authorized to be appropriated each fiscal year to the Vice President such sums as may be necessary for—
+(b) In order to carry out the executive duties and responsibilities referred to in subsection (a),there are authorized to be appropriated each fiscal year to the Vice President such sums as may be necessary for—
 
 &emsp;(1) the official expenses of the Office of the Vice President;
 
@@ -30,11 +30,15 @@
 
 (June 25, 1948, ch. 644, 62 Stat. 678; Oct. 15, 1949, ch. 695, §2(b), 63 Stat. 880; Pub. L. 95–570, §1(a), Nov. 2, 1978, 92 Stat. 2446.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by the Vice President of employees and procurement by the Vice President of temporary or intermittent services of experts and consultants to enable the Vice President to provide assistance to the President; appropriation of sums for the official expenses of the Office of the Vice President, the official entertainment expenses of the Vice President, and subsistence expenses of Government personnel while traveling on official business in connection with the travel of the Vice President; accounting of sums by the Vice President; inspection, certificationand report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to the spouse of the Vice President or to a member of the Vice President's family; struck out provisions which authorized the President to appoint and fix compensation of not to exceed six administrative assistants and directed that each assistant perform such duties as the President prescribed.
+<b>1978</b>—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by the Vice President of employees and procurement by the Vice President of temporary or intermittent services of experts and consultants to enable the Vice President to provide assistance to the President; appropriation of sums for the official expenses of the Office of the Vice President, the official entertainment expenses of the Vice President, and subsistence expenses of Government personnel while traveling on official business in connection with the travel of the Vice President; accounting of sums by the Vice President; inspection, certification and report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to the spouse of the Vice President or to a member of the Vice President's family; struck out provisions which authorized the President to appoint and fix compensation of not to exceed six administrative assistants and directed that each assistant perform such duties as the President prescribed.
 
 <b>1949</b>—Act Oct. 15, 1949, struck out salary provisions. See section 105 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 
@@ -51,6 +55,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Former President's Office Staff
 
 See note under section 102 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11456. Special Assistant to the President for Liaison With Former Presidents
 

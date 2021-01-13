@@ -102,7 +102,7 @@ The Director—
 
 &emsp;&emsp;(A) each of the evaluations received by the Director under section 1705(g)(2) of this title; and
 
-&emsp;&emsp;(B) the progress of each National Drug Control Program agency toward the drugcontrol program goals of the agency using the performance measures for the agency developed under section 1705(c) <sup>2</sup> of this title;
+&emsp;&emsp;(B) the progress of each National Drug Control Program agency toward the drug control program goals of the agency using the performance measures for the agency developed under section 1705(c) <sup>2</sup> of this title;
 
 &emsp;(15) shall ensure that drug prevention and drug treatment research and information is effectively disseminated by National Drug Control Program agencies to State and local governments and nongovernmental entities involved in demand reduction by—
 
@@ -164,7 +164,7 @@ The Director—
 
 #### (C) Content of drug control budget requests
 
-&emsp;&emsp;A drug control budget request submitted by a department, agency, or program under this paragraph shall include all requests for funds for any drug control activity undertaken by that department, agency, or program, including demand reduction, supply reduction, and State, local, and tribal affairs, including any drug law enforcement activities. If an activity has both drug control and nondrug control purposes or applications, the department, agency, or program shall estimate by a documented calculation the total funds requested for that activity that would be used for drug control, and shall set forth in its request the basis and method for making the estimate.
+&emsp;&emsp;A drug control budget request submitted by a department, agency, or program under this paragraph shall include all requests for funds for any drug control activity undertaken by that department, agency, or program, including demand reduction, supply reduction, and State, local, and tribal affairs, including any drug law enforcement activities. If an activity has both drug control and nondrug control purposes or applications, the department, agency, or programshall estimate by a documented calculation the total funds requested for that activity that would be used for drug control, and shall set forth in its request the basis and method for making the estimate.
 
 #### (2) National Drug Control Program budget proposal
 
@@ -436,6 +436,8 @@ When developing the national drug control policy, any policy of the Director, in
 
 (Pub. L. 105–277, div. C, title VII, §§704, 715, Oct. 21, 1998, 112 Stat. 2681–672, 2681–693; Pub. L. 109–469, title I, §§103(a)–(e), (f)(3), 105, title VI, §602, Dec. 29, 2006, 120 Stat. 3506, 3507, 3510, 3511, 3533; Pub. L. 112–166, §2(t), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8217(c)–(f), 8221(b)(1), 8222(2), Oct. 24, 2018, 132 Stat. 4110, 4120–4122, 4142; Pub. L. 116–74, §2(a)(1), (2), (5), Nov. 27, 2019, 133 Stat. 1155.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1705 of this title, referred to in subsec. (b)(2), (14)(B), was amended by Pub. L. 115–271, title VIII, §8221(a), Oct. 24, 2018, 132 Stat. 4134. Subsec. (b) of section 1705 no longer relates to reports for National Drug Control Program Agencies, but similar provisions can be found elsewhere in that section. Subsec. (c) of section 1705 was redesignated (h).
@@ -536,7 +538,7 @@ Subsec. (d)(8)(E)(iii). Pub. L. 115–271, §8217(f)(1)(B)(iii), added cl. (iii)
 
 Subsec. (e)(2)(A). Pub. L. 115–271, §8217(f)(2), substituted "Subject to the availability of appropriations" for "Notwithstanding any other provision of law".
 
-Subsec. (f)(4). Pub. L. 115–271, §8217(2)(B)(ii), which directed the amendment of subsec. (f) by striking "the second paragraph (4)", was executed by striking the par. (4) added by Pub. L. 109–469, §105(f), to reflect the probable intent of Congress. Text read as follows: "A copy of each fund control notice shall be transmitted to the appropriate congressional committees."
+Subsec. (f)(4). Pub. L. 115–271, §8217(2)(B)(ii), which directed the amendment of subsec. (f) by striking "the second paragraph (4)", was executed by striking the par. (4) added by Pub. L. 109–469, §105(f), to reflect theprobable intent of Congress. Text read as follows: "A copy of each fund control notice shall be transmitted to the appropriate congressional committees."
 
 Subsec. (f)(5). Pub. L. 115–271, §8217(2)(B)(i), which directed the amendment of subsec. (f) by striking "the first paragraph (5)", was executed by striking the par. (5) added by Pub. L. 109–469, §103(e), to reflect the probable intent of Congress. Text read as follows: "The Director shall not issue a fund control notice to direct that all or part of an amount appropriated to the National Drug Control Program agency account be obligated, modified, or altered in any manner—
 
@@ -608,6 +610,8 @@ Subsec. (h). Pub. L. 109–469, §103(f)(3)(B), amended subsec. (h) generally. P
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
@@ -616,11 +620,13 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 Pub. L. 105–277, div. D, title II, §221, Oct. 21, 1998, 112 Stat. 2681–758, expressed sense of Congress that efforts of the Federal Government to reduce demand for illegal drugs in United States are frustrated by fragmentation of those efforts across multiple departments and agencies, and improvement of those efforts can best be achieved through consolidation and coordination, and further provided that not later than 18 months after Oct. 21, 1998, Director of the Office of National Drug Control Policy was to prepare and submit to Congress a report evaluating options for increasing efficacy of drug prevention and treatment programs, including a thorough review of activities and potential consolidation of existing Federal drug information clearinghouses.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12880. National Drug Control Program
 
 Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 13008, June 3, 1996, 61 F.R. 28721, provided:
 
-The Office of National Drug Control Policy has the lead responsibility within the Executive Office of thePresident to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
+The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
 

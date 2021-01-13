@@ -22,7 +22,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of title VII <sup>1</sup> (as such subpart was in effect on the day before December 10, 2015) that exceeded $40,000; or
 
-&emsp;&emsp;&emsp;(ii) for any fiscal year following fiscal year 2017, received a grant in the previous fiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
+&emsp;&emsp;&emsp;(ii) for any fiscal year following fiscal year 2017, received a grant in the previousfiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
 
 #### (2) Appropriate officials
 

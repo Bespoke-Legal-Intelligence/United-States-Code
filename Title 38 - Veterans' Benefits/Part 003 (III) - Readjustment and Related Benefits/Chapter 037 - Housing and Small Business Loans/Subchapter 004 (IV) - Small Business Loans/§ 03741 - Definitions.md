@@ -8,6 +8,8 @@ For the purposes of this subchapter—
 
 (Added Pub. L. 97–72, title III, §302(a), Nov. 3, 1981, 95 Stat. 1055, §1841; amended Pub. L. 99–576, title VII, §702(9), Oct. 28, 1986, 100 Stat. 3302; renumbered §3741 and amended Pub. L. 102–83, §§4(a)(1), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1841 of this title as this section.
@@ -16,9 +18,11 @@ Par. (1). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretar
 
 <b>1986</b>—Pub. L. 99–576 substituted "percent" for "per centum" in par. (1) and "180" for "one hundred and eighty" in par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 97–72, title III, §305, Nov. 3, 1981, 95 Stat. 1060, provided that: "The amendments made by this title \[see Tables for classification\] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act \[Nov. 3, 1981\], except that the authority of the Administrator ofVeterans' Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment."
+Pub. L. 97–72, title III, §305, Nov. 3, 1981, 95 Stat. 1060, provided that: "The amendments made by this title \[see Tables for classification\] shall take effect at the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act \[Nov. 3, 1981\], except that the authority of the Administrator of Veterans' Affairs to promulgate regulations under subchapter IV of chapter 37 of title 38, United States Code (as added by section 302), shall take effect on such date of enactment."
 
 #### Short Title
 

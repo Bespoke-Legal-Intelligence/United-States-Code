@@ -8,7 +8,7 @@ In General.—In order to improve safety and reduce employee fatigue, the Secret
 
 &emsp;(2) to increase the minimum hours an employee may be required or allowed to rest to a level greater than the level established under this chapter;
 
-&emsp;(3) to limit or eliminate the amount of time an employee spends waiting for deadheadtransportation or in deadhead transportation from a duty assignment to the place of final release that is considered neither on duty nor off duty under this chapter;
+&emsp;(3) to limit or eliminate the amount of time an employee spends waiting for deadhead transportation or in deadhead transportation from a duty assignment to the place of final release that is considered neither on duty nor off duty under this chapter;
 
 &emsp;(4) for signal employees—
 

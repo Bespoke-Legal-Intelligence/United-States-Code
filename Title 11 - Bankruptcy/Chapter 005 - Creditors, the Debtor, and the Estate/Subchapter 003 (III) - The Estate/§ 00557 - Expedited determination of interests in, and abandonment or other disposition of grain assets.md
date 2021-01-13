@@ -94,11 +94,15 @@
 
 (Added Pub. L. 98–353, title III, §352(a), July 10, 1984, 98 Stat. 359; amended Pub. L. 99–554, title II, §257(p), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 116–54, §4(a)(10), Aug. 23, 2019, 133 Stat. 1086.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(3). Pub. L. 116–54 inserted "1183," after "1104,".
 
 <b>1986</b>—Subsec. (d)(3). Pub. L. 99–554 inserted reference to section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

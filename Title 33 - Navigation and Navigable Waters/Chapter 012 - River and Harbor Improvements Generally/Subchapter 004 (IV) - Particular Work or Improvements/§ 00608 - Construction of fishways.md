@@ -4,9 +4,13 @@ Whenever river and harbor improvements shall be found to operate (whether by loc
 
 (Aug. 11, 1888, ch. 860, §11, 25 Stat. 425; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from act Aug. 11, 1888, the Rivers and Harbors Appropriation Act of 1888.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

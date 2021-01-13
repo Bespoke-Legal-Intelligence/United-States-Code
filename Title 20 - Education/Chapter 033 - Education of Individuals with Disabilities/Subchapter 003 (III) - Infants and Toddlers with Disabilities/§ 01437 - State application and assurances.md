@@ -30,7 +30,7 @@ A State desiring to receive a grant under section 1433 of this title shall submi
 
 &emsp;(9) a description of the policies and procedures to be used—
 
-&emsp;&emsp;(A) to ensure a smooth transition for toddlers receiving early intervention servicesunder this subchapter (and children receiving those services under section 1435(c) of this title) to preschool, school, other appropriate services, or exiting the program, including a description of how—
+&emsp;&emsp;(A) to ensure a smooth transition for toddlers receiving early intervention services under this subchapter (and children receiving those services under section 1435(c) of this title) to preschool, school, other appropriate services, or exiting the program, including a description of how—
 
 &emsp;&emsp;&emsp;(i) the families of such toddlers and children will be included in the transition plans required by subparagraph (C); and
 

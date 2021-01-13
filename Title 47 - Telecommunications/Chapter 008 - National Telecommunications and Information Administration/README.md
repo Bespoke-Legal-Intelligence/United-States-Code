@@ -9,6 +9,7 @@
 | [903\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000903%20-%20Spectrum%20management%20activities.md) | Spectrum management activities. |
 | [904\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000904%20-%20General%20administrative%20provisions.md) | General administrative provisions. |
 | [905\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000905%20-%20Omitted.md) | Omitted. |
+| [906\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/%C2%A7%2000906%20-%20Wireless%20supply%20chain%20innovation%20and%20multilateral%20security.md) | Wireless supply chain innovation and multilateral security. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

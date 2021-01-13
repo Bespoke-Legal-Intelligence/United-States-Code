@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount of distributions treated as a qualified higher education expense underthis paragraph with respect to the loans of any individual shall not exceed $10,000 (reduced by the amount of distributions so treated for all prior taxable years).
+&emsp;&emsp;The amount of distributions treated as a qualified higher education expense under this paragraph with respect to the loans of any individual shall not exceed $10,000 (reduced by the amount of distributions so treated for all prior taxable years).
 
 #### (C) Special rules for siblings of the designated beneficiary
 
@@ -342,7 +342,7 @@ Subsec. (b). Pub. L. 107–16, §402(a)(4)(C), substituted "Qualified tuition" f
 
 Subsec. (b)(1). Pub. L. 107–16, §402(a)(1), (4)(A), in introductory provisions, substituted "qualified tuition" for "qualified State tuition" and inserted "or by 1 or more eligible educational institutions" after "thereof", and added concluding provisions.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §402(a)(2), inserted "in the case of a program established and maintainedby a State or agency or instrumentality thereof," before "may make".
+Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §402(a)(2), inserted "in the case of a program established and maintained by a State or agency or instrumentality thereof," before "may make".
 
 Subsec. (b)(2). Pub. L. 107–16, §402(a)(4)(A), substituted "qualified tuition" for "qualified State tuition".
 
@@ -434,7 +434,7 @@ Subsec. (e)(1)(C). Pub. L. 105–34, §1601(h)(1)(B), inserted "(or agency or in
 
 Subsec. (e)(2). Pub. L. 105–34, §211(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The term 'member of the family' has the same meaning given such term as section 2032A(e)(2)."
 
-Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3) generally. Prior to amendment,text read as follows: "The term 'qualified higher education expenses' means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3))."
+Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The term 'qualified higher education expenses' means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3))."
 
 Subsec. (e)(5). Pub. L. 105–34, §211(b)(2), added par. (5).
 

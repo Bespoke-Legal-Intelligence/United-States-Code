@@ -26,6 +26,8 @@ Former sections 1072 and 1072a are combined and restated for clarity. The remain
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5114, referred to in text, was repealed by Pub. L. 99–386, title I, §110(a), Aug. 22, 1986, 100 Stat. 822.
@@ -33,6 +35,8 @@ Section 5114, referred to in text, was repealed by Pub. L. 99–386, title I, §
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

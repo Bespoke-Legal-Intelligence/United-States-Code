@@ -20,6 +20,8 @@ Details or assignments may be made under this section—
 
 (Pub. L. 87–293, title I, §14, Sept. 22, 1961, 75 Stat. 620; Pub. L. 91–352, §7, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(d), Oct. 17, 1980, 94 Stat. 2158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
@@ -30,9 +32,13 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted "section 5536 of title 5" for "section 70 of title 5".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -52,7 +52,7 @@ Ex. Ord. No. 10786, Nov. 1, 1958, 23 F.R. 8573, provided:
 
 Section 1. All functions (including powers, duties, activities, and parts of functions) of the Airways Modernization Board, including those of the Chairman thereof, are hereby transferred to the Administrator of the Federal Aviation Agency; and all records, property, facilities, employees, and unexpended balances of appropriations, allocations, and other funds of the Airways Modernization Board, are hereby transferred to the Federal Aviation Agency \[now Federal Aviation Administration\].
 
-Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
+Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried outin such manner as he shall direct and by such agencies as he shall designate.
 
 Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office as Administrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
 
@@ -100,7 +100,7 @@ WHEREAS Section 302(e) of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40107
 
 WHEREAS it appears that the defense of the United States would require the transfer of the Federal Aviation Administration to the Department of Defense in the event of war; and
 
-WHEREAS if any such transfer were to be made it would be essential to the defense of the United States that the transition be accomplished promptly and with maximum ease and effectiveness; and
+WHEREAS if any such transfer were to be made it would be essential to the defense of the United Statesthat the transition be accomplished promptly and with maximum ease and effectiveness; and
 
 WHEREAS these objectives require that the relationships that would obtain in the event of such a transfer as between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
 

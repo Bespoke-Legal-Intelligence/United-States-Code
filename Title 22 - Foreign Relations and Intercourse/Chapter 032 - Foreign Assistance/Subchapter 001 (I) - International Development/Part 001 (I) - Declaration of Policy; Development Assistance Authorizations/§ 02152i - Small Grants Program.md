@@ -40,6 +40,8 @@ Not later than 120 days after December 16, 2014, and after consultation with the
 
 (Pub. L. 113–235, div. J, title VII, §7080, Dec. 16, 2014, 128 Stat. 2682; Pub. L. 114–113, div. K, title VII, §7034(q)(3), Dec. 18, 2015, 129 Stat. 2768.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 1 and 10 of part I and chapter 4 of part II of the Act are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -62,15 +64,19 @@ Subsec. (c)(3). Pub. L. 114–113, §7034(q)(3)(B)–(D), added par. (3).
 
 Subsec. (e)(3). Pub. L. 114–113, §7034(q)(3)(E), substituted "20" for "12" and "administrative expenses, and other necessary support associated with managing and strengthening" for "administrative and oversight expenses associated with managing".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Renaming of Small Grants Program as Local Works
 
 Pub. L. 115–141, div. K, title VII, §7034(p)(1), Mar. 23, 2018, 132 Stat. 897, provided that: "The 'Small Grants Program' established pursuant to section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) \[22 U.S.C. 2152i\] shall hereafter be referred to as 'Local Works'."
 
 #### Definition of "Eligible Entities"
 
-Pub. L. 116–94, div. G, title VII, §7034(p)(2), Dec. 20, 2019, 133 Stat. 2875, provided that: "For the purposes of section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) \[22 U.S.C. 2152i\], 'eligible entities' shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 from USAID \[United States Agency for International Development\] over the previous 5 fiscal years: <i>Provided</i>, That departments or centers of such educational institutions may be considered individually in determining such eligibility."
+Pub. L. 116–260, div. K, title VII, §7034(p)(2), Dec. 27, 2020, 134 Stat. 1753, provided that: "For the purposes of section 7080 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 (division J of Public Law 113–235) \[22 U.S.C. 2152i\], 'eligible entities' shall be defined as small local, international, and United States-based nongovernmental organizations, educational institutions, and other small entities that have received less than a total of $5,000,000 from USAID \[United States Agency for International Development\] over the previous 5 fiscal years: <i>Provided</i>, That departments or centers of such educational institutions may be considered individually in determining such eligibility."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(p)(2), Dec. 20, 2019, 133 Stat. 2875.
 
 Pub. L. 116–6, div. F, title VII, §7034(q)(2), Feb. 15, 2019, 133 Stat. 329.
 
@@ -82,9 +88,11 @@ Pub. L. 114–113, div. K, title VII, §7034(q)(4), Dec. 18, 2015, 129 Stat. 276
 
 #### Definition of "USAID"
 
-Pub. L. 116–94, div. G, title VII, §7034(r)(5), Dec. 20, 2019, 133 Stat. 2876, provided that: "In this Act \[div. Gof Pub. L. 116–94, 133 Stat. 2816, see Tables for classification\], the term 'USAID' means the United States Agency for International Development."
+Pub. L. 116–260, div. K, title VII, §7034(q)(6), Dec. 27, 2020, 134 Stat. 1754, provided that: "In this Act \[titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification\], the term 'USAID' means the United States Agency for International Development."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 116–94, div. G, title VII, §7034(r)(5), Dec. 20, 2019, 133 Stat. 2876.
 
 Pub. L. 116–6, div. F, title VII, §7034(r)(5), Feb. 15, 2019, 133 Stat. 330.
 
@@ -94,5 +102,5 @@ Pub. L. 115–31, div. J, title VII, §7034(r)(5), May 5, 2017, 131 Stat. 654.
 
 #### Definition of "Appropriate Congressional Committees"
 
-Pub. L. 113–235, div. J, title VII, §7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: "Unless otherwise defined in this Act \[div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification\], for purposes of this Act the term 'appropriate congressional committees' shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
+Pub. L. 113–235, div. J, title VII, §7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: "Unless otherwise defined in this Act \[div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification\], for purposes of this Actthe term 'appropriate congressional committees' shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
 

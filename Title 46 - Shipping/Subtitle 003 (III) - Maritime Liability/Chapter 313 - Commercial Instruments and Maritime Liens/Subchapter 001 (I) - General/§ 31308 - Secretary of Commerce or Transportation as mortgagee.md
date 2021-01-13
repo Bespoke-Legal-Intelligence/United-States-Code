@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 31308 allows the Secretary of Commerce or Transportation to foreclose on a lien arising from a right established under a mortgage under title XI of the Merchant Marine Act, 1936. This section makes no substantive change to law.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–281 substituted "The Secretary of Commerce or Transportation, as a mortgagee under this chapter," for "When the Secretary of Commerce or Transportation is a mortgagee under this chapter, the Secretary".
@@ -23,6 +25,8 @@ Section 31308 allows the Secretary of Commerce or Transportation to foreclose on
 <b>2006</b>—Pub. L. 109–304 substituted "chapter 537 of this title" for "title XI of the Merchant Marine Act, 1936 (46 App. U.S.C. 1271 et seq.)".
 
 <b>1990</b>—Pub. L. 101–595 substituted "(46 App. U.S.C. 1271 et seq.)" for "(46 App. U.S.C. 1241 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;(A) relevant criminal history databases;
 
-&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
+&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
 
 &emsp;&emsp;(C) other relevant information or databases, as determined by the Secretary.
 
@@ -42,7 +42,7 @@ If the Secretary issues a rule, regulation, or directive requiring a railroad ca
 
 &emsp;(1) provide an adequate redress process for a covered individual subjected to an adverse employment decision, including removal or suspension of the employee, due to such rule, regulation, or directive that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation employees at ports, as required by section 70105(c) of title 46; and
 
-&emsp;(2) have the authority to order an appropriate remedy, including reinstatement of the covered individual, should the Secretary determine that a railroad carrier or contractoror subcontractor of a railroad carrier wrongfully made an adverse employment decision regarding a covered individual pursuant to such rule, regulation, or directive.
+&emsp;(2) have the authority to order an appropriate remedy, including reinstatement of the covered individual, should the Secretary determine that a railroad carrier or contractor or subcontractor of a railroad carrier wrongfully made an adverse employment decision regarding a covered individual pursuant to such rule, regulation, or directive.
 
 #### (e) False statements
 
@@ -61,6 +61,8 @@ Nothing in this section shall be construed to preempt a Federal, State, or local
 Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46, including regulations issued pursuant to such section.
 
 (Pub. L. 110–53, title XV, §1522, Aug. 3, 2007, 121 Stat. 448.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

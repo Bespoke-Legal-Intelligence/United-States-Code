@@ -70,7 +70,7 @@ Amendment by section 271(c)(3)(C) of Pub. L. 97–248 applicable to remuneration
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 114(b) of Pub. L. 94–566 effective with respect to remuneration paid after Dec. 31, 1977, for services performed after that date, see section 114(c) of Pub. L. 94–566 set out as a note under section 3306 of this title.
+Amendment by section 114(b) of Pub. L. 94–566 effective with respect to remuneration paid after Dec. 31,1977, for services performed after that date, see section 114(c) of Pub. L. 94–566 set out as a note under section 3306 of this title.
 
 Amendment by section 211(e)(3) of Pub. L. 94–566 effective Oct. 20, 1976, see section 211(d)(3) of Pub. L. 94–566, set out as a note under section 1101 of Title 42, The Public Health and Welfare.
 

@@ -12,7 +12,7 @@ Every officer of a labor organization and every employee of a labor organization
 
 &emsp;(4) any stock, bond, security, or other interest, legal or equitable, which he or his spouse or minor child directly or indirectly held in, and any income or any other benefit with monetary value (including reimbursed expenses) which he or his spouse or minor child directly or indirectly derived from, a business any part of which consists of buying from, or selling or leasing directly or indirectly to, or otherwise dealing with such labor organization;
 
-&emsp;(5) any direct or indirect business transaction or arrangement between him or hisspouse or minor child and any employer whose employees his organization represents or is actively seeking to represent, except work performed and payments and benefits received as a bona fide employee of such employer and except purchases and sales of goods or services in the regular course of business at prices generally available to any employee of such employer; and
+&emsp;(5) any direct or indirect business transaction or arrangement between him or his spouse or minor child and any employer whose employees his organization represents or is actively seeking to represent, except work performed and payments and benefits received as a bona fide employee of such employer and except purchases and sales of goods or services in the regular course of business at prices generally available to any employee of such employer; and
 
 &emsp;(6) any payment of money or other thing of value (including reimbursed expenses) which he or his spouse or minor child received directly or indirectly from any employer or any person who acts as a labor relations consultant to an employer, except payments of the kinds referred to in section 186(c) of this title.
 
@@ -22,9 +22,11 @@ The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) shall
 
 #### (c) Exemption from filing requirement
 
-Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
+Nothing contained in this section shall be construed to require any officer or employee of alabor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
 
 (Pub. L. 86–257, title II, §202, Sept. 14, 1959, 73 Stat. 525.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

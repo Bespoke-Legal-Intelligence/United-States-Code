@@ -4,7 +4,7 @@
 
 Each Head Start agency shall take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program to promote continuity of services and effective transitions, including—
 
-&emsp;(1) developing and implementing a systematic procedure for transferring, with parentalconsent, Head Start program records for each participating child to the school in which such child will enroll;
+&emsp;(1) developing and implementing a systematic procedure for transferring, with parental consent, Head Start program records for each participating child to the school in which such child will enroll;
 
 &emsp;(2) establishing ongoing channels of communication between Head Start staff and their counterparts in the schools (including teachers, social workers, local educational agency liaisons designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), and health staff) to facilitate coordination of programs;
 
@@ -12,7 +12,7 @@ Each Head Start agency shall take steps to coordinate with the local educational
 
 &emsp;(4) organizing and participating in joint training, including transition-related training for school staff and Head Start staff;
 
-&emsp;(5) establishing comprehensive transition policies and procedures that support children transitioning to school, including by engaging the local educational agency in the establishment of such policies;
+&emsp;(5) establishing comprehensive transition policies and procedures that support childrentransitioning to school, including by engaging the local educational agency in the establishment of such policies;
 
 &emsp;(6) conducting outreach to parents and elementary school (such as kindergarten) teachers to discuss the educational, developmental, and other needs of individual children;
 
@@ -64,7 +64,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(8), is Pu
 
 <b>2015</b>—Subsec. (a)(7)(B). Pub. L. 114–95, §9215(nn)(4)(A), substituted "the information provided to parents of English learners under section 1112(e)(3) of the Elementary and Secondary Education Act of the 1965" for "the information provided to parents of limited English proficient children under section 3302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7012)".
 
-Subsec. (a)(8). Pub. L. 114–95, §9215(nn)(4)(B), substituted "parent and family engagement efforts under title I of the Elementary and Secondary Education Actof 1965" for "parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.)".
+Subsec. (a)(8). Pub. L. 114–95, §9215(nn)(4)(B), substituted "parent and family engagement efforts under title I of the Elementary and Secondary Education Act of 1965" for "parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.)".
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to requirements for Head Start agencies to coordinate with local educational agencies and schools to assist in transition from Head Start to school.
 

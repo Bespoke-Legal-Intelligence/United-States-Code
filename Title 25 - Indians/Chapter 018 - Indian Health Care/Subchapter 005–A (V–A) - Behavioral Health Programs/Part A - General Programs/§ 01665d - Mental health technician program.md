@@ -10,7 +10,7 @@ Pursuant to section 13 of this title, the Secretary shall establish and maintain
 
 #### (b) Paraprofessional training
 
-In carrying out subsection (a), the Secretary, acting through the Service, shall provide high-standard paraprofessional training in mentalhealth care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
+In carrying out subsection (a), the Secretary, acting through the Service, shall provide high-standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
 
 #### (c) Supervision and evaluation of technicians
 
@@ -21,6 +21,8 @@ The Secretary, acting through the Service, shall supervise and evaluate the ment
 The Secretary, acting through the Service, shall ensure that the program established pursuant to this section involves the use and promotion of the traditional health care practices of the Indian tribes to be served.
 
 (Pub. L. 94–437, title VII, §705, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -12,6 +12,8 @@
 
 (Added Pub. L. 98–547, title II, §204(a), Oct. 25, 1984, 98 Stat. 2770, §2320; renumbered §2321, Pub. L. 99–646, §42(a), Nov. 10, 1986, 100 Stat. 3601; amended Pub. L. 103–322, title XXXIII, §330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $20,000".

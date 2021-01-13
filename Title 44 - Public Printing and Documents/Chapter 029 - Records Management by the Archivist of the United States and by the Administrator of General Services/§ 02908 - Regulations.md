@@ -8,9 +8,13 @@ Subject to applicable law, the Archivist shall promulgate regulations governing 
 
 Based on 44 U.S. Code, 1964 ed., §395(e) (June 30, 1949, ch. 288, title V, §505(e), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

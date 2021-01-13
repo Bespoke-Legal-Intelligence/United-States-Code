@@ -70,7 +70,7 @@ Exemptions to Jurisdiction.—This section does not apply to—
 
 &emsp;(2) activities undertaken by military forces of a state in the exercise of their official duties; or
 
-&emsp;(3) offenses committed within the United States, where the alleged offender and the victims are United States citizens and the alleged offender is found in the United States, or where jurisdiction is predicated solely on the nationality of the victims or the alleged offender and the offense has no substantial effect on interstate or foreign commerce.
+&emsp;(3) offenses committed within the United States, where the alleged offender and the victims are United States citizens and the allegedoffender is found in the United States, or where jurisdiction is predicated solely on the nationality of the victims or the alleged offender and the offense has no substantial effect on interstate or foreign commerce.
 
 (e)
 
@@ -102,9 +102,13 @@ Definitions.—As used in this section, the term—
 
 (Added Pub. L. 107–197, title I, §102(a), June 25, 2002, 116 Stat. 721.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365(h)(3) by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -112,7 +116,7 @@ Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: 
 
 #### Disclaimer
 
-Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: "Nothing contained in this section\[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct."
+Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: "Nothing contained in this section \[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

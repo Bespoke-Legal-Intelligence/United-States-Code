@@ -4,7 +4,7 @@
 
 &emsp;(1) Except as provided in paragraphs (3) and (4), in the case of a person whose period of service in the uniformed services was for less than 91 days—
 
-&emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person with the employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
+&emsp;&emsp;(A) in the position of employment in which the person would have been employed if the continuous employment of such person withthe employer had not been interrupted by such service, the duties of which the person is qualified to perform; or
 
 &emsp;&emsp;(B) in the position of employment in which the person was employed on the date of the commencement of the service in the uniformed services, only if the person is not qualified to perform the duties of the position referred to in subparagraph (A) after reasonable efforts by the employer to qualify the person.
 
@@ -32,6 +32,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3157; amended Pub. L. 104–275, title III, §311(5), Oct. 9, 1996, 110 Stat. 3335.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4313 was renumbered section 7613 of this title.
@@ -40,11 +42,13 @@ A prior section 4313 was renumbered section 7613 of this title.
 
 <b>1996</b>—Subsec. (a)(4). Pub. L. 104–275 substituted "uniformed services" for "uniform services" in cl. (A)(ii) and "which is the nearest approximation to a position referred to first in clause (A)(i) and then in clause (A)(ii) which" for "of lesser status and pay which" in cl. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. L. 104–275, set out as a note under section 4301 of this title.
 
 #### Effective Date
 
-Section effective with respect to reemployments initiated on or after the first day after the 60-day periodbeginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, except that subsec. (a)(3) of this section applicable to reemployments initiated on or after Aug. 1, 1990, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 

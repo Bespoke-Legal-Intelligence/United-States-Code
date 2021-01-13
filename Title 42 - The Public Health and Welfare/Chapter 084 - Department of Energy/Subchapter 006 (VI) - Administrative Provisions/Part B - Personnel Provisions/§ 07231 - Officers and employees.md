@@ -120,7 +120,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Jan. 
 
 &emsp;&emsp;"(B) the amount of total compensation paid each employee hired under the authority each calendar year; and
 
-&emsp;&emsp;"(C) whether additional safeguards or measures are necessary to carry out the authority and, if so,what action, if any, has been taken to implement the safeguards or measures.
+&emsp;&emsp;"(C) whether additional safeguards or measures are necessary to carry out the authority and, if so, what action, if any, has been taken to implement the safeguards or measures.
 
 "(d)
 

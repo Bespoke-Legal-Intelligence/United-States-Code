@@ -6,7 +6,7 @@ If an informal conference has been held pursuant to section 1263(b) of this titl
 
 #### (b) Decision without informal conference; notification within a reasonable time
 
-If there has been no informal conference held pursuant to section 1263(b) of this title, the regulatory authority shall notify the applicant for a permit within a reasonable time as determined by the regulatory authority and set forth in regulations, taking into account the time needed for proper investigation of the site, the complexity of the permit application, and whether or not written objection to the application hasbeen filed, whether the application has been approved or disapproved in whole or part.
+If there has been no informal conference held pursuant to section 1263(b) of this title, the regulatory authority shall notify the applicant for a permit within a reasonable time as determined by the regulatory authority and set forth in regulations, taking into account the time needed for proper investigation of the site, the complexity of the permit application, and whether or not written objection to the application has been filed, whether the application has been approved or disapproved in whole or part.
 
 #### (c) Request for rehearing on reasons for final determination; time; issuance of decision
 

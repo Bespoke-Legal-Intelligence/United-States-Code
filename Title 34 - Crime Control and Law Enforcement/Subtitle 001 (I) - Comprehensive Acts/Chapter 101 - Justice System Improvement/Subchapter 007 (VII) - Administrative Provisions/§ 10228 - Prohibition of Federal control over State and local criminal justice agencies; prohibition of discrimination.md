@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 #### (c) Discrimination prohibited; notice of non-compliance; suspension and restoration of payments; hearing; civil action by Attorney General; private action, attorney fees, intervention by Attorney General
 
-(1) No person in any State shall on the ground of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under or denied employment in connection with any programs or activity funded in whole or in part with funds made available under this chapter.
+(1) No person in any State shall on the ground of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under or denied employment in connection withany programs or activity funded in whole or in part with funds made available under this chapter.
 
 (2)(A) Whenever there has been—
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (E) Whenever the Attorney General files a civil action alleging a pattern or practice of discriminatory conduct on the basis of race, color, religion, national origin, or sex in any program or activity of a State government or unit of local government which State government or unit of local government receives funds made available under this chapter, and the conduct allegedly violates the provisions of this section and neither party within forty-five days after such filing has been granted such preliminary relief with regard to the suspension or payment of funds as may be otherwise available by law, the Office of Justice Programs shall cause to have suspended further payment of any funds under this chapter to that specific program or activity alleged by the Attorney General to be in violation of the provisions of this subsection until such time as the court orders resumption of payment.
 
-(F) Prior to the suspension of funds under subparagraph (C), but within the ninety-day period after notification under subparagraph (C), the State government or unit of local government may request an expedited preliminary hearing on the record in accordance with section 554 of title 5, in order to determine whether it is likely that the State government or unit of local government would, at a full hearing under subparagraph (G), prevail on the merits on the issue of the alleged noncompliance. A finding under this subparagraph by the administrative law judge in favor of the State government or unit of local government shall defer the suspension of funds under subparagraph (C) pending a finding of noncompliance at the conclusion of the hearing on the merits under subparagraph (G).
+(F) Prior to the suspension of funds under subparagraph (C), but within the ninety-day period after notification under subparagraph (C), the State government or unit of local government may request an expedited preliminary hearing on the record in accordance with section 554 of title 5, in order to determine whether it is likely that the State government or unit of local government would, at a full hearing under subparagraph (G), prevail on the merits on the issue ofthe alleged noncompliance. A finding under this subparagraph by the administrative law judge in favor of the State government or unit of local government shall defer the suspension of funds under subparagraph (C) pending a finding of noncompliance at the conclusion of the hearing on the merits under subparagraph (G).
 
 (G)(i) At any time after notification under subparagraph (A), but before the conclusion of the one-hundred-and-twenty-day period referred to in subparagraph (C), a State government or unit of local government may request a hearing on the record in accordance with section 554 of title 5, which the Office of Justice Programs shall initiate within sixty days of such request.
 
@@ -60,7 +60,9 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (C) In any action instituted under this section to enforce compliance with paragraph (1), the Attorney General, or a specially designated assistant for or in the name of the United States, may intervene upon timely application if he certifies that the action is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
 
-(Pub. L. 90–351, title I, §809, formerly §815, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1206; renumbered §809 and amended Pub. L. 98–473, title II, §609B(f), (h)), Oct. 12, 1984, 98 Stat. 2093, 2095; Pub. L. 103–322, title XXXIII, §330001(h)(11), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, §809, formerly §815, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1206; renumbered §809 and amended Pub. L. 98–473, title II, §609B(f), (h)), Oct. 12, 1984, 98 Stat. 2093, 2095; Pub. L. 103–322, title XXXIII, §330001(h)(11), Sept. 13, 1994, 108 Stat. 2139.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ A prior section 809 of Pub. L. 90–351, title I, as added Pub. L. 96–157, §2
 <b>1984</b>—Subsec. (a). Pub. L. 98–473, §609B(h)(2), struck out "contained" after "Nothing".
 
 Subsec. (c). Pub. L. 98–473, §609B(h)(3), substituted "Office of Justice Programs" for "Office of Justice Assistance, Research, and Statistics" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

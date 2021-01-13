@@ -12,7 +12,7 @@ Elements.—
 
 In general.—Each report under subsection (a) shall specify, for each unfunded priority covered by such report, the following:
 
-&emsp;&emsp;(A) A summary description of such priority, including the objectives to be achievedif such priority is funded (whether in whole or in part).
+&emsp;&emsp;(A) A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
 
 &emsp;&emsp;(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
 

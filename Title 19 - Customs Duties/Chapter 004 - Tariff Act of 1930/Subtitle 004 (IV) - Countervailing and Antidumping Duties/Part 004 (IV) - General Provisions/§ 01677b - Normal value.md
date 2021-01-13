@@ -14,7 +14,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;The price referred to in subparagraph (A) is—
 
-&emsp;&emsp;&emsp;(i) the price at which the foreign like product is first sold (or, in the absence of a sale, offered for sale) for consumption in the exporting country, in the usual commercial quantities and in the ordinarycourse of trade and, to the extent practicable, at the same level of trade as the export price or constructed export price, or
+&emsp;&emsp;&emsp;(i) the price at which the foreign like product is first sold (or, in the absence of a sale, offered for sale) for consumption in the exporting country, in the usual commercial quantities and in the ordinary course of trade and, to the extent practicable, at the same level of trade as the export price or constructed export price, or
 
 &emsp;&emsp;&emsp;(ii) in a case to which subparagraph (C) applies, the price at which the foreign like product is so sold (or offered for sale) for consumption in a country other than the exporting country or the United States, if—
 
@@ -74,7 +74,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, on the subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
 
-&emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) between the export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of theadministering authority to be wholly or partly due to—
+&emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) betweenthe export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of the administering authority to be wholly or partly due to—
 
 &emsp;&emsp;&emsp;(i) the fact that the quantities in which the subject merchandise is sold or agreed to be sold to the United States are greater than or less than the quantities in which the foreign like product is sold, agreed to be sold, or offered for sale,
 
@@ -142,7 +142,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (D) Recovery of costs
 
-&emsp;&emsp;If prices which are below the per unit cost of production at the time of sale are abovethe weighted average per unit cost of production for the period of investigation or review, such prices shall be considered to provide for recovery of costs within a reasonable period of time.
+&emsp;&emsp;If prices which are below the per unit cost of production at the time of sale are above the weighted average per unit cost of production for the period of investigation or review, such prices shall be considered to provide for recovery of costs within a reasonable period of time.
 
 #### (3) Calculation of cost of production
 
@@ -212,7 +212,7 @@ Whenever, in the course of an investigation under this subtitle, the administeri
 
 &emsp;(3) the normal value of the foreign like product produced in one or more of the facilities outside the exporting country is higher than the normal value of the foreign like product produced in the facilities located in the exporting country,
 
-> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country,if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
+> it shall determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. The administering authority, in making any determination under this paragraph, shall make adjustments for the difference between the cost of production (including taxes, labor, materials, and overhead) of the foreign like product produced in facilities outside the exporting country and costs of production of the foreign like product produced in facilities in the exporting country, if such differences are demonstrated to its satisfaction. For purposes of this subsection, in determining the normal value of the foreign like product produced in a country outside of the exporting country, the administering authority shall determine its price at the time of exportation from the exporting country and shall make any adjustments required by subsection (a) for the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the merchandise in condition packed ready for shipment to the United States by reference to such costs in the exporting country.
 
 #### (e) Constructed value
 
@@ -262,7 +262,7 @@ For purposes of subsections (b) and (e).— <sup>1</sup>
 
 &emsp;&emsp;&emsp;&emsp;(II) production levels are limited by technical factors associated with the initial phase of commercial production.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the initial phase of commercial production ends at the end of the startup period. In determining whether commercial production levels have been achieved, the administering authority shall consider factors unrelated tostartup operations that might affect the volume of production processed, such as demand, seasonality, or business cycles.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the initial phase of commercial production ends atthe end of the startup period. In determining whether commercial production levels have been achieved, the administering authority shall consider factors unrelated to startup operations that might affect the volume of production processed, such as demand, seasonality, or business cycles.
 
 #### (iii) Adjustment for startup operations
 

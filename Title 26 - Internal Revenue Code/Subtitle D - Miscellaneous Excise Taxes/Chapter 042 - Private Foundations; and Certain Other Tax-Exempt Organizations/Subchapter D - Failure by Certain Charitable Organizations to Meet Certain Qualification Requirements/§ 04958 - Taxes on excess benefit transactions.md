@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any grant, loan, compensation, or other similar payment provided by such organization to a person described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (other than an organization described in subparagraph (C)(ii)), and
+&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (otherthan an organization described in subparagraph (C)(ii)), and
 
 &emsp;&emsp;&emsp;(ii) the term "excess benefit" includes, with respect to any transaction described in clause (i), the amount of any such grant, loan, compensation, or other similar payment.
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization,
 
-&emsp;&emsp;(E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person whois described in paragraph (7) with respect to such donor advised fund (as so defined), and
+&emsp;&emsp;(E) which involves a donor advised fund (as defined in section 4966(d)(2)), any person who is described in paragraph (7) with respect to such donor advised fund (as so defined), and
 
 &emsp;&emsp;(F) which involves a sponsoring organization (as defined in section 4966(d)(1)), any person who is described in paragraph (8) with respect to such sponsoring organization (as so defined).
 
@@ -228,7 +228,7 @@ Subsec. (f)(7), (8). Pub. L. 109–280, §1232(a)(2), added pars. (7) and (8). S
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 

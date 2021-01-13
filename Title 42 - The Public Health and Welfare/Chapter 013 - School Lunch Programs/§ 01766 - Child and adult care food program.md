@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) eating habits and other wellness-related behavior habits are established early in life; and
 
-&emsp;&emsp;&emsp;&emsp;(II) good nutrition and wellness are important contributors to the overall health of young children and essential to cognitive development.
+&emsp;&emsp;&emsp;&emsp;(II) good nutrition and wellness are important contributors to the overallhealth of young children and essential to cognitive development.
 
 #### (ii) Purpose
 
@@ -388,7 +388,7 @@ Hearing.—An institution shall be provided a fair hearing in accordance with su
 
 (2)(A) Subject to subparagraph (B) of this paragraph, the disbursement for any fiscal year to any State for disbursement to institutions, other than family or group day care home sponsoring organizations, for meals provided under this section shall be equal to the sum of the products obtained by multiplying the total number of each type of meal (breakfast, lunch or supper, or supplement) served in such institution in that fiscal year by the applicable national average payment rate for each such type of meal, as determined under subsection (c).
 
-(B) No reimbursement may be made to any institution under this paragraph, or to family or group day care home sponsoring organizations under paragraph (3) of this subsection, for more than two meals and one supplement per day per child, or in the case of an institution (but not in the case of a family or group day care home sponsoring organization), 2 meals and 1 supplement per day per child, for children that are maintained in a child care setting for eight or more hours per day.
+(B) No reimbursement may be made to any institution under this paragraph, or to family or group day care home sponsoring organizations under paragraph (3) of this subsection, for morethan two meals and one supplement per day per child, or in the case of an institution (but not in the case of a family or group day care home sponsoring organization), 2 meals and 1 supplement per day per child, for children that are maintained in a child care setting for eight or more hours per day.
 
 (C)
 
@@ -498,7 +498,7 @@ Policy.—The Secretary shall develop a policy under which a sponsored family or
 
 &emsp;&emsp;&emsp;(IV)
 
-Simplified meal counting and reporting procedures.—The Secretary shallprescribe simplified meal counting and reporting procedures for use by a family or group day care home that elects to claim the factors under subclause (II) and by a family or group day care home sponsoring organization that sponsors the home. The procedures the Secretary prescribes may include 1 or more of the following:
+Simplified meal counting and reporting procedures.—The Secretary shall prescribe simplified meal counting and reporting procedures for use by a family or group day care home that elects to claim the factors under subclause (II) and by a family or group day care home sponsoring organization that sponsors the home. The procedures the Secretary prescribes may include 1 or more of the following:
 
 &emsp;&emsp;&emsp;&emsp;(aa) Setting an annual percentage for each home of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under clause (ii)(III) and an annual percentage of the number of meals served that are to be reimbursed in accordance with the reimbursement factors prescribed under subclause (I), based on the family income of children enrolled in the home in a specified month or other period.
 
@@ -524,7 +524,7 @@ In general.—In addition to reimbursement factors described in subparagraph (A)
 
 &emsp;&emsp;(ii)
 
-Annual adjustment.—The administrative reimbursement levels specified in clause (i) shall be adjusted July 1 of each year to reflect changes in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor for the most recent 12-month period for which such data are available.
+Annual adjustment.—The administrative reimbursement levels specified in clause (i) shall be adjusted July 1 of each year to reflect changes in the Consumer Price Indexfor All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor for the most recent 12-month period for which such data are available.
 
 &emsp;&emsp;(iii)
 
@@ -560,7 +560,7 @@ School data.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—A State agency administering the school lunch program underthis chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
+In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than ½ of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -654,7 +654,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (5) Nondiscrimination policy
 
-&emsp;No physical segregation or other discrimination against any person shall be made because of the inability of the person to pay, nor shall there be any overt identification of any such person by special tokens or tickets, different meals or meal service, announced or published lists of names, or other means.
+&emsp;No physical segregation or other discrimination against any person shall be made because of the inability of the person to pay, nor shall there be any overt identification of any such person by special tokens or tickets, differentmeals or meal service, announced or published lists of names, or other means.
 
 #### (6) Use of abundant and donated foods
 
@@ -686,7 +686,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the totaloverpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
+&emsp;&emsp;Subject to subparagraph (B), in conducting management evaluations, reviews, or audits under this section, the Secretary or a State agency may disregard any overpayment to an institution for a fiscal year if the total overpayment to the institution for the fiscal year does not exceed an amount that is consistent with the disregards allowed in other programs under this chapter and recognizes the cost of collecting small claims, as determined by the Secretary.
 
 #### (B) Criminal or fraud violations
 
@@ -746,7 +746,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(ii) provides for such care and services directly or under arrangements made by the agency or organization whereby the agency or organization maintains professional management responsibility for all such services; and
 
-&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
+&emsp;(B) the term "proprietary title XIX or title XX center" means any private, for-profit center providing adult day care services for which it receives compensation from amounts granted to the States under title XIX or XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] and which title XIX or title XX beneficiaries were not less than 25 percent of enrolled eligible participants in a calendar month preceding initial application or annual reapplication for program participation.
 
 (3)(A) The Secretary, in consulation <sup>2</sup> with the Assistant Secretary for Aging, shall establish, within 6 months of October 1, 1988, separate guidelines for reimbursement of institutions described in this subsection. Such reimbursement shall take into account the nutritional requirements of eligible persons, as determined by the Secretary on the basis of tested nutritional research, except that such reimbursement shall not be less than would otherwise be required under this section.
 
@@ -768,7 +768,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (1) Technical and training assistance
 
-&emsp;In addition to the training and technical assistance that is provided to State agencies under other provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), the Secretary shall provide training and technical assistance in order to assist the State agencies in improving their program management and oversight under this section.
+&emsp;In addition to the training and technical assistance that is provided to State agencies under other provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), the Secretary shall provide training and technical assistance in order to assist theState agencies in improving their program management and oversight under this section.
 
 #### (2) Technical and training assistance for identification and prevention of fraud and abuse
 
@@ -872,7 +872,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (2) Administration
 
-&emsp;Except as otherwise provided in this subsection, an emergency shelter shall be eligible to participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a).
+&emsp;Except as otherwise provided in this subsection, an emergency shelter shall be eligibleto participate in the program authorized under this section in accordance with the terms and conditions applicable to eligible institutions described in subsection (a).
 
 #### (3) Licensing requirements
 
@@ -966,7 +966,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (F) Minimum assistance
 
-&emsp;&emsp;At a minimum, the technical assistance required under this paragraph shall include a handbook, developed by the Secretary in coordination with the Secretary for Health and Human Services, that includes recommendations, guidelines, and best practices for participating institutions and family or group day care homes that are consistent with the nutrition, physical activity, and wellness requirements and recommendations of this subsection.
+&emsp;&emsp;At a minimum, the technical assistance required under this paragraph shall include a handbook, developed by the Secretary incoordination with the Secretary for Health and Human Services, that includes recommendations, guidelines, and best practices for participating institutions and family or group day care homes that are consistent with the nutrition, physical activity, and wellness requirements and recommendations of this subsection.
 
 #### (G) Additional assistance
 
@@ -1084,7 +1084,7 @@ Subsec. (q)(3). Pub. L. 108–265, §119(f), substituted "2005 and 2006" for "19
 
 Subsec. (t)(3). Pub. L. 108–265, §119(h)(2), substituted "subsection (a)(5)" for "subsection (a)(1)".
 
-Subsec. (t)(5)(A)(i). Pub. L. 108–265, §119(g), in subcl. (I), substituted "18" for "12" and inserted "or" at end, redesignated subcl. (III) as (II), and struck out former subcl. (II) which read as follows: "children of migrant workers, if the children are not more than 15 years of age; or".
+Subsec. (t)(5)(A)(i). Pub. L. 108–265, §119(g), in subcl. (I), substituted "18" for "12" and inserted "or" at end, redesignated subcl. (III) as (II), and struck out formersubcl. (II) which read as follows: "children of migrant workers, if the children are not more than 15 years of age; or".
 
 <b>2003</b>—Subsec. (a)(2)(B)(i). Pub. L. 108–134 substituted "March 31, 2004" for "September 30, 2003".
 
@@ -1132,7 +1132,7 @@ Subsec. (f)(1). Pub. L. 106–224, §243(d), inserted par. heading, designated e
 
 Subsec. (f)(2)(C). Pub. L. 106–224, §243(e), added subpar. (C).
 
-Subsec. (f)(3)(D). Pub. L. 106–224, §243(f), added subpar. (D) and struck out former subpar. (D), which requiredthe Secretary to reserve $5,000,000 of the amount made available for fiscal year 1997 for grants to States to provide assistance to family or group day care homes and set forth provisions relating to allocation and retention of funds and additional payments.
+Subsec. (f)(3)(D). Pub. L. 106–224, §243(f), added subpar. (D) and struck out former subpar. (D), which required the Secretary to reserve $5,000,000 of the amount made available for fiscal year 1997 for grants to States to provide assistance to family or group day care homes and set forth provisions relating to allocation and retention of funds and additional payments.
 
 Subsec. (p)(1). Pub. L. 106–224, §243(g)(1)(A), substituted "State-wide demonstration projects in three States" for "2 statewide demonstration projects" in first sentence of introductory provisions.
 
@@ -1242,7 +1242,7 @@ Subsec. (g)(1). Pub. L. 103–448, §105(c), designated existing provisions as s
 
 Subsec. (k)(4). Pub. L. 103–448, §116(d), added par. (4).
 
-Subsec. (p). Pub. L. 103–448, §116(e), substituted "25 percent of the children enrolled in the organization or 25 percent of the licensed capacity of the organization for children, whichever is less," for "25 percent of the children served by such organization" in par. (1)(A), "1998" for "1992" in par. (4)(B), and "1998" for "1994" in par. (5).
+Subsec. (p). Pub. L. 103–448, §116(e), substituted "25 percent of the children enrolled in the organization or 25 percent of the licensed capacity of the organizationfor children, whichever is less," for "25 percent of the children served by such organization" in par. (1)(A), "1998" for "1992" in par. (4)(B), and "1998" for "1994" in par. (5).
 
 Subsec. (q). Pub. L. 103–448, §116(f), added subsec. (q).
 
@@ -1402,7 +1402,7 @@ Pub. L. 104–193, title VII, §708(k)(1), (2), Aug. 22, 1996, 110 Stat. 2299, p
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall become effective on the date of enactment of this Act \[Aug. 22, 1996\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall become effective on the date of enactment of this Act \[Aug. 22, 1996\].
 
 "(2)
 
@@ -1478,7 +1478,7 @@ Pub. L. 101–147, title II, §204(b), Nov. 10, 1989, 103 Stat. 910, provided th
 
 #### Interagency Coordination To Promote Health and Wellness in Child Care Licensing
 
-Pub. L. 111–296, title II, §222, Dec. 13, 2010, 124 Stat. 3228, provided that: "The Secretary \[of Agriculture\]shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes—
+Pub. L. 111–296, title II, §222, Dec. 13, 2010, 124 Stat. 3228, provided that: "The Secretary \[of Agriculture\] shall coordinate with the Secretary of Health and Human Services to encourage State licensing agencies to include nutrition and wellness standards within State licensing standards that ensure, to the maximum extent practicable, that licensed child care centers and family or group day care homes—
 
 &emsp;"(1) provide to all children under the supervision of the child care centers and family or group day care homes daily opportunities for age-appropriate physical activity;
 
@@ -1514,7 +1514,7 @@ Additional Duties.—The Secretary, in conjunction with States and institutions 
 
 "(e)
 
-Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 13, 2010\], the Secretary shall submit to Congress a report that describes the actions that have been taken to carry out this section, including—
+Report.—Not later than 4 years after the date of enactment of this Act \[Dec. 13, 2010\], the Secretaryshall submit to Congress a report that describes the actions that have been taken to carry out this section, including—
 
 &emsp;"(1) actions taken to address administrative and paperwork burdens identified as a result of compliance with section 119(i) of the Child Nutrition and WIC Reauthorization Act of 2004 (42 U.S.C. 1766 note; Public Law 108–265);
 
@@ -1590,7 +1590,7 @@ Pub. L. 104–193, title VII, §708(l), Aug. 22, 1996, 110 Stat. 2300, directed 
 
 #### Family or Group Day Care Home Demonstration Project
 
-Pub. L. 100–435, title V, §503, Sept. 19, 1988, 102 Stat. 1672, as amended by Pub. L. 101–147, title I, §105(c)(1), Nov. 10, 1989, 103 Stat. 885, directed Secretary of Agriculture to conduct a demonstration project to begin 30 days after Sept. 19, 1988, but in no event earlier than Oct. 1, 1988, in one State (selected by the Secretary) regarding the Child Care Food Program authorized under 42 U.S.C. 1766 in which day care institutions and family or group day care sponsoring organizations shall receive a reimbursement (in addition to that received under 42 U.S.C. 1766(d) and (f)) for providing one additional meal or supplement for children that are maintained in a day care institution or in a family or group day care home setting for eight or more hours per day, directed Secretary to submit a preliminary report to Congress not later than Aug. 1, 1989, and a final report after the conclusion of such project, with project to terminate Sept. 30, 1990.
+Pub. L. 100–435, title V, §503, Sept. 19, 1988, 102 Stat. 1672, as amended by Pub. L. 101–147, title I, §105(c)(1), Nov. 10, 1989, 103 Stat. 885, directed Secretary of Agriculture to conduct a demonstration project to begin 30 days after Sept. 19, 1988, but in no event earlier than Oct. 1, 1988, in one State (selected by the Secretary) regarding the Child Care Food Program authorized under 42 U.S.C. 1766 in which day care institutions and family or group day care sponsoring organizations shall receive a reimbursement (in addition to that received under 42 U.S.C. 1766(d) and (f)) for providing one additional meal or supplement for children that are maintained in a day care institution or in a family or group day care home setting for eight or more hours per day, directed Secretary to submit a preliminary report to Congress not later than Aug. 1, 1989, and a final reportafter the conclusion of such project, with project to terminate Sept. 30, 1990.
 
 #### Review and Revision of Nutrition Requirements for Meals Served Under Breakfast Program; Promulgation of Regulations
 

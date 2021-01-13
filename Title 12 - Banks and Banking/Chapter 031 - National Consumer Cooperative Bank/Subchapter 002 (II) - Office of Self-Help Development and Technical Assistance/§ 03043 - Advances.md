@@ -12,7 +12,7 @@ The Office may make a capital investment advance to any eligible cooperative, ei
 
 #### (b) Interest supplement advances; criteria; amount
 
-The Office may make advances to pay all or part of the interest payable to the Bank or any other lender by an eligible cooperative applicant which the Office determines cannot pay a market rate of interest because it sells goods orservices to, or provides facilities for the use of, persons of low income: <i>Provided</i>, That such advances will not exceed an amount equal to 4 per centum of the principal amount of the indebtedness of such applicant to the Bank or such other lender for any year in which the net income of the cooperative is insufficient to meet scheduled interest payments.
+The Office may make advances to pay all or part of the interest payable to the Bank or any other lender by an eligible cooperative applicant which the Office determines cannot pay a market rate of interest because it sells goods or services to, or provides facilities for the use of, persons of low income: <i>Provided</i>, That such advances will not exceed an amount equal to 4 per centum of the principal amount of the indebtedness of such applicant to the Bank or such other lender for any year in which the net income of the cooperative is insufficient to meet scheduled interest payments.
 
 #### (c) Interest rate applicable to advances
 
@@ -20,9 +20,13 @@ Capital investment advances made by the Office pursuant to subsection (a) and in
 
 (Pub. L. 95–351, title II, §203, Aug. 20, 1978, 92 Stat. 512; Pub. L. 97–35, title III, §396(g), Aug. 13, 1981, 95 Stat. 440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsecs. (a), (b). Pub. L. 97–35 struck out references to the Account wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

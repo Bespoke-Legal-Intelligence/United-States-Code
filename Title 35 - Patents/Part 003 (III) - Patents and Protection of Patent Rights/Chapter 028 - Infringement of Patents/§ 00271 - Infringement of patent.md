@@ -6,7 +6,7 @@
 
 (c) Whoever offers to sell or sells within the United States or imports into the United States a component of a patented machine, manufacture, combination or composition, or a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.
 
-(d) No patent owner otherwise entitled to relief for infringement or contributory infringement of a patent shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by reason of his having done one or more of the following: (1) derived revenue from acts which if performed by another without his consent would constitute contributory infringement of the patent; (2) licensed or authorized another to perform acts which if performed without his consent would constitute contributory infringement of the patent; (3) sought to enforce his patent rights against infringement or contributory infringement; (4) refused to license or use any rights to the patent; or (5) conditioned the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless, in view of the circumstances, the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned.
+(d) No patent owner otherwise entitled to relief for infringement or contributory infringement of a patent shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by reason of his having done one or more of the following: (1) derived revenue from acts which if performed by another without his consent would constitute contributory infringement of the patent; (2) licensed or authorized another to perform acts which if performed without his consent would constitute contributory infringement of the patent; (3) sought to enforce his patent rights against infringement or contributory infringement; (4) refused to license or use any rights to the patent; or (5) conditioned the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless, in viewof the circumstances, the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned.
 
 (e)(1) It shall not be an act of infringement to make, use, offer to sell, or sell within the United States or import into the United States a patented invention (other than a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Act of March 4, 1913) which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques) solely for uses reasonably related to the development and submission of information under a Federal law which regulates the manufacture, use, or sale of drugs or veterinary biological products.
 
@@ -66,13 +66,15 @@
 
 (i) As used in this section, an "offer for sale" or an "offer to sell" by a person other than the patentee, or any designee of the patentee, is that in which the sale will occur before the expiration of the term of the patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L.103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, §7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 98–417, title II, §202, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 98–622, title I, §101(a), Nov. 8, 1984, 98 Stat. 3383; Pub. L. 100–418, title IX, §9003, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 100–670, title II, §201(i), Nov. 16, 1988, 102 Stat. 3988; Pub. L. 100–703, title II, §201, Nov. 19, 1988, 102 Stat. 4676; Pub. L. 102–560, §2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103–465, title V, §533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L. 108–173, title XI, §1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub. L. 111–148, title VII, §7002(c)(1), Mar. 23, 2010, 124 Stat. 815.)
 
 #### Historical and Revision Notes
 
 The first paragraph of this section is declaratory only, defining infringement.
 
 Paragraphs (b) and (c) define and limit contributory infringement of a patent and paragraph (d) is ancillary to these paragraphs, see preliminary general description of bill. One who actively induces infringement as by aiding and abetting the same is liable as an infringer, and so is one who sells a component part of a patented invention or material or apparatus for use therein knowing the same to be especially made or especially adapted for use in the infringement of the patent except in the case of a staple article or commodity of commerce having other uses. A patentee is not deemed to have misused his patent solely by reason of doing anything authorized by the section.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -130,6 +132,8 @@ Subsec. (g). Pub. L. 100–418 added subsec. (g).
 
 Subsec. (f). Pub. L. 98–622 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
@@ -150,7 +154,7 @@ In General.—The amendments made by this subtitle \[subtitle A (§§9001–9007
 
 "(b)
 
-Exceptions.—The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitablefor the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
+Exceptions.—The amendments made by this subtitle shall not abridge or affect the right of any person or any successor in business of such person to continue to use, sell, or import any specific product already in substantial and continuous sale or use by such person in the United States on January 1, 1988, or for which substantial preparation by such person for such sale or use was made before such date, to the extent equitable for the protection of commercial investments made or business commenced in the United States before such date. This subsection shall not apply to any person or any successor in business of such person using, selling, or importing a product produced by a patented process that is the subject of a process patent enforcement action commenced before January 1, 1987, before the International Trade Commission, that is pending or in which an order has been entered.
 
 "(c)
 

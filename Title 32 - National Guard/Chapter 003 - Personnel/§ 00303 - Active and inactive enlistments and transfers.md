@@ -48,11 +48,15 @@ In subsection (c), the words "in the inactive \* \* \* National Guard" are sub
 
 In subsection (d), the words "under any enlistment" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsecs. (c), (d). Pub. L. 96–513 redesignated subsec. (d) as (c).
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which provided that a person enlisted in inactive Army National Guard or inactive Air National Guard is not entitled to pay under section 301 of title 37.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

@@ -10,7 +10,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each person that submits to the Secretary a meeting request described underclause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (c)(5).
+&emsp;&emsp;&emsp;Each person that submits to the Secretary a meeting request described under clause (ii) or a clinical protocol for an investigational new drug protocol described under clause (iii) shall pay for the product named in the meeting request or the investigational new drug application the initial biosimilar biological product development fee established under subsection (c)(5).
 
 #### (ii) Meeting request
 
@@ -128,7 +128,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval.
 
-&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required for approval. Such fee shall be equal to half of the amount of the fee described in clause (i).
+&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(5) for a biosimilar biological productapplication for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required for approval. Such fee shall be equal to half of the amount of the fee described in clause (i).
 
 #### (B) Rule of applicability; treatment of certain previously paid fees
 
@@ -290,7 +290,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Limitation
 
-&emsp;&emsp;Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections (b)(2)(A) (the annual base revenue for the fiscal year) and (b)(2)(B) (the dollar amount of the inflation adjustment for the fiscal year).
+&emsp;&emsp;Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections\(b)(2)(A) (the annual base revenue for the fiscal year) and (b)(2)(B) (the dollar amount of the inflation adjustment for the fiscal year).
 
 #### (D) Publication in Federal Register
 
@@ -312,7 +312,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Federal Register notice
 
-&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amountof the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5)(B) establishing fee revenue and fees for the fiscal year involved.
+&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5)(B) establishing fee revenue and fees for the fiscal year involved.
 
 #### (4) Fiscal year 2018 adjustment
 
@@ -404,13 +404,17 @@ To qualify for consideration for a waiver under subsection (d), or for a refund 
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of biosimilar biological product applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §744H, as added Pub. L. 112–144, title IV, §402, July 9, 2012, 126 Stat. 1029; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(V), Dec. 13, 2016, 130 Stat. 1155; Pub. L. 115–52, title IV, §403, title IX, §905(b)(4), Aug. 18, 2017, 131 Stat. 1028, 1090.)
+(June 25, 1938, ch. 675, §744H, as added Pub. L. 112–144, title IV, §402, July 9, 2012, 126 Stat. 1029; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(V), Dec. 13, 2016, 130 Stat. 1155; Pub. L. 115–52, title IV, §403, title IX, §905(b)(4), Aug. 18, 2017, 131 Stat. 1028, 1090; Pub. L. 116–136, div. A, title III, §3856(b)(1), Mar. 27, 2020, 134 Stat. 458.)
 
 #### Termination of Section
 
 <i>For termination of section by section 405(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(2)(B). Pub. L. 116–136, §3856(b)(1), amended Pub. L. 115–52, §905(b)(4). See 2017 Amendment note below.
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–52, §403(a)(1), substituted "fiscal year 2018" for "fiscal year 2013" in introductory provisions.
 
@@ -464,15 +468,15 @@ Subsec. (c). Pub. L. 115–52, §403(c)(4), added subsec. (c). Former subsec. (c
 
 Subsec. (d). Pub. L. 115–52, §403(c)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 115–52, §403(d), substituted "affiliate shall pay" for "affiliate shall pay—" and "not a small business." for "not a small business; and", struck out subpar. (A) designation before "application fees forall", and struck out subpar. (B) which read as follows: "all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business."
+Subsec. (d)(1). Pub. L. 115–52, §403(d), substituted "affiliate shall pay" for "affiliate shall pay—" and "not a small business." for "not a small business; and", struck out subpar. (A) designation before "application fees for all", and struck out subpar. (B) which read as follows: "all supplement fees for all supplements to biosimilar biological product applications submitted to the Secretary for review in the same manner as an entity that is not a small business."
 
 Subsec. (e). Pub. L. 115–52, §403(e), substituted "all such fees" for "all fees".
 
 Pub. L. 115–52, §403(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2)(B). Pub. L. 115–52, §905(b)(4), substituted "limitations" for "limitation" in heading, designated existing provisions as cl. (i) and inserted heading, and added cl. (ii), effective Aug. 18, 2017. Subsec. (e) subsequently redesignated (f) effective Oct. 1, 2017, by Pub. L. 115–52, §403(c)(1). See Amendment note below.
-
 Subsec. (f). Pub. L. 115–52, §403(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(2)(B). Pub. L. 115–52, §905(b)(4), as amended by Pub. L. 116–136, §3856(b)(1), substituted "limitations" for "limitation" in heading, designated existing provisions as cl. (i) and inserted heading, and added cl. (ii).
 
 Subsec. (f)(2)(C). Pub. L. 115–52, §403(f)(1)(A), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "Until the date of enactment of an Act making appropriations through September 30, 2013, for the salaries and expenses account of the Food and Drug Administration, fees authorized by this section for fiscal year 2013 may be collected and shall be credited to such account and remain available until expended."
 
@@ -491,6 +495,12 @@ Subsec. (i). Pub. L. 115–52, §403(c)(1), redesignated subsec. (h) as (i).
 <b>2016</b>—Subsec. (a)(1)(A)(v). Pub. L. 114–255, §3101(a)(2)(V)(i), which directed technical amendment in paragraph (1)(A)(v) to reference in original act which appears in text as reference to July 9, 2012, was executed by making the amendment in introductory provisions and in subcl. (I), to reflect the probable intent of Congress.
 
 Subsec. (a)(2)(B). Pub. L. 114–255, §3101(a)(2)(V)(ii), substituted "Biosimilar User Fee Act of 2012" for "Biosimilars User Fee Act of 2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. A, title III, §3856(b)(2), Mar. 27, 2020, 134 Stat. 458, provided that: "The amendment made by paragraph (1) \[amending Pub. L. 115–52 which amended this section\] shall take effect as of the enactment of the FDA Reauthorization Act of 2017 (Public Law 115–52)."
 
 #### Effective Date of 2017 Amendment
 

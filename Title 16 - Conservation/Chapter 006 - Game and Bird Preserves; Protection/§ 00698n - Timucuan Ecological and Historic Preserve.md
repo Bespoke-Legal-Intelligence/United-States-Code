@@ -26,7 +26,7 @@ The Secretary of the Interior (hereinafter in sections 698n to 698p of this titl
 
 #### (c) Administration
 
-The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4).<sup>1</sup> The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
+The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4).<sup>1</sup> The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting orfishing shall be permitted for reasons of public safety.
 
 #### (d) Development of multiunit residential/resort project
 
@@ -48,7 +48,7 @@ In subsec. (a)(1), "section 100506(c) of title 54" substituted for "section 7(c)
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act \[amending this section\] may be cited asthe 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."
+Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act \[amending this section\] may be cited as the 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

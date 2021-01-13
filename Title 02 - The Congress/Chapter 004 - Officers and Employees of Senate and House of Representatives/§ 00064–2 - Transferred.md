@@ -1,5 +1,7 @@
 ### §64–2. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 64–2 was editorially reclassified as section 6562 of this title.

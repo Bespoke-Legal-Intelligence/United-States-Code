@@ -14,7 +14,7 @@ Higher Standard of Safety.—The Secretary may revise part 117 or part 180 of ti
 
 (c)
 
-Innovative and Novel Designs.—The Secretary may, in lieu of the requirements set outin part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2016, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
+Innovative and Novel Designs.—The Secretary may, in lieu of the requirements set out in part 117 or part 180 of title 46, Code of Federal Regulations, as in effect on the date of the enactment of the Coast Guard Authorization Act of 2016, allow a passenger vessel to be equipped with a life-saving appliance or arrangement of an innovative or novel design that—
 
 &emsp;(1) ensures no part of an individual is immersed in water; and
 
@@ -25,6 +25,8 @@ Innovative and Novel Designs.—The Secretary may, in lieu of the requirements s
 Built Defined.—In this section, the term "built" has the meaning that term has under section 4503(d).
 
 (Added Pub. L. 111–281, title VI, §609(a), Oct. 15, 2010, 124 Stat. 2968; amended Pub. L. 112–213, title III, §303, Dec. 20, 2012, 126 Stat. 1563; Pub. L. 114–120, title III, §301(a), Feb. 8, 2016, 130 Stat. 50; Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–282, title V, §508(e), Dec. 4, 2018, 132 Stat. 4273.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Subsecs. (b), (c). Pub. L. 114–328 substituted "Coast Guard Authorization Act 
 <b>2012</b>—Subsec. (b). Pub. L. 112–213, §303(1), substituted "the date that is 30 months after the date on which the report described in subsection (c) is submitted" for "January 1, 2015" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–213, §303(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

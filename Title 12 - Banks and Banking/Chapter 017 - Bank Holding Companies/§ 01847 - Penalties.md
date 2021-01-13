@@ -16,7 +16,7 @@
 
 #### (2) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1) may be assessed and collected by the Board inthe manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (3) Hearing
 
@@ -78,6 +78,8 @@ The resignation, termination of employment or participation, or separation of an
 
 (May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73, §907(j)(1), substituted heading and pars. (1) and (2) for first two sentences which read as follows: "Any company which willfully violates any provision of this chapter, or any regulation or order issued by the Board pursuant thereto, shall upon conviction be fined not more than $1,000 for each day during which the violation continues. Any individual who willfully participates in a violation of any provision of this chapter shall upon conviction be fined not more than $10,000 or imprisoned not more than one year, or both."
@@ -103,6 +105,8 @@ Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 <b>1982</b>—Subsec. (b)(1). Pub. L. 97–320 inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted "may be assessed" for "shall be assessed".
 
 <b>1978</b>—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

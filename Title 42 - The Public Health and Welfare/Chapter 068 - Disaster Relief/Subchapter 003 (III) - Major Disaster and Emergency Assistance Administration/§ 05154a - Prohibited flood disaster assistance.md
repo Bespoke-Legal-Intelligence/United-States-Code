@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 &emsp;&emsp;(C) Federal disaster relief assistance is provided for the repair, replacement, or restoration of the property as a result of such damage,
 
-> &emsp;the transferor shall be required to reimburse the Federal Government in an amount equalto the amount of the Federal disaster relief assistance provided with respect to the property.
+> &emsp;the transferor shall be required to reimburse the Federal Government in an amount equal to the amount of the Federal disaster relief assistance provided with respect to the property.
 
 #### (3) Property described
 

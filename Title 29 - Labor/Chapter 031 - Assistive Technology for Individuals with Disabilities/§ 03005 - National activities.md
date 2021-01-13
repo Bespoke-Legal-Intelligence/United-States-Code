@@ -44,7 +44,7 @@ In order to support activities designed to improve the administration of this ch
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may award grants, contracts, or cooperative agreements to eligibleentities to carry out research and development of assistive technology that consists of—
+&emsp;&emsp;The Secretary may award grants, contracts, or cooperative agreements to eligible entities to carry out research and development of assistive technology that consists of—
 
 &emsp;&emsp;&emsp;(i) developing standards for reliability and accessibility of assistive technology, and standards for interoperability (including open standards) of assistive technology with information technology, telecommunications products, and other assistive technology; or
 
@@ -78,7 +78,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(II) requests for state-of-the-art, or model, Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services;
 
-&emsp;&emsp;&emsp;&emsp;(III) requests for information on effective approaches to developing, implementing, evaluating, and sustaining activities described in sections 3003 and 3004 of this title and related to improving funding for or access to assistive technology devices and assistive technology services for individuals with disabilities of all ages, and requests for assistance in developing corrective action plans;
+&emsp;&emsp;&emsp;&emsp;(III) requests for information on effective approaches to developing, implementing, evaluating, and sustaining activities described in sections 3003 and 3004 of this title and related to improving funding for or access to assistivetechnology devices and assistive technology services for individuals with disabilities of all ages, and requests for assistance in developing corrective action plans;
 
 &emsp;&emsp;&emsp;&emsp;(IV) requests for examples of policies, practices, procedures, regulations, or judicial decisions that have enhanced or may enhance access to funding for assistive technology devices and assistive technology services for individuals with disabilities;
 
@@ -253,6 +253,8 @@ With respect to the activities described in subsection (b) to be funded under th
 &emsp;(6) venders and public and private researchers and developers.
 
 (Pub. L. 105–394, §6, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1727; amended Pub. L. 110–69, title III, §3002(c)(7), Aug. 9, 2007, 121 Stat. 587; Pub. L. 113–128, title IV, §491(o)(2), July 22, 2014, 128 Stat. 1698.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

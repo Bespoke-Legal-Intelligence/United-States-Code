@@ -68,7 +68,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;&emsp;(B) for use by States to send voter registration applications and absentee ballot applications requested under such subsection; and
 
-&emsp;&emsp;(C) for the purpose of providing related voting, balloting, and election informationto absent uniformed services voters and overseas voters.
+&emsp;&emsp;(C) for the purpose of providing related voting, balloting, and election information to absent uniformed services voters and overseas voters.
 
 #### (2) Clarification regarding provision of multiple means of electronic communication
 
@@ -132,7 +132,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 &emsp;&emsp;(C) the number of days prior to the election for Federal office that the State requires absentee ballots be transmitted to absent uniformed services voters and overseas voters; and
 
-&emsp;&emsp;(D) a comprehensive plan to ensure that absent uniformed services voters and overseas voters are able to receive absentee ballots which they have requested and submit marked absentee ballots to the appropriate State election official in time to have thatballot counted in the election for Federal office, which includes—
+&emsp;&emsp;(D) a comprehensive plan to ensure that absent uniformed services voters and overseas voters are able to receive absentee ballots which they have requested and submit marked absentee ballots to the appropriate State election official in time to have that ballot counted in the election for Federal office, which includes—
 
 &emsp;&emsp;&emsp;(i) the steps the State will undertake to ensure that absent uniformed services voters and overseas voters have time to receive, mark, and submit their ballots in time to have those ballots counted in the election;
 
@@ -184,6 +184,8 @@ A State shall not refuse to accept and process any otherwise valid voter registr
 
 (Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI, §1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L. 107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725; Pub. L. 108–375, div. A, title V, §566(b), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§577(a), 578(a), 579(a), (b), 580(c), (d), 582(a), 584(b), Oct. 28, 2009, 123 Stat. 2319, 2321–2323, 2325, 2327, 2330.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, known as the Uniformed and Overseas Citizens Absentee Voting Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -194,7 +196,7 @@ The Help America Vote Act of 2002, referred to in subsec. (c), is Pub. L. 107–
 
 Section was formerly classified to section 1973ff–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, to subsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of "and" at the end of par. (7), which could not be executed because the word "and" did not appear at the end.
+Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, tosubsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of "and" at the end of par. (7), which could not be executed because the word "and" did not appear at the end.
 
 #### Amendments
 
@@ -233,6 +235,8 @@ Subsec. (d). Pub. L. 107–252, §707, added subsec. (d).
 <b>2001</b>—Par. (2). Pub. L. 107–107, §1606(a)(1)(A), struck out "general, special, primary, or runoff" before "election for Federal office" and "and" after semicolon at end and inserted "and absentee ballot application" after "voter registration application".
 
 Par. (4). Pub. L. 107–107, §1606(a)(1)(B), (C), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -112,7 +112,7 @@ Nothing in this section affects—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, whichis classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (c)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
 
@@ -152,7 +152,7 @@ Pub. L. 113–291, §3021(a)(2), substituted "Project" for "Pilot Project".
 
 Subsec. (j)(2). Pub. L. 113–291, §3021(a)(2), substituted "Project" for "Pilot Project".
 
-<b>2013</b>—Subsec. (d). Pub. L. 113–69 added subsec. (d) and struck out former subsec. (d). Prior to amendment, textread as follows: "The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+<b>2013</b>—Subsec. (d). Pub. L. 113–69 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
 
 &emsp;"(1) Rawlins, Wyoming.
 

@@ -38,6 +38,10 @@ Additional Provisions Applicable to Cooperative Agreements.—Additional authori
 
 (Added Pub. L. 87–651, title II, §208(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 97–86, title IX, §910, Dec. 1, 1981, 95 Stat. 1120; Pub. L. 100–370, §1(g)(3), July 19, 1988, 102 Stat. 846; Pub. L. 103–160, div. A, title VIII, §827(a), Nov. 30, 1993, 107 Stat. 1712; Pub. L. 103–355, title I, §1301(a), Oct. 13, 1994, 108 Stat. 3284; Pub. L. 104–201, div. A, title II, §267(c)(2), Sept. 23, 1996, 110 Stat. 2468; Pub. L. 115–91, div. A, title VIII, §862, Dec. 12, 2017, 131 Stat. 1494.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4243, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 301 of this title, as added by section 1841(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4001 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 Historical and Revision Notes<br>1962
 
 Act
@@ -89,6 +93,10 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 <b>1988</b>—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out "or his designee" after "Secretary of Defense" and "President, the Secretary", and added subsec. (b).
 
 <b>1981</b>—Par. (1). Pub. L. 97–86 substituted "by contract with, or by grant to," for "by contract with".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -548,7 +556,7 @@ Participants in Activities.—Participants in the activities may include the fol
 
 #### National Security Innovation Activities
 
-Pub. L. 115–232, div. A, title II, §230, Aug. 13, 2018, 132 Stat. 1689, provided that:
+Pub. L. 115–232, div. A, title II, §230, Aug. 13, 2018, 132 Stat. 1689, as amended by Pub. L. 116–283, div. A, title II, §213(a), Jan. 1, 2021, 134 Stat. 3456, provided that:
 
 "(a)
 
@@ -584,6 +592,26 @@ Establishment of Nonprofit Entity.—The Under Secretary may establish or fund a
 
 "(e)
 
+Advisory Assistance.—
+
+&emsp;"(1)
+
+In general.—The Under Secretary shall establish a mechanism to seek advice from existing Federal advisory committees on matters relating to—
+
+&emsp;&emsp;"(A) the implementation and prioritization of activities established under subsection (a); and
+
+&emsp;&emsp;"(B) determining how such activities may be used to support the overall technology strategy of the Department of Defense.
+
+&emsp;"(2)
+
+Existing federal advisory committees defined.—In this subsection, the term 'existing Federal advisory committee' means an advisory committee that—
+
+&emsp;&emsp;"(A) is established pursuant to a provision of Federal law other than this section; and
+
+&emsp;&emsp;"(B) has responsibilities relevant to the activities established under subsection (a), as determined by the Under Secretary.
+
+"(f)
+
 Plan.—
 
 &emsp;"(1)
@@ -600,11 +628,11 @@ Elements.—The plan required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(C) Plans for attracting the participation of the commercial technology industry and academia and how those plans fit into the current Department of Defense research and engineering enterprise.
 
-"(f)
+"(g)
 
 Authorities.—In carrying out this section, the Under Secretary may use the following authorities:
 
-&emsp;"(1) Section 1711 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[10 U.S.C. 2505 note\], relating to a pilot program on strengthening manufacturing in the defense industrial base.
+&emsp;"(1) Section 1711 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[10 U.S.C. 2505 note\], relating to a pilot program on strengthening the defense industrial and innovation base.
 
 &emsp;"(2) Section 1599g of title 10 of the United States Code, relating to public-private talent exchanges.
 
@@ -624,17 +652,13 @@ Authorities.—In carrying out this section, the Under Secretary may use the fol
 
 &emsp;"(10) Such other authorities as the Under Secretary considers appropriate.
 
-"(g)
-
-Notice Required.—Not later than 15 days before the date on which the Under Secretary first exercises the authority granted under subsection (d) and not later than 15 days before the date on which the Under Secretary first obligates or expends any amount authorized under subsection (h), the Under Secretary shall notify the congressional defense committees of such exercise, obligation, or expenditure, as the case may be.
-
 "(h)
 
-Funding.—Of the amount authorized to be appropriated for fiscal year 2019 for the Department of Defense by section 201 \[132 Stat. 1674\] and subject to the availability of appropriations, up to $75,000,000 may be available to carry out this section."
+Notice Required.—Not later than 15 days before the date on which the Under Secretary first exercises the authority granted under subsection (d) and not later than 15 days before the date on which the Under Secretary first obligates or expends any amount authorized under subsection (h), the Under Secretary shall notify the congressional defense committees of such exercise, obligation, or expenditure, as the case may be."
 
 #### Defense Quantum Information Science and Technology Research and Development Program
 
-Pub. L. 115–232, div. A, title II, §234, Aug. 13, 2018, 132 Stat. 1692, as amended by Pub. L. 116–92, div. A, title II, §220, Dec. 20, 2019, 133 Stat. 1260, provided that:
+Pub. L. 115–232, div. A, title II, §234, Aug. 13, 2018, 132 Stat. 1692, as amended by Pub. L. 116–92, div. A, title II, §220, Dec. 20, 2019, 133 Stat. 1260; Pub. L. 116–283, div. A, title II, §214, Jan. 1, 2021, 134 Stat. 3458, provided that:
 
 "(a)
 
@@ -712,6 +736,14 @@ Quantum Information Science Research Centers.—The Secretary of each military d
 
 "(e)
 
+Use of Quantum Computing Capabilities.—The Secretary of each military department shall—
+
+&emsp;"(1) develop and annually update a list of technical problems and research challenges which are likely to be addressable by quantum computers available for use within in the next one to three years, with a priority for technical problems and challenges where quantum computing systems have performance advantages over traditional computing systems, in order to enhance the capabilities of such quantum computers and support the addressing of relevant technical problems and research challenges; and
+
+&emsp;"(2) establish programs and enter into agreements with appropriate medium and small businesses with functional quantum computing capabilities to provide such private sector capabilities to government, industry, and academic researchers working on relevant technical problems and research activities.
+
+"(f)
+
 Report.—
 
 &emsp;"(1)
@@ -746,7 +778,7 @@ Elements.—The report required by paragraph (1) shall include the following:
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480, provided that:
 
 "(a)
 
@@ -754,11 +786,19 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall establish a set of activities within the Department of Defense to coordinate the efforts of the Department to develop, mature, and transition artificial intelligence technologies into operational use.
+In general.—The Secretary of Defense shall establish a set of activities within the Department of Defense to coordinate the efforts of the Department to acquire, develop, mature, and transition artificial intelligence technologies into operational use.
 
 &emsp;"(2)
 
-Emphasis.—The set of activities established under paragraph (1) shall apply artificial intelligence and machine learning solutions to operational problems and coordinate activities involving artificial intelligence and artificial intelligence enabled capabilities within the Department.
+Emphasis.—The set of activities established under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) acquisition and development of mature artificial intelligence technologies in support of defense missions;
+
+&emsp;&emsp;"(B) applying artificial intelligence and machine learning solutions to operational problems by directly delivering artificial intelligence capabilities to the Armed Forces and other organizations and elements of the Department of Defense;
+
+&emsp;&emsp;"(C) accelerating the development, testing, and fielding of new artificial intelligence and artificial intelligence-enabling capabilities; and
+
+&emsp;&emsp;"(D) coordinating and deconflicting activities involving artificial intelligence and artificial intelligence-enabled capabilities within the Department.
 
 "(b)
 
@@ -766,11 +806,59 @@ Designation.—Not later than one year after the date of the enactment of this A
 
 "(c)
 
+Organization and Roles.—
+
+&emsp;"(1)
+
+Assignment of roles and responsibilities.—
+
+&emsp;&emsp;"(A)
+
+In general.—In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies.
+
+&emsp;&emsp;"(B)
+
+Appropriate officials.—The officials assigned roles and responsibilities under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) the Under Secretary of Defense for Research and Engineering;
+
+&emsp;&emsp;&emsp;"(ii) the Under Secretary of Defense for Acquisition and Sustainment;
+
+&emsp;&emsp;&emsp;"(iii) the Director of the Joint Artificial Intelligence Center;
+
+&emsp;&emsp;&emsp;"(iv) one or more officials in each military department;
+
+&emsp;&emsp;&emsp;"(v) officials of appropriate Defense Agencies; and
+
+&emsp;&emsp;&emsp;"(vi) such other officials as the Secretary of Defense determines appropriate.
+
+&emsp;"(2)
+
+Role of director of the joint artificial intelligence center.—
+
+&emsp;&emsp;"(A)
+
+Direct report to deputy secretary of defense.—During the covered period, the Director of the Joint Artificial Intelligence Center shall report directly to the Deputy Secretary of Defense without intervening authority.
+
+&emsp;&emsp;"(B)
+
+Continuation.—The Director of the Joint Artificial Intelligence Center shall continue to report to the Deputy Secretary of Defense as described in subparagraph (A) after the expiration of the covered period if, not later than 30 days before such period expires, the Deputy Secretary—
+
+&emsp;&emsp;&emsp;"(i) determines that the Director should continue to report to Deputy Secretary without intervening authority; and
+
+&emsp;&emsp;&emsp;"(ii) transmits notice of such determination to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+
+&emsp;&emsp;"(C)
+
+Covered period defined.—In this paragraph, the term 'covered period' means the period of two years beginning on the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\].
+
+"(d)
+
 Duties.—The duties of the official designated under subsection (b) shall include the following:
 
 &emsp;"(1)
 
-Strategic plan.—Developing a detailed strategic plan to develop, mature, adopt, and transition artificial intelligence technologies into operational use. Such plan shall include the following:
+Strategic plan.—Developing a detailed strategic plan to acquire, develop, mature, adopt, and transition artificial intelligence technologies into operational use. Such plan shall include the following:
 
 &emsp;&emsp;"(A) A strategic roadmap for the identification and coordination of the development and fielding of artificial intelligence technologies and key enabling capabilities.
 
@@ -778,9 +866,9 @@ Strategic plan.—Developing a detailed strategic plan to develop, mature, adopt
 
 &emsp;"(2)
 
-Acceleration of development and fielding of artificial intelligence.—To the degree practicable, the designated official shall—
+Acceleration of acquisition, development and fielding of artificial intelligence.—The official designated under subsection (b) shall—
 
-&emsp;&emsp;"(A) use the flexibility of regulations, personnel, acquisition, partnerships with industry and academia, or other relevant policies of the Department to accelerate the development and fielding of artificial intelligence capabilities;
+&emsp;&emsp;"(A) use the flexibility of regulations, personnel, acquisition, partnerships with industry and academia, or other relevant policies of the Department to accelerate the acquisition and fielding of artificial intelligence capabilities;
 
 &emsp;&emsp;"(B) ensure engagement with defense and private industries, research universities, and unaffiliated, nonprofit research institutions;
 
@@ -794,11 +882,19 @@ Acceleration of development and fielding of artificial intelligence.—To the de
 
 &emsp;&emsp;"(G) develop classification guidance for all artificial intelligence related activities of the Department;
 
-&emsp;&emsp;"(H) work with appropriate officials to develop appropriate ethical, legal, and other policies for the Department governing the development and use of artificial intelligence enabled systems and technologies in operational situations; and
+&emsp;&emsp;"(H) develop standard data formats for the Department that—
 
-&emsp;&emsp;"(I) ensure—
+&emsp;&emsp;&emsp;"(i) aid in defining the relative maturity of datasets; and
 
-&emsp;&emsp;&emsp;"(i) that artificial intelligence programs of each military department and of the Defense Agenciesare consistent with the priorities identified under this section;
+&emsp;&emsp;&emsp;"(ii) inform best practices for cost and schedule computation, data collection strategies aligned to mission outcomes, and dataset maintenance practices;
+
+&emsp;&emsp;"(I) establish data and model usage agreements and collaborative partnership agreements for artificial intelligence product development with each organization and element of the Department, including each of the Armed Forces;
+
+&emsp;&emsp;"(J) work with appropriate officials to develop appropriate ethical, legal, and other policies for the Department governing the development and use of artificial intelligence enabled systems and technologies in operational situations; and
+
+&emsp;&emsp;"(K) ensure—
+
+&emsp;&emsp;&emsp;"(i) that artificial intelligence programs of each military department and of the Defense Agencies are consistent with the priorities identified under this section;
 
 &emsp;&emsp;&emsp;"(ii) appropriate coordination of artificial intelligence activities of the Department with interagency, industry, and international efforts relating to artificial intelligence, including relevant participation in standards setting bodies; and
 
@@ -818,49 +914,9 @@ Governance and oversight of artificial intelligence and machine learning policy.
 
 &emsp;&emsp;"(C) to develop and continuously improve research, innovation, policy, joint processes, and procedures to facilitate the development, acquisition, integration, advancement, oversight, and sustainment of artificial intelligence and machine learning throughout the Department.
 
-"(d)
-
-Access to Information.—The Secretary shall ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the coordination described in subsection (b) and the duties set forth in subsection (c).
-
 "(e)
 
-Study on Artificial Intelligence Topics.—
-
-&emsp;"(1)
-
-In general.—Not later than one year after the date of the enactment of this Act, the official designated under subsection (b) shall—
-
-&emsp;&emsp;"(A) complete a study on past and current advances in artificial intelligence and the future of the discipline, including the methods and means necessary to advance the development of the discipline, to comprehensively address the national security needs and requirements of the Department; and
-
-&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the findings of the designated official with respect to the study completed under subparagraph (A).
-
-&emsp;"(2)
-
-Consultation with experts.—In conducting the study required by paragraph (1)(A), the designated official shall consult with experts within the Department, other Federal agencies, academia, any advisory committee established by the Secretary that the Secretary determines appropriate based on the duties of the advisory committee and the expertise of its members, and the commercial sector, as the Secretary considers appropriate.
-
-&emsp;"(3)
-
-Elements.—The study required by paragraph (1)(A) shall include the following:
-
-&emsp;&emsp;"(A) A comprehensive and national-level review of—
-
-&emsp;&emsp;&emsp;"(i) advances in artificial intelligence, machine learning, and associated technologies relevant to the needs of the Department and the Armed Forces; and
-
-&emsp;&emsp;&emsp;"(ii) the competitiveness of the Department in artificial intelligence, machine learning, and such technologies.
-
-&emsp;&emsp;"(B) Near-term actionable recommendations to the Secretary for the Department to secure and maintain technical advantage in artificial intelligence, including ways—
-
-&emsp;&emsp;&emsp;"(i) to more effectively organize the Department for artificial intelligence;
-
-&emsp;&emsp;&emsp;"(ii) to educate, recruit, and retain leading talent; and
-
-&emsp;&emsp;&emsp;"(iii) to most effectively leverage investments in basic and advanced research and commercial progress in these technologies.
-
-&emsp;&emsp;"(C) Recommendations on the establishment of Departmentwide data standards and the provision of incentives for the sharing of open training data, including those relevant for research into systems that integrate artificial intelligence and machine learning with human teams.
-
-&emsp;&emsp;"(D) Recommendations for engagement by the Department with relevant agencies that will be involved with artificial intelligence in the future.
-
-&emsp;&emsp;"(E) Recommendations for legislative action relating to artificial intelligence, machine learning, and associated technologies, including recommendations to more effectively fund and organize the Department.
+Access to Information.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Jan. 1, 2021\], the Secretary of Defense shall issue regulations to ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the duties set forth in subsection (d). At a minimum, such access shall ensure that the Director of the Joint Artificial Intelligence Center has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.
 
 "(f)
 
@@ -878,11 +934,15 @@ Artificial Intelligence Defined.—In this section, the term 'artificial intelli
 
 &emsp;"(4) A set of techniques, including machine learning, that is designed to approximate a cognitive task.
 
-&emsp;"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting."
+&emsp;"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.
+
+"(h)
+
+Joint Artificial Intelligence Center Defined.—In this section, term 'Joint Artificial Intelligence Center' means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled 'Establishment of the Joint Artificial Intelligence Center', or any successor to such Center."
 
 #### Initiative To Support Protection of National Security Academic Researchers From Undue Influence and Other Security Threats
 
-Pub. L. 115–232, div. A, title XII, §1286, Aug. 13, 2018, 132 Stat. 2078, as amended by Pub. L. 116–92, div. A, title XII, §1281, Dec. 20, 2019, 133 Stat. 1704, provided that:
+Pub. L. 115–232, div. A, title XII, §1286, Aug. 13, 2018, 132 Stat. 2078, as amended by Pub. L. 116–92, div. A, title XII, §1281, Dec. 20, 2019, 133 Stat. 1704; Pub. L. 116–283, div. A, title X, §1081(d)(6), title XII, §1299C, Jan. 1, 2021, 134 Stat. 3874, 3999, provided that:
 
 "(a)
 
@@ -896,15 +956,7 @@ Initiative Required.—The Secretary of Defense shall, in consultation with othe
 
 "(b)
 
-Institutions and Organizations.—
-
-&emsp;"(1)
-
-In general.—The initiative required by subsection (a) shall be developed and executed to themaximum extent practicable with academic research institutions and other educational and research organizations.
-
-&emsp;"(2)
-
-Record of excellence.—In selecting research institutions of higher education under this subsection, the Secretary shall prioritize selection of institutions of higher education that the Secretary determines demonstrate a record of excellence in industrial security in academia and in research and development.
+Institutions and Organizations.—The initiative required by subsection (a) shall be developed and executed to the maximum extent practicable with academic research institutions and other educational and research organizations.
 
 "(c)
 
@@ -914,17 +966,19 @@ Requirements.—The initiative required by subsection (a) shall include developm
 
 &emsp;"(2) Training developed and delivered in consultation with institutions of higher education and appropriate Government agencies, and other support to institutions of higher education, to promote security and limit undue influence on institutions of higher education and personnel, including Department of Defense financial support to carry out such activities, that—
 
-&emsp;&emsp;"(A) emphasizes best practices for protection of sensitive national security information; and
+&emsp;&emsp;"(A) emphasizes best practices for protection of sensitive national security information;
 
-&emsp;&emsp;"(B) includes the dissemination of unclassified materials and resources for identifying and protecting against emerging threats to institutions of higher education, including specific counterintelligence information and advice developed specifically for faculty and academic researchers based on actual identified threats.
+&emsp;&emsp;"(B) includes the dissemination of unclassified materials and resources for identifying and protecting against emerging threats to institutions of higher education, including specific counterintelligence information and advice developed specifically for faculty and academic researchers based on actual identified threats; and
 
-&emsp;"(3) The capacity of government and institutions of higher education to assess whether individuals affiliated with Department of Defense programs have participated in or are currently participating in foreign talent programs or expert recruitment programs.
+&emsp;&emsp;"(C) includes requirements for appropriate senior officials of institutions of higher education to receive from appropriate Government agencies updated and periodic briefings that describe the espionage risks to academic institutions and associated personnel posed by technical intelligence gathering activities of near-peer strategic competitors.
+
+&emsp;"(3) The capacity of Government agencies and institutions of higher education to assess whether individuals affiliated with Department of Defense programs have participated in or are currently participating in foreign talent programs or expert recruitment programs.
 
 &emsp;"(4) Opportunities to collaborate with defense researchers and research organizations in secure facilities to promote protection of critical information and strengthen defense against foreign intelligence services.
 
 &emsp;"(5) Regulations and procedures—
 
-&emsp;&emsp;"(A) for government and academic organizations and personnel to support the goals of the initiative; and
+&emsp;&emsp;"(A) for Government agencies and academic organizations and personnel to support the goals of the initiative; and
 
 &emsp;&emsp;"(B) that are consistent with policies that protect open and scientific exchange in fundamental research.
 
@@ -932,19 +986,33 @@ Requirements.—The initiative required by subsection (a) shall include developm
 
 &emsp;"(7) Initiatives to support the transition of the results of institution of higher education research programs into defense capabilities.
 
-&emsp;"(8) A list, developed and continuously updated in consultation with the Bureau of Industry and Security of the Department of Commerce, the Director of National Intelligence, United States institutions of higher education that conduct significant Department of Defense research or engineering activities, and other appropriate individuals and organizations, of academic institutions of the People's Republic of China, the Russian Federation, and other countries, that—
+&emsp;"(8)(A) A list of academic institutions of the People's Republic of China, the Russian Federation, and other countries that—
 
-&emsp;&emsp;"(A) have a history of improper technology transfer, intellectual property theft, or cyber or human espionage;
+&emsp;&emsp;"(i) have a history of improper technology transfer, intellectual property theft, or cyber or human espionage;
 
-&emsp;&emsp;"(B) operate under the direction of the military forces or intelligence agency of the applicable country;
+&emsp;&emsp;"(ii) operate under the direction of the military forces or intelligence agency of the applicable country;
 
-&emsp;&emsp;"(C) are known—
+&emsp;&emsp;"(iii) are known—
 
-&emsp;&emsp;&emsp;"(i) to recruit foreign individuals for the purpose of transferring knowledge to advance military or intelligence efforts; or
+&emsp;&emsp;&emsp;"(I) to recruit foreign individuals for the purpose of transferring knowledge to advance military or intelligence efforts; or
 
-&emsp;&emsp;&emsp;"(ii) to provide misleading information or otherwise attempt to conceal the connections of an individual or institution to a defense or an intelligence agency of the applicable country; or
+&emsp;&emsp;&emsp;"(II) to provide misleading information or otherwise attempt to conceal the connections of an individual or institution to a defense or an intelligence agency of the applicable country; or
 
-&emsp;&emsp;"(D) pose a serious risk of improper technology transfer of data, technology, or research that is not published or publicly available.
+&emsp;&emsp;"(iv) pose a serious risk of improper technology transfer of data, technology, or research that is not published or publicly available.
+
+&emsp;"(B) The list described in subparagraph (A) shall be developed and continuously updated in consultation with the Bureau of Industry and Security of the Department of Commerce, the Director of National Intelligence, United States institutions of higher education that conduct significant Department of Defense research or engineering activities, and other appropriate individuals and organizations.
+
+&emsp;"(9)(A) A list, developed and continuously updated in consultation with the National Academies of Science, Engineering, and Medicine and the appropriate Government agencies, of foreign talent programs that pose a threat to the national security interests of the United States, as determined by the Secretary.
+
+&emsp;"(B) In developing and updating such list, the Secretary shall consider—
+
+&emsp;&emsp;"(i) the extent to which a foreign talent program—
+
+&emsp;&emsp;&emsp;"(I) poses a threat to research funded by the Department of Defense; and
+
+&emsp;&emsp;&emsp;"(II) engages in, or facilitates, cyber attacks, theft, espionage, attempts to gain ownership of or influence over companies, or otherwise interferes in the affairs of the United States; and
+
+&emsp;&emsp;"(ii) any other factor the Secretary considers appropriate.
 
 "(d)
 
@@ -952,7 +1020,15 @@ Procedures for Enhanced Information Sharing.—
 
 &emsp;"(1)
 
-In general.—Not later than October 1, 2020, for the purpose of maintaining appropriate security controls over research activities, technical information, and intellectual property, the Secretary, in conjunction with appropriate public and private entities, shall establish streamlined procedures to collect appropriate information relating to individuals, including United States citizens and foreign nationals, who participate in defense research and development activities (other than basic research).
+Collection of information.—
+
+&emsp;&emsp;"(A)
+
+Defense research and development activities.—Not later than October 1, 2020, for the purpose of maintaining appropriate security controls over research activities, technical information, and intellectual property, the Secretary, in conjunction with appropriate public and private entities, shall establish streamlined procedures to collect appropriate information relating to individuals, including United States citizens and foreign nationals, who participate in defense research and development activities.
+
+&emsp;&emsp;"(B)
+
+Fundamental research programs.—With respect to fundamental research programs, the academic liaison designated under subsection (g) shall establish policies and procedures to collect, consistent with the best practices of Government agencies that fund academic research, appropriate information relating to individuals who participate in fundamental research programs.
 
 &emsp;"(2)
 
@@ -968,7 +1044,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—Not later than April 30, 2020, and annually thereafter, the Secretary, acting through appropriate Government officials (including the Under Secretary for Research and Engineering), shall submit to the congressional defense committees a report on the activities carried out under the initiative required by subsection (a).
+In general.—Not later than April 30, 2020, and annually thereafter, the Secretary, acting through appropriate Government officials (including the Under Secretary for Research and Engineering), shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the activities carried out under the initiative required by subsection (a).
 
 &emsp;"(2)
 
@@ -980,7 +1056,7 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(C) Such recommendations as the Secretary may have for legislative or administrative action relating to the matters described in subsection (a), including actions related to foreign talent programs.
 
-&emsp;&emsp;"(D) Identification and discussion of the gaps in legal authorities that need to be improve \[sic\] to enhance the security of research institutions of higher education performing defense research.
+&emsp;&emsp;"(D) Identification and discussion of the gaps in legal authorities that need to be improved to enhance the security of research institutions of higher education performing defense research.
 
 &emsp;&emsp;"(E) A description of the actions taken by such institutions to comply with such best practices and guidelines as may be established by under the initiative.
 
@@ -992,11 +1068,59 @@ Form.—The report submitted under paragraph (1) shall be submitted in both uncl
 
 "(f)
 
+Publication of Updated Lists.—
+
+&emsp;"(1)
+
+Submittal to congress.—Not later than January 1, 2021, and annually thereafter, the Secretary shall submit to the congressional defense committees the most recently updated lists described in paragraphs (8) and (9) of subsection (c).
+
+&emsp;"(2)
+
+Form.—Each list submitted under paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+
+&emsp;"(3)
+
+Public availability.—Each list submitted under paragraph (1) shall be published on a publicly accessible internet website of the Department of Defense in a searchable format.
+
+&emsp;"(4)
+
+Intervening submittal and publication.—The Secretary may submit and publish an updated list described in paragraph (1) more frequently than required by that paragraph, as the Secretary considers necessary.
+
+"(g)
+
+Designation of Academic Liaison.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\], the Secretary, acting through the Under Secretary of Defense for Research and Engineering, shall designate an academic liaison with principal responsibility for working with the academic and research communities to protect Department-sponsored academic research of concern from undue foreign influence and threats.
+
+&emsp;"(2)
+
+Qualification.—The Secretary shall designate an individual under paragraph (1) who is an official of the Office of the Under Secretary of Defense for Research and Engineering.
+
+&emsp;"(3)
+
+Duties.—The duties of the academic liaison designated under paragraph (1) shall be as follows:
+
+&emsp;&emsp;"(A) To serve as the liaison of the Department with the academic and research communities.
+
+&emsp;&emsp;"(B) To execute initiatives of the Department related to the protection of Department-sponsored academic research of concern from undue foreign influence and threats, including the initiative required by subsection (a).
+
+&emsp;&emsp;"(C) To conduct outreach and education activities for the academic and research communities on undue foreign influence and threats to Department-sponsored academic research of concern.
+
+&emsp;&emsp;"(D) To coordinate and align academic security policies with Department component agencies, the Office of Science and Technology Policy, the intelligence community, and appropriate Federal agencies.
+
+&emsp;&emsp;"(E) To the extent practicable, to coordinate with the intelligence community to share, not less frequently than annually, with the academic and research communities unclassified information, including counterintelligence information, on threats from undue foreign influence.
+
+&emsp;&emsp;"(F) Any other related responsibility, as determined by the Secretary in consultation with the Under Secretary of Defense for Research and Engineering.
+
+"(h)
+
 Institution of Higher Education Defined.—The term 'institution of higher education' has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)."
 
 #### Mechanisms for Expedited Access to Technical Talent and Expertise at Academic Institutions To Support Department of Defense Missions
 
-Pub. L. 115–91, div. A, title II, §217, Dec. 12, 2017, 131 Stat. 1328, as amended by Pub. L. 115–232, div. A, title II, §§228, 236, Aug. 13, 2018, 132 Stat. 1687, 1694; Pub. L. 116–92, div. A, title II, §218, Dec. 20, 2019, 133 Stat. 1259, provided that:
+Pub. L. 115–91, div. A, title II, §217, Dec. 12, 2017, 131 Stat. 1328, as amended by Pub. L. 115–232, div. A, title II, §§228, 236, Aug. 13, 2018, 132 Stat. 1687, 1694; Pub. L. 116–92, div. A, title II, §218, Dec. 20, 2019, 133 Stat. 1259; Pub. L. 116–283, div. A, title II, §244, Jan. 1, 2021, 134 Stat. 3488, provided that:
 
 "(a)
 
@@ -1004,11 +1128,15 @@ Arrangements Authorized.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\], the Secretary of Defense shall direct the secretaries ofthe military departments to establish not fewer than three multi-institution task order contracts, consortia, cooperative agreements, or other arrangements to facilitate expedited access to university technical expertise, including faculty, staff, and students, in support of Department of Defense missions in the areas specified in subsection (e).
+In general.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\], the Secretary of Defense shall direct the secretaries of the military departments to establish not fewer than four multi-institution task order contracts, consortia, cooperative agreements, or other arrangements to facilitate expedited access to university technical expertise, including faculty, staff, and students, in support of Department of Defense missions in the areas specified in subsection (e).
 
 &emsp;"(2)
 
-Use for technical analyses and engineering support.—The Secretary may use an arrangement under paragraph (1) to fund technical analyses and other engineering support as required to address acquisition, management, and operational challenges, including support for classified programs and activities.
+Coordination.—In carrying out paragraph (1), the Secretary of Defense may act through the Defense Advanced Research Projects Agency or any other organization or element of the Department of Defense the Secretary considers appropriate.
+
+&emsp;"(3)
+
+Use for technical analyses and engineering support.—The Secretary may use an arrangement under paragraph (1) to fund technical analyses and other engineering support as required to address acquisition, management, training, and operational challenges, including support for classified programs and activities.
 
 "(b)
 
@@ -1090,17 +1218,39 @@ Mission Areas.—The areas specified in this subsection are as follows:
 
 &emsp;"(27) Rapid prototyping.
 
-&emsp;"(28) Infrastructure resilience.
+&emsp;"(28) Additive manufacturing.
 
 &emsp;"(29) Hypersonics.
 
-&emsp;"(30) Such other areas as the Secretary considers appropriate.
+&emsp;"(30) 3D and virtual technology training platforms.
+
+&emsp;"(31) Such other areas as the Secretary considers appropriate.
 
 "(f)
 
-Sunset.—No new arrangements may be entered into under subsection (a)(1) after September 30, 2022.
+Requirement To Establish Consortia.—
+
+&emsp;"(1)
+
+In general.—In carrying out subsection (a)(1)—
+
+&emsp;&emsp;"(A) the Secretary of Defense shall seek to establish at least one multi-institution consortium through the Office of the Secretary of Defense;
+
+&emsp;&emsp;"(B) the Secretary of the Army shall seek to establish at least one multi-institution consortium through the Army;
+
+&emsp;&emsp;"(C) the Secretary of the Navy shall seek to establish at least one multi-institution consortium through the Navy; and
+
+&emsp;&emsp;"(D) the Secretary of the Air Force shall seek to establish at least one multi-institution consortium through the Air Force.
+
+&emsp;"(2)
+
+Report required.—Not later than September 30, 2022, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the efforts to establish consortia under paragraph (1).
 
 "(g)
+
+Sunset.—No new arrangements may be entered into under subsection (a)(1) after September 30, 2026.
+
+"(h)
 
 Arrangements Established Under Subsection (a)(1) Defined.—In this section, the term 'arrangement established under subsection (a)(1)' means a multi-institution task order contract, consortia, cooperative agreement, or other arrangement established under subsection (a)(1)."
 
@@ -1204,7 +1354,7 @@ Science and Technology Reinvention Laboratory Defined.—In this section, the te
 
 #### Pilot Program for the Enhancement of the Research, Development, Test, and Evaluation Centers of the Department of Defense
 
-Pub. L. 114–328, div. A, title II, §233, Dec. 23, 2016, 130 Stat. 2061, as amended by Pub. L. 115–91, div. A, title II, §235, title X, §1081(d)(2), Dec. 12, 2017, 131 Stat. 1341, 1600; Pub. L. 116–92, div. A, title XVII, §1731(d), Dec. 20, 2019, 133 Stat. 1816, provided that:
+Pub. L. 114–328, div. A, title II, §233, Dec. 23, 2016, 130 Stat. 2061, as amended by Pub. L. 115–91, div. A, title II, §235, title X, §1081(d)(2), Dec. 12, 2017, 131 Stat. 1341, 1600; Pub. L. 116–92, div. A, title XVII, §1731(d), Dec. 20, 2019, 133 Stat. 1816; Pub. L. 116–283, div. A, title II, §216(a), (b), Jan. 1, 2021, 134 Stat. 3460, provided that:
 
 "(a)
 
@@ -1300,15 +1450,15 @@ Waiver Authority for Demonstration and Implementation.—Until the termination o
 
 "(e)
 
-Termination.—The pilot program shall terminate on September 30, 2022.
+Termination.—The pilot program shall terminate on September 30, 2027.
 
 "(f)
 
 Report.—
 
-&emsp;"(1)
+"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
+In general.—Not later than one year after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the pilot program.
 
 &emsp;"(2)
 
@@ -1322,47 +1472,21 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(D) A description of the methods that were proposed pursuant to paragraph (1) of subsection (c) but disapproved under paragraph (2) of such subsection.
 
-&emsp;&emsp;"(E) An assessment of how methods implemented pursuant to subsection (c) have contributed to the objectives identified in subparagraphs (A), (B), and (C) of paragraph (1) of such subsection."
+&emsp;&emsp;"(E) An assessment of how methods implemented pursuant to subsection (c) have contributed to the objectives identified in subparagraphs (A), (B), and (C) of paragraph (1) of such subsection.
 
-\[Pub. L. 116–92, div. A, title XVII, §1731(d), Dec. 20, 2019, 133 Stat. 1816, which directed amendment of section 233(c)(2)(C)(ii) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 114–328) by striking "Assistant Secretary of the Army for Acquisition, Technology, and Logistics" and inserting "Assistant Secretary of the Army for Acquisition, Logistics, and Technology", was executed to section 233(c)(2)(C)(ii) of the National Defense Authorization Act for Fiscal Year 2017, set out above, to reflect the probable intent of Congress. Section 1731(d) provided that the amendments made to section 233(c)(2)(C)(ii) are effective as of Dec. 23, 2016, and as if included in section 233 as enacted.\]
+&emsp;&emsp;"(F) With respect to any military department not participating in the pilot program, an explanation for such nonparticipation, including identification of—
+
+&emsp;&emsp;&emsp;"(i) any issues that may be preventing such participation; and
+
+&emsp;&emsp;&emsp;"(ii) any offices or other elements of the Department of Defense that may be responsible for the delay in participation."
+
+\[Pub. L. 116–283, div. A, title II, §216(b), Jan. 1, 2021, 134 Stat. 3460, provided in part that the amendment made to section 233(c)(2)(C)(ii) of Pub. L. 114–328, set out above, by section 216(b) of Pub. L. 116–283 is effective as of Dec. 23, 2016, and as if included in such section 233(c)(2)(C)(ii) as enacted.\]
+
+\[Pub. L. 116–92, §1731(d), and Pub. L. 116–283, §216(b), made identical amendments to section 233(c)(2)(C)(ii) of Pub. L. 114–328, set out above, by substituting "Assistant Secretary of the Army for Acquisition, Logistics, and Technology" for "Assistant Secretary of the Army for Acquisition, Technology, and Logistics", both effective as of Dec. 23, 2016, and as if included in such section as enacted. However, the substitution reflects execution of the amendment made by Pub. L. 116–283 and not by Pub. L. 116–92, as the latter directed amendment of the "National Defense Authorization Act for Fiscal Year 2018", and Pub. L. 114–328 is known as the "National Defense Authorization Act for Fiscal Year 2017".\]
 
 #### Pilot Program on Enhanced Interaction Between the Defense Advanced Research Projects Agency and the Service Academies
 
-Pub. L. 114–328, div. A, title II, §236, Dec. 23, 2016, 130 Stat. 2066, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense, acting through the Director of the Defense Advanced Research Projects Agency, shall carry out a pilot program to enhance interaction between the Defense Advanced Research Projects Agency and the service academies to promote technology transition, education, and training in science, technology, engineering, and mathematics fields that are relevant to the Department of Defense.
-
-"(b)
-
-Awards of Funds.—(1) In carrying out the pilot program, the Secretary, acting through the Director, shall provide funds to contractors and grantees of the Defense Advanced Research Projects Agency in order to encourage such contractors and grantees to develop research partnerships with the service academies to support more efficient and effective technology transition of research programs and products.
-
-"(2) It shall be the responsibility of the Director to ensure that such funds are used effectively and that sufficient efforts are made to build appropriate partnerships.
-
-"(c) Service Academy Technology Transition Networks.—In carrying out the pilot program, the Director shall prioritize the leveraging of—
-
-&emsp;"(1) the technology transition networks that service academies maintain among their academic departments and resident research centers; and
-
-&emsp;"(2) partnerships with Department of Defense laboratories, other Federal degree granting institutions, academia, and industry.
-
-"(d)
-
-Termination.—The authority to carry out the pilot program shall terminate on September 30, 2020.
-
-"(e)
-
-Service Academies Defined.—In this section, the term 'service academies' means the following:
-
-&emsp;"(1) The United States Military Academy.
-
-&emsp;"(2) The United States Naval Academy.
-
-&emsp;"(3) Th\[e\] United States Air Force Academy.
-
-&emsp;"(4) The United States Coast Guard Academy.
-
-&emsp;"(5) The United States Merchant Marine Academy."
+Pub. L. 114–328, div. A, title II, §236, Dec. 23, 2016, 130 Stat. 2066, authorized pilot program to enhance interaction between Defense Advanced Research Projects Agency and service academies to promote technology transition, education, and training in science, technology, engineering, and mathematics fields that are relevant to the Department of Defense and terminated authority for program on Sept. 30, 2020.
 
 #### Mission Integration Management
 
@@ -1370,67 +1494,13 @@ Pub. L. 114–328, div. A, title VIII, §855, Dec. 23, 2016, 130 Stat. 2297, dir
 
 #### Pilot Program on Enhanced Pay Authority for Certain Research and Technology Positions in the Science and Technology Reinvention Laboratories of the Department of Defense
 
-Pub. L. 114–328, div. A, title XI, §1124, Dec. 23, 2016, 130 Stat. 2456, provided that:
+Pub. L. 114–328, div. A, title XI, §1124, Dec. 23, 2016, 130 Stat. 2456, which established a pilot program relating to attracting and retaining high quality acquisition and technology experts in positions responsible for managing and performing complex, high-cost research and technology development efforts in the science and technology reinvention laboratories of the Department of Defense, was repealed by Pub. L. 116–283, div. A, title XI, §1115(c)(1), Jan. 1, 2021, 134 Stat. 3896. See section 2358c of this title.
 
-"(a)
-
-Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the military departments in attracting and retaining high quality acquisition and technology experts in positions responsible for managing and performing complex, high-cost research and technology development efforts in the science and technology reinvention laboratories of the Department of Defense.
-
-"(b)
-
-Approval Required.—The pilot program may be carried out in a military department only with the approval of the Service Acquisition Executive of the military department concerned.
-
-"(c)
-
-Positions.—The positions described in this subsection are positions in the science and technology reinvention laboratories of the Department of Defense that—
-
-&emsp;"(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
-
-&emsp;"(2) are critical to the successful accomplishment of an important research or technology development mission.
-
-"(d)
-
-Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:
-
-&emsp;"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Service Acquisition Executive concerned.
-
-&emsp;"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate ofbasic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of the military department concerned.
-
-"(e)
-
-Limitations.—
-
-&emsp;"(1)
-
-In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
-
-&emsp;"(2)
-
-Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time.
-
-&emsp;"(3)
-
-Term of positions.—The authority in subsection (a) may be used only for positions having a term of less than five years.
-
-"(f)
-
-Termination.—
-
-&emsp;"(1)
-
-In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2021.
-
-&emsp;"(2)
-
-Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2021, of basic pay at rates fixed under this section before that date for positions having terms that continue after that date.
-
-"(g)
-
-Science and Technology Reinvention Laboratories of the Department of Defense Defined.—In this section, the term 'science and technology reinvention laboratories of the Department of Defense' means the laboratories designated as science and technology reinvention laboratories by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 \[Pub. L. 111–84\] (10 U.S.C. 2358 note)."
+\[Pub. L. 116–283, div. A, title XI, §1115(c)(2), Jan. 1, 2021, 134 Stat. 3896, provided that: "The repeal in paragraph (1) \[repealing section 1124 of Pub. L. 114–328, formerly set out above\] shall not be interpreted to prohibit the payment of basic pay at rates fixed under such section 1124 before the date of the enactment of this Act \[Jan. 1, 2021\] for positions having terms that continue after that date."\]
 
 #### Plan for Advanced Weapons Technology War Games
 
-Pub. L. 114–92, div. A, title II, §240, Nov. 25, 2015, 129 Stat. 784, directed the Secretary of Defense to develop, in coordination with the Chairman of the Joint Chiefs of Staff, a plan for integrating advanced weapons and offset technologies into exercises carried out by the military to improve the development and experimentation of various concepts for employment by the Armed Forces and to submit to the Committees on Armed Services of the House of Representatives and the Senate, not later than one year after Nov. 25, 2015, a report on the plan and its implementation.
+Pub. L. 114–92, div. A, title II, §240, Nov. 25, 2015, 129 Stat. 784, directed the Secretary of Defense to develop,in coordination with the Chairman of the Joint Chiefs of Staff, a plan for integrating advanced weapons and offset technologies into exercises carried out by the military to improve the development and experimentation of various concepts for employment by the Armed Forces and to submit to the Committees on Armed Services of the House of Representatives and the Senate, not later than one year after Nov. 25, 2015, a report on the plan and its implementation.
 
 #### Information Operations and Engagement Technology Demonstrations
 
@@ -1618,7 +1688,7 @@ Authorized Projects Described.—The authority provided by subsection (a) to fun
 
 "(e)
 
-Funding Limitation.—The maximum amount of funds appropriated or otherwise made available for research, development, test, and evaluation that may be obligated in any fiscal year for military construction projects under subsection (a) is $150,000,000.
+Funding Limitation.—The maximum amount of funds appropriated or otherwise made available for research, development, test, and evaluation that may beobligated in any fiscal year for military construction projects under subsection (a) is $150,000,000.
 
 "(f)
 
@@ -1730,7 +1800,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'covered individual' means any individual who is employed by a covered entity.
 
-&emsp;"(2) The term 'covered entity' means any non-Federal, nongovernmental entity that, as of the date on which a covered individual employed by the entity is assigned to the Agency under the pilot program, is a nontraditional defense contractor (as defined in section 2302 of title 10, United States Code)."
+&emsp;"(2) The term 'covered entity' means any non-Federal, nongovernmental entity that, as of the date on which a covered individual employed by the entity is assigned to the Agency under the pilot program, is anontraditional defense contractor (as defined in section 2302 of title 10, United States Code)."
 
 #### Temporary Authorities for Certain Positions at Department of Defense Research and Engineering Facilities
 
@@ -1766,119 +1836,43 @@ Pub. L. 110–417, \[div. A\], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, 
 
 #### Hypersonics Development
 
-Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A,title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257, provided that:
+Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A, title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
 
 "(a)
 
-Establishment of Joint Hypersonics Transition Office.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a Joint Hypersonics Transition Office (in this section referred to as the 'Office'). The Office shall carry out the program and activities described in subsections (b) through (f), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
+Establishment of Joint Hypersonics Transition Office.—The Secretary of Defense shall establish within the Office of the Secretary of Defense a Joint Hypersonics Transition Office (in this section referred to as the 'Office'). The Office shall carry out the program and activities described in subsections (b) and (c) and shall have such other responsibilities relating to hypersonics as the Secretary shall specify\[.\]
 
 "(b)
-
-Program on Hypersonics.—The Office shall carry out a program for the development of hypersonics for defense purposes.
-
-"(c)
 
 University Expertise.—
 
 &emsp;"(1)
 
-Arrangement with institutions of higher education.—Using the authority specified in section 217 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2358 note) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which such institutions may provide the Office with—
-
-&emsp;&emsp;"(A) access to research, technology development, and workforce development expertise to support the mission of the Office; and
-
-&emsp;&emsp;"(B) foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense.
+Arrangement with institutions of higher education.—Using the authority specified in section 217 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2358 note) or another similar authority, the Office shall seek to enter into an arrangement with one or more institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which such institutions may provide the Office with foundational and applied hypersonic research, development, and workforce support in areas that the Office determines to be relevant for the Department of Defense.
 
 &emsp;"(2)
 
 Availability of information.—The Office shall ensure that the results of any research and reports produced pursuant to an arrangement under paragraph (1) are made available to the Federal Government, the private sector, academia, and international partners consistent with appropriate security classification guidance.
 
-"(d)
+"(c)
 
-Responsibilities.—In carrying out the program required by subsection (b), the Office shall do the following:
+Responsibilities.—The Office shall do the following:
 
-&emsp;"(1) Expedite testing, evaluation, and acquisition of hypersonic weapon systems to meet the stated needs of the warfighter, including flight testing, ground-based-testing, and underwater launch testing.
+&emsp;"(1) Expedite testing, evaluation, and acquisition of hypersonic technologies to meet the stated needs of the warfighter, including flight testing, ground-based-testing, and underwater launch testing.
 
-&emsp;"(2) Coordinate and integrate current and future research, development, test, and evaluation programs and system demonstration programs of the Department of Defense on hypersonics.
+&emsp;"(2) Ensure prototyping demonstration programs on hypersonic systems integrate advanced technologies to speed the maturation and deployment of future hypersonic systems.
 
-&emsp;"(3) Undertake appropriate actions to ensure—
+&emsp;"(3) Ensure that any demonstration program on hypersonic systems is carried out only if determined to be consistent with the roadmap for the relevant critical technology area supportive of the National Defense Strategy, as developed by the senior official with responsibility for such area under section 217 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; 10 U.S.C. 4001 note\].
 
-&emsp;&emsp;"(A) close and continuous integration of the programs on hypersonics of the military departments and the Defense Agencies with the programs on hypersonics across the Federal Government and with appropriate private sector and foreign organizations; and
+&emsp;"(4) Develop strategies and roadmaps for hypersonic technologies to enable the transition of such technologies to future operational capabilities for the warfighter.
 
-&emsp;&emsp;"(B) that both foundational research and developmental and operational testing resources are adequate and well funded, and that facilities are made available in a timely manner to support hypersonics research, demonstration programs, and system development.
+&emsp;"(5) Develop and implement a strategy for enhancing the current and future hypersonics workforce.
 
-&emsp;"(4) Approve prototyping demonstration programs on hypersonic systems to speed the maturation and deployment of the systems to the warfighter.
-
-&emsp;"(5) Ensure that any demonstration program on hypersonic systems that is carried out in any year after its approval under paragraph (3) is carried out only if certified under subsection (f) as being consistent with the roadmap under subsection (e).
-
-&emsp;"(6) Develop strategies and roadmaps for hypersonic technologies to transition to operational capabilities for the warfighter.
-
-&emsp;"(7) Coordinate with relevant stakeholders and agencies to support United States technological advantage in developing hypersonics.
-
-"(e)
-
-Roadmap.—
-
-&emsp;"(1)
-
-Roadmap required.—The Office shall develop, and every two years revise, a roadmap for the hypersonics programs of the Department of Defense.
-
-&emsp;"(2)
-
-Coordination.—The roadmap shall be developed and revised under paragraph (1) in coordination with the Joint Staff and in consultation with the National Aeronautics and Space Administration.
-
-&emsp;"(3)
-
-Elements.—The roadmap shall include the following matters:
-
-&emsp;&emsp;"(A) Anticipated or potential mission requirements for hypersonics.
-
-&emsp;&emsp;"(B) Short-term, mid-term, and long-term goals for the Department of Defense on hypersonics, which shall be consistent with the missions and anticipated requirements of the Department over the applicable period.
-
-&emsp;&emsp;"(C) A schedule for meeting such goals, including—
-
-&emsp;&emsp;&emsp;"(i) the activities and funding anticipated to be required for meeting such goals; and
-
-&emsp;&emsp;&emsp;"(ii) the activities of the National Aeronautics and Space Administration to be leveraged by the Department to meet such goals.
-
-&emsp;&emsp;"(D) The test and evaluation facilities required to support the activities identified in subparagraph (C), along with the schedule and funding required to upgrade those facilities, as necessary.
-
-&emsp;&emsp;"(E) Acquisition transition plans for hypersonics.
-
-&emsp;"(4)
-
-Submittal to congress.—
-
-&emsp;&emsp;"(A)
-
-Initial submission.—Not later than 180 days after the date of the enactment of this paragraph, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the most recent roadmap developed under paragraph (1).
-
-&emsp;&emsp;"(B)
-
-Subsequent submissions.—The Secretary of Defense shall submit to the congressional defense committees each roadmap revised under paragraph (1) together with the budget submitted to Congress under section 1105 of title 31, United States Code, for the fiscal year concerned.
-
-"(f)
-
-Annual Review and Certification of Funding.—
-
-&emsp;"(1)
-
-Annual review.—The Office shall conduct on an annual basis a review of—
-
-&emsp;&emsp;"(A) the funding available for research, development, test, and evaluation and demonstration programs within the Department of Defense for hypersonics, in order to determine whether or not such funding is consistent with the roadmap developed under subsection (e); and
-
-&emsp;&emsp;"(B) the hypersonics demonstration programs of the Department, in order to determine whether or not such programs avoid duplication of effort and support the goals of the Department in a manner consistent with the roadmap developed under subsection (e).
-
-&emsp;"(2)
-
-Certification.—The Office shall, as a result of each review under paragraph (1), certify to the Secretary whether or not the funding and programs subject to such review are consistent with the roadmap developed under subsection (e).
-
-&emsp;"(3)
-
-Termination.—The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2026 pursuant to section 1105 of title 31, United States Code."
+&emsp;"(6) Coordinate with relevant stakeholders and agencies to support the technological advantage of the United States in developing hypersonic systems."
 
 #### Collaborative Program for Research and Development of Vacuum Electronics Technologies
 
-Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(iii), Jan. 2, 2013, 126 Stat. 1950, directed the Secretary of Defense to establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems, to be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense, and directed the Assistant Secretary of Defense for Research and Engineering to submit to the congressionaldefense committees, no later than Jan. 31, 2005, a report on the implementation of the program.
+Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(iii), Jan. 2, 2013, 126 Stat. 1950, directed the Secretary of Defense to establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems, to be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense, and directed the Assistant Secretary of Defense for Research and Engineering to submit to the congressional defense committees, no later than Jan. 31, 2005, a report on the implementation of the program.
 
 #### Department of Defense Program To Expand High-Speed, High-Bandwidth Capabilities for Network-Centric Operations
 
@@ -2018,7 +2012,7 @@ Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as ame
 
 #### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
 
-Pub. L. 107–314, div. A, title II, §241, Dec. 2, 2002, 116 Stat. 2492, which authorized the Secretary of Defense to carry out an additional pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(29), Aug. 13, 2018, 132 Stat. 1849.
+Pub. L. 107–314, div. A, title II, §241, Dec. 2, 2002, 116 Stat. 2492, which authorized the Secretary of Defense to carry out an additional pilot program to demonstrateimproved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(29), Aug. 13, 2018, 132 Stat. 1849.
 
 Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, as amended by Pub. L. 107–314, div. A, title II, §241(d)(2), Dec. 2, 2002, 116 Stat. 2493, authorized the Secretary of Defense to carry out a pilot program for up to five years beginning not later than Mar. 1, 2000, to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense, and directed the Secretary to submit to Congress a report on the implementation of the program not later than Mar. 1, 2000, and a final report promptly after the expiration of the period for participation in the program.
 
@@ -2026,7 +2020,7 @@ Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as am
 
 #### Defense Established Program To Stimulate Competitive Research
 
-Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, as amended by Pub. L. 115–91, div. A, title II, §219(e)(3), Dec. 12, 2017, 131 Stat. 1331, provided that: "For the purposes of implementing the 1997 Defense Established Program to Stimulate Competitive Research (DEPSCoR), the term 'State' means a State of theUnited States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands."
+Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, as amended by Pub. L. 115–91, div. A, title II, §219(e)(3), Dec. 12, 2017, 131 Stat. 1331, provided that: "For the purposes of implementing the 1997 Defense Established Program to Stimulate Competitive Research (DEPSCoR), the term 'State' means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands."
 
 Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502; Pub. L. 110–181, div. A, title II, §239, Jan. 28, 2008, 122 Stat. 48; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(v), Jan. 2, 2013, 126 Stat. 1950; Pub. L. 115–91, div. A, title II, §219(a)–(e)(1), Dec. 12, 2017, 131 Stat. 1330, 1331, provided that:
 
@@ -2082,7 +2076,7 @@ State Defined.—In this section, the term 'State' means a State of the United S
 
 #### Defense Laboratories Personnel Demonstration Projects
 
-Pub. L. 111–84, div. A, title XI, §1105, Oct. 28, 2009, 123 Stat. 2486, as amended by Pub. L. 113–291, div. A, title XI, §1103, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 115–91, div. A, title XI, §1104, Dec. 12, 2017, 131 Stat. 1629, provided that:
+Pub. L. 111–84, div. A, title XI, §1105, Oct. 28, 2009, 123 Stat. 2486, as amended by Pub. L. 113–291, div. A, title XI, §1103, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 115–91, div.A, title XI, §1104, Dec. 12, 2017, 131 Stat. 1629, provided that:
 
 "(a)
 
@@ -2196,7 +2190,7 @@ Definition.—For purposes of this subsection, the term 'demonstration laborator
 
 \[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1107(d) of Pub. L. 110–181, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
-Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654, 1654A–315; Pub. L. 114–328, div. A, title II, §211(f), formerly §211(e), Dec. 23, 2016, 130 Stat. 2047, redesignated §211(f), Pub. L. 115–91, div. A, title II, §218(a)(3), Dec. 12, 2017, 131 Stat. 1330; Pub. L. 115–91, div. A, title II, §218(b)(2), Dec. 12, 2017, 131 Stat. 1330, provided that:
+Pub. L. 103–337, div. A, title III, §342(b), Oct. 5, 1994, 108 Stat. 2721, as amended by Pub. L. 106–65, div. A, title XI, §1109, Oct. 5, 1999, 113 Stat. 779; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1114\], Oct. 30, 2000, 114 Stat. 1654,1654A–315; Pub. L. 114–328, div. A, title II, §211(f), formerly §211(e), Dec. 23, 2016, 130 Stat. 2047, redesignated §211(f), Pub. L. 115–91, div. A, title II, §218(a)(3), Dec. 12, 2017, 131 Stat. 1330; Pub. L. 115–91, div. A, title II, §218(b)(2), Dec. 12, 2017, 131 Stat. 1330, provided that:
 
 "(1) The Secretary of Defense may carry out personnel demonstration projects at Department of Defense laboratories designated by the Secretary as Department of Defense science and technology reinvention laboratories.
 
@@ -2280,7 +2274,7 @@ Pub. L. 91–441, title II, §203, Oct. 7, 1970, 84 Stat. 906, as amended by Pub
 
 #### Relationship of Research Projects or Studies to Military Function or Operation
 
-Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908, which provided that no funds authorized to be appropriated to the Department of Defense by this or any other Act may be used to finance any research project or study unless such project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation, was repealed and restated in subsec. (b) of this section by Pub. L. 100–370, §1(g)(3)(C), (5), July 19, 1988, 102 Stat. 847.
+Pub. L. 91–441, title II, §204, Oct. 7, 1970, 84 Stat. 908, which provided that no funds authorized to be appropriated to the Department of Defense by this or any other Act may be used to finance any research project or study unless such project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation, was repealedand restated in subsec. (b) of this section by Pub. L. 100–370, §1(g)(3)(C), (5), July 19, 1988, 102 Stat. 847.
 
 #### Herbicides and Defoliation Program; Comprehensive Study and Investigation; Report by January 31, 1972; Transmittal to President and Congress by March 1, 1972
 
@@ -2292,7 +2286,7 @@ Pub. L. 92–436, title VI, §606, Sept. 29, 1972, 86 Stat. 740, provided that:
 
 "(a) No part of the funds appropriated pursuant to this or any other Act for the Department of Defense or any of the Armed Forces may be used at any institution of higher learning if the Secretary of Defense or his designee determines that recruiting personnel of any of the Armed Forces of the United States are being barred by the policy of such institution from the premises of the institution: except in a case where the Secretary of the service concerned certifies to the Congress in writing that a specific course of instruction is not available at any other institution of higher learning and furnishes to the Congress the reasons why such course of instruction is of vital importance to the security of the United States.
 
-"(b) The prohibition made by subsection (a) of this section as it applies to research and development fundsshall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
+"(b) The prohibition made by subsection (a) of this section as it applies to research and development funds shall not apply if the Secretary of Defense or his designee determines that the expenditure is a continuation or a renewal of a previous program with such institution which is likely to make a significant contribution to the defense effort.
 
 "(c) The Secretaries of the military departments shall furnish to the Secretary of Defense or his designee within 60 days after the date of enactment of this Act \[Sept. 29, 1972\] and each January 31 and June 30 thereafter the names of any institution of higher learning which the Secretaries determine on such dates are affected by the prohibitions contained in this section."
 

@@ -286,7 +286,7 @@ In entering into agreements described in subsection (c), the Secretary—
 
 #### References in Text
 
-The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, whichis classified generally to this chapter (§1691 et seq.). Title I of the Act is classified to subchapter II (§1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 

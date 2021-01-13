@@ -184,7 +184,7 @@ Subsec. (b)(13). Pub. L. 112–239, §1699(c)(1), struck out "and the National V
 
 Subsec. (a)(3)(B). Pub. L. 112–81, §513, inserted "or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible," after "or separation date,".
 
-Subsec. (b)(5). Pub. L. 112–81, §529(1), substituted "inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provisionof information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs" for "job placement counseling for the spouse".
+Subsec. (b)(5). Pub. L. 112–81, §529(1), substituted "inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs" for "job placement counseling for the spouse".
 
 Subsec. (b)(8). Pub. L. 112–81, §533(c), inserted before period at end "and the availability to the member and dependents of suicide prevention resources following separation from the armed forces".
 
@@ -212,7 +212,7 @@ Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted "Federal" for "
 
 Subsec. (b)(11) to (17). Pub. L. 109–163, §594(2), added pars. (11) to (17).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member."
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, firstsentence read as follows: "As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member."
 
 Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
@@ -274,7 +274,7 @@ Modification of Form DD–2648.—The Secretary of Defense shall make such modif
 
 "(d)
 
-Voluntary Participation.—Information on an individual may be transmitted to and through a State veterans agency as described in subsection (a) onlywith the consent of the individual. In giving such consent, an individual shall specify the following:
+Voluntary Participation.—Information on an individual may be transmitted to and through a State veterans agency as described in subsection (a) only with the consent of the individual. In giving such consent, an individual shall specify the following:
 
 &emsp;"(1) The State veterans agency or agencies elected by the individual to transmit such information as described in subsection (a).
 

@@ -32,6 +32,8 @@ In this chapter:
 
 (Pub. L. 108–333, §5, Oct. 18, 2004, 118 Stat. 1290; Pub. L. 110–346, §4, Oct. 7, 2008, 122 Stat. 3941.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (1)(A). Pub. L. 110–346 substituted "Foreign Affairs" for "International Relations".

@@ -1,6 +1,6 @@
 ### §3. Regulations to prevent injuries from target practice
 
-\[Authority to adopt regulations.\] In the interest of the national defense, and for the better protection of life and property on the navigable waters of the United States, the Secretary of the Army is authorized and empowered to prescribe such regulations as he may deem best for the use and navigation of any portion or area of the navigable waters of the United States or waters under the jurisdiction of the United States endangered or likely to be endangered by Artillery fire in target practice or otherwise, or by the proving operations of the Government ordnanceproving grounds at Sandy Hook, New Jersey, or at any Government ordnance proving ground that may be established elsewhere on or near such waters, and of any portion or area of said waters occupied by submarine mines, mine fields, submarine cables, or other material and accessories pertaining to seacoast fortifications, or by any plant or facility engaged in the execution of any public project of river and harbor improvement; and the said Secretary shall have like power to regulate the transportation of explosives upon any of said waters: <i>Provided</i>, That the authority conferred shall be so exercised as not unreasonably to interfere with or restrict the food fishing industry, and the regulations prescribed in pursuance hereof shall provide for the use of such waters by food fishermen operating under permits granted by the Department of the Army.
+\[Authority to adopt regulations.\] In the interest of the national defense, and for the better protection of life and property on the navigable waters of the United States, the Secretary of the Army is authorized and empowered to prescribe such regulations as he may deem best for the use and navigation of any portion or area of the navigable waters of the United States or waters under the jurisdiction of the United States endangered or likely to be endangered by Artillery fire in target practice or otherwise, or by the proving operations of the Government ordnance proving grounds at Sandy Hook, New Jersey, or at any Government ordnance proving ground that may be established elsewhere on or near such waters, and of any portion or area of said waters occupied by submarine mines, mine fields, submarine cables, or other material and accessories pertaining to seacoast fortifications, or by any plant or facility engaged in the execution of any public project of river and harbor improvement; and the said Secretary shall have like power to regulate the transportation of explosives upon any of said waters: <i>Provided</i>, That the authority conferred shall be so exercised as not unreasonably to interfere with or restrict the food fishing industry, and the regulations prescribed in pursuance hereof shall provide for the use of such waters by food fishermen operating under permits granted by the Department of the Army.
 
 \[Detail of vessels to enforce regulations.\] To enforce the regulations prescribed pursuant to this section, the Secretary of the Army, may detail any public vessel in the service of the Department of the Army, or, upon the request of the Secretary of the Army, the head of any other department may enforce, and the head of any such department is authorized to enforce, such regulations by means of any public vessel of such department.
 
@@ -10,17 +10,23 @@
 
 (July 9, 1918, ch. 143, subch. XIX, §§1–4, 40 Stat. 892, 893; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Undesignated pars. 1 to 4 of this section are from sections 1 to 4, respectively, of act July 9, 1918, popularly known as the "Army Appropriation Act of 1919".
 
 Undesignated pars. 1 and 2 of this section superseded similar provisions of act Aug. 8, 1917, ch. 49, §8, 40 Stat. 266.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 Coast Artillery changed to Artillery under authority of section 306(a) of act June 28, 1950, ch. 383, title III, 64 Stat. 269. Section 306(a) of act June 28, 1950 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in section 3063 continued the Artillery as a basic branch of the Army.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

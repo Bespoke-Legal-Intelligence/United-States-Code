@@ -98,11 +98,11 @@ For the purposes of this part—
 
 &emsp;(B) technical assistance in connection with any such undertaking and technical assistance as described in paragraph (17)(A).
 
-(16) The term "energy conservation project costs" includes only costs incurred in the design, acquisition, construction, and installation of energy conservation measures and technical assistance costs.
+(16) The term "energy conservation project costs" includes only costs incurred in the design, acquisition, construction, and installationof energy conservation measures and technical assistance costs.
 
 (17) The term "technical assistance" means assistance, under rules promulgated by the Secretary, to States, schools, and hospitals—
 
-&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as aresult of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
+&emsp;(A) to conduct specialized studies identifying and specifying energy savings or energy cost savings that are likely to be realized as a result of (i) modification of maintenance and operating procedures in a building, or (ii) the acquisition and installation of one or more specified energy conservation measures in such building, or (iii) both, and
 
 &emsp;(B) the planning or administration of specific remodeling, renovation, repair, replacement, or insulation projects related to the installation of energy conservation measures in such building.
 

@@ -14,7 +14,7 @@
 - [&sect; 00416 - Advisory Council](%C2%A7%2000416%20-%20Advisory%20Council.md)
 - [&sect; 00416a - Resident Advisory Committees](%C2%A7%2000416a%20-%20Resident%20Advisory%20Committees.md)
 - [&sect; 00417 - Administrators, Ombudsmen, and staff of facilities](%C2%A7%2000417%20-%20Administrators%2C%20Ombudsmen%2C%20and%20staff%20of%20facilities.md)
-- [&sect; 00418 - Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors](%C2%A7%2000418%20-%20Periodic%20inspection%20of%20retirement%20home%20facilities%20by%20Department%20of%20Defense%20Inspector%20General%20and%20outside%20inspectors.md)
+- [&sect; 00418 - Periodic inspection of retirement home facilities](%C2%A7%2000418%20-%20Periodic%20inspection%20of%20retirement%20home%20facilities.md)
 - [&sect; 00419 - Armed Forces Retirement Home Trust Fund](%C2%A7%2000419%20-%20Armed%20Forces%20Retirement%20Home%20Trust%20Fund.md)
 - [&sect; 00420 - Disposition of effects of deceased persons; unclaimed property](%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md)
 - [&sect; 00421 - Payment of residents for services](%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md)

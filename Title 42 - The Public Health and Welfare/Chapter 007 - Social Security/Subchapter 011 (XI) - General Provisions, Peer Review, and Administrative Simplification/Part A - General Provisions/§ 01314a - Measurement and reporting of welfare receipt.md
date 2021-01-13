@@ -122,7 +122,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 This section may be cited as the "Welfare Indicators Act of 1994".
 
-(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV,§4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
 #### References in Text
 

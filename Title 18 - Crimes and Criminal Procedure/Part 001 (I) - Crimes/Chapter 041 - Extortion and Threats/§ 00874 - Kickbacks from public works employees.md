@@ -10,6 +10,8 @@ Based on section 276b of title 40, U.S.C., 1940 ed., Public Buildings, Property,
 
 Slight changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

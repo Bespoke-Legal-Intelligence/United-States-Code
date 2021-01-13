@@ -4,7 +4,7 @@
 
 The United States Marshals Service's National Sex Offender Targeting Center may—
 
-&emsp;(1) transmit notification of international travel of a sex offender to the destinationcountry of the sex offender, including to the visa-issuing agent or agents in the United States of the country;
+&emsp;(1) transmit notification of international travel of a sex offender to the destination country of the sex offender, including to the visa-issuing agent or agents in the United States of the country;
 
 &emsp;(2) share information relating to traveling sex offenders with other Federal, State, local, and foreign agencies and entities, as appropriate;
 
@@ -101,6 +101,8 @@ In this section, the term "sex offender" means—
 &emsp;(2) a person required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry.
 
 (Pub. L. 114–119, §5, Feb. 8, 2016, 130 Stat. 20.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -82,10 +82,6 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
-#### Delegation of Functions
-
-Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
-
 #### Availability of Funds
 
 Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\]."
@@ -99,4 +95,8 @@ Pub. L. 108–199, div. A, title VII, §724, Jan. 23, 2004, 118 Stat. 34.
 Pub. L. 108–7, div. A, title VII, §727, Feb. 20, 2003, 117 Stat. 42.
 
 Pub. L. 107–76, title VII, §730, Nov. 28, 2001, 115 Stat. 736.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 

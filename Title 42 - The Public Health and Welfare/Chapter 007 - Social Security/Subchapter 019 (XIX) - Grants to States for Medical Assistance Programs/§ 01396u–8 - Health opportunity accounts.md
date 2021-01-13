@@ -216,7 +216,7 @@
 
 #### (i) State contribution
 
-&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III),but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
+&emsp;&emsp;&emsp;A State may contribute under subparagraph (A)(i) amounts to a health opportunity account in excess of the limitations provided under subparagraph (C)(i)(III), but no Federal financial participation shall be provided under section 1396b(a) of this title with respect to contributions in excess of such limitations.
 
 #### (ii) No FFP for private contributions
 
@@ -268,7 +268,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be available for the purchase of health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
+&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures\(such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
 
 #### (iii) Exception from 25 percent savings to Government for private contributions
 

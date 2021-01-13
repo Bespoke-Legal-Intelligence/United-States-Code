@@ -80,7 +80,7 @@ Notwithstanding any other provision of this subchapter, ambulatory prenatal care
 
 If the State has elected the option to provide a presumptive eligibility period under this section or section 1396r–1a of this title, the State may elect to provide a presumptive eligibility period (as defined in subsection (b)(1)) for individuals who are eligible for medical assistance under clause (i)(VIII), clause (i)(IX), or clause (ii)(XX) of subsection (a)(10)(A) <sup>1</sup> or section 1396u–1 of this title in the same manner as the State provides for such a period under this section or section 1396r–1a of this title, subject to such guidance as the Secretary shall establish.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34; Pub. L. 111–148, title II, §§2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, 124 Stat. 274, 279, 283.)
+(Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34; Pub. L. 111–148, title II, §§2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, 124 Stat. 274, 279, 283.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Pub. L. 101–508, title IV, §4605(c), Nov. 5, 1990, 104 Stat. 1388–169, prov
 
 "(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\]."
+"(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus BudgetReconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\]."
 
 #### Effective Date of 1988 Amendments
 

@@ -32,9 +32,13 @@ Historical and Revision Notes
 
 Pub. L. 99–652, §1, Nov. 14, 1986, 100 Stat. 3650.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Par. (2). Pub. L. 108–126 substituted "Columbia and its environs, and to encourage the location of commemorative works within the urban fabric of the District of Columbia;" for "Columbia;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

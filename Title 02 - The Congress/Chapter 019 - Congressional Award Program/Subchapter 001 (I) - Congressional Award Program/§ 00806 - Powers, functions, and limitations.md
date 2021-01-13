@@ -22,7 +22,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assist such council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
 
-&emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
+&emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils,particularly in inner-city areas and rural areas;
 
 &emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreach activities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
 
@@ -98,7 +98,7 @@ The Board shall have no power—
 
 #### (i) Congressional Award Foundation
 
-(1) The Board shall provide for the incorporation of a nonprofit corporation to be known as the Congressional Award Foundation (together with any subsidiary nonprofit corporations determined desirable by the Board, collectively referred to in this subchapter as the "Corporation") for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the Corporation such duties as it considers appropriate, including the employment of personnel, expenditure of funds, and the incurrence of financial or other contractual obligations.
+(1) The Board shall provide for the incorporation of a nonprofit corporation to be known as the Congressional Award Foundation (together with any subsidiary nonprofit corporations determined desirable by the Board, collectively referred to in this subchapter as the "Corporation") for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the Corporation such duties as it considers appropriate, including the employment of personnel, expenditure of funds,and the incurrence of financial or other contractual obligations.
 
 (2) The articles of incorporation of the Congressional Award Foundation shall provide that—
 
@@ -109,6 +109,8 @@ The Board shall have no power—
 (3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
 
 (Pub. L. 96–114, title I, §106, formerly §7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, §4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, §2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, §106, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(d)–(g), July 7, 2010, 124 Stat. 1369.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

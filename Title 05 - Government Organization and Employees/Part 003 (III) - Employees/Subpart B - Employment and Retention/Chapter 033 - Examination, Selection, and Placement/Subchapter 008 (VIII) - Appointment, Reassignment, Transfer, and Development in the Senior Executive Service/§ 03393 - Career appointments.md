@@ -32,6 +32,8 @@
 
 (Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161; amended Pub. L. 97–35, title XVII, §1704(c), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §306(b)(1), Nov. 8, 1984, 98 Stat. 3220; Pub. L. 101–12, §9(b), Apr. 10, 1989, 103 Stat. 35; Pub. L. 101–194, title V, §506(b)(2), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(1), May 4, 1990, 104 Stat. 160; Pub. L. 107–296, title XIII, §1321(a)(1)(A), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 114–92, div. A, title XI, §1105(c)(2), Nov. 25, 2015, 129 Stat. 1024.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1057, which related to limitations concerning part-time career employment opportunities, was renumbered as section 3403 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
@@ -52,6 +54,8 @@ Pub. L. 101–12 substituted "1215" for "1207".
 
 <b>1981</b>—Subsec. (g). Pub. L. 97–35 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -64,7 +68,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–615, title III, §307, Nov. 8, 1984, 98 Stat. 3220, provided that: "The amendments made by this title \[enacting section 3595a of this title, amending this section and sections 3135, 3593 to 3595, 4312, 5383, and 5384 of this title, and enacting provisions set out as a noteunder section 3131 of this title\] shall be effective following the expiration of the 90-day period beginning on the date of enactment of this Act \[Nov. 8, 1984\], except that the amendments made by section 304 \[amending sections 3395, 3595, 7543, and 8336 of this title\] shall be effective as of such date of enactment."
+Pub. L. 98–615, title III, §307, Nov. 8, 1984, 98 Stat. 3220, provided that: "The amendments made by this title \[enacting section 3595a of this title, amending this section and sections 3135, 3593 to 3595, 4312, 5383, and 5384 of this title, and enacting provisions set out as a note under section 3131 of this title\] shall be effective following the expiration of the 90-day period beginning on the date of enactment of this Act \[Nov. 8, 1984\], except that the amendments made by section 304 \[amending sections 3395, 3595, 7543, and 8336 of this title\] shall be effective as of such date of enactment."
 
 #### Effective Date of 1981 Amendment
 
@@ -76,7 +80,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 #### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
 
-Pub. L. 115–232, div. A, title XI, §1109, Aug. 13, 2018, 132 Stat. 2010, provided that:
+Pub. L. 115–232, div. A, title XI, §1109, Aug. 13, 2018, 132 Stat. 2010, as amended by Pub. L. 116–283, div. A, title XI, §1118, Jan. 1, 2021, 134 Stat. 3897, provided that:
 
 "(a)
 
@@ -128,7 +132,7 @@ Committees of congress and official.—The committees of Congress and official s
 
 "(e)
 
-Sunset.—Subsection (a) shall cease to be effective on the date that is two years after the date of the enactment of this Act."
+Sunset.—Subsection (a) shall cease to be effective on August 13, 2023."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

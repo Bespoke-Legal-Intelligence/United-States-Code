@@ -10,7 +10,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;A consortium of geographically contiguous units of general local government shall be deemed to be a unit of general local government for purposes of this subchapter if the Secretary determines that the consortium—
 
-&emsp;&emsp;(A) has sufficient authority and administrative capability to carry out the purposesof this subchapter on behalf of its member jurisdictions, and
+&emsp;&emsp;(A) has sufficient authority and administrative capability to carry out the purposes of this subchapter on behalf of its member jurisdictions, and
 
 &emsp;&emsp;(B) will, according to a written certification by the State (or States, if the consortium includes jurisdictions in more than one State), direct its activities to alleviation of housing problems within the State or States.
 

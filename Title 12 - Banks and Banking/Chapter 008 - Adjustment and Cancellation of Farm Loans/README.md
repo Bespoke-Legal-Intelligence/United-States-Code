@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 For provisions similar to former chapter 8 of this title, relating to federal intermediate credit banks, see Part A (§2071 et seq.) of subchapter II of chapter 23 of this title.

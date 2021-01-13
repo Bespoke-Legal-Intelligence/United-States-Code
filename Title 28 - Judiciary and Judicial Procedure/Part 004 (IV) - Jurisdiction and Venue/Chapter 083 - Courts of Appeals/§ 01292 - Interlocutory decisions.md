@@ -16,7 +16,7 @@
 
 &emsp;(2) of an appeal from a judgment in a civil action for patent infringement which would otherwise be appealable to the United States Court of Appeals for the Federal Circuit and is final except for an accounting.
 
-(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
+(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United StatesCourt of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
 (2) When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims, in issuing an interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
@@ -58,13 +58,15 @@ The District Court for the District of Puerto Rico is not enumerated in section 
 
 Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 1291 and 1294 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted "When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims" for "When any judge of the United States Claims Court".
 
 Subsec. (d)(3). Pub. L. 102–572, §902(b)(2), substituted "Court of Federal Claims" for "Claims Court" in two places.
 
-Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted "United States Court of Federal Claims" for "United States Claims Court" in subpar. (A) and "Court of Federal Claims" for "Claims Court" in two places in subpar. (B).
+Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted "United States Court of Federal Claims" for "UnitedStates Claims Court" in subpar. (A) and "Court of Federal Claims" for "Claims Court" in two places in subpar. (B).
 
 Subsec. (e). Pub. L. 102–572, §101, added subsec. (e).
 
@@ -85,6 +87,8 @@ Subsecs. (c), (d). Pub. L. 97–164, §125(b), added subsecs. (c) and (d).
 Par. (1). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which established a United States District Court for the State of Alaska.
 
 <b>1951</b>—Par. (1). Act Oct. 31, 1951, inserted reference to District Court of Guam.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

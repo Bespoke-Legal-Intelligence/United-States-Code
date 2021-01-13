@@ -8,6 +8,8 @@ The Secretary may effect the deferments hereunder subject to such conditions and
 
 (Aug. 4, 1939, ch. 418, §17, 53 Stat. 1198; Apr. 24, 1945, ch. 94, §3, 59 Stat. 76; Pub. L. 85–611, §3, Aug. 8, 1958, 72 Stat. 543; Pub. L. 86–308, §1, Sept. 21, 1959, 73 Stat. 584.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–308 made permanent the Secretary's authority to grant deferments in payment of installments of construction charges under repayment contracts.
@@ -18,7 +20,9 @@ The Secretary may effect the deferments hereunder subject to such conditions and
 
 Subsec. (b). Act Apr. 24, 1945, authorized Secretary, subject to provisions of this subsection, to defer the time for the payment of such part of any installments of construction charges under any repayment contract or other form of obligation that are due and unpaid as of Apr. 24, 1945, or which would become due prior to the expiration of authority under subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Applicability to Other Irrigation Projects
 
-Pub. L. 86–308, §3, Sept. 21, 1959, 73 Stat. 585, provided that: "The provisions of section 17, subsection (b), of the Reclamation Project Act of 1939 \[subsec. (b) of this section\], as amended by section 1 of this Act, shall apply to any project within the administrative jurisdiction of the Bureau of Reclamation to which, if it had been constructed as a project under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 383) and Acts amendatory thereof or supplementary thereto \[see Short Title note set out under section 371 of this title\]), these provisions would be applicable."
+Pub. L. 86–308, §3, Sept. 21, 1959, 73 Stat. 585, provided that: "The provisions of section 17, subsection (b), of the Reclamation Project Act of 1939 \[subsec. (b) of thissection\], as amended by section 1 of this Act, shall apply to any project within the administrative jurisdiction of the Bureau of Reclamation to which, if it had been constructed as a project under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 383) and Acts amendatory thereof or supplementary thereto \[see Short Title note set out under section 371 of this title\]), these provisions would be applicable."
 

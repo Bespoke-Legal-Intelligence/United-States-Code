@@ -16,9 +16,13 @@
 
 (Added Pub. L. 109–8, title II, §232(a), Apr. 20, 2005, 119 Stat. 73; amended Pub. L. 111–16, §2(3), May 7, 2009, 123 Stat. 1607.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–16 substituted "7 days" for "5 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

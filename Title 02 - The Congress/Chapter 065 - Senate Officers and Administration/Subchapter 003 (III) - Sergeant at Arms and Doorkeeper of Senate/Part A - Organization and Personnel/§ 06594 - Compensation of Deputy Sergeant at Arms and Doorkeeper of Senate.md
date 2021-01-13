@@ -1,8 +1,10 @@
 ### §6594. Compensation of Deputy Sergeant at Arms and Doorkeeper of Senate
 
-Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at anannual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
+Effective August 1, 1979, the Sergeant at Arms and Doorkeeper may fix the compensation of the Deputy Sergeant at Arms and Doorkeeper at an annual rate not to exceed the maximum annual rate of compensation of the Assistant Secretary of the Senate.
 
 (Pub. L. 94–226, §1(a), Mar. 9, 1976, 90 Stat. 203; Pub. L. 96–38, title I, §106(1), July 25, 1979, 93 Stat. 112.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ Section was formerly classified to section 61e–1 of this title prior to editor
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–38 raised the maximum annual rate of compensation of Deputy Sergeant at Arms and Doorkeeper of Senate to a rate the same as the maximum annual rate of compensation of Assistant Secretary of Senate.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

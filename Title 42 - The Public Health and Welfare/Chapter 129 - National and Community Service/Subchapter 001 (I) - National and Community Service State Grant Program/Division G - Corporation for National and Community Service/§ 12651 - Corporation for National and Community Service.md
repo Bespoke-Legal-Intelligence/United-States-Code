@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 "(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such furthermeasures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 "(7)
 
@@ -132,7 +132,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;"(B)
 
-Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding couldhave been discontinued or modified if this subsection had not been enacted.
+Proceedings not affected.—The provisions of this subsection shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the ACTION Agency at the time this subsection takes effect, with respect to functions transferred by this subsection. Such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subsection had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subsection had not been enacted.
 
 &emsp;"(C)
 
@@ -364,7 +364,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
 
-(v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
+(v) make recommendations from time to time to the President, through the Director of the USA FreedomCorps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
 
 Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information and assistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
 

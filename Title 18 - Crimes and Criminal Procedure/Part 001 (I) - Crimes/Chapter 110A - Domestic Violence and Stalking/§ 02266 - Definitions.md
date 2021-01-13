@@ -44,7 +44,7 @@ Spouse or intimate partner.—The term "spouse or intimate partner" includes—
 
 &emsp;&emsp;&emsp;(ii) section 2261A—
 
-&emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of thestalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
+&emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interaction between the persons involved in the relationship.<sup>1</sup>
 
@@ -81,6 +81,8 @@ Emotional support animal.—The term "emotional support animal" means an animal 
 Service animal.—The term "service animal" has the meaning given the term in section 36.104 of title 28, Code of Federal Regulations (or a successor regulation).
 
 (Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1931; amended Pub. L. 106–386, div. B, title I, §1107(d), Oct. 28, 2000, 114 Stat. 1499; Pub. L. 109–162, title I, §§106(d), 116(b), Jan. 5, 2006, 119 Stat. 2982, 2988; Pub. L. 109–271, §2(c), (i), Aug. 12, 2006, 120 Stat. 752; Pub. L. 115–334, title XII, §12502(a)(4), Dec. 20, 2018, 132 Stat. 4983.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

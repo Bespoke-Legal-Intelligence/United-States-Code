@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to park and secure wheelchairs (to accommodate individuals who wish to remain in their wheelchairs) equal to not less than one-half of the number of single-level rail passenger coaches in such train; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to fold and store wheelchairs (to accommodate individuals who wish to transfer to coach seats) equal to not less than one-half of the number of single-level rail passenger coaches in such train,
+&emsp;&emsp;&emsp;&emsp;(II) to fold and store wheelchairs (to accommodate individuals who wish totransfer to coach seats) equal to not less than one-half of the number of single-level rail passenger coaches in such train,
 
 &emsp;&emsp;&nbsp;as soon as practicable, but in no event later than 5 years after July 26, 1990; and
 
@@ -182,7 +182,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (ii) Alterations to a primary function area
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for theresponsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
 
 #### (C) Required cooperation
 

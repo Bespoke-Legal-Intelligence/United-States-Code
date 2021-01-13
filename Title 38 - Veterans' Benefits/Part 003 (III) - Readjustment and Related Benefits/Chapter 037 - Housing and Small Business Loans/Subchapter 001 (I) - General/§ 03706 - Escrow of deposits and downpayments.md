@@ -1,10 +1,12 @@
 ### §3706. Escrow of deposits and downpayments
 
-(a) Any deposit or downpayment made by an eligible veteran in connection with the purchase of proposed or newly constructed and previously unoccupied residential property in a project on which the Secretary has issued a Certificate of Reasonable Value, which purchase is to be financed with a loan guaranteed, insured, or made under the provisions of this chapter, shall be deposited forthwith by the seller, or the agent of the seller, receiving such deposit or payment, in a trust account to safeguard such deposit or payment from the claims of creditors of the seller. The failure of the seller or the seller's agent to create such trust account and to maintain it until the deposit or payment has been disbursed for the benefit of the veteran purchaser at settlement or, if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract, may constitute an unfair marketing practice within the meaning of section 3704(b) of this title.
+(a) Any deposit or downpayment made by an eligible veteran in connection with the purchase of proposed or newly constructed and previously unoccupied residential property in a project onwhich the Secretary has issued a Certificate of Reasonable Value, which purchase is to be financed with a loan guaranteed, insured, or made under the provisions of this chapter, shall be deposited forthwith by the seller, or the agent of the seller, receiving such deposit or payment, in a trust account to safeguard such deposit or payment from the claims of creditors of the seller. The failure of the seller or the seller's agent to create such trust account and to maintain it until the deposit or payment has been disbursed for the benefit of the veteran purchaser at settlement or, if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract, may constitute an unfair marketing practice within the meaning of section 3704(b) of this title.
 
 (b) If an eligible veteran contracts for the construction of a property in a project on which the Secretary has issued a Certificate of Reasonable Value and such construction is to be financed with the assistance of a construction loan to be guaranteed, insured, or made under the provisions of this chapter, it may be considered an unfair marketing practice under section 3704(b) of this title if any deposit or downpayment of the veteran is not maintained in a special trust account by the recipient until it is either (1) applied on behalf of the veteran to the cost of the land or to the cost of construction or (2), if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract.
 
 (Added Pub. L. 86–665, §6(a), July 14, 1960, 74 Stat. 532, §1806; amended Pub. L. 94–324, §7(10), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3706 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(13), Nov. 2, 1994, 108 Stat. 4685.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -17,6 +19,8 @@ Pub. L. 102–83, §5(c)(1), substituted "3704(b)" for "1804(b)" in subsecs. (a)
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–324 substituted "the seller's" for "his".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

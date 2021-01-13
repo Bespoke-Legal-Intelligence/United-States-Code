@@ -4,6 +4,8 @@ When any Member or Delegate withdraws from his seat and does not return before t
 
 (R.S. §41.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 40 of this title prior to editorial reclassification and renumbering as this section.

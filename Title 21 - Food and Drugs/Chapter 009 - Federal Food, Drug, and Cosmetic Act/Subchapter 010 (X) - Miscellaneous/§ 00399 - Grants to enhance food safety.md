@@ -88,6 +88,8 @@ For the purpose of making grants under this section, there are authorized to be 
 
 (June 25, 1938, ch. 675, §1009, formerly §909, as added Pub. L. 107–188, title III, §311, June 12, 2002, 116 Stat. 673; renumbered §1009 and amended Pub. L. 111–31, div. A, title I, §§101(b)(2), 103(n), June 22, 2009, 123 Stat. 1784, 1838; Pub. L. 111–353, title II, §210(a), Jan. 4, 2011, 124 Stat. 3948.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The FDA Food Safety Modernization Act, referred to in subsec. (f), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, which enacted chapter 27 (§2201 et seq.) and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
@@ -98,7 +100,9 @@ The FDA Food Safety Modernization Act, referred to in subsec. (f), is Pub. L. 11
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–31, §103(n), made technical amendment to reference in original act which appears in text as reference to section 398 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction of 2011 Amendment
 
-Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, toalter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 

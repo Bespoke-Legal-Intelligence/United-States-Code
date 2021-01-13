@@ -4,7 +4,7 @@
 
 (b)(1) Subject to subsection (c)(2), whenever life insurance continues after an employee retires on an immediate annuity or while the employee is receiving compensation under subchapter I of chapter 81 of this title because of disease or injury to the employee, as provided in section 8706(b) of this title, deductions for insurance shall be withheld from the employee's annuity or compensation, except that, in any case in which the insurance is continued as provided in section 8706(b)(3)(A) of this title, the deductions shall not be made for months after the calendar month in which the employee becomes 65 years of age.
 
-(2) Notwithstanding paragraph (1) of this subsection, insurance shall be so continued without cost (other than as provided under section 8706(b)(3)(B)) to each employee who so retires, orcommences receiving compensation, on or before December 31, 1989.
+(2) Notwithstanding paragraph (1) of this subsection, insurance shall be so continued without cost (other than as provided under section 8706(b)(3)(B)) to each employee who so retires, or commences receiving compensation, on or before December 31, 1989.
 
 (c)(1) The amount withheld from the pay, annuity, or compensation of each employee subject to insurance deductions shall be at the rate, adjusted to the nearest half-cent, of 662/3 percent of the level cost as determined by the Office for each $1,000 of the employee's basic insurance amount.
 
@@ -32,6 +32,8 @@ Sept. 23, 1959, Pub. L. 86–377, §4(b), 73 Stat. 701.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–311, §6(1)(A), substituted "Subject to subsection (c)(2), during" for "During".
@@ -51,6 +53,8 @@ Subsec. (d). Pub. L. 96–427 added subsec. (d).
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 <b>1967</b>—Pub. L. 90–206 struck out reference to the Civil Service Commission's function of determining the amount to be withheld for group insurance and substituted provisions setting a rate of 662/3 percent of the level cost of each $1,000 of insurance as determined by the Commission for provisions setting a limit of 25 cents biweekly for each $1,000 of group life insurance and directing the withholding of the amount from employees paid on other than a biweekly basis at a proportional rate adjusted to the nearest cent.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

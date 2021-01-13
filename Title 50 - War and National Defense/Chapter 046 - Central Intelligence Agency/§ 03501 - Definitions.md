@@ -42,7 +42,7 @@ Pub. L. 105–272, title III, §309, Oct. 20, 1998, 112 Stat. 2403, provided tha
 
 "(a)
 
-Designation.—The headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the 'George Bush Center for Intelligence'.
+Designation.—The headquarters compound of the Central Intelligence Agency located in Langley,Virginia, shall be known and designated as the 'George Bush Center for Intelligence'.
 
 "(b)
 

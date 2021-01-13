@@ -56,7 +56,7 @@ For purposes of this subchapter, the term "written notice of allocation" means a
 
 &emsp;&emsp;&emsp;(i) Any consent described in paragraph (2)(A) may be revoked (in writing) by the distributee at any time. Any such revocation shall be effective with respect to patronage occurring on or after the first day of the first taxable year of the organization beginning after the revocation is filed with such organization; except that in the case of a pooling arrangement described in section 1382(e), a revocation made by a distributee shall not be effective as to any pool with respect to which the distributee has been a patron before such revocation.
 
-&emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) afterthe distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
+&emsp;&emsp;&emsp;(ii) Any consent described in paragraph (2)(B) shall not be effective with respect to any patronage occurring (determined without the application of section 1382(e)) after the distributee ceases to be a member of the organization or after the bylaws of the organization cease to contain the provision described in paragraph (2)(B)(i).
 
 #### (4) Qualified check
 
@@ -86,7 +86,7 @@ For purposes of this subchapter, the term "per-unit retain certificate" means an
 
 #### (1) Defined
 
-&emsp;For purposes of this subchapter, the term "qualified per-unit retain certificate" means any per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+&emsp;For purposes of this subchapter, the term "qualified per-unit retain certificate" meansany per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
 
 #### (2) Manner of obtaining agreement
 

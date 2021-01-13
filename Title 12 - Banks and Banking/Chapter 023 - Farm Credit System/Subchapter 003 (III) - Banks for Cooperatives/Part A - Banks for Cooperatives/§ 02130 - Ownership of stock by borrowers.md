@@ -6,11 +6,13 @@
 
 (Pub. L. 92–181 title III, §3.9, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, §306, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 100–233, title VIII, §802(q), Jan. 6, 1988, 101 Stat. 1712; Pub. L. 115–334, title V, §5411(9), Dec. 20, 2018, 132 Stat. 4680.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 struck out at end "In the case of a direct loan by the Central Bank, the borrower shall be required to own or invest in the necessary stock in a district bank or banks and such district bank shall be required to own a corresponding amount of stock in the Central Bank, but voting stock shall be in the one district bank, designated by the Farm Credit Administration."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–233 substituted "by the bank to invest" for "by the bank with the approval of the Farm Credit Administration to invest", "or upon such other basis as the bank determines" for "or upon such other basis as the bank, with the approval of the Farm Credit Administration, determines", and "in a district bank or banks and such district bank shall be required" for "in a district bank or banks as may be approved by the Farm Credit Administration and such district bank shall be required".
+<b>1988</b>—Subsec. (a). Pub. L. 100–233 substituted "by the bank to invest" for "by the bank with the approval of the Farm Credit Administration to invest", "or upon such other basis as the bank determines" for "or uponsuch other basis as the bank, with the approval of the Farm Credit Administration, determines", and "in a district bank or banks and such district bank shall be required" for "in a district bank or banks as may be approved by the Farm Credit Administration and such district bank shall be required".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–592 inserted provisions respecting entitlement to hold voting stock.
 

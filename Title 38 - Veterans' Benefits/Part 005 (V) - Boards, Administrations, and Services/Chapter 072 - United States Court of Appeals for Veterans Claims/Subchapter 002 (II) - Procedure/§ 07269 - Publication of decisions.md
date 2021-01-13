@@ -8,11 +8,15 @@
 
 (Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4118, §4069; renumbered §7269, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
 <b>1991</b>—Pub. L. 102–40 renumbered section 4069 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

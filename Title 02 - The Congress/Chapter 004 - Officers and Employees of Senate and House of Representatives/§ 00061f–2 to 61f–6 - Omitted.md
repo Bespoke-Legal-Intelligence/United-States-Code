@@ -1,6 +1,6 @@
 ### §§61f–2 to 61f–6. Omitted
 
-Sections were omitted for lack of general applicability. Sections were from the Legislative Branch Appropriation Act, 1972, the Supplemental Appropriation Act, 1972, the Supplemental Appropriation Act, 1973,the Legislative Branch Appropriation Act, 1974, and the Supplemental Appropriation Act, 1974, respectively, and provided for the appointment and compensation of specified Senate employees by the Sergeant at Arms.
+Sections were omitted for lack of general applicability. Sections were from the Legislative Branch Appropriation Act, 1972, the Supplemental Appropriation Act, 1972, the Supplemental Appropriation Act, 1973, the Legislative Branch Appropriation Act, 1974, and the Supplemental Appropriation Act, 1974, respectively, and provided for the appointment and compensation of specified Senate employees by the Sergeant at Arms.
 
 Section 61f–2, Pub. L. 92–51, July 9, 1971, 85 Stat. 127, was effective July 1, 1971.
 

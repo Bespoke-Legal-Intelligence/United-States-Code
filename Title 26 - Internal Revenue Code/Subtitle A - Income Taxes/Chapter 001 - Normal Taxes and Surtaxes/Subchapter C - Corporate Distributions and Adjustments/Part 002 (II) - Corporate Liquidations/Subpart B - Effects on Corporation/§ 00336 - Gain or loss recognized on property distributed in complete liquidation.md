@@ -48,7 +48,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 &emsp;&emsp;&emsp;&emsp;(II) the acquisition of such property by the liquidating corporation was part of a plan a principal purpose of which was to recognize loss by the liquidating corporation with respect to such property in connection with the liquidation.
 
-&emsp;&emsp;&nbsp;Other property shall be treated as so described if the adjusted basis of such otherproperty is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+&emsp;&emsp;&nbsp;Other property shall be treated as so described if the adjusted basis of such other property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
 
 #### (ii) Certain acquisitions treated as part of plan
 
@@ -132,7 +132,7 @@ In general.—The amendments made by this subtitle shall not apply to—
 
 &emsp;&emsp;"(A) any distribution or sale or exchange made pursuant to a plan of liquidation adopted before August 1, 1986, if the liquidating corporation is completely liquidated before January 1, 1988,
 
-&emsp;&emsp;"(B) any distribution or sale or exchange made by any corporation if more than 50 percent of the voting stock (by value) of such corporation is acquiredon or after August 1, 1986, pursuant to a written binding contract in effect before such date and if such corporation is completely liquidated before January 1, 1988,
+&emsp;&emsp;"(B) any distribution or sale or exchange made by any corporation if more than 50 percent of the voting stock (by value) of such corporation is acquired on or after August 1, 1986, pursuant to a written binding contract in effect before such date and if such corporation is completely liquidated before January 1, 1988,
 
 &emsp;&emsp;"(C) any distribution or sale or exchange made by any corporation if substantially all of the assets of such corporation are sold on or after August 1, 1986, pursuant to 1 or more written binding contracts in effect before such date and if such corporation is completely liquidated before January 1, 1988, or
 
@@ -254,7 +254,7 @@ Family members.—Stock owned (or treated as owned) by members of the same famil
 
 &emsp;&emsp;&emsp;"(iii)
 
-Treatment of certain trusts.—Stock owned (or treated as owned) by the estate of any decedent or by any trust referred to in subparagraph (B)(iii) with respect to such decedent shall be treated as owned by 1 person and shall be treated as owned by such 1 person for the periodduring which it was owned (or treated as owned) by such estate or any such trust or by the decedent.
+Treatment of certain trusts.—Stock owned (or treated as owned) by the estate of anydecedent or by any trust referred to in subparagraph (B)(iii) with respect to such decedent shall be treated as owned by 1 person and shall be treated as owned by such 1 person for the period during which it was owned (or treated as owned) by such estate or any such trust or by the decedent.
 
 &emsp;&emsp;"(D)
 

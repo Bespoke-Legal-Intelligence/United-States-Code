@@ -10,6 +10,8 @@
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1623; amended Pub. L. 98–160, title VII, §702(7), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), (7), Dec. 18, 1989, 103 Stat. 2092, 2093; renumbered §3223 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1623 of this title as this section.
@@ -25,6 +27,8 @@ Subsec. (d). Pub. L. 101–237, §423(b)(7), inserted "of Defense" after first r
 <b>1983</b>—Subsec. (a). Pub. L. 98–160 inserted "of this title" after "section 1624".
 
 Subsec. (d). Pub. L. 98–160 inserted "of this title" after "section 1622(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -30,9 +30,13 @@ The word "agency" is substituted for "department" and defined to conform to the 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–140 added subsec. (c).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Alaska natural gas transportation system
 
-&emsp;The term "Alaska natural gas transportation system" means the Alaska natural gas transportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President's decision.
+&emsp;The term "Alaska natural gas transportation system" means the Alaska natural gastransportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President's decision.
 
 #### (4) Commission
 

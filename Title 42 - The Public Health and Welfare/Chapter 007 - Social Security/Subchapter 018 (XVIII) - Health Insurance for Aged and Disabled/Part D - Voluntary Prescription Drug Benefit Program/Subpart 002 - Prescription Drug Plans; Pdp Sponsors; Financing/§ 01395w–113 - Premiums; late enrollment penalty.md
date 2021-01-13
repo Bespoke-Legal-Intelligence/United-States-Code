@@ -12,7 +12,7 @@
 
 #### (i) Above average bid
 
-&emsp;&emsp;&emsp;If for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bid amount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
+&emsp;&emsp;&emsp;If for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bidamount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
 
 #### (ii) Below average bid
 
@@ -160,7 +160,7 @@
 
 #### (2) Individuals subject to penalty
 
-&emsp;A part D eligible individual described in this paragraph is, with respect to a continuous period of eligibility, an individual for whom there is a continuous period of 63 days or longer (all of which in such continuous period of eligibility) beginning on the day after the last date of the individual's initial enrollment period under section 1395w–101(b)(2) of this title and ending on the date of enrollment under a prescription drug plan or MA–PD planduring all of which the individual was not covered under any creditable prescription drug coverage.
+&emsp;A part D eligible individual described in this paragraph is, with respect to a continuous period of eligibility, an individual for whom there is a continuous period of 63 days or longer (all of which in such continuous period of eligibility) beginning on the day after the last date of the individual's initial enrollment period under section 1395w–101(b)(2) of this title and ending on the date of enrollment under a prescription drug plan or MA–PD plan during all of which the individual was not covered under any creditable prescription drug coverage.
 
 #### (3) Amount of penalty
 
@@ -174,7 +174,7 @@
 
 #### (B) Uncovered month defined
 
-&emsp;&emsp;For purposes of this subsection, the term "uncovered month" means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
+&emsp;&emsp;For purposes of this subsection, the term "uncovered month" means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of thistitle unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
 
 #### (4) Creditable prescription drug coverage defined
 

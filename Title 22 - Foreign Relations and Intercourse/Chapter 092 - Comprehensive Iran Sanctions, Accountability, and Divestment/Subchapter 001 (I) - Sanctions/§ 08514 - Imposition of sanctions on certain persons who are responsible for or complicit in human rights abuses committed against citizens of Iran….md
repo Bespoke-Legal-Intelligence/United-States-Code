@@ -30,11 +30,11 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (4) Consideration of data from other countries and nongovernmental organizations
 
-&emsp;In preparing the list required by paragraph (1), the President shall consider credible data already obtained by other countries and nongovernmental organizations, including organizations in Iran, that monitor the human rights abuses of the Government of Iran.
+&emsp;In preparing the list required by paragraph (1), the President shall consider credible dataalready obtained by other countries and nongovernmental organizations, including organizations in Iran, that monitor the human rights abuses of the Government of Iran.
 
 #### (c) Sanctions described
 
-The sanctions described in this subsection are ineligibility for a visa to enter the United States and sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation and importation of property, subject to such regulations as the President may prescribe, including regulatory exceptions to permit the United States to comply with the Agreement between the UnitedNations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, and other applicable international obligations.
+The sanctions described in this subsection are ineligibility for a visa to enter the United States and sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation and importation of property, subject to such regulations as the President may prescribe, including regulatory exceptions to permit the United States to comply with the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, and other applicable international obligations.
 
 #### (d) Termination of sanctions
 
@@ -54,9 +54,13 @@ The provisions of this section shall terminate on the date on which the Presiden
 
 (Pub. L. 111–195, title I, §105, July 1, 2010, 124 Stat. 1335.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

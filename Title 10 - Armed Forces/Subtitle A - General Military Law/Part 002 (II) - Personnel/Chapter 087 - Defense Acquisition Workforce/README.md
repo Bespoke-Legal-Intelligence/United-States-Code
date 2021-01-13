@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §861(f)(3)(B), (j)(7)(B), Dec. 20, 2019, 133 Stat. 1518, 1519, substituted"Acquisition Positions And Acquisition Workforce Career Fields" for "Defense Acquisition Positions" in item for subchapter II and "Critical Acquisition Positions" for "Acquisition Corps" in item for subchapter III.
+<b>2019</b>—Pub. L. 116–92, div. A, title VIII, §861(f)(3)(B), (j)(7)(B), Dec. 20, 2019, 133 Stat. 1518, 1519, substituted "Acquisition Positions And Acquisition Workforce Career Fields" for "Defense Acquisition Positions" in item for subchapter II and "Critical Acquisition Positions" for "Acquisition Corps" in item for subchapter III.
 
 <b>1991</b>—Pub. L. 102–25, title VII, §704(b)(1), Apr. 6, 1991, 105 Stat. 119, made technical amendment to directory language of Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1638, which enacted this chapter.
 

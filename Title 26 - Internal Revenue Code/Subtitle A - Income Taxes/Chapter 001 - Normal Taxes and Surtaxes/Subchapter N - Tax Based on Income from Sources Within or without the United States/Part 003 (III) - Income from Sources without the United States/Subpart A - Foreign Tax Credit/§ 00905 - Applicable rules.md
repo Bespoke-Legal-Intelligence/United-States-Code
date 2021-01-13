@@ -2,7 +2,7 @@
 
 #### (a) Year in which credit taken
 
-The credits provided in this subpart may, at the option of the taxpayer and irrespective of the method of accounting employed in keeping his books, be taken in the year in which the taxes of the foreign country or the possession of the United States accrued, subject, however, to the conditions prescribed in subsection (c). If the taxpayer elects to take such credits in the year in which the taxes of the foreign country or the possession of the United States accrued, the credits for all subsequent years shall be takenon the same basis, and no portion of any such taxes shall be allowed as a deduction in the same or any succeeding year.
+The credits provided in this subpart may, at the option of the taxpayer and irrespective of the method of accounting employed in keeping his books, be taken in the year in which the taxes of the foreign country or the possession of the United States accrued, subject, however, to the conditions prescribed in subsection (c). If the taxpayer elects to take such credits in the year in which the taxes of the foreign country or the possession of the United States accrued, the credits for all subsequent years shall be taken on the same basis, and no portion of any such taxes shall be allowed as a deduction in the same or any succeeding year.
 
 #### (b) Proof of credits
 
@@ -48,7 +48,7 @@ The credits provided in this subpart shall be allowed only if the taxpayer estab
 
 #### (4) Bond requirements
 
-&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
+&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond,with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
 
 #### (5) Other special rules
 
@@ -92,7 +92,7 @@ Pub. L. 97–248, title III, §343(b), Sept. 3, 1982, 96 Stat. 635, provided tha
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
+Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable yearsbeginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
 
 #### Effective Date of 1976 Amendment
 

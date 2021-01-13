@@ -8,7 +8,7 @@
 
 #### (2) Copies to tenants
 
-&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.<sup>1</sup>
+&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist thetenants in carrying out the purposes of this title.<sup>1</sup>
 
 #### (3) Failure to submit
 
@@ -52,13 +52,15 @@ An owner may from time to time revise and amend the plan of action as may be nec
 
 (Pub. L. 100–242, title II, §217, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4254; amended Pub. L. 102–550, title III, §304, Oct. 28, 1992, 106 Stat. 3763.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a)(2) and (b)(1)(F), (2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence "Each owner and the Secretaryshall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information."
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §304(a), inserted after second sentence "Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information."
 
 Subsec. (c). Pub. L. 102–550, §304(b), inserted before period at end "and make available to the Secretary and tenants all documentation supporting any revision, but not including any information that the Secretary determines is proprietary information".
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) "active service" has the meaning given it by section 101 of title 37;
 
-&emsp;(2) "a retired member of a uniformed service" means a member or former member of auniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
+&emsp;(2) "a retired member of a uniformed service" means a member or former member of a uniformed service who is entitled, under statute, to retired, retirement, or retainer pay on account of his service as such a member; and
 
 &emsp;(3) a preference eligible employee who is a retired member of a uniformed service is considered a preference eligible only if—
 
@@ -52,6 +52,8 @@ Subsection (b) is supplied on authority of sections 2, 12, and 20 of the Act of 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preference to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(3)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
@@ -61,6 +63,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 inserted reference to a member of Senior Executive Service.
 
 <b>1975</b>—Subsec. (b). Pub. L. 94–183 struck out ", except an employee whose appointment is made under section 3311 of title 39" after "or made with the advice and consent of, the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

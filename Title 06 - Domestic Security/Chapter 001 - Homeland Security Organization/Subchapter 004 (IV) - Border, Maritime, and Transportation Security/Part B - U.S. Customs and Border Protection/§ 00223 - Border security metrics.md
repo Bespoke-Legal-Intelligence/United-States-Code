@@ -206,7 +206,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 23, 2016, the Secretary shall develop metrics, informed by situational awareness, to measurethe effectiveness of security in the maritime environment. The Secretary shall annually implement the metrics developed under this subsection, which shall include the following:
+&emsp;Not later than 180 days after December 23, 2016, the Secretary shall develop metrics, informed by situational awareness, to measure the effectiveness of security in the maritime environment. The Secretary shall annually implement the metrics developed under this subsection, which shall include the following:
 
 &emsp;&emsp;(A) Situational awareness achieved in the maritime environment.
 
@@ -218,7 +218,7 @@ In this section:
 
 &emsp;&emsp;(E) A response rate, which compares the ability of the maritime security components of the Department of Homeland Security to respond to and resolve known maritime threats, whether inside or outside a transit zone, by placing assets on-scene, to the total number of events with respect to which the Department has known threat information.
 
-&emsp;&emsp;(F) An intergovernmental response rate, which compares the ability of the maritime security components of the Department of Homeland Security or other United States Government entities to respond to and resolve actionable maritime threats, whether inside or outside a transit zone, with the number of such threats detected.
+&emsp;&emsp;(F) An intergovernmental response rate, which compares the ability of the maritimesecurity components of the Department of Homeland Security or other United States Government entities to respond to and resolve actionable maritime threats, whether inside or outside a transit zone, with the number of such threats detected.
 
 #### (2) Metrics consultation
 
@@ -327,6 +327,8 @@ The Secretary shall—
 &emsp;&emsp;Not later than 30 days before updating the metrics pursuant to subparagraph (A), the Secretary shall notify the appropriate congressional committees of such updates.
 
 (Pub. L. 114–328, div. A, title X, §1092, Dec. 23, 2016, 130 Stat. 2429.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

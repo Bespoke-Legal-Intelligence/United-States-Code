@@ -30,7 +30,7 @@
 
 &emsp;(A) A list of the members of the committee.
 
-&emsp;(B) The assessment of the Under Secretary for Health, after review of the initial findings of the committee, regarding the capability of the Veterans Health Administration, on a systemwide and facility-by-facility basis, to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
+&emsp;(B) The assessment of the Under Secretary for Health, after review of the initial findingsof the committee, regarding the capability of the Veterans Health Administration, on a systemwide and facility-by-facility basis, to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
 
 &emsp;(C) The plans of the committee for further assessments.
 
@@ -41,6 +41,8 @@
 (2) Not later than June 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
 
 (Added Pub. L. 104–262, title III, §335(a), Oct. 9, 1996, 110 Stat. 3204; amended Pub. L. 106–419, title IV, §402(f), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, §405(c), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, title VIII, §807, Oct. 10, 2008, 122 Stat. 4141.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

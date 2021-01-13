@@ -18,7 +18,7 @@
 
 &emsp;(B) a determination that the court would not so grant such discharge is made by the bankruptcy court within the time and in the manner provided for a determination under section 727 of this title of whether a debtor is granted a discharge.
 
-(c) An agreement between a holder of a claim and the debtor, the consideration for which, inwhole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if—
+(c) An agreement between a holder of a claim and the debtor, the consideration for which, in whole or in part, is based on a debt that is dischargeable in a case under this title is enforceable only to any extent enforceable under applicable nonbankruptcy law, whether or not discharge of such debt is waived, only if—
 
 &emsp;(1) such agreement was made before the granting of the discharge under section 727, 1141, 1192, 1228, or 1328 of this title;
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) subject to subsection (h), the court determines that—
 
-&emsp;&emsp;(I) the debtor is likely to be subject to substantial future demands for payment arising out of the same or similar conduct or events that gave rise to the claims that are addressed by the injunction;
+&emsp;&emsp;(I) the debtor is likely to be subject to substantial future demands for payment arisingout of the same or similar conduct or events that gave rise to the claims that are addressed by the injunction;
 
 &emsp;&emsp;(II) the actual amounts, numbers, and timing of such future demands cannot be determined;
 
@@ -152,9 +152,9 @@
 
 &emsp;&emsp;(cc) a predecessor in interest of the debtor.
 
-(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described insuch plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
+(B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
-&emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
+&emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appointsa legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
 &emsp;(ii) the court determines, before entering the order confirming such plan, that identifying such debtor or debtors, or such third party (by name or as part of an identifiable group), in such injunction with respect to such demands for purposes of this subparagraph is fair and equitable with respect to the persons that might subsequently assert such demands, in light of the benefits provided, or to be provided, to such trust on behalf of such debtor or debtors or such third party.
 
@@ -250,7 +250,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;&emsp;(iii) by describing the debtor's repayment obligations with reasonable specificity to the extent then known by the disclosing party.
 
-&emsp;(I) The following statement: "Note: When this disclosure refers to what a creditor 'may' do, it does not use the word 'may' to give the creditor specific permission. The word 'may' is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explainthe effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.".
+&emsp;(I) The following statement: "Note: When this disclosure refers to what a creditor 'may' do, it does not use the word 'may' to give the creditor specific permission. The word 'may' is used to tell you what might occur if the law permits the creditor to take the action. If you have questions about your reaffirming a debt or what the law requires, consult with the attorney who helped you negotiate this agreement reaffirming a debt. If you don't have an attorney helping you, the judge will explain the effect of your reaffirming a debt when the hearing on the reaffirmation agreement is held.".
 
 &emsp;(J)(i) The following additional statements:
 
@@ -360,7 +360,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 Section 524(a) of the House amendment represents a compromise between the House bill and the Senate amendment. Section 524(b) of the House amendment is new, and represents standards clarifying the operation of section 524(a)(3) with respect to community property.
 
-Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects ofreaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
+Sections 524(c) and (d) represent a compromise between the House bill and Senate amendment on the issue of reaffirmation of a debt discharged in bankruptcy. Every reaffirmation to be enforceable must be approved by the court, and any debtor may rescind a reaffirmation for 30 days from the time the reaffirmation becomes enforceable. If the debtor is an individual the court must advise the debtor of various effects of reaffirmation at a hearing. In addition, to any extent the debt is a consumer debt that is not secured by real property of the debtor reaffirmation is permitted only if the court approves the reaffirmation agreement, before granting a discharge under section 727, 1141, or 1328, as not imposing a hardship on the debtor or a dependent of the debtor and in the best interest of the debtor; alternatively, the court may approve an agreement entered into in good faith that is in settlement of litigation of a complaint to determine dischargeability or that is entered into in connection with redemption under section 722. The hearing on discharge under section 524(d) will be held whether or not the debtor desires to reaffirm any debts.
 
 #### senate report no. 95–989
 
@@ -373,6 +373,8 @@ Subsection (b) gives further effect to the discharge. It prohibits reaffirmation
 Subsection (c) grants an exception to the anti-reaffirmation provision. It permits reaffirmation in connection with the settlement of a proceeding to determine the dischargeability of the debt being reaffirmed, or in connection with a redemption agreement permitted under section 722. In either case, the reaffirmation agreement must be entered into in good faith and must be approved by the court.
 
 Subsection (d) provides the discharge of the debtor does not affect co-debtors or guarantors.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -453,6 +455,8 @@ Subsec. (c)(6). Pub. L. 98–353, §308(b)(2), (4), redesignated former par. (4)
 Subsec. (d)(2). Pub. L. 98–353, §308(c), substituted "subsection (c)(6)" for "subsection (c)(4)".
 
 Subsec. (f). Pub. L. 98–353, §308(d), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

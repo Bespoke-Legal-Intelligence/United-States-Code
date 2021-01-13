@@ -122,7 +122,7 @@ Subsection (a) applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of thedetermination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -250,7 +250,7 @@ Subsection (a) applies on the condition that—
 
 #### (A) In general
 
-&emsp;&emsp;If a partition is approved under this subsection and an owner of an interest in theparcel of land refuses to surrender possession in accordance with the partition decision, or refuses to execute any conveyance necessary to implement the partition, then any affected owner or the United States may—
+&emsp;&emsp;If a partition is approved under this subsection and an owner of an interest in the parcel of land refuses to surrender possession in accordance with the partition decision, or refuses to execute any conveyance necessary to implement the partition, then any affected owner or the United States may—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
@@ -282,6 +282,8 @@ Subsection (a) applies on the condition that—
 
 (Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (c)(2)(A), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
@@ -292,7 +294,7 @@ This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original
 
 <b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted "by the Secretary" for "by Secretary" in concluding provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interestsin any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
@@ -326,11 +328,13 @@ Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out fo
 
 <b>1984</b>—Pub. L. 98–608 amended section generally, substituting "the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract" for "of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract" before proviso.
 
-Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted "for at least three years preceding the tribal initiative," before "may purchase such tract". Formerpar. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
+Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted "for at least three years preceding the tribal initiative," before "may purchase such tract". Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 
 Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted "subject to approval" for "approved" and struck out former par. (3), which provided that "this section shall not apply to any tract of land owned by less than fifteen persons; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

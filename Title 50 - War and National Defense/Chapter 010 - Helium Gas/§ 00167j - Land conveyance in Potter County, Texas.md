@@ -26,7 +26,7 @@ The parcel of land referred to in subsection (a) is all those certain lots, trac
 
 &emsp;One Hundred Sixty (160) acres of land known as the South part of the East part of said survey No. Seventy-eight (78) described by metes and bounds as follows:
 
-&emsp;&emsp;Beginning at the Southwest corner of Section 59, a stone marked X and a pile of stones; Thence, North 89 degrees 47 minutes West with the North line of Section 77, 966.5 varas to the Southeast corner of the West half of Section 78; Thence, North 0 degrees 10 minutes West with the East line of the West half of Section 78;
+&emsp;&emsp;Beginning at the Southwest corner of Section 59, a stone marked X and a pile ofstones; Thence, North 89 degrees 47 minutes West with the North line of Section 77, 966.5 varas to the Southeast corner of the West half of Section 78; Thence, North 0 degrees 10 minutes West with the East line of the West half of Section 78;
 
 &emsp;&emsp;Thence, South 89 degrees 47 minutes East 965.8 varas to a point in the East line of Section 78;
 
@@ -38,5 +38,5 @@ The parcel of land referred to in subsection (a) is all those certain lots, trac
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary's authorityunder Federal helium refining program to obtain loans and issue obligations to carry out program.
+<b>1996</b>—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary's authority under Federal helium refining program to obtain loans and issue obligations to carry out program.
 

@@ -86,7 +86,7 @@ Payment of compensation under the Program shall not be made for any item or serv
 
 #### (h) Liability of health insurance carriers, prepaid health plans, and benefit providers
 
-No policy of health insurance may make payment of benefits under the policy secondary tothe payment of compensation under the Program and—
+No policy of health insurance may make payment of benefits under the policy secondary to the payment of compensation under the Program and—
 
 &emsp;(1) no State, and
 
@@ -98,7 +98,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 (1) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j).
 
-(2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
+(2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of avaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
 #### (j) Authorization
 
@@ -148,7 +148,7 @@ Subsec. (j). Pub. L. 101–502, §5(d)(3), inserted before period at end of firs
 
 Subsec. (e)(1). Pub. L. 101–239, §6601(l)(2)(A), substituted "In awarding compensation on a petition filed under section 300aa–11 of this title the special master or court shall also award as part of such compensation an amount to cover" for "The judgment of the United States Claims Court on a petition filed under section 300aa–11 of this title awarding compensation shall include an amount to cover".
 
-Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought ingood faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action".
+Pub. L. 101–239, §6601(l)(2)(B), (C), substituted "the special master or court may award an amount of compensation to cover" for "the court may include in the judgment an amount to cover" and "the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition" for "the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action".
 
 Subsec. (e)(2). Pub. L. 101–239, §6601(l)(2)(D), which directed amendment of par. (2) by substituting "the special master or court may also award an amount of compensation" for "the judgment of the court on such petition may include an amount", could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 

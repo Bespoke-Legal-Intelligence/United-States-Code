@@ -14,6 +14,8 @@ Definition.—For the purposes of this section, the term "biometric identificati
 
 (Added Pub. L. 111–281, title VIII, §807(a), Oct. 15, 2010, 124 Stat. 2993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Coast Guard Authorization Act of 2010, referred to in subsec. (a), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.

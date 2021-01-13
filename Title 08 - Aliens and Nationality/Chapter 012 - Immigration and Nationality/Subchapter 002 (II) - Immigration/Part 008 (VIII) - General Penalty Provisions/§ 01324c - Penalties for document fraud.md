@@ -6,7 +6,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(1) to forge, counterfeit, alter, or falsely make any document for the purpose of satisfying a requirement of this chapter or to obtain a benefit under this chapter,
 
-&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of this chapter or to obtain a benefit under this chapter,
+&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of thischapter or to obtain a benefit under this chapter,
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
@@ -90,6 +90,8 @@ For purposes of this section, the term "falsely make" means to prepare or provid
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274C, as added Pub. L. 101–649, title V, §544(a), Nov. 29, 1990, 104 Stat. 5059; amended Pub. L. 102–232, title III, §306(c)(5)(A), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §219(r), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title II, §§212(a)–(d), 213, 220, title III, §§308(g)(10)(D), 379(a), Sept. 30, 1996, 110 Stat. 3009–570, 3009–571, 3009–575, 3009–625, 3009–649.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (e)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -126,9 +128,11 @@ Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
 <b>1991</b>—Subsec. (a)(2) to (4). Pub. L. 102–232 inserted "or to provide" after "receive" in pars. (2) and (4) and "or to provide or attempt to provide" after "attempt to use" in par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], asadded by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

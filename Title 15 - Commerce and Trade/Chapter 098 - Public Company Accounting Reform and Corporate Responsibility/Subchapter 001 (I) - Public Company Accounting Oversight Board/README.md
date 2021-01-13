@@ -9,6 +9,7 @@
 - [&sect; 07212 - Registration with the Board](%C2%A7%2007212%20-%20Registration%20with%20the%20Board.md)
 - [&sect; 07213 - Auditing, quality control, and independence standards and rules](%C2%A7%2007213%20-%20Auditing%2C%20quality%20control%2C%20and%20independence%20standards%20and%20rules.md)
 - [&sect; 07214 - Inspections of registered public accounting firms](%C2%A7%2007214%20-%20Inspections%20of%20registered%20public%20accounting%20firms.md)
+- [&sect; 07214a - Additional disclosure](%C2%A7%2007214a%20-%20Additional%20disclosure.md)
 - [&sect; 07215 - Investigations and disciplinary proceedings](%C2%A7%2007215%20-%20Investigations%20and%20disciplinary%20proceedings.md)
 - [&sect; 07216 - Foreign public accounting firms](%C2%A7%2007216%20-%20Foreign%20public%20accounting%20firms.md)
 - [&sect; 07217 - Commission oversight of the Board](%C2%A7%2007217%20-%20Commission%20oversight%20of%20the%20Board.md)

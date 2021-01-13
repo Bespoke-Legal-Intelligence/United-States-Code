@@ -86,13 +86,13 @@
 
 (C)(i) Fees collected under this paragraph shall be in addition to any other fees charged under this chapter and shall be deposited in the Limited Access System Administration Fund established under section 1855(h)(5)(B) of this title.
 
-(ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota programand deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
+(ii) Upon application by a State, the Secretary shall transfer to such State up to 33 percent of any fee collected pursuant to subparagraph (A) under a community development quota program and deposited in the Limited Access System Administration Fund in order to reimburse such State for actual costs directly incurred in the management and enforcement of such program.
 
 #### (e) Rebuilding overfished fisheries
 
 (1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
-(2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
+(2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservationand management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
 (3) Within 2 years after an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare and implement a fishery management plan, plan amendment, or proposed regulations for the fishery to which the identification or notice applies—
 
@@ -138,7 +138,7 @@
 
 #### (1) Preparation and implementation of plan or plan amendment
 
-&emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3)of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
+&emsp;The Secretary shall prepare a fishery management plan or plan amendment under subsection (c) with respect to any highly migratory species fishery to which section 1852(a)(3) of this title applies. In preparing and implementing any such plan or amendment, the Secretary shall—
 
 &emsp;&emsp;(A) consult with and consider the comments and views of affected Councils, commissioners and advisory groups appointed under Acts implementing relevant international fishery agreements pertaining to highly migratory species, and the advisory panel established under section 1852(g) of this title;
 
@@ -146,7 +146,7 @@
 
 &emsp;&emsp;(C) evaluate the likely effects, if any, of conservation and management measures on participants in the affected fisheries and minimize, to the extent practicable, any disadvantage to United States fishermen in relation to foreign competitors;
 
-&emsp;&emsp;(D) with respect to a highly migratory species for which the United States is authorized to harvest an allocation, quota, or at a fishing mortality level under a relevant international fishery agreement, provide fishing vessels of the United States with a reasonable opportunity to harvest such allocation, quota, or at such fishing mortality level;
+&emsp;&emsp;(D) with respect to a highly migratory species for which the United States is authorized to harvest an allocation, quota, or at a fishing mortality level under a relevantinternational fishery agreement, provide fishing vessels of the United States with a reasonable opportunity to harvest such allocation, quota, or at such fishing mortality level;
 
 &emsp;&emsp;(E) review, on a continuing basis (and promptly whenever a recommendation pertaining to fishing for highly migratory species has been made under a relevant international fishery agreement), and revise as appropriate, the conservation and management measures included in the plan;
 
@@ -342,7 +342,7 @@ Pub. L. 97–453, §7(b), Jan. 12, 1983, 96 Stat. 2489, provided that: "The amen
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
@@ -408,7 +408,7 @@ Pub. L. 104–297, title I, §109(h), Oct. 11, 1996, 110 Stat. 3586, as amended 
 
 #### Inapplicability of Subsection (h) to American Lobster Fishery Management Plan
 
-Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I,§101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan."
+Pub. L. 104–297, title I, §109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: "Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(h)\], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan."
 
 #### Interim Management of Highly Migratory Species Fisheries
 

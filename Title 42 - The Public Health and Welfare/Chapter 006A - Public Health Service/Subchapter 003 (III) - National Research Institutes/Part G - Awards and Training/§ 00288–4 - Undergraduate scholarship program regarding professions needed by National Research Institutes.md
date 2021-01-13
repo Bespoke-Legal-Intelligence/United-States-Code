@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Director of NIH agrees to provide to the individuals scholarships for pursuing, as undergraduates at accredited institutions of higher education, academic programs appropriate for careers in professions needed by the National Institutes of Health; and
 
-&emsp;&emsp;(B) the individuals agree to serve as employees of the National Institutes of Health, for the period described in subsection (c), in positions that are needed by the National Institutes of Health and for which the individuals are qualified.
+&emsp;&emsp;(B) the individuals agree to serve as employees of the National Institutes of Health,for the period described in subsection (c), in positions that are needed by the National Institutes of Health and for which the individuals are qualified.
 
 #### (2) Individuals from disadvantaged backgrounds
 

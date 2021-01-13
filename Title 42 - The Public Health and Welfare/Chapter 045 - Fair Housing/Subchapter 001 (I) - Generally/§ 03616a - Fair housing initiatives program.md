@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -170,7 +170,7 @@ Section was formerly set out as a note under section 3616 of this title.
 
 Subsec. (g). Pub. L. 102–550, §905(b)(1), (3), redesignated subsec. (d) as (g) and, in first sentence, substituted "$21,000,000 for fiscal year 1993 and $26,000,000 for fiscal year 1994, of which—" and pars. (1) to (4) for "including any program evaluations, $6,000,000 for fiscal year 1991 and $6,300,000 for fiscal year 1992, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration."
 
-Subsec. (h). Pub. L. 102–550, §905(b)(4), added subsec. (h) and struck out former subsec. (h) which providedthat the demonstration period authorized by this section would end Sept. 30, 1992.
+Subsec. (h). Pub. L. 102–550, §905(b)(4), added subsec. (h) and struck out former subsec. (h) which provided that the demonstration period authorized by this section would end Sept. 30, 1992.
 
 Pub. L. 102–550, §905(b)(1), redesignated subsec. (e) as (h).
 

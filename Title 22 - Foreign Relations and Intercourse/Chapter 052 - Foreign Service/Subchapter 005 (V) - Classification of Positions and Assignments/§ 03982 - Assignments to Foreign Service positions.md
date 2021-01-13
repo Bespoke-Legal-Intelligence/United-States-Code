@@ -16,13 +16,15 @@ Positions designated as Foreign Service positions normally shall be filled by th
 
 #### (c) Charge d'affaires
 
-The President may assign a career member of the Service to serve as charge d'affaires or otherwise as the head of a mission (or as the head of a United States office abroad which is designated under section 3902(a)(3) <sup>1</sup> of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
+The President may assign a career member of the Service to serve as charge d'affaires or otherwise as the head of a mission (or as the headof a United States office abroad which is designated under section 3902(a)(3) <sup>1</sup> of this title by the Secretary of State as diplomatic in nature) for such period as the public interest may require.
 
 #### (d) Competitive ability with respect to chief of mission positions and for assignments outside areas of specialization
 
 The Secretary of State, in conjunction with the heads of the other agencies utilizing the Foreign Service personnel system, shall implement policies and procedures to insure that Foreign Service officers and members of the Senior Foreign Service of all agencies are able to compete for chief of mission positions and have opportunities on an equal basis to compete for assignments outside their areas of specialization.
 
 (Pub. L. 96–465, title I, §502, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 98–164, title I, §130(b), Nov. 22, 1983, 97 Stat. 1027; Pub. L. 114–323, title IV, §414(d), Dec. 16, 2016, 130 Stat. 1933.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -34,13 +36,17 @@ Section 3902(a)(3) of this title, referred to in subsec. (c), was redesignated s
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–164 added subsec. (d).
 
-#### Delegation of Functions
-
-Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 
 Pub. L. 98–164, title I, §130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, §139(10), Apr. 30, 1994, 108 Stat. 398.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under subsec. (c) delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

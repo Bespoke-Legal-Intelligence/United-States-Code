@@ -30,7 +30,7 @@ To the extent the Assistant Secretary deems it necessary to continue the Interde
 
 #### (3) Effect on vested functions
 
-&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by law or executive order in the Commission, or the Department of State, or any officer thereof.
+&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by lawor executive order in the Commission, or the Department of State, or any officer thereof.
 
 #### (d) Reorganization
 
@@ -48,9 +48,13 @@ Notwithstanding section 1522 of title 15, neither the Secretary, the Assistant S
 
 (Pub. L. 102–538, title I, §105, Oct. 27, 1992, 106 Stat. 3538.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 744(a) of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 103–414, title III, §304(b)(4)(A), Oct. 25, 1994, 108 Stat. 4297.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

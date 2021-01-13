@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a mannerthat ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
+&emsp;&emsp;Each fiscal year, the Commission shall assess and collect fees and charges in accordance with paragraphs (2) and (3) in a manner that ensures that, to the maximum extent practicable, the amount assessed and collected is equal to an amount that approximates—
 
 &emsp;&emsp;&emsp;(i) the total budget authority of the Commission for that fiscal year; less
 
@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees assessed and collected under paragraph (2).
+&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annualcharge in addition to the fees assessed and collected under paragraph (2).
 
 #### (B) Cap on annual charges of certain licensees
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is licensed by the Commission under section 2134(c) of this title for operation at a thermal power level of not more than 10 megawatts; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if licensed under subclause (I) for operation at a thermal power level ofmore than 1 megawatt, does not contain—
+&emsp;&emsp;&emsp;&emsp;(II) if licensed under subclause (I) for operation at a thermal power level of more than 1 megawatt, does not contain—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a circulating loop through the core in which the licensee conducts fuel experiments;
 
@@ -156,7 +156,7 @@ Except as provided in subsection (c), this section takes effect on October 1, 20
 
 #### References in Text
 
-Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(1)(B)(ii)(II), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2602 of Title 50, War and National Defense.
+Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referredto in subsec. (b)(1)(B)(ii)(II), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2602 of Title 50, War and National Defense.
 
 Section 103, referred to in subsec. (b)(1)(B)(iii), is section 103 of Pub. L. 115–439, title I, Jan. 14, 2019, 132 Stat. 5571. Subsec. (a) of section 103 of Pub. L. 115–439 enacted provisions set out as a note under section 2133 of this title. Subsecs. (b) to (e) of section 103 of Pub. L. 115–439 are not classified to the Code.
 

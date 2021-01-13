@@ -42,7 +42,7 @@
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
-&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
+&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph\(1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
 
 #### (5) Ethics advisory boards
 

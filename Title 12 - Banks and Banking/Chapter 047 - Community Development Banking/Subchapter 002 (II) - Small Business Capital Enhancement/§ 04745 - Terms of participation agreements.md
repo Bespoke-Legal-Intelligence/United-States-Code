@@ -84,13 +84,13 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 #### (j) State contributions
 
-In enrolling a loan under the Program, the participating State shall contribute to the reserve fund an amount, as provided for in the participation agreement, which shall not be lessthan the sum of the amount of premium charges paid by the borrower and the participating financial institution.
+In enrolling a loan under the Program, the participating State shall contribute to the reserve fund an amount, as provided for in the participation agreement, which shall not be less than the sum of the amount of premium charges paid by the borrower and the participating financial institution.
 
 #### (k) Submission of claims
 
 #### (1) Filing
 
-&emsp;If a participating financial institution charges off all or part of an enrolled loan, such participating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
+&emsp;If a participating financial institution charges off all or part of an enrolled loan, suchparticipating financial institution may file a claim for reimbursement with the participating State by submitting a form that—
 
 &emsp;&emsp;(A) includes the representation by the participating financial institution that it is filing the claim in accordance with the terms of the applicable participation agreement; and
 
@@ -156,7 +156,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 &emsp;&emsp;&emsp;(iii) additional or new financing is extended by the participating financial institution as part of the refinancing,
 
-> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with theamount to be covered under the Program not to exceed the amount of any additional or new financing; and
+> &emsp;&emsp;the participating financial institution may file the loan for enrollment, with the amount to be covered under the Program not to exceed the amount of any additional or new financing; and
 
 &emsp;&emsp;(D) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this subchapter.
 

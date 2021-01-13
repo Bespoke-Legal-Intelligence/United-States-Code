@@ -4,6 +4,8 @@ Any officer, agent, or employee of the Department of Agriculture duly authorized
 
 (Mar. 4, 1913, ch. 145, §1 (part), 37 Stat. 833; Pub. L. 99–198, title XVII, §1768(d), Dec. 23, 1985, 99 Stat. 1655.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 See note set out under section 151 of this title.
@@ -13,6 +15,8 @@ Another section 1768 of Pub. L. 99–198, cited as a credit to this section, ame
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–198 struck out "licensed under this chapter" after "enter and inspect any establishment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

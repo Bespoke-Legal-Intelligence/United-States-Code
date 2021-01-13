@@ -64,9 +64,13 @@ Controlled Substance Defined.—In this section, the term "controlled substance"
 
 (Added Pub. L. 114–198, title IX, §924(a), July 22, 2016, 130 Stat. 767.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (d)(12), was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Date Fully Operational
 

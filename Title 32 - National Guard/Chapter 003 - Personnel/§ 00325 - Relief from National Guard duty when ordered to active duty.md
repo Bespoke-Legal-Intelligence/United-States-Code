@@ -8,7 +8,7 @@ Relief Required.—(1) Except as provided in paragraph (2), each member of the A
 
 &emsp;(A) the President authorizes such service in both duty statuses; and
 
-&emsp;(B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
+&emsp;(B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of theDistrict of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
 
 (b)
 
@@ -42,6 +42,8 @@ In subsection (a), the words "in the service of the United States" are omitted a
 
 In subsection (b), the words "upon relief from that duty" are substituted for the words "upon being relieved from active duty". The words "their National Guard status" are substituted for the words "to the National Guard and Air National Guard in their respective States, Territories, and the District of Columbia".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out "in command of a National Guard unit" after "active duty" in introductory provisions.
@@ -57,6 +59,8 @@ Relief Required.—(1) Except as provided in paragraph (2), each" for "(a) Each"
 Subsec. (b). Pub. L. 108–136, §516(b), inserted heading.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out ", the Canal Zone," after "Puerto Rico".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

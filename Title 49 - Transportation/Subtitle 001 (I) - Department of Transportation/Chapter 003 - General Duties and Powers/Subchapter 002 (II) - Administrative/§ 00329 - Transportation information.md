@@ -40,7 +40,7 @@ Monthly reports from secretary of homeland security.—To assist in the publicat
 
 #### Amendment of Subsection (b)(1)
 
-<i>Pub. L. 108–176, title VIII, §805, Dec. 12, 2003, 117 Stat. 2588, provided that, effective on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under subsection (b)(1) of this section,</i><i>subsection (b)(1) of this section is amended by striking "except that in no case" and all that follows through the semicolon at the end and inserting the following: "except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—</i>
+<i>Pub. L. 108–176, title VIII, §805, Dec. 12, 2003, 117 Stat. 2588, provided that, effective on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under subsection (b)(1) of this section, subsection (b)(1) of this section is amended by striking "except that in no case" and all that follows through the semicolon at the end and inserting the following: "except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—</i>
 
 &emsp;&emsp;<i>"(A) shall not disseminate fare information for a specific flight to the general public for a period of at least 9 months following the date of the flight; and</i>
 
@@ -130,7 +130,7 @@ Subsec. (d). Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
 
 Amendment by section 421 of Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
-Pub. L. 108–176, title VIII, §805(b), Dec. 12, 2003, 117 Stat. 2588, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under section 329(b)(1) of title 49, United States Code."
+Pub. L. 108–176, title VIII, §805(b), Dec. 12, 2003, 117 Stat. 2588, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under section 329(b)(1) of title 49, United States Code."
 
 #### Effective Date of 1984 Amendment
 

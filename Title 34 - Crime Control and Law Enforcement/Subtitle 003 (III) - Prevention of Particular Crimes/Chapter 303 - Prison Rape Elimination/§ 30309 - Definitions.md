@@ -64,7 +64,7 @@ In this chapter, the following definitions shall apply:
 
 #### (11) Sexual fondling
 
-&emsp;The term "sexual fondling" means the touching of the private body parts of anotherperson (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
+&emsp;The term "sexual fondling" means the touching of the private body parts of another person (including the genitalia, anus, groin, breast, inner thigh, or buttocks) for the purpose of sexual gratification.
 
 #### (12) Exclusions
 
@@ -77,6 +77,8 @@ In this chapter, the following definitions shall apply:
 &emsp;&emsp;(C) the use of a health care provider's hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within the prison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
 
 (Pub. L. 108–79, §10, Sept. 4, 2003, 117 Stat. 987.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

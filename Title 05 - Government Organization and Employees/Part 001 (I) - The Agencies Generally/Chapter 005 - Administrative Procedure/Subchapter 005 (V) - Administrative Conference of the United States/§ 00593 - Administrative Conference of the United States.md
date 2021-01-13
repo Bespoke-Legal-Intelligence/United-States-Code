@@ -42,6 +42,8 @@ In subsection (c), the words "by section 5703 of this title" are substituted for
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 593 was renumbered section 583 of this title.
@@ -55,6 +57,8 @@ Subsec. (b)(4). Pub. L. 102–354, §2(3), substituted "section 595(b)" for "sec
 <b>1986</b>—Subsec. (a). Pub. L. 99–470, §1(a)(1), substituted "101" for "91".
 
 Subsec. (b)(6). Pub. L. 99–470, §1(a)(2), substituted "40" for "36".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Administrative Conference of United States
 

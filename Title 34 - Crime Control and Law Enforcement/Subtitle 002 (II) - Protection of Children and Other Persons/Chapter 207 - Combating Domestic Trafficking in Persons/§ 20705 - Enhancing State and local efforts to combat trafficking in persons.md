@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General may make grants to States and local law enforcement agencies toestablish, develop, expand, or strengthen programs—
+&emsp;The Attorney General may make grants to States and local law enforcement agencies to establish, develop, expand, or strengthen programs—
 
 &emsp;&emsp;(A) to investigate and prosecute acts of severe forms of trafficking in persons, and related offenses that occur, in whole or in part, within the territorial jurisdiction of the United States;
 
@@ -47,6 +47,8 @@ Not later than 30 months after March 7, 2013, the Comptroller General of the Uni
 &emsp;(2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).
 
 (Pub. L. 109–164, title II, §204, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title III, §302(5), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1242, Mar. 7, 2013, 127 Stat. 153; Pub. L. 115–393, title III, §301(c), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, §122, Jan. 8, 2019, 132 Stat. 5479.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

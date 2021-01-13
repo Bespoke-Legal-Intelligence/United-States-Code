@@ -30,9 +30,13 @@ Rule of Construction.—Nothing in this section may be construed as altering exi
 
 (Added Pub. L. 115–435, title III, §303(a), Jan. 14, 2019, 132 Stat. 5554.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 115–435, which was approved Jan. 14, 2019.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

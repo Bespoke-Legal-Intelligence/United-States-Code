@@ -4,7 +4,7 @@
 
 Pursuant to regulations prescribed by the Secretary the earnings and profits of each member of an affiliated group required to be included in a consolidated return for such group filed for a taxable year shall be determined by allocating the tax liability of the group for such year among the members of the group in accord with whichever of the following methods the group shall elect in its first consolidated return filed for such a taxable year:
 
-&emsp;(1) The tax liability shall be apportioned among the members of the group in accordance with the ratio which that portion of the consolidated taxable income attributable to each member of the group having taxable income bears to the consolidated taxable income.
+&emsp;(1) The tax liability shall be apportioned among the members of the group in accordance with the ratio which that portion of the consolidated taxable income attributable toeach member of the group having taxable income bears to the consolidated taxable income.
 
 &emsp;(2) The tax liability of the group shall be allocated to the several members of the group on the basis of the percentage of the total tax which the tax of such member if computed on a separate return would bear to the total amount of the taxes for all members of the group so computed.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) a plea of guilty or nolo contendere by the individual or entity has been accepted by a Federal, State, or local court with respect to such offense; or
 
-&emsp;&emsp;(iv) in the case of an individual, the individual has entered a first offender or other program pursuant to which a judgment of conviction for such offense has been withheld;
+&emsp;&emsp;(iv) in the case of an individual, the individual has entered a first offender or other program pursuant to which a judgment ofconviction for such offense has been withheld;
 
 > &emsp;without regard to the pendency or outcome of any appeal (other than a judgment of acquittal based on innocence) or request for relief on behalf of the individual or entity; and
 
@@ -66,7 +66,7 @@
 
 &emsp;(2) that a provider of health care services or supplies has knowingly made, or caused to be made, any false statement or misrepresentation of a material fact which is reflected in a claim presented under this chapter; or
 
-&emsp;(3) that a provider of health care services or supplies has knowingly failed to provide any information required by a carrier or by the Office to determine whether a payment or reimbursement is payable under this chapter or the amount of any such payment or reimbursement;
+&emsp;(3) that a provider of health care services or supplies has knowingly failed to provide any information required by a carrier or by the Office to determine whether a payment or reimbursement is payable under this chapter or theamount of any such payment or reimbursement;
 
 > the Office may, in addition to any other penalties that may be prescribed by law, and after consultation with the Attorney General, impose a civil monetary penalty of not more than $10,000 for any item or service involved. In addition, such a provider shall be subject to an assessment of not more than twice the amount claimed for each such item or service. In addition, the Office may make a determination in the same proceeding to bar such provider from participating in the program under this chapter.
 
@@ -118,7 +118,7 @@
 
 &emsp;(C) request that the State or local agency or authority keep the Office fully and currently informed with respect to any actions taken in response to the request.
 
-(h)(1) Any provider of health care services or supplies that is the subject of an adverse determination by the Office under this section shall be entitled to reasonable notice and an opportunity to request a hearing of record, and to judicial review as provided in this subsection after the Office renders a final decision. The Office shall grant a request for a hearing upon a showing that due process rights have not previously been afforded with respect to any finding of fact which is relied upon as a cause for an adverse determination under this section. Such hearing shall be conducted without regard to subchapter II of chapter 5 and chapter 7 of this title by a hearing officer who shall be designated by the Director of the Office and who shall not otherwise have been involved in the adverse determination being appealed. A request for a hearing under this subsection shall be filed within such period and in accordance with such procedures as the Office shall prescribe by regulation.
+(h)(1) Any provider of health care services or supplies that is the subject of an adverse determination by the Office under this section shall be entitled to reasonable notice and an opportunity to request a hearing of record, and to judicial review as provided in this subsection after the Office renders a final decision. The Office shall grant a request for a hearing upon a showing that due process rights have not previously been afforded with respect to any finding of fact which is relied upon as a cause for an adversedetermination under this section. Such hearing shall be conducted without regard to subchapter II of chapter 5 and chapter 7 of this title by a hearing officer who shall be designated by the Director of the Office and who shall not otherwise have been involved in the adverse determination being appealed. A request for a hearing under this subsection shall be filed within such period and in accordance with such procedures as the Office shall prescribe by regulation.
 
 (2) Any provider adversely affected by a final decision under paragraph (1) made after a hearing to which such provider was a party may seek review of such decision in the United States District Court for the District of Columbia or for the district in which the plaintiff resides or has his or her principal place of business by filing a notice of appeal in such court within 60 days after the date the decision is issued, and by simultaneously sending copies of such notice by certified mail to the Director of the Office and to the Attorney General. In answer to the appeal, the Director of the Office shall promptly file in such court a certified copy of the transcript of the record, if the Office conducted a hearing, and other evidence upon which the findings and decision complained of are based. The court shall have power to enter, upon the pleadings and evidence of record, a judgment affirming, modifying, or setting aside, in whole or in part, the decision of the Office, with or without remanding the case for a rehearing. The district court shall not set aside or remand the decision of the Office unless there is not substantial evidence on the record, taken as whole, to support the findings by the Office of a cause for action under this section or unless action taken by the Office constitutes an abuse of discretion.
 
@@ -129,6 +129,8 @@
 (j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider's debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 
 (Added Pub. L. 100–654, title I, §101(a), Nov. 14, 1988, 102 Stat. 3837; amended Pub. L. 105–266, §2(a), Oct. 19, 1998, 112 Stat. 2363.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -183,6 +185,8 @@ Subsec. (h)(1), (2). Pub. L. 105–266, §2(a)(7), added pars. (1) and (2) and s
 Subsec. (i). Pub. L. 105–266, §2(a)(3), (8), redesignated subsec. (h) as (i), substituted "subsection (d)" for "subsection (c)", and inserted at end "The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied." Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 105–266, §2(a)(3), redesignated subsec. (i) as (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

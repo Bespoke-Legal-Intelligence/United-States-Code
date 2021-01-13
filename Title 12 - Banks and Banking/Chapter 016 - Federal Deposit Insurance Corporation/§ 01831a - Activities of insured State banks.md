@@ -76,7 +76,7 @@
 
 #### (1) In general
 
-&emsp;After the end of the 1-year period beginning on December 19, 1991, a subsidiary of an insured State bank may not engage as principalin any type of activity that is not permissible for a subsidiary of a national bank unless—
+&emsp;After the end of the 1-year period beginning on December 19, 1991, a subsidiary of an insured State bank may not engage as principal in any type of activity that is not permissible for a subsidiary of a national bank unless—
 
 &emsp;&emsp;(A) the Corporation has determined that the activity poses no significant risk to the Deposit Insurance Fund; and
 
@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this chapter shall be construed as prohibiting or impairing the sale or underwriting of savings bank life insurance, or the ownership of stock in a savings bank life insurance company, by any insured bank which—
+&emsp;No provision of this chapter shall be construed as prohibiting or impairing the sale or underwriting of savings bank life insurance, or the ownership of stock in a savings bank lifeinsurance company, by any insured bank which—
 
 &emsp;&emsp;(A) is located in the Commonwealth of Massachusetts or the State of New York or Connecticut; and
 
@@ -238,6 +238,8 @@ This section shall not be construed as limiting the authority of any appropriate
 
 (Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
@@ -266,7 +268,7 @@ Subsecs. (e)(2)(B)(ii), (f)(6)(B). Pub. L. 109–173, §8(a)(31)(C), substituted
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2217(1), substituted "Permissible activities" for "In general" in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
-Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit Insurance Fund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit InsuranceFund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit Insurance Fund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
@@ -275,6 +277,8 @@ Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 <b>1994</b>—Subsec. (j). Pub. L. 103–328 added subsec. (j).
 
 <b>1992</b>—Subsec. (e)(1)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "meets the consumer disclosure requirements under section 1828(k) of this title with respect to such insurance."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

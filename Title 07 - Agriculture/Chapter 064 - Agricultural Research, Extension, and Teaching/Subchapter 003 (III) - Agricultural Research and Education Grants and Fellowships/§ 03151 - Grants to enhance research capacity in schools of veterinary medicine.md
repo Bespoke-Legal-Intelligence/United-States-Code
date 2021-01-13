@@ -64,7 +64,7 @@ Pub. L. 115–334, title VII, §7614(c), Dec. 20, 2018, 132 Stat. 4837, provided
 
 "(1)
 
-Awards made after date of enactment.—The amendments made by subsections (a) \[repealing section 3371 of this title\] and (b) \[amending this section and sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632,and 8114 of this title\] shall apply with respect to grants, cooperative agreements, or other awards described in subsection (b) that are made after the date of the enactment of this Act \[Dec. 20, 2018\].
+Awards made after date of enactment.—The amendments made by subsections (a) \[repealing section 3371 of this title\] and (b) \[amending this section and sections 3157, 3322, 3333, 5813, 5924, 5925, 5925b, 7626, 7632, and 8114 of this title\] shall apply with respect to grants, cooperative agreements, or other awards described in subsection (b) that are made after the date of the enactment of this Act \[Dec. 20, 2018\].
 
 "(2)
 

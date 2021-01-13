@@ -24,6 +24,8 @@ Sections 729–732 of title 18, U.S.C., 1940 ed., were consolidated and complete
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–405 substituted "exceed $100,000 for each 12-month period of incarceration for any plaintiff who was unjustly sentenced to death and $50,000 for each 12-month period of incarceration for any other plaintiff" for "exceed the sum of $5,000".
@@ -33,6 +35,8 @@ Changes were made in phraseology.
 <b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 <b>1954</b>—Subsec. (c). Act Sept. 3, 1954, substituted "considered by" for "filed with".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

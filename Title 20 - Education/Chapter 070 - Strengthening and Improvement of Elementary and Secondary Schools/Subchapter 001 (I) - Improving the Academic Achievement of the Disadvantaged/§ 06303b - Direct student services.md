@@ -104,7 +104,7 @@ A local educational agency desiring to receive an award under subsection (b) sha
 
 A State educational agency that reserves an amount under subsection (a) shall—
 
-&emsp;(1) ensure that each local educational agency that receives an award under this sectionand intends to provide public school choice under subsection (c)(3)(E) can provide a sufficient number of options to provide a meaningful choice for parents;
+&emsp;(1) ensure that each local educational agency that receives an award under this section and intends to provide public school choice under subsection (c)(3)(E) can provide a sufficient number of options to provide a meaningful choice for parents;
 
 &emsp;(2) compile and maintain an updated list of State-approved high-quality academic tutoring providers that—
 
@@ -122,7 +122,7 @@ A State educational agency that reserves an amount under subsection (a) shall—
 
 &emsp;&emsp;&emsp;(iii) provide instruction and content that is secular, neutral, and non-ideological;
 
-&emsp;(3) ensure that each local educational agency receiving an award is able to provide an adequate number of high-quality academic tutoring options to ensure parents have a meaningful choice of services;
+&emsp;(3) ensure that each local educational agency receiving an award is able to provide anadequate number of high-quality academic tutoring options to ensure parents have a meaningful choice of services;
 
 &emsp;(4) develop and implement procedures for monitoring the quality of services provided by direct student service providers; and
 

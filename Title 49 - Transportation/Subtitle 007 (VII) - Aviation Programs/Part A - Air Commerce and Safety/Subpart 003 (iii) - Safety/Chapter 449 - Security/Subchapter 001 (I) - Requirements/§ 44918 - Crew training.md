@@ -84,7 +84,7 @@ Participation not required.—A crew member shall not be required to participate
 
 &emsp;(4)
 
-Compensation.—Neither the Federal Government nor an air carrier shall be required tocompensate a crew member for participating in the training program under this subsection.
+Compensation.—Neither the Federal Government nor an air carrier shall be required to compensate a crew member for participating in the training program under this subsection.
 
 &emsp;(5)
 

@@ -6,7 +6,7 @@ Section 9222, Pub. L. 105–220, title II, §222, Aug. 7, 1998, 112 Stat. 1066, 
 
 Section 9223, Pub. L. 105–220, title II, §223, Aug. 7, 1998, 112 Stat. 1067, related to State leadership activities.
 
-Section 9224, Pub. L. 105–220, title II, §224, Aug. 7, 1998, 112 Stat. 1068; Pub. L. 105–332, §4(1), Oct. 31, 1998, 112 Stat. 3126, provided for the requirement of a 5-year State plan.
+Section 9224, Pub. L. 105–220, title II, §224, Aug. 7, 1998, 112 Stat. 1068; Pub. L. 105–332, §4(1), Oct. 31, 1998,112 Stat. 3126, provided for the requirement of a 5-year State plan.
 
 Section 9225, Pub. L. 105–220, title II, §225, Aug. 7, 1998, 112 Stat. 1069; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(d)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, related to programs for corrections education and other institutionalized individuals.
 

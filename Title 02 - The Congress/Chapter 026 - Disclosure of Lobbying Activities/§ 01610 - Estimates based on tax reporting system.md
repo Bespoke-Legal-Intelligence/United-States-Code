@@ -20,7 +20,7 @@ A person, other than a lobbying firm, who is required to account and does accoun
 
 &emsp;(2) for all other purposes consider as lobbying contacts and lobbying activities only—
 
-&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section 1602(4) of this title) and lobbying activities in support of such contacts; and
+&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section1602(4) of this title) and lobbying activities in support of such contacts; and
 
 &emsp;&emsp;(B) lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to section 162(e) of title 26.
 
@@ -44,6 +44,8 @@ Not later than March 31, 1997, the Comptroller General of the United States shal
 
 (Pub. L. 104–65, §15, Dec. 19, 1995, 109 Stat. 702; Pub. L. 105–166, §4(a), (b), Apr. 6, 1998, 112 Stat. 38; Pub. L. 110–81, title II, §201(b)(4), Sept. 14, 2007, 121 Stat. 742.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (c) and (d)(2), (3), was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -59,6 +61,8 @@ Subsec. (a)(2). Pub. L. 105–166, §4(a)(2), amended par. (2) generally. Prior 
 Subsec. (b). Pub. L. 105–166, §4(b)(1), in introductory provisions, substituted "A person, other than a lobbying firm, who is required to account and does account for lobbying expenditures pursuant to" for "A registrant that is subject to".
 
 Subsec. (b)(2). Pub. L. 105–166, §4(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in lieu of using the definition of 'lobbying activities' in section 1602(7) of this title, consider as lobbying activities only those activities, the costs of which are not deductible pursuant to section 162(e) of title 26."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

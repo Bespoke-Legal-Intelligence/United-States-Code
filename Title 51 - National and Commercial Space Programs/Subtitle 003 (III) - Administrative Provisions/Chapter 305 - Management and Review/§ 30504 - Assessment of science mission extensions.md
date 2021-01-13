@@ -48,6 +48,8 @@ Pub. L. 109–155, title III, §304(a) (matter before par. (1)), (2), Dec. 30, 2
 
 In subsection (a), the words "In addition—" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–10 amended section generally. Prior to amendment, text read as follows:

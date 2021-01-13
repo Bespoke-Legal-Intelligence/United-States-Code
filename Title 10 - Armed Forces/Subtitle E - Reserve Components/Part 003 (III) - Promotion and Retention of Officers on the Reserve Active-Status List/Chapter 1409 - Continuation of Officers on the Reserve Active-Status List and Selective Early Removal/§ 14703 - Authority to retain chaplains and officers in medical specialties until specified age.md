@@ -2,7 +2,7 @@
 
 (a)
 
-Retention.—Notwithstanding any provision of chapter 1407 of this title and except for officers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
+Retention.—Notwithstanding any provision of chapter 1407 of this title and except forofficers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
 
 &emsp;(1) the Secretary of the Army may, with the officer's consent, retain in an active status any reserve officer assigned to the Medical Corps, the Dental Corps, the Veterinary Corps, the Medical Services Corps (if the officer has been designated as allied health officer or biomedical sciences officer in that Corps), the Optometry Section of the Medical Services Corps, the Chaplains, the Army Nurse Corps, or the Army Medical Specialists Corps;
 

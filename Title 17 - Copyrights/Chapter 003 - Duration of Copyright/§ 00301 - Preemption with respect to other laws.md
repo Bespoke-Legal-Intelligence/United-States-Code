@@ -12,7 +12,7 @@
 
 &emsp;(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8).
 
-(c) Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act.
+(c) Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did theday before the date of enactment of the Classics Protection and Access Act.
 
 (d) Nothing in this title annuls or limits any rights or remedies under any other Federal statute.
 
@@ -84,6 +84,8 @@ The Committee recognizes that, under recent court decisions, pre-1972 recordings
 
 Subsection (c) makes clear that nothing contained in Title 17 annuls or limits any rights or remedies under any other Federal statute.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Classics Protection and Access Act, referred to in subsec. (c), is the date of enactment of title II of Pub. L. 115–264, which was approved Oct. 11, 2018.
@@ -101,6 +103,8 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 Subsec. (f). Pub. L. 101–650, §605, added subsec. (f).
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–568 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

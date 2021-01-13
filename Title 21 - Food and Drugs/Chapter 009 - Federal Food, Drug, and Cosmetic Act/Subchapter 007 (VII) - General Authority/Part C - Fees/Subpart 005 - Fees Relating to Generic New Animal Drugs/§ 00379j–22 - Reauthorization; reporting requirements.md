@@ -80,6 +80,8 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 <i>For termination of section by section 206(b) of Pub. L. 115–234, see Termination Date note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201(b) of the Animal Generic Drug User Fee Amendments of 2018, referred to in subsec. (a), is section 201(b) of Pub. L. 115–234, which is set out as a note under section 379j–21 of this title.
@@ -97,6 +99,8 @@ Subsec. (b). Pub. L. 115–234, §203(2), (3), substituted "2019" for "2014" and
 Subsec. (d)(1), (5). Pub. L. 115–234, §203(4), substituted "2023" for "2018".
 
 <b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to reauthorization of this subpart and reporting requirements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -74,7 +74,7 @@ A prior section 8 of Pub. L. 88–210 was classified to section 2307 of this tit
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–224, §201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b) and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, §9(1), which had already amended those references. See below.
+<b>2018</b>—Subsec. (a). Pub. L. 115–224, §201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b)and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, §9(1), which had already amended those references. See below.
 
 Pub. L. 115–224, §9(1), substituted "Federal Government—" for "Federal Government to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title." and added pars. (1) to (3).
 

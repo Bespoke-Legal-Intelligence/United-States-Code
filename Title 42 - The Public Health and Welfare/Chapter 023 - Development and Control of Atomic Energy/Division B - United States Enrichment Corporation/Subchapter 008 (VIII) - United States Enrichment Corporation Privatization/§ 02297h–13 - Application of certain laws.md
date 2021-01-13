@@ -8,7 +8,7 @@
 
 #### (b) Antitrust laws
 
-For purposes of the antitrust laws, the performance by the private corporation of a"matched import" contract under the Suspension Agreement shall be considered to have occurred prior to the privatization date, if at the time of privatization, such contract had been agreed to by the parties in all material terms and confirmed by the Secretary of Commerce under the Suspension Agreement.
+For purposes of the antitrust laws, the performance by the private corporation of a "matched import" contract under the Suspension Agreement shall be considered to have occurred prior to the privatization date, if at the time of privatization, such contract had been agreed to by the parties in all material terms and confirmed by the Secretary of Commerce under the Suspension Agreement.
 
 #### (c) Energy Reorganization Act requirements
 
@@ -24,5 +24,5 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), i
 
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus ConsolidatedRescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 

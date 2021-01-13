@@ -14,6 +14,8 @@ Content.—Each report under this section shall include the following:
 
 (Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 410.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 7726 of this title prior to repeal by Pub. L. 109–233.

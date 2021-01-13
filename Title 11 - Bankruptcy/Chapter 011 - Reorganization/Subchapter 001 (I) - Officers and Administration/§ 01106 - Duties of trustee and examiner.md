@@ -70,6 +70,8 @@ Subsection (b) gives the trustee's investigative duties to an examiner, if one i
 
 Paragraphs (3), (4), and (5) of subsection (a) are derived from sections 165 and 169 of chapter X \[sections 565 and 569 of former title 11\].
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
@@ -96,6 +98,8 @@ Subsec. (c). Pub. L. 109–8, §219(b)(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 98–353, §502, inserted ", except to the extent that the court orders otherwise,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
@@ -120,7 +124,7 @@ Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–
 
 "(2) The level of benefits required to be paid by this subsection may be modified prior to confirmation of a plan under section 1129 of such title if—
 
-&emsp;"(A) the trustee and an authorized representative of the former employees with respect to whom suchbenefits are payable agree to the modification of such benefit payments; or
+&emsp;"(A) the trustee and an authorized representative of the former employees with respect to whom such benefits are payable agree to the modification of such benefit payments; or
 
 &emsp;"(B) the court finds that a modification proposed by the trustee meets the standards of section 1113(b)(1)(A) of such title and the balance of the equities clearly favors the modification.
 

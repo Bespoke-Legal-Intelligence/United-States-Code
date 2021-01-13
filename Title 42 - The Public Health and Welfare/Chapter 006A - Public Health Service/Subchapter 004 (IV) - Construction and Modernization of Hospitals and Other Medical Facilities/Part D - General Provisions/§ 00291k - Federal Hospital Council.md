@@ -10,7 +10,7 @@ Each appointed member shall hold office for a term of four years, except that an
 
 #### (c) Meetings; annual or by call of Surgeon General
 
-The Council shall meet as frequently as the Surgeon General deems necessary, but not less than once each year. Upon request by three or more members, it shall be the duty of the Surgeon General to call a meeting of the Council.
+The Council shall meet as frequently as the Surgeon General deems necessary, but not lessthan once each year. Upon request by three or more members, it shall be the duty of the Surgeon General to call a meeting of the Council.
 
 #### (d) Advisory or technical committees
 
@@ -44,5 +44,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Definitions
 
-For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, seesection 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 

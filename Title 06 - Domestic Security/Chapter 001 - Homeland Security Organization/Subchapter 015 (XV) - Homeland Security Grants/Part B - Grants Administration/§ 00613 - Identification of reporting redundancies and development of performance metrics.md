@@ -44,7 +44,7 @@ Not later than 1 year after the date on which the initial report is required to 
 
 &emsp;&emsp;(C) recommendations for any program modifications to improve the effectiveness of the program, to address changed or emerging conditions; and
 
-&emsp;&emsp;(D) an assessment of the experience of recipients of covered grants, including the availability of clear and accurate information, the timeliness of reviews and awards,and the provision of technical assistance, and recommendations for improving that experience.
+&emsp;&emsp;(D) an assessment of the experience of recipients of covered grants, including the availability of clear and accurate information, the timeliness of reviews and awards, and the provision of technical assistance, and recommendations for improving that experience.
 
 #### (d) Grants program measurement study
 
@@ -52,7 +52,7 @@ Not later than 1 year after the date on which the initial report is required to 
 
 &emsp;Not later than 30 days after October 12, 2010, the Administrator shall enter into a contract with the National Academy of Public Administration under which the National Academy of Public Administration shall assist the Administrator in studying, developing, and implementing—
 
-&emsp;&emsp;(A) quantifiable performance measures and metrics to assess the effectiveness of grants administered by the Department, as required under this section and section 749 of this title; and
+&emsp;&emsp;(A) quantifiable performance measures and metrics to assess the effectiveness of grantsadministered by the Department, as required under this section and section 749 of this title; and
 
 &emsp;&emsp;(B) the plan required under subsection (b)(3).
 
@@ -65,6 +65,8 @@ Not later than 1 year after the date on which the initial report is required to 
 &emsp;There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subsection.
 
 (Pub. L. 107–296, title XX, §2023, as added Pub. L. 111–271, §2(a), Oct. 12, 2010, 124 Stat. 2852.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,7 +6,7 @@ In this section, the term "high performance building" means a building that inte
 
 #### (b) Assessment
 
-Not later than 120 days after August 8, 2005, the Secretary shall enter into an agreementwith the National Institute of Building Sciences to—
+Not later than 120 days after August 8, 2005, the Secretary shall enter into an agreement with the National Institute of Building Sciences to—
 
 &emsp;(1) conduct an assessment (in cooperation with industry, standards development organizations, and other entities, as appropriate) of whether the current voluntary consensus standards and rating systems for high performance buildings are consistent with the current technological state of the art, including relevant results from the research, development and demonstration activities of the Department;
 
@@ -16,7 +16,7 @@ Not later than 120 days after August 8, 2005, the Secretary shall enter into an 
 
 #### (c) Grant and technical assistance program
 
-Consistent with subsection (b) and section 12(d) of the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 272 note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
+Consistent with subsection (b) and section 12(d) of the National Technology Transfer andAdvancement Act of 1995 (15 U.S.C. 272 note), the Secretary shall establish a grant and technical assistance program to support the development of voluntary consensus-based standards for high performance buildings.
 
 (Pub. L. 109–58, title IX, §914, Aug. 8, 2005, 119 Stat. 861.)
 

@@ -12,7 +12,7 @@
 
 #### (3) Consultation
 
-&emsp;In carrying out the duties under this section, the CMI shall consult representatives ofrelevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
+&emsp;In carrying out the duties under this section, the CMI shall consult representatives of relevant Federal agencies, and clinical and analytical experts with expertise in medicine and health care management. The CMI shall use open door forums or other mechanisms to seek input from interested parties.
 
 #### (4) Definitions
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) Contracting directly with groups of providers of services and suppliers to promote innovative care delivery models, such as through risk-based comprehensive payment or salary-based payment.
 
-&emsp;&emsp;&emsp;(iii) Utilizing geriatric assessments and comprehensive care plans to coordinate the care (including through interdisciplinary teams) of applicable individuals with multiple chronic conditions and at least one of the following:
+&emsp;&emsp;&emsp;(iii) Utilizing geriatric assessments and comprehensive care plans to coordinatethe care (including through interdisciplinary teams) of applicable individuals with multiple chronic conditions and at least one of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) An inability to perform 2 or more activities of daily living.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;&emsp;(xi) Allowing States to test and evaluate systems of all-payer payment reform for the medical care of residents of the State, including dual eligible individuals.
 
-&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicableindividuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
+&emsp;&emsp;&emsp;(xii) Aligning nationally recognized, evidence-based guidelines of cancer care with payment incentives under subchapter XVIII in the areas of treatment planning and follow-up care planning for applicable individuals described in clause (i) or (iii) of subsection (a)(4)(A) with cancer, including the identification of gaps in applicable quality measures.
 
 &emsp;&emsp;&emsp;(xiii) Improving post-acute care through continuing care hospitals that offer inpatient rehabilitation, long-term care hospitals, and home health or skilled nursing care during an inpatient stay and the 30 days immediately following discharge.
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) to improve the capacity of non-medical providers and non-specialized medical providers to provide health services for patients with chronic complex conditions.
 
-&emsp;&emsp;&emsp;(xx) Utilizing a diverse network of providers of services and suppliers to improve care coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 (42 U.S.C. 1395b–1 note).
+&emsp;&emsp;&emsp;(xx) Utilizing a diverse network of providers of services and suppliers to improvecare coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 (42 U.S.C. 1395b–1 note).
 
 &emsp;&emsp;&emsp;(xxi) Focusing primarily on physicians' services (as defined in section 1395w–4(j)(3) of this title) furnished by physicians who are not primary care practitioners.
 
@@ -196,7 +196,7 @@ Taking into account the evaluation under subsection (b)(4), the Secretary may, t
 
 #### (1) Waiver authority
 
-&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+&emsp;The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
 
 #### (2) Limitations on review
 

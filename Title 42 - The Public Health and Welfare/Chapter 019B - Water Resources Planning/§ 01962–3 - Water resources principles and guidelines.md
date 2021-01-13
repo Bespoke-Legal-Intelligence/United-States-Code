@@ -2,7 +2,7 @@
 
 #### (a) National water resources planning policy
 
-It is the policy of the United States that all water resources projects should reflect nationalpriorities, encourage economic development, and protect the environment by—
+It is the policy of the United States that all water resources projects should reflect national priorities, encourage economic development, and protect the environment by—
 
 &emsp;(1) seeking to maximize sustainable economic development;
 

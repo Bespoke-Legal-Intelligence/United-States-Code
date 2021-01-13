@@ -21,6 +21,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–287, §4(a)(2), Dec. 19, 2014, 128 Stat. 3261, added items 1865 and 1866.

@@ -12,6 +12,8 @@
 
 (Pub. L. 92–532, title I, §101, Oct. 23, 1972, 86 Stat. 1053; Pub. L. 93–254, §1(3), Mar. 22, 1974, 88 Stat. 51.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–254 incorporated existing provisions in introductory text, substituting reference to permits issued under section 1412 or section 1413 of this title for prior reference to such issuance under this subchapter; incorporated existing provisions in item designated (1); added item (2); and substituted prohibition against transportation of any material for ocean dumping for former prohibition against such dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
@@ -20,17 +22,21 @@ Subsec. (b). Pub. L. 93–254 substituted reference to permits issued under sect
 
 Subsec. (c). Pub. L. 93–254 struck out subsec. (c) which prohibited any officer, employee, agent, department, agency, or instrumentality of the United States from transporting from any location outside the United States any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or, except as may be authorized in a permit, any other material for purpose of dumping in ocean waters. See subsec. (b) of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 
 #### Effective Date
 
-Pub. L. 92–532, title I, §110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: "This title \[this subchapter\] shalltake effect six months after the date of the enactment of this Act \[Oct. 23, 1972\]."
+Pub. L. 92–532, title I, §110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: "This title \[this subchapter\] shall take effect six months after the date of the enactment of this Act \[Oct. 23, 1972\]."
 
 #### Savings Provision
 
 Pub. L. 92–532, title I, §110(b), Oct. 23, 1972, 86 Stat. 1060, provided that: "No legal action begun, or right of action accrued, prior to the effective date of this title \[this subchapter\] shall be affected by any provision of this title \[this subchapter\]."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea and Contiguous Zone of United States
 

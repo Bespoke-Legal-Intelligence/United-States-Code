@@ -30,6 +30,8 @@ This section also provides that anyone who has been a user of or addicted to a d
 
 In sections 7503(b)(2) and 7704(c), the term "use", when applying to "narcotic drugs" or "controlled substances", is not intended to include the use of "off the shelf" drugs or drugs acquired with a prescription lawfully issued by a medical doctor, as long as the drugs are used by the individual in the recommended amounts and the drugs will not impair the individual's ability to perform duties.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (a) to (c). Pub. L. 115–232 redesignated subsecs. (b) and (c) as (a) and (b), respectively.
@@ -41,6 +43,8 @@ In sections 7503(b)(2) and 7704(c), the term "use", when applying to "narcotic d
 <b>1985</b>—Subsec. (b). Pub. L. 99–36, §1(a)(9)(F), substituted "merchant mariner's document" for first reference to "document".
 
 Subsec. (c). Pub. L. 99–36, §1(a)(9)(G), substituted "certificate of registry, or merchant mariner's document" for "certificate, or document".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

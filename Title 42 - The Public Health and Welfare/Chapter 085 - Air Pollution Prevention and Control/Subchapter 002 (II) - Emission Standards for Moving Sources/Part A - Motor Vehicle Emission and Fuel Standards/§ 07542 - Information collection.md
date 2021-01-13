@@ -2,7 +2,7 @@
 
 #### (a) Manufacturer's responsibility
 
-Every manufacturer of new motor vehicles or new motor vehicle engines, and every manufacturer of new motor vehicle or engine parts or components, and other persons subject to the requirements of this part or part C, shall establish and maintain records, perform tests where such testing is not otherwise reasonably available under this part and part C (including fees for testing), make reports and provide information the Administrator may reasonably require to determine whether the manufacturer or other person has acted or is acting in compliance with this part and part C and regulations thereunder, or to otherwise carry out the provision of this part and part C, and shall, upon request of an officer or employee duly designated by the Administrator, permit such officer or employee at reasonable times to have access to and copy such records.
+Every manufacturer of new motor vehicles or new motor vehicle engines, and every manufacturer of new motor vehicle or engine parts or components, and other persons subject to the requirements of this part or part C, shall establish and maintain records, perform tests where such testing is not otherwise reasonably available under this part and part C (including fees for testing), make reports and provide information the Administrator may reasonably require todetermine whether the manufacturer or other person has acted or is acting in compliance with this part and part C and regulations thereunder, or to otherwise carry out the provision of this part and part C, and shall, upon request of an officer or employee duly designated by the Administrator, permit such officer or employee at reasonable times to have access to and copy such records.
 
 #### (b) Enforcement authority
 
@@ -34,7 +34,7 @@ Another prior section 208 of act July 14, 1955, as added Oct. 20, 1965, Pub. L. 
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–604, §§11(a)(2)(A), 15(c)(2), substituted "Administrator" for "Secretary" wherever appearing and "part" for "subchapter".
 
-Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions authorizing the Administrator to make available to the public any records, reports, of information obtained under subsec. (a) of this section, except those shown to the Administrator to be entitled to protection as trade secrets, for provisions that all information reported or otherwise obtained by the Secretary or his representative pursuant to subsec. (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, be considered confidential for the purpose ofsuch section 1905, and substituted "Administrator" for "Secretary".
+Subsec. (b). Pub. L. 91–604, §§10(a), 15(c)(2), substituted provisions authorizing the Administrator to make available to the public any records, reports, of information obtained under subsec. (a) of this section, except those shown to the Administrator to be entitled to protection as trade secrets, for provisions that all information reported or otherwise obtained by the Secretary or his representative pursuant to subsec. (a) of this section, which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18, be considered confidential for the purpose of such section 1905, and substituted "Administrator" for "Secretary".
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 

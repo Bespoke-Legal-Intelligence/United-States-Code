@@ -24,7 +24,7 @@ Whenever used in this title in connection with the gift tax imposed by this chap
 
 The tax imposed by section 2501 shall be paid by the donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, §102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, §442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, §10401(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 107–16, title V, §511(d), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(b)(2), Dec. 17, 2010, 124 Stat. 3301.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 91–614, title I, §102(a)(2), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(b)(1), Oct. 4, 1976, 90 Stat. 1849; Pub. L. 97–34, title IV, §442(a)(2), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–203, title X, §10401(b)(2)(B), Dec. 22, 1987, 101Stat. 1330–431; Pub. L. 107–16, title V, §511(d), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(b)(2), Dec. 17, 2010, 124 Stat. 3301.)
 
 #### Amendments
 

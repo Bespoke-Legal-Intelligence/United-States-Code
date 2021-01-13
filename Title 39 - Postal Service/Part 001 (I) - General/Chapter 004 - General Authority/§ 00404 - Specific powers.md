@@ -18,7 +18,7 @@
 
 &emsp;(8) to authorize the issuance of a substitute check for a lost, stolen, or destroyed check of the Postal Service.
 
-(b) Except as otherwise provided, the Governors are authorized to establish reasonable and equitable classes of mail and reasonable and equitable rates of postage and fees for postal services in accordance with the provisions of chapter 36. Postal rates and fees shall be reasonable and equitable and sufficient to enable the Postal Service, under best practices of honest, efficient, and economical management, to maintain and continue the development of postal services of the kind and quality adapted to the needs of the United States.
+(b) Except as otherwise provided, the Governors are authorized to establish reasonable and equitable classes of mail and reasonable andequitable rates of postage and fees for postal services in accordance with the provisions of chapter 36. Postal rates and fees shall be reasonable and equitable and sufficient to enable the Postal Service, under best practices of honest, efficient, and economical management, to maintain and continue the development of postal services of the kind and quality adapted to the needs of the United States.
 
 (c) The Postal Service shall maintain one or more classes of mail for the transmission of letters sealed against inspection. The rate for each such class shall be uniform throughout the United States, its territories, and possessions. One such class shall provide for the most expeditious handling and transportation afforded mail matter by the Postal Service. No letter of such a class of domestic origin shall be opened except under authority of a search warrant authorized by law, or by an officer or employee of the Postal Service for the sole purpose of determining an address at which the letter can be delivered, or pursuant to the authorization of the addressee.
 
@@ -76,6 +76,8 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 94–421, §9(a), Sept. 24, 1976, 90 Stat. 1310; Pub. L. 105–241, §3, Sept. 28, 1998, 112 Stat. 1572; Pub. L. 109–435, title I, §102(a), title IV, §403(b)(2), title VI, §604(a), title X, §§1006(a), 1010(e), Dec. 20, 2006, 120 Stat. 3200, 3227, 3241, 3258, 3261.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (d)(2)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
@@ -114,6 +116,8 @@ Subsecs. (d), (e). Pub. L. 109–435, §1010(e), redesignated subsecs. (b) and (
 
 <b>1976</b>—Pub. L. 94–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–435, title X, §1006(b), Dec. 20, 2006, 120 Stat. 3258, provided that: "This section \[amending this section\] and the amendments made by this section shall apply with respect to any determination to close or consolidate a post office which is first made available, in accordance with paragraph (3) of section 404(b) of title 39, United States Code, after the end of the 3-month period beginning on the date of the enactment of this Act \[Dec. 20, 2006\]."
@@ -124,7 +128,7 @@ Pub. L. 94–421, §9(b), Sept. 24, 1976, 90 Stat. 1311, provided that: "The ame
 
 #### Effective Date
 
-Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9 of theBoard of Governors and par. (2) of subsec. (a) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+Pars. (1), (3) to (9) of subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors and par. (2) of subsec. (a) effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### References to Postal Rate Commission
 

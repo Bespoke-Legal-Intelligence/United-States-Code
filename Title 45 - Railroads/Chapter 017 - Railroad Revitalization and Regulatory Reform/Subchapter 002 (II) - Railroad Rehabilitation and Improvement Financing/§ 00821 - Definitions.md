@@ -60,6 +60,8 @@ For purposes of this subchapter:
 
 (Pub. L. 94–210, title V, §501, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471; amended Pub. L. 114–94, div. A, title XI, §11602, Dec. 4, 2015, 129 Stat. 1693.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 821, Pub. L. 94–210, title V, §501, Feb. 5, 1976, 90 Stat. 66; Pub. L. 95–620, title VIII, §803(c)(1), Nov. 9, 1978, 92 Stat. 3347; Pub. L. 96–101, §24(b), Nov. 4, 1979, 93 Stat. 747; Pub. L. 96–448, title IV, §405(d), Oct. 14, 1980, 94 Stat. 1947; Pub. L. 97–35, title XI, §1162(b), Aug. 13, 1981, 95 Stat. 684; Pub. L. 99–509, title IV, §4033(c)(2), Oct. 21, 1986, 100 Stat. 1908, defined terms for purposes of this subchapter, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
@@ -78,6 +80,8 @@ Pars. (11) to (14). Pub. L. 114–94, §11602(5), added pars. (11) to (14).
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 Pub. L. 114–94, div. A, title XI, §11607(b), Dec. 4, 2015, 129 Stat. 1699, provided that: "All provisions under sections 502 through 504 \[45 U.S.C. 822, 823, 836\] of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 801 et seq.) as they existed on the day before enactment of this Act shall apply to direct loans provided by the Secretary \[of Transportation\] prior to the date of enactment of this Act \[Dec. 4, 2015\], and nothing in this title \[see Tables for classification\] may be construed to limit the payback of a credit risk premium, with interest accrued thereon, if a direct loan provided by the Secretary under such sections has been paid back in full, prior to the date of enactment of this Act."
@@ -92,5 +96,5 @@ In General.—Except as provided in subsection (b) and section 11607(b) \[set ou
 
 Modification Costs.—At the discretion of the Secretary \[of Transportation\], the authority to accept modification costs on behalf of an applicant under section 502(f) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822(f)), as amended by section 11607 of this Act, may apply with respect to any direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) that was in effect prior to the date of enactment of this Act."
 
-Pub. L. 105–178, title VII, §7203(b)(2), June 9, 1998, 112 Stat. 477, provided that: "A transaction entered intounder the authority of title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.) before the date of enactment of this Act \[June 9, 1998\] shall be administered until completion under its terms as if this Act \[see Tables for classification\] were not enacted."
+Pub. L. 105–178, title VII, §7203(b)(2), June 9, 1998, 112 Stat. 477, provided that: "A transaction entered into under the authority of title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.) before the date of enactment of this Act \[June 9, 1998\] shall be administered until completion under its terms as if this Act \[see Tables for classification\] were not enacted."
 

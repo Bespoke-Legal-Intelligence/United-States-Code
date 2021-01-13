@@ -14,6 +14,8 @@ Section consolidates said sections 227 and 228 of title 25, U.S.C., 1940 ed., In
 
 The phrase "or whose person was injured," which followed the words "friendly Indian to whom the property may belong," was deleted as meaningless.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "non-Indian" for "white person" in first par.

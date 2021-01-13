@@ -225,7 +225,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by otherBanks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
+&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
 
 #### (ii) Determination of amounts
 
@@ -275,7 +275,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (iii) Payment term alterations
 
-&emsp;&emsp;&emsp;The Director shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
+&emsp;&emsp;&emsp;The Director shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that thevalue of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
 
 #### (iv) Term beyond maturity
 
@@ -341,7 +341,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be "exempted securities" within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be "exempted securities" within the meaning of section 78c(a)(12)(A)(i) of title 15, exceptthat such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
 
 #### (B) Authority of Commission
 
@@ -495,6 +495,8 @@ The Thrift Depositor Protection Oversight Board may prescribe any regulations ne
 
 (July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -538,6 +540,8 @@ Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the 
 Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted "Thrift Depositor Protection Oversight" for "Oversight" in heading.
 
 <b>1991</b>—Pub. L. 102–233 substituted "Thrift Depositor Protection Oversight Board" for "Oversight Board" wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -98,7 +98,7 @@ Subsec. (a)(3). Pub. L. 115–91, §1603(a), added par. (3).
 
 Subsec. (b). Pub. L. 115–91, §1603(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 115–91, §1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted "prohibitions in subsection (a) and (b)" for "prohibition in subsection\(a)" in introductory provisions. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–91, §1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted "prohibitions in subsection (a) and (b)" for "prohibition in subsection (a)" in introductory provisions. Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), (E), redesignated subsec. (c) as (d) and substituted "subsection (c)" for "subsection (b)" and "prohibition under subsection (a) or (b)" for "prohibition under subsection (a)". Former subsec. (d) redesignated (e).
 

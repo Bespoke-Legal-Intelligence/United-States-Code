@@ -12,6 +12,8 @@ Said section 37 was incorporated in this section and section 756 of this title.
 
 Minor verbal changes were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647 substituted "belligerent" for "beligerent" before "nation".

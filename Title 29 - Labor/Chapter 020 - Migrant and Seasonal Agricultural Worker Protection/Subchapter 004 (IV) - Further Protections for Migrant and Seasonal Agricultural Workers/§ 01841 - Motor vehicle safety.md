@@ -10,7 +10,7 @@
 
 (1) When using, or causing to be used, any vehicle for providing transportation to which this section applies, each agricultural employer, agricultural association, and farm labor contractor shall—
 
-&emsp;(A) ensure that such vehicle conforms to the standards prescribed by the Secretary underparagraph (2) of this subsection and other applicable Federal and State safety standards,
+&emsp;(A) ensure that such vehicle conforms to the standards prescribed by the Secretary under paragraph (2) of this subsection and other applicable Federal and State safety standards,
 
 &emsp;(B) ensure that each driver has a valid and appropriate license, as provided by State law, to operate the vehicle, and
 
@@ -18,7 +18,7 @@
 
 (2)(A) For purposes of paragraph (1)(A), the Secretary shall prescribe such regulations as may be necessary to protect the health and safety of migrant and seasonal agricultural workers.
 
-(B) To the extent consistent with the protection of the health and safety of migrant and seasonal agricultural workers, the Secretary shall, in promulgating regulations under subparagraph (A), consider, among other factors—
+(B) To the extent consistent with the protection of the health and safety of migrant and seasonal agricultural workers, the Secretary shall,in promulgating regulations under subparagraph (A), consider, among other factors—
 
 &emsp;(i) the type of vehicle used,
 
@@ -50,6 +50,8 @@ The Secretary shall, by regulations promulgated in accordance with section 1861 
 
 (Pub. L. 97–470, title IV, §401, Jan. 14, 1983, 96 Stat. 2594; Pub. L. 104–49, §5(a), Nov. 15, 1995, 109 Stat. 434; Pub. L. 104–88, title III, §333, Dec. 29, 1995, 109 Stat. 953.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (b)(2)(D) and (d), is the effective date of Pub. L. 97–470, which is ninety days from the date of enactment of Pub. L. 97–470, which was approved Jan. 14, 1983.
@@ -63,6 +65,8 @@ In subsec. (b)(2)(D), "section 31502 of title 49" substituted for "section 3102 
 <b>1995</b>—Subsec. (b)(2)(C). Pub. L. 104–88 substituted "part B of subtitle IV of title 49" for "part II of the Interstate Commerce Act, or any successor provision of subtitle IV of title 49".
 
 Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The level of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendments
 

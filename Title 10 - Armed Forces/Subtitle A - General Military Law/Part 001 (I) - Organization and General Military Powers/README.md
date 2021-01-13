@@ -18,7 +18,18 @@
 | [<b>14.</b>](Chapter%20014%20-%20Arming%20of%20American%20Vessels/README.md) | <b>Arming of American Vessels</b> | <b>261</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>271</b> |
 | [<b>16.</b>](Chapter%20016%20-%20Security%20Cooperation/README.md) | <b>Security Cooperation</b> | <b>301</b> |
-| [<b>19.</b>](Chapter%20019%20-%20Cyber%20and%20Information%20Operations%20Matters/README.md) | <b>Cyber and Information Operations Matters</b> | <b>391</b> |
+| <b>19.</b><b><sup>1</sup></b> | <b>Cyber and Information Operations Matters</b> | <b>391</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| <b>19.</b><b><sup>1</sup></b> | <b>Cyber Matters</b> | <b>391.</b><b><sup>2</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
@@ -29,15 +40,17 @@
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in item for chapter 19.
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19.
+
+<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in first item for chapter 19.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
-<b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
+<b>2015</b>—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in first item for chapter 19.
 
-<b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
+<b>2014</b>—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
 
 <b>2013</b>—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted "Nuclear Posture" for "Nuclear posture" in item for chapter 24.
 
@@ -74,6 +87,10 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 <b>1981</b>—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 <b>1962</b>—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+<i><sup>1</sup></i><i> So in original. Two items for chapter 19 have been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

@@ -358,7 +358,7 @@ A prior section 1125A of Pub. L. 89–10 was classified to section 6336 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of thistitle" for "funds appropriated under subsection (f) of this section".
+<b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of this title" for "funds appropriated under subsection (f) of this section".
 
 Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year to carry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
 

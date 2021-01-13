@@ -18,7 +18,7 @@ Elements of Tenant Bill of Rights.—At a minimum, the Military Housing Privatiz
 
 &emsp;(1) The right to reside in a housing unit and community that meets applicable health and environmental standards.
 
-&emsp;(2) The right to reside in a housing unit that has working fixtures, appliances, and utilitiesand to reside in a community with well-maintained common areas and amenity spaces.
+&emsp;(2) The right to reside in a housing unit that has working fixtures, appliances, and utilities and to reside in a community with well-maintained common areas and amenity spaces.
 
 &emsp;(3) The right to be provided with a maintenance history of the prospective housing unit before signing a lease, as provided in section 2892a of this title.
 
@@ -62,7 +62,7 @@ Elements of Tenant Bill of Rights.—At a minimum, the Military Housing Privatiz
 
 &emsp;(14) The right to enter into a dispute resolution process, as provided in section 2894 of this title, should all other methods be exhausted and, in which case, a decision in favor of the tenant may include a reduction in rent or an amount to be reimbursed or credited to the tenant.
 
-&emsp;(15) The right to have the tenant's basic allowance housing payments segregated and held in escrow, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
+&emsp;(15) The right to have the tenant's basic allowance housing payments segregated, with approval of a designated commander, and not used by the property owner, property manager, or landlord pending completion of the dispute resolution process.
 
 &emsp;(16) The right to have reasonable, advance notice of any entrance by a landlord, installation housing staff, or chain of command into the housing unit, except in the case of an emergency or abandonment of the housing unit.
 
@@ -98,7 +98,7 @@ Submission to Congress and Public Availability.—(1) As part of the budget subm
 
 Investigation of Reports of Reprisals.—(1) The Assistant Secretary of Defense for Sustainment shall investigate all reports of reprisal against a member of the armed forces for reporting an issue relating to a housing unit.
 
-(2) If the Assistant Secretary of Defense for Sustainment determines under paragraph (1) that landlord <sup>1</sup> has retaliated against a member of the armed forces for reporting an issue relating to a housing unit, the Assistant Secretary shall—
+(2) If the Assistant Secretary of Defense for Sustainment determines under paragraph (1) that a landlord has retaliated against a member of the armed forces for reporting an issue relating to a housing unit, the Assistant Secretary shall—
 
 &emsp;(A) provide initial notice to the Committees on Armed Services of the Senate and the House of Representatives as soon as practicable after making that determination; and
 
@@ -110,11 +110,21 @@ Investigation of Reports of Reprisals.—(1) The Assistant Secretary of Defense 
 
 Prohibition on Use of Nondisclosure Agreements.—(1) A tenant or prospective tenant of a housing unit may not be required to sign a nondisclosure agreement in connection with entering into, continuing, or terminating a lease for the housing unit. Any such agreement against the interests of the tenant is invalid.
 
-(2) Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation.
+(2) Paragraph (1) shall not apply to a nondisclosure agreement executed—
 
-(Added and amended Pub. L. 116–92, div. B, title XXX, §§3011(b), 3023, 3024(a), Dec. 20, 2019, 133 Stat. 1917, 1935.)
+&emsp;(A) as part of the settlement of litigation; or
+
+&emsp;(B) to avoid litigation if the tenant has retained legal counsel or has sought military legal assistance under section 1044 of this title.
+
+(Added and amended Pub. L. 116–92, div. B, title XXX, §§3011(b), 3023, 3024(a), Dec. 20, 2019, 133 Stat. 1917, 1935; Pub. L. 116–283, div. B, title XXVIII, §2811(b), Jan. 1, 2021, 134 Stat. 4323.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(15). Pub. L. 116–283, §2811(b)(1), struck out "and held in escrow" after "payments segregated".
+
+Subsec. (e)(2). Pub. L. 116–283, §2811(b)(2), inserted "a" before "landlord" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 116–283, §2811(b)(3), added par. (2) and struck out former par. (2) which read as follows: "Paragraph (1) shall not apply to a nondisclosure agreement executed as part of the settlement of litigation."
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–92, §3023, added subsec. (e).
 
@@ -186,7 +196,7 @@ Initial guidance.—Not later than 30 days after the date of the enactment of th
 
 &emsp;&emsp;"(B) A universal lease agreement for privatized military housing that includes—
 
-&emsp;&emsp;&emsp;"(i) the documents developed pursuant to section 2890 of title 10, United States Code, as addedby section 3011, entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities; and
+&emsp;&emsp;&emsp;"(i) the documents developed pursuant to section 2890 of title 10, United States Code, as added by section 3011, entitled Military Housing Privatization Initiative Tenant Bill of Rights and Military Housing Privatization Initiative Tenant Responsibilities; and
 
 &emsp;&emsp;&emsp;"(ii) any lease addendum required by the law of the State in which the unit of privatized military housing is located.
 
@@ -199,6 +209,4 @@ Consultation.—The Secretary of Defense shall carry out this subsection in cons
 Military Department Plans.—Not later than February 1, 2020, the Secretary of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the implementation of this section by that military department."
 
 \[For definition of "privatized military housing" as used in section 3057 of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.\]
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
 

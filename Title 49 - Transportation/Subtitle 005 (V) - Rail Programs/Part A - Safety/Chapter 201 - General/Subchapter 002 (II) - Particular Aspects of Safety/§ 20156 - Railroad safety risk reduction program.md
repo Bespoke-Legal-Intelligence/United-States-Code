@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Program requirement.—Not later than 4 years after the date of enactment of the RailSafety Improvement Act of 2008, the Secretary of Transportation, by regulation, shall require each railroad carrier that is a Class I railroad, a railroad carrier that has inadequate safety performance (as determined by the Secretary), or a railroad carrier that provides intercity rail passenger or commuter rail passenger transportation—
+Program requirement.—Not later than 4 years after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation, by regulation, shall require each railroad carrier that is a Class I railroad, a railroad carrier that has inadequate safety performance (as determined by the Secretary), or a railroad carrier that provides intercity rail passenger or commuter rail passenger transportation—
 
 &emsp;&emsp;(A) to develop a railroad safety risk reduction program under subsection (d) that systematically evaluates railroad safety risks on its system and manages those risks in order to reduce the numbers and rates of railroad accidents, incidents, injuries, and fatalities;
 

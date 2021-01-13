@@ -34,7 +34,7 @@
 
 #### (b) Exploration
 
-(1) The Secretary may, under such regulations as he may prescribe, issue to any person an exploration license. No person may conduct coal exploration for commercial purposes for any coal on lands subject to this chapter without such an exploration license. Each exploration license shall be for a term of not more than two years and shall be subject to a reasonable fee. An exploration license shall confer no right to a lease under this chapter. The issuance of exploration licenses shall not preclude the Secretary from issuing coal leases at such times and locations and to such persons as he deems appropriate. No exploration license will be issued for any land on which a coal lease has been issued. A separate exploration license will be required for exploration in each State. An application for an exploration license shall identify general areas and probable methods of exploration. Each exploration license shall contain such reasonable conditions as the Secretary may require,including conditions to insure the protection of the environment, and shall be subject to all applicable Federal, State, and local laws and regulations. Upon violation of any such conditions or laws the Secretary may revoke the exploration license.
+(1) The Secretary may, under such regulations as he may prescribe, issue to any person an exploration license. No person may conduct coal exploration for commercial purposes for any coal on lands subject to this chapter without such an exploration license. Each exploration license shall be for a term of not more than two years and shall be subject to a reasonable fee. An exploration license shall confer no right to a lease under this chapter. The issuance of exploration licenses shall not preclude the Secretary from issuing coal leases at such times and locations and to such persons as he deems appropriate. No exploration license will be issued for any land on which a coal lease has been issued. A separate exploration license will be required for exploration in each State. An application for an exploration license shall identify general areas and probable methods of exploration. Each exploration license shall contain such reasonable conditions as the Secretary may require, including conditions to insure the protection of the environment, and shall be subject to all applicable Federal, State, and local laws and regulations. Upon violation of any such conditions or laws the Secretary may revoke the exploration license.
 
 (2) A licensee may not cause substantial disturbance to the natural land surface. He may not remove any coal for sale but may remove a reasonable amount of coal from the lands subject to this chapter included under his license for analysis and study. A licensee must comply with all applicable rules and regulations of the Federal agency having jurisdiction over the surface of the lands subject to this chapter. Exploration licenses covering lands the surface of which is under the jurisdiction of any Federal agency other than the Department of the Interior may be issued only upon such conditions as it may prescribe with respect to the use and protection of the nonmineral interests in those lands.
 
@@ -43,6 +43,8 @@
 (4) Any person who willfully conducts coal exploration for commercial purposes on lands subject to this chapter without an exploration license issued hereunder shall be subject to a fine of not more than $1,000 for each day of violation. All data collected by said person on any Federal lands as a result of such violation shall be made immediately available to the Secretary, who shall make the data available to the public as soon as it is practicable. No penalty under this subsection shall be assessed unless such person is given notice and opportunity for a hearing with respect to such violation.
 
 (Feb. 25, 1920, ch. 85, §2(a), (b), 41 Stat. 438; June 3, 1948, ch. 379, §1, 62 Stat. 289; Pub. L. 86–252, §2, Sept. 9, 1959, 73 Stat. 490; Pub. L. 88–526, §2(a), (b), Aug. 31, 1964, 78 Stat. 710; Pub. L. 94–377, §§2–4, Aug. 4, 1976, 90 Stat. 1083, 1085; Pub. L. 95–554, §2, Oct. 30, 1978, 92 Stat. 2073; Pub. L. 109–58, title IV, §436, Aug. 8, 2005, 119 Stat. 762.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,9 +78,11 @@ Subsec. (b). Pub. L. 88–526, §2(b), increased limitation on the area carried 
 
 <b>1948</b>—Act June 3, 1948, amended section generally, dividing it into subsections (a) to (c) and making minor technical changes. Subsecs. (a) and (b) comprise this section and subsec. (c) is set out as section 202 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title IV, §438, Aug. 8, 2005, 119 Stat. 763, provided that: "The amendments made by this subtitle \[subtitle D (§§431–438) of title IV of Pub. L. 109–58,amending this section and sections 202a, 203, and 207 of this title\] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act \[Aug. 8, 2005\]."
+Pub. L. 109–58, title IV, §438, Aug. 8, 2005, 119 Stat. 763, provided that: "The amendments made by this subtitle \[subtitle D (§§431–438) of title IV of Pub. L. 109–58, amending this section and sections 202a, 203, and 207 of this title\] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -183,6 +187,8 @@ Pub. L. 94–377, §10, Aug. 4, 1976, 90 Stat. 1090, provided that the Director 
 #### Coal Mining on Areas of National Park, Wildlife, Wilderness Preservation, Trail, Scenic Rivers, Systems Not Authorized
 
 Pub. L. 94–377, §16, Aug. 4, 1976, 90 Stat. 1092, provided that: "Nothing in this Act \[see Short Title of 1976 Amendment note under section 181 of this title\], or the Mineral Lands Leasing Act \[this chapter\] and the Mineral Leasing Act for Acquired Lands \[section 351 et seq. of this title\] which are amended by this Act, shall be construed as authorizing coal mining on any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, and the Wild and Scenic Rivers System, including study rivers designated under section 5(a) of the Wild and Scenic Rivers Act \[section 1276(a) of Title 16, Conservation\]."
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

@@ -16,13 +16,13 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 > &emsp;and no deduction shall be allowed with respect to such interest (even if such deduction is not disallowed under subparagraphs (A) and (B))—
 
-&emsp;&emsp;(C) if such interest is to be acquired for the surviving spouse, pursuant to directions of the decedent, by his executor or by the trustee of a trust.
+&emsp;&emsp;(C) if such interest is to be acquired for the surviving spouse, pursuant to directions ofthe decedent, by his executor or by the trustee of a trust.
 
 > &emsp;For purposes of this paragraph, an interest shall not be considered as an interest which will terminate or fail merely because it is the ownership of a bond, note, or similar contractual obligation, the discharge of which would not have the effect of an annuity for life or for a term.
 
 #### (2) Interest in unidentified assets
 
-&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particularasset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
+&emsp;Where the assets (included in the decedent's gross estate) out of which, or the proceeds of which, an interest passing to the surviving spouse may be satisfied include a particular asset or assets with respect to which no deduction would be allowed if such asset or assets passed from the decedent to such spouse, then the value of such interest passing to such spouse shall, for purposes of subsection (a), be reduced by the aggregate value of such particular assets.
 
 #### (3) Interest of spouse conditional on survival for limited period
 
@@ -68,7 +68,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;&emsp;(i) for purposes of subsection (a), such property shall be treated as passing to the surviving spouse, and
 
-&emsp;&emsp;&emsp;(ii) for purposes of paragraph (1)(A), no part of such property shall be treated as passing to any person other than the surviving spouse.
+&emsp;&emsp;&emsp;(ii) for purposes of paragraph (1)(A), no part of such property shall be treated aspassing to any person other than the surviving spouse.
 
 #### (B) Qualified terminable interest property defined
 
@@ -246,7 +246,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;"(i)
 
-Noncharitable beneficiary.—The term 'noncharitable beneficiary' means any beneficiary of the qualified charitable remainder trust other than an organization described in section 170(c).
+Noncharitable beneficiary.—The term 'noncharitable beneficiary' means any beneficiary ofthe qualified charitable remainder trust other than an organization described in section 170(c).
 
 &emsp;&emsp;"(ii)
 
@@ -336,7 +336,7 @@ Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included i
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7815(d)(4)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shall not expire before the date 1 year after such date of enactment."
+Pub. L. 101–239, title VII, §7815(d)(4)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shallnot expire before the date 1 year after such date of enactment."
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -422,7 +422,7 @@ Pub. L. 89–621, §1(b), Oct. 4, 1966, 80 Stat. 872, provided that: "The amendm
 
 #### Commencement of Judicial Proceeding To Reform Trust
 
-Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "The period during which a proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "The period during whicha proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 

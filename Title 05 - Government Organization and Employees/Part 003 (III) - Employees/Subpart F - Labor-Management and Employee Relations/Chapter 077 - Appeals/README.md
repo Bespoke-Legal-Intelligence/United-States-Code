@@ -4,9 +4,11 @@
 | :--- | ---: |
 | [7701\.](%C2%A7%2007701%20-%20Appellate%20procedures.md) | Appellate procedures. |
 | [7702\.](%C2%A7%2007702%20-%20Actions%20involving%20discrimination.md) | Actions involving discrimination. |
-| [7703\.](%C2%A7%2007703%20-%20Judicial%20review%20of%20decisions%20of%20the%20Merit%20Systems%20Protection%20Board.md) | Judicial review of decisions of the Merit Systems Protection Board. |
+| [7703\.](%C2%A7%2007703%20-%20Judicial%20review%20of%20decisions%20of%20the%20Merit%20Systems%20Protection%20Board.md) | Judicial review of decisions of the Merit Systems Protection Board.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

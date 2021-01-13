@@ -6,7 +6,7 @@ Any person who willfully violates any of the provisions of section 215 of this t
 
 #### (b) Damages; right of action; attorney's fees and costs; termination of right of action
 
-Any employer who violates the provisions of section 206 or section 207 of this title shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of section 215(a)(3) of this title shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of section 215(a)(3) of this title, including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. Any employer who violates section 203(m)(2)(B) of this title shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages. An action to recover the liability prescribed in the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney's fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in an action under section 217 of this title in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or section 207 of this title by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of section 215(a)(3) of this title.
+Any employer who violates the provisions of section 206 or section 207 of this title shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of section 215(a)(3) of this title shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of section 215(a)(3) of this title, including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. Any employer who violates section 203(m)(2)(B) of this title shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages. An action to recover the liability prescribed in the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to anyjudgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney's fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in an action under section 217 of this title in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or section 207 of this title by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of section 215(a)(3) of this title.
 
 #### (c) Payment of wages and compensation; waiver of claims; actions by the Secretary; limitation of actions
 
@@ -16,7 +16,7 @@ The Secretary is authorized to supervise the payment of the unpaid minimum wages
 
 In any action or proceeding commenced prior to, on, or after August 8, 1956, no employer shall be subject to any liability or punishment under this chapter or the Portal-to-Portal Act of 1947 \[29 U.S.C. 251 et seq.\] on account of his failure to comply with any provision or provisions of this chapter or such Act (1) with respect to work heretofore or hereafter performed in a workplace to which the exemption in section 213(f) of this title is applicable, (2) with respect to work performed in Guam, the Canal Zone or Wake Island before the effective date of this amendment of subsection (d), or (3) with respect to work performed in a possession named in section 206(a)(3) <sup>1</sup> of this title at any time prior to the establishment by the Secretary, as provided therein, of a minimum wage rate applicable to such work.
 
-#### (e) Civil penalties for child labor violations
+#### (e) Civil penalties for certain violations
 
 (1)(A) Any person who violates the provisions of sections <sup>2</sup> 212 or 213(c) of this title, relating to child labor, or any regulation issued pursuant to such sections, shall be subject to a civil penalty not to exceed—
 
@@ -48,6 +48,8 @@ In any action or proceeding commenced prior to, on, or after August 8, 1956, no 
 
 (June 25, 1938, ch. 676, §16, 52 Stat. 1069; May 14, 1947, ch. 52, §5(a), 61 Stat. 87; Oct. 26, 1949, ch. 736, §14, 63 Stat. 919; 1950 Reorg. Plan No. 6, §§1, 2, 15 F.R. 3174, 64 Stat. 1263; Aug. 8, 1956, ch. 1035, §4, 70 Stat. 1118; Pub. L. 85–231, §1(2), Aug. 30, 1957, 71 Stat. 514; Pub. L. 87–30, §12(a), May 5, 1961, 75 Stat. 74; Pub. L. 89–601, title VI, §601(a), Sept. 23, 1966, 80 Stat. 844; Pub. L. 93–259, §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, 88 Stat. 61, 72, 73; Pub. L. 95–151, §10, Nov. 1, 1977, 91 Stat. 1252; Pub. L. 101–157, §9, Nov. 17, 1989, 103 Stat. 945; Pub. L. 101–508, title III, §3103, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 104–174, §2, Aug. 6, 1996, 110 Stat. 1554; Pub. L. 110–233, title III, §302(a), May 21, 2008, 122 Stat. 920; Pub. L. 115–141, div. S, title XII, §1201(b), Mar. 23, 2018, 132 Stat. 1148.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Portal-to-Portal Act of 1947, referred to in subsec. (d), is act May 14, 1947, ch. 52, 61 Stat. 84, as amended, which is classified principally to chapter 9 (§251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 251 of this title and Tables.
@@ -68,7 +70,7 @@ Subsec. (c). Pub. L. 115–141, §1201(b)(2), inserted at end "The authority and
 
 Subsec. (e)(2). Pub. L. 115–141, §1201(b)(3), inserted at end "Any person who violates section 203(m)(2)(B) of this title shall be subject to a civil penalty not to exceed $1,100 for each such violation, as the Secretary determines appropriate, in addition to being liable to the employee or employees affected for all tips unlawfully kept, and an additional equal amount as liquidated damages, as described in subsection (b)."
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for child labor violations.
+<b>2008</b>—Subsec. (e). Pub. L. 110–233 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to civil penalties for certain violations.
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–174 in first sentence substituted "of section 212 of this title or section 213(c)(5) of this title" for "of section 212 of this title" and "under section 212 of this title or section 213(c)(5) of this title" for "under that section".
 
@@ -97,6 +99,8 @@ Subsec. (e). Pub. L. 93–259, §25(c), added subsec. (e).
 <b>1949</b>—Subsec. (c). Act Oct. 26, 1949, added subsec. (c).
 
 <b>1947</b>—Subsec. (b). Act May 14, 1947, struck out provisions relating to the designation by employee or employees of an agent or representative to maintain an action under this section for and on behalf of all employees similarly situated and inserted provisions relating to the requirement that no employee shall be a party plaintiff unless he gives his consent in writing and such consent is filed with the court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -130,12 +134,6 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 Act May 14, 1947, ch. 52, §5(b), 61 Stat. 87, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only with respect to actions commenced under the Fair Labor Standards Act of 1938, as amended \[this chapter\], on or after the date of the enactment of this Act \[May 14, 1947\]."
 
-#### Transfer of Functions
-
-Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (b) and (c) of this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
-
 #### Liability of State, Political Subdivision, or Interstate Governmental Agency for Violations Before April 15, 1986, Respecting any Employee Not Covered Under Special Enforcement Policy
 
 Pub. L. 99–150, §2(c)(1), Nov. 13, 1985, 99 Stat. 788, provided that: "No State, political subdivision of a State, or interstate governmental agency shall be liable under section 16 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 216\] for a violation of section 6 \[29 U.S.C. 206\] (in the case of a territory or possession of the United States), 7 \[29 U.S.C. 207\], or 11(c) \[29 U.S.C. 211(c)\] (as it relates to section 7) of such Act occurring before April 15, 1986, with respect to any employee of the State, political subdivision, or agency who would not have been covered by such Act \[this chapter\] under the Secretary of Labor's special enforcement policy on January 1, 1985, and published in sections 775.2 and 775.4 of title 29 of the Code of Federal Regulations."
@@ -150,11 +148,19 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Construction of 1949 Amendments With Portal-to-Portal Act of 1947
 
-Act Oct. 26, 1949, ch. 736, §16(b), 63 Stat. 920, provided that: "Except as provided in section 3(o) \[29 U.S.C. 203(o)\] and in the last sentence of section 16(c) of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 216(c)\], no amendment made by this Act \[amending sections 202, 208, 211 to 217 of this title\] shall be construed as amending, modifying, or repealing any provisions of the Portal-to-Portal Act of 1947."
+Act Oct. 26, 1949, ch. 736, §16(b), 63 Stat. 920, provided that: "Except as provided in section 3(o) \[29 U.S.C. 203(o)\] and in the last sentence of section 16(c) of theFair Labor Standards Act of 1938, as amended \[29 U.S.C. 216(c)\], no amendment made by this Act \[amending sections 202, 208, 211 to 217 of this title\] shall be construed as amending, modifying, or repealing any provisions of the Portal-to-Portal Act of 1947."
 
 #### Retroactive Effect of 1949 Amendments; Limitation of Actions
 
 Act Oct. 26, 1949, ch. 736, §16(d), 63 Stat. 920, provided that actions based upon acts or omissions occurring prior to the effective date of act Oct. 26, 1949, which was to be effective ninety days after Oct. 26, 1949, were not prevented by the amendments made to sections 202 to 208, and 211 to 217 of this title by such act, so long as such actions were instituted within two years from such effective date.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions relating to enforcement and administration of equal pay provisions vested by subsecs. (b) and (c) of this section in Secretary of Labor transferred to Equal Employment Opportunity Commission by Reorg. Plan No. 1 of 1978, §1, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

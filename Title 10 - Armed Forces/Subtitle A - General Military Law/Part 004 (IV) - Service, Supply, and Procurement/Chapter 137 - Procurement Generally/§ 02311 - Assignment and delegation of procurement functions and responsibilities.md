@@ -10,7 +10,7 @@ Procurements For or With Other Agencies.—Subject to subsection (a), to facilit
 
 &emsp;(1) the head of an agency may delegate functions and assign responsibilities relating to procurement to any officer or employee within such agency;
 
-&emsp;(2) the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or to an officer or civilian employee of another of those agencies; and
+&emsp;(2) the heads of two or more agencies may by agreement delegate procurement functions and assign procurement responsibilities from one agency to another of those agencies or toan officer or civilian employee of another of those agencies; and
 
 &emsp;(3) the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
 
@@ -25,6 +25,10 @@ Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The
 &emsp;(B) A provision that authorizes the Under Secretary of Defense for Acquisition and Sustainment to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 85–800, §11, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, §1(g), Sept. 10, 1962, 76 Stat. 529; Pub. L. 90–378, §3, July 5, 1968, 82 Stat. 290; Pub. L. 97–86, title IX, §§907(c), 909(f), Dec. 1, 1981, 95 Stat. 1117, 1120; Pub. L. 98–369, div. B, title VII, §2726, July 18, 1984, 98 Stat. 1194; Pub. L. 98–525, title XII, §1214, Oct. 19, 1984, 98 Stat. 2592; Pub. L. 98–577, title V, §505, Oct. 30, 1984, 98 Stat. 3087; Pub. L. 103–355, title I, §1503(a)(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, §902(49), Dec. 20, 2019, 133 Stat. 1548.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1807(d)(1), Jan. 1, 2021, 134 Stat. 4151, 4157, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 203 of this title, inserted after section 3064, and redesignated as section 3065 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -69,6 +73,10 @@ Pub. L. 98–369 inserted provision relating to the exception provided in sectio
 <b>1962</b>—Pub. L. 87–653 substituted "delegated to any other officer" for "delegated only to a chief officer" and "$100,000" for "$25,000".
 
 <b>1958</b>—Pub. L. 85–800 struck out ", or section 2307(a)" after "of section 2304(a)" in first sentence.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 

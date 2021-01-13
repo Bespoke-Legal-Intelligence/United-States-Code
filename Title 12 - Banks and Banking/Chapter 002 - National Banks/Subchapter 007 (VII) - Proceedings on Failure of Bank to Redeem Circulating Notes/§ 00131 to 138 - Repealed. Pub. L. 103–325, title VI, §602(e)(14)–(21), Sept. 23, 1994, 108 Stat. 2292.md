@@ -12,7 +12,7 @@ Section 135, R.S. §5232, related to disposition of redeemed notes and perpetuat
 
 Section 136, R.S. §5233, related to cancellation of redeemed notes.
 
-Section 137, R.S. §5230, provided Comptroller of the Currency with option of selling defaulting association's bonds at auction, rather than cancelling them, and granted United States paramount lien on all association assets in case of deficiencies from such sale.
+Section 137, R.S. §5230, provided Comptroller of the Currency with option of selling defaulting association'sbonds at auction, rather than cancelling them, and granted United States paramount lien on all association assets in case of deficiencies from such sale.
 
 Section 138, R.S. §5231, related to private sale of defaulting association's bonds by Comptroller of the Currency.
 

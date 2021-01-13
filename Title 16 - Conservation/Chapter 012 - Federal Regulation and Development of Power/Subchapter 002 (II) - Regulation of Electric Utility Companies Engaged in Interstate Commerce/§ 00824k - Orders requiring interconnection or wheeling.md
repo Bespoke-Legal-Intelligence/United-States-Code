@@ -2,7 +2,7 @@
 
 #### (a) Rates, charges, terms, and conditions for wholesale transmission services
 
-An order under section 824j of this title shall require the transmitting utility subject to the order to provide wholesale transmission services at rates, charges, terms, and conditions which permit the recovery by such utility of all the costs incurred in connection with the transmission services and necessary associated services, including, but not limited to, an appropriate share, if any, of legitimate, verifiable and economic costs, including taking into account any benefits to the transmission system of providing the transmission service, and the costs of any enlargement of transmission facilities. Such rates, charges, terms, and conditions shall promote the economically efficient transmission and generation of electricity and shall be just and reasonable, and not unduly discriminatoryor preferential. Rates, charges, terms, and conditions for transmission services provided pursuant to an order under section 824j of this title shall ensure that, to the extent practicable, costs incurred in providing the wholesale transmission services, and properly allocable to the provision of such services, are recovered from the applicant for such order and not from a transmitting utility's existing wholesale, retail, and transmission customers.
+An order under section 824j of this title shall require the transmitting utility subject to the order to provide wholesale transmission services at rates, charges, terms, and conditions which permit the recovery by such utility of all the costs incurred in connection with the transmission services and necessary associated services, including, but not limited to, an appropriate share, if any, of legitimate, verifiable and economic costs, including taking into account any benefits to the transmission system of providing the transmission service, and the costs of any enlargement of transmission facilities. Such rates, charges, terms, and conditions shall promote the economically efficient transmission and generation of electricity and shall be just and reasonable, and not unduly discriminatory or preferential. Rates, charges, terms, and conditions for transmission services provided pursuant to an order under section 824j of this title shall ensure that, to the extent practicable, costs incurred in providing the wholesale transmission services, and properly allocable to the provision of such services, are recovered from the applicant for such order and not from a transmitting utility's existing wholesale, retail, and transmission customers.
 
 #### (b) Repealed. Pub. L. 102–486, title VII, §722(1), Oct. 24, 1992, 106 Stat. 2916
 
@@ -38,7 +38,7 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 #### (g) Prohibition on orders inconsistent with retail marketing areas
 
-No order may be issued under this chapter which is inconsistent with any State law whichgoverns the retail marketing areas of electric utilities.
+No order may be issued under this chapter which is inconsistent with any State law which governs the retail marketing areas of electric utilities.
 
 #### (h) Prohibition on mandatory retail wheeling and sham wholesale transactions
 
@@ -50,7 +50,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 &emsp;&emsp;(A) such entity is a Federal power marketing agency; the Tennessee Valley Authority; a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision); a corporation or association that has ever received a loan for the purposes of providing electric service from the Administrator of the Rural Electrification Administration under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\]; a person having an obligation arising under State or local law (exclusive of an obligation arising solely from a contract entered into by such person) to provide electric service to the public; or any corporation or association which is wholly owned, directly or indirectly, by any one or more of the foregoing; and
 
-&emsp;&emsp;(B) such entity was providing electric service to such ultimate consumer on October 24, 1992, or would utilize transmission or distribution facilities that it owns or controls to deliver all such electric energy to such electric consumer.
+&emsp;&emsp;(B) such entity was providing electric service to such ultimate consumer on October 24, 1992, or would utilize transmission or distribution facilities that it owns or controlsto deliver all such electric energy to such electric consumer.
 
 > Nothing in this subsection shall affect any authority of any State or local government under State law concerning the transmission of electric energy directly to an ultimate consumer.
 
@@ -82,7 +82,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 (4) To the extent the Administrator of the Bonneville Power Administration cannot be required under section 824j of this title, as a result of the Administrator's other statutory mandates, either to (A) provide transmission service to an applicant which the Commission would otherwise order, or (B) provide such service under rates, terms, and conditions which the Commission would otherwise require, the applicant shall not be required to provide similar transmission services to the Administrator or to provide such services under similar rates, terms, and conditions.
 
-(5) The Commission shall not issue any order under section 824i of this title, section 824j of this title, this section, or section 824l of this title requiring the Administrator of the Bonneville Power Administration to provide transmission service if such an order would impair the Administrator's ability to provide such transmission service to the Administrator's power and transmission customers in the Pacific Northwest, as that region is defined in section 839a(14) of this title, as is needed to assure adequate and reliable service to loads in that region.
+(5) The Commission shall not issue any order under section 824i of this title, section 824j of this title, this section, or section 824l of this title requiring the Administrator of the Bonneville Power Administration to provide transmission service if such an order would impair the Administrator's ability to provide suchtransmission service to the Administrator's power and transmission customers in the Pacific Northwest, as that region is defined in section 839a(14) of this title, as is needed to assure adequate and reliable service to loads in that region.
 
 #### (j) Equitability within territory restricted electric systems
 

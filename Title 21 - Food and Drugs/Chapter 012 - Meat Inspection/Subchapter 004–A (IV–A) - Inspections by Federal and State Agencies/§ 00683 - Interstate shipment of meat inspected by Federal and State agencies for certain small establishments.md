@@ -178,6 +178,8 @@ Nothing in this section limits the jurisdiction of the Secretary with respect to
 
 (Mar. 4, 1907, ch. 2907, title V, §501, as added Pub. L. 110–234, title XI, §11015(a), May 22, 2008, 122 Stat. 1362, and Pub. L. 110–246, §4(a), title XI, §11015(a), June 18, 2008, 122 Stat. 1664, 2124.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (b)(2)(B), (C)(ii), (iii), (3)(B)(i), (e)(2), and (j)(2), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -187,6 +189,8 @@ Final regulations to carry out this section, referred to in subsec. (j)(1), were
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

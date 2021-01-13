@@ -10,7 +10,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(1) no residence within a State or district of the Service in the United States shall be required;
 
-&emsp;(2) notwithstanding section 1429 of this title insofar as it relates to deportability, such applicant may be naturalized immediately if the applicant be then actually in the Armed Forces of the United States, and if prior to thefiling of the application, the applicant shall have appeared before and been examined by a representative of the Service;
+&emsp;(2) notwithstanding section 1429 of this title insofar as it relates to deportability, such applicant may be naturalized immediately if the applicant be then actually in the Armed Forces of the United States, and if prior to the filing of the application, the applicant shall have appeared before and been examined by a representative of the Service;
 
 &emsp;(3) the applicant shall furnish to the Secretary of Homeland Security, prior to any hearing upon his application, a certified statement from the proper executive department for each period of his service upon which he relies for the benefits of this section, clearly showing that such service was honorable and that no discharges from service, including periods of service not relied upon by him for the benefits of this section, were other than honorable (the certificate or certificates herein provided for shall be conclusive evidence of such service and discharge); and
 
@@ -33,6 +33,8 @@ Any such period or periods of service under honorable conditions, and good moral
 Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if the person is separated from the Armed Forces under other than honorable conditions before the person has served honorably for a period or periods aggregating five years. Such ground for revocation shall be in addition to any other provided by law, including the grounds described in section 1451 of this title. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation. Any period or periods of service shall be proved by duly authenticated copies of the records of the executive departments having custody of the records of such service.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §328, 66 Stat. 249; Pub. L. 90–633, §5, Oct. 24, 1968, 82 Stat. 1344; Pub. L. 97–116, §15(e), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 101–649, title IV, §407(b)(4), (c)(10), (d)(8), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(c), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 108–136, div. A, title XVII, §1701(a), (b)(1), (c)(1)(A), (f), Nov. 24, 2003, 117 Stat. 1691, 1692; Pub. L. 110–382, §3(a), Oct. 9, 2008, 122 Stat. 4088.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -65,6 +67,8 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 #### Change of Name
 
 Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law of Committee on the Judiciary of the House of Representatives changed to Subcommittee on Immigration Policy and Enforcement of Committee on the Judiciary of the House of Representatives under Rule V(b) of the Committee's rules of procedure adopted Jan. 19, 2011.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2008 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Crediting of Collections.—Any qualifying military department third-party collection shall be credited to the appropriate current appropriation. Amounts so credited shall be merged with the funds in that appropriation and shall be available for the same period and purposes as the funds with which merged.
+Crediting of Collections.—Any qualifying military department third-party collection shall be credited to the appropriate current appropriation. Amounts so credited shall be merged with the funds in that appropriation andshall be available for the same period and purposes as the funds with which merged.
 
 (b)
 

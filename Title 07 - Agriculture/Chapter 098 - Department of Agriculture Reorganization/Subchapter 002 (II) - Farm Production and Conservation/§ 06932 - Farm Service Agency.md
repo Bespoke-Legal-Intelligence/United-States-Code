@@ -50,7 +50,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (3) Reinstatement of program benefits
 
-&emsp;Rules issued to carry out this subsection shall provide for the prompt reinstatement of benefits to a producer who is determined in an administrative appeal to meet the requirements of title XII of the Food Security Act of 1985 \[16 U.S.C. 3801 et seq.\] applicable to the producer.
+&emsp;Rules issued to carry out this subsection shall provide for the prompt reinstatement of benefits to a producer who is determined in an administrative appeal to meet the requirements of title XII of the Food Security Act of1985 \[16 U.S.C. 3801 et seq.\] applicable to the producer.
 
 #### (e) Use of Federal and non-Federal employees
 
@@ -64,7 +64,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (f) Collocation
 
-To the maximum extent practicable, the Secretary shall collocate county offices of the FarmService Agency with county offices of the Natural Resources Conservation Service in order to—
+To the maximum extent practicable, the Secretary shall collocate county offices of the Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
 
 &emsp;(1) maximize savings from shared equipment, office space, and administrative support;
 

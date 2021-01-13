@@ -1,6 +1,6 @@
 ### §3107. Individualized vocational rehabilitation plan
 
-(a) The Secretary shall formulate an individualized written plan of vocational rehabilitation for a veteran described in section 3106(b) of this title. Such plan shall be developed with such veteran and shall include, but not be limited to (1) a statement of long-range rehabilitation goals for such veteran and intermediate rehabilitation objectives related to achieving such goals, (2) a statement of the specific services (which shall include counseling in all cases) and assistance to be provided under this chapter, (3) the projected date for the initiation and the anticipated duration of each such service, and (4) objective criteria and an evaluation procedure and schedule for determining whether such objectives and goals are being achieved.
+(a) The Secretary shall formulate an individualized written plan of vocational rehabilitation for a veteran described in section 3106(b) of this title. Such plan shall be developed with suchveteran and shall include, but not be limited to (1) a statement of long-range rehabilitation goals for such veteran and intermediate rehabilitation objectives related to achieving such goals, (2) a statement of the specific services (which shall include counseling in all cases) and assistance to be provided under this chapter, (3) the projected date for the initiation and the anticipated duration of each such service, and (4) objective criteria and an evaluation procedure and schedule for determining whether such objectives and goals are being achieved.
 
 (b) The Secretary shall review at least annually the plan formulated under subsection (a) of this section for a veteran and shall afford such veteran the opportunity to participate in each such review. On the basis of such review, the Secretary shall (1) redevelop such plan with such veteran if the Secretary determines, under regulations which the Secretary shall prescribe, that redevelopment of such plan is appropriate, or (2) disapprove redevelopment of such plan if the Secretary determines, under such regulations, that redevelopment of such plan is not appropriate.
 
@@ -11,6 +11,8 @@
 (3) The Secretary shall review the statement submitted under paragraph (2) of this subsection and the plan as proposed or as redeveloped, and, if applicable, the disapproval of redevelopment of the plan, and render a decision on such review not later than ninety days after the date on which such veteran submits such statement, unless the case is one for which a longer period for review, not to exceed 150 days after such veteran submits such statement, is allowed under regulations prescribed by the Secretary, in which case the Secretary shall render a decision no later than the last day of the period prescribed in such regulations.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2177, §1507; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3107 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(f)(2)(A), Oct. 9, 1996, 110 Stat. 3325.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -25,6 +27,8 @@ Prior section 3107 was renumbered section 5307 of this title.
 Subsecs. (a), (c)(2). Pub. L. 102–83, §5(c)(1), substituted "3106(b)" for "1506(b)" in subsec. (a) and "3106(e)" for "1506(e)" in subsec. (c)(2).
 
 <b>1989</b>—Subsecs. (a), (b), (c)(3). Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

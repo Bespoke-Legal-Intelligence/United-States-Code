@@ -2,7 +2,7 @@
 
 #### (a) Necessity of registration
 
-Except as provided in subsection (b) and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
+Except as provided in subsection (b) and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or anymeans or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
 
 #### (b) Investment advisers who need not be registered
 
@@ -74,7 +74,7 @@ The provisions of subsection (a) shall not apply to—
 
 &emsp;(A) by order grant such registration; or
 
-&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the groundsfor denial under consideration and opportunity for hearing and shall be concluded within one hundred twenty days of the date of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for conclusion of such proceedings for up to ninety days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
+&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred twenty days of the date of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for conclusion of such proceedings for up to ninety days if it finds good cause for such extension and publishes its reasons for so finding or for such longer period as to which the applicant consents.
 
 > The Commission shall grant such registration if the Commission finds that the requirements of this section are satisfied and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title. The Commission shall deny such registration if it does not make such a finding or if it finds that if the applicant were so registered, its registration would be subject to suspension or revocation under subsection (e) of this section.
 
@@ -202,7 +202,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (4) Evidence concerning ability to pay
 
-&emsp;In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the respondent's ability to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of such person's ability tocontinue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon such person's assets and the amount of such person's assets.
+&emsp;In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the respondent's ability to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of such person's ability to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon such person's assets and the amount of such person's assets.
 
 #### (j) Authority to enter order requiring accounting and disgorgement
 
@@ -242,7 +242,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 &emsp;&emsp;&emsp;(ii) 10 days after the Commission renders a decision on an application and hearing under subparagraph (A), with respect to any temporary cease-and-desist order entered without a prior Commission hearing,
 
-> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal office or place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may notapply to the court except after hearing and decision by the Commission on the respondent's application under subparagraph (A) of this paragraph.
+> &emsp;&emsp;the respondent may apply to the United States district court for the district in which the respondent resides or has its principal office or place of business, or for the District of Columbia, for an order setting aside, limiting, or suspending the effectiveness or enforcement of the order, and the court shall have jurisdiction to enter such an order. A respondent served with a temporary cease-and-desist order entered without a prior Commission hearing may not apply to the court except after hearing and decision by the Commission on the respondent's application under subparagraph (A) of this paragraph.
 
 #### (C) No automatic stay of temporary order
 
@@ -296,7 +296,7 @@ In prescribing regulations to carry out the requirements of this section with re
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (b)(7), is Pub. L. 85–699, Aug. 21, 1958, 72Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (b)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Commodity Exchange Act, referred to in subsec. (e)(2)(B), (4)–(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -384,7 +384,7 @@ Subsec. (e)(2)(C). Pub. L. 101–550, §205(b)(4), inserted "or substantially eq
 
 Subsec. (e)(2)(D). Pub. L. 101–550, §205(b)(5), inserted ", or a violation of substantially equivalent foreign statute" after "title 18".
 
-Subsec. (e)(3). Pub. L. 101–550, §205(b)(3), (6), inserted "foreign person performing a function substantiallyequivalent to any of the above," after "transfer agent,", "or any substantially equivalent statute or regulation" after "Commodity Exchange Act" wherever appearing, ", including any foreign court of competent jurisdiction", and "foreign entity substantially equivalent to any of the above," after "insurance company,".
+Subsec. (e)(3). Pub. L. 101–550, §205(b)(3), (6), inserted "foreign person performing a function substantially equivalent to any of the above," after "transfer agent,", "or any substantially equivalent statute or regulation" after "Commodity Exchange Act" wherever appearing, ", including any foreign court of competent jurisdiction", and "foreign entity substantially equivalent to any of the above," after "insurance company,".
 
 Subsec. (e)(5). Pub. L. 101–550, §205(b)(7), inserted "the Commodity Exchange Act" after "this subchapter,".
 
@@ -430,7 +430,7 @@ Subsec. (g). Pub. L. 91–547, §24(c), redesignated former subsec. (e) as (g). 
 
 Subsecs. (h), (i). Pub. L. 91–547, §24(e), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
-<b>1960</b>—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted "or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)" for "person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decreeof the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction".
+<b>1960</b>—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted "or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)" for "person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decree of the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction".
 
 Subsec. (c)(2). Pub. L. 86–750, §3(a), substituted "a statement as to whether the principal business of such investment adviser consists or is to consist of acting as investment adviser and a statement as to whether a substantial part of the business of such investment adviser consists or is to consist of rendering investment supervisory services" for "a statement as to whether such investment adviser is engaged or is to engage primarily in the business of rendering investment supervisory services".
 
@@ -472,7 +472,7 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of a".</i>
 

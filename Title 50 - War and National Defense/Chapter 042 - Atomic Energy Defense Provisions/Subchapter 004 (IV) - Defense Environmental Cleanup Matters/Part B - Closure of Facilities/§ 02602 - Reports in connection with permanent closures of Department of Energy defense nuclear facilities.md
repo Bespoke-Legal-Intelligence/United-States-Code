@@ -30,7 +30,7 @@ A prior section 2611, Pub. L. 107–314, div. D, title XLIV, §4431, formerly Pu
 
 Pub. L. 113–66, §3146(a)(2)(E), struck out "(as defined in section 2286g of title 42)" after "defense nuclear facility".
 
-Subsec. (b)(2). Pub. L. 113–66, §3146(e)(11)(B), substituted "defense environmental cleanup activities" for"environmental restoration and other remediation and cleanup efforts".
+Subsec. (b)(2). Pub. L. 113–66, §3146(e)(11)(B), substituted "defense environmental cleanup activities" for "environmental restoration and other remediation and cleanup efforts".
 
 <b>2003</b>—Pub. L. 108–136, §3141(g)(12)(D), made technical amendment to section catchline.
 

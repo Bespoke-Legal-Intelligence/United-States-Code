@@ -10,7 +10,7 @@ Execution and Administration of Certain Programs and Activities.—
 
 &emsp;(1)
 
-In general.—The Director of the Defense Security Cooperation Agency shall be responsible for the execution and administration of all security cooperation programs and activities of the Department of Defense involving the provision of defense articles, military training, and other defense-related services by grant, loan, cash sale, or lease.
+In general.—The Director of the Defense Security Cooperation Agency shall be responsible for the execution and administration ofall security cooperation programs and activities of the Department of Defense involving the provision of defense articles, military training, and other defense-related services by grant, loan, cash sale, or lease.
 
 &emsp;(2)
 

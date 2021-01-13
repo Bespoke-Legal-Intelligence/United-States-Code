@@ -64,15 +64,17 @@ Congressional review.—The Secretary may not close, cease operations, or signif
 
 (b)
 
-Operational Flexibility.—The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
+Operational Flexibility.—The Secretary may implement any reasonable management efficiencies within the air station and air facilitynetwork, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
 
 (Added Pub. L. 114–120, title II, §208(a), Feb. 8, 2016, 130 Stat. 38, §676a; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; renumbered §912 and amended Pub. L. 115–282, title I, §107(b), title III, §319, Dec. 4, 2018, 132 Stat. 4205, 4252.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §107(b), renumbered section 676a of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, §319(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a)which prohibited the Coast Guard from closing certain air facilities or retiring, transferring, relocating, or deploying an aviation asset for the purpose of closing such facilities.
+Subsec. (a). Pub. L. 115–282, §319(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a) which prohibited the Coast Guard from closing certain air facilities or retiring, transferring, relocating, or deploying an aviation asset for the purpose of closing such facilities.
 
 Subsec. (a)(3). Pub. L. 115–282, §319(3)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Prior to closing an air facility, the Secretary shall provide opportunities for public comment, including the convening of public meetings in communities in the area of responsibility of the air facility with regard to the proposed closure or cessation of operations at the air facility."
 
@@ -85,6 +87,8 @@ Subsec. (a)(5). Pub. L. 115–282, §319(3)(C), added par. (5).
 Subsecs. (b), (c). Pub. L. 115–282, §319(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
 <b>2016</b>—Subsec. (a)(2)(B). Pub. L. 114–328 substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

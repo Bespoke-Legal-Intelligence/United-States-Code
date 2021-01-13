@@ -146,7 +146,7 @@ Requirements.—Any regulations under this section which relate to any matters w
 
 (g)
 
-Provisions Relating to Labor-Management Relations.—Nothing in this section shall be construed as conferring authority on the Secretary of Homeland Security to modify any of the provisions of section 842 of the Homeland Security Act of 2002.
+Provisions Relating to Labor-Management Relations.—Nothing in this section shallbe construed as conferring authority on the Secretary of Homeland Security to modify any of the provisions of section 842 of the Homeland Security Act of 2002.
 
 (h)
 
@@ -154,11 +154,15 @@ Sunset Provision.—Effective 5 years after the conclusion of the transition per
 
 (Added Pub. L. 107–296, title VIII, §841(a)(2), Nov. 25, 2002, 116 Stat. 2230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 842 of the Homeland Security Act of 2002, referred to in subsec. (g), is classified to section 412 of Title 6, Domestic Security.
 
 Section 1501 of the Homeland Security Act of 2002, referred to in subsec. (h), is classified to section 541 of Title 6, Domestic Security.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

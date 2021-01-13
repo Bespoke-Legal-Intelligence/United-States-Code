@@ -106,7 +106,9 @@ Funding.—(1) From amounts appropriated to the Department for Medical Services,
 
 &emsp;(F) $340,000,000 for fiscal year 2018.
 
-&emsp;(G) $380,000,000 for each of fiscal years 2019 through 2021.
+&emsp;(G) $380,000,000 for each of fiscal years 2019 and 2020.
+
+&emsp;(H) $420,000,000 for each of fiscal years 2021 and 2022.
 
 (2) Not more than $750,000 may be available under paragraph (1) in any fiscal year to provide technical assistance under subsection (d).
 
@@ -152,13 +154,19 @@ Definitions.—In this section:
 
 &emsp;(7) The term "veteran family" includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat.1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, §304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, §4, Sept. 30, 2019, 133 Stat. 1116.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275,title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, §304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, §4, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title III, §5305, Oct. 1, 2020, 134 Stat. 751.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397, which directed amendment of "section 2044" without specifying the Code title to be amended, was executed to this section, which is section 2044 of Title 38, Veterans' Benefits, to reflect the probable intent of Congress. See 2011 Amendment notes below.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(1)(G). Pub. L. 116–159, §5305(1), substituted "and 2020" for "through 2021".
+
+Subsec. (e)(1)(H). Pub. L. 116–159, §5305(2), added subpar. (H).
 
 <b>2019</b>—Subsec. (e)(1)(G). Pub. L. 116–61 substituted "each of fiscal years 2019 through 2021" for "fiscal year 2019".
 
@@ -186,9 +194,17 @@ Subsec. (e)(3). Pub. L. 112–37, §12(a)(2), substituted "2012" for "2011". See
 
 <b>2010</b>—Subsec. (e)(3). Pub. L. 111–275 substituted "fiscal years" for "fiscal year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under section 322 of this title.
+
+#### Funding Limits for Financial Assistance for Supportive Services for Very Low-Income Veteran Families in Permanent Housing During a Public Health Emergency
+
+Pub. L. 116–136, div. B, title X, §20012, Mar. 27, 2020, 134 Stat. 589, provided that: "In the case of a public health emergency, nothing in subsection (e)(1) of section 2044 of title 38, United States Code, may be construed as limiting amounts that may be made available for carrying out subsections (a), (b), and (c) of such section."
+
+\[For definition of "public health emergency" as used in section 20012 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 
 #### Purpose
 

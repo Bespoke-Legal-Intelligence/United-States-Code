@@ -26,7 +26,7 @@ Budget Assessment.—(1) The Secretary shall include with the defense budget mat
 
 Definitions.—In this section:
 
-&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal yearthat is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
 &emsp;(2) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 

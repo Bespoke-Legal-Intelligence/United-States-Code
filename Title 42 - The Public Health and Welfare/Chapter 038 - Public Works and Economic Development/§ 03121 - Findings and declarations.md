@@ -46,7 +46,11 @@ A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L
 
 #### Effective Date
 
-Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: "This title \[see Short Title of 1998Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\]." \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
+Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that: "This title \[see Short Title of 1998 Amendment note set out below\] and the amendments made by this title shall take effect on a date determined by the Secretary of Commerce, but not later than 90 days after the date of enactment of this Act \[Nov. 13, 1998\]." \[Effective Feb. 11, 1999, see 64 F.R. 9222.\]
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–192, §1, Oct. 30, 2020, 134 Stat. 978, provided that: "This Act \[amending section 3211 of this title\] may be cited as the 'Reinvigorating Lending for the Future Act' or the 'RLF Act'."
 
 #### Short Title of 2004 Amendment
 
@@ -84,7 +88,7 @@ Pub. L. 91–123, title II, §201, Nov. 25, 1969, 83 Stat. 216, provided that: "
 
 Pub. L. 89–136, §1(a), as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597, provided that: "This Act \[enacting this chapter\] may be cited as the 'Public Works and Economic Development Act of 1965'."
 
-A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the "Public Works and Economic Development Act of 1965", was repealed by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
+A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the "Public Works and Economic Development Act of 1965", was repealedby Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
 
 #### Transition Provisions
 
@@ -113,6 +117,8 @@ Liquidating Account.—The Economic Development Revolving Fund established under
 Administration.—The Secretary of Commerce shall take such actions authorized before the effective date of this title as are appropriate to administer and liquidate grants, contracts, agreements, loans, obligations, debentures, or guarantees made by the Secretary under law in effect before the effective date of this title."
 
 #### Denali Commission
+
+Pub. L. 116–260, div. D, title V, §505(c), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Denali Commission are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 
 Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885, provided that:
 
@@ -368,7 +374,7 @@ In general.—The Federal Cochairperson of the Commission may, without regard to
 
 &emsp;"(2)
 
-Compensation.—The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United StatesCode, relating to classification of positions and General Schedule pay rates.
+Compensation.—The Federal Cochairperson of the Commission may fix the compensation of personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
 "(d)
 
@@ -536,7 +542,7 @@ Sec. 310. (a) The Federal Co-chairman of the Denali Commission shall appoint an 
 
 "(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 
-"(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure the success of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
+"(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure thesuccess of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
 
 "(e) Within the amounts made available annually to the Denali Commission for training, the Commission may make a grant to the First Alaskans Foundation upon submittal of an acceptable work plan to assist Alaska Natives and other rural residents in acquiring the skills and training necessary to participate fully in private sector business and economic and development opportunities through fellowships, scholarships, internships, public service programs, and other leadership initiatives.
 
@@ -612,7 +618,7 @@ Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 11493
 
-Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, setout as a note under section 501 of Title 31, Money and Finance.
 
 #### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
 

@@ -12,7 +12,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 &emsp;&emsp;(A) impede the activities of, take any action against, or apply any provision of law or regulation arbitrarily or discriminatorily to, any insurance producer because that insurance producer or any affiliate plans to become, has applied to become, or is a member of the Association;
 
-&emsp;&emsp;(B) impose any requirement upon a member of the Association that it pay fees different from those required to be paid to that State were it not a member of the Association; or
+&emsp;&emsp;(B) impose any requirement upon a member of the Association that it pay fees different from those required to be paid to thatState were it not a member of the Association; or
 
 &emsp;&emsp;(C) impose any continuing education requirements on any nonresident insurance producer that is a member of the Association.
 

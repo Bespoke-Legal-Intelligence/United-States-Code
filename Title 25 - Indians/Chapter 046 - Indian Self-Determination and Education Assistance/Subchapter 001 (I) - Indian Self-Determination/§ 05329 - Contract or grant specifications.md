@@ -6,7 +6,7 @@ Each self-determination contract entered into under this chapter shall—
 
 &emsp;(1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
 
-&emsp;(2) contain such other provisions as are agreed to by the parties.
+&emsp;(2) subject to subsections (a) and (b) of section 5321 of this title, contain such other provisions as are agreed to by the parties.
 
 #### (b) Payments; Federal records
 
@@ -96,7 +96,7 @@ Recordkeeping system.—The Contractor shall maintain a recordkeeping system and
 
 &emsp;&emsp;"(C)
 
-Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than one performance monitoring visit for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
+Responsibilities of contractor.—The Contractor shall be responsible for managing the day-to-day operations conducted under this Contract and for monitoring activities conducted under this Contract to ensure compliance with the Contract and applicable Federal requirements. With respect to the monitoring activities of the Secretary, the routine monitoring visits shall be limited to not more than two performance monitoring visits for this Contract by the head of each operating division, departmental bureau, or departmental agency, or duly authorized representative of such head unless—
 
 &emsp;&emsp;&emsp;"(i) the Contractor agrees to one or more additional visits; or
 
@@ -114,7 +114,7 @@ In general.—As provided in section 105(f) of the Indian Self-Determination and
 
 &emsp;&emsp;"(B)
 
-Records.—The Contractor shall maintain a record of all property referred to in subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
+Records.—The Contractor shall maintain a record of all property referred toin subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
 
 &emsp;&emsp;"(C)
 
@@ -122,7 +122,7 @@ Joint use agreements.—Upon the request of the Contractor, the Secretary and th
 
 &emsp;&emsp;"(D)
 
-Acquisition of property.—The Contractor is granted the authority to acquiresuch excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
+Acquisition of property.—The Contractor is granted the authority to acquire such excess property as the Contractor may determine to be appropriate in the judgment of the Contractor to support the programs, services, functions, and activities operated pursuant to this Contract.
 
 &emsp;&emsp;"(E)
 
@@ -204,7 +204,7 @@ Contract requirements; approval by secretary.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81), section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476),<sup>1</sup> and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply to any contract entered into in connection with this Contract.
+In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81), section 16 of the Act of June18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476),<sup>1</sup> and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply to any contract entered into in connection with this Contract.
 
 &emsp;&emsp;"(B)
 
@@ -318,15 +318,17 @@ Annual funding agreement.—
 
 In general.—The annual funding agreement under this Contract shall only contain—
 
-&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to beperformed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
+&emsp;&emsp;&emsp;"(i) terms that identify the programs, services, functions, and activities to be performed or administered, the general budget category assigned, the funds to be provided, and the time and method of payment; and
 
-&emsp;&emsp;&emsp;"(ii) such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
+&emsp;&emsp;&emsp;"(ii) subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321), such other provisions, including a brief description of the programs, services, functions, and activities to be performed (including those supported by financial resources other than those provided by the Secretary), to which the parties agree.
 
 &emsp;&emsp;"(B)
 
 Incorporation by reference.—The annual funding agreement is hereby incorporated in its entirety in this Contract and attached to this Contract as attachment 2."
 
-(Pub. L. 93–638, title I, §108, as added Pub. L. 103–413, title I, §103, Oct. 25, 1994, 108 Stat. 4260; amended Pub. L. 106–568, title VIII, §812(a), Dec. 27, 2000, 114 Stat. 2917.)
+(Pub. L. 93–638, title I, §108, as added Pub. L. 103–413, title I, §103, Oct. 25, 1994, 108 Stat. 4260; amended Pub. L. 106–568, title VIII, §812(a), Dec. 27, 2000, 114 Stat. 2917; Pub. L. 116–180, title II, §205, Oct. 21, 2020, 134 Stat. 881.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -352,7 +354,15 @@ A prior section 108 of Pub. L. 93–638 was renumbered section 5(f) and was clas
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(2). Pub. L. 116–180, §205(1), inserted "subject to subsections (a) and (b) of section 5321 of this title," before "contain".
+
+Subsec. (c). Pub. L. 116–180, §205(3), substituted "two performance monitoring visits" for "one performance monitoring visit" in the introductory provisions of section 1(b)(7)(C) of the provisions setting out the model agreement.
+
+Pub. L. 116–180, §205(2), inserted "subject to subsections (a) and (b) of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321)," before "such other provisions" in section 1(f)(2)(A)(ii) of the provisions setting out the model agreement.
+
 <b>2000</b>—Subsec. (c). Pub. L. 106–568 substituted ", section 16 of the Act of June 18, 1934" for "and section 16 of the Act of June 18, 1934" and "and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply" for "shall not apply" in section 1(b)(15)(A) of the provisions setting out the model agreement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Quarterly Payments of Funds to Tribes
 

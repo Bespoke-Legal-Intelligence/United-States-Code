@@ -14,7 +14,7 @@ Eggs and egg products found to be adulterated at official plants shall be condem
 
 #### (d) Inspection of business premises, facilities, inventory, operations, and records of egg handlers; inspection of records and inventory of others required to keep records; authority of Secretary of Health and Human Services to inspect food manufacturing establishments, institutions, and restaurants; access to places of business
 
-The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriate to assure compliance with such requirements atfood manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
+The Secretary shall cause such other inspections to be made of the business premises, facilities, inventory, operations, and records of egg handlers, and the records and inventory of other persons required to keep records under section 1040 of this title, as he deems appropriate (and in the case of shell egg packers, packing eggs for the ultimate consumer, at least once each calendar quarter) to assure that only eggs fit for human food are used for such purpose, and otherwise to assure compliance by egg handlers and other persons with the requirements of section 1037 of this title, except that the Secretary of Health and Human Services shall cause such inspections to be made as he deems appropriate to assure compliance with such requirements at food manufacturing establishments, institutions, and restaurants, other than plants processing egg products. Representatives of said Secretaries shall be afforded access to all such places of business for purposes of making the inspections provided for in this chapter.
 
 #### (e) Refrigeration and labeling requirements
 
@@ -34,6 +34,8 @@ The Secretary shall cause such other inspections to be made of the business prem
 
 (Pub. L. 91–597, §5, Dec. 29, 1970, 84 Stat. 1624; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–237, title X, §1012(b), Dec. 13, 1991, 105 Stat. 1899.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
@@ -41,6 +43,8 @@ This chapter, referred to in subsecs. (a) and (d), was in the original "this Act
 #### Amendments
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–237 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

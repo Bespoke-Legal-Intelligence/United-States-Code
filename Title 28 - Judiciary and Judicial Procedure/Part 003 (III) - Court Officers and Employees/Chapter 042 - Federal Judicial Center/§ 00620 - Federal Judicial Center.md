@@ -14,9 +14,11 @@
 
 &emsp;(5) Insofar <sup>1</sup> as may be consistent with the performance of the other functions set forth in this section, to cooperate with the State Justice Institute in the establishment and coordination of research and programs concerning the administration of justice; and
 
-&emsp;(6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire informationabout judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
+&emsp;(6) insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 
 (Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, §214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, §6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, §303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4514.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@
 <b>1984</b>—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
 
 <b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out "referees," and by substituting "magistrates" for "commissioners", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

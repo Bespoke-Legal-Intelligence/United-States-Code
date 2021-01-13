@@ -72,6 +72,8 @@ The Farm Credit Administration Board shall ensure that—
 
 (Pub. L. 92–181, title VIII, §8.11, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, §1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, §503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, §308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §111, Feb. 10, 1996, 110 Stat. 165; Pub. L. 115–334, title V, §5411(47), Dec. 20, 2018, 132 Stat. 4685.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–334 substituted "2279aa of this title)" for "2279aa(7) of this title)".
@@ -84,7 +86,7 @@ The Farm Credit Administration Board shall ensure that—
 
 &emsp;"(A) provide for the examination of the condition of the Corporation and its affiliates; and
 
-&emsp;"(B) provide for the general supervision of the safe and sound performance of the powers, functions, andduties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter."
+&emsp;"(B) provide for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the enforcement powers of the Farm Credit Administration under part C of subchapter V of this chapter."
 
 Subsec. (a)(3). Pub. L. 102–237, §503(a)(2), added par. (3).
 

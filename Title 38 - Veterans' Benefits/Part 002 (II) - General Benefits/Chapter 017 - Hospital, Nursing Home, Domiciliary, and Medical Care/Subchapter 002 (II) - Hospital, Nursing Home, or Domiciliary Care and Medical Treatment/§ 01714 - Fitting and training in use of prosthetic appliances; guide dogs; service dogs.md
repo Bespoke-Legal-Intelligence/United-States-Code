@@ -1,6 +1,8 @@
 ### §1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
 
-(a) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+(a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+
+(2) In furnishing prosthetic appliances under paragraph (1), the Secretary shall ensure women veterans are able to access clinically appropriate prosthetic appliances through each medical facility of the Department.
 
 (b) The Secretary may provide guide dogs trained for the aid of the blind to veterans who are enrolled under section 1705 of this title. The Secretary may also provide such veterans with mechanical or electronic equipment for aiding them in overcoming the disability of blindness.
 
@@ -14,7 +16,9 @@
 
 (d) In the case of a veteran provided a dog under subsection (b) or (c), the Secretary may pay travel and incidental expenses for that veteran under the terms and conditions set forth in section 111 of this title to and from the veteran's home for expenses incurred in becoming adjusted to the dog.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -23,6 +27,8 @@ Prior section 1714 was renumbered section 3514 of this title.
 Provisions similar to those comprising subsec. (a) of this section were classified to section 613 of this title prior to repeal by section 103(b) of Pub. L. 93–82.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–315 designated existing provisions as par. (1) and added par. (2).
 
 <b>2009</b>—Subsec. (c)(3). Pub. L. 111–117 added par. (3).
 
@@ -48,6 +54,8 @@ Subsec. (b). Pub. L. 94–581, §210(a)(5)(B), substituted "and may pay" for "an
 
 <b>1973</b>—Pub. L. 93–82 designated existing provisions as subsec. (b) and added subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–151 effective Jan. 1, 1980, see section 206 of Pub. L. 96–151, set out as a note under section 111 of this title.
@@ -59,4 +67,10 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 #### Effective Date
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
+
+#### Provision by Department of Veterans Affairs of Prosthetic Appliances Through Non-Department Providers During Public Health Emergency
+
+Pub. L. 116–136, div. B, title X, §20007, Mar. 27, 2020, 134 Stat. 587, provided that: "The Secretary of Veterans Affairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency."
+
+\[For definition of "public health emergency" as used in section 20007 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 

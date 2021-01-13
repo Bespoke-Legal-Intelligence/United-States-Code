@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) provide balanced funding for prevention activities for sexual transmission of HIV/AIDS; and
 
-&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of eachhost county <sup>1</sup> involved in HIV/AIDS prevention activities.
+&emsp;&emsp;(B) ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county <sup>1</sup> involved in HIV/AIDS prevention activities.
 
 #### (2) Prevention strategy
 
@@ -18,7 +18,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;In each host country described in subparagraph (A), if the strategy established under subparagraph (A) provides less than 50 percent of the funds described in subparagraph (A) for activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction, the Global AIDS Coordinator shall, not later than 30 days after the issuance of this strategy, report to the appropriate congressional committees on the justification for this decision.
+&emsp;&emsp;In each host country described in subparagraph (A), if the strategy established under subparagraph (A) provides less than 50 percent of the funds described in subparagraph (A) for activities promoting abstinence, delay of sexual debut, monogamy, fidelity,and partner reduction, the Global AIDS Coordinator shall, not later than 30 days after the issuance of this strategy, report to the appropriate congressional committees on the justification for this decision.
 
 #### (3) Exclusion
 
@@ -63,6 +63,8 @@ For each of the fiscal years 2009 through 2013—
 &emsp;(4) the prevention and care goals established in clauses (i) and (iv) of section 2151b–2(b)(1)(A) of this title shall be increased consistent with epidemiological evidence and available resources.
 
 (Pub. L. 108–25, title IV, §403, May 27, 2003, 117 Stat. 746; Pub. L. 110–293, title IV, §403, July 30, 2008, 122 Stat. 2966; Pub. L. 113–56, §6, Dec. 2, 2013, 127 Stat. 654; Pub. L. 115–305, §4, Dec. 11, 2018, 132 Stat. 4403.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

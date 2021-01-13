@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
+&emsp;Upon the request of the Director, the head of any National Drug Control Program agencyshall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
 
 &emsp;&emsp;(A) drug control; or
 
@@ -24,7 +24,7 @@
 
 #### (A) Secretaries of the Interior and Agriculture
 
-&emsp;&emsp;Not later than July 1 of each year, the Secretaries of Agriculture and the Interiorshall jointly submit to the Director and the appropriate congressional committees an assessment of the quantity of illegal drug cultivation and manufacturing in the United States on lands owned or under the jurisdiction of the Federal Government for the preceding year.
+&emsp;&emsp;Not later than July 1 of each year, the Secretaries of Agriculture and the Interior shall jointly submit to the Director and the appropriate congressional committees an assessment of the quantity of illegal drug cultivation and manufacturing in the United States on lands owned or under the jurisdiction of the Federal Government for the preceding year.
 
 #### (B) Secretary of Homeland Security
 
@@ -104,7 +104,7 @@ The Administrator of General Services shall provide to the Director, on a reimbu
 
 #### (2) National Drug Control Program Agencies
 
-&emsp;The head of each National Drug Control Program agency shall provide to the Director a complete list of all drug control programgrant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
+&emsp;The head of each National Drug Control Program agency shall provide to the Director a complete list of all drug control program grant programs and any other relevant information for inclusion in the system developed under paragraph (1) and annually update such list.
 
 #### (3) Updating existing systems
 
@@ -115,6 +115,8 @@ The Administrator of General Services shall provide to the Director, on a reimbu
 &emsp;Not later than 3 years after October 24, 2018, the Comptroller General of the United States shall submit to Congress a report examining implementation of this subsection.
 
 (Pub. L. 105–277, div. C, title VII, §§705, 715, Oct. 21, 1998, 112 Stat. 2681–680, 2681–693; Pub. L. 109–469, title I, §104, title VI, §602, Dec. 29, 2006, 120 Stat. 3510, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8207, 8217(g), Oct. 24, 2018, 132 Stat. 4110, 4113, 4124; Pub. L. 116–74, §2(a)(1), (6), Nov. 27, 2019, 133 Stat. 1155, 1156.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

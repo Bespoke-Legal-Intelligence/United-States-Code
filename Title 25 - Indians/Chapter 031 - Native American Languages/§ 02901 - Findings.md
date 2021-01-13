@@ -16,13 +16,15 @@ The Congress finds that—
 
 &emsp;(7) it is clearly in the interests of the United States, individual States, and territories to encourage the full academic and human potential achievements of all students and citizens and to take steps to realize these ends;
 
-&emsp;(8) acts of suppression and extermination directed against Native American languages andcultures are in conflict with the United States policy of self-determination for Native Americans;
+&emsp;(8) acts of suppression and extermination directed against Native American languages and cultures are in conflict with the United States policy of self-determination for Native Americans;
 
 &emsp;(9) languages are the means of communication for the full range of human experiences and are critical to the survival of cultural and political integrity of any people; and
 
 &emsp;(10) language provides a direct and powerful means of promoting international communication by people who share languages.
 
 (Pub. L. 101–477, title I, §102, Oct. 30, 1990, 104 Stat. 1153.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

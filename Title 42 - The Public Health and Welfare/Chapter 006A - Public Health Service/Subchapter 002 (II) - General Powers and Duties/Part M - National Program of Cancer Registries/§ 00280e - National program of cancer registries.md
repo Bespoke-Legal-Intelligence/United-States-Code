@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) The pituitary gland, pineal gland, or craniopharyngeal duct.
 
-&emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
+&emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumorthat is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
 
 &emsp;&emsp;&emsp;(iii) The term "International Classification of Diseases for Oncology" means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may includeonly such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -148,5 +148,5 @@ Findings.—Congress finds that—
 
 "(b)
 
-Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section 201 of this title\] to establish a national program of cancer registries."
+Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section201 of this title\] to establish a national program of cancer registries."
 

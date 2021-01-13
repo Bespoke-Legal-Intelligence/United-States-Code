@@ -92,11 +92,15 @@
 
 (Pub. L. 103–3, title I, §104, Feb. 5, 1993, 107 Stat. 12; Pub. L. 110–181, div. A, title V, §585(a)(3)(F), Jan. 28, 2008, 122 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(2)(B)(i). Pub. L. 110–181, §585(a)(3)(F)(i), inserted "or under section 2612(a)(3) of this title" before semicolon.
 
 Subsec. (c)(3)(A)(iii). Pub. L. 110–181, §585(a)(3)(F)(ii), added cl. (iii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

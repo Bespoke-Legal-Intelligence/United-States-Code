@@ -32,13 +32,19 @@ In subsection (a), the words "section 209 of title 18" are substituted for "sect
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–54 substituted "President" for "Director of the Bureau of the Budget".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -6,5 +6,9 @@ In this chapter:
 
 &emsp;(2) The term "member of the program" means a student at an accredited civilian educational institution who is enrolled in the program.
 
-(Added Pub. L. 116–92, div. A, title VIII, §860(a), Dec. 20, 2019, 133 Stat. 1514.)
+(Added Pub. L. 116–92, div. A, title VIII, §860(a), Dec. 20, 2019, 133 Stat. 1514; amended Pub. L. 116–283, div. A, title X, §1081(a)(4)(A), Jan. 1, 2021, 134 Stat. 3870.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "§" for "SEC." in section designation.
 

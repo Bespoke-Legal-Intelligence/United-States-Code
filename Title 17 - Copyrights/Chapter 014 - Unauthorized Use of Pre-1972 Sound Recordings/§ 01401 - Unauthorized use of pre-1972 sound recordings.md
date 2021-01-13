@@ -54,7 +54,7 @@ Certain Authorized Transmissions and Reproductions.—A public performance by me
 
 &emsp;(1) the transmission or reproduction would satisfy the requirements for statutory licensing under section 112(e)(1) or section 114(d)(2), or would be exempt under section 114(d)(1), as the case may be, if the sound recording were fixed on or after February 15, 1972; and
 
-&emsp;(2) the transmitting entity pays the statutory royalty for the transmission or reproduction pursuant to the rates and terms adopted under sections 112(e) and 114(f), and complies with other obligations, in the same manner as required by regulations adopted by the Copyright Royalty Judges under sections 112(e) and 114(f) for sound recordings that are fixed on or after February 15, 1972, except in the case of a transmission that would be exempt under section 114(d)(1).
+&emsp;(2) the transmitting entity pays the statutory royalty for the transmission or reproduction pursuant to the rates and terms adopted under sections 112(e) and 114(f), and complieswith other obligations, in the same manner as required by regulations adopted by the Copyright Royalty Judges under sections 112(e) and 114(f) for sound recordings that are fixed on or after February 15, 1972, except in the case of a transmission that would be exempt under section 114(d)(1).
 
 (c)
 
@@ -164,7 +164,7 @@ Payment of royalties to nonprofit collective under certain license agreements.�
 
 &emsp;&emsp;(A)
 
-Licenses entered into on or after date of enactment.—To the extent that alicense agreement described in paragraph (1) entered into on or after the date of enactment of this section extends to a public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, that meets the conditions of subsection (b)—
+Licenses entered into on or after date of enactment.—To the extent that a license agreement described in paragraph (1) entered into on or after the date of enactment of this section extends to a public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, that meets the conditions of subsection (b)—
 
 &emsp;&emsp;&emsp;(i) the licensee shall, with respect to such transmission, pay to the collective designated to distribute receipts from the licensing of transmissions in accordance with section 114(f), 50 percent of the performance royalties for that transmission due under the license; and
 
@@ -218,7 +218,7 @@ In general.—This section preempts any claim of common law copyright or equival
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) except in the case of a transmission that would have been exempt under section 114(d)(1), not later than 270 days after the date of enactment of this section, the transmitting entity pays statutory royalties and provides notice of the use of the relevant sound recordings in the same manner as required by regulations adopted by the Copyright Royalty Judges for sound recordings that are fixed on or after February 15, 1972, for all the digital audio transmissions and reproductions satisfyingthe requirements for statutory licensing under sections 112(e)(1) and 114(d)(2) during the 3 years before that date of enactment; or
+&emsp;&emsp;&emsp;(i) except in the case of a transmission that would have been exempt under section 114(d)(1), not later than 270 days after the date of enactment of this section, the transmitting entity pays statutory royalties and provides notice of the use of the relevant sound recordings in the same manner as required by regulations adopted by the Copyright Royalty Judges for sound recordings that are fixed on or after February 15, 1972, for all the digital audio transmissions and reproductions satisfying the requirements for statutory licensing under sections 112(e)(1) and 114(d)(2) during the 3 years before that date of enactment; or
 
 &emsp;&emsp;&emsp;(ii) an agreement voluntarily negotiated between the rights owner and the entity performing the sound recording (including a litigation settlement agreement entered into before the date of enactment of this section) authorizes or waives liability for any such transmission or reproduction and the transmitting entity has paid for and reported such digital audio transmission under that agreement.
 
@@ -312,7 +312,7 @@ Limitation.—An award of statutory damages or of attorneys' fees under section 
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Undeliverable notices.—In any case in which a notice under subclause (I) is sent to an entity by mail or courier service and the notice is returned to the sender because the entity either is no longer located at the address provided inthe contact information filed under clause (i) or has refused to accept delivery, or the notice is sent by electronic mail and is undeliverable, the 90-day period under subclause (I) shall begin on the date of the attempted delivery.
+Undeliverable notices.—In any case in which a notice under subclause (I) is sent to an entity by mail or courier service and the notice is returned to the sender because the entity either is no longer located at the address provided in the contact information filed under clause (i) or has refused to accept delivery, or the notice is sent by electronic mail and is undeliverable, the 90-day period under subclause (I) shall begin on the date of the attempted delivery.
 
 &emsp;&emsp;(C)
 
@@ -394,9 +394,11 @@ Rights owner.—The term "rights owner" means—
 
 (Added Pub. L. 115–264, title II, §202(a)(2), Oct. 11, 2018, 132 Stat. 3728.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of enactment of this section, referred to in subsecs. (a)(2)(B)(i), (c)(3), (5)(A), (d)(2)–(4)(A), (e)(1), (f)(1)(B), (5)(A)(ii), (B)(i), (ii), and (l)(2), is the date of enactment of Pub. L. 115–264, which was approved Oct. 11, 2018.
+The date of enactment of this section, referred to in subsecs. (a)(2)(B)(i), (c)(3), (5)(A), (d)(2)–(4)(A), (e)(1),\(f)(1)(B), (5)(A)(ii), (B)(i), (ii), and (l)(2), is the date of enactment of Pub. L. 115–264, which was approved Oct. 11, 2018.
 
 The year in which this section is enacted, referred to in subsec. (d)(2)(B), is the year in which Pub. L. 115–264 was enacted. Such Act was approved Oct. 11, 2018.
 

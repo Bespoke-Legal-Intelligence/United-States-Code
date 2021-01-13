@@ -82,7 +82,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 
 #### Children's Gasoline Burn Prevention
 
-Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, provided that:
+Pub. L. 110–278, July 17, 2008, 122 Stat. 2602, as amended by Pub. L. 116–260, div. FF, title IX, §901(c)(1), Dec. 27, 2020, 134 Stat. 3206, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -100,7 +100,7 @@ Requirements.—Effective 6 months after the date of enactment of this Act \[Jul
 
 "(c)
 
-Definition.—As used in this Act, the term 'portable gasoline container' means any portable gasoline container intended for use by consumers.
+Definition.—As used in this Act, the term 'portable gasoline container' means any portable gasoline container intended for use by consumers and any receptacle for gasoline, kerosene, or diesel fuel, including any spout, cap, and other closure mechanism and component of such receptacle or any retrofit or aftermarket spout or component intended or reasonably anticipated to be for use with such receptacle, produced or distributed for sale to or use by consumers for transport of, or refueling of internal combustion engines with, gasoline, kerosene, or diesel fuel.
 
 "(d)
 
@@ -119,6 +119,8 @@ Report.—Not later than 2 years after the date of enactment of this Act \[July 
 &emsp;"(2) any enforcement actions brought by the Commission to enforce such standard; and
 
 &emsp;"(3) incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard promulgated under subsection (a))."
+
+\[Amendment by Pub. L. 116–260 to section 2(c) of Pub. L. 110–278, set out above, effective 6 months after Dec. 27, 2020, see section 2056d(c)(2) of this title.\]
 
 #### Automatic Garage Door Openers
 
@@ -152,7 +154,7 @@ Notification.—Effective on and after July 1, 1991, all manufacturers of automa
 
 "(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalentdegree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 "(g)
 

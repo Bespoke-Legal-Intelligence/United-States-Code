@@ -10,9 +10,11 @@ The Attorney General shall issue and publish in the Federal Register guidelines 
 
 #### (c) Equitable distribution of funds
 
-In disbursing funds under this part, the Attorney General shall ensure the distribution of awards equitably on a geographic basis, including urban and rural areas of varying population and geographic size.
+In disbursing funds under this part, the Attorney General shall ensure the distribution ofawards equitably on a geographic basis, including urban and rural areas of varying population and geographic size.
 
 (Pub. L. 103–322, title III, §30302, Sept. 13, 1994, 108 Stat. 1845.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

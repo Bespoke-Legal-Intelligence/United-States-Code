@@ -10,7 +10,7 @@
 
 &emsp;For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
+&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan yearwhich, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
 
 &emsp;&emsp;(B) in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
@@ -82,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan whichis a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
 
 #### (ii) Special rules
 
@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded forbenefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
+&emsp;&emsp;The Secretary shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to the Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 4001(a)(21) of the Employee Retirement Income Security Act of 1974). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under title IV of the Employee Retirement Income Security Act of 1974 and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 
@@ -154,7 +154,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rateat which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -298,7 +298,7 @@ Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(2)(B), inserted "which reduces th
 
 Subsec. (d)(1). Pub. L. 110–458, §101(a)(2)(C), struck out ", the valuation date," after "If the funding method".
 
-<b>2006</b>—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
+<b>2006</b>—Pub. L. 109–280, §111(a), reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum fundingstandard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
 Subsec. (b)(3). Pub. L. 109–280, §212(c), added par. (3).
 
@@ -392,7 +392,7 @@ Subsec. (m)(4)(D)(ii)(III). Pub. L. 103–465, §751(a)(6)(C)(ii)–(iv), added 
 
 Subsec. (m)(5), (6). Pub. L. 103–465, §751(a)(9)(A), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (n)(2). Pub. L. 103–465, §768(a)(1), inserted at end "This subsection shall not apply to any plan to which section 4021 of the Employee Retirement Income Security Act of 1974 does not apply (as such section is in effect on the date of the enactment of the Retirement Protection Act of 1994)."
+Subsec. (n)(2). Pub. L. 103–465, §768(a)(1), inserted at end "This subsection shall not apply to any plan towhich section 4021 of the Employee Retirement Income Security Act of 1974 does not apply (as such section is in effect on the date of the enactment of the Retirement Protection Act of 1994)."
 
 Subsec. (n)(3). Pub. L. 103–465, §768(a)(2), reenacted par. (3) heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of paragraph (1), the amount of the lien shall be equal to the lesser of—
 
@@ -470,7 +470,7 @@ Subsec. (c)(7). Pub. L. 100–203, §9301(a), substituted "Full-funding" for "Fu
 
 &emsp;"(B) the lesser of the fair market value of the plan's assets or the value of such assets determined under paragraph (2)."
 
-Subsec. (c)(10). Pub. L. 100–203, §9304(a)(1), amended par. (10) generally. Prior to amendment, par. (10) readas follows: "For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this paragraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary."
+Subsec. (c)(10). Pub. L. 100–203, §9304(a)(1), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "For purposes of this section, any contributions for a plan year made by an employer after the last day of such plan year, but not later than two and one-half months after such day, shall be deemed to have been made on such last day. For purposes of this paragraph, such two and one-half month period may be extended for not more than six months under regulations prescribed by the Secretary."
 
 Subsec. (c)(11). Pub. L. 100–203, §9305(b)(1), added par. (11).
 
@@ -552,7 +552,7 @@ Special rule for certain restored benefits.—In the case of a multiemployer pla
 
 > the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments."
 
-Pub. L. 109–280, title II, §221(c), Aug. 17, 2006, 120 Stat. 919, as amended by Pub. L. 113–295, div. A, title I, §172(a), (b), Dec. 19, 2014, 128 Stat. 4024, which provided that the provisions of, and the amendments made by, sections 201(b), 202, and 212 (enacting section 432 of thistitle and section 1085 of Title 29, Labor, amending this section, section 4971 of this title, and sections 1082 and 1132 of Title 29, and enacting provisions set out as notes under this section and sections 1082 and 1084 of Title 29) were not applicable to plan years beginning after Dec. 31, 2014, and if a plan was operating under a funding improvement or rehabilitation plan under section 1085 of Title 29 or section 432 of this title for its last year beginning before Jan. 1, 2015, such plan was to continue to operate under such funding improvement or rehabilitation plan during any period after Dec. 31, 2014, such funding improvement or rehabilitation plan was in effect and all provisions of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) or this title relating to the operation of such funding improvement or rehabilitation plan were to continue in effect during such period, was repealed by Pub. L. 113–235, div. O, title I, §101(a), Dec. 16, 2014, 128 Stat. 2774.
+Pub. L. 109–280, title II, §221(c), Aug. 17, 2006, 120 Stat. 919, as amended by Pub. L. 113–295, div. A, title I, §172(a), (b), Dec. 19, 2014, 128 Stat. 4024, which provided that the provisions of, and the amendments made by, sections 201(b), 202, and 212 (enacting section 432 of this title and section 1085 of Title 29, Labor, amending this section, section 4971 of this title, and sections 1082 and 1132 of Title 29, and enacting provisions set out as notes under this section and sections 1082 and 1084 of Title 29) were not applicable to plan years beginning after Dec. 31, 2014, and if a plan was operating under a funding improvement or rehabilitation plan under section 1085 of Title 29 or section 432 of this title for its last year beginning before Jan. 1, 2015, such plan was to continue to operate under such funding improvement or rehabilitation plan during any period after Dec. 31, 2014, such funding improvement or rehabilitation plan was in effect and all provisions of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) or this title relating to the operation of such funding improvement or rehabilitation plan were to continue in effectduring such period, was repealed by Pub. L. 113–235, div. O, title I, §101(a), Dec. 16, 2014, 128 Stat. 2774.
 
 \[Pub. L. 113–295, div. A, title I, §172(c), Dec. 19, 2014, 128 Stat. 4024, provided that: "The amendments made by this section \[directing amendment of section 221(c) of Pub. L. 109–280, formerly set out above\] shall apply to plan years beginning after December 31, 2014." Those amendments could not be executed because of the intervening repeal of section 221(c) by Pub. L. 113–235.\]
 
@@ -756,7 +756,7 @@ Amendment by section 1901(a)(63) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date
 
-Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for planyears beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Regulations
 
@@ -764,7 +764,7 @@ Pub. L. 103–465, title VII, §769, Dec. 8, 1994, 108 Stat. 5041, as amended by
 
 "(a)
 
-Funding Rules Not To Apply to Certain Plans.—Any changes made by this Act \[Pub. L. 103–465\] to section 412 of the Internal Revenue Code of 1986 or to part 3 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1081 et seq.\] shall not apply to—
+Funding Rules Not To Apply to Certain Plans.—Any changes made by this Act \[Pub. L. 103–465\]to section 412 of the Internal Revenue Code of 1986 or to part 3 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1081 et seq.\] shall not apply to—
 
 &emsp;"(1) a plan which is, on the date of enactment of this Act \[Dec. 8, 1994\], subject to a restoration payment schedule order issued by the Pension Benefit Guaranty Corporation that meets the requirements of section 1.412(c)(1)–3 of the Treasury Regulations, or
 
@@ -828,7 +828,7 @@ General rule.—In the case of any multiemployer plan (as defined in section 414
 
 &emsp;&emsp;"(C) the rates of interest under the plan are determined on the basis of reasonable actuarial assumptions,
 
-&nbsp;the plan may elect (in such manner and at such time as may be provided under regulations prescribed by the Secretary of the Treasury or his delegate) to fund the unfunded past service liability under the plan existing as of the date 12 months following the first date on which such section 412 first applies to the plan by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan in lieu of the level dollar charges to such account required under clauses (i), (ii), and (iii) of \[former\] section 412(b)(2)(B) of such Code and section 302(b)(2)(B)(i), (ii), and (iii) of this Act \[section 1082(b)(2)(B)(i), (ii), and (iii) of Title 29, Labor\].
+&nbsp;the plan may elect (in such manner and at such time as may be provided under regulations prescribed by the Secretary of the Treasury or his delegate) to fund the unfunded past service liability under the plan existing as of the date 12 months following the first date on which such section 412 first applies to the plan by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan in lieu of the level dollar charges to such account required under clauses (i), (ii), and (iii) of \[former\] section 412(b)(2)(B) of suchCode and section 302(b)(2)(B)(i), (ii), and (iii) of this Act \[section 1082(b)(2)(B)(i), (ii), and (iii) of Title 29, Labor\].
 
 &emsp;"(2)
 

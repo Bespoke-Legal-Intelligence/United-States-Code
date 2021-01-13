@@ -18,10 +18,15 @@
 | [2909\.](%C2%A7%2002909%20-%20Retention%20of%20records.md) | Retention of records. |
 | [2910\.](%C2%A7%2002910%20-%20Preservation%20of%20Freedmen%27s%20Bureau%20records.md) | Preservation of Freedmen's Bureau records. |
 | [2911\.](%C2%A7%2002911%20-%20Disclosure%20requirement%20for%20official%20business%20conducted%20using%20non-official%20electronic%20messaging%20accounts.md) | Disclosure requirement for official business conducted using non-official electronic messaging accounts. |
+| [2912\.](%C2%A7%2002912%20-%20Preservation%20of%20electronic%20messages%20and%20other%20records.md) | Preservation of electronic messages and other records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. H, title XCVI, §9602(b)(4), Jan. 1, 2021, 134 Stat. 4829, added item 2912.
 
 <b>2017</b>—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(1). See 2014 Amendment note below.
 
@@ -53,3 +58,4 @@ Pub. L. 113–187, §§9(b)(2), 10(b), Nov. 26, 2014, 128 Stat. 2013–2015, ins
 - [&sect; 02909 - Retention of records](%C2%A7%2002909%20-%20Retention%20of%20records.md)
 - [&sect; 02910 - Preservation of Freedmen's Bureau records](%C2%A7%2002910%20-%20Preservation%20of%20Freedmen%27s%20Bureau%20records.md)
 - [&sect; 02911 - Disclosure requirement for official business conducted using non-official electronic messaging accounts](%C2%A7%2002911%20-%20Disclosure%20requirement%20for%20official%20business%20conducted%20using%20non-official%20electronic%20messaging%20accounts.md)
+- [&sect; 02912 - Preservation of electronic messages and other records](%C2%A7%2002912%20-%20Preservation%20of%20electronic%20messages%20and%20other%20records.md)

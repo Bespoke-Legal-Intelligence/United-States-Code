@@ -94,6 +94,8 @@ In subsection (d), the word "members" is substituted for the words "officers and
 
 In subsection (e), the word "member" is substituted for the words "officer or enlisted man". The words "Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority" are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out "Duty without pay shall be considered for all purposes as if it were duty with pay." at end, and added pars. (2) and (3).
@@ -105,6 +107,8 @@ In subsection (e), the word "member" is substituted for the words "officer or en
 <b>1967</b>—Subsec. (b). Pub. L. 90–168 substituted 30 consecutive days for seven consecutive days of the same calendar month as the time within which all parts of the unit must be included in a series of formations in order to be credited as an assembly for drill and instruction.
 
 <b>1964</b>—Subsec. (f). Pub. L. 88–621 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

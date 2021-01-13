@@ -46,6 +46,8 @@ June 29, 1936, ch. 858, title XIII, §1303(b)(3)(F), (c), as added Pub. L. 96–
 
 46 App.:1295b(c).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2). See 2006 Amendment note below.

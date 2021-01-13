@@ -64,9 +64,9 @@ Reports.—Not later than December 31, 2004, and not later than December 31 of e
 
 &emsp;(D) identifies any needed adjustments in the authorization of the programs.
 
-(3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter.
+(3) For purposes of carrying out paragraph (1)(A)(i) of this subsection, there is authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1999 and each fiscal year thereafter.
 
-(4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter.
+(4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 1999 and each fiscal year thereafter.
 
 (5)
 
@@ -90,7 +90,7 @@ Transfer of amounts.—For fiscal year 1999 and each fiscal year thereafter, the
 
 #### (g) Increases in lock capacity
 
-The Secretary shall, in his budget request, identify those measures developed by the Secretary, in consultation with the Secretary of Transportation and any agency establishedunder subsection (d)(1) of this section, to be undertaken to increase the capacity of specific locks throughout the system by employing nonstructural measures and making minor structural improvements.
+The Secretary shall, in his budget request, identify those measures developed by the Secretary, in consultation with the Secretary of Transportation and any agency established under subsection (d)(1) of this section, to be undertaken to increase the capacity of specific locks throughout the system by employing nonstructural measures and making minor structural improvements.
 
 #### (h) Monitoring of traffic movements
 
@@ -124,7 +124,9 @@ Requirements.—The Secretary shall—
 
 The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shall be constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502. Section 2212 of this title shall apply to the project authorized by this subsection.
 
-(Pub. L. 99–662, title XI, §1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, §405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, §107, Oct. 31, 1992, 106 Stat. 4815; Pub. L. 106–53, title V, §509, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–109, §2, Nov. 24, 1999, 113 Stat. 1494; Pub. L. 110–114, title III, §3177, Nov. 8, 2007, 121 Stat. 1155.)
+(Pub. L. 99–662, title XI, §1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, §405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, §107, Oct. 31, 1992, 106 Stat. 4815; Pub. L. 106–53, title V, §509, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–109, §2, Nov. 24, 1999, 113 Stat. 1494; Pub. L. 110–114, title III, §3177, Nov. 8, 2007, 121 Stat. 1155; Pub. L. 116–260, div. AA, title III, §307, Dec. 27, 2020, 134 Stat. 2704.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -137,6 +139,10 @@ This Act, referred to in subsec. (f)(1), is Pub. L. 99–662, Nov. 17, 1986, 100
 Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is set out as a note under section 1962b–3 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(3). Pub. L. 116–260, §307(1), substituted "$40,000,000" for "$22,750,000".
+
+Subsec. (e)(4). Pub. L. 116–260, §307(2), substituted "$15,000,000" for "$10,420,000".
 
 <b>2007</b>—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted ", including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies" before period at end.
 
@@ -187,6 +193,8 @@ Subsec. (e)(4). Pub. L. 101–640, §405(3), substituted "14" for "nine".
 Subsec. (e)(5). Pub. L. 101–640, §405(4), substituted "12" for "seven".
 
 Subsec. (f)(2)(A). Pub. L. 101–640, §405(5), substituted "15" for "ten".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Upper Mississippi River and Illinois Water-way System
 

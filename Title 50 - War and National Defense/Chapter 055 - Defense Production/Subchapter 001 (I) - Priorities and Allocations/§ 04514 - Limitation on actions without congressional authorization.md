@@ -6,7 +6,7 @@ No provision of this chapter shall be interpreted as providing for the impositio
 
 #### (b) Chemical or biological weapons
 
-No provision of this subchapter shall be exercised or interpreted to require action or compliance by any private person to assist in any way in the production of or other involvement in chemical or biological warfare capabilities, unless authorized by the President (or the President's designee who is serving in a position at level I of the Executive Schedule in accordance with section 5312 of title 5) without further redelegation.
+No provision of this subchapter shall be exercised or interpreted to require action or compliance by any private person to assist in any way in the production of or other involvement in chemical or biological warfare capabilities, unless authorized by the President (or the President's designee who is serving in a position at level I of the Executive Schedule in accordancewith section 5312 of title 5) without further redelegation.
 
 (Sept. 8, 1950, ch. 932, title I, §104, as added Pub. L. 102–558, title I, §112, Oct. 28, 1992, 106 Stat. 4202.)
 

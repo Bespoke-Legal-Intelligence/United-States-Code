@@ -28,9 +28,13 @@ Pub. L. 110–252, title VI, §§6102, 6103, June 30, 2008, 122 Stat. 2386, 2387
 
 In subsection (b), the words "shall include" are substituted for "shall be amended" and "to include" to reflect the permanence of the provision. The words "within 180 days after the date of the enactment of this Act" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

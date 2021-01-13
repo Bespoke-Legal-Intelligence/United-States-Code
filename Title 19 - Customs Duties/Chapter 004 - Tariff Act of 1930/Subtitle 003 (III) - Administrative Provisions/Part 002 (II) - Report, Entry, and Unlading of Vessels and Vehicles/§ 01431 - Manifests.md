@@ -78,7 +78,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 #### Codification
 
-In subsec. (a), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the UnitedStates (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (a), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services formembers of the armed forces, survivors of members of the armed forces who die in combat-related incidents in the line of duty, and employees of the United States if the Secretary determines that providing such financial assistance—
+Authority.—The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces, survivors of members of the armed forces who die in combat-related incidents in the line of duty, and employees of the United States if the Secretary determines that providing such financial assistance—
 
 &emsp;(1) is in the best interest of the Department of Defense;
 

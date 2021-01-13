@@ -8,7 +8,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (1) Notice requirement
 
-&emsp;Each servicer of any federally related mortgage loan shall notify the borrower in writing of any assignment, sale, or transfer of the servicing of the loan to any other person.
+&emsp;Each servicer of any federally related mortgage loan shall notify the borrower in writingof any assignment, sale, or transfer of the servicing of the loan to any other person.
 
 #### (2) Time of notice
 
@@ -38,7 +38,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 &emsp;&emsp;(B) The name, address, and toll-free or collect call telephone number of the transferee servicer.
 
-&emsp;&emsp;(C) A toll-free or collect call telephone number for (i) an individual employed by the transferor servicer, or (ii) the department ofthe transferor servicer, that can be contacted by the borrower to answer inquiries relating to the transfer of servicing.
+&emsp;&emsp;(C) A toll-free or collect call telephone number for (i) an individual employed by the transferor servicer, or (ii) the department of the transferor servicer, that can be contacted by the borrower to answer inquiries relating to the transfer of servicing.
 
 &emsp;&emsp;(D) The name and toll-free or collect call telephone number for (i) an individual employed by the transferee servicer, or (ii) the department of the transferee servicer, that can be contacted by the borrower to answer inquiries relating to the transfer of servicing.
 
@@ -80,7 +80,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (d) Treatment of loan payments during transfer period
 
-During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such payment may be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
+During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such paymentmay be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
 
 #### (e) Duty of loan servicer to respond to borrower inquiries
 
@@ -268,6 +268,8 @@ All charges, apart from charges subject to State regulation as the business of i
 
 (Pub. L. 93–533, §6, as added Pub. L. 101–625, title IX, §941, Nov. 28, 1990, 104 Stat. 4405; amended Pub. L. 102–27, title III, §312(a), Apr. 10, 1991, 105 Stat. 154; Pub. L. 103–325, title III, §345, Sept. 23, 1994, 108 Stat. 2239; Pub. L. 104–208, div. A, title II, §2103(a), Sept. 30, 1996, 110 Stat. 3009–399; Pub. L. 111–203, title X, §1098(4), title XIV, §1463, July 21, 2010, 124 Stat. 2104, 2182.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2605, Pub. L. 93–533, §6, Dec. 22, 1974, 88 Stat. 1726, related to advanced itemized disclosure of settlement costs by the lender and liability of the lender for failure to comply, prior to repeal by Pub. L. 94–205, §5, Jan. 2, 1976, 89 Stat. 1158.
@@ -299,6 +301,8 @@ Subsecs. (k) to (m). Pub. L. 111–203, §1463(a), added subsecs. (k) to (m).
 > for "(B) for each of the most recent", redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, and realigned margins, substituted "or" for "and" at end of subcl. (II), and added cl. (ii).
 
 <b>1991</b>—Subsec. (j). Pub. L. 102–27 added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

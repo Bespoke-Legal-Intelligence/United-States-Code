@@ -18,7 +18,7 @@ Other Matters.—In carrying out this chapter, the Secretary of Transportation s
 
 &emsp;(3) when appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1341, §70116 of title 49; renumbered §70116 then §50918 of title 51, Pub. L. 111–314, §4(d)(2), (3)(R), Dec. 18, 2010, 124 Stat. 3440, 3441.)
 
 Historical and Revision Notes
 
@@ -54,9 +54,13 @@ In subsections (a) and (b), the words "including the issuance or transfer of eac
 
 In subsection (c), before clause (1), the words "the head of" and "executive" are added for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "and equitable" in 49 App.:2604(a)(2) are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70116 of title 49 and section 70116 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Streamline Commercial Space Launch Activities
 
@@ -146,7 +150,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;"(C) the terms 'launch', 'reenter', and 'reentry' include landing of a launch vehicle or reentry vehicle; and
 
-&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site'include any necessary facility, at that location, that is commercially operated on United States Government property.
+&emsp;&emsp;"(D) the terms 'United States Government launch site' and 'United States Government reentry site' include any necessary facility, at that location, that is commercially operated on United States Government property.
 
 "(d)
 

@@ -2,7 +2,9 @@
 
 An officer, other than an officer serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for his grade under section 2111 of this title, fails of selection if he is not selected for promotion by the selection board which considered him, or if having been recommended for promotion by the board, his name is thereafter removed from the report of the board by the President.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181, §262; amended Pub. L. 112–213, title II,§208(c), Dec. 20, 2012, 126 Stat. 1549; renumbered §2119 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 181, §262; amended Pub. L. 112–213, title II, §208(c), Dec. 20, 2012, 126 Stat. 1549; renumbered §2119 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -11,6 +13,8 @@ An officer, other than an officer serving in the grade of captain, who is, or is
 Pub. L. 115–282, §112(b), renumbered section 262 of this title as this section.
 
 <b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) describing failure of selection for promotion with an exception made if an officer was not considered because of administrative error.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

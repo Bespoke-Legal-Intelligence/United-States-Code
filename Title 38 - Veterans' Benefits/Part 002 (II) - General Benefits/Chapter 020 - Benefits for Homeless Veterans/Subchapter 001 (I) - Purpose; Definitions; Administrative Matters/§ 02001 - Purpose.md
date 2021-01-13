@@ -4,11 +4,27 @@ The purpose of this chapter is to provide for the special needs of homeless vete
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2001 was renumbered section 4101 of this title.
 
 Another prior section 2001, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1217, related to compensation for veterans under agreements with States, prior to repeal by section 1(a) of Pub. L. 87–675.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Annual Reports
+
+Pub. L. 116–283, div. H, title XCI, §9103(c), Jan. 1, 2021, 134 Stat. 4781, provided that:
+
+"(1)
+
+In general.—Not less frequently than once each year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the homelessness services provided under programs of the Department of Veterans Affairs, including services under HUD–VASH program under section 8<i>(o)</i>(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f<i>(o)</i>(19)).
+
+"(2)
+
+Included information.—Each such annual report shall include, with respect to the year preceding the submittal of the report, a statement of the number of eligible individuals who were furnished such homelessness services and the number of individuals furnished such services under each such program, disaggregated by the number of men who received such services and the number of women who received such services, and such other information as the Secretary considers appropriate."
 
 #### National Goal To End Homelessness Among Veterans
 

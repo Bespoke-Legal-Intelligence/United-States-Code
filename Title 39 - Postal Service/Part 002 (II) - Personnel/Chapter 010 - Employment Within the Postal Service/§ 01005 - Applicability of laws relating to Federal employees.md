@@ -34,7 +34,7 @@
 
 (c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
 
-(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
+(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The PostalService shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
 (2) The provisions of subsections (i) and (m)(2) of section 8344 and subsections (f) and (j)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
 
@@ -47,6 +47,8 @@
 (f) Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rules and regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service in accordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87, 89, 89A, and 89B of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, §2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, §306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, §1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, §3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, §5, Dec. 23, 2004, 118 Stat. 4011; Pub. L. 109–435, title X, §1010(g)(1), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 111–84, div. A, title XI, §1122(d), title XIX, §1916(b)(1), Oct. 28, 2009, 123 Stat. 2509, 2624; Pub. L. 111–383, div. A, title X, §1075(d)(22), Jan. 7, 2011, 124 Stat. 4374.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -80,6 +82,8 @@ Subsec. (d)(2). Pub. L. 111–84, §1122(d), in introductory provisions, substit
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–349 substituted requirement that the Postal Service pay into the Civil Service Retirement and Disability Fund the amounts determined by the Civil Service Commission under section 8348(h) of title 5, for requirement that the Postal Service pay to the Civil Service Commission upon request of the Civil Service Commission but not less frequently than annually the costs reasonably related to the administration of Fund activities for officers and employees of the Postal Service.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment made by section 1075(d)(22) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
@@ -90,7 +94,7 @@ Amendment by section 1916(b)(1) of Pub. L. 111–84 effective Oct. 28, 2009, wit
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as an Effective Date note under section 8951 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as an Effective Date note under section8951 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1987 Amendment
 
@@ -102,15 +106,17 @@ Pub. L. 93–349, §3, July 12, 1974, 88 Stat. 354, provided that: "The effectiv
 
 #### Effective Date
 
-Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
-
-#### Transfer of Functions
-
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Abatement of Actions
 
 Pub. L. 100–90, §1(b)(2), Aug. 18, 1987, 101 Stat. 673, provided that: "An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 

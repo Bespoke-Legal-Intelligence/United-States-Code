@@ -36,7 +36,7 @@ Each instance of complementary access to a location in the United States under t
 
 #### (c) Credentials
 
-The complementary access team of the IAEA and representatives or designees of the United States Government shall display appropriate identifying credentials to the owner, operator, occupant, or agent in charge of the location before gaining entry in connection with complementary access.
+The complementary access team of the IAEA and representatives or designees of the UnitedStates Government shall display appropriate identifying credentials to the owner, operator, occupant, or agent in charge of the location before gaining entry in connection with complementary access.
 
 #### (d) Scope
 

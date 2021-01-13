@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Director may make supplemental grants as provided in 20101(d)(5) <sup>1</sup> of this title toStates, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
+&emsp;The Director may make supplemental grants as provided in 20101(d)(5) <sup>1</sup> of this title to States, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
 
 #### (2) Victim defined
 
@@ -16,13 +16,15 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to allow the Director to make grants to any foreign power (as defined by section 1801(a) of title 50) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
+&emsp;Nothing in this subsection shall be construed to allow the Director to make grants toany foreign power (as defined by section 1801(a) of title 50) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
 
 #### (b) Victims of terrorism within the United States
 
 The Director may make supplemental grants as provided in section 20101(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring within the United States.
 
 (Pub. L. 98–473, title II, §1404B, as added Pub. L. 104–132, title II, §232(a), Apr. 24, 1996, 110 Stat. 1243; amended Pub. L. 106–386, div. C, §2003(a)(1), (4), Oct. 28, 2000, 114 Stat. 1543, 1544; Pub. L. 107–56, title VI, §624(a), (b), Oct. 26, 2001, 115 Stat. 373.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 107–56, §624(a), amended heading and text of subsec. (b)
 <b>2000</b>—Subsec. (a). Pub. L. 106–386, §2003(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Director may make supplemental grants as provided in section 10603(a) of this title to States to provide compensation and assistance to the residents of such States who, while outside of the territorial boundaries of the United States, are victims of a terrorist act or mass violence and are not persons eligible for compensation under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986."
 
 Subsec. (b). Pub. L. 106–386, §2003(a)(4), substituted "10601(d)(5) of this title" for "10603(d)(4)(B) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Correction
 
-&emsp;The terms "correction" and "correct" mean, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
+&emsp;The terms "correction" and "correct" mean, with respect to any taxable expenditure, (A)recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
 
 #### (2) Taxable period
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) ofPub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -182,5 +182,5 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 #### Savings Provision
 
-Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section 101(l)(C)(3) of Pub. L. 91–172, see section 101(l)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section101(l)(C)(3) of Pub. L. 91–172, see section 101(l)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

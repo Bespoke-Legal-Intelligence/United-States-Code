@@ -18,7 +18,9 @@ For purposes of this subchapter—
 
 &emsp;(8) the term "State chapter" means a membership organization that provides technical assistance, training, coordination, grant administration, oversight, and support to local children's advocacy centers, multidisciplinary teams, and communities working to implement a multidisciplinary response to child abuse in the provision of evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
 
-(Pub. L. 101–647, title II, §212, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5029; amended Pub. L. 114–22, title I, §104(1), May 29, 2015, 129 Stat. 236; Pub. L. 115–424, §2(b), (h)(1), Jan. 7, 2019, 132 Stat. 5465, 5470.)
+(Pub. L. 101–647, title II, §212, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5029; amended Pub. L. 114–22, title I, §104(1), May 29,2015, 129 Stat. 236; Pub. L. 115–424, §2(b), (h)(1), Jan. 7, 2019, 132 Stat. 5465, 5470.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -66,7 +66,7 @@ The owner, operator, or agent in charge of a facility shall prepare a written pl
 
 #### (i) Requirement to reanalyze
 
-The owner, operator, or agent in charge of a facility shall conduct a reanalysis under subsection (b) whenever a significant change is made in the activities conducted at a facility operated by such owner, operator, or agent if the change creates a reasonable potential for a new hazard or a significant increase in a previously identified hazard or not less frequently than once every 3 years, whichever is earlier. Such reanalysis shall be completed and additional preventive controls needed to address the hazard identified, if any, shall be implemented before the change in activities at the facility is operative. Such owner, operator, or agent shall revise the written plan required under subsection (h) if such a significant change is made or document the basis for the conclusion that no additional or revised preventive controls are needed. The Secretary may require a reanalysis under this section to respond to new hazards and developments in scientific understanding, including, as appropriate, results from the Department of Homeland Security biological, chemical, radiological, or other terrorism risk assessment.
+The owner, operator, or agent in charge of a facility shall conduct a reanalysis under subsection (b) whenever a significant change is made in the activities conducted at a facility operated by such owner, operator, or agent if the change creates a reasonable potential for a new hazard or a significant increase in a previously identified hazard or not less frequently than once every 3 years, whichever is earlier. Such reanalysis shall be completed and additional preventive controls needed to address the hazard identified, if any, shall be implemented beforethe change in activities at the facility is operative. Such owner, operator, or agent shall revise the written plan required under subsection (h) if such a significant change is made or document the basis for the conclusion that no additional or revised preventive controls are needed. The Secretary may require a reanalysis under this section to respond to new hazards and developments in scientific understanding, including, as appropriate, results from the Department of Homeland Security biological, chemical, radiological, or other terrorism risk assessment.
 
 #### (j) Exemption for seafood, juice, and low-acid canned food facilities subject to HACCP
 
@@ -140,7 +140,7 @@ This section shall not apply to activities of a facility that are subject to sec
 
 #### (A) In general
 
-&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a qualified facility subject to an exemption under this subsection, or if the Secretary determines that it is necessary to protect the public health and prevent or mitigate a foodborne illness outbreak based on conduct or conditions associated with a qualified facility that are material to the safety of the food manufactured, processed, packed, or held at such facility, the Secretary may withdraw the exemption provided to such facility under this subsection.
+&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a qualified facility subject to an exemption under this subsection, or if the Secretary determines that it is necessary toprotect the public health and prevent or mitigate a foodborne illness outbreak based on conduct or conditions associated with a qualified facility that are material to the safety of the food manufactured, processed, packed, or held at such facility, the Secretary may withdraw the exemption provided to such facility under this subsection.
 
 #### (B) Rule of construction
 
@@ -264,7 +264,7 @@ For purposes of this section:
 
 #### (1) Critical control point
 
-&emsp;The term "critical control point" means a point, step, or procedure in a food process atwhich control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
+&emsp;The term "critical control point" means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
 
 #### (2) Facility
 
@@ -289,6 +289,8 @@ For purposes of this section:
 &emsp;&emsp;(G) Supplier verification activities that relate to the safety of food.
 
 (June 25, 1938, ch. 675, §418, as added Pub. L. 111–353, title I, §103(a), Jan. 4, 2011, 124 Stat. 3889.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

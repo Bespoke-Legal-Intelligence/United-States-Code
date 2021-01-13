@@ -40,7 +40,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 #### (ii) State expenditures
 
-&emsp;&emsp;&emsp;For a fiscal year in which a State commits funds as described in clause (i), such State shall maintain State expenditures for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, plus the additional funds for tobacco compliance activities requiredunder clause (i). The State shall submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
+&emsp;&emsp;&emsp;For a fiscal year in which a State commits funds as described in clause (i), such State shall maintain State expenditures for tobacco prevention programs and for compliance activities at a level that is not less than the level of such expenditures maintained by the State for the preceding fiscal year, plus the additional funds for tobacco compliance activities required under clause (i). The State shall submit a report to the Secretary on all State obligations of funds for such fiscal year and all State expenditures for the preceding fiscal year for tobacco prevention and compliance activities by program activity by July 31 of such fiscal year.
 
 #### (iii) Discretion
 

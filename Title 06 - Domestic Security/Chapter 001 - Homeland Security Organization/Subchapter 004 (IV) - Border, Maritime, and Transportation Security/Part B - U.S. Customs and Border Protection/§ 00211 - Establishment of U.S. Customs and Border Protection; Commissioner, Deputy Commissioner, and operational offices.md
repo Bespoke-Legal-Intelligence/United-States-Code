@@ -248,7 +248,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(B) coordinate and support U.S. Customs and Border Protection's personnel stationed abroad;
 
-&emsp;&emsp;(C) maintain partnerships and information-sharing agreements and arrangements with foreign governments, international organizations, and United States agencies in support of U.S. Customs and Border Protection's duties and responsibilities;
+&emsp;&emsp;(C) maintain partnerships and information-sharing agreements and arrangementswith foreign governments, international organizations, and United States agencies in support of U.S. Customs and Border Protection's duties and responsibilities;
 
 &emsp;&emsp;(D) provide necessary capacity building, training, and assistance to foreign customs and border control agencies to strengthen border, global supply chain, and travel security, as appropriate;
 
@@ -316,11 +316,11 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(A) in the case of a search of information conducted on an electronic device by U.S. Customs and Border Protection personnel, the Commissioner to notify the individual subject to such search of the purpose and authority for such search, and how such individual may obtain information on reporting concerns about such search; and
 
-&emsp;&emsp;(B) in the case of information collected by U.S. Customs and Border Protection through a search of an electronic device, if such information is transmitted to another Federal agency for subject matter assistance, translation, or decryption, the Commissioner tonotify the individual subject to such search of such transmission.
+&emsp;&emsp;(B) in the case of information collected by U.S. Customs and Border Protection through a search of an electronic device, if such information is transmitted to another Federal agency for subject matter assistance, translation, or decryption, the Commissioner to notify the individual subject to such search of such transmission.
 
 #### (3) Exceptions
 
-&emsp;The Commissioner may withhold the notifications required under paragraphs (1)(C) and (2) if the Commissioner determines, in the sole and unreviewable discretion of the Commissioner, that such notifications would impair national security, law enforcement, or other operational interests.
+&emsp;The Commissioner may withhold the notifications required under paragraphs (1)(C) and\(2) if the Commissioner determines, in the sole and unreviewable discretion of the Commissioner, that such notifications would impair national security, law enforcement, or other operational interests.
 
 #### (4) Update and review
 
@@ -388,7 +388,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (4) Daytime repatriation
 
-&emsp;When practicable, repatriations shall be limited to daylight hours and avoid locations that are determined to have high indices of crime and violence.
+&emsp;When practicable, repatriations shall be limited to daylight hours and avoid locations thatare determined to have high indices of crime and violence.
 
 #### (5) Report on procurement process and standards
 
@@ -430,6 +430,10 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 &emsp;If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.
 
+#### (3) Rescue beacons
+
+&emsp;Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.
+
 #### (p) Reports to Congress
 
 The Commissioner shall, on and after February 24, 2016, continue to submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate any report required, on the day before February 24, 2016, to be submitted under any provision of law.
@@ -442,7 +446,9 @@ Nothing in this section may be construed as affecting in any manner the authorit
 
 In this section, the terms "commercial operations", "customs and trade laws of the United States", "trade enforcement", and "trade facilitation" have the meanings given such terms in section 4301 of title 19.
 
-(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199; Pub. L. 115–79, §4(a), Nov. 2, 2017, 131 Stat. 1260.)
+(Pub. L. 107–296, title IV, §411, Nov. 25, 2002, 116 Stat. 2178; Pub. L. 114–125, title VIII, §802(a), Feb. 24, 2016, 130 Stat. 199; Pub. L. 115–79, §4(a), Nov. 2, 2017, 131 Stat. 1260; Pub. L. 116–277, §3, Dec. 31, 2020, 134 Stat. 3370.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -450,13 +456,17 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 #### Codification
 
-Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) of section 411 of Pub. L. 107–296 amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) of section 411 of Pub. L. 107–296amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (o)(3). Pub. L. 116–277 added par. (3).
 
 <b>2017</b>—Subsec. (c)(18), (19). Pub. L. 115–79 added par. (18) and redesignated former par. (18) as (19).
 
 <b>2016</b>—Pub. L. 114–125 amended section generally. Prior to amendment, section established the United States Customs Service headed by a Commissioner of Customs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -482,13 +492,251 @@ Rules and regulations.—Notwithstanding paragraph (1), nothing in this title \[
 
 Other actions.—Notwithstanding paragraph (1), nothing in this Act \[see Tables for classification\] may be construed as affecting in any manner any action, determination, policy, or decision pursuant to section 411 of the Homeland Security Act of 2002 as in existence on the day before the date of the enactment of this Act, and any such action, determination, policy, or decision shall continue to have full force and effect on and after such date."
 
+#### Large-Scale Non-Intrusive Inspection Scanning
+
+Pub. L. 116–299, Jan. 5, 2021, 134 Stat. 4906, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Securing America's Ports Act'.
+
+#### "SEC. 2. LARGE-SCALE NON-INTRUSIVE INSPECTION SCANNING PLAN.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Large-scale non-intrusive inspection system.—The term 'large-scale, non-intrusive inspection system' means a technology, including x-ray, gamma-ray, and passive imaging systems, capable of producing an image of the contents of a commercial or passenger vehicle or freight rail car in 1 pass of such vehicle or car.
+
+&emsp;"(2)
+
+Scanning.—The term 'scanning' means utilizing nonintrusive imaging equipment, radiation detection equipment, or both, to capture data, including images of a commercial or passenger vehicle or freight rail car.
+
+"(b)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Homeland Security shall submit a plan to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives for increasing to 100 percent the rate of high-throughput scanning of commercial and passenger vehicles and freight rail traffic entering the United States at land ports of entry and rail-border crossings along the border using large-scale non-intrusive inspection systems or similar technology to enhance border security.
+
+"(c)
+
+Baseline Information.—The plan under subsection (b) shall include, at a minimum, the following information regarding large-scale non-intrusive inspection systems or similar technology operated by U.S. Customs and Border Protection at land ports of entry and rail-border crossings as of the date of the enactment of this Act:
+
+&emsp;"(1) An inventory of large-scale non-intrusive inspection systems or similar technology in use at each land port of entry.
+
+&emsp;"(2) For each system or technology identified in the inventory under paragraph (1)—
+
+&emsp;&emsp;"(A) the scanning method of such system or technology;
+
+&emsp;&emsp;"(B) the location of such system or technology at each land port of entry that specifies whether in use in pre-primary, primary, or secondary inspection area, or some combination of such areas;
+
+&emsp;&emsp;"(C) the percentage of commercial and passenger vehicles and freight rail traffic scanned by such system or technology;
+
+&emsp;&emsp;"(D) seizure data directly attributed to scanned commercial and passenger vehicles and freight rail traffic; and
+
+&emsp;&emsp;"(E) the number of personnel required to operate each system or technology.
+
+&emsp;"(3) Information regarding the continued use of other technology and tactics used for scanning, such as canines and human intelligence in conjunction with large scale, nonintrusive inspection systems.
+
+"(d)
+
+Elements.—The plan under subsection (b) shall include the following information:
+
+&emsp;"(1) Benchmarks for achieving incremental progress towards 100 percent high-throughput scanning within the next 6 years of commercial and passenger vehicles and freight rail traffic entering the United States at land ports of entry and rail-border crossings along the border with corresponding projected incremental improvements in scanning rates by fiscal year and rationales for the specified timeframes for each land port of entry.
+
+&emsp;"(2) Estimated costs, together with an acquisition plan, for achieving the 100 percent high-throughput scanning rate within the timeframes specified in paragraph (1), including acquisition, operations, and maintenance costs for large-scale, nonintrusive inspection systems or similar technology, and associated costs for any necessary infrastructure enhancements or configuration changes at each port of entry. Such acquisition plan shall promote, to the extent practicable, opportunities for entities that qualify as small business concerns (as defined under section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
+
+&emsp;"(3) Any projected impacts, as identified by the Commissioner of U.S. Customs and Border Protection, on the total number of commercial and passenger vehicles and freight rail traffic entering at land ports of entry and rail-border crossings where such systems are in use, and average wait times at peak and non-peak travel times, by lane type if applicable, as scanning rates are increased.
+
+&emsp;"(4) Any projected impacts, as identified by the Commissioner of U.S. Customs and Border Protection, on land ports of entry and rail-border crossings border security operations as a result of implementation actions, including any changes to the number of U.S. Customs and Border Protection officers or their duties and assignments.
+
+"(e)
+
+Annual Report.—Not later than 1 year after the submission of the plan under subsection (b), and biennially thereafter for the following 6 years, the Secretary of Homeland Security shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives that describes the progress implementing the plan and includes—
+
+&emsp;"(1) an inventory of large-scale, nonintrusive inspection systems or similar technology operated by U.S. Customs and Border Protection at each land port of entry;
+
+&emsp;"(2) for each system or technology identified in the inventory required under paragraph (1)—
+
+&emsp;&emsp;"(A) the scanning method of such system or technology;
+
+&emsp;&emsp;"(B) the location of such system or technology at each land port of entry that specifies whether in use in pre-primary, primary, or secondary inspection area, or some combination of such areas;
+
+&emsp;&emsp;"(C) the percentage of commercial and passenger vehicles and freight rail traffic scanned by such system or technology; and
+
+&emsp;&emsp;"(D) seizure data directly attributed to scanned commercial and passenger vehicles and freight rail traffic;
+
+&emsp;"(3) the total number of commercial and passenger vehicles and freight rail traffic entering at each land port of entry at which each system or technology is in use, and information on average wait times at peak and non-peak travel times, by lane type if applicable;
+
+&emsp;"(4) a description of the progress towards reaching the benchmarks referred to in subsection (d)(1), and an explanation if any of such benchmarks are not achieved as planned;
+
+&emsp;"(5) a comparison of actual costs (including information on any awards of associated contracts) to estimated costs set forth in subsection (d)(2);
+
+&emsp;"(6) any realized impacts, as identified by the Commissioner of U.S. Customs and Border Protection, on land ports of entry and rail-border crossings operations as a result of implementation actions, including any changes to the number of U.S. Customs and Border Protection officers or their duties and assignments;
+
+&emsp;"(7) any proposed changes to the plan and an explanation for such changes, including changes made in response to any Department of Homeland Security research and development findings or changes in terrorist or transnational criminal organizations tactics, techniques, or procedures; and
+
+&emsp;"(8) any challenges to implementing the plan or meeting the benchmarks, and plans to mitigate any such challenges."
+
+#### DHS Opioid Detection Resilience
+
+Pub. L. 116–254, Dec. 23, 2020, 134 Stat. 1137, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'DHS Opioid Detection Resilience Act of 2019'.
+
+#### "SEC. 2. STRATEGY TO ENSURE DETECTION OF ALL OPIOID PURITY LEVELS AT PORTS OF ENTRY.
+
+"Not later than 180 days after the date of the enactment of this section \[Dec. 23, 2020\], the Commissioner of U.S. Customs and Border Protection (CBP) shall—
+
+&emsp;"(1) implement a strategy to ensure deployed chemical screening devices are able to identify in an operational environment narcotics at purity levels less than or equal to 10 percent, or provide ports of entry with an alternate method for identifying narcotics at lower purity levels; and
+
+&emsp;"(2) require testing of any new chemical screening devices to understand the abilities and limitations of such devices relating to identifying narcotics at various purity levels before CBP commits to the acquisition of such devices.
+
+#### "SEC. 3. PLAN TO ENSURE OPIOID DETECTION EQUIPMENT RESILIENCY.
+
+"Not later than 180 days after the date of the enactment of this section, the Secretary of Homeland Security shall implement a plan for the long-term development of a centralized spectral database for chemical screening devices. Such plan shall address the following:
+
+&emsp;"(1) How newly identified spectra will be collected, stored, and distributed to such devices in their operational environment, including at ports of entry.
+
+&emsp;"(2) Identification of parties responsible for updates and maintenance of such database."
+
+#### Protecting America's Food and Agriculture
+
+Pub. L. 116–122, Mar. 3, 2020, 134 Stat. 143, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Protecting America's Food and Agriculture Act of 2019'.
+
+#### "SEC. 2. FINDING.
+
+"Congress finds that—
+
+&emsp;"(1) it is in the national security interest of the United States to ensure that the Nation's food supply is sufficiently protected; and
+
+&emsp;"(2) a vital part of such protection is the availability of adequate resources at the border to conduct inspections of incoming food and agricultural goods.
+
+#### "SEC. 3. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;&emsp;"(D) the Committee on Agriculture of the House of Representatives.
+
+&emsp;"(2)
+
+CBP.—The term 'CBP' means U.S. Customs and Border Protection.
+
+#### "SEC. 4. ADDITIONAL U.S. CUSTOMS AND BORDER PROTECTION PERSONNEL.
+
+"(a)
+
+CBP Agriculture Specialists.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign 240 new CBP Agriculture Specialists above the current attrition level during every fiscal year until the total number of CBP Agriculture Specialists equals and sustains the requirements identified each year in the Agriculture Resource Allocation Model.
+
+"(b)
+
+Mission and Operational Support Staff.—
+
+&emsp;"(1)
+
+In general.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign support staff to support CBP Agriculture Specialists.
+
+&emsp;"(2)
+
+CBP agriculture technicians.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign 200 new CBP Agriculture Technicians during each fiscal year until the total number of CBP Agriculture Technicians equals and sustains the requirements identified each year in the Mission and Operational Support Resource Allocation Model.
+
+"(c)
+
+CBP Agriculture Canine Teams.—The Commissioner of U.S. Customs and Border Protection may hire, train, and assign 20 new CBP agriculture canine teams during each of the first 3 fiscal years beginning after the date of the enactment of this Act \[Mar. 3, 2020\].
+
+"(d)
+
+Traffic Forecasts.—In calculating the number of CBP Agriculture Specialists needed at each port ofentry through the Agriculture Resource Allocation Model, the Office of Field Operations shall—
+
+&emsp;"(1) rely on data collected regarding the inspections and other activities conducted at each such port of entry; and
+
+&emsp;"(2) consider volume from seasonal surges, other projected changes in commercial and passenger volumes, the most current commercial forecasts, and other relevant information.
+
+"(e)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+CBP agriculture specialists.—There is authorized to be appropriated to carry out subsection (a)—
+
+&emsp;&emsp;"(A) $29,900,000 for fiscal year 2020;
+
+&emsp;&emsp;"(B) $36,100,000 for fiscal year 2021; and
+
+&emsp;&emsp;"(C) $40,500,000 for fiscal year 2022.
+
+&emsp;"(2)
+
+CBP agriculture technicians.—There is authorized to be appropriated to carry out subsection (b)—
+
+&emsp;&emsp;"(A) $11,000,000 for fiscal year 2020;
+
+&emsp;&emsp;"(B) $25,000,000 for fiscal year 2021; and
+
+&emsp;&emsp;"(C) $38,000,000 for fiscal year 2022.
+
+&emsp;"(3)
+
+CBP agriculture canine teams.—There is authorized to be appropriated to carry out subsection (c)—
+
+&emsp;&emsp;"(A) $3,500,000 for fiscal year 2020;
+
+&emsp;&emsp;"(B) $7,400,000 for fiscal year 2021; and
+
+&emsp;&emsp;"(C) $12,200,000 for fiscal year 2022.
+
+&emsp;"(4)
+
+Training.—There is authorized to be appropriated for training costs associated with the new CBP personnel and canine teams hired pursuant to subsections (a), (b), and (c) $6,000,000 for each of the fiscal years 2020, 2021, and 2022.
+
+#### "SEC. 5. GAO STUDY, BRIEFING, AND REPORT.
+
+"(a)
+
+Study.—The Comptroller General of the United States, after consultation with the appropriate congressional committees, shall conduct a review of the efforts of the Department of Homeland Security, the Department of Agriculture, and other Federal agencies to address risks to the agricultural supply that analyzes—
+
+&emsp;"(1) interagency coordination and the distribution of responsibilities among Federal agencies with respect to the inspection of agricultural commodities entering the United States;
+
+&emsp;"(2) the effectiveness of such inspection responsibilities among Federal agencies; and
+
+&emsp;"(3) the training provided to, and working conditions of, CBP Agriculture Specialists.
+
+"(b)
+
+Briefing.—Not later than 1 year after the date of the enactment of this Act \[Mar. 3, 2020\], the Comptroller General shall brief the appropriate congressional committees regarding the results of the study conducted pursuant to subsection (a).
+
+"(c)
+
+Report.—Not later than 90 days after the briefing required under subsection (b), the Comptroller General shall complete the study required under subsection (a) and make the results of the study available to the public."
+
 #### Use of Funds To Continue Detention Services Contracts
 
-Pub. L. 116–93, div. D, title II, §215, Dec. 20, 2019, 133 Stat. 2513, provided that:
+Pub. L. 116–260, div. F, title II, §215, Dec. 27, 2020, 134 Stat. 1457, provided that:
 
 "(a) None of the funds provided under the heading 'U.S. Immigration and Customs Enforcement—Operations and Support' may be used to continue any contract for the provision of detention services if the two most recent overall performance evaluations received by the contracted facility are less than 'adequate' or the equivalent median score in any subsequent performance evaluation system.
 
 "(b) Beginning not later than January 1, 2021, the performance evaluations referenced in subsection (a) shall be conducted by the U.S. Immigration and Customs Enforcement Office of Professional Responsibility."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–93, div. D, title II, §215, Dec. 20, 2019, 133 Stat. 2513.
 
 #### Ports of Entry Threat and Operational Review
 
@@ -660,7 +908,7 @@ Pub. L. 114–68, Oct. 16, 2015, 129 Stat. 555, provided that:
 
 &emsp;"(3) An estimated 250,000 to 300,000 members of the Armed Forces separate from military service every year.
 
-&emsp;"(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individualsseparating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
+&emsp;"(4) Recruiting efforts and expedited hiring procedures must be enhanced to ensure that individuals separating from military service are aware of, and partake in, opportunities to fill vacant Customs and Border Protection officer positions.
 
 #### "SEC. 3. EXPEDITED HIRING OF APPROPRIATE SEPARATING SERVICE MEMBERS.
 

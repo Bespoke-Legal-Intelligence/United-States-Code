@@ -12,13 +12,13 @@
 
 #### (2) Special rule
 
-&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result ofapplying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
+&emsp;For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
 
 #### (b) Grants for local educational agencies, the District of Columbia, and the Commonwealth of Puerto Rico
 
 #### (1) In general
 
-&emsp;The amount of the grant that a local educational agency in a State (other than the Commonwealth of Puerto Rico) is eligible to receive under this section for any fiscal year shall be the product of—
+&emsp;The amount of the grant that a local educational agency in a State (other than theCommonwealth of Puerto Rico) is eligible to receive under this section for any fiscal year shall be the product of—
 
 &emsp;&emsp;(A) the weighted child count determined under subsection (c); and
 
@@ -108,7 +108,7 @@
 
 #### (d) Calculation of grant amounts
 
-Grant amounts under this section shall be calculated in the same manner as grant amounts are calculated under section 6333(a)(2) and (3) of this title.
+Grant amounts under this section shall be calculated in the same manner as grant amountsare calculated under section 6333(a)(2) and (3) of this title.
 
 #### (e) State minimum
 

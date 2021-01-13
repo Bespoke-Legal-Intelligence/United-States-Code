@@ -1,12 +1,12 @@
 ### §1204. Operation of State plans
 
-In the case of any State plan for aid to the blind which has been approved by the Secretary of Health and Human Services, if the Secretary, after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of such plan, finds—
+In the case of any State plan for aid to the blind which has been approved by the Secretaryof Health and Human Services, if the Secretary, after reasonable notice and opportunity for hearing to the State agency administering or supervising the administration of such plan, finds—
 
 &emsp;(1) that the plan has been so changed as to impose any residence or citizenship requirement prohibited by section 1202(b) of this title, or that in the administration of the plan any such prohibited requirement is imposed, with the knowledge of such State agency, in a substantial number of cases; or
 
 &emsp;(2) that in the administration of the plan there is a failure to comply substantially with any provision required by section 1202(a) of this title to be included in the plan;
 
-> the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until the Secretary is satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply.Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
+> the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until the Secretary is satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
 
 (Aug. 14, 1935, ch. 531, title X, §1004, 49 Stat. 646; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 90–248, title II, §245, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

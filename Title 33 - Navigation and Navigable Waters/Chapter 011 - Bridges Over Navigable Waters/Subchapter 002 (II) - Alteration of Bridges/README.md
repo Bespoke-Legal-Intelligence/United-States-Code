@@ -16,6 +16,6 @@
 - [&sect; 00519 - Noncompliance with orders; penalties; removal of bridge](%C2%A7%2000519%20-%20Noncompliance%20with%20orders%3B%20penalties%3B%20removal%20of%20bridge.md)
 - [&sect; 00520 - Review of findings and orders](%C2%A7%2000520%20-%20Review%20of%20findings%20and%20orders.md)
 - [&sect; 00521 - Regulations and orders](%C2%A7%2000521%20-%20Regulations%20and%20orders.md)
-- [&sect; 00522 - Existing provisions of law](%C2%A7%2000522%20-%20Existing%20provisions%20of%20law.md)
+- [&sect; 00522 - Repealed. Pub. L. 116&#8211;283, div. G, title LVXXXV \[LXXXV\], &sect;8507(b), Jan. 1, 2021, 134 Stat. 4754](%C2%A7%2000522%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20G%2C%20title%20LVXXXV%20%5BLXXXV%5D%2C%20%C2%A78507%28b%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204754.md)
 - [&sect; 00523 - Relocation of bridges](%C2%A7%2000523%20-%20Relocation%20of%20bridges.md)
 - [&sect; 00524 - Applicability of administrative procedure provisions](%C2%A7%2000524%20-%20Applicability%20of%20administrative%20procedure%20provisions.md)

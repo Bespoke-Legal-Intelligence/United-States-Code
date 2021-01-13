@@ -30,9 +30,13 @@ The term "appropriate congressional committees" means the Committee on the Judic
 
 (Pub. L. 105–277, div. I, title III, §309, Oct. 21, 1998, 112 Stat. 2681–879.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

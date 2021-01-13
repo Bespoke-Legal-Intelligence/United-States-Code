@@ -78,7 +78,7 @@ Subsec. (e)(1). Pub. L. 116–92, §3139(b)(5)(B), substituted "or a member of t
 
 Subsec. (e)(1). Pub. L. 113–291, §3142(e)(2), substituted "a representative" for "representatives" in introductory provisions.
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–66, §3146(c)(10)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §3146(c)(10)(A), (B), redesignated subsec. (b) as (a) and struck out formersubsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
 
 Subsec. (a)(9). Pub. L. 112–239, §3164(b)(1), (3), substituted "national security laboratories" for "nuclear weapons laboratories" and "nuclear weapons production facilities" for "nuclear weapons production plants".
 

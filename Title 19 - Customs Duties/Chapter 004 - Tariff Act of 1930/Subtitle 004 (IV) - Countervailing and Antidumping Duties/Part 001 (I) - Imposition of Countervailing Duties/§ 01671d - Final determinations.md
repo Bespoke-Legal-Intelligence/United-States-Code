@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries,the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+&emsp;Within 75 days after the date of the preliminary determination under section 1671b(b) of this title, the administering authority shall make a final determination of whether or not a countervailable subsidy is being provided with respect to the subject merchandise; except that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 #### (2) Critical circumstances determinations
 
@@ -86,7 +86,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated individual countervailable subsidy rate, the estimated all-others rate, or the estimated country-wide subsidy rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1671b(b) of this title was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of section 1671b(d) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authorityunder section 1671b(b) of this title was negative, the administering authority shall order the suspension of liquidation under paragraph (2) of section 1671b(d) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 

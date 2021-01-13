@@ -61,6 +61,7 @@
 | [216\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000216%20-%20Proceedings%20to%20enforce%20orders%3B%20injunction.md) | Proceedings to enforce orders; injunction. |
 | [217\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000217%20-%20Proceedings%20for%20suspension%20of%20orders.md) | Proceedings for suspension of orders. |
 | [217a.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000217a%20-%20Fees%20for%20inspection%20of%20brands%20or%20marks.md) | Fees for inspection of brands or marks. |
+| [217b.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000217b%20-%20Statutory%20trust%20established%3B%20dealer.md) | Statutory trust established; dealer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

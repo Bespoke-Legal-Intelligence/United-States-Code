@@ -4,7 +4,7 @@
 
 (1) Each regulated person who engages in a regulated transaction involving a listed chemical, a tableting machine, or an encapsulating machine shall keep a record of the transaction for two years after the date of the transaction.
 
-(2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of thequantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
+(2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of the quantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
 
 (3) It is the duty of each regulated person who engages in a regulated transaction to identify each other party to the transaction. It is the duty of such other party to present proof of identity to the regulated person. The Attorney General shall specify by regulation the types of documents and other evidence that constitute proof of identity for purposes of this paragraph.
 
@@ -12,7 +12,7 @@
 
 (1) Each regulated person shall report to the Attorney General, in such form and manner as the Attorney General shall prescribe by regulation—
 
-&emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listed chemical will be used in violation of this subchapter;
+&emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listedchemical will be used in violation of this subchapter;
 
 &emsp;(B) any proposed regulated transaction with a person whose description or other identifying characteristic the Attorney General furnishes in advance to the regulated person;
 
@@ -118,7 +118,7 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) signs the written logbook and enters in the logbook his or her name, address, and the date and time of the sale, or for transactions involving an electronic logbook, the purchaser provides a signature using one of the following means:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature tothe other electronically-captured logbook information relating to the prospective purchaser providing that signature.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) Signing a device presented by the seller that captures signatures in an electronic format. Such device shall display the notice described in clause (v). Any device used shall preserve each signature in a manner that clearly links that signature to the other electronically-captured logbook information relating to the prospective purchaser providing that signature.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) Signing a bound paper book. Such bound paper book shall include, for such purchaser, either (aaa) a printed sticker affixed to the bound paper book at the time of sale which either displays the name of each product sold, the quantity sold, the name and address of the purchaser, and the date and time of the sale, or a unique identifier which can be linked to that electronic information, or (bbb) a unique identifier which can be linked to that information and which is written into the book by the seller at the time of sale. The purchaser shall sign adjacent to the printed sticker or written unique identifier related to that sale. Such bound paper book shall display the notice described in clause (v).
 
@@ -226,9 +226,11 @@ With respect to ephedrine base, pseudoephedrine base, or phenylpropanolamine bas
 
 (Pub. L. 91–513, title II, §310, as added Pub. L. 95–633, title II, §202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, §6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, §208, title IV, §402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, §3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, §2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§2, 3, Oct. 12, 2010, 124 Stat. 2847.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification ofthis Act to the Code, see section 301 of this title and Tables.
 
 This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
@@ -273,6 +275,8 @@ Subsec. (b). Pub. L. 103–200, §10, designated existing provisions as par. (1)
 Subsec. (c)(2)(D). Pub. L. 103–200, §2(c)(2), substituted "chemical control laws" for "precursor chemical laws".
 
 <b>1988</b>—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

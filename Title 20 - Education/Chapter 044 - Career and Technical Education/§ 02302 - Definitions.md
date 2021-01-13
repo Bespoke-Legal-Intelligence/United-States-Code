@@ -146,7 +146,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(iv) An Indian Tribe, Tribal organization, or Tribal educational agency.
 
-&emsp;&emsp;&emsp;(v) An institution of higher education whose most common degree awarded is an associate degree, or a consortium of such institutions.
+&emsp;&emsp;&emsp;(v) An institution of higher education whose most common degree awarded is anassociate degree, or a consortium of such institutions.
 
 &emsp;&emsp;&emsp;(vi) An institution of higher education whose most common degree awarded is a bachelor's or higher degree, or a consortium of such institutions.
 
@@ -292,7 +292,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;Subject to subparagraph (B), the term "pay for success initiative" means a performance-based grant, contract, or cooperative agreement awarded by a State or local public entity (such as a local educational agency) to a public or private nonprofit entity—
 
-&emsp;&emsp;&emsp;(i) in which a commitment is made to pay for improved outcomes that result in increased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and directcost savings or cost avoidance to the public sector; and
+&emsp;&emsp;&emsp;(i) in which a commitment is made to pay for improved outcomes that result in increased public value and social benefit to students and the public sector, such as improved student outcomes as evidenced by the indicators of performance described in section 2323(b)(2) of this title and direct cost savings or cost avoidance to the public sector; and
 
 &emsp;&emsp;&emsp;(ii) that includes—
 
@@ -362,7 +362,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(xi) include instruction in ways that educators may work more effectively with parents and families;
 
-&emsp;&emsp;&emsp;(xii) provide follow-up training to educators who have participated in activitiesdescribed in this paragraph that are designed to ensure that the knowledge and skills learned by the educators are implemented in the classroom;
+&emsp;&emsp;&emsp;(xii) provide follow-up training to educators who have participated in activities described in this paragraph that are designed to ensure that the knowledge and skills learned by the educators are implemented in the classroom;
 
 &emsp;&emsp;&emsp;(xiii) promote the integration of academic knowledge and skills and relevant technical knowledge and skills, including programming jointly delivered to academic and career and technical education teachers; or
 
@@ -498,7 +498,7 @@ The Social Security Act, referred to in par. (36)(B)(i)(II), is act Aug. 14, 193
 
 The Individuals with Disabilities Education Act, referred to in par. (38)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355,which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in par. (38)(B)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -528,7 +528,7 @@ Par. (5)(B). Pub. L. 115–224, §7(5)(B), inserted ", work-based, or other" af
 
 Par. (5)(C), (D). Pub. L. 115–224, §7(5)(A)(iii), (C), added subpars. (C) and (D).
 
-Par. (7)(A). Pub. L. 115–224, §7(6)(A), substituted "(and, as appropriate, parents and out-of-schoolyouth)" for "(and parents, as appropriate" and "future;" for "future; and" and inserted "exploration opportunities" after "regarding career awareness".
+Par. (7)(A). Pub. L. 115–224, §7(6)(A), substituted "(and, as appropriate, parents and out-of-school youth)" for "(and parents, as appropriate" and "future;" for "future; and" and inserted "exploration opportunities" after "regarding career awareness".
 
 Par. (7)(B). Pub. L. 115–224, §7(6)(B), substituted "provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and" for "provides information with respect to career options, financial aid, and postsecondary options, including baccalaureate degree programs."
 

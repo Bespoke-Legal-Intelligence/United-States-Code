@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under this subsection, including education and outreach activities to the general public, industry and academia in support of the Institute's mission.
+The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under thissubsection, including education and outreach activities to the general public, industry and academia in support of the Institute's mission.
 
 #### (b) Hiring
 
@@ -52,7 +52,7 @@ The Director, in coordination with the Director of the Office of Personnel Manag
 
 #### (3) Financial and logistical assistance
 
-&emsp;Notwithstanding section 1345 of title 31 or any other law to the contrary, the Director may include as a form of financial or logisticalassistance under this subsection temporary housing and transportation to and from Institute facilities.
+&emsp;Notwithstanding section 1345 of title 31 or any other law to the contrary, the Director may include as a form of financial or logistical assistance under this subsection temporary housing and transportation to and from Institute facilities.
 
 #### (e) Educational outreach activities
 

@@ -8,11 +8,11 @@
 
 (b) If the Secretary of the Navy determines that—
 
-&emsp;(1) a statement setting forth the act or distinguished service and recommending officialrecognition of it was made by the person's superior through official channels within three years from the date of that act or service and was supported by sufficient evidence within that time; and
+&emsp;(1) a statement setting forth the act or distinguished service and recommending official recognition of it was made by the person's superior through official channels within three years from the date of that act or service and was supported by sufficient evidence within that time; and
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
-> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
+> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia inplace thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 390, §6248; Pub. L. 86–582, §1(2), July 5, 1960, 74 Stat. 320; renumbered §8298 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 

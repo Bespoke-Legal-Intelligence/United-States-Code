@@ -4,7 +4,7 @@
 
 The Secretary may not make payments under section 290cc–21 of this title unless the State involved agrees that, by not later than January 31 of each fiscal year, the State will prepare and submit to the Secretary a report in such form and containing such information as the Secretary determines (after consultation with the Assistant Secretary for Mental Health and Substance Use) to be necessary for—
 
-&emsp;(1) securing a record and a description of the purposes for which amounts received under section 290cc–21 of this title were expendedduring the preceding fiscal year and of the recipients of such amounts; and
+&emsp;(1) securing a record and a description of the purposes for which amounts received under section 290cc–21 of this title were expended during the preceding fiscal year and of the recipients of such amounts; and
 
 &emsp;(2) determining whether such amounts were expended in accordance with the provisions of this part.
 
@@ -20,7 +20,7 @@ The Assistant Secretary for Mental Health and Substance Use shall evaluate at le
 
 #### Amendments
 
-<b>2016</b>—Subsecs. (a), (c). Pub. L. 114–255 substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+<b>2016</b>—Subsecs. (a), (c). Pub. L. 114–255 substituted "Assistant Secretary for Mental Health and SubstanceUse" for "Administrator of the Substance Abuse and Mental Health Services Administration".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–316, §122(c)(1), struck out "the Comptroller General of the United States, and" after "(after consultation with".
 

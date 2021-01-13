@@ -126,7 +126,7 @@ In the case of an organization which is a private foundation (within the meaning
 
 #### (d) Section to apply to nonexempt charitable trusts and nonexempt private foundations
 
-The following organizations shall comply with the requirements of this section in the same manner as organizations described in section 501(c)(3) which are exempt from tax under section 501(a):
+The following organizations shall comply with the requirements of this section in the samemanner as organizations described in section 501(c)(3) which are exempt from tax under section 501(a):
 
 #### (1) Nonexempt charitable trusts
 
@@ -156,7 +156,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Special rule for in-house expenditures
 
-&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whethera taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(4)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
 
 #### (iii) Coordination with section 527(f)
 
@@ -296,7 +296,7 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 #### (3) Retroactive reinstatement if reasonable cause shown for failure
 
-&emsp;If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described in paragraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization's exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
+&emsp;If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described inparagraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization's exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
 
 #### (k) Additional provisions relating to sponsoring organizations
 
@@ -496,7 +496,7 @@ Pub. L. 109–280, title XII, §1235(a)(2), Aug. 17, 2006, 120 Stat. 1101, provi
 
 Pub. L. 109–280, title XII, §1245(c), Aug. 17, 2006, 120 Stat. 1108, provided that: "The amendments made by this section \[amending this section\] shall apply to returns filed for taxable years ending after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
-Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, seesection 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
+Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, see section 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -556,7 +556,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec
 
 For provisions that amendment made by section 401(d)(6)(B)(v) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
 
-For provisions that nothing in amendment by section 401(d)(6)(B)(v) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(d)(6)(B)(v) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credittaken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Secretarial Outreach Requirements
 

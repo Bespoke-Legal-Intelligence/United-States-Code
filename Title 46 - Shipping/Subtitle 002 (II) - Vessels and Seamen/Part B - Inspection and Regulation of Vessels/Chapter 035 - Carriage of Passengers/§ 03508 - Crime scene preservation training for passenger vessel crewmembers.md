@@ -32,6 +32,8 @@ Denial of Entry.—The Secretary may deny entry into the United States to a vess
 
 (Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2250; amended Pub. L. 115–232, div. C, title XXXV, §3543(b), Aug. 13, 2018, 132 Stat. 2324.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232, §3543(b)(1), substituted "The Secretary" for "Within 1 year after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary" and "maintain" for "develop".
@@ -43,6 +45,8 @@ Subsec. (d). Pub. L. 115–232, §3543(b)(3), redesignated subsec. (e) as (d) an
 Subsec. (e). Pub. L. 115–232, §3543(b)(3), (4), redesignated subsec. (f) as (e) and substituted "subsection (d)" for "subsection (e)" in pars. (1) and (2). Former subsec. (e) redesignated (d).
 
 Subsec. (f). Pub. L. 115–232, §3543(b)(3), redesignated subsec. (f) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

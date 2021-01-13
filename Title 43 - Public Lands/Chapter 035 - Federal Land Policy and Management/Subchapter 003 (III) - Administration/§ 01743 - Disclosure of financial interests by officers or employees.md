@@ -32,9 +32,13 @@ Any officer or employee who is subject to, and knowingly violates, this section,
 
 (Pub. L. 94–579, title III, §313, Oct. 21, 1976, 90 Stat. 2768.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

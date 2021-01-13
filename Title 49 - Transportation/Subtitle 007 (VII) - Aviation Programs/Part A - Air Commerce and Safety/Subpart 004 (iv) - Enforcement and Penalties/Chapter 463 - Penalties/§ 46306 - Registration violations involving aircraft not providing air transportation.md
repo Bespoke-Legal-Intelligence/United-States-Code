@@ -46,7 +46,7 @@ Controlled Substance Criminal Penalty.—(1) In this subsection, "controlled sub
 
 &emsp;(B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
 
-(3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
+(3) A term of imprisonment imposed under paragraph (2) of this subsection shall be servedin addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 
 (d)
 
@@ -72,7 +72,7 @@ Seizure and Forfeiture.—(1) The Administrator of Drug Enforcement or the Commi
 
 &emsp;&emsp;(ii) if a certificate required to be issued for the installation or alteration is not carried on the aircraft.
 
-(3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree toa memorandum of understanding to establish procedures to carry out this subsection.
+(3) The Administrator of the Federal Aviation Administration, the Administrator of Drug Enforcement, and the Commissioner shall agree to a memorandum of understanding to establish procedures to carry out this subsection.
 
 (e)
 
@@ -164,7 +164,7 @@ This makes a clarifying amendment to 49:46306(c)(2)(B).
 
 #### Change of Name
 
-"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L.114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 

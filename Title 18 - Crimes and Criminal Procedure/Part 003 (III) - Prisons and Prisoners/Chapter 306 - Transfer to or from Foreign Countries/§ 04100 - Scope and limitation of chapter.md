@@ -10,13 +10,17 @@
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1212; amended Pub. L. 100–690, title VII, §7101(e), Nov. 18, 1988, 102 Stat. 4416.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted ", or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer," after "under eighteen years of age", ", guardian ad litem," after "guardian", and "The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Authorization of Appropriations
 
-Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: "There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]".
+Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: "There is authorized to be appropriated such funds as may be required to carry out the purposesof this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]".
 
 #### Prisoner Transfer Treaties
 

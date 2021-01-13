@@ -26,11 +26,13 @@ Early Transfer of Records.—The Archivist—
 
 &emsp;&emsp;(C) any shorter period agreed to by the originating Federal agency.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, titleI, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285; Pub. L. 113–187, §3(a), Nov. 26, 2014, 128 Stat. 2007.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1287, §2103; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–416, §1(a), Oct. 5, 1978, 92 Stat. 915; renumbered §2107 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(1), Oct. 19, 1984, 98 Stat. 2280, 2285; Pub. L. 113–187, §3(a), Nov. 26, 2014, 128 Stat. 2007.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §397(a) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; and amended July 12, 1952, ch. 703, §1(o), (p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695; July 3, 1956, ch. 513, §4, 70 Stat. 494; June 13, 1957, Pub. L. 85–51, 71 Stat. 69).
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ A prior section 2107 was renumbered section 2111 of this title.
 <b>1978</b>—Par. (2). Pub. L. 95–416 substituted "thirty years" for "fifty years".
 
 <b>1976</b>—Par. (4). Pub. L. 94–575 substituted reference to section "2107" for "3106".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 
@@ -168,7 +172,7 @@ Establishment of the civil rights cold case records collection.—Not later than
 
 &emsp;&emsp;"(B) commence preparing and publishing the subject guidebook and index to the Collection; and
 
-&emsp;&emsp;"(C) establish criteria for Government offices to follow when transmitting copies of civil rights coldcase records to the Archivist, to include required metadata.
+&emsp;&emsp;"(C) establish criteria for Government offices to follow when transmitting copies of civil rights cold case records to the Archivist, to include required metadata.
 
 &emsp;"(2)
 
@@ -248,7 +252,7 @@ Requirements of periodic review.—The periodic review under paragraph (1) shall
 
 &emsp;"(3)
 
-Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
+Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessiblewebsite upon the determination to continue the postponement.
 
 &emsp;"(4)
 
@@ -686,7 +690,7 @@ Contents.—Each report under paragraph (1) shall include the following informat
 
 &emsp;&emsp;"(C) The estimated time and volume of civil rights cold case records involved in the completion of the Review Board's performance under this Act.
 
-&emsp;&emsp;"(D) Any special problems, including requests and the level of cooperation of Government offices, withregard to the ability of the Review Board to operate as required by this Act.
+&emsp;&emsp;"(D) Any special problems, including requests and the level of cooperation of Government offices, with regard to the ability of the Review Board to operate as required by this Act.
 
 &emsp;&emsp;"(E) A record of review activities, including a record of postponement decisions by the Review Board or other related actions authorized by this Act, and a record of the volume of records reviewed and postponed.
 
@@ -806,7 +810,7 @@ Findings and Declarations.—The Congress finds and declares that—
 
 &emsp;"(5) legislation is necessary because the Freedom of Information Act \[5 U.S.C. 552\], as implemented by the executive branch, has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy;
 
-&emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification anddowngrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
+&emsp;"(6) legislation is necessary because \[former\] Executive Order No. 12356, entitled 'National Security Information' has eliminated the declassification and downgrading schedules relating to classified information across government and has prevented the timely public disclosure of records relating to the assassination of President John F. Kennedy; and
 
 &emsp;"(7) most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records.
 
@@ -906,7 +910,7 @@ In General.—(1) Not later than 60 days after the date of enactment of this Act
 
 "(b)
 
-Disclosure of Records.—All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection andcopying at the National Archives within 30 days after their transmission to the National Archives.
+Disclosure of Records.—All assassination records transmitted to the National Archives for disclosure to the public shall be included in the Collection and shall be available to the public for inspection and copying at the National Archives within 30 days after their transmission to the National Archives.
 
 "(c)
 
@@ -974,7 +978,7 @@ Review.—(1) Not later than 300 days after the date of enactment of this Act \[
 
 &emsp;&emsp;"(i) the identification, review, and transmission of all assassination records publicly available or disclosed as of the date of enactment of this Act in a redacted or edited form; and
 
-&emsp;&emsp;"(ii) the identification, review, and transmission, under the standards for postponement set forth in this Act, of assassination records that on the date of enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
+&emsp;&emsp;"(ii) the identification, review, and transmission, under the standards for postponement set forth inthis Act, of assassination records that on the date of enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
 
 &emsp;"(H) make available to the Review Board any additional information and records that the Review Board has reason to believe it requires for conducting a review under this Act.
 
@@ -1060,7 +1064,7 @@ Establishment.—There is established as an independent agency a board to be kno
 
 "(b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint,without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
 
 "(2) The President shall make nominations to the Review Board not later than 90 calendar days after the date of enactment of this Act \[Oct. 26, 1992\].
 
@@ -1088,7 +1092,7 @@ Security Clearances.—(1) All Review Board nominees shall be granted the necess
 
 "(d)
 
-Confirmation Hearings.—(1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shallhold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
+Confirmation Hearings.—(1) The Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate shall hold confirmation hearings within 30 days in which the Senate is in session after the nomination of 3 Review Board members.
 
 "(2) The Committee on Governmental Affairs shall vote on the nominations within 14 days in which the Senate is in session after the confirmation hearings, and shall report its results to the full Senate immediately.
 
@@ -1192,7 +1196,7 @@ Termination and Winding Up.—(1) The Review Board and the terms of its members 
 
 Executive Director.—(1) Not later than 45 days after the initial meeting of the Review Board, the Review Board shall appoint one citizen, without regard to political affiliation, to the position of Executive Director.
 
-"(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who isa distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
+"(2) The person appointed as Executive Director shall be a private citizen of integrity and impartiality who is a distinguished professional and who is not a present employee of any branch of the Government and has had no previous involvement with any official investigation or inquiry relating to the assassination of President John F. Kennedy.
 
 "(3)(A) A candidate for Executive Director shall be granted the necessary security clearances in an accelerated manner subject to the standard procedures for granting such clearances.
 
@@ -1286,7 +1290,7 @@ Determinations of the Review Board.—(1) The Review Board shall direct that all
 
 &emsp;"(B) a statement, based on a review of the proceedings and in conformity with the decisions reflected therein, designating a recommended specified time at which or a specified occurrence following which the material may be appropriately disclosed to the public under this Act.
 
-"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determinationand publish a copy of the determination in the Federal Register within 14 days after the determination is made.
+"(4)(A) Following its review and a determination that an assassination record shall be publicly disclosed in the Collection or postponed for disclosure and held in the protected Collection, the Review Board shall notify the head of the originating body of its determination and publish a copy of the determination in the Federal Register within 14 days after the determination is made.
 
 "(B) Contemporaneous notice shall be made to the President for Review Board determinations regarding executive branch assassination records, and to the oversight committees designated in this Act in the case of legislative branch records. Such notice shall contain a written unclassified justification for public disclosure or postponement of disclosure, including an explanation of the application of any standards contained in section 6.
 
@@ -1409,6 +1413,8 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 \[Postponement of records from full public disclosure under section 5(g)(2)(D) of Pub. L. 102–526, set out above, continued until Oct. 26, 2021, by Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50307; Memorandum of President of the United States, Apr. 26, 2018, 83 F.R. 19157.\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### <b>Executive Documents</b>
 
 #### Classified National Security Information
 

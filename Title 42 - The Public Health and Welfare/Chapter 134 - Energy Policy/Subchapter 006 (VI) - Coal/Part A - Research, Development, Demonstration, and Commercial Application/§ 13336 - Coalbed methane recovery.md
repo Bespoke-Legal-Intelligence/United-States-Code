@@ -2,7 +2,7 @@
 
 #### (a) Study of barriers and environmental and safety aspects
 
-The Secretary, in consultation with the Administrator of the Environmental Protection Agency and the Secretary of the Interior, shall conduct a study of—
+The Secretary, in consultation with the Administrator of the Environmental ProtectionAgency and the Secretary of the Interior, shall conduct a study of—
 
 &emsp;(1) technical, economic, financial, legal, regulatory, institutional, or other barriers to coalbed methane recovery, and of policy options for eliminating such barriers; and
 

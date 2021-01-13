@@ -38,7 +38,7 @@
 
 #### (5) Adoption of best practices in implementing quality programs
 
-&emsp;The Secretary shall disseminate information to States regarding best practices among States with respect to measuring and reporting on the quality of health care for children, and shall facilitate the adoption of such best practices. In developing best practices approaches, the Secretary shall give particular attention to State measurement techniques that ensure the timeliness and accuracy of provider reporting, encourage provider reporting compliance, encourage successful quality improvement strategies, and improve efficiency in data collection using health information technology.
+&emsp;The Secretary shall disseminate information to States regarding best practices amongStates with respect to measuring and reporting on the quality of health care for children, and shall facilitate the adoption of such best practices. In developing best practices approaches, the Secretary shall give particular attention to State measurement techniques that ensure the timeliness and accuracy of provider reporting, encourage provider reporting compliance, encourage successful quality improvement strategies, and improve efficiency in data collection using health information technology.
 
 #### (6) Reports to Congress
 
@@ -120,7 +120,7 @@
 
 &emsp;As part of the program to advance pediatric quality measures, the Secretary shall—
 
-&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new,emerging, and innovative evidence-based measures for children's health care services across the domains of quality described in clauses (i), (ii), and (iii) of subsection (a)(6)(A); and
+&emsp;&emsp;(A) award grants and contracts for the development, testing, and validation of new, emerging, and innovative evidence-based measures for children's health care services across the domains of quality described in clauses (i), (ii), and (iii) of subsection (a)(6)(A); and
 
 &emsp;&emsp;(B) award grants and contracts for—
 
@@ -268,7 +268,7 @@
 
 &emsp;In awarding grants under paragraph (1), the Secretary shall give priority to awarding grants to eligible entities—
 
-&emsp;&emsp;(A) that demonstrate that they have previously applied successfully for funds to carry out activities that seek to promote individual and community health and to prevent the incidence of chronic disease andthat can cite published and peer-reviewed research demonstrating that the activities that the entities propose to carry out with funds made available under the grant are effective;
+&emsp;&emsp;(A) that demonstrate that they have previously applied successfully for funds to carry out activities that seek to promote individual and community health and to prevent the incidence of chronic disease and that can cite published and peer-reviewed research demonstrating that the activities that the entities propose to carry out with funds made available under the grant are effective;
 
 &emsp;&emsp;(B) that will carry out programs or activities that seek to accomplish a goal or goals set by the State in the Healthy People 2010 plan of the State;
 
@@ -432,7 +432,7 @@ Subsec. (c)(1)(A). Pub. L. 115–123, §50102(b)(2), inserted "and, beginning wi
 
 Subsec. (e)(8). Pub. L. 115–120, §3003(a), substituted ", $10,000,000" for "and $10,000,000" and inserted ", and $30,000,000 for the period of fiscal years 2018 through 2023" after "2017".
 
-Subsec. (i). Pub. L. 115–120, §3003(b), restructured existing text into par. (1), including subpars. (A) and (B),and par. (2), inserted par. headings, and added par. (1)(C).
+Subsec. (i). Pub. L. 115–120, §3003(b), restructured existing text into par. (1), including subpars. (A) and (B), and par. (2), inserted par. headings, and added par. (1)(C).
 
 Subsec. (i)(1)(D). Pub. L. 115–123, §50102(a), added subpar. (D).
 

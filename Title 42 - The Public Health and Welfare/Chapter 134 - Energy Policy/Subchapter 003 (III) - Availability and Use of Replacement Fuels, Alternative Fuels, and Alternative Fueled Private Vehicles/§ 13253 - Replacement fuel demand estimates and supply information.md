@@ -28,7 +28,7 @@ Beginning on October 1, 1994, the Secretary shall annually require—
 
 &emsp;&emsp;(B) plans to make available for the following calendar year; and
 
-&emsp;(3) such fuel suppliers to provide the Secretary information necessary to determine the greenhouse gas emissions from the replacement fuels used, taking into account the entire fuel cycle.
+&emsp;(3) such fuel suppliers to provide the Secretary information necessary to determine thegreenhouse gas emissions from the replacement fuels used, taking into account the entire fuel cycle.
 
 #### (c) Protection of information
 

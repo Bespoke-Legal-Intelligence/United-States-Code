@@ -6,7 +6,9 @@ In order to assist the Broadcasting Board of Governors in carrying out the provi
 
 #### Repeal of Section
 
-<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3)</i><i>of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -15,6 +17,8 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–277 substituted "Broadcasting Board of Governors" for "United States Information Agency" and "the Board" for "the Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

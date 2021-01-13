@@ -32,7 +32,7 @@ There is established within the Office of Science and Technology Policy an inter
 
 #### (b) Purpose and functions
 
-The purpose of the coordinating group is to increase the overall effectiveness and productivity of Federal aquaculture research, transfer, and assistance programs. In fulfilling this purpose the coordinating group shall—
+The purpose of the coordinating group is to increase the overall effectiveness and productivityof Federal aquaculture research, transfer, and assistance programs. In fulfilling this purpose the coordinating group shall—
 
 &emsp;(1) review the national needs for aquaculture research, transfer, and assistance;
 

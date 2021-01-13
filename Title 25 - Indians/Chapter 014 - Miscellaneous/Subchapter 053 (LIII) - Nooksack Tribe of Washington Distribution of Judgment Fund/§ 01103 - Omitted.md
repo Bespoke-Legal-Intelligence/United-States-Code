@@ -1,5 +1,7 @@
 ### §1103. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 89–656, §3, Oct. 14, 1966, 80 Stat. 906, which related to distribution of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.

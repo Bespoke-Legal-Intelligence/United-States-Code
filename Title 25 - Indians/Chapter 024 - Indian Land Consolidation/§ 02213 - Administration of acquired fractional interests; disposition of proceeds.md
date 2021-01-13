@@ -54,6 +54,8 @@ Subject to the conditions described in subsection (b)(1), an Indian tribe receiv
 
 (Pub. L. 97–459, title II, §214, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2000; amended Pub. L. 108–374, §6(a)(6), Oct. 27, 2004, 118 Stat. 1801.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2215 of this title, referred to in the original in subsec. (b)(4), probably should have been "section 216", meaning section 216 of Pub. L. 97–459, which is classified to section 2215 of this title and relates to the establishment of an Acquisition Fund. Pub. L. 97–459 does not contain a section 2215.

@@ -28,6 +28,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.

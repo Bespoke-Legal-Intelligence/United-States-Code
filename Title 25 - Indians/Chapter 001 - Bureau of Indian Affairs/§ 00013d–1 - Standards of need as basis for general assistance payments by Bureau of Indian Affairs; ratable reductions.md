@@ -4,11 +4,13 @@ General assistance payments made by the Bureau of Indian Affairs shall be made�
 
 &emsp;(1) after April 29, 1985, and before October 1, 1995, on the basis of Aid to Families with Dependent Children (AFDC) standards of need; and
 
-&emsp;(2) on and after October 1, 1995, on the basis of standards of need established under the State program funded under part A of title IVof the Social Security Act \[42 U.S.C. 601 et seq.\],
+&emsp;(2) on and after October 1, 1995, on the basis of standards of need established under the State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\],
 
 > except that where a State ratably reduces its AFDC or State program payments, the Bureau shall reduce general assistance payments in such State by the same percentage as the State has reduced the AFDC or State program payment.
 
 (Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 338; Pub. L. 104–193, title I, §110(k), Aug. 22, 1996, 110 Stat. 2172.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531,
 <b>1996</b>—Pub. L. 104–193, §110(k), which directed the general amendment of the "4th proviso of chapter VII of title I of Public Law 99–88 (25 U.S.C. 13d–1)", was executed by amending this section, which is the 4th proviso under heading "
 
 Bureau of Indian Affairs" of chapter VII of title I of Pub. L. 99–88, to reflect the probable intent of Congress. Prior to amendment, this section read as follows: "General assistance payments made by the Bureau of Indian Affairs after April 29, 1985, shall be made on the basis of Aid to Families with Dependent Children (AFDC) standards of need except where a State ratably reduces AFDC payments in which event the Bureau shall reduce general assistance payments in such State by the same percentage as the State has reduced the AFDC payment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

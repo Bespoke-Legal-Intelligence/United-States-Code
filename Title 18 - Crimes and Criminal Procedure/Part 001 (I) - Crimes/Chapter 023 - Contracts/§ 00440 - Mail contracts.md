@@ -12,11 +12,15 @@ Provision for dismissal from office was omitted since this might be handled bett
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "fined under this title" for "fined not more than $10,000", was executed by making the substitution for "fined not more than $5,000", to reflect the probable intent of Congress.
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department" before ", shall be fined".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

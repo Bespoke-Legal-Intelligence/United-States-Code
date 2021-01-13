@@ -112,7 +112,7 @@ Revised Budget Structure for Fiscal Year 2009.—The budget justification materi
 
 "(c)
 
-Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization ofappropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
+Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
 
 &emsp;"(1) may be used for the fielding of ballistic missile defense capabilities approved previously by Congress; and
 
@@ -120,7 +120,7 @@ Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secret
 
 &emsp;&emsp;"(A) military construction activities; or
 
-&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High AltitudeArea Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
 
 "(d)
 

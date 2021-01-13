@@ -62,7 +62,7 @@
 
 &emsp;The State election system shall include provisions to ensure that voter registration records in the State are accurate and are updated regularly, including the following:
 
-&emsp;&emsp;(A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.) \[now 52 U.S.C. 20501 et seq.\], registrants who have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
+&emsp;&emsp;(A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.) \[now 52 U.S.C. 20501 et seq.\], registrantswho have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
 
 &emsp;&emsp;(B) Safeguards to ensure that eligible voters are not removed in error from the official list of eligible voters.
 
@@ -94,7 +94,7 @@
 
 #### (ii) Agreements with Commissioner of Social Security
 
-&emsp;&emsp;&emsp;The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) of title 42 (as added by subparagraph (C)).
+&emsp;&emsp;&emsp;The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) <sup>1</sup> of title 42 (as added by subparagraph (C)).
 
 #### (C) Omitted
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;The mail voter registration form developed under section 6 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–4) \[now 52 U.S.C. 20505\] shall include the following:
 
-&emsp;&emsp;&emsp;(i) The question "Are you a citizen of the United States of America?" and boxes forthe applicant to check to indicate whether the applicant is or is not a citizen of the United States.
+&emsp;&emsp;&emsp;(i) The question "Are you a citizen of the United States of America?" and boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
 
 &emsp;&emsp;&emsp;(ii) The question "Will you be 18 years of age on or before election day?" and boxes for the applicant to check to indicate whether or not the applicant will be 18 years of age or older on election day.
 
@@ -218,9 +218,13 @@ The last 4 digits of a social security number described in subsections (a)(5)(A)
 
 (Pub. L. 107–252, title III, §303, Oct. 29, 2002, 116 Stat. 1708.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Voter Registration Act of 1993, referred to in subsecs. (a)(2)(A)(i), (4)(A) and (b)(5), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to chapter 205 (§20501 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+Par. (8) of section 405(r) of title 42, referred to in subsec. (a)(5)(B)(ii), was redesignated par. (9) of section 405(r) by Pub. L. 116–260, div. FF, title VIII, §801(a)(4), Dec. 27, 2020, 134 Stat. 3202.
 
 Section 7 of the Privacy Act of 1974, referred to in subsecs. (a)(5)(D) and (c), is section 7 of Pub. L. 93–579, which is set out as a note under section 552a of Title 5, Government Organization and Employees.
 
@@ -231,4 +235,6 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. 
 Section was formerly classified to section 15483 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Section is comprised of section 303 of Pub. L. 107–252. Subsec. (a)(5)(C) of section 303 of Pub. L. 107–252 amended section 405 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

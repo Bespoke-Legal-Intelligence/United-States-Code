@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (6) Judicial officer
 
-&emsp;The term "judicial officer" means the Chief Justice of the United States, the Associate Justices of the Supreme Court, and the judges of the United States courts of appeals, United States district courts, including the district courts in Guam, the Northern Mariana Islands, and the Virgin Islands, Court of Appeals for the Federal Circuit, Court of International Trade, Tax Court, Court of Federal Claims, Court of Appeals for Veterans Claims, United States Court of Appeals for the Armed Forces, and any court created by Act of Congress, the judges of which are entitled to hold office during good behavior.
+&emsp;The term "judicial officer" means the Chief Justice of the United States, the Associate Justices of the Supreme Court, and the judgesof the United States courts of appeals, United States district courts, including the district courts in Guam, the Northern Mariana Islands, and the Virgin Islands, Court of Appeals for the Federal Circuit, Court of International Trade, Tax Court, Court of Federal Claims, Court of Appeals for Veterans Claims, United States Court of Appeals for the Armed Forces, and any court created by Act of Congress, the judges of which are entitled to hold office during good behavior.
 
 #### (c) Basis adjustments
 

@@ -52,6 +52,8 @@ The President shall—
 
 (Pub. L. 102–538, title I, §114, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 384; amended Pub. L. 105–33, title III, §3002(d)(2), Aug. 5, 1997, 111 Stat. 264.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted "subsection (a), (d)(1), or (f)" for "subsection (a) or (d)(1)".

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), not later than 1 year after the date on which the Secretary of the Navy promulgates a new rule, policy, or memorandum pursuant to section 704 of title 10, United States Code, with respect to leave associated with the birth or adoption of a child, the Secretary of the department in which the Coast Guard is operating shall promulgate a similar rule, policy, or memorandum that provides leave to officers and enlisted members of the Coast Guard that is equal in duration and compensation to that provided by the Secretary of the Navy.
+In General.—Except as provided in subsection (b), not later than 1 year after the date on which the Secretary of the Navy promulgates a new rule, policy, or memorandum pursuant to section 704 of title 10, United States Code, withrespect to leave associated with the birth or adoption of a child, the Secretary of the department in which the Coast Guard is operating shall promulgate a similar rule, policy, or memorandum that provides leave to officers and enlisted members of the Coast Guard that is equal in duration and compensation to that provided by the Secretary of the Navy.
 
 (b)
 
@@ -14,13 +14,17 @@ Leave Associated With Birth or Adoption of Child.—Notwithstanding subsection (
 
 (Added Pub. L. 114–120, title II, §222(a), Feb. 8, 2016, 130 Stat. 49, §431; renumbered §2512 and amended Pub. L. 115–282, title I, §114(b), title III, §315(a), Dec. 4, 2018, 132 Stat. 4223, 4250.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §315(a), designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b), not later than 1 year" for "Not later than 1 year", and added subsec. (b).
 
 Pub. L. 115–282, §114(b), renumbered section 431 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Flexible Work Schedules
 
-Pub. L. 115–282, title III, §315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: "Not later than 180 days after thedate of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard."
+Pub. L. 115–282, title III, §315(b), Dec. 4, 2018, 132 Stat. 4250, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2018\], the Secretary of the department in which the Coast Guard is operating shall ensure that a flexible work schedule program under chapter 61 of title 5, United States Code, is in place for officers and enlisted members of the Coast Guard."
 

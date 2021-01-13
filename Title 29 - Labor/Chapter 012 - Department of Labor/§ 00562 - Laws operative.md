@@ -1,8 +1,10 @@
 ### §562. Laws operative
 
-All laws prescribing the work and defining the duties of the several bureaus, offices, departments, or branches of the public service by this Act transferred to and made a part of the Department of Labor shall, so far as the same are not in conflict with the provisions of this Act,remain in full force and effect, to be executed under the direction of the Secretary of Labor.
+All laws prescribing the work and defining the duties of the several bureaus, offices, departments, or branches of the public service by this Act transferred to and made a part of the Department of Labor shall, so far as the same are not in conflict with the provisions of this Act, remain in full force and effect, to be executed under the direction of the Secretary of Labor.
 
 (Mar. 4, 1913, ch. 141, §6, 37 Stat. 738.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as am
 #### Codification
 
 Section was formerly classified to section 622 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

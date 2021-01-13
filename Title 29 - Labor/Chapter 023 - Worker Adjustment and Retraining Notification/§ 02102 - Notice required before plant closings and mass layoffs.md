@@ -22,7 +22,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 #### (c) Extension of layoff period
 
-A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 months or less, shall be treated as an employment loss under this chapter unless—
+A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 monthsor less, shall be treated as an employment loss under this chapter unless—
 
 &emsp;(1) the extension beyond 6 months is caused by business circumstances (including unforeseeable changes in price or cost) not reasonably foreseeable at the time of the initial layoff; and
 
@@ -34,6 +34,8 @@ For purposes of this section, in determining whether a plant closing or mass lay
 
 (Pub. L. 100–379, §3, Aug. 4, 1988, 102 Stat. 891; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(26), (f)(18)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 113–128, title V, §512(kk), July 22, 2014, 128 Stat. 1722.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–128 substituted "the State or entity designated by the State to carry out rapid response activities under section 3174(a)(2)(A) of this title," for "the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title,".
@@ -42,13 +44,15 @@ For purposes of this section, in determining whether a plant closing or mass lay
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(26)\], substituted "to the State dislocated worker unit or office (referred to in section 1661(b)(2) of this title), or the State or entity designated by the State to carry out rapid response activities under section 2864(a)(2)(A) of this title, and the chief" for "to the State dislocated worker unit (designated or created under title III of the Job Training Partnership Act) and the chief".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(26)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(18)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(26)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(18)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

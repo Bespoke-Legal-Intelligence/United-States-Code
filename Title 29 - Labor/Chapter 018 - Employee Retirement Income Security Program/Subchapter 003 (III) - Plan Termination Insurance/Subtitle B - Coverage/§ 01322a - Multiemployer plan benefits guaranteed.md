@@ -22,7 +22,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 &emsp;&emsp;(ii) the effective date of the benefit or benefit increase;
 
-&emsp;(B) the period of time for which a benefit or a benefit increase has been in effect under asuccessor plan includes the period of time for which the benefit or benefit increase was in effect under a previously established plan; and
+&emsp;(B) the period of time for which a benefit or a benefit increase has been in effect under a successor plan includes the period of time for which the benefit or benefit increase was in effect under a previously established plan; and
 
 &emsp;(C) in the case of a plan to which section 1321 of this title did not apply on September 3, 1974, the time periods referred to in this section are computed beginning on the date on which section 1321 of this title first applies to the plan.
 
@@ -96,7 +96,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 (B) The revised schedule of increased premiums referred to in subparagraph (A)(ii) or (A)(iii) shall go into effect as approved by the enactment of a joint resolution.
 
-(C) If an increase in premiums is not so enacted, the revised guarantee schedule describedin subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
+(C) If an increase in premiums is not so enacted, the revised guarantee schedule described in subparagraph (A)(i) shall go into effect on the first day of the second calendar year following the year in which such revised guarantee schedule was submitted to the Congress.
 
 (3)(A) If the last report described in paragraph (1) indicates that basic-benefit guarantees for multiemployer plans can be increased without increasing the basic-benefit premiums for multiemployer plans under this subchapter, the corporation shall submit to the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives and to the Committee on Finance and the Committee on Labor and Human Resources of the Senate by March 31 of the calendar year in which congressional action under this paragraph is requested—
 
@@ -104,7 +104,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(ii) a revised schedule of basic-benefit premiums sufficient to support the existing basic-benefit guarantees.
 
-(B) The revised schedules referred to in subparagraph (A)(i) or subparagraph (A)(ii) shall go into effect as approved by the enactment of a joint resolution.
+(B) The revised schedules referred to in subparagraph (A)(i) or subparagraph (A)(ii) shall gointo effect as approved by the enactment of a joint resolution.
 
 (4)(A) The succeeding subparagraphs of this paragraph are enacted by the Congress as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they shall be deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of joint resolutions (as defined in subparagraph (B)). Such subparagraphs shall supersede other rules only to the extent that they are inconsistent therewith. They are enacted with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any rule of that House.
 
@@ -134,7 +134,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(ii) a joint resolution described in subparagraph (B) is not enacted before the close of the 60th legislative day after such schedule is submitted to the Congress.
 
-(B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is ajoint resolution the matter after the resolving clause of which is as follows: "The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.", the blank space therein being filled with the date on which the revised schedule was submitted.
+(B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is a joint resolution the matter after the resolving clause of which is as follows: "The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.", the blank space therein being filled with the date on which the revised schedule was submitted.
 
 (C) For purposes of subparagraph (A), the term "legislative day" means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
@@ -144,7 +144,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 #### (h) Applicability to nonforfeitable benefits accrued as of July 30, 1980; manner and extent of guarantee
 
-(1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
+(1) Except as provided in paragraph (3), subsections (b) and (c) shall not apply with respectto the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
 &emsp;(1) <sup>2</sup> who is in pay status on July 29, 1980, or
 
@@ -159,6 +159,8 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 &emsp;(B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
 (Pub. L. 93–406, title IV, §4022A, as added Pub. L. 96–364, title I, §102, Sept. 26, 1980, 94 Stat. 1210; amended Pub. L. 99–272, title XI, §11005(c)(4)–(12), Apr. 7, 1986, 100 Stat. 242; Pub. L. 101–239, title VII, §§7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2445, 2447, 2451; Pub. L. 106–554, §1(a)(6) \[title IX, §951(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586; Pub. L. 113–235, div. O, title I, §110(a), Dec. 16, 2014, 128 Stat. 2792.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -202,6 +204,8 @@ Subsec. (g)(4)(B). Pub. L. 99–272, §11005(c)(11), substituted "joint" for "co
 
 Subsec. (g)(4)(D). Pub. L. 99–272, §11005(c)(12), substituted "joint" for "concurrent".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -212,7 +216,7 @@ Pub. L. 113–235, div. O, title I, §110(b), Dec. 16, 2014, 128 Stat. 2792, pro
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586, provided that: "Theamendments made by this section \[amending this section\] shall apply to any multiemployer plan that has not received financial assistance (within the meaning of section 4261 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1431\]) within the 1-year period ending on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–586, provided that: "The amendments made by this section \[amending this section\] shall apply to any multiemployer plan that has not received financial assistance (within the meaning of section 4261 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1431\]) within the 1-year period ending on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1989 Amendment
 
@@ -224,7 +228,7 @@ Pub. L. 101–239, title VII, §7894(g)(3)(C)(ii), Dec. 19, 1989, 103 Stat. 2451
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–272 effective for plan years commencing after Dec. 31, 1985, see section 11005(d)(1) of Pub. L. 99–272, set out as a note under section 1306 of this title.
+Amendment by Pub. L. 99–272 effective for plan years commencing after Dec. 31, 1985, see section 11005(d)(1) ofPub. L. 99–272, set out as a note under section 1306 of this title.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ The Secretary shall collect data regarding economic activities created through g
 
 #### (b) Data
 
-The data collected under subsection (a) shall include information collected from recipients both during the award period and for a period of time, as determined by the Secretary, which is not less than 2 years after the award period ends.
+The data collected under subsection (a) shall include information collected from recipientsboth during the award period and for a period of time, as determined by the Secretary, which is not less than 2 years after the award period ends.
 
 #### (c) Report
 

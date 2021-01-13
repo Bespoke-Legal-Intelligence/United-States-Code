@@ -12,11 +12,13 @@ Omitted Inventor.—If a joint inventor refuses to join in an application for pa
 
 Correction of Errors in Application.—Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L.106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(a), Sept. 16, 2011, 125 Stat. 333.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §20(a), Sept. 16, 2011, 125 Stat. 333.)
 
 #### Historical and Revision Notes
 
 The first paragraph is implied in the present statutes, and the part of the last paragraph relating to omission of an erroneously joined inventor is in the Patent Office rules. The remainder is new and provides for the correction of a mistake in erroneously joining a person as inventor, and for filing an application when one of several joint inventors cannot be found. This section is ancillary to section 256.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -30,6 +32,8 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 <b>1982</b>—Pub. L. 97–247 substituted "Inventors" for "Joint inventors" as section catchline, and substituted "through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application" for "a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
@@ -40,7 +44,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984, and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
+Amendment by Pub. L. 98–622 applicable to all United States patents granted before, on, or after Nov. 8, 1984,and to all applications for United States patents pending on or filed after that date, except as otherwise provided, see section 106 of Pub. L. 98–622, set out as a note under section 103 of this title.
 
 #### Effective Date of 1982 Amendment
 

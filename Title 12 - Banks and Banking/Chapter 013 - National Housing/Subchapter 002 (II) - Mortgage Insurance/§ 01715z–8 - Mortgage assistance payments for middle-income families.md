@@ -14,7 +14,7 @@ The interest subsidy payments authorized by this section shall cease when (1) th
 
 #### (d) Monthly mortgage payments as determining eligibility for interest subsidy payments; mortgage assistance payments for middle-income cooperative members; interest subsidy payments; applicability of provisions to cooperative mortgagors
 
-(1) Interest subsidy payments shall be on mortgages on which the mortgagor makes monthly payments towards principal and interest equal to an amount which would be required if the mortgage bore an effective interest rate of 7 per centum per annum including any discounts or charges in the nature of points or otherwise (but not including premiums, if any, for mortgage insurance) or such higher rate (not to exceed the rate specified in the mortgage), which the mortgagor could pay by applying at least 20 per centum of his income towards homeownership expenses. As used in this subsection, the term "monthly homeownership expense" includes the monthly payment for principal, interest, mortgage insurance premium, insurance, and taxes due under the mortgage.
+(1) Interest subsidy payments shall be on mortgages on which the mortgagor makesmonthly payments towards principal and interest equal to an amount which would be required if the mortgage bore an effective interest rate of 7 per centum per annum including any discounts or charges in the nature of points or otherwise (but not including premiums, if any, for mortgage insurance) or such higher rate (not to exceed the rate specified in the mortgage), which the mortgagor could pay by applying at least 20 per centum of his income towards homeownership expenses. As used in this subsection, the term "monthly homeownership expense" includes the monthly payment for principal, interest, mortgage insurance premium, insurance, and taxes due under the mortgage.
 
 (2) In addition to the mortgages eligible for assistance under paragraph (1) of this subsection, the Secretary is authorized to make periodic assistance payments on behalf of cooperative members of middle income. Such assistance payments shall be accomplished through interest subsidy payments to the investor with respect to mortgages insured (subsequent to July 24, 1970) under section 1715e of this title which are executed by cooperatives, the membership in which is limited to middle-income families. For purposes of this paragraph—
 
@@ -54,13 +54,15 @@ In determining the income of any family for the purposes of this section, income
 
 (3) A mortgage to be insured under this section shall—
 
-&emsp;(i) involve a single-family dwelling which has been approved by the Secretary prior to the beginning of construction, or a one-family unit in a condominium project (together with an undivided interest in the common areas and facilities serving the project) which is released from a multifamily project, the construction of which has been completed within two years prior to the filing of the application for assistance payments with respect to such family unit and the unit shall have had no previous occupant other than the mortgagor;
+&emsp;(i) involve a single-family dwelling which has been approved by the Secretary prior to the beginning of construction, or a one-familyunit in a condominium project (together with an undivided interest in the common areas and facilities serving the project) which is released from a multifamily project, the construction of which has been completed within two years prior to the filing of the application for assistance payments with respect to such family unit and the unit shall have had no previous occupant other than the mortgagor;
 
 &emsp;(ii) involve a single-family dwelling whose appraised value, as determined by the Secretary, is not in excess of $20,000 (which amount may be increased by not more than 50 per centum in any geographical area where the Secretary authorizes an increase on the basis of a finding that the cost level so requires); and
 
 &emsp;(iii) be executed by a mortgagor who shall have paid in cash or its equivalent on account of the property (A) 3 per centum of the first $15,000 of the appraised value of the property, (B) 10 per centum of such value in excess of $15,000 but not in excess of $25,000, and (C) 20 per centum of such value in excess of $25,000.
 
 (June 27, 1934, ch. 847, title II, §243, as added Pub. L. 91–351, title V, §502, July 24, 1970, 84 Stat. 458; amended Pub. L. 98–479, title II, §204(a)(14), (15), Oct. 17, 1984, 98 Stat. 2232.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Section 501 of the Emergency Home Finance Act of 1970, referred to in subsec. (a
 <b>1984</b>—Subsec. (d)(2). Pub. L. 98–479, §204(a)(14), redesignated subpars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively.
 
 Subsec. (j)(3)(ii). Pub. L. 98–479, §204(a)(15), substituted "; and" for period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings and Declaration of Purpose
 

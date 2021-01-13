@@ -18,13 +18,17 @@ Nothing in this chapter shall be construed to prohibit, or to authorize any cour
 
 #### (c) Audit and investigations
 
-Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.
+Nothing in this chapter shall be construed to grant general audit or investigative authorityto the Secretary of the Senate or the Clerk of the House of Representatives.
 
 (Pub. L. 104–65, §8, Dec. 19, 1995, 109 Stat. 699.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" meaning Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, known as the Lobbying Disclosure Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -22,11 +22,13 @@
 
 &emsp;(3) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(c) This section shall not apply to any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefit of any private shareholder, member, or employee of such organization, except as compensation for actual expenses incurred by him in the conduct of such activity.
+(c) This section shall not apply to any bingo game, lottery, or similar game of chance conducted by an organization exempt from tax under paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1986, as amended, if no part of the gross receipts derived from such activity inures to the benefit of any private shareholder, member, or employee of such organization, except as compensation for actual expenses incurred by him in the conduct of such activity.
 
 (d) Whoever violates this section shall be punished by a fine under this title or imprisonment for not more than five years, or both.
 
 (Added Pub. L. 91–452, title VIII, §802(a), Oct. 15, 1970, 84 Stat. 936; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 <b>1994</b>—Subsec. (d). Pub. L. 103–322 substituted "fine under this title" for "fine of not more than $20,000".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Statement of Findings
 

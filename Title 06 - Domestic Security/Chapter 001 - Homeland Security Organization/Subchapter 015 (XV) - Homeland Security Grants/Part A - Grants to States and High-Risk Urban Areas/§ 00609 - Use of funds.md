@@ -28,9 +28,11 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
-&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
+&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative\(including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
 
-&emsp;(14) any other appropriate activity, as determined by the Administrator.
+&emsp;(14) migrating any online service (as defined in section 3 of the DOTGOV Online Trust in Government Act of 2020) <sup>1</sup> to the .gov internet domain; and
+
+&emsp;(15) any other appropriate activity, as determined by the Administrator.
 
 #### (b) Limitations on use of funds
 
@@ -114,15 +116,21 @@ Upon request by the recipient of a grant under section 604 or 605 of this title,
 
 If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under section 747 of this title, the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
-(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665; Pub. L. 115–278, §2(g)(7)(B), Nov. 16, 2018, 132 Stat. 4180.)
+(Pub. L. 107–296, title XX, §2008, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 283; amended Pub. L. 110–412, §2, Oct. 14, 2008, 122 Stat. 4336; Pub. L. 114–113, div. M, title VII, §711, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 114–190, title III, §3603, July 15, 2016, 130 Stat. 665; Pub. L. 115–278, §2(g)(7)(B), Nov. 16, 2018, 132 Stat. 4180; Pub. L. 116–260, div. U, title IX, §904(c), Dec. 27, 2020, 134 Stat. 2302.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Subsection (a)(10), referred to in subsec. (b)(3)(B), was redesignated subsec. (a)(11) by Pub. L. 114–190, title III, §3603(1), July 15, 2016, 130 Stat. 665.
 
+Section 3 of the DOTGOV Online Trust in Government Act of 2020, referred to in subsec. (a)(14), probably means section 903 of title IX of div. U of Pub. L. 116–260, which defines "online service" and is set out as a note under section 665 of this title.
+
 The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(14), (15). Pub. L. 116–260 added par. (14) and redesignated former par. (14) as (15).
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–278 substituted "section 664(a)(2) of this title" for "section 124l(a)(2) of this title".
 

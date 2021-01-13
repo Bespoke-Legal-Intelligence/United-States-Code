@@ -8,7 +8,7 @@
 
 (d) The court, in imposing sentence on any person convicted of a violation of this chapter, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person shall forfeit to the United States—
 
-&emsp;(1) such person's interest in any property, real or personal, that was involved in, used, orintended to be used to commit or to facilitate the commission of such violation, and any property traceable to such property; and
+&emsp;(1) such person's interest in any property, real or personal, that was involved in, used, or intended to be used to commit or to facilitate the commission of such violation, and any property traceable to such property; and
 
 &emsp;(2) any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation, or any property traceable to such property.
 
@@ -41,6 +41,8 @@ Use of nonforfeited assets.—Transfers pursuant to paragraph (1) shall not redu
 Witness Protection.—Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 
 (Added Pub. L. 106–386, div. A, §112(a)(2), Oct. 28, 2000, 114 Stat. 1489; amended Pub. L. 110–457, title II, §222(c), Dec. 23, 2008, 122 Stat. 5070; Pub. L. 114–22, title I, §105(a), May 29, 2015, 129 Stat. 236.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

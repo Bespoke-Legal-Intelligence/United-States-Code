@@ -16,7 +16,7 @@ Applicability.—(1) Except as provided in paragraph (2), this section applies t
 
 (2) This section does not apply to—
 
-&emsp;(A) any contract or subcontract to perform remedial action or corrective action under the Defense Environmental Restoration Program, other programs or activities of the Department of Defense, or authorized State hazardous waste programs;
+&emsp;(A) any contract or subcontract to perform remedial action or corrective action under theDefense Environmental Restoration Program, other programs or activities of the Department of Defense, or authorized State hazardous waste programs;
 
 &emsp;(B) any contract or subcontract under which the generation of the hazardous waste to be disposed of is incidental to the performance of the contract; or
 
@@ -36,7 +36,7 @@ Exception to Reimbursement Requirement.—Notwithstanding subsection (a), in the
 
 Definitions.—In this section:
 
-&emsp;(1) The term "hazardous waste" has the meaning given that term by section 1004(5) ofthe Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
+&emsp;(1) The term "hazardous waste" has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
 
 &emsp;(2) The term "remedial action" has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
 

@@ -2,7 +2,7 @@
 
 Except in time of war or national emergency, not more than ten retired flag officers of the Regular Navy may be on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 312, §5450; Pub. L. 96–513, title V, §503(21), Dec. 12, 1980, 94 Stat. 2912; renumbered §8102, Pub. L. 115–232, div. A, title VIII, §807(b)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 312, §5450; Pub. L. 96–513, title V, §503(21), Dec. 12, 1980, 94 Stat.2912; renumbered §8102, Pub. L. 115–232, div. A, title VIII, §807(b)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 

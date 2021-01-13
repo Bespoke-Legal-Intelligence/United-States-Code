@@ -22,6 +22,8 @@ Expiration of Authority.—The authority under this section shall be in effect a
 
 (Added Pub. L. 110–157, title III, §301(b)(1), Dec. 26, 2007, 121 Stat. 1835; amended Pub. L. 112–37, §17(a), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(b), Sept. 30, 2013, 127 Stat. 525.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 453 of the Social Security Act, referred to in subsecs. (a) and (c), is classified to section 653 of Title 42, The Public Health and Welfare.
@@ -33,6 +35,8 @@ The date of the enactment of the Department of Veterans Affairs Expiring Authori
 <b>2013</b>—Subsec. (d). Pub. L. 113–37 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The authority under this section shall expire on November 18, 2011."
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–37 substituted "November 18, 2011" for "September 30, 2011".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibitions.—A person may not violate this chapter, a regulation prescribed under thischapter, or any term of a license issued or transferred under this chapter.
+Prohibitions.—A person may not violate this chapter, a regulation prescribed under this chapter, or any term of a license issued or transferred under this chapter.
 
 (b)
 
@@ -95,6 +95,8 @@ In subsection (c)(2), the words "relevant papers, books, documents, and other" a
 In subsection (c)(3), the word "impose" is substituted for "assessed" for consistency in the revised title and with other titles of the Code. The words "amount of such" and "modify . . . with or without conditions" are omitted as surplus.
 
 Subsection (c)(4) is substituted for 49 App.:2618(b) to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

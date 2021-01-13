@@ -42,7 +42,7 @@ Pub. L. 115–271, title VIII, §8022, Oct. 24, 2018, 132 Stat. 4082, provided t
 
 &emsp;"(1)
 
-Substance use disorder treatment product.—The term 'substance use disorder treatment product' means a product for use or marketed for use in the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder.
+Substance use disorder treatment product.—The term 'substance use disorder treatment product' means a product for use or marketed for usein the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder.
 
 &emsp;"(2)
 

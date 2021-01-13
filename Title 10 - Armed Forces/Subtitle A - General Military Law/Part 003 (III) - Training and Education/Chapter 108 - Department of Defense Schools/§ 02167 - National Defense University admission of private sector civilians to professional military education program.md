@@ -10,7 +10,7 @@ Eligible Private Sector Employees.—For purposes of this section, an eligible p
 
 (c)
 
-Annual Certification by Secretary of Defense.—Private sector employees may receive instruction at the National Defense University during any academic year only if, before the start of that academic year, the Secretary of Defense determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to private sector employees under this section during that year will further national security interests of the United States.
+Annual Certification by Secretary of Defense.—Private sector employees may receive instruction at the National Defense University during any academic year only if, beforethe start of that academic year, the Secretary of Defense determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to private sector employees under this section during that year will further national security interests of the United States.
 
 (d)
 

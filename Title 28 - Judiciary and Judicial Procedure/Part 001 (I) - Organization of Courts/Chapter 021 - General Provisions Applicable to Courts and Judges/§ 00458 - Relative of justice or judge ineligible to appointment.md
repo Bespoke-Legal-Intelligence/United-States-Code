@@ -30,9 +30,13 @@ A provision referring to circuit court employees as of December 21, 1911, was om
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–300 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

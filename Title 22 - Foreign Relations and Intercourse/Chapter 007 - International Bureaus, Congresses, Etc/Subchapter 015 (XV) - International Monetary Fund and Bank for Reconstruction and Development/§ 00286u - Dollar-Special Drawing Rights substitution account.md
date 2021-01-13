@@ -4,9 +4,13 @@ It is the sense of the Congress that the Secretary of the Treasury and the Unite
 
 (July 31, 1945, ch. 339, §35, as added Pub. L. 96–389, §4(b), Oct. 7, 1980, 94 Stat. 1554; amended Pub. L. 97–35, title XIII, §1371(a)(2), Aug. 13, 1981, 95 Stat. 746.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 struck out reporting requirement on progress toward achieving account.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §37 (R.S. 4894, amended (1) Mar. 3, 1897, 
 
 The opening clause of the corresponding section of existing statute is omitted as having no present day meaning or value and the last two sentences are omitted for inclusion in section 267. The notice is stated as given or mailed. Language is revised.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–211 struck out ", unless it be shown to the satisfaction of the Director that such delay was unavoidable" before period at end.
@@ -17,6 +19,8 @@ The opening clause of the corresponding section of existing statute is omitted a
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

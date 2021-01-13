@@ -64,7 +64,7 @@ This section does not apply to any plan—
 
 #### (d) Substantial owner defined
 
-For purposes of subsection (b)(9), the term "substantial owner" means an individual who,at any time during the 60-month period ending on the date the determination is being made—
+For purposes of subsection (b)(9), the term "substantial owner" means an individual who, at any time during the 60-month period ending on the date the determination is being made—
 
 &emsp;(1) owns the entire interest in an unincorporated trade or business,
 
@@ -76,9 +76,11 @@ For purposes of subsection (b)(9), the term "substantial owner" means an individ
 
 (Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451; Pub. L. 109–280, title IV, §407(c)(1), title IX, §906(a)(2)(B), (b)(2), Aug. 17, 2006, 120 Stat. 930, 1051, 1052; Pub. L. 110–458, title I, §109(d)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
@@ -99,6 +101,8 @@ Subsec. (d). Pub. L. 109–280, §407(c)(1)(B), added subsec. (d).
 Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364 inserted "unless otherwise specifically indicated in this subchapter," after "For this purpose,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

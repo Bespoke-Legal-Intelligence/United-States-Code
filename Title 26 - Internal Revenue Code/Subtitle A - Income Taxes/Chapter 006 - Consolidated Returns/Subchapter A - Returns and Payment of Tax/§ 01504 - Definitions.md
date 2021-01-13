@@ -148,7 +148,7 @@ Subsec. (c)(2)(A). Pub. L. 99–514, §1899A(35), struck out "or 821" after "sec
 
 Pub. L. 99–514, §1024(c)(16), substituted "subsection (b)(2)) includes" for "subsection (b)(2) includes".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of "affiliated group", and expanded the enumeration of securities not included under term "stock".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions ofsubsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of "affiliated group", and expanded the enumeration of securities not included under term "stock".
 
 Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted "section 801" for "section 802".
 
@@ -156,7 +156,7 @@ Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted "se
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted "(within the meaning for section 409A(l)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)" for "within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted "dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax ReductionAct of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively" for "dividends" after "preferred as to".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted "dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively" for "dividends" after "preferred as to".
 
 Subsec. (b)(4). Pub. L. 94–455, §1051(g), substituted "Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year" for "Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States" in par. (4).
 
@@ -242,7 +242,7 @@ Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)
 
 Native corporations.—
 
-&emsp;"(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
+&emsp;"(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
 
 &emsp;&emsp;"(i) the amendment made by subsection (a) \[amending this section\] shall not apply, and
 
@@ -316,7 +316,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) ofPub. L. 91–172, set out as a note under section 511 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
 #### Effective Date of 1966 Amendment
 

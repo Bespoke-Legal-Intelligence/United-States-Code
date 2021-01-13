@@ -4,7 +4,7 @@
 
 (1)(A) The Administration may, upon such terms and conditions as it may prescribe, guarantee and enter into commitments to guarantee any surety against loss resulting from a breach of the terms of a bid bond, payment bond, performance bond, or bonds ancillary thereto, by a principal on any total work order or contract amount at the time of bond execution that does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.
 
-(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federalagency certifies that such a guarantee is necessary.
+(B) The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
@@ -148,7 +148,7 @@ Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted "every three years" for
 
 Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: "In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a)."
 
-Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section."
+Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section."
 
 Subsec. (e)(3), (4). Pub. L. 100–590, §203(c), added pars. (3) and (4).
 

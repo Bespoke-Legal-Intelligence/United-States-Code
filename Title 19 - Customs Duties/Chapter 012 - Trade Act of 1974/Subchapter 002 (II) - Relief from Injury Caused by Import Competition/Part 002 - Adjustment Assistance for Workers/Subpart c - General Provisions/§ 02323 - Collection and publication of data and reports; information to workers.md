@@ -72,7 +72,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(B) The total amount of the payments to the States to carry out sections 2295 through 2298 of this title used for training, in the aggregate and for each State.
 
-&emsp;(C) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for the costs of administration, in the aggregate and for each State.
+&emsp;(C) The total amount of payments to the States to carry out sections 2295 through 2298of this title used for the costs of administration, in the aggregate and for each State.
 
 &emsp;(D) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for job search and relocation allowances, in the aggregate and for each State.
 
@@ -136,7 +136,7 @@ Subsec. (b)(3)(G), (H). Pub. L. 114–27, §§404(b)(1)(A)(v), 406, temporarily 
 
 Subsec. (b)(4)(A), (B). Pub. L. 114–27, §§404(b)(1)(B)(i), 406, temporarily substituted "annual" for "quarterly". See Codification note above and Effective and Termination Dates note below.
 
-Subsec. (b)(4)(C). Pub. L. 114–27, §§404(b)(1)(B)(ii), 406, temporarily added subpar. (C) and struck out formersubpar. (C) which read as follows: "The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part." See Codification note above and Effective and Termination Dates note below.
+Subsec. (b)(4)(C). Pub. L. 114–27, §§404(b)(1)(B)(ii), 406, temporarily added subpar. (C) and struck out former subpar. (C) which read as follows: "The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part." See Codification note above and Effective and Termination Dates note below.
 
 Subsec. (e)(1)(B) to (D). Pub. L. 114–27, §§404(b)(2)(A), 406, temporarily added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. See Codification note above and Effective and Termination Dates note below.
 

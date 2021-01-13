@@ -34,6 +34,8 @@ Minor changes were made in translation and phraseology.
 
 This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.S.C., by eliminating the provision that the crime of rape in the Indian country is to be punished in accordance with the law of the State where the offense was committed, leaving the definition of the offense to be determined by State law, but providing that punishment of rape of an Indian by an Indian is to be by imprisonment at the discretion of the court. The offense of rape, other than rape of an Indian by an Indian within the Indian country, is covered by section 2031 of title 18, U.S.C., and the offense of burglary by sections 1152 and 3242 of such title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4 substituted "a felony assault under section 113" for "assault with intent to commit murder, assault with a dangerous weapon, assault resulting in serious bodily injury (as defined in section 1365 of this title)".
@@ -46,7 +48,7 @@ This section \[section 26\] removes an ambiguity in section 1153 of title 18, U.
 
 <b>1986</b>—Pub. L. 99–646 and Pub. L. 99–654 which directed that section be amended identically by substituting in first par. "a felony under chapter 109A," for "rape, involuntary sodomy, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape," and by striking out in second and third pars. ", involuntary sodomy," was executed by making the substitution in subsec. (a) for "rape, involuntary sodomy, felonious sexual molestation of a minor, carnal knowledge of any female, not his wife, who has not attained the age of sixteen years, assault with intent to commit rape," to reflect the probable intent of Congress in view of prior amendment of this section by Pub. L. 99–303, but amendment to second and third pars. could not be executed because such pars. were struck out by Pub. L. 99–303.
 
-Pub. L. 99–303 inserted section catchline which had been eliminated by general amendment by section 1009 of Pub. L. 98–473, designated first par. as subsec. (a) and inserted "felonious sexual molestation of a minor,", struck out second par. which provided that, as used in this section, the offenses of burglary, involuntary sodomy, and incest be defined and punished in accordance with the laws of the State in which such offense was committed as are in force at the time of such offense, and struck out third par. and restated the provisions thereof in a new subsec. (b), substituting "Any offense referred to in subsection (a) of this section that is" for "In addition to the offenses of burglary, involuntary sodomy, and incest, any other of the above offenses which are".
+Pub. L. 99–303 inserted section catchline which had been eliminated by general amendment by section 1009 of Pub. L. 98–473, designated first par. as subsec. (a) and inserted "felonious sexual molestation of a minor,", struck out second par. which provided that, as used in this section, the offenses of burglary, involuntary sodomy, and incest be defined and punished in accordance with the laws of the State in which such offense wascommitted as are in force at the time of such offense, and struck out third par. and restated the provisions thereof in a new subsec. (b), substituting "Any offense referred to in subsection (a) of this section that is" for "In addition to the offenses of burglary, involuntary sodomy, and incest, any other of the above offenses which are".
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting ", involuntary sodomy," after "burglary" in third par.
 
@@ -57,6 +59,8 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 <b>1966</b>—Pub. L. 89–707 inserted offenses of carnal knowledge and assault with intent to commit rape, defined and proscribed the punishment for assault with intent to commit rape in accordance with the laws of the State in which the offense was committed, and required assault with a dangerous weapon and incest to be defined and punished in accordance with the laws of the State in which the offense was committed.
 
 <b>1949</b>—Act May 24, 1949, struck out provision that the crime of rape is to be punished in accordance with the law of the State where the offense was committed and in lieu inserted provision leaving punishment up to the discretion of the court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendments
 

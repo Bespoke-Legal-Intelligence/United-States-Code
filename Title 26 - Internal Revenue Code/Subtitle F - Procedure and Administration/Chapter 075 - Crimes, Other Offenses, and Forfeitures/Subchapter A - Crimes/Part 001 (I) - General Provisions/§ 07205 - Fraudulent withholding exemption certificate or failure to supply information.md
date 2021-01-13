@@ -42,7 +42,7 @@ If any individual willfully makes a false certification under paragraph (1) or (
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns and statements the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
+Amendment by Pub. L. 101–239 applicable to returns and statements the due date for which (determinedwithout regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
 
 #### Effective Date of 1984 Amendment
 

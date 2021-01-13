@@ -56,7 +56,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying paragraph (1)(E), all DISC's which are members of the samecontrolled group shall be treated as a single corporation.
+&emsp;&emsp;For purposes of applying paragraph (1)(E), all DISC's which are members of the same controlled group shall be treated as a single corporation.
 
 #### (B) Allocation
 
@@ -234,7 +234,7 @@ If—
 
 #### (g) Treatment of tax-exempt shareholders
 
-If any organization described in subsection (a)(2) or (b)(2) of section 511 (or any other person otherwise subject to tax under section 511) is a shareholder in a DISC—
+If any organization described in subsection (a)(2) or (b)(2) of section 511 (or any other personotherwise subject to tax under section 511) is a shareholder in a DISC—
 
 &emsp;(1) any amount deemed distributed to such shareholder under subsection (b),
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

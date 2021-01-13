@@ -24,7 +24,7 @@ Except as provided in subsection (c)(1), any individual—
 
 &emsp;(B) to notify each such former spouse of that individual's rights under this section.
 
-(3) The Secretary shall waive the 6-month limitation set forth in paragraph (1) in any case inwhich the Secretary determines that the circumstances so warrant.
+(3) The Secretary shall waive the 6-month limitation set forth in paragraph (1) in any case in which the Secretary determines that the circumstances so warrant.
 
 #### (c) Disqualification
 
@@ -42,9 +42,13 @@ For purposes of this section the term "health benefits plan" means an approved h
 
 (Pub. L. 96–465, title I, §833, as added Pub. L. 100–238, title II, §204(a), Jan. 8, 1988, 101 Stat. 1772.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this section, referred to in subsec. (b)(1), see Effective Date note set out below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

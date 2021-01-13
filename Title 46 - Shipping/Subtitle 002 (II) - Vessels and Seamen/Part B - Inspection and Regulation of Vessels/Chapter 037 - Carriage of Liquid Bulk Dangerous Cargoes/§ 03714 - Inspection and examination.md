@@ -6,7 +6,7 @@
 
 (3) The Secretary may make contracts for conducting inspections or examinations in the United States and in foreign countries. An inspector conducting an inspection or examination under contract may not issue a certificate of inspection or a certificate of compliance, but the inspector may issue a temporary certificate.
 
-(4) The Secretary shall prescribe by regulation reasonable fees for an inspection or examination conducted under this section outside the United States, or which, when involving a foreign vessel, is conducted under a contract authorized by paragraph (3) of this subsection. The owner, charterer, or managing operator of a vessel inspected or examined by the Secretary is liable for the fees. Amounts received as fees shall be deposited in the Treasury.
+(4) The Secretary shall prescribe by regulation reasonable fees for an inspection or examinationconducted under this section outside the United States, or which, when involving a foreign vessel, is conducted under a contract authorized by paragraph (3) of this subsection. The owner, charterer, or managing operator of a vessel inspected or examined by the Secretary is liable for the fees. Amounts received as fees shall be deposited in the Treasury.
 
 (5) The Secretary may allow provisional entry of a vessel to conduct an inspection or examination under this chapter.
 
@@ -49,6 +49,8 @@ The Secretary is also authorized and directed to prescribe by regulation reasona
 Section 3714(b) requires each vessel subject to this chapter to have on board those documents the Secretary declares are necessary for inspection or enforcement, including, but not limited to documents indicating the kind, grade, and approximate quantities of any cargo on board; the shipper and consignee of the cargo; the points of origin and destination of the vessel; and the name of an agent in the United States authorized to accept legal process.
 
 Section 3714(c) requires each vessel subject to this chapter to have a person authorized to accept service of legal process for the vessel.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

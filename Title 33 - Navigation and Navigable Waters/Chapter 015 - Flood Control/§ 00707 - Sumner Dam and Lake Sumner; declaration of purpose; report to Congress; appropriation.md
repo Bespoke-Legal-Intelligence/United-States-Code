@@ -4,9 +4,13 @@ The Sumner Dam and Lake Sumner on the Pecos River, New Mexico, is authorized and
 
 (Aug. 11, 1939, ch. 699, §7, 53 Stat. 1417; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 93–447, Oct. 17, 1974, 88 Stat. 1363.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–447 substituted "Sumner Dam and Lake Sumner" for "Alamogordo Dam and Reservoir" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -24,13 +24,13 @@ A homeownership program under this subchapter shall provide, and include a plan,
 
 #### (d) Acquisition and rehabilitation limitations
 
-Acquisition or rehabilitation of public housing projects under a homeownership program under this subchapter may not consist of acquisition or rehabilitation of less than the whole public housing project in a project consisting of more than 1 building. The provisions of this subsection may be waived upon a finding by the Secretary that the sale of less than all the buildings in a project is feasible and will not result in a hardship to any tenants of the project who are not included in the homeownership program.
+Acquisition or rehabilitation of public housing projects under a homeownership program underthis subchapter may not consist of acquisition or rehabilitation of less than the whole public housing project in a project consisting of more than 1 building. The provisions of this subsection may be waived upon a finding by the Secretary that the sale of less than all the buildings in a project is feasible and will not result in a hardship to any tenants of the project who are not included in the homeownership program.
 
 #### (e) Financing
 
 #### (1) In general
 
-&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity other than the public housing agency for transfer to eligiblefamilies, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
+&emsp;The application shall identify and describe the proposed financing for (A) any rehabilitation, and (B) acquisition (i) of the project, where applicable, by an entity other than the public housing agency for transfer to eligible families, and (ii) by eligible families of ownership interests in, or shares representing, units in the project. Financing may include use of the implementation grant, sale for cash, or other sources of financing (subject to applicable requirements), including conventional mortgage loans and mortgage loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
 #### (2) Prohibition against pledges
 

@@ -6,7 +6,7 @@ The Board of Governors of the Federal Reserve System shall be authorized and emp
 
 (1) To examine at its discretion the accounts, books, and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature, and maturities of the paper and other investments owned or held by Federal reserve banks.
 
-(2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State savings associations that are insured depository institutions (as defined in section 1813 of this title), State nonmember banks, savings banks, and mutual savingsbanks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Comptroller of the Currency in the case of any Federal savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirements shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
+(2) To require any depository institution specified in this paragraph to make, at such intervals as the Board may prescribe, such reports of its liabilities and assets as the Board may determine to be necessary or desirable to enable the Board to discharge its responsibility to monitor and control monetary and credit aggregates. Such reports shall be made (A) directly to the Board in the case of member banks and in the case of other depository institutions whose reserve requirements under sections 461, 463, 464, 465, and 466 of this title exceed zero, and (B) for all other reports to the Board through the (i) Federal Deposit Insurance Corporation in the case of insured State savings associations that are insured depository institutions (as defined in section 1813 of this title), State nonmember banks, savings banks, and mutual savings banks, (ii) National Credit Union Administration Board in the case of insured credit unions, (iii) the Comptroller of the Currency in the case of any Federal savings association which is an insured depository institution (as defined in section 1813 of this title) or which is a member as defined in section 1422 of this title, and (iv) such State officer or agency as the Board may designate in the case of any other type of bank, savings association, or credit union. The Board shall endeavor to avoid the imposition of unnecessary burdens on reporting institutions and the duplication of other reporting requirements. Except as otherwise required by law, any data provided to any department, agency, or instrumentality of the United States pursuant to other reporting requirements shall be made available to the Board. The Board may classify depository institutions for the purposes of this paragraph and may impose different requirements on each such class.
 
 #### (b) Permitting or requiring rediscounting of paper at specified rate
 
@@ -56,7 +56,7 @@ To employ such attorneys, experts, assistants, clerks, or other employees as may
 
 #### (n) Board's authority to examine depository institutions and affiliates
 
-To examine, at the Board's discretion, any depository institution, and any affiliate of suchdepository institution, in connection with any advance to, any discount of any instrument for, or any request for any such advance or discount by, such depository institution under this chapter.
+To examine, at the Board's discretion, any depository institution, and any affiliate of such depository institution, in connection with any advance to, any discount of any instrument for, or any request for any such advance or discount by, such depository institution under this chapter.
 
 #### (o) Authority to appoint conservator or receiver
 
@@ -110,7 +110,7 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 &emsp;&emsp;(B) the amount borrowed by or transferred by or to a specific borrower, participant, or counterparty in any credit facility or covered transaction;
 
-&emsp;&emsp;(C) the interest rate or discount paid by each borrower, participant, or counterpartyin any credit facility or covered transaction; and
+&emsp;&emsp;(C) the interest rate or discount paid by each borrower, participant, or counterparty in any credit facility or covered transaction; and
 
 &emsp;&emsp;(D) information identifying the types and amounts of collateral pledged or assets transferred in connection with participation in any credit facility or covered transaction.
 
@@ -194,6 +194,8 @@ The Board may act in its own name and through its own attorneys in enforcing any
 
 (Dec. 23, 1913, ch. 6, §11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, §2, 40 Stat. 968; Mar. 3, 1919, ch. 101, §3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, §3, 48 Stat. 2; June 16, 1933, ch. 89, §7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §§321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, §1(c), 59 Stat. 237; Pub. L. 86–114, §3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, §3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, §2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, §1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, §2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, §102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, §17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, §1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§322(d), 331(d), title VI, §602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, §735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, §364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, §301, Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§318(c), 366(1), title XI, §§1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126; Pub. L. 115–174, title IV, §401(c)(2), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 461, 463, 464, 465, and 466 of this title, referred to in subsec. (a)(2), was in the original "section 19 of the Federal Reserve Act". Provisions of section 19 relating to reserve requirements are classified to the cited sections. For complete classification of section 19 to the Code, see References in Text note set out under section 461 of this title.
@@ -230,7 +232,7 @@ Subsec. (a)(2)(B)(iii). Pub. L. 111–203, §366(1)(B), (C), substituted "Comptr
 
 Subsec. (a)(2)(B)(iv). Pub. L. 111–203, §366(1)(D), substituted "savings association" for "savings and loan association".
 
-Subsec. (k). Pub. L. 111–203, §1108(c), inserted at end "The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment ofpolicies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors."
+Subsec. (k). Pub. L. 111–203, §1108(c), inserted at end "The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors."
 
 Subsec. (s). Pub. L. 111–203, §1103(b), added subsec. (s) relating to Federal Reserve transparency and release of information.
 
@@ -288,6 +290,8 @@ Subsec. (n). Act Mar. 9, 1933, added subsec. (n).
 
 <b>1930</b>—Subsec. (k). Act June 26, 1930, added last par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
@@ -327,6 +331,8 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 #### Construction of 1991 Amendment
 
 Pub. L. 102–550, title XVI, §1603(e)(2), Oct. 28, 1992, 106 Stat. 4081, provided that: "The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[Pub. L. 102–242\] (adding a paragraph at the end of section 11 of the Federal Reserve Act \[this section\]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 \[amending this section\]."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 6359
 

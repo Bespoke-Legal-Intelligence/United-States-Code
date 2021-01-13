@@ -26,6 +26,8 @@ Pub. L. 100–324, §5(c), May 30, 1988, 102 Stat. 577.
 
 The Secretary's authority to provide decorations and medals at cost, or to authorize the sale of decorations and medals at reasonable prices, is restated to apply only to replacement awards because Congress probably did not intend that recipients being honored would pay for their decorations and medals.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §3510. See 2006 Amendment note below.

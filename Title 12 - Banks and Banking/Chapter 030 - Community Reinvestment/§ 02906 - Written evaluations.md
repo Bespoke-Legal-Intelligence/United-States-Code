@@ -96,6 +96,8 @@ For purposes of this section the following definitions shall apply:
 
 (Pub. L. 95–128, title VIII, §807, as added Pub. L. 101–73, title XII, §1212(b), Aug. 9, 1989, 103 Stat. 527; amended Pub. L. 102–242, title II, §222, Dec. 19, 1991, 105 Stat. 2306; Pub. L. 103–328, title I, §110, Sept. 29, 1994, 108 Stat. 2364.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the original "this Act" and was translated as reading "this title", meaning title VIII of Pub. L. 95–128, known as the Community Reinvestment Act of 1977, to reflect the probable intent of Congress.

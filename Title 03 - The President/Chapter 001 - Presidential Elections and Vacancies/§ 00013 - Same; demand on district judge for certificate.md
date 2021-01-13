@@ -4,11 +4,15 @@ When no certificates of votes from any State shall have been received at the sea
 
 (June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §9, 65 Stat. 712; Pub. L. 98–497, title I, §107(e)(1), Oct. 19, 1984, 98 Stat. 2291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services".
 
 <b>1951</b>—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Secretary of State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

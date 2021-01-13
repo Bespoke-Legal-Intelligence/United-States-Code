@@ -44,6 +44,8 @@ Discretion of the secretary.—The Secretary, at the discretion of the Secretary
 
 (Added Pub. L. 112–141, div. E, title III, §53005(a), July 6, 2012, 126 Stat. 902; amended Pub. L. 114–94, div. A, title VI, §6008, Dec. 4, 2015, 129 Stat. 1567.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (a)(1), is section 12(d) of Pub. L. 104–113, Mar. 7, 1996, 110 Stat. 783, which is set out as a note under section 272 of Title 15, Commerce and Trade.
@@ -53,6 +55,8 @@ Section 508, referred to in subsec. (d)(2), was repealed by Pub. L. 114–94, di
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(3). Pub. L. 114–94 substituted "memberships include representatives of" for "memberships are comprised of, and represent,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

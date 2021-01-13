@@ -8,7 +8,11 @@ Authority.—The Secretary of Defense and the Secretaries of the military depart
 
 Procedures.—Purchases under this section may be made inside or outside the United States and by contract or otherwise. Chapter 137 of this title applies only when such purchases are made in quantities greater than necessary for experimentation, technical evaluation, assessment of operational utility, or safety or to provide a residual operational capability.
 
-(Added Pub. L. 103–160, div. A, title VIII, §822(c)(1), Nov. 30, 1993, 107 Stat. 1706; amended Pub. L. 103–337, div. A, title X, §1070(g), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title VIII, §812, Feb. 10, 1996, 110 Stat. 395; Pub. L. 114–92, div. A, title VIII, §814, Nov. 25, 2015, 129 Stat. 893; Pub. L. 115–232, div. A, title VIII, §886, Aug. 13, 2018, 132 Stat. 1916.)
+(Added Pub. L. 103–160, div. A, title VIII, §822(c)(1), Nov. 30, 1993, 107 Stat. 1706; amended Pub. L. 103–337, div. A, title X, §1070(g), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title VIII, §812, Feb. 10, 1996, 110 Stat. 395; Pub. L. 114–92, div. A, title VIII, §814, Nov. 25, 2015, 129Stat. 893; Pub. L. 115–232, div. A, title VIII, §886, Aug. 13, 2018, 132 Stat. 1916.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4243, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 301 of this title, as added by section 1841(a) of Pub. L. 116–283, inserted after section 4003, and redesignated as section 4004 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -25,4 +29,8 @@ Subsec. (b). Pub. L. 114–92, §814(b), substituted "only when such purchases a
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted "only" after "applies" in second sentence.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "chemical activity, and aeronautical supplies," for "and chemical activity supplies,".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

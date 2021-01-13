@@ -4,9 +4,13 @@ An officer of a uniformed service who is promoted to a grade above second lieute
 
 (Added Pub. L. 96–513, title IV, §403(c), Dec. 12, 1980, 94 Stat. 2905; amended Pub. L. 109–364, div. A, title X, §1071(c)(8), Oct. 17, 2006, 120 Stat. 2401.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–364 substituted "promotions" for "promotion" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

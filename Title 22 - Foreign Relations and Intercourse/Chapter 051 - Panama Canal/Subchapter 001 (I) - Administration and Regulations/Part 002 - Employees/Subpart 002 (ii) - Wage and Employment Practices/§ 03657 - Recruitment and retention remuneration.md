@@ -36,7 +36,9 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
 
-(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, §107(a)(2)(D), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
+(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, §107(a)(2)(D), Oct. 26, 2017, 131Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -60,13 +62,17 @@ Subsec. (e). Pub. L. 105–85, §3525(a)(1), (2), redesignated subsec. (c) as (e
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which read as follows: "Subchapter III of chapter 59 of title 5, relating to overseas differentials and allowances, shall not apply with respect to any employee whose permanent duty station is in the Republic of Panama and who is employed by an agency."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a) of this section is terminated.
 
 #### Savings Provision for Basic Pay
 
-Pub. L. 105–261, div. C, title XXXV, §3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: "Notwithstanding subsection (a) \[amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title\], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 \[22 U.S.C. 3658(1), (2), (3), (5), (6)\], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act \[22 U.S.C. 3657(a), 3671(a)(2)(A), (B)\] had been repealed effective 12:00 noon, December 31, 1999. The exception under the precedingsentence shall not apply to any pay for hours of work performed on December 31, 1999."
+Pub. L. 105–261, div. C, title XXXV, §3507(b), Oct. 17, 1998, 112 Stat. 2269, provided that: "Notwithstanding subsection (a) \[amending this section and sections 3664, 3671, and 3731 of this title and repealing sections 3646 and 3647 of this title\], benefits based on basic pay, as listed in paragraphs (1), (2), (3), (5), and (6) of section 1218 of the Panama Canal Act of 1979 \[22 U.S.C. 3658(1), (2), (3), (5), (6)\], shall be paid as if sections 1217(a) and 1231(a)(2)(A) and (B) of that Act \[22 U.S.C. 3657(a), 3671(a)(2)(A), (B)\] had been repealed effective 12:00 noon, December 31, 1999. The exception under the preceding sentence shall not apply to any pay for hours of work performed on December 31, 1999."
+
+#### <b>Executive Documents</b>
 
 #### Coordination of Pay and Employment Practices
 

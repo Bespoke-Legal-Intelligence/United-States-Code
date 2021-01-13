@@ -4,6 +4,8 @@ The Committee on House Oversight of the House of Representatives and the Committ
 
 (May 13, 1926, ch. 294, §2, 44 Stat. 552; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814; Pub. L. 104–186, title II, §204(65), Aug. 20, 1996, 110 Stat. 1739.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 119 of this title prior to editorial reclassification and renumbering as this section.
@@ -13,6 +15,8 @@ Section was formerly classified to section 119 of this title prior to editorial 
 <b>1996</b>—Pub. L. 104–186 substituted "Committee on House Oversight" for "Committee on Accounts".
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee to Audit and Control the Contingent Expenses".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

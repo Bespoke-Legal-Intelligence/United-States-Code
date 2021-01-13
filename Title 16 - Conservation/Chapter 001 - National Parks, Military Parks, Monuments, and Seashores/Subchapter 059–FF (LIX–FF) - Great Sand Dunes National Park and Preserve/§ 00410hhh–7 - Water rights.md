@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) Such water rights shall be appropriated, adjudicated, changed, and administered pursuant to the procedural requirements and priority system of the laws of the State of Colorado.
 
-&emsp;&emsp;(B) The purposes and other substantive characteristics of such water rights shall be established pursuant to State law, except that the Secretary is specifically authorized to appropriate water under this subchapter exclusively for the purpose of maintaining ground water levels, surface water levels, and stream flows on, across, and under the national park and national preserve, in order to accomplish the purposes of the national park and the national preserve and to protect park resources and park uses.
+&emsp;&emsp;(B) The purposes and other substantive characteristics of such water rights shall be established pursuant to State law, exceptthat the Secretary is specifically authorized to appropriate water under this subchapter exclusively for the purpose of maintaining ground water levels, surface water levels, and stream flows on, across, and under the national park and national preserve, in order to accomplish the purposes of the national park and the national preserve and to protect park resources and park uses.
 
 &emsp;&emsp;(C) Such water rights shall be established and used without interfering with—
 

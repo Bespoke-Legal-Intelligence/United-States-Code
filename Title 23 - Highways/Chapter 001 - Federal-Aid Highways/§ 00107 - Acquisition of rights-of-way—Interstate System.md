@@ -1,6 +1,6 @@
 ### §107. Acquisition of rights-of-way—Interstate System
 
-(a) In any case in which the Secretary is requested by a State to acquire lands or interestsin lands (including within the term "interests in lands", the control of access thereto from adjoining lands) required by such State for right-of-way or other purposes in connection with the prosecution of any project for the construction, reconstruction, or improvement of any section of the Interstate System, the Secretary is authorized, in the name of the United States and prior to the approval of title by the Attorney General, to acquire, enter upon, and take possession of such lands or interests in lands by purchase, donation, condemnation, or otherwise in accordance with the laws of the United States (including sections 3114 to 3116 and 3118 of title 40), if—
+(a) In any case in which the Secretary is requested by a State to acquire lands or interests in lands (including within the term "interests in lands", the control of access thereto from adjoining lands) required by such State for right-of-way or other purposes in connection with the prosecution of any project for the construction, reconstruction, or improvement of any section of the Interstate System, the Secretary is authorized, in the name of the United States and prior to the approval of title by the Attorney General, to acquire, enter upon, and take possession of such lands or interests in lands by purchase, donation, condemnation, or otherwise inaccordance with the laws of the United States (including sections 3114 to 3116 and 3118 of title 40), if—
 
 &emsp;(1) the Secretary has determined either that the State is unable to acquire necessary lands or interests in lands, or is unable to acquire such lands or interests in lands with sufficient promptness; and
 
@@ -15,6 +15,8 @@ The authority granted by this section shall also apply to lands and interests in
 (d) Whenever rights-of-way, including control of access, on the Interstate System are required over lands or interests in lands owned by the United States, the Secretary may make such arrangements with the agency having jurisdiction over such lands as may be necessary to give the State or other person constructing the projects on such lands adequate rights-of-way and control of access thereto from adjoining lands, and any such agency is directed to cooperate with the Secretary in this connection.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109–284, §3(1), Sept. 27, 2006, 120 Stat. 1211.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

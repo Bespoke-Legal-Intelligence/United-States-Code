@@ -24,7 +24,7 @@
 
 (e) Whoever, through the use of the mail, telephone, telegraph, or other instrument of interstate or foreign commerce, or in or affecting interstate or foreign commerce, willfully makes any threat, or maliciously conveys false information knowing the same to be false, concerning an attempt or alleged attempt being made, or to be made, to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property by means of fire or an explosive shall be imprisoned for not more than 10 years or fined under this title, or both.
 
-(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agency thereof, or any institution or organization receiving Federal financial assistance, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
+(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agencythereof, or any institution or organization receiving Federal financial assistance, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
 
 (2) Whoever engages in conduct prohibited by this subsection, and as a result of such conduct, directly or proximately causes personal injury or creates a substantial risk of injury to any person, including any public safety officer performing duties, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both.
 
@@ -44,7 +44,7 @@
 
 &emsp;(2) carries an explosive during the commission of any felony which may be prosecuted in a court of the United States,
 
-> including a felony which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device shall, in addition to the punishment provided for suchfelony, be sentenced to imprisonment for 10 years. In the case of a second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for 20 years. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the felony in which the explosive was used or carried.
+> including a felony which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device shall, in addition to the punishment provided for such felony, be sentenced to imprisonment for 10 years. In the case of a second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for 20 years. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the felony in which the explosive was used or carried.
 
 (i) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other real or personal property used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall also be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
@@ -66,13 +66,15 @@ Theft Reporting Requirement.—
 
 &emsp;(1)
 
-In general.—A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary <sup>1</sup> not later than 24 hours after the discovery of the theft.
+In general.—A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee,shall report the theft to the Secretary <sup>1</sup> not later than 24 hours after the discovery of the theft.
 
 &emsp;(2)
 
 Penalty.—A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 108–426, §2(c)(6), Nov. 30, 2004, 118 Stat. 2424.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ Subsec. (h)(2). Pub. L. 100–690, §6474(b)(1), in par. (2), struck out "unlawf
 Subsec. (h)(1). Pub. L. 97–298, §2(b), inserted "fire or" after "uses".
 
 Subsec. (i). Pub. L. 97–298, §2(c), inserted "fire or" after "by means of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

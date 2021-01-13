@@ -2,7 +2,7 @@
 
 #### (a) Establishment of regulations
 
-The Librarian of Congress shall establish standards and regulations for the physical security, control, and preservation of the Library of Congress collections and property, and for the maintenance of suitable order and decorum within Library of Congress.
+The Librarian of Congress shall establish standards and regulations for the physical security, control, and preservation of the Library of Congress collections and property, and for themaintenance of suitable order and decorum within Library of Congress.
 
 #### (b) Treatment of security systems
 
@@ -32,6 +32,8 @@ The Librarian of Congress shall establish standards and regulations for the phys
 
 (Pub. L. 110–161, div. H, title I, §1004(e), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §5, Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 110–178, Jan. 7, 2008, 121 Stat. 2546, known as the U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note under section 1901 of this title and Tables.
@@ -39,6 +41,8 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 110–178, Jan. 7, 2008, 121
 #### Codification
 
 Pub. L. 110–161, div. H, title I, §1004(e), and Pub. L. 110–178, §5, enacted substantially identical provisions. This section is based on text of section 5 of Pub. L. 110–178. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

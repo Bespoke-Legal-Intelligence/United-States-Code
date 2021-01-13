@@ -26,7 +26,7 @@ The Secretary may bring an action under this section to restrain violations of t
 
 #### (2) Court
 
-&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained againstthe employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
+&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
 
 #### (3) Costs
 
@@ -37,6 +37,8 @@ The Secretary may bring an action under this section to restrain violations of t
 The rights and procedures provided by this chapter may not be waived by contract or otherwise, unless such waiver is part of a written settlement agreed to and signed by the parties to the pending action or complaint under this chapter.
 
 (Pub. L. 100–347, §6, June 27, 1988, 102 Stat. 647.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,7 +12,7 @@ There is established within the Department of Commerce an office to be known as 
 
 #### (2) Qualifications
 
-&emsp;The Director shall be a citizen of the United States and have experience in a field directly related to the promotion of travel to and within the United States.
+&emsp;The Director shall be a citizen of the United States and have experience in a field directlyrelated to the promotion of travel to and within the United States.
 
 #### (3) Duties
 
@@ -41,6 +41,8 @@ The Office shall—
 Within a year after March 4, 2010, and periodically thereafter as appropriate, the Secretary shall transmit a report to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Homeland Security and Governmental Affairs, the Senate Committee on Foreign Relations, the House of Representatives Committee on Energy and Commerce, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on Foreign Affairs describing the Office's work with the Corporation, the Secretary of State and the Secretary of Homeland Security to carry out subsection (c)(2).
 
 (Pub. L. 87–63, title II, §202, as added Pub. L. 111–145, §9(i), formerly §9(g), Mar. 4, 2010, 124 Stat. 63; renumbered 9(i), Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

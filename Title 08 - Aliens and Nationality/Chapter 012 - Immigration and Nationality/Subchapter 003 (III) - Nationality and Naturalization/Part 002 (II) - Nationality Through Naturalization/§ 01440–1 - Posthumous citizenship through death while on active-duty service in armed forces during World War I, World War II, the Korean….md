@@ -38,7 +38,7 @@ A person referred to in subsection (a) is a person who, while an alien or a nonc
 
 > &emsp;&emsp;whichever date is later;
 
-&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
+&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executivedepartment under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
 
 &emsp;&emsp;(C) the Director finds that the person satisfied the requirement of subsection (b)(3).
 
@@ -47,6 +47,8 @@ A person referred to in subsection (a) is a person who, while an alien or a nonc
 If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c), the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94; Pub. L. 107–273, div. C, title I, §11030(b), Nov. 2, 2002, 116 Stat. 1836; Pub. L. 108–136, div. A, title XVII, §§1703(g), 1704, Nov. 24, 2003, 117 Stat. 1695, 1696.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -63,6 +65,8 @@ Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d)
 Subsec. (e). Pub. L. 108–136, §1703(g)(1), struck out heading and text of subsec. (e). Text read as follows: "Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section."
 
 <b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–273 substituted "November 2, 2002," for "March 6, 1990,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

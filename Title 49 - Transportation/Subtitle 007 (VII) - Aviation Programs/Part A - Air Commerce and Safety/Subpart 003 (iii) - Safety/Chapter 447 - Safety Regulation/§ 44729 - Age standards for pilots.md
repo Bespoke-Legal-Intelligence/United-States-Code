@@ -18,7 +18,7 @@ Applicability of icao standard.—A pilot who has attained 60 years of age may s
 
 &emsp;(2)
 
-Sunset of limitation.—Paragraph (1) shall cease to be effective on such date as the Convention on International Civil Aviation provides that a pilot who has attained 60 years of age may serve as pilot-in-command in international commercial operations without regard to whether there is another pilot in the flight deck crew who has not attained age 60.
+Sunset of limitation.—Paragraph (1) shall cease to be effective on such date as theConvention on International Civil Aviation provides that a pilot who has attained 60 years of age may serve as pilot-in-command in international commercial operations without regard to whether there is another pilot in the flight deck crew who has not attained age 60.
 
 (d)
 

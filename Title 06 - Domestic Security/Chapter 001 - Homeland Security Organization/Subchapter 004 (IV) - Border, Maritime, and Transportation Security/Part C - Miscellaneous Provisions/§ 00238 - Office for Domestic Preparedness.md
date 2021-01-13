@@ -36,9 +36,11 @@ During fiscal year 2003 and fiscal year 2004, the Director of the Office for Dom
 
 (Pub. L. 107–296, title IV, §430, Nov. 25, 2002, 116 Stat. 2191; Pub. L. 108–458, title VII, §7303(h)(2), Dec. 17, 2004, 118 Stat. 3847; Pub. L. 112–166, §2(f)(1), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 114–125, title VIII, §802(g)(1)(B)(iv)(II), Feb. 24, 2016, 130 Stat. 212.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(aa), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security."
+<b>2016</b>—Subsec. (a). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(aa), amended subsec. (a) generally.Prior to amendment, text read as follows: "The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security."
 
 Subsec. (b). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(bb), struck out at end "The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security."
 
@@ -47,6 +49,8 @@ Subsec. (c)(7). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(cc), substituted "func
 <b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end of first sentence.
 
 <b>2004</b>—Subsec. (c)(9). Pub. L. 108–458 added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

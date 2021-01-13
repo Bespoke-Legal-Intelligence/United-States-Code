@@ -28,7 +28,7 @@ In addition to any other authority that the Secretary may have to defer principa
 
 #### (4) Failure to prevail
 
-&emsp;If a farmer or rancher does not prevail on a claim of discrimination described in paragraph\(1), the farmer or rancher shall be liable for any interest and offsets that accrued during the period that loan acceleration or foreclosure proceedings have been suspended under paragraph (1).
+&emsp;If a farmer or rancher does not prevail on a claim of discrimination described in paragraph (1), the farmer or rancher shall be liable for any interest and offsets that accrued during the period that loan acceleration or foreclosure proceedings have been suspended under paragraph (1).
 
 (Pub. L. 87–128, title III, §331A, as added Pub. L. 95–334, title I, §122, Aug. 4, 1978, 92 Stat. 427; amended Pub. L. 101–624, title XXIII, §2303(b), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 110–234, title XIV, §14002(a), May 22, 2008, 122 Stat. 1442; Pub. L. 110–246, §4(a), title XIV, §14002(a), June 18, 2008, 122 Stat. 1664, 2204.)
 

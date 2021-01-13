@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) coastal barriers along the Atlantic and Gulf coasts and along the shore areas of the Great Lakes of the United States and the adjacent wetlands, marshes, estuaries, inlets and nearshore waters provide—
+&emsp;(1) coastal barriers along the Atlantic and Gulf coasts and along the shore areas of theGreat Lakes of the United States and the adjacent wetlands, marshes, estuaries, inlets and nearshore waters provide—
 
 &emsp;&emsp;(A) habitats for migratory birds and other wildlife; and
 
@@ -14,7 +14,7 @@
 
 &emsp;(4) certain actions and programs of the Federal Government have subsidized and permitted development on coastal barriers and the result has been the loss of barrier resources, threats to human life, health, and property, and the expenditure of millions of tax dollars each year; and
 
-&emsp;(5) a program of coordinated action by Federal, State, and local governments is criticalto the more appropriate use and conservation of coastal barriers.
+&emsp;(5) a program of coordinated action by Federal, State, and local governments is critical to the more appropriate use and conservation of coastal barriers.
 
 (b) The Congress declares that it is the purpose of this chapter to minimize the loss of human life, wasteful expenditure of Federal revenues, and the damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf coasts and along the shore areas of the Great Lakes by restricting future Federal expenditures and financial assistance which have the effect of encouraging development of coastal barriers, by establishing the John H. Chafee Coastal Barrier Resources System, and by considering the means and measures by which the long-term conservation of these fish, wildlife, and other natural resources may be achieved.
 

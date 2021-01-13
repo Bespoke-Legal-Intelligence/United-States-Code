@@ -58,7 +58,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (3) Right to contribution not affected
 
-&emsp;Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendantfound under subsection (b)(1)(B), or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
+&emsp;Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B), or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
 
 #### (d) Special rules
 

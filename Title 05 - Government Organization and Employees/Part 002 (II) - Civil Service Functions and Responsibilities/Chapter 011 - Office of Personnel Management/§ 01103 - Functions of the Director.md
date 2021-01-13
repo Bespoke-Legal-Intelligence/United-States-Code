@@ -78,6 +78,8 @@ July 31, 1956, ch. 804, §201(b), 70 Stat. 742.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 added subsec. (c).
@@ -87,6 +89,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b)(4). Pub. L. 99–251, §302, added par. (4).
 
 <b>1978</b>—Pub. L. 95–454 substituted "Functions of the Director" for "Chairman; Vice Chairman; Executive Director" in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

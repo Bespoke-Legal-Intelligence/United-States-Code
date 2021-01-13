@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted "CYBER AND INFORMATION OPERATIONS MATTERS" for "CYBER MATTERS" in chapter heading and added item 397.
+<b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted "CYBER ANDINFORMATION OPERATIONS MATTERS" for "CYBER MATTERS" in chapter heading and added item 397.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1631(c)(2), Aug. 13, 2018, 132 Stat. 2123, added items 394 to 396.
 

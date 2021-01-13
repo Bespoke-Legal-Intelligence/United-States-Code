@@ -30,6 +30,8 @@ In subsection (a), the words "Notwithstanding any other provision of law" are om
 
 In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".

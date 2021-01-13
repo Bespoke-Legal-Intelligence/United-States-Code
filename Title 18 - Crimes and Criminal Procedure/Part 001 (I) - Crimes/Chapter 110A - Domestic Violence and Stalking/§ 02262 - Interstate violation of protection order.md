@@ -30,9 +30,11 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 (Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, §1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, §605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, §1107(c), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §117(b), Jan. 5, 2006, 119 Stat. 2989; Pub. L. 113–4, title I, §107(c), Mar. 7, 2013, 127 Stat. 78; Pub. L. 115–334, title XII, §12502(a)(2), Dec. 20, 2018, 132 Stat. 4982.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12502(a)(2)(A)(i), inserted "or the pet, service animal, emotional supportanimal, or horse of that person" after "another person".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12502(a)(2)(A)(i), inserted "or the pet, service animal, emotional support animal, or horse of that person" after "another person".
 
 Subsec. (a)(2). Pub. L. 115–334, §12502(a)(2)(A)(ii), inserted "or the pet, service animal, emotional support animal, or horse of that person" after "proximity to, another person".
 
@@ -63,6 +65,8 @@ Causing the crossing of a state line.—A person who causes a spouse or intimate
 <b>1996</b>—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted "violate this subparagraph" for "violate subparagraph (A)".
 
 Subsec. (b)(1) to (3). Pub. L. 104–201 substituted "victim" for "offender's spouse or intimate partner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

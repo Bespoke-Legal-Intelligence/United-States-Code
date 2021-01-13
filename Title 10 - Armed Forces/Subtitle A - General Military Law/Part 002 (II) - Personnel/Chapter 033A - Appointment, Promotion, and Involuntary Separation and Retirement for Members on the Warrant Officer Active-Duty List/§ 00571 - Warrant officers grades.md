@@ -84,7 +84,7 @@ Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Gr
 
 &emsp;"(C) holds a permanent grade higher than the temporary grade in which that warrant officer is serving;
 
-> shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment."
+> shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than the permanent grade asif such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, the appointment of that warrant officer to such grade shall be a temporary appointment."
 
 Pub. L. 102–190, div. A, title XI, §§1121–1124, Dec. 5, 1991, 105 Stat. 1503–1505, provided that:
 
@@ -168,10 +168,6 @@ Exceptions.—Subsection (a) does not apply to a regular warrant officer who—
 
 &emsp;"(3) is continued on active duty under section 580(e) of title 10, United States Code, as added by this title."
 
-#### Delegation of Functions
-
-Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
-
 #### Establishment of Permanent Grade of Chief Warrant Officer, W–5
 
 Pub. L. 103–337, div. A, title V, §541(a)(1), Oct. 5, 1994, 108 Stat. 2764, provided that: "The grade of chief warrant officer, W–5, is hereby established in the Coast Guard."
@@ -179,4 +175,8 @@ Pub. L. 103–337, div. A, title V, §541(a)(1), Oct. 5, 1994, 108 Stat. 2764, p
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Pub. L. 102–190, div. A, title XI, §1111(a), Dec. 5, 1991, 105 Stat. 1491, provided that: "The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps."
+
+#### Delegation of Functions
+
+Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
 

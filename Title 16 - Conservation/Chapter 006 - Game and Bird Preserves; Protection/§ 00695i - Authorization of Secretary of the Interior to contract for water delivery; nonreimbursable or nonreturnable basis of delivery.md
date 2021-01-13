@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (c) Reversionary rights of Secretary
 
-&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b), and the rights to all water contracted for by the organization or agency pursuant to sections 695d to 695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
+&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b), and the rights to all water contracted for by the organization or agency pursuant to sections 695d to695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
 
 #### (d) Restrictive covenants
 

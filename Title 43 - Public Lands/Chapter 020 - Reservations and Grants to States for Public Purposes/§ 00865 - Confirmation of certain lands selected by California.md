@@ -8,13 +8,17 @@ When the State of California has made such selections from the lands not surveye
 
 (R.S. §§2485–2487; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2485 derived from acts July 23, 1866, ch. 219, §1, 14 Stat. 218; Mar. 3, 1875, ch. 139, §7, 18 Stat. 475. R.S. §§2486, 2487 are from act July 23, 1866, ch. 219, §23, 14 Stat. 219.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-In second par., "register of the land office," changed to "officer, as the Secretary of the Interior may designate, of the land office,"; "registers of the several land offices," changed to "officers, as the Secretary may designate, of the several land offices,"; first reference to "Commissioner of the General Land Office" changed to "Secretary of the Interior, or such officer ashe may designate,"; "Bureau of Land Management" substituted for "General Land Office"; and second reference to "Commissioner of the General Land Office" changed to "Secretary or such officer", on authority of section 403 of Reorg. Plan No. 3 of 1946. In third par., "register" changed to "officer as the Secretary of the Interior may designate", and "Commissioner of the General Land Office" changed to "Secretary of the Interior or such officer as he may designate", on authority of that plan. See note set out under section 1 of this title.
+In second par., "register of the land office," changed to "officer, as the Secretary of the Interior may designate, of the land office,"; "registers of the several land offices," changed to "officers, as the Secretary may designate, of the several land offices,"; first reference to "Commissioner of the General Land Office" changed to "Secretary of the Interior, or such officer as he may designate,"; "Bureau of Land Management" substituted for "General Land Office"; and second reference to "Commissioner of the General Land Office" changed to "Secretary or such officer", on authority of section 403 of Reorg. Plan No. 3 of 1946. In third par., "register" changed to "officer as the Secretary of the Interior may designate", and "Commissioner of the General Land Office" changed to "Secretary of the Interior or such officer as he may designate", on authority of that plan. See note set out under section 1 of this title.
 

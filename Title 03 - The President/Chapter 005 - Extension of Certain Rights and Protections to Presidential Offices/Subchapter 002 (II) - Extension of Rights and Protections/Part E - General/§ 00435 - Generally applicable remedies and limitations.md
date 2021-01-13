@@ -2,7 +2,7 @@
 
 (a)
 
-Attorney's Fees.—If a covered employee, with respect to any claim under this chapter, ora qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
+Attorney's Fees.—If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney's fees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
 
 (b)
 
@@ -45,6 +45,8 @@ Size limitations.—Notwithstanding paragraph (1), provisions in the laws made a
 Political Affiliation.—It shall not be a violation of any provision of this chapter to consider, or make any employment decision based on, the party affiliation, or political compatibility with the employing office, of an employee who is a covered employee.
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4066.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

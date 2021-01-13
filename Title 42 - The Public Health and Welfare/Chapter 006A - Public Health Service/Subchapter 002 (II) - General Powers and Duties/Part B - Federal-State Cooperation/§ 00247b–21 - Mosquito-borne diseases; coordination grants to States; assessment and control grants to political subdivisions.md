@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(iv) a public health emergency due to the incidence or prevalence of a mosquito-borne disease that presents a serious public health threat;
 
-&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium of political subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
+&emsp;&emsp;(B) demonstrates to the Secretary that such political subdivision or consortium ofpolitical subdivisions will, if appropriate to the mosquito circumstances involved, effectively coordinate the activities of the control programs with contiguous political subdivisions;
 
 &emsp;&emsp;(C) demonstrates to the Secretary (directly or through State officials) that the State in which such a political subdivision or consortium of political subdivisions is located has identified or will identify geographic areas in such State that have a significant need for control programs and will effectively coordinate such programs in such areas; and
 

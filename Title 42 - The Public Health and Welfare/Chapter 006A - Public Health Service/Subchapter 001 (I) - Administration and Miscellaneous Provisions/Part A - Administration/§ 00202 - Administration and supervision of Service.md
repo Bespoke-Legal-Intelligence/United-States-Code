@@ -162,7 +162,7 @@ The White House, April 25, 1966.
 
 #### Executive Order No. 10506
 
-Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating to the Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
+Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating tothe Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
 
 #### Ex. Ord. No. 11140. Delegation of Functions
 
@@ -172,7 +172,7 @@ By virtue of the authority vested in me by Section 301 of Title 3 of the United 
 
 Section 1. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the following-described functions vested in the President under the Public Health Service Act (58 Stat. 682), as amended \[42 U.S.C. 201 et seq.\]:
 
-(a) The authority under Section 203 (42 U.S.C. 204): to appoint commissioned officers of the Reserve Corps.
+(a) The authority under Section 203 (42 U.S.C. 204): to appoint commissioned officers of the Reserve Corps \[now Ready Reserve Corps\].
 
 (b) The authority under Section 206(b) (42 U.S.C. 207(b)) to prescribe titles, appropriate to the several grades, for commissioned officers of the Public Health Service other than medical officers.
 
@@ -186,13 +186,13 @@ Section 1. The Secretary of Health and Human Services is hereby authorized and e
 
 (g) The authority under Sections 321(a) and 364(a) (42 U.S.C. 248(a) and 267(a)) to approve the selection of suitable sites for and the establishment of additional institutions, hospitals, stations, grounds, and anchorages; subject, however, to the approval of the Director of the Office of Management and Budget, except as he may otherwise provide.
 
-Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps.
+Sec. 2. The Surgeon General is hereby authorized and empowered, without the approval, ratification, or other action of the President, to perform the function vested in the President by Sections 203 and 207(a)(2) of the Public Health Service Act (58 Stat. 683, 685), as amended (42 U.S.C. 204 and 209(a)(2)), or otherwise, of accepting voluntary resignations of commissioned officers of the Regular Corps or the Reserve Corps \[now Ready Reserve Corps\].
 
 Sec. 3. The Secretary of Health and Human Services is hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise the authority vested in the President by Section 704 of Title 37 of the United States Code to prescribe regulations.
 
 Sec. 4. The Secretary of Health and Human Services is hereby authorized to redelegate all or any part of the functions set forth under (a), (b), (c), and (d) of Section 1 hereof to the Surgeon General of the Public Health Service or other official of that Service who is required to be appointed by and with the advice and consent of the Senate.
 
-Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approvedwith respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 5. All actions heretofore taken by appropriate authority with respect to the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 6. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 

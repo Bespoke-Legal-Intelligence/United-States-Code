@@ -22,13 +22,15 @@
 
 (Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, §1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, §8(a)(8), June 5, 2001, 115 Stat. 35.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–14 substituted "paragraph (1)" for "clause (1)".
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–368 struck out "after the 18-month period beginning on the date of the enactment of this section" after "section 3674(a) of this title" in introductory provisions.
 
-<b>1994</b>—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "supervise functionally the provision of course-approval services by State approving agencies under this subchapter;".
+<b>1994</b>—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively,and struck out former par. (3) which read as follows: "supervise functionally the provision of course-approval services by State approving agencies under this subchapter;".
 
 Subsec. (b). Pub. L. 103–446, §606(c)(2)(A), substituted "subsection (a)(4)" for "subsection (a)(5) of this section" in pars. (1)(A) and (2).
 
@@ -41,6 +43,8 @@ Subsec. (a)(2), (5). Pub. L. 102–83, §5(c)(1), substituted "3674" for "1774" 
 Subsec. (b)(1). Pub. L. 102–83, §5(c)(1), substituted "3674(a)" for "1774(a)" in introductory provisions and in subpar. (B).
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

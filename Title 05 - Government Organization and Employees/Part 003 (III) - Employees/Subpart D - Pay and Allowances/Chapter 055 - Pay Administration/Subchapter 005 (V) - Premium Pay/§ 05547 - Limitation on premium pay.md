@@ -16,7 +16,7 @@
 
 (3) Subject to regulations prescribed by the Office of Personnel Management, the head of an agency may determine that subsection (a) shall not apply to an employee who is paid premium pay to perform work that is critical to the mission of the agency. Such employees may be paid premium pay under the provisions of law cited in subsection (a) if, or to the extent that, the aggregate of the basic pay and premium pay under those provisions for such employee would not, in any calendar year, exceed the greater of—
 
-&emsp;(A) the maximum rate of basic pay payable for GS–15 in effect at the end of such calendar year (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
+&emsp;(A) the maximum rate of basic pay payable for GS–15 in effect at the end of such calendar year (including any applicable locality-basedcomparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
@@ -62,6 +62,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 In the codification of 5 U.S.C. 5547, the words "premium pay under this subchapter" were substituted for "premium compensation provided by this Act" appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–15, referred to in subsecs. (a)(1) and (b)(2)(A), (3)(A), is contained in the General Schedule which is set out under section 5332 of this title.
@@ -94,7 +96,7 @@ Subsec. (e). Pub. L. 113–277, §2(g)(1)(B), added subsec. (e).
 
 <b>1992</b>—Subsec. (c)(3). Pub. L. 102–378 struck out par. (3) which read as follows: "For the purposes of this subsection, 'law enforcement officer' means any law enforcement officer within the meaning of section 8331(20) or section 8401(17)."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–15".
+<b>1990</b>—Subsec. (a). Pub. L. 101–509, §529 \[title II, §204(1)\], inserted "(including any applicable locality-based comparability payment under section 5304 orsimilar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–15".
 
 Subsec. (b). Pub. L. 101–509, §529 \[title II, §204(2)\], amended subsec. (b) generally, substituting present provisions for former provisions consisting of pars. (1) to (3) that related to pay of forest firefighters working on forest wildfire emergencies.
 
@@ -105,6 +107,8 @@ Subsec. (c). Pub. L. 101–509, §529 \[title IV, §410(b)\], added subsec. (c).
 <b>1984</b>—Pub. L. 98–525 inserted "or the Department of Defense".
 
 <b>1982</b>—Pub. L. 97–276 inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under section 5546a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -138,19 +142,71 @@ Amendment by Pub. L. 97–276 effective at 5 o'clock ante meridian eastern dayli
 
 Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: "That this Act \[amending this section\] may be cited as the 'Forest Wildfire Emergency Pay Equity Act of 1988'."
 
+#### Premium Pay Authority for Services Related to Preparation, Prevention, or Response to Coronavirus
+
+Pub. L. 116–260, div. M, title III, §303, Dec. 27, 2020, 134 Stat. 1922, provided that:
+
+"(a) If services performed by an employee during 2020 and 2021 are determined by the head of the agency to be primarily related to preparation, prevention, or response to coronavirus, any premium pay for such services shall be disregarded in calculating the aggregate of such employee's basic pay and premium pay for purposes of a limitation under section 5547(a) of title 5, United States Code, or under any other provision of law, whether such employees pay is paid on a biweekly or calendar year basis.
+
+"(b) Any overtime pay for such services shall be disregarded in calculating any annual limit on the amount of overtime pay payable in a calendar or fiscal year.
+
+"(c) With regard to such services, any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee's aggregate pay for purposes of the limitation in section 5307 of such title 5.
+
+"(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee's basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code, as in effect at the end of such calendar year.
+
+"(2) For purposes of applying this subsection to an employee who would otherwise be subject to the premium pay limits established under section 5547 of title 5, United States Code, 'premium pay' means the premium pay paid under the provisions of law cited in section 5547(a).
+
+"(3) For purposes of applying this subsection to an employee under a premium pay limit established under an authority other than section 5547 of title 5, United States Code, the agency responsible for administering such limit shall determine what payments are considered premium pay.
+
+"(e) This section shall take effect as if enacted on February 2, 2020.
+
+"(f) If application of this section results in the payment of additional premium pay to a covered employee of a type that is normally creditable as basic pay for retirement or any other purpose, that additional pay shall not—
+
+&emsp;"(1) be considered to be basic pay of the covered employee for any purpose; or
+
+&emsp;"(2) be used in computing a lump-sum payment to the covered employee for accumulated and accrued annual leave under section 5551 or section 5552 of title 5, United States Code."
+
+\[For definition of "coronavirus" as used in section 303 of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out below.\]
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–136, div. B, title VIII, §18110, Mar. 27, 2020, 134 Stat. 572.
+
+Pub. L. 116–136, div. B, title VI, §16003, Mar. 27, 2020, 134 Stat. 544, provided that:
+
+"(a)
+
+Premium Pay Authority.—If services performed during fiscal year 2020 are determined by the head of the agency to be primarily related to preparation, prevention, or response to coronavirus, any premium pay that is funded, either directly or through reimbursement, by the Federal Emergency Management Agency shall be exempted from the aggregate of basic pay and premium pay calculated under section 5547(a) of title 5, United States Code, and any other provision of law limiting the aggregate amount of premium pay payable on a biweekly or calendar year basis.
+
+"(b)
+
+Overtime Authority.—Any overtime that is funded for such services described in subsection (a), either directly or through reimbursement, by the Federal Emergency Management Agency shall be exempted from any annual limit on the amount of overtime payable in a calendar or fiscal year.
+
+"(c)
+
+Applicability of Aggregate Limitation on Pay.—In determining whether an employee's pay exceeds the applicable annual rate of basic pay payable under section 5307 of title 5, United States Code, the head of an Executive agency shall not include pay exempted under this section.
+
+"(d)
+
+Limitation of Pay Authority.—Pay exempted from otherwise applicable limits under subsection (a) shall not cause the aggregate pay earned for the calendar year in which the exempted pay is earned to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code.
+
+"(e)
+
+Effective Date.—This section shall take effect as if enacted on January 1, 2020."
+
 #### Overtime Pay for Protective Services
 
-Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121, provided that:
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121; Pub. L. 116–269, §2(a), Dec. 30, 2020, 134 Stat. 3323, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
 "This Act may be cited as the 'Overtime Pay for Protective Services Act of 2016'.
 
-#### "SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2020 FOR PROTECTIVE SERVICES.
+#### "SEC. 2. PREMIUM PAY EXCEPTION DURING 2016 THROUGH 2023 FOR PROTECTIVE SERVICES.
 
 "(a)
 
-Definition.—In this section, the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during 2016, 2017, 2018, 2019, or 2020.
+Definition.—In this section, the term 'covered employee' means any officer, employee, or agent employed by the United States Secret Service who performs protective services for an individual or event protected by the United States Secret Service during any of calendar years 2016 through 2023.
 
 "(b)
 
@@ -158,7 +214,7 @@ Exception to the Limitation on Premium Pay for Protective Services.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during 2016, 2017, 2018, 2019, and 2020, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
+In general.—Notwithstanding any other provision of law, including section 5547(a) of title 5, United States Code, and only to the extent that an appropriation is provided specifically in an appropriations Act for premium pay for a given calendar year in excess of the annual equivalent of the limitation on the rate of pay contained in section 5547(a), any covered employee may receive premium pay during each of calendar years 2016 through 2023, to the extent provided under section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note).
 
 &emsp;"(2)
 
@@ -191,4 +247,8 @@ Similar provisions were contained in Pub. L. 106–58, title I, §118, Sept. 29,
 \[Pub. L. 115–160, §2(b), Apr. 3, 2018, 132 Stat. 1246, provided that: "The amendments made by subsection (a) \[amending Pub. L. 114–311 and section 1(a)(3) \[title I, §118\] of Pub. L. 106–554, set out above\] shall take effect as if enacted on December 31, 2016."\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### Definition of Coronavirus in Pub. L. 116–260
+
+Pub. L. 116–260, §8, Dec. 27, 2020, 134 Stat. 1185, provided that: "In divisions A through M of this Act \[divs. A to M of Pub. L. 116–260, see Tables for classification\], the term 'coronavirus' means SARS–CoV–2 or another coronavirus with pandemic potential."
 

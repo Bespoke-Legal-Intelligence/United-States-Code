@@ -1,5 +1,7 @@
 ### §754. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §14, 68 Stat. 1103, which related to advances or expenditures from tribal funds pending completion of property dispositions, was omitted from the Code as being of special and not general application.

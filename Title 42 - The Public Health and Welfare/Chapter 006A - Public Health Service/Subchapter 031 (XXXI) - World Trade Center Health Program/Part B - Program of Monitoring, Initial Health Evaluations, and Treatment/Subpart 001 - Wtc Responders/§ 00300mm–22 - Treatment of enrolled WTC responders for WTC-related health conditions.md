@@ -132,7 +132,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the WTC Program Administrator determines that a proposed ruleshould be promulgated to add a health condition to the list of health conditions in paragraph (3), the Administrator may request a recommendation of the Advisory Committee or may publish such a proposed rule in the Federal Register in accordance with subparagraph (D).
+&emsp;&emsp;Whenever the WTC Program Administrator determines that a proposed rule should be promulgated to add a health condition to the list of health conditions in paragraph (3), the Administrator may request a recommendation of the Advisory Committee or may publish such a proposed rule in the Federal Register in accordance with subparagraph (D).
 
 #### (B) Administrator's options after receipt of petition
 
@@ -148,7 +148,7 @@
 
 #### (C) Action by Advisory Committee
 
-&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committeeshall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
 
 #### (D) Publication
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the medical facts supporting such determination; and
 
-&emsp;&emsp;&emsp;(ii) on and after the date of such transmittal and subject to subparagraph (B),the WTC Program shall provide for payment under subsection (c) for medically necessary treatment for such condition.
+&emsp;&emsp;&emsp;(ii) on and after the date of such transmittal and subject to subparagraph (B), the WTC Program shall provide for payment under subsection (c) for medically necessary treatment for such condition.
 
 #### (B) Review; certification; appeals
 
@@ -214,7 +214,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a physician at a Clinical Center of Excellence determines pursuant to subsection (a) that the enrolled WTC responder has a health condition described in subsection (a)(1)(A) that is not in the list in subsection (a)(3) but which is medically associated with a WTC-related health condition—
+&emsp;&emsp;If a physician at a Clinical Center of Excellence determines pursuant to subsection\(a) that the enrolled WTC responder has a health condition described in subsection (a)(1)(A) that is not in the list in subsection (a)(3) but which is medically associated with a WTC-related health condition—
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the facts supporting such determination; and
 
@@ -320,7 +320,7 @@
 
 #### (A) Review of medical necessity and protocols
 
-&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for the review of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medicallynecessary and in accordance with medical treatment protocols established under subsection (d).
+&emsp;&emsp;As part of the process for reimbursement or payment under this subsection, the WTC Program Administrator shall provide for the review of claims for reimbursement or payment for the provision of medical treatment to determine if such treatment is medically necessary and in accordance with medical treatment protocols established under subsection (d).
 
 #### (B) Withholding of payment for medically unnecessary treatment
 
@@ -340,7 +340,7 @@
 
 #### References in Text
 
-The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is act Sept. 7, 1916, ch. 458, 39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is act Sept. 7, 1916, ch. 458,39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

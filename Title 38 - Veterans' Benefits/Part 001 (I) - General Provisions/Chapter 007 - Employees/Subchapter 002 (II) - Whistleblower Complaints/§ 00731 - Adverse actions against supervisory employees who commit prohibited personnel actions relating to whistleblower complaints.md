@@ -48,6 +48,8 @@ Whistleblower Disclosure Defined.—In this section, the term "whistleblower dis
 
 (Added Pub. L. 114–223, div. A, title II, §247(a)(1), Sept. 29, 2016, 130 Stat. 887, §733; renumbered §731 and amended Pub. L. 115–41, title I, §102(a)(2), (c), title II, §206, June 23, 2017, 131 Stat. 865, 867, 877.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 731, added Pub. L. 114–223, div. A, title II, §247(a)(1), Sept. 29, 2016, 130 Stat. 884, defined whistleblower complaint, prior to repeal by Pub. L. 115–41, title I, §102(a)(1), June 23, 2017, 131 Stat. 865.
@@ -67,6 +69,8 @@ Subsec. (c)(1)(C) to (F). Pub. L. 115–41, §102(c)(1)(A)(ii), redesignated sub
 Subsec. (c)(2). Pub. L. 115–41, §102(c)(1)(B), substituted "through (E)" for "through (F)".
 
 Subsec. (d). Pub. L. 115–41, §102(c)(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Improvement of Training for Supervisors
 

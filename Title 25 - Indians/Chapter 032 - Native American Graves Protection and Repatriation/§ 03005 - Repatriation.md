@@ -16,7 +16,7 @@
 
 &emsp;(B) the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the tribe or organization; or
 
-&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacred object was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
+&emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacredobject was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
 
 #### (b) Scientific study
 
@@ -40,9 +40,11 @@ Any museum which repatriates any item in good faith pursuant to this chapter sha
 
 (Pub. L. 101–601, §7, Nov. 16, 1990, 104 Stat. 3054.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code,see Short Title note set out under section 3001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -30,11 +30,13 @@
 
 (2) A decision under paragraph (1) to treat a period of qualified non-Federal service as if it were service performed as an employee shall continue to apply so long as that individual serves in or under the Administration.
 
-(c)(1) Notwithstanding section 6303(a), the annual leave accrual rate for an employee of the Administration in a position paid under section 5376 or 5383, or for an employee in an equivalent category whose rate of basic pay is greater than the rate payable at GS–15, step 10, shall be 1 day for each full biweekly pay period.
+(c)(1) Notwithstanding section 6303(a), the annual leave accrual rate for an employee of theAdministration in a position paid under section 5376 or 5383, or for an employee in an equivalent category whose rate of basic pay is greater than the rate payable at GS–15, step 10, shall be 1 day for each full biweekly pay period.
 
 (2) The accrual rate established under this subsection shall continue to apply to the employee so long as such employee serves in or under the Administration.
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 472.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

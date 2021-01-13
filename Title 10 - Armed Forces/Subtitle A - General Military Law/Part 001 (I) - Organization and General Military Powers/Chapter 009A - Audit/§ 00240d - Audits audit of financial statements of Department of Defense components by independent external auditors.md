@@ -44,7 +44,7 @@ Relationship to Existing Law.—The requirements of this section—
 
 &emsp;(2) shall not be construed to limit or alter the authorities of the Comptroller General of the United States under section 3521(g) of title 31.
 
-(Added and amended Pub. L. 115–91, div. A, title X, §1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, §254; renumbered §240d, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
+(Added and amended Pub. L. 115–91, div. A, title X, §1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541,§254; renumbered §240d, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
 #### Codification
 

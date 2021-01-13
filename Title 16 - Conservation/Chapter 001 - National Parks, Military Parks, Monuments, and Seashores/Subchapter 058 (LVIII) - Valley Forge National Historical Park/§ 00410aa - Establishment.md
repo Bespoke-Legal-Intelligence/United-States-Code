@@ -6,7 +6,7 @@ In order to preserve and commemorate for the people of the United States the are
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–86, §1, Oct. 31, 1999, 113 Stat. 1298, provided that: "This Act \[enacting provisions set out as a note under this section\] may be cited as the 'Pennsylvania Battlefields Protection Act of 1999'."
+Pub. L. 106–86, §1, Oct. 31, 1999, 113 Stat. 1298, provided that: "This Act \[enacting provisions set out as a noteunder this section\] may be cited as the 'Pennsylvania Battlefields Protection Act of 1999'."
 
 #### Valley Forge National Historical Park
 

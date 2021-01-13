@@ -2,13 +2,15 @@
 
 #### (a) Regulations; regulations under other provisions unaffected
 
-Each licensee shall establish and maintain such records, make such reports, and provide such information as the Secretary, after consultation with other interested Federal departments and agencies, shall by regulation prescribe to carry out the provision of this chapter. Such regulations shall not amend, contradict or duplicate regulations established pursuant topart I of the Interstate Commerce Act or any other law. Each licensee shall submit such reports and shall make such records and information available as the Secretary may request.
+Each licensee shall establish and maintain such records, make such reports, and provide such information as the Secretary, after consultation with other interested Federal departments and agencies, shall by regulation prescribe to carry out the provision of this chapter. Such regulations shall not amend, contradict or duplicate regulations established pursuant to part I of the Interstate Commerce Act or any other law. Each licensee shall submit such reports and shall make such records and information available as the Secretary may request.
 
 #### (b) Access to deepwater ports in enforcement proceedings and execution of official duties; inspections and tests; notification of results
 
 All United States officials, including those officials responsible for the implementation and enforcement of United States laws applicable to a deepwater port, shall at all times be afforded reasonable access to a deepwater port licensed under this chapter for the purpose of enforcing laws under their jurisdiction or otherwise carrying out their responsibilities. Each such official may inspect, at reasonable times, records, files, papers, processes, controls, and facilities and may test any feature of a deep water port. Each inspection shall be conducted with reasonable promptness, and such licensee shall be notified of the results of such inspection.
 
 (Pub. L. 93–627, §13, Jan. 3, 1975, 88 Stat. 2139.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

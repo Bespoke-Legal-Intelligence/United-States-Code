@@ -12,7 +12,7 @@
 
 #### (b) Privacy safeguards
 
-The Security Executive Agent and the Suitability and Credentialing Executive Agent shall ensure that the Program includes such safeguards for privacy as the Security Executive Agent and the Suitability and Credentialing Executive Agent consider appropriate.
+The Security Executive Agent and the Suitability and Credentialing Executive Agent shallensure that the Program includes such safeguards for privacy as the Security Executive Agent and the Suitability and Credentialing Executive Agent consider appropriate.
 
 #### (c) Provision of information to the Federal Government
 

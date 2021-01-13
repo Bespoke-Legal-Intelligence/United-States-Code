@@ -4,7 +4,7 @@
 
 #### (1) Referral
 
-&emsp;If the contracting or grant officer of an executive agency for a grant, contract, or cooperative agreement receives credible information that a recipient of the grant, contract, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of such a subgrantee or subcontractor, has engaged in an activity described in section 7104(g) of this title, as amended by section 1702, including a report from a contracting officer representative, an auditor, an alleged victim or victim's representative, or any other credible source, the contracting or grant officer shall promptly refer the matter to the agency's Office of Inspector General for investigation. The contracting officer may also direct the contractorto take specific steps to abate an alleged violation or enforce the requirements of a compliance plan implemented pursuant to section 7104a of this title.
+&emsp;If the contracting or grant officer of an executive agency for a grant, contract, or cooperative agreement receives credible information that a recipient of the grant, contract, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of such a subgrantee or subcontractor, has engaged in an activity described in section 7104(g) of this title, as amended by section 1702, including a report from a contracting officer representative, an auditor, an alleged victim or victim's representative, or any other credible source, the contracting or grant officer shall promptly refer the matter to the agency's Office of Inspector General for investigation. The contracting officer may also direct the contractor to take specific steps to abate an alleged violation or enforce the requirements of a compliance plan implemented pursuant to section 7104a of this title.
 
 #### (2) Investigation
 
@@ -60,6 +60,8 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 (Pub. L. 112–239, div. A, title XVII, §1704, Jan. 2, 2013, 126 Stat. 2094.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7104(g) of this title, as amended by section 1702, referred to in subsecs. (a)(1), (2), (b), and (c)(1), means section 7104(g) of this title, as amended by section 1702 of Pub. L. 112–239.
@@ -69,6 +71,8 @@ Section 7104(g) of this title, as amended by section 1702, referred to in subsec
 Section is comprised of section 1704 of Pub. L. 112–239. Subsec. (d)(2) of section 1704 of Pub. L. 112–239 amended section 2313 of Title 41, Public Contracts.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

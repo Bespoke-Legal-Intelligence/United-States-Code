@@ -14,6 +14,8 @@ Section consolidates sections 444 and 445 of said title 18, U.S.C., 1940 ed., wi
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–386 substituted "20 years" for "10 years" and inserted at end "If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both."
@@ -21,6 +23,8 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208 substituted "10 years" for "five years".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

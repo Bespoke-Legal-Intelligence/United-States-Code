@@ -42,7 +42,7 @@ In connection with a consumer credit transaction secured by a consumer's princip
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board,the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
+&emsp;Except as provided under paragraph (2), the Board, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the National Credit Union Administration Board, the Federal Housing Finance Agency, and the Bureau may jointly issue rules, interpretive guidelines, and general statements of policy with respect to acts or practices that violate appraisal independence in the provision of mortgage lending services for a consumer credit transaction secured by the principal dwelling of the consumer and mortgage brokerage services for such a transaction, within the meaning of subsections (a), (b), (c), (d), (e), (f), (h), and (i).
 
 #### (2) Interim final regulations
 
@@ -66,7 +66,7 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 &emsp;&emsp;&emsp;(i) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
 
-&emsp;&emsp;&emsp;(ii) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;&emsp;(ii) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee forperforming appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
 
 #### (B) Rule of construction related to appraisal donations
 

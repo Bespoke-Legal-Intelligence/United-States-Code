@@ -18,7 +18,7 @@ Nothing in subsection (a) shall apply to—
 
 (1) Every person who in pursuance of an order required under subsection (a) distributes a controlled substance shall preserve such order for a period of two years, and shall make such order available for inspection and copying by officers and employees of the United States duly authorized for that purpose by the Attorney General, and by officers or employees of States or their political subdivisions who are charged with the enforcement of State or local laws regulating the production, or regulating the distribution or dispensing, of controlled substances and who are authorized under such laws to inspect such orders.
 
-(2) Every person who gives an order required under subsection (a) shall, at or before the time of giving such order, make or cause to be made a duplicate thereof on a form to be issued by the Attorney General in blank in accordance with subsection (d) and regulations prescribed by him pursuant to this section, and shall, if such order is accepted, preserve such duplicate for a period of two years and make it available for inspection and copying by the officers and employees mentioned in paragraph (1) of this subsection.
+(2) Every person who gives an order required under subsection (a) shall, at or before the timeof giving such order, make or cause to be made a duplicate thereof on a form to be issued by the Attorney General in blank in accordance with subsection (d) and regulations prescribed by him pursuant to this section, and shall, if such order is accepted, preserve such duplicate for a period of two years and make it available for inspection and copying by the officers and employees mentioned in paragraph (1) of this subsection.
 
 #### (d) Issuance
 
@@ -32,6 +32,8 @@ It shall be unlawful for any person to obtain by means of order forms issued und
 
 (Pub. L. 91–513, title II, §308, Oct. 27, 1970, 84 Stat. 1259; Pub. L. 111–273, §3(b), Oct. 12, 2010, 124 Stat. 2860.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of this title.
@@ -39,6 +41,8 @@ Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(3). Pub. L. 111–273 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

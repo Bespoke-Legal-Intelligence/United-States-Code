@@ -36,7 +36,7 @@
 
 &emsp;(A) contributions to a named candidate made to any political committee authorized by such candidate to accept contributions on his behalf shall be considered to be contributions made to such candidate;
 
-&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, orat the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
+&emsp;(B)(i) expenditures made by any person in cooperation, consultation, or concert, with, or at the request or suggestion of, a candidate, his authorized political committees, or their agents, shall be considered to be a contribution to such candidate;
 
 &emsp;(ii) expenditures made by any person (other than a candidate or candidate's authorized committee) in cooperation, consultation, or concert with, or at the request or suggestion of, a national, State, or local committee of a political party, shall be considered to be contributions made to such party committee; and
 
@@ -148,7 +148,7 @@ During the first week of January 1975, and every subsequent year, the Secretary 
 
 #### (f) Prohibited contributions and expenditures
 
-No candidate or political committee shall knowingly accept any contribution or make any expenditure in violation of the provisions of thissection. No officer or employee of a political committee shall knowingly accept a contribution made for the benefit or use of a candidate, or knowingly make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this section.
+No candidate or political committee shall knowingly accept any contribution or make any expenditure in violation of the provisions of this section. No officer or employee of a political committee shall knowingly accept a contribution made for the benefit or use of a candidate, or knowingly make any expenditure on behalf of a candidate, in violation of any limitation imposed on contributions and expenditures under this section.
 
 #### (g) Attribution of multi-State expenditures to candidate's expenditure limitation in each State
 
@@ -224,7 +224,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee duringany election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
 
 #### (2) Time to accept contributions under increased limit
 
@@ -255,6 +255,8 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 Any candidate who incurs personal loans made after the effective date of the Bipartisan Campaign Reform Act of 2002 in connection with the candidate's campaign for election shall not repay (directly or indirectly), to the extent such loans exceed $250,000, such loans from any contributions made to such candidate or any authorized committee of such candidate after the date of such election.
 
 (Pub. L. 92–225, title III, §315, formerly §320, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 486; renumbered §315, Pub. L. 96–187, title I, §105(5), Jan. 8, 1980, 93 Stat. 1354; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–155, title I, §102, title II, §§202, 213, 214(a), title III, §§304(a), 307(a)–(d), 316, 319(b), Mar. 27, 2002, 116 Stat. 86, 90, 94, 97, 102, 103, 108, 112; Pub. L. 113–235, div. N, §101(a), (b), Dec. 16, 2014, 128 Stat. 2772, 2773.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -319,6 +321,8 @@ Subsec. (i)(1)(E). Pub. L. 107–155, §316, added subpar. (E).
 Subsec. (j). Pub. L. 107–155, §304(a)(2), added subsec. (j).
 
 <b>1986</b>—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

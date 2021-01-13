@@ -36,7 +36,7 @@ Establishment of Trust Fund.—There is established in the Treasury of the Unite
 
 Distribution of Funds.—From amounts in the Trust Fund, the Secretary \[of Agriculture\] shall make payments annually beginning in calendar year 2014 for calendar years 2014 through 2023 as follows:
 
-&emsp;"(1) Twenty-five percent of the amounts in the Trust Fund shall be paid to one or more nationally recognized associations established for the promotion of pima cotton for use in textile and apparel goods.
+&emsp;"(1) Twenty-five percent of the amounts in the Trust Fund shall be paid to one or more nationallyrecognized associations established for the promotion of pima cotton for use in textile and apparel goods.
 
 &emsp;"(2)(A) Except as provided in subparagraph (B), twenty-five percent of the amounts in the Trust Fund shall be paid to yarn spinners of pima cotton that produce ring spun cotton yarns in the United States, to be allocated to each spinner in an amount that bears the same ratio as—
 
@@ -86,7 +86,7 @@ In general.—The affidavit required by subsection (b)(3)(A) is a notarized affi
 
 &emsp;&emsp;"(B) the dollar value of imported woven cotton shirting fabric of 80s or higher count and 2-ply in warp purchased by the manufacturer during the prior calendar year;
 
-&emsp;&emsp;"(C) that the manufacturer maintains invoices along with other supporting documentation (suchas price lists and other technical descriptions of the fabric qualities) showing the dollar value of such fabric purchased, the date of purchase, and evidencing the fabric as woven cotton fabric of 80s or higher count and 2-ply in warp; and
+&emsp;&emsp;"(C) that the manufacturer maintains invoices along with other supporting documentation (such as price lists and other technical descriptions of the fabric qualities) showing the dollar value of such fabric purchased, the date of purchase, and evidencing the fabric as woven cotton fabric of 80s or higher count and 2-ply in warp; and
 
 &emsp;&emsp;"(D) that the fabric was suitable for use in the manufacturing of men's and boys' cotton shirts.
 

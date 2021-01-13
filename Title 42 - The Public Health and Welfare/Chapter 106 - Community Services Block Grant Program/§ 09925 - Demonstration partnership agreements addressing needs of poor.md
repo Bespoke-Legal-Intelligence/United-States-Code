@@ -76,7 +76,7 @@ As used in this section—
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c).
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f),<sup>1</sup> the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f),<sup>1</sup> the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) foradministration of the program as well as for planning and technical assistance.
 
 (Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 Stat. 972; Pub. L. 101–204, title VII, §705, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 101–501, title VI, §§601, 602, Nov. 3, 1990, 104 Stat. 1257, 1258; Pub. L. 103–252, title II, §207, May 18, 1994, 108 Stat. 656.)
 
@@ -116,7 +116,7 @@ Subsec. (f). Pub. L. 101–501, §601(1), (2), redesignated subsec. (e) as (f) a
 
 Subsec. (g). Pub. L. 101–501, §601(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 101–501, §§601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par. (1), substituted "$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years1992, 1993, and 1994" for "$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990", inserted "(other than subsection (c) of this section)" before period at end, and added par. (2).
+Subsec. (h). Pub. L. 101–501, §§601(2), 602, redesignated subsec. (g) as (h), designated existing provisions as par. (1), substituted "$10,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992, 1993, and 1994" for "$5,000,000 for each of the fiscal years 1987, 1988, and 1989, and $7,000,000 for fiscal year 1990", inserted "(other than subsection (c) of this section)" before period at end, and added par. (2).
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–204, §705(a)(1), substituted "stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor" for "provide for the self-sufficiency of the Nation's poor".
 
@@ -132,7 +132,7 @@ Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). F
 
 Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) ", except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section".
 
-Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted "are" for "is", and inserted "and $7,000,000 for fiscal year 1990," after "1989,".
+Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted "are" for "is", andinserted "and $7,000,000 for fiscal year 1990," after "1989,".
 
 #### Effective Date of 1994 Amendment
 

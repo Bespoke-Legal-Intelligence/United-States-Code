@@ -4,9 +4,13 @@ Review of a decision of the United States Court of Federal Claims shall be obtai
 
 (Added Pub. L. 97–164, title I, §139(q)(1), Apr. 2, 1982, 96 Stat. 44; amended Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

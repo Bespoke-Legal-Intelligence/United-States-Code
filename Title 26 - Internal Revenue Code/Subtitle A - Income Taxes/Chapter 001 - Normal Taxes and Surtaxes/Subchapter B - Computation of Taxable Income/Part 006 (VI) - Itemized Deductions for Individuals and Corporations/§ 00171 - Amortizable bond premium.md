@@ -28,7 +28,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 &emsp;&emsp;(ii) with reference to the amount payable on maturity or on an earlier call date, in the case of a bond described in subsection (a)(2).
 
-&emsp;&emsp;(C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as of which subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
+&emsp;&emsp;(C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as ofwhich subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
 
 > &emsp;In no case shall the amount of bond premium on a convertible bond include any amount attributable to the conversion features of the bond.
 
@@ -92,7 +92,7 @@ Except as provided in regulations, in the case of any taxable bond—
 
 #### (f) Dealers in tax-exempt securities
 
-&emsp;&emsp;<b>For special rules applicable, in the case of dealers in securities, with respect to premium attributable to certain wholly tax-exempt securities, see section 75.</b>
+&emsp;&emsp;<b>For special rules applicable, in the case of dealers in securities, with respect to premium attributable</b><b>to certain wholly tax-exempt securities, see section 75.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 61; Pub. L. 85–866, title I, §13(a), Sept. 2, 1958, 72 Stat. 1610; Pub. L. 94–455, title XIX, §§1901(b)(1)(E), 1906(b)(13)(A), 1951(b)(5)(A), Oct. 4, 1976, 90 Stat. 1790, 1834, 1837; Pub. L. 99–514, title VI, §643(a), title XVIII, §1803(a)(11)(A), (B), (12)(A), Oct. 22, 1986, 100 Stat. 2285, 2795; Pub. L. 100–647, title I, §1006(j)(1)(A), Nov. 10, 1988, 102 Stat. 3411; Pub. L. 108–357, title IV, §413(c)(2), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(29), Dec. 19, 2014, 128 Stat. 4041.)
 
@@ -172,7 +172,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations."
+Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, suchelection shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations."
 
 Pub. L. 99–514, title XVIII, §1803(a)(11)(C), Oct. 22, 1986, 100 Stat. 2795, provided that:
 

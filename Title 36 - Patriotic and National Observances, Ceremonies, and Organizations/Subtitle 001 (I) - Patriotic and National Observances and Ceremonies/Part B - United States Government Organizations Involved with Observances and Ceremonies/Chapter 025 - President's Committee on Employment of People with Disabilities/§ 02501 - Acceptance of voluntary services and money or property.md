@@ -32,6 +32,8 @@ In clause (2), the words "in the name of the Committee", "in furtherance of this
 
 This amends section 2501(2) of title 36 to reflect a change made by section 413 of the Workforce Investment Act of 1998 (Public Law 105–220, Aug. 7, 1998, 112 Stat. 1241).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (2). Pub. L. 105–354 inserted "solicit," before "accept,".

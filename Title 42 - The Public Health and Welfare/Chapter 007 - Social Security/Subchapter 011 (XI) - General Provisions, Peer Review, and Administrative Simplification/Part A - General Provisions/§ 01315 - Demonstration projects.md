@@ -22,7 +22,7 @@ In the case of any experimental, pilot, or demonstration project which, in the j
 
 &emsp;(C) must not result in increased cost to the Federal Government under part A of such subchapter.
 
-(2) An Indian tribe or tribal organization operating a program under section 655(f) of this title shall be considered a State for purposes of authority to conduct an experimental, pilot, or demonstration project under subsection (a) to assist in promoting the objectives of part D of subchapter IV and receiving payments under the second sentence of that subsection. The Secretary may waive compliance with any requirements of section 655(f) of this title or regulations promulgated under that section to the extent and for the period the Secretary finds necessary for an Indian tribe or tribal organization to carry out such project. Costs of the project which would not otherwise be included as expenditures of a program operating under section 655(f) of this title and which are not included as part of the costs of projects under section 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under a tribal plan or plans approved under such section, or for the administration of such tribal plan or plans, as may be appropriate. An Indian tribe or tribal organization applying for or receiving start-up program development funding pursuant to section 309.16 of title 45, Code of Federal Regulations, shall not be considered to be an Indian tribe or tribal organization operating a program under section 655(f) of this title for purposes of this paragraph.
+(2) An Indian tribe or tribal organization operating a program under section 655(f) of this title shall be considered a State for purposes of authority to conduct an experimental, pilot, or demonstration project under subsection (a) to assist in promoting the objectives of part D of subchapter IV and receiving payments under the second sentence of that subsection. The Secretary may waive compliance with any requirements of section 655(f) of this title or regulations promulgated under that section to the extent and for the period the Secretary finds necessary for an Indian tribe or tribal organization to carry out such project. Costs of the project which would not otherwise be included as expenditures of a program operating under section 655(f) of this title and which are not included as part of the costs of projects under section 1310 of this title, shall, to the extent and for the period prescribed by the Secretary, be regarded as expenditures under a tribal plan or plans approved under such section, or for the administration of such tribal plan or plans, as may be appropriate. An Indian tribe or tribal organization applying for or receiving start-up program developmentfunding pursuant to section 309.16 of title 45, Code of Federal Regulations, shall not be considered to be an Indian tribe or tribal organization operating a program under section 655(f) of this title for purposes of this paragraph.
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
@@ -90,7 +90,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(3) Not later than 45 days after the date a notification is made in accordance with paragraph (2), the Secretary shall inform the State of proposed changes in the terms and conditions of the waiver project. A failure to provide such information shall be deemed to be an approval of the application.
 
-&emsp;(4) During the 30-day period that begins on the date information described in paragraph\(3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
+&emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
 &emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
@@ -232,7 +232,7 @@ Demonstration Projects To Test the Effect of Early Childhood Development Program
 
 "(b)
 
-State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no suchproject shall be conducted for a period of less than one year or more than 5 years.
+State Demonstration Projects To Encourage Innovative Education and Training Programs for Children.—In order to encourage States to develop innovative education and training programs for children receiving aid under State plans approved under section 402 of the Social Security Act \[42 U.S.C. 602\], any State may establish and conduct one or more demonstration projects, targeted to such children, designed to test financial incentives and interdisciplinary approaches to reducing school dropouts, encouraging skill development, and avoiding welfare dependence; and the Secretary may make grants to States to assist in financing such projects. Demonstration projects under this subsection shall meet such conditions and requirements as the Secretary shall prescribe, and no such project shall be conducted for a period of less than one year or more than 5 years.
 
 "(c)
 
@@ -270,7 +270,7 @@ Findings and Purpose.—(1) The Congress finds that—
 
 "(b)
 
-In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall enter into an agreement with each of 4 States submitting applications under this section for the purpose of conducting demonstration projects in accordance with this section to provide counseling and services to certain high-risk teenagers.
+In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall enter into an agreement with each of 4 States submitting applications under this section forthe purpose of conducting demonstration projects in accordance with this section to provide counseling and services to certain high-risk teenagers.
 
 "(c)
 
@@ -366,7 +366,7 @@ Pub. L. 93–233, §11, Dec. 31, 1973, 87 Stat. 958, provided that:
 
 &emsp;"(3) such section 301 \[enacting subchapter XVI of this chapter\] had not been enacted, and
 
-&emsp;"(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[42 U.S.C. 1381 et seq.\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq.\]) which were in effect for such month, as the case may be.
+&emsp;"(4) such State (for the month of January 1974 and any month thereafter) continued to have in effect the State plan (approved under title XVI \[42 U.S.C. 1381 et seq.\]) which was in effect for the month of October 1973, or the State plans (approved under titles I, X, and XIV of the Social Security Act \[42 U.S.C. 301 etseq., 1201 et seq., 1351 et seq.\]) which were in effect for such month, as the case may be.
 
 "(b) With respect to individuals—
 

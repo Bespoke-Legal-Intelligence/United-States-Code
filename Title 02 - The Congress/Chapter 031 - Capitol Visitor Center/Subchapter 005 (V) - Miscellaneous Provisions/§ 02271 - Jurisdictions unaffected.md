@@ -2,7 +2,7 @@
 
 #### (a) Security jurisdiction unaffected
 
-Nothing in this chapter granting any authority to the Architect of the Capitol or Chief Executive Officer shall be construed to affect the exclusive jurisdiction of the Capitol Police, the Capitol Police Board, the Sergeant at Arms andDoorkeeper of the Senate, and the Sergeant at Arms of the House of Representatives to provide security for the Capitol, including the Capitol Visitor Center.
+Nothing in this chapter granting any authority to the Architect of the Capitol or Chief Executive Officer shall be construed to affect the exclusive jurisdiction of the Capitol Police, the Capitol Police Board, the Sergeant at Arms and Doorkeeper of the Senate, and the Sergeant at Arms of the House of Representatives to provide security for the Capitol, including the Capitol Visitor Center.
 
 #### (b) Architect of the Capitol jurisdiction unaffected
 
@@ -13,6 +13,8 @@ Nothing in this chapter granting any authority to the Architect of the Capitol o
 #### (2) Omitted
 
 (Pub. L. 110–437, title V, §501, Oct. 20, 2008, 122 Stat. 4997.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

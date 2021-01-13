@@ -282,7 +282,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (1) In general
 
-&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for this section for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
+&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for thissection for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
 
 #### (2) Research and evaluation activities
 
@@ -326,7 +326,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### Prior Provisions
 
-A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct.23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
+A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
 
 Prior sections 12653l to 12653n were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 

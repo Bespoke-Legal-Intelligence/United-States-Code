@@ -1,34 +1,8 @@
 ### <b>CHAPTER 30—NATIONAL CRITICAL MATERIALS COUNCIL</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [1801\.](%C2%A7%2001801%20-%20Congressional%20findings%20and%20declaration%20of%20purposes.md) | Congressional findings and declaration of purposes. |
-| [1802\.](%C2%A7%2001802%20-%20Establishment%20of%20National%20Critical%20Materials%20Council.md) | Establishment of National Critical Materials Council. |
-| [1803\.](%C2%A7%2001803%20-%20Responsibilities%20and%20authorities%20of%20Council.md) | Responsibilities and authorities of Council. |
-| [1804\.](%C2%A7%2001804%20-%20Program%20and%20policy%20for%20advanced%20materials%20research%20and%20technology.md) | Program and policy for advanced materials research and technology. |
-| [1805\.](%C2%A7%2001805%20-%20Innovation%20in%20basic%20and%20advanced%20materials%20industries.md) | Innovation in basic and advanced materials industries. |
-| [1806\.](%C2%A7%2001806%20-%20Compensation%20of%20members%20and%20reimbursement.md) | Compensation of members and reimbursement. |
-| [1807\.](%C2%A7%2001807%20-%20Executive%20Director.md) | Executive Director. |
-| [1808\.](%C2%A7%2001808%20-%20Responsibilities%20and%20duties%20of%20Director.md) | Responsibilities and duties of Director. |
-| [1809\.](%C2%A7%2001809%20-%20General%20authority%20of%20Council.md) | General authority of Council. |
-| [1810\.](%C2%A7%2001810%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [1811\.](%C2%A7%2001811%20-%20Materials%20defined.md) | "Materials" defined. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01801 - Congressional findings and declaration of purposes](%C2%A7%2001801%20-%20Congressional%20findings%20and%20declaration%20of%20purposes.md)
-- [&sect; 01802 - Establishment of National Critical Materials Council](%C2%A7%2001802%20-%20Establishment%20of%20National%20Critical%20Materials%20Council.md)
-- [&sect; 01803 - Responsibilities and authorities of Council](%C2%A7%2001803%20-%20Responsibilities%20and%20authorities%20of%20Council.md)
-- [&sect; 01804 - Program and policy for advanced materials research and technology](%C2%A7%2001804%20-%20Program%20and%20policy%20for%20advanced%20materials%20research%20and%20technology.md)
-- [&sect; 01805 - Innovation in basic and advanced materials industries](%C2%A7%2001805%20-%20Innovation%20in%20basic%20and%20advanced%20materials%20industries.md)
-- [&sect; 01806 - Compensation of members and reimbursement](%C2%A7%2001806%20-%20Compensation%20of%20members%20and%20reimbursement.md)
-- [&sect; 01807 - Executive Director](%C2%A7%2001807%20-%20Executive%20Director.md)
-- [&sect; 01808 - Responsibilities and duties of Director](%C2%A7%2001808%20-%20Responsibilities%20and%20duties%20of%20Director.md)
-- [&sect; 01809 - General authority of Council](%C2%A7%2001809%20-%20General%20authority%20of%20Council.md)
-- [&sect; 01810 - Authorization of appropriations](%C2%A7%2001810%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 01811 - Materials defined](%C2%A7%2001811%20-%20Materials%20defined.md)
+- [&sect; 01801 to 1811 - Repealed. Pub. L. 116&#8211;260, div. Z, title VII, &sect;7002(n)(1), Dec. 27, 2020, 134 Stat. 2576](%C2%A7%2001801%20to%201811%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20Z%2C%20title%20VII%2C%20%C2%A77002%28n%29%281%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202576.md)

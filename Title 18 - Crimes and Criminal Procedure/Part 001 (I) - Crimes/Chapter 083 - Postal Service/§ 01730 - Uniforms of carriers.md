@@ -12,6 +12,8 @@ Based on title 18, U.S.C., 1940 ed., §310 (Mar. 4, 1909, ch. 321, §187, 35 Sta
 
 Minor verbal change was made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100" in first par.
@@ -21,6 +23,8 @@ Minor verbal change was made.
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Postmaster General" before "to be worn" in first par.
 
 <b>1968</b>—Pub. L. 90–413 inserted provision exempting an actor or actress in a theatrical, television, or motion-picture production who wears the uniform or badge of the letter-carrier branch of the Postal Service from the penalties imposed by this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

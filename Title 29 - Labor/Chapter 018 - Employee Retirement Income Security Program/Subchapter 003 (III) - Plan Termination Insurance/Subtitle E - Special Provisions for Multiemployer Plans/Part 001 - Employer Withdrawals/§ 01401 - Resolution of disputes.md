@@ -12,7 +12,7 @@
 
 (2) An arbitration proceeding under this section shall be conducted in accordance with fair and equitable procedures to be promulgated by the corporation. The plan sponsor may purchase insurance to cover potential liability of the arbitrator. If the parties have not provided for the costs of the arbitration, including arbitrator's fees, by agreement, the arbitrator shall assess such fees. The arbitrator may also award reasonable attorney's fees.
 
-(3)(A) For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of this title and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
+(3)(A) For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of thistitle and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
 
 (B) In the case of the determination of a plan's unfunded vested benefits for a plan year, the determination is presumed correct unless a party contesting the determination shows by a preponderance of evidence that—
 
@@ -82,7 +82,7 @@ In general.—If—
 
 &emsp;&emsp;(ii) an employer is liable for withdrawal liability payments with respect to such complete or partial withdrawal, and
 
-&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurred after December 31, 1998, and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
+&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurredafter December 31, 1998, and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
 
 > then the person against which the withdrawal liability is assessed based solely on the application of section 1392(c) of this title may elect to use the special rule under paragraph (2) in applying subsection (d) of this section and section 1399(c) of this title to such person.
 
@@ -118,13 +118,17 @@ Additional security pending resolution of dispute.—If a withdrawal liability d
 
 (Pub. L. 93–406, title IV, §4221, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1239; amended Pub. L. 108–218, title II, §202(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title II, §204(d)(1), Aug. 17, 2006, 120 Stat. 887; Pub. L. 110–458, title I, §105(b)(2), Dec. 23, 2008, 122 Stat. 5105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: "If any employer requests in writingthat the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information."
+<b>2008</b>—Subsecs. (e) to (g). Pub. L. 110–458 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: "If any employer requests in writing that the plan sponsor make available to the employer general information necessary for the employer to compute its withdrawal liability with respect to the plan (other than information which is unique to that employer), the plan sponsor shall furnish the information to the employer without charge. If any employer requests in writing that the plan sponsor make an estimate of such employer's potential withdrawal liability with respect to the plan or to provide information unique to that employer, the plan sponsor may require the employer to pay the reasonable cost of making such estimate or providing such information."
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–280 added subsec. (g).
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–218 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -8,13 +8,9 @@ Payment Authority.—(1) The head of any agency may—
 
 &emsp;(B) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
-(2)(A) For a prime contractor (as defined in section 8701 of title 41) that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if a specific payment date is not established by contract.
+(2)(A) For a prime contractor (as defined in section 8701 of title 41) that is a small business concern (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due.
 
-(B) For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if—
-
-&emsp;(i) a specific payment date is not established by contract; and
-
-&emsp;(ii) the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
+(B) For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if the prime contractor agrees or proposes to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 
 (b)
 
@@ -100,7 +96,33 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (10) In this subsection, the term "remedy coordination official", with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282; Pub. L. 115–232, div. A, title VIII, §§836(c)(6), 852, Aug. 13, 2018, 132 Stat. 1866, 1884; Pub. L. 116–92, div. A, title XVII, §1731(a)(40), Dec. 20, 2019, 133 Stat. 1814.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592; Pub. L. 114–328, div. A, title VIII, §831(a), Dec. 23, 2016, 130 Stat. 2282; Pub. L. 115–232, div. A, title VIII, §§836(c)(6), 852, Aug. 13, 2018, 132 Stat. 1866, 1884; Pub. L. 116–92, div. A, title XVII, §1731(a)(40), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title VIII, §815, title XVIII, §§1834(b)(1), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h), 1876(e), Jan. 1, 2021, 134 Stat. 3750, 4234–4237, 4239, 4291.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1834(b)(1), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h), 1876(e), Jan. 1, 2021, 134 Stat. 4151, 4234–4237, 4239, 4291, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3801 of this title;</i>
+
+<i>(2) by transferring subsections (b) and (c) to section 3802(a) and (d), respectively, of this title;</i>
+
+<i>(3) by transferring subsection (d) to section 3803 of this title;</i>
+
+<i>(4) by transferring subsection (e) to section 3804 of this title;</i>
+
+<i>(5) by transferring subsection (f) to section 3805 of this title;</i>
+
+<i>(6) by striking out subsection (g);</i>
+
+<i>(7) by transferring subsection (h) to section 3807 of this title; and</i>
+
+<i>(8) by transferring subsection (i) to section 3806 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -139,6 +161,30 @@ Level IV of the Executive Schedule, referred to in subsec. (i)(9), is set out in
 Provisions similar to those in subsec. (g) of this section were contained in sections 7312, 7364, and 7521 of this title prior to repeal by Pub. L. 103–355, §2001(j)(1).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1834(b)(1), redesignated subsec. (a) as section 3801 of this title.
+
+Subsec. (a)(2)(A). Pub. L. 116–283, §815(1), struck out "if a specific payment date is not established by contract" after "amount due".
+
+Subsec. (a)(2)(B). Pub. L. 116–283, §815(2), substituted "if the prime contractor agrees or proposes" for "if—
+
+&emsp;"(i) a specific payment date is not established by contract; and
+
+&emsp;"(ii) the prime contractor agrees".
+
+Subsecs. (b), (c). Pub. L. 116–283, §1834(c)(1), redesignated subsecs. (b) and (c) as section 3802(a) and (d), respectively, of this title.
+
+Subsec. (d). Pub. L. 116–283, §1834(d), redesignated subsec. (d) as section 3803 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1834(e)(1), redesignated subsec. (e) as section 3804 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1834(f)(1), redesignated subsec. (f) as section 3805 of this title.
+
+Subsec. (g). Pub. L. 116–283, §1876(e), struck out subsec. (g) which related to certain Navy contracts.
+
+Subsec. (h). Pub. L. 116–283, §1834(h), redesignated subsec. (h) as section 3807 of this title.
+
+Subsec. (i). Pub. L. 116–283, §1834(g)(1), redesignated subsec. (i) as section 3806 of this title.
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 substituted "may—" for "may" in introductory provisions.
 
@@ -219,6 +265,14 @@ Subsec. (f). Pub. L. 101–510, §836(a), added subsec. (f).
 <b>1973</b>—Subsec. (d). Pub. L. 93–155 added subsec. (d).
 
 <b>1958</b>—Pub. L. 85–800 authorized advance or other payments under contracts for property or services by agency, authorized insertion in bid solicitations of provision limiting advance or progress payments to small business concerns, restricted payments under subsec. (a) to unpaid contract price, and reworded generally conditions for making advance payments.
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1834(b)(1), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h) and 1876(e) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

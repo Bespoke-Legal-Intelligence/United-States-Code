@@ -34,7 +34,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (C) Property deemed sold to United States at minimum price in certain cases
 
-&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale and the Secretary has determined that the purchase of such property by the United States would be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
+&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale and the Secretary has determined that the purchase of such property by the United Stateswould be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
 
 #### (D) Release to owner in other cases
 
@@ -98,7 +98,7 @@ Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) of Pub. L. 100–647, set out as a note under section 6331 of this title.
+Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) ofPub. L. 100–647, set out as a note under section 6331 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -92,7 +92,7 @@ Composition of Military Commissions.—Notwithstanding the amendment made by sec
 
 &emsp;"(1) any commission convened pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act), shall be deemed to have been convened pursuant to chapter 47A of title 10, United States Code (as amended by section 1802);
 
-&emsp;"(2) any member of the Armed Forces detailed to serve on a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
+&emsp;"(2) any member of the Armed Forces detailed to serve on a commission pursuant to chapter 47A oftitle 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
 
 &emsp;"(3) any military judge detailed to a commission pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed pursuant to chapter 47A of title 10, United States Code (as so amended);
 

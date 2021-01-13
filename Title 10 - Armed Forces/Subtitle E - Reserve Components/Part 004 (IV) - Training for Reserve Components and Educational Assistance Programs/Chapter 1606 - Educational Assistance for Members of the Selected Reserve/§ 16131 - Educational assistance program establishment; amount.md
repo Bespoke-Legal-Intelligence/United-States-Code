@@ -12,7 +12,7 @@
 
 &emsp;(D) an appropriately reduced rate, as determined under regulations which the Secretary of Veterans Affairs shall prescribe, for each month of less than half-time pursuit of a program of education, except that no payment may be made to a person for less than half-time pursuit if tuition assistance is otherwise available to the person for such pursuit from the military department concerned.
 
-(2) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which—
+(2) With respect to any fiscal year, the Secretary shall provide a percentage increase\(rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which—
 
 &emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
@@ -30,7 +30,7 @@
 
 (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
-&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on activeduty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, 12304, 12304a, or 12304b of this title; and
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
@@ -70,7 +70,7 @@
 
 (f)(1) Each individual who is pursuing a program of education consisting exclusively of flight training approved as meeting the requirements of section 16136(c) of this title shall be paid an educational assistance allowance under this chapter in the amount equal to 60 percent of the established charges for tuition and fees which similarly circumstanced nonveterans enrolled in the same flight course are required to pay.
 
-(2) No educational assistance allowance may be paid under this chapter to an individual for any month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
+(2) No educational assistance allowance may be paid under this chapter to an individual forany month during which such individual is pursuing a program of education consisting exclusively of flight training until the Secretary has received from that individual and the institution providing such training a certification of the flight training received by the individual during that month and the tuition and other fees charged for that training.
 
 (3) The period of entitlement of an individual pursuing a program of education described in paragraph (1) shall be charged with one month for each amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned which is paid to that individual as an educational assistance allowance for such program.
 
@@ -82,7 +82,7 @@
 
 &emsp;(ii) has a deficiency in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, the program of education.
 
-(B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for aperson pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
+(B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
 (2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 
@@ -112,7 +112,7 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 114–315, title IV, §416(a), Dec. 16, 2016, 130 Stat. 1565.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107,title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §539(a), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 114–315, title IV, §416(a), Dec. 16, 2016, 130 Stat. 1565.)
 
 #### Amendments
 

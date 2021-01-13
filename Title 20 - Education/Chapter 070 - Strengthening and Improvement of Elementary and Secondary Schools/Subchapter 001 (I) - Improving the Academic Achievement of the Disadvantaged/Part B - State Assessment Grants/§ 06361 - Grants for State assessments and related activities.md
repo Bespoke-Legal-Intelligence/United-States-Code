@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available in accordance with section 6363 of this title, the Secretary shall make grants to State educational agencies to enable the States to carry out 1 or more of the following:
+From amounts made available in accordance with section 6363 of this title, the Secretary shall make grants to State educational agenciesto enable the States to carry out 1 or more of the following:
 
 &emsp;(1) To pay the costs of the development of the State assessments and standards adopted under section 6311(b) of this title, which may include the costs of working in voluntary partnerships with other States, at the sole discretion of each such State.
 

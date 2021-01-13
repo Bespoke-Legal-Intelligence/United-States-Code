@@ -109,7 +109,7 @@ Elimination of Advisory Council on Transportation Statistics.—The Advisory Cou
 
 Pub. L. 115–254, div. B, title IV, §421, Oct. 5, 2018, 132 Stat. 3337, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Secretary of Transportation shall promulgate regulations that require each covered air carrier to promptly provide a refund to a passenger of any ancillary fees paid for services related to air travel that the passenger does not receive, including on the passenger's scheduled flight, on a subsequent replacement itinerary if there has been a rescheduling, or for a flight not taken by the passenger."
 
-\[For definition of "covered air carrier" as used in section 421 of Pub. L. 115–254, set out above, see section 401of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.\]
+\[For definition of "covered air carrier" as used in section 421 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.\]
 
 #### Advance Boarding During Pregnancy
 

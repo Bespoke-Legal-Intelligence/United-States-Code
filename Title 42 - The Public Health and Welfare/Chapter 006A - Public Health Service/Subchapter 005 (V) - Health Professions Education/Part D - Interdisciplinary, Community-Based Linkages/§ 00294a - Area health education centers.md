@@ -96,7 +96,7 @@ With respect to the costs of operating a program through a grant under this sect
 
 #### (f) Limitation
 
-Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly funded area health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
+Not less than 75 percent of the total amount provided to an area health education center program under subsection (a)(1) or (a)(2) shall be allocated to the area health education centers participating in the program under this section. To provide needed flexibility to newly fundedarea health education center programs, the Secretary may waive the requirement in the sentence for the first 2 years of a new area health education center program funded under subsection (a)(1).
 
 #### (g) Award
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of this subchapter, section 295j(a) of this 
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $125,000,000 for each of the fiscal years 2010 through 2014.
+&emsp;There is authorized to be appropriated to carry out this section $41,250,000 for each of fiscal years 2021 through 2025.
 
 #### (2) Requirements
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of this subchapter, section 295j(a) of this 
 
 It is the sense of the Congress that every State have an area health education center program in effect under this section.
 
-(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, §512(z)(2), July 22, 2014, 128 Stat. 1716.)
+(July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, §512(z)(2), July 22, 2014, 128 Stat. 1716; Pub. L. 116–136, div. A, title III, §3401(6), Mar. 27, 2020, 134 Stat. 386.)
 
 #### Prior Provisions
 
@@ -164,6 +164,8 @@ Another prior section 751 of act July 1, 1944, was classified to section 294t of
 
 #### Amendments
 
+<b>2020</b>—Subsec. (j)(1). Pub. L. 116–136 substituted "$41,250,000 for each of fiscal years 2021 through 2025" for "$125,000,000 for each of the fiscal years 2010 through 2014".
+
 <b>2014</b>—Subsec. (c)(1)(A). Pub. L. 113–128 substituted "the applicable one-stop delivery system under section 3151(e) of title 29," for "the applicable one-stop delivery system under section 2864(c) of title 29,".
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
@@ -174,9 +176,11 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Waiver of Requirements
 
-Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2556, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567, provided in part: "That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[42 U.S.C. 294a\] on or before January 1, 2009, theSecretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2556.
 
 Pub. L. 115–245, div. B, title II, Sept. 28, 2018, 132 Stat. 3068.
 

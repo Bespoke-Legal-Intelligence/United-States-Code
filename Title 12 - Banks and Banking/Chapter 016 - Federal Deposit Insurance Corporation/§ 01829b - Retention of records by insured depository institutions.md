@@ -6,7 +6,7 @@
 
 &emsp;Congress finds that—
 
-&emsp;&emsp;(A) adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against domestic and international terrorism; and
+&emsp;&emsp;(A) adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations or proceedings, and that, given the threat posed to the securityof the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against domestic and international terrorism; and
 
 &emsp;&emsp;(B) microfilm or other reproductions and other records made by insured depository institutions of checks, as well as records kept by such institutions, of the identity of persons maintaining or authorized to act with respect to accounts therein, have been of particular value in proceedings described in subparagraph (A).
 
@@ -62,7 +62,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary andthe Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -92,9 +92,11 @@ The provisions of this section shall not apply to any foreign bank except with r
 
 #### (3) Assessment
 
-&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected inthe manner provided in subsections (b) and (c) of section 5321 of title 31.
+&emsp;Any penalty imposed under paragraph (1) shall be assessed, mitigated, and collected in the manner provided in subsections (b) and (c) of section 5321 of title 31.
 
 (Sept. 21, 1950, ch. 967, §2\[21\], as added Pub. L. 91–508, title I, §101, Oct. 26, 1970, 84 Stat. 1114; amended Pub. L. 95–369, §6(c)(29), Sept. 17, 1978, 92 Stat. 620; Pub. L. 100–690, title VI, §6185(d)(1), Nov. 18, 1988, 102 Stat. 4356; Pub. L. 101–73, title II, §201(a), Aug. 9, 1989, 103 Stat. 187; Pub. L. 102–550, title XV, §§1515(a), (b), 1535(b), Oct. 28, 1992, 106 Stat. 4058, 4059, 4066; Pub. L. 103–325, title VI, §602(a)(52)–(54), Sept. 23, 1994, 108 Stat. 2290; Pub. L. 107–56, title III, §358(d), Oct. 26, 2001, 115 Stat. 326; Pub. L. 108–458, title VI, §6203(k), Dec. 17, 2004, 118 Stat. 3747.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -128,9 +130,11 @@ Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted ", or any person who wil
 
 <b>1978</b>—Subsec. (i). Pub. L. 95–369 added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that isinconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
 
 #### Effective Date of 2001 Amendment
 

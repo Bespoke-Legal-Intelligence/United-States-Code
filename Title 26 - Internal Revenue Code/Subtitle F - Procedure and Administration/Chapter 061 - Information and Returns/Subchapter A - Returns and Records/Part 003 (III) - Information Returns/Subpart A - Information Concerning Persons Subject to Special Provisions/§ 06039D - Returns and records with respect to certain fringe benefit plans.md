@@ -102,7 +102,7 @@ Section effective Jan. 1, 1985, see section 1(g)(2) of Pub. L. 98–611, set out
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

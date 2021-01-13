@@ -30,6 +30,8 @@ In the last sentence, the words "Additional compensation paid as" are omitted as
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–140 struck out "25 percent of the rate of basic pay or, in the case of an employee of the United States Agency for International Development," after "may not exceed" in last sentence.
@@ -37,6 +39,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>2004</b>—Subsec. (a). Pub. L. 108–199 inserted "or, in the case of an employee of the United States Agency for International Development, 35 percent of the rate of basic pay" after "25 percent of the rate of basic pay".
 
 <b>1980</b>—Pub. L. 96–465 designated existing provisions as subsec. (a), inserted "under this subsection" before "may not exceed", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -48,7 +52,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Criteria
 
-Pub. L. 109–140, §4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: "The Secretary of State shall inform the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a)of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c)."
+Pub. L. 109–140, §4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: "The Secretary of State shall inform the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a) of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c)."
 
 #### Extension of Foreign Post Differentials to Certain Federal Employees Who Served in Connection With Operation Desert Storm
 

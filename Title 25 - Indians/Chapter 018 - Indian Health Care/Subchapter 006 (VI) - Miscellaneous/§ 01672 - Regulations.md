@@ -2,7 +2,9 @@
 
 Prior to any revision of or amendment to rules or regulations promulgated pursuant to this chapter, the Secretary shall consult with Indian tribes and appropriate national or regional Indian organizations and shall publish any proposed revision or amendment in the Federal Register not less than sixty days prior to the effective date of such revision or amendment in order to provide adequate notice to, and receive comments from, other interested parties.
 
-(Pub. L. 94–437, title VIII, §802, formerly title VII, §702, Sept. 30, 1976, 90 Stat. 1413; renumberedtitle VIII, §802, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §802, Oct. 29, 1992, 106 Stat. 4572, 4585.)
+(Pub. L. 94–437, title VIII, §802, formerly title VII, §702, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, §802, and amended Pub. L. 102–573, title VII, §701(a), (b), title VIII, §802, Oct. 29, 1992, 106 Stat. 4572, 4585.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

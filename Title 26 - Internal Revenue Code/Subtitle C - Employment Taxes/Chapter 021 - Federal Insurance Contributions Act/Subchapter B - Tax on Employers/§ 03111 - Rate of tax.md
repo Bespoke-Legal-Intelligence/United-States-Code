@@ -258,3 +258,649 @@ For provisions that nothing in amendment by section 401(b)(34) of Pub. L. 115–
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
 
+#### Employee Retention Credit for Employers Subject to Closure Due to COVID–19
+
+Pub. L. 116–136, div. A, title II, §2301, Mar. 27, 2020, 134 Stat. 347, as amended by Pub. L. 116–260, div. EE, title II, §§206(a), (b), (c)(2), (d), 207(a)–(j), title III, §303(d)(3)(C)(iii), Dec. 27, 2020, 134 Stat. 3059–3065, 3077, provided that:
+
+"(a)
+
+In General.—In the case of an eligible employer, there shall be allowed as a credit against applicable employment taxes for each calendar quarter an amount equal to 70 percent of the qualified wages with respect to each employee of such employer for such calendar quarter.
+
+"(b)
+
+Limitations and Refundability.—
+
+&emsp;"(1)
+
+Wages taken into account.—The amount of qualified wages with respect to any employee which may be taken into account under subsection (a) by the eligible employer for any calendar quarter shall not exceed $10,000.
+
+&emsp;"(2)
+
+Credit limited to employment taxes.—The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the applicable employment taxes (reduced by any credits allowed under subsections (e) and (f) of section 3111 of the Internal Revenue Code of 1986, sections 7001 and 7003 of the Families First Coronavirus Response Act \[Pub. L. 116–127, set out as notes below\], and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[div. EE of Pub. L. 116–260, 134 Stat. 3076, in part amending this note and provisions set out as notes under this section; see Tables for classification\]) on the wages paid with respect to the employment of all the employees of the eligible employer for such calendar quarter.
+
+&emsp;"(3)
+
+Refundability of excess credit.—
+
+&emsp;&emsp;"(A)
+
+In general.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b) of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;"(B)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any amounts due to the employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+"(c)
+
+Definitions.—For purposes of this section—
+
+&emsp;"(1)
+
+Applicable employment taxes.—The term 'applicable employment taxes' means the following:
+
+&emsp;&emsp;"(A) The taxes imposed under section 3111(a) of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;"(B) So much of the taxes imposed under section 3221(a) of such Code as are attributable to the rate in effect under section 3111(a) of such Code.
+
+&emsp;"(2)
+
+Eligible employer.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'eligible employer' means any employer—
+
+&emsp;&emsp;&emsp;"(i) which was carrying on a trade or business during the calendar quarter for which the credit is determined under subsection (a), and
+
+&emsp;&emsp;&emsp;"(ii) with respect to any calendar quarter, for which—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the operation of the trade or business described in clause (i) is fully or partially suspended during the calendar quarter due to orders from an appropriate governmental authority limiting commerce, travel, or group meetings (for commercial, social, religious, or other purposes) due to the coronavirus disease 2019 (COVID–19), or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the gross receipts (within the meaning of section 448(c) of the Internal Revenue Code of 1986) of such employer for such calendar quarter are less than 80 percent of the gross receipts of such employer for the same calendar quarter in calendar year 2019.
+
+&emsp;&emsp;&nbsp;With respect to any employer for any calendar quarter, if such employer was not in existence as of the beginning of the same calendar quarter in calendar year 2019, clause (ii)(II) shall be applied by substituting "2020" for "2019".
+
+&emsp;&emsp;"(B)
+
+Election to use alternative quarter.—At the election of the employer—
+
+&emsp;&emsp;&emsp;"(i) subparagraph (A)(ii)(II) shall be applied—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) by substituting 'for the immediately preceding calendar quarter' for 'for such calendar quarter', and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) by substituting 'the corresponding calendar quarter in calendar year 2019' for 'the same calendar quarter in calendar year 2019', and
+
+&emsp;&emsp;&emsp;"(ii) the last sentence of subparagraph (A) shall be applied by substituting 'the corresponding calendar quarter in calendar year 2019' for 'the same calendar quarter in calendar year 2019'.
+
+&nbsp;&nbsp;An election under this subparagraph shall be made at such time and in such manner as the Secretary shall prescribe.
+
+&emsp;&emsp;"(C)
+
+Tax-exempt organizations.—In the case of an organization which is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code—
+
+&emsp;&emsp;&emsp;"(i) clauses (i) and (ii)(I) of subparagraph (A) shall apply to all operations of such organization, and
+
+&emsp;&emsp;&emsp;"(ii) any reference in this section to gross receipts shall be treated as a reference to gross receipts within the meaning of section 6033 of such Code.
+
+&emsp;"(3)
+
+Qualified wages.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'qualified wages' means—
+
+&emsp;&emsp;&emsp;"(i) in the case of an eligible employer for which the average number of full-time employees (within the meaning of section 4980H of the Internal Revenue Code of 1986) employed by such eligible employer during 2019 was greater than 500, wages paid by such eligible employer with respect to which an employee is not providing services due to circumstances described in subclause (I) or (II) of paragraph (2)(A)(ii), or
+
+&emsp;&emsp;&emsp;"(ii) in the case of an eligible employer for which the average number of full-time employees (within the meaning of section 4980H of the Internal Revenue Code of 1986) employed by such eligible employer during 2019 was not greater than 500—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) with respect to an eligible employer described in subclause (I) of paragraph (2)(A)(ii), wages paid by such eligible employer with respect to an employee during any period described in such clause, or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) with respect to an eligible employer described in subclause (II) of such paragraph, wages paid by such eligible employer with respect to an employee during such quarter.
+
+&emsp;&emsp;"(B)
+
+Exception.—The term 'qualified wages' shall not include any wages taken into account under section 7001 or section 7003 of the Families First Coronavirus Response Act.
+
+&emsp;"(4)
+
+Secretary.—The term 'Secretary' means the Secretary of the Treasury or the Secretary's delegate.
+
+&emsp;"(5)
+
+Wages.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'wages' means wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) and compensation (as defined in section 3231(e) of such Code). For purposes of the preceding sentence, in the case of any organization or entity described in subsection (f)(2), wages as defined in section 3121(a) of the Internal Revenue Code of 1986 shall be determined without regard to paragraphs (5), (6), (7), (10), and (13) of section 3121(b) of such Code (except with respect to services performed in a penal institution by an inmate thereof).
+
+&emsp;&emsp;"(B)
+
+Allowance for certain health plan expenses.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Such term shall include amounts paid by the eligible employer to provide and maintain a group health plan (as defined in section 5000(b)(1) of the Internal Revenue Code of 1986), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a) of such Code.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Allocation rules.—For purposes of this section, amounts treated as wages under clause (i) shall be treated as paid with respect to any employee (and with respect to any period) to the extent that such amounts are properly allocable to such employee (and to such period) in such manner as the Secretary may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among periods of coverage.
+
+&emsp;"(6)
+
+Other terms.—Any term used in this section which is also used in chapter 21 or 22 of the Internal Revenue Code of 1986 shall have the same meaning as when used in such chapter.
+
+"(d)
+
+Aggregation Rule.—All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986, or subsection (m) or (o) of section 414 of such Code, shall be treated as one employer for purposes of this section.
+
+"(e)
+
+Certain Rules to Apply.—For purposes of this section, rules similar to the rules of sections 51(i)(1) and 280C(a) of the Internal Revenue Code of 1986 shall apply.
+
+"(f)
+
+Certain Governmental Employers.—
+
+&emsp;"(1)
+
+In general.—This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing.
+
+&emsp;"(2)
+
+Exception.—Paragraph (1) shall not apply to—
+
+&emsp;&emsp;"(A) any organization described in section 501(c)(1) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, or
+
+&emsp;&emsp;"(B) any entity described in paragraph (1) if —
+
+&emsp;&emsp;&emsp;"(i) such entity is a college or university, or
+
+&emsp;&emsp;&emsp;"(ii) the principal purpose or function of such entity is providing medical or hospital care.
+
+&nbsp;&nbsp;In the case of any entity described in subparagraph (B), such entity shall be treated as satisfying the requirements of subsection (c)(2)(A)(i).
+
+"(g)
+
+Election to Not Take Certain Wages Into Account.—
+
+&emsp;"(1)
+
+In general.—This section shall not apply to so much of the qualified wages paid by an eligible employer as such employer elects (at such time and in such manner as the Secretary may prescribe) to not take into account for purposes of this section.
+
+&emsp;"(2)
+
+Coordination with paycheck protection program.—The Secretary, in consultation with the Administrator of the Small Business Administration, shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified wages under this section by reason of an election under paragraph (1) to the extent that a covered loan of the eligible employer is not forgiven by reason of a decision under section 7A(g) of the Small Business Act \[15 U.S.C. 636m(g)\] or the application of section 7(a)(37)(J) of the Small Business Act \[15 U.S.C. 636(a)(37)(J)\]. Terms used in the preceding sentence which are also used in section 7A(g) or 7(a)(37)(J) of the Small Business Act shall, when applied in connection with either such section, have the same meaning as when used in such section, respectively.
+
+"(h)
+
+Special Rules.—
+
+&emsp;"(1)
+
+Denial of double benefit.—Any wages taken into account in determining the credit allowed under this section shall not be taken into account as wages for purposes of sections 41, 45A, 45P, 45S, 51, and 1396 of the Internal Revenue Code of 1986.
+
+&emsp;"(2)
+
+Third party payors.—Any credit allowed under this section shall be treated as a credit described in section 3511(d)(2) of such Code.
+
+"(i)
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 14 \[sic\] 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.
+
+"(j)
+
+Advance Payments.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), no advance payment of the credit under subsection (a) shall be allowed.
+
+&emsp;"(2)
+
+Advance payments to small employers.—
+
+&emsp;&emsp;"(A)
+
+In general.—Under rules provided by the Secretary, an eligible employer for which the average number of full-time employees (within the meaning of section 4980H of the Internal Revenue Code of 1986) employed by such eligible employer during 2019 was not greater than 500 may elect for any calendar quarter to receive an advance payment of the credit under subsection (a) for such quarter in an amount not to exceed 70 percent of the average quarterly wages paid by the employer in calendar year 2019.
+
+&emsp;&emsp;"(B)
+
+Special rule for seasonal employers.—In the case of any employer who employs seasonal workers (as defined in section 45R(d)(5)(B) of the Internal Revenue Code of 1986), the employer may elect to substitute 'the wages for the calendar quarter in 2019 which corresponds to the calendar quarter to which the election relates' for 'the average quarterly wages paid by the employer in calendar year 2019'.
+
+&emsp;&emsp;"(C)
+
+Special rule for employers not in existence in 2019.—In the case of any employer that was not in existence in 2019, subparagraphs (A) and (B) shall each be applied by substituting '2020' for '2019' each place it appears.
+
+&emsp;"(3)
+
+Reconciliation of credit with advance payments.—
+
+&emsp;&emsp;"(A)
+
+In general.—The amount of credit which would (but for this subsection) be allowed underthis section shall be reduced (but not below zero) by the aggregate payment allowed to the taxpayer under paragraph (2). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1) of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;"(B)
+
+Excess advance payments.—If the advance payments to a taxpayer under paragraph (2) for a calendar quarter exceed the credit allowed by this section (determined without regard to subparagraph (A)), the tax imposed by chapter 21 or 22 of the Internal Revenue Code of 1986 (whichever is applicable) for the calendar quarter shall be increased by the amount of such excess.
+
+"(k)
+
+Treatment of Deposits.—The Secretary shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of any applicable employment taxes if the Secretary determines that such failure was due to the reasonable anticipation of the credit allowed under this section.
+
+"(l)
+
+Regulations and Guidance.—The Secretary shall issue such forms, instructions, regulations, and guidance as are necessary—
+
+&emsp;"(1) to allow the advance payment of the credit under subsection (a) as provided in subsection (j)(2), subject to the limitations provided in this section, based on such information as the Secretary shall require,
+
+&emsp;"(2) with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504 of the Internal Revenue Code of 1986), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
+
+&emsp;"(3) to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
+
+> Any forms, instructions, regulations, or guidance described in paragraph (2) shall require the customer to be responsible for the accounting of the credit and for any liability for improperly claimed credits and shall require the certified professional employer organization or other third party payor to accurately report such tax credits based on the information provided by the customer.
+
+"(m)
+
+Application.—This section shall only apply to wages paid after March 12, 2020, and before July 1, 2021.
+
+"(n)
+
+Public Awareness Campaign.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall conduct a public awareness campaign, in coordination with the Administrator of the Small Business Administration, to provide information regarding the availability of the credit allowed under this section.
+
+&emsp;"(2)
+
+Outreach.—Under the campaign conducted under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;"(A) provide to all employers which reported not more than 500 employees on the most recently filed return of applicable employment taxes a notice about the credit allowed under this section and the requirements for eligibility to claim the credit, and
+
+&emsp;&emsp;"(B) not later than 30 days after the date of the enactment of this subsection, provide to all employers educational materials relating to the credit allowed under this section, including specific materials for businesses with not more than 500 employees."
+
+\[Pub. L. 116–260, div. EE, title II, §206(e), Dec. 27, 2020, 134 Stat. 3061, provided that:
+
+\["(1)
+
+In general.—The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set out above\] shall take effect as if included in the provisions of the CARES Act \[Pub. L. 116–136\] to which they relate.
+
+\["(2)
+
+Special rule.—
+
+&emsp;\["(A)
+
+In general.—For purposes of section 2301 of the CARES Act, an employer who has filed a return of tax with respect to applicable employment taxes (as defined in section 2301(c)(1) of division A of such Act) before the date of the enactment of this Act \[Dec. 27, 2020\] may elect (in such manner as the Secretary of the Treasury (or the Secretary's delegate) shall prescribe) to treat any applicable amount as an amount paid in the calendar quarter which includes the date of the enactment of this Act.
+
+&emsp;\["(B)
+
+Applicable amount.—For purposes of subparagraph (A), the term 'applicable amount' means the amount of wages which—
+
+&emsp;&emsp;\["(i) are—
+
+&emsp;&emsp;&emsp;\["(I) described in section 2301(c)(5)(B) of the CARES Act, as added by the amendments made by subsection (b), or
+
+&emsp;&emsp;&emsp;\["(II) permitted to be treated as qualified wages under guidance issued pursuant to section 2301(g)(2) of the CARES Act (as added by subsection (c)), and
+
+&emsp;&emsp;\["(ii) were—
+
+&emsp;&emsp;&emsp;\["(I) paid in a calendar quarter beginning after December 31, 2019, and before October 1, 2020, and
+
+&emsp;&emsp;&emsp;\["(II) not taken into account by the taxpayer in calculating the credit allowed under section 2301(a) of division A of such Act for such calendar quarter."\]
+
+\[Pub. L. 116–260, div. EE, title II, §207(k), Dec. 27, 2020, 134 Stat. 3065, provided that: "The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set out above\] shall apply to calendar quarters beginning after December 31, 2020."\]
+
+#### Delay of Payment of Employer Payroll Taxes
+
+Pub. L. 116–136, div. A, title II, §2302, Mar. 27, 2020, 134 Stat. 351, as amended by Pub. L. 116–142, §4(a), June 5, 2020, 134 Stat. 643, provided that:
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Taxes.—Notwithstanding any other provision of law, the payment for applicable employment taxes for the payroll tax deferral period shall not be due before the applicable date.
+
+&emsp;"(2)
+
+Deposits.—Notwithstanding section 6302 of the Internal Revenue Code of 1986, an employer shall be treated as having timely made all deposits of applicable employment taxes that are required to be made (without regard to this section) for such taxes during the payroll tax deferral period if all such deposits are made not later than the applicable date.
+
+"(b)
+
+SECA.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of law, the payment for 50 percent of the taxes imposed under section 1401(a) of the Internal Revenue Code of 1986 for the payroll tax deferral period shall not be due before the applicable date.
+
+&emsp;"(2)
+
+Estimated taxes.—For purposes of applying section 6654 of the Internal Revenue Code of 1986 to any taxable year which includes any part of the payroll tax deferral period, 50 percent of the taxes imposed under section 1401(a) of such Code for the payroll tax deferral period shall not be treated as taxes to which such section 6654 applies.
+
+"(c)
+
+Liability of Third Parties.—
+
+&emsp;"(1)
+
+Acts to be performed by agents.—For purposes of section 3504 of the Internal Revenue Code of 1986, in the case of any person designated pursuant to such section (and any regulations or other guidance issued by the Secretary with respect to such section) to perform acts otherwise required to be performed by an employer under such Code, if such employer directs such person to defer payment of any applicable employment taxes during the payroll tax deferral period under this section, such employer shall be solely liable for the payment of such applicable employment taxes before the applicable date for any wages paid by such person on behalf of such employer during such period.
+
+&emsp;"(2)
+
+Certified professional employer organizations.—For purposes of section 3511, in the case of a certified professional employer organization (as defined in subsection (a) of section 7705 of the InternalRevenue Code of 1986) that has entered into a service contract described in subsection (e)(2) of such section with a customer, if such customer directs such organization to defer payment of any applicable employment taxes during the payroll tax deferral period under this section, such customer shall, notwithstanding subsections (a) and (c) of section 3511, be solely liable for the payment of such applicable employment taxes before the applicable date for any wages paid by such organization to any work site employee performing services for such customer during such period.
+
+"(d)
+
+Definitions.—For purposes of this section—
+
+&emsp;"(1)
+
+Applicable employment taxes.—The term 'applicable employment taxes' means the following:
+
+&emsp;&emsp;"(A) The taxes imposed under section 3111(a) of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;"(B) So much of the taxes imposed under section 3211(a) of such Code as are attributable to the rate in effect under section 3111(a) of such Code.
+
+&emsp;&emsp;"(C) So much of the taxes imposed under section 3221(a) of such Code as are attributable to the rate in effect under section 3111(a) of such Code.
+
+&emsp;"(2)
+
+Payroll tax deferral period.—The term 'payroll tax deferral period' means the period beginning on the date of the enactment of this Act \[Mar. 27, 2020\] and ending before January 1, 2021.
+
+&emsp;"(3)
+
+Applicable date.—The term 'applicable date' means—
+
+&emsp;&emsp;"(A) December 31, 2021, with respect to 50 percent of the amounts to which subsection (a) or (b), as the case may be, apply, and
+
+&emsp;&emsp;"(B) December 31, 2022, with respect to the remaining such amounts.
+
+&emsp;"(4)
+
+Secretary.—The term 'Secretary' means the Secretary of the Treasury (or the Secretary's delegate).
+
+"(e)
+
+Trust Funds Held Harmless.—There are hereby appropriated (out of any money in the Treasury not otherwise appropriated) for each fiscal year to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) an amount equal to the reduction in the transfers to such fund for such fiscal year by reason of this section. Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.
+
+"(f)
+
+Regulatory Authority.—The Secretary shall issue such regulations or other guidance as necessary to carry out the purposes of this section, including rules for the administration and enforcement of subsection (c)."
+
+\[Pub. L. 116–142, §4(b), June 5, 2020, 134 Stat. 643, provided that: "The amendments made by this section \[amending section 2302 of Pub. L. 116–136, set out above\] shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act \[15 U.S.C. 9008\]."\]
+
+#### Payroll Credit for Required Paid Sick Leave
+
+Pub. L. 116–127, div. G, §7001, Mar. 18, 2020, 134 Stat. 210, as amended by Pub. L. 116–136, div. A, title III, §3606(a), Mar. 27, 2020, 134 Stat. 411; Pub. L. 116–260, div. N, title II, §§286(a), (b)(1), 288(a)–(c), div. EE, title III, §303(d)(3)(C)(i), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3076, provided that:
+
+"(a)
+
+In General.—In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified sick leave wages paid by such employer with respect to such calendar quarter.
+
+"(b)
+
+Limitations and Refundability.—
+
+&emsp;"(1)
+
+Wages taken into account.—The amount of qualified sick leave wages taken into account under subsection (a) with respect to any individual shall not exceed $200 ($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act \[div. E of Pub. L. 116–127, 29 U.S.C. 2601 note\]) for any day (or portion thereof) for which the individual is paid qualified sick leave wages.
+
+&emsp;"(2)
+
+Overall limitation on number of days taken into account.—The aggregate number of days taken into account under paragraph (1) for any calendar quarter shall not exceed the excess (if any) of—
+
+&emsp;&emsp;"(A) 10, over
+
+&emsp;&emsp;"(B) the aggregate number of days so taken into account for all preceding calendar quarters.
+
+&emsp;"(3)
+
+Credit limited to certain employment taxes.—The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the tax imposed by section 3111(a) or 3221(a) of such Code for such calendar quarter (reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[div. EE of Pub. L. 116–260, 134 Stat. 3076, in part amending this note and provisions set out as notes under this section; see Tables for classification\], for such quarter) on the wages paid with respect to the employment of all employees of the employer.
+
+&emsp;"(4)
+
+Refundability of excess credit.—
+
+&emsp;&emsp;"(A)(i)
+
+Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (3) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b) of such Code.
+
+&emsp;&emsp;"(ii)
+
+Advancing credit.—In anticipation of the credit, including the refundable portion under clause (i), the credit may be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under subsection (b), both calculated through the end of the most recent payroll period in the quarter.
+
+&emsp;&emsp;"(B)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any amounts due to an employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+"(c)
+
+Qualified Sick Leave Wages.—For purposes of this section, the term 'qualified sick leave wages' means wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code and section 7005(a) of this Act \[set out below\],) \[sic\] and compensation (as defined in section 3231(e) of the Internal Revenue Code \[of 1986\], determined without regard to the sentence in paragraph (1) thereof which begins 'Such term does not include remuneration' and without regard to section 7005(a) of this Act) paid by an employer—
+
+&emsp;"(1) which are required to be paid by reason of the Emergency Paid Sick Leave Act \[div. E (§5101 et seq.) of Pub. L. 116–127, 29 U.S.C. 2601 note\], or
+
+&emsp;"(2) both—
+
+&emsp;&emsp;"(A) which would be so required to be paid if such Act were applied—
+
+&emsp;&emsp;&emsp;"(i) by substituting 'March 31, 2021' for 'December 31, 2020' in section 5109 thereof, and
+
+&emsp;&emsp;&emsp;"(ii) without regard to section 5102(b)(3) thereof, and
+
+&emsp;&emsp;"(B) with respect to which all requirements of such Act (other than subsections (a) and (b) of section 5105 thereof, and determined by substituting 'To be compliant with section 5102, an employer may not' for 'It shall be unlawful for any employer to' in section 5104 thereof) which would apply if so required are satisfied.
+
+"(d)
+
+Allowance of Credit for Certain Health Plan Expenses.—
+
+&emsp;"(1)
+
+In general.—The amount of the credit allowed under subsection (a) shall be increased by so much of the employer's qualified health plan expenses as are properly allocable to the qualified sick leave wages for which such credit is so allowed.
+
+&emsp;"(2)
+
+Qualified health plan expenses.—For purposes of this subsection, the term 'qualified health plan expenses' means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1) of the Internal Revenue Code of 1986), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a) of such Code.
+
+&emsp;"(3)
+
+Allocation rules.—For purposes of this section, qualified health plan expenses shall be allocated to qualified sick leave wages in such manner as the Secretary of the Treasury (or the Secretary's delegate) may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate).
+
+"(e)
+
+Special Rules.—
+
+&emsp;"(1)
+
+Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code.
+
+&emsp;"(2)
+
+Election not to have section apply.—This section shall not apply with respect to any employer for any calendar quarter if such employer elects (at such time and in such manner as the Secretary of the Treasury (or the Secretary's delegate) may prescribe) not to have this section apply.
+
+&emsp;"(3)
+
+Certain terms.—Except as otherwise provided in this section, any term used in this section which is also used in chapter 21 of such Code shall have the same meaning as when used in such chapter.
+
+&emsp;"(4)
+
+Certain governmental employers.—This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing.
+
+&emsp;"(4) \[(5)\]
+
+References to railroad retirement tax.—Any reference in this section to the tax imposed by section 3221(a) of the Internal Revenue Code of 1986 shall be treated as a reference to so much of such tax as is attributable to the rate in effect under section 3111(a) of such Code.
+
+"(f)
+
+Regulations.—The Secretary of the Treasury (or the Secretary's delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+&emsp;"(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section,
+
+&emsp;"(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section,
+
+&emsp;"(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section,
+
+&emsp;"(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a),
+
+&emsp;"(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid sick time required to be provided under the Emergency Paid Sick Leave Act, and
+
+&emsp;"(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a).
+
+"(g)
+
+Application of Section.—This section shall apply only to wages paid with respect to the period beginning on a date selected by the Secretary of the Treasury (or the Secretary's delegate) which is during the 15-day period beginning on the date of the enactment of this Act \[Mar. 18, 2020\], and ending on March 31, 2021.
+
+"(h)
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.
+
+"(i)
+
+Treatment of Deposits.—The Secretary of the Treasury (or the Secretary's delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section."
+
+\[Pub. L. 116–260, div. N, title II, §288(f), Dec. 27, 2020, 134 Stat. 1993, provided that: "The amendments made by this section \[amending section 7001 of Pub. L. 116–127, set out above, and sections 7003 and 7005 of Pub. L. 116–127, set out below\] shall take effect as if included in the provisions of the Families First Coronavirus Response Act \[Pub. L. 116–127\] to which they relate."\]
+
+#### Payroll Credit for Required Paid Family Leave
+
+Pub. L. 116–127, div. G, §7003, Mar. 18, 2020, 134 Stat. 214, as amended by Pub. L. 116–136, div. A, title III, §3606(b), (c), Mar. 27, 2020, 134 Stat. 412; Pub. L. 116–260, div. N, title II, §§286(a), (b)(3), 288(a)–(c), div. EE, title III, §303(d)(3)(C)(ii), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3077, provided that:
+
+"(a)
+
+In General.—In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified family leave wages paid by such employer with respect to such calendar quarter.
+
+"(b)
+
+Limitations and Refundability.—
+
+&emsp;"(1)
+
+Wages taken into account.—The amount of qualified family leave wages taken into account under subsection (a) with respect to any individual shall not exceed—
+
+&emsp;&emsp;"(A) for any day (or portion thereof) for which the individual is paid qualified family leave wages, $200, and
+
+&emsp;&emsp;"(B) in the aggregate with respect to all calendar quarters, $10,000.
+
+&emsp;"(2)
+
+Credit limited to certain employment taxes.—The credit allowed by subsection (a) with respect to any calendar quarter shall not exceed the tax imposed by section 3111(a) or 3221(a) of such Code for such calendar quarter (reduced by any credits allowed under subsections (e) and (f) of section 3111 of such Code, section 7001 of this Act \[set out as a note above\], and section 303(d) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 \[div. EE of Pub. L. 116–260, 134 Stat. 3076, in part amending this note and provisions set out as notes under this section; see Tables for classification\], for such quarter) on the wages paid with respect to the employment of all employees of the employer.
+
+&emsp;"(3)
+
+Refundability of excess credit.—
+
+&emsp;&emsp;"(A)
+
+Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shallbe refunded under sections 6402(a) and 6413(b) of such Code.
+
+&emsp;&emsp;"(B)
+
+Advancing credit.—In anticipation of the credit, including the refundable portion under subparagraph (A), the credit may be advanced, according to forms and instructions provided by the Secretary, up to an amount calculated under subsection (a), subject to the limits under subsection (b), both calculated through the end of the most recent payroll period in the quarter.
+
+"(c)
+
+Qualified Family Leave Wages.—For purposes of this section, the term 'qualified family leave wages' means wages (as defined in section 3121(a) of such Code, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code and section 7005(a) of this Act \[set out below\],) \[sic\] and compensation (as defined in section 3231(e) of the Internal Revenue Code \[of 1986\], determined without regard to the sentence in paragraph (1) thereof which begins 'Such term does not include remuneration' and without regard to section 7005(a) of this Act) paid by an employer—
+
+&emsp;"(1) which are required to be paid by reason of the Emergency Family and Medical Leave Expansion Act \[div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under section 2601 of Title 29, Labor\] (including the amendments made by such Act), or
+
+&emsp;"(2) both—
+
+&emsp;&emsp;"(A) which would be so required to be paid if section 102(a)(1)(F) of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2612(a)(1)(F)\], as amended by the Emergency Family and Medical Leave Expansion Act, were applied by substituting 'March 31, 2021' for 'December 31, 2020', and
+
+&emsp;&emsp;"(B) with respect to which all requirements of the Family and Medical Leave Act of 1993 (other than section 107 \[29 U.S.C. 2617\] thereof, and determined by substituting 'To be compliant with section 102(a)(1)(F), an employer may not' for 'It shall be unlawful for any employer to' each place it appears in subsection (a) of section 105 \[29 U.S.C. 2615\] thereof, by substituting 'made unlawful in this title or described in this section' for 'made unlawful by this title' in paragraph (2) of such subsection, and by substituting 'To be compliant with section 102(a)(1)(F), an employer may not' for 'It shall be unlawful for any person to' in subsection (b) of such section) which relate to such section 102(a)(1)(F), and which would apply if so required, are satisfied.
+
+"(d)
+
+Allowance of Credit for Certain Health Plan Expenses.—
+
+&emsp;"(1)
+
+In general.—The amount of the credit allowed under subsection (a) shall be increased by so much of the employer's qualified health plan expenses as are properly allocable to the qualified family leave wages for which such credit is so allowed.
+
+&emsp;"(2)
+
+Qualified health plan expenses.—For purposes of this subsection, the term 'qualified health plan expenses' means amounts paid or incurred by the employer to provide and maintain a group health plan (as defined in section 5000(b)(1) of the Internal Revenue Code of 1986), but only to the extent that such amounts are excluded from the gross income of employees by reason of section 106(a) of such Code.
+
+&emsp;"(3)
+
+Allocation rules.—For purposes of this section, qualified health plan expenses shall be allocated to qualified family leave wages in such manner as the Secretary of the Treasury (or the Secretary's delegate) may prescribe. Except as otherwise provided by the Secretary, such allocation shall be treated as properly made if made on the basis of being pro rata among covered employees and pro rata on the basis of periods of coverage (relative to the time periods of leave to which such wages relate).
+
+"(e)
+
+Special Rules.—
+
+&emsp;"(1)
+
+Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code.
+
+&emsp;"(2)
+
+Election not to have section apply.—This section shall not apply with respect to any employer for any calendar quarter if such employer elects (at such time and in such manner as the Secretary of the Treasury (or the Secretary's delegate) may prescribe) not to have this section apply.
+
+&emsp;"(3)
+
+Certain terms.—Except as otherwise provided in this section, any term used in this section which is also used in chapter 21 of such Code shall have the same meaning as when used in such chapter.
+
+&emsp;"(4)
+
+Certain governmental employers.—This credit shall not apply to the Government of the United States, the government of any State or political subdivision thereof, or any agency or instrumentality of any of the foregoing.
+
+&emsp;"(4) \[(5)\]
+
+References to railroad retirement tax.—Any reference in this section to the tax imposed by section 3221(a) of the Internal Revenue Code of 1986 shall be treated as a reference to so much of such tax as is attributable to the rate in effect under section 3111(a) of such Code.
+
+"(f)
+
+Regulations.—The Secretary of the Treasury (or the Secretary's delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+&emsp;"(1) regulations or other guidance to prevent the avoidance of the purposes of the limitations under this section,
+
+&emsp;"(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section,
+
+&emsp;"(3) regulations or other guidance providing for waiver of penalties for failure to deposit amounts in anticipation of the allowance of the credit allowed under this section,
+
+&emsp;"(4) regulations or other guidance for recapturing the benefit of credits determined under this section in cases where there is a subsequent adjustment to the credit determined under subsection (a),
+
+&emsp;"(5) regulations or other guidance to ensure that the wages taken into account under this section conform with the paid leave required to be provided under the Emergency Family and Medical Leave Expansion Act (including the amendments made by such Act), and
+
+&emsp;"(6) regulations or other guidance to permit the advancement of the credit determined under subsection (a).
+
+"(g)
+
+Application of Section.—This section shall apply only to wages paid with respect to the period beginning on a date selected by the Secretary of the Treasury (or the Secretary's delegate) which is during the 15-day period beginning on the date of the enactment of this Act \[Mar. 18, 2020\], and ending on March 31, 2021.
+
+"(h)
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.
+
+"(i)
+
+Treatment of Deposits.—The Secretary of the Treasury (or the Secretary's delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section."
+
+\[Pub. L. 116–260, div. N, §288(a)(1)(A), which directed amendment of section 7003(c) of Pub. L. 116–127, set out above, by inserting ", determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code" after "as defined in section 3121(a) of the Internal Revenue Code of 1986", was executed by making the insertion after "as defined in section 3121(a) of such Code" to reflect the probable intent of Congress.\]
+
+#### Special Rule Related to Tax on Employers
+
+Pub. L. 116–127, div. G, §7005, Mar. 18, 2020, 134 Stat. 219, as amended by Pub. L. 116–260, div. N, title II, §§286(b)(5), 288(d), (e), Dec. 27, 2020, 134 Stat. 1991, 1992, provided that:
+
+"(a)
+
+In General.—Any wages required to be paid by reason of the Emergency Paid Sick Leave Act \[div. E of Pub. L. 116–127, 29 U.S.C. 2601 note\] and the Emergency Family and Medical Leave Expansion Act \[div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under section 2601 of Title 29, Labor\] (or, in the case of wages paid after December 31, 2020, and before April 1, 2021, with respect to which a credit is allowed under section 7001 \[set out above\] or 7003 \[set out above\]) shall not be considered wages for purposes of section 3111(a) of the Internal Revenue Code of 1986 or compensation for purposes of section 3221(a) of such Code. Any reference in this subsection to the tax imposed by section 3221(a) of such Code shall be treated as a reference to so much of the tax as is attributable to the rate in effect under section 3111(a) of such Code.
+
+"(b)
+
+Allowance of Credit for Hospital Insurance Taxes.—
+
+&emsp;"(1)
+
+In general.—The credit allowed by section 7001 and the credit allowed by section 7003 shall each be increased by the amount of the tax imposed by section 3111(b) of the Internal Revenue Code of 1986 and so much of the taxes imposed under section 3221(a) of such Code as are attributable to the rate in effect under section 3111(b) of such Code on qualified sick leave wages, or qualified family leave wages, for which credit is allowed under such section 7001 or 7003 (respectively).
+
+&emsp;"(2)
+
+Denial of double benefit.—For denial of double benefit with respect to the credit increase under paragraph (1), see sections 7001(e)(1) and 7003(e)(1).
+
+"(c)
+
+Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted."
+

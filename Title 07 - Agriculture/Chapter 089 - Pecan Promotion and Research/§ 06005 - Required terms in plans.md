@@ -124,7 +124,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (i) Submitting nominations
 
-&emsp;&emsp;&emsp;To fill any vacancy created by the death, removal, resignation, or disqualification of any member of the Board, the Secretary shall request that at least 2 eligible nominations for a successor for each such vacancy be submitted by the Board in the manner provided in paragraph (8).
+&emsp;&emsp;&emsp;To fill any vacancy created by the death, removal, resignation, or disqualification ofany member of the Board, the Secretary shall request that at least 2 eligible nominations for a successor for each such vacancy be submitted by the Board in the manner provided in paragraph (8).
 
 #### (ii) Lack of nominations
 
@@ -204,7 +204,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (6) Limitation on spending
 
-&emsp;Effective on the date that is 3 years after the date of the establishment of the Board, the Board shall not spend in excess of 20 percent of the assessments collected under section 6007 of this title for administration of the Board.
+&emsp;Effective on the date that is 3 years after the date of the establishment of the Board, the Board shall not spend in excess of 20 percent ofthe assessments collected under section 6007 of this title for administration of the Board.
 
 #### (e) Contracts and agreements
 
@@ -232,7 +232,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 &emsp;The plan shall require the Board to—
 
-&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretaryfor inspection and audit) as the Secretary may prescribe;
+&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe;
 
 &emsp;&emsp;(B) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe; and
 

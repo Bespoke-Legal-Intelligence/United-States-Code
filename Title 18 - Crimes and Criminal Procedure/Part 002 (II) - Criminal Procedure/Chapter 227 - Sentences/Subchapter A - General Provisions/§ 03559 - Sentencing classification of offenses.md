@@ -60,7 +60,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
-&emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
+&emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
 &emsp;&emsp;(G) the term "State" means a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States; and
 
@@ -180,6 +180,8 @@ Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654; Pub. L. 108–482, title II, §204(a), Dec. 23, 2004, 118 Stat. 3917; Pub. L. 109–248, title II, §§202, 206(c), July 27, 2006, 120 Stat. 612, 614.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (e)(2)(A). Pub. L. 109–248, §206(c), inserted "1591 (relating to sex trafficking of children)," after "under section".
@@ -209,6 +211,8 @@ Subsec. (a)(1) to (9). Pub. L. 100–690, §7041(a)(2), (b), redesignated subpar
 &emsp;"(1) the maximum fine that may be imposed is the fine authorized by the statute describing the offense, or by this chapter, whichever is the greater; and
 
 &emsp;"(2) the maximum term of imprisonment is the term authorized by the statute describing the offense."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

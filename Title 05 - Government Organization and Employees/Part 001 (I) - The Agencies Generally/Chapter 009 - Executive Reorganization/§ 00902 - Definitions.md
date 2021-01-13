@@ -48,7 +48,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-This section amends section 902 of title 5, United States Code, so as to preserve the application of the source statute for section 902 (sec. 7 of the Reorganization Act of 1949). In the codification of title 5 by Public Law 89–554, that application was inadvertently restricted due to the operation of section 2104 of title 5, providing a title-wide definition of "officer." Briefly, that section defines "officer" as a civil appointive officer of the Federal Government. In the Reorganization Act of 1949, the word "officer" was not defined, and has been construed to include not only civil appointive officers, but uniformed officers, the President, and officers of the government of the District of Columbia. Thus, this section amends section 902 of title 5 by inserting a paragraph providing that the title-wide definition of officer is inapplicable to chapter 9 of title 5. Also, paragraph (1)(B) of section 902 is amended so that the wording thereof is identical to that formerly appearing in section 7 of the Reorganization Act of 1949.
+This section amends section 902 of title 5, United States Code, so as to preserve the application of thesource statute for section 902 (sec. 7 of the Reorganization Act of 1949). In the codification of title 5 by Public Law 89–554, that application was inadvertently restricted due to the operation of section 2104 of title 5, providing a title-wide definition of "officer." Briefly, that section defines "officer" as a civil appointive officer of the Federal Government. In the Reorganization Act of 1949, the word "officer" was not defined, and has been construed to include not only civil appointive officers, but uniformed officers, the President, and officers of the government of the District of Columbia. Thus, this section amends section 902 of title 5 by inserting a paragraph providing that the title-wide definition of officer is inapplicable to chapter 9 of title 5. Also, paragraph (1)(B) of section 902 is amended so that the wording thereof is identical to that formerly appearing in section 7 of the Reorganization Act of 1949.
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -59,6 +61,8 @@ Section 902(a) of former Title 5, Executive Departments and Government Officers 
 <b>2004</b>—Par. (1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in concluding provisions.
 
 <b>1977</b>—Par. (1)(C). Pub. L. 95–17 struck out subpar. (C) which defined "agency" as any and all parts of the government of the District of Columbia other than the courts thereof.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

@@ -22,6 +22,8 @@ Likewise the words "upon conviction in any district court of the United States" 
 
 (See reviser's note under section 656 of this title for statement of reasons for dividing said section 592 into three revised sections, with consequent changes in phraseology, style, and arrangement.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

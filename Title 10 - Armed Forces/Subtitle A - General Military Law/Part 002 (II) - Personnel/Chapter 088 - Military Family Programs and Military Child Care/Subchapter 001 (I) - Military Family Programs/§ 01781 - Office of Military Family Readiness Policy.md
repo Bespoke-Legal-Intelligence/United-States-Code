@@ -38,6 +38,32 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 #### Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families
 
+#### Family Readiness: Definitions; Communication Strategy; Review; Report
+
+Pub. L. 116–283, div. A, title V, §581, Jan. 1, 2021, 134 Stat. 3651, provided that:
+
+"(a)
+
+Definitions.—Not later than six months after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall act on recommendation one of the report, dated July 2019, of the National Academies of Science, Engineering and Medicine, titled 'Strengthening the Military Family Readiness System for a Changing American Society', by establishing definitions of 'family well-being', 'family readiness', and 'family resilience' for use by the Department of Defense.
+
+"(b)
+
+Communication Strategy.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall—
+
+&emsp;"(1) ensure that the Secretary of Defense has carried out section 561 of the National Defense Authorization Act for Fiscal Year 2010 (\[Pub. L. 111–84\]; 10 U.S.C. 1781 note);
+
+&emsp;"(2) implement a strategy to use of a variety of modes of communication to ensure the broadest means of communicating with military families; and
+
+&emsp;"(3) establish a process to measure the effectiveness of the modes of communication described in paragraph (2).
+
+"(c)
+
+Review.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall conduct a review of current programs, policies, services, resources, and practices of the Department for military families as outlined in recommendation four of the report described in subsection (a).
+
+"(d)
+
+Report.—Not later than 60 days after completing the review under subsection (c), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing the results of the review and how the Secretary shall improve programs, policies, services, resources, and practices for military families, based on the review."
+
 #### Time Requirements for Certification of Honorable Service
 
 Pub. L. 116–92, div. A, title V, §526, Dec. 20, 2019, 133 Stat. 1356, provided that: "The Secretary of Defense shall publish regulations for submission and processing of a completed United States Citizenship and Immigration Services Form N–426, by a member of the Armed Forces. Such regulations shall designate the appropriate level for the certifying officer as well as establish time requirements for the form to be returned to the member of the Armed Forces."
@@ -206,7 +232,7 @@ Elements.—The policy required by this section shall provide for the following:
 
 #### Provision of Information on Naturalization Through Military Service
 
-Pub. L. 115–91, div. A, title V, §530, Dec. 12, 2017, 131 Stat. 1383, provided that: "The Secretary of Defense shall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process."
+Pub. L. 115–91, div. A, title V, §530, Dec. 12, 2017, 131 Stat. 1383, provided that: "The Secretary of Defenseshall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process."
 
 #### Support for Programs Providing Camp Experience for Children of Military Families
 
@@ -398,7 +424,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Military Family Recognition.—In view of the findings in subsection (a), Congress determines that itis appropriate that special measures be taken annually to recognize and honor the American military family.
+Military Family Recognition.—In view of the findings in subsection (a), Congress determines that it is appropriate that special measures be taken annually to recognize and honor the American military family.
 
 "(c)
 
@@ -422,7 +448,7 @@ New American service members are undoubtedly a critical element of our national 
 
 Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the "Naturalization at Basic Training Initiative," which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
 
-In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhance collaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
+In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhancecollaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
 
 Section 1. <i>Interagency Working Group to Support New American Service Members, Veterans, and their Families</i>. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits, and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
 

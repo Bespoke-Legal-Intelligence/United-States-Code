@@ -6,7 +6,7 @@ The Administrator shall—
 
 &emsp;(1) coordinate Federal energy programs and policies with such programs and policies of State governments by providing—
 
-&emsp;&emsp;(A) within sixty days of the effective date of this chapter, the Congress and State governments with a report on the manner inwhich he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this chapter or under the authority of other Acts; and
+&emsp;&emsp;(A) within sixty days of the effective date of this chapter, the Congress and State governments with a report on the manner in which he has organized the Administration based upon the functions delegated by the President or assigned to the Administrator by this chapter or under the authority of other Acts; and
 
 &emsp;&emsp;(B) within one hundred and twenty days of the effective date of this chapter, the public, State governments, and all Members of the Congress with a report in nontechnical language which—
 
@@ -20,7 +20,7 @@ The Administrator shall—
 
 &emsp;(2) before promulgating any rules, regulations, or policies, and before establishing any programs under the authority of this chapter, provide, where practicable, a reasonable period in which State governments may provide written comments if such rules, regulations, policies, or programs substantially affect the authority or responsibility of such State governments;
 
-&emsp;(3) provide, in accordance with the provisions of this chapter, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal, within the distribution area serving that particular State government; and
+&emsp;(3) provide, in accordance with the provisions of this chapter, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal,within the distribution area serving that particular State government; and
 
 &emsp;(4) provide for a central clearinghouse for Federal agencies and State governments seeking energy information and assistance from the Federal Government.
 

@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 Section 11101 provides mandatory standards for crew accommodations and a penalty for noncompliance with those standards.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons" in introductory provisions.

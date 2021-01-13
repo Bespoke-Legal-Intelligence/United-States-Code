@@ -16,6 +16,8 @@ The Secretary of Agriculture is authorized to make direct loans in a manner cons
 
 (Pub. L. 91–229, §1, Apr. 11, 1970, 84 Stat. 120; Pub. L. 110–234, title V, §5501, May 22, 2008, 122 Stat. 1161; Pub. L. 110–246, §4(a), title V, §5501, June 18, 2008, 122 Stat. 1664, 1922; Pub. L. 113–79, title V, §5402, Feb. 7, 2014, 128 Stat. 840.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Act is classified principally to subchapter IV (§1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
@@ -26,17 +28,19 @@ The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934,
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 488 of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–79, §5402(1), in first sentence, substituted "direct loans in a manner consistentwith direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1981 et seq.)" for "loans from the Farmers Home Administration Direct Loan Account created by section 1988(c) of title 7, and to make and insure loans as provided in sections 1928 and 1929 of title 7".
+<b>2014</b>—Subsec. (a). Pub. L. 113–79, §5402(1), in first sentence, substituted "direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1981 et seq.)" for "loans from the Farmers Home Administration Direct Loan Account created by section 1988(c) of title 7, and to make and insure loans as provided in sections 1928 and 1929 of title 7".
 
 Subsec. (b)(1). Pub. L. 113–79, §5402(2), substituted "or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section" for "pursuant to section 2204(c) of this title".
 
 <b>2008</b>—Pub. L. 110–246, §5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

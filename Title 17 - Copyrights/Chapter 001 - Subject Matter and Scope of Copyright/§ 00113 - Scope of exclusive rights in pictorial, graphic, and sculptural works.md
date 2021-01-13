@@ -22,7 +22,7 @@
 
 > For purposes of subparagraph (A), an owner shall be presumed to have made a diligent, good faith attempt to send notice if the owner sent such notice by registered mail to the author at the most recent address of the author that was recorded with the Register of Copyrights pursuant to paragraph (3). If the work is removed at the expense of the author, title to that copy of the work shall be deemed to be in the author.
 
-(3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
+(3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in ormade part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 101–650, title VI, §604, Dec. 1, 1990, 104 Stat. 5130.)
 
@@ -40,6 +40,8 @@ Section 113(c) provides that it would not be an infringement of copyright, where
 
 In conformity with its deletion from the bill of Title II, relating to the protection of ornamental designs of useful articles, the Committee has deleted subsections (b), (c), and (d) of section 113 of S. 22 as adopted by the Senate, since they are no longer relevant.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], referred to in subsec. (d)(1)(B), is set out as an Effective Date note under section 106A of this title.
@@ -47,6 +49,8 @@ Section 610(a) of the Visual Artists Rights Act of 1990 \[Pub. L. 101–650\], r
 #### Amendments
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–650 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

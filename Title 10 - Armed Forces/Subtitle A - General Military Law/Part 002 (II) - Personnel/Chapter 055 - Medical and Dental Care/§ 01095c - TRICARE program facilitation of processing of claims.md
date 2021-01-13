@@ -10,7 +10,7 @@ Reduction of Processing Time.—(1) With respect to claims for payment for medic
 
 (2) The Secretary may, under the system required by paragraph (1) and consistent with the provisions in chapter 39 of title 31 (commonly referred to as the "Prompt Payment Act"), require that interest be paid on clean claims that are not processed within 30 days.
 
-(3) For purposes of this subsection, the term "clean claim" means a claim that has no defect,impropriety (including a lack of any required substantiating documentation), or particular circumstance requiring special treatment that prevents timely payment on the claim under this section.
+(3) For purposes of this subsection, the term "clean claim" means a claim that has no defect, impropriety (including a lack of any required substantiating documentation), or particular circumstance requiring special treatment that prevents timely payment on the claim under this section.
 
 (b)
 
@@ -50,7 +50,7 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
-<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract.In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
 
 Subsec. (b)(3). Pub. L. 107–107, §708(b)(2), added par. (3).
 
@@ -86,7 +86,7 @@ Report on Collection of Amounts Owed.—Not later than March 1, 2007, the Secret
 
 &emsp;&emsp;"(A) collection by military treatment facilities from third-party payers; and
 
-&emsp;&emsp;"(B) collection by contractors providing managed care support under the TRICARE program fromother insurers in cases of private insurance liability for health care costs of a TRICARE beneficiary.
+&emsp;&emsp;"(B) collection by contractors providing managed care support under the TRICARE program from other insurers in cases of private insurance liability for health care costs of a TRICARE beneficiary.
 
 &emsp;"(2) An estimate of the outstanding amounts owed from third party payers in each of fiscal years 2002, 2003, and 2004.
 

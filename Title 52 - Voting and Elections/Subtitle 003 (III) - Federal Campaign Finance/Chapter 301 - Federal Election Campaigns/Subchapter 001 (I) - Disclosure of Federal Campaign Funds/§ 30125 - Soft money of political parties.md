@@ -76,7 +76,7 @@ A national, State, district, or local committee of a political party (including 
 
 &emsp;&emsp;(B) solicit, receive, direct, transfer, or spend funds in connection with any election other than an election for Federal office or disburse funds in connection with such an election unless the funds—
 
-&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions tocandidates and political committees under paragraphs (1), (2), and (3) of section 30116(a) of this title; and
+&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of section 30116(a) of this title; and
 
 &emsp;&emsp;&emsp;(ii) are not from sources prohibited by this Act from making contributions in connection with an election for Federal office.
 
@@ -114,6 +114,8 @@ A national, State, district, or local committee of a political party (including 
 
 (Pub. L. 92–225, title III, §323, as added Pub. L. 107–155, title I, §101(a), Mar. 27, 2002, 116 Stat. 82.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means the Federal Election Campaign Act of 1971, as defined by section 30101 of this title.
@@ -127,6 +129,8 @@ Section was formerly classified to section 441i of Title 2, The Congress, prior 
 A prior section 323 of Pub. L. 92–225 was classified to section 441i of Title 2, The Congress, and related to acceptance of excessive honorariums, prior to repeal by Pub. L. 102–90, title I, §6(d), Aug. 14, 1991, 105 Stat. 451.
 
 Another prior section 323 of Pub. L. 92–225 was renumbered section 318, and is classified to section 30120 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

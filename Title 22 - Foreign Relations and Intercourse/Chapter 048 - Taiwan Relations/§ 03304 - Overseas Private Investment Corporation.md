@@ -2,7 +2,7 @@
 
 #### (a) Removal of per capita income restriction on Corporation activities with respect to investment projects on Taiwan
 
-During the three-year period beginning on April 10, 1979, the $1,000 per capita income restriction in clause (2) of the second undesignated paragraph of section 2191 <sup>1</sup> of this title shall not restrict the activities of the Overseas Private Investment Corporation in determining whether to provide any insurance, reinsurance, loans, orguaranties with respect to investment projects on Taiwan.
+During the three-year period beginning on April 10, 1979, the $1,000 per capita income restriction in clause (2) of the second undesignated paragraph of section 2191 <sup>1</sup> of this title shall not restrict the activities of the Overseas Private Investment Corporation in determining whether to provide any insurance, reinsurance, loans, or guaranties with respect to investment projects on Taiwan.
 
 #### (b) Application by Corporation of other criteria
 
@@ -10,9 +10,13 @@ Except as provided in subsection (a) of this section, in issuing insurance, rein
 
 (Pub. L. 96–8, §5, Apr. 10, 1979, 93 Stat. 16.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2191 of this title, referred to in subsec. (a), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

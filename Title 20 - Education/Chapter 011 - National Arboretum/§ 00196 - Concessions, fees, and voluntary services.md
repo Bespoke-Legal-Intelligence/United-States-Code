@@ -28,7 +28,7 @@ Any funds received or collected by the Secretary of Agriculture as a result of a
 
 #### (c) Acceptance of voluntary services
 
-The Secretary of Agriculture may accept the voluntary services of organizations described insubsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
+The Secretary of Agriculture may accept the voluntary services of organizations described in subsection (a)(1), and the voluntary services of individuals (including employees of the National Arboretum), for the benefit of the National Arboretum.
 
 #### (d) Recognition of donors
 

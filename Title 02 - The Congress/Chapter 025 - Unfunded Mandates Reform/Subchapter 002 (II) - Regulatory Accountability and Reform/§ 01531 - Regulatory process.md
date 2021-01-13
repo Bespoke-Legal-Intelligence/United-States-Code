@@ -4,9 +4,13 @@ Each agency shall, unless otherwise prohibited by law, assess the effects of Fed
 
 (Pub. L. 104–4, title II, §201, Mar. 22, 1995, 109 Stat. 64.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 104–4, title II, §209, Mar. 22, 1995, 109 Stat. 67, provided that: "This title \[enacting this subchapter\] and the amendments made by this title shall take effect on the date of the enactment of this Act \[Mar. 22, 1995\]."
+
+#### <b>Executive Documents</b>
 
 #### Regulatory Planning and Review
 

@@ -70,6 +70,8 @@ The definition of "Member of Congress" in former section 835(4) is omitted as un
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739.
@@ -81,6 +83,8 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 <b>1986</b>—Par. (4). Pub. L. 99–234 amended par. (4) generally, striking out "flat rate" before "payment".
 
 <b>1975</b>—Par. (2). Pub. L. 94–22 redefined "employee" to include individuals employed intermittently as experts or consultants and paid on a daily when-actually-employed basis, and individuals serving without pay at $1 a year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment; Regulations
 
@@ -108,11 +112,11 @@ Pub. L. 94–22, §1, May 19, 1975, 89 Stat. 84, provided: "That this Act \[see 
 
 #### Construction
 
-Pub. L. 112–194, §6, Oct. 5, 2012, 126 Stat. 1451, provided that:
+Pub. L. 112–194, §6, Oct. 5, 2012, 126 Stat. 1451, as amended by Pub. L. 116–117, §3(b)(1), Mar. 2, 2020, 134 Stat. 133, provided that:
 
 "(a)
 
-Executive Agency Accounting.—Nothing in this Act \[see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in section 3512 of title 31, United States Code, or in the Improper Payments Information Act of 2002 \[Pub. L. 107–300\] (31 U.S.C. 3321 note).
+Executive Agency Accounting.—Nothing in this Act \[see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts\], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in section 3512 or subchapter IV of chapter 33 of title 31, United States Code.
 
 "(b)
 
@@ -146,7 +150,7 @@ Pub. L. 108–447, div. G, title II, §209, Dec. 8, 2004, 118 Stat. 3193, provid
 
 #### Creditworthiness of Individuals To Be Issued Government Charge Cards
 
-Pub. L. 112–74, div. C, title VII, §736, Dec. 23, 2011, 125 Stat. 937, provided that: "Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessmentof the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct."
+Pub. L. 112–74, div. C, title VII, §736, Dec. 23, 2011, 125 Stat. 937, provided that: "Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual's consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 \[Pub. L. 90–321\]) \[15 U.S.C. 1681a\]: <i>Provided</i>, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: <i>Provided further</i>, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct."
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -246,7 +250,7 @@ Timing.—The first report under this subsection shall be submitted before the e
 
 &emsp;"(3)
 
-Preparation.—Each report shall be based on a sampling survey of agencies that expended more than$5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. The head of an agency shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director of the Office of Management and Budget.
+Preparation.—Each report shall be based on a sampling survey of agencies that expended more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. The head of an agency shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director of the Office of Management and Budget.
 
 "(g)
 

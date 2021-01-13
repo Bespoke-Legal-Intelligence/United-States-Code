@@ -25,7 +25,7 @@ A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title X, §1011(a)(2), title XII, §1241(a)(1), (o)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title "MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES" as chapter 15, redesignated item 371 "Use of information collected during military operations" as item 271, redesignated item 372 "Use of military equipment and facilities" as item 272, redesignated item 373 "Training and advising civilian law enforcement officials" as item 273, redesignated item 374 "Maintenance and operation of equipment" as item 274, redesignated item 375 "Restriction on direct participation by military personnel" as item 275, redesignated item 376 "Support not to affect adversely military preparedness" as item 276, redesignated item 377 "Reimbursement" as item 277, redesignated item 378 "Nonpreemption of other law" as item 278, redesignated item 379 "Assignment of Coast Guard personnel to naval vessels for law enforcement purposes" as item 279, redesignated item 380 "Enhancement of cooperation with civilian law enforcement officials" as item 280, redesignated item 381 "Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities" as item 281, redesignated item 382 "Emergency situations involving weapons of mass destruction" as item 282, redesignated item 383 "Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities" as item 283, and redesignated item 384 "Support for counterdrug activities and activities to counter transnational organized crime" as item 284.
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1011(a)(2), title XII, §1241(a)(1), (o)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title "MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES" as chapter 15, redesignated item 371 "Use of information collected during military operations" as item 271, redesignated item 372 "Use of military equipment and facilities" as item 272, redesignated item 373 "Training and advising civilian law enforcement officials" as item 273, redesignated item 374 "Maintenance and operation of equipment" as item 274, redesignated item 375 "Restriction on direct participation by military personnel" as item 275, redesignated item 376 "Support not to affect adversely military preparedness" as item 276, redesignated item 377 "Reimbursement" as item 277, redesignated item 378 "Nonpreemption of other law" as item 278, redesignated item 379 "Assignment of Coast Guard personnel to naval vessels for law enforcement purposes" as item 279, redesignated item 380 "Enhancement of cooperation with civilian law enforcement officials" as item 280, redesignated item 381 "Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities" as item 281, redesignated item 382 "Emergency situations involving weapons of mass destruction" as item 282, redesignated item 383 "Situations involving bombings of places of public use, Government facilities, publictransportation systems, and infrastructure facilities" as item 283, and redesignated item 384 "Support for counterdrug activities and activities to counter transnational organized crime" as item 284.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1082(b), Nov. 25, 2015, 129 Stat. 1003, added item 383.
 
@@ -47,45 +47,7 @@ A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13
 
 #### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States
 
-Pub. L. 114–92, div. A, title X, §1059, Nov. 25, 2015, 129 Stat. 986, provided that:
-
-"(a)
-
-Authority to Provide Assistance.—The Secretary of Defense may provide assistance to United States Customs and Border Protection for purposes of increasing ongoing efforts to secure the southern land border of the United States.
-
-"(b)
-
-Concurrence in Assistance.—Assistance under subsection (a) shall be provided with the concurrence of the Secretary of Homeland Security.
-
-"(c)
-
-Types of Assistance Authorized.—The assistance provided under subsection (a) may include the following:
-
-&emsp;"(1) Deployment of members and units of the regular and reserve components of the Armed Forces to the southern land border of the United States.
-
-&emsp;"(2) Deployment of manned aircraft, unmanned aerial surveillance systems, and ground-based surveillance systems to support continuous surveillance of the southern land border of the United States.
-
-&emsp;"(3) Intelligence analysis support.
-
-"(d)
-
-Materiel and Logistical Support.—The Secretary of Defense is authorized to deploy such materiel and equipment and logistics support as is necessary to ensure the effectiveness of assistance provided under subsection (a).
-
-"(e)
-
-Funding.—Of the amounts authorized to be appropriated for the Department of Defense by this Act \[see Tables for classification\], the Secretary of Defense may use up to $75,000,000 to provide assistance under subsection (a).
-
-"(f)
-
-Reports.—At the end of each three-month period during which assistance is provided under subsection (a), the Secretary of Defense, in coordination with the Secretary of Homeland Security, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate a report on the provision of such assistance during that period. Each report shall include, for the period covered by the report, the following:
-
-&emsp;"(1) A description of the assistance provided.
-
-&emsp;"(2) A description of the sources and amounts of funds used to provide such assistance.
-
-&emsp;"(3) A description of the amounts obligated to provide such assistance.
-
-&emsp;"(4) An assessment of the efficacy and cost-effectiveness of such assistance in support of the Department of Homeland Security's objectives and strategy to address the challenges on the southern land border of the United States and recommendations, if any, to enhance the effectiveness of such assistance."
+Pub. L. 114–92, div. A, title X, §1059, Nov. 25, 2015, 129 Stat. 986, as amended by Pub. L. 116–283, div. A, title X, §1056(a), (b), Jan. 1, 2021, 134 Stat. 3855, which authorized Department of Defense to provide assistance to secure the southern land border of the United States, was transferred by Pub. L. 116–283, div. A, title X, §1056(c), Jan. 1, 2021, 134 Stat. 3856, and is set out as a note under section 284 of this title.
 
 
 ---

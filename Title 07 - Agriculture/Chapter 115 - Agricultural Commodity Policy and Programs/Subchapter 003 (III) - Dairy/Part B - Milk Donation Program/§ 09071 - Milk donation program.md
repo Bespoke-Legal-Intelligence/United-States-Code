@@ -124,7 +124,7 @@ Not later than 180 days after December 20, 2018, the Secretary shall establish a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall establish a procedure for a participating partnership to request an increase in the amount preapproved for reimbursement underparagraph (1)(B) based on changes in conditions.
+&emsp;&emsp;&emsp;The Secretary shall establish a procedure for a participating partnership to request an increase in the amount preapproved for reimbursement under paragraph (1)(B) based on changes in conditions.
 
 #### (ii) Interim approval; incremental increase
 

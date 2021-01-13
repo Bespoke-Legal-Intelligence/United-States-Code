@@ -50,9 +50,13 @@ Other definitions appearing in former section 2331 are omitted from this section
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–175 substituted "5" for "3" and inserted provision enabling President, regarding an agency employee detailed to an international organization for 5 years, to extend the 5-year period for up to an additional 3 years.
+
+#### <b>Executive Documents</b>
 
 #### Details to International Organizations
 

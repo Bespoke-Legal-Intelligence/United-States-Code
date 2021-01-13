@@ -48,6 +48,8 @@ In subsection (d), the words "the head of the agency concerned" are substituted 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–277 inserted "or section 3595" after "chapter 35".
@@ -57,6 +59,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Subsec. (e). Pub. L. 95–519 substituted "6301(2)(x)–(xiii)" for "6301(2)(x)–(xii)".
 
 <b>1973</b>—Subsec. (f). Pub. L. 93–181 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

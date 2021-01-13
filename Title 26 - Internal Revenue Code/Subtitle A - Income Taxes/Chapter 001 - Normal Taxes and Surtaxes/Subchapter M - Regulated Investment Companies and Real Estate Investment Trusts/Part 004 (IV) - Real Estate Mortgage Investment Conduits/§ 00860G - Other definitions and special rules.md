@@ -112,7 +112,7 @@ For purposes of this part—
 
 #### (b) Treatment of nonresident aliens and foreign corporations
 
-If the holder of a residual interest in a REMIC is a nonresident alien individual or a foreign corporation, for purposes of sections 871(a), 881, 1441, and 1442—
+If the holder of a residual interest in a REMIC is a nonresident alien individual or a foreigncorporation, for purposes of sections 871(a), 881, 1441, and 1442—
 
 &emsp;(1) amounts includible in the gross income of such holder under this part shall be taken into account when paid or distributed (or when the interest is disposed of), and
 
@@ -164,7 +164,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, titleVII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, §401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, §401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted "a rever
 
 Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions "For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
 
-Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding provisions ", and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property".
+Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding provisions ", and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii))shall be treated as an obligation secured by an interest in real property".
 
 Subsec. (a)(3)(A)(iii). Pub. L. 108–357, §835(b)(8)(A), added cl. (iii).
 

@@ -32,9 +32,13 @@ McCreary County of the Eastern District was formed from parts of the counties of
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

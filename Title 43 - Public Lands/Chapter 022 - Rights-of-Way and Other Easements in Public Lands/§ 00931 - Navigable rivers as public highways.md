@@ -4,6 +4,8 @@ All navigable rivers, within the territory occupied by the public lands, shall r
 
 (R.S. §2476.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2476 derived from acts May 18, 1796, ch. 29, §9, 1 Stat. 468; Mar. 3, 1803, ch. 27, §17, 2 Stat. 235.

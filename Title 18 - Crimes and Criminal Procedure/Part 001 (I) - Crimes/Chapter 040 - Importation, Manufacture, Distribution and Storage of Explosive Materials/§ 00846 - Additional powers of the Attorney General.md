@@ -1,10 +1,12 @@
 ### §846. Additional powers of the Attorney General
 
-(a) The Attorney General is authorized to inspect the site of any accident, or fire, in which there is reason to believe that explosive materials were involved, in order that if any such incident has been brought about by accidental means, precautions may be taken to prevent similar accidents from occurring. In order to carry out the purpose of this subsection, the Attorney General is authorized to enter into or upon any property where explosive materials have been used, are suspected of having been used, or have been found in an otherwise unauthorized location. Nothing in this chapter shall be construed as modifying or otherwise affecting in any way the investigative authority of any other Federal agency. In addition to any other investigatory authority they have with respect to violations of provisions of this chapter, the Federal Bureau of Investigation, together with the Bureau of Alcohol, Tobacco, Firearms, and Explosives, shall have authority to conduct investigations with respect to violations of subsection (d), (e), (f), (g), (h), or (i) of section 844 of this title.
+(a) The Attorney General is authorized to inspect the site of any accident, or fire, in whichthere is reason to believe that explosive materials were involved, in order that if any such incident has been brought about by accidental means, precautions may be taken to prevent similar accidents from occurring. In order to carry out the purpose of this subsection, the Attorney General is authorized to enter into or upon any property where explosive materials have been used, are suspected of having been used, or have been found in an otherwise unauthorized location. Nothing in this chapter shall be construed as modifying or otherwise affecting in any way the investigative authority of any other Federal agency. In addition to any other investigatory authority they have with respect to violations of provisions of this chapter, the Federal Bureau of Investigation, together with the Bureau of Alcohol, Tobacco, Firearms, and Explosives, shall have authority to conduct investigations with respect to violations of subsection (d), (e), (f), (g), (h), or (i) of section 844 of this title.
 
 (b) The Attorney General is authorized to establish a national repository of information on incidents involving arson and the suspected criminal misuse of explosives. All Federal agencies having information concerning such incidents shall report the information to the Attorney General pursuant to such regulations as deemed necessary to carry out the provisions of this subsection. The repository shall also contain information on incidents voluntarily reported to the Attorney General by State and local authorities.
 
 (Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 959; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §654(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369; Pub. L. 107–296, title XI, §1112(e)(2), (3), Nov. 25, 2002, 116 Stat. 2276.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -17,6 +19,8 @@ Pub. L. 107–296, §1112(e)(2), substituted "the Federal Bureau of Investigatio
 Subsec. (b). Pub. L. 107–296, §1112(e)(3), substituted "Attorney General" for "Secretary" wherever appearing.
 
 <b>1996</b>—Pub. L. 104–208 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

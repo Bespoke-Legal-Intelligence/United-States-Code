@@ -48,9 +48,9 @@ If—
 
 &emsp;(3) the contest with respect to the asserted liability exists after the time of the transfer, and
 
-&emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed for the taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
+&emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed forthe taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
 
-> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed bythe authority of any foreign country or possession of the United States.
+> then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States.
 
 #### (g) Prepaid interest
 
@@ -138,7 +138,7 @@ If—
 
 #### (4) All events test
 
-&emsp;For purposes of this subsection, the all events test is met with respect to any item if all events have occurred which determine the fact of liability and the amount of such liability can be determined with reasonable accuracy.
+&emsp;For purposes of this subsection, the all events test is met with respect to any item if all events have occurred which determine thefact of liability and the amount of such liability can be determined with reasonable accuracy.
 
 #### (5) Subsection not to apply to certain items
 
@@ -238,7 +238,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) $300,000 ($150,000 in the case of married individuals filing separately), or
 
-&emsp;&emsp;&emsp;&emsp;(II) the excess (if any) of the aggregate amounts described in subparagraph (A)(ii)(I) for the 5-consecutive taxable year period preceding the taxable year over the aggregate amounts described in subparagraph (A)(i) for such period.
+&emsp;&emsp;&emsp;&emsp;(II) the excess (if any) of the aggregate amounts described in subparagraph\(A)(ii)(I) for the 5-consecutive taxable year period preceding the taxable year over the aggregate amounts described in subparagraph (A)(i) for such period.
 
 #### (ii) Special rules for determining aggregate amounts
 
@@ -306,9 +306,9 @@ If—
 
 &emsp;&emsp;(D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
 
-&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) ofa grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 
-> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to anotherfarm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
+> &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
 
 #### (3) Farming
 
@@ -326,15 +326,15 @@ If—
 
 #### (1) Limitation
 
-&emsp;In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+&emsp;In the case of a taxpayer other than a corporation—
 
-&emsp;&emsp;(A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+&emsp;&emsp;(A) for any taxable year beginning after December 31, 2017, and before January 1, 2026, subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
 
-&emsp;&emsp;(B) any excess business loss of the taxpayer for the taxable year shall not be allowed.
+&emsp;&emsp;(B) for any taxable year beginning after December 31, 2020, and before January 1, 2026, any excess business loss of the taxpayer for the taxable year shall not be allowed.
 
 #### (2) Disallowed loss carryover
 
-&emsp;Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss carryover to the following taxable year under section 172.
+&emsp;Any loss which is disallowed under paragraph (1) shall be treated as a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years.
 
 #### (3) Excess business loss
 
@@ -344,7 +344,7 @@ If—
 
 &emsp;&emsp;The term "excess business loss" means the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
+&emsp;&emsp;&emsp;(i) the aggregate deductions of the taxpayer for the taxable year which are attributable to trades or businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1) and without regard to any deduction allowable under section 172 or 199A), over
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 
@@ -352,7 +352,23 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(II) $250,000 (200 percent of such amount in the case of a joint return).
 
-#### (B) Adjustment for inflation
+> &emsp;&emsp;Such excess shall be determined without regard to any deductions, gross income, or gains attributable to any trade or business of performing services as an employee.
+
+#### (B) Treatment of capital gains and losses
+
+#### (i) Losses
+
+&emsp;&emsp;&emsp;Deductions for losses from sales or exchanges of capital assets shall not be taken into account under subparagraph (A)(i).
+
+#### (ii) Gains
+
+&emsp;&emsp;&emsp;The amount of gains from sales or exchanges of capital assets taken into account under subparagraph (A)(ii) shall not exceed the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the capital gain net income determined by taking into account only gains and losses attributable to a trade or business, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the capital gain net income.
+
+#### (C) Adjustment for inflation
 
 &emsp;&emsp;In the case of any taxable year beginning after December 31, 2018, the $250,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
 
@@ -380,7 +396,7 @@ If—
 
 &emsp;This subsection shall be applied after the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat.76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -397,6 +413,20 @@ Subsec. (c) of section 464 of this title, which was transferred to this section 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (l)(1). Pub. L. 116–136, §2304(a), amended par. (1) generally. Prior to amendment, text read as follows: "In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
+
+&emsp;"(A) subsection (j) (relating to limitation on excess farm losses of certain taxpayers) shall not apply, and
+
+&emsp;"(B) any excess business loss of the taxpayer for the taxable year shall not be allowed."
+
+Subsec. (l)(2). Pub. L. 116–136, §2304(b)(1), substituted "a net operating loss for the taxable year for purposes of determining any net operating loss carryover under section 172(b) for subsequent taxable years" for "a net operating loss carryover to the following taxable year under section 172".
+
+Subsec. (l)(3)(A). Pub. L. 116–136, §2304(b)(2)(B), inserted concluding provisions.
+
+Subsec. (l)(3)(A)(i). Pub. L. 116–136, §2304(b)(2)(A), inserted "and without regard to any deduction allowable under section 172 or 199A" after "under paragraph (1)".
+
+Subsec. (l)(3)(B), (C). Pub. L. 116–136, §2304(b)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 <b>2018</b>—Subsec. (i)(4). Pub. L. 115–141, §401(a)(117)(B), substituted "subsection (k)" for "subsection (j)".
 
@@ -448,7 +478,7 @@ Subsec. (h)(5)(D). Pub. L. 99–514, §805(c)(5), redesignated subpar. (D) as (C
 
 Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted "Special rules for tax shelters" for "Tax shelters may not deduct items earlier than when economic performance occurs" in heading.
 
-Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
+Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under thischapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
 
 Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurs on or before 90th day after close of the taxable year to the extent of cash basis.
 
@@ -479,6 +509,18 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 <b>1962</b>—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. A, title II, §2304(c), Mar. 27, 2020, 134 Stat. 356, provided that:
+
+"(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2017.
+
+"(2)
+
+Technical amendments.—The amendments made by subsection (b) \[amending this section\] shall take effect as if included in the provisions of Public Law 115–97 to which they relate."
 
 #### Effective Date of 2017 Amendment
 
@@ -530,7 +572,7 @@ Effective Dates.—
 
 In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
-&emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments)applies, the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;&emsp;"(B) in the case of amounts to which section 461(i) of such Code (as so added) applies, after March 31, 1984.
 
@@ -596,7 +638,7 @@ Fixed price supply contract.—
 
 &emsp;&emsp;"(A)
 
-In general.—In the case of any fixed price supply contract entered into before March 1, 1984,the amendments made by subsection (b) \[enacting section 468 of this title\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
+In general.—In the case of any fixed price supply contract entered into before March 1, 1984, the amendments made by subsection (b) \[enacting section 468 of this title\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
 
 &emsp;&emsp;"(B)
 
@@ -656,7 +698,7 @@ Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The ame
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Certain Amounts
 
@@ -698,7 +740,7 @@ Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
 "(2) Paragraph (1) shall not apply to any transfer if the assessment of any deficiency which would result from the application of the election in respect of such transfer is, on the date of the election under paragraph (1), prevented by the operation of any law or rule of law.
 
-"(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2years after the date of the enactment of this Act \[Feb. 26, 1964\]."
+"(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2 years after the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Certain Other Transfers in Taxable Years Beginning Before Jan. 1, 1964
 

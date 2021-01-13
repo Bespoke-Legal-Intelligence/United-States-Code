@@ -24,7 +24,7 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
 
-> shall be granted by the Commission earlier than thirty days following issuance of public noticeby the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
+> shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
 
 #### (c) Applications not affected by subsection (b)
 
@@ -62,7 +62,7 @@ If, in the case of any application to which subsection (a) of this section appli
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findingsmay extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -116,7 +116,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (2) Exemptions
 
-&emsp;The competitive bidding authority granted by this subsection shall not apply to licensesor construction permits issued by the Commission—
+&emsp;The competitive bidding authority granted by this subsection shall not apply to licenses or construction permits issued by the Commission—
 
 &emsp;&emsp;(A) for public safety radio services, including private internal radio services used by State and local governments and non-government entities and including emergency road services provided by not-for-profit organizations, that—
 
@@ -166,7 +166,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (5) Bidder and licensee qualification
 
-&emsp;No person shall be permitted to participate in a system of competitive bidding pursuant to this subsection unless such bidder submits such information and assurances as the Commission may require to demonstrate that such bidder's application is acceptable for filing. No license shall be granted to an applicant selected pursuant to this subsection unless the Commission determines that the applicant is qualified pursuant to subsection (a) and sections 308(b) and 310 of this title. Consistent with the objectives described in paragraph (3), the Commission shall, by regulation, prescribe expedited procedures consistent with the procedures authorized by subsection (i)(2) for the resolution of any substantial and material issues of fact concerning qualifications.
+&emsp;No person shall be permitted to participate in a system of competitive bidding pursuant to this subsection unless such bidder submits such information and assurances as the Commission may require to demonstrate that such bidder's application is acceptable for filing. No license shall be granted to an applicant selected pursuant to this subsection unless the Commission determines that the applicant isqualified pursuant to subsection (a) and sections 308(b) and 310 of this title. Consistent with the objectives described in paragraph (3), the Commission shall, by regulation, prescribe expedited procedures consistent with the procedures authorized by subsection (i)(2) for the resolution of any substantial and material issues of fact concerning qualifications.
 
 #### (6) Rules of construction
 
@@ -228,7 +228,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (ii) Certain other proceeds
 
-&emsp;&emsp;&emsp;Notwithstanding subparagraph (A) and except as provided in subparagraph (B), in the case of proceeds (including deposits and upfront payments from successful bidders) attributable to the auction of eligible frequencies described in paragraph (2) of section 113(g) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(g)\] that are required to be auctioned by section 1451(b)(1)(B) of this title, such portion of such proceeds as is necessary to cover the relocation or sharing costs (as defined in paragraph (3) of such section 113(g)) of Federal entities relocated from such eligible frequencies shall be deposited in the Spectrum Relocation Fund. The remainder of such proceeds shall be deposited in the Public Safety Trust Fund established by section 1457(a)(1) of this title.
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A) and except as provided in subparagraph (B), in the case of proceeds (including deposits and upfront payments from successful bidders) attributable to the auction of eligible frequencies described in paragraph (2) ofsection 113(g) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(g)\] that are required to be auctioned by section 1451(b)(1)(B) of this title, such portion of such proceeds as is necessary to cover the relocation or sharing costs (as defined in paragraph (3) of such section 113(g)) of Federal entities relocated from such eligible frequencies shall be deposited in the Spectrum Relocation Fund. The remainder of such proceeds shall be deposited in the Public Safety Trust Fund established by section 1457(a)(1) of this title.
 
 #### (E) Transfer of receipts
 
@@ -422,7 +422,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (C) Certain limitations on qualified bidders prohibited
 
-&emsp;&emsp;In prescribing any regulations relating to the qualification of bidders for spectrum reclaimed pursuant to subparagraph (B)(i), the Commission, for any license that may be used for any digital television service where the grade A contour of the station is projected to encompass the entirety of a city with a population in excess of 400,000 (as determined using the 1990 decennial census), shall not—
+&emsp;&emsp;In prescribing any regulations relating to the qualification of bidders for spectrum reclaimed pursuant to subparagraph (B)(i), the Commission, for any license that may be used for any digital television service wherethe grade A contour of the station is projected to encompass the entirety of a city with a population in excess of 400,000 (as determined using the 1990 decennial census), shall not—
 
 &emsp;&emsp;&emsp;(i) preclude any party from being a qualified bidder for such spectrum on the basis of—
 
@@ -486,7 +486,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (B) Conclusion of auctions contingent on minimum proceeds
 
-&emsp;&emsp;The Commission shall not conclude any auction of eligible frequencies described in section 113(g)(2) of such Act \[47 U.S.C. 923(g)(2)\] if the total cash proceeds attributable to such spectrum are less than 110percent of the total estimated relocation or sharing costs provided to the Commission pursuant to section 113(g)(4) of such Act. If the Commission is unable to conclude an auction for the foregoing reason, the Commission shall cancel the auction, return within 45 days after the auction cancellation date any deposits from participating bidders held in escrow, and absolve such bidders from any obligation to the United States to bid in any subsequent reauction of such spectrum.
+&emsp;&emsp;The Commission shall not conclude any auction of eligible frequencies described in section 113(g)(2) of such Act \[47 U.S.C. 923(g)(2)\] if the total cash proceeds attributable to such spectrum are less than 110 percent of the total estimated relocation or sharing costs provided to the Commission pursuant to section 113(g)(4) of such Act. If the Commission is unable to conclude an auction for the foregoing reason, the Commission shall cancel the auction, return within 45 days after the auction cancellation date any deposits from participating bidders held in escrow, and absolve such bidders from any obligation to the United States to bid in any subsequent reauction of such spectrum.
 
 #### (C) Authority to issue prior to deauthorization
 
@@ -554,7 +554,9 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114; Pub. L. 112–96, title VI, §§6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, 126 Stat. 223, 224, 230, 245, 252; Pub. L. 114–74, title X, §1007, Nov. 2, 2015, 129 Stat. 624; Pub. L. 115–141, div. P, title I, §101(b), title IV, §402(h)(2), (i)(4), title V, §512(a), Mar. 23, 2018, 132 Stat. 1081, 1089, 1097.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV,§403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717; Pub. L. 108–494, title II, §203, Dec. 23, 2004, 118 Stat. 3993; Pub. L. 109–171, title III, §§3002(a), 3003, 3004, Feb. 8, 2006, 120 Stat. 21, 22; Pub. L. 111–4, §§2(b)(2), 5, Feb. 11, 2009, 123 Stat. 112, 114; Pub. L. 112–96, title VI, §§6401(c), 6402, 6404, 6405, 6601, 6701(b), Feb. 22, 2012, 126 Stat. 223, 224, 230, 245, 252; Pub. L. 114–74, title X, §1007, Nov. 2, 2015, 129 Stat. 624; Pub. L. 115–141, div. P, title I, §101(b), title IV, §402(h)(2), (i)(4), title V, §512(a), Mar. 23, 2018, 132 Stat. 1081, 1089, 1097.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -739,6 +741,8 @@ Subsec. (e). Pub. L. 88–306 substituted "not more than thirty days after publi
 <b>1954</b>—Subsec. (c). Act Mar. 26, 1954, substituted "thirty days" for "fifteen days" in fourth sentence.
 
 <b>1952</b>—Act July 16, 1952, amended section generally to set forth procedure to be followed in cases of denial of applications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -1068,11 +1072,11 @@ Use of funds.—As soon as practicable after the date of enactment of the DTV Tr
 
 "(b)
 
-Credit.—The Assistant Secretary may borrow from the Treasury beginning October 1, 2006, such sumsas may be necessary, but not to exceed $10,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
+Credit.—The Assistant Secretary may borrow from the Treasury beginning October 1, 2006, such sums as may be necessary, but not to exceed $10,000,000, to implement this section. The Assistant Secretary shall reimburse the Treasury, without interest, as funds are deposited into the Digital Television Transition and Public Safety Fund.
 
 "(c)
 
-Eligible Stations.—For purposes of this section, the term 'eligible low-power television station' means a low-power television broadcast station, Class A television station, television translator station, or television booster station—
+Eligible Stations.—For purposes of this section, the term 'eligible low-power television station' meansa low-power television broadcast station, Class A television station, television translator station, or television booster station—
 
 &emsp;"(1) that is itself broadcasting exclusively in analog format; and
 
@@ -1140,7 +1144,7 @@ Pub. L. 107–195, §2, June 19, 2002, 116 Stat. 715, provided that: "Congress f
 
 &emsp;"(3) The study being conducted by the National Telecommunications and Information Administration in consultation with the Department of Defense to determine whether the Department of Defense can share or relinquish additional spectrum for third generation wireless and other advanced communications services will not be completed until after the June 19th auction date for the upper 700 megahertz band, and long after the applications must be filed to participate in the auction, thereby creating further uncertainty as to whether the frequencies in the 700 megahertz band will be put to their highest and best use for the benefit of consumers.
 
-&emsp;"(4) The Federal Communications Commission is also in the process of determining how to resolve theinterference problems that exist in the 800 megahertz band, especially for public safety. One option being considered for the 800 megahertz band would involve the 700 megahertz band. The Commission should not hold the 700 megahertz auction before the 800 megahertz interference issues are resolved or a tenable plan has been conceived.
+&emsp;"(4) The Federal Communications Commission is also in the process of determining how to resolve the interference problems that exist in the 800 megahertz band, especially for public safety. One option being considered for the 800 megahertz band would involve the 700 megahertz band. The Commission should not hold the 700 megahertz auction before the 800 megahertz interference issues are resolved or a tenable plan has been conceived.
 
 &emsp;"(5) The 700 megahertz band is currently occupied by television broadcasters, and will be so until the transfer to digital television is completed. This situation creates a tremendous amount of uncertainty concerning when the spectrum will be available and reduces the value placed on the spectrum by potential bidders. The encumbrance of the 700 megahertz band reduces both the amount of money that the auction would be likely to produce and the probability that the spectrum would be purchased by the entities that valued the spectrum the most and would put the spectrum to its most productive use.
 

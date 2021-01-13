@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Administrator of the Transportation Security Administration shall make grants to airport sponsors—
+Grant Authority.—Subject to the requirements of this section, the Administrator of theTransportation Security Administration shall make grants to airport sponsors—
 
 &emsp;(1) for projects to replace baggage conveyer systems related to aviation security;
 
@@ -106,7 +106,7 @@ Subsec. (i)(1). Pub. L. 110–53, §1603(a), substituted "2007, and $450,000,000
 
 Subsec. (j). Pub. L. 110–53, §1604(a)(5), redesignated subsec. (i) as (j).
 
-<b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted "$400,000,000 for each of fiscal years 2005, 2006, and 2007"for "$250,000,000 for each of fiscal years 2004 through 2007".
+<b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted "$400,000,000 for each of fiscal years 2005, 2006, and 2007" for "$250,000,000 for each of fiscal years 2004 through 2007".
 
 #### Effective Date
 

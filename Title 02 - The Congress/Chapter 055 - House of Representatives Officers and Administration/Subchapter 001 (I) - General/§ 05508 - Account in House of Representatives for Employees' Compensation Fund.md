@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an account in the House of Representatives for purposes of making payments of the House of Representatives to theEmployees' Compensation Fund under section 8147 of title 5, and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.
+There is hereby established an account in the House of Representatives for purposes of making payments of the House of Representatives to the Employees' Compensation Fund under section 8147 of title 5, and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House.
 
 #### (b) Payments made from account
 
@@ -14,6 +14,8 @@ The account established under subsection (a) shall be treated as a category of a
 
 (Pub. L. 105–55, title I, §109, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 113–76, div. I, title I, §102(a), Jan. 17, 2014, 128 Stat. 422.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 95d of this title prior to editorial reclassification and renumbering as this section.
@@ -22,7 +24,9 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–76 substituted ", and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House." for period at end.
+<b>2014</b>—Subsec. (a). Pub. L. 113–76 substituted ", and for reimbursing the Secretary of Labor for any amountspaid with respect to unemployment compensation payments for former employees of the House." for period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

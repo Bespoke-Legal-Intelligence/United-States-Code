@@ -12,7 +12,7 @@ In the event of an emergency, as determined by the Capitol Police Board or in a 
 
 An individual appointed as a special officer under this section shall—
 
-&emsp;(1) serve without pay for service performed as a special officer (other than pay received from the applicable employing agency or service);
+&emsp;(1) serve without pay for service performed as a special officer (other than pay receivedfrom the applicable employing agency or service);
 
 &emsp;(2) serve as a special officer no longer than a period specified at the time of appointment;
 
@@ -45,6 +45,8 @@ Subject to approval by the Speaker of the House of Representatives (in consultat
 This section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
 (Pub. L. 108–7, div. H, title I, §1017, Feb. 20, 2003, 117 Stat. 365.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

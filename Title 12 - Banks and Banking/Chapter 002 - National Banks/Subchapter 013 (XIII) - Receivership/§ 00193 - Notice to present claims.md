@@ -4,9 +4,13 @@ The Comptroller shall, upon appointing a receiver, cause notice to be given, by 
 
 (R.S. §5235.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5235 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which was part of the National Bank Act. See section 38 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception as to Transfer of Functions
 

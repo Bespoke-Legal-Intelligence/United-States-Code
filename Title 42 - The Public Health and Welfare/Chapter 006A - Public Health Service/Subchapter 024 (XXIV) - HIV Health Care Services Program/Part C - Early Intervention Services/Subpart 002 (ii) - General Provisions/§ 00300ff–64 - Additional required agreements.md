@@ -52,7 +52,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;The Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
 
-&emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of the official poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
+&emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of theofficial poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 100 percent of the official poverty line, the applicant—
 
@@ -90,7 +90,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early interventionservices, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
+&emsp;The Secretary may not make a grant under this part unless the applicant for the grant agrees that, subject to paragraph (2), the grant will not be expended by the applicant, or by any entity receiving amounts from the applicant for the provision of early intervention services, to make payment for any such service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (except for a program administered by or providing the services of the Indian Health Service); or
 
@@ -114,7 +114,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent withthe most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 

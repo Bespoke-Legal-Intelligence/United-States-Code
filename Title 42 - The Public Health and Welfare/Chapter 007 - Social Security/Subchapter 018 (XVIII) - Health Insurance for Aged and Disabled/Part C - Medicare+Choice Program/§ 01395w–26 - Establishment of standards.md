@@ -24,7 +24,7 @@
 
 #### (2) Publication of notice
 
-&emsp;In carrying out the rulemaking process under this subsection, the Secretary, after consultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997.
+&emsp;In carrying out the rulemaking process under this subsection, the Secretary, afterconsultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997.
 
 #### (3) Target date for publication of rule
 
@@ -94,7 +94,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title VI, §612(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560, provided that: "Theamendment made by subsection (a) \[amending this section\] takes effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 

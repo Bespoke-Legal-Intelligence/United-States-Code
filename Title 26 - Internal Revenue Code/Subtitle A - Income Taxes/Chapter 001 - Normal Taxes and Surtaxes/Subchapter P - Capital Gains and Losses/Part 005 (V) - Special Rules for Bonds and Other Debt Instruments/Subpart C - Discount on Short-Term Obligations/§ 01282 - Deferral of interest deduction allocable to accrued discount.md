@@ -18,7 +18,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer may make an election under this paragraph to have section 1281 apply to all short-term obligations acquired by thetaxpayer on or after the 1st day of the 1st taxable year to which such election applies.
+&emsp;&emsp;A taxpayer may make an election under this paragraph to have section 1281 apply to all short-term obligations acquired by the taxpayer on or after the 1st day of the 1st taxable year to which such election applies.
 
 #### (B) Period to which election applies
 
@@ -32,7 +32,7 @@ Rules similar to the rules of subsections (b) and (c) of section 1277 shall appl
 
 &emsp;&emsp;<b>For special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).</b>
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 549; amended Pub. L. 99–514, title XVIII, §1803(a)(8)(B), Oct. 22, 1986, 100 Stat. 2794.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 549; amended Pub. L. 99–514,title XVIII, §1803(a)(8)(B), Oct. 22, 1986, 100 Stat. 2794.)
 
 #### Amendments
 

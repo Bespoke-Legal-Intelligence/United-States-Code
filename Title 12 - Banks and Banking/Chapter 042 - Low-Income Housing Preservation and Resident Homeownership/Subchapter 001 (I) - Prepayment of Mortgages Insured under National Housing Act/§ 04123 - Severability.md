@@ -1,8 +1,10 @@
 ### §4123. Severability
 
-If any provision of this subchapter, or the application of such provision with respect to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to any other person or circumstance, shall not be affected by such holding.
+If any provision of this subchapter, or the application of such provision with respect to any person or circumstance, is held invalid, the remainder of this Act, and the application of suchprovision to any other person or circumstance, shall not be affected by such holding.
 
 (Pub. L. 100–242, title II, §233, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4274.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

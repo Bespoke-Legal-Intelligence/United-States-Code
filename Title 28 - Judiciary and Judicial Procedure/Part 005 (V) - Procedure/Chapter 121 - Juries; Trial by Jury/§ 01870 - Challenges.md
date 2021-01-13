@@ -18,6 +18,8 @@ Words "without aid of triers" at end of section 424 of title 28, U.S.C., 1940 ed
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1959</b>—Pub. L. 86–282 substituted "may" for "shall" after "several plaintiffs", and ", or the court may allow" for ". If there is more than one defendant the court may allow the defendants".

@@ -12,9 +12,13 @@ Competitive products fund.—The term "Competitive Products Fund" means the Post
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 738; Pub. L. 109–435, title IV, §401(b)(1), Dec. 20, 2006, 120 Stat. 3225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pars. (2), (3). Pub. L. 109–435 added par. (2) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

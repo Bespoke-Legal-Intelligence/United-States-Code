@@ -6,11 +6,15 @@
 
 (Pub. L. 97–35, title XIII, §1343, as added Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1343 of Pub. L. 97–35 is based on section 301 of title III of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Fifth General Capital Increase
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the fifth general capital increase of the African Development Bank, and authorized $40,847,011 to be appropriated without fiscal year limitation for payment by the Secretary for paid-incapital of the Bank and $639,932,485 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Bank.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §594\], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the fifth general capital increase of the African Development Bank, and authorized $40,847,011 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Bank and $639,932,485 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Bank.
 

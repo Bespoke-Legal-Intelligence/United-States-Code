@@ -18,11 +18,15 @@ The Secretary of State may waive the prohibitions in subsection (a) with respect
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §801\], Nov. 29, 1999, 113 Stat. 1536, 1501A–468.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

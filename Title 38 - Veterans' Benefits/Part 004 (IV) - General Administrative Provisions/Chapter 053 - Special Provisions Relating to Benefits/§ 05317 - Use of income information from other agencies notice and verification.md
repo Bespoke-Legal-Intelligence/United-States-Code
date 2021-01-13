@@ -2,7 +2,7 @@
 
 (a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodically transmit to recipients of such benefits and services additional notifications of such matters.
 
-(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend, or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
+(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend,or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
 
 &emsp;(1) The amount of the asset or income involved.
 
@@ -26,15 +26,19 @@
 
 (f) The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
 
-(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2027.
+(g) The authority of the Secretary to obtain information from the Secretary of the Treasury or the Commissioner of Social Security under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 expires on September 30, 2030.
 
-(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181; Pub. L.105–33, title VIII, §8014, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(d), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–183, title VII, §708(c)(3), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 110–389, title VIII, §802, Oct. 10, 2008, 122 Stat. 4185; Pub. L. 112–37, §16, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §264, Nov. 21, 2011, 125 Stat. 732; Pub. L. 113–146, title VII, §706, Aug. 7, 2014, 128 Stat. 1798; Pub. L. 115–46, title IV, §403, Aug. 12, 2017, 131 Stat. 970.)
+(Added Pub. L. 101–508, title VIII, §8051(b)(1), Nov. 5, 1990, 104 Stat. 1388–350, §3117; renumbered §5317, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title VI, §602(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 103–66, title XII, §12004, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(e)(3), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 105–33, title VIII, §8014, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(d), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–183, title VII, §708(c)(3), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 110–389, title VIII, §802, Oct. 10, 2008, 122 Stat. 4185; Pub. L. 112–37, §16, Oct. 5, 2011, 125 Stat. 398; Pub. L. 112–56, title II, §264, Nov. 21, 2011, 125 Stat. 732; Pub. L. 113–146, title VII, §706, Aug. 7, 2014, 128 Stat. 1798; Pub. L. 115–46, title IV, §403, Aug. 12, 2017, 131 Stat. 970; Pub. L. 116–315, title II, §2012, Jan. 5, 2021, 134 Stat. 4980.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 6103(l)(7)(D)(viii) of the Internal Revenue Code, referred to in subsecs. (a), (b), and (g), is classified to section 6103(l)(7)(D)(viii) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 116–315 substituted "September 30, 2030" for "September 30, 2027".
 
 <b>2017</b>—Subsec. (g). Pub. L. 115–46 substituted "September 30, 2027" for "September 30, 2024".
 
@@ -64,6 +68,8 @@ Subsec. (c)(2). Pub. L. 102–83 substituted "1315" for "415".
 
 Subsec. (c)(3). Pub. L. 102–83 substituted "1710(a)(1)(I)", "1710(a)(2)", "1710(b)", and "1712(a)(2)(B)" for "610(a)(1)(I)", "610(a)(2)", "610(b)", and "612(a)(2)(B)", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Notification Prior to Use of Income Information From Other Federal Agencies
 
 Pub. L. 101–508, title VIII, §8051(c), Nov. 5, 1990, 104 Stat. 1388–351, provided that:
@@ -72,7 +78,7 @@ Pub. L. 101–508, title VIII, §8051(c), Nov. 5, 1990, 104 Stat. 1388–351, pr
 
 "(2) Notification under paragraph (1) shall be made not later than 90 days after the date of the enactment of this Act.
 
-"(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made."
+"(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health andHuman Services or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made."
 
 #### Study by Comptroller General on Effectiveness of Amendments by Pub. L. 101–508
 

@@ -62,7 +62,7 @@ General authority.—Subject to the requirements under this subsection, the Secr
 
 &emsp;(2)
 
-Federal share.—The Federal share of the costs of activities funded using amounts from grants awarded under this subsection may not exceed 80 percent for each fiscal year for which a State receives a grant.
+Federal share.—The Federal share of the costs of activities funded using amounts from grants awarded under this subsectionmay not exceed 80 percent for each fiscal year for which a State receives a grant.
 
 &emsp;(3)
 
@@ -516,7 +516,7 @@ Fiscal year 2017.—In fiscal year 2017, up to 15 percent of the amounts receive
 
 &emsp;&emsp;&emsp;(iii)
 
-Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts receivedby a State under subparagraph (A) may be used for any eligible project or activity under section 402.
+Fiscal year 2018.—In fiscal year 2018, up to 25 percent of the amounts received by a State under subparagraph (A) may be used for any eligible project or activity under section 402.
 
 &emsp;(7)
 
@@ -628,7 +628,7 @@ In general.—A State may use funds from a grant under this subsection only for 
 
 &emsp;&emsp;(B)
 
-Suballocations of funds.—An agency of a State that receives a grant under thissubsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
+Suballocations of funds.—An agency of a State that receives a grant under this subsection may suballocate funds from the grant to a nonprofit organization incorporated in that State to carry out this subsection.
 
 &emsp;&emsp;(C)
 
@@ -706,7 +706,7 @@ Licensing process.—A State is in compliance with the 2-stage licensing process
 
 &emsp;&emsp;&emsp;(ii) an intermediate stage that—
 
-&emsp;&emsp;&emsp;&emsp;(I) commences immediately after the expiration of the learner's permit stage and successful completion of a driving skills assessment;
+&emsp;&emsp;&emsp;&emsp;(I) commences immediately after the expiration of the learner's permit stageand successful completion of a driving skills assessment;
 
 &emsp;&emsp;&emsp;&emsp;(II) is at least 6 months in duration;
 
@@ -804,7 +804,9 @@ Use of grant amounts.—Grant funds received by a State under this subsection ma
 
 Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.
 
-(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, §421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112–30, title I, §121(c)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, §31105(a), July 6, 2012, 126 Stat. 741; Pub. L. 114–94, div. A, title IV, §§4005, 4014(3), Dec. 4, 2015, 129 Stat. 1501, 1513.)
+(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59,title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, §421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112–30, title I, §121(c)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, §31105(a), July 6, 2012, 126 Stat. 741; Pub. L. 114–94, div. A, title IV, §§4005, 4014(3), Dec. 4, 2015, 129 Stat. 1501, 1513.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -895,6 +897,8 @@ Subsec. (a)(4). Pub. L. 109–59, §2004(a)(3), inserted "beginning after Septem
 Subsec. (c). Pub. L. 109–59, §2004(c), substituted "100 percent" for "25 percent" and "2003" for "1997".
 
 Subsec. (d). Pub. L. 109–59, §2002(e), struck out heading and text of subsec. (d). Text read as follows: "Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

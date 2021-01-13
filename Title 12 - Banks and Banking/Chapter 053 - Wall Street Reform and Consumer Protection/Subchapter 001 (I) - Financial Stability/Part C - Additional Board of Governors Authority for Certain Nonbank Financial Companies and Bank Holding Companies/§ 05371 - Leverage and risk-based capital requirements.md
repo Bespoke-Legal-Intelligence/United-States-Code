@@ -52,7 +52,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Minimum leverage capital requirements
 
-&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve asa floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+&emsp;The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
 
 #### (2) Minimum risk-based capital requirements
 
@@ -132,7 +132,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Rule of construction on Board's authority
 
-&emsp;This subsection shall not be construed to prohibit, modify, limit, or otherwise supersede any other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
+&emsp;This subsection shall not be construed to prohibit, modify, limit, or otherwise supersedeany other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
 
 #### (3) Rule of construction on accounting principles
 
@@ -145,6 +145,8 @@ For purposes of this section, the following definitions shall apply:
 &emsp;&emsp;Nothing in subparagraph (A) shall limit the authority of the Board under any other applicable provision of law to conduct any regulatory or supervisory activity of a depository institution holding company or non-bank financial company supervised by the Board of Governors, including the collection or reporting of any information on an entity or group-wide basis. Nothing in this paragraph shall excuse the Board from its obligations to comply with section 5361(a) of this title and section 10(b)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(b)(2)), as appropriate.
 
 (Pub. L. 111–203, title I, §171, July 21, 2010, 124 Stat. 1435; Pub. L. 113–250, §2(a), Dec. 18, 2014, 128 Stat. 2886; Pub. L. 113–279, §2, Dec. 18, 2014, 128 Stat. 3017; Pub. L. 114–94, div. G, title LXXXVII, §87001, Dec. 4, 2015, 129 Stat. 1798; Pub. L. 115–174, title II, §207(d), May 24, 2018, 132 Stat. 1312.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -163,6 +165,8 @@ The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 193
 Subsec. (b)(5)(C). Pub. L. 113–250 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010."
 
 Subsec. (c). Pub. L. 113–279, §2(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Capital Simplification for Qualifying Community Banks
 

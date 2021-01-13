@@ -16,15 +16,19 @@ Based on Title 35, U.S.C., 1946 ed., §66 (R.S. 4918, amended Mar. 2, 1927, ch. 
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "146".
 
 Pub. L. 112–29, §3(h)(1), amended section generally. Prior to amendment, text read as follows: "The owner of an interfering patent may have relief against the owner of another by civil action, and the court may adjudge the question of the validity of any of the interfering patents, in whole or in part. The provisions of the second paragraph of section 146 shall apply to actions brought under this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
-Amendment by section 3(h)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Amendment by section 3(h)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, seesection 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

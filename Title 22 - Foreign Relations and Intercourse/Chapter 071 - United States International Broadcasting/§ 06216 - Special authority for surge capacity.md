@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Whenever the President determines it to be important to the national interests of the United States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the Broadcasting Board of Governors with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
+&emsp;Whenever the President determines it to be important to the national interests of the United States and so certifies to the appropriate congressional committees, the President, on such terms and conditions as the President may determine, is authorized to direct any department, agency, or other entity of the United States to furnish the United States Agency for Global Media with such assistance outside the United States as may be necessary to provide international broadcasting activities of the United States with a surge capacity to support United States foreign policy objectives during a crisis abroad.
 
 #### (2) Supersedes existing law
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President such sums as may be necessaryfor the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
+&emsp;There are authorized to be appropriated to the President such sums as may be necessary for the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
 
 #### (2) Availability of funds
 
@@ -34,13 +34,21 @@
 
 #### (c) Report
 
-The annual report submitted to the President and Congress by the Broadcasting Board of Governors under section 6204(a)(9) of this title shall provide a detailed description of any activities carried out under this section.
+The annual report submitted to the President and Congress by the United States Agency for Global Media under section 6204(a)(9) of this title shall provide a detailed description of any activities carried out under this section.
 
-(Pub. L. 103–236, title III, §316, as added Pub. L. 110–53, title XX, §2031(c), Aug. 3, 2007, 121 Stat. 516.)
+(Pub. L. 103–236, title III, §316, as added Pub. L. 110–53, title XX, §2031(c), Aug. 3, 2007, 121 Stat. 516; amended Pub. L. 116–283, div. A, title XII, §1299Q(e)(11), Jan. 1, 2021, 134 Stat. 4026.)
 
-#### Change of Name
+#### <b>Editorial Notes</b>
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+#### Codification
+
+Pub. L. 116–283, div. A, title XII, §1299Q(e)(11), Jan. 1, 2021, 134 Stat. 4026, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+
+#### Amendments
+
+<b>2021</b>—Subsecs. (a)(1), (c). Pub. L. 116–283 substituted "United States Agency for Global Media" for "Broadcasting Board of Governors".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Finding; Sense of Congress
 

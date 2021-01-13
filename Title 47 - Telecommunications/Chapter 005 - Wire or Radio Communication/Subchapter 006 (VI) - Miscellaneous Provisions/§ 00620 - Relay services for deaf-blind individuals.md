@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within 6 months after October 8, 2010, the Commission shall establish rules that define as eligible for relay service support those programs that are approved by the Commission for the distribution of specialized customer premises equipment designed to make telecommunications service, Internet access service, and advanced communications, including interexchange services and advanced telecommunications and information services, accessible by low-income individuals who are deaf-blind.
+Within 6 months after October 8, 2010, the Commission shall establish rules that define aseligible for relay service support those programs that are approved by the Commission for the distribution of specialized customer premises equipment designed to make telecommunications service, Internet access service, and advanced communications, including interexchange services and advanced telecommunications and information services, accessible by low-income individuals who are deaf-blind.
 
 #### (b) Individuals who are deaf-blind defined
 
@@ -13,6 +13,8 @@ For purposes of this subsection,<sup>1</sup> the term "individuals who are deaf-
 The total amount of support the Commission may provide from its interstate relay fund for any fiscal year may not exceed $10,000,000.
 
 (June 19, 1934, ch. 652, title VII, §719, as added Pub. L. 111–260, title I, §105, Oct. 8, 2010, 124 Stat. 2762; amended Pub. L. 111–265, §2(4), (5), Oct. 8, 2010, 124 Stat. 2795.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

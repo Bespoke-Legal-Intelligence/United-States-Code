@@ -10,7 +10,7 @@ Any person who commits an unlawful act as set forth in subsection (a) shall be l
 
 #### (c) Other penalties
 
-In addition to the penalties provided for in subsection (b), any violation of this subtitlethat violates any other customs law of the United States shall be subject to any applicable civil and criminal penalty, including seizure and forfeiture, that may be imposed under such custom law or title 18, with respect to the importation of softwood lumber and softwood lumber products described in section 1683b(a) of this title.
+In addition to the penalties provided for in subsection (b), any violation of this subtitle that violates any other customs law of the United States shall be subject to any applicable civil and criminal penalty, including seizure and forfeiture, that may be imposed under such custom law or title 18, with respect to the importation of softwood lumber and softwood lumber products described in section 1683b(a) of this title.
 
 #### (d) Factors to consider in assessing penalties
 

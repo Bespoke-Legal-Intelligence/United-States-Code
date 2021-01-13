@@ -32,6 +32,8 @@ Minor changes were made throughout in arrangement and phraseology.
 
 This section \[section 32\] corrects a typographical error in section 1262 of title 18, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in second par.

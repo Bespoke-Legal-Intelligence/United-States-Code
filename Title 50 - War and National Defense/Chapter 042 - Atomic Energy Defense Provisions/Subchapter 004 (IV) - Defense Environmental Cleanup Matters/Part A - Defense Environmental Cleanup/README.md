@@ -20,3 +20,4 @@ Pub. L. 113–66, div. C, title XXXI, §3146(e)(16)(B), Dec. 26, 2013, 127 Stat.
 - [&sect; 02588 - Public participation in planning for defense environmental cleanup](%C2%A7%2002588%20-%20Public%20participation%20in%20planning%20for%20defense%20environmental%20cleanup.md)
 - [&sect; 02589 - Policy of Department of Energy regarding future defense environmental management matters](%C2%A7%2002589%20-%20Policy%20of%20Department%20of%20Energy%20regarding%20future%20defense%20environmental%20management%20matters.md)
 - [&sect; 02590 - Estimation of costs of meeting defense environmental cleanup milestones required by consent orders](%C2%A7%2002590%20-%20Estimation%20of%20costs%20of%20meeting%20defense%20environmental%20cleanup%20milestones%20required%20by%20consent%20orders.md)
+- [&sect; 02591 - Public statement of environmental liabilities](%C2%A7%2002591%20-%20Public%20statement%20of%20environmental%20liabilities.md)

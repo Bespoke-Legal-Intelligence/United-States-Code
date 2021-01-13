@@ -2,7 +2,7 @@
 
 (a)(1) Nothing in this section shall be construed as indicating an intent on the part of Congress to prevent any State, any possession or Commonwealth of the United States, or the District of Columbia, from exercising jurisdiction over any offense over which it would have jurisdiction in the absence of this section, nor shall anything in this section be construed as depriving State and local law enforcement authorities of responsibility for prosecuting acts that may be violations of this section and that are violations of State and local law. No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice, which function of certification may not be delegated.
 
-(2) Nothing in this subsection shall be construed to limit the authority of Federal officers,or a Federal grand jury, to investigate possible violations of this section.
+(2) Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
 
 (b) Whoever, whether or not acting under color of law, by force or threat of force willfully injures, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
 
-&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sells or where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
+&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sellsor where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
 
 &emsp;(4) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
 
@@ -49,6 +49,8 @@
 (d) For purposes of this section, the term "State" includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Added Pub. L. 90–284, title I, §101(a), Apr. 11, 1968, 82 Stat. 73; amended Pub. L. 100–690, title VII, §7020(a), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 101–647, title XII, §1205(b), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 103–322, title VI, §60006(c), title XXXII, §320103(c), title XXXIII, §330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 1971, 2109, 2147; Pub. L. 104–294, title VI, §604(b)(14)(C), (37), Oct. 11, 1996, 110 Stat. 3507, 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -72,13 +74,15 @@ Pub. L. 103–322, §60006(c), in concluding provisions, inserted ", or may be 
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–690 substituted ", the Deputy" for "or the Deputy" and inserted ", the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General" after "Deputy Attorney General".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
 #### Fair Housing
 
-Pub. L. 90–284, title I, §101(b), Apr. 11, 1968, 82 Stat. 75, provided that: "Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\]."
+Pub. L. 90–284, title I, §101(b), Apr. 11, 1968, 82 Stat. 75, provided that: "Nothing contained in this section \[enacting this section\] shall apply to or affect activitiesunder title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\]."
 
 #### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
 

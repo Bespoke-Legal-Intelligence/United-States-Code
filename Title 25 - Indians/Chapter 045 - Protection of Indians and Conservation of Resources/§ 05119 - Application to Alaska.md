@@ -4,9 +4,13 @@ Sections 5101, 5108, 5110, 5111, 5121, 5124, and 5129 of this title shall after 
 
 (May 1, 1936, ch. 254, §1, 49 Stat. 1250.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 362 of Title 48, Territories and Insular Possessions, prior to transfer to section 473a of this title and editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

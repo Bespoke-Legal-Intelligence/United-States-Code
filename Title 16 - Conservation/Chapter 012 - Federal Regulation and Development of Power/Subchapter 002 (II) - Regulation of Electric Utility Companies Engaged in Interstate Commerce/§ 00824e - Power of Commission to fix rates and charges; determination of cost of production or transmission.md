@@ -34,7 +34,7 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 (4)(A) The Commission shall have refund authority under paragraph (2) with respect to a voluntary short term sale of electric energy by the Bonneville Power Administration only if the sale is at an unjust and unreasonable rate.
 
-(B) The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity for a short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
+(B) The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity fora short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
 
 (C) In the case of any Federal power marketing agency or the Tennessee Valley Authority, the Commission shall not assert or exercise any regulatory authority or power under paragraph (2) other than the ordering of refunds to achieve a just and reasonable rate.
 

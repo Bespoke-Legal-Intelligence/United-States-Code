@@ -4,19 +4,25 @@ The President of the United States shall appoint seven commissioners, three of w
 
 (June 28, 1879, ch. 43, §2, 21 Stat. 37; Pub. L. 89–789, title II, §208, Nov. 7, 1966, 80 Stat. 1423; Pub. L. 112–166, §2(y), Aug. 10, 2012, 126 Stat. 1289.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate," after "United States shall".
 
 <b>1966</b>—Pub. L. 89–789 inserted ", except those appointed from civil life," and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form EnvironmentalScience Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

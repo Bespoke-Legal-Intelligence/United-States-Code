@@ -24,7 +24,7 @@
 
 (B) The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member's retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 of title 5, a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
 
-(g) Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
+(g) Any member of the armed forces whose name is on the temporary disability retired list,and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
 
 (h) If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of three years after the date when his name was placed on that list.
 
@@ -86,7 +86,7 @@ Oct. 12, 1949, ch. 681, §§402(d) (30th through 55th words), (e) (less 1st prov
 
 In subsection (a), the second sentence is substituted for 37:274(a). The word "resumed" is substituted for the words "reinstated at a later date", in 37:274(b).
 
-In subsection (b), the last sentence is inserted for clarity to conform to an opinion of the Judge AdvocateGeneral of the Army (JAGA 1953/8438, 30 Dec. 1953) and an opinion of the Judge Advocate General of the Navy (JAG: III: 7: WBM: bg. 7 Jan. 1954).
+In subsection (b), the last sentence is inserted for clarity to conform to an opinion of the Judge Advocate General of the Army (JAGA 1953/8438, 30 Dec. 1953) and an opinion of the Judge Advocate General of the Navy (JAG: III: 7: WBM: bg. 7 Jan. 1954).
 
 In subsection (c), the words "or upon a final determination under subsection (b)" are substituted for the words "or upon the determination of a period of five years from the date of temporary disability retirement", in 37:272(e). The words "at the time of the determination" are substituted for the word "current", in 37:272(e). The words "and he shall be entitled to receive disability retirement pay as prescribed in subsection (d) of this section" are omitted as covered by sections 1201 and 1204 of this title. Reference to specific sections on permanent retirement are substituted for the word "permanently", before the word "retired", in 37:272(e).
 

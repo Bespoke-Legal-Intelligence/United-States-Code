@@ -10,9 +10,57 @@ As used in this subchapter:
 
 (Pub. L. 102–538, title I, §111, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 379.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Reallocation and Auction of 3450–3550 MHZ Spectrum Band
+
+Pub. L. 116–260, div. FF, title IX, §905, Dec. 27, 2020, 134 Stat. 3215, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Beat China by Harnessing Important, National Airwaves for 5G Act of 2020' or the 'Beat CHINA for 5G Act of 2020'.
+
+"(b)
+
+Definitions.—In this Act \[probably means "this section"\]—
+
+&emsp;"(1) the term 'Commission' means the Federal Communications Commission; and
+
+&emsp;"(2) the term 'covered band' means the band of electromagnetic spectrum between the frequencies of 3450 megahertz and 3550 megahertz, inclusive.
+
+"(c)
+
+Withdrawal or Modification of Federal Government Assignments.—The President, acting throughthe Assistant Secretary of Commerce for Communications and Information, shall—
+
+&emsp;"(1) not later than 180 days after the date of enactment of this Act \[Dec. 27, 2020\], in coordination with relevant Federal users, begin the process of withdrawing or modifying the assignments to Federal Government stations of the covered band as necessary for the Commission to comply with subsection (d); and
+
+&emsp;"(2) not later than 30 days after completing any necessary withdrawal or modification under paragraph (1), notify the Commission that the withdrawal or modification is complete.
+
+"(d)
+
+Reallocation and Auction.—
+
+&emsp;"(1)
+
+In general.—The Commission shall—
+
+&emsp;&emsp;"(A) revise the non-Federal allocation for the covered band to permit flexible-use services; and
+
+&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than December 31, 2021, begin a system of competitive bidding under that section to grant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules.
+
+&emsp;"(2)
+
+Exemption from notification requirement.—The first sentence of section 113(g)(4)(A) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(g)(4)(A)) shall not apply with respect to the system of competitive bidding required under paragraph (1)(B) of this subsection.
+
+&emsp;"(3)
+
+Proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 (47 U.S.C. 309(j)(16)(B))."
 
 #### Identification, Reallocation, and Auction of Federal Spectrum
 
@@ -82,29 +130,11 @@ Rule of Construction.—Nothing in this section shall be construed to affect any
 
 #### Study and Report on Current and Future Spectrum Use
 
-Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part: "That the Administrator shall, after consultation with other federal departments and agencies responsible for regulating the core operations of entities engaged in the provision of energy, water and railroad services, complete and submit to Congress, not later than twelve months after date of enactment of this subsection, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure: <i>Provided further</i>, That within six months after the release of this study, the Chairman of the Federal Communications Commission shall submit a report to Congress on the actions that could be taken by the Commission to address any needs identified in the Administrator's study."
+Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation's critical infrastructure and also provided that within six months after the release of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
 
 #### Report on Progress on Spectrum Sharing
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–366, provided that:
-
-"(a)
-
-Study Required.—The Secretary of Defense, in consultation with the Attorney General and the Secretary of Commerce, shall provide for the conduct of an engineering study to identify—
-
-&emsp;"(1) any portion of the 138–144 megahertz band that the Department of Defense can share in various geographic regions with public safety radio services;
-
-&emsp;"(2) any measures required to prevent harmful interference between Department of Defense systems and the public safety systems proposed for operation on those frequencies; and
-
-&emsp;"(3) a reasonable schedule for implementation of such sharing of frequencies.
-
-"(b)
-
-Submission of Interim Report.—Within one year after the date of the enactment of this Act \[Oct. 30, 2000\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an interim report on the progress of the study conducted pursuant to subsection (a).
-
-"(c)
-
-Report.—Not later than January 1, 2002, the Secretary of Commerce and the Chairman of the Federal Communications Commission shall jointly submit a report to Congress on alternative frequencies available for use by public safety systems."
+Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1705\], Oct. 30, 2000, 114 Stat. 1654, 1654A–366, provided that the Secretary of Defense, in consultation with the Attorney General and the Secretary of Commerce, would provide for an engineering study to identify any portion of the 138–144 megahertz band that the Department of Defense could share in various geographic regions with public safety radio services, any measures required to prevent harmful interference between Department of Defense systems and the public safety systems, and a reasonable schedule for implementation of sharing of frequencies, with an interim report due to Congress by 1 year after Oct. 30, 2000, on progress of the study, and no later than Jan. 1, 2002, a report submitted jointly by the Secretary of Commerce and the Chairman of the Federal Communication Commission on alternative frequencies available for use by public safety systems.
 
 #### Surrender of Department of Defense Spectrum
 
@@ -114,7 +144,7 @@ Pub. L. 106–65, div. A, title X, §1062(b), Oct. 5, 1999, 113 Stat. 768, provi
 
 In general.—If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
 
-&emsp;"(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
+&emsp;"(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies andmakes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
 
 &emsp;"(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
 

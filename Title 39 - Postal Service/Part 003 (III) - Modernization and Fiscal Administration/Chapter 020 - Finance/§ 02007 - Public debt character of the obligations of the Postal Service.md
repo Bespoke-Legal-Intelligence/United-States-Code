@@ -4,9 +4,13 @@ For the purpose of any purchase of the obligations of the Postal Service, the Se
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 741; Pub. L. 97–452, §2(f), Jan. 12, 1983, 96 Stat. 2479.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–452 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,5 +1,7 @@
 ### §601. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 9, 1946, ch. 933, §1, 60 Stat. 968, which related to preparation of a tribal membership roll, was omitted from the Code as being of special and not general application.

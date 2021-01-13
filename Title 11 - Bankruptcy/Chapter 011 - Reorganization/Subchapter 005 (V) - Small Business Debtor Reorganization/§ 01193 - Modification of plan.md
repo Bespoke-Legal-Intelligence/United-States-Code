@@ -18,6 +18,8 @@ Holders of a Claim or Interest.—If a plan has been confirmed under section 119
 
 (Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1083.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.

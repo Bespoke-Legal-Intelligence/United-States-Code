@@ -1,6 +1,6 @@
 ### §7302. Issuing merchant mariners' documents and continuous discharge books
 
-(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder isqualified to serve on board vessels on which that document is required under part F.
+(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
 
 (b) The Secretary also may issue a continuous discharge book to an individual issued a merchant mariner's document if the individual requests.
 
@@ -52,6 +52,8 @@ Section 7302(a) requires the Secretary to issue a merchant mariner's document to
 
 Subsection (b) allows the Secretary to issue a continuous discharge book to an individual who requests a book.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–281 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Except as provided in subsection (g), a merchant mariner's document issued under this chapter is valid for 5 years and may be renewed for additional 5-year periods."
@@ -69,6 +71,8 @@ Subsec. (g). Pub. L. 107–295, §324(a)(2), added subsec. (g).
 <b>1990</b>—Subsecs. (c) to (e). Pub. L. 101–380, §4101(b), added subsecs. (c) to (e).
 
 Subsec. (f). Pub. L. 101–380, §4102(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -118,7 +122,7 @@ Appointments of retired members of the armed forces.—Except in the case of pos
 
 "(e)
 
-Separated Member of the Uniformed Services.—In this section, the term "'separated member of the uniformed services"' means an individual who—
+Separated Member of the Uniformed Services.—In this section, the term 'separated member of the uniformed services' means an individual who—
 
 &emsp;"(1) is retiring or is retired as a member of the uniformed services;
 
@@ -176,5 +180,5 @@ Pub. L. 108–293, title VI, §611, Aug. 9, 2004, 118 Stat. 1058, provided that:
 
 #### Termination of Existing Licenses, Certificates, and Documents; Applicability of 1990 Amendment
 
-For provisions that a merchant mariner's document issued before Aug. 18, 1990, terminates on the day itwould have expired if the amendment to this section by section 4102(c) of Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
+For provisions that a merchant mariner's document issued before Aug. 18, 1990, terminates on the day it would have expired if the amendment to this section by section 4102(c) of Pub. L. 101–380 were in effect on date it was issued and was renewed at the end of each 5-year period under this section, see section 4102(d) of Pub. L. 101–380, set out as a note under section 7106 of this title.
 

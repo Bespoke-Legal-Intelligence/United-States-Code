@@ -2,7 +2,7 @@
 
 #### (1) Establishment
 
-The Director of the National Science Foundation (referred to in this section as the "Director") shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, or computer science.
+The Director of the National Science Foundation (referred to in this section as the "Director") shall award scholarships to low-income individuals to enable such individuals to pursue associate, undergraduate, or graduate level degrees in mathematics, engineering, computer science, or cybersecurity.
 
 #### (2) Eligibility
 
@@ -14,11 +14,11 @@ The Director of the National Science Foundation (referred to in this section as 
 
 &emsp;&emsp;(ii) shall prepare and submit to the Director an application at such time, in such manner, and containing such information as the Director may require; and
 
-&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, or other technology and science programs designated by the Director.
+&emsp;&emsp;(iii) shall certify to the Director that the individual intends to use amounts received under the scholarship to enroll or continue enrollment at an institution of higher education (as defined in section 1001(a) of title 20) in order to pursue an associate, undergraduate, or graduate level degree in mathematics, engineering, computer science, cybersecurity, or other technology and science programs designated by the Director.
 
 #### (B) Ability
 
-&emsp;Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner thatwill tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.
+&emsp;Awards of scholarships under this section shall be made by the Director solely on the basis of the ability of the applicant, except that in any case in which 2 or more applicants for scholarships are deemed by the Director to be possessed of substantially equal ability, and there are not sufficient scholarships available to grant one to each of such applicants, the available scholarship or scholarships shall be awarded to the applicants in a manner that will tend to result in a geographically wide distribution throughout the United States of recipients' places of permanent residence.
 
 #### (3) Limitation
 
@@ -32,7 +32,7 @@ The Director shall carry out this section only with funds made available under s
 
 Not later than 60 days after December 8, 2004, the Director shall publish in the Federal Register a list of eligible programs of study.
 
-(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256; Pub. L. 108–447, div. J, title IV, §429, Dec. 8, 2004, 118 Stat. 3360.)
+(Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256; Pub. L. 108–447, div. J, title IV, §429, Dec. 8, 2004, 118 Stat. 3360; Pub. L. 116–283, div. H, title XCIV, §9405(c), Jan. 1, 2021, 134 Stat. 4812.)
 
 #### References in Text
 
@@ -43,6 +43,10 @@ Section 1157 of title 8, referred to in par. (2)(A)(i), was in the original "sec
 Section was enacted as part of the American Competitiveness and Workforce Improvement Act of 1998, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2021</b>—Par. (1). Pub. L. 116–283, §9405(c)(1), substituted "computer science, or cybersecurity" for "or computer science".
+
+Par. (2)(A)(iii). Pub. L. 116–283, §9405(c)(2), inserted "cybersecurity," after "computer science,".
 
 <b>2004</b>—Par. (2)(A)(iii). Pub. L. 108–447, §429(a), substituted "computer science, or other technology and science programs designated by the Director" for "or computer science".
 

@@ -6,7 +6,7 @@ The Secretary is authorized on behalf of the United States to enter into an agre
 
 #### (b) Amendment, suspension, and termination of agreements
 
-Each agreement under this subpart shall provide the terms and conditions upon which the agreement may be amended, suspended, or terminated.
+Each agreement under this subpart shall provide the terms and conditions upon which theagreement may be amended, suspended, or terminated.
 
 #### (c) Form and manner of data
 
@@ -50,7 +50,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 #### (1) In general
 
-&emsp;The Secretary shall require each cooperating State and cooperating State agency to implement effective control measures and to effectively oversee the operation and administration of the trade adjustment assistance program under this part, including by meansof monitoring the operation of control measures to improve the accuracy and timeliness of the data being collected and reported.
+&emsp;The Secretary shall require each cooperating State and cooperating State agency to implement effective control measures and to effectively oversee the operation and administration of the trade adjustment assistance program under this part, including by means of monitoring the operation of control measures to improve the accuracy and timeliness of the data being collected and reported.
 
 #### (2) Definition
 
@@ -80,7 +80,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;&emsp;&emsp;The primary indicators of performance referred to in paragraph (1)(A) shall consist of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the percentage and number of workers who received benefits under the trade adjustment assistance program who are in unsubsidized employment during the second calendar quarter after exit from the program;
+&emsp;&emsp;&emsp;&emsp;(I) the percentage and number of workers who received benefits under the trade adjustment assistance program who are in unsubsidized employment during thesecond calendar quarter after exit from the program;
 
 &emsp;&emsp;&emsp;&emsp;(II) the percentage and number of workers who received benefits under the trade adjustment assistance program and who are in unsubsidized employment during the fourth calendar quarter after exit from the program;
 
@@ -116,7 +116,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;The Secretary shall establish procedures to ensure the uniform application by the States of the requirements of this subsection.
 
-(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392; Pub. L. 112–40, title II, §§201(b), (c), 216(a)(1), Oct. 21, 2011, 125 Stat. 403, 407; Pub. L. 113–128, title V, §512(hh)(4), July 22, 2014, 128 Stat. 1721; Pub. L. 114–27, title IV, §§402(b), (c), 404(a), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §239, Jan. 3, 1975, 88 Stat. 2024; Pub. L. 97–35, title XXV, §2513(d)(6), Aug. 13, 1981, 95 Stat. 889; Pub. L. 99–272, title XIII, §§13003(a)(3), 13004(c), Apr. 7, 1986, 100 Stat. 301, 303; Pub. L. 100–418, title I, §§1423(a)(4), 1424(d)(1)(B), (2), Aug. 23, 1988, 102 Stat. 1246, 1250; Pub. L. 105–220, title III, §321, Aug. 7, 1998, 112 Stat. 1087; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(B), (f)(11)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 111–5, div. B, title I, §§1852, 1853, Feb. 17, 2009, 123 Stat. 390, 392; Pub. L. 112–40, title II, §§201(b), (c), 216(a)(1), Oct. 21, 2011, 125 Stat. 403, 407; Pub. L. 113–128, title V, §512(hh)(4), July 22, 2014, 128 Stat. 1721; Pub. L. 114–27, title IV, §§402(b), (c), 404(a), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -132,7 +132,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (f), is Pub
 
 Section is comprised of subsecs. (a) to (k) of section 239 of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
-Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs. (c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
+Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs.\(c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
@@ -190,7 +190,7 @@ Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated sub
 
 Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out "and" at end. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: "as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment,par. (4) read as follows: "as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 

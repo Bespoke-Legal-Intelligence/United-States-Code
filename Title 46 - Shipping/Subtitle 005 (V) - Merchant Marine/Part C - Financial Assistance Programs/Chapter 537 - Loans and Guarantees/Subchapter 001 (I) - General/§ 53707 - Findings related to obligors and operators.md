@@ -66,6 +66,8 @@ Pub. L. 105–258, title IV, §401, Oct. 14, 1998, 112 Stat. 1916.
 
 June 29, 1936, ch. 858, title XI, §1104A(d)(4), as added Pub. L. 108–136, title XXXV, §3522, Nov. 24, 2003, 117 Stat. 1800.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (b)(3)(B), (C), (c)(1). See 2006 Amendment note below.

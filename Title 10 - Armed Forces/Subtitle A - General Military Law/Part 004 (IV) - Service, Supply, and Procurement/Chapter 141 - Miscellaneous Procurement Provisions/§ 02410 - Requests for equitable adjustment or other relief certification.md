@@ -22,6 +22,10 @@ Definition.—In this section, the term "simplified acquisition threshold" has t
 
 (Added Pub. L. 103–355, title II, §2301(a), Oct. 13, 1994, 108 Stat. 3320; amended Pub. L. 111–350, §5(b)(27), Jan. 4, 2011, 124 Stat. 3845.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1836(b), Jan. 1, 2021, 134 Stat. 4151, 4241, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 281 of this title, as added by section 1836(a) of Pub. L. 116–283, inserted after section 3861, and redesignated as section 3862 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### References in Text
 
 Public Law 85–804, referred to in subsecs. (a) and (b), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
@@ -34,7 +38,11 @@ A prior section, added Pub. L. 100–370, §1(h)(2), July 19, 1988, 102 Stat. 84
 
 <b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 2302 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
 

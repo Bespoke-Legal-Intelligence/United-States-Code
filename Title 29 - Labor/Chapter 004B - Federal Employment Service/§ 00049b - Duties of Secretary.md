@@ -6,7 +6,7 @@ The Secretary shall assist in coordinating the State public employment service o
 
 #### (b) Provision of unemployment compensation information
 
-It shall be the duty of the Secretary to assure that unemployment insurance and employment service offices in each State, as appropriate, upon request of a public agency administering or supervising the administration of a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act \[42 U.S.C. 651 et seq.\], or of a State agency charged with the administration of the supplemental nutrition assistance program in a State under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), shall (and, notwithstanding any other provision of law, is authorized to) furnish to such agency making the request, from any data contained in the files of any such office, information with respect to any individual specified in the request as to (1) whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, (2) the current (or most recent) home address of such individual, and (3) whether such individual has refused an offer of employment and, if so, a description ofthe employment so offered and the terms, conditions, and rate of pay therefor.
+It shall be the duty of the Secretary to assure that unemployment insurance and employment service offices in each State, as appropriate, upon request of a public agency administering or supervising the administration of a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act \[42 U.S.C. 651 et seq.\], or of a State agency charged with the administration of the supplemental nutrition assistance program in a State under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), shall (and, notwithstanding any other provision of law, is authorized to) furnish to such agency making the request, from any data contained in the files of any such office, information with respect to any individual specified in the request as to (1) whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, (2) the current (or most recent) home address of such individual, and (3) whether such individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor.
 
 #### (c) Public labor exchange services
 
@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (d) Colocation of employment service offices and one-stop centers
 
-In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
+In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensureaccess to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
 
 #### (e) Development of national electronic tools
 
@@ -33,6 +33,8 @@ The Secretary, in consultation with States, is authorized to assist the States i
 &emsp;(2) such other delivery systems as the Secretary determines to be appropriate.
 
 (June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title III, §303, July 22, 2014, 128 Stat. 1625.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,7 +70,7 @@ Subsec. (c). Pub. L. 105–220, §302(a)(2), added subsec. (c).
 
 <b>1982</b>—Pub. L. 97–300, amended section generally, substituting provisions which set out functions of the Service and duties of the Secretary of Labor for provisions which had stated the purposes of the Service, including services to veterans and supplying of data for the administration of programs in aid of families with dependent children, and defined "State".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agencyadministering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
+<b>1976</b>—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agency administering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–198, §204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
 
@@ -81,6 +83,8 @@ Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in def
 <b>1954</b>—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
 <b>1950</b>—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of "State" or "States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

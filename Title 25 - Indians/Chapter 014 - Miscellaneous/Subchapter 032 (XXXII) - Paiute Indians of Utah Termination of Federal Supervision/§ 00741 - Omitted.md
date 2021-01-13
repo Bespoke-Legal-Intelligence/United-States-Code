@@ -1,8 +1,12 @@
 ### §741. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §1, 68 Stat. 1099, which set out the purpose of this subchapter, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal of Inconsistent Laws
 

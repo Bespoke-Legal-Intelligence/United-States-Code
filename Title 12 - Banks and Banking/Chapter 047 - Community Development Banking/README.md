@@ -7,6 +7,7 @@
 | [4701\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004701%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
 | [4702\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004702%20-%20Definitions.md) | Definitions. |
 | [4703\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004703%20-%20Establishment%20of%20national%20Fund%20for%20community%20development%20banking.md) | Establishment of national Fund for community development banking. |
+| [4703a.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004703a%20-%20Capital%20investments%20for%20neighborhoods%20disproportionately%20impacted%20by%20the%20COVID%E2%80%9319%20pandemic.md) | Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic. |
 | [4704\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004704%20-%20Applications%20for%20assistance.md) | Applications for assistance. |
 | [4705\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004705%20-%20Community%20partnerships.md) | Community partnerships. |
 | [4706\.](Subchapter%20001%20%28I%29%20-%20Community%20Development%20Banking%20and%20Financial%20Institutions/%C2%A7%2004706%20-%20Selection%20of%20institutions.md) | Selection of institutions. |

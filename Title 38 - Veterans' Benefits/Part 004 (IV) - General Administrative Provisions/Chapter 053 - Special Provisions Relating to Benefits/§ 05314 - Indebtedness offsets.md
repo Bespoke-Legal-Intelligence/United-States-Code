@@ -1,6 +1,6 @@
 ### §5314. Indebtedness offsets
 
-(a) Subject to subsections (b) and (d) of this section and section 3485(e) of this title, the Secretary shall (unless the Secretary waives recovery under section 5302 of this title) deduct the amount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
+(a) Subject to subsections (b) and (d) of this section and section 3485(e) of this title, the Secretary shall (unless the Secretary waives recovery under section 5302 of this title) deduct theamount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
 
 (b) Deductions may not be made under subsection (a) of this section with respect to the indebtedness of a person described in such subsection unless the Secretary—
 
@@ -15,6 +15,8 @@
 (d) The Secretary shall prescribe regulations for the administration of this section.
 
 (Added Pub. L. 96–466, title VI, §605(a)(1), Oct. 17, 1980, 94 Stat. 2209, §3114; amended Pub. L. 102–16, §6(b)(3), Mar. 22, 1991, 105 Stat. 51; renumbered §5314 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 Pub. L. 102–40, §402(d)(1), substituted "5302" for "3102" in par. (1).
 
 Subsecs. (c), (d). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

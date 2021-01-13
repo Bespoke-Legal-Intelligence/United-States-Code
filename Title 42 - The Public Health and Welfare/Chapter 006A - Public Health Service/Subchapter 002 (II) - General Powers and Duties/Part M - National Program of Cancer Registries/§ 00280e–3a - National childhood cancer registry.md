@@ -24,7 +24,7 @@ To encourage the greatest possible efficiency and effectiveness of federally sup
 
 The activities described in this section shall be subject to section 552a of title 5, the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, applicable Federal and State informed consent regulations, any other applicable Federal and State laws relating to the privacy of patient information, and section 280e(d)(4) of this title.
 
-(July 1, 1944, ch. 373, title III, §399E–1, as added Pub. L. 110–285, §4(b)(1), July 29, 2008, 122 Stat.2630; amended Pub. L. 115–180, title I, §102(a), June 5, 2018, 132 Stat. 1385.)
+(July 1, 1944, ch. 373, title III, §399E–1, as added Pub. L. 110–285, §4(b)(1), July 29, 2008, 122 Stat. 2630; amended Pub. L. 115–180, title I, §102(a), June 5, 2018, 132 Stat. 1385.)
 
 #### References in Text
 

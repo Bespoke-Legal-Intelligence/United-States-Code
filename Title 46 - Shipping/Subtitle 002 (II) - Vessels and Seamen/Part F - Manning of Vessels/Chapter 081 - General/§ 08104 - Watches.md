@@ -4,19 +4,19 @@
 
 (b) On an oceangoing or coastwise vessel of not more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a fishing, fish processing, or fish tender vessel), a licensed individual may not be required to work more than 9 of 24 hours when in port, including the date of arrival, or more than 12 of 24 hours at sea, except in an emergency when life or property are endangered.
 
-(c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, a licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
+(c) On a towing vessel (except a towing vessel operated only for fishing, fish processing, fish tender, or engaged in salvage operations) operating on the Great Lakes, harbors of the Great Lakes, and connecting or tributary waters between Gary, Indiana, Duluth, Minnesota, Niagara Falls, New York, and Ogdensburg, New York, an individual in the deck or engine department may not be required to work more than 8 hours in one day or permitted to work more than 15 hours in any 24-hour period, or more than 36 hours in any 72-hour period, except in an emergency when life or property are endangered.
 
-(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. A licensed individual or seaman in the deck or engine department may not be required to work more than 8 hours in one day.
+(d) On a merchant vessel of more than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title (except a vessel only operating on rivers, harbors, lakes (except the Great Lakes), bays, sounds, bayous, and canals, a fishing, fish tender, or whaling vessel, a fish processing vessel of not more than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, yacht, or vessel engaged in salvage operations), the licensed individuals, sailors, and oilers shall be divided, when at sea, into at least 3 watches, and shall be kept on duty successively to perform ordinary work incident to the operation and management of the vessel. The requirement of this subsection applies to radio officers only when at least 3 radio officers are employed. An individual in the deck or engine department may not be required to work more than 8 hours in one day.
 
 (e) On a vessel designated by subsection (d) of this section—
 
-&emsp;(1) a seaman may not be—
+&emsp;(1) an individual may not be—
 
 &emsp;&emsp;(A) engaged to work alternately in the deck and engine departments; or
 
 &emsp;&emsp;(B) required to work in the engine department if engaged for deck department duty or required to work in the deck department if engaged for engine department duty;
 
-&emsp;(2) a seaman may not be required to do unnecessary work on Sundays, New Year's Day, July 4th, Labor Day, Thanksgiving Day, or Christmas Day, when the vessel is in a safe harbor, but this clause does not prevent dispatch of a vessel on a voyage; and
+&emsp;(2) an individual may not be required to do unnecessary work on Sundays, New Year's Day, July 4th, Labor Day, Thanksgiving Day, or Christmas Day, when the vessel is in a safe harbor, but this clause does not prevent dispatch of a vessel on a voyage; and
 
 &emsp;(3) when the vessel is in a safe harbor, 8 hours (including anchor watch) is a day's work.
 
@@ -34,11 +34,11 @@
 
 (2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
-(h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12 hours in a consecutive 24-hour period except in an emergency.
+(h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12hours in a consecutive 24-hour period except in an emergency.
 
 (i) A person violating subsection (a) or (b) of this section is liable to the United States Government for a civil penalty of $10,000.
 
-(j) The owner, charterer, or managing operator of a vessel on which a violation of subsection (c), (d), (e), or (h) of this section occurs is liable to the Government for a civil penalty of $10,000. The seaman is entitled to discharge from the vessel and receipt of wages earned.
+(j) The owner, charterer, or managing operator of a vessel on which a violation of subsection (c), (d), (e), or (h) of this section occurs is liable to the Government for a civil penalty of $10,000. The individual is entitled to discharge from the vessel and receipt of wages earned.
 
 (k) On a fish processing vessel subject to inspection under part B of this subtitle, the licensed individuals and deck crew shall be divided, when at sea, into at least 3 watches.
 
@@ -68,7 +68,7 @@
 
 (p) The Secretary may prescribe the watchstanding and work hours requirements for an oil spill response vessel.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530; Pub. L. 111–281, title VI, §617(d), title IX, §903(a)(1), Oct. 15, 2010, 124 Stat. 2973, 3010; Pub. L. 113–281, title III, §316, Dec. 18, 2014, 128 Stat. 3050.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 549; Pub. L. 98–364, title IV, §402(11), July 17, 1984, 98 Stat. 448; Pub. L. 98–557, §33(c), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(12), May 19, 1986, 100 Stat. 445; Pub. L. 101–380, title IV, §§4114(b), 4302(f), Aug. 18, 1990, 104 Stat. 517, 538; Pub. L. 101–595, title VI, §602(e)(1), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 102–587, title V, §5212, Nov. 4, 1992, 106 Stat. 5077; Pub. L. 103–206, title III, §322(a), Dec. 20, 1993, 107 Stat. 2428; Pub. L. 104–324, title VII, §728, title XI, §§1104(c), 1114, Oct. 19, 1996, 110 Stat. 3939, 3967, 3971; Pub. L. 109–241, title III, §311(b), July 11, 2006, 120 Stat. 530; Pub. L. 111–281, title VI, §617(d), title IX, §903(a)(1), Oct. 15, 2010, 124 Stat. 2973, 3010; Pub. L. 113–281, title III, §316, Dec. 18, 2014, 128 Stat. 3050; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(9), Jan. 1, 2021, 134 Stat. 4751.)
 
 Historical and Revision Notes
 
@@ -104,7 +104,17 @@ Subsection (h) provides that the licensed operator for a towing vessel at least 
 
 Subsections (i) and (j) prescribe penalties for violations of the provisions of this section and, in certain instances, entitles the seaman to discharge and payment of wages.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 116–283, §8505(b)(9)(A), substituted "an individual" for "a licensed individual or seaman".
+
+Subsec. (d). Pub. L. 116–283, §8505(b)(9)(B), substituted "An individual" for "A licensed individual or seaman".
+
+Subsec. (e). Pub. L. 116–283, §8505(b)(9)(C), substituted "an individual" for "a seaman" in pars. (1) and (2).
+
+Subsec. (j). Pub. L. 116–283, §8505(b)(9)(D), substituted "individual" for "seaman".
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–281, §316(1), substituted "and oilers" for "coal passers, firemen, oilers, and water tenders".
 
@@ -114,7 +124,7 @@ Subsec. (g)(1). Pub. L. 113–281, §316(2), struck out "(except the coal passer
 
 Subsec. (o). Pub. L. 111–281, §903(a)(1), made technical amendment to directory language of Pub. L. 109–241, §311(b). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (o). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted "or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section14302 of this title" for "or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" in pars. (1) and (2).
+<b>2006</b>—Subsec. (o). Pub. L. 109–241, as amended by Pub. L. 111–281, §903(a)(1), substituted "or less than 500 gross tons as measured under section 14502 of this title, or is less than 2,500 gross tons as measured under section 14302 of this title" for "or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" in pars. (1) and (2).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324, §728(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 
@@ -167,6 +177,8 @@ Subsec. (l). Pub. L. 98–557 substituted "shall" for "may" in provisions preced
 Pub. L. 98–364, §402(11)(D), added subsec. (l).
 
 Subsec. (m). Pub. L. 98–364, §402(11)(D), added subsec. (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

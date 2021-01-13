@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–66, title III, §3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 "Reports".

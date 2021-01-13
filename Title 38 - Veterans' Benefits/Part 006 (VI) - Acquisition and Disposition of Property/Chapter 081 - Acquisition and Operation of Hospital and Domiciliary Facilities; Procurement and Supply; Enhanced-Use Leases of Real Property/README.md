@@ -40,6 +40,7 @@
 | [8126\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008126%20-%20Limitation%20on%20prices%20of%20drugs%20procured%20by%20Department%20and%20certain%20other%20Federal%20agencies.md) | Limitation on prices of drugs procured by Department and certain other Federal agencies. |
 | [8127\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008127%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20goals%20and%20preferences.md) | Small business concerns owned and controlled by veterans: contracting goals and preferences. |
 | [8128\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008128%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20priority.md) | Small business concerns owned and controlled by veterans: contracting priority. |
+| [8129\.](Subchapter%20002%20%28II%29%20-%20Procurement%20and%20Supply/%C2%A7%2008129%20-%20Preference%20for%20offerors%20employing%20veterans.md) | Preference for offerors employing veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,7 +95,11 @@
 
 <i>Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
 
 <b>2018</b>—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 

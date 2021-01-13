@@ -76,11 +76,13 @@ June 29, 1936, ch. 858, title XI, §1105(f), as added Pub. L. 108–136, title X
 
 In subsection (a), before paragraph (1), the words "an obligation or related agreement" are substituted for "a mortgage, loan agreement, or other security agreement" for consistency in the revised chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.
 
-Pub. L. 110–181, 3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), (F), into this section by inserting "or Administrator" after "Secretary" in section catchline and wherever appearing in subsecs. (a) to (c) and "or Administrator's" after "Secretary's" in subsecs. (a)(1) and (b)(1)(B). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Pub. L. 110–181, 3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163,§3507(a)(1)(C), (F), into this section by inserting "or Administrator" after "Secretary" in section catchline and wherever appearing in subsecs. (a) to (c) and "or Administrator's" after "Secretary's" in subsecs. (a)(1) and (b)(1)(B). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsec. (d). Pub. L. 110–181, §3522(a)(10)(B), inserted "or Administrator" after "Secretary" in introductory provisions.
 

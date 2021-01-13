@@ -22,6 +22,8 @@ Minor changes were made in phraseology.
 
 This section \[section 37\] corrects typographical errors in section 1703 of title 18, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in subsec. (a) and "fined under this title" for "fined not more than $100" in last par.
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 91–375, §6(j)(16)(B), substituted "Postal Service office
 <b>1949</b>—Subsec. (a). Act May 24, 1949, §37(a), substituted "secretes" for "secrets".
 
 Subsec. (b). Act May 24, 1949, §37(b), substituted "newspapers" for "newspaper".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

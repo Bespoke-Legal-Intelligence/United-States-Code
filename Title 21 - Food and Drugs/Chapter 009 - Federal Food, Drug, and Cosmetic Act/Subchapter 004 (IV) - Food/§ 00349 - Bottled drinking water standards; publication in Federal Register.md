@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), whenever the Administrator of the Environmental Protection Agency prescribes interim or revised national primary drinking water regulations under section 1412 of the Public Health Service Act \[42 U.S.C. 300g–1\], the Secretary shall consult with the Administrator and within 180 days after the promulgation of such drinking water regulations either promulgate amendments to regulations under this chapter applicable to bottled drinking water or publish in the Federal Register his reasons for not making such amendments.
 
-(b)(1) Not later than 180 days before the effective date of a national primary drinking water regulation promulgated by the Administrator of the Environmental Protection Agency for a contaminant under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the Secretary shall promulgate a standard of quality regulation under this subsection for that contaminant in bottled water or make a finding that such a regulation is not necessary to protect the publichealth because the contaminant is contained in water in public water systems (as defined under section 1401(4) of such Act (42 U.S.C. 300f(4))) but not in water used for bottled drinking water. The effective date for any such standard of quality regulation shall be the same as the effective date for such national primary drinking water regulation, except for any standard of quality of regulation promulgated by the Secretary before August 6, 1996, for which (as of August 6, 1996) an effective date had not been established. In the case of a standard of quality regulation to which such exception applies, the Secretary shall promulgate monitoring requirements for the contaminants covered by the regulation not later than 2 years after August 6, 1996.
+(b)(1) Not later than 180 days before the effective date of a national primary drinking water regulation promulgated by the Administrator of the Environmental Protection Agency for a contaminant under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the Secretary shall promulgate a standard of quality regulation under this subsection for that contaminant in bottled water or make a finding that such a regulation is not necessary to protect the public health because the contaminant is contained in water in public water systems (as defined under section 1401(4) of such Act (42 U.S.C. 300f(4))) but not in water used for bottled drinking water. The effective date for any such standard of quality regulation shall be the same as the effective date for such national primary drinking water regulation, except for any standard of quality of regulation promulgated by the Secretary before August 6, 1996, for which (as of August 6, 1996) an effective date had not been established. In the case of a standard of quality regulation to which such exception applies, the Secretary shall promulgate monitoring requirements for the contaminants covered by the regulation not later than 2 years after August 6, 1996.
 
 (2) A regulation issued by the Secretary as provided in this subsection shall include any monitoring requirements that the Secretary determines appropriate for bottled water.
 
@@ -22,6 +22,8 @@
 
 (June 25, 1938, ch. 675, §410, as added Pub. L. 93–523, §4, Dec. 16, 1974, 88 Stat. 1694; amended Pub. L. 104–182, title III, §305, Aug. 6, 1996, 110 Stat. 1684.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
@@ -29,6 +31,8 @@ The Safe Drinking Water Act, referred to in subsec. (b)(4)(B)(ii), is title XIV 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–182 substituted "(a) Except as provided in subsection (b), whenever" for "Whenever" and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Bottled Water Study
 

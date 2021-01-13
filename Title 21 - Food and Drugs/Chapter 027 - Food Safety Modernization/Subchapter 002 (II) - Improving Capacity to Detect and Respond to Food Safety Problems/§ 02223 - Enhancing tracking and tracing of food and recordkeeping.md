@@ -50,7 +50,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (1) In general
 
-&emsp;In order to rapidly and effectively identify recipients of a food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title, not later than 2 years after January 4, 2011, the Secretary shall publish a notice of proposed rulemaking to establish recordkeeping requirements, in addition to the requirements under section 350c of this title and subpart J of part 1 of title 21, Code of Federal Regulations (or any successor regulations), for facilities that manufacture, process, pack, or hold foods that the Secretary designates under paragraph (2) as high-risk foods. The Secretary shall set an appropriate effective date of such additional requirements for foods designated as high risk that takes into account the length of time necessary to comply with such requirements. Such requirements shall—
+&emsp;In order to rapidly and effectively identify recipients of a food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as aresult of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title, not later than 2 years after January 4, 2011, the Secretary shall publish a notice of proposed rulemaking to establish recordkeeping requirements, in addition to the requirements under section 350c of this title and subpart J of part 1 of title 21, Code of Federal Regulations (or any successor regulations), for facilities that manufacture, process, pack, or hold foods that the Secretary designates under paragraph (2) as high-risk foods. The Secretary shall set an appropriate effective date of such additional requirements for foods designated as high risk that takes into account the length of time necessary to comply with such requirements. Such requirements shall—
 
 &emsp;&emsp;(A) relate only to information that is reasonably available and appropriate;
 
@@ -122,7 +122,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (5) Retention of records
 
-&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or lossof palatability of the applicable food when determining the appropriate timeframes.
+&emsp;Except as otherwise provided in this subsection, the Secretary may require that a facility retain records under this subsection for not more than 2 years, taking into consideration the risk of spoilage, loss of value, or loss of palatability of the applicable food when determining the appropriate timeframes.
 
 #### (6) Limitations
 
@@ -245,6 +245,8 @@ Notwithstanding any other provision of law, the regulations promulgated under su
 &emsp;(2) to very small businesses (as defined by the Secretary in section 350g of this title, not later than 90 days after January 4, 2011) beginning on the date that is 2 years after the effective date of the final regulations promulgated under subsection (d).
 
 (Pub. L. 111–353, title II, §204, Jan. 4, 2011, 124 Stat. 3930.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,9 +4,13 @@ This title,<sup>1</sup> and regulations, orders, guidance, and interpretations p
 
 (Pub. L. 111–203, title X, §1043, July 21, 2010, 124 Stat. 2014.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

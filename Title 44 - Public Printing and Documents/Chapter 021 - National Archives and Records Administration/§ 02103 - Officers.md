@@ -8,9 +8,13 @@
 
 (Added Pub. L. 98–497, title I, §102(a)(2), Oct. 19, 1984, 98 Stat. 2280.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2103 was renumbered section 2107 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

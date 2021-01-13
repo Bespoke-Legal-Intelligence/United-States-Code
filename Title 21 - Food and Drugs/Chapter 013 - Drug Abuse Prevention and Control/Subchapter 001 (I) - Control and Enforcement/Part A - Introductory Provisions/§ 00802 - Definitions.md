@@ -20,7 +20,7 @@ As used in this subchapter:
 
 (6) The term "controlled substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.
 
-(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
+(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, ordispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
 (8) The terms "deliver" or "delivery" mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
@@ -74,7 +74,7 @@ As used in this subchapter:
 
 (20) The term "poppy straw" means all parts, except the seeds, of the opium poppy, after mowing.
 
-(21) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
+(21) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which hepractices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
 
 (22) The term "production" includes the manufacture, planting, cultivation, growing, or harvesting of a controlled substance.
 
@@ -96,7 +96,7 @@ As used in this subchapter:
 
 &emsp;(C) protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
-(26) The term "State" means a State of the United States, the District of Columbia, and anycommonwealth, territory, or possession of the United States.
+(26) The term "State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (27) The term "ultimate user" means a person who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.
 
@@ -204,7 +204,7 @@ As used in this subchapter:
 
 &emsp;(J) Hydrochloric gas.
 
-(36) The term "regular customer" means, with respect to a regulated person, a customer withwhom the regulated person has an established business relationship that is reported to the Attorney General.
+(36) The term "regular customer" means, with respect to a regulated person, a customer with whom the regulated person has an established business relationship that is reported to the Attorney General.
 
 (37) The term "regular importer" means, with respect to a listed chemical, a person that has an established record as an importer of that listed chemical that is reported to the Attorney General.
 
@@ -422,7 +422,7 @@ As used in this subchapter:
 
 (ii) If any person prescribes, dispenses, or distributes such steroid for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of subparagraph (A).
 
-(C)(i) Subject to clause (ii), a drug or hormonal substance (other than estrogens,progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
+(C)(i) Subject to clause (ii), a drug or hormonal substance (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone) that is not listed in subparagraph (A) and is derived from, or has a chemical structure substantially similar to, 1 or more anabolic steroids listed in subparagraph (A) shall be considered to be an anabolic steroid for purposes of this chapter if—
 
 &emsp;(I) the drug or substance has been created or manufactured with the intent of producing a drug or other substance that either—
 
@@ -476,7 +476,7 @@ As used in this subchapter:
 
 (48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
-(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activitiesas a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
 (B) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
 
@@ -496,7 +496,7 @@ As used in this subchapter:
 
 &emsp;(B) does not include—
 
-&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) ofsection 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
 
 &emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
 
@@ -628,7 +628,9 @@ As used in this subchapter:
 
 &emsp;(B) any offense that would be a felony violation of section 113 of title 18, if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17,1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -676,7 +678,7 @@ Par. (45). Pub. L. 109–177, §§711(a)(1)(B), 712(a)(1)(B), added par. (45) an
 
 Pars. (46) to (48). Pub. L. 109–177, §§711(a)(1)(B), added pars. (46) to (48). Former par. (46) redesignated (49).
 
-Par. (49). Pub. L. 109–177, §711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted "ephedrine, pseudoephedrine, or" for "pseudoephedrine or" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use."
+Par. (49). Pub. L. 109–177, §711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted "ephedrine, pseudoephedrine, or" for "pseudoephedrine or" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "For purposesof this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use."
 
 <b>2004</b>—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined "anabolic steroid".
 
@@ -803,6 +805,8 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 <b>1978</b>—Par. (29). Pub. L. 95–633 added par. (29).
 
 <b>1974</b>—Pars. (27), (28). Pub. L. 93–281 added pars. (27) and (28).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -932,7 +936,7 @@ Regulation of Retail Sales.—
 
 In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[Pub. L. 104–237\] (21 U.S.C. 802 note) and subject to paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
 
-&emsp;&emsp;"(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widely used in the clandestine production of illicit drugs; and
+&emsp;&emsp;"(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widelyused in the clandestine production of illicit drugs; and
 
 &emsp;&emsp;"(B) the best practical method of preventing such use is the establishment of single-transaction limits for retail distributors of either or both of such products.
 

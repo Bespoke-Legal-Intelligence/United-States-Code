@@ -28,7 +28,7 @@ Enrollment Eligibility.—(1) The beneficiary categories for purposes of eligibi
 
 Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select are as follows:
 
-&emsp;(1) With respect to beneficiaries in the active-duty family member category or the retired category by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services on or after January 1, 2018, or by reason of being a dependent of such a member, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1).
+&emsp;(1) With respect to beneficiaries in the active-duty family member category or the retired category by reason of being a member or former member of the uniformed services whooriginally enlists or is appointed in the uniformed services on or after January 1, 2018, or by reason of being a dependent of such a member, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1).
 
 &emsp;(2)(A) Except as provided by subsection (e), with respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category, the cost-sharing requirements shall be calculated as if the beneficiary were enrolled in TRICARE Extra or TRICARE Standard as if TRICARE Extra or TRICARE Standard, as the case may be, were still being carried out by the Secretary.
 
@@ -78,7 +78,7 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 
 (3) Enrollment fees, deductible amounts, and catastrophic caps under this section are on a calendar-year basis.
 
-(4) The cost-sharing requirements applicable to services not specifically addressed in the table set forth in paragraph (1) shall be established by the Secretary.
+(4) The cost-sharing requirements applicable to services not specifically addressed in thetable set forth in paragraph (1) shall be established by the Secretary.
 
 (e)
 

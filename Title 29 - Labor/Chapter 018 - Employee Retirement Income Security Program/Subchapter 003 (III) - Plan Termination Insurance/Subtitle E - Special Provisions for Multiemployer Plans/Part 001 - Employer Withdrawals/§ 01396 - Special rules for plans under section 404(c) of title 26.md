@@ -18,7 +18,7 @@ In the case of a plan described in subsection (b)—
 
 &emsp;(2) the withdrawal liability of an employer who withdraws after December 31, 1983, as a result of a termination described in section 1341a(a)(2) of this title which is agreed to by the labor organization that appoints the employee representative on the joint board of trustees which sponsors the plan, shall be determined under subsection (c) if—
 
-&emsp;&emsp;(A) as a result of prior employer withdrawals in any plan year commencing after January 1, 1980, the number of contribution base units is reduced to less than 67 percent ofthe average number of such units for the calendar years 1974 through 1979; and
+&emsp;&emsp;(A) as a result of prior employer withdrawals in any plan year commencing after January 1, 1980, the number of contribution base units is reduced to less than 67 percent of the average number of such units for the calendar years 1974 through 1979; and
 
 &emsp;&emsp;(B) at least 50 percent of the withdrawal liability attributable to the first 33 percent decline described in subparagraph (A) has been determined by the plan sponsor to be uncollectible within the meaning of regulations of the corporation of general applicability; and
 
@@ -47,6 +47,8 @@ A plan is described in this subsection if—
 (2) For purposes of paragraph (1), the term "a year of signatory service" means a year during any portion of which a participant was employed for an employer who was obligated to contribute in that year, or who was subsequently obligated to contribute.
 
 (Pub. L. 93–406, title IV, §4216, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1234.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

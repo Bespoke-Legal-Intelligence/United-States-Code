@@ -16,7 +16,7 @@
 
 #### (2) Investigative support
 
-&emsp;The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, shall, with respect to crimes relating to elder abuse, ensure the implementation of a regular and comprehensive training program to train agents of the Federal Bureau of Investigation in the investigation and prosecution of such crimes and the enforcement of laws related to elder abuse, which shall include—
+&emsp;The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, shall, with respect to crimes relating to elder abuse, ensure the implementation of a regular and comprehensive training programto train agents of the Federal Bureau of Investigation in the investigation and prosecution of such crimes and the enforcement of laws related to elder abuse, which shall include—
 
 &emsp;&emsp;(A) specialized strategies for communicating with and assisting elder abuse victims; and
 
@@ -32,19 +32,35 @@
 
 #### (b) Department of Justice Elder Justice Coordinator
 
-Not later than 60 days after October 18, 2017, the Attorney General shall designate an Elder Justice Coordinator within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
+#### (1) In general
 
-&emsp;(1) coordinating and supporting the law enforcement efforts and policy activities for the Department of Justice on elder justice issues;
+&emsp;Not later than 60 days after October 18, 2017, the Attorney General shall designate an Elder Justice Coordinator within the Department of Justice who, in addition to any other responsibilities, shall be responsible for—
 
-&emsp;(2) evaluating training models to determine best practices and creating or compiling and making publicly available replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with elder abuse regarding how to—
+&emsp;&emsp;(A) coordinating and supporting the law enforcement efforts and policy activities for the Department of Justice on elder justice issues;
 
-&emsp;&emsp;(A) conduct investigations in elder abuse cases;
+&emsp;&emsp;(B) evaluating training models to determine best practices and creating or compiling and making publicly available replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with elder abuse regarding how to—
 
-&emsp;&emsp;(B) address evidentiary issues and other legal issues; and
+&emsp;&emsp;&emsp;(i) conduct investigations in elder abuse cases;
 
-&emsp;&emsp;(C) appropriately assess, respond to, and interact with victims and witnesses in elder abuse cases, including in administrative, civil, and criminal judicial proceedings; and
+&emsp;&emsp;&emsp;(ii) address evidentiary issues and other legal issues, including witnesses who have Alzheimer's disease and related dementias; and
 
-&emsp;(3) carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, elder abuse.
+&emsp;&emsp;&emsp;(iii) appropriately assess, respond to, and interact with victims and witnesses in elder abuse cases (including victims and witnesses who have Alzheimer's disease and related dementias), including in administrative, civil, and criminal judicial proceedings; and
+
+&emsp;&emsp;(C) carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, elder abuse.
+
+#### (2) Training materials
+
+#### (A) In general
+
+&emsp;&emsp;In creating or compiling replication guides and training materials under paragraph (1)(B), the Elder Justice Coordinator shall consult with the Secretary of Health and Human Services, State, local, and Tribal adult protective services, aging, social, and human services agencies, Federal, State, local, and Tribal law enforcement agencies, and nationally recognized nonprofit associations with relevant expertise, as appropriate.
+
+#### (B) Updating
+
+&emsp;&emsp;The Elder Justice Coordinator shall—
+
+&emsp;&emsp;&emsp;(i) review the best practices identified and replication guides and training materials created or compiled under paragraph (1)(B) to determine if the replication guides or training materials require updating; and
+
+&emsp;&emsp;&emsp;(ii) perform any necessary updating of the replication guides or training materials.
 
 #### (c) Federal Trade Commission
 
@@ -54,23 +70,61 @@ Not later than 60 days after October 18, 2017, the Attorney General shall design
 
 &emsp;&emsp;(A) coordinating and supporting the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues; and
 
-&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education effortsand policy activities of the Federal Trade Commission on elder justice issues.
+&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
 
-#### (2) Reports to Congress
+#### (2) <sup>1</sup> Reports to Congress
 
-&emsp;Not later than 1 year after October 18, 2017, and once every year thereafter, the Chairman of the Federal Trade Commission and the Attorney General shall each submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report detailing the enforcement actions taken by the Federal Trade Commission and the Department of Justice, respectively, over the preceding year in each case in which not less than one victim was an elder or that involved a financial scheme or scam that was either targeted directly toward or largely affected elders, including—
+&emsp;Not later than 1 year after October 18, 2017, and once every year thereafter, the Chairman of the Federal Trade Commission and the Attorney General shall each submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report—
 
-&emsp;&emsp;(A) the name of the district where the case originated;
+&emsp;&emsp;(A) detailing the enforcement actions taken by the Federal Trade Commission and the Department of Justice, respectively, over the preceding year in each case in which not less than one victim was an elderor that involved a financial scheme or scam that was either targeted directly toward or largely affected elders, including—
 
-&emsp;&emsp;(B) the style of the case, including the case name and number;
+&emsp;&emsp;&emsp;(i) the name of the district where the case originated;
 
-&emsp;&emsp;(C) a description of the scheme or scam; and
+&emsp;&emsp;&emsp;(ii) the style of the case, including the case name and number;
 
-&emsp;&emsp;(D) the outcome of the case.
+&emsp;&emsp;&emsp;(iii) a description of the scheme or scam; and
+
+&emsp;&emsp;&emsp;(iv) the outcome of the case.<sup>2</sup>
+
+&emsp;&emsp;(B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection.
 
 #### (d) Use of appropriated funds
 
 No additional funds are authorized to be appropriated to carry out this section.
 
-(Pub. L. 115–70, title I, §101, Oct. 18, 2017, 131 Stat. 1209.)
+(Pub. L. 115–70, title I, §101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 3(a) of Pub. L. 116–252 applicable with respect to the report submitted during the second year beginning after Dec. 22, 2020, and each year thereafter. See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–252, §2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 116–252, §2(a)(4)(A), inserted ", including witnesses who have Alzheimer's disease and related dementias" after "other legal issues".
+
+Subsec. (b)(1)(B)(iii). Pub. L. 116–252, §2(a)(4)(B), substituted "elder abuse cases (including victims and witnesses who have Alzheimer's disease and related dementias)," for "elder abuse cases,".
+
+Subsec. (b)(2). Pub. L. 116–252, §2(a)(5), added par. (2).
+
+Subsec. (c)(2). Pub. L. 116–252, §3(a), substituted "a report—" for "a report" in introductory provisions, designated remainder of provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date and Applicability of 2020 Amendment
+
+Pub. L. 116–252, §2(b), Dec. 22, 2020, 134 Stat. 1134, provided that: "The amendments made by subsection (a) \[amending this section\] shall—
+
+&emsp;"(1) take effect on the date of enactment of this Act \[Dec. 22, 2020\]; and
+
+&emsp;"(2) apply on and after the date that is 1 year after the date of enactment of this Act."
+
+Pub. L. 116–252, §3(b), Dec. 22, 2020, 134 Stat. 1134, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to the report under section 101(c)(2) of the Elder Abuse Prevention and Prosecution Act (34 U.S.C. 21711(c)(2)) submitted during the second year beginning after the date of enactment of this Act \[Dec. 22, 2020\], and each year thereafter."
+
+<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).</i>
 

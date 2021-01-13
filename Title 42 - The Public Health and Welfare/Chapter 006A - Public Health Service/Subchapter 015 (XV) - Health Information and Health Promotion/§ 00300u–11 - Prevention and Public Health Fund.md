@@ -32,7 +32,7 @@ The Secretary shall transfer amounts in the Fund to accounts within the Departme
 
 #### (d) Transfer authority
 
-The Committee on Appropriations of the Senate and the Committee on Appropriations of theHouse of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
+The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
 (Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–96, div. C, title I, §3103, Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title XII, §53119, Feb. 9, 2018, 132 Stat. 308.)
 
@@ -78,7 +78,7 @@ Subsec. (b)(5) to (8). Pub. L. 114–255, §5009(3), added pars. (5) to (8) and 
 
 <b>2012</b>—Subsec. (b)(2) to (6). Pub. L. 112–96 added pars. (2) to (5) and struck out former pars. (2) to (6) which appropriated amounts for fiscal years 2011 through 2015 and each fiscal year thereafter.
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted "research, health screenings, and initiatives" for "research and health screenings" and "Regarding Preventive" for "for Preventive".
+<b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted "research, health screenings, and initiatives"for "research and health screenings" and "Regarding Preventive" for "for Preventive".
 
 #### Website
 

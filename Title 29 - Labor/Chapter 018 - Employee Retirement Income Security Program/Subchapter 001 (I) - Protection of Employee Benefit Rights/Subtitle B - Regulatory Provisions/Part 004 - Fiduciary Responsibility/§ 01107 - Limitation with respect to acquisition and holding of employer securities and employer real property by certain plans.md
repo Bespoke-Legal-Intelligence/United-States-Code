@@ -66,7 +66,7 @@ Cross References.—
 
 #### (c) Election
 
-(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying therequirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
+(1) A plan which makes the election, under paragraph (3) shall be treated as satisfying the requirement of subsection (a)(3) if and only if employer securities held on any date after December 31, 1974 and before January 1, 1985 have a fair market value, determined as of December 31, 1974, not in excess of 10 percent of the lesser of—
 
 &emsp;(A) the fair market value of the assets of the plan determined on such date (disregarding any portion of the fair market value of employer securities which is attributable to appreciation of such securities after December 31, 1974) but not less than the fair market value of plan assets on January 1, 1975, or
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets such other requirements as the Secretary of the Treasury may prescribe by regulation.
 
-&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintainsthe plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
+&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlledgroup of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 
@@ -158,6 +158,8 @@ For purposes of subsection (d)(5), the term "marketable obligation" means a bond
 
 (Pub. L. 93–406, title I, §407, Sept. 2, 1974, 88 Stat. 880; Pub. L. 100–203, title IX, §9345(a)(1), (2), (b), Dec. 22, 1987, 101 Stat. 1330–373; Pub. L. 101–239, title VII, §§7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–540, §1, Nov. 8, 1990, 104 Stat. 2379; Pub. L. 105–34, title XV, §1524(a), Aug. 5, 1997, 111 Stat. 1071; Pub. L. 109–280, title IX, §901(b)(2), Aug. 17, 2006, 120 Stat. 1032.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10211(c)(2)(A) of the Revenue Act of 1987 (Public Law 100–203), referred to in subsec. (d)(5)(C), is set out as a note under section 7704 of Title 26, Internal Revenue Code.
@@ -189,6 +191,8 @@ Subsec. (d)(5). Pub. L. 100–203, §9345(b)(1), inserted at end "After December
 Subsec. (d)(9). Pub. L. 100–203, §9345(a)(2), added par. (9).
 
 Subsec. (f). Pub. L. 100–203, §9345(b)(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

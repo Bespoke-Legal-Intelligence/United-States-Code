@@ -22,7 +22,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (9) Illinois, Oregon: The entire river.
 
-(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little BeaverRiver in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
+(10) Little Beaver, Ohio: The segment of the North and Middle Forks of the Little Beaver River in Columbiana County from a point in the vicinity of Negly and Elkton, Ohio, downstream to a point in the vicinity of East Liverpool, Ohio.
 
 (11) Little Miami, Ohio: That segment of the main stem of the river, exclusive of its tributaries, from a point at the Warren-Clermont County line at Loveland, Ohio, upstream to the sources of Little Miami including North Fork.
 
@@ -146,7 +146,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (71) Soldier Creek, Alabama: The segment beginning at the point where Soldier Creek intersects the south line of section 31, township 7 south, range 6 east, downstream to a point on the south line of section 6, township 8 south, range 6 east, which point is 1,322 feet west of the south line of section 5, township 8 south, range 6 east in the county of Baldwin, State of Alabama.
 
-(72) Red, Kentucky: The segment from Highway numbered 746 (also known as Spradlin Bridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
+(72) Red, Kentucky: The segment from Highway numbered 746 (also known as SpradlinBridge) in Wolf County, Kentucky, downstream to the point where the river descends below seven hundred feet above sea level (in its normal flow) which point is at the Menifee and Powell County line just downstream of the iron bridge where Kentucky Highway numbered 77 passes over the river.
 
 (73) Bluestone, West Virginia: From its headwaters to its confluence with the New.
 
@@ -252,7 +252,7 @@ St. Marys River, Florida and Georgia.—The segment from its headwaters to its c
 
 (109)
 
-Mills River, North Carolina.—The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Fork from its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
+Mills River, North Carolina.—The North Fork from the bottom of the spillway of the Hendersonville Reservoir downstream to its confluence with the South Fork; the South Forkfrom its confluence with the Pigeon Branch downstream to its confluence with the North Fork; and the main stem from the confluence of the North and South Forks downstream to a point 750 feet upstream from the centerline of North Carolina Highway 191/280.
 
 (110)
 
@@ -346,7 +346,7 @@ Mill Creek, Jefferson and Clarion Counties, Pennsylvania.—The segment of the m
 
 (127)
 
-Piru Creek, California.—The segment of the main stem of the creek from its source downstream to the maximum pool of Pyramid Lake and the segment of the main stem of the creek beginning 300 feet below the dam at Pyramid Lake downstream to the maximum pool at Lake Piru, for a total distance of approximately 49 miles.
+Piru Creek, California.—The segment of the main stem of the creek from its source downstream to the maximum pool of PyramidLake and the segment of the main stem of the creek beginning 300 feet below the dam at Pyramid Lake downstream to the maximum pool at Lake Piru, for a total distance of approximately 49 miles.
 
 (128)
 
@@ -382,7 +382,7 @@ Delaware River, Pennsylvania and New Jersey.—(A) The approximately 3.6-mile se
 
 (F) The approximately 6.5-mile segment from a point just south of the Point Pleasant Pumping Station to the north side of the Route 202 bridge.
 
-(G) The approximately 6-mile segment from the southern boundary of the town of New Hope,Pennsylvania, to the town of Washington Crossing, Pennsylvania.
+(G) The approximately 6-mile segment from the southern boundary of the town of New Hope, Pennsylvania, to the town of Washington Crossing, Pennsylvania.
 
 (H) The Cook's Creek tributary.
 
@@ -454,7 +454,7 @@ Beaver, chipuxet, queen, wood, and pawcatuck rivers, rhode island and connecticu
 
 &emsp;(B) The approximately 5-mile segment of the Chipuxet River from Hundred Acre Pond to the outlet into Worden Pond.
 
-&emsp;(C) The approximately 10-mile segment of the upper Queen River from the headwaters to the Usquepaugh Dam in South Kingstown, Rhode Island, including all tributaries of the upper Queen River.
+&emsp;(C) The approximately 10-mile segment of the upper Queen River from the headwaters to the Usquepaugh Dam in South Kingstown,Rhode Island, including all tributaries of the upper Queen River.
 
 &emsp;(D) The approximately 5-mile segment of the lower Queen (Usquepaugh) River from the Usquepaugh Dam to the confluence with the Pawcatuck River.
 
@@ -482,7 +482,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 #### (b) Studies and reports
 
-(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Pro</i><i>vided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>3</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
+(1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>3</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
@@ -502,7 +502,7 @@ York river, maine.—The segment of the York River that flows 11.25 miles from t
 
 (10) The study of the river named in paragraph (106) <sup>5</sup> of subsection (a) shall be completed not later than three years after August 15, 1990. In carrying out the study, the Secretary of the Interior shall consult with the Governors of the States of Florida and Georgia or their representatives, representatives of affected local governments, and owners of land adjacent to the river. Such consultation shall include participation in the assessment of resource values and the development of alternatives for the protection of those resource values, and shall be carried out through public meetings and media notification. The study shall also include a recommendation on the part of the Secretary as to the role the States, local governments and landowners should play in the management of the river if it were designated as a component of the National Wild and Scenic Rivers System.
 
-(11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
+(11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretaryof the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
 (12)(A) The study of the White Clay Creek in Delaware and Pennsylvania shall be completed and the report submitted not later than 3 years after December 11, 1991.
 
@@ -594,7 +594,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 #### (d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas
 
-(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies andinvestigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
+(1) In all planning for the use and development of water and related land resources, consideration shall be given by all Federal agencies involved to potential national wild, scenic and recreational river areas, and all river basin and project plan reports submitted to the Congress shall consider and discuss any such potentials. The Secretary of the Interior and the Secretary of Agriculture shall make specific studies and investigations to determine which additional wild, scenic and recreational river areas within the United States shall be evaluated in planning reports by all Federal agencies as potential alternative uses of the water and related land resources involved.
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 

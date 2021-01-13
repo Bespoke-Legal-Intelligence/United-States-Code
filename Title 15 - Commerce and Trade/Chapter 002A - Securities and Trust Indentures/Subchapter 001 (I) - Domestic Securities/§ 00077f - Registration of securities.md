@@ -2,7 +2,7 @@
 
 #### (a) Method of registration
 
-Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only bythe underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
+Any security may be registered with the Commission under the terms and conditions hereinafter provided, by filing a registration statement in triplicate, at least one of which shall be signed by each issuer, its principal executive officer or officers, its principal financial officer, its comptroller or principal accounting officer, and the majority of its board of directors or persons performing similar functions (or, if there is no board of directors or persons performing similar functions, by the majority of the persons or board having the power of management of the issuer), and in case the issuer is a foreign or Territorial person by its duly authorized representative in the United States; except that when such registration statement relates to a security issued by a foreign government, or political subdivision thereof, it need be signed only by the underwriter of such security. Signatures of all such persons when written on the said registration statements shall be presumed to have been so written by authority of the person whose signature is so affixed and the burden of proof, in the event such authority shall be denied, shall be upon the party denying the same. The affixing of any signature without the authority of the purported signer shall constitute a violation of this subchapter. A registration statement shall be deemed effective only as to the securities specified therein as proposed to be offered.
 
 #### (b) Registration fee
 
@@ -24,7 +24,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (5) Publication
 
-&emsp;The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) <sup>1</sup> of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
+&emsp;The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) <sup>1</sup> of this title for each fiscal year notlater than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
 
 #### (6) Definitions
 
@@ -75,7 +75,7 @@ The information contained in or filed with any registration statement shall be m
 
 #### (1) In general
 
-&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term isdefined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
+&emsp;Any emerging growth company, prior to its initial public offering date, may confidentially submit to the Commission a draft registration statement, for confidential nonpublic review by the staff of the Commission prior to public filing, provided that the initial confidential submission and all amendments thereto shall be publicly filed with the Commission not later than 15 days before the date on which the issuer conducts a road show, as such term is defined in section 230.433(h)(4) of title 17, Code of Federal Regulations, or any successor thereto. An issuer that was an emerging growth company at the time it submitted a confidential registration statement or, in lieu thereof, a publicly filed registration statement for review under this subsection but ceases to be an emerging growth company thereafter shall continue to be treated as an emerging market growth company for the purposes of this subsection through the earlier of the date on which the issuer consummates its initial public offering pursuant to such registrations statement or the end of the 1-year period beginning on the date the company ceases to be an emerging growth company.
 
 #### (2) Confidentiality
 
@@ -159,6 +159,8 @@ Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate
 
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
+
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
 By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
@@ -175,7 +177,7 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
-By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicableunder subsec. (b) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
 
 <i><sup>1</sup></i><i> See Adjustment of Registration Fee Rate notes below.</i>
 

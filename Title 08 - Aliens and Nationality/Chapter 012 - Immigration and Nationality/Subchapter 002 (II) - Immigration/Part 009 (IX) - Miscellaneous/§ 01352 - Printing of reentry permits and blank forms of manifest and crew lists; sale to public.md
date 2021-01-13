@@ -6,11 +6,13 @@
 
 (June 27, 1952, ch. 477, title II, ch. 9, §282, 66 Stat. 231; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (b) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

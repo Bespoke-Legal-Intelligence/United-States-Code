@@ -192,7 +192,7 @@ Upon receiving designation as a Head Start agency, the agency shall establish an
 
 &emsp;&emsp;&emsp;&emsp;(I) parents of children who are currently enrolled in the Head Start program of the Head Start agency (including any delegate agency), who shall constitute a majority of the members of the policy council; and
 
-&emsp;&emsp;&emsp;&emsp;(II) members at large of the community served by the Head Start agency (including any delegate agency), who may include parents of children who were formerly enrolled in the Head Start program of the agency.
+&emsp;&emsp;&emsp;&emsp;(II) members at large of the community served by the Head Start agency (including any delegate agency), whomay include parents of children who were formerly enrolled in the Head Start program of the agency.
 
 #### (C) Conflict of interest
 
@@ -280,7 +280,7 @@ To be so designated, a Head Start agency shall collaborate and coordinate with p
 
 &emsp;&emsp;(i) share information about such children;
 
-&emsp;&emsp;(ii) collaborate with the teachers in such schools regarding professional development and instructional strategies, as appropriate; and
+&emsp;&emsp;(ii) collaborate with the teachers in such schools regarding professional developmentand instructional strategies, as appropriate; and
 
 &emsp;&emsp;(iii) ensure a smooth transition to school for such children.
 
@@ -352,7 +352,7 @@ To be so designated, each Head Start agency shall—
 
 &emsp;(5) use research-based assessment methods that reflect the characteristics described in section 9836a(b)(2) of this title in order to support the educational instruction and school readiness of children in the program;
 
-&emsp;(6) use research-based developmental screening tools that have been demonstrated to be standardized, reliable, valid, and accurate for the child being assessed, to the maximum extent practicable, for the purpose of meeting the relevant standards described in section 9836a(a)(1) of this title;
+&emsp;(6) use research-based developmental screening tools that have been demonstrated to bestandardized, reliable, valid, and accurate for the child being assessed, to the maximum extent practicable, for the purpose of meeting the relevant standards described in section 9836a(a)(1) of this title;
 
 &emsp;(7) adopt, in consultation with experts in child development and with classroom teachers, an evaluation to assess whether classroom teachers have mastered the functions discussed in section 9843a(a)(1) of this title;
 
@@ -416,7 +416,7 @@ Subsec. (b)(10). Pub. L. 105–285, §109(2)(D), redesignated par. (9) as (10).
 
 Subsec. (b)(11). Pub. L. 105–285, §109(2)(G), added par. (11).
 
-Subsec. (c). Pub. L. 105–285, §109(3), inserted "and collaborate" after "shall coordinate" and "and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)" after "(20 U.S.C. 2741 et seq.)" and substituted "the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development" for "section 602(g) of this title, and other".
+Subsec. (c). Pub. L. 105–285, §109(3), inserted "and collaborate" after "shall coordinate" and "and programs under part C and section 619 of the Individuals with Disabilities Education Act (20 U.S.C 1431–1445, 1419)"after "(20 U.S.C. 2741 et seq.)" and substituted "the State program carried out under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), and other early childhood education and development" for "section 602(g) of this title, and other".
 
 Subsec. (d)(1). Pub. L. 105–285, §109(4)(A), substituted "take steps to ensure, to the maximum extent possible, that children maintain" for "carry out the actions specified in this subsection, to the extent feasible and appropriate in the circumstances (including the extent to which such agency is able to secure the cooperation of parents and schools) to enable children to maintain" and "build" for "to build" and inserted "and educational" after "developmental".
 

@@ -40,6 +40,8 @@ June 29, 1936, ch. 858, title XI, §1105(e), as added June 23, 1938, ch. 600, §
 
 In subsection (a), the words "may take any action" are substituted for "shall take such action . . . that, in his discretion, may be required" for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(F). See 2006 Amendment note below.

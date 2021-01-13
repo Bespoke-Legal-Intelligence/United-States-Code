@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–153, §2(d)(2), May 11, 2016, 130 Stat. 381, substituted "Civil proceedings" for "Civil proceedings to enjoin violations" in item 1836.

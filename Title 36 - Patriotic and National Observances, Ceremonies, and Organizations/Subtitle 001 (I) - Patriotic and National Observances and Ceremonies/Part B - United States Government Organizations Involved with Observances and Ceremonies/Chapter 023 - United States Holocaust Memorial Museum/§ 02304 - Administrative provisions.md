@@ -18,6 +18,8 @@ Administrative Services and Support.—The Secretary of the Interior may provide
 
 (Added Pub. L. 106–292, §1, Oct. 12, 2000, 114 Stat. 1032.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2304, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1278, related to gifts, bequests, and devises of property to the Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292.

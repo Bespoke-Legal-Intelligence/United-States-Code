@@ -38,7 +38,7 @@ The Director shall require each enterprise to report the number of rental housin
 
 #### (3) Refinance goal
 
-&emsp;An enterprise shall be considered to be in compliance with the refinance goal under subsection (a)(2) for a year only if the percentageof the number of conventional, conforming, single-family, owner-occupied refinance mortgages purchased by the enterprise in such year that serve low-income families meets or exceeds the target for the year that is established under subsection (e).
+&emsp;An enterprise shall be considered to be in compliance with the refinance goal under subsection (a)(2) for a year only if the percentage of the number of conventional, conforming, single-family, owner-occupied refinance mortgages purchased by the enterprise in such year that serve low-income families meets or exceeds the target for the year that is established under subsection (e).
 
 #### (e) Annual targets
 
@@ -112,6 +112,8 @@ The Director shall determine whether an enterprise shall receive full, partial, 
 
 (Pub. L. 102–550, title XIII, §1332, as added Pub. L. 110–289, div. A, title I, §1128(b), July 30, 2008, 122 Stat. 2697.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Home Mortgage Disclosure Act of 1975, referred to in subsec. (e)(2)(A), (4), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
@@ -119,6 +121,8 @@ The Home Mortgage Disclosure Act of 1975, referred to in subsec. (e)(2)(A), (4),
 #### Prior Provisions
 
 A prior section 4562, Pub. L. 102–550, title XIII, §1332, Oct. 28, 1992, 106 Stat. 3956, related to low- and moderate-income housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, §1128(a), July 30, 2008, 122 Stat. 2696.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

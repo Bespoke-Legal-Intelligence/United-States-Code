@@ -2,7 +2,7 @@
 
 #### (a) Statement of purposes
 
-In order to commemorate the bravery and sacrifice of those participating in the campaigns ofthe Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the "park") is hereby established.
+In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the "park") is hereby established.
 
 #### (b) Boundaries; revisions of boundary; publication in Federal Register
 
@@ -56,7 +56,7 @@ Within six months after December 17, 1993, the Secretary, through the Director o
 
 #### (o) Protection of vintage weapons and fortifications
 
-The Secretary may take such steps as may be necessary to preserve and protect various World War II vintage weapons and fortifications which exist within the boundaries of the park.
+The Secretary may take such steps as may be necessary to preserve and protect various WorldWar II vintage weapons and fortifications which exist within the boundaries of the park.
 
 (Pub. L. 95–348, §6, Aug. 18, 1978, 92 Stat. 492; Pub. L. 103–197, §3, Dec. 17, 1993, 107 Stat. 2302; Pub. L. 103–437, §6(i), Nov. 2, 1994, 108 Stat. 4585.)
 

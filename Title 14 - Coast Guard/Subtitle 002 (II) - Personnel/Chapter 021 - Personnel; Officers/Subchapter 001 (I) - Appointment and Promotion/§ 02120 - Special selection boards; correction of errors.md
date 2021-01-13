@@ -62,7 +62,7 @@ Appointment of Officers Recommended for Promotion.—
 
 &emsp;(1)
 
-In general.—An officer or former officer whose name is placed on a promotion list as a result of the recommendation of a special selection board convened under this sectionshall be appointed, as soon as practicable, to the next higher grade in accordance with the law and policies that would have been applicable to the officer or former officer had the officer or former officer been recommended for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
+In general.—An officer or former officer whose name is placed on a promotion list as a result of the recommendation of a special selection board convened under this section shall be appointed, as soon as practicable, to the next higher grade in accordance with the law and policies that would have been applicable to the officer or former officer had the officer or former officer been recommended for promotion by the selection board that should have considered or did consider the officer or former officer prior to the consideration of the special selection board.
 
 &emsp;(2)
 
@@ -106,6 +106,8 @@ Designation of Boards.—The Secretary may designate a selection board convened 
 
 (Added Pub. L. 112–213, title II, §208(a), Dec. 20, 2012, 126 Stat. 1546, §263; renumbered §2120 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 263 of this title as this section.
@@ -121,6 +123,8 @@ Subsec. (c)(3). Pub. L. 115–282, §123(b)(2), substituted "sections 2117 and 2
 Subsec. (f). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "section 251" in introductory provisions.
 
 Subsec. (h). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "section 251" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

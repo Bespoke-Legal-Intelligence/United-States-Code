@@ -62,7 +62,7 @@ Notice to recipients of assistance.—In providing financial assistance using fu
 
 "(c)
 
-Prohibition of Contracts With Persons Falsely Labeling Products as Made in America.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a 'Made in America' inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the UnitedStates, the person shall be ineligible to receive any contract or subcontract made with funds made available in this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations."
+Prohibition of Contracts With Persons Falsely Labeling Products as Made in America.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a 'Made in America' inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds made available in this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations."
 
 Similar provisions were contained in the following prior appropriation acts:
 

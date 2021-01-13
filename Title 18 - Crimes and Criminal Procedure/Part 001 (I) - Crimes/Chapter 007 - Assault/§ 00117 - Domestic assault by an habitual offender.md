@@ -16,6 +16,8 @@ Domestic Assault Defined.—In this section, the term "domestic assault" means a
 
 (Added Pub. L. 109–162, title IX, §909, Jan. 5, 2006, 119 Stat. 3084; amended Pub. L. 113–104, §3, May 20, 2014, 128 Stat. 1156.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–104 inserted ", or against a child of or in the care of the person committing the domestic assault" after "intimate partner".

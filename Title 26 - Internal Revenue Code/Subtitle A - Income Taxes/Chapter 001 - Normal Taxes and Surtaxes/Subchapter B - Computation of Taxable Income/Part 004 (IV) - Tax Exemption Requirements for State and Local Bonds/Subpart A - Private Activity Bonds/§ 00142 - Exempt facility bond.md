@@ -160,7 +160,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the area median gross income determined under the HUD hold harmless policy with respect to such project for calendar year 2008, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) any increase in the area median gross income determined under subparagraph (B) (determined without regard to the HUD hold harmless policy and this subparagraph) with respect to such project for the current calendar year over the area median gross income (as so determined) with respect to such project for calendar year 2008.
+&emsp;&emsp;&emsp;&emsp;(II) any increase in the area median gross income determined under subparagraph (B) (determined without regard to the HUD hold harmless policy and this subparagraph) with respect to such project for the current calendar year over the area median gross income (as sodetermined) with respect to such project for calendar year 2008.
 
 #### (iii) HUD hold harmless policy
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed 30 percent of the applicable income limit which applies to individuals occupying the unit.
 
-&emsp;&emsp;&emsp;(iii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed ½ of the average grossrent with respect to units of comparable size which are not occupied by individuals who meet the applicable income limit.
+&emsp;&emsp;&emsp;(iii) The project meets the requirements of this clause if the gross rent with respect to each low-income unit in the project does not exceed ½ of the average gross rent with respect to units of comparable size which are not occupied by individuals who meet the applicable income limit.
 
 #### (C) Definitions applicable to subparagraph (B)
 
@@ -288,7 +288,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a facility financed with bonds issued before the date of the enactment of this paragraph which would cease to be tax-exempt by reason of the failure to meet the local furnishing requirement ofsubsection (a)(8) as a result of a service area expansion, such bonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if the person engaged in such local furnishing by such facility makes an election described in subparagraph (B).
+&emsp;&emsp;In the case of a facility financed with bonds issued before the date of the enactment of this paragraph which would cease to be tax-exempt by reason of the failure to meet the local furnishing requirement of subsection (a)(8) as a result of a service area expansion, such bonds shall not cease to be tax-exempt bonds (and section 150(b)(4) shall not apply) if the person engaged in such local furnishing by such facility makes an election described in subparagraph (B).
 
 #### (B) Election
 
@@ -382,7 +382,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (2) Use of proceeds
 
-&emsp;A bond issued as part of an issue described in subsection (a)(12) shall not be considered anexempt facility bond unless at least 80 percent of the net proceeds of the issue of which it is a part are used to finance property described in paragraph (1)(B)(i).
+&emsp;A bond issued as part of an issue described in subsection (a)(12) shall not be considered an exempt facility bond unless at least 80 percent of the net proceeds of the issue of which it is a part are used to finance property described in paragraph (1)(B)(i).
 
 #### (k) Qualified public educational facilities
 
@@ -630,7 +630,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI,§6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text
 
@@ -642,7 +642,7 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(2)(A), i
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(3), (4)(A), (B)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
-The Solid Waste Disposal Act, referred to in subsec. (h)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (h)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -748,7 +748,7 @@ Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, as
 
 &emsp;&emsp;"(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\], to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment."
 
-\[Pub. L. 114–113, div. Q, title I, §132(b), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments made by this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
+\[Pub. L. 114–113, div. Q, title I, §132(b), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments madeby this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
 
 \[Pub. L. 113–295, div. A, title I, §113(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
 
@@ -796,7 +796,7 @@ Pub. L. 100–647, title VI, §6180(c), Nov. 10, 1988, 102 Stat. 3728, provided 
 
 #### Accountability
 
-Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: "Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(l)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(l)(4) of such Code,amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury."
+Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, as amended by Pub. L. 110–343, div. B, title III, §307(c), Oct. 3, 2008, 122 Stat. 3849, provided that: "Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance of the last issue with respect to such project, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(l)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(l)(4) of such Code, amounts in the reserve account, including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury."
 
 #### No Inference With Respect to Outstanding Bonds From Use of Term "Person"
 

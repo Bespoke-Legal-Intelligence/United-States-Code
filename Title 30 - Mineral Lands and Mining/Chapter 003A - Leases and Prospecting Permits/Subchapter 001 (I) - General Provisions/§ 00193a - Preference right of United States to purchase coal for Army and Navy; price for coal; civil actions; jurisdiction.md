@@ -1,8 +1,10 @@
 ### §193a. Preference right of United States to purchase coal for Army and Navy; price for coal; civil actions; jurisdiction
 
-The United States shall, at all times, have the preference right to purchase so much of the product of any mine or mines opened upon the lands sold under the provisions of this Act, as may be necessary for the use of the Army and Navy, and at such reasonable and remunerative price as may be fixed by the President; but the producers of any coal so purchased who may be dissatisfied with the price thus fixed shall have the right to prosecute suits against the United States in the United States Court of Federal Claims for the recovery of any additional sum or sums they may claim as justly due upon such purchase.
+The United States shall, at all times, have the preference right to purchase so much of the product of any mine or mines opened upon the lands sold under the provisions of this Act, as may be necessary for the use of the Army and Navy, and at such reasonable and remunerative price as may be fixed by the President; but the producers of any coal so purchased who may bedissatisfied with the price thus fixed shall have the right to prosecute suits against the United States in the United States Court of Federal Claims for the recovery of any additional sum or sums they may claim as justly due upon such purchase.
 
 (May 28, 1908, ch. 211, §2, 35 Stat. 424; Pub. L. 97–164, title I, §160(a)(10), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ Section was formerly classified to section 453 of Title 48, Territories and Insu
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

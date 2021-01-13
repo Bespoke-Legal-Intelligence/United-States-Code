@@ -36,6 +36,8 @@ Regulations.—The Secretary of the Navy shall prescribe regulations to carry ou
 
 (Added Pub. L. 106–65, div. A, title VI, §627(a)(1), Oct. 5, 1999, 113 Stat. 656; amended Pub. L. 107–107, div. A, title VI, §616(b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(E), title VI, §687(b)(28), Jan. 6, 2006, 119 Stat. 3236, 3332.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted "Navy Reserve" for "Naval Reserve" in introductory provisions.
@@ -43,6 +45,8 @@ Regulations.—The Secretary of the Navy shall prescribe regulations to carry ou
 Subsec. (f). Pub. L. 109–163, §687(b)(28), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer receives bonus but fails to complete total period of agreed upon active duty as department head on surface vessel.
 
 <b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 inserted "or is within one year of completing such commitment" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

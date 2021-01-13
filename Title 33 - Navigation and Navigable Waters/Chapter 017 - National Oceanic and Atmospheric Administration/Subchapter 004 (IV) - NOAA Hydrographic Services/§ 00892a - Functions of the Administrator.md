@@ -40,7 +40,9 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
-(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107.)
+(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19,2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,20 @@ Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former 
 <b>2002</b>—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency."
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Charting and Survey Services
+
+Pub. L. 116–259, title V, §501, Dec. 23, 2020, 134 Stat. 1178, provided that:
+
+"(a)
+
+In General.—Not later than 270 days after the development of the strategy required by section 1002(b) of the Frank LoBiondo Coast Guard Authorization Act of 2018 \[Pub. L. 115–282\] (33 U.S.C. 892a note), the Secretary of Commerce shall enter into not fewer than 2 multi-year contracts with 1 or more private entities for the performance of charting and survey services by vessels.
+
+"(b)
+
+Charting and Surveys in the Arctic.—In soliciting and engaging the services of vessels under subsection (a), the Secretary shall particularly emphasize the need for charting and surveys in the Arctic."
 
 #### System for Tracking and Reporting All-Inclusive Cost of Hydrographic Surveys
 
@@ -80,7 +96,7 @@ Development of Strategy for Increased Contracting With Nongovernmental Entities 
 
 #### Hydrographic Survey
 
-Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary \[of the Army\] shallenter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
+Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary \[of the Army\] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
 
 &emsp;"(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and
 

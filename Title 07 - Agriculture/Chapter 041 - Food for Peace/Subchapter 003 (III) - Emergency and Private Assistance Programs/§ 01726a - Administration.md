@@ -84,7 +84,7 @@ The Administrator is encouraged to finalize program agreements and resource requ
 
 #### (B) Prohibition
 
-&emsp;&emsp;An individual who enters into a contract with the Administrator under subparagraph\(A) shall not be considered to be an employee of the Federal Government for the purpose of any law (including regulations) administered by the Office of Personnel Management.
+&emsp;&emsp;An individual who enters into a contract with the Administrator under subparagraph (A) shall not be considered to be an employee of the Federal Government for the purpose of any law (including regulations) administered by the Office of Personnel Management.
 
 #### (C) Personal service
 
@@ -156,7 +156,7 @@ Subsec. (c)(3). Pub. L. 110–246, §3012(2), struck out par. (3). Prior to amen
 
 Subsec. (d). Pub. L. 110–246, §3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation."
 
-Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: "Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives andthe Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+Subsec. (e). Pub. L. 110–246, §3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: "Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
 
 &emsp;"(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
 

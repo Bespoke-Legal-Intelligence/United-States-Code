@@ -234,6 +234,8 @@ Definition.—In this section, the term "State" has the meaning given that term 
 
 (Added Pub. L. 111–154, §3(a), Mar. 31, 2010, 124 Stat. 1103.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1 of the Act of October 19, 1949, commonly referred to as the Jenkins Act, referred to in subsec. (a)(1), is classified to section 375 of Title 15, Commerce and Trade.
@@ -246,9 +248,23 @@ The date of enactment of the Prevent All Cigarette Trafficking Act of 2009, refe
 
 Section 3(d) of the Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (b)(3)(B)(ii)(V), is unidentifiable because section 3 of that Act, Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1103, does not contain a subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as an Effective Date of 2010 Amendment note under section 375 of Title 15, Commerce and Trade.
+
+#### Nonmailability of Electronic Nicotine Delivery Systems
+
+Pub. L. 116–260, div. FF, title VI, §603, Dec. 27, 2020, 134 Stat. 3137, provided that:
+
+"(a)
+
+Regulations.—Not later than 120 days after the date of enactment of this Act \[Dec. 27, 2020\], the United States Postal Service shall promulgate regulations to clarify the applicability of the prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, to electronic nicotine delivery systems, in accordance with the amendment to the definition of 'cigarette' made by section 602 \[amending sections 375 and 376a of Title 15, Commerce and Trade\].
+
+"(b)
+
+Effective Date.—The prohibition on mailing of cigarettes under section 1716E of title 18, United States Code, shall apply to electronic nicotine delivery systems on and after the date on which the United States Postal Service promulgates regulations under subsection (a) of this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

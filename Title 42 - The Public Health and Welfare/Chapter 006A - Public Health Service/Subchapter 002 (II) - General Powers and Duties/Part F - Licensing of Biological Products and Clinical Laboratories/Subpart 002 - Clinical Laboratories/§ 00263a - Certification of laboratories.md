@@ -70,7 +70,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (B) Changes
 
-&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
+&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall reportsuch change to the Secretary before the change takes effect.
 
 #### (C) Effect
 
@@ -110,7 +110,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(iii) there is adequate provision for assuring that the standards of the accreditation body continue to be met by the laboratory,
 
-&emsp;&emsp;&emsp;(iv) in the case of any laboratory accredited by the body which has had its accreditation denied, suspended, withdrawn, or revoked or which has had any other action taken against it by the accrediting body, the accrediting body agrees to submit tothe Secretary the name of such laboratory within 30 days of the action taken,
+&emsp;&emsp;&emsp;(iv) in the case of any laboratory accredited by the body which has had its accreditation denied, suspended, withdrawn, or revoked or which has had any other action taken against it by the accrediting body, the accrediting body agrees to submit to the Secretary the name of such laboratory within 30 days of the action taken,
 
 &emsp;&emsp;&emsp;(v) the accreditation body agrees to notify the Secretary at least 30 days before it changes its standards, and
 
@@ -202,7 +202,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (F) Testing results
 
-&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testing programs subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under this subparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
+&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testingprograms subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under this subparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
 
 #### (4) National standards for quality assurance in cytology services
 
@@ -234,7 +234,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories whichhave been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (2) Compliance with requirements and standards
 
@@ -300,7 +300,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
-&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which wouldotherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
+&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section, except that if the revocation occurs pursuant to paragraph (4) the Secretary may substitute intermediate sanctions under subsection (h) instead of the 2-year prohibition against ownership or operation which would otherwise apply under this paragraph. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
 
 #### (4) Improper referrals
 
@@ -318,7 +318,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modificationor setting aside of his original action, with the return of such additional evidence.
 
 #### (3) Judgment of court
 
@@ -428,7 +428,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and\(m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
+Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
 
 #### Effective Date
 

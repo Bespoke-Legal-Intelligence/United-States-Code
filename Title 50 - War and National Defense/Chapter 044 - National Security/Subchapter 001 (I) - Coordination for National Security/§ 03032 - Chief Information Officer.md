@@ -14,7 +14,7 @@ Subject to the direction of the Director of National Intelligence, the Chief Inf
 
 &emsp;(3) direct and manage all information technology-related procurement for the intelligence community; and
 
-&emsp;(4) ensure that all expenditures for information technology and research and development activities are consistent with the intelligencecommunity enterprise architecture and the strategy of the Director for such architecture.
+&emsp;(4) ensure that all expenditures for information technology and research and development activities are consistent with the intelligence community enterprise architecture and the strategy of the Director for such architecture.
 
 #### (c) Prohibition on simultaneous service as other chief information officer
 

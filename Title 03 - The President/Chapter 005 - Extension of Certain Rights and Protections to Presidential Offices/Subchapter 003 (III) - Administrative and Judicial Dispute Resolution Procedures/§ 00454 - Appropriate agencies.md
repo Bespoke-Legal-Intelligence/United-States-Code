@@ -22,6 +22,8 @@ Judicial review.—Notwithstanding any other provision of law (including any pro
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4067.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1997, except that subsec. (a) of this section effective Oct. 26, 1996, see section 471 of this title.

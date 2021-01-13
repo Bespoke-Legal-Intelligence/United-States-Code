@@ -8,7 +8,7 @@ The Administrator shall establish a Source Reduction Clearinghouse to compile in
 
 &emsp;(2) mount active outreach and education programs by the States to further the adoption of source reduction technologies; and
 
-&emsp;(3) collect and compile information reported by States receiving grants under section 13104 of this title on the operation and success of State source reduction programs.
+&emsp;(3) collect and compile information reported by States receiving grants under section 13104of this title on the operation and success of State source reduction programs.
 
 #### (b) Public availability
 

@@ -22,7 +22,7 @@ The words "other than that of the member or former member concerned" are substit
 
 #### Prior Provisions
 
-A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, andundue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -40,11 +40,11 @@ A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prev
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Delegation of Functions
-
-Authority of President under this section to establish uniform rates of reimbursement for inpatient medical or dental care delegated to Secretary of Health and Human Services in respect of such care in a facility under his jurisdiction and to Secretary of Defense in respect of such care in a facility of an armed force under jurisdiction of a military department, see section 6 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
 #### Transfer of Funds Necessary To Provide Medical Care
 
 Pub. L. 114–120, title II, §217, Feb. 8, 2016, 130 Stat. 46, related to transfer of funds from the Secretary of Homeland Security to the Secretary of Defense in lieu of reimbursement required under section 1085 of title 10, prior to repeal by Pub. L. 114–328, div. A, title VII, §722(c), Dec. 23, 2016, 130 Stat. 2229.
+
+#### Delegation of Functions
+
+Authority of President under this section to establish uniform rates of reimbursement for inpatient medical or dental care delegated to Secretary of Health and Human Services in respect of such care in a facility under his jurisdiction and to Secretary of Defense in respect of such care in a facility of an armed force under jurisdiction of a military department, see section 6 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

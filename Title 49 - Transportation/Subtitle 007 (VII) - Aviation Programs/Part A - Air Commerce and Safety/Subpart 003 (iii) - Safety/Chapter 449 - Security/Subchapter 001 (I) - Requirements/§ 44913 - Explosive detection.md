@@ -72,7 +72,7 @@ Subsec. (a)(3), (4). Pub. L. 104–264 added par. (3) and redesignated former pa
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Improved Explosive Detection Systems
 
@@ -104,7 +104,7 @@ In general.—In carrying out a study under this section, the Director of the Na
 
 &emsp;"(2)
 
-Expertise.—Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panelhas an appropriate number of representatives of the areas specified in the preceding sentence.
+Expertise.—Each member of the panel shall have expertise in weapons and explosive detection technology, security, air carrier and airport operations, or another appropriate area. The Director of the National Academy of Sciences (or the head of another equivalent entity) shall ensure that the panel has an appropriate number of representatives of the areas specified in the preceding sentence.
 
 "(c)
 

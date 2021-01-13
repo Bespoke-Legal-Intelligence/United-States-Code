@@ -68,6 +68,8 @@ The authority provided in this section shall terminate 10 years after June 10, 2
 
 (Pub. L. 113–121, title I, §1020, June 10, 2014, 128 Stat. 1227; Pub. L. 114–322, title I, §1166, Dec. 16, 2016, 130 Stat. 1670.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1018(a), referred to in subsec. (b)(1), means section 1018(a) of Pub. L. 113–121.
@@ -79,6 +81,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–322 substituted "Application of credit" for "In general" in subsec. heading, designated existing provisions as par. (1) and inserted par. (1) heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

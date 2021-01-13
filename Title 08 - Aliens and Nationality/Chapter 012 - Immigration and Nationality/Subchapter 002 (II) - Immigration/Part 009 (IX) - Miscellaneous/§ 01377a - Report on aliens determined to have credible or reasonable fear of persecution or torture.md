@@ -24,7 +24,15 @@ Such report shall also disaggregate the data described in subsection (a) with re
 
 (Pub. L. 116–93, div. D, title IV, §403, Dec. 20, 2019, 133 Stat. 2524.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and also as part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and alsoas part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Application of Section
+
+Pub. L. 116–260, div. F, title IV, §403, Dec. 27, 2020, 134 Stat. 1467, provided that: "The terms and conditions of section 403 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93) \[8 U.S.C. 1377a\] shall apply to this Act \[div. F of Pub. L. 116–260, see Tables for classification\]."
 

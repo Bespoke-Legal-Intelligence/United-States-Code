@@ -78,7 +78,7 @@ Pub. L. 94–455, §1402(b)(1)(U), provided that "6 months" would be changed to 
 
 Subsec. (c). Pub. L. 94–455, §2136(a), struck out provision respecting special rule for grantors of straddles, the paragraphs relating to: (1) gain on lapse; (2) exception, now covered in subsec. (b)(3); and (3) definitions of "straddle" and "security", such provision now covered generally by subsec. (b) of this section.
 
-Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-application of section, pars. (1) to (3) now covered in subsec. (a)(3)(A) to (C) of this section, and par. (4) providing for such non-application to gain attributable to the sale or exchange of a privilegeor option acquired by the taxpayer before Mar. 1, 1954, if in the hands of the taxpayer such privilege or option was a capital asset.
+Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-application of section, pars. (1) to (3) now covered in subsec. (a)(3)(A) to (C) of this section, and par. (4) providing for such non-application to gain attributable to the sale or exchange of a privilege or option acquired by the taxpayer before Mar. 1, 1954, if in the hands of the taxpayer such privilege or option was a capital asset.
 
 <b>1966</b>—Subsecs. (c), (d). Pub. L. 89–809 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Pub. L. 98–369, div. A, title I, §105(b), July 18, 1984, 98 Stat. 629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to options purchased or granted after October 31, 1983, in taxable years ending after such date."
 
-Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, andbefore Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1976 Amendment
 

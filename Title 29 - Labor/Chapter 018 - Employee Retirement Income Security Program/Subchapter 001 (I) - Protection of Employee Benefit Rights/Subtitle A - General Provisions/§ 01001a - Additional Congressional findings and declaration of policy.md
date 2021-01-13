@@ -36,6 +36,8 @@ It is hereby declared to be the policy of this Act—
 
 (Pub. L. 96–364, §3, Sept. 26, 1980, 94 Stat. 1209.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 96–364, Sept. 26, 1980, 94 Stat. 1208, known as the Multiemployer Pension Plan Amendments Act of 1980. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1001 of this title and Tables.
@@ -44,11 +46,13 @@ This Act, referred to in subsec. (c), is Pub. L. 96–364, Sept. 26, 1980, 94 St
 
 Section was enacted as part of the Multiemployer Pension Plan Amendments Act of 1980, and not as part of the Employee Retirement Income Security Act of 1974 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Sept. 26, 1980, see section 1461(e)(1) of this title.
 
 #### Study and Report Respecting Collective Bargaining for Contributions to, and Benefits From, Multiemployer Plans
 
-Pub. L. 96–364, title IV, §412(b), Sept. 26, 1980, 94 Stat. 1309, directed Secretary of Labor to study feasibility ofrequiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
+Pub. L. 96–364, title IV, §412(b), Sept. 26, 1980, 94 Stat. 1309, directed Secretary of Labor to study feasibility of requiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
 

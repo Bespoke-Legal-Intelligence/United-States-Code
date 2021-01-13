@@ -126,11 +126,11 @@ In general.—Subject to the other provisions of this subsection, the Federal sh
 
 &emsp;(2)
 
-Federal agency project sponsor.—Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federalfunds toward the cost of a project, except that—
+Federal agency project sponsor.—Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federal funds toward the cost of a project, except that—
 
 &emsp;&emsp;(A) the share attributable to the Secretary of Transportation may not exceed the amount determined in accordance with section 120(b) for the cost of a project under this section; and
 
-&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency sponsoring the project may not exceed 95 percent of the cost of a project under this section.
+&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency sponsoring theproject may not exceed 95 percent of the cost of a project under this section.
 
 &emsp;(3)
 
@@ -216,7 +216,9 @@ Public access.—Any use of the apportionments to a State to carry out this sect
 
 Contract Authority.—Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268.)
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, titleI, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -253,6 +255,8 @@ Subsec. (f)(2)(B). Pub. L. 109–59, §1109(d)(3), inserted "sponsoring the proj
 Subsec. (f)(4), (5). Pub. L. 109–59, §1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted "the Federal share as determined in accordance with section 120(b)" for "80 percent", and struck out heading and text of former par. (5). Text read as follows: "The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b)."
 
 Subsec. (h)(1)(C). Pub. L. 109–59, §1109(e), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Youth Service and Conservation Corps
 

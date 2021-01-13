@@ -58,6 +58,8 @@ All job search, placement, recruitment, workforce and labor market information, 
 
 (June 6, 1933, ch. 49, §7, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, §5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086; Pub. L. 113–128, title III, §305, July 22, 2014, 128 Stat. 1626.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(3)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -104,9 +106,11 @@ Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment
 

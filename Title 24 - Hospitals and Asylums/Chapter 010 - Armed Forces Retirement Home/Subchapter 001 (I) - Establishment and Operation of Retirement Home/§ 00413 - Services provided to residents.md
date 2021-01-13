@@ -26,7 +26,9 @@ The Retirement Home shall provide for the overall health care needs of residents
 
 (2) The Retirement Home may not collect a fee from a resident for transportation provided under this subsection.
 
-(Pub. L. 101–510, div. A, title XV, §1513, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–160, div. A, title III, §366(c), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 109–163, div. A, title IX, §909(a), Jan. 6, 2006, 119 Stat. 3404; Pub. L. 110–181, div. A, title XIV,§1422(c), Jan. 28, 2008, 122 Stat. 420; Pub. L. 112–81, div. A, title V, §567(c)(2), Dec. 31, 2011, 125 Stat. 1426.)
+(Pub. L. 101–510, div. A, title XV, §1513, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–160, div. A, title III, §366(c), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 109–163, div. A, title IX, §909(a), Jan. 6, 2006, 119 Stat. 3404; Pub. L. 110–181, div. A, title XIV, §1422(c), Jan. 28, 2008, 122 Stat. 420; Pub. L. 112–81, div. A, title V, §567(c)(2), Dec. 31, 2011, 125 Stat. 1426.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -44,7 +46,9 @@ Subsecs. (c), (d). Pub. L. 109–163, §909(a)(3), added subsecs. (c) and (d).
 
 Subsec. (b). Pub. L. 107–107, §1410(a)(1), struck out "maintained as a separate establishment" after "available at a facility" in second sentence.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: "Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities."
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: "Secondary and tertiary hospitalcare for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

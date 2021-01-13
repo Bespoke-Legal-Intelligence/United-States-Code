@@ -6,9 +6,13 @@
 
 (Mar. 4, 1927, ch. 509, §4, 44 Stat. 1426; Pub. L. 98–426, §4(a), Sept. 28, 1984, 98 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–426 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Every employer shall be liable for and shall secure the payment to his employees of the compensation payable under sections 907, 908, and 909 of this title. In the case of an employer who is a subcontractor, the contractor shall be liable for and shall secure the payment of such compensation to employees of the subcontractor unless the subcontractor has secured such payment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

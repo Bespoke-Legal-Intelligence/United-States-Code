@@ -12,13 +12,15 @@ Except as provided in section 1206 of this title—
 
 &emsp;(4) every dredge and floating plant engaged in or near a channel or fairway in operations likely to restrict or affect navigation of other vessels—
 
-> shall have a radiotelephone capable of operation from its navigational bridge or, in the case of adredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
+> shall have a radiotelephone capable of operation from its navigational bridge or, in the case of a dredge, from its main control station and capable of transmitting and receiving on the frequency or frequencies within the 156–162 Mega-Hertz band using the classes of emissions designated by the Federal Communications Commission, after consultation with other cognizant agencies, for the exchange of navigational information.
 
 #### (b) Vessels upon navigable waters of United States inside high seas lines
 
 The radiotelephone required by subsection (a) shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
 (Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, §704, Oct. 19, 1996, 110 Stat. 3933; Pub. L. 107–295, title III, §321, Nov. 25, 2002, 116 Stat. 2103.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,13 +34,15 @@ Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (b),
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–241 amended par. (1) generally, substituting "twenty meters or over in length" for "three hundred gross tons and upward".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under section 1201 of this title.
 
 #### Vessel Communication Equipment Regulations
 
-Pub. L. 101–380, title IV, §4118, Aug. 18, 1990, 104 Stat. 523, provided that: "The Secretary shall, not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 (33 U.S.C. 1203) are also equipped as necessary to—
+Pub. L. 101–380, title IV, §4118, Aug. 18, 1990, 104 Stat. 523, provided that: "The Secretary shall, not later thanone year after the date of the enactment of this Act \[Aug. 18, 1990\], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 (33 U.S.C. 1203) are also equipped as necessary to—
 
 &emsp;"(1) receive radio marine navigation safety warnings; and
 

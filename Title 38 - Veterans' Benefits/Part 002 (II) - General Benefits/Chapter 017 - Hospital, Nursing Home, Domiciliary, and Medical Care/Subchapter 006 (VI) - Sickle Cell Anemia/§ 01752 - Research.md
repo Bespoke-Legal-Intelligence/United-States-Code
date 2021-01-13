@@ -4,9 +4,13 @@ The Secretary is authorized to carry out research and research training in the d
 
 (Added Pub. L. 93–82, title I, §109(a), Aug. 2, 1973, 87 Stat. 186, §652; renumbered §1752 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 652 of this title as this section and substituted "Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -22,7 +22,7 @@
 
 #### (c) Exception for program-related investments
 
-For purposes of this section, investments, the primary purpose of which is to accomplish oneor more of the purposes described in section 170(c)(2)(B), and no significant purpose of which is the production of income or the appreciation of property, shall not be considered as investments which jeopardize the carrying out of exempt purposes.
+For purposes of this section, investments, the primary purpose of which is to accomplish one or more of the purposes described in section 170(c)(2)(B), and no significant purpose of which is the production of income or the appreciation of property, shall not be considered as investments which jeopardize the carrying out of exempt purposes.
 
 #### (d) Special rules
 
@@ -30,7 +30,7 @@ For purposes of subsections (a) and (b)—
 
 #### (1) Joint and several liability
 
-&emsp;If more than one person is liable under subsection (a)(2) or (b)(2) with respect to any one investment, all such persons shall be jointly and severally liable under such paragraph with respect to such investment.
+&emsp;If more than one person is liable under subsection (a)(2) or (b)(2) with respect to any oneinvestment, all such persons shall be jointly and severally liable under such paragraph with respect to such investment.
 
 #### (2) Limit for management
 

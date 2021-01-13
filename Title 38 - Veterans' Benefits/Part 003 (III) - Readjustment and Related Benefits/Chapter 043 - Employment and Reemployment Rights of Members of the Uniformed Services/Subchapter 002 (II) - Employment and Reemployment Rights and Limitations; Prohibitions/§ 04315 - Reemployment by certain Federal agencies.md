@@ -30,9 +30,13 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3159.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4315 was renumbered section 7615 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

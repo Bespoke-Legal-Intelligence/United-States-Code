@@ -2,7 +2,7 @@
 
 #### (a) Refunds after limitation period
 
-Any portion of a tax imposed by this title, refund of which is erroneously made, within themeaning of section 6514, may be recovered by civil action brought in the name of the United States.
+Any portion of a tax imposed by this title, refund of which is erroneously made, within the meaning of section 6514, may be recovered by civil action brought in the name of the United States.
 
 #### (b) Refunds otherwise erroneous
 

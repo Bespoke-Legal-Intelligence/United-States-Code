@@ -16,6 +16,8 @@
 
 (Added Pub. L. 98–473, title II, §1218(a), Oct. 12, 1984, 98 Stat. 2167.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as a note under section 3505 of this title.

@@ -58,7 +58,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (5) Adjustment for inflation
 
-&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the totalamount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
+&emsp;For any fiscal year, beginning in fiscal year 1999, in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Commissioner shall increase each of the minimum grants or allotments under paragraphs (1)(B), (3)(B), and (4)(B) by a percentage that shall not exceed the percentage increase in the total amount appropriated to carry out this section between the preceding fiscal year and the fiscal year involved.
 
 #### (d) Proportional reduction
 
@@ -84,7 +84,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 &emsp;&emsp;(A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
-&emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>2</sup> (42 U.S.C. 10801 et seq.);
+&emsp;&emsp;(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.);
 
 &emsp;(6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
@@ -106,7 +106,7 @@ For purposes of any audit, report, or evaluation of the performance of the progr
 
 #### (i) Administrative cost
 
-In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the systemrequired by this section. Such portion may not exceed 5 percent of the allotment.
+In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
 
 #### (j) Delegation
 
@@ -134,9 +134,11 @@ As used in this section:
 
 (Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i),\(f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
@@ -176,7 +178,7 @@ Allotments.—For any fiscal year in which the amount appropriated to carry out 
 
 "(2)
 
-Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United StatesVirgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
+Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
 
 Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted "paragraph (3)(B)" for "this subsection".
 
@@ -200,9 +202,11 @@ Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out hea
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
@@ -211,6 +215,4 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

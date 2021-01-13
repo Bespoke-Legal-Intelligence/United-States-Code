@@ -86,11 +86,13 @@ Nothing in this subchapter shall be construed to prohibit any State or any franc
 
 Except as provided in subsection (c)(2)(D), a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
-&emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminalactivity and that the information sought would be material evidence in the case; and
+&emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
 &emsp;(2) the subject of the information is afforded the opportunity to appear and contest such entity's claim.
 
 (June 19, 1934, ch. 652, title VI, §631, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2794; amended Pub. L. 102–385, §20, Oct. 5, 1992, 106 Stat. 1497; Pub. L. 107–56, title II, §211, Oct. 26, 2001, 115 Stat. 283.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Subsec. (h). Pub. L. 107–56, §211(2), substituted "Except as provided in subs
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of this section, the term 'personally identifiable information' does not include any record of aggregate data which does not identify particular persons."
 
 Subsec. (c)(1). Pub. L. 102–385, §20(b), inserted before period at end "and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -12,7 +12,7 @@ The Secretary of Labor shall use funds available under section 1356(s)(2) of tit
 
 #### (B) Enhanced training programs and information
 
-&emsp;In order to facilitate the provision of job training services described in subparagraph (A), funds under this section may be used to assist in the development and implementation of model activities such as developing appropriate curricula to build core competencies and train workers, identifying and disseminating career and skill information, and increasing the integration of community and technical college activities with activities of businesses and the public workforce investment system to meet the training needs for the industries and economic sectors identified pursuant to paragraph (4).
+&emsp;In order to facilitate the provision of job training services described in subparagraph (A), funds under this section may be used toassist in the development and implementation of model activities such as developing appropriate curricula to build core competencies and train workers, identifying and disseminating career and skill information, and increasing the integration of community and technical college activities with activities of businesses and the public workforce investment system to meet the training needs for the industries and economic sectors identified pursuant to paragraph (4).
 
 #### (3) Eligible entities
 
@@ -60,6 +60,8 @@ The Secretary of Labor shall require grantees to report on the employment outcom
 
 (Pub. L. 105–277, div. C, title IV, §414(c), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §111, Oct. 17, 2000, 114 Stat. 1257; Pub. L. 108–447, div. J, title IV, §428, Dec. 8, 2004, 118 Stat. 3358; Pub. L. 113–128, title V, §512(a), July 22, 2014, 128 Stat. 1705.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2916a of this title and set out as a note under section 2916 of this title.
@@ -87,6 +89,8 @@ Grants.—The Secretary of Labor shall award grants to carry out the programs an
 &emsp;"(ii) local boards that will carry out such programs or projects through one-stop delivery systems established under section 2841 of this title; or
 
 &emsp;"(B) regional consortia of councils or local boards described in subparagraph (A)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

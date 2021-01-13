@@ -42,9 +42,11 @@ Funds made available under this subchapter to States and units of local governme
 
 #### (2) Construction of facilities
 
-&emsp;Notwithstanding paragraph (1), with respect to the cost of constructing juvenile detention or correctional facilities, the Federal share ofa grant received under this subchapter may not exceed 50 percent of approved cost.
+&emsp;Notwithstanding paragraph (1), with respect to the cost of constructing juvenile detention or correctional facilities, the Federal share of a grant received under this subchapter may not exceed 50 percent of approved cost.
 
 (Pub. L. 90–351, title I, §1805, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1865.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -52,7 +54,7 @@ Section was formerly classified to section 3796ee–5 of Title 42, The Public He
 
 #### Prior Provisions
 
-A prior section 1805 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1821, and classified to former section 3796ee–4 of Title 42, The Public Health and Welfare, related to allocation and distribution of funds, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1805 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1821, and classified to former section 3796ee–4of Title 42, The Public Health and Welfare, related to allocation and distribution of funds, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "specially".</i>
 

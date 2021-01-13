@@ -56,6 +56,8 @@ Competitive service.—Each specialist described in paragraph (1) shall be an em
 
 (Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3032, §554; renumbered §2924, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 554 of this title as this section.

@@ -46,6 +46,8 @@ Paragraph (9) is restated to conform to the style of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -54,9 +56,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
+#### <b>Executive Documents</b>
+
 #### Panama Canal and Panama Railroad Company
 
-Ex. Ord. No. 10237, Apr. 27, 1951, 16 F.R. 3627, made the provisions of former sections 22–1 and 22–3 of this title \[see Disposition Table preceding section 101 of this title\] applicable to the Panama Canal Government and to the Panama Canal Company.
+Ex. Ord. No. 10237, Apr. 27, 1951, 16 F.R. 3627, made the provisions of former sections 22–1 and 22–3 of this title\[see Disposition Table preceding section 101 of this title\] applicable to the Panama Canal Government and to the Panama Canal Company.
 
 #### Designation of National Security Agency, Defense Intelligence Agency, and Defense Mapping Agency as "Agencies"
 

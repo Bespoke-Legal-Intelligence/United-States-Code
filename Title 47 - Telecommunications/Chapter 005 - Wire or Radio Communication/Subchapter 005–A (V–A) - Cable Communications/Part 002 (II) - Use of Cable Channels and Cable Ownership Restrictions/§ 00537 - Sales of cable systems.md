@@ -1,14 +1,18 @@
 ### §537. Sales of cable systems
 
-A franchising authority shall, if the franchise requires franchising authority approval of a sale or transfer, have 120 days to act upon any request for approval of such sale or transfer that contains or is accompanied by such information as is required in accordance with Commission regulations and by the franchising authority. If the franchising authority fails to render a finaldecision on the request within 120 days, such request shall be deemed granted unless the requesting party and the franchising authority agree to an extension of time.
+A franchising authority shall, if the franchise requires franchising authority approval of a sale or transfer, have 120 days to act upon any request for approval of such sale or transfer that contains or is accompanied by such informationas is required in accordance with Commission regulations and by the franchising authority. If the franchising authority fails to render a final decision on the request within 120 days, such request shall be deemed granted unless the requesting party and the franchising authority agree to an extension of time.
 
 (June 19, 1934, ch. 652, title VI, §617, as added Pub. L. 102–385, §13, Oct. 5, 1992, 106 Stat. 1489; amended Pub. L. 104–104, title III, §301(i), Feb. 8, 1996, 110 Stat. 117.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–104 redesignated subsec. (e) as entire section, substituted "A franchising authority" for "
 
 Limitation on Duration of Franchising Authority Power To Disapprove Transfers.—In the case of any sale or transfer of ownership of any cable system after the 36-month period following acquisition of such system, a franchising authority", and struck out subsecs. (a) to (d) which related to three-year holding period requirement, treatment of multiple transfers, exceptions to holding requirement, and waiver authority.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

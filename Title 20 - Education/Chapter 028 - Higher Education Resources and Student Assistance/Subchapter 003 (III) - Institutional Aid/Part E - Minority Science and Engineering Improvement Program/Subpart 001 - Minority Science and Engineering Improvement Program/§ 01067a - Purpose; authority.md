@@ -6,7 +6,7 @@ It is the purpose of this subpart to continue the authority of the Department to
 
 #### (b) Grant authority
 
-The Secretary shall, in accordance with the provisions of this subpart, carry out a programof making grants to institutions of higher education that are designed to effect long-range improvement in science and engineering education at predominantly minority institutions and to increase the participation of underrepresented ethnic minorities, particularly minority women, in scientific and technological careers.
+The Secretary shall, in accordance with the provisions of this subpart, carry out a program of making grants to institutions of higher education that are designed to effect long-range improvement in science and engineering education at predominantly minority institutions and to increase the participation of underrepresented ethnic minorities, particularly minority women, in scientific and technological careers.
 
 (Pub. L. 89–329, title III, §351, formerly title X, §1021, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561; amended Pub. L. 102–325, title X, §1002(a), July 23, 1992, 106 Stat. 780; renumbered title III, §351, Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636; Pub. L. 111–39, title III, §301(5), July 1, 2009, 123 Stat. 1937.)
 

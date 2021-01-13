@@ -12,6 +12,8 @@ Based on title 28, U.S.C., 1940 ed., §261 (Mar. 3, 1911, ch. 231, §155, 36 Sta
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7422(f) of the Internal Revenue Code of 1986, referred to in subsec. (b), is classified to section 7422(f) of Title 26, Internal Revenue Code.
@@ -25,6 +27,8 @@ Section 7422(f) of the Internal Revenue Code of 1986, referred to in subsec. (b)
 <b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 <b>1966</b>—Pub. L. 89–713 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

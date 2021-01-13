@@ -10,7 +10,7 @@ No owner or manager of any federally assisted rental housing for the elderly or 
 
 #### (b) Rules and regulations
 
-(1) Not later than the expiration of the twelve-month period following November 30, 1983, the Secretary of Housing and Urban Development and the Secretary of Agriculture shall eachissue such regulations as may be necessary to ensure (A) compliance with the provisions of subsection (a) with respect to any program of assistance referred to in subsection (d) that is administered by such Secretary; and (B) attaining the goal of providing decent, safe, and sanitary housing for the elderly or handicapped.
+(1) Not later than the expiration of the twelve-month period following November 30, 1983, the Secretary of Housing and Urban Development and the Secretary of Agriculture shall each issue such regulations as may be necessary to ensure (A) compliance with the provisions of subsection (a) with respect to any program of assistance referred to in subsection (d) that is administered by such Secretary; and (B) attaining the goal of providing decent, safe, and sanitary housing for the elderly or handicapped.
 
 (2) Such regulations shall establish guidelines under which the owner or manager of any federally assisted rental housing for the elderly or handicapped (A) may prescribe reasonable rules for the keeping of pets by tenants in such housing; and (B) shall consult with the tenants of such housing in prescribing such rules. Such rules may consider factors such as density of tenants, pet size, types of pets, potential financial obligations of tenants, and standards of pet care.
 
@@ -27,6 +27,8 @@ For purposes of this section, the term "federally assisted rental housing for th
 &emsp;(2) is assisted under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], or title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], and is designated for occupancy by elderly or handicapped families, as such term is defined in section 1701q(d)(4) <sup>1</sup> of this title.
 
 (Pub. L. 98–181, title I \[title II, §227\], Nov. 30, 1983, 97 Stat. 1195.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

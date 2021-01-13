@@ -18,7 +18,7 @@
 
 &emsp;(B) a provision requiring refund of a proportionate amount of such advance payment if the total amount of time contracted for is not used.
 
-> Notwithstanding any other provision of law, any agency or instrumentality of the legislative branch is authorized to make advance paymentsunder a contract entered into under paragraph (1).
+> Notwithstanding any other provision of law, any agency or instrumentality of the legislativebranch is authorized to make advance payments under a contract entered into under paragraph (1).
 
 #### (c) Additional personnel
 
@@ -29,6 +29,8 @@ To the extent that the personnel of the Senate Computer Center are unable to car
 Disbursements from the revolving fund under subsections (b) and (c) shall be made upon vouchers signed by the Sergeant at Arms and Doorkeeper of the Senate, except that vouchers shall not be required for the disbursement of salaries of employees paid at an annual rate.
 
 (Pub. L. 94–303, title I, §116, June 1, 1976, 90 Stat. 614.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

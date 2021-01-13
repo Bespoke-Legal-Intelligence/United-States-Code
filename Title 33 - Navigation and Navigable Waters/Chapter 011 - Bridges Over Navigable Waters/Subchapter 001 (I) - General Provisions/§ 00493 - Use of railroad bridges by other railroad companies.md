@@ -4,9 +4,13 @@ All railroad companies desiring the use of any railroad bridge built in accordan
 
 (Mar. 23, 1906, ch. 1130, §3, 34 Stat. 85; Pub. L. 97–449, §2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–449 substituted "Secretary of Transportation" for "Secretary of War". See Transfer of Functions note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -26,6 +26,8 @@ The Secretary shall by regulation establish a recertification process for member
 
 (Pub. L. 96–465, title I, §305, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 99–93, title I, §119(a), Aug. 16, 1985, 99 Stat. 412; Pub. L. 101–194, title V, §506(c)(1), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, §6(d)(3), May 4, 1990, 104 Stat. 160.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 107–296, title XIII, §1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
@@ -38,13 +40,15 @@ Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 10
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–93 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–93, title I, §119(c), Aug. 16, 1985, 99 Stat. 412, provided that: "The amendments made by subsections\(a) and (b) \[amending this section and provisions set out as a note under section 3901 of this title\] shall take effect on October 1, 1985."
+Pub. L. 99–93, title I, §119(c), Aug. 16, 1985, 99 Stat. 412, provided that: "The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under section 3901 of this title\] shall take effect on October 1, 1985."
 
 #### Effective Date
 

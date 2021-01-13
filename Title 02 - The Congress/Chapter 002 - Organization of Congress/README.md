@@ -27,6 +27,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name and Transfer of Functions of Committees and Officers of House of Representatives
 
 Pub. L. 104–14, June 3, 1995, 109 Stat. 186, provided that:

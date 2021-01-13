@@ -40,6 +40,8 @@ Summary.—Beginning 2 years after the date of the enactment of this section, th
 
 (Added Pub. L. 114–289, title II, §202(a), Dec. 16, 2016, 130 Stat. 1485.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 805(b)(1) of the Federal Lands Recreational Enhancement Act, referred to in subsec. (a)(1)(A), probably means section 805(b)(1) of the Federal Lands Recreation Enhancement Act, which is section 805(b)(1) of Pub. L. 108–447, div. J, title VIII, Dec. 8, 2004, 118 Stat. 3385, and is classified to section 6804(b)(1) of Title 16, Conservation.

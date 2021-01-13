@@ -2,11 +2,31 @@
 
 In determining family contributions for Native American students, computations performed pursuant to this part shall exclude—
 
-&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
+&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student\(and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
 
 &emsp;(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.).<sup>1</sup>
 
-(Pub. L. 89–329, title IV, §479C, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 111–39, title IV, §406(a)(5), July 1, 2009, 123 Stat. 1949.)
+(Pub. L. 89–329, title IV, §479C, as added Pub. L. 100–50, §14(27), June 3, 1987, 101 Stat. 353; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 111–39, title IV, §406(a)(5), July 1, 2009, 123 Stat. 1949; Pub. L. 116–260, div. FF, title VII, §702(k), Dec. 27, 2020, 134 Stat. 3160.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(k), Dec. 27, 2020, 134 Stat. 3137, 3160, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1087uu–1. Native American students
+
+#### <i>(a) In general</i>
+
+<i>In determining the student aid index for Native American students, computations performed pursuant to this part shall exclude—</i>
+
+&emsp;<i>(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and</i>
+
+&emsp;<i>(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.).</i>
+
+#### <i>(b) Guidance</i>
+
+<i>The Secretary shall develop guidance, in consultation with Tribal Colleges and Universities (as defined in section 1059c of this title) and the State higher education agency in Alaska and Maine, to implement the determination under subsection (a) without adding additional questions to the FAFSA, including through the use of the authority under section 1087tt of this title.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### References in Text
 
@@ -20,11 +40,21 @@ The Maine Indian Claims Settlement Act of 1980, referred to in par. (2), is Pub.
 
 #### Amendments
 
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: "In determining family contributions for Native American students, computations performed pursuant to this part shall exclude—
+
+&emsp;"(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
+
+&emsp;"(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.)."
+
 <b>2009</b>—Par. (1). Pub. L. 111–39, §406(a)(5)(A), substituted "under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the 'Per Capita Act') or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and" for "under the Per Capita Act or the Distribution of Judgment Funds Act; and".
 
 Par. (2). Pub. L. 111–39, §406(a)(5)(B), substituted "Alaska" for "Alaskan" and inserted "(43 U.S.C. 1601 et seq.)" after "Native Claims Settlement Act" and "of 1980 (25 U.S.C. 1721 et seq.)" after "Maine Indian Claims Settlement Act".
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, reenacting provisions without change.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

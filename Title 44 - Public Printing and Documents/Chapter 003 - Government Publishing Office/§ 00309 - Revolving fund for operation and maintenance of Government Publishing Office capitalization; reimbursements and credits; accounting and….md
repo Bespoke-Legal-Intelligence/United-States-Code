@@ -42,6 +42,8 @@
 
 Based on 44 U.S. Code, 1964 ed., §63, 63a (Aug. 1, 1953, ch. 304, title I, §101, 67 Stat. 330; Aug. 5, 1955, ch. 568, §101, 69 Stat. 519; June 27, 1956, ch. 453, §101, 70 Stat. 369); §63a (July 28, 1967, Pub. L. 90–57, §101 (part), 81 Stat. 141).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §1301(i)(5)(A), substituted "by the Director" for "by him" in concluding provisions.
@@ -72,6 +74,8 @@ Subsec. (d). Pub. L. 100–458, §310(c), amended subsec. (d) generally. Prior t
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–604 substituted provisions that the Comptroller General shall audit the activities of the Government Printing Office at least once in every three years and furnish reports of the audits to the Congress and the Public Printer for provisions that the General Accounting Office shall audit the activities of the Government Printing Office and furnish an audit report annually to the Congress and the Public Printer.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in section catchline and subsecs. (a), (b)(1), (d), and (e)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
@@ -82,7 +86,7 @@ Pub. L. 103–69, title II, §207(c), Aug. 11, 1993, 107 Stat. 708, provided tha
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 23rd item on page 4 identifies a reporting provision which, as subsequently amended, is contained in subsec. (d) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Federal Register Program; Use of Revolving Fund; Reimbursement
 

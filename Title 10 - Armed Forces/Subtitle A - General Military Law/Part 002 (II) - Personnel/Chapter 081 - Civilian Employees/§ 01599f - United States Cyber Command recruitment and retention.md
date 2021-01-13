@@ -156,6 +156,44 @@ Subsecs. (i) to (k). Pub. L. 114–328, §1103(a)(1), redesignated subsecs. (h) 
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### Department of Defense Cyber Workforce Efforts
+
+Pub. L. 116–283, div. A, title XVII, §1726(a), Jan. 1, 2021, 134 Stat. 4115, provided that:
+
+"(a)
+
+Resources for Cyber Education.—
+
+&emsp;"(1)
+
+In general.—The Chief Information Officer of the Department of Defense, in consultation with the Director of the National Security Agency (NSA), shall examine the current policies permitting National Security Agency employees to use up to 140 hours of paid time toward NSA's cyber education programs.
+
+&emsp;"(2)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
+
+&emsp;&emsp;&emsp;"(i) individuals who occupy positions described in section 1599f of title 10, United States Code; and
+
+&emsp;&emsp;&emsp;"(ii) any other individuals who the Chief Information Officer determines appropriate.
+
+&emsp;&emsp;"(B)
+
+Implementation plan.—The report required under subparagraph (A) shall detail the utilization of the policies in place at the National Security Agency, as well as an implementation plan that describes the mechanisms needed to expand the use of such policies to accommodate wider participation by individuals described in such subparagraph. Such implementation plan shall detail how such individuals would be able to connect to the instructional and participatory opportunities available through the efforts, programs, initiatives, and investments accounted for in the report required under section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92 \[133 Stat. 1758\]), including the following programs:
+
+&emsp;&emsp;&emsp;"(i) GenCyber.
+
+&emsp;&emsp;&emsp;"(ii) Centers for Academic Excellence – Cyber Defense.
+
+&emsp;&emsp;&emsp;"(iii) Centers for Academic Excellence – Cyber Operations.
+
+&emsp;&emsp;"(C)
+
+Deadline.—Not later than 120 days after the submission of the report required under subparagraph (A), the Chief Information Officer of the Department of Defense shall carry out the implementation plan contained in such report."
+
 #### Zero-Based Review of Department of Defense Cyber and Information Technology Personnel
 
 Pub. L. 116–92, div. A, title XVI, §1652, Dec. 20, 2019, 133 Stat. 1761, provided that:
@@ -230,7 +268,7 @@ Data and analysis.—In carrying out subsection (a)(2), each head of a covered d
 
 &emsp;"(2)
 
-Certification.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary of Defense shall jointly review each submittalunder subsection (a)(2) and certify whether the findings and analysis are in compliance with the requirements of this section.
+Certification.—The Principal Cyber Advisor, the Chief Information Officer, and the Under Secretary of Defense shall jointly review each submittal under subsection (a)(2) and certify whether the findings and analysis are in compliance with the requirements of this section.
 
 "(f)
 

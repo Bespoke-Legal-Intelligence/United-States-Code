@@ -40,3 +40,95 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
+#### Research Partnership on Activities of People's Republic of China
+
+Pub. L. 116–260, div. W, title VI, §612, Dec. 27, 2020, 134 Stat. 2395, provided that:
+
+"(a)
+
+Research Partnership.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], the Director of the National Geospatial-Intelligence Agency shall seek to enter into a partnership with an academic or non-profit research institution to—
+
+&emsp;&emsp;"(A) carry out joint unclassified geospatial intelligence analyses of the activities of the People's Republic of China that pose risks to the national security interests of the United States; and
+
+&emsp;&emsp;"(B) make available on a publicly available internet website unclassified geospatial intelligence products relating to such analyses.
+
+&emsp;"(2)
+
+Elements.—The Director shall ensure that the activities of China analyzed under paragraph (1)(A) include the following:
+
+&emsp;&emsp;"(A) Any notable developments relating to the global activities of the People's Liberation Army Ground Force, the People's Liberation Army Navy, the People's Liberation Army Air Force, the People's Liberation Army Rocket Force, the People's Liberation Army Strategic Support Force, and the Chinese People's Armed Police Force Coast Guard Corps.
+
+&emsp;&emsp;"(B) Infrastructure projects associated with the 'One Belt, One Road' Initiative.
+
+&emsp;&emsp;"(C) Maritime land reclamation activities conducted by China in the South China Sea, the Indian Ocean region, and the broader maritime commons.
+
+&emsp;&emsp;"(D) Matters relevant to global public health and climate security, including—
+
+&emsp;&emsp;&emsp;"(i) indications and warnings of disease outbreaks with pandemic potential;
+
+&emsp;&emsp;&emsp;"(ii) the activities of China likely contributing to climate change; and
+
+&emsp;&emsp;&emsp;"(iii) any environmental degradation directly resulting from the practices of China.
+
+&emsp;"(3)
+
+Consortium.—In carrying out paragraph (1), the Director may enter into a partnership with—
+
+&emsp;&emsp;"(A) one research institution; or
+
+&emsp;&emsp;"(B) a consortium of research institutions if the Director determines that the inclusion of multiple institutions will result in more effective research conducted pursuant to this section or improve the outcomes of such research.
+
+&emsp;"(4)
+
+Duration.—The Director shall carry out a partnership under this section for a period that is not less than 10 years following the date of the enactment of this Act.
+
+&emsp;"(5)
+
+Improvements to partnership.—The Director may modify the partnership under paragraph (1) or select a new research institution with which to enter into such a partnership if—
+
+&emsp;&emsp;"(A) the Director consults with the congressional intelligence committees with respect to the proposed modified or new partnership;
+
+&emsp;&emsp;"(B) the modified or new partnership is carried out in accordance with this section; and
+
+&emsp;&emsp;"(C) the Director determines that the modified or new partnership will result in more effective research conducted pursuant to this section or improve the outcomes of such research.
+
+"(b)
+
+Open-Source Data.—
+
+&emsp;"(1)
+
+Identification and publication.—During the life of the partnership under subsection (a), the Director shall regularly—
+
+&emsp;&emsp;"(A) identify raw, unclassified geospatial data that could improve the research conducted under the partnership if the data was made publicly available; and
+
+&emsp;&emsp;"(B) make such data publicly available.
+
+&emsp;"(2)
+
+Consultation.—The Director shall carry out paragraph (1) in consultation with the research institution or consortium of research institutions involved with the partnership under subsection (a).
+
+"(c)
+
+Briefings.—Not later than 270 days after the date of the enactment of this Act, and annually thereafter during the life of the partnership under subsection (a), the Director shall provide to the appropriate congressional committees a briefing on the partnership. Each such briefing shall include the following:
+
+&emsp;"(1) The outcomes of research conducted under the partnership.
+
+&emsp;"(2) Identification of the actions that have been taken to increase the quantity and quality of unclassified geospatial analysis products made publicly available under the partnership, including the quantity and types of raw data the partnership has made publicly available.
+
+&emsp;"(3) Identification of actual and projected costs to carry out the partnership.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional intelligence committees \[Select Committee on Intelligence and Committee on Appropriations of the Senate and Permanent Select Committee on Intelligence and Committee on Appropriations of the House of Representatives\];
+
+&emsp;"(2) Committee on Foreign Relations and the Subcommittee on Defense of the Committee on Appropriations of the Senate; and
+
+&emsp;"(3) Committee on Foreign Affairs and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives."
+

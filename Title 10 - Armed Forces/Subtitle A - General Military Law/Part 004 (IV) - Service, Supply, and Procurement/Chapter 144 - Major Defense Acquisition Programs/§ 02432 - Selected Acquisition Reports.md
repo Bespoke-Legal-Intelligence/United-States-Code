@@ -8,7 +8,7 @@
 
 &emsp;(3) The term "major contract", with respect to a major defense acquisition program, means each of the six largest prime, associate, or Government-furnished equipment contracts under the program that is in excess of $40,000,000 and that is not a firm, fixed price contract.
 
-&emsp;(4) The term "full life-cycle cost", with respect to a major defense acquisition program, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
+&emsp;(4) The term "full life-cycle cost", with respect to a major defense acquisition program,means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
 (b)(1) The Secretary of Defense shall submit to Congress at the end of each fiscal-year quarter a report on current major defense acquisition programs and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars). Except as provided in paragraphs (2) and (3), each such report shall include a status report on each defense acquisition program that at the end of such quarter is a major defense acquisition program. Reports under this section shall be known as Selected Acquisition Reports.
 
@@ -58,7 +58,7 @@
 
 (3) In addition to the material required by paragraphs (1) and (2), each Selected Acquisition Report for the first quarter of a fiscal year shall include the following:
 
-&emsp;(A) A full life-cycle cost analysis for each major defense acquisition program and each designated major subprogram included in the report that is in the system development and demonstration stage or has completed that stage. The Secretary of Defense shall ensure that this subparagraph is implemented in a uniform manner, to the extent practicable, throughout the Department of Defense.
+&emsp;(A) A full life-cycle cost analysis for each major defense acquisition program and each designated major subprogram included in the report that is in the system development and demonstration stage or has completed thatstage. The Secretary of Defense shall ensure that this subparagraph is implemented in a uniform manner, to the extent practicable, throughout the Department of Defense.
 
 &emsp;(B) If the system that is included in that major defense acquisition program has an antecedent system, a full life-cycle cost analysis for that system.
 
@@ -120,13 +120,63 @@ Form of Report.—A Selected Acquisition Report required under this section shal
 
 Termination.—The requirements under this section shall terminate after the final submission covering fiscal year 2021.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 108–375, div. A, title VIII, §801(b)(2), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–364, div. A, title X, §1071(g)(10), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–417, \[div. A\], title VIII, §811(b), Oct. 14, 2008, 122 Stat. 4521; Pub. L. 112–81, div. A, title VIII, §812, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title VIII,§812(a), Dec. 26, 2013, 127 Stat. 807; Pub. L. 113–291, div. A, title X, §1071(g)(2), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. A, title VIII, §§805(b), 841, Dec. 23, 2016, 130 Stat. 2255, 2288; Pub. L. 116–92, div. A, title VIII, §830(a), Dec. 20, 2019, 133 Stat. 1492.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerlytitle IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 108–375, div. A, title VIII, §801(b)(2), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–364, div. A, title X, §1071(g)(10), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–417, \[div. A\], title VIII, §811(b), Oct. 14, 2008, 122 Stat. 4521; Pub. L. 112–81, div. A, title VIII, §812, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 113–66, div. A, title VIII, §812(a), Dec. 26, 2013, 127 Stat. 807; Pub. L. 113–291, div. A, title X, §1071(g)(2), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. A, title VIII, §§805(b), 841, Dec. 23, 2016, 130 Stat. 2255, 2288; Pub. L. 116–92, div. A, title VIII, §830(a), Dec. 20, 2019, 133 Stat. 1492; Pub. L. 116–283, div. A, title XVIII, §1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4259–4263.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4151, 4259–4263, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 4351 of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 4352 of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 4353 of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 4354 of this title;</i>
+
+<i>(5) by transferring subsection (e) to section 4355 of this title;</i>
+
+<i>(6) by transferring subsection (f) to section 4356(a) of this title;</i>
+
+<i>(7) by transferring subsection (g) to section 4357 of this title;</i>
+
+<i>(8) by transferring subsection (h) to section 4358 of this title;</i>
+
+<i>(9) by transferring subsection (i) to section 4356(b) of this title; and</i>
+
+<i>(10) by transferring subsection (j) to section 4350 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1849(l), Jan. 1, 2021, 134 Stat. 4151, 4264, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1849(c), transferred subsec. (a) to section 4351 of this title.
+
+Subsec. (b). Pub. L. 116–283, §1849(d)(1), transferred subsec. (b) to section 4352 of this title.
+
+Subsec. (c). Pub. L. 116–283, §1849(e)(1), transferred subsec. (c) to section 4353 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1849(f)(1), transferred subsec. (d) to section 4354 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1849(g), transferred subsec. (e) to section 4355 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1849(h)(1), transferred subsec. (f) to section 4356(a) of this title.
+
+Subsec. (g). Pub. L. 116–283, §1849(j), transferred subsec. (g) to section 4357 of this title.
+
+Subsec. (h). Pub. L. 116–283, §1849(k)(1), transferred subsec. (h) to section 4358 of this title.
+
+Subsec. (i). Pub. L. 116–283, §1849(i), transferred subsec. (i) to section 4356(b) of this title.
+
+Subsec. (j). Pub. L. 116–283, §1849(b), transferred subsec. (j) to section 4350 of this title.
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §830(a)(1), inserted "and any program that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement, including all planned increments or spirals, of more than $1,800,000,000 (based on fiscal year 1990 constant dollars)" after "major defense acquisition programs".
 
@@ -152,7 +202,7 @@ Subsec. (c)(1)(G). Pub. L. 113–66, §812(a)(1), redesignated subpar. (D) as (G
 
 <b>2008</b>—Subsec. (b)(2)(A). Pub. L. 110–417, §811(b)(1), inserted "for the program (or for each designated subprogram under the program)" after "procurement unit cost".
 
-Subsec. (c)(1)(B). Pub. L. 110–417, §811(b)(2)(A), inserted "or designated major subprogram" after "for each major defense acquisition program" and "or subprogram" after "the program".
+Subsec. (c)(1)(B). Pub. L. 110–417, §811(b)(2)(A), inserted "or designated major subprogram" after "foreach major defense acquisition program" and "or subprogram" after "the program".
 
 Subsec. (c)(1)(C). Pub. L. 110–417, §811(b)(2)(B), inserted "or designated major subprogram" after "major defense acquisition program" and "or subprogram" after "the program".
 
@@ -196,7 +246,7 @@ Subsec. (e)(8), (9). Pub. L. 104–201, §806(2), redesignated par. (9) as (8) a
 
 Subsec. (h)(1). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3002(a)(1), struck out "for a fiscal year, reduced by the amount of funds programmed to be available for obligation for such fiscal year for advanced procurement for such program in any subsequent year and increased by any amount appropriated in years before such fiscal year for advanced procurement for such program in such fiscal year" after "procurement for the program" in cl. (A), "with such funds during such fiscal year" after "procured" in cl. (B), and last sentence which read as follows: "If for any fiscal year the funds appropriated, or the numberof fully-configured end items to be purchased, differ from those programmed, the procurement unit cost shall be revised to reflect the appropriated amounts and quantities."
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–355, §3002(a)(1), struck out "for a fiscal year, reduced by the amount of funds programmed to be available for obligation for such fiscal year for advanced procurement for such program in any subsequent year and increased by any amount appropriated in years before such fiscal year for advanced procurement for such program in such fiscal year" after "procurement for the program" in cl. (A), "with such funds during such fiscal year" after "procured" in cl. (B), and last sentence which read as follows: "If for any fiscal year the funds appropriated, or the number of fully-configured end items to be purchased, differ from those programmed, the procurement unit cost shall be revised to reflect the appropriated amounts and quantities."
 
 Subsec. (a)(3). Pub. L. 103–355, §3002(b), inserted before period at end "and that is not a firm, fixed price contract".
 
@@ -286,9 +336,17 @@ Subsec. (f). Pub. L. 98–525, §1242(a)(4), substituted: "60" for "30", "45" fo
 
 Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+Pub. L. 113–291, div. A, title X, §1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made bysection 1071(g)(2) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 #### Effective Date of 2013 Amendment; Phase-In of Additional Information Requirements
 
@@ -326,7 +384,7 @@ Pub. L. 97–252, title XI, §1107(c), Sept. 8, 1982, 96 Stat. 746, provided tha
 
 #### Termination of Reporting Requirements
 
-For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 113 of this title.
+For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 111 of this title.
 
 #### Annual Reporting
 

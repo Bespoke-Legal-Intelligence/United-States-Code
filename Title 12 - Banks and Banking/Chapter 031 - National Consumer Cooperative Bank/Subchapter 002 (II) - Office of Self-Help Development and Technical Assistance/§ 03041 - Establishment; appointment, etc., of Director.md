@@ -6,6 +6,8 @@
 
 (Pub. L. 95–351, title II, §201, Aug. 20, 1978, 92 Stat. 511.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Office and Performance of Functions
 
 For abolition of the Office of Self-Help Development and Technical Assistance and performance of the functions by a nonprofit corporation upon the incorporation of the nonprofit corporation, see section 3051 of this title.

@@ -10,7 +10,7 @@ The producer of honey shall be personally liable for the repayment of a loan or 
 
 #### (c) Extent of personal liability
 
-The loan contracts of the Commodity Credit Corporation entered into with producers of honey shall clearly indicate the extent to whicha producer of honey may be personally liable for repayment of a loan under this section.
+The loan contracts of the Commodity Credit Corporation entered into with producers of honey shall clearly indicate the extent to which a producer of honey may be personally liable for repayment of a loan under this section.
 
 #### (d) Promulgation of regulations
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Inapplicability of Section
 
-Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicableto milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(10) of this title.
 

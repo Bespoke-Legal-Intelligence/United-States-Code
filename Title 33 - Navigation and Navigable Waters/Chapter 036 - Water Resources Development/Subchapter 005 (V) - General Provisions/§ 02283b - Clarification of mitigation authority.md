@@ -26,9 +26,13 @@ The Secretary may carry out measures to improve fish species habitat within the 
 
 (Pub. L. 113–121, title I, §1028, June 10, 2014, 128 Stat. 1230.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

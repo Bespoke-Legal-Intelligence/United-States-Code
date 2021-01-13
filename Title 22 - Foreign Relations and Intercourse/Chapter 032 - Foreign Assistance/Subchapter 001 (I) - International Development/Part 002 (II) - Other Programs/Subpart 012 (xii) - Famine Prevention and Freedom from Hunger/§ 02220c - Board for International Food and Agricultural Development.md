@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and expenses of members
 
-To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursementfor expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
+To assist in the administration of the programs authorized by this subpart, the President shall establish a permanent Board for International Food and Agricultural Development (hereafter in this subpart referred to as the "Board") consisting of seven members, not less than four to be selected from the universities. Terms of members shall be set by the President at the time of appointment. Members of the Board shall be entitled to such reimbursement for expenses incurred in the performance of their duties (including per diem in lieu of subsistence while away from their homes or regular place of business) as the President deems appropriate on a case-by-case basis.
 
 #### (b) General areas of responsibility
 
@@ -56,6 +56,8 @@ In addition to any other functions assigned to and agreed to by the Board, the B
 
 (Pub. L. 87–195, pt. I, §298, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 864; amended Pub. L. 106–373, §4, Oct. 27, 2000, 114 Stat. 1432.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Governmental Performance and Results Act of 1993, referred to in subsec. (c)(7), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
@@ -74,7 +76,7 @@ Subsec. (b). Pub. L. 106–373, §4(b), amended subsec. (b) generally. Prior to 
 
 > the activities described in section 2220b of this title."
 
-Subsec. (c)(2)(A). Pub. L. 106–373, §4(c)(1)(A), substituted "improve agricultural production, trade, andnatural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;" for "increase food production in developing countries,".
+Subsec. (c)(2)(A). Pub. L. 106–373, §4(c)(1)(A), substituted "improve agricultural production, trade, and natural resource management in developing countries, and with private organizations seeking to increase agricultural production and trade, natural resources management, and household food security in developing and transition countries;" for "increase food production in developing countries,".
 
 Subsec. (c)(2)(B). Pub. L. 106–373, §4(c)(1)(B), inserted ", environmental, and related social" before "sciences".
 
@@ -89,6 +91,8 @@ Subsec. (c)(8) to (10). Pub. L. 106–373, §4(c)(4), (6), added pars. (8) to (1
 Subsec. (d)(1). Pub. L. 106–373, §4(d)(1), substituted "Policy" for "Research", "design" for "administration", and "section 2220b" for "section 2220b(a)(3)".
 
 Subsec. (d)(2). Pub. L. 106–373, §4(d)(2), substituted "Joint Operations Committee which shall assist in and advise on the mechanisms and processes for implementation of activities described in section 2220b of this title." for "Joint Committee on Country Programs which shall assist in the implementation of the bilateral activities described in sections 2220b(a)(2), 2220b(a)(4), and 2220b(a)(5) of this title."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

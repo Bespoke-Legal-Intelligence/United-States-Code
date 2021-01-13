@@ -42,6 +42,8 @@ Pub. L. 93–400, §26(j), as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 10
 
 41:422(j)(4).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, §103, Aug. 15, 1970, 84 Stat. 796, which was classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.

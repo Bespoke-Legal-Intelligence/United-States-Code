@@ -8,7 +8,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;(3) "National Guard" means the Army National Guard and the Air National Guard.
 
-&emsp;(4) "Army National Guard" means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+&emsp;(4) "Army National Guard" means that part of the organized militia of the several Statesand Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
 
 &emsp;&emsp;(A) is a land force;
 
@@ -172,7 +172,7 @@ In clauses (3)(B) and (5)(B), the words "has its officers appointed" are substit
 
 In clauses (4) and (6), only that much of the description of the composition of the Army National Guard of the United States and the Air National Guard of the United States is used as is necessary to distinguish these reserve components, respectively, from the other reserve components.
 
-In clause (5)(A), the words "an air force" are substituted for the words "for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law", in 10:1835, and for 32:2 (less applicability to Army National Guard), to make the definition of "Air National Guard" parallel with the definition of "Army National Guard", and to make explicit the intent of Congress in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
+In clause (5)(A), the words "an air force" are substituted for the words "for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law", in10:1835, and for 32:2 (less applicability to Army National Guard), to make the definition of "Air National Guard" parallel with the definition of "Army National Guard", and to make explicit the intent of Congress in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
 
 In clause (8), words showing how enlisted members became such are inserted to make clear that enlistment is not the only method of becoming a member in an enlisted grade.
 
@@ -202,6 +202,8 @@ In clause (2), the term "armed forces" is defined for legislative convenience an
 
 The definition in clause (18) reflects the adoption of terminology which, though undefined in the source statutes restated in this title, represents the closest practicable approximation of the ways in which the term has been commonly used.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: " 'Territory' means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, 'Territory' includes Guam and the Virgin Islands."
@@ -223,6 +225,8 @@ Cl. (12). Pub. L. 96–513 struck out "duty on the active list," after "Federal 
 <b>1959</b>—Cl. (1). Pub. L. 86–70 struck out reference to Alaska.
 
 <b>1958</b>—Cls. (2) to (18). Pub. L. 85–861 added cls. (2) and (18) and renumbered former cls. (2) to (16) as (3) to (17), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

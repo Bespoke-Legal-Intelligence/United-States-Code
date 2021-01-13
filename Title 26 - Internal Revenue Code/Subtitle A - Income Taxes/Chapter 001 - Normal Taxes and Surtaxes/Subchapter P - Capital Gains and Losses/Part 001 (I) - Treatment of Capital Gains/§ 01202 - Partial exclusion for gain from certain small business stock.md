@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) paragraph (2) shall not apply.
 
-> &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on whichsuch stock was held by the taxpayer determined after the application of section 1223.
+> &emsp;In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
 
 #### (4) 100 percent exclusion for stock acquired during certain periods in 2010 and thereafter
 
@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregate amount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
+&emsp;If the taxpayer has eligible gain for the taxable year from 1 or more dispositions of stock issued by any corporation, the aggregateamount of such gain from dispositions of stock issued by such corporation which may be taken into account under subsection (a) for the taxable year shall not exceed the greater of—
 
 &emsp;&emsp;(A) $10,000,000 reduced by the aggregate amount of eligible gain taken into account by the taxpayer under subsection (a) for prior taxable years and attributable to dispositions of stock issued by such corporation, or
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (B) Significant redemptions
 
-&emsp;&emsp;Stock issued by a corporation shall not be treated as qualified business stock if, during the 2-year period beginning on the date 1year before the issuance of such stock, such corporation made 1 or more purchases of its stock with an aggregate value (as of the time of the respective purchases) exceeding 5 percent of the aggregate value of all of its stock as of the beginning of such 2-year period.
+&emsp;&emsp;Stock issued by a corporation shall not be treated as qualified business stock if, during the 2-year period beginning on the date 1 year before the issuance of such stock, such corporation made 1 or more purchases of its stock with an aggregate value (as of the time of the respective purchases) exceeding 5 percent of the aggregate value of all of its stock as of the beginning of such 2-year period.
 
 #### (C) Treatment of certain transactions
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 &emsp;The term "qualified small business" means any domestic corporation which is a C corporation if—
 
-&emsp;&emsp;(A) the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactment of the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $50,000,000,
+&emsp;&emsp;(A) the aggregate gross assets of such corporation (or any predecessor thereof) at all times on or after the date of the enactmentof the Revenue Reconciliation Act of 1993 and before the issuance did not exceed $50,000,000,
 
 &emsp;&emsp;(B) the aggregate gross assets of such corporation immediately after the issuance (determined by taking into account amounts received in the issuance) do not exceed $50,000,000, and
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (A) Look-thru in case of subsidiaries
 
-&emsp;&emsp;For purposes of this subsection, stock and debt in any subsidiary corporation shall bedisregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets, and to conduct its ratable share of the subsidiary's activities.
+&emsp;&emsp;For purposes of this subsection, stock and debt in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary's assets, and to conduct its ratable share of the subsidiary's activities.
 
 #### (B) Portfolio stock or securities
 
@@ -366,7 +366,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec.19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xv), (4)(B)(v), Mar. 23, 2018, 132 Stat. 1208, 1209.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594; Pub. L. 111–5, div. B, title I, §1241(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2011(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 111–312, title VII, §§753(b), 760(a), Dec. 17, 2010, 124 Stat. 3321, 3323; Pub. L. 112–240, title III, §§324(a), (b), 327(b), Jan. 2, 2013, 126 Stat. 2333, 2334; Pub. L. 113–295, div. A, title I, §136(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §126(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xv), (4)(B)(v), Mar. 23, 2018, 132 Stat. 1208, 1209.)
 
 #### References in Text
 
@@ -462,7 +462,7 @@ Pub. L. 111–5, div. B, title I, §1241(b), Feb. 17, 2009, 123 Stat. 342, provi
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by theFASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -480,7 +480,7 @@ Section applicable to stock issued after Aug. 10, 1993, see section 13113(e) of 
 
 Amendment by section 401(d)(4)(B)(v) of Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400 of this title.
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Special Rule for Pass-Through Entities
 

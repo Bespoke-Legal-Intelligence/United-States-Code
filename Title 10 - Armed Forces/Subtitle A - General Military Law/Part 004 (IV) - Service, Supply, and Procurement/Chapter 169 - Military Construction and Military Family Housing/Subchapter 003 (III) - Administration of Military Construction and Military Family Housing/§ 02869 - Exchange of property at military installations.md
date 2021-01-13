@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right,title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
+Exchange Authorized.—(1) The Secretary concerned may enter into an agreement to convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to transfer to the United States all right, title, and interest of the person in and to a parcel of real property, including any improvements thereon under the person's control, or to carry out a land acquisition, including the acquisition of all right, title, and interest or a lesser interest in real property under an agreement entered into under section 2684a of this title to limit encroachments and other constraints on military training, testing, and operations.
 
 (2) Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned—
 
@@ -10,15 +10,33 @@ Exchange Authorized.—(1) The Secretary concerned may enter into an agreement t
 
 &emsp;(B) that is located on a military installation not covered by subparagraph (A) and for which the Secretary concerned makes a determination that the conveyance under paragraph (1) is advantageous to the United States.
 
+(3)(A) The Secretary of Defense shall establish a pilot program under which the Secretary concerned, during the term of the pilot program, may use the authority provided by paragraph (1) to also convey real property, including any improvements thereon, described in paragraph (2) to any person who agrees, in exchange for the real property, to provide—
+
+&emsp;(i) installation-support services (as defined in 2679(e) <sup>1</sup> of this title); or
+
+&emsp;(ii) a new facility or improvements to an existing facility.
+
+(B) The acquisition of a facility or improvements to an existing facility using the authority provided by subparagraph (A) shall not be treated as a military construction project for which an authorization is required by section 2802 of this title.
+
+(C) The expanded conveyance authority provided by subparagraph (A) applies only during the five-year period beginning on the date on which the Secretary of Defense issues guidance regarding the use by the Secretaries concerned of such authority.
+
 (b)
 
-Conditions on Conveyance Authority.—(1) The fair market value of the land to be obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the land is less than the fair market value of the real property to be conveyed, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
+Conditions on Conveyance Authority.—(1) The fair market value of the real property, installation-support services, or facility or improvements to an existing facility obtained by the Secretary concerned under subsection (a) in exchange for the conveyance of real property by the Secretary under such subsection shall be at least equal to the fair market value of the conveyed real property, as determined by the Secretary. If the fair market value of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property,installation-support services, or facility or improvements received by the Secretary, the recipient of the property shall pay to the United States an amount equal to the difference in the fair market values.
 
 (2) In the case of a conveyance of real property to a political subdivision of a State, the value of the real property to be conveyed by the Secretary concerned under subsection (a) may exceed the fair market value of the land to be obtained, as determined under paragraph (1), by an amount not to exceed the reduction in value of the land which is attributable to voluntary zoning actions taken by such political subdivision to limit encroachment on a military installation, but only if the notice required by subsection (d)(2) contains—
 
 &emsp;(A) a certification by the Secretary concerned that the military value to the United States of the land to be acquired justifies a payment in excess of the fair market value; and
 
 &emsp;(B) a description of the military value to be obtained.
+
+(3) The Secretary concerned may agree to accept a facility or improvements to an existing facility under subsection (a)(3) only if the Secretary concerned determines that the facility or improvements—
+
+&emsp;(A) are completed and usable, fully functional, and ready for occupancy;
+
+&emsp;(B) satisfy all operational requirements; and
+
+&emsp;(C) meet all Federal, State, and local requirements applicable to the facility relating to health, safety, and the environment.
 
 (c)
 
@@ -54,9 +72,19 @@ Description of Property.—The exact acreage and legal description of real prope
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473;Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850.)
+(Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719; amended Pub. L. 109–364, div. B, title XXVIII, §2811(a)–(f)(1), Oct. 17, 2006, 120 Stat. 2471–2473; Pub. L. 111–84, div. B, title XXVIII, §2804(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2661, 2662; Pub. L. 112–81, div. B, title XXVIII, §2815(a), (b), Dec. 31, 2011, 125 Stat. 1688, 1689; Pub. L. 112–239, div. B, title XXVIII, §2811, Jan. 2, 2013, 126 Stat. 2150; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(6), 2815, 2816, Dec. 12, 2017, 131 Stat. 1844, 1850; Pub. L. 116–283, div. B, title XXVIII, §2862(a), (b), Jan. 1, 2021, 134 Stat. 4357.)
+
+#### References in Text
+
+The reference to "2679(e) of this title", referred to in subsec. (a)(3)(A)(i), probably should be to "section 2679(f) of this title". Subsec. (e) of section 2679 of this title was redesignated as subsec. (f) by Pub. L. 116–283, div. B, title XXVIII, §2861(a)(1), Jan. 1, 2021, 134 Stat. 4356.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3). Pub. L. 116–283, §2862(a), added par. (3).
+
+Subsec. (b)(1). Pub. L. 116–283, §2862(b)(1), substituted "of the real property, installation-support services, or facility or improvements to an existing facility" for "of the land to be" and "of the real property conveyed by the Secretary concerned exceeds the fair market value of the real property, installation-support services, or facility or improvements received by the Secretary" for "of the land is less than the fair market value of the real property to be conveyed".
+
+Subsec. (b)(3). Pub. L. 116–283, §2862(b)(2), added par. (3).
 
 <b>2017</b>—Subsec. (a)(2). Pub. L. 115–91, §2815, amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Paragraph (1) applies with respect to real property under the jurisdiction of the Secretary concerned that—
 
@@ -106,11 +134,17 @@ Subsec. (d)(1). Pub. L. 109–364, §2811(c)(1), substituted "is proposed for co
 
 Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
 
-&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military construction activities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
+&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military constructionactivities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
 
 &emsp;"(B) a period of 14 days expires beginning on the date on which the notice is submitted."
 
 Subsec. (e). Pub. L. 109–364, §2811(d), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The Secretary concerned may deposit funds received under subsection (b) in the Department of Defense housing funds established under section 2883(a) of this title."
 
 Subsec. (f). Pub. L. 109–364, §2811(e), in heading substituted "Annual Reports; Effect of Failure to Submit" for "Annual Report", designated existing provisions as par. (1), in introductory provisions substituted "Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a report detailing the following:" for "In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in subpar. (C) inserted "and of excess real property at military installations" before period at end, and added par. (2).
+
+#### Issuance of Guidance
+
+Pub. L. 116–283, div. B, title XXVIII, §2862(c), Jan. 1, 2021, 134 Stat. 4358, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall issue guidance providing for the implementation of the pilot program required by section 2869(a)(3) of title 10, United States Code, as added by this section."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ Requested Information on Crashworthiness, Damage Susceptibility, and Repair and 
 
 &emsp;(1) about the extent to which the insurance premiums charged by the insurer are affected by damage susceptibility, crashworthiness, and the cost of repair and personal injury, for each make and model of passenger motor vehicle; and
 
-&emsp;(2) available to the insurer about the effect of damage susceptibility, crashworthiness, and the cost of repair and personal injury for each make and model of passenger motor vehicle on the risk incurred by the insurer in insuring that make and model.
+&emsp;(2) available to the insurer about the effect of damage susceptibility, crashworthiness, andthe cost of repair and personal injury for each make and model of passenger motor vehicle on the risk incurred by the insurer in insuring that make and model.
 
 (c)
 

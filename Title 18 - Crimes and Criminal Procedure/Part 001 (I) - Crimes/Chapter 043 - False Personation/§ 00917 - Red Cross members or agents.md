@@ -1,6 +1,6 @@
 ### §917. Red Cross members or agents
 
-Whoever, within the United States, falsely or fraudulently holds himself out as or represents or pretends himself to be a member of or an agent for the American National Red Cross for the purpose of soliciting, collecting, or receiving money or material, shall be fined under this title or imprisoned not more than 5 years, or both.
+Whoever, within the United States, falsely or fraudulently holds himself out as or represents or pretends himself to be a member of or an agent for the American National Red Cross for the purpose of soliciting, collecting, or receiving money or material, shall be fined under thistitle or imprisoned not more than 5 years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 743; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title X, §1011(c), Oct. 26, 2001, 115 Stat. 396.)
 
@@ -17,6 +17,8 @@ Reference to offense as a misdemeanor was omitted in view of definitive section 
 Words "upon conviction thereof" were omitted as punishment cannot be imposed until conviction is secured.
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

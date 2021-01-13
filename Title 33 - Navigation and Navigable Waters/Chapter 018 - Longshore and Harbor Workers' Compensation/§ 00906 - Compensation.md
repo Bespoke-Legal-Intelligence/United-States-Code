@@ -18,6 +18,8 @@ Determinations under subsection (b)(3) with respect to a period shall apply to e
 
 (Mar. 4, 1927, ch. 509, §6, 44 Stat. 1426; June 24, 1948, ch. 623, §1, 62 Stat. 602; July 26, 1956, ch. 735, §1, 70 Stat. 654; Pub. L. 87–87, §1, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§4, 5(a), Oct. 27, 1972, 86 Stat. 1252; Pub. L. 98–426, §6, Sept. 28, 1984, 98 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b)(1). Pub. L. 98–426, §6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
@@ -36,6 +38,8 @@ Subsec. (b). Act July 26, 1956, substituted "$54" for "$35", and "$18" for "$12"
 
 <b>1948</b>—Subsec. (b). Act June 24, 1948, increased maximum weekly compensation from $25 to $35 and the minimum from $9 to $12 in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by section 6(a) of Pub. L. 98–426 applicable with respect to any death after Sept. 28, 1984, and amendment by section 6(b) of Pub. L. 98–426 applicable with respect to any injury, disability, or death after Sept. 28, 1984, see section 28(d), (f) of Pub. L. 98–426, set out as a note under section 901 of this title.
@@ -50,7 +54,7 @@ Pub. L. 87–87, §4, July 14, 1961, 75 Stat. 204, provided that: "The amendment
 
 #### Effective Date of 1956 Amendment
 
-Act July 26, 1956, ch. 735, §9, 70 Stat. 656, provided that: "The amendments made by the first section and sections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.)."
+Act July 26, 1956, ch. 735, §9, 70 Stat. 656, provided that: "The amendments made by the first section andsections 2, 4, and 5 of this Act \[amending this section and sections 908, 909, and 914 of this title\] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act \[July 26, 1956\] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.)."
 
 #### Effective Date of 1948 Amendment
 

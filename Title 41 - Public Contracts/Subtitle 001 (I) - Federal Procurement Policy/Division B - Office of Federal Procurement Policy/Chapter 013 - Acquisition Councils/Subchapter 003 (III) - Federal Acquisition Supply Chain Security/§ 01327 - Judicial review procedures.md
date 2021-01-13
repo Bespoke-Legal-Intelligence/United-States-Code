@@ -78,7 +78,7 @@ Exclusive remedy.—A determination by the court under this subsection shall be 
 
 &emsp;&emsp;(D)
 
-Rule of construction.—Nothing in this section shall be construed as limiting,superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
+Rule of construction.—Nothing in this section shall be construed as limiting, superseding, or preventing the invocation of, any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
 
 (c)
 
@@ -94,11 +94,15 @@ Definition.—In this section, the term "classified information"—
 
 (Added Pub. L. 115–390, title II, §202(a), Dec. 21, 2018, 132 Stat. 5185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (b)(4)(B)(iii)(IV), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Classified Information Procedures Act, referred to in subsec. (c)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

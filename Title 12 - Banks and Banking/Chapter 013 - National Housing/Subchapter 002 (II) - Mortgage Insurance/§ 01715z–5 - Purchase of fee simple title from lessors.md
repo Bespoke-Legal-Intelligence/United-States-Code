@@ -8,7 +8,7 @@ The Secretary is authorized, upon such terms and conditions as he may prescribe,
 
 As used in this section—
 
-&emsp;(1) the term "financial institution" means a lender approved by the Secretary as eligible for insurance under section 1703 of this title or a mortgagee approved under section 1709(b)(1) of this title; and
+&emsp;(1) the term "financial institution" means a lender approved by the Secretary as eligiblefor insurance under section 1703 of this title or a mortgagee approved under section 1709(b)(1) of this title; and
 
 &emsp;(2) the term "homeowner" means a lessee under a long-term ground lease.
 
@@ -33,6 +33,8 @@ To be eligible for insurance under this section, a loan shall—
 The provisions of paragraphs (3), (5), (6), (7), (8), and (10) of section 1715k(h) of this title shall be applicable to loans insured under this section and, as applied to loans insured under this section, references in those paragraphs to "home improvement loans" and "this subsection" shall be construed to refer to loans under this section.
 
 (June 27, 1934, ch. 847, title II, §240, as added Pub. L. 90–448, title III, §304(a), Aug. 1, 1968, 82 Stat. 507; amended Pub. L. 95–557, title III, §314, Oct. 31, 1978, 92 Stat. 2099; Pub. L. 96–399, title III, §333(f), Oct. 8, 1980, 94 Stat. 1653; Pub. L. 98–181, title I \[title IV, §404(b)(13)\], Nov. 30, 1983, 97 Stat. 1210; Pub. L. 98–479, title II, §204(a)(10), Oct. 17, 1984, 98 Stat. 2232.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

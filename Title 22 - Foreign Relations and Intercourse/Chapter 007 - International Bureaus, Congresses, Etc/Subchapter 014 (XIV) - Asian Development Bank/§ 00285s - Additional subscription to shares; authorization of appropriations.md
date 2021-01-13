@@ -6,9 +6,13 @@
 
 (Pub. L. 89–369, §22, as added Pub. L. 95–118, title V, §501, Oct. 3, 1977, 91 Stat. 1068; amended Pub. L. 97–35, title XIII, §1353, Aug. 13, 1981, 95 Stat. 745.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "effective only to such extent or in such amounts as are provided in advance in appropriation Acts" for "made only after the amount required for such subscription has been appropriated".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

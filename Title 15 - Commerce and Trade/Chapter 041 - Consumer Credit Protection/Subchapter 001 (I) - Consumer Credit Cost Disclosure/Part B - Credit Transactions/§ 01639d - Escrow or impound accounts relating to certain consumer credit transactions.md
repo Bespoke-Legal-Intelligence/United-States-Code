@@ -176,7 +176,7 @@ Subsec. (i)(3), (4). Pub. L. 115–174, §108(2), added pars. (3) and (4).
 
 <b>2015</b>—Subsec. (c)(1). Pub. L. 114–94 struck out "predominantly" after "operates".
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing in Pub. L. 90–321, was executed to this section, which wasadded to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), which directed substitution of "Bureau" for "Board" wherever appearing in Pub. L. 90–321, was executed to this section, which was added to Pub. L. 90–321 by section 1461(a) of Pub. L. 111–203.
 
 Subsec. (j). Pub. L. 111–203, §1462, added subsec. (j).
 

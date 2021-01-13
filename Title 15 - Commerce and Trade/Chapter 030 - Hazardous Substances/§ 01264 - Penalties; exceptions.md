@@ -22,7 +22,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 (4) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the persons charged, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including,<sup>1</sup> the nature of the substance involved, the severity of the risk of injury, the occurrence or absence of injury, and the amount of the substance distributed, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
-(5) As used in the first sentence of paragraph (1), the term "knowingly" means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
+(5) As used in the first sentence of paragraph (1), the term "knowingly" means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exerciseof due care to ascertain the truth of representations.
 
 (6)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
 

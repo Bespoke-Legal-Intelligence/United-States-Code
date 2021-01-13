@@ -44,7 +44,7 @@
 
 #### (ii) Certification deemed valid
 
-&emsp;&emsp;&emsp;If, in the case of any credit union to which clause (i) applies, the appropriate supervisor of the State in which such credit union is chartered fails to make a determination pursuant to such clause by the end of the 6-month period beginning on the date of the application, the credit union shall be deemed to have met the requirements of clause (i).
+&emsp;&emsp;&emsp;If, in the case of any credit union to which clause (i) applies, the appropriatesupervisor of the State in which such credit union is chartered fails to make a determination pursuant to such clause by the end of the 6-month period beginning on the date of the application, the credit union shall be deemed to have met the requirements of clause (i).
 
 #### (C) Security interests of Federal home loan bank not avoidable
 
@@ -72,6 +72,8 @@ Notwithstanding the provisions of clause (2) of subsection (a) of this section r
 
 (July 22, 1932, ch. 522, §4, 47 Stat. 726; June 13, 1933, ch. 64, §3, 48 Stat. 129; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, §605, Nov. 12, 1999, 113 Stat. 1452; Pub. L. 110–289, div. A, title II, §§1204(8), 1206, July 30, 2008, 122 Stat. 2786, 2787; Pub. L. 114–94, div. G, title LXXXII, §82001(a), Dec. 4, 2015, 129 Stat. 1795.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Community Development Banking and Financial Institutions Act of 1994, referred to in subsec. (a)(1)(B), is subtitle A (§§101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, which is classified principally to subchapter I (§4701 et seq.) of chapter 47 of this title. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of this title and Tables.
@@ -84,7 +86,7 @@ Section 461 of this title, referred to in subsec. (a)(1)(C), was in the original
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1206(1), which directed insertion of "community development financial institution," after "savings bank,", was executed by making the insertion after "savings bank," the first time appearing.
 
-Subsec. (a)(1)(B). Pub. L. 110–289, §1206(2), which directed insertion of "or, in the case of a community development financial institution, is certified as a community development financial institution under theCommunity Development Banking and Financial Institutions Act of 1994." after "United States,", was executed by making the insertion after "United States" to reflect the probable intent of Congress.
+Subsec. (a)(1)(B). Pub. L. 110–289, §1206(2), which directed insertion of "or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994." after "United States,", was executed by making the insertion after "United States" to reflect the probable intent of Congress.
 
 Subsecs. (a)(1)(C), (3), (b), (c). Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board" wherever appearing.
 

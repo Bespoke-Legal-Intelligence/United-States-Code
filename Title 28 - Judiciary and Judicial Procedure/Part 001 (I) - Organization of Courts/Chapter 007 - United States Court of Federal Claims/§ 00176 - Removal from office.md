@@ -8,9 +8,13 @@
 
 (Added Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsecs. (a), (c). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

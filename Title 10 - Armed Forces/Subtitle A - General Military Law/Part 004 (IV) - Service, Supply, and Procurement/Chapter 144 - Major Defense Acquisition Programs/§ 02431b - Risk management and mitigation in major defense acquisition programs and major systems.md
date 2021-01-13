@@ -4,7 +4,7 @@
 
 Requirement.—The Secretary of Defense shall ensure that the initial acquisition strategy (required under section 2431a of this title) approved by the milestone decision authority and any subsequent revisions include the following:
 
-&emsp;(1) A comprehensive approach for managing and mitigating risk (including technical, cost,and schedule risk) during each of the following periods or when determined appropriate by the milestone decision authority:
+&emsp;(1) A comprehensive approach for managing and mitigating risk (including technical, cost, and schedule risk) during each of the following periods or when determined appropriate by the milestone decision authority:
 
 &emsp;&emsp;(A) The period preceding engineering manufacturing development, or its equivalent.
 
@@ -58,7 +58,15 @@ Major defense acquisition program and major system.—The terms "major defense a
 
 (Added Pub. L. 114–92, div. A, title VIII, §822(a)(1), Nov. 25, 2015, 129 Stat. 900; amended Pub. L. 114–328, div. A, title X, §1081(a)(7), Dec. 23, 2016, 130 Stat. 2417.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(b)(3), Jan. 1, 2021, 134 Stat. 4151, 4254, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after section 4211, and redesignated as section 4212 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–328 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms "major defense acquisition program" and "major system".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

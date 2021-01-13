@@ -58,7 +58,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 &emsp;(11) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
 
-&emsp;(12) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department—
+&emsp;(12) To ensure, in conjunction with the chief information officer of the Department, thatany information databases and analytical tools developed or utilized by the Department—
 
 &emsp;&emsp;(A) are compatible with one another and with relevant information databases of other agencies of the Federal Government; and
 
@@ -130,7 +130,7 @@ The responsibilities of the Secretary relating to intelligence and analysis shal
 
 #### (1) In general
 
-&emsp;In order to assist the Office of Intelligence and Analysis in discharging responsibilities under this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
+&emsp;In order to assist the Office of Intelligence and Analysis in discharging responsibilitiesunder this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
 
 #### (2) Covered agencies
 
@@ -173,6 +173,8 @@ In accordance with subchapter XII, there shall be transferred to the Secretary, 
 &emsp;(5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
 (Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 110–53, title V, §§501(a)(2)(A), (b), 531(a), title X, §1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub. L. 110–417, \[div. A\], title IX, §931(b)(5), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–84, div. A, title X, §1073(c)(9), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 111–258, §5(b)(1), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 114–328, div. A, title XIX, §1913(a)(2), Dec. 23, 2016, 130 Stat. 2685; Pub. L. 115–278, §2(g)(2)(C), Nov. 16, 2018, 132 Stat. 4177.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -280,15 +282,33 @@ Subsec. (f)(1). Pub. L. 110–53, §531(a)(5), substituted "Office of Intelligen
 
 Subsec. (g). Pub. L. 110–53, §531(a)(6), substituted "Office of Intelligence and Analysis and the Office of Infrastructure Protection" for "Under Secretary for Information Analysis and Infrastructure Protection" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment by section 1073(c)(9) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Regulations
 
-Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
+Pub. L. 109–295, title V, §550, Oct. 4, 2006, 120 Stat. 1388, as amended by Pub. L. 110–161, div. E, title V, §534, Dec. 26, 2007, 121 Stat. 2075; Pub. L. 111–83, title V, §550,Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–10, div. B, title VI, §1650, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §540, Dec. 23, 2011, 125 Stat. 976; Pub. L. 113–6, div. D, title V, §537, Mar. 26, 2013, 127 Stat. 373; Pub. L. 113–76, div. F, title V, §536, Jan. 17, 2014, 128 Stat. 275, required interim final regulations establishing risk-based performance standards for security of chemical facilities and requiring vulnerability assessments and the development and implementation of site security plans for chemical facilities, prior to repeal by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919. See section 627 of this title.
 
-\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254,set out as an Effective and Termination Dates note under section 621 of this title.\]
+\[Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919, provided that the repeal of section 550 of Pub. L. 109–295, formerly set out above, is effective as of the effective date of Pub. L. 113–254, which is the date that is 30 days after Dec. 18, 2014. See section 4(a) of Pub. L. 113–254, set out as an Effective and Termination Dates note under section 621 of this title.\]
+
+#### DHS Component Usage of the Homeland Security Information Network
+
+Pub. L. 116–116, §4, Mar. 2, 2020, 134 Stat. 111, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Mar. 2, 2020\], the Chief Information Officer, in consultation with the Under Secretary for Intelligence and Analysis, and in accordance with the functions and responsibilities assigned to the Under Secretary under title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.), shall—
+
+&emsp;"(1) develop policies and metrics to ensure effective use by components of the Department of the unclassified Homeland Security Information Network (referred to in this section as 'HSIN'), or any successor system; and
+
+&emsp;"(2) develop policies for posting unclassified products on HSIN, or any successor system.
+
+"(b)
+
+Technical Enhancements.—The Chief Information Officer, in consultation with the Chief Intelligence Officer, shall assess and implement, as appropriate, technical enhancements to HSIN to improve usability, including search functionality, data analysis, and collaboration capabilities."
 
 #### Deadline for Initial Recommended Strategy
 
@@ -341,6 +361,8 @@ Duties.—As head of the designated Sector-Specific Agency for cybersecurity, th
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(ee) providing, supporting, or facilitating technical assistance and consultations for the energy sector to identify vulnerabilities and help mitigate incidents, as appropriate; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(ff) supporting the reporting requirements of the Department of Homeland Security under applicable law by providing, on an annual basis, sector-specific critical electric infrastructure information."
+
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
 
 #### Cybersecurity Collaboration Between the Department of Defense and the Department of Homeland Security
 
@@ -430,6 +452,8 @@ Demonstration Project Required.—Not later than 120 days after the date of enac
 
 Security Management System Defined.—In this section, the term 'security management system' means a set of guidelines that address the security assessment needs of critical infrastructure and key resources that are consistent with a set of generally accepted management standards ratified and adopted by a standards making body."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
 
 Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, as amended by Ex. Ord. No. 13284, §2, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §7, Feb. 28, 2003, 68 F.R. 10620; Ex. Ord. No. 13385, §5, Sept. 29, 2005, 70 F.R. 57990; Ex. Ord. No. 13652, §6, Sept. 30, 2013, 78 F.R. 61818, provided:
@@ -450,7 +474,7 @@ Sec. 2. <i>Continuing Authorities</i>. This order does not alter the existing au
 
 &emsp;(iii) National Security Systems. The National Security Telecommunications and Information Systems Security Committee, as established by and consistent with NSD–42 and chaired by the Department of Defense, shall be designated as the "Committee on National Security Systems."
 
-(c) Additional Responsibilities. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of such departments and agencies shall ensure the development and, within available appropriations, funding of programs that adequately address these mission systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
+(c) Additional Responsibilities. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of such departments and agencies shall ensure the developmentand, within available appropriations, funding of programs that adequately address these mission systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
 
 Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infrastructure Advisory Council (NIAC), established on October 16, 2001, shall provide the President, through the Secretary of Homeland Security, with advice on the security and resilience of the critical infrastructure sectors and their functional systems, physical assets, and cyber networks.
 
@@ -526,7 +550,7 @@ Section 1. \[Amended Ex. Ord. No. 13234.\]
 
 Sec. 2. \[Amended Ex. Ord. No. 13231, set out above.\]
 
-Sec. 3. Executive Order 13228 of October 8, 2001 ("Establishing the Office of Homeland Security and the Homeland Security Council") \[50 U.S.C. 3021 note\], is amended by inserting "the Secretary of Homeland Security," after "the Secretary of Transportation," in section 5(b). Further, during the period from January 24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinating the domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
+Sec. 3. Executive Order 13228 of October 8, 2001 ("Establishing the Office of Homeland Security and the Homeland Security Council") \[50 U.S.C. 3021 note\], is amended by inserting "the Secretary of Homeland Security," after "the Secretary of Transportation," in section 5(b). Further, during the period from January 24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinatingthe domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
 
 Sec. 4. \[Amended Ex. Ord. No. 13224, listed in a table under section 1701 of Title 50, War and National Defense.\]
 
@@ -592,7 +616,7 @@ Sec. 3. <i>Policy Coordination</i>. Policy coordination, guidance, dispute resol
 
 Sec. 4. <i>Cybersecurity Information Sharing</i>. (a) It is the policy of the United States Government to increase the volume, timeliness, and quality of cyber threat information shared with U.S. private sector entities so that these entities may better protect and defend themselves against cyber threats. Within 120 days of the date of this order, the Attorney General, the Secretary of Homeland Security (the "Secretary"), and the Director of National Intelligence shall each issue instructions consistent with their authorities and with the requirements of section 12(c) of this order to ensure the timely production of unclassified reports of cyber threats to the U.S. homeland that identify a specific targeted entity. The instructions shall address the need to protect intelligence and law enforcement sources, methods, operations, and investigations.
 
-(b) The Secretary and the Attorney General, in coordination with the Director of National Intelligence, shall establish a process that rapidly disseminates the reports produced pursuant to section 4(a) of this order to the targeted entity. Such process shall also, consistent with the need to protect national security information, include the dissemination of classified reports to critical infrastructure entities authorized to receive them. The Secretary and the Attorney General, in coordination with the Director of National Intelligence, shall establish a system for tracking the production, dissemination, and disposition of these reports.
+(b) The Secretary and the Attorney General, in coordination with the Director of National Intelligence,shall establish a process that rapidly disseminates the reports produced pursuant to section 4(a) of this order to the targeted entity. Such process shall also, consistent with the need to protect national security information, include the dissemination of classified reports to critical infrastructure entities authorized to receive them. The Secretary and the Attorney General, in coordination with the Director of National Intelligence, shall establish a system for tracking the production, dissemination, and disposition of these reports.
 
 (c) To assist the owners and operators of critical infrastructure in protecting their systems from unauthorized access, exploitation, or harm, the Secretary, consistent with \[former\] 6 U.S.C. 143 \[now 6 U.S.C. 655\] and in collaboration with the Secretary of Defense, shall, within 120 days of the date of this order, establish procedures to expand the Enhanced Cybersecurity Services program to all critical infrastructure sectors. This voluntary information sharing program will provide classified cyber threat and technical information from the Government to eligible critical infrastructure companies or commercial service providers that offer security services to critical infrastructure.
 
@@ -618,7 +642,7 @@ Sec. 7. <i>Baseline Framework to Reduce Cyber Risk to Critical Infrastructure</i
 
 (d) In developing the Cybersecurity Framework, the Director shall engage in an open public review and comment process. The Director shall also consult with the Secretary, the National Security Agency, Sector-Specific Agencies and other interested agencies including OMB, owners and operators of critical infrastructure, and other stakeholders through the consultative process established in section 6 of this order. The Secretary, the Director of National Intelligence, and the heads of other relevant agencies shall provide threat and vulnerability information and technical expertise to inform the development of the Cybersecurity Framework. The Secretary shall provide performance goals for the Cybersecurity Framework informed by work under section 9 of this order.
 
-(e) Within 240 days of the date of this order, the Director shall publish a preliminary version of the Cybersecurity Framework (the "preliminary Framework"). Within 1 year of the date of this order, and after coordination with the Secretary to ensure suitability under section 8 of this order, the Director shall publish a final version of the Cybersecurity Framework (the "final Framework").
+(e) Within 240 days of the date of this order, the Director shall publish a preliminary version of the Cybersecurity Framework (the "preliminary Framework"). Within 1 year of the date of this order, and after coordination with the Secretary to ensure suitability under section 8 of this order, the Director shallpublish a final version of the Cybersecurity Framework (the "final Framework").
 
 (f) Consistent with statutory responsibilities, the Director will ensure the Cybersecurity Framework and related guidance is reviewed and updated as necessary, taking into consideration technological changes, changes in cyber risks, operational feedback from owners and operators of critical infrastructure, experience from the implementation of section 8 of this order, and any other relevant factors.
 
@@ -674,6 +698,8 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.\]
 
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
+
 #### Executive Order No. 13650
 
 Ex. Ord. No. 13650, Aug. 1, 2013, 78 F.R. 48029, was transferred to a note set out under section 621 of this title.
@@ -706,7 +732,7 @@ Sec. 3. <i>ISAO Standards Organization</i>. (a) The Secretary, in consultation w
 
 (b) To be selected, the SO must demonstrate the ability to engage and work across the broad community of organizations engaged in sharing information related to cybersecurity risks and incidents, including ISAOs, and associations and private companies engaged in information sharing in support of their customers.
 
-(c) The agreement referenced in section 3(a) shall require that the SO engage in an open public review and comment process for the development of the standards referenced above, soliciting the viewpoints of existing entities engaged in sharing information related to cybersecurity risks and incidents, owners and operators of critical infrastructure, relevant agencies, and other public and private sector stakeholders.
+(c) The agreement referenced in section 3(a) shall require that the SO engage in an open public review and comment process for the development of the standards referenced above, soliciting the viewpoints of existing entities engaged in sharing information related tocybersecurity risks and incidents, owners and operators of critical infrastructure, relevant agencies, and other public and private sector stakeholders.
 
 (d) The Secretary shall support the development of these standards and, in carrying out the requirements set forth in this section, shall consult with the Office of Management and Budget, the National Institute of Standards and Technology in the Department of Commerce, Department of Justice, the Information Security Oversight Office in the National Archives and Records Administration, the Office of the Director of National Intelligence, Sector-Specific Agencies, and other interested Federal entities. All standards shall be consistent with voluntary international standards when such international standards will advance the objectives of this order, and shall meet the requirements of the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), and OMB Circular A–119, as revised.
 
@@ -718,7 +744,7 @@ Sec. 4. <i>Critical Infrastructure Protection Program</i>. (a) Pursuant to secti
 
 Sec. 5. <i>Privacy and Civil Liberties Protections</i>. (a) Agencies shall coordinate their activities under this order with their senior agency officials for privacy and civil liberties and ensure that appropriate protections for privacy and civil liberties are incorporated into such activities. Such protections shall be based upon the Fair Information Practice Principles and other privacy and civil liberties policies, principles, and frameworks as they apply to each agency's activities.
 
-(b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency's activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHSOffice for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
+(b) Senior privacy and civil liberties officials for agencies engaged in activities under this order shall conduct assessments of their agency's activities and provide those assessments to the Department of Homeland Security (DHS) Chief Privacy Officer and the DHS Office for Civil Rights and Civil Liberties for consideration and inclusion in the Privacy and Civil Liberties Assessment report required under Executive Order 13636.
 
 Sec. 6. <i>National Industrial Security Program</i>. \[Amended Ex. Ord. No. 12829, set out as a note under section 3161 of Title 50, War and National Defense.\]
 
@@ -749,6 +775,8 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

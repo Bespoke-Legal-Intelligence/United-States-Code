@@ -6,6 +6,8 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 389.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 512 was renumbered section 1512 of this title.

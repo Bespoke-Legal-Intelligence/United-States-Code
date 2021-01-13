@@ -38,11 +38,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 8338(a) for consistency within the subchapter and to reflect that it is the individual, rather than the position, that is subject to the subchapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals".
 
 <b>1983</b>—Subsecs. (c), (d). Pub. L. 98–94 added subsec. (c), and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provisions Deferred Annuities Under Laws Repealed by Pub. L. 90–83
 

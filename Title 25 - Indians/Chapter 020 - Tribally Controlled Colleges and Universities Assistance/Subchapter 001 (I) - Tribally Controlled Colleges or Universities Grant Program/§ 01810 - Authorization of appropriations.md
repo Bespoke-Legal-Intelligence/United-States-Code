@@ -14,6 +14,8 @@
 
 (Pub. L. 95–471, title I, §110, formerly §109, Oct. 17, 1978, 92 Stat. 1328; renumbered §110 and amended Pub. L. 98–192, §§4(a)(1), 9, Dec. 1, 1983, 97 Stat. 1336, 1337; Pub. L. 99–428, §2(a), Sept. 30, 1986, 100 Stat. 982; Pub. L. 101–477, §1(b), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 102–325, title XIII, §1301(a), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §901(a)(2)(A), (b)(11), Oct. 7, 1998, 112 Stat. 1827, 1828; Pub. L. 110–315, title IX, §941(g), Aug. 14, 2008, 122 Stat. 3462.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §941(g)(1), (2), substituted "2009" for "1999" and "five succeeding" for "4 succeeding".
@@ -34,7 +36,7 @@ Subsec. (a)(4). Pub. L. 105–244, §901(a)(2)(A)(iv), (b)(11), substituted "199
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325 amended subsec. (a) generally, in pars. (1) to (3) substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1990 to 1992 and adding par. (4).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–477, §1(b)(1), substituted "1990 and 1991, and for fiscal year 1992, such sums as may be necessary" for "1987, 1988, 1989, and 1990".
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–477, §1(b)(1), substituted "1990 and 1991, and for fiscal year 1992, suchsums as may be necessary" for "1987, 1988, 1989, and 1990".
 
 Subsec. (a)(2). Pub. L. 101–477, §1(b)(2), substituted "1990 and 1991, and for fiscal year 1992, such sums as may be necessary" for "1987, 1988, 1989, and 1990".
 
@@ -49,6 +51,8 @@ Subsec. (a)(2), (3). Pub. L. 99–428, §2(a)(2), substituted "the fiscal years 
 Subsec. (b). Pub. L. 98–192, §9, amended subsec. (b) generally, substituting provision relating to affording adequate notice of funding available under this chapter and directing two separate appropriations in order to effect a transition to the forward funding method of timing appropriation action for provision directing that, unless otherwise provided, funds appropriated under this section remain available until expended.
 
 Subsec. (c). Pub. L. 98–192, §9, struck out subsec. (c) which provided that nothing in this chapter be deemed to authorize appropriations for fiscal year beginning Oct. 1, 1978.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -4,7 +4,7 @@
 
 Not later than 2 years after July 29, 2016, the Secretary shall—
 
-&emsp;(1) establish a national mandatory bioengineered food disclosure standard with respect to any bioengineered food and any food that may be bioengineered; and
+&emsp;(1) establish a national mandatory bioengineered food disclosure standard with respectto any bioengineered food and any food that may be bioengineered; and
 
 &emsp;(2) establish such requirements and procedures as the Secretary determines necessary to carry out the standard.
 
@@ -86,7 +86,7 @@ In promulgating regulations under this section, the Secretary shall ensure that�
 
 &emsp;&emsp;(B) any telephone number disclosure, indicating that the telephone number will provide access to additional information by stating only "Call for more food information.";
 
-&emsp;(2) the electronic or digital link will provide access to the bioengineering disclosure located, in a consistent and conspicuous manner, on the first product information page that appears for the product on a mobile device, Internet website, or other landing page, which shall exclude marketing and promotional information;
+&emsp;(2) the electronic or digital link will provide access to the bioengineering disclosure located, in a consistent and conspicuous manner, on the first product information page that appears for the product on a mobile device, Internet website, or other landing page, whichshall exclude marketing and promotional information;
 
 &emsp;(3)(A) the electronic or digital link disclosure may not collect, analyze, or sell any personally identifiable information about consumers or the devices of consumers; but
 
@@ -140,5 +140,5 @@ The Secretary shall consider establishing consistency between—
 
 #### References in Text
 
-The Organic Foods Production Act of 1990, referred to in subsec. (f)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (f)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 

@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;&emsp;(B) In the case of members of the Navy, Recruit Training (or Boot Camp) and Skill Training (or so-called "A" School).
 
-&emsp;&emsp;(C) In the case of members of the Air Force, Basic Military Training and Technical Training.
+&emsp;&emsp;(C) In the case of members of the Air Force or the Space Force, Basic Military Training and Technical Training.
 
 &emsp;&emsp;(D) In the case of members of the Marine Corps, Recruit Training and Marine Corps Training (or School of Infantry Training).
 
@@ -30,13 +30,17 @@ In this chapter:
 
 &emsp;(4) The term "Secretary of Defense" means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 115–48, title I, §101(a), title IV, §401(a), Aug. 16, 2017, 131 Stat. 974, 995.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 115–48, title I, §101(a), title IV, §401(a), Aug. 16, 2017, 131 Stat. 974, 995; Pub. L. 116–283, div. A, title IX, §926(g), Jan. 1, 2021, 134 Stat. 3831.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 712 of title 14, referred to in par. (1)(B), was redesignated section 3713 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 712 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
+
+<b>2021</b>—Par. (2)(C). Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
 
 <b>2017</b>—Par. (1)(B). Pub. L. 115–48, §401(a), substituted "12304, 12304a, or 12304b" for "or 12304".
 
@@ -49,6 +53,8 @@ Pub. L. 115–48, §101(a), inserted "12301(h)," after "12301(g),".
 Par. (2)(A). Pub. L. 111–377, §101(a)(2), inserted "or One Station Unit Training" before period at end.
 
 Par. (2)(E). Pub. L. 111–377, §101(a)(3), inserted "and Skill Training (or so-called 'A' School)" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -130,7 +136,9 @@ Pub. L. 110–252, title V, §5002, June 30, 2008, 122 Stat. 2357, provided that
 
 #### Applicability to Individuals Under Montgomery GI Bill Program
 
-Pub. L. 110–252, title V, §5003(c), June 30, 2008, 122 Stat. 2375, which related to applicability of Post-9/11Educational Assistance program to individuals entitled to education assistance under chapter 33 of this title, was repealed by Pub. L. 114–315, title IV, §405(c), Dec. 16, 2016, 130 Stat. 1558. See section 3327 of this title.
+Pub. L. 110–252, title V, §5003(c), June 30, 2008, 122 Stat. 2375, which related to applicability of Post-9/11 Educational Assistance program to individuals entitled to education assistance under chapter 33 of this title, was repealed by Pub. L. 114–315, title IV, §405(c), Dec. 16, 2016, 130 Stat. 1558. See section 3327 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13607. Establishing Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members
 
@@ -140,7 +148,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The original GI Bill, approved just weeks after D-Day, educated nearly 8 million Americans and helped transform this Nation. We owe the same obligations to this generation of service men and women as was afforded that previous one. This is the promise of the Post-9/11 Veterans Educational Assistance Act of 2008 (title V, Public Law 110–252) (Post-9/11 GI Bill) and the continued provision of educational benefits in the Department of Defense's Tuition Assistance Program (10 U.S.C. 2007): to provide our service members, veterans, spouses, and other family members the opportunity to pursue a high-quality education and gain the skills and training they need to fill the jobs of tomorrow.
 
-Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
+Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potentialstudents to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
@@ -168,7 +176,7 @@ Sec. 3. <i>Implementation of the Principles of Excellence</i>.
 
 (a) The Departments of Defense and Veterans Affairs shall reflect the Principles described in section 2 of this order in new agreements with educational institutions, to the extent practicable and permitted by law, concerning participation in the Yellow Ribbon Program for veterans under the Post-9/11 GI Bill or the Tuition Assistance Program for active duty service members. The Department of Veterans Affairs shall also notify all institutions participating in the Post-9/11 GI Bill program that they are strongly encouraged to comply with the Principles and shall post on the Department's website those that do.
 
-(b) The Secretaries of Defense, Veterans Affairs, and Education, in consultation with the Director of the Bureau of Consumer Financial Protection (CFPB) and the Attorney General, shall take immediate action to implement this order, and, within 90 days from the date ofthis order, report to the President their progress on implementation, including promptly revising regulations, Department of Defense Instructions, guidance documents, Memoranda of Understanding, and other policies governing programs authorized or funded by the Post-9/11 GI Bill and the Tuition Assistance Program to implement the Principles, to the extent permitted by law.
+(b) The Secretaries of Defense, Veterans Affairs, and Education, in consultation with the Director of the Bureau of Consumer Financial Protection (CFPB) and the Attorney General, shall take immediate action to implement this order, and, within 90 days from the date of this order, report to the President their progress on implementation, including promptly revising regulations, Department of Defense Instructions, guidance documents, Memoranda of Understanding, and other policies governing programs authorized or funded by the Post-9/11 GI Bill and the Tuition Assistance Program to implement the Principles, to the extent permitted by law.
 
 (c) The Secretaries of Defense, Veterans Affairs, and Education shall develop a comprehensive strategy for developing service member and veteran student outcome measures that are comparable, to the maximum extent practicable, across Federal military and veterans educational benefit programs, including, but not limited to, the Post-9/11 GI Bill and the Tuition Assistance Program. To the extent practicable, the student outcome measures should rely on existing administrative data to minimize the reporting burden on institutions participating in these benefit programs. The student outcome measures should permit comparisons across Federal educational programs and across institutions and types of institutions. The Secretary of Education, in consultation with the Secretaries of Defense and Veterans Affairs, shall also collect from educational institutions, as part of the Integrated Postsecondary Education Data System and other data collection systems, information on the amount of funding received pursuant to the Post-9/11 GI Bill and the Tuition Assistance Program. The Secretary of Education shall make this information publicly available on the College Navigator Website.
 

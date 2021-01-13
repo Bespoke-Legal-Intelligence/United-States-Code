@@ -110,7 +110,7 @@ Sec. 2. To allow for the orderly administration of personnel within the armed fo
 
 Sec. 3. To allow for the orderly administration of personnel within the armed forces, the authorities vested in the President by sections 331, 359, and 367 \[now 2127, 2308, and 2314\] of title 14, United States Code, relating to the authority to order to active duty certain officers and enlisted members of the Coast Guard and to detain enlisted members, are invoked to the full extent provided by the terms thereof.
 
-Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
+Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, orother action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
 
 Sec. 5. The Secretary of Homeland Security is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in sections 331, 359, and 367 \[now 2127, 2308, and 2314\] of title 14, United States Code, when the Coast Guard is not serving as part of the Navy, as invoked by section 2 of this order, to recall any regular officer or enlisted member on the retired list to active duty and to detain any enlisted member beyond the term of his or her enlistment. The Secretary of Homeland Security is further designated and empowered, without the approval, ratification or any other action by the President, to exercise the authority vested in the President by sections 123 and 123a of title 10, United States Code, and sections 149 \[now 710\] (detail members to assist foreign governments), 275(a) \[now 2125(a)\] (suspension of provisions on selection, promotion, or involuntary separation of officers), and 722 \[now 3733\] (administration of reserve forces) of title 14, United States Code, as invoked by section 2 of Executive Order 13223.
 
@@ -121,4 +121,24 @@ Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary
 Sec. 8. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 Sec. 9. This order is effective immediately and shall be promptly transmitted to the Congress and published in the Federal Register.
+
+#### Ex. Ord. No. 13912. National Emergency Authority To Order the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty
+
+Ex. Ord. No. 13912, Mar. 27, 2020, 85 F.R. 18407, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 et seq.), and in furtherance of Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], which declared a national emergency by reason of the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation's healthcare systems, I hereby order as follows:
+
+Section 1. <i>Emergency Authority</i>. To provide additional authority to the Secretaries of Defense and Homeland Security to respond to the national emergency declared by Proclamation 9994, the authorities under section 12302 of title 10, United States Code, and sections 2127, 2308, 2314, and 3735 of title 14, United States Code, are invoked and made available, according to their terms, to the Secretaries of Defense and Homeland Security. The Secretaries of the Army, Navy, and Air Force, at the direction of the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to order to active duty not to exceed 24 consecutive months, such units, and individual members of the Ready Reserve under the jurisdiction of the Secretary concerned, not to exceed 1,000,000 members on active duty at any one time, as the Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security consider necessary. The Secretary of Defense or the Secretary of Homeland Security, as applicable, will ensure appropriate consultation is undertaken with relevant state officials with respect to the utilization of National Guard Reserve Component units activated under this authority.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

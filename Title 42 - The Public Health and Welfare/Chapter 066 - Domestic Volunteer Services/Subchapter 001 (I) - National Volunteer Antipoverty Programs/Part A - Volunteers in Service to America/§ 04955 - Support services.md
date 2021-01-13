@@ -20,7 +20,7 @@
 
 &emsp;(B) the average subsistence allowance, excluding allowances for Hawaii, Guam, American Samoa, and Alaska, is no less than 105 percent of such poverty line.
 
-(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the national average to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
+(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the nationalaverage to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
 
 #### (c) Child care
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Additional Appropriations Authorization
 
-Pub. L. 94–130, §5(b), Nov. 14, 1975, 89 Stat. 684, as amended by Pub. L. 96–143, §17, Dec. 13, 1979, 93 Stat. 1082, provided that: "There are authorized to be appropriated, in addition to the sums authorized to be appropriated pursuant to section 501 of such Act \[section 5081 of this title\], such additional sums as may be necessary to carry out the amendments made by subsection (a) of this section \[amending this section\]."
+Pub. L. 94–130, §5(b), Nov. 14, 1975, 89 Stat. 684, as amended by Pub. L. 96–143, §17, Dec. 13, 1979, 93 Stat. 1082, authorized additional appropriations, beyond those authorized pursuant to section 5081 of this title, to carry out the amendment made to this section by section 5(a) of Pub. L. 94–130.
 

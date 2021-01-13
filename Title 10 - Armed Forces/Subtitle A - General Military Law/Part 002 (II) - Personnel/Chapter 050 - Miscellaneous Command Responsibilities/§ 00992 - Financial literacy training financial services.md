@@ -80,7 +80,7 @@ Counseling for Members and Spouses.—(1) The Secretary concerned shall, upon re
 
 (c)
 
-Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group LifeInsurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
+Life Insurance.—In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers' Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
 (d)
 
@@ -192,7 +192,7 @@ Table of Contents.—\[Omitted\]
 
 &emsp;"(4) one securities product offered to service members, known as the 'mutual fund contractual plan', largely disappeared from the civilian market in the 1980s, due to excessive sales charges;
 
-&emsp;"(5) with respect to a mutual fund contractual plan, a 50 percent sales commission is assessed against thefirst year of contributions, despite an average commission on other securities products of less than 6 percent on each sale;
+&emsp;"(5) with respect to a mutual fund contractual plan, a 50 percent sales commission is assessed against the first year of contributions, despite an average commission on other securities products of less than 6 percent on each sale;
 
 &emsp;"(6) excessive sales charges allow abusive and misleading sales practices in connection with mutual fund contractual plan;
 
@@ -420,7 +420,7 @@ Establishment.—The Secretary of Defense shall maintain a list of the name, add
 
 Notice and Access.—The Secretary of Defense shall ensure that—
 
-&emsp;"(1) the appropriate Federal and State agencies responsible for securities and insurance regulation are promptly notified upon the inclusion in or removal from the list required by subsection (a) of a person under the jurisdiction of one or more of such agencies; and
+&emsp;"(1) the appropriate Federal and State agencies responsible for securities and insurance regulation arepromptly notified upon the inclusion in or removal from the list required by subsection (a) of a person under the jurisdiction of one or more of such agencies; and
 
 &emsp;"(2) the list is kept current and easily accessible—
 

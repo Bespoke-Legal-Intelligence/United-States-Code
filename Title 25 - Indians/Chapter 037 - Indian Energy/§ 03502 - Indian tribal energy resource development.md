@@ -34,7 +34,7 @@ In general.—In carrying out the program established by paragraph (1), the Secr
 
 &emsp;&emsp;(i) plans for electrification;
 
-&emsp;&emsp;(ii) plans for oil and gas permitting, renewable energy permitting, energy efficiency, electricity generation, transmission planning, water planning, and other planning relating to energy issues;
+&emsp;&emsp;(ii) plans for oil and gas permitting, renewable energy permitting, energy efficiency,electricity generation, transmission planning, water planning, and other planning relating to energy issues;
 
 &emsp;&emsp;(iii) plans for the development of energy resources and to ensure the protection of natural, historic, and cultural resources; and
 
@@ -88,9 +88,13 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
+(D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+
+(E) Section 16352 of title 42 shall not apply to assistance provided under this subsection.
+
 (6) The Secretary of Energy may issue such regulations as the Secretary determines to be necessary to carry out this subsection.
 
-(7) There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2006 through 2016.
+(7) There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2021 through 2025.
 
 #### (c) Department of Energy loan guarantee program
 
@@ -106,7 +110,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 &emsp;(C) a tribal energy development organization, from funds of the tribal energy development organization.
 
-(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $2,000,000,000.
+(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any timeunder this subsection shall not exceed $2,000,000,000.
 
 (5) Not later than 1 year after December 18, 2018, the Secretary of Energy shall issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
 
@@ -124,7 +128,9 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 &emsp;(B) obtain less than prevailing market terms and conditions.
 
-(Pub. L. 102–486, title XXVI, §2602, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456.)
+(Pub. L. 102–486, title XXVI, §2602, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456; Pub. L. 116–260, div. Z, title VIII, §8013(b), (c), Dec. 27, 2020, 134 Stat. 2592, 2593.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -135,6 +141,10 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original "the date of 
 A prior section 3502, Pub. L. 102–486, title XXVI, §2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(5)(D), (E). Pub. L. 116–260, §8013(b), added subpars. (D) and (E).
+
+Subsec. (b)(7). Pub. L. 116–260, §8013(c), substituted "$30,000,000 for each of fiscal years 2021 through 2025" for "$20,000,000 for each of fiscal years 2006 through 2016".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–325, §105(b)(1)(A), substituted "tribal energy development organizations" for "tribal energy resource development organizations".
 

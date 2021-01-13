@@ -130,7 +130,7 @@ Subsec. (b)(3). Pub. L. 115–254, §160(a)(4), substituted "If the Secretary gr
 
 Subsec. (d). Pub. L. 115–254, §160(a)(5), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to participation of general aviation airports and large hub airports.
 
-Subsecs. (l), (m). Pub. L. 115–254, §160(a)(6), added subsec. (l) and struck out former subsecs. (l) and (m) which related to report on implementation of the pilot program and defined "general aviation airport", respectively.
+Subsecs. (l), (m). Pub. L. 115–254, §160(a)(6), added subsec. (l) and struck out former subsecs. (l) and (m) whichrelated to report on implementation of the pilot program and defined "general aviation airport", respectively.
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–95, §156, substituted "10 airports" for "5 airports" in introductory provisions.
 

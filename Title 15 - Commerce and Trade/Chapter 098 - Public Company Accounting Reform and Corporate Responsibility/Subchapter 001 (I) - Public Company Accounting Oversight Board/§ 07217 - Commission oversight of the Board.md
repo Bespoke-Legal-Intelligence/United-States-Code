@@ -66,7 +66,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (2) Censure of the Board; limitations
 
-&emsp;The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, functions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
+&emsp;The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, orotherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, functions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
 
 &emsp;&emsp;(A) has violated or is unable to comply with any provision of this Act, the rules of the Board, or the securities laws; or
 

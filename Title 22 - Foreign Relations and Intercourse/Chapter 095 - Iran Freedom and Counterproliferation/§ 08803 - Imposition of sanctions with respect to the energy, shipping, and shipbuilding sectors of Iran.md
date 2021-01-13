@@ -64,7 +64,7 @@ Entities that operate ports in Iran and entities in the energy, shipping, and sh
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this section, the President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the personknowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers to or from Iran goods or services described in paragraph (3).
+&emsp;&emsp;Except as provided in this section, the President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) with respect to a person if the President determines that the person knowingly, on or after the date that is 180 days after January 2, 2013, sells, supplies, or transfers to or from Iran goods or services described in paragraph (3).
 
 #### (B) Exception
 
@@ -153,6 +153,8 @@ The President may provide for an exception from the imposition of sanctions unde
 &emsp;Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
 (Pub. L. 112–239, div. A, title XII, §1244, Jan. 2, 2013, 126 Stat. 2006.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -104,7 +104,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State, in consultation with the Secretary and the Secretary of Defense, and the heads of other Federal agencies, as appropriate, shall propose that any technology identified pursuant to subsection (a) be added to the list of technologies controlled by the relevant multilateral export control regimes.
+&emsp;The Secretary of State, in consultation with the Secretary and the Secretary of Defense, and the heads of other Federal agencies, as appropriate, shall propose that any technologyidentified pursuant to subsection (a) be added to the list of technologies controlled by the relevant multilateral export control regimes.
 
 #### (2) Items on commerce control list or United States munitions list
 
@@ -160,7 +160,7 @@ Not less frequently than every 180 days, the Secretary, in coordination with the
 
 #### (5) Applicability of Federal Advisory Committee Act
 
-&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall notapply to the Emerging Technology and Research Advisory Committee.
+&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Emerging Technology and Research Advisory Committee.
 
 #### (6) Report
 
@@ -178,7 +178,7 @@ Nothing in this chapter shall be construed to alter or limit—
 
 #### References in Text
 
-Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former section 4603 of this title.
+Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, whichis set out as a note under former section 4603 of this title.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

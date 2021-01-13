@@ -1,0 +1,34 @@
+### §3062. Regulations
+
+The Secretary of Defense shall prescribe regulations governing the performance within theDepartment of Defense of the procurement functions, and related functions, of the Department of Defense.
+
+(Added Pub. L. 116–283, div. A, title XVIII, §1807(b)(1), Jan. 1, 2021, 134 Stat. 4157.)
+
+#### Prior Provisions
+
+A prior section 3062 was renumbered section 7062 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Restriction on Department of Defense Procurement of Certain Items Containing Perfluorooctane Sulfonate or Perfluorooctanoic Acid
+
+Pub. L. 116–283, div. A, title III, §333, Jan. 1, 2021, 134 Stat. 3531, provided that:
+
+"(a)
+
+Prohibition.—The Department of Defense may not procure any covered item that contains perfluorooctane sulfonate (PFOS) or perfluorooctanoic acid (PFOA).
+
+"(b)
+
+Definitions.—In this section, the term 'covered item' means—
+
+&emsp;"(1) nonstick cookware or cooking utensils for use in galleys or dining facilities; and
+
+&emsp;"(2) upholstered furniture, carpets, and rugs that have been treated with stain-resistant coatings.
+
+"(c)
+
+Effective Date.—This section shall take effect on April 1, 2023."
+

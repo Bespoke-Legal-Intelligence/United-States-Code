@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the person to whom the self-test relates or any person with lawful access to the report or the results—
 
-&emsp;&emsp;&emsp;(i) voluntarily releases or discloses all, or any part of, the report or results to theaggrieved person, complainant, department, or agency, or to the general public; or
+&emsp;&emsp;&emsp;(i) voluntarily releases or discloses all, or any part of, the report or results to the aggrieved person, complainant, department, or agency, or to the general public; or
 
 &emsp;&emsp;&emsp;(ii) refers to or describes the report or results as a defense to charges of violations of this subchapter against the person to whom the self-test relates; or
 

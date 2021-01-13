@@ -1,6 +1,6 @@
 ### §450n. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national monument shallbe exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
+The administration, protection, and development of the aforesaid national monument shall be exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes",<sup>1</sup> as amended.
 
 (Aug. 21, 1935, ch. 592, §3, 49 Stat. 666.)
 

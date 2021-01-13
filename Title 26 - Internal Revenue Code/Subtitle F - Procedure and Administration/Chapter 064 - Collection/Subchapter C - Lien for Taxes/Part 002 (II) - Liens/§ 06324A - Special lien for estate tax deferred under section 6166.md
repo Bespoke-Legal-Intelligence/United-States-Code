@@ -118,9 +118,9 @@ Subsec. (e)(4). Pub. L. 95–600, §702(e)(1)(D), substituted "required interest
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1)of Pub. L. 97–34, set out as a note under section 6166 of this title.
+Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
+Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made bythis section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
 

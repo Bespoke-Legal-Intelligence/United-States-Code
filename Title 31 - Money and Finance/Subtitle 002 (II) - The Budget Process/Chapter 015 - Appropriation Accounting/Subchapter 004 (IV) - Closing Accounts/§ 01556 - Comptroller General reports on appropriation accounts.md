@@ -32,6 +32,8 @@ July 25, 1956, ch. 727, §3(b), 70 Stat. 649; Reorg. Plan No. 2 of 1970, eff. Ju
 
 In the section, the word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 substituted "General: reports" for "General reports" in section catchline and amended text generally. Prior to amendment, text read as follows:
@@ -44,7 +46,9 @@ In the section, the word "President" is substituted for "Director of the Office 
 
 &emsp;"(3) the President.
 
-"(b) A report under this section shall include an appraisal of unpaid obligations under appropriation accounts established under section 1552 of this title. Bythe 30th day after receiving a report, the head of the agency concerned shall carry out actions required by section 1554 of this title that the report shows is necessary."
+"(b) A report under this section shall include an appraisal of unpaid obligations under appropriation accounts established under section 1552 of this title. By the 30th day after receiving a report, the head of the agency concerned shall carry out actions required by section 1554 of this title that the report shows is necessary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

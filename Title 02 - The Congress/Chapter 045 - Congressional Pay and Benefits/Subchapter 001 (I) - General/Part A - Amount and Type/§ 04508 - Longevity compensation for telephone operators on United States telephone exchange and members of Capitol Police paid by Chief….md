@@ -4,6 +4,8 @@ The provisions of subsections (a) and (b) of section 4507 <sup>1</sup> of this 
 
 (Pub. L. 95–391, title III, §310, Sept. 30, 1978, 92 Stat. 790; Pub. L. 104–186, title II, §204(8), Aug. 20, 1996, 110 Stat. 1731.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 60j–2 of this title prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 60j–2 of this title prior to editor
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 struck out "(a)" before "The provisions" and substituted "Chief Administrative Officer" for "Clerk" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

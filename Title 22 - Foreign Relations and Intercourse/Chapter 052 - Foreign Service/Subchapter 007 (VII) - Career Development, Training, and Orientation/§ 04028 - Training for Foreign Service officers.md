@@ -28,7 +28,7 @@
 
 #### (B) Development of curriculum
 
-&emsp;&emsp;In carrying out the training required under paragraph (1)(B), the Ambassador at Large for International Religious Freedom, in coordination with the Director of the George P. Shultz National Foreign Affairs Training Center and other Federal officials, as appropriate, and in consultation with the United States Commission on InternationalReligious Freedom established under section 6431(a) of this title, shall make recommendations to the Secretary of State regarding a curriculum for the training of United States Foreign Service officers under paragraph (1)(B) on the scope and strategic value of international religious freedom, how violations of international religious freedom harm fundamental United States interests, how the advancement of international religious freedom can advance such interests, how United States international religious freedom policy should be carried out in practice by United States diplomats and other Foreign Service officers, and the relevance and relationship of international religious freedom to United States defense, diplomacy, development, and public affairs efforts. The Secretary of State should ensure the availability of sufficient resources to develop and implement such curriculum.
+&emsp;&emsp;In carrying out the training required under paragraph (1)(B), the Ambassador at Large for International Religious Freedom, in coordination with the Director of the George P. Shultz National Foreign Affairs Training Center and other Federal officials, as appropriate, and in consultation with the United States Commission on International Religious Freedom established under section 6431(a) of this title, shall make recommendations to the Secretary of State regarding a curriculum for the training of United States Foreign Service officers under paragraph (1)(B) on the scope and strategic value of international religious freedom, how violations of international religious freedom harm fundamental United States interests, how the advancement of international religious freedom can advance such interests, how United States international religious freedom policy should be carried out in practice by United States diplomats and other Foreign Service officers, and the relevance and relationship of international religiousfreedom to United States defense, diplomacy, development, and public affairs efforts. The Secretary of State should ensure the availability of sufficient resources to develop and implement such curriculum.
 
 #### (C) Information sharing
 
@@ -58,6 +58,8 @@ The Secretary of State, with the assistance of other relevant officials and the 
 
 (Pub. L. 96–465, title I, §708, as added and amended Pub. L. 105–292, title I, §104, title VI, §602(b), Oct. 27, 1998, 112 Stat. 2795, 2812; Pub. L. 107–132, §2(b), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 109–164, title I, §104(d), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title IV, §406, Dec. 23, 2008, 122 Stat. 5091; Pub. L. 114–281, title I, §103(a), Dec. 16, 2016, 130 Stat. 1430; Pub. L. 115–441, §4, Jan. 14, 2019, 132 Stat. 5587; Pub. L. 116–94, div. J, title VII, §705, Dec. 20, 2019, 133 Stat. 3071.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(1)(C), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
@@ -81,6 +83,8 @@ Subsecs. (b), (c). Pub. L. 114–281, §103(a)(2), (3), inserted headings.
 <b>2002</b>—Subsec. (a). Pub. L. 107–132 inserted "George P. Shultz" after "director of the" in introductory provisions.
 
 <b>1998</b>—Pub. L. 105–292, §602(b), designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

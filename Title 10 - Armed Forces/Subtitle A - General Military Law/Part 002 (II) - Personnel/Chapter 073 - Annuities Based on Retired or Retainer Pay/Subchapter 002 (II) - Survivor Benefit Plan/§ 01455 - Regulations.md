@@ -38,7 +38,7 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(B) In the case of an annuitant referred to in paragraph (1)(B), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
 
-&emsp;&emsp;(C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuity to the supplemental or special needs trust established for the annuitant.
+&emsp;&emsp;(C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuityto the supplemental or special needs trust established for the annuitant.
 
 &emsp;&emsp;(D) Subject to subparagraphs (E) and (F), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
@@ -50,7 +50,7 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(H) In the case of an annuitant referred to in paragraph (1)(B) or (1)(C)—
 
-&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions beingtaken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
+&emsp;&emsp;&emsp;(i) procedures for determining incompetency and for selecting a payee to represent the annuitant for the purposes of this section, including provisions for notifying the annuitant of the actions being taken to make such a determination and to select a representative payee, an opportunity for the annuitant to review the evidence being considered, and an opportunity for the annuitant to submit additional evidence before the determination is made;
 
 &emsp;&emsp;&emsp;(ii) standards for determining incompetency, including standards for determining the sufficiency of medical evidence and other evidence; and
 

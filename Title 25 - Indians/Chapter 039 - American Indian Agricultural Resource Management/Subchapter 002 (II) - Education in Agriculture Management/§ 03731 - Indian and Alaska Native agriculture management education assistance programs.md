@@ -58,7 +58,7 @@
 
 &emsp;(C) a tribal agriculture or related program.
 
-(3) The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant's scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary <sup>1</sup> or graduate institution.
+(3) The Secretary shall not deny scholarship assistance under this subsection solely on thebasis of an applicant's scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary <sup>1</sup> or graduate institution.
 
 #### (d) Educational outreach
 
@@ -70,9 +70,13 @@ The Secretary shall administer the programs described in this section until a su
 
 (Pub. L. 103–177, title II, §201, Dec. 3, 1993, 107 Stat. 2018.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Haskell Indian Nations University and Southwestern Indian Polytechnic Institute Administrative Systems
 
@@ -298,7 +302,7 @@ Lump-sum credit for annual leave.—In the case of any individual who, at the ti
 
 &emsp;&emsp;&emsp;"(ii)
 
-Retirement credit for sick leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under section 8339(m) of title 5, United States Code (had such individual then separated from service), any sick leave standing to such individual's credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual's credit at the time such individual became subject to the demonstration project.
+Retirement credit for sick leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under section 8339(m) of title 5, United States Code (hadsuch individual then separated from service), any sick leave standing to such individual's credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual's credit at the time such individual became subject to the demonstration project.
 
 &emsp;&emsp;"(C)
 

@@ -42,7 +42,7 @@ Except as provided in subsections (b) and (d) of section 5704—
 
 &emsp;&emsp;&emsp;(i) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made, or
 
-&emsp;&emsp;&emsp;(ii) the tobacco product is delivered by use of a common carrier, private deliveryservice, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the tobacco product.
+&emsp;&emsp;&emsp;(ii) the tobacco product is delivered by use of a common carrier, private delivery service, or the mail, or the seller is not in the physical presence of the buyer when the buyer obtains personal possession of the tobacco product.
 
 #### (e) Applicability of section 6665
 
@@ -96,7 +96,7 @@ Subsec. (d). Pub. L. 97–34, §§722(a)(3), 724(b)(5), added subsec. (d). Forme
 
 Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which made persons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
 
-Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
+Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the timeprescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
 
 Subsec. (d). Pub. L. 85–859 added subsec. (d). Similar provisions were formerly contained in subsec. (c) of this section.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 109–432 applicable with respect to goods entered, or with
 
 Amendment by Pub. L. 106–554 effective as if included in section 9302 of the Balanced Budget Act of 1997, Pub. L. 105–33, see section 1(a)(7) \[title III, §315(b)\] of Pub. L. 106–554, set out as a note under section 5702 of this title.
 
-Amendment by section 4002 of Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub.L. 106–476, set out as a note under section 5704 of this title.
+Amendment by section 4002 of Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub. L. 106–476, set out as a note under section 5704 of this title.
 
 Pub. L. 106–476, title IV, §4003(b), Nov. 9, 2000, 114 Stat. 2178, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 

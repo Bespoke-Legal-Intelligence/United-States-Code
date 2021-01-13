@@ -2,7 +2,7 @@
 
 #### (a) Governing bodies of Indian tribes; amount; non-Federal share
 
-The Commissioner, in accordance with the provisions of this part, may make grants to the governing bodies of Indian tribes located on Federal and State reservations (and consortia of such governing bodies) to pay 90 percent of the costs of vocational rehabilitation services for American Indians who are individuals with disabilities residing on or near such reservations (referred to in this section as "eligible individuals"), consistent with such eligible individuals' strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency. The non-Federal share of such costs may be in cash or in kind, fairly valued, and the Commissioner may waive such non-Federal share requirement in order to carry out the purposes of this chapter.
+The Commissioner, in accordance with the provisions of this part, may make grants to the governing bodies of Indian tribes located on Federal and State reservations (and consortia of such governing bodies) to pay 90 percent of the costs of vocational rehabilitation services forAmerican Indians who are individuals with disabilities residing on or near such reservations (referred to in this section as "eligible individuals"), consistent with such eligible individuals' strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice, so that such individuals may prepare for, and engage in, high-quality employment that will increase opportunities for economic self-sufficiency. The non-Federal share of such costs may be in cash or in kind, fairly valued, and the Commissioner may waive such non-Federal share requirement in order to carry out the purposes of this chapter.
 
 #### (b) Application; effective period; continuation of programs and services; separate service delivery systems
 
@@ -44,9 +44,11 @@ The term "reservation" includes Indian reservations, public domain Indian allotm
 
 (Pub. L. 93–112, title I, §121, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1166; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413; Pub. L. 113–128, title IV, §423, July 22, 2014, 128 Stat. 1659.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

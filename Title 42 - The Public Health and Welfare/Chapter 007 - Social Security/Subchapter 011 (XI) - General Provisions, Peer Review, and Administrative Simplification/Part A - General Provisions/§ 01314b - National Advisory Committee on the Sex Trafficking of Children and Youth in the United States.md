@@ -2,7 +2,7 @@
 
 #### (a) Official designation
 
-This section relates to the National Advisory Committee on the Sex Trafficking of Childrenand Youth in the United States (in this section referred to as the "Committee").
+This section relates to the National Advisory Committee on the Sex Trafficking of Children and Youth in the United States (in this section referred to as the "Committee").
 
 #### (b) Authority
 
@@ -44,7 +44,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (A) In general
 
-&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as "Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shall provide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
+&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as"Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shall provide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
 
 #### (B) Development
 
@@ -104,7 +104,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (B) Accommodation for Committee members unable to attend in person
 
-&emsp;&emsp;The Secretary shall create a process through which Committee members who are unable to travel to a Committee meeting in person may participate remotely through the use of video conference, teleconference, online, or other means.
+&emsp;&emsp;The Secretary shall create a process through which Committee members who are unable to travel to a Committee meeting in person may participate remotely throughthe use of video conference, teleconference, online, or other means.
 
 #### (3) Subcommittees
 

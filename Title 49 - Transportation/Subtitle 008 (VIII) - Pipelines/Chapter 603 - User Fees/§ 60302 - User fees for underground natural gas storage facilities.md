@@ -22,7 +22,7 @@ Use of fees.—A fee collected under this section—
 
 &emsp;&emsp;(A) shall be deposited in the Underground Natural Gas Storage Facility Safety Account; and
 
-&emsp;&emsp;(B) if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be usedonly for an activity related to underground natural gas storage facility safety.
+&emsp;&emsp;(B) if the fee is related to an underground natural gas storage facility subject to section 60141, the amount of the fee may be used only for an activity related to underground natural gas storage facility safety.
 
 &emsp;(3)
 

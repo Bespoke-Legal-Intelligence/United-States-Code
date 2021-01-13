@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) a proceeding before a Federal Government agency which is authorized by law; or
 
-&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examinerappointed by such official or agency to examine the affairs of any person engaged in the business of insurance whose activities affect interstate commerce;
+&emsp;&emsp;(D) a proceeding involving the business of insurance whose activities affect interstate commerce before any insurance regulatory official or agency or any agent or examiner appointed by such official or agency to examine the affairs of any person engaged in the business of insurance whose activities affect interstate commerce;
 
 &emsp;(2) the term "physical force" means physical action against another, and includes confinement;
 
@@ -50,7 +50,9 @@
 
 (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L.102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -67,6 +69,8 @@ Subsecs. (b), (c). Pub. L. 104–292 added subsec. (b) and redesignated former s
 Subsec. (a)(6). Pub. L. 100–690, §7029(d), added par. (6).
 
 <b>1986</b>—Pub. L. 99–646 inserted "; general provision" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) Institutions eligible
 
-The Secretary is authorized, upon such terms and conditions as the Secretary may prescribe, to insure banks, trust companies, finance companies, mortgage companies, savings and loan associations, insurance companies, credit unions, and such other financial institutions, which the Secretary finds to be qualified by experience and facilities and approves as eligible for insurance, against losses which they may sustain as a result of emergency loans or advances of credit made in accordance with the provisions of section 2703 of this title and this section with respect to mortgages eligible for assistance under this chapter.
+The Secretary is authorized, upon such terms and conditions as the Secretary may prescribe, to insure banks, trust companies, finance companies, mortgage companies, savings and loan associations, insurance companies, credit unions, and such other financial institutions, which the Secretary finds to be qualified by experience and facilities and approves as eligible for insurance, against losses which they maysustain as a result of emergency loans or advances of credit made in accordance with the provisions of section 2703 of this title and this section with respect to mortgages eligible for assistance under this chapter.
 
 #### (b) Premium charge; amount
 
@@ -22,6 +22,8 @@ The Secretary shall establish underwriting guidelines or procedures to allocate 
 
 (Pub. L. 94–50, title I, §105, July 2, 1975, 89 Stat. 251; Pub. L. 111–203, title XIV, §1496(b)(3), July 21, 2010, 124 Stat. 2208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsecs. (b) to (d). Pub. L. 111–203, §1496(b)(3)(A), (C), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "In no case shall the insurance granted by the Secretary under this section to any financial institution on loans and advances made by such financial institution for the purposes of this chapter exceed 40 per centum of the total amount of such loans and advances made by the institution, except that, with respect to any individual loan or advance of credit, the amount of any claim for loss on such individual loan or advance of credit paid by the Secretary under the provision of this section shall not exceed 90 per centum of such loss."
@@ -29,6 +31,8 @@ The Secretary shall establish underwriting guidelines or procedures to allocate 
 Subsec. (e). Pub. L. 111–203, §1496(b)(3)(D), added subsec. (e). Former subsec. (e) redesignated (d).
 
 Pub. L. 111–203, §1496(b)(3)(B), inserted "and emergency mortgage relief payments made under section 2705 of this title" after "insured under this section" and substituted "$3,000,000,000" for "$1,500,000,000 at any one time".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

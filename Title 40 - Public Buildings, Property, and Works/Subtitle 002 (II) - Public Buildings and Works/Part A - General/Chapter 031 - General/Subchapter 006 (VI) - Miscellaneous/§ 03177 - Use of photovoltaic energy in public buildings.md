@@ -50,7 +50,7 @@ Photovoltaic Systems Evaluation Program.—
 
 &emsp;(1)
 
-In general.—Not later than 60 days after the date of enactment of this section, the Administrator shall establish a photovoltaic solar energy systems evaluation program to evaluate such photovoltaic solar energy systems as are required in public buildings.
+In general.—Not later than 60 days after the date of enactment of this section, the Administrator shall establish a photovoltaic solar energy systems evaluation program toevaluate such photovoltaic solar energy systems as are required in public buildings.
 
 &emsp;(2)
 
@@ -69,6 +69,8 @@ Photovoltaic energy commercialization program.—There are authorized to be appr
 Photovoltaic systems evaluation program.—There are authorized to be appropriated to carry out subsection (b) $10,000,000 for each of fiscal years 2006 through 2010. Such sums shall remain available until expended.
 
 (Added Pub. L. 109–58, title II, §204(a), Aug. 8, 2005, 119 Stat. 653.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

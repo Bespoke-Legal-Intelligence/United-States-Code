@@ -82,6 +82,8 @@ In subsection (c), the word "collected" is substituted for "received" for consis
 
 In subsection (d), the words "department, agency, or instrumentality of the Government" are substituted for "Federal agency or department" for consistency in the revised title and with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70111 of title 49 and section 70111 of this title as this section.

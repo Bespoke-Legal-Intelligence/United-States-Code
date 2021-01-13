@@ -4,6 +4,8 @@ This section and section 141 <sup>1</sup> of this title shall not be construed 
 
 (June 25, 1910, ch. 421, §2, 36 Stat. 847; Aug. 24, 1912, ch. 369, 37 Stat. 497; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 141 of this title, referred to in text, was repealed by Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.
@@ -19,6 +21,8 @@ The provisions of the last proviso of this section were also classified to secti
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–579 struck out provisions that all lands withdrawn under the act of June 25, 1910, be open to exploration, occupation, and purchase under the mineral laws of the United States in respect to minerals other than coal, oil, gas, and phosphates and that no national forest be created or additions thereto made to those created before Aug. 24, 1912, in Oregon, Washington, Idaho, Montana, Colorado, or Wyoming, except by Act of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

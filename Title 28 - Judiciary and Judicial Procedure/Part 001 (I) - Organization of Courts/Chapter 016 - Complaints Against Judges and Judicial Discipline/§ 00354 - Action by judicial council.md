@@ -30,7 +30,7 @@ In general.—Action by the judicial council under paragraph (1)(C) may include�
 
 &emsp;&emsp;(B)
 
-For article iii judges.—If the conduct of a judge appointed to hold office during good behavior is the subject of the complaint, action by the judicial council under paragraph (1)(C) may include—
+For article iii judges.—If the conduct of a judge appointed to hold office duringgood behavior is the subject of the complaint, action by the judicial council under paragraph (1)(C) may include—
 
 &emsp;&emsp;&emsp;(i) certifying disability of the judge pursuant to the procedures and standards provided under section 372(b); and
 

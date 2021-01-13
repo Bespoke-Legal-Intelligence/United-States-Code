@@ -26,7 +26,7 @@ Except as otherwise provided in this subchapter, a nonaffiliated third party tha
 
 #### (d) Limitations on the sharing of account number information for marketing purposes
 
-A financial institution shall not disclose, other than to a consumer reporting agency, an account number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
+A financial institution shall not disclose, other than to a consumer reporting agency, anaccount number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
 
 #### (e) General exceptions
 
@@ -50,7 +50,7 @@ Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal 
 
 &emsp;(6)(A) to a consumer reporting agency in accordance with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], or (B) from a consumer report reported by a consumer reporting agency;
 
-&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal informationconcerns solely consumers of such business or unit; or
+&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
 
 &emsp;(8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 

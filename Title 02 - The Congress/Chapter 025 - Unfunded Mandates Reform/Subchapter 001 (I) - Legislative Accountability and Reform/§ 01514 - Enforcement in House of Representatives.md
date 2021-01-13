@@ -4,9 +4,11 @@
 
 #### (b) Committee on Rules reports on waived points of order
 
-The Committee on Rules shall include in the report required by clause 1(d) <sup>1</sup> of rule XI (relating to its activities during the Congress) of theRules of the House of Representatives a separate item identifying all waivers of points of order relating to Federal mandates, listed by bill or joint resolution number and the subject matter of that measure.
+The Committee on Rules shall include in the report required by clause 1(d) <sup>1</sup> of rule XI (relating to its activities during the Congress) of the Rules of the House of Representatives a separate item identifying all waivers of points of order relating to Federal mandates, listed by bill or joint resolution number and the subject matter of that measure.
 
 (Pub. L. 104–4, title I, §107, Mar. 22, 1995, 109 Stat. 63.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -15,6 +17,8 @@ Clause 1(d) of Rule XI of the Rules of the House of Representatives, referred to
 #### Codification
 
 Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 107 of Pub. L. 104–4 amended the Rules of the House of Representatives, which are not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

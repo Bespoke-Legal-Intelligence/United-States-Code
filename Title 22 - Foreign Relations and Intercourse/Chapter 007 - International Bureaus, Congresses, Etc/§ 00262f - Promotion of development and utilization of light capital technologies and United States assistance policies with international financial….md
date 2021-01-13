@@ -4,9 +4,13 @@ The United States Government, in connection with its voice and vote in the Inter
 
 (Pub. L. 95–118, title VIII, §801, Oct. 3, 1977, 91 Stat. 1071; Pub. L. 97–35, title XIII, §§1342(c), 1371(b)(1), Aug. 13, 1981, 95 Stat. 743, 746.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 redesignated subsec. (a) as entire section, inserted reference to African Development Bank, and struck out subsec. (b) which related to an annual report to Congress on progress toward achieving goals of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

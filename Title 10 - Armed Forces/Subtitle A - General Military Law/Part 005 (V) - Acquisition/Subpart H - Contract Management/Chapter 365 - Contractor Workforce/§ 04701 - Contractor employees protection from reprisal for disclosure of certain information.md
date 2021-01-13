@@ -1,0 +1,144 @@
+### §4701. Contractor employees: protection from reprisal for disclosure of certain information
+
+(a)
+
+Prohibition of Reprisals.—(1) An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of the following:
+
+&emsp;(A) Gross mismanagement of a Department of Defense contract or grant, a gross waste of Department funds, an abuse of authority relating to a Department contract or grant, or a violation of law, rule, or regulation related to a Department contract (including the competition for or negotiation of a contract) or grant.
+
+&emsp;(B) Gross mismanagement of a National Aeronautics and Space Administration contract or grant, a gross waste of Administration funds, an abuse of authority relating to an Administration contract or grant, or a violation of law, rule, or regulation related to an Administration contract (including the competition for or negotiation of a contract) or grant.
+
+&emsp;(C) A substantial and specific danger to public health or safety.
+
+(2) The persons and bodies described in this paragraph are the persons and bodies as follows:
+
+&emsp;(A) A Member of Congress or a representative of a committee of Congress.
+
+&emsp;(B) An Inspector General.
+
+&emsp;(C) The Government Accountability Office.
+
+&emsp;(D) An employee of the Department of Defense or the National Aeronautics and Space Administration, as applicable, responsible for contract oversight or management.
+
+&emsp;(E) An authorized official of the Department of Justice or other law enforcement agency.
+
+&emsp;(F) A court or grand jury.
+
+&emsp;(G) A management official or other employee of the contractor or subcontractor who has the responsibility to investigate, discover, or address misconduct.
+
+(3) For the purposes of paragraph (1)—
+
+&emsp;(A) an employee who initiates or provides evidence of contractor or subcontractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Department of Defense or National Aeronautics and Space Administration contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+
+&emsp;(B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of a Department or Administration official, unless the request takes the form of a nondiscretionary directive and is within the authority of the Department or Administration official making the request.
+
+(b)
+
+Investigation of Complaints.—(1) A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the Department of Defense, or the Inspector General of the National Aeronautics andSpace Administration in the case of a complaint regarding the National Aeronautics and Space Administration. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
+
+(2)(A) Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
+
+(B) If the Inspector General is unable to complete an investigation in time to submit a report within the 180-day period specified in subparagraph (A) and the person submitting the complaint agrees to an extension of time, the Inspector General shall submit a report under paragraph (1) within such additional period of time, up to 180 days, as shall be agreed upon between the Inspector General and the person submitting the complaint.
+
+(3) The Inspector General may not respond to any inquiry or disclose any information from or about any person alleging the reprisal, except to the extent that such response or disclosure is—
+
+&emsp;(A) made with the consent of the person alleging the reprisal;
+
+&emsp;(B) made in accordance with the provisions of section 552a of title 5 or as required by any other applicable Federal law; or
+
+&emsp;(C) necessary to conduct an investigation of the alleged reprisal.
+
+(4) A complaint may not be brought under this subsection more than three years after the date on which the alleged reprisal took place.
+
+(c)
+
+Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the agency concerned shall determine whether there is sufficient basis to conclude that the contractor concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
+
+&emsp;(A) Order the contractor to take affirmative action to abate the reprisal.
+
+&emsp;(B) Order the contractor to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
+
+&emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
+
+(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+
+(3) An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
+
+(4) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
+
+(5) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
+
+(6) The legal burdens of proof specified in section 1221(e) of title 5 shall be controlling for the purposes of any investigation conducted by an Inspector General, decision by the head of an agency, or judicial or administrative proceeding to determine whether discrimination prohibited under this section has occurred.
+
+(7) The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
+
+(d)
+
+Notification of Employees.—The Secretary of Defense and the Administrator of the National Aeronautics and Space Administrationshall ensure that contractors and subcontractors of the Department of Defense and the National Aeronautics and Space Administration, as applicable, inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
+
+(e)
+
+Exceptions.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
+
+(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—
+
+&emsp;(A) relates to an activity of an element of the intelligence community; or
+
+&emsp;(B) was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.
+
+(f)
+
+Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "agency" means an agency named in section 3063 of this title.
+
+&emsp;\[(2) Repealed. Pub. L. 116–283, div. A, title XVIII, §1863(c)(2), Jan. 1, 2021, 134 Stat. 4278.\]
+
+&emsp;(3) The term "contract" means a contract awarded by the head of an agency.
+
+&emsp;(4) The term "contractor" means a person awarded a contract with an agency.
+
+&emsp;(5) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts awarded for or on behalf of, the Secretary of Defense.
+
+&emsp;(6) The term "abuse of authority" means the following:
+
+&emsp;&emsp;(A) An arbitrary and capricious exercise of authority that is inconsistent with the mission of the Department of Defense or the successful performance of a Department contract or grant.
+
+&emsp;&emsp;(B) An arbitrary and capricious exercise of authority that is inconsistent with the mission of the National Aeronautics and Space Administration or the successful performance of an Administration contract or grant.
+
+&emsp;(7) The term "grantee" means a person awarded a grant with an agency.
+
+(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, §2409; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509; Pub. L. 114–261, §1(a)(1), Dec. 14, 2016, 130 Stat. 1362; renumbered §4701 and amended Pub. L. 116–283, div. A, title XVIII, §1863(b), (c), Jan. 1, 2021, 134 Stat. 4278.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1863(b), renumbered section 2409 of this title as this section.
+
+Subsec. (g)(1). Pub. L. 116–283, §1863(c)(1), substituted "section 3063" for "section 2303".
+
+Subsec. (g)(2). Pub. L. 116–283, §1863(c)(2), struck out par. (2) which defined "head of an agency".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Prohibition on Awarding of Contracts to Contractors That Require Nondisclosure Agreements Relating to Waste, Fraud, or Abuse
+
+Pub. L. 116–283, div. A, title VIII, §883, Jan. 1, 2021, 134 Stat. 3790, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may not award a contract for the procurement of goods or services to a contractor unless the contractor represents that—
+
+&emsp;"(1) it does not require its employees to sign internal confidentiality agreements or statements that would prohibit or otherwise restrict such employees from lawfully reporting waste, fraud, or abuse related to the performance of a Department of Defense contract to a designated investigative or law enforcement representative of the Department of Defense authorized to receive such information; and
+
+&emsp;"(2) it will inform its employees of the limitations on confidentiality agreements and other statements described in paragraph (1).
+
+"(b)
+
+Reliance on Representation.—A contracting officer of the Department of Defense may rely on the representation of a contractor as to the requirements described under subsection (a) in awarding a contract unless the officer has reason to question the accuracy of the representation."
+

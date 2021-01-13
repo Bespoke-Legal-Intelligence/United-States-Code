@@ -56,7 +56,7 @@ Use of information.—(A) Information obtained through activities authorized by 
 
 &emsp;(4)
 
-Application with other law.—Section 705 of the Communications Act of 1934 (47 U.S.C. 605) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
+Application with other law.—Section 705 of the Communications Act of 1934 (47U.S.C. 605) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 866; Pub. L. 110–432, div. A, title III, §306, Oct. 16, 2008, 122 Stat. 4880.)
 
@@ -108,5 +108,5 @@ Pub. L. 110–432, div. A, title IV, §416, Oct. 16, 2008, 122 Stat. 4890, as am
 
 &emsp;"(4) the Federal Railroad Administration is permitted to perform onsite inspections for the purpose of ensuring compliance with the requirements of this section."
 
-\[For definition of "railroad", as used in section 416 of Pub. L. 110–432, set out above, see section 2(a) of Pub.L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definition of "railroad", as used in section 416 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

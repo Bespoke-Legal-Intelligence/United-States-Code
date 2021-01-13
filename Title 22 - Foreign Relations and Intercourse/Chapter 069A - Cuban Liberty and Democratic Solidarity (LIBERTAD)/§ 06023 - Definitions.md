@@ -46,7 +46,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;The term "economic embargo of Cuba" refers to—
 
-&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with,and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 4305(b) of title 50, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
+&emsp;&emsp;(A) the economic embargo (including all restrictions on trade or transactions with, and travel to or from, Cuba, and all restrictions on transactions in property in which Cuba or nationals of Cuba have an interest) that was imposed against Cuba pursuant to section 2370(a) of this title, section 4305(b) of title 50, the Cuban Democracy Act of 1992 (22 U.S.C. 6001 and following), or any other provision of law; and
 
 &emsp;&emsp;(B) the restrictions imposed by section 902(c) of the Food Security Act of 1985.
 
@@ -116,6 +116,8 @@ As used in this chapter, the following terms have the following meanings:
 
 (Pub. L. 104–114, §4, Mar. 12, 1996, 110 Stat. 789.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provisions, was in the original "this Act", meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
@@ -127,6 +129,8 @@ The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of di
 Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was set out as a note under former section 1446g of Title 7, Agriculture.
 
 The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

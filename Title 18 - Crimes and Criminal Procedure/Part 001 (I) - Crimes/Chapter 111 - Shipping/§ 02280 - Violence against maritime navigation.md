@@ -170,9 +170,11 @@ Civil Forfeiture.—Any real or personal property used or intended to be used to
 
 (2)
 
-Applicable Procedures.—Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
+Applicable Procedures.—Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretaryof Homeland Security, the Attorney General, or the Secretary of Defense.
 
 (Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300; Pub. L. 114–23, title VIII, §801, June 2, 2015, 129 Stat. 300.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -196,6 +198,8 @@ Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out "and the activity
 
 Subsec. (b)(1)(A)(iii). Pub. L. 104–132, §722(2), struck out "the activity takes place on a ship flying the flag of a foreign country or outside the United States," before "by a national of the United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that: "This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
@@ -207,6 +211,8 @@ Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provide
 &emsp;"(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol."
 
 > \[Convention and Protocol came into force Mar. 1, 1992, and entered into force with respect to the United States Mar. 6, 1995, Treaty Doc. 101–1.\]
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

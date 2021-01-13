@@ -6,7 +6,7 @@
 
 &emsp;Except with the prior written consent of the Corporation—
 
-&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—
+&emsp;&emsp;(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversionor similar program in connection with a prosecution for such offense, may not—
 
 &emsp;&emsp;&emsp;(i) become, or continue as, an institution-affiliated party with respect to any insured depository institution;
 
@@ -44,7 +44,7 @@
 
 #### (b) Penalty
 
-Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for eachday such prohibition is violated or imprisoned for not more than 5 years, or both.
+Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
 #### (d) <sup>2</sup> Bank holding companies
 
@@ -68,6 +68,8 @@ Whoever knowingly violates subsection (a) shall be fined not more than $1,000,00
 
 (Sept. 21, 1950, ch. 967, §2\[19\], 64 Stat. 893; Pub. L. 101–73, title IX, §910(a), Aug. 9, 1989, 103 Stat. 477; Pub. L. 101–647, title XXV, §2502(a), Nov. 29, 1990, 104 Stat. 4860; Pub. L. 102–550, title XV, §1505, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–322, title XXXII, §320605, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 109–351, title VII, §710(a), Oct. 13, 2006, 120 Stat. 1990; Pub. L. 111–203, title III, §363(8), July 21, 2010, 124 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1008 of title 18, referred to in subsec. (a)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
@@ -86,11 +88,13 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), a
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except with the prior written consent of the Corporation—
 
-&emsp;"(1) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
+&emsp;"(1) any person who has been convicted of any criminal offense involving dishonesty or a breach oftrust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
 
 &emsp;"(2) an insured depository institution may not permit such participation."
 
 <b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "Except with the written consent of the Corporation, no person shall serve as a director, officer, or employee of an insured bank who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the bank involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Corporation may recover for its use."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

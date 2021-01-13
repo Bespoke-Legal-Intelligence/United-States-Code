@@ -15,7 +15,7 @@
 | :--- | ---: |
 | [1411\.](Subchapter%20001%20%28I%29%20-%20Reallocation%20of%20Public%20Safety%20Spectrum/%C2%A7%2001411%20-%20Reallocation%20of%20D%20block%20to%20public%20safety.md) | Reallocation of D block to public safety. |
 | [1412\.](Subchapter%20001%20%28I%29%20-%20Reallocation%20of%20Public%20Safety%20Spectrum/%C2%A7%2001412%20-%20Flexible%20use%20of%20narrowband%20spectrum.md) | Flexible use of narrowband spectrum. |
-| [1413\.](Subchapter%20001%20%28I%29%20-%20Reallocation%20of%20Public%20Safety%20Spectrum/%C2%A7%2001413%20-%20470%E2%80%93512%20MHz%20public%20safety%20spectrum.md) | 470–512 MHz public safety spectrum. |
+| [1413\.](Subchapter%20001%20%28I%29%20-%20Reallocation%20of%20Public%20Safety%20Spectrum/%C2%A7%2001413%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20FF%2C%20title%20IX%2C%20%C2%A7902%28b%29%281%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%203206.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

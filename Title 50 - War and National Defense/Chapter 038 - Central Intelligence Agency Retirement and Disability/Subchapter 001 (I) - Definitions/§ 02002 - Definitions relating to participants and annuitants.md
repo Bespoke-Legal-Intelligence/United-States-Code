@@ -40,7 +40,7 @@ When used in subchapter II:
 
 #### (A) Divorces on or before December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
+&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such termmeans a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
 
 #### (B) Divorces after December 4, 1991
 
@@ -120,7 +120,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (4) Exclusion of stepchildren from lump-sum payment
 
-&emsp;For purposes of section 2071(c) of this title, the term "child" includes an adopted child and a natural child, but does not include a stepchild.
+&emsp;For purposes of section 2071(c) of this title, the term "child" includes an adopted childand a natural child, but does not include a stepchild.
 
 (Pub. L. 88–643, title I, §102, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3198.)
 

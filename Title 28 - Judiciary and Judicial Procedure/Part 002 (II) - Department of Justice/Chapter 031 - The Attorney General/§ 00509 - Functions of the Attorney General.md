@@ -28,6 +28,8 @@ The section is restated to allow incorporation into this chapter.
 
 \[The Historical and Revision Notes for former section 507, from which this section is partially derived, is set out under section 547 of this title.\]
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 549 of this title by section 4(c) of Pub. L. 89–554.
@@ -39,6 +41,8 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 <b>1984</b>—Pub. L. 98–473 inserted "and" at end of par. (2), substituted a period for "; and" at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
 
 <b>1978</b>—Par. (1). Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 
@@ -100,7 +104,7 @@ In general.—The Deputy Chief shall be responsible for coordinating the investi
 
 &emsp;"(2)
 
-Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinateinvestigative activities with State and local law enforcement officials, and eligible entities.
+Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials, and eligible entities.
 
 &emsp;"(3)
 
@@ -124,7 +128,7 @@ Study and Report.—
 
 &emsp;"(1)
 
-Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
+Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction ofthe Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
 
 &emsp;&emsp;"(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1979;
 
@@ -394,7 +398,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing andUrban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -408,7 +412,7 @@ Pub. L. 101–647, title XXV, §§2536–2538, Nov. 29, 1990, 104 Stat. 4883, 48
 
 "(a)
 
-Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D (§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the 'Special Counsel').
+Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D\(§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the 'Special Counsel').
 
 "(b)
 
@@ -476,7 +480,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 #### Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes
 
-Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, which authorized the Chief, United States National Central Bureau, INTERPOL, to establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes, was editorially reclassified as section 41103 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, which authorized the Chief, United States NationalCentral Bureau, INTERPOL, to establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes, was editorially reclassified as section 41103 of Title 34, Crime Control and Law Enforcement.
 
 #### Expenses of Legal Defense for Federal Government Employees Performing Official Duties; Fees and Expenses of Witnesses
 
@@ -546,7 +550,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 "(2) Any appropriation of funds authorized under paragraph (1) shall be—
 
-&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submittedby the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
+&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submitted by the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
@@ -639,6 +643,8 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 "(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies."
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1968</b>
 
@@ -784,7 +790,7 @@ There is established in the Department of Justice an agency which shall be known
 
 #### Sec. 6. Performance of Transferred Functions
 
-The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this Reorganization Plan by any officer, employee, or agency of the Department of Justice.
+The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this ReorganizationPlan by any officer, employee, or agency of the Department of Justice.
 
 \[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by Pub. L. 93–253, §1(a)(2), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973.\]
 
@@ -834,7 +840,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
-More specifically, the drug law enforcement activities of the United States now are not merely in twohands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -1098,13 +1104,13 @@ Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
 
 (xi) such other officers of the United States as the Attorney General may designate from time to time, with the concurrence of the respective heads of departments and agencies concerned.
 
-(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determineits agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
+(c) The Chairman and Co-Chairman shall convene and preside at the meetings of the Task Force, determine its agenda, direct its work and, as appropriate, establish and direct subgroups of the Task Force that shall consist exclusively of members of the Task Force. Such subgroups may address particular subject matters, such as criminal law enforcement or private sector education and outreach. The Chairman and Co-Chairman may also designate, with the concurrence of the head of department, agency, or instrumentality of which the official is part, such other Federal officials as they deem appropriate for participation in the Task Force subgroups.
 
 (d) A member of the Task Force, including the Chairman and Co-Chairman, may designate, to perform the Task Force or Task Force subgroup functions of the member, any person who is a part of the member's department, agency, or instrumentality and who has high-level policy or operational duties or responsibilities related to the mission of the Task Force.
 
 Sec. 3. <i>Functions of the Task Force</i>. The Task Force, in implementing the policy set forth in section 1 of this order, shall:
 
-(a) review the activities of executive branch departments, agencies, and instrumentalities relating to the policy set forth in section 1, and building upon these prior activities, prepare and submit in writing to the President by February 9, 2007, or as soon as practicable thereafter as the Chairman and Co-Chairman shall determine, a coordinated strategic plan to further improve the effectiveness and efficiency of the Federal Government's activities in the areas of identity theft awareness, prevention, detection, and prosecution.
+(a) review the activities of executive branch departments, agencies, and instrumentalities relating to the policy set forth in section 1, and building upon these prior activities, prepare and submit in writing to the President by February 9, 2007, or as soon as practicable thereafter as the Chairman and Co-Chairman shall determine, a coordinated strategic plan to further improve the effectiveness and efficiency of the FederalGovernment's activities in the areas of identity theft awareness, prevention, detection, and prosecution.
 
 (b) coordinate, as appropriate and subject to section 5(a) of this order, Federal Government efforts related to implementation of the policy set forth in section 1 of this order;
 

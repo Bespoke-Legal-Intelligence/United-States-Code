@@ -12,7 +12,7 @@
 
 #### (b) Participants
 
-The Corps shall consist of individuals between the ages of 16 and 30, inclusive, and veterans age35 or younger who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in paragraphs (1), (2), (4), and (5) of section 12591(a) of title 42. The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
+The Corps shall consist of individuals between the ages of 16 and 30, inclusive, and veterans age 35 or younger who are enrolled as participants in the Corps by the Secretary. To be eligible for enrollment in the Corps, an individual shall satisfy the criteria specified in paragraphs (1), (2), (4), and (5) of section 12591(a) of title 42. The Secretary may enroll such individuals in the Corps without regard to the civil service and classification laws, rules, or regulations of the United States. The Secretary may establish a preference for the enrollment in the Corps of individuals who are economically, physically, or educationally disadvantaged.
 
 #### (c) Qualified youth or conservation corps
 
@@ -24,7 +24,7 @@ The Corps shall consist of individuals between the ages of 16 and 30, inclusive,
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph (1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
+&emsp;&emsp;For purposes of entering into contracts and cooperative agreements under paragraph\(1), the Secretary may give preference to qualified youth or conservation corps located in a specific area that have a substantial portion of members who are economically, physically, or educationally disadvantaged to carry out projects within the area.
 
 #### (B) Priority projects
 
@@ -86,7 +86,7 @@ Subsec. (g). Pub. L. 116–9, §9003(b)(3), added subsec. (g).
 
 Subsec. (c). Pub. L. 109–154, §2(b), designated existing provisions as par. (1), inserted heading, substituted "The Secretary is" for "The Secretary of the Interior and the Secretary of Agriculture are", and added par. (2).
 
-Subsec. (d). Pub. L. 109–154, §2(c), designated first sentence as par. (1), inserted heading, and substituted "The Secretary may" for "The Secretary of the Interior and the Secretary of Agriculture may each" and "the Secretary" for "such Secretary", designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read "The Secretaries may also authorize appropriateconservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)."
+Subsec. (d). Pub. L. 109–154, §2(c), designated first sentence as par. (1), inserted heading, and substituted "The Secretary may" for "The Secretary of the Interior and the Secretary of Agriculture may each" and "the Secretary" for "such Secretary", designated second sentence as par. (2) and inserted heading, added par. (3), and struck out former third sentence which read "The Secretaries may also authorize appropriate conservation projects and other appropriate projects to be carried out on Federal, State, local, or private lands as part of disaster prevention or relief efforts in response to an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)."
 
 Subsec. (e). Pub. L. 109–154, §2(g)(1)(B), substituted "Secretary" for "Secretary of the Interior and the Secretary of Agriculture" in introductory provisions.
 

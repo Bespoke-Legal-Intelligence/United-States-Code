@@ -50,61 +50,51 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 &emsp;(17) the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\],
 
-&emsp;(18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)),<sup>1</sup> and
+&emsp;(18) the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, established under part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750–3766b)),<sup>1</sup>
 
-&emsp;(19) sections 3003 and 3004 of title 29.
+&emsp;(19) sections 3003 and 3004 of title 29, and
+
+&emsp;(20) section 393D of the Public Health Service Act (42 U.S.C. 280b–1f), relating to safety of seniors.
 
 #### (c) Interagency Coordinating Committee on Aging
 
-(1) The Secretary, in collaboration with the Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Aging (referred to in this subsection as the "Committee") focusing on the coordination of agencies with respect to aging issues.
+(1) The Secretary, in collaboration with other Federal officials specified in paragraph (2), shall establish an Interagency Coordinating Committee on Healthy Aging and Age-Friendly Communities (referred to in this subsection as the "Committee") focusing on the coordination of agencies with respect to aging issues and the development of a national set of recommendations, in accordance with paragraph (6), to support the ability of older individuals to age in place and access homelessness prevention services, preventive health care, promote age-friendly communities, and address the ability of older individuals to access long-term care supports, including access to caregivers and home- and community-based health services.
 
 (2) The officials referred to in paragraph (1) shall include the Secretary of Labor and the Secretary of Housing and Urban Development, and may include, at the direction of the President, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Homeland Security, the Commissioner of Social Security, and such other Federal officials as the President may direct. An official described in this paragraph may appoint a designee to carry out the official's duties under paragraph (1).
 
 (3) The Secretary of Health and Human Services shall serve as the first chairperson of the Committee, for 1 term, and the Secretary of Housing and Urban Development shall serve as the chairperson for the following term. After that following term, the Committee shall select a chairperson from among the members of the Committee, and any member may serve as the chairperson. No member may serve as the chairperson for more than 1 consecutive term.
 
-(4) For purposes of this subsection, a term shall be a period of 2 calendar years.
+(4) For purposes of this subsection, a term shall be a period of 2 calendar years. The first term, after March 25, 2020, shall start not later than 1 year after March 25, 2020.
 
 (5) The Committee shall meet not less often than once each year.
 
-(6) The Committee shall—
+(6) The recommendations described in paragraph (1) may include recommendations for—
 
-&emsp;(A) share information with and establish an ongoing system to improve coordination among Federal agencies with responsibility for programs and services for older individuals and recommend improvements to such system with an emphasis on—
+&emsp;(A) ways to improve coordination among Federal agencies with responsibility for programs and services that impact older individuals;
 
-&emsp;&emsp;(i) improving access to programs and services for older individuals;
+&emsp;(B) best practices and evidence-based program and service models to assist older individuals in meeting their housing, health care, and other supportive service needs, including—
 
-&emsp;&emsp;(ii) maximizing the impact of federally funded programs and services for older individuals by increasing the efficiency, effectiveness, and delivery of such programs and services;
+&emsp;&emsp;(i) consumer-directed care models for home and community-based care and supportive services that link housing, health care, and other supportive services and that facilitate aging in place, enabling older individuals to remain in their homes and communities as the individuals age;
 
-&emsp;&emsp;(iii) planning and preparing for the impact of demographic changes on programs and services for older individuals; and
+&emsp;&emsp;(ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals; and
 
-&emsp;&emsp;(iv) reducing or eliminating areas of overlap and duplication by Federal agencies in the provision and accessibility of such programs and services;
+&emsp;&emsp;(iii) best practices identified in coordination with the Centers for Disease Control and Prevention, the National Institute on Aging, the Centers for Medicare \& Medicaid Services, the Office of Lead Hazard Control and Healthy Homes of the Department of Housing and Urban Development, and other Federal agencies, as appropriate, to reduce and prevent falls among older individuals, that incorporate evidence-based falls prevention programs and home modifications, which recommendations shall supplement and not unnecessarily duplicate activities authorized under section 393D of the Public Health Service Act (42 U.S.C. 280b–1f), relating to safety of seniors;
 
-&emsp;(B) identify, promote, and implement (as appropriate), best practices and evidence-based program and service models to assist older individuals in meeting their housing, health care, and other supportive service needs, including—
+&emsp;(C) ways to collect and disseminate information about the programs and services available to older individuals to ensure that such information is accessible;
 
-&emsp;&emsp;(i) consumer-directed care models for home and community-based care and supportive services that link housing, health care, and other supportive services and that facilitate aging in place, enabling older individuals to remain in their homes and communities as the individuals age; and
+&emsp;(D) ways to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
 
-&emsp;&emsp;(ii) innovations in technology applications (including assistive technology devices and assistive technology services) that give older individuals access to information on available services or that help in providing services to older individuals;
+&emsp;(E) actively seeking input from and consulting with nonprofit organizations, academic or research institutions, community-based organizations, philanthropic organizations, or other entities supporting age-friendly communities about the activities described in subparagraphs (A) through (F);
 
-&emsp;(C) collect and disseminate information about older individuals and the programs andservices available to the individuals to ensure that the individuals can access comprehensive information;
+&emsp;(F) identifying any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and use by older individuals of federally funded programs and services; and
 
-&emsp;(D) work with the Federal Interagency Forum on Aging-Related Statistics, the Bureau of the Census, and member agencies to ensure the continued collection of data relating to the housing, health care, and other supportive service needs of older individuals and to support efforts to identify and address unmet data needs;
+&emsp;(G) ways to improve coordination to provide housing, health care, and other supportive services to older individuals.
 
-&emsp;(E) actively seek input from and consult with nongovernmental experts and organizations, including public health interest and research groups and foundations about the activities described in subparagraphs (A) through (F);
-
-&emsp;(F) identify any barriers and impediments, including barriers and impediments in statutory and regulatory law, to the access and use by older individuals of federally funded programs and services; and
-
-&emsp;(G) work with States to better provide housing, health care, and other supportive services to older individuals by—
-
-&emsp;&emsp;(i) holding meetings with State agencies;
-
-&emsp;&emsp;(ii) providing ongoing technical assistance to States about better meeting the needs of older individuals; and
-
-&emsp;&emsp;(iii) working with States to designate liaisons, from the State agencies, to the Committee.
-
-(7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
+(7) Not later than 90 days following the end of each term, the Committee shall prepare and submit to the Committee on Financial Services of the House of Representatives, the Committee on Education and Labor of the House of Representatives, the Committee on Energy and Commerce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Special Committee on Aging of the Senate, a report that—
 
 &emsp;(A) describes the activities and accomplishments of the Committee in—
 
-&emsp;&emsp;(i) enhancing the overall coordination of federally funded programs and services for older individuals; and
+&emsp;&emsp;(i) enhancing the overall coordination of federally funded programs and services that impact older individuals; and
 
 &emsp;&emsp;(ii) meeting the requirements of paragraph (6);
 
@@ -114,7 +104,21 @@ For the purposes of subsection (a), programs related to the objectives of this c
 
 (8) On the request of the Committee, any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532; Pub. L. 113–128, title V, §512(w)(1), July 22, 2014, 128 Stat. 1713.)
+(9) In this subsection, the term "age-friendly community" means a community that—
+
+&emsp;(A) is taking measurable steps to—
+
+&emsp;&emsp;(i) include adequate and accessible housing, public spaces and buildings, safe and secure paths, variable route transportation services, and programs and services designed to support health and well-being;
+
+&emsp;&emsp;(ii) respect and include older individuals in social opportunities, civic participation, volunteerism, and employment; and
+
+&emsp;&emsp;(iii) facilitate access to supportive services for older individuals;
+
+&emsp;(B) is not an assisted living facility or long-term care facility; and
+
+&emsp;(C) has a plan in place to meet local needs for housing, transportation, civic participation, social connectedness, and accessible public spaces.
+
+(Pub. L. 89–73, title II, §203, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 32; amended Pub. L. 95–478, title I, §102(b), Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(d), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title II, §203, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§104(a), 105(b), 106(b), Nov. 29, 1987, 101 Stat. 929, 930; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–375, title II, §203, title IX, §904(a)(5), Sept. 30, 1992, 106 Stat. 1210, 1306; Pub. L. 103–82, title IV, §405(g)(2), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(4), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 105–220, title II, §251(b)(3), Aug. 7, 1998, 112 Stat. 1080; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(A), (f)(25)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–402, title IV, §401(b)(9)(A), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title II, §202(1), Nov. 13, 2000, 114 Stat. 2230; Pub. L. 109–365, title II, §203, Oct. 17, 2006, 120 Stat. 2532; Pub. L. 113–128, title V, §512(w)(1), July 22, 2014, 128 Stat. 1713; Pub. L. 116–131, title I, §124(a), (b), title VII, §701(4), Mar. 25, 2020, 134 Stat. 249, 271.)
 
 #### References in Text
 
@@ -126,11 +130,11 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 The United States Housing Act of 1937, referred to in subsec. (b)(5), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(8), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title I of the Higher Education Act of 1965 is classified generally to subchapter I (§1001 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128,title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (b)(8), was title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pub. L. 113–128 also included a title II, entitled the "Adult Education and Family Literacy Act", which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of Pub. L. 105–220 are deemed to refer to the corresponding provision of Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(10), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. Title XIX of the Public Health Service Act is classified to subchapter XVII (§300w et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -153,6 +157,50 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 In subsec. (b)(9), "sections 5309 and 5310 of title 49" substituted for "sections 3, 9, and 16 of the Federal Transit Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. Previously, section 9 of the Federal Transit Act, classified to section 1607a of former Title 49, Transportation, was repealed by Pub. L. 95–599, title III, §305(a), Nov. 6, 1978, 92 Stat. 2473, and a new section 9 of the Act, classified to section 1607a of former Title 49, was enacted by Pub. L. 97–424, title III, §303, formerly §303(a), Jan. 6, 1983, 96 Stat. 2141. The new section 9 of the Act was repealed and reenacted as sections 5307 and 5336 of Title 49, Transportation, by Pub. L. 103–272, §§1(b), 7(b), July 5, 1994, 108 Stat. 795, 840, 1379.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(20). Pub. L. 116–131, §124(a), added par. (20).
+
+Subsec. (c)(1). Pub. L. 116–131, §124(b)(1), substituted "other Federal officials" for "the Federal officials" and "Committee on Healthy Aging and Age-Friendly Communities" for "Committee on Aging" and inserted before period at end "and the development of a national set of recommendations, in accordance with paragraph (6), to support the ability of older individuals to age in place and access homelessness prevention services, preventive health care, promote age-friendly communities, and address the ability of older individuals to access long-term care supports, including access to caregivers and home- and community-based health services".
+
+Subsec. (c)(4). Pub. L. 116–131, §124(b)(2), inserted at end "The first term, after March 25, 2020, shall start not later than 1 year after March 25, 2020."
+
+Subsec. (c)(6). Pub. L. 116–131, §124(b)(3)(A), substituted "The recommendations described in paragraph (1) may include recommendations for" for "The Committee shall" in introductory provisions.
+
+Subsec. (c)(6)(A). Pub. L. 116–131, §124(b)(3)(B), substituted "ways to" for "share information with and establish an ongoing system to" and "that impact older individuals" for "for older individuals and recommend improvements to such system with an emphasis on—
+
+&emsp;"(i) improving access to programs and services for older individuals;
+
+&emsp;"(ii) maximizing the impact of federally funded programs and services for older individuals by increasing the efficiency, effectiveness, and delivery of such programs and services;
+
+&emsp;"(iii) planning and preparing for the impact of demographic changes on programs and services for older individuals; and
+
+&emsp;"(iv) reducing or eliminating areas of overlap and duplication by Federal agencies in the provision and accessibility of such programs and services".
+
+Subsec. (c)(6)(B). Pub. L. 116–131, §124(b)(3)(C)(i), struck out "identify, promote, and implement (as appropriate)," before "best practices" in introductory provisions.
+
+Subsec. (c)(6)(B)(iii). Pub. L. 116–131, §124(b)(3)(C)(ii)–(iv), added cl. (iii).
+
+Subsec. (c)(6)(C). Pub. L. 116–131, §124(b)(3)(D), inserted "ways to" before "collect", struck out "older individuals and" before "the programs", and substituted "older individuals to ensure that such information is accessible" for "the individuals to ensure that the individuals can access comprehensive information".
+
+Subsec. (c)(6)(D). Pub. L. 116–131, §124(b)(3)(E), substituted "ways to ensure" for "work with the Federal Interagency Forum on Aging-Related Statistics, the Bureau of the Census, and member agencies to ensure".
+
+Subsec. (c)(6)(E). Pub. L. 116–131, §124(b)(3)(F), substituted "seeking input from and consulting with nonprofit organizations, academic or research institutions, community-based organizations, philanthropic organizations, or other entities supporting age-friendly communities" for "seek input from and consult with nongovernmental experts and organizations, including public health interest and research groups and foundations".
+
+Subsec. (c)(6)(F). Pub. L. 116–131, §124(b)(3)(G), substituted "identifying" for "identify".
+
+Subsec. (c)(6)(G). Pub. L. 116–131, §124(b)(3)(H), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "work with States to better provide housing, health care, and other supportive services to older individuals by—
+
+&emsp;"(i) holding meetings with State agencies;
+
+&emsp;"(ii) providing ongoing technical assistance to States about better meeting the needs of older individuals; and
+
+&emsp;"(iii) working with States to designate liaisons, from the State agencies, to the Committee."
+
+Subsec. (c)(7). Pub. L. 116–131, §701(4), substituted "Committee on Education and Labor" for "Committee on Education and the Workforce" in introductory provisions.
+
+Subsec. (c)(7)(A)(i). Pub. L. 116–131, §124(b)(4), substituted "services that impact older individuals" for "services for older individuals".
+
+Subsec. (c)(9). Pub. L. 116–131, §124(b)(5), added par. (9).
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–128, §512(w)(1)(A), substituted "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Innovation and Opportunity Act" for "In particular, the Secretary of Labor shall consult and cooperate with the Assistant Secretary in carrying out title I of the Workforce Investment Act of 1998".
 
@@ -216,13 +264,9 @@ Subsec. (b). Pub. L. 97–115, §2(d)(2), substituted "purposes of this chapter"
 
 Subsec. (b). Pub. L. 95–478 added subsec. (b).
 
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

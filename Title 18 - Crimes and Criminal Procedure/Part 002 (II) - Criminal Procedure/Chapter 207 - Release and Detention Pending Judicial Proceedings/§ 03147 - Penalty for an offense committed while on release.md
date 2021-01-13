@@ -10,6 +10,8 @@ A person convicted of an offense committed while released under this chapter sha
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 98–473, title II, §223(g), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–646, §55(g), Nov. 10, 1986, 100 Stat. 3610.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3147, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 215, related to appeals from conditions of release, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
@@ -19,6 +21,8 @@ A prior section 3147, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 21
 <b>1986</b>—Pub. L. 99–646 substituted "under" for "pursuant to" in two places and "for the offense," for "for the offense".
 
 <b>1984</b>—Pub. L. 98–473, §223(g), struck out "not less than two years and" after "imprisonment of" in par. (1), and "not less than ninety days and" after "imprisonment of" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -4,8 +4,7 @@
 | :--- | ---: |
 | [131\.](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md) | Office of the Secretary of Defense. |
 | [132\.](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md) | Deputy Secretary of Defense. |
-| [132a.](%C2%A7%2000132a%20-%20Chief%20Management%20Officer.md) | Chief Management Officer. |
-| \[133. | Repealed.\] |
+| \[132a, 133. Repealed.\] |  |
 | [133a.](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md) | Under Secretary of Defense for Research and Engineering. |
 | [133b.](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md) | Under Secretary of Defense for Acquisition and Sustainment. |
 | [134\.](%C2%A7%2000134%20-%20Under%20Secretary%20of%20Defense%20for%20Policy.md) | Under Secretary of Defense for Policy. |
@@ -19,7 +18,7 @@
 | \[138a to 138d. Repealed.\] |  |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
 | [139a.](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md) | Director of Cost Assessment and Program Evaluation. |
-| [139b.](%C2%A7%2000139b%20-%20Special%20Operations%20Policy%20and%20Oversight%20Council.md) | Special Operations Policy and Oversight Council. |
+| [139b.](%C2%A7%2000139b%20-%20Secretariat%20for%20Special%20Operations%3B%20Special%20Operations%20Policy%20and%20Oversight%20Council.md) | Secretariat for Special Operations; Special Operations Policy and Oversight Council. |
 | \[139c. | Repealed.\] |
 | \[139d, 139e. Renumbered.\] |  |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
@@ -29,10 +28,14 @@
 | [143\.](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md) | Office of the Secretary of Defense personnel: limitation. |
 | [144\.](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 | [145\.](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md) | Principal Advisor on Countering Weapons of Mass Destruction. |
+| [146\.](%C2%A7%2000146%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md) | Office of Local Defense Community Cooperation. |
+| [147\.](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md) | Chief Diversity Officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence" in item 137.
 
@@ -86,11 +89,11 @@ Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 
 
 Pub. L. 100–26, §9(b)(2), Apr. 21, 1987, 101 Stat. 287, struck out item 140a "Counterintelligence official reception and representation expenses" and item 140b "Authority to use proceeds from counterintelligence operations of the military departments".
 
-<b>1986</b>—Pub. L. 99–500, §101(c) \[title X, §902(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, §101(c) \[title X, §902(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, §902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
+<b>1986</b>—Pub. L. 99–500, §101(c) \[title X, §902(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591,§101(c) \[title X, §902(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, §902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
 
 Pub. L. 99–569, title IV, §§401(d), 403(b), Oct. 27, 1986, 100 Stat. 3196, 3197, added items 140a and 140b.
 
-Pub. L. 99–433, title I, §§101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted "Office of the Secretaryof Defense" for "Department of Defense" in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 "Executive department", 132 "Seal", 133 "Secretary of Defense: appointment; powers and duties; delegation by", 133a "Secretary of Defense: annual report on North Atlantic Treaty Organization readiness", 133b "Sale or transfer of defense articles: reports to Congress", 134 "Deputy Secretary of Defense: appointment; powers and duties; precedence", 134a "Under Secretary of Defense for Acquisition: appointment", 135 "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence", 136 "Assistant Secretaries of Defense: appointment; powers and duties; precedence", 136a "Director of Operational Test and Evaluation: appointment, powers and duties", 137 "General Counsel: appointment; powers and duties", 138 "Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports", 139 "Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports", 139a "Oversight of cost growth in major programs: Selected Acquisition Reports", 139b "Oversight of cost growth in major programs: unit cost reports", 139c "Major defense acquisition programs: independent cost estimates", 140 "Emergencies and extraordinary expenses", 140a "Secretary of Defense: funds transfers for foreign cryptologic support", 140b "Prohibition of certain civilian personnel management constraints", and 140c "Secretary of Defense: authority to withhold from public disclosure certain technical data".
+Pub. L. 99–433, title I, §§101(a)(6), 110(e)(2), Oct. 1, 1986, 100 Stat. 995, 1003, substituted "Office of the Secretary of Defense" for "Department of Defense" in chapter heading, and amended analysis generally, substituting items 131 to 140 for former items 131 "Executive department", 132 "Seal", 133 "Secretary of Defense: appointment; powers and duties; delegation by", 133a "Secretary of Defense: annual report on North Atlantic Treaty Organization readiness", 133b "Sale or transfer of defense articles: reports to Congress", 134 "Deputy Secretary of Defense: appointment; powers and duties; precedence", 134a "Under Secretary of Defense for Acquisition: appointment", 135 "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence", 136 "Assistant Secretaries of Defense: appointment; powers and duties; precedence", 136a "Director of Operational Test and Evaluation: appointment, powers and duties", 137 "General Counsel: appointment; powers and duties", 138 "Annual authorization of appropriations and personnel strengths for the armed forces; annual manpower requirements and operations and maintenance reports", 139 "Secretary of Defense: weapons development and procurement schedules for armed forces; reports; supplemental reports", 139a "Oversight of cost growth in major programs: Selected Acquisition Reports", 139b "Oversight of cost growth in major programs: unit cost reports", 139c "Major defense acquisition programs: independent cost estimates", 140 "Emergencies and extraordinary expenses", 140a "Secretary of Defense: funds transfers for foreign cryptologic support", 140b "Prohibition of certain civilian personnel management constraints", and 140c "Secretary of Defense: authority to withhold from public disclosure certain technical data".
 
 Pub. L. 99–348, title V, §501(e)(2), July 1, 1986, 100 Stat. 708, added item 134a and substituted "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments" for "Under Secretaries of Defense: appointment" in item 135.
 
@@ -116,7 +119,7 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title IX, §910(a)(2), Dec. 12, 2017, 131 Stat. 1517, provided that the amendment made by section 910(a)(2) is effective Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, §910(a)(2), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(a)(2) was effective Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 Pub. L. 115–91, div. A, title X, §1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(B) is effective as of Dec. 23, 2016.
 
@@ -135,7 +138,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 
 - [&sect; 00131 - Office of the Secretary of Defense](%C2%A7%2000131%20-%20Office%20of%20the%20Secretary%20of%20Defense.md)
 - [&sect; 00132 - Deputy Secretary of Defense](%C2%A7%2000132%20-%20Deputy%20Secretary%20of%20Defense.md)
-- [&sect; 00132a - Chief Management Officer](%C2%A7%2000132a%20-%20Chief%20Management%20Officer.md)
+- [&sect; 00132a - Repealed. Pub. L. 116&#8211;283, div. A, title IX, &sect;901(a)(1), Jan. 1, 2021, 134 Stat. 3794](%C2%A7%2000132a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%203794.md)
 - [&sect; 00133 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;901(a)(1), Dec. 23, 2016, 130 Stat. 2339](%C2%A7%2000133%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202339.md)
 - [&sect; 00133a - Under Secretary of Defense for Research and Engineering](%C2%A7%2000133a%20-%20Under%20Secretary%20of%20Defense%20for%20Research%20and%20Engineering.md)
 - [&sect; 00133b - Under Secretary of Defense for Acquisition and Sustainment](%C2%A7%2000133b%20-%20Under%20Secretary%20of%20Defense%20for%20Acquisition%20and%20Sustainment.md)
@@ -153,7 +156,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 - [&sect; 00138d - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(h)(4), Dec. 19, 2014, 128 Stat. 3467](%C2%A7%2000138d%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28h%29%284%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203467.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
 - [&sect; 00139a - Director of Cost Assessment and Program Evaluation](%C2%A7%2000139a%20-%20Director%20of%20Cost%20Assessment%20and%20Program%20Evaluation.md)
-- [&sect; 00139b - Special Operations Policy and Oversight Council](%C2%A7%2000139b%20-%20Special%20Operations%20Policy%20and%20Oversight%20Council.md)
+- [&sect; 00139b - Secretariat for Special Operations; Special Operations Policy and Oversight Council](%C2%A7%2000139b%20-%20Secretariat%20for%20Special%20Operations%3B%20Special%20Operations%20Policy%20and%20Oversight%20Council.md)
 - [&sect; 00139c - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;901(e)(2), Dec. 23, 2016, 130 Stat. 2342](%C2%A7%2000139c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28e%29%282%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202342.md)
 - [&sect; 00139d, 139e - Renumbered &sect;&sect;139b, 139c](%C2%A7%2000139d%2C%20139e%20-%20Renumbered%20%C2%A7%C2%A7139b%2C%20139c.md)
 - [&sect; 00140 - General Counsel](%C2%A7%2000140%20-%20General%20Counsel.md)
@@ -165,3 +168,5 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 - [&sect; 00143 - Office of the Secretary of Defense personnel limitation](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md)
 - [&sect; 00144 - Director of Small Business Programs](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md)
 - [&sect; 00145 - Principal Advisor on Countering Weapons of Mass Destruction](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md)
+- [&sect; 00146 - Office of Local Defense Community Cooperation](%C2%A7%2000146%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md)
+- [&sect; 00147 - Chief Diversity Officer](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md)

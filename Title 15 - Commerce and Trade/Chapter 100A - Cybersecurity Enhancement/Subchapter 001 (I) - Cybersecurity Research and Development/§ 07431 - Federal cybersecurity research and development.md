@@ -24,9 +24,11 @@
 
 &emsp;&emsp;(I) how improved consumer education and digital literacy initiatives can address human factors that contribute to cybersecurity;
 
-&emsp;&emsp;(J) how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services; and
+&emsp;&emsp;(J) how to protect information processed, transmitted, or stored using cloud computing or transmitted through wireless services;
 
-&emsp;&emsp;(K) any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
+&emsp;&emsp;(K) implementation of section 7432 of this title through research and development on the topics identified under subsection (a) of such section; and
+
+&emsp;&emsp;(L) any additional objectives the heads of the applicable agencies and departments, in coordination with the head of any relevant Federal agency and with input from stakeholders, including appropriate national laboratories, industry, and academia, determine appropriate.
 
 #### (2) Requirements
 
@@ -34,13 +36,13 @@
 
 &emsp;&emsp;The strategic plan shall—
 
-&emsp;&emsp;&emsp;(i) specify and prioritize near-term, mid-term, and long-term research objectives,including objectives associated with the research identified in section 7403(a)(1) of this title;
+&emsp;&emsp;&emsp;(i) specify and prioritize near-term, mid-term, and long-term research objectives, including objectives associated with the research identified in section 7403(a)(1) of this title;
 
 &emsp;&emsp;&emsp;(ii) specify how the near-term objectives described in clause (i) complement research and development areas in which the private sector is actively engaged;
 
 &emsp;&emsp;&emsp;(iii) describe how the heads of the applicable agencies and departments will focus on innovative, transformational technologies with the potential to enhance the security, reliability, resilience, and trustworthiness of the digital infrastructure, and to protect consumer privacy;
 
-&emsp;&emsp;&emsp;(iv) describe how the heads of the applicable agencies and departments will foster the rapid transfer of research and development results into new cybersecurity technologies and applications for the timely benefit of society and the national interest, including through the dissemination of best practices and other outreach activities;
+&emsp;&emsp;&emsp;(iv) describe how the heads of the applicable agencies and departments will foster the rapid transfer of research and development results into new cybersecurity technologies and applications for the timely benefit of society and the national interest, including through the disseminationof best practices and other outreach activities;
 
 &emsp;&emsp;&emsp;(v) describe how the heads of the applicable agencies and departments will establish and maintain a national research infrastructure for creating, testing, and evaluating the next generation of secure networking and information technology systems; and
 
@@ -96,7 +98,7 @@ The Director of the National Science Foundation shall support research that—
 
 #### (1) Review
 
-&emsp;Not later than 1 year after December 18, 2014, the Director of the National Science Foundation, in coordination with the Directorof the Office of Science and Technology Policy, shall conduct a review of cybersecurity test beds in existence on December 18, 2014, to inform the grants under paragraph (2). The review shall include an assessment of whether a sufficient number of cybersecurity test beds are available to meet the research needs under the Federal cybersecurity research and development strategic plan. Upon completion, the Director shall submit the review to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;Not later than 1 year after December 18, 2014, the Director of the National Science Foundation, in coordination with the Director of the Office of Science and Technology Policy, shall conduct a review of cybersecurity test beds in existence on December 18, 2014, to inform the grants under paragraph (2). The review shall include an assessment of whether a sufficient number of cybersecurity test beds are available to meet the research needs under the Federal cybersecurity research and development strategic plan. Upon completion, the Director shall submit the review to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (2) Additional cybersecurity modeling and test beds
 
@@ -138,7 +140,7 @@ In accordance with the responsibilities under section 5511 of this title, the Di
 
 The head of each agency and department identified under section 5511(a)(3)(B) <sup>1</sup> of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
-(Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, §105(t), Jan. 6, 2017, 130 Stat. 2985.)
+(Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, §105(t), Jan. 6, 2017, 130 Stat. 2985; Pub. L. 116–283, div. H, title XCIV, §9407(b), Jan. 1, 2021, 134 Stat. 4814.)
 
 #### References in Text
 
@@ -149,6 +151,8 @@ Section 5511(a)(3)(B) of this title, referred to in subsecs. (a)(4) and (f), was
 Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section 201 of Pub. L. 113–274 amended section 7403 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(K), (L). Pub. L. 116–283 added subpar. (K) and redesignated former subpar. (K) as (L).
 
 <b>2017</b>—Subsec. (a)(4). Pub. L. 114–329 substituted "clauses (i) through (xi)" for "clauses (i) through (x)" and "under clause (xii)" for "under clause (xi)".
 

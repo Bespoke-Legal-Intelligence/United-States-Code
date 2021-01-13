@@ -52,7 +52,7 @@
 
 &emsp;(ii) has been brought into the United States in violation of this subsection.
 
-(4) In the case of a person who has brought aliens into the United States in violation of this subsection, the sentence otherwise provided for may be increased by up to 10 years if—
+(4) In the case of a person who has brought aliens into the United States in violation of thissubsection, the sentence otherwise provided for may be increased by up to 10 years if—
 
 &emsp;(A) the offense was part of an ongoing commercial organization or enterprise;
 
@@ -96,6 +96,8 @@ The Secretary of Homeland Security, in consultation with the Attorney General an
 
 (June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737; Pub. L. 109–97, title VII, §796, Nov. 10, 2005, 119 Stat. 2165.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -120,7 +122,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 104–208, §203(b)(2)(B), substituted "(iv), or 
 
 Subsec. (a)(1)(B)(iii), (iv). Pub. L. 104–208, §203(b)(2)(C), (D), substituted "(iv), or (v)" for "or (iv)".
 
-Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted "for each alien in respect to whom a violation of this paragraph occurs" for "for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved" in introductory provisions.
+Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted "for each alien in respect to whom a violation of thisparagraph occurs" for "for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved" in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted "be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years." for "be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both.."
 
@@ -164,9 +166,11 @@ Subsec. (b)(4)(D). Pub. L. 99–603, §112(b)(6), added subpar. (D).
 
 Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted ", except that" for ": <i>Provided</i>, That" in provisions preceding subpar. (A), substituted "had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law" for "was not lawfully entitled to enter, or reside within, the United States" wherever appearing, inserted "or of the Department of State" in subpar. (B), and substituted "had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law" for "was not entitled to enter, or reside within, the United States" in subpar. (C).
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the "innocent owner" exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out therequirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
+<b>1981</b>—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the "innocent owner" exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out the requirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
 
 <b>1978</b>—Subsecs. (b), (c). Pub. L. 95–582 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -176,7 +180,7 @@ Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as
 
 Pub. L. 104–208, div. C, title II, §203(f), Sept. 30, 1996, 110 Stat. 3009–567, provided that: "This section \[amending this section and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the ViolentCrime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 

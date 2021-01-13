@@ -2,7 +2,7 @@
 
 #### (a) Tax imposed
 
-A tax is hereby imposed for each taxable year on the life insurance company taxable income of every life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
+A tax is hereby imposed for each taxable year on the life insurance company taxable income ofevery life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
 
 #### (b) Life insurance company taxable income
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title II, §215, July 18, 1984, 98 Stat. 758, provided that: "The amendments made bythis subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983."
+Pub. L. 98–369, div. A, title II, §215, July 18, 1984, 98 Stat. 758, provided that: "The amendments made by this subtitle \[subtitle A (§§211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1983."
 
 #### Phased Inclusion of Remaining Balance of Policyholders Surplus Accounts
 
@@ -74,7 +74,7 @@ Qualified Group Self-Insurers' Fund.—For purposes of this section, the term 'q
 
 &emsp;"(2) each employer who is a member of the group, by written agreement, is jointly and severally bound to assume and discharge, by payment, any lawful judgment or award entered by a court of competent jurisdiction or by the State agency responsible for administering the State workers' disability compensation laws against a member of the group,
 
-&emsp;"(3) the group is prohibited by State law or regulation from using the monies collected for a purpose other than to pay, or to reserve against, claims under the State workers' disability compensation laws and expenses,
+&emsp;"(3) the group is prohibited by State law or regulation from using the monies collected for a purposeother than to pay, or to reserve against, claims under the State workers' disability compensation laws and expenses,
 
 &emsp;"(4) the group is prohibited by State law or regulation from taking projected investment income into account in determining members' premiums,
 
@@ -156,7 +156,7 @@ Fresh Start.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting '1985' for '1984' in the case of an insurance company which is a member of a controlled group (as defined in \[former\] section 806(d)(3)), the common parent of which is
+In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31,1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting '1985' for '1984' in the case of an insurance company which is a member of a controlled group (as defined in \[former\] section 806(d)(3)), the common parent of which is
 
 &emsp;&emsp;"(A) a company having its principal place of business in Alabama and incorporated in Delaware on November 29, 1979, or
 
@@ -220,7 +220,7 @@ election.—In the case of any reserve described in subparagraph (A), for purpos
 
 &emsp;&emsp;"(C) 10-
 
-year spread inapplicable where no 10-year spread under prior law.—In the case of anyitem to which section 807(f) of such Code applies by reason of subparagraph (A) or (B), such item shall be taken into account for the first taxable year beginning after December 31, 1983 (in lieu of over the 10-year period otherwise provided in such section) unless the item would have been required to be taken into account over a period of 10 taxable years under \[former\] section 810(d) of such Code (as in effect on the day before the date of the enactment of this Act).
+year spread inapplicable where no 10-year spread under prior law.—In the case of any item to which section 807(f) of such Code applies by reason of subparagraph (A) or (B), such item shall be taken into account for the first taxable year beginning after December 31, 1983 (in lieu of over the 10-year period otherwise provided in such section) unless the item would have been required to be taken into account over a period of 10 taxable years under \[former\] section 810(d) of such Code (as in effect on the day before the date of the enactment of this Act).
 
 &emsp;&emsp;"(D)
 
@@ -310,7 +310,7 @@ In general.—If—
 
 &emsp;&emsp;"(B)
 
-Adjustment to reserves.—If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
+Adjustment to reserves.—If this paragraph applies to any contract, the opening and closing statutory reserves for such contract shall be adjusted as provided under the principles of section 805(c)(1) of such Code (as in effect for taxable years beginning in 1982 and 1983), except that section 805(c)(1)(B)(ii) of such Code (as so in effect) shall be applied by substituting—
 
 &emsp;&emsp;&emsp;"(i) the prevailing State assumed interest rate (within the meaning of section 807(c)(4) of such Code), for
 

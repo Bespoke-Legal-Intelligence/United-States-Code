@@ -30,7 +30,7 @@ Notwithstanding any other provision of this subpart, the following rules shall a
 
 &emsp;&emsp;&emsp;(ii) a position, right to income, or a liability which is not a security in the hands of the taxpayer.
 
-> &emsp;To the extent provided in regulations, subparagraph (C) shall not apply to any security held by a person in its capacity as a dealer in securities.
+> &emsp;To the extent provided in regulations, subparagraph (C) shall not apply to any securityheld by a person in its capacity as a dealer in securities.
 
 #### (2) Identification required
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expectedto become a hedge within 60 days after the acquisition of the position.
+&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 

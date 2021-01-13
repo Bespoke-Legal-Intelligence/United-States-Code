@@ -1,6 +1,6 @@
 ### §343. Discount of obligations arising out of actual commercial transactions
 
-Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may discount notes, drafts, and bills of exchange arising out of actual commercial transactions; that is, notes, drafts, and bills of exchange issued or drawn for agricultural, industrial, or commercial purposes, or the proceeds of which have been used, or are to be used, for such purposes, the Board of Governors of the Federal Reserve System to have the right to determine or define the character of the paper thus eligible for discount, within the meaning of this chapter. Nothing in this chapter contained shall be construed to prohibit such notes, drafts, and bills of exchange, secured by staple agricultural products, or other goods, wares, or merchandise from being eligible for such discount, and the notes, drafts, and bills of exchange offactors issued as such making advances exclusively to producers of staple agricultural products in their raw state shall be eligible for such discount; but such definition shall not include notes, drafts, or bills covering merely investments or issued or drawn for the purpose of carrying or trading in stocks, bonds, or other investment securities, except bonds and notes of the Government of the United States. Notes, drafts, and bills admitted to discount under the terms of this paragraph must have a maturity at the time of discount of not more than ninety days, exclusive of grace.
+Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may discount notes, drafts, and bills of exchange arising out of actual commercial transactions; that is, notes, drafts, and bills of exchange issued or drawn for agricultural, industrial, or commercial purposes, or the proceeds of which have been used, or are to be used, for such purposes, the Board of Governors of the Federal Reserve System to have the right to determine or define the character of the paper thus eligible for discount, within the meaning of this chapter. Nothing in this chapter contained shall be construed to prohibit such notes, drafts, and bills of exchange, secured by staple agricultural products, or other goods, wares, or merchandise from being eligible for such discount, and the notes, drafts, and bills of exchange of factors issued as such making advances exclusively to producers of staple agricultural products in their raw state shall be eligible for such discount; but such definition shall not include notes, drafts, or bills covering merely investments or issued or drawn for the purpose of carrying or trading in stocks, bonds, or other investment securities, except bonds and notes of the Government of the United States. Notes, drafts, and bills admitted to discount under the terms of this paragraph must have a maturity at the time of discount of not more than ninety days, exclusive of grace.
 
 (3)(A) <sup>1</sup> In unusual and exigent circumstances, the Board of Governors of the Federal Reserve System, by the affirmative vote of not less than five members, may authorize any Federal reserve bank, during such periods as the said board may determine, at rates established in accordance with the provisions of section 357 of this title, to discount for any participant in any program or facility with broad-based eligibility, notes, drafts, and bills of exchange when such notes, drafts, and bills of exchange are indorsed or otherwise secured to the satisfaction of the Federal reserve bank: <i>Provided</i>, That before discounting any such note, draft, or bill of exchange, the Federal reserve bank shall obtain evidence that such participant in any program or facility with broad-based eligibility is unable to secure adequate credit accommodations from other banking institutions. All such discounts for any participant in any program or facility with broad-based eligibility shall be subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe.
 
@@ -50,11 +50,13 @@ Upon the indorsement of any of its member banks, which shall be deemed a waiver 
 
 &emsp;(iii) identifying details concerning the assets or collateral held by, under, or in connection with such a program or facility,
 
-> shall be kept confidential, upon the written request of the Chairman of the Board, in whichcase such information shall be made available only to the Chairpersons or Ranking Members of the Committees described in subparagraph (C).
+> shall be kept confidential, upon the written request of the Chairman of the Board, in which case such information shall be made available only to the Chairpersons or Ranking Members of the Committees described in subparagraph (C).
 
 (E) If an entity to which a Federal reserve bank has provided a loan under this paragraph becomes a covered financial company, as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381\], at any time while such loan is outstanding, and the Federal reserve bank incurs a realized net loss on the loan, then the Federal reserve bank shall have a claim equal to the amount of the net realized loss against the covered entity, with the same priority as an obligation to the Secretary of the Treasury under section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5390(b)\].
 
 (Dec. 23, 1913, ch. 6, §13 (pars.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, §402, 42 Stat. 1478; July 21, 1932, ch. 520, §210, 47 Stat. 715; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §322, 49 Stat. 704, 714; Pub. L. 102–242, title IV, §473, Dec. 19, 1991, 105 Stat. 2386; Pub. L. 111–203, title XI, §1101(a), July 21, 2010, 124 Stat. 2113.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -64,7 +66,7 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in pa
 
 #### Codification
 
-Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, §1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
+Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, addedthe second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, §1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
 
 #### Amendments
 
@@ -80,6 +82,8 @@ Par. (3)(B) to (E). Pub. L. 111–203, §1101(a)(6), added subpars. (B) to (E).
 
 <b>1932</b>—Act July 21, 1932, added second par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
@@ -87,6 +91,10 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
+#### Construction of Div. N of Pub. L. 116–260
+
+Pub. L. 116–260, div. N, title X, §1006, Dec. 27, 2020, 134 Stat. 2147, provided that: "Except as expressly set forth in paragraphs (1) and (2) of subsection (c) of section 4029 of the CARES Act \[15 U.S.C. 9063(c)(1), (2)\], as added by this Act, nothing in this Act \[div. N of Pub. L. 116–260, see Tables for classification\] shall be construed to modify or limit the authority of the Board of Governors of the Federal Reserve System under section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) as of the day before the date of enactment of the CARES Act (Public Law 116–136) \[Mar. 27, 2020\]."
 
 #### References to Third Undesignated Paragraph Deemed To Be References to Paragraph (3)
 

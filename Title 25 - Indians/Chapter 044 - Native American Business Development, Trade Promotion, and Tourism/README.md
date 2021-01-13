@@ -8,6 +8,7 @@
 | [4304\.](%C2%A7%2004304%20-%20Native%20American%20trade%20and%20export%20promotion.md) | Native American trade and export promotion. |
 | [4305\.](%C2%A7%2004305%20-%20Intertribal%20tourism%20demonstration%20projects.md) | Intertribal tourism demonstration projects. |
 | [4306\.](%C2%A7%2004306%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [4306a.](%C2%A7%2004306a%20-%20Indian%20community%20development%20initiatives.md) | Indian community development initiatives. |
 | [4307\.](%C2%A7%2004307%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,4 +24,5 @@
 - [&sect; 04304 - Native American trade and export promotion](%C2%A7%2004304%20-%20Native%20American%20trade%20and%20export%20promotion.md)
 - [&sect; 04305 - Intertribal tourism demonstration projects](%C2%A7%2004305%20-%20Intertribal%20tourism%20demonstration%20projects.md)
 - [&sect; 04306 - Report to Congress](%C2%A7%2004306%20-%20Report%20to%20Congress.md)
+- [&sect; 04306a - Indian community development initiatives](%C2%A7%2004306a%20-%20Indian%20community%20development%20initiatives.md)
 - [&sect; 04307 - Authorization of appropriations](%C2%A7%2004307%20-%20Authorization%20of%20appropriations.md)

@@ -20,6 +20,8 @@ July 18, 1958, Pub. L. 85–538, §1 "Sec. 2(c)", 72 Stat. 397.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 substituted "(33 U.S.C. 902(2))" for "(33 U.S.C. 2(2))".

@@ -24,7 +24,7 @@ Prior similar provisions were contained in section 225, of act July 30, 1953, ch
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–328 substituted "small business concerns" for "businesses".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or wouldbe declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "October 1, 1987" for "October 1, 1986".
 

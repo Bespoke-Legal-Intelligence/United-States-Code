@@ -4,6 +4,8 @@ Nothing in sections 185, 221,<sup>1</sup> 223, 223a,<sup>1</sup> and 226 of this
 
 (Aug. 21, 1935, ch. 599, §3, 49 Stat. 679.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 221 of this title, referred to in text, was omitted from the Code.

@@ -20,9 +20,13 @@ Words "on conviction thereof" were omitted as surplusage as punishment cannot be
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in last par.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10361
 

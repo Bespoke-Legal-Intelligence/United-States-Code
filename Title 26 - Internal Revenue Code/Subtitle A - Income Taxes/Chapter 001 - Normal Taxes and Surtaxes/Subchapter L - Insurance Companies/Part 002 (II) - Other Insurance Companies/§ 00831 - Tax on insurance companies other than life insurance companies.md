@@ -166,7 +166,7 @@ Subsecs. (c), (d). Pub. L. 108–218, §206(c), added subsec. (c) and redesignat
 
 Subsec. (b)(3). Pub. L. 100–647, §1010(f)(9), added par. (3).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (otherthan life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted "on the taxable income" for "or the taxable income".
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by thissection \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1976 Amendment
 

@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted "Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income" for "Adjustment of Debts of Family Farmers with Regular Annual Income" in item for chapter 12 and added item for chapter 15.
@@ -4122,9 +4124,11 @@ T. 15 §78c(a)(4), (5)
 
 1501–151326
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clause
 
-Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: "The law relating to bankruptcy is codified and enacted as title 11 of the United StatesCode, entitled 'Bankruptcy', and may be cited as 11 U.S.C. §—."
+Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: "The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled 'Bankruptcy', and may be cited as 11 U.S.C. §—."
 
 #### Repeals
 

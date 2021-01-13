@@ -50,6 +50,8 @@ June 29, 1936, ch. 858, title XIII, §1304(f), as added Pub. L. 96–453, §2, O
 
 In subsection (a)(3), the words "administered by the Coast Guard" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–328, §3515(1)(A), substituted "shall" for "must" in introductory provisions.

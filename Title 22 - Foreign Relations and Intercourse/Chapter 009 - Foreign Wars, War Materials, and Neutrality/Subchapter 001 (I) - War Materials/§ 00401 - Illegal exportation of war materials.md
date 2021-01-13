@@ -6,13 +6,15 @@ Whenever an attempt is made to export or ship from or take out of the United Sta
 
 #### (b) Applicability of laws relating to seizure, forfeiture, and condemnation
 
-All provisions of law relating to seizure, summary and judicial forfeiture and condemnation for violation of the customs laws, the disposition of the property forfeited or condemned or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. However, with respect to seizures and forfeitures of property under this section by theSecretary of Commerce, such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs law may be performed by such officers as are designated by the Secretary of Commerce or, upon the request of the Secretary of Commerce, by any other agency that has authority to manage and dispose of seized property. Awards of compensation to informers under this section may be paid only out of funds specifically appropriated therefor.
+All provisions of law relating to seizure, summary and judicial forfeiture and condemnation for violation of the customs laws, the disposition of the property forfeited or condemned or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. However, with respect to seizures and forfeitures of property under this section by the Secretary of Commerce, such duties as are imposed upon the customs officer or any other person with respect to the seizure and forfeiture of property under the customs law may be performed by such officers as are designated by the Secretary of Commerce or, upon the request of the Secretary of Commerce, by any other agency that has authority to manage and dispose of seized property. Awards of compensation to informers under this section may be paid only out of funds specifically appropriated therefor.
 
 #### (c) Disposition of forfeited materials
 
 Arms and munitions of war forfeited under subsection (b) of this section shall be delivered to the Secretary of Defense for such use or disposition as he may deem in the public interest, or, in the event that the Secretary of Defense refuses to accept such arms and munitions of war, they shall be sold or otherwise disposed of as prescribed under existing law in the case of forfeitures for violation of the customs laws.
 
 (June 15, 1917, ch. 30, title VI, §1, 40 Stat. 223; June 17, 1930, ch. 497, title IV, §523, 46 Stat. 740; Aug. 13, 1953, ch. 434, §1, 67 Stat. 577; Pub. L. 105–119, title II, §211(a), Nov. 26, 1997, 111 Stat. 2487.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ Subsec. (b). Pub. L. 105–119, which directed the amendment of section 401 of t
 <b>1953</b>—Act Aug. 13, 1953, provided not only seizure and forfeiture of articles or merchandise which are being, or are intended to be illegally exported, and the vehicle, vessel, or aircraft in which exportation is intended to accomplish, but also for the seizure and forfeiture of articles or merchandise actually illegally exported out, the carrier used to effectuate the exportation, provided for applicability of laws relating to seizure, summary and judicial forfeiture and condemnation, and provided for the disposition of seized materials.
 
 <b>1930</b>—Act June 17, 1930, substituted "comptrollers of customs" for "Naval officers of customs".
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10863. Authorization of Attorney General To Seize Arms and Munitions of War, and Other Articles
 

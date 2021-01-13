@@ -45,6 +45,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273, div. C, title I, §11020(b)(1)(B), Nov. 2, 2002, 116 Stat. 1827, added item 1369.

@@ -4,9 +4,13 @@ The shipment or transportation, in any manner or by any means whatsoever, of any
 
 (Aug. 27, 1935, ch. 740, §202(b), 49 Stat. 877.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the act of Mar. 1, 1913, ch. 90, §1, 37 Stat. 699.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

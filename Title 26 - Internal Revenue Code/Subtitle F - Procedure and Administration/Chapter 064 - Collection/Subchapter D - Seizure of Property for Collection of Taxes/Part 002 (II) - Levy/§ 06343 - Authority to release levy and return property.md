@@ -80,7 +80,7 @@ In the case of a levy on the salary or wages payable to or received by the taxpa
 
 &emsp;&emsp;&emsp;(ii) interest paid under subsection (c) on such amount of money,
 
-> &emsp;&emsp;into such eligible retirement plan if such contribution is permitted by the plan, or into an individual retirement plan (other than an endowment contract) to which a rollover contribution of a distribution from such eligible retirement plan is permitted, but only if such contribution is made not later than the due date (not including extensions) for filing the return of tax for the taxable year in which such property or amount of money is returned, and
+> &emsp;&emsp;into such eligible retirement plan if such contribution is permitted by the plan, or into an individual retirement plan (other than an endowment contract) to which a rollover contribution of a distribution fromsuch eligible retirement plan is permitted, but only if such contribution is made not later than the due date (not including extensions) for filing the return of tax for the taxable year in which such property or amount of money is returned, and
 
 &emsp;&emsp;(B) the Secretary shall, at the time such property or amount of money is returned, notify such individual that a contribution described in subparagraph (A) may be made.
 

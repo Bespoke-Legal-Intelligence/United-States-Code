@@ -110,6 +110,8 @@ Any stock in a person liable to the corporation under this subchapter which is p
 
 (Pub. L. 93–406, title IV, §4005, Sept. 2, 1974, 88 Stat. 1009; Pub. L. 96–364, title IV, §403(a), Sept. 26, 1980, 94 Stat. 1300; Pub. L. 99–272, title XI, §11016(a)(1), (2), (c)(7), Apr. 7, 1986, 100 Stat. 268, 274; Pub. L. 100–203, title IX, §§9312(c)(4), 9331(d), Dec. 22, 1987, 101 Stat. 1330–364, 1330–368; Pub. L. 103–465, title VII, §776(b)(2), Dec. 8, 1994, 108 Stat. 5048; Pub. L. 112–141, div. D, title II, §40234(a), (b)(1), July 6, 2012, 126 Stat. 858; Pub. L. 113–235, div. O, title I, §131(b), Dec. 16, 2014, 128 Stat. 2797.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(3). Pub. L. 113–235 designated existing provisions as subpar. (A) and added subpar. (B).
@@ -122,7 +124,7 @@ Subsec. (b)(3). Pub. L. 112–141, §40234(b)(1)(A)(iii), substituted period at 
 
 Subsec. (c). Pub. L. 112–141, §40234(a), struck out subsec. (c) which related to authority to issue notes or other obligations and purchase by Secretary of the Treasury as public debt transaction.
 
-Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "None of the funds borrowed under subsection (c) may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a)."
+Subsec. (g)(2), (3). Pub. L. 112–141, §40234(b)(1)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "None of the funds borrowed under subsection (c) may be used to make loans to (or on behalf of) any fund other than a fund described in the second sentence of subsection (a)."
 
 <b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–465, which directed the amendment of subpar. (A) by inserting "or benefits payable under section 1350 of this title" after "section 1322a of this title", was executed by making the insertion after "section 1322 or 1322a of this title" to reflect the probable intent of Congress.
 
@@ -145,6 +147,8 @@ Subsec. (g). Pub. L. 99–272, §11016(c)(7), added subsec. (g).
 Subsec. (b)(2). Pub. L. 96–364, §403(a)(2), (3), in subpar. (A) inserted reference to section 1322a of this title, struck out subpar. (B) relating to payments under section 1323 of this title, and redesignated former subpars. (C) to (E) as (B) to (D), respectively.
 
 Subsecs. (d) to (f). Pub. L. 96–364, §403(a)(4), added subsecs. (d) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -1,6 +1,6 @@
 ### §3512. Executive agency accounting and other financial management reports and plans
 
-(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on the website described under section 1122 a financial management status report and a governmentwide 5-year financial management plan.
+(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on a website described in section 1122 a financial management status report and agovernmentwide 5-year financial management plan.
 
 (2) A financial management status report under this subsection shall include—
 
@@ -20,7 +20,7 @@
 
 &emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
 
-&emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement ofthe efforts underway to remedy the noncompliance; and
+&emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
 &emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
@@ -110,7 +110,7 @@
 
 (g) The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, §4, May 9, 2014, 128 Stat. 1153.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392; Pub. L. 113–101, §4, May 9, 2014, 128 Stat. 1153; Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(E), Jan. 1, 2021, 134 Stat. 4828.)
 
 Historical and Revision Notes<br>1982
 
@@ -202,9 +202,11 @@ In subsection (b)(1), before clause (A), the words "the head of" are added for c
 
 In subsection (c)(1)(A), the words "the head of each executive agency shall follow" are substituted for "agencies" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because ofthe restatement. The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word "related" is omitted as surplus.
+In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because of the restatement. The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word "related" is omitted as surplus.
 
 In subsection (c)(3)(A), the words "provision of" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -215,6 +217,8 @@ The Federal Financial Management Improvement Act of 1996, referred to in subsec.
 The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), is the date of enactment of Pub. L. 101–576, which added subsec. (a) and was approved Nov. 15, 1990.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "a website described in" for "the website described under".
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–101, which directed the insertion of "and make available on the website described under section 1122" after "appropriate committees of Congress" was executed by making the insertion after "appropriate committees of the Congress" to reflect the probable intent of Congress.
 
@@ -229,6 +233,8 @@ Subsec. (d)(1), (2). Pub. L. 103–272, §4(f)(1)(J)(ii), substituted "subsectio
 <b>1983</b>—Subsecs. (b), (c). Pub. L. 97–452 added subsecs. (b) and (c). Former subsecs. (b) and (c) were redesignated (d) and (e), respectively.
 
 Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -276,7 +282,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the 'FASAB') has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
 
-&emsp;"(7) The development of financial management systems with the capacity to support these standardsand concepts will, over the long term, improve Federal financial management.
+&emsp;"(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
 
 "(b)
 
@@ -362,7 +368,7 @@ Time period for compliance.—A remediation plan shall bring the agency's financ
 
 &emsp;&emsp;"(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
 
-&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
+&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems intocompliance with the requirements of subsection (a); and
 
 &emsp;&emsp;"(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
 

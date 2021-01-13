@@ -72,7 +72,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (2) Restriction on organizations
 
-&emsp;No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) <sup>1</sup> of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that it does not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
+&emsp;No funds made available to carry out this chapter, or any amendment made by this chapter, may be used to implement any program that targets victims of severe forms of trafficking in persons described in section 7102(9)(A) <sup>1</sup> of this title through any organization that has not stated in either a grant application, a grant agreement, or both, that itdoes not promote, support, or advocate the legalization or practice of prostitution. The preceding sentence shall not apply to organizations that provide services to individuals solely after they are no longer engaged in activities that resulted from such victims being trafficked.
 
 #### (h) Authorization of appropriations to Director of the FBI
 
@@ -83,6 +83,8 @@ There are authorized to be appropriated to the Director of the Federal Bureau of
 There are authorized to be appropriated to the Secretary of Homeland Security,<sup>3</sup> $10,000,000 for each of the fiscal years 2018 through 2021, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
 (Pub. L. 106–386, div. A, §113, Oct. 28, 2000, 114 Stat. 1490; Pub. L. 107–228, div. A, title VI, §682(b), Sept. 30, 2002, 116 Stat. 1410; Pub. L. 108–193, §7, Dec. 19, 2003, 117 Stat. 2884; Pub. L. 109–164, title III, §301, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 110–457, title II, §213(a)(2), title III, §301, Dec. 23, 2008, 122 Stat. 5065, 5085; Pub. L. 113–4, title XII, §§1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, 127 Stat. 143, 155; Pub. L. 115–392, §21, Dec. 21, 2018, 132 Stat. 5259; Pub. L. 115–393, title III, §301(a)(2), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–425, title I, §101(b), title III, §301, Jan. 8, 2019, 132 Stat. 5474, 5487.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,10 +97,6 @@ This chapter, referred to in subsec. (g), was in the original "this division", m
 This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 Section 7102(9)(A) of this title, referred to in subsec. (g)(2), was redesignated section 7102(11)(A) of this title by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
-
-#### References to Diplomatic and Consular Programs Account
-
-References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under section 2651 of this title.
 
 #### Amendments
 
@@ -235,6 +233,12 @@ Subsec. (c)(1). Pub. L. 107–228, §682(b)(2)(A), substituted ", $10,000,000 f
 Subsec. (c)(2). Pub. L. 107–228, §682(b)(2)(B), substituted "there is authorized to be appropriated to the Secretary of State for each of the fiscal years 2001, 2002, and 2003" for "there are authorized to be appropriated to the Secretary of State" and "for such fiscal year" for "for fiscal year 2001".
 
 Subsec. (e)(1), (2). Pub. L. 107–228, §682(b)(3), substituted ", $10,000,000 for fiscal year 2002, and $15,000,000 for fiscal year 2003" for "and $10,000,000 for fiscal year 2002".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Diplomatic and Consular Programs Account
+
+References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under section 2651 of this title.
 
 #### Rule of Construction
 

@@ -78,11 +78,13 @@
 
 (Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (h)(1). Pub. L. 109–233 substituted "notwithstanding" for "nothwithstanding".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from anundiagnosed illness (or combination of undiagnosed illnesses) that—
 
 &emsp;"(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -99,6 +101,8 @@ Subsec. (g). Pub. L. 107–103, §202(b)(1), added subsec. (g).
 Subsec. (h). Pub. L. 107–103, §203(a), added subsec. (h).
 
 <b>1998</b>—Subsecs. (c) to (f). Pub. L. 105–277 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 
@@ -160,7 +164,7 @@ Identification of Agents and Illnesses.—(1) Under the agreement under subsecti
 
 "(d)
 
-Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
+Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards,or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
 
 &emsp;"(A) The following organophosphorous pesticides:
 
@@ -266,7 +270,7 @@ Review of Potential Treatment Models for Certain Illnesses.—Under the agreemen
 
 "(g)
 
-Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartimehazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
+Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A).
 
 "(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
@@ -356,13 +360,13 @@ Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat
 
 &emsp;"(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans resultfrom multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;"(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;"(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
 &emsp;"(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
-&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
+&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidoteenhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
 
 &emsp;"(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing.
 
@@ -519,6 +523,8 @@ Authorization.—There are authorized to be appropriated to the Department such 
 #### Report to Congress on Intention To Pay Compensation
 
 Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not later than 60 days after Nov. 2, 1994, to submit to Congress a report stating whether or not the Secretary intended to pay compensation as provided in this section.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12961
 

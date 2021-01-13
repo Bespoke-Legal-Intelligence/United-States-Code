@@ -8,7 +8,7 @@
 
 (2) If the action is against a State, or officer or agency thereof, at least five days' notice of hearing of the action shall be given by registered or certified mail to the Governor and attorney general of the State.
 
-(3) A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, orhear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
+(3) A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, or hear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
 
 (June 25, 1948, ch. 646, 62 Stat. 968; Pub. L. 86–507, §1(19), June 11, 1960, 74 Stat. 201; Pub. L. 94–381, §3, Aug. 12, 1976, 90 Stat. 1119; Pub. L. 98–620, title IV, §402(29)(E), Nov. 8, 1984, 98 Stat. 3359.)
 
@@ -36,6 +36,8 @@ The provision that such notice shall be given by the clerk by registered mail, a
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The rules of civil procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.
@@ -47,6 +49,8 @@ The rules of civil procedure, referred to in subsec. (b)(3), are set out in the 
 <b>1976</b>—Pub. L. 94–381 substituted "Three-judge court; when required" for "Three-judge district court" in section catchline, and generally revised section to alter the method by which three-judge courts are composed, the procedure used by such courts, and to conform its requirements to the repeal of sections 2281 and 2282 of this title.
 
 <b>1960</b>—Pub. L. 86–507 substituted "by registered mail or by certified mail by the clerk and" for "by registered mail by the clerk, and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

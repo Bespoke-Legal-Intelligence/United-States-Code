@@ -2,17 +2,23 @@
 
 As used in this chapter—
 
-The term "veteran" includes a person who died in the active military, naval, or air service.
+The term "veteran" includes a person who died in the active military, naval, air, or space service.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1126, §401; Pub. L. 91–24, §4(a), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §5, Oct. 27, 1969, 83 Stat. 145; renumbered §1301, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1126, §401; Pub. L. 91–24, §4(a), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §5, Oct. 27, 1969, 83 Stat. 145; renumbered §1301, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–283, div. A, title IX, §926(a)(16), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 401 of this title as this section.
 
 <b>1969</b>—Pub. L. 91–96 struck out par. (1) which defined "basic pay".
 
 Par. (1). Pub. L. 91–24 substituted "sections 201, 202, 203, 204, 205, or 207 of title 37" for "sections 232(a), 232(e), or 308 of Title 37".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1969 Amendment
 

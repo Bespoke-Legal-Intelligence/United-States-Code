@@ -10,7 +10,7 @@ Persons Covered.—The database shall cover the following:
 
 &emsp;(1) Any person awarded a Federal agency contract or grant in excess of $500,000, if any information described in subsection (c) exists with respect to the person.
 
-&emsp;(2) Any person awarded such other category or categories of Federal agency contract asthe Federal Acquisition Regulation may provide, if any information described in subsection (c) exists with respect to the person.
+&emsp;(2) Any person awarded such other category or categories of Federal agency contract as the Federal Acquisition Regulation may provide, if any information described in subsection (c) exists with respect to the person.
 
 (c)
 
@@ -80,7 +80,19 @@ Timeliness and accuracy.—The Administrator of General Services shall develop p
 
 &emsp;(3)
 
-Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+Information on corporations.—The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation, and an identification of any beneficial owner of such corporation, in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.
+
+&emsp;(4)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Beneficial ownership.—The term "beneficial ownership" has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note).
+
+&emsp;&emsp;(B)
+
+Corporation.—The term "corporation" means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity.
 
 (e)
 
@@ -96,7 +108,7 @@ Review and assessment of data.—
 
 &emsp;&emsp;(A)
 
-In general.—Before awarding a contract or grant in excess of the simplified acquisition threshold under section 134 of this title, the Federal agency official responsible for awarding the contract or grant shall review the database and consider all information in the database with regard to any offeror proposal, and in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for the offeror.
+In general.—Before awarding a contract or grant in excess of the simplified acquisition threshold under section 134 of this title, the Federal agency official responsible for awarding the contract or grant shall review the database and consider all information in the database with regard to any offer or proposal, and in the case of a contract, shall consider other past performance information available with respect to the offeror in making any responsibility determination or past performance evaluation for the offeror.
 
 &emsp;&emsp;(B)
 
@@ -114,7 +126,7 @@ Disclosure in Applications.—The Federal Acquisition Regulation shall require t
 
 Rulemaking.—The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, §852, title XVII, §1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096; Pub. L. 113–291, div. A, title XII, §1270, Dec. 19, 2014, 128 Stat. 3587.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3740; Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340; Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279; Pub. L. 112–239, div. A, title VIII, §852, title XVII, §1704(d)(2), Jan. 2, 2013, 126 Stat. 1856, 2096; Pub. L. 113–291, div. A, title XII, §1270, Dec. 19, 2014, 128 Stat. 3587; Pub. L. 116–283, div. A, title VIII, §885, Jan. 1, 2021, 134 Stat. 3791.)
 
 #### Amendments Not Shown in Text
 
@@ -146,17 +158,25 @@ In subsection (f), the words "Not later than one year after the date of the enac
 
 In subsection (f)(2), the words "the information submitted under paragraph (1)" are substituted for "such information" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to section 7104b(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (d)(3). Pub. L. 116–283, §885(1), inserted ", and an identification of any beneficial owner of such corporation," after "to the corporation".
+
+Subsec. (d)(4). Pub. L. 116–283, §885(2), added par. (4).
+
 <b>2014</b>—Subsec. (c)(8). Pub. L. 113–291 added par. (8).
 
 <b>2013</b>—Subsec. (c)(1)(E). Pub. L. 112–239, §1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by Pub. L. 111–383, §834(d), read as follows: "(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note)." See Amendments Not Shown in Text note above.
 
 Subsec. (d)(3). Pub. L. 112–239, §852, added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Establishing Database
 

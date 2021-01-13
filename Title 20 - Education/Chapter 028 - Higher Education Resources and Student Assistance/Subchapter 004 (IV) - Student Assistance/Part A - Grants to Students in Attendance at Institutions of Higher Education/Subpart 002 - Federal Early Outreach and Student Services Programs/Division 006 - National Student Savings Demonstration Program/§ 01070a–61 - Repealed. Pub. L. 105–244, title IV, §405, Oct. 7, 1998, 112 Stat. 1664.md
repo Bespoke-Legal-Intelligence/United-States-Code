@@ -1,6 +1,6 @@
 ### §1070a–61. Repealed. Pub. L. 105–244, title IV, §405, Oct. 7, 1998, 112 Stat. 1664
 
-Section, Pub. L. 89–329, title IV, §410A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 502,related to national student savings demonstration program.
+Section, Pub. L. 89–329, title IV, §410A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 502, related to national student savings demonstration program.
 
 #### Effective Date of Repeal
 

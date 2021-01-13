@@ -2,7 +2,9 @@
 
 Federal Reserve notes shall bear upon their faces a distinctive letter and serial number which shall be assigned by the Board of Governors of the Federal Reserve System to each Federal Reserve bank. Federal Reserve notes unfit for circulation shall be canceled, destroyed, and accounted for under procedures prescribed and at locations designated by the Secretary of the Treasury. Upon destruction of such notes, credit with respect thereto shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, §7, 40 Stat. 236; Jan. 30, 1934, ch.6, §2(b)(3), (4), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; June 12, 1945, ch. 186, §1(a), 59 Stat. 237; July 19, 1954, ch. 547, 68 Stat. 495; Pub. L. 89–3, §1, Mar. 3, 1965, 79 Stat. 5; Pub. L. 89–427, §3, May 20, 1966, 80 Stat. 161; Pub. L. 90–269, §3, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, §7, 40 Stat. 236; Jan. 30, 1934, ch. 6, §2(b)(3), (4), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; June 12, 1945, ch. 186, §1(a), 59 Stat. 237; July 19, 1954, ch. 547, 68 Stat. 495; Pub. L. 89–3, §1, Mar. 3, 1965, 79 Stat. 5; Pub. L. 89–427, §3, May 20, 1966, 80 Stat. 161; Pub. L. 90–269, §3, Mar. 18, 1968, 82 Stat. 50.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -16,11 +18,13 @@ Section is comprised of third par. of section 16 of act Dec. 23, 1913. For class
 
 <b>1965</b>—Pub. L. 89–3 struck out requirement that each Federal Reserve bank maintain reserves in gold certificates against deposit liabilities.
 
-<b>1954</b>—Act July 19, 1954, which directed striking out "Whenever Federal reserve notes issued through one Federal Reserve bank shall be received by another Federal Reserve bank, they shall be promptly returned for credit or redemption to the Federal Reserve bank through which they were originally issued or, upon direction of such Federal Reserve bank, they shall be forwarded direct to the Treasurer of the United States to be retired. No Federal Reserve bank shall pay out notes issued through another under penalty of a tax of 10 per centum upon the face value of notes so paid out.", was executed, to reflect the probable intent of Congress, by striking out the third and fourth sentences, which read as follows: "Whenever Federal reserve notes issued through one Federal reserve bank shall be received by another Federal reserve bank, they shall be promptly returned for credit or redemption to the Federal reserve bank through which they were originally issued or, upon direction of such Federal reserve bank, they shall be forwarded direct to the Treasurer of the United States to be retired. No Federal reserve bank shall pay out notes issued through another under penalty of a tax of ten per centum upon the face value of notes so paid out."
+<b>1954</b>—Act July 19, 1954, which directed striking out "Whenever Federal reserve notes issued through one Federal Reserve bank shall be received by another Federal Reserve bank, they shall be promptly returned for credit or redemption to the Federal Reserve bank through which they were originally issued or, upon direction of such Federal Reserve bank, they shall be forwarded direct to the Treasurer of the United States to be retired. No Federal Reserve bank shall pay out notes issued through another under penalty of a tax of 10 per centum upon the face value of notes so paid out.", was executed, to reflect the probable intent of Congress, by striking out the third and fourth sentences, which read as follows: "Whenever Federal reserve notes issued through one Federal reserve bank shall be received by another Federal reserve bank, they shall be promptlyreturned for credit or redemption to the Federal reserve bank through which they were originally issued or, upon direction of such Federal reserve bank, they shall be forwarded direct to the Treasurer of the United States to be retired. No Federal reserve bank shall pay out notes issued through another under penalty of a tax of ten per centum upon the face value of notes so paid out."
 
 <b>1945</b>—Act June 12, 1945, amended first sentence generally by striking out "or lawful money" after "reserves in gold certificates", substituting "25 per centum" for "35 per centum" and "40 per centum", respectively.
 
 <b>1934</b>—Act Jan. 30, 1934, amended first, fifth, and sixth sentences.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

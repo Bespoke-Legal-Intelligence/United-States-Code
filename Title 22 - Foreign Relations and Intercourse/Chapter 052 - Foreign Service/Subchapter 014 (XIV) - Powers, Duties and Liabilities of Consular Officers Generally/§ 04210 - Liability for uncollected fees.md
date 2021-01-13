@@ -4,6 +4,8 @@ Every consul general, consul, or vice consul appointed to perform the duty of an
 
 (R.S. §1724; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1724 derived from act Aug. 18, 1856, ch. 127, §18, 11 Stat. 58.

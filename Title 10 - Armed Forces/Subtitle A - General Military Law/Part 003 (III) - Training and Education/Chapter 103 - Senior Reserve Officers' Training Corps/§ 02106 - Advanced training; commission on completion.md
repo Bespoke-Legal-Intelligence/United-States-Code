@@ -6,7 +6,7 @@
 
 (c) In computing length of service for any purpose, an officer appointed under this section may not be credited with enlisted service for the period covered by his advanced training, other than any period of enlisted service performed on or after August 1, 1979, as a member of the Selected Reserve.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 102–484, div. A, title V, §517(a)(1), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §507(a)(1), Sept. 23, 1996, 110 Stat. 2512.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 102–484, div. A, title V, §517(a)(1), Oct. 23, 1992, 106 Stat. 2407;Pub. L. 104–201, div. A, title V, §507(a)(1), Sept. 23, 1996, 110 Stat. 2512.)
 
 #### Amendments
 
@@ -16,5 +16,5 @@
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-Pub. L. 104–201, div. A, title V, §507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: "No increase in pay or retired or retainer pay shall accrue for periods before thedate of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\]."
+Pub. L. 104–201, div. A, title V, §507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: "No increase in pay or retired or retainer pay shall accrue for periods before the date of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\]."
 

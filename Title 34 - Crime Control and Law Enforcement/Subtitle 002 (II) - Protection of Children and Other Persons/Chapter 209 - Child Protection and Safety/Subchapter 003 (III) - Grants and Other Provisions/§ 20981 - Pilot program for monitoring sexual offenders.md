@@ -60,6 +60,8 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 (Pub. L. 109–248, title VI, §621, July 27, 2006, 120 Stat. 633; Pub. L. 110–400, §4(a), Oct. 13, 2008, 122 Stat. 4227.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 16981 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -67,6 +69,8 @@ Section was formerly classified to section 16981 of Title 42, The Public Health 
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–400, §4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

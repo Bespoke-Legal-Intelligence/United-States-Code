@@ -90,7 +90,7 @@ In applying this section to a special immigrant described in section 1101(a)(27)
 
 &emsp;(B) the provision of such information has substantially contributed to the success of an authorized criminal investigation or the prosecution of an individual described in subclause (III) of that section,
 
-> the Attorney General may adjust the status of the alien (and the spouse, married and unmarried sons and daughters, and parents of the alien if admitted under that section) to that of an alien lawfully admitted for permanent residence if the alien is not described in section 1182(a)(3)(E) of this title.
+> the Attorney General may adjust the status of the alien (and the spouse, married and unmarried sons and daughters, and parents of the alien if admitted under that section) to that of an alien lawfully admitted for permanent residenceif the alien is not described in section 1182(a)(3)(E) of this title.
 
 (2) If, in the sole discretion of the Attorney General—
 
@@ -179,6 +179,8 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 (B) Nothing in paragraph (1)(B) may be construed to prevent the Secretary from consulting with the Attorney General in making a determination whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a State or local law enforcement official, State or local prosecutor, State or local judge, or other State or local authority investigating or prosecuting criminal activity described in section 1101(a)(15)(U)(iii) of this title.
 
 (June 27, 1952, ch. 477, title II, ch. 5, §245, 66 Stat. 217; Pub. L. 85–700, §1, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–648, §10, July 14, 1960, 74 Stat. 505; Pub. L. 89–236, §13, Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §6, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 97–116, §5(d)(2), Dec. 29, 1981, 95 Stat. 1614; Pub. L. 99–603, title I, §117, title III, §313(c), Nov. 6, 1986, 100 Stat. 3384, 3438; Pub. L. 99–639, §§2(e), 3(b), 5(a), Nov. 10, 1986, 100 Stat. 3542, 3543; Pub. L. 100–525, §§2(f)(1), (p)(3), 7(b), Oct. 24, 1988, 102 Stat. 2611, 2613, 2616; Pub. L. 101–649, title I, §§121(b)(4), 162(e)(3), title VII, §702(a), Nov. 29, 1990, 104 Stat. 5011, 5086; Pub. L. 102–110, §2(c), Oct. 1, 1991, 105 Stat. 556; Pub. L. 102–232, title III, §§302(d)(2), (e)(7), 308(a), Dec. 12, 1991, 105 Stat. 1744, 1746, 1757; Pub. L. 103–317, title V, §506(b), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(c), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §219(k), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–132, title IV, §413(d), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §§308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, §671(a)(4)(A), (5), Sept. 30, 1996, 110 Stat. 3009–621, 3009–625, 3009–648, 3009–721; Pub. L. 105–119, title I, §§110(3), 111(a), (c), Nov. 26, 1997, 111 Stat. 2458; Pub. L. 106–386, div. A, §107(f), div. B, title V, §§1506(a)(1), 1513(f), Oct. 28, 2000, 114 Stat. 1479, 1527, 1536; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(c), (d)(2), 1103(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–143 to 2762A–145; Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–324; Pub. L. 108–193, §§4(b)(3), 8(a)(4), Dec. 19, 2003, 117 Stat. 2879, 2886; Pub. L. 109–162, title VIII, §803, Jan. 5, 2006, 119 Stat. 3054; Pub. L. 109–271, §6(f), Aug. 12, 2006, 120 Stat. 763; Pub. L. 110–457, title II, §§201(d), (e), 235(d)(3), Dec. 23, 2008, 122 Stat. 5053, 5054, 5080.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -370,9 +372,11 @@ Subsec. (c). Pub. L. 94–571 substituted provision making the section inapplica
 
 Subsec. (c). Pub. L. 89–236, §13(b), substituted "any country of the Western Hemisphere" for "any country contiguous to the United States".
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–648 substituted "alien, other than an alien crewman, who was inspected and admitted or paroled into the United States" for "alien who was admitted to the United States as a bona fide nonimmigrant", struck out former cl. (3) which read "an immigrant visa was immediately available to him at the time of his application", redesignated cl. (4) as (3), and struck out concluding sentence which read as follows: "A quota immigrant visa shall be considered immediately available for the purposes of this subsection only if the portion of the quota to which the alien is chargeable is undersubscribed by applicants registered on a consular waiting list."
+<b>1960</b>—Subsec. (a). Pub. L. 86–648 substituted "alien, other than an alien crewman, who was inspected and admitted or paroled into the United States" for "alien who was admitted to the United States as a bona fide nonimmigrant", struck out former cl. (3) which read "an immigrant visa was immediately available to him at the time of his application", redesignated cl. (4) as (3), and struck out concluding sentence which read as follows: "A quota immigrant visa shall be considered immediately available for the purposes of this subsection only if the portion of the quota to which thealien is chargeable is undersubscribed by applicants registered on a consular waiting list."
 
 <b>1958</b>—Pub. L. 85–700 among other changes, substituted provisions allowing adjustment of status of alien who was admitted as a bona fide nonimmigrant to that of an alien lawfully admitted for permanent residence, for provisions allowing adjustment of status of alien who was lawfully admitted as a bona fide nonimmigrant and continued to maintain that status, to that of a permanent resident either as a quota immigrant or as a nonquota immigrant claiming nonquota status as the spouse or child of a citizen under certain specified conditions, by striking out provision terminating nonimmigrant quota status of alien who files application for adjustment of status, and by adding subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -452,7 +456,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Liberian Refugee Immigration Fairness
 
-Pub. L. 116–92, div. F, title LXXVI, §7611, Dec. 20, 2019, 133 Stat. 2309, provided that:
+Pub. L. 116–92, div. F, title LXXVI, §7611, Dec. 20, 2019, 133 Stat. 2309, as amended by Pub. L. 116–260, div. O, title IX, §901, Dec. 27, 2020, 134 Stat. 2155, provided that:
 
 "(a)
 
@@ -478,7 +482,7 @@ Adjustment of Status.—
 
 In general.—Except as provided in paragraph (3), the Secretary shall adjust the status of an alien described in subsection (c) to that of an alien lawfully admitted for permanent residence if the alien—
 
-&emsp;&emsp;"(A) applies for adjustment not later than 1 year after the date of the enactment of this Act \[Dec. 20, 2019\];
+&emsp;&emsp;"(A) applies for adjustment not later than 2 years after the date of the enactment of this Act \[Dec. 20, 2019\];
 
 &emsp;&emsp;"(B) is otherwise eligible to receive an immigrant visa; and
 
@@ -598,7 +602,7 @@ Limitation on Judicial Review.—
 
 &emsp;"(1)
 
-In general.—A determination by the Secretary with respect to the adjustment of status of any alien under this section is final and shall not be subject to review by any court.
+In general.—A determination by the Secretary with respect to the adjustment of status of any alienunder this section is final and shall not be subject to review by any court.
 
 &emsp;"(2)
 
@@ -708,7 +712,7 @@ Inapplicability of certain provisions.—In the case of an alien described in su
 
 &emsp;&emsp;"(B) the Attorney General may grant the alien a waiver on the grounds of inadmissibility under subparagraphs (A) and (C) of section 212(a)(9) of such Act \[8 U.S.C. 1182(a)(9)\].
 
-> &emsp;In granting waivers under subparagraph (B), the Attorney General shall use standards used in grantingconsent under subparagraphs (A)(iii) and (C)(ii) of such section 212(a)(9).
+> &emsp;In granting waivers under subparagraph (B), the Attorney General shall use standards used in granting consent under subparagraphs (A)(iii) and (C)(ii) of such section 212(a)(9).
 
 &emsp;"(3)
 
@@ -792,7 +796,7 @@ No Offset in Number of Visas Available.—When an alien is granted the status of
 
 "(h)
 
-Application of Immigration and Nationality Act Provisions.—Except as otherwise specifically provided in this title \[section 101(h) \[title IX\] of Pub. L. 105–277, enacting sections 1377 and 1378 of this title and provisions set out as a note under section 1101 of this title\], the definitions contained in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall apply in the administration of this section. Nothing contained in this title shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanentresidence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.
+Application of Immigration and Nationality Act Provisions.—Except as otherwise specifically provided in this title \[section 101(h) \[title IX\] of Pub. L. 105–277, enacting sections 1377 and 1378 of this title and provisions set out as a note under section 1101 of this title\], the definitions contained in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall apply in the administration of this section. Nothing contained in this title shall be held to repeal, amend, alter, modify, effect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of such Act or any other law relating to immigration, nationality, or naturalization. The fact that an alien may be eligible to be granted the status of having been lawfully admitted for permanent residence under this section shall not preclude the alien from seeking such status under any other provision of law for which the alien may be eligible.
 
 "(i)
 
@@ -1084,7 +1088,7 @@ In General.—The numerical limitations of sections 201 and 202 of the Immigrati
 
 "(b)
 
-Transition.—For purposes of adjustment of status under section 245 of the Immigration and Nationality Act \[8 U.S.C. 1255\] in the case of an alien who, as of September 1, 1989, is present in the United States in the status of a nonimmigrant under section 101(a)(15)(H)(i) of such Act \[8 U.S.C. 1101(a)(15)(H)(i)\] to perform services as a registered nurse, who, as of September 1, 1989, is present in the United States and had been admitted to the United States in the status of nonimmigrant under section 101(a)(15)(H)(i) of such Act to perform services as a registered nurse but has failed to maintain that status due to the expiration of the time limitation with respect to such status, or who is the spouse or child of such an alien, unauthorized employment performed before the date of the enactmentof the Immigration Act of 1990 \[Nov. 29, 1990\] shall not be taken into account in applying section 245(c)(2) of the Immigration and Nationality Act and such an alien shall be considered as having continued to maintain lawful status throughout his or her stay in the United States as a nonimmigrant until the end of the 120-day period beginning on the date the Attorney General promulgates regulations carrying out the amendments made by section 162(f)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this note\].
+Transition.—For purposes of adjustment of status under section 245 of the Immigration and Nationality Act \[8 U.S.C. 1255\] in the case of an alien who, as of September 1, 1989, is present in the United States in the status of a nonimmigrant under section 101(a)(15)(H)(i) of such Act \[8 U.S.C. 1101(a)(15)(H)(i)\] to perform services as a registered nurse, who, as of September 1, 1989, is present in the United States and had been admitted to the United States in the status of nonimmigrant under section 101(a)(15)(H)(i) of such Act to perform services as a registered nurse but has failed to maintain that status due to the expiration of the time limitation with respect to such status, or who is the spouse or child of such an alien, unauthorized employment performed before the date of the enactment of the Immigration Act of 1990 \[Nov. 29, 1990\] shall not be taken into account in applying section 245(c)(2) of the Immigration and Nationality Act and such an alien shall be considered as having continued to maintain lawful status throughout his or her stay in the United States as a nonimmigrant until the end of the 120-day period beginning on the date the Attorney General promulgates regulations carrying out the amendments made by section 162(f)(1) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this note\].
 
 "(c)
 
@@ -1140,11 +1144,11 @@ Adjudication of Applications.—The Secretary of Homeland Security shall—
 
 \[Pub. L. 108–447, div. D, title V, §534(m)(7), Dec. 8, 2004, 118 Stat. 3007, provided that: "The amendments made by this subsection \[amending section 101(a) \[title V, §586\] of Pub. L. 106–429, set out above\] shall take effect as if enacted as part of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001 \[Pub. L. 106–429\]."\]
 
-Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(l)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, §534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(2), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(2), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(2), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(B), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(B), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, §7034(k)(8)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(5)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(5)(B), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, §7034(m)(5)(B), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, §7034(l)(5)(B), Dec. 20, 2019, 133 Stat. 2873, provided that:
+Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(l)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, §534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(2), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(2), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(2), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(B), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(B), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, §7034(k)(8)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(5)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(5)(B), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, §7034(m)(5)(B), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, §7034(l)(5)(B), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(5)(B), Dec. 27, 2020, 134 Stat. 1750, provided that:
 
 "(a)
 
-In General.—The Attorney General shall adjust the status of an alien described in subsection (b) tothat of an alien lawfully admitted for permanent residence if the alien—
+In General.—The Attorney General shall adjust the status of an alien described in subsection (b) to that of an alien lawfully admitted for permanent residence if the alien—
 
 &emsp;"(1) applies for such adjustment,
 
@@ -1160,7 +1164,7 @@ Aliens Eligible for Adjustment of Status.—The benefits provided in subsection 
 
 &emsp;"(1) was a national of an independent state of the former Soviet Union, Estonia, Latvia, Lithuania, Vietnam, Laos, or Cambodia, and
 
-&emsp;"(2) was inspected and granted parole into the United States during the period beginning on August 15, 1988, and ending on September 30, 2020, after being denied refugee status.
+&emsp;"(2) was inspected and granted parole into the United States during the period beginning on August 15, 1988, and ending on September 30, 2021, after being denied refugee status.
 
 "(c)
 
@@ -1202,7 +1206,7 @@ Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended by Pub. L. 94–571, �
 
 "
 
-Sec. 2. In the case of any alien described in section 1 of this Act who prior to the effective date thereof \[Nov. 2, 1966\], has been lawfully admitted into the United States for permanent residence, the Attorney General shall, upon application, record his admissionfor permanent residence as of the date the alien originally arrived in the United States as a nonimmigrant or as a parolee, or a date thirty months prior to the date of enactment of this Act \[Nov. 2, 1966\], whichever date is later.
+Sec. 2. In the case of any alien described in section 1 of this Act who prior to the effective date thereof \[Nov. 2, 1966\], has been lawfully admitted into the United States for permanent residence, the Attorney General shall, upon application, record his admission for permanent residence as of the date the alien originally arrived in the United States as a nonimmigrant or as a parolee, or a date thirty months prior to the date of enactment of this Act \[Nov. 2, 1966\], whichever date is later.
 
 "
 

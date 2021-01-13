@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097, substituted "Chair" for "Chairman" in item 993.

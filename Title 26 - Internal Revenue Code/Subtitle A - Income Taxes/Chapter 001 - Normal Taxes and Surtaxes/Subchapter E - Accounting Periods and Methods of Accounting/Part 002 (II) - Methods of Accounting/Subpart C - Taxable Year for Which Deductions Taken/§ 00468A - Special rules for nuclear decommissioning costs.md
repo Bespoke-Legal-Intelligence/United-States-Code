@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the taxpayer elects the application of this section, there shall be allowed as a deduction forany taxable year the amount of payments made by the taxpayer to a Nuclear Decommissioning Reserve Fund (hereinafter referred to as the "Fund") during such taxable year.
+If the taxpayer elects the application of this section, there shall be allowed as a deduction for any taxable year the amount of payments made by the taxpayer to a Nuclear Decommissioning Reserve Fund (hereinafter referred to as the "Fund") during such taxable year.
 
 #### (b) Limitation on amounts paid into Fund
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (6) Disqualification of Fund
 
-&emsp;In any case in which the Fund violates any provision of this section or section 4951, the Secretary may disqualify such Fund from the application of this section. In any case to which this paragraph applies, the Fund shall be treated as having distributed all of itsfunds on the date such determination takes effect.
+&emsp;In any case in which the Fund violates any provision of this section or section 4951, the Secretary may disqualify such Fund from the application of this section. In any case to which this paragraph applies, the Fund shall be treated as having distributed all of its funds on the date such determination takes effect.
 
 #### (7) Termination upon completion
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (4) No basis in qualified funds
 
-&emsp;Notwithstanding any other provision of law, the taxpayer's basis in any Fund to which this section applies shall not be increased by reason of any transfer permitted by this subsection.
+&emsp;Notwithstanding any other provision of law, the taxpayer's basis in any Fund to which thissection applies shall not be increased by reason of any transfer permitted by this subsection.
 
 #### (g) Nuclear powerplant
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section effective July 18, 1984, with respect to taxable years ending after such date, see section 91(g)(5) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 461 of this title.
+Section effective July 18, 1984, with respect to taxable years ending after such date, see section 91(g)(5) of Pub.L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 461 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -54,7 +54,7 @@ Pub. L. 103–382, title V, part B, Oct. 20, 1994, 108 Stat. 4045, which provide
 
 #### Study of Federal Benefit Coordination
 
-Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct astudy to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1405, July 23, 1992, 106 Stat. 818, directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Olympic Scholarships
 
@@ -128,7 +128,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 "(c)
 
-Notice of Waiver.—Notwithstanding section 431 \[now 437\] of the General Education Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutoryand regulatory provisions the Secretary deems necessary to achieve the purposes of this section. Such notice shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions. The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
+Notice of Waiver.—Notwithstanding section 431 \[now 437\] of the General Education Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section. Such notice shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions. The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
 
 "(d)
 

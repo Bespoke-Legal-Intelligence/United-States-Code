@@ -4,6 +4,8 @@ Notwithstanding any other provision of this chapter, the requirements of section
 
 (Mar. 4, 1907, ch. 2907, title I, §25, as added Pub. L. 110–234, title XI, §11016(b)(1)(C), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, §4(a), title XI, §11016(b)(1)(C), June 18, 2008, 122 Stat. 1664, 2131; amended Pub. L. 113–79, title XII, §12106(a)(3), Feb. 7, 2014, 128 Stat. 981.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -11,6 +13,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–79 substituted "not apply to any fish described in section 601(w)(2) of this title." for "not apply to catfish."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

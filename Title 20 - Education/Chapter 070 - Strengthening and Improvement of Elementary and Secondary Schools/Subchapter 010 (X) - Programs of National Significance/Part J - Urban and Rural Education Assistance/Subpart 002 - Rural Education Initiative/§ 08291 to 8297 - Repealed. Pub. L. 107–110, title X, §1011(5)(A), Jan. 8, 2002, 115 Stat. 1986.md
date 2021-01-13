@@ -2,7 +2,7 @@
 
 Section 8291, Pub. L. 89–10, title X, §10972, as added Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, set out purpose of this subpart.
 
-A prior section 8291, Pub. L. 89–10, title X, §10971, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3852, set out findings, prior to the general amendment of this subpart by Pub. L. 106–554.
+A prior section 8291, Pub. L. 89–10, title X, §10971, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3852, set out findings, prior to the general amendment of this subpart by Pub. L. 106–554.
 
 Section 8292, Pub. L. 89–10, title X, §10973, as added Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, authorized appropriations.
 

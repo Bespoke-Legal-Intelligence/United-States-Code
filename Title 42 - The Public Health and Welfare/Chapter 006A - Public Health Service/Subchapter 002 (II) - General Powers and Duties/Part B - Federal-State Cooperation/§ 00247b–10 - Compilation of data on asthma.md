@@ -16,7 +16,7 @@ The Director of the Centers for Disease Control and Prevention, acting through t
 
 #### (c) Collaborative efforts
 
-The activities described in subsection (a)(1) may be conducted in collaboration with eligible entities awarded a grant under section 280g of this title.
+The activities described in subsection (a)(1) may be conducted in collaboration with eligibleentities awarded a grant under section 280g of this title.
 
 #### (d) Authorization of appropriations
 

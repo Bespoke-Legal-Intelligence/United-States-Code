@@ -22,6 +22,7 @@
 - [&sect; 08343a - Alternative forms of annuities](%C2%A7%2008343a%20-%20Alternative%20forms%20of%20annuities.md)
 - [&sect; 08344 - Annuities and pay on reemployment](%C2%A7%2008344%20-%20Annuities%20and%20pay%20on%20reemployment.md)
 - [&sect; 08345 - Payment of benefits; commencement, termination, and waiver of annuity](%C2%A7%2008345%20-%20Payment%20of%20benefits%3B%20commencement%2C%20termination%2C%20and%20waiver%20of%20annuity.md)
+- [&sect; 08345a - Embezzlement or conversion of payments](%C2%A7%2008345a%20-%20Embezzlement%20or%20conversion%20of%20payments.md)
 - [&sect; 08346 - Exemption from legal process; recovery of payments](%C2%A7%2008346%20-%20Exemption%20from%20legal%20process%3B%20recovery%20of%20payments.md)
 - [&sect; 08347 - Administration; regulations](%C2%A7%2008347%20-%20Administration%3B%20regulations.md)
 - [&sect; 08348 - Civil Service Retirement and Disability Fund](%C2%A7%2008348%20-%20Civil%20Service%20Retirement%20and%20Disability%20Fund.md)

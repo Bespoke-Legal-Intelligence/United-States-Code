@@ -14,7 +14,7 @@
 
 &emsp;(A) a motor vehicle scrap processor or a motor vehicle demolisher who complies with applicable State law with respect to such vehicle or part;
 
-&emsp;(B) a person who repairs such vehicle or part, if the removal, obliteration, tampering,or alteration is reasonably necessary for the repair;
+&emsp;(B) a person who repairs such vehicle or part, if the removal, obliteration, tampering, or alteration is reasonably necessary for the repair;
 
 &emsp;(C) a person who restores or replaces an identification number for such vehicle or part in accordance with applicable State law; and
 
@@ -48,6 +48,8 @@
 
 (Added Pub. L. 98–547, title II, §201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, §5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, §220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, §604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Motor Vehicle Theft Prevention Act, referred to in subsecs. (a)(2), (b)(2)(D), and (d), is title XXII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2074, which enacted section 511A of this title and section 12611 of Title 34, Crime Control and Law Enforcement, amended this section, and enacted provisions set out as a note under section 10101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of Title 34 and Tables.
@@ -69,6 +71,8 @@ Subsec. (c)(1). Pub. L. 103–272, §5(e)(3)(A), substituted "chapter 301 and pa
 Subsec. (c)(2). Pub. L. 103–272, §5(e)(3)(B), substituted "section 32101 of title 49" for "section 2 of the Motor Vehicle Information and Cost Savings Act".
 
 Subsec. (d). Pub. L. 103–322, §220003(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Considerations in Making and Implementing MOUs and Related Agreements.—In the negotiation, renegotiation, and implementationof any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
+Considerations in Making and Implementing MOUs and Related Agreements.—In the negotiation, renegotiation, and implementation of any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
 
 &emsp;(1) consider the effects of such existing or proposed memorandum of understanding or related agreement on the defense technology and industrial base of the United States; and
 
@@ -18,6 +18,10 @@ Limitation on Entering into MOUs and Related Agreements.—A memorandum of under
 
 (Added Pub. L. 100–456, div. A, title VIII, §824, Sept. 29, 1988, 102 Stat. 2019, §2504; amended Pub. L. 101–189, div. A, title VIII, §815(a), Nov. 29, 1989, 103 Stat. 1500; Pub. L. 101–510, div. A, title XIV, §1453, Nov. 5, 1990, 104 Stat. 1694; renumbered §2531 and amended Pub. L. 102–484, div. D, title XLII, §§4202(a), 4271(c), Oct. 23, 1992, 106 Stat. 2659, 2696.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1870(b), Jan. 1, 2021, 134 Stat. 4151, 4284, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 385 of this title, as added by section 1870(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter I, and redesignated as section 4851 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–484, §4202(a), renumbered section 2504 of this title as this section.
@@ -31,6 +35,10 @@ Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted "defense technology an
 &emsp;"(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
 
 &emsp;"(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Defense Trade Reciprocity
 

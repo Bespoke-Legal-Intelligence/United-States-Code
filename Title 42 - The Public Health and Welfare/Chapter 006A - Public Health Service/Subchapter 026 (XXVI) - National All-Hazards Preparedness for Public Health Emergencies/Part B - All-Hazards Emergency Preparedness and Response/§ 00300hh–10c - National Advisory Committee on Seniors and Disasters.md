@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with the Secretary of Homeland Security and the Secretaryof Veterans Affairs, shall establish an advisory committee to be known as the National Advisory Committee on Seniors and Disasters (referred to in this section as the "Advisory Committee").
+The Secretary, in consultation with the Secretary of Homeland Security and the Secretary of Veterans Affairs, shall establish an advisory committee to be known as the National Advisory Committee on Seniors and Disasters (referred to in this section as the "Advisory Committee").
 
 #### (b) Duties
 

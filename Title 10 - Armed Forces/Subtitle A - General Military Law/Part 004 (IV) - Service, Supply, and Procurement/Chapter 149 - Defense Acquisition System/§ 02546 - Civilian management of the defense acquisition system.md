@@ -10,6 +10,10 @@ Responsibility of the Service Acquisition Executives.—Subject to the direction
 
 (Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4288; amended Pub. L. 116–92, div. A, title IX, §902(78), Dec. 20, 2019, 133 Stat. 1552.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section, as part of chapter 205 of this title as transferred and redesignated by section 1808(a)(1) of Pub. L. 116–283, is redesignated as section 3103 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Prior Provisions
 
 A prior section 2546 was renumbered section 2556 of this title.
@@ -19,4 +23,8 @@ A prior section 2546 was renumbered section 2556 of this title.
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §902(78)(A), (B), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in heading and text.
 
 Subsec. (b). Pub. L. 116–92, §902(78)(C), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

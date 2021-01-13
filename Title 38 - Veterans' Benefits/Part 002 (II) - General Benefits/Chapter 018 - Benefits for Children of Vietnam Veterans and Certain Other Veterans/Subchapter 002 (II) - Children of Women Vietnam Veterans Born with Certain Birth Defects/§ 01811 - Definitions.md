@@ -12,6 +12,8 @@ In this subchapter:
 
 (Added Pub. L. 106–419, title IV, §401(a), Nov. 1, 2000, 114 Stat. 1857; amended Pub. L. 108–183, title I, §102(d)(1), Dec. 16, 2003, 117 Stat. 2654.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1811 was renumbered section 3711 of this title.
@@ -20,11 +22,13 @@ A prior section 1811 was renumbered section 3711 of this title.
 
 <b>2003</b>—Par. (1)(A). Pub. L. 108–183 substituted "section 1831(1)" for "section 1821(1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 106–419, title IV, §401(g), Nov. 1, 2000, 114 Stat. 1861, provided that:
 
 "(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this subchapter and subchapter III of this chapter, amending sections 1802 and 1805 of this title, and repealing sections 1801 and 1806 of this title\] shall take effect on the first day of the first month beginning more than one year after the date of the enactment of this Act \[Nov. 1, 2000\].
 
-"(2) The Secretary of Veterans Affairs shall identify birth defects under section 1812 of title 38, United States Code (as added by subsection (a) of this section), and shall prescribe the regulations required by subchapter II of chapter 18 of that title (as so added), not later than the effective date specified in paragraph (1)."
+"(2) The Secretary of Veterans Affairs shall identify birth defects under section 1812 of title 38, United States Code (as added by subsection (a) of this section),and shall prescribe the regulations required by subchapter II of chapter 18 of that title (as so added), not later than the effective date specified in paragraph (1)."
 

@@ -4,7 +4,7 @@
 
 #### (1) Trade enforcement priorities consultations
 
-&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this sectionreferred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raise concerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
+&emsp;Not later than May 31 of each calendar year that begins after February 24, 2016, the United States Trade Representative (in this section referred to as the "Trade Representative") shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the prioritization of acts, policies, or practices of foreign governments that raise concerns with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, or otherwise create or maintain barriers to United States goods, services, or investment.
 
 #### (2) Identification of trade enforcement priorities
 
@@ -156,7 +156,7 @@ Section 1. <i>Identification</i>. (a) Within 6 months of the submission of the N
 
 Sec. 2. <i>Initiation of Investigation</i>. Within 21 days of the submission of the report required by paragraph (a) of section 1, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations under title III, chapter 1, of the Act \[19 U.S.C. 2411 et seq.\] with respect to all of the priority foreign country practices identified.
 
-Sec. 3. <i>Agreements for the Elimination of Barriers</i>. In the consultations with a foreign country that the Trade Representative is required to request under section 303(a) of the Act (19 U.S.C. 2413(a)) with respect to an investigation initiated by reason of section 2 of this order, the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation as quickly as possible or, if that is not feasible, provides for compensatory trade benefits. The Trade Representative shall monitor any agreement entered into under this section pursuant to the provisions of section 306 of the Act (19 U.S.C. 2416).
+Sec. 3. <i>Agreements for the Elimination of Barriers</i>. In the consultations with a foreign country that the Trade Representative is required to request under section 303(a) of the Act (19 U.S.C. 2413(a)) with respect to an investigation initiated by reason of section 2 of this order, the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation asquickly as possible or, if that is not feasible, provides for compensatory trade benefits. The Trade Representative shall monitor any agreement entered into under this section pursuant to the provisions of section 306 of the Act (19 U.S.C. 2416).
 
 Sec. 4. <i>Reports</i>. The Trade Representative shall include in the semiannual report required by section 309 of the Act (19 U.S.C. 2419) a report on the status of any investigation initiated pursuant to section 2 of this order and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.
 
@@ -198,7 +198,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 &emsp;(1) are not in compliance with their obligations under the World Trade Organization Agreement on Government Procurement (the GPA), Chapter 10 of the North American Free Trade Agreement (NAFTA), or other agreements relating to government procurement (procurement agreements) to which that country and the United States are parties; or
 
-&emsp;(2) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against U.S. products or services that results inidentifiable harm to U.S. businesses and whose products or services are acquired in significant amounts by the United States Government.
+&emsp;(2) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against U.S. products or services that results in identifiable harm to U.S. businesses and whose products or services are acquired in significant amounts by the United States Government.
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 

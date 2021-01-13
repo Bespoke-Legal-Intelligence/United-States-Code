@@ -4,6 +4,8 @@ There are authorized to be appropriated to carry out this chapter, other than se
 
 (June 30, 1948, ch. 758, title V, §517, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 896; amended Pub. L. 95–217, §4(g), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 96–483, §1(g), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(h), Feb. 4, 1987, 101 Stat. 9.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1264 of this title, referred to in text, was omitted from the Code.
@@ -17,6 +19,8 @@ Section 1321(k) of this title, referred to in text, was repealed by Pub. L. 101�
 <b>1980</b>—Pub. L. 96–483 inserted authorization of $150,000,000 for fiscal year ending Sept. 30, 1981 and $161,000,000 for fiscal year ending Sept. 30, 1982.
 
 <b>1977</b>—Pub. L. 95–217 substituted "$350,000,000 for the fiscal year ending June 30, 1975, $100,000,000 for the fiscal year ending September 30, 1977, $150,000,000 for the fiscal year ending September 30, 1978, $150,000,000 for the fiscal year ending September 30, 1979, and $150,000,000 for the fiscal year ending September 30, 1980" for "and $350,000,000 for the fiscal year ending June 30, 1975".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization Approval for Funds Appropriated Before December 27, 1977, for Expenditures Through Fiscal Year Ending September 30, 1977
 

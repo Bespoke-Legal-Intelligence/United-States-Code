@@ -6,7 +6,7 @@ No carrier shall undertake the construction of a new line or of an extension of 
 
 #### (b) Notification of Secretary of Defense, Secretary of State, and State Governor
 
-Upon receipt of an application for any such certificate, the Commission shall cause notice thereof to be given to, and shall cause a copy of such application to be filed with, the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which suchdiscontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
+Upon receipt of an application for any such certificate, the Commission shall cause noticethereof to be given to, and shall cause a copy of such application to be filed with, the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which such discontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
 
 #### (c) Approval or disapproval; injunction
 
@@ -36,7 +36,7 @@ The Commission may, after full opportunity for hearing, in a proceeding upon com
 
 #### (4) Relinquishment of universal service
 
-&emsp;A State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall permit an eligible telecommunications carrier to relinquish its designation as such a carrier in any area served by more than one eligible telecommunications carrier. An eligible telecommunications carrier that seeks to relinquish its eligible telecommunications carrier designation for an area served by more than one eligible telecommunications carrier shall give advance notice to the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) of such relinquishment. Prior to permitting a telecommunications carrier designated as an eligible telecommunications carrier to cease providing universal service in an area served by more than one eligible telecommunicationscarrier, the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall require the remaining eligible telecommunications carrier or carriers to ensure that all customers served by the relinquishing carrier will continue to be served, and shall require sufficient notice to permit the purchase or construction of adequate facilities by any remaining eligible telecommunications carrier. The State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall establish a time, not to exceed one year after the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) approves such relinquishment under this paragraph, within which such purchase or construction shall be completed.
+&emsp;A State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall permit an eligible telecommunications carrier to relinquish its designation as such a carrier in any area served by more than one eligible telecommunications carrier. An eligible telecommunications carrier that seeks to relinquish its eligible telecommunications carrier designation for an area served by more than one eligible telecommunications carrier shall give advance notice to the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) of such relinquishment. Prior to permitting a telecommunications carrier designated as an eligible telecommunications carrier to cease providing universal service in an area served by more than one eligible telecommunications carrier, the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall require the remaining eligible telecommunications carrier or carriers to ensure that all customers served by the relinquishing carrier will continue to be served, and shall require sufficient notice to permit the purchase or construction of adequate facilities by any remaining eligible telecommunications carrier. The State commission (or the Commission in the case of a common carrier designated under paragraph (6)) shall establish a time, not to exceed one year after the State commission (or the Commission in the case of a common carrier designated under paragraph (6)) approves such relinquishment under this paragraph, within which such purchase or construction shall be completed.
 
 #### (5) "Service area" defined
 
@@ -47,6 +47,8 @@ The Commission may, after full opportunity for hearing, in a proceeding upon com
 &emsp;In the case of a common carrier providing telephone exchange service and exchange access that is not subject to the jurisdiction of a State commission, the Commission shall upon request designate such a common carrier that meets the requirements of paragraph (1) as an eligible telecommunications carrier for a service area designated by the Commission consistent with applicable Federal and State law. Upon request and consistent with the public interest, convenience and necessity, the Commission may, with respect to an area served by a rural telephone company, and shall, in the case of all other areas, designate more than one common carrier as an eligible telecommunications carrier for a service area designated under this paragraph, so long as each additional requesting carrier meets the requirements of paragraph (1). Before designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the Commission shall find that the designation is in the public interest.
 
 (June 19, 1934, ch. 652, title II, §214, 48 Stat. 1075; Mar. 6, 1943, ch. 10, §§2–5, 57 Stat. 11; Pub. L. 93–506, §1, Nov. 30, 1974, 88 Stat. 1577; Pub. L. 101–239, title III, §3002(d), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 103–414, title III, §304(a)(4), Oct. 25, 1994, 108 Stat. 4296; Pub. L. 104–104, title I, §102(a), Feb. 8, 1996, 110 Stat. 80; Pub. L. 105–125, §1, Dec. 1, 1997, 111 Stat. 2540.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsec. (b). Act Mar. 6, 1943, §3, among other changes provided notice should b
 Subsec. (c). Act Mar. 6, 1943, §4, extended provisions to include discontinuance, reduction, or impairment of service.
 
 Subsec. (d). Act Mar. 6, 1943, §5, amended first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Extension of Lines; ARMIS Reports
 

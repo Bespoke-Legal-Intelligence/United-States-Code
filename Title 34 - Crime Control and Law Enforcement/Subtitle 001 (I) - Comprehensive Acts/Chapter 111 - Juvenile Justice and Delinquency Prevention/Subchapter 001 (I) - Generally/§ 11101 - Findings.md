@@ -36,6 +36,8 @@
 
 (Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5601 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -92,6 +94,8 @@ Subsec. (a)(5). Pub. L. 98–473, §611(4), substituted "reduced" for "prevented
 
 Subsec. (a)(8). Pub. L. 96–509, §3(2)–(4), added par. (8).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–273, div. C, title II, §12223, Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, §110(2), (3), Feb. 20, 2003, 117 Stat. 67, provided that:
@@ -142,5 +146,5 @@ Pub. L. 93–415, title II, §263(c), as added by Pub. L. 95–115, §6(d)(2), O
 
 #### Effective Date
 
-Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21,1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, §263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(l) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
 

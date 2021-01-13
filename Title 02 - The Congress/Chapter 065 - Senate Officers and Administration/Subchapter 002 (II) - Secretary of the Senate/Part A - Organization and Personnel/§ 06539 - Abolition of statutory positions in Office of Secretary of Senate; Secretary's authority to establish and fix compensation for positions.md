@@ -4,11 +4,15 @@ Effective October 1, 1981, all statutory positions in the Office of the Secretar
 
 (Pub. L. 97–51, §114, Oct. 1, 1981, 95 Stat. 963.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 61a–11 of this title prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Increases in Compensation
 
-Increases in compensation for Senate officers and employees under authority of Federal Pay ComparabilityAct of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 4571 of this title.
+Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives ofPresident pro tempore of the Senate, set out as notes under section 4571 of this title.
 

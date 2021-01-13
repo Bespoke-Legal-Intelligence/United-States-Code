@@ -138,7 +138,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (2) Calculation of individual net price
 
-&emsp;For purposes of this subsection, an individual net price of an institution of higher education shall be calculated in the same manneras the net price of such institution is calculated under subsection (a)(3), except that the cost of attendance and the amount of need-based and merit-based aid available shall be calculated for the individual student as much as practicable.
+&emsp;For purposes of this subsection, an individual net price of an institution of higher education shall be calculated in the same manner as the net price of such institution is calculated under subsection (a)(3), except that the cost of attendance and the amount of need-based and merit-based aid available shall be calculated for the individual student as much as practicable.
 
 #### (3) Use of net price calculator by institutions
 
@@ -290,7 +290,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for studentswho receive Federal student financial aid under subchapter IV:
+&emsp;&emsp;For purposes of reporting the information required under this subsection, the following income categories shall apply for students who receive Federal student financial aid under subchapter IV:
 
 &emsp;&emsp;&emsp;(i) $0–30,000.
 
@@ -310,7 +310,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (1) Development of multi-year tuition calculator
 
-&emsp;Not later than one year after August 14, 2008, the Secretary shall, in consultation with institutions of higher education, financial planners, and other appropriate experts, develop a multi-year tuition calculator to help current and prospective students, families of such students, and other consumers estimate the amount of tuition an individual may pay to attend an institution of higher education in future years.
+&emsp;Not later than one year after August 14, 2008, the Secretary shall, in consultation with institutions of higher education, financial planners, and other appropriate experts, develop amulti-year tuition calculator to help current and prospective students, families of such students, and other consumers estimate the amount of tuition an individual may pay to attend an institution of higher education in future years.
 
 #### (2) Calculation of multi-year tuition
 

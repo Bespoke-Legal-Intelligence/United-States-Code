@@ -10,7 +10,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 &emsp;&emsp;An individual shall be considered as owning the stock owned, directly or indirectly, by or for—
 
-&emsp;&emsp;&emsp;(i) his spouse (other than a spouse who is legally separated from the individual under a decree of divorce or separate maintenance), and
+&emsp;&emsp;&emsp;(i) his spouse (other than a spouse who is legally separated from the individualunder a decree of divorce or separate maintenance), and
 
 &emsp;&emsp;&emsp;(ii) his children, grandchildren, and parents.
 

@@ -34,7 +34,7 @@ Moneys received in payment for—
 
 &emsp;(2) work or services performed (including materials supplied) pursuant to section 7516 (relating to the supplying of training and training aids on request);
 
-&emsp;(3) other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or recordsmaintained in connection with the administration and enforcement of this title; and
+&emsp;(3) other work or services performed for a State or a department or agency of the Federal Government (subject to all provisions of law and regulations governing disclosure of information) in supplying copies of, or data from, returns, statements, or other documents filed under authority of this title or records maintained in connection with the administration and enforcement of this title; and
 
 &emsp;(4) work or services performed (including materials supplied) pursuant to section 6110 (relating to public inspection of written determinations),
 

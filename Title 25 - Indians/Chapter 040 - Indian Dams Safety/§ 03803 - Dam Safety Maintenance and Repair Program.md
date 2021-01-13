@@ -14,7 +14,7 @@ Under the Dam Safety Maintenance and Repair Program, the Secretary shall perform
 
 #### (d) Maintenance action plan
 
-The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a riskhazard rating of high or significant as identified pursuant to subsection (e).
+The Secretary shall develop a maintenance action plan, which shall include a prioritization of actions to be taken, for those dams with a risk hazard rating of high or significant as identified pursuant to subsection (e).
 
 #### (e) Identification of dams
 
@@ -85,6 +85,8 @@ The Secretary shall submit an annual report on the implementation of this chapte
 > The report shall be submitted at the time the budget is required to be submitted under section 1105 of title 31 to the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate.
 
 (Pub. L. 103–302, §4, Aug. 23, 1994, 108 Stat. 1561; Pub. L. 104–109, §3, Feb. 12, 1996, 110 Stat. 764.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

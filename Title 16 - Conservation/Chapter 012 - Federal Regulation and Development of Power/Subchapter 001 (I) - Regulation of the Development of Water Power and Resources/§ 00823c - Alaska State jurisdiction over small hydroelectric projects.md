@@ -56,7 +56,7 @@ With respect to projects located in whole or in part on a reservation, a conserv
 
 #### (e) Consultation with affected agencies
 
-The Commission shall consult with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce beforecertifying the State of Alaska's regulatory program.
+The Commission shall consult with the Secretary of the Interior, the Secretary of Agriculture, and the Secretary of Commerce before certifying the State of Alaska's regulatory program.
 
 #### (f) Application of Federal laws
 

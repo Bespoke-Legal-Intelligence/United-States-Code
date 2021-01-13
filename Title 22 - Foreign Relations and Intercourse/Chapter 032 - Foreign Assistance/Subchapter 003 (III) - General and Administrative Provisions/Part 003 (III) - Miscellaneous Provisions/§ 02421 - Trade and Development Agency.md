@@ -64,7 +64,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (2) Independent audit
 
-&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. Theindependent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordance with generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 6½ months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
+&emsp;An independent certified public accountant shall perform a financial and compliance audit of the financial statements of the Trade and Development Agency each year, in accordance with generally accepted Government auditing standards for a financial and compliance audit, taking into consideration any standards recommended by the Comptroller General. The independent certified public accountant shall report the results of such audit to the Director of the Trade and Development Agency. The financial statements of the Trade and Development Agency shall be presented in accordancewith generally accepted accounting principles. These financial statements and the report of the accountant shall be included in a report which contains, to the extent applicable, the information identified in section 3512 of title 31, and which the Trade and Development Agency shall submit to the Congress not later than 6½ months after the end of the last fiscal year covered by the audit. The Comptroller General may review the audit conducted by the accountant and the report to the Congress in the manner and at such times as the Comptroller General considers necessary.
 
 #### (3) Audit by Comptroller General
 
@@ -94,9 +94,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 (Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. P, title XX, §2004(d)(1), Dec. 20, 2019, 133 Stat. 3225.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -124,7 +122,7 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 
 <b>1981</b>—Pub. L. 97–113, §312(b), designated existing provisions as subsec. (a), struck out provision for use of $4,000,000 of funds made available for fiscal year 1981 for purposes of this chapter, and added subsec. (b).
 
-<b>1980</b>—Pub. L. 96–533 substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 forsuch authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
+<b>1980</b>—Pub. L. 96–533 substituted authorization for use of $4,000,000 of available funds for fiscal year 1981 for such authorization for use of $3,800,000 of available funds for fiscal year 1980 for reimbursable development programs.
 
 <b>1979</b>—Pub. L. 96–53 substituted "$3,800,000" for "$3,000,000" and "1980" for "1979".
 
@@ -133,6 +131,12 @@ Subsecs. (b) to (d). Pub. L. 100–418, §2204(b)(2), added subsecs. (b) and (c)
 <b>1977</b>—Pub. L. 95–88 struck out provisions authorizing the President to use up to $1,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1975 and $2,000,000 in the fiscal year 1976, and inserted provisions authorizing the President to use $2,000,000 of the funds made available for the purposes of this chapter in the fiscal year 1978.
 
 <b>1975</b>—Pub. L. 94–161 increased usable funds in fiscal year 1976 to $2,000,000 from $1,000,000 and authorized use of $2,000,000 in fiscal year 1977.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Change of Name
 
@@ -158,10 +162,6 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Appointment of Present Director Not Affected
 
 Pub. L. 102–549, title II, §202(b), Oct. 28, 1992, 106 Stat. 3657, provided that: "The enactment of this title \[amending this section and section 5401 of this title, section 5314 of Title 5, Government Organization and Employees, and sections 635q to 635s of Title 12, Banks and Banking, enacting provisions set out as a note above, and amending provisions set out as a note under section 2151 of this title\] shall not affect the appointment of the individual who is the Director of the Trade and Development Program on the effective date of this section \[Oct. 28, 1992\]."
@@ -173,4 +173,10 @@ Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized a
 #### Trade and Development Program; Reaffirmation of Support
 
 Pub. L. 100–418, title II, §2204(a), Aug. 23, 1988, 102 Stat. 1328, provided that: "The Congress reaffirms its support for the Trade and Development Program \[now Trade and Development Agency\], and believes that the Program's \[Agency's\] ability to support high priority development projects in developing countries would be enhanced by an increase in the funds authorized for the Program as well as by a clarification of the Program's status as a separate component of the International Development Cooperation Agency."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

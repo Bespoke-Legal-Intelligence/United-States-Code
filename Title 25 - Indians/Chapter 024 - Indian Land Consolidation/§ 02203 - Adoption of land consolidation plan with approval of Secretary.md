@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose; sales or exchanges: terms and conditions
 
-Notwithstanding any other provision of law, any tribe, acting through its governing body, is authorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
+Notwithstanding any other provision of law, any tribe, acting through its governing body, isauthorized, with the approval of the Secretary to adopt a land consolidation plan providing for the sale or exchange of any tribal lands or interest in lands for the purpose of eliminating undivided fractional interests in Indian trust or restricted lands or consolidating its tribal landholdings: <i>Provided</i>, That—
 
 &emsp;(1) except as provided by subsection (c), the sale price or exchange value received by the tribe for land or interests in land covered by this section shall be no less than within 10 per centum of the fair market value as determined by the Secretary;
 
@@ -23,6 +23,8 @@ The Secretary must execute such instrument of conveyance needed to effectuate a 
 The Secretary may execute instruments of conveyance for less than fair market value to effectuate the transfer of lands used as homesites held, on December 17, 1991, by the United States in trust for the Cherokee Nation of Oklahoma. Only the lands used as homesites, and described in the land consolidation plan of the Cherokee Nation of Oklahoma approved by the Secretary on February 6, 1987, shall be subject to this subsection.
 
 (Pub. L. 97–459, title II, §204, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(1), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 102–238, §3, Dec. 17, 1991, 105 Stat. 1908.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

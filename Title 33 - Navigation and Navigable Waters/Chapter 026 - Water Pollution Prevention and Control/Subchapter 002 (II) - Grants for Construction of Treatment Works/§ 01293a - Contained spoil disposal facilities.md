@@ -6,7 +6,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (b) Time for establishment; consideration of area needs; requirements
 
-The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator's judgment, aremost urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
+The Secretary of the Army, acting through the Chief of Engineers, shall establish the contained spoil disposal facilities authorized in subsection (a) at the earliest practicable date, taking into consideration the views and recommendations of the Administrator of the Environmental Protection Agency as to those areas which, in the Administrator's judgment, are most urgently in need of such facilities and pursuant to the requirements of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
 
 #### (c) Written agreement requirement; terms of agreement
 
@@ -60,6 +60,8 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 (Pub. L. 91–611, title I, §123, Dec. 31, 1970, 84 Stat. 1823; Pub. L. 93–251, title I, §23, Mar. 7, 1974, 88 Stat. 20; Pub. L. 100–676, §24, Nov. 17, 1988, 102 Stat. 4027.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1171 of this title, referred to in subsec. (a), was omitted as superseded.
@@ -81,6 +83,8 @@ Section was not enacted as a part of the Federal Water Pollution Control Act whi
 Subsec. (k). Pub. L. 100–676, §24(b), added subsec. (k).
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–251 inserted provision for waiver of payments in event of a written agreement before occurrence of findings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Great Lakes Confined Disposal Facilities
 

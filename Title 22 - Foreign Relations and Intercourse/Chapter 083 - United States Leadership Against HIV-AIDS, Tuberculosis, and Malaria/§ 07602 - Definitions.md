@@ -40,7 +40,7 @@ In this chapter:
 
 #### (10) Partner government
 
-&emsp;The term "partner government" means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf ofpeople living within the jurisdiction of such government.
+&emsp;The term "partner government" means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
 
 #### (11) Program monitoring
 
@@ -55,6 +55,8 @@ In this chapter:
 &emsp;The term "relevant executive branch agencies" means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\].
 
 (Pub. L. 108–25, §3, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, §3, July 30, 2008, 122 Stat. 2921.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

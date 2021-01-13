@@ -40,6 +40,8 @@ June 29, 1936, ch. 858, title XIII, §1304(d)(1), as added Pub. L. 96–453, §2
 
 In subsection (b)(1), the reference to territories is omitted as unnecessary because of the definition of "State" in chapter 1 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 amended par. (2) generally. Prior to amendment, text read as follows: "The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title, the amount shall be—

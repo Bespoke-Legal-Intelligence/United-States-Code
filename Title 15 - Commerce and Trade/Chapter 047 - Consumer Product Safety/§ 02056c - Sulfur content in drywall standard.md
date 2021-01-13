@@ -18,7 +18,7 @@ A rule under subsection (a)—
 
 &emsp;Subsection (a) shall not apply if the Commission determines that—
 
-&emsp;&emsp;(A) a voluntary standard pertaining to drywall manufactured or imported for use in the United States limits sulfur content to a level not associated with elevated rates of corrosion in the home;
+&emsp;&emsp;(A) a voluntary standard pertaining to drywall manufactured or imported for use in the United States limits sulfur content to alevel not associated with elevated rates of corrosion in the home;
 
 &emsp;&emsp;(B) such voluntary standard is or will be in effect not later than two years after January 14, 2013; and
 

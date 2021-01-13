@@ -20,7 +20,7 @@
 
 (b) The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(c) Notwithstanding subsection (a)(1) of this section, the Administrator, Federal Aviation Administration, may pay an individual training to be an air traffic controller of such Administration, and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense, during the period of such training, at the applicable rate of basic pay for the hours of training officially ordered or approved in excess of forty hours in an administrative workweek.
+(c) Notwithstanding subsection (a)(1) of this section, the Administrator, Federal Aviation Administration, may pay an individual training to be an air traffic controller of such Administration, and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense, during the period of such training, at the applicable rate ofbasic pay for the hours of training officially ordered or approved in excess of forty hours in an administrative workweek.
 
 (d) Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of this title shall be paid basic pay and overtime pay for the firefighter's regular tour of duty while attending agency sanctioned training.
 
@@ -50,6 +50,8 @@ In subsection (a)(2)(B), the words "under section 5724 of this title" are substi
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
@@ -71,6 +73,8 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–54 substituted "National Oceanic and Atmospheric" for "Environmental Science Services" in cls. (A) and (B).
 
 <b>1967</b>—Subsec. (a)(2). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey" in cls. (A) and (B). See Historical and Revision Notes under section 2101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 
@@ -95,6 +99,8 @@ Amendment by Pub. L. 97–276 effective on first day of first applicable pay per
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Department of Homeland Security
 

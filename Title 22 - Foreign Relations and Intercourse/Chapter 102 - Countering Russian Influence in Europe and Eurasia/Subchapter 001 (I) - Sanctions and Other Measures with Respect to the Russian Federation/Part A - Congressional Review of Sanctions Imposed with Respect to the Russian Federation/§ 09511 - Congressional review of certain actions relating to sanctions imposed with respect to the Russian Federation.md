@@ -84,7 +84,7 @@
 
 #### (4) Limitation on actions during presidential consideration of a joint resolution of disapproval
 
-&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating toa report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), the President may not take that action for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
+&emsp;Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), the President may not take that action for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
 
 #### (5) Limitation on actions during congressional reconsideration of a joint resolution of disapproval
 
@@ -203,6 +203,8 @@ In this section, the term "appropriate congressional committees and leadership" 
 &emsp;(2) the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
 
 (Pub. L. 115–44, title II, §216, Aug. 2, 2017, 131 Stat. 900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

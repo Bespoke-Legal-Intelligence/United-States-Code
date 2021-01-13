@@ -48,6 +48,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section deletes subsection (a) of 5 U.S.C. 8525. That subsection is now obsolete in view of the repeal, effective July 1, 1966, of chapter 43 of title 38, U.S.C., by Public Law 89–50, section 1(a) (79 Stat. 173).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92, §560(b), added subsec. (a).

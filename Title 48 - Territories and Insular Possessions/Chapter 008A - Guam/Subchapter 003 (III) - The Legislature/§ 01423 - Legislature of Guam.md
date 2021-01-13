@@ -26,5 +26,5 @@ General elections to the legislature shall be held on the Tuesday next after the
 
 #### Amendment of Laws of Guam To Conform to Changes Made by Pub. L. 89–552
 
-Pub. L. 89–552, §2, Sept. 2, 1966, 80 Stat. 376, provided that: "As soon as practicable after enactment of this Act \[Sept. 2, 1966\], and subject to the conditions and requirements of section 10 of the Organic Act of Guam, as amended by section 1 hereof \[this section\], the laws of Guam shall be amended to make provision for the manner of the election of members of the legislature. Until the laws of Guam shall make such provision the method of electing the legislature shall remain as it is upon the date of enactment of this Act."
+Pub. L. 89–552, §2, Sept. 2, 1966, 80 Stat. 376, provided that as soon as practicable after Sept. 2, 1966, and subject to certain conditions and requirements, the laws of Guam were to be amended to make provision for the manner of the election of members of the legislature.
 

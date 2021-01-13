@@ -12,7 +12,7 @@ In the case of any gain—
 
 #### (b) Applicable imputed income amount
 
-For purposes of subsection (a), the term "applicable imputed income amount" means, withrespect to any disposition or other termination referred to in subsection (a), an amount equal to—
+For purposes of subsection (a), the term "applicable imputed income amount" means, with respect to any disposition or other termination referred to in subsection (a), an amount equal to—
 
 &emsp;(1) the amount of interest which would have accrued on the taxpayer's net investment in the conversion transaction for the period ending on the date of such disposition or other termination (or, if earlier, the date on which the requirements of subsection (c) ceased to be satisfied) at a rate equal to 120 percent of the applicable rate, reduced by
 

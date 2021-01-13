@@ -8,9 +8,13 @@ The Superintendent of Documents, at the close of each regular session of Congres
 
 Based on 44 U.S. Code, 1964 ed., §76 (Jan. 12, 1895, ch. 23, §62, 28 Stat. 610).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c)(1), substituted "Director of the Government Publishing Office" for "Public Printer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

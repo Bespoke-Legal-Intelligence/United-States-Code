@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—To encourage Department of Defense personnel assigned to duty, or employed, in poor air quality areas to use means other than single-occupancy motor vehicles to commute to or from the location of their duty assignments, the Secretary of Defense shall exercise the authority provided in section 7905 of title 5 to establish a program to provide a transit pass benefit under subsection (b)(2)(A) of that section for members of the Army, Navy, Air Force, and Marine Corps who are assigned to duty, and to Department of Defense civilian officers and employees who are employed, in a poor air quality area.
+Establishment of Program.—To encourage Department of Defense personnel assigned to duty, or employed, in poor air quality areas to use means other than single-occupancy motor vehicles to commute to or from the location of their duty assignments, the Secretary of Defense shall exercise the authority provided in section 7905 of title 5 to establish a program to provide a transit pass benefit under subsection (b)(2)(A) of that section for members of the Army, Navy, Air Force, Marine Corps, and Space Force who are assigned to duty, and to Department of Defense civilian officers and employees who are employed, in a poor air quality area.
 
 (b)
 
@@ -12,7 +12,11 @@ Poor Air Quality Areas.—In this section, the term "poor air quality area" mean
 
 &emsp;(2) that, as determined by the Administrator of the Environmental Protection Agency, is a nonattainment area with respect to any of those standards.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285; amended Pub. L. 116–283, div. A, title IX, §924(b)(1)(O), Jan. 1, 2021, 134 Stat. 3820.)
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
 #### Time for Implementation
 

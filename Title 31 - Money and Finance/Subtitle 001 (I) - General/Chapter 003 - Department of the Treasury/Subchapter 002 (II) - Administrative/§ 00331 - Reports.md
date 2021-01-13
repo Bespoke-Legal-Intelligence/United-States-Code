@@ -102,9 +102,13 @@ In subsection (c), the words "a report for the prior fiscal year on the total am
 
 In subsection (d), the words "either House of Congress" are substituted for "either branch of the legislature" for clarity and consistency. The words "that House of Congress" are substituted for "the Senate or House of Representatives" for consistency and because of the restatement. The words "or which appertain to his office" are omitted as unnecessary because of subsections (a)–(c) of the section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–356 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -34,7 +34,7 @@ Tablets To Mark or Commemorate Places and Events.—The Secretary shall erect an
 
 (i)
 
-Operation for Benefit of Public.—The Secretary may operate and manage historic and archeologic sites, buildings, and property acquired under this chapter together with land and subordinate buildings for the benefit of the public and may charge reasonable visitation fees and grant concessions, leases, or permits for the use of land, building space, roads, or trails when necessary or desirable either to accommodate the public or to facilitate administration. TheSecretary may grant those concessions, leases, or permits and enter into contracts relating to the contracts, leases, or permits with responsible persons, firms, or corporations without advertising and without securing competitive bids.
+Operation for Benefit of Public.—The Secretary may operate and manage historic and archeologic sites, buildings, and property acquired under this chapter together with land and subordinate buildings for the benefit of the public and may charge reasonable visitation fees and grant concessions, leases, or permits for the use of land, building space, roads, or trails when necessary or desirable either to accommodate the public or to facilitate administration. The Secretary may grant those concessions, leases, or permits and enter into contracts relating to the contracts, leases, or permits with responsible persons, firms, or corporations without advertising and without securing competitive bids.
 
 (j)
 
@@ -65,6 +65,8 @@ Historical and Revision Notes
 16 U.S.C. 462(a) through (k) (1st sentence).
 
 Aug. 21, 1935, ch. 593, §2(a) through (k) (1st sentence), 49 Stat. 666; Pub. L. 89–249, §8, Oct. 9, 1965, 79 Stat. 971.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Historic Site Support Facility Improvements
 

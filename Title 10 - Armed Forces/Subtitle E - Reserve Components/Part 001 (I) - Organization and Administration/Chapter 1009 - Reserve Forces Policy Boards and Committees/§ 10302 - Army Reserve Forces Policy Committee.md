@@ -96,13 +96,13 @@ Subsec. (a). Pub. L. 99–433, §501(a)(8)(A), substituted "Office" for "office"
 
 Subsec. (h). Pub. L. 99–433, §501(a)(8)(B), struck out "General" before "Staff" in two places.
 
-<b>1967</b>—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authorityrelating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
+<b>1967</b>—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted "affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Army Reserve and those of either" for "affecting the Army Reserve and either".
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–168 effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
+Amendment by Pub. L. 90–168 effective on first day of first calendar month following date of enactment ofPub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
 
 #### Effective Date of 1958 Amendment
 

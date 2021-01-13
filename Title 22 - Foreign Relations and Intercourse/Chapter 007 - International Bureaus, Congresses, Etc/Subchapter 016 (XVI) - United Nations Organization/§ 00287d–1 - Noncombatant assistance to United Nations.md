@@ -2,7 +2,7 @@
 
 #### (a) Armed forces details; supplies and equipment; obligation of funds; procurement and replacement of requested items
 
-Notwithstanding the provisions of any other law, the President, upon the request by the United Nations for cooperative action, and to the extent that he finds that it is consistent with the national interest to comply with such request, may authorize, in support of such activities of the United Nations as are specifically directed to the peaceful settlement of disputes and not involving the employment of armed forces contemplated by chapter VII of the United Nations Charter—
+Notwithstanding the provisions of any other law, the President, upon the request by theUnited Nations for cooperative action, and to the extent that he finds that it is consistent with the national interest to comply with such request, may authorize, in support of such activities of the United Nations as are specifically directed to the peaceful settlement of disputes and not involving the employment of armed forces contemplated by chapter VII of the United Nations Charter—
 
 &emsp;(1) the detail to the United Nations, under such terms and conditions as the President shall determine, of personnel of the armed forces of the United States to serve as observers, guards, or in any non-combatant capacity, but in no event shall more than a total of one thousand of such personnel be so detailed at any one time: <i>Provided</i>, That while so detailed, such personnel shall be considered for all purposes as acting in the line of duty, including the receipt of pay and allowances as personnel of the armed forces of the United States, credit for longevity and retirement, and all other perquisites appertaining to such duty: <i>Provided further</i>, That upon authorization or approval by the President, such personnel may accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso hereof, and (b) extraordinary expenses and perquisites incident to such detail;
 
@@ -20,13 +20,17 @@ In addition to the authorization of appropriations to the Department of State co
 
 #### (d) Disclosure of information
 
-Nothing in this subchapter shall authorize the disclosure of any information or knowledge inany case in which such disclosure is prohibited by any other law of the United States.
+Nothing in this subchapter shall authorize the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any other law of the United States.
 
 (Dec. 20, 1945, ch. 583, §7, as added Oct. 10, 1949, ch. 660, §5, 63 Stat. 735; amended Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
 National Military Establishment changed to Department of Defense by act Aug. 10, 1049.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10206. Support of Peaceful Settlement of Disputes
 
@@ -38,7 +42,7 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 
 2\. The Secretary of State, in accordance with and subject to the provisions of section 7(b) of the Act \[subsection (b) of this section\], shall require reimbursement from the United Nations for the expense thereby incurred by the United States whenever personnel or assistance is made available to the United Nations, except that in exceptional circumstances, or when the Secretary of State finds it to be in the national interest, he may, after consultation with the Secretary of Defense, waive, in whole or in part, the requirement of such reimbursement.
 
-3\. The Secretary of Defense, in accordance with and subject to the provisions of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], may authorize personnel of the armed forces detailed to the United Nations to accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], and (b) extraordinary expenses and perquisites incident to such detail.
+3\. The Secretary of Defense, in accordance with and subject to the provisions of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], may authorize personnel of the armed forces detailed to the United Nations to accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], and\(b) extraordinary expenses and perquisites incident to such detail.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

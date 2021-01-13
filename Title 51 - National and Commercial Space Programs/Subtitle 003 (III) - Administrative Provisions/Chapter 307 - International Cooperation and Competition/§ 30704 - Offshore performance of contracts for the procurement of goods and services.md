@@ -4,7 +4,7 @@ The Administrator shall submit to Congress, not later than 120 days after the en
 
 &emsp;(1) the contracts and subcontracts and their dollar values for which the Administrator determines that essential goods or services under the contract are available only from a source outside the United States; and
 
-&emsp;(2) the items and their dollar values for which the Buy American Act (41 U.S.C. 10a et seq.) <sup>1</sup> was waived pursuant to obligations of the United States under international agreements.
+&emsp;(2) the items and their dollar values for which the Buy American Act (41 U.S.C. 10a etseq.) <sup>1</sup> was waived pursuant to obligations of the United States under international agreements.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3371.)
 
@@ -25,6 +25,8 @@ Historical and Revision Notes
 Pub. L. 109–155, title VII, §709, Dec. 30, 2005, 119 Stat. 2938.
 
 In the matter before paragraph (1), the words "beginning with the first fiscal year after the date of enactment of this Act \[December 30, 2005\]" are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

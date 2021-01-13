@@ -1,0 +1,24 @@
+### §4959. Administrative and other costs
+
+The Director of the Defense Logistics Agency may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
+
+&emsp;(1) an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
+
+&emsp;(2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities—
+
+&emsp;&emsp;(A) for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
+
+&emsp;&emsp;(B) for membership dues for any association of such centers created by eligible entities, training fees and associated travel for training to carry out the purposes of this chapter, and voluntary participation on any committees or board of such an association.
+
+(Added Pub. L. 101–510, div. A, title VIII, §814(a)(1)(B), Nov. 5, 1990, 104 Stat. 1596, §2417; amended Pub. L. 115–232, div. A, title VIII, §859(a), Aug. 13, 2018, 132 Stat. 1892; renumbered §4959 and amended Pub. L. 116–283, div. A, title X, §1081(a)(41), title XVIII, §1872(a)(11), Jan. 1, 2021, 134 Stat. 3873, 4289.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1872(a)(11), renumbered section 2417 of this title as this section. Directory language transferring this section to "chapter 385" was executed as if it had read "chapter 388" to reflect the probable intent of Congress.
+
+Par. (2). Pub. L. 116–283, §1081(a)(41), which directed amendment by substituting "entities—" for "entities -", was executed by making the substitution for "entities —" to reflect the probable intent of Congress.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1872(a)(11) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

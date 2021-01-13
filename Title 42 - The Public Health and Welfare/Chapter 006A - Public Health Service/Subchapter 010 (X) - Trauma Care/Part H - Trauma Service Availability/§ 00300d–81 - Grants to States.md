@@ -34,13 +34,13 @@ The recipient of a grant under subsection (b) shall carry out 1 or more of the f
 
 &emsp;(1) Providing trauma centers with funding to support physician compensation in trauma-related physician specialties where shortages exist in the region involved, with priority provided to safety net trauma centers described in subsection (c)(1)(A)(ii).
 
-&emsp;(2) Providing for individual safety net trauma center fiscal stability and costs related to having service that is available 24 hours a day,7 days a week, with priority provided to safety net trauma centers described in subsection (c)(1)(A)(ii) located in urban, border, and rural areas.
+&emsp;(2) Providing for individual safety net trauma center fiscal stability and costs related to having service that is available 24 hours a day, 7 days a week, with priority provided to safety net trauma centers described in subsection (c)(1)(A)(ii) located in urban, border, and rural areas.
 
 &emsp;(3) Reducing trauma center overcrowding at specific trauma centers related to throughput of trauma patients.
 
 &emsp;(4) Establishing new trauma services in underserved areas as defined by the State.
 
-&emsp;(5) Enhancing collaboration between trauma centers and other hospitals and emergency medical services personnel related to trauma service availability.
+&emsp;(5) Enhancing collaboration between trauma centers and other hospitals and emergencymedical services personnel related to trauma service availability.
 
 &emsp;(6) Making capital improvements to enhance access and expedite trauma care, including providing helipads and associated safety infrastructure.
 

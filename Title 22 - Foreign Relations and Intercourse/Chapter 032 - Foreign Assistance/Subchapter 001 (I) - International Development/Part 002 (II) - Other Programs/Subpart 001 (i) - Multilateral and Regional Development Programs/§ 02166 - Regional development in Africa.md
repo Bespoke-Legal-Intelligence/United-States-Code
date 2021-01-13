@@ -4,9 +4,7 @@ The President is requested to seek and to take appropriate action, in cooperatio
 
 (Pub. L. 87–195, pt. I, §206, as added Pub. L. 89–171, pt. I, §102(b), Sept. 6, 1965, 79 Stat. 653.)
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### African Assistance Policy; Presidential Report to Congress
 
@@ -37,6 +35,12 @@ Pub. L. 93–559, §50, Dec. 30, 1974, 88 Stat. 1816, as amended by Pub. L. 97�
 &emsp;"(6) In light of the need of Angola, Mozambique, and Guinea-Bissau for skilled and educated manpower, a priority consideration should be given to expanding current United States programs of educational assistance to the territories as a timely and substantive contribution to their independence.
 
 "(c) \[Repealed. Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.\]"
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Executive Order No. 12599
 

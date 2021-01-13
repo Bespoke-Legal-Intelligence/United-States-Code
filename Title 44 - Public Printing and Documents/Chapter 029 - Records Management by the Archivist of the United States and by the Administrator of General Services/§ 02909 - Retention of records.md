@@ -2,11 +2,13 @@
 
 The Archivist may empower a Federal agency to retain records for a longer period than that specified in disposal schedules, and may withdraw disposal authorizations covering records listed in disposal schedules. The Archivist shall promulgate regulations in accordance with section 2104(a) of this title to implement this section.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297; Pub. L. 91–287, §4, June 23, 1970, 84 Stat. 322; Pub. L.98–497, title I, §107(b)(15)(B), Oct. 19, 1984, 98 Stat. 2288; Pub. L. 108–383, §2(a), Oct. 30, 2004, 118 Stat. 2218.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1297; Pub. L. 91–287, §4, June 23, 1970, 84 Stat. 322; Pub. L. 98–497, title I, §107(b)(15)(B), Oct. 19, 1984, 98 Stat. 2288; Pub. L. 108–383, §2(a), Oct. 30, 2004, 118 Stat. 2218.)
 
 #### Historical and Revision Notes
 
 Based on 44 U.S. Code, 1964 ed., §395(f) (June 30, 1949, ch. 288, title V, §505(f), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -15,6 +17,8 @@ Based on 44 U.S. Code, 1964 ed., §395(f) (June 30, 1949, ch. 288, title V, §50
 <b>1984</b>—Pub. L. 98–497 substituted "Archivist" for "Administrator of General Services".
 
 <b>1970</b>—Pub. L. 91–287 struck out "approved by Congress" after "disposal schedules" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

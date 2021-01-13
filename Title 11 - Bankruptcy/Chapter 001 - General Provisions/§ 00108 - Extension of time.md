@@ -1,6 +1,6 @@
 ### §108. Extension of time
 
-(a) If applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period within which the debtor may commence an action, and such period has not expired before the date of the filing of the petition, the trustee may commence such action only before the later of—
+(a) If applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period within which the debtor may commence an action, and such period has not expired before the date of the filing ofthe petition, the trustee may commence such action only before the later of—
 
 &emsp;(1) the end of such period, including any suspension of such period occurring on or after the commencement of the case; or
 
@@ -34,6 +34,8 @@ Subsection (c) extends the statute of limitations for creditors. Thus, if a cred
 
 In the case of Federal tax liabilities, the Internal Revenue Code \[title 26\] suspends the statute of limitations on a tax liability of a taxpayer from running while his assets are in the control or custody of a court and for 6 months thereafter (sec. 6503(b) of the Code \[title 26\]). The amendment applies this rule in a title 11 proceeding. Accordingly, the statute of limitations on collection of a nondischargeable Federal tax liability of a debtor will resume running after 6 months following the end of the period during which the debtor's assets are in the control or custody of the bankruptcy court. This rule will provide the Internal Revenue Service adequate time to collect nondischargeable taxes following the end of the title 11 proceedings.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–8 substituted "922, 1201, or" for "922, or".
@@ -56,13 +58,15 @@ Subsec. (c). Pub. L. 98–353, §424(b), inserted "nonbankruptcy" after "applica
 
 Subsec. (c)(1). Pub. L. 98–353, §424(a), substituted "or" for "and" after the semicolon.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a),\(c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

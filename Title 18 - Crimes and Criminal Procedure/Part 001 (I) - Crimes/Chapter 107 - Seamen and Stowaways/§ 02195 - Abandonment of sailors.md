@@ -8,6 +8,8 @@ Whoever, being master or commander of a vessel of the United States, while abroa
 
 Based on title 18, U.S.C., 1940 ed., §486 (Mar. 4, 1909, ch. 321, §295, 35 Stat. 1146).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

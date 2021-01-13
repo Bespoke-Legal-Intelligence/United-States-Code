@@ -30,7 +30,7 @@ If the petitioner applies to the court for leave to adduce additional data, view
 
 #### (c) Standard for review
 
-Upon the filing of the petition under subsection (a) of this section for judicial review of a regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) and an order issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
+Upon the filing of the petition under subsection (a) of this section for judicial review of a regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) and anorder issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
 
 #### (d) Finality of judgments
 
@@ -46,6 +46,8 @@ To facilitate judicial review under this section or under any other provision of
 
 (June 25, 1938, ch. 675, §517, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 560; amended Pub. L. 101–629, §13, Nov. 28, 1990, 104 Stat. 4524; Pub. L. 102–300, §6(f), June 16, 1992, 106 Stat. 240; Pub. L. 105–115, title II, §216(a)(2), Nov. 21, 1997, 111 Stat. 2349; Pub. L. 112–144, title VI, §608(a)(2)(C), July 9, 2012, 126 Stat. 1056.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–144 substituted ", an administrative order changing the classification of a device to class I," for "or changing the classification of a device to class I".
@@ -59,6 +61,8 @@ Subsec. (a)(10). Pub. L. 105–115, §216(a)(2)(C), struck out par. (10) which r
 <b>1992</b>—Subsec. (a)(10). Pub. L. 102–300 substituted "360j(h)(4)(B)" for "360j(c)(4)(B)".
 
 <b>1990</b>—Subsec. (a)(8) to (10). Pub. L. 101–629 added pars. (8) to (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

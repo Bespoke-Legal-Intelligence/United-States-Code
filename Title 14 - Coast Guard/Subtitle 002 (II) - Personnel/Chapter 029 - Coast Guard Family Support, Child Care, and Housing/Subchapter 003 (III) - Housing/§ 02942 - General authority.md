@@ -14,6 +14,8 @@ Limitation on Appropriations.—No appropriation shall be made to acquire or con
 
 (Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3909, §681; amended Pub. L. 107–295, title IV, §402(a), Nov. 25, 2002, 116 Stat. 2113; Pub. L. 111–281, title II, §221(a)(2), Oct. 15, 2010, 124 Stat. 2919; renumbered §2942, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 681 of this title as this section.

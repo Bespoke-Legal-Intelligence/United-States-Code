@@ -4,7 +4,7 @@
 
 Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
-&emsp;(1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
+&emsp;(1) In response to the order of a court having jurisdiction to issue such an order, a subpoena issued in connection with proceedings before a Federal grand jury, or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18.
 
 &emsp;(2) In accordance with the written instructions of the consumer to whom it relates.
 
@@ -16,7 +16,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;(C) intends to use the information in connection with the underwriting of insurance involving the consumer; or
 
-&emsp;&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefitgranted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
+&emsp;&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
 
 &emsp;&emsp;(E) intends to use the information, as a potential investor or servicer, or current insurer, in connection with a valuation of, or an assessment of the credit or prepayment risks associated with, an existing credit obligation; or
 
@@ -76,7 +76,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
 
-&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 oftitle 49, or a position subject to safety regulation by a State transportation agency; and
+&emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
 &emsp;&emsp;&emsp;(ii) as of the time at which the person procures the report or causes the report to be procured the only interaction between the consumer and the person in connection with that employment application has been by mail, telephone, computer, or other similar means.
 
@@ -102,7 +102,7 @@ Subject to subsection (c), any consumer reporting agency may furnish a consumer 
 
 &emsp;&emsp;&emsp;(IV) that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
 
-&emsp;&emsp;(ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer's request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer's rights as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
+&emsp;&emsp;(ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer's request, together with proper identification, the person must send or provide to the consumer a copy of a report anda copy of the consumer's rights as prescribed by the Bureau under section 1681g(c)(3) <sup>1</sup> of this title.
 
 #### (C) Scope
 
@@ -286,7 +286,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
 
-&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and HealthInformation Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
 
 &emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>1</sup> or described in section 6802(e) of this title; or
 
@@ -306,7 +306,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III, §302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087; Pub. L. 114–94, div. G, title LXXX, §80001, Dec. 4, 2015, 129 Stat. 1792.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 109–351, title VII, §719, Oct. 13, 2006, 120 Stat. 1998; Pub. L. 110–161, div. D, title VII, §743, Dec. 26, 2007, 121 Stat. 2033; Pub. L. 111–24, title III,§302, May 22, 2009, 123 Stat. 1748; Pub. L. 111–203, title X, §1088(a)(2)(A), (4), July 21, 2010, 124 Stat. 2087; Pub. L. 114–94, div. G, title LXXX, §80001, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 116–283, div. F, title LXIII, §6308(b), Jan. 1, 2021, 134 Stat. 4594.)
 
 #### References in Text
 
@@ -325,6 +325,8 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to section 1320d–8 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "such an order, a" for "such an order, or a" and inserted ", or a subpoena issued in accordance with section 5318 of title 31 or section 3486 of title 18" after "grand jury".
 
 <b>2015</b>—Subsec. (a)(4)(A). Pub. L. 114–94, §80001(1), substituted ", determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment" for "or determining the appropriate level of such payments".
 
@@ -428,7 +430,7 @@ Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 

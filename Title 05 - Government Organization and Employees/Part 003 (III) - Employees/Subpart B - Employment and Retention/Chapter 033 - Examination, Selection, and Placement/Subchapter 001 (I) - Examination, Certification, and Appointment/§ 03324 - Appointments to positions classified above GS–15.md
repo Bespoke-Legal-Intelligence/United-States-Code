@@ -1,6 +1,6 @@
 ### §3324. Appointments to positions classified above GS–15
 
-(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agencyinvolved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
+(a) An appointment to a position classified above GS–15 pursuant to section 5108 may be made only on approval of the qualifications of the proposed appointee by the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director. This section does not apply to a position—
 
 &emsp;(1) to which appointment is made by the Chief Judge of the United States Tax Court;
 
@@ -52,6 +52,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 This section amends 5 U.S.C. 3324(a)(4)(A) to correct typographical errors.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Treasury, Post Office, and Executive Office Appropriation Act, 1966, referred to in subsec. (a)(4)(B), is Pub. L. 89–57, June 30, 1965, 79 Stat. 196. For classification of this Act to the Code, see Tables.
@@ -71,6 +73,8 @@ Subsec. (a). Pub. L. 101–509, §529 \[title I, §101(b)(9)(C)(i)\], substitute
 <b>1979</b>—Subsec. (a)(4)(A). Pub. L. 96–54 struck out reference to Office of Emergency Planning.
 
 <b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

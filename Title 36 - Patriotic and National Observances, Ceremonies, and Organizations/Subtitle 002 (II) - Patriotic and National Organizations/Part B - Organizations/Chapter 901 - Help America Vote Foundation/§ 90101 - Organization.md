@@ -14,6 +14,8 @@ Perpetual Existence.—Except as otherwise provided, the foundation has perpetua
 
 (Added Pub. L. 107–252, title VI, §601(a), Oct. 29, 2002, 116 Stat. 1718, §152601; renumbered §90101, Pub. L. 113–237, §3(c)(6)(B), Dec. 18, 2014, 128 Stat. 2840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–237 renumbered section 152601 of this title as this section.

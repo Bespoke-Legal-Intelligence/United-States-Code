@@ -24,7 +24,7 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 
 &emsp;(4) To improve participatory legislative processes and legal education, political transparency and competition, and compliance with international obligations in the countries described in paragraph (1).
 
-&emsp;(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
+&emsp;(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propagandaof the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
 
 &emsp;(6) To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
 
@@ -102,13 +102,17 @@ In order to ensure that the United States Government is properly focused on comb
 
 (Pub. L. 115–44, title II, §254, Aug. 2, 2017, 131 Stat. 928; Pub. L. 116–94, div. P, title XX, §2004(d)(2), Dec. 20, 2019, 133 Stat. 3225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–94, §2004(d)(2)(A), substituted "fiscal years 2020, 2021, 2022, and 2023" for "fiscal years 2018 and 2019".
 
 Subsec. (b)(7). Pub. L. 116–94, §2004(d)(2)(B), added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

@@ -10,9 +10,13 @@ A case under chapter 15 of title 11 may be commenced in the district court of th
 
 (Added Pub. L. 98–353, title I, §102(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 109–8, title VIII, §802(c)(4), Apr. 20, 2005, 119 Stat. 146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–8 amended section generally. Prior to amendment, section related to venue of cases commenced under section 304 of title 11.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

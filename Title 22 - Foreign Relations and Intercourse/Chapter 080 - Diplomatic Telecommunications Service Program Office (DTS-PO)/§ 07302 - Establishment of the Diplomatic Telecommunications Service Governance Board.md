@@ -22,13 +22,13 @@
 
 #### (3) Requirement for implementing arrangements
 
-&emsp;Subject to the requirements of this chapter, the Governance Board shall determine the written implementing arrangements and other relevant and appropriate governance processes and procedures to manage, oversee, resource, or otherwise administer the DTS–PO.
+&emsp;Subject to the requirements of this chapter, the Governance Board shall determine thewritten implementing arrangements and other relevant and appropriate governance processes and procedures to manage, oversee, resource, or otherwise administer the DTS–PO.
 
 #### (b) Membership
 
 #### (1) Selection
 
-&emsp;The Director of the Office of Management and Budget shall designate from among thedepartments and agencies that use the DTS Network—
+&emsp;The Director of the Office of Management and Budget shall designate from among the departments and agencies that use the DTS Network—
 
 &emsp;&emsp;(A) four departments and agencies to each appoint one voting member of the Governance Board from the personnel of such departments and agencies; and
 
@@ -83,6 +83,8 @@ The Governance Board shall have the following duties with respect to the DTS–P
 The Governance Board shall ensure that those enhancements of, and the provision of service for, telecommunication capabilities that involve the national security interests of the United States receive the highest prioritization.
 
 (Pub. L. 106–567, title III, §322, as added Pub. L. 111–259, title V, §501(a)(1), Oct. 7, 2010, 124 Stat. 2736.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -12,6 +12,8 @@ The punishment prescribed in section 1621 of this title was substituted for the 
 
 Minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

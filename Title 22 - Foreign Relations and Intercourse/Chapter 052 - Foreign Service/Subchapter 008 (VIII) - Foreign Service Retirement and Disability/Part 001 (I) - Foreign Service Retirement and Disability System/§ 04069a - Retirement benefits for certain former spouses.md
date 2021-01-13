@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; percentage of benefits
 
-Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or in such amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
+Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent or insuch amounts as are provided in advance in appropriations Acts, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -58,13 +58,15 @@ Nothing in this section shall be construed to impair, reduce, or otherwise affec
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 
-Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuantto this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
+Any individual who on February 14, 1981, was an otherwise qualified former spouse pursuant to this section, but who was married to a former Foreign Service employee of the United States Information Agency or of the Agency for International Development, shall be entitled to benefits under this section if—
 
 &emsp;(1) the former employee retired from the Civil Service Retirement and Disability System on a date before his employing agency could legally participate in the Foreign Service Retirement and Disability System; and
 
 &emsp;(2) the marriage included at least five years during which the employee was assigned overseas.
 
 (Pub. L. 96–465, title I, §830, as added Pub. L. 100–204, title I, §188(a), Dec. 22, 1987, 101 Stat. 1369; amended Pub. L. 101–246, title I, §146(a), Feb. 16, 1990, 104 Stat. 37.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

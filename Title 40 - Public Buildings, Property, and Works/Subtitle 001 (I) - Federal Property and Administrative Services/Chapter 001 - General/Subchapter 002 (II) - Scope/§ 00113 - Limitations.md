@@ -124,7 +124,7 @@ In subsection (e)(3), the words "chapter 137 of title 10" and "that chapter" are
 
 In subsection (e)(4), the words "Secretary of Defense" are substituted for "National Military Establishment" in section 602(d)(4) of the Federal Property and Administrative Services Act of 1949, because of section 12(a), (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591) and because of 10:113(a).
 
-In subsection (e)(5), the words "section 2535 of title 10" are substituted for "the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]" because the National Industrial Reserve Act was renamed "Defense Industrial Reserve Act" by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
+In subsection (e)(5), the words "section 2535 of title 10" are substituted for "the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]" because the National Industrial Reserve Act was renamed "Defense Industrial Reserve Act" by section 809 of the Departmentof Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
 In subsection (e)(6), the words "the Munitions Board" are omitted because sections 1 and 2 of Reorganization Plan No. 6 of 1953 (eff. June 30, 1953, 67 Stat. 638) abolished the Munitions Board and transferred the Board's functions to the Secretary of Defense.
 
@@ -143,6 +143,8 @@ In subsection (e)(13), the words "Secretary of Transportation" are substituted f
 In subsection (e)(17), the words "title 44 or any other law" are substituted for "the Act entitled 'An Act providing for the public printing and binding and the distribution of public documents' approved January 12, 1895 (28 Stat. 601), as amended or any other Act" in section 602(d)(18) of the Federal Property and Administrative Services Act of 1949 because of section 2(b) of the Act of October 22, 1968 (Public Law 90–620, 82 Stat. 1305), the first section of which enacted Title 44, United States Code.
 
 In subsection (e)(19), the words "Secretary of State" are substituted for "Director of the International Communication Agency" \[subsequently changed to "Director of the United States Information Agency" because of section 303(b) of the Department of State Authorization Act, Fiscal Years 1982 and 1983 (Public Law 97–241, 96 Stat. 291)\] because of 22:6551.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -169,6 +171,8 @@ The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41" for "the Office of Federal Procurement Policy Act" in heading and "division B (Except Sections 1704 and 2303) of subtitle I of title 41" for "the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)" in text.
 
 <b>2004</b>—Subsec. (e)(20). Pub. L. 108–458 added par. (20).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

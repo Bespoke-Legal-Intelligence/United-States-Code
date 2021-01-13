@@ -36,7 +36,7 @@ It shall not be a requirement that an Indian tribe or Indians be identified in t
 
 Each funding agreement under this subchapter shall set forth—
 
-&emsp;(1) terms that generally identify the programs, services, functions, and activities (orportions thereof) to be performed or administered; and
+&emsp;(1) terms that generally identify the programs, services, functions, and activities (or portions thereof) to be performed or administered; and
 
 &emsp;(2) for the items identified in paragraph (1)—
 
@@ -52,7 +52,7 @@ Each funding agreement under this subchapter shall set forth—
 
 #### (e) Subsequent funding agreements
 
-Absent notification from an Indian tribe that is withdrawing or retroceding the operation of one or more programs, services, functions, or activities (or portions thereof) identified in a funding agreement, or unless otherwise agreed to by the parties, each funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, and the terms of the subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement.
+Absent notification from an Indian tribe that is withdrawing or retroceding the operation of one or more programs, services, functions, or activities (or portions thereof) identified in a funding agreement, or unless otherwise agreed to by the parties, each funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, and the terms ofthe subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement.
 
 #### (f) Existing funding agreements
 
@@ -67,6 +67,8 @@ Each Indian tribe participating in the Tribal Self-Governance Demonstration Proj
 At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 5325(a) of this title) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
 
 (Pub. L. 93–638, title V, §505, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 716.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

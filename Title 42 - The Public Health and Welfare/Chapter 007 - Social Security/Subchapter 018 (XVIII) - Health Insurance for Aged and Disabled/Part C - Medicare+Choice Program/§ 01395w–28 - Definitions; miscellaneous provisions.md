@@ -54,7 +54,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) for contract year 1999 shall be not more than $6,000; and
 
-&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount of such deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
+&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount ofsuch deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
 
 > &emsp;&emsp;If the amount of the deductible under clause (ii) is not a multiple of $50, the amount shall be rounded to the nearest multiple of $50.
 
@@ -142,7 +142,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;(A) is described in section 501(c)(8) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Act;
 
-&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, achurch or convention or association of churches or an affiliated group of churches;
+&emsp;&emsp;(B) is affiliated with, carries out the tenets of, and shares a religious bond with, a church or convention or association of churches or an affiliated group of churches;
 
 &emsp;&emsp;(C) offers, in addition to a Medicare+Choice religious fraternal benefit society plan, health coverage to individuals not entitled to benefits under this subchapter who are members of such church, convention, or group; and
 
@@ -278,13 +278,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place ofotherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
 
 #### (ii) Procedures
 
 &emsp;&emsp;&emsp;The procedures established under clause (i) shall be included in the plan contract under paragraph (3)(D) and shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) adopt the provisions for the enrollee that are most protective for the enrolleeand, to the extent feasible as determined by the Secretary, are compatible with unified timeframes and consolidated access to external review under an integrated process;
+&emsp;&emsp;&emsp;&emsp;(I) adopt the provisions for the enrollee that are most protective for the enrollee and, to the extent feasible as determined by the Secretary, are compatible with unified timeframes and consolidated access to external review under an integrated process;
 
 &emsp;&emsp;&emsp;&emsp;(II) take into account differences in State plans under subchapter XIX to the extent necessary;
 
@@ -324,11 +324,11 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility forbenefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
 
 #### (ii) Suspension of enrollment for failure to meet requirements during initial period
 
-&emsp;&emsp;&emsp;During the period of plan years 2021 through 2025, if the Secretary determines that a specialized MA plan for specialneeds individuals described in subsection (b)(6)(B)(ii) has failed to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan of the remedy described in section 1395w–27(g)(2)(B) of this title in the same manner as the Secretary may apply such remedy, and in accordance with the same procedures as would apply, in the case of an MA organization determined by the Secretary to have engaged in conduct described in section 1395w–27(g)(1) of this title. If the Secretary applies such remedy to a Medicare Advantage organization under the preceding sentence, the organization shall submit to the Secretary (at a time, and in a form and manner, specified by the Secretary) information describing how the plan will come into compliance with clause (i).
+&emsp;&emsp;&emsp;During the period of plan years 2021 through 2025, if the Secretary determines that a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(ii) has failed to comply with clause (i), the Secretary may provide for the application against the Medicare Advantage organization offering the plan of the remedy described in section 1395w–27(g)(2)(B) of this title in the same manner as the Secretary may apply such remedy, and in accordance with the same procedures as would apply, in the case of an MA organization determined by the Secretary to have engaged in conduct described in section 1395w–27(g)(1) of this title. If the Secretary applies such remedy to a Medicare Advantage organization under the preceding sentence, the organization shall submit to the Secretary (at a time, and in a form and manner, specified by the Secretary) information describing how the plan will come into compliance with clause (i).
 
 #### (E) Study and report to Congress
 
@@ -434,7 +434,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (D) HIPAA compliant information only
 
-&emsp;&emsp;For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the HealthInsurance Portability and Accountability Act of 1996.
+&emsp;&emsp;For purposes of this subsection, communications may only occur if the communications are permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
 
 #### (2) Quarterly reports
 
@@ -449,10 +449,6 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 &emsp;Nothing in this subsection shall preclude or otherwise affect referrals to the Inspector General of the Department of Health and Human Services or other law enforcement entities.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), Dec. 13, 2016, 130 Stat. 1334; Pub. L. 115–123, div. E, title III, §§50311(a), (b)(1), (c), 50321, Feb. 9, 2018, 132 Stat. 192, 196, 200; Pub. L. 115–271, title VI, §6063(a), Oct. 24, 2018, 132 Stat. 3987.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 17006(a)(2)(B) of Pub. L. 114–255 applicable with respect to plan years beginning on or after Jan. 1, 2021. See 2016 Amendment note below.</i>
 
 #### References in Text
 

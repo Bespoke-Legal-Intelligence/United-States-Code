@@ -186,7 +186,7 @@ In subsection (e), before clause (1), the words "the effectiveness of" are omitt
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-<b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and ofwritten agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Administrator".
+<b>2012</b>—Subsec. (d)(3). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Administrator".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted "design organization, production certificate holder," after "appliance,".
 

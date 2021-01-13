@@ -1,6 +1,6 @@
 ### §1162. State jurisdiction over offenses committed by or against Indians in the Indian country
 
-(a) Each of the States or Territories listed in the following table shall have jurisdiction overoffenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
+(a) Each of the States or Territories listed in the following table shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country listed opposite the name of the State or Territory to the same extent that such State or Territory has jurisdiction over offenses committed elsewhere within the State or Territory, and the criminal laws of such State or Territory shall have the same force and effect within such Indian country as they have elsewhere within the State or Territory:
 
 &nbsp;
 
@@ -25,6 +25,8 @@
 
 (Added Aug. 15, 1953, ch. 505, §2, 67 Stat. 588; amended Aug. 24, 1954, ch. 910, §1, 68 Stat. 795; Pub. L. 85–615, §1, Aug. 8, 1958, 72 Stat. 545; Pub. L. 91–523, §§1, 2, Nov. 25, 1970, 84 Stat. 1358; Pub. L. 111–211, title II, §221(b), July 29, 2010, 124 Stat. 2272.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–211 added subsec. (d).
@@ -36,6 +38,8 @@ Subsec. (c). Pub. L. 91–523, §2, inserted "as areas over which the several St
 <b>1958</b>—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over offenses committed by or against Indians in all Indian country within the Territory of Alaska.
 
 <b>1954</b>—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

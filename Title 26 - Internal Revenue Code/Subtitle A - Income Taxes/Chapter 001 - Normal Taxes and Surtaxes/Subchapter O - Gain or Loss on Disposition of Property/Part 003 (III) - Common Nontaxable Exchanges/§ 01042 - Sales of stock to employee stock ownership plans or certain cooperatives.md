@@ -168,7 +168,7 @@ The basis of the taxpayer in qualified replacement property purchased by the tax
 
 #### (1) In general
 
-&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any)shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
+&emsp;If a taxpayer disposes of any qualified replacement property, then, notwithstanding any other provision of this title, gain (if any) shall be recognized to the extent of the gain which was not recognized under subsection (a) by reason of the acquisition by such taxpayer of such qualified replacement property.
 
 #### (2) Special rule for corporations controlled by the taxpayer
 
@@ -254,7 +254,7 @@ The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–51
 
 <b>1996</b>—Subsec. (c)(1)(A). Pub. L. 104–188, §1316(d)(3), substituted "domestic C corporation" for "domestic corporation".
 
-Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shallbe applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
+Subsec. (c)(1)(B)(ii). Pub. L. 104–188, §1704(t)(50), provided that section 11801(c)(9)(H) of Pub. L. 101–508 shall be applied as if "section 1042(c)(1)(B)" appeared instead of "section 1042(c)(2)(B)". See 1990 Amendment note below.
 
 Subsec. (c)(4)(A)(i). Pub. L. 104–188, §1311(b)(3), substituted "section 1362(d)(3)(C)" for "section 1362(d)(3)(D)".
 
@@ -348,7 +348,7 @@ Pub. L. 98–369, div. A, title V, §541(c), July 18, 1984, 98 Stat. 890, provid
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Line Item Veto
 

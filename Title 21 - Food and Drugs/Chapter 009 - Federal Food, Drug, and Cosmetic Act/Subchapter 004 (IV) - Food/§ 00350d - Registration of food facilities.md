@@ -12,7 +12,7 @@
 
 #### (2) Registration
 
-&emsp;An entity (referred to in this section as the "registrant") shall submit a registrationunder paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
+&emsp;An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
 
 #### (3) Biennial registration renewal
 
@@ -40,7 +40,7 @@
 
 #### (2) Hearing on suspension
 
-&emsp;The Secretary shall provide the registrant subject to an order under paragraph (1) with an opportunity for an informal hearing, to be held as soon as possible but not later than 2 business days after the issuance of the order or such other time period, as agreed upon by the Secretary and the registrant, on the actions required for reinstatement of registration and why the registration that is subject to suspension should be reinstated. The Secretary shall reinstate a registration if the Secretary determines, based on evidence presented, that adequate grounds do not exist to continue the suspension of the registration.
+&emsp;The Secretary shall provide the registrant subject to an order under paragraph (1) with an opportunity for an informal hearing, to be held as soon as possible but not later than 2 business days after the issuance of the order or such other time period, as agreed upon by the Secretary and the registrant, on the actionsrequired for reinstatement of registration and why the registration that is subject to suspension should be reinstated. The Secretary shall reinstate a registration if the Secretary determines, based on evidence presented, that adequate grounds do not exist to continue the suspension of the registration.
 
 #### (3) Post-hearing corrective action plan; vacating of order
 
@@ -96,6 +96,8 @@ Nothing in this section shall be construed to authorize the Secretary to require
 
 (June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat. 667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 111–353, §102(a)(1), (b)(1)(A), substituted "conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and" for "conducts business and", inserted ", or any other food categories as determined appropriate by the Secretary, including by guidance" after "Code of Federal Regulations", and inserted after first sentence "The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter."
@@ -105,6 +107,8 @@ Subsec. (a)(3) to (5). Pub. L. 111–353, §102(a)(2), (3), added par. (3) and r
 Subsecs. (b), (c). Pub. L. 111–353, §102(b)(1)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–353, §102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted "for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 
@@ -160,7 +164,7 @@ Authority with respect to certain facilities.—
 
 &emsp;&emsp;"(i)
 
-In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements insection 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
+In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
 
 &emsp;&emsp;"(ii)
 

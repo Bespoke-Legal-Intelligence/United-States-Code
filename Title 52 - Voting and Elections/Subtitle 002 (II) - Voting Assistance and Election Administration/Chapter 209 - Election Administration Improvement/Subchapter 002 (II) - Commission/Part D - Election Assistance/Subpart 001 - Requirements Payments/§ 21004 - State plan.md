@@ -28,7 +28,7 @@ The State plan shall contain a description of each of the following:
 
 &emsp;(7) How the State, in using the requirements payment, will maintain the expenditures of the State for activities funded by the payment at a level that is not less than the level of such expenditures maintained by the State for the fiscal year ending prior to November 2000.
 
-&emsp;(8) How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use tomeasure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.
+&emsp;(8) How the State will adopt performance goals and measures that will be used by the State to determine its success and the success of units of local government in the State in carrying out the plan, including timetables for meeting each of the elements of the plan, descriptions of the criteria the State will use to measure performance and the process used to develop such criteria, and a description of which official is to be held responsible for ensuring that each performance goal is met.
 
 &emsp;(9) A description of the uniform, nondiscriminatory State-based administrative complaint procedures in effect under section 21112 of this title.
 
@@ -81,6 +81,8 @@ The State plan shall contain a description of each of the following:
 &emsp;Paragraph (1) may not be construed to limit the liability of a State or other jurisdiction for criminal acts or omissions.
 
 (Pub. L. 107–252, title II, §254, Oct. 29, 2002, 116 Stat. 1694; Pub. L. 111–84, div. A, title V, §588(b)(1)(A), Oct. 28, 2009, 123 Stat. 2333; Pub. L. 112–74, div. C, title VI, §622(3), (4), Dec. 23, 2011, 125 Stat. 927.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

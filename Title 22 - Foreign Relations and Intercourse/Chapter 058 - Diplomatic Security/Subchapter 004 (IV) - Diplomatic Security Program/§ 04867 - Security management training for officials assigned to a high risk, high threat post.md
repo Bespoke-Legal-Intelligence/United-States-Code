@@ -26,7 +26,7 @@ Officials referred to in subsection (a) are the following:
 
 &emsp;(4) Individuals holding a position in grades GS–14 or GS–15.
 
-&emsp;(5) Personal services contractors and other contractors serving in positions or capacities similar to the officials described in paragraphs (1) through (4).
+&emsp;(5) Personal services contractors and other contractors serving in positions or capacitiessimilar to the officials described in paragraphs (1) through (4).
 
 #### (d) Effective date
 
@@ -34,9 +34,13 @@ The requirements of this section shall take effect beginning on the date that is
 
 (Pub. L. 99–399, title IV, §417, as added Pub. L. 114–323, title I, §121(a), Dec. 16, 2016, 130 Stat. 1913.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–14 and GS–15, referred to in subsec. (c)(4), are contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -38,11 +38,15 @@ Schedule Adjustment.—
 
 (Added Pub. L. 111–282, §2(a), Oct. 15, 2010, 124 Stat. 3034.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Levels IV and V of the Executive Schedule, referred to in subsecs. (a) and (b)(2), (3), are set out in sections 5315 and 5316, respectively, of this title.
 
 The General Schedule, referred to in subsec. (b)(1)(A), is set out under section 5332 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

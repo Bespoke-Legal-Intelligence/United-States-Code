@@ -20,7 +20,7 @@ Authorized Activities.—This section does not prevent any lawfully authorized i
 
 (d)
 
-Immunity for Theaters.—With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, the authorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
+Immunity for Theaters.—With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, theauthorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
 
 &emsp;(1) may detain, in a reasonable manner and for a reasonable time, any person suspected of a violation of this section with respect to that motion picture or audiovisual work for the purpose of questioning or summoning a law enforcement officer; and
 
@@ -61,6 +61,8 @@ Title 17 definitions.—The terms "audiovisual work", "copy", "copyright owner",
 Audiovisual recording device.—The term "audiovisual recording device" means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
 
 (Added Pub. L. 109–9, title I, §102(a), Apr. 27, 2005, 119 Stat. 218; amended Pub. L. 110–403, title II, §204, Oct. 13, 2008, 122 Stat. 4261.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

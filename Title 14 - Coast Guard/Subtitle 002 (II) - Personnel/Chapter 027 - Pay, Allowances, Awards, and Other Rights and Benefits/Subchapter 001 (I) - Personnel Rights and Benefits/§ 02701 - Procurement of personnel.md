@@ -1,12 +1,12 @@
 ### §2701. Procurement of personnel
 
-The Coast Guard may expend operating expense funds for recruiting activities, including but not limited to advertising and entertainment, in order to—
+The Coast Guard may expend operations and support funds for recruiting activities, including advertising and entertainment, to—
 
 &emsp;(1) obtain recruits for the Service and cadet applicants; and
 
 &emsp;(2) gain support of recruiting objectives from those who may assist in the recruiting effort.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 531, §468; Pub. L. 104–324, title II, §206(b), Oct. 19, 1996, 110 Stat. 3908; renumbered §2701, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 531, §468; Pub. L. 104–324, title II, §206(b), Oct. 19, 1996, 110 Stat. 3908; renumbered §2701, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(4), Jan. 1, 2021, 134 Stat. 4760.)
 
 #### Historical and Revision Notes
 
@@ -14,13 +14,17 @@ Based on the following language contained in the Coast Guard appropriation act f
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2701 was renumbered section 4901 of this title.
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283, in introductory provisions, substituted "operations and support" for "operating expense" and struck out "but not limited to" after "including" and "in order" after "entertainment,".
+
 <b>2018</b>—Pub. L. 115–282 renumbered section 468 of this title as this section.
 
-<b>1996</b>—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: "The Coast Guard may make expenditures as necessary in order to obtain recruits for the service and cadet applicants, including advertising."
+<b>1996</b>—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: "The Coast Guard may make expenditures as necessary in order to obtainrecruits for the service and cadet applicants, including advertising."
 

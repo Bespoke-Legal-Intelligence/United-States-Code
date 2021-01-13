@@ -6,6 +6,8 @@
 | [102\.](%C2%A7%2000102%20-%20Construction%3B%20severability.md) | Construction; severability. |
 | [103\.](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md) | Use of appropriated funds. |
 | [104\.](%C2%A7%2000104%20-%20National%20biodefense%20strategy.md) | National biodefense strategy. |
+| [105\.](%C2%A7%2000105%20-%20Biodefense%20analysis%20and%20budget%20submission.md) | Biodefense analysis and budget submission. |
+| [106\.](%C2%A7%2000106%20-%20Update%20of%20national%20biodefense%20implementation%20plan.md) | Update of national biodefense implementation plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,6 +47,7 @@
 | [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
 | 124<i>l.</i> | Transferred. |
 | [124m.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124m%20-%20Classified%20Information%20Advisory%20Officer.md) | Classified Information Advisory Officer. |
+| 124m–1. | Departmental coordination on counter threats. |
 | [124n.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124n%20-%20Protection%20of%20certain%20facilities%20and%20assets%20from%20unmanned%20aircraft.md) | Protection of certain facilities and assets from unmanned aircraft. |
 | [125\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000125%20-%20Annual%20report%20on%20intelligence%20activities%20of%20the%20Department%20of%20Homeland%20Security.md) | Annual report on intelligence activities of the Department of Homeland Security. |
 | [126\.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000126%20-%20Department%20of%20Homeland%20Security%20data%20framework.md) | Department of Homeland Security data framework. |
@@ -101,6 +104,7 @@
 | [195d.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195d%20-%20Social%20media%20working%20group.md) | Social media working group. |
 | [195e.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195e%20-%20Transparency%20in%20research%20and%20development.md) | Transparency in research and development. |
 | [195f.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195f%20-%20EMP%20and%20GMD%20mitigation%20research%20and%20development%20and%20threat%20assessment%2C%20response%2C%20and%20recovery.md) | EMP and GMD mitigation research and development and threat assessment, response, and recovery. |
+| [195g.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195g%20-%20Countering%20Unmanned%20Aircraft%20Systems%20Coordinator.md) | Countering Unmanned Aircraft Systems Coordinator. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,13 +131,14 @@
 | [213\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000213%20-%20Preservation%20of%20Customs%20funds.md) | Preservation of Customs funds. |
 | [214\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000214%20-%20Separate%20budget%20request%20for%20Customs.md) | Separate budget request for Customs. |
 | [215\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000215%20-%20Definition.md) | Definition. |
-| [216\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000216%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93125%2C%20title%20VIII%2C%20%C2%A7802%28f%29%2C%20Feb.%2024%2C%202016%2C%20130%20Stat.%20210.md) | Repealed. |
+| [216\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000216%20-%20Protection%20against%20potential%20synthetic%20opioid%20exposure.md) | Protection against potential synthetic opioid exposure. |
 | [217\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000217%20-%20Allocation%20of%20resources%20by%20the%20Secretary.md) | Allocation of resources by the Secretary. |
 | [218\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000218%20-%20Asia-Pacific%20Economic%20Cooperation%20Business%20Travel%20Cards.md) | Asia-Pacific Economic Cooperation Business Travel Cards. |
 | [220\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000220%20-%20Methamphetamine%20and%20methamphetamine%20precursor%20chemicals.md) | Methamphetamine and methamphetamine precursor chemicals. |
 | [221\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000221%20-%20Requirements%20with%20respect%20to%20administering%20polygraph%20examinations%20to%20law%20enforcement%20personnel%20of%20U.S.%20Customs%20and%20Border%20Protection.md) | Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection. |
 | [222\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000222%20-%20Advanced%20Training%20Center%20Revolving%20Fund.md) | Advanced Training Center Revolving Fund. |
 | [223\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000223%20-%20Border%20security%20metrics.md) | Border security metrics. |
+| [224\.](Subchapter%20004%20%28IV%29%20-%20Border%2C%20Maritime%2C%20and%20Transportation%20Security/Part%20B%20-%20U.S.%20Customs%20and%20Border%20Protection/%C2%A7%2000224%20-%20Other%20reporting%20requirements.md) | Other reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -248,6 +253,7 @@
 | 321o–1. | Integrated public alert and warning system. |
 | [321p.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321p%20-%20National%20planning%20and%20education.md) | National planning and education. |
 | [321q.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321q%20-%20Coordination%20of%20Department%20of%20Homeland%20Security%20efforts%20related%20to%20food%2C%20agriculture%2C%20and%20veterinary%20defense%20against%20terrorism.md) | Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism. |
+| [322\.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000322%20-%20Continuity%20of%20the%20economy%20plan.md) | Continuity of the economy plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -327,6 +333,7 @@
 | [414\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20E%20-%20Human%20Resources%20Management/%C2%A7%2000414%20-%20Homeland%20Security%20Rotation%20Program.md) | Homeland Security Rotation Program. |
 | [415\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20E%20-%20Human%20Resources%20Management/%C2%A7%2000415%20-%20Homeland%20Security%20Education%20Program.md) | Homeland Security Education Program. |
 | [416\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20E%20-%20Human%20Resources%20Management/%C2%A7%2000416%20-%20Use%20of%20protective%20equipment%20or%20measures%20by%20employees.md) | Use of protective equipment or measures by employees. |
+| [417\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20E%20-%20Human%20Resources%20Management/%C2%A7%2000417%20-%20Rotational%20cybersecurity%20research%20program.md) | Rotational cybersecurity research program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -656,6 +663,7 @@
 | :--- | ---: |
 | [651\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000651%20-%20Definitions.md) | Definitions. |
 | [652\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000652%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency.md) | Cybersecurity and Infrastructure Security Agency. |
+| [652a.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000652a%20-%20Sector%20Risk%20Management%20Agencies.md) | Sector Risk Management Agencies. |
 | [653\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000653%20-%20Cybersecurity%20Division.md) | Cybersecurity Division. |
 | [654\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000654%20-%20Infrastructure%20Security%20Division.md) | Infrastructure Security Division. |
 | [655\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000655%20-%20Enhancement%20of%20Federal%20and%20non-Federal%20cybersecurity.md) | Enhancement of Federal and non-Federal cybersecurity. |
@@ -668,6 +676,13 @@
 | [662\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000662%20-%20Clearances.md) | Clearances. |
 | [663\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000663%20-%20Federal%20intrusion%20detection%20and%20prevention%20system.md) | Federal intrusion detection and prevention system. |
 | [664\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000664%20-%20National%20asset%20database.md) | National asset database. |
+| [665\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665%20-%20Duties%20and%20authorities%20relating%20to%20.gov%20internet%20domain.md) | Duties and authorities relating to .gov internet domain. |
+| [665a.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665a%20-%20Intelligence%20and%20cybersecurity%20diversity%20fellowship%20program.md) | Intelligence and cybersecurity diversity fellowship program. |
+| [665b.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665b%20-%20Joint%20cyber%20planning%20office.md) | Joint cyber planning office. |
+| [665c.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665c%20-%20Cybersecurity%20State%20Coordinator.md) | Cybersecurity State Coordinator. |
+| [665d.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665d%20-%20Sector%20risk%20management%20agencies.md) | Sector risk management agencies. |
+| [665e.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665e%20-%20Cybersecurity%20Advisory%20Committee.md) | Cybersecurity Advisory Committee. |
+| [665f.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665f%20-%20Cybersecurity%20education%20and%20training%20programs.md) | Cybersecurity education and training programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -691,6 +706,8 @@
 - [&sect; 00102 - Construction; severability](%C2%A7%2000102%20-%20Construction%3B%20severability.md)
 - [&sect; 00103 - Use of appropriated funds](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md)
 - [&sect; 00104 - National biodefense strategy](%C2%A7%2000104%20-%20National%20biodefense%20strategy.md)
+- [&sect; 00105 - Biodefense analysis and budget submission](%C2%A7%2000105%20-%20Biodefense%20analysis%20and%20budget%20submission.md)
+- [&sect; 00106 - Update of national biodefense implementation plan](%C2%A7%2000106%20-%20Update%20of%20national%20biodefense%20implementation%20plan.md)
 - [Subchapter 001 (I) - Department of Homeland Security](Subchapter%20001%20%28I%29%20-%20Department%20of%20Homeland%20Security/README.md)
 - [Subchapter 002 (II) - Information Analysis](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/README.md)
 - [Subchapter 003 (III) - Science and Technology in Support of Homeland Security](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/README.md)

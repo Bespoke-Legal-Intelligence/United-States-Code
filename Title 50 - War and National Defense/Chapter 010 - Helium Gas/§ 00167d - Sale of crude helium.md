@@ -118,7 +118,7 @@
 
 #### (11) Forward auctions
 
-&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction onceeach fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
+&emsp;Effective beginning in fiscal year 2016, the Secretary may conduct a forward auction once each fiscal year of a quantity of helium that is equal to up to 10 percent of the volume of crude helium to be made available at auction during the following fiscal year if the Secretary determines that the forward auction will—
 
 &emsp;&emsp;(A) not cause a disruption in the supply of helium from the Reserve;
 

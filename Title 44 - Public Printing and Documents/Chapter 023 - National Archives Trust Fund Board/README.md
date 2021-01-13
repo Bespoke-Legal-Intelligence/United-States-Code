@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497, title II, §202(c), Oct. 19, 1984, 98 Stat. 2294, amended item 2302 generally.

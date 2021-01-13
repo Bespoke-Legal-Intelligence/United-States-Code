@@ -204,7 +204,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### References in Text
 
-Section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (b)(3)(C)(ii), is classified to section 4702(20) of Title 12, Banks and Banking.
+Section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994, referredto in subsec. (b)(3)(C)(ii), is classified to section 4702(20) of Title 12, Banks and Banking.
 
 #### Prior Provisions
 

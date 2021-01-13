@@ -4,6 +4,8 @@ All operations under any oil, gas, or other mineral lease issued pursuant to the
 
 (May 11, 1938, ch. 198, §4, 52 Stat. 348.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeal of Inconsistent Acts
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.

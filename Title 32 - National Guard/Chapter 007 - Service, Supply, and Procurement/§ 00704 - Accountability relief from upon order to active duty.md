@@ -20,6 +20,8 @@ July 9, 1952, ch. 608, §711, 66 Stat. 504.
 
 The words "to active duty" are substituted for the words "into the active military service of the United States". The word "conditions" is omitted as covered by the word "terms". The word "previously" is substituted for the word "theretofore". The word "liability" is omitted as covered by the word "accountability". The words "that part" are substituted for the words "such portion of the National Guard of the United States or of the Air National Guard of the United States".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, or the District of Columbia".

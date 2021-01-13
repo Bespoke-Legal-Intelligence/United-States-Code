@@ -66,7 +66,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) are primarily to perform work directly connected with the control and extinguishment of fires; and
 
-&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency; and
+&emsp;&emsp;&emsp;(ii) are sufficiently rigorous that employment opportunities should be limitedto young and physically vigorous individuals, as determined by the Director considering the recommendations of the employing agency; and
 
 &emsp;&emsp;(B) an employee who is transferred directly to a supervisory or administrative position after performing duties described in subparagraph (A) for at least 3 years;
 
@@ -190,7 +190,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) has less than 5 years of creditable civilian service under section 8411; and
 
-&emsp;&emsp;(B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
+&emsp;&emsp;(B) after December 31, 2012, and before January 1, 2014, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411;
 
 &emsp;(38) the term "further revised annuity employee" means any individual who—
 
@@ -202,9 +202,13 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) has less than 5 years of creditable civilian service under section 8411; and
 
-&emsp;&emsp;(B) after December 31, 2013, becomes employed as an employee or becomes a Membercovered under this chapter performing service which is creditable service under section 8411.
+&emsp;&emsp;(B) after December 31, 2013, becomes employed as an employee or becomes a Member covered under this chapter performing service which is creditable service under section 8411; and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(a), Dec. 26, 2013, 127 Stat. 1183.)
+&emsp;(39) "representative payee" means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat.4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 116–126, §2(a)(2), Mar. 18, 2020, 134 Stat. 174.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -221,6 +225,8 @@ The Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983,
 The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
 
 #### Amendments
+
+<b>2020</b>—Par. (39). Pub. L. 116–126 added par. (39).
 
 <b>2013</b>—Par. (37)(B). Pub. L. 113–67, §401(a)(2), inserted "and before January 1, 2014," after "after December 31, 2012,".
 
@@ -283,6 +289,12 @@ Par. (17). Pub. L. 100–238, §103(a)(2), (c)(1), in subpar. (A)(ii), substitut
 Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: "the term 'loss', when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;".
 
 Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date ofregulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -364,9 +376,9 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331,8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
-"(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this titleand amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
+"(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
 "(4) Section 701 of this Act \[enacting provisions set out as a note under section 8472 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -404,6 +416,10 @@ Pub. L. 99–556, §1, Oct. 27, 1986, 100 Stat. 3131, provided that: "This Act \
 
 Pub. L. 99–335, title I, §100(a), June 6, 1986, 100 Stat. 514, provided that: "This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the 'Federal Employees' Retirement System Act of 1986'."
 
+#### Regulations
+
+Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under section 8331 of this title.
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -420,7 +436,7 @@ Pub. L. 108–83, title I, §104(b), Sept. 30, 2003, 117 Stat. 1018, provided th
 
 #### Service as Law Enforcement Officer
 
-Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314,3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "The amendment made by subsection (a) \[amending section 640 of Pub. L. 104–52, set out above\] shall take effect as if included in Public Law 104–52 on the date of its enactment \[Nov. 19, 1995\]."\]
 

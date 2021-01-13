@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States or their designees to develop or operate the State's traumatic brain injury surveillance system or registry to determine the incidence and prevalence of traumatic brain injury and related disability, to ensure the uniformity of reporting under such system or registry, to link individuals with traumatic brain injury to services and supports, and to link such individuals with academic institutions to conduct applied research that will support the development of such surveillance systems and registries as may be necessary. A surveillance system or registry under this section shall provide for the collection of data concerning—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States or their designees to develop or operate the State's traumatic brain injury surveillance system or registry to determine the incidence and prevalence of traumatic brain injury and related disability, to ensure the uniformity of reporting under such system or registry, to link individuals with traumatic brain injury to services and supports, and to link such individuals with academic institutions to conduct applied research that will support the development of such surveillance systemsand registries as may be necessary. A surveillance system or registry under this section shall provide for the collection of data concerning—
 
 &emsp;(1) demographic information about each traumatic brain injury;
 

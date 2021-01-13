@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) the extent to which the Secretary will be able to verify that Iran is complying with its obligations and commitments under the agreement;
 
-&emsp;&emsp;&emsp;(ii) the adequacy of the safeguards and other control mechanisms and other assurances contained in the agreement with respect to Iran's nuclear program to ensureIran's activities permitted thereunder will not be used to further any nuclear-related military or nuclear explosive purpose, including for any research on or development of any nuclear explosive device or any other nuclear-related military purpose; and
+&emsp;&emsp;&emsp;(ii) the adequacy of the safeguards and other control mechanisms and other assurances contained in the agreement with respect to Iran's nuclear program to ensure Iran's activities permitted thereunder will not be used to further any nuclear-related military or nuclear explosive purpose, including for any research on or development of any nuclear explosive device or any other nuclear-related military purpose; and
 
 &emsp;&emsp;&emsp;(iii) the capacity and capability of the International Atomic Energy Agency to effectively implement the verification regime required by or related to the agreement, including whether the International Atomic Energy Agency will have sufficient access to investigate suspicious sites or allegations of covert nuclear-related activities and whether it has the required funding, manpower, and authority to undertake the verification regime required by or related to the agreement.
 
@@ -216,7 +216,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the event the President does not submit a certification pursuant to subsection (d)(6) during each 90-day period following the review period provided in subsection (b), or submits a determination pursuant to subsection (d)(3) that Iran has materiallybreached an agreement subject to subsection (a) and the material breach has not been cured, qualifying legislation introduced within 60 calendar days of such event shall be entitled to expedited consideration pursuant to this subsection.
+&emsp;&emsp;In the event the President does not submit a certification pursuant to subsection (d)(6) during each 90-day period following the review period provided in subsection (b), or submits a determination pursuant to subsection (d)(3) that Iran has materially breached an agreement subject to subsection (a) and the material breach has not been cured, qualifying legislation introduced within 60 calendar days of such event shall be entitled to expedited consideration pursuant to this subsection.
 
 #### (B) Definition
 
@@ -264,7 +264,7 @@
 
 #### (C) Proceeding to consideration
 
-&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
+&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motionto proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
 
 #### (D) Debate
 
@@ -338,11 +338,11 @@ In this section:
 
 #### (2) Appropriate congressional committees
 
-&emsp;The term "appropriate congressional committees" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;The term "appropriate congressional committees" means the Committee on Finance,the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
 
 #### (3) Appropriate congressional committees and leadership
 
-&emsp;The term "appropriate congressional committees and leadership" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations, and the Majority and Minority Leaders of the Senate and the Committee on Ways and Means, the Committee on FinancialServices, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs, and the Speaker, Majority Leader, and Minority Leader of the House of Representatives.
+&emsp;The term "appropriate congressional committees and leadership" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations, and the Majority and Minority Leaders of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs, and the Speaker, Majority Leader, and Minority Leader of the House of Representatives.
 
 #### (4) Iranian financial institution
 

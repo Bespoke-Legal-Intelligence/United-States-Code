@@ -6,15 +6,7 @@
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be the amount determined under this paragraph.
-
-#### (B) Rate
-
-&emsp;&emsp;Except as provided in subparagraph (C), the rate of tax shall be $18 for per <sup>1</sup> barrel.
-
-#### (C) Special rule
-
-&emsp;&emsp;In the case of beer removed after December 31, 2017, and before January 1, 2021, the rate of tax shall be—
+&emsp;&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be—
 
 &emsp;&emsp;&emsp;(i) $16 on the first 6,000,000 barrels of beer—
 
@@ -24,15 +16,15 @@
 
 &emsp;&emsp;&emsp;(ii) $18 on any barrels of beer to which clause (i) does not apply.
 
-#### (D) Barrel
+#### (B) Barrel
 
 &emsp;&emsp;For purposes of this section, a barrel shall contain not more than 31 gallons of beer, and any tax imposed under this section shall be applied at a like rate for any other quantity or for fractional parts of a barrel.
 
 #### (2) Reduced rate for certain domestic production
 
-#### (A) rate <sup>2</sup>
+#### (A) $3.50 a barrel rate
 
-&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021) on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
+&emsp;&emsp;In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $3.50 on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
 
 #### (B) Regulations
 
@@ -46,11 +38,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(C) (referred to in this paragraph as the "reduced tax rate") may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
+&emsp;&emsp;In the case of any barrels of beer which have been brewed or produced outside of the United States and imported into the United States, the rate of tax applicable under clause (i) of paragraph (1)(A) (referred to in this paragraph as the "reduced tax rate") may be assigned by the brewer (provided that the brewer makes an election described in subparagraph (B)(ii)) to any electing importer of such barrels pursuant to the requirements established by the Secretary under subparagraph (B).
 
 #### (B) Assignment
 
-&emsp;&emsp;The Secretary shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
+&emsp;&emsp;The Secretary, after consultation with the Secretary of the Department of Homeland Security, shall, through such rules, regulations, and procedures as are determined appropriate, establish procedures for assignment of the reduced tax rate provided under this paragraph, which shall include—
 
 &emsp;&emsp;&emsp;(i) a limitation to ensure that the number of barrels of beer for which the reduced tax rate has been assigned by a brewer—
 
@@ -72,15 +64,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 2,000,000 barrel quantity specified in paragraph (2)(A) shall be applied to the controlled group, and the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) and the 60,000 barrel quantity specified in paragraph (2)(A) shall be apportioned among the brewers who are members of such group in such manner as the Secretary or their delegate shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning assigned to it by subsection (a) of section 1563, except that for such purposes the phrase "more than 50 percent" shall be substituted for the phrase "at least 80 percent" in each place it appears in such subsection. Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
 #### (B) Foreign manufacturers and importers
 
-&emsp;&emsp;For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(C)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
+&emsp;&emsp;For purposes of paragraph (4), in the case of a controlled group, the 6,000,000 barrel quantity specified in paragraph (1)(A)(i) shall be applied to the controlled group and apportioned among the members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given such term under subparagraph (A). Under regulations prescribed by the Secretary, principles similar to the principles of the preceding two sentences shall be applied to a group of brewers under common control where one or more of the brewers is not a corporation.
 
 #### (C) Single taxpayer
 
-&emsp;&emsp;Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer marketed under a similar brand, license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
+&emsp;&emsp;Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
 #### (b) Assessment on materials used in production in case of fraud
 
@@ -94,13 +86,65 @@ The production of any beer at any place in the United States shall be subject to
 
 &emsp;(2) such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 86–75, §3(a)(6), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(8), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(8), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(7), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(8), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(8), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(d), June 21, 1965, 79 Stat. 150; Pub. L. 94–529, §1, Oct. 17, 1976, 90 Stat. 2485; Pub. L. 95–458, §2(b)(2)(A), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 101–508, title XI, §11201(c), Nov. 5, 1990, 104 Stat. 1388–416; Pub. L. 115–97, title I, §13802(a)–(d), Dec. 22, 2017, 131 Stat. 2170, 2171; Pub. L. 116–94, div. Q, title I, §144(b)(1), Dec. 20, 2019, 133 Stat. 3234.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 86–75, §3(a)(6), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(8), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(8), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(7), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(8), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(8), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(d), June 21, 1965, 79 Stat. 150; Pub. L. 94–529, §1, Oct. 17, 1976, 90 Stat. 2485; Pub. L. 95–458, §2(b)(2)(A), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 101–508, title XI, §11201(c), Nov. 5, 1990, 104 Stat. 1388–416; Pub. L. 115–97, title I, §13802(a)–(d), Dec. 22, 2017, 131 Stat. 2170, 2171; Pub. L. 116–94, div. Q, title I, §144(b)(1), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §§106(b)(1)–(4), 107(b)(1), 110(a), Dec. 27, 2020, 134 Stat. 3042, 3046, 3049.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 116–260, div. EE, title I, §107(b)(1), (2), Dec. 27, 2020, 134 Stat. 3046, 3047, provided that, applicable to beer removed after Dec. 31, 2022, subsection (a) of this section is amended by adding at the end the following new paragraph:</i>
+
+#### <i>(6) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>In the case of any barrels of beer which have been produced outside the United States and imported into the United States, if such barrels of beer are removed after December 31, 2022—</i>
+
+&emsp;&emsp;&emsp;<i>(i) paragraph (1)(A)(i) shall not apply, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
+
+#### <i>(B) Amount of refund</i>
+
+&emsp;&emsp;<i>The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—</i>
+
+&emsp;&emsp;&emsp;<i>(i) excess (if any) of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the amount of tax imposed under this section on barrels of beer referred to in subparagraph (A) which were removed during such period, over</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the amount of tax which would have been imposed under this section on such barrels of beer if this section were applied without regard to this paragraph, plus</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.</i>
+
+#### <i>(C) Application of rules related to elections and assignments</i>
+
+&emsp;&emsp;<i>Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (4) and the barrels of beer have been assigned to the importer pursuant to such paragraph.</i>
+
+#### <i>(D) Rules for refunds within 90 days</i>
+
+&emsp;&emsp;<i>For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §106(b)(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (D) relating to imposition of tax on beer, rate of such tax, special rule for beer removed between Dec. 31, 2017, and Jan. 1, 2021, and size of a barrel, respectively.
+
+Subsec. (a)(1)(A)(i)(II). Pub. L. 116–260, §106(b)(3)(A), inserted "but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph" after "during the calendar year".
+
+Subsec. (a)(2)(A). Pub. L. 116–260, §106(b)(2), inserted "$3.50 a barrel" before "rate" in heading and substituted "$3.50" for "$7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021)" in text.
+
+Subsec. (a)(4)(A). Pub. L. 116–260, §106(b)(3)(B)(i), substituted "paragraph (1)(A)" for "paragraph (1)(C)".
+
+Subsec. (a)(4)(B). Pub. L. 116–260, §106(b)(3)(B)(ii), substituted "The Secretary, after consultation with the Secretary of the Department of Homeland Security," for "The Secretary" in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 116–260, §106(b)(4), substituted "paragraph (1)(A)(i)" for "paragraph (1)(C)(i)" wherever appearing.
+
+Subsec. (a)(5)(C). Pub. L. 116–260, §110(a), substituted "under a license" for "marketed under a similar brand, license".
+
+Subsec. (a)(6). Pub. L. 116–260, §107(b)(1), added par. (6).
 
 <b>2019</b>—Subsec. (a)(1)(C), (2)(A). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2020" in introductory provisions of subsec. (a)(1)(C) and in subsec. (a)(2)(A).
 
@@ -138,6 +182,14 @@ Subsec. (a)(2)(C). Pub. L. 101–508, §11201(c)(2), added subpar. (C).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–75 substituted "July 1, 1960" for "July 1, 1959".
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §106(b)(5), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendments made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2020."
+
+Pub. L. 116–260, div. EE, title I, §107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: "The amendment made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2022."
+
+Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §144(b)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: "The amendments made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2019."
@@ -169,8 +221,4 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 #### Floor Stocks Taxes on Distilled Spirits, Wine, and Beer
 
 Imposition of tax on beer, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "Rate".</i>
 

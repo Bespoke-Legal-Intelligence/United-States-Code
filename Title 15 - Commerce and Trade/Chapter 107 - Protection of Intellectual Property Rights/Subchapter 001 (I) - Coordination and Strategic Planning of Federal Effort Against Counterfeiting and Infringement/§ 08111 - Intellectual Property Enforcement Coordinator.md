@@ -74,7 +74,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Senior Intellectual Property Enforcement Advisory Committee</i>.
 
-(a) <i>Establishment of Committee</i>. There is established an interagency Senior Intellectual Property EnforcementAdvisory Committee (Senior Advisory Committee), which shall be chaired by the Intellectual Property Enforcement Coordinator (Coordinator), Executive Office of the President.
+(a) <i>Establishment of Committee</i>. There is established an interagency Senior Intellectual Property Enforcement Advisory Committee (Senior Advisory Committee), which shall be chaired by the Intellectual Property Enforcement Coordinator (Coordinator), Executive Office of the President.
 
 (b) <i>Membership</i>. The Senior Advisory Committee shall be composed of the Coordinator, who shall chair it, and the heads of, or the deputies to the heads of:
 

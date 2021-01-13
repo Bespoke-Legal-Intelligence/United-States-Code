@@ -34,6 +34,8 @@ In carrying out the functions of the office under subsection (a), the Secretary 
 
 (June 25, 1938, ch. 675, §803, as added Pub. L. 101–629, §15(a), Nov. 28, 1990, 104 Stat. 4525; amended Pub. L. 105–115, title IV, §410(b), Nov. 21, 1997, 111 Stat. 2373; Pub. L. 112–144, title VI, §§609, 610, July 9, 2012, 126 Stat. 1059.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (c)(3). Pub. L. 112–144, §610, designated existing provisions as subpar. (A) and added subpar. (B).
@@ -41,6 +43,8 @@ In carrying out the functions of the office under subsection (a), the Secretary 
 Subsec. (c)(4). Pub. L. 112–144, §609, amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary shall, not later than 180 days after November 21, 1997, make public a plan that establishes a framework for achieving mutual recognition of good manufacturing practices inspections."
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–115 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

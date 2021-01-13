@@ -58,7 +58,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 &emsp;&emsp;(A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks;
 
-&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
+&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for thebanks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
 
 &emsp;&emsp;(C) shall classify the Federal Home Loan Banks according to such capital classifications.
 
@@ -120,6 +120,8 @@ Notwithstanding any other provision of this section, during the period beginning
 
 (Pub. L. 102–550, title XIII, §1364, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, §§1142(a), 1161(a)(3), July 30, 2008, 122 Stat. 2730, 2779.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4616(b)(5) of this title, referred to in subsec. (a)(4)(B), was redesignated section 4616(b)(6) of this title by Pub. L. 110–289, div. A, title I, §1144(5)(D), July 30, 2008, 122 Stat. 2733.
@@ -147,6 +149,8 @@ Subsec. (d). Pub. L. 110–289, §1142(a)(3), redesignated subsec. (c) as (d). F
 Subsec. (e). Pub. L. 110–289, §1142(a)(5), added subsec. (e).
 
 Subsec. (f). Pub. L. 110–289, §1142(a)(3), redesignated subsec. (d) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

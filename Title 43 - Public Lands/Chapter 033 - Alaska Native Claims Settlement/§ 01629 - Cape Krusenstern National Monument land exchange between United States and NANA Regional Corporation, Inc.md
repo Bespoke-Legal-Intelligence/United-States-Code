@@ -18,11 +18,11 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 (1) The Secretary shall convey to NANA, pursuant to the provisions of paragraph A(1) of the Agreement, the right, title and interest of the United States only in and to those lands designated as "Amended A(1) Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985. The charges to be made pursuant to paragraphs B(1) and D(27) of the Agreement against NANA's land entitlements under this chapter shall be reduced by an amount equivalent to the difference between that acreage conveyed pursuant to this subsection and the acreage that would have been conveyed to NANA pursuant to paragraph A(1) of the Agreement but for this subsection.
 
-(2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shall not convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federalownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
+(2) Notwithstanding the provisions of paragraph A(3) of the Agreement, the Secretary shall not convey to NANA any right, title and interest of the United States in the lands described in such paragraph A(3) and the Secretary shall make no charge to NANA's remaining entitlements under this chapter with respect to such lands. Such lands shall be retained in Federal ownership but shall be subject to the easement described in Exhibit D to the Agreement as if the lands had been conveyed to NANA pursuant to paragraph A(3) of the Agreement.
 
 #### (d) Easement in and to transportation system lands
 
-(1) There is hereby granted to NANA an easement in and to the lands designated as "Transportation System Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985, for use in the construction, operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
+(1) There is hereby granted to NANA an easement in and to the lands designated as "Transportation System Lands" on the map entitled "Modified Cape Krusenstern Land Exchange", dated July 18, 1985, for use in the construction,operation, maintenance, expansion and reclamation of the transportation system. Use of the easement for such purposes shall be subject only to the terms and conditions governing the construction, operation, maintenance, expansion and reclamation of the transportation system, as set forth in Exhibit B to the Agreement.
 
 (2) The easement granted pursuant to this section shall be for a term of 100 years. The easement shall terminate prior to the 100-year term:
 
@@ -63,6 +63,8 @@ The Secretary shall make available to NANA and its successors and assigns the ri
 Notwithstanding paragraph D(23) of the Agreement, the Secretary shall not agree to any amendment to the Agreement without first consulting with the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate and shall transmit copies of the text of any amendment to the Agreement to those Committees at the time of his agreeing to any such amendment.
 
 (Pub. L. 92–203, §34, as added Pub. L. 99–96, §1, Sept. 25, 1985, 99 Stat. 460; amended Pub. L. 103–437, §16(a)(5), Nov. 2, 1994, 108 Stat. 4594.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) commences or resumes on the first day of the month in which the child later becomes or again becomes a student as described by section 8441(4), if any lump sum paid is returned to the Fund; or
 
-&emsp;(3) commences or resumes on the first day of the month in which the child later becomes or again becomes incapable of self-support because of a mental or physical disability incurred before age 18 (or a later recurrence of such disability), if any lump sum paid is returned to the Fund.
+&emsp;(3) commences or resumes on the first day of the month in which the child later becomes oragain becomes incapable of self-support because of a mental or physical disability incurred before age 18 (or a later recurrence of such disability), if any lump sum paid is returned to the Fund.
 
 > This annuity and the right thereto terminate on the last day of the month before the child—
 
@@ -34,6 +34,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 563; amended Pub. L. 99–556, title I, §117(a), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §633(a)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -43,6 +45,8 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 <b>1996</b>—Subsec. (b). Pub. L. 104–208 inserted at end "If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity."
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–556 inserted "(including any adjustment based on section 8340)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -6,7 +6,7 @@ In recognition of the past use of portions of the monument and the conservation 
 
 #### (b) Recommendations from Indian leaders regarding access and protection of cultural and religious sites
 
-In preparing the plans for the monument and the conservation area pursuant to section 460uu–41 of this title, the Secretary shall requestthat the Governor of the Pueblo of Acoma and the chief executive officers of other appropriate Indian tribes make recommendations on methods of—
+In preparing the plans for the monument and the conservation area pursuant to section 460uu–41 of this title, the Secretary shall request that the Governor of the Pueblo of Acoma and the chief executive officers of other appropriate Indian tribes make recommendations on methods of—
 
 &emsp;(1) assuring access pursuant to subsection (a) of this section;
 

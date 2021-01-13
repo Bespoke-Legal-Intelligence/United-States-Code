@@ -28,6 +28,8 @@ The words "or both" are substituted for "or by both such fine and imprisonment".
 
 Minor changes in phraseology are made to conform to the style of title 18.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 substituted "employees' " for "employee's" in section catchline.

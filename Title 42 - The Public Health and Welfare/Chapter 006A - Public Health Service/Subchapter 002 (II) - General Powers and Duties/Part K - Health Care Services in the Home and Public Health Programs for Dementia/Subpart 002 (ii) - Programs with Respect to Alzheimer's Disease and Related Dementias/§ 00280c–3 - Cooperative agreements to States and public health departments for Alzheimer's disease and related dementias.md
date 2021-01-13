@@ -20,7 +20,7 @@ The Secretary, in coordination with the Director of the Centers for Disease Cont
 
 #### (b) Preference
 
-In awarding cooperative agreements under this section, the Secretary shall give preference to applications that focus on addressing healthdisparities, including populations and geographic areas that have the highest prevalence of Alzheimer's disease and related dementias.
+In awarding cooperative agreements under this section, the Secretary shall give preference to applications that focus on addressing health disparities, including populations and geographic areas that have the highest prevalence of Alzheimer's disease and related dementias.
 
 #### (c) Eligibility
 
@@ -56,7 +56,7 @@ A State may not make payments from a cooperative agreement under subsection (a) 
 
 &emsp;(2) by an entity that provides health services on a prepaid basis.
 
-(July 1, 1944, ch. 373, title III, §398, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 981; amended Pub. L. 101–557, title I, §102(a), (b), Nov. 15, 1990, 104 Stat. 2767; Pub. L. 105–392, title III, §302(a), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §3, Dec. 31, 2018, 132 Stat. 5365.)
+(July 1, 1944, ch. 373, title III, §398, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat.981; amended Pub. L. 101–557, title I, §102(a), (b), Nov. 15, 1990, 104 Stat. 2767; Pub. L. 105–392, title III, §302(a), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §3, Dec. 31, 2018, 132 Stat. 5365.)
 
 #### Prior Provisions
 

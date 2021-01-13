@@ -1,8 +1,12 @@
 ### §78. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 78 was editorially reclassified as section 5604 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Law Enforcement Authority of Sergeant at Arms
 

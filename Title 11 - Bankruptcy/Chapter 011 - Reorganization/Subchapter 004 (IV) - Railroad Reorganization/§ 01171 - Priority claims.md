@@ -18,11 +18,15 @@ Section 1171 of the House amendment is derived from section 1170 of the House bi
 
 Subsection (b) follows present section 77(b) of the Bankruptcy Act \[section 205(b) of former title 11\] by giving priority to any unsecured claims that would be entitled to priority if a receiver in equity of the property of the debtor had been appointed by a Federal court on the date of the order for relief under the bankruptcy laws. As under current law, the courts will determine the precise contours of the priority recognized by this subsection in each case.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "the same" for "such".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

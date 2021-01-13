@@ -18,6 +18,8 @@ There are authorized to be appropriated $12,500,000 for each of fiscal years 201
 
 (Pub. L. 108–405, title III, §303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, §3, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 113–182, §3, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 116–104, §3, Dec. 30, 2019, 133 Stat. 3272.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14136 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -30,9 +32,11 @@ Section was formerly classified to section 14136 of Title 42, The Public Health 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–360 substituted "2009 through 2014" for "2005 through 2009".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence
 
-Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, as amended by Pub. L. 114–324, §12(a), Dec. 16, 2016, 130 Stat. 1957, provided that: "For each of fiscal years 2017 through 2021, all funds appropriated to carry out sections 303, 305, 308, and 412 \[sections 40722, 40724, 40726, and 40727 of this title\] shall be reserved for grants to eligible entities that—
+Pub. L. 108–405, title IV, §413, Oct. 30, 2004, 118 Stat. 2285, as amended by Pub. L. 114–324, §12(a), Dec. 16, 2016, 130 Stat. 1957, provided that: "For each of fiscal years2017 through 2021, all funds appropriated to carry out sections 303, 305, 308, and 412 \[sections 40722, 40724, 40726, and 40727 of this title\] shall be reserved for grants to eligible entities that—
 
 &emsp;"(1) meet the requirements under section 303, 305, 308, or 412, as appropriate; and
 

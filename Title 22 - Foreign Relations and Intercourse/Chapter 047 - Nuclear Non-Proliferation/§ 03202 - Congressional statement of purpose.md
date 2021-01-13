@@ -4,13 +4,15 @@ It is the purpose of this chapter to promote the policies set forth above by—
 
 &emsp;(a) establishing a more effective framework for international cooperation to meet the energy needs of all nations and to ensure that the worldwide development of peaceful nuclear activities and the export by any nation of nuclear materials and equipment and nuclear technology intended for use in peaceful nuclear activities do not contribute to proliferation;
 
-&emsp;(b) authorizing the United States to take such actions as are required to ensure that it will act reliably in meeting its commitment tosupply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies;
+&emsp;(b) authorizing the United States to take such actions as are required to ensure that itwill act reliably in meeting its commitment to supply nuclear reactors and fuel to nations which adhere to effective non-proliferation policies;
 
 &emsp;(c) providing incentives to the other nations of the world to join in such international cooperative efforts and to ratify the Treaty; and
 
 &emsp;(d) ensuring effective controls by the United States over its exports of nuclear materials and equipment and of nuclear technology.
 
 (Pub. L. 95–242, §3, Mar. 10, 1978, 92 Stat. 120.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

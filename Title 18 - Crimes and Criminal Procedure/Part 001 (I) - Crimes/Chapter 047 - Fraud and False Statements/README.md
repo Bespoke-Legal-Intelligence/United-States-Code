@@ -55,6 +55,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–179, §2(b), Jan. 7, 2008, 121 Stat. 2557, added item 1040.

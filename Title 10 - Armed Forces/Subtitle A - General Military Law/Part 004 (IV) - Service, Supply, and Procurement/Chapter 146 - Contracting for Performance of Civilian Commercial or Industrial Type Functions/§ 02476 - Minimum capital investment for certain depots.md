@@ -106,7 +106,7 @@ Subsec. (e)(2). Pub. L. 110–417, §327(b)(2), inserted introductory provisions
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: "Section 2476 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2006."
+Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: "Section 2476 of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 2006."
 
 #### Strategy To Improve Infrastructure of Certain Depots of the Department of Defense
 

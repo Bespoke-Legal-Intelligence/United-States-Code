@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 115–334, §7605(a)(4), added subsec. (c).
 
 #### Effective Date of Repeal
 
-Pub. L. 115–334, title VII, §7605(b), Dec. 20, 2018, 132 Stat. 4829, provided that: "Effective on the date that is 1 year after the date on which the Secretary \[of Agriculture\] establishes a plan under section 297C of the Agricultural Marketing Act of 1946 \[7 U.S.C. 1639q\], section 7606 of the Agricultural Act of 2014 (7 U.S.C. 5940) is repealed."
+Pub. L. 115–334, title VII, §7605(b), Dec. 20, 2018, 132 Stat. 4829, as amended by Pub. L. 116–159, div. A, §122, Oct. 1, 2020, 134 Stat. 714; Pub. L. 116–260, div. A, title VII, §782, Dec. 27, 2020, 134 Stat. 1230, provided that: "Effective on January 1, 2022, section 7606 of the Agricultural Act of 2014 (7 U.S.C. 5940) is repealed."
 
 #### Effective Date of 2015 Amendment
 

@@ -8,6 +8,8 @@ Section 232, act Mar. 4, 1923, ch. 249, §3, 42 Stat. 1448, limited amount of la
 
 Section 233, act Mar. 4, 1923, ch. 249, §4, 42 Stat. 1448, provided for payment of royalties to United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 Act June 22, 1948, ch. 605, §3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.

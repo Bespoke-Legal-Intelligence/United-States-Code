@@ -60,7 +60,7 @@ Actions by state attorneys general.—
 
 &emsp;&emsp;(A)
 
-In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriaeon behalf of natural persons residing in such State, in any appropriate United States District Court.
+In general.—If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
 
 &emsp;&emsp;(B)
 
@@ -108,11 +108,15 @@ State.—The term "State" includes a State of the United States, the District of
 
 (Added Pub. L. 103–259, §3, May 26, 1994, 108 Stat. 694; amended Pub. L. 103–322, title XXXIII, §330023(a)(2), (3), Sept. 13, 1994, 108 Stat. 2150.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, §330023(a)(2), amended section catchline generally. Prior to amendment, catchline read as follows: "§248 Freedom of Access to Clinic Entrances."
 
 Subsec. (b). Pub. L. 103–322, §330023(a)(3), in concluding provisions, inserted ", notwithstanding section 3571," before "be not more than $25,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

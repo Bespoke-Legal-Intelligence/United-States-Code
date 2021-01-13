@@ -18,6 +18,8 @@ All persons appointed or designated in pursuance of authority contained in this 
 
 (Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
@@ -27,6 +29,8 @@ The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465
 <b>1999</b>—Subsec. (a). Pub. L. 106–113 inserted at end "The Representative of the United States to the Vienna office of the United Nations shall also serve as representative of the United States to the Agency."
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–465 substituted "sections 401, 402, and 403 of the Foreign Service Act of 1980 for chiefs of mission, members of the Senior Foreign Service," for "sections 866 and 867 of this title, for Chiefs of Mission" and "under the Foreign Service Act of 1980 by chiefs of mission, members of the Senior Foreign Service," for "by Chiefs of Mission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[e
 
 #### Reporting Requirements
 
-Pub. L. 107–228, div. B, title XIII, §1344, Sept. 30, 2002, 116 Stat. 1452, required the Secretary of State to submitto Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
+Pub. L. 107–228, div. B, title XIII, §1344, Sept. 30, 2002, 116 Stat. 1452, required the Secretary of State to submit to Congress, beginning no later than 180 days after Sept. 30, 2002, and for five years thereafter, reports concerning assistance, nuclear materials and technology given by the International Atomic Energy Agency to Iran, Iranians in leadership positions at the Agency, the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant, and certain information on all programs and projects of the International Atomic Energy Agency in each country described in section 2227(a) of the title.
 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 
@@ -72,11 +76,13 @@ Request for iaea reports.—The Secretary of State shall direct the United State
 
 Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
 
-#### Privileges, Exemptions, and Immunities
-
-Entitlement of Agency to privileges, exemptions, and immunities as an international organization, see note set out under section 288 of this title.
-
 #### Termination of Authority Under This Section
 
 Authority under this section to terminate if Senate refuses its advice and consent by a formal vote to an amendment to the Statute of the Agency, see section 2026 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Privileges, Exemptions, and Immunities
+
+Entitlement of Agency to privileges, exemptions, and immunities as an international organization as designated by Ex. Ord. No. 10727, Aug. 31, 1957, 22 F.R. 7099, see note set out under section 288 of this title.
 

@@ -58,7 +58,7 @@
 
 &emsp;(B) if the Special Counsel requires the head of the agency to submit a supplemental report under paragraph (5), the reports submitted by the head of the agency collectively contain the information required under subsection (d).
 
-(3) The Special Counsel shall transmit any report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
+(3) The Special Counsel shall transmit any report submitted to the Special Counsel by thehead of an agency under subsection (c) or paragraph (5) of this subsection, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
 (4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
 
@@ -95,6 +95,8 @@
 (j) With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, §103(a), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 107–304, §3, Nov. 27, 2002, 116 Stat. 2364; Pub. L. 115–91, div. A, title X, §1097(c)(2), Dec. 12, 2017, 131 Stat. 1618.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

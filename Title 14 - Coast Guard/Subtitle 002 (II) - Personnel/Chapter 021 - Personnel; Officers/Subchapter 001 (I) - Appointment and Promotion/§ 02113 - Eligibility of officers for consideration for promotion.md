@@ -26,9 +26,23 @@
 
 (f) The Secretary may waive subsection (a) to the extent necessary to allow officers described therein to have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179, §257; amended Pub. L. 94–546, §1(19), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 109–241, title II, §203, July 11, 2006, 120 Stat. 520; renumbered §2113 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(g)(1) Notwithstanding subsection (a), the Commandant may provide that an officer may, upon the officer's request and with the approval of the Commandant, be excluded from consideration by a selection board convened under section 2106.
+
+(2) The Commandant shall approve a request under paragraph (1) only if—
+
+&emsp;(A) the basis for the request is to allow the officer to complete a broadening assignment, advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
+
+&emsp;(B) the Commandant determines the exclusion from consideration is in the best interest of the Coast Guard; and
+
+&emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179, §257; amended Pub. L. 94–546, §1(19),Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 109–241, title II, §203, July 11, 2006, 120 Stat. 520; renumbered §2113 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8202(a), Jan. 1, 2021, 134 Stat. 4642.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 116–283 added subsec. (g).
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 257 of this title as this section.
 
@@ -42,5 +56,5 @@ Subsec. (e). Pub. L. 115–282, §123(b)(2), substituted "section 2156" for "sec
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(19)(a), substituted "promotion year" for "fiscal year".
 
-Subsec. (d). Pub. L. 94–546, §1(19)(b), struck out cl. (3) "if serving in a grade below captain, has not twicefailed of selection for promotion to the next higher grade."
+Subsec. (d). Pub. L. 94–546, §1(19)(b), struck out cl. (3) "if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade."
 

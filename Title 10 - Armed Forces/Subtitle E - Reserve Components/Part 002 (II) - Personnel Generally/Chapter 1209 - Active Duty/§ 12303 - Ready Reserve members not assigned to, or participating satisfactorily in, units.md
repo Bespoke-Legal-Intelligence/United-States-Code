@@ -26,7 +26,7 @@
 
 Ex. Ord. No. 11366, Aug. 4, 1967, 32 F.R. 11411, as amended by Ex. Ord. No. 13286, §64, Feb. 28, 2003, 68 F.R. 10629, provided:
 
-By virtue of the authority vested in me by section 673a \[now 12303\] of title 10 of the United States Code, and by section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 673a \[now 12303\] of title 10 of the United States Code,and by section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
 Section 1. (a) The Secretary of Defense is hereby authorized and empowered to exercise the authority vested in the President by section 673a \[now 12303\] of title 10 of the United States Code, to order to active duty any member of the Ready Reserve of an armed force (except the Coast Guard when not operating as a service in the Navy) who—
 

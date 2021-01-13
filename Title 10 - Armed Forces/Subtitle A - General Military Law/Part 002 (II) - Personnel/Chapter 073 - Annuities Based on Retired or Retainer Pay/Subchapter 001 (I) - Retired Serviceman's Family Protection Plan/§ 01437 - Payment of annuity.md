@@ -16,7 +16,7 @@
 
 &emsp;(A) that the member has been missing for at least 30 days; and
 
-&emsp;(B) that the circumstances under which the member is missing would lead a reasonablyprudent person to conclude that the member is dead.
+&emsp;(B) that the circumstances under which the member is missing would lead a reasonably prudent person to conclude that the member is dead.
 
 (2) Upon a determination under paragraph (1) with respect to a member, an annuity otherwise payable under this subchapter shall be paid as if the member died on the date as of which the retired or retainer pay of the member was suspended.
 

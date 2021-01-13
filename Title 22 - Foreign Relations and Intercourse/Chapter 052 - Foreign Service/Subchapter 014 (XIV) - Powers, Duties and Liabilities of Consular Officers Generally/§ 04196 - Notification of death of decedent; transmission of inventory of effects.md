@@ -4,6 +4,8 @@ For the information of the representative of the deceased, the consular officer,
 
 (R.S. §1710; July 12, 1940, ch. 618, 54 Stat. 760.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1710 derived from act Apr. 14, 1792, ch. 24, §2, 1 Stat. 255.

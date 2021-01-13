@@ -66,7 +66,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate forthe revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 #### (h) Office of Mine Safety and Health
 
@@ -76,7 +76,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Purpose
 
-&emsp;The purpose of the Office is to enhance the development of new mine safety technologyand technological applications and to expedite the commercial availability and implementation of such technology in mining environments.
+&emsp;The purpose of the Office is to enhance the development of new mine safety technology and technological applications and to expedite the commercial availability and implementation of such technology in mining environments.
 
 #### (3) Functions
 
@@ -120,6 +120,8 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 (Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Toxic Substances Control Act, referred to in subsec. (g)(1)(B)(i), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title IV of the Act is classified generally to subchapter IV (§2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
@@ -135,6 +137,8 @@ In subsec. (e)(8), "section 3324(a) and (b) of title 31" substituted for "sectio
 <b>2006</b>—Subsec. (h). Pub. L. 109–236 added subsec. (h).
 
 <b>1992</b>—Subsec. (g). Pub. L. 102–550 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

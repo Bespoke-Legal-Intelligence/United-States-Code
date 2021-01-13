@@ -30,7 +30,7 @@ Nothing in this section shall be construed to limit or otherwise affect the appl
 
 #### (e) Validity of leases
 
-No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
+No lease of trust or restricted interests in a parcel of land that is owner-managed under thissection shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
 
 &emsp;(1) is consistent with, and entered into in accordance with, the requirements of this section; or
 
@@ -82,13 +82,15 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (j) Secretarial approval of other transactions
 
-Except with respect to the specific lease transaction described in paragraph (1) of subsection (c), interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if theinterests had not acquired owner-managed status under this section.
+Except with respect to the specific lease transaction described in paragraph (1) of subsection (c), interests that acquire owner-managed status under the provisions of this section shall continue to be subject to all Federal laws requiring the Secretary to approve transactions involving trust or restricted land (including leases with terms of a duration in excess of 10 years) that would otherwise apply to such interests if the interests had not acquired owner-managed status under this section.
 
 #### (k) Effect of section
 
 Subject to subsections (c), (f), and (h), nothing in this section diminishes or otherwise affects any authority or responsibility of the Secretary with respect to an interest in trust or restricted land.
 
 (Pub. L. 97–459, title II, §221, as added Pub. L. 108–374, §5, Oct. 27, 2004, 118 Stat. 1795; amended Pub. L. 110–453, title II, §207(e), Dec. 2, 2008, 122 Stat. 5033.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

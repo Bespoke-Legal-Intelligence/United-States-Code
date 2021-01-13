@@ -16,7 +16,7 @@ A prior section 1317, act Aug. 14, 1935, ch. 531, title XI, §1117, as added Jul
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–173, §900(e)(1)(A)(i), substituted "Appointment of the Administrator and Chief Actuary ofthe Centers for Medicare \& Medicaid Services" for "Appointment of Administrator and Chief Actuary of Health Care Financing Administration" in section catchline.
+<b>2003</b>—Pub. L. 108–173, §900(e)(1)(A)(i), substituted "Appointment of the Administrator and Chief Actuary of the Centers for Medicare \& Medicaid Services" for "Appointment of Administrator and Chief Actuary of Health Care Financing Administration" in section catchline.
 
 Subsec. (a). Pub. L. 108–173, §900(e)(1)(A)(ii), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 

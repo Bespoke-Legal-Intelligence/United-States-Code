@@ -10,7 +10,7 @@ There is hereby authorized to be appropriated without fiscal year limitation $50
 
 #### (c) Environmental assessment of actions
 
-If an Enterprise for the Americas Multilateral Investment Fund is established pursuant to thissection, the Secretary of the Treasury shall instruct the United States representative to the Fund not to vote in favor of any action proposed to be taken by the Fund which may have a significant adverse effect on the environment unless an assessment of the impact of the action on the environment has been available for at least 120 days before the vote.
+If an Enterprise for the Americas Multilateral Investment Fund is established pursuant to this section, the Secretary of the Treasury shall instruct the United States representative to the Fund not to vote in favor of any action proposed to be taken by the Fund which may have a significant adverse effect on the environment unless an assessment of the impact of the action on the environment has been available for at least 120 days before the vote.
 
 (Pub. L. 86–147, §37, as added Pub. L. 102–391, title V, §594(b), Oct. 6, 1992, 106 Stat. 1693.)
 

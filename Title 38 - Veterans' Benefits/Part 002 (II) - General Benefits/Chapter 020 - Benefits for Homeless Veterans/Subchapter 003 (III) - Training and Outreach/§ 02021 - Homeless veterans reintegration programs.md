@@ -6,11 +6,11 @@ In General.—Subject to the availability of appropriations provided for such pu
 
 &emsp;(1) homeless veterans (including veterans who were homeless but found housing during the 60-day period preceding the date on which the veteran begins to participate in a program under this section);
 
-&emsp;(2) veterans participating in the Department of Veterans Affairs supported housing program for which rental assistance is provided pursuant to section 1437f(o)(19) of title 42 or the Tribal HUD–VA Supportive Housing (Tribal HUD–VASH) program;
+&emsp;(2) veterans participating in the Department of Veterans Affairs supported housing programfor which rental assistance is provided pursuant to section 1437f(o)(19) of title 42 or the Tribal HUD–VA Supportive Housing (Tribal HUD–VASH) program;
 
 &emsp;(3) Indians who are veterans and receiving assistance under the Native American Housing Assistance and Self Determination Act of 1996 (25 U.S.C. 4101 et seq.);
 
-&emsp;(4) veterans described in section 2023(e) of this title or any other veterans who are transitioning from being incarcerated; and
+&emsp;(4) veterans described in section 2023(d) of this title or any other veterans who are transitioning from being incarcerated; and
 
 &emsp;(5) veterans participating in the Department of Veterans Affairs rapid rehousing and prevention program authorized in section 2044 of this title.
 
@@ -42,11 +42,13 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated t
 
 &emsp;(E) $50,000,000 for fiscal year 2006.
 
-&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2020.
+&emsp;(F) $50,000,000 for each of fiscal years 2007 through 2022.
 
 (2) Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, §201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, §10(b), Oct. 5, 2011, 125 Stat. 396; Pub. L. 112–154, title III, §305(b), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(e)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §202, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §301, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title III, §301, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, §301, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §141, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 115–407, title VII, §701, Dec. 31, 2018, 132 Stat. 5381.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 909; amended Pub. L. 109–233, title II, §203, June 15, 2006, 120 Stat. 404; Pub. L. 111–275, title II, §201, Oct. 13, 2010, 124 Stat. 2873; Pub. L. 112–37, §10(b), Oct. 5, 2011, 125 Stat. 396; Pub. L. 112–154, title III, §305(b), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(e)(1), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §202, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §301, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title III, §301, Sept. 29, 2016, 130 Stat. 938; Pub. L. 115–62, title III, §301, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §141, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 115–407, title VII, §701, Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–159, div. E, title III, §5301, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title IV, §4205(b), Jan. 5, 2021, 134 Stat. 5014.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,10 @@ The Native American Housing Assistance and Self Determination Act of 1996, refer
 A prior section 2021 was renumbered section 4301 of this title and subsequently omitted in the general amendment of chapter 43 of this title by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4). Pub. L. 116–315 substituted "section 2023(d)" for "section 2023(e)".
+
+<b>2020</b>—Subsec. (e)(1)(F). Pub. L. 116–159 substituted "2022" for "2020".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–407 substituted "reintegration into the labor force of—" for "reintegration of homeless veterans into the labor force." and added pars. (1) to (5).
 
@@ -79,6 +85,8 @@ Subsec. (e)(1)(F). Pub. L. 115–251 substituted "2020" for "2018".
 <b>2010</b>—Subsec. (e)(1)(F). Pub. L. 111–275 substituted "2011" for "2009".
 
 <b>2006</b>—Subsec. (e)(1)(F). Pub. L. 109–233 added subpar. (F).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

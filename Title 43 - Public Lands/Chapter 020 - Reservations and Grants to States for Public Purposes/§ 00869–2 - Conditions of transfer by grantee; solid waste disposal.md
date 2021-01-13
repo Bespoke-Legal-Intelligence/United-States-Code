@@ -8,7 +8,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 (1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may convey such land subject only to the provisions of this subsection.
 
-(2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water andair associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
+(2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water and air associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
 
 (3) No application for conveyance under this subsection shall be acted on by the Secretary until the applicant has furnished evidence, satisfactory to the Secretary, that a copy of the application and information concerning the proposed use of the land covered by the application has been provided to the Environmental Protection Agency and to all other State and Federal agencies with responsibility for enforcement of State and Federal laws applicable to lands used for the disposal, placement, or release of solid waste or any hazardous substance.
 
@@ -36,6 +36,8 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 (June 14, 1926, ch. 578, §3, as added June 4, 1954, ch. 263, 68 Stat. 175; amended Pub. L. 86–292, §2, Sept. 21, 1959, 73 Stat. 571; Pub. L. 100–648, §2, Nov. 10, 1988, 102 Stat. 3813.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -49,6 +51,8 @@ Prior provisions on the subject of reverter were formerly contained in section 8
 <b>1988</b>—Pub. L. 100–648 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
 
 <b>1959</b>—Pub. L. 86–292 struck out sentence which provided that this section should cease to be in effect as to any lands patented under sections 869 to 869–4 of this title twenty-five years after the issuance of patent for such lands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provisions
 

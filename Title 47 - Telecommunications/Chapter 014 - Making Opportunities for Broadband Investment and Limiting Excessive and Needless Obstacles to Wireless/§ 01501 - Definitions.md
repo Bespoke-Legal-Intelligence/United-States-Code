@@ -34,9 +34,13 @@ In this chapter:
 
 (Pub. L. 115–141, div. P, title VI, §602, Mar. 23, 2018, 132 Stat. 1097.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title VI of div. P of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 1097, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

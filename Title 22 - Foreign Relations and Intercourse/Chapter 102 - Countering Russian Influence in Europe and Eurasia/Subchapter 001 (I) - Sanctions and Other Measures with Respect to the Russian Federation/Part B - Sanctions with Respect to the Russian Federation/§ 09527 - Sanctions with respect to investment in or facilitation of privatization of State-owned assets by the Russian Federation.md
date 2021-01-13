@@ -18,9 +18,11 @@ The President may waive the initial application of sanctions under subsection (a
 
 &emsp;&emsp;(B) will further the enforcement of this chapter; and
 
-&emsp;(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
+&emsp;(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed inMinsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
 
 (Pub. L. 115–44, title II, §233, Aug. 2, 2017, 131 Stat. 917.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -1,12 +1,14 @@
 ### §6302. Salaries of Senators
 
-Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day of their appointment and continue until their successors are elected and qualified: <i>Provided</i>, That when Senators have been elected during a sine die adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
+Salaries of Senators appointed to fill vacancies in the Senate shall commence on the day oftheir appointment and continue until their successors are elected and qualified: <i>Provided</i>, That when Senators have been elected during a sine die adjournment of the Senate to succeed appointees, the salaries of Senators so elected shall commence on the day following their election.
 
 Salaries of Senators elected during a session to succeed appointees shall commence on the day they qualify: <i>Provided</i>, That when Senators have been elected during a session to succeed appointees, but have not qualified, the salaries of Senators so elected shall commence on the day following the sine die adjournment of the Senate.
 
 When no appointments have been made the salaries of Senators elected to fill such vacancies shall commence on the day following their election.
 
 (Feb. 10, 1923, ch. 68, 42 Stat. 1225; Feb. 6, 1931, ch. 111, 46 Stat. 1065; June 19, 1934, ch. 648, title I, §1, 48 Stat. 1022; Feb. 13, 1935, ch. 6, §1, 49 Stat. 22, 23.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -25,6 +27,8 @@ R.S. §51.
 <b>1934</b>—Act June 19, 1934, made nonsubstantive changes in grammar and punctuation.
 
 <b>1931</b>—Act Feb. 6, 1931, made nonsubstantive changes in grammar and punctuation and struck out "to fill such vacancies" after "When no appointments have been made".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Constitutional Provisions
 

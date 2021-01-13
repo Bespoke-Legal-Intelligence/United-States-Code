@@ -40,7 +40,7 @@
 
 &emsp;(A) contracts entered into under this subchapter are free from self-dealing, bribery, and conflict of interests;
 
-&emsp;(B) adequate processes and controls are in place to provide for the accurate accounting of logistic support, supplies, and services received or provided under the authority of this subchapter; and
+&emsp;(B) adequate processes and controls are in place to provide for the accurate accounting oflogistic support, supplies, and services received or provided under the authority of this subchapter; and
 
 &emsp;(C) personnel responsible for accounting for logistic support, supplies, and services received or provided under such authority are fully trained and aware of such responsibilities.
 
@@ -230,7 +230,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-&emsp;"(2) The term 'personnel protection and personnel survivability equipment' means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)\[)\] thatthe Secretary of Defense designates as available for loan under this section.
+&emsp;"(2) The term 'personnel protection and personnel survivability equipment' means items enumerated in categories I, II, III, VII, X, XI, and XIII of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1)\[)\] that the Secretary of Defense designates as available for loan under this section.
 
 "(f)
 

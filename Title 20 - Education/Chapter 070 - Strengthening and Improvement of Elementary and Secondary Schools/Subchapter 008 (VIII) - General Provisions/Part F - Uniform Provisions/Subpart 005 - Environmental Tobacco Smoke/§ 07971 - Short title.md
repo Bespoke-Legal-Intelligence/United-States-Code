@@ -2,7 +2,7 @@
 
 This subpart <sup>1</sup> may be cited as the "Pro-Children Act of 2001".
 
-(Pub. L. 89–10, title VIII, §8571, formerly title IV, §4301, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; renumbered title IX, §9561, renumbered title VIII, §8571, Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), titleVIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
+(Pub. L. 89–10, title VIII, §8571, formerly title IV, §4301, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; renumbered title IX, §9561, renumbered title VIII, §8571, Pub. L. 114–95, title IV, §4001(a)(4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
 
 #### References in Text
 

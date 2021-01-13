@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VIII, §874(a)(2), Nov. 25, 2015, 129 Stat. 940, added item 9310.

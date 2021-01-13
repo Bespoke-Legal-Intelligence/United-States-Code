@@ -1,6 +1,6 @@
 ### §2943. Leasing and hiring of quarters; rental of inadequate housing
 
-(a) The Secretary is authorized to lease housing facilities at or near Coast Guard installations, wherever located, for assignment as public quarters to military personnel and their dependents, if any, without rental charge upon a determination by the Secretary, or his designee, that there is a lack of adequate housing facilities at or near such Coast Guard installations. The Secretary is also authorized to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents. Such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. When any such lease involves housing facilities in a foreign country, the lease may be made ona multiyear basis for a period not to exceed five years, and, in accordance with local custom and practice, advance payment may be made for the lease. Such public housing facilities may be leased on an individual or multiple-unit basis. Expenditures for the rental of such housing facilities may not exceed the average authorized for the Department of Defense in any year except where the Secretary finds that the average is so low as to prevent rental of necessary housing facilities in some areas, in which event he is authorized to reallocate existing funds to high-cost areas so that rental expenditures in such areas exceed the average authorized for the Department of Defense.
+(a) The Secretary is authorized to lease housing facilities at or near Coast Guard installations, wherever located, for assignment as public quarters to military personnel and their dependents, if any, without rental charge upon a determination by the Secretary, or his designee, that there is a lack of adequate housing facilities at or near such Coast Guard installations. The Secretary is also authorized to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents. Such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. When any such lease involves housing facilities in a foreign country, the lease may be made on a multiyear basis for a period not to exceed five years, and, in accordance with local custom and practice, advance payment may be made for the lease. Such public housing facilities may be leased on an individual or multiple-unit basis. Expenditures for the rental of such housing facilities may not exceed the average authorized for the Department of Defense in any year except where the Secretary finds that the average is so low as to prevent rental of necessary housing facilities in some areas, in which event he is authorized to reallocate existing funds to high-cost areas so that rental expenditures in such areas exceed the average authorized for the Department of Defense.
 
 (b) The Secretary is authorized, subject to regulations approved by the President—
 
@@ -17,6 +17,8 @@
 Based on title 14, U.S.C., 1946 ed., §133a (June 19, 1942, ch. 419, §2, 56 Stat. 372) and on the following language contained in the Coast Guard appropriation act for 1949, "Pay and Allowances" and preceding years: "hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: <i>Provided</i>, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel" (June 19, 1948, ch. 558, 62 Stat. 562).
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Subsec. (e). Pub. L. 92–343, §4(2), struck out reference to subsec. (a) and e
 Subsecs. (f), (g). Pub. L. 92–343, §4(3), added subsecs. (f) and (g).
 
 <b>1970</b>—Pub. L. 91–278 substituted "Leasing and hiring of quarters; rental of inadequate housing" for "Hiring of quarters for personnel" in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11645. Authority of Secretary of Homeland Security To Prescribe Certain Regulations Relating to Housing
 

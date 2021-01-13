@@ -14,7 +14,7 @@ Requirements.—
 
 &emsp;(1)
 
-No cost sharing.—The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without any deductible, copayment, or other cost sharing obligation.
+No cost sharing.—The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without anydeductible, copayment, or other cost sharing obligation.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Exclusions.—The Administrator may not—
 
 (d)
 
-Privacy.—Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of allmedical records generated under subsection (a) and accessible to the Administration.
+Privacy.—Consistent with applicable provisions of Federal law relating to privacy, the Administrator shall protect the privacy of all medical records generated under subsection (a) and accessible to the Administration.
 
 (e)
 
@@ -59,6 +59,8 @@ Definition of United States Government Astronaut.—In this section, the term "U
 Data Use and Disclosure.—The Administrator may use or disclose data acquired in the course of medical monitoring, diagnosis, or treatment of a former United States government astronaut or a former payload specialist under subsection (a), in accordance with subsection (d). Former United States government astronaut or former payload specialist participation in medical monitoring, diagnosis, or treatment under subsection (a) shall constitute consent for the Administrator to use or disclose such data.
 
 (Added Pub. L. 115–10, title IV, §443(a), Mar. 21, 2017, 131 Stat. 45.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Annual Reports
 

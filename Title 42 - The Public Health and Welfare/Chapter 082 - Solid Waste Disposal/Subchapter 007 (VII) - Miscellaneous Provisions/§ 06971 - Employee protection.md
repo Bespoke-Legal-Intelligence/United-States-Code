@@ -28,7 +28,7 @@ In order to assist the Secretary of Labor and the Director of the National Insti
 
 &emsp;&emsp;(A) the identity of any hazardous waste generation, treatment, storage, disposal facility or site where cleanup is planned or underway;
 
-&emsp;&emsp;(B) information identifying the hazards to which persons working at a hazardous wastegeneration, treatment, storage, disposal facility or site or otherwise handling hazardous waste may be exposed, the nature and extent of the exposure, and methods to protect workers from such hazards; and
+&emsp;&emsp;(B) information identifying the hazards to which persons working at a hazardous waste generation, treatment, storage, disposal facility or site or otherwise handling hazardous waste may be exposed, the nature and extent of the exposure, and methods to protect workers from such hazards; and
 
 &emsp;&emsp;(C) incidents of worker injury or harm at a hazardous waste generation, treatment, storage or disposal facility or site; and
 

@@ -2,7 +2,7 @@
 
 Except as provided in section 132(a)(6), there shall be included in gross income (as compensation for services) any amount received or accrued, directly or indirectly, by an individual as a payment for or reimbursement of expenses of moving from one residence to another residence which is attributable to employment or self-employment.
 
-(Added Pub. L. 91–172, title II, §231(b), Dec. 30, 1969, 83 Stat. 579; amended Pub. L. 103–66, titleXIII, §13213(d)(3)(A), Aug. 10, 1993, 107 Stat. 474; Pub. L. 115–141, div. U, title IV, §401(a)(34), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 91–172, title II, §231(b), Dec. 30, 1969, 83 Stat. 579; amended Pub. L. 103–66, title XIII, §13213(d)(3)(A), Aug. 10, 1993, 107 Stat. 474; Pub. L. 115–141, div. U, title IV, §401(a)(34), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Amendments
 

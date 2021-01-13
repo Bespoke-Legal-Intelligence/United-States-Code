@@ -38,7 +38,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 
 &emsp;(2)
 
-Non-regular service retirement.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370(d) of this title.
+Non-regular service retirement.—In the case of a person who is entitled to retired pay under section 12731 of this title, the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under section 12741(a) of this title, at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with section 1370a of this title.
 
 (c)
 
@@ -88,7 +88,7 @@ Retirement for Members of the Navy and Marine Corps.—In the case of a member w
 
 (e)
 
-Voluntary Retirement for Members of the Air Force.—
+Voluntary Retirement for Members of the Air Force and Space Force.—
 
 &emsp;(1)
 
@@ -112,7 +112,7 @@ Rate of basic pay to be used.—The rate of basic pay to be used under paragraph
 
 (f)
 
-Coast Guard.—In the case of a member who is retired under any section of title 14, the member's retired pay is computed under section 423(a) <sup>1</sup> of title 14 in the manner provided in that section.
+Coast Guard.—In the case of a member who is retired under any section of title 14, themember's retired pay is computed under section 423(a) <sup>1</sup> of title 14 in the manner provided in that section.
 
 (g)
 
@@ -144,7 +144,7 @@ Exception for members reduced in grade or who do not serve satisfactorily.—Par
 
 &emsp;&emsp;(A) in the case of an enlisted member, is reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or other administrative process; or
 
-&emsp;&emsp;(B) in the case an officer, is not certified by the Secretary of Defense under section 1370(c) of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
+&emsp;&emsp;(B) in the case an officer, is not certified by the Secretary of Defense under section 1370(c) <sup>1</sup> of this title as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
 
 &emsp;(3)
 
@@ -160,7 +160,9 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(iv) Commandant of the Marine Corps.
 
-&emsp;&emsp;&emsp;(v) Commandant of the Coast Guard.
+&emsp;&emsp;&emsp;(v) Chief of Space Operations.
+
+&emsp;&emsp;&emsp;(vi) Commandant of the Coast Guard.
 
 &emsp;&emsp;(B) The term "senior enlisted member" means any of the following:
 
@@ -172,13 +174,17 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(iv) Sergeant Major of the Marine Corps.
 
-&emsp;&emsp;&emsp;(v) Master Chief Petty Officer of the Coast Guard.
+&emsp;&emsp;&emsp;(v) The senior enlisted advisor of the Space Force.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517; Pub. L. 108–375, div. A, title X, §1084(d)(9), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–163, div. A, title V, §509(d)(1)(B), title VI, §685(d), Jan. 6, 2006, 119 Stat. 3231, 3325; Pub. L. 109–364, div. A, title V, §502(d)(2), title X, §1071(a)(7), Oct. 17, 2006, 120 Stat. 2178, 2398; Pub. L. 111–84, div. A, title VI, §643(d)(1), Oct. 28, 2009, 123 Stat. 2367; Pub. L. 113–291, div. A, title VI, §603(d), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+&emsp;&emsp;&emsp;(vi) Master Chief Petty Officer of the Coast Guard.
+
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517; Pub. L. 108–375, div. A, title X, §1084(d)(9), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–163, div. A, title V, §509(d)(1)(B), title VI, §685(d), Jan. 6, 2006, 119 Stat. 3231, 3325; Pub. L. 109–364, div. A, title V, §502(d)(2), title X, §1071(a)(7), Oct. 17, 2006, 120 Stat. 2178, 2398; Pub. L. 111–84, div. A, title VI, §643(d)(1), Oct. 28, 2009, 123 Stat. 2367; Pub. L. 113–291, div. A, title VI, §603(d), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title V, §508(b)(1)(A), title IX, §924(b)(26), Jan. 1, 2021, 134 Stat. 3585, 3824.)
 
 #### References in Text
 
 Section 423 of title 14, referred to in subsec. (f), was redesignated section 2504 of title 14 by Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223, and references to section 423 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
+Section 1370(c) of this title, referred to in subsec. (i)(2)(B), was repealed and new sections 1370 and 1370a were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 in such determination with respect to such officers is deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
 
 #### Prior Provisions
 
@@ -186,9 +192,17 @@ A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §508(b)(1)(A), substituted "section 1370a" for "section 1370(d)".
+
+Subsec. (e). Pub. L. 116–283, §924(b)(26)(A), inserted "and Space Force" after "Air Force" in heading.
+
+Subsec. (i)(3)(A)(v), (vi). Pub. L. 116–283, §924(b)(26)(B)(i), added cl. (v) and redesignated former cl. (v) as (vi).
+
+Subsec. (i)(3)(B)(v), (vi). Pub. L. 116–283, §924(b)(26)(B)(ii), added cl. (v) and redesignated former cl. (v) as (vi).
+
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 substituted "sections 7342 and 9342" for "sections 3962 and 8962" in footnote 3 in table.
 
-Subsec. (c)(1). Pub. L. 115–232 substituted "In the case of a member whose retired pay is computed under section 7361 of this title or who is entitled to retired pay computed under section 7362 of this title" for "In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retiredpay computed under section 3992 of this title" in introductory provisions, "7311" for "3911", "7318" for "3918", "7320" for "3920", "7324" for "3924", "7314" for "3914", "7317" for "3917", and "7362" for "3992" in column 1 of table, and "section 7342" for "section 3962" in footnote 1 in table.
+Subsec. (c)(1). Pub. L. 115–232 substituted "In the case of a member whose retired pay is computed under section 7361 of this title or who is entitled to retired pay computed under section 7362 of this title" for "In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retired pay computed under section 3992 of this title" in introductory provisions, "7311" for "3911", "7318" for "3918", "7320" for "3920", "7324" for "3924", "7314" for "3914", "7317" for "3917", and "7362" for "3992" in column 1 of table, and "section 7342" for "section 3962" in footnote 1 in table.
 
 Subsec. (d). Pub. L. 115–232 substituted "In the case of a member whose retired pay is computed under section 8333 of this title, who is advanced on the retired list under section 8262 or 8334 of this title, or who is entitled to retainer pay under section 8330 of this title," for "In the case of a member whose retired pay is computed under section 6333 of this title, who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under section 6330 of this title," in introductory provisions, "8323" for "6323", "8325(a)" for "6325(a)", "8372" for "6383", "8325(b)" for "6325(b)", "8326" for "6326", "8330" for "6330", "8262" for "6151", and "8334" for "6334" in column 1 of table, and "section 8325(b)" for "section 6325(b)", "section 8262" for "section 6151", and "section 8334" for "section 6334" in column 2 of table.
 
@@ -262,7 +276,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Grade on Transfer to Retired Reserve
 
-Pub. L. 103–337, div. A, title XVI, §1688, Oct. 5, 1994, 108 Stat. 3025, provided that: "In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\]."
+Pub. L. 103–337, div. A, title XVI, §1688, Oct. 5, 1994, 108 Stat. 3025, provided that: "In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in \[former\] section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\]."
+
+\[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 in such determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

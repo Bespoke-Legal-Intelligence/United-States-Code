@@ -96,7 +96,7 @@ In this section:
 
 &emsp;Funds made available under subsection (b)(1)(B)—
 
-&emsp;&emsp;(A) shall be used, in coordination with the Administrator of the Federal EmergencyManagement Agency, as applicable, to provide disaster relief employment on projects that provide food, clothing, shelter, and other humanitarian assistance for emergency and disaster victims, and projects regarding demolition, cleaning, repair, renovation, and reconstruction of damaged and destroyed structures, facilities, and lands located within the disaster area and in offshore areas related to the emergency or disaster;
+&emsp;&emsp;(A) shall be used, in coordination with the Administrator of the Federal Emergency Management Agency, as applicable, to provide disaster relief employment on projects that provide food, clothing, shelter, and other humanitarian assistance for emergency and disaster victims, and projects regarding demolition, cleaning, repair, renovation, and reconstruction of damaged and destroyed structures, facilities, and lands located within the disaster area and in offshore areas related to the emergency or disaster;
 
 &emsp;&emsp;(B) may be expended through public and private agencies and organizations engaged in such projects; and
 
@@ -134,9 +134,13 @@ In this section:
 
 (Pub. L. 113–128, title I, §170, July 22, 2014, 128 Stat. 1573.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

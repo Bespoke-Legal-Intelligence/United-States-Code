@@ -4,7 +4,7 @@
 
 (b) A detained vessel may be cleared under section 60105 of this title only after the violation has been corrected. If the vessel was cleared before being detained, the clearance shall be withdrawn.
 
-(c) Under regulations prescribed by the Secretary, the owner, charterer, managing operator, agent, master, or individual in charge of adetained vessel may petition the Secretary to review the detention order.
+(c) Under regulations prescribed by the Secretary, the owner, charterer, managing operator, agent, master, or individual in charge of a detained vessel may petition the Secretary to review the detention order.
 
 (d) After reviewing a petition, the Secretary may affirm, withdraw, or change the detention order. Before acting on the petition, the Secretary may require any independent survey that may be necessary to determine the condition of the vessel.
 
@@ -19,6 +19,8 @@
 Source: Section (U.S. Code) 46 App. U.S.C. 86h, 88f.
 
 Section 5113 authorizes the Secretary to detain a vessel if the Secretary believes that the vessel is in violation of the load line requirements, and describes the process through which a vessel may be cleared. It also states that a vessel owner is liable for certain costs resulting from a petition for review and load line survey that is made pursuant to a violation of load line requirements.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

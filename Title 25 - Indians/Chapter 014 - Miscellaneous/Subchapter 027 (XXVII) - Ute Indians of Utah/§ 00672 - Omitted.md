@@ -1,5 +1,7 @@
 ### §672. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 21, 1951, ch. 338, §2, 65 Stat. 194, which related to division of trust funds, was omitted from the Code as being of special and not general application.

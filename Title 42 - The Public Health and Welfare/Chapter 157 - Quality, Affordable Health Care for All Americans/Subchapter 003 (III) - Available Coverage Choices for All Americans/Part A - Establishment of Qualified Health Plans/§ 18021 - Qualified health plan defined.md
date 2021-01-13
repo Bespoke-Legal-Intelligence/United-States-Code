@@ -14,7 +14,7 @@ In this title: <sup>1</sup>
 
 &emsp;&emsp;(C) is offered by a health insurance issuer that—
 
-&emsp;&emsp;&emsp;(i) is licensed and in good standing to offer health insurance coverage in eachState in which such issuer offers health insurance coverage under this title; <sup>1</sup>
+&emsp;&emsp;&emsp;(i) is licensed and in good standing to offer health insurance coverage in each State in which such issuer offers health insurance coverage under this title; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii) agrees to offer at least one qualified health plan in the silver level and at least one plan in the gold level in each such Exchange;
 

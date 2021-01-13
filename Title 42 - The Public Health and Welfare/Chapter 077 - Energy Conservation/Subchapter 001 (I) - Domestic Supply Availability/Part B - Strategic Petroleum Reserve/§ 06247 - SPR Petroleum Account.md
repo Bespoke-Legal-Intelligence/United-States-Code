@@ -28,7 +28,7 @@ The Account, the deposits and withdrawals from the Account, and the transactions
 
 &emsp;(2) shall not be deemed to be budget authority, spending authority, budget outlays, or Federal revenues for purposes of title III of Public Law 93–344, as amended \[2 U.S.C. 631 et seq.\].
 
-(Pub. L. 94–163, title I, §167, as added Pub. L. 97–35, title X, §1034(a)(1), Aug. 13, 1981, 95 Stat. 619; amended Pub. L. 97–229, §4(b)(2)(A), Aug. 3, 1982, 96 Stat. 251; Pub. L. 99–58, title I, §103(b)(3), (4), July 2, 1985, 99 Stat. 104; Pub. L. 101–383,§5(b)(1), (2), Sept. 15, 1990, 104 Stat. 729; Pub. L. 102–486, title XIV, §1404(b)(1), Oct. 24, 1992, 106 Stat. 2995; Pub. L. 106–469, title I, §103(19), Nov. 9, 2000, 114 Stat. 2033.)
+(Pub. L. 94–163, title I, §167, as added Pub. L. 97–35, title X, §1034(a)(1), Aug. 13, 1981, 95 Stat. 619; amended Pub. L. 97–229, §4(b)(2)(A), Aug. 3, 1982, 96 Stat. 251; Pub. L. 99–58, title I, §103(b)(3), (4), July 2, 1985, 99 Stat. 104; Pub. L. 101–383, §5(b)(1), (2), Sept. 15, 1990, 104 Stat. 729; Pub. L. 102–486, title XIV, §1404(b)(1), Oct. 24, 1992, 106 Stat. 2995; Pub. L. 106–469, title I, §103(19), Nov. 9, 2000, 114 Stat. 2033.)
 
 #### References in Text
 

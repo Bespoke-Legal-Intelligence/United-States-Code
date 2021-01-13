@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(H) in delivering any telephone message soliciting calls to a pay-per-call service, specify clearly, and at no less than the audible volume of the solicitation, the total cost and the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred; and
 
-&emsp;&emsp;(I) not advertise an 800 telephone number, or any other telephone number advertised orwidely understood to be toll free, from which callers are connected to an access number for a pay-per-call service.
+&emsp;&emsp;(I) not advertise an 800 telephone number, or any other telephone number advertised or widely understood to be toll free, from which callers are connected to an access number for a pay-per-call service.
 
 #### (2) Pay-per-call service standards
 

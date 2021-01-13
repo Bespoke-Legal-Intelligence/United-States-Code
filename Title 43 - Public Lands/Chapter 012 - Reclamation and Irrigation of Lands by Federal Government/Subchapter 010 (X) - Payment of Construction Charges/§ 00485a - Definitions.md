@@ -8,7 +8,7 @@ As used in this subchapter—
 
 (c) The term "project" shall mean any reclamation or irrigation project, including incidental features thereof, authorized by the Federal reclamation laws, or constructed by the United States pursuant to said laws, or in connection with which there is a repayment contract executed by the United States, pursuant to said laws, or any project constructed or operated and maintained by the Secretary through the Bureau of Reclamation for the reclamation of arid lands or other purposes.
 
-(d) The term "construction charges" shall mean the amounts of principal obligations payable to the United States under water-right applications, repayment contracts, orders of the Secretary, or other forms of obligation entered into pursuant to the Federal reclamation laws, excepting amounts payable for water rental orpower charges, operation and maintenance and other yearly service charges, and excepting also any other operation and maintenance, interest, or other charges which are not covered into the principal sums of the construction accounts of the Bureau of Reclamation.
+(d) The term "construction charges" shall mean the amounts of principal obligations payable to the United States under water-right applications, repayment contracts, orders of the Secretary, or other forms of obligation entered into pursuant to the Federal reclamation laws, excepting amounts payable for water rental or power charges, operation and maintenance and other yearly service charges, and excepting also any other operation and maintenance, interest, or other charges which are not covered into the principal sums of the construction accounts of the Bureau of Reclamation.
 
 (e) The term "repayment contract" shall mean any contract providing for payment of construction charges to the United States.
 
@@ -24,11 +24,13 @@ As used in this subchapter—
 
 (Aug. 4, 1939, ch. 418, §2, 53 Stat. 1187; Pub. L. 85–611, §3, Aug. 8, 1958, 72 Stat. 543.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this Act", meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under section 485j of this title. For complete classification of this Act to the Code, see section 485k of this title and Tables.
 
-Act of June 17, 1902, referred to in subsec. (a), is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June 17, 1902, referred to in subsec. (a), is popularly known as the Reclamation Act, which is classifiedgenerally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Amendments
 

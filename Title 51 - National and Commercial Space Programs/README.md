@@ -74,6 +74,7 @@
 | [<b>601.</b>](Subtitle%20006%20%28VI%29%20-%20Earth%20Observations/Chapter%20601%20-%20Land%20Remote%20Sensing%20Policy/README.md) | <b>Land Remote Sensing Policy</b> | <b>60101</b> |
 | [<b>603.</b>](Subtitle%20006%20%28VI%29%20-%20Earth%20Observations/Chapter%20603%20-%20Remote%20Sensing/README.md) | <b>Remote Sensing</b> | <b>60301</b> |
 | [<b>605.</b>](Subtitle%20006%20%28VI%29%20-%20Earth%20Observations/Chapter%20605%20-%20Earth%20Science/README.md) | <b>Earth Science</b> | <b>60501</b> |
+| [<b>606.</b>](Subtitle%20006%20%28VI%29%20-%20Earth%20Observations/Chapter%20606%20-%20Space%20Weather/README.md) | <b>Space Weather</b> | <b>60601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,15 +97,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item 515.
+<b>2020</b>—Pub. L. 116–181, §2(c)(1), Oct. 21, 2020, 134 Stat. 892, added item for chapter 606.
+
+<b>2018</b>—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item for chapter 515.
 
 <b>2017</b>—Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35, struck out item for chapter 703 "Shuttle Pricing Policy for Commercial and Foreign Users".
 
-<b>2015</b>—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item 513 and substituted "Commerce" for "Commercialization" in item 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item 701.
+<b>2015</b>—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item for chapter 513 and substituted "Commerce" for "Commercialization" in item for chapter 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item for chapter 701.
 
-<b>2010</b>—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items 509 and 511.
+<b>2010</b>—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items for chapters 509 and 511.
 
 Table I<br>(Showing disposition of former sections of Title 15)
 
@@ -1101,6 +1106,8 @@ Elim.
 17829
 
 31505
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enactment of Title
 

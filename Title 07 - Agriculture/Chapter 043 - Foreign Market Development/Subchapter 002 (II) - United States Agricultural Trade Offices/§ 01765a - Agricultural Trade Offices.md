@@ -6,7 +6,7 @@ For the purpose of developing, maintaining, and expanding international markets 
 
 #### (b) Administration
 
-each <sup>1</sup> United States Agricultural Trade Office shall be directed and administered by an Agricultural Trade Officer who by reason of training, experience, and attainments is qualified to carry out the purposes of this subchapter. Such Officer shall be appointed by the Secretary of Agriculture.
+each <sup>1</sup> United States Agricultural Trade Office shall be directed and administered by an Agricultural Trade Officer who by reason of training, experience, and attainments is qualified to carry out the purposes of this subchapter. Such Officershall be appointed by the Secretary of Agriculture.
 
 #### (c) Appointment and compensation of officers
 

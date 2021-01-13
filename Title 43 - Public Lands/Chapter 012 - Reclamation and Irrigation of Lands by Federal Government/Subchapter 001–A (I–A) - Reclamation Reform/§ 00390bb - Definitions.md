@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term "contract" means any repayment or water service contract between the United States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
+&emsp;(1) The term "contract" means any repayment or water service contract between theUnited States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
 
 &emsp;(2) The term "district" means any individual or any legal entity established under State law which has entered into a contract or is eligible to contract with the Secretary for irrigation water.
 
@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;(7) The term "limited recipient" means any legal entity established under State or Federal law benefiting more than twenty-five natural persons.
 
-&emsp;(8) The term "project" means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law, or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United Statespursuant to such law, or any project constructed by the Secretary through the Bureau of Reclamation for the reclamation of lands.
+&emsp;(8) The term "project" means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law, or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United States pursuant to such law, or any project constructed by the Secretary through the Bureau of Reclamation for the reclamation of lands.
 
 &emsp;(9) The term "qualified recipient" means an individual who is a citizen of the United States or a resident alien thereof or any legal entity established under State or Federal law which benefits twenty-five natural persons or less.
 
@@ -33,6 +33,8 @@ As used in this subchapter:
 &emsp;(11) The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 97–293, title II, §202, Oct. 12, 1982, 96 Stat. 1263; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

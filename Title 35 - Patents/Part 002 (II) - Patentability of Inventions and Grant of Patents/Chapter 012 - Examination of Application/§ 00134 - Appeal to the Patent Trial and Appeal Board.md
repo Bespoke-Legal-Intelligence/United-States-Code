@@ -16,6 +16,8 @@ Based on Title 35, U.S.C., 1946 ed., §57 (R.S. 4909 amended (1) Mar. 2, 1927, c
 
 Reference to reissues is omitted in view of the general provision in section 251. Minor changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §3(j)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: "Appeal to the Board of Patent Appeals and Interferences".
@@ -37,6 +39,8 @@ Pub. L. 107–273, §13106(b), struck out at end "The third-party requester may 
 <b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal."
 
 <b>1984</b>—Pub. L. 98–622 substituted "Patent Appeals and Interferences" for "Appeals" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -278,7 +278,7 @@ Pub. L. 115–123, §60102(b)(2), substituted "2018 (and fiscal year 2019 in the
 
 Subsec. (g)(1). Pub. L. 115–334, §2501(d)(1), substituted "1 year after December 20, 2018, the Secretary, acting through the Chief of the Natural Resources Conservation Service and the Administrator of the Farm Service Agency, shall" for "January 1, 2012, the Secretary shall" and inserted "annual" after "utilize" and "relevant data on local natural resource concerns, resource inventories, evaluations and reports, recommendations from State technical committees established under section 3861(a) of this title," after "accounting for".
 
-Subsec. (g)(2). Pub. L. 115–334, §2501(d)(2), substituted "that—" for "that", inserted subpar. (A) designation before "the formulas" and substituted semicolon for period at end, and added subpars. (B) to (D).
+Subsec. (g)(2). Pub. L. 115–334, §2501(d)(2), substituted "that—" for "that", inserted subpar. (A) designationbefore "the formulas" and substituted semicolon for period at end, and added subpars. (B) to (D).
 
 Subsec. (h)(1). Pub. L. 115–334, §2501(e)(1), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), and realigned margins.
 

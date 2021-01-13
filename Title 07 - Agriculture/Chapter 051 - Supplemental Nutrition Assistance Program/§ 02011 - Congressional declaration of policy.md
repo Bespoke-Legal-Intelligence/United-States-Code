@@ -76,6 +76,232 @@ Pub. L. 94–339, §1, July 5, 1976, 90 Stat. 799, provided: "That this Act \[am
 
 Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: "This Act \[enacting this chapter\] may be cited as the 'Food and Nutrition Act of 2008'."
 
+#### Supplemental Nutrition Assistance Program During COVID–19 Public Health Emergency
+
+Pub. L. 116–260, div. N, title VII, §702, Dec. 27, 2020, 134 Stat. 2092, provided that:
+
+"(a)
+
+Value of Benefits.—Notwithstanding any other provision of law, beginning on January 1, 2021, and for each subsequent month through June 30, 2021, the value of benefits determined under section 8(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 15 \[sic\] 2017(a)) shall be calculated using 115 percent of the June 2020 value of the thrifty food plan (as defined in section 3 of such Act (7 U.S.C. 2012)) if the value of the benefits would be greater under that calculation than in the absence of this subsection.
+
+"(b)
+
+Requirements for the Secretary.—In carrying out this section, the Secretary shall—
+
+&emsp;"(1) consider the benefit increases described in subsection (a) to be a 'mass change';
+
+&emsp;"(2) require a simple process for States to notify households of the increase in benefits;
+
+&emsp;"(3) consider section 16(c)(3)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(c)(3)(A)) to apply to any errors in the implementation of this section without regard to the 120-day limit described in that section; and
+
+&emsp;"(4) disregard the additional amount of benefits that a household receives as a result of this section in determining the amount of overissuances under section 13 of the Food and Nutrition Act of 2008 (7 U.S.C. 2022).
+
+"(c)
+
+Administrative Expenses.—
+
+&emsp;"(1)
+
+In general.—For the costs of State administrative expenses associated with carrying out this section and administering the supplemental nutrition assistance program established under the Food andNutrition Act of 2008 (7 U.S.C. 2011 et seq.) during the COVID-19 public health emergency, the Secretary shall make available $100,000,000 for fiscal year 2021.
+
+&emsp;"(2)
+
+Timing.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2020\], the Secretary shall make available to States amounts for fiscal year 2021 under paragraph (1).
+
+&emsp;"(3)
+
+Allocation of funds.—Funds described in paragraph (1) shall be made available as grants to State agencies for fiscal year 2021 as follows:
+
+&emsp;&emsp;"(A) 75 percent of the amounts available for fiscal year 2021 shall be allocated to States based on the share of each State of households that participate in the supplemental nutrition assistance program as reported to the Department of Agriculture for the most recent 12-month period for which data are available, adjusted by the Secretary (as of the date of the enactment of this Act) for participation in disaster programs under section 5(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(h)); and
+
+&emsp;&emsp;"(B) 25 percent of the amounts available for fiscal year 2021 shall be allocated to States based on the increase in the number of households that participate in the supplemental nutrition assistance program as reported to the Department of Agriculture over the most recent 12-month period for which data are available, adjusted by the Secretary (as of the date of the enactment of this Act) for participation in disaster programs under section 5(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(h)).
+
+"(d)
+
+Certain Exclusions From Snap Income.—A Federal pandemic unemployment compensation payment made to an individual under section 2104 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) \[15 U.S.C. 9023\] shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for the purpose of determining eligibility of such individual or any other individual for benefits or assistance, or the amount of benefits or assistance, under any programs authorized under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+
+"(e)
+
+Provisions for Impacted Students.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any other provision of law, not later than 20 days after the date of the enactment of this Act, eligibility for supplemental nutrition assistance program benefits shall not be limited under section 6(e) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(e)) for an individual who—
+
+&emsp;&emsp;"(A) is enrolled at least half-time in an institution of higher education; and
+
+&emsp;&emsp;"(B)(i) is eligible to participate in a State or federally financed work study program during the regular school year as determined by the institution of higher education; or
+
+&emsp;&emsp;"(ii) in the current academic year, has an expected family contribution of $0 as determined in accordance with part F of title IV of the Higher Education Act of 195 \[probably should be "1965"\] (20 U.S.C. 1087kk et. seq.).
+
+&emsp;"(2)
+
+Sunset.—
+
+&emsp;&emsp;"(A)
+
+Initial applications.—The eligibility standards authorized under paragraph (1) shall be in effect for initial applications for the supplemental nutrition assistance program until 30 days after the COVID–19 public health emergency is lifted.
+
+&emsp;&emsp;"(B)
+
+Recertifications.—The eligibility standards authorized under paragraph (1) shall be in effect until the first recertification of a household beginning no earlier than 30 days after the COVID–19 public health emergency is lifted.
+
+&emsp;"(3)
+
+Guidance.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 10 days after the date of enactment of this Act, the Secretary shall issue guidance to State agencies on the temporary student eligibility requirements established under this subsection.
+
+&emsp;&emsp;"(B)
+
+Coordination with the department of education.—The Secretary of Education, in consultation with the Secretary of Agriculture and institutions of higher education, shall carry out activities to inform applicants for Federal student financial aid under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) and students at institutions of higher education of the temporary student eligibility requirements established under this subsection.
+
+"(f)
+
+Report.—Not later than July 31, 2021, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that accounts for both the redemption rate and account balances for each month during the period specified in subsection (a).
+
+"(g) \[Amended provisions set out as a note under section 2012 of this title.\]"
+
+\[For definitions of "Secretary", "supplemental nutrition assistance program", "COVID-19 public health emergency", and "SNAP" as used in section 702 of div. N of Pub. L. 116–260, set out above, see section 701 of div. N of Pub. L. 116–260, set out below.\]
+
+#### Assistance for Households During School Closures
+
+Pub. L. 116–127, div. A, title I, §1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, §4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, §721, Dec. 27, 2020, 134 Stat. 2096, provided that:
+
+"(a)
+
+Public Health Emergency.—During fiscal years 2020 and 2021, in any case in which a school is closed or has reduced the number of days or hours that students attend the school for at least 5 consecutive days during a public health emergency designation during which the school would otherwise be in session, each household containing at least 1 member who is an eligible child attending the school shall be eligible to receive assistance pursuant to a state \[sic\] agency plan approved under subsection (b).
+
+"(b)
+
+Assistance.—To carry out this section, the Secretary of Agriculture may approve State agency plans for temporary emergency standards of eligibility and levels of benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) for households with eligible children and, as applicable, households with children eligible for assistance under subsection (h). Plans approved by the Secretary shall provide for supplemental allotments to households receiving benefits under such Act, and issuances to households not already receiving benefits. Such level of benefits shall be determined by the Secretary in an amount not less than the value of meals at the free rate over the course of 5 school days for each eligible child in the household.
+
+"(c)
+
+Minimum Closure Requirement.—The Secretary of Agriculture shall not provide assistance under this section in the case of a school that is closed or has reduced the number of days or hours that students attend the school for less than 5 consecutive days.
+
+"(d)
+
+Use of EBT System.—A State agency may provide assistance under this section through the EBT card system established under section 7 of the Food and Nutrition Act of 2008 (7 U.S.C. 2016).
+
+"(e)
+
+Release of Information.—Notwithstanding any other provision of law, the Secretary of Agriculture may authorize State educational agencies and school food authorities administering a school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) to release to appropriate officials administering the supplemental nutrition assistance program such information as may be necessary to carry out this section.
+
+"(f)
+
+Waivers.—
+
+&emsp;"(1)
+
+In general.—To facilitate implementation of this section, the Secretary of Agriculture may approve waivers of the limits on certification periods otherwise applicable under section 3(f) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(f)), reporting requirements otherwise applicable under section 6(c) of such Act (7 U.S.C. 2015(c)), and other administrative requirements otherwise applicable to State agencies under such Act.
+
+&emsp;"(2)
+
+Simplifying assumptions for school year 2020-2021.—For purposes of this section, a State agency may develop and use simplifying assumptions (including a State or local public health ordinance developed in response to COVID–19) and the best feasibly available data to determine the status of a school or covered child care facility as opened, closed, or operating with a reduced number of days or hours, establish State or regionally-based benefits levels, identify eligible children and children eligible for assistance under subsection (h), and establish eligibility periods for eligible children and children eligible for assistance under subsection (h).
+
+"(g)
+
+Availability of Commodities.—During fiscal year 2020, the Secretary of Agriculture may purchase commodities for emergency distribution in any area of the United States during a public health emergency designation.
+
+"(h)
+
+Assistance for Children in Child Care.—
+
+&emsp;"(1)
+
+In general.—Beginning on October 1, 2020, subject to an approved State agency plan under subsection (b) or an approved amendment to such a plan, in any case in which, during a public health emergency designation, a covered child care facility is closed or has reduced attendance or hours for at least 5 consecutive days, or 1 or more schools in the area of a covered child care facility or the area of a child's residence are closed or have reduced attendance or hours for at least 5 consecutive days, each household containing at least 1 child enrolled in such a covered child care facility and the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be eligible to receive assistance, in accordance with paragraph (2), until covered child care facilities or schools in the area reopen or operate at full attendance and hours, as applicable, as determined by the State agency.
+
+&emsp;"(2)
+
+Assistance.—A household shall receive benefits under paragraph (1) in an amount that is equal to at least 1 breakfast and 1 lunch at the free rate for each child enrolled in a covered child care facility for each day that the child does not attend the facility because the facility is closed or operating with reduced attendance or hours or for each day that a school in the area of a covered child care facility or the area of the child's residence is closed or has reduced attendance or hours for at least 5 consecutive days.
+
+&emsp;"(3)
+
+State option.—A State shall not be required to provide assistance under this subsection in order to provide assistance to eligible children under a State agency plan under subsection (b).
+
+&emsp;"(4)
+
+Deemed population.—For purposes of an approved State agency plan described in paragraph (1) or an approved amendment to such a plan described in such paragraph, the Secretary of Agriculture shall deem any child who has not attained the age of 6 as a child who is enrolled in a covered child care facility.
+
+"(i)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered child care facility.—The term "covered child care facility" means—
+
+&emsp;&emsp;"(A) an organization described in subparagraph (A) or (B) of section 17(a)(2) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(a)(2)); and
+
+&emsp;&emsp;"(B) a family or group day care home.
+
+&emsp;"(2)
+
+Eligible child.—The term 'eligible child' means a child (as defined in section 12(d) or served under section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d), 1759(a)(1) \[1759a(a)(1)\]) who, if not for the closure or reduced attendance or hours of the school attended by the child during a public health emergency designation and due to concerns about a COVID–19 outbreak, would receive free or reduced price school meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 175l et seq.) at the school.
+
+&emsp;"(3)
+
+Free rate.—The term 'free rate' means—
+
+&emsp;&emsp;"(A) with respect to a breakfast, the rate of a free breakfast under the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773); and
+
+&emsp;&emsp;"(B) with respect to a lunch, the rate of a free lunch under the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+
+&emsp;"(4)
+
+Public health emergency designation.—The term 'public health emergency designation' means the declaration of a public health emergency, based on an outbreak of SARS–CoV–2 or another coronavirus with pandemic potential, by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
+
+&emsp;"(5)
+
+School.—The term 'school' has the meaning given the term in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)).
+
+&emsp;"(6)
+
+State.—The term 'State' has the meaning given the term in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)).
+
+"(j)
+
+Funding.—There are hereby appropriated to the Secretary of Agriculture such amounts as are necessary to carry out this section (including all administrative expenses for State agencies, other agencies of the State, local units, and schools): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+
+#### SNAP Waivers
+
+Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended by Pub. L. 116–159, div. D, title VI, §4603(a)(3), Oct. 1, 2020, 134 Stat. 746, provided that:
+
+#### "SEC. 2301. SNAP FLEXIBILITY FOR LOW-INCOME JOBLESS WORKERS
+
+"(a) Beginning with the first month that begins after the enactment of this Act \[Mar. 18, 2020\] and for each subsequent month through the end of the month subsequent to the month a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act \[42 U.S.C. 247d\] based on an outbreak of coronavirus disease 2019 (COVID–19) is lifted, eligibility for supplemental nutrition assistance program benefits shall not be limited under section 6(o)(2) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2015(o)(2)\] unless an individual does not comply with the requirements of a program offered by the State agency (as defined in section 3 of the Food and Nutrition Act of 2008 \[7 U.S.C. 2012\]) that meets the standards of subparagraphs (B) or (C) of such section 6(o)(2).
+
+"(b) Beginning on the month subsequent to the month the public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act based on an outbreak of COVID–19 is lifted for purposes of section 6(o) of the Food and Nutrition Act of 2008, such State agency shall disregard any period during which an individual received benefits under the supplemental nutrition assistance program prior to such month.
+
+#### "SEC. 2302. ADDITIONAL SNAP FLEXIBILITIES IN A PUBLIC HEALTH EMERGENCY
+
+"(a) In the event of a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act \[42 U.S.C. 247d\] based on an outbreak of coronavirus disease 2019 (COVID–19) and the issuance of an emergency or disaster declaration by a State based on an outbreak of COVID–19, the Secretary of Agriculture—
+
+&emsp;"(1) shall provide, at the request of a State agency (as defined in section 3 of the Food and Nutrition Act of 2008 \[7 U.S.C. 2012\]) that provides sufficient data (as determined by the Secretary through guidance) supporting such request, for emergency allotments to households participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] to address temporary food needs not greater than the applicable maximum monthly allotment for the household size; and
+
+&emsp;"(2) may adjust, at the request of State agencies or by guidance in consultation with one or more State agencies, issuance methods and application and reporting requirements under the Food and Nutrition Act of 2008 to be consistent with what is practicable under actual conditions in affected areas. (In making this adjustment, the Secretary shall consider the availability of offices and personnel in State agencies, any conditions that make reliance on electronic benefit transfer systems described in section 7(h) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(h)\] impracticable, any disruptions of transportation and communication facilities, and any health considerations that warrant alternative approaches.)
+
+"(b) Not later than 10 days after the date of the receipt or issuance of each document listed in paragraphs (1), (2), or (3) of this subsection, the Secretary of Agriculture shall make publicly available on the website of the Department the following documents:
+
+&emsp;"(1) Any request submitted by State agencies under subsection (a).
+
+&emsp;"(2) The Secretary's approval or denial of each such request.
+
+&emsp;"(3) Any guidance issued under subsection (a)(2).
+
+"(c)
+
+Report.—Not later than June 30, 2022, the Secretary of Agriculture shall submit, to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report containing the following information:
+
+&emsp;"(1) A description of any information or data supporting State agency requests under this section and any additional measures that State agencies requested that were not approved by the Secretary of Agriculture;
+
+&emsp;"(2) An evaluation of the use of all waivers, adjustments, and other flexibilities in the operation of the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), in effect under this Act \[div. B of Pub. L. 116–127, see Tables for classification\], the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), or any other Act, to respond to the COVID–19 public health emergency; and
+
+&emsp;"(3) A recommendation of any additional waivers or flexibilities needed in the operation of the supplemental nutrition assistance program to respond to public health emergencies with pandemic potential."
+
 #### Study of National Database for Federal Means-Tested Public Assistance Programs
 
 Pub. L. 105–379, §2, Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(PP), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(PP), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
@@ -104,7 +330,7 @@ Administration.—In conducting the study, the Secretary shall—
 
 "(c)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretaryshall submit to Congress a report on the results of the study conducted under this section.
+Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 12, 1998\], the Secretary shall submit to Congress a report on the results of the study conducted under this section.
 
 "(d)
 
@@ -134,7 +360,7 @@ Purpose.—It shall be the purpose of the Committee, in consultation, where appr
 
 &emsp;"(2) to examine the major reasons for such different programs and policies;
 
-&emsp;"(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more than one program and substantially restrict administrators' ability to provide efficient, timely, and appropriate benefits;
+&emsp;"(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more thanone program and substantially restrict administrators' ability to provide efficient, timely, and appropriate benefits;
 
 &emsp;"(4) to recommend common or simplified programs and policies (including recommendations for changes in law, regulations, and administrative practice and for policies that do not currently exist in such programs) that would substantially reduce difficulties in applying for and obtaining benefits from more than one program and significantly increase the ability of administrators of such programs to efficiently provide timely and appropriate assistance to those eligible for more than one type of assistance; and
 
@@ -162,11 +388,31 @@ Pub. L. 95–113, title XIII, §1303, Sept. 29, 1997, 91 Stat. 979, as amended b
 
 "(a) The Secretary of Agriculture shall implement the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, this chapter\] as expeditiously as possible consistent with the efficient and effective administration of the food stamp program. The provisions of the Food Stamp Act of 1964, as amended \[this chapter prior to amendment by Pub. L. 95–113\], which are relevant to current regulations of the Secretary governing the food stamp program, shall remain in effect until such regulations are revoked, superseded, amended, or modified by regulations issued pursuant to the Food Stamp Act of 1977. Coupons issued pursuant to the Food Stamp Act of 1964, as amended, and in general use as of the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\], shall continue to be usable to purchase food, and all other liabilities of the Secretary, States, and applicant or participating households, under the Food Stamp Act of 1964, as amended, shall continue in force until finally resolved or terminated by administrative or judicial action, or otherwise.
 
-"(b) Pending proceedings under the Food Stamp Act of 1964, as amended, shall not be abated by reason of any provision of the Food Stamp Act of 1977, but shallbe disposed of pursuant to the applicable provisions of the Food Stamp Act of 1964, as amended, in effect prior to the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\].
+"(b) Pending proceedings under the Food Stamp Act of 1964, as amended, shall not be abated by reason of any provision of the Food Stamp Act of 1977, but shall be disposed of pursuant to the applicable provisions of the Food Stamp Act of 1964, as amended, in effect prior to the effective date of the Food Stamp Act of 1977 \[Oct. 1, 1977\].
 
 "(c) Appropriations made available to carry out the Food Stamp Act of 1964, as amended, shall be available to carry out the provisions of the Food Stamp Act of 1977.
 
 "(d) \[Repealed. Pub. L. 97–375, title I, §103(a), Dec. 1, 1982, 96 Stat. 1819.\]"
 
 \[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of this title.\]
+
+#### Definitions
+
+Pub. L. 116–260, div. N, title VII, §701, Dec. 27, 2020, 134 Stat. 2092, provided that: "In this chapter \[chapter 1 (§§701–704) of subtitle A of title VII of div. N of Pub. L. 116–260, enacting provisions set out as notes under this section and section 2016 of this title and amending provisions set out as a note under section 2012 of this title\]—
+
+&emsp;"(1)
+
+Covid-19 public health emergency.—The term 'COVID-19 public health emergency' means a public health emergency declared or renewed by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) based on an outbreak of coronavirus disease 2019 (COVID-19).
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
+
+&emsp;"(3)
+
+Supplemental nutrition assistance program.—The term 'supplemental nutrition assistance program' has the meaning given such term in section 3(t) of the Food and Nutrition Act of 2008 (7 U.S.C. 2012(t)).
+
+&emsp;"(4)
+
+SNAP.—The term 'SNAP' refers to the supplemental nutrition assistance program."
 

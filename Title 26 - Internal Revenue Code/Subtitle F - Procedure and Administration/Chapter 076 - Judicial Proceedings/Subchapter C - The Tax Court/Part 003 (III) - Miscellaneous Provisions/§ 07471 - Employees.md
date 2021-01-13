@@ -22,7 +22,7 @@
 
 #### (4) Pay
 
-&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
+&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees ofthe Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
 
 #### (5) Programs
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted "as provided in cha
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
+Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the datethe United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 1986 Amendment
 

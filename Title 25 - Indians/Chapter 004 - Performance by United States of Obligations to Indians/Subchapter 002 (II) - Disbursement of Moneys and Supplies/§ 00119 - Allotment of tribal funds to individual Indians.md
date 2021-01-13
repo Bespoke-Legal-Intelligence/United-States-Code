@@ -4,11 +4,15 @@ The Secretary of the Interior is authorized, in his discretion, from time to tim
 
 (Mar. 2, 1907, ch. 2523, §1, 34 Stat. 1221; Pub. L. 97–164, title I, §160(a)(7), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 
@@ -17,6 +21,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

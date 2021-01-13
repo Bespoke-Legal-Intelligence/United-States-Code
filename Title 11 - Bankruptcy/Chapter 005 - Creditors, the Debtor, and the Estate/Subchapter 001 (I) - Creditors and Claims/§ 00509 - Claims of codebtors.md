@@ -1,6 +1,6 @@
 ### §509. Claims of codebtors
 
-(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with the debtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
+(a) Except as provided in subsection (b) or (c) of this section, an entity that is liable with thedebtor on, or that has secured, a claim of a creditor against the debtor, and that pays such claim, is subrogated to the rights of such creditor to the extent of such payment.
 
 (b) Such entity is not subrogated to the rights of such creditor to the extent that—
 
@@ -32,6 +32,8 @@ Subsection (a) subrogates the codebtor (whether as a codebtor, surety, or guaran
 
 Subsection (b) permits a subrogated codebtor to receive payments in the bankruptcy case only if the creditor has been paid in full, either through payments under the bankruptcy code or otherwise.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §450(a), substituted "subsection (b) or" for "subsections (b) and", and inserted "against the debtor" after "a creditor".
@@ -39,6 +41,8 @@ Subsection (b) permits a subrogated codebtor to receive payments in the bankrupt
 Subsec. (b)(1). Pub. L. 98–353, §450(b), substituted "of such" for "of a" after "account".
 
 Subsec. (c). Pub. L. 98–353, §450(c), substituted "this section" for "section 509 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

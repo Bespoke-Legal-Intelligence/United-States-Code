@@ -12,7 +12,7 @@ In General.—In accordance with all applicable Federal law (including regulatio
 
 Included Activities.—The establishment and management under subsection (a)(1) and (a)(2) may include—
 
-&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
+&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether nativeor nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
 
 &emsp;(2) establishment of plants, whether native or nonnative with a preference for native to the maximum extent possible, for the purposes defined in subsection (a)(1);
 
@@ -36,6 +36,8 @@ Condition for activities conducted in advance of project construction.—An acti
 
 (Added Pub. L. 109–59, title VI, §6006(b), Aug. 10, 2005, 119 Stat. 1872; amended Pub. L. 114–94, div. A, title I, §1415(b), Dec. 4, 2015, 129 Stat. 1421.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
@@ -43,6 +45,8 @@ The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94 inserted "provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees," before "and aesthetic enhancement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

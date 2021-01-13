@@ -10,9 +10,13 @@ With respect to contracts for research and development, the Secretary may includ
 
 (Pub. L. 104–303, title II, §229, Oct. 12, 1996, 110 Stat. 3703.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

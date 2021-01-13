@@ -60,9 +60,13 @@ Request for complaints.—The Commissioner of Patents may request complaints rel
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4102(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 170(b)(1)(A) of the Internal Revenue Code of 1986, referred to in subsec. (c)(3)(B), is classified to section 170(b)(1)(A) of Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

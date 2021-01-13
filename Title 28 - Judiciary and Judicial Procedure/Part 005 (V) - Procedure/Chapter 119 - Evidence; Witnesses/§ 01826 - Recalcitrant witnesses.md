@@ -14,6 +14,8 @@
 
 (Added Pub. L. 91–452, title III, §301(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 98–473, title II, §1013, Oct. 12, 1984, 98 Stat. 2142.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–473 added subsec. (c).

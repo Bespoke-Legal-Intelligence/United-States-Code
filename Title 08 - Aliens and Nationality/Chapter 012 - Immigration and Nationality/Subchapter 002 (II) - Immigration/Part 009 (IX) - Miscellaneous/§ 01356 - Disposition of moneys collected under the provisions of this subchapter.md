@@ -64,7 +64,7 @@ Notwithstanding section 1353b of this title, or any other provision of law, the 
 
 #### (h) Disposition of receipts
 
-(1)(A) There is established in the general fund of the Treasury a separate account which shall be known as the "Immigration User Fee Account". Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
+(1)(A) There is established in the general fund of the Treasury a separate account which shall be known as the "Immigration User Fee Account". Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User FeeAccount all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
 
 (B) Notwithstanding any other provisions of law, all civil fines or penalties collected pursuant to sections 1253(c), 1321, and 1323 of this title and all liquidated damages and expenses collected pursuant to this chapter shall be deposited in the Immigration User Fee Account.
 
@@ -100,7 +100,7 @@ In accordance with the provisions of the Federal Advisory Committee Act, the Att
 
 #### (l) Report to Congress
 
-In addition to the reporting requirements established pursuant to subsection (h), the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the "Immigration User Fee Account" including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
+In addition to the reporting requirements established pursuant to subsection (h), the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the "Immigration User Fee Account" including beginning account balance, revenues,withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
 
 #### (m) Immigration Examinations Fee Account
 
@@ -108,7 +108,7 @@ Notwithstanding any other provisions of law, all adjudication fees as are design
 
 #### (n) Reimbursement of administrative expenses; transfer of deposits to General Fund of United States Treasury
 
-All deposits into the "Immigration Examinations Fee Account" shall remain available until expended to the Attorney General to reimburse any appropriation the amount paid out of such appropriation for expenses in providing immigration adjudication and naturalization servicesand the collection, safeguarding and accounting for fees deposited in and funds reimbursed from the "Immigration Examinations Fee Account".
+All deposits into the "Immigration Examinations Fee Account" shall remain available until expended to the Attorney General to reimburse any appropriation the amount paid out of such appropriation for expenses in providing immigration adjudication and naturalization services and the collection, safeguarding and accounting for fees deposited in and funds reimbursed from the "Immigration Examinations Fee Account".
 
 #### (o) Annual financial reports to Congress
 
@@ -164,7 +164,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 (5) The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
 
-(6) For fiscal year 1993 only, the Attorney General may transfer up to $1,000,000 from the Immigration User Fee Account to the Fund for initialexpenses necessary to enhance collection efforts: <i>Provided</i>, That any such transfers shall be refunded from the Fund back to the Immigration User Fee Account by December 31, 1993.
+(6) For fiscal year 1993 only, the Attorney General may transfer up to $1,000,000 from the Immigration User Fee Account to the Fund for initial expenses necessary to enhance collection efforts: <i>Provided</i>, That any such transfers shall be refunded from the Fund back to the Immigration User Fee Account by December 31, 1993.
 
 #### (s) H–1B Nonimmigrant Petitioner Account
 
@@ -192,7 +192,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 #### (5) Use of fees for duties relating to petitions
 
-&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this title related to petitions for immigrants described in section 1153(b) of this title.
+&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this titlerelated to petitions for immigrants described in section 1153(b) of this title.
 
 #### (6) Use of fees for application processing and enforcement
 
@@ -206,15 +206,65 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 (3) Any officer or employee of the Immigration and Naturalization Service shall collect fees prescribed under regulation before disseminating any requested genealogical information.
 
-#### (u) Premium fee for employment-based petitions and applications
+#### (u) Premium fee for certain immigration benefit types
 
-The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application feethat may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
+#### (1) In general
+
+&emsp;The Secretary of Homeland Security is authorized to establish and collect a premium fee for the immigration benefit types described in paragraph (2). Such fee shall be paid in addition to any other fees authorized by law, deposited as offsetting receipts in the Immigration Examinations Fee Account established under subsection (m), and used for the purposes described in paragraph (4).
+
+#### (2) Immigration benefit types
+
+&emsp;Subject to reasonable conditions or limitations, the Secretary shall establish a premium fee under paragraph (1) in connection with—
+
+&emsp;&emsp;(A) employment-based nonimmigrant petitions and associated applications for dependents of the beneficiaries of such petitions;
+
+&emsp;&emsp;(B) employment-based immigrant petitions filed by or on behalf of aliens described in paragraph (1), (2), or (3) of section 1153(b) of this title;
+
+&emsp;&emsp;(C) applications to change or extend nonimmigrant status;
+
+&emsp;&emsp;(D) applications for employment authorization; and
+
+&emsp;&emsp;(E) any other immigration benefit type that the Secretary deems appropriate for premium processing.
+
+#### (3) Amount of fee
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (C), with respect to an immigration benefit type designated for premium processing by the Secretary on or before August 1, 2020, the premium fee shall be $2,500, except that the premium fee for a petition for classification of a nonimmigrant described in subparagraph (H)(ii)(b) or (R) of section 1101(a)(15) of this title shall be $1,500.
+
+#### (B) Other immigration benefit types
+
+&emsp;&emsp;With respect to an immigration benefit type designated for premium processing but not described in subparagraph (A), the initial premium fee shall be established by regulation, which shall include a detailed methodology supporting the proposed premium fee amount.
+
+#### (C) Biennial adjustment
+
+&emsp;&emsp;The Secretary may adjust a premium fee under subparagraph (A) or (B) on a biennial basis by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of June preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the second preceding calendar year. The provisions of section 553 of title 5 shall not apply to an adjustment authorized under this subparagraph.
+
+#### (4) Use of fee
+
+&emsp;Fees collected under this subsection may only be used by U.S. Citizenship and Immigration Services to—
+
+&emsp;&emsp;(A) provide the services described in paragraph (5) to premium processing requestors;
+
+&emsp;&emsp;(B) make infrastructure improvements in adjudications processes and the provision of information and services to immigration and naturalization benefit requestors;
+
+&emsp;&emsp;(C) respond to adjudication demands, including by reducing the number of pending immigration and naturalization benefit requests; and
+
+&emsp;&emsp;(D) otherwise offset the cost of providing adjudication and naturalization services.
+
+#### (5) Premium processing services
+
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) may suspend the availability of premium processing for designated immigration benefit requests only if circumstances prevent the completion of processing of a significant number of such requests within the required period; and
+
+&emsp;&emsp;(B) shall ensure that premium processing requestors have direct and reliable access to current case status information as well as the ability to communicate with the premium processing units at each service center or office that provides premium processing services.
 
 #### (v) Fraud Prevention and Detection Account
 
 #### (1) In general
 
-&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the "Fraud Prevention and Detection Account". Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all fees collected under paragraph (12) or (13) of section 1184(c) of this title.
+&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the "Fraud Prevention and Detection Account". Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all feescollected under paragraph (12) or (13) of section 1184(c) of this title.
 
 #### (2) Use of fees to combat fraud
 
@@ -240,15 +290,17 @@ The Attorney General is authorized to establish and collect a premium fee for em
 
 &emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283; Pub. L. 114–125, title VIII, §818(a), Feb. 24, 2016, 130 Stat. 222; Pub. L. 115–254, div. B, title V, §573, Oct. 5, 2018, 132 Stat. 3389.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319; Pub. L. 109–472, §2, Jan. 11, 2007, 120 Stat. 3554; Pub. L. 111–117, div. D, title V, §524(a), Dec. 16, 2009, 123 Stat. 3283; Pub. L. 114–125, title VIII, §818(a), Feb. 24, 2016, 130 Stat. 222; Pub. L. 115–254, div. B, title V, §573, Oct. 5, 2018, 132 Stat. 3389; Pub. L. 116–159, div. D, title I, §4102(a), Oct. 1, 2020, 134 Stat. 738.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally tothis chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Subchapter C of chapter 33 of title 26, referred to in subsec. (f)(3), is classified to section 4261 et seq. of Title 26, Internal Revenue Code.
 
@@ -257,6 +309,8 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (u). Pub. L. 116–159 amended subsec. (u) generally. Prior to amendment, text read as follows: "The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index."
 
 <b>2018</b>—Subsec. (i). Pub. L. 115–254 inserted ", train," after "commercial aircraft" and ", rail line," after "airport".
 
@@ -308,7 +362,7 @@ Subsec. (v). Pub. L. 108–447, §426(b), added subsec. (v).
 
 Subsec. (m). Pub. L. 108–7, §107, repealed Pub. L. 107–296, §457. See 2002 Amendment note below.
 
-Subsec. (s)(1). Pub. L. 108–77, §§107(c), 402(d)(2), temporarily substituted "paragraphs (9) and (11) of section 1184(c) of this title" for "section 1184(c)(9) of this title". See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (s)(1). Pub. L. 108–77, §§107(c), 402(d)(2), temporarily substituted "paragraphs (9) and (11) of section1184(c) of this title" for "section 1184(c)(9) of this title". See Effective and Termination Dates of 2003 Amendment note below.
 
 <b>2002</b>—Subsec. (e)(3). Pub. L. 107–206 substituted "shall" for "is authorized to" and "requirement" for "authorization".
 
@@ -392,7 +446,7 @@ Pub. L. 104–208, §308(d)(4)(K), substituted "removal" for "exclusion" in two 
 
 Pub. L. 104–208, §308(d)(3)(A), substituted "inadmissible" for "excludable" in two places.
 
-Subsec. (q)(1). Pub. L. 104–208, §122(a)(1), added par. (1) and struck out heading and text of former par. (1). Textread as follows: "Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, a project under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such project may include the establishment of commuter lanes to be made available to qualified United States citizens and aliens, as determined by the Attorney General."
+Subsec. (q)(1). Pub. L. 104–208, §122(a)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, a project under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such project may include the establishment of commuter lanes to be made available to qualified United States citizens and aliens, as determined by the Attorney General."
 
 Subsec. (q)(5). Pub. L. 104–208, §122(a)(2), struck out par. (5) which read as follows:
 
@@ -480,7 +534,7 @@ Subsec. (h)(1)(A). Pub. L. 100–525, §4(a)(1)(C)(i), amended that portion of t
 
 Pub. L. 100–525, §4(a)(1)(C)(ii), substituted "Fee Account'." for "Fee Account.' "
 
-Subsec. (h)(1)(B). Pub. L. 100–525, §4(a)(1)(C)(iii)–(v), substituted "civil fines or penalties" for "fines, penalties, liquidated damages or expenses", inserted "and all liquidated damages and expenses collected pursuantto this chapter" after "this title", and struck out quotation marks before and after the term "Immigration User Fee Account".
+Subsec. (h)(1)(B). Pub. L. 100–525, §4(a)(1)(C)(iii)–(v), substituted "civil fines or penalties" for "fines, penalties, liquidated damages or expenses", inserted "and all liquidated damages and expenses collected pursuant to this chapter" after "this title", and struck out quotation marks before and after the term "Immigration User Fee Account".
 
 Subsec. (h)(2)(A). Pub. L. 100–525, §4(a)(1)(C)(vi), substituted "vessels and in—" for "vessels and:" in introductory provisions and inserted "and" at end of cl. (iv).
 
@@ -503,6 +557,8 @@ Subsecs. (d) to (l). Pub. L. 99–500, §101(b) \[title II, §205(a), formerly �
 Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 99–500, §101(b) \[title II, §205(a)\], was repealed by Pub. L. 100–525, §4(d), effective as of Oct. 30, 1986.
 
 <b>1981</b>—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted "and subsection (b)" after "subsection (a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -552,11 +608,11 @@ Pub. L. 101–515, title II, §210(b), Nov. 5, 1990, 104 Stat. 2120, provided th
 
 Amendment by section 4(a)(1), (2)(A) of Pub. L. 100–525 effective as if included in enactment of Department of Justice Appropriation Act, 1987 (as contained in section 101(b) of Pub. L. 99–500), see section 4(c) of Pub. L. 100–525, set out as a note under section 1222 of this title.
 
-Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the enactment of the Immigration andNationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 7(d)(1) of Pub. L. 99–653 applicable to visas issued, and admissions occurring, on orafter Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
+Amendment by section 7(d)(1) of Pub. L. 99–653 applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
 
 Pub. L. 99–500, §101(b) \[title II, §205(b)\], as added by Pub. L. 100–525, §4(a)(2)(B), Oct. 24, 1988, 102 Stat. 2615, provided that:
 
@@ -575,6 +631,30 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Expansion to New Benefit Requests
+
+Pub. L. 116–159, div. D, title I, §4102(b), Oct. 1, 2020, 134 Stat. 740, provided that:
+
+"(1)
+
+In general.—Notwithstanding the requirement to set a fee by regulation under section 286(u)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1356(u)(3)(B)), as amended by subsection (a), the Secretary of Homeland Security may set a fee under that section without regard to the provisions of section 553 of title 5, United States Code, if such fee is consistent with the following:
+
+&emsp;"(A) For a petition for classification under section 203(b)(1)(C) of the Immigration and Nationality Act (8 U.S.C. 1153(b)(1)(C)), or a petition for classification under section 203(b)(2) involving a waiver under section 203(b)(2)(B) of such Act, the fee is set at an amount not greater than $2,500 and the required processing timeframe is not greater than 45 days.
+
+&emsp;"(B) For an application under section 248 of the Immigration and Nationality Act (8 U.S.C. 1258) to change status to a classification described in subparagraph (F), (J), or (M) of section 101(a)(15) of such Act (8 U.S.C. 1101(a)(15)), the fee is set at an amount not greater than $1,750 and the required processing timeframe is not greater than 30 days.
+
+&emsp;"(C) For an application under section 248 of the Immigration and Nationality Act (8 U.S.C. 1258) to change status to be classified as a dependent of a nonimmigrant described in subparagraph (E), (H), (L), (O), (P), or (R) of section 101(a)(15) of such Act (8 U.S.C. 1101(a)(15)), or to extend such classification, the fee is set at an amount not greater than $1,750 and the required processing timeframe is not greater than 30 days.
+
+&emsp;"(D) For an application for employment authorization, the fee is set at an amount not greater than $1,500 and the required processing timeframe is not greater than 30 days.
+
+"(2)
+
+Clarification.—The required processing timeframe for each of the applications and petitions described in paragraph (1) shall not commence until the date that all prerequisites for adjudication are received by the Secretary of Homeland Security."
+
+#### Other Benefit Requests
+
+Pub. L. 116–159, div. D, title I, §4102(c), Oct. 1, 2020, 134 Stat. 740, provided that: "In implementing the amendments made by subsection (a) \[amending this section\], the Secretary of Homeland Security shall develop and implement processes to ensure that the availability of premium processing, or its expansion to additional immigration benefit requests, does not result in an increase in processing times for immigration benefit requests not designated for premium processing or an increase in regular processing of immigration benefit requests so designated."
 
 #### Restoration of Provision Regarding Fees to Cover the Full Costs of All Adjudication Services
 
@@ -604,7 +684,7 @@ Pub. L. 104–208, div. A, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009,
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L. 103–317, title I, §111, Aug. 26, 1994, 108 Stat. 1736, and repealed by Pub. L. 104–208, div. C, title I, §122(b), Sept. 30, 1996, 110 Stat. 3009–560.
+Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L. 103–317, title I, §111, Aug. 26, 1994,108 Stat. 1736, and repealed by Pub. L. 104–208, div. C, title I, §122(b), Sept. 30, 1996, 110 Stat. 3009–560.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

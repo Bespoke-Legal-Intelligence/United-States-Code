@@ -1,6 +1,6 @@
 ### §4703. Demonstration projects
 
-(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
+(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or moreagencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
 
 &emsp;(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(I) a specific description of any aspect of the project for which there is a lack of specific authority; and
 
-&emsp;&emsp;(J) a specific citation to any provision of law, rule, or regulation which, if not waivedunder this section, would prohibit the conducting of the project, or any part of the project as proposed;
+&emsp;&emsp;(J) a specific citation to any provision of law, rule, or regulation which, if not waived under this section, would prohibit the conducting of the project, or any part of the project as proposed;
 
 &emsp;(2) publish the plan in the Federal Register;
 
@@ -92,7 +92,7 @@
 
 &emsp;(2) if the project is not covered by such a collective bargaining agreement, until there has been consultation or negotiation, as appropriate, by the agency with the labor organization.
 
-(g) Employees within any unit with respect to which a labor organization has not been accorded exclusive recognition under chapter 71 of this title shall not be included within any project under subsection (a) of this section unless there has been agency consultation regarding the project with the employees in the unit.
+(g) Employees within any unit with respect to which a labor organization has not been accorded exclusive recognition under chapter 71 ofthis title shall not be included within any project under subsection (a) of this section unless there has been agency consultation regarding the project with the employees in the unit.
 
 (h) The Office shall provide for an evaluation of the results of each demonstration project and its impact on improving public management.
 
@@ -108,11 +108,15 @@
 
 (Added Pub. L. 95–454, title VI, §601(a), Oct. 13, 1978, 92 Stat. 1186; amended Pub. L. 115–232, div. A, title XI, §1106, Aug. 13, 2018, 132 Stat. 2001.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–232, §1106(1), added par. (2) and struck out former par. (2) which read as follows: "Not more than 10 active demonstration projects may be in effect at any time."
 
 Subsec. (j). Pub. L. 115–232, §1106(2), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

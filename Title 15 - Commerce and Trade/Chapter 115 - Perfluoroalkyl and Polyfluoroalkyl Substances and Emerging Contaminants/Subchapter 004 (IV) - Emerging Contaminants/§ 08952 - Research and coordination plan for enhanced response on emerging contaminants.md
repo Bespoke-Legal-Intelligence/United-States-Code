@@ -92,7 +92,7 @@ The Administrator shall—
 
 #### (B) Selection of research proposals
 
-&emsp;&emsp;The head of each agency described in paragraph (1)(C) shall select research proposalsto receive grants under this paragraph on the basis of merit, using criteria identified by the head of each such agency, including the likelihood that the proposed research will result in significant progress toward achieving the objectives identified in the Federal research strategy.
+&emsp;&emsp;The head of each agency described in paragraph (1)(C) shall select research proposals to receive grants under this paragraph on the basis of merit, using criteria identified by the head of each such agency, including the likelihood that the proposed research will result in significant progress toward achieving the objectives identified in the Federal research strategy.
 
 #### (C) Eligible entities
 

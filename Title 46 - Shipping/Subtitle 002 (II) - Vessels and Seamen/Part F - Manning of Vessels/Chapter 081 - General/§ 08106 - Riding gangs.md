@@ -104,7 +104,7 @@ Failure to Employ Qualified Available U.S. Citizens or Residents.—
 
 &emsp;(1)
 
-In general.—The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified andavailable for the work for which the riding gang member is to be employed.
+In general.—The owner or operator of a vessel to which subsection (a) applies may not employ a riding gang member who is neither a United States citizen nor an alien lawfully admitted to the United States for permanent residence to perform work described in subsection (b) unless the owner or operator determines, in accordance with procedures established by the Secretary to carry out section 8103(b)(3)(C), that there is not a sufficient number of United States citizens or individuals lawfully admitted to the United States for permanent residence who are qualified and available for the work for which the riding gang member is to be employed.
 
 &emsp;(2)
 
@@ -124,9 +124,13 @@ Compromise, modification, and remittal.—The Secretary may compromise, modify, 
 
 (Added Pub. L. 109–241, title III, §312(a), July 11, 2006, 120 Stat. 530; amended Pub. L. 115–232, div. C, title XXXV, §3546(g), Aug. 13, 2018, 132 Stat. 2326.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (f)(3). Pub. L. 115–232 added par. (3) and struck out former par. (3) which related to continuing violations in fiscal years 2006 and 2007 and after fiscal year 2007.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### International Convention for Safety of Life at Sea
 

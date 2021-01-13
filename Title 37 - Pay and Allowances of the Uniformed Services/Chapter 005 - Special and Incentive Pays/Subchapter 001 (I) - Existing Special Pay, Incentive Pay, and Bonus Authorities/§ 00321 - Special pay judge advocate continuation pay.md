@@ -38,6 +38,8 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 (Added Pub. L. 106–65, div. A, title VI, §629(a)(1), Oct. 5, 1999, 113 Stat. 659; amended Pub. L. 109–163, div. A, title VI, §687(b)(29), Jan. 6, 2006, 119 Stat. 3332.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 470 of title 14, referred to in subsec. (a)(2)(B), was redesignated section 2770 of title 14 by Pub. L. 115–282, title I, §116(b)(2), Dec. 4, 2018, 132 Stat. 4226, and references to section 470 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -45,6 +47,8 @@ Section 470 of title 14, referred to in subsec. (a)(2)(B), was redesignated sect
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

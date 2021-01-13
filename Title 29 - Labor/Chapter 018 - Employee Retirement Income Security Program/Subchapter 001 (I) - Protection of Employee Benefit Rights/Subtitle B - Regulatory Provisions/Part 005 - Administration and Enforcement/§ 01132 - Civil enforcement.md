@@ -62,7 +62,7 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposesof this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with subsection (i) or (m) of section 1021 of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
 (8) The Secretary may assess against any plan sponsor of a multiemployer plan a civil penalty of not more than $1,100 per day—
 
@@ -70,7 +70,7 @@ A civil action may be brought—
 
 &emsp;(B) in the case of a plan in endangered status which is not in seriously endangered status, for failure by the plan to meet the applicable benchmarks under section 1085 of this title by the end of the funding improvement period with respect to the plan.
 
-(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a day from the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
+(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a dayfrom the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
 
 (B) The Secretary may assess a civil penalty against any plan administrator of up to $100 a day from the date of the plan administrator's failure to timely provide to any State the information required to be disclosed under section 1181(f)(3)(B)(ii) of this title. For purposes of this subparagraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
@@ -150,13 +150,13 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (11) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
-(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section1085a(j)(3) of this title to establish or update a funding restoration plan.
+(12) The Secretary may assess a civil penalty against any sponsor of a CSEC plan of up to $100 a day from the date of the plan sponsor's failure to comply with the requirements of section 1085a(j)(3) of this title to establish or update a funding restoration plan.
 
 #### (d) Status of employee benefit plan as entity
 
 (1) An employee benefit plan may sue or be sued under this subchapter as an entity. Service of summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
 
-(2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
+(2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity andshall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
 
 #### (e) Jurisdiction
 
@@ -204,7 +204,7 @@ In all civil actions under this subchapter, attorneys appointed by the Secretary
 
 #### (k) Jurisdiction of actions against the Secretary of Labor
 
-Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under thissubchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
+Suits by an administrator, fiduciary, participant, or beneficiary of an employee benefit plan to review a final order of the Secretary, to restrain the Secretary from taking any action contrary to the provisions of this chapter, or to compel him to take action required under this subchapter, may be brought in the district court of the United States for the district where the plan has its principal office, or in the United States District Court for the District of Columbia.
 
 #### (l) Civil penalties on violations by fiduciaries
 
@@ -235,6 +235,8 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
 (Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101; Pub. L. 111–3, title III, §311(b)(1)(E), Feb. 4, 2009, 123 Stat. 70; Pub. L. 113–97, title I, §102(b)(6), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title I, §111(d), Dec. 16, 2014, 128 Stat. 2793.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -268,7 +270,7 @@ Subsec. (b)(3). Pub. L. 110–233, §101(e)(2), substituted "Except as provided 
 
 Subsec. (c)(2). Pub. L. 110–458, §102(b)(1)(H), substituted "1021(b)(1)" for "1021(b)(4)".
 
-Subsec. (c)(4). Pub. L. 110–458, §101(c)(1)(H), substituted "by any person of subsection (j), (k), or (l) ofsection 1021 of this title or section 1144(e)(3) of this title." for "by any person of subsection (j), (k), or (l) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title."
+Subsec. (c)(4). Pub. L. 110–458, §101(c)(1)(H), substituted "by any person of subsection (j), (k), or (l) of section 1021 of this title or section 1144(e)(3) of this title." for "by any person of subsection (j), (k), or (l) of section 1021 of this title, section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title."
 
 Subsec. (c)(8)(A). Pub. L. 110–458, §102(b)(1)(I), inserted "plan" after "multiemployer".
 
@@ -280,7 +282,7 @@ Subsec. (a)(8) to (10). Pub. L. 109–280, §202(c), amended subsec. (a) by stri
 
 Subsec. (c)(1). Pub. L. 109–280, §508(a)(2)(C), substituted "section 1021(f) of this title, or section 1025(a) of this title" for "or section 1021(f) of this title".
 
-Subsec. (c)(4). Pub. L. 109–280, §902(f)(2), which directed amendment of par. (4) by substituting ", section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title" for "or section 1082(b)(7)(F)(vi) of this title", was executed by making the substitution for "or 1082(b)(7)(F)(iv) of this title", to reflect the probable intent of Congress.
+Subsec. (c)(4). Pub. L. 109–280, §902(f)(2), which directed amendment of par. (4) by substituting ", section1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title" for "or section 1082(b)(7)(F)(vi) of this title", was executed by making the substitution for "or 1082(b)(7)(F)(iv) of this title", to reflect the probable intent of Congress.
 
 Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substituting "subsection (j), (k), or (l) of section 1021 of this title" for "section 1021(j) or (k) of this title", was executed by making the substitution for "subsection (j) or (k) of section 1021 of this title", to reflect the probable intent of Congress.
 
@@ -357,6 +359,8 @@ Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior
 <b>1980</b>—Subsec. (b). Pub. L. 96–364, §306(b)(1), redesignated existing provisions as par. (1)(A) and (B) and added par. (2).
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -444,13 +448,13 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Regulations
 
-Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shall issue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] tocarry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
+Pub. L. 110–233, title I, §101(f)(1), May 21, 2008, 122 Stat. 888, provided that: "The Secretary of Labor shall issue final regulations not later than 12 months after the date of enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[amending this section and sections 1182 and 1191b of this title\]."
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGCsettlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

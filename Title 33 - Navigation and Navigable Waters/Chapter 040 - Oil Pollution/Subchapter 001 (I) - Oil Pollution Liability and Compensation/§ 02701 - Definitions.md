@@ -32,7 +32,7 @@ For the purposes of this Act, the term—
 
 &emsp;(15) "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and has governmental authority over lands belonging to or controlled by the tribe;
 
-&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf, granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
+&emsp;(16) "lessee" means a person holding a leasehold interest in an oil or gas lease on lands beneath navigable waters (as that term is defined in section 1301(a) of title 43) or on submerged lands of the Outer Continental Shelf,granted or maintained under applicable State law or the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.);
 
 &emsp;(17) "liable" or "liability" shall be construed to be the standard of liability which obtains under section 1321 of this title;
 
@@ -160,7 +160,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;&emsp;(C) transfers oil or hazardous material in a place subject to the jurisdiction of the United States;
 
-&emsp;(35) "territorial seas" means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and theline marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
+&emsp;(35) "territorial seas" means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of 3 miles;
 
 &emsp;(36) "United States" and "State" mean the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession of the United States;
 
@@ -210,6 +210,8 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 (Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, §713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, §3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915; Pub. L. 115–232, div. C, title XXXV, §3544(d), Aug. 13, 2018, 132 Stat. 2325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -226,9 +228,9 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 <b>2018</b>—Par. (32)(A). Pub. L. 115–232 struck out "(other than a vessel described in section 3703a(b)(3) of title 46)" before period at end.
 
-<b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, anyperson or entity" for "onshore or offshore facility, any person".
+<b>2017</b>—Par. (26)(A)(ii). Pub. L. 115–91, §3508(b)(1)(A)(i)(I), substituted "onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity" for "onshore or offshore facility, any person".
 
-Par. (26)(A)(iii). Pub. L. 115–91, §3508(b)(1)(A)(i)(II), substituted "offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that" for "offshore facility, the person who".
+Par. (26)(A)(iii). Pub. L. 115–91, §3508(b)(1)(A)(i)(II), substituted "offshore facility or foreign offshore unitor other facility located seaward of the exclusive economic zone, the person or entity that" for "offshore facility, the person who".
 
 Par. (32)(D) to (G). Pub. L. 115–91, §3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted ", offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that" for "or offshore facility, the persons who".
 
@@ -239,6 +241,8 @@ Par. (32)(D) to (G). Pub. L. 115–91, §3508(b)(1)(A)(ii), added subpar. (D), r
 Pars. (38) to (44). Pub. L. 108–293, §703(b), added pars. (38) to (44).
 
 <b>1998</b>—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: " 'oil' means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

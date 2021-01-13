@@ -44,13 +44,15 @@
 
 (b) A rehabilitation program (including individual courses) to be pursued by a veteran shall be subject to the approval of the Secretary. To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.
 
-(c)(1) The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
+(c)(1) The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, theseverity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
 
 (2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a plan describing such changes.
 
 (d) The Secretary may not assist a veteran in acquiring adaptations to the residence of the veteran under this chapter. Any such assistance may be furnished only under section 2102B of this title.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2174, §1504; amended Pub. L. 100–323, §11(a)(3)(A), May 20, 1988, 102 Stat. 568; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §3(b)(1), Mar. 22, 1991, 105 Stat. 49; Pub. L. 102–54, §14(c)(3), June 13, 1991, 105 Stat. 285; renumbered §3104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(d), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 114–315, title IV, §§402(a), 403, Dec. 16, 2016, 130 Stat. 1553, 1554; Pub. L. 115–177, §1(c)(1), June 1, 2018, 132 Stat. 1377.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -87,6 +89,8 @@ Subsec. (b). Pub. L. 102–54 substituted "(29 U.S.C. 796a)" for "(29 U.S.C. 796
 <b>1989</b>—Subsecs. (a), (c). Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1988</b>—Subsec. (a)(7). Pub. L. 100–323 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

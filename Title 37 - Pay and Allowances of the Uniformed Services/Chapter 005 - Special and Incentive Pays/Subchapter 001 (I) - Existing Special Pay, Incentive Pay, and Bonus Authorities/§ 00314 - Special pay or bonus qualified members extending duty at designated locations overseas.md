@@ -34,6 +34,8 @@ Effect of Rest and Recuperative Absence.—A member who elects to receive one of
 
 (Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI, §641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 109–163, div. A, title VI, §687(b)(23), Jan. 6, 2006, 119 Stat. 3331.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
@@ -52,9 +54,11 @@ Subsecs. (a), (b). Pub. L. 108–136, §621(a)(1), substituted "a member" for "a
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "$80" for "$50" in provision following par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §625(b), Nov. 18, 1997, 111 Stat. 1795, provided that: "Section 314 of title 37,United States Code, as amended by subsection (a), shall apply with respect to an agreement to extend a tour of duty as provided in such section executed on or after October 1, 1997."
+Pub. L. 105–85, div. A, title VI, §625(b), Nov. 18, 1997, 111 Stat. 1795, provided that: "Section 314 of title 37, United States Code, as amended by subsection (a), shall apply with respect to an agreement to extend a tour of duty as provided in such section executed on or after October 1, 1997."
 
 #### Effective Date of 1985 Amendment
 

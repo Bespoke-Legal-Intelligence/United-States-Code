@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 99–514, §1273(a), added par. (2) and concluding provisio
 
 "(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose income derived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year."
 
-Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term "controlled foreign corporation" would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
+Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term "controlled foreign corporation" would not include certain corporations created or organized in Puerto Rico or a possession of the United States orunder the laws of Puerto Rico or a possession of the United States.
 
 Subsec. (d). Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c).
 

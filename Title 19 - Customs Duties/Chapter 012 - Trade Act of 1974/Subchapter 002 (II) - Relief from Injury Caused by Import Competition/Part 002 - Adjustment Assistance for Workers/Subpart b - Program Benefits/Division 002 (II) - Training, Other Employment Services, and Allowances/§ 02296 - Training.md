@@ -54,7 +54,7 @@
 
 &emsp;(ii) are reimbursable under any other provision of Federal law and a portion of such costs have already been paid under such other provision of Federal law.
 
-(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker or adversely affected incumbent worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in trainingthe adversely affected worker or adversely affected incumbent worker.
+(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker or adversely affected incumbent worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker or adversely affected incumbent worker.
 
 (5) Except as provided in paragraph (10), the training programs that may be approved under paragraph (1) include, but are not limited to—
 
@@ -76,7 +76,7 @@
 
 &emsp;(F) any training program (other than a training program described in paragraph (7)) for which all, or any portion, of the costs of training the worker are paid—
 
-&emsp;&emsp;(i) under any Federal or State program other than this chapter, or
+&emsp;&emsp;(i) under any Federal or State program other than this part, or
 
 &emsp;&emsp;(ii) from any source other than this section,
 
@@ -126,7 +126,7 @@
 
 The Secretary may, where appropriate, authorize supplemental assistance necessary to defray reasonable transportation and subsistence expenses for separate maintenance when training is provided in facilities which are not within commuting distance of a worker's regular place of residence. The Secretary may not authorize—
 
-&emsp;(1) payments for subsistence that exceed whichever is the lesser of (A) the actual perdiem expenses for subsistence, or (B) payments at 50 percent of the prevailing per diem allowance rate authorized under the Federal travel regulations, or
+&emsp;(1) payments for subsistence that exceed whichever is the lesser of (A) the actual per diem expenses for subsistence, or (B) payments at 50 percent of the prevailing per diem allowance rate authorized under the Federal travel regulations, or
 
 &emsp;(2) payments for travel expenses exceeding the prevailing mileage rate authorized under the Federal travel regulations.
 
@@ -238,7 +238,7 @@ For purposes of this section, the term "customized training" means training that
 
 &emsp;Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under section 2291 of this title.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13,1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -288,7 +288,7 @@ Subsec. (a)(2)(A). Pub. L. 112–40, §§214(a)(2), 233, temporarily substituted
 
 Subsec. (a)(2)(B)(i), (ii), (C)(i). Pub. L. 112–40, §§214(a)(1), 233, temporarily inserted "and sections 2295, 2297, and 2298 of this title" after "to carry out this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(2)(C)(ii)(V). Pub. L. 112–40, §§214(a)(3), 233, temporarily substituted "to carry out this section and sections 2295, 2297, and 2298 of this title" for "relating to the provision of training under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(2)(C)(ii)(V). Pub. L. 112–40, §§214(a)(3), 233, temporarily substituted "to carry out this section andsections 2295, 2297, and 2298 of this title" for "relating to the provision of training under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (a)(2)(E). Pub. L. 112–40, §§214(a)(4), 233, temporarily substituted "necessary to carry out this section and sections 2295, 2297, and 2298 of this title" for "necessary to pay the costs of training approved under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -352,7 +352,7 @@ Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the tempor
 
 Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection\(a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsecs. (g), (h). Pub. L. 111–5, §§1828(c), 1830(b), 1893, temporarily added subsecs. (g) and (h). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -442,7 +442,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
+Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: "This section \[amending thissection\] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
 
 &emsp;"(1) subparagraph (A) of section 236(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2296(a)(2)(A)\], as amended by subsection (a) of this section, shall take effect on the date of the enactment of this Act; and
 

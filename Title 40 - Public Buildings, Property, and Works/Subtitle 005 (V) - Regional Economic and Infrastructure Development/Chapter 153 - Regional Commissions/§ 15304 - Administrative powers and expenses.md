@@ -72,6 +72,8 @@ Effect on assistance.—A State's share of administrative expenses of a Commissi
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1471, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2233; amended Pub. L. 115–334, title VI, §6304(a), Dec. 20, 2018, 132 Stat. 4749.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -79,6 +81,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(3)(A). Pub. L. 115–334 substituted "majority" for "unanimous".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

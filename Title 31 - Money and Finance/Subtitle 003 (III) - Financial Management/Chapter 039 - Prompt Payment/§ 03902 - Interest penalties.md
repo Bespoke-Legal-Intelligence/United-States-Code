@@ -102,6 +102,8 @@ In subsection (e), the words "terms and" and "non-Federal" are omitted as surplu
 
 This is necessary to correct cross-references in section 3902(b).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Act of 1949, referred to in subsec. (h)(2)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
@@ -127,6 +129,8 @@ Subsecs. (c) to (g). Pub. L. 100–496, §3(b), added subsecs. (c) and (d) and r
 Subsec. (h). Pub. L. 100–496, §3(c), added subsec. (h).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–216 substituted "3903(2)" for "3903(2)(A)" in par. (1) and "3903(3)" for "3903(2)(B)" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -170,5 +174,5 @@ Incorporation of Certain Provisions of Law.—The provisions of chapter 39 of ti
 
 "(d)
 
-Effective Date.—Subsection (a) shall take effect on December 15, 2000, and shall apply with respect to interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date."
+Effective Date.—Subsection (a) shall take effect on December 15, 2000, and shall apply with respectto interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date."
 

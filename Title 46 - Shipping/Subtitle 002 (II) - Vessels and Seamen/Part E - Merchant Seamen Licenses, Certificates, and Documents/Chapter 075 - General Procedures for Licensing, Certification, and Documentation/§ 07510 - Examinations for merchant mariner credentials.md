@@ -18,7 +18,7 @@ Disclosure Not Required.—Notwithstanding any other provision of law, the Secre
 
 (b)
 
-Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
+Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchantmariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
 
 (c)
 
@@ -92,7 +92,7 @@ Formal exam review.—The Secretary shall ensure that the Coast Guard Performanc
 
 &emsp;&emsp;(A) prioritizes the review of examinations required for merchant mariner credentials; and
 
-&emsp;&emsp;(B) not later than 3 years after the date of enactment of the Coast Guard AuthorizationAct of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant seamen licensing.
+&emsp;&emsp;(B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
 
 &emsp;(9)
 
@@ -100,9 +100,11 @@ FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to an
 
 (d)
 
-Merchant Mariner Credential Defined.—In this section, the term "merchant mariner credential" means a merchant seaman license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
+Merchant Mariner Credential Defined.—In this section, the term "merchant mariner credential" means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
 
-(Added Pub. L. 114–120, title III, §315(a)(1), Feb. 8, 2016, 130 Stat. 60; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(1), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §3541(b)(12), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 115–282, title VI, §601(c)(3)(B), Dec. 4, 2018, 132 Stat. 4289.)
+(Added Pub. L. 114–120, title III, §315(a)(1), Feb. 8, 2016, 130 Stat. 60; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), (b)(1), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §3541(b)(12), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 115–282, title VI, §601(c)(3)(B), Dec. 4, 2018, 132 Stat. 4289; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(7), Jan. 1, 2021, 134 Stat. 4751.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -111,6 +113,10 @@ The date of the enactment of the Coast Guard Authorization Act of 2016, referred
 The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(8)(B). Pub. L. 116–283, §8505(b)(7)(A), substituted "merchant mariner" for "merchant seamen".
+
+Subsec. (d). Pub. L. 116–283, §8505(b)(7)(B), substituted "merchant mariner license" for "merchant seaman license".
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "Commandant" for "Commandant of the Coast Guard" in introductory provisions.
 
@@ -123,6 +129,8 @@ Subsec. (c)(1)(D). Pub. L. 114–328, §3503(b)(1)(A), substituted "engineer" fo
 Subsec. (c)(4)(A), (8)(B). Pub. L. 114–328, §3503(a), substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
 
 Subsec. (c)(9). Pub. L. 114–328, §3503(b)(1)(B), inserted a period after "App".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

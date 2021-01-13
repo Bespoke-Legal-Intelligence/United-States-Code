@@ -42,7 +42,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 | 2008 | 19&nbsp;&nbsp; |
 | 2009 and each year thereafter | 20\. |
 
-(6) Uranium hexafluoride delivered to the Russian Executive Agent under paragraph (3) or auctioned pursuant to paragraph (4) may be sold at any time as Russian-origin natural uranium in a matched sale pursuant to the SuspensionAgreement, and in such case shall not be counted against the annual maximum deliveries set forth in paragraph (5).
+(6) Uranium hexafluoride delivered to the Russian Executive Agent under paragraph (3) or auctioned pursuant to paragraph (4) may be sold at any time as Russian-origin natural uranium in a matched sale pursuant to the Suspension Agreement, and in such case shall not be counted against the annual maximum deliveries set forth in paragraph (5).
 
 (7) Uranium hexafluoride delivered to the Russian Executive Agent under paragraph (3) or auctioned pursuant to paragraph (4) may be sold at any time for use in the United States for the purpose of overfeeding in the operations of enrichment facilities.
 

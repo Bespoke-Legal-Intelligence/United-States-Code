@@ -26,7 +26,7 @@ As used in this section—
 
 &emsp;(1) The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
-&emsp;(2) The term "lottery" includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+&emsp;(2) The term "lottery" includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectationthat one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
 &emsp;&emsp;(A) a random selection;
 
@@ -48,6 +48,8 @@ The Board of Governors of the Federal Reserve System shall issue such regulation
 
 (Dec. 13, 1913, ch. 6, §9A, as added Pub. L. 90–203, §2, Dec. 15, 1967, 81 Stat. 609; amended Pub. L. 113–251, §3(b), Dec. 18, 2014, 128 Stat. 2889.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as section 9A of act Dec. 13, 1913, and not as part of section 9 of such act which comprises this subchapter.
@@ -57,6 +59,8 @@ Section was enacted as section 9A of act Dec. 13, 1913, and not as part of secti
 <b>2014</b>—Subsec. (c)(2). Pub. L. 113–251, §3(b)(1), inserted ", other than a savings promotion raffle," before "whereby" in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 113–251, §3(b)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

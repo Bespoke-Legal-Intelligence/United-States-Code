@@ -60,6 +60,8 @@ In subsection (c), the word "employee" is substituted for "civilian officer or e
 
 Subsection (b) of section 25 of the Administrative Expenses Act of 1946 (added by section 2 of Public Law 89–516) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1723(b)(3), substituted "as authorized under regulations prescribed under section 5738 of this title" for "as the President may by regulation authorize".
@@ -67,6 +69,8 @@ Subsection (b) of section 25 of the Administrative Expenses Act of 1946 (added b
 Subsecs. (b), (c). Pub. L. 104–201, §1723(b)(1), substituted "Under regulations prescribed under section 5738 of this title" for "Under such regulations as the President may prescribe".
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–151 substituted "18,000" for "11,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

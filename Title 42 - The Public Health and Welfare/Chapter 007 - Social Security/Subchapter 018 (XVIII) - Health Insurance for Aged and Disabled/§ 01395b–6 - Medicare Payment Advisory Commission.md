@@ -84,7 +84,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (11) Interaction of Medicaid and Medicare
 
-&emsp;The Commission shall consult with MACPAC in carrying out its duties under this section, as appropriate. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with the Commission. Responsibility for analysis of and recommendations tochange Medicaid policy regarding Medicaid beneficiaries, including Medicaid beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MACPAC.
+&emsp;The Commission shall consult with MACPAC in carrying out its duties under this section, as appropriate. Responsibility for analysis of and recommendations to change Medicare policy regarding Medicare beneficiaries, including Medicare beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with the Commission. Responsibility for analysis of and recommendations to change Medicaid policy regarding Medicaid beneficiaries, including Medicaid beneficiaries who are dually eligible for Medicare and Medicaid, shall rest with MACPAC.
 
 #### (c) Membership
 
@@ -100,7 +100,7 @@ There is hereby established as an agency of Congress the Medicare Payment Adviso
 
 #### (B) Inclusion
 
-&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
+&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also includerepresentatives of consumers and the elderly.
 
 #### (C) Majority nonproviders
 
@@ -232,7 +232,7 @@ Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -256,11 +256,15 @@ In general.—The Comptroller General shall first provide for appointment of mem
 
 "(2)
 
-Transition.—As quickly as possible after the date a majority of members of MedPAC are first appointed \[Oct. 1, 1997, see 62 FR 52131\], the Comptroller General, in consultation with the Prospective Payment Assessment Commission (in this subsection referred to as 'ProPAC') and the Physician Payment Review Commission (in this subsection referred to as 'PPRC'), shall provide for the termination of the ProPAC and the PPRC. As of the date of termination of the respective Commissions \[Nov. 1, 1997, see 62 FR 59356\], the amendments made by paragraphs (1) and (2), respectively, of subsection (b) \[amending sections 1395w–4, 1395y, and 1395ww of this title and repealing section 1395w–1 of this title\] become effective. The Comptroller General, to the extent feasible, shall provide for the transfer to the MedPAC of assets and staff of the ProPAC and the PPRC, without any loss of benefits or seniority by virtue of such transfers. Fund balances available to the ProPAC or the PPRC for any period shall be available to the MedPAC for such period for like purposes.
+Transition.—As quickly as possible after the date a majority of members of MedPAC are first appointed \[Oct. 1, 1997, see 62 FR 52131\], the ComptrollerGeneral, in consultation with the Prospective Payment Assessment Commission (in this subsection referred to as 'ProPAC') and the Physician Payment Review Commission (in this subsection referred to as 'PPRC'), shall provide for the termination of the ProPAC and the PPRC. As of the date of termination of the respective Commissions \[Nov. 1, 1997, see 62 FR 59356\], the amendments made by paragraphs (1) and (2), respectively, of subsection (b) \[amending sections 1395w–4, 1395y, and 1395ww of this title and repealing section 1395w–1 of this title\] become effective. The Comptroller General, to the extent feasible, shall provide for the transfer to the MedPAC of assets and staff of the ProPAC and the PPRC, without any loss of benefits or seniority by virtue of such transfers. Fund balances available to the ProPAC or the PPRC for any period shall be available to the MedPAC for such period for like purposes.
 
 "(3)
 
 Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC."
+
+#### MedPAC Review of Payments to Rural Emergency Hospitals
+
+Pub. L. 116–260, div. CC, title I, §125(f), Dec. 27, 2020, 134 Stat. 2966, provided that: "Each report submitted by the Medicare Payment Advisory Commission under section 1805(b)(1)(C) of the Social Security Act (42 U.S.C. 1395b–6(b)(1)(C)) (beginning with 2024), shall include a review of payments to rural emergency hospitals under section 1834(x) \[42 U.S.C. 1395m(x)\], as added by subsection (a)."
 
 #### Appointment of Experts in Prescription Drugs
 
@@ -276,19 +280,7 @@ Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763,
 
 #### MedPAC Study on Complexity of Medicare Program and Levels of Burdens Placed on Providers Through Federal Regulations
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, provided that:
-
-"(1)
-
-Study.—The Medicare Payment Advisory Commission shall undertake a comprehensive study to review the regulatory burdens placed on all classes of health care providers under parts A and B of the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and to determine the costs these burdens impose on the nation's health care system. The study shall also examine the complexity of the current regulatory system and its impact on providers.
-
-"(2)
-
-Report.—Not later than December 31, 2001, the Commission shall submit to Congress one or more reports on the study conducted under paragraph (1). The report shall include recommendations regarding—
-
-&emsp;"(A) how the Health Care Financing Administration can reduce the regulatory burdens placed on patients and providers; and
-
-&emsp;"(B) legislation that may be appropriate to reduce the complexity of the medicare program, including improvement of the rules regarding billing, compliance, and fraud and abuse."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, required a comprehensive study related to regulatory burdens placed on health care providers and, no later than Dec. 31, 2001, a report and legislative recommendations.
 
 #### MedPAC Report
 
@@ -296,15 +288,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 
 
 #### MedPAC Study of Rural Providers
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §411\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, provided that:
-
-"(a)
-
-Study.—The Medicare Payment Advisory Commission shall conduct a study of rural providers furnishing items and services for which payment is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]. Such study shall examine and evaluate the adequacy and appropriateness of the categories of special payments (and payment methodologies) established for rural hospitals under the medicare program, and the impact of such categories on beneficiary access and quality of health care services.
-
-"(b)
-
-Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 29, 1999\], the Medicare Payment Advisory Commission shall submit to Congress a report on the study conducted under subsection (a)."
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §411\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, required a study evaluating the adequacy and appropriateness of the categories of special payments established for rural hospitals under the medicare program and a report to be submitted no later than 18 months after Nov. 29, 1999.
 
 #### Quality Improvement Standards
 
@@ -314,7 +298,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §520(c)\], Nov. 29, 1999, 11
 
 Study.—The Medicare Payment Advisory Commission shall conduct a study on the appropriate quality improvement standards that should apply to—
 
-&emsp;"(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan\(as described in subparagraph (A) of such section); and
+&emsp;"(A) each type of Medicare+Choice plan described in section 1851(a)(2) of the Social Security Act (42 U.S.C. 1395w–21(a)(2)), including each type of Medicare+Choice plan that is a coordinated care plan (as described in subparagraph (A) of such section); and
 
 &emsp;"(B) the original medicare fee-for-service program under parts A and B \[sic\] title XVIII of such Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq., 1395j et seq.\].
 

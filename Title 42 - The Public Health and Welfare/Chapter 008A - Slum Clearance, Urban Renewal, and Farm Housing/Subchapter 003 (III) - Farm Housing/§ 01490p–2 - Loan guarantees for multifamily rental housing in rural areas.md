@@ -10,7 +10,7 @@ A guarantee made under this section shall guarantee repayment of an amount not e
 
 #### (c) Eligible borrowers
 
-A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
+A loan guaranteed under this section may be made to a nonprofit organization, an agency orbody of any State government or political subdivision thereof, an Indian tribe, or a private entity.
 
 #### (d) Eligible housing
 
@@ -50,7 +50,7 @@ A loan may be guaranteed under this section only if the loan is used for the dev
 
 Each loan guaranteed pursuant to this section shall—
 
-&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date theloan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
+&emsp;(1) be made for a period of not less than 25 nor greater than 40 years from the date the loan was made and may provide for amortization of the loan over a period of not to exceed 40 years with a final payment of the balance due at the end of the loan term;
 
 &emsp;(2) involve a rate of interest agreed upon by the borrower and the lender that does not exceed the maximum allowable rate established by the Secretary for purposes of this section and is fixed over the term of the loan;
 
@@ -78,7 +78,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Notice of default
 
-&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
+&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holderof the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
 
 #### (2) Foreclosure
 
@@ -98,7 +98,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 &emsp;If the Secretary determines that a loan guaranteed by an eligible lender pursuant to delegation of authority under subsection (h) was not originated in accordance with the requirements under this section and the Secretary pays a claim under the guarantee for the loan, the Secretary may require the eligible lender authorized under subsection (h) to issue the guarantee certificate for the loan—
 
-&emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee wasmade within a reasonable period specified by the Secretary; or
+&emsp;&emsp;(A) to indemnify the Secretary for the loss, if the payment under the guarantee was made within a reasonable period specified by the Secretary; or
 
 &emsp;&emsp;(B) to indemnify the Secretary for the loss regardless of when payment under the guarantee was made, if the Secretary determines that fraud or misrepresentation was involved in connection with the origination of the loan.
 
@@ -126,7 +126,7 @@ Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed
 
 #### (n) Tenant protections
 
-The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
+The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed underthis section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
 #### (o) Housing standards
 
@@ -192,7 +192,7 @@ Any amounts collected by the Secretary pursuant to the fees charged to lenders f
 
 #### (v) Defaults of loans secured by reservation lands
 
-In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.),<sup>2</sup> the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by theSecretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.),<sup>2</sup> the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 (July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
 
@@ -220,7 +220,7 @@ Subsec. (f)(1). Pub. L. 106–569, §707(2), added par. (1) and struck out forme
 
 Subsec. (i)(2). Pub. L. 106–569, §707(3), substituted "(A) submission to the Secretary of a claim for payment under the guarantee, and (B) assignment" for "(A) conveyance to the Secretary of title to the security property, (B) submission to the Secretary of a claim for payment under the guarantee, and (C) assignment".
 
-Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: "The borrowerunder a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made."
+Subsec. (l). Pub. L. 106–569, §707(6), (7), redesignated subsec. (m) as (l) and struck out heading and text of former subsec. (l). Text read as follows: "The borrower under a loan that is guaranteed under this section and under which any portion of the principal obligation or interest remains outstanding may not be relieved of liability with respect to the loan, notwithstanding the transfer of property for which the loan was made."
 
 Subsecs. (m) to (r). Pub. L. 106–569, §707(7), redesignated subsecs. (n) to (s) as (m) to (r), respectively. Former subsec. (m) redesignated (l).
 

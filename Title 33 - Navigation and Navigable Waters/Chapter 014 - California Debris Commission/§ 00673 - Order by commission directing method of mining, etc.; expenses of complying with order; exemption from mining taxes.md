@@ -4,9 +4,13 @@ In case a majority of the members of said commission, within thirty days after t
 
 (Mar. 1, 1893, ch. 183, §13, 27 Stat. 508; Feb. 27, 1907, ch. 2077, 34 Stat. 1001.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1907</b>—Act Feb. 27, 1907, inserted "if any" after "restraining or impounding works" and inserted last two provisos.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

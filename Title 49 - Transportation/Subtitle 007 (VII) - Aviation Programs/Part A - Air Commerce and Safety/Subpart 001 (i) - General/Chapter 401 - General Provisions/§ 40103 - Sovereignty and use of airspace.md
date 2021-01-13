@@ -130,7 +130,7 @@ In subsection (a)(1), the word "has" is substituted for "is declared to possess 
 
 In subsection (a)(2), the words "of the United States" are omitted for consistency in the revised title and because of the definition of "navigable airspace" in section 40102(a) of the revised title. The words "or amending" are omitted as surplus.
 
-In subsection (b), the word "Administrator" in section 307(a), (c), and (d) of the Federal Aviation Act of1958 (Public Law 85–726, 72 Stat. 749, 750) is retained on authority of 49:106(g).
+In subsection (b), the word "Administrator" in section 307(a), (c), and (d) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 749, 750) is retained on authority of 49:106(g).
 
 In subsection (b)(1) and (3)(B), the word "rule" is omitted as being synonymous with "regulation".
 
@@ -159,6 +159,10 @@ National Disaster Areas.—Before the 180th day following the date of the enactm
 "(b)
 
 Exceptions.—Regulations issued pursuant to subsection (a) shall not be applicable in the case of aircraft overflights involving an emergency or a ligitimate \[sic\] scientific purpose."
+
+#### Deployment of Real-Time Status of Special Use Airspace
+
+Pub. L. 116–283, div. A, title X, §1085, Jan. 1, 2021, 134 Stat. 3877, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], to the maximum extent practicable, the Administrator of the Federal Aviation Administration, in coordination with the Secretary of Defense, shall enable the automated public dissemination of information on the real-time status of the activation or deactivation of military operations areas and restricted areas in a manner that is similar to the manner that temporary flight restrictions are published and disseminated."
 
 #### Air Traffic Control Operational Contingency Plans
 

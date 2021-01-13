@@ -16,9 +16,7 @@ Not less than $500,000 of the funds made available under this part for the fisca
 
 (Pub. L. 87–195, pt. I, §113, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §309, Dec. 20, 1975, 89 Stat. 860; Pub. L. 95–88, title I, §108, Aug. 3, 1977, 91 Stat. 536; Pub. L. 95–424, title I, §108, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title III, §305, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 101–513, title V, §562(d)(2), Nov. 5, 1990, 104 Stat. 2031.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -26,7 +24,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–113 added subsec. (c).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which relatedto Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
+<b>1979</b>—Subsec. (b). Pub. L. 96–53 redesignated subsec. (d) as (b), and repealed former subsec. (b) which related to Presidential report to Congress on the impact of development programs, etc., on the economic integration of women.
 
 Subsec. (c). Pub. L. 96–53 repealed subsec. (c) which required the report under former subsec. (b) to be submitted not later than one year after Aug. 3, 1977.
 
@@ -38,6 +36,12 @@ Subsec. (d). Pub. L. 96–53 redesignated subsec. (d) as (b).
 
 <b>1975</b>—Pub. L. 94–161 substituted "This subchapter" for "Sections 2151a through 2151e of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of this title.
@@ -45,6 +49,8 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

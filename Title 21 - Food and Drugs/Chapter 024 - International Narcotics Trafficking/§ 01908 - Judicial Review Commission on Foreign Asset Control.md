@@ -38,7 +38,7 @@ The Commission shall have as its duties the following:
 
 (2) The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this section. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the chairman of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
 
-(3) The Attorney General and the Secretary of the Treasury shall provide to the Commission,on a nonreimbursable basis, such administrative services, funds, facilities, and other support services as are necessary for the performance of the Commission's duties under this section.
+(3) The Attorney General and the Secretary of the Treasury shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, facilities, and other support services as are necessary for the performance of the Commission's duties under this section.
 
 (4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this section, including the provision of full and current briefings and analyses.
 
@@ -60,7 +60,7 @@ The Commission shall have as its duties the following:
 
 &emsp;(iii) The Central Intelligence Agency.
 
-(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
+(3) All staff of the Commission shall possess a security clearance in accordance with applicablelaws and regulations concerning the handling of classified information.
 
 #### (f) Compensation and travel expenses
 
@@ -100,11 +100,15 @@ The Attorney General shall, from amounts authorized to be appropriated to the At
 
 (Pub. L. 106–120, title VIII, §810, Dec. 3, 1999, 113 Stat. 1633.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 This Act, referred to in subsec. (j), is Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1606, known as the Intelligence Authorization Act for Fiscal Year 2000. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

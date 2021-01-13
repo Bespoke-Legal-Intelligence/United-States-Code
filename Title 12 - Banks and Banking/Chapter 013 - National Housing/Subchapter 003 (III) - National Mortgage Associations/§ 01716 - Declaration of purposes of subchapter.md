@@ -14,6 +14,8 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 (June 27, 1934, ch. 847, title III, §301, 48 Stat. 1252; May 28, 1935, ch. 150, §30, 49 Stat. 300; Feb. 3, 1938, ch. 13, §§4, 5, 52 Stat. 23; June 3, 1939, ch. 175, §§15, 16, 53 Stat. 808; Mar. 28, 1941, ch. 31, §5, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 10, 1948, ch. 832, title II, §§201, 202, 62 Stat. 1275; Aug. 8, 1949, ch. 403, §4, 63 Stat. 576; Oct. 25, 1949, ch. 729, §7, 63 Stat. 906; Apr. 20, 1950, ch. 94, title I, §§116, 122, 64 Stat. 57, 59; Sept. 1, 1951, ch. 378, title II, §205, title VI, §608(b), 65 Stat. 303, 315; Apr. 9, 1952, ch. 173, 66 Stat. 51; July 14, 1952, ch. 723, §§3(a), 10(a)(2), 66 Stat. 602, 603; June 30, 1953, ch. 170, §§12, 13(a), 67 Stat. 125; June 29, 1954, ch. 410, §1(1), 68 Stat. 320; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 612; Pub. L. 90–448, title VIII, §802(b), Aug. 1, 1968, 82 Stat. 536; Pub. L. 101–73, title VII, §731(m)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1381(a), Oct. 28, 1992, 106 Stat. 3994.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–550, §1381(a)(1), substituted "residential" for "home" in introductory provisions.
@@ -68,7 +70,7 @@ Subsec. (a)(1)(E). Joint Res. Oct. 25, 1949, struck out proviso and inserted new
 
 <b>1948</b>—Act July 1, 1948, amended section generally to create a Federal National Mortgage Association with power to purchase, service, or sell insured or guaranteed mortgage, provide for the powers and succession of the Association, and to eliminate the former national mortgage association.
 
-Subsec. (a)(1). Act Aug. 10, 1948, §§201, 202, substituted "subchapter II or VI of this chapter" for "section 1709 or 1738 of this title", inserted "after April 30, 1948", after "or guaranteed", and substituted "50" for "25" in cl. (2) of par. (1) (E).
+Subsec. (a)(1). Act Aug. 10, 1948, §§201, 202, substituted "subchapter II or VI of this chapter" for "section 1709or 1738 of this title", inserted "after April 30, 1948", after "or guaranteed", and substituted "50" for "25" in cl. (2) of par. (1) (E).
 
 <b>1941</b>—Subsec. (a)(2). Act Mar. 28, 1941, substituted "subchapters II and VI" for "subchapter II".
 
@@ -82,6 +84,8 @@ Subsec. (d). Act Feb. 3, 1938, substituted "$2,000,000" for "$5,000,000," and "t
 
 <b>1935</b>—Subsec. (d). Act May 28, 1935, substituted "$5,000,000" for "$2,000,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1968 Amendment
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
@@ -90,11 +94,13 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 Joint Res. Oct. 25, 1949, ch. 729, §7, 63 Stat. 906, provided in part: "That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen's Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\]."
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Housing and Urban Development, see Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under section 301 of Title 3, The President.
-
 #### Service or Sale of Mortgages Purchased Prior to July 1, 1948; Fulfillment of Prior Commitments
 
 Act July 1, 1948, ch. 784, §2, 62 Stat. 1209, provided that: "Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\]."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Housing and Urban Development, see Ex. Ord. No. 11732, July 30, 1973, 38 F.R. 20429, set out as a note under section 301 of Title 3, The President.
 

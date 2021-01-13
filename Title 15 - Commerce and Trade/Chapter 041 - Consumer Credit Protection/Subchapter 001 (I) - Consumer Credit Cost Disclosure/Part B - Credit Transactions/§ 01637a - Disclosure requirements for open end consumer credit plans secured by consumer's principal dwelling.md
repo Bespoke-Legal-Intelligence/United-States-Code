@@ -96,7 +96,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;A statement that—
 
-&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of anyoutstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
+&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
 &emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
 
@@ -182,7 +182,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (1)(B), the disclosures required under subsection (a) shall be provided on or with any application to establish an account under an open endconsumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling.
+&emsp;&emsp;Except as provided in paragraph (1)(B), the disclosures required under subsection (a) shall be provided on or with any application to establish an account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer's principal dwelling.
 
 #### (B) Segregation of required disclosures from other information
 

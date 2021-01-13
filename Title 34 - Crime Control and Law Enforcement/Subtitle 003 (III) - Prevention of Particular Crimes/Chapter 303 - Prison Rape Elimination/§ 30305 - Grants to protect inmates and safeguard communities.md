@@ -72,7 +72,7 @@ Amounts received by a grantee under this section may be used by the grantee, dir
 
 &emsp;&emsp;&emsp;(ii) describe the rate of growth of the State's prison population over the preceding 10 years and explain why the State may have difficulty sustaining that rate of growth; and
 
-&emsp;&emsp;&emsp;(iii) explain the extent to which officials (including law enforcement officials) of State and local governments and victimsof crime will be consulted regarding decisions whether, or how, to moderate the growth of the State's prison population.
+&emsp;&emsp;&emsp;(iii) explain the extent to which officials (including law enforcement officials) of State and local governments and victims of crime will be consulted regarding decisions whether, or how, to moderate the growth of the State's prison population.
 
 #### (e) Reports by grantee
 
@@ -103,6 +103,8 @@ In this section, the term "State" includes the District of Columbia, the Commonw
 &emsp;Of amounts made available for grants under this section, not less than 50 percent shall be available only for activities specified in paragraph (1) of subsection (b).
 
 (Pub. L. 108–79, §6, Sept. 4, 2003, 117 Stat. 978; Pub. L. 114–324, §7(1), Dec. 16, 2016, 130 Stat. 1951.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

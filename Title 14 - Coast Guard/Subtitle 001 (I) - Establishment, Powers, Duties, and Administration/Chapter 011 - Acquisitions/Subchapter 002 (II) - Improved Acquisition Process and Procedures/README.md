@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—IMPROVED ACQUISITION PROCESS AND PROCEDURES
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §108(c)(3), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter II designation and heading.

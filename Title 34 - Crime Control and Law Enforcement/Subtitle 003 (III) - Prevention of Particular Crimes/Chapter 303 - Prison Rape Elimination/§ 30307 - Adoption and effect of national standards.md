@@ -42,7 +42,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Considerations
 
-&emsp;In adopting standards under paragraph (1), the Secretary of Homeland Security shall givedue consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
+&emsp;In adopting standards under paragraph (1), the Secretary of Homeland Security shall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
 
 #### (5) Definition
 
@@ -194,7 +194,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Cooperation with survey
 
-&emsp;For each fiscal year, any amount that a State receives for that fiscal year under agrant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chief executive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 30303(c)(2)(C) of this title.
+&emsp;For each fiscal year, any amount that a State receives for that fiscal year under a grant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chief executive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 30303(c)(2)(C) of this title.
 
 #### (5) Redistribution of amounts
 
@@ -234,7 +234,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The PREA Management Office may suspend an auditor's certification during an evaluation of an auditor's performance under subparagraph (A)(iii). The PREA Management Office shall promptly publish the names of auditors who have been decertified, and the reason for decertification. Auditors who have been decertified or are on suspension may not participate in audits described in subsection (a), including as an agent of a certified auditor.
+&emsp;&emsp;&emsp;The PREA Management Office may suspend an auditor's certification during anevaluation of an auditor's performance under subparagraph (A)(iii). The PREA Management Office shall promptly publish the names of auditors who have been decertified, and the reason for decertification. Auditors who have been decertified or are on suspension may not participate in audits described in subsection (a), including as an agent of a certified auditor.
 
 #### (ii) Notification
 
@@ -250,6 +250,8 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 (Pub. L. 108–79, §8, Sept. 4, 2003, 117 Stat. 985; Pub. L. 113–4, title XI, §1101(c), Mar. 7, 2013, 127 Stat. 134; Pub. L. 114–324, §§5, 7(2), Dec. 16, 2016, 130 Stat. 1950, 1951; Pub. L. 115–274, §4, Oct. 31, 2018, 132 Stat. 4161.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 15607 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -260,7 +262,7 @@ Section was formerly classified to section 15607 of Title 42, The Public Health 
 
 <b>2016</b>—Subsec. (e)(1)(A)(iii). Pub. L. 114–324, §5, added cl. (iii).
 
-Subsec. (e)(2). Pub. L. 114–324, §7(2)(A), added par. (2) and struck out former par. (2) which read as follows:"For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
+Subsec. (e)(2). Pub. L. 114–324, §7(2)(A), added par. (2) and struck out former par. (2) which read as follows: "For each fiscal year, any amount that a State would otherwise receive for prison purposes for that fiscal year under a grant program covered by this subsection shall be reduced by 5 percent, unless the chief executive of the State submits to the Attorney General—
 
 &emsp;"(A) a certification that the State has adopted, and is in full compliance with, the national standards described in subsection (a); or
 

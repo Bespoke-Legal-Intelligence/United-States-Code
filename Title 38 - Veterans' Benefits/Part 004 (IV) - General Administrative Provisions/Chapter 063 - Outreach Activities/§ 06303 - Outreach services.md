@@ -6,7 +6,7 @@ Requirement To Provide Services.—In carrying out the purposes of this chapter,
 
 (b)
 
-Individual Notice to New Veterans.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, or air service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on thebasis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
+Individual Notice to New Veterans.—The Secretary shall by letter advise each veteran at the time of the veteran's discharge or release from active military, naval, air, or space service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under section 3485 of this title, that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
 
 (c)
 
@@ -26,11 +26,311 @@ Provision of Aid and Assistance.—The Secretary shall provide, to the maximum e
 
 Assignment of Employees.—In carrying out this section, the Secretary shall assign such employees as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
 
-(Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 408.)
+(Added Pub. L. 109–233, title IV, §402(a), June 15, 2006, 120 Stat. 408; amended Pub. L. 116–283, div. A, title IX, §926(a)(59), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 7722 of this title prior to repeal by Pub. L. 109–233.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 "air, or space service" for "or air service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Continuation of Women's Health Transition Training Program of Department of Veterans Affairs
+
+Pub. L. 116–315, title III, §3005(a), Jan. 5, 2021, 134 Stat. 4993, provided that: "The Secretary of Veterans Affairs shall carry out the Women's Health Transition Training program of the Department of Veterans Affairs (in this section \[remainder of section 3005 of Pub. L. 116–315 not classified to the Code\] referred to as the 'Program') until at least one year after the date of the enactment of this Act \[Jan. 5, 2021\]."
+
+#### Pilot Program on Assisting Veterans Who Experience Intimate Partner Violence or Sexual Assault
+
+Pub. L. 116–315, title V, §5304, Jan. 5, 2021, 134 Stat. 5041, provided that:
+
+"(a)
+
+Pilot Program Required.—The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of assisting former members of the Armed Forces who have experienced or are experiencing intimate partner violence or sexual assault in accessing benefits from the Department of Veterans Affairs, including coordinating access to medical treatment centers, housing assistance, and other benefits from the Department.
+
+"(b)
+
+Duration.—The Secretary shall carry out the pilot program under subsection (a) during the two-year period beginning on the date of the commencement of the pilot program.
+
+"(c)
+
+Collaboration.—The Secretary shall carry out the pilot program under subsection (a) in collaboration with—
+
+&emsp;"(1) intimate partner violence shelters and programs;
+
+&emsp;"(2) rape crisis centers;
+
+&emsp;"(3) State intimate partner violence and sexual assault coalitions; and
+
+&emsp;"(4) such other health care or other service providers that serve intimate partner violence or sexual assault victims as determined by the Secretary, particularly those providing emergency services or housing assistance.
+
+"(d)
+
+Authorized Activities.—In carrying out the pilot program under subsection (a), the Secretary may conduct the following activities:
+
+&emsp;"(1) Training for community-based intimate partner violence or sexual assault service providers on—
+
+&emsp;&emsp;"(A) identifying former members of the Armed Forces who have been victims of, or are currently experiencing, intimate partner violence or sexual assault;
+
+&emsp;&emsp;"(B) coordinating with local service providers of the Department; and
+
+&emsp;&emsp;"(C) connecting former members of the Armed Forces with appropriate housing, mental health, medical, and other financial assistance or benefits from the Department.
+
+&emsp;"(2) Assistance to service providers to ensure access of veterans to intimate partner violence and sexual assault emergency services, particularly in underserved areas, including services for Native American veterans (as defined in section 3765 of title 38, United States Code).
+
+&emsp;"(3) Such other outreach and assistance as the Secretary determines necessary for the provision of assistance under subsection (a).
+
+"(e)
+
+Intimate Partner Violence and Sexual Assault Outreach Coordinators.—
+
+&emsp;"(1)
+
+In general.—In order to effectively assist veterans who have experienced intimate partner violence or sexual assault, the Secretary may establish local coordinators to provide outreach under the pilot program required by subsection (a).
+
+&emsp;"(2)
+
+Local coordinator knowledge.—The Secretary shall ensure that each coordinator established under paragraph (1) is knowledgeable about—
+
+&emsp;&emsp;"(A) the dynamics of intimate partner violence and sexual assault, including safety concerns, legal protections, and the need for the provision of confidential services;
+
+&emsp;&emsp;"(B) the eligibility of veterans for services and benefits from the Department that are relevant to recovery from intimate partner violence and sexual assault, particularly emergency housing assistance, mental health care, other health care, and disability benefits; and
+
+&emsp;&emsp;"(C) local community resources addressing intimate partner violence and sexual assault.
+
+&emsp;"(3)
+
+Local coordinator assistance.—Each coordinator established under paragraph (1) shall assist intimate partner violence shelters and rape crisis centers in providing services to veterans.
+
+"(f)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the completion of the pilot program under subsection (a), the Secretary shall submit to Congress a report on the pilot program.
+
+&emsp;"(2)
+
+Contents.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The findings and conclusions of the Secretary with respect to the pilot program.
+
+&emsp;&emsp;"(B) Such recommendations for continuing or expanding the pilot program as the Secretary considers appropriate.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Intimate partner.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'intimate partner' means a person with whom one has a close personal relationship that may be characterized by the partners' emotional connectedness, regular contact, ongoing physical contact and sexual behavior, identity as a couple, and familiarity and knowledge about each other's lives.
+
+&emsp;&emsp;"(B)
+
+Close personal relationships.—In this paragraph, the term 'close personal relationships' includes the following:
+
+&emsp;&emsp;&emsp;"(i) A relationship between married spouses.
+
+&emsp;&emsp;&emsp;"(ii) A relationship between common-law spouses.
+
+&emsp;&emsp;&emsp;"(iii) A relationship between civil union spouses.
+
+&emsp;&emsp;&emsp;"(iv) A relationship between domestic partners.
+
+&emsp;&emsp;&emsp;"(v) A relationship between dating partners.
+
+&emsp;&emsp;&emsp;"(vi) A relationship between ongoing sexual partners.
+
+&emsp;"(2)
+
+Intimate partner violence.—The term 'intimate partner violence' includes physical violence, sexual violence, stalking, and psychological aggression, including coercive tactics by a current or former intimate partner."
+
+#### Pilot Program on Information Sharing Between Department of Veterans Affairs and Designated Relatives and Friends of Veterans Regarding Assistance and Benefits Available to the Veterans
+
+Pub. L. 116–214, title I, §101, Dec. 5, 2020, 134 Stat. 1027, provided that:
+
+"(a)
+
+Pilot Program Required.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 5, 2020\], the Secretary of Veterans Affairs shall commence carrying out a pilot program—
+
+&emsp;&emsp;"(A) to encourage members of the Armed Forces who are transitioning from service in the Armed Forces to civilian life, before separating from such service, to designate up to 10 persons to whom information regarding the assistance and benefits available to the veterans under laws administered by the Secretary shall be disseminated using the contact information obtained under paragraph (7); and
+
+&emsp;&emsp;"(B) provides such persons, within 30 days after the date on which such persons are designated under subparagraph (A), the option to elect to receive such information.
+
+&emsp;"(2)
+
+Duration.—The Secretary shall carry out the pilot program during a period beginning on the date of the commencement of the pilot program that is not less than two years.
+
+&emsp;"(3)
+
+Dissemination.—The Secretary shall disseminate information described in paragraph (1)(A) under the pilot program no less than quarterly.
+
+&emsp;"(4)
+
+Types of information.—The types of information to be disseminated under the pilot program to persons who elect to receive such information shall include information regarding the following:
+
+&emsp;&emsp;"(A) Services and benefits offered to veterans and their family members by the Department of Veterans Affairs.
+
+&emsp;&emsp;"(B) Challenges and stresses that might accompany transitioning from service in the Armed Forces to civilian life.
+
+&emsp;&emsp;"(C) Services available to veterans and their family members to cope with the experiences and challenges of service in the Armed Forces and transition from such service to civilian life.
+
+&emsp;&emsp;"(D) Services available through community partner organizations to support veterans and their family members.
+
+&emsp;&emsp;"(E) Services available through Federal, State, and local government agencies to support veterans and their family members.
+
+&emsp;&emsp;"(F) The environmental health registry program, health and wellness programs, and resources for preventing and managing diseases and illnesses.
+
+&emsp;&emsp;"(G) A toll-free telephone number through which such persons who elect to receive information under the pilot program may request information regarding the program.
+
+&emsp;&emsp;"(H) Such other matters as the Secretary, in consultation with members of the Armed Forces and such persons who elect to receive information under the pilot program, determines to be appropriate.
+
+&emsp;"(5)
+
+Privacy of information.—In carrying out the pilot program, the Secretary may not disseminate information under paragraph (4) in violation of laws and regulations pertaining to the privacy of members of the Armed Forces, including requirements pursuant to—
+
+&emsp;&emsp;"(A) section 552a of title 5, United States Code; and
+
+&emsp;&emsp;"(B) the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) \[see Tables for classification\].
+
+&emsp;"(6)
+
+Notice and modifications.—In carrying out the pilot program, the Secretary shall, with respect to a veteran—
+
+&emsp;&emsp;"(A) ensure that such veteran is notified of the ability to modify designations made by such veteran under paragraph (1)(A); and
+
+&emsp;&emsp;"(B) upon the request of a veteran, authorize such veteran to modify such designations at any time.
+
+&emsp;"(7)
+
+Contact information.—In making a designation under the pilot program, a veteran shall provide necessary contact information, specifically including an email address, to facilitate the dissemination of information regarding the assistance and benefits available to the veteran under laws administered by the Secretary.
+
+&emsp;"(8)
+
+Opt-in and opt-out of pilot program.—
+
+&emsp;&emsp;"(A)
+
+Opt-in by members.—A veteran may participate in the pilot program only if the veteran voluntarily elects to participate in the program. A veteran seeking to make such an election shall make such election in a manner, and by including such information, as the Secretary shall specify for purposes of the pilot program.
+
+&emsp;&emsp;"(B)
+
+Opt-in by designated recipients.—A person designated pursuant to paragraph (1)(A) may receive information under the pilot program only if the person makes the election described in paragraph (1)(B).
+
+&emsp;&emsp;"(C)
+
+Opt-out.—In carrying out the pilot program, the Secretary shall, with respect to a person who has elected to receive information under such pilot program, cease disseminating such information to that person upon request of such person.
+
+"(b)
+
+Survey and Report on Pilot Program.—
+
+&emsp;"(1)
+
+Survey.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the commencement of the pilot program and not less frequently than once each year thereafter for the duration of the pilot program, the Secretary shall administer a survey to persons who ever elected to receive information under the pilot program for the purpose of receiving feedback regarding the quality of information disseminated under this section.
+
+&emsp;&emsp;"(B)
+
+Elements.—Each survey conducted under subparagraph (A) shall include solicitation of the following:
+
+&emsp;&emsp;&emsp;"(i) Feedback on the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The nature of information disseminated under the pilot program.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Satisfaction with the pilot program.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The utility of the pilot program.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) Overall pilot program successes and challenges.
+
+&emsp;&emsp;&emsp;"(ii) Recommendations for improving the pilot program.
+
+&emsp;&emsp;&emsp;"(iii) Reasons for opting in or out of the pilot program.
+
+&emsp;&emsp;&emsp;"(iv) Such other feedback or matters as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than three years after the date on which the pilot program commences, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a final report on the pilot program.
+
+&emsp;&emsp;"(B)
+
+Contents.—The report submitted under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) The results of the survey administered under paragraph (1).
+
+&emsp;&emsp;&emsp;"(ii) The number of participants enrolled in the pilot program who are veterans.
+
+&emsp;&emsp;&emsp;"(iii) The number of persons designated under subsection (a)(1)(A).
+
+&emsp;&emsp;&emsp;"(iv) The number of such persons who opted in or out of the pilot program under subsection (a)(8).
+
+&emsp;&emsp;&emsp;"(v) The average period such persons remained in the pilot program.
+
+&emsp;&emsp;&emsp;"(vi) An assessment of the feasibility and advisability of making the pilot program permanent.
+
+&emsp;&emsp;&emsp;"(vii) Identification of legislative or administrative action that may be necessary if the pilot program is made permanent.
+
+&emsp;&emsp;&emsp;"(viii) A plan to expand the pilot program if the pilot program is made permanent.
+
+&emsp;&emsp;&emsp;"(ix) If the Secretary finds under clause (vi) that making the pilot program permanent is not feasible or advisable, a justification for such finding."
+
+#### Expansion of Capabilities of Women Veterans Call Center
+
+Pub. L. 116–315, title V, §5109, Jan. 5, 2021, 134 Stat. 5033, provided that: "The Secretary of Veterans Affairs shall enhance the capabilities of the women veterans call center of the Department of Veterans Affairs to respond to requests by women veterans for assistance with accessing health care and benefits furnished under the laws administered by the Secretary."
+
+Pub. L. 116–171, title VI, §601, Oct. 17, 2020, 134 Stat. 824, provided that: "The Secretary of Veterans Affairs shall expand the capabilities of the Women Veterans Call Center of the Department of Veterans Affairs to include a text messaging capability."
+
+#### Requirement for Department of Veterans Affairs Internet Website To Provide Information on Services Available to Women Veterans
+
+Pub. L. 116–171, title VI, §602, Oct. 17, 2020, 134 Stat. 824, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall survey the internet websites and information resources of the Department of Veterans Affairs in effect on the day before the date of the enactment of this Act \[Oct. 17, 2020\] and publish an internet website that serves as a centralized source for the provision to women veterans of information about the benefits and services available to them under laws administered by the Secretary.
+
+"(b)
+
+Elements.—The internet website published under subsection (a) shall provide to women veterans information regarding all services available in the district in which the veteran is seeking such services, including, with respect to each medical center and community-based outpatient clinic in the applicable Veterans Integrated Service Network—
+
+&emsp;"(1) the name and contact information of each women's health coordinator;
+
+&emsp;"(2) a list of appropriate staff for other benefits available from the Veterans Benefits Administration, the National Cemetery Administration, and such other entities as the Secretary considers appropriate; and
+
+&emsp;"(3) such other information as the Secretary considers appropriate.
+
+"(c)
+
+Updated Information.—The Secretary shall ensure that the information described in subsection (b) that is published on the internet website required by subsection (a) is updated not less frequently than once every 90 days.
+
+"(d)
+
+Outreach.—In carrying out this section, the Secretary shall ensure that the outreach conducted under section 1720F(i) of title 38, United States Code, includes information regarding the internet website required by subsection (a).
+
+"(e)
+
+Derivation of Funds.—Amounts used by the Secretary to carry out this section shall be derived from amounts made available to the Secretary to publish internet websites of the Department."
 
 #### Veterans Treatment Court Improvement
 
@@ -94,7 +394,7 @@ Report by secretary of veterans affairs.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of this section and its effect on the Veterans Justice Outreach Program.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of thissection and its effect on the Veterans Justice Outreach Program.
 
 &emsp;&emsp;"(B)
 
@@ -200,7 +500,7 @@ Pub. L. 100–687, div. B, title XII, §1204, Nov. 18, 1988, 102 Stat. 4125, as 
 
 "(a)
 
-Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct an active, continuous outreach program for furnishing to veterans of active military, naval, or air service who served in the Republic of Vietnam during the Vietnam era information relating to—
+Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct an active, continuousoutreach program for furnishing to veterans of active military, naval, or air service who served in the Republic of Vietnam during the Vietnam era information relating to—
 
 &emsp;"(A) the health risks (if any) resulting from exposure during that service to dioxin or any other toxic agent in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era; and
 

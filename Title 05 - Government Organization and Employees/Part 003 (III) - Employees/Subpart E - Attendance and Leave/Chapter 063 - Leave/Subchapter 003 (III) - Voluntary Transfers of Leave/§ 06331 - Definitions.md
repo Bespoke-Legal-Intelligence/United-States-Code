@@ -12,13 +12,17 @@ For the purpose of this subchapter—
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2834; amended Pub. L. 103–103, §3, Oct. 8, 1993, 107 Stat. 1022.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Par. (4). Pub. L. 103–103 inserted "the term" after par. designation and inserted before period at end "(disregarding any advanced leave)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–103, §6, Oct. 8, 1993, 107 Stat. 1024, provided that: "Except as provided in section 2 \[enacting and repealing provisions set out as notes under this section\], this Act \[amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title\] and theamendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act \[Oct. 8, 1993\] or such earlier date as the Office of Personnel Management may by regulation prescribe."
+Pub. L. 103–103, §6, Oct. 8, 1993, 107 Stat. 1024, provided that: "Except as provided in section 2 \[enacting and repealing provisions set out as notes under this section\], this Act \[amending this section and sections 6337, 6361, 6362, and 6373 of this title and enacting provisions set out as a note under section 6301 of this title\] and the amendments made by this Act shall take effect as of the 120th day after the date of the enactment of this Act \[Oct. 8, 1993\] or such earlier date as the Office of Personnel Management may by regulation prescribe."
 
 #### Repeals
 

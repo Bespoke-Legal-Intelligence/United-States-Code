@@ -8,7 +8,7 @@
 
 #### (2) Image competition for recreation pass
 
-&emsp;The Secretaries shall hold an annual competition to select the image to be used on theNational Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
+&emsp;The Secretaries shall hold an annual competition to select the image to be used on the National Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
 
 #### (3) Notice of establishment
 
@@ -38,7 +38,7 @@
 
 #### (7) Administrative guidelines
 
-&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for age and disability discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
+&emsp;The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
 
 #### (8) Development and implementation agreements
 
@@ -52,7 +52,7 @@
 
 #### (1) Age discount
 
-&emsp;(A) The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be available—
+&emsp;(A) The Secretary shall make the National Parks and Federal Recreational Lands Pass available to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this paragraph shall be available—
 
 &emsp;&emsp;(i) for a period of 12 months from the date of the issuance, at a cost of $20; and
 
@@ -62,7 +62,15 @@
 
 #### (2) Disability discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
+
+&emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof of the disability and such citizenship or residency.
+
+&emsp;&emsp;(B) Any veteran who has been found to have a service-connected disability under title 38.
+
+#### (3) Gold Star Families parks pass
+
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
 
 #### (c) Site-specific agency passes
 
@@ -72,11 +80,11 @@ The Secretary may establish and charge a fee for a site-specific pass that will 
 
 #### (1) Passes authorized
 
-&emsp;The Secretary may establish and charge a fee for a regional multientity pass that will be accepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.
+&emsp;The Secretary may establish and charge a fee for a regional multientity pass that will beaccepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.
 
 #### (2) Regional multientity pass agreement
 
-&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, thesharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
+&emsp;In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, the sharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
 
 #### (e) Discounted or free admission days or use
 
@@ -92,7 +100,7 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 &emsp;A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484.)
+(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677.)
 
 #### References in Text
 
@@ -105,6 +113,16 @@ The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1)
 In subsec. (f), "section 100904 of title 54" substituted for "section 4 of the Land and Water Conservation Fund Act of 1965" in two places on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7). Pub. L. 116–283, §625(b)(1), struck out "age and disability" before "discounts".
+
+Subsec. (b)(1)(A). Pub. L. 116–283, §625(b)(2)(A), substituted "this paragraph" for "this subsection" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 116–283, §625(b)(2)(B), which directed the substitution of "this paragraph" for "this subsection", could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+
+Subsec. (b)(3). Pub. L. 116–283, §625(a), added par. (3).
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–289 designated existing provisions as subpar. (A), struck out ", at a cost of $10.00," before "to any United States citizen", substituted "shall be available—" and cls. (i) and (ii) for "shall be valid for the lifetime of the pass holder.", and added subpar. (B).
 
@@ -154,7 +172,7 @@ State.—The term 'State' means each of the several States, the District of Colu
 
 &emsp;"(5)
 
-Student or students.—The term 'student' or 'students' means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States.
+Student or students.—The term 'student' or 'students' means any fourth grader or home-schooledlearner 10 years of age residing in the United States, including any territory or possession of the United States.
 
 "(b)
 

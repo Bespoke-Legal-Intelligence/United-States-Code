@@ -4,9 +4,13 @@ For the proper control, protection, and defense of the naval station, harbor, an
 
 (Aug. 22, 1912, ch. 335, 37 Stat. 341.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Naval Appropriation Act for 1913.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Hawaii as State
 

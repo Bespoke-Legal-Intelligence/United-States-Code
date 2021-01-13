@@ -4,17 +4,17 @@
 
 #### (1) State authority
 
-&emsp;Subject to section 300gg–23 <sup>1</sup> of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part with respect to such issuers.
+&emsp;Subject to section 300gg–23 <sup>1</sup> of this title, each State may require that health insurance issuers that issue, sell, renew, or offer health insurance coverage in the State in the individual or group market meet the requirements of this part and part D with respect to such issuers.
 
 #### (2) Failure to implement provisions
 
-&emsp;In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
+&emsp;In the case of a determination by the Secretary that a State has failed to substantially enforce a provision (or provisions) in this part or part D with respect to health insurance issuers in the State, the Secretary shall enforce such provision (or provisions) under subsection (b) insofar as they relate to the issuance, sale, renewal, and offering of health insurance coverage in connection with group health plans or individual health insurance coverage in such State.
 
 #### (b) Secretarial enforcement authority
 
 #### (1) Limitation
 
-&emsp;The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part only—
+&emsp;The provisions of this subsection shall apply to enforcement of a provision (or provisions) of this part or part D only—
 
 &emsp;&emsp;(A) as provided under subsection (a)(2); and
 
@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part applicable to such plan or issuer is subject to a civil money penalty under this subsection.
+&emsp;&emsp;Subject to the succeeding provisions of this subsection, any non-Federal governmental plan that is a group health plan and any health insurance issuer that fails to meet a provision of this part or part D applicable to such plan or issuer is subject to a civil money penalty under this subsection.
 
 #### (B) Liability for penalty
 
@@ -48,7 +48,7 @@
 
 #### (ii) Considerations in imposition
 
-&emsp;&emsp;&emsp;In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and the gravity of the violation.
+&emsp;&emsp;&emsp;In determining the amount of any penalty to be assessed under this paragraph, the Secretary shall take into account the previous record of compliance of the entity being assessed with the applicable provisions of this part and part D and the gravity of the violation.
 
 #### (iii) Limitations
 
@@ -100,7 +100,7 @@
 
 #### (G) Payment of penalties
 
-&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paidto the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
+&emsp;&emsp;Except as otherwise provided, penalties collected under this paragraph shall be paid to the Secretary (or other officer) imposing the penalty and shall be available without appropriation and until expended for the purpose of enforcing the provisions with respect to which the penalty was imposed.
 
 #### (3) Enforcement authority relating to genetic discrimination
 
@@ -166,7 +166,11 @@
 
 &emsp;&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by subparagraph (A) to the extent that the payment of such penalty would be excessive relative to the failure involved.
 
-(July 1, 1944, ch. 373, title XXVII, §2723, formerly §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat. 891; renumbered §2736, renumbered §2723, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(13), formerly §1562(c)(13), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2723, formerly §2722, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1968; amended Pub. L. 110–233, title I, §102(a)(5), May 21, 2008, 122 Stat. 891; renumbered §2736, renumbered §2723, and amended Pub. L. 111–148, title I, §§1001(4), 1563(c)(13), formerly §1562(c)(13), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(C), Dec. 27, 2020, 134 Stat. 2772.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 102(a)(3)(C) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
 #### References in Text
 
@@ -182,6 +186,12 @@ A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is cla
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §102(a)(3)(C)(i), inserted "and part D" after "this part".
+
+Subsecs. (a)(2), (b)(1), (2)(A). Pub. L. 116–260, §102(a)(3)(C)(ii)–(iv), inserted "or part D" after "this part".
+
+Subsec. (b)(2)(C)(ii). Pub. L. 116–260, §102(a)(3)(C)(v), inserted "and part D" after "this part".
+
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(13)(A)(i), formerly §1562(c)(13)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "individual or group market" for "small or large group markets".
 
 Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "or individual health insurance coverage" after "group health plans".
@@ -189,6 +199,10 @@ Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(
 Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "individual health insurance coverage or" after "with respect to".
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022,see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

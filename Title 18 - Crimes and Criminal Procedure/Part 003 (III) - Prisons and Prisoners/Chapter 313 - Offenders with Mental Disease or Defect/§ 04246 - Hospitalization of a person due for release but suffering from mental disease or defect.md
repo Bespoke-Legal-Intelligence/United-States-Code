@@ -2,7 +2,7 @@
 
 (a)
 
-Institution of Proceeding.—If the director of a facility in which a person is hospitalized certifies that a person in the custody of the Bureau of Prisons whose sentence is about to expire, or who has been committed to the custody of the Attorney General pursuant to section 4241(d), or against whom all criminal charges have been dismissed solely for reasons related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, and that suitable arrangements for State custody and care of the person are not available, he shall transmit the certificate to the clerk of the court for the district in which the person is confined. The clerk shall send a copy of the certificate to the person, and to the attorney for the Government, and, if the person was committed pursuant to section 4241(d), to the clerk of the court that ordered the commitment. The court shall order a hearing to determine whether the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another. A certificate filed under this subsection shall stay the release of the person pending completion of procedures contained in this section.
+Institution of Proceeding.—If the director of a facility in which a person is hospitalized certifies that a person in the custody of the Bureau of Prisons whose sentence is about to expire, or who has been committed to the custody of the Attorney General pursuant to section 4241(d), or against whom all criminal charges have been dismissed solely for reasons related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person orserious damage to property of another, and that suitable arrangements for State custody and care of the person are not available, he shall transmit the certificate to the clerk of the court for the district in which the person is confined. The clerk shall send a copy of the certificate to the person, and to the attorney for the Government, and, if the person was committed pursuant to section 4241(d), to the clerk of the court that ordered the commitment. The court shall order a hearing to determine whether the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another. A certificate filed under this subsection shall stay the release of the person pending completion of procedures contained in this section.
 
 (b)
 
@@ -24,7 +24,7 @@ Determination and Disposition.—If, after the hearing, the court finds by clear
 
 (e)
 
-Discharge.—When the director of the facility in which a person is hospitalized pursuant tosubsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
+Discharge.—When the director of the facility in which a person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
 
 &emsp;(1) his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall order that he be immediately discharged; or
 
@@ -42,13 +42,15 @@ Revocation of Conditional Discharge.—The director of a medical facility respon
 
 (g)
 
-Release to State of Certain Other Persons.—If the director of a facility in which a person is hospitalized pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than ten days after certification by the director of the facility.
+Release to State of Certain Other Persons.—If the director of a facility in which a person is hospitalized pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, the Attorney General shallrelease the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than ten days after certification by the director of the facility.
 
 (h)
 
 Definition.—As used in this chapter the term "State" includes the District of Columbia.
 
 (Added Sept. 7, 1949, ch. 535, §1, 63 Stat. 687; amended Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, §3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, §11204(1), Aug. 5, 1997, 111 Stat. 739.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Subsec. (h). Pub. L. 105–33, §11204(1)(B), added subsec. (h).
 <b>1990</b>—Subsec. (g). Pub. L. 101–647 substituted "chapter" for "subchapter".
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Hospitalization of a person due for release but suffering from mental disease or defect" for "Procedure upon finding of mental incompetency" in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -102,7 +102,7 @@ Pub. L. 99–514, title VI, §642(c), Oct. 22, 1986, 100 Stat. 2284, as amended 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 453 and 707 of this title\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 1986\], in taxable years ending after such date.
 
 "(2)
 
@@ -112,7 +112,7 @@ Transitional rule for binding contracts.—The amendments made by this section s
 
 Pub. L. 98–369, div. A, title I, §175(c), July 18, 1984, 98 Stat. 708, provided that: "The amendments made by this section \[amending this section\] shall apply to sales or exchanges after March 1, 1984, in taxable years ending after such date."
 
-Amendment by section 421(b)(6) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
+Amendment by section 421(b)(6) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub.L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 Pub. L. 98–369, div. A, title V, §557(b), July 18, 1984, 98 Stat. 899, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 

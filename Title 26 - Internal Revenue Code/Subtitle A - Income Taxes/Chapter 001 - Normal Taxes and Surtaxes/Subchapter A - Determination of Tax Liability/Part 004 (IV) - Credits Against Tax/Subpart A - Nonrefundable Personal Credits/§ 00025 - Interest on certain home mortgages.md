@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to thetaxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
+&emsp;&emsp;If the certificate credit rate exceeds 20 percent, the amount of the credit allowed to the taxpayer under paragraph (1) for any taxable year shall not exceed $2,000.
 
 #### (B) Special rule where 2 or more persons hold interests in residence
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting "100 percent" for "95 percent or more".
 
-> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary foradministering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
+> &emsp;&emsp;Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
 
 #### (d) Determination of certificate credit rate
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (4) Reissuance of mortgage credit certificates
 
-&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
+&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certifiedmortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
 
 #### (5) Public notice that certificates will be issued
 
@@ -440,7 +440,7 @@ Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of th
 
 The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
 
@@ -456,7 +456,7 @@ Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable year
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

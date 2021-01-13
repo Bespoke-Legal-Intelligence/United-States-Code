@@ -84,6 +84,8 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(2), (3), as added Pub. L. 108–136
 
 46 App.:1274(f)(3).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(D), (2)(D), (b)(3)(A), (4). See 2006 Amendment note below.

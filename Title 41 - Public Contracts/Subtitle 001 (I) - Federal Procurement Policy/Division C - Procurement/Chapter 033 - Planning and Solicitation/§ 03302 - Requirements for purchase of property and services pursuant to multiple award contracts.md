@@ -60,7 +60,7 @@ Exception to notice requirement.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice isprovided to as many contractors as practicable.
+In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
 
 &emsp;&emsp;(B)
 
@@ -88,7 +88,7 @@ Exemption.—This subsection does not require the public availability of informa
 
 (e)
 
-Applicability.—The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
+Applicability.—The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regardto whether the multiple award contracts were entered into before, on, or after the effective date.
 
 (f)
 
@@ -128,11 +128,15 @@ In subsection (c)(3)(A), "subsection (a)(3)(A)" is substituted for "subsection (
 
 In subsection (d)(1), the words "Not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The words "shall require" are substituted for "shall be amended to require" to reflect the permanence of the provision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (f). Pub. L. 116–92, §893(b)(2), struck out subsec. (f). Text read as follows: "The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition."
 
 Pub. L. 116–92, §893(b)(1), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

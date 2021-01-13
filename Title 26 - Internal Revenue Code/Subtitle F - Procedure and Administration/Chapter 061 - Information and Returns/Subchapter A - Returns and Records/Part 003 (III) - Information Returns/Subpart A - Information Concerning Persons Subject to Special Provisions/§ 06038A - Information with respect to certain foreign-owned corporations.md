@@ -8,7 +8,7 @@ If, at any time during a taxable year, a corporation (hereinafter in this sectio
 
 &emsp;(2) is 25-percent foreign-owned,
 
-> such corporation shall furnish, at such time and in such manner as the Secretary shall by regulations prescribe, the information described in subsection (b) and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records).
+> such corporation shall furnish, at such time and in such manner as the Secretary shall by regulations prescribe, the information described insubsection (b) and such corporation shall maintain (in the location, in the manner, and to the extent prescribed in regulations) such records as may be appropriate to determine the correct treatment of transactions with related parties as the Secretary shall by regulations prescribe (or shall cause another person to so maintain such records).
 
 #### (b) Required information
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provisions relating to criminal penalties for violation of this section, see section 7203.</b>
 
-(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98 Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880; Pub. L. 115–97, title I, §14401(b), Dec. 22, 2017, 131 Stat. 2232.)
+(Added Pub. L. 97–248, title III, §339(a), Sept. 3, 1982, 96 Stat. 632; amended Pub. L. 97–448, title III, §306(b)(4), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title VII, §714(l), July 18, 1984, 98Stat. 963; Pub. L. 99–514, title XII, §1245(a), (b)(1)–(4), Oct. 22, 1986, 100 Stat. 2581; Pub. L. 101–239, title VII, §7403(a)–(d), Dec. 19, 1989, 103 Stat. 2358, 2359; Pub. L. 101–508, title XI, §§11315(b)(1), 11704(a)(23), Nov. 5, 1990, 104 Stat. 1388–457, 1388–519; Pub. L. 104–188, title I, §§1702(c)(5), 1704(f)(5)(B), Aug. 20, 1996, 110 Stat. 1869, 1880; Pub. L. 115–97, title I, §14401(b), Dec. 22, 2017, 131 Stat. 2232.)
 
 #### Amendments
 

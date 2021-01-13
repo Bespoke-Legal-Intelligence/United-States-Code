@@ -10,11 +10,15 @@
 
 (Added Pub. L. 109–295, title V, §551(a), Oct. 4, 2006, 120 Stat. 1389, §554; renumbered §555, Pub. L. 110–161, div. E, title V, §553(a)(1), Dec. 26, 2007, 121 Stat. 2082; amended Pub. L. 112–127, §3, June 5, 2012, 126 Stat. 371.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–127 added subsec. (d).
 
 <b>2007</b>—Pub. L. 110–161 renumbered section 554, relating to border tunnels and passages, as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

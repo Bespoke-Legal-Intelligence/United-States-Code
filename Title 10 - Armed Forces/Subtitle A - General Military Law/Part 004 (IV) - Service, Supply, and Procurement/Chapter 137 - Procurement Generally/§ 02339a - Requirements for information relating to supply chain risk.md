@@ -12,7 +12,7 @@ Authority.—Subject to subsection (b), the head of a covered agency may—
 
 Determination and Notification.—The head of a covered agency may exercise the authority provided in subsection (a) only after—
 
-&emsp;(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence,<sup>1</sup> that there is a significant supply chain risk to a covered system;
+&emsp;(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence and Security, that there is a significant supply chain risk to a covered system;
 
 &emsp;(2) making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
 
@@ -106,15 +106,19 @@ Appropriate congressional committees.—The term "appropriate congressional comm
 
 &emsp;&emsp;(B) in the case of a covered system not otherwise included in subparagraph (A), the congressional defense committees.
 
-(Added Pub. L. 115–232, div. A, title VIII, §881(a)(1), Aug. 13, 2018, 132 Stat. 1910; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(43), Dec. 20, 2019, 133 Stat. 1814.)
+(Added Pub. L. 115–232, div. A, title VIII, §881(a)(1), Aug. 13, 2018, 132 Stat. 1910; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(43), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title X, §1081(a)(36), Jan. 1, 2021, 134 Stat. 3872.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1813(g), Jan. 1, 2021, 134 Stat. 4151, 4181, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 223 of this title, inserted after section 3249, and redesignated as section 3252 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 inserted "and Security" after "for Intelligence".
+
 <b>2019</b>—Subsec. (e)(5). Pub. L. 116–92 substituted "section 3552(b)(6)" for "section 3542(b)".
 
-#### Change of Name
+#### Effective Date of 2021 Amendment
 
-Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under section 137 of this title.
-
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
+Amendment by section 1813(g) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayedimplementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

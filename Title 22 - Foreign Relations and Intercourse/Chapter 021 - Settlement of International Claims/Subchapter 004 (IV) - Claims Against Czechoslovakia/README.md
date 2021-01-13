@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—CLAIMS AGAINST CZECHOSLOVAKIA
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Czechoslovakian Claims Settlement Act of 1981
 
 Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
@@ -40,7 +42,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 &emsp;"(2) An account into which $1,500,000 shall be covered, to be available for payment in accordance with section 8 of this Act on account of awards determined pursuant to section 5 of this Act.
 
-&emsp;"(3) An account into which the remainder of amounts in the Fund shall be covered, to be availablefor payment in accordance with section 8 of this Act on account of awards determined pursuant to section 6 of this Act.
+&emsp;"(3) An account into which the remainder of amounts in the Fund shall be covered, to be available for payment in accordance with section 8 of this Act on account of awards determined pursuant to section 6 of this Act.
 
 #### "determination of certain claims
 
@@ -92,7 +94,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 &emsp;"(2) within six months after the Commission has completed the certification of awards pursuant to sections 5(b) and 6(b) of this Act, no valid application for payment is made by or on behalf of any person entitled to receive payment under this section on account of an award certified by the Commission pursuant to either such section,
 
-> the Secretary shall give notice by publication in the Federal Register and in such other publications as the Secretary may determine that, unless valid application for payment is made within sixty days after the date of such publication, that person's award under title IV of the International Claims Settlement Act of 1949 \[this subchapter\] or this Act, as the case may be, and that person's right to receive payment on account of such award, shall lapse. Upon the expiration of such sixty-day period that person's award and right to receive payment shall lapse, and the amounts payable to that person shall be paid pro rata by the Secretary on account of all other awards under title IV of the International Claims Settlement Act of 1949 \[this subchapter\] or this Act, as the case may be.
+> the Secretary shall give notice by publication in the Federal Register and in such other publications as the Secretary may determine that, unless valid application for payment is made within sixty days after the date of such publication, that person's award under title IV of the International Claims Settlement Act of 1949 \[this subchapter\] or this Act, as the case may be, and that person's right to receive payment on account of suchaward, shall lapse. Upon the expiration of such sixty-day period that person's award and right to receive payment shall lapse, and the amounts payable to that person shall be paid pro rata by the Secretary on account of all other awards under title IV of the International Claims Settlement Act of 1949 \[this subchapter\] or this Act, as the case may be.
 
 #### "investment of funds
 

@@ -1,14 +1,14 @@
 ### §1720D. Counseling and treatment for sexual trauma
 
-(a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
+(a)(1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services, to include care for physical health conditions, as appropriate, to former members of the Armed Forces who the Secretary determines require such counseling and care and services to treat a condition, which in the judgment of a health care professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the former member of the Armed Forces was serving on duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10).
 
-(2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) to overcome psychological trauma described in that paragraph that was suffered by the member while serving on active duty, active duty for training, or inactive duty training.
+(2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) to treat a condition described in that paragraph that was suffered by the member while serving on duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10).
 
 (B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph.
 
 (3) In furnishing counseling to an individual under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that individual in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that individual economically because of geographical inaccessibility.
 
-(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a veteran eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the veteran is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
+(b)(1) The Secretary shall give priority to the establishment and operation of the program to provide counseling and care and services under subsection (a). In the case of a former member of the Armed Forces eligible for counseling and care and services under subsection (a), the Secretary shall ensure that the former member of the Armed Forces is furnished counseling and care and services under this section in a way that is coordinated with the furnishing of such care and services under this chapter.
 
 (2) In establishing a program to provide counseling under subsection (a), the Secretary shall—
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) seek to ensure that such counseling is furnished in a setting that is therapeutically appropriate, taking into account the circumstances that resulted in the need for such counseling; and
 
-&emsp;(C) provide referral services to assist veterans who are not eligible for services under this chapter to obtain those from sources outside the Department.
+&emsp;(C) provide referral services to assist former members of the Armed Forces who are not eligible for services under this chapter to obtain those from sources outside the Department.
 
 (c) The Secretary shall provide information on the counseling and treatment available under this section. Efforts by the Secretary to provide such information—
 
@@ -30,15 +30,15 @@
 
 &emsp;&emsp;(C) is made available through appropriate public information services; and
 
-&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+&emsp;(3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, air, or space service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
-(d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals who provide counseling, care, and services under subsection (a).
+(d)(1) The Secretary shall carry out a program to provide graduate medical education, training, certification, and continuing medical education for mental health professionals and other health care professionals who provide counseling, care, and services under subsection (a).
 
 (2) In carrying out the program required by paragraph (1), the Secretary shall ensure that—
 
-&emsp;(A) all mental health professionals described in such paragraph have been trained in a consistent manner; and
+&emsp;(A) all mental health professionals and other health care professionals described in such paragraph have been trained in a consistent manner; and
 
-&emsp;(B) training described in such paragraph includes principles of evidence-based treatmentand care for sexual trauma and post-traumatic stress disorder.
+&emsp;(B) training described in such paragraph includes principles of evidence-based treatment and care for sexual trauma and post-traumatic stress disorder.
 
 (e) Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
 
@@ -46,7 +46,7 @@
 
 &emsp;(2) The number of individuals who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d), disaggregated by—
 
-&emsp;&emsp;(A) veterans;
+&emsp;&emsp;(A) former members of the Armed Forces;
 
 &emsp;&emsp;(B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and
 
@@ -64,11 +64,35 @@
 
 &emsp;(6) Such other information as the Secretary considers appropriate.
 
-(f) In this section, the term "sexual harassment" means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
+(f) In this section, the term "sexual harassment" means unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
-(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, §707, Dec. 12, 2017, 131 Stat. 1436.)
+(g) In this section, the term "former member of the Armed Forces" includes the following:
+
+&emsp;(1) A veteran.
+
+&emsp;(2) An individual described in section 1720I(b) of this title.
+
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, §707, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 116–283, div. A, title IX, §926(a)(26), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title V, §§5301, 5303(c), Jan. 5, 2021, 134 Stat. 5037, 5041.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–315, §5301(a)(1)(A), (2), (3), (b)(1)(A), inserted ", to include care for physical health conditions, as appropriate," after "counseling and appropriate care and services" and substituted "former members of the Armed Forces" for "veterans", "treat a condition" for "overcome psychological trauma", "health care professional" for "mental health professional", "former member of the Armed Forces" for "veteran", and "duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)" for "active duty, active duty for training, or inactive duty training".
+
+Subsec. (a)(2)(A). Pub. L. 116–315, §5301(a)(1)(B), (b)(1)(B), substituted "treat a condition" for "overcome psychological trauma" and "duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)" for "active duty, active duty for training, or inactive duty training".
+
+Subsec. (b). Pub. L. 116–315, §5301(a)(2), (3), substituted "former member of the Armed Forces" for "veteran" in two places in par. (1) and "former members of the Armed Forces" for "veterans" par. (2)(C).
+
+Subsec. (c)(3). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (d)(1), (2)(A). Pub. L. 116–315, §5301(b)(2), inserted "and other health care professionals" after "mental health professionals".
+
+Subsec. (e)(2)(A). Pub. L. 116–315, §5301(a)(3), substituted "former members of the Armed Forces" for "veterans".
+
+Subsec. (f). Pub. L. 116–315, §5303(c), struck out "repeated," before "unsolicited".
+
+Subsec. (g). Pub. L. 116–315, §5301(a)(4), added subsec. (g).
 
 <b>2017</b>—Subsec. (a)(2)(A). Pub. L. 115–91 struck out "on active duty" before "to overcome psychological trauma" and inserted before period at end "that was suffered by the member while serving on active duty, active duty for training, or inactive duty training".
 
@@ -114,7 +138,7 @@ Subsec. (a)(2). Pub. L. 103–452, §101(a), added par. (2) and struck out forme
 
 Subsec. (a)(3). Pub. L. 103–452, §101(b)(2), substituted "December 31, 1998," for "December 31, 1994,".
 
-Subsec. (b). Pub. L. 103–452, §101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "In providing services to a veteran under subsection (a), the period for which counseling isprovided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required."
+Subsec. (b). Pub. L. 103–452, §101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required."
 
 Subsec. (b)(1). Pub. L. 103–452, §101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter."
 
@@ -130,9 +154,115 @@ Subsec. (c)(2). Pub. L. 103–452, §101(f)(1)(C), substituted "individuals" for
 
 Subsecs. (d), (e). Pub. L. 103–452, §101(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–146, title IV, §402(d), Aug. 7, 2014, 128 Stat. 1790, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Aug. 7, 2014\]."
+
+#### Study and Task Force on Veterans Experiencing Intimate Partner Violence or Sexual Assault
+
+Pub. L. 116–315, title V, §5305, Jan. 5, 2021, 134 Stat. 5043, provided that:
+
+"(a)
+
+National Baseline Study.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs, in consultation with the Attorney General, shall conduct a national baseline study to examine the scope of the problem of intimate partner violence and sexual assault among veterans and spouses and intimate partners of veterans.
+
+&emsp;"(2)
+
+Matters included.—The study under paragraph (1) shall—
+
+&emsp;&emsp;"(A) include a literature review of all relevant research on intimate partner violence and sexual assault among veterans and spouses and intimate partners of veterans;
+
+&emsp;&emsp;"(B) examine the prevalence of the experience of intimate partner violence among—
+
+&emsp;&emsp;&emsp;"(i) women veterans;
+
+&emsp;&emsp;&emsp;"(ii) veterans who are minority group members (as defined in section 544 of title 38, United States Code, and including other minority populations as the Secretary determines appropriate);
+
+&emsp;&emsp;&emsp;"(iii) urban and rural veterans;
+
+&emsp;&emsp;&emsp;"(iv) veterans who are enrolled in a program under section 1720G of title 38, United States Code;
+
+&emsp;&emsp;&emsp;"(v) veterans who are in intimate relationships with other veterans; and
+
+&emsp;&emsp;&emsp;"(vi) veterans who are described in more than one clause of this subparagraph;
+
+&emsp;&emsp;"(C) examine the prevalence of the perpetration of intimate partner violence by veterans; and
+
+&emsp;&emsp;"(D) include recommendations to address the findings of the study.
+
+&emsp;"(3)
+
+Report.—Not later than 30 days after the date on which the Secretary completes the study under paragraph (1), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on such study.
+
+"(b)
+
+Task Force.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date on which the Secretary completes the study under subsection (a), the Secretary, in consultationwith the Attorney General and the Secretary of Health and Human Services, shall establish a national task force (in this section referred to as the 'Task Force') to develop a comprehensive national program, including by integrating facilities, services, and benefits of the Department of Veterans Affairs into existing networks of community-based intimate partner violence and sexual assault services, to address intimate partner violence and sexual assault among veterans.
+
+&emsp;"(2)
+
+Leadership.—The Secretary of Veterans Affairs shall lead the Task Force in collaboration with the Attorney General and the Secretary of Health and Human Services.
+
+"(c)
+
+Consultation With Stakeholders.—In carrying out this section, the Task Force shall consult with—
+
+&emsp;"(1) representatives from veteran service organizations and military service organizations;
+
+&emsp;"(2) representatives from not fewer than three national organizations or State coalitions with demonstrated expertise in intimate partner violence prevention, response, or advocacy; and
+
+&emsp;"(3) representatives from not fewer than three national organizations or State coalitions, particularly those representing underserved and ethnic minority communities, with demonstrated expertise in sexual assault prevention, response, or advocacy.
+
+"(d)
+
+Duties.—The duties of the Task Force shall include the following:
+
+&emsp;"(1) To review existing services and policies of the Department and develop a comprehensive national program to be carried out by the Secretary of Veterans Affairs, in collaboration with the heads of relevant Federal agencies, to address intimate partner violence and sexual assault prevention, response, and treatment.
+
+&emsp;"(2) To review the feasibility and advisability of establishing an expedited process to secure emergency, temporary benefits, including housing or other benefits, for veterans who are experiencing intimate partner violence or sexual assault.
+
+&emsp;"(3) To review and make recommendations regarding the feasibility and advisability of establishing dedicated, temporary housing assistance for veterans experiencing intimate partner violence or sexual assault.
+
+&emsp;"(4) To identify any requirements regarding intimate partner violence assistance or sexual assault response and services that are not being met by the Department and make recommendations on how the Department can meet such requirements.
+
+&emsp;"(5) To review and make recommendations regarding the feasibility and advisability of providing direct services or contracting for community-based services for veterans in response to a sexual assault, including through the use of sexual assault nurse examiners, particularly in underserved or remote areas, including services for Native American veterans.
+
+&emsp;"(6) To review the availability of counseling services provided by the Department and through peer network support, and to provide recommendations for the enhancement of such services, to address—
+
+&emsp;&emsp;"(A) the perpetration of intimate partner violence and sexual assault; and
+
+&emsp;&emsp;"(B) the recovery of veterans, particularly women veterans, from intimate partner violence and sexual assault.
+
+&emsp;"(7) To review and make recommendations to expand services available for veterans at risk of perpetrating intimate partner violence.
+
+"(e)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], and not less frequently than annually thereafter by October 1 of each year, the Task Force shall submit to the Secretary of Veterans Affairs and Congress a report on the activities of the Task Force, including any recommendations for legislative or administrative action.
+
+"(f)
+
+Nonapplicability of FACA.—The Task Force shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Native american veteran.—The term 'Native American veteran' has the meaning given that term in section 3765 of title 38, United States Code.
+
+&emsp;"(2)
+
+State.—The term 'State' has the meaning given that term in section 101 of title 38, United States Code."
 
 #### Information on Telephone Counseling Availability; Personnel Training; Client Confidentiality; Publicity; Report
 

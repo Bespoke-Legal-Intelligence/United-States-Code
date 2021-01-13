@@ -62,6 +62,8 @@ In subsection (b)(2), the words "section 1501 of title 31, District of Columbia 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–654 added par. (4).
@@ -77,6 +79,8 @@ Subsec. (b)(3). Pub. L. 95–454, §906(c)(2)(F), (H), substituted "3401" for "3
 Pub. L. 95–437 added par. (3).
 
 Subsec. (c). Pub. L. 95–454, §906(a)(3), substituted "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -42,7 +42,7 @@ The Advisory Committee may provide advice and recommendations to the Secretary w
 
 &emsp;&emsp;&emsp;(iii) at least one such member shall be an individual with expertise in children and youth with special health care needs; and
 
-&emsp;&emsp;&emsp;(iv) at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
+&emsp;&emsp;&emsp;(iv) at least one such member shall be an individual with expertise in the needs ofparents or family caregivers, including the parents or caregivers of children with disabilities.
 
 #### (3) Federal members
 

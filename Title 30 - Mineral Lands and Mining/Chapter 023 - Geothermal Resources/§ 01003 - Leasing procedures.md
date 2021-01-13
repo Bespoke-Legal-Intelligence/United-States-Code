@@ -18,6 +18,14 @@ The Secretary shall accept nominations of land to be leased at any time from qua
 
 &emsp;Lands that are subject to a mining claim for which a plan of operations has been approved by the relevant Federal land management agency may be available for noncompetitive leasing under this section to the mining claim holder.
 
+#### (4) Land subject to oil and gas lease
+
+&emsp;Land under an oil and gas lease issued pursuant to the Mineral Leasing Act (30 U.S.C. 181 et seq.) or the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) that is subject to an approved application for permit to drill and from which oil and gas production is occurring may be available for noncompetitive leasing under subsection (c) by the holder of the oil and gas lease—
+
+&emsp;&emsp;(A) on a determination that geothermal energy will be produced from a well producing or capable of producing oil and gas; and
+
+&emsp;&emsp;(B) to provide for the coproduction of geothermal energy with oil and gas.
+
 #### (c) Noncompetitive leasing
 
 The Secretary shall make available for a period of 2 years for noncompetitive leasing any tract for which a competitive lease sale is held, but for which the Secretary does not receive any bids in a competitive lease sale.
@@ -38,7 +46,7 @@ The Secretary shall make available for a period of 2 years for noncompetitive le
 
 #### (e) Leases sold as a block
 
-If information is available to the Secretary indicating a geothermal resource that could be produced as 1 unit can reasonably be expected tounderlie more than 1 parcel to be offered in a competitive lease sale, the parcels for such a resource may be offered for bidding as a block in the competitive lease sale.
+If information is available to the Secretary indicating a geothermal resource that could beproduced as 1 unit can reasonably be expected to underlie more than 1 parcel to be offered in a competitive lease sale, the parcels for such a resource may be offered for bidding as a block in the competitive lease sale.
 
 #### (f) Leasing for direct use of geothermal resources
 
@@ -60,13 +68,23 @@ Notwithstanding subsection (b), the Secretary may identify areas in which the la
 
 &emsp;The quantity of acreage covered by the lease shall not exceed the limitations established under section 1006 of this title.
 
-(Pub. L. 91–581, §4, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, §§222, 223(b), Aug. 8, 2005, 119 Stat. 660, 662.)
+(Pub. L. 91–581, §4, Dec. 24, 1970, 84 Stat. 1566; Pub. L. 109–58, title II, §§222, 223(b), Aug. 8, 2005, 119 Stat. 660, 662; Pub. L. 116–260, div. Z, title III, §3105, Dec. 27, 2020, 134 Stat. 2516.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Mineral Leasing Act, referred to in subsec. (b)(4), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+
+The Mineral Leasing Act for Acquired Lands, referred to in subsec. (b)(4), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
 #### Codification
 
 August 8, 2005, referred to in subsec. (d)(1), was in the original "the date of enactment of this subsection" which was translated as meaning the date of enactment of Pub. L. 109–58, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(4). Pub. L. 116–260 added par. (4).
 
 <b>2005</b>—Pub. L. 109–58, §222, inserted section catchline and amended text generally. Prior to amendment, text related to competitive bidding requirements, conversion of prior leases to geothermal leases, conflicting land interests, conversion of prior applications, acreage limitation, regulations, and time for payment.
 

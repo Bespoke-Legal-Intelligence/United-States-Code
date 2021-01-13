@@ -18,11 +18,15 @@ The provisions of subsections (b) and (c) of section 2279c–1 of this title sha
 
 (Pub. L. 92–181, title VII, §7.13, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1653; amended Pub. L. 100–399, title IV, §408(s), (t), Aug. 17, 1988, 102 Stat. 1003.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a)(4). Pub. L. 100–399, §408(s), substituted "the Farm Credit Banks involved" for "the Farm Credit Bank".
 
 Subsec. (b). Pub. L. 100–399, §408(t), substituted "subsections (b) and (c)" for "subsections (b), (c), and (d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

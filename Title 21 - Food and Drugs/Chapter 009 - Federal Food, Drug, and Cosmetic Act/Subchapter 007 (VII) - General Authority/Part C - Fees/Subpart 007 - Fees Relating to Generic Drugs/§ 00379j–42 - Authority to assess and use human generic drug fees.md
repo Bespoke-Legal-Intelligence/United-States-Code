@@ -136,7 +136,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice
 
-&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish inthe Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (D) Fee due date
 
@@ -158,7 +158,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice
 
-&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish inthe Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (D) Fee due date
 
@@ -206,7 +206,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(II) If a person (including its affiliates) owns at least 6 but not more than 19 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a medium size operation generic drug applicant program fee equal to two-fifths of the large size operation generic drug applicant program fee.
 
-&emsp;&emsp;&emsp;(III) If a person (including its affiliates) owns 20 or more approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a large size operation generic drug applicant program fee.
+&emsp;&emsp;&emsp;(III) If a person (including its affiliates) owns 20 or more approved abbreviated new drug applications on the due date for thefee under this subsection, the person (including its affiliates) shall be assessed a large size operation generic drug applicant program fee.
 
 &emsp;&emsp;(ii) For purposes of this subparagraph, an abbreviated new drug application shall be deemed not to be approved if the applicant has submitted a written request for withdrawal of approval of such abbreviated new drug application by April 1 of the previous fiscal year.
 
@@ -218,7 +218,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(A) one;
 
-&emsp;&emsp;(B) the average annual percent change in the cost, per full-time equivalent position ofthe Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years multiplied by the proportion of personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years; and
+&emsp;&emsp;(B) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years multiplied by the proportion of personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years; and
 
 &emsp;&emsp;(C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years.
 
@@ -280,7 +280,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Any person that owns or operates a site or organization described in subparagraph (B) shall submit to the Secretary information concerning the ownership, name, and address of the site or organization.
+&emsp;&emsp;Any person that owns or operates a site or organization described in subparagraph (B)shall submit to the Secretary information concerning the ownership, name, and address of the site or organization.
 
 #### (B) Sites and organizations
 
@@ -344,7 +344,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (i) Notice
 
-&emsp;&emsp;&emsp;If an abbreviated new drug application or supplement to an abbreviated new drug application submitted on or after October 1, 2012, references a facility for which a facility fee has not been paid by the applicable date under subsection (a)(4)(C), the Secretary shall notify the sponsor of the generic drug submission of the failure of the owner of the facility to pay the facility fee.
+&emsp;&emsp;&emsp;If an abbreviated new drug application or supplement to an abbreviated new drugapplication submitted on or after October 1, 2012, references a facility for which a facility fee has not been paid by the applicable date under subsection (a)(4)(C), the Secretary shall notify the sponsor of the generic drug submission of the failure of the owner of the facility to pay the facility fee.
 
 #### (ii) Nonreceival
 
@@ -450,6 +450,8 @@ An abbreviated new drug application that is not considered to be received within
 
 <i>For termination of section by section 305(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 379j–41(11)(C), referred to in subsec. (e)(2), was redesignated section 379j–41(12)(C) by Pub. L. 115–52, title III, §302(2), Aug. 18, 2017, 131 Stat. 1020.
@@ -482,7 +484,7 @@ Subsec. (a)(4)(A). Pub. L. 115–52, §303(a)(5)(A)(i), substituted "in at least
 
 Subsec. (a)(4)(A)(i). Pub. L. 115–52, §303(a)(5)(A)(ii), substituted "in at least one generic drug submission that is" for "or intended to be identified in at least one generic drug submission that is pending or".
 
-Subsec. (a)(4)(A)(ii). Pub. L. 115–52, §303(a)(5)(A)(iii), substituted "is identified in at least one generic drug submission in which the facility is approved to produce one or more active pharmaceutical ingredients or in a Type II active pharmaceutical ingredient drug master file referenced in at least one such" for "produces, or which is pending review to produce, one or more active pharmaceutical ingredients identified, or intended to be identified, in at least one generic drug submission that is pending or approved or in a Type II active pharmaceutical ingredient drug master file referenced in such a".
+Subsec. (a)(4)(A)(ii). Pub. L. 115–52, §303(a)(5)(A)(iii), substituted "is identified in at least one generic drug submission in which the facility is approved to produce one or more active pharmaceutical ingredients or in a Type II active pharmaceutical ingredient drug master file referenced in at least one such" for "produces, or which is pending review to produce, one or more active pharmaceutical ingredients identified, or intended to be identified, in at least one generic drug submissionthat is pending or approved or in a Type II active pharmaceutical ingredient drug master file referenced in such a".
 
 Subsec. (a)(4)(A)(iii). Pub. L. 115–52, §303(a)(5)(A)(i), (iv), substituted "in at least one generic drug submission that is" for ", or intended to be identified, in at least one generic drug submission that is pending or" and "only to the fee attributable to the manufacture of the finished dosage forms" for "to fees under both such clauses".
 
@@ -496,7 +498,7 @@ Subsec. (b)(1)(A). Pub. L. 115–52, §303(b)(1)(A), substituted "2018" for "201
 
 &emsp;"(ii) $249,000,000 shall be generated by the fees under paragraphs (2) through (4) of subsection (a)."
 
-Subsec. (b)(1)(B). Pub. L. 115–52, §303(b)(1)(B), substituted "2019 through 2022" for "2014 through 2017" inheading and "2019 through 2022" for "2014 through 2017", "paragraphs (2) through (5)" for "paragraphs (2) through (4)", and "$493,600,000" for "$299,000,000" in text.
+Subsec. (b)(1)(B). Pub. L. 115–52, §303(b)(1)(B), substituted "2019 through 2022" for "2014 through 2017" in heading and "2019 through 2022" for "2014 through 2017", "paragraphs (2) through (5)" for "paragraphs (2) through (4)", and "$493,600,000" for "$299,000,000" in text.
 
 Subsec. (b)(2). Pub. L. 115–52, §303(b)(2)(A), substituted "such paragraph for a fiscal year" for "paragraph (1)(A)(ii) for fiscal year 2013 and paragraph (1)(B) for each of fiscal years 2014 through 2017" and "through (5)" for "through (4)" in introductory provisions.
 
@@ -563,6 +565,8 @@ Subsec. (o). Pub. L. 115–52, §303(i), added subsec. (o).
 <b>2012</b>—Subsec. (a). Pub. L. 112–193, §2(b)(2), inserted "for such year" after "obligation of fees" wherever appearing.
 
 Subsec. (i)(2)(C). Pub. L. 112–193, §2(b)(3), inserted comma after "September 30, 2013" and struck out comma after "for fiscal year 2013".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

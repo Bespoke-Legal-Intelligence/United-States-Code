@@ -4,6 +4,8 @@ The provisions of sections 1196 <sup>1</sup> and 4223 of this title, relative t
 
 (May 24, 1924, ch. 182, §18, formerly §11, 43 Stat. 142, renumbered and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1196 of this title, referred to in text, was repealed by act June 28, 1955, ch. 196, 69 Stat. 187.
@@ -17,6 +19,8 @@ Section was formerly classified to section 812 of this title, and prior thereto 
 #### Amendments
 
 <b>1931</b>—Act Feb. 23, 1931, substituted "shall apply to diplomatic officers below the grade of minister and to consular officers" for "shall include both branches of the Foreign Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1931 Amendment
 

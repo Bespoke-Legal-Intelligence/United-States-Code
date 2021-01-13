@@ -74,7 +74,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (iii) Option to purchase
 
-&emsp;&emsp;&emsp;If under the lease the lessee has the option to purchase the property for a fixed price or for other than the fair market value of the property (determined at the time of exercise), the allowable amount at the time such option may be exercised may not exceed 50 percent of the price at which such option may be exercised.
+&emsp;&emsp;&emsp;If under the lease the lessee has the option to purchase the property for a fixed price or for other than the fair market value of the property (determined at thetime of exercise), the allowable amount at the time such option may be exercised may not exceed 50 percent of the price at which such option may be exercised.
 
 #### (iv) No allowable amount for certain arrangements
 
@@ -118,7 +118,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 &emsp;&emsp;&emsp;(i) any portion of the loss that would occur if the fair market value of the leased property were 25 percent less than its reasonably expected fair market value at the time the lease is terminated, or
 
-&emsp;&emsp;&emsp;(ii) more than 50 percent of the loss that would occur if the fair market value of theleased property at the time the lease is terminated were zero.
+&emsp;&emsp;&emsp;(ii) more than 50 percent of the loss that would occur if the fair market value of the leased property at the time the lease is terminated were zero.
 
 #### (B) Exception
 

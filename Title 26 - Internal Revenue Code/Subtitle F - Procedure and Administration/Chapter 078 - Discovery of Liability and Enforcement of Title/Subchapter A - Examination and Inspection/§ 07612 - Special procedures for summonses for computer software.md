@@ -34,7 +34,7 @@ For purposes of this title—
 
 &emsp;&emsp;(C) any communications between the owner of the tax-related computer software source code and the taxpayer or related persons; or
 
-&emsp;&emsp;(D) any tax-related computer software source code which is required to be providedor made available pursuant to any other provision of this title.
+&emsp;&emsp;(D) any tax-related computer software source code which is required to be provided or made available pursuant to any other provision of this title.
 
 #### (3) Cooperation required
 
@@ -76,7 +76,7 @@ For purposes of this title—
 
 &emsp;&emsp;(F) the software may not be decompiled or disassembled;
 
-&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee of the United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
+&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee ofthe United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
 
 &emsp;&emsp;&emsp;(i) disclose such software to any person other than persons to whom such information could be disclosed for tax administration purposes under section 6103; or
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;The term "computer software executable code" means—
 
-&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer whenloaded into its memory and used directly by such computer to execute instructions; and
+&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer when loaded into its memory and used directly by such computer to execute instructions; and
 
 &emsp;&emsp;(B) any related user manuals.
 

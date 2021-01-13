@@ -4,7 +4,7 @@ It is unlawful for any person to—
 
 &emsp;(1) destroy, cause the loss of, or injure any sanctuary resource managed under law or regulations for that sanctuary;
 
-&emsp;(2) possess, sell, offer for sale, purchase, import, export, deliver, carry, transport, or ship by any means any sanctuary resource taken in violation of this section;
+&emsp;(2) possess, sell, offer for sale, purchase, import, export, deliver, carry, transport, or shipby any means any sanctuary resource taken in violation of this section;
 
 &emsp;(3) interfere with the enforcement of this chapter by—
 

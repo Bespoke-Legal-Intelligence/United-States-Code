@@ -22,7 +22,7 @@ To be eligible for insurance under this section, a supplemental loan shall—
 
 #### (c) Applicability of other provisions of law
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term "mortgage" shall be construed to refer to the term "loan" as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term "mortgage" shall be construed to refer to the term "loan" as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shallbe insured under and shall be the obligation of the Special Risk Insurance Fund.
 
 #### (d) Authorization to insure loans for improvements or additions; terms and conditions; limitation on amount
 
@@ -70,6 +70,8 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (June 27, 1934, ch. 847, title II, §241, as added Pub. L. 90–448, title III, §307, Aug. 1, 1968, 82 Stat. 508; amended Pub. L. 91–609, title I, §111, Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §313, Aug. 22, 1974, 88 Stat. 684; Pub. L. 94–375, §5, Aug. 3, 1976, 90 Stat. 1070; Pub. L. 95–557, title III, §311(b), Oct. 31, 1978, 92 Stat. 2098; Pub. L. 95–619, title II, §247, Nov. 9, 1978, 92 Stat. 3234; Pub. L. 96–153, title III, §319, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–399, title III, §314, Oct. 8, 1980, 94 Stat. 1645; Pub. L. 98–181, title I \[title IV, §404(b)(14)\], Nov. 30, 1983, 97 Stat. 1210; Pub. L. 98–479, title II, §204(a)(11), (12), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 100–242, title II, §231, title IV, §429(c), Feb. 5, 1988, 101 Stat. 1884, 1918; Pub. L. 101–235, title II, §§203(c), (d), 204(b), Dec. 15, 1989, 103 Stat. 2038, 2039; Pub. L. 101–625, title VI, §602(a), Nov. 28, 1990, 104 Stat. 4275; Pub. L. 102–550, title III, §§316(a), (b), 317(c), Oct. 28, 1992, 106 Stat. 3771, 3772; Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (d), and (e)(1), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
@@ -90,7 +92,7 @@ Subsec. (f)(5)(B), (C). Pub. L. 102–550, §316(a)(3), added subpar. (B) and re
 
 Subsec. (f)(6). Pub. L. 102–550, §317(c)(2), which directed the substitution of "acquisition loan" for "acquisiton loan" in par. (7), was executed by making the substitution in par. (6) to reflect the probable intent of Congress and the intervening redesignation of par. (7) as (6) by Pub. L. 102–550, §316(a)(5). See below.
 
-Pub. L. 102–550, §316(a)(4), (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows:"The Secretary may provide for combination of loans insured under subsection (d) of this section with equity and acquisition loans insured under this subsection."
+Pub. L. 102–550, §316(a)(4), (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Secretary may provide for combination of loans insured under subsection (d) of this section with equity and acquisition loans insured under this subsection."
 
 Subsec. (f)(7) to (9). Pub. L. 102–550, §316(a)(5), redesignated pars. (7) to (9) as (6) to (8), respectively.
 
@@ -133,6 +135,8 @@ Subsec. (e). Pub. L. 95–619 added subsec. (e).
 Subsec. (b)(1). Pub. L. 91–609, §111(3), inserted "or an amount acceptable to the Secretary" before semicolon at end.
 
 Subsec. (b)(5). Pub. L. 91–609, §111(4), inserted "or pursuant to which the original mortgage covering the project or facility was insured" before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

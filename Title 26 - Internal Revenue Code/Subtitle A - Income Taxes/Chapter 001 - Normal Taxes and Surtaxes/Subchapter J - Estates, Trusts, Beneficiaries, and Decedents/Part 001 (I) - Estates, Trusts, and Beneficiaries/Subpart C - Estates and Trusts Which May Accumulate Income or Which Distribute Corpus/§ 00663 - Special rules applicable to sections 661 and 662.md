@@ -36,7 +36,7 @@ For the sole purpose of determining the amount of distributable net income in th
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–34, §1306(a), inserted "an estate or" before "a trust" in pars. (1) and (2).
 
-Subsec. (b)(2). Pub. L. 105–34, §1306(b), substituted "the executor of such estate or the fiduciary of such trust (as the case may be)" for "the fiduciary of such trust".
+Subsec. (b)(2). Pub. L. 105–34, §1306(b), substituted "the executor of such estate or the fiduciary of suchtrust (as the case may be)" for "the fiduciary of such trust".
 
 Subsec. (c). Pub. L. 105–34, §1307(a), (b), inserted "estates or" before "trusts" in heading, "Rules similar to the rules of the preceding provisions of this subsection shall apply to treat substantially separate and independent shares of different beneficiaries in an estate having more than 1 beneficiary as separate estates." before last sentence, and "or estates" after "trusts" in last sentence.
 

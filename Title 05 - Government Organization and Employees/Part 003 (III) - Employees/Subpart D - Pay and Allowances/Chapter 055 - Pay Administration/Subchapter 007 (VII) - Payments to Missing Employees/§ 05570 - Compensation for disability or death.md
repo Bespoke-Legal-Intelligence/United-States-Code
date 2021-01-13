@@ -28,9 +28,7 @@
 
 (Added Pub. L. 99–399, title VIII, §803(a), Aug. 27, 1986, 100 Stat. 882.)
 
-#### Delegation of Functions
-
-Functions of the President under this section delegated to the Secretary of State to be exercised in consultation with the Secretary of Labor, see Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Civilian Service Recognition
 
@@ -81,4 +79,10 @@ Employee.—The term 'employee' has the meaning given that term in section 2105 
 &emsp;"(2)
 
 Executive agency.—The term 'executive agency' has the meaning given that term in section 105 of title 5, United States Code, and includes the United States Postal Service and the Postal Regulatory Commission."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of the President under this section delegated to the Secretary of State to be exercised in consultation with the Secretary of Labor, see Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of this title.
 

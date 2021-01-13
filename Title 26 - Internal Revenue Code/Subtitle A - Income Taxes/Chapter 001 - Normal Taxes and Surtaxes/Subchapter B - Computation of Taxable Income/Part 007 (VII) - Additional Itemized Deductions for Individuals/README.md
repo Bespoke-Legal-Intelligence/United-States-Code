@@ -12,13 +12,15 @@
 | [219\.](%C2%A7%2000219%20-%20Retirement%20savings.md) | Retirement savings. |
 | [220\.](%C2%A7%2000220%20-%20Archer%20MSAs.md) | Archer MSAs. |
 | [221\.](%C2%A7%2000221%20-%20Interest%20on%20education%20loans.md) | Interest on education loans. |
-| [222\.](%C2%A7%2000222%20-%20Qualified%20tuition%20and%20related%20expenses.md) | Qualified tuition and related expenses. |
+| \[222. | Repealed.\] |
 | [223\.](%C2%A7%2000223%20-%20Health%20savings%20accounts.md) | Health savings accounts. |
 | [224\.](%C2%A7%2000224%20-%20Cross%20reference.md) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. EE, title I, §104(b)(1), Dec. 27, 2020, 134 Stat. 3041, struck out item 222 "Qualified tuition and related expenses".
 
 <b>2017</b>—Pub. L. 115–97, title I, §11051(a), Dec. 22, 2017, 131 Stat. 2089, which directed amendment of part VII of subchapter B by striking the item relating to section 215 in the table of sections for "such subpart", was executed by striking item 215 "Alimony, etc., payments" in this analysis, which is the analysis for part VII of subchapter B of chapter 1, to reflect the probable intent of Congress.
 
@@ -70,6 +72,6 @@ Pub. L. 94–455, title XV, §1501(c), Oct. 4, 1976, 90 Stat. 1737, added item 2
 - [&sect; 00219 - Retirement savings](%C2%A7%2000219%20-%20Retirement%20savings.md)
 - [&sect; 00220 - Archer MSAs](%C2%A7%2000220%20-%20Archer%20MSAs.md)
 - [&sect; 00221 - Interest on education loans](%C2%A7%2000221%20-%20Interest%20on%20education%20loans.md)
-- [&sect; 00222 - Qualified tuition and related expenses](%C2%A7%2000222%20-%20Qualified%20tuition%20and%20related%20expenses.md)
+- [&sect; 00222 - Repealed. Pub. L. 116&#8211;260, div. EE, title I, &sect;104(b)(1), Dec. 27, 2020, 134 Stat. 3041](%C2%A7%2000222%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20EE%2C%20title%20I%2C%20%C2%A7104%28b%29%281%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%203041.md)
 - [&sect; 00223 - Health savings accounts](%C2%A7%2000223%20-%20Health%20savings%20accounts.md)
 - [&sect; 00224 - Cross reference](%C2%A7%2000224%20-%20Cross%20reference.md)

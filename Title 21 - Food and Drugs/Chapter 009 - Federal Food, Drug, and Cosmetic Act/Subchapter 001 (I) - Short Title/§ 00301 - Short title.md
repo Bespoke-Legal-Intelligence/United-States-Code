@@ -4,13 +4,15 @@ This chapter may be cited as the Federal Food, Drug, and Cosmetic Act.
 
 (June 25, 1938, ch. 675, §1, 52 Stat. 1040.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date; Postponement in Certain Cases
 
 Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 "\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
-"(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
+"(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g)to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
 "Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading 'In the case of food:', of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
@@ -20,11 +22,17 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 &emsp;"(1) to the provisions of section 502(d) and (e) of the Federal Food, Drug, and Cosmetic Act \[352(d), (e) of this title\], insofar as such provisions relate to any substance named in section 8 \[section 10 of this title\], paragraph second, under the heading 'In the case of drugs:', of the Food and Drugs Act of June 30, 1906, as amended, or a derivative of any such substance; or
 
-&emsp;"(2) to the provisions of section 502(b), (d), (e), (f), (g), and (h) of the Federal Food, Drug, and CosmeticAct \[352(b), (d) to (h) of this title\], insofar as such provisions relate to drugs to which section 505 \[355 of this title\] of such Act applies."
+&emsp;"(2) to the provisions of section 502(b), (d), (e), (f), (g), and (h) of the Federal Food, Drug, and Cosmetic Act \[352(b), (d) to (h) of this title\], insofar as such provisions relate to drugs to which section 505 \[355 of this title\] of such Act applies."
 
 #### Effective Date
 
 Act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: "This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act."
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–304, §1, Jan. 5, 2021, 134 Stat. 4915, provided that: "This Act \[amending sections 321 and 381 of this title\] may be cited as the 'Safeguarding Therapeutics Act'."
+
+Pub. L. 116–290, §1, Jan. 5, 2021, 134 Stat. 4889, provided that: "This Act \[amending section 355 of this title and enacting provisions set out as a note under section 355 of this title\] may be cited as the 'Orange Book Transparency Act of 2020'."
 
 #### Short Title of 2018 Amendment
 
@@ -42,7 +50,7 @@ Pub. L. 115–234, title I, §101(a), Aug. 14, 2018, 132 Stat. 2428, provided th
 
 Pub. L. 115–234, title II, §201(a), Aug. 14, 2018, 132 Stat. 2432, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited as the 'Animal Generic Drug User Fee Amendments of 2018'."
 
-Pub. L. 115–176, §1, May 30, 2018, 132 Stat. 1372, provided that: "This Act \[enacting section 360bbb–0a of this title and provisions set out as a note under section 360bbb–0a of this title\] may be cited as the 'Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017'."
+Pub. L. 115–176, §1, May 30, 2018, 132 Stat. 1372, provided that: "This Act \[enacting section 360bbb–0a ofthis title and provisions set out as a note under section 360bbb–0a of this title\] may be cited as the 'Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017'."
 
 #### Short Title of 2017 Amendment
 
@@ -64,7 +72,7 @@ Pub. L. 114–146, §1, Apr. 19, 2016, 130 Stat. 357, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–114, §1, Dec. 28, 2015, 129 Stat. 3129, provided that: "This Act \[amending section 331 of this titleand enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Microbead-Free Waters Act of 2015'."
+Pub. L. 114–114, §1, Dec. 28, 2015, 129 Stat. 3129, provided that: "This Act \[amending section 331 of this title and enacting provisions set out as notes under section 331 of this title\] may be cited as the 'Microbead-Free Waters Act of 2015'."
 
 Pub. L. 114–89, §1, Nov. 25, 2015, 129 Stat. 698, provided that: "This Act \[amending sections 355, 360b, 360ccc to 360ccc–2, 811, 823, and 953 of this title, section 156 of Title 35, Patents, and section 262 of Title 42, The Public Health and Welfare\] may be cited as the 'Improving Regulatory Transparency for New Medical Therapies Act'."
 
@@ -100,7 +108,7 @@ Pub. L. 112–144, title II, §201(a), July 9, 2012, 126 Stat. 1002, provided th
 
 Pub. L. 112–144, title III, §301(a), July 9, 2012, 126 Stat. 1008, provided that: "This title \[enacting sections 379d–4 and 379j–41 to 379j–43 of this title, amending sections 352 and 379d–3 of this title, and enacting provisions set out as notes under sections 379j–41 and 379j–43 of this title\] may be cited as the 'Generic Drug User Fee Amendments of 2012'."
 
-Pub. L. 112–144, title IV, §401(a), July 9, 2012, 126 Stat. 1026, provided that: "This title \[enacting sections 379j–51 to 379j–53 of this title, amending sections 379d–4 and 379g of this title, and enacting provisions set out as notes under sections 379g, 379j–51, and 379j–53 of this title\] may be cited as the 'Biosimilar User Fee Act of 2012'."
+Pub. L. 112–144, title IV, §401(a), July 9, 2012, 126 Stat. 1026, provided that: "This title \[enacting sections 379j–51 to 379j–53 of this title, amending sections 379d–4and 379g of this title, and enacting provisions set out as notes under sections 379g, 379j–51, and 379j–53 of this title\] may be cited as the 'Biosimilar User Fee Act of 2012'."
 
 #### Short Title of 2009 Amendment
 
@@ -204,7 +212,7 @@ Pub. L. 102–353, §1(a), Aug. 26, 1992, 106 Stat. 941, provided that: "This Ac
 
 Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: "This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360l, 360mm, 371 to 372a, 376, and 381 of this title and section 262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the 'Medical Device Amendments of 1992'."
 
-Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: "This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of this title, and enacting provisions set out as notes under section 335a of this title\] may be cited as the 'Generic Drug Enforcement Act of 1992'."
+Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: "This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of thistitle, and enacting provisions set out as notes under section 335a of this title\] may be cited as the 'Generic Drug Enforcement Act of 1992'."
 
 #### Short Title of 1990 Amendments
 
@@ -226,7 +234,7 @@ Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–660, title I, §101(a), Nov. 14, 1986, 100 Stat. 3743, provided that: "This title \[enacting section 382 ofthis title, amending sections 241 and 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 333 of this title and section 262 of Title 42\] may be cited as the 'Drug Export Amendments Act of 1986'."
+Pub. L. 99–660, title I, §101(a), Nov. 14, 1986, 100 Stat. 3743, provided that: "This title \[enacting section 382 of this title, amending sections 241 and 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 333 of this title and section 262 of Title 42\] may be cited as the 'Drug Export Amendments Act of 1986'."
 
 #### Short Title of 1985 Amendment
 
@@ -266,7 +274,7 @@ Pub. L. 92–387, §1, Aug. 16, 1972, 86 Stat. 559, provided that: "This Act \[a
 
 Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: "This Act \[enacting provisions now comprising part C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the 'Radiation Control for Health and Safety Act of 1968'."
 
-Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: "That this Act \[enacting section 360b of this title, amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the 'Animal Drug Amendments of 1968'."
+Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: "That this Act \[enacting section 360b of this title,amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the 'Animal Drug Amendments of 1968'."
 
 #### Short Title of 1965 Amendment
 
@@ -288,7 +296,7 @@ Pub. L. 85–929, §1, Sept. 6, 1958, 72 Stat. 1784, provided: "That this Act \[
 
 Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
 
-Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance isheld to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby."
+Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby."
 
 #### Hazardous Substances
 

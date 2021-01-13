@@ -66,13 +66,35 @@ For the purpose of this subchapter, other than subpart 2 of part A, and except a
 
 &emsp;&emsp;&emsp;&emsp;(II) at a planned special event.
 
-(Pub. L. 89–329, title IV, §473, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1455; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 586; Pub. L. 105–244, title IV, §480(b), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 111–39, title IV, §406(a)(1), July 1, 2009, 123 Stat. 1948; Pub. L. 115–141, div. H, title III, §317, Mar. 23, 2018, 132 Stat. 753.)
+(Pub. L. 89–329, title IV, §473, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1455; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 586; Pub. L. 105–244, title IV, §480(b), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 111–39, title IV, §406(a)(1), July 1, 2009, 123 Stat. 1948; Pub. L. 115–141, div. H, title III, §317, Mar. 23, 2018, 132 Stat. 753; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1087mm. Special rules for student aid index
+
+#### <i>(a) In general</i>
+
+<i>For the purpose of this chapter, the term "student aid index" means, with respect to a student, an index that reflects an evaluation of a student's approximate financial resources to contribute toward the student's postsecondary education for the academic year, as determined in accordance with this part.</i>
+
+#### <i>(b) Special rule for students eligible for the total maximum Pell Grant</i>
+
+<i>The Secretary shall consider an applicant to automatically have a student aid index equal to zero if the applicant is eligible for the total maximum Federal Pell Grant under section 1070a(b)(1)(A) of this title, except that, if the applicant has a calculated student aid index of less than zero the Secretary shall consider the negative number as the student aid index for the applicant.</i>
+
+#### <i>(c) Special rule for nonfilers</i>
+
+<i>Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant's parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### References in Text
 
 The Omnibus Crime Control and Safe Streets Act of 1968 and such Act, referred to in subsec. (b)(4), (5)(A), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 2 of part L of title I of the Act is classified to part B (§10301 et seq.) of subchapter XI of chapter 101 of subtitle I of Title 34, Crime Control and Law Enforcement. Sections 1204 and 1212 of the Act were classified to sections 3796b and 3796d–1, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification as sections 10284 and 10302, respectively, of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section provided definition of family contribution with respect to any student for the purpose of this subchapter, other than subpart 2 of part A, and provided special rule related to family contribution.
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–141, §317(1)(A), inserted "(in the case of a student who meets the requirement of subparagraph (B)(i)), or academic year 2018–2019 (in the case of a student who meets the requirement of subparagraph (B)(ii))," after "academic year 2009–2010" in introductory provisions.
 
@@ -88,6 +110,10 @@ Subsec. (b)(4), (5). Pub. L. 115–141, §317(3), added pars. (4) and (5).
 
 <b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "For the purpose of this subchapter, except subparts 1 and 3 of part A, the term 'family contribution' with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part."
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–39, title IV, §406(b), July 1, 2009, 123 Stat. 1950, provided that: "The amendments made by—
@@ -102,7 +128,7 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

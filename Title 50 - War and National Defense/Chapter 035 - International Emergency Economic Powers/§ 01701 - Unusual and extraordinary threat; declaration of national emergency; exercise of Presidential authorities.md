@@ -28,7 +28,7 @@ Pub. L. 109–293, §1, Sept. 30, 2006, 120 Stat. 1344, provided that: "This Act
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–112, §1, Nov. 22, 2005, 119 Stat. 2366, provided that: "This Act \[enacting provisions set out as a note under this section and amending provisions set out as notes under this section and section 2797b of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Iran Nonproliferation Amendments Act of 2005'."
+Pub. L. 109–112, §1, Nov. 22, 2005, 119 Stat. 2366, provided that: "This Act \[enacting provisions set out as anote under this section and amending provisions set out as notes under this section and section 2797b of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Iran Nonproliferation Amendments Act of 2005'."
 
 #### Short Title of 2001 Amendment
 
@@ -346,7 +346,7 @@ Penalties.—A person that violates, attempts to violate, conspires to violate, 
 
 &emsp;"(3)
 
-Exception relating to importation of goods.—The requirement to block and prohibit all transactions in all property and interests in propertyunder paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
+Exception relating to importation of goods.—The requirement to block and prohibit all transactions in all property and interests in property under paragraph (1)(A) shall not include the authority to impose sanctions on the importation of goods.
 
 &emsp;"(4)
 
@@ -750,7 +750,7 @@ Agency or instrumentality of a foreign state described.—An agency or instrumen
 
 &emsp;"(3)
 
-Sanctions described.—The sanctions described in this paragraph are the exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of an agency or instrumentality of a foreign state if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+Sanctions described.—The sanctions described in this paragraph are the exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of an agency or instrumentality of a foreign state if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 
 "(b)
 
@@ -864,7 +864,7 @@ In general.—The authorities and requirements to impose sanctions under this Ac
 
 &emsp;"(2)
 
-Definition.—In this subsection, the term 'good' means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+Definition.—In this subsection, the term 'good' means any article, natural or manmade substance, material, supply or manufactured product, includinginspection and test equipment, and excluding technical data.
 
 #### "TITLE II—SANCTIONS AND REPORTS RELATING TO NARCOTICS TRAFFICKING AND SIGNIFICANT TRANSNATIONAL CRIMINAL ACTIVITIES OF HIZBALLAH
 
@@ -1076,7 +1076,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) is no longer designated for the imposition of sanctions pursuant to Executive Order 13224 (50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism)."
 
-\[Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 3963, delegated to the Secretary of State the functions and authorities vested in the President by sections 101(b)(2), 101(c), 102(b), 103(b–c), and 201(c) of Pub. L. 114–102, set out above; to the Secretary of the Treasury the functions and authorities vested in the President by sections 101(a), 101(b)(1), 102(a), 102(c), 103(a), 201(a–b), 204(b), and 302 of Pub. L. 114–102; and to the Director of National Intelligence the functions and authorities vested in the President by sections 202 and 204(a, c–d) of Pub. L. 114–102, and any future Act that is the same or substantially the same as such provisions, and rescinded and replaced any prior delegations of authority to the Secretary of the Treasury, the Secretary of State, and the Director of National Intelligence under Pub. L. 114–102.\]
+\[Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 3963, delegated to the Secretary of State the functions and authorities vested in the President by sections 101(b)(2), 101(c), 102(b), 103(b–c), and 201(c) of Pub. L. 114–102, set out above; to the Secretary of the Treasury the functions and authorities vested in the President by sections 101(a), 101(b)(1), 102(a), 102(c), 103(a), 201(a–b), 204(b), and 302 of Pub. L. 114–102; and to the Director of National Intelligence the functions and authorities vested in the President by sections 202 and 204(a, c–d) of Pub. L. 114–102, and any future Act that is the same or substantially the same as such provisions, and rescinded and replaced any prior delegations of authority to the Secretary of the Treasury, the Secretaryof State, and the Director of National Intelligence under Pub. L. 114–102.\]
 
 \[Memorandum of President of the United States, Mar. 18, 2016, 81 F.R. 15421, which delegated to the Director of National Intelligence the functions and authorities vested in the President by sections 101, 201, and 202 of Pub. L. 114–102, set out above, was rescinded and replaced by Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 3963, see above.\]
 
@@ -1246,7 +1246,7 @@ United states person.—The term 'United States person' means—
 
 "(a)
 
-In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 18, 2014\], theChairman of the Broadcasting Board of Governors (in this section referred to as the 'Board') shall submit to Congress a report that includes—
+In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 18, 2014\], the Chairman of the Broadcasting Board of Governors (in this section referred to as the 'Board') shall submit to Congress a report that includes—
 
 &emsp;"(1) a thorough evaluation of the governmental, political, and technological obstacles faced by the people of Venezuela in their efforts to obtain accurate, objective, and comprehensive news and information about domestic and international affairs;
 
@@ -1372,7 +1372,7 @@ Government of sudan.—The term 'Government of Sudan'—
 
 Marginalized populations of sudan.—The term 'marginalized populations of Sudan' refers to—
 
-&emsp;&emsp;"(A) adversely affected groups in regions authorized to receive assistance under section 8(c) of theDarfur Peace and Accountability Act \[of 2006\] (Public Law 109–344; 50 U.S.C. 1701 note); and
+&emsp;&emsp;"(A) adversely affected groups in regions authorized to receive assistance under section 8(c) of the Darfur Peace and Accountability Act \[of 2006\] (Public Law 109–344; 50 U.S.C. 1701 note); and
 
 &emsp;&emsp;"(B) marginalized areas in Northern Sudan described in section 4(9) of such Act.
 
@@ -1618,7 +1618,7 @@ Report.—Not later than one year after the date the Federal Acquisition Regulat
 
 "It is the sense of Congress that the President should—
 
-&emsp;"(1) continue to work with other members of the international community, including the Permanent Members of the United Nations Security Council, the African Union, the European Union, the Arab League,and the Government of Sudan to facilitate the urgent deployment of a peacekeeping force to Sudan; and
+&emsp;"(1) continue to work with other members of the international community, including the Permanent Members of the United Nations Security Council, the African Union, the European Union, the Arab League, and the Government of Sudan to facilitate the urgent deployment of a peacekeeping force to Sudan; and
 
 &emsp;"(2) bring before the United Nations Security Council, and call for a vote on, a resolution requiring meaningful multilateral sanctions against the Government of Sudan in response to its acts of genocide against the people of Darfur and its continued refusal to allow the implementation of a peacekeeping force in Sudan.
 
@@ -1636,9 +1636,9 @@ Report.—Not later than one year after the date the Federal Acquisition Regulat
 
 In General.—The Secretary of State and the Secretary of the Treasury shall submit to the appropriate congressional committees a report assessing the effectiveness of sanctions imposed with respect to Sudan at the time the Secretary of State and the Secretary of the Treasury submits \[sic\] reports required under—
 
-&emsp;"(1) the Sudan Peace Act (Public Law 107–245; 50 U.S.C. 1701 note);
+&emsp;"(1) the Sudan Peace Act (Public Law 107–245; 50 U.S.C. 1701 note) \[formerly set out as a note below\];
 
-&emsp;"(2) the Comprehensive Peace in Sudan Act of 2004 (Public Law 108–497; 50 U.S.C. 1701 note); and
+&emsp;"(2) the Comprehensive Peace in Sudan Act of 2004 (Public Law 108–497; 50 U.S.C. 1701 note) \[formerly set out as a note below\]; and
 
 &emsp;"(3) the Darfur Peace and Accountability Act of 2006 (Public Law 109–344; 50 U.S.C. 1701 note).
 
@@ -1676,7 +1676,7 @@ Contents.—The reports required by subsections (a) and (b) shall include—
 
 #### Darfur Peace and Accountability
 
-Pub. L. 109–344, Oct. 13, 2006, 120 Stat. 1869, provided that:
+Pub. L. 109–344, Oct. 13, 2006, 120 Stat. 1869, as amended by Pub. L. 116–283, div. A, title XII, §1270D, Jan. 1, 2021, 134 Stat. 3978, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -1742,7 +1742,7 @@ Officials of the government of sudan.—The term 'official of the Government of 
 
 &emsp;"(5) On September 18, 2004, the United Nations Security Council passed Security Council Resolution 1564 (2004), determining that the Government of Sudan had failed to meet its obligations under Security Council Resolution 1556 (2004), calling for a military flight ban in and over the Darfur region, demanding the names of Janjaweed militiamen disarmed and arrested for verification, establishing an International Commission of Inquiry on Darfur to investigate violations of international humanitarian and human rights laws, and threatening sanctions should the Government of Sudan fail to fully comply with Security Council Resolutions 1556 (2004) and 1564 (2004), including such actions as to affect Sudan's petroleum sector or individual members of the Government of Sudan.
 
-&emsp;"(6) The Report of the International Commission of Inquiry on Darfur, submitted to the United Nations Secretary-General on January 25, 2005, established that the 'Government of the Sudan and the Janjaweed are responsible for serious violations of international human rights and humanitarian law amounting to crimes under international law,' that 'these acts were conducted on a widespread and systematic basis, and therefore may amount to crimes against humanity,' and that officials of the Government of Sudan and other individuals may have acted with 'genocidal intent'.
+&emsp;"(6) The Report of the International Commission of Inquiry on Darfur, submitted to the United Nations Secretary-General on January 25, 2005, established that the 'Government of the Sudan and the Janjaweed are responsible for serious violations of international human rights and humanitarian law amounting to crimes under international law,' that 'these acts were conducted on a widespread and systematic basis, and therefore may amount to crimesagainst humanity,' and that officials of the Government of Sudan and other individuals may have acted with 'genocidal intent'.
 
 &emsp;"(7) On March 24, 2005, the United Nations Security Council passed Security Council Resolution 1590 (2005), establishing the United Nations Mission in Sudan (referred to in this section as the 'UNMIS'), consisting of up to 10,000 military personnel and 715 civilian police tasked with supporting the implementation of the Comprehensive Peace Agreement for Sudan and to 'closely and continuously liaise and coordinate at all levels with the African Union Mission in Sudan (AMIS)', which had been established by the African Union on May 24, 2004, to monitor the implementation of the N'Djamena Humanitarian Ceasefire Agreement, signed on April 8, 2004, 'with a view towards expeditiously reinforcing the effort to foster peace in Darfur'.
 
@@ -1786,7 +1786,7 @@ Officials of the government of sudan.—The term 'official of the Government of 
 
 &emsp;"(2) all parties to the conflict in the Darfur region have continued to violate the N'Djamena Ceasefire Agreement of April 8, 2004, and the Abuja Protocols of November 9, 2004, and violence against civilians, humanitarian aid workers, and personnel of AMIS is increasing;
 
-&emsp;"(3) the African Union should immediately make all necessary preparations for an orderly transition to a United Nations peacekeeping operation, which will maintain an appropriate level of African participation, with a mandate to protect civilians and humanitarian operations, assist in the implementation of the Darfur Peace Agreement, and deter violence in the Darfur region;
+&emsp;"(3) the African Union should immediately make all necessary preparations for an orderly transitionto a United Nations peacekeeping operation, which will maintain an appropriate level of African participation, with a mandate to protect civilians and humanitarian operations, assist in the implementation of the Darfur Peace Agreement, and deter violence in the Darfur region;
 
 &emsp;"(4) the international community, including the United States and the European Union, should immediately act to mobilize sufficient political, military, and financial resources through the United Nations and the North Atlantic Treaty Organization, to support the transition of AMIS to a United Nations peacekeeping operation with the size, strength, and capacity necessary to protect civilians and humanitarian operations, to assist with the implementation of the Darfur Peace Agreement, and to end the continued violence in the Darfur region;
 
@@ -1838,15 +1838,15 @@ Officials of the government of sudan.—The term 'official of the Government of 
 
 "(a)
 
-Blocking of Assets and Restriction on Visas.—\[Amended Pub. L. 108–497, set out below.\]
+Blocking of Assets and Restriction on Visas.—\[Amended Pub. L. 108–497, formerly set out below.\]
 
 "(b)
 
-Waiver.—\[Amended Pub. L. 108–497, set out below.\]
+Waiver.—\[Amended Pub. L. 108–497, formerly set out below.\]
 
 "(c)
 
-Sanctions Against Janjaweed Commanders and Coordinators or Other Individuals.—It is the sense of Congress, that the President should immediately impose the sanctions described in section 6(c) of the Comprehensive Peace in Sudan Act of 2004 \[Pub. L. 108–497, set out below\], as added by subsection (a), against any individual, including the Janjaweed commanders and coordinators, identified as those who, among other acts, 'impede the peace process, constitute a threat to stability in Darfur and the region, commit violations of international humanitarian or human rights law or other atrocities'.
+Sanctions Against Janjaweed Commanders and Coordinators or Other Individuals.—It is the sense of Congress, that the President should immediately impose the sanctions described in section 6(c) of the Comprehensive Peace in Sudan Act of 2004 \[Pub. L. 108–497, formerly set out below\], as added by subsection (a), against any individual, including the Janjaweed commanders and coordinators, identified as those who, among other acts, 'impede the peace process, constitute a threat to stability in Darfur and the region, commit violations of international humanitarian or human rights law or other atrocities'.
 
 #### "SEC. 6. ADDITIONAL AUTHORITIES TO DETER AND SUPPRESS GENOCIDE IN DARFUR.
 
@@ -1854,7 +1854,7 @@ Sanctions Against Janjaweed Commanders and Coordinators or Other Individuals.—
 
 Presidential Assistance To Support AMIS.—Subject to subsection (b) and notwithstanding any other provision of law, the President is authorized to provide AMIS with—
 
-&emsp;"(1) assistance for any expansion of the mandate, size, strength, and capacity to protect civilians and humanitarian operations in order to help stabilize the Darfur region of Sudan and dissuade and deter air attacks directed against civilians and humanitarian workers; and
+&emsp;"(1) assistance for any expansion of the mandate, size, strength, and capacity to protect civilians andhumanitarian operations in order to help stabilize the Darfur region of Sudan and dissuade and deter air attacks directed against civilians and humanitarian workers; and
 
 &emsp;"(2) assistance in the areas of logistics, transport, communications, material support, technical assistance, training, command and control, aerial surveillance, and intelligence.
 
@@ -1958,7 +1958,7 @@ Assistance for International Malaria Control Act.—\[Repealed section 501 of Pu
 
 "(b)
 
-Comprehensive Peace in Sudan Act.—\[Amended Pub. L. 108–497, set out below.\]
+Comprehensive Peace in Sudan Act.—\[Amended Pub. L. 108–497, formerly set out below.\]
 
 "(c)
 
@@ -1966,7 +1966,7 @@ Economic Assistance.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, the President is authorized to provide economic assistance for Southern Sudan, Southern Kordofan/Nuba Mountains State, Blue Nile State, Abyei, Darfur, and marginalized areas in and around Khartoum, in an effort to provide emergency relief, to promote economic self-sufficiency, to build civil authority, to provide education, to enhance rule of law and the development of judicial and legal frameworks, and to support people to people reconciliation efforts, or to implement any nonmilitary program in support of any viable peace agreement in Sudan, including the Comprehensive Peace Agreement for Sudan and the Darfur Peace Agreement.
+In general.—Notwithstanding any other provision of law, the President is authorized to provide economic assistance for Sudan in an effort to provide emergency relief, to promote economic self-sufficiency, to build civil authority, to provide education, to enhance rule of law and the development of judicial and legal frameworks, and to support people to people reconciliation efforts, or to implement any nonmilitary program in support of any viable peace agreement in Sudan, including the Comprehensive Peace Agreement for Sudan and the Darfur Peace Agreement.
 
 &emsp;"(2)
 
@@ -1978,7 +1978,7 @@ Authorized Military Assistance.—
 
 &emsp;"(1)
 
-In general.—If the President has not made a certification under section 12(a)(3) of the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C. 1701 note) regarding the noncompliance of the SPLM/A or the Government of Southern Sudan with the Comprehensive Peace Agreement for Sudan, the President, notwithstanding any other provision of law, may authorize, for each of fiscal years 2006, 2007, and 2008, the provision of the following assistance to the Government of Southern Sudan for the purpose of constituting a professional military force—
+In general.—If the President has not made a certification under section 12(a)(3) of the Sudan Peace Act \[Pub. L. 107–245, formerly set out below\] (50 U.S.C. 1701 note) regarding the noncompliance of the SPLM/A or the Government of Southern Sudan with the Comprehensive Peace Agreement for Sudan, the President, notwithstanding any other provision of law, may authorize, for each of fiscal years 2006, 2007, and 2008, the provision of the following assistance to the Government of Southern Sudan for the purpose of constituting a professional military force—
 
 &emsp;&emsp;"(A) non-lethal military equipment and related defense services, including training, controlled under the International Traffic in Arms Regulations (22 C.F.R. 120.1 et seq.) if the President—
 
@@ -2106,7 +2106,7 @@ Pub. L. 110–286, July 29, 2008, 122 Stat. 2632, provided that:
 
 &emsp;"(8) The SPDC seeks to evade the sanctions imposed in the Burmese Freedom and Democracy Act of 2003 \[Pub. L. 108–61, set out below\]. Millions of dollars in gemstones that are exported from Burma ultimately enter the United States, but the Burmese regime attempts to conceal the origin of the gemstones in an effort to evade sanctions. For example, according to gem industry experts, over 90 percent of the world's ruby supply originates in Burma but only 3 percent of the rubies entering the United States are claimed to be of Burmese origin. The value of Burmese gemstones is predominantly based on their original quality and geological origin, rather than the labor involved in cutting and polishing the gemstones.
 
-&emsp;"(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than ¼ of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, represent more than 11 percent of Burma's official foreign exchange earnings.
+&emsp;"(9) According to hardwood industry experts, Burma is home to approximately 60 percent of the world's native teak reserves. More than ¼ of the world's internationally traded teak originates from Burma, and hardwood sales, mainly of teak, representmore than 11 percent of Burma's official foreign exchange earnings.
 
 &emsp;"(10) The SPDC owns a majority stake in virtually all enterprises responsible for the extraction and trade of Burmese natural resources, including all mining operations, the Myanmar Timber Enterprise, the Myanmar Gems Enterprise, the Myanmar Pearl Enterprise, and the Myanmar Oil and Gas Enterprise. Virtually all profits from these enterprises enrich the SPDC.
 
@@ -2198,7 +2198,7 @@ Waiver.—The President may waive the visa ban described in paragraph (1) only i
 
 &emsp;"(3)
 
-Rule of construction.—Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 (Public Law 110–161) \[121 Stat. 2366\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burmanow or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
+Rule of construction.—Nothing in this subsection shall be construed to conflict with the provisions of section 694 of the Consolidated Appropriations Act, 2008 (Public Law 110–161) \[121 Stat. 2366\], nor shall this subsection be construed to make ineligible for a visa members of ethnic groups in Burma now or previously opposed to the regime who were forced to provide labor or other support to the Burmese military and who are otherwise eligible for admission into the United States.
 
 "(b)
 
@@ -2460,7 +2460,7 @@ Form.—The report required under subsection (a) shall be submitted in unclassif
 
 "(a)
 
-Report.—Not later than one year after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State, in consultation with the Secretary of Commerce, and other Federal officials, as appropriate, shall submit to the appropriate congressional committees a report on Burma's timber trade containing information on the following:
+Report.—Not later than one year after the date of the enactment of this Act \[July 29, 2008\] and annually thereafter, the Secretary of State, in consultationwith the Secretary of Commerce, and other Federal officials, as appropriate, shall submit to the appropriate congressional committees a report on Burma's timber trade containing information on the following:
 
 &emsp;"(1) Products entering the United States made in whole or in part of wood grown and harvested in Burma, including measurements of annual value and volume and considering both legal and illegal timber trade.
 
@@ -2548,13 +2548,13 @@ Statement of Policy.—
 
 Sense of Congress.—It is the sense of Congress that so long as Yadana investors remain invested in Burma, such investors should—
 
-&emsp;"(1) communicate to the Burmese Government, military and business officials, at the highest levels,concern about the lack of genuine consultation between the Burmese Government and its people, the failure of the Burmese Government to use its natural resources to benefit the Burmese people, and the military's use of forced labor;
+&emsp;"(1) communicate to the Burmese Government, military and business officials, at the highest levels, concern about the lack of genuine consultation between the Burmese Government and its people, the failure of the Burmese Government to use its natural resources to benefit the Burmese people, and the military's use of forced labor;
 
 &emsp;"(2) publicly disclose and deal with in a transparent manner, consistent with legal obligations, its role in any ongoing investment in Burma, including its financial involvement in any joint production agreement or other joint ventures and the amount of their direct or indirect support of the Burmese Government; and
 
 &emsp;"(3) work with project partners to ensure that forced labor is not used to construct, maintain, support, or defend the project facilities, including pipelines, offices, or other facilities."
 
-\[Ex. Ord. No. 13651, §8, Aug. 6, 2013, 78 F.R. 48794, determined and certified under section 5(i) of Pub. L. 110–286, set out above, that it was in the national interest of the United States to waive, and did waive, the sanctions described in section 5(b) of Pub. L. 110–286, subject to an exception continuing the prohibition of certain transactions.\]
+\[Ex. Ord. No. 13651, §8, Aug. 6, 2013, 78 F.R. 48794, determined and certified under section 5(i) of Pub. L.110–286, set out above, that it was in the national interest of the United States to waive, and did waive, the sanctions described in section 5(b) of Pub. L. 110–286, subject to an exception continuing the prohibition of certain transactions.\]
 
 \[Memorandum of President of the United States, Aug. 29, 2012, 77 F.R. 57479, delegated to the Secretary of State the functions and authority conferred upon the President by section 5(a)(2) of Pub. L. 110–286, set out above, to waive the visa ban under section 5(a)(1) of that Act, and to make the specified certification to Congress.\]
 
@@ -2738,7 +2738,7 @@ Requirements for Importation of Non-Burmese Covered Articles.—
 
 In general.—Except as provided in paragraph (2), until such time as the President determines and certifies to the appropriate congressional committees that Burma has met the conditions described in section 3(a)(3), beginning 60 days after the date of the enactment of the Tom Lantos Block Burmese JADE (Junta's Anti-Democratic Efforts) Act of 2008 \[July 29, 2008\], the President shall require as a condition for the importation into the United States of any non-Burmese covered article that—
 
-&emsp;&emsp;"(A) the exporter of the non-Burmese covered article has implemented measures that have substantially the same effect and achieve the same goals as the measures described in clauses (i) through (iv) ofparagraph (2)(B) (or their functional equivalent) to prevent the trade in Burmese covered articles; and
+&emsp;&emsp;"(A) the exporter of the non-Burmese covered article has implemented measures that have substantially the same effect and achieve the same goals as the measures described in clauses (i) through (iv) of paragraph (2)(B) (or their functional equivalent) to prevent the trade in Burmese covered articles; and
 
 &emsp;&emsp;"(B) the importer of the non-Burmese covered article agrees—
 
@@ -2752,7 +2752,7 @@ Exception.—
 
 &emsp;&emsp;"(A)
 
-In general.—The President may waive the requirements of paragraph (1) with respect to the importation of non-Burmese covered articles from any country with respect to which the President determines and certifies to the appropriate congressional committees has implemented the measures described in subparagraph (B) (or their functional equivalent) to prevent the trade in Burmese covered articles.
+In general.—The President may waive the requirements of paragraph (1) with respect to the importation of non-Burmese covered articles from any country with respect to which the Presidentdetermines and certifies to the appropriate congressional committees has implemented the measures described in subparagraph (B) (or their functional equivalent) to prevent the trade in Burmese covered articles.
 
 &emsp;&emsp;"(B)
 
@@ -2964,7 +2964,7 @@ Expedited consideration.—The provisions of section 152(b), (c), (d), (e), and 
 
 \[For effective date of amendment by Pub. L. 110–286, §6(b)(1), (2), see section 6(b)(3) of Pub. L. 110–286, set out above.\]
 
-\[Pub. L. 109–251, §3, Aug. 1, 2006, 120 Stat. 654, provided that: "This Act \[enacting note below and amending Pub. L. 108–61 set out above\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first."\]
+\[Pub. L. 109–251, §3, Aug. 1, 2006, 120 Stat. 654, provided that: "This Act \[enacting note below and amending Pub. L. 108–61 set out above\] and the amendments made by this Act shall take effect on the date of theenactment of this Act \[Aug. 1, 2006\] or July 26, 2006, whichever occurs first."\]
 
 \[Proc. No. 8294, Sept. 26, 2008, 73 F.R. 57223, provided: in par. (2), that beginning on Sept. 27, 2008, importation of Burmese covered articles into the United States is prohibited, subject to certain exceptions; in par. (3), that beginning on Sept. 27, 2008, importation of non-Burmese covered articles into the United States is subject to certain conditions, with certain exceptions; in par. (4), that the Secretary of the Treasury and the Secretary of Homeland Security are authorized to issue regulations, licenses, and orders and to conduct necessary investigations to implement the prohibition on Burmese covered articles and the conditions for importation of non-Burmese covered articles set forth in section 3A(b), (c) of Pub. L. 108–61, set out above, and also to redelegate those functions as necessary; in par. (5), that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to perform the functions set forth in section 3A(c)(2)(A) of Pub. L. 108–61 relating to the issuance of waivers and may redelegate those functions; in par. (6), that the United States Trade Representative is authorized to perform the functions specified in section 3A(b)(3)(A) of Pub. L. 108–61; and, in pars. (7) to (9), that the Secretary of State is authorized to perform the functions specified in sections 3(b) and 3A(b)(3)(B) of Pub. L. 108–61, as well as the functions in section 3A(g) of that Act, in consultation with the United States Trade Representative.\]
 
@@ -3122,489 +3122,11 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Sudan Peace
 
-Pub. L. 108–497, Dec. 23, 2004, 118 Stat. 4012, as amended by Pub. L. 109–344, §§5(a), (b), 8(b), Oct. 13, 2006, 120 Stat. 1875, 1876, 1879, provided that:
+Pub. L. 108–497, Dec. 23, 2004, 118 Stat. 4012, as amended by Pub. L. 109–344, §§5(a), (b), 8(b), Oct. 13, 2006, 120 Stat. 1875, 1876, 1879, known as the Comprehensive Peace in Sudan Act of 2004, which enforced a comprehensive peace agreement for Sudan, as envisioned in the Sudan Peace Act and the Machakos Protocol of 2002, and continued to provide humanitarian assistance to the areas of Sudan to which the United States has access, was repealed by Pub. L. 116–283, div. A, title XII, §1270E(b), Jan. 1, 2021, 134 Stat. 3978, effective Jan. 1, 2020.
 
-#### "SECTION 1. SHORT TITLE.
+Pub. L. 107–245, Oct. 21, 2002, 116 Stat. 1504, as amended by Pub. L. 108–497, §5, Dec. 23, 2004, 118 Stat. 4016; Pub. L. 109–344, §9, Oct. 13, 2006, 120 Stat. 1880, known as the Sudan Peace Act, which authorized increased assistance to the areas of Sudan not controlled by the Government of Sudan to prepare the population for peace and democratic governance, was repealed by Pub. L. 116–283, div. A, title XII, §1270E(a), Jan. 1, 2021, 134 Stat. 3978, effective Jan. 1, 2020.
 
-"This Act may be cited as the 'Comprehensive Peace in Sudan Act of 2004'.
-
-#### "SEC. 2. DEFINITIONS.
-
-"In this Act:
-
-&emsp;"(1)
-
-Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[nowCommittee on Foreign Affairs\] of the House of Representatives.
-
-&emsp;"(2)
-
-Government of sudan.—The term 'Government of Sudan' means the National Congress Party, formerly known as the National Islamic Front, government in Khartoum, Sudan, or any successor government formed on or after the date of the enactment of this Act \[Dec. 23, 2004\] (other than the coalition government agreed upon in the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004).
-
-&emsp;"(3) JEM.—The term 'JEM' means the Justice and Equality Movement.
-
-&emsp;"(4) SLA.—The term 'SLA' means the Sudan Liberation Army.
-
-&emsp;"(5) SPLM.—The term 'SPLM' means the Sudan People's Liberation Movement.
-
-#### "SEC. 3. FINDINGS.
-
-"Congress makes the following findings:
-
-&emsp;"(1) A comprehensive peace agreement for Sudan, as envisioned in the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C. 1701 note) and the Machakos Protocol of 2002, could be in jeopardy if the parties do not implement and honor the agreements they have signed.
-
-&emsp;"(2) Since seizing power through a military coup in 1989, the Government of Sudan repeatedly has attacked and dislocated civilian populations in southern Sudan in a coordinated policy of ethnic cleansing and genocide that has cost the lives of more than 2,000,000 people and displaced more than 4,000,000 people.
-
-&emsp;"(3) In response to two decades of civil conflict in Sudan, the United States has helped to establish an internationally supported peace process to promote a negotiated settlement to the war that has resulted in a framework peace agreement, the Nairobi Declaration on the Final Phase of Peace in the Sudan, signed on June 5, 2004.
-
-&emsp;"(4) At the same time that the Government of Sudan was negotiating for a comprehensive and all inclusive peace agreement, enumerated in the Nairobi Declaration on the Final Phase of Peace in the Sudan, it refused to engage in any meaningful discussion with regard to its ongoing campaign of ethnic cleansing and genocide in the Darfur region of western Sudan.
-
-&emsp;"(5) The Government of Sudan reluctantly agreed to attend talks to bring peace to the Darfur region only after considerable international pressure and outrage was expressed through high level visits by Secretary of State Colin Powell and others, and through United Nations Security Council Resolution 1556 (July 30, 2004).
-
-&emsp;"(6) The Government of the United States, in both the executive branch and Congress, has concluded that genocide has been committed and may still be occurring in the Darfur region, and that the Government of Sudan and militias supported by the Government of Sudan, known as the Janjaweed, bear responsibility for the genocide.
-
-&emsp;"(7) Evidence collected by international observers in the Darfur region between February 2003 and November 2004 indicate a coordinated effort to target African Sudanese civilians in a scorched earth policy, similar to that which was employed in southern Sudan, that has destroyed African Sudanese villages, killing and driving away their people, while Arab Sudanese villages have been left unscathed.
-
-&emsp;"(8) As a result of this genocidal policy in the Darfur region, an estimated 70,000 people have died, more than 1,600,000 people have been internally displaced, and more than 200,000 people have been forced to flee to neighboring Chad.
-
-&emsp;"(9) Reports further indicate the systematic rape of thousands of women and girls, the abduction of women and children, and the destruction of hundreds of ethnically African villages, including the poisoning of their wells and the plunder of their crops and cattle upon which the people of such villages sustain themselves.
-
-&emsp;"(10) Despite the threat of international action expressed through United Nations Security Council Resolutions 1556 (July 30, 2004) and 1564 (September 18, 2004), the Government of Sudan continues to obstruct and prevent efforts to reverse the catastrophic consequences that loom over the Darfur region.
-
-&emsp;"(11) In addition to the thousands of violent deaths directly caused by ongoing Sudanese military and government-sponsored Janjaweed attacks in the Darfur region, the Government of Sudan has restricted access by humanitarian and human rights workers to the Darfur area through intimidation by military and security forces, and through bureaucratic and administrative obstruction, in an attempt to inflict the most devastating harm on those individuals displaced from their villages and homes without any means of sustenance or shelter.
-
-&emsp;"(12) The Government of Sudan's continued support for the Janjaweed and their obstruction of the delivery of food, shelter, and medical care to the Darfur region is estimated by the World Health Organization to be causing up to 10,000 deaths per month and, should current conditions persist, is projected to escalate to thousands of deaths each day by December 2004.
-
-&emsp;"(13) The Government of Chad served an important role in facilitating the humanitarian cease-fire (the N'Djamena Agreement dated April 8, 2004) for the Darfur region between the Government of Sudan and the two opposition rebel groups in the Darfur region (the JEM and the SLA), although both sides have violated the cease-fire agreement repeatedly.
-
-&emsp;"(14) The people of Chad have responded courageously to the plight of over 200,000 Darfur refugees by providing assistance to them even though such assistance has adversely affected their own means of livelihood.
-
-&emsp;"(15) On September 9, 2004, Secretary of State Colin Powell stated before the Committee on Foreign Relations of the Senate: 'When we reviewed the evidence compiled by our team, along with other information available to the State Department, we concluded that genocide has been committed in Darfur and that the Government of Sudan and the \[Janjaweed\] bear responsibility—and genocide may still be occurring.'.
-
-&emsp;"(16) The African Union has demonstrated renewed vigor in regional affairs through its willingness to respond to the crisis in the Darfur region, by convening talks between the parties and deploying several hundred monitors and security forces to the region, as well as by recognizing the need for a far larger force with a broader mandate.
-
-&emsp;"(17) The Government of Sudan's complicity in the atrocities and genocide in the Darfur region raises fundamental questions about the Government of Sudan's commitment to peace and stability in Sudan.
-
-#### "SEC. 4. SENSE OF CONGRESS REGARDING THE CONFLICT IN DARFUR, SUDAN.
-
-"(a)
-
-Sudan Peace Act.—It is the sense of Congress that the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C. 1701 note) remains relevant and should be extended to include the Darfur region of Sudan.
-
-"(b)
-
-Actions To Address the Conflict.—It is the sense of Congress that—
-
-&emsp;"(1) a legitimate countrywide peace in Sudan will only be possible if those principles enumerated in the 1948 Universal Declaration of Human Rights, that are affirmed in the Machakos Protocol of 2002 and the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004, are applied to all of Sudan, including the Darfur region;
-
-&emsp;"(2) the parties to the N'Djamena Agreement (the Government of Sudan, the JEM, and the SLA) must meet their obligations under that Agreement to allow safe and immediate delivery of all humanitarian assistance throughout the Darfur region and must expedite the conclusion of a political agreement to end the genocide and conflict in the Darfur region;
-
-&emsp;"(3) the United States should continue to provide humanitarian assistance to the areas of Sudan towhich the United States has access and, at the same time, implement a plan to provide assistance to the areas of Sudan to which access has been obstructed or denied;
-
-&emsp;"(4) the international community, including African, Arab, and Muslim nations, should immediately provide resources necessary to save the lives of hundreds of thousands of individuals at risk as a result of the crisis in the Darfur region;
-
-&emsp;"(5) the United States and the international community should—
-
-&emsp;&emsp;"(A) provide all necessary assistance to deploy and sustain an African Union Force to the Darfur region; and
-
-&emsp;&emsp;"(B) work to increase the authorized level and expand the mandate of such forces commensurate with the gravity and scope of the problem in a region the size of France;
-
-&emsp;"(6) the President, acting through the Secretary of State and the Permanent Representative of the United States to the United Nations, should—
-
-&emsp;&emsp;"(A) condemn any failure on the part of the Government of Sudan to fulfill its obligations under United Nations Security Council Resolutions 1556 (July 30, 2004) and 1564 (September 18, 2004), and press the United Nations Security Council to respond to such failure by immediately imposing the penalties suggested in paragraph (14) of United Nations Security Council Resolution 1564;
-
-&emsp;&emsp;"(B) press the United Nations Security Council to pursue accountability for those individuals who are found responsible for orchestrating and carrying out the atrocities in the Darfur region, consistent with relevant United Nations Security Council Resolutions; and
-
-&emsp;&emsp;"(C) encourage member states of the United Nations to—
-
-&emsp;&emsp;&emsp;"(i) cease to import Sudanese oil; and
-
-&emsp;&emsp;&emsp;"(ii) take the following actions against Sudanese Government and military officials and other individuals, who are planning, carrying out, or otherwise involved in the policy of genocide in the Darfur region, as well as their families, and businesses controlled by the Government of Sudan and the National Congress Party:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) freeze the assets held by such individuals or businesses in each such member state; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) restrict the entry or transit of such officials through each such member state;
-
-&emsp;"(7) the President should impose targeted sanctions, including a ban on travel and the freezing of assets, on those officials of the Government of Sudan, including military officials, and other individuals who have planned or carried out, or otherwise been involved in the policy of genocide in the Darfur region, and should also freeze the assets of businesses controlled by the Government of Sudan or the National Congress Party;
-
-&emsp;"(8) the Government of the United States should not normalize relations with Sudan, including through the lifting of any sanctions, until the Government of Sudan agrees to, and takes demonstrable steps to implement, peace agreements for all areas of Sudan, including the Darfur region;
-
-&emsp;"(9) those individuals found to be involved in the planning or carrying out of genocide, war crimes, or crimes against humanity should not hold leadership positions in the Government of Sudan or the coalition government established pursuant to the agreements reached in the Nairobi Declaration on the Final Phase of Peace in the Sudan; and
-
-&emsp;"(10) the Government of Sudan has a primary responsibility to guarantee the safety and welfare of its citizens, which includes allowing them access to humanitarian assistance and providing them protection from violence.
-
-#### "SEC. 5. AMENDMENTS TO THE SUDAN PEACE ACT.
-
-"\[Amended Pub. L. 107–245, set out below.\]
-
-#### "SEC. 6. SANCTIONS IN SUPPORT OF PEACE IN DARFUR.
-
-"(a)
-
-Sanctions.—Beginning on the date that is 30 days after the date of enactment of this Act \[Dec. 23, 2004\], the President shall, notwithstanding paragraph (1) of section 6(b) of the Sudan Peace Act \[Pub. L. 107–245\] (50 U.S.C. 1701 note), implement the measures set forth in subparagraphs (A) through (D) of paragraph (2) of such section.
-
-"(b)
-
-Blocking of Assets of Appropriate Senior Officials of the Government of Sudan.—Beginning on the date that is 30 days after the date of enactment of this Act, the President shall, consistent with the authorities granted in the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block the assets of appropriate senior officials of the Government of Sudan.
-
-"(c)
-
-Blocking of Assets and Restriction on Visas of Certain Individuals Identified by the President.—
-
-&emsp;"(1)
-
-Blocking of assets.—Beginning on the date that is 30 days after the date of the enactment of the Darfur Peace and Accountability Act of 2006 \[Oct. 13, 2006\], and in the interest of contributing to peace in Sudan, the President shall, consistent with the authorities granted under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), block the assets of any individual who the President determines is complicit in, or responsible for, acts of genocide, war crimes, or crimes against humanity in Darfur, including the family members or any associates of such individual to whom assets or property of such individual was transferred on or after July 1, 2002.
-
-&emsp;"(2)
-
-Restriction on visas.—Beginning on the date that is 30 days after the date of the enactment of the Darfur Peace and Accountability Act of 2006, and in the interest of contributing to peace in Sudan, the President shall deny a visa and entry to any individual who the President determines to be complicit in, or responsible for, acts of genocide, war crimes, or crimes against humanity in Darfur, including the family members or any associates of such individual to whom assets or property of such individual was transferred on or after July 1, 2002.
-
-"(d)
-
-Waiver.—The President may waive the application of subsection (a) or (b) if the President determines and certifies to the appropriate congressional committees that such a waiver is in the national interest of the United States. The President may waive the application of paragraph (1) or (2) of subsection (c) with respect to any individual if the President determines that such a waiver is in the national interests of the United States and, before exercising the waiver, notifies the appropriate congressional committees of the name of the individual and the reasons for the waiver.
-
-"(e)
-
-Continuation of Restrictions.—Restrictions against the Government of Sudan that were imposed pursuant to title III and sections 508, 512, and 527 of the Foreign Operations, Export Financing, and Related Programs Act, 2004 (division D of Public Law 108–199; 118 Stat. 143 \[162, 169, 170, 177\]), or any other similar provision of law, shall remain in effect against the Government of Sudan and may not be lifted pursuant to such provisions of law unless the President transmits a certification to the appropriate congressional committees in accordance with paragraph (2) of section 12(a) of the Sudan Peace Act (as added by section 5(a)(1) of this Act).
-
-"(f)
-
-Determination.—Notwithstanding subsection (a) of this section, the President shall continue to transmit the determination required under section 6(b)(1)(A) of the Sudan Peace Act (50 U.S.C. 1701 note).
-
-#### "SEC. 7. ADDITIONAL AUTHORITIES.
-
-"\[Repealed. Pub. L. 109–344, §8(b), Oct. 13, 2006, 120 Stat. 1879.\]
-
-#### "SEC. 8. TECHNICAL CORRECTION.
-
-"\[Amended section 288f–2 of Title 22, Foreign Relations and Intercourse.\]"
-
-\[For assignment of functions of President under subsec. (c) and the last sentence of subsec. (d) of section 6 of Pub. L. 108–497, set out above, see section 4(c), (d) of Ex. Ord. No. 13412, Oct. 13, 2006, 71 F.R. 61370, listed in a table below.\]
-
-\[Effective July 12, 2017, and subject to certain conditions, functions of President under section 6(c)(1) of Pub. L. 108–497, set out above, assigned to Secretary of the Treasury and under section 6(c)(2) and the last sentence of section 6(d) of Pub. L. 108–497, set out above, assigned to Secretary of State, except that function of denial of entry assigned to Secretary of Homeland Security, by sections 4, 5, and 12(b) of Ex. Ord. No. 13761, Jan. 13, 2017, 82 F.R. 5331, 5333, set out below.\]
-
-Pub. L. 107–245, Oct. 21, 2002, 116 Stat. 1504, as amended by Pub. L. 108–497, §5, Dec. 23, 2004, 118 Stat. 4016; Pub. L. 109–344, §9, Oct. 13, 2006, 120 Stat. 1880, provided that:
-
-#### "SECTION 1. SHORT TITLE.
-
-"This Act may be cited as the 'Sudan Peace Act'.
-
-#### "SEC. 2. FINDINGS.
-
-"The Congress makes the following findings:
-
-&emsp;"(1) The Government of Sudan has intensified its prosecution of the war against areas outside of its control, which has already cost more than 2,000,000 lives and has displaced more than 4,000,000 people.
-
-&emsp;"(2) A viable, comprehensive, and internationally sponsored peace process, protected from manipulation, presents the best chance for a permanent resolution of the war, protection of human rights, and a self-sustaining Sudan.
-
-&emsp;"(3) Continued strengthening and reform of humanitarian relief operations in Sudan is an essential element in the effort to bring an end to the war.
-
-&emsp;"(4) Continued leadership by the United States is critical.
-
-&emsp;"(5) Regardless of the future political status of the areas of Sudan outside of the control of the Government of Sudan, the absence of credible civil authority and institutions is a major impediment to achieving self-sustenance by the Sudanese people and to meaningful progress toward a viable peace process. It is critical that credible civil authority and institutions play an important role in the reconstruction of post-war Sudan.
-
-&emsp;"(6) Through the manipulation of traditional rivalries among peoples in areas outside of its full control, the Government of Sudan has used divide-and-conquer techniques effectively to subjugate its population. However, internationally sponsored reconciliation efforts have played a critical role in reducing human suffering and the effectiveness of this tactic.
-
-&emsp;"(7) The Government of Sudan utilizes and organizes militias, Popular Defense Forces, and other irregular units for raiding and enslaving parties in areas outside of the control of the Government of Sudan in an effort to disrupt severely the ability of the populations in those areas to sustain themselves. The tactic helps minimize the Government of Sudan's accountability internationally.
-
-&emsp;"(8) The Government of Sudan has repeatedly stated that it intends to use the expected proceeds from future oil sales to increase the tempo and lethality of the war against the areas outside of its control.
-
-&emsp;"(9) By regularly banning air transport relief flights by the United Nations relief operation OLS, the Government of Sudan has been able to manipulate the receipt of food aid by the Sudanese people from the United States and other donor countries as a devastating weapon of war in the ongoing effort by the Government of Sudan to starve targeted groups and subdue areas of Sudan outside of the Government's control.
-
-&emsp;"(10) The acts of the Government of Sudan, including the acts described in this section, constitute genocide as defined by the Convention on the Prevention and Punishment of the Crime of Genocide (78 U.N.T.S. 277).
-
-&emsp;"(11) The efforts of the United States and other donors in delivering relief and assistance through means outside of OLS have played a critical role in addressing the deficiencies in OLS and offset the Government of Sudan's manipulation of food donations to advantage in the civil war in Sudan.
-
-&emsp;"(12) While the immediate needs of selected areas in Sudan facing starvation have been addressed in the near term, the population in areas of Sudan outside of the control of the Government of Sudan are still in danger of extreme disruption of their ability to sustain themselves.
-
-&emsp;"(13) The Nuba Mountains and many areas in Bahr al Ghazal and the Upper Nile and the Blue Nile regions have been excluded completely from relief distribution by OLS, consequently placing their populations at increased risk of famine.
-
-&emsp;"(14) At a cost which has sometimes exceeded $1,000,000 per day, and with a primary focus on providing only for the immediate food needs of the recipients, the current international relief operations are neither sustainable nor desirable in the long term.
-
-&emsp;"(15) The ability of populations to defend themselves against attack in areas outside of the control of the Government of Sudan has been severely compromised by the disengagement of the front-line states of Ethiopia, Eritrea, and Uganda, fostering the belief among officials of the Government of Sudan that success on the battlefield can be achieved.
-
-&emsp;"(16) The United States should use all means of pressure available to facilitate a comprehensive solution to the war in Sudan, including—
-
-&emsp;&emsp;"(A) the multilateralization of economic and diplomatic tools to compel the Government of Sudan to enter into a good faith peace process;
-
-&emsp;&emsp;"(B) the support or creation of viable democratic civil authority and institutions in areas of Sudan outside of government control;
-
-&emsp;&emsp;"(C) continued active support of people-to-people reconciliation mechanisms and efforts in areas outside of government control;
-
-&emsp;&emsp;"(D) the strengthening of the mechanisms to provide humanitarian relief to those areas; and
-
-&emsp;&emsp;"(E) cooperation among the trading partners of the United States and within multilateral institutions toward those ends.
-
-#### "SEC. 3. DEFINITIONS.
-
-"In this Act:
-
-&emsp;"(1)
-
-Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate.
-
-&emsp;"(2)
-
-Government of sudan.—Except as provided in section 12, the term 'Government of Sudan' means the National Islamic Front government in Khartoum, Sudan.
-
-&emsp;"(3) OLS.—The term 'OLS' means the United Nations relief operation carried out by UNICEF, the World Food Program, and participating relief organizations known as 'Operation Lifeline Sudan'.
-
-&emsp;"(4) SPLM.—The term 'SPLM' means the Sudan People's Liberation Movement.
-
-#### "SEC. 4. CONDEMNATION OF SLAVERY, OTHER HUMAN RIGHTS ABUSES, AND TACTICS OF THE GOVERNMENT OF SUDAN.
-
-"The Congress hereby—
-
-&emsp;"(1) condemns—
-
-&emsp;&emsp;"(A) violations of human rights on all sides of the conflict in Sudan;
-
-&emsp;&emsp;"(B) the Government of Sudan's overall human rights record, with regard to both the prosecution of the war and the denial of basic human and political rights to all Sudanese;
-
-&emsp;&emsp;"(C) the ongoing slave trade in Sudan and the role of the Government of Sudan in abetting and tolerating the practice;
-
-&emsp;&emsp;"(D) the Government of Sudan's use and organization of 'murahalliin' or 'mujahadeen', Popular Defense Forces, and regular Sudanese Army units intoorganized and coordinated raiding and slaving parties in Bahr al Ghazal, the Nuba Mountains, and the Upper Nile and the Blue Nile regions; and
-
-&emsp;&emsp;"(E) aerial bombardment of civilian targets that is sponsored by the Government of Sudan; and
-
-&emsp;"(2) recognizes that, along with selective bans on air transport relief flights by the Government of Sudan, the use of raiding and slaving parties is a tool for creating food shortages and is used as a systematic means to destroy the societies, culture, and economies of the Dinka, Nuer, and Nuba peoples in a policy of low-intensity ethnic cleansing.
-
-#### "SEC. 5. ASSISTANCE FOR PEACE AND DEMOCRATIC GOVERNANCE.
-
-"(a)
-
-Assistance to Sudan.—The President is authorized to provide increased assistance to the areas of Sudan that are not controlled by the Government of Sudan to prepare the population for peace and democratic governance, including support for civil administration, communications infrastructure, education, health, and agriculture.
-
-"(b)
-
-Authorization of Appropriations.—
-
-&emsp;"(1)
-
-In general.—There are authorized to be appropriated to the President to carry out the activities described in subsection (a) of this section $100,000,000 for each of the fiscal years 2003, 2004, and 2005.
-
-&emsp;"(2)
-
-Availability.—Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) of this subsection are authorized to remain available until expended.
-
-#### "SEC. 6. SUPPORT FOR AN INTERNATIONALLY SANCTIONED PEACE PROCESS.
-
-"(a)
-
-Findings.—Congress hereby—
-
-&emsp;"(1) recognizes that—
-
-&emsp;&emsp;"(A) a single, viable internationally and regionally sanctioned peace process holds the greatest opportunity to promote a negotiated, peaceful settlement to the war in Sudan; and
-
-&emsp;&emsp;"(B) resolution to the conflict in Sudan is best made through a peace process based on the Declaration of Principles reached in Nairobi, Kenya, on July 20, 1994, and on the Machakos Protocol in July 2002; and
-
-&emsp;"(2) commends the efforts of Special Presidential Envoy, Senator Danforth and his team in working to assist the parties to the conflict in Sudan in finding a just, permanent peace to the conflict in Sudan.
-
-"(b)
-
-Measures of Certain Conditions Not Met.—
-
-&emsp;"(1)
-
-Presidential determination.—
-
-&emsp;&emsp;"(A) The President shall make a determination and certify in writing to the appropriate congressional committees within 6 months after the date of enactment of this Act \[Oct. 21, 2002\], and each 6 months thereafter, that the Government of Sudan and the Sudan People's Liberation Movement are negotiating in good faith and that negotiations should continue.
-
-&emsp;&emsp;"(B) If, under subparagraph (A) the President determines and certifies in writing to the appropriate congressional committees that the Government of Sudan has not engaged in good faith negotiations to achieve a permanent, just, and equitable peace agreement, or has unreasonably interfered with humanitarian efforts, then the President, after consultation with the Congress, shall implement the measures set forth in paragraph (2).
-
-&emsp;&emsp;"(C) If, under paragraph (A) the President determines and certifies in writing to the appropriate congressional committees that the Sudan People's Liberation Movement has not engaged in good faith negotiations to achieve a permanent, just, and equitable peace agreement, then paragraph (2) shall not apply to the Government of Sudan.
-
-&emsp;&emsp;"(D) If the President certifies to the appropriate congressional committees that the Government of Sudan is not in compliance with the terms of a permanent peace agreement between the Government of Sudan and the Sudan People's Liberation Movement, then the President, after consultation with the Congress, shall implement the measures set forth in paragraph (2).
-
-&emsp;&emsp;"(E) If, at any time after the President has made a certification under subparagraph (B), the President makes a determination and certifies in writing to the appropriate congressional committees that the Government of Sudan has resumed good faith negotiations, or makes a determination and certifies in writing to the appropriate congressional committees that the Government of Sudan is in compliance with a peace agreement, then paragraph (2) shall not apply to the Government of Sudan.
-
-&emsp;"(2)
-
-Measures in support of the peace process.—Subject to the provisions of paragraph (1), the President—
-
-&emsp;&emsp;"(A) shall, through the Secretary of the Treasury, instruct the United States executive directors to each international financial institution to continue to vote against and actively oppose any extension by the respective institution of any loan, credit, or guarantee to the Government of Sudan;
-
-&emsp;&emsp;"(B) should consider downgrading or suspending diplomatic relations between the United States and the Government of Sudan;
-
-&emsp;&emsp;"(C) shall take all necessary and appropriate steps, including through multilateral efforts, to deny the Government of Sudan access to oil revenues to ensure that the Government of Sudan neither directly nor indirectly utilizes any oil revenues to purchase or acquire military equipment or to finance any military activities; and
-
-&emsp;&emsp;"(D) shall seek a United Nations Security Council Resolution to impose an arms embargo on the Government of Sudan.
-
-"(c)
-
-Report on the Status of Negotiations.—If, at any time after the President has made a certification under subsection (b)(1)(A), the Government of Sudan discontinues negotiations with the Sudan People's Liberation Movement for a 14-day period, then the President shall submit a quarterly report to the appropriate congressional committees on the status of the peace process until negotiations resume.
-
-"(d)
-
-Report on United States Opposition To Financing by International Financial Institutions.—The Secretary of the Treasury shall submit a semiannual report to the appropriate congressional committees describing the steps taken by the United States to oppose the extension of a loan, credit, or guarantee if, after the Secretary of the Treasury gives the instructions described in subsection (b)(2)(A), such financing is extended.
-
-"(e)
-
-Report on Efforts To Deny Oil Revenues.—Not later than 45 days after the President takes an action under subsection (b)(2)(C), the President shall submit to the appropriate congressional committees a comprehensive plan for implementing the actions described in such subsection.
-
-"(f)
-
-Definition.—In this section, the term 'international financial institution' means the International Bank for Reconstruction and Development, the International Development Association, the International Monetary Fund, the African Development Bank, and the African Development Fund.
-
-#### "SEC. 7. MULTILATERAL PRESSURE ON COMBATANTS.
-
-"It is the sense of Congress that—
-
-&emsp;"(1) the United Nations should help facilitate peace and recovery in Sudan;
-
-&emsp;"(2) the President, acting through the United States Permanent Representative to the United Nations, should seek to end the veto power of the Government of Sudan over the plans by OLS for air transport relief flights and, by doing so, to end the manipulation of the delivery of relief supplies to the advantage of the Government of Sudan on the battlefield; and
-
-&emsp;"(3) the President should take appropriate measures, including the implementation of recommendations of the International Eminent Persons Commission contained in the report issued on May 22, 2002, to end slavery and aerial bombardment of civilians by the Government of Sudan.
-
-#### "SEC. 8. REPORTING REQUIREMENTS.
-
-"(a)
-
-Report on Commercial Activity.—Not later than 30 days after the date of the enactment of the Comprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State, in consultation with relevant United States Government departments and agencies, shall submit to the appropriate congressional committees a report regarding commercial activity in Sudan that includes—
-
-&emsp;"(1) a description of the sources and current status of Sudan's financing and construction of infrastructure and pipelines for oil exploitation, the effects of such financing and construction on the inhabitants of the regions in which the oil fields are located and the ability of the Government of Sudan to finance the war in Sudan with the proceeds of the oil exploitation;
-
-&emsp;"(2) a description of the extent to which that financing was secured in the United States or with the involvement of United States citizens; and
-
-&emsp;"(3) a description of the relationships between Sudan's arms industry and major foreign business enterprises and their subsidiaries, including government-controlled entities.
-
-"(b)
-
-Report on the Conflict in Sudan, Including the Darfur Region.—Not later than 30 days after the date of the enactment of the Comprehensive Peace in Sudan Act of 2004 \[Dec. 23, 2004\], and annually thereafter until the completion of the interim period outlined in the Machakos Protocol of 2002, the Secretary of State shall prepare and submit to the appropriate congressional committees a report regarding the conflict in Sudan, including the conflict in the Darfur region. Such report shall include—
-
-&emsp;"(1) the best estimates of the extent of aerial bombardment of civilian centers in Sudan by the Government of Sudan, including targets, frequency, and best estimates of damage; and
-
-&emsp;"(2) a description of the extent to which humanitarian relief in Sudan has been obstructed or manipulated by the Government of Sudan or other forces, and a contingency plan to distribute assistance should the Government of Sudan continue to obstruct or delay the international humanitarian response to the crisis in Darfur.
-
-"(c)
-
-Report on African Union Mission in Sudan.—Until such time as AMIS concludes its mission in Darfur, in conjunction with the other reports required under this section, the Secretary of State, in consultation with all relevant Federal departments and agencies, shall prepare and submit a report, to the appropriate congressional committees, regarding—
-
-&emsp;"(1) a detailed description of all United States assistance provided to the African Union Mission in Sudan (referred to in this subsection as 'AMIS') since the establishment of AMIS, reported by fiscal year and the type and purpose of such assistance; and
-
-&emsp;"(2) the level of other international assistance provided to AMIS, including assistance from countries, regional and international organizations, such as the North Atlantic Treaty Organization, the European Union, the Arab League, and the United Nations, reported by fiscal year and the type and purpose of such assistance, to the extent possible.
-
-"(d)
-
-Report on Sanctions in Support of Peace in Darfur.—In conjunction with the other reports required under this section, the Secretary of State shall submit a report to the appropriate congressional committees regarding sanctions imposed under section 6 of the Comprehensive Peace in Sudan Act of 2004 \[Pub. L. 108–497, set out above\], including—
-
-&emsp;"(1) a description of each sanction imposed under such provision of law;
-
-&emsp;"(2) the name of the individual or entity subject to the sanction, if applicable; and
-
-&emsp;"(3) whether or not such individual has been identified by the United Nations panel of experts.
-
-"(e)
-
-Report on United States Military Assistance.—In conjunction with the other reports required under this section, the Secretary of State shall submit a report to the appropriate congressional committees describing the effectiveness of any assistance provided under section 8 of the Darfur Peace and Accountability Act of 2006 \[Pub. L. 109–344, set out above\], including—
-
-&emsp;"(1) a detailed annex on any military assistance provided in the period covered by this report;
-
-&emsp;"(2) the results of any review or other monitoring conducted by the Federal Government with respect to assistance provided under that Act; and
-
-&emsp;"(3) any unauthorized retransfer or use of military assistance furnished by the United States.
-
-"(g)\[sic\]
-
-Disclosure to the Public.—The Secretary of State shall publish or otherwise make available to the public each unclassified report, or portion of a report that is unclassified, submitted under subsection (a) or (b).
-
-#### "SEC. 9. CONTINUED USE OF NON-OLS ORGANIZATIONS FOR RELIEF EFFORTS.
-
-"(a)
-
-Sense of Congress.—It is the sense of the Congress that the President should continue to increase the use of non-OLS agencies in the distribution of relief supplies in southern Sudan.
-
-"(b)
-
-Report.—Not later than 90 days after the date of enactment of this Act \[Oct. 21, 2002\], the President shall submit to the appropriate congressional committees a detailed report describing the progress made toward carrying out subsection (a).
-
-#### "SEC. 10. CONTINGENCY PLAN FOR ANY BAN ON AIR TRANSPORT RELIEF FLIGHTS.
-
-"(a)
-
-Plan.—The President shall develop a contingency plan to provide, outside the auspices of the United Nations if necessary, the greatest possible amount of United States Government and privately donated relief to all affected areas in Sudan, including the Nuba Mountains and the Upper Nile and the Blue Nile regions, in the event that the Government of Sudan imposes a total, partial, or incremental ban on OLS air transport relief flights.
-
-"(b)
-
-Reprogramming Authority.—Notwithstanding any other provision of law, in carrying out the plan developed under subsection (a), the President may reprogram up to 100 percent of the funds available for support of OLS operations for the purposes of the plan.
-
-#### "SEC. 11. INVESTIGATION OF WAR CRIMES.
-
-"(a)
-
-In General.—The Secretary of State shall collect information about incidents which may constitute crimes against humanity, genocide, war crimes, and other violations of international humanitarian law by all parties to the conflict in Sudan, including slavery, rape, and aerial bombardment of civilian targets.
-
-"(b)
-
-Report.—Not later than 6 months after the date of the enactment of this Act \[Oct. 21, 2002\] and annually thereafter, the Secretary of State shall prepare and submit to the appropriate congressional committees a detailed report on the information that the Secretary of State has collected under subsection (a) and any findings or determinations made by the Secretary on the basis of that information. The report under this subsection may be submitted as part of the report required under section 8.
-
-"(c)
-
-Consultations With Other Departments.—In preparing the report required by this section, the Secretary of State shall consult and coordinate with all other Government officials who have information necessary to complete the report. Nothing contained in this section shall require the disclosure, on a classified or unclassified basis, of information that would jeopardize sensitive sources and methods or other vital national security interests.
-
-#### "SEC. 12. ASSISTANCE FOR THE CRISIS IN DARFUR AND FOR COMPREHENSIVE PEACE IN SUDAN.
-
-"(a)
-
-Assistance.—
-
-&emsp;"(1)
-
-Authority.—Notwithstanding any other provision of law, the President is authorized to provide assistance for Sudan as authorized in paragraph (5) of this section—
-
-&emsp;&emsp;"(A) subject to the requirements of this section, to support the implementation of a comprehensive peace agreement that applies to all regions of Sudan, including the Darfur region; and
-
-&emsp;&emsp;"(B) to address the humanitarian and human rights crisis in the Darfur region and eastern Chad, including to support the African Union mission in the Darfur region, provided that no assistance may be made available to the Government of Sudan.
-
-&emsp;"(2)
-
-Certification for the government of sudan.—Assistance authorized under paragraph (1)(A) may be provided to the Government of Sudan only if the President certifies to the appropriate congressional committees that the Government of Sudan has taken demonstrable steps to—
-
-&emsp;&emsp;"(A) ensure that the armed forces of Sudan and any associated militias are not committing atrocities or obstructing human rights monitors or the provision of humanitarian assistance;
-
-&emsp;&emsp;"(B) demobilize and disarm militias supported or created by the Government of Sudan;
-
-&emsp;&emsp;"(C) allow full and unfettered humanitarian assistance to all regions of Sudan, including the Darfur region;
-
-&emsp;&emsp;"(D) allow an international commission of inquiry to conduct an investigation of atrocities in the Darfur region, in a manner consistent with United Nations Security Council Resolution 1564 (September 18, 2004), to investigate reports of violations of international humanitarian law and human rights law in the Darfur region by all parties, to determine also whether or not acts of genocide have occurred and to identify the perpetrators of such violations with a view to ensuring that those responsible are held accountable;
-
-&emsp;&emsp;"(E) cooperate fully with the African Union, the United Nations, and all other observer, monitoring, and protection missions mandated to operate in Sudan;
-
-&emsp;&emsp;"(F) permit the safe and voluntary return of displaced persons and refugees to their homes and rebuild the communities destroyed in the violence; and
-
-&emsp;&emsp;"(G) implement the final agreements reached in the Naivasha peace process and install a new coalition government based on the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004.
-
-&emsp;"(3)
-
-Certification with regard to splm's compliance with a peace agreement.—If the President determines and certifies in writing to the appropriate congressional committees that the SPLM has not engaged in good faith negotiations, or has failed to honor the agreements signed, the President shall suspend assistance authorized in this section for the SPLM, except for health care, education, and humanitarian assistance.
-
-&emsp;"(4)
-
-Suspension of assistance.—If, on a date after the President transmits the certification described in paragraph (2), the President determines that the Government of Sudan has ceased taking the actions described in such paragraph, the President shall immediately suspend the provision of any assistance to such Government under this section until the date on which the President transmits to the appropriate congressional committees a further certification that the Government of Sudan has resumed taking such actions.
-
-&emsp;"(5)
-
-Authorization of appropriations.—
-
-&emsp;&emsp;"(A)
-
-In general.—In addition to any other funds otherwise available for such purposes, there are authorized to be appropriated to the President—
-
-&emsp;&emsp;&emsp;"(i) $100,000,000 for fiscal year 2005, and such sums as may be necessary for each of the fiscal years 2006 and 2007, unless otherwise authorized, to carry out paragraph (1)(A); and
-
-&emsp;&emsp;&emsp;"(ii) $200,000,000 for fiscal year 2005 to carry out paragraph (1)(B), provided that no amounts appropriated under this authorization may be made available for the Government of Sudan.
-
-&emsp;&emsp;"(B)
-
-Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
-
-"(b)
-
-Government of Sudan Defined.—In this section, the term 'Government of Sudan' means the National Congress Party, formerly known as the National Islamic Front, government in Khartoum, Sudan, or any successor government formed on or after the date of the enactment of the Comprehensive Peace in Sudan Act \[of 2004, Dec. 23, 2004\] (other than the coalition government agreed upon in the Nairobi Declaration on the Final Phase of Peace in the Sudan signed on June 5, 2004)."
-
-\[Memorandum of President of the United States, Oct. 21, 2004, 69 F.R. 63039, delegated to the Secretary of State the determination, certification, and reporting functions of the President under sections 6(b)(1) and 6(c) of Pub. L. 107–245, set out above.\]
-
-\[Memorandum of President of the United States, Mar. 14, 2005, 70 F.R. 14967, delegated to the Secretary of State the reporting function of the President under section 6(e) of Pub. L. 107–245, set out above.\]
+\[Memorandum of President of the United States, Oct. 26, 2020, 85 F.R. 71213, certified, pursuant to section 6(e) of the Comprehensive Peace in Sudan Act of 2004 (Pub. L. 108–497, formerly set out above), that the Government of Sudan has taken demonstrable steps in accordance with section 12(a)(2) of the Sudan Peace Act of 2002 (Pub. L. 107–245, formerly set out above).\]
 
 #### Presidential Determinations on the Sudan Peace Act
 
@@ -3712,7 +3234,7 @@ Publication in Federal Register.—The application of measures to a foreign pers
 
 "(a)
 
-Requirement To Notify Congress.—Should the President not exercise the authority of section 3(a) to apply any or all of the measures described in section 3(b) with respect to a foreign person identified in a report submitted pursuant to section 2(a), he shall so notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate no later than the effective date under section 3(c) for measures with respect to that person.
+Requirement To Notify Congress.—Should the President not exercise the authority of section 3(a) toapply any or all of the measures described in section 3(b) with respect to a foreign person identified in a report submitted pursuant to section 2(a), he shall so notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate no later than the effective date under section 3(c) for measures with respect to that person.
 
 "(b)
 
@@ -3730,7 +3252,7 @@ In General.—Sections 3 and 4 shall not apply to a foreign person 15 days after
 
 &emsp;"(1) the person did not, on or after January 1, 1999, knowingly transfer to or acquire from Iran, North Korea, or Syria, as the case may be, the goods, services, or technology the apparent transfer of which caused that person to be identified in a report submitted pursuant to section 2(a);
 
-&emsp;"(2) the goods, services, or technology the transfer of which caused that person to be identified in a report submitted pursuant to section 2(a) did not materially contribute to the efforts of Iran, North Korea, or Syria, as the case may be, to develop nuclear, biological, or chemical weapons, or ballistic or cruise missile systems, or weapons listed on the WassenaarArrangement Munitions List of July 12, 1996, or any subsequent revision of that list;
+&emsp;"(2) the goods, services, or technology the transfer of which caused that person to be identified in a report submitted pursuant to section 2(a) did not materially contribute to the efforts of Iran, North Korea, or Syria, as the case may be, to develop nuclear, biological, or chemical weapons, or ballistic or cruise missile systems, or weapons listed on the Wassenaar Arrangement Munitions List of July 12, 1996, or any subsequent revision of that list;
 
 &emsp;"(3) the person is subject to the primary jurisdiction of a government that is an adherent to one or more relevant nonproliferation regimes, the person was identified in a report submitted pursuant to section 2(a) with respect to a transfer of goods, services, or technology described in section 2(a)(1), and such transfer was made consistent with the guidelines and parameters of all such relevant regimes of which such government is an adherent; or
 
@@ -3866,7 +3388,7 @@ Foreign person; person.—The terms 'foreign person' and 'person' mean—
 
 &emsp;"(3)
 
-Executive order no. 12938.—The term 'Executive Order No. 12938' means Executive Order No. 12938 \[listed in a table below\] as in effect on January 1, 1999.
+Executive order no. 12938.—The term 'Executive Order No. 12938' means Executive Order No. 12938\[listed in a table below\] as in effect on January 1, 1999.
 
 &emsp;"(4)
 
@@ -3968,7 +3490,7 @@ Consultation.—The Secretary of Defense shall consult with the following office
 
 &emsp;"(4)
 
-Communist chinese military company.—For purposes of making the determination required by paragraph (1) and of carrying out paragraph (2), the term 'Communist Chinese military company' means—
+Communist chinese military company.—For purposes of making the determination required byparagraph (1) and of carrying out paragraph (2), the term 'Communist Chinese military company' means—
 
 &emsp;&emsp;"(A) any person identified in the Defense Intelligence Agency publication numbered VP–1920–271–90, dated September 1990, or PC–1921–57–95, dated October 1995, and any update of those publications for the purposes of this section; and
 
@@ -3988,7 +3510,7 @@ People's Liberation Army.—For purposes of this section, the term 'People's Lib
 
 #### Iran Sanctions
 
-Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24, §§2(a), 3–5, Aug. 3, 2001, 115 Stat. 199, 200; Pub. L. 109–267, §1, Aug. 4, 2006, 120 Stat. 680; Pub. L. 109–293, title II, §§201–202(b), 203–205(g)(1), Sept. 30,2006, 120 Stat. 1345–1347; Pub. L. 111–195, title I, §102(a)–(g), July 1, 2010, 124 Stat. 1317–1324; Pub. L. 112–158, title II, §§201, 202(a), 203, 204(a), 205–207(a), title III, §311(a), (b)(1), Aug. 10, 2012, 126 Stat. 1219, 1221, 1223, 1225–1227, 1247, 1248; Pub. L. 114–277, §2, Dec. 15, 2016, 130 Stat. 1409, provided that:
+Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24, §§2(a), 3–5, Aug. 3, 2001, 115 Stat. 199, 200; Pub. L. 109–267, §1, Aug. 4, 2006, 120 Stat. 680; Pub. L. 109–293, title II, §§201–202(b), 203–205(g)(1), Sept. 30, 2006, 120 Stat. 1345–1347; Pub. L. 111–195, title I, §102(a)–(g), July 1, 2010, 124 Stat. 1317–1324; Pub. L. 112–158, title II, §§201, 202(a), 203, 204(a), 205–207(a), title III, §311(a), (b)(1), Aug. 10, 2012, 126 Stat. 1219, 1221, 1223, 1225–1227, 1247, 1248; Pub. L. 114–277, §2, Dec. 15, 2016, 130 Stat. 1409, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -4198,7 +3720,7 @@ Support for the development of petroleum resources and refined petroleum product
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subsection (f), the President shall impose 5 or more ofthe sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], sells, leases, or provides to Iran goods, services, technology, or support described in subparagraph (B)—
+In general.—Except as provided in subsection (f), the President shall impose 5 or more of the sanctions described in section 6(a) with respect to a person if the President determines that the person knowingly, on or after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\], sells, leases, or provides to Iran goods, services, technology, or support described in subparagraph (B)—
 
 &emsp;&emsp;&emsp;"(i) any of which has a fair market value of $1,000,000 or more; or
 
@@ -4294,7 +3816,7 @@ Definition of iranian origin.—For purposes of subparagraph (A), the term 'Iran
 
 &emsp;"(9)
 
-Exception for provision of underwriting services and insurance and reinsurance.—The President may not impose sanctions under paragraph\(7) or (8) with respect to a person that provides underwriting services or insurance or reinsurance if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not provide underwriting services or insurance or reinsurance for the transportation of crude oil or refined petroleum products from Iran in a manner for which sanctions may be imposed under either such paragraph.
+Exception for provision of underwriting services and insurance and reinsurance.—The President may not impose sanctions under paragraph (7) or (8) with respect to a person that provides underwriting services or insurance or reinsurance if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not provide underwriting services or insurance or reinsurance for the transportation of crude oil or refined petroleum products from Iran in a manner for which sanctions may be imposed under either such paragraph.
 
 "(b)
 
@@ -4368,7 +3890,7 @@ Exception.—The sanctions described in subparagraph (A) shall not apply with re
 
 &emsp;&emsp;"(C)
 
-Individual approval.—Notwithstanding subparagraph (A), the President may, on a case-by-case basis, approve the issuance of a license for the export, or approve the transfer or retransfer, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation, to a person in a country to which subparagraph (A) applies (other than a person that is subject to the sanctions under paragraph (1) or (2)) if the President—
+Individual approval.—Notwithstanding subparagraph (A), the President may, on a case-by-casebasis, approve the issuance of a license for the export, or approve the transfer or retransfer, of any nuclear material, facilities, components, or other goods, services, or technology that are or would be subject to an agreement for cooperation, to a person in a country to which subparagraph (A) applies (other than a person that is subject to the sanctions under paragraph (1) or (2)) if the President—
 
 &emsp;&emsp;&emsp;"(i) determines that such approval is vital to the national security interests of the United States; and
 
@@ -4580,7 +4102,7 @@ Certifications relating to activities described in section 5.—The revisions to
 
 Certifications relating to transactions with iran's revolutionary guard corps
 
-.—The revisions to the Federal Acquisition Regulation required under paragraph (1)(B) shall apply with respect to contracts for which solicitations are issued on or after the date that is 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\].
+.—The revisions to the Federal Acquisition Regulation required under paragraph (1)(B) shall applywith respect to contracts for which solicitations are issued on or after the date that is 120 days after the date of the enactment of the Iran Threat Reduction and Syria Human Rights Act of 2012 \[Aug. 10, 2012\].
 
 #### "SEC. 7. ADVISORY OPINIONS.
 
@@ -4610,7 +4132,7 @@ Delay of Sanctions.—
 
 &emsp;"(1)
 
-Consultations.—If the President makes a determination described in subsection (a) or paragraph (1) or (2) of subsection (b) of section 5 with respect to a foreign person, the Congress urges the President toinitiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions under this Act.
+Consultations.—If the President makes a determination described in subsection (a) or paragraph (1) or (2) of subsection (b) of section 5 with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions under this Act.
 
 &emsp;"(2)
 
@@ -5000,7 +4522,7 @@ Applicability of permissive investigations.—During the 1-year period beginning
 
 \["(6)
 
-Waiver authority.—The amendments made by subsection (c) \[amending section 9 of Pub. L. 104–172, set out above\] shall not be construed to affect any exercise of the authority under section 9(c) of the Iran Sanctions Act of 1996, as in effect on the day before the date of the enactment of this Act."\]
+Waiver authority.—The amendments made by subsection (c) \[amending section 9 of Pub. L. 104–172,set out above\] shall not be construed to affect any exercise of the authority under section 9(c) of the Iran Sanctions Act of 1996, as in effect on the day before the date of the enactment of this Act."\]
 
 \[For definition of "appropriate congressional committees" as used in section 102(h) of Pub. L. 111–195, set out above, see section 8511 of Title 22, Foreign Relations and Intercourse.\]
 
@@ -5014,7 +4536,7 @@ Waiver authority.—The amendments made by subsection (c) \[amending section 9 o
 
 \[For delegation of certain functions of President under sections 4, 5, 6, 9, and 10 of Pub. L. 104–172, set out above, see Memorandum of President of the United States, Sept. 23, 2010, 75 F.R. 67025, set out as a note under section 8501 of Title 22, Foreign Relations and Intercourse.\]
 
-\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States Trade Representative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by section 4(c), former section 5(a), section 5(b), (c), (f),former section 6(1), (2) (now section 6(a)(1), (2)), and section 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e) and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
+\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States Trade Representative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by section 4(c), former section 5(a), section 5(b), (c), (f), former section 6(1), (2) (now section 6(a)(1), (2)), and section 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by section 4(a), (b), former section 4(d), (e) (now (d)), and sections 5(d), (e) and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
 
 #### Determination and Certification under Section 8(b) of the Iran and Libya Sanctions Act
 
@@ -5182,7 +4704,7 @@ Pub. L. 102–484, div. A, title XVI, Oct. 23, 1992, 106 Stat. 2571, as amended 
 
 "(a)
 
-In General.—It shall be the policy of the United States to oppose, and urgently to seek the agreement of other nations also to oppose, any transfer to Iran or Iraq of any goods or technology, including dual-use goods or technology, wherever that transfer could materially contribute to either country's acquiring chemical, biological, nuclear, or destabilizing numbers and types of advanced conventional weapons.
+In General.—It shall be the policy of the United States to oppose, and urgently to seek the agreement of other nations also to oppose, any transfer to Iran orIraq of any goods or technology, including dual-use goods or technology, wherever that transfer could materially contribute to either country's acquiring chemical, biological, nuclear, or destabilizing numbers and types of advanced conventional weapons.
 
 "(b)
 
@@ -5202,7 +4724,7 @@ Public Identification.—The Congress calls on the President to identify publicl
 
 "(a)
 
-Prohibition.—If any person transfers or retransfers goods or technology so as to contribute knowingly and materially to the efforts by Iran or Iraq (or any agency or instrumentality of either such country) to acquire chemical, biological, or nuclear weapons or toacquire destabilizing numbers and types of advanced conventional weapons, then the sanctions described in subsection (b) shall be imposed.
+Prohibition.—If any person transfers or retransfers goods or technology so as to contribute knowingly and materially to the efforts by Iran or Iraq (or any agency or instrumentality of either such country) to acquire chemical, biological, or nuclear weapons or to acquire destabilizing numbers and types of advanced conventional weapons, then the sanctions described in subsection (b) shall be imposed.
 
 "(b)
 
@@ -5374,7 +4896,7 @@ Notice of regulations.—Any regulations issued after the date of enactment of t
 
 &emsp;"(2)
 
-Notice of termination of sanctions.—The President shall notify the Congress at least 15 days before the termination, in whole or in part, of any sanction imposed with respect to Iraq or Kuwait pursuant to those Executive orders.
+Notice of termination of sanctions.—The President shall notify the Congress at least 15 days before the termination, in whole or in part, of anysanction imposed with respect to Iraq or Kuwait pursuant to those Executive orders.
 
 "(d)
 
@@ -5402,7 +4924,7 @@ Denial of Assistance.—None of the funds appropriated or otherwise made availab
 
 "(b)
 
-Import Sanctions.—If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, the President may prohibit, for such a period of time as he considers appropriate, the importation into the UnitedStates of any or all products of any foreign country that has not prohibited—
+Import Sanctions.—If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, the President may prohibit, for such a period of time as he considers appropriate, the importation into the United States of any or all products of any foreign country that has not prohibited—
 
 &emsp;"(1) the importation of products of Iraq into its customs territory, and
 
@@ -5494,7 +5016,7 @@ Commercial arms sales.—Licenses shall not be issued for the export to Iraq of 
 
 &emsp;"(3)
 
-Exports of certain goods and technology.—The authorities of \[former\] section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) \[former 50 U.S.C. 4605\] shall be used to prohibit theexport to Iraq of any goods or technology listed pursuant to that section or \[former\] section 5(c)(1) of that Act (50 U.S.C. App. 2404(c)(1)) \[former 50 U.S.C. 4604(c)(1)\] on the control list provided for in \[former\] section 4(b) of that Act (50 U.S.C. App. 2403(b)) \[former 50 U.S.C. 4603(b)\].
+Exports of certain goods and technology.—The authorities of \[former\] section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) \[former 50 U.S.C. 4605\] shall be used to prohibit the export to Iraq of any goods or technology listed pursuant to that section or \[former\] section 5(c)(1) of that Act (50 U.S.C. App. 2404(c)(1)) \[former 50 U.S.C. 4604(c)(1)\] on the control list provided for in \[former\] section 4(b) of that Act (50 U.S.C. App. 2403(b)) \[former 50 U.S.C. 4603(b)\].
 
 &emsp;"(4)
 
@@ -5600,7 +5122,7 @@ Negotiations.—The President is directed to begin immediate negotiations with t
 
 "(a)
 
-Study and Report on the International Export to Iraq of Nuclear, Biological, Chemical, andBallistic Missile Technology.—(1) The President shall conduct a study on the sale, export, and third party transfer or development of nuclear, biological, chemical, and ballistic missile technology to or with Iraq including—
+Study and Report on the International Export to Iraq of Nuclear, Biological, Chemical, and Ballistic Missile Technology.—(1) The President shall conduct a study on the sale, export, and third party transfer or development of nuclear, biological, chemical, and ballistic missile technology to or with Iraq including—
 
 &emsp;"(A) an identification of specific countries, as well as companies and individuals, both foreign and domestic, engaged in such sale or export of, nuclear, biological, chemical, and ballistic missile technology;
 
@@ -5652,7 +5174,7 @@ Report on Sanctions Taken by Other Nations Against Iraq.—(1) The President sha
 
 \[Pub. L. 102–391, title V, §573, Oct. 6, 1992, 106 Stat. 1683.\]
 
-Pub. L. 101–510, div. A, title XIV, §1458, Nov. 5, 1990, 104 Stat. 1697, provided that: "If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, the President may prohibit, for such a period of time as he considers appropriate, the importation into the United States of any or all products of any foreign country that has not—
+Pub. L. 101–510, div. A, title XIV, §1458, Nov. 5, 1990, 104 Stat. 1697, provided that: "If the President considers that the taking of such action would promote the effectiveness of the economic sanctions of the United Nations and the United States imposed with respect to Iraq, and is consistent with the national interest, thePresident may prohibit, for such a period of time as he considers appropriate, the importation into the United States of any or all products of any foreign country that has not—
 
 &emsp;"(1) prohibited—
 
@@ -5694,7 +5216,7 @@ Pub. L. 99–93, title V, Aug. 16, 1985, 99 Stat. 437, provided for the determin
 
 Ex. Ord. No. 13761, Jan. 13, 2017, 82 F.R. 5331, as amended by Ex. Ord. No. 13804, §1, July 11, 2017, 82 F.R. 32611, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), the Trade Sanctions Reform and Export Enhancement Act of 2000 (22 U.S.C. 7201–7211) (TSRA), the Comprehensive Peace in Sudan Act of 2004, as amended (Public Law 108–497) (CPSA), the Darfur Peace and Accountability Act of 2006 (Public Law 109–344) (DPAA), and section 301 of title 3, United States Code,
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), the Trade Sanctions Reform and Export Enhancement Act of 2000 (22 U.S.C. 7201–7211) (TSRA), the Comprehensive Peace in Sudan Act of 2004, as amended (Public Law 108–497) \[formerly set out as a note above\] (CPSA), the Darfur Peace and Accountability Act of 2006 (Public Law 109–344) (DPAA), and section 301 of title 3, United States Code,
 
 I, BARACK OBAMA, President of the United States of America, find that the situation that gave rise to the actions taken in Executive Order 13067 of November 3, 1997, and Executive Order 13412 of October 13, 2006, related to the policies and actions of the Government of Sudan has been altered by Sudan's positive actions over the past 6 months. These actions include a marked reduction in offensive military activity, culminating in a pledge to maintain a cessation of hostilities in conflict areas in Sudan, and steps toward the improvement of humanitarian access throughout Sudan, as well as cooperation with the United States on addressing regional conflicts and the threat of terrorism. Given these developments, and in order to see these efforts sustained and enhanced by the Government of Sudan, I hereby order:
 
@@ -5775,6 +5297,8 @@ Ex. Ord. No. 13298, May 6, 2003, 68 F.R. 24857.
 Ex. Ord. No. 13405, June 16, 2006, 71 F.R. 35485.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13405 were contained in the following:
+
+&emsp;Notice of President of the United States, dated June 11, 2020, 85 F.R. 36137.
 
 &emsp;Notice of President of the United States, dated June 13, 2019, 84 F.R. 27905.
 
@@ -5864,6 +5388,8 @@ Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13712 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Nov. 12, 2020, 85 F.R. 72893.
+
 &emsp;Notice of President of the United States, dated Nov. 19, 2019, 84 F.R. 64191.
 
 &emsp;Notice of President of the United States, dated Nov. 16, 2018, 83 F.R. 58461.
@@ -5877,6 +5403,8 @@ Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633.
 Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13667 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 7, 2020, 85 F.R. 27641.
 
 &emsp;Notice of President of the United States, dated May 8, 2019, 84 F.R. 20539.
 
@@ -5893,6 +5421,8 @@ Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 13286, §22, Feb. 28, 2003, 68 F.R. 10624.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 19, 2020, 85 F.R. 66871.
 
 &emsp;Notice of President of the United States, dated Oct. 15, 2019, 84 F.R. 55857.
 
@@ -5941,6 +5471,10 @@ Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, as amended by Ex. Ord. No. 132
 &emsp;Notice of President of the United States, dated Oct. 17, 1997, 62 F.R. 54561.
 
 &emsp;Notice of President of the United States, dated Oct. 16, 1996, 61 F.R. 54531.
+
+#### Communist Chinese Military Companies
+
+Ex. Ord. No. 13959, Nov. 12, 2020, 85 F.R. 73185.
 
 #### Côte d'Ivoire
 
@@ -6028,6 +5562,8 @@ Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, as amended by Ex. Ord. No. 13
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Sept. 18, 2020, 85 F.R. 59641.
+
 &emsp;Notice of President of the United States, dated Sept. 19, 2019, 84 F.R. 49633.
 
 &emsp;Notice of President of the United States, dated Sept. 19, 2018, 83 F.R. 47799.
@@ -6070,7 +5606,9 @@ Ex. Ord. No. 13372, Feb. 16, 2005, 70 F.R. 8499.
 
 Ex. Ord. No. 13848, Sept. 12, 2018, 83 F.R. 46843.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13848 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13848 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Sept. 10, 2020, 85 F.R. 56469.
 
 &emsp;Notice of President of the United States, dated Sept. 10, 2019, 84 F.R. 48039.
 
@@ -6093,6 +5631,8 @@ Ex. Ord. No. 12930, Sept. 29, 1994, 59 F.R. 50475, revoked by Ex. Ord. No. 12938
 Ex. Ord. No. 12938, Nov. 14, 1994, 59 F.R. 59099, as amended by Ex. Ord. No. 13094, §1, July 28, 1998, 63 F.R. 40803; Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34704; Ex. Ord. No. 13382, §4, June 28, 2005, 70 F.R. 38568.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 12, 2020, 85 F.R. 72897.
 
 &emsp;Notice of President of the United States, dated Nov. 12, 2019, 84 F.R. 61817.
 
@@ -6192,6 +5732,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 136
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Aug. 13, 2020, 85 F.R. 49939.
+
 &emsp;Notice of President of the United States, dated Aug. 14, 2019, 84 F.R. 41881.
 
 &emsp;Notice of President of the United States, dated Aug. 8, 2018, 83 F.R. 39871.
@@ -6233,6 +5775,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 136
 Ex. Ord. No. 13413, Oct. 27, 2006, 71 F.R. 64105, as amended by Ex. Ord. No. 13671, §§1–3, July 8, 2014, 79 F.R. 39949, 39950.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13413 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 23, 2020, 85 F.R. 67963.
 
 &emsp;Notice of President of the United States, dated Oct. 22, 2019, 84 F.R. 56927.
 
@@ -6294,11 +5838,25 @@ Ex. Ord. No. 12932, Oct. 14, 1994, 59 F.R. 52403.
 
 Ex. Ord. No. 13873, May 15, 2019, 84 F.R. 22689.
 
+&emsp;Continuation of national emergency declared by Ex. Ord. No. 13873 was contained in the following:
+
+Notice of President of the United States, dated May 13, 2020, 85 F.R. 29321.
+
+Ex. Ord. No. 13942, Aug. 6, 2020, 85 F.R. 48637.
+
+Ex. Ord. No. 13943, Aug. 6, 2020, 85 F.R. 48641.
+
+#### International Criminal Court
+
+Ex. Ord. No. 13928, June 11, 2020, 85 F.R. 36139.
+
 #### Iran
 
 Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 12, 2020, 85 F.R. 72895.
 
 &emsp;Notice of President of the United States, dated Nov. 12, 2019, 84 F.R. 61815.
 
@@ -6406,6 +5964,8 @@ Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 12, 2020, 85 F.R. 14731.
+
 &emsp;Notice of President of the United States, dated Mar. 12, 2019, 84 F.R. 9219.
 
 &emsp;Notice of President of the United States, dated Mar. 12, 2018, 83 F.R. 11393.
@@ -6482,6 +6042,10 @@ Ex. Ord. No. 13871, May 8, 2019, 84 F.R. 20761.
 
 Ex. Ord. No. 13876, June 24, 2019, 84 F.R. 30573.
 
+Ex. Ord. No. 13902, Jan. 10, 2020, 85 F.R. 2003.
+
+Ex. Ord. No. 13949, Sept. 21, 2020, 85 F.R. 60043.
+
 #### Iraq
 
 Ex. Ord. No. 12722, Aug. 2, 1990, 55 F.R. 31803, revoked by Ex. Ord. No. 12724, §6, Aug. 9, 1990, 55 F.R. 33090, to the extent inconsistent with Ex. Ord. No. 12724, and by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055.
@@ -6521,6 +6085,8 @@ Ex. Ord. No. 12817, Oct. 21, 1992, 57 F.R. 48433, revoked by Ex. Ord. No. 13350,
 Ex. Ord. No. 13303, May 22, 2003, 68 F.R. 31931, as amended by Ex. Ord. No. 13364, §1, Nov. 29, 2004, 69 F.R. 70177.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
+
+&emsp;Notice of President of the United States, dated May 20, 2020, 85 F.R. 31033.
 
 &emsp;Notice of President of the United States, dated May 20, 2019, 84 F.R. 23437.
 
@@ -6578,6 +6144,8 @@ Ex. Ord. No. 13441, Aug. 1, 2007, 72 F.R. 43499.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13441 were contained in the following:
 
+&emsp;Notice of President of the United States, dated July 29, 2020, 85 F.R. 45965.
+
 &emsp;Notice of President of the United States, dated July 30, 2019, 84 F.R. 37561.
 
 &emsp;Notice of President of the United States, dated July 27, 2018, 83 F.R. 37415.
@@ -6604,7 +6172,7 @@ Ex. Ord. No. 13441, Aug. 1, 2007, 72 F.R. 43499.
 
 #### Liberia
 
-Ex. Ord. No. 13213, May 22, 2001, 66 F.R. 28829, as amended by Ex. Ord. No. 13312, §3(d), July 29, 2003, 68 F.R. 45152, revoked by Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
+Ex. Ord. No. 13213, May 22, 2001, 66 F.R. 28829, as amended by Ex. Ord. No. 13312, §3(d), July 29, 2003, 68F.R. 45152, revoked by Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 
 Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 
@@ -6688,6 +6256,8 @@ Ex. Ord. No. 13566, Feb. 25, 2011, 76 F.R. 11315.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Feb. 20, 2020, 85 F.R. 10553.
+
 &emsp;Notice of President of the United States, dated Feb. 19, 2019, 84 F.R. 5581.
 
 &emsp;Notice of President of the United States, dated Feb. 9, 2018, 83 F.R. 6105.
@@ -6710,6 +6280,10 @@ Ex. Ord. No. 13726, Apr. 19, 2016, 81 F.R. 23559.
 
 Ex. Ord. No. 13882, July 26, 2019, 84 F.R. 37055.
 
+&emsp;Continuation of national emergency declared by Ex. Ord. No. 13882 was contained in the following:
+
+&emsp;Notice of President of the United States, dated July 23, 2020, 85 F.R. 45055.
+
 #### Nicaragua
 
 Ex. Ord. No. 12513, May 1, 1985, 50 F.R. 18629, revoked by Ex. Ord. No. 12707, Mar. 13, 1990, 55 F.R. 9707.
@@ -6728,7 +6302,9 @@ Ex. Ord. No. 12707, Mar. 13, 1990, 55 F.R. 9707.
 
 Ex. Ord. No. 13851, Nov. 27, 2018, 83 F.R. 61505.
 
-&emsp;Continuation of national emergency declared by Ex. Ord. No. 13466 was contained in the following:
+&emsp;Continuations of national emergency declared by Ex. Ord. No. 13851 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Nov. 24, 2020, 85 F.R. 75831.
 
 &emsp;Notice of President of the United States, dated Nov. 25, 2019, 84 F.R. 65255.
 
@@ -6737,6 +6313,8 @@ Ex. Ord. No. 13851, Nov. 27, 2018, 83 F.R. 61505.
 Ex. Ord. No. 13466, June 26, 2008, 73 F.R. 36787.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13466 were contained in the following:
+
+&emsp;Notice of President of the United States, dated June 17, 2020, 85 F.R. 37329.
 
 &emsp;Notice of President of the United States, dated June 21, 2019, 84 F.R. 29793.
 
@@ -6786,6 +6364,8 @@ Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, as amended by Ex. Ord. No. 1375
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13694 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Mar. 30, 2020, 85 F.R. 18103.
+
 &emsp;Notice of President of the United States, dated Mar. 26, 2019, 84 F.R. 11877.
 
 &emsp;Notice of President of the United States, dated Mar. 27, 2018, 83 F.R. 13371.
@@ -6799,6 +6379,8 @@ Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, as amended by Ex. Ord. No. 1375
 Ex. Ord. No. 13818, Dec. 20, 2017, 82 F.R. 60839.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13818 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Dec. 16, 2020, 85 F.R. 82869.
 
 &emsp;Notice of President of the United States, dated Dec. 18, 2019, 84 F.R. 69981.
 
@@ -6864,6 +6446,8 @@ Ex. Ord. No. 13536, Apr. 12, 2010, 75 F.R. 19869, as amended by Ex. Ord. No. 136
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Apr. 3, 2020, 85 F.R. 19373.
+
 &emsp;Notice of President of the United States, dated Apr. 10, 2019, 84 F.R. 14843.
 
 &emsp;Notice of President of the United States, dated Apr. 4, 2018, 83 F.R. 14731.
@@ -6898,6 +6482,8 @@ Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13664 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Apr. 1, 2020, 85 F.R. 18855.
+
 &emsp;Notice of President of the United States, dated Apr. 1, 2019, 84 F.R. 12871.
 
 &emsp;Notice of President of the United States, dated Mar. 27, 2018, 83 F.R. 13373.
@@ -6913,6 +6499,8 @@ Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
 Ex. Ord. No. 13067, Nov. 3, 1997, 62 F.R. 59989, as amended by Ex. Ord. No. 13761, §1, Jan. 13, 2017, 82 F.R. 5331.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13067 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 30, 2020, 85 F.R. 69463.
 
 &emsp;Notice of President of the United States, dated Oct. 31, 2019, 84 F.R. 59287.
 
@@ -6968,6 +6556,8 @@ Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, as amended by Ex. Ord. No. 1346
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 7, 2020, 85 F.R. 27639.
+
 &emsp;Notice of President of the United States, dated May 8, 2019, 84 F.R. 20537.
 
 &emsp;Notice of President of the United States, dated May 9, 2018, 83 F.R. 21839.
@@ -7014,11 +6604,17 @@ Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409.
 
 Ex. Ord. No. 13894, Oct. 13, 2019, 84 F.R. 55851.
 
+&emsp;Continuation of national emergency declared by Ex. Ord. No. 13894 was contained in the following:
+
+&emsp;Notice of President of the United States, dated Oct. 8, 2020, 85 F.R. 64941.
+
 #### Transnational Criminal Organizations
 
 Ex. Ord. No. 13581, July 24, 2011, 76 F.R. 44757, as amended by Ex. Ord. No. 13863, Mar. 15, 2019, 84 F.R. 10255.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13581 were contained in the following:
+
+&emsp;Notice of President of the United States, dated July 22, 2020, 85 F.R. 44683.
 
 &emsp;Notice of President of the United States, dated July 22, 2019, 84 F.R. 35513.
 
@@ -7044,6 +6640,8 @@ Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13660 were contained in the following:
 
+&emsp;Notice of President of the United States, dated Feb. 25, 2020, 85 F.R. 11827.
+
 &emsp;Notice of President of the United States, dated Mar. 4, 2019, 84 F.R. 7975.
 
 &emsp;Notice of President of the United States, dated Mar. 2, 2018, 83 F.R. 9413.
@@ -7065,6 +6663,8 @@ Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
 Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747, as amended by Ex. Ord. No. 13857, Jan. 25, 2019, 84 F.R. 509.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13692 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Mar. 5, 2020, 85 F.R. 13473.
 
 &emsp;Notice of President of the United States, dated Mar. 5, 2019, 84 F.R. 8245.
 
@@ -7136,6 +6736,8 @@ Ex. Ord. No. 13219, June 26, 2001, 66 F.R. 34777, as amended by Ex. Ord. No. 133
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13219 were contained in the following:
 
+&emsp;Notice of President of the United States, dated June 24, 2020, 85 F.R. 38271.
+
 &emsp;Notice of President of the United States, dated June 18, 2019, 84 F.R. 28715.
 
 &emsp;Notice of President of the United States, dated June 22, 2018, 83 F.R. 29663.
@@ -7180,6 +6782,8 @@ Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13611 were contained in the following:
 
+&emsp;Notice of President of the United States, dated May 7, 2020, 85 F.R. 27643.
+
 &emsp;Notice of President of the United States, dated May 13, 2019, 84 F.R. 22047.
 
 &emsp;Notice of President of the United States, dated May 14, 2018, 83 F.R. 22585.
@@ -7199,6 +6803,8 @@ Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
 &emsp;Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+&emsp;Notice of President of the United States, dated Mar. 4, 2020, 85 F.R. 12981.
 
 &emsp;Notice of President of the United States, dated Mar. 4, 2019, 84 F.R. 7977.
 

@@ -108,7 +108,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;&emsp;(V) how the eligible agency will assess the quality of providers of adult education and literacy activities under subchapter II and take actions to improve such quality, including providing the activities described in section 3303(a)(1)(B) of this title;
 
-&emsp;&emsp;&emsp;(iii) with respect to programs carried out under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), the information described in section 101(a) of that Act (29 U.S.C. 721(a)); and
+&emsp;&emsp;&emsp;(iii) with respect to programs carried out under title I of the Rehabilitation Act of1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), the information described in section 101(a) of that Act (29 U.S.C. 721(a)); and
 
 &emsp;&emsp;&emsp;(iv) information on such additional specific requirements for a program referenced in any of clauses (i) through (iii) or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) as the Secretary of Labor determines to be necessary to administer that program but cannot reasonably be applied across all such programs.
 
@@ -184,6 +184,8 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 (Pub. L. 113–128, title I, §102, July 22, 2014, 128 Stat. 1444; Pub. L. 114–18, §2(e)(1), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, §9215(yyy)(2), Dec. 10, 2015, 129 Stat. 2191.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -200,6 +202,8 @@ This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 20
 
 Subsec. (b)(2)(D)(ii)(I). Pub. L. 114–95 substituted "with challenging State academic standards, as adopted under section 6311(b)(1) of title 20" for "with State-adopted challenging academic content standards, as adopted under section 6311(b)(1) of title 20".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -208,5 +212,5 @@ Pub. L. 114–18, §2(f), May 22, 2015, 129 Stat. 214, provided that: "The amend
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

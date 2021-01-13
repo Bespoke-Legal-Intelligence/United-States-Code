@@ -6,7 +6,7 @@ Congress finds the following:
 
 &emsp;(1) Four buildings located on six acres of the establishment of the Retirement Home known as the Armed Forces Retirement Home—Washington are included on the National Register of Historic Places maintained by the Secretary of the Interior.
 
-&emsp;(2) Amounts in the Armed Forces Retirement Home Trust Fund, which consists primarily of deductions from the pay of members of the Armed Forces, are insufficient to both maintain and operate the Retirement Home for the benefit of the residents of the Retirement Home and adequately maintain, repair, and preserve these historic buildings and grounds.
+&emsp;(2) Amounts in the Armed Forces Retirement Home Trust Fund, which consists primarily of deductions from the pay of membersof the Armed Forces, are insufficient to both maintain and operate the Retirement Home for the benefit of the residents of the Retirement Home and adequately maintain, repair, and preserve these historic buildings and grounds.
 
 &emsp;(3) Other sources of funding are available to contribute to the maintenance, repair, and preservation of these historic buildings and grounds.
 
@@ -19,6 +19,8 @@ The Chief Operating Officer and the Administrator of the Armed Forces Retirement
 Amounts received as a grant under subsection (b) shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b).
 
 (Pub. L. 101–510, div. A, title XV, §1523, as added Pub. L. 106–65, div. A, title III, §383, Oct. 5, 1999, 113 Stat. 583; amended Pub. L. 107–107, div. A, title XIV, §§1404(b)(5), 1410(a)(4), Dec. 28, 2001, 115 Stat. 1261, 1266; Pub. L. 112–81, div. A, title V, §564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

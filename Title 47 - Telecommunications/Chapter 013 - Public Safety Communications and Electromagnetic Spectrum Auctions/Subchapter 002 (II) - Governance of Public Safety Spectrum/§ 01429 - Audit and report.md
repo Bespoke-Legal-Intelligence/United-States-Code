@@ -16,7 +16,7 @@
 
 &emsp;&emsp;For purposes of an audit conducted under paragraph (1), the representatives of the independent auditor shall—
 
-&emsp;&emsp;&emsp;(i) have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the First Responder Network Authority that pertain to the financial transactionsof the First Responder Network Authority and are necessary to facilitate the audit; and
+&emsp;&emsp;&emsp;(i) have access to all books, accounts, records, reports, files, and all other papers, things, or property belonging to or in use by the First Responder Network Authority that pertain to the financial transactions of the First Responder Network Authority and are necessary to facilitate the audit; and
 
 &emsp;&emsp;&emsp;(ii) be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
 

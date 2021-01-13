@@ -2,7 +2,7 @@
 
 (a) The Secretary shall maintain records, including electronic records, on the issuances, denials, suspensions, and revocations of licenses, certificates of registry, merchant mariners' documents, and endorsements on those licenses, certificates, and documents.
 
-(b) The Secretary may prescribe regulations requiring a vessel owner or managing operatorof a commercial vessel, or the employer of a seaman on that vessel, to maintain records of each individual engaged on the vessel subject to inspection under chapter 33 on matters of engagement, discharge, and service for not less than 5 years after the date of the completion of the service of that individual on the vessel. The regulations may require that a vessel owner, managing operator, or employer shall make these records available to the individual and the Coast Guard on request.
+(b) The Secretary may prescribe regulations requiring a vessel owner or managing operator of a commercial vessel, or the employer of a seaman on that vessel, to maintain records of each individual engaged on the vessel subject to inspection under chapter 33 on matters of engagement, discharge, and service for not less than 5 years after the date of the completion of the service of that individual on the vessel. The regulations may require that a vessel owner, managing operator, or employer shall make these records available to the individual and the Coast Guard on request.
 
 (c) A person violating this section, or a regulation prescribed under this section, is liable to the United States Government for a civil penalty of not more than $5,000.
 
@@ -22,11 +22,15 @@ Historical and Revision Notes
 
 Section 7502 requires the Secretary to maintain records on the issuances, denials, suspensions, and revocations of licenses, certificates of registry, merchant mariner's documents, and endorsements.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 111–281 designated existing provisions as subsec. (a), substituted "records, including electronic records," for "computerized records", and added subsecs. (b) and (c).
 
 <b>1990</b>—Pub. L. 101–380 substituted "maintain computerized records" for "maintain records".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

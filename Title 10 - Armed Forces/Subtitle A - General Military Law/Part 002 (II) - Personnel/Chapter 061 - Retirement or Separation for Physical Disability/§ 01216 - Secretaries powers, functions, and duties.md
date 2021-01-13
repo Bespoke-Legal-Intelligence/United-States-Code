@@ -14,7 +14,7 @@
 
 (c) The Secretary concerned or the Secretary of Veterans Affairs, as prescribed by the President, has the powers, functions, and duties under this chapter incident to hospitalization, reexaminations, and the payment of disability retired pay within his department or agency.
 
-(d) The Secretary concerned may not, with respect to any member who is a general officer orflag officer or is a medical officer being processed for retirement under any provisions of this title by reason of age or length of service—
+(d) The Secretary concerned may not, with respect to any member who is a general officer or flag officer or is a medical officer being processed for retirement under any provisions of this title by reason of age or length of service—
 
 &emsp;(1) retire such member under section 1201 of this title;
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–225, §2(b), Mar. 4, 1976, 90 Stat. 202, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code."
+Pub. L. 94–225, §2(b), Mar. 4, 1976, 90 Stat. 202, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concernedfor purposes of sections 1201, 1202, and 1203 of title 10, United States Code."
 
 #### Applicability of Subsection (d)
 

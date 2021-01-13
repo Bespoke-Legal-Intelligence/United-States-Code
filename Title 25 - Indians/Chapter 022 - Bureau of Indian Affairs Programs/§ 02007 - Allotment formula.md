@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 &emsp;&emsp;(B) Considers a school with an enrollment of less than 50 eligible Indian students as having an average daily attendance of 50 eligible Indian students for purposes of implementing the adjustment factor for small schools.
 
-&emsp;&emsp;(C) Takes into account the provision of residential services on less than a 9-month basis at a school when the school board and supervisor of the school determine that a less than 9-month basis will be implemented for the school year involved.
+&emsp;&emsp;(C) Takes into account the provision of residential services on less than a 9-month basis at a school when the school board and supervisor of the school determine that aless than 9-month basis will be implemented for the school year involved.
 
 &emsp;&emsp;(D) Uses a weighted unit of 2.0 for each eligible Indian student that—
 
@@ -178,11 +178,15 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 (Pub. L. 95–561, title XI, §1127, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2028.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2007, Pub. L. 95–561, title XI, §1127, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3989, related to allotment formula, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2007, Pub. L. 95–561, title XI, §1127, Nov. 1, 1978, 92 Stat. 2320, related to policies and procedures for implementation of transferred administrative functions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §1506. Theft or alteration of record or process; false bail
 
-Whoever feloniously steals, takes away, alters, falsifies, or otherwise avoids any record, writ, process, or other proceeding, in any court of the United States, whereby any judgment is reversed, made void, or does not take effect; or
+Whoever feloniously steals, takes away, alters, falsifies, or otherwise avoids any record, writ, process, or other proceeding, in any court of theUnited States, whereby any judgment is reversed, made void, or does not take effect; or
 
 Whoever acknowledges, or procures to be acknowledged in any such court, any recognizance, bail, or judgment, in the name of any other person not privy or consenting to the same—
 
@@ -15,6 +15,8 @@ Based on title 18, U.S.C., 1940 ed., §233 (Mar. 4, 1909, ch. 321, §127, 35 Sta
 The term of imprisonment was reduced from 7 to 5 years, to conform the punishment with like ones for similar offenses. (See section 1503 of this title.)
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

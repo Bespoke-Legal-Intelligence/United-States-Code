@@ -8,7 +8,7 @@ It is the sense of Congress that the United States Government should take the fo
 
 &emsp;(3) Provide the Government of Israel assistance specifically for the production and procurement of the Iron Dome defense system for purposes of intercepting short-range missiles, rockets, and projectiles launched against Israel.
 
-&emsp;(4) Provide the Government of Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
+&emsp;(4) Provide the Government of Israel defense articles and defense services through suchmechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
 
 &emsp;(5) Provide the Government of Israel additional excess defense articles, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
 
@@ -21,6 +21,8 @@ It is the sense of Congress that the United States Government should take the fo
 &emsp;(9) Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
 
 (Pub. L. 112–150, §4, July 27, 2012, 126 Stat. 1147.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements
 

@@ -34,6 +34,8 @@ Payments under this section may be made with respect to separations from employm
 
 (Pub. L. 104–53, title I, §109, Nov. 19, 1995, 109 Stat. 522; Pub. L. 105–55, title I, §103(a), Oct. 7, 1997, 111 Stat. 1183.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 60o of this title prior to editorial reclassification and renumbering as this section.
@@ -45,6 +47,8 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 <b>1997</b>—Subsec. (a). Pub. L. 105–55, §103(a)(1), (2), in introductory provisions, struck out "who is separated from employment," after "House of Representatives" and substituted "of the employee or for any other purpose" for "of the employee".
 
 Subsec. (a)(1)(B). Pub. L. 105–55, §103(a)(3), substituted "in the case of a lump sum payment for the accrued annual leave of the employee, the amount" for "the amount".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

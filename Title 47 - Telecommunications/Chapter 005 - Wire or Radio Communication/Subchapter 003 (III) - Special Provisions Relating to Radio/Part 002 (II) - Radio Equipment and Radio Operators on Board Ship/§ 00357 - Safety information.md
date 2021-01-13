@@ -6,11 +6,11 @@ The master of every ship of the United States, equipped with radio transmitting 
 
 #### (b) Charges for transmission of safety information
 
-No charge shall be made by any ship or station in the mobile service of the United States for the transmission, receipt, or relay of the information designated in subsection (a) originating on a ship of the United States or of a foreign country.
+No charge shall be made by any ship or station in the mobile service of the United States forthe transmission, receipt, or relay of the information designated in subsection (a) originating on a ship of the United States or of a foreign country.
 
 #### (c) Reimbursement by Commission
 
-The transmission by any ship of the United States, made in compliance with subsection (a),to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
+The transmission by any ship of the United States, made in compliance with subsection (a), to any station which imposes a charge for the reception, relay, or forwarding of the required information, shall be free of cost to the ship concerned and any communication charges incurred by the ship for transmission, relay, or forwarding of the information may be certified to the Commission for reimbursement out of moneys appropriated to the Commission for that purpose.
 
 #### (d) Charges for transmission of distress messages
 
@@ -22,9 +22,13 @@ Notwithstanding any other provision of law, any station or carrier may render fr
 
 (June 19, 1934, ch. 652, title III, §359, formerly §357, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 195; renumbered §359, Aug. 13, 1954, ch. 729, §2(a)(1), 68 Stat. 706; amended Pub. L. 89–121, §9, Aug. 13, 1965, 79 Stat. 516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–121 directed the master of every ship of the United States equipped with radio transmitting apparatus which encounters subfreezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received to transmit the pertinent information relating thereto.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

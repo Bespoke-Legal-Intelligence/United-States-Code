@@ -12,13 +12,17 @@
 
 #### (b) Opposition to certain programs and projects of International Atomic Energy Agency
 
-The Secretary shall direct the United States representative to the International Atomic Energy Agency to oppose programs of the Agencythat are determined by the Secretary under the review conducted under subsection (a)(1) to be inconsistent with nuclear nonproliferation and safety goals of the United States.
+The Secretary shall direct the United States representative to the International Atomic Energy Agency to oppose programs of the Agency that are determined by the Secretary under the review conducted under subsection (a)(1) to be inconsistent with nuclear nonproliferation and safety goals of the United States.
 
 (Pub. L. 107–228, div. B, title XIII, §1343, Sept. 30, 2002, 116 Stat. 1452.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Iran Nuclear Proliferation Prevention Act of 2002, and also as part of the Security Assistance Act of 2002 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the International Atomic Energy Agency Participation Act of 1957 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

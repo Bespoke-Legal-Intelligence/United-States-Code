@@ -50,11 +50,11 @@ Pub. L. 109–326, §2, Oct. 11, 2006, 120 Stat. 1761, provided that: "Congress 
 
 Pub. L. 105–265, §2, Oct. 19, 1998, 112 Stat. 2358, provided that: "Congress finds that—
 
-&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, andthe assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
+&emsp;"(1) the Great Lakes Fishery Resources Restoration Study, for which a report was submitted to Congress in 1995, was a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin, and was conducted through the joint effort of the United States Fish and Wildlife Service, State fish and wildlife resource management agencies, Indian tribes, and the Great Lakes Fishery Commission; and
 
 &emsp;"(2) the study—
 
 &emsp;&emsp;"(A) found that, although State, Provincial, Native American Tribal, and Federal agencies have made significant progress toward the goal of restoring a healthy fish community to the Great Lakes Basin, additional actions and better coordination are needed to protect and effectively manage the fisheries and related resources in the Great Lakes Basin; and
 
-&emsp;&emsp;"(B) recommended actions that are not currently funded but are considered essential to meet goals and objectives in managing the resources of the Great Lakes Basin."
+&emsp;&emsp;"(B) recommended actions that are not currently funded but are considered essential to meet goalsand objectives in managing the resources of the Great Lakes Basin."
 

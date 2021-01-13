@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the President may prohibit any artic
 
 #### (b) Prohibition on exports
 
-Notwithstanding any other provision of law, the President may prohibit any goods or technology, including technical data or other information, subject to the jurisdiction of the United States or exported by any person subject to the jurisdiction of the United States, from being exported to Libya.
+Notwithstanding any other provision of law, the President may prohibit any goods or technology, including technical data or other information, subject to the jurisdiction of the UnitedStates or exported by any person subject to the jurisdiction of the United States, from being exported to Libya.
 
 #### (c) "United States" defined
 
@@ -14,13 +14,19 @@ For purposes of this section, the term "United States", when used in a geographi
 
 (Pub. L. 99–83, title V, §504, Aug. 8, 1985, 99 Stat. 221.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the International Security and Development Cooperation Act of 1985, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

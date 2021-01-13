@@ -30,7 +30,7 @@ If the United States votes against including any species in Appendix I or II of 
 
 &emsp;(C) identification of measures that are necessary and appropriate to implement those provisions of the Western Convention which address the protection of wild plants.
 
-(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remaining actions yet necessary for comprehensive and effective implementation of the Western Convention.
+(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remainingactions yet necessary for comprehensive and effective implementation of the Western Convention.
 
 (4) The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
 

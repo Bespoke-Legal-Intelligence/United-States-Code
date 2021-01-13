@@ -12,7 +12,7 @@ The Office of Foreign Assets Control, in consultation with the Department of Sta
 
 #### (b) Procedures
 
-Requests for authorization under subsection (a) shall be submitted to the Office of Foreign Assets Control in conformance with the Office's regulations, including section 501.801 of title 31, Code of Federal Regulations (commonly known as the Reporting, Procedures and Penalties Regulations). Applicants shall fully disclose the parties to the transactions as well as describe the activities to be undertaken. License applications involving the exportation or reexportation of goods, technology, or software to Iran shall include a copy of an official Commodity Classification issued by the Department of Commerce, Bureau of Industry and Security, as part of the license application.
+Requests for authorization under subsection (a) shall be submitted to the Office of Foreign Assets Control in conformance with the Office's regulations, including section 501.801 of title 31, Code of Federal Regulations (commonly known as the Reporting, Procedures and Penalties Regulations). Applicants shall fully disclose the parties to the transactions as well as describe the activities to be undertaken. License applications involving the exportation or reexportation of goods, technology, or software to Iran shallinclude a copy of an official Commodity Classification issued by the Department of Commerce, Bureau of Industry and Security, as part of the license application.
 
 #### (c) Foreign policy review
 
@@ -32,9 +32,13 @@ The Secretary of the Treasury may prescribe such regulations as are appropriate 
 
 (Pub. L. 112–158, title IV, §413, Aug. 10, 2012, 126 Stat. 1256.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (d)(1), is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, which is set out as a note under section 1701 of Title 50, War and National Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

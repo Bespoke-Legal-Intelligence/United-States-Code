@@ -1,6 +1,6 @@
 ### §703. Miscellaneous authorities respecting employees
 
-(a) The Secretary may furnish and launder such wearing apparel as may be prescribed foremployees in the performance of their official duties.
+(a) The Secretary may furnish and launder such wearing apparel as may be prescribed for employees in the performance of their official duties.
 
 (b) The Secretary may transport children of Department employees located at isolated stations to and from school in available Government-owned automotive equipment.
 
@@ -16,11 +16,15 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 703 and 704 were renumbered sections 1903 and 1904 of this title, respectively.
 
 Provisions similar to those in this section were contained in section 233 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Outreach on Availability of Mental Health Services Available to Employees of the Department of Veterans Affairs
 
@@ -104,7 +108,7 @@ Update.—The Secretary shall regularly update the training materials required u
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
 
-Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, §305, June 6, 2018, 132 Stat. 1469, provided that:
+Pub. L. 113–146, title VII, §705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, §951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, §305, June 6, 2018, 132 Stat. 1469, provided that:
 
 "(a)
 

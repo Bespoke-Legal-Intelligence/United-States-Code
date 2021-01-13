@@ -70,19 +70,19 @@ Pub. L. 87–293, title II, §201(d), Sept. 22, 1961, 75 Stat. 625, provided tha
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–707, title V, §523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date."
+Pub. L. 86–707, title V, §523(b), Sept. 6, 1960, 74 Stat. 802, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date."
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
 Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+
+#### Treatment of Employees of Panama Canal Commission and Department of Defense
+
+Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: "Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986."
 
 #### Delegation of Functions
 
 Function of determining the portion of living allowances constituting basic compensation for Peace Corps volunteers or volunteer leaders under par. (3) of this section delegated by President to Director of Peace Corps to be performed in consultation with the Secretary of the Treasury, see section 1–104 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse.
 
 Authority of President under par. (2) of this section delegated to Secretary of Defense with respect to military departments, and to Secretary of Transportation with respect to Coast Guard when it is not operating as a service in the Navy, concerning civilian employees of nonappropriated fund instrumentalities of the armed forces, see section 201 of Ex. Ord. No. 11137, Jan. 7, 1964, as amended, set out as a note under section 5921 of Title 5, Government Organization and Employees.
-
-#### Treatment of Employees of Panama Canal Commission and Department of Defense
-
-Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: "Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986."
 

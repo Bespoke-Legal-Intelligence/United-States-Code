@@ -8,7 +8,7 @@ Except as provided in subsection (b), section 12651e(d) of this title, and secti
 
 #### (1) Authority
 
-&emsp;The Chief Executive Officer may designate positions in the Corporation as positions towhich the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
+&emsp;The Chief Executive Officer may designate positions in the Corporation as positions to which the Chief Executive Officer may make appointments, and for which the Chief Executive Officer may determine compensation, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, to the extent the Chief Executive Officer determines that such a designation is appropriate and desirable to further the effective operation of the Corporation. The Chief Executive Officer may provide for appointments to such positions to be made on a limited term basis.
 
 #### (2) Appointment in the competitive service after employment under alternative personnel system
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b), section 12651e(d) of this title, and secti
 
 #### (1) Designation of representative
 
-&emsp;The Corporation shall designate 1 employee of the Corporation for each State or group of States to serve as the representative of the Corporation in the State or States and to assist the Corporation in carrying out the activities described in the national service laws in the State or States.
+&emsp;The Corporation shall designate 1 employee of the Corporation for each State or group ofStates to serve as the representative of the Corporation in the State or States and to assist the Corporation in carrying out the activities described in the national service laws in the State or States.
 
 #### (2) Duties
 
@@ -108,7 +108,7 @@ Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is 
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified generally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified generally to chapter 66\(§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 

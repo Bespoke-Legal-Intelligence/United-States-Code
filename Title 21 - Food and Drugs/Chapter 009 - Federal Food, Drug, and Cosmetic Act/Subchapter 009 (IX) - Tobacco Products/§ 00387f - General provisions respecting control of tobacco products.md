@@ -44,7 +44,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Matchbooks
 
-&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 paper matches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
+&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 papermatches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
 
 #### (4) Remote sales
 
@@ -80,7 +80,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(ii) before promulgating any regulation under subparagraph (A), afford opportunity for an oral hearing;
 
-&emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonabletime to make its recommendation with respect to proposed regulations under subparagraph (A);
+&emsp;&emsp;&emsp;(iii) provide the Tobacco Products Scientific Advisory Committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A);
 
 &emsp;&emsp;&emsp;(iv) in establishing the effective date of a regulation promulgated under this subsection, take into account the differences in the manner in which the different types of tobacco products have historically been produced, the financial resources of the different tobacco product manufacturers, and the state of their existing manufacturing facilities, and shall provide for a reasonable period of time for such manufacturers to conform to good manufacturing practices; and
 
@@ -100,7 +100,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Referral to the Tobacco Products Scientific Advisory Committee
 
-&emsp;&emsp;The Secretary may refer to the Tobacco Products Scientific Advisory Committee any petition submitted under subparagraph (A). The Tobacco Products Scientific Advisory Committee shall report its recommendations to the Secretary with respect to a petition referred to it within 60 days after the date of the petition's referral. Within 60 days after—
+&emsp;&emsp;The Secretary may refer to the Tobacco Products Scientific Advisory Committee any petition submitted under subparagraph (A). The Tobacco Products Scientific Advisory Committee shall report its recommendationsto the Secretary with respect to a petition referred to it within 60 days after the date of the petition's referral. Within 60 days after—
 
 &emsp;&emsp;&emsp;(i) the date the petition was submitted to the Secretary under subparagraph (A); or
 
@@ -134,6 +134,8 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (June 25, 1938, ch. 675, §906, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1795; amended Pub. L. 116–94, div. N, title I, §603(a), Dec. 20, 2019, 133 Stat. 3123.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 906 of act June 25, 1938, was renumbered section 1006 and is classified to section 396 of this title.
@@ -143,6 +145,8 @@ A prior section 906 of act June 25, 1938, was renumbered section 1006 and is cla
 <b>2019</b>—Subsec. (d)(3)(A)(ii). Pub. L. 116–94, §603(a)(1), substituted "21 years" for "18 years".
 
 Subsec. (d)(5). Pub. L. 116–94, §603(a)(2), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

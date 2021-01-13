@@ -50,6 +50,8 @@ Mar. 4, 1915, ch. 153, §20(b), as added Pub. L. 97–389, title V, §503(a)(2),
 
 In subsection (b), before paragraph (1), the words "civil action" are substituted for "action" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words "under subsection (a) of this section or under any other" are omitted as unnecessary. In paragraph (2), the words "its territories, or possessions" are omitted as unnecessary because of the definition of "United States" in chapter 1 of the revised title. In paragraph (3), the word "person" is substituted for "enterprise" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The 1958 Convention on the Continental Shelf, referred to in subsec. (a), was done at Geneva, April 29, 1958, and entered into force for the United States, June 10, 1964. See 15 UST 471; TIAS 5578.

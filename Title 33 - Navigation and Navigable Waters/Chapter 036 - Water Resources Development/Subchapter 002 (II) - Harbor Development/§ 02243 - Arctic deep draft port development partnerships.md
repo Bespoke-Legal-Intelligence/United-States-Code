@@ -14,7 +14,7 @@ No assistance may be provided under this section until after the date on which t
 
 #### (d) Prioritization
 
-The Secretary shall prioritize technical assistance provided under this section for Arctic deepdraft ports identified by the Secretary, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Defense as important for Arctic development and security.
+The Secretary shall prioritize technical assistance provided under this section for Arctic deep draft ports identified by the Secretary, the Secretary of the department in which the Coast Guard is operating, and the Secretary of Defense as important for Arctic development and security.
 
 #### (e) Consideration of national security interests
 
@@ -28,6 +28,8 @@ In carrying out a study of the feasibility of an Arctic deep draft port, the Sec
 
 (Pub. L. 113–121, title II, §2105, June 10, 2014, 128 Stat. 1279; Pub. L. 114–322, title I, §1202(c), Dec. 16, 2016, 130 Stat. 1684.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -39,6 +41,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Subsec. (d). Pub. L. 114–322, §1202(c)(2), substituted "the Secretary of the department in which the Coast Guard is operating" for "the Secretary of Homeland Security".
 
 Subsec. (e). Pub. L. 114–322, §1202(c)(3), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

@@ -2,7 +2,7 @@
 
 (a) Whoever, for the purpose of obtaining information respecting the national defense with intent or reason to believe that the information is to be used to the injury of the United States, or to the advantage of any foreign nation, goes upon, enters, flies over, or otherwise obtains information concerning any vessel, aircraft, work of defense, navy yard, naval station, submarine base, fueling station, fort, battery, torpedo station, dockyard, canal, railroad, arsenal, camp, factory, mine, telegraph, telephone, wireless, or signal station, building, office, research laboratory or station or other place connected with the national defense owned or constructed, or in progress of construction by the United States or under the control of the United States, or of any of its officers, departments, or agencies, or within the exclusive jurisdiction of the United States, or any place in which any vessel, aircraft, arms, munitions, or other materials or instruments for use in time of war are being made, prepared, repaired, stored, or are the subject of research or development, under any contract or agreement with the United States, or any department or agency thereof, or with any person on behalf of the United States, or otherwise on behalf of the United States, or any prohibited place so designated by the President by proclamation in time of war or in case of national emergency in which anything for the use of the Army, Navy, or Air Force is being prepared or constructed or stored, information as to which prohibited place the President has determined would be prejudicial to the national defense; or
 
-(b) Whoever, for the purpose aforesaid, and with like intent or reason to believe, copies, takes, makes, or obtains, or attempts to copy, take, make, or obtain, any sketch, photograph,photographic negative, blueprint, plan, map, model, instrument, appliance, document, writing, or note of anything connected with the national defense; or
+(b) Whoever, for the purpose aforesaid, and with like intent or reason to believe, copies, takes, makes, or obtains, or attempts to copy, take, make, or obtain, any sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, document, writing, or note of anything connected with the national defense; or
 
 (c) Whoever, for the purpose aforesaid, receives or obtains or agrees or attempts to receive or obtain from any person, or from any source whatever, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, instrument, appliance, or note, of anything connected with the national defense, knowing or having reason to believe, at the time he receives or obtains, or agrees or attempts to receive or obtain it, that it has been or will be obtained, taken, made, or disposed of by any person contrary to the provisions of this chapter; or
 
@@ -48,6 +48,8 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (h)(1). Pub. L. 104–294 inserted at end "For the purposes of this subsection, the term 'State' includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States."
@@ -59,6 +61,8 @@ Subsec. (h)(3). Pub. L. 103–359 substituted "(p)" for "(o)" in two places.
 <b>1986</b>—Subsec. (h). Pub. L. 99–399 added subsec. (h).
 
 <b>1950</b>—Act Sept. 23, 1950, divided section into subdivisions, inserted laboratories and stations, and places where material or instruments for use in time of war are the subject of research or development to the list of facilities and places to which subsection (a) applies, made subsection (d) applicable only in cases in which possession, access, or control is lawful, added subsection (e) to take care of cases in which possession, access, or control, is unlawful, made subsection (f) applicable to instruments and appliances, as well as to documents, records, etc., and provided by subsection (g) a separate penalty for conspiracy to violate any provisions of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indictment for Violating This Section; Limitation Period
 

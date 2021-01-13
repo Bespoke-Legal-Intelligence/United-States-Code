@@ -66,7 +66,7 @@
 
 > &emsp;&emsp;if the Secretary finds, on the basis of the conviction of such individual and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
-&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, ifthe Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
+&emsp;&emsp;(iii) Any individual whom the Secretary finds materially participated in acts that were the basis for a conviction for an offense described in subsection (a) or in clause (i) or (ii) for which a conviction was obtained, if the Secretary finds, on the basis of such participation and other information, that such individual has demonstrated a pattern of conduct sufficient to find that there is reason to believe that such individual may violate requirements under this chapter relating to drug products.
 
 &emsp;&emsp;(iv) Any high managerial agent whom the Secretary finds—
 
@@ -348,7 +348,7 @@ Any application for approval of a drug product shall include—
 
 #### (2) Effective dates
 
-&emsp;Subsection (a), subparagraph (A) of subsection (b)(2), clauses (i) and (ii) of subsection (b)(2)(B), and subsection (b)(3)(A) shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b). Clauses (iii) and (iv) of subsection (b)(2)(B), subsection (b)(3)(B), and subsections (f) and (g) shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g). Clause (iv) of subsection (b)(2)(B) shall not apply to an action which occurred before June 1, 1992. Subsection (k) shall not apply to applications submitted to the Secretary before June 1, 1992.
+&emsp;Subsection (a), subparagraph (A) of subsection (b)(2), clauses (i) and (ii) of subsection\(b)(2)(B), and subsection (b)(3)(A) shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b). Clauses (iii) and (iv) of subsection (b)(2)(B), subsection (b)(3)(B), and subsections (f) and (g) shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g). Clause (iv) of subsection (b)(2)(B) shall not apply to an action which occurred before June 1, 1992. Subsection (k) shall not apply to applications submitted to the Secretary before June 1, 1992.
 
 #### (m) Devices; mandatory debarment regarding third-party inspections and reviews
 
@@ -369,6 +369,8 @@ Any application for approval of a drug product shall include—
 &emsp;Subsections (c)(3), (d), (e), (i), (j), and (l)(1) apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1), or an individual who is debarred under subsection (a)(2), respectively.
 
 (June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610; Pub. L. 115–271, title III, §3022(b)(2), Oct. 24, 2018, 132 Stat. 3938.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -413,6 +415,8 @@ Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out "and" 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 <b>1997</b>—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out "or 357" after "355".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

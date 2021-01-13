@@ -36,6 +36,8 @@ Aug. 30, 1964, Pub. L. 88–499, §5, 78 Stat. 616.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–401 substituted "purposes" for "purpose" in introductory provisions.
@@ -47,6 +49,8 @@ Par. (4). Pub. L. 102–403 amended par. (4) generally. Prior to amendment, par.
 Par. (5). Pub. L. 102–403 which directed addition of par. (5) at end of section, was executed by adding par. (5) after par. (4) and before concluding provisions, to reflect the probable intent of Congress.
 
 <b>1990</b>—Pub. L. 101–422 added par. (4) and concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Administrative Conference of United States
 

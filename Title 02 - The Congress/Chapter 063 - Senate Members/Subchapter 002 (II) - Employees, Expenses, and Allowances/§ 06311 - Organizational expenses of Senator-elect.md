@@ -16,7 +16,7 @@ Each Senator-elect and each employee appointed under subsection (a) is authorize
 
 #### (d) Payment of telegrams, telephone services, and stationery expenses
 
-(1) Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams, telephone services, and stationery related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will represent under section 6314 of this title. Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
+(1) Each Senator-elect is authorized to be reimbursed for expenses incurred for telegrams, telephone services, and stationery related to his position as a Senator-elect in an amount not exceeding one-twelfth of the total amount of expenses authorized to be paid to or on behalf of a Senator from the State which he will representunder section 6314 of this title. Reimbursement to a Senator-elect under this subsection shall be paid from the contingent fund of the Senate upon itemized vouchers certified by such Senator-elect and approved by the Secretary of the Senate.
 
 (2) Amounts reimbursed to a Senator-elect under this subsection shall be charged against the amount of expenses which are authorized to be paid to him or on his behalf under section 6314 of this title, for each of the twelve months beginning with the month in which his service as a Senator commences (until all of such amounts have been charged) by whichever of the following amounts is greater: (1) one-twelfth of the amounts so reimbursed, or (2) the amount by which the aggregate amount authorized to be so paid under section 6314(c) of this title as of the close of such month exceeds the aggregate amount actually paid under such section 6314 as of the close of such month.
 
@@ -26,6 +26,8 @@ This section shall take effect on October 1, 1978.
 
 (Pub. L. 95–355, title I, §105, Sept. 8, 1978, 92 Stat. 534; Pub. L. 104–197, title I, §2, Sept. 16, 1996, 110 Stat. 2397.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 43d of this title prior to editorial reclassification and renumbering as this section.
@@ -33,6 +35,8 @@ Section was formerly classified to section 43d of this title prior to editorial 
 #### Amendments
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–197 substituted ", telephone services, and stationery" for "and telephone services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Senators' Official Personnel and Office Expense Account
 

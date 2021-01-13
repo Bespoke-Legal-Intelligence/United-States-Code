@@ -11,7 +11,7 @@
 | [2827\.](%C2%A7%2002827%20-%20Relocation%20of%20military%20family%20housing%20units.md) | Relocation of military family housing units. |
 | [2828\.](%C2%A7%2002828%20-%20Leasing%20of%20military%20family%20housing.md) | Leasing of military family housing. |
 | [2829\.](%C2%A7%2002829%20-%20Multi-year%20contracts%20for%20supplies%20and%20services.md) | Multi-year contracts for supplies and services. |
-| [2830\.](%C2%A7%2002830%20-%20Occupancy%20of%20substandard%20family%20housing%20units.md) | Occupancy of substandard family housing units. |
+| \[2830. | Repealed.\] |
 | [2831\.](%C2%A7%2002831%20-%20Military%20family%20housing%20management%20account.md) | Military family housing management account. |
 | [2832\.](%C2%A7%2002832%20-%20Homeowners%20assistance%20program.md) | Homeowners assistance program. |
 | [2833\.](%C2%A7%2002833%20-%20Family%20housing%20support.md) | Family housing support. |
@@ -25,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. B, title XXVIII, §2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 "Occupancy of substandard family housing units".
 
 <b>2013</b>—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 "Limited partnerships with private developers of housing".
 
@@ -54,7 +56,7 @@
 - [&sect; 02827 - Relocation of military family housing units](%C2%A7%2002827%20-%20Relocation%20of%20military%20family%20housing%20units.md)
 - [&sect; 02828 - Leasing of military family housing](%C2%A7%2002828%20-%20Leasing%20of%20military%20family%20housing.md)
 - [&sect; 02829 - Multi-year contracts for supplies and services](%C2%A7%2002829%20-%20Multi-year%20contracts%20for%20supplies%20and%20services.md)
-- [&sect; 02830 - Occupancy of substandard family housing units](%C2%A7%2002830%20-%20Occupancy%20of%20substandard%20family%20housing%20units.md)
+- [&sect; 02830 - Repealed. Pub. L. 116&#8211;283, div. B, title XXVIII, &sect;2812(a), Jan. 1, 2021, 134 Stat. 4326](%C2%A7%2002830%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72812%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204326.md)
 - [&sect; 02831 - Military family housing management account](%C2%A7%2002831%20-%20Military%20family%20housing%20management%20account.md)
 - [&sect; 02832 - Homeowners assistance program](%C2%A7%2002832%20-%20Homeowners%20assistance%20program.md)
 - [&sect; 02833 - Family housing support](%C2%A7%2002833%20-%20Family%20housing%20support.md)

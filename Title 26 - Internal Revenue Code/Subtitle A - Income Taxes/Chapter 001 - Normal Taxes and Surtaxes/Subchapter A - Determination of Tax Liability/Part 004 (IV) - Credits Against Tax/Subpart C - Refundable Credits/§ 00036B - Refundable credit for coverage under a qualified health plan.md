@@ -51,7 +51,7 @@ For purposes of this section—
 
 #### (II) Additional adjustment
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate ofpremium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (III), in the case of any calendar year after 2018, the percentages described in subclause (I) shall, in addition to the adjustment under subclause (I), be adjusted to reflect the excess (if any) of the rate of premium growth estimated under subclause (I) for the preceding calendar year over the rate of growth in the consumer price index for the preceding calendar year.
 
 #### (III) Failsafe
 
@@ -177,7 +177,7 @@ For purposes of this section—
 
 #### (B) Grandfathered health plan
 
-&emsp;&emsp;The term "grandfathered health plan" has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
+&emsp;&emsp;The term "grandfathered health plan" has the meaning given such term by section 1251of the Patient Protection and Affordable Care Act.
 
 #### (4) Special rules for qualified small employer health reimbursement arrangements
 
@@ -191,7 +191,7 @@ For purposes of this section—
 
 #### (C) Affordable coverage
 
-&emsp;&emsp;For purposes of subparagraph (A), a qualified small employer health reimbursementarrangement shall be treated as constituting affordable coverage for a month if—
+&emsp;&emsp;For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
 
 &emsp;&emsp;&emsp;(i) the excess of—
 
@@ -341,7 +341,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 &emsp;(1) the coordination of the credit allowed under this section with the program for advance payment of the credit under section 1412 of the Patient Protection and Affordable Care Act, and
 
-&emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
+&emsp;(2) the application of subsection (f) where the filing status of the taxpayer for a taxableyear is different from such status used for determining the advance payment of the credit.
 
 (Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060.)
 
@@ -353,7 +353,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
 
-Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate oftax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
+Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
 Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 

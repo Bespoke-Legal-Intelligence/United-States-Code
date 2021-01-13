@@ -116,6 +116,8 @@ Va sensitive data.—The term "VA sensitive data" means all Department data, on 
 
 (Added Pub. L. 109–461, title IX, §902(a), Dec. 22, 2006, 120 Stat. 3457; amended Pub. L. 111–275, title X, §1001(m)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (20). Pub. L. 111–275 substituted "plan that defines" for "subordinate plan defines".

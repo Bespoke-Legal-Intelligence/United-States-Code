@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitleor to prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
+In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle or to prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
 &emsp;(1) to obtain such information as the Secretary may describe in such order concerning—
 
@@ -24,7 +24,7 @@ In general.—The Secretary of the Treasury may, by regulation or order, require
 
 &emsp;&emsp;(A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the funds which are involved in the reportable transaction with the depository institution; and
 
-&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
+&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade orbusiness failed to provide any copy of such report.
 
 &emsp;(2)
 
@@ -39,6 +39,8 @@ Nondisclosure of Orders.—No financial institution or nonfinancial trade or bus
 Maximum Effective Period for Order.—No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 
 (Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335; Pub. L. 115–44, title II, §275(a), Aug. 2, 2017, 131 Stat. 938.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

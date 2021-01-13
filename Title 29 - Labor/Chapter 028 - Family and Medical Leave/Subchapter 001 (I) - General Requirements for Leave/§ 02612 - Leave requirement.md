@@ -16,6 +16,8 @@
 
 &emsp;&emsp;(E) Because of any qualifying exigency (as the Secretary shall, by regulation, determine) arising out of the fact that the spouse, or a son, daughter, or parent of the employee is on covered active duty (or has been notified of an impending call or order to covered active duty) in the Armed Forces.
 
+&emsp;&emsp;(F) During the period beginning on the date the Emergency Family and Medical Leave Expansion Act takes effect, and ending on December 31, 2020, because of a qualifying need related to a public health emergency in accordance with section 2620 of this title.
+
 #### (2) Expiration of entitlement
 
 &emsp;The entitlement to leave under subparagraphs (A) and (B) of paragraph (1) for a birth or placement of a son or daughter shall expire at the end of the 12-month period beginning on the date of such birth or placement.
@@ -30,7 +32,7 @@
 
 #### (5) Calculation of leave for airline flight crews
 
-&emsp;The Secretary may provide, by regulation, a method for calculating the leave described in paragraph (1) with respect to employees described in section 2611(2)(D) of this title.
+&emsp;The Secretary may provide, by regulation, a method for calculating the leave described inparagraph (1) with respect to employees described in section 2611(2)(D) of this title.
 
 #### (b) Leave taken intermittently or on reduced leave schedule
 
@@ -48,7 +50,7 @@
 
 #### (c) Unpaid leave permitted
 
-Except as provided in subsection (d), leave granted under subsection (a) may consist of unpaid leave. Where an employee is otherwise exempt under regulations issued by the Secretary pursuant to section 213(a)(1) of this title, the compliance of an employer with this subchapter by providing unpaid leave shall not affect the exempt status of the employee under such section.
+Except as provided in subsection (d), leave granted under subsection (a) (other than certain periods of leave under subsection (a)(1)(F)) may consist of unpaid leave. Where an employee is otherwise exempt under regulations issued by the Secretary pursuant to section 213(a)(1) of this title, the compliance of an employer with this subchapter by providing unpaid leave shall not affect the exempt status of the employee under such section.
 
 #### (d) Relationship to paid leave
 
@@ -140,17 +142,23 @@ Except as provided in subsection (d), leave granted under subsection (a) may con
 
 &emsp;&emsp;If the leave taken by the husband and wife includes leave described in paragraph (1), the limitation in paragraph (1) shall apply to the leave described in paragraph (1).
 
-(Pub. L. 103–3, title I, §102, Feb. 5, 1993, 107 Stat. 9; Pub. L. 110–181, div. A, title V, §585(a)(2), (3)(A)–(D), Jan. 28, 2008, 122 Stat. 129, 130; Pub. L. 111–84, div. A, title V, §565(a)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2309, 2311; Pub. L. 111–119, §2(b), Dec. 21, 2009, 123 Stat. 3477; Pub. L. 116–92, div. F, title LXXVI, §7604(a), Dec. 20, 2019, 133 Stat. 2307.)
+(Pub. L. 103–3, title I, §102, Feb. 5, 1993, 107 Stat. 9; Pub. L. 110–181, div. A, title V, §585(a)(2), (3)(A)–(D), Jan. 28, 2008, 122 Stat. 129, 130; Pub. L. 111–84, div. A, title V, §565(a)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2309, 2311; Pub. L. 111–119, §2(b), Dec. 21, 2009, 123 Stat. 3477; Pub. L. 116–92, div. F, title LXXVI, §7604(a), Dec. 20, 2019, 133 Stat. 2307; Pub. L. 116–127, div. C, §3102(a), Mar. 18, 2020, 134 Stat. 189.)
 
-#### Applicability of Amendment
+#### <b>Editorial Notes</b>
 
-<i>Amendment of section by section 7604(a) of Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020. See 2019 Amendment notes below.</i>
+#### References in Text
+
+The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec. (a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under section 2620 of this title.
 
 #### Constitutionality
 
 For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(F). Pub. L. 116–127, §3102(a)(1), added subpar. (F).
+
+Subsec. (c). Pub. L. 116–127, §3102(a)(2), substituted "under subsection (a) (other than certain periods of leave under subsection (a)(1)(F))" for "under subsection (a)".
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–92, §7604(a)(1)(A), inserted "and subsection (d)(3)" after "section 2613 of this title" in introductory provisions.
 
@@ -186,9 +194,15 @@ Subsec. (e)(3). Pub. L. 110–181, §585(a)(3)(C)(ii), added par. (3).
 
 Subsec. (f). Pub. L. 110–181, §585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–127 effective no later than 15 days after Mar. 18, 2020, see section 3106 of div. C of Pub. L. 116–127, set out as an Effective Date note under section 2620 of this title.
+
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1,2020, see section 7604(c) of Pub. L. 116–92, set out as a note under section 2611 of this title.
+Amendment by Pub. L. 116–92 not effective with respect to any birth or placement occurring before Oct. 1, 2020, see section 7604(c) of Pub. L. 116–92, set out as a note under section 2611 of this title.
 
 #### Effective Date
 

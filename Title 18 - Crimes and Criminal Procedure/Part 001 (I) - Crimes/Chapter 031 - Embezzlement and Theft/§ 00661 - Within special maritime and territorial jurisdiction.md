@@ -2,7 +2,7 @@
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, takes and carries away, with intent to steal or purloin, any personal property of another shall be punished as follows:
 
-If the property taken is of a value exceeding $1,000, or is taken from the person of another, by a fine under this title, or imprisonment for not more than five years, or both; in all other cases, by a fine under this title or by imprisonment not more than one year, or both.
+If the property taken is of a value exceeding $1,000, or is taken from the person of another, bya fine under this title, or imprisonment for not more than five years, or both; in all other cases, by a fine under this title or by imprisonment not more than one year, or both.
 
 If the property stolen consists of any evidence of debt, or other written instrument, the amount of money due thereon, or secured to be paid thereby and remaining unsatisfied, or which in any contingency might be collected thereon, or the value of the property the title to which is shown thereby, or the sum which might be recovered in the absence thereof, shall be the value of the property stolen.
 
@@ -17,6 +17,8 @@ Words "within the special maritime and territorial jurisdiction of the United St
 The maximum fine and imprisonment provisions were modified and "five years" and "$5,000" substituted for "ten years" and "$10,000" and the sum of $100 was substituted for $50 as more in accord with other sections of this chapter. (See section 641 of this title.)
 
 Minor changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

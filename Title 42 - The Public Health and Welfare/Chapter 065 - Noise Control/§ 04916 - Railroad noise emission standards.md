@@ -16,7 +16,7 @@ The Secretary of Transportation, after consultation with the Administrator, shal
 
 #### (c) State and local standards and controls
 
-(1) Subject to paragraph (2) but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any equipment or facility of a surface carrier engaged in interstate commerce by railroad, no State or political subdivision thereof may adopt or enforce any standard applicable to noise emissions resulting from the operation of the same equipment or facility of such carrier unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
+(1) Subject to paragraph (2) but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any equipment or facility of a surface carrier engaged in interstatecommerce by railroad, no State or political subdivision thereof may adopt or enforce any standard applicable to noise emissions resulting from the operation of the same equipment or facility of such carrier unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
 
 (2) Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.
 
@@ -34,7 +34,7 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsec. (b), "subtitle IV of title 49" substituted for "the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]", on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat.1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), "subtitle IV of title 49" substituted for "the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]", on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 #### Amendments
 

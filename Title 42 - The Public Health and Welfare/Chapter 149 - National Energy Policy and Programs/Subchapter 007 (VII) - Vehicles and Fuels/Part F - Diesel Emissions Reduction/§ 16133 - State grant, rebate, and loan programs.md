@@ -76,7 +76,7 @@ The Administrator shall—
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, andlow-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
+&emsp;Subject to paragraphs (2) and (3) and, to the extent practicable, the priority areas listed in section 16132(c)(3) of this title, a State shall use any funds provided under this section to develop and implement such grant, rebate, and low-cost revolving loan programs in the State as are appropriate to meet State needs and goals relating to the reduction of diesel emissions.
 
 #### (2) Apportionment of funds
 

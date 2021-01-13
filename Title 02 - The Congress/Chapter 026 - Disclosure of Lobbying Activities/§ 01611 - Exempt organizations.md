@@ -4,9 +4,13 @@ An organization described in section 501(c)(4) of title 26 which engages in lobb
 
 (Pub. L. 104–65, §18, Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–99, title I, §129(a), Jan. 26, 1996, 110 Stat. 34.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–99 substituted "award, grant, or loan" for "award, grant, contract, loan, or any other form".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

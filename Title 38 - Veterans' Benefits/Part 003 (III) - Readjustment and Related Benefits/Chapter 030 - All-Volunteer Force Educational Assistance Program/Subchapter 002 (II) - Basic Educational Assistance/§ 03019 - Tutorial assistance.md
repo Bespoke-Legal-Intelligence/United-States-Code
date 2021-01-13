@@ -10,6 +10,8 @@
 
 (Added Pub. L. 100–689, title I, §107(a)(1), Nov. 18, 1988, 102 Stat. 4167, §1419; renumbered §3019 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 1419 of this title as this section.

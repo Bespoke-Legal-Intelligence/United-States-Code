@@ -6,7 +6,7 @@ In order to ensure the future supply of researchers dedicated to the care and re
 
 &emsp;(2) an increase in the number of career development awards for health professionals who intend to build careers in pediatric basic and clinical research, including pediatric pharmacological research.
 
-(July 1, 1944, ch. 373, title IV, §452G, as added Pub. L. 106–310, div. A, title X, §1002(a), Oct. 17,2000, 114 Stat. 1128; amended Pub. L. 109–482, title I, §103(b)(31), Jan. 15, 2007, 120 Stat. 3688; Pub. L. 110–85, title V, §503(a), Sept. 27, 2007, 121 Stat. 890.)
+(July 1, 1944, ch. 373, title IV, §452G, as added Pub. L. 106–310, div. A, title X, §1002(a), Oct. 17, 2000, 114 Stat. 1128; amended Pub. L. 109–482, title I, §103(b)(31), Jan. 15, 2007, 120 Stat. 3688; Pub. L. 110–85, title V, §503(a), Sept. 27, 2007, 121 Stat. 890.)
 
 #### Amendments
 

@@ -34,7 +34,7 @@ The Secretary shall have exclusive authority to approve or disapprove a plan sub
 
 #### (c) Extension of time
 
-Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the90-day period identified in subsection (b)(1) for not more than 90 additional days, if, before the expiration of the period, the Secretary obtains the express written consent of the Indian tribe.
+Notwithstanding any other provision of law, the Secretary may extend or otherwise alter the 90-day period identified in subsection (b)(1) for not more than 90 additional days, if, before the expiration of the period, the Secretary obtains the express written consent of the Indian tribe.
 
 #### (d) Review of denial
 
@@ -71,6 +71,8 @@ Notwithstanding any other provision of law, the Secretary may extend or otherwis
 &emsp;&emsp;(B) by an administrative law judge.
 
 (Pub. L. 102–477, §8, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, §1103(d), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, §9, Dec. 18, 2017, 131 Stat. 2030.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

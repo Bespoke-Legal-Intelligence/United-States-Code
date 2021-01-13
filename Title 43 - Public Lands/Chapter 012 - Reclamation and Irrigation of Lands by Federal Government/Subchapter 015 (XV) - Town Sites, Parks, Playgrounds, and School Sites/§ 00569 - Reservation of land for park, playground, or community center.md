@@ -16,9 +16,13 @@ Any of such lands not contracted for in accordance with the provisions of subsec
 
 (Oct. 5, 1914, ch. 316, §§1–4, 38 Stat. 727, 728; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–579 struck out subsec. (a) authorizing Secretary of the Interior to withdraw and reserve lands for country parks, public playgrounds, etc.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

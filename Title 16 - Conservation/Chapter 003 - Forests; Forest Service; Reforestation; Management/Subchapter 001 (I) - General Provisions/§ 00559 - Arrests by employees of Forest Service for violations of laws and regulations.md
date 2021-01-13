@@ -2,7 +2,7 @@
 
 All persons employed in the Forest Service of the United States shall have authority to make arrests for the violation of the laws and regulations relating to the national forests, and any person so arrested shall be taken before the nearest United States magistrate judge, within whose jurisdiction the forest is located, for trial; and upon sworn information by any competent person any United States magistrate judge in the proper jurisdiction shall issue process for the arrest of any person charged with the violation of said laws and regulations; but nothing herein contained shall be construed as preventing the arrest by any officer of the United States, without process, of any person taken in the act of violating said laws and regulations.
 
-(Mar. 3, 1905, ch. 1405, 33 Stat. 873; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118;Pub. L. 91–383, §10(a)(2), Aug. 18, 1970, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Mar. 3, 1905, ch. 1405, 33 Stat. 873; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 91–383, §10(a)(2), Aug. 18, 1970, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1941; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Codification
 

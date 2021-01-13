@@ -24,7 +24,7 @@ Except as otherwise provided in this section, in the case of a—
 
 #### (3) Entities which meet gross receipts test
 
-&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or any predecessor) meets the gross receipts test of subsection (c) for such taxable year.
+&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or anypredecessor) meets the gross receipts test of subsection (c) for such taxable year.
 
 #### (c) Gross receipts test
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
+&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shallnot be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
 
 &emsp;&emsp;&emsp;(i) such services are in fields referred to in paragraph (2)(A), or
 

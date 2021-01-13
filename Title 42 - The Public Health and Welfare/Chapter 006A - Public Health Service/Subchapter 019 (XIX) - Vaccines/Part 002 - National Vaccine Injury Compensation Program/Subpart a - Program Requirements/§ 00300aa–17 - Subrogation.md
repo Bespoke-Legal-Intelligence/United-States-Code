@@ -14,7 +14,7 @@ Amounts recovered under subsection (a) shall be collected on behalf of, and depo
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted "the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26" for "the trust fund which has been established to provide compensation under the Program".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 struck out par. (1) designation before "Upon" and struck out par. (2) which read as follows: "In any case in which it deems such action appropriate, a district court of the United States may, after entry of a final judgment providing for compensation to be paid under section 300aa–15 of this title for a vaccine-related injury or death, refer the record of such proceeding to the Secretary and the Attorney General with such recommendation as the court deems appropriate with respect to the investigation or commencement of a civil action by the Secretary under paragraph (1)."
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 struck out par. (1) designation before "Upon" and struck out par. (2)which read as follows: "In any case in which it deems such action appropriate, a district court of the United States may, after entry of a final judgment providing for compensation to be paid under section 300aa–15 of this title for a vaccine-related injury or death, refer the record of such proceeding to the Secretary and the Attorney General with such recommendation as the court deems appropriate with respect to the investigation or commencement of a civil action by the Secretary under paragraph (1)."
 
 #### Effective Date of 1989 Amendment
 

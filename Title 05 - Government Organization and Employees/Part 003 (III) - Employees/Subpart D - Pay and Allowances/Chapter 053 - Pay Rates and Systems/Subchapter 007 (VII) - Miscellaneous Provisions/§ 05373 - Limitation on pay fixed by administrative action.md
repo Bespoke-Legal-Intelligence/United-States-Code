@@ -36,6 +36,8 @@ The words "head of an Executive agency or military department" are coextensive w
 
 Standard changes are made to conform to the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to in subsec. (a), is Pub. L. 88–426, Aug. 14, 1964, 78 Stat. 400. For complete classification of this Act to the Code, see Tables.
@@ -44,7 +46,7 @@ Level IV of the Executive Schedule, referred to in subsec. (a), is set out in se
 
 Section 206 of the Bank Conservation Act, referred to in subsec. (a)(1), is classified to section 206 of Title 12, Banks and Banking.
 
-Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, §1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a ofTitle 12 was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
+Sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, referred to in subsec. (a)(1), were classified to former sections 1422b(b) and 1441a(e)(4), respectively, of Title 12, Banks and Banking. Section 1422b of Title 12 was repealed by Pub. L. 110–289, div. A, title II, §1204(1), July 30, 2008, 122 Stat. 2786. Section 1441a of Title 12 was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
 Section 2A(i) of the Home Owners' Loan Act, referred to in subsec. (a)(1), probably should be a reference to section 3(g) of the Home Owners' Loan Act, act June 13, 1933, ch. 64, as amended by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 278, which was classified to section 1462a(g) of Title 12, Banks and Banking, prior to repeal by Pub. L. 111–203, title III, §369(3)(B), July 21, 2010, 124 Stat. 1558.
 
@@ -79,6 +81,8 @@ Pub. L. 107–123, §8(d)(1)(C)(iii), added par. (4) relating to section 4802.
 Pub. L. 101–73, §742(b), inserted references to sections 1437 and 1439 of title 12.
 
 <b>1979</b>—Par. (1). Pub. L. 96–70 substituted "section 1202 of the Panama Canal Act of 1979" for "section 121 of title 2, Canal Zone Code (76A Stat. 15)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

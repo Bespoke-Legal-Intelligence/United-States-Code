@@ -20,7 +20,7 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 (b)
 
-Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, is less than theshare applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
+Increased Government Share.—If, under subsection (a) of this section, the Government's share of allowable costs of a project in a State containing unappropriated and unreserved public lands and nontaxable Indian lands (individual and tribal) of more than 5 percent of the total area of all lands in the State, is less than the share applied on June 30, 1975, under section 17(b) of the Airport and Airway Development Act of 1970, the Government's share under subsection (a) of this section shall be increased by the lesser of—
 
 &emsp;(1) 25 percent;
 
@@ -48,7 +48,7 @@ Special Rule for Privately Owned Reliever Airports.—If a privately owned relie
 
 (e)
 
-Special Rule for Transition From Small Hub to Medium Hub Status.—If the status of a small hub airport changes to a medium hub airport, the Government's share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
+Special Rule for Transition From Small Hub to Medium Hub Status.—If the status of asmall hub airport changes to a medium hub airport, the Government's share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
 
 (f)
 
@@ -94,7 +94,7 @@ In subsection (c), the words "Notwithstanding subsections (a) and (b) of this se
 
 #### References in Text
 
-Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) ofPub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
 

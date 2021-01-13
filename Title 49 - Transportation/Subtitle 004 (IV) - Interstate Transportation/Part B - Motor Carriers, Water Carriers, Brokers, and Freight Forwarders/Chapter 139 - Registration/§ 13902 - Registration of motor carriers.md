@@ -60,7 +60,7 @@ Motor Carriers of Passengers.—
 
 &emsp;(1)
 
-Registration of private recipients of governmental assistance.—The Secretary shall register under subsection (a)(1) a private recipient of governmental assistance to provide special or charter transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presented by any person objecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
+Registration of private recipients of governmental assistance.—The Secretary shall register under subsection (a)(1) a private recipient of governmental assistance to provide special or charter transportation subject to jurisdiction under subchapter I of chapter 135 as a motor carrier of passengers if the Secretary finds that the recipient meets the requirements of subsection (a)(1), unless the Secretary finds, on the basis of evidence presentedby any person objecting to the registration, that the transportation to be provided pursuant to the registration is not in the public interest.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Prevention of discriminatory practices.—If the President, or the delegate ther
 
 &emsp;&emsp;(A) seek elimination of such practices through consultations; or
 
-&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, or restrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
+&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, orrestrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
 
 &emsp;(2)
 
@@ -262,7 +262,11 @@ Registration as Freight Forwarder or Broker Required.—A motor carrier register
 
 &emsp;(2) may not arrange transportation except as described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554.)
+(j)
+
+Mexico-Domiciled Motor Carriers.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554; Pub. L. 116–113, title III, §326(a), Jan. 29, 2020, 134 Stat. 60.)
 
 #### Historical and Revision Notes
 
@@ -290,11 +294,15 @@ Section 10102, referred to in subsec. (d)(2), was omitted and a new section 1010
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (f)(3), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
+Section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, referred to in subsec. (j), is classified to section 4574(a) of Title 19, Customs Duties.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10922 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j). Pub. L. 116–113 added subsec. (j).
 
 <b>2015</b>—Subsec. (i)(2). Pub. L. 114–94 inserted "except as" before "described".
 
@@ -384,7 +392,7 @@ General references to "this title" deemed to refer also to chapters 509 and 511 
 
 #### Written Proficiency Examination
 
-Pub. L. 112–141, div. C, title II, §32101(b), July 6, 2012, 126 Stat. 777, provided that: "Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish through a rulemaking a written proficiency examination for applicant motor carriers pursuant to section 13902(a)(1)(D) of title 49, United States Code. The written proficiency examination shall test a person's knowledge of applicable safety regulations, standards, and orders of the Federal government."
+Pub. L. 112–141, div. C, title II, §32101(b), July 6, 2012, 126 Stat. 777, provided that: "Not later than 18 monthsafter the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish through a rulemaking a written proficiency examination for applicant motor carriers pursuant to section 13902(a)(1)(D) of title 49, United States Code. The written proficiency examination shall test a person's knowledge of applicable safety regulations, standards, and orders of the Federal government."
 
 #### Deadline for Implementation of Registration Requirements
 
@@ -438,7 +446,7 @@ Pub. L. 110–28, title VI, §6901, May 25, 2007, 121 Stat. 183, provided that:
 
 #### Relationship to Other Laws
 
-Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that: "Except as provided in section 14504 of title 49, United States Code, and sections 14504a and 14506 of title 49, United States Code, as added by this subtitle, this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law."
+Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that: "Except as provided in section 14504of title 49, United States Code, and sections 14504a and 14506 of title 49, United States Code, as added by this subtitle, this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law."
 
 #### Safety of Cross-Border Trucking Between United States and Mexico
 
@@ -520,7 +528,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;&emsp;"(E) a policy under section 219(a) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from operating in the United States that is found to have operated illegally in the United States.
 
-"(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardablequantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
+"(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
 
 "(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond United States municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
 
@@ -572,7 +580,7 @@ The moratorium is modified only to authorize the Interstate Commerce Commission 
 
 This action applies only to international charter and tour operations, does not allow for point-to-point service within the United States, and does not authorize companies to conduct cross-border regular route service. This action preserves the status quo with respect to Mexican trucking companies and Mexican companies engaged in regular route service, and will maintain the moratorium on those operations through September 25, 1994, unless earlier revoked or modified.
 
-Accordingly, you are directed to notify the Congress today on my behalf that, effective 60 days hence, the moratorium will no longer be in effect for Mexican charter and tour bus companies subject to the above stated conditions. Because of this action, the Interstate Commerce Commission will then accept and process expeditiously all applications for operating authority from Mexican owned, controlled, or domiciled charter and tour bus firms. I should note that applications inMexico by United States charter and tour bus firms will be similarly treated.
+Accordingly, you are directed to notify the Congress today on my behalf that, effective 60 days hence, the moratorium will no longer be in effect for Mexican charter and tour bus companies subject to the above stated conditions. Because of this action, the Interstate Commerce Commission will then accept and process expeditiously all applications for operating authority from Mexican owned, controlled, or domiciled charter and tour bus firms. I should note that applications in Mexico by United States charter and tour bus firms will be similarly treated.
 
 You are hereby authorized and directed to publish this determination in the Federal Register.
 
@@ -632,7 +640,7 @@ The North American Free Trade Agreement (NAFTA) established a schedule for liber
 
 Pursuant to 49 U.S.C. 13902(c)(5), I have determined that expeditious action is required to implement these modifications to the moratorium. Effective today, the Department of Transportation will accept and expeditiously process applications, submitted by enterprises domiciled in the United States that are owned or controlled by persons of Mexico, to obtain operating authority to provide truck services for the transportation of international cargo between points in the United States or to provide bus services between points in the United States.
 
-Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations andprocedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcohol testing; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
+Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations and procedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcohol testing; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
 
 This memorandum shall be published in the Federal Register.
 

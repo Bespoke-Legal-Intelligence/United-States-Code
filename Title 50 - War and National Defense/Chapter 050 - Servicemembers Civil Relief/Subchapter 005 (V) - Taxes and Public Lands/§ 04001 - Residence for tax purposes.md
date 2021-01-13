@@ -44,7 +44,7 @@ Income for services performed by the spouse of a servicemember shall not be deem
 
 #### (e) Increase of tax liability
 
-A tax jurisdiction may not use the military compensation of a nonresident servicememberto increase the tax liability imposed on other income earned by the nonresident servicemember or spouse subject to tax by the jurisdiction.
+A tax jurisdiction may not use the military compensation of a nonresident servicemember to increase the tax liability imposed on other income earned by the nonresident servicemember or spouse subject to tax by the jurisdiction.
 
 #### (f) Federal Indian reservations
 

@@ -18,7 +18,9 @@ Each such report shall show the aggregate dollar value and quantity of defense a
 
 All unclassified portions of such report shall be made available to the public on the Internet through the Department of State.
 
-(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113,div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; Pub. L. 106–280, title VII, §702, Oct. 6, 2000, 114 Stat. 861; Pub. L. 107–228, div. B, title XII, §§1205(c), 1262(b), Sept. 30, 2002, 116 Stat. 1428, 1434.)
+(Pub. L. 87–195, pt. III, §655, as added Pub. L. 104–106, div. A, title XIII, §1324(c), Feb. 10, 1996, 110 Stat. 481; amended Pub. L. 104–164, title I, §148, July 21, 1996, 110 Stat. 1435; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1306\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; Pub. L. 106–280, title VII, §702, Oct. 6, 2000, 114 Stat. 861; Pub. L. 107–228, div. B, title XII, §§1205(c), 1262(b), Sept. 30, 2002, 116 Stat. 1428, 1434.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -28,7 +30,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 
 #### Prior Provisions
 
-A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
+A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat.29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Information Relating to Military Assistance and Military Exports.—Each such re
 "(c)
 
 Information Relating to Military Imports.—Each such report shall also include the total amount of military items of non-United States manufacture that were imported into the United States during the fiscal year covered by the report. The report shall show the country of origin, the type of item being imported, and the total amount of items."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

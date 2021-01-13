@@ -14,7 +14,7 @@
 
 &emsp;(A) enables parents to block programming based on identifying programs without ratings,
 
-&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology that allows parents to block programming based on common ratings, and
+&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology thatallows parents to block programming based on common ratings, and
 
 &emsp;(C) will allow parents to block a broad range of programs on a multichannel system as effectively and as easily as technology that allows parents to block programming based on common ratings,
 
@@ -27,6 +27,8 @@
 &emsp;(2) The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
 
 (June 19, 1934, ch. 652, title III, §330, as added Pub. L. 87–529, §2, July 10, 1962, 76 Stat. 151; amended Pub. L. 101–431, §4, Oct. 15, 1990, 104 Stat. 961; Pub. L. 104–104, title V, §551(d), Feb. 8, 1996, 110 Stat. 141; Pub. L. 111–260, title II, §203(c), Oct. 8, 2010, 124 Stat. 2773.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (d). Pub. L. 104–104, §551(d)(2), in introductory provisions substitu
 Pub. L. 104–104, §551(d)(1)(B), redesignated subsec. (c) as (d).
 
 <b>1990</b>—Subsecs. (b), (c). Pub. L. 101–431 added subsec. (b), redesignated former subsec. (b) as (c), and substituted ", section 303(s) of this title, and section 303(u) of this title" for "and section 303(s) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -20,7 +20,7 @@ The comprehensive management plan shall include, but not be limited to, the foll
 
 &emsp;(6) The feasibility of concessionaire constructed, operated, and maintained docking facilities in the national recreation area and on the mainland.
 
-&emsp;(7) An inventory and assessment of existing traditional roads, the level of road use, access needs, and any vehicular regulation and management needed to protect the resources of thenational recreation area while, at the same time, providing reasonable access to private property.
+&emsp;(7) An inventory and assessment of existing traditional roads, the level of road use, access needs, and any vehicular regulation and management needed to protect the resources of the national recreation area while, at the same time, providing reasonable access to private property.
 
 #### (c) Consultation
 

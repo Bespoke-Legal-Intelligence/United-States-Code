@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) 0.50 percent for each State; and
 
-&emsp;&emsp;(B) of the total funds remaining after the allocation under subparagraph (A), to each State, an amount which bears the same ratio to the amount of remaining funds described in this subparagraph as the population of people under the age of 18 living in such State for the most recent calendar year in which such data is available bears to the population of people under the age of 18 of all the States for such fiscal year.
+&emsp;&emsp;(B) of the total funds remaining after the allocation under subparagraph (A), to each State, an amount which bears the same ratioto the amount of remaining funds described in this subparagraph as the population of people under the age of 18 living in such State for the most recent calendar year in which such data is available bears to the population of people under the age of 18 of all the States for such fiscal year.
 
 #### (2) Prohibition
 
@@ -76,9 +76,11 @@ If under this section a unit of local government is allocated less than $10,000 
 
 #### (2) Award basis
 
-&emsp;In addition to the qualification requirements for direct grants for specially qualifiedunits the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
+&emsp;In addition to the qualification requirements for direct grants for specially qualified units the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
 
 (Pub. L. 90–351, title I, §1803, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1863.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -86,5 +88,5 @@ Section was formerly classified to section 3796ee–3 of Title 42, The Public He
 
 #### Prior Provisions
 
-A prior section 1803 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–2 of Title 42, The Public Health and Welfare, related to review of State applications, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
+A prior section 1803 of title I of Pub. L. 90–351, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, and classified to former section 3796ee–2 of Title 42, The Public Health and Welfare, related toreview of State applications, prior to the general amendment of part R of title I of Pub. L. 90–351 by Pub. L. 107–273.
 

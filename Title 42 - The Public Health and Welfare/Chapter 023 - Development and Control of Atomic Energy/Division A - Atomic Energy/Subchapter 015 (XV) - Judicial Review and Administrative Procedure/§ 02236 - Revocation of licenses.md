@@ -10,7 +10,7 @@ The Commission shall follow the provisions of section 558(c) of title 5 in revok
 
 #### (c) Repossession of material
 
-Upon revocation of the license, the Commission may immediately retake possession of all special nuclear material held by the licensee. Incases found by the Commission to be of extreme importance to the national defense and security or to the health and safety of the public, the Commission may recapture any special nuclear material held by the licensee or may enter upon and operate the facility prior to any of the procedures provided under subchapter II of chapter 5 and chapter 7 of title 5. Just compensation shall be paid for the use of the facility.
+Upon revocation of the license, the Commission may immediately retake possession of all special nuclear material held by the licensee. In cases found by the Commission to be of extreme importance to the national defense and security or to the health and safety of the public, the Commission may recapture any special nuclear material held by the licensee or may enter upon and operate the facility prior to any of the procedures provided under subchapter II of chapter 5 and chapter 7 of title 5. Just compensation shall be paid for the use of the facility.
 
 (Aug. 1, 1946, ch. 724, title I, §186, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 955; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

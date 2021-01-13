@@ -86,6 +86,8 @@ June 29, 1936, ch. 858, title XI, §1104A(i), as added Pub. L. 103–160, div. A
 
 Subsections (a) and (d) are substituted for the source provisions for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 509 of the Merchant Marine Act, 1936, referred to in subsec. (b)(2)(B), is section 509 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under section 53101 of this title.

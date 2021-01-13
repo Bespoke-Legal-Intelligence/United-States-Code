@@ -22,11 +22,11 @@ In general.—From administrative funds made available under section 104(a), the
 
 &emsp;&emsp;(B)
 
-Allocation of funds.—Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall be available only to carry out intergovernmental enforcement efforts, including research and training.
+Allocation of funds.—Funds made available to carry out this section may be allocated to the Internal Revenue Service and the States at the discretion of the Secretary, except that of funds so made available for each fiscal year, $2,000,000 shall beavailable only to carry out intergovernmental enforcement efforts, including research and training.
 
 &emsp;(3)
 
-Conditions on funds allocated to internal revenue service.—Except as otherwise provided in this section, the Secretary shall not impose any condition on the use offunds allocated to the Internal Revenue Service under this subsection.
+Conditions on funds allocated to internal revenue service.—Except as otherwise provided in this section, the Secretary shall not impose any condition on the use of funds allocated to the Internal Revenue Service under this subsection.
 
 &emsp;(4)
 
@@ -106,7 +106,9 @@ Funding.—Of the amounts made available to carry out this section for each fisc
 
 Reports.—Not later than September 30 of each year, the Commissioner of the Internal Revenue Service shall provide reports to the Secretary on the status of the Internal Revenue Service projects funded under this subsection.
 
-(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I, §122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176; Pub. L. 112–141, div. A, title I, §1110, July 6, 2012, 126 Stat. 444; Pub. L. 114–94, div. A, title I, §1110, Dec. 4, 2015, 129 Stat. 1344.)
+(Added Pub. L. 91–605, title I, §127(a), Dec. 31, 1970, 84 Stat. 1729; amended Pub. L. 93–87, title I,§122, Aug. 13, 1973, 87 Stat. 261; Pub. L. 105–178, title I, §1114(a), (c), June 9, 1998, 112 Stat. 152; Pub. L. 105–206, title IX, §9002(h), July 22, 1998, 112 Stat. 836; Pub. L. 109–59, title I, §1115(a), (b), Aug. 10, 2005, 119 Stat. 1175, 1176; Pub. L. 112–141, div. A, title I, §1110, July 6, 2012, 126 Stat. 444; Pub. L. 114–94, div. A, title I, §1110, Dec. 4, 2015, 129 Stat. 1344.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -160,6 +162,8 @@ Subsec. (d). Pub. L. 93–87, §122(a), substituted "highways on the Federal-aid
 
 Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text "Except as otherwise provided in subsection (c) of this section," and substituted "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located" for "the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -178,7 +182,7 @@ Pub. L. 102–240, title VIII, §8002(g), (h), Dec. 18, 1991, 105 Stat. 2204, 22
 
 "(g)
 
-Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to befinanced with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
+Use of Revenues for Enforcement of Highway Trust Fund Taxes.—The Secretary of Transportation shall not impose any condition on the use of funds transferred under section 143 of title 23, United States Code, to the Internal Revenue Service. The Secretary of the Treasury shall, at least 60 days before the beginning of each fiscal year (after fiscal year 1992) for which such funds are to be transferred, submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate detailing the increased enforcement activities to be financed with such funds with respect to taxes referred to in section 9503(b)(1) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(b)(1)\].
 
 "\[(h) Repealed. Pub. L. 105–178, title I, §1114(b)(3)(B), June 9, 1998, 112 Stat. 154.\]"
 

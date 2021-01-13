@@ -36,7 +36,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(4) The amount of any finance charge added to the account during the period, itemized to show the amounts, if any, due to the application of percentage rates and the amount, if any, imposed as a minimum or fixed charge.
 
-&emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+&emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each suchrate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
 
 &emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
 
@@ -90,7 +90,7 @@ Requirements relating to late payment deadlines and penalties.—
 
 &emsp;&emsp;(A)
 
-Late payment deadline required to be disclosed.—In the case of a credit card account under an open end consumer credit plan under which a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment, the periodic statement required under subsection (b) with respect to the account shall include, in a conspicuous location on the billing statement, the date on which the payment is due or, if different, the date on which a late payment fee will be charged, together with the amount of the fee or charge to be imposed if payment is made after that date.
+Late payment deadline required to be disclosed.—In the case of a credit card account under an open end consumer credit plan under which a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment, the periodic statement required under subsection (b) with respect to the account shall include, in a conspicuous location on the billing statement, the date on which the payment is due or, if different, the date on which a late payment fee will becharged, together with the amount of the fee or charge to be imposed if payment is made after that date.
 
 &emsp;&emsp;(B)
 
@@ -168,7 +168,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;&emsp;(II) does not impose any fee in connection with telephone solicitations unless the consumer signifies acceptance by using the card;
 
-&emsp;&emsp;&emsp;(ii) the card issuer discloses clearly and conspicuously in writing the information described in paragraph (1) within 30 days after the consumer requests the card, but in no event later than the date of delivery of the card; and
+&emsp;&emsp;&emsp;(ii) the card issuer discloses clearly and conspicuously in writing the informationdescribed in paragraph (1) within 30 days after the consumer requests the card, but in no event later than the date of delivery of the card; and
 
 &emsp;&emsp;&emsp;(iii) the card issuer discloses clearly and conspicuously that the consumer is not obligated to accept the card or account and the consumer will not be obligated to pay any of the fees or charges disclosed unless the consumer elects to accept the card or account by using the card.
 
@@ -242,7 +242,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Other information
 
-&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
+&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall discloseclearly and conspicuously the following information, subject to subsections (e) and (f):
 
 #### (i) Cash advance fee
 
@@ -280,7 +280,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
-&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer disclosesclearly and conspicuously to the consumer in the application or solicitation that—
+&emsp;&emsp;If a charge card permits the card holder to receive an extension of credit under an open end consumer credit plan, which is not maintained by the charge card issuer, the charge card issuer may provide the information described in subparagraphs (A) and (B) in the form required by such subparagraphs in lieu of the information required to be provided under paragraph (1), (2), or (3) with respect to any credit extended under such plan, if the charge card issuer discloses clearly and conspicuously to the consumer in the application or solicitation that—
 
 &emsp;&emsp;&emsp;(i) the charge card issuer will make an independent decision as to whether to issue the card;
 
@@ -308,7 +308,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of the temporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
 
-&emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with an index, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
+&emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with anindex, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
 
 #### (B) Exception
 
@@ -416,7 +416,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (1) Change in insurance carrier
 
-&emsp;Whenever a card issuer that offers any guarantee or insurance for repayment of all or part of the outstanding balance of an open end credit card plan proposes to change the person providing that guarantee or insurance, thecard issuer shall send each insured consumer written notice of the proposed change not less than 30 days prior to the change, including notice of any increase in the rate or substantial decrease in coverage or service which will result from such change. Such notice may be included on or with the monthly statement provided to the consumer prior to the month in which the proposed change would take effect.
+&emsp;Whenever a card issuer that offers any guarantee or insurance for repayment of all or part of the outstanding balance of an open end credit card plan proposes to change the person providing that guarantee or insurance, the card issuer shall send each insured consumer written notice of the proposed change not less than 30 days prior to the change, including notice of any increase in the rate or substantial decrease in coverage or service which will result from such change. Such notice may be included on or with the monthly statement provided to the consumer prior to the month in which the proposed change would take effect.
 
 #### (2) Notice of new insurance coverage
 
@@ -482,7 +482,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (2) Disclosure by creditor
 
-&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Bureau. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Bureau, in any periodicstatement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
+&emsp;No election by a consumer under paragraph (1) shall take effect unless the consumer, before making such election, received a notice from the creditor of any over-the-limit fee in the form and manner, and at the time, determined by the Bureau. If the consumer makes the election referred to in paragraph (1), the creditor shall provide notice to the consumer of the right to revoke the election, in the form prescribed by the Bureau, in any periodic statement that includes notice of the imposition of an over-the-limit fee during the period covered by the statement.
 
 #### (3) Form of election
 
@@ -548,7 +548,7 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 #### (A) College affinity card
 
-&emsp;&emsp;The term "college affinity card" means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued tocollege students who have an affinity with such institution, organization and—
+&emsp;&emsp;The term "college affinity card" means a credit card issued by a credit card issuer under an open end consumer credit plan in conjunction with an agreement between the issuer and an institution of higher education, or an alumni organization or foundation affiliated with or related to such institution, under which such cards are issued to college students who have an affinity with such institution, organization and—
 
 &emsp;&emsp;&emsp;(i) the creditor has agreed to donate a portion of the proceeds of the credit card to the institution, organization, or foundation (including a lump sum or 1-time payment of money for access);
 
@@ -724,7 +724,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Effective Date of 1974 Amendment
 
-For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see section 308 of Pub. L. 93–495,set out as an Effective Date note under section 1666 of this title.
+For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under section 1666 of this title.
 
 For effective date of amendment by section 411 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 

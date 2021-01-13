@@ -30,7 +30,7 @@ Not later than two years after November 9, 1978, and periodically, but not less 
 
 &emsp;(2) any State regulatory authority which has ratemaking authority for such utility,
 
-> the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after November 9, 1978, specified in this subsection may be extended by the Commission for a reasonable additional period in the case of any electric utility for good cause shown.
+> the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after November 9, 1978, specified in this subsection may be extended bythe Commission for a reasonable additional period in the case of any electric utility for good cause shown.
 
 #### (d) Enforcement
 
@@ -40,5 +40,5 @@ For purposes of enforcement, any violation of a requirement of this section shal
 
 #### References in Text
 
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319,June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 

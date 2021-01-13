@@ -14,11 +14,15 @@
 
 For Historical and Revision Notes for this section, see Historical and Revision Notes set out under section 766 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "notice required by" for "notice under".
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–222 substituted "commodity contract" for "commitment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

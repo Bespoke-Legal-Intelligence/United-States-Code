@@ -68,7 +68,7 @@
 
 #### (II) Limitation on distributions
 
-&emsp;&emsp;&emsp;&emsp;The requirement of subparagraph (A)(vi) is met only if, as determinedunder regulations of the Secretary, the amounts distributed with respect to an emergency do not exceed the amounts necessary to satisfy such emergency plus amounts necessary to pay taxes reasonably anticipated as a result of the distribution, after taking into account the extent to which such hardship is or may be relieved through reimbursement or compensation by insurance or otherwise or by liquidation of the participant's assets (to the extent the liquidation of such assets would not itself cause severe financial hardship).
+&emsp;&emsp;&emsp;&emsp;The requirement of subparagraph (A)(vi) is met only if, as determined under regulations of the Secretary, the amounts distributed with respect to an emergency do not exceed the amounts necessary to satisfy such emergency plus amounts necessary to pay taxes reasonably anticipated as a result of the distribution, after taking into account the extent to which such hardship is or may be relieved through reimbursement or compensation by insurance or otherwise or by liquidation of the participant's assets (to the extent the liquidation of such assets would not itself cause severe financial hardship).
 
 #### (C) Disabled
 

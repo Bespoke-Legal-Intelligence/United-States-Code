@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -30,9 +30,11 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Federal Cybersecurity Workforce Assessment
 
-Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, provided that:
+Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, as amended by Pub. L. 116–283, div. H, title XCIV, §9401(g)(4)(A), Jan. 1, 2021, 134 Stat. 4809, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -68,7 +70,7 @@ Director.—The term 'Director' means the Director of the Office of Personnel Ma
 
 &emsp;"(3)
 
-National initiative for cybersecurity education.—The term 'National Initiative for Cybersecurity Education' means the initiative under the national cybersecurity awareness and education program, as authorized under section 401 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7451).
+National initiative for cybersecurity education.—The term 'National Initiative for Cybersecurity Education' means the initiative under the national cybersecurity awareness and education program, as authorized under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274) \[15 U.S.C. 7443\].
 
 &emsp;"(4)
 
@@ -312,7 +314,7 @@ Youth Organization Defined.—In this section, the term 'youth organization' mea
 
 &emsp;"(7) the Civil Air Patrol;
 
-&emsp;"(8) the United States Olympic Committee;
+&emsp;"(8) the United States Olympic Committee \[now United States Olympic and Paralympic Committee\];
 
 &emsp;"(9) the Special Olympics;
 
@@ -406,7 +408,7 @@ State certification.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each State shall certify to the Secretary of Health and Human Services that theState is in compliance with the requirements of this section.
+In general.—Each State shall certify to the Secretary of Health and Human Services that the State is in compliance with the requirements of this section.
 
 &emsp;&emsp;"(B)
 
@@ -503,6 +505,8 @@ Pub. L. 104–208, div. C, title VI, §656, Sept. 30, 1996, 110 Stat. 3009–716
 #### Modification or Cancellation of Certain License Agreements Granted to Government During World War II
 
 Act Aug. 16, 1950, ch. 716, 64 Stat. 448, provided that: "Notwithstanding any other provision of law, the head of any department or other agency in the executive branch of the Government which subsequent to September 9, 1939, entered into any contract or agreement with the holder of any privately owned patent or any right thereunder whereby such holder granted to the United States, without payment of royalty or with reduction or limitation of royalty, any license under such patent or right, is authorized, upon application of the grantor of such license, to enter into such supplemental contract or agreement for the cancellation of the contract or agreement by which such license was granted as the head of such department or agency shall deem to be warranted by equities existing by reason of changes in circumstances occurring since the granting of such license."
+
+#### <b>Executive Documents</b>
 
 #### Equal Opportunity in Federal Employment
 

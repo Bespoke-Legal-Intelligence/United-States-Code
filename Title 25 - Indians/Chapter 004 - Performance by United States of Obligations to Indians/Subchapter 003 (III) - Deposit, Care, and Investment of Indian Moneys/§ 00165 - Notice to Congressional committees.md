@@ -1,8 +1,10 @@
 ### §165. Notice to Congressional committees
 
-The Secretary shall not restore to tribal ownership or deposit in the general fund of the Treasury any funds pursuant to section 164 of this title and this section until sixty calendar days (exclusive of days on which either the Senate or the House of Representatives is not in session because of an adjournment of more than three days to a day certain) after he has submitted notice of his proposed action to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives unless each of said committees has theretofore notified him that it has no objection to the proposed action.
+The Secretary shall not restore to tribal ownership or deposit in the general fund of the Treasury any funds pursuant to section 164 of this title and this section until sixty calendar days (exclusive of days on which either the Senate or the House of Representatives is not in session because of an adjournment of more than three days to a day certain) after he has submitted notice of his proposed action to the Committee on Energy and Natural Resources of theSenate and the Committee on Natural Resources of the House of Representatives unless each of said committees has theretofore notified him that it has no objection to the proposed action.
 
 (Pub. L. 87–283, §2, Sept. 22, 1961, 75 Stat. 584; Pub. L. 103–437, §10(b), Nov. 2, 1994, 108 Stat. 4589.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

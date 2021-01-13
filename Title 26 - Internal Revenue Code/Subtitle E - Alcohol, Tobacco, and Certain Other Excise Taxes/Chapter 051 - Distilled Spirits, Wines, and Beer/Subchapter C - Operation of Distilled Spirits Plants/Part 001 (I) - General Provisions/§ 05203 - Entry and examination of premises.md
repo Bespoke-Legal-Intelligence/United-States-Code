@@ -40,7 +40,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 636, 65
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted "where distilled spirits operations are carriedon" for "where distilled spirits are produced or rectified".
+<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted "where distilled spirits operations are carried on" for "where distilled spirits are produced or rectified".
 
 Subsec. (c). Pub. L. 96–39, §807(a)(22)(B), substituted "on such premises" for "not under the control of the internal revenue officer in charge".
 

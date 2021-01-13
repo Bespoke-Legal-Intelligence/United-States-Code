@@ -60,7 +60,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(5) to support State court planning and budgeting staffs and to provide technical assistance in resource allocation and service forecasting techniques;
 
-&emsp;(6) to support studies of the adequacy of court management systems in State and local courts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
+&emsp;(6) to support studies of the adequacy of court management systems in State and localcourts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
 
 &emsp;(7) to collect and compile statistical data and other information on the work of the courts and on the work of other agencies which relate to and affect the work of courts;
 
@@ -74,7 +74,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(12) to support programs to increase court responsiveness to the needs of citizens through citizen education, improvement of court treatment of witnesses, victims, and jurors, and development of procedures for obtaining and using measures of public satisfaction with court processes to improve court performance;
 
-&emsp;(13) to test and evaluate experimental approaches to providing increased citizen access to justice, including processes which reduce the cost of litigating common grievances andalternative techniques and mechanisms for resolving disputes between citizens;
+&emsp;(13) to test and evaluate experimental approaches to providing increased citizen access to justice, including processes which reduce the cost of litigating common grievances and alternative techniques and mechanisms for resolving disputes between citizens;
 
 &emsp;(14) conduct <sup>2</sup> not more than 5 projects at an aggregate cost of not to exceed $600,000—
 

@@ -144,7 +144,7 @@ Subsec. (e). Pub. L. 111–203, §1084(3)(B), added subsec. (e).
 
 <b>1999</b>—Subsec. (d)(3). Pub. L. 106–102 added par. (3).
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d)heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+<b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
 "(2)
 

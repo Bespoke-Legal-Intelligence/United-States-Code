@@ -18,6 +18,8 @@ The maximum term of "five years" was substituted for "ten years" and "$10,000" w
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".

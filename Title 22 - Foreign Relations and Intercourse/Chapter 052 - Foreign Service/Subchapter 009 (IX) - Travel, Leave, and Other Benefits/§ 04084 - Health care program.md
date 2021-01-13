@@ -30,6 +30,8 @@ Reimbursements paid to the Department of State for funding the costs of medical 
 
 (Pub. L. 96–465, title I, §904, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 99–93, title I, §122, Aug. 16, 1985, 99 Stat. 413; Pub. L. 100–238, title II, §243, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 107–228, div. A, title III, §316, Sept. 30, 2002, 116 Stat. 1379; Pub. L. 109–140, §2, Dec. 22, 2005, 119 Stat. 2650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–140 added subsec. (g).
@@ -44,7 +46,15 @@ Subsec. (b). Pub. L. 99–93, §122(2), inserted ", and other preventive and re
 
 Subsec. (d). Pub. L. 99–93, §122(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If an individual eligible for health care under this section incurs an illness, injury, or medical condition while abroad which requires hospitalization or similar treatment, the Secretary may pay all or part of the cost of such treatment. Limitations on such payments established by regulation may be waived whenever the Secretary determines that the illness, injury, or medical condition clearly was caused or materially aggravated by the fact that the individual concerned is or has been located abroad."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under section 4054 of this title.
+
+#### Coronavirus Pandemic Response
+
+Pub. L. 116–136, div. B, title XI, §21010, Mar. 27, 2020, 134 Stat. 592, provided that: "The Department of State and the United States Agency for International Development are authorized to enter into contracts with individuals for the provision of personal services (as described in section 104 of part 37 of title 48, Code of Federal Regulations and including pursuant to section 904 of the Foreign Service Act of 1980 (22 U.S.C. 4084)) to prevent, prepare for, and respond to coronavirus, within the United States and abroad, subject to prior consultation with, and the notification procedures of, the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives: <i>Provided</i>, That such individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management: <i>Provided further</i>, That not later than 15 days after utilizing this authority, the Secretary of State shall provide a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives on the overall staffing needs for the Office of Medical Services: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
+
+\[For definition of "coronavirus" as used in section 21010 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
 

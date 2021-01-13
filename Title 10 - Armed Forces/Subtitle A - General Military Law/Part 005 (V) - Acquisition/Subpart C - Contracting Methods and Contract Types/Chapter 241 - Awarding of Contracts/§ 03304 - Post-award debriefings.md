@@ -1,0 +1,88 @@
+### §3304. Post-award debriefings
+
+(a)
+
+Request for Debriefing.—When a contract is awarded by the head of an agency on the basis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
+
+(b)
+
+When Debriefing to Be Conducted.—The head of the agency shall debrief the offeror within, to the maximum extent practicable, five days after receipt of the request by the agency.
+
+(c)
+
+Information to Be Provided.—(1) The debriefing shall include, at a minimum—
+
+&emsp;(A) the agency's evaluation of the significant weak or deficient factors in the offeror's offer;
+
+&emsp;(B) the overall evaluated cost and technical rating of the offer of the contractor awarded the contract and the overall evaluated cost and technical rating of the offer of the debriefed offeror;
+
+&emsp;(C) the overall ranking of all offers;
+
+&emsp;(D) a summary of the rationale for the award;
+
+&emsp;(E) in the case of a proposal that includes a commercial product that is an end item under the contract, the make and model of the item being provided in accordance with the offer of the contractor awarded the contract;
+
+&emsp;(F) reasonable responses to relevant questions posed by the debriefed offeror as to whether source selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency; and
+
+&emsp;(G) an opportunity for a disappointed offeror to submit, within two business days after receiving a post-award debriefing, additional questions related to the debriefing.
+
+(2) The agency shall respond in writing to any additional question submitted under paragraph (1)(G) within five business days after receipt of the question. The agency shall not consider the debriefing to be concluded until the agency delivers its written responses to the disappointed offeror.
+
+(d)
+
+Information Not to Be Included.—The debriefing may not include point-by-point comparisons of the debriefed offeror's offer with other offers and may not disclose any information that is exempt from disclosure under section 552(b) of title 5.
+
+(e)
+
+Inclusion of Statement in Solicitation.—Each solicitation for competitive proposals shall include a statement that information described in subsection (c) may be disclosed in post-award debriefings.
+
+(f)
+
+After Successful Protest.—If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+
+&emsp;(1) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
+
+&emsp;(2) the same information that would have been provided to the original offerors.
+
+(g)
+
+Summary to Be Included in File.—The contracting officer shall include a summary of any debriefing conducted this section <sup>1</sup> in the contract file.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(D), (6), Jan. 1, 2021, 134 Stat. 4182, 4183.)
+
+#### Codification
+
+The text of subsec. (b)(5) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f), and amended by Pub. L. 116–283, §1816(c)(1), (2)(D), (6)(A)–(J), was based on Pub. L. 103–355, title I, §1014(2), Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. D, title XLI, §4104(a)(1), Feb. 10, 1996, 110 Stat. 644; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864.
+
+For derivation of subsec. (g) of this section, see Codification note related to subsec. (f) set out under section 3305 of this title.
+
+#### Prior Provisions
+
+A prior section 3304, act Aug. 10, 1956, ch. 1041, 70A Stat. 189; Pub. L. 85–155, title I, §101(14), Aug. 21, 1957, 71 Stat. 378, covered promotion of officers in the Army Nurse Corps and the Army Medical Specialists Corps to colonel and lieutenant colonel, set out the requirements of officers on the promotion lists, and provided for the procedure to be followed in determining the order of promotion, prior to repeal by Pub. L. 90–130, §1(10)(C), Nov. 8, 1967, 81 Stat 375.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1816(c)(6)(A), transferred subsec. (b)(5) of section 2305 of this title to this section and struck out par. (5) designation at beginning.
+
+Subsec. (a). Pub. L. 116–283, §1816(c)(6)(B), (E), redesignated subpar. (A) of former section 2305(b)(5) of this title as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
+
+Subsec. (b). Pub. L. 116–283, §1816(c)(6)(C), (F), designated second sentence of subsec. (a) as subsec. (b) of this section and inserted heading.
+
+Subsec. (c)(1). Pub. L. 116–283, §1816(c)(6)(B), (G)(i), (ii), redesignated subpar. (B) of former section 2305(b)(5) of this title and its cls. (i) to (vii) as subsec. (c)(1) of this section and subpars. (A) to (G), respectively, and inserted subsec. heading.
+
+Subsec. (c)(2). Pub. L. 116–283, §1816(c)(6)(D), (G)(iii), redesignated subpar. (C) of former section 2305(b)(5) of this title as subsec. (c)(2) of this section and substituted "paragraph (1)(G)" for "subparagraph (B)(vii)".
+
+Subsec. (d). Pub. L. 116–283, §1816(c)(6)(B), (H), redesignated subpar. (D) of former section 2305(b)(5) of this title as subsec. (d) of this section and inserted heading.
+
+Subsec. (e). Pub. L. 116–283, §1816(c)(6)(B), (I), redesignated subpar. (E) of former section 2305(b)(5) of this title as subsec. (e) of this section, inserted heading, and substituted "subsection (c)" for "subparagraph (B)".
+
+Subsec. (f). Pub. L. 116–283, §1816(c)(6)(B), (J), redesignated subpar. (F) of former section 2305(b)(5) of this title as subsec. (f) of this section, inserted heading, and redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
+
+Subsec. (g). Pub. L. 116–283, §1816(c)(6)(K), added subsec. (g) identical to subsec. (f) of section 3305 of this title.
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "under this section".</i>
+

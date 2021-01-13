@@ -4,7 +4,7 @@
 
 #### (1) Community learning centers
 
-&emsp;A State that receives funds under this part for a fiscal year shall provide the amountmade available under section 7172(c)(1) of this title to award subgrants to eligible entities for community learning centers in accordance with this part.
+&emsp;A State that receives funds under this part for a fiscal year shall provide the amount made available under section 7172(c)(1) of this title to award subgrants to eligible entities for community learning centers in accordance with this part.
 
 #### (2) Expanded learning program activities
 
@@ -66,7 +66,7 @@
 
 #### (c) Approval of certain applications
 
-The State educational agency may approve an application under this part for a program to be located in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to the students to be served as if the program were located in an elementary school or secondary school.
+The State educational agency may approve an application under this part for a program to be located in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to thestudents to be served as if the program were located in an elementary school or secondary school.
 
 #### (d) Permissive local match
 

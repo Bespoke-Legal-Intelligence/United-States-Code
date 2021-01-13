@@ -70,7 +70,7 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 
 #### Deadline for Issuance of Regulations
 
-Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: "Not later than 180 days afterthe date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\]."
+Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: "Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\]."
 
 #### Commercial Learner's Permit for Individuals Under Age 18
 

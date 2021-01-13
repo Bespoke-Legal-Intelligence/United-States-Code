@@ -22,7 +22,7 @@ Subsection (a) shall not apply with respect to the following State or local publ
 
 &emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, includingthrough public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
 #### (c) "State or local public benefit" defined
 
@@ -48,6 +48,8 @@ A State may provide that an alien who is not lawfully present in the United Stat
 
 (Pub. L. 104–193, title IV, §411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642; Pub. L. 105–306, §5(b), Oct. 28, 1998, 112 Stat. 2927.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
@@ -61,6 +63,8 @@ Section 141 of the applicable compact of free association approved in Public Law
 <b>1997</b>—Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon ", or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect".
 
 Subsec. (c)(3). Pub. L. 105–33, §5581(b)(1), made technical amendment to reference in original act which appears in text as reference to section 1611(c) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

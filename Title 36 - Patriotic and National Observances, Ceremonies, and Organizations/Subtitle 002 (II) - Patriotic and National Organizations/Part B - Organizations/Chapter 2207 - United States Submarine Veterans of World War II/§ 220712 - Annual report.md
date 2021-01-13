@@ -20,7 +20,9 @@ Historical and Revision Notes
 
 Nov. 20, 1981, Pub. L. 97–83, §12, 95 Stat. 1096.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
 

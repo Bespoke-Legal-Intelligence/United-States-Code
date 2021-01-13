@@ -1,6 +1,6 @@
 ### §1369. Destruction of veterans' memorials
 
-(a) Whoever, in a circumstance described in subsection (b), willfully injures or destroys, or attempts to injure or destroy, any structure, plaque, statue, or other monument on publicproperty commemorating the service of any person or persons in the armed forces of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
+(a) Whoever, in a circumstance described in subsection (b), willfully injures or destroys, or attempts to injure or destroy, any structure, plaque, statue, or other monument on public property commemorating the service of any person or persons in the armed forces of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (b) A circumstance described in this subsection is that—
 
@@ -9,6 +9,8 @@
 &emsp;(2) the structure, plaque, statue, or other monument described in subsection (a) is located on property owned by, or under the jurisdiction of, the Federal Government.
 
 (Added Pub. L. 108–29, §2(a), May 29, 2003, 117 Stat. 772.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2003 Amendment
 

@@ -12,7 +12,7 @@ The national objectives of this chapter are—
 
 &emsp;(4) to plan for and integrate infrastructure resources for Indian tribes with housing development for tribes; and
 
-&emsp;(5) to promote the development of private capital markets in Indian country and to allow such markets to operate and grow, thereby benefiting Indian communities.
+&emsp;(5) to promote the development of private capital markets in Indian country and toallow such markets to operate and grow, thereby benefiting Indian communities.
 
 #### (b) Eligible families
 
@@ -60,6 +60,8 @@ The national objectives of this chapter are—
 
 (Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, §1(a)(1) \[title II, §210\], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, §1003(e), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 110–411, title II, §201, Oct. 14, 2008, 122 Stat. 4324.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -93,6 +95,8 @@ Subsec. (b)(6). Pub. L. 106–568, §1003(e)(2), redesignated par. (5), relating
 Pub. L. 106–377, §1(a)(1) \[title II, §210(1)\], redesignated par. (5), relating to exemption, as (6).
 
 <b>1998</b>—Subsec. (b)(5). Pub. L. 105–276 substituted "federally recognized tribes and the tribally designated housing entities of those tribes" for "Indian tribes" and "chapter" for "subsection".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

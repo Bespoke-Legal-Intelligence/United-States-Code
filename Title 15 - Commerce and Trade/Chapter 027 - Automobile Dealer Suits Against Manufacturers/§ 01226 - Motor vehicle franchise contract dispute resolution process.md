@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the term "motor vehicle" has the meaning given such term in section 30102(6) of title 49; <sup>1</sup> and
 
-&emsp;&emsp;(B) the term "motor vehicle franchise contract" means a contract under which a motor vehicle manufacturer, importer, or distributor sells motor vehicles to any other person for resale to an ultimate purchaser and authorizes such other person to repair and service the manufacturer's motor vehicles.
+&emsp;&emsp;(B) the term "motor vehicle franchise contract" means a contract under which amotor vehicle manufacturer, importer, or distributor sells motor vehicles to any other person for resale to an ultimate purchaser and authorizes such other person to repair and service the manufacturer's motor vehicles.
 
 #### (2) Consent required
 

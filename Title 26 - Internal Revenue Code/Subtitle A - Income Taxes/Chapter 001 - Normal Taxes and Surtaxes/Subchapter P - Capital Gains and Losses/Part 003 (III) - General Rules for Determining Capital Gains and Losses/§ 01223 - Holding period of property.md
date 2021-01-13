@@ -46,7 +46,7 @@ For purposes of this subtitle—
 
 &emsp;(13) Except for purposes of subsections (a)(2) and (c)(2)(A) of section 1202, in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
 
-&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
+&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for whichthe taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
 
 &emsp;(15)
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 #### Repeals
 
-Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendments made thereby, were repealedby Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(c)(5). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
+Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendments made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(c)(5). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
 
 #### Savings Provision
 

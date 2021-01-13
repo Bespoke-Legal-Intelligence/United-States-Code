@@ -80,7 +80,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 &emsp;(D) qualification as a self-insurer.
 
-(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
+(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibilityis not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
 (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
@@ -196,7 +196,7 @@ Subsec. (c). Pub. L. 110–244, §305(b)(2), struck out "commercial" before "mot
 
 Subsec. (g)(5). Pub. L. 110–244, §301(f), amended Pub. L. 109–59, §4121. See 2005 Amendment note below.
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out "for compensation" after "property" and inserted "commercial" before "motor vehicle" in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out "for compensation" after "property" and inserted"commercial" before "motor vehicle" in introductory provisions.
 
 Subsecs. (c) to (f). Pub. L. 109–59, §4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 

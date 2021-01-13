@@ -92,7 +92,7 @@ Pub. L. 115–254, div. B, title III, §332(a), Oct. 5, 2018, 132 Stat. 3273, pr
 
 #### Improvement of Runway Safety Areas
 
-Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2401, provided in part: "That not later than December 31, 2015, the owner or operator of an airport certificated under 49 U.S.C. 44706 shall improve the airport's runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: <i>Provided further</i>, That the Federal Aviation Administration shall report annually to the Congress on the agency's progress toward improving the runway safety areas at 49 U.S.C. 44706 airports."
+Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2401, provided in part: "That not later than December 31, 2015, the owner or operator of an airport certificated under 49 U.S.C. 44706 shall improve the airport's runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: <i>Provided further</i>, That the Federal Aviation Administration shall report annually to the Congress on theagency's progress toward improving the runway safety areas at 49 U.S.C. 44706 airports."
 
 #### Small Airport Certification
 

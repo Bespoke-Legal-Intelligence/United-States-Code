@@ -108,7 +108,7 @@ A local educational agency may use funds awarded under this section for activiti
 
 &emsp;(4) The provision of referral services to homeless children and youths for medical, dental, mental, and other health services.
 
-&emsp;(5) The provision of assistance to defray the excess cost of transportation for students under section 11432(g)(4)(A) of this title, not otherwise provided through Federal, State, orlocal funding, where necessary to enable students to attend the school selected under section 11432(g)(3) of this title.
+&emsp;(5) The provision of assistance to defray the excess cost of transportation for students under section 11432(g)(4)(A) of this title, not otherwise provided through Federal, State, or local funding, where necessary to enable students to attend the school selected under section 11432(g)(3) of this title.
 
 &emsp;(6) The provision of developmentally appropriate early childhood education programs, not otherwise provided through Federal, State, or local funding, for preschool-aged homeless children.
 

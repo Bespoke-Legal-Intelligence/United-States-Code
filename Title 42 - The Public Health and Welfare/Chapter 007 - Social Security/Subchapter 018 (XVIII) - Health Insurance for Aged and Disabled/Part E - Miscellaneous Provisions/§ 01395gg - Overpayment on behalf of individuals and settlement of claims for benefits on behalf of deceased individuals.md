@@ -40,7 +40,7 @@ If an individual, who received services for which payment may be made to such in
 
 &emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
-&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
+&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), orif each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
 
 &emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Secretary to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
@@ -88,11 +88,11 @@ Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted "to the terms 
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–248 substituted "section 1395y(a)" for "section 1395y".
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agreethat the reasonable charge was the full charge for such services.
+<b>1980</b>—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937", wherever appearing.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
+<b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without faultwith respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
 
 Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted "or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if" for "and where", inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
 

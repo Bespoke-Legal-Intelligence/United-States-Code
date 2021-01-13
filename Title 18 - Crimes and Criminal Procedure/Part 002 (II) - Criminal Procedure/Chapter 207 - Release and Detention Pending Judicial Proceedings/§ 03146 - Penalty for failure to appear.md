@@ -38,6 +38,8 @@ Declaration of Forfeiture.—If a person fails to appear before a court as requi
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, §55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, §330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, §601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3146, added Pub. L. 89–465, §3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, §8, Oct. 12, 1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
@@ -75,6 +77,8 @@ Subsec. (b). Pub. L. 99–646, §55(f)(1), added subsec. (b) and struck out form
 Subsec. (c). Pub. L. 99–646, §55(f)(2), substituted "requirement to appear" for "requirement that he appear" and "the person appeared" for "he appeared".
 
 Subsec. (d). Pub. L. 99–646, §55(f)(3), inserted "of this title" after "3142(b)" and substituted "clause (xi) or (xii) of section 3142(c)(1)(B) of this title" for "section 3142(c)(2)(K) or (c)(2)(L)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

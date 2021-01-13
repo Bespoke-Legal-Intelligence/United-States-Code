@@ -18,13 +18,15 @@ Eligible Individuals.—An individual referred to in subsection (a) is any membe
 
 (c)
 
-Eligible Dependents.—An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement as follows:
+Eligible Dependents.—
 
-&emsp;(1) To the individual's spouse.
+&emsp;(1)
 
-&emsp;(2) To one or more of the individual's children.
+Transfer.—An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement to an eligible dependent or a combination of eligible dependents.
 
-&emsp;(3) To a combination of the individuals referred to in paragraphs (1) and (2).
+&emsp;(2)
+
+Definition of eligible dependent.—For purposes of this subsection, the term "eligible dependent" has the meaning given the term "dependent" under subparagraphs (A), (I), and (D) of section 1072(2) of title 10.
 
 (d)
 
@@ -122,7 +124,7 @@ Limitation on age of use by child transferees.—
 
 &emsp;&emsp;(A)
 
-In general.—A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B), use any benefits so transferred after attaining the age of 26 years.
+In general.—A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B),<sup>1</sup> use any benefits so transferred after attaining the age of 26 years.
 
 &emsp;&emsp;(B)
 
@@ -172,7 +174,7 @@ Overpayment.—
 
 &emsp;(1)
 
-Joint and several liability.—In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
+Joint and several liability.—In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, thedependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
 
 &emsp;(2)
 
@@ -212,9 +214,19 @@ Additional Transfer Upon Death of Dependent.—In the case of a dependent to who
 
 Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 116–315 amended subsec. (c) generally. Prior to amendment, text read as follows: "An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement as follows:
+
+"(1) To the individual's spouse.
+
+"(2) To one or more of the individual's children.
+
+"(3) To a combination of the individuals referred to in paragraphs (1) and (2)."
 
 <b>2019</b>—Subsec. (j)(3). Pub. L. 116–92 added par. (3).
 
@@ -244,6 +256,12 @@ Subsec. (k). Pub. L. 111–377, §110(a)(2), struck out subsec. (k). Text read a
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–275 substituted "subsection (j)" for "section (k)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–315, title I, §1011(b), Jan. 5, 2021, 134 Stat. 4942, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to educational assistance payable under chapter 33 of title 38, United States Code, before, on, or after the date that is 90 days after the date of the enactment of this Act \[Jan. 5, 2021\]."
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–48, title I, §110(b), Aug. 16, 2017, 131 Stat. 981, provided that:
@@ -265,4 +283,22 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 #### Effective Date
 
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+
+#### Extension of Time Limitations for Use of Entitlement: Transfer Period
+
+Pub. L. 116–315, title I, §1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: "The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) \[set out as a note below\] is amended by inserting 'or training establishment' after 'educational institution'."
+
+Pub. L. 116–140, §6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3319(h)(5) of such title as if it were amended—
+
+&emsp;"(A) in subparagraph (A) by inserting 'or (C)' after 'subparagraph (B)'; and
+
+&emsp;"(B) by adding at the end the following new subparagraph:
+
+&emsp;" '(C)
+
+Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual's chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.'."
+
+\[The term "covered period" as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+
+<i><sup>1</sup></i><i> See Extension of Time Limitations for Use of Entitlement: Transfer Period note below.</i>
 

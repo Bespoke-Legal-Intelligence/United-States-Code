@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the plan;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailingthat a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
 
 &emsp;(C) by diversifying the investments of the plan so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so; and
 
@@ -66,7 +66,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(i) at least 30 days and no more than 60 days prior to the effective date of the change, the plan administrator furnishes written notice of the change to the participants and beneficiaries, including information comparing the existing and new investment options and an explanation that, in the absence of affirmative investment instructions from the participant or beneficiary to the contrary, the account of the participant or beneficiary will be invested in the manner described in subparagraph (B),
 
-&emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advance of the effective date of the change, affirmative investment instructions contrary to the change, and
+&emsp;(ii) the participant or beneficiary has not provided to the plan administrator, in advanceof the effective date of the change, affirmative investment instructions contrary to the change, and
 
 &emsp;(iii) the investments under the plan of the participant or beneficiary as in effect immediately prior to the effective date of the change were the product of the exercise by such participant or beneficiary of control over the assets of the account within the meaning of paragraph (1).
 
@@ -150,7 +150,7 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 &emsp;&emsp;&emsp;&emsp;(I) operates under a certificate of authority from the insurance commissioner of its domiciliary State which has not been revoked or suspended;
 
-&emsp;&emsp;&emsp;&emsp;(II) has filed audited financial statements in accordance with the laws of its domiciliary State under applicable statutory accounting principles;
+&emsp;&emsp;&emsp;&emsp;(II) has filed audited financial statements in accordance with the laws of itsdomiciliary State under applicable statutory accounting principles;
 
 &emsp;&emsp;&emsp;&emsp;(III) maintains (and has maintained) reserves which satisfies all the statutory requirements of all States where the insurer does business; and
 
@@ -200,6 +200,8 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 (Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980; Pub. L. 110–458, title I, §106(d), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 116–94, div. O, title II, §204, Dec. 20, 2019, 133 Stat. 3165.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -229,6 +231,8 @@ Subsec. (c)(3)(B). Pub. L. 107–147, §411(t)(2), substituted "a transfer that"
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 <b>1980</b>—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

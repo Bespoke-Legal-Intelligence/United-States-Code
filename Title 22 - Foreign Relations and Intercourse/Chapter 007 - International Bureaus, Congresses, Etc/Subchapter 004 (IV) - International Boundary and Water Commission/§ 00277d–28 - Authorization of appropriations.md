@@ -4,11 +4,15 @@ There is authorized to be appropriated to the Department of State for use of the
 
 (Pub. L. 88–411, §3, Aug. 10, 1964, 78 Stat. 386; Pub. L. 93–126, §7(b), Oct. 18, 1973, 87 Stat. 452; Pub. L. 95–105, title V, §514(b), Aug. 17, 1977, 91 Stat. 862.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Pub. L. 95–105 inserted "based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein," after "$30,000".
 
 <b>1973</b>—Pub. L. 93–126 substituted "$30,000" for "$20,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

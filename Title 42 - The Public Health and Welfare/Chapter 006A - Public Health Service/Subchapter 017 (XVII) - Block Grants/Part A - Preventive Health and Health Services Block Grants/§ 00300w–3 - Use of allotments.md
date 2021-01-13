@@ -8,7 +8,7 @@
 
 &emsp;(B) Preventive health service programs for the control of rodents and for community and school-based fluoridation programs.
 
-&emsp;(C) Feasibility studies and planning for emergency medical services systems and the establishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies or planning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
+&emsp;(C) Feasibility studies and planning for emergency medical services systems and theestablishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies or planning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 
@@ -44,7 +44,7 @@ A State may transfer not more than 7 percent of the amount allotted to the State
 
 #### (d) Limitation on administrative costs
 
-Of the amount paid to any State under section 300w–2 of this title, not more than 10 percentpaid from each of its allotments under subsections (a) and (b) of section 300w–1 of this title may be used for administering the funds made available under section 300w–2 of this title. The State will pay from non-Federal sources the remaining costs of administering such funds.
+Of the amount paid to any State under section 300w–2 of this title, not more than 10 percent paid from each of its allotments under subsections (a) and (b) of section 300w–1 of this title may be used for administering the funds made available under section 300w–2 of this title. The State will pay from non-Federal sources the remaining costs of administering such funds.
 
 (July 1, 1944, ch. 373, title XIX, §1904, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 537; amended Pub. L. 97–414, §8(s), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–646, §87(d)(1)(A), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(b)(1)(A), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–607, title III, §301(b), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §102, Oct. 27, 1992, 106 Stat. 3470; Pub. L. 106–310, div. A, title V, §511, Oct. 17, 2000, 114 Stat. 1116.)
 

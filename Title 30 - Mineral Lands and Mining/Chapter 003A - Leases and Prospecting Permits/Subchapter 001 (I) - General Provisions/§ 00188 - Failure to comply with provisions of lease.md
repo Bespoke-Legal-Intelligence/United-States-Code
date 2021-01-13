@@ -42,7 +42,7 @@ Any reinstatement under subsection (d) of this section shall be made only if the
 
 &emsp;(2) payment of back rentals and either the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future rentals at a rate of not less than $10 per acre per year, or the inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement that future rentals shall be at a rate not less than $5 per acre per year, all as determined by the Secretary;
 
-&emsp;(3)(A) payment of back royalties and the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future royalties at a rate of not less than 162/3 percent computed on a sliding scale based upon the average production per well per day, at a rate which shall be not less than 4 percentage points greater than the competitive royality <sup>1</sup> schedule then in force and used for royalty determination for competitive leases issued pursuant to such section as determined by the Secretary: <i>Provided</i>, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the termination of the original lease;
+&emsp;(3)(A) payment of back royalties and the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future royalties at a rate of not less than 162/3 percent computed on a sliding scale based upon the average production per well per day, at a rate which shall be not less than 4 percentage points greater than the competitive royality <sup>1</sup> schedule then in force and used for royalty determination for competitive leases issued pursuant to such section as determined by the Secretary: <i>Pro</i><i>vided</i>, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the termination of the original lease;
 
 &emsp;(B) payment of back royalties and inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement for future royalties at a rate not less than 162/3 percent: <i>Provided</i>, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the cancellation or termination of the original lease; and
 
@@ -84,15 +84,17 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 #### (i) Royalty reductions
 
-(1) In acting on a petition to issue a noncompetitive oil and gas lease, under subsection (f) of this section or in response to a request filed after issuance of such a lease, or both, the Secretary is authorized to reduce the royalty on such lease if in his judgment it is equitable to do so or the circumstances warrant such relief due to uneconomic or other circumstances which could cause undue hardship or premature termination of production.
+(1) In acting on a petition to issue a noncompetitive oil and gas lease, under subsection (f) of this section or in response to a request filed after issuance of such a lease, or both, the Secretary is authorized to reduce the royalty onsuch lease if in his judgment it is equitable to do so or the circumstances warrant such relief due to uneconomic or other circumstances which could cause undue hardship or premature termination of production.
 
-(2) In acting on a petition for reinstatement pursuant to subsection (d) of this section or in response to a request filed after reinstatement, or both, the Secretary is authorized to reduce the royalty in that reinstated lease on the entire leasehold or any tract or portion thereofsegregated for royalty purposes if, in his judgment, there are uneconomic or other circumstances which could cause undue hardship or premature termination of production; or because of any written action of the United States, its agents or employees, which preceded, and was a major consideration in, the lessee's expenditure of funds to develop the property under the lease after the rent had become due and had not been paid; or if in the judgment of the Secretary it is equitable to do so for any reason.
+(2) In acting on a petition for reinstatement pursuant to subsection (d) of this section or in response to a request filed after reinstatement, or both, the Secretary is authorized to reduce the royalty in that reinstated lease on the entire leasehold or any tract or portion thereof segregated for royalty purposes if, in his judgment, there are uneconomic or other circumstances which could cause undue hardship or premature termination of production; or because of any written action of the United States, its agents or employees, which preceded, and was a major consideration in, the lessee's expenditure of funds to develop the property under the lease after the rent had become due and had not been paid; or if in the judgment of the Secretary it is equitable to do so for any reason.
 
 #### (j) Discretion of Secretary
 
 Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year's rental, provided the conditions of subparagraphs (1) and (2) of section <sup>1</sup> (c) are satisfied.
 
 (Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 109–58, title III, §371(b), Aug. 8, 2005, 119 Stat. 734.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -122,6 +124,8 @@ Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement o
 
 <b>1946</b>—Act Aug. 8, 1946, principally added second par. relating to cancellation of leases by Secretary of the Interior.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Savings Provision
 
 See note set out under section 181 of this title.
@@ -144,7 +148,7 @@ Pub. L. 109–58, title III, §371(a), Aug. 8, 2005, 119 Stat. 734, provided tha
 
 #### Authority for Issuance of Leases Unaffected by Reinstatement of Leases
 
-Pub. L. 87–822, §2, Oct. 15, 1962, 76 Stat. 943, provided that: "Nothing in this Act \[amending this section\] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected."
+Pub. L. 87–822, §2, Oct. 15, 1962, 76 Stat. 943, provided that: "Nothing in this Act \[amending this section\]shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected."
 
 #### Outer Continental Shelf; Cancellation of Leases
 

@@ -1,8 +1,10 @@
 ### §390. Declaration of purpose
 
-The purpose of this subpart is to assist, through matching grants, in the planning and construction of public telecommunications facilities in order to achieve the following objectives: (1) extend delivery of public telecommunications services to as many citizens of theUnited States as possible by the most efficient and economical means, including the use of broadcast and nonbroadcast technologies; (2) increase public telecommunications services and facilities available to, operated by, and owned by minorities and women; and (3) strengthen the capability of existing public television and radio stations to provide public telecommunications services to the public.
+The purpose of this subpart is to assist, through matching grants, in the planning and construction of public telecommunications facilities in order to achieve the following objectives: (1) extend delivery of public telecommunications services to as many citizens of the United States as possible by the most efficient and economical means, including the use of broadcast and nonbroadcast technologies; (2) increase public telecommunications services and facilities available to, operated by, and owned by minorities and women; and (3) strengthen the capability of existing public television and radio stations to provide public telecommunications services to the public.
 
 (June 19, 1934, ch. 652, title III, §390, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 64; amended Pub. L. 90–129, title I, §103(a), title II, §201(2), Nov. 7, 1967, 81 Stat. 365, 367; Pub. L. 94–309, §2(c), June 5, 1976, 90 Stat. 683; Pub. L. 95–567, title I, §101, Nov. 2, 1978, 92 Stat. 2405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -12,13 +14,15 @@ The purpose of this subpart is to assist, through matching grants, in the planni
 
 <b>1967</b>—Pub. L. 90–129 inserted "noncommercial" and "or radio" and substituted "subpart" for "part", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–567, title IV, §403, Nov. 2, 1978, 92 Stat. 2424, provided that: "The provisions of this Act \[enacting section 395 of this title, amending this section and sections 391, 392, 393, 394, and 396 to 398 of this title, repealing sections 392a and 395 of this title, and enacting provisions set out as notes under this section, sections 392 and 396 of this title, and section 5316 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\]."
 
 #### Grants
 
-Pub. L. 100–584, §3, Nov. 3, 1988, 102 Stat. 2970, provided that: "The Administrator \[of the National Telecommunications and Information Administration\] shall enter into discussions with the Federal Communications Commission for the purposes of determining the feasibility of awarding public telecommunications facilities program grants for low-power television stations and television translator stations on a conditional basis pending the award by the Commission of licenses for such stations. The Administrator shall also work with the Commission to establish a schedule for the expedited and coordinated consideration, on a regular basis, of future grant requests and license applications for low-power television stations and television translator stations. The Administrator shall, within ninety days after the date of enactment of this Act \[Nov. 3, 1988\], report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives on the progress made in carrying out the requirements of this section."
+Pub. L. 100–584, §3, Nov. 3, 1988, 102 Stat. 2970, provided that the Administrator would enter into discussions with the Federal Communications Commission for the purposes of determining the feasibility of awarding public telecommunications facilities program grants for low-power television stations and television translator stations on a conditional basis pending the award by the Commission of licenses for such stations, and would work with the Commission to establish a schedule for the expedited and coordinated consideration of future grant requests and license applications for low-power television stations, and within 90 days after Nov. 3, 1988, report to Congress on the progress made in carrying out this section.
 
 #### Study of Educational and Instructional Broadcasting
 

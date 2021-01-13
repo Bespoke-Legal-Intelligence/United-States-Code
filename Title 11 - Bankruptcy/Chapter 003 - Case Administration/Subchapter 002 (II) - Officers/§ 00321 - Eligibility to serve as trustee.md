@@ -4,7 +4,7 @@
 
 &emsp;(1) an individual that is competent to perform the duties of trustee and, in a case under chapter 7, 12, or 13 of this title, resides or has an office in the judicial district within which the case is pending, or in any judicial district adjacent to such district; or
 
-&emsp;(2) a corporation authorized by such corporation's charter or bylaws to act as trustee, and, in a case under chapter 7, 12, or 13 of this title,having an office in at least one of such districts.
+&emsp;(2) a corporation authorized by such corporation's charter or bylaws to act as trustee, and, in a case under chapter 7, 12, or 13 of this title, having an office in at least one of such districts.
 
 (b) A person that has served as an examiner in the case may not serve as trustee in the case.
 
@@ -22,6 +22,8 @@ Section 321 indicates that an examiner may not serve as a trustee in the case.
 
 Section 321 is adapted from current Bankruptcy Act §45 \[section 73 of former title 11\] and Bankruptcy Rule 209. Subsection (a) specifies that an individual may serve as trustee in a bankruptcy case only if he is competent to perform the duties of trustee and resides or has an office in the judicial district within which the case is pending, or in an adjacent judicial district. A corporation must be authorized by its charter or bylaws to act as trustee, and, for chapter 7 or 13 cases, must have an office in any of the above mentioned judicial districts.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–554, §257(c), inserted reference to chapter 12 in two places.
@@ -29,6 +31,8 @@ Section 321 is adapted from current Bankruptcy Act §45 \[section 73 of former t
 Subsec. (c). Pub. L. 99–554, §206, added subsec. (c).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "the case" for "a case" after "an examiner in".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

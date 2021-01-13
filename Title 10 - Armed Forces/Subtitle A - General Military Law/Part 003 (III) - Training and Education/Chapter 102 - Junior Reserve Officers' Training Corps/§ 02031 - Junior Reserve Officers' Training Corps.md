@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
-(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
+(2) It is a purpose of the Junior Reserve Officers' Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States (including an introduction to service opportunities in military, national, and public service), and personal responsibility and a sense of accomplishment.
 
 (b) No unit may be established or maintained at an institution unless—
 
@@ -10,7 +10,7 @@
 
 &emsp;(2) the institution has adequate facilities for classroom instruction, storage of arms and other equipment which may be furnished in support of the unit, and adequate drill areas at or in the immediate vicinity of the institution, as determined by the Secretary of the military department concerned;
 
-&emsp;(3) the institution provides a course of military instruction of not less than three academic years' duration, as prescribed by the Secretary of the military department concerned;
+&emsp;(3) the institution provides a course of military instruction of not less than three academic years' duration and which may include instruction or activities in the fields of science, technology, engineering, and mathematics, as prescribed by the Secretary of the military department concerned;
 
 &emsp;(4) the institution agrees to limit membership in the unit to students who maintain acceptable standards of academic achievement and conduct, as prescribed by the Secretary of the military department concerned; and
 
@@ -64,13 +64,11 @@
 
 (2) A student who is a member of a unit pursuant to this subsection shall count toward the satisfaction by the institution concerned of the requirement in subsection (b)(1) relating to the minimum number of student members in the unit necessary for the continuing maintenance of the unit.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, §635, Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–92, div. A, title V, §§511, 512(a), 513, Dec. 20, 2019, 133 Stat. 1348.)
-
-#### Amendment of Subsection (b)(3)
-
-<i>Pub. L. 116–92, div. A, title V, §512, Dec. 20, 2019, 133 Stat. 1348, provided that, effective 180 days after Dec. 20, 2019, subsection (b)(3) of this section is amended by inserting "and which may include instruction or activities in the fields of science, technology, engineering, and mathematics" after "duration". See 2019 Amendment note below.</i>
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, §540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, §635, Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–92, div. A, title V, §§511, 512(a), 513, Dec. 20, 2019, 133 Stat. 1348; Pub. L. 116–283, div. A, title V, §512, Jan. 1, 2021, 134 Stat. 3587.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283 inserted "(including an introduction to service opportunities in military, national, and public service)" after "service to the United States".
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 116–92, §511, substituted "above the 7th grade and physically co-located with the 9th grade participating unit" for "above the 8th grade" in two places.
 
@@ -116,7 +114,7 @@ Subsec. (b)(5). Pub. L. 98–525, §422(2)–(4), added par. (5).
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title V, §512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. A, title V, §512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -124,7 +122,7 @@ Pub. L. 102–484, div. A, title V, §533(e)(2), Oct. 23, 1992, 106 Stat. 2412, 
 
 #### Short Title
 
-Pub. L. 88–647, §1, Oct. 13, 1964, 78 Stat. 1063, provided: "That the Act \[enacting this chapter, and chapter 103of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the 'Reserve Officers' Training Corps Vitalization Act of 1964'."
+Pub. L. 88–647, §1, Oct. 13, 1964, 78 Stat. 1063, provided: "That the Act \[enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the 'Reserve Officers' Training Corps Vitalization Act of 1964'."
 
 #### Issuance of Regulations
 

@@ -80,6 +80,8 @@ This subchapter does not apply to any discharge—
 
 (Pub. L. 101–380, title I, §1002, Aug. 18, 1990, 104 Stat. 489.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.

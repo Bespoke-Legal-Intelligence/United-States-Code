@@ -34,15 +34,19 @@ In developing such a program, the President, through the Committee, shall—
 
 (Pub. L. 111–11, title XII, §12202, Mar. 30, 2009, 123 Stat. 1421.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 111–11, title XII, §12201, Mar. 30, 2009, 123 Stat. 1421, provided that: "This subtitle \[subtitle B\(§§12201–12208) of title XII of Pub. L. 111–11, enacting this chapter\] may be cited as the 'Ocean and Coastal Mapping Integration Act'."
+Pub. L. 111–11, title XII, §12201, Mar. 30, 2009, 123 Stat. 1421, provided that: "This subtitle \[subtitle B (§§12201–12208) of title XII of Pub. L. 111–11, enacting this chapter\] may be cited as the 'Ocean and Coastal Mapping Integration Act'."
+
+#### <b>Executive Documents</b>
 
 #### Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska
 
 Memorandum of President of the United States, Nov. 19, 2019, 84 F.R. 64699, provided:
 
-Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of the Interior\[,\] the Secretary of Agriculture\[,\] the Secretary of Commerce\[,\] the Secretary of Transportation\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Administrator of the Environmental Protection Agency\[,\] the Director of the Office of Management and Budget\[,\] the Administrator of the National Aeronautics and Space Administration\[,\] the Director of the National Science Foundation\[,\] the Director of National Intelligence\[,\] the Chairman of the Joint Chiefs of Staff\[,\] the Administrator of the National Oceanic and Atmospheric Administration\[,\] the Assistant Secretary of the Army for Civil Works\[,\] the Commandant of the Coast Guard\[,\] the Assistant to the President for National Security Affairs\[,\] the Assistant to the President for Domestic Policy\[,\] the Assistant to the President for Economic Policy\[,\] the Director of the Office of Science and Technology Policy\[,\] the Chairman of the Council on Environmental Quality\[, and\] the Deputy Assistant to the President for Homeland Security and Counterterrorism
+Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of the Interior\[,\] the Secretary of Agriculture\[,\] the Secretary of Commerce\[,\] the Secretary of Transportation\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Administrator of the Environmental Protection Agency\[,\] the Director of the Office of Management and Budget\[,\] the Administrator of the National Aeronautics and Space Administration\[,\] the Director of the National Science Foundation\[,\] the Director of National Intelligence\[,\] the Chairman of the Joint Chiefs of Staff\[,\] the Administrator of the National Oceanic and Atmospheric Administration\[,\] the Assistant Secretary of the Army for Civil Works\[,\] the Commandant of the Coast Guard\[,\] the Assistant to the President for National Security Affairs\[,\] the Assistant to the President for Domestic Policy\[,\] the Assistant to the President for Economic Policy\[,\] the Director of the Office of Scienceand Technology Policy\[,\] the Chairman of the Council on Environmental Quality\[, and\] the Deputy Assistant to the President for Homeland Security and Counterterrorism
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 

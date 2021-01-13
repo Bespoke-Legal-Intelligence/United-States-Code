@@ -14,3 +14,4 @@ Part C—Fees
 - [Subpart 007 - Fees Relating to Generic Drugs](Subpart%20007%20-%20Fees%20Relating%20to%20Generic%20Drugs/README.md)
 - [Subpart 008 - Fees Relating to Biosimilar Biological Products](Subpart%20008%20-%20Fees%20Relating%20to%20Biosimilar%20Biological%20Products/README.md)
 - [Subpart 009 - Fees Relating to Outsourcing Facilities](Subpart%20009%20-%20Fees%20Relating%20to%20Outsourcing%20Facilities/README.md)
+- [Subpart 010 - Fees Relating to Over-the-Counter Drugs](Subpart%20010%20-%20Fees%20Relating%20to%20Over-the-Counter%20Drugs/README.md)

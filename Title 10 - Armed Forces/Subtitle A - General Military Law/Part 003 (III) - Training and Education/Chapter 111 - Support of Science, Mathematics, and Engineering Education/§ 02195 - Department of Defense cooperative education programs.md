@@ -18,7 +18,7 @@
 
 &emsp;(2) make such payments without requiring such an agreement.
 
-(d)(1) The Director of the National Security Agency may provide a qualifying employee of a defense laboratory of that Agency with living quarters at no charge, or at a rate or charge prescribed by the Director by regulation, without regard to section 5911(c) of title 5.
+(d)(1) The Director of the National Security Agency may provide a qualifying employee of a defense laboratory of that Agency with livingquarters at no charge, or at a rate or charge prescribed by the Director by regulation, without regard to section 5911(c) of title 5.
 
 (2) In this subsection, the term "qualifying employee" means a student who is employed at the National Security Agency under—
 

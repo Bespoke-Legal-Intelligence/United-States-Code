@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) recognizing the new or updated standards;
 
-&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteriaspecified in such a standard and declining to recognize the remainder of such standard; and
+&emsp;&emsp;&emsp;&emsp;(III) recognizing one or more parts of the new or updated interpretive criteria specified in such a standard and declining to recognize the remainder of such standard; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) making any necessary updates to the lists under subsection (b)(2).
 
@@ -239,6 +239,8 @@ Nothing in this section shall be construed to—
 &emsp;&emsp;(B) unless specifically stated, have any effect on authorities provided under other sections of this chapter, including any regulations issued under such sections.
 
 (June 25, 1938, ch. 675, §511A, as added Pub. L. 114–255, div. A, title III, §3044(a), Dec. 13, 2016, 130 Stat. 1114.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

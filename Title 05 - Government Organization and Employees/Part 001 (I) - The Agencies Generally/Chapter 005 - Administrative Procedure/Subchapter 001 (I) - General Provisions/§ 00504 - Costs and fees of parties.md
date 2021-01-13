@@ -60,6 +60,8 @@
 
 (Added Pub. L. 96–481, title II, §203(a)(1), (c), Oct. 21, 1980, 94 Stat. 2325, 2327; revived and amended Pub. L. 99–80, §§1, 6, Aug. 5, 1985, 99 Stat. 183, 186; Pub. L. 99–509, title VI, §6103(c), Oct. 21, 1986, 100 Stat. 1948; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6239(b), Nov. 10, 1988, 102 Stat. 3746; Pub. L. 103–141, §4(b), Nov. 16, 1993, 107 Stat. 1489; Pub. L. 104–121, title II, §231, Mar. 29, 1996, 110 Stat. 862; Pub. L. 111–350, §5(a)(1), Jan. 4, 2011, 124 Stat. 3841; Pub. L. 116–9, title IV, §4201(a)(1), Mar. 12, 2019, 133 Stat. 762.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Religious Freedom Restoration Act of 1993, referred to in subsec. (b)(1)(C)(iv), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§2000bb et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of Title 42 and Tables.
@@ -100,7 +102,7 @@ Subsec. (a)(2). Pub. L. 99–80, §1(b), inserted "When the United States appeal
 
 Subsec. (a)(3). Pub. L. 99–80, §1(a)(3), inserted "The decision of the agency on the application for fees and other expenses shall be the final administrative decision under this section."
 
-Subsec. (b)(1)(B). Pub. L. 99–80, §1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: " 'party' means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or private organization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of anunincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;".
+Subsec. (b)(1)(B). Pub. L. 99–80, §1(c)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: " 'party' means a party, as defined in section 551(3) of this title, which is an individual, partnership, corporation, association, or public or private organization other than an agency, but excludes (i) any individual whose net worth exceeded $1,000,000 at the time the adversary adjudication was initiated, and any sole owner of an unincorporated business, or any partnership, corporation, association, or organization whose net worth exceeded $5,000,000 at the time the adversary adjudication was initiated, except that an organization described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c)(3)) exempt from taxation under section 501(a) of the Code and a cooperative association as defined in section 15(a) of the Agricultural Marketing Act (12 U.S.C. 1141j(a)), may be a party regardless of the net worth of such organization or cooperative association, and (ii) any sole owner of an unincorporated business, or any partnership, corporation, association, or organization, having more than 500 employees at the time the adversary adjudication was initiated;".
 
 Subsec. (b)(1)(C). Pub. L. 99–80, §1(c)(2), designated existing provisions of subpar. (C) as cl. (i) thereof by inserting "(i)" before "an adjudication under", added cl. (ii), and struck out "and" after the semicolon at the end.
 
@@ -115,6 +117,8 @@ Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to am
 "(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years."
 
 <b>1980</b>—Pub. L. 96–481, §203(c), which provided for the repeal of this section effective Oct. 1, 1984, was itself repealed and this section was revived by section 6 of Pub. L. 99–80, set out as a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

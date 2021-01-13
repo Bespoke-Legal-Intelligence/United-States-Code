@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1901\.](%C2%A7%2001901%20-%20Definitions.md) | Definitions. |
 | [1902\.](%C2%A7%2001902%20-%20Ships%20subject%20to%20preventive%20measures.md) | Ships subject to preventive measures. |
-| [1902a.](%C2%A7%2001902a%20-%20Discharge%20of%20agricultural%20cargo%20residue.md) | Discharge of agricultural cargo residue. |
+| [1902a.](%C2%A7%2001902a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20G%2C%20title%20LVXXXV%20%5BLXXXV%5D%2C%20%C2%A78502%28a%29%281%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204746.md) | Repealed. |
 | [1903\.](%C2%A7%2001903%20-%20Administration%20and%20enforcement.md) | Administration and enforcement. |
 | [1904\.](%C2%A7%2001904%20-%20Certificates.md) | Certificates. |
 | [1905\.](%C2%A7%2001905%20-%20Pollution%20reception%20facilities.md) | Pollution reception facilities. |
@@ -28,7 +28,7 @@
 
 - [&sect; 01901 - Definitions](%C2%A7%2001901%20-%20Definitions.md)
 - [&sect; 01902 - Ships subject to preventive measures](%C2%A7%2001902%20-%20Ships%20subject%20to%20preventive%20measures.md)
-- [&sect; 01902a - Discharge of agricultural cargo residue](%C2%A7%2001902a%20-%20Discharge%20of%20agricultural%20cargo%20residue.md)
+- [&sect; 01902a - Repealed. Pub. L. 116&#8211;283, div. G, title LVXXXV \[LXXXV\], &sect;8502(a)(1), Jan. 1, 2021, 134 Stat. 4746](%C2%A7%2001902a%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20G%2C%20title%20LVXXXV%20%5BLXXXV%5D%2C%20%C2%A78502%28a%29%281%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204746.md)
 - [&sect; 01903 - Administration and enforcement](%C2%A7%2001903%20-%20Administration%20and%20enforcement.md)
 - [&sect; 01904 - Certificates](%C2%A7%2001904%20-%20Certificates.md)
 - [&sect; 01905 - Pollution reception facilities](%C2%A7%2001905%20-%20Pollution%20reception%20facilities.md)

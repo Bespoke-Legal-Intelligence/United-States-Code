@@ -158,7 +158,7 @@
 
 #### (4) Compensation and limitations related to foreclosures and encumbrances
 
-&emsp;Cash payment as compensation for losses sustained in a private sale shall not be made in any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting thegenerality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.
+&emsp;Cash payment as compensation for losses sustained in a private sale shall not be made in any case in which the property is encumbered by a mortgage loan guaranteed, insured, or held by a Federal agency unless such mortgage loan is paid, assumed by a purchaser satisfactory to such Federal agency, or otherwise fully satisfied at or prior to the time such cash payment is made. Except in cases of payment as compensation for losses, in the event of foreclosure by mortgagees commenced on or after public announcement of intention to close all or part of the military base or installation the Secretary of Defense may reimburse or pay on account of eligible persons such sums as may be paid or be otherwise due and owing by such persons as the result of such foreclosure, including (without limiting the generality of the foregoing) direct costs of judicial foreclosure, expenses and liabilities enforceable according to the terms of their mortgages or promissory notes, and the amount of debts, if any, established against such persons by a Federal agency in the case of loans made, guaranteed, or insured by such agency following liquidation of the security for such loans.
 
 #### (d) Fund for extension of financial assistance; capital and receipts; availability of monies; covering into Treasury as miscellaneous receipts; Federal title to and control of property; other laws unaffected; foreign properties, exclusion
 
@@ -240,7 +240,7 @@ In this section:
 
 #### References in Text
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(B)(ii), is part A of titleXXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(1)(B)(ii), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 Section 1594i of this title, referred to in subsec. (d), was repealed by Pub. L. 97–214, §7(3), July 12, 1982, 96 Stat. 173.
 

@@ -40,7 +40,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
+Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 
 #### Proc. No. 2948. Merchandise in General-Order and Bonded Warehouses
 
@@ -54,7 +54,7 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 
 (2) To extend the three-year period prescribed in sections 557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for not more than one year from and after the expiration of such three-year period in any case in which such period has already expired or shall hereafter expire during the continuance of the said national emergency; and
 
-(3) To extend further the one-year period prescribed in section 491, <i>supra</i>, as amended \[section 1491 of this title\], and the three-year period prescribed in sections 557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for additional periods of not more than one year each from and after the expiration of the immediately preceding extension in any case in which such extension shall expire during the continuance of the said national emergency:
+(3) To extend further the one-year period prescribed in section 491, <i>supra</i>, as amended \[section 1491 of this title\], and the three-year period prescribed in sections557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for additional periods of not more than one year each from and after the expiration of the immediately preceding extension in any case in which such extension shall expire during the continuance of the said national emergency:
 
 <i>Provided, however</i>, that in each and every case under numbered paragraphs (1), (2), and (3) above in which the merchandise is charged against an entry bond the Secretary of the Treasury shall require that the principal on such bond, in order to obtain the benefit of any extension which may be granted under the authority of this proclamation, shall furnish to the collector of customs at the port where the bond is on file either the agreement of the sureties on the bond to remain bound under the terms and conditions of the bond to the same extent as if no extension had been granted, or an additional bond with acceptable sureties to cover the period of extension; and that, in each and every case in which the merchandise remains charged against a carrier's bond the Secretary of the Treasury shall require that the principal on such bond shall agree to the extension and shall furnish to the collector of customs at the port where the charge was made the agreement of the sureties on the bond to remain bound under the terms and conditions of the bond to the same extent as if no extension had been granted; and
 
@@ -65,4 +65,28 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 This proclamation supersedes Proclamation No. 2599 of November 4, 1943, as amended by Proclamation No. 2712 of December 3, 1946, but it shall not be construed (1) as invalidating any action heretofore taken under the provisions of the said Proclamation No. 2599 or under the provisions of that proclamation as amended by the said Proclamation No. 2712, or (2) as imposing the conditions set forth in the second proviso above upon the granting of extensions for which applications are pending on the date of this proclamation.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13916. National Emergency Authority To Temporarily Extend Deadlines for Certain Estimated Payments
+
+Ex. Ord. No. 13916, Apr. 18, 2020, 85 F.R. 22951, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 et seq.), and in furtherance of Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], which declared a national emergency by reason of the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation's healthcare systems, I hereby order as follows:
+
+Section 1. <i>Emergency Authority</i>. (a) To provide additional authority to the Secretary of the Treasury (Secretary) to respond to the national emergency declared by Proclamation 9994, the authority at section 1318(a) of title 19, United States Code, to extend during the continuance of such emergency the time prescribed therein for the performance of any act is invoked and made available, according to its terms, to the Secretary.
+
+(b) The Secretary shall consider taking appropriate action under section 1318(a) of title 19, United States Code, to temporarily extend deadlines, for importers suffering significant financial hardship because of COVID–19, for the estimated payments described therein, other than those assessed pursuant to sections 1671, 1673, 1862, 2251, and 2411 of title 19, United States Code.
+
+(c) The Secretary shall consult with the Secretary of Homeland Security or his designee before exercising, as invoked and made available under this order, any of the authority set forth in section 1318(a) of title 19, United States Code.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

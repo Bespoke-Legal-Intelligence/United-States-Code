@@ -28,7 +28,7 @@ Except as provided in subsection (b), in no case may the Attorney General, or an
 
 (1) The Secretary of Homeland Security or the Attorney General may provide, in the Secretary's or the Attorney General's discretion, for the disclosure of information in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.
 
-(2) The Secretary of Homeland Security or the Attorney General may provide in the discretion of the Secretary or the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose in a manner that protects the confidentiality of such information.
+(2) The Secretary of Homeland Security or the Attorney General may provide in the discretionof the Secretary or the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose in a manner that protects the confidentiality of such information.
 
 (3) Subsection (a) shall not be construed as preventing disclosure of information in connection with judicial review of a determination in a manner that protects the confidentiality of such information.
 
@@ -51,6 +51,8 @@ Anyone who willfully uses, publishes, or permits information to be disclosed in 
 The Attorney General, Secretary of State, and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice, Department of State, or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(u)) from harm that could result from the inappropriate disclosure of covered information.
 
 (Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536; Pub. L. 109–162, title VIII, §817, Jan. 5, 2006, 119 Stat. 3060; Pub. L. 109–271, §6(h), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title VIII, §810(a), (b), (d), Mar. 7, 2013, 127 Stat. 117, 118.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,7 +78,7 @@ Subsec. (b)(8). Pub. L. 113–4, §810(a)(4), added par. (8).
 
 Subsec. (d). Pub. L. 113–4, §810(b), inserted ", Secretary of State," after "The Attorney General", ", Department of State," after "Department of Justice", and "and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(u))" after "domestic violence".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted ", the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)" for "(including any bureau or agency of such Department)" in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted ", the Secretary of Homeland Security, the Secretary of State, or any other official or employee ofthe Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)" for "(including any bureau or agency of such Department)" in introductory provisions.
 
 Subsec. (a)(1)(F). Pub. L. 109–162, §817(1)(B), added subpar. (F).
 
@@ -95,6 +97,8 @@ Subsec. (a)(2). Pub. L. 106–386, §1513(d)(4), inserted "section 101(a)(15)(U)
 <b>1997</b>—Subsec. (b)(5). Pub. L. 105–33 added par. (5).
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–208, §308(g)(8)(D), which directed amendment of section 364(a)(2) of div. C of Pub. L. 104–208 by substituting "240A(a)(3)" for "244(a)(3)", was executed by making the substitution in subsec. (a)(2) of this section to reflect the probable intent of Congress. Div. C of Pub. L. 104–208 does not contain a section 364.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

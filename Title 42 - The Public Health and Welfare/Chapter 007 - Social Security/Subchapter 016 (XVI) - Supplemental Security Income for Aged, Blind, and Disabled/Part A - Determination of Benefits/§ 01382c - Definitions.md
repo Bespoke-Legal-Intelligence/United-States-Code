@@ -24,7 +24,7 @@
 
 (F) Notwithstanding the provisions of subparagraphs (A) through (E), an individual shall also be considered to be disabled for purposes of this subchapter if he is permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI as in effect for October 1972 and received aid under such plan (on the basis of disability) for December 1973 (and for at least one month prior to July 1973), so long as he is continuously disabled as so defined.
 
-(G) In determining whether an individual's physical or mental impairment or impairmentsare of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
+(G) In determining whether an individual's physical or mental impairment or impairments are of a sufficient medical severity that such impairment or impairments could be the basis of eligibility under this section, the Commissioner of Social Security shall consider the combined effect of all of the individual's impairments without regard to whether any such impairment, if considered separately, would be of such severity. If the Commissioner of Social Security does find a medically severe combination of impairments, the combined impact of the impairments shall be considered throughout the disability determination process.
 
 (H)(i) In making determinations with respect to disability under this subchapter, the provisions of sections 421(h), 421(k), and 423(d)(5) of this title shall apply in the same manner as they apply to determinations of disability under subchapter II.
 
@@ -58,7 +58,7 @@
 
 (I) In making any determination under this subchapter with respect to the disability of an individual who has not attained the age of 18 years and to whom section 421(h) of this title does not apply, the Commissioner of Social Security shall make reasonable efforts to ensure that a qualified pediatrician or other individual who specializes in a field of medicine appropriate to the disability of the individual (as determined by the Commissioner of Social Security) evaluates the case of such individual.
 
-(J) Notwithstanding subparagraph (A), an individual shall not be considered to be disabled for purposes of this subchapter if alcoholism or drugaddiction would (but for this subparagraph) be a contributing factor material to the Commissioner's determination that the individual is disabled.
+(J) Notwithstanding subparagraph (A), an individual shall not be considered to be disabled for purposes of this subchapter if alcoholism or drug addiction would (but for this subparagraph) be a contributing factor material to the Commissioner's determination that the individual is disabled.
 
 (4) A recipient of benefits based on disability under this subchapter may be determined not to be entitled to such benefits on the basis of a finding that the physical or mental impairment on the basis of which such benefits are provided has ceased, does not exist, or is not disabling only if such finding is supported by—
 
@@ -98,7 +98,7 @@
 
 (b) For purposes of this subchapter, the term "eligible spouse" means an aged, blind, or disabled individual who is the husband or wife of another aged, blind, or disabled individual, and who, in a month, is living with such aged, blind, or disabled individual on the first day of the month or, in any case in which either spouse files an application for benefits, on the first day of the month following the date the application is filed, or, in any case in which either spouse requests restoration of eligibility under this subchapter during the month, at the time the request is filed. If two aged, blind, or disabled individuals are husband and wife as described in the preceding sentence, only one of them may be an "eligible individual" within the meaning of section 1382(a) of this title.
 
-(c) For purposes of this subchapter, the term "child" means an individual who is neither married nor (as determined by the Commissioner of Social Security) the head of a household, and who is (1) under the age of eighteen, or (2) under the age of twenty-two and (as determined by the Commissioner of Social Security) a student regularly attending a school, college, or university,or a course of vocational or technical training designed to prepare him for gainful employment.
+(c) For purposes of this subchapter, the term "child" means an individual who is neither married nor (as determined by the Commissioner of Social Security) the head of a household, and who is (1) under the age of eighteen, or (2) under the age of twenty-two and (as determined by the Commissioner of Social Security) a student regularly attending a school, college, or university, or a course of vocational or technical training designed to prepare him for gainful employment.
 
 (d) In determining whether two individuals are husband and wife for purposes of this subchapter, appropriate State law shall be applied; except that—
 
@@ -310,7 +310,7 @@ Report.—The Commissioner of Social Security shall report to the Congress regar
 
 "(4)
 
-Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shallinclude supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
+Regulations.—Notwithstanding any other provision of law, the Commissioner of Social Security shall submit for review to the committees of jurisdiction in the Congress any final regulation pertaining to the eligibility of individuals under age 18 for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] at least 45 days before the effective date of such regulation. The submission under this paragraph shall include supporting documentation providing a cost analysis, workload impact, and projections as to how the regulation will effect the future number of recipients under such title.
 
 "(5)
 
@@ -338,7 +338,7 @@ Benefits under title xvi.—For purposes of this subsection, the term 'benefits 
 
 Pub. L. 104–193, title II, §212(d), Aug. 22, 1996, 110 Stat. 2194, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note under section 1383 of this title\] shall apply to benefits for months beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments."
 
-Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before Mar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits beforeMar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -10,7 +10,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;(3) whose government is not failing to cooperate on international narcotics control matters;
 
-&emsp;(4) whose government (including its military or other security forces) does not engage in aconsistent pattern of gross violations of internationally recognized human rights;
+&emsp;(4) whose government (including its military or other security forces) does not engage in a consistent pattern of gross violations of internationally recognized human rights;
 
 &emsp;(5) that has in effect, has received approval for, or is making significant progress toward—
 
@@ -32,7 +32,9 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;The President shall notify the appropriate congressional committees of his intention to designate a country as an eligible country at least 15 days in advance of any formal determination.
 
-(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
+(Pub. L. 87–195, pt. V, §805, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amendedPub. L. 107–26, §1, Aug. 17, 2001, 115 Stat. 206; Pub. L. 115–440, §5, Jan. 14, 2019, 132 Stat. 5582.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ A prior section 805 of Pub. L. 87–195, pt. V, enacted a provision set out as a
 Subsec. (a)(1) to (7). Pub. L. 115–440, §5(2), (3), added pars. (1) to (6), redesignated former par. (2) as (7), and struck out former par. (1) which read as follows: "whose government meets the requirements applicable to Latin American or Caribbean countries under paragraphs (1) through (5) and (7) of section 2430b(a) of this title; and".
 
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–26 struck out "major" before "investment reforms,".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

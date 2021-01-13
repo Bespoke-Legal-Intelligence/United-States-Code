@@ -18,6 +18,8 @@ The Archivist may enter into a cooperative agreement to provide online access to
 
 (Added Pub. L. 110–404, §4(a), Oct. 13, 2008, 122 Stat. 4283.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Funds
 
 Pub. L. 110–404, §4(b), Oct. 13, 2008, 122 Stat. 4283, provided that:

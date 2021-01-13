@@ -96,13 +96,13 @@ Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, a
 
 "(C) by June 1: final modifications and updates pursuant to section 1087rr of this title published in the Federal Register;".
 
-Subsec. (d). Pub. L. 110–315, §103(b)(9), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committeeon Education and Labor of the House of Representatives".
+Subsec. (d). Pub. L. 110–315, §103(b)(9), substituted "authorizing committees" for "Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives".
 
 Subsec. (e). Pub. L. 110–315, §482(a)(2), added subsec. (e).
 
 <b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
+Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of thesecond award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–66, in first sentence substituted "a deadline included in the calendar described in subsection (a) is not met" for "the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice" and after first sentence struck out "When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met."
 

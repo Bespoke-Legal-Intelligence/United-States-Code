@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) finally, out of previously taxed income.
 
-> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of such amount and paragraph (1) shall apply to the remaining 1/17th of such amount.
+> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of suchamount and paragraph (1) shall apply to the remaining 1/17th of such amount.
 
 #### (3) Exclusion from gross income
 

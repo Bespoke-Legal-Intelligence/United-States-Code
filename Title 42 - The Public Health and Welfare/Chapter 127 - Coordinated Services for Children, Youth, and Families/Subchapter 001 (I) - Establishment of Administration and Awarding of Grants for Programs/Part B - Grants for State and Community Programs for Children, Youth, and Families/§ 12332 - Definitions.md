@@ -4,7 +4,7 @@ As used in this part:
 
 #### (1) Community referral services
 
-&emsp;The term "community referral services" means services to assist families in obtaining community resources, including health care, mental health care, employability development and job training, and other social services.
+&emsp;The term "community referral services" means services to assist families in obtainingcommunity resources, including health care, mental health care, employability development and job training, and other social services.
 
 #### (2) Core services
 

@@ -42,7 +42,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(5) has in any manner deceived, misled, or threatened any actual or prospective claimant;
 
-&emsp;(6) has presented to the Secretary a frivolous claim, issue, or argument, involving conduct inconsistent with ethical standards for the practice of law;
+&emsp;(6) has presented to the Secretary a frivolous claim, issue, or argument, involving conductinconsistent with ethical standards for the practice of law;
 
 &emsp;(7) has been suspended or disbarred by any court or bar to which such agent or attorney was previously admitted to practice, or has been disqualified from participating in or appearing before any Federal agency, and has not been subsequently reinstated;
 
@@ -78,9 +78,7 @@ Payment of Fees Out of Past-Due Benefits.—(1) When a claimant and an agent or 
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3404; Pub. L. 99–576, title VII, §701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, §104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered §5904 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, §303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, §504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, §101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408; Pub. L. 115–55, §2(n), Aug. 23, 2017, 131 Stat. 1110.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(n) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -154,9 +152,11 @@ Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secret
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–576 substituted "the Administrator" for "he" in introductory text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date of 2006 Amendment
 

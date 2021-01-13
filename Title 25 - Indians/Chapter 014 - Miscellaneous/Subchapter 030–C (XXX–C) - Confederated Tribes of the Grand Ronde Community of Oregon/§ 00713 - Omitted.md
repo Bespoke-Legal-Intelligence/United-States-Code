@@ -1,8 +1,12 @@
 ### §713. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 98–165, §2, Nov. 22, 1983, 97 Stat. 1064, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

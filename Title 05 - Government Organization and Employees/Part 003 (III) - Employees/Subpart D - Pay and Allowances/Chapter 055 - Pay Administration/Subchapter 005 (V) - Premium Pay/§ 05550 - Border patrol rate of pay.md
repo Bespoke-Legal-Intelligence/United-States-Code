@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term "border patrol agent" means an individual who is appointed to a position assigned to the Border Patrol Enforcement classification series 1896 or any successor series, consistent with classification standards established by the Office of Personnel Management;
 
-&emsp;(3) the term "level 1 border patrol rate of pay" means the hourly rate of pay equal to 1.25 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent;
+&emsp;(3) the term "level 1 border patrol rate of pay" means the hourly rate of pay equal to1.25 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent;
 
 &emsp;(4) the term "level 2 border patrol rate of pay" means the hourly rate of pay equal to 1.125 times the otherwise applicable hourly rate of basic pay of the applicable border patrol agent; and
 
@@ -24,7 +24,7 @@ Voluntary election.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 30 days before the first day of each year beginningafter the date of enactment of this section, a border patrol agent shall make an election whether the border patrol agent shall, for that year, be assigned to—
+In general.—Not later than 30 days before the first day of each year beginning after the date of enactment of this section, a border patrol agent shall make an election whether the border patrol agent shall, for that year, be assigned to—
 
 &emsp;&emsp;&emsp;(i) the level 1 border patrol rate of pay;
 
@@ -94,7 +94,7 @@ Pay assignment continuity.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which the border patrol agent has been assigned during the course of the career of the border patrol agent.
+In general.—Not later than 1 year after the date of enactment of the Border Patrol Agent Pay Reform Act of 2014, and in consultation with the Office of Personnel Management, U.S. Customs and Border Protection shall develop and implement a plan to ensure, to the greatest extent practicable, that the assignment of a border patrol agent under this section during the 3 years of service before the border patrol agent becomes eligible for immediate retirement are consistent with the average border patrol rate of pay level to which theborder patrol agent has been assigned during the course of the career of the border patrol agent.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -278,9 +278,11 @@ Insufficient hours.—If a border patrol agent has a remaining hours obligation 
 
 (g)
 
-Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordancewith the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
+Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
 (Pub. L. 113–277, §2(b), Dec. 18, 2014, 128 Stat. 2995.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -293,6 +295,8 @@ The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referre
 #### Prior Provisions
 
 A prior section 5550, added Pub. L. 92–392, §10(a), Aug. 19, 1972, 86 Stat. 574, related to pay for Sunday and overtime work for employees of nonappropriated fund instrumentalities, prior to repeal by Pub. L. 102–378, §2(44)(A), Oct. 2, 1992, 106 Stat. 1352.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

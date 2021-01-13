@@ -26,7 +26,7 @@
 
 (2) Any grants, cooperative agreements, or contracts authorized in this subchapter for the construction of facilities may be awarded only on a competitive basis.
 
-(July 1, 1944, ch. 373, title IV, §496, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amended Pub. L. 101–190, §8, Nov. 29, 1989, 103 Stat. 1695; Pub. L. 103–43, title XX, §2008(b)(15), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §496, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amended Pub. L. 101–190, §8, Nov. 29, 1989, 103 Stat. 1695;Pub. L. 103–43, title XX, §2008(b)(15), June 10, 1993, 107 Stat. 211.)
 
 #### Codification
 

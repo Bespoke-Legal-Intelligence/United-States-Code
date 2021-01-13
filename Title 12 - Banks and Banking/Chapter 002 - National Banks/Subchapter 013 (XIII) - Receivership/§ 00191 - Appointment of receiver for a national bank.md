@@ -14,6 +14,8 @@ If the Comptroller of the Currency appoints a receiver under subsection (a), the
 
 (June 30, 1876, ch. 156, §2, formerly §1, 19 Stat. 63; Pub. L. 86–230, §16, Sept. 8, 1959, 73 Stat. 458; Pub. L. 102–242, title I, §133(b), Dec. 19, 1991, 105 Stat. 2271; renumbered §2 and amended Pub. L. 102–550, title XVI, §1603(d)(6), (7), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 109–351, title VII, §701(a), Oct. 13, 2006, 120 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2 of act June 30, 1876, was classified to section 65 of this title, prior to repeal by Pub. L. 86–230, §8, Sept. 8, 1959, 73 Stat. 457.
@@ -31,6 +33,8 @@ Pub. L. 102–550, §1603(d)(6), amended directory language of Pub. L. 102–242
 <b>1991</b>—Pub. L. 102–242, §133(b), as amended by Pub. L. 102–550, §1603(d)(6), amended section generally. Prior to amendment, section read as follows: "Whenever any national banking association shall be dissolved, and its rights, privileges, and franchises declared forfeited, as prescribed in section 93 of this title, or whenever any creditor of any national banking association shall have obtained a judgment against it in any court of record, and made application, accompanied by a certificate from the clerk of the court stating that such judgment has been rendered and has remained unpaid for the space of thirty days, or whenever the comptroller shall become satisfied of the insolvency of a national banking association, he may, after due examination of its affairs, in either case, appoint a receiver, who shall proceed to close up such association."
 
 <b>1959</b>—Pub. L. 86–230 struck out provisions which required receiver to enforce the personal liability of shareholders.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 102–242, title I, §133(g), Dec. 19, 1991, 105 Stat. 2273, provided th
 
 #### Short Title
 
-Act June 30, 1876, ch. 156, §1, as added by Pub. L. 102–550, title XVI, §1603(d)(7)(A), Oct. 28, 1992, 106 Stat.4080, provided that: "This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the 'National Bank Receivership Act'."
+Act June 30, 1876, ch. 156, §1, as added by Pub. L. 102–550, title XVI, §1603(d)(7)(A), Oct. 28, 1992, 106 Stat. 4080, provided that: "This Act \[enacting this section, sections 65 and 197 of this title, and section 424 of former Title 31, Money and Finance, and amending section 55 of this title\] may be cited as the 'National Bank Receivership Act'."
 
 #### Exception as to Transfer of Functions
 

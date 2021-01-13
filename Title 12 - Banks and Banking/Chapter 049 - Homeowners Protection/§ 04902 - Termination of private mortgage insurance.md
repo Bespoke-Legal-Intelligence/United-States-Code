@@ -30,7 +30,7 @@ If a requirement for private mortgage insurance is not otherwise canceled or ter
 
 #### (d) Treatment of loan modifications
 
-If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall berecalculated to reflect the modified terms and conditions of such loan.
+If a mortgagor and mortgagee (or holder of the mortgage) agree to a modification of the terms or conditions of a loan pursuant to a residential mortgage transaction, the cancellation date, termination date, or final termination shall be recalculated to reflect the modified terms and conditions of such loan.
 
 #### (e) No further payments
 
@@ -98,9 +98,11 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 #### (h) Accrued obligation for premium payments
 
-The cancellation or termination under this section of the private mortgage insurance of amortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
+The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
 
 (Pub. L. 105–216, §3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -131,6 +133,8 @@ Subsec. (g)(2). Pub. L. 106–569, §403(a)(2)(B), struck out "mortgage or" afte
 Subsec. (g)(3). Pub. L. 106–569, §403(a)(2)(C), substituted "residential mortgage or residential" for "mortgage or".
 
 Subsec. (h). Pub. L. 106–569, §405(c), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

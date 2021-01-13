@@ -104,6 +104,8 @@ Pub. L. 93–400, §12, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §8, Oct. 
 
 In clause (12), the words "small business concerns owned and controlled by service-disabled veterans" are added to conform to section 15(g)(1) of the Small Business Act (15:644(g)(1)).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 31(b) of the Small Business Act, referred to in subsec. (a)(11), (12), is classified to section 657a(b) of Title 15, Commerce and Trade.
@@ -113,6 +115,8 @@ Section 31(b) of the Small Business Act, referred to in subsec. (a)(11), (12), i
 <b>2017</b>—Subsec. (a)(11), (12). Pub. L. 115–91, §1701(a)(4)(F)(i), substituted "section 31(b) of the Small Business Act" for "section 3(p) of the Small Business Act (15 U.S.C. 632(p))".
 
 <b>2011</b>—Subsec. (a)(5). Pub. L. 112–81 amended par. (5) generally. Prior to amendment, par. (5) related to the purposes of the activities of the Federal Acquisition Institute.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

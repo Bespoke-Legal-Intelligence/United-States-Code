@@ -48,7 +48,7 @@
 
 &emsp;(C) capable, in accordance with the Coast Guard capacity rating, when applicable, of safely holding all individuals on board the vessel to which the craft functions as an auxiliary.
 
-(c)(1) In addition to the requirements described in subsections (a) and (b) of this section, the Secretary may prescribe regulations establishing the standards in paragraph (2) of this subsection for vessels to which this chapter applies that—
+(c)(1) In addition to the requirements described in subsections (a) and (b) of this section,the Secretary may prescribe regulations establishing the standards in paragraph (2) of this subsection for vessels to which this chapter applies that—
 
 &emsp;(A)(i) were built after December 31, 1988, or undergo a major conversion completed after that date; and
 
@@ -128,23 +128,33 @@
 
 (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard <sup>1</sup> shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for grants under this subsection.
 
 (j)(1) The Secretary of Health and Human Services shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
 
 (2) The Secretary of Health and Human Services, in consultation with and based on criteria established by the Commandant of the Coast Guard, shall award grants under this subsection on a competitive basis.
 
-(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 50 percent.
+(3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2019 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for activities under this subsection.
 
 (k) For the purposes of this section, the term "auxiliary craft" means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18,2014, 128 Stat. 3045; Pub. L. 115–282, title V, §§504–506, Dec. 4, 2018, 132 Stat. 4271.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045; Pub. L. 115–282, title V, §§504–506, Dec. 4, 2018, 132 Stat. 4271; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8321(a), (b), Jan. 1, 2021, 134 Stat. 4701.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(3). Pub. L. 116–283, §8321(a)(1), substituted "75 percent" for "50 percent".
+
+Subsec. (i)(4). Pub. L. 116–283, §8321(a)(2), substituted "2021" for "2019".
+
+Subsec. (j)(3). Pub. L. 116–283, §8321(b)(1), substituted "75 percent" for "50 percent".
+
+Subsec. (j)(4). Pub. L. 116–283, §8321(b)(2), substituted "2021" for "2019".
 
 <b>2018</b>—Subsec. (b)(2)(B). Pub. L. 115–282, §504(1), substituted "subject to paragraph (3), a survival craft" for "a survival craft".
 
@@ -250,6 +260,8 @@ Subsec. (f). Pub. L. 101–595, §602(c)(2), amended subsec. (f) generally. Prio
 
 <b>1984</b>—Subsec. (b)(3). Pub. L. 98–557 substituted "this chapter" for "the exemption".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: "This section \[amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under section 7306 of this title\] is effective on the date of enactment of this section \[Nov. 16, 1990\] except as follows:
@@ -275,6 +287,10 @@ Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided t
 &emsp;&emsp;"(C) did not have a load line assigned at any time before the date of enactment of this Act.
 
 &emsp;"(4) The requirements imposed by section 8702(b)(2) of title 46, United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act."
+
+#### Fishing Safety Grants
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8321(c), Jan. 1, 2021, 134 Stat. 4702, provided that: "The cap on the Federal share of the cost of any activity carried out with a grant under subsections (i) and (j) of section 4502 of title 46, United States Code, as in effect prior to the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 \[Dec. 4, 2018\], shall apply to any funds appropriated under the Consolidated Appropriations Act, 2017 (Public Law 115–31) \[see Tables for classification\] for the purpose of making such grants."
 
 #### Commercial Fishing Vessel Safety National Communications Plan
 
@@ -329,6 +345,8 @@ Report and Updates.—The Secretary of the department in which the Coast Guard i
 Pub. L. 100–424, §5(a), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of Transportation, utilizing National Academy of Engineering and in consultation with National Transportation Safety Board, Commercial Fishing Industry Vessel Advisory Committee, and fishing industry, to conduct a study of safety problems on fishing industry vessels, and to make recommendations regarding whether a vessel inspection program could be implemented for fishing vessels, fish tender vessels, and fish processing vessels, including recommendations on nature and scope of that inspection, and further provided for submission of the study and recommendations to Congress before Jan. 1, 1990.
 
 Pub. L. 100–424, §5(b), Sept. 9, 1988, 102 Stat. 1591, directed Secretary of department in which Coast Guard is operating, in consultation with Commercial Fishing Industry Vessel Advisory Committee established under former section 4508 of this title, and with representatives of persons operating fish processing vessels to conduct a study of fish processing vessels that are not surveyed and classed by an organization approved by Secretary, and to make recommendations regarding what hull and machinery requirements could apply to such vessels to ensure that those vessels are operated and maintained in a condition in which they are safe to operate at sea, and further provided for submission of such study and recommendations to Congress before July 28, 1991.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

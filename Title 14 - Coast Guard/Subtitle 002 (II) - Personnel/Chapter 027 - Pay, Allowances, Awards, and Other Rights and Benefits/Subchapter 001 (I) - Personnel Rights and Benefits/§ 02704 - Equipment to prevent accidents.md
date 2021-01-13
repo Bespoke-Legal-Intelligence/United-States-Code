@@ -14,6 +14,8 @@ Said section would in no way be affected.
 
 Inasmuch as the act cited above applies to executive departments generally, it is not scheduled for repeal by this act. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2704 was renumbered section 4904 of this title.
@@ -21,6 +23,8 @@ A prior section 2704 was renumbered section 4904 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 477 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

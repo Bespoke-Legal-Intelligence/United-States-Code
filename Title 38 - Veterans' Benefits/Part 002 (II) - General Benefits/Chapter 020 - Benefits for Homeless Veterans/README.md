@@ -28,6 +28,7 @@
 | [2021\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002021%20-%20Homeless%20veterans%20reintegration%20programs.md) | Homeless veterans reintegration programs. |
 | [2021A.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002021A%20-%20Homeless%20women%20veterans%20and%20homeless%20veterans%20with%20children%20reintegration%20grant%20program.md) | Homeless women veterans and homeless veterans with children reintegration grant program. |
 | [2022\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002022%20-%20Coordination%20of%20outreach%20services%20for%20veterans%20at%20risk%20of%20homelessness.md) | Coordination of outreach services for veterans at risk of homelessness. |
+| [2022A.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002022A%20-%20Legal%20services%20for%20homeless%20veterans%20and%20veterans%20at%20risk%20for%20homelessness.md) | Legal services for homeless veterans and veterans at risk for homelessness. |
 | [2023\.](Subchapter%20003%20%28III%29%20-%20Training%20and%20Outreach/%C2%A7%2002023%20-%20Referral%20and%20counseling%20services%20veterans%20at%20risk%20of%20homelessness%20who%20are%20transitioning%20from%20certain%20institutions.md) | Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,7 +80,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title IV, §4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
 
 <b>2016</b>—Pub. L. 114–315, title VII, §§712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 "Authorization of appropriations".
 

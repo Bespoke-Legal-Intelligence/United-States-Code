@@ -32,7 +32,7 @@
 
 &emsp;(13) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fish taken or retained in violation of this chapter or any regulation, permit, or the Treaty, with the knowledge that the fish were so taken or retained.
 
-(b) Except as provided in section 973d of this title, it is unlawful for any person subject to the jurisdiction of the United States when in the Licensing Area—
+(b) Except as provided in section 973d of this title, it is unlawful for any person subject to thejurisdiction of the United States when in the Licensing Area—
 
 &emsp;(1) to use a vessel to fish unless validly licensed as required by the Administrator;
 

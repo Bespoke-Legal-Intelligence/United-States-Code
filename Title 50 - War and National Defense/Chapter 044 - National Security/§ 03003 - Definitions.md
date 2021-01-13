@@ -66,7 +66,7 @@ Section was formerly classified to section 401a of this title prior to editorial
 
 #### Amendments
 
-<b>2012</b>—Par. (4)(K). Pub. L. 112–87, §431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read asfollows: "The elements of the Department of Homeland Security concerned with the analysis of intelligence information."
+<b>2012</b>—Par. (4)(K). Pub. L. 112–87, §431, amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: "The elements of the Department of Homeland Security concerned with the analysis of intelligence information."
 
 Par. (6). Pub. L. 112–87, §505(1), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
@@ -120,15 +120,25 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
 
-#### Delegation of Functions
-
-For assignment of function of President under par. (5)(A) of this section to Director of National Intelligence, see Ex. Ord. No. 12333, §1.3(a)(1), Dec. 4, 1981, 46 F.R. 59941, as amended, set out as a note under section 3001 of this title.
-
 #### Authority of Secretary of State
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
 
 #### Definitions Applicable to Specific Acts
+
+Pub. L. 116–260, div. W, §2, Dec. 27, 2020, 134 Stat. 2362, provided that: "In this division \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Congressional intelligence committees.—The term 'congressional intelligence committees' means—
+
+&emsp;&emsp;"(A) the Select Committee on Intelligence and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Intelligence community.—The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
 
 Pub. L. 116–92, div. E, §5003, Dec. 20, 2019, 133 Stat. 2115, provided that: "In this division \[see Tables for classification\]:
 
@@ -237,4 +247,8 @@ Congressional intelligence committees.—The term 'congressional intelligence co
 &emsp;"(2)
 
 Intelligence community.—The term 'intelligence community' has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]."
+
+#### Delegation of Functions
+
+For assignment of function of President under par. (5)(A) of this section to Director of National Intelligence, see Ex. Ord. No. 12333, §1.3(a)(1), Dec. 4, 1981, 46 F.R. 59941, as amended, set out as a note under section 3001 of this title.
 

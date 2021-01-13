@@ -54,7 +54,7 @@
 
 #### (B) Software and peripheral devices
 
-&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral deviceat a workstation of a Federal employee who is not an individual with a disability.
+&emsp;&emsp;Except as required to comply with standards issued by the Access Board under paragraph (2), nothing in paragraph (1) requires the installation of specific accessibility-related software or the attachment of a specific accessibility-related peripheral device at a workstation of a Federal employee who is not an individual with a disability.
 
 #### (b) Technical assistance
 
@@ -84,7 +84,7 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 #### (A) Complaints
 
-&emsp;&emsp;Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
+&emsp;&emsp;Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaintalleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
 
 #### (B) Application
 
@@ -103,6 +103,8 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
 
 (Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, §2405, July 13, 2000, 114 Stat. 555.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. C, title XXXV, §3504(b), Aug. 13, 2018, 132 Stat. 2308, struck out item 53912 "Expiration date".

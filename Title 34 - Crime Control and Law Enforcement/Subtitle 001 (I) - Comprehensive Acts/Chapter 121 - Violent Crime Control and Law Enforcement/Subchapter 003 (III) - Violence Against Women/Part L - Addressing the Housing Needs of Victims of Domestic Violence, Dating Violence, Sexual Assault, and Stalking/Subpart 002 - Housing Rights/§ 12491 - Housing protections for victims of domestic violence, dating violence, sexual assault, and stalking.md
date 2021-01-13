@@ -44,7 +44,7 @@ In this subpart:
 
 #### (1) In general
 
-&emsp;An applicant for or tenant of housing assisted under a covered housing program may not be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
+&emsp;An applicant for or tenant of housing assisted under a covered housing program maynot be denied admission to, denied assistance under, terminated from participation in, or evicted from the housing on the basis that the applicant or tenant is or has been a victim of domestic violence, dating violence, sexual assault, or stalking, if the applicant or tenant otherwise qualifies for admission, assistance, participation, or occupancy.
 
 #### (2) Construction of lease terms
 
@@ -84,7 +84,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(iii) to limit the authority to terminate assistance to a tenant or evict a tenant from housing assisted under a covered housing program if a public housing agency or owner or manager of the housing can demonstrate that an actual and imminent threat to other tenants or individuals employed at or providing service to the property would be present if the assistance is not terminated or the tenant is not evicted; or
 
-&emsp;&emsp;&emsp;(iv) to supersede any provision of any Federal, State, or local law that providesgreater protection than this section for victims of domestic violence, dating violence, sexual assault, or stalking.
+&emsp;&emsp;&emsp;(iv) to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, sexual assault, or stalking.
 
 #### (c) Documentation
 
@@ -203,6 +203,8 @@ The Secretary of Housing and Urban Development shall establish policies and proc
 The appropriate agency with respect to each covered housing program shall implement this section, as this section applies to the covered housing program.
 
 (Pub. L. 103–322, title IV, §41411, as added Pub. L. 113–4, title VI, §601(a)(4), Mar. 7, 2013, 127 Stat. 102; amended Pub. L. 114–324, §6, Dec. 16, 2016, 130 Stat. 1951.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

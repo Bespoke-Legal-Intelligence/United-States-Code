@@ -32,7 +32,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States;
+&emsp;&emsp;&emsp;(ii) Mexico, as a party to the USMCA (as defined in section 4502 of this title), a product or service of that country or instrumentality which is covered under the USMCA for procurement by the United States;
 
 &emsp;&emsp;&emsp;(iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
 
@@ -60,7 +60,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel, regardless of the thresholds provided for in the Agreement (as defined in paragraph (1)), or
 
-&emsp;&emsp;&emsp;(ii) any subsequent agreement between the United States and Israel which lowerson a reciprocal basis the applicable threshold for entities covered by the Agreement.
+&emsp;&emsp;&emsp;(ii) any subsequent agreement between the United States and Israel which lowers on a reciprocal basis the applicable threshold for entities covered by the Agreement.
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
@@ -78,7 +78,7 @@ As used in this subchapter—
 
 &emsp;The term "major industrial country" means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, §401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, §401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, §401, Oct. 21, 2011, 125 Stat. 529.)
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, §401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, §401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, §401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, §401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, §401, Oct. 21, 2011, 125 Stat. 529; Pub. L. 116–113, title V, §505(b), Jan. 29, 2020, 134 Stat. 77.)
 
 #### Amendment of Section
 
@@ -106,6 +106,8 @@ Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96�
 
 #### Amendments
 
+<b>2020</b>—Par. (4)(A)(ii). Pub. L. 116–113 substituted "Mexico, as a party to the USMCA (as defined in section 4502 of this title)," for "a party to the North American Free Trade Agreement," and "the USMCA for" for "the North American Free Trade Agreement for".
+
 <b>2011</b>—Par. (4)(A)(viii). Pub. L. 112–41, §§107(c), 401, temporarily added cl. (viii). See Effective and Termination Dates of 2011 Amendment note below.
 
 Par. (4)(A)(ix). Pub. L. 112–42, §§107(c), 401, temporarily added cl. (ix). See Effective and Termination Dates of 2011 Amendment note below.
@@ -130,11 +132,15 @@ Par. (4)(C). Pub. L. 103–465, §342(f)(2)(A), substituted "for which the Unite
 
 Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted "the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement." for "GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement."
 
-<b>1993</b>—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'eligible product' means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which iscovered under the Agreement for procurement by the United States."
+<b>1993</b>—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The term 'eligible product' means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States."
 
 <b>1988</b>—Par. (4)(D). Pub. L. 100–449 temporarily added subpar. (D). See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1985</b>—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020) and applicable with respect to a procurement on or after that date, see section 505(c) of Pub. L. 116–113, set out as a note under section 2511 of this title.
 
 #### Effective and Termination Dates of 2011 Amendment
 
@@ -168,7 +174,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, set out as a note under section 2511 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, formerly set out as a note under section 2511 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 

@@ -132,7 +132,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;&emsp;&emsp;(i) planning for prerelease transitional housing and community release that begins upon admission for juveniles and jail inmates, and, as appropriate, for prison inmates, depending on the length of the sentence;
 
-&emsp;&emsp;&emsp;(ii) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
+&emsp;&emsp;&emsp;(ii) establishing prerelease planning procedures to ensure that the eligibility of anoffender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
 
 &emsp;&emsp;&emsp;(iii) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, vocational services, and any other service or support needed for reentry;
 
@@ -188,7 +188,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (2) Local evaluator
 
-&emsp;A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data andtarget population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
+&emsp;A partnership with a local evaluator described in subsection (d)(2) shall require the local evaluator to use the baseline data and target population characteristics developed under a subsection (e) planning grant to derive a target goal for recidivism reduction during the 3-year period beginning on the date of implementation of the program.
 
 #### (3) Coordination
 
@@ -204,7 +204,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;As a condition of receiving financial assistance under subsection (f), each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families andcommunities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
 &emsp;&emsp;(B) provide the analysis described in subsection (f)(2)(D).
 
@@ -424,6 +424,8 @@ In this section, the term "reentry court" means a program that—
 
 (Pub. L. 90–351, title I, §2976, as added Pub. L. 107–273, div. B, title II, §2421(a), Nov. 2, 2002, 116 Stat. 1801; amended Pub. L. 110–199, title I, §101, Apr. 9, 2008, 122 Stat. 661; Pub. L. 114–255, div. B, title XIV, §§14006, 14009(a), Dec. 13, 2016, 130 Stat. 1296, 1297; Pub. L. 115–391, title V, §502(a), Dec. 21, 2018, 132 Stat. 5222.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 60541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in the original "section 234(c)(2) of the Second Chance Act of 2007", and was translated as reading "section 231(d)(3)(B) of the Second Chance Act of 2007", meaning section 231(d)(3)(B) of Pub. L. 110–199, to reflect the probable intent of Congress, because Pub. L. 110–199 does not contain a section 234(c)(2), and section 231(d)(3)(B) of Pub. L. 110–199 relates to the selection of a measure for recidivism to be used by the Director of the Bureau of Justice Statistics.
@@ -442,7 +444,7 @@ Subsec. (b)(8). Pub. L. 115–391, §502(a)(2)(B)–(D), added par. (8).
 
 Subsecs. (d) to (f). Pub. L. 115–391, §502(a)(3), added subsecs. (d) to (f) and struck out former subsecs. (d) to (f) which related to applications, requirements, and priority considerations for grants, respectively.
 
-Subsec. (h)(1), (2). Pub. L. 115–391, §502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: "As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds madeavailable under this section." Former par. (2) redesignated (3).
+Subsec. (h)(1), (2). Pub. L. 115–391, §502(a)(4)(B), added pars. (1) and (2) and struck out former par. (1). Prior to amendment, text of former par. (1) read as follows: "As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section." Former par. (2) redesignated (3).
 
 Subsec. (h)(3), (4). Pub. L. 115–391, §502(a)(4)(A), redesignated pars. (2) and (3) as (3) and (4), respectively.
 
@@ -515,6 +517,8 @@ Subsec. (o)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prio
 &emsp;"(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 
 &emsp;"(B) not more than 3 percent or less than 2 percent may be used for technical assistance and training."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2008 Amendment
 

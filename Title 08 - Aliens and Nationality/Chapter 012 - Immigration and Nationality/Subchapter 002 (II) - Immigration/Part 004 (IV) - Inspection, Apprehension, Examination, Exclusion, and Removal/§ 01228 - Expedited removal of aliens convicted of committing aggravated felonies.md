@@ -92,9 +92,11 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (5) Stipulated judicial order of removal
 
-&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
+&emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United Statesas a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -258,6 +260,8 @@ Subsec. (e). Pub. L. 103–322, §130004(c)(6), redesignated subsec. (e) as par.
 
 <b>1990</b>—Subsec. (d)(2). Pub. L. 101–649 struck out before period at end ", unless the chief prosecutor or the judge in whose jurisdiction conviction occurred submits a written request to the Attorney General that such alien be so deported".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendments
 
 Pub. L. 104–208, div. C, title III, §304(c)(2), Sept. 30, 1996, 110 Stat. 3009–597, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of section 442(a) of Public Law 104–132."
@@ -276,7 +280,7 @@ Pub. L. 104–132, title IV, §442(d), Apr. 24, 1996, 110 Stat. 1280, provided t
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 224(a) of Pub. L. 103–416 applicable to all aliens whose adjudication of guilt or guiltyplea is entered in the record after Oct. 25, 1994, see section 224(c) of Pub. L. 103–416, set out as a note under section 1252 of this title.
+Amendment by section 224(a) of Pub. L. 103–416 applicable to all aliens whose adjudication of guilt or guilty plea is entered in the record after Oct. 25, 1994, see section 224(c) of Pub. L. 103–416, set out as a note under section 1252 of this title.
 
 Pub. L. 103–322, title XIII, §130004(d), Sept. 13, 1994, 108 Stat. 2028, provided that: "The amendments made by this section \[amending this section and section 1105a of this title\] shall apply to all aliens against whom deportation proceedings are initiated after the date of enactment of this Act \[Sept. 13, 1994\]."
 

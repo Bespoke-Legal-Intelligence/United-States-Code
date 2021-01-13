@@ -24,7 +24,7 @@
 
 #### (b) Intelligence community reports
 
-(1)(A) Not later than March 1 of each year, the Director of National Intelligence shall submit areport to the congressional intelligence committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives regarding the security clearances processed by each element of the intelligence community during the preceding fiscal year.
+(1)(A) Not later than March 1 of each year, the Director of National Intelligence shall submit a report to the congressional intelligence committees, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Oversight and Reform of the House of Representatives regarding the security clearances processed by each element of the intelligence community during the preceding fiscal year.
 
 (B) The Director shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives such portions of the report submitted under subparagraph (A) as the Director determines address elements of the intelligence community that are within the Department of Defense.
 

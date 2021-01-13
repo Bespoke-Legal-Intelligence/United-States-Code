@@ -8,6 +8,8 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 753; Pub. L. 93–191, §9, Dec. 18, 1973, 87 Stat. 745; Pub. L. 94–553, §105(e), Oct. 19, 1976, 90 Stat. 2599.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–553 substituted "subsection (b)" for "subsections (b) and (c)".
@@ -15,6 +17,8 @@
 Subsecs. (c), (d). Pub. L. 94–553 redesignated subsec. (d) as (c). Former subsec. (c), directing the Library of Congress to transfer to the Postal Service as postal revenues out of any appropriations made to the Library for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (5) of section 3202(a) of this title, was struck out.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–191 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

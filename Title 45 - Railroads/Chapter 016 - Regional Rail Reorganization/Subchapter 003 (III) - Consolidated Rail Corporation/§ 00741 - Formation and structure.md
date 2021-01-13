@@ -18,7 +18,7 @@ The Corporation shall be a for-profit corporation established under the laws of 
 
 (1) Notwithstanding any provision of State law, the articles of incorporation and bylaws of the Corporation shall provide that the Board of Directors of the Corporation shall consist of 13 members selected in accordance with the articles and bylaws of the Corporation, as follows:
 
-&emsp;(A) six individuals selected by the holders of the Corporation's debentures and series A preferred stock voting as one class, with every $100 principal amount of debentures, and every $100 liquidation amount of series A preferred stock each receiving one vote for directors;
+&emsp;(A) six individuals selected by the holders of the Corporation's debentures and series A preferred stock voting as one class, with every $100 principal amount of debentures, and every$100 liquidation amount of series A preferred stock each receiving one vote for directors;
 
 &emsp;(B) three individuals selected by the holders of the Corporation's series B preferred stock; and
 
@@ -116,6 +116,8 @@ The provisions of this chapter shall not apply to the Corporation and to activit
 
 (Pub. L. 93–236, title III, §301, Jan. 2, 1974, 87 Stat. 1004; Pub. L. 94–210, title VI, §§608, 611, 612(j)(1), (3), (m), Feb. 5, 1976, 90 Stat. 99, 105, 109, 110; Pub. L. 94–216, §§1, 3, Feb. 17, 1976, 90 Stat. 191; Pub. L. 94–248, §4, Mar. 25, 1976, 90 Stat. 286; Pub. L. 97–35, title XI, §1141, Aug. 13, 1981, 95 Stat. 653; Pub. L. 99–509, title IV, §4032, Oct. 21, 1986, 100 Stat. 1906; Pub. L. 104–88, title III, §327(2), Dec. 29, 1995, 109 Stat. 951.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
@@ -165,6 +167,8 @@ Subsec. (i). Pub. L. 94–216, §§1, 3, redesignated former subsec. (h) "Liabil
 Pub. L. 94–210, §612(m), added subsec. (i) "Corporate simplification".
 
 Subsec. (j). Pub. L. 94–216, §1, redesignated former subsec. (i) "Corporate simplification" as (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

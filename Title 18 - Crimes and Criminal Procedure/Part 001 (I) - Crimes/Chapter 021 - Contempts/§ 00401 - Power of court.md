@@ -18,6 +18,8 @@ Said section 385 conferred two powers. The first part authorizing courts of the 
 
 Changes in phraseology and arrangement were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 inserted "or both," after "fine or imprisonment," in introductory provisions.

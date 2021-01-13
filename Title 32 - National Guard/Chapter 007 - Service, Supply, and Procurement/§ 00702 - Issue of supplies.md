@@ -44,6 +44,8 @@ In subsection (c), the words "the issue of" are substituted for the words "whene
 
 In subsection (d), the words "No property may be issued to \* \* \* unless that jurisdiction" are substituted for the words <i>"Provided</i>, That as a condition precedent to the issue of any property as provided for by this title" and "desiring such issue".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands" for "State or Territory or Puerto Rico".

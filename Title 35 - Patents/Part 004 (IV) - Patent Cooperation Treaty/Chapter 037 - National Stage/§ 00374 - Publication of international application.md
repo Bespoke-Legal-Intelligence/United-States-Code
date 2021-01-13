@@ -4,6 +4,8 @@ The publication under the treaty defined in section 351(a), of an international 
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 689; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566; Pub. L. 107–273, div. C, title III, §13205(2)(E), Nov. 2, 2002, 116 Stat. 1903; Pub. L. 112–29, §§3(g)(4), 20(j), Sept. 16, 2011, 125 Stat. 288, 335.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "351(a)" and after "and 154(d)".
@@ -14,9 +16,11 @@ Pub. L. 112–29, §3(g)(4), substituted "section 154(d)" for "sections 102(e) a
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, amended section catchline and text generally. Prior to amendment, text read as follows: "The publication under the treaty of an international application shall confer no rights and shall have no effect under this title other than that of a printed publication."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
-Amendment by section 3(g)(4) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Amendment by section 3(g)(4) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an EffectiveDate of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
@@ -26,5 +30,5 @@ Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to a
 
 #### Effective Date
 
-Section effective Jan. 24, 1978, and applicable to international and national applications filed, on andafter that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+Section effective Jan. 24, 1978, and applicable to international and national applications filed, on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 

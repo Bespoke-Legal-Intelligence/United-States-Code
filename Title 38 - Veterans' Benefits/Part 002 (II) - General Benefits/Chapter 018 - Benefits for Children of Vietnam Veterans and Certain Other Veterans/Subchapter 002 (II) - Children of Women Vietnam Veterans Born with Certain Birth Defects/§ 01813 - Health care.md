@@ -18,6 +18,8 @@ Definitions.—For purposes of this section, the definitions in section 1803(c) 
 
 (Added Pub. L. 106–419, title IV, §401(a), Nov. 1, 2000, 114 Stat. 1857.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1813 was renumbered section 3713 of this title.

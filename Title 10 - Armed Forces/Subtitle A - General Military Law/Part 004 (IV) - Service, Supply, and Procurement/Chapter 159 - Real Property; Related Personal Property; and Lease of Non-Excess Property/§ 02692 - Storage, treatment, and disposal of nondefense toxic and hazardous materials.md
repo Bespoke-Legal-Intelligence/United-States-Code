@@ -1,6 +1,6 @@
 ### §2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
 
-(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of thearmed forces (or a dependent of the member) assigned to or provided military housing on the installation.
+(a)(1) Except as otherwise provided in this section, the Secretary of Defense may not permit the use of an installation of the Department of Defense for the storage, treatment, or disposal of any material that is a toxic or hazardous material and that is not owned either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation.
 
 (2) The Secretary of Defense shall define by regulation what materials are hazardous or toxic materials for the purposes of this section, including specification of the quantity of a material that serves to make it hazardous or toxic for the purposes of this section. The definition shall include materials referred to in section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(14)) and materials designated under section 102 of that Act (42 U.S.C. 9602) and shall include materials that are of an explosive, flammable, or pyrotechnic nature.
 
@@ -24,7 +24,7 @@
 
 &emsp;(9) The storage of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of the Department of Defense, including the use of such a facility for testing material or training personnel.
 
-&emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connection with the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
+&emsp;(10) The treatment and disposal of any material that is not owned by the Department of Defense if the Secretary of the military department concerned determines that the material is required or generated in connectionwith the authorized and compatible use of a facility of that military department and the Secretary enters into a contract or agreement with the prospective user that—
 
 &emsp;&emsp;(A) is consistent with the best interest of national defense and environmental security; and
 

@@ -16,9 +16,13 @@ Based on title 28, U.S.C., 1940 ed., §842 (R.S. §989).
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Par. (2). Pub. L. 107–296 inserted ", the Director, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice," after "the Secretary of the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

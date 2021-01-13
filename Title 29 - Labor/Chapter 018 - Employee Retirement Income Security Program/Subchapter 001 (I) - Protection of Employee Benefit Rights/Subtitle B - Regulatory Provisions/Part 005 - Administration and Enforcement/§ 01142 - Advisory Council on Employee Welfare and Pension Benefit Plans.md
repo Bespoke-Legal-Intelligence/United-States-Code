@@ -22,13 +22,15 @@ The Secretary shall furnish to the Council an executive secretary and such secre
 
 (1) Members of the Council shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council.
 
-(2) While away from their homes or regular places of business in the performance of services for Council,<sup>2</sup> members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
+(2) While away from their homes or regular places of business in the performance of services for Council, <sup>2</sup> members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
 
 #### (e) Termination
 
 Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
 (Pub. L. 93–406, title I, §512, Sept. 2, 1974, 88 Stat. 895.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Section 1143(b) of this title, referred to in subsec. (b), was omitted from the 
 Section 5703 of title 5, referred to in subsec. (d)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -46,7 +46,7 @@ A prior section 7493, act Aug. 16, 1954, ch. 736, 68A Stat. 893, provided that n
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) ofPub. L. 105–277, set out as a note under section 1 of this title.
 
 #### Effective Date
 

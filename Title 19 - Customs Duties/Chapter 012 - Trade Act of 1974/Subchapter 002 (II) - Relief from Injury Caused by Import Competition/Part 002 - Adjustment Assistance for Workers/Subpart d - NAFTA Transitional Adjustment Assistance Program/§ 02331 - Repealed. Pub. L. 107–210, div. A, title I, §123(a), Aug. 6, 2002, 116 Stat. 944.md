@@ -16,5 +16,5 @@ In general.—The amendments made by this section \[amending sections 2275 and 2
 
 "(2)
 
-Workers certified as eligible before effective date.—Notwithstanding subsection (a), a workerreceiving benefits under chapter 2 of title II of the Trade Act of 1974 shall continue to receive (or be eligible to receive) benefits and services under chapter 2 of title II of the Trade Act of 1974, as in effect on the day before the amendments made by this section take effect under subsection (a), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date."
+Workers certified as eligible before effective date.—Notwithstanding subsection (a), a worker receiving benefits under chapter 2 of title II of the Trade Act of 1974 shall continue to receive (or be eligible to receive) benefits and services under chapter 2 of title II of the Trade Act of 1974, as in effect on the day before the amendments made by this section take effect under subsection (a), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date."
 

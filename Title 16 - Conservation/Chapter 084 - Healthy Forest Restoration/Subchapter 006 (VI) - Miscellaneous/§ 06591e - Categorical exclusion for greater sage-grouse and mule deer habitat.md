@@ -210,7 +210,7 @@ Subject to applicable local restrictions, any vegetative material resulting from
 
 #### (1) Project size
 
-&emsp;A covered vegetation management activity that is covered by the categorical exclusionunder subsection (b) may not exceed 4,500 acres.
+&emsp;A covered vegetation management activity that is covered by the categorical exclusion under subsection (b) may not exceed 4,500 acres.
 
 #### (2) Location
 

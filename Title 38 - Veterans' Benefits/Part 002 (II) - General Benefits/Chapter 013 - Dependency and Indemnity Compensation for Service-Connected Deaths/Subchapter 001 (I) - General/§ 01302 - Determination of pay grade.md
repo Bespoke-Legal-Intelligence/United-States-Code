@@ -1,8 +1,8 @@
 ### §1302. Determination of pay grade
 
-(a) With respect to a veteran who died in the active military, naval, or air service, such veteran's pay grade shall be determined as of the date of such veteran's death or as of the date of a promotion after death while in a missing status.
+(a) With respect to a veteran who died in the active military, naval, air, or space service, such veteran's pay grade shall be determined as of the date of such veteran's death or as of the date of a promotion after death while in a missing status.
 
-(b) With respect to a veteran who did not die in the active military, naval, or air service, such veteran's pay grade shall be determined as of—
+(b) With respect to a veteran who did not die in the active military, naval, air, or space service, such veteran's pay grade shall be determined as of—
 
 &emsp;(1) the time of such veteran's last discharge or release from active duty under conditions other than dishonorable; or
 
@@ -14,9 +14,13 @@
 
 (e) The pay grade of any person not otherwise described in this section, but who had a compensable status on the date of such person's death under laws administered by the Secretary, shall be determined by the head of the department under which such person performed the services by which such person obtained such status (taking into consideration such person's duties and responsibilities) and certified to the Secretary. For the purposes of this chapter, such person shall be deemed to have been on active duty while performing such services.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1126, §402; Pub. L. 86–492, June 8, 1960, 74 Stat. 161; Pub. L. 89–622, §1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 91–96, §1, Oct. 27, 1969, 83 Stat. 144; Pub. L. 92–169, §2, Nov. 24, 1971, 85 Stat. 489; Pub. L. 94–433, title IV, §405(1)–(3), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 102–54, §14(b)(2), June 13, 1991, 105 Stat. 283; renumbered §1302 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1126, §402; Pub. L. 86–492, June 8, 1960, 74 Stat. 161; Pub. L. 89–622, §1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 91–96, §1, Oct. 27, 1969, 83 Stat. 144; Pub. L. 92–169, §2, Nov. 24, 1971, 85 Stat. 489; Pub. L. 94–433, title IV, §405(1)–(3), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 102–54, §14(b)(2), June 13, 1991, 105 Stat. 283; renumbered §1302 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 116–283, div. A, title IX, §926(a)(17), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 402 of this title as this section.
 
@@ -53,6 +57,8 @@ Subsec. (e). Pub. L. 91–96 redesignated former subsec. (c)(2) as (e), substitu
 <b>1966</b>—Subsec. (d). Pub. L. 89–622 substituted "any subsequent discharge or release from active duty was under conditions other than dishonorable" for "was so serving in such rank within one hundred and twenty days before death in the active military, naval, or air service or before last discharge or release from active duty under conditions other than dishonorable".
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–492 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

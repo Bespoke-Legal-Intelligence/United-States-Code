@@ -22,7 +22,7 @@ The fund shall consist of amounts deposited in the fund, from time to time deriv
 
 Moneys in the fund may be used for the following purposes:
 
-&emsp;(1) reclamation and restoration of land and water resources adversely affected by past coal mining, including but not limited to reclamation and restoration of abandoned surface mine areas, abandoned coal processing areas, and abandoned coal refuse disposal areas; sealing and filling abandoned deep mine entries and voids; planting of land adversely affected by past coal mining to prevent erosion and sedimentation; prevention, abatement, treatment, and control of water pollution created by coal mine drainage including restoration of stream beds, and construction and operation of water treatment plants; prevention, abatement, and control of burning coal refuse disposal areas and burning coal in situ; prevention, abatement, and control of coal mine subsidence; and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which havereclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(1) of this title;
+&emsp;(1) reclamation and restoration of land and water resources adversely affected by past coal mining, including but not limited to reclamation and restoration of abandoned surface mine areas, abandoned coal processing areas, and abandoned coal refuse disposal areas; sealing and filling abandoned deep mine entries and voids; planting of land adversely affected by past coal mining to prevent erosion and sedimentation; prevention, abatement, treatment, and control of water pollution created by coal mine drainage including restoration of stream beds, and construction and operation of water treatment plants; prevention, abatement, and control of burning coal refuse disposal areas and burning coal in situ; prevention, abatement, and control of coal mine subsidence; and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(1) of this title;
 
 &emsp;(2) acquisition and filling of voids and sealing of tunnels, shafts, and entryways under section 1239 of this title;
 
@@ -120,13 +120,15 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 (Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, §201(a), Dec. 20, 2006, 120 Stat. 3006.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 "(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;" and
 
-"(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;".
+"(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Actswith public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;".
 
 Subsec. (d). Pub. L. 109–432, §201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: "Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations."
 
@@ -153,6 +155,8 @@ Subsec. (c)(10) to (12). Pub. L. 101–508, §6002(b)(5), added pars. (10) and (
 Subsec. (e). Pub. L. 101–508, §6002(c), added subsec. (e).
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–473 inserted at end "and establishment of self-sustaining, individual State administered programs to insure private property against damages caused by land subsidence resulting from underground coal mining in those States which have reclamation plans approved in accordance with section 1253 of this title: <i>Provided</i>, That funds used for this purpose shall not exceed $3,000,000 of the funds made available to any State under section 1232(g)(2) of this title;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

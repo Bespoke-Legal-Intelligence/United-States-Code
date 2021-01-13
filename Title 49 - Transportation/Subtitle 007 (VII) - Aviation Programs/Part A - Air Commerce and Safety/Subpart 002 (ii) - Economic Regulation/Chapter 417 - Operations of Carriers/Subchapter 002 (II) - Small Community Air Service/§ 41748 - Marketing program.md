@@ -10,7 +10,7 @@ Matching Requirement; Success Bonuses—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come fromnon-Federal sources. For purposes of this section—
+In general.—Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come from non-Federal sources. For purposes of this section—
 
 &emsp;&emsp;(A) the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
 

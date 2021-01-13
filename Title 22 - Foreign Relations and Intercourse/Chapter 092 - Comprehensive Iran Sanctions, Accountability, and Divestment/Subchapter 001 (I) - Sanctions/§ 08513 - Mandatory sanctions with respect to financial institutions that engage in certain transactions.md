@@ -184,7 +184,7 @@ In implementing this section and the regulations prescribed under this section, 
 
 #### (C) Financial institution
 
-&emsp;&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Y) of section 5312(a)(2) of title 31.
+&emsp;&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (Z) of section 5312(a)(2) of title 31.
 
 #### (D) Foreign financial institution; domestic financial institution
 
@@ -198,11 +198,13 @@ In implementing this section and the regulations prescribed under this section, 
 
 &emsp;The Secretary of the Treasury may further define the terms used in this section in the regulations prescribed under this section.
 
-(Pub. L. 111–195, title I, §104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§214(a),215(a), title III, §312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249.)
+(Pub. L. 111–195, title I, §104, July 1, 2010, 124 Stat. 1331; Pub. L. 112–158, title II, §§214(a), 215(a), title III, §312(b), (c), Aug. 10, 2012, 126 Stat. 1231, 1249; Pub. L. 116–283, div. F, title LXI, §6110(e)(1)(A), Jan. 1, 2021, 134 Stat. 4563.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 8551(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -211,6 +213,8 @@ The International Emergency Economic Powers Act, referred to in subsecs. (c)(2)(
 The Classified Information Procedures Act, referred to in subsec. (g)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(1)(C). Pub. L. 116–283 substituted "(Z)" for "(Y)".
 
 <b>2012</b>—Subsec. (c)(2)(B). Pub. L. 112–158, §214(a), substituted "of—" for "of", inserted cl. (i) designation before "a person subject", and added cl. (ii).
 
@@ -221,6 +225,8 @@ Subsec. (c)(4). Pub. L. 112–158, §312(b), added par. (4).
 Subsec. (f). Pub. L. 112–158, §312(c)(1), inserted "or section 8513b of this title" after "subsection (c)" in introductory provisions.
 
 Subsec. (g). Pub. L. 112–158, §312(c)(2), substituted "paragraph (1) or (4) of subsection (c) or section 8513b of this title" for "subsection (c)(1)" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

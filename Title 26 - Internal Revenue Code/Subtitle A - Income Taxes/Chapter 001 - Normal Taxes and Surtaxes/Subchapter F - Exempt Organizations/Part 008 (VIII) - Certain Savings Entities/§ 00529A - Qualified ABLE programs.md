@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (2) Certain aggregated information
 
-&emsp;For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the precedingsentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
+&emsp;For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
 
 #### (3) Notice of establishment of ABLE account
 
@@ -240,7 +240,7 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
 
-The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ Subsec. (d)(3). Pub. L. 114–113, §303(b)(1), struck out "and State of residen
 
 Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "section 4".
 
-Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contractingState' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
 
 #### Effective Date of 2018 Amendment
 

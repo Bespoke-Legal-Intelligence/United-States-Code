@@ -62,7 +62,7 @@ Any information required to be compiled and made available under this section, o
 
 #### (d) Duration of disclosure requirements
 
-Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under thissection for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
 #### (e) Format for disclosures
 
@@ -116,7 +116,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 &emsp;&emsp;&emsp;(i) credit score data described in subsection (b)(6)(I), in a manner that is consistent with the purpose described in paragraph (1)(E); and
 
-&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described inparagraph (1)(E), and in a manner consistent with that purpose.
+&emsp;&emsp;&emsp;(ii) age or any other category of data described in paragraph (5) or (6) of subsection (b), as the Bureau determines to be necessary to satisfy the purpose described in paragraph (1)(E), and in a manner consistent with that purpose.
 
 #### (B) Standards
 
@@ -192,11 +192,11 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 #### (1) In general
 
-&emsp;In accordance with procedures established by the Bureau pursuant to this section, anydepository institution required to make disclosures under this section—
+&emsp;In accordance with procedures established by the Bureau pursuant to this section, any depository institution required to make disclosures under this section—
 
 &emsp;&emsp;(A) shall make a disclosure statement available, upon request, to the public no later than 3 business days after the institution receives the statement from the Federal Financial Institutions Examination Council; and
 
-&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media which is not prohibited under regulations prescribed by the Bureau.
+&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media whichis not prohibited under regulations prescribed by the Bureau.
 
 #### (2) Notice that data is subject to correction after final review
 
@@ -263,6 +263,8 @@ In this section—
 &emsp;(2) the term "insured depository institution" has the meaning given the term in section 1813 of this title.
 
 (Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I \[title VII, §701(a)\], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, §1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, §104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -352,6 +354,8 @@ Subsec. (a)(2)(A). Pub. L. 96–399, §340(a)(2), revised applicable factors so 
 
 Subsecs. (d) to (f). Pub. L. 96–399, §340(a)(3), added subsecs. (d) to (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
@@ -362,7 +366,7 @@ Pub. L. 102–550, title IX, §932(c), Oct. 28, 1992, 106 Stat. 3891, provided t
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
+Amendment by Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section 1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -370,7 +374,7 @@ Amendment by section 565(a)(2) of Pub. L. 100–242 applicable to the portion of
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
-Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc., and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
+Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc.,and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

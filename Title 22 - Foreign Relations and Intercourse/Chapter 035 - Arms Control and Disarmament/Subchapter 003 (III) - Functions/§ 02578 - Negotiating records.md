@@ -2,13 +2,15 @@
 
 #### (a) Preparation of records
 
-The Secretary of State shall establish and maintain records for each arms control, nonproliferation, and disarmament agreement to which the United States is a party and which was under negotiation or in force on or afterJanuary 1, 1990, which shall include classified and unclassified materials such as instructions and guidance, position papers, reporting cables and memoranda of conversation, working papers, draft texts of the agreement, diplomatic notes, notes verbal, and other internal and external correspondence.
+The Secretary of State shall establish and maintain records for each arms control, nonproliferation, and disarmament agreement to which the United States is a party and which was under negotiation or in force on or after January 1, 1990, which shall include classified and unclassified materials such as instructions and guidance, position papers, reporting cables and memoranda of conversation, working papers, draft texts of the agreement, diplomatic notes, notes verbal, and other internal and external correspondence.
 
 #### (b) Negotiating and implementation records
 
 In particular, the Secretary of State shall establish and maintain a negotiating and implementation record for each such agreement, which shall be comprehensive and detailed, and shall document all communications between the parties with respect to such agreement. Such records shall be maintained both in hard copy and magnetic media.
 
 (Pub. L. 87–297, title III, §307, formerly §38, as added Pub. L. 103–236, title VII, §713(a), Apr. 30, 1994, 108 Stat. 496; renumbered §307 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(12), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -19,6 +21,8 @@ A prior section 2578, Pub. L. 87–297, title III, §38, as added Pub. L. 100–
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–277, §1223(12)(A), substituted "Secretary of State" for "Director".
 
 Subsec. (c). Pub. L. 105–277, §1223(12)(B), struck out heading and text of subsec. (c). Text read as follows: "In order to implement effectively this section, the Director shall ensure that Agency personnel participate throughout the negotiation and implementation phases of all arms control, nonproliferation, and disarmament agreements."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

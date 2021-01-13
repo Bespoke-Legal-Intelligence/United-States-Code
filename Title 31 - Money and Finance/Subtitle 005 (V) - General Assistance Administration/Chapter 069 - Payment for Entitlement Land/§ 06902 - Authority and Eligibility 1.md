@@ -50,6 +50,8 @@ In subsection (c), the citation in parentheses for the Act of May 24, 1939, is i
 
 In subsection (d), the words "county or" are omitted as unnecessary because a county is a unit of general local government under section 6901 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–333 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Interior shall make a payment for each fiscal year to each unit of general local government in which entitlement land is located, as set forth in this chapter. A unit of general local government may use the payment for any governmental purpose."
@@ -65,6 +67,8 @@ In subsection (d), the words "county or" are omitted as unnecessary because a co
 "(d) If the total payment to a unit of general local government for a fiscal year would be less than $100, the Secretary may not make the payment."
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–93 substituted "acquisition, nor does this subsection apply to payments for lands in Utah acquired by the United States if at the time of such acquisition units, under applicable State law, were entitled to receive payments from the State for such lands, but in such case no payment under this chapter with respect to such acquired lands shall exceed the payment that would have been made under State law if such lands had not been acquired" for "acquisition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

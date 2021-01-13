@@ -28,7 +28,7 @@ Regulations with same effect.—If the Secretary decides a State law or regulati
 
 &emsp;(3)
 
-Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title,the State law or regulation may not be enforced.
+Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
 
 &emsp;(4)
 
@@ -66,7 +66,7 @@ Judicial Review and Venue.—(1) Not later than 60 days after the Secretary make
 
 (g)
 
-Initiating Review Proceedings.—To review a State law or regulation on commercial motor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary's own initiative or on petition of an interested person (including a State).
+Initiating Review Proceedings.—To review a State law or regulation on commercialmotor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary's own initiative or on petition of an interested person (including a State).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1008; Pub. L. 105–178, title IV, §4008(e), June 9, 1998, 112 Stat. 404.)
 

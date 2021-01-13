@@ -64,7 +64,7 @@ For purposes of this chapter—
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text defined "Agreed Measures", "Antarctica", "collect", "Director", "foreign person", "native bird", "native mammal", "native plant", "pollutant", "site of special scientific interest", "specially protected area", "specially protected species", "take", "Treaty", "United States", and "United States citizen".
+<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text defined "Agreed Measures", "Antarctica", "collect", "Director", "foreign person", "nativebird", "native mammal", "native plant", "pollutant", "site of special scientific interest", "specially protected area", "specially protected species", "take", "Treaty", "United States", and "United States citizen".
 
 #### Territorial Sea of United States
 

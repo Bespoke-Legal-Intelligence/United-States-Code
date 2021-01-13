@@ -86,7 +86,7 @@ Risk management.—For each major information technology investment listed under
 
 &emsp;&emsp;(C) in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
 
-&emsp;&emsp;(D) for a covered agency other than the Department of Defense, if on the date that isone year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
+&emsp;&emsp;(D) for a covered agency other than the Department of Defense, if on the date that is one year after the date of completion of the review required under subsection (A), the investment is rated as high risk under paragraph (3)(C), the Director shall deny any request for additional development, modernization, or enhancement funding for the investment until the date on which the Chief Information Officer of the covered agency determines that the root causes of the high level of risk of the investment have been addressed, and there is sufficient capability to deliver the remaining planned increments within the planned cost and schedule.
 
 &emsp;(5)
 
@@ -142,6 +142,8 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552 of Title 44, Public Printing and Documents.
@@ -155,6 +157,8 @@ Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub.
 <b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted "security," after "use,".
 
 Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted ", including information security risks," after "evaluating the risks" and "costs, benefits, and risks".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

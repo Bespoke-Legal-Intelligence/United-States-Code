@@ -8,7 +8,7 @@ For the purposes specified in this section there is authorized to be appropriate
 
 &emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however</i>, That such costs must be approved under said plan and certified by the responsible Federal official.
 
-&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decided pursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
+&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decidedpursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
 
 &emsp;(4) Payment of costs specified under subsection (c) of this section.
 
@@ -48,7 +48,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(3) Subject to such amounts as are provided in appropriation Acts, the costs of a program to identify, investigate, and take enforcement and abatement action against releases of hazardous substances.
 
-&emsp;(4) Any costs incurred in accordance with subsection (m) of this section (relating toATSDR) and section 9604(i) of this title, including the costs of epidemiologic and laboratory studies, health assessments, preparation of toxicologic profiles, development and maintenance of a registry of persons exposed to hazardous substances to allow long-term health effect studies, and diagnostic services not otherwise available to determine whether persons in populations exposed to hazardous substances in connection with a release or a suspected release are suffering from long-latency diseases.
+&emsp;(4) Any costs incurred in accordance with subsection (m) of this section (relating to ATSDR) and section 9604(i) of this title, including the costs of epidemiologic and laboratory studies, health assessments, preparation of toxicologic profiles, development and maintenance of a registry of persons exposed to hazardous substances to allow long-term health effect studies, and diagnostic services not otherwise available to determine whether persons in populations exposed to hazardous substances in connection with a release or a suspected release are suffering from long-latency diseases.
 
 &emsp;(5) Subject to such amounts as are provided in appropriation Acts, the costs of providing equipment and similar overhead, related to the purposes of this chapter and section 1321 of title 33, and needed to supplement equipment and services available through contractors or other non-Federal entities, and of establishing and maintaining damage assessment capability, for any Federal agency involved in strike forces, emergency task forces, or other response teams under the national contingency plan.
 
@@ -60,7 +60,7 @@ Evaluation costs under petition provisions of section 9605(d).—Costs incurred 
 
 &emsp;(8)
 
-Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studies undertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
+Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studiesundertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
 
 &emsp;(9)
 
@@ -138,7 +138,7 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 #### (m) Agency for Toxic Substances and Disease Registry
 
-There shall be directly available to the Agency for Toxic Substances and Disease Registry tobe used for the purpose of carrying out activities described in subsection (c)(4) and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
+There shall be directly available to the Agency for Toxic Substances and Disease Registry to be used for the purpose of carrying out activities described in subsection (c)(4) and section 9604(i) of this title not less than $50,000,000 per fiscal year for each of fiscal years 1987 and 1988, not less than $55,000,000 for fiscal year 1989, and not less than $60,000,000 per fiscal year for each of fiscal years 1990, 1991, 1992, 1993, and 1994. Any funds so made available which are not obligated by the end of the fiscal year in which made available shall be returned to the Fund.
 
 #### (n) Limitations on research, development, and demonstration program
 
@@ -266,7 +266,7 @@ Subsec. (h). Pub. L. 99–499, §111(c)(2), struck out subsec. (h) which read as
 
 Subsec. (i). Pub. L. 99–499, §207(d)(4), inserted "and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation," after "State,".
 
-Subsec. (k). Pub. L. 99–499, §111(g), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The Inspector General of each department or agency to which responsibility to obligate money in the Fund is delegated shall provide an audit reviewteam to audit all payments, obligations, reimbursements, or other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. Each such Inspector General shall submit to the Congress an interim report one year after the establishment of the Fund and a final report two years after the establishment of the Fund. Each such Inspector General shall thereafter provide such auditing of the Fund as is appropriate. Each Federal agency shall cooperate with the Inspector General in carrying out this subsection."
+Subsec. (k). Pub. L. 99–499, §111(g), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The Inspector General of each department or agency to which responsibility to obligate money in the Fund is delegated shall provide an audit review team to audit all payments, obligations, reimbursements, or other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. Each such Inspector General shall submit to the Congress an interim report one year after the establishment of the Fund and a final report two years after the establishment of the Fund. Each such Inspector General shall thereafter provide such auditing of the Fund as is appropriate. Each Federal agency shall cooperate with the Inspector General in carrying out this subsection."
 
 Subsecs. (m) to (p). Pub. L. 99–499, §111(h), (i), added subsecs. (m) to (p).
 

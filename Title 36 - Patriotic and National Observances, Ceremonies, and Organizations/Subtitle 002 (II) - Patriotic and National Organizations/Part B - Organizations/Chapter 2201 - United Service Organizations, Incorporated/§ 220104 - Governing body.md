@@ -50,6 +50,8 @@ In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word "Thereaf
 
 In subsection (b)(1), the word "offered" is substituted for "tendered" to use a more common word.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(2)(B). Pub. L. 109–284 substituted "Defense" for "State".

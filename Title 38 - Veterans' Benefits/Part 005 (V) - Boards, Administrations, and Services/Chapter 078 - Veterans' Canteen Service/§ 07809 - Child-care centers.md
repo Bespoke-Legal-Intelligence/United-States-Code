@@ -12,7 +12,7 @@
 
 &emsp;(2) may, on a reimbursable basis, convert space furnished under clause (1) of this subsection for use as the child-care center and provide other items necessary for the operation of the center, including furniture, office machines and equipment, and telephone service, except that the Secretary may furnish basic telephone service and surplus furniture and equipment without reimbursement;
 
-&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies to govern the operation of the center and in the oversight of the implementation of such policies;
+&emsp;(3) shall provide for the participation (directly or through a parent advisory committee) of parents of children receiving care in the center in the establishment of policies togovern the operation of the center and in the oversight of the implementation of such policies;
 
 &emsp;(4) shall require the development and use of a process for determining the fitness and suitability of prospective employees of or volunteers at the center; and
 
@@ -23,6 +23,8 @@
 (e) For the purpose of this section, the term "parent advisory committee" means a committee comprised of, and selected by, the parents of children receiving care in a child-care center operated under this section.
 
 (Added Pub. L. 100–322, title IV, §412(a), May 20, 1988, 102 Stat. 547, §4209; renumbered §7809 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(8), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

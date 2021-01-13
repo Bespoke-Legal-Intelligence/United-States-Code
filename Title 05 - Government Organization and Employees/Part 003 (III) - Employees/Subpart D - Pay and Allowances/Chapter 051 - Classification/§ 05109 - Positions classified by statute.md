@@ -42,6 +42,8 @@ In subsection (c), the words "Notwithstanding any other law" were omitted as unn
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 450d of title 7, referred to in subsec. (a), probably means section 2 of act Apr. 4, 1940, ch. 75, which was formerly classified to section 450d of Title 7, Agriculture, prior to editorial reclassification and renumbering as section 2204–2 of Title 7.
@@ -61,6 +63,8 @@ Section 450d of title 7, referred to in subsec. (a), probably means section 2 of
 <b>1974</b>—Subsec. (c). Pub. L. 93–406 added subsec. (c). A prior subsec. (c) was repealed by Pub. L. 91–34.
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–34 repealed subsec. (c) provisions classifying positions on National Zoological Park police force authorized pursuant to section 193n of title 40.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

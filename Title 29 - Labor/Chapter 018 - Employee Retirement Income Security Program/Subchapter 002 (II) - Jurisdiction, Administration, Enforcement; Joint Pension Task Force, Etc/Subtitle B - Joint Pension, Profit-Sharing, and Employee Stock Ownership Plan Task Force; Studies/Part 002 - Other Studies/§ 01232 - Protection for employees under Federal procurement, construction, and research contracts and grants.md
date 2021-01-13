@@ -30,7 +30,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (4)(A) If the committee to which a resolution of disapproval has been referred has not reported it at the end of 7 calendar days after its introduction, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution of disapproval which has been referred to the committee.
 
-(B) A motion to discharge may be made only by an individual favoring the resolution, is highly privileged (except that it may not be made after the committee has reported a resolution ofdisapproval), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(B) A motion to discharge may be made only by an individual favoring the resolution, is highly privileged (except that it may not be made after the committee has reported a resolution of disapproval), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
 
@@ -54,9 +54,11 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 &emsp;(A) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions of disapproval described in paragraph (2); and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same mannerand to the same extent as in the case of any other rule of that House.
 
 (Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

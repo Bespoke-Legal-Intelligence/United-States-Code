@@ -12,9 +12,11 @@ It is the sense of Congress that—
 
 #### (b) Statement of policy
 
-It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach ofavailable United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
+It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach of available United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
 
 (Pub. L. 114–195, §7, July 20, 2016, 130 Stat. 680.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

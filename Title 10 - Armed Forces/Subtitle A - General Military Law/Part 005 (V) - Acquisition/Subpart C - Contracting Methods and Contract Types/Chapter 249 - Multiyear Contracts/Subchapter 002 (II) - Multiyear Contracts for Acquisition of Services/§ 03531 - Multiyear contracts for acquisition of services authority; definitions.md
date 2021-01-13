@@ -1,0 +1,68 @@
+### §3531. Multiyear contracts for acquisition of services: authority; definitions
+
+(a)
+
+Authority.—Subject to sections 3533 and 3534 of this title, the head of an agency may enter into contracts for periods of not more than five years for services described in subsection (b), and for items of supply related to such services, for which funds would otherwise be available for obligation only within the fiscal year for which appropriated whenever the head of the agency finds that—
+
+&emsp;(1) there will be a continuing requirement for the services consonant with current plans for the proposed contract period;
+
+&emsp;(2) the furnishing of such services will require a substantial initial investment in plant or equipment, or the incurrence of substantial contingent liabilities for the assembly, training, or transportation of a specialized work force; and
+
+&emsp;(3) the use of such a contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operation.
+
+(b)
+
+Covered Services.—The authority under subsection (a) applies to the following types of services:
+
+&emsp;(1) Operation, maintenance, and support of facilities and installations.
+
+&emsp;(2) Maintenance or modification of aircraft, ships, vehicles, and other highly complex military equipment.
+
+&emsp;(3) Specialized training necessitating high quality instructor skills (for example, pilot and air crew members; foreign language training).
+
+&emsp;(4) Base services (for example, ground maintenance; in-plane refueling; bus transportation; refuse collection and disposal).
+
+&emsp;(5) Environmental remediation services for—
+
+&emsp;&emsp;(A) an active military installation;
+
+&emsp;&emsp;(B) a military installation being closed or realigned under a base closure law; or
+
+&emsp;&emsp;(C) a site formerly used by the Department of Defense.
+
+(c)
+
+Multiyear Contract Defined.—For the purposes of this subchapter, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+
+(d)
+
+Military Installation Defined.—In this subchapter, the term "military installation" has the meaning given such term in section 2801(c)(4) of this title.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1822(m), (n), Jan. 1, 2021, 134 Stat. 4203.)
+
+#### Codification
+
+Subsec. (m) of section 1822 of Pub. L. 116–283 added the section designation and catchline of this section. Section 1822(n)(1) of Pub. L. 116–283, which directed the transfer of subsecs. (a), (b), (f), and (h) of section 2306c of this title to this section, "as added by subsection (n)" of section 1822, was executed as if the directory language had referred to subsec. (m) of section 1822 instead of subsec. (n), to reflect the probable intent of Congress.
+
+The text of subsecs. (a) and (b) of section 2306c of this title, which were transferred to this section and amended by Pub. L. 116–283, 1822(n)(1), (2), was based on Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203.
+
+The text of subsec. (f) of section 2306c of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, §1822(n)(1), (3), was based on Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203.
+
+The text of subsec. (h) of section 2306c of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, §1822(n)(1), (3), was based on Pub. L. 107–314, div. A, title VIII, §827(b), Dec. 2, 2002, 116 Stat. 2617; Pub. L. 108–136, div. A, title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 111–84, div. A, title X, §1073(a)(22), Oct. 28, 2009, 123 Stat. 2473.
+
+#### Prior Provisions
+
+A prior section 3531, act Aug. 10, 1956, ch. 1041, 70A Stat. 201, related to appointment of a general officer of the Army as the Chief of Staff to the President, prior to repeal by Pub. L. 96–513, title II, §§210, 233(a), 234, title VII, §701, Dec. 12, 1980, 94 Stat. 2884, 2887, 2955, effective Sept. 15, 1981.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1822(n)(1), (2), transferred subsec. (a) of section 2306c of this title to this section and substituted "sections 3533 and 3534 of this title" for "subsections (d) and (e)" in introductory provisions.
+
+Subsec. (b). Pub. L. 116–283, §1822(n)(1), transferred subsec. (b) of section 2306c of this title to this section.
+
+Subsecs. (c), (d). Pub. L. 116–283, §1822(n)(1), (3), redesignated subsecs. (f) and (h) of section 2306c of this title as subsecs. (c) and (d), respectively, of this section and substituted "this subchapter" for "this section".
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+

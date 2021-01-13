@@ -16,7 +16,7 @@ For the purpose of improving program management and effectiveness, the Secretary
 
 (1) To assess the linkages between vocational rehabilitation services and economic and noneconomic outcomes, the Secretary of Education shall continue to conduct a longitudinal study of a national sample of applicants for the services.
 
-(2) The study shall address factors related to attrition and completion of the program through which the services are provided and factors within and outside the program affecting results. Appropriate comparisons shall be used to contrast the experiences of similar persons who do not obtain the services.
+(2) The study shall address factors related to attrition and completion of the program through which the services are provided and factors within and outside the program affecting results. Appropriate comparisons shall be usedto contrast the experiences of similar persons who do not obtain the services.
 
 (3) The study shall be planned to cover the period beginning on the application of individuals with disabilities for the services, through the eligibility determination and provision of services for the individuals, and a further period of not less than 2 years after the termination of services.
 
@@ -43,6 +43,8 @@ For the purpose of improving program management and effectiveness, the Secretary
 There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
 (Pub. L. 93–112, §14, formerly §12, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1110; renumbered §14, Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; amended Pub. L. 113–128, title IV, §407(a), July 22, 2014, 128 Stat. 1638.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

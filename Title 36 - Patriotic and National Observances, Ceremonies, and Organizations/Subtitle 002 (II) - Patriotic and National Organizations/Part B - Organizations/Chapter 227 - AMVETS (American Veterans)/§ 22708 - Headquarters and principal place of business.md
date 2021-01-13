@@ -22,6 +22,8 @@ July 23, 1947, ch. 298, §5(4), 61 Stat. 406.
 
 The words "as set out herein" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–241 substituted "Maryland" for "the District of Columbia" in first and second sentences.

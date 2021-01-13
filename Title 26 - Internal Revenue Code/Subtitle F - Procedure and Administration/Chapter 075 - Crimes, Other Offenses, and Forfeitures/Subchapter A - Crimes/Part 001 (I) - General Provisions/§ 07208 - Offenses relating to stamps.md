@@ -36,7 +36,7 @@ Any person who—
 
 #### (5) Emptied stamped packages
 
-&emsp;Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person;
+&emsp;Commits the offense described in section 7271 (relating to disposal and receipt ofstamped packages) with intent to defraud the revenue, or to defraud any person;
 
 > shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
 

@@ -1,8 +1,10 @@
 ### §366a. Effect of Internal Revenue Code
 
-The provisions of the Railroad Unemployment Insurance Act, as herein amended, shall be infull force and effect notwithstanding the enactment of the Internal Revenue Code.
+The provisions of the Railroad Unemployment Insurance Act, as herein amended, shall be in full force and effect notwithstanding the enactment of the Internal Revenue Code.
 
 (June 20, 1939, ch. 227, §22, 53 Stat. 848.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

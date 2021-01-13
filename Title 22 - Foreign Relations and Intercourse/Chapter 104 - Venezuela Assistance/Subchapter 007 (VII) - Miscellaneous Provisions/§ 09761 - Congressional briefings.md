@@ -104,6 +104,8 @@ Not later than 15 days after a congressional committee listed in subsection (b)(
 
 (Pub. L. 116–94, div. J, title I, §181, Dec. 20, 2019, 133 Stat. 3046.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 142, referred to in subsec. (b)(1), is section 142 of title I of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3038, which is not classified to the Code.

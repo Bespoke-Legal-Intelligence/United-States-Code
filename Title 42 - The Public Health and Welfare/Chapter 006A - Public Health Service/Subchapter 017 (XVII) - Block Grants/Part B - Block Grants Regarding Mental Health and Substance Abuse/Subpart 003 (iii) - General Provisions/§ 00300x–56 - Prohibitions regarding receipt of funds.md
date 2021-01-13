@@ -8,7 +8,7 @@
 
 #### (2) Concealing or failing to disclose certain events
 
-&emsp;A person with knowledge of the occurrence of any event affecting the initial or continued right of the person to receive any payments from a grant made to a State under section 300x or 300x–21 of this title shall not conceal or fail to disclose any such event with an intent fraudulently to secure such payment either in a greater amount than is due or when no such amount is due.
+&emsp;A person with knowledge of the occurrence of any event affecting the initial or continuedright of the person to receive any payments from a grant made to a State under section 300x or 300x–21 of this title shall not conceal or fail to disclose any such event with an intent fraudulently to secure such payment either in a greater amount than is due or when no such amount is due.
 
 #### (b) Criminal penalty for violation of prohibition
 

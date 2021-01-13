@@ -28,9 +28,11 @@ For purposes of this subchapter, the following terms apply:
 
 (Pub. L. 110–53, title XIV, §1402, Aug. 3, 2007, 121 Stat. 400.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-For short title of this subchapter as the "National Transit Systems Security Act of 2007", see section 1401of Pub. L. 110–53, set out as a note under section 1101 of this title.
+For short title of this subchapter as the "National Transit Systems Security Act of 2007", see section 1401 of Pub. L. 110–53, set out as a note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "part".</i>
 

@@ -296,7 +296,7 @@ The Secretary shall appoint—
 
 #### (9) Federal interest
 
-&emsp;For a project that is not a project eligible for rehabilitation assistance under section 701n of this title, the Secretary shall determine that the proposed rehabilitation is in the Federal interest prior to providing assistance for such rehabilitation.
+&emsp;For a project that is not a project eligible for rehabilitation assistance under section 701n of this title, the Secretary shall determine that the proposed rehabilitation is in theFederal interest prior to providing assistance for such rehabilitation.
 
 #### (10) Other laws
 
@@ -315,6 +315,8 @@ Nothing in this section—
 &emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
 (Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -383,6 +385,8 @@ Subsec. (h)(3)(A). Pub. L. 114–322, §1130(c)(4)(C)(i), substituted "State, re
 Subsec. (h)(3)(D). Pub. L. 114–322, §1130(c)(4)(C)(ii), substituted "180 days after December 16, 2016" for "180 days after June 10, 2014".
 
 Subsec. (h)(4)(A)(i). Pub. L. 114–322, §1130(c)(4)(D), substituted "State, regional, or tribal" for "State or tribal".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rehabilitation of Existing Levees
 

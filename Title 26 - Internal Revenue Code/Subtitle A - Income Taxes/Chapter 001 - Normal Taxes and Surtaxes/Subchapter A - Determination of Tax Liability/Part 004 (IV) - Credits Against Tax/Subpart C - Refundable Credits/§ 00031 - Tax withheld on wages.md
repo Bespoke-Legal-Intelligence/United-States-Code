@@ -40,7 +40,7 @@ Pub. L. 97–448 amended subsec. (d) generally. See 1982 Amendment note below.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title VII, §715, July 18, 1984, 98 Stat. 966, provided that: "Any amendment made by thissubtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates."
+Pub. L. 98–369, div. A, title VII, §715, July 18, 1984, 98 Stat. 966, provided that: "Any amendment made by this subtitle \[subtitle A (§§711–715) of title VII of Pub. L. 98–369, see Tables for classification\] shall take effect as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\] to which such amendment relates."
 
 #### Effective Date of 1983 Amendment
 

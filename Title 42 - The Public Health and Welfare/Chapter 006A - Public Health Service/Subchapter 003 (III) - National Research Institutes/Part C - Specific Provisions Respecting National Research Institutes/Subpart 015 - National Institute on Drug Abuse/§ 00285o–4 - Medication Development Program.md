@@ -58,7 +58,7 @@ For purposes of this section, the term "pharmacotherapeutics" means medications 
 
 &emsp;(5) prevent relapse in persons who have been detoxified from drugs of abuse.
 
-(July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §103(b)(35), Jan. 15, 2007, 120 Stat. 3688.)
+(July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §103(b)(35), Jan. 15, 2007, 120 Stat. 3688.)
 
 #### References in Text
 

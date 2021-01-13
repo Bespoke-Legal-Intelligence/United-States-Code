@@ -200,7 +200,7 @@ Upon designation of an emerging drug threat, the Director shall evaluate whether
 
 #### (iv) Evaluation of effectiveness of national media campaign
 
-&emsp;&emsp;&emsp;In using amounts for the evaluation of the effectiveness of the national mediacampaign under subparagraph (A)(v), the Director shall—
+&emsp;&emsp;&emsp;In using amounts for the evaluation of the effectiveness of the national media campaign under subparagraph (A)(v), the Director shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) designate an independent entity to evaluate by April 20 of each year the effectiveness of the national media campaign based on data from—
 
@@ -326,6 +326,8 @@ There is authorized to be appropriated to the Office to carry out this section, 
 
 (Pub. L. 105–277, div. C, title VII, §§709, 715, Oct. 21, 1998, 112 Stat. 2681–688, 2681–693; Pub. L. 109–469, title V, §501(a), title VI, §602, Dec. 29, 2006, 120 Stat. 3527, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8218(a), Oct. 24, 2018, 132 Stat. 4110, 4125; Pub. L. 116–74, §2(a)(1), (2), (8), Nov. 27, 2019, 133 Stat. 1155, 1157.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -348,13 +350,15 @@ Subsec. (f)(1). Pub. L. 116–74, §2(a)(8)(C), substituted "subsection" for "ch
 
 Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
-Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended byPub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
 <b>2006</b>—Pub. L. 109–469, §602, amended Pub. L. 105–277, §715, which provided for the repeal of this section. See 1998 Amendment note below.
 
 Pub. L. 109–469, §501(a), amended section catchline and text generally. Prior to amendment, section related to the President's Council on Counter-Narcotics.
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 

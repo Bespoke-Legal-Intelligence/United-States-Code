@@ -115,6 +115,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.

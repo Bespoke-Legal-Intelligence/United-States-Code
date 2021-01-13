@@ -77,10 +77,22 @@
 | [1161\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001161%20-%20Payment%20of%20disability%20compensation%20in%20disability%20severance%20cases.md) | Payment of disability compensation in disability severance cases. |
 | [1162\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001162%20-%20Clothing%20allowance.md) | Clothing allowance. |
 | [1163\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001163%20-%20Trial%20work%20periods%20and%20vocational%20rehabilitation%20for%20certain%20veterans%20with%20total%20disability%20ratings.md) | Trial work periods and vocational rehabilitation for certain veterans with total disability ratings. |
+| 1164\.<sup>1</sup> | Presumptions of service-connection for Coronavirus Disease 2019. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| 1164\.<sup>1</sup> | Specialized teams to evaluate claims involving military sexual trauma. |
+| [1165\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001165%20-%20Choice%20of%20sex%20of%20medical%20examiner%20for%20certain%20disabilities.md) | Choice of sex of medical examiner for certain disabilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title IV, §4101(b), title V, §§5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5008, 5048, 5050, added two items 1164 and item 1165.
 
 <b>2019</b>—Pub. L. 116–23, §§2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
@@ -125,6 +137,8 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 <b>1962</b>—Pub. L. 87–610, §2, Aug. 28, 1962, 76 Stat. 406, added item 360.
 
 <b>1960</b>—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
+
+<i><sup>1</sup></i><i> So in original. Two sections 1164 have been enacted.</i>
 
 
 ---

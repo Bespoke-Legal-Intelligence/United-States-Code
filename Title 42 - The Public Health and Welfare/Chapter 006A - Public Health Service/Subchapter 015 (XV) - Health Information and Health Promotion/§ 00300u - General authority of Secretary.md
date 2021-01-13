@@ -12,7 +12,7 @@ The Secretary shall—
 
 &emsp;&emsp;(A) incorporate appropriate health education components into our society, especially into all aspects of education and health care,
 
-&emsp;&emsp;(B) increase the application and use of health knowledge, skills, and practices bythe general population in its patterns of daily living, and
+&emsp;&emsp;(B) increase the application and use of health knowledge, skills, and practices by the general population in its patterns of daily living, and
 
 &emsp;&emsp;(C) establish systematic processes for the exploration, development, demonstration, and evaluation of innovative health promotion concepts;
 
@@ -86,7 +86,7 @@ Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchap
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 
-Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)" after "grants and contracts under this subchapter".
+Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of thistitle)" after "grants and contracts under this subchapter".
 
 #### Short Title
 

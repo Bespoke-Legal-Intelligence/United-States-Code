@@ -6,13 +6,15 @@ Commissioned officers, ships' officers, and members of crews of vessels of the A
 
 #### (b) Sales of rations, stores, uniforms, and related equipment
 
-The Secretary may purchase ration supplies for messes, stores, uniforms, accouterments, andrelated equipment for sale aboard ship and shore stations of the Administration to members of the uniformed services and to personnel assigned to such ships or shore stations. Sales shall be in accordance with regulations prescribed by the Secretary, and proceeds therefrom shall, as far as is practicable, fully reimburse the appropriations charged without regard to fiscal year.
+The Secretary may purchase ration supplies for messes, stores, uniforms, accouterments, and related equipment for sale aboard ship and shore stations of the Administration to members of the uniformed services and to personnel assigned to such ships or shore stations. Sales shall be in accordance with regulations prescribed by the Secretary, and proceeds therefrom shall, as far as is practicable, fully reimburse the appropriations charged without regard to fiscal year.
 
 #### (c) Surviving spouses' rights
 
 Rights extended to members of the uniformed services in this section are extended to their surviving spouses and to such others as are designated by the Secretary concerned.
 
 (Pub. L. 107–372, title II, §264, Dec. 19, 2002, 116 Stat. 3093.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

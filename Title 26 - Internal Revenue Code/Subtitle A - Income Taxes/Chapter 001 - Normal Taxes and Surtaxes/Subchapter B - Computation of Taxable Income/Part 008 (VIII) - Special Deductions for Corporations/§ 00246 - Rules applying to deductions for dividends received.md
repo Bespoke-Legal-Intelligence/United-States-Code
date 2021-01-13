@@ -82,7 +82,7 @@
 
 &emsp;No deduction shall be allowed under section 243 <sup>1</sup> 245, or 245A, in respect of any dividend on any share of stock—
 
-&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
+&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before thedate on which such share becomes ex-dividend with respect to such dividend, or
 
 &emsp;&emsp;(B) to the extent that the taxpayer is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
 

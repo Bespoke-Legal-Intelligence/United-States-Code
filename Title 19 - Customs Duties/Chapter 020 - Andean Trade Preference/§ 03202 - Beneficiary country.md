@@ -140,7 +140,7 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (2) Public comment
 
-&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments onwhether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
+&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
 
 (Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, §2(c), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, §201(d), Dec. 29, 2010, 124 Stat. 3616.)
 

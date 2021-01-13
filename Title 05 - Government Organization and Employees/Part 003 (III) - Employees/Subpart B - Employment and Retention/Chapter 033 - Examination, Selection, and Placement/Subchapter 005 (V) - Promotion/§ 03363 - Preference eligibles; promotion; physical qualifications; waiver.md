@@ -30,11 +30,15 @@ The words "in the competitive service, an Executive agency, or the government of
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 <b>1975</b>—Pub. L. 94–183 struck out ", except an appointment made under section 3311 of title 39" after "or made with the advice and consent of, the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

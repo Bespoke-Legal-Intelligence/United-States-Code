@@ -10,11 +10,15 @@ The Secretary may, subject to the availability of appropriations, make advance p
 
 (May 7, 1926, ch. 250, §10, as added Pub. L. 89–636, §4, Oct. 10, 1966, 80 Stat. 882; amended Pub. L. 102–138, title I, §115(a), (b), Oct. 28, 1991, 105 Stat. 655.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted heading, substituted "$50,000" for "$25,000,", and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, seesection 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

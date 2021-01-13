@@ -16,5 +16,5 @@ Pub. L. 100–647, title III, §3021(c), Nov. 10, 1988, 102 Stat. 3633, provided
 
 #### Part-Time Employee Defined for Purposes of Subsection (f)
 
-Pub. L. 100–647, title VI, §6070, Nov. 10, 1988, 102 Stat. 3704, increased the number of employees who would be excluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
+Pub. L. 100–647, title VI, §6070, Nov. 10, 1988, 102 Stat. 3704, increased the number of employees who would beexcluded from consideration under this section during plan years 1989 and 1990, in the case of a plan maintained by an employer which employs fewer than 10 employees on a normal working day during a plan year, prior to repeal by Pub. L. 101–140, title II, §203(a)(7), Nov. 8, 1989, 103 Stat. 831.
 

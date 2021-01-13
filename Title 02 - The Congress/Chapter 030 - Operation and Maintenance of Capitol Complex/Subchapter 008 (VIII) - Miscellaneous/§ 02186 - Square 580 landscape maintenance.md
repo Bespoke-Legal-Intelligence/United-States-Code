@@ -4,6 +4,8 @@ For fiscal year 2016 and each fiscal year thereafter, the Architect of the Capit
 
 (Pub. L. 114–113, div. I, title II, §206, Dec. 18, 2015, 129 Stat. 2672.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act:

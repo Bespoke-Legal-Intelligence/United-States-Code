@@ -10,9 +10,13 @@ Limitation.—Subsection (a) shall not apply with respect to an action or procee
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4939.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

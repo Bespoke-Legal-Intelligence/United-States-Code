@@ -146,7 +146,7 @@ Procedures To Promote Compliance.—
 
 &emsp;(1)
 
-Regulations.—Not later than 1 year after the date of enactment of this chapter, the Attorney General of the United Statesshall promulgate regulations to enforce the rights of crime victims and to ensure compliance by responsible officials with the obligations described in law respecting crime victims.
+Regulations.—Not later than 1 year after the date of enactment of this chapter, the Attorney General of the United States shall promulgate regulations to enforce the rights of crime victims and to ensure compliance by responsible officials with the obligations described in law respecting crime victims.
 
 &emsp;(2)
 
@@ -161,6 +161,8 @@ Contents.—The regulations promulgated under paragraph (1) shall—
 &emsp;&emsp;(D) provide that the Attorney General, or the designee of the Attorney General, shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the Attorney General by a complainant.
 
 (Added Pub. L. 108–405, title I, §102(a), Oct. 30, 2004, 118 Stat. 2261; amended Pub. L. 109–248, title II, §212, July 27, 2006, 120 Stat. 616; Pub. L. 111–16, §3(12), May 7, 2009, 123 Stat. 1608; Pub. L. 114–22, title I, §113(a), (c)(1), May 29, 2015, 129 Stat. 240, 241.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -187,6 +189,8 @@ Subsec. (e). Pub. L. 114–22, §113(a)(3), substituted "For the purposes of thi
 <b>2009</b>—Subsec. (d)(5)(B). Pub. L. 111–16 substituted "14 days" for "10 days".
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–248 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

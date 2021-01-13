@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after the appointment of its members, the Election Assistance Commission shall develop a program to be known as the "Help America Vote College Program" (hereafter in this subchapter referred to as the "Program").
+Not later than 1 year after the appointment of its members, the Election Assistance Commission shall develop a program to be known as the"Help America Vote College Program" (hereafter in this subchapter referred to as the "Program").
 
 #### (b) Purposes of Program
 
@@ -13,6 +13,8 @@ The purpose of the Program shall be—
 &emsp;(2) to encourage State and local governments to use the services of the students participating in the Program.
 
 (Pub. L. 107–252, title V, §501, Oct. 29, 2002, 116 Stat. 1717.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

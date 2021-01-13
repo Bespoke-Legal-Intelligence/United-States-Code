@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may not, except as provided in subsection (b), make payments under section 300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
+The Secretary may not, except as provided in subsection (b), make payments under section300ee–11(a) of this title for a fiscal year unless the State involved agrees that—
 
 &emsp;(1) all programs conducted or supported by the State with such payments will establish objectives for the program and will determine the extent to which the objectives are met;
 
@@ -34,7 +34,7 @@ The Secretary may not, except as provided in subsection (b), make payments under
 
 &emsp;&emsp;&emsp;(iii) individuals having expertise in health education and in the needs of the population to be served;
 
-&emsp;&emsp;(C) to provide information demonstrating that the applicant has continuing relationships, or will establish continuing relationships, with a portion of the population in the service area that is at risk of infection with the etiologic agent for acquired immune deficiency syndrome and with public and private entities in such area that providehealth or other support services to individuals with such infection;
+&emsp;&emsp;(C) to provide information demonstrating that the applicant has continuing relationships, or will establish continuing relationships, with a portion of the population in the service area that is at risk of infection with the etiologic agent for acquired immune deficiency syndrome and with public and private entities in such area that provide health or other support services to individuals with such infection;
 
 &emsp;&emsp;(D) to provide a description of—
 

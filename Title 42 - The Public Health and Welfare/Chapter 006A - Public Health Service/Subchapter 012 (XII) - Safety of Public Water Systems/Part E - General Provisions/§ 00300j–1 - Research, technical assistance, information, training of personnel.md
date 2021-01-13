@@ -36,7 +36,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (5) The Administrator shall carry out a study of methods of underground injection which do not result in the degradation of underground drinking water sources.
 
-(6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which may degrade underground water sources for public water systems.
+(6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which maydegrade underground water sources for public water systems.
 
 (7) The Administrator shall carry out a study of virus contamination of drinking water sources and means of control of such contamination.
 
@@ -66,7 +66,7 @@ The Administrator shall—
 
 &emsp;&emsp;(C) to develop and expand the capability of programs of States and municipalities to carry out the purposes of this subchapter (other than by carrying out State programs of public water system supervision or underground water source protection (as defined in section 300j–2(c) of this title)).
 
-> Reasonable fees may be charged for training provided under paragraph (1)(B) to persons otherthan personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
+> Reasonable fees may be charged for training provided under paragraph (1)(B) to persons other than personnel of State or local agencies but such training shall be provided to personnel of State or local agencies without charge.
 
 #### (d) Authorization of appropriations
 
@@ -138,7 +138,7 @@ Subsec. (a)(2)(B). Pub. L. 104–182, §121(3), redesignated subpar. (B) as subs
 
 Subsec. (a)(3), (11). Pub. L. 104–182, §121(4)(B), (C), redesignated par. (11) as (3), transferred that par. to appear before par. (4), and struck out former par. (3) which provided that the Administrator was to conduct studies, and make periodic reports to Congress, on the costs of carrying out regulations prescribed under section 300g–1 of this title.
 
-Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec.to appear after subsec. (a), and struck out former subsec. (b) which read as follows: "In carrying out this subchapter, the Administrator is authorized to—
+Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as subsec. (b), transferred that subsec. to appear after subsec. (a), and struck out former subsec. (b) which read as follows: "In carrying out this subchapter, the Administrator is authorized to—
 
 &emsp;"(1) collect and make available information pertaining to research, investigations, and demonstrations with respect to providing a dependably safe supply of drinking water together with appropriate recommendations in connection therewith;
 
@@ -154,7 +154,7 @@ Subsec. (e). Pub. L. 104–182, §122, amended subsec. (e) generally. Prior to a
 
 > shall be utilized for technical assistance to public water systems owned or operated by Indian tribes."
 
-<b>1995</b>—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: "Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible."
+<b>1995</b>—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: "Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demandfor drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible."
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
@@ -236,5 +236,5 @@ Pub. L. 104–182, title II, §203, Aug. 6, 1996, 110 Stat. 1683, provided that:
 
 #### Comparative Health Effects Assessment
 
-Pub. L. 99–339, title III, §304(b), June 19, 1986, 100 Stat. 667, provided that: "The Administrator of the Environmental Protection Agency shall conduct a comparative health effects assessment, using available data, to compare the public health effects (both positive and negative) associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies. Not later than 18 months after the date of the enactment of this Act \[June 19, 1986\], the Administrator shall submit a report to the Congress setting forth the results of such assessment."
+Pub. L. 99–339, title III, §304(b), June 19, 1986, 100 Stat. 667, required the Administrator of the Environmental Protection Agency to conduct an assessment comparing the public health effects associated with water treatment chemicals and their byproducts to the public health effects associated with contaminants found in public water supplies and to submit a report to Congress on the assessment no later than 18 months after June 19, 1986.
 

@@ -68,17 +68,19 @@
 
 (e)(1) The cost of intermediate care for purposes of payment by the United States pursuant to subsection (a)(2)(B) of this section shall be determined by the Secretary except that the rate of reimbursement shall be commensurately less than that provided for nursing home care.
 
-(2) For the purposes of this section, the term "non-Department nursing home" means a publicor private institution not under the direct jurisdiction of the Secretary which furnishes nursing home care.
+(2) For the purposes of this section, the term "non-Department nursing home" means a public or private institution not under the direct jurisdiction of the Secretary which furnishes nursing home care.
 
 (f)(1)(A) The Secretary may furnish adult day health care services to a veteran enrolled under section 1705(a) of this title who would otherwise require nursing home care.
 
-(B) The Secretary may provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans under subparagraph (A) of this paragraph. Any such in-kind assistance shall be provided under a contract or agreement between the Secretary and the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of adult day health care and only if, under such contract or agreement, the Department receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
+(B) The Secretary may provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans under subparagraph (A) of this paragraph. Any such in-kind assistance shall be provided under a contract or agreement between the Secretaryand the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of adult day health care and only if, under such contract or agreement, the Department receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
 (g) The Secretary may contract with appropriate entities to provide specialized residential care and rehabilitation services to a veteran of Operation Enduring Freedom or Operation Iraqi Freedom who the Secretary determines suffers from a traumatic brain injury, has an accumulation of deficits in activities of daily living and instrumental activities of daily living, and because of these deficits, would otherwise require admission to a nursing home even though such care would generally exceed the veteran's nursing needs.
 
 (Added Pub. L. 88–450, §2(a), Aug. 19, 1964, 78 Stat. 500, §620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, §104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, §106, title II, §§202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, §4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, §103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, §108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, §19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered §1720 and amended Pub. L. 102–83, §§4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, §402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, §101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, §105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, §507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, §5(j)(1), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title I, §105(b), Aug. 6, 2012, 126 Stat. 1170.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -194,11 +196,13 @@ Subsec. (d). Pub. L. 93–82, §104(d), added subsec. (d).
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals inAlaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+<b>1968</b>—Subsec. (a). Pub. L. 90–612, §1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
 Subsec. (a)(2). Pub. L. 90–429 substituted "40 per centum" for "one-third".
 
 Subsec. (c). Pub. L. 90–612, §3, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

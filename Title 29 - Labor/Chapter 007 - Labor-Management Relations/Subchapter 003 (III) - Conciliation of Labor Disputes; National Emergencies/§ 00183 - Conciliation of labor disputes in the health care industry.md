@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Boards of Inquiry; membership
 
-If, in the opinion of the Director of the Federal Mediation and Conciliation Service, a threatened or actual strike or lockout affecting a health care institution will, if permitted to occur or to continue, substantially interrupt the delivery of health care in the locality concerned, the Director may further assist in the resolution of the impasse by establishing within 30 days after the notice to the Federal Mediation and Conciliation Service under clause (A) of the last sentence of section 158(d) of this title (which is required by clause (3) of such section 158(d) of this title), or within 10 days after the notice under clause (B), an impartial Board of Inquiry to investigate the issues involved in the dispute and to make a written report thereon to the parties within fifteen (15) days after the establishment of such a Board. The written report shall contain the findings of fact together with the Board's recommendations for settling the dispute, with the objective of achieving a prompt, peaceful and just settlement of the dispute. Each such Board shall be composed of such number of individuals as the Director may deem desirable. No member appointed under this section shall have any interest or involvement in the health care institutions or the employee organizations involved in the dispute.
+If, in the opinion of the Director of the Federal Mediation and Conciliation Service, athreatened or actual strike or lockout affecting a health care institution will, if permitted to occur or to continue, substantially interrupt the delivery of health care in the locality concerned, the Director may further assist in the resolution of the impasse by establishing within 30 days after the notice to the Federal Mediation and Conciliation Service under clause (A) of the last sentence of section 158(d) of this title (which is required by clause (3) of such section 158(d) of this title), or within 10 days after the notice under clause (B), an impartial Board of Inquiry to investigate the issues involved in the dispute and to make a written report thereon to the parties within fifteen (15) days after the establishment of such a Board. The written report shall contain the findings of fact together with the Board's recommendations for settling the dispute, with the objective of achieving a prompt, peaceful and just settlement of the dispute. Each such Board shall be composed of such number of individuals as the Director may deem desirable. No member appointed under this section shall have any interest or involvement in the health care institutions or the employee organizations involved in the dispute.
 
 #### (b) Compensation of members of Boards of Inquiry
 
@@ -19,6 +19,8 @@ After the establishment of a board under subsection (a) of this section and for 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
 (June 23, 1947, ch. 120, title II, §213, as added Pub. L. 93–360, §2, July 26, 1974, 88 Stat. 396.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of devices, including identifying drivers of such changes; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, theOffice of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
 
 #### (iv) <sup>2</sup> Analysis
 
@@ -94,7 +94,7 @@
 
 #### (B) Participation in congressional hearing
 
-&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions ofthe Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food andDrug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (4) Fiscal report
 
@@ -172,6 +172,8 @@
 
 <i>For termination of section by section 210(b) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201(b) of the Medical Device User Fee Amendments of 2017, referred to in subsec. (a)(1)(A), (B), (2), is section 201(b) of Pub. L. 115–52, which is set out as a note under section 379i of this title.
@@ -207,6 +209,8 @@ Subsec. (a)(2). Pub. L. 112–144, §204(b)(2), substituted "2013 through 2017" 
 Subsec. (b)(1). Pub. L. 112–144, §204(a)(1), substituted "2017" for "2012".
 
 Subsec. (b)(5). Pub. L. 112–144, §204(a)(2), substituted "2017" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

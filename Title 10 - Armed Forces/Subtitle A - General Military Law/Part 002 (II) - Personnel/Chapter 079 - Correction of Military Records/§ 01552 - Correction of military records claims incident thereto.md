@@ -1,6 +1,6 @@
 ### §1552. Correction of military records: claims incident thereto
 
-(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
+(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or removean injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
 
 (2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
@@ -20,7 +20,7 @@
 
 (b) No correction may be made under subsection (a)(1) unless the claimant (or the claimant's heir or legal representative) or the Secretary concerned files a request for the correction within three years after discovering the error or injustice. The Secretary concerned may file a request for correction of a military record only if the request is made on behalf of a group of members or former members of the armed forces who were similarly harmed by the same error or injustice. A board established under subsection (a)(1) may excuse a failure to file within three years after discovery if it finds it to be in the interest of justice.
 
-(c)(1) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee.
+(c)(1) The Secretary concerned may pay, from applicable current appropriations, a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, if, as a result of correcting a record under this section, the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, or on account of his or another's service as a civilian employee.
 
 (2) If the claimant is dead, the money shall be paid, upon demand, to his legal representative. However, if no demand for payment is made by a legal representative, the money shall be paid—
 
@@ -68,9 +68,9 @@
 
 &emsp;(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-(j) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such termdoes not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+(j) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(vi), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes
 
@@ -143,6 +143,8 @@ In subsection (e), the words "No payment may be made under this section" are sub
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "Marine Corps, Space Force," for "Marine Corps,".
 
 <b>2019</b>—Subsec. (a)(4). Pub. L. 116–92, §523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
 
@@ -218,6 +220,80 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Removal of Personally Identifying and Other Information of Certain Persons From Investigative Reports, the Department of Defense Central Index of Investigations, and Other Records and Databases
+
+Pub. L. 116–283, div. A, title V, §545, Jan. 1, 2021, 134 Stat. 3613, provided that:
+
+"(a)
+
+Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person's name, personally identifying information, and other information pertaining to the person shall, in accordance with subsection (c), be corrected in, or expunged or otherwise removed from, the following:
+
+&emsp;"(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department.
+
+&emsp;"(2) An index item or entry in the Department of Defense Central Index of Investigations (DCII).
+
+&emsp;"(3) Any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department.
+
+"(b)
+
+Covered Persons.—For purposes of this section, a covered person is any person whose name was placed or reported, or is maintained—
+
+&emsp;"(1) in the subject or title block of a law enforcement or criminal investigative report of the Department of Defense (or any component of the Department);
+
+&emsp;"(2) as an item or entry in the Department of Defense Central Index of Investigations; or
+
+&emsp;"(3) in any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department.
+
+"(c)
+
+Elements.—The policy and process required by subsection (a) shall include the following elements:
+
+&emsp;"(1)
+
+Basis for correction or expungement.—That the name, personally identifying information, and other information of a covered person shall be corrected in, or expunged or otherwise removed from, a report, item or entry, or record described in paragraphs (1) through (3) of subsection (a) in the following circumstances:
+
+&emsp;&emsp;"(A) Probable cause did not or does not exist to believe that the offense for which the person's name was placed or reported, or is maintained, in such report, item or entry, or record occurred, or insufficient evidence existed or exists to determine whether or not such offense occurred.
+
+&emsp;&emsp;"(B) Probable cause did not or does not exist to believe that the person actually committed the offense for which the person's name was so placed or reported, or is so maintained, or insufficient evidence existed or exists to determine whether or not the person actually committed such offense.
+
+&emsp;&emsp;"(C) Such other circumstances, or on such other bases, as the Secretary may specify in establishing the policy and process, which circumstances and bases may not be inconsistent with the circumstances and bases provided by subparagraphs (A) and (B).
+
+&emsp;"(2)
+
+Considerations.—While not dispositive as to the existence of a circumstance or basis set forth in paragraph (1), the following shall be considered in the determination whether such circumstance or basis applies to a covered person for purposes of this section:
+
+&emsp;&emsp;"(A) The extent or lack of corroborating evidence against the covered person concerned with respect to the offense at issue.
+
+&emsp;&emsp;"(B) Whether adverse administrative, disciplinary, judicial, or other such action was initiated against the covered person for the offense at issue.
+
+&emsp;&emsp;"(C) The type, nature, and outcome of any action described in subparagraph (B) against the covered person.
+
+&emsp;"(3)
+
+Procedures.—The policy and process required by subsection (a) shall include procedures as follows:
+
+&emsp;&emsp;"(A) Procedures under which a covered person may appeal a determination of the applicable component of the Department of Defense denying, whether in whole or in part, a request for purposes of subsection (a).
+
+&emsp;&emsp;"(B) Procedures under which the applicable component of the Department will correct, expunge or remove, take other appropriate action on, or assist a covered person in so doing, any record maintained by a person, organization, or entity outside of the Department to which such component provided, submitted, or transmitted information about the covered person, which information has or will be corrected in, or expunged or removed from, Department records pursuant to this section.
+
+&emsp;&emsp;"(C) The timeline pursuant to which the Department, or a component of the Department, as applicable, will respond to each of the following:
+
+&emsp;&emsp;&emsp;"(i) A request pursuant to subsection (a).
+
+&emsp;&emsp;&emsp;"(ii) An appeal under the procedures required by subparagraph (A).
+
+&emsp;&emsp;&emsp;"(iii) A request for assistance under the procedures required by subparagraph (B).
+
+&emsp;&emsp;"(D) Mechanisms through which the Department will keep a covered person apprised of the progress of the Department on a covered person's request or appeal as described in subparagraph (C).
+
+"(d)
+
+Applicability.—The policy and process required to be developed by the Secretary under subsection (a) shall not be subject to the notice and comment rulemaking requirements under section 553 of title 5, United States Code.
+
+"(e)
+
+Report.—Not later than October 1, 2021, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the actions taken to carry out this section, including a comprehensive description of the policy and process developed and implemented by the Secretary under subsection (a)."
+
 #### Correction of Certain Discharge Characterizations
 
 Pub. L. 116–92, div. A, title V, §527, Dec. 20, 2019, 133 Stat. 1356, provided that:
@@ -256,27 +332,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Use of Video Teleconferencing Technology by Boards for the Correction of Military Records and Discharge Review Boards
 
-Pub. L. 115–91, div. A, title V, §524, Dec. 12, 2017, 131 Stat. 1381, provided that:
-
-"(a)
-
-Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program under which boards for the correction of military records established under section 1552 of title 10, United States Code, and discharge review boards established under section 1553 of such title are authorized to utilize, in the performance of their duties, video teleconferencing technology, to the extent such technology is reasonably available and technically feasible.
-
-"(b)
-
-Purpose.—The purpose of the pilot program is to evaluate the feasibility and cost-effectiveness of utilizing video teleconferencing technology to allow persons who raise a claim before a board for the correction of military records, persons who request a review by a discharge review board, and witnesses who present evidence to such a board to appear before such a board without being physically present.
-
-"(c)
-
-Implementation.—As part of the pilot program, the Secretary of Defense shall make funds available to develop the capabilities of boards for the correction of military records and discharge review boards to effectively use video teleconferencing technology.
-
-"(d)
-
-No Expansion of Eligibility.—Nothing in the pilot program is intended to alter the eligibility criteria of persons who may raise a claim before a board for the correction of military records, request a review by a discharge review board, or present evidence to such a board.
-
-"(e)
-
-Termination.—The authority of the Secretary of Defense to carry out the pilot program shall terminate on December 31, 2020."
+Pub. L. 115–91, div. A, title V, §524, Dec. 12, 2017, 131 Stat. 1381, provided that Secretary of Defense may carry out pilot program on use of video teleconferencing technology by certain boards for correction of military records and certain discharge review boards and terminated authority for carrying out program on Dec. 31, 2020.
 
 #### Training of Members of Boards
 
@@ -324,7 +380,7 @@ Reports.—Not later than 18 months after the date of the enactment of this Act 
 
 &emsp;"(B) A detailed description of the training curriculum required of such Secretary by paragraph (1).
 
-&emsp;"(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary.
+&emsp;"(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction ofmilitary records under the jurisdiction of such Secretary.
 
 "(5)
 

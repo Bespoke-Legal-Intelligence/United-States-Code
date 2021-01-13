@@ -36,6 +36,8 @@ Historical and Revision Notes
 
 46:12103(b)(2).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12104, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 99–36, §1(a)(7)(B), May 15, 1985, 99 Stat. 67; Pub. L. 101–225, title III, §301(a)(4), Dec. 12, 1989, 103 Stat. 1920, originally derived from section 65g of former Title 46, Shipping, related to effect of documentation, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12134 of this title.

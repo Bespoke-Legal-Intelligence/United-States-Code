@@ -142,7 +142,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years ending after such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
+Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years endingafter such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
 
 #### Effective Date of 1984 Amendment
 

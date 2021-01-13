@@ -6,7 +6,7 @@
 
 &emsp;(2) 2½ percent of the years of service credited to that person under section 12733 of this title.
 
-(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in the armed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
+(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in thearmed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
 (c)(1) Except as provided in paragraph (2), the total amount of the monthly retired pay computed under subsections (a) and (b) may not exceed 75 percent of the retired pay base upon which the computation is based.
 
@@ -96,7 +96,7 @@ Provisions similar to those in this section were contained in formula 3 of the t
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–314, §632(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections (a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections\(a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 

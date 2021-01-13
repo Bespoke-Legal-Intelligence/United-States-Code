@@ -18,7 +18,7 @@ Authority.—From the fund described in paragraph (1), the Administrator may obl
 
 &emsp;&emsp;&emsp;(i) Fees of appraisers, auctioneers, and realty brokers, in accordance with the scale customarily paid in similar commercial transactions.
 
-&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation.
+&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services, highest and best use of property studies, utilization of propertystudies, deed compliance inspection, and the expenses incurred in a relocation.
 
 &emsp;&emsp;&emsp;(iii) Advertising and surveying.
 
@@ -135,6 +135,8 @@ June 30, 1949, ch. 288, title II, §204(b), as added Aug. 31, 1954, ch. 1178, §
 June 30, 1949, ch. 288, title II, §204(h), as added Pub. L. 101–510, div. B, title XXVIII, §2805(3), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, §2812, Dec. 28, 2001, 115 Stat. 1307.
 
 In subsection (b)(4), the words "section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))" are omitted because 50 App.:1622(g) has been repealed.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

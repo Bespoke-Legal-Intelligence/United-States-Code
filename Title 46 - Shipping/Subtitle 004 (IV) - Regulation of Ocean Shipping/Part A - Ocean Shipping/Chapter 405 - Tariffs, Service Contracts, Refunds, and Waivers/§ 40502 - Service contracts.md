@@ -50,7 +50,7 @@ Definitions.—In this subsection, the terms "dock area" and "within the port ar
 
 &emsp;(2)
 
-Disclosure.—An ocean common carrier that is a party to or is otherwise subject to a collective bargaining agreement with a labor organization shall, in response to a written request by the labor organization, state whether it is responsible for the following work at a dock area or within a port area in the United States with respect to cargo transportation under a service contract:
+Disclosure.—An ocean common carrier that is a party to or is otherwise subject to a collective bargaining agreement with a labororganization shall, in response to a written request by the labor organization, state whether it is responsible for the following work at a dock area or within a port area in the United States with respect to cargo transportation under a service contract:
 
 &emsp;&emsp;(A) The movement of the shipper's cargo on a dock area or within the port area or to or from railroad cars on a dock area or within the port area.
 
@@ -115,6 +115,8 @@ Pub. L. 98–237, §8(c), Mar. 20, 1984, 98 Stat. 75; restated Pub. L. 105–258
 46 App.:1707(c)(1) (2d, last sentences).
 
 In subsection (e)(5), the words "the National Labor Relations Act \[29 U.S.C. 151 et seq.\], the Taft-Hartley Act \[29 U.S.C. 141 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], the antitrust laws" are omitted as unnecessary because of the reference to "any other Federal or State law".
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

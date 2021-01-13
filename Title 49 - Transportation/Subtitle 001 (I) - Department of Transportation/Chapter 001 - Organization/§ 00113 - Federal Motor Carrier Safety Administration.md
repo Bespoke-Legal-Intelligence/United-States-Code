@@ -84,7 +84,7 @@ Reissuance.—If a guidance document is not incorporated into regulations in acc
 
 "(b)
 
-Initial Review.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to the public, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
+Initial Review.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to thepublic, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
 
 "(c)
 

@@ -66,7 +66,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(v) nonindustrial private forest land; and
 
-&emsp;&emsp;&emsp;(vi) other land in agricultural areas (including cropped woodland, marshes, and agricultural land used or capable of being used for the production of livestock), as determined by the Secretary.
+&emsp;&emsp;&emsp;(vi) other land in agricultural areas (including cropped woodland, marshes, and agricultural land used or capable of beingused for the production of livestock), as determined by the Secretary.
 
 #### (5) Priority resource concern
 
@@ -158,7 +158,7 @@ RCPP contracts.—
 
 &emsp;&emsp;"(i)
 
-Treatment of acreage.—In the case of an agreement described in subparagraph (A)(ii), theSecretary may provide an amount of funding that is equivalent to the value of any acres covered by the agreement.
+Treatment of acreage.—In the case of an agreement described in subparagraph (A)(ii), the Secretary may provide an amount of funding that is equivalent to the value of any acres covered by the agreement.
 
 &emsp;&emsp;"(ii)
 

@@ -42,7 +42,7 @@ Except as otherwise provided in this section, the personnel employed in connecti
 
 #### (h) Incidental transfers
 
-The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by subsection (b), and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section, with respect to such functions.
+The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by subsection (b), and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary tocarry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section, with respect to such functions.
 
 #### (i) Savings provisions
 
@@ -112,7 +112,7 @@ The Administrator of the Administration for Community Living is authorized to ut
 
 &emsp;&emsp;(A) the term "NIDILRR" means the National Institute on Disability, Independent Living, and Rehabilitation Research of the Administration for Community Living of the Department of Health and Human Services; and
 
-&emsp;&emsp;(B) the term "NIDRR" means the National Institute on Disability and RehabilitationResearch of the Office of Special Education and Rehabilitative Services of the Department of Education.
+&emsp;&emsp;(B) the term "NIDRR" means the National Institute on Disability and Rehabilitation Research of the Office of Special Education and Rehabilitative Services of the Department of Education.
 
 #### (2) Transfer of functions
 

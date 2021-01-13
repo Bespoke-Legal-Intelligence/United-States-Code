@@ -64,6 +64,8 @@ Pub. L. 85–469, title I, §101 (par. under heading "Federal Ship Mortgage Insu
 
 The Federal Ship Financing Fund which had been created by 46 App. U.S.C. 1272 is obsolete as a result of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.). This section codifies the current requirements and practices for the management of funds under this chapter, based on the requirements of that Act.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
@@ -72,7 +74,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2). See 2006 Amendment note below.
 
-Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section bysubstituting "Administrator" for "Secretary of Transportation" wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (b). Pub. L. 110–181, §3522(a)(9)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(B), (D), (c)(2), into this section by substituting "Administrator" for "Secretary of Transportation" wherever appearing in heading and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 Subsecs. (c), (d). Pub. L. 110–181, §3522(a)(7), struck out "of Commerce" after "Secretary" wherever appearing in headings and text.
 

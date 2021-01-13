@@ -4,7 +4,7 @@
 
 (b) Activities under the Program shall include—
 
-&emsp;(1) investigation into the etiology, pathology, detection, treatment, and prevention of all forms of disorders of hearing and othercommunication processes, primarily through the support of basic research in such areas as anatomy, audiology, biochemistry, bioengineering, epidemiology, genetics, immunology, microbiology, molecular biology, the neurosciences, otolaryngology, psychology, pharmacology, physiology, speech and language pathology, and any other scientific disciplines that can contribute important knowledge to the understanding and elimination of disorders of hearing and other communication processes;
+&emsp;(1) investigation into the etiology, pathology, detection, treatment, and prevention of all forms of disorders of hearing and other communication processes, primarily through the support of basic research in such areas as anatomy, audiology, biochemistry, bioengineering, epidemiology, genetics, immunology, microbiology, molecular biology, the neurosciences, otolaryngology, psychology, pharmacology, physiology, speech and language pathology, and any other scientific disciplines that can contribute important knowledge to the understanding and elimination of disorders of hearing and other communication processes;
 
 &emsp;(2) research into the evaluation of techniques (including surgical, medical, and behavioral approaches) and devices (including hearing aids, implanted auditory and nonauditory prosthetic devices and other communication aids) used in diagnosis, treatment, rehabilitation, and prevention of disorders of hearing and other communication processes;
 

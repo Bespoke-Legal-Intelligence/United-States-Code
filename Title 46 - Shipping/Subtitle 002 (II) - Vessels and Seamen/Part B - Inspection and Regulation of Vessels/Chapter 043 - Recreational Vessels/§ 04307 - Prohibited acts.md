@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 Section 4307 prohibits certain acts in the manufacture and operation of recreational vessels.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–557 designated existing provisions as cl. (i), substituted "and" for "or", and added cl. (ii).

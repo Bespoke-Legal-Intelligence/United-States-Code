@@ -32,6 +32,8 @@ May 28, 1936, ch. 471, §5, 49 Stat. 1391; May 29, 1953, ch. 85, §2, 67 Stat. 4
 
 The words "is eligible for membership . . . only if" are substituted for "may not be a member . . . unless" for consistency in the revised title. The words "served honorably as a member of the armed forces of the United States" are substituted for "served honorably as a member of the Armed Forces of the United States" and "while a member of the Armed Forces of the United States, served honorably" to eliminate unnecessary words. In clause (2), the words "at least" are substituted for "not less than" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Par. (3). Pub. L. 114–328 inserted "or 351" after "section 310".

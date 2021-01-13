@@ -70,11 +70,15 @@ Act
 
 July 4, 1966, Pub. L. 89–488, §10(a), 80 Stat. 255.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Panama Canal Company, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Personnel Not Affected by 1967 Increase
 
-Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 

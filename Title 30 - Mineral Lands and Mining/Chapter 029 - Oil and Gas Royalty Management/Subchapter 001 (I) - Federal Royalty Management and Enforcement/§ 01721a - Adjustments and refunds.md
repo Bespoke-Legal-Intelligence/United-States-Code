@@ -28,7 +28,7 @@
 
 #### (2) Payment by Secretary of the Treasury
 
-&emsp;The Secretary shall certify the amount of the refund to be paid under paragraph (1) to the Secretary of the Treasury who shall make such refund. Such refund shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the MineralLeasing Act \[30 U.S.C. 181 et seq.\] and the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], which are not payable to a State or the Reclamation Fund. The portion of any such refund attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any recipient prescribed by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
+&emsp;The Secretary shall certify the amount of the refund to be paid under paragraph (1) to the Secretary of the Treasury who shall make such refund. Such refund shall be paid from amounts received as current receipts from sales, bonuses, royalties (including interest charges collected under this section) and rentals of the public lands and the Outer Continental Shelf under the provisions of the Mineral Leasing Act \[30 U.S.C. 181 et seq.\] and the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], which are not payable to a State or the Reclamation Fund. The portion of any such refund attributable to any amounts previously disbursed to a State, the Reclamation Fund, or any recipient prescribed by law shall be deducted from the next disbursements to that recipient made under the applicable law. Such amounts deducted from subsequent disbursements shall be credited to miscellaneous receipts in the Treasury.
 
 #### (3) Payment period
 
@@ -40,11 +40,15 @@
 
 (Pub. L. 97–451, title I, §111A, as added Pub. L. 104–185, §5(a), Aug. 13, 1996, 110 Stat. 1710.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

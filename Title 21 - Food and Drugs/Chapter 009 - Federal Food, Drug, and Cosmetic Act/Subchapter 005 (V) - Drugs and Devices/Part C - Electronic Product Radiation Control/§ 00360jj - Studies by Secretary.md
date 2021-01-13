@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress
 
-The Secretary shall conduct the following studies, and shall make a report or reports ofthe results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
+The Secretary shall conduct the following studies, and shall make a report or reports of the results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
 
 (1) A study of present State and Federal control of health hazards from electronic product radiation and other types of ionizing radiation, which study shall include, but not be limited to—
 
@@ -20,7 +20,7 @@ The Secretary shall conduct the following studies, and shall make a report or re
 
 (2) A study to determine the necessity for the development of standards for the use of nonmedical electronic products for commercial and industrial purposes; and
 
-(3) A study of the development of practicable procedures for the detection and measurement of electronic product radiation which may be emitted from electronic products manufactured or imported prior to the effective date of any applicable standard established pursuant to this part.
+(3) A study of the development of practicable procedures for the detection and measurementof electronic product radiation which may be emitted from electronic products manufactured or imported prior to the effective date of any applicable standard established pursuant to this part.
 
 #### (b) Participation of other Federal agencies
 
@@ -31,6 +31,8 @@ In carrying out these studies, the Secretary shall invite the participation of o
 The Secretary or his designee shall organize the studies and the participation of the invited participants as he deems best. Any dissent from the findings and recommendations of the Secretary shall be included in the report if so requested by the dissenter.
 
 (June 25, 1938, ch. 675, §533, formerly act July 1, 1944, ch. 373, title III, §533, formerly §357, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1176; renumbered §533 and amended Pub. L. 101–629, §19(a)(1)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Section was classified to section 263e of Title 42, The Public Health and Welfar
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263e of Title 42, The Public Health and Welfare, as this section.
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Noninterference With Other Federal Agencies
 

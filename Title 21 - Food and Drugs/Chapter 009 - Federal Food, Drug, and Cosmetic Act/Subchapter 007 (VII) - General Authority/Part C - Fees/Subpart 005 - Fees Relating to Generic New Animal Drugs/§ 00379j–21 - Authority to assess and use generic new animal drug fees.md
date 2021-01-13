@@ -136,7 +136,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (B) Reduction of workload-based increase by amount of certain excess collections
 
-&emsp;&emsp;For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the secondpreceding fiscal year, up to the amount of such fee revenue increase.
+&emsp;&emsp;For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
 
 #### (C) Rule of application
 
@@ -192,7 +192,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs\(including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -252,7 +252,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" means the expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of theFood and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources;
 
@@ -318,6 +318,8 @@ In this section and section 379j–22 of this title:
 
 <i>For termination of section by section 206(a) of Pub. L. 115–234, see Termination Date note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 741 of act June 25, 1938, was renumbered section 745 and is classified to section 379k of this title.
@@ -328,7 +330,7 @@ A prior section 741 of act June 25, 1938, was renumbered section 745 and is clas
 
 Subsec. (c)(2). Pub. L. 115–234, §202(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 115–234, §202(b)(1)(A), (2), redesignated par. (2) as (3) and amended it generally. Priorto amendment, text read as follows: "The fee revenues shall be adjusted each fiscal year after fiscal year 2014 to reflect changes in review workload. With respect to such adjustment:
+Subsec. (c)(3). Pub. L. 115–234, §202(b)(1)(A), (2), redesignated par. (2) as (3) and amended it generally. Prior to amendment, text read as follows: "The fee revenues shall be adjusted each fiscal year after fiscal year 2014 to reflect changes in review workload. With respect to such adjustment:
 
 &emsp;"(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
@@ -345,6 +347,8 @@ Subsec. (d). Pub. L. 115–234, §202(c), amended subsec. (d) generally. Prior t
 Subsec. (g)(3), (4). Pub. L. 115–234, §202(d), added par. (3) and par. (4) relating to excess collections and struck out former par. (3) which related to authorization of appropriations for fiscal years 2014 to 2018.
 
 <b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use generic new animal drug fees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -370,9 +374,9 @@ Pub. L. 113–14, title II, §204, June 13, 2013, 127 Stat. 474, provided that: 
 
 #### Findings
 
-Pub. L. 115–234, title II, §201(b), Aug. 14, 2018, 132 Stat. 2432, provided that: "Congress finds that the fees authorized by the amendments made in this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 115–234, title II, §201(b), Aug. 14, 2018, 132 Stat. 2432, provided that: "Congress finds that the fees authorized by the amendments made in this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapterVII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor and Pensions of the Senate as set forth in the Congressional Record."
 
-Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairmanof the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: "Congress finds as follows:
 

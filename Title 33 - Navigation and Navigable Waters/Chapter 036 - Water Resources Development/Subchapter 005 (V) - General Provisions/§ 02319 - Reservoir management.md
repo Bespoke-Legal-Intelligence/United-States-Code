@@ -4,6 +4,8 @@ The Secretary shall ensure that, in developing or revising reservoir operating m
 
 (Pub. L. 101–640, title III, §310, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §233, Oct. 12, 1996, 110 Stat. 3704.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -15,6 +17,8 @@ Section was enacted as part of the Water Resources Development Act of 1990, and 
 Subsec. (b). Pub. L. 104–303, §233(2), struck out "(b)
 
 Public Participation.—" before "The Secretary shall ensure", and substituted "section" for "subsection" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Dam Optimization
 
@@ -58,7 +62,7 @@ Inclusions.—The updated report described in clause (i) shall—
 
 &emsp;&emsp;&emsp;"(I) include—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the date on which the most recent review of project operations was conducted andany recommendations of the Secretary relating to that review the Secretary determines to be significant;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(aa) the date on which the most recent review of project operations was conducted and any recommendations of the Secretary relating to that review the Secretary determines to be significant;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) the activities carried out pursuant to each such review to improve the efficiency of operations and maintenance and to improve project benefits consistent with authorized purposes;
 

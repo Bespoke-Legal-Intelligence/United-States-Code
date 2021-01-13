@@ -12,7 +12,7 @@ Except as provided in subsection (d), the plan administrator of a single-employe
 
 #### (b) Computation of liability
 
-Except as provided in subsection (c), any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a), be liable, together with the members of their controlled groups, to the corporation in accordance with the provisions of section 1362 of this title and this section. The amount of liability shall be computed on the basis of an amount determined by the corporation to be the amount described in section 1362 of this title for the entire plan, as if the plan had been terminated by the corporation on the date of the withdrawal referred to in subsection (a)(1) multiplied by a fraction—
+Except as provided in subsection (c), any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under commoncontrol, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a), be liable, together with the members of their controlled groups, to the corporation in accordance with the provisions of section 1362 of this title and this section. The amount of liability shall be computed on the basis of an amount determined by the corporation to be the amount described in section 1362 of this title for the entire plan, as if the plan had been terminated by the corporation on the date of the withdrawal referred to in subsection (a)(1) multiplied by a fraction—
 
 &emsp;(1) the numerator of which is the total amount required to be contributed to the plan by such contributing sponsors for the last 5 years ending prior to the withdrawal, and
 
@@ -50,6 +50,8 @@ The corporation is authorized to waive the application of the provisions of subs
 
 (Pub. L. 93–406, title IV, §4063, Sept. 2, 1974, 88 Stat. 1030; Pub. L. 96–364, title IV, §403(h), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(A), Apr. 7, 1986, 100 Stat. 268.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c)(1), "sections 9304–9308 of title 31" substituted for "sections 6 through 13 of title 6, United States Code" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -60,9 +62,9 @@ In subsec. (c)(1), "sections 9304–9308 of title 31" substituted for "sections 
 
 Subsec. (a). Pub. L. 99–272, §11016(a)(5)(A)(i), in introductory par., substituted "single-employer plan which has two or more contributing sponsors at least two of whom are not under common control" for "plan under which more than one employer makes contributions (other than a multiemployer plan)", in par. (1), substituted "withdrawal during a plan year of a substantial employer for such plan year" for "withdrawal of a substantial employer", in par. (2), substituted "of all persons with respect to the withdrawal of the substantial employer" for "of such employer under this subtitle with respect to such withdrawal", and in concluding provision substituted "whether there is liability resulting from the withdrawal of the substantial employer" for "whether such employer is liable for any amount under this subtitle with respect to the withdrawal" and "notify the liable persons" for "notify such employer".
 
-Subsec. (b). Pub. L. 99–272, §11016(a)(5)(A)(ii), in introductory par., substituted "any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a), be liable, together with the members of their controlled groups," for "an employer who withdraws from a plan to which section 1321 of this title applies, during a plan year for which he was a substantial employer, and who is notified by the corporation as provided by subsection (a), shall be liable", "amount of liability" for "amount of such employer's liability", and "the withdrawal referred to in subsection (a)(1)" for "the employer's withdrawal", in par. (1), substituted "such contributing sponsors" for "such employer", in par. (2), substituted "all contributing sponsors" for "all employers", and in concluding provision substituted "such liability" for "the liability of each such employer".
+Subsec. (b). Pub. L. 99–272, §11016(a)(5)(A)(ii), in introductory par., substituted "any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from asingle-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a), be liable, together with the members of their controlled groups," for "an employer who withdraws from a plan to which section 1321 of this title applies, during a plan year for which he was a substantial employer, and who is notified by the corporation as provided by subsection (a), shall be liable", "amount of liability" for "amount of such employer's liability", and "the withdrawal referred to in subsection (a)(1)" for "the employer's withdrawal", in par. (1), substituted "such contributing sponsors" for "such employer", in par. (2), substituted "all contributing sponsors" for "all employers", and in concluding provision substituted "such liability" for "the liability of each such employer".
 
-Subsec. (c)(1). Pub. L. 99–272, §11016(a)(5)(A)(iii)(I), substituted "of a contributing sponsor's liability underthis section, the contributing sponsor" for "of his liability under this section the employer".
+Subsec. (c)(1). Pub. L. 99–272, §11016(a)(5)(A)(iii)(I), substituted "of a contributing sponsor's liability under this section, the contributing sponsor" for "of his liability under this section the employer".
 
 Subsec. (c)(2). Pub. L. 99–272, §11016(a)(5)(A)(iii)(II), inserted "under section 1341(c) or 1342 of this title" and substituted "liability is" for "liability of such employer is" and "(or the bond cancelled)" for "to the employer (or his bond cancelled)".
 
@@ -73,6 +75,8 @@ Subsec. (d). Pub. L. 99–272, §11016(a)(5)(A)(iv), in introductory par., subst
 Subsec. (e). Pub. L. 99–272, §11016(a)(5)(A)(v), struck out "to any employer or plan administrator" before "whenever it determines" and substituted "contributing sponsors" for "all other employers".
 
 <b>1980</b>—Subsecs. (a), (d). Pub. L. 96–364 inserted provisions excepting a multiemployer plan.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -68,7 +68,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate;
 
-&emsp;&emsp;(D) the Office of Congressional Accessibility Services, the United States Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, and the John C.Stennis Center for Public Service Training and Development; or
+&emsp;&emsp;(D) the Office of Congressional Accessibility Services, the United States Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, and the John C. Stennis Center for Public Service Training and Development; or
 
 &emsp;&emsp;(E) the Library of Congress, except for section 1351 of this title.
 
@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(ii) by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Senator, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties.
 
-&emsp;(B) Legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim under this chapter, shall be provided to the United States Commission on International Religious Freedom by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with such claim).
+&emsp;(B) Legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim underthis chapter, shall be provided to the United States Commission on International Religious Freedom by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with such claim).
 
 #### (3) Definitions
 
@@ -117,6 +117,8 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 &emsp;&emsp;(D) the term "United States Commission on International Religious Freedom" means the Commission established under section 6431 of title 22.
 
 (Pub. L. 104–1, title I, §101, Jan. 23, 1995, 109 Stat. 4; Pub. L. 110–279, §1(g)(1), July 17, 2008, 122 Stat. 2609; Pub. L. 110–437, title IV, §422(b)(1), (2), Oct. 20, 2008, 122 Stat. 4996; Pub. L. 111–145, §2(a)(5)(A), Mar. 4, 2010, 124 Stat. 50; Pub. L. 115–141, div. I, title I, §153(a)(1)(A), Mar. 23, 2018, 132 Stat. 785; Pub. L. 115–397, title III, §§302(b), 305(a)–(c), 308(b)(1)–(7), Dec. 21, 2018, 132 Stat. 5321, 5323, 5324, 5326; Pub. L. 116–94, div. J, title VIII, §805(b), Dec. 20, 2019, 133 Stat. 3077.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -158,6 +160,8 @@ Par. (5). Pub. L. 110–279, which directed substitution of "or the Botanic Gard
 
 Par. (9)(D). Pub. L. 110–437, §422(b)(2), substituted "the Office of Congressional Accessibility Services," for "the Capitol Guide Board,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–397, title III, §305(d), Dec. 21, 2018, 132 Stat. 5324, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of the Congressional Accountability Act of 1995 \[Pub. L. 104–1\]."
@@ -172,7 +176,7 @@ In General.—Except as otherwise provided in this Act \[See Short Title of 2018
 
 "(b)
 
-No Effect on Pending Proceedings.—Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that were available to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings."
+No Effect on Pending Proceedings.—Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that wereavailable to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings."
 
 Pub. L. 115–141, div. I, title I, §153(c), Mar. 23, 2018, 132 Stat. 787, provided that: "This section \[amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title\] and the amendments made by this section—
 
@@ -189,6 +193,10 @@ Pub. L. 115–141, div. I, title I, §153(c), Mar. 23, 2018, 132 Stat. 787, prov
 Pub. L. 110–437, title IV, §422(d), Oct. 20, 2008, 122 Stat. 4997, provided that: "The amendments made by this section \[amending this section and sections 1331 and 1341 of this title and section 2107 of Title 5, Government Organization and Employees, and repealing section 2166 of this title\] shall take effect on the transfer date \[first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 2261 of this title\]."
 
 Amendment by Pub. L. 110–279 effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see section 2051(i) of this title.
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–283, div. A, title XI, §1103(a), Jan. 1, 2021, 134 Stat. 3886, provided that: "This section \[amending section 1312 of this title, section 412 of Title 3, The President, sections 6301, 6381, and 6382 of Title 5, Government Organization and Employees, section 7425 of Title 38, Veterans' Benefits, and section 40122 of Title 49, Transportation, and enacting provisions set out as notes under section 1312 of this title, section 412 of Title 3, section 7425 of Title 38, and section 40122 of Title 49\] may be cited as the 'Paid Parental Leave Technical Corrections Act of 2020'."
 
 #### Short Title of 2018 Amendment
 

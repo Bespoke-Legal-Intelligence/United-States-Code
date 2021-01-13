@@ -50,7 +50,7 @@
 
 (e)
 
-Presentation of Flag of the United States.—(1) In the case of a decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses for the presentation of a flag of the United States to the following persons:
+Presentation of Flag of the United States.—(1) In the case of a decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses for thepresentation of a flag of the United States to the following persons:
 
 &emsp;(A) The person designated under subsection (c) to direct disposition of the remains of the decedent.
 
@@ -72,7 +72,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (5) In this subsection:
 
-&emsp;(A) The term "parent" includes a natural parent, a stepparent, a parent by adoption, or a person who for a period of not less than oneyear before the death of the decedent stood in loco parentis to the decedent. Preference under paragraph (1)(B) shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.
+&emsp;(A) The term "parent" includes a natural parent, a stepparent, a parent by adoption, or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to the decedent. Preference under paragraph (1)(B) shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.
 
 &emsp;(B) The term "child" has the meaning prescribed by section 1477(d) of this title.
 
@@ -124,7 +124,7 @@ Historical and Revision Notes
 
 July 15, 1954, ch. 507, §§2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478, 480, 481.
 
-In subsection (a), the list of payable expenses has been rearranged to produce a generally chronological result. The words "person designated" are substituted for the words "person recognized as the person."
+In subsection (a), the list of payable expenses has been rearranged to produce a generally chronologicalresult. The words "person designated" are substituted for the words "person recognized as the person."
 
 In subsection (a)(4), the words "articles of" are omitted as surplusage.
 

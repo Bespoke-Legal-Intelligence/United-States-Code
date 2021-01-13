@@ -87,6 +87,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–401, §2(b)(2), Oct. 30, 2004, 118 Stat. 2255, substituted "Purposes" for "Purpose" in item 591.

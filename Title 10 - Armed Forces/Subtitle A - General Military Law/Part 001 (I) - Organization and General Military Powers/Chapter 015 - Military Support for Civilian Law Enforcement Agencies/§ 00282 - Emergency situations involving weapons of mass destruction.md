@@ -84,7 +84,7 @@ Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substitu
 
 #### Military Assistance to Civil Authorities To Respond to Act or Threat of Terrorism
 
-Pub. L. 106–65, div. A, title X, §1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
+Pub. L. 106–65, div. A, title X, §1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the UnitedStates, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

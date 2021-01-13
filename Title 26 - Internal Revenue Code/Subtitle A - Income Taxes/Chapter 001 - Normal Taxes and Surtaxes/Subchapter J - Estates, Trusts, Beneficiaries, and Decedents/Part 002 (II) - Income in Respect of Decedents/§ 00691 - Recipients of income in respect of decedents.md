@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;The amount of all items of gross income in respect of a decedent which are not properlyincludible in respect of the taxable period in which falls the date of his death or a prior period (including the amount of all items of gross income in respect of a prior decedent, if the right to receive such amount was acquired by reason of the death of the prior decedent or by bequest, devise, or inheritance from the prior decedent) shall be included in the gross income, for the taxable year when received, of:
+&emsp;The amount of all items of gross income in respect of a decedent which are not properly includible in respect of the taxable period in which falls the date of his death or a prior period (including the amount of all items of gross income in respect of a prior decedent, if the right to receive such amount was acquired by reason of the death of the prior decedent or by bequest, devise, or inheritance from the prior decedent) shall be included in the gross income, for the taxable year when received, of:
 
 &emsp;&emsp;(A) the estate of the decedent, if the right to receive the amount is acquired by the decedent's estate from the decedent;
 
@@ -84,7 +84,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
-&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
+&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excessof the estate tax over the estate tax computed without including in the gross estate such net value.
 
 #### (3) Special rule for generation-skipping transfers
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within themeaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1984 Amendment
 

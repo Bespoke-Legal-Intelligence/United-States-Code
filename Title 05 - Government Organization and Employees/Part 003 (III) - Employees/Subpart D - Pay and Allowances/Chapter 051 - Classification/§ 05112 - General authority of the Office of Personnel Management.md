@@ -34,11 +34,15 @@ In subsection (a), the words "which may be exercised at any time in its discreti
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454, §906(a)(17), substituted "Office of Personnel Management" for "Civil Service Commission" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 95–454, §906(a)(2), (3), substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

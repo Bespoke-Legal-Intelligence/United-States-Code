@@ -24,7 +24,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 #### (4) Dealer
 
-&emsp;The term "dealer" means a dealer (as such term is defined in section 78c(a)(5) of this title)that is required to file a balance sheet, income statement, or other financial statement under section 78q(e)(1)(A) of this title, where such balance sheet, income statement, or financial statement is required to be certified by a registered public accounting firm.
+&emsp;The term "dealer" means a dealer (as such term is defined in section 78c(a)(5) of this title) that is required to file a balance sheet, income statement, or other financial statement under section 78q(e)(1)(A) of this title, where such balance sheet, income statement, or financial statement is required to be certified by a registered public accounting firm.
 
 #### (5) Professional standards
 
@@ -36,7 +36,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, brokers, or dealers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
-&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
+&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competencystandards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers, brokers, or dealers; and
 

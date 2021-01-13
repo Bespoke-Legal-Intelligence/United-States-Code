@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;The information required to be furnished under this clause about an organization is—
 
-&emsp;&emsp;&emsp;&emsp;(I) the percentages determined by dividing the following categories of the organization's expenses for the year by the total expenses of the organization for theyear: expenses for direct services, management expenses, general expenses, fundraising expenses, and payments to affiliates; and
+&emsp;&emsp;&emsp;&emsp;(I) the percentages determined by dividing the following categories of the organization's expenses for the year by the total expenses of the organization for the year: expenses for direct services, management expenses, general expenses, fundraising expenses, and payments to affiliates; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the category or categories (including food, shelter, education, substance abuse prevention or treatment, job training, or other) of services that constitute predominant activities of the organization.
 

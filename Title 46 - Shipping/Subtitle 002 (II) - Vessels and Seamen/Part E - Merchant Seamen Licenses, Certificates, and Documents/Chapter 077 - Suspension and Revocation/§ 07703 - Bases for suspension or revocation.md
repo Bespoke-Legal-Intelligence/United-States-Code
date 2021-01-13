@@ -16,7 +16,7 @@ A license, certificate of registry, or merchant mariner's document issued by the
 
 &emsp;(5) is a security risk that poses a threat to the safety or security of a vessel or a public or commercial structure located within or adjacent to the marine environment.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(E), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(b), Aug. 18, 1990, 104 Stat. 511; Pub. L. 108–293, title IV, §408, title VI,§609(3), Aug. 9, 2004, 118 Stat. 1044, 1058; Pub. L. 109–241, title IX, §901(h)(3), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 546; Pub. L. 99–36, §1(a)(9)(E), May 15, 1985, 99 Stat. 68; Pub. L. 101–380, title IV, §4103(b), Aug. 18, 1990, 104 Stat. 511; Pub. L. 108–293, title IV, §408, title VI, §609(3), Aug. 9, 2004, 118 Stat. 1044, 1058; Pub. L. 109–241, title IX, §901(h)(3), July 11, 2006, 120 Stat. 564.)
 
 Historical and Revision Notes
 
@@ -36,6 +36,8 @@ Historical and Revision Notes
 
 This section provides the bases for suspension and revocation of a license, certificate or document. The individual must have been operating under the authority of the required license, certificate, or document and has violated a law or regulation intended to promote marine safety or to protect the navigable waters or has committed an act of incompetence, misconduct, or negligence.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Par. (3). Pub. L. 109–241 struck out "(23 U.S.C. 401 note)" after "of title 49".
@@ -53,6 +55,8 @@ Pars. (4), (5). Pub. L. 108–293, §408(2)–(4), added pars. (4) and (5).
 &emsp;"(2) has committed an act of incompetence, misconduct, or negligence."
 
 <b>1985</b>—Pub. L. 99–36 substituted "certificate of registry," for first reference to "certificate,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -48,7 +48,7 @@ The purposes of this section are—
 
 #### (c) Energy savings goals
 
-An agency that leases or purchases a stationary, portable, or micro fuel cell in accordance with subsection (b)(1) may use that lease or purchase to count toward an energy savings goaldescribed in section 16157 of this title that is applicable to the agency.
+An agency that leases or purchases a stationary, portable, or micro fuel cell in accordance with subsection (b)(1) may use that lease or purchase to count toward an energy savings goal described in section 16157 of this title that is applicable to the agency.
 
 #### (d) Authorization of appropriations
 

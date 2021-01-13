@@ -44,6 +44,8 @@ In subsection (c), the word "parcel" is substituted for "tract" for consistency 
 
 In subsection (d), the word "further" is omitted as obsolete.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 National Monuments Established Under Presidential Proclamation
 
 &nbsp;
@@ -308,7 +310,7 @@ Navajo National Monument, Arizona.—Proc. No. 873, Mar. 20, 1909, 36 Stat. 2491
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
-Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016, 81 F.R. 65161.
+Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016, 81 F.R. 65161; Proc. No. 10049, June 5, 2020, 85 F.R. 35793.
 
 Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papahānaumokuākea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
@@ -418,7 +420,7 @@ Wrangell-St. Elias National Monument, Alaska.—Proc. No. 4625, Dec. 1, 1978, 93
 
 Wupatki National Monument, Arizona.—Proc. No. 1721, Dec. 9, 1924, 43 Stat. 1977; Proc. No. 2243, July 9, 1937, 52 Stat. 1841; Proc. No. 2454, Jan. 20, 1941, 55 Stat. 1608; Pub. L. 104–333, div. I, title II, §207, Nov. 12, 1996, 110 Stat. 4107.
 
-Yucca House National Monument, Colorado.—Proc. No. 1549, Dec. 19, 1919, 41 Stat. 1781; Pub. L. 104–333, div. I, title II, §201, Nov. 12, 1996, 110 Stat. 4105.
+Yucca House National Monument, Colorado.—Proc. No. 1549, Dec. 19, 1919, 41 Stat. 1781; Pub. L. 104–333, div. I, title II, §201, Nov. 12, 1996, 110 Stat. 4105; Pub. L. 116–329, Jan. 13, 2021, 134 Stat. 5100.
 
 Yukon-Charley National Monument, Alaska.—Proc. No. 4626, Dec. 1, 1978, 93 Stat. 1472.
 
@@ -574,7 +576,7 @@ Prisoner of War/Missing in Action National Memorial, California.—Pub. L. 108�
 
 Richard L. Kohnstamm Memorial Area, Oregon.—Pub. L. 111–11, title I, §1202(b), Mar. 30, 2009, 123 Stat. 1009.
 
-Saint Francis Dam Disaster National Memorial, California. Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
+Saint Francis Dam Disaster National Memorial, California.—Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
 

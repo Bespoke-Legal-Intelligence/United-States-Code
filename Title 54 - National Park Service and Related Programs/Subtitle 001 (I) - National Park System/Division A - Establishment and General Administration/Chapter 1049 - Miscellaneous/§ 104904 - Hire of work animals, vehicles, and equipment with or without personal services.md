@@ -1,6 +1,6 @@
 ### §104904. Hire of work animals, vehicles, and equipment with or without personal services
 
-The Secretary may hire, with or without personal services, work animals and animal-drawn and motor-propelled vehicles and equipment at rates to be approved by the Secretary and without compliance with section 6101 of title 41.
+The Secretary may hire, with or without personal services, work animals and animal-drawnand motor-propelled vehicles and equipment at rates to be approved by the Secretary and without compliance with section 6101 of title 41.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3168.)
 

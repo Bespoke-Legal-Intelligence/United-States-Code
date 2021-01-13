@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which theSecretary has determined is capable of carrying out such grant or contract—
+&emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
 &emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residency or internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) to plan, develop, and operate a physician assistant education program, and for the training of individuals who will teach in programs to provide such training;
 
-&emsp;&emsp;(G) to plan, develop, and operate a demonstration program that provides training in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in section 294q of this title, which may include—
+&emsp;&emsp;(G) to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and in new competencies, as recommended by the Advisory Committee on Training in Primary Care Medicine and Dentistry and the National Health Care Workforce Commission established in section 294q of this title, which may include—
 
 &emsp;&emsp;&emsp;(i) providing training to primary care physicians relevant to providing care through patient-centered medical homes (as defined by the Secretary for purposes of this section);
 
@@ -31,6 +31,10 @@
 #### (2) Duration of awards
 
 &emsp;The period during which payments are made to an entity from an award of a grant or contract under this subsection shall be 5 years.
+
+#### (3) Priorities in making awards
+
+&emsp;In awarding grants or contracts under paragraph (1), the Secretary may give priority to qualified applicants that train residents in rural areas, including for Tribes or Tribal Organizations in such areas.
 
 #### (b) Capacity building in primary care
 
@@ -62,7 +66,7 @@
 
 &emsp;&emsp;(D) have a record of training individuals who are from underrepresented minority groups or from a rural or disadvantaged background;
 
-&emsp;&emsp;(E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance-related disorders, individuals with HIV/AIDS, and individuals with disabilities;
+&emsp;&emsp;(E) provide training in the care of vulnerable populations such as children, older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with HIV/AIDS, and individuals with disabilities;
 
 &emsp;&emsp;(F) establish formal relationships and submit joint applications with federally qualified health centers, rural health clinics, area health education centers, or clinics located in underserved areas or that serve underserved populations;
 
@@ -80,7 +84,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014.
+&emsp;For purposes of carrying out this section (other than subsection (b)(1)(B)), there are authorized to be appropriated $48,924,000 for each of fiscal years 2021 through 2025.
 
 #### (2) Training programs
 
@@ -90,7 +94,7 @@
 
 &emsp;For purposes of carrying out subsection (b)(1)(B), there are authorized to be appropriated $750,000 for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title VII, §747, as added Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615.)
+(July 1, 1944, ch. 373, title VII, §747, as added Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615; amended Pub. L. 116–136, div. A, title III, §3401(3), Mar. 27, 2020, 134 Stat. 386.)
 
 #### Codification
 
@@ -103,6 +107,16 @@ A prior section 293k, act July 1, 1944, ch. 373, title VII, §747, as added Pub.
 A prior section 747 of act July 1, 1944, was classified to section 294q–3 of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 Another prior section 747 of act July 1, 1944, was classified to section 294g of this title prior to repeal by Pub. L. 94–484.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(G). Pub. L. 116–136, §3401(3)(A)(i), substituted "to plan, develop, and operate a program that identifies or develops innovative models of providing care, and trains primary care physicians on such models and" for "to plan, develop, and operate a demonstration program that provides training" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 116–136, §3401(3)(A)(ii), added par. (3).
+
+Subsec. (b)(3)(E). Pub. L. 116–136, §3401(3)(B), substituted "substance use disorders" for "substance-related disorders".
+
+Subsec. (c)(1). Pub. L. 116–136, §3401(3)(C), substituted "$48,924,000 for each of fiscal years 2021 through 2025" for "$125,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2014".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "propose".</i>
 

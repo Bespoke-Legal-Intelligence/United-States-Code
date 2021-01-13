@@ -10,7 +10,7 @@ Any rights retained pursuant to this section shall be subject to such terms and 
 
 #### (c) "Improved property" defined
 
-As used in this section, the term "improved property" means a year-round noncommercial single-family dwelling together with such land, in the same ownership as the dwelling, as the Secretary determines is reasonably necessary for the enjoyment of the dwelling for single-family residential use.
+As used in this section, the term "improved property" means a year-round noncommercialsingle-family dwelling together with such land, in the same ownership as the dwelling, as the Secretary determines is reasonably necessary for the enjoyment of the dwelling for single-family residential use.
 
 (Pub. L. 101–214, §4, Dec. 11, 1989, 103 Stat. 1850.)
 

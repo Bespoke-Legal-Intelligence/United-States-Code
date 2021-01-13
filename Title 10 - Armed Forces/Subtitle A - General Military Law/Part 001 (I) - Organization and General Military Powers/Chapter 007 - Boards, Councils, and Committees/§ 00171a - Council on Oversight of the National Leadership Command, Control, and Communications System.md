@@ -86,7 +86,7 @@ Notification of Anomalies.—(1) The Secretary of Defense shall submit to the co
 
 (i)
 
-Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions <sup>1</sup> and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to thecongressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 (2) A system described in this paragraph is any of the following:
 
@@ -150,9 +150,21 @@ National Leadership of the United States Defined.—In this section, the term "n
 
 &emsp;(3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772.)
+(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, §1081(a)(10), title XVIII, §§1845(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3871, 4247, 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note(s) below.</i>
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (i)(3) of this section is amended by striking "section 2366(e)" and inserting "sections 4172(e)". See 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(10), substituted "Acquisition" for "Acquisitions".
+
+Subsec. (i)(3). Pub. L. 116–283, §1883(b)(2), substituted "4251(d)" for "2366a(d)".
+
+Pub. L. 116–283, §1845(c)(2), which directed substitution of "sections 4172(e)" for "section 2366(e)", wasexecuted by making the substitution for "sections 2366(e)", to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92 substituted "and Sustainment" for ", Technology, and Logistics" wherever appearing.
 
@@ -175,6 +187,10 @@ Subsecs. (i) to (k). Pub. L. 114–328, §1661(b), added subsecs. (i) and (j) an
 <b>2015</b>—Subsec. (e)(5). Pub. L. 114–92, §1651(3), added par. (5).
 
 Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1845(c)(2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Department of Defense Instruction
 
@@ -231,6 +247,4 @@ Briefings.—The co-chairs of the Council on Oversight of the National Leadershi
 &emsp;"(A) not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\]; and
 
 &emsp;"(B) upon completion of the database."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Acquisition".</i>
 

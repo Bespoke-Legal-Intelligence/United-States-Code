@@ -62,7 +62,7 @@ Whenever an agency referred to in paragraph (1), (2), or (3) <sup>1</sup> of se
 
 #### References in Text
 
-Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
+Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625.See section 3613 of Title 42, The Public Health and Welfare.
 
 Paragraph (1), (2), or (3) of section 1691c(a) of this title, referred to in subsec. (k), probably means par. (1), (2), or (3) of section 1691c(a) of this title prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by Pub. L. 111–203, title X, §1085(4)(A)(ii)–(vi), July 21, 2010, 124 Stat. 2084.
 

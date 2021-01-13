@@ -30,6 +30,8 @@ June 29, 1936, ch. 858, title XI, §1103(d), (e) (1st sentence), as added June 2
 
 46 App.:1273(e) (1st sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.

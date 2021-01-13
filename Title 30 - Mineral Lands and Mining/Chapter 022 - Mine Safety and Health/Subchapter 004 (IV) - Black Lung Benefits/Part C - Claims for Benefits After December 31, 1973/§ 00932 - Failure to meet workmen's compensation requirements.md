@@ -76,11 +76,13 @@ In no case shall the eligible survivors of a miner who was determined to be elig
 
 (Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, §1556(b), Mar. 23, 2010, 124 Stat. 260.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 28(h)(1) of the Longshore and Harbor Workers' Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended,popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, §8(a), Sept. 6, 1966, 80 Stat. 647.
 
@@ -143,6 +145,8 @@ Subsec. (e)(3). Pub. L. 92–303, §5(4), substituted "twelve years" for "seven 
 Subsec. (f). Pub. L. 92–303, §8, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (h). Pub. L. 92–303, §3(a), substituted "coal mine" for "underground coal mine".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

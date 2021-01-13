@@ -40,6 +40,8 @@ Supply chain risk.—The term "supply chain risk" has the meaning given that ter
 
 (Added Pub. L. 115–390, title II, §202(a), Dec. 21, 2018, 132 Stat. 5178.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -60,7 +62,7 @@ Interim final rule.—Not later than one year after the date of the enactment of
 
 "(2)
 
-Final rule.—Not later than one year after prescribing the interim final rule under paragraph (1) andconsidering public comments with respect to such interim final rule, the Council shall prescribe a final rule to implement subchapter III of chapter 13 of title 41, United States Code, as added by subsection (a).
+Final rule.—Not later than one year after prescribing the interim final rule under paragraph (1) and considering public comments with respect to such interim final rule, the Council shall prescribe a final rule to implement subchapter III of chapter 13 of title 41, United States Code, as added by subsection (a).
 
 "(3)
 

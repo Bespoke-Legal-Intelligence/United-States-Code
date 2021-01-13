@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materiallyaffects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -44,7 +44,7 @@
 
 (2)(A) Any person who fails to file or amend a declaration required to be filed or amended under subsection (b) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
 
-(B) A filing of a declaration of a declaration amendment on or after the date on which an administrative action for the imposition of a civil penalty under this subsection is commenced does not prevent the imposition of such civil penalty for a failure occurring before that date. For the purposes of this subparagraph, an administrative action is commenced with respect to a failure when an investigating official determines in writing to commence an investigation of an allegation of such failure.
+(B) A filing of a declaration of a declaration amendment on or after the date on which an administrative action for the imposition of a civil penalty under this subsection is commenced does not prevent the imposition of such civil penalty for a failure occurring before that date. For the purposes of this subparagraph, an administrative action is commenced with respectto a failure when an investigating official determines in writing to commence an investigation of an allegation of such failure.
 
 (3) Sections 3803 (except for subsection (c)), 3804, 3805, 3806, 3807, 3808, and 3812 of this title shall be applied, consistent with the requirements of this section, to the imposition and collection of civil penalties under this subsection.
 
@@ -130,6 +130,8 @@
 
 (Added Pub. L. 101–121, title III, §319(a)(1), Oct. 23, 1989, 103 Stat. 750; amended Pub. L. 101–512, title III, §320, Nov. 5, 1990, 104 Stat. 1977; Pub. L. 103–272, §4(f)(1)(F), July 5, 1994, 108 Stat. 1362; Pub. L. 104–65, §10, Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–66, title III, §3001(b), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–106, div. A, title X, §1064(c), div. D, title XLIII, §4301(a)(2), Feb. 10, 1996, 110 Stat. 445, 656.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Lobbying Disclosure Act of 1995, referred to in subsec. (b)(2)(A), (3), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
@@ -191,6 +193,8 @@ Subsec. (e)(1)(C). Pub. L. 103–272, §4(f)(1)(F)(ii), substituted "appropriate
 Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after "agency" and "guaranty".
 
 <b>1990</b>—Subsec. (e)(2)(C). Pub. L. 101–512 inserted "or the single family maximum mortgage limit for affected programs, whichever is greater," after "$150,000,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

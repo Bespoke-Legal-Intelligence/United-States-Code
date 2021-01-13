@@ -4,7 +4,7 @@
 
 Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established at a Department medical center and shall be staffed by Department employees.
 
-(2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. TheUnder Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
+(2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
 (3) The Under Secretary shall carry out the Under Secretary's functions under paragraph (2) in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -62,7 +62,7 @@ Assistance to Other Agencies.—The Secretary may provide assistance requested b
 
 (h)
 
-Detail of Employees From Other Agencies.—Upon approval by the Secretary, the Director of a center may request the temporary assignment or detail to the center, on a nonreimbursable basis, of employees from other departments and agencies of the United States who have expertise that would further the mission of the center. Any such employee may be so assigned or detailed on a nonreimbursable basis pursuant to such a request.
+Detail of Employees From Other Agencies.—Upon approval by the Secretary, the Director of a center may request the temporaryassignment or detail to the center, on a nonreimbursable basis, of employees from other departments and agencies of the United States who have expertise that would further the mission of the center. Any such employee may be so assigned or detailed on a nonreimbursable basis pursuant to such a request.
 
 (i)
 
@@ -71,6 +71,8 @@ Funding.—(1) There are authorized to be appropriated for the centers under thi
 (2) In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
 
 (Added Pub. L. 108–422, title III, §303(c)(1), Nov. 30, 2004, 118 Stat. 2386; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ The text of subsecs. (a) to (h) of this section consists of the text of section 
 #### Amendments
 
 <b>2008</b>—Subsec. (i)(2). Pub. L. 110–387 substituted "medical services account" for "medical care account".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

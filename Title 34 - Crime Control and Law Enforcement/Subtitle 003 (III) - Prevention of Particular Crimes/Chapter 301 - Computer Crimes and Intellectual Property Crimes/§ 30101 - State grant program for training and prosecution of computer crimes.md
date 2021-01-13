@@ -10,7 +10,7 @@ Grants under this section may be used to establish and develop programs to—
 
 &emsp;(1) assist State and local law enforcement agencies in enforcing State and local criminal laws relating to computer crime, including infringement of copyrighted works over the Internet;
 
-&emsp;(2) assist State and local law enforcement agencies in educating the public to preventand identify computer crime, including infringement of copyrighted works over the Internet;
+&emsp;(2) assist State and local law enforcement agencies in educating the public to prevent and identify computer crime, including infringement of copyrighted works over the Internet;
 
 &emsp;(3) educate and train State and local law enforcement officers and prosecutors to conduct investigations and forensic analyses of evidence and prosecutions of computer crime, including infringement of copyrighted works over the Internet;
 
@@ -54,9 +54,11 @@ The Federal share of a grant received under this section may not exceed 90 perce
 
 #### (f) Grants to Indian tribes
 
-Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
+Notwithstanding any other provision of this section, the Attorney General may use amountsmade available under this section to make grants to Indian tribes for use in accordance with this section.
 
 (Pub. L. 106–572, §2, Dec. 28, 2000, 114 Stat. 3058; Pub. L. 110–403, title IV, §401(a), Oct. 13, 2008, 122 Stat. 4271.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

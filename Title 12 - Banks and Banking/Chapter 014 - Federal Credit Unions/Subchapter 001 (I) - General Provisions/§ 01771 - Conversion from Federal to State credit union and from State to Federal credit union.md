@@ -4,7 +4,7 @@
 
 &emsp;(1) The proposition for such conversion shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on such date or by written ballot to be filed on or before such date), by a majority of the directors of the Federal credit union. Written notice of the proposition and of the date set for the vote shall then be delivered in person to each member, or mailed to each member at the address for such member appearing on the records of the credit union, not more than thirty nor less than seven days prior to such date. Approval of the proposition for conversion shall be by the affirmative vote of a majority of the members of the credit union who vote on the proposal. The written notice of the proposition shall in boldface type state that the issue will be decided by a majority of the members who vote.
 
-&emsp;(2) A statement of the results of the vote, verified by the affidavits of the president or vice president and the secretary, shall be filed with the Administration within ten days after the vote is taken.
+&emsp;(2) A statement of the results of the vote, verified by the affidavits of the president orvice president and the secretary, shall be filed with the Administration within ten days after the vote is taken.
 
 &emsp;(3) Promptly after the vote is taken and in no event later than ninety days thereafter, if the proposition for conversion was approved by such vote, the credit union shall take such action as may be necessary under the applicable State law to make it a State credit union, and within ten days after receipt of the State credit union charter there shall be filed with the Administration a copy of the charter thus issued. Upon such filing the credit union shall cease to be a Federal credit union.
 
@@ -14,7 +14,9 @@
 
 (2) When the Board has been satisfied that all of such requirements, and all other requirements of this chapter, have been complied with, the Board shall approve the organization certificate. Upon such approval, the State credit union shall become a Federal credit union as of the date it ceases to be a State credit union. The Federal credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the State credit union to the same extent as though the conversion had not taken place.
 
-(June 26, 1934, ch. 750, title I, §125, formerly §26, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat.638; amended Pub. L. 91–206, §2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §125, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §527, Oct. 15, 1982, 96 Stat. 1535.)
+(June 26, 1934, ch. 750, title I, §125, formerly §26, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 638; amended Pub. L. 91–206, §2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, §125, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §527, Oct. 15, 1982, 96 Stat. 1535.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ A prior section 1771, act June 26, 1934, ch. 750, §21, as added July 9, 1937, c
 <b>1978</b>—Subsec. (b). Pub. L. 95–630 substituted "Board" for "Administrator" in two places.
 
 <b>1970</b>—Pub. L. 91–206 substituted "Administration" for "Bureau" and "Administrator" for "Director" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

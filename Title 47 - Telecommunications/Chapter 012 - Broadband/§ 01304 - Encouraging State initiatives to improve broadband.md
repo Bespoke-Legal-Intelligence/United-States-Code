@@ -62,7 +62,7 @@ A grant awarded to an eligible entity under subsection (b) shall be used—
 
 &emsp;&emsp;(C) possible suppliers of such services;
 
-&emsp;(3) to identify barriers to the adoption by individuals and businesses of broadband serviceand related information technology services, including whether or not—
+&emsp;(3) to identify barriers to the adoption by individuals and businesses of broadband service and related information technology services, including whether or not—
 
 &emsp;&emsp;(A) the demand for such services is absent; and
 

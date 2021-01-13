@@ -4,13 +4,15 @@ If the Secretary of Housing and Urban Development finds that, because of higher 
 
 (June 27, 1934, ch. 847, title II, §214, as added Apr. 23, 1949, ch. 89, §2(a), 63 Stat. 57; amended Sept. 1, 1951, ch. 378, title VI, §606, 65 Stat. 315; July 14, 1952, ch. 723, §10(a)(3), 66 Stat. 603; June 30, 1953, ch. 170, §25(a), (c), 67 Stat. 128; Pub. L. 86–70, §10(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–372, title I, §106, Sept. 23, 1959, 73 Stat. 657; Pub. L. 90–19, §1(a)(2), (3), May 25, 1967, 81 Stat. 17; Pub. L. 91–152, title IV, §418(e), Dec. 24, 1969, 83 Stat. 402; Pub. L. 96–399, title III, §308(c)(1), Oct. 8, 1980, 94 Stat. 1640; Pub. L. 98–479, title II, §204(a)(4), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 100–242, title IV, §406(b)(7), Feb. 5, 1988, 101 Stat. 1901; Pub. L. 101–625, title III, §333, Nov. 28, 1990, 104 Stat. 4141.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
-Section is comprised of section 214 of act June 27, 1934, as added by section 2(a) of act Apr. 23, 1949, which insofar as Alaska, Hawaii, and Guam individually are concerned, was, formerly, also set out as sections 484d, 723, and 1425 of Title 48, Territories and Insular Possessions. Section 2(b) of act Apr. 23, 1949, which was formerly classified to sections 484e, 724 and 1426 of Title 48, was repealed by act Aug. 2, 1954, ch. 649, title II, §205, 68 Stat. 622.
+Section is comprised of section 214 of act June 27, 1934, as added by section 2(a) of act Apr. 23, 1949, which insofar as Alaska, Hawaii, and Guam individually areconcerned, was, formerly, also set out as sections 484d, 723, and 1425 of Title 48, Territories and Insular Possessions. Section 2(b) of act Apr. 23, 1949, which was formerly classified to sections 484e, 724 and 1426 of Title 48, was repealed by act Aug. 2, 1954, ch. 649, title II, §205, 68 Stat. 622.
 
 #### Amendments
 
@@ -38,9 +40,11 @@ Act June 30, 1953, §25(c), substituted in fourth sentence "Upon application by 
 
 <b>1951</b>—Act Sept. 1, 1951, substituted "one-half" for "one-third" in first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditionalcommitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
+Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditional commitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
 
 #### Study and Report Respecting Utilization of Factory-Built and Other Appropriate Types of Housing for Indian, Etc., Housing Programs
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) the Commission on Proposals for the National Academy of Peace and Conflict Resolution, created by the Education Amendments of 1978, recommended establishing an academy as a highly desirable investment to further the Nation's interest in promoting international peace;
 
-&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world of learning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
+&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world oflearning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
 
 &emsp;(9) the establishment of such an institute is an appropriate investment by the people of this Nation to advance the history, science, art, and practice of international peace and the resolution of conflicts among nations without the use of violence.
 
@@ -24,9 +24,13 @@
 
 (Pub. L. 98–525, title XVII, §1702, Oct. 19, 1984, 98 Stat. 2649.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Part B (§§1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under section 1123 of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under section 6301 of Title 20 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

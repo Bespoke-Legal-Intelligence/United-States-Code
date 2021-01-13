@@ -44,7 +44,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
-&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
+&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, andshall submit such evaluations to Congress triennially.
 
 #### (d) Limitations and private property protections
 

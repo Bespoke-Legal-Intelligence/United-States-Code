@@ -12,7 +12,7 @@ In General.—In addition to amounts made available under section 14501, there i
 
 &emsp;(4) $108,000,000 for fiscal year 2011; and
 
-&emsp;(5) $110,000,000 for each of fiscal years 2012 through 2020.
+&emsp;(5) $110,000,000 for each of fiscal years 2012 through 2021.
 
 (b)
 
@@ -30,7 +30,7 @@ Economic and Energy Development Initiative.—Of the amounts made available unde
 
 (c)
 
-High-speed Broadband Deployment Initiative.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2020.
+High-speed Broadband Deployment Initiative.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021.
 
 (d)
 
@@ -40,7 +40,7 @@ Availability.—Amounts made available under subsection (a) remain available unt
 
 Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431; Pub. L. 116–159, div. B, title I, §1107(a), Oct. 1, 2020, 134 Stat. 727.)
 
 Historical and Revision Notes
 
@@ -58,7 +58,13 @@ Historical and Revision Notes
 
 Pub. L. 89–4, title IV, §401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, §122, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, §109, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, §212, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, §121, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, §3(5), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, §1822(a)(3), (4), Aug. 13, 1981, 95 Stat. 767; Pub. L 105–393, title II, §221, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, §10, Mar. 12, 2002, 116 Stat. 70.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(5). Pub. L. 116–159, §1107(a)(1), substituted "2021" for "2020".
+
+Subsec. (c). Pub. L. 116–159, §1107(a)(2), substituted "2021" for "2020".
 
 <b>2015</b>—Subsec. (a)(5). Pub. L. 114–94, §1436(b)(1), substituted "each of fiscal years 2012 through 2020" for "fiscal year 2012".
 
@@ -69,6 +75,8 @@ Subsecs. (c) to (e). Pub. L. 114–94, §1436(b)(2), (3), added subsec. (c) and 
 Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) authorized appropriations to carry out section 14504 of this title for fiscal years 2002 to 2006.
 
 Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

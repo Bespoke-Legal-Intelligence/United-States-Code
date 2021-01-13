@@ -16,11 +16,15 @@ Salaries of park commissioners are provided by section 634 of this title.
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–82 inserted reference to the compensation of such legal assistants as the Judicial Conference, on the basis of the recommendations of the judicial councils of the circuits, considers necessary.
 
 <b>1968</b>—Pub. L. 90–578 substituted provisions relating to expenses for provisions prescribing residence for park commissioners. See section 631(b)(3) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

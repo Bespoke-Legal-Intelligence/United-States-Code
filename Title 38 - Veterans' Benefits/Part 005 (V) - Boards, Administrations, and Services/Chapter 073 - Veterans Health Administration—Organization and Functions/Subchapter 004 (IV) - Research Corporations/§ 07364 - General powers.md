@@ -4,7 +4,7 @@
 
 In General.—(1) A corporation established under this subchapter may, solely to carry out the purposes of this subchapter—
 
-&emsp;(A) accept, administer, retain, and spend funds derived from gifts, contributions, grants, fees, reimbursements, and bequestsfrom individuals and public and private entities;
+&emsp;(A) accept, administer, retain, and spend funds derived from gifts, contributions, grants, fees, reimbursements, and bequests from individuals and public and private entities;
 
 &emsp;(B) enter into contracts and agreements with individuals and public and private entities;
 
@@ -20,7 +20,7 @@ In General.—(1) A corporation established under this subchapter may, solely to
 
 (b)
 
-Transfer and Administration of Funds.—(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes.
+Transfer and Administration of Funds.—(1) Except as provided in paragraph (2), any funds received by the Secretary for the conduct of research or education at a Department medical center or centers, other than funds appropriated to the Department, may be transferred to and administered by a corporation established under this subchapter for such purposes. Any amounts so transferred after September 30, 2016, shall be available without regard to fiscal year limitations, notwithstanding section 1535(d) of title 31.
 
 (2) A Department medical center may reimburse the corporation for all or a portion of the pay, benefits, or both of an employee of the corporation who is assigned to the Department medical center if the assignment is carried out pursuant to subchapter VI of chapter 33 of title 5.
 
@@ -38,13 +38,17 @@ Education Activities.—Except for reasonable and usual preliminary costs for ac
 
 Policies and Procedures.—The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §804(a), May 5, 2010, 124 Stat. 1177.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4164; renumbered §7364 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §804(a), May 5, 2010, 124 Stat. 1177; Pub. L. 116–315, title VII, §7006, Jan. 5, 2021, 134 Stat. 5059.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to section 501(c)(3) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–315 inserted "Any amounts so transferred after September 30, 2016, shall be available without regard to fiscal year limitations, notwithstanding section 1535(d) of title 31." at end.
 
 <b>2010</b>—Pub. L. 111–163 amended section generally. Prior to amendment, section related to the general powers of a corporation established under this subchapter.
 

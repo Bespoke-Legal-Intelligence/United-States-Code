@@ -40,6 +40,8 @@ The Board of Directors shall prescribe all rules and regulations necessary for t
 
 (Pub. L. 92–181, title V, §5.56, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, §5403(a)(2)(B), May 13, 2002, 116 Stat. 351; Pub. L. 110–234, title V, §5405, May 22, 2008, 122 Stat. 1157; Pub. L. 110–246, §4(a), title V, §5405, June 18, 2008, 122 Stat. 1664, 1919.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -62,13 +64,15 @@ Subsec. (a)(4) to (6). Pub. L. 107–171, §5403(a)(2)(B)(ii), (iii), added par.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted "of the year" for "of such year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1988 Amendment
 

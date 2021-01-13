@@ -2,7 +2,7 @@
 
 #### (a) Unconditional and conditional gifts
 
-The Secretary of State may accept on behalf of the United States gifts made unconditionally by will or otherwise for the benefit of the Department of State (including the Foreign Service) or for the carrying out of any of its functions. Conditional gifts may be so accepted at the discretion of the Secretary, and the principal of and income from any such conditional gift shall be held, invested, reinvested, and used in accordance with its conditions, except that no gift shall be accepted which is conditioned upon any expenditure which will not be met by the gift or the income from the gift unless such expenditure has been approved by Act of Congress.
+The Secretary of State may accept on behalf of the United States gifts made unconditionally by will or otherwise for the benefit of the Department of State (including the Foreign Service) or for the carrying out of any of its functions. Conditional gifts may be so accepted at the discretion of the Secretary, and the principal of and income from any such conditionalgift shall be held, invested, reinvested, and used in accordance with its conditions, except that no gift shall be accepted which is conditioned upon any expenditure which will not be met by the gift or the income from the gift unless such expenditure has been approved by Act of Congress.
 
 #### (b) Disposition
 
@@ -28,6 +28,8 @@ The authorities available to the Secretary of State under this section with resp
 
 (Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(l)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–277, §1422(b)(3)(A), substituted "Administrator of the Agency for International Development" for "Director of the United States International Development Cooperation Agency".
@@ -36,17 +38,19 @@ Pub. L. 105–277, §1335(l)(2), substituted "Broadcasting Board of Governors" f
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted ", but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds" before period at end of last sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-"Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in subsec. (f), pursuant to section303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
+"Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in subsec. (f), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 
 #### Effective Date of 1998 Amendment
 
 Amendment by section 1335(l)(2) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-Amendment by section 1422(b)(3)(A) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
+Amendment by section 1422(b)(3)(A) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277,set out as an Effective Date note under section 6561 of this title.
 
 #### Effective Date
 

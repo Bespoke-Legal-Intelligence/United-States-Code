@@ -6,7 +6,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(2) adopt, alter, and use a corporate seal, which shall be judicially noted;
 
-&emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by the Board, and require surety bonds or make other provisions against losses occasioned by acts of employees;
+&emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by theBoard, and require surety bonds or make other provisions against losses occasioned by acts of employees;
 
 &emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisals may be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
 
@@ -18,7 +18,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(8) obtain insurance against loss in connection with property and other assets;
 
-&emsp;(9) modify or consent to the modification with respect to the rate of interest, time ofpayment of any installment of principal or interest, security, or any other term of any contract or agreement to which it is a party or has an interest pursuant to this chapter;
+&emsp;(9) modify or consent to the modification with respect to the rate of interest, time of payment of any installment of principal or interest, security, or any other term of any contract or agreement to which it is a party or has an interest pursuant to this chapter;
 
 &emsp;(10) utilize and act through any Federal, State, or local public agency or instrumentality, or private agency or organization, with the consent of the agency or organization concerned, and contract with such agency, instrumentality, or organization for furnishing or receiving technical services and benefits of research, services, funds or facilities; and make advance, progress, or other payments with respect to such contracts without regard to section 3324(a) and (b) of title 31;
 
@@ -42,6 +42,8 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 (Pub. L. 95–351, title I, §102, Aug. 20, 1978, 92 Stat. 500; Pub. L. 97–35, title III, §394(d)(1), Aug. 13, 1981, 95 Stat. 436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -53,6 +55,8 @@ In pars. (5) and (10), "section 3324(a) and (b) of title 31" substituted for "se
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of 1933, for provisions setting forth criteria for the term "exempt securities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

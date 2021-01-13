@@ -70,7 +70,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(i) prizes and awards which are subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipients of such prizes and awards are selected from the general public,
 
-&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
+&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions ofsection 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
 
 &emsp;&emsp;&emsp;(iii) any annuity or other payment (forming part of a stock-bonus, pension, or profit-sharing plan) by a trust which is a qualified trust under section 401,
 

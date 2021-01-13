@@ -36,9 +36,13 @@ The test in this paragraph is similar to the test prescribed for ordinary corpor
 
 The public interest requirement, found in current law, will now be decided by the court, with the ICC representing the public interest before the court, rather than in the first instance by the ICC. Liquidation of the debtor is not, per se, contrary to the public interest.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(4). Pub. L. 98–353 substituted "consistent" for "compatible".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

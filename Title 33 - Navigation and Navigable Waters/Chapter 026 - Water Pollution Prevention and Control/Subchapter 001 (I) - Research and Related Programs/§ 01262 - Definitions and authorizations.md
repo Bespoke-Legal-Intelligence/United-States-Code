@@ -12,6 +12,8 @@
 
 (June 30, 1948, ch. 758, title I, §112, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 832; amended Pub. L. 93–592, §4, Jan. 2, 1975, 88 Stat. 1925; Pub. L. 95–217, §4(d), Dec. 27, 1977, 91 Stat. 1566; Pub. L. 96–483, §1(c), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §101(c), Feb. 4, 1987, 101 Stat. 9; Pub. L. 105–244, title I, §102(a)(11), Oct. 7, 1998, 112 Stat. 1620.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted "section 1001" for "section 1141".
@@ -23,6 +25,8 @@
 <b>1977</b>—Subsec. (c). Pub. L. 95–217 substituted "June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, and $7,000,000 for the fiscal year ending September 30, 1980," for "June 30, 1975,".
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–592 substituted "June 30, 1974, and June 30, 1975," for "and June 30, 1974,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -14,9 +14,13 @@ United States Government agencies carrying out programs of the types specified i
 
 (Pub. L. 98–164, title IX, §902, Nov. 22, 1983, 97 Stat. 1051.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 98–164, title IX, §901, Nov. 22, 1983, 97 Stat. 1051, provided that: "This title \[enacting this subchapter\] may be cited as the 'United States-India Fund for Cultural, Educational, and Scientific Cooperation Act'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12517. Delegation Concerning United States-India Fund for Cultural, Educational, and Scientific Cooperation
 

@@ -36,6 +36,8 @@ This section shall apply to fiscal year 2004, and each fiscal year thereafter.
 
 (Pub. L. 108–83, title I, §1002, Sept. 30, 2003, 117 Stat. 1020; Pub. L. 111–145, §§3(b)(1), 4(a)(1), Mar. 4, 2010, 124 Stat. 52.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2004.
@@ -45,6 +47,8 @@ Section is from the Legislative Branch Appropriations Act, 2004.
 <b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–145, §3(b)(1), substituted "the General Counsel to the Chief of Police and the United States Capitol Police" for "the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police".
 
 Subsec. (a)(2)(B). Pub. L. 111–145, §4(a)(1), substituted "the Employment Counsel to the Chief of Police and the United States Capitol Police" for "the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2010 Amendment
 

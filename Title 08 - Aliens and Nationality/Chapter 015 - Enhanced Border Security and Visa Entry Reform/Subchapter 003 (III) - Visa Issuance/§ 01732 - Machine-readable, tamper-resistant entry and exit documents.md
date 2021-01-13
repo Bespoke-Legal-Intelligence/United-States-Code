@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment and software to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
+&emsp;&emsp;Not later than October 26, 2005, the Attorney General, in consultation with the Secretary of State, shall install at all ports of entry of the United States equipment andsoftware to allow biometric comparison and authentication of all United States visas and other travel and entry documents issued to aliens, and passports issued pursuant to subsection (c)(1).
 
 #### (B) Use of readers and scanners
 
@@ -48,11 +48,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 107–173, title III, §303, May 14, 2002, 116 Stat. 553; Pub. L. 108–299, §1, Aug. 9, 2004, 118 Stat. 1100; Pub. L. 114–113, div. O, title II, §202(c), Dec. 18, 2015, 129 Stat. 2989.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–113 struck out subsec. (c), which related to technology standard for visa waiver participants.
 
 <b>2004</b>—Subsecs. (b)(2)(A), (c)(1), (2). Pub. L. 108–299 substituted "2005" for "2004".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

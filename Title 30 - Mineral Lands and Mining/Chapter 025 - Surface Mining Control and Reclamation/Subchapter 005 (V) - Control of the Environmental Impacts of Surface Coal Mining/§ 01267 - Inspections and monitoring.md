@@ -12,7 +12,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 &emsp;(2) for those surface coal mining and reclamation operations which remove or disturb strata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
 
-&emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above andbelow the minesite as well as in the potential zone of influence;
+&emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above and below the minesite as well as in the potential zone of influence;
 
 &emsp;&emsp;(B) monitoring sites to record level, amount, and samples of ground water and aquifers potentially affected by the mining and also directly below the lowermost (deepest) coal seam to be mined;
 
@@ -38,7 +38,7 @@ Each inspector, upon detection of each violation of any requirement of any State
 
 #### (f) Availability of information to public
 
-Copies of any records, reports, inspection materials, or information obtained under this subchapter by the regulatory authority shall be made immediately available to the public at central and sufficient locations in the county, multicounty, and State area of mining so that they are conveniently available to residents in the areas of mining.
+Copies of any records, reports, inspection materials, or information obtained under this subchapter by the regulatory authority shall be made immediately available to the public at central and sufficient locations in the county,multicounty, and State area of mining so that they are conveniently available to residents in the areas of mining.
 
 #### (g) Conflict of interest; penalty; publication of regulations; report to Congress
 
@@ -51,6 +51,8 @@ No employee of the State regulatory authority performing any function or duty un
 (2) The Secretary shall also, by regulation, establish procedures to insure that adequate and complete inspections are made. Any such person may notify the Secretary of any failure to make such inspections, after which the Secretary shall determine whether adequate and complete inspections have been made. The Secretary shall furnish such persons a written statement of the reasons for the Secretary's determination that adequate and complete inspections have or have not been conducted.
 
 (Pub. L. 95–87, title V, §517, Aug. 3, 1977, 91 Stat. 498.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

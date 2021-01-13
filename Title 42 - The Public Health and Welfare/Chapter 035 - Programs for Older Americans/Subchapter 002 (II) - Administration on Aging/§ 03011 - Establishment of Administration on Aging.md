@@ -70,7 +70,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (3) The Director shall—
 
-&emsp;(A) serve as an effective and visible advocate on behalf of older individuals who reside in long-term care facilities, within the Department of Health and Human Services and withother departments, agencies, and instrumentalities of the Federal Government regarding all Federal policies affecting such individuals;
+&emsp;(A) serve as an effective and visible advocate on behalf of older individuals who reside in long-term care facilities, within the Department of Health and Human Services and with other departments, agencies, and instrumentalities of the Federal Government regarding all Federal policies affecting such individuals;
 
 &emsp;(B) review and make recommendations to the Assistant Secretary regarding—
 
@@ -140,7 +140,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;&emsp;(ix) promoting collaborative efforts and diminishing duplicative efforts in the development and carrying out of elder justice programs at the Federal, State and local levels; and
 
-&emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategicplans to better coordinate elder justice activities, research, and training.
+&emsp;(B) to assist States and other eligible entities under subchapter XI to develop strategic plans to better coordinate elder justice activities, research, and training.
 
 (3) The Secretary, acting through the Assistant Secretary, may issue such regulations as may be necessary to carry out this subsection and section 3058aa–1 of this title.
 
@@ -150,9 +150,55 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 (2) It shall be the duty of the Assistant Secretary, acting through the individual designated under paragraph (1), to develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about and prevention, detection, and treatment of mental disorders, including age-related dementia, depression, and Alzheimer's disease and related neurological disorders with neurological and organic brain dysfunction.
 
-(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352.)
+#### (g) Research, Demonstration, and Evaluation Center for the Aging Network
+
+(1) The Assistant Secretary shall, as appropriate, coordinate the research and evaluation functions of this chapter under a Research, Demonstration, and Evaluation Center for the Aging Network (in this subsection referred to as the "Center"), which shall be headed by a director designated by the Assistant Secretary from individuals described in paragraph (4).
+
+(2) The purpose of the Center shall be—
+
+&emsp;(A) to coordinate, as appropriate, research, research dissemination, evaluation, demonstration projects, and related activities carried out under this chapter;
+
+&emsp;(B) to provide assessment of the programs and interventions authorized under this chapter; and
+
+&emsp;(C) to increase the repository of information on evidence-based programs and interventions available to the aging network, which information shall be applicable to existing programs and interventions and help in the development of new evidence-based programs and interventions.
+
+(3) Activities of the Center shall include, as appropriate, conducting, promoting, coordinating, and providing support for—
+
+&emsp;(A) research and evaluation activities that support the objectives of this chapter, including—
+
+&emsp;&emsp;(i) evaluation of new and existing programs and interventions authorized by this chapter; and
+
+&emsp;&emsp;(ii) research on and assessment of the relationship between programs and interventions under this chapter and the health outcomes, social determinants of health, quality of life, and independence of individuals served under this chapter;
+
+&emsp;(B) demonstration projects that support the objectives of this chapter, including activities to bring effective demonstration projects to scale with a prioritization of projects that address the needs of underserved populations, and promote partnerships among aging services, community-based organizations, and Medicare and Medicaid providers, plans, and health (including public health) systems;
+
+&emsp;(C) outreach and dissemination of research findings; and
+
+&emsp;(D) technical assistance related to the activities described in this paragraph.
+
+(4) The director shall be an individual with substantial knowledge of and experience in aging and health policy, and research administration.
+
+(5) Not later than October 1, 2020, and at 5-year intervals thereafter, the director shall prepare and publish in the Federal Register for public comment a draft of a 5-year plan that—
+
+&emsp;(A) outlines priorities for research, research dissemination, evaluation, demonstration projects, and related activities;
+
+&emsp;(B) explains the basis for such priorities; and
+
+&emsp;(C) describes how the plan will meet the needs of underserved populations.
+
+(6) The director shall coordinate, as appropriate, research, research dissemination, evaluation, and demonstration projects, and related activities with appropriate agency program staff, and, as appropriate, with other Federal departments and agencies involved in research in the field of aging.
+
+(7) Not later than December 31, 2020, and annually thereafter, the director shall prepare, and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, the Special Committee on Aging of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities funded under this section and subchapter IV.
+
+(8) The director shall, as appropriate, consult with experts on aging research and evaluation and aging network stakeholders on the implementation of the activities described under paragraph (3) of this subsection.
+
+(9) The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.
+
+(Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352; Pub. L. 116–131, title I, §127(a), Mar. 25, 2020, 134 Stat. 252.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (g). Pub. L. 116–131 added subsec. (g).
 
 <b>2016</b>—Subsec. (d)(3)(H). Pub. L. 114–144, §3(a)(1)(A), substituted "3012(a)(18)" for "3012(a)(21)".
 
@@ -206,7 +252,7 @@ Subsec. (c). Pub. L. 100–175, §107(a), added subsec. (c).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–459, §201(1), (3), (4), substituted "the agency" for "the principal agency", inserted provision requiring establishment of a direct reporting relationship between Commissioner and Office of the Secretary, and substituted "approve or require" for "approve".
 
-Pub. L. 98–459, §201(2), which directed that "the functions of the Administration" be substituted for "his functions" in second sentence could not be executed because "his functions" appeared only in third sentence.
+Pub. L. 98–459, §201(2), which directed that "the functions of the Administration" be substituted for "hisfunctions" in second sentence could not be executed because "his functions" appeared only in third sentence.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–478 substituted "subchapter IX" for "subchapter VI and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973".
 

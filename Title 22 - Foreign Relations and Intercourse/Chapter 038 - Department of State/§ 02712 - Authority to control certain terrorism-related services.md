@@ -26,7 +26,7 @@ In carrying out subsection (a), the Secretary of State may require licenses, whi
 
 #### (1) Designated foreign government
 
-&emsp;As used in this section, the term "designated foreign government" means a foreign government that the Secretary of State has determined, for purposes of section 4605(j)(1) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism.
+&emsp;As used in this section, the term "designated foreign government" means a foreign government that the Secretary of State has determined, for purposes of section 4605(j)(1) <sup>1</sup> oftitle 50, has repeatedly provided support for acts of international terrorism.
 
 #### (2) Security forces
 
@@ -65,6 +65,8 @@ In carrying out subsection (a), the Secretary of State may require licenses, whi
 The authority granted by this section is in addition to the authorities granted by any other provision of law.
 
 (Aug. 1, 1956, ch. 841, title I, §40, as added Pub. L. 99–399, title V, §506(2), Aug. 27, 1986, 100 Stat. 871.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

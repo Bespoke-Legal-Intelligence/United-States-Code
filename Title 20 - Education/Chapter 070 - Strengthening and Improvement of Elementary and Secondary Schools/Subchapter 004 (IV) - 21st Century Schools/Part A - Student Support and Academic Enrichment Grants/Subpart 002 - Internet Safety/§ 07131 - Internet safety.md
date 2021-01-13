@@ -76,7 +76,7 @@ An administrator, supervisor, or person authorized by the responsible authority 
 
 #### (3) Recommencement of payments
 
-&emsp;Whenever the Secretary determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under paragraph (1)(A) has cured the failure providing the basis for the withholding of payments, theSecretary shall cease the withholding of payments to the recipient under that paragraph.
+&emsp;Whenever the Secretary determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under paragraph (1)(A) has cured the failure providing the basis for the withholding of payments, the Secretary shall cease the withholding of payments to the recipient under that paragraph.
 
 #### (e) Definitions
 
@@ -158,7 +158,7 @@ Section 7136, Pub. L. 89–10, title IV, §4126, as added Pub. L. 107–110, tit
 
 Section 7137, Pub. L. 89–10, title IV, §4127, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756, related to the School Security Technology and Resource Center.
 
-Section 7138, Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756, related to the National Center for School and Youth Safety.
+Section 7138, Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756,related to the National Center for School and Youth Safety.
 
 Section 7139, Pub. L. 89–10, title IV, §4129, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1757, authorized grants to reduce alcohol abuse.
 

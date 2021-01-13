@@ -222,7 +222,7 @@ For the purposes of this chapter:
 
 #### (12) Establishment of a community rehabilitation program
 
-&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
+&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to preventimpairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
 
 #### (13) Extended services
 
@@ -242,7 +242,7 @@ For the purposes of this chapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) ofthis title, except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term "Federal share" means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -608,6 +608,8 @@ For the purposes of this chapter:
 
 (Pub. L. 93–112, §7, formerly §6, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1097; amended Pub. L. 105–244, title I, §102(a)(9)(A), Oct. 7, 1998, 112 Stat. 1619; renumbered §7 and amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1), (b)(3), (c)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–413, 2681–415; Pub. L. 105–394, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3661; Pub. L. 110–325, §7, Sept. 25, 2008, 122 Stat. 3558; Pub. L. 111–256, §2(d)(1), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §404, July 22, 2014, 128 Stat. 1632.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
@@ -728,9 +730,11 @@ Par. (23). Pub. L. 105–244 substituted "section 1001 of title 20" for "section
 
 Par. (36)(C). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(D)\], substituted "employment outcome" for "rehabilitation objectives".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: "This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare,amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009."
+Pub. L. 110–325, §8, Sept. 25, 2008, 122 Stat. 3559, provided that: "This Act \[enacting sections 12103 and 12205a of Title 42, The Public Health and Welfare, amending this section, former section 706 of this title, and sections 12101, 12102, 12111 to 12114, 12201, and 12206 to 12213 of Title 42, and enacting provisions set out as notes under section 12101 of Title 42\] and the amendments made by this Act shall become effective on January 1, 2009."
 
 #### Effective Date of 1998 Amendment
 

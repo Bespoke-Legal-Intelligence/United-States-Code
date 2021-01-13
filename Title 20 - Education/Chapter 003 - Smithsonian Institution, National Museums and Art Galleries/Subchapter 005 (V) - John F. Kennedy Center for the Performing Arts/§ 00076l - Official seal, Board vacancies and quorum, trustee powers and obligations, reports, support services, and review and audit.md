@@ -14,7 +14,7 @@ The Board shall submit to the Smithsonian Institution and to Congress an annual 
 
 #### (d) Inspector General
 
-The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf of the Board, on a reimbursable basis when requested by the Board.
+The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this titleshall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf of the Board, on a reimbursable basis when requested by the Board.
 
 #### (e) Property and personnel compensation
 
@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 101–449, §2, amended subsec. (f) generally. Prior to ame
 
 <b>1977</b>—Subsec. (e). Pub. L. 95–50 substituted provisions authorizing an appropriation of $4,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $4,300,000 for the fiscal year ending Sept. 30, 1979.
 
-<b>1976</b>—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept.30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
+<b>1976</b>—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
 
 <b>1975</b>—Subsec. (e). Pub. L. 94–119, §1, inserted provisions authorizing appropriations for fiscal year ending June 30, 1976, for the transitional period ending Sept. 30, 1976, and for fiscal year ending Sept. 30, 1977.
 

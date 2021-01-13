@@ -74,6 +74,8 @@ Sept. 30, 1950, ch. 1123, §3, 64 Stat. 1098.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (b) to (d). Pub. L. 115–91 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
@@ -83,6 +85,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–378 substituted a period for semicolon at end.
 
 <b>1978</b>—Pub. L. 95–454 substituted "Establishment of performance appraisal systems" for "Performance-rating plans; establishment of" in section catchline and in text substituted provisions relating to the establishment of a performance appraisal system, for provisions relating to the establishment of performance-rating plans.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

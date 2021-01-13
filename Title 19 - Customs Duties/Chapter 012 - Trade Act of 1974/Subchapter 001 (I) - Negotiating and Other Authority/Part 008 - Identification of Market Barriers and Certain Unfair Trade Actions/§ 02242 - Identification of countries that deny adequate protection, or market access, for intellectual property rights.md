@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;(2) A foreign country denies adequate and effective protection of intellectual property rights if the foreign country denies adequate and effective means under the laws of the foreign country for persons who are not citizens or nationals of such foreign country to secure, exercise, and enforce rights relating to patents, process patents, registered trademarks, copyrights, trade secrets, and mask works.
 
-&emsp;(3) A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret,or plant breeder's right, through the use of laws, procedures, practices, or regulations which—
+&emsp;(3) A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright or related right, patent, trademark, mask work, trade secret, or plant breeder's right, through the use of laws, procedures, practices, or regulations which—
 
 &emsp;&emsp;(A) violate provisions of international law or international agreements to which both the United States and the foreign country are parties, or
 
@@ -92,11 +92,11 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 &emsp;&emsp;(B) is adopted or expanded after December 17, 1992, and
 
-&emsp;&emsp;(C) is actionable under article 2106 of the North American Free Trade Agreement.
+&emsp;&emsp;(C) is actionable under article 32.6 of the USMCA (as defined in section 4502 of this title).
 
 #### (2) Special rules for identifications
 
-&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2), unless the United States has already taken action pursuant to article 32.6 of the USMCA in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
 &emsp;&emsp;(A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title, and appropriate officers of the Federal Government, and
 
@@ -166,9 +166,13 @@ Not later than 30 days after the date on which the Trade Representative submits 
 
 &emsp;(3) a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.
 
-(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191.)
+(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191; Pub. L. 116–113, title V, §506(a), Jan. 29, 2020, 134 Stat. 78.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(1)(C). Pub. L. 116–113, §506(a)(1), substituted "article 32.6 of the USMCA (as defined in section 4502 of this title)" for "article 2106 of the North American Free Trade Agreement".
+
+Subsec. (f)(2). Pub. L. 116–113, §506(a)(2), substituted "article 32.6 of the USMCA" for "article 2106 of the North American Free Trade Agreement" in introductory provisions.
 
 <b>2016</b>—Subsec. (d)(2). Pub. L. 114–125, §610(a), inserted ", trade secrets," after "copyrights".
 
@@ -186,6 +190,12 @@ Subsec. (g). Pub. L. 103–465, §313(3), added subsec. (g).
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–182 added subsec. (f).
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–113, title V, §506(b), Jan. 29, 2020, 134 Stat. 78, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which the USMCA enters into force \[July 1, 2020\]."
+
+\[For definition of "USMCA" as used in section 506(b) of Pub. L. 116–113, set out above, see section 4502 of this title.\]
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
@@ -196,7 +206,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, set out as an Effective Date note under section 3461 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 516(a) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3461 of this title.
 
 #### Construction of 2016 Amendment
 

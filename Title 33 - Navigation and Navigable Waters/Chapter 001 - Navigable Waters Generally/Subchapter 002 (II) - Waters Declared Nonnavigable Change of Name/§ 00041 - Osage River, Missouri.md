@@ -4,9 +4,13 @@ The Osage River in the State of Missouri above the point where the south line of
 
 (Mar. 4, 1904, ch. 393, 33 Stat. 58; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-This section superseded act June 24, 1902, ch. 1154, 32 Stat. 398, which declared that the Osage River above the point where the dividing line between the counties of Benton and Saint Clair crosses the river should not be a navigable stream.
+This section superseded act June 24, 1902, ch. 1154, 32 Stat. 398, which declared that the Osage River abovethe point where the dividing line between the counties of Benton and Saint Clair crosses the river should not be a navigable stream.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

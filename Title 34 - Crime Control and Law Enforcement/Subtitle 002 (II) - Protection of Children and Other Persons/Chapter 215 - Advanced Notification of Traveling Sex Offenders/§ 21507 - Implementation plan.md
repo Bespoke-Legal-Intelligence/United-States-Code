@@ -6,7 +6,7 @@ Not later than 90 days after February 8, 2016, the Secretary of Homeland Securit
 
 #### (b) Reporting requirement
 
-Not later than 90 days after February 8, 2016, the Secretary of Homeland Security, the Secretary of State, and the Attorney General shall jointly submit a report to, and shall consult with, the appropriate congressional committees on the process developed under subsection (a), which shall include a description of the proposedprocess and a timeline and plan for implementation of that process, and shall identify the resources required to effectively implement that process.
+Not later than 90 days after February 8, 2016, the Secretary of Homeland Security, the Secretary of State, and the Attorney General shall jointly submit a report to, and shall consult with, the appropriate congressional committees on the process developed under subsection (a), which shall include a description of the proposed process and a timeline and plan for implementation of that process, and shall identify the resources required to effectively implement that process.
 
 #### (c) "Appropriate congressional committees" defined
 
@@ -29,6 +29,8 @@ In this section, the term "appropriate congressional committees" means—
 &emsp;(8) the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 114–119, §9, Feb. 8, 2016, 130 Stat. 25.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

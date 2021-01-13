@@ -4,7 +4,7 @@
 
 (2) The Secretary may enter into a contract or other agreement under paragraph (1) if such resources are not, or would not be, used to their maximum effective capacity.
 
-(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of thistitle, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
+(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
@@ -42,7 +42,9 @@
 
 &emsp;(2) recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat.1866; Pub. L. 108–170, title IV, §405(d), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 111–350, §5(j)(8), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498;Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, §405(d), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 111–350, §5(j)(8), Jan. 4, 2011, 124 Stat. 3850.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -114,7 +116,7 @@ Subsec. (e). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "A
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–366, §202(b)(1), substituted "health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools" for "hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community" and struck out at end "The Administrator may determine the geographical limitations of a medical community as used in this section."
 
-Subsec. (b). Pub. L. 101–366, §202(b)(2), substituted in first sentence "a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved." for "a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment." and inserted before period at end of second sentence "and to funds that have been allotted to the facility that furnished the resource involved".
+Subsec. (b). Pub. L. 101–366, §202(b)(2), substituted in first sentence "a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved." for "a charge which covers the fullcost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment." and inserted before period at end of second sentence "and to funds that have been allotted to the facility that furnished the resource involved".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–576 added subsec. (e).
 
@@ -133,6 +135,8 @@ Subsec. (d). Pub. L. 94–581, §115(a)(1), inserted subsec. (d).
 <b>1973</b>—Subsec. (a). Pub. L. 93–82 struck out "or medical schools" from parenthetical and inserted "or medical schools or clinics" after parenthetical.
 
 <b>1970</b>—Subsec. (a)(1). Pub. L. 91–496 substituted "for the mutual use, or exchange of use," for "for the exchange of use".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

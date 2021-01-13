@@ -8,7 +8,7 @@ The following shall be the policies of the United States:
 
 &emsp;(2) Encourage States Party to the NPT to interpret the right to "develop research, production and use of nuclear energy for peaceful purposes", as set forth in Article IV of the NPT, as being a right that applies only to the extent that it is consistent with the object and purpose of the NPT to prevent the spread of nuclear weapons and nuclear weapons capabilities, including by refraining from all nuclear cooperation with any State Party that the International Atomic Energy Agency (IAEA) determines is not in full compliance with its NPT obligations, including its safeguards obligations.
 
-&emsp;(3) Act in a manner fully consistent with the Guidelines for Nuclear Transfers and theGuidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software and Related Technology developed by the NSG, and decisions related to the those <sup>1</sup> guidelines, and the rules and practices regarding NSG decisionmaking.
+&emsp;(3) Act in a manner fully consistent with the Guidelines for Nuclear Transfers and the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software and Related Technology developed by the NSG, and decisions related to the those <sup>1</sup> guidelines, and the rules and practices regarding NSG decisionmaking.
 
 &emsp;(4) Strengthen the NSG guidelines and decisions concerning consultation by members regarding violations of supplier and recipient understandings by instituting the practice of a timely and coordinated response by NSG members to all such violations, including termination of nuclear transfers to an involved recipient, that discourages individual NSG members from continuing cooperation with such recipient until such time as a consensus regarding a coordinated response has been achieved.
 
@@ -51,6 +51,8 @@ The following shall be the policies of the United States with respect to South A
 &emsp;(10) Any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
 
 (Pub. L. 109–401, title I, §103, Dec. 18, 2006, 120 Stat. 2727.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -90,7 +90,7 @@ Subsec. (b)(4). Pub. L. 111–13, §2146(d)(2)(B), added par. (4) and struck out
 
 Subsec. (b)(5). Pub. L. 111–13, §2146(d)(2)(C), inserted ", including literacy programs that serve youth, and adults, with limited English proficiency" after "assistance".
 
-Subsec. (b)(6) to (9). Pub. L. 111–13, §2146(d)(2)(D)–(F), added pars. (6) and (7), redesignated pars. (9) and (10) as\(8) and (9), respectively, and struck out former pars. (6) to (8), which read as follows:
+Subsec. (b)(6) to (9). Pub. L. 111–13, §2146(d)(2)(D)–(F), added pars. (6) and (7), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out former pars. (6) to (8), which read as follows:
 
 "(6) Programs that provide respite care, including care for frail elderly individuals and for disabled or chronically ill children living at home.
 

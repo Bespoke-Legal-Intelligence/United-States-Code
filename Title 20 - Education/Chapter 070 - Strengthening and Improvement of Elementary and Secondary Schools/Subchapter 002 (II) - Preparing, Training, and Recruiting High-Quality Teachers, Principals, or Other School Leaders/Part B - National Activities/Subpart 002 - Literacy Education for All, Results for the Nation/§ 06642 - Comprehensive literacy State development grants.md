@@ -58,13 +58,13 @@ A grant awarded under this subpart shall be for a period of not more than 5 year
 
 #### (e) Priority
 
-In awarding grants under this section, the Secretary shall give priority to State educational agencies that will use the grant funds for evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the Secretary shall give priority to State educationalagencies that will use the grant funds for evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (f) State activities
 
 #### (1) In general
 
-&emsp;A State educational agency receiving a grant under this section shall use not lessthan 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
+&emsp;A State educational agency receiving a grant under this section shall use not less than 95 percent of such grant funds to award subgrants to eligible entities, based on their needs assessment and a competitive application process.
 
 #### (2) Reservation
 

@@ -22,7 +22,7 @@ If the President determines with respect to a special safeguard agricultural goo
 
 &emsp;(2) the volume-based safeguard in accordance with subparagraph 1(a) of Article 5,
 
-> the President shall, consistent with Article 5 as determined by the President, determine theamount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
+> the President shall, consistent with Article 5 as determined by the President, determine the amount of the duty to be imposed, the period such duty shall be in effect, and any other terms and conditions applicable to the duty.
 
 #### (c) Imposition of safeguard
 
@@ -32,9 +32,15 @@ The President shall direct the Secretary of the Treasury to impose a duty on a s
 
 A duty may not be in effect for a special safeguard agricultural good pursuant to this section during any period in which such good is the subject of any action proclaimed pursuant to section 2252 or 2253 of this title.
 
-#### (e) Exclusion of NAFTA countries
+#### (e) Exclusion of originating goods of USMCA countries
 
-The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title).
+#### (1) In general
+
+&emsp;The President shall exempt from any duty imposed under this section any good that qualifies as an originating good under section 4531 of this title of a USMCA country with respect to which preferential tariff treatment is provided under the USMCA.
+
+#### (2) Definitions
+
+&emsp;In this subsection, the terms "preferential tariff treatment", "USMCA", and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
 #### (f) Advice of Secretary of Agriculture
 
@@ -54,13 +60,37 @@ For purposes of this section—
 
 &emsp;(3) the term "special safeguard agricultural good" means an agricultural good on which an additional duty may be imposed pursuant to the special safeguard provisions of Article 5.
 
-(Pub. L. 103–465, title IV, §405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, §11, Oct. 11, 1996, 110 Stat. 3520.)
+(Pub. L. 103–465, title IV, §405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, §11, Oct. 11, 1996, 110 Stat. 3520; Pub. L. 116–113, title II, §201(a), Jan. 29, 2020, 134 Stat. 19.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e). Pub. L. 116–113 amended subsec. (e) generally. Prior to amendment, text read as follows: "The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title)."
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–295, §11(1), substituted "1(b)" for "1(a)".
 
 Subsec. (b)(2). Pub. L. 104–295, §11(2), substituted "1(a)" for "1(b)".
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–113, title II, §201(b), Jan. 29, 2020, 134 Stat. 19, provided that:
+
+"(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall—
+
+&emsp;"(A) take effect on the date on which the USMCA enters into force \[July 1, 2020\]; and
+
+&emsp;"(B) apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date.
+
+"(2)
+
+Transition from nafta treatment.—In the case of a good entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—
+
+&emsp;"(A) the amendment made by subsection (a) to section 405(e) of the Uruguay Round Agreements Act (19 U.S.C. 3602(e)) shall not apply with respect to the good; and
+
+&emsp;"(B) section 405(e) of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good."
+
+\[For definition of "USMCA" as used in section 201(b) of Pub. L. 116–113, set out above, see section 4502 of this title.\]
 
 #### Effective Date
 

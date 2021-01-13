@@ -22,7 +22,7 @@
 
 (3) The educational institution providing the program of education for which an accelerated payment of basic educational assistance allowance is elected by an individual under subsection (a) shall certify to the Secretary the amount of the established charges for the program of education.
 
-(d) An accelerated payment of basic educational assistance made to an individual under this section for a program of education shall be made not later than the last day of the month immediately following the month in which the Secretary receives a certification from the educational institution regarding—
+(d) An accelerated payment of basic educational assistance made to an individual underthis section for a program of education shall be made not later than the last day of the month immediately following the month in which the Secretary receives a certification from the educational institution regarding—
 
 &emsp;(1) the individual's enrollment in and pursuit of the program of education; and
 
@@ -38,11 +38,15 @@
 
 (Added Pub. L. 107–103, title I, §104(a)(1), Dec. 27, 2001, 115 Stat. 980; amended Pub. L. 107–330, title III, §308(b)(1), (2)(A), Dec. 6, 2002, 116 Stat. 2827.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–330, §308(b)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Accelerated payment of basic educational assistance for education leading to employment in high technology industry".
 
 Subsec. (b)(1). Pub. L. 107–330, §308(b)(1), substituted "employment in a high technology occupation in a high technology industry" for "employment in a high technology industry".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

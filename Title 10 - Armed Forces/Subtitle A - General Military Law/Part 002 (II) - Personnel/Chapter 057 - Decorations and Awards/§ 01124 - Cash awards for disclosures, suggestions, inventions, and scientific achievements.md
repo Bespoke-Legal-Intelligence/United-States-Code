@@ -14,7 +14,7 @@
 
 (e) Awards to, and expenses for the honorary recognition of, members of the armed forces under this section may be paid from (1) the funds or appropriations available to the activity primarily benefiting; or (2) the several funds or appropriations of the various activities benefiting, as may be determined by the President for awards under subsection (b), and by the Secretary concerned for awards under subsection (a).
 
-(f) The total amount of the award, or awards, made under this section for a disclosure, suggestion, invention, or scientific achievement maynot exceed $25,000, regardless of the number of persons who may be entitled to share therein.
+(f) The total amount of the award, or awards, made under this section for a disclosure, suggestion, invention, or scientific achievement may not exceed $25,000, regardless of the number of persons who may be entitled to share therein.
 
 (g) Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
@@ -34,7 +34,7 @@ Another section 1124 was renumbered 1126 of this title.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–527 authorized payment of awards to retired members of the armed forces, required the basis for awards to have been made when in an active reserve status, and required the member to be ineligible for incentive award under chapter 45 of title 5.
 
-Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary of Transportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
+Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary ofTransportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
 
 Subsec. (h). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 

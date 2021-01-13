@@ -2,7 +2,7 @@
 
 #### (a) Section 1437f assistance
 
-Each low-income family that is displaced as a result of the prepayment of the mortgage or voluntary termination of an insurance contract oneligible low income housing shall, subject to the availability or <sup>1</sup> amounts provided under appropriations Acts, receive tenant-based assistance under section 1437f of title 42. To the extent sufficient amounts are made available under appropriations Acts, in each fiscal year the Secretary shall reserve from amounts made available under section 4124(a) of this title or, if necessary, under section 1437c(c) of title 42, such amounts as the Secretary determines are necessary to provide assistance payments for low-income families displaced during the fiscal year.
+Each low-income family that is displaced as a result of the prepayment of the mortgage or voluntary termination of an insurance contract on eligible low income housing shall, subject to the availability or <sup>1</sup> amounts provided under appropriations Acts, receive tenant-based assistance under section 1437f of title 42. To the extent sufficient amounts are made available under appropriations Acts, in each fiscal year the Secretary shall reserve from amounts made available under section 4124(a) of this title or, if necessary, under section 1437c(c) of title 42, such amounts as the Secretary determines are necessary to provide assistance payments for low-income families displaced during the fiscal year.
 
 #### (b) Relocation assistance
 
@@ -52,11 +52,15 @@ In providing assistance under this section, the Secretary shall allocate the ass
 
 (Pub. L. 100–242, title II, §223, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4264; amended Pub. L. 105–276, title V, §550(d), Oct. 21, 1998, 112 Stat. 2610; Pub. L. 106–74, title V, §538(c), Oct. 20, 1999, 113 Stat. 1123.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–74 added subsec. (f).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted "tenant-based assistance under section 1437f of title 42" for "assistance under the certificate and voucher programs under sections 1437f(b) and 1437f(o)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

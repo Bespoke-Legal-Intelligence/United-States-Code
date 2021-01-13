@@ -32,6 +32,8 @@ The Council shall consult with and assist the Federal entities for lending regul
 
 (Pub. L. 95–630, title X, §1006, Nov. 10, 1978, 92 Stat. 3695; Pub. L. 97–320, title IV, §431, Oct. 15, 1982, 96 Stat. 1527; Pub. L. 101–73, title VII, §744(a)(3), Aug. 9, 1989, 103 Stat. 438; Pub. L. 103–325, title V, §530, Sept. 23, 1994, 108 Stat. 2267.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (g). Pub. L. 103–325 added subsec. (g).
@@ -40,9 +42,21 @@ The Council shall consult with and assist the Federal entities for lending regul
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–320 substituted "unacceptable" for "unaccepted".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
+#### Update of Manual
+
+Pub. L. 116–283, div. F, title LXII, §6209(b), Jan. 1, 2021, 134 Stat. 4574, provided that: "The Financial Institutions Examination Council shall ensure that any manual prepared by the Council is—
+
+&emsp;"(1) updated to reflect the rulemaking required by subsection (o) section 5318 of title 31, United States Code, as added by subsection (a) of this section; and
+
+&emsp;"(2) consistent with relevant FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\] and Federal functional regulator guidance, including the December 2018 Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing."
+
+\[For definition of "Federal functional regulator" as used in section 6209(b) of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under section 5311 of Title 31, Money and Finance.\]
 
 #### Strengthening the Role of Anti-Money Laundering and Other Financial Tools in Combating Human Trafficking
 
@@ -92,7 +106,7 @@ Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the 
 
 #### Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information
 
-Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator ofSmall Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
+Pub. L. 96–399, title III, §340(d), Oct. 8, 1980, 94 Stat. 1659, directed Federal Financial Institutions Examination Council, in consultation with Administrator of Small Business Administration, to conduct a study to assess feasibility and usefulness of requiring depository institutions which make small business loans to compile and publicly disclose information regarding such loans, and directed Council to submit a report on results of such study, together with recommendations, to Senate Committee on Banking, Housing, and Urban Affairs and House Committee on Banking, Finance and Urban Affairs not later than Mar. 1, 1981.
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 

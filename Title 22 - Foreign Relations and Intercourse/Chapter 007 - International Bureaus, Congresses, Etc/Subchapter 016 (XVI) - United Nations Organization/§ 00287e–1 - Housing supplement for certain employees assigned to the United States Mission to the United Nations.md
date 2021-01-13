@@ -12,6 +12,8 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 
 (Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L. 98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 3324(a) and (b) of title 31" substituted in introductory text for "section 3648 of the Revised Statutes (31 U.S.C. 3324)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -32,6 +34,8 @@ Pars. (2) to (4). Pub. L. 100–459, §304(b)(2), (3), added par. (2), redesigna
 
 Par. (1). Pub. L. 98–164, §215(1), inserted provisions relating to applicability to United States Information Agency employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment; Transition Provisions
 
 Pub. L. 100–459, title III, §304(c), Oct. 1, 1988, 102 Stat. 2208, provided that:
@@ -40,9 +44,11 @@ Pub. L. 100–459, title III, §304(c), Oct. 1, 1988, 102 Stat. 2208, provided t
 
 "(2) In the event that taxes paid by an employee on the benefit provided under subsection (2) of section 9 \[22 U.S.C. 287e–1(2)\] exceed the contribution amount computed as a percentage of base salary under that subsection, the Department of State may reimburse the employee up to the amount of such differential for the period from the date of enactment of this Act \[Oct. 1, 1988\] through July 1, 1989."
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No.11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
+Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

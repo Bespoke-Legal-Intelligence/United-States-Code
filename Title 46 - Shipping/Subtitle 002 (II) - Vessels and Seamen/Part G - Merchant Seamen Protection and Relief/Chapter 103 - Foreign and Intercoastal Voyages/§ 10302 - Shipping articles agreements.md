@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 Section 10302 requires the master to make a shipping agreement with each crew member and lists the information that must be included in the agreement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–206, §401(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman in the crew."

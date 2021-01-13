@@ -10,7 +10,7 @@ Whenever the President finds that—
 
 &emsp;(3) it is in the public interest to apply pre-1967 tax provisions in accordance with the provisions of this subsection to residents or corporations of such foreign country,
 
-> the President shall proclaim that the tax on such similar income derived from sources within the United States by residents or corporations of such foreign country shall, for taxable years beginning after such proclamation, be determined under this subtitle without regard to amendments made to this subchapter and chapter 3 on or after the date of enactment of this section.
+> the President shall proclaim that the tax on such similar income derived from sources within the United States by residents or corporations of such foreign country shall, for taxable yearsbeginning after such proclamation, be determined under this subtitle without regard to amendments made to this subchapter and chapter 3 on or after the date of enactment of this section.
 
 #### (b) Imposition of discriminatory taxes by foreign country
 

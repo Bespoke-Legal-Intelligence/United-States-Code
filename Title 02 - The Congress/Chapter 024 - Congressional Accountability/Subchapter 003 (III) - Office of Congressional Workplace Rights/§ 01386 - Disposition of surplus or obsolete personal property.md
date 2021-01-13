@@ -4,7 +4,9 @@ The Executive Director may, within the limits of available appropriations, dispo
 
 (Pub. L. 104–1, title III, §306, as added Pub. L. 111–68, div. A, title I, §1101(a), Oct. 1, 2009, 123 Stat. 2031.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 111–68, div. A, title I, §1101(c), Oct. 1, 2009, 123 Stat. 2031, provided that: "The amendments made bythis section \[enacting this section\] shall apply with respect to fiscal year 2010, and each fiscal year thereafter."
+Pub. L. 111–68, div. A, title I, §1101(c), Oct. 1, 2009, 123 Stat. 2031, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to fiscal year 2010, and each fiscal year thereafter."
 

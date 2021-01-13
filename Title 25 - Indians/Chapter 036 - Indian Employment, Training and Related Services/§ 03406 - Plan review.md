@@ -42,7 +42,7 @@ In consultation with the Secretary, a participating Indian tribe may request tha
 
 #### (3) Failure to act on request
 
-&emsp;If the head of an affected agency does not make a decision under paragraph (1) by thedeadline identified in that paragraph, the request shall be considered to be granted.
+&emsp;If the head of an affected agency does not make a decision under paragraph (1) by the deadline identified in that paragraph, the request shall be considered to be granted.
 
 #### (f) Secretarial review
 
@@ -81,6 +81,8 @@ Not later than 10 days after the date on which the dispute is resolved under thi
 &emsp;(2) notice of the right to file an appeal in accordance with the applicable provisions described in section 3407(d) of this title.
 
 (Pub. L. 102–477, §7, Oct. 23, 1992, 106 Stat. 2303; Pub. L. 106–568, title XI, §1103(c), Dec. 27, 2000, 114 Stat. 2932; Pub. L. 115–93, §8, Dec. 18, 2017, 131 Stat. 2029.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

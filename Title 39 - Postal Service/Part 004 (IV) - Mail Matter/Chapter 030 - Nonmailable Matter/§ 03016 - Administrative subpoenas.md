@@ -58,7 +58,7 @@ Service on natural persons.—Service of any subpoena may be made upon any natur
 
 &emsp;&emsp;(A) delivering a duly executed copy to the person to be served; or
 
-&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
+&emsp;&emsp;(B) depositing such copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed tosuch person at his residence or principal office or place of business.
 
 &emsp;(5)
 
@@ -82,9 +82,13 @@ Disclosure.—Any documentary material provided pursuant to any subpoena issued 
 
 (Added Pub. L. 106–168, title I, §107(a), Dec. 12, 1999, 113 Stat. 1812.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

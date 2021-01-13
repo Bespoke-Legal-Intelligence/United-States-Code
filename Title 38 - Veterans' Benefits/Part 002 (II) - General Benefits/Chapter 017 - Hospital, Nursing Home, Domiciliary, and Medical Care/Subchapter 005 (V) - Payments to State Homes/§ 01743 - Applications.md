@@ -4,6 +4,8 @@ Payments on account of any veteran cared for in a State home shall be made under
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1147, §643; Pub. L. 97–251, §7, Sept. 8, 1982, 96 Stat. 716; renumbered §1743 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 1743 was renumbered section 3543 of this title.

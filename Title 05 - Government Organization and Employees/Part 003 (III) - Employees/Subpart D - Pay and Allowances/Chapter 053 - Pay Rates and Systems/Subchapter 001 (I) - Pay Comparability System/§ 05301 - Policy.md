@@ -10,7 +10,7 @@ It is the policy of Congress that Federal pay fixing for employees under the Gen
 
 &emsp;(4) any existing pay disparities between Federal and non-Federal employees should be completely eliminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L.96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 458; Pub. L. 91–656, §2(a), Jan. 8, 1971, 84 Stat. 1946; Pub. L. 96–465, title II, §2314(c)(1), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1429.)
 
 Historical and Revision Notes
 
@@ -31,6 +31,8 @@ The words "It is the policy of Congress" are substituted for "The Congress hereb
 In the last sentence, the words "and henceforth" are omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1980</b>—Subsec. (c)(2). Pub. L. 96–465 substituted "section 403 of the Foreign Service Act of 1980" for "subchapter IV of chapter 14 of title 22".
 
 <b>1971</b>—Pub. L. 91–656 designated provisions of first sentence as subsec. (a), incorporating former cl. (1) in cls. (1) and (2), and former cl. (2) in cl. (3), and inserted "for employees under statutory pay systems" after "Federal pay fixing"; substituted subsec. (b) reading "The pay rates of each statutory pay system shall be fixed and adjusted in accordance with the principles under subsection (a) of this section and the provisions of sections 5305, 5306, and 5308 of this title" for former second sentence providing "Pay levels for the several Federal statutory pay systems shall be interrelated, and pay levels shall be set and adjusted in accordance with these principles"; and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -98,7 +102,7 @@ Rules of Construction.—(1) Except as otherwise expressly provided, any referen
 
 "(2) Except as otherwise expressly provided, any reference (actual or implicit) in any provision of this Act outside of FEPCA to 'this Act' (or to any title, section, or other designated provision of 'this Act'), and any reference made in any provision of law outside of this Act to the 'Treasury, Postal Service and General Government Appropriations Act, 1991' \[Pub. L. 101–509\] (or to any title, section, or other designated provision of such Act), shall be construed disregarding the provisions of FEPCA."
 
-Pub. L. 101–509, title V, §529 \[title III, §306\], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: "Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to 'this Act' \[section 529 of Pub. L. 101–509\]\(other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\]."
+Pub. L. 101–509, title V, §529 \[title III, §306\], Nov. 5, 1990, 104 Stat. 1427, 1464, provided that: "Notwithstanding section 1(b) \[section 529 \[§1(b)\] of Pub. L. 101–509, set out above\], a reference in any of the preceding provisions of this title \[section 529 \[title III, §§301–305\] of Pub. L. 101–509, enacting section 237 of Title 42, The Public Health and Welfare, amending section 212 of Title 42, and enacting provisions set out as notes under this section, section 5304 of this title, and section 212 of Title 42\] to 'this Act' \[section 529 of Pub. L. 101–509\] (other than a reference in section 301) \[section 529 \[title III, §301\] of Pub. L. 101–509, set out below\] shall not be considered to include any provision of title IV \[section 529 \[title IV, §§401–412\] of Pub. L. 101–509, enacting sections 4521 to 4523 of this title, amending sections 5541, 5542, 5547, 8335, and 8425 of this title, enacting provisions set out as notes under sections 4521, 5305, 5541, and 8335 of this title, and amending provisions set out as a note under section 5541 of this title\]."
 
 #### Short Title
 
@@ -173,6 +177,8 @@ Pub. L. 101–509, title V, §529 \[title III, §301\], Nov. 5, 1990, 104 Stat. 
 #### Pay Rates for Current Employees
 
 Pub. L. 101–509, title V, §529 \[title III, §303\], Nov. 5, 1990, 104 Stat. 1463, provided that: "Nothing in this Act or in any amendment made by this Act \[see Short Title of 1990 Amendment note above\] shall have the effect of diminishing the rate of basic pay payable to any individual employed by the United States on the date of the enactment of this Act \[Nov. 5, 1990\] to a rate below the rate payable to such individual on such date, so long as that individual continues in such position without a break in service."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12748. Providing for Federal Pay Administration
 

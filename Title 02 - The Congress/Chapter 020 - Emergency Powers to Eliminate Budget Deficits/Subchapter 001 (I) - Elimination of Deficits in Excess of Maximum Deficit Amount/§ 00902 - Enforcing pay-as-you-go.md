@@ -82,6 +82,8 @@ If a provision of direct spending or receipts legislation is enacted that the Pr
 
 (Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, §121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 906(a) of this title, referred to in subsec. (c)(1)(A), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
@@ -100,7 +102,7 @@ Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out head
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted "and direct" after "guaranteed".
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of changein outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out ", for any fiscal year from 1991 through 1998," after "If" and "through 1995" after "receipts in all fiscal years".
 
@@ -117,6 +119,8 @@ Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted "for any fiscal year f
 <b>1987</b>—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted "proposed" for "made".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

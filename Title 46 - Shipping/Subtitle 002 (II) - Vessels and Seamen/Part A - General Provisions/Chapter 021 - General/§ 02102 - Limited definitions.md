@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 2102 contains a number of definitions that are limited to recreational vessels in Chapter 43 of Part B and the numbering of these vessels in Chapter 123 of Part H.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304 redesignated subsec. (b) as entire section, substituted "west" for "West" and "east" for "East", and struck out subsec. (a) which defined "eligible State", "State", "United States", and "State recreational boating safety program" in chapters 37, 43, 51, and 123 of this title and part I of this subtitle.
@@ -32,7 +34,9 @@ Par. (4). Pub. L. 98–369, §1011(a)(2), struck out par. (4) which defined Stat
 
 Par. (5). Pub. L. 98–369, §1011(a)(3), redesignated par. (5) as (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept.30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 

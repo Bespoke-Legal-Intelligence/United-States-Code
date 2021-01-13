@@ -46,7 +46,7 @@
 
 &emsp;(ii) the effect of the termination.
 
-(3)(A) Notwithstanding paragraph (1), a written service agreement is not required if the agency pays a retention bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established forthe employee with no portion of the bonus deferred.
+(3)(A) Notwithstanding paragraph (1), a written service agreement is not required if the agency pays a retention bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established for the employee with no portion of the bonus deferred.
 
 (B) If an agency pays a retention bonus in accordance with subparagraph (A) and makes a determination to terminate the payments, the agency shall provide written notice to the employee of that determination. Except as provided in regulations of the Office, the employee shall continue to be paid the retention bonus through the end of the pay period in which such written notice is provided.
 
@@ -76,6 +76,8 @@
 
 (Added Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2307; amended Pub. L. 114–323, title IV, §412(2), Dec. 16, 2016, 130 Stat. 1932.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a)(1)(A), is set out under section 5332 of this title.
@@ -87,6 +89,8 @@ A prior section 5754, added Pub. L. 101–509, title V, §529 \[title II, §208(
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–323 inserted ", excluding members of the Foreign Service other than chiefs of mission and ambassadors at large" before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ The Director is authorized and empowered to permit or to require Federal Home Lo
 
 #### (g) Reserves
 
-Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Director may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, and which may be made without the security of home mortgages or other security, upon such terms and conditions as the Director may prescribe.
+Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Director may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, andwhich may be made without the security of home mortgages or other security, upon such terms and conditions as the Director may prescribe.
 
 #### (h) Investment of surplus funds
 
@@ -74,7 +74,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 #### (A) General authority
 
-&emsp;&emsp;In addition to the authority under subsection (i) of this section, the Secretary of the Treasury is authorized to purchase any obligations issued by any Federal Home Loan Bank under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires a Federal Home Loan Bank to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Federal Home Loan Bank. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the Federal Home Loan Bank, to engage in open market purchases of the common securities of any Federal Home Loan Bank.
+&emsp;&emsp;In addition to the authority under subsection (i) of this section, the Secretary of the Treasury is authorized to purchase any obligations issued by any Federal Home Loan Bank under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires a Federal Home Loan Bank to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Federal Home Loan Bank. Nothing in this subsectionpermits or authorizes the Secretary, without the agreement of the Federal Home Loan Bank, to engage in open market purchases of the common securities of any Federal Home Loan Bank.
 
 #### (B) Emergency determination required
 
@@ -140,7 +140,9 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, §1304(c), July 21, 2010, 124 Stat. 2134.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, §1304(c), July 21, 2010, 124 Stat. 2134.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -212,7 +214,7 @@ Subsec. (i). Pub. L. 93–495 substituted "obligations under this paragraph" for
 
 <b>1970</b>—Subsec. (g). Pub. L. 91–609 substituted "five years" for "one year" in items (3) and (4).
 
-<b>1969</b>—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System tocontinue to supply funds to the mortgage market during tight market conditions.
+<b>1969</b>—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System to continue to supply funds to the mortgage market during tight market conditions.
 
 <b>1968</b>—Subsec. (h). Pub. L. 90–448 inserted "or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association".
 
@@ -225,6 +227,8 @@ Subsec. (i). Pub. L. 93–495 substituted "obligations under this paragraph" for
 Subsecs. (i), (j). Act June 27, 1950, §4, added subsecs. (i) and (j).
 
 <b>1934</b>—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -92,6 +92,8 @@ In clause (3)(B), the words "or procurement of property or services for the dire
 
 In clause (4)(A), the words "or benefits" are omitted as being included in "assistance". Subclause (ii) is included for consistency in the revised title because the District of Columbia is stated when a provision is meant to apply to the District. In subclause (vi), the word "grouping" is omitted as being included in "political subdivision or instrumentality". In subclauses (vii)–(ix), the words "profit or nonprofit" are omitted as surplus. In subclause (ix), the words "individual of the United States" are substituted for "domestic . . . individual" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (4)(B). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–272. See 1994 Amendment note below.
@@ -104,6 +106,8 @@ In clause (4)(A), the words "or benefits" are omitted as being included in "assi
 
 Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–287, §6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
@@ -115,6 +119,54 @@ Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[
 #### Short Title of 2008 Amendment
 
 Pub. L. 110–252, title VI, §6201, June 30, 2008, 122 Stat. 2387, provided that: "This chapter \[chapter 2 (§§6201, 6202) of title VI of Pub. L. 110–252, enacting and amending provisions set out as notes under this section\] may be cited as the 'Government Funding Transparency Act of 2008'."
+
+#### Reporting on Use of Funds
+
+Pub. L. 116–136, div. B, title V, §15011, Mar. 27, 2020, 134 Stat. 540, provided that:
+
+"(a) In this section—
+
+&emsp;"(1) the terms 'agency', 'appropriate congressional committees', 'Committee', 'covered funds', and 'Coronavirus response' have the meanings given those terms in section 15010 \[set out as a note under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)\];
+
+&emsp;"(2) the term 'covered recipient'—
+
+&emsp;&emsp;"(A) means any entity that receives large covered funds; and
+
+&emsp;&emsp;"(B) includes any State, the District of Columbia, and any territory or possession of the United States; and
+
+&emsp;"(3) the term 'large covered funds' means covered funds that amount to more than $150,000.
+
+"(b)(1)(A) On a monthly basis until September 30, 2021, each agency shall report to the Director of the Office of Management and Budget, the Bureau of Fiscal Service in the Department of the Treasury, the Committee, and the appropriate congressional committees on any obligation or expenditure of large covered funds, including loans and awards.
+
+"(B) Not later than 90 days after the date of enactment of this Act \[Mar. 27, 2020\], each agency shall submit to the Committee a plan describing how the agency will use covered funds.
+
+"(2) Not later than 10 days after the end of each calendar quarter, each covered recipient shall submit to the agency and the Committee a report that contains—
+
+&emsp;"(A) the total amount of large covered funds received from the agency;
+
+&emsp;"(B) the amount of large covered funds received that were expended or obligated for each project or activity;
+
+&emsp;"(C) a detailed list of all projects or activities for which large covered funds were expended or obligated, including—
+
+&emsp;&emsp;"(i) the name of the project or activity;
+
+&emsp;&emsp;"(ii) a description of the project or activity; and
+
+&emsp;&emsp;"(iii) the estimated number of jobs created or retained by the project or activity, where applicable; and
+
+&emsp;"(D) detailed information on any level of subcontracts or subgrants awarded by the covered recipient or its subcontractors or subgrantees, to include the data elements required to comply with the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note) allowing aggregate reporting on awards below $50,000 or to individuals, as prescribed by the Director of the Office of Management and Budget.
+
+"(3) Not later than 30 days after the end of each calendar quarter, the Committee, in consultation with the agency that made large covered funds available to any covered recipient shall make the information in reports submitted under paragraph (2) publicly available by posting the information on the website established under section 15010(g).
+
+"(4)(A) Each agency, in coordination with the Committee and the Director of the Office of Management and Budget shall provide user-friendly means for covered recipients to meet requirements of this subsection.
+
+"(B) Federal agencies may use existing mechanisms to ensure that information under this subsection is reported accurately.
+
+"(c)(1) The Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, the Administrator of the Small Business Administration, and the Chairperson of the Council of Economic Advisors, shall submit to the appropriate congressional committees and publicly release on the website established under section 15010(g) quarterly reports that detail the impact of programs funded through large covered funds on employment, estimated economic growth, and other key economic indicators, including information about impacted industries.
+
+"(2)(A) The first report submitted under paragraph (1) shall be submitted not later than 45 days after the end of the first full quarter following the date of enactment of this Act.
+
+"(B) The last report required to be submitted under paragraph (1) shall apply to the quarter in which the Committee terminates."
 
 #### Exemption From Certain Reporting Requirements for Certain Agricultural Producers
 
@@ -164,7 +216,7 @@ Requirements.—Not later than 180 days after the date of the enactment of this 
 
 &emsp;&emsp;"(C) for the United States Agency for International Development.
 
-&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to thesupervision of the acquisition office or the Inspector General—
+&emsp;"(2) A suspension and debarment official under paragraph (1) may not report to or be subject to the supervision of the acquisition office or the Inspector General—
 
 &emsp;&emsp;"(A) in the case of the Department of Defense, of either the Department of Defense or the military department or Defense Agency concerned; and
 
@@ -560,7 +612,7 @@ Agencies.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+In general.—Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued,each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
 
 &emsp;&emsp;"(B)
 
@@ -728,7 +780,7 @@ Data availability.—The Secretary shall enter into memoranda of understanding w
 
 &emsp;"(3)
 
-Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transferthat the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
+Transfer.—Upon the establishment of a data analysis center or the expansion of a service under paragraph (1), and on or before the date on which the Recovery Accountability and Transparency Board terminates, and in addition to any other transfer that the Director determines is necessary under section 1531 of title 31, United States Code, there are transferred to the Department of the Treasury all assets identified by the Secretary that support the operations and activities of the Recovery Operations Center of the Recovery Accountability and Transparency Board relating to the detection of waste, fraud, and abuse in the use of Federal funds that are in existence on the day before the transfer.
 
 #### "SEC. 7. CLASSIFIED AND PROTECTED INFORMATION.
 
@@ -772,11 +824,13 @@ Definitions.—In this section:
 
 Pub. L. 98–169, §7, Nov. 29, 1983, 97 Stat. 1115, provided that: "The Director of the Office of Management and Budget shall transfer to the Administrator of General Services such personnel, property, records, and unexpended balances of appropriations available in connection with any authorities and responsibilities so transferred, as the Director of the Office of Management and Budget determines are necessary to carry out the responsibilities transferred pursuant to this Act \[enacting sections 6105 and 6106 of this title, amending sections 6101 to 6104 of this title and repealing section 6105 of this title\]."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12549. Debarment and Suspension of Participants in Federal Programs
 
 Ex. Ord. No. 12549, Feb. 18, 1986, 51 F.R. 6370, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federal programs, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federalprograms, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
 
 Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancial assistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
 
@@ -792,7 +846,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall besubmitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

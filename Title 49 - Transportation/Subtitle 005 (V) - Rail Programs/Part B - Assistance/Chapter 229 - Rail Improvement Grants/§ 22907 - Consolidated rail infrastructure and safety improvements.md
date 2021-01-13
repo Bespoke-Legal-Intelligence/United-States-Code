@@ -50,7 +50,7 @@ Eligible Projects.—The following projects are eligible to receive grants under
 
 &emsp;(8) The preparation of regional rail and corridor service development plans and corresponding environmental analyses.
 
-&emsp;(9) Any project that the Secretary considers necessary to enhance multimodal connections or facilitate service integration between rail service and other modes, including between intercity rail passenger transportation and intercity bus service or commercial air service.
+&emsp;(9) Any project that the Secretary considers necessary to enhance multimodal connections or facilitate service integration between rail service and other modes, including betweenintercity rail passenger transportation and intercity bus service or commercial air service.
 
 &emsp;(10) The development and implementation of a safety program or institute designed to improve rail safety.
 
@@ -92,7 +92,7 @@ Other considerations.—The Secretary shall also consider the following:
 
 &emsp;(3)
 
-Benefits.—The benefits described in paragraph (1)(B) may include the effects on system and service performance, including measures such as improved safety, competitiveness, reliability, trip or transit time, resilience, efficiencies from improved integrationwith other modes, the ability to meet existing or anticipated demand, and any other benefits.
+Benefits.—The benefits described in paragraph (1)(B) may include the effects on system and service performance, including measures such as improved safety, competitiveness, reliability, trip or transit time, resilience, efficiencies from improved integration with other modes, the ability to meet existing or anticipated demand, and any other benefits.
 
 (f)
 
@@ -148,7 +148,7 @@ In general.—In carrying out this chapter, the Secretary shall allocate an appr
 
 &emsp;&emsp;(A) in which there is no intercity passenger rail service, for the purpose of funding freight rail capital projects that are on a State rail plan developed under chapter 227 that provide public benefits (as defined in chapter 227), as determined by the Secretary; or
 
-&emsp;&emsp;(B) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant under this section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
+&emsp;&emsp;(B) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant underthis section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
 
 &emsp;(2)
 
@@ -352,7 +352,7 @@ Grant.—The Federal Railroad Administration shall make a grant or grants to Ope
 
 "(b)
 
-Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects described in subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202 of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
+Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects described in subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
 
 "(c)
 

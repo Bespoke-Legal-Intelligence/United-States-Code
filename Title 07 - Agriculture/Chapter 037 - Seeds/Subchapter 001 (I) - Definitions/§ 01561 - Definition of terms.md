@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) "Vegetable seeds" shall include the seeds of those crops that are or may be grown in gardens or on truck farms and are or may be generally known and sold under the name of vegetable seeds.
 
-&emsp;(8) For the purpose of subchapter II, the term "weed seeds" means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
+&emsp;(8) For the purpose of subchapter II, the term "weed seeds" means the seeds or bulbletsof plants recognized as weeds either by the law or rules and regulations of—
 
 &emsp;&emsp;(A) The State into which the seed is offered for transportation, or transported; or
 
@@ -78,7 +78,7 @@
 
 &emsp;(24) The term "seed certifying agency" means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
-(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
+(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956,ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
 
 #### Codification
 

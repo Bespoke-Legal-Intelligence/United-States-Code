@@ -110,7 +110,7 @@ The Secretary, after giving careful consideration to the recommendations set for
 
 &emsp;(A) the planning commission has afforded adequate opportunity, including public hearings, for public involvement in the preparation and review of the plan, and public comments were received and considered in the plan or revision as presented to him;
 
-&emsp;(B) the State and local units of government identified in the plan as responsible for implementing its provisions have the necessary authority to implement the plan and such State and local units of government have indicatedtheir intention to use such authority to implement the plan;
+&emsp;(B) the State and local units of government identified in the plan as responsible for implementing its provisions have the necessary authority to implement the plan and such Stateand local units of government have indicated their intention to use such authority to implement the plan;
 
 &emsp;(C) the plan, if implemented, would preserve significant natural, historical, and archeological benefits and, consistent with such benefits, provide increased recreational opportunities for persons residing in the greater Los Angeles-southern California metropolitan area; and
 

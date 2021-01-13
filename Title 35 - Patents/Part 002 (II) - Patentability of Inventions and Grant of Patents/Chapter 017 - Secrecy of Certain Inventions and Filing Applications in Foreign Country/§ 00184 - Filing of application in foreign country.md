@@ -20,6 +20,8 @@ Based on Title 35, U.S.C., 1946 ed., §154 (Feb. 1, 1952, ch. 4, §4, 66 Stat. 5
 
 Language is changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 designated first to third pars. as subsecs. (a) to (c), respectively, inserted headings, in subsec. (a), struck out "of this title" after "181" in two places and struck out "and without deceptive intent" after "through error", and, in subsec. (c), struck out "of this title" after "under section 181" in first sentence.
@@ -30,9 +32,11 @@ Language is changed.
 
 Pub. L. 100–418, §9101(b)(1)(B), added third par. relating to scope of a license.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or afterthat effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 100–418, title IX, §9101(d), Aug. 23, 1988, 102 Stat. 1568, provided 
 
 "(2) The amendments made by this section shall not affect any final decision made by a court or the Patent and Trademark Office before the date of enactment of this section \[Aug. 23, 1988\] with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
-"(3) No United States patent granted before the date of enactment of this section \[Aug. 23, 1988\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used, prior to such date of enactment, anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by this section and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this section, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment of this section, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before such date of enactment.
+"(3) No United States patent granted before the date of enactment of this section \[Aug. 23, 1988\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used, prior to suchdate of enactment, anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by this section and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this section, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment of this section, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before such date of enactment.
 
 "(4) The amendments made by this section shall not affect the right of any party in any case pending in court on the date of enactment of this section \[Aug. 23, 1988\] to have its rights or liabilities—
 

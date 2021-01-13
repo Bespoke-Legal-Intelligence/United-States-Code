@@ -42,6 +42,8 @@ The Comptroller may, without notice or hearing, replace a conservator with anoth
 
 (Mar. 9, 1933, ch. 1, title II, §203, 48 Stat. 2; Pub. L. 101–73, title VIII, §802, Aug. 9, 1989, 103 Stat. 442; Pub. L. 102–242, title I, §133(c), Dec. 19, 1991, 105 Stat. 2271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
@@ -56,6 +58,8 @@ Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, 
 
 <b>1989</b>—Pub. L. 101–73 amended section generally, changing structure of section from a single unlettered paragraph to one consisting of subsections (a) to (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section 133(g) of Pub. L. 102–242, set out as a note under section 191 of this title.
@@ -63,6 +67,8 @@ Amendment by Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Conservators of State Banks
 

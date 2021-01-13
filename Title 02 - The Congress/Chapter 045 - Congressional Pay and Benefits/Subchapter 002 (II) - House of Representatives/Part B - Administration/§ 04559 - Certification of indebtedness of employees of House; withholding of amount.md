@@ -4,11 +4,13 @@ Whenever an employee of the House of Representatives becomes indebted to the Hou
 
 (Pub. L. 85–492, July 2, 1958, 72 Stat. 293; Pub. L. 104–186, title II, §204(42), Aug. 20, 1996, 110 Stat. 1736.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 89a of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 substituted "and fails to pay the indebtedness, the chairman of the committee or the elected officer of the House of Representatives that has jurisdiction over the activity under which the indebtedness arises may certify to the Chief Administrative Officer of the House of Representatives the amount of the indebtedness" for ", or to the trust fund account in the office of the Sergeant at Arms of the House of Representatives, and such employee fails to pay such indebtedness, the chairman of the committee, or the elected officer, of the House of Representatives having jurisdiction of the activity under which such indebtedness arose, is authorized to certify to the Clerk of the House of Representatives the amount of such indebtedness" in first sentence and "Chief Administrative Officer" for "Clerk" in second and last sentences.
+<b>1996</b>—Pub. L. 104–186 substituted "and fails to pay the indebtedness, the chairman of the committee or the elected officer of the House of Representatives that has jurisdiction over the activity under which the indebtedness arises may certify to the Chief Administrative Officer of the House of Representatives the amount of the indebtedness" for ", or to the trust fund account in the office of the Sergeant at Arms of the House of Representatives, and such employee fails to pay such indebtedness, the chairman of the committee, or the elected officer, of the House of Representatives having jurisdiction of the activity under which such indebtedness arose, is authorized to certify to the Clerk of theHouse of Representatives the amount of such indebtedness" in first sentence and "Chief Administrative Officer" for "Clerk" in second and last sentences.
 

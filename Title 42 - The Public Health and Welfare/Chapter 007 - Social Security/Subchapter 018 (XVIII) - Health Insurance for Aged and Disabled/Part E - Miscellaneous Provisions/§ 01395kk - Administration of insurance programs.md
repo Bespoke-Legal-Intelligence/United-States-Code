@@ -20,7 +20,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;(A) at least 50 percent of all payments under parts A and B are processed through such program beginning within 1 year after July 15, 2008; <sup>1</sup>
 
-&emsp;&emsp;(B) at least 75 percent of all payments under parts A and B are processed through such program beginning within 2 years after July 15, 2008; and
+&emsp;&emsp;(B) at least 75 percent of all payments under parts A and B are processed throughsuch program beginning within 2 years after July 15, 2008; and
 
 &emsp;&emsp;(C) all payments under parts A and B are processed through such program beginning not later than September 30, 2011.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but onlyif by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
+Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which FederalInsurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
 
 #### Report
 

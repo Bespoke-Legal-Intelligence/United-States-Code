@@ -20,6 +20,8 @@ Within 15 days after the issuance of a license (including any brokering license)
 
 (Pub. L. 90–629, ch. 7, §71, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, §708(c), Oct. 6, 2000, 114 Stat. 863.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4605(l) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -48,6 +50,8 @@ Subsec. (c). Pub. L. 103–236, §714(a)(6), inserted "with the Director of the 
 
 Subsec. (d). Pub. L. 103–236, §735(c), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
@@ -55,10 +59,6 @@ Reference to the Director of Central Intelligence or the Director of the Central
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
-
-#### Delegation of Functions
-
-Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
 
 #### Policy and Sense of Congress on Nonproliferation of Ballistic Missiles
 
@@ -68,7 +68,7 @@ Pub. L. 108–375, div. A, title XII, §1212, Oct. 28, 2004, 118 Stat. 2087, pro
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of theArmed Forces, and allies of the United States and other friendly foreign countries.
+&emsp;"(1) Certain countries are seeking to acquire ballistic missiles and related technologies that could be used to attack the United States or place at risk United States interests, deployed members of the Armed Forces, and allies of the United States and other friendly foreign countries.
 
 &emsp;"(2) Certain countries continue to actively transfer or sell ballistic missile technologies in contravention of standards of behavior established by the United States and allies of the United States and other friendly foreign countries.
 
@@ -94,6 +94,12 @@ Pub. L. 106–280, title VII, §704, Oct. 6, 2000, 114 Stat. 861, provided that:
 
 Pub. L. 101–510, div. A, title XVII, §1704, Nov. 5, 1990, 104 Stat. 1749, directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, §1097(g), Dec. 5, 1991, 105 Stat. 1491.
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, §7, June 11, 1993, 58 F.R. 33181, set out below.
+
 #### Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities
 
 Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, as amended by Ex. Ord. No. 13883, §3, Aug. 1, 2019, 84 F.R. 38113, provided:
@@ -116,7 +122,7 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 (4) The authorities and duties vested in me to oppose certain multilateral development bank assistance and to prohibit certain bank loans as provided in section 307(b)(2)(A)–(B), pursuant to a determination made by the Secretary of State under section 307(b)(1), are delegated to the Secretary of the Treasury.
 
-(c) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise the prohibition authority delegated hereby.
+(c) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate,utilizing the appropriate interagency groups prior to any determination to exercise the prohibition authority delegated hereby.
 
 Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</i>. The authority and duties vested in me by sections 72–73 of the AECA (22 U.S.C. 2797a–2797b) are delegated to the Secretary of State, except that:
 

@@ -28,9 +28,13 @@ In subsection (b), the words "Chairman, United States Civil Service Commission" 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 substituted "Administrative procedure" for "Boards of examiners" in section catchline, and in text provisions relating to administrative procedure applicable to administration of this chapter for provisions relating to boards of examiners for the United States Civil Service Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -6,7 +6,7 @@ A creditor may not treat a payment on a credit card account under an open end co
 
 #### (b) Grace period
 
-If an open end consumer credit plan provides a time period within which an obligor may repay any portion of the credit extended without incurring an additional finance charge, such additional finance charge may not be imposed with respect to such portion of the credit extended for the billing cycle of which such period is a part, unless a statement which includes the amount upon which the finance charge for the period is based was mailed or delivered to the consumer not later than 21 days before the date specified in the statement by which payment must be made in order to avoid imposition of that finance charge.
+If an open end consumer credit plan provides a time period within which an obligor may repay any portion of the credit extended without incurring an additional finance charge, such additional finance charge may not be imposed with respect to such portion of the credit extended for the billing cycle of which such period is a part, unless a statement which includes the amount upon which the finance charge for the period is based was mailed or delivered to the consumer not later than 21 days before the date specified in the statement by which paymentmust be made in order to avoid imposition of that finance charge.
 
 (Pub. L. 90–321, title I, §163, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1514; amended Pub. L. 111–24, title I, §106(b)(1), May 22, 2009, 123 Stat. 1742; Pub. L. 111–93, §2, Nov. 6, 2009, 123 Stat. 2998.)
 

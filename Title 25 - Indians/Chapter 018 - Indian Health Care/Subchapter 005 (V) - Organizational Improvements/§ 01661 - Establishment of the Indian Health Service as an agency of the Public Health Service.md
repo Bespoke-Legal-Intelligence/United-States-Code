@@ -78,6 +78,8 @@ The Director shall—
 
 (Pub. L. 94–437, title VI, §601, as added Pub. L. 100–713, title VI, §601(a), Nov. 23, 1988, 102 Stat. 4824; amended Pub. L. 102–573, title VI, §§601, 602(a)(1), (c), title IX, §902(6), (7), Oct. 29, 1992, 106 Stat. 4571, 4592; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(3)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -100,7 +102,7 @@ A prior section 1661, Pub. L. 94–437, title VI, §601, Sept. 30, 1976, 90 Stat
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of thePublic Health Service and inserting additional provisions relating to responsibilities of the Director.
+<b>2010</b>—Pub. L. 111–148 amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of the Public Health Service and inserting additional provisions relating to responsibilities of the Director.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–573, §602(c), inserted at end "Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term."
 
@@ -111,6 +113,8 @@ Subsec. (c)(3)(D). Pub. L. 102–573, §902(6), substituted "(42 U.S.C. 2005 et 
 Subsec. (c)(4). Pub. L. 102–573, §601, added par. (4).
 
 Subsec. (d)(1)(C). Pub. L. 102–573, §902(7), substituted "appropriated" for "appropriate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

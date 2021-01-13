@@ -2,7 +2,7 @@
 
 #### (a) Determination by the Board
 
-The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country's demonstrated commitment to the criteriain subsection (b), and shall, where appropriate, take into account and assess the role of women and girls. A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country's performance with respect to such criteria when selected for such preceding Compact.
+The Board shall determine whether a candidate country is an eligible country for purposes of this section. Such determination shall be based, to the maximum extent possible, upon objective and quantifiable indicators of a country's demonstrated commitment to the criteria in subsection (b), and shall, where appropriate, take into account and assess the role of women and girls. A determination whether a country is eligible for a subsequent, non-concurrent Millennium Challenge Compact shall also be based, to the extent practicable, on significantly improved performance across the criteria in subsection (b) that, at a minimum, are relevant to the preceding Compact, compared to the country's performance with respect to such criteria when selected for such preceding Compact.
 
 #### (b) Criteria
 
@@ -79,6 +79,8 @@ The criteria and methodology submitted by the Board to Congress and published in
 As appropriate, the Board, acting through the Chief Executive Officer, shall review the eligibility criteria and methodology and modify such criteria and methodology in subsequent years consistent with section 7707(b) of this title.
 
 (Pub. L. 108–199, div. D, title VI, §607, Jan. 23, 2004, 118 Stat. 216; Pub. L. 110–161, div. J, title VI, §699I(a), Dec. 26, 2007, 121 Stat. 2372; Pub. L. 115–167, title II, §203, Apr. 23, 2018, 132 Stat. 1279.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

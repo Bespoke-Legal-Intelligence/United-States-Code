@@ -34,7 +34,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### (1) In general
 
-&emsp;All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996, shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
+&emsp;All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996,shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
 
 #### (2) Costs
 
@@ -44,7 +44,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### Codification
 
-In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

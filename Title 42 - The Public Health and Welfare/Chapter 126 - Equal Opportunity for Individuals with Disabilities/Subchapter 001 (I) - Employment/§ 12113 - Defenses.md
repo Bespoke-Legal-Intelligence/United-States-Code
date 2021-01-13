@@ -50,7 +50,7 @@ Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall no
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 

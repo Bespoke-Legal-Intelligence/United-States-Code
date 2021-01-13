@@ -40,6 +40,8 @@ R.S. §3494.
 
 In subsection (b), the words "A civil action under section 3730 of this title" are substituted for "Every such suit" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -51,6 +53,8 @@ The Federal Rules of Evidence, referred to in subsec. (e), are set out in the Ap
 <b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–21, which directed amendment of section "3731(b)" of this title by adding subsec. (c) and redesignating former subsecs. (c) and (d) as (d) and (e), respectively, was executed by making the amendment to this section, to reflect the probable intent of Congress.
 
 <b>1986</b>—Subsecs. (b) to (d). Pub. L. 99–562 added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: "A civil action under section 3730 of this title must be brought within 6 years from the date the violation is committed."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

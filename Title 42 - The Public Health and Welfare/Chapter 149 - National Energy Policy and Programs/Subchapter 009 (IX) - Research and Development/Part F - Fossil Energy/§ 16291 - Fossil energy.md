@@ -1,22 +1,42 @@
 ### §16291. Fossil energy
 
-#### (a) In general
+#### (a) Establishment
 
-The Secretary shall carry out research, development, demonstration, and commercial application programs in fossil energy, including activities under this part, with the goal of improving the efficiency, effectiveness, and environmental performance of fossil energy production, upgrading, conversion, and consumption. Such programs take into consideration the following objectives:
+#### (1) In general
 
-&emsp;(1) Increasing the energy conversion efficiency of all forms of fossil energy through improved technologies.
+&emsp;The Secretary shall carry out research, development, demonstration, and commercial application programs in fossil energy, including activities under this part, with the goal of improving the efficiency, effectiveness, and environmental performance of fossil energy production, upgrading, conversion, and consumption.
 
-&emsp;(2) Decreasing the cost of all fossil energy production, generation, and delivery.
+#### (2) Objectives
 
-&emsp;(3) Promoting diversity of energy supply.
+&emsp;The programs described in paragraph (1) shall take into consideration the following objectives:
 
-&emsp;(4) Decreasing the dependence of the United States on foreign energy supplies.
+&emsp;&emsp;(A) Increasing the energy conversion efficiency of all forms of fossil energy through improved technologies.
 
-&emsp;(5) Improving United States energy security.
+&emsp;&emsp;(B) Decreasing the cost of all fossil energy production, generation, and delivery.
 
-&emsp;(6) Decreasing the environmental impact of energy-related activities.
+&emsp;&emsp;(C) Promoting diversity of energy supply.
 
-&emsp;(7) Increasing the export of fossil energy-related equipment, technology, and services from the United States.
+&emsp;&emsp;(D) Decreasing the dependence of the United States on foreign energy supplies.
+
+&emsp;&emsp;(E) Improving United States energy security.
+
+&emsp;&emsp;(F) Decreasing the environmental impact of energy-related activities, including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production.
+
+&emsp;&emsp;(G) Increasing the export of fossil energy-related equipment, technology, including emissions control technologies, and services from the United States.
+
+&emsp;&emsp;(H) Decreasing the cost of emissions control technologies for fossil energy production, generation, and delivery.
+
+&emsp;&emsp;(I) Significantly lowering greenhouse gas emissions for all fossil fuel production, generation, delivery, and utilization technologies.
+
+&emsp;&emsp;(J) Developing carbon removal and utilization technologies, products, and methods that result in net reductions in greenhouse gas emissions, including direct air capture and storage, and carbon use and reuse for commercial application.
+
+&emsp;&emsp;(K) Improving the conversion, use, and storage of carbon oxides produced from fossil fuels.
+
+&emsp;&emsp;(L) Reducing water use, improving water reuse, and minimizing surface and subsurface environmental impact in the development of unconventional domestic oil and natural gas resources.
+
+#### (3) Priority
+
+&emsp;In carrying out the objectives described in subparagraphs (F) through (K) of paragraph (2), the Secretary shall prioritize activities and strategies that have the potential to significantly reduce emissions for each technology relevant to the applicable objective and the international commitments of the United States.
 
 #### (b) Authorization of appropriations
 
@@ -32,7 +52,7 @@ There are authorized to be appropriated to the Secretary to carry out fossil ene
 
 From amounts authorized under subsection (a), the following sums are authorized:
 
-&emsp;(1) For activities under section 16292 of this title—
+&emsp;(1) For activities under section 16292 <sup>1</sup> of this title—
 
 &emsp;&emsp;(A) $367,000,000 for fiscal year 2007;
 
@@ -70,9 +90,27 @@ There are authorized to be appropriated to the Secretary for the Office of Arcti
 
 &emsp;Of the funds authorized under subsection (c)(2), not less than 20 percent of the funds appropriated for each fiscal year shall be dedicated to research and development carried out at institutions of higher education.
 
-(Pub. L. 109–58, title IX, §961, Aug. 8, 2005, 119 Stat. 889.)
+(Pub. L. 109–58, title IX, §961, Aug. 8, 2005, 119 Stat. 889; Pub. L. 116–260, div. Z, title IV, §4001, Dec. 27, 2020, 134 Stat. 2527.)
 
 #### References in Text
 
-This part, referred to in subsecs. (a) and (b), was in the original "this subtitle", meaning subtitle F (§§961–968) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 889, which enacted this part and provisions set out as notes under section 2001 of Title 30, Mineral Lands and Mining, and amended provisions set out as a note under section 1902 of Title 30. For complete classification of subtitle F to the Code, see Tables.
+This part, referred to in subsecs. (a)(1) and (b), was in the original "this subtitle", meaning subtitle F (§§961–968) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 889, which enacted this part and provisions set out as notes under section 2001 of Title 30, Mineral Lands and Mining, and amended provisions set out as a note under section 1902 of Title 30. For complete classification of subtitle F to the Code, see Tables.
+
+Section 16292 of this title, referred to in subsec. (c)(1), relating to coal and related technologies program, was repealed and a new section 16292 of this title, relating to carbon capture technology program, was enacted by Pub. L. 116–260, div. Z, title IV, §4002(a), Dec. 27, 2020, 134 Stat. 2528.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §4001(5), designated second sentence of par. (1), as redesignated, as par. (2), inserted heading, and substituted "The programs described in paragraph (1) shall" for "Such programs".
+
+Pub. L. 116–260, §4001(4), designated existing provisions of subsec. (a) as par. (1), substituted "Establishment" for "In general" in subsec. heading, and inserted par. (1) heading.
+
+Pub. L. 116–260, §4001(3), added subpars. (G) to (L) and struck out former subpar. (G), as redesignated, which read as follows: "Increasing the export of fossil energy-related equipment, technology, and services from the United States."
+
+Pub. L. 116–260, §4001(2), in subpar. (F), as redesignated, inserted ", including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production" before period at end.
+
+Pub. L. 116–260, §4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G) and realigned margins.
+
+Subsec. (a)(3). Pub. L. 116–260, §4001(6), added par. (3)
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ The Director of the Office of Secondary Market Oversight shall, by regulation, e
 
 #### (A) In general
 
-&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not lessthan 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
+&emsp;&emsp;With respect to securities representing an interest in, or obligations backed by, a pool of qualified loans owned or guaranteed by the Corporation and other obligations of the Corporation, losses on the underlying qualified loans occur throughout the United States at a rate of default and severity (based on any measurements of default reasonably related to prevailing industry practice in determining capital adequacy) reasonably related to the rate and severity that occurred in contiguous areas of the United States containing an aggregate of not less than 5 percent of the total population of the United States that, for a period of not less than 2 years (as established by the Director), experienced the highest rates of default and severity of agricultural mortgage losses, in comparison with such rates of default and severity of agricultural mortgage losses in other such areas for any period of such duration, as determined by the Director.
 
 #### (B) Rural utility loans
 
@@ -24,7 +24,7 @@ The Director of the Office of Secondary Market Oversight shall, by regulation, e
 
 &emsp;In establishing the risk-based capital test under subsection (a)—
 
-&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
+&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on varioustypes of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
 &emsp;&emsp;(B) the Director shall conform loan data used in determining credit risk to the minimum geographic and commodity diversification standards applicable to pools of qualified loans eligible for guarantee;
 
@@ -70,9 +70,11 @@ The Director shall make copies of the statistical model or models used to implem
 
 (Pub. L. 92–181, title VIII, §8.32, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871; amended Pub. L. 102–552, title III, §308(b)(3), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §§109(b)(3), 113, Feb. 10, 1996, 110 Stat. 165, 166; Pub. L. 110–234, title V, §5406(d), May 22, 2008, 122 Stat. 1159; Pub. L. 110–246, §4(a), title V, §5406(d), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, §5411(48), Dec. 20, 2018, 132 Stat. 4685.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsec. (d). Pub. L. 104–105, §113(3), designated first sentence of existing 
 Subsec. (b)(1)(E). Pub. L. 102–552, §308(b)(3)(B), substituted "December 13, 1991" for "the date of the enactment of such Act".
 
 Subsec. (b)(2). Pub. L. 102–552, §308(b)(3)(A), substituted "December 13, 1991" for "the date of the enactment of this section" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

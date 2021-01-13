@@ -54,5 +54,5 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(
 
 #### Prior Provisions
 
-A prior section 299c–1, act July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec.19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV, §4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098, related to peer review with respect to grants and contracts, prior to the general amendment of this subchapter by Pub. L. 106–129.
+A prior section 299c–1, act July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV, §4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098, related to peer review with respect to grants and contracts, prior to the general amendment of this subchapter by Pub. L. 106–129.
 

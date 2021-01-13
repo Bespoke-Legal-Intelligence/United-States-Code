@@ -18,7 +18,7 @@
 
 (B) No bank shall open a correspondent account at another bank while such bank has outstanding an extension of credit to an executive officer or director of, or other person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, the bank desiring to open the account or to any related interest of such person, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
-(C) No bank which maintains a correspondent account at another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person, unless such extension of credit is made on substantially the same terms, including interest rates and collateral as thoseprevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
+(C) No bank which maintains a correspondent account at another bank shall make an extension of credit to an executive officer or director of, or to any person who directly or indirectly acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, such other bank or to any related interest of such person, unless such extension of credit is made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
 (D) No bank which has outstanding an extension of credit to an executive officer or director of, or to any person who directly or indirectly or acting through or in concert with one or more persons owns, controls, or has the power to vote more than 10 per centum of any class of voting securities of, another bank or to any related interest of such person shall open a correspondent account at such other bank, unless such extension of credit was made on substantially the same terms, including interest rates and collateral as those prevailing at the time for comparable transactions with other persons and does not involve more than the normal risk of repayment or present other unfavorable features.
 
@@ -122,11 +122,13 @@ Notice Under This Section After Separation From Service.—The resignation, term
 
 (Pub. L. 91–607, title I, §106(b), Dec. 31, 1970, 84 Stat. 1766; Pub. L. 95–630, title VIII, §801, Nov. 10, 1978, 92 Stat. 3690; Pub. L. 97–320, title IV, §§410(f), 424(c), (d)(11), (e), 428, Oct. 15, 1982, 96 Stat. 1520, 1523, 1526; Pub. L. 101–73, title IX, §§905(h), 907(i), Aug. 9, 1989, 103 Stat. 461, 473; Pub. L. 102–242, title III, §306(j), Dec. 19, 1991, 105 Stat. 2359; Pub. L. 104–208, div. A, title II, §2216(a), Sept. 30, 1996, 110 Stat. 3009–413; Pub. L. 109–351, title VI, §601(b), Oct. 13, 2006, 120 Stat. 1978; Pub. L. 111–203, title III, §355, July 21, 2010, 124 Stat. 1547.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (1). Pub. L. 111–203 inserted "issue such regulations as are necessary to carry out this section, and, in consultation with the Comptroller of the Currency and the Federal Deposit Insurance Company, may" after "The Board may" in concluding provisions.
 
-<b>2006</b>—Par. (2)(G) to (I). Pub. L. 109–351 redesignated subpars. (H) and (I) as (G) and (H), respectively, and struck out former subpar. (G) which related to written reporting requirements relating to bank loans to executive officers or stockholders with power to vote more than 10 per centum of any class of voting securities of an insured bank.
+<b>2006</b>—Par. (2)(G) to (I). Pub. L. 109–351 redesignated subpars. (H) and (I) as (G) and (H), respectively, andstruck out former subpar. (G) which related to written reporting requirements relating to bank loans to executive officers or stockholders with power to vote more than 10 per centum of any class of voting securities of an insured bank.
 
 <b>1996</b>—Par. (1). Pub. L. 104–208, in concluding provisions, inserted "and the prohibitions of section 1843(f)(9) and 1843(h)(2) of this title" after "prohibition".
 
@@ -151,6 +153,8 @@ Par. (2)(G)(iii). Pub. L. 97–320, §428(b)(2), struck out cl. (iii) which requ
 Par. (2)(H). Pub. L. 97–320, §428(c), added subpar. (H).
 
 <b>1978</b>—Pub. L. 95–630 designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

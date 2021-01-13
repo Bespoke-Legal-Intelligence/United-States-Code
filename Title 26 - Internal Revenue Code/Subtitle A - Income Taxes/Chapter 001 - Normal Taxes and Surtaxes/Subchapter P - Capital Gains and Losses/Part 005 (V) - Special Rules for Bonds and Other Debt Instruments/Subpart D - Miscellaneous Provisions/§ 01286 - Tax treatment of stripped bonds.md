@@ -164,7 +164,7 @@ Amendment by Pub. L. 108–357 applicable to purchases and dispositions after Oc
 
 Pub. L. 100–647, title I, §1018(q)(4)(B), Nov. 10, 1988, 102 Stat. 3586, provided that:
 
-"(i) Except as provided in clause (ii), the amendment made by subparagraph (A) \[amending this section\] shall apply to any purchase or sale after June 10, 1987, of any stripped tax-exempt obligation or stripped coupon from such an obligation.
+"(i) Except as provided in clause (ii), the amendment made by subparagraph (A) \[amending this section\] shallapply to any purchase or sale after June 10, 1987, of any stripped tax-exempt obligation or stripped coupon from such an obligation.
 
 "(ii) If—
 

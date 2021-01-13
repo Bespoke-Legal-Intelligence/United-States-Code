@@ -4,6 +4,8 @@ In the sale of town lots under the provisions of sections 562 and 563 of this ti
 
 (June 11, 1910, ch. 284, §2, 36 Stat. 466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 594 of this title, referred to in text, was omitted from the Code.

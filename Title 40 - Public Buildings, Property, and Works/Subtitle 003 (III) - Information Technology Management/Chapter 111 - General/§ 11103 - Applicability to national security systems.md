@@ -76,6 +76,8 @@ Pub. L. 104–106, div. E, title LI, §§5141, 5142, Feb. 10, 1996, 110 Stat. 68
 
 40:1451(b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Exemption From Requirement for Capital Planning and Investment Control for Information Technology Equipment Included as Integral Part of a Weapon or Weapon System
 
 Pub. L. 114–328, div. A, title VIII, §895, Dec. 23, 2016, 130 Stat. 2326, provided that:

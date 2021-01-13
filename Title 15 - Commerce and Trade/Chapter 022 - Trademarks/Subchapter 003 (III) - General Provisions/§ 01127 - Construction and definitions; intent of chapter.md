@@ -44,13 +44,13 @@ The term "certification mark" means any word, name, symbol, or device, or any co
 
 &emsp;(2) which its owner has a bona fide intention to permit a person other than the owner to use in commerce and files an application to register on the principal register established by this chapter,
 
-> to certify regional or other origin, material, mode of manufacture, quality, accuracy, orother characteristics of such person's goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.
+> to certify regional or other origin, material, mode of manufacture, quality, accuracy, or other characteristics of such person's goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.
 
 The term "collective mark" means a trademark or service mark—
 
 &emsp;(1) used by the members of a cooperative, an association, or other collective group or organization, or
 
-&emsp;(2) which such cooperative, association, or other collective group or organization has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
+&emsp;(2) which such cooperative, association, or other collective group or organization has abona fide intention to use in commerce and applies to register on the principal register established by this chapter,
 
 > and includes marks indicating membership in a union, an association, or other organization.
 
@@ -108,7 +108,7 @@ Pub. L. 106–113, §1000(a)(9) \[title III, §3005\], inserted pars. defining "
 
 Pub. L. 106–43, §6(b), substituted "trademarks" for "trade-marks" in last undesignated par.
 
-Pub. L. 106–43, §4(c), between pars. defining "person" inserted: "The term 'person' also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity."
+Pub. L. 106–43, §4(c), between pars. defining "person" inserted: "The term 'person' also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the samemanner and to the same extent as any nongovernmental entity."
 
 <b>1996</b>—Pub. L. 104–98 inserted par. defining "dilution" after par. defining "abandoned".
 
@@ -148,7 +148,7 @@ Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places and "Commissioner of Patents and Trademarks" for "Commissioner of Patents" in definition of "Commissioner".
 
-<b>1962</b>—Pub. L. 87–772 substituted, "predecessors," for "and" in definition of "applicant" and "registrant", "Titles, character names and other distinctive featuresof radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor" for "and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce", in definition of "service mark", inserted "or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith" in fifteenth paragraph relating to use in commerce, struck out "purchasers" after "deceive" in definition of "colorable imitation", and substituted "commerce" for "commence" in last par. relating to the intent of the chapter.
+<b>1962</b>—Pub. L. 87–772 substituted, "predecessors," for "and" in definition of "applicant" and "registrant", "Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor" for "and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce", in definition of "service mark", inserted "or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith" in fifteenth paragraph relating to use in commerce, struck out "purchasers" after "deceive" in definition of "colorable imitation", and substituted "commerce" for "commence" in last par. relating to the intent of the chapter.
 
 #### Effective Date of 1999 Amendment
 
@@ -158,7 +158,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(b)(1)(A)\] of Pub. L. 106–1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective one year after the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 523 of Pub. L. 103–465, set out as a note under section 1052 of this title.
+Amendment by Pub. L. 103–465 effective one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 523 of Pub. L. 103–465, set out as a note under section 1052 of this title.
 
 #### Effective Date of 1992 Amendment
 

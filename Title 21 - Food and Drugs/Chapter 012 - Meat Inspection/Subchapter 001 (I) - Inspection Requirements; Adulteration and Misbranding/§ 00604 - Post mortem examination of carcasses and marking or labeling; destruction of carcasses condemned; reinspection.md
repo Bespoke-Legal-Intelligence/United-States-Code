@@ -4,6 +4,8 @@ For the purposes hereinbefore set forth the Secretary shall cause to be made by 
 
 (Mar. 4, 1907, ch. 2907, title I, §4, formerly 2nd par., 34 Stat. 1260; renumbered §4 and amended Pub. L. 90–201, §§1, 3, 4, 12(a)–(d), Dec. 15, 1967, 81 Stat. 584, 588, 592; Pub. L. 109–97, title VII, §798\[(a)\](1), Nov. 10, 2005, 119 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 72 of this title.
@@ -14,11 +16,13 @@ Section was formerly classified to section 72 of this title.
 
 <b>1967</b>—Pub. L. 90–201, §§3, 4, 12(a)–(d), struck out "interstate or foreign" before "commerce" and "of Agriculture" after "Secretary" in three places; struck out "for human consumption" before "at any slaughtering" and "for transportation or sale" after "District of Columbia" and inserted "which are capable of use as human food" after "commerce"; included horses, mules, and other equines in the list of animals; substituted "adulterated" for "unsound, unhealthful, unwholesome, or otherwise unfit for human food" after " 'Inspected and condemned,' all carcasses and parts thereof of animals found to be" and before ", it shall be destroyed"; substituted "not adulterated" for "sound, healthful, wholesome, and fit for human food"; and substituted "adulterated" for "unsound, unhealthful, unwholesome, or in any way unfit for human food" before "and if any carcass", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 2005, see section 798(b) of Pub. L. 109–97, set out as a note under section 601 of this title.
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meatfood products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 

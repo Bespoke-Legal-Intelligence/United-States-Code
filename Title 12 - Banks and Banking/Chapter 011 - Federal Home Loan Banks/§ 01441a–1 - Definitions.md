@@ -30,11 +30,13 @@ For purposes of section 1441a–2 of this title:
 
 (Pub. L. 101–73, title XIII, §1301, Aug. 9, 1989, 103 Stat. 547.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended. Title IX of the Housing and Urban Development Act of 1968 is classified principally to chapter 49 (§3931 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
+Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989,and not as part of the Federal Home Loan Bank Act which comprises this chapter.
 

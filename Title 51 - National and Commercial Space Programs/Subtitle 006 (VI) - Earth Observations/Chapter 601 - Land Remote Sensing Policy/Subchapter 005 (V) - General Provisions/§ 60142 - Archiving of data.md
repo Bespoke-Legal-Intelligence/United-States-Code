@@ -24,7 +24,7 @@ Determination of Content of Basic Data Set.—In determining the initial content
 
 &emsp;(3) consult with and seek the advice of users and producers of remote sensing data and data products;
 
-&emsp;(4) consider the need for data which may be duplicative in terms of geographical coverage but which differ in terms of season, spectral bands, resolution, or other relevant factors;
+&emsp;(4) consider the need for data which may be duplicative in terms of geographical coveragebut which differ in terms of season, spectral bands, resolution, or other relevant factors;
 
 &emsp;(5) include, as the Secretary of the Interior considers appropriate, unenhanced data generated either by the Landsat system, pursuant to subchapter II, or by licensees under subchapter III;
 

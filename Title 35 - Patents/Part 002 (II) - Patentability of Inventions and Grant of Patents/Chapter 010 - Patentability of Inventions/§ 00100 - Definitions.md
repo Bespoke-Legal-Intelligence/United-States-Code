@@ -38,6 +38,8 @@ Paragraph (b) is noted under section 101.
 
 Paragraphs (c) and (d) are added to avoid the use of long expressions in various parts of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (i)(1)(B). Pub. L. 112–211 substituted "right of priority under section 119, 365(a), 365(b), 386(a), or 386(b) or to the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)" for "right of priority under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date under section 120, 121, or 365(c)".
@@ -47,6 +49,8 @@ Paragraphs (c) and (d) are added to avoid the use of long expressions in various
 Subsecs. (f) to (j). Pub. L. 112–29, §3(a)(2), added subsecs. (f) to (j).
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–113 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

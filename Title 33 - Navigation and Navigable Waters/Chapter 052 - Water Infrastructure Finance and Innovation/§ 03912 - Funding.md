@@ -28,7 +28,7 @@
 
 #### (2) Fiscal years 2020 and 2021
 
-&emsp;Of the funds made available to carry out this chapter, the Administrator may use for the administration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $5,000,000 for each of fiscal years 2020 and 2021.
+&emsp;Of the funds made available to carry out this chapter, the Administrator may use for theadministration of this chapter, including for the provision of technical assistance to aid project sponsors in obtaining the necessary approvals for the project, not more than $5,000,000 for each of fiscal years 2020 and 2021.
 
 #### (c) Small community water infrastructure projects
 
@@ -64,9 +64,11 @@ Notwithstanding section 3908(b)(2) of this title, the Secretary or the Administr
 
 (Pub. L. 113–121, title V, §5033, June 10, 2014, 128 Stat. 1342; Pub. L. 115–270, title IV, §4201(a)(4), (b)(3), Oct. 23, 2018, 132 Stat. 3878, 3879.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26\(§1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 #### Amendments
 
@@ -75,6 +77,8 @@ The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act
 Subsec. (b). Pub. L. 115–270, §4201(a)(4)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (e). Pub. L. 115–270, §4201(b)(3), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

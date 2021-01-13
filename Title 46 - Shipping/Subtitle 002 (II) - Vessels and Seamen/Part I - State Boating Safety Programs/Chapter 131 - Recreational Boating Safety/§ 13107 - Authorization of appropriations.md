@@ -20,7 +20,7 @@
 
 &emsp;(8) providing State recreational vessel numbering and titling programs.
 
-(c)(1)(A) The Secretary may use amounts made available each fiscal year under section 4(b)(2) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(b)(2)) for payment of expenses of the Coast Guard for investigations, personnel, and activities directly related to—
+(c)(1)(A) The Secretary may use amounts made available each fiscal year under section 4(b)(2) ofthe Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(b)(2)) for payment of expenses of the Coast Guard for investigations, personnel, and activities directly related to—
 
 &emsp;(i) administering State recreational boating safety programs under this chapter; or
 
@@ -51,6 +51,8 @@ Historical and Revision Notes
 46:1479
 
 Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shall be used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -133,6 +135,8 @@ Subsec. (b). Pub. L. 99–626 substituted "shall" for "may" after "Those purpose
 Subsec. (c). Pub. L. 99–640, §7(b), substituted "one-half for Fiscal Year 1987 and one-third for each Fiscal Year thereafter." for "one-third".
 
 <b>1984</b>—Pub. L. 98–369 amended section generally and, among other changes, struck out all references to a facilities improvement program, inserted provisions directing the Secretary to establish guidelines prescribing the purposes for which amounts available under this chapter for State recreational safety boating programs may be used, and made available to the Secretary an amount equal to one-third of the amount transferred for each fiscal year to the Boat Safety Account under section 9503(c)(4) of title 26 to be used for expenditures out of the operating expenses account of the Coast Guard for services provided by the Coast Guard for recreational boating safety, including services provided by the Coast Guard Auxiliary.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

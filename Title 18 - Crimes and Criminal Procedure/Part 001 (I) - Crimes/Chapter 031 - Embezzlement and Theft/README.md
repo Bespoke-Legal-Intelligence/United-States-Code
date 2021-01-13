@@ -40,6 +40,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–186, §2(b), Oct. 5, 2012, 126 Stat. 1428, added item 670.
@@ -60,9 +62,13 @@ Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 <b>1962</b>—Pub. L. 87–420, §17(b), Mar. 20, 1962, 76 Stat. 42, added item 664.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Saint Lawrence Seaway Development Corporation
 
 Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys or property of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
+
+\[Reference to Saint Lawrence Seaway Development Corporation deemed to be reference to the Great Lakes St. Lawrence Seaway Development Corporation, see section 512(b) of div. AA of Pub. L. 116–260, set out as a note under section 981 of Title 33, Navigation and Navigable Waters.\]
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -8,7 +8,7 @@
 
 (2) A spouse acquired after retirement is entitled to an annuity under this subsection (as provided in paragraph (1)) only upon electing this annuity instead of any other survivor benefit to which such spouse may be entitled under this subchapter or section 8424 or under another retirement system for Government employees.
 
-(b)(1) If an employee or Member dies after completing at least 18 months of civilian servicecreditable under section 8411 and is survived by a widow or widower, the widow or widower is entitled to—
+(b)(1) If an employee or Member dies after completing at least 18 months of civilian service creditable under section 8411 and is survived by a widow or widower, the widow or widower is entitled to—
 
 &emsp;(A) an amount equal to the sum of—
 
@@ -74,7 +74,7 @@
 
 &emsp;(1) the death of the individual was accidental; or
 
-&emsp;(2) the surviving spouse of the individual had been previously married to such individualand subsequently divorced, and the aggregate time married is at least 9 months.
+&emsp;(2) the surviving spouse of the individual had been previously married to such individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
 (f)(1) Subject to paragraph (4), a survivor who is entitled to an annuity under subsection (a) shall also be entitled to a supplementary annuity under this subsection.
 
@@ -138,6 +138,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 559; amended Pub. L. 99–556, title I, §120, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §131(b), Jan. 8, 1988, 101 Stat. 1760; Pub. L. 105–61, title V, §518(b)(1), Oct. 10, 1997, 111 Stat. 1307.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -153,6 +155,8 @@ Subsec. (d)(3). Pub. L. 105–61, §518(b)(1)(A), added par. (3).
 Subsec. (g)(1). Pub. L. 100–238, §131(b)(2), inserted "(or one-half thereof if designated for this purpose under section 8419 of this title)" after "paragraph (2)".
 
 <b>1986</b>—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: "on the day after the date on which the former employee or Member would have attained age 62; or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

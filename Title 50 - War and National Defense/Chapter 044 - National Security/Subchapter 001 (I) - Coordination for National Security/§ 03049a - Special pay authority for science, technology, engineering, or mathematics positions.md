@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding part III of title 5, the head of each element of the intelligence communitymay, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics—
+&emsp;Notwithstanding part III of title 5, the head of each element of the intelligence community may, for one or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics—
 
 &emsp;&emsp;(A) establish higher minimum rates of pay; and
 
@@ -58,7 +58,7 @@ Subject to the limitations in this section, rates of pay established under this 
 
 #### (f) Regulations
 
-The head of each element of the intelligence community shall promulgate regulations to carry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5.
+The head of each element of the intelligence community shall promulgate regulations tocarry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5.
 
 #### (g) Reports
 
@@ -74,7 +74,7 @@ The head of each element of the intelligence community shall promulgate regulati
 
 &emsp;&emsp;(B) the number of positions in such element that will be subject to such rates of pay.
 
-(July 26, 1947, ch. 343, title I, §113B, as added Pub. L. 115–31, div. N, title III, §305(a), May 5,2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, §6303, Dec. 20, 2019, 133 Stat. 2186.)
+(July 26, 1947, ch. 343, title I, §113B, as added Pub. L. 115–31, div. N, title III, §305(a), May 5, 2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, §6303, Dec. 20, 2019, 133 Stat. 2186.)
 
 #### References in Text
 

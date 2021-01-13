@@ -12,13 +12,15 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 #### (c) Interest rates
 
-Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
+Loans available under section 2763 of this title shall be provided at rates of interest that arenot less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
 
 (Pub. L. 90–629, ch. 3, §31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, §2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, §401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, §45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, §210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, §19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, §20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, §105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, §101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, §596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -56,7 +58,7 @@ Subsec. (c). Pub. L. 96–533, §§105(b)(3), 106(c), substituted "defense artic
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–92, §17(a)(1), substituted "$673,500,000 for the fiscal year 1980" for "$682,000,000 for the fiscal year 1978 and $674,300,000 for the fiscal year 1979".
 
-Subsec. (b). Pub. L. 96–92, §17(a)(2), substituted "$2,235,000,000 for the fiscal year 1980, of which" for "$2,152,350,000 for the fiscal year 1978 and $2,085,500,000 for the fiscal year 1979, of which amount for each such year".
+Subsec. (b). Pub. L. 96–92, §17(a)(2), substituted "$2,235,000,000 for the fiscal year 1980, of which" for "$2,152,350,000 for the fiscal year 1978 and $2,085,500,000for the fiscal year 1979, of which amount for each such year".
 
 Subsec. (c). Pub. L. 96–92, §17(a)(3), substituted "fiscal year 1980" for "fiscal year 1979".
 
@@ -76,7 +78,7 @@ Subsec. (b). Pub. L. 95–92, §19(2), substituted "$2,102,350,000 for the fisca
 
 Subsec. (c). Pub. L. 95–92, §19(3), substituted "year 1978" for "years 1976 and 1977" and struck out "each" before "such year".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–329, §210(a), substituted provisions authorizing appropriations not to exceed$1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §210(a), substituted provisions authorizing appropriations not to exceed $1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
 
 Subsec. (b). Pub. L. 94–329, §210(b), substituted provisions setting out the foreign military sales credit ceiling of $2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and $2,022,100,000 for the fiscal year 1977, of which not less than $1,000,000,000 shall be available only for Israel, for provisions setting out such ceiling of $872,500,000 for the fiscal year 1975, of which amount not less than $300,000,000 shall be available to Israel only, and struck out provisions relating to obligation of $100,000,000 for financing procurement of defense articles and services by Israel and for release of Israel from contractual liability to repay United States Government for the defense article and services so financed.
 
@@ -97,6 +99,8 @@ Subsec. (b). Pub. L. 92–226, §401(b), substituted provisions setting out the 
 <b>1971</b>—Subsec. (a). Pub. L. 91–672, §2(1), substituted provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971 for provisions authorizing appropriation of not more than $296,000,000 for the fiscal year 1969.
 
 Subsec. (b). Pub. L. 91–672, §2(2), substituted provisions setting out the foreign military sales credit ceiling of $340,000,000 for the fiscal years 1970 and 1971 for provisions setting out such ceiling of $296,000,000 for the fiscal year 1969.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

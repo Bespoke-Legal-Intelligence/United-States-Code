@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Commission shall vote on the accreditation of any laboratory under this section, taking into consideration the list submitted under paragraph (1), and no laboratory maybe accredited for purposes of this section unless its accreditation is approved by a vote of the Commission.
+&emsp;&emsp;The Commission shall vote on the accreditation of any laboratory under this section, taking into consideration the list submitted under paragraph (1), and no laboratory may be accredited for purposes of this section unless its accreditation is approved by a vote of the Commission.
 
 #### (B) Accreditation of laboratories not on Director list
 
@@ -41,6 +41,8 @@
 Until such time as the Commission provides for the testing, certification, decertification, and recertification of voting system hardware and software by accredited laboratories under this section, the accreditation of laboratories and the procedure for the testing, certification, decertification, and recertification of voting system hardware and software used as of October 29, 2002, shall remain in effect.
 
 (Pub. L. 107–252, title II, §231, Oct. 29, 2002, 116 Stat. 1684.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

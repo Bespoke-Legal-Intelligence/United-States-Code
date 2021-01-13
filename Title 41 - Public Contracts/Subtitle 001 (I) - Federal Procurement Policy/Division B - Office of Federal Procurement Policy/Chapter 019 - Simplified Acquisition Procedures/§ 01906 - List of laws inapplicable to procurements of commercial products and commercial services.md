@@ -70,6 +70,8 @@ no source.
 
 Pub. L. 93–400, §34, as added Pub. L. 103–355, title VIII, §8003(a), Oct. 13, 1994, 108 Stat. 3388.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §836(b)(6)(B)(i), substituted "List of laws inapplicable to procurements of commercial products and commercial services" for "List of laws inapplicable to procurements of commercial items" in section catchline.
@@ -77,6 +79,8 @@ Pub. L. 93–400, §34, as added Pub. L. 103–355, title VIII, §8003(a), Oct. 
 Subsecs. (b) to (d). Pub. L. 115–232, §836(b)(6)(A), substituted "commercial products or commercial services" for "commercial items" wherever appearing.
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–91 inserted at end "The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Federal Government and other parties and are not identifiable to any particular contract."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

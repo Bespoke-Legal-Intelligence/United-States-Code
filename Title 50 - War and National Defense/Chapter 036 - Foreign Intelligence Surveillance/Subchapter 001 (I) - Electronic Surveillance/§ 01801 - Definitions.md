@@ -16,7 +16,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(6) an entity that is directed and controlled by a foreign government or governments; or
 
-&emsp;&emsp;(7) an entity not substantially composed of United States persons that is engaged in theinternational proliferation of weapons of mass destruction.
+&emsp;&emsp;(7) an entity not substantially composed of United States persons that is engaged in the international proliferation of weapons of mass destruction.
 
 &emsp;(b) "Agent of a foreign power" means—
 
@@ -26,7 +26,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(B) acts for or on behalf of a foreign power which engages in clandestine intelligence activities in the United States contrary to the interests of the United States, when the circumstances indicate that such person may engage in such activities, or when such person knowingly aids or abets any person in the conduct of such activities or knowingly conspires with any person to engage in such activities;
 
-&emsp;&emsp;&emsp;(C) engages in international terrorism or activities in preparation therefore;
+&emsp;&emsp;&emsp;(C) Omitted
 
 &emsp;&emsp;&emsp;(D) engages in the international proliferation of weapons of mass destruction, or activities in preparation therefor; or
 
@@ -90,7 +90,7 @@ As used in this subchapter:
 
 &emsp;(h) "Minimization procedures", with respect to electronic surveillance, means—
 
-&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
+&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerningunconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
 &emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1), shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
@@ -124,10 +124,6 @@ As used in this subchapter:
 
 (Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by Pub. L. 108–458, see Termination Date of 2004 Amendment note below.</i>
-
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–23, §702(1), inserted ", irrespective of whether the person is inside the United States" before semicolon at end.
@@ -148,9 +144,9 @@ Subsec. (p). Pub. L. 110–261, §110(a)(4), added subsec. (p).
 
 <b>2006</b>—Subsec. (g). Pub. L. 109–177 substituted ", the Deputy Attorney General, or, upon the designation of the Attorney General, the Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28" for "or the Deputy Attorney General".
 
-<b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C). See Termination Date of 2004 Amendment note below.
+<b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C) which read as follows: "engages in international terrorism or activities in preparation therefore;". See Termination Date of 2004 Amendment note below.
 
-<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted ", but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18" before semicolon at end.
+<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted ", but does notinclude the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18" before semicolon at end.
 
 Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted "72 hours" for "twenty-four hours".
 
@@ -196,7 +192,7 @@ Pub. L. 112–238, §1, Dec. 30, 2012, 126 Stat. 1631, provided that: "This Act 
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
+Pub. L. 112–14, §1, May 26, 2011, 125 Stat. 216, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'PATRIOT Sunsets Extension Act of 2011'."
 
 Pub. L. 112–3, §1, Feb. 25, 2011, 125 Stat. 5, provided that: "This Act \[amending sections 1805, 1861, and 1862 of this title and provisions set out as notes under this section and section 1805 of this title\] may be cited as the 'FISA Sunsets Extension Act of 2011'."
 
@@ -272,7 +268,7 @@ Reporting requirements.—
 
 &emsp;&emsp;"(A)
 
-Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007\(Public Law 110–55) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 4 of the Protect America Act of 2007 \[121 Stat. 555\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
+Continued applicability.—Notwithstanding any other provision of this Act, any amendment made by this Act, the Protect America Act of 2007 (Public Law 110–55) \[see Short Title of 2007 Amendment note above\], or the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 4 of the Protect America Act of 2007 \[121 Stat. 555\] shall continue to apply until the date that the certification described in subparagraph (B) is submitted.
 
 &emsp;&emsp;"(B)
 

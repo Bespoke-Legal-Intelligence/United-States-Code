@@ -30,7 +30,7 @@ After providing for public comment and review, each State shall annually prepare
 
 #### (d) Annual report
 
-Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscal year as identified in the plan prepared for the previous fiscal year pursuant to subsection (c), including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
+Beginning the first fiscal year after the receipt of payments under this subchapter, the State shall provide an annual report to the Administrator describing how the State has met the goals and objectives for the previous fiscalyear as identified in the plan prepared for the previous fiscal year pursuant to subsection (c), including identification of loan recipients, loan amounts, and loan terms and similar details on other forms of financial assistance provided from the water pollution control revolving fund.
 
 #### (e) Annual Federal oversight review
 
@@ -41,6 +41,8 @@ The Administrator shall conduct an annual oversight review of each State plan pr
 Except to the extent provided in this subchapter, the provisions of subchapter II shall not apply to grants under this subchapter.
 
 (June 30, 1948, ch. 758, title VI, §606, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 25; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

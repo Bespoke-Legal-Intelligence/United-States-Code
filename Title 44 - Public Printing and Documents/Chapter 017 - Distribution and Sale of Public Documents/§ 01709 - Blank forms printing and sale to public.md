@@ -8,6 +8,8 @@ The Director of the Government Publishing Office may print for sale by the Super
 
 Based on 44 U.S. Code, 1964 ed., §94 (June 7, 1924, ch. 303, §1, 43 Stat. 592).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".

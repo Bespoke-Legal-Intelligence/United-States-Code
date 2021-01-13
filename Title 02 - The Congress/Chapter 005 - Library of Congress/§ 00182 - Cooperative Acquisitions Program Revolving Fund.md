@@ -20,13 +20,15 @@ The revolving fund shall be credited with all advances and amounts received as p
 
 #### (d) Unobligated balances
 
-Any unobligated and unexpended balances in the revolving fund that the Librarian determines to be in excess of amounts needed for activities financed by the revolving fund, shall be deposited in the Treasury of the United States as miscellaneous receipts. Amounts needed for activities financed by the revolving fund means the direct and indirect costs of the program, including the costs of purchasing, shipping, binding of books and other library materials; supplies, materials, equipment and services needed in support of the program; salaries and benefits; general overhead; and travel.
+Any unobligated and unexpended balances in the revolving fund that the Librarian determines to be in excess of amounts needed for activities financed by the revolving fund, shall bedeposited in the Treasury of the United States as miscellaneous receipts. Amounts needed for activities financed by the revolving fund means the direct and indirect costs of the program, including the costs of purchasing, shipping, binding of books and other library materials; supplies, materials, equipment and services needed in support of the program; salaries and benefits; general overhead; and travel.
 
 #### (e) Audit
 
 The revolving fund shall be subject to audit by the Comptroller General at the Comptroller General's discretion.
 
 (Pub. L. 105–55, title II, §207, Oct. 7, 1997, 111 Stat. 1193; Pub. L. 110–161, div. H, title I, §1403, Dec. 26, 2007, 121 Stat. 2247.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

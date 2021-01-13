@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) awarding scholarships to undergraduate students who—
 
-&emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficienciesexist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
+&emsp;&emsp;&emsp;(i) are United States citizens in order to enable such students to study, for at least one academic semester or equivalent term, in foreign countries that are critical countries (as determined under section 1903(d)(4)(A) of this title) in those languages and study areas where deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
 &emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(A), enter into an agreement to work in a national security position or work in the field of higher education in the area of study for which the scholarship was awarded;
 
@@ -106,7 +106,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;The Secretary of Defense may—
 
-&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree,but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
 &emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
 
@@ -120,7 +120,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
-(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) who—
+(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has beenawarded a fellowship under subsection (a)(1)(B) who—
 
 &emsp;(A) is in good standing;
 
@@ -230,7 +230,7 @@ Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesign
 
 <b>2004</b>—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)" and by inserting at end "For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)" and by inserting at end "For the authorization of appropriations for thescholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Pub. L. 108–487, §601(b), in introductory provisions, inserted "or from a transfer under section 1910(c) of this title" after "National Security Education Trust Fund".
 
@@ -274,7 +274,7 @@ Subsec. (a)(1)(B)(i). Pub. L. 103–178, §311(b)(2)(B), inserted before semicol
 
 <b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–496, §404(b)(1), inserted "or equivalent term," after "semester".
 
-Subsec. (a)(1)(B)(i). Pub. L. 102–496, §404(b)(2), substituted "as part of a graduate degree program of aUnited States institution of higher education" for "in the United States".
+Subsec. (a)(1)(B)(i). Pub. L. 102–496, §404(b)(2), substituted "as part of a graduate degree program of a United States institution of higher education" for "in the United States".
 
 Subsec. (a)(4). Pub. L. 102–496, §404(b)(3), inserted at end "In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time."
 

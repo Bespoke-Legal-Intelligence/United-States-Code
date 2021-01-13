@@ -1,0 +1,298 @@
+### §4571. Information technology acquisition: planning and oversight processes
+
+(a)
+
+Establishment of Program.—The Secretary of Defense shall establish a program to improve the planning and oversight processes for the acquisition of major automated information systems by the Department of Defense.
+
+(b)
+
+Program Components.—The program established under subsection (a) shall include—
+
+&emsp;(1) a documented process for information technology acquisition planning, requirements development and management, project management and oversight, earned value management, and risk management;
+
+&emsp;(2) the development of appropriate metrics that can be implemented and monitored on a real-time basis for performance measurement of—
+
+&emsp;&emsp;(A) processes and development status of investments in major automated information system programs;
+
+&emsp;&emsp;(B) continuous process improvement of such programs; and
+
+&emsp;&emsp;(C) achievement of program and investment outcomes;
+
+&emsp;(3) a process to ensure that key program personnel have an appropriate level of experience, training, and education in the planning, acquisition, execution, management, and oversight of information technology systems;
+
+&emsp;(4) a process to ensure sufficient resources and infrastructure capacity for test and evaluation of information technology systems;
+
+&emsp;(5) a process to ensure that military departments and Defense Agencies adhere to established processes and requirements relating to the planning, acquisition, execution, management, and oversight of information technology programs and developments; and
+
+&emsp;(6) a process under which an appropriate Department of Defense official may intervene or terminate the funding of an information technology investment if the investment is at risk of not achieving major project milestones.
+
+(Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259, §2223a; renumbered §4571 and amended Pub. L. 116–283, div. A, title XVIII, §1857(b), Jan. 1, 2021, 134 Stat. 4276.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1857(b)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: "Information technology acquisition planning and oversight requirements".
+
+Pub. L. 116–283, §1857(b)(1), renumbered section 2223a of this title as this section.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Governance of Fifth-Generation Wireless Networking in the Department of Defense
+
+Pub. L. 116–283, div. A, title II, §224, Jan. 1, 2021, 134 Stat. 3472, provided that:
+
+"(a)
+
+Transition of 5G Wireless Networking to Operational Use.—
+
+&emsp;"(1)
+
+Transition plan required.—The Under Secretary of Defense for Research and Engineering, in consultation with the cross functional team established under subsection (c), shall develop a plan to transition fifth-generation (commonly known as '5G') wireless technology to operational use within the Department of Defense.
+
+&emsp;"(2)
+
+Elements.—The transition plan under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A timeline for the transition of responsibility for 5G wireless networking to the Chief Information Officer, as required under subsection (b)(1).
+
+&emsp;&emsp;"(B) A description of the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking for the Department, as determined by the Secretary of Defense in accordance with subsection (d).
+
+&emsp;"(3)
+
+Interim briefing.—Not later than March 31, 2021\[,\] the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the status of the plan required under paragraph (1).
+
+&emsp;"(4)
+
+Final report.—Not later than September 30, 2021, the Secretary of Defense shall submit to the congressional defense committees a report that includes the plan developed under paragraph (1).
+
+"(b)
+
+Senior Official for 5G Wireless Networking.—
+
+&emsp;"(1)
+
+Designation of chief information officer.—Not later than October 1, 2023, the Secretary of Defense shall designate the Chief Information Officer as the senior official within Department of Defense with primary responsibility for—
+
+&emsp;&emsp;"(A) policy, oversight, guidance, research, and coordination on matters relating to 5G wireless networking; and
+
+&emsp;&emsp;"(B) making proposals to the Secretary on governance, management, and organizational policy for 5G wireless networking.
+
+&emsp;"(2)
+
+Role of under secretary of defense for research and engineering.—The Under Secretary of Defense for Research and Engineering shall carry out the responsibilities specified in paragraph (1) until the date on which the Secretary of Defense designates the Chief Information Officer as the senior official responsible for 5G wireless networking under such paragraph.
+
+"(c)
+
+Cross-functional Team for 5G Wireless Networking.—
+
+&emsp;"(1)
+
+Establishment.—Using the authority provided under section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Secretary of Defense shall establish a cross-functional team for 5G wireless networking.
+
+&emsp;"(2)
+
+Duties.—The duties of the cross-functional team established under paragraph (1) shall be—
+
+&emsp;&emsp;"(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking, as required under subsection (d);
+
+&emsp;&emsp;"(B) to assist the senior official responsible for 5G wireless networking in carrying out the responsibilities assigned to such official under subsection (b);
+
+&emsp;&emsp;"(C) to oversee the implementation of the strategy developed under section 254 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2223a note) for harnessing 5G wireless networking technologies, coordinated across all relevant elements of the Department;
+
+&emsp;&emsp;"(D) to advance the adoption of commercially available, next-generation wireless communication technologies, capabilities, security, and applications by the Department and the defense industrial base; and
+
+&emsp;&emsp;"(E) to support public-private partnerships between the Department and industry on matters relating to 5G wireless networking;
+
+&emsp;&emsp;"(F) to coordinate research and development, implementation and acquisition activities, warfighting concept development, spectrum policy, industrial policy and commercial outreach and partnership relating to 5G wireless networking in the Department, and interagency and international engagement;
+
+&emsp;&emsp;"(G) to integrate the Department's 5G wireless networking programs and policies with major initiatives, programs, and policies of the Department relating to secure microelectronics and command and control; and
+
+&emsp;&emsp;"(H) to oversee, coordinate, execute, and lead initiatives to advance 5G wireless network technologies and associated applications developed for the Department.
+
+&emsp;"(3)
+
+Team leader.—The Under Secretary of Defense for Research and Engineering shall lead the cross-functional team established under paragraph (1) untilthe date on which the Secretary of Defense designates the Chief Information Officer as the senior official responsible for 5G wireless networking as required under subsection (b)(1). Beginning on the date of such designation, the Chief Information Officer shall lead the cross functional team.
+
+"(d)
+
+Determination of Organizational Roles and Responsibilities.—The Secretary of Defense, acting through the cross-functional team established under subsection (c), shall determine the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking for the Department, including the roles and responsibilities of the Office of the Secretary of Defense, the intelligence components of the Department, Defense Agencies and Department of Defense Field Activities, the Armed Forces, combatant commands, and the Joint Staff.
+
+"(e)
+
+Briefing.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees a briefing on the progress of the Secretary in—
+
+&emsp;"(1) establishing the cross-functional team under subsection (c); and
+
+&emsp;"(2) determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to 5G wireless networking as required under subsection (d).
+
+"(f) 5G
+
+Procurement Decisions.—Each Secretary of a military department shall be responsible for decisions relating to the procurement of 5G wireless technology for that department.
+
+"(g)
+
+Telecommunications Security Program.—
+
+&emsp;"(1)
+
+Program required.—The Secretary of Defense shall carry out a program to identify and mitigate vulnerabilities in the 5G telecommunications infrastructure of the Department of Defense.
+
+&emsp;"(2)
+
+Elements.—In carrying out the program under paragraph (1), the Secretary shall—
+
+&emsp;&emsp;"(A) develop a capability to communicate clearly and authoritatively about threats by foreign adversaries;
+
+&emsp;&emsp;"(B) conduct independent red-team security analysis of systems, subsystems, devices, and components of the Department of Defense including no-knowledge testing and testing with limited or full knowledge of expected functionalities;
+
+&emsp;&emsp;"(C) verify the integrity of personnel who are tasked with design fabrication, integration, configuration, storage, test, and documentation of noncommercial 5G technology to be used by the Department;
+
+&emsp;&emsp;"(D) verify the efficacy of the physical security measures used at Department locations where system design, fabrication, integration, configuration, storage, test, and documentation of 5G technology occurs;
+
+&emsp;&emsp;"(E) direct the Chief Information Officer to assess, using existing government evaluation models and schema where applicable, 5G core service providers whose services will be used by the Department through the Department's provisional authorization process; and
+
+&emsp;&emsp;"(F) direct the Defense Information Systems Agency and the United States Cyber Command to develop a capability for continuous, independent monitoring of non-commercial, government-transiting packet streams for 5G data on frequencies assigned to the Department to validate the availability, confidentiality, and integrity of the Department's communications systems.
+
+&emsp;"(3)
+
+Implementation plan.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to Congress a plan for the implementation of the program under paragraph (1).
+
+&emsp;"(4)
+
+Report.—Not later than 270 days after submitting the plan under paragraph (3), the Secretary of Defense shall submit to Congress a report that includes—
+
+&emsp;&emsp;"(A) a comprehensive assessment of the findings and conclusions of the program under paragraph (1);
+
+&emsp;&emsp;"(B) recommendations on how to mitigate vulnerabilities in the telecommunications infrastructure of the Department of Defense; and
+
+&emsp;&emsp;"(C) an explanation of how the Department plans to implement such recommendations.
+
+"(h)
+
+Rule of Construction.—
+
+&emsp;"(1)
+
+In general.—Nothing in this section shall be construed as providing the Chief Information Officer immediate responsibility for the activities of the Department of Defense in fifth-generation wireless networking experimentation and science and technology development.
+
+&emsp;"(2)
+
+Purview of experimentation and science and technology development.—The activities described in paragraph (1) shall remain within the purview of the Under Secretary of Defense for Research and Engineering, but shall inform and be informed by the activities of the cross-functional team established pursuant to subsection (c)."
+
+#### Demonstration Project on Use of Certain Technologies for Fifth-Generation Wireless Networking Services
+
+Pub. L. 116–283, div. A, title II, §225, Jan. 1, 2021, 134 Stat. 3475, provided that:
+
+"(a)
+
+Demonstration Project.—The Secretary of Defense shall carry out a demonstration project to evaluate the maturity, performance, and cost of covered technologies to provide additional options for providers of fifth-generation wireless network services.
+
+"(b)
+
+Location.—The Secretary of Defense shall carry out the demonstration project under subsection (a) in at least one location where the Secretary plans to deploy a fifth-generation wireless network.
+
+"(c)
+
+Coordination.—The Secretary shall carry out the demonstration project under subsection (a) in coordination with at least one major wireless network service provider based in the United States.
+
+"(d)
+
+Covered Technologies Defined.—In this section, the term 'covered technologies' means—
+
+&emsp;"(1) a disaggregated or virtualized radio access network and core in which components can be provided by different vendors and interoperate through open protocols and interfaces, including those protocols and interfaces utilizing the Open Radio Access Network (commonly known as 'Open RAN' or 'oRAN') approach; and
+
+&emsp;"(2) one or more massive multiple-input, multiple-output radio arrays, provided by one or more companies based in the United States, that have the potential to compete favorably with radios produced by foreign companies in terms of cost, performance, and efficiency."
+
+#### Pilot Program on the Use of Consumption-Based Solutions To Address Software-Intensive Warfighting Capability
+
+Pub. L. 116–283, div. A, title VIII, §834, Jan. 1, 2021, 134 Stat. 3754, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, the Secretary of Defense is authorized to establish a pilot program to explore the use of consumption-based solutions to address software-intensive warfighting capability.
+
+"(b)
+
+Selection of Initiatives.—Each Secretary of a military department and each commander of a combatant command with acquisition authority shall propose for selection by the Secretary of Defense for the pilot program at least one and not more than three initiatives that are well-suited to explore consumption-based solutions, to include addressing software-intensive warfighting capability. The initiatives may be new or existing programs of record, and may include applications that—
+
+&emsp;"(1) rapidly analyze sensor data;
+
+&emsp;"(2) secure warfighter networks, including multilevel security;
+
+&emsp;"(3) swiftly transport information across various networks and network modalities;
+
+&emsp;"(4) enable joint all-domain operational concepts, including in a contested environment; or
+
+&emsp;"(5) advance military capabilities and effectiveness.
+
+"(c)
+
+Requirements.—A contract or other agreement for consumption-based solutions entered into under the pilot program shall require—
+
+&emsp;"(1) the effectiveness of the solution to be measurable at regular intervals customary for the type of solution provided under contract or other agreement; and
+
+&emsp;"(2) that the awardee notify the Secretary of Defense when consumption under the contract or other agreement reaches 75 percent and 90 percent of the funded amount, respectively, of the contract or other agreement.
+
+"(d)
+
+Exemption.—A modification to a contract or other agreement entered into under this section to add new features or capabilities in an amount less than or equal to 25 percent of the total value of such contract or other agreement shall be exempt from the requirements of full and open competition (as defined in section 2302 of title 10, United States Code).
+
+"(e)
+
+Duration.—The duration of a contract or other agreement entered into under this section may not exceed three years.
+
+"(f)
+
+Monitoring and Evaluation of Pilot Program.—The Director of Cost Assessment and Program Evaluation shall continuously monitor and evaluate the pilot program, including by collecting data on cost, schedule, and performance from the program office, the user community, and the awardees involved in the program.
+
+"(g)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than May 15, 2021, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on initiatives selected for the pilot program, roles, and responsibilities for implementing the program, and the monitoring and evaluation approach that will be used for the program.
+
+&emsp;"(2)
+
+Progress report.—Not later than October 15, 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the progress of the initiatives selected for the pilot program.
+
+&emsp;"(3)
+
+Final report.—Not later than 3 years after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the congressional defense committees a report on the cost, schedule, and performance outcomes of the initiatives carried out under the pilot program. The report shall also include lessons learned about the use of consumption-based solutions for software-intensive capabilities and any recommendations for statutory or regulatory changes to facilitate the use of such solutions.
+
+"(h)
+
+Consumption-based Solution Defined.—In this section, the term 'consumption-based solution' means any combination of software, hardware or equipment, and labor or services that provides a seamless capability that is metered and billed based on actual usage and predetermined pricing per resource unit, and includes the ability to rapidly scale capacity up or down."
+
+#### Balancing Security and Innovation in Software Development and Acquisition
+
+Pub. L. 116–283, div. A, title VIII, §835, Jan. 1, 2021, 134 Stat. 3755, provided that:
+
+"(a)
+
+Requirements for Solicitations of Commercial and Developmental Solutions.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Chief Information Officer of the Department of Defense, shall develop requirements for appropriate software security criteria to be included in solicitations for commercial and developmental solutions and the evaluation of bids submitted in response to such solicitations, including a delineation of what processes were or will be used for a secure software development life cycle. Such requirements shall include—
+
+&emsp;"(1) establishment and enforcement of secure coding practices;
+
+&emsp;"(2) management of supply chain risks and third-party software sources and component risks;
+
+&emsp;"(3) security of the software development environment;
+
+&emsp;"(4) secure deployment, configuration, and installation processes; and
+
+&emsp;"(5) an associated vulnerability management plan and identification of tools that will be applied to achieve an appropriate level of security.
+
+"(b)
+
+Security Review of Code.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Chief Information Officer of the Department of Defense, shall develop—
+
+&emsp;"(1) procedures for the security review of code; and
+
+&emsp;"(2) other procedures necessary to fully implement the pilot program required under section 875 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2223 note).
+
+"(c)
+
+Coordination With Cybersecurity Acquisition Policy Efforts.—The Under Secretary of Defense for Acquisition and Sustainment shall develop the requirements and procedures described under subsections (a) and (b) in coordination with the efforts of the Department of Defense to develop new cybersecurity and program protection policies and guidance that are focused on cybersecurity in the context of acquisition and program management and on safeguarding information."
+

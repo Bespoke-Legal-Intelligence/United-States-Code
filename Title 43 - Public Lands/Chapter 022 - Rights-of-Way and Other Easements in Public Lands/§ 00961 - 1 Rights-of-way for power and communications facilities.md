@@ -1,10 +1,12 @@
 ### §961.<sup>1</sup> Rights-of-way for power and communications facilities
 
-That the head of the department having jurisdiction over the lands be, and he hereby is, authorized and empowered, under general regulations to be fixed by him, to grant an easement for rights-of-way, for a period not exceeding fifty years from the date of the issuance of such grant, over, across, and upon the public lands, national forests, and reservations of the United States for electrical poles and lines for the transmission and distribution of electrical power, and for poles and lines for communication purposes, and for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to the extent of two hundred feet on each side of the center line of such lines and poles and not to exceed four hundred feet by four hundred feet for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to any citizen, association, or corporation of the United States, where it is intended by such to exercise the right-of-way herein granted for any one or more of the purposes herein named: <i>Provided</i>, That such right-of-way shall be allowed within or through any national park, national forest, military, Indian, or any other reservation only upon the approval of the chief officer of the department under whose supervision or control such reservation falls, and upon a finding by him that the same is not incompatible with the public interest: <i>Provided further</i>, That all or any part of such right-of-way may be forfeited and annulled by declaration of the head of the department having jurisdiction over the lands for nonuse for a period of two years or for abandonment.
+That the head of the department having jurisdiction over the lands be, and he hereby is, authorized and empowered, under general regulations to be fixed by him, to grant an easement for rights-of-way, for a period not exceeding fifty years from the date of the issuance of such grant, over, across, and upon the public lands, national forests, and reservations of the United States for electrical poles and lines for the transmission and distribution of electrical power, and for poles and lines for communication purposes, and for radio, television, and other forms of communication transmitting,relay, and receiving structures and facilities, to the extent of two hundred feet on each side of the center line of such lines and poles and not to exceed four hundred feet by four hundred feet for radio, television, and other forms of communication transmitting, relay, and receiving structures and facilities, to any citizen, association, or corporation of the United States, where it is intended by such to exercise the right-of-way herein granted for any one or more of the purposes herein named: <i>Provided</i>, That such right-of-way shall be allowed within or through any national park, national forest, military, Indian, or any other reservation only upon the approval of the chief officer of the department under whose supervision or control such reservation falls, and upon a finding by him that the same is not incompatible with the public interest: <i>Provided further</i>, That all or any part of such right-of-way may be forfeited and annulled by declaration of the head of the department having jurisdiction over the lands for nonuse for a period of two years or for abandonment.
 
 That any citizen, association, or corporation of the United States to whom there has heretofore been issued a permit for any of the purposes specified herein under any existing law, may obtain the benefit of this Act upon the same terms and conditions as shall be required of citizens, associations, or corporations hereafter making application under the provisions of this statute.
 
 (Mar. 4, 1911, ch. 238, 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95; Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793; Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ Acts Mar. 4, 1911, ch. 238, 36 Stat. 1253; May 27, 1952, ch. 338, 66 Stat. 95, w
 #### Amendments
 
 <b>1952</b>—Act May 27, 1952, inserted reference to rights-of-way for radio, television, and other forms of communication, and increased from 40 feet to 400 feet the maximum width of rights-of-way for lines and poles.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeals
 

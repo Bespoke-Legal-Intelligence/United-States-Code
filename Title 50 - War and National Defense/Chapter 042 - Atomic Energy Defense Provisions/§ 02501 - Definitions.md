@@ -16,7 +16,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;(5) The terms "defense nuclear facility" and "Department of Energy defense nuclear facility" have the meaning given the term "Department of Energy defense nuclear facility" in section 2286g of title 42.
 
-&emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, andhuman capital of the national security laboratories and the nuclear weapons production facilities.
+&emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
 
 &emsp;(7) The term "national security laboratory" means any of the following:
 

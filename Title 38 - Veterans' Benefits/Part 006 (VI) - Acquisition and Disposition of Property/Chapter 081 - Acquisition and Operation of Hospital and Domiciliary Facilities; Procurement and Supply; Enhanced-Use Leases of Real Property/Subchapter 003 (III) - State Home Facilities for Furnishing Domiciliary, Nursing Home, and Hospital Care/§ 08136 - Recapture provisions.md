@@ -6,6 +6,8 @@
 
 (Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 503, §5036; amended Pub. L. 93–82, title IV, §403(f), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(13), July 5, 1977, 91 Stat. 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(4), Oct. 19, 1984, 98 Stat. 2690; renumbered §8136, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §405, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 106–419, title II, §222, Nov. 1, 2000, 114 Stat. 1845.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–419 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -20,11 +22,13 @@ Pub. L. 102–83 substituted "Secretary" for "Administrator" in two places.
 
 <b>1982</b>—Pub. L. 97–295 substituted "percent" for "per centum".
 
-<b>1977</b>—Pub. L. 95–62 substituted "If, within twenty years after completion of any project for construction with respect to which a grant has been made under this subchapter (except that the Administrator, pursuant to regulations which the Administrator shall prescribe, may at the time of such grant provide for a shorter period than twenty, but not less than seven, years, based on the magnitude of the project and the grant amount involved, in the case of the expansion, remodeling, or alteration of existing facilities), such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing domiciliary, nursing home, or hospital care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such construction (but in no event an amount greater than the amount of assistance provided for such construction under this subchapter)" for "If, within twenty years after completion of any project for construction of facilities for furnishing nursing home care with respect to which a grant has been made under this subchapter, such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing nursing home care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such facilities".
+<b>1977</b>—Pub. L. 95–62 substituted "If, within twenty years after completion of any project for construction with respect to which a grant has been made under this subchapter (except that the Administrator, pursuant to regulations which the Administrator shall prescribe, may at the time of such grant provide for a shorter period than twenty, but not less than seven, years, basedon the magnitude of the project and the grant amount involved, in the case of the expansion, remodeling, or alteration of existing facilities), such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing domiciliary, nursing home, or hospital care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such construction (but in no event an amount greater than the amount of assistance provided for such construction under this subchapter)" for "If, within twenty years after completion of any project for construction of facilities for furnishing nursing home care with respect to which a grant has been made under this subchapter, such facilities cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing nursing home care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 per centum of the then value of such facilities".
 
 <b>1976</b>—Pub. L. 94–581 substituted "veterans" for "war veterans".
 
 <b>1973</b>—Pub. L. 93–82 substituted "65 per centum" for "50 per centum".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

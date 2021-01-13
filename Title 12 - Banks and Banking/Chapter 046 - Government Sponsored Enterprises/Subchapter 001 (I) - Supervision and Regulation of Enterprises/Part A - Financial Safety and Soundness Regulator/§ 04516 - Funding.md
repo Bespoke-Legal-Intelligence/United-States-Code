@@ -48,7 +48,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (3) Additional assessment for deficiencies
 
-&emsp;If at any time, as a result of increased costs of regulation of a regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized or as the result of supervisory or enforcement activities under this Act for a regulated entity, the amount available from any semiannual payment made by such regulated entity pursuant to subsection (b) is insufficient to cover the costs of the Agency with respect to such entity, the Director may make and collect from such regulated entity an immediate assessment to cover the amount of such deficiency for the semiannual period. If, at the end of any semiannual period during which such an assessment is made, any amount remains from such assessment, such remaining amount shall be deducted from the assessment for such regulated entity for the following semiannual period.
+&emsp;If at any time, as a result of increased costs of regulation of a regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized or as the result of supervisory or enforcement activities under thisAct for a regulated entity, the amount available from any semiannual payment made by such regulated entity pursuant to subsection (b) is insufficient to cover the costs of the Agency with respect to such entity, the Director may make and collect from such regulated entity an immediate assessment to cover the amount of such deficiency for the semiannual period. If, at the end of any semiannual period during which such an assessment is made, any amount remains from such assessment, such remaining amount shall be deducted from the assessment for such regulated entity for the following semiannual period.
 
 #### (d) Surplus
 
@@ -120,7 +120,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (5) Rule of construction
 
-&emsp;This subsection may not be construed as implying any obligation on the part of the Director to consult with or obtain the consent or approval of the Director of the Office of Management and Budget with respect to any report, plan, forecast, or other information referred to in paragraph (1) or any jurisdiction or oversight over the affairs or operations of the Agency.
+&emsp;This subsection may not be construed as implying any obligation on the part of the Director to consult with or obtain the consent or approval of the Director of the Office of Management and Budget with respect to any report, plan, forecast, or other information referred to in paragraph (1) or any jurisdictionor oversight over the affairs or operations of the Agency.
 
 #### (h) Audit of Agency
 
@@ -137,6 +137,8 @@ At the end of each year for which an assessment under this section is made, the 
 &emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Agency shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
 (Pub. L. 102–550, title XIII, §1316, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 104–134, title I, §101(e) \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–288; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–289, div. A, title I, §1106, July 30, 2008, 122 Stat. 2669.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ Subsec. (d). Pub. L. 110–289, §1106(4), substituted "Except with respect to a
 Subsecs. (e) to (h). Pub. L. 110–289, §1106(5), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–134 added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Non-Reduction of First Annual Assessment
 

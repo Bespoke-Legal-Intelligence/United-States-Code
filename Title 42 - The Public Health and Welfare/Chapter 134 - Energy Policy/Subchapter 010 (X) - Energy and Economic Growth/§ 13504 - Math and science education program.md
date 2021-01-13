@@ -70,7 +70,7 @@ There are authorized to be appropriated such sums as may be necessary, to be der
 
 #### References in Text
 
-Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and section 1070d of title 20, referred to in subsec. (b)(1), were repealed by Pub. L. 102–325, title IV, §402(a)(1), July 23, 1992, 106 Stat. 482.
+Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and section 1070d of title 20, referred toin subsec. (b)(1), were repealed by Pub. L. 102–325, title IV, §402(a)(1), July 23, 1992, 106 Stat. 482.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

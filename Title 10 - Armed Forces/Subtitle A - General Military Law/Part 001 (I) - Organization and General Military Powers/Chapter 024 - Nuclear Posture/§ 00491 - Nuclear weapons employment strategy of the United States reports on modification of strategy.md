@@ -20,7 +20,7 @@ Annual Briefings.—Not later than March 15 of each year, the Secretary of Defen
 
 Reports on 2010
 
-Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
+Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions madepursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 
 &emsp;(1) ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;
 
@@ -114,7 +114,7 @@ Charter.—In establishing the fusion center under subsection (a), the Secretary
 
 &emsp;"(2) The management and administration processes required to carry out the fusion center, including with respect to facilities and security authorities.
 
-&emsp;"(3) Procedures to ensure that the appropriate number of staff of the fusion center have the security clearance necessary to access information on the programs, systems, and processes that relate, either wholly or substantially, to nuclear command, control, and communications or continuity of government, including with respect to both the programs, systems, and processes that are designated as special access programs (as described in section 4.3 of Executive Order 13526 (50 U.S.C. 3161 note) or any successor Executive order) and the programs, systems, and processes that contain sensitive compartmented information.
+&emsp;"(3) Procedures to ensure that the appropriate number of staff of the fusion center have the security clearance necessary to access information on the programs, systems, and processes that relate, either wholly or substantially, to nuclear command, control, and communications or continuity of government, including with respect to both the programs, systems, and processes that are designated as special access programs (as described in section 4.3 of Executive Order 13526 (50 U.S.C. 3161 note) or any successor Executive order) and the programs, systems, andprocesses that contain sensitive compartmented information.
 
 "(c)
 
@@ -160,7 +160,7 @@ Pub. L. 115–91, div. A, title XVI, §1656, Dec. 12, 2017, 131 Stat. 1761, prov
 
 "(a)
 
-Certification.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], theSecretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—
+Certification.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—
 
 &emsp;"(1) the nuclear deterrence mission of the Department of Defense, including with respect to nuclear command, control, and communications, integrated tactical warning and attack assessment, and continuity of government; or
 
@@ -286,7 +286,7 @@ Prioritization of Certain Supply Chain Risk Management Efforts.—
 
 &emsp;"(1)
 
-Instructions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\],the Secretary shall issue a Department of Defense Instruction, or update such an Instruction, establishing the prioritization of supply chain risk management programs, including supply chain risk management threat assessment reporting, to ensure that acquisition and sustainment programs relating to covered programs receive the highest priority of such supply chain risk management programs and reporting.
+Instructions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary shall issue a Department of Defense Instruction, or update such an Instruction, establishing the prioritization of supply chain risk management programs, including supply chain risk management threat assessment reporting, to ensure that acquisition and sustainment programs relating to covered programs receive the highest priority of such supply chain risk management programs and reporting.
 
 &emsp;"(2)
 

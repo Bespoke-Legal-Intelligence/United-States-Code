@@ -4,11 +4,15 @@ The Attorney General is authorized to promulgate rules and regulations and to ch
 
 (Pub. L. 91–513, title II, §301, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 103–200, §3(a), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 108–447, div. B, title VI, §633(b), Dec. 8, 2004, 118 Stat. 2922.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447 substituted "listed chemicals" for "the registration and control of regulated persons and of regulated transactions".
 
 <b>1993</b>—Pub. L. 103–200 inserted before period at end "and to the registration and control of regulated persons and of regulated transactions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

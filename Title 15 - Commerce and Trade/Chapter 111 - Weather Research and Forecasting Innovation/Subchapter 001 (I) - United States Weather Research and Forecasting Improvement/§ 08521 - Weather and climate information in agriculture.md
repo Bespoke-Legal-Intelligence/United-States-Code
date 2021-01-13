@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
 
-&emsp;(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
+&emsp;(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essentialif agriculture and silviculture are to mitigate damage from atmospheric conditions;
 
 &emsp;(3) agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
 

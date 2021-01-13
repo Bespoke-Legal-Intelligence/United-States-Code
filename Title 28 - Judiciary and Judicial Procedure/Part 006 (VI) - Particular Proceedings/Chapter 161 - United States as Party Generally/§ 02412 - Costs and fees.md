@@ -38,7 +38,7 @@
 
 &emsp;(I) "demand" means the express demand of the United States which led to the adversary adjudication, but shall not include a recitation of the maximum statutory penalty (i) in the complaint, or (ii) elsewhere when accompanied by an express demand for a lesser amount.
 
-(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of section 504 of title 5, or an adversary adjudication subject to chapter 71 of title 41, the court shall include in that award fees and other expenses tothe same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
+(3) In awarding fees and other expenses under this subsection to a prevailing party in any action for judicial review of an adversary adjudication, as defined in subsection (b)(1)(C) of section 504 of title 5, or an adversary adjudication subject to chapter 71 of title 41, the court shall include in that award fees and other expenses to the same extent authorized in subsection (a) of such section, unless the court finds that during such adversary adjudication the position of the United States was substantially justified, or that special circumstances make an award unjust.
 
 (4) Fees and other expenses awarded under this subsection to a party shall be paid by any agency over which the party prevails from any funds made available to the agency by appropriation or otherwise.
 
@@ -99,6 +99,8 @@ Subsection (c) incorporates the costs provisions of section 931(a) of title 28, 
 Words "and for summoning the same," after "witnesses," were omitted from subsection (b) as covered by "those actually incurred for witnesses."
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -164,7 +166,9 @@ Subsec. (f). Pub. L. 99–80, §2(e), added subsec. (f).
 
 <b>1980</b>—Pub. L. 96–481, §204(a), designated existing provisions as subsec. (a), struck out provision that payment of a judgment for costs shall be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States, and added subsecs. (b) to (d). Pub. L. 96–481, §204(c), repealed subsec. (d) eff. Oct. 1, 1984. See Effective Date of 1980 Amendment note below.
 
-<b>1966</b>—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United Statesfor fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+<b>1966</b>—Pub. L. 89–507 empowered a court having jurisdiction to award judgment for costs, except as otherwise specifically provided by statute, to the prevailing party in any action brought by or against the United States or any agency or official of the United States acting in his official capacity, limited the judgment for costs when taxed against the Government to reimbursing in whole or in part the prevailing party for costs incurred by him in the litigation, required the payment of a judgment for costs to be as provided in section 2414 and section 2517 of this title for the payment of judgments against the United States and eliminated provisions which limited the liability of the United States for fees and costs to those cases in which liability was expressed provided for by Act of Congress, permitted the district court or the Court of Claims, in an action under section 1346(a) or 1491 of this title if the United States put in issue plaintiff's right to recover, to allow costs to the prevailing party from the time of joining such issue, and which authorized the allowance of costs to the successful claimant in an action under section 1346(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -224,5 +228,5 @@ Pub. L. 104–317, title III, §309(a), Oct. 19, 1996, 110 Stat. 3853, provided 
 
 #### Fee Agreements
 
-Pub. L. 102–572, title V, §506(c), Oct. 29, 1992, 106 Stat. 4513, provided that: "Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 5904 of title 38,United States Code, and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee."
+Pub. L. 102–572, title V, §506(c), Oct. 29, 1992, 106 Stat. 4513, provided that: "Section 5904(d) of title 38, United States Code, shall not prevent an award of fees and other expenses under section 2412(d) of title 28, United States Code. Section 5904(d) of title 38, United States Code, shall not apply with respect to any such award but only if, where the claimant's attorney receives fees for the same work under both section 5904 of title 38, United States Code, and section 2412(d) of title 28, United States Code, the claimant's attorney refunds to the claimant the amount of the smaller fee."
 

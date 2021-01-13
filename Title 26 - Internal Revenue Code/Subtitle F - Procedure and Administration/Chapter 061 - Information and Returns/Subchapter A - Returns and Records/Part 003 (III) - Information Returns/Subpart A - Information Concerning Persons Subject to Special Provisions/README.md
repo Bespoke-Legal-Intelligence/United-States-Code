@@ -15,6 +15,7 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | [6038B.](%C2%A7%2006038B%20-%20Notice%20of%20certain%20transfers%20to%20foreign%20persons.md) | Notice of certain transfers to foreign persons. |
 | [6038C.](%C2%A7%2006038C%20-%20Information%20with%20respect%20to%20foreign%20corporations%20engaged%20in%20U.S.%20business.md) | Information with respect to foreign corporations engaged in U.S. business. |
 | [6038D.](%C2%A7%2006038D%20-%20Information%20with%20respect%20to%20foreign%20financial%20assets.md) | Information with respect to foreign financial assets. |
+| [6038E.](%C2%A7%2006038E%20-%20Information%20with%20respect%20to%20assignment%20of%20lower%20rates%20or%20refunds%20by%20foreign%20producers%20of%20beer%2C%20wine%2C%20and%20distilled%20spirits.md) | Information with respect to assignment of lower rates or refunds by foreign producers of beer, wine, and distilled spirits. |
 | [6039\.](%C2%A7%2006039%20-%20Returns%20required%20in%20connection%20with%20certain%20options.md) | Returns required in connection with certain options. |
 | \[6039A, 6039B. Repealed.\] |  |
 | [6039C.](%C2%A7%2006039C%20-%20Returns%20with%20respect%20to%20foreign%20persons%20holding%20direct%20investments%20in%20United%20States%20real%20property%20interests.md) | Returns with respect to foreign persons holding direct investments in United States real property interests. |
@@ -41,6 +42,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, div. EE, title I, §107(d)(2), Dec. 27, 2020, 134 Stat. 3048, added item 6038E.
 
 <b>2017</b>—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, substituted "Information With Respect to Alaska Native Settlement Trusts and Native Corporations" for "Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations" in item 6039H.
 
@@ -96,6 +99,10 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 <b>1958</b>—Pub. L. 85–866, title I, §64(d)(4), Sept. 2, 1958, 72 Stat. 1657, added item 6037 and redesignated former item 6037 as 6038.
 
+#### Authority To Waive Certain Information Reporting Requirements
+
+Pub. L. 116–260, div. N, title II, §279, Dec. 27, 2020, 134 Stat. 1982, provided that: "The Secretary of the Treasury (or the Secretary's delegate) may provide an exception from any requirement to file an information return otherwise required by chapter 61 of the Internal Revenue Code of 1986 \[26 U.S.C. 6001 et seq.\] with respect to any amount excluded from gross income by reason of section 7A(i) of the Small Business Act \[15 U.S.C. 636m(i)\] or section 276(b) \[15 U.S.C. 636 note\], 277 \[20 U.S.C. 1001 note\], or 278 \[15 U.S.C. 9008 note\] of this subtitle \[subtitle B of title II of div. N of Pub. L. 116–260\]."
+
 <i><sup>1</sup></i><i> So in original. Pub. L. 98–611 and Pub. L. 98–612 enacted identical items designated "6039D". Pub. L. 99–514, §1879(d)(2), repealed the section 6039D enacted by Pub. L. 98–612 without corresponding amendment of subpart analysis.</i>
 
 <i><sup>2</sup></i><i> So in original. The words "With Respect" probably should not be capitalized.</i>
@@ -118,6 +125,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06038B - Notice of certain transfers to foreign persons](%C2%A7%2006038B%20-%20Notice%20of%20certain%20transfers%20to%20foreign%20persons.md)
 - [&sect; 06038C - Information with respect to foreign corporations engaged in U.S. business](%C2%A7%2006038C%20-%20Information%20with%20respect%20to%20foreign%20corporations%20engaged%20in%20U.S.%20business.md)
 - [&sect; 06038D - Information with respect to foreign financial assets](%C2%A7%2006038D%20-%20Information%20with%20respect%20to%20foreign%20financial%20assets.md)
+- [&sect; 06038E - Information with respect to assignment of lower rates or refunds by foreign producers of beer, wine, and distilled spirits](%C2%A7%2006038E%20-%20Information%20with%20respect%20to%20assignment%20of%20lower%20rates%20or%20refunds%20by%20foreign%20producers%20of%20beer%2C%20wine%2C%20and%20distilled%20spirits.md)
 - [&sect; 06039 - Returns required in connection with certain options](%C2%A7%2006039%20-%20Returns%20required%20in%20connection%20with%20certain%20options.md)
 - [&sect; 06039A - Repealed. Pub. L. 96&#8211;223, title IV, &sect;401(a), Apr. 2, 1980, 94 Stat. 299](%C2%A7%2006039A%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93223%2C%20title%20IV%2C%20%C2%A7401%28a%29%2C%20Apr.%202%2C%201980%2C%2094%20Stat.%20299.md)
 - [&sect; 06039B - Repealed. Pub. L. 99&#8211;514, title XIII, &sect;1303(b)(5), Oct. 22, 1986, 100 Stat. 2658](%C2%A7%2006039B%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20XIII%2C%20%C2%A71303%28b%29%285%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202658.md)

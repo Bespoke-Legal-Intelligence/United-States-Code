@@ -6,7 +6,7 @@
 
 (2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarily results in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households.
 
-(B) Each member of the Board of Directors shall be elected for a term ending on the date of the next annual meeting of the voting common stockholders.
+(B) Each member of the Board of Directors shall be elected for a term ending on the date ofthe next annual meeting of the voting common stockholders.
 
 (C) Any seat on the Board of Directors that becomes vacant after the annual election of the directors shall be filled by the Board of Directors, but only for the unexpired portion of the term.
 
@@ -32,7 +32,7 @@ The Corporation, including its franchise, activities, capital, reserves, surplus
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
-Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
+Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district inwhich the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
 
 #### (g) Mortgages, obligations, or other securities sold by Corporation deemed lawful investments for security purposes
 
@@ -40,7 +40,7 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 #### (h) Report on comparability of compensation policies and financial performance of Corporation and payments earned by executive officers; prohibition on payments to terminated executive officers
 
-(1) Not later than June 30, 1993, and annually thereafter, the Corporation shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on (A) the comparability of the compensation policies of the Corporation with the compensation policies of other similar businesses, (B) in the aggregate, the percentage of total cash compensation andpayments under employee benefit plans (which shall be defined in a manner consistent with the Corporation's proxy statement for the annual meeting of shareholders for the preceding year) earned by executive officers of the Corporation during the preceding year that was based on the Corporation's performance, and (C) the comparability of the Corporation's financial performance with the performance of other similar businesses. The report shall include a copy of the Corporation's proxy statement for the annual meeting of shareholders for the preceding year.
+(1) Not later than June 30, 1993, and annually thereafter, the Corporation shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on (A) the comparability of the compensation policies of the Corporation with the compensation policies of other similar businesses, (B) in the aggregate, the percentage of total cash compensation and payments under employee benefit plans (which shall be defined in a manner consistent with the Corporation's proxy statement for the annual meeting of shareholders for the preceding year) earned by executive officers of the Corporation during the preceding year that was based on the Corporation's performance, and (C) the comparability of the Corporation's financial performance with the performance of other similar businesses. The report shall include a copy of the Corporation's proxy statement for the annual meeting of shareholders for the preceding year.
 
 (2) Notwithstanding the first sentence of subsection (c), after October 28, 1992, the Corporation may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of any executive officer of the Corporation, unless such agreement or contract is approved in advance by the Director of the Federal Housing Finance Agency. The Director may not approve any such agreement or contract unless the Director determines that the benefits provided under the agreement or contract are comparable to benefits under such agreements for officers of other public and private entities involved in financial services and housing interests who have comparable duties and responsibilities. For purposes of this paragraph, any renegotiation, amendment, or change after October 28, 1992, to any such agreement or contract entered into on or before October 28, 1992, shall be considered entering into an agreement or contract.
 
@@ -49,6 +49,8 @@ All mortgages, obligations, or other securities which are or have been sold by t
 (4) Notwithstanding any other provision of this section, the Corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title.
 
 (Pub. L. 91–351, title III, §303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, §316(b), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, §177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, §731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, §1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004; Pub. L. 110–289, div. A, title I, §§1113(b)(2), 1153(b)(3), 1161(c)(1), 1162(b)(1), July 30, 2008, 122 Stat. 2678, 2775, 2780, 2781.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Subsecs. (b) to (g). Pub. L. 101–73, §731(c), added subsec. (b) and redesigna
 <b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out "by the United States," before "by any territory", substituted "possession of the United States" for "possession thereof," and struck out "The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection."
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–153 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

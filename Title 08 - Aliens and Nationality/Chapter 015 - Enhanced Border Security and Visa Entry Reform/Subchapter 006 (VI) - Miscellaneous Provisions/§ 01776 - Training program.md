@@ -68,7 +68,7 @@ The training program developed under paragraph (1)(C) shall include training in�
 
 #### (4) Assistance to others
 
-The Secretary of Homeland Security may assist States, Indian tribes, local governments, and private organizations to establish training programs related to terrorist travel intelligence.
+The Secretary of Homeland Security may assist States, Indian tribes, local governments,and private organizations to establish training programs related to terrorist travel intelligence.
 
 #### (5) Authorization of appropriations
 
@@ -76,9 +76,13 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 (Pub. L. 108–458, title VII, §7201(d), Dec. 17, 2004, 118 Stat. 3811.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

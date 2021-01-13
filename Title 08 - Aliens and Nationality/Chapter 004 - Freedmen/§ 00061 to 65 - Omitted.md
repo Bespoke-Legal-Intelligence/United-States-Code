@@ -1,5 +1,7 @@
 ### §§61 to 65. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 61, R.S. 2032, related to continuation of laws then in force.

@@ -28,6 +28,8 @@ In subsection (a), the words "repealing, amending, or otherwise" are omitted as 
 
 In subsection (b), the words "repeal . . . or limit" are omitted as surplus. The words "officers and" are added for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–323 substituted "731(c) and (e)," for "731(c)–(e),".

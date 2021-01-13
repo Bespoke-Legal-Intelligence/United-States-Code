@@ -24,7 +24,9 @@ Subsection (a) requires the Secretary to notify the Merchant Marine and Fisherie
 
 Subsection (b) requires the Coast Guard to supply the Merchant Marine and Fisheries Committee and the Senate Commerce Committee with any requested marine casualty information, if its release is not specifically prohibited by law.
 
-Subsection (c) requires the Secretary to submit an annual report to Congress summarizing the marine casualties reported during the prior fiscal year, with abrief statement of action taken concerning those casualties.
+Subsection (c) requires the Secretary to submit an annual report to Congress summarizing the marine casualties reported during the prior fiscal year, with a brief statement of action taken concerning those casualties.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

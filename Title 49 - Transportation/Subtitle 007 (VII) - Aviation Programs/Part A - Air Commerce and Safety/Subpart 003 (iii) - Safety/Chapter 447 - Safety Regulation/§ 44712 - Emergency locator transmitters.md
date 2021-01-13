@@ -12,7 +12,7 @@ Nonapplication.—Prior to January 1, 2002, subsection (a) does not apply to—
 
 &emsp;(2) aircraft when used in scheduled flights by scheduled air carriers holding certificates issued by the Secretary of Transportation under subpart II of this part;
 
-&emsp;(3) aircraft when used in training operations conducted entirely within a 50 mile radius ofthe airport from which the training operations begin;
+&emsp;(3) aircraft when used in training operations conducted entirely within a 50 mile radius of the airport from which the training operations begin;
 
 &emsp;(4) aircraft when used in flight operations related to design and testing, the manufacture, preparation, and delivery of the aircraft, or the aerial application of a substance for an agricultural purpose;
 

@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowmentfund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary shall distribute the remaining funds appropriated for any fiscal year to each eligible institution as follows:
 
-&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed amongthe eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
+&emsp;&emsp;&emsp;&emsp;(I) 60 percent of the remaining appropriated funds shall be distributed among the eligible Tribal Colleges and Universities on a pro rata basis, based on the respective Indian student counts (as defined in section 2(a) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)) <sup>2</sup> of the Tribal Colleges and Universities.
 
 &emsp;&emsp;&emsp;&emsp;(II) The remaining 40 percent shall be distributed in equal shares to the eligible Tribal Colleges and Universities.
 
@@ -166,7 +166,7 @@ Subsec. (c)(2)(G) to (N). Pub. L. 110–315, §303(2)(D)–(H), added subpars. (
 
 Subsec. (d). Pub. L. 110–315, §303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extentpossible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter."
 

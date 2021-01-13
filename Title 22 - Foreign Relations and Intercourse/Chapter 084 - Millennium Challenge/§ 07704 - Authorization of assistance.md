@@ -2,7 +2,7 @@
 
 #### (a) Assistance
 
-Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into a Millennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
+Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into aMillennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
 
 #### (b) Form of assistance
 
@@ -45,6 +45,8 @@ The Chief Executive Officer, in consultation with the Board and working with eli
 The provision of assistance under this section shall be coordinated with other United States foreign assistance programs.
 
 (Pub. L. 108–199, div. D, title VI, §605, Jan. 23, 2004, 118 Stat. 214.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

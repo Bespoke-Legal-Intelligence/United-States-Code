@@ -4,9 +4,13 @@ Nothing herein contained shall be deemed or construed to (a) amend, modify, or c
 
 (Aug. 7, 1947, ch. 513, §4, 61 Stat. 914; Pub. L. 115–232, div. A, title VIII, §809(i)(2), Aug. 13, 2018, 132 Stat. 1843.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "chapter 869 of title 10" for "the Act of June 30, 1938 (32 Stat. 1252), amending the Act of June 4, 1920 (41 Stat. 813)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

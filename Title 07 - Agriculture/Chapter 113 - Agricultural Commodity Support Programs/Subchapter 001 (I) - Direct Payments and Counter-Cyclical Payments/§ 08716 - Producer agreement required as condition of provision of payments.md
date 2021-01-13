@@ -80,7 +80,7 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat.1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 Section 8715 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
 

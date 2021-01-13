@@ -36,6 +36,8 @@ In subsection (c)(1), the words "per centum" and "by the Comptroller General" ar
 
 In subsection (c)(2), the words "by reason of the application of subsection (a) of this section" and "annual" are omitted as surplus. The words "basic pay" are substituted for "compensation" for consistency with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–426 amended section generally. Prior to amendment, section read as follows:
@@ -51,6 +53,8 @@ In subsection (c)(2), the words "by reason of the application of subsection (a) 
 "(c)(1) An increase under this section may not be more than an increase prescribed under section 8340(b) of title 5.
 
 "(2) An annuity under section 772 of this title may not be more than the basic pay of the Comptroller General."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

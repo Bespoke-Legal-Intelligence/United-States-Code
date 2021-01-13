@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to prescribe such rules and regulati
 
 (Aug. 7, 1947, ch. 513, §10, 61 Stat. 915.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "mineral leasing laws", see section 351 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

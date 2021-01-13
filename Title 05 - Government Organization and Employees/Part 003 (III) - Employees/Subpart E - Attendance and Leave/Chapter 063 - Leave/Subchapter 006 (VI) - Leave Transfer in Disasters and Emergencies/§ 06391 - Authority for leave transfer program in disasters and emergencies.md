@@ -20,9 +20,13 @@
 
 (Added Pub. L. 105–18, title II, §9004(a), June 12, 1997, 111 Stat. 196; amended Pub. L. 109–229, §1, May 31, 2006, 120 Stat. 390.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsecs. (f), (g). Pub. L. 109–229 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13745. Delegation of Function to the Director of the Office of Personnel Management
 

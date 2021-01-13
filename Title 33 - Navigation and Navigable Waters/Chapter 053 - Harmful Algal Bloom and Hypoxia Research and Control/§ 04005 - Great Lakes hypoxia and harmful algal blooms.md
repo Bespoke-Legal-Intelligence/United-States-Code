@@ -64,7 +64,9 @@ Not later than 18 months after June 30, 2014, the Task Force, in accordance with
 
 &emsp;&emsp;(I) after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
 
-(Pub. L. 105–383, title VI, §605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, §105, Dec. 10,2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, §8, June 30, 2014, 128 Stat. 1384.)
+(Pub. L. 105–383, title VI, §605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, §105, Dec. 10, 2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, §8, June 30, 2014, 128 Stat. 1384.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

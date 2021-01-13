@@ -2,7 +2,7 @@
 
 #### (a) Deposit of estimated countervailing duty under section 1671b(d)(1)(B) of this title
 
-If the amount of a cash deposit, or the amount of any bond or other security, required as security for an estimated countervailing duty under section 1671b(d)(1)(B) of this title is different from the amount of the countervailing duty determined under a countervailing duty order issued under section 1671e of this title, then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption before notice of the affirmative determination ofthe Commission under section 1671d(b) of this title is published shall be—
+If the amount of a cash deposit, or the amount of any bond or other security, required as security for an estimated countervailing duty under section 1671b(d)(1)(B) of this title is different from the amount of the countervailing duty determined under a countervailing duty order issued under section 1671e of this title, then the difference for entries of merchandise entered, or withdrawn from warehouse, for consumption before notice of the affirmative determination of the Commission under section 1671d(b) of this title is published shall be—
 
 &emsp;(1) disregarded, to the extent that the cash deposit, bond, or other security is lower than the duty under the order, or
 

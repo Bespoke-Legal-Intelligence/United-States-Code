@@ -166,7 +166,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;An amount not to exceed 100 percent of the loss of revenue.
 
-(2) If a party that has been certified as a participant in the drawback compliance programunder subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
+(2) If a party that has been certified as a participant in the drawback compliance program under subsection (e) commits an alleged violation which was not repetitive, the party shall be issued a "warning letter", and, for any subsequent violation, shall be subject to the same maximum penalty amounts stated in paragraph (1).
 
 #### (h) Regulation
 
@@ -194,7 +194,7 @@ Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawbac
 
 #### Effective Date
 
-Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, provided that: "The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin."
+Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, which provided that the enactment of this section would apply to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Transfer of Functions
 

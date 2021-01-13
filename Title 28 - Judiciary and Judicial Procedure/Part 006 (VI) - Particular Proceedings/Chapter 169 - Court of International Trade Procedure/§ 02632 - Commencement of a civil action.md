@@ -10,6 +10,8 @@
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1732.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 515 and 516 of the Tariff Act of 1930, referred to in subsec. (b), are classified to sections 1515 and 1516, respectively, of Title 19, Customs Duties.
@@ -20,7 +22,9 @@ Section 516A of the Tariff Act of 1930, referred to in subsec. (c), is classifie
 
 A prior section 2632, acts June 25, 1948, ch. 646, 62 Stat. 980; June 2, 1970, Pub. L. 91–271, title I, §113, 84 Stat. 279; Jan. 3, 1975, Pub. L. 93–618, title III, §321(f)(3), 88 Stat. 2048; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(C), 93 Stat. 306, related to Customs Court procedure and fees, prior to the general revision of this chapter by Pub. L. 96–417. See section 2633 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Subsec. (a) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, seesection 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Subsec. (a) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 

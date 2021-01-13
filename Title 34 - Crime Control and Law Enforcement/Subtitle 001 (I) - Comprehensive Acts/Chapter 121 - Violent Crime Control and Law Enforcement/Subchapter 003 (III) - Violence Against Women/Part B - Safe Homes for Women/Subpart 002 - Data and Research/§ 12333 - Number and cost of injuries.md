@@ -10,9 +10,13 @@ There are authorized to be appropriated to carry out this section—$100,000 for
 
 (Pub. L. 103–322, title IV, §40293, Sept. 13, 1994, 108 Stat. 1940.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13963 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

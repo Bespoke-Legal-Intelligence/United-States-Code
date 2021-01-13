@@ -1,5 +1,7 @@
 ### §126b. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 126b was editorially reclassified as section 6544 of this title.

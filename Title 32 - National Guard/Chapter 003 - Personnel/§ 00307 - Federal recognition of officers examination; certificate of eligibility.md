@@ -106,6 +106,8 @@ Sept. 3, 1954, ch. 1257, §519(b), 68 Stat. 1179.
 
 In subsection (e), the words "to subsection (a)(1) and (2)" are inserted, since 50:1349(b) was not an exception to that part of 50:1113 relating to qualifications prescribed by the Secretary, or to the requirement that only members of federally recognized units can be federally recognized. The words "without the examination prescribed in section 113 of Title 32" are omitted as covered by the words of exception in revised subsection (a). The last 37 words are substituted for 50:1349(b) (last 29 words of 2d sentence; and last sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–337 struck out "and sections 8365 and 8366 of title 10" after "of this section".
@@ -117,6 +119,8 @@ In subsection (e), the words "to subsection (a)(1) and (2)" are inserted, since 
 <b>1958</b>—Subsec. (a)(3). Pub. L. 85–861, §2(6)(A), substituted "subsections (d) and (e) of this section and sections 8365 and 8366 of title 10" for "subsection (d)".
 
 Subsecs. (e), (f). Pub. L. 85–861, §2(6)(B), added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

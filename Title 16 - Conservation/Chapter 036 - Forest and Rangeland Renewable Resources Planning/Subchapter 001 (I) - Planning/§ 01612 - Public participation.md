@@ -6,7 +6,7 @@ In exercising his authorities under this subchapter and other laws applicable to
 
 #### (b) Advisory boards
 
-In providing for public participation in the planning for and management of the National Forest System, the Secretary, pursuant to the Federal Advisory Committee Act (86 Stat. 770) and other applicable law, shall establish and consult such advisory boards as he deems necessary to secure full information and advice on the execution of his responsibilities. The membership of such boards shall be representative of a cross section of groups interested in the planning for and management of the National Forest System and the various types of use and enjoyment of the lands thereof.
+In providing for public participation in the planning for and management of the National Forest System, the Secretary, pursuant to the Federal Advisory Committee Act (86 Stat. 770)and other applicable law, shall establish and consult such advisory boards as he deems necessary to secure full information and advice on the execution of his responsibilities. The membership of such boards shall be representative of a cross section of groups interested in the planning for and management of the National Forest System and the various types of use and enjoyment of the lands thereof.
 
 (Pub. L. 93–378, §14, as added Pub. L. 94–588, §11, Oct. 22, 1976, 90 Stat. 2958.)
 

@@ -24,7 +24,7 @@ The allotment for each State shall be the sum of the amounts allotted for nation
 
 #### (c) Division between national grants and grants to States
 
-The funds appropriated to carry out this subchapter for any fiscal year that remain afteramounts are reserved under paragraphs (1), (2), and (3) of subsection (a) shall be divided by the Secretary between national grants and grants to States as follows:
+The funds appropriated to carry out this subchapter for any fiscal year that remain after amounts are reserved under paragraphs (1), (2), and (3) of subsection (a) shall be divided by the Secretary between national grants and grants to States as follows:
 
 #### (1) Reservation of funds for fiscal year 2000 level of activities
 
@@ -90,7 +90,7 @@ From the amount provided for grants to States under subsection (c), the Secretar
 
 For purposes of subsections (d) and (e) and this subsection—
 
-&emsp;(1) the allotment percentage of each State shall be 100 percent less that percentage that bears the same ratio to 50 percent as the per capita income of such State bears to the per capita income of the United States, except that—
+&emsp;(1) the allotment percentage of each State shall be 100 percent less that percentage that bears the same ratio to 50 percent as the percapita income of such State bears to the per capita income of the United States, except that—
 
 &emsp;&emsp;(A) the allotment percentage shall be not more than 75 percent and not less than 33 percent; and
 

@@ -1,8 +1,10 @@
 ### §151. Purposes of chapter; Federal Communications Commission created
 
-For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the "Federal Communications Commission", which shall be constituted ashereinafter provided, and which shall execute and enforce the provisions of this chapter.
+For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the "Federal Communications Commission", which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
 (June 19, 1934, ch. 652, title I, §1, 48 Stat. 1064; May 20, 1937, ch. 229, §1, 50 Stat. 189; Pub. L. 104–104, title I, §104, Feb. 8, 1996, 110 Stat. 86.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -13,6 +15,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 <b>1996</b>—Pub. L. 104–104 inserted ", without discrimination on the basis of race, color, religion, national origin, or sex," after "to all the people of the United States".
 
 <b>1937</b>—Act May 20, 1937, inserted "for the purpose of promoting safety of life and property through the use of wire and radio communication".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Extension of Internet Tax Freedom Act
 
@@ -104,7 +108,7 @@ Internet information location tool.—The term 'Internet information location to
 
 &emsp;&emsp;"(F)
 
-Material that is harmful to minors.—The term 'material that is harmful to minors' means any communication, picture, image, graphic imagefile, article, recording, writing, or other matter of any kind that is obscene or that—
+Material that is harmful to minors.—The term 'material that is harmful to minors' means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
 
 &emsp;&emsp;&emsp;"(i) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
 
@@ -168,7 +172,7 @@ In general.—The Commissioners shall serve for the life of the Commission. The 
 
 &emsp;&emsp;"(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative (or their respective delegates).
 
-&emsp;&emsp;"(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose a sales tax and one representative shall be from a State that does not impose an income tax).
+&emsp;&emsp;"(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose asales tax and one representative shall be from a State that does not impose an income tax).
 
 &emsp;&emsp;"(C) 8 representatives of the electronic commerce industry (including small business), telecommunications carriers, local retail businesses, and consumer groups, comprised of—
 
@@ -410,7 +414,7 @@ Internet access.—The term 'Internet access'—
 
 &emsp;&emsp;&emsp;"(ii) to otherwise enable users to access content, information or other services offered over the Internet;
 
-&emsp;&emsp;"(C) includes services that are incidental to the provision of the service described in subparagraph (A) when furnished to users as part of such service, such as a home page, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity;
+&emsp;&emsp;"(C) includes services that are incidental to the provision of the service described in subparagraph\(A) when furnished to users as part of such service, such as a home page, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity;
 
 &emsp;&emsp;"(D) does not include voice, audio or video programming, or other products and services (except services described in subparagraph (A), (B), (C), or (E)) that utilize Internet protocol or any successor protocol and for which there is a charge, regardless of whether such charge is separately stated or aggregated with the charge for services described in subparagraph (A), (B), (C), or (E); and
 
@@ -466,7 +470,7 @@ In general.—The term 'tax on Internet access' means a tax on Internet access, 
 
 &emsp;&emsp;"(B)
 
-General exception.—The term 'tax on Internet access' does not include a tax levied uponor measured by net income, capital stock, net worth, or property value.
+General exception.—The term 'tax on Internet access' does not include a tax levied upon or measured by net income, capital stock, net worth, or property value.
 
 &emsp;&emsp;"(C)
 
@@ -550,19 +554,17 @@ Pub. L. 104–104, title I, §101(c), Feb. 8, 1996, 110 Stat. 79, provided that:
 
 #### Study of Telecommunications and Information Goals
 
-Pub. L. 97–259, title II, §202, Sept. 13, 1982, 96 Stat. 1099, provided that:
-
-"(a) The National Telecommunications and Information Administration shall conduct a comprehensive study of the long-range international telecommunications and information goals of the United States, the specific international telecommunications and information policies necessary to promote those goals and the strategies that will ensure that the United States achieves them. The Administration shall further conduct a review of the structures, procedures, and mechanisms which are utilized by the United States to develop international telecommunications and information policy.
-
-"(b) In any study or review conducted pursuant to this section, the National Telecommunications and Information Administration shall not make public information regarding usage or traffic patterns which would damage United States commercial interests. Any such study or review shall be limited to international telecommunications policies or to domestic telecommunications issues which <i>directly</i> affect such policies."
+Pub. L. 97–259, title II, §202, Sept. 13, 1982, 96 Stat. 1099, required the National Telecommunications and Information Administration to conduct a comprehensive study of the long-range international telecommunications and information goals of the United States and the policies and the strategies needed to achieve these goals, with a review of these policies, and provided the Administration would not make public information regarding usage or traffic patterns which would damage United States commercial interests.
 
 #### Commission on Governmental Use of International Telecommunications
 
-Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations onor before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
+Act July 29, 1954, ch. 647, 68 Stat. 587, established the Commission on Governmental Use of International Telecommunications to examine, study and report on the objectives, operations, and effectiveness of information programs with respect to the prompt development of techniques, methods, and programs for greatly expanded and far more effective operations in this vital area of foreign policy through the use of foreign telecommunications. The Commission was required to make a report of its findings and recommendations on or before Dec. 31, 1954, and the Commission ceased to exist 90 days after submission of its report to the Congress.
 
 #### Communication Privileges to Participants in World Telecommunication Conferences
 
 Act May 13, 1947, ch. 51, 61 Stat. 83, provided that nothing in this chapter, or in any other provision of law should be construed to prohibit United States communication common carriers from rendering free communication services to official participants in the world telecommunications conferences which were held in the United States in 1947.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10460
 

@@ -1,5 +1,7 @@
 ### §43b–3. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 43b–3 was editorially reclassified as section 5344 of this title.

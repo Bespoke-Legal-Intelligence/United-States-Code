@@ -8,7 +8,7 @@
 
 &emsp;(2) the sentence shall be carried out according to the laws of the United States and that those laws are subject to change;
 
-&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to the country which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
+&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to thecountry which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
 
 &emsp;(4) his consent to transfer, once verified by the verifying officer, is irrevocable.
 
@@ -20,11 +20,15 @@
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1217; amended Pub. L. 98–473, title II, §223(m)(4), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–690, title VII, §7101(b), Nov. 18, 1988, 102 Stat. 4415; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 struck out "including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1)," after "consequences thereof,".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted ", including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1)," after "consequences thereof".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

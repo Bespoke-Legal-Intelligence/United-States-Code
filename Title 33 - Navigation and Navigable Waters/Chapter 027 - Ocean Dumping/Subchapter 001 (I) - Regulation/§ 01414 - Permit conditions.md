@@ -6,7 +6,7 @@ Permits issued under this subchapter shall designate and include (1) the type of
 
 #### (b) Permit processing fees; reporting requirements
 
-The Administrator or the Secretary, as the case may be, may prescribe such processing feesfor permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
+The Administrator or the Secretary, as the case may be, may prescribe such processing fees for permits and such reporting requirements for actions taken pursuant to permits issued by him under this subchapter as he deems appropriate.
 
 #### (c) General permits
 
@@ -22,7 +22,7 @@ The Administrator or the Secretary, as the case may be, shall require an applica
 
 #### (f) Public information
 
-Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
+Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. Thefinal determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
 
 #### (g) Display of issued permits
 
@@ -90,6 +90,8 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 (Pub. L. 92–532, title I, §104, Oct. 23, 1972, 86 Stat. 1056; Pub. L. 97–424, title IV, §424(a), Jan. 6, 1983, 96 Stat. 2165; Pub. L. 100–17, title I, §133(c)(1), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–580, title V, §507, Oct. 31, 1992, 106 Stat. 4869.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
@@ -105,6 +107,8 @@ Subsec. (d). Pub. L. 102–580, §507(c), inserted ", based upon monitoring dat
 <b>1987</b>—Subsec. (i)(4)(D). Pub. L. 100–17 inserted "to \_\_\_\_\_\_\_\_\_\_" after "grant a permit".
 
 <b>1983</b>—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

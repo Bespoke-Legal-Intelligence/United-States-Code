@@ -22,7 +22,7 @@ Term of imprisonment.—A person convicted of a currency smuggling offense under
 
 &emsp;(2)
 
-Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
+Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shallorder that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
 
 &emsp;(3)
 
@@ -46,9 +46,11 @@ Procedure.—The seizure and forfeiture shall be governed by the procedures gove
 
 &emsp;(3)
 
-Treatment of certain property as involved in the offense.—For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetaryinstrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
+Treatment of certain property as involved in the offense.—For purposes of this subsection and subsection (b), any currency or other monetary instrument that is concealed or intended to be concealed in violation of subsection (a) or a conspiracy to commit such violation, any article, container, or conveyance used, or intended to be used, to conceal or transport the currency or other monetary instrument, and any other property used, or intended to be used, to facilitate the offense, shall be considered property involved in the offense.
 
 (Added Pub. L. 107–56, title III, §371(c), Oct. 26, 2001, 115 Stat. 337; amended Pub. L. 108–458, title VI, §6203(h), Dec. 17, 2004, 118 Stat. 3747.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Another section 371(c) of Pub. L. 107–56 amended the table of sections at the 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–458, §6203(h)(1), struck out ", subject to subsection (d) of this section" before period at end.
 
 Subsec. (c)(1). Pub. L. 108–458, §6203(h)(2), struck out ", subject to subsection (d) of this section," after "may be seized and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

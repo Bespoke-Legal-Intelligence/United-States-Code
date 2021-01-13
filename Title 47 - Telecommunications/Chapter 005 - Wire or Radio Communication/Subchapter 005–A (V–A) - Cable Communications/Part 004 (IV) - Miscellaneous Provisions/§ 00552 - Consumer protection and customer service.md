@@ -30,9 +30,11 @@ A cable operator may provide notice of service and rate changes to subscribers u
 
 #### (2) Customer service requirement agreements
 
-&emsp;Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b). Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
+&emsp;Nothing in this section shall be construed to preclude a franchising authority and a cableoperator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b). Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
 
 (June 19, 1934, ch. 652, title VI, §632, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2796; amended Pub. L. 102–385, §8, Oct. 5, 1992, 106 Stat. 1484; Pub. L. 104–104, title III, §301(g), Feb. 8, 1996, 110 Stat. 117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ This chapter, referred to in subsec. (c), was in the original "this Act", meanin
 "(b) A franchising authority may enforce any provision, contained in any franchise, relating to requirements described in paragraph (1) or (2) of subsection (a) of this section, to the extent not inconsistent with this subchapter.
 
 "(c) Nothing in this subchapter shall be construed to prohibit any State or any franchising authority from enacting or enforcing any consumer protection law, to the extent not inconsistent with this subchapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

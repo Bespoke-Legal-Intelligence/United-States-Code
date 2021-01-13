@@ -1,6 +1,6 @@
 ### §59n. Hudson River, Hudson County, New Jersey
 
-(a) If the Secretary of the Army, acting through the Chief of Engineers, finds that the proposed project to be erected at the location to be declared nonnavigable under this section is inthe public interest, on the basis of engineering studies to determine the location and structural stability of any bulkheading and filling and permanent pile-supported structure, in order to preserve and maintain the remaining navigable waterway and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], then that portion of the Hudson River in Hudson County, State of New Jersey, bounded and described as follows is hereby declared to be nonnavigable water of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given to the filling in of all or any part thereof and the erection of permanent pile-supported structures thereon:
+(a) If the Secretary of the Army, acting through the Chief of Engineers, finds that the proposed project to be erected at the location to be declared nonnavigable under this section is in the public interest, on the basis of engineering studies to determine the location and structural stability of any bulkheading and filling and permanent pile-supported structure, in order to preserve and maintain the remaining navigable waterway and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], then that portion of the Hudson River in Hudson County, State of New Jersey, bounded and described as follows is hereby declared to be nonnavigable water of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given to the filling in of all or any part thereof and the erection of permanent pile-supported structures thereon:
 
 &emsp;Such portion is in the township of North Bergen in the county of Hudson and State of New Jersey, and is more particularly described as follows: At a point in the easterly right-of-way of New Jersey Shore Line Railroad (formerly New Jersey Junction Railroad) said point being located northerly, measured along said easterly right-of-way, 81.93 feet from Station 54+42.4 as shown on construction drawing dated May 23, 1931, of River Road, filed in the Office of the Hudson County Engineer, Jersey City, New Jersey:
 
@@ -25,6 +25,8 @@
 (b) The declaration in subsection (a) of this section shall apply only to portions of the above-described area which are either bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
 (Pub. L. 94–587, §178, Oct. 22, 1976, 90 Stat. 2937.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

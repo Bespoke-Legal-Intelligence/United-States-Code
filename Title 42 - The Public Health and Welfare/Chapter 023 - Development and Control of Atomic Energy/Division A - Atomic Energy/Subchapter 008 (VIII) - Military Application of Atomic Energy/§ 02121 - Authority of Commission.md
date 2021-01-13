@@ -44,17 +44,13 @@ Provisions similar to this section were contained in section 1806(a) of this tit
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–479 added subsec. (c).
 
-#### Delegation of Functions
-
-Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
-
 #### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4206 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2526 of Title 50, War and National Defense.
 
 #### Authority To Provide Certificate of Commendation to Department of Energy and Contractor Employees for Exemplary Service in Stockpile Stewardship and Security
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly setout as a note under this section, was renumbered section 4605 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778, and is classified to section 2705 of Title 50, War and National Defense.
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4605 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778, and is classified to section 2705 of Title 50, War and National Defense.
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
@@ -126,11 +122,11 @@ Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, whi
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and isclassified to section 2532 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2532 of Title 50, War and National Defense.
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
-Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, titleXXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
 
 #### Study on Nuclear Test Readiness Postures
 
@@ -257,4 +253,8 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 #### Nuclear Test Ban Readiness Program
 
 Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
+
+#### Delegation of Functions
+
+Authority vested in President by subsec. (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(1) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
 

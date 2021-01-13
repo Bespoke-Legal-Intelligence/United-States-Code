@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) "manufactured home construction" means all activities relating to the assemblyand manufacture of a manufactured home including but not limited to those relating to durability, quality, and safety;
+&emsp;(1) "manufactured home construction" means all activities relating to the assembly and manufacture of a manufactured home including but not limited to those relating to durability, quality, and safety;
 
 &emsp;(2) "retailer" means any person engaged in the sale, leasing, or distribution of new manufactured homes primarily to persons who in good faith purchase or lease a manufactured home for purposes other than resale;
 

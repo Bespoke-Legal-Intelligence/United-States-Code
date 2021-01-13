@@ -28,11 +28,15 @@ July 1, 1946, ch. 527, §3, 60 Stat. 346.
 
 The words "are as provided in" are substituted for "shall be determined according to" for consistency in the revised title. The text of 36:203 (proviso) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 9497 of title 10" for "section 9447 of title 10".
 
 <b>2000</b>—Pub. L. 106–398 inserted "and governing body" after "Membership" in section catchline, designated existing provisions as subsec. (a), inserted subsec. (a) heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

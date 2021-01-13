@@ -10,7 +10,7 @@
 
 (d) The district courts of the United States have jurisdiction to restrain a violation of this chapter or a regulation prescribed under this chapter.
 
-(e)(1) If any owner, operator, or individual in charge of a vessel is liable for any penalty orfine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to any penalty or fine under this section, the Secretary of Homeland Security, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of this title.
+(e)(1) If any owner, operator, or individual in charge of a vessel is liable for any penalty or fine under this section, or if reasonable cause exists to believe that the owner, operator, or individual in charge may be subject to any penalty or fine under this section, the Secretary of Homeland Security, upon the request of the Secretary, shall with respect to such vessel refuse or revoke any clearance required by section 60105 of this title.
 
 (2) Clearance or a permit refused or revoked under this subsection may be granted upon filing of a bond or other surety satisfactory to the Secretary.
 
@@ -32,6 +32,8 @@ With respect to criminal penalties, a willful or knowing violation of the sectio
 
 In addition, where the owner or operator of the vessel is subject to any of the penalties prescribed, the Secretary of the Treasury is directed to withhold required Customs clearance, at the request of the Secretary. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (e)(1). Pub. L. 109–304 substituted "Secretary of Homeland Security" and "section 60105 of this title" for "Secretary of the Treasury" and "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)", respectively.
@@ -41,6 +43,8 @@ In addition, where the owner or operator of the vessel is subject to any of the 
 <b>1990</b>—Subsec. (b). Pub. L. 101–380, §4302(c)(1), substituted "commits a class D felony" for "shall be fined not more than $50,000, imprisoned for not more than 5 years, or both".
 
 Subsec. (c). Pub. L. 101–380, §4302(c)(2), substituted "commits a class C felony" for "shall be fined not more than $100,000, imprisoned for not more than 10 years, or both".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

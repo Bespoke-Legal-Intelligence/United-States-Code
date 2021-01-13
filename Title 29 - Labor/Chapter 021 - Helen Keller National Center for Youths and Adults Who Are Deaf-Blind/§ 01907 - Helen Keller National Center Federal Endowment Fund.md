@@ -80,7 +80,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (A) Audit
 
-&emsp;&emsp;The Center shall arrange for the conduct of an annual financial and compliance audit of the Endowment Fund in the manner prescribed by the Secretary pursuant to section 1903(a) of this title.
+&emsp;&emsp;The Center shall arrange for the conduct of an annual financial and compliance auditof the Endowment Fund in the manner prescribed by the Secretary pursuant to section 1903(a) of this title.
 
 #### (B) Report
 
@@ -121,6 +121,8 @@ For the purposes of this section:
 There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
 (Pub. L. 98–221, title II, §208, as added Pub. L. 102–569, title IX, §907, Oct. 29, 1992, 106 Stat. 4483; amended Pub. L. 105–220, title IV, §412(b), Aug. 7, 1998, 112 Stat. 1241.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §5114. Use of Customs Service officers and employees for enforcement
 
-(a) With the approval of the Secretary of the Treasury, the Secretary may use an officer or employee of the United States Customs Service to enforce this chapter and the regulations prescribed under this chapter.
+(a) With the approval of the Secretary of the Treasury, the Secretary may use an officer oremployee of the United States Customs Service to enforce this chapter and the regulations prescribed under this chapter.
 
 (b) The Secretary shall consult with the Secretary of the Treasury before prescribing a regulation that affects the enforcement responsibilities of an officer or employee of the Customs Service.
 
@@ -16,9 +16,13 @@ Section 5114(a) authorizes the Secretary to use a Customs Service officer or emp
 
 Section 5114(b) requires the Secretary to consult with the Secretary of the Treasury before prescribing a regulation that affects the enforcement responsibilities of a Customs Service officer or employee.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–595 substituted "officers and employees" for "officers employees" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

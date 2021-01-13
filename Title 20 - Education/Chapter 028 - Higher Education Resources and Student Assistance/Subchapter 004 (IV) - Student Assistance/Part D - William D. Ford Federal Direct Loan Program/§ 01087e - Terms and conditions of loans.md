@@ -212,7 +212,7 @@
 
 #### (A) Rates for undergraduate FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determinedon the preceding June 1 and be equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
 
@@ -478,7 +478,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;(A) An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
 
-&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution maymaintain loan funds under this part in the same account as other Federal student financial assistance.
+&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
 
 #### (2) Payments and refunds
 
@@ -488,11 +488,11 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-#### (l) Armed Forces student loan interest payment program
+#### (l) Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs
 
 #### (1) Authority
 
-&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
 
 #### (2) Forbearance
 
@@ -550,7 +550,7 @@ The Secretary shall take such steps as may be necessary to ensure that monthly F
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and\(4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
+&emsp;Notwithstanding any other provision of this part and in accordance with paragraphs (2) and (4), interest shall not accrue for an eligible military borrower on a loan made under this part for which the first disbursement is made on or after October 1, 2008.
 
 #### (2) Consolidation loans
 
@@ -606,13 +606,23 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.</i>
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (l). Pub. L. 116–259, §202(b)(2)(A), substituted "Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs" for "Armed Forces student loan interest payment program" in heading.
+
+Subsec. (l)(1). Pub. L. 116–259, §202(b)(2)(B), inserted "or section 3078 of title 33" after "section 2174 of title 10" and "or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively" after "Armed Forces".
+
+Subsec. (q). Pub. L. 116–260 struck out subsec. (q) which related to eligibility for, and interest charges on, Federal Direct Stafford Loans for new borrowers on or after July 1, 2013.
 
 <b>2019</b>—Subsec. (e)(6). Pub. L. 116–91, §4(a)(2), substituted "including notification of such borrower, that if a borrower" for "including notification of such borrower—
 
@@ -742,6 +752,12 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted "Federal Pe
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+
+Pub. L. 116–260, div. FF, title VII, §705(b), Dec. 27, 2020, 134 Stat. 3200, provided that: "Notwithstanding section 701(b) of this Act \[div. FF of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1001 of this title\] and section 455(q) of the Higher Education Act of 1965 (20 U.S.C. 1087e(q)) as in effect on the date of enactment of this Act \[Dec. 27, 2020\], the Secretary of Education may implement the repeal authorized under subsection (a) \[repealing subsec. (q) of this section\] before (but not later than) July 1, 2023. The Secretary shall specify in a designation on what date and for which award years the implementation of such repeal will be effective prior to July 1, 2023. The Secretary shall publish any designation under this paragraph in the Federal Register at least 60 days before implementation."
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under section 1077 of this title.
@@ -791,6 +807,38 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
 Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
+
+#### Continued Student Loan Payment Relief During the COVID–19 Pandemic
+
+Memorandum of President of the United States, Aug. 8, 2020, 85 F.R. 49585, provided:
+
+Memorandum for the Secretary of Education
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The 2019 novel coronavirus known as SARS–CoV–2, the virus causing outbreaks of the disease COVID–19, has significantly disrupted the lives of Americans. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared, pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that the COVID–19 outbreak in the United States constituted a national emergency (the "national emergency"). The same day, I also determined that the COVID–19 outbreak constituted an emergency of nationwide scope, pursuant to section 501(b) of the Stafford Act (42 U.S.C. 5191(b)).
+
+On March 20, 2020, my Administration took action to provide immediate relief to tens of millions of student loan borrowers during the pandemic caused by COVID–19 by both suspending loan payments and temporarily setting interest rates to 0 percent. This relief has helped many students and parents retain financial stability. And many other Americans have continued to routinely pay down their student loan balances, to more quickly eliminate their loans in the long run. During this time, borrowers have been able to determine the best path forward for themselves.
+
+The original announcement of this policy specified that it would continue for at least 60 days. In the interim, the Coronavirus Aid, Relief, and Economic Security Act \[Pub. L. 116–136\] provided this same student loan payment relief, but that program is scheduled to expire on September 30, 2020. Currently, many Americans remain unemployed due to the COVID–19 pandemic, and many more have accepted lower wages and reduced hours while States and localities continue to impose social distancing measures. It is therefore appropriate to extend this policy until such time that the economy has stabilized, schools have re-opened, and the crisis brought on by the COVID–19 pandemic has subsided.
+
+Sec. 2. <i>Extension of Student Loan Payment Relief</i>. (a) In light of the national emergency declared on March 13, 2020, the Secretary of Education shall take action pursuant to applicable law to effectuate appropriate waivers of and modifications to the requirements and conditions of economic hardship deferments described in section 455(f)(2)(D) of the Higher Education Act of 1965, as amended, 20 U.S.C. 1087e(f)(2)(D), and provide such deferments to borrowers as necessary to continue the temporary cessation of payments and the waiver of all interest on student loans held by the Department of Education until December 31, 2020.
+
+(b) All persons who wish to continue making student loan payments shall be allowed to do so, notwithstanding the deferments provided pursuant to subsection (a) of this section.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) 66 percent for fiscal year 1990 and each fiscal year thereafter.
 
-(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
+(3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
 (B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
 
@@ -74,7 +74,7 @@
 
 &emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
 
-&emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
+&emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achievesuch compliance, which has been approved by the Secretary,
 
 > then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 (1) In order to encourage and promote the development and use of more effective methods of enforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
 
-(2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable, to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
+(2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable,to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
 
 (3) At the time of its application for a grant under this subsection the State shall submit to the Secretary a statement describing in reasonable detail the project for which the proceeds of the grant are to be used, and the State shall from time to time thereafter submit to the Secretary such reports with respect to the project as the Secretary may specify.
 

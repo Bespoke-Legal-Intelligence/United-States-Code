@@ -1,6 +1,6 @@
 ### §6114. Oliver Wendell Holmes Garden
 
-The Architect of the Capitol shall maintain and care for the Oliver Wendell Holmes Gardenin accordance with the provisions of law on the maintenance and care of the grounds of the Supreme Court Building.
+The Architect of the Capitol shall maintain and care for the Oliver Wendell Holmes Garden in accordance with the provisions of law on the maintenance and care of the grounds of the Supreme Court Building.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1181.)
 

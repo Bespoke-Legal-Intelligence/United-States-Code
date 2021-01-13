@@ -19,6 +19,7 @@
 | [2617\.](Subchapter%20001%20%28I%29%20-%20General%20Requirements%20for%20Leave/%C2%A7%2002617%20-%20Enforcement.md) | Enforcement. |
 | [2618\.](Subchapter%20001%20%28I%29%20-%20General%20Requirements%20for%20Leave/%C2%A7%2002618%20-%20Special%20rules%20concerning%20employees%20of%20local%20educational%20agencies.md) | Special rules concerning employees of local educational agencies. |
 | [2619\.](Subchapter%20001%20%28I%29%20-%20General%20Requirements%20for%20Leave/%C2%A7%2002619%20-%20Notice.md) | Notice. |
+| [2620\.](Subchapter%20001%20%28I%29%20-%20General%20Requirements%20for%20Leave/%C2%A7%2002620%20-%20Public%20health%20emergency%20leave.md) | Public health emergency leave. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

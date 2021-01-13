@@ -10,13 +10,15 @@ Based on Title 35, U.S.C., 1946 ed., §11 (R.S. 487, amended Feb. 18, 1922, ch. 
 
 See note under section 31.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "2(b)(2)(D)" the first time appearing.
 
 Pub. L. 112–29, §9(a), substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-Pub. L. 112–29, §3(k)(1), inserted before the last sentence "A proceeding under this section shall be commenced not later than the earlier of either the date that is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D)."
+Pub. L. 112–29, §3(k)(1), inserted before the last sentence "A proceeding under this section shall be commenced not later than the earlier of either the datethat is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D)."
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -27,6 +29,8 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4719\], inserted before last sente
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4715(c)\], substituted "2(b)(2)(D)" for "31".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

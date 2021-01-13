@@ -46,7 +46,7 @@
 
 &emsp;(A) The principal State official with marine fishery management responsibility and expertise in each constituent State, who is designated as such by the Governor of the State, so long as the official continues to hold such position, or the designee of such official.
 
-&emsp;(B) The regional director of the National Marine Fisheries Service for the geographic area concerned, or his designee, except that if two such directors are within such geographical area, the Secretary shall designate which of such directors shall be the voting member.
+&emsp;(B) The regional director of the National Marine Fisheries Service for the geographic area concerned, or his designee, except that if two such directors are within such geographical area, the Secretary shall designatewhich of such directors shall be the voting member.
 
 &emsp;(C) The members required to be appointed by the Secretary in accordance with paragraphs (2) and (5).
 
@@ -84,7 +84,7 @@
 
 (4) Successors to the voting members of any Council shall be appointed in the same manner as the original voting members. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term.
 
-(5)(A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
+(5)(A) The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>1</sup> recognized fishing rightsfrom California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
 
 (B) Representation shall be rotated among the tribes taking into consideration—
 
@@ -136,7 +136,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 #### (f) Staff and administration
 
-(1) Each Council may appoint, and assign duties to, an executive director and such otherfull- and part-time administrative employees as the Secretary determines are necessary to the performance of its functions.
+(1) Each Council may appoint, and assign duties to, an executive director and such other full- and part-time administrative employees as the Secretary determines are necessary to the performance of its functions.
 
 (2) Upon the request of any Council, and after consultation with the Secretary, the head of any Federal agency is authorized to detail to such Council, on a reimbursable basis, any of the personnel of such agency, to assist such Council in the performance of its functions under this chapter.
 
@@ -232,9 +232,9 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(D) Interested persons shall be permitted to present oral or written statements regarding the matters on the agenda at meetings. All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.
 
-&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the personspresent, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
+&emsp;(E) Detailed minutes of each meeting of the Council, except for any closed session, shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all statements filed. The Chairman shall certify the accuracy of the minutes of each such meeting and submit a copy thereof to the Secretary. The minutes shall be made available to any court of competent jurisdiction.
 
-&emsp;(F) Subject to the procedures established under paragraph (4), and the guidelines prescribed by the Secretary under section 1881a(b) of this title, relating to confidentiality, the administrative record, including minutes required under subparagraph (E), of each meeting, and records or other documents which were made available to or prepared for or by the Council, committee, or panel incident to the meeting, shall be available for public inspection and copying at a single location in the offices of the Council or the Secretary, as appropriate.
+&emsp;(F) Subject to the procedures established under paragraph (4), and the guidelines prescribed by the Secretary under section 1881a(b) of this title, relating to confidentiality, the administrative record, including minutes required under subparagraph (E), of each meeting, and records or other documents which were made available to or prepared for or by the Council, committee, or panel incident to the meeting, shall be available for public inspection and copying at a single location inthe offices of the Council or the Secretary, as appropriate.
 
 (3)(A) Each Council, the Council Coordination Committee established under subsection (l), scientific, and statistical committee, other committees, and advisory panel—
 
@@ -296,7 +296,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (6) The participation by an affected individual referred to in paragraph (1)(A)(ii) in an action by a Council during any time in which that individual is not in compliance with the regulations prescribed under paragraph (5) may not be treated as cause for the invalidation of that action.
 
-(7)(A) After the effective date of regulations promulgated under subparagraph (F) of this paragraph, an affected individual required to disclose a financial interest under paragraph (2) shall not vote on a Council decision which would have a significant and predictable effect on such financial interest. A Council decision shall be considered to have a significant and predictable effect on a financial interest if there is a close causal link between the Council decision and an expected and substantially disproportionate benefit to the financial interest of the affected individual relative to the financial interests of other participants in the same gear type or sector of the fishery. An affected individual who may not vote may participate in Council deliberations relating to the decision after notifying the Council of the voting recusal and identifying the financial interest that would be affected.
+(7)(A) After the effective date of regulations promulgated under subparagraph (F) of this paragraph, an affected individual required to disclose a financial interest under paragraph (2) shall not vote on a Council decision which would have a significant and predictable effect on such financial interest. A Council decision shall be considered to have a significant and predictableeffect on a financial interest if there is a close causal link between the Council decision and an expected and substantially disproportionate benefit to the financial interest of the affected individual relative to the financial interests of other participants in the same gear type or sector of the fishery. An affected individual who may not vote may participate in Council deliberations relating to the decision after notifying the Council of the voting recusal and identifying the financial interest that would be affected.
 
 (B) At the request of an affected individual, or upon the initiative of the appropriate designated official, the designated official shall make a determination for the record whether a Council decision would have a significant and predictable effect on a financial interest.
 
@@ -348,7 +348,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1),\(b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, §102(a), Dec. 31, 2018, 132 Stat. 5357.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, §102(a), Dec. 31, 2018, 132 Stat. 5357.)
 
 #### References in Text
 
@@ -426,7 +426,7 @@ Subsec. (a)(3). Pub. L. 104–297, §107(a)(7), added par. (3).
 
 Subsec. (b)(1)(C). Pub. L. 104–297, §107(b)(1), substituted "paragraphs (2) and (5)" for "subsection (b)(2) of this section".
 
-Subsec. (b)(3). Pub. L. 104–297, §107(b)(1), (2), substituted "paragraphs (2) and (5)" for "subsection (b)(2) of this section" and "Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining the number of consecutive terms served by that Council member." for "Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member."
+Subsec. (b)(3). Pub. L. 104–297, §107(b)(1), (2), substituted "paragraphs (2) and (5)" for "subsection (b)(2) of this section" and "Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining thenumber of consecutive terms served by that Council member." for "Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member."
 
 Subsec. (b)(5), (6). Pub. L. 104–297, §107(b)(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: "The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with subsection (b)(2) of this section if the Council concerned first recommends removal by not less than two-thirds of the members who are voting members. A removal recommendation of a Council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based."
 

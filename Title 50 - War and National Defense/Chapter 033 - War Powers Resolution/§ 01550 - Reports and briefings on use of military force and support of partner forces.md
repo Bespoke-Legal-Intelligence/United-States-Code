@@ -12,7 +12,7 @@ The report required by subsection (a) shall include, with respect to the time pe
 
 &emsp;(2) An intelligence assessment of the risk to the United States posed by each such country or organization.
 
-&emsp;(3) A list of each country in which operations were conducted pursuant to such lawand a description of the circumstances necessitating the use of force pursuant to such law, including whether the country is designated as an area of active hostilities.
+&emsp;(3) A list of each country in which operations were conducted pursuant to such law and a description of the circumstances necessitating the use of force pursuant to such law, including whether the country is designated as an area of active hostilities.
 
 &emsp;(4) A general description of the status of operations conducted pursuant to such law as well as a description of the expected scope and duration of such operations.
 

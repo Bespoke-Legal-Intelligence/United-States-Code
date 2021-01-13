@@ -62,6 +62,8 @@ Reports.—The Chief Data Officer of an agency shall submit to the Committee on 
 
 (Added Pub. L. 107–198, §3(a)(2), June 28, 2002, 116 Stat. 730; amended Pub. L. 115–435, title II, §202(e)(1), Jan. 14, 2019, 132 Stat. 5541.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3520 was renumbered section 3521 of this title.
@@ -71,6 +73,8 @@ Another prior section 3520, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 St
 #### Amendments
 
 <b>2019</b>—Pub. L. 115–435 amended section generally. Prior to amendment, section related to establishment of task force on information collection and dissemination.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -44,7 +44,7 @@ Level of Air Transportation.—(1) If the Secretary designates a place under sub
 
 (d)
 
-Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decides is appropriate. The Secretary shall continue to pay compensation under this section only as long as—
+Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decidesis appropriate. The Secretary shall continue to pay compensation under this section only as long as—
 
 &emsp;(A) the air carrier maintains the level of air transportation established by the Secretary under subsection (c)(1) of this section;
 

@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) section 312 of the Housing Act of 1964 \[42 U.S.C. 1452b\], as it existed immediately before its repeal by section 289 of the Cranston-Gonzalez National Affordable Housing Act;
 
-&emsp;&emsp;(C) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as it existed immediatelybefore its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
+&emsp;&emsp;(C) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as it existed immediately before its amendment by section 801 of the Cranston-Gonzalez National Affordable Housing Act;
 
 &emsp;&emsp;(D) section 202 of the Housing Act of 1959 \[12 U.S.C. 1701q\], as amended by section 801 of the Cranston-Gonzalez National Affordable Housing Act; and
 
@@ -34,6 +34,8 @@ As used in this chapter—
 
 (Pub. L. 97–35, title III, §363, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, §517(b), Oct. 28, 1992, 106 Stat. 3792.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, §133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
@@ -45,6 +47,8 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 #### Amendments
 
 <b>1992</b>—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: " 'multifamily mortgage' means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

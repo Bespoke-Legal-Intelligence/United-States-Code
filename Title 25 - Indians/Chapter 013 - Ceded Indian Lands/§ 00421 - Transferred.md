@@ -1,5 +1,7 @@
 ### §421. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 421, act May 17, 1900, ch. 479, §1, 31 Stat. 179, which provided for free homesteads to settlers, commutation rights, and payments to Indians, was transferred to section 179 of Title 43, Public Lands.

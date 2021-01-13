@@ -34,7 +34,7 @@ The Director of the Institute shall, as appropriate, provide for the coordinatio
 
 #### (e) Facilities
 
-Each center assisted under subsection (a) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
+Each center assisted under subsection (a) shall use the facilities of a single institution, or beformed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
 
 #### (f) Period of support
 

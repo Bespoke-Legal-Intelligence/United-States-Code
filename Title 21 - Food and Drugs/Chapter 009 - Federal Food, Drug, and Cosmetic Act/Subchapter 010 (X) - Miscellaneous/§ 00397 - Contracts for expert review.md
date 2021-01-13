@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations to the Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
+&emsp;The Secretary may enter into a contract with any organization or any individual (who is not an employee of the Department) with relevant expertise, to review and evaluate, for the purpose of making recommendations tothe Secretary on, part or all of any application or submission (including a petition, notification, and any other similar form of request) made under this chapter for the approval or classification of an article or made under section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) with respect to a biological product. Any such contract shall be subject to the requirements of section 379 of this title relating to the confidentiality of information.
 
 #### (2) Increased efficiency and expertise through contracts
 
@@ -22,9 +22,13 @@
 
 (June 25, 1938, ch. 675, §1007, formerly §907, as added Pub. L. 105–115, title IV, §415, Nov. 21, 1997, 111 Stat. 2377; renumbered §1007, Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (b)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

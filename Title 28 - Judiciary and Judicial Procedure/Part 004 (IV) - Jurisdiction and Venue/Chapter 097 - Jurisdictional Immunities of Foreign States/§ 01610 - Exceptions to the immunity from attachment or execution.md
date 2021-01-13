@@ -18,7 +18,7 @@
 
 &emsp;(6) the judgment is based on an order confirming an arbitral award rendered against the foreign state, provided that attachment in aid of execution, or execution, would not be inconsistent with any provision in the arbitral agreement, or
 
-&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008), regardless of whether the property is or was involved with the act upon which the claim is based.
+&emsp;(7) the judgment relates to a claim for which the foreign state is not immune under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008), regardless of whether the property is or was involved with the act upon which the claim is based.
 
 (b) In addition to subsection (a), any property in the United States of an agency or instrumentality of a foreign state engaged in commercial activity in the United States shall not be immune from attachment in aid of execution, or from execution, upon a judgment entered by a court of the United States or of a State after the effective date of this Act, if—
 
@@ -82,6 +82,8 @@ Third-party joint property holders.—Nothing in this subsection shall be constr
 
 (Added Pub. L. 94–583, § 4(a), Oct. 21, 1976, 90 Stat. 2896; amended Pub. L. 100–640, §2, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §3, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(9), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(b), Apr. 24, 1996, 110 Stat. 1242; Pub. L. 105–277, div. A, §101(h) \[title I, §117(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–491; Pub. L. 106–386, div. C, §2002(g)(1), formerly §2002(f)(1), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(1), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337; Pub. L. 110–181, div. A, title X, §1083(b)(3), Jan. 28, 2008, 122 Stat. 341; Pub. L. 112–158, title V, §502(e)(1), Aug. 10, 2012, 126 Stat. 1260.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this Act, referred to in subsecs. (a) and (b), is 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as an Effective Date note under section 1602 of this title.
@@ -124,6 +126,8 @@ Subsec. (b)(2). Pub. L. 104–132, §221(b)(2), substituted "(5), or (7)," for "
 
 Subsec. (e). Pub. L. 100–640 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of this title.
@@ -158,7 +162,7 @@ Presidential Waiver.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), upon determining on an asset-by-asset basis that a waiver is necessary in the national security interest, the President may waive the requirements of subsection (a) inconnection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
+In general.—Subject to paragraph (2), upon determining on an asset-by-asset basis that a waiver is necessary in the national security interest, the President may waive the requirements of subsection (a) in connection with (and prior to the enforcement of) any judicial order directing attachment in aid of execution or execution against any property subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations.
 
 &emsp;"(2)
 
@@ -202,11 +206,13 @@ Terrorist party.—The term 'terrorist party' means a terrorist, a terrorist org
 
 #### Waiver of Exception to Immunity From Attachment or Execution
 
-Pub. L. 105–277, div. A, §101(h) \[title I, §117(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorized the President to waive the requirements of section 101(h) \[title I, §117\] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, §2002(g)(2), formerly §2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(2), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
+Pub. L. 105–277, div. A, §101(h) \[title I, §117(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492, which authorizedthe President to waive the requirements of section 101(h) \[title I, §117\] of Pub. L. 105–277, which amended this section and section 1606 of this title and enacted provisions set out as a note above, in the interest of national security, was repealed by Pub. L. 106–386, div. C, §2002(g)(2), formerly §2002(f)(2), Oct. 28, 2000, 114 Stat. 1543, renumbered §2002(g)(2), Pub. L. 107–297, title II, §201(c)(3), Nov. 26, 2002, 116 Stat. 2337.
 
-Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201, which provided for waiver of requirements of section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, relating to blocked property of terrorist-list states, was superseded by Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, set out below.
+#### <b>Executive Documents</b>
 
 #### Determination To Waive Attachment Provisions Relating to Blocked Property of Terrorist-List States
+
+Determination of President of the United States, No. 99–1, Oct. 21, 1998, 64 F.R. 59201, which provided for waiver of requirements of section 101(h) \[title I, §117(b)\] of div. A of Pub. L. 105–277, relating to blocked property of terrorist-list states, was superseded by Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, set out below.
 
 Determination of President of the United States, No. 2001–3, Oct. 28, 2000, 65 F.R. 66483, provided:
 

@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 811 of the Internal Revenue Code of 1939, referred to in subsec. (b)(6), was classified to section 811of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+Section 811 of the Internal Revenue Code of 1939, referred to in subsec. (b)(6), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
@@ -116,7 +116,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–295, §221(a)(74)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942, its value at the applicable valuation date prescribed by those sections,".
 
-Subsec. (b)(7), (8). Pub. L. 113–295, §221(a)(74)(B), struck out pars. (7) and (8). Prior to repeal, par. (7) related to property representing a surviving spouse's one-half share of community property held by the surviving spouse and a decedent dying after Oct. 21, 1942, and on or before Dec. 31, 1947, and par. (8) related to property representing certain interests of the survivor in a joint and survivor's annuity in the case of a decedent dying after Dec. 31, 1950, and before Jan. 1, 1954.
+Subsec. (b)(7), (8). Pub. L. 113–295, §221(a)(74)(B), struck out pars. (7) and (8). Prior to repeal, par. (7) related to property representing a surviving spouse's one-half share of community property held by the survivingspouse and a decedent dying after Oct. 21, 1942, and on or before Dec. 31, 1947, and par. (8) related to property representing certain interests of the survivor in a joint and survivor's annuity in the case of a decedent dying after Dec. 31, 1950, and before Jan. 1, 1954.
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–312 amended section to read as if amendment by Pub. L. 107–16, §541, had never been enacted. See 2001 Amendment note below. Prior to amendment, text of subsec. (f) read as follows: "This section shall not apply with respect to decedents dying after December 31, 2009."
 

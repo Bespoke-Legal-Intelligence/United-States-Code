@@ -4,7 +4,7 @@ The President is authorized to designate a sub-Saharan African country as an eli
 
 &emsp;(1) has established, or is making continual progress toward establishing—
 
-&emsp;&emsp;(A) a market-based economy that protects private property rights for men and women, incorporates an open rules-based trading system, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
+&emsp;&emsp;(A) a market-based economy that protects private property rights for men and women, incorporates an open rules-based tradingsystem, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
 
 &emsp;&emsp;(B) the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
 

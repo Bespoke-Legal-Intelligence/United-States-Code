@@ -64,7 +64,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 &emsp;(B) With respect to the resolution of the House with respect to such site—
 
-&emsp;&emsp;(i) the procedure with respect to that or other resolutions of the House with respectto such site shall be the same as if no resolution from the Senate with respect to such site had been received; but
+&emsp;&emsp;(i) the procedure with respect to that or other resolutions of the House with respect to such site shall be the same as if no resolution from the Senate with respect to such site had been received; but
 
 &emsp;&emsp;(ii) on any vote on final passage of a resolution of the House with respect to such site, a resolution from the Senate with respect to such site where the text is identical shall be automatically substituted for the resolution of the House.
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) prescribe criteria and resolve issues relating to the granting of national consultation rights under section 7113 of this title;
 
-&emsp;(D) prescribe criteria and resolve issues relating to determining compelling need for agency rules or regulations under section 7117(b) of this title;
+&emsp;(D) prescribe criteria and resolve issues relating to determining compelling need foragency rules or regulations under section 7117(b) of this title;
 
 &emsp;(E) resolves issues relating to the duty to bargain in good faith under section 7117(c) of this title;
 
@@ -61,6 +61,8 @@
 (i) In the exercise of the functions of the Authority under this title, the Authority may request from the Director of the Office of Personnel Management an advisory opinion concerning the proper interpretation of rules, regulations, or policy directives issued by the Office of Personnel Management in connection with any matter before the Authority.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1196.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

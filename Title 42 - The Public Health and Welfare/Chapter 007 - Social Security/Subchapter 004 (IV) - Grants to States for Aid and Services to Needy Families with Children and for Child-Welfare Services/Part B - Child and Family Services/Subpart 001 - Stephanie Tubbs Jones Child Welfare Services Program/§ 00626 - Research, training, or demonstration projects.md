@@ -26,7 +26,7 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 &emsp;&emsp;(A) to participate in training at a public or private nonprofit child welfare agency on a regular basis (as determined by the Secretary) for the period of the traineeship;
 
-&emsp;&emsp;(B) to be employed for a period of years equivalent to the period of the traineeship, in a public or private nonprofit child welfareagency in any State, within a period of time (determined by the Secretary in accordance with regulations) after completing the postsecondary education for which the traineeship was awarded;
+&emsp;&emsp;(B) to be employed for a period of years equivalent to the period of the traineeship, in a public or private nonprofit child welfare agency in any State, within a period of time (determined by the Secretary in accordance with regulations) after completing the postsecondary education for which the traineeship was awarded;
 
 &emsp;&emsp;(C) to furnish to the institution and the Secretary evidence of compliance with subparagraphs (A) and (B); and
 

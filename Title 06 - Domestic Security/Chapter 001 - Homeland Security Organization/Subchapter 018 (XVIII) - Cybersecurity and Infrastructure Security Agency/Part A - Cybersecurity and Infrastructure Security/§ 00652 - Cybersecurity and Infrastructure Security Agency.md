@@ -16,7 +16,27 @@
 
 &emsp;The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (in this part referred to as the "Director"), who shall report to the Secretary.
 
-#### (2) Reference
+#### (2) Qualifications
+
+#### (A) In general
+
+&emsp;&emsp;The Director shall be appointed from among individuals who have—
+
+&emsp;&emsp;&emsp;(i) extensive knowledge in at least two of the areas specified in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) not fewer than five years of demonstrated experience in efforts to foster coordination and collaboration between the Federal Government, the private sector, and other entities on issues related to cybersecurity, infrastructure security, or security risk management.
+
+#### (B) Specified areas
+
+&emsp;&emsp;The areas specified in this subparagraph are the following:
+
+&emsp;&emsp;&emsp;(i) Cybersecurity.
+
+&emsp;&emsp;&emsp;(ii) Infrastructure security.
+
+&emsp;&emsp;&emsp;(iii) Security risk management.
+
+#### (3) Reference
 
 &emsp;Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018, in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.
 
@@ -46,9 +66,15 @@ The Director shall—
 
 &emsp;(9) carry out emergency communications responsibilities, in accordance with subchapter XIII;
 
-&emsp;(10) carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate; and
+&emsp;(10) carry out cybersecurity, infrastructure security, and emergency communications stakeholder outreach and engagement and coordinate that outreach and engagement with critical infrastructure Sector-Specific Agencies, as appropriate;
 
-&emsp;(11) carry out such other duties and powers prescribed by law or delegated by the Secretary.
+&emsp;(11) <sup>1</sup> carry out the duties and authorities relating to the .gov internet domain, as described in section 665 of this title; <sup>2</sup> and <sup>3</sup>
+
+&emsp;(11) <sup>1</sup> appoint a Cybersecurity State Coordinator in each State, as described in section 665c of this title; <sup>2</sup> and <sup>3</sup>
+
+&emsp;(11) <sup>1</sup> provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security; and
+
+&emsp;(12) carry out such other duties and powers prescribed by law or delegated by the Secretary.
 
 #### (d) Deputy Director
 
@@ -88,7 +114,7 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 
 &emsp;&emsp;(I) To consult with State, local, tribal, and territorial government agencies and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
 
-&emsp;&emsp;(J) To ensure that any material received pursuant to this chapter is protected fromunauthorized disclosure and handled and used only for the performance of official duties.
+&emsp;&emsp;(J) To ensure that any material received pursuant to this chapter is protected from unauthorized disclosure and handled and used only for the performance of official duties.
 
 &emsp;&emsp;(K) To request additional information from other Federal Government agencies, State, local, tribal, and territorial government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.
 
@@ -103,6 +129,20 @@ There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructu
 &emsp;&emsp;(P) To carry out the functions of the national cybersecurity and communications integration center under section 659 of this title.
 
 &emsp;&emsp;(Q) To carry out the requirements of the Chemical Facility Anti-Terrorism Standards Program established under subchapter XVI and the secure handling of ammonium nitrate program established under part J of subchapter VIII, or any successor programs.
+
+&emsp;&emsp;(R) To encourage and build cybersecurity awareness and competency across the United States and to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department, including by—
+
+&emsp;&emsp;&emsp;(i) overseeing elementary and secondary cybersecurity education and awareness related programs at the Agency;
+
+&emsp;&emsp;&emsp;(ii) leading efforts to develop, attract, and retain the cybersecurity workforce necessary for the cybersecurity related missions of the Department;
+
+&emsp;&emsp;&emsp;(iii) encouraging and building cybersecurity awareness and competency across the United States; and
+
+&emsp;&emsp;&emsp;(iv) carrying out cybersecurity related workforce development activities, including through—
+
+&emsp;&emsp;&emsp;&emsp;(I) increasing the pipeline of future cybersecurity professionals through programs focused on elementary and secondary education, postsecondary education, and workforce development; and
+
+&emsp;&emsp;&emsp;&emsp;(II) building awareness of and competency in cybersecurity across the civilian Federal Government workforce.
 
 #### (2) Reallocation
 
@@ -196,9 +236,11 @@ The Agency shall be composed of the following divisions:
 
 #### (i) Savings
 
-Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
+Nothing in this subchapter may be construed as affecting in any manner the authority, existing on the day before November 16, 2018, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note; Public Law 114–94).
 
-(Pub. L. 107–296, title XXII, §2202, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4169.)
+(Pub. L. 107–296, title XXII, §2202, as added Pub. L. 115–278, §2(a), Nov. 16, 2018, 132 Stat. 4169; amended Pub. L. 116–260, div. U, title IX, §904(b)(1)(A), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 116–283, div. A, title XVII, §§1717(a)(1)(A), 1719(a), (b), div. H, title XC, §§9001(a), 9002(c)(2)(D), Jan. 1, 2021, 134 Stat. 4099, 4105, 4766, 4773.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -206,7 +248,45 @@ The Cybersecurity Act of 2015, referred to in subsec. (c)(3), is div. N of Pub. 
 
 This chapter, referred to in subsecs. (c)(7) and (e)(1)(J), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
+Section 665 of this title, referred to in subsec. (c)(11), was in the original "section 2215", and was translated as referring to the section 2215 of Pub. L. 107–296 added by section 904(b)(1)(B) of Pub. L. 116–260 relating to the .gov internet domain, to reflect the probable intent of Congress.
+
+Section 665c of this title, referred to in subsec. (c)(11), was in the original "section 2215", and was translated as referring to the section 2215 of Pub. L. 107–296 added by section 1717(a)(1)(A)(iii) of Pub. L. 116–283 relating to Cybersecurity State Coordinator, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2), (3). Pub. L. 116–283, §9001(a), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (c)(10). Pub. L. 116–283, §1719(b)(1), which directed amendment identical to amendment by Pub. L. 116–283, §1717(a)(1)(A)(i), could not be executed. See 2021 Amendment note below.
+
+Pub. L. 116–283, §1717(a)(1)(A)(i), which directed amendment of par. (10) by striking out "and" at end, could not be executed because the word "and" did not appear at end.
+
+Subsec. (c)(11). Pub. L. 116–283, §1719(b)(3), which directed the addition of par. (11) after par. (10), was executed by adding par. (11) relating to providing education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security, after par. (11) relating to appointing a Cybersecurity State Coordinator in each State and before par. (12), to reflect the probable intent of Congress.
+
+Pub. L. 116–283, §1717(a)(1)(A)(iii), which directed the addition of par. (11) after par. (10), was executed by adding par. (11) relating to appointing a Cybersecurity State Coordinator in each State, after par. (11) relating to the .gov internet domain and before par. (12), to reflect the probable intent of Congress.
+
+Subsec. (c)(12). Pub. L. 116–283, §1719(b)(2), which directed amendment identical to amendments by Pub. L. 116–260, §904(b)(1)(A)(ii) and Pub. L. 116–283, §1717(a)(1)(A)(ii), could not be executed. See 2020 and 2021 Amendment notes below.
+
+Pub. L. 116–283, §1717(a)(1)(A)(ii), which directed amendment identical to amendment by Pub. L. 116–260, §904(b)(1)(A)(ii), could not be executed. See 2020 Amendment note below.
+
+Subsec. (e)(1)(R). Pub. L. 116–283, §1719(a), added subpar. (R).
+
+Subsec. (i). Pub. L. 116–283, §9002(c)(2)(D), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
+
+<b>2020</b>—Subsec. (c)(11), (12). Pub. L. 116–260 added par. (11) relating to the .gov internet domain and redesignated former par. (11) as (12).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Construction of 2021 Amendment
+
+Amendment by section 1717(a)(1)(A) of Pub. L. 116–283 not to be construed to affect or otherwise modify the authority of Federal law enforcement agencies with respect to investigations relating to cybersecurity incidents, see section 1717(a)(4) of Pub. L. 116–283, set out as a note under section 665c of this title.
+
 #### Under Secretary Responsible for Overseeing Critical Infrastructure Protection, Cybersecurity and Related Programs Authorized To Serve as Director of Cybersecurity and Infrastructure Security
 
 Pub. L. 115–278, §2(b)(1), Nov. 16, 2018, 132 Stat. 4175, provided that: "The individual serving as the Under Secretary appointed pursuant to section 103(a)(1)(H) of the Homeland Security Act of 2002 (6 U.S.C. 113(a)(1)(H)) of the Department of Homeland Security on the day before the date of enactment of this Act \[Nov. 16, 2018\] may continue to serve as the Director of Cybersecurity and Infrastructure Security of the Department on and after such date."
+
+<i><sup>1</sup></i><i> So in original. Three pars. (11) have been enacted.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

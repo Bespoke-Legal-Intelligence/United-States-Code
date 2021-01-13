@@ -116,7 +116,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (B) Violation
 
-&emsp;&emsp;On the violation of a term or condition of a wetland reserve easement, the wetland reserve easement shall remain in force and the Secretary may require the owner to refund all or part of any payments received by the owner under the program, with interest on the payments as determined appropriate by the Secretary.
+&emsp;&emsp;On the violation of a term or condition of a wetland reserve easement, the wetland reserve easement shall remain in force and theSecretary may require the owner to refund all or part of any payments received by the owner under the program, with interest on the payments as determined appropriate by the Secretary.
 
 #### (C) Compatible uses
 
@@ -178,7 +178,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (ii) Easements valued at more than $500,000
 
-&emsp;&emsp;&emsp;For wetland reserve easements valued at more than $500,000, the Secretary may provide payments in at least 5, but not more than 10 annual payments, except that, ifthe Secretary determines it would further the purposes of the program, the Secretary may make a lump-sum payment for such an easement.
+&emsp;&emsp;&emsp;For wetland reserve easements valued at more than $500,000, the Secretary may provide payments in at least 5, but not more than 10 annual payments, except that, if the Secretary determines it would further the purposes of the program, the Secretary may make a lump-sum payment for such an easement.
 
 #### (c) Easement restoration
 

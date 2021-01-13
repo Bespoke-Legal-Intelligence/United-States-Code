@@ -100,6 +100,8 @@ The public safety agency, organization, or unit responsible for maintaining on f
 
 (Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, §2, Dec. 15, 2003, 117 Stat. 2649; Pub. L. 109–162, title XI, §1164(c)–(e), Jan. 5, 2006, 119 Stat. 3120, 3121; Pub. L. 112–239, div. A, title X, §1086(b)(1)(B), Jan. 2, 2013, 126 Stat. 1964.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12 of the Act of September 1, 1916, referred to in subsec. (f)(1), is section 12 of act Sept. 1, 1916, ch. 433, 39 Stat. 718, which is not classified to the Code.
@@ -118,9 +120,9 @@ Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1086(b)(1)(B)(i), substituted "follows (if the payee indicated is living on the date on which the determination is made)—" for "follows:" in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §1086(b)(1)(B)(i), substituted "follows (if the payee indicated is living on the date on which the determination is made)—" for"follows:" in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (6) which listed a succession of beneficiaries.
 
-Subsec. (b). Pub. L. 112–239, §1086(b)(1)(B)(ii), substituted "direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:" for "direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a)of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:", "That for the purposes" for "That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes", and "That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer." for "That these benefit payments are subject to the availability of appropriations and that each beneficiary's payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated."
+Subsec. (b). Pub. L. 112–239, §1086(b)(1)(B)(ii), substituted "direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay the same benefit to the public safety officer (if living on the date on which the determination is made) that is payable under subsection (a) of this section with respect to the date on which the catastrophic injury occurred, as adjusted in accordance with subsection (h) of this section:" for "direct result of a catastrophic injury sustained in the line of duty, the Bureau shall pay, to the extent that appropriations are provided, the same benefit in any year that is payable under subsection (a) of this section in such year, adjusted in accordance with subsection (h) of this section, to such officer:", "That for the purposes" for "That the total annual benefits paid under this subsection may not exceed $5,000,000. For the purposes", and "That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer." for "That these benefit payments are subject to the availability of appropriations and that each beneficiary's payment shall be reduced by a proportionate share to the extent that sufficient funds are not appropriated."
 
 Subsec. (f)(1). Pub. L. 112–239, §1086(b)(1)(B)(iii)(I), substituted semicolon at end for ", as amended (D.C. Code, sec. 4–622); or".
 
@@ -166,6 +168,8 @@ Subsec. (a)(4). Pub. L. 100–690, §6105(c), struck out "dependent" before "par
 
 Subsecs. (g), (h). Pub. L. 100–690, §6105(b), added subsecs. (g) and (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
@@ -193,4 +197,56 @@ Pub. L. 100–690, title VI, §6105(e), Nov. 18, 1988, 102 Stat. 4341, provided 
 #### Effective Date
 
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under section 10101 of this title.
+
+#### Safeguarding America's First Responders
+
+Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Safeguarding America's First Responders Act of 2020'.
+
+#### "SEC. 2. SENSE OF CONGRESS; PURPOSE.
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) an infectious disease pandemic known as COVID–19 exists;
+
+&emsp;"(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal;
+
+&emsp;"(3) services provided by public safety officers are nonetheless essential during this pandemic;
+
+&emsp;"(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and
+
+&emsp;"(5) although the Public Safety Officers' Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—
+
+&emsp;&emsp;"(A) definitive testing and medical records at this time; and
+
+&emsp;&emsp;"(B) a definitive uniform body of medical information about how the disease is spread or its effects.
+
+"(b)
+
+Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers' Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards.
+
+#### "SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.
+
+"(a)
+
+Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284)) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(a)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—
+
+&emsp;"(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021;
+
+&emsp;"(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and
+
+&emsp;"(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer's death.
+
+"(b)
+
+Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281(b)), sustained in the line of duty by the officer, if—
+
+&emsp;"(1) the officer engaged in a line of duty action or activity between January 1, 2020, and December 31, 2021; and
+
+&emsp;"(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer."
 

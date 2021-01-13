@@ -26,7 +26,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a)of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (c) Enforcement by Board
 
@@ -50,6 +50,8 @@ The authority of the Board to prescribe regulations under this chapter does not 
 
 (Pub. L. 100–86, title VI, §610, Aug. 10, 1987, 101 Stat. 649; Pub. L. 101–73, title VII, §744(d), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–242, title II, §212(h), Dec. 19, 1991, 105 Stat. 2303.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
@@ -64,9 +66,11 @@ Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out fo
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Board of Governors of the Federal Reserve System; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and section 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

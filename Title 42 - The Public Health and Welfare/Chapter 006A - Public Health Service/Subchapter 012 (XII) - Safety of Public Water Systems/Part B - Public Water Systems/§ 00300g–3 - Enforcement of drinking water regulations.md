@@ -140,7 +140,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
+&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violationswith respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
 
 #### (ii) Distribution
 
@@ -184,7 +184,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(vii) Identification of, if any—
 
-&emsp;&emsp;&emsp;&emsp;(I) exceedances described in paragraph (1)(D) for which corrective action has been required by the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) during themonitoring period covered by the consumer confidence report; and
+&emsp;&emsp;&emsp;&emsp;(I) exceedances described in paragraph (1)(D) for which corrective action has been required by the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) during the monitoring period covered by the consumer confidence report; and
 
 &emsp;&emsp;&emsp;&emsp;(II) violations that occurred during the monitoring period covered by the consumer confidence report.
 
@@ -244,7 +244,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (ii) Dissemination of information by owner or operator
 
-&emsp;&emsp;&emsp;The owner or operator of a public water system shall disseminate to affectedhouseholds the information described in subparagraph (C) within a time period established by the Administrator, if the owner or operator—
+&emsp;&emsp;&emsp;The owner or operator of a public water system shall disseminate to affected households the information described in subparagraph (C) within a time period established by the Administrator, if the owner or operator—
 
 &emsp;&emsp;&emsp;&emsp;(I) receives data and information under clause (i); and
 
@@ -252,7 +252,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) with respect to the concentration of lead in the drinking water of the affected households; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affected households exceeds the lead action level under section 141.80(c) of title 40, Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affectedhouseholds exceeds the lead action level under section 141.80(c) of title 40, Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
 
 #### (iii) Consultation
 
@@ -302,7 +302,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 &emsp;(1) the ways in which such system can within the earliest feasible time be brought into compliance with the regulation or requirement with respect to which such finding was made, and
 
-&emsp;(2) the means for the maximum feasible protection of the public health during any periodin which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
+&emsp;(2) the means for the maximum feasible protection of the public health during any period in which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
 
 > On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shall be made available to the public and communications media.
 
@@ -440,7 +440,7 @@ In this section, the term "applicable requirement" means—
 
 &emsp;In developing the strategic plan under paragraph (1), the Administrator may, as appropriate, consult with States or other Federal agencies that have experience using practicable methods and means to improve the accuracy and availability of submitted data described in such paragraph.
 
-(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636; Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722; Pub. L. 115–270, title II, §§2008–2010(a), 2011, Oct. 23, 2018, 132 Stat. 3846, 3847, 3849.)
+(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636;Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722; Pub. L. 115–270, title II, §§2008–2010(a), 2011, Oct. 23, 2018, 132 Stat. 3846, 3847, 3849.)
 
 #### Amendments
 
@@ -514,7 +514,7 @@ Subsec. (c). Pub. L. 104–182, §114(a), amended subsec. (c) generally. Prior t
 
 Subsec. (g)(1). Pub. L. 104–182, §113(a)(3)(A), substituted "applicable requirement" for "regulation, schedule, or other requirement" in two places.
 
-Subsec. (g)(2). Pub. L. 104–182, §113(a)(3)(B), substituted "effect, in the case" for "effect until after notice and opportunity for public hearing and, in thecase" and "regarding the order" for "regarding the proposed order" and struck out "proposed to be" after "A copy of any order".
+Subsec. (g)(2). Pub. L. 104–182, §113(a)(3)(B), substituted "effect, in the case" for "effect until after notice and opportunity for public hearing and, in the case" and "regarding the order" for "regarding the proposed order" and struck out "proposed to be" after "A copy of any order".
 
 Subsec. (g)(3)(B). Pub. L. 104–182, §113(a)(3)(C)(i), added subpar. (B) and struck out former subpar. (B) which read as follows: "Whenever any civil penalty sought by the Administrator under this paragraph does not exceed a total of $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with section 554 of title 5."
 

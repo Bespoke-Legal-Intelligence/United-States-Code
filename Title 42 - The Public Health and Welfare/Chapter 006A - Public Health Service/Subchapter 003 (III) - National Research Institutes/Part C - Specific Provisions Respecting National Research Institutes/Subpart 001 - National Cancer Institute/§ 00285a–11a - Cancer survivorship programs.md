@@ -72,5 +72,5 @@
 
 #### Codification
 
-Section was enacted as part of the Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2018, also known as the Childhood Cancer STAR Act, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Childhood Cancer Survivorship, Treatment, Access, and Research Act of 2018, also known as the Childhood Cancer STAR Act,and not as part of the Public Health Service Act which comprises this chapter.
 

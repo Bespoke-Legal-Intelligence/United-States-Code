@@ -120,7 +120,7 @@
 
 &emsp;(A) a description of the agency's needs;
 
-&emsp;(B) an identification of the statutory exception from the requirement to use competitive procedures and a demonstration, based on the proposed contractor's qualifications or the nature of the procurement, of the reasons for using that exception;
+&emsp;(B) an identification of the statutory exception from the requirement to use competitive procedures and a demonstration, based on theproposed contractor's qualifications or the nature of the procurement, of the reasons for using that exception;
 
 &emsp;(C) a determination that the anticipated cost will be fair and reasonable;
 
@@ -208,7 +208,41 @@
 
 (3) This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct.28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546; Pub. L. 111–350, §5(b)(12), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(v), 836(c)(2), Aug. 13, 2018, 132 Stat. 1847, 1864; Pub. L. 116–92, div. A, title IX, §902(39), title XVII, §1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–375, div. A, title VIII, §815, Oct. 28, 2004, 118 Stat. 2015; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title VIII, §844(b), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, \[div. A\], title VIII, §862(b), Oct. 14, 2008, 122 Stat. 4546; Pub. L. 111–350, §5(b)(12), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–91, div. A, title XVII, §1709(b)(2), Dec. 12, 2017, 131 Stat. 1809; Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(C)(v), 836(c)(2), Aug. 13, 2018, 132 Stat. 1847, 1864; Pub. L. 116–92, div. A, title IX, §902(39), title XVII, §1731(a)(37), Dec. 20, 2019, 133 Stat. 1547, 1814; Pub. L. 116–283, div. A, title XVIII, §1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4151, 4165–4170, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3201 of this title;</i>
+
+<i>(2) by transferring subsection (b) to section 3203(a) of this title;</i>
+
+<i>(3) by transferring subsection (c) to section 3204(a) of this title;</i>
+
+<i>(4) by transferring subsection (d) to section 3204(b) of this title;</i>
+
+<i>(5) by transferring subsection (e) to section 3204(d) of this title;</i>
+
+<i>(6) by transferring subsection (f) to section 3204(e) of this title;</i>
+
+<i>(7) by transferring subsection (g) to section 3205(a) of this title;</i>
+
+<i>(8) by transferring subsection (h) to section 3201(d) of this title;</i>
+
+<i>(9) by transferring subsection (i) to section 3204(g) of this title;</i>
+
+<i>(10) by transferring subsection (j) to section 3201(c) of this title;</i>
+
+<i>(11) by transferring subsection (k) to section 3201(e) of this title; and</i>
+
+<i>(12) by transferring subsection (l) to section 3204(f) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 Historical and Revision Notes<br>1956
 
@@ -316,6 +350,30 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(c)(2), redesignated subsec. (a) as section 3201 of this title.
+
+Subsec. (b). Pub. L. 116–283, §1811(d)(2), redesignated subsec. (b) as section 3203(a) of this title.
+
+Subsec. (c). Pub. L. 116–283, §1811(d)(3), redesignated subsec. (c) as section 3204(a) of this title.
+
+Subsec. (d). Pub. L. 116–283, §1811(d)(4), redesignated subsec. (d) as section 3204(b) of this title.
+
+Subsec. (e). Pub. L. 116–283, §1811(d)(5), redesignated subsec. (e) as section 3204(d) of this title.
+
+Subsec. (f). Pub. L. 116–283, §1811(d)(6), redesignated subsec. (f) as section 3204(e) of this title.
+
+Subsec. (g). Pub. L. 116–283, §1811(d)(9), redesignated subsec. (g) as section 3205(a) of this title.
+
+Subsec. (h). Pub. L. 116–283, §1811(c)(4), redesignated subsec. (h) as section 3201(d) of this title.
+
+Subsec. (i). Pub. L. 116–283, §1811(d)(8), redesignated subsec. (i) as section 3204(g) of this title.
+
+Subsec. (j). Pub. L. 116–283, §1811(c)(3), redesignated subsec. (j) as section 3201(c) of this title.
+
+Subsec. (k). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) as section 3201(e) of this title.
+
+Subsec. (l). Pub. L. 116–283, §1811(d)(7), redesignated subsec. (l) as section 3204(f) of this title.
+
 <b>2019</b>—Subsec. (f)(1)(B)(ii). Pub. L. 116–92, §1731(a)(37)(A), substituted "paragraph (5)(A)" for "paragraph (6)(A)".
 
 Subsec. (f)(1)(B)(iii). Pub. L. 116–92, §1731(a)(37)(B), substituted "paragraph (5)(B)" for "paragraph (6)(B)".
@@ -348,7 +406,7 @@ Subsec. (h)(1). Pub. L. 111–350, §5(b)(12)(E), substituted "Chapter 65 of tit
 
 <b>2008</b>—Subsec. (d)(3). Pub. L. 110–417 added par. (3).
 
-Subsec. (f)(4) to (6). Pub. L. 110–181, §844(b)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "The justification required by paragraph (1)(A) and any related information, and any document prepared pursuant to paragraph (2)(E), shall be made available for inspection by the public consistent with the provisions of section 552 of title 5."
+Subsec. (f)(4) to (6). Pub. L. 110–181, §844(b)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "Thejustification required by paragraph (1)(A) and any related information, and any document prepared pursuant to paragraph (2)(E), shall be made available for inspection by the public consistent with the provisions of section 552 of title 5."
 
 Subsec. (l). Pub. L. 110–181, §844(b)(1), added subsec. (l).
 
@@ -438,7 +496,7 @@ Subsec. (j)(3)(A). Pub. L. 102–25, §701(d)(2)(B), substituted "the small purc
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–510 substituted "the small purchase threshold" for "$25,000" in pars. (2) and (3) and added par. (5).
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–189, §853(d), substituted "The head of an agency" for "An executiveagency" and "concerns other than" for "other than" and inserted before period at end "and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)".
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–189, §853(d), substituted "The head of an agency" for "An executive agency" and "concerns other than" for "other than" and inserted before period at end "and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 1207 of the National Defense Authorization Act for Fiscal Year 1987 (10 U.S.C. 2301 note)".
 
 Subsec. (f)(1)(B)(iii). Pub. L. 101–189, §818(a)(1), (3), added cl. (iii). Former cl. (iii) redesignated (iv).
 
@@ -516,13 +574,21 @@ Subsec. (g). Pub. L. 93–356, §4(b), substituted "$10,000" for "$2,500".
 
 Subsec. (h). Pub. L. 90–268 added subsec. (h).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–653, §1(a), (b), provided that formal advertising be used where feasible andpracticable under existing conditions and circumstances, subjected the agency head to the requirements of section 2310 of this title before negotiating a contract where formal advertising is not feasible and practicable and, in par. (14), substituted "would be likely to result in additional cost to the Government by reason of duplication of investment or would result in duplication of necessary preparation which would unduly delay the procurement of the property;" for "and competitive bidding might require duplication of investment or preparation already made or would unduly delay the procurement of that property; or".
+<b>1962</b>—Subsec. (a). Pub. L. 87–653, §1(a), (b), provided that formal advertising be used where feasible and practicable under existing conditions and circumstances, subjected the agency head to the requirements of section 2310 of this title before negotiating a contract where formal advertising is not feasible and practicable and, in par. (14), substituted "would be likely to result in additional cost to the Government by reason of duplication of investment or would result in duplication of necessary preparation which would unduly delay the procurement of the property;" for "and competitive bidding might require duplication of investment or preparation already made or would unduly delay the procurement of that property; or".
 
 Subsec. (g). Pub. L. 87–653, §1(c), added subsec. (g).
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 included Commonwealths in cl. (6).
 
 Pub. L. 85–800 substituted "$2,500" for "$1,000" in cl. (3) and inserted "or nonperishable" in cl. (9).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -618,33 +684,7 @@ Report.—Not later than March 1, 2022, the Comptroller General of the United St
 
 #### Pilot Program on Payment of Costs for Denied Government Accountability Office Bid Protests
 
-Pub. L. 115–91, div. A, title VIII, §827, Dec. 12, 2017, 131 Stat. 1467, provided that:
-
-"(a)
-
-Pilot Program Required.—The Secretary of Defense shall carry out a pilot program to determine the effectiveness of requiring contractors to reimburse the Department of Defense for costs incurred in processing covered protests.
-
-"(b)
-
-Duration.—The pilot program shall—
-
-&emsp;"(1) begin on the date that is two years after the date of the enactment of this Act \[Dec. 12, 2017\]; and
-
-&emsp;"(2) end on the date that is five years after the date of the enactment of this Act.
-
-"(c)
-
-Report.—Not later than 90 days after the date on which the pilot program under subsection (a) ends, the Secretary shall provide a report to the Committees on Armed Services of the House of Representatives and the Senate assessing the feasibility of making permanent such pilot program.
-
-"(d)
-
-Covered Protest Defined.—In this section, the term 'covered protest' means a bid protest that was—
-
-&emsp;"(1) denied in an opinion issued by the Government Accountability Office;
-
-&emsp;"(2) filed by a party with revenues in excess of $250,000,000 (based on fiscal year 2017 constant dollars) during the previous year; and
-
-&emsp;"(3) filed on or after October 1, 2019 and on or before September 30, 2022."
+Pub. L. 115–91, div. A, title VIII, §827, Dec. 12, 2017, 131 Stat. 1467, which required the Secretary of Defense to carry out a pilot program to determine effectiveness of requiring contractors to reimburse Department of Defense for costs incurred in processing certain bid protests, was repealed by Pub. L. 116–283, div. A, title VIII, §886, Jan. 1, 2021, 134 Stat. 3791.
 
 #### Pilot Program for Streamlined Technology Transition From the SBIR and STTR Programs of the Department of Defense
 
@@ -760,143 +800,7 @@ Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, prov
 
 #### Requirements for Information Relating to Supply Chain Risk
 
-Pub. L. 111–383, div. A, title VIII, §806, Jan. 7, 2011, 124 Stat. 4260, as amended by Pub. L. 112–239, div. A, title VIII, §806, Jan. 2, 2013, 126 Stat. 1827; Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913; Pub. L. 116–92, div. A, title IX, §902(40), Dec. 20, 2019, 133 Stat. 1547, provided that:
-
-"(a)
-
-Authority.—Subject to subsection (b), the head of a covered agency may—
-
-&emsp;"(1) carry out a covered procurement action; and
-
-&emsp;"(2) limit, notwithstanding any other provision of law, in whole or in part, the disclosure of information relating to the basis for carrying out a covered procurement action.
-
-"(b)
-
-Determination and Notification.—The head of a covered agency may exercise the authority provided in subsection (a) only after—
-
-&emsp;"(1) obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\], that there is a significant supply chain risk to a covered system;
-
-&emsp;"(2) making a determination in writing, in unclassified or classified form, with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, that—
-
-&emsp;&emsp;"(A) use of the authority in subsection (a)(1) is necessary to protect national security by reducing supply chain risk;
-
-&emsp;&emsp;"(B) less intrusive measures are not reasonably available to reduce such supply chain risk; and
-
-&emsp;&emsp;"(C) in a case where the head of the covered agency plans to limit disclosure of information under subsection (a)(2), the risk to national security due to the disclosure of such information outweighs the risk due to not disclosing such information; and
-
-&emsp;"(3) providing a classified or unclassified notice of the determination made under paragraph (2) to the appropriate congressional committees, which notice shall include—
-
-&emsp;&emsp;"(A) the information required by section 2304(f)(3) of title 10, United States Code;
-
-&emsp;&emsp;"(B) the joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense as specified in paragraph (1);
-
-&emsp;&emsp;"(C) a summary of the risk assessment by the Under Secretary of Defense for Intelligence \[now Under Secretary of Defense for Intelligence and Security\] that serves as the basis for the joint recommendation specified in paragraph (1); and
-
-&emsp;&emsp;"(D) a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
-
-"(c)
-
-Delegation.—The head of a covered agency may not delegate the authority provided in subsection (a) or the responsibility to make a determination under subsection (b) to an official below the level of the service acquisition executive for the agency concerned.
-
-"(d)
-
-Limitation on Disclosure.—If the head of a covered agency has exercised the authority provided in subsection (a)(2) to limit disclosure of information—
-
-&emsp;"(1) no action undertaken by the agency head under such authority shall be subject to review in a bid protest before the Government Accountability Office or in any Federal court; and
-
-&emsp;"(2) the agency head shall—
-
-&emsp;&emsp;"(A) notify appropriate parties of a covered procurement action and the basis for such action only to the extent necessary to effectuate the covered procurement action;
-
-&emsp;&emsp;"(B) notify other Department of Defense components or other Federal agencies responsible for procurements that may be subject to the same or similar supply chain risk, in a manner and to the extent consistent with the requirements of national security; and
-
-&emsp;&emsp;"(C) ensure the confidentiality of any such notifications.
-
-"(e)
-
-Definitions.—In this section:
-
-&emsp;"(1)
-
-Head of a covered agency.—The term 'head of a covered agency' means each of the following:
-
-&emsp;&emsp;"(A) The Secretary of Defense.
-
-&emsp;&emsp;"(B) The Secretary of the Army.
-
-&emsp;&emsp;"(C) The Secretary of the Navy.
-
-&emsp;&emsp;"(D) The Secretary of the Air Force.
-
-&emsp;"(2)
-
-Covered procurement action.—The term 'covered procurement action' means any of the following actions, if the action takes place in the course of conducting a covered procurement:
-
-&emsp;&emsp;"(A) The exclusion of a source that fails to meet qualification standards established in accordance with the requirements of section 2319 of title 10, United States Code, for the purpose of reducing supply chain risk in the acquisition of covered systems.
-
-&emsp;&emsp;"(B) The exclusion of a source that fails to achieve an acceptable rating with regard to an evaluation factor providing for the consideration of supply chain risk in the evaluation of proposals for the award of a contract or the issuance of a task or delivery order.
-
-&emsp;&emsp;"(C) The decision to withhold consent for a contractor to subcontract with a particular source or to direct a contractor for a covered system to exclude a particular source from consideration for a subcontract under the contract.
-
-&emsp;"(3)
-
-Covered procurement.—The term 'covered procurement' means—
-
-&emsp;&emsp;"(A) a source selection for a covered system or a covered item of supply involving either a performance specification, as provided in section 2305(a)(1)(C)(ii) of title 10, United States Code, or an evaluation factor, as provided in section 2305(a)(2)(A) of such title, relating to supply chain risk;
-
-&emsp;&emsp;"(B) the consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 2304c(d)(3) of title 10, United States Code, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk; or
-
-&emsp;&emsp;"(C) any contract action involving a contract for a covered system or a covered item of supply where such contract includes a clause establishing requirements relating to supply chain risk.
-
-&emsp;"(4)
-
-Supply chain risk.—The term 'supply chain risk' means the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a covered system so as to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of such system.
-
-&emsp;"(5)
-
-Covered system.—The term 'covered system' means a national security system, as that term is defined in \[former\] section 3542(b) of title 44, United States Code \[see now 44 U.S.C. 3552(b)\].
-
-&emsp;"(6)
-
-Covered item of supply.—The term 'covered item of supply' means an item of information technology (as that term is defined in section 11101 of title 40, United States Code) that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system.
-
-&emsp;"(7)
-
-Appropriate congressional committees.—The term 'appropriate congressional committees' means—
-
-&emsp;&emsp;"(A) in the case of a covered system included in the National Intelligence Program or the Military Intelligence Program, the Select Committee on Intelligence of the Senate, the Permanent Select Committee on Intelligence of the House of Representatives, and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
-
-&emsp;&emsp;"(B) in the case of a covered system not otherwise included in subparagraph (A), the congressional defense committees.
-
-"(f)
-
-Effective Date.—The requirements of this section shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 7, 2011\] and shall apply to—
-
-&emsp;"(1) contracts that are awarded on or after such date; and
-
-&emsp;"(2) task and delivery orders that are issued on or after such date pursuant to contracts that are awarded before, on, or after such date.
-
-"\[(g) Repealed. Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913.\]
-
-"(h)
-
-Verification of Effective Implementation.—
-
-&emsp;"(1)
-
-Criteria and data collection to measure effectiveness.—The Secretary of Defense shall—
-
-&emsp;&emsp;"(A) establish criteria for measuring the effectiveness of the authority provided by this section; and
-
-&emsp;&emsp;"(B) collect data to evaluate the implementation of this section using such criteria.
-
-&emsp;"(2)
-
-Reports.—The Secretary shall submit to the appropriate congressional committees—
-
-&emsp;&emsp;"(A) not later than March 1, 2013, a report on the criteria established under paragraph (1)(A); and
-
-&emsp;&emsp;"(B) not later than January 1, 2017, a report on the effectiveness of the implementation of this section, based on data collected under paragraph (1)(B)."
+Pub. L. 111–383, div. A, title VIII, §806, Jan. 7, 2011, 124 Stat. 4260, as amended by Pub. L. 112–239, div. A, title VIII, §806, Jan. 2, 2013, 126 Stat. 1827; Pub. L. 115–232, div. A, title VIII, §881(b), Aug. 13, 2018, 132 Stat. 1913; Pub. L. 116–92, div. A, title IX, §902(40), Dec. 20, 2019, 133 Stat. 1547, which provided procedures to be followed by head of agency for reducing supply chain risk in acquisition of national security systems and authorized limits to disclosure of information, was repealed by Pub. L. 116–283, div. A, title VIII, §843(b), Jan. 1, 2021, 134 Stat. 3766.
 
 #### Publication of Notification of Bundling of Contracts of the Department of Defense
 
@@ -942,7 +846,7 @@ Secretary of Defense Report.—Not later than 120 days after the date of the ena
 
 &emsp;"(2) An assessment of plans for small arms research, development, and acquisition programs to meet the requirements identified under paragraph (1).
 
-&emsp;"(3) An assessment of capabilities, capacities, and risks in the small arms industrial base of the United States to meet the requirements of the Department of Defense for pistols, carbines, rifles, and light, medium, and heavy machine guns during the 20 years following the date of the report.
+&emsp;"(3) An assessment of capabilities, capacities, and risks in the small arms industrial base of the UnitedStates to meet the requirements of the Department of Defense for pistols, carbines, rifles, and light, medium, and heavy machine guns during the 20 years following the date of the report.
 
 &emsp;"(4) An assessment of the costs, benefits, and risks of full and open competition for the procurement of non-developmental pistols and carbines that are not technically compatible with the M9 pistol or M4 carbine to meet the requirements identified under paragraph (1).
 
@@ -1056,7 +960,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §804(a)–(c), Oct. 14, 2008, 122 St
 
 "(a)
 
-Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specified in subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) \[set out below\] for purposes of such section.
+Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specifiedin subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) \[set out below\] for purposes of such section.
 
 "(b)
 
@@ -1082,7 +986,7 @@ Definition of Covered Non-Defense Agency.—In this section, the term 'covered n
 
 &emsp;"(2) The Department of Energy."
 
-Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, \[div. A\], title VIII, §804(d), Oct. 14, 2008, 122 Stat. 4519; Pub. L. 111–84, div. A, title VIII, §806, Oct. 28, 2009, 123 Stat. 2404; Pub. L. 112–81, div. A, title VIII, §817, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 112–239, div. A, title VIII, §§801, 805, Jan. 2, 2013, 126 Stat. 1824, 1826; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(42), Dec. 20, 2019, 133 Stat. 1547, provided that:
+Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, \[div. A\], title VIII, §804(d), Oct. 14, 2008, 122 Stat. 4519; Pub. L. 111–84, div. A, title VIII, §806, Oct. 28, 2009, 123 Stat. 2404; Pub. L. 112–81, div. A, title VIII, §817, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 112–239, div. A, title VIII, §§801, 805, Jan. 2, 2013, 126 Stat. 1824, 1826; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(42), Dec. 20, 2019, 133 Stat. 1547; Pub. L. 116–283, div. A, title XVIII, §1806(e)(5), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 "(a)
 
@@ -1134,7 +1038,7 @@ Limitation on Procurements on Behalf of Department of Defense.—
 
 &emsp;&emsp;&emsp;"(ii) a procurement by a covered non-defense agency in a fiscal year following the Inspectors General review and determination provided for under subsection (a), the Inspectors General have determined that a covered non-defense agency is compliant with applicable procurement requirements or have terminated a prior determination of non-compliance in accordance with subsection (a)(4); and
 
-&emsp;&emsp;"(C) the procurement is not otherwise prohibited by section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law109–364) or section 811 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[see notes below\].
+&emsp;&emsp;"(C) the procurement is not otherwise prohibited by section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) or section 811 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) \[see notes below\].
 
 &emsp;"(2)
 
@@ -1146,7 +1050,7 @@ In general.—The limitation in paragraph (1) shall not apply to the procurement
 
 &emsp;&emsp;"(B)
 
-Scope of particular exception.—A written determination with respect to a non-defense agency under subparagraph (A) shall apply to any category of procurements through the non-defense agency that is specified in the determination.
+Scope of particular exception.—A written determination with respect to a non-defense agencyunder subparagraph (A) shall apply to any category of procurements through the non-defense agency that is specified in the determination.
 
 &emsp;"(3)
 
@@ -1248,6 +1152,8 @@ Direct acquisition.—The term 'direct acquisition', with respect to the Departm
 
 Assisted acquisition.—The term 'assisted acquisition', with respect to the Department of Defense, means the type of interagency contracting through which acquisition officials of a non-defense agency award a contract or task or delivery order for the procurement of goods or services on behalf of the Department of Defense."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(5), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 801(f)(4) of Pub. L. 110–181, set out above, is amended by substituting "section 3015(a)" for "section 2302(7)".\]</i>
+
 Pub. L. 109–364, div. A, title VIII, §817, Oct. 17, 2006, 120 Stat. 2326, as amended by Pub. L. 116–92, div. A, title IX, §902(43), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 "(a)
@@ -1260,7 +1166,7 @@ In general.—For each covered non-defense agency, the Inspector General of the 
 
 &emsp;&emsp;"(A) review—
 
-&emsp;&emsp;&emsp;"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such non-defense agency; and
+&emsp;&emsp;&emsp;"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property andservices on behalf of the Department by such non-defense agency; and
 
 &emsp;&emsp;&emsp;"(ii) the administration of those policies, procedures, and internal controls; and
 
@@ -1466,7 +1372,7 @@ Definitions.—In this section:
 
 #### Panel on Contracting Integrity
 
-Pub. L. 109–364, div. A, title VIII, §813, Oct. 17, 2006, 120 Stat. 2320, as amended by Pub. L. 111–23, title II, §207(d), May 22, 2009, 123 Stat. 1730, which established the Panel on Contracting Integrity and its composition and duties, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(12), Aug. 13, 2018, 132 Stat. 1848.
+Pub. L. 109–364, div. A, title VIII, §813, Oct. 17, 2006, 120 Stat. 2320, as amended by Pub. L. 111–23, title II,§207(d), May 22, 2009, 123 Stat. 1730, which established the Panel on Contracting Integrity and its composition and duties, was repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(12), Aug. 13, 2018, 132 Stat. 1848.
 
 #### Employment of State Residents in States Having Unemployment Rate in Excess of National Average
 
@@ -1694,7 +1600,7 @@ Effective Date.—This section shall take effect six months after the date of th
 
 #### Deadline for Prescribing Regulations
 
-Pub. L. 99–500, §101(c) \[title X, §927(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 100 Stat. 1783–156, Pub. L. 99–591, §101(c) \[title X, §927(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, div. A, title IX, formerly title IV, §927(b), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which set a deadline for prescribing the regulations required by subsec. (i) of this section, were repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(14), Aug. 13, 2018, 132 Stat. 1848.
+Pub. L. 99–500, §101(c) \[title X, §927(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 100 Stat. 1783–156, Pub. L. 99–591, §101(c) \[title X, §927(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, div. A, title IX, formerlytitle IV, §927(b), Nov. 14, 1986, 100 Stat. 3935, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, which set a deadline for prescribing the regulations required by subsec. (i) of this section, were repealed by Pub. L. 115–232, div. A, title VIII, §812(b)(14), Aug. 13, 2018, 132 Stat. 1848.
 
 #### One-Year Security-Guard Prohibition
 
@@ -1808,11 +1714,11 @@ Similar provisions for fiscal year 1980 were contained in Pub. L. 96–107, titl
 
 #### Contract Claims; Request for Equitable Adjustment; Request for Relief; Certification
 
-Pub. L. 95–485, title VIII, §813, Oct. 20, 1978, 92 Stat. 1624, which prohibited payment of a contract claim, request for equitable adjustment, or request for reliefwhich exceeded $100,000 unless a senior company official certified that request was made in good faith and that supporting data was accurate and complete, was repealed and restated in section 2410 of this title by Pub. L. 100–370, §1(h)(2), (p)(4), July 19, 1988, 102 Stat. 847, 851.
+Pub. L. 95–485, title VIII, §813, Oct. 20, 1978, 92 Stat. 1624, which prohibited payment of a contract claim, request for equitable adjustment, or request for relief which exceeded $100,000 unless a senior company official certified that request was made in good faith and that supporting data was accurate and complete, was repealed and restated in section 2410 of this title by Pub. L. 100–370, §1(h)(2), (p)(4), July 19, 1988, 102 Stat. 847, 851.
 
 #### Report to Congress by Secretary of Defense; Changes in Policy or Regulations Concerning Use of Private Contractors for Commercial or Industrial Type Function at Department of Defense Installations; Restrictions
 
-Pub. L. 95–485, title VIII, §814, Oct. 20, 1978, 92 Stat. 1625, directed the Secretary of Defense to report to the House and Senate Committees on Armed Services any proposed change in policy or regulations from those in effect before June 30, 1976, as to whether commercial or industrial functions at Defense Department installations in the United States, Puerto Rico, and Guam should be performed by Department of Defense personnel or by private contractors during the period Oct. 1, 1978 to Sept. 30, 1979; prohibited such functions to be performed privately unless such contractor performance began before Oct. 20, 1978 or performance would have been allowed by policy and regulations in effect before June 30, 1976; and provided that such prohibition would apply until the end of the 60 day period beginning on the date the report by the Secretary of Defense is received by the House and Senate Committees.
+Pub. L. 95–485, title VIII, §814, Oct. 20, 1978, 92 Stat. 1625, directed the Secretary of Defense to report to theHouse and Senate Committees on Armed Services any proposed change in policy or regulations from those in effect before June 30, 1976, as to whether commercial or industrial functions at Defense Department installations in the United States, Puerto Rico, and Guam should be performed by Department of Defense personnel or by private contractors during the period Oct. 1, 1978 to Sept. 30, 1979; prohibited such functions to be performed privately unless such contractor performance began before Oct. 20, 1978 or performance would have been allowed by policy and regulations in effect before June 30, 1976; and provided that such prohibition would apply until the end of the 60 day period beginning on the date the report by the Secretary of Defense is received by the House and Senate Committees.
 
 #### Reporting Requirements for Secretary of Defense and Prime Contractors Concerning Payments by Prime Contractors for Work Performed by Subcontractors
 

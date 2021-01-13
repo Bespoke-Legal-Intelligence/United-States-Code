@@ -10,7 +10,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (1) Leadership
 
-&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal publichealth and medical preparedness and response for public health emergencies.
+&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal public health and medical preparedness and response for public health emergencies.
 
 #### (2) Personnel
 
@@ -68,7 +68,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (5) Logistics
 
-&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial publichealth officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
+&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
 
 #### (6) Leadership
 
@@ -76,7 +76,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (7) Countermeasures budget plan
 
-&emsp;Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
+&emsp;Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of thistitle) for each such threat. Each such plan shall—
 
 &emsp;&emsp;(A) include consideration of the entire medical countermeasures enterprise, including—
 
@@ -242,8 +242,6 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The National Emergencies Act, referred to in subsec. (b)(5), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-Section 301 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(1)(A), is section 301 of Pub. L. 109–417, title III, Dec. 19, 2006, 120 Stat.2853, which amended sections 247d–6 and 300hh–11 of this title and sections 313 and 314 of Title 6, Domestic Security, and enacted provisions set out as notes under section 300hh–11 of this title and section 313 of Title 6.
-
 The Consolidated Appropriations Act, 2018, referred to in subsec. (f)(2)(C), is Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 348. Title II of division H of the Act is title II of div. H of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 714, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
@@ -304,7 +302,7 @@ References.—Any reference in any Federal law, Executive order, rule, regulatio
 
 #### Interagency Coordination Plan
 
-Pub. L. 113–5, title I, §102(b), Mar. 13, 2013, 127 Stat. 168, provided that: "In the first Public Health Emergency \[Medical\] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act (42 U.S.C. 300hh–10) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Healthand Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
+Pub. L. 113–5, title I, §102(b), Mar. 13, 2013, 127 Stat. 168, provided that: "In the first Public Health Emergency \[Medical\] Countermeasures Enterprise Strategy and Implementation Plan submitted under subsection (d) of section 2811 of the Public Health Service Act (42 U.S.C. 300hh–10) (as added by subsection (a)(3)), the Secretary of Health and Human Services, in consultation with the Secretary of Defense, shall include a description of the manner in which the Department of Health and Human Services is coordinating with the Department of Defense regarding countermeasure activities to address chemical, biological, radiological, and nuclear threats. Such report shall include information with respect to—
 
 &emsp;"(1) the research, advanced research, development, procurement, stockpiling, and distribution of countermeasures to meet identified needs; and
 

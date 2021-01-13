@@ -18,7 +18,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;Under regulations prescribed by the Secretary—
 
-&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the property to the partnership and its fair market value at the time of contribution,
+&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the propertyto the partnership and its fair market value at the time of contribution,
 
 &emsp;&emsp;(B) if any property so contributed is distributed (directly or indirectly) by the partnership (other than to the contributing partner) within 7 years of being contributed—
 
@@ -52,7 +52,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (3) Other rules
 
-&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of paragraph (1) shall apply to contributions by a partner (using the cash receipts and disbursementsmethod of accounting) of accounts payable and other accrued but unpaid items. Any reference in paragraph (1) or (2) to the contributing partner shall be treated as including a reference to any successor of such partner.
+&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of paragraph (1) shall apply to contributions by a partner (using the cash receipts and disbursements method of accounting) of accounts payable and other accrued but unpaid items. Any reference in paragraph (1) or (2) to the contributing partner shall be treated as including a reference to any successor of such partner.
 
 #### (d) Limitation on allowance of losses
 
@@ -82,7 +82,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (2) Purchase of interest by member of family
 
-&emsp;For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The "family" of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.
+&emsp;For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The "family" of any individual shall include only his spouse, ancestors,and lineal descendants, and any trusts for the primary benefit of such persons.
 
 #### (f) Cross reference
 
@@ -144,7 +144,7 @@ Binding contracts.—The amendment made by subsection (a) shall not apply to any
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendments made by this section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992."
+Pub. L. 102–486, title XIX, §1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendments made bythis section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992."
 
 #### Effective Date of 1989 Amendment
 

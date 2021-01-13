@@ -10,7 +10,7 @@ In order to minimize losses and damages resulting from drought conditions, the S
 
 #### (c) Water purchases by Bureau
 
-In order to minimize losses and damages resulting from drought conditions, the Secretary may purchase water from willing sellers, including, but not limited to, water made available by Federal Reclamation project contractors through conservation or other means with respect to which the seller has reduced the consumption of water. Except with respect to water stored, conveyed or delivered to Federal and State wildlife habitat, the Secretary shall deliver such water pursuant to temporary contracts under section 2212 of this title: <i>Provided</i>, That any such contract shall require recovery of any costs, including interest if applicable, incurred by the Secretary in acquiring such water.
+In order to minimize losses and damages resulting from drought conditions, the Secretary may purchase water from willing sellers, including, but not limited to, water made available by Federal Reclamation project contractors through conservation or other means with respect to which the seller has reduced the consumption of water. Except with respect to water stored, conveyed or delivered to Federal and State wildlife habitat, the Secretary shall deliver such water pursuant to temporary contracts under section 2212 of this title: <i>Provided</i>, That any such contract shall require recovery ofany costs, including interest if applicable, incurred by the Secretary in acquiring such water.
 
 #### (d) Water banks
 
@@ -18,9 +18,13 @@ In order to respond to a drought, the Secretary is authorized to participate in 
 
 (Pub. L. 102–250, title I, §101, Mar. 5, 1992, 106 Stat. 53.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Bureau, referred to in heading for subsec. (c), probably means the Bureau of Reclamation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Authorities
 

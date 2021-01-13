@@ -32,6 +32,8 @@ Historical and Revision Notes
 
 Section 3309 provides for the issuance of a certificate of inspection that attests to the fact that the vessel has been found to be in compliance with the applicable maritime safety laws and regulations. Under this provision the Coast Guard can issue a temporary certificate of inspection upon compliance with the applicable laws or regulations to facilitate the preparation, processing, and forwarding of the regular certificate of inspection to the vessel. A temporary certificate does not imply less than satisfactory compliance.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–281 added subsec. (d).
@@ -39,6 +41,8 @@ Section 3309 provides for the issuance of a certificate of inspection that attes
 <b>1996</b>—Subsec. (c). Pub. L. 104–324 struck out "(but not more than 60 days)" after "30 days" in introductory provisions.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–498 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

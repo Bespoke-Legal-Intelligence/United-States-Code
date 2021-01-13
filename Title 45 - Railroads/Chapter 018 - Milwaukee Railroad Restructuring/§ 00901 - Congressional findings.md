@@ -22,9 +22,13 @@
 
 (Pub. L. 96–101, §2, Nov. 4, 1979, 93 Stat. 736.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, 821, and 825 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1983 Amendment
 

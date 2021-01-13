@@ -18,6 +18,8 @@ This accords with the recommendation of United States Attorney P. F. Herrick of 
 
 Language as to order of trial was omitted and incorporated in section 3435 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".

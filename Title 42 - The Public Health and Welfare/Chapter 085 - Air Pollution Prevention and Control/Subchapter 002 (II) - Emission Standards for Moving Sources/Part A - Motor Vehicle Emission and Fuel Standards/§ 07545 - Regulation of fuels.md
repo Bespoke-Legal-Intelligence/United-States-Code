@@ -112,7 +112,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;(I) limit or otherwise affect the application of any other waiver authority of the Administrator pursuant to this section or pursuant to a regulation promulgated pursuant to this section; and
 
-&emsp;(II) subject any State or person to an enforcement action, penalties, or liability solelyarising from actions taken pursuant to the issuance of a waiver under this subparagraph.
+&emsp;(II) subject any State or person to an enforcement action, penalties, or liability solely arising from actions taken pursuant to the issuance of a waiver under this subparagraph.
 
 (v)(I) <sup>3</sup> The Administrator shall have no authority, when considering a State implementation plan or a State implementation plan revision, to approve under this paragraph any fuel included in such plan or revision if the effect of such approval increases the total number of fuels approved under this paragraph as of September 1, 2004, in all State implementation plans.
 
@@ -150,7 +150,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;(A) prior to registration, in the case of any fuel or fuel additive which is not registered on the date of promulgation of such regulations; or
 
-&emsp;(B) not later than three years after the date of promulgation of such regulations, in thecase of any fuel or fuel additive which is registered on such date.
+&emsp;(B) not later than three years after the date of promulgation of such regulations, in the case of any fuel or fuel additive which is registered on such date.
 
 (3) In promulgating such regulations, the Administrator may—
 
@@ -164,7 +164,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 (1)(A) Effective upon March 31, 1977, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for general use in light duty motor vehicles manufactured after model year 1974 which is not substantially similar to any fuel or fuel additive utilized in the certification of any model year 1975, or subsequent model year, vehicle or engine under section 7525 of this title.
 
-(B) Effective upon November 15, 1990, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for use by any person in motor vehicles manufactured after model year 1974 which is not substantially similar to any fuel or fuel additive utilized in the certification of any model year 1975, or subsequent model year, vehicle or engine under section 7525 of this title.
+(B) Effective upon November 15, 1990, it shall be unlawful for any manufacturer of any fuel or fuel additive to first introduce into commerce, or to increase the concentration in use of, any fuel or fuel additive for use by any person in motor vehicles manufactured after model year 1974 which is not substantially similar to any fuel or fuel additive utilized in the certification of any model year 1975, or subsequent modelyear, vehicle or engine under section 7525 of this title.
 
 (2) Effective November 30, 1977, it shall be unlawful for any manufacturer of any fuel to introduce into commerce any gasoline which contains a concentration of manganese in excess of .0625 grams per gallon of fuel, except as otherwise provided pursuant to a waiver under paragraph (4).
 
@@ -308,7 +308,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (II) Effect of failure to maintain aggregate toxics reductions
 
-&emsp;&emsp;&emsp;&emsp;If, in any calendar year, the reduction of the average annual aggregate emissions of toxic air pollutants in a PADD fails to meet or exceed the reduction of the average annual aggregate emissions of toxic air pollutants in the PADD in calendar years 2001 and 2002, the Administrator, not later than 90 days after the date of publication of the report for the calendar year under subclause (I), shall—
+&emsp;&emsp;&emsp;&emsp;If, in any calendar year, the reduction of the average annual aggregate emissions of toxic air pollutants in a PADD fails to meet or exceed the reduction ofthe average annual aggregate emissions of toxic air pollutants in the PADD in calendar years 2001 and 2002, the Administrator, not later than 90 days after the date of publication of the report for the calendar year under subclause (I), shall—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) identify, to the maximum extent practicable, the reasons for the failure, including the sources, volumes, and characteristics of reformulated gasoline that contributed to the failure; and
 
@@ -358,7 +358,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (i) VOC emissions
 
-&emsp;&emsp;&emsp;During the high ozone season (as defined by the Administrator), the aggregate emissions of ozone forming volatile organic compounds from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of ozone forming volatile organic compounds from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator may adjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, considering the cost of achieving such reductions in VOC emissions. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when using baseline gasoline. The reductions required under this clause shall be on a mass basis.
+&emsp;&emsp;&emsp;During the high ozone season (as defined by the Administrator), the aggregate emissions of ozone forming volatile organic compounds from baseline vehicles when using the reformulated gasoline shall be 15 percent below the aggregate emissions of ozone forming volatile organic compounds from such vehicles when using baseline gasoline. Effective in calendar year 2000 and thereafter, 25 percent shall be substituted for 15 percent in applying this clause, except that the Administrator may adjust such 25 percent requirement to provide for a lesser or greater reduction based on technological feasibility, considering the cost of achieving such reductions in VOC emissions. No such adjustment shall provide for less than a 20 percent reduction below the aggregate emissions of such air pollutants from such vehicles when usingbaseline gasoline. The reductions required under this clause shall be on a mass basis.
 
 #### (ii) Toxics
 
@@ -404,7 +404,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 #### (ii) Effect of insufficient domestic capacity to produce reformulated gasoline
 
-&emsp;&emsp;&emsp;If the Administrator determines, on the Administrator's own motion or on petition of any person, after consultation with the Secretary of Energy, that there is insufficient domestic capacity to produce gasoline certified under this subsection, the Administrator shall, by rule, extend the effective date of such prohibition in Marginal, Moderate, Serious, or Severe Areas referred to in clause (i) for one additional year, and may, by rule, renew such extension for 2 additional one-year periods. The Administrator shall act on any petition submitted under this subparagraph within 6 months after receipt of the petition. The Administrator shall issue such extensions for areas with a lower ozone classification before issuing any such extension for areas with a higher classification.
+&emsp;&emsp;&emsp;If the Administrator determines, on the Administrator's own motion or on petition of any person, after consultation with the Secretary of Energy, that there is insufficient domestic capacity to produce gasoline certified under this subsection, the Administrator shall, by rule, extend the effective date of such prohibition in Marginal, Moderate, Serious, or Severe Areas referred to in clause (i) for one additional year, and may, by rule, renew such extension for 2 additional one-year periods. The Administrator shall act on any petition submitted under this subparagraph within 6 months after receipt of the petition. The Administrator shall issue such extensionsfor areas with a lower ozone classification before issuing any such extension for areas with a higher classification.
 
 #### (B) Ozone transport region
 
@@ -454,7 +454,7 @@ Contracts for study.—In carrying out this paragraph, the Administrator may ent
 
 &emsp;&emsp;(i) An average gasoline aromatic hydrocarbon content (by volume) for the nonattainment (taking into account all gasoline sold for use in conventional gasoline-fueled vehicles in the nonattainment area) higher than the average fuel aromatic hydrocarbon content (by volume) that would occur in the absence of using any such credits.
 
-&emsp;&emsp;(ii) An average benzene content (by volume) for the nonattainment area (takinginto account all gasoline sold for use in conventional gasoline-fueled vehicles in the nonattainment area) higher than the average benzene content (by volume) that would occur in the absence of using any such credits.
+&emsp;&emsp;(ii) An average benzene content (by volume) for the nonattainment area (taking into account all gasoline sold for use in conventional gasoline-fueled vehicles in the nonattainment area) higher than the average benzene content (by volume) that would occur in the absence of using any such credits.
 
 #### (8) Anti-dumping rules
 
@@ -576,7 +576,7 @@ Effective beginning January 1, 1995, no person may sell or dispense to an ultima
 
 &emsp;(ii) If the Administrator determines, in response to a petition under clause (i), that there is an inadequate supply or capacity described in clause (i), the Administrator shall delay the effective date of paragraph (2) for 1 year. Upon petition, the Administrator may extend such effective date for one additional year. No partial delay or lesser waiver may be granted under this clause.
 
-&emsp;(iii) In granting waivers under this subparagraph the Administrator shall consider distribution capacity separately from the adequacy of domestic supply and shall grant such waivers in such manner as will assure that, if supplies of oxygenated gasoline are limited,areas having the highest design value for carbon monoxide will have a priority in obtaining oxygenated gasoline which meets the requirements of paragraph (2).
+&emsp;(iii) In granting waivers under this subparagraph the Administrator shall consider distribution capacity separately from the adequacy of domestic supply and shall grant such waivers in such manner as will assure that, if supplies of oxygenated gasoline are limited, areas having the highest design value for carbon monoxide will have a priority in obtaining oxygenated gasoline which meets the requirements of paragraph (2).
 
 &emsp;(iv) As used in this subparagraph, the term distribution capacity includes capacity for transportation, storage, and blending.
 
@@ -662,7 +662,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 &emsp;&emsp;The term "renewable biomass" means each of the following:
 
-&emsp;&emsp;&emsp;(i) Planted crops and crop residue harvested from agricultural land cleared or cultivated at any time prior to December 19, 2007, that is either actively managed or fallow, and nonforested.
+&emsp;&emsp;&emsp;(i) Planted crops and crop residue harvested from agricultural land cleared or cultivated at any time prior to December19, 2007, that is either actively managed or fallow, and nonforested.
 
 &emsp;&emsp;&emsp;(ii) Planted trees and tree residue from actively managed tree plantations on non-federal <sup>10</sup> land cleared at any time prior to December 19, 2007, including land belonging to an Indian tribe or an Indian individual, that is held in trust by the United States or subject to a restriction against alienation imposed by the United States.
 
@@ -886,7 +886,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (B) Amount of adjustment
 
-&emsp;&emsp;In promulgating regulations under this paragraph, the specified 50 percent reductionin greenhouse gas emissions from advanced biofuel and in biomass-based diesel may not be reduced below 40 percent. The specified 20 percent reduction in greenhouse gas emissions from renewable fuel may not be reduced below 10 percent, and the specified 60 percent reduction in greenhouse gas emissions from cellulosic biofuel may not be reduced below 50 percent.
+&emsp;&emsp;In promulgating regulations under this paragraph, the specified 50 percent reduction in greenhouse gas emissions from advanced biofuel and in biomass-based diesel may not be reduced below 40 percent. The specified 20 percent reduction in greenhouse gas emissions from renewable fuel may not be reduced below 10 percent, and the specified 60 percent reduction in greenhouse gas emissions from cellulosic biofuel may not be reduced below 50 percent.
 
 #### (C) Adjusted reduction levels
 
@@ -1102,7 +1102,7 @@ After December 31, 1995, it shall be unlawful for any person to sell, offer for 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 180 days after August 8, 2005, and annually thereafter, the Federal Trade Commission shall perform a market concentration analysis of the ethanol production industry using the Herfindahl-Hirschman Index to determine whether there is sufficient competition among industry participants to avoid price-setting and other anticompetitive behavior.
+&emsp;&emsp;&emsp;Not later than 180 days after August 8, 2005, and annually thereafter, the FederalTrade Commission shall perform a market concentration analysis of the ethanol production industry using the Herfindahl-Hirschman Index to determine whether there is sufficient competition among industry participants to avoid price-setting and other anticompetitive behavior.
 
 #### (ii) Scoring
 
@@ -1186,7 +1186,7 @@ For the purposes of this section, the term "manufacturer" includes an importer a
 
 &emsp;&emsp;(A) The term "approved renewable fuels" are fuels and components of fuels that have been approved by the Department of Energy, as defined in section 13211 of this title, which have been made from renewable biomass.
 
-&emsp;&emsp;(B) The term "renewable biomass" is, as defined in Presidential Executive Order 13134, published in the Federal Register on August 16, 1999, any organic matter that is available on a renewable or recurring basis (excluding old-growth timber), including dedicated energy crops and trees, agricultural food and feed crop residues, aquatic plants, animal wastes, wood and wood residues, paper and paper residues, and other vegetative waste materials. Old-growth timber means timber of a forest from the late successional stage of forest development.
+&emsp;&emsp;(B) The term "renewable biomass" is, as defined in Presidential Executive Order 13134, published in the Federal Register on August 16, 1999, any organic matter that is available on a renewable or recurring basis\(excluding old-growth timber), including dedicated energy crops and trees, agricultural food and feed crop residues, aquatic plants, animal wastes, wood and wood residues, paper and paper residues, and other vegetative waste materials. Old-growth timber means timber of a forest from the late successional stage of forest development.
 
 #### (t) Blending of compliant reformulated gasolines
 
@@ -1252,7 +1252,7 @@ For the purposes of this section, the term "manufacturer" includes an importer a
 
 (3) Whenever the Administrator is required to initiate a rulemaking under paragraph (1) or (2), the Administrator shall promulgate a final rule within 18 months after December 19, 2007.
 
-(4) Not later than 180 days after December 19, 2007, the Administrator shall establish an annual inspection and enforcement program to ensure that diesel fuel containing biodiesel sold or distributed in interstate commerce meets the standards established under regulations under this section, including testing and certification for compliance with applicable standards of the American Society for Testing and Materials. There are authorized to be appropriated to carry out the inspection and enforcement program under this paragraph $3,000,000 for each of fiscal years 2008 through 2010.
+(4) Not later than 180 days after December 19, 2007, the Administrator shall establish an annual inspection and enforcement program to ensure that diesel fuel containing biodiesel sold or distributed in interstate commerce meets the standards established under regulations under this section, including testing and certification for compliance with applicable standards of the American Society for Testing and Materials. There are authorized to be appropriated to carry out the inspection and enforcement programunder this paragraph $3,000,000 for each of fiscal years 2008 through 2010.
 
 (5) For purposes of this subsection, the term "biodiesel" has the meaning provided by section 13220(f) of this title.
 
@@ -1496,7 +1496,7 @@ In General.—Not later than 3 years after the enactment of this section \[Dec. 
 
 &emsp;"(3) The growth and use of cultivated invasive or noxious plants and their impacts on the environment and agriculture.
 
-> In advance of preparing the report required by this subsection, the Administrator may seek the views of the National Academy of Sciences or another appropriate independent research institute. The report shall include the annual volume of imported renewable fuels and feedstocks for renewable fuels, and the environmental impacts outside the United States of producing such fuels and feedstocks. The report required by this subsection shall include recommendations for actions to address any adverse impacts found.
+> In advance of preparing the report required by this subsection, the Administrator may seek the views of the National Academy of Sciences or another appropriateindependent research institute. The report shall include the annual volume of imported renewable fuels and feedstocks for renewable fuels, and the environmental impacts outside the United States of producing such fuels and feedstocks. The report required by this subsection shall include recommendations for actions to address any adverse impacts found.
 
 "(b)
 
@@ -1582,7 +1582,7 @@ Sense of Congress.—It is the sense of Congress that the Administrator of the E
 
 #### Agricultural Machinery: Study of Unleaded Fuel
 
-Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Administrator of EPA and Secretary of Agriculture jointly to conduct a study of use of fuel containing lead additives, and alternative lubricating additives, in gasoline engines that are used in agricultural machinery, and designed to combust fuel containing such additives, study to analyze potential for mechanical problems (including but not limited to valve recession) that may be associated with use of other fuels in such engines, and not later than Jan. 1, 1987, Administrator and Secretary to publish results of the study, with Administrator to publish in Federal Register notice of publication of such study and a summary thereof; directed Administrator, after notice and opportunity for hearing, but not later than 6 months after publication of the study, to make findings and recommendations on need for lead additives in gasoline to be used on a farm for farming purposes, including a determination of whether a modification of regulations limiting lead content of gasoline would be appropriate in the case of gasoline used on a farm for farming purposes, and submit to President and Congress a report containing the study, a summary of comments received during public hearing (including comments of Secretary), and findings and recommendations of Administrator made in accordance with clause (1), such report to be transmitted named congressional committees; directed Administrator between Jan. 1, 1986, and Dec. 31, 1987, to monitor actual lead content of leaded gasoline sold in the United States, with Administrator to determine average lead content of such gasoline for each 3-month period between Jan. 1, 1986, and Dec. 31, 1987, and if actual lead content falls below an average of 0.2 of a gram of lead per gallon in any such 3-month period, to report to Congress, and publish a notice thereof in Federal Register; provided that until Jan. 1, 1988, no regulation of Administrator issued under this section 211 could require an average lead content per gallon that is less than 0.1 of a gram per gallon; and authorized an appropriation.
+Pub. L. 99–198, title XVII, §1765, Dec. 23, 1985, 99 Stat. 1653, directed Administrator of EPA and Secretary of Agriculture jointly to conduct a study of use of fuel containing lead additives, and alternative lubricating additives, in gasoline engines that are used in agricultural machinery, and designed to combust fuel containing such additives, study to analyze potential for mechanical problems (including but not limited to valve recession) that may be associated with use ofother fuels in such engines, and not later than Jan. 1, 1987, Administrator and Secretary to publish results of the study, with Administrator to publish in Federal Register notice of publication of such study and a summary thereof; directed Administrator, after notice and opportunity for hearing, but not later than 6 months after publication of the study, to make findings and recommendations on need for lead additives in gasoline to be used on a farm for farming purposes, including a determination of whether a modification of regulations limiting lead content of gasoline would be appropriate in the case of gasoline used on a farm for farming purposes, and submit to President and Congress a report containing the study, a summary of comments received during public hearing (including comments of Secretary), and findings and recommendations of Administrator made in accordance with clause (1), such report to be transmitted named congressional committees; directed Administrator between Jan. 1, 1986, and Dec. 31, 1987, to monitor actual lead content of leaded gasoline sold in the United States, with Administrator to determine average lead content of such gasoline for each 3-month period between Jan. 1, 1986, and Dec. 31, 1987, and if actual lead content falls below an average of 0.2 of a gram of lead per gallon in any such 3-month period, to report to Congress, and publish a notice thereof in Federal Register; provided that until Jan. 1, 1988, no regulation of Administrator issued under this section 211 could require an average lead content per gallon that is less than 0.1 of a gram per gallon; and authorized an appropriation.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

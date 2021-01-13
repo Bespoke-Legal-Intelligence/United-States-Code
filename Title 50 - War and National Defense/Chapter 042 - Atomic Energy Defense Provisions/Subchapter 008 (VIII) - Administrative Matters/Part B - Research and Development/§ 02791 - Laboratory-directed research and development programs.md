@@ -10,7 +10,7 @@ The Secretary of Energy shall prescribe regulations for the conduct of laborator
 
 #### (c) Funding
 
-Of the funds provided by the Department of Energy to a national security laboratory for national security activities, the Secretary shall provide a specific amount, of not less than 5 percent and not more than 7 percent of such funds, to be used by the laboratory for laboratory-directed research and development.
+Of the funds provided by the Department of Energy to a national security laboratory for national security activities, the Secretary shallprovide a specific amount, of not less than 5 percent and not more than 7 percent of such funds, to be used by the laboratory for laboratory-directed research and development.
 
 #### (d) "Laboratory-directed research and development" defined
 
@@ -30,7 +30,7 @@ Section was formerly classified to section 7257a of Title 42, The Public Health 
 
 #### Pilot Program on Unavailability for Overhead Costs of Amounts Specified for Laboratory-Directed Research and Development
 
-Pub. L. 114–328, div. C, title XXXI, §3119, Dec. 23, 2016, 130 Stat. 2763, as amended by Pub. L. 116–92, div. C, title XXXI, §3118, Dec. 20, 2019, 133 Stat. 1952, provided that:
+Pub. L. 114–328, div. C, title XXXI, §3119, Dec. 23, 2016, 130 Stat. 2763, as amended by Pub. L. 116–92, div. C, title XXXI, §3118, Dec. 20, 2019, 133 Stat. 1952; Pub. L. 116–283, div. C, title XXXI, §3162, Jan. 1, 2021, 134 Stat. 4391, provided that:
 
 "(a)
 
@@ -46,9 +46,9 @@ Duration.—The pilot program required by subsection (a) shall—
 
 &emsp;"(1) take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act \[Dec. 23, 2016\]; and
 
-&emsp;"(2) terminate on the date that is four years after the day described in paragraph (1).
+&emsp;"(2) terminate on the date that is nine years after the day described in paragraph (1).
 
 "(d)
 
-Report Required.—Not later than February 15, 2020, the Administrator for Nuclear Security shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that assesses the costs, benefits, risks, and other effects of the pilot program, including effects on laboratory-directed research and development and other programs."
+Report Required.—Not later than February 15, 2025, the Administrator for Nuclear Security shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that assesses the costs, benefits, risks, and other effects of the pilot program, including effects on laboratory-directed research and development and other programs."
 

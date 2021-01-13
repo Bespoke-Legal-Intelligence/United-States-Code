@@ -58,5 +58,5 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made afterDec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 

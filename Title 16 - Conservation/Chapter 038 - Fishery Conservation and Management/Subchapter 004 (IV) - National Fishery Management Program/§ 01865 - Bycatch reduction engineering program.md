@@ -52,5 +52,39 @@ This chapter, referred to in subsec. (a)(2), was in the original "this Act", mea
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Improving Discard Mortality Data
+
+Pub. L. 116–340, §4, Jan. 13, 2021, 134 Stat. 5129, provided that:
+
+"(a)
+
+Agreement.—Not later than 60 days after the date of the enactment of this Act \[Jan. 13, 2021\], the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and produce a report on discard mortality in the Gulf of Mexico reef fish fisheries. The study shall include—
+
+&emsp;"(1) assessment of gaps and biases in reporting of discards and associated discard mortality;
+
+&emsp;"(2) assessment of uncertainty and likely impacts of such uncertainty in discard mortality;
+
+&emsp;"(3) assessment of the effectiveness and usage rates of barotrauma-reducing devices;
+
+&emsp;"(4) recommendations for future research priorities; and
+
+&emsp;"(5) recommendations for standardized reporting and quantification of discards in the same metric as landings for fisheries under the Gulf of Mexico Reef Fish Fishery Management Plan.
+
+"(b)
+
+Deadlines.—Not later than 2 years after the date of the enactment of this Act, the National Academy of Sciences shall complete the study required under subsection (a) and transmit the final report to the Secretary. Not later than 3 months after receiving the study and report in accordance with this subsection, the Secretary shall submit the study and report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+"(c)
+
+Plan.—Not later than 1 year after the Secretary receives the study and report required under subsection (a), Secretary and the Gulf of Mexico Fishery Management Council shall develop—
+
+&emsp;"(1) guidance for minimum standards for quantifying and reporting discards and associated mortality in the Gulf of Mexico Reef Fish Fishery Management Plan; and
+
+&emsp;"(2) a plan to assess and monitor the effectiveness and usage of barotrauma-reducing devices and the impact on discard mortality rates in Gulf of Mexico reef fish fisheries.
+
+"(d)
+
+Follow-Up Report.—Not later than 3 years after developing minimum standards and developing the assessment and monitoring plan under subsection (c), the Secretary shall provide a detailed report on implementation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives."
+
 <i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

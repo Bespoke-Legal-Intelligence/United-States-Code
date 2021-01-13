@@ -12,7 +12,7 @@ The Commission shall—
 
 &emsp;(4) within 48 hours after the time of the receipt by the Commission of reports and statements filed with it, make them available for public inspection, and copying, at the expense of the person requesting such copying, except that any information copied from such reports or statements may not be sold or used by any person for the purpose of soliciting contributions or for commercial purposes, other than using the name and address of any political committee to solicit contributions from such committee. A political committee may submit 10 pseudonyms on each report filed in order to protect against the illegal use of names and addresses of contributors, provided such committee attaches a list of such pseudonyms to the appropriate report. The Secretary or the Commission shall exclude these lists from the public record;
 
-&emsp;(5) keep such designations, reports, and statements for a period of 10 years from thedate of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
+&emsp;(5) keep such designations, reports, and statements for a period of 10 years from the date of receipt, except that designations, reports, and statements that relate solely to candidates for the House of Representatives shall be kept for 5 years from the date of their receipt;
 
 &emsp;(6)(A) compile and maintain a cumulative index of designations, reports, and statements filed under this Act, which index shall be published at regular intervals and made available for purchase directly or by mail;
 
@@ -56,7 +56,9 @@ Notwithstanding any other provision of law, any person who relies upon any rule 
 
 In prescribing such rules, regulations, and forms under this section, the Commission and the Internal Revenue Service shall consult and work together to promulgate rules, regulations, and forms which are mutually consistent. The Commission shall report to the Congress annually on the steps it has taken to comply with this subsection.
 
-(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287;renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792; Pub. L. 107–252, title VIII, §801(b), Oct. 29, 2002, 116 Stat. 1726.)
+(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187,title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792; Pub. L. 107–252, title VIII, §801(b), Oct. 29, 2002, 116 Stat. 1726.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -106,7 +108,7 @@ Subsec. (a)(9). Pub. L. 96–187, §109, substituted provisions for transmittal 
 
 Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
 
-Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use ofpayments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
+Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internalreview of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
 
 Subsec. (c). Pub. L. 96–187, §109, substituted provisions exempting from the provisions of section 3512 of title 44 any forms prescribed by the Commission and any information-gathering activities of the Commission for provisions of pars. (1) to (5) relating to prescribing of rules and regulations and approval thereof by either the Senate or the House of Representatives, and definition of "legislative days" and "rule or regulation".
 
@@ -148,6 +150,8 @@ Subsec. (c). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (c) and redesi
 
 Subsec. (d). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (d) and struck out former subsec. (d) provisions respecting violations, the paragraphs relating to: (1) complaints, investigations, notice and hearing, Federal civil actions for injunction, restraining orders, or other appropriate orders, venue, and bond; (2) subpenas; (3) review by court of appeals and time for petition of review; (4) finality of appellate judgment and review by Supreme Court; and (5) docket advancement and priorities, provisions now covered by section 437g(a) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 20923 of this title, see section 21134(a) of this title.
@@ -166,7 +170,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a)(9) and (f
 
 #### Transition Provisions
 
-Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allow such disapproval within 15 days with respect to rules and regulations implementing Pub. L. 96–187 proposed under section 303(a) of Pub. L. 96–187, see section 303(b)of Pub. L. 96–187, set out as a note under section 30101 of this title.
+Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allow such disapproval within 15 days with respect to rules and regulations implementing Pub. L. 96–187 proposedunder section 303(a) of Pub. L. 96–187, see section 303(b) of Pub. L. 96–187, set out as a note under section 30101 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -112,7 +112,7 @@ Subsec. (b)(1)(H). Pub. L. 108–159, §214(c)(2)(B), added subpar. (H).
 
 Subsec. (b)(1)(I). Pub. L. 108–159, §311(b), added subpar. (I).
 
-Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: "with respect to the form and content of anydisclosure required to be made under section 1681g(c) of this title."
+Subsec. (b)(3), (4). Pub. L. 108–159, §212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: "with respect to the form and content of any disclosure required to be made under section 1681g(c) of this title."
 
 Subsec. (b)(5). Pub. L. 108–159, §711(2), added par. (5).
 

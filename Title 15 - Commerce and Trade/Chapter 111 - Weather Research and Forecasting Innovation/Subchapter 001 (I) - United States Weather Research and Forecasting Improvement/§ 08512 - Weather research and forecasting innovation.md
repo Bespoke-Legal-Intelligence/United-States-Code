@@ -10,7 +10,7 @@ The program described in subsection (a) shall focus on the following activities:
 
 &emsp;(1) Improving the fundamental understanding of weather consistent with section 8511 of this title, including the boundary layer and other processes affecting high impact weather events.
 
-&emsp;(2) Improving the understanding of how the public receives, interprets, and responds to warnings and forecasts of high impact weather events that endanger life and property.
+&emsp;(2) Improving the understanding of how the public receives, interprets, and responds towarnings and forecasts of high impact weather events that endanger life and property.
 
 &emsp;(3) Research and development, and transfer of knowledge, technologies, and applications to the National Weather Service and other appropriate agencies and entities, including the United States weather industry and academic partners, related to—
 

@@ -52,9 +52,11 @@ The Ambassador at Large shall have the following responsibilities:
 
 #### (d) Funding
 
-The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President's annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.
+The Secretary of State shall provide the Ambassador at Large with such funds as may benecessary for the hiring of appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President's annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.
 
 (Pub. L. 105–292, title I, §101, Oct. 27, 1998, 112 Stat. 2791; Pub. L. 114–281, title I, §101(a), Dec. 16, 2016, 130 Stat. 1428.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Subsec. (c)(3)(C). Pub. L. 114–281, §101(a)(2)(C), added subpar. (C).
 Subsec. (c)(4), (5). Pub. L. 114–281, §101(a)(2)(D), (E), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (d). Pub. L. 114–281, §101(a)(3), substituted "appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President's annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office." for "staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Near East and South Central Asia Religious Freedom
 
@@ -124,7 +128,7 @@ Coordination.—In carrying out the duties under subsection (a), the Special Env
 
 #### "SEC. 5. CONSULTATIONS.
 
-"The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the Special Envoy considers appropriate to fulfill the purposes of this Act.
+"The Special Envoy shall consult with domestic and international nongovernmental organizations and multilateral organizations and institutions, as the SpecialEnvoy considers appropriate to fulfill the purposes of this Act.
 
 #### "SEC. 6. SUNSET.
 

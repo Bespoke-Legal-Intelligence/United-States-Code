@@ -20,7 +20,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 #### (1) Transportation beginning and ending in the United States
 
-&emsp;All transportation income attributable to transportation which begins and ends in the United States shall be treated as derived from sources within the United States.
+&emsp;All transportation income attributable to transportation which begins and ends in theUnited States shall be treated as derived from sources within the United States.
 
 #### (2) Other transportation having United States connection
 
@@ -180,7 +180,7 @@ In general.—In the case of any property described in subparagraph (B), paragra
 
 &emsp;"(B)
 
-Property to which paragraph applies.—Property described in this subparagraph consists of 4ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
+Property to which paragraph applies.—Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
 
 &nbsp;
 

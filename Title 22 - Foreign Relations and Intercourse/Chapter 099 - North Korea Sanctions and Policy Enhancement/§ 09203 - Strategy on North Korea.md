@@ -32,7 +32,7 @@ The report required by subsection (a) shall include the following:
 
 #### (c) Annual updates
 
-The President shall submit to Congress in writing on an annual basis a report describing and assessing progress in the implementation of the strategy described in subsection (a).
+The President shall submit to Congress in writing on an annual basis a report describingand assessing progress in the implementation of the strategy described in subsection (a).
 
 #### (d) Form
 
@@ -40,9 +40,13 @@ The report under subsection (a) and each report under subsection (c) shall be su
 
 (Pub. L. 115–91, div. A, title XII, §1256, Dec. 12, 2017, 131 Stat. 1682.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the North Korea Sanctions and Policy Enhancement Act of 2016 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### North Korea Strategy
 
@@ -68,7 +72,7 @@ Statement of policy.—It is the policy of the United States to continue to impo
 
 &emsp;"(2)
 
-Report.—Not later than 30 days after terminating any sanction with respect to the activities of the Government of the Democratic People's Republic of Korea, a person acting for or on behalf of such government, or any other person provided for in an Executive order listed in subsection (a), the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the appropriate congressional committees justifying the terminationof the sanction and explaining the relationship between such termination and the cessation of any illicit activity that violates any of the United Nations Security Council resolutions referred to in subsection (a)(1) by such Government or person. The reporting requirement under this paragraph shall terminate on the date that is 5 years after the date of the enactment of this Act \[Dec. 31, 2018\].
+Report.—Not later than 30 days after terminating any sanction with respect to the activities of the Government of the Democratic People's Republic of Korea, a person acting for or on behalf of such government, or any other person provided for in an Executive order listed in subsection (a), the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the appropriate congressional committees justifying the termination of the sanction and explaining the relationship between such termination and the cessation of any illicit activity that violates any of the United Nations Security Council resolutions referred to in subsection (a)(1) by such Government or person. The reporting requirement under this paragraph shall terminate on the date that is 5 years after the date of the enactment of this Act \[Dec. 31, 2018\].
 
 &emsp;"(3)
 

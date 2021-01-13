@@ -12,7 +12,7 @@ The Secretary may require such replacement tribally designated housing entity fo
 
 If the Secretary requires that a replacement tribally designated housing entity serve as the recipient for a tribe (or tribes)—
 
-&emsp;(1) the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration of the 60-day period beginning upon the date that the Secretary makes the determination under subsection (b), the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
+&emsp;(1) the replacement entity shall be an entity mutually agreed upon by the Secretary and the tribe (or tribes) for which the recipient was authorized to act, except that if no such entity is agreed upon before the expiration ofthe 60-day period beginning upon the date that the Secretary makes the determination under subsection (b), the Secretary shall act as the replacement entity until agreement is reached upon a replacement entity; and
 
 &emsp;(2) the replacement entity (or the Secretary, as provided in paragraph (1)) shall act as the tribally designated housing entity for the tribe (or tribes) for a period that expires upon—
 
@@ -22,9 +22,13 @@ If the Secretary requires that a replacement tribally designated housing entity 
 
 (Pub. L. 104–330, title IV, §402, Oct. 26, 1996, 110 Stat. 4039.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

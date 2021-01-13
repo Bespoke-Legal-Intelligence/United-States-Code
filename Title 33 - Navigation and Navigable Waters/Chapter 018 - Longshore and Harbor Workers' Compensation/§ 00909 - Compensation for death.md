@@ -4,7 +4,7 @@ If the injury causes death, the compensation therefore shall be known as a death
 
 (a) Reasonable funeral expenses not exceeding $3,000.
 
-(b) If there be a widow or widower and no child of the deceased, to such widow or widower 50 per centum of the average wages of the deceased, during widowhood, or dependent widowerhood, with two years' compensation in one sum upon remarriage; and if there be a surviving child or children of the deceased, the additional amount of 162/3 per centum of such wages for each such child; in case of the death or remarriage of such widow or widower, if there be one surviving child of the deceased employee, such child shall have his compensation increased to 50 per centum of such wages, and if there be more than one surviving child of the deceased employee, to such children, in equal parts, 50 per centum of such wages increased by 162/3 per centum of such wages for each child in excess of one: <i>Provided</i>, That the total amount payable shall in no case exceed 662/3 per centum of such wages. The deputy commissioner having jurisdiction over the claim may, in his discretion, require the appointment of a guardian for the purpose of receiving the compensation of a minor child. In the absence of such a requirement the appointment of a guardian for such purposes shall not be necessary.
+(b) If there be a widow or widower and no child of the deceased, to such widow or widower 50 per centum of the average wages of the deceased, during widowhood, or dependent widowerhood, with two years' compensation in one sum upon remarriage; and if there be a surviving child or children of the deceased, the additional amount of 162/3 per centum of such wages for each such child; in case of the death or remarriage of such widow or widower, if there be one surviving child of the deceased employee, such child shall have his compensation increased to 50 per centum of such wages, and if there be more than one surviving child of the deceased employee, to such children, in equal parts, 50 per centum ofsuch wages increased by 162/3 per centum of such wages for each child in excess of one: <i>Provided</i>, That the total amount payable shall in no case exceed 662/3 per centum of such wages. The deputy commissioner having jurisdiction over the claim may, in his discretion, require the appointment of a guardian for the purpose of receiving the compensation of a minor child. In the absence of such a requirement the appointment of a guardian for such purposes shall not be necessary.
 
 (c) If there be one surviving child of the deceased, but no widow or widower, then for the support of such child 50 per centum of the wages of the deceased; and if there be more than one surviving child of the deceased, but no widow or dependent husband, then for the support of such children, in equal parts 50 per centum of such wages increased by 162/3 per centum of such wages for each child in excess of one: <i>Provided</i>, That the total amount payable shall in no case exceed 662/3 per centum of such wages.
 
@@ -21,6 +21,8 @@ If the injury causes death, the compensation therefore shall be known as a death
 (g) Aliens: Compensation under this chapter to aliens not residents (or about to become nonresidents) of the United States or Canada shall be the same in amount as provided for residents, except that dependents in any foreign country shall be limited to surviving wife and child or children, or if there be no surviving wife or child or children, to surviving father or mother whom the employee has supported, either wholly or in part, for the period of one year prior to the date of the injury, and except that the Secretary may, at his option or upon the application of the insurance carrier shall, commute all future installments of compensation to be paid to such aliens by paying or causing to be paid to them one-half of the commuted amount of such future installments of compensation as determined by the Secretary.
 
 (Mar. 4, 1927, ch. 509, §9, 44 Stat. 1429; June 25, 1938, ch. 685, §6, 52 Stat. 1166; June 24, 1948, ch. 623, §3, 62 Stat. 602; July 26, 1956, ch. 735, §4, 70 Stat. 655; Pub. L. 87–87, §2, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§5(d), 10, 20(c)(2), Oct. 27, 1972, 86 Stat. 1253, 1257, 1265; Pub. L. 98–426, §§9, 27(a)(2), Sept. 28, 1984, 98 Stat. 1647, 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (c). Act June 24, 1948, increased death benefits of orphaned children fr
 Subsec. (e). Act June 24, 1948, correlated basis for computing death benefits with basis for computing disability benefits under section 906(b) of this title.
 
 <b>1938</b>—Subsecs. (b) to (d). Act June 25, 1938, struck out references to children as being under eighteen years of age.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

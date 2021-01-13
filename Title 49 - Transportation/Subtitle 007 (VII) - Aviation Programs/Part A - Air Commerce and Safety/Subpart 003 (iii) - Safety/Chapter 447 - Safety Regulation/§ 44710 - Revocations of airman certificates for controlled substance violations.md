@@ -134,5 +134,5 @@ In subsection (e)(2)(B)(ii), the words "judgment of" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1). Pub. L. 112–153 struck out "but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "findings of fact of the Administrator".
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–153 struck out "but shall be bound by all validly adopted interpretations oflaws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "findings of fact of the Administrator".
 

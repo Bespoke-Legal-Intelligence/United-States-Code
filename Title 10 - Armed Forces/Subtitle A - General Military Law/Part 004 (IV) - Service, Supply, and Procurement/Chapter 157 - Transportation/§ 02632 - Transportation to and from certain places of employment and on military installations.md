@@ -8,7 +8,7 @@
 
 &emsp;(B) Transportation to and from their places of duty or employment on a military installation for persons covered by this subsection.
 
-&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of amilitary installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, and timely, commercial or municipal mass transit services.
+&emsp;(C) Transportation to and from a military installation for persons covered by this subsection and their dependents, in the case of a military installation located in an area determined by the Secretary concerned not to be adequately served by regularly scheduled, and timely, commercial or municipal mass transit services.
 
 &emsp;(D) Transportation to and from their places of employment for persons attached to, or employed in, a private plant that is manufacturing material for that department, but only during a war or a national emergency declared by Congress or the President.
 
@@ -36,7 +36,7 @@
 
 &emsp;(2) maintain and operate that equipment by—
 
-&emsp;&emsp;(A) enlisted members of the Army, Navy, Air Force, Marine Corps, or the Coast Guard, as the case may be;
+&emsp;&emsp;(A) enlisted members of the Army, Navy, Air Force, Marine Corps, Space Force, or the Coast Guard, as the case may be;
 
 &emsp;&emsp;(B) employees of the department concerned; and
 
@@ -46,7 +46,7 @@
 
 (d) Fares received under subsection (a), and proceeds of the leasing or chartering of equipment under subsection (c)(3), shall be covered into the Treasury as miscellaneous receipts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 95–362, Sept. 11, 1978, 92 Stat. 596; Pub. L. 96–125, title VIII, §807(a)–(c)(1), Nov. 26, 1979, 93 Stat. 949, 950; Pub. L. 100–180, div. A, title III, §318(a)–(c), Dec. 4, 1987, 101 Stat. 1076, 1077.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 146; Pub. L. 95–362, Sept. 11, 1978, 92 Stat. 596; Pub. L. 96–125, title VIII, §807(a)–(c)(1), Nov. 26, 1979, 93 Stat. 949, 950; Pub. L. 100–180, div. A, title III, §318(a)–(c), Dec. 4, 1987, 101 Stat. 1076, 1077; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(vii), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes
 
@@ -108,7 +108,7 @@ May 28, 1948, ch. 352, §1, 62 Stat. 276.
 
 In subsection (a), the words "it is necessary \* \* \* he may \* \* \* provide assured and adequate transportation" are substituted for the words "requires assured and adequate transportation facilities \* \* \* he is authorized \* \* \* to provide such transportation". The words "in the absence of adequate private or other facilities" are omitted as covered by subsection (b)(2). The words "subject, however, to the following provisions and conditions" are omitted, since the revised section states those conditions positively in the following subsections. The words "at reasonable rates of fare" are substituted for the first 23 words of clause 2 of 5:189c, 415d, and 626n. The words "under regulations to be prescribed by him" are substituted for the words "under such regulations as the Secretary of the Army \[Navy, Air Force\] shall prescribe" in clause 2, and the 17 words before the proviso of clause 3, of 5:189c, 415d, and 626n.
 
-In subsection (b), the words "Transportation \* \* \* under subsection (a)" are substituted for the words "The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]". The words "may not be provided" are substituted for the words "shall be exercised". The word "transportation" is substituted for the word "service". The words "in each case", "as thecase may be, that existing private and", and "by other means" are omitted as surplusage.
+In subsection (b), the words "Transportation \* \* \* under subsection (a)" are substituted for the words "The authority granted in this section to the Secretary of the Army \[Navy, Air Force\]". The words "may not be provided" are substituted for the words "shall be exercised". The word "transportation" is substituted for the word "service". The words "in each case", "as the case may be, that existing private and", and "by other means" are omitted as surplusage.
 
 Subsection (b)(3) is substituted for the last 25 words of clause 4 of 5:189c, 415d, and 626n.
 
@@ -117,6 +117,8 @@ In subsection (c), the introductory clause is substituted for the words "The equ
 In subsection (d), the words "Treasury as" are substituted for the words "Treasury of the United States to the credit of".
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2)(A). Pub. L. 116–283 substituted "Marine Corps, Space Force," for "Marine Corps,".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–180, §318(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whenever the Secretary of a military department determines that it is necessary for the effective conduct of the affairs of that department, he may, at reasonable rates of fare under regulations to be prescribed by the Secretary of Defense, provide assured and adequate transportation by motor vehicle or water carrier—
 
@@ -140,7 +142,7 @@ Subsec. (b)(4). Pub. L. 100–180, §318(b)(3), (c)(3), redesignated former par.
 
 Subsec. (a). Pub. L. 96–125, §807(a), substituted reference to Secretary of a military department and to the Secretary of Defense for references to Secretary concerned and inserted reference to any military installation (including any subinstallation thereof) under the jurisdiction of that department.
 
-Subsec. (b). Pub. L. 96–125, §807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to (C), substituted "subsection (a)(2)" for "subsection (a)" and added par. (2).
+Subsec. (b). Pub. L. 96–125, §807(b), designated existing provisions as par. (1) and cls. (1) to (3) as cls. (A) to\(C), substituted "subsection (a)(2)" for "subsection (a)" and added par. (2).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–362, §1(1), substituted "concerned" for "of a military department" and "of his department" for "of that department".
 

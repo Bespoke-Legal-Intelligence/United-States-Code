@@ -10,9 +10,9 @@ Upon application by a complainant and in such circumstances as the court may dee
 
 #### (c) Award of damages or other equitable relief; amount; criteria; appeal
 
-(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
+(1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, thecourt shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
 
-(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt wasmade to resolve the issues in dispute before the resort to litigation.
+(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt was made to resolve the issues in dispute before the resort to litigation.
 
 (3) Any civil action brought under this section shall be subject to appeal as provided in chapter 83 of title 28.
 
@@ -58,6 +58,8 @@ If it is determined under a State workers' compensation law that the workers' co
 
 (Pub. L. 97–470, title V, §504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, §325(a), Oct. 6, 1992, 106 Stat. 1728; Pub. L. 104–49, §§1(a)(2), 2(a), 3, Nov. 15, 1995, 109 Stat. 432, 433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–49, §1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
@@ -71,6 +73,8 @@ Subsec. (e). Pub. L. 104–49, §2(a), added subsec. (e).
 Subsec. (f). Pub. L. 104–49, §3, added subsec. (f).
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–392 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

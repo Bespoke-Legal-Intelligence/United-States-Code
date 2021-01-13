@@ -8,7 +8,7 @@ Except as provided in subsection (b), the Department of State shall work to achi
 
 The Department of State may award an overseas public diplomacy grant under procedures other than competitive procedures when—
 
-&emsp;(1) such a grant is made under the Mutual Educational and Cultural Exchange Act of 1961 (commonly known as the Fulbright-Hays Act) \[22 U.S.C. 2451 et seq.\] or any statute which expressly authorizes or requires that a grant be made with a specified entity;
+&emsp;(1) such a grant is made under the Mutual Educational and Cultural Exchange Act of 1961\(commonly known as the Fulbright-Hays Act) \[22 U.S.C. 2451 et seq.\] or any statute which expressly authorizes or requires that a grant be made with a specified entity;
 
 &emsp;(2) the terms of an international agreement or treaty between the United States Government and a foreign government or international organization have the effect of requiring the use of procedures other than competitive procedures;
 
@@ -25,6 +25,8 @@ The Department of State may award an overseas public diplomacy grant under proce
 (3) The Agency <sup>1</sup> shall suspend payments under any such grant which remains in noncompliance 90 days after notification under paragraph (2).
 
 (Pub. L. 102–138, title II, §212, Oct. 28, 1991, 105 Stat. 695; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(b), Oct. 21, 1998, 112 Stat. 2681–787.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -49,6 +51,8 @@ Subsec. (c)(2). Pub. L. 105–277, §1335(b)(1), substituted "Department of Stat
 Subsec. (c)(3). Pub. L. 105–277, §1335(b)(5), inserted "such" before "grant".
 
 Subsec. (d). Pub. L. 105–277, §1335(b)(6), struck out heading and text of subsec. (d). Text read as follows: "Not later than 90 days after October 28, 1991, the Director of the United States Information Agency shall submit a detailed report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on United States Information Agency action to comply with subsection (a) of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

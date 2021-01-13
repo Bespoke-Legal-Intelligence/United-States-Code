@@ -8,9 +8,15 @@ Definitions.—In this section:
 
 Eligible vessel.—The term "eligible vessel" means a vessel that—
 
-&emsp;&emsp;(A) was not built in the United States and is at least 3 years old; or
+&emsp;&emsp;(A) was built in the United States;
 
-&emsp;&emsp;(B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
+&emsp;&emsp;(B) was not built in the United States and is at least 3 years old; or
+
+&emsp;&emsp;(C) if rebuilt, was rebuilt—
+
+&emsp;&emsp;&emsp;(i) in the United States; or
+
+&emsp;&emsp;&emsp;(ii) outside the United States at least 3 years before the certificate requested under subsection (b) would take effect.
 
 &emsp;(2)
 
@@ -18,7 +24,7 @@ Small passenger vessel; uninspected passenger vessel; passenger for hire.—The 
 
 (b)
 
-Issuance of Certificate and Endorsement.—Notwithstanding sections 12112, 12113,55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
+Issuance of Certificate and Endorsement.—Notwithstanding sections 12112, 12113, 12132, 55102, and 55103 of this title, the Secretary may issue a certificate of documentation with an appropriate endorsement for employment in the coastwise trade as a small passenger vessel or an uninspected passenger vessel in the case of an eligible vessel authorized to carry no more than 12 passengers for hire if the Secretary of Transportation, after notice and an opportunity for public comment, determines that the employment of the vessel in the coastwise trade will not adversely affect—
 
 &emsp;(1) United States vessel builders; or
 
@@ -40,7 +46,7 @@ Other provisions not affected.—Paragraph (1) does not affect—
 
 &emsp;&emsp;(B) any other authority of the Secretary to revoke a certificate or endorsement issued under subsection (b).
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1504.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1504; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8312, Jan. 1, 2021, 134 Stat. 4697.)
 
 Historical and Revision Notes
 
@@ -60,6 +66,18 @@ Pub. L. 105–383, title V, §§502–504, Nov. 13, 1998, 112 Stat. 3445; Pub. L
 
 The definition of "Secretary" is omitted for consistency in the chapter.
 
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §8312(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) was not built in the United States and is at least 3 years old; or
+
+"(B) if rebuilt, was rebuilt outside the United States at least 3 years before the certificate requested under subsection (b) would take effect."
+
+Subsec. (b). Pub. L. 116–283, §8312(2), inserted "12132," after "12113," in introductory provisions.
+
 #### Prior Provisions
 
 A prior section 12121, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589, originally derived from section 65v(2) of former Title 46, Shipping, related to the authority of the Secretary to prescribe regulations to carry out this chapter, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
@@ -71,6 +89,8 @@ A prior section 12123, added Pub. L. 102–587, title V, §5213(a)(3), Nov. 4, 1
 Another prior section 12123, added Pub. L. 102–388, title III, §348(a), Oct. 6, 1992, 106 Stat. 1554, related to the denial and revocation of trade or recreational endorsement upon failure of vessel's owner to pay assessment of civil penalty for violation of law, prior to repeal by Pub. L. 104–324, title VII, §746(a)(1), Oct. 19, 1996, 110 Stat. 3943.
 
 A prior section 12124, added Pub. L. 105–383, title IV, §401(a)(2), Nov. 13, 1998, 112 Stat. 3424, related to surrender of title and number, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12106 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effect of Repeal
 

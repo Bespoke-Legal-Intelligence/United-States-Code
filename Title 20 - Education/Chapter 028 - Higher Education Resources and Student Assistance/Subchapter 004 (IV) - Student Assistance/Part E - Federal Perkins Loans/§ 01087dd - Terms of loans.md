@@ -32,7 +32,7 @@
 
 (1) Any agreement between an institution and a student for a loan from a student loan fund assisted under this part—
 
-&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload,and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
+&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparableinstitution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
 
 &emsp;(B) shall include provision for acceleration of repayment of the whole, or any part, of such loan, at the option of the borrower;
 
@@ -90,7 +90,7 @@
 
 (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
 
-(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstandingany contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
+(C) An individual with an outstanding loan balance who meets the eligibility criteria for adeferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
 
 (3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repayment period provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
 
@@ -204,15 +204,15 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 &emsp;No incentive repayment option under an incentive repayment program authorized by this subsection may be paid for with Federal funds, including any Federal funds from the student loan fund, or with institutional funds from the student loan fund.
 
-#### (j) Armed Forces student loan interest payment program
+#### (j) Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs
 
 #### (1) Authority
 
-&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
 
 #### (2) Forbearance
 
-&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(1)(C).
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph\(1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(1)(C).
 
 #### (k) Additional safeguards
 
@@ -226,7 +226,7 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 &emsp;(2) the Secretary determines necessary.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163.)
 
 #### References in Text
 
@@ -237,6 +237,10 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (j). Pub. L. 116–259, §202(b)(2)(A), substituted "Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs" for "Armed Forces student loan interest payment program" in heading.
+
+Subsec. (j)(1). Pub. L. 116–259, §202(b)(2)(B), inserted "or section 3078 of title 33" after "section 2174 of title 10" and "or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively" after "Armed Forces".
 
 <b>2018</b>—Subsec. (c)(2)(A)(vi). Pub. L. 115–245 added cl. (vi).
 
@@ -364,7 +368,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: "The changes made in part E of title IV of the Act \[20 U.S.C. 1087aa et seq.\] by the amendments made by this part \[part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
-&emsp;"(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
+&emsp;"(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federalcapital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 
 &emsp;"(2) the changes made in section 464(c)(1)(C) \[20 U.S.C. 1087dd(c)(1)(C)\], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1, 1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
 
@@ -372,7 +376,7 @@ Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by 
 
 &emsp;"(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
 
-&emsp;"(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does notresult in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment."
+&emsp;"(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment."
 
 \[Pub. L. 102–394, title III, §307(b), Oct. 6, 1992, 106 Stat. 1820, provided that: "The amendments made by subsection (a) \[amending section 468 of Pub. L. 102–325, set out above\] shall take effect as if enacted on July 23, 1992."\]
 

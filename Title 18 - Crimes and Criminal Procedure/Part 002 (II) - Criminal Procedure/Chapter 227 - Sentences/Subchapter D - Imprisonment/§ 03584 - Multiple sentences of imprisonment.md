@@ -14,6 +14,8 @@ Treatment of Multiple Sentence as an Aggregate.—Multiple terms of imprisonment
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2000.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.

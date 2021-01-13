@@ -256,11 +256,15 @@ Rep.
 
 Rep.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–533, §5(b)(1), Nov. 7, 1990, 104 Stat. 2348, added item for chapter 10.
 
 <b>1962</b>—Pub. L. 87–826, §1, Oct. 15, 1962, 76 Stat. 951, added item for chapter 9.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Positive Law; Citation
 
@@ -284,7 +288,7 @@ Act Aug. 31, 1954, ch. 1158, §6, 68 Stat. 1025, provided that: "The provisions 
 
 #### Repeals
 
-Act Aug. 31, 1954, ch. 1158, §7, 68 Stat. 1025, provided that: "The sections of the Acts, and the Acts or parts of Acts, enumerated in the following schedule, are hereby repealed. Any rights or liabilities now existingunder such statutes or parts thereof, and any proceedings instituted under, or growing out of, any of such statutes or parts thereof, shall not be affected by this repeal."
+Act Aug. 31, 1954, ch. 1158, §7, 68 Stat. 1025, provided that: "The sections of the Acts, and the Acts or partsof Acts, enumerated in the following schedule, are hereby repealed. Any rights or liabilities now existing under such statutes or parts thereof, and any proceedings instituted under, or growing out of, any of such statutes or parts thereof, shall not be affected by this repeal."
 
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 

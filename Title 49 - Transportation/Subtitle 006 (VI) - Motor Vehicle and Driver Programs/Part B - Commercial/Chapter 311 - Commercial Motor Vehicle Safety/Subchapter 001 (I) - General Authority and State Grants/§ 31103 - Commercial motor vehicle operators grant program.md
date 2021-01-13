@@ -52,6 +52,10 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, subject to a transition pr
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
+#### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
+
+Period of availability during which a recipient may expend grant amounts under this section extended for amounts awarded for fiscal years 2019 and 2020, see section 441 of div. N of Pub. L. 116–260, set out as a note under section 31102 of this title.
+
 #### Relationship to Other Laws
 
 Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.

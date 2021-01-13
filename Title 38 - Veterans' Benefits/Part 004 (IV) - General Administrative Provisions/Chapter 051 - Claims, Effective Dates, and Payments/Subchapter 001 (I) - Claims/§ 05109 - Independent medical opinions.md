@@ -1,8 +1,8 @@
 ### §5109. Independent medical opinions
 
-(a) When, in the judgment of the Secretary, expert medical opinion, in addition to thatavailable within the Department, is warranted by the medical complexity or controversy involved in a case being considered by the Department, the Secretary may secure an advisory medical opinion from one or more independent medical experts who are not employees of the Department.
+(a) When, in the judgment of the Secretary, expert medical opinion, in addition to that available within the Department, is warranted by the medical complexity or controversy involved in a case being considered by the Department, the Secretary may secure an advisory medical opinion from one or more independent medical experts who are not employees of the Department.
 
-(b) The Secretary shall make necessary arrangements with recognized medical schools, universities, or clinics to furnish such advisory medical opinions. Any such arrangement shall provide that the actual selection of the expert or experts to give the advisory opinion in an individual case shall be made by an appropriate official of such institution.
+(b) The Secretary shall make necessary arrangements with recognized medical schools, universities, or clinics to furnish such advisory medical opinions. Any such arrangement shall provide that the actual selection of the expertor experts to give the advisory opinion in an individual case shall be made by an appropriate official of such institution.
 
 (c) The Secretary shall furnish a claimant with notice that an advisory medical opinion has been requested under this section with respect to the claimant's case and shall furnish the claimant with a copy of such opinion when it is received by the Secretary.
 
@@ -12,9 +12,7 @@
 
 (Added Pub. L. 100–687, div. A, title I, §103(a)(1), Nov. 18, 1988, 102 Stat. 4107, §3009; renumbered §5109, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, §2(j), Aug. 23, 2017, 131 Stat. 1109.)
 
-#### Applicability of Amendment
-
-<i>Amendment of section by section 2(j) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -28,9 +26,11 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 Subsecs. (b), (c). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title.
+Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as a note under section 101 of this title, and bracketed note thereunder.
 
 #### Effective Date
 

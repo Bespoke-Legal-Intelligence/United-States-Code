@@ -10,7 +10,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [1066\.](%C2%A7%2001066%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20protective%20services%20civilian%20employees.md) | Use of commissary stores and MWR facilities: protective services civilian employees. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VI, §631(b), title X, §1081(a)(23), Jan. 1, 2021, 134 Stat. 3682, 3872, added items 1065 and 1066.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VI, §621(b)(2), Aug. 13, 2018, 132 Stat. 1799, added item 1065.
 
@@ -28,7 +36,7 @@
 
 <b>1990</b>—Pub. L. 101–510, div. A, title III, §321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 116–92 without corresponding amendment of chapter analysis.</i>
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -41,3 +49,4 @@
 - [&sect; 01063a - Renumbered &sect;1064](%C2%A7%2001063a%20-%20Renumbered%20%C2%A71064.md)
 - [&sect; 01064 - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster or national emergency](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md)
 - [&sect; 01065 - Use of commissary stores and MWR facilities certain veterans, caregivers for veterans, and Foreign Service officers](%C2%A7%2001065%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20certain%20veterans%2C%20caregivers%20for%20veterans%2C%20and%20Foreign%20Service%20officers.md)
+- [&sect; 01066 - Use of commissary stores and MWR facilities protective services civilian employees](%C2%A7%2001066%20-%20Use%20of%20commissary%20stores%20and%20MWR%20facilities%20protective%20services%20civilian%20employees.md)

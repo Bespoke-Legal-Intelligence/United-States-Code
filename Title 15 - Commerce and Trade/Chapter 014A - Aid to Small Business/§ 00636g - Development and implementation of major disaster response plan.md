@@ -32,7 +32,7 @@ The report required under subsection (a)(2) shall include—
 
 &emsp;(10) information on the logistical support plans of the Administration (including equipment and staffing needs, and detailed information on how such plans will be scalable depending on the size and scope of the major disaster <sup>1</sup>;
 
-&emsp;(11) a description of the findings and recommendations of the Administrator, if any, based on a review of the response of the Administration to Hurricane Katrina of 2005, Hurricane Rita of 2005, and Hurricane Wilma of 2005; and
+&emsp;(11) a description of the findings and recommendations of the Administrator, if any, based on a review of the response of the Administration to Hurricane Katrina of 2005,Hurricane Rita of 2005, and Hurricane Wilma of 2005; and
 
 &emsp;(12) a plan for how the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, will coordinate the provision of accommodations and necessary resources for disaster assistance personnel to effectively perform their responsibilities in the aftermath of a major disaster.
 

@@ -44,7 +44,7 @@ Requirement.—The head of each executive agency, after consultation with the As
 
 &emsp;&emsp;(B) be developed and applied according to rigorous standards; and
 
-&emsp;&emsp;(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever those featurescan be applied without reducing the effectiveness of the training or negatively affecting academic standards.
+&emsp;&emsp;(C) be designed to maximize efficiency, through the use of self-paced courses, online courses, on-the-job training, and the use of remote instructors, wherever those features can be applied without reducing the effectiveness of the training or negatively affecting academic standards.
 
 (d)
 
@@ -182,6 +182,8 @@ In subsection (g)(2), the words "Associate Administrator" are substituted for "A
 
 In subsection (g)(3)(D), the reference to "section 37(j) of the Office of Federal Procurement Policy Act" is changed to "section 1703(g) of this title" to correct an error in the law.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239, §1076(a)(14), made technical amendment to directory language of Pub. L. 112–81, §864(a)(2). See 2011 Amendment note below.
@@ -191,6 +193,8 @@ In subsection (g)(3)(D), the reference to "section 37(j) of the Office of Federa
 Pub. L. 112–81, §864(a)(1), inserted "The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management." after "Programs." in introductory provisions.
 
 Subsec. (b)(5), (6). Pub. L. 112–81, §864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

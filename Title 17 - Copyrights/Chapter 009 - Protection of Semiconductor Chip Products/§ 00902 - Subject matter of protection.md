@@ -8,7 +8,7 @@
 
 &emsp;(C) the mask work comes within the scope of a Presidential proclamation issued under paragraph (2).
 
-(2) Whenever the President finds that a foreign nation extends, to mask works of owners who are nationals or domiciliaries of the United States protection (A) on substantially the same basis as that on which the foreign nation extends protection to mask works of its own nationals and domiciliaries and mask works first commercially exploited in that nation, or (B) on substantially the same basis as provided in this chapter, the President may by proclamation extend protection under this chapter to mask works (i) of owners who are, on the date on which the mask works are registered under section 908, or the date on which the mask works are first commercially exploited anywhere in the world, whichever occurs first, nationals,domiciliaries, or sovereign authorities of that nation, or (ii) which are first commercially exploited in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation.
+(2) Whenever the President finds that a foreign nation extends, to mask works of owners who are nationals or domiciliaries of the United States protection (A) on substantially the same basis as that on which the foreign nation extends protection to mask works of its own nationals and domiciliaries and mask works first commercially exploited in that nation, or (B) on substantially the same basis as provided in this chapter, the President may by proclamation extend protection under this chapter to mask works (i) of owners who are, on the date on which the mask works are registered under section 908, or the date on which the mask works are first commercially exploited anywhere in the world, whichever occurs first, nationals, domiciliaries, or sovereign authorities of that nation, or (ii) which are first commercially exploited in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation.
 
 (b) Protection under this chapter shall not be available for a mask work that—
 
@@ -20,9 +20,13 @@
 
 (Added Pub. L. 98–620, title III, §302, Nov. 8, 1984, 98 Stat. 3348; amended Pub. L. 100–159, §3, Nov. 9, 1987, 101 Stat. 900.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–159 inserted provision at end permitting the President to revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12504. Protection of Semiconductor Chip Products
 

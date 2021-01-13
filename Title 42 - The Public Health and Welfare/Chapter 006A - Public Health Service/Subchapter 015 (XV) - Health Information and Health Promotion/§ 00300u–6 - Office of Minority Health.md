@@ -8,7 +8,7 @@ There is established an Office of Minority Health. The Office of Minority Health
 
 With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the "Deputy Assistant Secretary"), shall carry out the following:
 
-&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all otheractivities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
 
 &emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
 
@@ -34,7 +34,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(9) Carry out programs to improve access to health care services for individuals with limited proficiency in speaking the English language. Activities under the preceding sentence shall include developing and evaluating model projects.
 
-&emsp;(10) Advise in matters related to the development, implementation, and evaluation of health professions education in decreasing disparities in health care outcomes, including cultural competency as a method of eliminating health disparities.
+&emsp;(10) Advise in matters related to the development, implementation, and evaluation ofhealth professions education in decreasing disparities in health care outcomes, including cultural competency as a method of eliminating health disparities.
 
 #### (c) Advisory Committee
 
@@ -80,7 +80,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) in collaboration with appropriate personnelof the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
@@ -178,7 +178,7 @@ Pub. L. 101–557, title IV, §401(a)(2), Nov. 15, 1990, 104 Stat. 2771, provide
 
 #### Transfer of Functions
 
-Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under the authority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
+Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to theOffice of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under the authority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
 
 #### Termination of Advisory Committees
 

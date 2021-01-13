@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, includingmortgages held in a securitization or other investment vehicle—
+Notwithstanding any other provision of law, whenever a servicer of residential mortgages agrees to enter into a qualified loss mitigation plan with respect to 1 or more residential mortgages originated before May 20, 2009, including mortgages held in a securitization or other investment vehicle—
 
 &emsp;(1) to the extent that the servicer owes a duty to investors or other parties to maximize the net present value of such mortgages, the duty shall be construed to apply to all such investors and parties, and not to any individual party or group of parties; and
 

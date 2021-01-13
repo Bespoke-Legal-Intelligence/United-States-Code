@@ -100,7 +100,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findingsand order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
 
 #### (k) Identification of signals
 
@@ -131,6 +131,8 @@ For purposes of this section—
 &emsp;&emsp;(B) whose Grade B service contour, as defined in section 73.683(a) of such title (as in effect on March 29, 1990), or any successor regulations thereto, encompasses the principal headend of the cable system.
 
 (June 19, 1934, ch. 652, title VI, §615, as added Pub. L. 102–385, §5, Oct. 5, 1992, 106 Stat. 1477.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

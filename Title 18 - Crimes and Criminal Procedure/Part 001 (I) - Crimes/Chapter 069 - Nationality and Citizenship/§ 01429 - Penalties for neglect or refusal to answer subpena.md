@@ -4,6 +4,8 @@ Any person who has been subpenaed under the provisions of subsection (d) of sect
 
 (Added June 27, 1952, ch. 477, title IV, §402(b), 66 Stat. 276; amended Pub. L. 97–116, §18(u)(1), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(21), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (d) of section 336 of the Immigration and Nationality Act, referred to in text, is classified to section 1447(d) of Title 8, Aliens and Nationality.
@@ -16,9 +18,11 @@ Subsection (d) of section 336 of the Immigration and Nationality Act, referred t
 
 <b>1981</b>—Pub. L. 97–116 substituted "subsection (d)" for "subsection (e)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment; Savings Provisions
 
-Amendment by Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions, see section 408(a)(3)and (d) of Pub. L. 101–649, set out as a note under section 1421 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 101–649 effective Nov. 29, 1990, with general savings provisions, see section 408(a)(3) and (d) of Pub. L. 101–649, set out as a note under section 1421 of Title 8, Aliens and Nationality.
 
 #### Effective Date of 1981 Amendment
 

@@ -56,7 +56,7 @@ In subsection (b)(1), before clause (A), the words "as is necessary" are omitted
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304 substituted "Secretary of Homeland Security" and "section 60105 of title 46" for "Secretary of the Treasury" and "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)", respectively.
+<b>2006</b>—Subsec. (c)(1). Pub. L. 109–304 substituted "Secretary of Homeland Security" and "section 60105 oftitle 46" for "Secretary of the Treasury" and "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)", respectively.
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary of Transportation".
 

@@ -38,7 +38,7 @@ Pub. L. 114–113, div. Q, title II, §201(d), Dec. 18, 2015, 129 Stat. 3076, pr
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 6402 of this title\] shall apply to returns and statements relating to calendar years beginning after the date of the enactment of this Act \[Dec. 18, 2015\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 6402 of this title\] shall apply to returns and statements relating to calendar years beginning after the date of the enactment of this Act \[Dec. 18, 2015\].
 
 "(2)
 

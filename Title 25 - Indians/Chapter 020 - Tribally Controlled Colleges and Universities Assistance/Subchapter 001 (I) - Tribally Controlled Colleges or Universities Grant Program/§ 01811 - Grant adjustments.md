@@ -32,9 +32,11 @@
 
 #### (c) Reallocation of funds
 
-In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available to pay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under section 1807(a) of this title.
+In any fiscal year in which the amounts for which grant recipients are eligible to receive have been reduced under the first sentence of subsection (a) of this section, and in which additional funds have not been made available topay in full the total of such amounts under the second sentence of such subsection, each grantee shall report to the Secretary any unused portion of received funds ninety days prior to the grant expiration date. The amounts so reported by any grant recipient shall be made available for reallocation to eligible grantees on a basis proportionate to the amount which is unfunded as a result of the ratable reduction, but no grant recipient shall receive, as a result of such reallocation, more than the amount provided for under section 1807(a) of this title.
 
 (Pub. L. 95–471, title I, §111, formerly §110, Oct. 17, 1978, 92 Stat. 1328; renumbered §111 and amended Pub. L. 98–192, §§4(a)(1), (b)(3), 10, Dec. 1, 1983, 97 Stat. 1336, 1338; Pub. L. 101–477, §1(c), Oct. 30, 1990, 104 Stat. 1152; Pub. L. 105–244, title IX, §901(b)(6), (8), Oct. 7, 1998, 112 Stat. 1828.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Subsec. (a)(1)(B)(ii). Pub. L. 101–477, §1(c)(2), amended cl. (ii) generally.
 Subsecs. (b), (c). Pub. L. 98–192, §10, added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Pub. L. 98–192, §4(b)(3), made a technical amendment to reference to section 1807 of this title to reflect renumbering of that section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

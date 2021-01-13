@@ -38,6 +38,8 @@ Fines and Penalties.—Whoever, being an officer, employee, or agent of an agenc
 
 (Added Pub. L. 115–435, title III, §302(a), Jan. 14, 2019, 132 Stat. 5548.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of Title 5, Government Organization and Employees.

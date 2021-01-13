@@ -6,7 +6,7 @@
 
 (c) The orders, writs, and process of the district courts may, in the cases specified in subsection (b) and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49, run, be served and be returnable anywhere in the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 969; May 24, 1949, ch. 139, §115, 63 Stat. 105; Pub. L. 93–584, §5, Jan.2, 1975, 88 Stat. 1917; Pub. L. 95–473, §2(a)(3)(B), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §305(c)(1)(B), (C), Dec. 29, 1995, 109 Stat. 945.)
+(June 25, 1948, ch. 646, 62 Stat. 969; May 24, 1949, ch. 139, §115, 63 Stat. 105; Pub. L. 93–584, §5, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, §2(a)(3)(B), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §305(c)(1)(B), (C), Dec. 29, 1995, 109 Stat. 945.)
 
 #### Historical and Revision Notes
 
@@ -24,6 +24,8 @@ Changes were made in phraseology.
 
 This section corrects, in section 2321 of title 28, U.S.C., the reference to certain sections in title 49, U.S.C. The provisions which were formerly set out as section 49 of such title 49, are now set out as section 23 of such title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–88 substituted "Board's" for "Commission's" in section catchline and "Surface Transportation Board" for "Interstate Commerce Commission" in subsecs. (a) and (b).
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 93–584 designated existing first par. as subsec. (b) and 
 Subsec. (c). Pub. L. 93–584 designated existing second par. as subsec. (c), substituted reference to subsec. (b) of this section for reference to this section, and inserted references to the dates of enactment, statute citations and code references of sections 20, 23 and 43 of Title 49.
 
 <b>1949</b>—Act May 24, 1949, substituted "20, 23, and 43" for "20, 43, and 49" in second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

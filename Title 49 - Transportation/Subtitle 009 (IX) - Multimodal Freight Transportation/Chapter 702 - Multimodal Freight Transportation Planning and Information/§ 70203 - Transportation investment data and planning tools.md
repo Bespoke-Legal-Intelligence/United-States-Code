@@ -4,7 +4,7 @@
 
 In General.—Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—
 
-&emsp;(1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—
+&emsp;(1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach toevaluate proposed freight-related and other transportation projects, including—
 
 &emsp;&emsp;(A) methodologies for systematic analysis of benefits and costs on a national or regional basis;
 

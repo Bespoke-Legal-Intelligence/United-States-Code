@@ -40,7 +40,7 @@ In general.—Accounting principles applicable to reports or statements required
 
 &emsp;&emsp;(ii)
 
-Board determination.—If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
+Board determination.—If the Board determines that the application of any generally accepted accounting principle to anyinsured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
 
 &emsp;&emsp;(iii)
 
@@ -112,7 +112,7 @@ Data sharing with other agencies and persons.—In addition to reports of examin
 
 (1)(A)(i) Each insured credit union shall pay to and maintain with the National Credit Union Share Insurance Fund a deposit in an amount equaling 1 per centum of the credit union's insured shares.
 
-(ii) The Board may, in its discretion, authorize insured credit unions to initially fund such deposit over a period of time in excess of one year if necessary to avoid adverse effects on the condition of insured credit unions.
+(ii) The Board may, in its discretion, authorize insured credit unions to initially fund such deposit over a period of time in excess of one yearif necessary to avoid adverse effects on the condition of insured credit unions.
 
 (iii)
 
@@ -166,7 +166,7 @@ In general.—Whenever—
 
 &emsp;&emsp;(ii)
 
-Requirements of restoration plan.—A restoration plan meets the requirements of this clause if the plan provides that the equity ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (C) before the end of the 8-year period beginning upon the implementation of theplan (or such longer period as the Board may determine to be necessary due to extraordinary circumstances).
+Requirements of restoration plan.—A restoration plan meets the requirements of this clause if the plan provides that the equity ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (C) before the end of the 8-year period beginning upon the implementation of the plan (or such longer period as the Board may determine to be necessary due to extraordinary circumstances).
 
 &emsp;&emsp;(iii)
 
@@ -204,7 +204,7 @@ Timeliness and accuracy of data.—In calculating the available assets ratio and
 
 #### (d) Remedy for failure to report; penalty for failure to file certified statement or pay premium; dispute as to deposit or premium charge; prohibition on distribution of assets or dividends while in default
 
-(1) Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purpose by the Board against the credit union and any officer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.
+(1) Any insured credit union which fails to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by it in connection with determining the amount of its deposit or any premium charge for insurance may be compelled to make such report or to file such statement by mandatory injunction or other appropriate remedy in a suit brought for such purposeby the Board against the credit union and any officer or officers thereof. Any such suit may be brought in any court of the United States of competent jurisdiction in the district or territory in which the principal office of the credit union is located.
 
 (2)
 
@@ -258,7 +258,7 @@ The Board, in a suit brought at law or in equity in any court of competent juris
 
 #### (f) Penalty for failure to comply with section; court determination of failure; remedies not exclusive
 
-Should any Federal credit union fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed under subsection (b) of this section or to pay its deposit or any premium charge for insurance required to be paid under any provision of this subchapter, and should the credit union fail to correct such failure within thirty days after written notice has been given by the Board to an officer of the credit union, citing this subsection and stating that the credit union has failed to make any such report or file any such statement or pay any such deposit or premium charges as required by law, all the rights, privileges, and franchises of the credit union granted to it under subchapter I of this chapter shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which the principal office of such credit union is located, under direction of and by the Board in its own name, before the credit union shall be declared dissolved. The remedies provided in this subsection and in subsections (d) and (e) of this section shall not be construed as limiting any other remedies against any insured credit union but shall be in addition thereto.
+Should any Federal credit union fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed under subsection (b) of this section or to pay its deposit or any premium charge for insurance required to be paid under any provision of this subchapter, and should thecredit union fail to correct such failure within thirty days after written notice has been given by the Board to an officer of the credit union, citing this subsection and stating that the credit union has failed to make any such report or file any such statement or pay any such deposit or premium charges as required by law, all the rights, privileges, and franchises of the credit union granted to it under subchapter I of this chapter shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which the principal office of such credit union is located, under direction of and by the Board in its own name, before the credit union shall be declared dissolved. The remedies provided in this subsection and in subsections (d) and (e) of this section shall not be construed as limiting any other remedies against any insured credit union but shall be in addition thereto.
 
 #### (g) Records
 
@@ -294,9 +294,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Normal operating level
 
-&emsp;The term "normal operating level", when applied to the Fund, means an equity ratiospecified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
+&emsp;The term "normal operating level", when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
 (June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, §204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, §2, Jan. 4, 2011, 124 Stat. 4135.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -316,7 +318,7 @@ Subsec. (b). Pub. L. 105–219, §302(a)(1), added subsec. (b) and struck out fo
 
 "(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
-"(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
+"(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in suchform and shall set forth such supporting information as the Board shall require.
 
 "(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder."
 
@@ -348,7 +350,7 @@ Subsec. (a)(6). Pub. L. 101–73, §919, added par. (6).
 
 Subsec. (a)(7). Pub. L. 101–73, §931(b), added par. (7).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted "For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section." for "On or before January 31 of each insurance year, each insured credit union whichbecame insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section."
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted "For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section." for "On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section."
 
 Subsec. (c)(1). Pub. L. 98–369, §2803(6), added par. (1). Former par. (1) redesignated (2).
 
@@ -372,7 +374,7 @@ Subsec. (g). Pub. L. 98–369, §2807, inserted "and deposit" and "deposit or ad
 
 Subsec. (h)(1). Pub. L. 98–369, §2808, inserted ", unless otherwise prescribed by the Board".
 
-Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted "fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine" for "Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions".
+Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted "fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or suchlower level as the Board may determine" for "Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions".
 
 Subsec. (h)(3). Pub. L. 98–369, §2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the term 'members accounts' when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;".
 
@@ -393,6 +395,8 @@ Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted "Board" for "Admini
 Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted "The term 'member account' when" for "the term 'members accounts' when", struck out "of federally insured credit unions" after "of accounts", and inserted "received from other federally insured credit unions" after "not include amounts".
 
 <b>1974</b>—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

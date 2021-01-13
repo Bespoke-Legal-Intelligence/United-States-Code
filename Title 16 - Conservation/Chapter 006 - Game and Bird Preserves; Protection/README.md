@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [671\.](%C2%A7%2000671%20-%20National%20Bison%20Range.md) | National Bison Range. |
+| [671\.](%C2%A7%2000671%20-%20Repealed%20and%20Omitted.md) | Repealed and Omitted. |
 | [672\.](%C2%A7%2000672%20-%20Omitted.md) | Omitted. |
 | [673\.](%C2%A7%2000673%20-%20Wyoming%20Elk%20Reserve.md) | Wyoming Elk Reserve. |
 | [673a.](%C2%A7%2000673a%20-%20Addition%20to%20the%20Wyoming%20Elk%20Reserve.md) | Addition to the Wyoming Elk Reserve. |
@@ -131,7 +131,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00671 - National Bison Range](%C2%A7%2000671%20-%20National%20Bison%20Range.md)
+- [&sect; 00671 - Repealed and Omitted](%C2%A7%2000671%20-%20Repealed%20and%20Omitted.md)
 - [&sect; 00672 - Omitted](%C2%A7%2000672%20-%20Omitted.md)
 - [&sect; 00673 - Wyoming Elk Reserve](%C2%A7%2000673%20-%20Wyoming%20Elk%20Reserve.md)
 - [&sect; 00673a - Addition to the Wyoming Elk Reserve](%C2%A7%2000673a%20-%20Addition%20to%20the%20Wyoming%20Elk%20Reserve.md)

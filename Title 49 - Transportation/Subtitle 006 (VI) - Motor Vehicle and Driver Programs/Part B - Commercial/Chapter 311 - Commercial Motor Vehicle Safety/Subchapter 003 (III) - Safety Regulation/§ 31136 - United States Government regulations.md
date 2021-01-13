@@ -130,7 +130,7 @@ Oct. 30, 1984, Pub. L. 98–554, §206(h), 98 Stat. 2835; restated Nov. 18, 1988
 
 In subsection (a), the text of 49 App.:2505(g) is omitted because 5:ch. 7 applies unless otherwise stated. Before clause (1), the words "Not later than 18 months after October 30, 1984" are omitted because the time period specified has expired. The words "Subject to section 30103(a) of this title" are added to alert the reader to that section.
 
-In subsection (c)(1), the words "except that the time periods specified in this subsection shall apply to the issuance of such regulations" are omitted because the time periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
+In subsection (c)(1), the words "except that the time periods specified in this subsection shall apply to the issuance of such regulations" are omitted because thetime periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
 
 In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
 
@@ -178,7 +178,7 @@ Vehicle Safety Technology Defined.—In this section, the term 'vehicle safety t
 
 "(c)
 
-Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level ofsafety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
+Rule of Construction.—For purposes of this section, any windshield mounted technology with a short term exemption under part 381 of title 49, Code of Federal Regulations, on the date of enactment of this Act, shall be considered likely to achieve a level of safety that is equivalent to or greater than the level of safety that would be achieved absent an exemption under subsection (a)."
 
 #### Operators of Hi-Rail Vehicles
 
@@ -298,7 +298,7 @@ Commercial motor vehicle.—Except as otherwise specified, the term 'commercial 
 
 &emsp;"(4)
 
-Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system'means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
+Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system' means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
 
 &emsp;"(5)
 
@@ -364,7 +364,7 @@ Roof strength and crush resistance.—The Secretary shall establish improved roo
 
 &emsp;"(2)
 
-Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standards on the use of motorcoach portals as a means of emergency egress.
+Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standardson the use of motorcoach portals as a means of emergency egress.
 
 &emsp;"(3)
 
@@ -426,7 +426,7 @@ Report.—The Secretary shall submit a report on the assessment to the Committee
 
 "(a)
 
-Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression,prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
+Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
 
 "(b)
 
@@ -696,7 +696,7 @@ Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safetyregulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
@@ -816,7 +816,7 @@ Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided th
 
 #### Application of Regulations to Certain Commercial Motor Vehicles
 
-Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: "Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations."
+Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: "Effective on the last day ofthe 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations."
 
 #### Improved Interstate School Bus Safety
 

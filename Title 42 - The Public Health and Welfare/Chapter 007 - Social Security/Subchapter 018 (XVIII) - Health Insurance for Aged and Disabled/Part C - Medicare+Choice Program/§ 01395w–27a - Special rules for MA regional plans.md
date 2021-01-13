@@ -308,7 +308,7 @@ Subsec. (i). Pub. L. 111–148, §3201(f)(2)(B), which directed addition of subs
 
 <b>2008</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–275 substituted "2014" for "2013" and "$1" for "$1,790,000,000".
 
-<b>2007</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of "the Fund during 2013,$1,790,000,000." for "the Fund" and all that follows, was executed by making the substitution for "the Fund—
+<b>2007</b>—Subsec. (e)(2)(A)(i). Pub. L. 110–173, which directed substitution of "the Fund during 2013, $1,790,000,000." for "the Fund" and all that follows, was executed by making the substitution for "the Fund—
 
 &emsp;"(I) during 2012, $1,600,000,000; and
 

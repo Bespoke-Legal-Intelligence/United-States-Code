@@ -1,0 +1,34 @@
+### §42502. National Shipper Advisory Committee
+
+(a)
+
+Establishment.—There is established a National Shipper Advisory Committee.
+
+(b)
+
+Function.—The Committee shall advise the Federal Maritime Commission on policies relating to the competitiveness, reliability, integrity, and fairness of the international ocean freight delivery system.
+
+(c)
+
+Membership.—
+
+&emsp;(1)
+
+In general.—The Committee shall consist of 24 members appointed by the Commission in accordance with this section.
+
+&emsp;(2)
+
+Expertise.—Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+
+&emsp;(3)
+
+Representation.—REPRESENTATION.— <sup>1</sup> Members of the Committee shall be appointed as follows: — <sup>1</sup>
+
+&emsp;&emsp;(A) Twelve members shall represent entities who import cargo to the United States using ocean common carriers.
+
+&emsp;&emsp;(B) Twelve members shall represent entities who export cargo from the United States using ocean common carriers.
+
+(Added Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8604(a), Jan. 1, 2021, 134 Stat. 4762.)
+
+<i><sup>1</sup></i><i> So in original.</i>
+

@@ -28,15 +28,23 @@ Points of Entry Into Defense Market.—The Secretary shall ensure—
 
 (e)
 
-Enhanced Outreach Under Procurement Technical Assistance Program Market.—TheSecretary shall enable and promote activities to provide coordinated outreach to small business concerns through any procurement technical assistance program established under chapter 142 of this title to facilitate small business contracting with the Department of Defense.
+Enhanced Outreach Under Procurement Technical Assistance Program Market.—The Secretary shall enable and promote activities to provide coordinated outreach to small business concerns through any procurement technical assistance program established under chapter 142 of this title to facilitate small business contracting with the Department of Defense.
 
 (Added Pub. L. 115–232, div. A, title VIII, §851(a), Aug. 13, 2018, 132 Stat. 1883.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1871(b), Jan. 1, 2021, 134 Stat. 4151, 4287, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 387 of this title, as added by "paragraph (1)" (probably means subsection (a)(2)) of section 1871 of Pub. L. 116–283, inserted after the table of sections at the end of subchapter I, and redesignated as section 4901 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in subsec. (b)(1), is classified to section 632 of Title 15, Commerce and Trade.
 
 Section 801 of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (c), is section 801 of Pub. L. 115–91, which is set out as a note under section 2302 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Pilot Program for Development of Technology-Enhanced Capabilities With Partnership Intermediaries
 

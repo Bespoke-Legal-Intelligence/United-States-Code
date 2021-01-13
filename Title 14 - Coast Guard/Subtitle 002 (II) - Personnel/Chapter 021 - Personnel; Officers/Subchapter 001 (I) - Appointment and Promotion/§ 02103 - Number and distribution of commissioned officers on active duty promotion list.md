@@ -38,7 +38,7 @@ Rounding fractions.—Subject to subsection (a), in making the computations unde
 
 &emsp;(3)
 
-Treatment of officers serving outside coast guard.—The number of commissioned officers on the active duty promotion list below the rank of rear admiral (lower half)serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
+Treatment of officers serving outside coast guard.—The number of commissioned officers on the active duty promotion list below the rank of vice admiral serving with other Federal departments or agencies on a reimbursable basis or excluded under section 324(d) of title 49 shall not be counted against the total number of commissioned officers authorized to serve in each grade.
 
 (d)
 
@@ -48,7 +48,7 @@ Use of Numbers; Temporary Increases.—The numbers resulting from computations u
 
 Officers Serving Coast Guard Academy and Reserve.—The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497, §42; July 20, 1956, ch. 647, §2, 70 Stat. 588; Pub. L. 86–474, §1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, §1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, §1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, §1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, §4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, §2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, §5(b), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–557, §25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, §201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, §214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, §204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, §201, Dec. 18, 2014, 128 Stat. 3024; renumbered §2103, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497, §42; July 20, 1956, ch. 647, §2, 70 Stat. 588; Pub. L. 86–474, §1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, §1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, §1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, §1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, §4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, §2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, §5(b), Jan. 12, 1983, 96Stat. 2442; Pub. L. 98–557, §25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, §201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, §214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, §204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, §201, Dec. 18, 2014, 128 Stat. 3024; renumbered §2103, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8217, Jan. 1, 2021, 134 Stat. 4653.)
 
 #### Historical and Revision Notes
 
@@ -56,7 +56,11 @@ Based on title 14, U.S.C., 1946 ed., §6a (July 23, 1947, ch. 301, §1, 61 Stat.
 
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(3). Pub. L. 116–283 substituted "vice admiral" for "rear admiral (lower half)".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 42 of this title as this section.
 
@@ -93,6 +97,8 @@ Subsec. (e). Pub. L. 97–449 substituted "section 324(d) of title 49" for "sect
 <b>1960</b>—Pub. L. 86–474 substituted "three thousand five hundred" for "three thousand".
 
 <b>1956</b>—Act July 20, 1956, substituted "three thousand" for "two thousand two hundred and fifty" and inserted "except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1972 Amendment
 

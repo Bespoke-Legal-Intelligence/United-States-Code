@@ -1,0 +1,60 @@
+### §10008. Multilateral assistance
+
+#### (a) Sense of the Congress
+
+It is the sense of the Congress that—
+
+&emsp;(1) Sudan's economic challenges are a legacy of decades of kleptocracy, economic mismanagement, and war;
+
+&emsp;(2) Sudan's economic recovery will depend on—
+
+&emsp;&emsp;(A) combating corruption and illicit economic activity;
+
+&emsp;&emsp;(B) ending internal conflicts in the states of Darfur, South Kordofan, and Blue Nile; and
+
+&emsp;&emsp;(C) promoting inclusive economic growth and development; and
+
+&emsp;(3) the COVID–19 outbreak constitutes a grave danger to Sudan's economic stability, public health, and food security and jeopardizes the transition to a civilian-led government that promotes the democratic aspirations of the Sudanese people.
+
+#### (b) Responding to the COVID–19 outbreak
+
+During the transitional period, and notwithstanding any other provision of law, the Secretary of the Treasury may instruct the United States Executive Director at each internationalfinancial institution to use the voice and vote of the United States to support loans or other utilization of the funds of the respective institution for Sudan for the purpose of addressing basic human needs, responding to the COVID–19 outbreak and its impact on the country's economic stability, or promoting democracy, governance, or public financial management in Sudan.
+
+#### (c) Debt relief
+
+Upon the removal of Sudan from the State Sponsors of Terrorism List, and once the Sovereignty Council is chaired by a civilian leader, the Secretary of the Treasury and the Secretary of State should engage with international financial institutions and other bilateral official creditors to advance agreement through the Heavily Indebted Poor Countries (HIPC) Initiative to restructure, reschedule, or cancel the sovereign debt of Sudan.
+
+#### (d) Reporting requirement
+
+Not later than 3 months after January 1, 2021, and not less frequently than once every 6 months thereafter during the transitional period, the Secretary of the Treasury, in consultation with the Secretary of State, shall report to the appropriate congressional committees regarding the extent to which the transitional government of Sudan has taken demonstrable steps to strengthen governance and improve fiscal transparency, including—
+
+&emsp;(1) establishing civilian control over the finances and assets of the Sudanese security and intelligence services;
+
+&emsp;(2) developing a transparent budget that accounts for all expenditures related to the security and intelligence services;
+
+&emsp;(3) identifying the shareholdings in all public and private companies not exclusively dedicated to the national defense held or managed by the security and intelligence services, and publicly disclosing, evaluating, and transferring all such shareholdings to the Ministry of Finance of the Government of Sudan or to any specialized entity of the Government of Sudan established under law for this purpose, which is ultimately accountable to a civilian authority;
+
+&emsp;(4) ceasing the involvement of the security and intelligence services officials, and their immediate family members, in the illicit trade in mineral resources, including petroleum and gold;
+
+&emsp;(5) implementing a publicly transparent methodology for the Government of Sudan to recover, evaluate, hold, manage, or divest any state assets and the profits derived from the assets that may have been transferred to the National Congress Party, an affiliate of the National Congress Party, or an official of the National Congress Party in the individual capacity of such an official;
+
+&emsp;(6) identifying and monitoring the nature and purpose of offshore financial resources controlled by the security and intelligence services; and
+
+&emsp;(7) strengthening banking regulation and supervision and addressing anti-money laundering and counter-terrorism financing deficiencies.
+
+#### (e) Appropriate congressional committees defined
+
+Notwithstanding section 10001 of this title, in this section, the term "appropriate congressional committees" means—
+
+&emsp;(1) the Committee on Foreign Relations of the Senate;
+
+&emsp;(2) the Committee on Appropriations of the Senate;
+
+&emsp;(3) Committee on Foreign Affairs of the House of Representatives;
+
+&emsp;(4) the Committee on Appropriations of the House of Representatives; and
+
+&emsp;(5) the Committee on Financial Services of the House of Representatives.
+
+(Pub. L. 116–283, div. A, title XII, §1269, Jan. 1, 2021, 134 Stat. 3972.)
+

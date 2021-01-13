@@ -22,9 +22,13 @@ There shall be printed of the Journals of the Senate and House of Representative
 
 Based on 44 U.S. Code, 1964 ed., §147 (Jan. 12, 1895, ch. 23, §57, 28 Stat. 609; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–164 substituted "eight hundred and twenty" for "eight hundred and twenty-two" as total number of Journals printed and struck out provision that directed that two copies be distributed to the Court of Claims.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

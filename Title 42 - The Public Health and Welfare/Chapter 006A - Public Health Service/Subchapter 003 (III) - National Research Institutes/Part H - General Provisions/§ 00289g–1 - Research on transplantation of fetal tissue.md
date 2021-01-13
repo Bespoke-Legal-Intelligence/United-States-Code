@@ -68,7 +68,7 @@ In research carried out under subsection (a), human fetal tissue may be used onl
 
 #### (2) Confidentiality of audit
 
-&emsp;Any audit conducted by the Secretary pursuant to paragraph (1) shall be conducted in a confidential manner to protect the privacy rights of the individuals and entities involved in such research, including such individuals and entities involved in the donation, transfer, receipt, or transplantation of human fetal tissue. With respect to any material or information obtained pursuant to such audit, the Secretary shall—
+&emsp;Any audit conducted by the Secretary pursuant to paragraph (1) shall be conducted in aconfidential manner to protect the privacy rights of the individuals and entities involved in such research, including such individuals and entities involved in the donation, transfer, receipt, or transplantation of human fetal tissue. With respect to any material or information obtained pursuant to such audit, the Secretary shall—
 
 &emsp;&emsp;(A) use such material or information only for the purposes of verifying compliance with the requirements of this section;
 
@@ -116,7 +116,7 @@ Prohibition Against Withholding of Funds in Cases of Technical and Scientific Me
 
 &emsp;"(1)
 
-In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[42 U.S.C. 289a–1(b)(2)\] (as added by section 101 of this Act), in the case of any proposal for research on thetransplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
+In general.—Subject to subsection (b)(2) of section 492A of the Public Health Service Act \[42 U.S.C. 289a–1(b)(2)\] (as added by section 101 of this Act), in the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the Secretary of Health and Human Services may not withhold funds for the research if—
 
 &emsp;&emsp;"(A) the research has been approved for purposes of subsection (a) of such section 492A;
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [981\.](%C2%A7%2000981%20-%20Creation%20of%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md) | Creation of Saint Lawrence Seaway Development Corporation. |
+| [981\.](%C2%A7%2000981%20-%20Creation%20of%20Corporation.md) | Creation of Corporation. |
 | [982\.](%C2%A7%2000982%20-%20Management%20of%20Corporation%3B%20appointment%20of%20Administrator%3B%20terms%3B%20vacancy%3B%20Advisory%20Board%3B%20establishment%3B%20membership%3B%20meetings%3B%20duties%E2%80%A6.md) | Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses |
 | [983\.](%C2%A7%2000983%20-%20Functions%20of%20Corporation.md) | Functions of Corporation. |
 | [984\.](%C2%A7%2000984%20-%20General%20powers%20of%20Corporation.md) | General powers of Corporation. |
@@ -23,7 +23,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00981 - Creation of Saint Lawrence Seaway Development Corporation](%C2%A7%2000981%20-%20Creation%20of%20Saint%20Lawrence%20Seaway%20Development%20Corporation.md)
+- [&sect; 00981 - Creation of Corporation](%C2%A7%2000981%20-%20Creation%20of%20Corporation.md)
 - [&sect; 00982 - Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties&#8230;](%C2%A7%2000982%20-%20Management%20of%20Corporation%3B%20appointment%20of%20Administrator%3B%20terms%3B%20vacancy%3B%20Advisory%20Board%3B%20establishment%3B%20membership%3B%20meetings%3B%20duties%E2%80%A6.md)
 - [&sect; 00983 - Functions of Corporation](%C2%A7%2000983%20-%20Functions%20of%20Corporation.md)
 - [&sect; 00984 - General powers of Corporation](%C2%A7%2000984%20-%20General%20powers%20of%20Corporation.md)

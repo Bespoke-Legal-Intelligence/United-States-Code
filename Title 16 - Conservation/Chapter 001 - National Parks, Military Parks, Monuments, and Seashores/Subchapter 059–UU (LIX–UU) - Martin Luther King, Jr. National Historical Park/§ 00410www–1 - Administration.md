@@ -1,10 +1,10 @@
 ### §410www–1. Administration
 
-(a) The Secretary of the Interior (hereinafter referred to as "the Secretary") shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this subchapter, and the provisions of law generally applicable to national historic sites,<sup>1</sup> including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4) and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7).
+(a) The Secretary of the Interior (hereinafter referred to as "the Secretary") shall administer the Martin Luther King, Jr. National Historical Park and Preservation District in accordance with the provisions of this subchapter, and the provisions of law generally applicable to national historic sites,<sup>1</sup> including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4) and theAct of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7).
 
 (b)(1) Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
 
-(2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part,by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
+(2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
 
 &emsp;(A) the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
 

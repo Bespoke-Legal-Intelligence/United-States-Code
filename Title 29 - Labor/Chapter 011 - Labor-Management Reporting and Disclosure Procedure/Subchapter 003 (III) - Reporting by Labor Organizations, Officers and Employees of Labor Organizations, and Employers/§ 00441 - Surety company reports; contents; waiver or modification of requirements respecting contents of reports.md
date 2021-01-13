@@ -2,7 +2,9 @@
 
 Each surety company which issues any bond required by this chapter or the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] shall file annually with the Secretary, with respect to each fiscal year during which any such bond was in force, a report, in such form and detail as he may prescribe by regulation, filed by the president and treasurer or corresponding principal officers of the surety company, describing its bond experience under each such chapter or Act, including information as to the premiums received, total claims paid, amounts recovered by way of subrogation, administrative and legal expenses and such related data and information as the Secretary shall determine to be necessary in the public interest and to carry out the policy of the chapter. Notwithstanding the foregoing, if the Secretary finds that any such specific information cannot be practicably ascertained or would be uninformative, the Secretary may modify or waive the requirement for such information.
 
-(Pub. L. 86–257, title II, §211, as added Pub. L. 89–216, §3, Sept. 29, 1965, 79 Stat. 888; amended Pub. L. 93–406, title I, §111(a)(2)(D), Sept. 2, 1974, 88 Stat. 852.)
+(Pub. L. 86–257, title II, §211, as added Pub. L. 89–216, §3, Sept. 29, 1965, 79 Stat. 888; amendedPub. L. 93–406, title I, §111(a)(2)(D), Sept. 2, 1974, 88 Stat. 852.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–406 substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

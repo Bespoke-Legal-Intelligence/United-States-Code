@@ -8,7 +8,7 @@ The Mayor shall insure that the requirements of the Buy American Act of 1933, as
 
 (1) If the Mayor, after consultation with the United States Trade Representative, determines that a foreign country which is party to an agreement described in paragraph (2) has violated the terms of the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the United States Trade Representative shall rescind the waiver of the Buy American Act with respect to such types of products produced in that foreign country.
 
-(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United States and a foreign country pursuant to which thehead of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
+(2) An agreement referred to in paragraph (1) is any agreement,<sup>1</sup> between the United States and a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
 #### (c) Report to Congress
 
@@ -27,6 +27,8 @@ No contract or subcontract made with funds authorized under this subchapter <su
 If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a "Made in America" inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract under this subchapter, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
 (Pub. L. 98–621, §11, as added Pub. L. 102–150, §4(2), Oct. 31, 1991, 105 Stat. 981.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

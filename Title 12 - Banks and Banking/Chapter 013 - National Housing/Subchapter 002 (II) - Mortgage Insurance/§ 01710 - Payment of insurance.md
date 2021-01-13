@@ -222,7 +222,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 #### (B) Non-preferred purchasers
 
-&emsp;&emsp;Under the program under this subsection, the Secretary may sell an eligible asset to a purchaser who is not a preferred purchaser only pursuant to a binding agreement by the purchaser that complies with the following requirements:
+&emsp;&emsp;Under the program under this subsection, the Secretary may sell an eligible asset to apurchaser who is not a preferred purchaser only pursuant to a binding agreement by the purchaser that complies with the following requirements:
 
 &emsp;&emsp;&emsp;(i) The purchaser has agreed to meet specific performance goals established by the Secretary for home ownership of the asset properties for the eligible assets purchased by the purchaser, except that the Secretary may, by including a provision in the sale agreement required under paragraph (7), provide for a lower rate of home ownership in sales involving exceptional circumstances.
 
@@ -372,7 +372,7 @@ In the event that any mortgagee under a mortgage insured under section 1709 of t
 
 #### (l) Nullification of right of redemption of single family mortgagors
 
-(1) Whenever the Secretary or a contract mortgagee (pursuant to its contract with the Secretary) forecloses on a Secretary-held single family mortgage in any Federal or State court or pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the Secretary or the contract mortgagee, as the case may be. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with a Secretary-held single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
+(1) Whenever the Secretary or a contract mortgagee (pursuant to its contract with the Secretary) forecloses on a Secretary-held single family mortgage in any Federal or State courtor pursuant to a power of sale in a mortgage, the purchaser at the foreclosure sale shall be entitled to receive a conveyance of title to, and possession of, the property, subject to the interests senior to the interests of the Secretary or the contract mortgagee, as the case may be. Notwithstanding any State law to the contrary, there shall be no right of redemption (including in all instances any right to possession based upon any right of redemption) in the mortgagor or any other person subsequent to the foreclosure sale in connection with a Secretary-held single family mortgage. The appropriate State official or the trustee, as the case may be, shall execute and deliver a deed or other appropriate instrument conveying title to the purchaser at the foreclosure sale, consistent with applicable procedures in the jurisdiction and without regard to any such right of redemption.
 
 (2) The following actions shall be taken in order to verify title in the purchaser at the foreclosure sale:
 
@@ -396,6 +396,8 @@ In the event that any mortgagee under a mortgage insured under section 1709 of t
 
 (June 27, 1934, ch. 847, title II, §204, 48 Stat. 1249; May 28, 1935, ch. 150, §29(c), 49 Stat. 300; Feb. 19, 1937, ch. 12, 50 Stat. 20; Feb. 3, 1938, ch. 13, §3, 52 Stat. 12; June 3, 1939, ch. 175, §§9, 10, 53 Stat. 806; June 28, 1941, ch. 261, §9, 55 Stat. 365; Oct. 14, 1943, ch. 258, §1, 57 Stat. 570; Aug. 10, 1948, ch. 832, title I, §101(l), (q), 62 Stat. 1273, 1274; Apr. 20, 1950, ch. 94, title I, §§105, 122, 64 Stat. 52, 59; Sept. 1, 1951, ch. 378, title VI, §604(a), 65 Stat. 314; Aug. 2, 1954, ch. 649, title I, §§111, 112(a), 113, 68 Stat. 593, 594; Aug. 11, 1955, ch. 783, title I, §102(a), 69 Stat. 635; Pub. L. 85–104, title I, §§107, 108(a), July 12, 1957, 71 Stat. 297; Pub. L. 86–372, title I, §§114(b), 117, Sept. 23, 1959, 73 Stat. 662, 664; Pub. L. 87–70, title VI, §612(b), (c), June 30, 1961, 75 Stat. 180; Pub. L. 88–560, title I, §§104(a), 105(a), Sept. 2, 1964, 78 Stat. 769, 770; Pub. L. 89–117, title XI, §1108(d), Aug. 10, 1965, 79 Stat. 504; Pub. L. 90–19, §1(a)(2), (3), (4), (d), May 25, 1967, 81 Stat. 17, 18; Pub. L. 98–181, title I \[title IV, §426\], Nov. 30, 1983, 97 Stat. 1218; Pub. L. 100–242, title V, §569, Feb. 5, 1988, 101 Stat. 1948; Pub. L. 100–628, title X, §1064(a), (b), Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–235, title I, §136, Dec. 15, 1989, 103 Stat. 2028; Pub. L. 102–550, title V, §516(a), Oct. 28, 1992, 106 Stat. 3790; Pub. L. 104–99, title IV, §407(a), Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–134, title I, §101(e) \[title II, §221(a)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title VI, §§601(a), (c), (d), 602, Oct. 21, 1998, 112 Stat. 2670, 2673, 2674; Pub. L. 108–447, div. I, title II, §221, Dec. 8, 2004, 118 Stat. 3320; Pub. L. 111–22, div. A, title II, §203(c), May 20, 2009, 123 Stat. 1644.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635, as amended. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under section 1701 of this title and Tables.
@@ -412,7 +414,7 @@ In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the 
 
 Pub. L. 111–22, §203(c)(1), (2), inserted "or faces imminent default, as defined by the Secretary" after "default" and "support for borrower housing counseling, partial claims, borrower incentives, preforeclosure sale," after "loan modification,".
 
-<b>2004</b>—Subsec. (h)(2). Pub. L. 108–447, §221(1)(A), substituted "following categories of assets of the Secretary, unless the Secretary determines at any time that the asset property is economically or otherwise infeasible to rehabilitate or that the best use of the asset property is as open space (including park land)" for "following assets of the Secretary" in introductory provisions.
+<b>2004</b>—Subsec. (h)(2). Pub. L. 108–447, §221(1)(A), substituted "following categories of assets of the Secretary, unless the Secretary determines at any time that the asset property is economically or otherwise infeasible to rehabilitate or that the best use of the asset property is as open space (including park land)" for"following assets of the Secretary" in introductory provisions.
 
 Subsec. (h)(2)(B)(ii). Pub. L. 108–447, §221(1)(B), inserted "except for mortgages insured under or made pursuant to sections 1715z, 1715z–12, or 1715z–20 of this title" after "chapter".
 
@@ -458,7 +460,7 @@ Subsec. (c). Pub. L. 102–550, §516(a)(2), added subsec. (c) and struck out fo
 
 Subsec. (d). Pub. L. 102–550, §516(a)(3), (4), in first sentence, substituted "issued in the name of" for "executed in the name of" and "and shall be negotiable, and, if in book entry form, transferable, in the manner described by the Secretary in regulations" for ", shall be signed by the Secretary by either his written or engraved signature, and shall be negotiable" and in fifth sentence, substituted "and, in the case of debentures issued in certificated registered form, such guaranty" for "and such guaranty".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–235, §136(a), inserted after third sentence "As a condition of the receipt of such benefits, the mortgagee shall maintain or assure the maintenance of the mortgaged property (in such manner as the Secretary shall by regulation provide) during the period beginning on the taking of the possession or other acquisition of the mortgaged property by the mortgagee and ending on conveyance to the Secretary or other disposition of the mortgaged property in accordance with this section, and funds expended by the mortgagee in meeting such obligation shall be included, to the extent provided in this subsection or in subsection (k) of this section, in debentures or other insurance payment pursuant to this section."
+<b>1989</b>—Subsec. (a). Pub. L. 101–235, §136(a), inserted after third sentence "As a condition of the receipt of such benefits, the mortgagee shall maintain or assure the maintenance of the mortgaged property (in such manner as the Secretary shall by regulation provide) during the period beginning on the taking of the possession or other acquisition of the mortgaged propertyby the mortgagee and ending on conveyance to the Secretary or other disposition of the mortgaged property in accordance with this section, and funds expended by the mortgagee in meeting such obligation shall be included, to the extent provided in this subsection or in subsection (k) of this section, in debentures or other insurance payment pursuant to this section."
 
 Subsec. (g). Pub. L. 101–235, §136(b), inserted after first sentence "The Secretary shall, by regulation, carry out a program of sales of such properties and shall develop and implement appropriate credit terms and standards to be used in carrying out the program."
 
@@ -498,7 +500,7 @@ Subsec. (c). Pub. L. 88–560, §105(a)(4), increased limitation on the differen
 
 Subsec. (d). Pub. L. 88–560, §105(a)(5), substituted ": <i>Provided</i>, That debentures issued pursuant to claims for insurance filed on or after September 2, 1964 shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures" for ", except that debentures issued pursuant to the provisions of section 1715k(f), 1715l(g), and 1715x of this title may be dated as of the date the mortgage is assigned (or the property is conveyed) to the Commissioner, and" in second sentence.
 
-Subsec. (e). Pub. L. 88–560, §105(a)(6)(A), designated existing provisions as par. (1), substituted "Subject to paragraph (2), the certificate" for "The certificate", and added par. (2).
+Subsec. (e). Pub. L. 88–560, §105(a)(6)(A), designated existing provisions as par. (1), substituted "Subject toparagraph (2), the certificate" for "The certificate", and added par. (2).
 
 Subsec. (f). Pub. L. 88–560, §105(a)(7)–(11), designated introductory par. as par. (1) and substituted "If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith exceed the face value" for "If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value"; redesignated former par. (1) as (i) and inserted proviso; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
 
@@ -548,6 +550,8 @@ Subsecs. (g), (h). Act Feb. 3, 1938, added subsecs. (g) and (h).
 
 <b>1935</b>—Subsec. (a). Act May 28, 1935, amended last sentence generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title VI, §601(b), Oct. 21, 1998, 112 Stat. 2673, provided that: "The Secretary shall publish a notice in the Federal Register stating the effective date of the terms and conditions prescribed by the Secretary under section 204(a)(1) of the National Housing Act \[12 U.S.C. 1710(a)(1)\], as amended by subsection (a) of this section. Subsections (a) and (k) of section 204 of the National Housing Act \[12 U.S.C. 1710(a), (k)\], as in effect immediately before such effective date, shall continue to apply to any mortgage insured under section 203 of the National Housing Act \[12 U.S.C. 1709\] before such effective date, except that the Secretary may, at the request of the mortgagee, pay insurance benefits as provided in subparagraphs (A) and (D) of section 204(a)(1) of such Act \[12 U.S.C. 1710(a)(1)(A), (D)\] to calculate insurance benefits in accordance with section 204(a)(5) of such Act \[12 U.S.C. 1710(a)(5)\]."
@@ -558,13 +562,13 @@ Pub. L. 104–99, title IV, §407(c), Jan. 26, 1996, 110 Stat. 46, as amended by
 
 #### Effective Date of 1954 Amendment
 
-Act Aug. 2, 1954, ch. 649, title I, §112(e), 68 Stat. 593, provided that: "This section \[amending this section and sections 1713, 1748b, and 1750c of this title\] shall not apply in any case where the mortgage involved was insured or the commitment for such insurance was issued prior to the effective date of the Housing Act of 1954 \[Aug. 2, 1954\]."
+Act Aug. 2, 1954, ch. 649, title I, §112(e), 68 Stat. 593, provided that: "This section \[amending this section andsections 1713, 1748b, and 1750c of this title\] shall not apply in any case where the mortgage involved was insured or the commitment for such insurance was issued prior to the effective date of the Housing Act of 1954 \[Aug. 2, 1954\]."
 
 #### Regulations
 
 Pub. L. 104–134, title I, §101(e) \[title II, §221(c)(1)\], Apr. 26, 1996, 110 Stat. 1321–291, provided that: "Not later than 30 days after the date of enactment of this Act \[Apr. 26, 1996\], the Secretary of Housing and Urban Development shall issue interim regulations to implement section 407 of the Balanced Budget Downpayment Act, I \[Pub. L. 104–99, amending this section and section 1715u of this title and enacting provisions set out as a note above\], and the amendments to the National Housing Act made by that section."
 
-Pub. L. 104–99, title IV, §407(d), Jan. 26, 1996, 110 Stat. 46, which directed the Secretary of Housing and Urban Development to issue interim regulations to implement section 407 of Pub. L. 104–99 and amendments made by that section (amending this section and section 1715u of this title and enacting provisions set out as a noteabove) not later than 60 days after Jan. 26, 1996, was repealed by Pub. L. 104–134, title I, §101(e) \[title II, §221(c)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–99, title IV, §407(d), Jan. 26, 1996, 110 Stat. 46, which directed the Secretary of Housing and Urban Development to issue interim regulations to implement section 407 of Pub. L. 104–99 and amendments made by that section (amending this section and section 1715u of this title and enacting provisions set out as a note above) not later than 60 days after Jan. 26, 1996, was repealed by Pub. L. 104–134, title I, §101(e) \[title II, §221(c)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 100–628, title X, §1064(c), Nov. 7, 1988, 102 Stat. 3275, provided that: "In developing regulations to carry out the amendments made by this section \[amending this section\], the Secretary of Housing and Urban Development may delegate to mortgagees the authority to make determinations on behalf of the Secretary, and the Secretary shall rely on certifications and post audit reviews to the greatest extent possible."
 

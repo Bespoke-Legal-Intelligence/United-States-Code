@@ -22,7 +22,7 @@ In general.—The net proceeds of a disposition or transfer of property describe
 
 &emsp;(3)
 
-Calculation of net proceeds.—For purposes of this subsection, the net proceeds of adisposition or transfer of property are the proceeds less all expenses incurred for the disposition or transfer, including care and handling.
+Calculation of net proceeds.—For purposes of this subsection, the net proceeds of a disposition or transfer of property are the proceeds less all expenses incurred for the disposition or transfer, including care and handling.
 
 &emsp;(4)
 
@@ -50,7 +50,7 @@ Credit to Cost of Contractor's Work.—If a contract made by an executive agency
 
 (d)
 
-Acceptance of Property Instead of Cash.—An executive agency entitled to receive cash under a contract for the lease, sale, or other disposition of surplus property may accept property instead of cash if the President determines that the property is strategic or critical material. The property is valued at the prevailing market price when the cash payment becomes due.
+Acceptance of Property Instead of Cash.—An executive agency entitled to receive cash under a contract for the lease, sale, or other disposition of surplus property may accept property instead of cash if the President determines that the property is strategic or criticalmaterial. The property is valued at the prevailing market price when the cash payment becomes due.
 
 (e)
 
@@ -97,6 +97,8 @@ June 30, 1949, ch. 288, title II, §204(c)–(g), formerly §204(b)–(f), 63 St
 In subsection (b)(1), the words "in the Treasury" are substituted for "with the Treasurer of the United States" because of section 1 of Reorganization Plan No. 26 of 1950 (eff. July 31, 1950, 64 Stat. 1280), restated as 31:321.
 
 In subsection (e), the words "or by War Assets Administration (or its predecessor agencies) under the Surplus Property Act of 1944" are omitted because the War Assets Administration was abolished and its functions were transferred to the General Services Administration by section 105 of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 381).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

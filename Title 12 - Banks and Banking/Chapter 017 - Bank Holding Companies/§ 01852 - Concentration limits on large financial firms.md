@@ -52,7 +52,7 @@ With the prior written consent of the Board, the concentration limit under subse
 
 #### (d) Rulemaking and guidance
 
-The Board shall issue regulations implementing this section in accordance with the recommendations of the Council under subsection (e), including the definition of terms, as necessary. The Board may issue interpretations or guidance regarding the application of this section to an individual financial company or to financial companies in general.
+The Board shall issue regulations implementing this section in accordance with the recommendations of the Council under subsection\(e), including the definition of terms, as necessary. The Board may issue interpretations or guidance regarding the application of this section to an individual financial company or to financial companies in general.
 
 #### (e) Council study and rulemaking
 
@@ -70,11 +70,15 @@ The Board shall issue regulations implementing this section in accordance with t
 
 (May 9, 1956, ch. 240, §14, as added Pub. L. 111–203, title VI, §622, July 21, 2010, 124 Stat. 1632.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(2)(E), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of this title. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(2)(F), was in the original "this Act", meaning act May 9, 1956, ch. 240, 70 Stat. 133, known as the Bank Holding Company Act of 1956, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

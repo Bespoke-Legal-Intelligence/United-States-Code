@@ -10,13 +10,15 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall pro
 
 #### (c) State Department ombudsman
 
-Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international aviation disaster involving significant numbers of United Statescitizens abroad not less than one officer or employee of the Department of State shall be dispatched to the disaster site to provide on-site assistance to families who may visit the site and to act as an ombudsman in matters involving the foreign local government authorities and social service agencies.
+Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and guidelines as are necessary to provide that in the event of an international aviation disaster involving significant numbers of United States citizens abroad not less than one officer or employee of the Department of State shall be dispatched to the disaster site to provide on-site assistance to families who may visit the site and to act as an ombudsman in matters involving the foreign local government authorities and social service agencies.
 
 #### (d) Crisis teams
 
 Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate procedures for the deployment of a "crisis team", which may include public affairs, forensic, and bereavement experts, to the site of any international disaster involving United States citizens abroad to augment in-country Embassy and consulate staff. The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement procedures developed pursuant to this subsection.
 
 (Pub. L. 101–604, title II, §207, Nov. 16, 1990, 104 Stat. 3084.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary of State
 

@@ -16,7 +16,7 @@ The officials referred to in subsection (a) shall evaluate opportunities to prov
 
 &emsp;(4) by supporting increased effectiveness and transparency of the fisheries enforcement sectors of the governments of such countries; and
 
-&emsp;(5) by supporting increased outreach to stakeholders in the affected communities as key partners in combating and prosecuting IUU fishing.
+&emsp;(5) by supporting increased outreach to stakeholders in the affected communities askey partners in combating and prosecuting IUU fishing.
 
 #### (c) Implementation of Port State Measures
 
@@ -44,7 +44,7 @@ The officials referred to in subsection (a), in collaboration with the governmen
 
 &emsp;(9) to conduct training on the legal mechanisms that can be used to prosecute those identified in the investigations as alleged perpetrators of IUU fishing and other associated crimes such as trafficking and forced labor; and
 
-&emsp;(10) to conduct training to raise awareness of the use of whistleblower information and ways to incentivize whistleblowers to come forwardwith original information related to IUU fishing.
+&emsp;(10) to conduct training to raise awareness of the use of whistleblower information and ways to incentivize whistleblowers to come forward with original information related to IUU fishing.
 
 #### (e) Capacity building for information sharing
 

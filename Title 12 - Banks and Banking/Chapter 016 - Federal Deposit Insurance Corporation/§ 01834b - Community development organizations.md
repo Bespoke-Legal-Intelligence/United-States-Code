@@ -8,7 +8,7 @@ For purposes of this subtitle, any insured depository institution, or a qualifie
 
 &emsp;&emsp;(A) is a community development bank, or controls any community development bank, which meets the requirements of subsection (b);
 
-&emsp;&emsp;(B) controls any community development corporation, or maintains any community development unit within the institution, which meets the requirements of subsection (c);
+&emsp;&emsp;(B) controls any community development corporation, or maintains any community development unit within the institution,which meets the requirements of subsection (c);
 
 &emsp;&emsp;(C) invests in accounts in any community development credit union designated as a low-income credit union, subject to restrictions established for such credit unions by the National Credit Union Administration Board; or
 
@@ -69,6 +69,8 @@ For purposes of this section—
 &emsp;The term "qualified distressed community" has the meaning given to such term in section 1834a(b) of this title.
 
 (Pub. L. 102–242, title II, §234, Dec. 19, 1991, 105 Stat. 2315.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

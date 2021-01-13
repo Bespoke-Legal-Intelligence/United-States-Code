@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [8132\.](%C2%A7%2008132%20-%20Regular%20Navy%20transfers%2C%20line%20and%20staff%20corps.md) | Regular Navy: transfers, line and staff corps. |
 | [8135\.](%C2%A7%2008135%20-%20Regular%20Marine%20Corps%20order%20of%20filling%20vacancies%20in%20grade%20of%20second%20lieutenant.md) | Regular Marine Corps: order of filling vacancies in grade of second lieutenant. |
-| [8137\.](%C2%A7%2008137%20-%20Regular%20Navy%20officers%20designated%20for%20engineering%20duty%2C%20aeronautical%20engineering%20duty%2C%20and%20special%20duty.md) | Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty. |
+| \[8137. | Repealed.\] |
 | [8138\.](%C2%A7%2008138%20-%20Regular%20Marine%20Corps%20judge%20advocates.md) | Regular Marine Corps: judge advocates. |
 | [8139\.](%C2%A7%2008139%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%20officers%20designated%20for%20limited%20duty.md) | Regular Navy and Regular Marine Corps: officers designated for limited duty. |
 | [8146\.](%C2%A7%2008146%20-%20Navy%20and%20Marine%20Corps%20temporary%20appointments%20of%20officers%20designated%20for%20limited%20duty.md) | Navy and Marine Corps: temporary appointments of officers designated for limited duty. |
@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title V, §509(b), Jan. 1, 2021, 134 Stat. 3586, struck out item 8137 "Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 539 of this title as this chapter and items 5582, 5585, 5587, 5587a, 5589, and 5596 as 8132, 8135, 8137, 8138, 8139, and 8146, respectively.
 
@@ -36,7 +38,7 @@
 
 - [&sect; 08132 - Regular Navy transfers, line and staff corps](%C2%A7%2008132%20-%20Regular%20Navy%20transfers%2C%20line%20and%20staff%20corps.md)
 - [&sect; 08135 - Regular Marine Corps order of filling vacancies in grade of second lieutenant](%C2%A7%2008135%20-%20Regular%20Marine%20Corps%20order%20of%20filling%20vacancies%20in%20grade%20of%20second%20lieutenant.md)
-- [&sect; 08137 - Regular Navy officers designated for engineering duty, aeronautical engineering duty, and special duty](%C2%A7%2008137%20-%20Regular%20Navy%20officers%20designated%20for%20engineering%20duty%2C%20aeronautical%20engineering%20duty%2C%20and%20special%20duty.md)
+- [&sect; 08137 - Repealed. Pub. L. 116&#8211;283, div. A, title V, &sect;509(a), Jan. 1, 2021, 134 Stat. 3586](%C2%A7%2008137%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7509%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%203586.md)
 - [&sect; 08138 - Regular Marine Corps judge advocates](%C2%A7%2008138%20-%20Regular%20Marine%20Corps%20judge%20advocates.md)
 - [&sect; 08139 - Regular Navy and Regular Marine Corps officers designated for limited duty](%C2%A7%2008139%20-%20Regular%20Navy%20and%20Regular%20Marine%20Corps%20officers%20designated%20for%20limited%20duty.md)
 - [&sect; 08146 - Navy and Marine Corps temporary appointments of officers designated for limited duty](%C2%A7%2008146%20-%20Navy%20and%20Marine%20Corps%20temporary%20appointments%20of%20officers%20designated%20for%20limited%20duty.md)

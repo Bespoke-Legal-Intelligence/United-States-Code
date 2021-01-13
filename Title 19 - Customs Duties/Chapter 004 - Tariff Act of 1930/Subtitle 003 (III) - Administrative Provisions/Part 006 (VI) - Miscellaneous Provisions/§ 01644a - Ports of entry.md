@@ -12,13 +12,13 @@ The definitions in section 40102(a) of title 49 apply to this section.
 
 &emsp;(B) detail to ports of entry officers and employees of the United States Customs Service the Secretary considers necessary;
 
-&emsp;(C) give an officer or employee of the United States Government stationed at a port ofentry (with the consent of the head of the department, agency, or instrumentality of the Government with jurisdiction over the officer or employee) duties and powers of officers or employees of the Customs Service;
+&emsp;(C) give an officer or employee of the United States Government stationed at a port of entry (with the consent of the head of the department, agency, or instrumentality of the Government with jurisdiction over the officer or employee) duties and powers of officers or employees of the Customs Service;
 
 &emsp;(D) by regulation, apply to civil air navigation the laws and regulations on carrying out the customs laws, to the extent and under conditions the Secretary considers necessary; and
 
 &emsp;(E) by regulation, apply to civil aircraft the laws and regulations on entry and clearance of vessels, to the extent and under conditions the Secretary considers necessary.
 
-(2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of this subsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customs laws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
+(2) A person violating a customs regulation prescribed under paragraph (1)(A)–(D) of this subsection or a public health or customs law or regulation made applicable to aircraft by a regulation under paragraph (1)(A)–(D) is liable to the Government for a civil penalty of $5,000 for each violation. An aircraft involved in the violation may be seized and forfeited under the customslaws. The Secretary of the Treasury may remit or mitigate a penalty and forfeiture under this paragraph.
 
 (3) A person violating a regulation made applicable under paragraph (1)(E) of this subsection or an immigration regulation prescribed under paragraph (1)(E) is liable to the Government for a civil penalty of $5,000 for each violation. The Secretary of the Treasury or the Attorney General may remit or mitigate a penalty under this paragraph.
 

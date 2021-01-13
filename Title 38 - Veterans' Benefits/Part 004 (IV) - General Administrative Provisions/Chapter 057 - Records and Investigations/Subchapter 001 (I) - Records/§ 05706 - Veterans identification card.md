@@ -68,6 +68,8 @@ Construction.—This section shall not be construed to affect identification car
 
 (Added Pub. L. 114–31, §2(b), July 20, 2015, 129 Stat. 428.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 114–31, §2(d), July 20, 2015, 129 Stat. 430, provided that: "The amendments made by this Act \[enacting this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[July 20, 2015\]."

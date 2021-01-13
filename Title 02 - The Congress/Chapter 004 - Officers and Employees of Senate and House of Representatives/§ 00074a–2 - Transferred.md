@@ -1,5 +1,7 @@
 ### §74a–2. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 74a–2 was editorially reclassified as section 4302 of this title.

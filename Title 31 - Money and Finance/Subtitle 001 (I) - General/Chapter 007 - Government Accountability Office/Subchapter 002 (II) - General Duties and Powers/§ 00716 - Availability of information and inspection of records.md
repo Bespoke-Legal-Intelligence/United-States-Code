@@ -14,7 +14,7 @@
 
 (3) The Attorney General may represent the head of the agency. The court may punish a failure to obey an order of the court under this subsection as a contempt of court.
 
-(c)(1) Subject to subsection (d) of this section, the Comptroller General may subpena a record of a person not in the United States Government when the record is not made available to the Comptroller General to which the Comptroller General has access by law or by agreement of that person from whom access is sought. A subpena shall identify the record and the authority for the inspection and may be issued by the Comptroller General. The Comptroller General may have an individual serve a subpena under this subsection by delivering a copy to the person named in the subpena or by mailing a copy of the subpena by certified or registered mail, return receipt requested, to the residence or principal place of business of the person. Proof of service is shown by a verified return by the individual serving the subpena that states how the subpena was served or by the return receipt signed by the person served.
+(c)(1) Subject to subsection (d) of this section, the Comptroller General may subpena a record of a person not in the United States Government when the record is not made available to the Comptroller General to which the Comptroller General has access by law or by agreement of that person from whom access is sought. A subpena shall identify the record and the authorityfor the inspection and may be issued by the Comptroller General. The Comptroller General may have an individual serve a subpena under this subsection by delivering a copy to the person named in the subpena or by mailing a copy of the subpena by certified or registered mail, return receipt requested, to the residence or principal place of business of the person. Proof of service is shown by a verified return by the individual serving the subpena that states how the subpena was served or by the return receipt signed by the person served.
 
 (2) If a person residing, found, or doing business in a judicial district refuses to comply with a subpena issued under paragraph (1) of this subsection, the Comptroller General, through an attorney the Comptroller General designates in writing, may bring a civil action in that district court to require the person to produce the record. The court has jurisdiction of the action and may punish a failure to obey an order of the court under this subsection as a contempt of court.
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(iii) refers to particular types of records to be withheld from the Comptroller General; or
 
-&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, thePresident or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
+&emsp;(C) by the 20th day after a report is filed under subsection (b)(1) of this section, the President or the Director certifies to the Comptroller General and Congress that a record could be withheld under section 552(b)(5) or (7) of title 5 and disclosure reasonably could be expected to impair substantially the operations of the Government.
 
 (2) The President or the Director may not delegate certification under paragraph (1)(C) of this subsection. A certification shall include a complete explanation of the reasons for the certification.
 
@@ -93,6 +93,8 @@ In subsection (c)(2), the words "judicial district" are substituted for "jurisdi
 In subsection (d)(1), before clause (A), the words "requiring the production of material" are omitted as surplus. In clause (C), the words "in writing", "consists of matters which . . . from disclosure", "United States Code", "of such material to the Comptroller General", and "Federal" are omitted as surplus.
 
 In subsection (e)(1), the words "the head of" are added for consistency. The words "from which such material was obtained" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

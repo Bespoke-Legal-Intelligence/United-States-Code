@@ -10,7 +10,7 @@ The Secretary of Defense may, to the extent provided in appropriations Acts, tra
 
 &emsp;(1) other accounts of the Department of Defense for the purpose of providing assistance to the independent states of the former Soviet Union; or
 
-&emsp;(2) appropriations available to the Department of State and other agencies of the United States Government for the purpose of providing assistance to the independent states of the former Soviet Union for programs that thePresident determines will increase the national security of the United States.
+&emsp;(2) appropriations available to the Department of State and other agencies of the United States Government for the purpose of providing assistance to the independent states of the former Soviet Union for programs that the President determines will increase the national security of the United States.
 
 #### (c) Administrative provisions
 
@@ -23,6 +23,8 @@ The Secretary of Defense may, to the extent provided in appropriations Acts, tra
 The President shall coordinate the programs described in subsection (b) with those authorized in the other provisions of this chapter and in the provisions of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) so as to optimize the contribution such programs make to the national interests of the United States.
 
 (Pub. L. 103–160, div. A, title XII, §1209, Nov. 30, 1993, 107 Stat. 1782.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -12,7 +12,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 #### (2) Contracts for studies of health professions
 
-&emsp;The Secretary shall conduct or enter into contracts for the conduct of analytic and descriptive studies of the health professions, including evaluations and projections of the supply of, and requirements for, the health professions by specialty and geographic location. Such studies shall include studies determining by specialty and geographic location the number of health professionals (including allied health professionals and health care administration personnel) who are members of minority groups, including Hispanics, and studies providing by specialty and geographic location evaluations and projections of the supply of,and requirements for, health professionals (including allied health professionals and health care administration personnel) to serve minority groups, including Hispanics.
+&emsp;The Secretary shall conduct or enter into contracts for the conduct of analytic and descriptive studies of the health professions, including evaluations and projections of the supply of, and requirements for, the health professions by specialty and geographic location. Such studies shall include studies determining by specialty and geographic location the number of health professionals (including allied health professionals and health care administration personnel) who are members of minority groups, including Hispanics, and studies providing by specialty and geographic location evaluations and projections of the supply of, and requirements for, health professionals (including allied health professionals and health care administration personnel) to serve minority groups, including Hispanics.
 
 #### (3) Grants and contracts regarding States
 
@@ -68,7 +68,7 @@ The Secretary shall provide technical assistance to the States and political sub
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a), the Secretary may make grants, or enter into contracts andcooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
+&emsp;In carrying out subsection (a), the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
 
 #### (2) Reports
 

@@ -2,7 +2,7 @@
 
 #### (1) Statement of policy
 
-It shall be the policy of the United States that training courses should be established for Foreign Service Officers and civil service employeesof the State Department, including appropriate chiefs of mission, on the conduct of multilateral diplomacy, including the conduct of negotiations at international organizations and multilateral institutions, negotiating skills that are required at multilateral settings, coalition-building techniques, and lessons learned from previous United States multilateral negotiations.
+It shall be the policy of the United States that training courses should be established for Foreign Service Officers and civil service employees of the State Department, including appropriate chiefs of mission, on the conduct of multilateral diplomacy, including the conduct of negotiations at international organizations and multilateral institutions, negotiating skills that are required at multilateral settings, coalition-building techniques, and lessons learned from previous United States multilateral negotiations.
 
 #### (2) Personnel
 
@@ -23,6 +23,8 @@ It shall be the policy of the United States that training courses should be esta
 The Secretary shall ensure that employees of the Department of State who are members of the civil service and who are assigned to positions described in paragraph (2) receive training described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at such time is not practical, within the first year of beginning such assignment.
 
 (Pub. L. 108–458, title VII, §7111(c), Dec. 17, 2004, 118 Stat. 3795.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

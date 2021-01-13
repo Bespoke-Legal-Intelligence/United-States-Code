@@ -2,7 +2,7 @@
 
 #### (a) Study authority
 
-The Secretary shall study a hydro-environmental monitoring and information system inthe New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
+The Secretary shall study a hydro-environmental monitoring and information system in the New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
 
 #### (b) Study of physical hydraulic model
 
@@ -17,6 +17,8 @@ The Secretary shall coordinate fully with the Administrator of the Environmental
 There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.
 
 (Pub. L. 99–662, title VII, §728, Nov. 17, 1986, 100 Stat. 4164.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### New York Bight and Harbor Study
 
@@ -58,5 +60,5 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 Funding.—There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended."
 
-Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in the New York Bight and report to Congress within 6 months after Dec. 29, 1987.
+Pub. L. 100–220, title II, subtitle C, Dec. 29, 1987, 101 Stat. 1467, as amended by Pub. L. 100–688, title I, §1003(b), (c), Nov. 18, 1988, 102 Stat. 4150, directed Administrator of the Environmental Protection Agency, within 3 years after Dec. 29, 1987, in consultation with Administrator of the National Oceanic and Atmospheric Administration and other Federal, State, and interstate agencies, to prepare and submit to Congress a New York Bight Restoration Plan and a detailed schedule and two preliminary reports at specified times, and further directed Administrator to conduct a study of problems associated with plastic debris in theNew York Bight and report to Congress within 6 months after Dec. 29, 1987.
 

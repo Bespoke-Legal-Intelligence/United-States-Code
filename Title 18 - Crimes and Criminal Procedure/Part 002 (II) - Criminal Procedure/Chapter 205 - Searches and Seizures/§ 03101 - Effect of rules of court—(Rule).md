@@ -8,6 +8,8 @@ Acts of Congress superseded, Rule 41(g).
 
 (June 25, 1948, ch. 645, 62 Stat. 819.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 41(g), referred to in text, was relettered 41(h) by 1972 amendment eff. Oct. 1, 1972.

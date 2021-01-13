@@ -24,7 +24,7 @@ Removal of Notice.—Protection under this title is not affected by the removal,
 
 #### house report no. 94–1476
 
-<b>Effect of Omission on Copyright Protection.</b> The provisions of section 405(a) make clear that the notice requirements of sections 401, 402, and 403 are not absolute and that, unlike the law now in effect, the outrightomission of a copyright notice does not automatically forfeit protection and throw the work into the public domain. This not only represents a major change in the theoretical framework of American copyright law, but it also seems certain to have immediate practical consequences in a great many individual cases. Under the proposed law a work published without any copyright notice will still be subject to statutory protection for at least 5 years, whether the omission was partial or total, unintentional or deliberate.
+<b>Effect of Omission on Copyright Protection.</b> The provisions of section 405(a) make clear that the notice requirements of sections 401, 402, and 403 are not absolute and that, unlike the law now in effect, the outright omission of a copyright notice does not automatically forfeit protection and throw the work into the public domain. This not only represents a major change in the theoretical framework of American copyright law, but it also seems certain to have immediate practical consequences in a great many individual cases. Under the proposed law a work published without any copyright notice will still be subject to statutory protection for at least 5 years, whether the omission was partial or total, unintentional or deliberate.
 
 Under the general scheme of the bill, statutory copyright protection is secured automatically when a work is created, and is not lost when the work is published, even if the copyright notice is omitted entirely. Subsection (a) of section 405 provides that omission of notice, whether intentional or unintentional, does not invalidate the copyright if either of two conditions is met:
 
@@ -50,6 +50,8 @@ The purpose of the second sentence of subsection (b) is to give the courts broad
 
 <b>Removal of Notice by Others.</b> Subsection (c) of section 405 involves the situation arising when, following an authorized publication with notice, someone further down the chain of commerce removes, destroys, or obliterates the notice. The courts dealing with this problem under the present law, especially in connection with copyright notices on the selvage of textile fabrics, have generally upheld the validity of a notice that was securely attached to the copies when they left the control of the copyright owner, even though removal of the notice at some later stage was likely. This conclusion is incorporated in subsection (c).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of the Berne Convention Implementation Act of 1988, referred to in subsecs. (a) and (b), is Mar. 1, 1989, see section 13 of Pub. L. 100–568, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
@@ -63,6 +65,8 @@ The effective date of the Berne Convention Implementation Act of 1988, referred 
 Subsec. (a). Pub. L. 100–568, §7(e)(1), substituted "With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, the omission of the copyright notice described in" for "The omission of the copyright notice prescribed by".
 
 Subsec. (b). Pub. L. 100–568, §7(e)(2), substituted "omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988," for "omitted,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

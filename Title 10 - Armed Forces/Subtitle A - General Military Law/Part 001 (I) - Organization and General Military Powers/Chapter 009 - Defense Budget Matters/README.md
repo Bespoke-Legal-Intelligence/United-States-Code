@@ -16,7 +16,8 @@
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
-| \[231a, 232. | Repealed.\] |
+| [231a.](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20costs%20of%20aircraft%20for%20the%20Army%2C%20Navy%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md) | Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification. |
+| \[232. | Repealed.\] |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
 | [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
 | [235\.](%C2%A7%2000235%20-%20Procurement%20of%20contract%20services%20specification%20of%20amounts%20requested%20in%20budget.md) | Procurement of contract services: specification of amounts requested in budget. |
@@ -29,7 +30,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 235. See 2021 Amendment note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
 
@@ -101,7 +108,7 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
 - [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
-- [&sect; 00231a - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;813(a)(1)(A), Aug. 13, 2018, 132 Stat. 1851](%C2%A7%2000231a%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7813%28a%29%281%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201851.md)
+- [&sect; 00231a - Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force annual plan and certification](%C2%A7%2000231a%20-%20Budgeting%20for%20life-cycle%20costs%20of%20aircraft%20for%20the%20Army%2C%20Navy%2C%20and%20Air%20Force%20annual%20plan%20and%20certification.md)
 - [&sect; 00232 - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1081(1)(A), Jan. 2, 2013, 126 Stat. 1960](%C2%A7%2000232%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71081%281%29%28A%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201960.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
 - [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)

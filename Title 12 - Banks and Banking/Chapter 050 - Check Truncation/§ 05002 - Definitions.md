@@ -96,7 +96,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (11) Indemnifying bank
 
-&emsp;The term "indemnifying bank" means a bank that is providing an indemnity under section 5005 of this title with respect to a substitute check.
+&emsp;The term "indemnifying bank" means a bank that is providing an indemnity undersection 5005 of this title with respect to a substitute check.
 
 #### (12) MICR line
 
@@ -136,7 +136,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (18) Truncate
 
-&emsp;The term "truncate" means to remove an original paper check from the check collectionor return process and send to a recipient, in lieu of such original paper check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without subsequent delivery of the original paper check.
+&emsp;The term "truncate" means to remove an original paper check from the check collection or return process and send to a recipient, in lieu of such original paper check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without subsequent delivery of the original paper check.
 
 #### (19) Uniform Commercial Code
 
@@ -148,9 +148,13 @@ For purposes of this chapter, the following definitions shall apply:
 
 (Pub. L. 108–100, §3, Oct. 28, 2003, 117 Stat. 1178.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

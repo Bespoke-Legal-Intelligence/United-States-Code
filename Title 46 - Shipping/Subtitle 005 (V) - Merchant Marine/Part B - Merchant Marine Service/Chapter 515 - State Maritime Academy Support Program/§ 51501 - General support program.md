@@ -34,6 +34,8 @@ June 29, 1936, ch. 858, title XIII, §1304(a), (d)(2), as added Pub. L. 96–453
 
 46 App.:1295c(d)(2).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 added subsec. (c).

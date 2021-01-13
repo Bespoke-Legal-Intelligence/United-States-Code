@@ -42,7 +42,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (B) Notice
 
-&emsp;&emsp;Not later than 30 days before the Architect of the Capitol removes or transfers the Inspector General under subparagraph (A), theArchitect of the Capitol shall communicate in writing the reason for the removal or transfer to—
+&emsp;&emsp;Not later than 30 days before the Architect of the Capitol removes or transfers the Inspector General under subparagraph (A), the Architect of the Capitol shall communicate in writing the reason for the removal or transfer to—
 
 &emsp;&emsp;&emsp;(i) the Committee on House Administration and the Committee on Appropriations of the House of Representatives; and
 
@@ -116,7 +116,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (II) Additional requirements
 
-&emsp;&emsp;&emsp;&emsp;After providing notice to the appropriate committees of Congress, the Inspector General may add requirements to the certification required under subclause (I), as determined appropriate by the Inspector General.
+&emsp;&emsp;&emsp;&emsp;After providing notice to the appropriate committees of Congress, the Inspector General may add requirementsto the certification required under subclause (I), as determined appropriate by the Inspector General.
 
 #### (ii) Maintenance of requirements
 
@@ -194,6 +194,8 @@ By the date occurring 180 days after December 26, 2007, the Architect of the Cap
 
 (Pub. L. 110–161, div. H, title I, §1301, Dec. 26, 2007, 121 Stat. 2240; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. P, title XVI, §§1602(b), 1603(b), 1604(b), 1605(b), Dec. 20, 2019, 133 Stat. 3210, 3214, 3218, 3219.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -215,6 +217,8 @@ Subsec. (d)(2). Pub. L. 116–94, §1605(b), designated existing provisions as s
 Subsec. (d)(3). Pub. L. 116–94, §1603(b), added par. (3).
 
 Subsec. (d)(4). Pub. L. 116–94, §1604(b), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

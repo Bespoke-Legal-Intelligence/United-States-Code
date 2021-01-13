@@ -4,9 +4,13 @@ A bank or savings association which violates a rule promulgated pursuant to this
 
 (Pub. L. 90–389, §5, July 7, 1968, 82 Stat. 295; Pub. L. 111–203, title III, §356(3), July 21, 2010, 124 Stat. 1547.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 struck out "and loan" after "savings".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

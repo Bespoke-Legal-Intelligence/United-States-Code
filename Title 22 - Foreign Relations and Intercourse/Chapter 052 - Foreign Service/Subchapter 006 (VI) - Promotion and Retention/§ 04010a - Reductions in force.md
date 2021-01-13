@@ -24,6 +24,8 @@ An employee against whom action is taken under this section may elect either to 
 
 (Pub. L. 96–465, title I, §611, as added Pub. L. 103–236, title I, §181(a)(2), Apr. 30, 1994, 108 Stat. 417; amended Pub. L. 103–415, §1(ii), Oct. 25, 1994, 108 Stat. 4303.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classified to section 4011 of this title.
@@ -31,6 +33,8 @@ A prior section 611 of Pub. L. 96–465 was renumbered section 612 and is classi
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–415 made technical amendment relating to style of section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Employment Assistance Referral System for Certain Members of Foreign Service
 

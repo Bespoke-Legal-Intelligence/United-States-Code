@@ -62,7 +62,7 @@ Time for Contractors to Submit Justifications.—If a contractor or subcontracto
 
 (f)
 
-Presumption of Development Exclusively at Private Expense.—In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that commercial products was <sup>1</sup> developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that commercial products was <sup>1</sup> not developed exclusively at private expense.
+Presumption of Development Exclusively at Private Expense.—In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial products, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item <sup>1</sup> was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item <sup>1</sup> was not developed exclusively at private expense.
 
 (g)
 
@@ -96,7 +96,29 @@ Use or Release Restriction Defined.—In this section, the term "use or release 
 
 &emsp;(2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV,§953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492; Pub. L. 113–291, div. A, title X, §1071(a)(5), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §813(a), Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–232, div. A, title VIII, §§836(c)(8), 865, 866(a), Aug. 13, 2018, 132 Stat. 1866, 1901; Pub. L. 116–92, div. A, title VIII, §808(b), Dec. 20, 2019, 133 Stat. 1486.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 109–364, div. A, title VIII, §802(b), Oct. 17, 2006, 120 Stat. 2313; Pub. L. 110–181, div. A, title VIII, §815(a)(2), Jan. 28, 2008, 122 Stat. 223; Pub. L. 111–350, §5(b)(18), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 111–383, div. A, title VIII, §824(c), Jan. 7, 2011, 124 Stat. 4269; Pub. L. 112–81, div. A, title VIII, §815(b), Dec. 31, 2011, 125 Stat. 1492; Pub. L. 113–291, div. A, title X, §1071(a)(5), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §813(a), Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–232, div. A, title VIII, §§836(c)(8), 865, 866(a), Aug. 13, 2018, 132 Stat. 1866, 1901; Pub. L. 116–92, div. A, title VIII, §808(b), Dec. 20, 2019, 133 Stat. 1486; Pub. L. 116–283, div. A, title X, §1081(d)(4)(B)(ii), title XVIII, §1833(h)(1), (i)(1), (j)(1), (k), (l)(1), (m), Jan. 1, 2021, 134 Stat. 3874, 4231–4233.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1833(h)(1), (i)(1), (j)(1), (k), (l)(1), (m), Jan. 1, 2021, 134 Stat. 4151, 4231–4233, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsections (a) to (c) to section 3781 of this title;</i>
+
+<i>(2) by transferring subsection (d) to section 3782 of this title;</i>
+
+<i>(3) by transferring subsection (e) to section 3783 of this title;</i>
+
+<i>(4) by transferring subsection (f) to section 3784 of this title;</i>
+
+<i>(5) by transferring subsections (g) to (i) to section 3785(a) to (c), respectively, of this title; and</i>
+
+<i>(6) by transferring subsection (j) to section 3786 of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Codification
 
@@ -106,13 +128,25 @@ Another section 2321 of this title was contained in chapter 138 and was renumber
 
 #### Amendments
 
+<b>2021</b>—Subsecs. (a) to (c). Pub. L. 116–283, §1833(h)(1), redesignated subsecs. (a) to (c) as section 3781 of this title.
+
+Subsec. (d). Pub. L. 116–283, §1833(i)(1), redesignated subsec. (d) as section 3782 of this title.
+
+Subsec. (e). Pub. L. 116–283, §1833(j)(1), redesignated subsec. (e) as section 3783 of this title.
+
+Subsec. (f). Pub. L. 116–283, §1833(k), redesignated subsec. (f) as section 3784 of this title.
+
+Pub. L. 116–283, §1081(d)(4)(B)(ii), made technical correction to directory language of Pub. L. 115–232, §836(c)(8). See 2018 Amendment note below.
+
+Subsecs. (g) to (i). Pub. L. 116–283, §1833(l)(1), redesignated subsecs. (g) to (i) as section 3785(a) to (c), respectively, of this title.
+
+Subsec. (j). Pub. L. 116–283, §1833(m), redesignated subsec. (j) as section 3786 of this title.
+
 <b>2019</b>—Subsec. (i). Pub. L. 116–92 restored text of subsec. (i) resulting in amendment by section 866(a) of Pub. L. 115–232 having no effect. See 2018 Amendment note below.
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–232, §865, struck out par. (1) designation, substituted "In" for "Except as provided in paragraph (2), in", and struck out par. (2) which related to a challenge to a use or release restriction regarding technical data for a major weapon system, subsystem, or component developed exclusively at private expense.
 
-Pub. L. 115–232, §836(c)(8)(B), which directed the amendment of par. (2)(A) by substituting "commercial product" for "commercial item" in cls. (i) and (ii), could not be executed because of the intervening amendment by Pub. L. 115–232, §865, which struck out par. (2) and was effective earlier. See above.
-
-Pub. L. 115–232, §836(c)(8)(A), which directed the amendment of par. (1) by substituting "commercial products" for "commercial items" and, in two places, "commercial products" for "the item", was executed to subsec. (f) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232, §865, which struck out the par. (1) designation and was effective earlier. See above. Of the three resulting occurrences of "commercial products", the first is from the first substitution, and the second and third are from the second substitution.
+Pub. L. 115–232, §836(c)(8), as amended by Pub. L. 116–283, §1081(d)(4)(B)(ii), substituted "commercial products" for "commercial items".
 
 Subsec. (i). Pub. L. 115–232, §866(a), inserted "Prior to and" after "Rights and Liability" in heading, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
@@ -172,7 +206,7 @@ Subsec. (c). Pub. L. 100–26, §7(a)(5)(A)(ii), added subsec. (c). Former subse
 
 Subsec. (d). Pub. L. 100–26, §7(a)(5)(A)(ii), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (d)(4)(A). Pub. L. 99–180, §1231(6)(A), substituted "subsection" for "paragraph".
+Subsec. (d)(4)(A). Pub. L. 100–180, §1231(6)(A), substituted "subsection" for "paragraph".
 
 Subsec. (e). Pub. L. 100–26, §7(a)(5)(A)(i), (B), redesignated former subsec. (c) as (e), inserted heading, and substituted "If a contractor or subcontractor asserting a use or release restriction" for "If a contractor or subcontractor asserting a restriction subject to this section". Former subsec. (e) redesignated (g).
 
@@ -196,13 +230,21 @@ Pub. L. 100–26, §7(a)(5)(F), added subsec. (i).
 
 &emsp;"(1) a contractor or subcontractor at any tier shall be prepared to furnish to the contracting officer a written justification for any restriction asserted by the contractor or subcontractor on the right of the United States to use such technical data; and
 
-&emsp;"(2) the contracting officer may review the validity of any restriction asserted by the contractor or by a subcontractor under the contract on the right of the United States to use technical data furnished to the United States under the contract if the contracting officer determines that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time.
+&emsp;"(2) the contracting officer may review the validity of any restriction asserted by the contractor or by a subcontractor under the contract on the right of the United States to use technical data furnished to theUnited States under the contract if the contracting officer determines that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time.
 
 "(b) If after such review the contracting officer determines that a challenge to the asserted restriction is warranted, the contracting officer shall provide written notice to the contractor or subcontractor asserting the restriction. Such notice shall—
 
 &emsp;"(1) state the grounds for challenging the asserted restriction; and
 
 &emsp;"(2) require a response within 60 days justifying the current validity of the asserted restriction."
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1833(h)(1), (i)(1), (j)(1), (k), (l)(1), (m) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -234,5 +276,5 @@ Pub. L. 115–232, div. A, title VIII, §866(b), Aug. 13, 2018, 132 Stat. 1901, 
 
 Pub. L. 115–232, div. A, title VIII, §866(d), Aug. 13, 2018, 132 Stat. 1901, which required the Secretary of Defense to develop certain policies on the negotiation of technical data rights for noncommercial software, was repealed by Pub. L. 116–92, div. A, title VIII, §808(a), Dec. 20, 2019, 133 Stat. 1486.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the product".</i>
 

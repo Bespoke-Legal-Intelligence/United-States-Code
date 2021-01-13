@@ -34,7 +34,7 @@ The effective date of this Act, referred to in subsec. (b), as the first day of 
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: "This Act \[amending this section and sections 298 and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\]."
+Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: "This Act \[amending this section and sections 298and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\]."
 
 #### Effective Date of 1961 Amendment
 

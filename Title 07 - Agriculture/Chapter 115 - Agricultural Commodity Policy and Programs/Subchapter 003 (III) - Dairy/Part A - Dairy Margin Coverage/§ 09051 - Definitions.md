@@ -8,7 +8,7 @@ In this part:
 
 #### (2) All-milk price
 
-&emsp;The term "all-milk price" means the average price received, per hundredweight of milk,by dairy operations for all milk sold to plants and dealers in the United States, as determined by the Secretary.
+&emsp;The term "all-milk price" means the average price received, per hundredweight of milk, by dairy operations for all milk sold to plants and dealers in the United States, as determined by the Secretary.
 
 #### (3) Average feed cost
 
@@ -56,7 +56,7 @@ In this part:
 
 #### (10) United States
 
-&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
+&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the VirginIslands of the United States, and any other territory or possession of the United States.
 
 (Pub. L. 113–79, title I, §1401, Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–123, div. F, §60101(b)(1)(A), Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §§1401(k)(2), 1404(b)(2), Dec. 20, 2018, 132 Stat. 4516, 4521.)
 

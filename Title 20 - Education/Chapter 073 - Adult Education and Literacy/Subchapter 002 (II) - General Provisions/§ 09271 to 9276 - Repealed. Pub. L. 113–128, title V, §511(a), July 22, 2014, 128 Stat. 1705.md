@@ -4,7 +4,7 @@ Section 9271, Pub. L. 105–220, title V, §501, Aug. 7, 1998, 112 Stat. 1242; P
 
 Section 9272, Pub. L. 105–220, title V, §502, Aug. 7, 1998, 112 Stat. 1244, related to definitions for indicators of performance.
 
-Section 9273, Pub. L. 105–220, title V, §503, Aug. 7, 1998, 112 Stat. 1244; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(f)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L.106–246, div. B, title II, §2403(a)(1), July 13, 2000, 114 Stat. 555, related to incentive grants.
+Section 9273, Pub. L. 105–220, title V, §503, Aug. 7, 1998, 112 Stat. 1244; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(f)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417; Pub. L. 106–246, div. B, title II, §2403(a)(1), July 13, 2000, 114 Stat. 555, related to incentive grants.
 
 Section 9274, Pub. L. 105–220, title V, §504, Aug. 7, 1998, 112 Stat. 1245, related to privacy.
 

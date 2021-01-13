@@ -96,7 +96,7 @@ A prior section 4362, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958,
 
 A prior section 4363, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1300, related to cross references to former section 4384 and subtitle F of this title.
 
-A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1301, made cross-references to section 4384 and subtitle F.
+A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1301, made cross-references to section 4384 and subtitle F.
 
 A prior section 4381, acts Aug. 16, 1954, ch. 736, 68A Stat. 523, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1302, defined certificates of indebtedness, corporation, and shares or certificates of stock.
 

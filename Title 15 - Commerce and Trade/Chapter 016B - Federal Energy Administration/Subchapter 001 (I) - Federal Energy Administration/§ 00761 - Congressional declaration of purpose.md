@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
+The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developingpolicies and plans to meet the energy needs of the Nation.
 
 #### (b) Necessity for reorganization
 
@@ -62,7 +62,7 @@ Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–38
 
 &emsp;&emsp;"(B) for the fiscal year ending September 30, 1978, not to exceed $62,459,000.
 
-&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions describedin part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
+&emsp;"(4) to carry out the functions identified as assigned to the Office of Conservation and Environment as of January 1, 1977 (other than functions described in part A \[section 6861 et seq. of Title 42, The Public Health and Welfare\] and part D \[section 6881 et seq. of Title 42\] of title IV of the Energy Conservation and Production Act, parts B \[section 6291 et seq. of Title 42\] and C \[section 6321 et seq. of Title 42\] of title III of the Energy Policy and Conservation Act and, for the fiscal year ending September 30, 1977, functions described in title II of the Energy Conservation and Production Act \[section 6801 et seq. of Title 42\] and in paragraph (7) of this subsection)—
 
 &emsp;&emsp;"(A) for the fiscal year ending September 30, 1977, not to exceed $38,603,000; and
 
@@ -148,7 +148,7 @@ Sec. 5. (a) The Federal Energy Office established by Executive Order No. 11748 i
 
 (d) All personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with functions of the Administrator of the Federal Energy Office, as Administrator of that Office or as Chairman of the Oil Policy Committee, are hereby transferred to the Secretary.
 
-Sec. 6. All authority delegated or transferred to the Secretary by this order may be further delegated, in whole or in part, by the Secretary to any other office or any department or agency of the United States, or, if authorized by law, to any State or officer thereof.
+Sec. 6. All authority delegated or transferred to the Secretary by this order may be further delegated, inwhole or in part, by the Secretary to any other office or any department or agency of the United States, or, if authorized by law, to any State or officer thereof.
 
 Secs. 7 to 10. \[Deleted.\]
 

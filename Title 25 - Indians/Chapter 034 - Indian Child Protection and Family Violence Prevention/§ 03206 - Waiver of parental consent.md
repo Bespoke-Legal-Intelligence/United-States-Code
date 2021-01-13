@@ -2,7 +2,7 @@
 
 #### (a) Examinations and interviews
 
-Photographs, x-rays, medical examinations, psychological examinations, and interviews of an Indian child alleged to have been subject to abuse in Indian country shall be allowed without parental consent if local child protective services or local law enforcement officials have reason to believe the child has been subject to abuse.
+Photographs, x-rays, medical examinations, psychological examinations, and interviews ofan Indian child alleged to have been subject to abuse in Indian country shall be allowed without parental consent if local child protective services or local law enforcement officials have reason to believe the child has been subject to abuse.
 
 #### (b) Interviews by law enforcement and child protective services officials
 
@@ -17,6 +17,8 @@ Examinations and interviews of a child who may have been the subject of abuse sh
 Upon a finding of reasonable suspicion that an Indian child has been the subject of abuse in Indian country, a Federal magistrate judge or United States District Court may issue an order enforcing any provision of this section.
 
 (Pub. L. 101–630, title IV, §407, Nov. 28, 1990, 104 Stat. 4550; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

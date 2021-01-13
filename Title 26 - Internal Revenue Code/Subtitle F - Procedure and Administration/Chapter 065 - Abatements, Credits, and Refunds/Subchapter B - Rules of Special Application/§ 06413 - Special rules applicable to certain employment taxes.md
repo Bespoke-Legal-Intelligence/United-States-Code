@@ -16,7 +16,7 @@
 
 #### (4) District of Columbia as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received during any calendaryear from the District of Columbia or any instrumentality which is wholly owned thereby, the Mayor of the District of Columbia and each agent designated by him who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year from the District of Columbia or any instrumentality which is wholly owned thereby, the Mayor of the District of Columbia andeach agent designated by him who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (5) States and political subdivisions as employer
 
@@ -52,7 +52,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (E) Governmental employees in American Samoa
 
-&emsp;&emsp;In the case of remuneration received from the Government of American Samoa or anypolitical subdivision thereof or from any instrumentality of any one or more of the foregoing which is wholly owned thereby, during any calendar year, the Governor of American Samoa and each agent designated by him who makes a return pursuant to section 3125(c) shall, for purposes of this subsection, be deemed a separate employer.
+&emsp;&emsp;In the case of remuneration received from the Government of American Samoa or any political subdivision thereof or from any instrumentality of any one or more of the foregoing which is wholly owned thereby, during any calendar year, the Governor of American Samoa and each agent designated by him who makes a return pursuant to section 3125(c) shall, for purposes of this subsection, be deemed a separate employer.
 
 #### (F) Governmental employees in the District of Columbia
 

@@ -74,7 +74,29 @@
 
 &emsp;(3) other transfers or obligations that are outside the ordinary course of business and not justified by the facts and circumstances of the case, including transfers made to, or obligations incurred for the benefit of, officers, managers, or consultants hired after the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, §446, July 10, 1984, 98 Stat. 374; Pub. L. 99–554, title II, §283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, §110, title II, §213(c), title III, §304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134; Pub. L. 109–8, title III, §§329, 331, title IV, §445, title VII, §712(b), (c), title XI, §1103, title XII, §§1208, 1227(b), Apr. 20, 2005, 119 Stat. 101, 102, 117, 128, 190, 194, 200.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, §446, July 10, 1984, 98 Stat. 374; Pub. L. 99–554, title II, §283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, §110, title II, §213(c), title III, §304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134; Pub. L. 109–8, title III, §§329, 331, title IV, §445, title VII, §712(b), (c), title XI, §1103, title XII, §§1208, 1227(b), Apr. 20, 2005, 119 Stat. 101, 102, 117, 128, 190, 194, 200; Pub. L. 116–260, div. N, title III, §320(b), (f)(2)(A)(ii), Dec. 27, 2020, 134 Stat. 2015, 2016.)
+
+#### Amendment of Subsection (b) and Termination of Amendment
+
+<i>Pub. L. 116–260, div. N, title III, §320(b), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of</i><i>section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, subsection (b) of this section is amended—</i>
+
+<i>(1) in paragraph (8)(B), by striking "and" at the end;</i>
+
+<i>(2) in paragraph (9), by striking the period at the end and inserting "; and"; and</i>
+
+<i>(3) by adding at the end the following:</i>
+
+&emsp;<i>(10) any debt incurred under section 364(g)(1) of this title.</i>
+
+<i>Pub. L. 116–260, div. N, title III, §320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, §320(b), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, subsection (b) of this section is amended—</i>
+
+<i>(1) in paragraph (8)(B), by adding "and" at the end;</i>
+
+<i>(2) in paragraph (9), by striking "; and" at the end and inserting a period; and</i>
+
+<i>(3) by striking paragraph (10).</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
@@ -100,11 +122,17 @@ Compensation and reimbursement awarded officers of the estate under section 330 
 
 Paragraph (4) permits reasonable compensation for professional services rendered by an attorney or an accountant of an equity whose expense is compensable under the previous paragraph. Paragraph (5) permits reasonable compensation for an indenture trustee in making a substantial contribution in a reorganization or municipal debt adjustment case. Finally, paragraph (6) permits witness fees and mileage as prescribed under chapter 119 \[§2041 et seq.\] of title 28.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260, §320(f)(2)(A)(ii), contingent on its addition by Pub. L. 116–260, §320(b), struck out par. (10) which read as follows: "any debt incurred under section 364(g)(1) of this title."
+
+Pub. L. 116–260, §320(b), added par. (10).
 
 <b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;".
 
-Subsec. (b)(1)(B)(i). Pub. L. 109–8, §712(b), inserted "whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both," before "except".
+Subsec. (b)(1)(B)(i). Pub. L. 109–8, §712(b), inserted "whether secured or unsecured, including propertytaxes for which liability is in rem, in personam, or both," before "except".
 
 Subsec. (b)(1)(D). Pub. L. 109–8, §712(c), added subpar. (D).
 
@@ -143,6 +171,12 @@ Subsec. (b)(3)(C). Pub. L. 98–353, §446(5), struck out the comma after "case"
 Subsec. (b)(5). Pub. L. 98–353, §446(6), struck out "and" after "title;".
 
 Subsec. (b)(6). Pub. L. 98–353, §446(7), substituted "; and" for period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective and Termination Dates of 2020 Amendment
+
+Amendment by section 320(b) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(ii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under section 364 of this title.
 
 #### Effective Date of 2005 Amendment
 

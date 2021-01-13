@@ -38,7 +38,7 @@ Except as provided in subsection (c), consumer financial protection functions ar
 
 #### (B) Comptroller authority
 
-&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Comptroller ofthe Currency, relating to consumer financial protection functions, on the day before the designated transfer date.
+&emsp;&emsp;The Bureau shall have all powers and duties that were vested in the Comptroller of the Currency, relating to consumer financial protection functions, on the day before the designated transfer date.
 
 #### (3) Director of the Office of Thrift Supervision
 
@@ -154,6 +154,8 @@ Subsections (b) and (c) shall become effective on the designated transfer date.
 
 (Pub. L. 111–203, title X, §1061, July 21, 2010, 124 Stat. 2035.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -168,7 +170,9 @@ The Interstate Land Sales Full Disclosure Act, referred to in subsec. (b)(7), is
 
 The Federal Credit Union Act, referred to in subsec. (c)(2)(C)(i), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat.1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

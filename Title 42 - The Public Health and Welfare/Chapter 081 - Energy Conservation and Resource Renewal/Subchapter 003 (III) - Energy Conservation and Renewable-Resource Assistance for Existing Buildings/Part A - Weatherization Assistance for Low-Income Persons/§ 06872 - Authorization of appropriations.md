@@ -2,19 +2,15 @@
 
 For the purpose of carrying out the weatherization program under this part, there are authorized to be appropriated—
 
-&emsp;(1) $750,000,000 for fiscal year 2008;
+&emsp;(1) $330,000,000 for fiscal year 2021; and
 
-&emsp;(2) $900,000,000 for fiscal year 2009;
+&emsp;(2) $350,000,000 for each of fiscal years 2022 through 2025.
 
-&emsp;(3) $1,050,000,000 for fiscal year 2010;
-
-&emsp;(4) $1,200,000,000 for fiscal year 2011; and
-
-&emsp;(5) $1,400,000,000 for fiscal year 2012..<sup>1</sup>
-
-(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title I \[title IV, §464\], Nov. 30, 1983, 97 Stat. 1235; Pub. L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 110–140, title IV, §411(a), Dec. 19, 2007, 121 Stat. 1600.)
+(Pub. L. 94–385, title IV, §422, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title II, §231(d), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–294, title V, §576, June 30, 1980, 94 Stat. 760; Pub. L. 98–181, title I \[title IV, §464\], Nov. 30, 1983, 97 Stat. 1235; Pub. L. 101–440, §8(c), Oct. 18, 1990, 104 Stat. 1016; Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §122(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 110–140, title IV, §411(a), Dec. 19, 2007, 121 Stat. 1600; Pub. L. 116–260, div. Z, title I, §1011(a), Dec. 27, 2020, 134 Stat. 2442.)
 
 #### Amendments
+
+<b>2020</b>—Pars. (1) to (5). Pub. L. 116–260 added pars. (1) and (2) and struck out former pars. (1) to (5) which authorized appropriations for fiscal years 2008 to 2012.
 
 <b>2007</b>—Pub. L. 110–140 substituted "appropriated—" and pars. (1) to (5) for "appropriated $500,000,000 for fiscal year 2006, $600,000,000 for fiscal year 2007, and $700,000,000 for fiscal year 2008".
 
@@ -69,6 +65,4 @@ In general.—Except as provided in paragraph (2), the amount of funds used for 
 &emsp;"(B)
 
 Exception.—No funds may be used for sustainable energy resources for consumers grants for a fiscal year under this subsection if the amount of funds made available for the fiscal year to carry out the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) is less than $275,000,000."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

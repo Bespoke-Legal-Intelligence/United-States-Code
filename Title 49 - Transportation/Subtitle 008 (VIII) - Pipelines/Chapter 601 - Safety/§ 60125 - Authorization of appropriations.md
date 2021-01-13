@@ -6,31 +6,97 @@ Gas and Hazardous Liquid.—
 
 &emsp;(1)
 
-In general.—To carry out the provisions of this chapter related to gas and hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355), there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—
+In general.—From fees collected under section 60301, there are authorized to be appropriated to the Secretary to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355) and the provisions of this chapter relating to gas and hazardous liquid—
 
-&emsp;&emsp;(A) $124,500,000 for fiscal year 2016, of which $9,000,000 shall be expended for carrying out such section 12 and $39,385,000 shall be expended for making grants;
+&emsp;&emsp;(A) $156,400,000 for fiscal year 2021, of which—
 
-&emsp;&emsp;(B) $128,000,000 for fiscal year 2017 <sup>1</sup> of which $9,000,000 shall be expended for carrying out such section 12 and $41,885,000 shall be expended for making grants;
+&emsp;&emsp;&emsp;(i) $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
 
-&emsp;&emsp;(C) $131,000,000 for fiscal year 2018, of which $9,000,000 shall be expended for carrying out such section 12 and $44,885,000 shall be expended for making grants; and
+&emsp;&emsp;&emsp;(ii) $63,000,000 shall be used for making grants;
 
-&emsp;&emsp;(D) $134,000,000 for fiscal year 2019, of which $9,000,000 shall be expended for carrying out such section 12 and $47,885,000 shall be expended for making grants.
+&emsp;&emsp;(B) $158,500,000 for fiscal year 2022, of which—
+
+&emsp;&emsp;&emsp;(i) $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
+
+&emsp;&emsp;&emsp;(ii) $66,000,000 shall be used for making grants; and
+
+&emsp;&emsp;(C) $162,700,000 for fiscal year 2023, of which—
+
+&emsp;&emsp;&emsp;(i) $9,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
+
+&emsp;&emsp;&emsp;(ii) $69,000,000 shall be used for making grants.
 
 &emsp;(2)
 
-Trust fund amounts.—In addition to the amounts authorized to be appropriated by paragraph (1), there is authorized to be appropriated from the Oil Spill Liability Trust Fund to carry out the provisions of this chapter related to hazardous liquid and section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355)—
+Trust fund amounts.—In addition to the amounts authorized to be appropriated under paragraph (1), there are authorized to be appropriated from the Oil Spill Liability Trust Fund established by section 9509(a) of the Internal Revenue Code of 1986 to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355) and the provisions of this chapter relating to hazardous liquid—
 
-&emsp;&emsp;(A) $22,123,000 for fiscal year 2016, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+&emsp;&emsp;(A) $27,000,000 for fiscal year 2021, of which—
 
-&emsp;&emsp;(B) $22,123,000 for fiscal year 2017, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants;
+&emsp;&emsp;&emsp;(i) $3,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
 
-&emsp;&emsp;(C) $23,000,000 for fiscal year 2018, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants; and
+&emsp;&emsp;&emsp;(ii) $11,000,000 shall be used for making grants;
 
-&emsp;&emsp;(D) $23,000,000 for fiscal year 2019, of which $3,000,000 shall be expended for carrying out such section 12 and $8,067,000 shall be expended for making grants.
+&emsp;&emsp;(B) $27,650,000 for fiscal year 2022, of which—
+
+&emsp;&emsp;&emsp;(i) $3,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
+
+&emsp;&emsp;&emsp;(ii) $12,000,000 shall be used for making grants; and
+
+&emsp;&emsp;(C) $28,700,000 for fiscal year 2023, of which—
+
+&emsp;&emsp;&emsp;(i) $3,000,000 shall be used to carry out section 12 of the Pipeline Safety Improvement Act of 2002 (49 U.S.C. 60101 note; Public Law 107–355); and
+
+&emsp;&emsp;&emsp;(ii) $13,000,000 shall be used for making grants.
 
 &emsp;(3)
 
-Underground natural gas storage facility safety account.—To carry out section 60141, there is authorized to be appropriated to the Department of Transportation from fees collected under section 60302 $8,000,000 for each of fiscal years 2017 through 2019.
+Underground natural gas storage facility safety account.—From fees collected under section 60302, there is authorized to be appropriated to the Secretary to carry out section 60141 $8,000,000 for each of fiscal years 2021 through 2023.
+
+&emsp;(4)
+
+Recruitment and retention.—From amounts made available to the Secretary under paragraphs (1) and (2), the Secretary shall use—
+
+&emsp;&emsp;(A) $1,520,000 to carry out section 102(b)(1) of the PIPES Act of 2020, of which—
+
+&emsp;&emsp;&emsp;(i) $1,292,000 shall be from amounts made available under paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;(ii) $228,000 shall be from amounts made available under paragraph (2)(A);
+
+&emsp;&emsp;(B) $2,300,000 to carry out section 102(b)(2)(A) of the PIPES Act of 2020, of which—
+
+&emsp;&emsp;&emsp;(i) $1,955,000 shall be from amounts made available under paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;(ii) $345,000 shall be from amounts made available under paragraph (2)(A);
+
+&emsp;&emsp;(C) $1,600,000 to carry out section 102(b)(2)(B) of the PIPES Act of 2020, of which—
+
+&emsp;&emsp;&emsp;(i) $1,360,000 shall be from amounts made available under paragraph (1)(B); and
+
+&emsp;&emsp;&emsp;(ii) $240,000 shall be from amounts made available under paragraph (2)(B);
+
+&emsp;&emsp;(D) $1,800,000 to carry out section 102(b)(2)(C) of the PIPES Act of 2020, of which—
+
+&emsp;&emsp;&emsp;(i) $1,530,000 shall be from amounts made available under paragraph (1)(C); and
+
+&emsp;&emsp;&emsp;(ii) $270,000 shall be from amounts made available under paragraph (2)(C);
+
+&emsp;&emsp;(E) $2,455,000 to carry out section 102(c) of the PIPES Act of 2020 in fiscal year 2021, of which—
+
+&emsp;&emsp;&emsp;(i) $2,086,750 shall be from amounts made available under paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;(ii) $368,250 shall be from amounts made available under paragraph (2)(A);
+
+&emsp;&emsp;(F) $2,455,000 to carry out section 102(c) of the PIPES Act of 2020 in fiscal year 2022, of which—
+
+&emsp;&emsp;&emsp;(i) $2,086,750 shall be from amounts made available under paragraph (1)(B); and
+
+&emsp;&emsp;&emsp;(ii) $368,250 shall be from amounts made available under paragraph (2)(B); and
+
+&emsp;&emsp;(G) $2,455,000 to carry out section 102(c) of the PIPES Act of 2020 in fiscal year 2023, of which—
+
+&emsp;&emsp;&emsp;(i) $2,086,750 shall be from amounts made available under paragraph (1)(C); and
+
+&emsp;&emsp;&emsp;(ii) $368,250 shall be from amounts made available under paragraph (2)(C).
 
 (b)
 
@@ -42,13 +108,13 @@ In general.—The Secretary may establish a program for making grants to State, 
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated $10,000,000 for each of fiscal years 2012 through 2015 to carry out this subsection.
+Authorization of appropriations.—There is authorized to be appropriated $10,000,000 for each of fiscal years 2021 through 2023 to carry out this subsection.
 
 (c)
 
 Crediting Appropriations for Expenditures for Training.—The Secretary may credit to an appropriation authorized under subsection (a) amounts received from sources other than the Government for reimbursement for expenses incurred by the Secretary in providing training.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922; Pub. L. 114–183, §2(a), June 22, 2016, 130 Stat. 514.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1327; Pub. L. 104–304, §21, Oct. 12, 1996, 110 Stat. 3805; Pub. L. 107–355, §22, Dec. 17, 2002, 116 Stat. 3010; Pub. L. 109–468, §18(a)–(c), Dec. 29, 2006, 120 Stat. 3497, 3498; Pub. L. 112–90, §32(a), (b), Jan. 3, 2012, 125 Stat. 1922; Pub. L. 114–183, §2(a), June 22, 2016, 130 Stat. 514; Pub. L. 116–260, div. R, title I, §101(a), (d), Dec. 27, 2020, 134 Stat. 2211, 2213.)
 
 Historical and Revision Notes
 
@@ -118,7 +184,17 @@ In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as exp
 
 In subsection (f)(5), the words "made available" are omitted as surplus.
 
+#### References in Text
+
+Section 9509(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to section 9509(a) of Title 26, Internal Revenue Code.
+
+Section 102 of the PIPES Act of 2020, referred to in subsec. (a)(4), is section 102 of div. R of Pub. L. 116–260, which is set out as a note under section 60101 of this title.
+
 #### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §101(a), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for fiscal years 2016 to 2019 to carry out provisions related to gas and hazardous liquid from fees collected under section 60301 in par. (1), from the Oil Spill Liability Trust Fund in par. (2), and from fees collected under section 60302 in par. (3).
+
+Subsec. (b)(2). Pub. L. 116–260, §101(d), substituted "fiscal years 2021 through 2023" for "fiscal years 2012 through 2015".
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–183, §2(a)(1), substituted "there is authorized to be appropriated to the Department of Transportation from fees collected under section 60301—" for "there is authorized to be appropriated to the Department of Transportation for each of fiscal years 2012 through 2015, from fees collected under section 60301, $90,679,000, of which $4,746,000 is for carrying out such section 12 and $36,194,000 is for making grants." and added subpars. (A) to (D).
 
@@ -225,6 +301,4 @@ Gas.—Not more than the following amounts may be appropriated to the Secretary 
 &emsp;"(3) $7,500,000 for the fiscal year ending September 30, 1995."
 
 Subsec. (c)(1). Pub. L. 104–304, §21(b), added subpars. (D) to (H).
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

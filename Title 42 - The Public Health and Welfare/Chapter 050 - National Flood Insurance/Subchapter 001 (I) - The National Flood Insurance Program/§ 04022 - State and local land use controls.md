@@ -62,7 +62,7 @@
 
 #### (1) Community participation
 
-&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstandingthat such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
+&emsp;The placement of any mobile home on any site shall not affect the eligibility of any community to participate in the flood insurance program under this chapter and the Flood Disaster Protection Act of 1973 (notwithstanding that such placement may fail to comply with any elevation or flood damage mitigation requirements), if—
 
 &emsp;&emsp;(A) such mobile home was previously located on such site;
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

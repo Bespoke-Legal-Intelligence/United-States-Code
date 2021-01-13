@@ -58,7 +58,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days before finalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall notify the appropriate congressional committees not later than 60 days before proposing, and not later than 60 days beforefinalizing, any Department policies, initiatives, or actions that will have a major impact on trade and customs revenue functions. Such notifications shall include a description of the proposed policies, initiatives, or actions and any comments or recommendations provided by the Commercial Operations Advisory Committee and other relevant groups regarding the proposed policies, initiatives, or actions.
 
 #### (B) Exception
 
@@ -90,6 +90,8 @@
 
 (Pub. L. 109–347, title IV, §401, Oct. 13, 2006, 120 Stat. 1921; Pub. L. 114–125, title IX, §902, Feb. 24, 2016, 130 Stat. 223.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
@@ -99,6 +101,8 @@ Section was enacted as part of the Security and Accountability For Every Port Ac
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–125, §902(1), substituted "not later than 30 days after proposing, and not later than 30 days before finalizing, any Department policies, initiatives, or actions that will have" for "on Department policies and actions that have".
 
 Subsec. (c)(2)(A). Pub. L. 114–125, §902(2), substituted "not later than 60 days before proposing, and not later than 60 days before finalizing," for "not later than 30 days prior to the finalization of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

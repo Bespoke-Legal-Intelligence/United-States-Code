@@ -26,7 +26,7 @@
 
 #### (D) Exclusion authority
 
-&emsp;&emsp;The Secretary may exclude competitively biddable drugs and biologicals (including a class of such drugs and biologicals) from thecompetitive bidding system under this section if the application of competitive bidding to such drugs or biologicals—
+&emsp;&emsp;The Secretary may exclude competitively biddable drugs and biologicals (including a class of such drugs and biologicals) from the competitive bidding system under this section if the application of competitive bidding to such drugs or biologicals—
 
 &emsp;&emsp;&emsp;(i) is not likely to result in significant savings; or
 
@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in a competitive acquisition area pursuant to paragraph (1) with respect to the acquisition of competitively biddable drugs and biologicals within a category unless the Secretary finds that the entity meets all of the following with respect to the contract period involved:
+&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in a competitive acquisition area pursuant to paragraph (1) with respect to the acquisition of competitively biddable drugs and biologicals within a category unless theSecretary finds that the entity meets all of the following with respect to the contract period involved:
 
 #### (i) Capacity to supply competitively biddable drug or biological within category
 

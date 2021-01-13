@@ -6,9 +6,13 @@ Keeping of records by district court clerks and magistrate judges, rule 55.
 
 (June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 90–578, title III, §301(a)(4), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–578 substituted "magistrates" for "commissioners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

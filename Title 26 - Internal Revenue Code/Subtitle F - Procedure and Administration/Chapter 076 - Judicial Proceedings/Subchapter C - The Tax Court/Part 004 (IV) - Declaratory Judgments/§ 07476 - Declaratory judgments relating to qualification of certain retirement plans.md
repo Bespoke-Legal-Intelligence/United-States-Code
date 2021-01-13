@@ -12,7 +12,7 @@ In a case of actual controversy involving—
 
 &emsp;&emsp;(B) such continuing qualification if the controversy arises from a plan amendment or plan termination,
 
-> upon the filing of an appropriate pleading, the Tax Court may make a declaration with respectto such initial qualification or continuing qualification. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification includes any revocation of or other change in a qualification.
+> upon the filing of an appropriate pleading, the Tax Court may make a declaration with respect to such initial qualification or continuing qualification. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification includes any revocation of or other change in a qualification.
 
 #### (b) Limitations
 
@@ -46,7 +46,7 @@ For purposes of this section, the term "retirement plan" means—
 
 #### (d) Cross reference
 
-&emsp;&emsp;<b>For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of</b><b>Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1041(a), Sept. 2, 1974, 88 Stat. 949; amended Pub. L. 94–455, title X, §1042(d)(2)(C), title XIII, §1306(b)(3), title XIX, §§1906(a)(48), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1639, 1719, 1831, 1834; Pub. L. 95–600, title III, §336(b)(2)(A), title VII, §701(dd)(1), Nov. 6, 1978, 92 Stat. 2842, 2924; Pub. L. 98–369, div. A, title IV, §491(d)(52), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XVIII, §1899A(59), Oct. 22, 1986, 100 Stat. 2962.)
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 Amendment by section 336(b)(2)(A) of Pub. L. 95–600 applicable to requests for determinations made after Dec. 31, 1978, see section 336(d) of Pub. L. 95–600, set out as an Effective Date note under section 7478 of this title.
 
-Pub. L. 95–600, title VII, §701(dd)(3), Nov. 6, 1978, 92 Stat. 2924, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendmentsmade by paragraphs (1) and (2) \[amending this section and section 7428 of this title\] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as the case may be) at the respective times such sections were added to such Code."
+Pub. L. 95–600, title VII, §701(dd)(3), Nov. 6, 1978, 92 Stat. 2924, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 7428 of this title\] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as the case may be) at the respective times such sections were added to such Code."
 
 #### Effective Date of 1976 Amendment
 

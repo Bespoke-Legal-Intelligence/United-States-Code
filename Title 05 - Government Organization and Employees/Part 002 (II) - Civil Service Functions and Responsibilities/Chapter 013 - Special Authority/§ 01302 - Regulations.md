@@ -48,21 +48,27 @@ Subsection (a) is based on former section 633(3) (less last 10 words). The regul
 
 In subsections (b)–(d), the word "rules" is omitted as included in "regulations".
 
-The provisions of the Veterans' Preference Act of 1944 (former sections 851–869) to which the regulation-making authority of subsections (b) and (c) apply are carried into sections 2108, 3305(b), 3306(a)(2), 3308–3320, 3351, 3363, 3364, and 7701, subchapter I of chapter 35, and subchapter II of chapter 75 of this title. The first 76 wordsof former section 851 are added here to preserve the general statement of policy in the light of which the substantive provisions that formerly comprised the Veterans' Preference Act of 1944 are to be interpreted. See <i>Elder</i> v. <i>Brannan,</i> 241 U.S. 277, 286. In subsection (b), the words "in the competitive service in Executive agencies, permanent or temporary, and in the government of the District of Columbia", and in subsection (c) the words "in the excepted service in Executive agencies, permanent or temporary, and in the government of the District of Columbia" are coextensive with and substituted for "in civilian positions in all establishments, agencies, bureaus, administrations, projects, and departments of the Government, permanent or temporary, and in either (a) the classified civil service; (b) the unclassified civil service; (c) any temporary or emergency establishment, agency, bureau, administration, project, and department created by Acts of Congress or Presidential Executive order", in view of the exclusion of positions in the legislative and judicial branches by former section 869.
+The provisions of the Veterans' Preference Act of 1944 (former sections 851–869) to which the regulation-making authority of subsections (b) and (c) apply are carried into sections 2108, 3305(b), 3306(a)(2), 3308–3320, 3351, 3363, 3364, and 7701, subchapter I of chapter 35, and subchapter II of chapter 75 of this title. The first 76 words of former section 851 are added here to preserve the general statement of policy in the light of which the substantive provisions that formerly comprised the Veterans' Preference Act of 1944 are to be interpreted. See <i>Elder</i> v. <i>Brannan,</i> 241 U.S. 277, 286. In subsection (b), the words "in the competitive service in Executive agencies, permanent or temporary, and in the government of the District of Columbia", and in subsection (c) the words "in the excepted service in Executive agencies, permanent or temporary, and in the government of the District of Columbia" are coextensive with and substituted for "in civilian positions in all establishments, agencies, bureaus, administrations, projects, and departments of the Government, permanent or temporary, and in either (a) the classified civil service; (b) the unclassified civil service; (c) any temporary or emergency establishment, agency, bureau, administration, project, and department created by Acts of Congress or Presidential Executive order", in view of the exclusion of positions in the legislative and judicial branches by former section 869.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1978</b>—Subsecs. (a) to (d). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 10561
 
-Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official personnel folders, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
+Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official personnel folders, was revoked bysection 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
 
 #### Executive Order No. 11397
 

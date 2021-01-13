@@ -4,11 +4,15 @@ There is established a board to be known as the Congressional Award Board (herei
 
 (Pub. L. 96–114, title I, §101, formerly §2, Nov. 16, 1979, 93 Stat. 851; renumbered title I, §101, and amended Pub. L. 106–533, §1(b)(1)–(3), Nov. 22, 2000, 114 Stat. 2553.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–533, §1(b)(3)(A), substituted "subchapter" for "chapter".
 
 Pub. L. 106–533, §1(b)(3)(B), made technical amendment to reference in original act which appears in text as reference to section 802 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 

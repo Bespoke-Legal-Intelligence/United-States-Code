@@ -6,7 +6,7 @@
 
 &emsp;(2) supplies, equipment, and personnel and contractual services otherwise authorized by law and regulations, when approved by the Director.
 
-(b) The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.
+(b) The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted forsolely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.
 
 (June 20, 1949, ch. 227, §8, formerly §10, 63 Stat. 212; renumbered §8, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 116–92, div. E, title LIII, §5341, Dec. 20, 2019, 133 Stat. 2142.)
 
@@ -28,7 +28,7 @@ A prior section 8 of act June 20, 1949, was renumbered section 7 and is classifi
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 inserted "payment of death benefits in cases in which the circumstances of the death of an employee of the Agency, a detailee of the Agency or other employee of another department or agency of the Federal Government assigned to the Agency, or an individual affiliated with the Agency (asdetermined by the Director), is not covered by section 3511 of this title, other similar provisions of Federal law, or any regulation issued by the Director providing death benefits, but that the Director determines such payment appropriate;" before "rental of".
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 inserted "payment of death benefits in cases in which the circumstances of the death of an employee of the Agency, a detailee of the Agency or other employee of another department or agency of the Federal Government assigned to the Agency, or an individual affiliated with the Agency (as determined by the Director), is not covered by section 3511 of this title, other similar provisions of Federal law, or any regulation issued by the Director providing death benefits, but that the Director determines such payment appropriate;" before "rental of".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

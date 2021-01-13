@@ -36,7 +36,7 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 
 #### (A) In general
 
-&emsp;&emsp;In the case of contumacy of any person issued a subpoena under this subsection or a refusal by such person to comply with such subpoena, the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation, or any other party to proceedings in connection with which subpoena was issued may invoke the aid of—
+&emsp;&emsp;In the case of contumacy of any person issued a subpoena under this subsection or a refusal by such person to comply with such subpoena, the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation, or any other party to proceedingsin connection with which subpoena was issued may invoke the aid of—
 
 &emsp;&emsp;&emsp;(i) the United States District Court for the District of Columbia, or
 
@@ -59,6 +59,8 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 In the case of any provision of the Federal Reserve Act \[12 U.S.C. 221 et seq.\] to which a foreign bank or branch thereof is subject under this chapter, and which is made applicable to nonmember insured banks by the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], whether by cross-reference to the Federal Reserve Act or by a provision in substantially the same terms in the Federal Deposit Insurance Act, the administration, interpretation, and enforcement of such provision, insofar as it relates to any foreign bank or branch thereof as to which the Board is an appropriate Federal banking agency, are vested in the Board, but where the making of any report to the Board or a Federal Reserve bank is required under any such provision, the Federal Deposit Insurance Corporation may require that a duplicate of any such report be sent directly to it. This subsection shall not be construed to impair any power of the Federal Deposit Insurance Corporation to make regular or special examinations or to require special reports.
 
 (Pub. L. 95–369, §13, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §209, Dec. 19, 1991, 105 Stat. 2297.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

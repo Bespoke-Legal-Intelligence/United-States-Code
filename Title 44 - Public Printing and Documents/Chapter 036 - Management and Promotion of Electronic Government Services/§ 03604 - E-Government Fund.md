@@ -104,9 +104,13 @@
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2906.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204 of the E-Government Act of 2002, referred to in subsec. (d), is section 204 of Pub. L. 107–347, which is set out in a note under section 3501 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

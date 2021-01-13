@@ -44,7 +44,7 @@ In this chapter:
 
 #### (B) Rule
 
-&emsp;&emsp;The use, building, or conversion of real property for the purpose of religious exerciseshall be considered to be religious exercise of the person or entity that uses or intends to use the property for that purpose.
+&emsp;&emsp;The use, building, or conversion of real property for the purpose of religious exercise shall be considered to be religious exercise of the person or entity that uses or intends to use the property for that purpose.
 
 (Pub. L. 106–274, §8, Sept. 22, 2000, 114 Stat. 806.)
 

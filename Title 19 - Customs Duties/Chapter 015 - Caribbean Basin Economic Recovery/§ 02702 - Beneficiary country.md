@@ -10,7 +10,7 @@
 
 &emsp;(C) The term "HTS" means Harmonized Tariff Schedule of the United States.
 
-&emsp;(D) The term "NAFTA" means the North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992.
+&emsp;(D) The term "USMCA" has the meaning given that term in section 4502 of this title.
 
 &emsp;(E) The terms "WTO" and "WTO member" have the meanings given those terms in section 3501 of this title.
 
@@ -41,7 +41,7 @@ In designating countries as "beneficiary countries" under this chapter the Presi
 
 &emsp;(2) if such country—
 
-&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
+&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or bya corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
 
 &emsp;&emsp;(B) has taken steps to repudiate or nullify—
 
@@ -97,7 +97,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
-&emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
+&emsp;(11) the extent to which such country is prepared to cooperate with the United States inthe administration of the provisions of this chapter.
 
 #### (d) Omitted
 
@@ -149,7 +149,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, §402(a), Oct. 21, 2011, 125 Stat. 530; Pub. L. 116–260, div. O, title VI, §602(b)(1), Dec. 27, 2020, 134 Stat. 2152.)
 
 #### Amendment of Section
 
@@ -172,6 +172,8 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original "this subtit
 Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(D). Pub. L. 116–260 added subpar. (D) and struck out former subpar. (D) which defined "NAFTA".
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–43, §§107(c), 402(a), temporarily struck out "Panama" from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2011 Amendment note below.
 
@@ -201,7 +203,11 @@ Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section."
 
-<b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a countryas a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+<b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
 
 #### Effective and Termination Dates of 2011 Amendment
 

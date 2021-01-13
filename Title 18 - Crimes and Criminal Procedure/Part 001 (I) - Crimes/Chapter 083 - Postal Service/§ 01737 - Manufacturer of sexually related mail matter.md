@@ -6,9 +6,13 @@
 
 (Added Pub. L. 91–375, §6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" after "section, shall be" and for "fined not more than $10,000" after "offense, and shall be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

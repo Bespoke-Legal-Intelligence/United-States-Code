@@ -4,6 +4,8 @@ Until otherwise provided by law, there is authorized to be paid out of the appli
 
 (Pub. L. 88–454, §103, Aug. 20, 1964, 78 Stat. 550; Pub. L. 104–186, title II, §221(1), Aug. 20, 1996, 110 Stat. 1748.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 166b–4 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -13,6 +15,8 @@ Section is based on House Resolution No. 291, June 18, 1963, which was enacted i
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "applicable accounts" for "contingent fund" and substituted "House Oversight" for "House Administration" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

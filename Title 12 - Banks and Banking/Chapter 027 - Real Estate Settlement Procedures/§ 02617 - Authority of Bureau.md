@@ -36,6 +36,8 @@ No provision of this chapter or the laws of any State imposing any liability sha
 
 (Pub. L. 93–533, §19, as added Pub. L. 94–205, §10, Jan. 2, 1976, 89 Stat. 1159; amended Pub. L. 98–181, title I \[title IV, §461(e)\], Nov. 30, 1983, 97 Stat. 1232; Pub. L. 104–208, div. A, title II, §2103(f), Sept. 30, 1996, 110 Stat. 3009–401; Pub. L. 111–203, title X, §1098(11), July 21, 2010, 124 Stat. 2104.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1098(11)(A), substituted "Bureau" for "Secretary" in section catchline.
@@ -47,6 +49,8 @@ Subsecs. (b), (c). Pub. L. 111–203, §1098(11)(C), substituted "the Bureau" fo
 <b>1996</b>—Subsec. (d). Pub. L. 104–208 added subsec. (d).
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–181 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

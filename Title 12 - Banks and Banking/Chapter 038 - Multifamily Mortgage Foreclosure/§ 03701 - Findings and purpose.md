@@ -18,11 +18,15 @@
 
 (Pub. L. 97–35, title III, §362, Aug. 13, 1981, 95 Stat. 422; Pub. L. 102–550, title V, §517(a), Oct. 28, 1992, 106 Stat. 3791.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550, §517(a)(1), substituted "multifamily mortgages" for "real estate mortgages which the Secretary holds pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964 covering multiunit residential and nonresidential properties".
 
 Subsec. (b). Pub. L. 102–550, §517(a)(2), substituted "multifamily mortgages" for "multiunit residential and nonresidential mortgages held by the Secretary of Housing and Urban Development pursuant to title II of the National Housing Act or section 312 of the Housing Act of 1964".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

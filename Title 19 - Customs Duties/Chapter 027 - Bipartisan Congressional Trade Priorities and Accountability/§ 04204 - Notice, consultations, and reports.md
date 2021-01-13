@@ -18,13 +18,13 @@
 
 #### (A) Assessment and consultations following assessment
 
-&emsp;&emsp;Before initiating or continuing negotiations the subject matter of which is directlyrelated to the subject matter under section 4201(b)(3)(B) of this title with any country, the President shall—
+&emsp;&emsp;Before initiating or continuing negotiations the subject matter of which is directly related to the subject matter under section 4201(b)(3)(B) of this title with any country, the President shall—
 
 &emsp;&emsp;&emsp;(i) assess whether United States tariffs on agricultural products that were bound under the Uruguay Round Agreements are lower than the tariffs bound by that country;
 
 &emsp;&emsp;&emsp;(ii) consider whether the tariff levels bound and applied throughout the world with respect to imports from the United States are higher than United States tariffs and whether the negotiation provides an opportunity to address any such disparity; and
 
-&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree to further tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
+&emsp;&emsp;&emsp;(iii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning the results of the assessment, whether it is appropriate for the United States to agree tofurther tariff reductions based on the conclusions reached in the assessment, and how all applicable negotiating objectives will be met.
 
 #### (B) Special consultations on import sensitive products
 
@@ -134,7 +134,7 @@
 
 #### (4) Advisory committee reports
 
-&emsp;The report required under section 135(e)(1) of the Trade Act of 1974 (19 U.S.C. 2155(e)(1)) regarding any trade agreement entered into under subsection (a) or (b) of section 4202 of this title shall be provided to the President, Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies Congress under section 4202(a)(2) or 4205(a)(1)(A) of thistitle of the intention of the President to enter into the agreement.
+&emsp;The report required under section 135(e)(1) of the Trade Act of 1974 (19 U.S.C. 2155(e)(1)) regarding any trade agreement entered into under subsection (a) or (b) of section 4202 of this title shall be provided to the President, Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies Congress under section 4202(a)(2) or 4205(a)(1)(A) of this title of the intention of the President to enter into the agreement.
 
 #### (c) International Trade Commission assessment
 
@@ -144,7 +144,7 @@
 
 #### (2) Assessment
 
-&emsp;Not later than 105 calendar days after the President enters into a trade agreement under section 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
+&emsp;Not later than 105 calendar days after the President enters into a trade agreement undersection 4202(b) of this title, the Commission shall submit to the President and Congress a report assessing the likely impact of the agreement on the United States economy as a whole and on specific industry sectors, including the impact the agreement will have on the gross domestic product, exports and imports, aggregate employment and employment opportunities, the production, employment, and competitive position of industries likely to be significantly affected by the agreement, and the interests of United States consumers.
 
 #### (3) Review of empirical literature
 

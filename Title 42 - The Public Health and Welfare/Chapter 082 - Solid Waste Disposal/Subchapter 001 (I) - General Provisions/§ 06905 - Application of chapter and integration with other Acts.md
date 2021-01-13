@@ -2,7 +2,7 @@
 
 #### (a) Application of chapter
 
-Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
+Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\],the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
 
 #### (b) Integration with other Acts
 
@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (B) Based on the report under subparagraph (A) and on any future information on such emissions, the Administrator may publish advisories or guidelines regarding the control of dioxin emissions from such facilities. Nothing in this paragraph shall be construed to preempt or otherwise affect the authority of the Administrator to promulgate any regulations under the Clean Air Act \[42 U.S.C. 7401 et seq.\] regarding emissions of polychlorinated dibenzo-p-dioxins.
 
-(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including thoseneeds created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
+(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including those needs created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
 
 #### (c) Integration with the Surface Mining Control and Reclamation Act of 1977
 
@@ -42,7 +42,7 @@ The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, 
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, MineralLands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Prior Provisions
 

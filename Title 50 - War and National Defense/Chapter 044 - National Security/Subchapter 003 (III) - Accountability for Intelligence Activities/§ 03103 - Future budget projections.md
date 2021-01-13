@@ -8,7 +8,7 @@
 
 &emsp;(B) each major system in the National Intelligence Program.
 
-(2)(A) A Future Year Intelligence Plan submitted under this subsection shall include the year-by-year proposed funding for each center or system referred to in subparagraph (A) or (B) of paragraph (1), for the budget year for which the Plan is submitted and not less than the 4 subsequent fiscal years.
+(2)(A) A Future Year Intelligence Plan submitted under this subsection shall include theyear-by-year proposed funding for each center or system referred to in subparagraph (A) or (B) of paragraph (1), for the budget year for which the Plan is submitted and not less than the 4 subsequent fiscal years.
 
 (B) A Future Year Intelligence Plan submitted under subparagraph (B) of paragraph (1) for a major system shall include—
 
@@ -82,7 +82,7 @@ Pub. L. 111–259, title III, §325(b), Oct. 7, 2010, 124 Stat. 2683, provided t
 
 #### Future-Years Intelligence Program
 
-Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
+Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligenceprogram (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
 
 Similar provisions were contained in the following appropriation acts:
 

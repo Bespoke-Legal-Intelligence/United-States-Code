@@ -6,7 +6,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(1) maintaining records of all hazardous wastes identified or listed under this chapter which is treated, stored, or disposed of, as the case may be, and the manner in which such wastes were treated, stored, or disposed of;
 
-&emsp;(2) satisfactory reporting, monitoring, and inspection and compliance with the manifest system referred to in section 6922(5) <sup>1</sup> of this title;
+&emsp;(2) satisfactory reporting, monitoring, and inspection and compliance with the manifestsystem referred to in section 6922(5) <sup>1</sup> of this title;
 
 &emsp;(3) treatment, storage, or disposal of all such waste received by the facility pursuant to such operating methods, techniques, and practices as may be satisfactory to the Administrator;
 
@@ -30,7 +30,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(C) a permit has been issued under section 6925(c) of this title for the facility concerned.
 
-(2) Effective on November 8, 1984, the placement of any hazardous waste other than a hazardous waste referred to in paragraph (1) in a salt dome formation, salt bed formation, underground mine, or cave is prohibited until suchtime as a permit has been issued under section 6925(c) of this title for the facility concerned.
+(2) Effective on November 8, 1984, the placement of any hazardous waste other than a hazardous waste referred to in paragraph (1) in a salt dome formation, salt bed formation, underground mine, or cave is prohibited until such time as a permit has been issued under section 6925(c) of this title for the facility concerned.
 
 (3) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) applies shall affect the prohibition contained in paragraph (1) or (2) of this subsection.
 
@@ -60,7 +60,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (d) Prohibitions on land disposal of specified wastes
 
-(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) with respect to underground injection into deep injection wells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
+(1) Effective 32 months after November 8, 1984 (except as provided in subsection (f) with respect to underground injection into deep injectionwells), the land disposal of the hazardous wastes referred to in paragraph (2) is prohibited unless the Administrator determines the prohibition on one or more methods of land disposal of such waste is not required in order to protect human health and the environment for as long as the waste remains hazardous, taking into account—
 
 &emsp;(A) the long-term uncertainties associated with land disposal,
 
@@ -118,7 +118,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (1) Not later than forty-five months after November 8, 1984, the Administrator shall complete a review of the disposal of all hazardous wastes referred to in paragraph (2) of subsection (d) and in paragraph (2) of subsection (e) by underground injection into deep injection wells.
 
-(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) and the hazardous wastes referred to in paragraph (2) of subsection (e). The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1). In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) which is prohibited from disposal into such wells by any State.
+(2) Within forty-five months after November 8, 1984, the Administrator shall make a determination regarding the disposal by underground injection into deep injection wells of the hazardous wastes referred to in paragraph (2) of subsection (d) and the hazardous wastes referred toin paragraph (2) of subsection (e). The Administrator shall promulgate final regulations prohibiting the disposal of such wastes into such wells if it may reasonably be determined that such disposal may not be protective of human health and the environment for as long as the waste remains hazardous, taking into account the factors referred to in subparagraphs (A) through (C) of subsection (d)(1). In promulgating such regulations, the Administrator shall consider each hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) which is prohibited from disposal into such wells by any State.
 
 (3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
 
@@ -174,7 +174,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m), including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
 
-(9) Solid waste identified as hazardous based on one or more characteristics alone shall notbe subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
 
 (10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1), or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
@@ -192,7 +192,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 #### (i) Publication of determination
 
-If the Administrator determines that a method of land disposal will be protective of human health and the environment, he shall promptly publish in the Federal Register notice of such determination, together with an explanation of the basis for such determination.
+If the Administrator determines that a method of land disposal will be protective of human health and the environment, he shall promptly publish in the Federal Register notice of suchdetermination, together with an explanation of the basis for such determination.
 
 #### (j) Storage of hazardous waste prohibited from land disposal
 
@@ -210,7 +210,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 (1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
-(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a landdisposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
+(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
 
 #### (n) Air emissions
 
@@ -308,7 +308,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(B) contaminants are removed; and
 
-&emsp;(C) such refining waste containing oil is converted along with normal process streams intopetroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
+&emsp;(C) such refining waste containing oil is converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
 (3) Unless the Administrator determines otherwise as may be necessary to protect human health and the environment, this subsection shall not apply to fuels produced from oily materials, resulting from normal petroleum refining, production and transportation practices, if (A) contaminants are removed; and (B) such oily materials are converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
@@ -324,7 +324,7 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 (3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
-(4) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this section.
+(4) For the purpose of this subsection, the term "guarantor" means any person, other thanthe owner or operator, who provides evidence of financial responsibility for an owner or operator under this section.
 
 #### (u) Continuing releases at permitted facilities
 

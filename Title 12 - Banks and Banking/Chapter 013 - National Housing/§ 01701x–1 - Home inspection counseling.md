@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Housing and Urban Development (in this section referred to as the "Secretary") shall take such actions as may be necessary to inform potential homebuyers of the availability and importance of obtaining an independent home inspection. Such actions shall include—
 
-&emsp;&emsp;(A) publication of the HUD/FHA form HUD 92564–CN entitled "For Your Protection: Get a Home Inspection", in both English and Spanish languages;
+&emsp;&emsp;(A) publication of the HUD/FHA form HUD 92564–CN entitled "For Your Protection: Geta Home Inspection", in both English and Spanish languages;
 
 &emsp;&emsp;(B) publication of the HUD/FHA booklet entitled "For Your Protection: Get a Home Inspection", in both English and Spanish languages;
 
@@ -24,7 +24,7 @@
 
 #### (b) Requirement for FHA-approved lenders
 
-Each mortgagee approved for participation in the mortgage insurance programs under title II of the National Housing Act \[12 U.S.C. 1707 etseq.\] shall provide prospective homebuyers, at first contact, whether upon pre-qualification, pre-approval, or initial application, the materials specified in subparagraphs (A), (B), and (D) of subsection (a)(1).
+Each mortgagee approved for participation in the mortgage insurance programs under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] shall provide prospective homebuyers, at first contact, whether upon pre-qualification, pre-approval, or initial application, the materials specified in subparagraphs (A), (B), and (D) of subsection (a)(1).
 
 #### (c) Requirements for HUD-approved counseling agencies
 
@@ -44,6 +44,8 @@ Training provided the Department of Housing and Urban Development for housing co
 
 (Pub. L. 111–203, title XIV, §1451, July 21, 2010, 124 Stat. 2176.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (b), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
@@ -51,6 +53,8 @@ The National Housing Act, referred to in subsec. (b), is act June 27, 1934, ch. 
 #### Codification
 
 Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act and also as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the National Housing Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

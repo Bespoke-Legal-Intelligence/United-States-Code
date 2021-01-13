@@ -1,5 +1,7 @@
 ### §§201 to 208. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 201 to 208, sections 1 to 8, respectively, of act June 27, 1934, ch. 868, §1, 48 Stat. 1283–1286, were omitted pursuant to the decision in the case of <i>Railroad Retirement Board v. Alton R. Co</i>. (Dist. of Col., 1935), 295 U.S. 330, 55 S.Ct. 758, 79 L.Ed. 1468, declaring this subchapter unconstitutional.
@@ -20,5 +22,5 @@ Section 207 related to employee representatives.
 
 Section 208 related to retirement fund established under this subchapter.
 
-Provisions relating to refund of sums paid by railroads and other carriers of the United States under this subchapter were contained in act June 1, 1938, ch. 315, §§1, 2, 52 Stat. 608.
+Provisions relating to refund of sums paid by railroads and other carriers of the United States under thissubchapter were contained in act June 1, 1938, ch. 315, §§1, 2, 52 Stat. 608.
 

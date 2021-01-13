@@ -6,7 +6,7 @@ Acquisition.—The Administrator shall, to the extent possible and while satisfy
 
 (b)
 
-Treatment as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 oftitle 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+Treatment as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 (c)
 
@@ -46,9 +46,13 @@ Pub. L. 105–303, title I, §107(a), (b), (d), (e), Oct. 28, 1998, 112 Stat. 28
 
 42 U.S.C. 14715(e).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232, in heading, substituted "Commercial Product or Commercial Service" for "Commercial Item" and, in text, substituted "commercial product or commercial service" for "commercial item".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

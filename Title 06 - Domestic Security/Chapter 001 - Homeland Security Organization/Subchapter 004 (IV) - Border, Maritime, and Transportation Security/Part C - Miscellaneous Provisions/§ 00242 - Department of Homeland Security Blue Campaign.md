@@ -6,7 +6,7 @@ In this section, the term "human trafficking" means an act or practice described
 
 #### (b) Establishment
 
-There is established within the Department a program, which shall be known as the "Blue Campaign". The Blue Campaign shall be headed by a Director, who shall be appointed by the Secretary.
+There is established within the Department a program, which shall be known as the "BlueCampaign". The Blue Campaign shall be headed by a Director, who shall be appointed by the Secretary.
 
 #### (c) Purpose
 
@@ -58,9 +58,13 @@ The Blue Campaign shall provide guidance and training to Department personnel an
 
 (Pub. L. 107–296, title IV, §434, as added Pub. L. 115–125, §2(a), Feb. 14, 2018, 132 Stat. 315.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraphs (9) and (10) of section 7102 of title 22, referred to in subsec. (a), were redesignated pars. (11) and (12), respectively, of section 7102 of title 22 by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Information Technology Systems
 

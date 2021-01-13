@@ -28,13 +28,13 @@
 | [<b>21.</b>](Chapter%20021%20-%20Metal%20and%20Nonmetallic%20Mine%20Safety/README.md) | <b>Metal and Nonmetallic Mine Safety \[Repealed\]</b> | <b>721</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Mine%20Safety%20and%20Health/README.md) | <b>Mine Safety and Health</b> | <b>801</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Geothermal%20Resources/README.md) | <b>Geothermal Resources</b> | <b>1001</b> |
-| [<b>24.</b>](Chapter%20024%20-%20Geothermal%20Energy%20Research%2C%20Development%2C%20and%20Demonstration/README.md) | <b>Geothermal Energy Research, Development, and Demonstration</b> | <b>1101</b> |
+| [<b>24.</b>](Chapter%20024%20-%20Geothermal%20Energy%20Research%2C%20Development%2C%20and%20Demonstration/README.md) | <b>Geothermal Energy Research, Development, and Demonstration \[Repealed\]</b> | <b>1101</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Surface%20Mining%20Control%20and%20Reclamation/README.md) | <b>Surface Mining Control and Reclamation</b> | <b>1201</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Deep%20Seabed%20Hard%20Mineral%20Resources/README.md) | <b>Deep Seabed Hard Mineral Resources</b> | <b>1401</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Geothermal%20Energy/README.md) | <b>Geothermal Energy</b> | <b>1501</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Materials%20and%20Minerals%20Policy%2C%20Research%2C%20and%20Development/README.md) | <b>Materials and Minerals Policy, Research, and Development</b> | <b>1601</b> |
 | [<b>29.</b>](Chapter%20029%20-%20Oil%20and%20Gas%20Royalty%20Management/README.md) | <b>Oil and Gas Royalty Management</b> | <b>1701</b> |
-| [<b>30.</b>](Chapter%20030%20-%20National%20Critical%20Materials%20Council/README.md) | <b>National Critical Materials Council</b> | <b>1801</b> |
+| [<b>30.</b>](Chapter%20030%20-%20National%20Critical%20Materials%20Council/README.md) | <b>National Critical Materials Council \[Repealed\]</b> | <b>1801</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Marine%20Mineral%20Resources%20Research/README.md) | <b>Marine Mineral Resources Research</b> | <b>1901</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Methane%20Hydrate%20Research%20and%20Development/README.md) | <b>Methane Hydrate Research and Development</b> | <b>2001</b> |
 

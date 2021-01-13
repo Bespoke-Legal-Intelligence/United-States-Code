@@ -24,7 +24,7 @@ Eligible Projects.—Except as provided in subsection (d), a State may obligate 
 
 &emsp;(4) to establish or operate a traffic monitoring, management, and control facility or program, including advanced truck stop electrification systems, if the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the facility or program is likely to contribute to the attainment or maintenance in the area of a national ambient air quality standard;
 
-&emsp;(5) if the program or project improves traffic flow, including projects to improve signalization, construct high occupancy vehicle lanes, improve intersections, add turning lanes, improve transportation systems management and operations that mitigate congestion and improve air quality, and implement intelligent transportation system strategies and such other projects that are eligible for assistance under this section on the day before the date of enactment of this paragraph, including programs or projects to improve incident and emergency response or improve mobility, suchas through real-time traffic, transit, and multimodal traveler information;
+&emsp;(5) if the program or project improves traffic flow, including projects to improve signalization, construct high occupancy vehicle lanes, improve intersections, add turning lanes, improve transportation systems management and operations that mitigate congestion and improve air quality, and implement intelligent transportation system strategies and such other projects that are eligible for assistance under this section on the day before the date of enactment of this paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;
 
 &emsp;(6) if the project or program involves the purchase of integrated, interoperable emergency communications equipment;
 
@@ -172,7 +172,7 @@ Priority consideration.—States and metropolitan planning organizations shall g
 
 &emsp;(4)
 
-No effect on authority or restrictions.—Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act (42 U.S.C. 7401 et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
+No effect on authority or restrictions.—Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act (42 U.S.C.7401 et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
 
 (h)
 
@@ -280,7 +280,9 @@ Updated plans.—Performance plans shall be updated biennially and include a sep
 
 Operating Assistance.—A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported <sup>1</sup> Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957;Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -336,7 +338,7 @@ Subsec. (m). Pub. L. 114–94, §1114(7), substituted "section 104(b)(4)" for "s
 
 <b>2014</b>—Subsec. (m). Pub. L. 113–76 substituted "for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation" for "that was previously eligible under this section".
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbonmonoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
 
 Subsec. (b)(5). Pub. L. 112–141, §1113(a)(2), inserted "add turning lanes," after "improve intersections," and substituted "paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;" for "paragraph;".
 
@@ -422,6 +424,8 @@ Pub. L. 104–59, §319(b)(3), as amended by Pub. L. 104–88, §405(a)(2), adde
 
 <b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: "Truck lanes" and amended text generally. Prior to amendment, text read as follows: "The Secretary may approve as a project on any Federal-aid system the construction of exclusive or preferential truck lanes."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -442,7 +446,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
-Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbonfuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
+Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: "For the purposes of section 149(e) \[now 149(f)\] of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles."
 
 #### Study of CMAQ Program
 

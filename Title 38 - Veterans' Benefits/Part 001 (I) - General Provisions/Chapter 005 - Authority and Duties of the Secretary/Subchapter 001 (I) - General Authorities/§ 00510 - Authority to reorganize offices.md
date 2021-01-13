@@ -8,7 +8,7 @@
 
 &emsp;(3) fix the functions of any such Administration, office, facility, or activity and the duties and powers of their respective executive heads.
 
-(b) The Secretary may not in any fiscal year implement an administrative reorganization described in subsection (c) unless the Secretary first submits to the appropriate committees of the Congress a report containing a detailed plan and justification for the administrative reorganization. No action to carry out such reorganization may be taken after the submission of such report until the end of a 45-day period following the date of the submission of the report, not less than 30 days of which shall be days during which Congress shall have been in continuous session. For purposes of the preceding sentence, continuity of a session of Congress is broken only by adjournment sine die, and there shall be excluded from the computation of any period of continuity of session any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.
+(b) The Secretary may not in any fiscal year implement an administrative reorganization described in subsection (c) unless the Secretary first submits to the appropriate committees of the Congress a report containing a detailed plan and justification for the administrative reorganization. No action to carry out such reorganization may be taken after the submission of such report until the end of a 45-day period following the date of the submission of the report, not less than 30 days of which shall be days during which Congress shall have been in continuous session. For purposes of the preceding sentence, continuity of a session of Congress is broken only by adjournment sine die, and thereshall be excluded from the computation of any period of continuity of session any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.
 
 (c) An administrative reorganization described in this subsection is an administrative reorganization of a covered field office or facility that involves a reduction during any fiscal year in the number of full-time equivalent employees with permanent duty stations at such office or facility—
 
@@ -42,6 +42,8 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 387; amended Pub. L. 104–262, title III, §304, Oct. 9, 1996, 110 Stat. 3194.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by Pub. L. 94–169, title I, §101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
@@ -51,6 +53,8 @@ Provisions similar to those in this section were contained in section 210(b)(1),
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–262 substituted "a 45-day period following the date of the submission of the report, not less than 30 days of which shall be days during which Congress shall have been in continuous session" for "a 90-day period of continuous session of Congress following the date of the submission of the report" in second sentence and "any period of continuity of session" for "such 90-day period" in third sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary of Veterans Affairs To Carry Out Specified Administrative Reorganization
 

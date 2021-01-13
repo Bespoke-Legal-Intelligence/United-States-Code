@@ -82,9 +82,13 @@ enabled voice service.—The term "IP-enabled voice service" means the provision
 
 (Added Pub. L. 109–476, §3(a), Jan. 12, 2007, 120 Stat. 3569.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 222(d) of the Communications Act of 1934, referred to in subsecs. (b)(2) and (c)(2), is classified to section 222(d) of Title 47, Telecommunications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

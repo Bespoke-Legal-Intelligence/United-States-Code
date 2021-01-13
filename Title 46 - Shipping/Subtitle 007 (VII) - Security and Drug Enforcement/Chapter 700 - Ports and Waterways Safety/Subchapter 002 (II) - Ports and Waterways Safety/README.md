@@ -8,3 +8,4 @@
 - [&sect; 70011 - Waterfront safety](%C2%A7%2070011%20-%20Waterfront%20safety.md)
 - [&sect; 70012 - Navigational hazards](%C2%A7%2070012%20-%20Navigational%20hazards.md)
 - [&sect; 70013 - Requirement to notify Coast Guard of release of objects into the navigable waters of the United States](%C2%A7%2070013%20-%20Requirement%20to%20notify%20Coast%20Guard%20of%20release%20of%20objects%20into%20the%20navigable%20waters%20of%20the%20United%20States.md)
+- [&sect; 70014 - Aiming laser pointer at vessel](%C2%A7%2070014%20-%20Aiming%20laser%20pointer%20at%20vessel.md)

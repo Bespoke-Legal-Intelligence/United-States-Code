@@ -70,9 +70,13 @@ Historical and Revision Notes
 
 Pub. L. 93–400, §20, as added Pub. L. 98–369, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, §8303(a), Oct. 13, 1994, 108 Stat. 3398.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "commercial products and commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

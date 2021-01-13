@@ -8,6 +8,8 @@ Notwithstanding any other provision of law, during any fiscal year the Attorney 
 
 (Pub. L. 105–277, div. A, §101(b) \[title I, §112\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 107–56, title VI, §614, Oct. 26, 2001, 115 Stat. 370; Pub. L. 107–273, div. A, title II, §205(d), Nov. 2, 2002, 116 Stat. 1778.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 90–351, referred to in pars. (1) and (2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, known as the Omnibus Crime Control and Safe Streets Act of 1968. Title 1 of Public Law 90–351 probably means title I of the Act which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
@@ -24,9 +26,11 @@ Section was also formerly classified as a note under section 3712 of Title 42 pr
 
 <b>2002</b>—Pub. L. 107–273 substituted "any fiscal year the Attorney General—" for "fiscal year 1999, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—" in introductory provisions.
 
-<b>2001</b>—Par. (1). Pub. L. 107–56, §614(1), inserted "(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)" after "that Office".
+<b>2001</b>—Par. (1). Pub. L. 107–56, §614(1), inserted "(including, notwithstanding any contrary provision of law\(unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)" after "that Office".
 
 Par. (2). Pub. L. 107–56, §614, inserted "functions, including any" after "all" and "(including, notwithstanding any contrary provision of law (unless the same should expressly refer to this section), any organization that administers any program established in title 1 of Public Law 90–351)" after "that Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Office of Justice Programs Grants, Cooperative Agreements, and Contracts
 

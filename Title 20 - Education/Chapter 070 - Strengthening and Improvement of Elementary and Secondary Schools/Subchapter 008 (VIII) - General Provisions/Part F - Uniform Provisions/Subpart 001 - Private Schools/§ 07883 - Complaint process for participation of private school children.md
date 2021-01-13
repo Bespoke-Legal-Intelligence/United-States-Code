@@ -2,7 +2,7 @@
 
 #### (a) Procedures for complaints
 
-The Secretary shall develop and implement written procedures for receiving, investigating, and resolving complaints from parents, teachers, or other individuals and organizations concerning violations of section 7881 of this title bya State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity. The individual or organization shall submit the complaint to the State educational agency for a written resolution by the State educational agency within 45 days.
+The Secretary shall develop and implement written procedures for receiving, investigating, and resolving complaints from parents, teachers, or other individuals and organizations concerning violations of section 7881 of this title by a State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity. The individual or organization shall submit the complaint to the State educational agency for a written resolution by the State educational agency within 45 days.
 
 #### (b) Appeals to Secretary
 

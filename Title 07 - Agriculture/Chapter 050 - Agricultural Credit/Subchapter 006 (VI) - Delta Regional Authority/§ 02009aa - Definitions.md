@@ -34,11 +34,11 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 <b>2018</b>—Par. (4). Pub. L. 115–334 added par. (4).
 
-<b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018Amendment note above and 2018 Effective Date of 2018 Amendment note below.
+<b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–334, title VI, §6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252)."
+Pub. L. 115–334, title VI, §6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made bythis subsection \[amending this section\] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252)."
 
 #### Findings and Purposes
 

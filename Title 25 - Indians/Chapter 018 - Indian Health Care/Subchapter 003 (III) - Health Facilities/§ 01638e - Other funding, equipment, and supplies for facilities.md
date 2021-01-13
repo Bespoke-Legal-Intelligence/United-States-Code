@@ -4,7 +4,7 @@
 
 #### (1) Authority to transfer funds
 
-&emsp;The head of any Federal agency to which funds, equipment, or other supplies are made available for the planning, design, construction, or operation of a health care or sanitation facility may transfer the funds, equipment, or supplies to the Secretary for the planning, design, construction, or operation of a health care or sanitation facility to achieve—
+&emsp;The head of any Federal agency to which funds, equipment, or other supplies are madeavailable for the planning, design, construction, or operation of a health care or sanitation facility may transfer the funds, equipment, or supplies to the Secretary for the planning, design, construction, or operation of a health care or sanitation facility to achieve—
 
 &emsp;&emsp;(A) the purposes of this chapter; and
 
@@ -45,6 +45,8 @@ The Secretary may enter into interagency agreements with Federal or State agenci
 In this section, the term "sanitation facility" means a safe and adequate water supply system, sanitary sewage disposal system, or sanitary solid waste system (including all related equipment and support infrastructure).
 
 (Pub. L. 94–437, title III, §311, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

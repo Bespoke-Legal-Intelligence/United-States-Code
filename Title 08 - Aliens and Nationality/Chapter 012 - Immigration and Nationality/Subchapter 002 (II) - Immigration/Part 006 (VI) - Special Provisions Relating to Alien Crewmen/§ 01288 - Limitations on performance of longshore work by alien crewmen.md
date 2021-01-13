@@ -28,7 +28,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (1) Subsection (a) shall not apply to a particular activity of longshore work in and about a local port if—
 
-&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
+&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permitsthe activity to be performed by alien crewmen under the terms of such agreement; or
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
@@ -114,7 +114,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;&emsp;(IV) travel distance to the vessel from the point of embarkation does not exceed 5 miles.
 
-(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
+(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times andtravel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
 
 (4) Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 
@@ -146,13 +146,15 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 #### (2) Establishment of list
 
-&emsp;The Secretary of State shall, in accordance with section 553 of title 5, compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days afterNovember 29, 1990, the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990.
+&emsp;The Secretary of State shall, in accordance with section 553 of title 5, compile and annually maintain a list, of longshore work by particular activity, of countries where performance of such a particular activity by crewmembers aboard United States vessels is prohibited by law, regulation, or in practice in the country. By not later than 90 days after November 29, 1990, the Secretary shall publish a notice of proposed rulemaking to establish such list. The Secretary shall first establish such list by not later than 180 days after November 29, 1990.
 
 #### (3) "In practice" defined
 
 &emsp;For purposes of this subsection, the term "in practice" refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
 (June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -181,6 +183,8 @@ Subsec. (c)(5). Pub. L. 103–206, §323(b)(3), added par. (5). Pub. L. 103–19
 Subsecs. (d), (e). Pub. L. 103–206, §323(a), added subsec. (d) and redesignated former subsec. (d) as (e). Pub. L. 103–198, §8(a), which made substantially identical amendments to this section, was repealed by Pub. L. 103–416, §219(gg).
 
 <b>1991</b>—Subsec. (c)(2)(B). Pub. L. 102–232 substituted "each list" for "each such list".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

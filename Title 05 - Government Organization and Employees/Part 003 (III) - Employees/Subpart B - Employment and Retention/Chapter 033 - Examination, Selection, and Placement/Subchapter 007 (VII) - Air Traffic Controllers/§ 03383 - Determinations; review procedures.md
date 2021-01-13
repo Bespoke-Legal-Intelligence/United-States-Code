@@ -1,6 +1,6 @@
 ### §3383. Determinations; review procedures
 
-(a) An air traffic controller subject to a determination by the Secretary under section 3381(a) or section 3382 of this title, shall be furnished a written notice of the determination and the reasons therefor, and a notification that the controller has 15 days after the receipt of the notification within which to file a written request for reconsideration of the determination. Unless the controller files such a request within the 15 days, or unless the determination is rescinded by the Secretary within the 15 days, the determination shall be final.
+(a) An air traffic controller subject to a determination by the Secretary under section 3381(a) or section 3382 of this title, shall be furnished a written notice of the determination and the reasons therefor, and a notification that the controller has 15 days after the receipt of the notification within which to file a written request for reconsideration of the determination. Unless the controller files such a request within the 15days, or unless the determination is rescinded by the Secretary within the 15 days, the determination shall be final.
 
 (b) If the Secretary does not rescind his determination within 15 days after his receipt of the written request filed by the controller under subsection (a) of this section, the Secretary shall immediately convene a board of review, consisting of—
 
@@ -16,6 +16,8 @@
 
 (Added Pub. L. 92–297, §3(a), May 16, 1972, 86 Stat. 143; amended Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 96–347, §1(b), (c)(2), (3), Sept. 12, 1980, 94 Stat. 1150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Secretary, referred to in text, see section 2109 of this title.
@@ -29,6 +31,8 @@ Subsec. (b)(2). Pub. L. 96–347, §1(c)(2), substituted "the Executive agency i
 Subsec. (d). Pub. L. 96–347, §1(c)(3), substituted "within the Executive agency in which such controller is employed" for "within the Department of Transportation".
 
 <b>1978</b>—Subsec. (b)(3). Pub. L. 95–454 substituted "Merit Systems Protection Board" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

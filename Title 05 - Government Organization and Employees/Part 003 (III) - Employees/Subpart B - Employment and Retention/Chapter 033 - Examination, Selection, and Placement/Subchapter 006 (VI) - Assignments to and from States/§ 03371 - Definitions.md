@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and a territory or possession of the United States; and
 
-&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph\(A) of this paragraph (1) and a Federal-State authority or instrumentality;
+&emsp;&emsp;(B) an instrumentality or authority of a State or States as defined in subparagraph (A) of this paragraph (1) and a Federal-State authority or instrumentality;
 
 &emsp;(2) "local government" means—
 
@@ -16,7 +16,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
-&emsp;(3) "Federal agency" means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+&emsp;(3) "Federal agency" means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office ofTechnology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
 &emsp;(4) "other organization" means—
 
@@ -29,6 +29,8 @@ For the purpose of this subchapter—
 &emsp;&emsp;(D) a federally funded research and development center.
 
 (Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1920; amended Pub. L. 93–638, title I, §104(a), formerly §105(a), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(a), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(a), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 100–472, title II, §203(b), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(c), May 24, 1990, 104 Stat. 207; Pub. L. 103–337, div. A, title X, §1068(a), Oct. 5, 1994, 108 Stat. 2852; Pub. L. 109–435, title VI, §604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Section 4 of the Indian Self-Determination and Education Assistance Act, referre
 Pars. (3), (4). Pub. L. 95–454, §603(a)(2), added pars. (3) and (4).
 
 <b>1975</b>—Par. (2)(C). Pub. L. 93–638, as amended by Pub. L. 100–472, §203(b), added par. (2)(C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -62,25 +62,11 @@ In subsection (b), the words "enumerated in this subsection" are omitted as surp
 
 In subsection (c), the words "and commissioned" are omitted as covered by the word "appointed". The words "specified in subsection (b) of this section" are omitted as surplusage. The word "commissioned" is inserted before the word "officer", for clarity.
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 115–91, div. A, title V, §582, Dec. 12, 2017, 131 Stat. 1415, provided that, effective Oct. 1, 2020, but only if the report required by paragraph (2) of section 582(b) of Pub. L. 115–91, set out below, is not submitted before Sept. 30, 2020, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (12), by striking "and";</i>
-
-<i>(2) by redesignating paragraph (13) as paragraph (14); and</i>
-
-<i>(3) by inserting after paragraph (12) the following new paragraph (13):</i>
-
-<i>"(13) Explosive Ordnance Disposal Corps; and".</i>
-
-<i>See 2017 Amendment note and Effective Date and Condition on Execution of 2017 Amendment note below.</i>
-
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3063 of this title as this section.
 
-<b>2017</b>—Subsec. (a)(13), (14). Pub. L. 115–91 added par. (13) and redesignated former par. (13) as (14).
+<b>2017</b>—Subsec. (a)(13), (14). Pub. L. 115–91, which directed the redesignation of par. (13) as (14) and the addition of a new par. (13) "Explosive Ordnance Disposal Corps; and", was not executed pursuant to section 582(b) of Pub. L. 115–91, set out as an Effective Date and Condition on Execution of 2017 Amendment note below.
 
 #### Effective Date of 2018 Amendment
 
@@ -88,19 +74,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date and Condition on Execution of 2017 Amendment
 
-Pub. L. 115–91, div. A, title V, §582(b), Dec. 12, 2017, 131 Stat. 1415, provided that:
+Pub. L. 115–91, div. A, title V, §582(b), Dec. 12, 2017, 131 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, §593, Jan. 1, 2021, 134 Stat. 3666, provided that:
 
 "(1)
 
-Effective date.—The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2020, but only if the report required by paragraph (2) is not submitted before that date as required by such paragraph.
+Effective date.—The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2025, but only if the report required by paragraph (2) is not submitted before that date as required by such paragraph.
 
 "(2)
 
-Reporting requirement.—Not later than September 30, 2020, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing certifications that the following actions have occurred as of that date:
+Reporting requirement.—Not later than September 30, 2025, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing certifications that the following actions have occurred as of that date:
 
 &emsp;"(A) The defense budget materials display funding requirements for explosive ordnance disposal separately and a program of record is established and maintained for explosive ordnance disposal.
 
-&emsp;"(B) A process has been established to ensure that, by not later than five years after the date of the enactment of this Act \[Dec. 12, 2017\], there is, and will continue to be, at least one general officer in the Army qualified regarding issues involving explosive ordnance disposal to ensure officer professional development and upward mobility.
+&emsp;"(B) A process has been established to ensure that, by not later than five years after the date of the enactment of this Act \[Dec. 12, 2017\], there is, and will continue to be, at least one general officer in the Army, the explosive ordnance disposal commandant (chief of explosive ordnance disposal), qualified regarding issues involving explosive ordnance disposal to ensure officer professional development and upward mobility.
 
 &emsp;"(C) The Ordnance Personnel Proponency Office is, and will continue to be, manned with an explosive ordnance disposal officer to oversee explosive ordnance disposal officer and enlisted personnel proponency.
 
@@ -110,9 +96,13 @@ Reporting requirement.—Not later than September 30, 2020, the Secretary of the
 
 &emsp;"(F) The Army has established and maintained explosive ordnance disposal cells at the Army Forces Command, Army Service Component Commands, Army Special Operations Command, Army Training and Doctrine Command, and the Army Capability and Integration Center.
 
+&emsp;"(G) The explosive ordnance disposal commandant (chief of explosive ordnance disposal) has determined whether explosive ordnance disposal soldiers have the appropriate skills necessary to support missions of special operations forces (as identified in section 167(j) of title 10, United States Code). Such skills may include airborne, air assault, combat diver, fast roping insertion and extraction, helocasting, military free-fall, and off-road driving.
+
 "(3)
 
 Notice of report.—The Secretary of the Army shall notify the Law Revision Counsel of the House of Representatives of the submission of the report under paragraph (2) so that the Law Revision Counsel does not execute the amendments made by subsection (a)."
+
+\[The report required by section 582(b)(2) of Pub. L. 115–91, set out above, was submitted to Congress on Sept. 17, 2020.\]
 
 #### Philippine Scouts
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is established on a permanent basis the Advisory Committee on Historical Diplomatic Documentation for the Department of State. The activities of the Advisory Committeeshall be coordinated by the Office of the Historian of the Department of State.
+(1) There is established on a permanent basis the Advisory Committee on Historical Diplomatic Documentation for the Department of State. The activities of the Advisory Committee shall be coordinated by the Office of the Historian of the Department of State.
 
 (2) The Advisory Committee shall be composed of 9 members and an executive secretary. The Historian shall serve as executive secretary.
 
@@ -50,9 +50,13 @@ A majority of the members of the Advisory Committee shall constitute a quorum. T
 
 (Aug. 1, 1956, ch. 841, title IV, §406, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 688.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Previous Advisory Committee on Historical Diplomatic Documentation
 

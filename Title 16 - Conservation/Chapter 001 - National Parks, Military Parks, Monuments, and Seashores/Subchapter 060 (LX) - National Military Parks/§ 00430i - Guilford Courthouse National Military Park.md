@@ -12,7 +12,7 @@ In order to preserve for historical and professional military study one of the m
 
 Administrative functions of Guilford Courthouse National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees.
 
-National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to inEx. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
+National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 
 #### Abolition of Commission
 

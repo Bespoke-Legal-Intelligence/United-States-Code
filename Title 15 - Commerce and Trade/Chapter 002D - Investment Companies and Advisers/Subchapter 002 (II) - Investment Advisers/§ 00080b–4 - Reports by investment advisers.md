@@ -54,7 +54,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 &emsp;&emsp;&emsp;(i) shall conduct periodic inspections of the records of private funds maintained by an investment adviser registered under this subchapter in accordance with a schedule established by the Commission; and
 
-&emsp;&emsp;&emsp;(ii) may conduct at any time and from time to time such additional, special, and other examinations as the Commissionmay prescribe as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk.
+&emsp;&emsp;&emsp;(ii) may conduct at any time and from time to time such additional, special, and other examinations as the Commission may prescribe as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk.
 
 #### (B) Availability of records
 
@@ -128,7 +128,7 @@ The Commission may, by rule, require an investment adviser—
 
 #### (B) Applicability
 
-&emsp;&emsp;This subsection shall apply to any investment adviser (and the persons associatedwith that adviser), whether the investment adviser is registered with the Commission under section 80b–3 of this title or regulated solely by a State, as described in section 80b–3a of this title.
+&emsp;&emsp;This subsection shall apply to any investment adviser (and the persons associated with that adviser), whether the investment adviser is registered with the Commission under section 80b–3 of this title or regulated solely by a State, as described in section 80b–3a of this title.
 
 #### (2) Recovery of costs
 

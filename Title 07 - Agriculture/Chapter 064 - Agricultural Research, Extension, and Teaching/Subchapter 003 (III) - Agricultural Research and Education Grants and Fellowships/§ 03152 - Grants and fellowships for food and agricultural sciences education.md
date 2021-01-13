@@ -124,7 +124,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (l) Report
 
-The Secretary shall submit to the Committee on Agriculture of the House of Representativesand the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
+The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
 #### (m) Authorization of appropriations
 

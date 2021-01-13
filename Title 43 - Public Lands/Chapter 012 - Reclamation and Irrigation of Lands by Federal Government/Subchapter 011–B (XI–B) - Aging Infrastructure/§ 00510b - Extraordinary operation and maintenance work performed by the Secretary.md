@@ -32,5 +32,139 @@ The Secretary or the transferred works operating entity may carry out, in accord
 
 &emsp;If the Secretary determines that a project facility inspected and maintained pursuant to the guidelines and criteria set forth in section 510a(a) of this title requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federal funds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm. The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
 
-(Pub. L. 111–11, title IX, §9603, Mar. 30, 2009, 123 Stat. 1348.)
+#### (d) Aging Infrastructure Account
+
+#### (1) Establishment
+
+&emsp;There is established in the general fund of the Treasury a special account, to be known as the "Aging Infrastructure Account" (referred to in this subsection as the "Account"), to provide funds to, and provide for the extended repayment of the funds by, a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs for the conduct of extraordinary operation and maintenance work at a project facility, which shall consist of—
+
+&emsp;&emsp;(A) any amounts that are specifically appropriated to the Account under section 510d of this title; and
+
+&emsp;&emsp;(B) any amounts deposited in the Account under paragraph (3)(B).
+
+#### (2) Expenditures
+
+&emsp;Subject to paragraphs (3) and (6), the Secretary may expend amounts in the Account to fund and provide for extended repayment of the funds for eligible projects identified in a report submitted under paragraph (5)(B).
+
+#### (3) Repayment contract
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may not expend amounts under paragraph (2) with respect to an eligible project described in that paragraph unless the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs has entered into a contract to repay the amounts under subsection (b)(2).
+
+#### (B) Deposit of repaid funds
+
+&emsp;&emsp;Amounts repaid by a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs receiving funds under a repayment contract entered into under this subsection shall be deposited in the Account and shall be available to the Secretary for expenditure, subject to paragraph (6), in accordance with this subsection, and without further appropriation.
+
+#### (4) Application for funding
+
+#### (A) In general
+
+&emsp;&emsp;Beginning with fiscal year 2022, not less than once per fiscal year, the Secretary shall accept, during an application period established by the Secretary, applications from transferred works operating entities or project beneficiaries responsible for payment of reimbursable costs for funds and extended repayment for eligible projects.
+
+#### (B) Eligible project
+
+&emsp;&emsp;A project eligible for funding and extended repayment under this subsection is a project that—
+
+&emsp;&emsp;&emsp;(i) qualifies as an extraordinary operation and maintenance work under this section;
+
+&emsp;&emsp;&emsp;(ii) is for the major, non-recurring maintenance of a mission-critical asset; and
+
+&emsp;&emsp;&emsp;(iii) is not eligible to be carried out or funded under the repayment provisions of section 508(c) of this title.
+
+#### (C) Guidelines for applications
+
+&emsp;&emsp;Not later than 60 days after December 27, 2020, the Secretary shall issue guidelines describing the information required to be provided in an application for funds and extended repayment under this subsection that require, at a minimum—
+
+&emsp;&emsp;&emsp;(i) a description of the project for which the funds are requested;
+
+&emsp;&emsp;&emsp;(ii) the amount of funds requested;
+
+&emsp;&emsp;&emsp;(iii) the repayment period requested by the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs;
+
+&emsp;&emsp;&emsp;(iv) alternative non-Federal funding options that have been evaluated;
+
+&emsp;&emsp;&emsp;(v) the financial justification for requesting an extended repayment period; and
+
+&emsp;&emsp;&emsp;(vi) the financial records of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.
+
+#### (D) Review by the Secretary
+
+&emsp;&emsp;The Secretary shall review each application submitted under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) to determine whether the project is eligible for funds and an extended repayment period under this subsection;
+
+&emsp;&emsp;&emsp;(ii) to determine if the project has been identified by the Bureau of Reclamation as part of the major rehabilitation and replacement of a project facility; and
+
+&emsp;&emsp;&emsp;(iii) to conduct a financial analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) repayment capability of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.
+
+#### (5) Report
+
+&emsp;Not later than 90 days after the date on which an application period closes under paragraph (4)(A), the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Natural Resources and Appropriations of the House of Representatives a report that—
+
+&emsp;&emsp;(A) describes the results of the Secretary's review of each application under paragraph (4)(D), including a determination of whether the project is eligible;
+
+&emsp;&emsp;(B) identifies each project eligible for funds and extended repayment under this subsection;
+
+&emsp;&emsp;(C) with respect to each eligible project identified under subparagraph (B), includes—
+
+&emsp;&emsp;&emsp;(i) a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the eligible project;
+
+&emsp;&emsp;&emsp;&emsp;(II) the anticipated cost and duration of the eligible project;
+
+&emsp;&emsp;&emsp;&emsp;(III) any remaining engineering or environmental compliance that is required before the eligible project commences;
+
+&emsp;&emsp;&emsp;&emsp;(IV) any recommendations the Secretary may have concerning the plan or design of the project; and
+
+&emsp;&emsp;&emsp;&emsp;(V) any conditions the Secretary may require for construction of the project;
+
+&emsp;&emsp;&emsp;(ii) an analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the repayment period proposed in the application; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary recommends a minimum necessary repayment period that is different than the repayment period proposed in the application, the minimum necessary repayment period recommended by the Secretary; and
+
+&emsp;&emsp;&emsp;(iii) an analysis of alternative non-Federal funding options;
+
+&emsp;&emsp;(D) describes the allocation of funds from deposits into the Account under paragraph (3)(B); and
+
+&emsp;&emsp;(E) describes the balance of funds in the Account as of the date of the report.
+
+#### (6) Alternative allocation
+
+#### (A) In general
+
+&emsp;&emsp;Appropriations Acts may provide for alternate allocation of amounts reported pursuant to paragraph (5)(D) that are made available under this subsection.
+
+#### (B) Allocation by Secretary
+
+#### (i) No alternate allocations
+
+&emsp;&emsp;&emsp;If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for energy and water development and related agencies for the applicable fiscal year is enacted into law, amounts made available under paragraph (1) shall be allocated by the Secretary.
+
+#### (ii) Insufficient alternate allocations
+
+&emsp;&emsp;&emsp;If Congress enacts legislation establishing alternate allocations for amounts made available under paragraph (1) that are less than the full amount appropriated under that paragraph, the difference between the amount appropriated and the alternate allocation shall be allocated by the Secretary.
+
+#### (7) Effect of subsection
+
+&emsp;Nothing in this subsection affects—
+
+&emsp;&emsp;(A) any funding provided, or contracts entered into, under subsection (a) before December 27, 2020; or
+
+&emsp;&emsp;(B) the use of funds otherwise made available to the Secretary to carry out subsection (a).
+
+(Pub. L. 111–11, title IX, §9603, Mar. 30, 2009, 123 Stat. 1348; Pub. L. 116–260, div. FF, title XI, §1101, Dec. 27, 2020, 134 Stat. 3221.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–260 added subsec. (d).
 

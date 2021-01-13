@@ -6,11 +6,11 @@
 
 &emsp;(2) the expenses of transporting, packing, crating, temporarily storing, draying, and unpacking his household goods and personal effects not in excess of 18,000 pounds net weight; and
 
-&emsp;(3) upon the separation (or death in service) of a career appointee, as defined in section 3132(a)(4) of this title, the travel expenses of that individual (if applicable), the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside (or, in the case of a career appointee who dies in service or who dies after separating but before the travel, transportation, and moving is completed, to the place where the family will reside) within the United States, if such individual—
+&emsp;(3) upon the separation (or death in service) of a career appointee, as defined in section 3132(a)(4) of this title, the travel expenses of that individual (if applicable), the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating,temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside (or, in the case of a career appointee who dies in service or who dies after separating but before the travel, transportation, and moving is completed, to the place where the family will reside) within the United States, if such individual—
 
 &emsp;&emsp;(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
-&emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as ofdate of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
+&emsp;&emsp;(B) is eligible to receive an annuity upon such separation (or, in the case of death in service, met the requirements for being considered eligible to receive an annuity, as of date of death) under the provisions of subchapter III of chapter 83 or chapter 84 of this title.
 
 (b) Under regulations prescribed under section 5738 of this title, an employee who transports a house trailer or mobile dwelling inside the continental United States, inside Alaska, or between the continental United States and Alaska, for use as a residence, and who otherwise would be entitled to transportation of household goods and personal effects under subsection (a) of this section, is entitled, instead of that transportation, to—
 
@@ -36,7 +36,7 @@
 
 (j) The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee's commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §6(4), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, §1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, §1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, §2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, §118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, §629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, §3, Oct. 31, 1988, 102 Stat. 2845; Pub. L.102–378, §2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, §1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, §3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §6(4), Oct. 19, 1998, 112 Stat. 2356.)
 
 Historical and Revision Notes<br>1966
 
@@ -68,7 +68,7 @@ Sept. 6, 1960, Pub. L. 86–707, §301(c)(1), 74 Stat. 796.
 
 Oct. 9, 1962, Pub. L. 87–776, 76 Stat. 777.
 
-In subsections (a)(1) and (f), the words "section 5704 of this title" and "section 5705 of this title", respectively,are substituted for "the Act of February 14, 1931 (5 U.S.C. 73a)" and "the Subsistence Expense Act of 1926 (5 U.S.C. 828)", respectively, on authority of sections 4, 5, and 9(a) of the Travel Expense Act of 1949, as amended, which are carried into sections 5704, 5705, and 5708.
+In subsections (a)(1) and (f), the words "section 5704 of this title" and "section 5705 of this title", respectively, are substituted for "the Act of February 14, 1931 (5 U.S.C. 73a)" and "the Subsistence Expense Act of 1926 (5 U.S.C. 828)", respectively, on authority of sections 4, 5, and 9(a) of the Travel Expense Act of 1949, as amended, which are carried into sections 5704, 5705, and 5708.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -112,6 +112,8 @@ In subsection (e), the word "However" is substituted for "and notwithstanding th
 
 In subsection (i), the words "An agency may pay \* \* \* expenses \* \* \* and allowances under this section and sections 5724a and 5726(c) of this title \* \* \* only after" are substituted for "Notwithstanding the provisions of subsections (a) and (b) of section 1, and of sections 23, 24, 25, and 27 of this Act, the \* \* \* expenses \* \* \* and \* \* \* allowances shall not be allowed thereunder \* \* \* unless and until" for clarity and to conform to the style of 5 U.S.C., and to reflect the codification of the cited sections in 5 U.S.C. The word "employee" is substituted for "civilian officer or employee" and "such officer or employee" to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words "continental United States" are substituted for "continental United States, excluding Alaska" to conform to the definition in 5 U.S.C. 5721(3). The word "agency" is substituted for "department or agency" to conform to the definition in 5 U.S.C. 5721(1). In the last sentence, the words "money spent by the United States for the expenses and allowances" are substituted for "moneys expended by the United States under said sections of this act on account of such officer or employee."
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4103 of title 38, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of Title 38, Veterans' Benefits.
@@ -138,7 +140,7 @@ Pub. L. 104–201, §1723(a)(1)(B), substituted "section 5724a(a) through (f)" f
 
 Subsec. (f). Pub. L. 104–201, §1723(b)(2)(B), substituted "under regulations prescribed under section 5738 of this title" for "under the regulations of the President".
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–338, §4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds netweight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
 &emsp;"(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
@@ -163,6 +165,8 @@ Subsec. (j). Pub. L. 98–151, §118(a)(4), added subsec. (j).
 <b>1980</b>—Subsec. (g). Pub. L. 96–465 substituted "the Foreign Service Act of 1980" for "chapter 14 of title 22".
 
 <b>1968</b>—Subsec. (e). Pub. L. 90–623 substituted "section 5724a(a), (b)" for "section 5724(a), (b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -228,5 +232,5 @@ Pub. L. 98–151, §118(b), Nov. 14, 1983, 97 Stat. 979, provided that: "The ame
 
 #### Rates of Reimbursement
 
-Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
+Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment ofactual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 

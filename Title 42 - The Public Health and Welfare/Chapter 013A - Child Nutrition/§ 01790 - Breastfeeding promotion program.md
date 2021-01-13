@@ -22,7 +22,7 @@ The Secretary is authorized to enter into cooperative agreements with Federal ag
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing and carrying out the program described in subsection (a). Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
+&emsp;The Secretary is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of establishing andcarrying out the program described in subsection (a). Gifts, bequests, or devises of money and proceeds from the sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Secretary.
 
 #### (2) Criteria for acceptance
 

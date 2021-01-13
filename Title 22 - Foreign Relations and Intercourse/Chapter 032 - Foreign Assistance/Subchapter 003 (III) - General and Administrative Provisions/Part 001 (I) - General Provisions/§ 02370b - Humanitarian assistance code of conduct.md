@@ -18,9 +18,13 @@ This section shall take effect 60 days after May 11, 2005, and shall apply to fu
 
 (Pub. L. 109–13, div. A, title II, §2110, May 11, 2005, 119 Stat. 268.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Functions Relating to the Report to the Congress on Implementation of Humanitarian Assistance Code of Conduct
 

@@ -10,7 +10,7 @@ Prior similar provisions were contained in section 218 of act July 30, 1953, ch.
 
 #### Executive Order No. 10504
 
-Ex. Ord. No. 10504, Dec. 1, 1953, 18 F.R. 7667, which provided for the transfer of functions of the Small DefensePlants Administration to the Small Business Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 10504, Dec. 1, 1953, 18 F.R. 7667, which provided for the transfer of functions of the Small Defense Plants Administration to the Small Business Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Executive Order No. 11871
 

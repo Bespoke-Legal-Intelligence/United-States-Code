@@ -14,7 +14,7 @@ When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and su
 
 #### Appropriations
 
-Act Sept. 20, 1950, ch. 957, §2, 64 Stat. 869, provided that: "There is hereby authorized to be appropriated not to exceed $5,000 for the acquisition of land and interests in land for the said national monument. The Secretary of the Interior is authorized to use any funds so appropriated, together with any donated funds made available pursuant to the aforesaid Act of May 26, 1936 \[sections 433g, 433h, 433i, and 433j of this title\], for this procurement of land and interests in land for the national monument."
+Act Sept. 20, 1950, ch. 957, §2, 64 Stat. 869, provided that: "There is hereby authorized to be appropriatednot to exceed $5,000 for the acquisition of land and interests in land for the said national monument. The Secretary of the Interior is authorized to use any funds so appropriated, together with any donated funds made available pursuant to the aforesaid Act of May 26, 1936 \[sections 433g, 433h, 433i, and 433j of this title\], for this procurement of land and interests in land for the national monument."
 
 #### Boundary Expansion, 2019
 

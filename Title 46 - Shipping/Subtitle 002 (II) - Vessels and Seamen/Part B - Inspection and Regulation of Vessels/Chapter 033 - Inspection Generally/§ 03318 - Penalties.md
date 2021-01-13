@@ -88,6 +88,8 @@ Historical and Revision Notes
 
 Section 3318 provides for a number of specific civil and criminal penalties.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–304 struck out period after "felony".
@@ -110,7 +112,7 @@ Subsec. (f). Pub. L. 101–380, §4302(b)(5), substituted "commits a class D fel
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–307 in provision preceding par. (1) substituted "than" for "then" in two places.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted "Except as otherwise provided in this part, the" for "The" and "not more than $5,000" for "$1,000, except that when the violation involves operation of a barge, the penalty is $500".
+<b>1984</b>—Subsec. (a). Pub. L. 98–498, §211(c)(1), substituted "Except as otherwise provided in this part, the" for "The" and "not more than $5,000" for "$1,000,except that when the violation involves operation of a barge, the penalty is $500".
 
 Subsec. (c). Pub. L. 98–498, §211(c)(2), substituted "$5,000" for "$2,000".
 
@@ -125,6 +127,8 @@ Subsec. (g). Pub. L. 98–498, §211(c)(6), substituted "is liable to the Govern
 Subsec. (h). Pub. L. 98–498, §211(c)(7), substituted "Government for a civil penalty of not more than $1,000." for "United States Government for a civil penalty of not more than $500."
 
 Subsecs. (i) to (l). Pub. L. 98–498, §211(c)(8), added subsecs. (i) to (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

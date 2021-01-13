@@ -14,6 +14,8 @@ Filing Deadline.—A petition for a post-grant review may only be filed not late
 
 (Added Pub. L. 112–29, §6(d), Sept. 16, 2011, 125 Stat. 306.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 112–29, §6(f)(2), (3), Sept. 16, 2011, 125 Stat. 311, provided that:
@@ -24,7 +26,7 @@ Applicability.—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (d) \[enacting this chapter\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and, except as provided in section 18 \[set out as a note below\] and in paragraph (3), shall apply only to patents described in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\].
+In general.—The amendments made by subsection (d) \[enacting this chapter\] shall take effectupon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and, except as provided in section 18 \[set out as a note below\] and in paragraph (3), shall apply only to patents described in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\].
 
 &emsp;"(B)
 

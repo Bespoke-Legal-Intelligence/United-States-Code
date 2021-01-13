@@ -32,7 +32,7 @@ Conservation system.—The term "conservation system" means a combination of 1 o
 
 &emsp;(5) The term "conservation district" means any district or unit of State or local government formed under State or territorial law for the express purpose of developing and carrying out a local soil and water conservation program. Such district or unit of government may be referred to as a "conservation district", "soil conservation district", "soil and water conservation district", "resource conservation district", "natural resource district", "land conservation committee", or a similar name.
 
-&emsp;(6) The term "cost sharing payment" means a payment made by the Secretary to an owneror operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
+&emsp;(6) The term "cost sharing payment" means a payment made by the Secretary to an owner or operator of a farm or ranch containing highly erodible cropland under the provisions of section 3834(b) of this title.
 
 &emsp;(7)(A) The term "converted wetland" means wetland that has been drained, dredged, filled, leveled, or otherwise manipulated (including any activity that results in impairing or reducing the flow, circulation, or reach of water) for the purpose or to have the effect of making the production of an agricultural commodity possible if—
 
@@ -318,7 +318,7 @@ Pub. L. 113–79, title II, §2712, Feb. 7, 2014, 128 Stat. 771, provided that:
 
 Applicability.—This section is applicable to activities under—
 
-&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
+&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability programbeing merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
 
 &emsp;"(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[subtitle C (§§2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\];
 
@@ -364,7 +364,7 @@ Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which rela
 
 #### Cranberry Acreage Reserve Program
 
-Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture toestablish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

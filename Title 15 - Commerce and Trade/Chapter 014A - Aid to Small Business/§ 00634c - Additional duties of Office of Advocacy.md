@@ -94,3 +94,15 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 <b>2010</b>—Par. (6). Pub. L. 111–240 added par. (6).
 
+#### Delegation of Authority Under 15 U.S.C. 634c(b)(3)(B)
+
+Memorandum of President of the United States, Oct. 9, 2020, 85 F.R. 65631, provided:
+
+Memorandum for the United States Trade Representative
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the United States Trade Representative the authority vested in the President by section 634c(b)(3)(B) of title 15, United States Code.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

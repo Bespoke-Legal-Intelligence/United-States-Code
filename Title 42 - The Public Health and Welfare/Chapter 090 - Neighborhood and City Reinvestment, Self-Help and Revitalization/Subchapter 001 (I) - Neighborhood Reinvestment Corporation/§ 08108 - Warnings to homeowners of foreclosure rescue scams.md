@@ -30,7 +30,7 @@ Section was enacted as part of the Expand and Preserve Home Ownership Through Co
 
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transferdate if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

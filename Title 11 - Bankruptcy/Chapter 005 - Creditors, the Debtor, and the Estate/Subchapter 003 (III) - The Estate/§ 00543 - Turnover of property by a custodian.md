@@ -4,7 +4,7 @@
 
 (b) A custodian shall—
 
-&emsp;(1) deliver to the trustee any property of the debtor held by or transferred to such custodian, or proceeds, product, offspring, rents, or profits of such property, that is in such custodian's possession, custody, or control on the date that such custodian acquires knowledge of the commencement of the case; and
+&emsp;(1) deliver to the trustee any property of the debtor held by or transferred to such custodian, or proceeds, product, offspring, rents, orprofits of such property, that is in such custodian's possession, custody, or control on the date that such custodian acquires knowledge of the commencement of the case; and
 
 &emsp;(2) file an accounting of any property of the debtor, or proceeds, product, offspring, rents, or profits of such property, that, at any time, came into the possession, custody, or control of such custodian.
 
@@ -34,6 +34,8 @@ Section 543(a) is a modification of similar provisions contained in the House bi
 
 This section requires a custodian appointed before the bankruptcy case to deliver to the trustee and to account for property that has come into his possession, custody, or control as a custodian. "Property of the debtor" in section (a) includes property that was property of the debtor at the time the custodian took the property, but the title to which passed to the custodian. The section requires the court to protect any obligations incurred by the custodian, provide for the payment of reasonable compensation for services rendered and costs and expenses incurred by the custodian, and to surcharge the custodian for any improper or excessive disbursement, unless it has been approved by a court of competent jurisdiction. Subsection (d) reinforces the general abstention policy in section 305 by permitting the bankruptcy court to authorize the custodianship to proceed notwithstanding this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–394 struck out comma after "section".
@@ -49,6 +51,8 @@ Subsec. (c)(1). Pub. L. 98–353, §458(c)(1), inserted "or proceeds, product, o
 Subsec. (c)(3). Pub. L. 98–353, §458(c)(2), inserted "that has been" before "approved".
 
 Subsec. (d). Pub. L. 98–353, §458(d), designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

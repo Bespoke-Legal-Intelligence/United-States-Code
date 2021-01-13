@@ -10,7 +10,7 @@ When Allowed.—The carrying out of the duties and powers of the Administrator o
 
 (b)
 
-No Exemption From Other Provisions of Chapter.—Delegation under subsection (a) doesnot exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
+No Exemption From Other Provisions of Chapter.—Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, §3313; Pub. L. 109–304, §17(g)(3), Oct. 6, 2006, 120 Stat. 1709; renumbered §3314, Pub. L. 110–140, title III, §323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered §3315, Pub. L. 114–235, §2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
 
@@ -36,6 +36,8 @@ Pub. L. 86–249, §15, Sept. 9, 1959, 73 Stat. 483.
 
 In subsection (a), before clause (1), the words "duties and powers" are substituted for "responsibilities and authorities" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3315 was renumbered section 3316 of this title.
@@ -47,6 +49,8 @@ A prior section 3315 was renumbered section 3316 of this title.
 <b>2007</b>—Pub. L. 110–140 renumbered section 3313 of this title as this section.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "The" for "Except for the authority contained in section 3305(b) of this title, the" in introductory provisions and "shall, except for the authority contained in section 3305(b) of this title," for "shall" in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

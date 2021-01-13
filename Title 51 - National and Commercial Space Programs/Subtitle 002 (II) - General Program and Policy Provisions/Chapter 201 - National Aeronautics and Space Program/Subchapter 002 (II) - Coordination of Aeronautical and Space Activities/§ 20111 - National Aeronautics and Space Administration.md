@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title II, §202, July 29, 1958, 72 Stat. 429; Pub. L. 88–426, title III, §305(12), Aug. 14, 1964, 78 Stat. 423.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Agency Information Technology and Cybersecurity
 
 Pub. L. 115–10, title VIII, §§811–813, Mar. 21, 2017, 131 Stat. 58–60, provided that:
@@ -164,15 +166,15 @@ Contents.—The plan shall address—
 
 Pub. L. 115–10, title VIII, §821, Mar. 21, 2017, 131 Stat. 61, provided that:
 
-The Administrator \[of the National Aeronautics and Space Administration\] shall encourage an interdisciplinary approach among all NASA \[National Aeronautics and Space Administration\] mission directorates and divisions, whenever appropriate, for projects or missions—
+"The Administrator \[of the National Aeronautics and Space Administration\] shall encourage an interdisciplinary approach among all NASA \[National Aeronautics and Space Administration\] mission directorates and divisions, whenever appropriate, for projects or missions—
 
-&emsp;(1) to improve coordination, and encourage collaboration and early planning on scope;
+&emsp;"(1) to improve coordination, and encourage collaboration and early planning on scope;
 
-&emsp;(2) to determine areas of overlap or alignment;
+&emsp;"(2) to determine areas of overlap or alignment;
 
-&emsp;(3) to find ways to leverage across divisional perspectives to maximize outcomes; and
+&emsp;"(3) to find ways to leverage across divisional perspectives to maximize outcomes; and
 
-&emsp;(4) to be more efficient with resources and funds.
+&emsp;"(4) to be more efficient with resources and funds."
 
 #### Users' Advisory Group
 
@@ -210,6 +212,8 @@ Pub. L. 100–685, title V, §501, Nov. 17, 1988, 102 Stat. 4102, provided that:
 
 "(c) The Council may employ a staff of not more than seven persons, which is to be headed by a civilian executive secretary, who shall be appointed by the President."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10849. Establishment of Seal for National Aeronautics and Space Administration
 
 Ex. Ord. No. 10849, Nov. 27, 1959, 24 F.R. 9559, as amended by Ex. Ord. No. 10942, May 19, 1961, 26 F.R. 4419, provided:
@@ -218,7 +222,7 @@ WHEREAS the Administrator of the National Aeronautics and Space Administration h
 
 On a disc of the blue sky strewn with white stars, to dexter a larger yellow sphere bearing a red flight symbol apex in upper sinister and wings enveloping and casting a brown shadow upon the sphere, all partially encircled with a horizontal white orbit, in sinister a small light-blue sphere; circumscribing the disc a white band edged gold inscribed "National Aeronautics and Space Administration U.S.A." in red letters.
 
-[Image not captured: t422472.gif]
+[Image not captured: t422472.png]
 
 AND WHEREAS it appears that such seal is of suitable design and appropriate for establishment as the official seal of the National Aeronautics and Space Administration:
 
@@ -230,7 +234,7 @@ Ex. Ord. No. 12675, Apr. 20, 1989, 54 F.R. 17691, as amended by Ex. Ord. No. 127
 
 #### Ex. Ord. No. 13803. Reviving the National Space Council
 
-Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, provided:
+Ex. Ord. No. 13803, June 30, 2017, 82 F.R. 31429, as amended by Ex. Ord. No. 13906, Feb. 13, 2020, 85 F.R. 10031, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a coordinated process for developing and monitoring the implementation of national space policy and strategy, it is hereby ordered as follows:
 
@@ -250,23 +254,27 @@ Sec. 2. <i>Revival and Composition of the National Space Council</i>. (a) The Co
 
 (v) The Secretary of Transportation;
 
-(vi) The Secretary of Homeland Security;
+(vi) The Secretary of Energy;
 
-(vii) The Director of National Intelligence;
+(vii) The Secretary of Homeland Security;
 
-(viii) The Director of the Office of Management and Budget;
+(viii) The Director of National Intelligence;
 
-(ix) The Assistant to the President for National Security Affairs;
+(ix) The Director of the Office of Management and Budget;
 
-(x) The Administrator of the National Aeronautics and Space Administration;
+(x) The Assistant to the President for National Security Affairs;
 
-(xi) The Director of the Office of Science and Technology Policy;
+(xi) The Assistant to the President for Economic Policy;
 
-(xii) The Assistant to the President for Homeland Security and Counterterrorism;
+(xii) The Assistant to the President for Domestic Policy;
 
-(xiii) The Chairman of the Joint Chiefs of Staff; and
+(xiii) The Administrator of the National Aeronautics and Space Administration;
 
-(xiv) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
+(xiv) The Director of the Office of Science and Technology Policy;
+
+(xv) The Chairman of the Joint Chiefs of Staff; and
+
+(xvi) The heads of other executive departments and agencies (agencies) and other senior officials within the Executive Office of the President, as determined by the Chair.
 
 Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President regarding national space policy and strategy, and perform such other duties as the President may, from time to time, prescribe.
 
@@ -294,7 +302,7 @@ Sec. 4. <i>Responsibilities of the Chair</i>. (a) The Chair shall serve as the P
 
 (b) The Chair shall, in consultation with the members of the Council, establish procedures for the Council and establish the agenda for Council activities.
 
-(c) The Chair shall report to the President quarterly on the Council's activities and recommendations. The Chair shall advise the Council, as appropriate, regarding the President's directions with respect to the Council's activities and national space policy and strategy.
+(c) The Chair shall advise the Council, as appropriate, regarding the President's directions with respect to the Council's activities and national space policy and strategy.
 
 (d) The Chair may recommend to the President candidates for the position of Executive Secretary.
 

@@ -4,7 +4,7 @@
 
 The Director of the Office shall—
 
-&emsp;(1) expedite the implementation of the Federal strategic plans required by section 283(a) of this title regarding the conduct and support of research on, and development of, a microbicide to prevent the transmission of the human immunodeficiency virus; and
+&emsp;(1) expedite the implementation of the Federal strategic plans required by section 283(a)of this title regarding the conduct and support of research on, and development of, a microbicide to prevent the transmission of the human immunodeficiency virus; and
 
 &emsp;(2) review and, as appropriate, revise such plan to prioritize funding and activities relative to their scientific urgency and potential market readiness.
 

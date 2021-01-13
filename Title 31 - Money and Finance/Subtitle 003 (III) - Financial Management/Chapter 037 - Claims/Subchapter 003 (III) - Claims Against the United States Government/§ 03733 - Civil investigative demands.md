@@ -276,7 +276,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(A) this section and sections 3729 through 3732; and
 
-&emsp;&emsp;(B) any Act of Congress enacted after the date of the enactment of this section which prohibits, or makes available to the United States in any court of the United States anycivil remedy with respect to, any false claim against, bribery of, or corruption of any officer or employee of the United States;
+&emsp;&emsp;(B) any Act of Congress enacted after the date of the enactment of this section which prohibits, or makes available to the United States in any court of the United States any civil remedy with respect to, any false claim against, bribery of, or corruption of any officer or employee of the United States;
 
 &emsp;(2) the term "false claims law investigation" means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
 
@@ -300,6 +300,8 @@ Definitions.—For purposes of this section—
 
 (Added Pub. L. 99–562, §6(a), Oct. 27, 1986, 100 Stat. 3159; amended Pub. L. 111–21, §4(c), May 20, 2009, 123 Stat. 1623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (b)(1)(B), (c)(2), (h)(1), and (j)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -317,6 +319,8 @@ Subsec. (i)(2)(B). Pub. L. 111–21, §4(c)(2)(A), struck out ", who is authori
 Subsec. (i)(2)(C). Pub. L. 111–21, §4(c)(2)(B), struck out at end "Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities."
 
 Subsec. (l)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

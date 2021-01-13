@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
+Authority.—Under regulations prescribed by the Secretary of the Army, the Commandantof the United States Army War College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
 
 (b)
 
@@ -20,7 +20,7 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 &emsp;(B) the subsequent recommendations and rationale of the Secretary of Education regarding the establishment of the degree granting authority.
 
-(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and Houseof Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
+(2) Upon any modification or redesignation of existing degree granting authority, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the rationale for the proposed modification or redesignation and any subsequent recommendation of the Secretary of Education on the proposed modification or redesignation.
 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army War College to award any new or existing degree.
 

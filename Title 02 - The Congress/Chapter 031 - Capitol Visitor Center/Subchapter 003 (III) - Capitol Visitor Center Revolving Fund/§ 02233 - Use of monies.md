@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;All monies in the Gift Shop Account shall be available without fiscal year limitation fordisbursement by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, in connection with the operation of the gift shop under section 2215 of this title, including supplies, inventories, equipment, and other expenses. In addition, such monies may be used by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, to reimburse any applicable appropriations account for amounts used from such appropriations account to pay the salaries of employees of the gift shops.
+&emsp;All monies in the Gift Shop Account shall be available without fiscal year limitation for disbursement by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, in connection with the operation of the gift shop under section 2215 of this title, including supplies, inventories, equipment, and other expenses. In addition, such monies may be used by the Architect of the Capitol, upon recommendation of the Chief Executive Officer, to reimburse any applicable appropriations account for amounts used from such appropriations account to pay the salaries of employees of the gift shops.
 
 #### (2) Use of remaining funds
 

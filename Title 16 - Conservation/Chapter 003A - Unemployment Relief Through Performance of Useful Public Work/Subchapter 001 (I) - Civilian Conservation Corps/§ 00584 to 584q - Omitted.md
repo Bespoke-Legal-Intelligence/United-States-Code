@@ -62,7 +62,7 @@ Act Oct. 21, 1940, ch. 906, 54 Stat. 1206, formerly classified to section 584g o
 
 #### Transfer of Functions
 
-Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of the former Appendix to Title 50, War and National Defense.
+Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution byformer section 1355(e) of the former Appendix to Title 50, War and National Defense.
 
 Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -74,7 +74,7 @@ Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: "For the p
 
 Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, title II, 57 Stat. 499, appropriated funds to enable the Director of the Civilian Conservation Corps to provide for the liquidation of the Civilian Conservation Corps and the latter provided that "said liquidation shall be completed as quickly as possible but in any event not later than June 30, 1944."
 
-Liquidation of all enrollees and overhead personnel was accomplished by August 15, 1942, pursuant to a directive of Director of C.C.C., except for a skeleton forcewhich was retained to transfer supplies and material to Army, Navy, and Civil Aeronautics Authority.
+Liquidation of all enrollees and overhead personnel was accomplished by August 15, 1942, pursuant to a directive of Director of C.C.C., except for a skeleton force which was retained to transfer supplies and material to Army, Navy, and Civil Aeronautics Authority.
 
 #### Transfer of Equipment
 

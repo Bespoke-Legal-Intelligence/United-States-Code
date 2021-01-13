@@ -42,6 +42,8 @@
 
 (Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035; Pub. L. 112–154, title VII, §708, Aug. 6, 2012, 126 Stat. 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
@@ -92,7 +94,7 @@ Subsec. (d). Pub. L. 102–83, §4(b)(8), substituted "Secretary of Labor" for "
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–466, §801(j), inserted "special" after "qualified" and substituted "regulations which shall require" for "regulations within 60 days after the date of enactment of this section, which regulations shall require".
 
-Subsec. (b). Pub. L. 96–466, §509, among other changes, substituted reference to a special disabled veteran forreference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of section 706(6) of title 29, and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans' Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
+Subsec. (b). Pub. L. 96–466, §509, among other changes, substituted reference to a special disabled veteran for reference to a disabled veteran, struck out provisions relating to the filing of a complaint by any veteran entitled to disability compensation who believed that a contractor had discriminated against such veteran because such veteran was a handicapped individual within the meaning of section 706(6) of title 29, and substituted provisions relating to the filing of a complaint with the Secretary of Labor for provisions relating to the filing of a complaint with the Veterans' Employment Service of the Department of Labor and prompt referral of the complaint to the Secretary.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–520 authorized filing of a complaint by a veteran entitled to disability compensation under laws administered by the Veterans' Administration based on a contractor's discrimination against the veteran because the veteran is handicapped.
 
@@ -103,6 +105,8 @@ Subsec. (c). Pub. L. 94–502, §605, added subsec. (c).
 <b>1974</b>—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted "Any contract in the amount of $10,000 or more entered into" for "Any contract entered into", "the party contracting with the United States shall take affirmative action to employ and advance in employment" for "in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of", and "In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall" for "The President shall".
 
 Subsec. (b). Pub. L. 93–508, §402(3), substituted "relating to the employment of veterans" for "relating to giving special emphasis in employment to veterans".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -130,6 +134,8 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 Pub. L. 97–306, title III, §310(b), Oct. 14, 1982, 96 Stat. 1442, provided that: "Within 90 days after the date of the enactment of this Act \[Oct. 14, 1982\], the Secretary of Labor shall prescribe regulations under subsection (d) of section 2012 \[now 4212\] of title 38, United States Code, as added by the amendment made by subsection (a)."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 11701. Employment of Veterans by Federal Agencies and Government Contractors and Subcontractors
 
 Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, provided:
@@ -138,7 +144,7 @@ On June 16, 1971, I issued Executive Order No. 11598 to facilitate the employmen
 
 NOW, THEREFORE, by virtue of the authority vested in me by section 301 of Title 3 of the United States Code and as President of the United States, it is hereby ordered as follows:
 
-Section 1. The Secretary of Labor shall issue rules and regulations requiring each department and agency of the executive branch of the Federal Government to list suitable employment openings with the appropriate office of the State Employment Service or the United States Employment Service. This section shall not be construed as requiring the employment of individuals referred by such office or as superseding any requirements of the Civil Service Laws. Rules, regulations, and orders to implement this section shall be developed in consultation with the Civil Service Commission.
+Section 1. The Secretary of Labor shall issue rules and regulations requiring each department and agency of the executive branch of the Federal Government to list suitable employment openings with the appropriate office of the State Employment Service or the United States Employment Service. This section shall not be construed as requiring the employment of individuals referred by such office or as superseding any requirements of the Civil Service Laws. Rules, regulations,and orders to implement this section shall be developed in consultation with the Civil Service Commission.
 
 Sec. 2. The Secretary of Labor is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority of the President under Section 2012 \[now 4212\] of Title 38 of the United States Code.
 

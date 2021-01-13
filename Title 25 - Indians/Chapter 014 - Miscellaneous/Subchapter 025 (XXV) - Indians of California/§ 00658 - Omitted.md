@@ -1,5 +1,7 @@
 ### §658. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act May 24, 1950, ch. 196, §2, 64 Stat. 190, which provided for a distribution of $150 from the judgment fund to each enrolled Indian, was omitted from the Code as being of special and not general application.

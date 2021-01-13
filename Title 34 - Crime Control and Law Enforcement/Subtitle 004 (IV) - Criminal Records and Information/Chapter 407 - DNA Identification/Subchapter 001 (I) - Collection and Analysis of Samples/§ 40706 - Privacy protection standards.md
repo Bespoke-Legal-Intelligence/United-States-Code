@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), any sample collected under, or any result of any analysiscarried out under, section 40701, 40702, or 40703 of this title may be used only for a purpose specified in such section.
+Except as provided in subsection (b), any sample collected under, or any result of any analysis carried out under, section 40701, 40702, or 40703 of this title may be used only for a purpose specified in such section.
 
 #### (b) Permissive uses
 
@@ -13,6 +13,8 @@ A sample or result described in subsection (a) may be disclosed under the circum
 A person who knowingly discloses a sample or result described in subsection (a) in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
 
 (Pub. L. 106–546, §10, Dec. 19, 2000, 114 Stat. 2735; Pub. L. 108–405, title II, §203(e)(2), title III, §309, Oct. 30, 2004, 118 Stat. 2271, 2275.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

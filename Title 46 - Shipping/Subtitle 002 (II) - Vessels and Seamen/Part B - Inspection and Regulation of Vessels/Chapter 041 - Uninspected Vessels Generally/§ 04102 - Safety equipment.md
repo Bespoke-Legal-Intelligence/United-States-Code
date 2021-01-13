@@ -10,7 +10,7 @@
 
 (e) Each manned uninspected vessel owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
 
-(f)(1) The Secretary, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
+(f)(1) The Secretary, in consultation with the National Towing Safety Advisory Committeeand taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
 
 (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 
@@ -40,6 +40,8 @@ Historical and Revision Notes
 
 Section 4102 requires uninspected vessels to comply with certain provisions that incorporate minimum safety equipment and construction requirements. The Committee intends that the term life preserver include all types of personal equipment, including exposure suits with floatation characteristics.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (f)(1). Pub. L. 115–282 inserted "National" before "Towing Safety".
@@ -56,9 +58,13 @@ Pub. L. 100–424 struck out subsec. (e) which read as follows: "Each uninspecte
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–640 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 104–324, title IX, §902(b), Oct. 19, 1996, 110 Stat. 3947, provided that: "The Secretary of the department in which the Coast Guard is operating shall issue regulations establishing the requirement described in subsection (f)(2) of section 4102 of title 46, United States Code, as added by this section, by not later than October 1, 1997."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

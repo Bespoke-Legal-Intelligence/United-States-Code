@@ -56,7 +56,7 @@ A sponsor of a device may request that the Secretary designate such device for e
 
 &emsp;&emsp;(E) expedite the Secretary's review of manufacturing and quality systems compliance, as applicable;
 
-&emsp;&emsp;(F) disclose to the sponsor, not less than 5 business days in advance, the topics of any consultation the Secretary intends to undertake with external experts or an advisory committee concerning the sponsor's device and provide the sponsor the opportunity to recommend such external experts;
+&emsp;&emsp;(F) disclose to the sponsor, not less than 5 business days in advance, the topics of any consultation the Secretary intends to undertake with external experts or an advisory committee concerning the sponsor's deviceand provide the sponsor the opportunity to recommend such external experts;
 
 &emsp;&emsp;(G) provide for advisory committee input, as the Secretary determines appropriate (including in response to the request of the sponsor) for applications submitted under section 360e(c) of this title; and
 
@@ -110,11 +110,15 @@ Nothing in this section shall be construed to affect—
 
 (June 25, 1938, ch. 675, §515B, formerly §515C, as added Pub. L. 114–255, div. A, title III, §3051(a), Dec. 13, 2016, 130 Stat. 1121; renumbered §515B and amended Pub. L. 115–52, title IX, §901(f), (g), Aug. 18, 2017, 131 Stat. 1076, 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–52, §901(f)(1), made technical amendment to directory language of Pub. L. 114–255, §3051(a), which added this section.
 
 Subsec. (f)(2). Pub. L. 115–52, §901(g), substituted "a draft version of that guidance" for "a proposed guidance".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

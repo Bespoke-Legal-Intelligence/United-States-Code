@@ -1,5 +1,7 @@
 ### §572. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 27, 1939, ch. 387, §2, 53 Stat. 1128, which authorized payments to individual tribe members, was omitted from the Code as being of special and not general application.

@@ -2,7 +2,7 @@
 
 The President may—
 
-&emsp;(1) prescribe such regulations for the admission of individuals into the civil service in the executive branch as will best promote the efficiency of that service;
+&emsp;(1) prescribe such regulations for the admission of individuals into the civil service in theexecutive branch as will best promote the efficiency of that service;
 
 &emsp;(2) ascertain the fitness of applicants as to age, health, character, knowledge, and ability for the employment sought; and
 
@@ -27,6 +27,8 @@ R.S. §1753 (less last 16 words).
 The words "civil service in the executive branch" are substituted for "civil service of the United States" to confirm the grant of authority in view of the definition of "civil service" in section 2101. The word "will" is substituted for "may". The words "for the employment sought" are substituted for "for the branch of service into which he seeks to enter" as the latter are archaic since there are no "branches" within the executive branch. The word "applicant" is substituted for "candidate".
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1998 Amendment
 
@@ -114,7 +116,7 @@ Pub. L. 101–363, Aug. 14, 1990, 104 Stat. 424, provided that:
 
 Number and Appointment.—The Council shall be composed of 15 members as follows:
 
-&emsp;"(1) 2 Members of the Senate, 1 of whom shall be appointed by the majority leader of the Senate and the other of whom shall be appointed by the minority leader of the Senate.
+&emsp;"(1) 2 Members of the Senate, 1 of whom shall be appointed by the majority leader of the Senate and theother of whom shall be appointed by the minority leader of the Senate.
 
 &emsp;"(2) 2 Members of the House of Representatives, 1 of whom shall be appointed by the Speaker of the House of Representatives and the other of whom shall be appointed by the minority leader of the House of Representatives.
 
@@ -221,6 +223,8 @@ Termination.—The Council shall cease to exist upon transmitting its final repo
 #### "SEC. 10. AUTHORIZATION.
 
 "There is authorized to be appropriated such sums as may be necessary to carry out this Act."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 8743. Extending the Classified Civil Service
 
@@ -394,7 +398,7 @@ Section 1. Under regulations and conditions prescribed by the Office of Personne
 
 (a) Is qualified for the position in the competitive service;
 
-(b) Was appointed in the Foreign Service under authority of the Foreign Service Act of 1946 as amended \[former section 801 et seq. of Title 22, Foreign Relationsand Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act;
+(b) Was appointed in the Foreign Service under authority of the Foreign Service Act of 1946 as amended \[former section 801 et seq. of Title 22, Foreign Relations and Intercourse\], the Foreign Service Act of 1980 \[section 3901 et seq. of Title 22\], or legislation that supplements or replaces the latter Act;
 
 (c) Served in the Foreign Service under an unlimited, career-type appointment and, immediately before his separation from that appointment, he completed at least one year of continuous service under one or more nontemporary appointments in the Foreign Service which may include the service that made him eligible for his career-type appointment; and
 
@@ -410,7 +414,7 @@ Sec. 2. (a) Except as provided in paragraph (b) of this section, a person appoin
 
 (3) Has completed the service requirement for career tenure in the competitive service.
 
-> For the purpose of subparagraph (3) of this paragraph, service in the Foreign Service is creditable in meeting the service requirement only if the person concerned is appointed to a nontemporary position in the competitive service under Section 1 of this Order within 30 days after his separation from the Foreign Service.
+> For the purpose of subparagraph (3) of this paragraph, service in the Foreign Service is creditable in meetingthe service requirement only if the person concerned is appointed to a nontemporary position in the competitive service under Section 1 of this Order within 30 days after his separation from the Foreign Service.
 
 Sec. 3. A person appointed to a nontemporary position in the competitive service under Section 1 of this Order acquires a competitive status automatically on appointment.
 
@@ -802,7 +806,7 @@ Sec. 2. <i>Establishment</i>. There are hereby established the Internship Progra
 
 (e) a description of OPM oversight of agency use of the Pathways Programs to ensure that (i) they serve as a supplement to, and not a substitute for, the competitive hiring process, and (ii) agencies are using the Pathways Programs in a genuine effort to develop talent for careers in the civil service;
 
-(f) a description of OPM plans to evaluate agencies' effectiveness in recruiting and retaining talent using the Pathways Programs and of the satisfaction of Pathways Programs participants and their hiring managers; and
+(f) a description of OPM plans to evaluate agencies' effectiveness in recruiting and retaining talent usingthe Pathways Programs and of the satisfaction of Pathways Programs participants and their hiring managers; and
 
 (g) standard naming conventions across agencies, so that students and recent graduates can clearly understand and compare the career pathway opportunities available to them in the Federal Government.
 
@@ -988,7 +992,7 @@ Ex. Ord. No. 13750, Nov. 29, 2016, 81 F.R. 87393, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. The issuance of an order granting Non-Competitive Eligibility (NCE) to certain alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship (CLS) Program, all of which are academic exchange programs carried out under the authorities of the Mutual Educational and Cultural Exchange Act of 1961, Public Law 87–256, as amended, also known as the Fulbright-Hays Act, and the International Academic Opportunity Act of 2000, title III of Public Law 106–309, would be in the best interest of the Federal Government. Participants in these programs develop advanced- to superior-level skills in languages and cultural competence in regions that are strategically, diplomatically, and economically important to the United States. It is in the interest of the Federal Government to retain the services of these highly skilled individuals, particularly given that the Federal Government aided them in the acquisition of their skills. Participants in the Fulbright, Gilman, and CLS programs are drawn from highly competitive, merit-based national selection processes to which a veterans' preference applies to ensure that the most qualified individuals are selected.
+Section 1. <i>Policy</i>. The Federal Government benefits from a workforce that can be recruited from the broadest and deepest pools of qualified candidates for our highly competitive, merit-based positions. The issuance of an order granting Non-Competitive Eligibility (NCE) to certain alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship (CLS) Program, all of which are academic exchange programs carried out under the authorities of the Mutual Educational and Cultural Exchange Act of 1961, Public Law 87–256, as amended, also known as the Fulbright-Hays Act, and the International Academic Opportunity Act of 2000, title III of Public Law 106–309, would be in the best interest of the Federal Government. Participants in these programs developadvanced- to superior-level skills in languages and cultural competence in regions that are strategically, diplomatically, and economically important to the United States. It is in the interest of the Federal Government to retain the services of these highly skilled individuals, particularly given that the Federal Government aided them in the acquisition of their skills. Participants in the Fulbright, Gilman, and CLS programs are drawn from highly competitive, merit-based national selection processes to which a veterans' preference applies to ensure that the most qualified individuals are selected.
 
 Accordingly, pursuant to my authority under 5 U.S.C. 3302(1), and in order to achieve a workforce that is drawn from all segments of society as provided in 5 U.S.C. 2301(b)(1), I find that conditions of good administration make necessary an exception to the competitive hiring rules for certain positions in the Federal civil service.
 
@@ -1083,6 +1087,166 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13932. Modernizing and Reforming the Assessment and Hiring of Federal Job Candidates
+
+Ex. Ord. No. 13932, June 26, 2020, 85 F.R. 39457, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and sections 1104(a)(1), 3301, and 7301 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The foundation of our professional merit-based civil service is the principle that employment and advancement rest on the ability of individuals to fulfill their responsibilities in service to the American public. Accordingly, Federal Government employment opportunities should be filled based on merit. Policies or practices that undermine public confidence in the hiring process undermine confidence in both the civil service and the Government.
+
+America's private employers have modernized their recruitment practices to better identify and secure talent through skills- and competency-based hiring. As the modern workforce evolves, the Federal Government requires a more efficient approach to hiring. Employers adopting skills- and competency-based hiring recognize that an overreliance on college degrees excludes capable candidates and undermines labor-market efficiencies. Degree-based hiring is especially likely to exclude qualified candidates for jobs related to emerging technologies and those with weak connections between educational attainment and the skills or competencies required to perform them. Moreover, unnecessary obstacles to opportunity disproportionately burden low-income Americans and decrease economic mobility.
+
+The Office of Personnel Management (OPM) oversees most aspects of the civilian Federal workforce, including creating and maintaining the General Schedule classification system and determining the duties, responsibilities, and qualification requirements for Federal jobs. Executive departments and agencies (agencies), however, are responsible for vetting and selecting specific candidates to fill particular job openings consistent with statutory requirements and OPM rules and guidance, including applicable minimum educational requirements. Currently, for most Federal jobs, traditional education—high school, college, or graduate-level—rather than experiential learning is either an absolute requirement or the only path to consideration for candidates without many years of experience. As a result, Federal hiring practices currently lag behind those of private sector leaders in securing talent based on skills and competency.
+
+My Administration is committed to modernizing and reforming civil service hiring through improved identification of skills requirements and effective assessments of the skills job seekers possess. We encourage these same practices in the private sector. Modernizing our country's processes for identifying and hiring talent will provide America a more inclusive and demand-driven labor force.
+
+Through the work of the National Council for the American Worker and the American Workforce Policy Advisory Board, my Administration is fulfilling its commitment to expand employment opportunities for workers. The increased adoption of apprenticeship programs by American employers, the creation of Industry-Recognized Apprenticeship Programs, and the implementation of Federal hiring reforms, including those in this order, represent important steps toward providing more Americans with pathways to family-sustaining careers. In addition, the Principles on Workforce Freedom and Mobility announced by my Administration in January 2020 detail reforms that will expand opportunities and eliminate unnecessary education costs for job seekers. This order builds on the broader work of my Administration to expand opportunity and create a more inclusive 21st-century economy.
+
+This order directs important, merit-based reforms that will replace degree-based hiring with skills- and competency-based hiring and will hold the civil service to a higher standard—ensuring that the individuals most capable of performing the roles and responsibilities required of a specific position are those hired for that position—that is more in line with the principles on which the merit system rests.
+
+Sec. 2. <i>Revision of Job Classification and Qualification Standards</i>. (a) The Director of OPM, in consultation with the Director of the Office of Management and Budget, the Assistant to the President for Domestic Policy, and the heads of agencies, shall review and revise all job classification and qualification standards for positions within the competitive service, as necessary and consistent with subsections (a)(i) and (a)(ii) of this section. All changes to job classification and qualification standards shall be made available to the public within 120 days of the date of this order \[June 26, 2020\] and go into effect within 180 days of the date of this order.
+
+(i) An agency may prescribe a minimum educational requirement for employment in the Federal competitive service only when a minimum educational qualification is legally required to perform the duties of the position in the State or locality where those duties are to be performed.
+
+(ii) Unless an agency is determining a candidate's satisfaction of a legally required minimum educational requirement, an agency may consider education in determining a candidate's satisfaction of some other minimum qualification only if the candidate's education directly reflects the competencies necessary to satisfy that qualification and perform the duties of the position.
+
+(b) Position descriptions and job postings published by agencies for positions within the competitive service should be based on the specific skills and competencies required to perform those jobs.
+
+Sec. 3. <i>Improving the Use of Assessments in the Federal Hiring Process</i>. (a) In addition to the other requirements of this order, the Director of OPM shall work with the heads of all agencies to ensure that, within 180 days of the date of this order, for positions within the competitive service, agencies assess candidates in a manner that does not rely solely on educational attainment to determine the extent to which candidates possess relevant knowledge, skills, competencies, and abilities. The heads of all agencies shall develop or identify such assessment practices.
+
+(b) In assessing candidates, agencies shall not rely solely on candidates' self-evaluations of their stated abilities. Applicants must clear other assessment hurdles in order to be certified for consideration.
+
+(c) Agencies shall continually evaluate the effectiveness of different assessment strategies to promote and protect the quality and integrity of their hiring processes.
+
+Sec. 4. <i>Definitions</i>. For purposes of this order:
+
+(a) the term "assessment" refers to any valid and reliable method of collecting information on an individual for the purposes of making a decision about qualification, hiring, placement, promotion, referral, or entry into programs leading to advancement;
+
+(b) the term "competitive service" has the meaning specified by section 2102 of title 5, United States Code;
+
+(c) the term "education" refers to Post High-School Education as that term is defined in the OPM General Schedule Qualification Policies; and
+
+(d) the term "qualification" means the minimum requirements necessary to perform work of a particular position or occupation successfully and safely.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13957. Creating Schedule F in the Excepted Service
+
+Ex. Ord. No. 13957, Oct. 21, 2020, 85 F.R. 67631, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301, 3302, and 7511 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. To effectively carry out the broad array of activities assigned to the executive branch under law, the President and his appointees must rely on men and women in the Federal service employed in positions of a confidential, policy-determining, policy-making, or policy-advocating character. Faithful execution of the law requires that the President have appropriate management oversight regarding this select cadre of professionals.
+
+The Federal Government benefits from career professionals in positions that are not normally subject to change as a result of a Presidential transition but who discharge significant duties and exercise significant discretion in formulating and implementing executive branch policy and programs under the laws of the United States. The heads of executive departments and agencies (agencies) and the American people also entrust these career professionals with non-public information that must be kept confidential.
+
+With the exception of attorneys in the Federal service who are appointed pursuant to Schedule A of the excepted service and members of the Senior Executive Service, appointments to these positions are generally made through the competitive service. Given the importance of the functions they discharge, employees in such positions must display appropriate temperament, acumen, impartiality, and sound judgment.
+
+Due to these requirements, agencies should have a greater degree of appointment flexibility with respect to these employees than is afforded by the existing competitive service process.
+
+Further, effective performance management of employees in confidential, policy-determining, policy-making, or policy-advocating positions is of the utmost importance. Unfortunately, the Government's current performance management is inadequate, as recognized by Federal workers themselves. For instance, the 2016 Merit Principles Survey reveals that less than a quarter of Federal employees believe their agency addresses poor performers effectively.
+
+Separating employees who cannot or will not meet required performance standards is important, and it is particularly important with regard to employees in confidential, policy-determining, policy-making, or policy-advocating positions. High performance by such employees can meaningfully enhance agency operations, while poor performance can significantly hinder them. Senior agency officials report that poor performance by career employees in policy-relevant positions has resulted in long delays and substandard-quality work for important agency projects, such as drafting and issuing regulations.
+
+Pursuant to my authority under section 3302(1) of title 5, United States Code, I find that conditions of good administration make necessary an exception to the competitive hiring rules and examinations for career positions in the Federal service of a confidential, policy-determining, policy-making, or policy-advocating character. These conditions include the need to provide agency heads with additional flexibility to assess prospective appointees without the limitations imposed by competitive service selection procedures.
+
+Placing these positions in the excepted service will mitigate undue limitations on their selection. This action will also give agencies greater ability and discretion to assess critical qualities in applicants to fill these positions, such as work ethic, judgment, and ability to meet the particular needs of the agency. These are all qualities individuals should have before wielding the authority inherent in their prospective positions, and agencies should be able to assess candidates without proceeding through complicated and elaborate competitive service processes or rating procedures that do not necessarily reflect their particular needs.
+
+Conditions of good administration similarly make necessary excepting such positions from the adverse action procedures set forth in chapter 75 of title 5, United States Code. Chapter 75 of title 5, United States Code, requires agencies to comply with extensive procedures before taking adverse action against an employee. These requirements can make removing poorly performing employees difficult. Only a quarter of Federal supervisors are confident that they could remove a poor performer. Career employees in confidential, policy-determining, policy-making, and policy-advocating positions wield significant influence over Government operations and effectiveness. Agencies need the flexibility to expeditiously remove poorly performing employees from these positions without facing extensive delays or litigation.
+
+Sec. 2. <i>Definition</i>. The phrase "normally subject to change as a result of a Presidential transition" refers to positions whose occupants are, as a matter of practice, expected to resign upon a Presidential transition and includes all positions whose appointment requires the assent of the White House Office of Presidential Personnel.
+
+Sec. 3. <i>Excepted Service</i>. Appointments of individuals to positions of a confidential, policy-determining, policy-making, or policy-advocating character that are not normally subject to change as a result of a Presidential transition shall be made under Schedule F of the excepted service, as established by section 4 of this order.
+
+Sec. 4. <i>Schedule F of the Excepted Service</i>. (a) Civil Service Rule VI is amended as follows:
+
+(i) 5 CFR 6.2 is amended to read:
+
+"OPM shall list positions that it excepts from the competitive service in Schedules A, B, C, D, E, and F, which schedules shall constitute parts of this rule, as follows:
+
+\["\]Schedule A. Positions other than those of a confidential or policy-determining character for which it is not practicable to examine shall be listed in Schedule A.
+
+\["\]Schedule B. Positions other than those of a confidential or policy-determining character for which it is not practicable to hold a competitive examination shall be listed in Schedule B. Appointments to these positions shall be subject to such noncompetitive examination as may be prescribed by OPM.
+
+\["\]Schedule C. Positions of a confidential or policy-determining character normally subject to change as a result of a Presidential transition shall be listed in Schedule C.
+
+\["\]Schedule D. Positions other than those of a confidential or policy-determining character for which the competitive service requirements make impracticable the adequate recruitment of sufficient numbers of students attending qualifying educational institutions or individuals who have recently completed qualifying educational programs. These positions, which are temporarily placed in the excepted service to enable more effective recruitment from all segments of society by using means of recruiting and assessing candidates that diverge from the rules generally applicable to the competitive service, shall be listed in Schedule D.
+
+\["\]Schedule E. Position of administrative law judge appointed under 5 U.S.C. 3105. Conditions of good administration warrant that the position of administrative law judge be placed in the excepted service and that appointment to this position not be subject to the requirements of 5 CFR, part 302, including examination and rating requirements, though each agency shall follow the principle of veteran preference as far as administratively feasible.
+
+\["\]Schedule F. Positions of a confidential, policy-determining, policy-making, or policy-advocating character not normally subject to change as a result of a Presidential transition shall be listed in Schedule F. In appointing an individual to a position in Schedule F, each agency shall follow the principle of veteran preference as far as administratively feasible."
+
+(ii) 5 CFR 6.4 is amended to read:
+
+"Except as required by statute, the Civil Service Rules and Regulations shall not apply to removals from positions listed in Schedules A, C, D, E, or F, or from positions excepted from the competitive service by statute. The Civil Service Rules and Regulations shall apply to removals from positions listed in Schedule B of persons who have competitive status."
+
+(b) The Director of the Office of Personnel Management (Director) shall:
+
+(i) adopt such regulations as the Director determines may be necessary to implement this order, including, as appropriate, amendments to or rescissions of regulations that are inconsistent with, or that would impede the implementation of, this order, giving particular attention to 5 CFR, part 212, subpart D; 5 CFR, part 213, subparts A and C; and 5 CFR 302.101; and
+
+(ii) provide guidance on conducting a swift, orderly transition from existing appointment processes to the Schedule F process established by this order.
+
+Sec. 5. <i>Agency Actions</i>. (a) Each head of an executive agency (as defined in section 105 of title 5, United States Code, but excluding the Government Accountability Office) shall conduct, within 90 days of the date of this order \[Oct. 21, 2020\], a preliminary review of agency positions covered by subchapter II of chapter 75 of title 5, United States Code, and shall conduct a complete review of such positions within 210 days of the date of this order. Thereafter, each agency head shall conduct a review of agency positions covered by subchapter II of chapter 75 of title 5, United States Code, on at least an annual basis. Following such reviews each agency head shall:
+
+(i) for positions not excepted from the competitive service by statute, petition the Director to place in Schedule F any such competitive service, Schedule A, Schedule B, or Schedule D positions within the agency that the agency head determines to be of a confidential, policy-determining, policy-making, or policy-advocating character and that are not normally subject to change as a result of a Presidential transition. Any such petition shall include a written explanation documenting the basis for the agency head's determination that such position should be placed in Schedule F; and
+
+(ii) for positions excepted from the competitive service by statute, determine which such positions are of a confidential, policy-determining, policy-making, or policy-advocating character and are not normally subject to change as a result of a Presidential transition. The agency head shall publish this determination in the Federal Register. Such positions shall be considered Schedule F positions for the purposes of agency actions under sections 5(d) and 6 of this order.
+
+(b) The requirements set forth in subsection (a) of this section shall apply to currently existing positions and newly created positions.
+
+(c) When conducting the review required by subsection (a) of this section, each agency head should give particular consideration to the appropriateness of either petitioning the Director to place in Schedule F or including in the determination published in the Federal Register, as applicable, positions whose duties include the following:
+
+(i) substantive participation in the advocacy for or development or formulation of policy, especially:
+
+&emsp;(A) substantive participation in the development or drafting of regulations and guidance; or
+
+&emsp;(B) substantive policy-related work in an agency or agency component that primarily focuses on policy;
+
+(ii) the supervision of attorneys;
+
+(iii) substantial discretion to determine the manner in which the agency exercises functions committed to the agency by law;
+
+(iv) viewing, circulating, or otherwise working with proposed regulations, guidance, executive orders, or other non-public policy proposals or deliberations generally covered by deliberative process privilege and either:
+
+&emsp;(A) directly reporting to or regularly working with an individual appointed by either the President or an agency head who is paid at a rate not less than that earned by employees at Grade 13 of the General Schedule; or
+
+&emsp;(B) working in the agency or agency component executive secretariat (or equivalent); or
+
+(v) conducting, on the agency's behalf, collective bargaining negotiations under chapter 71 of title 5, United States Code.
+
+(d) The Director shall promptly determine whether to grant any petition under subsection (a) of this section. Not later than December 31 of each year, the Director shall report to the President, through the Director of the Office of Management and Budget and the Assistant to the President for Domestic Policy, concerning the number of petitions granted and denied for that year for each agency.
+
+(e) Each agency head shall, as necessary and appropriate, expeditiously petition the Federal Labor Relations Authority to determine whether any Schedule F position must be excluded from a collective bargaining unit under section 7112(b) of title 5, United States Code, paying particular attention to the question of whether incumbents in such positions are required or authorized to formulate, determine, or influence the policies of the agency.
+
+Sec. 6. <i>Prohibited Personnel Practices Prohibited</i>. Agencies shall establish rules to prohibit the same personnel practices prohibited by section 2302(b) of title 5, United States Code, with respect to any employee or applicant for employment in Schedule F of the excepted service.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) If any provision of this order, or the application of any provision to any person or circumstances, is held to be invalid, the remainder of this order and the application of any of its other provisions to any other persons or circumstances shall not be affected thereby.
+
+(e) Nothing in this order shall be construed to limit or narrow the positions that are or may be listed in Schedule C.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1204,7 +1368,7 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this memorandum shall be const
 
 (iii) the authority granted by law, Executive Order, or regulation to a department or agency, or the head thereof, to determine eligibility for access to classified information or to occupy a sensitive position; or
 
-(iv) the authority granted by law or Executive Order to a department or agency, or the head thereof, to take adverse actions against Federal employees for their failure to comply with any law, rule, or regulation imposing upon them an obligation to satisfy in good faith their just financial obligations, including Federal, State, or local taxes.
+(iv) the authority granted by law or Executive Order to a department or agency, or the head thereof, to take adverse actions against Federal employees for theirfailure to comply with any law, rule, or regulation imposing upon them an obligation to satisfy in good faith their just financial obligations, including Federal, State, or local taxes.
 
 (b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
 

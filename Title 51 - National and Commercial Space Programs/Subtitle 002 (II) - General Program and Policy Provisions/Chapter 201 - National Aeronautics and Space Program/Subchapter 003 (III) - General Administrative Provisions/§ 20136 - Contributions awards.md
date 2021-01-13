@@ -22,7 +22,7 @@ Surrender of Other Claims.—No award may be made under subsection (a) unless th
 
 (d)
 
-Report and Waiting Period.—No award may be made under subsection (a) in an amount exceeding $100,000 unless the Administrator transmits to the appropriate committees of Congress a full and complete report concerning the amount and terms of, and the basis for, the proposed award, and a period of 30 calendar days of regular session of Congress expires after receipt of the report by the committees.
+Report and Waiting Period.—No award may be made under subsection (a) in an amount exceeding $100,000 unless the Administrator transmits to the appropriate committees of Congress a full and complete report concerning theamount and terms of, and the basis for, the proposed award, and a period of 30 calendar days of regular session of Congress expires after receipt of the report by the committees.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3342.)
 

@@ -1,6 +1,6 @@
 ### §553. Allotments; continuance, suspension, initiation, resumption, or increase while in a missing status; limitations
 
-(a) Notwithstanding the end of the period for which it was made, an allotment, including onefor the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
+(a) Notwithstanding the end of the period for which it was made, an allotment, including one for the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
 
 (b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases in allotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
 
@@ -105,6 +105,8 @@ In subsection (f), the words "When the Secretary concerned officially reports th
 In subsection (g), the words "A member in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act".
 
 In subsection (h), the words "Secretary concerned" are substituted for "head of the department concerned." The words "a member on active duty" are substituted for "of persons in active service" to conform to the definitions in 37 U.S.C. 101(20) and (23). In clause (2), the words "heretofore or hereafter" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

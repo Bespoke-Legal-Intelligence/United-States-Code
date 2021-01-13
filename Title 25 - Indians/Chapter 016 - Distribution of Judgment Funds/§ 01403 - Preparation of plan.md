@@ -6,7 +6,7 @@ The Secretary shall prepare a plan which shall best serve the interests of all t
 
 &emsp;(1) receive and consider any resolution or communication, together with any suggested use or distribution plan, which any affected Indian tribe may wish to submit to him; and
 
-&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affected by the use or distribution, of such funds, in the area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
+&emsp;(2) hold a hearing of record, after appropriate public notice, to obtain the testimony of leaders and members of the Indian tribe which may receive any portion, or be affected by the use or distribution, of such funds, inthe area in which such Indian tribe is located and at a time which shall best serve the convenience of the eligible members thereof.
 
 #### (b) Guidelines
 
@@ -26,11 +26,15 @@ In preparing a plan for the use or distribution of the funds of each Indian judg
 
 (Pub. L. 93–134, §3, Oct. 19, 1973, 87 Stat. 467; Pub. L. 97–458, §2, Jan. 12, 1983, 96 Stat. 2512.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (b)(3). Pub. L. 97–458, §2(a), inserted proviso.
 
 Subsec. (b)(5). Pub. L. 97–458, §2(b), inserted proviso.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Disbursements for Urgent Needs of Minors and Legal Incompetents and Accounting for Expenditures
 

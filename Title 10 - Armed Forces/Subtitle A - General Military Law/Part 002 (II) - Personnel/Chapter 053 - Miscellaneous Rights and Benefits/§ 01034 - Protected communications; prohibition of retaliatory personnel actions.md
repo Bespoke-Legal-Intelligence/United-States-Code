@@ -128,7 +128,7 @@ Action in Case of Substantiated Violations.—(1) Not later than 30 days after r
 
 (3) If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
 
-&emsp;(A) provide to the Secretary of Defense and the member or former member a notice of the determination and the reasons for not taking action; and
+&emsp;(A) provide to the Secretary of Defense and the member or former member a notice of thedetermination and the reasons for not taking action; and
 
 &emsp;(B) when appropriate, refer the report to the appropriate board for the correction of military records for further review under subsection (g).
 
@@ -156,7 +156,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;&emsp;(iii) the member is not represented by outside counsel chosen by the member; and
 
-&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request theproduction of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
+&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
 (4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
@@ -276,7 +276,7 @@ Subsecs. (h) to (j). Pub. L. 113–66, §1714(e)(1), redesignated subsecs. (g) t
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted "unfavorable" before "action and the withholding".
 
-<b>2004</b>—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: "any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications."
+<b>2004</b>—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) whichread as follows: "any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications."
 
 <b>2002</b>—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
@@ -302,7 +302,7 @@ Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted "Gross mismanagement" for "Mismanagement".
 
-Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) inthe case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
+Subsec. (c)(3) to (5). Pub. L. 105–261, §933(a)(1)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "The Inspector General is not required to make an investigation under paragraph (1) in the case of an allegation made more than 60 days after the date on which the member becomes aware of the personnel action that is the subject of the allegation."
 
 Subsec. (d). Pub. L. 105–261, §933(a)(2), inserted "receiving the allegation" after ", the Inspector General" and "In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned." at end.
 

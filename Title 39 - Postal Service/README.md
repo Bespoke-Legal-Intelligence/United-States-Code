@@ -3851,6 +3851,8 @@ Table III<br>This Table lists the sections of Title 39, Postal Service, as revis
 
 6405, 6408, 6413
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Positive Law
 
 This title was enacted into law by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719, which provided that: "Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. §\_\_".
@@ -3907,7 +3909,7 @@ Pub. L. 91–375, §5, Aug. 12, 1970, 84 Stat. 774, provided that:
 
 &emsp;"(2) which are in effect at the time the United States Postal Service commences operations, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act \[see Short Title note set out under section 101 of this title\]), by any court of competent jurisdiction, or by operation of law.
 
-"(b) The provisions of this Act \[see Short Title note set out under section 101 of this title\] shall not affect any proceedings pending at the time this section takes effect before any department or agency (or component thereof), the functions of which are transferred by this Act but such proceedings shall be continued before the Postal Service. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act), by a court of competent jurisdiction, or by operation of law.
+"(b) The provisions of this Act \[see Short Title note set out under section 101 of this title\] shall not affect any proceedings pending at the time this section takes effect before any department or agency (or component thereof), the functions of which are transferred by this Act but such proceedings shall be continued before the Postal Service. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Postal Service (in the exercise of any authority vested in it by thisAct), by a court of competent jurisdiction, or by operation of law.
 
 "(c)(1) Except as provided in paragraph (2) of this subsection—
 

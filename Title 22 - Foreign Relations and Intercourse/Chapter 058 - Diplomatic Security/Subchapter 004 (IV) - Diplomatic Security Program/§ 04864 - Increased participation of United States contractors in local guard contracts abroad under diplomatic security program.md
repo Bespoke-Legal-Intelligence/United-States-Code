@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 #### (b) Objective
 
-It is the objective of this section to improve the efficiency of the local guard programsabroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
+It is the objective of this section to improve the efficiency of the local guard programs abroad administered by the Bureau of Diplomatic Security of the Department of State and to ensure maximum competition for local guard contracts abroad concerning Foreign Service buildings.
 
 #### (c) Participation of United States contractors in local guard contracts abroad
 
@@ -78,7 +78,7 @@ Not less than 10 percent of the amount of funds obligated for local guard contra
 
 #### (f) United States small business contractors
 
-Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
+Not less than 10 percent of the amount of funds obligated for local guard contracts forForeign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
 
 #### (g) Limitation of subcontracting
 
@@ -90,9 +90,11 @@ In evaluating proposals for local guard contracts under this section, the Secret
 
 (Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, §112, Dec. 16, 2016, 130 Stat. 1910.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and notas part of the Diplomatic Security Act which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991, and not as part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
 
@@ -111,6 +113,8 @@ Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as 
 Subsec. (d)(1)(D). Pub. L. 103–236, §141(2)(A), substituted "or" for "and".
 
 Subsec. (d)(4). Pub. L. 103–236, §141(2)(B)–(D), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Strengthening Oversight
 

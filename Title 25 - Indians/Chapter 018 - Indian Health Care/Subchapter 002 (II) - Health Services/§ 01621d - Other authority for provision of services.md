@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Home- and community-based service
 
-&emsp;The term "home- and community-based service" means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) <sup>1</sup> that are or will be provided in accordance with applicable standards.
+&emsp;The term "home- and community-based service" means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by theService or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) <sup>1</sup> that are or will be provided in accordance with applicable standards.
 
 #### (3) Hospice care
 
@@ -55,6 +55,8 @@ The following individuals shall be eligible to receive long-term care services u
 The Secretary, acting through the Service, Indian tribes, and tribal organizations, may also provide funding under this chapter to meet the objectives set forth in section 1602 of this title for convenient care services programs pursuant to section 1637(c)(2)(A) of this title.
 
 (Pub. L. 94–437, title II, §205, as added Pub. L. 102–573, title II, §206(a), Oct. 29, 1992, 106 Stat. 4548; amended Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

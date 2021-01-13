@@ -10,7 +10,7 @@ Planting of Wildflowers.—
 
 &emsp;(1)
 
-General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼ of 1 percent of the funds expended for suchlandscaping project shall be used for such plantings.
+General rule.—The Secretary shall require the planting of native wildflower seeds or seedlings, or both, as part of any landscaping project under this section. At least ¼ of 1 percent of the funds expended for such landscaping project shall be used for such plantings.
 
 &emsp;(2)
 
@@ -30,6 +30,8 @@ Encouragement of Pollinator Habitat and Forage Development and Protection on Tra
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, §301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, §8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, §136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, §130, Apr. 2, 1987, 101 Stat. 169; Pub. L. 114–94, div. A, title I, §1415(a), Dec. 4, 2015, 129 Stat. 1421.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §1415(a)(1), inserted "(including the enhancement of habitat and forage for pollinators)" before "adjacent".
@@ -38,13 +40,15 @@ Subsec. (c). Pub. L. 114–94, §1415(a)(2), added subsec. (c).
 
 <b>1987</b>—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1976</b>—Pub. L. 94–280, in revising section, struck out subsec. (a) designation for existing text; incorporated as part of the section provision of former subsec. (b) for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways; and struck out subsec. (b) designation and other subsec. (b) provisions relating to: allocation to a State out of appropriated funds an amount equivalent to 3 per centum of funds apportioned to a State for Federal-aid highways for landscape and roadside development use within the highway right-of-way, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities within or adjacent to the highway right-of-way without being matched by the State; authorization of Secretary to except a State from the requirement upon a showing that amount is in excess of the State needs for the purposes; lapse of unused funds; appropriations authorization of $120,000,000 for fiscal years ending June 30, 1966, and 1967, and $20,000,000 for fiscal year ending June 30, 1970; and provision making chapter 1 respecting obligation, period of availability, and expenditure of Federal-aid primary highway funds applicable to funds authorized to be appropriated to carry out subsec. (b) after June 30, 1967.
+<b>1976</b>—Pub. L. 94–280, in revising section, struck out subsec. (a) designation for existing text; incorporated as part of the section provision of former subsec. (b) for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways; and struck out subsec. (b) designation and other subsec. (b) provisions relating to: allocation to a State out of appropriated funds an amount equivalent to 3 per centum of funds apportioned to a State for Federal-aid highways for landscape and roadside development use within the highway right-of-way, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities within or adjacent to the highway right-of-way without being matched by the State; authorization of Secretary to except a State from the requirement upon a showing that amount is in excess of the State needs for the purposes; lapse of unused funds; appropriations authorization of $120,000,000 for fiscalyears ending June 30, 1966, and 1967, and $20,000,000 for fiscal year ending June 30, 1970; and provision making chapter 1 respecting obligation, period of availability, and expenditure of Federal-aid primary highway funds applicable to funds authorized to be appropriated to carry out subsec. (b) after June 30, 1967.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–495 inserted provisions authorizing an appropriation of not to exceed $20,000,000 for the fiscal year ending June 30, 1970.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this subsection after June 30, 1967, the provisions of chapter 1 of this title relating to the obligations, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this subsection.
 
 <b>1965</b>—Pub. L. 89–285 rearranged section structurally, made provision for apportionment of an amount, in addition to the state's annual apportionment, equivalent to 3 per centum of the fund annually apportioned to the state for federal-aid highways to acquire interests and improvements for restoration, preservation, and enhancement of scenic beauty adjacent to Federal-aid highways, authorized appropriations of $120,000,000 for fiscal year ending June 30, 1966, and $120,000,000 for fiscal year ending June 30, 1967, and prohibited use of Highway Trust Fund moneys in carrying out the scenic enhancement provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

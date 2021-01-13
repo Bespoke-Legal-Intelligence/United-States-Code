@@ -14,7 +14,7 @@
 
 &emsp;The pro rata share referred to in paragraph (1)(A)(i) in the case of any United States shareholder is the amount—
 
-&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to itssubpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
+&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
 
 &emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
 
@@ -28,7 +28,7 @@ For purposes of this title, the term "United States shareholder" means, with res
 
 If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1112(a)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–97, title I, §§14101(e)(1), 14212(b)(1)(A), (2), 14214(a), 14215(a), Dec. 22, 2017, 131 Stat. 2192, 2217, 2218.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006; amended Pub. L. 94–12, title VI, §602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, 89 Stat. 58, 62; Pub. L. 94–455, title XIX, §1901(a)(119), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 98–369, div. A, title I, §132(c)(1), title VIII, §801(d)(4), July 18, 1984, 98 Stat. 666, 996; Pub. L. 99–514, title XII, §1235(c), title XVIII, §1876(c)(2), Oct. 22, 1986, 100 Stat. 2574, 2898; Pub. L. 100–647, title I, §1012(i)(15), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §§13231(a), 13232(c), Aug. 10, 1993, 107 Stat. 495, 502; Pub. L. 104–188, title I, §1501(a)(1), Aug. 20, 1996, 110 Stat. 1825;Pub. L. 105–34, title XI, §1112(a)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 110–172, §11(g)(13), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–97, title I, §§14101(e)(1), 14212(b)(1)(A), (2), 14214(a), 14215(a), Dec. 22, 2017, 131 Stat. 2192, 2217, 2218.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Foreign trade income.—For purposes of this subsection, the term 'foreign trade
 
 Subsec. (a)(1)(C). Pub. L. 103–66, §13231(a), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: "For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A)which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year."
+Subsec. (a)(4). Pub. L. 103–66, §13232(c)(2), struck out heading and text of par. (4). Text read as follows: "For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year."
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted "section 957(c)" for "section 957(d)".
 
@@ -102,7 +102,7 @@ Amendment by section 14212(b)(1)(A), (2) of Pub. L. 115–97 applicable to taxab
 
 Pub. L. 115–97, title I, §14214(b), Dec. 22, 2017, 131 Stat. 2218, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
 
-Pub. L. 115–97, title I, §14215(b), Dec. 22, 2017, 131 Stat. 2218, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+Pub. L. 115–97, title I, §14215(b), Dec. 22, 2017, 131 Stat. 2218, provided that: "The amendment made by this section \[amending this section\] shall apply to taxableyears of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
 
 #### Effective Date of 2004 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations
 
 #### Effective Date
 
-Pub. L. 87–834, §12(c), Oct. 16, 1962, 76 Stat. 1031, provided that: "The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 ofthis title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end."
+Pub. L. 87–834, §12(c), Oct. 16, 1962, 76 Stat. 1031, provided that: "The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 of this title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

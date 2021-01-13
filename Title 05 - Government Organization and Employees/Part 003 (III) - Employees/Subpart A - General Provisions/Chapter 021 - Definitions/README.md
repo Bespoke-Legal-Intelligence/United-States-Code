@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–56, title II, §235(a)(2)(B), Nov. 21, 2011, 125 Stat. 723, added item 2108a.

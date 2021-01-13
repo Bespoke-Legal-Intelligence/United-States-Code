@@ -1,8 +1,12 @@
 ### §731. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 100–89, title II, §201, Aug. 18, 1987, 101 Stat. 669, which set out definitions, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

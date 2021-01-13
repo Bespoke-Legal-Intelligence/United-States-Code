@@ -52,6 +52,8 @@ June 29, 1936, ch. 858, title XIII, §1303(g), as added Pub. L. 96–453, §2, O
 
 June 29, 1936, ch. 858, title XIII, §1303(b)(8), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 1997; Pub. L. 99–368, §5, Aug. 1, 1986, 100 Stat. 776.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–84 inserted before last sentence "Nonappropriated funds received for this purpose shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses."

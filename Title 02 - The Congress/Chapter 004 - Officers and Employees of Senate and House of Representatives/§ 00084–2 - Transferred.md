@@ -1,5 +1,7 @@
 ### §84–2. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 84–2 was editorially reclassified as section 5521 of this title.

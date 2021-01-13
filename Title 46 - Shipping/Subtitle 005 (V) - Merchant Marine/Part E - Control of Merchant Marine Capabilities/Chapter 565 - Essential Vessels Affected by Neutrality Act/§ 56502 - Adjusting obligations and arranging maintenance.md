@@ -38,6 +38,8 @@ June 29, 1940, ch. 442, subdivs. (b), (e), 54 Stat. 684, 686; Pub. L. 97–31, �
 
 The text of 46 App. U.S.C. 1242a(b) (1st sentence) is omitted as surplus. The text of 46 App. U.S.C. 1242a(e) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Neutrality Act of 1939, referred to in subsec. (a)(1)(A), (3), is act Nov. 4, 1939, ch. 2, 54 Stat. 4, which is classified generally to subchapter II (§441 et seq.) of chapter 9 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 441 of Title 22 and Tables.

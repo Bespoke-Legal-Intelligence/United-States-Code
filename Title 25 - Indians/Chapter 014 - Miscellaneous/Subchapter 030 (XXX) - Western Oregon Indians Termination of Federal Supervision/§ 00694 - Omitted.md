@@ -1,5 +1,7 @@
 ### §694. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 13, 1954, ch. 733, §4, 68 Stat. 725, which related to personal property rights of each member upon publication of roll, was omitted from the Code as being of special and not general application.

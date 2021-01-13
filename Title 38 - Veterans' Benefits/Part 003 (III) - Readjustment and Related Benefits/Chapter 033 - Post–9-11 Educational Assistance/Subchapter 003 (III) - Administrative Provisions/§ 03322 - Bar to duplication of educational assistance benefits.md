@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+In General.—An individual entitled to educational assistance under this chapter who isalso eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
 
 (b)
 
@@ -18,11 +18,11 @@ Additional Coordination Matters.—In the case of an individual entitled to educ
 
 (e)
 
-Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—An individual entitled to educational assistance under both sections 3311(b)(9) and 3319 may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
+Bar To Concurrent Receipt of Transferred Education Benefits and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—An individual entitled to educational assistance under both section 3319 and paragraph (8), (9), or (10) of section 3311 of this title may not receive assistance under both provisions concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which provision to receive educational assistance.
 
 (f)
 
-Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—The commencement of a program of education under section 3311(b)(9) shall be a bar to the following:
+Bar To Receipt of Compensation and Pension and Marine Gunnery Sergeant John David Fry Scholarship Assistance.—The commencement of a program of education under paragraph (8), (9), or (10) of section 3311 of this title shall be a bar to the following:
 
 &emsp;(1) Subsequent payments of dependency and indemnity compensation or pension based on the death of a parent to an eligible person over the age of 18 years by reason of pursuing a course in an educational institution.
 
@@ -42,13 +42,11 @@ Active-duty service.—An individual with qualifying service in the Armed Forces
 
 &emsp;(2)
 
-Eligibility for educational assistance based on parent's service.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either section 3311(b)(9) or chapter 35 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
+Eligibility for educational assistance based on parent's service.—A child of a member of the Armed Forces who, on or after September 11, 2001, dies in the line of duty while serving on active duty, who is eligible for educational assistance under either chapter 35 or paragraph (8), (9), or (10) of section 3311 of this title based on the parent's death may not receive such assistance under both this chapter and chapter 35 of this title, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter to receive such assistance.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124; Pub. L. 115–48, title I, §105(c)(6), Aug. 16, 2017, 131 Stat. 976.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2373; amended Pub. L. 111–377, title I, §111(a)–(d), title II, §202(a), Jan. 4, 2011, 124 Stat. 4120, 4121, 4124; Pub. L. 115–48, title I, §105(c)(6), Aug. 16, 2017, 131 Stat. 976; Pub. L. 116–315, title I, §1002(b)(5), Jan. 5, 2021, 134 Stat. 4938.)
 
-#### Amendment of Subsections (e), (f), and (h)(2)
-
-<i>Pub. L. 115–48, title I, §105(c)(6), (d), Aug. 16, 2017, 131 Stat. 976, 977, provided that, effective Aug. 1, 2020, subsections (e), (f), and (h)(2) of this section are amended by striking "3311(b)(9)" and inserting "3311(b)(8)". See 2017 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +55,12 @@ The Hostage Relief Act of 1980, referred to in subsecs. (a) and (d), is Pub. L. 
 Section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008, referred to in subsec. (d), is section 5003(c) of Pub. L. 110–252, which is set out as a note under section 3301 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 116–315, §1002(b)(5)(A), substituted "section 3319 and paragraph (8), (9), or (10) of section 3311 of this title" for "sections 3311(b)(8) and 3319".
+
+Subsec. (f). Pub. L. 116–315, §1002(b)(5)(B), substituted "paragraph (8), (9), or (10) of section 3311 of this title" for "section 3311(b)(8)".
+
+Subsec. (h)(2). Pub. L. 116–315, §1002(b)(5)(C), substituted "either chapter 35 or paragraph (8), (9), or (10) of section 3311" for "either section 3311(b)(8) or chapter 35".
 
 <b>2017</b>—Subsecs. (e), (f), (h)(2). Pub. L. 115–48 substituted "3311(b)(8)" for "3311(b)(9)".
 
@@ -69,6 +73,12 @@ Subsec. (f). Pub. L. 111–377, §111(b), added subsec. (f).
 Subsec. (g). Pub. L. 111–377, §111(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 111–377, §111(d), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L.115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2017 Amendment
 

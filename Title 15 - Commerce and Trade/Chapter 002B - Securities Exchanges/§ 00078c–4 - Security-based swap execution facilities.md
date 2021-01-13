@@ -94,7 +94,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 #### (A) In general
 
-&emsp;&emsp;The security-based swap execution facility shall make public timely information onprice, trading volume, and other trading data on security-based swaps to the extent prescribed by the Commission.
+&emsp;&emsp;The security-based swap execution facility shall make public timely information on price, trading volume, and other trading data on security-based swaps to the extent prescribed by the Commission.
 
 #### (B) Capacity of security-based swap execution facility
 
@@ -234,7 +234,7 @@ The Commission shall prescribe rules governing the regulation of security-based 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". SeeReferences in Text note set out under section 78a of this title.
 
 #### Effective Date
 

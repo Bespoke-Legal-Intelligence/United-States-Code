@@ -1487,13 +1487,19 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: "This subtitle \[subtitle B (§§271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification\] may be cited as the 'COVID-related Tax Relief Act of 2020'."
+
+Pub. L. 116–260, div. EE, §1(a), Dec. 27, 2020, 134 Stat. 3038, provided that: "This division \[see Tables for classification\] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2020'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: "This Act \[div. O of Pub. L. 116–94, see Tables for classification\] may be cited as the 'Setting Every Community Up for Retirement Enhancement Act of 2019'."
 
 Pub. L. 116–94, div. P, title XIII, §1301, Dec. 20, 2019, 133 Stat. 3204, provided that: "This title \[amending section 4975 of this title and section 1108 of Title 29, Labor, and enacting provisions set out as a note under section 4975 of this title\] may be cited as the 'Temporary Relief from Certain ERISA Requirements Act of 2020'."
 
-Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division \[div. Q of Pub. L. 116–94, see Tables for classification\] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
+Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division \[see Tables for classification\] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
 
 Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act \[see Tables for classification\] may be cited as the 'Taxpayer First Act'."
 
@@ -1553,9 +1559,9 @@ Pub. L. 112–96, §1(a), Feb. 22, 2012, 126 Stat. 156, provided that: "This Act
 
 Pub. L. 112–96, title II, §2001, Feb. 22, 2012, 126 Stat. 159, provided that: "This title \[enacting sections 505 and 1111 of Title 42, The Public Health and Welfare, amending sections 3304 and 3306 of this title, section 503 of Title 42, and section 352 of Title 45, Railroads, enacting provisions set out as notes under this section, sections 3304 and 3306 of this title, and sections 503 and 1111 of Title 42, amending provisions set out as notes under section 3304 of this title, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the 'Extended Benefits, Reemployment, and Program Integrity Improvement Act'."
 
-Pub. L. 112–96, title II, §2121, Feb. 22, 2012, 126 Stat. 163, provided that: "This subtitle \[subtitle B (§§2121–2124) of title II of Pub. L. 112–96, amending section 352 of Title 45, Railroads, and enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Unemployment Benefits Extension Act of 2012'."
+Pub. L. 112–96, title II, §2121, Feb. 22, 2012, 126 Stat. 163, provided that: "This subtitle \[subtitle B\(§§2121–2124) of title II of Pub. L. 112–96, amending section 352 of Title 45, Railroads, and enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Unemployment Benefits Extension Act of 2012'."
 
-Pub. L. 112–96, title II, §2160, Feb. 22, 2012, 126 Stat. 171, provided that: "This subtitle \[subtitle D (§§2160–2166) of title II of Pub. L. 112–96, amending sections 3304 and 3306 of this title and section 503 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of thistitle, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the 'Layoff Prevention Act of 2012'."
+Pub. L. 112–96, title II, §2160, Feb. 22, 2012, 126 Stat. 171, provided that: "This subtitle \[subtitle D (§§2160–2166) of title II of Pub. L. 112–96, amending sections 3304 and 3306 of this title and section 503 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 3304 and 3306 of this title, and repealing provisions set out as a note under section 3304 of this title\] may be cited as the 'Layoff Prevention Act of 2012'."
 
 Pub. L. 112–91, §1, Jan. 31, 2012, 126 Stat. 3, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title, and amending provisions set out as notes under sections 41731 and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2012'."
 
@@ -1595,9 +1601,9 @@ Pub. L. 111–226, §1, Aug. 10, 2010, 124 Stat. 2389, provided that: "This Act 
 
 Pub. L. 111–205, §1, July 22, 2010, 124 Stat. 2236, provided that: "This Act \[enacting and amending provisions set out as notes under section 3304 of this title\] may be cited as the 'Unemployment Compensation Extension Act of 2010'."
 
-Pub. L. 111–198, §1, July 2, 2010, 124 Stat. 1356, provided that: "This Act \[amending sections 36, 6103, and 6657 of this title, section 1187 of Title 8, Aliens and Nationality, and section 2131 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 36, 6103, and 6657 of this title\] may be cited as the 'Homebuyer Assistance and Improvement Act of 2010'."
+Pub. L. 111–198, §1, July 2, 2010, 124 Stat. 1356, provided that: "This Act \[amending sections 36, 6103, and6657 of this title, section 1187 of Title 8, Aliens and Nationality, and section 2131 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 36, 6103, and 6657 of this title\] may be cited as the 'Homebuyer Assistance and Improvement Act of 2010'."
 
-Pub. L. 111–197, §1, July 2, 2010, 124 Stat. 1353, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 ofTitle 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part II'."
+Pub. L. 111–197, §1, July 2, 2010, 124 Stat. 1353, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part II'."
 
 Pub. L. 111–161, §1, Apr. 30, 2010, 124 Stat. 1126, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010'."
 
@@ -1691,7 +1697,7 @@ Pub. L. 109–58, title XIII, §1300(a), Aug. 8, 2005, 119 Stat. 986, provided t
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–357, §1(a), Oct. 22, 2004, 118 Stat. 1418, provided that: "This Act \[see Tables for classification\]may be cited as the 'American Jobs Creation Act of 2004'."
+Pub. L. 108–357, §1(a), Oct. 22, 2004, 118 Stat. 1418, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Jobs Creation Act of 2004'."
 
 Pub. L. 108–311, §1(a), Oct. 4, 2004, 118 Stat. 1166, provided that: "This Act \[see Tables for classification\] may be cited as the 'Working Families Tax Relief Act of 2004'."
 
@@ -1757,7 +1763,7 @@ Pub. L. 105–2, §1(a), Feb. 28, 1997, 111 Stat. 4, provided that: "This Act \[
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–188, §1(a), Aug. 20, 1996, 110 Stat. 1755, provided that: "This Act \[see Tables for classification\]may be cited as the 'Small Business Job Protection Act of 1996'."
+Pub. L. 104–188, §1(a), Aug. 20, 1996, 110 Stat. 1755, provided that: "This Act \[see Tables for classification\] may be cited as the 'Small Business Job Protection Act of 1996'."
 
 Pub. L. 104–168, §1(a), July 30, 1996, 110 Stat. 1452, provided that: "This Act \[enacting sections 4958, 7434, 7435, and 7524 of this title, amending sections 501, 4955, 4963, 6013, 6033, 6041 to 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, 6050N, 6103, 6104, 6159, 6201, 6213, 6323, 6334, 6343, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 6685, 7122, 7213, 7422, 7430, 7433, 7454, 7502, 7608, 7609, 7623, 7802, 7805, and 7811 of this title, renumbering sections 7434 and 7435 as sections 7435 and 7436 of this title, enacting provisions set out as notes under sections 501, 4955, 6013, 6033, 6041, 6103, 6104, 6159, 6201, 6311, 6323, 6334, 6404, 6503, 6601, 6651, 6652, 6656, 6672, 7122, 7430, 7433 to 7435, 7524, 7608, 7609, 7623, 7802, 7803, 7805, and 7811 of this title, and amending provisions set out as a note under section 7608 of this title\] may be cited as the 'Taxpayer Bill of Rights 2'."
 
@@ -1801,13 +1807,13 @@ Pub. L. 101–239, title VII, §7701, Dec. 19, 1989, 103 Stat. 2388, provided th
 
 Pub. L. 100–647, §1(a), Nov. 10, 1988, 102 Stat. 3342, provided that: "This Act \[see Tables for classification\] may be cited as the 'Technical and Miscellaneous Revenue Act of 1988'."
 
-Pub. L. 100–647, title VI, §6226, Nov. 10, 1988, 102 Stat. 3730, provided that: "This subtitle \[subtitle J (§§6226–6247) of title VI of Pub. L. 100–647, enacting sections 6159, 6326, 6712, 7430, 7432, 7433, 7520, 7521, and 7811 of this title, amending sections 6213, 6214, 6331, 6332, 6334, 6335, 6343, 6404, 6512, 6601, 6673, 6863, 7216, 7429, 7481, 7482, 7802, and 7805 of this title and section 504 of Title 5, Government Organization and Employees, renumbering section 6326 as 6327, 7432 as 7433, and 7433 as 7434 of this title, and enacting provisions set out as notes under this section and sections 6159, 6213, 6214, 6326, 6331, 6404, 6512, 6673, 6712, 6863, 7429, 7430, 7432, 7520, 7521, 7605, 7801 to 7803, 7805, and 7811 of this title\] may be cited as the 'Omnibus Taxpayer Bill of Rights'."
+Pub. L. 100–647, title VI, §6226, Nov. 10, 1988, 102 Stat. 3730, provided that: "This subtitle \[subtitle J (§§6226–6247) of title VI of Pub. L. 100–647, enacting sections 6159, 6326, 6712, 7430, 7432, 7433, 7520, 7521, and 7811 of this title, amending sections 6213, 6214, 6331, 6332, 6334, 6335, 6343, 6404, 6512, 6601, 6673, 6863, 7216, 7429, 7481, 7482, 7802, and 7805 of this title and section 504 of Title 5, Government Organization and Employees, renumbering section 6326 as 6327, 7432 as 7433, and 7433 as 7434 of this title, and enacting provisions set out as notes under this section and sections 6159, 6213, 6214, 6326, 6331, 6404, 6512, 6673, 6712, 6863, 7429, 7430, 7432, 7520, 7521,7605, 7801 to 7803, 7805, and 7811 of this title\] may be cited as the 'Omnibus Taxpayer Bill of Rights'."
 
 #### Short Title of 1987 Amendment
 
 Pub. L. 100–223, title IV, §401, Dec. 30, 1987, 101 Stat. 1532, provided that: "This title \[enacting section 4283 of this title, amending sections 4041, 4261, 4271, 6427, and 9502 of this title, and enacting provisions set out as notes under sections 4041 and 4261 of this title\] may be cited as the 'Airport and Airway Revenue Act of 1987'."
 
-Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: "This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor,amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the 'Pension Protection Act'."
+Pub. L. 100–203, title IX, §9302(a), Dec. 22, 1987, 101 Stat. 1330–333, provided that: "This part \[part II (§§9302–9346) of subtitle D of part II of Pub. L. 100–203, enacting sections 1085b and 1371 of Title 29, Labor, amending sections 401, 404, 411, 412, 414, and 4971 of this title and sections 1021, 1023, 1024, 1054, 1082 to 1084, 1085a, 1086, 1103, 1107, 1113, 1132, 1201, 1301, 1305 to 1307, 1322, 1341, 1342, 1344, 1349, 1362, 1364, 1367, and 1368 of Title 29, repealing section 1349 of Title 29, and enacting provisions set out as notes under sections 401, 404, 412, and 4971 of this title and sections 1054, 1107, 1132, 1301, 1305, 1322, and 1344 of Title 29\] may be cited as the 'Pension Protection Act'."
 
 Pub. L. 100–203, title X, §10000(a), Dec. 22, 1987, 101 Stat. 1330–382, provided that: "This title \[see Tables for classification\] may be cited as the 'Revenue Act of 1987'."
 
@@ -1853,7 +1859,7 @@ Pub. L. 97–248, title IV, §401, Sept. 3, 1982, 96 Stat. 648, provided that: "
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–119, title I, §101(a), Dec. 29, 1981, 95 Stat. 1635, provided that: "This subtitle \[subtitle A (§§101–104) of title I of Pub. L. 97–119, enacting sections 9500, 9501, 9601, and 9602 of this title, amending sections 501 and 4121 of this title and sections 902, 925, 932, and 934 of Title 30, Mineral Lands and Mining, repealing section 934a of Title 30, and enacting provisions set out as notes under sections 4121 and 9501 of this title and section 934 of Title 30\] may be cited as the 'Black Lung Benefits Revenue Act of 1981'."
+Pub. L. 97–119, title I, §101(a), Dec. 29, 1981, 95 Stat. 1635, provided that: "This subtitle \[subtitle A\(§§101–104) of title I of Pub. L. 97–119, enacting sections 9500, 9501, 9601, and 9602 of this title, amending sections 501 and 4121 of this title and sections 902, 925, 932, and 934 of Title 30, Mineral Lands and Mining, repealing section 934a of Title 30, and enacting provisions set out as notes under sections 4121 and 9501 of this title and section 934 of Title 30\] may be cited as the 'Black Lung Benefits Revenue Act of 1981'."
 
 Pub. L. 97–34, §1(a), Aug. 13, 1981, 95 Stat. 172, provided that: "This Act \[see Tables for classification\] may be cited as the 'Economic Recovery Tax Act of 1981'."
 
@@ -1901,13 +1907,13 @@ Pub. L. 95–227, §1, Feb. 10, 1978, 92 Stat. 11, provided that: "This Act \[en
 
 Pub. L. 95–30, §1(a), May 23, 1977, 91 Stat. 126, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Reduction and Simplification Act of 1977'."
 
-Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: "This Act \[amending section 3304 of this title, enacting provisions set out as notes under sections 3302, 3304, and 3309 of this title, and amending provisions set out as notes under sections 3302, 3304, and 3309 of this title and sections 359 and 360 of Title 2, The Congress\] may be cited as the 'Emergency Unemployment Compensation Extension Act of 1977'."
+Pub. L. 95–19, §1, Apr. 12, 1977, 91 Stat. 39, provided that: "This Act \[amending section 3304 of this title, enacting provisions set out as notes under sections 3302, 3304, and 3309 of this title, and amending provisions set out as notes under sections 3302, 3304, and 3309 of this title and sections 359 and 360 of Title 2, The Congress\]may be cited as the 'Emergency Unemployment Compensation Extension Act of 1977'."
 
 #### Short Title of 1976 Amendment
 
 Pub. L. 94–455, title I, §101, Oct. 4, 1976, 90 Stat. 1525, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Reform Act of 1976'."
 
-Pub. L. 94–452, §1, Oct. 2, 1976, 90 Stat. 1503, provided that: "This Act \[enacting section 6158 of this title, amending sections 311, 1101, 1102, 1103, 6151, 6503, and 6601 of this title, and enacting provisions set out asnotes under sections 311, 1101, and 6158 of this title\] may be cited as the 'Bank Holding Company Tax Act of 1976'."
+Pub. L. 94–452, §1, Oct. 2, 1976, 90 Stat. 1503, provided that: "This Act \[enacting section 6158 of this title, amending sections 311, 1101, 1102, 1103, 6151, 6503, and 6601 of this title, and enacting provisions set out as notes under sections 311, 1101, and 6158 of this title\] may be cited as the 'Bank Holding Company Tax Act of 1976'."
 
 #### Short Title of 1975 Amendment
 
@@ -1977,7 +1983,7 @@ Pub. L. 87–834, §1(a), Oct. 16, 1962, 76 Stat. 960, provided that: "This Act 
 
 For short title of Pub. L. 87–792 as the "Self-Employed Individuals Tax Retirement Act of 1962", see section 1 of Pub. L. 87–792, set out as a note under section 401 of this title.
 
-Pub. L. 87–508, §1, June 28, 1962, 76 Stat. 114, provided: "That this Act \[amending sections 11, 821, 4061, 4251 to 4253, 4261 to 4264, 5001, 5002, 5041, 5051, 5063, 5701, 6707, 6412, 6416, and 6421 of this title, enacting provisions set out as notes under section 4261, 6416, and 6421 of this title, and amending provisions set out as a note under section 5701 of this title\] may be cited as the 'Tax Rate Extension Act of 1962'."
+Pub. L. 87–508, §1, June 28, 1962, 76 Stat. 114, provided: "That this Act \[amending sections 11, 821, 4061, 4251 to 4253, 4261 to 4264, 5001, 5002, 5041, 5051, 5063, 5701, 6707, 6412, 6416, and 6421 of this title, enacting provisions setout as notes under section 4261, 6416, and 6421 of this title, and amending provisions set out as a note under section 5701 of this title\] may be cited as the 'Tax Rate Extension Act of 1962'."
 
 #### Short Title of 1961 Amendment
 
@@ -2364,6 +2370,8 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sen
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+<b>2021</b>—Revenue Procedure 2020–45.
 
 <b>2020</b>—Revenue Procedure 2019–44.
 

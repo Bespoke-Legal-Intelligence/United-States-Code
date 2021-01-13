@@ -34,6 +34,8 @@ The purposes of the Fund shall be—
 
 (Pub. L. 107–228, div. A, title VI, §664, Sept. 30, 2002, 116 Stat. 1406.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (c)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -42,13 +44,15 @@ The Foreign Assistance Act of 1961, referred to in subsec. (c)(1), is Pub. L. 87
 
 Section was enacted as part of the Freedom Investment Act of 2002, and also as part of the Department of State Authorization Act, Fiscal Year 2003 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purposes
 
-Pub. L. 107–228, div. A, title VI, §662, Sept. 30, 2002, 116 Stat. 1405, provided that: "The purposes of this subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L.107–228, see Short Title of 2002 Amendments note set out under section 2151 of this title\] are the following:
+Pub. L. 107–228, div. A, title VI, §662, Sept. 30, 2002, 116 Stat. 1405, provided that: "The purposes of this subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L. 107–228, see Short Title of 2002 Amendments note set out under section 2151 of this title\] are the following:
 
 &emsp;"(1) To underscore that promoting and protecting human rights is in the national interests of the United States and is consistent with American values and beliefs.
 
-&emsp;"(2) To establish a goal of devoting one percent of the funds available to the Department under 'Diplomatic and Consular Programs', other than such funds that will be made available for worldwide security upgrades and information resource management, to enhance the ability of the United States to promote respect for human rights and the protection of human rights defenders."
+&emsp;"(2) To establish a goal of devoting one percent of the funds available to the Department under 'Diplomatic and Consular Programs', other than such funds that will be made available for worldwide securityupgrades and information resource management, to enhance the ability of the United States to promote respect for human rights and the protection of human rights defenders."
 
 \[For definition of "Department" as used in section 662 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

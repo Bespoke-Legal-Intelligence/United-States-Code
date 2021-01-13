@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the appropriate State air pollution control agency has certified to the Administrator of the Environmental Protection Agency that such device is needed to meet, and is in conformity with, State requirements for abatement or control of atmospheric pollution or contamination;
 
-&emsp;&emsp;(C) the Administrator of the Environmental Protection Agency has certified tothe Secretary as not duplicating or displacing existing air pollution control devices with a remaining useful economic life in excess of 2 years and as otherwise being in furtherance of the requirements and purposes of the Clean Air Act \[42 U.S.C. 7401 et seq.\];
+&emsp;&emsp;(C) the Administrator of the Environmental Protection Agency has certified to the Secretary as not duplicating or displacing existing air pollution control devices with a remaining useful economic life in excess of 2 years and as otherwise being in furtherance of the requirements and purposes of the Clean Air Act \[42 U.S.C. 7401 et seq.\];
 
 &emsp;&emsp;(D) does not constitute or include a building, or a structural component of a building, other than a building used exclusively for the purposes set forth in subparagraph (A); and
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (e) Records
 
-(1) The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of theproject or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
 

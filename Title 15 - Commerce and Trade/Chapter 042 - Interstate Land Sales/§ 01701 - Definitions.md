@@ -8,7 +8,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(3) "subdivision" means any land which is located in any State or in a foreign country and is divided or is proposed to be divided into lots, whether contiguous or not, for the purpose of sale or lease as part of a common promotional plan;
 
-&emsp;(4) "common promotional plan" means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land is contiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
+&emsp;(4) "common promotional plan" means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land iscontiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
 
 &emsp;(5) "developer" means any person who, directly or indirectly, sells or leases, or offers to sell or lease, or advertises for sale or lease any lots in a subdivision;
 

@@ -110,7 +110,7 @@ One-year Prohibition.—
 
 &emsp;"(1)
 
-Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the one-year period beginning on the date of retirement or separation from service in the Armed Forces or thedate of retirement or separation from service with the Department, as applicable.
+Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the one-year period beginning on the date of retirement or separation from service in the Armed Forces or the date of retirement or separation from service with the Department, as applicable.
 
 &emsp;"(2)
 

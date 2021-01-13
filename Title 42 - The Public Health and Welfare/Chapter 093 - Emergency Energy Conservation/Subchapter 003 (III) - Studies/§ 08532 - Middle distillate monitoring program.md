@@ -8,7 +8,7 @@
 
 &emsp;(A) the prompt collection of relevant demand and supply data under the authority available to the Secretary under other law; and
 
-&emsp;(B) the submission to Congress of periodic reports each containing a concise narrative analysis of the most recent data which the Secretary determines are accurate, and a discussion on a State-by-State basis of trends in such data which the Secretary determines are significant.
+&emsp;(B) the submission to Congress of periodic reports each containing a concise narrative analysis of the most recent data which the Secretary determines are accurate, and a discussion on a State-by-State basis of trends insuch data which the Secretary determines are significant.
 
 (3) All data and information collected under this program shall be available to the Congress and committees of the Congress, and, in accordance with otherwise applicable law, to appropriate State and Federal agencies and the public.
 

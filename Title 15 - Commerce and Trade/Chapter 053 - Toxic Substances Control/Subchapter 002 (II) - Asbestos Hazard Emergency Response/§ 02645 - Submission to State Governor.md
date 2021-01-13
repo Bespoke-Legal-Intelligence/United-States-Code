@@ -62,7 +62,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (2) Notification and public meeting
 
-&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school,and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
+&emsp;Before filing a deferral request under paragraph (1), a local educational agency shall notify affected parent, teacher, and employee organizations of its intent to file such a request. In the case of a deferral request for a public school, the local educational agency shall discuss the request at a public meeting of the school board with jurisdiction over the school, and affected parent, teacher, and employee organizations shall be notified in advance of the time and place of such meeting.
 
 #### (3) Response by Governor
 

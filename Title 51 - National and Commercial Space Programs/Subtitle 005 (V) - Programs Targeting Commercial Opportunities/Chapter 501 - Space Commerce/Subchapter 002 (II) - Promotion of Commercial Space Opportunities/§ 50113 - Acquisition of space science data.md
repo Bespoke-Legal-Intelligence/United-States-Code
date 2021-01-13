@@ -44,9 +44,13 @@ Historical and Revision Notes
 
 Pub. L. 105–303, title I, §105, Oct. 28, 1998, 112 Stat. 2852.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "Commercial Product or Commercial Service" for "Commercial Item" in heading and "commercial product or commercial service" for "commercial item" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

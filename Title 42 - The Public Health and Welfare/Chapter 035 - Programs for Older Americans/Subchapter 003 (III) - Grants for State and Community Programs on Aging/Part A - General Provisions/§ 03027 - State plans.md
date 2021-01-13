@@ -16,7 +16,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(B) develop a standardized process to determine the extent to which public or private programs and resources (including volunteers and programs and services of voluntary organizations) that have the capacity and actually meet such need;
 
-&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each ofthe categories of services specified in section 3026(a)(2) of this title.
+&emsp;&emsp;(C) specify a minimum proportion of the funds received by each area agency on aging in the State to carry out part B that will be expended (in the absence of a waiver under section 3026(c) or 3030c–3 of this title) by such area agency on aging to provide each of the categories of services specified in section 3026(a)(2) of this title.
 
 &emsp;(3) The plan shall—
 
@@ -64,13 +64,17 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(C) The plan may specify that an area agency on aging is allowed to directly provide information and assistance services and outreach.
 
-&emsp;(9) The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI for fiscal year 2000.
+&emsp;(9) The plan shall provide assurances that—
+
+&emsp;&emsp;(A) the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than the amount expended by the State agency with funds received under this subchapter for fiscal year 2019, and an amount that is not less than the amount expended by the State agency with funds received under subchapter VII for fiscal year 2019; and
+
+&emsp;&emsp;(B) funds made available to the State agency pursuant to section 3058g of this title shall be used to supplement and not supplant other Federal, State, and local funds expended to support activities described in section 3058g of this title.
 
 &emsp;(10) The plan shall provide assurances that the special needs of older individuals residing in rural areas will be taken into consideration and shall describe how those needs have been met and describe how funds have been allocated to meet those needs.
 
 &emsp;(11) The plan shall provide that with respect to legal assistance—
 
-&emsp;&emsp;(A) the plan contains assurances that area agencies on aging will (i) enter into contracts with providers of legal assistance which can demonstrate the experience or capacity to deliver legal assistance; (ii) include in any such contract provisions to assure that any recipient of funds under division (i) will be subject to specific restrictions and regulations promulgated under theLegal Services Corporation Act \[42 U.S.C. 2996 et seq.\] (other than restrictions and regulations governing eligibility for legal assistance under such Act and governing membership of local governing boards) as determined appropriate by the Assistant Secretary; and (iii) attempt to involve the private bar in legal assistance activities authorized under this subchapter, including groups within the private bar furnishing services to older individuals on a pro bono and reduced fee basis;
+&emsp;&emsp;(A) the plan contains assurances that area agencies on aging will (i) enter into contracts with providers of legal assistance which can demonstrate the experience or capacity to deliver legal assistance; (ii) include in any such contract provisions to assure that any recipient of funds under division (i) will be subject to specific restrictions and regulations promulgated under the Legal Services Corporation Act \[42 U.S.C. 2996 et seq.\] (other than restrictions and regulations governing eligibility for legal assistance under such Act and governing membership of local governing boards) as determined appropriate by the Assistant Secretary; and (iii) attempt to involve the private bar in legal assistance activities authorized under this subchapter, including groups within the private bar furnishing services to older individuals on a pro bono and reduced fee basis;
 
 &emsp;&emsp;(B) the plan contains assurances that no legal assistance will be furnished unless the grantee administers a program designed to provide legal assistance to older individuals with social or economic need and has agreed, if the grantee is not a Legal Services Corporation project grantee, to coordinate its services with existing Legal Services Corporation projects in the planning and service area in order to concentrate the use of funds provided under this subchapter on individuals with the greatest such need; and the area agency on aging makes a finding, after assessment, pursuant to standards for service promulgated by the Assistant Secretary, that any grantee selected is the entity best able to provide the particular services;
 
@@ -164,11 +168,9 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(25) The plan shall include assurances that the State has in effect a mechanism to provide for quality in the provision of in-home services under this subchapter.
 
-&emsp;(26) The plan shall provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.
+&emsp;(26) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
 
-&emsp;(27) The plan shall provide assurances that area agencies on aging will provide, to the extent feasible, for the furnishing of services under this chapter, consistent with self-directed care.
-
-&emsp;(28)(A) The plan shall include, at the election of the State, an assessment of how prepared the State is, under the State's statewide service delivery model, for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
+&emsp;(27)(A) The plan shall include, at the election of the State, an assessment of how prepared the State is, under the State's statewide service delivery model, for any anticipated change in the number of older individuals during the 10-year period following the fiscal year for which the plan is submitted.
 
 &emsp;(B) Such assessment may include—
 
@@ -176,19 +178,27 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(ii) an analysis of how such change may affect such individuals, including individuals with low incomes, individuals with greatest economic need, minority older individuals, older individuals residing in rural areas, and older individuals with limited English proficiency;
 
-&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State canbe improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
+&emsp;&emsp;(iii) an analysis of how the programs, policies, and services provided by the State can be improved, including coordinating with area agencies on aging, and how resource levels can be adjusted to meet the needs of the changing population of older individuals in the State; and
 
 &emsp;&emsp;(iv) an analysis of how the change in the number of individuals age 85 and older in the State is expected to affect the need for supportive services.
 
-&emsp;(29) The plan shall include information detailing how the State will coordinate activities, and develop long-range emergency preparedness plans, with area agencies on aging, local emergency response agencies, relief organizations, local governments, State agencies responsible for emergency preparedness, and any other institutions that have responsibility for disaster relief service delivery.
+&emsp;(28) The plan shall include information detailing how the State will coordinate activities, and develop long-range emergency preparedness plans, with area agencies on aging, local emergency response agencies, relief organizations, local governments, State agencies responsible for emergency preparedness, and any other institutions that have responsibility for disaster relief service delivery.
 
-&emsp;(30) The plan shall include information describing the involvement of the head of the State agency in the development, revision, and implementation of emergency preparedness plans, including the State Public Health Emergency Preparedness and Response Plan.
+&emsp;(29) The plan shall include information describing the involvement of the head of the State agency in the development, revision, and implementation of emergency preparedness plans, including the State Public Health Emergency Preparedness and Response Plan.
+
+&emsp;(30) The plan shall contain an assurance that the State shall prepare and submit to the Assistant Secretary annual reports that describe—
+
+&emsp;&emsp;(A) data collected to determine the services that are needed by older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019;
+
+&emsp;&emsp;(B) data collected to determine the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting such individuals; and
+
+&emsp;&emsp;(C) outreach efforts and other activities carried out to satisfy the assurances described in paragraphs (18) and (19) of section 3026(a) of this title.
 
 #### (b) Approval by Assistant Secretary; waiver of requirements
 
 (1) The Assistant Secretary shall approve any State plan which the Assistant Secretary finds fulfills the requirements of subsection (a), except the Assistant Secretary may not approve such plan unless the Assistant Secretary determines that the formula submitted under section 3025(a)(2)(D) of this title complies with the guidelines in effect under section 3025(a)(2)(C) of this title.
 
-(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) if the State agency demonstrates to the Assistant Secretary that the service needs of older individuals residing in rural areas in the State are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
+(2) The Assistant Secretary, in approving any State plan under this section, may waive the requirement described in paragraph (3)(B) of subsection (a) if the State agency demonstrates to the Assistant Secretary that the service needs of older individuals residing in rural areas in theState are being met, or that the number of older individuals residing in such rural areas is not sufficient to require the State agency to comply with such requirement.
 
 #### (c) Notice and hearing prior to disapproval
 
@@ -222,7 +232,7 @@ Whenever the Assistant Secretary, after reasonable notice and opportunity for a 
 
 Neither a State, nor a State agency, may require any provider of legal assistance under this subchapter to reveal any information that is protected by the attorney-client privilege.
 
-(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292; Pub. L. 109–365, title III, §307, Oct. 17, 2006, 120 Stat. 2544; Pub. L. 114–144, §4(e), Apr. 19, 2016, 130 Stat. 339.)
+(Pub. L. 89–73, title III, §307, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1524; amended Pub. L. 97–115, §§3(d), 7, Dec. 29, 1981, 95 Stat. 1597, 1598; Pub. L. 98–459, title III, §307, Oct. 9, 1984, 98 Stat. 1775; Pub. L. 100–175, title I, §§128, 129(d), (e), 130(b), 131(b), 132(c), 136(c), 137(b), 138, 140(c), 141(c), 142, 144(d), 155(e)(2), 182(k), Nov. 29, 1987, 101 Stat. 934, 935, 938–940, 943, 944, 946, 947, 949, 953, 965; Pub. L. 100–628, title VII, §705(6), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(4), (5), (10)(A), (C), (E), (F), title III, §307, title VII, §708(c)(4), title IX, §904(a)(13), Sept. 30, 1992, 106 Stat. 1201, 1202, 1228, 1293, 1308; Pub. L. 103–171, §§2(9), 3(a)(5), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §306, title VIII, §801(c)(4), Nov. 13, 2000, 114 Stat. 2242, 2292; Pub. L. 109–365, title III, §307, Oct. 17, 2006, 120 Stat. 2544; Pub. L. 114–144, §4(e), Apr. 19, 2016, 130 Stat. 339; Pub. L. 116–131, title I, §118(c), title II, §§206(2), 207(b), Mar. 25, 2020, 134 Stat. 247, 256, 257.)
 
 #### References in Text
 
@@ -235,6 +245,14 @@ A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–2
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to section 3025 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(9). Pub. L. 116–131, §206(2), amended par. (9) generally. Prior to amendment, text read as follows: "The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter, and will expend for such purpose an amount that is not less than an amount expended by the State agency with funds received under this subchapter for fiscal year 2000, and an amount that is not less than the amount expended by the State agency with funds received under subchapter XI for fiscal year 2000.".
+
+Subsec. (a)(26). Pub. L. 116–131, §118(c), redesignated former par. (27) as (26) and struck out former par. (26), which read as follows: "The plan shall provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the State agency or an area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter.".
+
+Subsec. (a)(27) to (29). Pub. L. 116–131, §118(c), redesignated former pars. (28) to (30) as (27) to (29), respectively. Former par. (27) redesignated (26).
+
+Subsec. (a)(30). Pub. L. 116–131, §207(b), added par. (30). Former par. (30) redesignated (29).
 
 <b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–144 substituted "3012(a)(26)" for "3012(a)(29)".
 
@@ -438,7 +456,7 @@ Subsec. (a)(18). Pub. L. 102–375, §307(j), inserted "(one of whom shall be kn
 
 Subsec. (a)(20)(A). Pub. L. 102–375, §708(c)(4), substituted "section 3026(a)(2)(A) of this title" for "sections 3026(a)(2)(A) and 3026(a)(6)(P) of this title".
 
-Subsec. (a)(21). Pub. L. 102–375, §307(k), amended par. (21) generally. Prior to amendment, par. (21) read as follows: "The State plan shall provide that the State agency, from funds allotted under section 3024(a) of this title for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) as in effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands."
+Subsec. (a)(21). Pub. L. 102–375, §307(k), amended par. (21) generally. Prior to amendment, par. (21) read as follows: "The State plan shall provide that the State agency, from funds allotted under section 3024(a) of this title for part B of this subchapter and for paragraph (12) (relating to the State long-term care ombudsman) shall expend to carry out paragraph (12), for each fiscal year in which the allotment for part B of this subchapter for the State is not less than the allotment for fiscal year 1987 for part B of this subchapter for such State, an amount which is not less than the amount expended from funds received under this chapter by such State in fiscal year 1987 to carry out paragraph (12) asin effect before the effective date of the Older Americans Act Amendments of 1987. This paragraph shall not apply to American Samoa, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands."
 
 Subsec. (a)(22). Pub. L. 102–375, §102(b)(10)(E), substituted "area agency on aging" for "area agency" in two places.
 
@@ -600,7 +618,7 @@ Amendment by sections 307 and 708(c)(4) of Pub. L. 102–375 inapplicable with r
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any Stateplan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

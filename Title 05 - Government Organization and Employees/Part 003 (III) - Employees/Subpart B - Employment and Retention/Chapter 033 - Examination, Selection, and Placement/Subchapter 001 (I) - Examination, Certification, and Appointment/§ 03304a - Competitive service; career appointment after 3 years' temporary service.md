@@ -18,6 +18,8 @@
 
 (Added Pub. L. 90–105, §1(a), Oct. 11, 1967, 81 Stat. 273; amended Pub. L. 91–375, §6(c)(6), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1441.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–509, which directed the substitution of "in a position classified above GS–15 pursuant to section 5108)" for "in GS–16, 17, or 18)", was executed by making the substitution for "in GS–16, GS–17, or GS–18)", as the probable intent of Congress.
@@ -27,6 +29,8 @@
 Subsec. (d). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–375 struck out ", in the postal field service," after "limited appointment" in introductory parenthetical text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -48,5 +52,5 @@ Pub. L. 90–105, §4, Oct. 11, 1967, 81 Stat. 274, provided that:
 
 "(b) Subject to subsection (c) of this section, the first section and section 2 of this Act \[enacting this section and section 3303 of former Title 39, The Postal Service\] shall become effective on the one hundred and twentieth day following the date of enactment of this Act \[Oct. 11, 1967\].
 
-"(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted by this Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall be deemed to have completed such 3-year period on such effective date."
+"(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted by this Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall bedeemed to have completed such 3-year period on such effective date."
 

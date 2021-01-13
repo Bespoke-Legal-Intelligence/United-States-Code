@@ -34,6 +34,8 @@ In subsection (c), the words "within a reasonable time" are substituted for "wit
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 558 of former Title 5, Executive Departments and Government Officers and Employees, was transferred to section 2209 of Title 7, Agriculture.

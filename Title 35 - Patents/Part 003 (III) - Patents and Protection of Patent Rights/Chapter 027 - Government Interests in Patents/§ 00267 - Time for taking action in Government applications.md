@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §37 (R.S. 4894, amended (1) Mar. 3, 1897, 
 
 This provision, which appears as the last two sentences of the corresponding section of the present statute (see note to section 133) is made a separate section and rewritten in simpler form.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29 struck out "of this title" after "151".
@@ -17,6 +19,8 @@ This provision, which appears as the last two sentences of the corresponding sec
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

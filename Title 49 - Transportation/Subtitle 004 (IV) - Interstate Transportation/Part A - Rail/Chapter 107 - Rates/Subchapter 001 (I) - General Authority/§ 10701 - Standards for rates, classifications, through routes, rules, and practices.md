@@ -2,7 +2,7 @@
 
 (a) A through route established by a rail carrier must be reasonable. Divisions of joint rates by rail carriers must be made without unreasonable discrimination against a participating carrier and must be reasonable.
 
-(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part may not discriminate in its rates against a connecting line of another rail carrier providingtransportation subject to the jurisdiction of the Board under this part or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
+(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part may not discriminate in its rates against a connecting line of another rail carrier providing transportation subject to the jurisdiction of the Board under this part or unreasonably discriminate against that line in the distribution of traffic that is not routed specifically by the shipper.
 
 (c) Except as provided in subsection (d) of this section and unless a rate is prohibited by a provision of this part, a rail carrier providing transportation subject to the jurisdiction of the Board under this part may establish any rate for transportation or other service provided by the rail carrier.
 

@@ -22,7 +22,7 @@ Any Federal officer or agency, with respect to any certificate, permit, right-of
 
 #### (e) Appropriate terms and conditions
 
-Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified inthe President's decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency's authority under subsection (d) of this section.
+Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President's decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency's authority under subsection (d) of this section.
 
 (Pub. L. 94–586, §9, Oct. 22, 1976, 90 Stat. 2912.)
 

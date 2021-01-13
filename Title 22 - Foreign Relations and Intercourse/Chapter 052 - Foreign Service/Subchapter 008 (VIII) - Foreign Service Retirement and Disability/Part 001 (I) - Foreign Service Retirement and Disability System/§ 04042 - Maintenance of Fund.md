@@ -1,8 +1,10 @@
 ### §4042. Maintenance of Fund
 
-The Secretary of the Treasury shall maintain the special fund known as the Foreign ServiceRetirement and Disability Fund (hereinafter in this part referred to as the "Fund"), originally created by section 18 of the Act of May 24, 1924 (43 Stat. 144).
+The Secretary of the Treasury shall maintain the special fund known as the Foreign Service Retirement and Disability Fund (hereinafter in this part referred to as the "Fund"), originally created by section 18 of the Act of May 24, 1924 (43 Stat. 144).
 
 (Pub. L. 96–465, title I, §802, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §402(a)(2), June 6, 1986, 100 Stat. 609.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–335 substituted "part" for "subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -70,6 +70,8 @@ Award Competitions.—Activities of clinical and scientific investigation at eac
 
 (Added Pub. L. 109–461, title II, §209(a)(1), Dec. 22, 2006, 120 Stat. 3413.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -77,6 +79,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92
 #### Codification
 
 A substantially identical section enacted by Pub. L. 109–444, §6(a)(1), Dec. 21, 2006, 120 Stat. 3308, was repealed by Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

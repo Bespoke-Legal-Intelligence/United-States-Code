@@ -34,7 +34,7 @@ Submission of subscriber lists to networks.—
 
 &emsp;&emsp;&emsp;(i)
 
-Initial lists.—A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall,not later than 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and address, including street or rural route number, city, State, and 9-digit zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission to subscribers in unserved households.
+Initial lists.—A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, not later than 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and address, including street or rural route number, city, State, and 9-digit zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission to subscribers in unserved households.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -46,7 +46,7 @@ Use of subscriber information.—Subscriber information submitted by a satellite
 
 &emsp;&emsp;&emsp;(iv)
 
-Applicability.—The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
+Applicability.—The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying thename and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
 
 &emsp;(3)
 
@@ -104,7 +104,7 @@ Exemption.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—For purposes of this subsection, and subject to clauses (ii) and (iii), the term "unserved household" shall include—
+In general.—For purposes of this subsection, and subject to clauses (ii) and (iii),the term "unserved household" shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) recreational vehicles as defined in regulations of the Secretary of Housing and Urban Development under section 3282.8 of title 24, Code of Federal Regulations; and
 
@@ -174,7 +174,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;(2)
 
-Verification of accounts and fee payments.—The Register of Copyrights shall issue regulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection.
+Verification of accounts and fee payments.—The Register of Copyrights shall issueregulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection.
 
 &emsp;(3)
 
@@ -242,7 +242,7 @@ Public notice of fees.—Upon receiving a request under subclause (I), the Copyr
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
-Adoption of fees.—The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
+Adoption of fees.—The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement forall satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
 
 &emsp;&emsp;(E)
 
@@ -304,7 +304,7 @@ Network station.—The term "network station" means—
 
 &emsp;(3)
 
-Primary network station.—The term "primary network station" means a network station that broadcasts or rebroadcasts the basic programming service of a particular national network.
+Primary network station.—The term "primary network station" means a networkstation that broadcasts or rebroadcasts the basic programming service of a particular national network.
 
 &emsp;(4)
 
@@ -380,7 +380,7 @@ Local-into-local service to all dmas.—The term "local-into-local service to al
 
 &emsp;(16)
 
-Short market.—The term "short market" means a local market in which programming of one or more of the four most widely viewed television networks nationwide is notoffered on either the primary stream or multicast stream transmitted by any network station in that market or is temporarily or permanently unavailable as a result of an act of god <sup>2</sup> or other force majeure event beyond the control of the carrier.
+Short market.—The term "short market" means a local market in which programming of one or more of the four most widely viewed television networks nationwide is not offered on either the primary stream or multicast stream transmitted by any network station in that market or is temporarily or permanently unavailable as a result of an act of god <sup>2</sup> or other force majeure event beyond the control of the carrier.
 
 (e)
 
@@ -528,7 +528,7 @@ Compliance.—Upon motion filed by an aggrieved copyright owner, the court recog
 
 &emsp;&emsp;&emsp;(vii)
 
-Oversight.—During the period of time that the special master is conducting an examination under this subparagraph, the Comptroller General shall monitor the degree to which the entity seeking to be recognized or recognized as a qualified carrier under paragraph (3) is complying with the special master's examination. The qualified carrier shall make available to the Comptroller General all records and individuals that the Comptroller General considers necessary to meet the Comptroller General's obligations under this clause. The Comptroller General shall report the results of the monitoring required by this clause to the Committees on the Judiciary and on Energy and Commerce of the House of Representatives and the Committees on the Judiciary and on Commerce, Science,and Transportation of the Senate at intervals of not less than six months during such period.
+Oversight.—During the period of time that the special master is conducting an examination under this subparagraph, the Comptroller General shall monitor the degree to which the entity seeking to be recognized or recognized as a qualified carrier under paragraph (3) is complying with the special master's examination. The qualified carrier shall make available to the Comptroller General all records and individuals that the Comptroller General considers necessary to meet the Comptroller General's obligations under this clause. The Comptroller General shall report the results of the monitoring required by this clause to the Committees on the Judiciary and on Energy and Commerce of the House of Representatives and the Committees on the Judiciary and on Commerce, Science, and Transportation of the Senate at intervals of not less than six months during such period.
 
 &emsp;&emsp;(C)
 
@@ -544,7 +544,7 @@ Pleading requirement.—In any motion brought under subparagraph (D), the party 
 
 &emsp;&emsp;(F)
 
-Burden of proof.—In any proceeding to make a determination under subparagraph (D), and with respect to a designated market area for which failure to provide service is alleged, the entity recognized as a qualified carrier shall have the burden of proving that the entity provided local-into-local service with a good quality satellite signal to at least 90 percent of the households in such designated market area (based on the most recent census data released by the United States Census Bureau) at the time and place alleged.
+Burden of proof.—In any proceeding to make a determination under subparagraph (D), and with respect to a designated market area for which failure to provide service is alleged, the entity recognized as aqualified carrier shall have the burden of proving that the entity provided local-into-local service with a good quality satellite signal to at least 90 percent of the households in such designated market area (based on the most recent census data released by the United States Census Bureau) at the time and place alleged.
 
 &emsp;(5)
 
@@ -590,6 +590,8 @@ Good quality satellite signal defined.—The term "good quality satellite signal
 
 (Added Pub. L. 100–667, title II, §202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, §5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, §2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, §5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, §1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §§1004–1007, 1008(b), 1011(b)(2), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, §5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX \[title I, §§101(b)–105, 107(a), 108, 111(a)\], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, §4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, §209(a)(4), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–118, div. B, §1003(a)(1), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(a)(1), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(a)(1), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(a)(1), Apr. 15, 2010, 124 Stat. 1118; Pub. L. 111–175, title I, §§102(a)(1), (b)–(k), 105, May 27, 2010, 124 Stat. 1219–1226, 1239; Pub. L. 111–295, §6(c), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 113–200, title II, §§201(2), 202(a), Dec. 4, 2014, 128 Stat. 2066; Pub. L. 116–94, div. P, title XI, §1102(a), (c)(1), Dec. 20, 2019, 133 Stat. 3201, 3203.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. Sections 338, 339, 342, and 397 of the Act are classified to sections 338, 339, 342, and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
@@ -604,7 +606,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(3)(A)(iii), are
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–94, §1102(c)(1)(A)(i), substituted "paragraphs (3), (4), and (6)" for "paragraphs (4), (5), and (7)".
 
-Subsec. (a)(2)(A). Pub. L. 116–94, §1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted "paragraphs (3), (4), (5), and (6)" for "paragraphs (4), (5), (6), and (7)" and "signals," for "signals, and", inserted ", and the carrier provides local-into-local service to all DMAs" after "receiving the secondary transmission", and inserted at end "Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+Subsec. (a)(2)(A). Pub. L. 116–94, §1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted "paragraphs (3), (4), (5), and (6)" for "paragraphs (4), (5), (6), and (7)" and "signals," for "signals, and", inserted ", and the carrier provides local-into-local service to all DMAs" after "receiving the secondary transmission", and inserted at end "Failure to reach an agreement with a network station to retransmit the signals of the station shall not beconstrued to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
 
 Subsec. (a)(2)(B)(ii), (iii). Pub. L. 116–94, §1102(a)(1)(A)(ii), added cl. (ii) and struck out former cls. (ii) and (iii) which related to accurate determinations of eligibility and C-band exemption to unserved households, respectively.
 
@@ -658,7 +660,7 @@ Subsec. (d)(13) to (16). Pub. L. 116–94, §1102(a)(3)(B)–(D), redesignated p
 
 Subsec. (e). Pub. L. 116–94, §1102(a)(4), (6), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999."
 
-Subsec. (f). Pub. L. 116–94, §1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted "subsection (a)(5)(B)" for "subsection (a)(7)(B)" in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 116–94, §1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted "subsection\(a)(5)(B)" for "subsection (a)(7)(B)" in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
 
 Subsec. (g). Pub. L. 116–94, §1102(a)(6), redesignated subsec. (g) as (f).
 
@@ -828,7 +830,7 @@ Pub. L. 111–175, §102(b)(2), added par. (14).
 
 Subsec. (d)(15). Pub. L. 111–175, §102(f)(5), added par. (15).
 
-Subsec. (e). Pub. L. 111–175, §102(j), (k)(1), substituted "December 31, 2014" for "May 31, 2010" and ", Code of Federal Regulations" for "of the Code of Federal Regulations".
+Subsec. (e). Pub. L. 111–175, §102(j), (k)(1), substituted "December 31, 2014" for "May 31, 2010" and ", Code ofFederal Regulations" for "of the Code of Federal Regulations".
 
 Pub. L. 111–157, §9(a)(1)(B), substituted "May 31, 2010" for "April 30, 2010".
 
@@ -906,7 +908,7 @@ Subsec. (b)(4)(A). Pub. L. 108–447, §107(a)(2), struck out "for private home 
 
 Pub. L. 108–419, §5(g)(2)(A), substituted "Copyright Royalty Judges" for "Librarian of Congress" in two places.
 
-Subsec. (b)(4)(B), (C). Pub. L. 108–419, §5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties of Copyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
+Subsec. (b)(4)(B), (C). Pub. L. 108–419, §5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties ofCopyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
 
 Subsec. (c). Pub. L. 108–447, §103(5), amended heading and text of subsec. (c) generally. Prior to amendment, text related to adjustment, determination, arbitration, and reduction of royalty fees.
 
@@ -976,7 +978,7 @@ Subsec. (a)(4). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(C)\], in
 
 Subsec. (a)(5)(E). Pub. L. 106–113, §1000(a)(9) \[title I, §1005(b)\], added subpar. (E).
 
-Subsec. (a)(6). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(D)\], inserted "performance or display of a work embodied in" after "by a satellite carrier of" and struck out "and embodying a performance or display of a work" after "network station".
+Subsec. (a)(6). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(D)\], inserted "performance or display of awork embodied in" after "by a satellite carrier of" and struck out "and embodying a performance or display of a work" after "network station".
 
 Subsec. (a)(8)(C)(ii). Pub. L. 106–44 substituted "within the network station's" for "within the network's station" in first sentence.
 
@@ -1084,6 +1086,8 @@ Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note under section 111 of this title.
@@ -1130,7 +1134,7 @@ In General.—Except as provided in subsections (b) and (d), this Act \[amending
 
 "(b)
 
-Burden of Proof Provisions.—The provisions of section 119(a)(5)(D) of title 17, United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service as an unserved household before the date of the enactment of this Act.
+Burden of Proof Provisions.—The provisions of section 119(a)(5)(D) of title 17, United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service asan unserved household before the date of the enactment of this Act.
 
 "(c)
 

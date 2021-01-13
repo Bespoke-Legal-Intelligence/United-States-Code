@@ -64,7 +64,7 @@ Miccosukee reserved area; mra.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled 'Miccosukee Reserved Area' numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
+In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled 'Miccosukee Reserved Area' numberedNPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
 
 &emsp;&emsp;"(B)
 
@@ -76,7 +76,7 @@ Park.—The term 'Park' means the Everglades National Park, including any additi
 
 &emsp;"(6)
 
-Permit.—The term 'permit', unless otherwise specified, means any federally issued permit, license,certificate of public convenience and necessity, or other permission of any kind.
+Permit.—The term 'permit', unless otherwise specified, means any federally issued permit, license, certificate of public convenience and necessity, or other permission of any kind.
 
 &emsp;"(7)
 
@@ -208,7 +208,7 @@ Water quality standards.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than 12 months after the date of the enactment of this Act \[Oct.30, 1998\], the Tribe shall adopt and comply with water quality standards within the MRA that are at least as protective as the water quality standards for the area encompassed by Everglades National Park approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
+In general.—Not later than 12 months after the date of the enactment of this Act \[Oct. 30, 1998\], the Tribe shall adopt and comply with water quality standards within the MRA that are at least as protective as the water quality standards for the area encompassed by Everglades National Park approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.).
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -338,7 +338,7 @@ Use of easements.—At the discretion of the Secretary, the Secretary may use th
 
 &emsp;"(4)
 
-Additional requirements.—In addition to providing for the easements specified in paragraph (1),the Tribe shall not impair or impede the continued function of the water control structures designated as 'S–12A' and 'S–12B', located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
+Additional requirements.—In addition to providing for the easements specified in paragraph (1), the Tribe shall not impair or impede the continued function of the water control structures designated as 'S–12A' and 'S–12B', located north of the MRA on the Tamiami Trail and any existing water flow ways under the Old Tamiami Trail.
 
 &emsp;"(5)
 
@@ -462,7 +462,7 @@ United states held harmless.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
+In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (includingan officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
 
 &emsp;&emsp;"(B)
 
@@ -478,7 +478,7 @@ Tribe held harmless.—Notwithstanding any other provision of law, the Tribe and
 
 "(g)
 
-Cooperative Agreements.—Nothing in this Act shall alter the authority of the Secretary and the Tribeto enter into any cooperative agreement, including any agreement concerning law enforcement, emergency response, or resource management.
+Cooperative Agreements.—Nothing in this Act shall alter the authority of the Secretary and the Tribe to enter into any cooperative agreement, including any agreement concerning law enforcement, emergency response, or resource management.
 
 "(h)
 

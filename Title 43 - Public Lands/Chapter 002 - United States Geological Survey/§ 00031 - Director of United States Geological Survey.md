@@ -10,6 +10,8 @@ The authority of the Secretary of the Interior, exercised through the United Sta
 
 (Mar. 3, 1879, ch. 182, 20 Stat. 394; Pub. L. 87–626, §§1, 2, Sept. 5, 1962, 76 Stat. 427; Pub. L. 93–608, §2(6), Jan. 2, 1975, 88 Stat. 1971; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 104–66, title I, §1081(e), Dec. 21, 1995, 109 Stat. 721.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (a) of this section is from act Mar. 3, 1879. Subsecs. (b) and (c) of this section are sections 1 and 2, respectively, of Pub. L. 87–626.
@@ -22,15 +24,13 @@ Provisions of subsec. (a) of this section which limited the salary of the Direct
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–608 substituted requirement of an annual report for requirement of a semiannual report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 102–285, §10(a), May 18, 1992, 106 Stat. 171, provided that: "The Geological Survey established by the Act of March 3, 1879 (43 U.S.C. 31(a)), is designated as and shall hereafter \[on and after May 18, 1992\] be known as the United States Geological Survey."
 
 "United States Geological Survey" substituted for "Geological Survey" in subsecs. (a) and (b) pursuant to provision of title I of Pub. L. 102–154, which provided: "That the Geological Survey (43 U.S.C. 31(a)) shall hereafter \[on and after Nov. 13, 1991\] be designated the United States Geological Survey."
-
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
 #### Continental Scientific Drilling and Exploration
 
@@ -42,7 +42,7 @@ Pub. L. 100–441, Sept. 22, 1988, 102 Stat. 1760, provided: "That this Act may 
 
 &emsp;"(1) implement section 323 of the joint resolution entitled 'Joint Resolution making continuing appropriations for the fiscal year 1985, and for other purposes', approved October 12, 1984 (Public Law 98–473; 98 Stat. 1875) \[set out below\] which supports and encourages the development of a national Continental Scientific Drilling Program;
 
-&emsp;"(2) enhance fundamental understanding of the composition, structure, dynamics, and evolution ofthe continental crust, and how such processes affect natural phenomena such as earthquakes, volcanic eruptions, transfer of geothermal energy, distribution of mineral deposits, the occurrence of fossil fuels, and the nature and extent of aquifers;
+&emsp;"(2) enhance fundamental understanding of the composition, structure, dynamics, and evolution of the continental crust, and how such processes affect natural phenomena such as earthquakes, volcanic eruptions, transfer of geothermal energy, distribution of mineral deposits, the occurrence of fossil fuels, and the nature and extent of aquifers;
 
 &emsp;"(3) advance basic earth sciences research and technological development;
 
@@ -120,5 +120,11 @@ Pub. L. 98–473, title I, §101(c) \[title III, §323\], Oct. 12, 1984, 98 Stat
 
 &emsp;"(2) the private sector should be encouraged to support the Continental Scientific Drilling Program and the participating agencies should solicit appropriate private sector participation in such program; and
 
-&emsp;"(3) the United States Government should cooperate to the extent practicable with the internationalcommunity in developing this important scientific and technical activity."
+&emsp;"(3) the United States Government should cooperate to the extent practicable with the international community in developing this important scientific and technical activity."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 

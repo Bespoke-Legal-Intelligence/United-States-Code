@@ -240,7 +240,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) The transfer of such applicable retained interest.
 
-&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment afterthe period described in paragraph (2)(C), but only with respect to such payment.
+&emsp;&emsp;&emsp;(iii) At the election of the taxpayer, the payment of any qualified payment after the period described in paragraph (2)(C), but only with respect to such payment.
 
 #### (B) Exception where spouse is transferee
 

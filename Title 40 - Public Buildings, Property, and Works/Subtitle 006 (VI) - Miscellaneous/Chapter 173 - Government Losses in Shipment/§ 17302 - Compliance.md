@@ -6,7 +6,7 @@ Prescribing Regulations.—With the approval of the President, the Secretary of 
 
 (b)
 
-Compliance.—Each executive department, independent establishment, agency, wholly owned Government corporation, officer, and employee of the Government, and each person acting for, or at the direction of, the executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee, must comply with the regulations when making any shipment of valuables.
+Compliance.—Each executive department, independent establishment, agency, wholly owned Government corporation, officer, and employee of the Government, and each person acting for, or at the direction of, the executive department, independent establishment, agency,wholly owned Government corporation, officer, or employee, must comply with the regulations when making any shipment of valuables.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1280.)
 
@@ -30,7 +30,9 @@ In subsection (a), the words "As soon as practicable after July 8, 1937" are omi
 
 In subsection (b), the words "After the effective date of such regulations, which shall be not more than thirty days after their issuance" are omitted as obsolete.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For power of Secretary of the Treasury and United States Postal Service to prescribe, without approval of President, regulations under section 721 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R.9499, set out as a note under section 301 of Title 3, The President.
+For power of Secretary of the Treasury and United States Postal Service to prescribe, without approval of President, regulations under section 721 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 

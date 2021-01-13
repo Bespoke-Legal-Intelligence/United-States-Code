@@ -6,6 +6,8 @@
 
 (Added Pub. L. 95–393, §7(a), Sept. 30, 1978, 92 Stat. 809; amended Pub. L. 97–241, title II, §203(b)(4), Aug. 24, 1982, 96 Stat. 291; Pub. L. 100–204, title I, §138(a), Dec. 22, 1987, 101 Stat. 1347.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
@@ -15,6 +17,8 @@ Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
 <b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted ", or was at the time of the tortious act or omission," after "who is".
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–241 substituted "within the meaning of section 2(3) of the Diplomatic Relations Act (22 U.S.C. 254a(3))" for "as defined in the Vienna Convention on Diplomatic Relations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

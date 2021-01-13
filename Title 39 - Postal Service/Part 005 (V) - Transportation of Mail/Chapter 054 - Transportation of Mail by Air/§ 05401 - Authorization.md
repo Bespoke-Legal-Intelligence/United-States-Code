@@ -6,11 +6,15 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(3), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 103–272, §5(k)(3), July 5, 1994, 108 Stat. 1375.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–272 substituted "part A of subtitle VII" for "sections 1301–1542".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

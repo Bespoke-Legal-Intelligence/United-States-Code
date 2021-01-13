@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §62 (R.S. 4914).
 
 Language is changed and the last sentence of the corresponding section of existing statute omitted as superfluous; such a sentence does not appear in the present civil action section, 35 U.S.C. 63 and in either case the validity of the patent may be questioned.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -21,6 +23,8 @@ Language is changed and the last sentence of the corresponding section of existi
 <b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

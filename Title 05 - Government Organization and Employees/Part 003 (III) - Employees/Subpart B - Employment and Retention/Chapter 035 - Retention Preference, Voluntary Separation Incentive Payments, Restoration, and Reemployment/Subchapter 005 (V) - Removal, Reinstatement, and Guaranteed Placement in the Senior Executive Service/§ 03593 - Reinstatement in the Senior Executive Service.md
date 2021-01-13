@@ -22,6 +22,8 @@
 
 (Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1166; amended Pub. L. 97–35, title XVII, §1704(b), Aug. 13, 1981, 95 Stat. 757; Pub. L. 98–615, title III, §303(a), Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–194, title V, §506(b)(4), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 107–296, title XIII, §1321(a)(2)(B), Nov. 25, 2002, 116 Stat. 2297.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 added par. (2) and struck out former par. (2) which read as follows: "the appointee left the Senior Executive Service for reasons other than misconduct, neglect of duty, malfeasance, less than fully successful executive performance as determined under subchapter II of chapter 43 of this title, or failure to be recertified as a senior executive under section 3393a."
@@ -31,6 +33,8 @@
 <b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–615 inserted "before October 1, 1984,".
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

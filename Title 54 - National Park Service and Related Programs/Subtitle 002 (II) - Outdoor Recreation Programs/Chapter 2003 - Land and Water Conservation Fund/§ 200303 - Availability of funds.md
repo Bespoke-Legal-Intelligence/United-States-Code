@@ -1,0 +1,114 @@
+### §200303. Availability of funds
+
+(a)
+
+In General.—Any amounts deposited in the Fund under section 200302 for fiscal year 2020 and each fiscal year thereafter shall be made available for expenditure for fiscal year 2021 and each fiscal year thereafter, without further appropriation or fiscal year limitation, to carry out the purposes of the Fund (including accounts and programs made available from the Fund pursuant to the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2534)).
+
+(b)
+
+Additional Amounts.—Amounts made available under subsection (a) shall be in addition to amounts made available to the Fund under section 105 of the Gulf of Mexico Energy Security Act of 2006 (43 U.S.C. 1331 note; Public Law 109–432) or otherwise appropriated from the Fund.
+
+(c)
+
+Allocation Authority.—
+
+&emsp;(1)
+
+Submission of cost estimates.—The President shall submit to Congress detailed account, program, and project allocations of the full amount made available under subsection (a)—
+
+&emsp;&emsp;(A) for fiscal year 2021, not later than 90 days after the date of enactment of the Great American Outdoors Act; and
+
+&emsp;&emsp;(B) for each fiscal year thereafter, as part of the annual budget submission of the President.
+
+&emsp;(2)
+
+Alternate allocation.—
+
+&emsp;&emsp;(A)
+
+In general.—Appropriations Acts may provide for alternate allocation of amounts made available under subsection (a), including allocations by account, program, and project.
+
+&emsp;&emsp;(B)
+
+Allocation by president.—
+
+&emsp;&emsp;&emsp;(i)
+
+No alternate allocations.—If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for the Department of the Interior, Environment, and Related Agencies for the applicable fiscal year is enacted into law, amounts made available undersubsection (a) shall be allocated by the President.
+
+&emsp;&emsp;&emsp;(ii)
+
+Insufficient alternate allocation.—If Congress enacts legislation establishing alternate allocations for amounts made available under subsection (a) that are less than the full amount appropriated under that subsection, the difference between the amount appropriated and the alternate allocation shall be allocated by the President.
+
+&emsp;(3)
+
+Recreational public access.—Amounts expended from the Fund under this section shall be consistent with the requirements for recreational public access for hunting, fishing, recreational shooting, or other outdoor recreational purposes under section 200306(c).
+
+&emsp;(4)
+
+Annual report.—The President shall submit to Congress an annual report that describes the final allocation by account, program, and project of amounts made available under subsection (a), including a description of the status of obligations and expenditures.
+
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3172; Pub. L. 116–152, §3(a), Aug. 4, 2020, 134 Stat. 686.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+200303
+
+16 U.S.C. 460<i>l</i>–6.
+
+Pub. L. 88–578, title I, §3, Sept. 3, 1964, 78 Stat. 899; Pub. L. 100–203, title V, §5201(f)(2), Dec. 22, 1987, 101 Stat. 1330–267.
+
+The words "or from the special account established under section 460l–6a(i)(1) of this title" are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. For complete classification of this Act to the Code, see Tables.
+
+Section 105 of the Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b), is section 105 of title I of div. C of Pub. L. 109–432, which is set out in a note under section 1331 of Title 43, Public Lands.
+
+The date of enactment of the Great American Outdoors Act, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 116–152, which was approved Aug. 4, 2020.
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–152 amended section generally. Prior to amendment, text read as follows: "Amounts deposited in the Fund shall be available for expenditure for the purposes of this chapter only when appropriated for those purposes. The appropriations may be made without fiscal-year limitation. Amounts made available for obligation or expenditure from the Fund may be obligated or expended only as provided in this chapter."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority for Fiscal Year 2021 Cost Estimates and Annual Reports to the Congress for the Land and Water Conservation Fund
+
+Memorandum of President of the United States, Nov. 9, 2020, 85 F.R. 72889, provided:
+
+Memorandum for the Secretary of the Interior \[and\] the Secretary of Agriculture
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. The Secretary of the Interior and the Secretary of Agriculture are hereby authorized to submit, for their respective agencies:
+
+(a) the cost estimates to the Congress required by 54 U.S.C. 200303(c)(1)(A), as amended by section 3(a) of the Great American Outdoors Act (Public Law 116–152) (the "Act"); and
+
+(b) annually, the report to the Congress required by 54 U.S.C. 200303(c)(4), as amended by section 3(a) of the Act.
+
+Sec. 2. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of the Interior is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

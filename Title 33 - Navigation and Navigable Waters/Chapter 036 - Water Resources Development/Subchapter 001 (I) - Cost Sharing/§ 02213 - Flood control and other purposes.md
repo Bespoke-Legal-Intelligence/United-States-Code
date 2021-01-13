@@ -24,11 +24,11 @@
 
 &emsp;If the total amount of the contribution required under paragraph (1) of this subsection exceeds 30 percent of the cost of the project assigned to flood control, the non-Federal interests may pay the amount of the excess to the Secretary over a 15-year period (or such shorter period as may be agreed to by the Secretary and the non-Federal interests) beginning on the date construction of the project or separable element is completed, at an interest rate determined pursuant to section 2216 of this title. The preceding sentence does not modify the requirement of paragraph (1)(A) of this subsection.
 
-#### (b) Nonstructural flood control projects
+#### (b) Projects using nonstructural, natural, or nature-based features
 
 #### (1) In general
 
-&emsp;The non-Federal share of the cost of nonstructural flood control measures shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction of the project.
+&emsp;The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
 
 #### (2) Non-Federal contribution in excess of 35 percent
 
@@ -38,7 +38,7 @@
 
 The non-Federal share of the cost assigned to other project purposes shall be as follows:
 
-&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
+&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs byor pursuant to such applicable Federal power marketing law;
 
 &emsp;(2) municipal and industrial water supply: 100 percent;
 
@@ -126,7 +126,13 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (1) Requirement for agreement
 
-&emsp;Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+#### (A) In general
+
+&emsp;&emsp;Any project to which this section applies (other than a project for hydroelectricpower) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+
+#### (B) Inclusion
+
+&emsp;&emsp;An agreement under subparagraph (A) shall include a brief description and estimation of the anticipated operations, maintenance, and replacement and rehabilitation costs of the non-Federal interest for the project.
 
 #### (2) Elements of agreement
 
@@ -138,7 +144,51 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (k) Payment options
 
-Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to section 2216 of this title over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
+#### (1) In general
+
+&emsp;Except as otherwise provided in this section, the Secretary may permit the full non-Federal contribution to be made without interest during construction of the project or separable element, or with interest at a rate determined pursuant to section 2216 of this title over a period of not more than thirty years from the date of completion of the project or separable element. Repayment contracts shall provide for recalculation of the interest rate at five-year intervals.
+
+#### (2) Renegotiation of terms
+
+#### (A) In general
+
+&emsp;&emsp;At the request of a non-Federal interest, the Secretary and the non-Federal interest may renegotiate the terms and conditions of an eligible deferred payment, including—
+
+&emsp;&emsp;&emsp;(i) permitting the non-Federal contribution to be made without interest, pursuant to paragraph (1);
+
+&emsp;&emsp;&emsp;(ii) recalculation of the interest rate;
+
+&emsp;&emsp;&emsp;(iii) full or partial forgiveness of interest accrued during the period of construction; and
+
+&emsp;&emsp;&emsp;(iv) a credit against construction interest for a non-Federal investment that benefits the completion or performance of the project or separable element.
+
+#### (B) Eligible deferred payment
+
+&emsp;&emsp;An eligible deferred payment agreement under subparagraph (A) is an agreement for which—
+
+&emsp;&emsp;&emsp;(i) the non-Federal contribution was made with interest;
+
+&emsp;&emsp;&emsp;(ii) the period of project construction exceeds 10 years from the execution of a project partnership agreement or appropriation of funds; and
+
+&emsp;&emsp;&emsp;(iii) the construction interest exceeds $45,000,000.
+
+#### (3) Credit for non-Federal contribution
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary is authorized to credit any costs incurred by the non-Federal interest (including in-kind contributions) to remedy a design or construction deficiency of a covered project or separable element toward the non-Federal share of the cost of the covered project, if the Secretary determines the remedy to be integral to the completion or performance of the covered project.
+
+#### (B) Credit of costs
+
+&emsp;&emsp;If the non-Federal interest incurs costs or in-kind contributions for a project to remedy a design or construction deficiency of a project or separable element which has a 100 percent Federal cost share, and the Secretary determines the remedy to be integral to the completion or performance of the project, the Secretary is authorized to credit such costs to any interest accrued on a deferred non-Federal contribution.
+
+#### (4) Treatment of pre-payment
+
+&emsp;Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
+
+&emsp;&emsp;(A) the non-Federal interest makes a payment of at least $200 million for that eligible deferred payment agreement on or before September 30, 2021; and
+
+&emsp;&emsp;(B) the non-Federal interest repays the remaining principal by September 30, 2023.
 
 #### (l) Delay of initial payment
 
@@ -148,7 +198,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for constructionof an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
@@ -184,7 +234,9 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;Nothing in this subsection shall be construed to affect the Secretary's authority under section 903(c).<sup>1</sup>
 
-(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078.)
+(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078; Pub. L. 116–260, div. AA, title I, §§115(b), 143, title III, §351, Dec. 27, 2020, 134 Stat. 2627, 2653, 2717.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -203,6 +255,14 @@ The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C)
 Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–260, §115(b)(1), substituted "Projects using nonstructural, natural, or nature-based features" for "Nonstructural flood control projects" in heading.
+
+Subsec. (b)(1). Pub. L. 116–260, §115(b)(2), substituted "a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title)," for "nonstructural flood control measures" and "cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent" for "cash during construction of the project".
+
+Subsec. (j)(1). Pub. L. 116–260, §143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (k). Pub. L. 116–260, §351, designated existing provisions as par. (1), inserted heading, and added pars. (2) to (4).
 
 <b>2007</b>—Subsec. (m)(2). Pub. L. 110–114, §2019(a), substituted "December 31, 2007" for "180 days after December 11, 2000".
 
@@ -253,6 +313,8 @@ Limitations.—The procedures established pursuant to this subsection shall prov
 Regulations.—Not later than 1 year after November 28, 1990, the Secretary shall issue regulations establishing the procedures required by this paragraph."
 
 <b>1990</b>—Subsec. (m). Pub. L. 101–640 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: "Any cost-sharing agreement under this section for flood control or agricultural water supply shall be subject to the ability of a non-Federal interest to pay. The ability of any non-Federal interest to pay shall be determined by the Secretary in accordance with procedures established by the Secretary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

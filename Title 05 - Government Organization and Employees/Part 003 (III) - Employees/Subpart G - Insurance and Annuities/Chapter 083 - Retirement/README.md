@@ -48,6 +48,7 @@
 | [8343a.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008343a%20-%20Alternative%20forms%20of%20annuities.md) | Alternative forms of annuities. |
 | [8344\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008344%20-%20Annuities%20and%20pay%20on%20reemployment.md) | Annuities and pay on reemployment. |
 | [8345\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008345%20-%20Payment%20of%20benefits%3B%20commencement%2C%20termination%2C%20and%20waiver%20of%20annuity.md) | Payment of benefits; commencement, termination, and waiver of annuity. |
+| [8345a.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008345a%20-%20Embezzlement%20or%20conversion%20of%20payments.md) | Embezzlement or conversion of payments. |
 | [8346\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008346%20-%20Exemption%20from%20legal%20process%3B%20recovery%20of%20payments.md) | Exemption from legal process; recovery of payments. |
 | [8347\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008347%20-%20Administration%3B%20regulations.md) | Administration; regulations. |
 | [8348\.](Subchapter%20003%20%28III%29%20-%20Civil%20Service%20Retirement/%C2%A7%2008348%20-%20Civil%20Service%20Retirement%20and%20Disability%20Fund.md) | Civil Service Retirement and Disability Fund. |
@@ -57,7 +58,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–126, §2(b)(3)(A), Mar. 18, 2020, 134 Stat. 175, added item 8345a.
 
 <b>2012</b>—Pub. L. 112–141, div. F, title I, §100121(a)(3), July 6, 2012, 126 Stat. 910, added item 8336a.
 

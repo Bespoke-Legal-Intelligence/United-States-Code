@@ -6,9 +6,13 @@
 
 (Pub. L. 91–663, §6, Jan. 8, 1971, 84 Stat. 1977; Pub. L. 104–88, title III, §325(3), Dec. 29, 1995, 109 Stat. 951.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "Board" for "Interstate Commerce Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -42,7 +42,7 @@ It is the policy of the United States—
 
 #### (2) Authority for delay of actions by the Secretary of State
 
-&emsp;The Secretary shall not be required to take action under paragraph (1) until the expiration of a single, additional period of up to 90 days if, on or before the date on which the Secretary of State is required to take such action,the Secretary determines and certifies to the appropriate congressional committees that such additional period is necessary—
+&emsp;The Secretary shall not be required to take action under paragraph (1) until the expiration of a single, additional period of up to 90 days if, on or before the date on which the Secretary of State is required to take such action, the Secretary determines and certifies to the appropriate congressional committees that such additional period is necessary—
 
 &emsp;&emsp;(A) for a continuation of negotiations that have been commenced with the government of a country described in paragraph (1) in order to bring about a cessation of the pattern of noncompliance by such country;
 
@@ -121,6 +121,8 @@ The Secretary of State shall seek to take all appropriate actions authorized by 
 Any action taken pursuant to subsection (d) or (e) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other life-saving humanitarian assistance.
 
 (Pub. L. 113–150, title II, §202, Aug. 8, 2014, 128 Stat. 1818.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

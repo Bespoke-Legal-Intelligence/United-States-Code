@@ -1,6 +1,6 @@
 ### §7332. Confidentiality of certain medical records
 
-(a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subject which are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
+(a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subject which are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with thehuman immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 (2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient or subject concerned of the fact that a special written consent is required in order for such records to be disclosed.
 
@@ -53,6 +53,8 @@
 (g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
 (Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, §504, May 5, 2010, 124 Stat. 1157; Pub. L. 112–74, div. H, title II, §230(b), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 115–26, §3, Apr. 19, 2017, 131 Stat. 130; Pub. L. 115–182, title I, §132, June 6, 2018, 132 Stat. 1427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,5 +122,5 @@ Subsec. (c). Pub. L. 100–322, §121(e)(2), substituted "subsection (b)(2)(D)" 
 
 Subsec. (f). Pub. L. 100–322, §121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–322, §121(c)(1), (d), redesignated subsec. (f) as (g) and substituted "shall be fined,in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section." for "shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense".
+Subsec. (g). Pub. L. 100–322, §121(c)(1), (d), redesignated subsec. (f) as (g) and substituted "shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section." for "shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense".
 

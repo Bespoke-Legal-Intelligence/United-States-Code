@@ -4,7 +4,7 @@ The grantor shall be treated as the owner of any portion of a trust in respect o
 
 #### (1) Power to deal for less than adequate and full consideration
 
-&emsp;A power exercisable by the grantor or a nonadverse party, or both, without the approval or consent of any adverse party enables the grantor or any person to purchase, exchange, or otherwise deal with or dispose of the corpus or the income therefrom for less than an adequate consideration in money or money's worth.
+&emsp;A power exercisable by the grantor or a nonadverse party, or both, without the approval or consent of any adverse party enables the grantor or any person to purchase, exchange,or otherwise deal with or dispose of the corpus or the income therefrom for less than an adequate consideration in money or money's worth.
 
 #### (2) Power to borrow without adequate interest or security
 

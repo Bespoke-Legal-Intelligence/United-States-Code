@@ -26,6 +26,8 @@ Nonqualifying user.—The term "nonqualifying user" means a person who uses a tr
 
 (Added Pub. L. 109–59, title II, §2018(a), Aug. 10, 2005, 119 Stat. 1542.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 39 was renumbered section 40 of this title.

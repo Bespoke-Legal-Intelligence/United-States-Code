@@ -34,11 +34,13 @@ Notwithstanding section 3401(6) <sup>1</sup> of this title or any other provisi
 
 &emsp;Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under section 1833a of this title, or for forfeiture under sections <sup>2</sup> 981 or 982 of title 18 by the Department of Justice and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury and shall, upon completion of the investigation or prosecution (including any appeal), be returned only to the transferring agency or department. No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.
 
-(Pub. L. 95–630, title XI, §1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, §432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, §6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, §944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, §411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, §1516, title XVI, §1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, §231(b)(2), title VII, §727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475; Pub. L. 107–56, title III, §358(f)(1), Oct. 26, 2001, 115 Stat. 327; Pub. L. 109–455, §§10, 13, Dec. 22, 2006, 120 Stat. 3381, 3382; Pub. L. 111–203, title X, §1099(2), July 21, 2010, 124 Stat. 2105; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
+(Pub. L. 95–630, title XI, §1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, §432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, §6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, §944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, §411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, §1516, title XVI, §1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, §231(b)(2), title VII, §727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475; Pub. L. 107–56, title III, §358(f)(1), Oct. 26, 2001, 115Stat. 327; Pub. L. 109–455, §§10, 13, Dec. 22, 2006, 120 Stat. 3381, 3382; Pub. L. 111–203, title X, §1099(2), July 21, 2010, 124 Stat. 2105; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,7 +60,7 @@ Section 3401(6) of this title, referred to in subsec. (e), was redesignated sect
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56 inserted ", or intelligence or counterintelligence activity, investigation or analysis related to international terrorism" after "legitimate law enforcement inquiry".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of thischapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
+<b>1999</b>—Subsec. (e). Pub. L. 106–102 inserted ", examination reports" after "financial records" and substituted "provision of law," for "provision of this chapter," and ", the Securities and Exchange Commission, and the Commodity Futures Trading Commission" for "and the Securities and Exchange Commission".
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–550, §1516(1), inserted "or the Secretary of the Treasury" after "the Attorney General".
 
@@ -76,13 +78,15 @@ Pub. L. 101–73, §944(2), substituted "Council and the Securities and Exchange
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–320 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Termination Date of 2006 Amendment
 
-Amendment by section 10 of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of Title 15, Commerce and Trade.
+Amendment by section 10 of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2001 Amendment
 

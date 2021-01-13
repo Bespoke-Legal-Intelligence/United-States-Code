@@ -8,12 +8,14 @@
 | <b>A.</b> | <b>General Military Law</b> | <b>101</b> |
 | <b>B.</b> | <b>Army</b> | <b>7001</b> |
 | <b>C.</b> | <b>Navy and Marine Corps</b> | <b>8001</b> |
-| <b>D.</b> | <b>Air Force</b> | <b>9011</b> |
+| <b>D.</b> | <b>Air Force and Space Force</b> | <b>9011</b> |
 | <b>E.</b> | <b>Reserve Components</b> | <b>10001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted "Air Force and Space Force" for "Air Force" in item for subtitle D.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, substituted "7001" for "3001" in item for subtitle B and "8001" for "5001" in item for subtitle C.
 
@@ -8667,7 +8669,7 @@ References to Transferred or Replaced Provisions.—A reference to a provision o
 
 "(b)
 
-Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
+Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
 
 "(c)
 
@@ -8681,5 +8683,5 @@ General Savings Provision.—An action taken, or a right that matured, under a p
 - [Subtitle A - General Military Law](Subtitle%20A%20-%20General%20Military%20Law/README.md)
 - [Subtitle B - Army](Subtitle%20B%20-%20Army/README.md)
 - [Subtitle C - Navy and Marine Corps](Subtitle%20C%20-%20Navy%20and%20Marine%20Corps/README.md)
-- [Subtitle D - Air Force](Subtitle%20D%20-%20Air%20Force/README.md)
+- [Subtitle D - Air Force and Space Force](Subtitle%20D%20-%20Air%20Force%20and%20Space%20Force/README.md)
 - [Subtitle E - Reserve Components](Subtitle%20E%20-%20Reserve%20Components/README.md)

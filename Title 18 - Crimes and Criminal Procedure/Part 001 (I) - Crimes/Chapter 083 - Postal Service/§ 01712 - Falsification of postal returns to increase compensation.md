@@ -6,7 +6,7 @@ Whoever, being a Postal Service officer or employee in any post office or statio
 
 Shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, §6(j)(22), Aug. 12, 1970, 84 Stat. 779; Pub. L.103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 780; Pub. L. 91–375, §6(j)(22), Aug. 12, 1970, 84 Stat. 779; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -20,11 +20,15 @@ Reference in said section 329 of title 18, U.S.C., 1940 ed., to persons assistin
 
 Minor verbal changes were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in last par.
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service officer or employee" for "postmaster or Postal Service employee" and "Postal Service" for "Post Office Department" after "rules or regulations of the" in first par. and "Postal Service officer or employee" and "officer or employee" for "postmaster or employee" and "postmaster or other person" in second par., respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

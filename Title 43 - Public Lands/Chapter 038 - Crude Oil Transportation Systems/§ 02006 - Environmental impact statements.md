@@ -2,7 +2,7 @@
 
 #### (a) Preparation of environmental impact statements
 
-Any Federal agency required under section 102 of the National Environmental Policy Act of1969 (42 U.S.C. 4332) to issue an environmental impact statement concerning a proposed crude oil transportation system eligible for consideration under this chapter shall, in preparing such statement, utilize, to the maximum extent practicable and consistent with such Act \[42 U.S.C. 4321 et seq.\], appropriate data, analyses, conclusions, findings, and decisions regarding environmental impacts developed or made by any other Federal or State agency.
+Any Federal agency required under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) to issue an environmental impact statement concerning a proposed crude oil transportation system eligible for consideration under this chapter shall, in preparing such statement, utilize, to the maximum extent practicable and consistent with such Act \[42 U.S.C. 4321 et seq.\], appropriate data, analyses, conclusions, findings, and decisions regarding environmental impacts developed or made by any other Federal or State agency.
 
 #### (b) Filing of environmental impact statements
 
@@ -14,9 +14,13 @@ Promptly after receiving an environmental impact statement referred to in subsec
 
 (Pub. L. 95–617, title V, §506, Nov. 9, 1978, 92 Stat. 3160.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Such Act, referred to in subsec. (a), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -44,6 +44,8 @@ This section shall apply to the semiannual periods of January 1 through June 30 
 
 (Pub. L. 104–186, title I, §106, Aug. 20, 1996, 110 Stat. 1722.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 102 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 104–186, title II, §204(52), Aug. 20, 1996, 110 Stat. 1737.
@@ -53,6 +55,8 @@ Sections 103 and 104 of this title, referred to in subsec. (e)(1), were omitted 
 #### Codification
 
 Section was formerly classified to section 104b of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

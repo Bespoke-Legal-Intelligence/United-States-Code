@@ -34,9 +34,13 @@ In this subchapter, the term—
 
 (Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2291; amended Pub. L. 112–74, div. G, title I, §1401(b), Dec. 23, 2011, 125 Stat. 1134.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Par. (1). Pub. L. 112–74 substituted "section 105 (other than the Government Accountability Office)" for "section 105".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
 
-&emsp;(3) the term "unscheduled duty" means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
+&emsp;(3) the term "unscheduled duty" means hours of duty a criminal investigator works,or is determined to be available for work, that are not—
 
 &emsp;&emsp;(A) part of the 40 hours in the basic work week of the investigator; or
 
@@ -96,11 +96,13 @@
 
 &emsp;(A) any reference in such subsection to "basic pay" shall be considered to include amounts designated as "salary";
 
-&emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to the provisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
+&emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to theprovisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
 
 &emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for "Office of Personnel Management" the following: "Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)".
 
 (Added Pub. L. 103–329, title VI, §633(b)(1), Sept. 30, 1994, 108 Stat. 2425; amended Pub. L. 104–19, title I, §§901, 902(a), July 27, 1995, 109 Stat. 230; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(b)(2)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(a), (c)(1)\], div. G, subdiv. B, title XXIII, §2316(a), (c)(1), Oct. 21, 1998, 112 Stat. 2681–50, 2681–101, 2681–102, 2681–828; Pub. L. 114–250, §1(a), Dec. 8, 2016, 130 Stat. 1001.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ Subsec. (a)(2)(E)(v). Pub. L. 104–19, §901(1)(B), inserted "and" at end.
 Subsec. (i). Pub. L. 104–19, §902(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 104–19, §901(2), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

@@ -6,13 +6,15 @@ An award of an arbitral tribunal rendered pursuant to chapter IV of the conventi
 
 #### (b) Jurisdiction; amount in controversy
 
-The district courts of the United States (including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
+The district courts of the United States (including the courts enumerated in section 460 of title 28) shall have exclusive jurisdiction over actions and proceedings under subsection (a) ofthis section, regardless of the amount in controversy.
 
 (Pub. L. 89–532, §3, Aug. 11, 1966, 80 Stat. 344.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Chapter IV of the convention, referred to in subsec. (a), contains the Arbitration provisions of the Convention on the Settlement of Investment Disputes Between States and Nationals of Other States, providing in Section 1 (Art. 36) for Request for Arbitration, Section 2\(Arts. 37 to 40) for Constitution of the Tribunal, Section 3 (Arts. 41 to 47) for powers and functions of the tribunal, Section 4 (Arts. 48, 49) for The Award, Section 5 (Arts. 50 to 52) for interpretation, revision and annulment of the award, and Section 6 (Arts. 53 to 55) for recognition and enforcement of the award.
+Chapter IV of the convention, referred to in subsec. (a), contains the Arbitration provisions of the Convention on the Settlement of Investment Disputes Between States and Nationals of Other States, providing in Section 1 (Art. 36) for Request for Arbitration, Section 2 (Arts. 37 to 40) for Constitution of the Tribunal, Section 3 (Arts. 41 to 47) for powers and functions of the tribunal, Section 4 (Arts. 48, 49) for The Award, Section 5 (Arts. 50 to 52) for interpretation, revision and annulment of the award, and Section 6 (Arts. 53 to 55) for recognition and enforcement of the award.
 
 The Federal Arbitration Act, referred to in subsec. (a), is classified generally to Title 9, Arbitration.
 

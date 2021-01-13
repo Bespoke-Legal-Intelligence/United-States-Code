@@ -12,7 +12,7 @@ The Secretary of Commerce and the Comptroller General of the United States shall
 
 No adjustment assistance shall be extended under section 1913, 1914, or 1917 <sup>1</sup> of this title to any firm unless the owners, partners, or officers certify to the Secretary of Commerce—
 
-&emsp;(1) the names of any attorneys, agents, and other persons engaged by or on behalf of thefirm for the purpose of expediting applications for such adjustment assistance, and
+&emsp;(1) the names of any attorneys, agents, and other persons engaged by or on behalf of the firm for the purpose of expediting applications for such adjustment assistance, and
 
 &emsp;(2) the fees paid or to be paid to any such person.
 

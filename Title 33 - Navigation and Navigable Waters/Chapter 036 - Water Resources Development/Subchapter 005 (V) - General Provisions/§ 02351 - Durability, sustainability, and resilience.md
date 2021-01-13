@@ -14,9 +14,13 @@ In carrying out the activities of the Corps of Engineers, the Secretary, to the 
 
 (Pub. L. 113–121, title III, §3022, June 10, 2014, 128 Stat. 1301.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Reform and Development Act of 2014, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

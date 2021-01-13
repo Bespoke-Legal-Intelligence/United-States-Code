@@ -10,7 +10,7 @@ In order to achieve the peaceful disarmament of North Korea, Congress finds that
 
 &emsp;(4) to deny the Government of North Korea access to the funds it uses to develop or obtain nuclear weapons, ballistic missiles, cyberwarfare capabilities, and luxury goods instead of providing for the needs of the people of North Korea; and
 
-&emsp;(5) to enforce sanctions in a manner that does not significantly hinder or delay the efforts of legitimate United States or foreign humanitarian organizations from providingassistance to meet the needs of civilians facing humanitarian crisis, including access to food, health care, shelter, and clean drinking water, to prevent or alleviate human suffering.
+&emsp;(5) to enforce sanctions in a manner that does not significantly hinder or delay the efforts of legitimate United States or foreign humanitarian organizations from providing assistance to meet the needs of civilians facing humanitarian crisis, including access to food, health care, shelter, and clean drinking water, to prevent or alleviate human suffering.
 
 (Pub. L. 114–122, title I, §101, Feb. 18, 2016, 130 Stat. 98.)
 

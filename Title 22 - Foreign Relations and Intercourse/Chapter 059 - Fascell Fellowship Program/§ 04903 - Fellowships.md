@@ -30,13 +30,17 @@ Subsection (d) of this section shall not take effect until October 1, 1986.
 
 (Pub. L. 99–399, title X, §1004, Aug. 27, 1986, 100 Stat. 894; Pub. L. 102–511, title VIII, §804(a), Oct. 24, 1992, 106 Stat. 3353; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "Foreign Service Institute".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–511 inserted at end "Not less than 15 shall be provided during fiscal year 1993."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Funding
 
-Pub. L. 102–511, title VIII, §804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: "In addition to the funds made available pursuant to section 1005(c) of that Act \[22 U.S.C. 4904(c)\], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] may be used in carrying out the amendment made by subsection (a) \[amending this section\] with respect to missions in the independent states of the former Soviet Union."
+Pub. L. 102–511, title VIII, §804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: "In addition to the funds made available pursuant to section 1005(c) of that Act\[22 U.S.C. 4904(c)\], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] may be used in carrying out the amendment made by subsection (a) \[amending this section\] with respect to missions in the independent states of the former Soviet Union."
 

@@ -56,7 +56,7 @@ No grant may be made under subsection (a), unless an application therefor has be
 
 &emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
-&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, thenumber of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
+&emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
 &emsp;(4) Assurances satisfactory to the Secretary that the applicant will make such reports respecting the program involved as the Secretary may require.
 
@@ -94,7 +94,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a), ma
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request ofsuch grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (h) Records
 

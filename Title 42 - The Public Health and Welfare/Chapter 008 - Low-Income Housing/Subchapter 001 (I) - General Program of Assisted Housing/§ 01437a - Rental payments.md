@@ -24,7 +24,7 @@ In general.—A family residing in a public housing dwelling shall pay as monthl
 
 &emsp;&emsp;(ii)
 
-Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one of the rent options referred to in subparagraph (A).
+Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one ofthe rent options referred to in subparagraph (A).
 
 &emsp;(B)
 
@@ -32,7 +32,7 @@ Allowable rent structures.—
 
 &emsp;&emsp;(i)
 
-Flat rents.—Each public housing agency shall establish, for each dwellingunit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
+Flat rents.—Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
 
 &emsp;&emsp;&emsp;(I) shall not be lower than 80 percent of—
 
@@ -90,7 +90,7 @@ Requirement.—Notwithstanding paragraph (1) of this subsection, the method for 
 
 &emsp;&emsp;&emsp;(II) each family who is assisted under the certificate or moderate rehabilitation program under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
+&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f ofthis title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
 
 &emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthly rental amount, which amount shall be determined by the Secretary.
 
@@ -168,7 +168,7 @@ Persons and families.—
 
 &emsp;(A)
 
-Single persons.—The term "families" includes families consisting of a single person in the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, and (v) any other single persons. In no event may any single person under clause (v) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms.
+Single persons.—The term "families" includes families consisting of a single person in the case of (i) an elderly person, (ii) a disabled person, (iii) a displaced person, (iv) the remaining member of a tenant family, (v) a youth described in section 1437f(x)(2)(B) of this title, and (vi) any other single persons. In no event may any single person under clause (v) or (vi) of the first sentence be provided a housing unit assisted under this chapter of 2 or more bedrooms.
 
 &emsp;(B)
 
@@ -292,7 +292,7 @@ program.—For purposes of the program for tenant-based assistance under section
 
 &emsp;&emsp;(ii) any other public or private nonprofit entity that, upon the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, was administering any program for tenant-based assistance under section 1437f of this title (as in effect before the effective date of such Act), pursuant to a contract with the Secretary or a public housing agency; and
 
-&emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized orwhere the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>5</sup> section 1437f of this title, or is not performing effectively—
+&emsp;&emsp;(iii) with respect to any area in which no public housing agency has been organized or where the Secretary determines that a public housing agency is unwilling or unable to implement a program for tenant-based assistance <sup>5</sup> section 1437f of this title, or is not performing effectively—
 
 &emsp;&emsp;&emsp;(I) the Secretary or another public or private nonprofit entity that by contract agrees to receive assistance amounts under section 1437f of this title and enter into housing assistance payments contracts with owners and perform the other functions of public housing agency under section 1437f of this title; or
 
@@ -344,7 +344,7 @@ When used in reference to public housing:
 
 #### (2) Phase-in of rent increases
 
-&emsp;Upon the expiration of the 12-month period referred to in paragraph (1), the rent payable by a family described in paragraph (3) may be increased due to the continued employment of the family member described in paragraph (3)(B), except that during the 12-month period beginning upon such expiration the amount of the increase may not be greater than 50 percent of the amount of the total rent increasethat would be applicable but for this paragraph.
+&emsp;Upon the expiration of the 12-month period referred to in paragraph (1), the rent payableby a family described in paragraph (3) may be increased due to the continued employment of the family member described in paragraph (3)(B), except that during the 12-month period beginning upon such expiration the amount of the increase may not be greater than 50 percent of the amount of the total rent increase that would be applicable but for this paragraph.
 
 #### (3) Eligible families
 
@@ -404,9 +404,21 @@ When used in reference to public housing:
 
 &emsp;&emsp;(C) for which project-based assistance is provided under section 1437f of this title, section 1437bb <sup>1</sup> of this title, or section 811.<sup>1</sup>
 
-(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788.)
+(Sept. 1, 1937, ch. 896, title I, §3, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 654; amended Pub. L. 94–375, §2(f), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–557, title II, §206(c), Oct. 31, 1978, 92 Stat. 2091; Pub. L. 96–153, title II, §202(a), Dec. 21, 1979, 93 Stat. 1106; Pub. L. 97–35, title III, §322(a), Aug. 13, 1981, 95 Stat. 400; Pub. L. 98–181, title I \[title II, §§202, 206(a)–(c)\], Nov. 30, 1983, 97 Stat. 1178, 1179; Pub. L. 98–479, title I, §102(b)(1)–(3), Oct. 17, 1984, 98 Stat. 2221; Pub. L. 100–242, title I, §§102(a), 111, 170(c), Feb. 5, 1988, 101 Stat. 1821, 1823, 1867; renumbered title I and amended Pub. L. 100–358, §§4, 5, June 29, 1988, 102 Stat. 680, 681; Pub. L. 101–235, title III, §302, Dec. 15, 1989, 103 Stat. 2043; Pub. L. 101–625, title V, §§515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, 104 Stat. 4199, 4236–4238; Pub. L. 102–550, title I, §§102–103(a)(2), 185(c)(4), title VI, §§621, 622(c), 625(a)(1), Oct. 28, 1992, 106 Stat. 3683, 3748, 3812, 3817, 3820; Pub. L. 103–233, title III, §301, Apr. 11, 1994, 108 Stat. 369; Pub. L. 104–99, title IV, §402(b)(1), (c), Jan. 26, 1996, 110 Stat. 40, 41; Pub. L. 104–330, title V, §501(b)(1), Oct. 26, 1996, 110 Stat. 4041; Pub. L. 105–276, title V, §§506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, 112 Stat. 2523–2529, 2562, 2565–2567, 2604; Pub. L. 106–74, title II, §214(a), Oct. 20, 1999, 113 Stat. 1074; Pub. L. 106–402, title IV, §401(b)(7), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 110–289, div. B, title VI, §2608, July 30, 2008, 122 Stat. 2862; Pub. L. 113–76, div. L, title II, §§210, 212, 238(a), Jan. 17, 2014, 128 Stat. 625, 626, 635; Pub. L. 113–235, div. K, title II, §238, Dec. 16, 2014, 128 Stat. 2758; Pub. L. 114–94, div. G, title LXXVIII, §78001(a), Dec. 4, 2015, 129 Stat. 1791; Pub. L. 114–201, title I, §102(a), (c), July 29, 2016, 130 Stat. 786, 788; Pub. L. 116–260, div. Q, title I, §§101(b)(1), 103(a), Dec. 27, 2020, 134 Stat. 2163, 2166.)
 
 #### Amendment of Section
+
+<i>Pub. L. 116–260, §101(b)(1), (h), Dec. 27, 2020, 134 Stat. 2163, 2165, provided that, effective 2 years after Dec. 27, 2020, subsec. (a) is amended by adding at the end the following:</i>
+
+#### <i>(8) Carbon monoxide alarms</i>
+
+&emsp;<i>Each public housing agency shall ensure that carbon monoxide alarms or detectors are installed in each dwelling unit in public housing owned or operated by the public housing agency in a manner that meets or exceeds—</i>
+
+&emsp;&emsp;<i>(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or</i>
+
+&emsp;&emsp;<i>(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 <i>Pub. L. 114–201, title I, §102(a), (c), (h), July 29, 2016, 130 Stat. 786, 788, 791, provided that, effective upon the issuance of notice or regulations implementing section 102 of Pub. L. 114–201, except that such section 102 may only take effect upon the commencement of a calendar year, this section is amended as follows:</i>
 
@@ -468,7 +480,7 @@ When used in reference to public housing:
 
 <i>"(4)</i>
 
-<i>Income.—The term 'income' means, with respect to a family, income received from all sources by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:</i>
+<i>Income.—The term 'income' means, with respect to a family, income received from all sources</i><i>by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:</i>
 
 &emsp;<i>"(A)</i>
 
@@ -484,7 +496,7 @@ When used in reference to public housing:
 
 &emsp;&emsp;<i>"(iii) deferred disability benefits from the Department of Veterans Affairs that are received in a lump sum amount or in prospective monthly amounts;</i>
 
-&emsp;&emsp;<i>"(iv) any expenses related to aid and attendance under section 1521 of title 38 to veterans</i><i>who are in need of regular aid and attendance; and</i>
+&emsp;&emsp;<i>"(iv) any expenses related to aid and attendance under section 1521 of title 38 to veterans who are in need of regular aid and attendance; and</i>
 
 &emsp;&emsp;<i>"(v) exclusions from income as established by the Secretary by regulation or notice, or any amount required by Federal law to be excluded from consideration as income.</i>
 
@@ -576,6 +588,10 @@ Prior similar provisions were contained in section 2 of act Sept. 1, 1937, ch. 8
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a)(8). Pub. L. 116–260, §101(b)(1), added par. (8).
+
+Subsec. (b)(3)(A). Pub. L. 116–260, §103(a), in first sentence, added cl. (v) after "tenant family," and redesignated former cl. (v) as (vi) and, in second sentence, inserted "or (vi)" after "clause (v)".
+
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–201, §102(a)(1)(A), substituted "pursuant to paragraph (6)" for "at least annually" in introductory provisions.
 
 Subsec. (a)(6), (7). Pub. L. 114–201, §102(a)(1)(B), added pars. (6) and (7).
@@ -618,7 +634,7 @@ Subsec. (a)(4), (5). Pub. L. 105–276, §524(a), added pars. (4) and (5).
 
 Subsec. (b)(1). Pub. L. 105–276, §506(1), inserted after second sentence "The term 'public housing' includes dwelling units in a mixed finance project that are assisted by a public housing agency with capital or operating assistance."
 
-Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end "In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
+Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end"In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
 
 Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence."
 
@@ -632,7 +648,7 @@ Subsec. (b)(6). Pub. L. 105–276, §546, amended par. (6) generally. Prior to a
 
 Subsec. (b)(9) to (13). Pub. L. 105–276, §506(4), added pars. (9) to (13).
 
-Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out theundesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: "The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
+Subsec. (c). Pub. L. 105–276, §508(b)(1)(A), which directed the amendment of subsec. (c) by striking out the undesignated par. after par. (3), was executed by striking out concluding provisions after par. (5), to reflect the probable intent of Congress. Concluding provisions read as follows: "The earnings of and benefits to any public housing resident resulting from participation in a program providing employment training and supportive services in accordance with the Family Support Act of 1988, section 1437t of this title, or any comparable Federal, State, or local law shall not be considered as income for the purposes of determining a limitation on the amount of rent paid by the resident during—
 
 &emsp;"(1) the period that the resident participates in such program; and
 
@@ -774,7 +790,7 @@ Subsec. (b)(5)(C). Pub. L. 98–479, §102(b)(3), designated existing provision 
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §206(a), in provisions preceding par. (1), inserted provision requiring annual review of family income, and inserted "(other than a family assisted under section 1437f(o) of this title)".
 
-Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income families" in authorizing the Secretary to establish, where necessary, variations in income ceilings higher or lower than 50 per centum of the median for the area.
+Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income families" in authorizing the Secretary to establish, where necessary, variations inincome ceilings higher or lower than 50 per centum of the median for the area.
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
@@ -788,9 +804,15 @@ Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substitu
 
 <b>1976</b>—Par. (2). Pub. L. 94–375 struck out "and" before cl. (C), added cl. (D), and two provisos relating to the percentage of units to be occupied by single persons and the priority to be given to single persons who are elderly, handicapped, or displaced, following cl. (D).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by section 101(b)(1) of div. Q of Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under section 1701q of Title 12, Banks and Banking.
+
+Pub. L. 116–260, div. Q, title I, §103(d), Dec. 27, 2020, 134 Stat. 2170, provided that: "The amendments made by this section \[amending this section and section 1437f of this title\] shall not apply to housing choice voucher assistance made available pursuant to section 8(x) of the United States Housing Act of 1937 (42 U.S.C. 1437f(x)) that is in use on behalf of an assisted family as of the date of the enactment of this Act \[Dec. 27, 2020\]."
+
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–201, title I, §102(h), July 29, 2016, 130 Stat. 791, provided that: "The Secretary of Housing and Urban Development shall issue notice or regulations to implement this section \[amending this section and section 1437f of this title and enacting provisions set outas a note below\] and this section shall take effect after such issuance, except that this section may only take effect upon the commencement of a calendar year."
+Pub. L. 114–201, title I, §102(h), July 29, 2016, 130 Stat. 791, provided that: "The Secretary of Housing and Urban Development shall issue notice or regulations to implement this section \[amending this section and section 1437f of this title and enacting provisions set out as a note below\] and this section shall take effect after such issuance, except that this section may only take effect upon the commencement of a calendar year."
 
 #### Effective Date of 1998 Amendment
 
@@ -854,7 +876,7 @@ The Department of Housing and Urban Development adopted an interim rule, 24 CFR 
 
 Pub. L. 115–31, div. K, title II, §240, May 5, 2017, 131 Stat. 789, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement section 78001 of title LXXVIII of the Fixing America's Surface Transportation Act (Public Law 114–94) \[amending this section and section 1437f of this title\], and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
-Pub. L. 113–76, div. L, title II, §243, Jan. 17, 2014, 128 Stat. 637, provided that: "The Secretary shall establishby notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under section 1437f of this title\] under this title and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
+Pub. L. 113–76, div. L, title II, §243, Jan. 17, 2014, 128 Stat. 637, provided that: "The Secretary shall establish by notice such requirements as may be necessary to implement sections 210, 212, 220, 238, and 242 \[amending this section and sections 1437f and 1437n of this title and enacting provisions set out as a note under section 1437f of this title\] under this title and the notice shall take effect upon issuance: <i>Provided</i>, That the Secretary shall commence rulemaking based on the initial notice no later than the expiration of the 6-month period following issuance of the notice and the rulemaking shall allow for the opportunity for public comment."
 
 Pub. L. 104–99, title IV, §402(b)(2), Jan. 26, 1996, 110 Stat. 41, provided that:
 
@@ -880,9 +902,47 @@ Pub. L. 102–550, title I, §191, Oct. 28, 1992, 106 Stat. 3750, provided that:
 
 Pub. L. 105–276, title V, §508(b)(2), Oct. 21, 1998, 112 Stat. 2528, provided that: "Notwithstanding the amendment made by paragraph (1) \[amending this section\], the provisions of the undesignated paragraph at the end of section 3(c)(3) of the United States Housing Act of 1937 \[see 1998 and 1992 Amendment notes above\], as such section was in effect immediately before the enactment of this Act \[Oct. 21, 1998\], shall continue to apply until the effective date under section 503 of this Act \[set out as a note under section 1437 of this title\]. Notwithstanding the amendment made by subsection (a) of this section \[amending this section\], nor the applicability under section 402(f) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note) of the amendments made by such section 402 \[see Effective and Termination Dates of 1996 Amendments note set out above\], nor any repeal of such section 402(f), the provisions of section 3(b)(5)(G) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)(5)(G)), as such section was in effect immediately before the date of the enactment of this Act, shall continue to apply until the effective date under section 503 of this Act."
 
+#### Construction of 2020 Amendment
+
+Pub. L. 116–260, div. Q, title I, §101(j), Dec. 27, 2020, 134 Stat. 2165, provided that: "Nothing in the amendments made by this section \[amending this section, sections 1437f, 1484, 1485, 8013, and 12905 of this title, and section 1701q of Title 12, Banks and Banking\] shall be construed to preempt or limit the applicability of any State or local law relating to the installation and maintenance of carbon monoxide alarms or detectors in housing that requires standards that are more stringent than the standards described in the amendments made by this section."
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Carbon Monoxide Alarms or Detectors in Federally Assisted Housing
+
+Pub. L. 116–260, div. Q, title I, §101(a), Dec. 27, 2020, 134 Stat. 2162, provided that:
+
+"(a)
+
+Findings.—Congress finds that—
+
+&emsp;"(1) carbon monoxide alarms are not required by federally assisted housing programs, when not required by State or local codes;
+
+&emsp;"(2) numerous federally assisted housing residents have lost their lives due to carbon monoxide poisoning;
+
+&emsp;"(3) the effects of carbon monoxide poisoning occur immediately and can result in death in a matter of minutes;
+
+&emsp;"(4) carbon monoxide exposure can cause permanent brain damage, life-threatening cardiac complications, fetal death or miscarriage, and death, among other harmful health conditions;
+
+&emsp;"(5) carbon monoxide poisoning is especially dangerous for unborn babies, children, elderly individuals, and individuals with cardiovascular disease, among others with chronic health conditions;
+
+&emsp;"(6) the majority of the 4,600,000 families receiving Federal housing assistance are families with young children, elderly individuals, or individuals with disabilities, making them especially vulnerable to carbon monoxide poisoning;
+
+&emsp;"(7) more than 400 people die and 50,000 additional people visit the emergency room annually as a result of carbon monoxide poisoning;
+
+&emsp;"(8) carbon monoxide poisoning is entirely preventable and early detection is possible with the use of carbon monoxide alarms;
+
+&emsp;"(9) the Centers for Disease Control and Prevention warns that carbon monoxide poisoning is entirely preventable and recommends the installation of carbon monoxide alarms;
+
+&emsp;"(10) the Office of Lead Hazard Control and Healthy Homes of the Department of Housing and Urban Development recommends the installation of carbon monoxide alarms as a best practice to keep families and individuals safe and to protect health; and
+
+&emsp;"(11) in order to safeguard the health and well-being of tenants in federally assisted housing, the Federal Government should consider best practices for primary prevention of carbon monoxide-related incidents."
+
+#### Guidance on Home Health Hazard Education
+
+Pub. L. 116–260, div. Q, title I, §101(g), Dec. 27, 2020, 134 Stat. 2165, provided that: "The Secretary of Housing and Urban Development shall provide guidance to public housing agencies (as defined in section 3(b)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)(6)) on how to educate tenants on health hazards in the home, including to carbon monoxide poisoning, lead poisoning, asthma induced by housing-related allergens, and other housing-related preventable outcomes, to help advance primary prevention and prevent future deaths and other harms."
 
 #### Adjustments to Operating Formula Due to Impact on Public Housing Revenues
 

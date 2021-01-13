@@ -30,7 +30,7 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 #### (B) Business development corporation
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "business development corporation" means a corporation which was created by or pursuant to an act of a State legislature for purposes of promoting, maintaining, and assisting the economy and industry within such State on a regional or statewide basis bymaking loans to be used in trades and businesses which would generally not be made by banks within such region or State in the ordinary course of their business (except on the basis of a partial participation), and which is operated primarily for such purposes.
+&emsp;&emsp;For purposes of subparagraph (A), the term "business development corporation" means a corporation which was created by or pursuant to an act of a State legislature for purposes of promoting, maintaining, and assisting the economy and industry within such State on a regional or statewide basis by making loans to be used in trades and businesses which would generally not be made by banks within such region or State in the ordinary course of their business (except on the basis of a partial participation), and which is operated primarily for such purposes.
 
 #### (C) Limitations on foreign banks
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 671(b)(4) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 
-Amendment by section 901(d)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
+Amendment by section 901(d)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -97,6 +97,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
@@ -131,6 +133,8 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
 <b>1966</b>—Pub. L. 89–747, §1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
 
+#### <b>Executive Documents</b>
+
 #### Modernizing Federal Leave Policies for Childbirth, Adoption, and Foster Care To Recruit and Retain Talent and Improve Productivity
 
 Memorandum of President of the United States, Jan. 15, 2015, 80 F.R. 3135, provided:
@@ -139,9 +143,9 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Now more than ever, our Nation's economic success rests on our ability to empower our citizens to choose jobs that best utilize their talents and interests. All employers, including the Federal Government, should support parents to ensure they can both contribute fully in the workplace and also meet the needs of their families. The availability of paid maternity leave, for example, has been shown to increase the likelihood that mothers return to their jobs following the birth of a child, and paid maternity and paternity leave has been shown to improve the health and development outcomes of the infant. In addition, it is critically important for parents and their newborn or newly adopted child to have the opportunity to form strong family attachments and relationships.
 
-Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offeringfamily leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
+Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offering family leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
 
-My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
+My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies ofleading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to further build on these important goals and the work currently underway by the Office of Personnel Management (OPM) and other agencies to review existing personnel policies, I hereby direct as follows:
 

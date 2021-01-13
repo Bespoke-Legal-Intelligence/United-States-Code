@@ -10,7 +10,7 @@
 
 (e) As used in this subsection—
 
-&emsp;(1) "depository institution" has the meaning stated in clauses (i) through (vi) of section19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
+&emsp;(1) "depository institution" has the meaning stated in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
 
 &emsp;(2) "government securities broker" has the meaning prescribed in section 3(a)(43) of the Securities Exchange Act of 1934.
 
@@ -20,6 +20,8 @@
 
 (Added Pub. L. 99–571, title II, §201(b)(1), Oct. 28, 1986, 100 Stat. 3223; amended Pub. L. 103–272, §4(f)(1)(AA), July 5, 1994, 108 Stat. 1363.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(a)(34)(G), (42)(B), (C), (43), (44) of the Securities Exchange Act of 1934, referred to in subsecs. (a) and (e)(2)–(4), is classified to section 78c(a)(34)(G), (42)(B), (C), (43), (44) of Title 15, Commerce and Trade.
@@ -28,7 +30,7 @@ Section 8(b) or 8(c) of the Federal Deposit Insurance Act, referred to in subsec
 
 Section 5(d)(2) or 5(d)(3) of the Home Owners' Loan Act of 1933, referred to in subsec. (b), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
-Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 ofTitle 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec. (b), is classified to section 1786(e), (f) of Title 12.
 
@@ -39,6 +41,8 @@ The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L.
 #### Amendments
 
 <b>1994</b>—Subsec. (e)(1). Pub. L. 103–272 substituted "section" for "subparagraph".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Promulgation of Regulations
 

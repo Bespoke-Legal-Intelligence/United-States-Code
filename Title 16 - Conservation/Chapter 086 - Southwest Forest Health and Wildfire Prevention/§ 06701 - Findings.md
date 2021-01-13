@@ -40,7 +40,7 @@ Congress finds that—
 
 &emsp;&emsp;(F) provide a basis in some areas for economically and environmentally sustainable uses;
 
-&emsp;(11) sustaining the long-term ecological and economic health of interior West forests andwoodland, and their associated human communities requires preventing severe wildfires before the wildfires occur and permitting natural, low-intensity ground fires;
+&emsp;(11) sustaining the long-term ecological and economic health of interior West forests and woodland, and their associated human communities requires preventing severe wildfires before the wildfires occur and permitting natural, low-intensity ground fires;
 
 &emsp;(12) more natural fire regimes cannot be accomplished without the reduction of excess fuels and thinning of subdominant trees (which fuels and trees may be of commercial value);
 

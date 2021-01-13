@@ -60,7 +60,7 @@ A prior section 1501 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 19
 
 Prior sections 300k–2 and 300k–3 were repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
-Section 300k–2, act July 1, 1944, ch. 373, title XV, §1502, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2227; amended Nov. 9, 1978, Pub. L. 95–619, title III, §303(a), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§102(a), 103(a), (b), 93 Stat. 594, 595, related to national health priorities and strengthening competition in supply of services.
+Section 300k–2, act July 1, 1944, ch. 373, title XV, §1502, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat.2227; amended Nov. 9, 1978, Pub. L. 95–619, title III, §303(a), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§102(a), 103(a), (b), 93 Stat. 594, 595, related to national health priorities and strengthening competition in supply of services.
 
 Section 300k–3, act July 1, 1944, ch. 373, title XV, §1503, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to National Council on Health Planning and Development.
 

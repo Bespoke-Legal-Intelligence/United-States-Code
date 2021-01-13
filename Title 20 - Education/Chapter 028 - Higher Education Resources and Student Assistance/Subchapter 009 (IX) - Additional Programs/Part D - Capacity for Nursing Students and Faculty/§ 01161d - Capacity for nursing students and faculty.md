@@ -32,13 +32,13 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;&emsp;(ii) receive an income from the hospital or health facility, as at least a part-time employee, and release times or flexible schedules, to accommodate their program requirements, as necessary; and
 
-&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited school of nursing for each year of support the individual received under this section.
+&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited schoolof nursing for each year of support the individual received under this section.
 
 #### (c) Grant amount; award basis
 
 #### (1) Grant amount
 
-&emsp;For each academic year after academic year 2009–2010, the Secretary is authorized to provide to each institution of higher education awarded a grant under this section an amountthat is equal to $3,000 multiplied by the number by which—
+&emsp;For each academic year after academic year 2009–2010, the Secretary is authorized to provide to each institution of higher education awarded a grant under this section an amount that is equal to $3,000 multiplied by the number by which—
 
 &emsp;&emsp;(A) the number of matriculated nursing program students at such institution for such academic year, exceeds
 

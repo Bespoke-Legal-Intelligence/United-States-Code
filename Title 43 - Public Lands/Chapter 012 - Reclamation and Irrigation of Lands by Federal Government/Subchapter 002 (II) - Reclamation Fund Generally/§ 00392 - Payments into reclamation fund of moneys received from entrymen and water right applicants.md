@@ -4,9 +4,13 @@ All moneys received from entrymen or applicants for water rights shall be paid i
 
 (June 17, 1902, ch. 1093, §5, 32 Stat. 389.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of fourth sentence of section 5 of act June 17, 1902. First, second and fifth sentences of such section 5 were classified to sections 439, 431 and 381 of this title, respectively; part of third sentence was classified to section 476 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Section as Unaffected by Submerged Lands Act
 

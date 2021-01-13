@@ -8,7 +8,7 @@
 
 (d) The leader of the Naval Academy Band is entitled to the basic pay of the grade the Secretary of the Navy prescribes. The second leader is entitled to the basic pay of a warrant officer, W–1.
 
-(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic paymay not be less than that to which he was entitled at the time of his appointment as director.
+(e) The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, §2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, §3(b)(1), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, §809(m)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
@@ -58,6 +58,8 @@ In subsection (c), the last 22 words of section 6221(b) of title 10 are omitted 
 
 In subsection (e), the 2d sentence of section 6969(b) of title 10 is omitted as covered by section 205 of this revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "section 8287 of title 10" for "section 6222 of title 10".
@@ -69,6 +71,8 @@ Subsecs. (c) to (e). Pub. L. 95–551 redesignated former subsecs. (d) to (f) as
 Subsec. (f). Pub. L. 95–551 redesignated former subsec. (f) as (e).
 
 <b>1965</b>—Subsec. (f). Pub. L. 89–189 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

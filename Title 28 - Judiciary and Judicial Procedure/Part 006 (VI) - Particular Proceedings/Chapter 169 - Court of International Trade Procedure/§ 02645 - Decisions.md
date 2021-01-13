@@ -12,9 +12,13 @@
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1738; amended Pub. L. 97–164, title I, §141, Apr. 2, 1982, 96 Stat. 45.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted "is taken to the Court of Appeals for the Federal Circuit by filing a notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts" for "is taken to the Court of Customs and Patent Appeals within the time and in the manner provided in section 2601 of this title".
+<b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted "is taken to the Court of Appeals for the Federal Circuit by filinga notice of appeal with the clerk of the Court of International Trade within the time and in the manner prescribed for appeals to United States courts of appeals from the United States district courts" for "is taken to the Court of Customs and Patent Appeals within the time and in the manner provided in section 2601 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

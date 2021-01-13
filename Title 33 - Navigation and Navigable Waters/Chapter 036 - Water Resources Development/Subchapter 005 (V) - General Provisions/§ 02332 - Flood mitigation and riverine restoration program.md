@@ -40,7 +40,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (C) Credit
 
-&emsp;&emsp;The value of such land, easements, rights-of-way, dredged material disposal areas, andrelocations shall be credited toward the payment required under this paragraph.
+&emsp;&emsp;The value of such land, easements, rights-of-way, dredged material disposal areas, and relocations shall be credited toward the payment required under this paragraph.
 
 #### (3) Structural flood control projects
 
@@ -174,7 +174,7 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 
 #### (A) Limitation on appropriations
 
-&emsp;&emsp;No appropriation shall be made to construct any project under this section thetotal Federal cost of construction of which exceeds $15,000,000 if the project has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+&emsp;&emsp;No appropriation shall be made to construct any project under this section the total Federal cost of construction of which exceeds $15,000,000 if the project has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
 #### (B) Report
 
@@ -191,6 +191,8 @@ Not more than $30,000,000 may be expended by the United States on any single pro
 &emsp;All studies and projects carried out under this section from Army Civil Works appropriations shall be fully funded within the program funding levels provided in this subsection.
 
 (Pub. L. 106–53, title II, §212, Aug. 17, 1999, 113 Stat. 288; Pub. L. 106–541, title II, §227, Dec. 11, 2000, 114 Stat. 2599; Pub. L. 110–114, title V, §5005, Nov. 8, 2007, 121 Stat. 1192.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -211,6 +213,8 @@ Subsec. (i)(1). Pub. L. 110–114, §5005(b), substituted "section $20,000,000" 
 &emsp;"(C) $50,000,000 for each of fiscal years 2003 through 2005".
 
 <b>2000</b>—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -1,6 +1,6 @@
 ### §1366. Destruction of an energy facility
 
-(a) Whoever knowingly and willfully damages or attempts or conspires to damage the propertyof an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed, or if the object of the conspiracy had been achieved, have exceeded $100,000, or damages or attempts or conspires to damage the property of an energy facility in any amount and causes or attempts or conspires to cause a significant interruption or impairment of a function of an energy facility, shall be punishable by a fine under this title or imprisonment for not more than 20 years, or both.
+(a) Whoever knowingly and willfully damages or attempts or conspires to damage the property of an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed, or if the object of the conspiracy had been achieved, have exceeded $100,000, or damages or attempts or conspires to damage the property of an energy facility in any amount and causes or attempts or conspires to cause a significant interruption or impairment of a function of an energy facility, shall be punishable by a fine under this title or imprisonment for not more than 20 years, or both.
 
 (b) Whoever knowingly and willfully damages or attempts to damage the property of an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed have exceeded $5,000 shall be punishable by a fine under this title, or imprisonment for not more than five years, or both.
 
@@ -9,6 +9,8 @@
 (d) Whoever is convicted of a violation of subsection (a) or (b) that has resulted in the death of any person shall be subject to imprisonment for any term of years or life.
 
 (Added Pub. L. 98–473, title II, §1011(a), Oct. 12, 1984, 98 Stat. 2141, §1365; renumbered §1366, Pub. L. 99–646, §29(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §§3545, 3546, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–272, §5(e)(9), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXII, §320903(d)(3), title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2125, 2148; Pub. L. 107–56, title VIII, §810(b), Oct. 26, 2001, 115 Stat. 380; Pub. L. 109–177, title IV, §406(c)(2), Mar. 9, 2006, 120 Stat. 245.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

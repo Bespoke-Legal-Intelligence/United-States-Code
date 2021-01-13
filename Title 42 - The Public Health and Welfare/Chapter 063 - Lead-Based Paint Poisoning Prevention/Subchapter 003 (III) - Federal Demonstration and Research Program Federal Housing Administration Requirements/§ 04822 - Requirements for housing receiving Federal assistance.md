@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(E) abatement of lead-based paint hazards in the course of substantial rehabilitation projects receiving more than $25,000 per unit in Federal funds;
 
-&emsp;&emsp;(F) where risk assessment, inspection, or reduction activities have been undertaken, the provision of notice to occupants describing the nature and scope of such activities and the actual risk assessment or inspection reports (including available information on the location of any remaining lead-based paint on a surface-by-surface basis); and
+&emsp;&emsp;(F) where risk assessment, inspection, or reduction activities have been undertaken, the provision of notice to occupants describing the nature and scope of such activities and the actual risk assessment or inspectionreports (including available information on the location of any remaining lead-based paint on a surface-by-surface basis); and
 
 &emsp;&emsp;(G) such other measures as the Secretary deems appropriate.
 
@@ -42,7 +42,7 @@
 
 #### (C) Budget authority
 
-&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government of outstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), theserequirements shall not apply to the affected agency or agencies.
+&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government of outstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), these requirements shall not apply to the affected agency or agencies.
 
 #### (D) Definitions
 
@@ -216,7 +216,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 765, 766, which provided 
 
 #### Lead-Based Paint Technical Guidelines; Draft Guidelines
 
-Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that: "If the Secretary of the Department of Housing and Urban Development has not issued the lead-based paint technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods and acceptable post-abatement lead dust levels by April 1, 1990, the Department's September 29, 1989, draft guidelines shall take effect and remain in force until revised by the Secretary."
+Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that if the Secretary of the Department of Housing and Urban Development had not issued the lead-based paint technical guidelines on reliable testing protocols by April 1, 1990, the Department's Sept. 29, 1989, draft guidelines would take effect until revised by the Secretary.
 
 #### Prerequisites to Implementation of Regulations Regarding Testing and Abatement of Lead-Based Paint in Public Housing
 

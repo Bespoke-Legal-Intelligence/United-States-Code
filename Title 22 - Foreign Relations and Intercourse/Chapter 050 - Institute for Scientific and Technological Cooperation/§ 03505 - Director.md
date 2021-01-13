@@ -6,13 +6,17 @@ There shall be a Director of the Institute (hereafter in this chapter referred t
 
 #### (b) Exercise of Presidential authority; delegation of authority
 
-The President may exercise any authorities conferred upon him by this chapter through the Director or any other agency or officer of the United States Government as he shall direct. The Director or head of any such agency or any such officer may delegate to any of his subordinates authority to perform any of such functions.
+The President may exercise any authorities conferred upon him by this chapter through the Director or any other agency or officer of theUnited States Government as he shall direct. The Director or head of any such agency or any such officer may delegate to any of his subordinates authority to perform any of such functions.
 
 (Pub. L. 96–53, title IV, §405, Aug. 14, 1979, 93 Stat. 373.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

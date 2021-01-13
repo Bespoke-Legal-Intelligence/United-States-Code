@@ -18,9 +18,13 @@ The Secretary shall apply the policy under subsection (a) to each shore protecti
 
 (Pub. L. 110–114, title II, §2018, Nov. 8, 2007, 121 Stat. 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of July 3, 1930, referred to in subsec. (a), is act July 3, 1930, ch. 847, 46 Stat. 918. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

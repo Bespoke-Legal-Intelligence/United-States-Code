@@ -2,7 +2,7 @@
 
 #### (a) Use of reimbursement for planning activities for health services and facilities
 
-The purpose of this section is to assure that Federal funds appropriated under subchapters XVIII and XIX are not used to support unnecessary capital expenditures made by or on behalf of health care facilities which are reimbursed under any of such subchapters and that, to the extent possible, reimbursement under such subchapters shall support planning activities with respect to health services and facilities in the various States.
+The purpose of this section is to assure that Federal funds appropriated under subchapters XVIII and XIX are not used to support unnecessary capital expenditures made by or on behalfof health care facilities which are reimbursed under any of such subchapters and that, to the extent possible, reimbursement under such subchapters shall support planning activities with respect to health services and facilities in the various States.
 
 #### (b) Agreement between Secretary and State for submission of proposed capital expenditures related to health care facilities and procedures for appeal from recommendations
 
@@ -36,7 +36,7 @@ The Secretary shall pay any such State from the general fund in the Treasury, in
 
 > then, for such period as he finds necessary in any case to effectuate the purpose of this section, he shall, in determining the Federal payments to be made under subchapters XVIII and XIX with respect to services furnished in the health care facility for which such capital expenditure is made, not include any amount which is attributable to depreciation, interest on borrowed funds, a return on equity capital (in the case of proprietary facilities), or other expenses related to such capital expenditure. With respect to any organization which is reimbursed on a per capita or a fixed fee or negotiated rate basis, in determining the Federal payments to be made under subchapters XVIII and XIX, the Secretary shall exclude an amount which in his judgment is a reasonable equivalent to the amount which would otherwise be excluded under this subsection if payment were to be made on other than a per capita or a fixed fee or negotiated rate basis.
 
-(2) If the Secretary, after submitting the matters involved to the advisory council established or designated under subsection (i), determines that an exclusion of expenses related to any capital expenditure of any health care facility would discourage the operation or expansion of such facility which has demonstrated to his satisfaction proof of capability to provide comprehensive health care services (including institutional services) efficiently, effectively, and economically, or would otherwise be inconsistent with the effective organization and delivery of health services or the effective administration of subchapter XVIII or XIX, he shall not exclude such expenses pursuant to paragraph (1).
+(2) If the Secretary, after submitting the matters involved to the advisory council establishedor designated under subsection (i), determines that an exclusion of expenses related to any capital expenditure of any health care facility would discourage the operation or expansion of such facility which has demonstrated to his satisfaction proof of capability to provide comprehensive health care services (including institutional services) efficiently, effectively, and economically, or would otherwise be inconsistent with the effective organization and delivery of health services or the effective administration of subchapter XVIII or XIX, he shall not exclude such expenses pursuant to paragraph (1).
 
 #### (e) Treatment of lease or comparable arrangement of any facility or equipment for a facility in determining amount of exclusions from Federal payments
 
@@ -48,7 +48,7 @@ Any person dissatisfied with a determination by the Secretary under this section
 
 #### (g) "Capital expenditure" defined
 
-For the purposes of this section, a "capital expenditure" is an expenditure which, under generally accepted accounting principles, is not properly chargeable as an expense of operation and maintenance and which (1) exceeds $600,000 (or such lesser amount as the State may establish), (2) changes the bed capacity of the facility with respect to which such expenditure is made, or (3) substantially changes the services of the facility with respect to which such expenditure is made. For purposes of clause (1) of the preceding sentence, the cost of the studies, surveys, designs, plans, working drawings, specifications, and other activities essential to the acquisition, improvement, expansion, or replacement of theplant and equipment with respect to which such expenditure is made shall be included in determining whether such expenditure exceeds the dollar amount specified in clause (1).
+For the purposes of this section, a "capital expenditure" is an expenditure which, under generally accepted accounting principles, is not properly chargeable as an expense of operation and maintenance and which (1) exceeds $600,000 (or such lesser amount as the State may establish), (2) changes the bed capacity of the facility with respect to which such expenditure is made, or (3) substantially changes the services of the facility with respect to which such expenditure is made. For purposes of clause (1) of the preceding sentence, the cost of the studies, surveys, designs, plans, working drawings, specifications, and other activities essential to the acquisition, improvement, expansion, or replacement of the plant and equipment with respect to which such expenditure is made shall be included in determining whether such expenditure exceeds the dollar amount specified in clause (1).
 
 #### (h) Applicability to Christian Science sanatoriums
 
@@ -100,7 +100,7 @@ Subsec. (j). Pub. L. 98–21, §607(c), added subsec. (j).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §2193(c)(3)(A), substituted "subchapters XVIII and XIX" for "subchapters V, XVIII, and XIX".
 
-Subsec. (d)(1). Pub. L. 97–35, §2193(c)(3)(A), substituted in provision following subpar. (B)(ii)(II) "subchaptersXVIII and XIX" for "subchapters V, XVIII, and XIX" in two places.
+Subsec. (d)(1). Pub. L. 97–35, §2193(c)(3)(A), substituted in provision following subpar. (B)(ii)(II) "subchapters XVIII and XIX" for "subchapters V, XVIII, and XIX" in two places.
 
 Subsec. (d)(2). Pub. L. 97–35, §2193(c)(3)(B), as amended by Pub. L. 97–248, §137(a)(5), substituted "subchapter XVIII or XIX" for "subchapter V, XVIII, or XIX".
 
@@ -142,7 +142,7 @@ Pub. L. 92–603, title II, §221(b), Oct. 30, 1972, 86 Stat. 1389, provided tha
 
 #### Termination of Advisory Councils
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of theFederal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

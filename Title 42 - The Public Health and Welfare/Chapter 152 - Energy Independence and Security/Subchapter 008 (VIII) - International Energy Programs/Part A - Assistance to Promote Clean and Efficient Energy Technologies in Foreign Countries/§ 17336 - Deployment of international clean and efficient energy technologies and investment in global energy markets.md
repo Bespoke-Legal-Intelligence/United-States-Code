@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) the export of clean and efficient energy technologies; and
 
-&emsp;&emsp;(D) develop financial mechanisms and instruments, including securities that mitigate the political and foreign exchange risks of uses that are consistent with the foreign policy objectives of the United States by combining the private sector market and government enhancements, that—
+&emsp;&emsp;(D) develop financial mechanisms and instruments, including securities that mitigate the political and foreign exchange risksof uses that are consistent with the foreign policy objectives of the United States by combining the private sector market and government enhancements, that—
 
 &emsp;&emsp;&emsp;(i) are cost-effective; and
 
@@ -108,7 +108,7 @@
 
 #### (2) Updates
 
-&emsp;Not later than 3 years after the date of submission of the strategy under paragraph (1),and every 3 years thereafter, the Task Force shall update the strategy in accordance with the requirements of paragraph (1).
+&emsp;Not later than 3 years after the date of submission of the strategy under paragraph (1), and every 3 years thereafter, the Task Force shall update the strategy in accordance with the requirements of paragraph (1).
 
 #### (d) Report
 

@@ -42,7 +42,7 @@ In general.—Subject to the exceptions in subsection (c), a person who unlawful
 
 &emsp;&emsp;&emsp;(vi) any equipment, materials, or software or related technology that significantly contributes to the design, manufacture, or delivery of a biological or chemical weapon, with the intention that it will be used for such purpose;
 
-&emsp;&emsp;(C) transports another person on board a ship knowing that the person has committedan act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section <sup>1</sup> or an offense set forth in an applicable treaty, as specified in section 2280(d)(1), and intending to assist that person to evade criminal prosecution;
+&emsp;&emsp;(C) transports another person on board a ship knowing that the person has committed an act that constitutes an offense under section 2280 or subparagraph (A), (B), (D), or (E) of this section <sup>1</sup> or an offense set forth in an applicable treaty, as specified in section 2280(d)(1), and intending to assist that person to evade criminal prosecution;
 
 &emsp;&emsp;(D) injures or kills any person in connection with the commission or the attempted commission of any of the offenses set forth in subparagraphs (A) through (C), or subsection (a)(2), to the extent that the subsection (a)(2) offense pertains to subparagraph (A); or
 
@@ -93,6 +93,8 @@ Civil Forfeiture.—Any real or personal property used or intended to be used to
 Applicable Procedures.—Seizures and forfeitures under this section shall be governed by the provisions of chapter 46 of title 18, United States Code, relating to civil forfeitures, except that such duties as are imposed upon the Secretary of the Treasury under the customs laws described in section 981(d) shall be performed by such officers, agents, and other persons as may be designated for that purpose by the Secretary of Homeland Security, the Attorney General, or the Secretary of Defense.
 
 (Added Pub. L. 114–23, title VIII, §802(a), June 2, 2015, 129 Stat. 304.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

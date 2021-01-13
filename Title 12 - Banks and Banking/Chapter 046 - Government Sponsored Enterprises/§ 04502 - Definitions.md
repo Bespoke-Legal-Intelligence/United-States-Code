@@ -62,7 +62,7 @@ For purposes of this chapter:
 
 #### (A) Default
 
-&emsp;&emsp;The term "default" means, with respect to a regulated entity, any adjudication or otherofficial determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
+&emsp;&emsp;The term "default" means, with respect to a regulated entity, any adjudication or other official determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
 
 #### (B) In danger of default
 
@@ -168,7 +168,7 @@ For purposes of this chapter:
 
 #### (22) State
 
-&emsp;The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, andany other territory or possession of the United States.
+&emsp;The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (23) Total capital
 
@@ -250,7 +250,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;The term "shortage of standard rental units both affordable and available to very low-income renter households" means the gap between—
 
-&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percentof the adjusted area median income as determined by the Director that are occupied by either extremely low- or very low-income renter households or are vacant for rent; and
+&emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percent of the adjusted area median income as determined by the Director that are occupied by either extremely low- or very low-income renter households or are vacant for rent; and
 
 &emsp;&emsp;&emsp;(ii) the number of extremely low- and very low-income renter households.
 
@@ -259,6 +259,8 @@ For purposes of this chapter:
 &emsp;&emsp;If the number of units described in subparagraph (A)(i) exceeds the number of extremely low- and very low-income households as described in subparagraph (A)(ii), there is no shortage.
 
 (Pub. L. 102–550, title XIII, §1303, Oct. 28, 1992, 106 Stat. 3942; Pub. L. 110–289, div. A, §1002(a), title I, §1128(d), July 30, 2008, 122 Stat. 2659, 2702.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -279,6 +281,8 @@ Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, §1002(a)(1), substitute
 Par. (24). Pub. L. 110–289, §1128(d)(1), added par. (24) and struck out former par. (24) which defined the term "very low-income".
 
 Pars. (26) to (31). Pub. L. 110–289, §1128(d)(2), added pars. (26) to (31).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

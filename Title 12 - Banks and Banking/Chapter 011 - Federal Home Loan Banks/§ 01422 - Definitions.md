@@ -50,7 +50,7 @@ In general.—The term "community financial institution" means a member—
 
 &emsp;&emsp;(B)
 
-Adjustments.—The $1,000,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Director, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
+Adjustments.—The $1,000,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Director, based onthe annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
 
 &emsp;(11)
 
@@ -61,6 +61,8 @@ Director.—The term "Director" means the Director of the Federal Housing Financ
 Agency.—The term "Agency" means the Federal Housing Finance Agency, established under section 4511 of this title.
 
 (July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450; Pub. L. 110–289, div. A, title II, §§1203, 1204(8), (10), 1211(a), July 30, 2008, 122 Stat. 2785, 2786, 2790.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

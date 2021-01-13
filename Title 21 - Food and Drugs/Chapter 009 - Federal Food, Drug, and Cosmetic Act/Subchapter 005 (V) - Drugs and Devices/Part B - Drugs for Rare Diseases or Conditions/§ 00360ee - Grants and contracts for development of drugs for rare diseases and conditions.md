@@ -24,7 +24,7 @@ For purposes of subsection (a):
 
 &emsp;&emsp;&emsp;(ii) understand the full spectrum of the disease manifestations, including describing genotypic and phenotypic variability and identifying and defining distinct subpopulations affected by a rare disease or condition.
 
-&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease orcondition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
+&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
 
 &emsp;(3) The term "medical food" means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 
@@ -33,6 +33,8 @@ For purposes of subsection (a):
 For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
 (Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -72,6 +74,8 @@ Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropr
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–551 substituted "which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which" for "which occurs so infrequently in the United States that".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–91 effective Oct. 1, 1985, see section 8(a) of Pub. L. 99–91, set out as a note under section 360aa of this title.
@@ -90,7 +94,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs.
 
-&emsp;"(4) The Orphan Drug Act \[see Short Title of 1983 Amendments note set out under section 301 of this title\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development forproducts that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
+&emsp;"(4) The Orphan Drug Act \[see Short Title of 1983 Amendments note set out under section 301 of this title\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
 
 &emsp;"(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act \[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
 

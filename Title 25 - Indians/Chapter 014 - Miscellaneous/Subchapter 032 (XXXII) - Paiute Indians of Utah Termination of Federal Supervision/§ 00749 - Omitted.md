@@ -1,5 +1,7 @@
 ### §749. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1954, ch. 1207, §9, 68 Stat. 1102, which related to taxation of property distributed under this subchapter, was omitted from the Code as being of special and not general application.

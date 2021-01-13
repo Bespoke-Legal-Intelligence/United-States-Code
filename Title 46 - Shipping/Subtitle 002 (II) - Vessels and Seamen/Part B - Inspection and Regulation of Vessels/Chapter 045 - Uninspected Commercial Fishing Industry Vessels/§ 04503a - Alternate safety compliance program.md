@@ -12,7 +12,7 @@
 
 (c) For purposes of subsection (a), a separate alternate safety compliance program may be developed for a specific region or specific fishery.
 
-(d) Notwithstanding subsection (a), vessels owned by a person that owns more than 30 vessels subject to that subsection are not required to meet the alternate safety compliance requirements of that subsection until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that subsection bythat date and the vessel owner is meeting that schedule.
+(d) Notwithstanding subsection (a), vessels owned by a person that owns more than 30 vessels subject to that subsection are not required to meet the alternate safety compliance requirements of that subsection until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that subsection by that date and the vessel owner is meeting that schedule.
 
 (e) A fishing vessel, fish processing vessel, or fish tender vessel to which section 4502(b) of this title applies that was classed before July 1, 2012 is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and,<sup>1</sup> shall—
 
@@ -23,6 +23,8 @@
 (f) For the purposes of this section, the term "built" has the meaning given that term in section 4503(f).
 
 (Added and amended Pub. L. 115–282, title V, §508(a), (c), Dec. 4, 2018, 132 Stat. 4272.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -49,6 +51,8 @@ Subsec. (e). Pub. L. 115–282, §508(c)(8)(B), redesignated subpars. (A) and (B
 Pub. L. 115–282, §508(c)(8)(A), inserted "is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and" after "July 1, 2012" in introductory provisions.
 
 Subsec. (f). Pub. L. 115–282, §508(c)(9), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Alternative Safety Compliance Program
 

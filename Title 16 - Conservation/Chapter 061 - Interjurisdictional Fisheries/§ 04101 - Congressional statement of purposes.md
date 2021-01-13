@@ -24,5 +24,5 @@ Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that
 
 #### Short Title
 
-Pub. L. 99–659, title III, §301, Nov. 14, 1986, 100 Stat. 3731, provided that: "This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] may be cited as the 'Interjurisdictional Fisheries Act of 1986'."
+Pub. L. 99–659, title III, §301, Nov. 14, 1986, 100 Stat. 3731, provided that: "This title \[enacting this chapterand repealing chapter 10D (§779 et seq.) of this title\] may be cited as the 'Interjurisdictional Fisheries Act of 1986'."
 

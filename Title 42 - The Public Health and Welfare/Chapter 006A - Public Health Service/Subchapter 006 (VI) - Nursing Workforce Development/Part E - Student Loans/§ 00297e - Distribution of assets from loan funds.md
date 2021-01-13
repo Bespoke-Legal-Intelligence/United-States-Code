@@ -32,7 +32,7 @@ This part, referred to in subsec. (c)(1), was in the original "this subpart" and
 
 Subsec. (a)(1). Pub. L. 105–392, §133(e)(1)(B), substituted "on the date of termination of the fund" for "at the close of September 30, 1999,".
 
-Subsec. (b). Pub. L. 105–392, §133(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school after September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement aswas determined for the Secretary under subsection (a) of this section."
+Subsec. (b). Pub. L. 105–392, §133(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school after September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement as was determined for the Secretary under subsection (a) of this section."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–408, §208(b)(2), substituted "1999" for "1994" in introductory provisions and in par. (1).
 

@@ -4,15 +4,19 @@
 
 (b) In carrying out any investigation under this chapter, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy and on request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
 
-(c) Upon application, the district courts of the United States shall have jurisdiction to issue writs commanding any person or employer to comply with the subpoena of the Secretary or to comply with any order of the Secretary made pursuant to a lawful investigation under this chapter and the district courts shall have jurisdiction to punish failure to obey a subpoena or other lawful order of the Secretary as a contempt of court.
+(c) Upon application, the district courts of the United States shall have jurisdiction to issue writs commanding any person or employer to comply with the subpoena of the Secretary or to comply with any order of the Secretary made pursuant to a lawful investigation under this chapter and the district courts shall have jurisdiction to punish failure to obey a subpoena orother lawful order of the Secretary as a contempt of court.
 
 (d) Subsections (b) and (c) shall not apply to the legislative branch or the judicial branch of the United States.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3167; amended Pub. L. 104–275, title III, §311(13), Oct. 9, 1996, 110 Stat. 3336.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–275 inserted "have reasonable access to and the right to interview persons with information relevant to the investigation and shall" after "at all reasonable times,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

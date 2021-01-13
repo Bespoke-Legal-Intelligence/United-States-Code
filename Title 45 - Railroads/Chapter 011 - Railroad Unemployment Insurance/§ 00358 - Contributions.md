@@ -80,7 +80,7 @@
 
 #### (vi) Special transition rule for public commuter railroads
 
-&emsp;&emsp;&emsp;With respect to each of calendar years 1989 and 1990, the contribution of the National Railroad Passenger Corporation and an employer which on November 10, 1988, is a publicly funded and publicly operated carrier providing rail commuter service shall be equal to the amount of benefits attributable to such carrier, plus an amount equal to 0.65 percent of the total compensation paid by that employer in that year on which that employer's contribution would be based under clause (i) if such employer's contribution were determined under that clause.
+&emsp;&emsp;&emsp;With respect to each of calendar years 1989 and 1990, the contribution of the National Railroad Passenger Corporation and an employer which on November 10, 1988, is a publicly funded and publicly operatedcarrier providing rail commuter service shall be equal to the amount of benefits attributable to such carrier, plus an amount equal to 0.65 percent of the total compensation paid by that employer in that year on which that employer's contribution would be based under clause (i) if such employer's contribution were determined under that clause.
 
 #### (C) Experience-rated contributions
 
@@ -116,7 +116,7 @@
 
 #### (viii) Step 8
 
-&emsp;&emsp;&emsp;Reduce the precentage <sup>1</sup> rate computed in accordance with the preceding steps to the maximum contribution limit computed under paragraph (20), if such rate is higher than such limit. The rate computed in accordance with the preceding steps,after any reduction under this clause, is the contribution rate.
+&emsp;&emsp;&emsp;Reduce the precentage <sup>1</sup> rate computed in accordance with the preceding steps to the maximum contribution limit computed under paragraph (20), if such rate is higher than such limit. The rate computed in accordance with the preceding steps, after any reduction under this clause, is the contribution rate.
 
 #### (D) New-employer contribution rates
 
@@ -324,7 +324,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
+&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on thepreceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a surcharge rate for the calendar year only if that balance is less than the greater of $100,000,000 or of the amount that bears the same ratio to $100,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
 
 #### (B) Step 2
 
@@ -478,6 +478,8 @@ All provisions of law, including penalties, applicable with respect to any tax i
 
 (June 25, 1938, ch. 680, §8, 52 Stat. 1102; July 31, 1946, ch. 709, §318, 60 Stat. 739; June 23, 1948, ch. 608, §§4, 5(a), 6, 62 Stat. 577, 578; Aug. 31, 1954, ch. 1164, pt. III, §§305, 306, 68 Stat. 1042; Pub. L. 85–927, pt. II, §203, Sept. 6, 1958, 72 Stat. 1782; Pub. L. 86–28, pt. III, §§306, 307, May 19, 1959, 73 Stat. 32; Pub. L. 88–133, title III, §§303(a), 304, Oct. 5, 1963, 77 Stat. 222, 223; Pub. L. 89–700, title II, §204, title III, §301(i), (ii), Oct. 30, 1966, 80 Stat. 1087, 1088; Pub. L. 94–92, title I, §1(g), (h), Aug. 9, 1975, 89 Stat. 463; Pub. L. 97–35, title XI, §1128(b), Aug. 13, 1981, 95 Stat. 641; Pub. L. 98–76, title V, §503(a), Aug. 12, 1983, 97 Stat. 440; Pub. L. 100–647, title VII, §§7102(a)–(d), 7103(a), Nov. 10, 1988, 102 Stat. 3759–3770; Pub. L. 101–322, §8(a), July 6, 1990, 104 Stat. 297.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
@@ -506,7 +508,7 @@ Pub. L. 100–647, §7102(d)(1), redesignated former subsec. (f) as (i).
 
 Subsecs. (j), (k). Pub. L. 100–647, §7102(d)(1), redesignated former subsecs. (g) and (h) as (j) and (k), respectively.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: "Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than$350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or less than $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
+<b>1983</b>—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: "Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or less than $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
 
 "1. With respect to compensation paid prior to January 1, 1948, the rate shall be 3 per centum;
 
@@ -562,6 +564,8 @@ Subsec. (f). Act June 23, 1948, §6, changed rates of credits to account and fun
 
 Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code for references to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–322, §8(b), July 6, 1990, 104 Stat. 297, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective as of January 1, 1989."
@@ -574,7 +578,7 @@ Pub. L. 100–647, title VII, §7103(c), Nov. 10, 1988, 102 Stat. 3770, provided
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, seesection 503(c) of Pub. L. 98–76, set out as a note under section 351 of this title.
+Amendment by Pub. L. 98–76 applicable to compensation paid for services rendered after Dec. 31, 1983, see section 503(c) of Pub. L. 98–76, set out as a note under section 351 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -608,7 +612,7 @@ Amendment by act July 31, 1946, effective Jan. 1, 1947, see section 402 of act J
 
 #### Adjustment or Refund of Excessive Contributions
 
-Act June 23, 1948, ch. 608, §5(b), 62 Stat. 578, provided that: "Contributions paid under subsection (a) of section 8 of the Railroad Unemployment Insurance Act, as amended \[subsec. (a) of this section\], prior to the enactment of the foregoing amendment thereof \[June 23, 1948\] which are in excess of those required by said subsection as so amended shall be subject to adjustment or refund in accordance with the provisions of subsections (d) and (e) of said section 8 \[subsecs. (d) and (e) of this section\]."
+Act June 23, 1948, ch. 608, §5(b), 62 Stat. 578, provided for adjustment or refund of excessive contributions made under subsec. (a) of this section prior to June 23, 1948.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "percentage".</i>
 

@@ -4,7 +4,7 @@
 
 (b) The business of the Foundation shall be conducted by a Board that shall have seven members, including a chairman. Three members, including the chairman, shall be appointed by the Chief Justice of the United States, two by the President Pro Tempore of the Senate, and two by the Speaker of the House of Representatives. The term of office of each member of the Board shall be 5 years, except that the initial terms shall be 5 years for the chairman, one member appointed by the President Pro Tempore and one member appointed by the Speaker, 3 years for the other member appointed by the President Pro Tempore and the other member appointed by the Speaker, and two years for the two other members appointed by the Chief Justice. Members of the Board shall serve without compensation but, upon authorization of the Director of the Center, shall be reimbursed by the Federal Judicial Center for actual and necessary expenses incurred in the performance of their official duties. No person who is a Federal or State judge in regular active service or otherwise eligible to perform judicial duties shall be eligible for membership on the Board. The Center shall provide all administrative support and facilities necessary for the operation of the Board.
 
-(c) The Federal Judicial Center is authorized to administer and use gifts received by the Foundation under this section. The gifts shall be used to further the goals of the Center as determined by the Board of the Center.
+(c) The Federal Judicial Center is authorized to administer and use gifts received by theFoundation under this section. The gifts shall be used to further the goals of the Center as determined by the Board of the Center.
 
 (d) Gifts of money and proceeds from sales of other property received as gifts shall be deposited in a separate fund in the Treasury of the United States and disbursed on the order of the Director of the Center, in accordance with policies established by the Board of the Center.
 
@@ -13,6 +13,8 @@
 (f) For the purpose of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to or for the use of the United States.
 
 (Added Pub. L. 100–702, title III, §301(a), Nov. 19, 1988, 102 Stat. 4646.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

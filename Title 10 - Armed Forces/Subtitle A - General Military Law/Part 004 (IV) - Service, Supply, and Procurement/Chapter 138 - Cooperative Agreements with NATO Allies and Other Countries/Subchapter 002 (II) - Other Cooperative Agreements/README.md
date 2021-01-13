@@ -14,12 +14,28 @@
 | [2350j.](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md) | Burden sharing contributions by designated countries and regional organizations. |
 | [2350k.](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md) | Relocation within host nation of elements of armed forces overseas. |
 | 2350<i>l.</i> | Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations. |
-| \[2350m. | Renumbered.\] |
-| [2350n.](%C2%A7%2002350n%20-%20North%20Atlantic%20Treaty%20Organization%20Joint%20Force%20Command.md) | North Atlantic Treaty Organization Joint Force Command. |
+| 2350m.<sup>1</sup> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+Participation in European program on multilateral exchange of surface transportation services.
+
+|  |  |
+| :--- | ---: |
+| [2350n.](%C2%A7%2002350n%20-%20North%20Atlantic%20Treaty%20Organization%20Joint%20Force%20Command.md) | North Atlantic Treaty Organization Joint Force Command. |
+| 2350<i>o.</i> | Participation in programs relating to coordination or exchange of air refueling and air transportation services. |
+| [2350p.](%C2%A7%2002350p%20-%20Reciprocal%20patient%20movement%20agreements.md) | Reciprocal patient movement agreements. |
+| 2350m.<sup>1</sup> | Execution of projects under the North Atlantic Treaty Organization Security Investment Program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendment of Analysis
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 2350l. See 2021 Amendment note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XII, §§1202(b), 1203(b), 1204(b), title XVIII, §1844(b)(2)(A), div. B, title XXV, §2503(b), Jan. 1, 2021, 134 Stat. 3910–3912, 4246, 4310, added items 2350m "Participation in European program on multilateral exchange of surface transportation services", 2350o, 2350p, and 2350m "Execution of projects under the North Atlantic Treaty Organization Security Investment Program", and struck out item 2350l "Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XII, §1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
 
@@ -41,6 +57,12 @@ Pub. L. 102–25, title VII, §704(a)(9), Apr. 6, 1991, 105 Stat. 119, made clar
 
 Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693, as amended by Pub. L. 102–25, title VII, §704(a)(9), Apr. 6, 1991, 105 Stat. 119, added item 2350g.
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1844(b)(2)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> So in original. There are two sections 2350m.</i>
+
 
 ---
 
@@ -58,5 +80,8 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350j - Burden sharing contributions by designated countries and regional organizations](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md)
 - [&sect; 02350k - Relocation within host nation of elements of armed forces overseas](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md)
 - [&sect; 02350l - Cooperative agreements for reciprocal use of test facilities foreign countries and international organizations](%C2%A7%2002350l%20-%20Cooperative%20agreements%20for%20reciprocal%20use%20of%20test%20facilities%20foreign%20countries%20and%20international%20organizations.md)
-- [&sect; 02350m - Renumbered &sect;344](%C2%A7%2002350m%20-%20Renumbered%20%C2%A7344.md)
+- [&sect; 02350m - 1 Participation in European program on multilateral exchange of surface transportation services](%C2%A7%2002350m%20-%201%20Participation%20in%20European%20program%20on%20multilateral%20exchange%20of%20surface%20transportation%20services.md)
 - [&sect; 02350n - North Atlantic Treaty Organization Joint Force Command](%C2%A7%2002350n%20-%20North%20Atlantic%20Treaty%20Organization%20Joint%20Force%20Command.md)
+- [&sect; 02350o - Participation in programs relating to coordination or exchange of air refueling and air transportation services](%C2%A7%2002350o%20-%20Participation%20in%20programs%20relating%20to%20coordination%20or%20exchange%20of%20air%20refueling%20and%20air%20transportation%20services.md)
+- [&sect; 02350p - Reciprocal patient movement agreements](%C2%A7%2002350p%20-%20Reciprocal%20patient%20movement%20agreements.md)
+- [&sect; 02350m - 1 Execution of projects under the North Atlantic Treaty Organization Security Investment Program](%C2%A7%2002350m%20-%201%20Execution%20of%20projects%20under%20the%20North%20Atlantic%20Treaty%20Organization%20Security%20Investment%20Program.md)

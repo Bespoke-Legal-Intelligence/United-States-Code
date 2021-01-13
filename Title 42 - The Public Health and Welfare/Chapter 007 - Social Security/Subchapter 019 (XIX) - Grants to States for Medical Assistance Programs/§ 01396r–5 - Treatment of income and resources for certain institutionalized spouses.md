@@ -40,7 +40,7 @@
 
 #### (2) Attribution of income
 
-&emsp;In determining the income of an institutionalized spouse or community spouse forpurposes of the post-eligibility income determination described in subsection (d), except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
+&emsp;In determining the income of an institutionalized spouse or community spouse for purposes of the post-eligibility income determination described in subsection (d), except as otherwise provided in this section and regardless of any State laws relating to community property or the division of marital property, the following rules apply:
 
 #### (A) Non-trust property
 
@@ -94,7 +94,7 @@
 
 &emsp;In determining the resources of an institutionalized spouse at the time of application for benefits under this subchapter, regardless of any State laws relating to community property or the division of marital property—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, or both, shall be considered to be available to the institutionalized spouse, and
+&emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, orboth, shall be considered to be available to the institutionalized spouse, and
 
 &emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) (as of the time of application for benefits).
 
@@ -182,7 +182,7 @@
 
 #### (5) Court ordered support
 
-&emsp;If a court has entered an order against an institutionalized spouse for monthly income forthe support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
+&emsp;If a court has entered an order against an institutionalized spouse for monthly income for the support of the community spouse, the community spouse monthly income allowance for the spouse shall be not less than the amount of the monthly income so ordered.
 
 #### (6) Application of "income first" rule to revision of community spouse resource allowance
 
@@ -328,7 +328,7 @@ Amendment by section 4002(b)(1)(B), (2)(V) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VI, §6013(b), Feb. 8, 2006, 120 Stat. 64, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to transfers and allocations made on or after the date of the enactment of this Act \[Feb. 8, 2006\] by individuals who become institutionalized spouses on or after such date."
+Pub. L. 109–171, title VI, §6013(b), Feb. 8, 2006, 120 Stat. 64, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transfers and allocations made on or after the date of the enactment of this Act \[Feb. 8, 2006\] by individuals who become institutionalized spouses on or after such date."
 
 #### Effective Date of 1994 Amendment
 
@@ -386,7 +386,7 @@ State waiver or plan amendment described.—A State waiver or plan amendment des
 
 &emsp;"(A) A waiver or plan amendment to provide medical assistance for home and community-based services under a waiver or plan amendment under subsection (c), (d), or (i) of section 1915 of the Social Security Act (42 U.S.C. 1396n) or under section 1115 of such Act (42 U.S.C. 1315).
 
-&emsp;"(B) A plan amendment to provide medical assistance for home and community-based services for individuals by reason of being determined eligible under section 1902(a)(10)(C) of such Act (42 U.S.C. 1396a(a)(10)(C)) or by reason of section 1902(f) of such Act (42 U.S.C. 1396a(f)) or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care under which the State disregarded the income and assets of the individual'sspouse in determining the initial and ongoing financial eligibility of an individual for such services in place of the spousal impoverishment provisions applied under section 1924 of such Act (42 U.S.C. 1396r–5).
+&emsp;"(B) A plan amendment to provide medical assistance for home and community-based services for individuals by reason of being determined eligible under section 1902(a)(10)(C) of such Act (42 U.S.C. 1396a(a)(10)(C)) or by reason of section 1902(f) of such Act (42 U.S.C. 1396a(f)) or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care under which the State disregarded the income and assets of the individual's spouse in determining the initial and ongoing financial eligibility of an individual for such services in place of the spousal impoverishment provisions applied under section 1924 of such Act (42 U.S.C. 1396r–5).
 
 &emsp;"(C) A plan amendment to provide medical assistance for home and community-based attendant services and supports under section 1915(k) of such Act (42 U.S.C. 1396n(k))."
 
@@ -394,11 +394,11 @@ Similar provisions were contained in the following prior act:
 
 Pub. L. 116–3, §3(b), Jan. 24, 2019, 133 Stat. 7.
 
-\[For additional provisions relating to construction of this section, see section 3(b) of Pub. L. 116–39 and section 204(b) of Pub. L. 116–94, set out as notes under section 1396a of this title.\]
+\[For additional provisions relating to construction of this section, see section 3(b) of Pub. L. 116–39, section 204(b) of Pub. L. 116–94, section 3812(b) of Pub. L. 116–136, section 2302(b) of Pub. L. 116–159, and section 1105(b) of Pub. L. 116–215, set out as notes under section 1396a of this title.\]
 
 #### Protection for Recipients of Home and Community-Based Services Against Spousal Impoverishment
 
-Pub. L. 111–148, title II, §2404, Mar. 23, 2010, 124 Stat. 305, as amended by Pub. L. 116–3, §3(a), Jan. 24, 2019, 133 Stat. 7; Pub. L. 116–16, §2(a), Apr. 18, 2019, 133 Stat. 852; Pub. L. 116–39, §3(a), Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, §204(a), Dec. 20, 2019, 133 Stat. 3111, provided that: "During the period beginning on January 1, 2014, and ending on May 22, 2020, section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) shall be applied as though 'is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[42 U.S.C. 1396n\], under a waiver approved under section 1115 \[42 U.S.C. 1315\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[42 U.S.C. 1396a(a)(10)(C)\] or by reason of section 1902(f) \[42 U.S.C. 1396a(f)\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[42 U.S.C. 1396n(k)\]' were substituted in such section for '(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)\]'."
+Pub. L. 111–148, title II, §2404, Mar. 23, 2010, 124 Stat. 305, as amended by Pub. L. 116–3, §3(a), Jan. 24, 2019, 133 Stat. 7; Pub. L. 116–16, §2(a), Apr. 18, 2019, 133 Stat. 852; Pub. L. 116–39, §3(a), Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, §204(a), Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3812(a), Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2302(a), Oct. 1, 2020, 134 Stat. 731; Pub. L. 116–215, div. B, title I, §1105(a), Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §205(a), Dec. 27, 2020, 134 Stat. 2983, provided that: "During the period beginning on January 1, 2014, and ending on September 30, 2023, section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) shall be applied as though 'is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[42 U.S.C. 1396n\], under a waiver approved under section 1115 \[42 U.S.C. 1315\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[42 U.S.C. 1396a(a)(10)(C)\] or by reason of section 1902(f) \[42 U.S.C. 1396a(f)\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[42 U.S.C. 1396n(k)\]' were substituted in such section for '(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)\]'."
 
-\[For provisions relating to construction of section 2404 of Pub. L. 111–148, set out above, see section 3(b) of Pub. L. 116–39 and section 204(b) of Pub. L. 116–94, set out as notes under section 1396a of this title.\]
+\[For provisions relating to construction of section 2404 of Pub. L. 111–148, set out above, see section 3(b) of Pub. L. 116–39, section 204(b) of Pub. L. 116–94, section 3812(b) of Pub. L. 116–136, section 2302(b) of Pub. L. 116–159, section 1105(b) of Pub. L. 116–215, and section 205(b) of Pub. L. 116–260, set out as notes under section 1396a of this title.\]
 

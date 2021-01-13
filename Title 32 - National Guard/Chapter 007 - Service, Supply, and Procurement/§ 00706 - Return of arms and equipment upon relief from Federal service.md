@@ -20,6 +20,8 @@ July 9, 1952, ch. 608, §712(b) (last 17 words), 66 Stat. 504.
 
 The words "So far as practicable" are inserted, since sufficient arms and equipment might not be available.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 325(b) of this title, referred to in text, was redesignated section 325(c) of this title by Pub. L. 110–417, \[div. A\], title V, §517(b)(1), Oct. 14, 2008, 122 Stat. 4442.

@@ -6,6 +6,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1195, §1714; renumbered §3514, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1714 of this title as this section.

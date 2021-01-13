@@ -2,7 +2,7 @@
 
 #### (a) American Nanotechnology Preparedness Center
 
-The Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—
+The Program shall provide for the establishment, on a merit-reviewed and competitivebasis, of an American Nanotechnology Preparedness Center which shall—
 
 &emsp;(1) conduct, coordinate, collect, and disseminate studies on the societal, ethical, environmental, educational, legal, and workforce implications of nanotechnology; and
 

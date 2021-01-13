@@ -52,7 +52,7 @@ Submittal to congress.—Upon any update of the regulations, the Secretary of De
 
 (c)
 
-Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+Limitation.—The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000.Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 
 (d)
 

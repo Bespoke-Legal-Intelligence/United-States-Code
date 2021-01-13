@@ -4,6 +4,8 @@ For the purpose of sections 13 to 16 of this title the Secretary, acting through
 
 (Dec. 18, 1942, ch. 764, §2, 56 Stat. 1057.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.

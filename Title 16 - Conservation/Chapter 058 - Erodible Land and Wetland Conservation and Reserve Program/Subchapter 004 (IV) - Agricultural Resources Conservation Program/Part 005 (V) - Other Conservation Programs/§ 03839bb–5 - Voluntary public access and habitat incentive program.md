@@ -86,7 +86,7 @@ Subsec. (f)(1). Pub. L. 115–334, §2406(4)(A), substituted "2009 through 2012,
 
 Subsec. (f)(2), (3). Pub. L. 115–334, §2406(4)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-<b>2014</b>—Subsec. (f)(1). Pub. L. 113–79, in heading, substituted "Mandatory funding" for "Fiscal years 2009 through 2012" and in text, inserted "and $40,000,000 for the period of fiscal years 2014 through 2018" before period at end.
+<b>2014</b>—Subsec. (f)(1). Pub. L. 113–79, in heading, substituted "Mandatory funding" for "Fiscal years 2009through 2012" and in text, inserted "and $40,000,000 for the period of fiscal years 2014 through 2018" before period at end.
 
 <b>2013</b>—Subsec. (f). Pub. L. 112–240 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012."
 

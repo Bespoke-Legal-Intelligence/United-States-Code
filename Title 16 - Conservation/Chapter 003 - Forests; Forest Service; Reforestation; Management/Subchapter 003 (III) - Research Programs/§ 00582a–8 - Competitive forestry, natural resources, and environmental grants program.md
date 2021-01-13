@@ -70,7 +70,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (1) Authority
 
-&emsp;Grants made under this section may be used to update research facilities and equipment available to facilitate the conduct of state-of-the-art research in forestry, natural resources, and the environment.
+&emsp;Grants made under this section may be used to update research facilities and equipmentavailable to facilitate the conduct of state-of-the-art research in forestry, natural resources, and the environment.
 
 #### (2) Priorities and criteria
 

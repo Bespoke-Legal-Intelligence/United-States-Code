@@ -24,7 +24,7 @@
 
 #### (B) Comprehensive benefits
 
-&emsp;&emsp;The program provides comprehensive health care services to PACE program eligible individuals in accordance with the PACE program agreement and regulations under this section.
+&emsp;&emsp;The program provides comprehensive health care services to PACE program eligible individuals in accordance with the PACEprogram agreement and regulations under this section.
 
 #### (C) Transition
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals enrolled with the provider, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolled under this section) and all items and services covered under subchapter XIX, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolledunder this section) and all items and services covered under subchapter XIX, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -274,7 +274,7 @@
 
 #### (A) Annual, close oversight during trial period
 
-&emsp;&emsp;During the trial period (as defined in subsection (a)(9)) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements ofthis section and regulations. Such a review shall include—
+&emsp;&emsp;During the trial period (as defined in subsection (a)(9)) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
 
 &emsp;&emsp;&emsp;(i) an on-site visit to the program site;
 
@@ -668,7 +668,7 @@ Amounts in Addition to Payments Under Social Security Act.—Any amounts paid un
 
 #### Flexibility in Exercising Waiver Authority
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "In applyingsections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
+Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
 
 &emsp;"(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
 
@@ -704,7 +704,7 @@ Elimination of replication requirement.—Section 9412(b)(2)(B) of such Act, as 
 
 &emsp;"(3)
 
-Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals undersubsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 "(c)
 
@@ -766,7 +766,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[42 U.S.C.1395eee(a)(8), 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[42 U.S.C. 1395eee(a)(8), 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
 &emsp;"(2)
 

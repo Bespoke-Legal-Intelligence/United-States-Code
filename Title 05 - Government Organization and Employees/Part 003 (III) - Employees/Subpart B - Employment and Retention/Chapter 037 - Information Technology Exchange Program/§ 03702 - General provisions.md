@@ -44,6 +44,8 @@ Considerations.—In exercising any authority under this chapter, an agency shal
 
 (Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2925.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–11, referred to in subsec. (a), is contained in the General Schedule which is set out under section 5332 of this title.
@@ -51,6 +53,8 @@ GS–11, referred to in subsec. (a), is contained in the General Schedule which 
 Section 209(b) of the E-Government Act of 2002, referred to in subsec. (a), is section 209(b) of Pub. L. 107–347, which is set out in a note under section 3501 of Title 44, Public Printing and Documents.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of enactment of Pub. L. 107–347, which was approved Dec. 17, 2002.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -146,5 +150,5 @@ Repeal of Superseded Section.—Section 1109 of the National Defense Authorizati
 
 &emsp;"(2) any employee whose assignment is allowed to continue by virtue of paragraph (1) shall be taken into account for purposes of the numerical limitation under subsection (h)."
 
-Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, §1110(i), formerly §1110(j), Oct. 28, 2009, 123 Stat. 2495, renumbered §1110(i), Pub. L. 114–92, div. A, title X, §1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
+Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, §1110(i), formerly §1110(j), Oct. 28, 2009, 123Stat. 2495, renumbered §1110(i), Pub. L. 114–92, div. A, title X, §1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
 

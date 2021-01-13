@@ -110,7 +110,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;(ii)(I) is eligible for or has exhausted entitlement to unemployment compensation; or
 
-&emsp;&emsp;(II) has been employed for a duration sufficient to demonstrate, to the appropriate entity at a one-stop center referred to in section 3151(e) of this title, attachment to theworkforce, but is not eligible for unemployment compensation due to insufficient earnings or having performed services for an employer that were not covered under a State unemployment compensation law; and
+&emsp;&emsp;(II) has been employed for a duration sufficient to demonstrate, to the appropriate entity at a one-stop center referred to in section 3151(e) of this title, attachment to the workforce, but is not eligible for unemployment compensation due to insufficient earnings or having performed services for an employer that were not covered under a State unemployment compensation law; and
 
 &emsp;&emsp;(iii) is unlikely to return to a previous industry or occupation;
 
@@ -134,7 +134,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;(A)(i) has been dependent on the income of another family member but is no longer supported by that income; or
 
-&emsp;&emsp;(ii) is the dependent spouse of a member of the Armed Forces on active duty (as defined in section 101(d)(1) of title 10) and whose family income is significantly reduced because of a deployment (as defined in section 991(b) of title 10 or pursuant to paragraph (4) of such section), a call or order to active duty pursuant to a provision of law referred to in section 101(a)(13)(B) of title 10, a permanent change of station, or the service-connected (as defined in section 101(16) of title 38) death or disability of the member; and
+&emsp;&emsp;(ii) is the dependent spouse of a member of the Armed Forces on active duty (as defined in section 101(d)(1) of title 10) and whose family income is significantly reduced because of a deployment (as defined in section 991(b) of title 10 or pursuant to paragraph (4)of such section), a call or order to active duty pursuant to a provision of law referred to in section 101(a)(13)(B) of title 10, a permanent change of station, or the service-connected (as defined in section 101(16) of title 38) death or disability of the member; and
 
 &emsp;&emsp;(B) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -498,9 +498,11 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (71) Youth workforce investment activity
 
-&emsp;The term "youth workforce investment activity" means an activity described in section 3164 of this title that is carried out for eligible youth (or as described in section 3164(a)(3)(A) of this title).
+&emsp;The term "youth workforce investment activity" means an activity described in section 3164 of this title that is carried out for eligibleyouth (or as described in section 3164(a)(3)(A) of this title).
 
 (Pub. L. 113–128, §3, July 22, 2014, 128 Stat. 1429; Pub. L. 114–95, title IX, §9215(yyy)(1), Dec. 10, 2015, 129 Stat. 2191.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -521,6 +523,8 @@ The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv
 #### Amendments
 
 <b>2015</b>—Pars. (34), (55). Pub. L. 114–95 made technical amendments to references in original act which appear in text as references to section 7801 of title 20.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

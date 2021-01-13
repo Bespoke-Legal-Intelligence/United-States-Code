@@ -14,7 +14,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;(5) paying loan closing costs;
 
-&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State undera plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury in complying with the standard;
+&emsp;(6) assisting a farmer or rancher in changing the equipment, facilities, or methods of operation of a farm or ranch to comply with a standard promulgated under section 655 of title 29 or a standard adopted by a State under a plan approved under section 667 of title 29, if the Secretary determines that without assistance under this paragraph the farmer or rancher is likely to suffer substantial economic injury in complying with the standard;
 
 &emsp;(7) training a limited-resource borrower receiving a loan under section 1934 of this title in maintaining records of farming and ranching operations;
 

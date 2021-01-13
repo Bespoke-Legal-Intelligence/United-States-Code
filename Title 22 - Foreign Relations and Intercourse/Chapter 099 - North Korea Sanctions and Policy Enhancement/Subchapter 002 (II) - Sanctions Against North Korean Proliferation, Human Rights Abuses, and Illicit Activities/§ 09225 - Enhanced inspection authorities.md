@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) identifying vessels, aircraft, and conveyances owned or controlled by the Reconnaissance General Bureau of the Workers' Party of Korea; and
 
-&emsp;&emsp;(E) describing the diplomatic and enforcement efforts by the President to secure the full implementation of the applicable United Nations Security Council resolutions, as described in subparagraphs (A) through (C).
+&emsp;&emsp;(E) describing the diplomatic and enforcement efforts by the President to secure thefull implementation of the applicable United Nations Security Council resolutions, as described in subparagraphs (A) through (C).
 
 #### (2) Form
 
@@ -64,6 +64,8 @@ A vessel, aircraft, or conveyance used to facilitate any of the activities descr
 
 (Pub. L. 114–122, title II, §205, as added Pub. L. 115–44, title III, §314, Aug. 2, 2017, 131 Stat. 946.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590. Part V of title IV of the Act is classified generally to part V (§1581 et seq.) of subtitle III of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
@@ -71,6 +73,8 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 #### Prior Provisions
 
 A prior section 9225, Pub. L. 114–122, title II, §205, Feb. 18, 2016, 130 Stat. 108, related to enhanced inspection authorities, prior to repeal by Pub. L. 115–44, title III, §314, Aug. 2, 2017, 131 Stat. 946.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

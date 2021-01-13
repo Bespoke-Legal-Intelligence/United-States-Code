@@ -6,7 +6,7 @@ Administrative Hearings.—The Secretary of Transportation shall provide an oppo
 
 &emsp;(1) an applicant under this chapter, for a decision of the Secretary under section 50905(a) or 50906 of this title to issue or transfer a license with terms or deny the issuance or transfer of a license;
 
-&emsp;(2) an owner or operator of a payload under this chapter, for a decision of the Secretaryunder section 50904(c) of this title to prevent the launch or reentry of the payload; and
+&emsp;(2) an owner or operator of a payload under this chapter, for a decision of the Secretary under section 50904(c) of this title to prevent the launch or reentry of the payload; and
 
 &emsp;(3) a licensee under this chapter, for a decision of the Secretary under—
 
@@ -51,6 +51,8 @@ Oct. 30, 1984, Pub. L. 98–575, §12, 98 Stat. 3060.
 In subsection (a), before clause (1), the words "The Secretary of Transportation shall provide an opportunity for a hearing on the record to" are substituted for "shall be entitled to a determination on the record after an opportunity for a hearing" for consistency in the revised title. The words "in accordance with section 554 of title 5" are omitted for consistency and because 5:554 applies to a hearing on the record unless otherwise stated. In clause (1), the words "and a proposed transferee of a license" are omitted as being included in "applicant".
 
 In subsection (b), the words "to issue, transfer, deny the issuance or transfer of, suspend, revoke, or modify a license or to terminate, prohibit, or suspend any launch or operation of a launch site licensed by the Secretary or to prevent the launch of a payload" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

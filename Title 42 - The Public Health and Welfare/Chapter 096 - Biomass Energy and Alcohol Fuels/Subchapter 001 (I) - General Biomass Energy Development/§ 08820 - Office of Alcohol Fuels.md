@@ -2,7 +2,7 @@
 
 #### (a) Establishment in Department of Energy; appointment and compensation of Director
 
-There is hereby established within the Department of Energy an Office of Alcohol Fuels (hereinafter in this section referred to as the "Office") to be headed by a Director, who shall beappointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+There is hereby established within the Department of Energy an Office of Alcohol Fuels (hereinafter in this section referred to as the "Office") to be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (b) Responsibilities of Director
 
@@ -12,7 +12,7 @@ There is hereby established within the Department of Energy an Office of Alcohol
 
 #### (c) Annual authorization and appropriation requests for support of Office
 
-In each annual authorization and appropriation request, the Secretary shall identify the portion thereof intended for the support of the Office and include a statement by the Office (1) showing the amount requested by the Office in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Office. Whenever the Office submits to the Secretary, the President, or the Office of Management and Budget, any formal legislative recommendation or testimony, or comments on legislation, prepared for submission to Congress, the Office shall concurrently transmit a copy thereof to the appropriate committees of Congress.
+In each annual authorization and appropriation request, the Secretary shall identify the portion thereof intended for the support of the Office and include a statement by the Office (1) showing the amount requested by the Office in its budgetary presentation to the Secretary and the Office of Management and Budget and (2) an assessment of the budgetary needs of the Office. Whenever the Office submits to the Secretary, the President, or the Office of Management and Budget, any formal legislative recommendationor testimony, or comments on legislation, prepared for submission to Congress, the Office shall concurrently transmit a copy thereof to the appropriate committees of Congress.
 
 #### (d) Consultations respecting coordination of programs
 

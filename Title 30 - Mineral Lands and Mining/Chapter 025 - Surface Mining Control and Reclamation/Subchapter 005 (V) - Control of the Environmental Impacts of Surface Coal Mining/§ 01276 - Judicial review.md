@@ -22,7 +22,7 @@ In the case of a proceeding to review any order or decision issued by the Secret
 
 #### (d) Stay of action, order, or decision of Secretary
 
-The commencement of a proceeding under this section shall not, unless specifically ordered bythe court, operate as a stay of the action, order, or decision of the Secretary.
+The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the action, order, or decision of the Secretary.
 
 #### (e) Action of State regulatory authority
 

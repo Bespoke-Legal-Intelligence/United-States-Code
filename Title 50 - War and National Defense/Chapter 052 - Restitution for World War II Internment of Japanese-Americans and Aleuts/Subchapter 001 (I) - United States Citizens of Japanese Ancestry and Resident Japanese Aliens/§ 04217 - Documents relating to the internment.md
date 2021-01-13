@@ -2,7 +2,7 @@
 
 #### (a) Preservation of documents in National Archives
 
-All documents, personal testimony, and other records created or received by the Commission during its inquiry shall be kept and maintained by the Archivist of the United States who shall preserve such documents, testimony, and records in the National Archives of the United States. The Archivist shall make such documents, testimony, and records available to the public for research purposes.
+All documents, personal testimony, and other records created or received by the Commission during its inquiry shall be kept and maintained by the Archivist of the United States who shallpreserve such documents, testimony, and records in the National Archives of the United States. The Archivist shall make such documents, testimony, and records available to the public for research purposes.
 
 #### (b) Public availability of certain records of the House of Representatives
 

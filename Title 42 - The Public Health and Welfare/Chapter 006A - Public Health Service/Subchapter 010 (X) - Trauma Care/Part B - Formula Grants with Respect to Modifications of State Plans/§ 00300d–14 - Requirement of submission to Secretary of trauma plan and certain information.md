@@ -10,7 +10,7 @@ For each fiscal year, if a State has not completed the trauma care component of 
 
 #### (c) Information received by State reporting and analysis system
 
-The Secretary may not make payments to a State under section 300d–11(a) of this title unlessthe State agrees that the State will, not less than once each year, provide to the Secretary the information received by the State pursuant to section 300d–13(a)(7) of this title.
+The Secretary may not make payments to a State under section 300d–11(a) of this title unless the State agrees that the State will, not less than once each year, provide to the Secretary the information received by the State pursuant to section 300d–13(a)(7) of this title.
 
 #### (d) Availability of emergency medical services in rural areas
 

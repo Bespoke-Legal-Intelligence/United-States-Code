@@ -90,11 +90,11 @@ Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted "paragraph (1) or (2)"
 
 <b>1981</b>—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
-
 #### Acquisition of Depleted Uranium for National Defense Stockpile
 
 Pub. L. 101–511, title VIII, §8095, Nov. 5, 1990, 104 Stat. 1896, directed President, using funds available in National Defense Stockpile Transaction Fund, to acquire over a period of ten years from current domestic sources not less than thirty-six million pounds of depleted uranium to be held in National Defense Stockpile, prior to repeal by Pub. L. 102–172, title VIII, §8027A, Nov. 26, 1991, 105 Stat. 1177.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 

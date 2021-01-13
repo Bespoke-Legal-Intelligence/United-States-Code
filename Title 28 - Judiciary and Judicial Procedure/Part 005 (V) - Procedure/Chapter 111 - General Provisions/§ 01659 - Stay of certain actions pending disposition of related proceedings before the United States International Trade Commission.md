@@ -16,11 +16,15 @@ Use of Commission Record.—Notwithstanding section 337(n)(1) of the Tariff Act 
 
 (Added Pub. L. 103–465, title III, §321(b)(1)(A), Dec. 8, 1994, 108 Stat. 4945.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 337 of the Tariff Act of 1930, referred to in text, is classified to section 1337 of Title 19, Customs Duties.
 
 The Federal Rules of Evidence and the Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in the Appendix to this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

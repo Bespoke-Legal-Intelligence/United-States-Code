@@ -18,7 +18,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 &emsp;(3) take into account and evaluate any other financial assistance which may be available for the installation or implementation of energy conservation and renewable-resource energy measures;
 
-&emsp;(4) make use of such State and local instrumentalities or other public or private entities as may be appropriate in carrying out the purposes of this section in coordination with the provisions of part C of title III of the Energy Policy and Conservation Act \[42 U.S.C. 6321 et seq.\];
+&emsp;(4) make use of such State and local instrumentalities or other public or private entities as may be appropriate in carrying out the purposes of this section in coordination with the provisions of part C of title III of the EnergyPolicy and Conservation Act \[42 U.S.C. 6321 et seq.\];
 
 &emsp;(5) consider, with respect to various forms of assistance and procedures for their application, (A) the extent to which energy conservation measures and renewable-resource energy measures are encouraged which would otherwise not have been undertaken, (B) the minimum amount of Federal subsidy necessary to achieve the objectives of a national program, (C) the costs of administering the assistance, (D) the extent to which the assistance may be encumbered by delays, redtape, and uncertainty as to its availability with respect to any particular applicant, (E) the factors which may prevent the assistance from being available in certain areas or for certain classes of persons, and (F) the extent to which fraudulent practices can be prevented; and
 
@@ -42,7 +42,7 @@ The Secretary may condition the availability of financial assistance with respec
 
 #### (f) Implementation of program
 
-In carrying out the demonstration program required by this section, the Secretary is authorized to delegate responsibilities to, or to contract with, other Federal agencies or with such State or local instrumentalities or other public or private bodies as the Secretary may deem desirable. Such demonstration program shall be coordinated, to the extent practicable, with the State energy conservation plans as described in, and implemented pursuant to, part C of title IIIof the Energy Policy and Conservation Act \[42 U.S.C. 6321 et seq.\].
+In carrying out the demonstration program required by this section, the Secretary is authorized to delegate responsibilities to, or to contract with, other Federal agencies or with such State or local instrumentalities or other public or private bodies as the Secretary may deem desirable. Such demonstration program shall be coordinated, to the extent practicable, with the State energy conservation plans as described in, and implemented pursuant to, part C of title III of the Energy Policy and Conservation Act \[42 U.S.C. 6321 et seq.\].
 
 #### (g) Interim and final reports on program progress, findings, and legislative recommendations; criteria for evaluation of projects
 
@@ -68,6 +68,8 @@ There is authorized to be appropriated, for purposes of this section, not to exc
 
 (Pub. L. 91–609, title V, §509, as added Pub. L. 94–385, title IV, §441, Aug. 14, 1976, 90 Stat. 1162; amended Pub. L. 95–91, title VII, §709(d), Aug. 4, 1977, 91 Stat. 608.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of such act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
@@ -79,6 +81,8 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 #### Amendments
 
 <b>1977</b>—Subsecs. (c)(6), (e). Pub. L. 95–91 inserted ", the Secretary of Housing and Urban Development," after "the Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

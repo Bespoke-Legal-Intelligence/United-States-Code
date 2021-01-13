@@ -40,7 +40,7 @@ Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed items 4312 "N
 
 <b>1993</b>—Pub. L. 103–35, title II, §201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted "National Matches and small-arms school" for "Promotion of civilian marksmanship" in item 4313, struck out item 4316 "Military history fellowships", and added item 4317.
 
-<b>1992</b>—Pub. L. 102–484, div. A, title III, §380(a)(2), (b)(2), (d)(2), title X, §1076(b), Oct. 23, 1992, 106 Stat. 2390, 2391, 2512, added items 4308 and 4309 and struck out former items 4308 and 4309, resulting in no change in item 4308 and in substituting "availability" for "available" in item 4309, and added two items 4316.
+<b>1992</b>—Pub. L. 102–484, div. A, title III, §380(a)(2), (b)(2), (d)(2), title X, §1076(b), Oct. 23, 1992, 106 Stat. 2390, 2391, 2512, added items 4308 and 4309 and struck out former items 4308 and 4309, resulting in no change in item 4308and in substituting "availability" for "available" in item 4309, and added two items 4316.
 
 Pub. L. 102–484, div. A, title III, §380(c)(2), Oct. 23, 1992, 106 Stat. 2391, which directed amendment of item 4313 by striking out "rifle", could not be executed because the word did not appear subsequent to amendment by Pub. L. 101–510. See 1990 Amendment note below.
 

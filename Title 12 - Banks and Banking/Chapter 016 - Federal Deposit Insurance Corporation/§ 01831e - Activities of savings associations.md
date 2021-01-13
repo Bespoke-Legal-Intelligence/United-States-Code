@@ -20,7 +20,7 @@ Notwithstanding subsection (a)(1), if an activity (other than an activity descri
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a) and (b), a savings association chartered under State lawmay not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
+&emsp;Notwithstanding subsections (a) and (b), a savings association chartered under State law may not directly acquire or retain any equity investment of a type or in an amount that is not permissible for a Federal savings association.
 
 #### (2) Exception for service corporations
 
@@ -164,6 +164,8 @@ This section may not be construed as limiting—
 
 (Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615; Pub. L. 111–203, title III, §363(9), title IX, §939(a)(2), (3), July 21, 2010, 124 Stat. 1555, 1885.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–203, §939(a)(2)(A), struck out "not of investment grade" after "securities" in heading.
@@ -235,6 +237,8 @@ Subsec. (d)(4)(C). Pub. L. 103–325, §602(a)(57), substituted "subparagraph" f
 Subsec. (e)(4). Pub. L. 103–325, §602(a)(58), substituted "and any other" for "any other".
 
 <b>1991</b>—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -12,7 +12,7 @@ Assistance provided under subsection (a) may be in support of projects for the p
 
 &emsp;(2) restoring and protecting streams, rivers, wetlands, other waterbodies, and riparian areas degraded by drainage from abandoned and inactive noncoal mines; and
 
-&emsp;(3) demonstrating management practices and innovative and alternative treatment technologies to minimize or eliminate adverse environmental effects associated with drainage from abandoned and inactive noncoal mines.
+&emsp;(3) demonstrating management practices and innovative and alternative treatmenttechnologies to minimize or eliminate adverse environmental effects associated with drainage from abandoned and inactive noncoal mines.
 
 #### (c) Non-Federal share
 
@@ -28,9 +28,11 @@ The Secretary may provide assistance to non-Federal and nonprofit entities to de
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $20,000,000.
+There is authorized to be appropriated to carry out this section $30,000,000.
 
-(Pub. L. 106–53, title V, §560, Aug. 17, 1999, 113 Stat. 354; Pub. L. 108–137, title I, §118, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 110–114, title II, §2025, Nov. 8, 2007, 121 Stat. 1079.)
+(Pub. L. 106–53, title V, §560, Aug. 17, 1999, 113 Stat. 354; Pub. L. 108–137, title I, §118, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 110–114, title II, §2025, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 116–260, div. AA, title III, §302, Dec. 27, 2020, 134 Stat. 2703.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -38,13 +40,17 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–260 substituted "$30,000,000" for "$20,000,000".
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–114 substituted "$20,000,000" for "$7,500,000".
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–137 substituted "$7,500,000" for "$5,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

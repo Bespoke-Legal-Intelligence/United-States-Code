@@ -12,11 +12,15 @@ The punishment language used in section 1341 of this title was substituted in li
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

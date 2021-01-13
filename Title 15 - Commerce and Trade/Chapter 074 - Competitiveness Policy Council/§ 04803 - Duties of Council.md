@@ -2,7 +2,7 @@
 
 The Council shall—
 
-&emsp;(1) develop recommendations for national strategies and on specific policies intended toenhance the productivity and international competitiveness of United States industries;
+&emsp;(1) develop recommendations for national strategies and on specific policies intended to enhance the productivity and international competitiveness of United States industries;
 
 &emsp;(2) provide comments, when appropriate, and through any existing comment procedure, on—
 

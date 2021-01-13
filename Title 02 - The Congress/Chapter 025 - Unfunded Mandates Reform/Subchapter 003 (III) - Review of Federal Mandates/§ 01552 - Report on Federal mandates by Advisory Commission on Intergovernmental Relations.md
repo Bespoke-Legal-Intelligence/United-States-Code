@@ -4,7 +4,7 @@
 
 The Advisory Commission on Intergovernmental Relations shall in accordance with this section—
 
-&emsp;(1) investigate and review the role of Federal mandates in intergovernmental relations and their impact on State, local, tribal, and Federal government objectives and responsibilities, and their impact on the competitive balance between State, local, and tribal governments, and the private sector and considerviews of and the impact on working men and women on those same matters;
+&emsp;(1) investigate and review the role of Federal mandates in intergovernmental relations and their impact on State, local, tribal, and Federal government objectives and responsibilities, and their impact on the competitive balance between State, local, and tribal governments, and the private sector and consider views of and the impact on working men and women on those same matters;
 
 &emsp;(2) investigate and review the role of unfunded State mandates imposed on local governments;
 
@@ -81,6 +81,8 @@ In carrying out this section, the Advisory Commission shall give the highest pri
 For purposes of this section the term "State mandate" means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
 
 (Pub. L. 104–4, title III, §302, Mar. 22, 1995, 109 Stat. 67.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

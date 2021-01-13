@@ -8,6 +8,8 @@
 
 (Added Pub. L. 95–390, title IV, §401(a), Sept. 29, 1978, 92 Stat. 762; amended Pub. L. 96–54, §2(a)(14), (15), Aug. 14, 1979, 93 Stat. 382.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 95–390, which was approved Sept. 29, 1978.
@@ -15,6 +17,8 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 #### Amendments
 
 <b>1979</b>—Subsecs. (a), (b). Pub. L. 96–54 substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

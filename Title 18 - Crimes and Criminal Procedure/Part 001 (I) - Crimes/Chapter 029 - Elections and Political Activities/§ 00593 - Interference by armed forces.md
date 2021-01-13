@@ -22,6 +22,8 @@ Based on title 18, U.S.C., 1940 ed., §§56–59 (Mar. 4, 1909, ch. 321, §§23�
 
 Four sections were consolidated with only such changes of phraseology as were necessary to effect the consolidation.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in sixth par.

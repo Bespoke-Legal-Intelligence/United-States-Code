@@ -12,13 +12,23 @@ The Administrators shall deposit fees collected under subsection (a) in the Arme
 
 (1) The Chief Operating Officer, with the approval of the Secretary of Defense, shall from time to time prescribe the fees required by subsection (a). Changes to such fees shall be based on the financial needs of the Retirement Home and the ability of the residents to pay. A change of a fee may not take effect until 120 days after the Secretary of Defense transmits a notification of the change to the Committees on Armed Services of the Senate and the House of Representatives.
 
-(2) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+(2)(A) The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.
+
+(B) The calculation of monthly income and monthly payments under subparagraph (A) for a resident eligible under section 412(a)(5) of this title shall not be less than the retirement pay for equivalent active duty service as determined by the Chief Operating Officer, except as the Chief Operating Officer may provide because of the compelling personal circumstances of such resident.
 
 (3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of section 1401a of title 10 without regard to paragraph (3) of such subsection.
 
-(Pub. L. 101–510, div. A, title XV, §1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, §371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, §1405(b), Dec. 28, 2001, 115 Stat. 1261; Pub. L. 112–81, div. A, title V, §§564(b), 565, Dec. 31, 2011, 125 Stat. 1424.)
+(4) The Administrator of each facility of the Retirement Home may collect a fee upon admission from a resident accepted under section 412(a)(5) of this title equal to the deductions then in effect under section 1007(i)(1) of title 37 for each year of service computed under chapter 1223 of title 10 and shall deposit such fee in the Armed Forces Retirement Home Trust Fund.
+
+(Pub. L. 101–510, div. A, title XV, §1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, §371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, §1405(b), Dec. 28, 2001, 115 Stat. 1261; Pub. L. 112–81, div. A, title V, §§564(b), 565, Dec. 31, 2011, 125 Stat. 1424; Pub. L. 116–283, div. A, title XIV, §1412(b), Jan. 1, 2021, 134 Stat. 4031.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §1412(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate."
+
+Subsec. (c)(4). Pub. L. 116–283, §1412(b)(2), added par. (4).
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §564(b)(1), substituted "Administrator" for "Director".
 
@@ -35,6 +45,8 @@ Subsec. (d). Pub. L. 112–81, §565(b), struck out subsec. (d) which related to
 Subsec. (d). Pub. L. 103–337, §371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers' and Airmen's Home who became residents of the Retirement Home on the effective date specified in section 1541(a) of Pub. L. 101–510.
 
 Subsec. (e). Pub. L. 103–337, §371(b)(2)(A), struck out subsec. (e) which read as follows: "A person who becomes a resident of the Retirement Home after the effective date specified in section 1541(a) shall be required to pay a monthly fee that is equal to 25 percent of Federal payments made to the resident, subject to such adjustments in the fee as may be made under subsection (c) of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -62,7 +74,7 @@ Pub. L. 115–232, div. A, title XIV, §1416, Aug. 13, 2018, 132 Stat. 2092, pro
 
 "(a)
 
-In General.—In the case of an individual who was a resident of the Armed Forces Retirement Home as of April 9, 2018, the increase in fees for residents of the Home scheduled to take effect on October 1, 2018, shall occur on an incremental basis over the three-yearperiod beginning on October 1, 2018, such that the total fee for such individual as a resident of the Home as of the end of such period covers the cost of care of such individual as a resident of the Home.
+In General.—In the case of an individual who was a resident of the Armed Forces Retirement Home as of April 9, 2018, the increase in fees for residents of the Home scheduled to take effect on October 1, 2018, shall occur on an incremental basis over the three-year period beginning on October 1, 2018, such that the total fee for such individual as a resident of the Home as of the end of such period covers the cost of care of such individual as a resident of the Home.
 
 "(b)
 

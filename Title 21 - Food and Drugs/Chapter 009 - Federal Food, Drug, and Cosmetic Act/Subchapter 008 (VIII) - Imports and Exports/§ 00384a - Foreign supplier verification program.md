@@ -50,7 +50,7 @@ Not later than 1 year after January 4, 2011, the Secretary shall issue guidance 
 
 #### (d) Record maintenance and access
 
-Records of an importer related to a foreign supplier verification program shall be maintained for a period of not less than 2 years and shall be made available promptly to a duly authorized representative of the Secretary upon request.
+Records of an importer related to a foreign supplier verification program shall be maintained for a period of not less than 2 years andshall be made available promptly to a duly authorized representative of the Secretary upon request.
 
 #### (e) Exemption of seafood, juice, and low-acid canned food facilities in compliance with HACCP
 
@@ -70,9 +70,11 @@ The Secretary, by notice published in the Federal Register, shall establish an e
 
 #### (g) Publication of list of participants
 
-The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other informationdeemed necessary by the Secretary about, importers participating under this section.
+The Secretary shall publish and maintain on the Internet Web site of the Food and Drug Administration a current list that includes the name of, location of, and other information deemed necessary by the Secretary about, importers participating under this section.
 
 (June 25, 1938, ch. 675, §805, as added Pub. L. 111–353, title III, §301(a), Jan. 4, 2011, 124 Stat. 3953.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

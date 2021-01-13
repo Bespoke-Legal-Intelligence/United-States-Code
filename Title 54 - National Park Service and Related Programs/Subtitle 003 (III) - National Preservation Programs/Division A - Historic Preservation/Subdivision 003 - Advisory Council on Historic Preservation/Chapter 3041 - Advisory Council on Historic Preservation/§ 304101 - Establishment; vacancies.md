@@ -34,7 +34,7 @@ Designation of Substitutes.—Each member of the Council specified in paragraphs
 
 (c)
 
-Term of Office.—Each member of the Council appointed under paragraphs (10) through (12) of subsection (a) shall serve for a term of 4 years from the expiration of the term of the member's predecessor. The members appointed under paragraphs (5) and (6) shall serve for the term of their elected office but not in excess of 4 years. An appointed member, other than the Chairman of the Council, may not serve more than 2 terms. An appointed member whose termhas expired shall serve until that member's successor has been appointed.
+Term of Office.—Each member of the Council appointed under paragraphs (10) through (12) of subsection (a) shall serve for a term of 4 years from the expiration of the term of the member's predecessor. The members appointed under paragraphs (5) and (6) shall serve for the term of their elected office but not in excess of 4 years. An appointed member, other than the Chairman of the Council, may not serve more than 2 terms. An appointed member whose term has expired shall serve until that member's successor has been appointed.
 
 (d)
 
@@ -83,6 +83,8 @@ Historical and Revision Notes
 Pub. L. 89–665, title II, §201, Oct. 15, 1966, 80 Stat. 917; Pub. L. 91–243, §1(b) through (e), May 9, 1970, 84 Stat. 204; Pub. L. 93–54, §1(c), July 1, 1973, 87 Stat. 139; Pub. L. 94–422, title II, §201(5), Sept. 28, 1976, 90 Stat. 1320; Pub. L. 96–515, title III, §301(a) through (f), Dec. 12, 1980, 94 Stat. 2998; Pub. L. 102–575, title XL, §§4016, 4019(b), Oct. 30, 1992, 106 Stat. 4763, 4765; Pub. L. 104–333, div. I, title V, §509(c)(1), (2), Nov. 12, 1996, 110 Stat. 4157; Pub. L. 109–453, §1(d), Dec. 22, 2006, 120 Stat. 3367.
 
 In subsection (a)(9), the words "the disciplines of" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

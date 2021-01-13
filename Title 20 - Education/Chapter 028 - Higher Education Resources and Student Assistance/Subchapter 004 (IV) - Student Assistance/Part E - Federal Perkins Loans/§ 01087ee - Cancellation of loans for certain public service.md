@@ -18,7 +18,7 @@
 
 &emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
 
-&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
+&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider ofearly intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
 &emsp;(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37 as an area of hostilities;
 
@@ -86,7 +86,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 > &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) such <sup>2</sup> subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992,106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted "section 1435(a)(
 
 Subsec. (a)(7). Pub. L. 105–244, §465(1)(C), added par. (7).
 
-Subsec. (b). Pub. L. 105–244, §465(2), inserted at end "To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds."
+Subsec. (b). Pub. L. 105–244, §465(2), inserted at end "To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under thissubsection not later than 3 months after the institution files an institutional application for campus-based funds."
 
 <b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–382 substituted "title I of the Elementary and Secondary Education Act of 1965" for "chapter 1 of the Education Consolidation and Improvement Act of 1981".
 
@@ -152,7 +152,7 @@ Subsec. (a)(6). Pub. L. 103–208, §2(f)(14), realigned margin. See Codificatio
 
 Pub. L. 103–82 added par. (6).
 
-<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–325, §465(a)(1), as amended by Pub. L. 103–208, §2(k)(7), struck out beforesemicolon at end "and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1".
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–325, §465(a)(1), as amended by Pub. L. 103–208, §2(k)(7), struck out before semicolon at end "and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1".
 
 Subsec. (a)(2)(C). Pub. L. 102–325, §465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;".
 

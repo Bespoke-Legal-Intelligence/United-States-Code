@@ -52,7 +52,7 @@
 
 &emsp;The strategic plan shall include provisions for addressing, at a minimum, the following:
 
-&emsp;&emsp;(A) Coordination among agencies within the Department, which shall include steps to minimize duplication of efforts and utilization of common quality measures, where available. Such common quality measures shall be measures identified by the Secretary under section 1139A or 1139B of the Social Security Act \[42 U.S.C. 1320b–9a, 1320b–9b\] or endorsed under section 1890 of such Act \[42 U.S.C. 1395aaa\].
+&emsp;&emsp;(A) Coordination among agencies within the Department, which shall include steps tominimize duplication of efforts and utilization of common quality measures, where available. Such common quality measures shall be measures identified by the Secretary under section 1139A or 1139B of the Social Security Act \[42 U.S.C. 1320b–9a, 1320b–9b\] or endorsed under section 1890 of such Act \[42 U.S.C. 1395aaa\].
 
 &emsp;&emsp;(B) Agency-specific strategic plans to achieve national priorities.
 

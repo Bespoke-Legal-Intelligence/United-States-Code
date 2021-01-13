@@ -4,7 +4,7 @@
 
 &emsp;(1) he has acquired eligibility for that transportation; or
 
-&emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionatenature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
+&emsp;(2) the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionate nature, such as may involve physical or mental health, death of a member of the immediate family, or obligation imposed by authority or circumstances over which the individual has no control.
 
 (b) Under regulations prescribed under section 5738 of this title, an agency shall reimburse from its appropriations an employee whose post of duty is outside the continental United States for the proper transportation expenses of returning his immediate family and his household goods and personal effects to the United States, when—
 
@@ -34,11 +34,15 @@ The first 14 words of subsections (a) and (b), and subsection (c), are added on 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–264 struck out "or its territories or possessions" after "to the United States".
 
 <b>1996</b>—Subsecs. (a), (b). Pub. L. 104–201 substituted "Under regulations prescribed under section 5738 of this title" for "Under such regulations as the President may prescribe".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

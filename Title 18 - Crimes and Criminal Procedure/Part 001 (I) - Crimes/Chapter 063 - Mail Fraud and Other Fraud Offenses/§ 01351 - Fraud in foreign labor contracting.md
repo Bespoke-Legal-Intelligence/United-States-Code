@@ -10,6 +10,8 @@ Work Outside the United States.—Whoever knowingly and with intent to defraud r
 
 (Added Pub. L. 110–457, title II, §222(e)(2), Dec. 23, 2008, 122 Stat. 5070; amended Pub. L. 112–239, div. A, title XVII, §1706(a), Jan. 2, 2013, 126 Stat. 2097.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1706(a)(1), which directed substitution of "(a)
@@ -17,6 +19,8 @@ Work Outside the United States.—Whoever knowingly and with intent to defraud r
 Work Inside the United States.—Whoever knowingly and with intent to defraud recruits, solicits, or hires a person outside the United States or causes another person to recruit, solicit, or hire a person outside the United States, or attempts to do so," for "Whoever knowingly and with the intent to defraud recruits, solicits or hires a person outside the United States", was executed by making the substitution for "Whoever knowingly and with intent to defraud recruits, solicits or hires a person outside the United States" to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 112–239, §1706(a)(2), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

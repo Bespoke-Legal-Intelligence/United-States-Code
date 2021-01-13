@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(b)(2)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, inserted "and governing body" after "Membership" in item 40303.

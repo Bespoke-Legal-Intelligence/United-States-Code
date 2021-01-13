@@ -1,6 +1,6 @@
 ### §7404. Grades and pay scales
 
-(a)(1)(A) The annual rates or ranges of rates of basic pay for positions provided in section <sup>1</sup> 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
+(a)(1)(A) The annual rates or ranges of rates of basic pay for positions provided in section <sup>1</sup> 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorizedby chapter 53 of title 5 or as otherwise authorized by law.
 
 (B) Section 5377 of title 5 shall apply to a position under section 7401(4) of this title as if such position were included in the definition of "position" in section 5377(a) of title 5.
 
@@ -52,11 +52,13 @@ Associate grade.
 
 (c) Notwithstanding the provisions of section 7425(a) of this title, a person appointed under section 7306 of this title who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
 
-(d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
+(d) Except as provided under subsection (e), subchapter III, and section 7457 of this title, and except for individuals appointed under sections 7401(4) and 7306 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by section 5316 of title 5 for positions in Level V of the Executive Schedule.
 
 (e) The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of section 7451 of this title and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under section 5382 of title 5.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III,§302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, §3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643; Pub. L. 109–461, title II, §202, Dec. 22, 2006, 120 Stat. 3410; Pub. L. 111–163, title VI, §601(d)(1), May 5, 2010, 124 Stat. 1169; Pub. L. 115–41, title II, §207(b), June 23, 2017, 131 Stat. 877; Pub. L. 115–182, title V, §502(b)(1), June 6, 2018, 132 Stat. 1475; Pub. L. 116–12, §1(a), Apr. 8, 2019, 133 Stat. 845.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, §302(d), Dec. 6, 2003, 117 Stat. 2058; Pub. L. 108–445, §3(a), (f), Dec. 3, 2004, 118 Stat. 2636, 2643; Pub. L. 109–461, title II, §202, Dec. 22, 2006, 120 Stat. 3410; Pub. L. 111–163, title VI, §601(d)(1), May 5, 2010, 124 Stat. 1169; Pub. L. 115–41, title II, §207(b), June 23, 2017, 131 Stat. 877; Pub. L. 115–182, title V, §502(b)(1), June 6, 2018, 132 Stat. 1475; Pub. L. 116–12, §1(a), Apr. 8, 2019, 133 Stat. 845; Pub. L. 116–146, §1(a), July 2, 2020, 134 Stat. 658.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Pub. L. 115–182, title V, §502(b)(1), June 6, 2018, 132 Stat. 1475, which dir
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–146 inserted "and except for individuals appointed under sections 7401(4) and 7306 of this title," after "section 7457 of this title,".
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–12 substituted "
 
@@ -126,6 +130,8 @@ Subsec. (b)(2). Pub. L. 102–405, §206, inserted ", or comparable position" b
 
 Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted "Under Secretary for Health" for "Chief Medical Director".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–163, title VI, §601(d)(2), May 5, 2010, 124 Stat. 1169, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the first day of the first pay period beginning after the day that is 180 days after the date of the enactment of this Act \[May 5, 2010\]."
@@ -138,9 +144,31 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 Pub. L. 102–585, title III, §308, Nov. 4, 1992, 106 Stat. 4953, provided that: "The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\]."
 
+#### Waivers
+
+Pub. L. 116–146, §1(b), July 2, 2020, 134 Stat. 658, provided that:
+
+"(1)
+
+In general.—The Secretary of Veterans Affairs may waive the limitation described in section 7404(d) of such title \[38 U.S.C. 7404(d)\], as in effect on the day before the date of the enactment of this Act \[July 2, 2020\], on the amount of basic pay payable to individuals appointed under section 7401(4) or 7306 of such title \[38 U.S.C. 7401(4), 7306\] for basic pay payable during the period—
+
+&emsp;"(A) beginning on November 1, 2010; and
+
+&emsp;"(B) ending on the day before the date of the enactment of this Act.
+
+"(2)
+
+Form.—The Secretary shall prescribe the form for requesting a waiver under paragraph (1).
+
+"(3)
+
+Treatment of waiver.—A decision not to grant a waiver under paragraph (1) shall not be treated as an adverse action and is not subject to further appeal, third-party review, or judicial review."
+
 #### Application
 
 Pub. L. 115–182, title V, §502(b)(2), June 6, 2018, 132 Stat. 1475, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to a pay period of the Department of Veterans Affairs beginning on or after the date that is 30 days after the date of the enactment of this Act \[June 6, 2018\]."
+
+#### <b>Executive Documents</b>
 
 #### Adjustment of Pay Rates
 

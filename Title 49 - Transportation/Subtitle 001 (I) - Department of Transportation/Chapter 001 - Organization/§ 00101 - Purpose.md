@@ -60,7 +60,7 @@ Pub. L. 115–420, §1, Jan. 3, 2019, 132 Stat. 5444, provided that: "This Act \
 
 Pub. L. 115–282, title V, §514(a), Dec. 4, 2018, 132 Stat. 4276, provided that: "This section \[enacting section 312 of this title\] may be cited as the 'National Timing Resilience and Security Act of 2018'."
 
-Pub. L. 115–271, title VIII, §8101, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle I (§§8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140,and 31306 of this title and section 7301 of Title 5, Government Organization and Employees\] may be cited as the 'Fighting Opioid Abuse in Transportation Act'."
+Pub. L. 115–271, title VIII, §8101, Oct. 24, 2018, 132 Stat. 4103, provided that: "This subtitle \[subtitle I (§§8101–8109) of title VIII of Pub. L. 115–271, enacting provisions set out as notes under sections 322, 329, 20140, and 31306 of this title and section 7301 of Title 5, Government Organization and Employees\] may be cited as the 'Fighting Opioid Abuse in Transportation Act'."
 
 Pub. L. 115–254, div. K, title I, §1901(a), Oct. 5, 2018, 132 Stat. 3542, provided that: "This title \[see Tables for classification\] may be cited as the 'TSA Modernization Act'."
 
@@ -152,7 +152,7 @@ Section 1. This order is issued consistent with the following findings and princ
 
 (d) A broad range of Federal program funding allows for the purchase or provision of transportation services and resources for persons who are transportation-disadvantaged. Yet, in too many communities, these services and resources are fragmented, unused, or altogether unavailable.
 
-(e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations related to advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
+(e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations relatedto advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
 
 (f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for persons with disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
 

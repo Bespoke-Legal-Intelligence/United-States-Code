@@ -98,7 +98,7 @@ The Commission's report under subsection (g) shall include—
 
 &emsp;(A) as an exercise of the rulemaking power of the House of Representatives, and as such are deemed a part of the rules of the House, and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of the House to change the rules\(so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
+&emsp;(B) with full recognition of the constitutional right of the House to change the rules (so far as relating to the procedure of the House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
 #### (j) Supplemental reports
 
@@ -106,9 +106,13 @@ The Commission may submit to the President and the Congress reports that supplem
 
 (Pub. L. 106–286, div. B, title III, §302, Oct. 10, 2000, 114 Stat. 895; Pub. L. 107–228, div. A, title VI, §615, Sept. 30, 2002, 116 Stat. 1396.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (h). Pub. L. 107–228 substituted "shall include—" for "shall include", inserted par. (1) designation before "specific information", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

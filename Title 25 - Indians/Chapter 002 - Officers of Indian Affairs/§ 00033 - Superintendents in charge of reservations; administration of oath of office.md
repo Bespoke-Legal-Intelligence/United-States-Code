@@ -4,9 +4,13 @@ Superintendents and acting superintendents in charge of Indian reservations, sch
 
 (June 30, 1913, ch. 4, §1, 38 Stat. 80.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Indian Appropriation Act, 1914.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

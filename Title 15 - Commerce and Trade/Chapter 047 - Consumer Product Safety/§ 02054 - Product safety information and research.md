@@ -152,7 +152,7 @@ Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418,
 
 Sec. 3. (a) There is established the Technical Study Group on Cigarette and Little Cigar Fire Safety (hereinafter in this Act referred to as the 'Study Group') which shall consist of—
 
-&emsp;"(1) one scientific or technical representative each from the Consumer Product Safety Commission, the Center for Fire Research of the National Institute ofStandards and Technology, the National Cancer Institute, the Federal Trade Commission, and the Federal Emergency Management Agency, the appointment of whom shall be made by the heads of those agencies;
+&emsp;"(1) one scientific or technical representative each from the Consumer Product Safety Commission, the Center for Fire Research of the National Institute of Standards and Technology, the National Cancer Institute, the Federal Trade Commission, and the Federal Emergency Management Agency, the appointment of whom shall be made by the heads of those agencies;
 
 &emsp;"(2) four scientific or technical representatives appointed by the Chairman of the Interagency Committee, by and with the advice and consent of the Interagency Committee, from a list of individuals submitted by the Tobacco Institute;
 

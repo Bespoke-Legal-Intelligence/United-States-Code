@@ -4,6 +4,8 @@ Either at the time of the rendition of the decree of naturalization or at such o
 
 (Feb. 29, 1952, ch. 49, §2, 66 Stat. 10.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.

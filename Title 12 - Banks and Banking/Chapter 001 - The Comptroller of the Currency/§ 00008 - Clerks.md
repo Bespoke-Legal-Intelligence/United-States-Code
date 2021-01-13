@@ -4,11 +4,15 @@ The Comptroller of the Currency shall employ, from time to time, the necessary c
 
 (R.S. §328.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §328 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 

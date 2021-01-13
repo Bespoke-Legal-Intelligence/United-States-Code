@@ -1,6 +1,6 @@
 ### §7305a. Purpose
 
-The purpose of this part is to allow States and local educational agencies the flexibility to target Federal funds to the programs and activities that most effectively address the unique needs of States and localities.
+The purpose of this part is to allow States and local educational agencies the flexibility to target Federal funds to the programs and activitiesthat most effectively address the unique needs of States and localities.
 
 (Pub. L. 89–10, title V, §5102, formerly title VI, §6122, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1876; renumbered title V, §5102, and amended Pub. L. 114–95, title V, §§5001(a)(1), 5002(4), Dec. 10, 2015, 129 Stat. 2039, 2040.)
 

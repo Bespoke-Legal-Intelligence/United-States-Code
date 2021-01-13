@@ -36,7 +36,7 @@ In carrying out the flood insurance program the Administrator shall, to the maxi
 
 > in accordance with the provisions of subchapter II.
 
-(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
+(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat.2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretar
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection\(a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
+Pub. L. 103–325, title V, §555(b), Sept. 23, 1994, 108 Stat. 2274, provided that: "The provisions of subsection (a) \[amending this section\] shall apply only to properties that sustain flood-related damage after the date of enactment of this Act \[Sept. 23, 1994\]."
 
 #### Effective Date
 
@@ -130,7 +130,7 @@ Effective dates.—Notwithstanding section 1306(c) of the National Flood Insuran
 
 "(c)
 
-Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage."
+Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results ofthe review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage."
 
 \[For definitions of terms used in section 100227 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
@@ -164,7 +164,7 @@ Pub. L. 108–264, §2, June 30, 2004, 118 Stat. 712, provided that: "The Congre
 
 &emsp;"(9) mitigation of repetitive-loss properties through buyouts, elevations, relocations, or flood-proofing will produce savings for policyholders under the program and for Federal taxpayers through reduced flood insurance losses and reduced Federal disaster assistance;
 
-&emsp;"(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitiveflood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
+&emsp;"(10) a strategy of making mitigation offers aimed at high-priority repetitive-loss properties and shifting more of the burden of recovery costs to property owners who choose to remain vulnerable to repetitive flood damage can encourage property owners to take appropriate actions that reduce loss of life and property damage and benefit the financial soundness of the program;
 
 &emsp;"(11) the method for addressing repetitive-loss properties should be flexible enough to take into consideration legitimate circumstances that may prevent an owner from taking a mitigation action; and
 
@@ -368,7 +368,7 @@ Study of determination fees.—Conduct a study of—
 
 &emsp;&emsp;"(A) the reasonableness of fees charged pursuant to 102(h) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(h)\] for costs of determining whether the property securing a loan is located in an area having special flood hazards; and
 
-&emsp;&emsp;"(B) whether the fees charged pursuant to such section by lenders and servicers are greater than the amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
+&emsp;&emsp;"(B) whether the fees charged pursuant to such section by lenders and servicers are greater thanthe amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
 
 "(d)
 

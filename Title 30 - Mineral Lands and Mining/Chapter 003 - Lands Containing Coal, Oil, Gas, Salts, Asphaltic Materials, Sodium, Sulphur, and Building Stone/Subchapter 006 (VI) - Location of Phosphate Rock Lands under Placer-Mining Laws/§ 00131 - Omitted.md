@@ -1,5 +1,7 @@
 ### §131. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Jan. 11, 1915, ch. 9, 38 Stat. 792, provided for perfection under placer mining laws of locations made in good faith prior to Jan. 11, 1915, on public lands containing deposits of phosphate rock.

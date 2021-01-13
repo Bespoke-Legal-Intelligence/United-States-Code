@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps of the Public Health Service who—
+The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service who—
 
 &emsp;(1) is assigned to, and serving in, a position included in the list established under section 1616i(b)(1) of this title for which recruitment or retention of personnel is difficult,
 
@@ -46,6 +46,8 @@ The Secretary may pay a retention bonus to any physician or nurse employed by an
 
 (Pub. L. 94–437, title I, §117, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4799; amended Pub. L. 102–573, title I, §104(d), Oct. 29, 1992, 106 Stat. 4533.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -53,4 +55,12 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 #### Amendments
 
 <b>1992</b>—Subsecs. (b) to (f). Pub. L. 102–573 added subsec. (b), redesignated former subsecs. (b) to (e) as (c) to (f), respectively, and amended subsec. (f) generally, substituting provisions relating to physicians and nurses employed under the Indian Self-Determination Act for provisions which authorized appropriations for fiscal years 1990 to 1992.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

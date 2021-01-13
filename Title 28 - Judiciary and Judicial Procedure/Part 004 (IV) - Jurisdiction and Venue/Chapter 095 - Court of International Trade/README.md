@@ -5,12 +5,16 @@
 | [1581\.](%C2%A7%2001581%20-%20Civil%20actions%20against%20the%20United%20States%20and%20agencies%20and%20officers%20thereof.md) | Civil actions against the United States and agencies and officers thereof. |
 | [1582\.](%C2%A7%2001582%20-%20Civil%20actions%20commenced%20by%20the%20United%20States.md) | Civil actions commenced by the United States. |
 | [1583\.](%C2%A7%2001583%20-%20Counterclaims%2C%20cross-claims%2C%20and%20third-party%20actions.md) | Counterclaims, cross-claims, and third-party actions. |
-| [1584\.](%C2%A7%2001584%20-%20Civil%20actions%20under%20the%20North%20American%20Free%20Trade%20Agreement%20or%20the%20United%20States-Canada%20Free-Trade%20Agreement.md) | Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement. |
+| [1584\.](%C2%A7%2001584%20-%20Civil%20actions%20under%20the%20United%20States-Canada%20Free-Trade%20Agreement%20or%20the%20USMCA.md) | Civil actions under the United States-Canada Free-Trade Agreement or the USMCA. |
 | [1585\.](%C2%A7%2001585%20-%20Powers%20in%20law%20and%20equity.md) | Powers in law and equity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–113, title IV, §423(a)(3), Jan. 29, 2020, 134 Stat. 66, added item 1584 and struck out former item 1584 "Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement".
 
 <b>1993</b>—Pub. L. 103–182, title IV, §414(a)(3), Dec. 8, 1993, 107 Stat. 2147, inserted "the North American Free Trade Agreement or" in item 1584.
 
@@ -28,5 +32,5 @@
 - [&sect; 01581 - Civil actions against the United States and agencies and officers thereof](%C2%A7%2001581%20-%20Civil%20actions%20against%20the%20United%20States%20and%20agencies%20and%20officers%20thereof.md)
 - [&sect; 01582 - Civil actions commenced by the United States](%C2%A7%2001582%20-%20Civil%20actions%20commenced%20by%20the%20United%20States.md)
 - [&sect; 01583 - Counterclaims, cross-claims, and third-party actions](%C2%A7%2001583%20-%20Counterclaims%2C%20cross-claims%2C%20and%20third-party%20actions.md)
-- [&sect; 01584 - Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement](%C2%A7%2001584%20-%20Civil%20actions%20under%20the%20North%20American%20Free%20Trade%20Agreement%20or%20the%20United%20States-Canada%20Free-Trade%20Agreement.md)
+- [&sect; 01584 - Civil actions under the United States-Canada Free-Trade Agreement or the USMCA](%C2%A7%2001584%20-%20Civil%20actions%20under%20the%20United%20States-Canada%20Free-Trade%20Agreement%20or%20the%20USMCA.md)
 - [&sect; 01585 - Powers in law and equity](%C2%A7%2001585%20-%20Powers%20in%20law%20and%20equity.md)

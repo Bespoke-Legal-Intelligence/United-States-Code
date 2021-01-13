@@ -22,7 +22,7 @@ In carrying out this section, the National Weather Service—
 
 &emsp;(1) shall give priority to assisting nations in identifying vulnerable coastal areas, creating inundation maps, obtaining or designing real-time detection and reporting equipment, and supporting communication and warning networks and contact points in each vulnerable nation;
 
-&emsp;(2) may support a process for transfer of detection and communication technology to affected nations for the purposes of supporting the international tsunami warning system; and
+&emsp;(2) may support a process for transfer of detection and communication technology to affected nations for the purposes of supportingthe international tsunami warning system; and
 
 &emsp;(3) shall provide technical and other assistance to support international tsunami programs.
 
@@ -31,6 +31,8 @@ In carrying out this section, the National Weather Service—
 The National Weather Service, when deciding to provide assistance under this section, may take into consideration the data sharing policies and practices of nations proposed to receive such assistance, with a goal to encourage all nations to support full and open exchange of data.
 
 (Pub. L. 109–424, §7, Dec. 20, 2006, 120 Stat. 2907; Pub. L. 109–479, title VIII, §807, Jan. 12, 2007, 120 Stat. 3659; Pub. L. 115–25, title V, §§507, 512(a), Apr. 18, 2017, 131 Stat. 124, 128.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

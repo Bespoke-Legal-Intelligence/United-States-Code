@@ -10,13 +10,15 @@ The Inspector General of the Department of State (as established by the amendmen
 
 #### (c) Earmark
 
-Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading "Administration of Foreign Affairs", not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
+Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading"Administration of Foreign Affairs", not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
 
 #### (d) Limitation on appointment
 
 No career member of the Foreign Service, as defined by section 3903 of this title, may be appointed Inspector General of the Department of State.
 
 (Pub. L. 99–399, title IV, §413, Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–204, title I, §134, Dec. 22, 1987, 101 Stat. 1344.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–204 struck out former subsec. (a) designation and heading "Inspector General of Department of State", redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters
 

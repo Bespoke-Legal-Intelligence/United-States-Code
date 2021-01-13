@@ -16,7 +16,7 @@ With respect to the Trust Fund, there is hereby created a body to be known as th
 
 &emsp;(4) Review the general policies followed in managing the Trust Fund, and recommend changes in such policies, including necessary changes in the provisions of law which govern the way in which the Trust Fund is to be managed.
 
-> The report provided for in paragraph (2) shall include a statement of the assets of, and the disbursements made from, the Trust Fund during the preceding fiscal year, an estimate of the expected income to, and disbursements to be made from, the Trust Fund during the current fiscal year and each of the next 2 fiscal years, and a statement of the actuarial status of the Trust Fund. Such report shall also include an actuarial opinion by the Chief Actuary of the Centers for Medicare \& Medicaid Services certifying that the techniques and methodologies used aregenerally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable. Such report shall be printed as a House document of the session of the Congress to which the report is made. A person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+> The report provided for in paragraph (2) shall include a statement of the assets of, and the disbursements made from, the Trust Fund during the preceding fiscal year, an estimate of the expected income to, and disbursements to be made from, the Trust Fund during the current fiscal year and each of the next 2 fiscal years, and a statement of the actuarial status of the Trust Fund. Such report shall also include an actuarial opinion by the Chief Actuary of the Centers for Medicare \& Medicaid Services certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable. Such report shall be printed as a House document of the session of the Congress to which the report is made. A person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
@@ -70,7 +70,7 @@ Subsec. (g). Pub. L. 108–173, §105(d)(2), inserted at end "The payments provi
 
 Pub. L. 108–173, §101(e)(3)(C)(ii), inserted at end "The payments provided for under part D, other than under section 1395w–141(k)(2) of this title, shall be made from the Medicare Prescription Drug Account in the Trust Fund."
 
-Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
+Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
 
 Subsec. (i). Pub. L. 108–173, §101(e)(3)(C)(iv), inserted "and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395u(g) of this title".
 
@@ -102,7 +102,7 @@ Subsec. (i). Pub. L. 98–369, §2663(j)(2)(F)(iii), substituted "Health and Hum
 
 Pub. L. 98–21, §154(c), inserted at end provision that the report referred to in par. (2) shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable, and provided further that the certification shall not refer to economic assumptions underlying the Trustee's report.
 
-Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not beconsidered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+Pub. L. 98–21, §341(c)(2), inserted at end provision that a person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–292 substituted "Administrator of the Health Care Financing Administration" for "Commissioner of Social Security" in provisions preceding par. (1).
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 Amendment by section 132(e) of Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
 
-Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable to premiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
+Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable topremiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
 
 #### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 

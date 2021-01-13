@@ -132,7 +132,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall annually determine the impact of differences between assumedbehavior changes (as described in paragraph (3)(A)(iv)) and actual behavior changes on estimated aggregate expenditures under this subsection with respect to years beginning with 2020 and ending with 2026.
+&emsp;&emsp;&emsp;The Secretary shall annually determine the impact of differences between assumed behavior changes (as described in paragraph (3)(A)(iv)) and actual behavior changes on estimated aggregate expenditures under this subsection with respect to years beginning with 2020 and ending with 2026.
 
 #### (ii) Permanent adjustments
 
@@ -154,7 +154,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (ii) Area wage adjustment
 
-&emsp;&emsp;&emsp;The portion of such amount that the Secretary estimates to be attributable to wages and wage-related costs shall be adjusted for geographic differences in such costs by an area wage adjustment factor (established under subparagraph (C)) for the area in which the services are furnished or such other area as the Secretary may specify.
+&emsp;&emsp;&emsp;The portion of such amount that the Secretary estimates to be attributable to wages and wage-related costs shall be adjusted for geographic differences in such costs by an area wage adjustment factor (established under subparagraph (C)) forthe area in which the services are furnished or such other area as the Secretary may specify.
 
 #### (B) Establishment of case mix adjustment factors
 
@@ -188,7 +188,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 With respect to home health services furnished on or after October 1, 1998, no claim for such a service may be paid under this subchapter unless—
 
-&emsp;(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
+&emsp;(1) the claim has the unique identifier for the physician <sup>2</sup> the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title), or the physician assistant (as defined in section 1395x(aa)(5) of this title) who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
 
 &emsp;(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments; and
 
@@ -216,21 +216,27 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
 
-&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+&emsp;&emsp;(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician <sup>2</sup> a nurse practitioner or clinical nurse specialist, or a physician assistant pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
 
 &emsp;&emsp;(B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
 
-#### (2) Physician certification
+#### (2) Rule of construction regarding requirement for certification
 
-&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+&emsp;Nothing in this section shall be construed as waiving the requirement for a certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304; Pub. L. 116–136, div. A, title III, §3708(d), Mar. 27, 2020, 134 Stat. 421.)
 
 #### References in Text
 
 Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1). Pub. L. 116–136, §3708(d)(1), struck out "(provided under section 1395u(r) of this title)" after "unique identifier" and inserted "the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title), or the physician assistant (as defined in section 1395x(aa)(5) of this title)" after "physician".
+
+Subsec. (e)(1)(A). Pub. L. 116–136, §3708(d)(2)(A), inserted "a nurse practitioner or clinical nurse specialist, or a physician assistant" after "physician".
+
+Subsec. (e)(2). Pub. L. 116–136, §3708(d)(2)(B), substituted "Rule of construction regarding requirement for certification" for "Physician certification" in heading and struck out "physician" before "certification" in text.
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–123, §51001(a)(1), inserted subpar. (A) designation and heading before "In defining" and added subpar. (B).
 
@@ -314,7 +320,7 @@ Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title V, §504\], added subsec. (e).
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(19)\], made technical amendment to reference in original act which appears in text as reference to August 5, 1997.
 
-Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: "Under such system the Secretary shall provide for computation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area."
+Subsec. (b)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title III, §302(b)\], amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: "Under such system the Secretary shall provide forcomputation of a standard prospective payment amount (or amounts). Such amount (or amounts) shall initially be based on the most current audited cost report data available to the Secretary and shall be computed in a manner so that the total amounts payable under the system for fiscal year 2001 shall be equal to the total amount that would have been made if the system had not been in effect but if the reduction in limits described in clause (ii) had been in effect. Such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and wage levels among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area."
 
 Subsec. (b)(3)(A)(i)(I). Pub. L. 106–113, §1000(a)(6) \[title III, §303(b)(1)\], which directed that the second sentence of cl. (i) be amended in subcl. (I) by the insertion of "and if section 1395x(v)(1)(L)(ix) of this title had not been enacted" before semicolon, was executed by making the insertion before the period at end of subcl. (I) to reflect the probable intent of Congress.
 
@@ -333,6 +339,10 @@ Subsec. (b)(3)(B)(i). Pub. L. 105–277, §5101(d)(2)(A), substituted "home heal
 Pub. L. 105–277, §5101(c)(1)(B)(iii), substituted "fiscal year 2002" for "fiscal year 2001".
 
 Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+#### Effective Date of 2020 Amendment
+
+Secretary of Health and Human Services to prescribe regulations to apply the amendments made by Pub. L. 116–136 to items and services furnished, which shall become effective no later than 6 months after Mar. 27, 2020, see section 3708(f) of Pub. L. 116–136, set out as a note under section 1395f of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -596,7 +606,7 @@ Medical adult day-care services.—The term 'medical adult day-care services' me
 
 &emsp;"(4)
 
-Medicare beneficiary.—The term 'medicare beneficiary' means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, 42 U.S.C. 1395c et seq.\], enrolled under part B of this title \[probablymeans part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both."
+Medicare beneficiary.—The term 'medicare beneficiary' means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, 42 U.S.C. 1395c et seq.\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both."
 
 #### Temporary Suspension of Oasis Requirement for Collection of Data on Non-Medicare and Non-Medicaid Patients
 
@@ -620,7 +630,7 @@ Report.—
 
 &emsp;"(1)
 
-Study.—The Secretary shall conduct a study on how non-medicare/medicaid OASIS information is and can be used by large home health agencies. Such study shall examine—
+Study.—The Secretary shall conduct a study on how non-medicare/medicaid OASIS information isand can be used by large home health agencies. Such study shall examine—
 
 &emsp;&emsp;"(A) whether there are unique benefits from the analysis of such information that cannot be derived from other information available to, or collected by, such agencies; and
 
@@ -698,7 +708,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §508\], Dec. 21, 2000, 114 Stat. 2763, 
 
 "(b)
 
-Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective paymentamount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a)."
+Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a)."
 
 #### Clarification of Application of Temporary Payment Increases for 2001
 
@@ -818,7 +828,7 @@ Pub. L. 105–33, title IV, §4602(e), Aug. 5, 1997, 111 Stat. 467, provided tha
 
 #### Prospective Payment System Contingency
 
-Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) of this section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
+Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(3), Oct. 21, 1998, 112 Stat. 2681–914, provided that if the Secretary of Health and Human Services did not establish and implement the prospective payment system for home health services described in subsec. (b) ofthis section for portions of cost reporting periods described in section 4603(d) of Pub. L. 105–33 (set out as a note above), for such portions the Secretary was to provide for a reduction by 15 percent in the cost limits and per beneficiary limits described in section 1395x(v)(1)(L) of this title, as those limits would otherwise have been in effect on Sept. 30, 2000, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359.
 
 #### Reports to Congress Regarding Home Health Cost Containment
 

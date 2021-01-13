@@ -21,3 +21,4 @@
 - [&sect; 00282m - Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union](%C2%A7%2000282m%20-%20Authority%20to%20vote%20for%20capital%20increases%20necessary%20to%20support%20economic%20restructuring%20in%20independent%20states%20of%20former%20Soviet%20Union.md)
 - [&sect; 00282n - Authority to agree to amendments to Articles of Agreement](%C2%A7%2000282n%20-%20Authority%20to%20agree%20to%20amendments%20to%20Articles%20of%20Agreement.md)
 - [&sect; 00282o - Selective capital increase and amendment of the Articles of Agreement](%C2%A7%2000282o%20-%20Selective%20capital%20increase%20and%20amendment%20of%20the%20Articles%20of%20Agreement.md)
+- [&sect; 00282p - Capital increases and amendment to the Articles of Agreement](%C2%A7%2000282p%20-%20Capital%20increases%20and%20amendment%20to%20the%20Articles%20of%20Agreement.md)

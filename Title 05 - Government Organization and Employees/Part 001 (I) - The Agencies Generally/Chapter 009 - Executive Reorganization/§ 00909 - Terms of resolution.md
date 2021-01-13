@@ -20,6 +20,8 @@ June 20, 1949, ch. 226, §202, 63 Stat. 207.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 903(c) of this chapter, referred to in text, means section 903(c) of this title.

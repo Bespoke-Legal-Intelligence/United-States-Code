@@ -14,15 +14,19 @@
 
 (3) Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.
 
-(b) No person shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
+(b) No individual shall be appointed a commissioned officer under this section until his mental, moral, physical, and professional fitness to perform the duties of a commissioned officer has been established under such regulations as the Secretary shall prescribe.
 
 (c) Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. Appointees whose dates of commission are the same shall take precedence with each other as the Secretary shall determine.
 
 (d) For the purposes of this section, the term "original", with respect to the appointment of a member of the Coast Guard, refers to that member's most recent appointment in the Coast Guard that is neither a promotion nor a demotion.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177, §211; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §217(a), July 11, 2006, 120 Stat. 525; Pub. L. 112–213, title II, §206, Dec. 20, 2012, 126 Stat. 1546; renumbered §2101, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 177, §211; amended Pub. L. 89–444, §1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, §217(a), July 11, 2006, 120 Stat. 525; Pub. L. 112–213, title II, §206, Dec. 20, 2012, 126 Stat. 1546; renumbered §2101, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(13), Jan. 1, 2021, 134 Stat. 4748.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "individual" for "person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 211 of this title as this section.
 
@@ -33,6 +37,8 @@
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
 
 <b>1966</b>—Subsec. (a)(4). Pub. L. 89–444 substituted "two years" for "four years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 
@@ -48,7 +54,7 @@ Pub. L. 88–130, §5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–
 
 "(e) An officer of the Regular Coast Guard who was appointed as a temporary commissioned officer under any provision of law in effect prior to the effective date of this Act and who is serving on active duty shall be considered to have been appointed under section 214 \[now 2104\] of title 14, United States Code, and subject to the provisions thereof. An officer of the Regular Coast Guard who was appointed as a permanent commissioned officer under any provision of law in effect prior to the effective date of this Act \[Sept. 24, 1963\], and who is serving on active duty shall be considered to have been appointed under section 211 \[now 2101\] of title 14, United States Code, and subject to the provisions thereof.
 
-"(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 \[now 2149\] of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 \[now 2149\] of title 14, United States Code, the retirement of any other officer would be required after June30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
+"(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 \[now 2149\] of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 \[now 2149\] of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
 
 "(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 

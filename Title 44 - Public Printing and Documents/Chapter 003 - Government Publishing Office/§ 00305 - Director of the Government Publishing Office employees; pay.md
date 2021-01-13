@@ -12,6 +12,8 @@ Based on 44 U.S. Code, 1964 ed., §40 (Jan. 12, 1895, ch. 23, §§39, 49, 50, 28
 
 Last sentence of this section was deleted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, §1301(c)(2), substituted "Director of the Government Publishing Office" for "Public Printer" in section catchline.
@@ -26,6 +28,8 @@ Subsec. (b). Pub. L. 113–235, §1301(c)(1), substituted "Director of the Gover
 
 <b>1969</b>—Pub. L. 91–167 substituted "four hundred" for "two hundred" as the number of apprentices which the Public Printer may employ at one time.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (a) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
@@ -36,7 +40,7 @@ General repealer of provisions inconsistent with Pub. L. 92–392 as not repeali
 
 #### Voluntary Separation Incentives
 
-Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov.12, 2001, 115 Stat. 590; Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov. 12, 2001, 115 Stat. 590; Pub. L. 112–10, div. B, title IX, §1926(a), Apr. 15, 2011, 125 Stat. 172; Pub. L. 113–235, div. H, title I, §1301(b), (d), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a)
 
@@ -104,7 +108,7 @@ Retraining, Job Placement, and Counseling Services.—(1) In this subsection, th
 
 &emsp;"(B) shall not include—
 
-&emsp;&emsp;"(i) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or another retirement system for employees of the Government; or
+&emsp;&emsp;"(i) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5, United StatesCode, or another retirement system for employees of the Government; or
 
 &emsp;&emsp;"(ii) an employee who is employed on a temporary when actually employed basis.
 
@@ -134,7 +138,7 @@ Administrative Provisions.—(1) The Director of the Government Publishing Offic
 
 "(3) Funds to carry out subsection (d) may be expended from any funds made available to the Director of the Government Publishing Office."
 
-\[Pub. L. 112–10, div. B, title IX, §1926(b), Apr. 15, 2011, 125 Stat. 172, provided that: "The amendment made by subsection (a) \[amending section 309 of Pub. L. 105–275,set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
+\[Pub. L. 112–10, div. B, title IX, §1926(b), Apr. 15, 2011, 125 Stat. 172, provided that: "The amendment made by subsection (a) \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
 
 \[Pub. L. 107–68, title II, §210(b), Nov. 12, 2001, 115 Stat. 590, provided that: "The amendments made by this section \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\]."\]
 

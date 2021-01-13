@@ -88,7 +88,7 @@ An eligible entity receiving a grant or cooperative agreement under this section
 
 &emsp;&emsp;(A) with respect to adults with a serious mental illness, participation in supportive housing or independent living programs, attendance in social and rehabilitative programs, participation in job training opportunities, satisfactory performance in work settings, attendance at scheduled medical and mental health appointments, and compliance with prescribed medication regimes;
 
-&emsp;&emsp;(B) with respect to individuals with co-occurring mental illness and physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation inlearning opportunities related to improved health and lifestyle practices; and
+&emsp;&emsp;(B) with respect to individuals with co-occurring mental illness and physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation in learning opportunities related to improved health and lifestyle practices; and
 
 &emsp;&emsp;(C) with respect to children and adolescents with a serious emotional disturbance who have co-occurring physical health conditions and chronic diseases, attendance at scheduled medical and mental health appointments, compliance with prescribed medication regimes, and participation in learning opportunities at school and extracurricular activities.
 
@@ -108,7 +108,7 @@ An eligible entity receiving a grant or cooperative agreement under this section
 
 #### (2) Additional dissemination of technical information
 
-&emsp;The information and resources provided by the Secretary under paragraph (1) shall, as appropriate, be made available to States, political subdivisions of States, Indian tribes or tribal organizations (as defined in section 5304 of title 25), outpatient mental health and addiction treatment centers, community mental health centers that meet the criteria under section 300x–2(c) of this title, certified community behavioral health clinics described in section 223 of the Protecting Access to Medicare Act of 2014, primary care organizations such as Federally qualified health centers or rural health clinics as defined in section 1395x(aa) of this title, other community-based organizations, or other entities engaging in integrated care activities, as the Secretary determines appropriate.
+&emsp;The information and resources provided by the Secretary under paragraph (1) shall, as appropriate, be made available to States, political subdivisions of States, Indian tribes ortribal organizations (as defined in section 5304 of title 25), outpatient mental health and addiction treatment centers, community mental health centers that meet the criteria under section 300x–2(c) of this title, certified community behavioral health clinics described in section 223 of the Protecting Access to Medicare Act of 2014, primary care organizations such as Federally qualified health centers or rural health clinics as defined in section 1395x(aa) of this title, other community-based organizations, or other entities engaging in integrated care activities, as the Secretary determines appropriate.
 
 #### (h) Authorization of appropriations
 

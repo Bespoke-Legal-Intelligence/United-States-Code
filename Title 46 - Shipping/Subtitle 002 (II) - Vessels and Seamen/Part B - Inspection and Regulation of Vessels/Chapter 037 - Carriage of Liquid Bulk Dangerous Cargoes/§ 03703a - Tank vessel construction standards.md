@@ -50,6 +50,8 @@
 
 (Added Pub. L. 101–380, title IV, §4115(a), Aug. 18, 1990, 104 Stat. 517; amended Pub. L. 104–324, title VII, §715, title XI, §1103, Oct. 19, 1996, 110 Stat. 3937, 3966; Pub. L. 105–85, div. C, title XXXVI, §3606, Nov. 18, 1997, 111 Stat. 2077; Pub. L. 109–304, §15(15), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–91, div. C, title XXXV, §3502(b)(3), Dec. 12, 2017, 131 Stat. 1910; Pub. L. 115–232, div. C, title XXXV, §3544(a), Aug. 13, 2018, 132 Stat. 2324.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(3) to (6). Pub. L. 115–232, §3544(a)(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to certain vessels before January 1, 2015, unloading oil in bulk or offloading in lightering activities.
@@ -88,6 +90,8 @@ Subsec. (c)(3)(C). Pub. L. 104–324, §715(5), inserted "as measured under sect
 
 Subsec. (d). Pub. L. 104–324, §1103(2), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as a note under section 2701 of Title 33, Navigation and Navigable Waters.
@@ -106,7 +110,7 @@ Pub. L. 101–380, title IV, §4115(e), Aug. 18, 1990, 104 Stat. 520, as amended
 
 "(1)
 
-Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or other qualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
+Other requirements.—Not later than 6 months after the date of enactment of this Act \[Aug. 18, 1990\], the Secretary shall determine, based on recommendations from the National Academy of Sciences or otherqualified organizations, whether other structural and operational tank vessel requirements will provide protection to the marine environment equal to or greater than that provided by double hulls, and shall report to the Congress that determination and recommendations for legislative action.
 
 "(2)
 
@@ -119,6 +123,8 @@ Review and assessment.—The Secretary shall—
 &emsp;"(C) report the results of the review and assessment to the Congress with recommendations for legislative or other action.
 
 "(3) No later than one year after the date of enactment of the Coast Guard and Maritime Transportation Act of 2004 \[Aug. 9, 2004\], the Secretary shall, taking into account the recommendations contained in the report by the Marine Board of the National Research Council entitled 'Environmental Performance of Tanker Design in Collision and Grounding' and dated 2001, establish and publish an environmental equivalency evaluation index (including the methodology to develop that index) to assess overall outflow performance due to collisions and groundings for double hull tank vessels and alternative designs."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

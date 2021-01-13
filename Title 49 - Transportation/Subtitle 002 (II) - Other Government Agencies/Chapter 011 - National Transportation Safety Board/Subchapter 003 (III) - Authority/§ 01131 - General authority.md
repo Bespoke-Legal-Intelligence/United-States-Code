@@ -4,7 +4,7 @@
 
 General.—(1) The National Transportation Safety Board shall investigate or have investigated (in detail the Board prescribes) and establish the facts, circumstances, and cause or probable cause of—
 
-&emsp;(A) an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a) ofthis title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
+&emsp;(A) an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
 
 &emsp;(B) a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
 

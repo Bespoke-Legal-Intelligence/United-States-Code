@@ -8,7 +8,7 @@
 
 &emsp;(A) matters concerning the administration of the estate;
 
-&emsp;(B) allowance or disallowance of claims against the estate or exemptions from property of the estate, and estimation of claims or interests for the purposes of confirming a plan under chapter 11, 12, or 13 of title 11 but not the liquidation or estimation of contingent or unliquidated personal injury tort or wrongful death claims against the estate for purposes of distribution in a case under title 11;
+&emsp;(B) allowance or disallowance of claims against the estate or exemptions from property of the estate, and estimation of claims or interests for the purposes of confirming a plan under chapter 11, 12, or 13 of title 11 but not the liquidation or estimation of contingent or unliquidated personal injury tort or wrongfuldeath claims against the estate for purposes of distribution in a case under title 11;
 
 &emsp;(C) counterclaims by the estate against persons filing claims against the estate;
 
@@ -54,6 +54,8 @@
 
 (Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 340; amended Pub. L. 99–554, title I, §§143, 144(b), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 103–394, title I, §112, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 109–8, title VIII, §802(c)(1), Apr. 20, 2005, 119 Stat. 145.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
 For information regarding constitutionality of certain provisions of this section, as added by section 104(a) of Pub. L. 98–353, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
@@ -65,6 +67,8 @@ For information regarding constitutionality of certain provisions of this sectio
 <b>1994</b>—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted "interests" for "interest" and inserted reference to chapter 12, and in subpar. (G) inserted a comma after "annul".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

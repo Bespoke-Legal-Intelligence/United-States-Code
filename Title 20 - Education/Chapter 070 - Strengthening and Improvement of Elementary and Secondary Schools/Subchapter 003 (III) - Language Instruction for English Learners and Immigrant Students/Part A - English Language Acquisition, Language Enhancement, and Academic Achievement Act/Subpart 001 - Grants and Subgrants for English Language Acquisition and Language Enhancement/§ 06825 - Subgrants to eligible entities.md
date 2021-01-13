@@ -106,7 +106,7 @@ Subject to subsection (c), an eligible entity receiving funds under section 6824
 
 #### (1) In general
 
-&emsp;To receive a subgrant from a State educational agency under this subpart, an eligibleentity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
+&emsp;To receive a subgrant from a State educational agency under this subpart, an eligible entity shall select one or more methods or forms of effective instruction to be used in the programs and activities undertaken by the entity to assist English learners to attain English language proficiency and meet challenging State academic standards.
 
 #### (2) Consistency
 

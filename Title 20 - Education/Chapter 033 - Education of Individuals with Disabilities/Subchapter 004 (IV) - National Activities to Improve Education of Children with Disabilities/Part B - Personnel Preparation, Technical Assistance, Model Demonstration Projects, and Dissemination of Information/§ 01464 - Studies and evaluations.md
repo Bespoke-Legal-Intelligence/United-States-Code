@@ -114,7 +114,7 @@ In carrying out this section, the Secretary may support objective studies, evalu
 
 &emsp;&emsp;&emsp;(iv) the number of minority children who drop out of the educational system; and
 
-&emsp;&emsp;(B) the performance of children with disabilities from minority backgrounds onState assessments and other performance indicators established for all students;
+&emsp;&emsp;(B) the performance of children with disabilities from minority backgrounds on State assessments and other performance indicators established for all students;
 
 &emsp;(4) measure educational and transitional services and results for children with disabilities served under this chapter, including longitudinal studies that—
 

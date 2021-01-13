@@ -14,11 +14,15 @@ The Secretary of State may authorize exceptions to the requirements of this sect
 
 (Pub. L. 96–465, title II, §2207, Oct. 17, 1980, 94 Stat. 2163; Pub. L. 103–236, title I, §139(7), (25), Apr. 30, 1994, 108 Stat. 398, 399; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "Foreign Service Institute".
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236, §139(7), (25), amended subsec. (c) identically, striking out at end "Such exceptions shall be annually reported to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Expansion of Model Foreign Language Competence Posts
 
@@ -30,7 +34,7 @@ Designation of Posts.—In order to carry out the purposes of section 702 of the
 
 "(b)
 
-'Hard Language Country' Post To Be Designated.—At least one of the posts designated under subsection (a) shall be in a 'hard language' country, as identified in the report to the Under Secretary of State for Management of May 12, 1986, entitled 'Hard Language Proficiency in the Foreign Service'. Such postshall be in one of the countries where the official or principal language is Arabic, Chinese, Japanese, or Russian.
+'Hard Language Country' Post To Be Designated.—At least one of the posts designated under subsection (a) shall be in a 'hard language' country, as identified in the report to the Under Secretary of State for Management of May 12, 1986, entitled 'Hard Language Proficiency in the Foreign Service'. Such post shall be in one of the countries where the official or principal language is Arabic, Chinese, Japanese, or Russian.
 
 "(c)
 

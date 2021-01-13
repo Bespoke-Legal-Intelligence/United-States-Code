@@ -28,3 +28,5 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under section 137 of Title 10, Armed Forces.
 
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+

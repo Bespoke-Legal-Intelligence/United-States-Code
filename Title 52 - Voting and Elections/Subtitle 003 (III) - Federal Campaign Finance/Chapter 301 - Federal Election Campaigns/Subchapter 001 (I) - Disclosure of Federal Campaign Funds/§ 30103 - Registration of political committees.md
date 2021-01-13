@@ -38,6 +38,8 @@ Any change in information previously submitted in a statement of organization sh
 
 (Pub. L. 92–225, title III, §303, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§203, 208(c)(3), Oct. 15, 1974, 88 Stat. 1276, 1286; Pub. L. 96–187, title I, §103, Jan. 8, 1980, 93 Stat. 1347.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 433 of Title 2, The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
@@ -46,7 +48,7 @@ Section was formerly classified to section 433 of Title 2, The Congress, prior t
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–187 substituted provisions requiring each authorized campaign committee, each segregated fund established under section 441b(b) of this title, and all other committees to file a statement of organization 10 days after establishment for provisions requiring each political committee anticipating the receipt or expenditure during the calendar year of an amount exceeding $1,000 to file with the Commission a statement of organization within 10 days after organization or 10 days after receipt of information causing the anticipation of receipt or expenditure in excess of $1,000 and requiring each committee in existence on the date of enactment of this Act to file a statement of organization at such time as the Commission prescribes.
 
-Subsec. (b). Pub. L. 96–187 inserted "of a political committee" in introductory clause; in par. (1) insertedreference to type of committee; in par. (2) inserted reference to type of organization or affiliated committee; in par. (3) substituted provisions relating to the name, address and position of custodian of books and accounts for provisions relating to area, scope or jurisdiction of the committee; in par. (4) substituted provisions relating to the name and address of the treasurer for provisions relating to the name, address and position of the custodian of books and accounts; in par. (5) substituted provisions relating to the name, address, office sought and party affiliation of the candidate for provisions relating to the name, address and position of principal officers including officers of the finance committee; in par. (6) substituted provisions relating to listings of banks, safety deposit boxes, etc. for provisions relating to name and address, office sought and political affiliation of supported candidates, and struck out pars. (7) to (11) relating to other information.
+Subsec. (b). Pub. L. 96–187 inserted "of a political committee" in introductory clause; in par. (1) inserted reference to type of committee; in par. (2) inserted reference to type of organization or affiliated committee; in par. (3) substituted provisions relating to the name, address and position of custodian of books and accounts for provisions relating to area, scope or jurisdiction of the committee; in par. (4) substituted provisions relating to the name and address of the treasurer for provisions relating to the name, address and position of the custodian of books and accounts; in par. (5) substituted provisions relating to the name, address, office sought and party affiliation of the candidate for provisions relating to the name, address and position of principal officers including officers of the finance committee; in par. (6) substituted provisions relating to listings of banks, safety deposit boxes, etc. for provisions relating to name and address, office sought and political affiliation of supported candidates, and struck out pars. (7) to (11) relating to other information.
 
 Subsec. (c). Pub. L. 96–187 substituted "in accordance with section 432(g) of this title no later than 10 days after the date of the change" for "to the Commission within a ten-day period following the change".
 
@@ -59,6 +61,8 @@ Subsec. (e). Pub. L. 96–187 struck out subsec. (e) relating to filing of requi
 Subsec. (a). Pub. L. 93–443, §208(c)(3)(B), substituted "it prescribes" for "he prescribes".
 
 Subsec. (e). Pub. L. 93–443, §203, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

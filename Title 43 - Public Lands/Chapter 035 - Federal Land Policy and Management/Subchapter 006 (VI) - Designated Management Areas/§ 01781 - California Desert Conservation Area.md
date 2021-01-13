@@ -36,7 +36,7 @@ During the period beginning on October 21, 1976, and ending on the effective dat
 
 #### (f) Applicability of mining laws
 
-Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
+Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall providefor such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
 
 #### (g) Advisory Committee; establishment; functions
 
@@ -56,6 +56,8 @@ There are authorized to be appropriated for fiscal years 1977 through 1981 not t
 
 (Pub. L. 94–579, title VI, §601, Oct. 21, 1976, 90 Stat. 2782.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
@@ -63,6 +65,8 @@ This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 
 #### Codification
 
 Subsec. (i) of this section, which required the Secretary to report annually to Congress on the progress in, and any problems concerning, the implementation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the last item on page 107 of House Document No. 103–7.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -88,7 +92,7 @@ Pub. L. 103–433, title I, §108, Oct. 31, 1994, 108 Stat. 4483, provided that:
 
 "(a)
 
-Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled 'Dinosaur Trackway Area of Critical Environmental Concern', dated July 1993. The Secretary \[of the Interior\] shall administerthe area to preserve the paleontological resources within the area.
+Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled 'Dinosaur Trackway Area of Critical Environmental Concern', dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
 
 "(b)
 

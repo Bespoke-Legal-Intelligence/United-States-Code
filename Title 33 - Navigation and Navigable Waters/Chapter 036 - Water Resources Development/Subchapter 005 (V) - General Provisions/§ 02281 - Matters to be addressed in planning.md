@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Enhancing national economic development (including benefits to particular regions of theNation not involving the transfer of economic activity to such regions from other regions), the quality of the total environment (including preservation and enhancement of the environment), the well-being of the people of the United States, the prevention of loss of life, and the preservation of cultural and historical values shall be addressed in the formulation and evaluation of water resources projects to be carried out by the Secretary, and the associated benefits and costs, both quantifiable and unquantifiable, and information regarding potential loss of human life that may be associated with flooding and coastal storm events, shall be displayed in the benefits and costs of such projects.
+Enhancing national economic development (including benefits to particular regions of the Nation not involving the transfer of economic activity to such regions from other regions), the quality of the total environment (including preservation and enhancement of the environment), the well-being of the people of the United States, the prevention of loss of life, and the preservation of cultural and historical values shall be addressed in the formulation and evaluation of water resources projects to be carried out by the Secretary, and the associated benefits and costs, both quantifiable and unquantifiable, and information regarding potential loss of human life that may be associated with flooding and coastal storm events, shall be displayed in the benefits and costs of such projects.
 
 #### (b) Assessments
 
@@ -14,6 +14,8 @@ For all feasibility reports for water resources projects completed after Decembe
 
 (Pub. L. 99–662, title IX, §904, Nov. 17, 1986, 100 Stat. 4185; Pub. L. 101–640, title III, §315, Nov. 28, 1990, 104 Stat. 4641; Pub. L. 104–303, title II, §231, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 110–114, title II, §2033(a), Nov. 8, 2007, 121 Stat. 1084.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–114 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -21,6 +23,8 @@ For all feasibility reports for water resources projects completed after Decembe
 <b>1996</b>—Pub. L. 104–303 inserted "and information regarding potential loss of human life that may be associated with flooding and coastal storm events," after "unquantifiable,".
 
 <b>1990</b>—Pub. L. 101–640 inserted "(including preservation and enhancement of the environment)" after "environment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rural Project Evaluation and Selection Criteria
 

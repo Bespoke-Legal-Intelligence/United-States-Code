@@ -42,13 +42,15 @@ Cooperation.—The Commandant and the head of a department or agency listed in s
 
 (d) 5
 
-\-year Strategic Plan.—Not later than January 1, 2016 and every 5 years thereafter, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a 5-year strategic plan to guide interagency and international intergovernmental cooperation and coordination for the purpose of improving maritime domain awareness in the Arctic.
+\-year Strategic Plan.—Not later than January 1, 2016 and every 5 years thereafter, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a 5-year strategic plan to guide interagency and international intergovernmental cooperation and coordination for the purpose ofimproving maritime domain awareness in the Arctic.
 
 (e)
 
 Definitions.—In this section the term "Arctic" has the meaning given that term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
 
 (Added Pub. L. 113–281, title V, §502(a), Dec. 18, 2014, 128 Stat. 3057, §154; renumbered §714, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

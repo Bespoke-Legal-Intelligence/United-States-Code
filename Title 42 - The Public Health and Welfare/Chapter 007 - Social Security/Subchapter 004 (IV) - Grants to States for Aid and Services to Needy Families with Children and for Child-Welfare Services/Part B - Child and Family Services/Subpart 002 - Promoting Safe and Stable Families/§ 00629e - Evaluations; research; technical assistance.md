@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) persons administering child and family services programs (including family preservation and family support programs) for private, nonprofit organizations with an interest in child welfare; and
 
-&emsp;&emsp;(C) other persons with recognized expertise in the evaluation of child and family services programs (including family preservationand family support programs) or other related programs.
+&emsp;&emsp;(C) other persons with recognized expertise in the evaluation of child and family services programs (including family preservation and family support programs) or other related programs.
 
 #### (3) Timing of report
 
@@ -114,7 +114,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;&emsp;&emsp;(ii) consistent with previous studies of other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children, measure outcomes for parents and guardians and their children over multiple time periods, including for a period of 5 years; and
 
-&emsp;&emsp;&emsp;(iii) include measurements of family stability and parent, guardian, and child safety for program participants and the program control group that are consistent with measurements of such factors for participants and control groups from previous studies of other recovery coaching programs so as to allow results of the impact study to be compared with the results of such prior studies, including with respect to comparisons between program participants and the program control group regarding—
+&emsp;&emsp;&emsp;(iii) include measurements of family stability and parent, guardian, and child safety for program participants and the program control group that are consistent with measurements of such factors for participants and control groups from previous studies of other recovery coaching programs so as to allow results of the impactstudy to be compared with the results of such prior studies, including with respect to comparisons between program participants and the program control group regarding—
 
 &emsp;&emsp;&emsp;&emsp;(I) safe family reunification;
 
@@ -138,7 +138,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;&emsp;The implementation study component of the evaluation shall be conducted concurrently with the conduct of the impact study component and shall include, in addition to such other information as the Secretary may determine, descriptions and analyses of—
 
-&emsp;&emsp;&emsp;(i) the adherence of the family recovery and reunification program conducted under the project to other recovery coaching programs that have been rigorouslyevaluated and shown to increase family reunification and protect children; and
+&emsp;&emsp;&emsp;(i) the adherence of the family recovery and reunification program conducted under the project to other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children; and
 
 &emsp;&emsp;&emsp;(ii) the difference in services received or proposed to be received by the program participants and the program control group.
 

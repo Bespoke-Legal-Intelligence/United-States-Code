@@ -4,29 +4,29 @@
 
 Congress finds that—
 
-&emsp;(1) clause 3 of section 8 of article I of the United States Constitution recognizes the special relationship between the United States and Indian tribes;
+&emsp;(1) clause 3 of section 8 of article I of the United States Constitution recognizes the special relationship between the United States and Indian Tribes;
 
-&emsp;(2) beginning in 1970, with the inauguration by the Nixon Administration of the Indian self-determination era, each President has reaffirmed the special government-to-government relationship between Indian tribes and the United States;
+&emsp;(2) beginning in 1970, with the inauguration by the Nixon Administration of the Indian self-determination era, each President has reaffirmed the special government-to-government relationship between Indian Tribes and the United States;
 
-&emsp;(3) in 1994, President Clinton issued an Executive memorandum to the heads of departments and agencies that obligated all Federal departments and agencies, particularly those that have an impact on economic development, to evaluate the potential impacts of their actions on Indian tribes;
+&emsp;(3) in 1994, President Clinton issued an Executive memorandum to the heads of departments and agencies that obligated all Federal departments and agencies, particularly those that have an impact on economic development, to evaluate the potential impacts of their actions on Indian Tribes;
 
-&emsp;(4) consistent with the principles of inherent tribal sovereignty and the special relationship between Indian tribes and the United States, Indian tribes retain the right to enter into contracts and agreements to trade freely, and seek enforcement of treaty and trade rights;
+&emsp;(4) consistent with the principles of inherent Tribal sovereignty and the special relationship between Indian Tribes and the United States, Indian Tribes retain the right to enter into contracts and agreements to trade freely, and seek enforcement of treaty and trade rights;
 
-&emsp;(5) Congress has carried out the responsibility of the United States for the protection andpreservation of Indian tribes and the resources of Indian tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
+&emsp;(5) Congress has carried out the responsibility of the United States for the protection and preservation of Indian Tribes and the resources of Indian Tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
 
-&emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency among Indian tribes;
+&emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian Tribes in order to foster strong Tribal governments, Indian self-determination, and economic self-sufficiency among Indian Tribes;
 
-&emsp;(7) the capacity of Indian tribes to build strong tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
+&emsp;(7) the capacity of Indian Tribes to build strong Tribal governments and vigorous economies is hindered by the inability of Indian Tribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
 
 &emsp;(8) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer higher rates of unemployment, poverty, poor health, substandard housing, and associated social ills than those of any other group in the United States;
 
-&emsp;(9) the United States has an obligation to assist Indian tribes with the creation of appropriate economic and political conditions with respect to Indian lands to—
+&emsp;(9) the United States has an obligation to assist Indian Tribes with the creation of appropriate economic and political conditions with respect to Indian lands to—
 
-&emsp;&emsp;(A) encourage investment from outside sources that do not originate with the tribes; and
+&emsp;&emsp;(A) encourage investment from outside sources that do not originate with the Tribes; and
 
-&emsp;&emsp;(B) facilitate economic ventures with outside entities that are not tribal entities;
+&emsp;&emsp;(B) facilitate economic ventures with outside entities that are not Tribal entities;
 
-&emsp;(10) the economic success and material well-being of Native American communities depends on the combined efforts of the Federal Government, tribal governments, the private sector, and individuals;
+&emsp;(10) the economic success and material well-being of Native American communities depends on the combined efforts of the Federal Government, Tribal governments, the private sector, and individuals;
 
 &emsp;(11) the lack of employment and entrepreneurial opportunities in the communities referred to in paragraph (7) has resulted in a multigenerational dependence on Federal assistance that is—
 
@@ -52,21 +52,101 @@ The purposes of this chapter are as follows:
 
 &emsp;&emsp;(B) facilitating the movement of goods to and from Indian lands and the provision of services by Indians.
 
-&emsp;(2) To promote private investment in the economies of Indian tribes and to encourage the sustainable development of resources of Indian tribes and Indian-owned businesses.
+&emsp;(2) To promote private investment in the economies of Indian Tribes and to encourage the sustainable development of resources of Indian Tribes and Indian-owned businesses.
 
-&emsp;(3) To promote the long-range sustained growth of the economies of Indian tribes.
+&emsp;(3) To promote the long-range sustained growth of the economies of Indian Tribes.
 
 &emsp;(4) To raise incomes of Indians in order to reduce the number of Indians at poverty levels and provide the means for achieving a higher standard of living on Indian reservations.
 
-&emsp;(5) To encourage intertribal, regional, and international trade and business development in order to assist in increasing productivity and the standard of living of members of Indian tribes and improving the economic self-sufficiency of the governing bodies of Indian tribes.
+&emsp;(5) To encourage intertribal, regional, and international trade and business developmentin order to assist in increasing productivity and the standard of living of members of Indian Tribes and improving the economic self-sufficiency of the governing bodies of Indian Tribes.
 
-&emsp;(6) To promote economic self-sufficiency and political self-determination for Indian tribes and members of Indian tribes.
+&emsp;(6) To promote economic self-sufficiency and political self-determination for Indian Tribes and members of Indian Tribes.
 
-(Pub. L. 106–464, §2, Nov. 7, 2000, 114 Stat. 2012.)
+#### (c) Applicability to Indian-Owned Businesses
+
+The findings and purposes in subsections (a) and (b) shall apply to any Indian-owned business governed—
+
+&emsp;(1) by Tribal laws regulating trade or commerce on Indian lands; or
+
+&emsp;(2) pursuant to section 261 of this title.
+
+(Pub. L. 106–464, §2, Nov. 7, 2000, 114 Stat. 2012; Pub. L. 116–261, §3(a), (e)(2), (3), Dec. 30, 2020, 134 Stat. 3307, 3311.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–261, §3(e)(2), (3), substituted "Tribes" for "tribes" and "Tribal" for "tribal" wherever appearing.
+
+Subsec. (b). Pub. L. 116–261, §3(e)(2), substituted "Tribes" for "tribes" wherever appearing.
+
+Subsec. (c). Pub. L. 116–261, §3(a), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–261, §1, Dec. 30, 2020, 134 Stat. 3306, provided that: "This Act \[enacting section 4306a of this title, amending this section and sections 47, 4302 to 4305, and 4307 of this title and sections 2991b, 2991b–2, 2991b–3, 2991c, 2992c, and 2992d of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section\] may be cited as the 'Indian Community Economic Enhancement Act of 2020'."
 
 #### Short Title
 
 Pub. L. 106–464, §1, Nov. 7, 2000, 114 Stat. 2012, provided that: "This Act \[enacting this chapter\] may be cited as the 'Native American Business Development, Trade Promotion, and Tourism Act of 2000'."
+
+#### Findings
+
+Pub. L. 116–261, §2, Dec. 30, 2020, 134 Stat. 3306, provided that: "Congress finds that—
+
+"(1)(A) to bring industry and economic development to Indian communities, Indian Tribes must overcome a number of barriers, including—
+
+&emsp;"(i) geographical location;
+
+&emsp;"(ii) lack of infrastructure or capacity;
+
+&emsp;"(iii) lack of sufficient collateral and capital; and
+
+&emsp;"(iv) regulatory bureaucracy relating to—
+
+&emsp;&emsp;"(I) development; and
+
+&emsp;&emsp;"(II) access to services provided by the Federal Government; and
+
+"(B) the barriers described in subparagraph (A) often add to the cost of doing business in Indian communities;
+
+"(2) Indian Tribes—
+
+&emsp;"(A) enact laws and exercise sovereign governmental powers;
+
+&emsp;"(B) determine policy for the benefit of Tribal members; and
+
+&emsp;"(C) produce goods and services for consumers;
+
+"(3) the Federal Government has—
+
+&emsp;"(A) an important government-to-government relationship with Indian Tribes; and
+
+&emsp;"(B) a role in facilitating healthy and sustainable Tribal economies;
+
+"(4) the input of Indian Tribes in developing Federal policy and programs leads to more meaningful and effective measures to assist Indian Tribes and Indian entrepreneurs in building Tribal economies;
+
+"(5)(A) many components of Tribal infrastructure need significant repair or replacement; and
+
+"(B) access to private capital for projects in Indian communities—
+
+&emsp;"(i) may not be available; or
+
+&emsp;"(ii) may come at a higher cost than such access for other projects;
+
+"(6)(A) Federal capital improvement programs, such as those that facilitate tax-exempt bond financing and loan guarantees, are tools that help improve or replace crumbling infrastructure;
+
+"(B) lack of parity in treatment of an Indian Tribe as a governmental entity under Federal tax and certain other regulatory laws impedes, in part, the ability of Indian Tribes to raise capital through issuance of tax exempt debt, invest as an accredited investor, and benefit from other investment incentives accorded to State and local governmental entities; and
+
+"(C) as a result of the disparity in treatment of Indian Tribes described in subparagraph (B), investors may avoid financing, or demand a premium to finance, projects in Indian communities, making the projects more costly or inaccessible;
+
+"(7) there are a number of Federal loan guarantee programs available to facilitate financing of business, energy, economic, housing, and community development projects in Indian communities, and those programs may support public-private partnerships for infrastructure development, but improvements and support are needed for those programs specific to Indian communities to facilitate more effectively private financing for infrastructure and other urgent development needs; and
+
+"(8)(A) most real property held by Indian Tribes is trust or restricted land that essentially cannot be held as collateral; and
+
+"(B) while creative solutions, such as leasehold mortgages, have been developed in response to the problem identified in subparagraph (A), some solutions remain subject to review and approval by the Bureau of Indian Affairs, adding additional costs and delay to Tribal projects."
 
 #### Tribal Promise Zones
 
@@ -98,7 +178,7 @@ In general.—The Secretary shall designate nominated zones as Tribal Promise Zo
 
 Effective dates of designations.—The designation of any Tribal Promise Zone shall take effect—
 
-&emsp;&emsp;"(A) for purposes of priority consideration in Federal grant programs and initiatives (other than this section), upon execution of the Tribal Promise Zone agreement with the Secretary; and
+&emsp;&emsp;"(A) for purposes of priority consideration in Federal grant programs and initiatives (other than thissection), upon execution of the Tribal Promise Zone agreement with the Secretary; and
 
 &emsp;&emsp;"(B) for purposes of this section, on January 1 of the first calendar year beginning after the date of the execution of the Tribal Promise Zone agreement.
 

@@ -84,7 +84,7 @@ Before providing a grant to an eligible entity under this section, the Administr
 
 #### (h) Waiver
 
-The Administrator may waive, in whole or in part, the requirement under subsection (g)(1) ifthe Administrator determines that an eligible entity is unable to pay, or would experience significant financial hardship if required to pay, the non-Federal share.
+The Administrator may waive, in whole or in part, the requirement under subsection (g)(1) if the Administrator determines that an eligible entity is unable to pay, or would experience significant financial hardship if required to pay, the non-Federal share.
 
 #### (i) Limitation on use of funds
 

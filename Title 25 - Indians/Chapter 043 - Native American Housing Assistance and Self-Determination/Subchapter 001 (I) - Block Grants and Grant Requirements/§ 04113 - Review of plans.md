@@ -38,7 +38,9 @@ Notwithstanding any other provision of this section, the Secretary—
 
 &emsp;(2) may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) <sup>2</sup> and (c)(7).<sup>3</sup>
 
-(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct.21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, §103, Oct. 14, 2008, 122 Stat. 4323.)
+(Pub. L. 104–330, title I, §103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, §595(e)(6), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, §103, Oct. 14, 2008, 122 Stat. 4323.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

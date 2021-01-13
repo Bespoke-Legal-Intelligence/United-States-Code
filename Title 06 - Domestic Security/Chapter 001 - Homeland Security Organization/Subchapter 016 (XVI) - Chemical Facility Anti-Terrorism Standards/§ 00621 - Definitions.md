@@ -78,17 +78,25 @@ In this subchapter—
 
 <i>For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Maritime Transportation Security Act of 2002, referred to in par. (4)(A), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 Section 550 of the Department of Homeland Security Appropriations Act, 2007, referred to in par. (5), is section 550 of Pub. L. 109–295, title V, Oct. 4, 2006, 120 Stat. 1388, which was set out as a note under section 121 of this title and was repealed by Pub. L. 113–254, §4(b), Dec. 18, 2014, 128 Stat. 2919.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates
 
 Pub. L. 113–254, §4(a), Dec. 18, 2014, 128 Stat. 2918, provided that: "This Act \[see Short Title of 2014 Amendment note set out under section 101 of this title\], and the amendments made by this Act, shall take effect on the date that is 30 days after the date of enactment of this Act \[Dec. 18, 2014\]."
 
-Pub. L. 113–254, §5, Dec. 18, 2014, 128 Stat. 2919, as amended by Pub. L. 116–2, §2, Jan. 18, 2019, 133 Stat. 5, provided that: "The authority provided under title XXI of the Homeland Security Act of 2002 \[6 U.S.C. 621 et seq.\], as added by section 2(a), shall terminate on the date that is 5 years and 3 months after the effective date of this Act \[see section 4(a) of Pub. L. 113–254, set out above\]."
+Pub. L. 113–254, §5, Dec. 18, 2014, 128 Stat. 2919, as amended by Pub. L. 116–2, §2, Jan. 18, 2019, 133 Stat. 5; Pub. L. 116–136, div. B, title VI, §16007, Mar. 27, 2020, 134 Stat. 546; Pub. L. 116–150, §1(a), July 22, 2020, 134 Stat. 679, provided that: "The authority provided under title XXI of the Homeland Security Act of 2002 \[6 U.S.C. 621 et seq.\], as added by section 2(a), shall terminate on July 27, 2023."
+
+\[Pub. L. 116–150, §1(b), July 22, 2020, 134 Stat. 679, provided that: "The amendment made by subsection (a) \[amending section 5 of Pub. L. 113–254, set out above\] shall take effect on the date that is 1 day after the date of enactment of this Act \[July 22, 2020\]."\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13650. Improving Chemical Facility Safety and Security
 
@@ -142,7 +150,7 @@ Sec. 3. <i>Improving Operational Coordination with State, Local, and Tribal Part
 
 (b) Within 90 days of the date of this order, the Attorney General, through the head of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), shall assess the feasibility of sharing data related to the storage of explosive materials with SERCs, TEPCs, and LEPCs.
 
-(c) Within 90 days of the date of this order, the Secretary of Homeland Security shall assess the feasibility of sharing Chemical Facility Anti-Terrorism Standards (CFATS) data with SERCs, TEPCs, and LEPCs on a categorical basis.
+(c) Within 90 days of the date of this order, the Secretary of Homeland Security shall assess the feasibility of sharing Chemical Facility Anti-Terrorism Standards\(CFATS) data with SERCs, TEPCs, and LEPCs on a categorical basis.
 
 Sec. 4. <i>Enhanced Federal Coordination</i>. In order to enhance Federal coordination regarding chemical facility safety and security:
 

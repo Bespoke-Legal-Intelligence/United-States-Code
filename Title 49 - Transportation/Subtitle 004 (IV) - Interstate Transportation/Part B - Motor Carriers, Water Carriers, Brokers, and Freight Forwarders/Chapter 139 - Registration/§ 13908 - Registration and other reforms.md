@@ -20,7 +20,7 @@ Procedures for Correcting Information.—Not later than 60 days after the effect
 
 (d)
 
-Fee System.—The Secretary shall establish, under section 9701 of title 31, a fee system for the Unified Carrier Registration System according to the following guidelines:
+Fee System.—The Secretary shall establish, under section 9701 of title 31, a fee systemfor the Unified Carrier Registration System according to the following guidelines:
 
 &emsp;(1)
 

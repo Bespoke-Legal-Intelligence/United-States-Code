@@ -30,7 +30,7 @@
 
 &emsp;(C) guard against personal or financial conflicts of interest; and
 
-&emsp;(D) define employee duties in an appropriate manner that will in any case preclude employees from participating, in connection with theperformance of their duties, in any form of picketing, protest, or other direct action that is in violation of law.
+&emsp;(D) define employee duties in an appropriate manner that will in any case preclude employees from participating, in connection with the performance of their duties, in any form of picketing, protest, or other direct action that is in violation of law.
 
 #### (b) Development and administrative costs of programs
 
@@ -38,7 +38,7 @@ Except as provided in subsection (f), no financial assistance shall be extended 
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f), which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f),which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 

@@ -32,13 +32,15 @@
 
 &emsp;(A) serve warrants and subpoenas issued under the authority of the United States; and
 
-&emsp;(B) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Postal Service or persons on the property.
+&emsp;(B) conduct investigations, on and off the property in question, of offenses that mayhave been committed against property owned or occupied by the Postal Service or persons on the property.
 
 (4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
 
 (B) A person violating a regulation prescribed under this subsection shall be fined under this title, imprisoned for not more than 30 days, or both.
 
 (Added Pub. L. 90–560, §5(a), Oct. 12, 1968, 82 Stat. 998; amended Pub. L. 91–375, §6(j)(38)(A), Aug. 12, 1970, 84 Stat. 781; Pub. L. 100–690, title VI, §6251(a), Nov. 18, 1988, 102 Stat. 4362; Pub. L. 109–435, title X, §1001, Dec. 20, 2006, 120 Stat. 3254.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -61,6 +63,8 @@
 Subsec. (a). Pub. L. 91–375, §6(j)(38)(A)(ii), substituted "officers and employees of the Postal Service performing duties related to the inspection of postal matters may, to the extent authorized by the Board of Governors—" for "postal inspectors may, to the extent authorized by the Postmaster General—".
 
 Subsec. (b). Pub. L. 91–375, §6(j)(38)(A)(iii), substituted "Postal Service, including property of the Postal Service," for "postal service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

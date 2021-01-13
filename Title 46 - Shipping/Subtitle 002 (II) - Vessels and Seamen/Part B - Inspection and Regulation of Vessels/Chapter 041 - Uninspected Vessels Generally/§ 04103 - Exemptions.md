@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 Section 4103 contains an exemption from carrying fire extinguishers, for on a vessel competing in an organized race or a vessel designed and intended for racing only.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–540 added subsec. (a) and designated existing provisions as subsec. (b).

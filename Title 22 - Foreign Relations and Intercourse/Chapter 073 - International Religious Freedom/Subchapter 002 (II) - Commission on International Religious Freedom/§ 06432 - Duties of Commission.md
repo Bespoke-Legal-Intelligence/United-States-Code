@@ -24,7 +24,7 @@ Together with specific policy recommendations provided under subsections (b) and
 
 #### (1) In general
 
-&emsp;The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
+&emsp;The Commission shall, on an ongoing basis, monitor facts and circumstances of violationsof religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
 
 #### (2) Tracking; review
 
@@ -36,11 +36,15 @@ Together with specific policy recommendations provided under subsections (b) and
 
 (Pub. L. 105–292, title II, §202, Oct. 27, 1998, 112 Stat. 2798; Pub. L. 106–55, §1(b)(1), Aug. 17, 1999, 113 Stat. 401; Pub. L. 116–94, div. J, title VIII, §804(a), Dec. 20, 2019, 133 Stat. 3077.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–94 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: "The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sense of Congress
 

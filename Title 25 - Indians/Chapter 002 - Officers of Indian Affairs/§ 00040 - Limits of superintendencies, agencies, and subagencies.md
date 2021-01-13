@@ -4,9 +4,13 @@ The limits of each superintendency, agency, and subagency shall be established b
 
 (R.S. §2066.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2066 derived from acts June 30, 1834, ch. 162, §7, 4 Stat. 736; Mar. 3, 1847, ch. 66, §1, 9 Stat. 203.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

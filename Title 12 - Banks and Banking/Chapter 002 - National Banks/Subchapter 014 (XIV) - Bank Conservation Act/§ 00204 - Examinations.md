@@ -4,9 +4,13 @@ The Comptroller of the Currency (in consultation with the Board of Directors of 
 
 (Mar. 9, 1933, ch. 1, title II, §204, 48 Stat. 3; Pub. L. 101–73, title VIII, §803, Aug. 9, 1989, 103 Stat. 443.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "The Comptroller of the Currency shall cause to be made such examinations of the affairs of such bank as shall be necessary to inform him as to the financial condition of such bank, and the examiner shall make a report thereon to the Comptroller of the Currency at the earliest practicable date."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception as to Transfer of Functions
 

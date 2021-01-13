@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Cost-Effectiveness Analysis of Equipment Rental
 
 Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, provided that:
@@ -21,7 +23,7 @@ Agency Analysis of Equipment Acquisition.—
 
 &emsp;"(1)
 
-In general.—Except as provided for under subsection (d), the head of each executive agency shallacquire equipment using the method of acquisition most advantageous to the Federal Government based on a case-by-case analysis of comparative costs and other factors, including those factors listed in section 7.401 of the Federal Acquisition Regulation.
+In general.—Except as provided for under subsection (d), the head of each executive agency shall acquire equipment using the method of acquisition most advantageous to the Federal Government based on a case-by-case analysis of comparative costs and other factors, including those factors listed in section 7.401 of the Federal Acquisition Regulation.
 
 &emsp;"(2)
 
@@ -131,7 +133,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'appropriate committees of Congress' means—
 
-&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee onHomeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Oversight and Government Reform, and the Committee on Appropriations of the House of Representatives.
 

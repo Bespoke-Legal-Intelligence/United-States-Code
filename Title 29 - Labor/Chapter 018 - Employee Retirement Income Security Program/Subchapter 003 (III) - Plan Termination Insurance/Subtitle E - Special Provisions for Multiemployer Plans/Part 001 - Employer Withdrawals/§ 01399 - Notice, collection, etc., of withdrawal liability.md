@@ -60,7 +60,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (iii) A plan may be amended to provide that for the first plan year ending on or after September 26, 1980, the number "5" shall be substituted for the number "10" each place it appears in clause (i) or clause (ii) (whichever is appropriate). If the plan is so amended, the number "5" shall be increased by one for each succeeding plan year until the number "10" is reached.
 
-(D) In any case in which a multiemployer plan terminates by the withdrawal of every employerfrom the plan, or in which substantially all the employers withdraw from a plan pursuant to an agreement or arrangement to withdraw from the plan—
+(D) In any case in which a multiemployer plan terminates by the withdrawal of every employer from the plan, or in which substantially all the employers withdraw from a plan pursuant to an agreement or arrangement to withdraw from the plan—
 
 &emsp;(i) the liability of each such employer who has withdrawn shall be determined (or redetermined) under this paragraph without regard to subparagraph (B), and
 
@@ -78,7 +78,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (3) Each annual payment determined under paragraph (1)(C) shall be payable in 4 equal installments due quarterly, or at other intervals specified by plan rules. If a payment is not made when due, interest on the payment shall accrue from the due date until the date on which the payment is made.
 
-(4) The employer shall be entitled to prepay the outstanding amount of the unpaid annual withdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
+(4) The employer shall be entitled to prepay the outstanding amount of the unpaid annualwithdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
 
 (5) In the event of a default, a plan sponsor may require immediate payment of the outstanding amount of an employer's withdrawal liability, plus accrued interest on the total outstanding liability from the due date of the first payment which was not timely made. For purposes of this section, the term "default" means—
 
@@ -101,6 +101,8 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 The prohibitions provided in section 1106(a) of this title do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.
 
 (Pub. L. 93–406, title IV, §4219, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1236; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(B), July 18, 1984, 98 Stat. 899; Pub. L. 113–235, div. O, title II, §201(a)(7)(B), Dec. 16, 2014, 128 Stat. 2810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

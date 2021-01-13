@@ -56,7 +56,7 @@
 
 #### (2) Additional violations
 
-&emsp;The Secretary may impose a civil money penalty under subsection (a) for any knowingand material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
+&emsp;The Secretary may impose a civil money penalty under subsection (a) for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
 
 &emsp;&emsp;(A) submission to the Secretary of information that was false, in connection with any mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
 
@@ -134,6 +134,8 @@ Notwithstanding any other provision of law, all civil money penalties collected 
 
 (June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111 Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 108–447, div. I, title II, §219(a), Dec. 8, 2004, 118 Stat. 3319; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(f)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–22, div. A, title II, §203(f), May 20, 2009, 123 Stat. 1647.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–22, §203(f)(1)(A)(i), inserted "or any of its owners, officers, or directors" after "mortgagee or lender" in introductory provisions.
@@ -160,7 +162,7 @@ Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of s
 
 <b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting "mortgagees, lenders, and other participants in FHA programs" for "mortgagees and lenders".
 
-Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
+Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I, ora principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b), the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
 
 Subsec. (a)(2). Pub. L. 105–65, §553(b)(2), inserted "or such other person or entity" after "lender" in first sentence and substituted "the provisions of subsection (b)(1)" for "provision of subsection (b)(1)" in second sentence.
 
@@ -175,6 +177,8 @@ Subsec. (d)(1). Pub. L. 105–65, §553(d)(2), inserted "or such other person or
 Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted "or such other person or entity" after "lender" in two places.
 
 <b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, §2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting "Deposit Insurance Fund" for "Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations" and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -82,13 +82,15 @@ Notice to prisoners of state or local implementation.—The implementation of th
 
 &emsp;(5)
 
-Notice before public comment period.—Before the beginning of any period a proposed implementation under this subsection is open to public comment, written and oral notice ofthe provisions of that proposed implementation shall be provided to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed implementation.
+Notice before public comment period.—Before the beginning of any period a proposed implementation under this subsection is open to public comment, written and oral notice of the provisions of that proposed implementation shall be provided to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed implementation.
 
 &emsp;(6)
 
 Comprehensive hiv/aids services required.—Any State or local government assessing or collecting a fee under this subsection shall provide comprehensive coverage for services relating to human immunodeficiency virus (HIV) and acquired immune deficiency syndrome (AIDS) to each Federal prisoner in the custody of such State or local government when medically appropriate. The State or local government may not assess or collect a fee under this subsection for providing such coverage.
 
 (Added Pub. L. 100–690, title VII, §7608(d)(1), Nov. 18, 1988, 102 Stat. 4516; amended Pub. L. 101–647, title XVII, §1701, title XXXV, §3599, Nov. 29, 1990, 104 Stat. 4843, 4931; Pub. L. 103–322, title XXXIII, §330011(o), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 106–294, §3, Oct. 12, 2000, 114 Stat. 1040; Pub. L. 107–273, div. A, title III, §302(2), Nov. 2, 2002, 116 Stat. 1781.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -105,6 +107,8 @@ Subsecs. (c), (d). Pub. L. 107–273, §302(2)(B)(i), redesignated subsecs. (b) 
 <b>1990</b>—Subsec. (a). Pub. L. 101–647, §3599, which struck out "(a)" at beginning of text, was repealed by Pub. L. 103–322, §330011(o).
 
 Subsec. (b). Pub. L. 101–647, §1701, added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

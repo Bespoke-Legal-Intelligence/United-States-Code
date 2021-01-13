@@ -18,9 +18,13 @@ Based on title 18, U.S.C., 1940 ed., §658 (R.S. §5274).
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–132 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Extradition Treaties Interpretation
 
@@ -118,6 +122,8 @@ Pub. L. 100–204, title VIII, §803, Dec. 22, 1987, 101 Stat. 1397, provided th
 
 Pub. L. 99–93, title I, §133, Aug. 16, 1985, 99 Stat. 420, provided that: "The Secretary of State, with the assistance of the National Drug Enforcement Policy Board, shall increase United States efforts to negotiate updated extradition treaties relating to narcotics offenses with each major drug-producing country, particularly those in Latin America."
 
+#### <b>— — —</b>
+
 #### EXTRADITION AGREEMENTS
 
 The United States currently has bilateral extradition agreements with the following countries:
@@ -134,7 +140,7 @@ The United States currently has bilateral extradition agreements with the follow
 | &nbsp; | Sept. 4, 1990 | Dec. 21, 1992 | 1736 UNTS 344. |
 | Austria | Jan. 8, 1998 | Jan. 1, 2000 | TIAS 12916. |
 | &nbsp; | July 20, 2005 | Feb. 1, 2010 | TIAS 10-201.2. |
-| Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS. |
+| Bahamas | Mar. 9, 1990 | Sept. 22, 1994 | TIAS 94-922. |
 | Barbados | Feb. 28, 1996 | Mar. 3, 2000 | TIAS 00-303. |
 | Belgium | Apr. 27, 1987 | Sept. 1, 1997 | TIAS 97-901. |
 | &nbsp; | Dec. 16, 2004 | Feb. 1, 2010 | TIAS 10-201. |
@@ -207,7 +213,7 @@ The United States currently has bilateral extradition agreements with the follow
 | &nbsp; | July 6, 2005 | Jan. 10, 2007 | TIAS 07-110. |
 | Italy | Oct. 13, 1983 | Sept. 24, 1984 | 35 UST 3023. |
 | &nbsp; | May 3, 2006 | Feb. 1, 2010 | TIAS 10-201.13. |
-| Jamaica | June 14, 1983 | July 7, 1991 | TIAS. |
+| Jamaica | June 14, 1983 | July 7, 1991 | TIAS 91-707. |
 | Japan | Mar. 3, 1978 | Mar. 26, 1980 | 31 UST 892. |
 | Jordan | Mar. 28, 1995 | July 29, 1995 | TIAS. |
 | Kenya | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
@@ -285,7 +291,7 @@ The United States currently has bilateral extradition agreements with the follow
 | Switzerland | Nov. 14, 1990 | Sept. 10, 1997 | TIAS 97-910. |
 | Tanzania | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | &nbsp; | Nov. 30, Dec. 6, 1965 | Dec. 6, 1965 | 16 UST 2066. |
-| Thailand | Dec. 14, 1983 | May 17, 1991 | TIAS. |
+| Thailand | Dec. 14, 1983 | May 17, 1991 | TIAS 91-517. |
 | Tonga | Dec. 22, 1931 | Aug. 1, 1966 | 47 Stat. 2122. |
 | &nbsp; | Mar. 14, Apr. 13, 1977 | Apr. 13, 1977 | 28 UST 5290. |
 | Trinidad and Tobago | Mar. 4, 1996 | Nov. 29, 1999 | TIAS 99-1129. |
@@ -297,7 +303,7 @@ The United States currently has bilateral extradition agreements with the follow
 | Venezuela | Jan. 19, 21, 1922 | Apr. 14, 1923 | 43 Stat. 1698. |
 | Yugoslavia <sup>1</sup> | Oct. 25, 1901 | June 12, 1902 | 32 Stat. 1890. |
 | Zambia | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| Zimbabwe | July 25, 1997 | Apr. 26, 2000 | TIAS. |
+| Zimbabwe | July 25, 1997 | Apr. 26, 2000 | TIAS 00-426. |
 
 <sup>1</sup> Status of agreements with successor states of Czechoslovakia and Yugoslavia is under review; inquire of the Treaty Office of the United States Department of State.
 

@@ -58,7 +58,7 @@ As used in this subchapter:
 
 &emsp;(B) any failure for a cause beyond the reasonable control of the franchisee; or
 
-&emsp;(C) any failure based on a provision of the franchise which is illegal or unenforceableunder the law of any State (or subdivision thereof).
+&emsp;(C) any failure based on a provision of the franchise which is illegal or unenforceable under the law of any State (or subdivision thereof).
 
 (14) The terms "fail to renew" and "nonrenewal" mean, with respect to any franchise relationship, a failure to reinstate, continue, or extend the franchise relationship—
 

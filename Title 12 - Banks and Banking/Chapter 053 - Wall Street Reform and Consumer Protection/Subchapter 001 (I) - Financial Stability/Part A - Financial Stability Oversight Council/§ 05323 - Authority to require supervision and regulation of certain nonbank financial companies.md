@@ -4,7 +4,7 @@
 
 #### (1) Determination
 
-&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a U.S. nonbank financial company shall be supervised by the Board of Governors and shallbe subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the U.S. nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the U.S. nonbank financial company, could pose a threat to the financial stability of the United States.
+&emsp;The Council, on a nondelegable basis and by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a U.S. nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the U.S. nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the U.S. nonbank financial company, could pose a threat to the financial stability of the United States.
 
 #### (2) Considerations
 
@@ -128,7 +128,7 @@ The Council shall—
 
 #### (3) Final determination
 
-&emsp;Not later than 60 days after the date of a hearing under paragraph (2), the Council shall notify the nonbank financial company of the final determination of the Council, which shall contain a statement of the basis for the decision of the Council.
+&emsp;Not later than 60 days after the date of a hearing under paragraph (2), the Council shall notify the nonbank financial company of thefinal determination of the Council, which shall contain a statement of the basis for the decision of the Council.
 
 #### (4) No hearing requested
 
@@ -138,7 +138,7 @@ The Council shall—
 
 #### (1) In general
 
-&emsp;The Council may waive or modify the requirements of subsection (e) with respect to anonbank financial company, if the Council determines, by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, that such waiver or modification is necessary or appropriate to prevent or mitigate threats posed by the nonbank financial company to the financial stability of the United States.
+&emsp;The Council may waive or modify the requirements of subsection (e) with respect to a nonbank financial company, if the Council determines, by a vote of not fewer than 2/3 of the voting members then serving, including an affirmative vote by the Chairperson, that such waiver or modification is necessary or appropriate to prevent or mitigate threats posed by the nonbank financial company to the financial stability of the United States.
 
 #### (2) Notice
 
@@ -169,6 +169,8 @@ If the Council makes a final determination under this section with respect to a 
 In exercising its duties under this subchapter with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.
 
 (Pub. L. 111–203, title I, §113, July 21, 2010, 124 Stat. 1398.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

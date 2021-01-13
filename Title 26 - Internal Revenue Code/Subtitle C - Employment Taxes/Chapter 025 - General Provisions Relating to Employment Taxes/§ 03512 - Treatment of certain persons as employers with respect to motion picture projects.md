@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (3) Motion picture project
 
-&emsp;The term "motion picture project" means the production of any property described in section 168(f)(3). Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
+&emsp;The term "motion picture project" means the production of any property described insection 168(f)(3). Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
 
 #### (4) Affiliate; affiliated
 

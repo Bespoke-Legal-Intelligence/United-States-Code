@@ -24,7 +24,7 @@ The notice instituting proceedings pursuant to subsection (a) shall fix a hearin
 
 #### (i) Issuance of temporary order
 
-&emsp;&emsp;&emsp;Whenever, during the course of a lawful investigation involving possible violations of the Federal securities laws by an issuer of publicly traded securities or any of its directors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
+&emsp;&emsp;&emsp;Whenever, during the course of a lawful investigation involving possible violations of the Federal securities laws by an issuer of publicly traded securities or any of itsdirectors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
 
 #### (ii) Standard
 
@@ -84,7 +84,7 @@ In any cease-and-desist proceeding under subsection (a), the Commission may ente
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors
 
-In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, orthat is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
 (June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809; Pub. L. 111–203, title IX, §985(b)(8), July 21, 2010, 124 Stat. 1934.)
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date
 
-Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement,see section 1(c)(1), (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
+Section effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in an Effective Date of 1990 Amendment note under section 77g of this title.
 

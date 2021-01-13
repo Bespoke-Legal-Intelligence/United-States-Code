@@ -20,7 +20,7 @@ In General.—Not later than 30 days after determining under section 1703(e)(1) 
 
 (b)
 
-Responsible Parties.—In each assessment submitted under subsection (a) with respect to amedical service line, the Secretary shall identify the individuals at the Central Office of the Veterans Health Administration, the facility used by the medical service line, and the central office of the relevant Veterans Integrated Service Network who are responsible for overseeing the progress of that medical service line in complying with the standards for quality established by the Secretary.
+Responsible Parties.—In each assessment submitted under subsection (a) with respect to a medical service line, the Secretary shall identify the individuals at the Central Office of the Veterans Health Administration, the facility used by the medical service line, and the central office of the relevant Veterans Integrated Service Network who are responsible for overseeing the progress of that medical service line in complying with the standards for quality established by the Secretary.
 
 (c)
 
@@ -35,6 +35,8 @@ Annual Reports.—Not less frequently than once each year, the Secretary shall�
 &emsp;(2) publish such analysis on the internet website of the Department.
 
 (Added Pub. L. 115–182, title I, §109(a), June 6, 2018, 132 Stat. 1417; amended Pub. L. 115–251, title II, §211(a)(6), Sept. 29, 2018, 132 Stat. 3175.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

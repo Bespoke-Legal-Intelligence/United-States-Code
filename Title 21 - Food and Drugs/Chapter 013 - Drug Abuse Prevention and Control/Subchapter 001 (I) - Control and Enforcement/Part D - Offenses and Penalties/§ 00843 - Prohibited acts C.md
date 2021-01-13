@@ -70,6 +70,8 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in section 812(c) of this title.
@@ -92,7 +94,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set 
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted "under title 18, or both;" for "of not more than $30,000, or both;" in two places and "under title 18, or both." for "of not more than $60,000, or both." in two places.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted "Except as provided in paragraph (2), any person" for "Any person", and added par. (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted "Except as provided inparagraph (2), any person" for "Any person", and added par. (2).
 
 Subsec. (e). Pub. L. 104–237, §206(b)(1), inserted "manufacture, exportation," after "distribution," and struck out "regulated" after "engaging in any".
 
@@ -119,6 +121,8 @@ Subsec. (d). Pub. L. 100–690, §6057(b), added subsec. (d).
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 added applicability to dispensing, acquiring, or obtaining a controlled substance, and applicability to an expired number.
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–633, §202(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

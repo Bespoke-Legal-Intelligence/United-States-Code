@@ -4,6 +4,8 @@ Any company desiring to secure the benefits of sections 687a, 687a–2 to 687a�
 
 (May 14, 1898, ch. 299, §5, 30 Stat. 410; 1946 Reorg. Plan. No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were repealed by Pub. L. 94–579, title VII, §§703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
@@ -12,9 +14,13 @@ Sections 687a and 687a–2 to 687a–5 of this title, referred to in text, were 
 
 Section was formerly classified to section 415 of Title 48, Territories and Insular Possessions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeal; Savings Provision
 
 Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

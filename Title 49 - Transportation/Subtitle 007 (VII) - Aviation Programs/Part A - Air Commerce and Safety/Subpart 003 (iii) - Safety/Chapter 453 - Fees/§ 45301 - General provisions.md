@@ -50,7 +50,7 @@ Production-Certification Related Service Defined.—In this section, the term "p
 
 Adjustment of Fees.—In addition to adjustments under subsection (b), the Administrator may periodically adjust the fees established under this section.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, titleVII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629; Pub. L. 112–95, title I, §121, Feb. 14, 2012, 126 Stat. 19; Pub. L. 115–254, div. B, title V, §539(k), Oct. 5, 2018, 132 Stat. 3371.)
 
 #### Prior Provisions
 

@@ -26,7 +26,7 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 &emsp;(B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
 
-&emsp;&emsp;(i) with the Department; or
+&emsp;&emsp;(i) with the Department, including by serving on active duty in the Armed Forces; or
 
 &emsp;&emsp;(ii) with a public or private entity or organization outside of the Department if the Secretary—
 
@@ -34,7 +34,7 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 &emsp;&emsp;&emsp;(II) determines that employment of the person with such entity or organization for the purpose of such obligated service would provide a benefit to the Department.
 
-(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate servicein exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
+(2) For the purposes of this subsection, the period of obligated service for a recipient of financial assistance under this section shall be the period determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for such financial assistance. The period of service required of a recipient may not be less than the total period of pursuit of a degree that is covered by such financial assistance. The period of obligated service is in addition to any other period for which the recipient is obligated to serve in the civil service of the United States.
 
 (3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
 
@@ -42,9 +42,11 @@ Service Agreement for Recipients of Financial Assistance.—(1) To receive finan
 
 Employment of Program Participants.—The Secretary of Defense—
 
-&emsp;(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department; and
+&emsp;(1) may, without regard to any provision of title 5 governing appointment of employees to competitive service positions within the Department of Defense, appoint to a position in the Department of Defense in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment, owes a service commitment to the Department;
 
-&emsp;(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
+&emsp;(2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment; and
+
+&emsp;(3) may establish arrangements so that participants may participate in a paid internship for an appropriate period with an industry sponsor.
 
 (e)
 
@@ -70,7 +72,9 @@ Refund for Period of Unserved Obligated Service.—(1)(A) A participant in the p
 
 (f)
 
-Relationship to Other Programs.—The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+Relationship to Other Programs.—(1) The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
+
+(2) The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
 
 (g)
 
@@ -88,7 +92,7 @@ Limitation on Participation.—(1) The Secretary may not award scholarships or f
 
 Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327; Pub. L. 114–92, div. A, title II, §212, Nov. 25, 2015, 129 Stat. 767.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327; Pub. L. 114–92, div. A, title II, §212, Nov. 25, 2015, 129 Stat. 767; Pub. L. 116–283, div. A, title II, §242, Jan. 1, 2021, 134 Stat. 3488.)
 
 #### Codification
 
@@ -96,11 +100,17 @@ Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, d
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(1)(B)(i). Pub. L. 116–283, §242(1), inserted ", including by serving on active duty in the Armed Forces" after "Department".
+
+Subsec. (d)(3). Pub. L. 116–283, §242(2), added par. (3).
+
+Subsec. (f). Pub. L. 116–283, §242(3), designated existing provisions as par. (1) and added par. (2).
+
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–92, §212(1), inserted "or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995" after "United States".
 
 Subsecs. (g), (h). Pub. L. 114–92, §212(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-<b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continueemployment in the Department of Defense for the period of obligated service determined under paragraph (2)."
+<b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–291 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2)."
 
 <b>2013</b>—Subsec. (b)(2). Pub. L. 113–66 substituted "an amount determined by the Secretary of Defense" for "the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board".
 
@@ -116,7 +126,37 @@ Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (
 
 Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted "this title" for "title 10, United States Code".
 
+#### National Security Workforce and Educational Diversity Activities
+
+Pub. L. 116–283, div. A, title II, §250, Jan. 1, 2021, 134 Stat. 3495, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall seek to diversify participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Education Program under section 2192a of title 10, United States Code.
+
+"(b)
+
+Activities.—In carrying out subsection (a), the Secretary shall—
+
+&emsp;"(1) subject to the availability of appropriations for this purpose, set aside funds for financial assistance, scholarships, and fellowships for students at historically Black colleges or universities or at minority institutions of higher education and such other institutions as the Secretary considers appropriate;
+
+&emsp;"(2) partner with institutions of higher education, and such other public and private sector organizations as the Secretary considers appropriate, to increase diversity of participants in the program described in subsection (a);
+
+&emsp;"(3) establish individual and organizational incentives, and such other activities as the Secretary considers appropriate, to increase diversity of student participation in the program described in subsection (a);
+
+&emsp;"(4) increase awareness of opportunities to participate in the program described in subsection (a);
+
+&emsp;"(5) evaluate the potential for new programs, fellowships, and other activities at historically Black colleges or universities and minority institutions of higher education to increase diversity in educational and workforce development programs;
+
+&emsp;"(6) identify potential changes to the program described in subsection (a) that would improve diversity of participants in such program; and
+
+&emsp;"(7) establish metrics to evaluate success of activities under this section.
+
+"(c)
+
+Report.—Not later than September 30, 2024, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that evaluates the success of activities conducted by the Secretary in increasing diversity in appropriate programs of the Department of Defense and hiring and retaining diverse individuals in the science, mathematics, and research workforce of the public sector."
+
 #### Effect on Current Participants in SMART Pilot Program
 
-Pub. L. 109–163, div. A, title XI, §1104(f), Jan. 6, 2006, 119 Stat. 3450, provided that: "Participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program under section 1105 of Public Law 108–375 \[see Codification note above\] by an individual who has entered into an agreement under that pilot program before the date of the enactment of this Act \[Jan. 6, 2006\] shall be governed by the terms of such agreement without regard to the amendments made by this section \[enacting this section, amending section 3304 of Title 5, Government Organization and Employees, and amending and repealing provisions set out as a note under section 2192 of this title\]."
+Pub. L. 109–163, div. A, title XI, §1104(f), Jan. 6, 2006, 119 Stat. 3450, provided that: "Participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program under section 1105 of Public Law 108–375 \[see Codification note above\] by an individual who has entered into an agreement under that pilot program before the date of the enactment of this Act \[Jan. 6, 2006\] shall begoverned by the terms of such agreement without regard to the amendments made by this section \[enacting this section, amending section 3304 of Title 5, Government Organization and Employees, and amending and repealing provisions set out as a note under section 2192 of this title\]."
 

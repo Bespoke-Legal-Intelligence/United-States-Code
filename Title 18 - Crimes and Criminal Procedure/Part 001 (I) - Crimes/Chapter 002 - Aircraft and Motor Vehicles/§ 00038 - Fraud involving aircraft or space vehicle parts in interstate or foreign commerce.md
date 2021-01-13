@@ -72,7 +72,7 @@ Criminal Forfeiture.—
 
 &emsp;(1)
 
-In general.—The court, in imposing sentence on any person convicted of an offenseunder this section, shall order, in addition to any other sentence and irrespective of any provision of State law, that the person forfeit to the United States—
+In general.—The court, in imposing sentence on any person convicted of an offense under this section, shall order, in addition to any other sentence and irrespective of any provision of State law, that the person forfeit to the United States—
 
 &emsp;&emsp;(A) any property constituting, or derived from, any proceeds that the person obtained, directly or indirectly, as a result of the offense; and
 
@@ -84,7 +84,7 @@ Application of other law.—The forfeiture of property under this section, inclu
 
 (e)
 
-Construction With Other Law.—This section does not preempt or displace any other remedy, civil or criminal, provided by Federal or State law for the fraudulent importation, sale, trade, installation, or introduction into commerce of an aircraft or space vehicle part.
+Construction With Other Law.—This section does not preempt or displace any otherremedy, civil or criminal, provided by Federal or State law for the fraudulent importation, sale, trade, installation, or introduction into commerce of an aircraft or space vehicle part.
 
 (f)
 
@@ -97,6 +97,8 @@ Territorial Scope.—This section also applies to conduct occurring outside the 
 &emsp;(3) an act in furtherance of the offense was committed in the United States.
 
 (Added Pub. L. 106–181, title V, §506(c)(1), Apr. 5, 2000, 114 Stat. 137.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,13 +4,15 @@ Whenever there is duly tendered to the Board, by any person, any claim for unemp
 
 (June 29, 1956, ch. 477, title V, §501, 70 Stat. 437.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of act June 29, 1956, popularly known as the Departments of Labor, and Health,Education, and Welfare, Appropriation Act, 1957, and not as a part of the Railroad Unemployment Insurance Act which comprises this chapter.
+Section was enacted as part of act June 29, 1956, popularly known as the Departments of Labor, and Health, Education, and Welfare, Appropriation Act, 1957, and not as a part of the Railroad Unemployment Insurance Act which comprises this chapter.
 
 #### Prior Provisions
 

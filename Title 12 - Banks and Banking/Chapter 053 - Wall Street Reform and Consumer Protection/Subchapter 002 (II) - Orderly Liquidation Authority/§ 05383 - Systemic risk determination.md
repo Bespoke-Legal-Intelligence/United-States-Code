@@ -68,7 +68,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (2) Report to Congress
 
-&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
+&emsp;Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee onFinancial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
 
 &emsp;&emsp;(A) the size and financial condition of the covered financial company;
 
@@ -160,6 +160,8 @@ As soon as is practicable after July 21, 2010, the Corporation shall establish p
 
 (Pub. L. 111–203, title II, §203, July 21, 2010, 124 Stat. 1450; Pub. L. 114–113, div. O, title VII, §706(b)(1), Dec. 18, 2015, 129 Stat. 3029.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) to (d), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
@@ -167,6 +169,8 @@ This subchapter, referred to in subsecs. (a) to (d), was in the original "this t
 #### Amendments
 
 <b>2015</b>—Subsec. (e)(3). Pub. L. 114–113 inserted "or rehabilitation" after "orderly liquidation" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

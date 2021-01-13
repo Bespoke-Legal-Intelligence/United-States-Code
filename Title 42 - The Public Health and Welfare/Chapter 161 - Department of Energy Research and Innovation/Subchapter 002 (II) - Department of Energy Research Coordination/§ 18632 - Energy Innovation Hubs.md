@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) that generates, transmits, distributes, uses, or stores energy more efficiently than conventional technologies, including through Smart Grid technologies; or
 
-&emsp;&emsp;&emsp;(vi) that enhances the energy independence and security of the United States by enabling improved or expanded supply andproduction of domestic energy resources, including coal, oil, and natural gas;
+&emsp;&emsp;&emsp;(vi) that enhances the energy independence and security of the United States by enabling improved or expanded supply and production of domestic energy resources, including coal, oil, and natural gas;
 
 &emsp;&emsp;(B) a research, development, demonstration, or commercial application activity necessary to ensure the long-term, secure, and sustainable supply of an energy-critical element; or
 

@@ -133,7 +133,7 @@ The premium per hundredweight specified in the tables contained in subsections (
 
 Subsec. (a). Pub. L. 115–334, §1401(k)(8)(B), substituted "dairy margin coverage" for "the margin protection program" in introductory provisions.
 
-Subsec. (b). Pub. L. 115–123, §60101(b)(4)(A)(i), substituted "Tier I: premium per hundredweight for first 5,000,000 pounds of production" for "Premium per hundredweight for first 4 million pounds of production" in heading.
+Subsec. (b). Pub. L. 115–123, §60101(b)(4)(A)(i), substituted "Tier I: premium per hundredweight for first5,000,000 pounds of production" for "Premium per hundredweight for first 4 million pounds of production" in heading.
 
 Subsec. (b)(1). Pub. L. 115–123, §60101(b)(4)(A)(ii), substituted "5,000,000" for "4,000,000".
 

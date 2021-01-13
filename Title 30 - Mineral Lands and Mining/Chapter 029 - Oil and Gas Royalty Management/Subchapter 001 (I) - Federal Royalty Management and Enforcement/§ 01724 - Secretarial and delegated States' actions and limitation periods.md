@@ -12,7 +12,7 @@ The respective duties, responsibilities, and activities with respect to a lease 
 
 #### (2) Rule of construction
 
-&emsp;A judicial proceeding or demand that is timely commenced under paragraph (1)against a designee shall be considered timely commenced as to any lessee who is liable pursuant to section 1712(a) of this title for the obligation that is the subject of the judicial proceeding or demand.
+&emsp;A judicial proceeding or demand that is timely commenced under paragraph (1) against a designee shall be considered timely commenced as to any lessee who is liable pursuant to section 1712(a) of this title for the obligation that is the subject of the judicial proceeding or demand.
 
 #### (3) Application of certain limitations
 
@@ -64,7 +64,7 @@ The running of the limitation period under subsection (b) shall not be suspended
 
 &emsp;(B)(i) The Secretary or the applicable delegated State may issue an order to perform a restructured accounting to a lessee or its designee when the Secretary or such delegated State determines during an audit of a lessee or its designee that the lessee or its designee should recalculate royalty due on an obligation based upon the Secretary's or the delegated State's finding that the lessee or its designee has made identified underpayments or overpayments which are demonstrated by the Secretary or the delegated State to be based upon repeated, systemic reporting errors for a significant number of leases or a single lease for a significant number of reporting months with the same type of error which constitutes a pattern of violations and which are likely to result in either significant underpayments or overpayments.
 
-&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the "Associate Director for Royalty Management", and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, the State, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
+&emsp;(ii) The power of the Secretary to issue an order to perform a restructured accounting may not be delegated below the most senior career professional position having responsibility for the royalty management program, which position is currently designated as the "Associate Director for Royalty Management", and may not be delegated to any other person. If a State has been delegated authority pursuant to section 1735 of this title, theState, acting through the highest ranking State official having ultimate authority over the collection of royalties from leases on Federal lands within the State, may issue such order to perform, which may not be delegated to any other person. An order to perform a restructured accounting shall—
 
 &emsp;&emsp;(I) be issued within a reasonable period of time from when the audit identifies the systemic, reporting errors;
 
@@ -92,7 +92,7 @@ An action or an enforcement of an obligation by the Secretary or delegated State
 
 #### (f) Records required for determining collections
 
-Records required pursuant to section 1713 of this title by the Secretary or any delegated State for the purpose of determining obligations due and compliance with any applicable mineral leasing law, lease provision, regulation or order with respect to oil and gas leases from Federal lands or the Outer Continental Shelf shall be maintained for the same period of time during which a judicial proceeding or demand may be commenced under subsection (b). If a judicial proceeding or demand is timely commenced, the record holder shall maintain such records until the final nonappealable decision in such judicial proceeding is made, or with respect to that demand is rendered, unless the Secretary or the applicable delegated State authorizes in writing an earlier release of the requirement to maintain such records. Notwithstanding anything herein to the contrary, under no circumstance shall a record holder be required to maintain or produce any record relating to an obligation for any time period which is barred by the applicable limitation in this section. In connection with any hearing, administrative proceeding, inquiry, investigation, or audit by the Secretary or a delegated State under this chapter, the Secretary or the delegated State shall minimize thesubmission of multiple or redundant information and make a good faith effort to locate records previously submitted by a lessee or a designee to the Secretary or the delegated State, prior to requiring the lessee or the designee to provide such records.
+Records required pursuant to section 1713 of this title by the Secretary or any delegated State for the purpose of determining obligations due and compliance with any applicable mineral leasing law, lease provision, regulation or order with respect to oil and gas leases from Federal lands or the Outer Continental Shelf shall be maintained for the same period of time during which a judicial proceeding or demand may be commenced under subsection (b). If a judicial proceeding or demand is timely commenced, the record holder shall maintain such records until the final nonappealable decision in such judicial proceeding is made, or with respect to that demand is rendered, unless the Secretary or the applicable delegated State authorizes in writing an earlier release of the requirement to maintain such records. Notwithstanding anything herein to the contrary, under no circumstance shall a record holder be required to maintain or produce any record relating to an obligation for any time period which is barred by the applicable limitation in this section. In connection with any hearing, administrative proceeding, inquiry, investigation, or audit by the Secretary or a delegated State under this chapter, the Secretary or the delegated State shall minimize the submission of multiple or redundant information and make a good faith effort to locate records previously submitted by a lessee or a designee to the Secretary or the delegated State, prior to requiring the lessee or the designee to provide such records.
 
 #### (g) Timely collections
 
@@ -130,6 +130,8 @@ Any person ordered by the Secretary or a delegated State to pay any obligation (
 
 (Pub. L. 97–451, title I, §115, as added Pub. L. 104–185, §4(a), Aug. 13, 1996, 110 Stat. 1704; amended Pub. L. 104–200, §1(2), Sept. 22, 1996, 110 Stat. 2421.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 104–185, §4(a), which directed the addition of this section after section 114 of the Federal Oil and Gas Royalty Management Act of 1982, Pub. L. 97–451, was executed by adding this section after section 113 to reflect the probable intent of Congress because Pub. L. 97–451 did not contain a section 114.
@@ -137,6 +139,8 @@ Pub. L. 104–185, §4(a), which directed the addition of this section after sec
 #### Amendments
 
 <b>1996</b>—Subsec. (l). Pub. L. 104–200 inserted "so" after "the person is not able to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

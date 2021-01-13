@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided under paragraph (2), there are the following officers, appointed bythe President, by and with the advice and consent of the Senate:
+&emsp;Except as provided under paragraph (2), there are the following officers, appointed by the President, by and with the advice and consent of the Senate:
 
 &emsp;&emsp;(A) A Deputy Secretary of Homeland Security, who shall be the Secretary's first assistant for purposes of subchapter III of chapter 33 of title 5.
 
@@ -78,6 +78,8 @@ Subject to the provisions of this chapter, every officer of the Department shall
 
 (Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529; Pub. L. 108–330, §3(d)(1)(A), Oct. 16, 2004, 118 Stat. 1276; Pub. L. 108–458, title VII, §7407(b), Dec. 17, 2004, 118 Stat. 3853; Pub. L. 109–295, title VI, §612(b), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–347, title V, §501(b)(1), Oct. 13, 2006, 120 Stat. 1935; Pub. L. 110–53, title V, §531(b)(2), Aug. 3, 2007, 121 Stat. 334; Pub. L. 110–388, §1, Oct. 10, 2008, 122 Stat. 4144; Pub. L. 112–166, §2(f)(5), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–125, title VIII, §802(g)(1)(A)(ii), Feb. 24, 2016, 130 Stat. 211; Pub. L. 114–328, div. A, title XIX, §§1901(a), 1903(a), Dec. 23, 2016, 130 Stat. 2665, 2672; Pub. L. 115–278, §2(g)(1), Nov. 16, 2018, 132 Stat. 4176; Pub. L. 115–387, §2(f)(1), Dec. 21, 2018, 132 Stat. 5168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -86,7 +88,7 @@ Sections 2 and 44 of title 14, referred to in subsec. (c), redesignated sections
 
 This chapter, referred to in subsecs. (c) and (f), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C ofPub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out as a note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
+The Federal Vacancies Reform Act of 1998, referred to in subsec. (g)(3), is section 151(a) of title I of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–611, which enacted sections 3345 to 3349d of Title 5, Government Organization and Employees, repealed former sections 3345 to 3349 of Title 5, and enacted provisions set out asa note under section 3345 of Title 5. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 3301 of Title 5 and Tables.
 
 #### Amendments
 
@@ -129,6 +131,8 @@ Subsec. (d)(4), (5). Pub. L. 108–330, §3(d)(1)(A)(i), redesignated par. (5) a
 Subsecs. (e), (f). Pub. L. 108–330, §3(d)(1)(A)(ii), (iii), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–7 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

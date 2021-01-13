@@ -34,7 +34,7 @@ Flat-rate reduction.—An amount equal to 6½ percent of the base amount.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount.
+Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) ofthe base amount plus 10 percent of the remainder of the base amount.
 
 &emsp;&emsp;(B)
 
@@ -132,7 +132,7 @@ Rule for computation.—Computation of a member's retired pay for purposes of th
 
 Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
-&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as thenew beneficiary designated under the election.
+&emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
 
 &emsp;&emsp;(B) Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
 
@@ -192,7 +192,7 @@ Effective date.—Participation in the Plan of a person who submits a request un
 
 &emsp;&emsp;(C)
 
-Form for request for discontinuation.—Any request under this paragraph to discontinue participation in the Plan shall be in such form and shall contain such information as the Secretary concerned may require by regulation.
+Form for request for discontinuation.—Any request under this paragraph todiscontinue participation in the Plan shall be in such form and shall contain such information as the Secretary concerned may require by regulation.
 
 &emsp;(2)
 
@@ -268,7 +268,7 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166; Pub. L. 115–91, div. A, title VI, §622(b), title X, §1081(a)(26), Dec. 12, 2017, 131 Stat. 1428, 1595.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, titleVII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166; Pub. L. 115–91, div. A, title VI, §622(b), title X, §1081(a)(26), Dec. 12, 2017, 131 Stat. 1428, 1595.)
 
 #### References in Text
 
@@ -372,7 +372,7 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted "this section" for "sec
 
 <b>1980</b>—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent ofthe remainder of the base amount" after "shall be reduced each month".
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount" after "shall be reduced each month".
 
 Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 

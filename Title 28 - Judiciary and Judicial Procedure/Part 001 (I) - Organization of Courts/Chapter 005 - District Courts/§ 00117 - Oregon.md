@@ -14,6 +14,8 @@ Provisions relating to appointment and residence of deputies by the clerk and ma
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–518 substituted "Eugene or Springfield" for "Eugene".

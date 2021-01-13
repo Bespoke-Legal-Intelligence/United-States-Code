@@ -36,7 +36,7 @@ Consultation.—The President may require the Secretary to consult with interest
 
 (e)
 
-Additional Insurance.—With the approval of the Secretary, a person having an insurableinterest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
+Additional Insurance.—With the approval of the Secretary, a person having an insurable interest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
 
 (f)
 
@@ -114,7 +114,7 @@ In subsection (a)(2), the words "An aircraft may be insured or reinsured for not
 
 In subsection (b), the words "The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President" are substituted for "with the approval of the President" for clarity and because of the restatement. The words "The President may" are substituted for "The President shall" because the authority of the President is discretionary.
 
-In subsection (c), the words "the Secretary to consult . . . before providing insurance or reinsurance under this chapter" are substituted for "and after such consultation . . . as" because of the restatement. The words "departments, agencies, and instrumentalities"are substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
+In subsection (c), the words "the Secretary to consult . . . before providing insurance or reinsurance under this chapter" are substituted for "and after such consultation . . . as" because of the restatement. The words "departments, agencies, and instrumentalities" are substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (d), the words "However, the Secretary may not benefit from the additional insurance" are substituted for "in that event, the Secretary shall not be entitled to the benefit of such insurance" for clarity.
 

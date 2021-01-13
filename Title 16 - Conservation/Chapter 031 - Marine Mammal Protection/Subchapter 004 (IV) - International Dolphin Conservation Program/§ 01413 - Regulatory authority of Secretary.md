@@ -26,7 +26,7 @@
 
 &emsp;(ix) preventing the fishing on dolphins by a vessel without an assigned vessel dolphin mortality limit;
 
-&emsp;(x) allowing for the authorization and conduct of experimental fishing operations, under such terms and conditions as the Secretarymay prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce or eliminate dolphin mortality or serious injury do not require the encirclement of dolphins in the course of commercial yellowfin tuna fishing;
+&emsp;(x) allowing for the authorization and conduct of experimental fishing operations, under such terms and conditions as the Secretary may prescribe, for the purpose of testing proposed improvements in fishing techniques and equipment that may reduce or eliminate dolphin mortality or serious injury do not require the encirclement of dolphins in the course of commercial yellowfin tuna fishing;
 
 &emsp;(xi) authorizing fishing within the area covered by the International Dolphin Conservation Program by vessels of the United States without the use of special equipment or nets if the vessel takes an observer and does not intentionally deploy nets on, or encircle, dolphins, under such terms and conditions as the Secretary may prescribe; and
 

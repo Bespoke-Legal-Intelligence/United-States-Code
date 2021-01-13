@@ -10,6 +10,8 @@ Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
 (Added Pub. L. 98–473, title II, §1108(a), Oct. 12, 1984, 98 Stat. 2147; amended Pub. L. 101–73, title IX, §961(k), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(j), Nov. 29, 1990, 104 Stat. 4861.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647 substituted "30" for "20" before "years".

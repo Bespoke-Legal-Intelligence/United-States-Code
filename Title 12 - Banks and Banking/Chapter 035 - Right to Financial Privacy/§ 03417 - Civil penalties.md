@@ -26,13 +26,19 @@ The remedies and sanctions described in this chapter shall be the only authorize
 
 (Pub. L. 95–630, title XI, §1117, Nov. 10, 1978, 92 Stat. 3708; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 100–690, title VI, §6186(d), Nov. 18, 1988, 102 Stat. 4358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted "or pursuant to the provisions of section 3413(l) of this title" after "Government authority" and "under this chapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State" after "such disclosure".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective upon the expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as a note under section 375b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

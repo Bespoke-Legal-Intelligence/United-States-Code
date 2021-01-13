@@ -4,7 +4,7 @@
 
 (2) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-(3) If the Secretary of the Navy elects to convene a selection board under section 611(a) ofthis title to consider eligible officers for selection to appointment as Deputy Judge Advocate General, the Secretary may, in connection with such consideration for selection—
+(3) If the Secretary of the Navy elects to convene a selection board under section 611(a) of this title to consider eligible officers for selection to appointment as Deputy Judge Advocate General, the Secretary may, in connection with such consideration for selection—
 
 &emsp;(A) treat any section in chapter 36 of this title referring to promotion to the next higher grade as if such section referred to promotion to a higher grade; and
 
@@ -18,7 +18,7 @@
 
 (e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 290, §5149; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, §508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §8089 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 290, §5149; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314;Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, §508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §8089 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 90–179 redesignated former subsec. (c) as (e) and in subs
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -124,10 +124,6 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
-
 #### Grandfathering of Retired Grade of Assistant Judge Advocates General of the Navy as of Repeal of Statutory Specification of General and Flag Officers Grades in the Armed Forces
 
 Pub. L. 115–91, div. A, title V, §509, Dec. 12, 2017, 131 Stat. 1375, provided that:
@@ -145,4 +141,8 @@ Specified Positions.—Subsection (a) applies with respect to the Assistant Judg
 Rank; Retirement Benefits
 
 Pub. L. 90–179, §9, Dec. 8, 1967, 81 Stat. 549, provided that: "Nothing in this Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5184 of this title\] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act \[Dec. 8, 1967\] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to section 5149 \[now 8089\] of title 10, United States Code, as amended by this Act \[this section\], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by section 5149 \[now 8089\] of title 10, United States Code, as amended by this Act \[this section\], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act."
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Defense, see section 1(8) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 

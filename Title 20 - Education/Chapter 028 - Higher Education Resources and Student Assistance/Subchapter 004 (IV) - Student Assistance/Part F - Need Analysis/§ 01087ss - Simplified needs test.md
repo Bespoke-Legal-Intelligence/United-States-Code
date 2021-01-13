@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of thistitle for families described in subsections (b) and (c) of this section.
+&emsp;The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
 
 #### (2) Reduced data requirements
 
@@ -132,13 +132,109 @@ In this section:
 
 &emsp;&emsp;(F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1087ss. Eligible applicants exempt from asset reporting
+
+#### <i>(a) In general</i>
+
+<i>Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2023.</i>
+
+#### <i>(b) Applicants exempt from asset reporting</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Except as provided in paragraph (3), in carrying out section 1090 of this title, the Secretary shall not use asset information from an eligible applicant or, as applicable, the parent or spouse of an eligible applicant.</i>
+
+#### <i>(2) Eligible applicants</i>
+
+&emsp;<i>In this subsection, the term "eligible applicant" means an applicant who meets at least one of the following criteria:</i>
+
+&emsp;&emsp;<i>(A) Is an applicant who qualifies for an automatic zero student aid index or negative student aid index under subsection (b) or (c) of section 1087mm of this title.</i>
+
+&emsp;&emsp;<i>(B) Is an applicant who is a dependent student and the student's parents have a total adjusted gross income (excluding any income of the dependent student) that is less than $60,000 and do not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules) with the Federal income tax return for the second preceding tax year, and—</i>
+
+&emsp;&emsp;&emsp;<i>(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.</i>
+
+&emsp;&emsp;<i>(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—</i>
+
+&emsp;&emsp;&emsp;<i>(i) does not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) files a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.</i>
+
+&emsp;&emsp;<i>(D) Is an applicant who, at any time during the previous 24-month period, received a benefit under a means-tested Federal benefit program (or whose parent or spouse received such a benefit, as applicable).</i>
+
+#### <i>(3) Special rule</i>
+
+&emsp;<i>An eligible applicant shall not be exempt from asset reporting under this section if the applicant is a dependent student and the students' parents do not—</i>
+
+&emsp;&emsp;<i>(A) reside in the United States or a United States territory; or</i>
+
+&emsp;&emsp;<i>(B) file taxes in the United States or a United States territory, except if such nonfiling is due to not being required to file a Federal tax return for the applicable tax year due to a low income.</i>
+
+#### <i>(4) Definitions</i>
+
+&emsp;<i>In this section:</i>
+
+#### <i>(A) Schedule A</i>
+
+&emsp;&emsp;<i>The term "Schedule A" means a form or information by a taxpayer to report itemized deductions.</i>
+
+#### <i>(B) Schedule B</i>
+
+&emsp;&emsp;<i>The term "Schedule B" means a form or information filed by a taxpayer to report interest and ordinary dividend income.</i>
+
+#### <i>(C) Schedule C</i>
+
+&emsp;&emsp;<i>The term "Schedule C" means a form or information filed by a taxpayer to report income or loss from a business operated or a profession practiced as a sole proprietor.</i>
+
+#### <i>(D) Schedule D</i>
+
+&emsp;&emsp;<i>The term "Schedule D" means a form or information filed by a taxpayer to report sales, exchanges or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.</i>
+
+#### <i>(E) Schedule E</i>
+
+&emsp;&emsp;<i>The term "Schedule E" means a form or information filed by a taxpayer to report income from rental properties, royalties, partnerships, S corporations, estates, trusts, and residual interests in real estate mortgage investment conduits.</i>
+
+#### <i>(F) Schedule F</i>
+
+&emsp;&emsp;<i>The term "Schedule F" means a form or information filed by a taxpayer to report farm income and expenses.</i>
+
+#### <i>(G) Schedule H</i>
+
+&emsp;&emsp;<i>The term "Schedule H" means a form or information filed by a taxpayer to report household employment taxes.</i>
+
+#### <i>(H) Means-tested Federal benefit program</i>
+
+&emsp;&emsp;<i>The term "means-tested Federal benefit program" means any of the following:</i>
+
+&emsp;&emsp;&emsp;<i>(i) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).</i>
+
+&emsp;&emsp;&emsp;<i>(ii) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), and a supplemental nutrition assistance program carried out under section 1841(c) of title 48.</i>
+
+&emsp;&emsp;&emsp;<i>(iii) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.).</i>
+
+&emsp;&emsp;&emsp;<i>(iv) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42.</i>
+
+&emsp;&emsp;&emsp;<i>(v) The Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).</i>
+
+&emsp;&emsp;&emsp;<i>(vi) Federal housing assistance programs, including tenant-based assistance under section 1437f(o) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42.</i>
+
+&emsp;&emsp;&emsp;<i>(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 etseq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -147,6 +243,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to simplified needs test.
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–128 substituted "The term 'dislocated worker' has the meaning given the term in section 3102 of title 29" for "The term 'dislocated worker' has the meaning given the term in section 2801 of title 29".
 
@@ -176,7 +274,7 @@ Subsec. (c)(2)(A). Pub. L. 110–84, §602(a)(2)(B)(i), added cl. (iii), redesig
 
 Subsec. (c)(2)(B). Pub. L. 110–84, §602(a)(2)(B)(ii), substituted "$30,000" for "$20,000".
 
-Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted "Definitions" for "Definition of means-tested Federal benefit program" in heading, added par. (1), designated existing provisions as par. (2) and substituted "Theterm" for "In this section, the term" in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
+Subsec. (d). Pub. L. 110–84, §602(a)(3), substituted "Definitions" for "Definition of means-tested Federal benefit program" in heading, added par. (1), designated existing provisions as par. (2) and substituted "The term" for "In this section, the term" in introductory provisions, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), and realigned margins.
 
 <b>2006</b>—Subsec. (b)(1)(A)(i). Pub. L. 109–171, §8018(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: "the student's parents file or are eligible to file a form described in paragraph (3) or certify that they are not required to file an income tax return and the student files or is eligible to file such a form or certifies that the student is not required to file an income tax return; and".
 
@@ -206,7 +304,7 @@ Subsec. (c)(2)(A). Pub. L. 105–244, §477(2)(B), amended subpar. (A) generally
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(g)(10), inserted "of" after "(c)".
 
-Subsec. (b)(1)(B)(i). Pub. L. 103–208, §2(g)(11), inserted "(and the student's spouse, if any)" after "student" in two places and struck out "such" before "an income tax return".
+Subsec. (b)(1)(B)(i). Pub. L. 103–208, §2(g)(11), inserted "(and the student's spouse, if any)" after "student" intwo places and struck out "such" before "an income tax return".
 
 Subsec. (b)(2). Pub. L. 103–208, §2(g)(12), (13), substituted "six elements" for "five elements" in introductory provisions and a comma for semicolon in subpar. (E).
 
@@ -236,6 +334,10 @@ Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
@@ -250,7 +352,7 @@ Amendment by Pub. L. 111–39 effective as if enacted as part of amendments made
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (B), (2)(N) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

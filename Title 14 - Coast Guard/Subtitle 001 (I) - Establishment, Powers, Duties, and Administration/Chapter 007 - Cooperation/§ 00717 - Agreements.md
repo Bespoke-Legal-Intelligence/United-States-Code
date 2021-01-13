@@ -20,6 +20,8 @@ Deposit and Use of Fees.—Fees collected under this section shall be deposited 
 
 (Added Pub. L. 113–281, title II, §206(b), Dec. 18, 2014, 128 Stat. 3025, §102; renumbered §717 and amended Pub. L. 115–282, title I, §§106(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4203, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §106(b), renumbered section 102 of this title as this section.

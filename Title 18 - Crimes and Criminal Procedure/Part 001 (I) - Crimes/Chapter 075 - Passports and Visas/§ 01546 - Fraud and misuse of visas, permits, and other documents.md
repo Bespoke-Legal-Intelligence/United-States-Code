@@ -22,7 +22,7 @@ Shall be fined under this title or imprisoned not more than 25 years (if the off
 
 (c) This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481).<sup>1</sup> For purposes of this section, the term "State" means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Pub. L.94–550, §5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, §103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, §2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, §3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, §607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
+(June 25, 1948, ch. 645, 62 Stat. 771; June 27, 1952, ch. 477, title IV, §402(a), 66 Stat. 275; Pub. L. 94–550, §5, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–603, title I, §103(a), Nov. 6, 1986, 100 Stat. 3380; Pub. L. 100–525, §2(c), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 101–647, title XXXV, §3550, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XIII, §130009(a)(4), (5), title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2030, 2145; Pub. L. 104–208, div. C, title II, §§211(a)(2), 214, Sept. 30, 1996, 110 Stat. 3009–569, 3009–572; Pub. L. 104–294, title VI, §607(m), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 #### Historical and Revision Notes
 
@@ -34,13 +34,15 @@ Fine of $10,000 was reduced to $2,000 to conform with sections embracing offence
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The immigration laws, referred to in subsec. (a), are classified generally to Title 8, Aliens and Nationality. See also section 1101(a)(17) of Title 8.
 
 Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
 
-Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452,Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
 
 #### Amendments
 
@@ -66,6 +68,8 @@ Subsec. (b). Pub. L. 103–322, §130009(a)(5), in concluding provisions, substi
 
 <b>1952</b>—Act June 27, 1952, made section applicable to entry documents other than visas and permits.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 211(a)(2) of Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
@@ -78,13 +82,15 @@ Pub. L. 103–322, title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2145, pr
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-#### Transfer of Functions
-
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The United States trustee may convene a meeting of any equity security holders.
 
-(c) The court may not preside at, and may not attend, any meeting under this section including any final meeting of creditors. Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.
+(c) The court may not preside at, and may not attend, any meeting under this section including any final meeting of creditors. Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditorsunder subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.
 
 (d) Prior to the conclusion of the meeting of creditors or equity security holders, the trustee shall orally examine the debtor to ensure that the debtor in a case under chapter 7 of this title is aware of—
 
@@ -34,6 +34,8 @@ Subsection (b) authorizes the court to order a meeting of equity security holder
 
 Subsection (c) makes clear that the bankruptcy judge is to preside at the meeting of creditors.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–8, §413, inserted at end "Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors."
@@ -48,9 +50,11 @@ Subsec. (b). Pub. L. 99–554, §212(2), substituted "United States trustee may 
 
 Subsec. (c). Pub. L. 99–554, §212(3), inserted "including any final meeting of creditors".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

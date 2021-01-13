@@ -14,11 +14,15 @@ Reference to digests was omitted to conform to administrative practice. (See sec
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1952</b>—Act July 10, 1952, permitted Superintendent of Documents to sell reports under same terms as other Government publications.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Director of the Government Publishing Office" substituted for "Public Printer" in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
+"Director of the Government Publishing Office" substituted for "Public Printer" in text on authority ofsection 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 

@@ -12,7 +12,7 @@ The district courts shall have original jurisdiction, exclusive of the courts of
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§41(3) and 371 (3), (4) (Mar. 3, 1911, ch. 231, §§24, par. 3, 256, pars. 3, 4, 36Stat. 1091, 1160; Oct. 6, 1917, ch. 97, §§1, 2, 40 Stat. 395; June 10, 1922, ch. 216, §§1, 2, 42 Stat. 634).
+Based on title 28, U.S.C., 1940 ed., §§41(3) and 371 (3), (4) (Mar. 3, 1911, ch. 231, §§24, par. 3, 256, pars. 3, 4, 36 Stat. 1091, 1160; Oct. 6, 1917, ch. 97, §§1, 2, 40 Stat. 395; June 10, 1922, ch. 216, §§1, 2, 42 Stat. 634).
 
 Section consolidates certain provisions of sections 41(3), 371(3) and 371(4) of title 28, U.S.C., 1940 ed. Other provisions of sections 41(3) and 371(4), relating to seizures, are incorporated in section 1356 of this title. (See reviser's note thereunder.)
 
@@ -27,6 +27,8 @@ Changes were made in phraseology.
 #### 1949 Act
 
 This section amends section 1333(a)(1) of title 28, U.S.C., by substituting "suitors" for "libellant or petitioner" to conform to the language of the law in existence at the time of the enactment of the revision of title 28.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

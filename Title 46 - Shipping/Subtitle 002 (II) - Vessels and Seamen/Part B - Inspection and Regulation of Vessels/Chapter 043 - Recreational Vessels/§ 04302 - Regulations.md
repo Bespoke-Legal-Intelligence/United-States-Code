@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) being stated, insofar as practicable, in terms of performance;
 
-&emsp;(2) requiring the installation, carrying, or use of associated equipment (including fuel systems, ventilation systems, electrical systems, sound-producing devices, firefighting equipment, lifesaving devices, signaling devices, ground tackle, life- and grab-rails, and navigational equipment) on recreational vessels and classes of recreational vessels subject to this chapter, and prohibiting the installation, carrying, or use of associated equipmentthat does not conform with safety standards established under this section; and
+&emsp;(2) requiring the installation, carrying, or use of associated equipment (including fuel systems, ventilation systems, electrical systems, sound-producing devices, firefighting equipment, lifesaving devices, signaling devices, ground tackle, life- and grab-rails, and navigational equipment) on recreational vessels and classes of recreational vessels subject to this chapter, and prohibiting the installation, carrying, or use of associated equipment that does not conform with safety standards established under this section; and
 
 &emsp;(3) requiring or permitting the display of seals, labels, plates, insignia, or other devices for certifying or evidencing compliance with safety regulations and standards of the United States Government for recreational vessels and associated equipment.
 
@@ -62,11 +62,15 @@ Section 4302(c) requires the Secretary to consider certain objectives in develop
 
 Section 4302(d) exempts dealer demonstration boats from the requirement of having to be named by a licensed individual when demonstrating boats to prospective purchasers or other business invitees when no fees are charged. The Secretary may require that boats so used be under control of a licensed individual.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(4). Pub. L. 115–282 substituted "Committee established under section 15105 of this title" for "Council established under section 13110 of this title".
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–120 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

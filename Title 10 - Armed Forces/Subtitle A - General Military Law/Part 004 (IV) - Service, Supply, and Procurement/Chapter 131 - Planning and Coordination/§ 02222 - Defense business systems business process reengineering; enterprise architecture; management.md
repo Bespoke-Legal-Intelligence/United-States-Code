@@ -116,7 +116,7 @@ Roles and responsibilities.—
 
 &emsp;&emsp;(C) The Director of Cost Assessment and Program Evaluation shall have access to data for the purpose of executing missions as designated by the Secretary of Defense.
 
-&emsp;&emsp;(D) The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
+&emsp;&emsp;(D) The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, andthe heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
 
 (f)
 
@@ -266,7 +266,7 @@ A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov
 
 #### Amendments
 
-<b>2019</b>—Subsec. (c)(2). Pub. L. 116–92, §902(25)(A), substituted "Under Secretary of Defense for Acquisitionand Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+<b>2019</b>—Subsec. (c)(2). Pub. L. 116–92, §902(25)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 Subsec. (d). Pub. L. 116–92, §839(a)(1), substituted "subsection (c)" for "subsection (c)(1)" in introductory provisions.
 
@@ -364,7 +364,7 @@ Pub. L. 115–91, div. A, title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1597, 
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(5) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
+Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made bysection 1081(c)(5) is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.
 
 #### Effective Date of 2015 Amendment
 
@@ -566,7 +566,7 @@ Reporting requirements.—
 
 &emsp;"(A)
 
-Interim report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Chief Management Officer of the Department of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on progress in establishing the data analytics capability. The report shall include the following:
+Interim report.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Chief Management Officer of the Department of Defense shall submit to the congressional defense committees \[Committees on Armed Servicesand Appropriations of the Senate and the House of Representatives\] a report on progress in establishing the data analytics capability. The report shall include the following:
 
 &emsp;&emsp;"(i) A description and assessment of the efforts of the Chief Management Officer through the date of the report to establish the data analytics capability.
 
@@ -716,7 +716,7 @@ Pub. L. 114–328, div. A, title X, §1003, Dec. 23, 2016, 130 Stat. 2380, which
 
 #### Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs
 
-Pub. L. 114–92, div. A, title II, §217, Nov. 25, 2015, 129 Stat. 770, as amended by Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(v), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, §902(26), Dec. 20, 2019, 133 Stat. 1545, provided that:
+Pub. L. 114–92, div. A, title II, §217, Nov. 25, 2015, 129 Stat. 770, as amended by Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(v), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, §902(26), Dec. 20, 2019, 133 Stat. 1545; Pub. L. 116–283, div. A, title XVIII, §1806(e)(3)(B), Jan. 1, 2021, 134 Stat. 4156, provided that:
 
 "(a)
 
@@ -744,7 +744,7 @@ Current activities.—The Secretary shall identify the current activities descri
 
 "(d)
 
-Gap Analysis.—In establishing the set of activities under subsection (a), not later than 270 days afterthe date of the enactment of this Act \[Nov. 25, 2015\], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—
+Gap Analysis.—In establishing the set of activities under subsection (a), not later than 270 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—
 
 &emsp;"(1) the set of activities to establish pursuant to subsection (a) that carry out the purposes specified in subsection (c)(1); and
 
@@ -831,6 +831,8 @@ Projects and programs identified.—The projects and programs identified in this
 &emsp;&emsp;"(D) Projects and programs of the agencies and field activities of the Office of the Secretary of Defense that support business missions such as finance, human resources, security, management, logistics, and contract management.
 
 &emsp;&emsp;"(E) Military and civilian personnel policy development for information technology workforce."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(3)(B), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 217(e)(2)(D) of Pub. L. 114–92, set out above, is amended by substituting "section 3014" for "section 2302".\]</i>
 
 #### Deadline for Guidance on Covered Defense Business Systems
 
@@ -946,7 +948,7 @@ In general.—The Secretary of Defense shall submit to Congress a report relatin
 
 &emsp;"(2)
 
-Matters covered.—The report shall include a corrective action plan for any identified weaknessesor deficiencies in the execution of the Financial Improvement and Audit Readiness Plan. The corrective action plan shall—
+Matters covered.—The report shall include a corrective action plan for any identified weaknesses or deficiencies in the execution of the Financial Improvement and Audit Readiness Plan. The corrective action plan shall—
 
 &emsp;&emsp;"(A) identify near- and long-term measures for resolving any such weaknesses or deficiencies;
 
@@ -958,7 +960,7 @@ Matters covered.—The report shall include a corrective action plan for any ide
 
 \[Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469, formerly set out as a References note under section 131 of this title, which provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense was to be deemed to refer to the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.\]
 
-Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
+Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, as amended by Pub. L. 113–291, div. A, titleIX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597, provided that:
 
 "(a)
 

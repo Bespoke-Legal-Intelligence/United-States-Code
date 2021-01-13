@@ -2,7 +2,7 @@
 
 #### (a) Commencement
 
-Any party to a proceeding under section 4631 <sup>1</sup> 4513b, 4636, or 4636a of this title may obtain review of any final order issued under this chapter by filing in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of theDirector be modified, terminated, or set aside. The clerk of the court shall transmit a copy of the petition to the Director.
+Any party to a proceeding under section 4631 <sup>1</sup> 4513b, 4636, or 4636a of this title may obtain review of any final order issued under this chapter by filing in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Director be modified, terminated, or set aside. The clerk of the court shall transmit a copy of the petition to the Director.
 
 #### (b) Filing of record
 
@@ -25,6 +25,8 @@ Such court shall have the authority in any such review to order payment of any p
 The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
 
 (Pub. L. 102–550, title XIII, §1374, Oct. 28, 1992, 106 Stat. 3990; Pub. L. 110–289, div. A, title I, §1153(b)(1)(C), July 30, 2008, 122 Stat. 2775.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

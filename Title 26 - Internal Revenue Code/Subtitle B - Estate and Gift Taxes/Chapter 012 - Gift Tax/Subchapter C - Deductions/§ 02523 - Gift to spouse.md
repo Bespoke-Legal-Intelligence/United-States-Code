@@ -78,7 +78,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (B) Subparagraph (A) not to apply after transfer by donee spouse
 
-&emsp;&emsp;Subparagraph (A) shall not apply with respect to any property after the donee spouseis treated as having transferred such property under section 2519, or such property is includible in the donee spouse's gross estate under section 2044.
+&emsp;&emsp;Subparagraph (A) shall not apply with respect to any property after the donee spouse is treated as having transferred such property under section 2519, or such property is includible in the donee spouse's gross estate under section 2044.
 
 #### (6) Treatment of joint and survivor annuities
 
@@ -156,7 +156,7 @@ Subsec. (i). Pub. L. 100–647, §5033(b), added subsec. (i).
 
 <b>1983</b>—Subsec. (f)(3). Pub. L. 97–448, §104(a)(6), substituted "rules similar to the rules of clauses (ii)" for "the rules of clauses (ii)".
 
-Subsec. (f)(4). Pub. L. 97–448, §104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted "shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made insuch manner as the Secretary shall by regulations prescribe" for "shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred", and in subpar. (B) as so designated substituted "An election under this subsection" for "Such an election".
+Subsec. (f)(4). Pub. L. 97–448, §104(a)(4), divided existing provisions into subpars. (A) and (B), in subpar. (A) as so designated substituted "shall be made on or before the first April 15th after the calendar year in which the interest was transferred and shall be made in such manner as the Secretary shall by regulations prescribe" for "shall be made on the return of the tax imposed by section 2501 for the calendar year in which the interest was transferred", and in subpar. (B) as so designated substituted "An election under this subsection" for "Such an election".
 
 Subsec. (f)(5). Pub. L. 97–448, §104(a)(5), added par. (5).
 
@@ -224,7 +224,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Rule for Certain Transfers in October 1984
 
-Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: "An election under section 2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
+Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: "An election under section2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
 
 &emsp;"(A) was transferred during October 1984, and
 

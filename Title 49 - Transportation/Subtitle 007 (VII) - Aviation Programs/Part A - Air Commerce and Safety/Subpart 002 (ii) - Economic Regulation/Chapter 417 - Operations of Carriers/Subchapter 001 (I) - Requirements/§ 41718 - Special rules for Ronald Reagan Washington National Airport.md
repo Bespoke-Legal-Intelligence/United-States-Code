@@ -42,7 +42,7 @@ General exemptions.—
 
 Hourly limitation.—The exemptions granted—
 
-&emsp;&emsp;&emsp;(i) under subsections (a) and (b) and departures authorized under subsection (g)(2) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
+&emsp;&emsp;&emsp;(i) under subsections (a) and (b) and departures authorized under subsection (g)(2)may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
 
 &emsp;&emsp;&emsp;(ii) under subsections (a), (b), and (g) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
 
@@ -126,7 +126,7 @@ Notices of intent.—Notices of intent under paragraph (3)(E) shall specify the 
 
 &emsp;(5)
 
-Conditions.—Beyond-perimeter flight operations carried out by an air carrier using an exemption granted under this subsection shall be subject to the following conditions:
+Conditions.—Beyond-perimeter flight operations carried out by an air carrier using anexemption granted under this subsection shall be subject to the following conditions:
 
 &emsp;&emsp;(A) An air carrier may not operate a multi-aisle or widebody aircraft in conducting such operations.
 

@@ -18,7 +18,7 @@ The Attorney General is authorized to direct the advance of funds by the Treasur
 
 (2) There are hereby appropriated to the Fund amounts equivalent to the fines imposed under section 841(b)(6) of this title.
 
-(3) Amounts in the Fund shall be available, as provided in appropriations Acts, for the purposeof making payments in accordance with paragraph (4) for the clean up of certain pollution resulting from the actions referred to in section 841(b)(6) of this title.
+(3) Amounts in the Fund shall be available, as provided in appropriations Acts, for the purpose of making payments in accordance with paragraph (4) for the clean up of certain pollution resulting from the actions referred to in section 841(b)(6) of this title.
 
 (4)(A) The Secretary of the Treasury, after consultation with the Attorney General, shall make payments under paragraph (3), in such amounts as the Secretary determines appropriate, to the heads of executive agencies or departments that meet the requirements of subparagraph (B).
 
@@ -27,6 +27,8 @@ The Attorney General is authorized to direct the advance of funds by the Treasur
 (5) For purposes of subchapter B of chapter 98 of title 26, the Fund established under this paragraph shall be treated in the same manner as a trust fund established under subchapter A of such chapter.
 
 (Pub. L. 91–513, title II, §516, Oct. 27, 1970, 84 Stat. 1279; Pub. L. 96–132, §16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 100–690, title VI, §6254(i), Nov. 18, 1988, 102 Stat. 4367.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -37,6 +39,8 @@ In subsec. (b), "Administration" substituted for "Bureau" as the probable intent
 <b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
 <b>1979</b>—Subsecs. (a), (b). Pub. L. 96–132 substituted "Drug Enforcement Administration" for "Bureau of Narcotics and Dangerous Drugs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reimbursement by Drug Enforcement Administration of Expenses Incurred To Remediate Methamphetamine Laboratories
 

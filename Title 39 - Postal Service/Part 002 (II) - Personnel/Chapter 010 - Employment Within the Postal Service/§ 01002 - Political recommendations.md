@@ -28,7 +28,7 @@
 
 &emsp;(3) the statement is furnished pursuant to a request made by an authorized representative of the Government of the United States solely in order to determine whether such person meets the loyalty, suitability, and character requirements for employment with the Government of the United States; or
 
-&emsp;(4) the statement is furnished by a former employer of such person pursuant to a request of the Postal Service, and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of suchperson during his employment with such former employer.
+&emsp;(4) the statement is furnished by a former employer of such person pursuant to a request of the Postal Service, and consists solely of an evaluation of the work performance, ability, aptitude, and general qualifications of such person during his employment with such former employer.
 
 (f) The Postal Service shall take any action it determines necessary and proper, including but not limited to suspension, removal from office, or disqualification from the Postal Service, to enforce the provisions of this section.
 
@@ -36,11 +36,15 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, §703(c)(5), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 109–435, title VI, §604(a), Dec. 20, 2006, 120 Stat. 3241.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
 <b>1978</b>—Subsec. (g). Pub. L. 95–454 substituted "section 7211" for "section 7102".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -8,7 +8,7 @@
 
 (b)(1) To further assure the effective care and treatment of United States veterans in the Veterans Memorial Medical Center, there is authorized to be appropriated for each fiscal year during the period beginning on October 1, 1981, and ending on September 30, 1990, the sum of $1,000,000 to be used by the Secretary for making grants to the Veterans Memorial Medical Center for the purpose of assisting the Republic of the Philippines in the replacement and upgrading of equipment and in rehabilitating the physical plant and facilities of such center.
 
-(2) Grants under this subsection shall be made on such terms and conditions as prescribed by the Secretary. Such terms and conditions mayinclude a requirement of prior approval by the Secretary of the uses of the funds provided by such grants.
+(2) Grants under this subsection shall be made on such terms and conditions as prescribed by the Secretary. Such terms and conditions may include a requirement of prior approval by the Secretary of the uses of the funds provided by such grants.
 
 (3) Funds for such grants may be provided only from appropriations made to the Department for the specific purpose of making such grants.
 
@@ -19,6 +19,8 @@
 (2) Appropriations made for the purpose of this section shall remain available until expended.
 
 (Added Pub. L. 93–82, title I, §107(a), Aug. 2, 1973, 87 Stat. 184, §632; amended Pub. L. 94–581, title II, §210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, §3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, §206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, §1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1732 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, §503, Nov. 4, 1992, 106 Stat. 4955.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -59,6 +61,8 @@ Subsec. (c). Pub. L. 95–520, §3(b)(1), substituted "Veterans Memorial Medical
 Subsec. (d). Pub. L. 95–520, §3(b)(1), (4), substituted "Veterans Memorial Medical Center" for "Veterans Memorial Hospital" in three places and "occurring during the period beginning July 1, 1973, and ending September 30, 1981" for "during the five years beginning July 1, 1973, and ending June 30, 1978".
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–581 substituted "approval by the Administrator" for "approved by him".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

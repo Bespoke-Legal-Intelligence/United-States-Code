@@ -44,6 +44,8 @@ Subsection (i) is based in part on title 14, U.S.C., 1946 ed., §§51, 131 (R.S.
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 501 was renumbered section 2745 of this title.
@@ -69,6 +71,8 @@ Subsecs. (e) to (i). Pub. L. 115–232 redesignated subsecs. (f) to (i) as (e) t
 Subsec. (d). Act Oct. 31, 1951, §2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury.
 
 Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -148,9 +152,7 @@ Assistance for Great Lakes Lighthouse Preservation Efforts.—The Secretary of t
 
 #### VHF Communications Services
 
-Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, provided that:
-
-"(a) The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, which permitted the Secretary of the department in which the Coast Guard is operating to authorize placement of commercial VHF communications equipment on real property under the administrative control of the Coast Guard, was redesignated as section 720 of this title and transferred to appear after section 719 of this title by Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8501(a)(2), Jan. 1, 2021, 134 Stat. 4745.
 
 "(b) Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
 
@@ -228,7 +230,7 @@ Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that
 
 #### Lifesaving Equipment on Passenger Ferries
 
-Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: "The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries."
+Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: "The Secretary of the department in which theCoast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries."
 
 #### Aircraft
 

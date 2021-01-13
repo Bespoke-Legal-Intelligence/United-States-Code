@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–234, title XIV, §14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, §14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for "chapter 40, United States Code" by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read "Miscellaneous". The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
@@ -3751,6 +3753,8 @@ Rep.
 T. 40 App. §405
 
 14704
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment by Pub. L. 108–178
 

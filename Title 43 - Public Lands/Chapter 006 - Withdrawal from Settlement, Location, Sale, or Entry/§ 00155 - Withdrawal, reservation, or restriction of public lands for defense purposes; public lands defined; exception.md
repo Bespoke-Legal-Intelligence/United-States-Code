@@ -8,13 +8,17 @@ Notwithstanding any other provisions of law, except in time of war or national e
 
 &emsp;(3) nothing in this Act shall be deemed to be applicable to the warning areas over the Federal lands and waters of the Outer Continental Shelf and Federal lands and waters off the coast of the Territory of Alaska reserved for use of the military departments prior to August 7, 1953, and
 
-&emsp;(4) nothing in this section, section 156, or section 157 of this title shall be deemed to be applicable either to those reservations or withdrawals which expired due to the ending of the unlimited national emergency of May 27, 1941, and which subsequent to such expiration have been and are now used by the military departments with the concurrence of the Department of the Interior, or to the withdrawal of public domain lands of the Marine Corps Training Center, Twentynine Palms, California, and the naval gunnery ranges in the State of Nevada designated as Basic Black Rock and Basic Sahwave Mountain.
+&emsp;(4) nothing in this section, section 156, or section 157 of this title shall be deemed to be applicable either to those reservations or withdrawals which expired due to the endingof the unlimited national emergency of May 27, 1941, and which subsequent to such expiration have been and are now used by the military departments with the concurrence of the Department of the Interior, or to the withdrawal of public domain lands of the Marine Corps Training Center, Twentynine Palms, California, and the naval gunnery ranges in the State of Nevada designated as Basic Black Rock and Basic Sahwave Mountain.
 
 (Pub. L. 85–337, §1, Feb. 28, 1958, 72 Stat. 27.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This Act, referred to in pars. (1), (2), and (3), is Pub. L. 85–337, Feb. 28, 1958, 72 Stat. 27, which enacted sections 155 to 158 of this title and section 2671 of Title 10, Armed Forces, and amended section 472 of former Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

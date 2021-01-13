@@ -40,13 +40,15 @@
 
 #### (2) Treatment of block grant funds
 
-&emsp;For purposes of this section, programs funded by block grant funds provided to an Indian tribe, regardless of whether the block grant is for the benefit of the Indian tribe because of the status of the Indian tribe or the status of the beneficiaries the grant serves, shall be eligible to be integrated into the plan.
+&emsp;For purposes of this section, programs funded by block grant funds provided to an Indiantribe, regardless of whether the block grant is for the benefit of the Indian tribe because of the status of the Indian tribe or the status of the beneficiaries the grant serves, shall be eligible to be integrated into the plan.
 
 #### (b) Program authorization
 
 The Secretary shall, in cooperation with the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Education, the Secretary of Energy, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Secretary of Housing and Urban Development, the Secretary of Labor, the Secretary of Transportation, and the Secretary of Veterans Affairs, after the Secretary approves a plan submitted by an Indian tribe or tribal organization under section 3407 of this title, authorize the Indian tribe or tribal organization, as applicable, to coordinate, in accordance with the plan, federally funded employment, training, and related services programs and funding in a manner that integrates the programs and funding into a consolidated and comprehensive program.
 
 (Pub. L. 102–477, §5, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 106–568, title XI, §1103(b), Dec. 27, 2000, 114 Stat. 2931; Pub. L. 115–93, §6, Dec. 18, 2017, 131 Stat. 2027.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

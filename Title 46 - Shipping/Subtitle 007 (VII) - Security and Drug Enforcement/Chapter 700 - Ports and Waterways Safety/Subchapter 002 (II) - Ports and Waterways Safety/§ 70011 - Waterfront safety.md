@@ -14,7 +14,7 @@ Actions Authorized.—Actions authorized by subsection (a) include—
 
 &emsp;(1) establishing procedures, measures, and standards for the handling, loading, unloading, storage, stowage, and movement on a structure (including the emergency removal, control, and disposition) of explosives or other dangerous articles and substances, including oil or hazardous material as those terms are defined in section 2101;
 
-&emsp;(2) prescribing minimum safety equipment requirements for a structure to assure adequate protection from fire, explosion, natural disaster, and other serious accidents or casualties;
+&emsp;(2) prescribing minimum safety equipment requirements for a structure to assure adequate protection from fire, explosion, naturaldisaster, and other serious accidents or casualties;
 
 &emsp;(3) establishing water or waterfront safety zones, or other measures, for limited, controlled, or conditional access and activity when necessary for the protection of any vessel, structure, waters, or shore area; and
 

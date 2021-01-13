@@ -16,6 +16,8 @@
 
 (B) The requirements of subparagraph (A) do not apply to such vice admiral if the subordinate officer serving in the grade of rear admiral with responsibilities for marine safety, security, and stewardship possesses that experience.
 
+(4) Prior to making a recommendation to the President for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of vice admiral, the Commandant shall consider all officers determined to be among the best qualified for such position.
+
 (b)(1) The appointment and the grade of vice admiral shall be effective on the date the officer assumes that duty and, except as provided in paragraph (2) of this subsection or in section 306(d) of this title, shall terminate on the date the officer is detached from that duty.
 
 (2) An officer who is appointed to a position designated under subsection (a) shall continue to hold the grade of vice admiral—
@@ -34,13 +36,17 @@
 
 (d) Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755, §50; amended Pub. L. 103–206, title II, §204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, §1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, §202, Feb. 8, 2016, 130 Stat. 33; renumbered §305 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240.)
+(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755, §50; amended Pub. L. 103–206, title II, §204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, §1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, §202, Feb. 8, 2016, 130 Stat. 33; renumbered §305 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. A, title V, §551(b)(2), Jan. 1, 2021, 134 Stat. 3630.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years' service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, §20(o), 68 Stat. 167, and by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
 
 <b>2018</b>—Pub. L. 115–282, §104(b), renumbered section 50 of this title as this section.
 
@@ -60,6 +66,8 @@ Subsec. (b)(2)(C), (D). Pub. L. 114–120, §202(2), added subpar. (C) and redes
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted "The appointment and grade of an area commander shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title." for "The appointment of an area commander is effective on the date the officer assumes that duty, and terminates on the date he is detached from that duty."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–330, §1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(5) is effective with the enactment of Pub. L. 111–281.
@@ -76,5 +84,5 @@ Pub. L. 111–281, title V, §511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provided
 
 &emsp;"(A) shall continue to have the grade of vice admiral with pay and allowance of that grade until such time that the officer is relieved of his duties and appointed and confirmed to another position as a vice admiral or admiral; or
 
-&emsp;"(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes."
+&emsp;"(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date ofenactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes."
 

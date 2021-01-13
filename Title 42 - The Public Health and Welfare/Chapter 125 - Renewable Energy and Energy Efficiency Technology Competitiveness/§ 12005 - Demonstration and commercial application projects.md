@@ -54,7 +54,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 > &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to perform again any duties performed by such advisory committee before October 24, 1992.
 
-&emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall provide the Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
+&emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall providethe Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
 
 #### (c) Selection of projects
 

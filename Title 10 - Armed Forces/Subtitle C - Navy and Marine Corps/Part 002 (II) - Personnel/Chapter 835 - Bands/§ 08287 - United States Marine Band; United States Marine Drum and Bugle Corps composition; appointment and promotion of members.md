@@ -18,7 +18,7 @@ Appointment and Promotion.—(1) The Secretary of the Navy shall prescribe regul
 
 (d)
 
-Retirement.—Unless otherwise entitled to higher retired grade and retired pay, a member of the Marine Band or Marine Drum and Bugle Corps who holds, or has held, an appointment under this section is entitled, when retired, to be retired in, and with retired pay based on, the highest grade held under this section in which the Secretary of the Navy determines that such member served satisfactorily.
+Retirement.—Unless otherwise entitled to higher retired grade and retired pay, a memberof the Marine Band or Marine Drum and Bugle Corps who holds, or has held, an appointment under this section is entitled, when retired, to be retired in, and with retired pay based on, the highest grade held under this section in which the Secretary of the Navy determines that such member served satisfactorily.
 
 (e)
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Delegation of Functions
 

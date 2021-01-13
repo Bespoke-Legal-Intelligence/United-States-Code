@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Eligible institution
 
-&emsp;The term "eligible institution" means an institution of higher education (as defined insection 1002 of title 20), but only with respect to a program offered by the institution that can be completed in not more than 2 years.
+&emsp;The term "eligible institution" means an institution of higher education (as defined in section 1002 of title 20), but only with respect to a program offered by the institution that can be completed in not more than 2 years.
 
 #### (2) Secretary
 
@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;A grant proposal submitted to the Secretary under this section shall include a detailed description of—
 
-&emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
+&emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including themanner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
 &emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
 
@@ -104,7 +104,7 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 &emsp;(1) describing each grant awarded under this section during the preceding fiscal year;
 
-&emsp;(2) assessing the impact of each award of a grant under this section in a fiscal year preceding the fiscal year referred to in paragraph\(1) on workers receiving training under section 2296 of this title; and
+&emsp;(2) assessing the impact of each award of a grant under this section in a fiscal year preceding the fiscal year referred to in paragraph (1) on workers receiving training under section 2296 of this title; and
 
 &emsp;(3) providing the following data relating to program performance and outcomes:
 
@@ -124,7 +124,7 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L.112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
 
 Section was formerly classified to section 2372 of this title prior to renumbering by Pub. L. 112–40.
 

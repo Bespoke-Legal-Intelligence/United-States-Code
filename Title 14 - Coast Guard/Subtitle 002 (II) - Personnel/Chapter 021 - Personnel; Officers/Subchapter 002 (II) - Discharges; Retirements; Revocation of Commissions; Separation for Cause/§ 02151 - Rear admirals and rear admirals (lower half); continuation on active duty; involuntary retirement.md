@@ -2,7 +2,7 @@
 
 (a) The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least 5 officers (other than the Commandant) serving in the grade of admiral or vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
 
-(b) The Secretary shall, based upon the needs of the service, furnish each board convened under this section with the number of officers to be considered for continuation on active duty. The number that may be recommended for continuation shall be not less than 50 per centum ormore than 75 per centum of the number of officers being considered for continuation.
+(b) The Secretary shall, based upon the needs of the service, furnish each board convened under this section with the number of officers to be considered for continuation on active duty. The number that may be recommended for continuation shall be not less than 50 per centum or more than 75 per centum of the number of officers being considered for continuation.
 
 (c) The provisions of sections 2108, 2109, 2115, and 2117 of this title relating to selection and continuation boards shall to the extent they are not inconsistent with the provisions of this section, apply to boards convened under this section.
 
@@ -19,6 +19,8 @@
 (2) The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187, §290; amended Pub. L. 92–451, §1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, §1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, §6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, §2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, §25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, §5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, §205(d), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 111–281, title V, §511(e), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 112–213, title II, §217(5), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. C, title XXXV, §3522, Dec. 23, 2016, 130 Stat. 2793; Pub. L. 115–232, div. C, title XXXV, §3537, Aug. 13, 2018, 132 Stat. 2322; renumbered §2151 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsecs. (d), (e). Pub. L. 92–451 added subsecs. (d) and (e).
 Subsec. (f). Pub. L. 92–451 incorporated provisions of former subsec. (a) in provisions designated as subsec. (f), and among other changes extended the minimum service for retirement from 35 years to 36 years of active commissioned service and deleted the alternative seven year permanent grade service.
 
 Subsec. (g). Pub. L. 92–451 incorporated provisions of former subsec. (b) in provisions designated as subsec. (g), and among other changes, substituted officer for rear admiral.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1972 Amendment
 

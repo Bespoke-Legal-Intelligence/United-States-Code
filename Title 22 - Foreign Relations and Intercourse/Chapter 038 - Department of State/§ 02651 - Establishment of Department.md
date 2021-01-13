@@ -4,19 +4,27 @@ There shall be at the seat of government an executive department to be known as 
 
 (R.S. §199.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §199 derived from acts July 27, 1789, ch. 4, §1, 1 Stat. 28; Sept. 15, 1789, ch. 14, §1, 1 Stat. 68.
 
 Section was formerly classified to section 151 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: "Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\]."
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 116–326, §1, Jan. 13, 2021, 134 Stat. 5095, provided that: "This Act \[amending section 2731 of this title and enacting provisions set out as a note under section 2731 of this title\] may be cited as the 'Special Envoy to Monitor and Combat Anti-Semitism Act'."
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. J, title VI, §601, Dec. 20, 2019, 133 Stat. 3069, provided that: "This title \[amending section2708 of this title and enacting provisions set out as a note under section 2708 of this title\] may be cited as the 'Rescuing Animals With Rewards Act of 2019' or the 'RAWR Act'."
+Pub. L. 116–94, div. J, title VI, §601, Dec. 20, 2019, 133 Stat. 3069, provided that: "This title \[amending section 2708 of this title and enacting provisions set out as a note under section 2708 of this title\] may be cited as the 'Rescuing Animals With Rewards Act of 2019' or the 'RAWR Act'."
 
 Pub. L. 115–441, §1, Jan. 14, 2019, 132 Stat. 5586, provided that: "This Act \[amending section 4028 of this title and enacting provisions set out as a note under section 2656 of this title\] may be cited as the 'Elie Wiesel Genocide and Atrocities Prevention Act of 2018'."
 
@@ -70,7 +78,7 @@ Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: "This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18,Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1988 and 1989'."
+Pub. L. 100–204, §1(a), Dec. 22, 1987, 101 Stat. 1331, provided that: "This Act \[enacting sections 288f–3, 1464, 2656f, 2664a, 2713, 4069a to 4069c, 4315, 4316, 4341 to 4343, and 5201 to 5203 of this title, amending sections 288h, 290j–1, 1469, 1471, 1475e, 1477c, 1627, 1928a, 1928b, 2151n, 2291, 2304, 2460, 2661, 2670, 2697, 2706, 2707, 2778, 2877, 3905, 3922a, 3927, 3941, 3942, 3946, 3949, 3961, 3965, 4001, 4010, 4023, 4137, 4173, 4302, 4303, 4305, 4403, 4412, 4413, 4831, 4834, 4851, 4861, and 4904 of this title, sections 5313, 5315, and 8332 of Title 5, Government Organization and Employees, section 1182 of Title 8, Aliens and Nationality, sections 2492 and 2605 of Title 19, Customs Duties, and section 1364 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section, sections 287, 287e, 1461, 1463, 1471, 2601, 2656, 2680, 2697, 2707, 3922a, 3941 to 3943, 3946, 3965, 4041, 4301, 4315, 4316, 4341, 4802, 4851, and 5201 of this title, section 112b of Title 1, General Provisions, section 5313 of Title 5, sections 1182, 1201, and 1255a of Title 8, section 2901 of Title 15, Commerce and Trade, section 3181 of Title 18, Crimes and Criminal Procedure, section 2605 of Title 19, and section 1364 of Title 28, and amending provisions set out as notes under this section and sections 287, 287b, 287e, and 4021 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1988 and 1989'."
 
 #### Short Title of 1985 Amendment
 
@@ -86,7 +94,7 @@ Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: "That this Act \[e
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: "That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title and section 5924 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 901a, 966, and 2151 of this title\] may be cited as the 'State Department/USIA Authorization Act, Fiscal Year 1975'."
+Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: "That this Act \[enacting sections 966, 2679a, 2680a, and2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title and section 5924 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 901a, 966, and 2151 of this title\] may be cited as the 'State Department/USIA Authorization Act, Fiscal Year 1975'."
 
 #### Short Title of 1973 Amendment
 
@@ -101,14 +109,6 @@ Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: "That this Act \[e
 Act Aug. 1, 1956, ch. 841 (first sentence), as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: "That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the 'State Department Basic Authorities Act of 1956'."
 
 Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47, and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the "State Department Basic Authorities Act of 1956", was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
-
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Secretary of State, see Parts 1, 2, and 13 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
-#### Order of Succession
-
-For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### References to Diplomatic and Consular Programs Account
 
@@ -197,4 +197,14 @@ Appropriate congressional committees.—Except as otherwise provided in section 
 &emsp;"(2)
 
 Secretary.—The term 'Secretary' means the Secretary of State."
+
+#### <b>Executive Documents</b>
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Secretary of State, see Parts 1, 2, and 13 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

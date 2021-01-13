@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 #### (2) Health insurance issuer
 
-&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section). Such term does not include a group health plan.
+&emsp;The term "health insurance issuer" means an insurance company, insurance service, orinsurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
@@ -52,7 +52,7 @@ For purposes of this chapter, the term "excepted benefits" means benefits under 
 
 &emsp;(G) Coverage for on-site medical clinics.
 
-&emsp;(H) Other similar insurance coverage, specified in regulations, under which benefits formedical care are secondary or incidental to other insurance benefits.
+&emsp;(H) Other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits.
 
 #### (2) Benefits not subject to requirements if offered separately
 
@@ -160,7 +160,7 @@ For purposes of this chapter—
 
 #### (10) Underwriting purposes
 
-&emsp;The term "underwriting purposes" means, with respect to any group health plan, orhealth insurance coverage offered in connection with a group health plan—
+&emsp;The term "underwriting purposes" means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
 
 &emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
 

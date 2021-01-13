@@ -126,7 +126,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 &emsp;(2) implement service-learning programs in low-income or rural communities; and
 
-&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiringadults, in the planning and implementation of service-learning programs.
+&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiring adults, in the planning and implementation of service-learning programs.
 
 #### (f) Requirements
 

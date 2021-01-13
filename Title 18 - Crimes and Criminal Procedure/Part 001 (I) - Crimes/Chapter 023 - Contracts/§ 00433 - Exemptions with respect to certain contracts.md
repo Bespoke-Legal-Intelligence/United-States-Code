@@ -14,7 +14,9 @@ These sections were consolidated with such changes of phraseology as were necess
 
 The applicability provisions of the sections here consolidated were unclear and of doubtful value. As revised the section preserves everything of value without change of substance.
 
-References to the Bankhead-Jones Farm Tenant Act and the Farmers' Home Administrative Act of 1946 were included in this revised section notwithstanding the omission (and consequent repeal) of former subsection (d) of section 52 of the said Bankhead-Jones Act (1937) (Title 7, U.S.C., 1940 ed., §1026) in the amendment of said section 52 of such Act by section 3 of the saidFarmers' Home Administration Act of 1946 (August 14, 1946, ch. 964, 60 Stat. 1062). The essential nature of the transactions under the several acts would render inconsistent any attempt to include some and exclude others.
+References to the Bankhead-Jones Farm Tenant Act and the Farmers' Home Administrative Act of 1946 were included in this revised section notwithstanding the omission (and consequent repeal) of former subsection (d) of section 52 of the said Bankhead-Jones Act (1937) (Title 7, U.S.C., 1940 ed., §1026) in the amendment of said section 52 of such Act by section 3 of the said Farmers' Home Administration Act of 1946 (August 14, 1946, ch. 964, 60 Stat. 1062). The essential nature of the transactions under the several acts would render inconsistent any attempt to include some and exclude others.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -38,11 +40,15 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 <b>1961</b>—Pub. L. 87–353 struck out "the Federal Farm Mortgage Corporation Act," after "the Emergency Farm Mortgage Act of 1933,".
 
-#### Abolition of Reconstruction Finance Corporation
-
-The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Home Owners' Loan Corporation
 
 The Home Owners' Loan Corporation, which was created by the Home Owners' Loan Act of 1933, referred to in this section, was dissolved and abolished by act June 30, 1953, ch. 170, §21, 67 Stat. 126, set out in note under section 1463 of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
+#### Abolition of Reconstruction Finance Corporation
+
+The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, referred to in this section, was abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees.
 

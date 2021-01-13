@@ -16,7 +16,7 @@ Grants for Presidential Centers of Historical Excellence.—
 
 &emsp;(1)
 
-In general.—The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the "Presidential Libraries Act of 1955").
+In general.—The Archivist, with the recommendation of the Commission, may makegrants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the "Presidential Libraries Act of 1955").
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Application.—
 
 &emsp;&emsp;(A)
 
-In general.—An eligible entity seeking a grant under this subsection shall submit to the Commission an application atsuch time, in such manner, and containing or accompanied by such information as the Commission may require, including a description of the activities for which a grant under this subsection is sought.
+In general.—An eligible entity seeking a grant under this subsection shall submit to the Commission an application at such time, in such manner, and containing or accompanied by such information as the Commission may require, including a description of the activities for which a grant under this subsection is sought.
 
 &emsp;&emsp;(B)
 
@@ -110,6 +110,8 @@ Approval of application.—The Commission shall not consider or recommend a gran
 
 Based on 44 U.S. Code, 1964 ed., §393(d) (June 30, 1949, ch. 288, title V, §503(d), as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88–383, 78 Stat. 335).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is classified to section 501 of Title 26, Internal Revenue Code.
@@ -139,6 +141,8 @@ Subsec. (b). Pub. L. 98–497, §107(b)(10)(E), substituted "National Archives a
 <b>1974</b>—Subsec. (b). Pub. L. 93–536 substituted "1975" for "1973" and "$4,000,000" for "$2,000,000".
 
 <b>1972</b>—Pub. L. 92–546 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

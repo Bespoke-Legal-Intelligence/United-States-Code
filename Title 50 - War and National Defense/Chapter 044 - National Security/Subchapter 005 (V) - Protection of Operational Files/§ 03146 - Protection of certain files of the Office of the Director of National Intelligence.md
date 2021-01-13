@@ -2,7 +2,7 @@
 
 #### (a) Inapplicability of FOIA to exempted operational files provided to ODNI
 
-(1) Subject to paragraph (2), the provisions of section 552 of title 5 that require search, review,publication, or disclosure of a record shall not apply to a record provided to the Office of the Director of National Intelligence by an element of the intelligence community from the exempted operational files of such element.
+(1) Subject to paragraph (2), the provisions of section 552 of title 5 that require search, review, publication, or disclosure of a record shall not apply to a record provided to the Office of the Director of National Intelligence by an element of the intelligence community from the exempted operational files of such element.
 
 (2) Paragraph (1) shall not apply with respect to a record of the Office that—
 

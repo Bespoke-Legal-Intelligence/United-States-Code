@@ -38,9 +38,13 @@ Other exemptions.—(A) Any common carrier which would be a farm labor contracto
 
 (Pub. L. 97–470, §4, Jan. 14, 1983, 96 Stat. 2585.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

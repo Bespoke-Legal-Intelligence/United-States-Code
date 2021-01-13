@@ -4,7 +4,7 @@
 
 (b) Upon the retirement of a Director who has elected coverage under this section and who has at least fifteen years of service and has attained the age of sixty-five years the Administrative Office of the United States Courts shall pay him an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement.
 
-Upon the retirement of a Director who has elected coverage under this section and who hasat least ten years of service, but who is not eligible to receive an annuity under the first paragraph of this subsection, the Administrative Office of the United States Courts shall pay him an annuity for life equal to that proportion of 80 per centum of the salary of the office at the time of his retirement that the number of years of his service bears to fifteen, reduced by one-quarter of 1 per centum for each full month, if any, he is under the age of sixty-five at the time of separation from service.
+Upon the retirement of a Director who has elected coverage under this section and who has at least ten years of service, but who is not eligible to receive an annuity under the first paragraph of this subsection, the Administrative Office of the United States Courts shall pay him an annuity for life equal to that proportion of 80 per centum of the salary of the office at the time of his retirement that the number of years of his service bears to fifteen, reduced by one-quarter of 1 per centum for each full month, if any, he is under the age of sixty-five at the time of separation from service.
 
 (c) A Director who has elected coverage under this section and who becomes permanently disabled to perform the duties of his office shall be retired and shall receive an annuity for life equal to 80 per centum of the salary of the office at the time of his retirement if he has at least fifteen years of service, or equal to that proportion of 80 percentum of such salary that the aggregate number of years of his service bears to fifteen if he has less than fifteen years of service, but in no event less than 50 per centum of such salary.
 
@@ -13,6 +13,8 @@ Upon the retirement of a Director who has elected coverage under this section an
 (e) Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
 
 (Added Pub. L. 90–219, title II, §201(a), Dec. 20, 1967, 81 Stat. 668; amended Pub. L. 100–702, title X, §§1004(a), 1006(a)(1), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 106–518, title III, §301(a), Nov. 13, 2000, 114 Stat. 2416.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -26,11 +28,13 @@ Subsec. (d). Pub. L. 106–518, §301(a)(1), inserted "a congressional employee 
 
 Subsec. (e). Pub. L. 100–702, §1004(a), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–702, title X, §1004(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title \[Nov. 19, 1988\] with respect to any annuity being paid or becoming payable on or after such date."
 
-Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\]."
+Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices ofDirector of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\]."
 
 #### Retroactive Effect
 

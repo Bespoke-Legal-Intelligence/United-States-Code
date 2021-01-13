@@ -30,7 +30,7 @@ Hearing.—If the Board determines either that the agreement or combination is o
 
 &emsp;(4)
 
-Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
+Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest ofbetter service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
 
 &emsp;(5)
 
@@ -78,7 +78,7 @@ This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 #### References in Text
 
-Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted inthe general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 

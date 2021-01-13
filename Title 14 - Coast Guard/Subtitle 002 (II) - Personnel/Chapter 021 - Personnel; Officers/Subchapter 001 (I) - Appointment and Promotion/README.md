@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—APPOINTMENT AND PROMOTION
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter A of chapter 21 designation and accompanying heading "GENERAL" were repealed by Pub. L. 115–282, title I, §112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
@@ -7,6 +9,8 @@ A prior subchapter A of chapter 21 designation and accompanying heading "GENERAL
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §112(c)(2), Dec. 4, 2018, 132 Stat. 4220, inserted subchapter I designation and heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Officer Evaluation Report
 
@@ -106,3 +110,5 @@ Format.—The report under paragraph (1) shall be formatted by each rank, type o
 - [&sect; 02127 - Recall to active duty during war or national emergency](%C2%A7%2002127%20-%20Recall%20to%20active%20duty%20during%20war%20or%20national%20emergency.md)
 - [&sect; 02128 - Recall to active duty with consent of officer](%C2%A7%2002128%20-%20Recall%20to%20active%20duty%20with%20consent%20of%20officer.md)
 - [&sect; 02129 - Aviation cadets; appointment as Reserve officers](%C2%A7%2002129%20-%20Aviation%20cadets%3B%20appointment%20as%20Reserve%20officers.md)
+- [&sect; 02130 - Promotion to certain grades for officers with critical skills captain, commander, lieutenant commander, lieutenant](%C2%A7%2002130%20-%20Promotion%20to%20certain%20grades%20for%20officers%20with%20critical%20skills%20captain%2C%20commander%2C%20lieutenant%20commander%2C%20lieutenant.md)
+- [&sect; 02131 - College student pre-commissioning initiative](%C2%A7%2002131%20-%20College%20student%20pre-commissioning%20initiative.md)

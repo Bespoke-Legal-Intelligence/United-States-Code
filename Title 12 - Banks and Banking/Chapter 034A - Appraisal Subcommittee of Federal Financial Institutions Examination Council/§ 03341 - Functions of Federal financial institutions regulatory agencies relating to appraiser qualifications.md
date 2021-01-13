@@ -26,7 +26,9 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, §1473(a), July 21, 2010, 124 Stat. 2190.)
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–171, title II,§2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–203, title XIV, §1473(a), July 21, 2010, 124 Stat. 2190.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ Subsec. (c)(1)(B). Pub. L. 104–208, §2704(d)(15)(B), which directed substitut
 Subsec. (c)(2). Pub. L. 104–316, §106(g)(1)(B), substituted "referred to in" for "required under".
 
 <b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

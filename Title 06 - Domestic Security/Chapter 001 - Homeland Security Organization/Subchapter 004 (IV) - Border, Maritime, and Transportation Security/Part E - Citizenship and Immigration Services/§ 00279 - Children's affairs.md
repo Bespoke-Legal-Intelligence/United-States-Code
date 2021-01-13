@@ -94,7 +94,7 @@ With respect to any function transferred by this section, any reference in any o
 
 #### (3) Transfer and allocation of appropriations and personnel
 
-&emsp;The personnel of the Department of Justice employed in connection with the functions transferred by this section, and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this section, subject to section 1531 of title 31, shall be transferred to the Director of the Office of Refugee Resettlement for allocation to the appropriate component of the Department of Health and Human Services. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
+&emsp;The personnel of the Department of Justice employed in connection with the functionstransferred by this section, and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this section, subject to section 1531 of title 31, shall be transferred to the Director of the Office of Refugee Resettlement for allocation to the appropriate component of the Department of Health and Human Services. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 #### (g) Definitions
 
@@ -116,6 +116,8 @@ As used in this section—
 
 (Pub. L. 107–296, title IV, §462, Nov. 25, 2002, 116 Stat. 2202; Pub. L. 110–457, title II, §235(f), Dec. 23, 2008, 122 Stat. 5081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -136,21 +138,31 @@ Subsec. (b)(3). Pub. L. 110–457, §235(f)(2)(A), substituted "paragraph (1)," 
 
 Subsec. (b)(4). Pub. L. 110–457, §235(f)(2)(B), added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Bureau of Border Security, referred to in subsec. (b)(2)(A), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
 #### Notification of Use of Unlicensed Influx Facility
 
-Pub. L. 116–94, div. A, title II, §233, Dec. 20, 2019, 133 Stat. 2585, provided that: "In addition to the existing Congressional notification for formal site assessments of potential influx facilities, the Secretary \[of Health and Human Services\] shall notify the Committees on Appropriations of the House of Representatives and the Senate at least 15 days before operationalizing an unlicensed facility, and shall (1) specify whether the facility is hard-sided or soft-sided, and (2) provide analysis that indicates that, in the absence of the influx facility, the likely outcome is that unaccompanied alien children will remain in the custody of the Department of Homeland Security for longer than 72 hours or that unaccompanied alien children will be otherwise placed in danger. Within 60 days of bringing such a facility online, and monthly thereafter, the Secretary shall provide to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the total number of children in care at the facility, the average length of stay and average length of care of children at the facility, and, for any child that has been at the facility for more than 60 days, their length of stay and reason for delay in release."
+Pub. L. 116–260, div. H, title II, §233, Dec. 27, 2020, 134 Stat. 1596, provided that: "In addition to the existing Congressional notification for formal site assessments of potential influx facilities, the Secretary \[of Health and Human Services\] shall notify the Committees on Appropriations of the House of Representatives and the Senate at least 15 days before operationalizing an unlicensed facility, and shall (1) specify whether the facility is hard-sided or soft-sided, and (2) provide analysis that indicates that, in the absence of the influx facility, the likely outcome is that unaccompanied alien children will remain in the custody of the Department of Homeland Security for longer than 72 hours or that unaccompanied alien children will be otherwise placed in danger. Within 60 days of bringing such a facility online, and monthly thereafter, the Secretary shall provide to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the total number of children in care at the facility, the average length of stay and average length of care of children at the facility, and, for any child that has been at the facility for more than 60 days, their length of stay and reason for delay in release."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. A, title II, §233, Dec. 20, 2019, 133 Stat. 2585.
 
 #### Report on Children Separated From Parents or Legal Guardians
 
-Pub. L. 116–94, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 2585, provided that: "Not later than 14 days after the date of enactment of this Act \[Dec. 20, 2019\], and monthly thereafter, the Secretary \[of Health and Human Services\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate, and make publicly available online, a report with respect to children who were separated from their parents or legal guardians by the Department of Homeland Security (DHS) (regardless of whether or not such separation was pursuant to an option selected by the children, parents, or guardians), subsequently classified as unaccompanied alien children, and transferred to the care and custody of ORR during the previous month. Each report shall contain the following information:
+Pub. L. 116–260, div. H, title II, §235, Dec. 27, 2020, 134 Stat. 1597, provided that: "Not later than 14 days after the date of enactment of this Act \[Dec. 27, 2020\], and monthly thereafter, the Secretary \[of Health and Human Services\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate, and make publicly available online, a report with respect to children who were separated from their parents or legal guardians by the Department of Homeland Security (DHS) (regardless of whether or not such separation was pursuant to an option selected by the children, parents, or guardians), subsequently classified as unaccompanied alien children, and transferred to the care and custody of ORR \[Office of Refugee Resettlement\] during the previous month. Each report shall contain the following information:
 
 &emsp;"(1) the number and ages of children so separated subsequent to apprehension at or between ports of entry, to be reported by sector where separation occurred; and
 
 &emsp;"(2) the documented cause of separation, as reported by DHS when each child was referred."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 2585.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

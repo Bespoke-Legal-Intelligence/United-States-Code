@@ -4,9 +4,13 @@ The President is authorized to exercise general superintendence and care over an
 
 (R.S. §2114.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2114 derived from act May 28, 1830, ch. 148, §§7, 8, 4 Stat. 412.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### American Indian Policy Review Commission
 

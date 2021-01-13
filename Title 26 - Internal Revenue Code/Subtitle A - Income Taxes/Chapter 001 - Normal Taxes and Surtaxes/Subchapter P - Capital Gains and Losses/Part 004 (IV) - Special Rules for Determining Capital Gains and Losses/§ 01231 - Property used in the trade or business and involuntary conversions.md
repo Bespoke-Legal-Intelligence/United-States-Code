@@ -204,7 +204,7 @@ Amendment by Pub. L. 97–34 applicable to property acquired and positions estab
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(ee)(2), Nov. 6, 1978, 92 Stat. 2924, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to sales, exchanges, and contributions made after October 4, 1976."
+Pub. L. 95–600, title VII, §701(ee)(2), Nov. 6, 1978, 92 Stat. 2924, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to sales, exchanges, and contributions made after October 4, 1976."
 
 #### Effective Date of 1976 Amendment
 

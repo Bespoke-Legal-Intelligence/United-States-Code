@@ -8,7 +8,7 @@ The Director shall award grants, on a competitive, merit-reviewed basis, to inst
 
 Activities supported by grants under this section may include—
 
-&emsp;(1) expansion of successful reform efforts beyond a single course or group of courses toachieve reform within an entire academic unit;
+&emsp;(1) expansion of successful reform efforts beyond a single course or group of courses to achieve reform within an entire academic unit;
 
 &emsp;(2) expansion of successful reform efforts beyond a single academic unit to other science, mathematics, engineering, or technology academic units within an institution;
 

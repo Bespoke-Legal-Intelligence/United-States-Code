@@ -20,7 +20,7 @@ The Director of the United States Information Agency should enter into negotiati
 
 #### (d) Private sources
 
-The Center is authorized to accept, use, and dispose of gifts or donations of services or property in carrying out the fellowship program, subject to the review and approval of the Director of the United States Information Agency.
+The Center is authorized to accept, use, and dispose of gifts or donations of services or property in carrying out the fellowship program,subject to the review and approval of the Director of the United States Information Agency.
 
 #### (e) Use of Federal facilities
 
@@ -28,9 +28,13 @@ The George P. Shultz National Foreign Affairs Training Center is authorized and 
 
 (Pub. L. 103–236, title II, §252, Apr. 30, 1994, 108 Stat. 428; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "National Foreign Affairs Training Center".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

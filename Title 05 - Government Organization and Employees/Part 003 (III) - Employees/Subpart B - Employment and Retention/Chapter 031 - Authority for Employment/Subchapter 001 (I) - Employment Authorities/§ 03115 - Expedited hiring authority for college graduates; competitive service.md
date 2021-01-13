@@ -114,6 +114,8 @@ Regulations.—Any regulations prescribed by the Director for the administration
 
 (Added Pub. L. 115–232, div. A, title XI, §1108(a), Aug. 13, 2018, 132 Stat. 2006.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–11, referred to in subsecs. (b)(1), (e)(1), and (g)(2)(C), is contained in the General Schedule which is set out under section 5332 of this title.

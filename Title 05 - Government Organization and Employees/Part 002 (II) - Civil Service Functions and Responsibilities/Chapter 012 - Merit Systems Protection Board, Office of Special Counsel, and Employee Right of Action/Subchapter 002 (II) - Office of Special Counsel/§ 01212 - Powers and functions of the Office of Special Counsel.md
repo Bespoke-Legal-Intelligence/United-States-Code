@@ -110,11 +110,13 @@
 
 &emsp;(2) the Special Counsel—
 
-&emsp;&emsp;(A) may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting the Inspector General in accordance with the agreement; and
+&emsp;&emsp;(A) may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting theInspector General in accordance with the agreement; and
 
 &emsp;&emsp;(B) may reimburse the Inspector General for services provided under the agreement.
 
 (Added Pub. L. 101–12, §3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, §3(b), Oct. 29, 1994, 108 Stat. 4362; Pub. L. 112–199, title I, §113, Nov. 27, 2012, 126 Stat. 1472; Pub. L. 115–91, div. A, title X, §1097(a), (g), Dec. 12, 2017, 131 Stat. 1615, 1623.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -127,6 +129,8 @@ Subsec. (i). Pub. L. 115–91, §1097(g), added subsec. (i).
 <b>1994</b>—Subsec. (g)(1). Pub. L. 103–424, §3(b)(1) substituted "disclose any information from or about" for "provide information concerning".
 
 Subsec. (g)(2). Pub. L. 103–424, §3(b)(2), substituted "an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any" for "a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -208,7 +212,7 @@ Report.—The results of the survey conducted under subsection (a) shall be publ
 
 #### Definitions
 
-Pub. L. 115–73, title I, §101, Oct. 26, 2017, 131 Stat. 1235, provided that: "In this title \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title, and amending provisions set out as a note under section 2302 of this title\]—
+Pub. L. 115–73, title I, §101, Oct. 26, 2017, 131 Stat. 1235, provided that: "In this title \[enacting sections 2307 and7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title, and amending provisions set out as a note under section 2302 of this title\]—
 
 &emsp;"(1) the term 'agency'—
 

@@ -44,6 +44,8 @@ Oct. 6, 1945, ch. 393, §5 (as made applicable to Coast Guard by §13), 13 (as a
 
 The words "notwithstanding any other provision of law" and "or reenlisted" are omitted as surplusage. 34 U.S.C. 188 (proviso) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 351 of this title as this section.

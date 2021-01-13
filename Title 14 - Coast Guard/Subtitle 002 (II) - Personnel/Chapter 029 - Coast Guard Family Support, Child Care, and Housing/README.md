@@ -22,6 +22,7 @@
 | [2923\.](Subchapter%20002%20%28II%29%20-%20Coast%20Guard%20Child%20Care/%C2%A7%2002923%20-%20Child%20development%20center%20standards%20and%20inspections.md) | Child development center standards and inspections. |
 | [2924\.](Subchapter%20002%20%28II%29%20-%20Coast%20Guard%20Child%20Care/%C2%A7%2002924%20-%20Child%20development%20center%20employees.md) | Child development center employees. |
 | [2925\.](Subchapter%20002%20%28II%29%20-%20Coast%20Guard%20Child%20Care/%C2%A7%2002925%20-%20Parent%20partnerships%20with%20child%20development%20centers.md) | Parent partnerships with child development centers. |
+| [2926\.](Subchapter%20002%20%28II%29%20-%20Coast%20Guard%20Child%20Care/%C2%A7%2002926%20-%20Family%20child%20care%20providers.md) | Family child care providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,11 +40,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior analysis for chapter 29 "REPORTS" consisted of items 2901 "Transmission of annual Coast Guard authorization request", 2902 "Capital investment plan", 2903 "Major acquisitions", 2904 "Manpower requirements plan", 2905 "Annual performance report", and 2906 "Major acquisition program risk assessment", prior to repeal by Pub. L. 115–282, title I, §117(a), Dec. 4, 2018, 132 Stat. 4229.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8237(b)(2), Jan. 1, 2021, 134 Stat. 4665, which directed amendment of the analysis for this chapter by adding item 2926 "at the end", was executed by adding the item after item 2925, which item was at the end of the items for subchapter II of this chapter, to reflect the probable intent of Congress.
 
 <b>2018</b>—Pub. L. 115–282, title I, §117(a), Dec. 4, 2018, 132 Stat. 4230, inserted chapter 29 designation and heading and added items 2901 to 2947.
 

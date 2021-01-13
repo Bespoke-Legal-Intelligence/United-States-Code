@@ -40,7 +40,7 @@ The Secretary shall address priority substance use disorder prevention needs of 
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a), require that entities thatapply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a), require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 
@@ -58,7 +58,7 @@ The Secretary shall establish comprehensive information and education programs t
 
 There are authorized to be appropriated to carry out this section, $211,148,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345; Pub. L. 106–310, div. B, title XXXIII, §3302(a), Oct. 17, 2000, 114 Stat. 1209; Pub. L. 114–255, div. B, title VII, §7005, Dec. 13, 2016, 130 Stat. 1224.)
+(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27,1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345; Pub. L. 106–310, div. B, title XXXIII, §3302(a), Oct. 17, 2000, 114 Stat. 1209; Pub. L. 114–255, div. B, title VII, §7005, Dec. 13, 2016, 130 Stat. 1224.)
 
 #### Codification
 

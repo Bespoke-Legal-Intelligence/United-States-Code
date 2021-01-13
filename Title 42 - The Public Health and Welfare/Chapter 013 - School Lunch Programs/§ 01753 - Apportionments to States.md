@@ -8,7 +8,7 @@
 
 &emsp;(B) the national average lunch payment prescribed in paragraph (2) of this subsection.
 
-(2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjusted pursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
+(2) The national average lunch payment for each lunch served shall be 10.5 cents (as adjustedpursuant to section 1759a(a) of this title) except that for each lunch served in school food authorities in which 60 percent or more of the lunches served in the school lunch program during the second preceding school year were served free or at a reduced price, the national average lunch payment shall be 2 cents more.
 
 (3)
 
@@ -86,7 +86,7 @@ In general.—In the later of the fiscal year in which the implementing regulati
 
 Reservation.—In providing funds to States under clause (i), the Secretary may reserve not more than $3,000,000 per fiscal year to support Federal administrative activities to carry out this paragraph.
 
-(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10,1989, 103 Stat. 913, 916; Pub. L. 111–296, title II, §201, Dec. 13, 2010, 124 Stat. 3214.)
+(June 4, 1946, ch. 281, §4, 60 Stat. 230; July 12, 1952, ch. 699, §1(a), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; Pub. L. 87–823, §2, Oct. 15, 1962, 76 Stat. 944; Pub. L. 92–433, §4(c), Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §2(a), Nov. 7, 1973, 87 Stat. 560; Pub. L. 97–35, title VIII, §§801(a), 819(g), Aug. 13, 1981, 95 Stat. 521, 533; Pub. L. 101–147, title III, §§301, 312(2), Nov. 10, 1989, 103 Stat. 913, 916; Pub. L. 111–296, title II, §201, Dec. 13, 2010, 124 Stat. 3214.)
 
 #### Amendments
 
@@ -170,7 +170,7 @@ Act July 12, 1952, ch. 699, §1(d), 66 Stat. 591, provided that: "The amendments
 
 #### Promulgation of Regulations
 
-Pub. L. 97–35, title VIII, §820(c), Aug. 13, 1981, 95 Stat. 535, provided that: "Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulations to implement the amendments made by this title \[see Tables for classification\]."
+Pub. L. 97–35, title VIII, §820(c), Aug. 13, 1981, 95 Stat. 535, provided that: "Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulationsto implement the amendments made by this title \[see Tables for classification\]."
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 

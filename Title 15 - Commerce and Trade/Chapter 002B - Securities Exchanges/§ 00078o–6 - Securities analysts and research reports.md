@@ -64,5 +64,5 @@ Pub. L. 112–106, title I, §105(d), Apr. 5, 2012, 126 Stat. 311, provided that
 
 #### Commission Authority
 
-Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: "The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest."
+Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: "The Commission may promulgateand amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest."
 

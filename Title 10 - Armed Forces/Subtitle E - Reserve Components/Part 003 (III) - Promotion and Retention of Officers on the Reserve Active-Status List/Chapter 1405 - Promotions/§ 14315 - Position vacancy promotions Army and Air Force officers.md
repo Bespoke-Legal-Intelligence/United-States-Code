@@ -4,7 +4,7 @@
 
 Officers Eligible for Consideration For Vacancy Promotions Below Brigadier General.—A reserve officer of the Army who is in the Army Reserve, or a reserve officer of the Air Force who is in the Air Force Reserve, who is on the reserve active-status list in the grade of first lieutenant, captain, major, or lieutenant colonel is eligible for consideration for promotion to the next higher grade under this section if each of the following applies:
 
-&emsp;(1) The officer is occupying or, under regulations prescribed by the Secretary concerned, has been recommended to occupy a position in the same competitive category as the officer and for which a grade higher than the one held by that officer is authorized.
+&emsp;(1) The officer is occupying or, under regulations prescribed by the Secretary concerned, has been recommended to occupy a position inthe same competitive category as the officer and for which a grade higher than the one held by that officer is authorized.
 
 &emsp;(2) The officer is fully qualified to meet all requirements for the position as established by the Secretary of the military department concerned.
 

@@ -4,6 +4,8 @@ No person, firm, or corporation shall sell, transport, offer for sale or transpo
 
 (Mar. 4, 1907, ch. 2907, title I, §19, formerly 17th par., 34 Stat. 1264; renumbered §19 and amended Pub. L. 90–201, §§1, 9, Dec. 15, 1967, 81 Stat. 584, 590; Pub. L. 109–97, title VII, §798\[(a)\](3), Nov. 10, 2005, 119 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 87 of this title.
@@ -14,11 +16,13 @@ Section was formerly classified to section 87 of this title.
 
 <b>1967</b>—Pub. L. 90–201, §9, substituted provisions for marking, labeling, or other identification of kinds of animals whence the articles are derived and for separate establishments for preparation and slaughtering activities for prohibition against transportation or sale of meat or meat food products without complying with inspection provisions. See section 610(b) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 2005, see section 798(b) of Pub. L. 109–97, set out as a note under section 601 of this title.
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L, 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses)and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration, of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L, 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration, of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 

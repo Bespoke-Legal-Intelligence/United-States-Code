@@ -10,7 +10,7 @@ Congress finds as follows:
 
 &emsp;(4) Federal budget limitations require solutions to National Forest System trail maintenance issues that make more efficient use of existing resources.
 
-&emsp;(5) Volunteers, partners, and outfitters and guides play an important role in maintainingNational Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
+&emsp;(5) Volunteers, partners, and outfitters and guides play an important role in maintaining National Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
 
 (Pub. L. 114–245, §2, Nov. 28, 2016, 130 Stat. 990.)
 

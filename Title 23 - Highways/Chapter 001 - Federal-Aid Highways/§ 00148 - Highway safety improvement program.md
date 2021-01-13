@@ -94,7 +94,7 @@ Model inventory of roadway elements.—The term "model inventory of roadway elem
 
 &emsp;(6)
 
-Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity" means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
+Project to maintain minimum levels of retroreflectivity.—The term "project to maintain minimum levels of retroreflectivity"means a project that is designed to maintain a highway sign or pavement marking retroreflectivity at or above the minimum levels prescribed in Federal or State regulations.
 
 &emsp;(7)
 
@@ -306,7 +306,7 @@ Requirements for approval.—The Secretary shall not approve the process for an 
 
 &emsp;(3)
 
-Penalty for failure to have an approved updated strategic highway safety plan.—If a State does not have an updated strategic highway safety plan with a process approved by the Secretary by August 1 of the fiscal year beginning after the date of establishment of the requirements under paragraph (1), the State shall not be eligible to receive any additional limitation pursuant to the redistribution of the limitation on obligations for Federal-aid highway and highway safety construction programs that occurs after August 1 for each succeeding fiscal year until the fiscal year during which the plan is approved.
+Penalty for failure to have an approved updated strategic highway safetyplan.—If a State does not have an updated strategic highway safety plan with a process approved by the Secretary by August 1 of the fiscal year beginning after the date of establishment of the requirements under paragraph (1), the State shall not be eligible to receive any additional limitation pursuant to the redistribution of the limitation on obligations for Federal-aid highway and highway safety construction programs that occurs after August 1 for each succeeding fiscal year until the fiscal year during which the plan is approved.
 
 (e)
 
@@ -416,7 +416,7 @@ Transparency.—The Secretary shall make strategic highway safety plans submitte
 
 &emsp;(4)
 
-Discovery and admission into evidence of certain reports, surveys, and information.—Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for any purpose relating to this section, shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location identified or addressed in the reports, surveys, schedules, lists, or other data.
+Discovery and admission into evidence of certain reports, surveys, and information.—Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for any purpose relatingto this section, shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location identified or addressed in the reports, surveys, schedules, lists, or other data.
 
 (i)
 
@@ -457,6 +457,8 @@ In general.—A State may elect not to collect fundamental data elements for the
 Rule of construction.—Nothing in this subsection may be construed to allow a State to cease data collection related to serious injuries or fatalities.
 
 (Added Pub. L. 93–87, title I, §129(b), Aug. 13, 1973, 87 Stat. 265; amended Pub. L. 95–599, title I, §§125, 129(d), Nov. 6, 1978, 92 Stat. 2705, 2707; Pub. L. 109–59, title I, §1401(a)(1), Aug. 10, 2005, 119 Stat. 1219; Pub. L. 112–141, div. A, title I, §1112(a), July 6, 2012, 126 Stat. 450; Pub. L. 114–94, div. A, title I, §§1113(a), 1406(b), Dec. 4, 2015, 129 Stat. 1347, 1410.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -505,6 +507,8 @@ Subsec. (k). Pub. L. 114–94, §1113(a)(4), added subsec. (k).
 Subsec. (e). Pub. L. 95–599, §129(d), substituted "75 per centum" for "70 per centum".
 
 Subsec. (h). Pub. L. 95–599, §125(a), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -36,7 +36,7 @@ The Commissioner of Social Security shall establish by regulation criteria for t
 
 (B) In carrying out subparagraph (A), the Commissioner of Social Security shall, to the extent feasible, select for review the determinations which the Commissioner of Social Security identifies as being the most likely to be incorrect.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 93–66, title II, §214, July 9, 1973, 87 Stat. 158; Pub. L. 98–460, §6(b), Oct. 9, 1984, 98 Stat. 1802; Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), Aug. 15, 1994, 108 Stat. 1478, 1508; Pub. L. 106–170, title I, §101(b)(2)(D), Dec. 17, 1999, 113 Stat. 1874; Pub. L. 109–171, title VII, §7501, Feb. 8, 2006, 120 Stat. 154.)
+(Aug. 14, 1935, ch. 531, title XVI, §1633, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 93–66, title II, §214, July 9, 1973, 87 Stat. 158; Pub. L. 98–460, §6(b), Oct. 9, 1984, 98 Stat. 1802; Pub. L. 103–296, title I, §107(a)(4), title II, §203(a), Aug. 15, 1994, 108 Stat.1478, 1508; Pub. L. 106–170, title I, §101(b)(2)(D), Dec. 17, 1999, 113 Stat. 1874; Pub. L. 109–171, title VII, §7501, Feb. 8, 2006, 120 Stat. 154.)
 
 #### Amendments
 

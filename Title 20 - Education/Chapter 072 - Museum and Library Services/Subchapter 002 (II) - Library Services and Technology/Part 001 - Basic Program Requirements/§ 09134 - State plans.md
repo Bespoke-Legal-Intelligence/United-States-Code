@@ -12,7 +12,7 @@
 
 #### (3) Revisions
 
-&emsp;If a State library administrative agency makes a substantive revision to its State plan,then the State library administrative agency shall submit to the Director an amendment to the State plan containing such revision not later than April 1 of the fiscal year preceding the fiscal year for which the amendment will be effective.
+&emsp;If a State library administrative agency makes a substantive revision to its State plan, then the State library administrative agency shall submit to the Director an amendment to the State plan containing such revision not later than April 1 of the fiscal year preceding the fiscal year for which the amendment will be effective.
 
 #### (b) Contents
 
@@ -90,7 +90,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;(A) such library—
 
-&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against accessthrough such computers to visual depictions that are—
+&emsp;&emsp;&emsp;(i) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) obscene;
 
@@ -134,7 +134,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put inplace an Internet safety policy that meets such requirements; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
@@ -162,7 +162,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (C) Recommencement of payments
 
-&emsp;&emsp;Whenever the Director determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under subparagraph (A)(i) has cured the failureproviding the basis for the withholding of payments, the Director shall cease the withholding of payments to the recipient under that subparagraph.
+&emsp;&emsp;Whenever the Director determines (whether by certification or other appropriate evidence) that a recipient of funds who is subject to the withholding of payments under subparagraph (A)(i) has cured the failure providing the basis for the withholding of payments, the Director shall cease the withholding of payments to the recipient under that subparagraph.
 
 #### (6) Separability
 
@@ -202,7 +202,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§6641 et seq.) and 3 (§6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§7101 et seq.) and B (§7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§6641 et seq.) and 3 (§6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§7101 et seq.) and B (§7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under section 3101 of Title 29 and Tables.
 

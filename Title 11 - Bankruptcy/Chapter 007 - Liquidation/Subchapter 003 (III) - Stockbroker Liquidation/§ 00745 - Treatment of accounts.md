@@ -18,6 +18,8 @@ Subsection (b) indicates that a bank or another stockbroker that is a customer o
 
 Subsection (c) effects the same result with respect to a trust so that each beneficiary is treated as the customer of the debtor rather than the trust itself. This eliminates any doubt whether a trustee holds a personal account in a separate capacity from his trustee's account.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
@@ -29,6 +31,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified gen
 <b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "the debtor for" after "by".
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–222 substituted "Each" for "A".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

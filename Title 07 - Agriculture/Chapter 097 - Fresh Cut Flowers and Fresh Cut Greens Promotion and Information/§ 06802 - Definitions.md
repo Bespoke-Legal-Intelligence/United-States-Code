@@ -60,7 +60,7 @@ As used in this chapter:
 
 #### (III) Transportation or delivery
 
-&emsp;&emsp;&emsp;&emsp;The term "qualified handler" does not include a person who only physicallytransports or delivers cut flowers or cut greens.
+&emsp;&emsp;&emsp;&emsp;The term "qualified handler" does not include a person who only physically transports or delivers cut flowers or cut greens.
 
 #### (iii) Construction
 

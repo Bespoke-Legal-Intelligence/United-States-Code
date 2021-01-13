@@ -44,7 +44,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3031\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement.md) | Time limitation for use of eligibility and entitlement. |
+| [3031\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement%201.md) | Time limitation for use of eligibility and entitlement. |
 | [3032\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003032%20-%20Limitations%20on%20educational%20assistance%20for%20certain%20individuals.md) | Limitations on educational assistance for certain individuals. |
 | [3033\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003033%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md) | Bar to duplication of educational assistance benefits. |
 | [3034\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003034%20-%20Program%20administration.md) | Program administration. |
@@ -52,6 +52,8 @@
 | \[3036. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

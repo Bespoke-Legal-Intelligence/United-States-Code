@@ -30,7 +30,7 @@
 
 #### (2) Certification
 
-&emsp;Upon receiving a notice from a State under paragraph (1), the chair of the Federal Election Commission shall publish a certification that the selected State election official and the representative local election official are appointed as members of the Standards Board under this subchapter.
+&emsp;Upon receiving a notice from a State under paragraph (1), the chair of the Federal Election Commission shall publish a certificationthat the selected State election official and the representative local election official are appointed as members of the Standards Board under this subchapter.
 
 #### (3) Effect of failure to provide notice
 
@@ -73,6 +73,8 @@
 &emsp;In addition to any other duties assigned under this subchapter, the Executive Board of the Standards Board may carry out such duties of the Standards Board as the Standards Board may delegate.
 
 (Pub. L. 107–252, title II, §213, Oct. 29, 2002, 116 Stat. 1678.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

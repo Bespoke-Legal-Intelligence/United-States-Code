@@ -74,7 +74,7 @@
 | :--- | ---: |
 | [8251\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008251%20-%20Findings.md) | Findings. |
 | [8252\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008252%20-%20Purpose.md) | Purpose. |
-| [8253\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008253%20-%20Energy%20management%20requirements.md) | Energy management requirements. |
+| [8253\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008253%20-%20Energy%20and%20water%20management%20requirements.md) | Energy and water management requirements. |
 | [8254\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008254%20-%20Establishment%20and%20use%20of%20life%20cycle%20cost%20methods%20and%20procedures.md) | Establishment and use of life cycle cost methods and procedures. |
 | [8255\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008255%20-%20Budget%20treatment%20for%20energy%20conservation%20measures.md) | Budget treatment for energy conservation measures. |
 | [8256\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008256%20-%20Incentives%20for%20agencies.md) | Incentives for agencies. |

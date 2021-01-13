@@ -20,7 +20,7 @@ Regulations relating to framework closing date.—
 
 In general.—In promulgating regulations under subsection (a) relating to the Federal framework for the closing date up to which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B), adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), adopt the recommendation of each respective flywaycouncil (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
 
 &emsp;&emsp;&emsp;(ii) allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
 
@@ -76,12 +76,6 @@ Act June 20, 1936, ch. 634, §2, 49 Stat. 1556, provided in part that the amendm
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan, No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
-#### Delegation of Functions
-
-For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
-
-Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
-
 #### Baiting of Migratory Game Birds
 
 Pub. L. 115–334, title XII, §12601, Dec. 20, 2018, 132 Stat. 5003, provided that:
@@ -116,9 +110,15 @@ Reports.—Not less frequently than once each year—
 
 &emsp;"(1) the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural operations across the range of crops grown by agricultural producers in each region of the United States in which the official recommendations described in section 20.11(h) of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act), are provided to agricultural producers; and
 
-&emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service, shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
+&emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service,shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
 
 #### Report on Effects of 1998 Amendments
 
 Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, directed that no later than 5 years after Oct. 30, 1998, the Secretary of the Interior submit to the appropriate Senate and House committees a report analyzing the effect of certain amendments made by Pub. L. 105–312, and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).
+
+#### Delegation of Functions
+
+For delegation to Secretary of the Interior of authority vested in President, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
+
+Secretary of the Interior empowered to promulgate regulations under this section without approval, ratification, or other action of President, see section 2(b) of Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, set out as a note under section 301 of Title 3, The President.
 

@@ -2,7 +2,7 @@
 
 #### (a) Freedom from corrupt influences and influences opposed to basic democratic principles
 
-The Department shall accord recognition only to a labor organization that is free from corruptinfluences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
+The Department shall accord recognition only to a labor organization that is free from corrupt influences and influences opposed to basic democratic principles. Except as provided in subsection (b), an organization is not required to prove that it is free from such influences if it is subject to a governing requirement adopted by the organization or by a national or international labor organization or federation of labor organizations with which it is affiliated, or in which it participates, containing explicit and detailed provisions to which it subscribes calling for—
 
 &emsp;(1) the maintenance of democratic procedures and practices, including—
 
@@ -30,7 +30,7 @@ A labor organization which has or seeks recognition as a representative of emplo
 
 #### (d) Regulations; filing of complaints; cease and desist orders
 
-The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
+The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with theAssistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
 
 #### (e) Participation in labor organizations restricted
 
@@ -66,9 +66,11 @@ If the Board finds that any labor organization has willfully and intentionally v
 
 (Pub. L. 96–465, title I, §1017, Oct. 17, 1980, 94 Stat. 2140; Pub. L. 103–236, title I, §171, Apr. 30, 1994, 108 Stat. 411; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2315, Oct. 21, 1998, 112 Stat. 2681–828.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1998</b>—Subsec. (e)(2). Pub. L. 105–277 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term 'management official' shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad."
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–277 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For the purposes of paragraph (1)(A)(ii) and paragraph (1)(B), the term 'management official' shall not include chiefs of mission, principal officers and their deputies, and administrative and personnel officers abroad."
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–236 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "This subchapter does not authorize participation in the management of a labor organization or acting as a representative of a labor organization by a management official, a confidential employee, or any other employee if the participation or activity would result in a conflict or apparent conflict of interest or would otherwise be incompatible with law or with the official functions of such management official or such employee."
 

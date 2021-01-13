@@ -12,7 +12,7 @@ All decisions pertaining to the hiring, firing, and fixing of pay of personnel o
 
 &emsp;(2) the Chairman and Cochairman shall each have the authority to appoint, with the approval of the personnel and administration committee, at least four professional staff members who shall be responsible to the Chairman or the Cochairman (as the case may be) who appointed them.
 
-> Subject to subsection (d), the personnel and administration committee may appoint and fix the pay of such other personnel as it considers desirable.
+> Subject to subsection (d), the personnel and administration committee may appoint and fix thepay of such other personnel as it considers desirable.
 
 #### (c) Staff appointments
 
@@ -33,6 +33,8 @@ The personnel and administration committee shall ensure that the professional st
 &emsp;For purposes of section 3304(c)(1) <sup>1</sup> of title 5, employees of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Clerk of the House of Representatives.
 
 (Pub. L. 106–286, div. B, title III, §308, Oct. 10, 2000, 114 Stat. 899.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

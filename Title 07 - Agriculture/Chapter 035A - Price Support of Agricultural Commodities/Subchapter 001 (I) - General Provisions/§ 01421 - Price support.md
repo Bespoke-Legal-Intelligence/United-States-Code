@@ -14,13 +14,13 @@ Compliance by the producer with acreage allotments, production goals and marketi
 
 #### (d) Time of determining levels
 
-The level of price support for any commodity shall be determined upon the basis of its parityprice as of the beginning of the marketing year or season in the case of any commodity marketed on a marketing year or season basis and as of January 1 in the case of any other commodity.
+The level of price support for any commodity shall be determined upon the basis of its parity price as of the beginning of the marketing year or season in the case of any commodity marketed on a marketing year or season basis and as of January 1 in the case of any other commodity.
 
 #### (e) Processors' assurances; payment if assurances inadequate
 
 (1) Whenever any price support or surplus removal operation for any agricultural commodity is carried out through purchases from or loans or payments to processors, the Secretary shall, to the extent practicable, obtain from the processors such assurances as he deems adequate that the producers of the agricultural commodity involved have received or will receive maximum benefits from the price support or surplus removal operation.
 
-(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers such maximum benefits less benefits previously received by such producers.
+(2)(A) If the assurances under paragraph (1) are not adequate to cause the producers of sugar beets and sugarcane, because of the bankruptcy or other insolvency of the processor, to receive maximum benefits from the price support program within 30 days after the final settlement date provided for in the contract between such producers and processor, the Secretary, on demand made by such producers and on such assurances as to nonpayment as the Secretary shall require, shall pay such producers suchmaximum benefits less benefits previously received by such producers.
 
 (B) On such payment, the Secretary shall—
 
@@ -104,7 +104,7 @@ In general.—The amendment made by section 903(3) of this Act \[amending sectio
 
 &emsp;&emsp;&emsp;"(i) the date of enactment of this Act \[Dec. 13, 1991\];
 
-&emsp;&emsp;&emsp;"(ii) October 1, 1990, for supplemental nutrition assistance program benefits households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
+&emsp;&emsp;&emsp;"(ii) October 1, 1990, for supplemental nutrition assistance program benefits households for which the State agency knew, or had notice, that a member of the household had a plan for achieving self-support as provided under section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv)); or
 
 &emsp;&emsp;&emsp;"(iii) beginning on the date that a fair hearing was requested under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) contesting the denial of an exclusion for supplemental nutrition assistance program benefits purposes for amounts necessary for the fulfillment of such a plan for achieving self-support.
 
@@ -184,7 +184,7 @@ Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: "That this Act \[
 
 Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: "This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the 'Dairy Production Stabilization Act of 1983'."
 
-Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: "This title \[enacting section 511r of this title, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the 'Tobacco Adjustment Act of 1983'."
+Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: "This title \[enacting section 511r of thistitle, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the 'Tobacco Adjustment Act of 1983'."
 
 Pub. L. 98–88, §1, Aug. 26, 1983, 97 Stat. 494, provided: "That this Act \[amending sections 1308, 1427, 1441, and 1444 of this title, repealing section 1347 of this title, and enacting provisions set out as notes under sections 1342, 1347, and 1444 of this title\] may be cited as the 'Extra Long Staple Cotton Act of 1983'."
 
@@ -258,7 +258,7 @@ Pub. L. 106–224, title II, subtitle A, June 20, 2000, 114 Stat. 398, as amende
 
 Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided for an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78, formerly set out in a note below.
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
+Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L.106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
 
 Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title I, §102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided for emergency market loss payments and other disaster assistance to producers of crops and livestock in 1999.
 
@@ -294,7 +294,7 @@ Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized 
 
 #### Recordkeeping Improvement
 
-Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as "Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate variousdata bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as "Agricultural Program Reporting and Recordkeeping Improvement Act of 1990", directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 #### Readjustment of Support Levels
 
@@ -302,7 +302,7 @@ Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amende
 
 #### Repayment of Advance Deficiency Payments
 
-Pub. L. 101–220, §14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat, feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (set out below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
+Pub. L. 101–220, §14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat,feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (set out below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
 
 #### Pilot Project on Clean Grain Premiums
 

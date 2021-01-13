@@ -12,6 +12,8 @@ Any rates or terms under this title that—
 
 (Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2360.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 805 to 810 were repealed by Pub. L. 103–198, §2(e), Dec. 17, 1993, 107 Stat. 2308.

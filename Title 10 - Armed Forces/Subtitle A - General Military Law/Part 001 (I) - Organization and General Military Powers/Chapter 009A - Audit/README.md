@@ -10,11 +10,14 @@
 | [240f.](%C2%A7%2000240f%20-%20Audits%20selection%20of%20service%20providers%20for%20audit%20services.md) | Audits: selection of service providers for audit services. |
 | [240g.](%C2%A7%2000240g%20-%20Defense%20Business%20Audit%20Remediation%20Plan.md) | Defense Business Audit Remediation Plan. |
 | [240h.](%C2%A7%2000240h%20-%20Annual%20report%20on%20auditable%20financial%20statements.md) | Annual report on auditable financial statements. |
+| [240i.](%C2%A7%2000240i%20-%20Annual%20report%20on%20unfunded%20priorities.md) | Annual report on unfunded priorities. |
 | \[251 to 254b. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1005(b)(2), Jan. 1, 2021, 134 Stat. 3838, added item 240i.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title X, §§1002(b), 1004(a)(2), Dec. 20, 2019, 133 Stat. 1571, 1573, added items 240g and 240h.
 
@@ -33,4 +36,5 @@
 - [&sect; 00240f - Audits selection of service providers for audit services](%C2%A7%2000240f%20-%20Audits%20selection%20of%20service%20providers%20for%20audit%20services.md)
 - [&sect; 00240g - Defense Business Audit Remediation Plan](%C2%A7%2000240g%20-%20Defense%20Business%20Audit%20Remediation%20Plan.md)
 - [&sect; 00240h - Annual report on auditable financial statements](%C2%A7%2000240h%20-%20Annual%20report%20on%20auditable%20financial%20statements.md)
+- [&sect; 00240i - Annual report on unfunded priorities](%C2%A7%2000240i%20-%20Annual%20report%20on%20unfunded%20priorities.md)
 - [&sect; 00251 to 254b - Renumbered &sect;&sect;240a to 240f](%C2%A7%2000251%20to%20254b%20-%20Renumbered%20%C2%A7%C2%A7240a%20to%20240f.md)

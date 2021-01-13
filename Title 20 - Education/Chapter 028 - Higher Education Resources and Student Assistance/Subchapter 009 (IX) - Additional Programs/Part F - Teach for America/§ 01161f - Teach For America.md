@@ -70,7 +70,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 #### (C) Requirements
 
-&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years, and each such study shall include multiple placement sites and multiple schools within placement sites.
+&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years,and each such study shall include multiple placement sites and multiple schools within placement sites.
 
 #### (D) Peer review standards
 

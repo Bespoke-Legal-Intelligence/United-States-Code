@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, not later than 2 years after November 27, 2013, establish by regulation standards for the licensing of persons under section 353(e)(1) of this title, including the revocation, reissuance, and renewal of such license.
+The Secretary shall, not later than 2 years after November 27, 2013, establish by regulationstandards for the licensing of persons under section 353(e)(1) of this title, including the revocation, reissuance, and renewal of such license.
 
 #### (b) Content
 
@@ -51,6 +51,8 @@ The Secretary, in promulgating any regulation pursuant to this section, shall, n
 &emsp;(3) provide that the final regulation take effect on the date that is 2 years after the date such final regulation is published.
 
 (June 25, 1938, ch. 675, §583, as added Pub. L. 113–54, title II, §204(a)(5), Nov. 27, 2013, 127 Stat. 634.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

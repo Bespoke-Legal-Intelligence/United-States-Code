@@ -6,7 +6,7 @@
 
 (c) The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 904; May 24, 1949, ch. 139, §68, 63 Stat. 99; Oct. 31, 1951, ch. 655, §41,65 Stat. 725; July 10, 1952, ch. 632, §4, 66 Stat. 540; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(June 25, 1948, ch. 646, 62 Stat. 904; May 24, 1949, ch. 139, §68, 63 Stat. 99; Oct. 31, 1951, ch. 655, §41, 65 Stat. 725; July 10, 1952, ch. 632, §4, 66 Stat. 540; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,7 @@ Based on title 28, U.S.C., 1940 ed., §334 (Mar. 3, 1911, ch. 231, §227, 36 Sta
 
 Requirements for printing, binding, and issuing Supreme Court decisions "within eight months after said decisions have been rendered by the Supreme Court" and provision for distribution "within said period" were omitted. The phrase "as soon as practicable after rendition" was made the time for publishing such decisions as more flexible and practicable.
 
-The words "the United States Court for China" were omitted inasmuch as that court is no longer functioning. The Secretary of State by an arrangement with China has relinquished the extraterritorial jurisdiction previously exercised by the United States in China. The 1944 Legislative and Judiciary Appropriation Act approved June 28, 1943, made no appropriation for the United States Court for China. Appropriations for other courts were made in title II of chapter 173 (57 Stat. 241). The last appropriation for the United States Court for China was in the act of July 2, 1942 (ch. 472, title IV, 56 Stat. 502).
+The words "the United States Court for China" were omitted inasmuch as that court is no longer functioning. The Secretary of State by an arrangementwith China has relinquished the extraterritorial jurisdiction previously exercised by the United States in China. The 1944 Legislative and Judiciary Appropriation Act approved June 28, 1943, made no appropriation for the United States Court for China. Appropriations for other courts were made in title II of chapter 173 (57 Stat. 241). The last appropriation for the United States Court for China was in the act of July 2, 1942 (ch. 472, title IV, 56 Stat. 502).
 
 The words "to the Secretary of War for the use of the proper courts and officers of the Philippine Islands, seven copies" were omitted in view of the independence of the Philippines, effective July 4, 1946.
 
@@ -46,6 +46,8 @@ It substitutes, in such section 411(a), "Director of the Bureau of Land Manageme
 
 Subsection (b) of this section redesignates, in section 411(b) of title 28, U.S.C., the Secretary of War as "Secretary of the Army," for the reasons stated above, and corrects a typographical error in the word "court-martial".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1952</b>—Act July 10, 1952, amended section generally to provide for flexibility in the printing and distribution of the reports under congressional control.
@@ -55,6 +57,8 @@ Subsection (b) of this section redesignates, in section 411(b) of title 28, U.S.
 <b>1949</b>—Subsec. (a). Act May 24, 1949, §68(a), inserted "Secretary of Defense", "Secretary of the Air Force", and "Judge Advocate General of the Air Force" where appearing, and substituted "Secretary of the Army" for "Secretary of War", "Department of the Army" for "War Department", "Director of the Bureau of Land Management" for "Commissioner of the General Land Office", "Commissioner of Customs, Commandant of the Coast Guard" for "Chief of the Bureau of Marine Inspection", and "Chief of Forest Service, Department of Agriculture" for "Chief Forester, National Park Service, Department of the Interior".
 
 Subsec. (b). Act May 24, 1949, §68(b), substituted "Secretary of the Army" for "Secretary of War" and "Court-martial" for "courtmartial".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -142,7 +142,7 @@ Act June 30, 1955, extended termination date from June 30, 1955, to July 31, 195
 
 <b>1953</b>—Subsec. (a). Act June 30, 1953, ch. 171, §11, extended termination date of subchapters I to III from June 30, 1953, to June 30, 1955.
 
-Subsec. (c). Act June 30, 1953, ch. 171, §12, inserted "or the taking of any action (including the making of new guarantees) deemed by a guaranteeing agency to be necessary to accomplish the orderly liquidation, adjustment or settlement of any loans guaranteed under this chapter, including actions deemed necessary to avoid undue hardship to borrowers in reconverting tonormal civilian production; and all of the authority granted to the President, guaranteeing agencies, and fiscal agents, under section 4531 of this title shall be applicable to actions taken pursuant to the authority contained in this subsection".
+Subsec. (c). Act June 30, 1953, ch. 171, §12, inserted "or the taking of any action (including the making of new guarantees) deemed by a guaranteeing agency to be necessary to accomplish the orderly liquidation, adjustment or settlement of any loans guaranteed under this chapter, including actions deemed necessary to avoid undue hardship to borrowers in reconverting to normal civilian production; and all of the authority granted to the President, guaranteeing agencies, and fiscal agents, under section 4531 of this title shall be applicable to actions taken pursuant to the authority contained in this subsection".
 
 Act June 30, 1953, ch. 170, added second par.
 

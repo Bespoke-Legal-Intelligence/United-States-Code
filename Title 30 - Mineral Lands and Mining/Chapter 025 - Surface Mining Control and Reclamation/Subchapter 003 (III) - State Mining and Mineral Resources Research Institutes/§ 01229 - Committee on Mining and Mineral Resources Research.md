@@ -24,7 +24,7 @@ The Committee shall consult with, and make recommendations to, the Secretary on 
 
 #### (c) Compensation, travel, subsistence and related expenses
 
-Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5,and shall be fully reimbursed for travel, subsistence, and related expenses.
+Committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing Committee business, paid at a rate fixed by the Secretary but not <sup>1</sup> excess of the daily equivalent of the maximum rate of pay for grade GS–18 of the General Schedule under section 5332 of title 5, and shall be fully reimbursed for travel, subsistence, and related expenses.
 
 #### (d) Chairmanship of Committee
 
@@ -38,7 +38,9 @@ The Committee shall develop a national plan for research in mining and mineral r
 
 Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 98–409, §9, Aug. 29, 1984, 98 Stat. 1540; Pub. L. 100–483, §§8, 9, Oct. 12, 1988, 102 Stat. 2340;Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ A prior section 1229, Pub. L. 95–87, title III, §309, Aug. 3, 1977, 91 Stat. 
 <b>1988</b>—Subsec. (a)(7). Pub. L. 100–483, §8, substituted "7 other persons" for "six other persons", "this subchapter, 3" for "section 301 of the Surface Mining Control and Reclamation Act of 1977, two", and "7 appointments" for "six appointments".
 
 Subsec. (e). Pub. L. 100–483, §9, substituted "submit an annual update of such plan by January 15 of each calendar year" for "update the plan annually thereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

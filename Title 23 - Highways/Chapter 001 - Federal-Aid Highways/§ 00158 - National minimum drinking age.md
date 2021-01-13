@@ -36,6 +36,8 @@ Alcoholic Beverage Defined.—As used in this section, the term "alcoholic bever
 
 (Added Pub. L. 98–363, §6(a), July 17, 1984, 98 Stat. 437; amended Pub. L. 99–272, title IV, §4104, Apr. 7, 1986, 100 Stat. 114; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–178, title I, §1103(l)(2), June 9, 1998, 112 Stat. 125; Pub. L. 112–141, div. A, title I, §1404(f), July 6, 2012, 126 Stat. 558.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104 of this title, referred to in subsec. (a)(1)(A), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
@@ -48,7 +50,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is set out in Tit
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(l)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "In general" for "After the first year" in heading and "104(b)(3), and 104(b)(4)" for "104(b)(2), 104(b)(5),and 104(b)(6)" in text, and struck out former par. (1) which read as follows:
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §1103(l)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted "In general" for "After the first year" in heading and "104(b)(3), and 104(b)(4)" for "104(b)(2), 104(b)(5), and 104(b)(6)" in text, and struck out former par. (1) which read as follows:
 
 "(1)
 
@@ -71,6 +73,8 @@ Subsec. (b). Pub. L. 99–272, §4104(c), amended subsec. (b) generally. Prior t
 Subsec. (c). Pub. L. 99–272, §4104(d)(6), added subsection heading.
 
 Subsec. (c)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

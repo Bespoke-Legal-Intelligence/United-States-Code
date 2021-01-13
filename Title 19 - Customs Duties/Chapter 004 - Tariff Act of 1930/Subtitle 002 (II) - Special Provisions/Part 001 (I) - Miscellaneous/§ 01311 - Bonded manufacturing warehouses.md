@@ -18,15 +18,15 @@ Articles manufactured under these provisions may be withdrawn under such regulat
 
 The provisions of section 3433 of the Revised Statutes shall, so far as may be practicable, apply to any bonded manufacturing warehouse established under this chapter and to the merchandise conveyed therein.
 
-Distilled spirits and wines which are rectified in bonded manufacturing warehouses, class six, and distilled spirits which are reduced in proof and bottled in such warehouses, shall be deemed to have been manufactured within the meaning of this section, and may be withdrawn as hereinbefore provided, and likewise for shipment in bond to Puerto Rico, subject to the provisions of this section, and under such regulations as the Secretary of the Treasury may prescribe, there to be withdrawn for consumption or be rewarehoused and subsequently withdrawn for consumption: <i>Provided</i>, That upon withdrawal inPuerto Rico for consumption, the duties imposed by the customs laws of the United States shall be collected on all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines in such warehouses.
+Distilled spirits and wines which are rectified in bonded manufacturing warehouses, class six, and distilled spirits which are reduced in proof and bottled in such warehouses, shall be deemed to have been manufactured within the meaning of this section, and may be withdrawn as hereinbefore provided, and likewise for shipment in bond to Puerto Rico, subject to the provisions of this section, and under such regulations as the Secretary of the Treasury may prescribe, there to be withdrawn for consumption or be rewarehoused and subsequently withdrawn for consumption: <i>Provided</i>, That upon withdrawal in Puerto Rico for consumption, the duties imposed by the customs laws of the United States shall be collected on all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines in such warehouses.
 
-No article manufactured in a bonded warehouse from materials that are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, may be withdrawn from warehouse for exportation to a NAFTA country, as defined in section 3301(4) of this title, without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the article, the customs duty may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+No article manufactured in a bonded warehouse from materials that are goods subject to drawback,<sup>1</sup> as defined in section 4534(a) of this title, may be withdrawn from warehouse for exportation to a country,<sup>1</sup> as defined in section 4502 of this title, without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the country <sup>1</sup> on the article, the customs duty may be waived or reduced (subject to section 4534(e) of this title) in an amount that does not exceed the lesser of—
 
 &emsp;(1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
 
-&emsp;(2) the total amount of customs duties paid on the article to the NAFTA country.
+&emsp;(2) the total amount of customs duties paid on the article to the country.<sup>1</sup>
 
-> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
+> If Canada ceases to be a country <sup>1</sup> and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
 
 No article manufactured in a bonded warehouse from materials that are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, may be withdrawn from warehouse for exportation to Chile without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that the duty may be waived or reduced by—
 
@@ -38,7 +38,7 @@ No article manufactured in a bonded warehouse from materials that are goods subj
 
 &emsp;(4) 25 percent during the 1-year period beginning on January 1, 2014.
 
-(June 17, 1930, ch. 497, title III, §311, 46 Stat. 691; June 26, 1936, ch. 830, title IV, §404, 49 Stat. 1960; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295; Pub. L. 97–446, title II, §202, Jan. 12, 1983, 96 Stat. 2350; Pub. L. 100–449, title II, §204(c)(1), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(1), Dec. 8, 1993, 107 Stat. 2088; Pub. L. 108–77, title II, §203(b)(1), Sept. 3, 2003, 117 Stat. 925.)
+(June 17, 1930, ch. 497, title III, §311, 46 Stat. 691; June 26, 1936, ch. 830, title IV, §404, 49 Stat. 1960; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295; Pub. L. 97–446, title II, §202, Jan. 12, 1983, 96 Stat. 2350; Pub. L. 100–449, title II, §204(c)(1), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(1), Dec. 8, 1993, 107 Stat. 2088; Pub. L. 108–77, title II, §203(b)(1), Sept. 3, 2003, 117 Stat. 925; Pub. L. 116–113, title V, §501(e)(1), Jan. 29, 2020, 134 Stat. 68; Pub. L. 116–260, div. O, title VI, §601(c)(2)(A)(i), Dec. 27, 2020, 134 Stat. 2150.)
 
 #### Amendment of Section
 
@@ -52,6 +52,8 @@ Act March 24, 1874, referred to in text, which provided that "importers' bonded 
 
 R.S. §3433, referred to in text, was amended by act Feb. 27, 1877, ch. 69, 19 Stat. 248. The provisions of R.S. §3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of act Oct. 1, 1890, ch. 1244, 26 Stat. 614. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal Revenue Code of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See section 5521 of Title 26, Internal Revenue Code.
 
+The terms "drawback" and "country", referred to in text, are not defined in sections 4534(a) and 4502 of this title. However, the terms "USMCA drawback" and "USMCA country" are defined in those two sections, respectively. Amendment by section 501(e)(1)(A) of Pub. L. 116–113 struck out "NAFTA" before those terms but did not insert "USMCA". See 2020 Amendment note below.
+
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in text, is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
 Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in text, is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
@@ -60,15 +62,21 @@ Section 203(a) of the United States-Chile Free Trade Agreement Implementation Ac
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, M, 38 Stat. 197, which was superseded by act Sept. 21, 1922, ch. 356, title III, §311, 42 Stat. 938, and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 88, which superseded those of the Dingley Tariff Act of July 24, 1897, ch. 11, §15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §9, 28 Stat. 548.
+Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 88, which supersededthose of the Dingley Tariff Act of July 24, 1897, ch. 11, §15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §9, 28 Stat. 548.
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–260, in eleventh par., substituted "(subject to section 4534(e) of this title)" for "(subject to section 1508(b)(2)(B) of this title)".
+
+Pub. L. 116–113, §501(e)(1)(B), (C), in eleventh par., substituted "section 4534(a) of this title" for "section 3333(a) of this title" and "section 4502 of this title" for "section 3301(4) of this title" in introductory provisions.
+
+Pub. L. 116–113, §501(e)(1)(A), in eleventh par., struck out "NAFTA" before "drawback" in introductory provisions and before "country" in introductory provisions in two places, in par. (2), and in concluding provisions.
 
 <b>2003</b>—Pub. L. 108–77, §§107(c), 203(b)(1), temporarily added par. at end relating to goods subject to Chile FTA drawback. See Effective and Termination Dates of 2003 Amendment note below.
 
 <b>1993</b>—Pub. L. 103–182 amended last par. generally. Prior to amendment, last par. read as follows: "No article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation."
 
-<b>1988</b>—Pub. L. 100–449 temporarily added par. at end relating to articles withdrawn for exportation to Canada on and after Jan. 1, 1994, and to drawback-eligible goods under the United States-Canada Free-Trade AgreementImplementation Act of 1988. See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Pub. L. 100–449 temporarily added par. at end relating to articles withdrawn for exportation to Canada on and after Jan. 1, 1994, and to drawback-eligible goods under the United States-Canada Free-Trade Agreement Implementation Act of 1988. See Effective and Termination Dates of 1988 Amendment note below.
 
 <b>1983</b>—Pub. L. 97–446 struck out "at an exterior port" after "bonded warehouse" and "immediate" after "sole purpose of" in eighth par.
 
@@ -78,13 +86,19 @@ Section IV, M, of the act of 1913 superseded previous similar provisions of the 
 
 <b>1936</b>—Act June 26, 1936, inserted par. at end relating to distilled spirits and wine.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, see section 501(g) of Pub. L. 116–113, set out as a note under section 81c of this title.
+
 #### Effective and Termination Dates of 2003 Amendment
 
 Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -105,4 +119,6 @@ Functions of all other officers of Department of the Treasury and functions of a
 #### Withdrawal of Distilled Spirits to Manufacturing Bonded Warehouses; Transfers to Warehouses Pending Exportation
 
 Pub. L. 96–39, title VIII, §856(a), July 26, 1979, 93 Stat. 295, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of articles described in section 5522(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 5522(a)\] (as in effect before its repeal by section 807(a)(50) of the Distilled Spirits Tax Revision Act of 1979 \[section 807(50) of Pub. L. 96–39\]) the first sentence of the eighth paragraph of section 311 of the Tariff Act of 1930 (19 U.S.C. 1311) shall be applied as if such first sentence did not include the phrase 'at an exterior port'."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

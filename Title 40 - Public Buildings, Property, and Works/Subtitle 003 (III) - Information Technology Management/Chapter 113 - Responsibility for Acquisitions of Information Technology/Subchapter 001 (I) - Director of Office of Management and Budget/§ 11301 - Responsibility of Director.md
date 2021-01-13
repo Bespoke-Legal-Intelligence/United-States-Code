@@ -20,6 +20,210 @@ Historical and Revision Notes
 
 Pub. L. 104–106, div. E, title LI, §5111, Feb. 10, 1996, 110 Stat. 680.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### AI in Government
+
+Pub. L. 116–260, div. U, title I, Dec. 27, 2020, 134 Stat. 2286, provided that:
+
+#### "SEC. 101. SHORT TITLE.
+
+"This title may be cited as the 'AI in Government Act of 2020'.
+
+#### "SEC. 102. DEFINITIONS.
+
+"In this Act \[probably means "this title"\]—
+
+&emsp;"(1) the term 'Administrator' means the Administrator of General Services;
+
+&emsp;"(2) the term 'agency' has the meaning given the term in section 3502 of title 44, United States Code;
+
+&emsp;"(3) the term 'AI CoE' means the AI Center of Excellence described in section 103;
+
+&emsp;"(4) the term 'artificial intelligence' has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 2358 note);
+
+&emsp;"(5) the term 'Director' means the Director of the Office of Management and Budget;
+
+&emsp;"(6) the term 'institution of higher education' has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001); and
+
+&emsp;"(7) the term 'nonprofit organization' means an organization described in section 501(c)(3)of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of that Code \[26 U.S.C. 501(a)\].
+
+#### "SEC. 103. AI CENTER OF EXCELLENCE.
+
+"(a)
+
+In General.—There is created within the General Services Administration a program to be known as the 'AI Center of Excellence', which shall—
+
+&emsp;"(1) facilitate the adoption of artificial intelligence technologies in the Federal Government;
+
+&emsp;"(2) improve cohesion and competency in the adoption and use of artificial intelligence within the Federal Government; and
+
+&emsp;"(3) carry out paragraphs (1) and (2) for the purposes of benefitting the public and enhancing the productivity and efficiency of Federal Government operations.
+
+"(b)
+
+Duties.—The duties of the AI CoE shall include—
+
+&emsp;"(1) regularly convening individuals from agencies, industry, Federal laboratories, nonprofit organizations, institutions of higher education, and other entities to discuss recent developments in artificial intelligence, including the dissemination of information regarding programs, pilots, and other initiatives at agencies, as well as recent trends and relevant information on the understanding, adoption, and use of artificial intelligence;
+
+&emsp;"(2) collecting, aggregating, and publishing on a publicly available website information regarding programs, pilots, and other initiatives led by other agencies and any other information determined appropriate by the Administrator;
+
+&emsp;"(3) advising the Administrator, the Director, and agencies on the acquisition and use of artificial intelligence through technical insight and expertise, as needed;
+
+&emsp;"(4) assist agencies in applying Federal policies regarding the management and use of data in applications of artificial intelligence;
+
+&emsp;"(5) consulting with agencies, including the Department of Defense, the Department of Commerce, the Department of Energy, the Department of Homeland Security, the Office of Management and Budget, the Office of the Director of National Intelligence, and the National Science Foundation, that operate programs, create standards and guidelines, or otherwise fund internal projects or coordinate between the public and private sectors relating to artificial intelligence;
+
+&emsp;"(6) advising the Director on developing policy related to the use of artificial intelligence by agencies; and
+
+&emsp;"(7) advising the Director of the Office of Science and Technology Policy on developing policy related to research and national investment in artificial intelligence.
+
+"(c)
+
+Staff.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall provide necessary staff, resources, and administrative support for the AI CoE.
+
+&emsp;"(2)
+
+Shared staff.—To the maximum extent practicable, the Administrator shall meet the requirements described under paragraph (1) by using staff of the General Services Administration, including those from other agency centers of excellence, and detailees, on a reimbursable or nonreimbursable basis, from other agencies.
+
+&emsp;"(3)
+
+Fellows.—The Administrator may, to the maximum extent practicable, appoint fellows to participate in the AI CoE from nonprofit organizations, think tanks, institutions of higher education, and industry.
+
+"(d)
+
+Sunset.—This section shall cease to be effective on the date that is 5 years after the date of enactment of this Act \[Dec. 27, 2020\].
+
+#### "SEC. 104. GUIDANCE FOR AGENCY USE OF ARTIFICIAL INTELLIGENCE.
+
+"(a)
+
+Guidance.—Not later than 270 days after the date of enactment of this Act \[Dec. 27, 2020\], the Director, in coordination with the Director of the Office of Science and Technology Policy in consultation with the Administrator and any other relevant agencies and key stakeholders as determined by the Director, shall issue a memorandum to the head of each agency that shall—
+
+&emsp;"(1) inform the development of policies regarding Federal acquisition and use by agencies regarding technologies that are empowered or enabled by artificial intelligence, including an identification of the responsibilities of agency officials managing the use of such technology;
+
+&emsp;"(2) recommend approaches to remove barriers for use by agencies of artificial intelligence technologies in order to promote the innovative application of those technologies while protecting civil liberties, civil rights, and economic and national security;
+
+&emsp;"(3) identify best practices for identifying, assessing, and mitigating any discriminatory impact or bias on the basis of any classification protected under Federal nondiscrimination laws, or any unintended consequence of the use of artificial intelligence, including policies to identify data used to train artificial intelligence algorithms as well as the data analyzed by artificial intelligence used by the agencies; and
+
+&emsp;"(4) provide a template of the required contents of the agency plans described in subsection (c).
+
+"(b)
+
+Public Comment.—To help ensure public trust in the applications of artificial intelligence technologies, the Director shall issue a draft version of the memorandum required under subsection (a) for public comment not later than 180 days after \[the\] date of enactment of this Act.
+
+"(c)
+
+Plans.—Not later than 180 days after the date on which the Director issues the memorandum required under subsection (a) or an update to the memorandum required under subsection (d), the head of each agency shall submit to the Director and post on a publicly available page on the website of the agency—
+
+&emsp;"(1) a plan to achieve consistency with the memorandum; or
+
+&emsp;"(2) a written determination that the agency does not use and does not anticipate using artificial intelligence.
+
+"(d)
+
+Updates.—Not later than 2 years after the date on which the Director issues the memorandum required under subsection (a), and every 2 years thereafter for 10 years, the Director shall issue updates to the memorandum.
+
+#### "SEC. 105. UPDATE OF OCCUPATIONAL SERIES FOR ARTIFICIAL INTELLIGENCE.
+
+"(a)
+
+In General.—Not later than 18 months after the date of enactment of this Act \[Dec. 27, 2020\], and in accordance with chapter 51 of title 5, United States Code, the Director of the Office of Personnel Management shall—
+
+&emsp;"(1) identify key skills and competencies needed for positions related to artificial intelligence;
+
+&emsp;"(2) establish an occupational series, or update and improve an existing occupational job series, to include positions the primary duties of which relate to artificial intelligence;
+
+&emsp;"(3) to the extent appropriate, establish an estimate of the number of Federal employees in positions related to artificial intelligence, by each agency; and
+
+&emsp;"(4) using the estimate established in paragraph (3), prepare a 2-year and 5-year forecast of the number of Federal employees in positions related to artificial intelligence that each agency will need to employ.
+
+"(b)
+
+Plan.—Not later than 120 days after the date of enactment of this Act, the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a comprehensive plan with a timeline to complete requirements described in subsection (a)."
+
+#### GSA Modernization Centers of Excellence Program
+
+Pub. L. 116–194, §2, Dec. 3, 2020, 134 Stat. 981, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Cloud computing.—The term 'cloud computing' has the meaning given the term in section 1076 of the National Defense Authorization Act for Fiscal Year 2018 \[Pub. L. 115–91\] (40 U.S.C. 11301 note) \[set out below\].
+
+&emsp;"(2)
+
+Executive agency.—The term 'executive agency' has the meaning given the term 'Executive agency' in section 105 of title 5, United States Code.
+
+&emsp;"(3)
+
+Program.—The term 'Program' means the Information Technology Modernization Centers of Excellence Program established under subsection (b).
+
+"(b)
+
+Establishment.—The Administrator of General Services shall establish a program to be known as the Information Technology Modernization Centers of Excellence Program to facilitate the adoption of modern technology by executive agencies on a reimbursable basis.
+
+"(c)
+
+Responsibilities.—The Program shall have the following responsibilities:
+
+&emsp;"(1) To encourage the modernization of information technology used by an executive agency and how a customer interacts with an executive agency.
+
+&emsp;"(2) To improve cooperation between commercial and executive agency information technology sectors.
+
+&emsp;"(3) To the extent practicable, encourage the adoption of commercial items in accordance with section 3307 of title 41, United States Code.
+
+&emsp;"(4) Upon request by the executive agency, to assist executive agencies with planning and adoption of technology in focus areas designated by the Administrator, which may include the following:
+
+&emsp;&emsp;"(A) A commercial cloud computing system that includes—
+
+&emsp;&emsp;&emsp;"(i) end-to-end migration planning and an assessment of progress towards modernization; and
+
+&emsp;&emsp;&emsp;"(ii) a cybersecurity and governance framework that promotes industry and government risk management best practice approaches, prioritizing efforts based on risk, impact, and consequences.
+
+&emsp;&emsp;"(B) Tools to help an individual receive support from and communicate with an executive agency.
+
+&emsp;&emsp;"(C) Contact centers and other related customer supports.
+
+&emsp;&emsp;"(D) Efficient use of data management, analysis, and reporting.
+
+&emsp;&emsp;"(E) The optimization of infrastructure, including for data centers, and the reduction of operating costs.
+
+&emsp;&emsp;"(F) Artificial intelligence.
+
+&emsp;"(5) To share best practices and expertise with executive agencies.
+
+&emsp;"(6) Other responsibilities the Administrator may identify.
+
+"(d)
+
+Coordination.—The Administrator shall coordinate with the Secretary of Homeland Security in establishing the Program to ensure that the technology, tools, and frameworks facilitated for executive agencies by the Program provide sufficient cybersecurity and maintain the integrity, confidentiality, and availability of Federal information.
+
+"(e)
+
+Program Reporting.—Not later than 1 year after the date of enactment of this Act \[Dec. 3, 2020\], and every year thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the Program, which shall include the following:
+
+&emsp;"(1) A description of the reimbursable agreements, statements of work, and associated project schedules and deliverables for the Program.
+
+&emsp;"(2) Details on the total amount of the reimbursable agreements.
+
+&emsp;"(3) Any additional information the Administrator determines necessary.
+
+"(f)
+
+Sunset.—This Act shall cease to have effect on the date that is 7 years after the date of enactment of this Act.
+
+"(g)
+
+Rule of Construction.—Nothing in this Act shall be construed to impair or otherwise affect the authority delegated by law to an executive agency or the head of an executive agency."
+
 #### Modernizing Government Technology
 
 Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1586, provided that:
@@ -164,7 +368,7 @@ Use of funds.—The Administrator shall, in accordance with recommendations from
 
 &emsp;&emsp;"(A) to transfer such amounts, to remain available until expended, to the head of an agency for the acquisition of products and services, or the development of such products and services when more efficient and cost effective, to improve, retire, or replace existing Federal information technology systems to enhance cybersecurity and privacy and improve long-term efficiency and effectiveness;
 
-&emsp;&emsp;"(B) to transfer such amounts, to remain available until expended, to the head of an agency for the operation and procurement of information technology products and services, or the development ofsuch products and services when more efficient and cost effective, and acquisition vehicles for use by agencies to improve Governmentwide efficiency and cybersecurity in accordance with the requirements of the agencies;
+&emsp;&emsp;"(B) to transfer such amounts, to remain available until expended, to the head of an agency for the operation and procurement of information technology products and services, or the development of such products and services when more efficient and cost effective, and acquisition vehicles for use by agencies to improve Governmentwide efficiency and cybersecurity in accordance with the requirements of the agencies;
 
 &emsp;&emsp;"(C) to provide services or work performed in support of—
 
@@ -264,7 +468,7 @@ Public availability.—The list required under clause (i) shall be published on 
 
 Comptroller general reports.—Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Comptroller General of the United States shall submit to Congress and make publically available a report assessing—
 
-&emsp;&emsp;&emsp;"(i) the costs associated with establishing the Fund and maintaining the oversight structure associated with the Fund compared with the cost savings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;
+&emsp;&emsp;&emsp;"(i) the costs associated with establishing the Fund and maintaining the oversight structure associated with the Fund compared with the costsavings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;
 
 &emsp;&emsp;&emsp;"(ii) the reliability of the cost savings estimated by agencies associated with projects funded by the Fund;
 
@@ -278,7 +482,7 @@ Technology Modernization Board.—
 
 &emsp;"(1)
 
-Establishment.—There is established a Technology Modernization Board to evaluate proposalssubmitted by agencies for funding authorized under the Fund.
+Establishment.—There is established a Technology Modernization Board to evaluate proposals submitted by agencies for funding authorized under the Fund.
 
 &emsp;"(2)
 
@@ -383,4 +587,108 @@ Transfer of unobligated amounts.—Not later than 90 days after the date on whic
 &emsp;"(3)
 
 Termination of technology modernization board.—Not later than 90 days after the date on which all projects that received an award from the Fund are completed, the Technology Modernization Board and all the authorities of subsection (c) shall terminate."
+
+#### <b>Executive Documents</b>
+
+#### Ex. Ord. No. 13960. Promoting the Use of Trustworthy Artificial Intelligence in the Federal Government
+
+Ex. Ord. No. 13960, Dec. 3, 2020, 85 F.R. 78939, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. Artificial intelligence (AI) promises to drive the growth of the United States economy and improve the quality of life of all Americans. In alignment with Executive Order 13859 of February 11, 2019 (Maintaining American Leadership in Artificial Intelligence) \[42 U.S.C. 6601 note\], executive departments and agencies (agencies) have recognized the power of AI to improve their operations, processes, and procedures; meet strategic goals; reduce costs; enhance oversight of the use of taxpayer funds; increase efficiency and mission effectiveness; improve quality of services; improve safety; train workforces; and support decision making by the Federal workforce, among other positive developments. Given the broad applicability of AI, nearly every agency and those served by those agencies can benefit from the appropriate use of AI.
+
+Agencies are already leading the way in the use of AI by applying it to accelerate regulatory reform; review Federal solicitations for regulatory compliance; combat fraud, waste, and abuse committed against taxpayers; identify information security threats and assess trends in related illicit activities; enhance the security and interoperability of Federal Government information systems; facilitate review of large datasets; streamline processes for grant applications; model weather patterns; facilitate predictive maintenance; and much more.
+
+Agencies are encouraged to continue to use AI, when appropriate, to benefit the American people. The ongoing adoption and acceptance of AI will depend significantly on public trust. Agencies must therefore design, develop, acquire, and use AI in a manner that fosters public trust and confidence while protecting privacy, civil rights, civil liberties, and American values, consistent with applicable law and the goals of Executive Order 13859.
+
+Certain agencies have already adopted guidelines and principles for the use of AI for national security or defense purposes, such as the Department of Defense's <i>Ethical Principles for Artificial Intelligence</i> (February 24, 2020), and the Office of the Director of National Intelligence's <i>Principles of Artificial Intelligence Ethics for the Intelligence Community</i> (July 23, 2020) and its Artificial Intelligence Ethics Framework for the Intelligence Community (July 23, 2020). Such guidelines and principles ensure that the use of AI in those contexts will benefit the American people and be worthy of their trust.
+
+Section 3 of this order establishes additional principles (Principles) for the use of AI in the Federal Government for purposes other than national security and defense, to similarly ensure that such uses are consistent with our Nation's values and are beneficial to the public. This order further establishes a process for implementing these Principles through common policy guidance across agencies.
+
+Sec. 2. <i>Policy</i>. (a) It is the policy of the United States to promote the innovation and use of AI, where appropriate, to improve Government operations and services in a manner that fosters public trust, builds confidence in AI, protects our Nation's values, and remains consistent with all applicable laws, including those related to privacy, civil rights, and civil liberties.
+
+(b) It is the policy of the United States that responsible agencies, as defined in section 8 of this order, shall, when considering the design, development, acquisition, and use of AI in Government, be guided by the common set of Principles set forth in section 3 of this order, which are designed to foster public trust and confidence in the use of AI, protect our Nation's values, and ensure that the use of AI remains consistent with all applicable laws, including those related to privacy, civil rights, and civil liberties.
+
+(c) It is the policy of the United States that the Principles for the use of AI in Government shall be governed by common policy guidance issued by the Office of Management and Budget (OMB) as outlined in section 4 of this order, consistent with applicable law.
+
+Sec. 3. <i>Principles for Use of AI in Government</i>. When designing, developing, acquiring, and using AI in the Federal Government, agencies shall adhere to the following Principles:
+
+(a) Lawful and respectful of our Nation's values. Agencies shall design, develop, acquire, and use AI in a manner that exhibits due respect for our Nation's values and is consistent with the Constitution and all other applicable laws and policies, including those addressing privacy, civil rights, and civil liberties.
+
+(b) Purposeful and performance-driven. Agencies shall seek opportunities for designing, developing, acquiring, and using AI, where the benefits of doing so significantly outweigh the risks, and the risks can be assessed and managed.
+
+(c) Accurate, reliable, and effective. Agencies shall ensure that their application of AI is consistent with the use cases for which that AI was trained, and such use is accurate, reliable, and effective.
+
+(d) Safe, secure, and resilient. Agencies shall ensure the safety, security, and resiliency of their AI applications, including resilience when confronted with systematic vulnerabilities, adversarial manipulation, and other malicious exploitation.
+
+(e) Understandable. Agencies shall ensure that the operations and outcomes of their AI applications are sufficiently understandable by subject matter experts, users, and others, as appropriate.
+
+(f) Responsible and traceable. Agencies shall ensure that human roles and responsibilities are clearly defined, understood, and appropriately assigned for the design, development, acquisition, and use of AI. Agencies shall ensure that AI is used in a manner consistent with these Principles and the purposes for which each use of AI is intended. The design, development, acquisition, and use of AI, as well as relevant inputs and outputs of particular AI applications, should be well documented and traceable, as appropriate and to the extent practicable.
+
+(g) Regularly monitored. Agencies shall ensure that their AI applications are regularly tested against these Principles. Mechanisms should be maintained to supersede, disengage, or deactivate existing applications of AI that demonstrate performance or outcomes that are inconsistent with their intended use or this order.
+
+(h) Transparent. Agencies shall be transparent in disclosing relevant information regarding their use of AI to appropriate stakeholders, including the Congress and the public, to the extent practicable and in accordance with applicable laws and policies, including with respect to the protection of privacy and of sensitive law enforcement, national security, and other protected information.
+
+(i) Accountable. Agencies shall be accountable for implementing and enforcing appropriate safeguards for the proper use and functioning of their applications of AI, and shall monitor, audit, and document compliance with those safeguards. Agencies shall provide appropriate training to all agency personnel responsible for the design, development, acquisition, and use of AI.
+
+Sec. 4. <i>Implementation of Principles</i>. (a) Existing OMB policies currently address many aspects of information and information technology design, development, acquisition, and use that apply, but are not unique, to AI. To the extent they are consistent with the Principles set forth in this order and applicable law, these existing policies shall continue to apply to relevant aspects of AI use in Government.
+
+(b) Within 180 days of the date of this order \[Dec. 3, 2020\], the Director of OMB (Director), in coordination with key stakeholders identified by the Director, shall publicly post a roadmap for the policy guidance that OMB intends to create or revise to better support the use of AI, consistent with this order. This roadmap shall include, where appropriate, a schedule for engaging with the public and timelines for finalizing relevant policy guidance. In addressing novel aspects of the use of AI in Government, OMB shall consider updates to the breadth of its policy guidance, including OMB Circulars and Management Memoranda.
+
+(c) Agencies shall continue to use voluntary consensus standards developed with industry participation, where available, when such use would not be inconsistent with applicable law or otherwise impracticable. Such standards shall also be taken into consideration by OMB when revising or developing AI guidance.
+
+Sec. 5. <i>Agency Inventory of AI Use Cases</i>. (a) Within 60 days of the date of this order, the Federal Chief Information Officers Council (CIO Council), in coordination with other interagency bodies as it deems appropriate, shall identify, provide guidance on, and make publicly available the criteria, format, and mechanisms for agency inventories of non-classified and non-sensitive use cases of AI by agencies.
+
+(b) Within 180 days of the CIO Council's completion of the directive in section 5(a) of this order, and annually thereafter, each agency shall prepare an inventory of its non-classified and non-sensitive use cases of AI, within the scope defined by section 9 of this order, including current and planned uses, consistent with the agency's mission.
+
+(c) As part of their respective inventories of AI use cases, agencies shall identify, review, and assess existing AI deployed and operating in support of agency missions for any inconsistencies with this order.
+
+(i) Within 120 days of completing their respective inventories, agencies shall develop plans either to achieve consistency with this order for each AI application or to retire AI applications found to be developed or used in a manner that is not consistent with this order. These plans must be approved by the agency-designated responsible official(s), as described in section 8 of this order, within this same 120-day time period.
+
+(ii) In coordination with the Agency Data Governance Body and relevant officials from agencies not represented within that body, agencies shall strive to implement the approved plans within 180 days of plan approval, subject to existing resource levels.
+
+(d) Within 60 days of the completion of their respective inventories of use cases of AI, agencies shall share their inventories with other agencies, to the extent practicable and consistent with applicable law and policy, including those concerning protection of privacy and of sensitive law enforcement, national security, and other protected information. This sharing shall be coordinated through the CIO and Chief Data Officer Councils, as well as other interagency bodies, as appropriate, to improve interagency coordination and information sharing for common use cases.
+
+(e) Within 120 days of the completion of their inventories, agencies shall make their inventories available to the public, to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other protected information.
+
+Sec. 6. <i>Interagency Coordination</i>. Agencies are expected to participate in interagency bodies for the purpose of advancing the implementation of the Principles and the use of AI consistent with this order. Within 45 days of this order, the CIO Council shall publish a list of recommended interagency bodies and forums in which agencies may elect to participate, as appropriate and consistent with their respective authorities and missions.
+
+Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of this order, the Presidential Innovation Fellows (PIF) program, administered by the General Services Administration (GSA) in collaboration with other agencies, shall identify priority areas of expertise and establish an AI track to attract experts from industry and academia to undertake a period of work at an agency. These PIF experts will work within agencies to further the design, development, acquisition, and use of AI in Government, consistent with this order.
+
+(b) Within 45 days of the date of this order, the Office of Personnel Management (OPM), in coordination with GSA and relevant agencies, shall create an inventory of Federal Government rotational programs and determine how these programs can be used to expand the number of employees with AI expertise at the agencies.
+
+(c) Within 180 days of the creation of the inventory of Government rotational programs described in section 7(b) of this order, OPM shall issue a report with recommendations for how the programs in the inventory can be best used to expand the number of employees with AI expertise at the agencies. This report shall be shared with the interagency coordination bodies identified pursuant to section 6 of this order, enabling agencies to better use these programs for the use of AI, consistent with this order.
+
+Sec. 8. <i>Responsible Agencies and Officials</i>. (a) For purposes of this order, the term "agency" refers to all agencies described in section 3502, subsection (1), of title 44, United States Code, except for the agencies described in section 3502, subsection (5), of title 44.
+
+(b) This order applies to agencies that have use cases for AI that fall within the scope defined in section 9 of this order, and excludes the Department of Defense and those agencies and agency components with functions that lie wholly within the Intelligence Community. The term "Intelligence Community" has the meaning given the term in section 3003 of title 50, United States Code.
+
+(c) Within 30 days of the date of this order, each agency shall specify the responsible official(s) at that agency who will coordinate implementation of the Principles set forth in section 3 of this order with the Agency Data Governance Body and other relevant officials and will collaborate with the interagency coordination bodies identified pursuant to section 6 of this order.
+
+Sec. 9. <i>Scope of Application</i>. (a) This order uses the definition of AI set forth in section 238(g) of the \[John S. McCain\] National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232, 10 U.S.C. 2358 note\] as a reference point. As Federal Government use of AI matures and evolves, OMB guidance developed or revised pursuant to section 4 of this order shall include such definitions as are necessary to ensure the application of the Principles in this order to appropriate use cases.
+
+(b) Except for the exclusions set forth in section 9(d) of this order, or provided for by applicable law, the Principles and implementation guidance in this order shall apply to AI designed, developed, acquired, or used specifically to advance the execution of agencies' missions, enhance decision making, or provide the public with a specified benefit.
+
+(c) This order applies to both existing and new uses of AI; both stand-alone AI and AI embedded within other systems or applications; AI developed both by the agency or by third parties on behalf of agencies for the fulfilment of specific agency missions, including relevant data inputs used to train AI and outputs used in support of decision making; and agencies' procurement of AI applications.
+
+(d) This order does not apply to:
+
+(i) AI used in defense or national security systems (as defined in 44 U.S.C. 3552(b)(6) or as determined by the agency), in whole or in part, although agencies shall adhere to other applicable guidelines and principles for defense and national security purposes, such as those adopted by the Department of Defense and the Office of the Director of National Intelligence;
+
+(ii) AI embedded within common commercial products, such as word processors or map navigation systems, while noting that Government use of such products must nevertheless comply with applicable law and policy to assure the protection of safety, security, privacy, civil rights, civil liberties, and American values; and
+
+(iii) AI research and development (R\&D) activities, although the Principles and OMB implementation guidance should inform any R\&D directed at potential future applications of AI in the Federal Government.
+
+Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

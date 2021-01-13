@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title I, §101(a), 63 Stat. 379.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the General Services Administration, including the functions of the Administrator of General Services relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(5), 203(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
@@ -31,6 +33,8 @@ Pub. L. 111–117, div. C, title V, Dec. 16, 2009, 123 Stat. 3188, provided in p
 Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 111–8, div. D, title V, Mar. 11, 2009, 123 Stat. 660.
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 18 OF 1950</b>
 
@@ -46,7 +50,7 @@ All functions with respect to acquiring space in buildings by lease, and all fun
 
 (a) space in buildings located in any foreign country;
 
-(b) space in buildings which are located on the grounds of any fort, camp, post, arsenal, Navy yard,naval training station, air-field, proving ground, military supply depot, or school, or of any similar facility, of the Department of Defense, unless and to such extent as a permit for its use shall have been issued by the Secretary of Defense or his duly authorized representative;
+(b) space in buildings which are located on the grounds of any fort, camp, post, arsenal, Navy yard, naval training station, air-field, proving ground, military supply depot, or school, or of any similar facility, of the Department of Defense, unless and to such extent as a permit for its use shall have been issued by the Secretary of Defense or his duly authorized representative;
 
 (c) space occupied by the Post Office Department in post-office buildings and space acquired by lease for post-office purposes; and
 
@@ -98,7 +102,7 @@ Within the District of Columbia, one agency, the Public Buildings Service of the
 
 Outside of the National Capital, however, responsibility for the acquisition and control of building space and the operation of Government buildings is widely diffused. A variety of agencies operate and control general-purpose buildings. If quarters are not available in Federal buildings, each agency ordinarily does its own leasing. As a result, in some cases Federal agencies have contracted for space at high rentals at the very time that other agencies have been giving up surplus low-cost space.
 
-The assignment of space in Government-owned buildings outside of Washington is also divided among anumber of agencies. While the Public Buildings Service constructs a large part of the Government buildings, it operates and controls the assignment of space in only a small proportion of them. The Post Office Department operates and allocates the space in post-office buildings, several hundred of which contain substantial amounts of office space available for other agencies. During and immediately after the war several other Federal agencies acquired office buildings in the field. As their activities have contracted, surplus space in many of these structures has become available for other uses.
+The assignment of space in Government-owned buildings outside of Washington is also divided among a number of agencies. While the Public Buildings Service constructs a large part of the Government buildings, it operates and controls the assignment of space in only a small proportion of them. The Post Office Department operates and allocates the space in post-office buildings, several hundred of which contain substantial amounts of office space available for other agencies. During and immediately after the war several other Federal agencies acquired office buildings in the field. As their activities have contracted, surplus space in many of these structures has become available for other uses.
 
 This plan concentrates in the General Services Administration the responsibility for the leasing and assignment of what is termed general-purpose building space; that is, space which is suitable for the uses of a number of Federal agencies. It specifically excludes space in buildings at military posts, arsenals, navy yards, and similar defense installations and space in hospitals, laboratories, factories, and other special-purpose buildings.
 
@@ -128,7 +132,7 @@ Sec. 2. <i>Mission</i>. (a) The PMAB shall provide the President and the Preside
 
 (b) The functions of the PMAB shall be advisory only.
 
-Sec. 3. <i>Membership</i>. (a) The PMAB shall consist of not more than 18 members, one of whom shall be the Deputy Director for Management of the Office of Management and Budget (DDM). The remaining 17 members shall be appointed by the President from among distinguished citizens from outside the Federal Government who are qualified on the basis of a proven record of sound judgment in leading or governing large, complex, or innovative private sector corporations or entities and a wealth of top-level business experience in the areas of executive management, audit and finance, human resources and compensation, customer service, streamlining operations, and technology. Each of these 17 members may serve as a representative of his or her industry, trade group, public interest group, or other organization or group. The composition of the PMAB shall reflect the views of diverse stakeholders.
+Sec. 3. <i>Membership</i>. (a) The PMAB shall consist of not more than 18 members, one of whom shall be the Deputy Director for Management of the Office of Management and Budget (DDM). The remaining 17 members shall be appointed by the President from among distinguished citizens from outside the Federal Government who are qualified on the basis of a proven record ofsound judgment in leading or governing large, complex, or innovative private sector corporations or entities and a wealth of top-level business experience in the areas of executive management, audit and finance, human resources and compensation, customer service, streamlining operations, and technology. Each of these 17 members may serve as a representative of his or her industry, trade group, public interest group, or other organization or group. The composition of the PMAB shall reflect the views of diverse stakeholders.
 
 (b) The DDM shall serve as Chair of the PMAB. The Chair shall convene and preside at meetings of the PMAB, determine its agenda, and direct its work.
 

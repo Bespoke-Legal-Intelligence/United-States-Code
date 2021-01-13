@@ -6,7 +6,7 @@
 
 &emsp;(A) included within the terms of the Yugoslav Claims Agreement of 1948;
 
-&emsp;(B) included within the terms of any claims agreement concluded on or after March 10, 1954, between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof; or
+&emsp;(B) included within the terms of any claims agreement concluded on or after March 10, 1954, between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals ofthe United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof; or
 
 &emsp;(C) included in a category of claims against a foreign government which is referred to the Commission by the Secretary of State.
 
@@ -28,7 +28,7 @@
 
 #### (b) Notice of filing time; publication; basis of decisions; finality of decision
 
-The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period asmay be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
+The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
 
 #### (c) Administration of oaths; examination of witnesses; subpenas; reporting of hearings; witness fees; contempt
 
@@ -40,7 +40,7 @@ The Commission may order testimony to be taken by deposition in any inquiry or h
 
 #### (e) Penalties
 
-In addition to the penalties provided in section 1001 of title 18, any person guilty of any act, as provided therein, with respect to any matter under this subchapter, shall forfeit all rights under this subchapter, and, if payment shall have been made or granted, the Commission shall take such action as may be necessary to recover the same.
+In addition to the penalties provided in section 1001 of title 18, any person guilty of any act, as provided therein, with respect to any matter under this subchapter, shall forfeit all rights under this subchapter, and, if payment shall have been made or granted, the Commissionshall take such action as may be necessary to recover the same.
 
 #### (f) Attorney's fees; limitation
 
@@ -68,9 +68,7 @@ In exercising authority granted after October 8, 1986, under this chapter or any
 
 (Mar. 10, 1950, ch. 54, title I, §4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 90–421, §1(1), July 24, 1968, 82 Stat. 420; Pub. L. 99–451, §1, Oct. 8, 1986, 100 Stat. 1138; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2211, Oct. 21, 1998, 112 Stat. 2681–812.)
 
-#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
-
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -90,17 +88,25 @@ Subsec. (k). Pub. L. 99–451, §1(b), added subsec. (k).
 
 Subsecs. (a), (b), (e) to (h) and (j). Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
+
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–451, §2, Oct. 8, 1986, 100 Stat. 1139, provided that: "The amendments made by this Act \[amending this section\] shall apply to any claim pending on the date of the enactment of this Act \[Oct. 8, 1986\] and to any other claim determined after such date."
+
+#### Protests Relating to Awards by Commission; Notice by Publication in Federal Register
+
+Act Mar. 10, 1950, ch. 54, title VI, §615, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: "Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 \[50 U.S.C. 4140, 4141\], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) \[set out under section 1622 of this title\] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission's mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment \[Oct. 18, 1976\]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948 \[50 U.S.C. 4101 et seq.\], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act \[50 U.S.C. 4143\]."
+
+#### <b>Executive Documents</b>
 
 #### Abolition of International Claims Commission and Transfer of Functions
 
 International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring the Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
-
-#### Protests Relating to Awards by Commission; Notice by Publication in Federal Register
-
-Act Mar. 10, 1950, ch. 54, title VI, §615, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: "Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 \[50 U.S.C. 4140, 4141\], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) \[set out under section 1622 of this title\] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission's mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment \[Oct. 18, 1976\]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948 \[50 U.S.C. 4101 et seq.\], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act \[50 U.S.C. 4143\]."
 

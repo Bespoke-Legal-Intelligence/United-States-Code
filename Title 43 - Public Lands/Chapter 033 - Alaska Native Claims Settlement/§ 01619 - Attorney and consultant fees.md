@@ -30,7 +30,7 @@ The Chief Commissioner or his delegate is authorized to receive, determine, and 
 
 (5) Upon the filing of a claim, the clerk of the Court of Claims shall forward a copy of such claims to the individuals or entities on whose behalf services were rendered or fees and expenses were allegedly incurred, as shown by the pleadings, to the Attorney General of the United States, to the Attorney General of the State of Alaska, to the Secretary of the Interior, and to any other person who appears to have an interest in the claim, and shall give such persons ninety days within which to file an answer contesting the claim.
 
-(6) The Chief Commissioner may designate a trial commissioner for any claim made underthis section and a panel of three commissioners of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding commissioner of the panel.
+(6) The Chief Commissioner may designate a trial commissioner for any claim made under this section and a panel of three commissioners of the court to serve as a reviewing body. One member of the review panel shall be designated as presiding commissioner of the panel.
 
 (7) Proceedings in all claims shall be pursuant to rules and orders prescribed for the purpose by the Chief Commissioner who is hereby authorized and directed to require the application of the pertinent rules of practice of the Court of Claims insofar as feasible. Claimants may appear before a trial commissioner in person or by attorney, and may produce evidence and examine witnesses. In the discretion of the Chief Commissioner or his designate, hearings may be held in the localities where the claimants reside if convenience so demands.
 
@@ -56,9 +56,13 @@ A claim for actual costs incurred in filing protests, preserving land claims, ad
 
 (Pub. L. 92–203, §20, Dec. 18, 1971, 85 Stat. 710.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The United States Court of Claims, referred to in subsecs. (b), (c), (d)(5), (7), (8), (10), and (g), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

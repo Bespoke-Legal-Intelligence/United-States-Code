@@ -26,7 +26,7 @@
 
 #### (b) Abandonment
 
-(1) Except as provided in subsections (c) and (f) of this section, rail properties over which railservice has been discontinued under subsection (a) of this section may not be abandoned sooner than 120 days after the effective date of the discontinuance. Thereafter, except as provided in subsection (c) of this section, such rail properties may be abandoned upon 30 days' notice in writing to any person (including a government entity) required to receive notice under subsection (a)(1)(C) of this section.
+(1) Except as provided in subsections (c) and (f) of this section, rail properties over which rail service has been discontinued under subsection (a) of this section may not be abandoned sooner than 120 days after the effective date of the discontinuance. Thereafter, except as provided in subsection (c) of this section, such rail properties may be abandoned upon 30 days' notice in writing to any person (including a government entity) required to receive notice under subsection (a)(1)(C) of this section.
 
 (2) In any case in which rail properties proposed to be abandoned under this section are designated by the final system plan as rail properties which are suitable for use for other public purposes (including roads or highways, other forms of mass transportation, conservation, and recreation), such rail properties shall not be sold, leased, exchanged, or otherwise disposed of during the 240-day period beginning on the date of notice of proposed abandonment under this section unless such rail properties have first been offered, upon reasonable terms, for acquisition for public purposes.
 
@@ -46,7 +46,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 &emsp;&emsp;(C) to purchase, pursuant to subsection (f) of this section, such rail properties in order to operate rail services thereon.
 
-> If a rail service continuation payment is offered, pursuant to paragraph (2)(A) of this subsection, for both freight and passenger service on the same rail properties, the owner of such properties may not be entitled to more than one payment of a reasonable return on the value of such properties.
+> If a rail service continuation payment is offered, pursuant to paragraph (2)(A) of this subsection, for both freight and passenger service on thesame rail properties, the owner of such properties may not be entitled to more than one payment of a reasonable return on the value of such properties.
 
 #### (d) Rail freight service
 
@@ -104,7 +104,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 (B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) <sup>1</sup> of the Federal Transit Act.
 
-(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree ofpassenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
+(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
 
 (D) If a dispute arises with respect to the application of any such regulations, the parties to such dispute may submit such dispute to arbitration by a third party. If the parties are unable to agree upon the selection of an arbitrator, the Chairman of the Commission shall serve in that capacity (except as to matters required to be decided by the Commission, pursuant to section 562(a) of this title).
 
@@ -124,7 +124,7 @@ If an offer to purchase is made under subsection (c)(2)(C) of this section, such
 
 #### (g) Abandonment by Corporation
 
-After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if theCorporation or a subsidiary thereof can demonstrate that no State (or local or regional transportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of part A of subtitle IV of title 49.
+After the rail system to be operated by the Corporation or a subsidiary thereof under the final system plan has been in operation for 2 years, the Commission may authorize the Corporation or a subsidiary thereof to abandon any rail properties as to which it determines that rail service over such properties is not required by the public convenience and necessity, if the Corporation or a subsidiary thereof can demonstrate that no State (or local or regional transportation authority) is willing to offer a rail service continuation payment pursuant to subsection (c) of this section. The Commission may, at any time after the effective date of the final system plan, authorize additional rail service in the region or authorize the abandonment of rail properties which are not being operated by the Corporation or any subsidiary or affiliate thereof or by any other person. Determinations by the Commission under this subsection shall be made pursuant to applicable provisions of part A of subtitle IV of title 49.
 
 #### (h) Interim abandonment
 
@@ -140,7 +140,9 @@ No railroad in reorganization in the region and no person leased, operated or co
 
 &emsp;(3) following certification to the special court, pursuant to section 719(c) of this title, of any such rail properties not previously so certified.
 
-(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–88, title III, §327(3), Dec. 29, 1995, 109 Stat. 951; Pub. L. 104–287, §6(f)(4)(A), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L.104–88, title III, §327(3), Dec. 29, 1995, 109 Stat. 951; Pub. L. 104–287, §6(f)(4)(A), Oct. 11, 1996, 110 Stat. 3399.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -182,7 +184,7 @@ Subsec. (g). Pub. L. 104–88, §327(3)(G), substituted "part A of subtitle IV o
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–607 added subpar. (C) of par. (4) and pars. (7) and (8).
 
-Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not underthe jurisdiction of the Interstate Commerce Commission.
+Subsec. (j). Pub. L. 95–473 struck out subsec. (j) which provided for exempt rail mass transportation not under the jurisdiction of the Interstate Commerce Commission.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–210, §804, redesignated existing provisions as par. (1) and inserted provision relating to applicability to a railroad in reorganization in the region, or of a person leased, operated, or controlled by such a railroad, in subpar. (B) inserted provision relating to notice on the date of any conveyance ordered by the special court, and in subpar. (C) inserted requirement that notice be sent to the Commission and substituted reference to the chief executive officer for reference to the Governor, and added par. (2).
 
@@ -209,6 +211,8 @@ Subsecs. (i), (j). Pub. L. 94–210, §804, added subsecs. (i) and (j).
 Subsec. (j)(1). Pub. L. 94–555, §206(1), inserted limitation "by rail" to mass transportation services, and provided that any local body providing mass transportation services by rail is exempted from the rules, regulations, and orders promulgated under the Interstate Commerce Act, if interstate fares or application to the Interstate Commerce Commission for a change in such fares is subject to the approval or disapproval of the Governor of any state in which it provides services.
 
 Subsec. (j)(2)(B). Pub. L. 94–555, §206(2), substituted definition of "mass transportation services" for "mass transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

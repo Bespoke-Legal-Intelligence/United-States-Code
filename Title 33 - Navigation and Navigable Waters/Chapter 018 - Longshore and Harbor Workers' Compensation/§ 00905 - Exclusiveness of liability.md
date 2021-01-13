@@ -14,15 +14,19 @@ In the event that the negligence of a vessel causes injury to a person entitled 
 
 (Mar. 4, 1927, ch. 509, §5, 44 Stat. 1426; Pub. L. 92–576, §18(a), Oct. 27, 1972, 86 Stat. 1263; Pub. L. 98–426, §§4(b), 5(a)(1), (b), Sept. 28, 1984, 98 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–426, §4(b), inserted at end "For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor's employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title."
 
-Subsec. (b). Pub. L. 98–426, §5(a)(1), substituted "If such person was employed to provide shipbuilding, repairing, or breaking services and such person's employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person's employer (in any capacity, including as the vessel's owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer" for "If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel".
+Subsec. (b). Pub. L. 98–426, §5(a)(1), substituted "If such person was employed to provide shipbuilding, repairing, or breaking services and such person's employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person's employer (in any capacity, including as the vessel's owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer" for "If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was causedby the negligence of persons engaged in providing ship building or repair services to the vessel".
 
 Subsec. (c). Pub. L. 98–426, §5(b), added subsec. (c).
 
 <b>1972</b>—Pub. L. 92–576 designated existing provisions as subsec. (a), substituted "the chapter" for "this chapter", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

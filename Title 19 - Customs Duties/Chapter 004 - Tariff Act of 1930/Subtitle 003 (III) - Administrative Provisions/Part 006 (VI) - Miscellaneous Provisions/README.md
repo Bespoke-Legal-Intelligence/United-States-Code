@@ -8,7 +8,7 @@ Part VI—Miscellaneous Provisions
 - [&sect; 01641 - Customs brokers](%C2%A7%2001641%20-%20Customs%20brokers.md)
 - [&sect; 01642 - Omitted](%C2%A7%2001642%20-%20Omitted.md)
 - [&sect; 01643 - Application of customs reorganization act](%C2%A7%2001643%20-%20Application%20of%20customs%20reorganization%20act.md)
-- [&sect; 01644 - Application of section 1644a(b)(1) of this title and section 1518(d) of title 33](%C2%A7%2001644%20-%20Application%20of%20section%201644a%28b%29%281%29%20of%20this%20title%20and%20section%201518%28d%29%20of%20title%2033.md)
+- [&sect; 01644 - Application of the Federal Aviation Act and section 1518(d) of title 33](%C2%A7%2001644%20-%20Application%20of%20the%20Federal%20Aviation%20Act%20and%20section%201518%28d%29%20of%20title%2033.md)
 - [&sect; 01644a - Ports of entry](%C2%A7%2001644a%20-%20Ports%20of%20entry.md)
 - [&sect; 01645 - Transportation and interment of remains of deceased employees in foreign countries; travel or shipping expenses incurred on foreign ships](%C2%A7%2001645%20-%20Transportation%20and%20interment%20of%20remains%20of%20deceased%20employees%20in%20foreign%20countries%3B%20travel%20or%20shipping%20expenses%20incurred%20on%20foreign%20ships.md)
 - [&sect; 01646 - Repealed. June 25, 1948, ch. 646, &sect;39, 62 Stat. 992, eff. Sept. 1, 1948](%C2%A7%2001646%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md)

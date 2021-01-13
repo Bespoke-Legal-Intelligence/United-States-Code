@@ -52,6 +52,8 @@ In subsection (a), the words "be responsible for" are omitted as surplus.
 
 In subsection (c), the words "To the extent permitted by law" are omitted as surplus. The words "the head of an executive agency" are substituted for "Federal agencies" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70103 of title 49 and section 70103 of this title as this section.
@@ -65,6 +67,8 @@ Subsecs. (c), (d). Pub. L. 108–492, §2(c)(2), added subsec. (c) and redesigna
 Subsec. (b)(1). Pub. L. 105–303, §102(a)(4)(B), inserted "and reentries" after "commercial space launches".
 
 Subsec. (b)(2). Pub. L. 105–303, §102(a)(4)(C), inserted "and reentry" after "space launch".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Launch Services Strategy
 
@@ -85,6 +89,8 @@ Report.—The Administrator \[of NASA\] shall transmit a report to the Committee
 &emsp;"(3) the recommended alternatives, and associated 5-year budget plans starting in October 2010 that would enable their implementation; and
 
 &emsp;"(4) a contingency plan in the event the recommended alternatives described in paragraph (3) are not available when needed."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12465. Coordination and Encouragement of Commercial Expendable Launch Vehicle Activities
 

@@ -44,7 +44,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 Voting members of the panel shall—
 
-&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
+&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section5376 of title 5 when actually engaged in the performance of duties for such panel; and
 
 &emsp;(2) be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 
@@ -57,6 +57,8 @@ The panel shall meet on a biannual basis and, at any other time, at the call of 
 The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
 (Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, §4, Oct. 10, 2008, 122 Stat. 4107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ Ports.—Not later than 6 months after November 13, 1998, the Administrator and 
 &emsp;"(2) existing safety and efficiency needs in United States ports that could be met by increased use of those systems; and
 
 &emsp;"(3) a plan for expanding those systems to meet those needs, including an estimate of the cost of implementing those systems in priority locations."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -60,6 +60,8 @@ This section shall take effect immediately before noon January 3, 1991, except t
 
 (Pub. L. 101–194, title VIII, §803, Nov. 30, 1989, 103 Stat. 1774.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 5(d) of rule XI, referred to in subsecs. (c) and (d), are now contained in clause 6(d) of rule X. Provisions formerly appearing in clause 4(e)(1)(B) of rule X, referred to in subsecs. (d)(3) and (i)(4), are now contained in clause 3(a)(2) of rule XI.
@@ -70,13 +72,15 @@ Section was formerly classified to section 29d of this title prior to editorial 
 
 Section is comprised of section 803 of Pub. L. 101–194. Subsecs. (a) and (e) to (h) of section 803 amended the Rules of the House of Representatives which are not classified to the Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Acceptance of Gifts; Amendments to Advisory Opinions
 
-Pub. L. 101–194, title VIII, §801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: "The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives."
+Pub. L. 101–194, title VIII, §801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: "The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed notin connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives."
 
 #### Noncampaign Use of Campaign Vehicles
 

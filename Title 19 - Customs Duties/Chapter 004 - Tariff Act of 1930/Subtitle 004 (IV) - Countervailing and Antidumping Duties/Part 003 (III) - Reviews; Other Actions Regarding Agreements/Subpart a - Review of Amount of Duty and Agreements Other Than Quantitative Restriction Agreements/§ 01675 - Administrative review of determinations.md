@@ -188,7 +188,7 @@
 
 #### (C) Extraordinarily complicated
 
-&emsp;&emsp;For purposes of this subsection, the administering authority or the Commission (as thecase may be) may treat a review as extraordinarily complicated if—
+&emsp;&emsp;For purposes of this subsection, the administering authority or the Commission (as the case may be) may treat a review as extraordinarily complicated if—
 
 &emsp;&emsp;&emsp;(i) there is a large number of issues,
 
@@ -202,7 +202,7 @@
 
 #### (D) Grouped reviews
 
-&emsp;&emsp;The Commission, in consultation with the administering authority, may group orders or suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
+&emsp;&emsp;The Commission, in consultation with the administering authority, may group ordersor suspended investigations for review if it considers that such grouping is appropriate and will promote administrative efficiency. Where orders or suspended investigations have been grouped, the Commission shall, subject to subparagraph (B), make its final determination under this subsection not later than 120 days after the date that the administering authority publishes notice of its final determination with respect to the last order or agreement in the group.
 
 #### (6) Special transition rules
 
@@ -326,7 +326,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(2)(B)(iii), (iv). Pub. L. 114–125 added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of thereview, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise."
+<b>2016</b>—Subsec. (a)(2)(B)(iii), (iv). Pub. L. 114–125 added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: "The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise."
 
 <b>1999</b>—Subsec. (c)(7). Pub. L. 106–36 added par. (7).
 

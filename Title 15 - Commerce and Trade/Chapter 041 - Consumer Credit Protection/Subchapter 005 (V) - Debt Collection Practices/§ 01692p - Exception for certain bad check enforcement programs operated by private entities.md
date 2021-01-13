@@ -42,7 +42,7 @@
 
 A check is described in this subsection if the check involves, or is subsequently found to involve—
 
-&emsp;(1) a postdated check presented in connection with a payday loan, or other similar transaction, where the payee of the check knew that the issuer had insufficient funds at the time the check was made, drawn, or delivered;
+&emsp;(1) a postdated check presented in connection with a payday loan, or other similar transaction, where the payee of the check knew that the issuer had insufficient funds atthe time the check was made, drawn, or delivered;
 
 &emsp;(2) a stop payment order where the issuer acted in good faith and with reasonable cause in stopping payment on the check;
 

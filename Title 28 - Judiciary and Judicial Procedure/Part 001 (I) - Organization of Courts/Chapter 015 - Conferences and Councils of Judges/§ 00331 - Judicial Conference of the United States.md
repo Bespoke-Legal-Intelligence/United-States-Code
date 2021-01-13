@@ -38,6 +38,8 @@ The last paragraph is new and is inserted to authorize the communication to Cong
 
 Numerous changes were made in phraseology and arrangement.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 45(c) of the Federal Rules of Civil Procedure, referred to in fourth paragraph, is set out in the Appendix to this title.
@@ -48,7 +50,7 @@ Rule 45(c) of the Federal Rules of Civil Procedure, referred to in fourth paragr
 
 <b>2002</b>—Pub. L. 107–273 substituted "chapter 16" for "section 372(c)" in two places in fourth par.
 
-<b>1996</b>—Pub. L. 104–317 added second par. and struck out former second par. which read as follows: "The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit at the annual judicial conference of the circuit held pursuant to section 333 of this title and shall serve as a member of the conference for three successive years, except that in the year following the enactment of this amended section the judges in the first, fourth, seventh, and tenth circuits shall choose a district judge to serve for one year, the judges in the second, fifth, and eighth circuits shall choose a district judge to serve for two years and the judges in the third, sixth, ninth, and District of Columbia circuits shall choose a district judge to serve for three years."
+<b>1996</b>—Pub. L. 104–317 added second par. and struck out former second par. which read as follows: "The district judge to be summoned from each judicial circuit shall be chosen by the circuit and district judges of the circuit at the annual judicial conference of the circuit held pursuant to section 333 of this title and shall serve as a member of the conference for three successiveyears, except that in the year following the enactment of this amended section the judges in the first, fourth, seventh, and tenth circuits shall choose a district judge to serve for one year, the judges in the second, fifth, and eighth circuits shall choose a district judge to serve for two years and the judges in the third, sixth, ninth, and District of Columbia circuits shall choose a district judge to serve for three years."
 
 <b>1988</b>—Pub. L. 100–702 inserted paragraph requiring Judicial Conference review of section 2071 rules prescribed by courts other than Supreme court or district courts for consistency with Federal law.
 
@@ -72,6 +74,8 @@ Pub. L. 99–466, §1(c), substituted "Conference" for "conference" in sixth par
 
 <b>1956</b>—Act July 9, 1956, inserted provisions relating to participation of Court of Claims judges.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–702 effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as a note under section 2071 of this title.
@@ -86,11 +90,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–458, §7, Oct. 15, 1980, 94 Stat. 2041, provided that: "This Act \[amending this section and sections332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981."
+Pub. L. 96–458, §7, Oct. 15, 1980, 94 Stat. 2041, provided that: "This Act \[amending this section and sections 332, 372, and 604 of this title and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective on October 1, 1981."
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases
 
@@ -102,7 +106,7 @@ Pub. L. 101–650, title II, §205, Dec. 1, 1990, 104 Stat. 5103, provided that 
 
 #### Federal Courts Study Committee
 
-Title I of Pub. L. 100–702, known as the "Federal Courts Study Act", established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
+Pub. L. 100–702, title I, Nov. 19, 1988, 102 Stat. 4644, known as the "Federal Courts Study Act", established within the Judicial Conference of the United States, a Federal Courts Study Committee on the future of the Federal Judiciary, which was directed to examine problems and issues currently facing the courts of the United States, develop a long-range plan for the future of the Federal Judiciary, including assessments involving alternative methods of dispute resolution, the structure and administration of the Federal court system, methods of resolving intracircuit and intercircuit conflicts in the courts of appeals, and the types of disputes resolved by the Federal courts, and to submit, within 15 months after Jan. 1, 1989, a report to the Judicial Conference of the United States, the President, the Congress, the Conference of Chief Justices, and the State Justice Institute on the revisions, if any, in the laws of the United States which the Committee, based on its study and evaluation, deemed advisable, and further provided for membership of the Committee, duties, powers and functions, compensation of members, appropriations, and expiration of the Committee 60 days after submission of report.
 
 <i><sup>1</sup></i><i> So in original. The word "the" probably should appear.</i>
 

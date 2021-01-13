@@ -30,7 +30,7 @@ The headings for subchs. (E) and (F) were stricken by section 1904(a)(1)(A) of P
 
 The subject matter of the prior sections was as follows:
 
-A prior section 4001, acts Aug. 16, 1954, ch. 736, 68A Stat. 473; Sept. 2, 1958, Pub. L. 85–859, title I, §101, 72 Stat. 1275; Sept. 21, 1959, Pub. L. 86–344, §1(a), 73 Stat. 617, imposed an excise tax equivalent to 10 percent of selling price upon jewelry, stones, watches, clocks, caseand movements for watches and clocks, flatware and hollow ware, opera glasses, lorgnettes, marine glasses, field glasses, and binoculars.
+A prior section 4001, acts Aug. 16, 1954, ch. 736, 68A Stat. 473; Sept. 2, 1958, Pub. L. 85–859, title I, §101, 72 Stat. 1275; Sept. 21, 1959, Pub. L. 86–344, §1(a), 73 Stat. 617, imposed an excise tax equivalent to 10 percent of selling price upon jewelry, stones, watches, clocks, case and movements for watches and clocks, flatware and hollow ware, opera glasses, lorgnettes, marine glasses, field glasses, and binoculars.
 
 A prior section 4002, act Aug. 16, 1954, ch. 736, 68A Stat. 473, defined "articles sold at retail" to include articles sold at auction.
 

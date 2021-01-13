@@ -10,7 +10,7 @@ In carrying out this section, the Secretary of the Senate shall consult and work
 
 #### (c) Funding
 
-Any funds that were appropriated under the heading "Secretary of the Senate" for expenses of the Office of the Secretary of the Senate by the Legislative Branch Appropriations Act, 1995, to remain available until September 30, 1998, and that the Secretary determines are not needed for development of a financial management system for the Senate may, with the approval of the Committee on Appropriations of the Senate,be used to carry out the provisions of this section, and such funds shall be available through September 30, 2000.
+Any funds that were appropriated under the heading "Secretary of the Senate" for expenses of the Office of the Secretary of the Senate by the Legislative Branch Appropriations Act, 1995, to remain available until September 30, 1998, and that the Secretary determines are not needed for development of a financial management system for the Senate may, with the approval of the Committee on Appropriations of the Senate, be used to carry out the provisions of this section, and such funds shall be available through September 30, 2000.
 
 #### (d) Regulations
 
@@ -21,6 +21,8 @@ The Committee on Rules and Administration of the Senate may prescribe such regul
 This section shall be effective for fiscal years beginning on or after October 1, 1996.
 
 (Pub. L. 104–197, title I, §8, Sept. 16, 1996, 110 Stat. 2398.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

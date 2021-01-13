@@ -6,7 +6,7 @@ The Secretary shall, as soon as practicable after January 3, 1975, and after con
 
 #### (b) Additional regulations; criteria for site evaluation and preconstruction testing
 
-The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
+The Secretary, in consultation with the Secretary of the Interior and the Administrator ofthe National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
 #### (c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption
 
@@ -48,7 +48,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 (2) As used in this section, "application area" means any reasonable geographical area within which a deepwater port may be constructed and operated. Such application area shall not exceed a circular zone, the center of which is the principal point of loading and unloading at the port, and the radius of which is the distance from such point to the high water mark of the nearest adjacent coastal State.
 
-(3) The Secretary shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit the completed application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
+(3) The Secretary shall accompany such publication with a call for submission of any otherapplications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit the completed application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
 
 (4) This subsection shall not apply to deepwater ports for natural gas.
 
@@ -82,7 +82,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii)an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
 
 &emsp;(C) to any other person.
 
@@ -96,13 +96,27 @@ A license may be issued only after public notice and public hearings in accordan
 
 (4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011.)
+#### (j) LNG tankers
+
+#### (1) Program
+
+&emsp;The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+
+#### (2) Information to be provided
+
+&emsp;When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission's shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.
+
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088; Pub. L. 109–241, title III, §304(c)(1), July 11, 2006, 120 Stat. 527; Pub. L. 111–281, title IX, §903(d), Oct. 15, 2010, 124 Stat. 3011; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(2), Jan. 1, 2021, 134 Stat. 4747.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (j). Pub. L. 116–283 added subsec. (j).
 
 <b>2010</b>—Subsec. (c)(2)(K). Pub. L. 111–281 realigned margin.
 
@@ -120,13 +134,15 @@ Subsec. (i)(4). Pub. L. 107–295, §106(c)(2), added par. (4).
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–419 substituted "issued" for "issued, transferred, or renewed".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 107–295, title I, §106(e), Nov. 25, 2002, 116 Stat. 2087, provided that:
 
 "(1)
 
-Agency and department expertise and responsibilities.—Not later than 30 days after the date of the enactment of this Act \[Nov. 25, 2002\], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other Federal law.
+Agency and department expertise and responsibilities.—Not later than 30 days after the date of theenactment of this Act \[Nov. 25, 2002\], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other Federal law.
 
 "(2)
 
@@ -138,5 +154,5 @@ Final rules.—As soon as practicable after the date of the enactment of this Ac
 
 #### Information To Be Provided
 
-Pub. L. 109–241, title III, §304(c)(2), July 11, 2006, 120 Stat. 527, provided that: "When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission's shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in section 5(c)(2)(K) of the Deepwater Port Act of 1974 (33 U.S.C. 1504(c)(2)(K)) with respect to vessels reasonably anticipated to be servicing that port."
+Pub. L. 109–241, title III, §304(c)(2), July 11, 2006, 120 Stat. 527, which required the Coast Guard, when operating as a contributing agency in the Federal Energy Regulatory Commission's shoreside licensing process for certain liquefied natural gas or liquefied petroleum gas terminals, to provide the information described in subsec. (c)(2)(K) of this section, was repealed by Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(b)(1), Jan. 1, 2021, 134 Stat. 4747. See subsec. (j)(2) of this section.
 

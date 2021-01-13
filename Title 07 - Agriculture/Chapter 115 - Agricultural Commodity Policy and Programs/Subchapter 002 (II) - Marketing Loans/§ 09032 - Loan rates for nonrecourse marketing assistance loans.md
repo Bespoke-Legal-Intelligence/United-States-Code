@@ -140,7 +140,7 @@ The Secretary shall establish a single loan rate in each county for each kind of
 
 #### (1) In general
 
-&emsp;For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II)of section 9017(b) of this title, the loan rate for seed cotton shall be deemed to be equal to $0.25 per pound.
+&emsp;For purposes of section 9016 (b)(2) of this title and paragraphs (1)(B)(ii) and (2)(A)(ii)(II) of section 9017(b) of this title, the loan rate for seed cotton shall be deemed to be equal to $0.25 per pound.
 
 #### (2) Effect
 

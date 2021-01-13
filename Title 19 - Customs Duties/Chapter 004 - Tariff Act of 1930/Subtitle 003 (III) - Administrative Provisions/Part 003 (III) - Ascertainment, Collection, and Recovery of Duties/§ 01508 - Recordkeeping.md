@@ -20,71 +20,81 @@ Any—
 
 &emsp;(B) are normally kept in the ordinary course of business.
 
-#### (b) Exportations to NAFTA countries
+#### (b) Exports and imports relating to USMCA countries
 
 #### (1) Definitions
 
-&emsp;As used in this subsection—
+&emsp;In this subsection:
 
-&emsp;&emsp;(A) The term "associated records" means, in regard to an exported good under paragraph (2), records associated with—
+#### (A) USMCA; USMCA country
 
-&emsp;&emsp;&emsp;(i) the purchase of, cost of, value of, and payment for, the good;
+&emsp;&emsp;The terms "USMCA" and "USMCA country" have the meanings given those terms in section 4502 of this title.
 
-&emsp;&emsp;&emsp;(ii) the purchase of, cost of, value of, and payment for, all material, including indirect materials, used in the production of the good; and
+#### (B) USMCA certification of origin
 
-&emsp;&emsp;&emsp;(iii) the production of the good.
+&emsp;&emsp;The term "USMCA certification of origin" means the certification established under article 5.2.1 of the USMCA that a good qualifies as an originating good under the USMCA.
 
-> &emsp;&emsp;For purposes of this subparagraph, the terms "indirect material", "material", "preferential tariff treatment", "used", and "value" have the respective meanings given them in articles 415 and 514 of the North American Free Trade Agreement.
+#### (2) Exports to USMCA countries
 
-&emsp;&emsp;(B) The term "NAFTA Certificate of Origin" means the certification, established under article 501 of the North American Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+&emsp;Any person who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury, render for examination and inspection, all records and supporting documents related to the origin of the good (including the certification or copies thereof), including records related to—
 
-#### (2) Exports to NAFTA countries
+&emsp;&emsp;(A) the purchase, cost, value, and shipping of, and payment for, the good;
 
-#### (A) In general
+&emsp;&emsp;(B) the purchase, cost, value, and shipping of, and payment for, all materials, including indirect materials, used in the production of the good; and
 
-&emsp;&emsp;Any person who completes and signs a NAFTA Certificate of Origin for a good for which preferential treatment under the North American Free Trade Agreement is claimed shall make, keep, and render for examination and inspection all records relating to the origin of the good (including the Certificate or copies thereof) and the associated records.
+&emsp;&emsp;(C) the production of the good in the form in which it was exported or the production of the material in the form in which it was sold.
 
-#### (B) Claims for certain waivers, reductions, or refunds of duties or for credit against bonds
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Any person that claims with respect to an article—
-
-&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or theproviso preceding the last proviso to section 81c(a) of this title;
-
-&emsp;&emsp;&emsp;&emsp;(II) a credit against a bond under section 1312(d) of this title; or
-
-&emsp;&emsp;&emsp;&emsp;(III) a refund, waiver, or reduction of duty under section 1313(n)(2) or (o)(1) of this title;
-
-&emsp;&emsp;&nbsp;must disclose to the Customs Service the information described in clause (ii).
-
-#### (ii) Information required
-
-&emsp;&emsp;&emsp;Within 30 days after making a claim described in clause (i) with respect to an article, the person making the claim must disclose to the Customs Service whether that person has prepared, or has knowledge that another person has prepared, a NAFTA Certificate of Origin for the article. If after such 30-day period the person making the claim either—
-
-&emsp;&emsp;&emsp;&emsp;(I) prepares a NAFTA Certificate of Origin for the article; or
-
-&emsp;&emsp;&emsp;&emsp;(II) learns of the existence of such a Certificate for the article;
-
-&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
-
-#### (iii) Action on claim
-
-&emsp;&emsp;&emsp;If the Customs Service determines that a NAFTA Certificate of Origin has been prepared with respect to an article for which a claim described in clause (i) is made, the Customs Service may make such adjustments regarding the previous customs treatment of the article as may be warranted.
-
-#### (3) Exports under the Canadian agreement
+#### (3) Exports under the Canadian Agreement
 
 &emsp;Any person who exports, or who knowingly causes to be exported, any merchandise to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada shall make, keep, and render for examination and inspection such records (including certifications of origin or copies thereof) which pertain to the exportations.
 
+#### (4) Imports into the United States
+
+#### (A) In general
+
+&emsp;&emsp;Any importer who claims preferential tariff treatment under the USMCA for a good imported into the United States from a USMCA country shall make, keep, and, pursuant to rules and regulations prescribed by the Secretary of the Treasury of the Secretary of Labor, render for examination and inspection—
+
+&emsp;&emsp;&emsp;(i) records and supporting documentation related to the importation;
+
+&emsp;&emsp;&emsp;(ii) all records and supporting documents related to the origin of the good (including the certification or copies thereof), if the importer completed the certification; and
+
+&emsp;&emsp;&emsp;(iii) records and supporting documents necessary to demonstrate that the good did not, while in transit to the United States, undergo further production or any other operation other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the United States.
+
+#### (B) Vehicle producer
+
+&emsp;&emsp;Any vehicle producer whose good is the subject of a claim for preferential tariff treatment under the USMCA shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury and Secretary of Labor, render for examination and inspection records and supporting documents related to the labor value content and steel and aluminum purchasing requirements for the qualification of its vehicles for preferential treatment.
+
+#### (5) Retention period
+
+#### (A) Exports to USMCA countries
+
+&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+
+#### (B) Exports under Canadian Agreement
+
+&emsp;&emsp;The records required by paragraph (3) shall be kept for such periods of time as the Secretary shall prescribe, except that—
+
+&emsp;&emsp;&emsp;(i) no period of time for the retention of the records may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
+
+&emsp;&emsp;&emsp;(ii) records for any drawback claim shall be kept until the third anniversary of the date of liquidation of the claim.
+
+#### (C) Imports into the United States
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;An importer covered by paragraph (4)(A) shall keep the records and supporting documents required by such paragraph for a period of at least 5 years after the date of importation of the good.
+
+#### (ii) Vehicle producer
+
+&emsp;&emsp;&emsp;A vehicle producer covered by paragraph (4)(B) shall keep the records and supporting documents required by paragraph (4)(B) for a period of at least 5 years after the date of filing the certifications required under paragraphs (1) and (2) of section 4532(c) of this title.
+
 #### (c) Period of time
 
-The records required by subsections (a) and (b) shall be kept for such periods of time as the Secretary shall prescribe; except that—
+The records required by subsection (a) shall be kept for such periods of time as the Secretary shall prescribe, except that—
 
-&emsp;(1) no period of time for the retention of the records required under subsection (a) or (b)(3) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate;
+&emsp;(1) no period of time for the retention of the records required under subsection (a) may exceed 5 years from the date of entry, filing of a reconciliation, or exportation, as appropriate; and
 
-&emsp;(2) the period of time for the retention of the records required under subsection (b)(2) of this section shall be at least 5 years from the date of signature of the NAFTA Certificate of Origin; and
-
-&emsp;(3) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
+&emsp;(2) records for any drawback claim shall be kept until the 3rd anniversary of the date of liquidation of the claim.
 
 #### (d) Limitation
 
@@ -96,7 +106,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (e) Subsection (b) penalties
 
-#### (1) Relating to NAFTA exports
+#### (1) Relating to USMCA exports
 
 &emsp;Any person who fails to retain records required by paragraph (2) of subsection (b) or the regulations issued to implement that paragraph shall be liable for—
 
@@ -136,7 +146,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (3) Retention period
 
-&emsp;Records and supporting documents shall be kept by the person who issued a Chile FTACertificate of Origin for at least 5 years after the date on which the certificate was issued.
+&emsp;Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
 
 #### (g) Certifications of origin for goods exported under the Dominican Republic-Central America-United States Free Trade Agreement
 
@@ -286,7 +296,7 @@ Any person who fails to retain records and supporting documents required by subs
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520; Pub. L. 114–125, title IX, §906(o), Feb. 24, 2016, 130 Stat. 233.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485; Pub. L. 110–138, title II, §207, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §206, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §207, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §207, Oct. 21, 2011, 125 Stat. 520; Pub. L. 114–125, title IX, §906(o), Feb. 24, 2016, 130 Stat. 233; Pub. L. 116–113, title II, §206(a), Jan. 29, 2020, 134 Stat. 46; Pub. L. 116–260, div. O, title VI, §601(d)(1), Dec. 27, 2020, 134 Stat. 2151.)
 
 #### Amendment of Section
 
@@ -309,6 +319,14 @@ Any person who fails to retain records and supporting documents required by subs
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–113, §206(a)(1), added subsec. (b) and struck out former subsec. (b) which related to exportations to NAFTA countries.
+
+Subsec. (c). Pub. L. 116–260 added subsec. (c).
+
+Pub. L. 116–113, §206(a)(2), struck out subsec. (c) which related to period of time for keeping required records.
+
+Subsec. (e)(1). Pub. L. 116–113, §206(a)(3), substituted "USMCA" for "NAFTA" in heading.
 
 <b>2016</b>—Subsec. (c)(3). Pub. L. 114–125 substituted "liquidation" for "payment".
 
@@ -356,6 +374,46 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 <b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted "and (b)" after "subsection (a)", redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Pub. L. 116–113, title II, §206(b), Jan. 29, 2020, 134 Stat. 48, provided that:
+
+"(1)
+
+In general.—The amendments made by subsection (a) \[amending this section\] shall take effect on the date on which the USMCA enters into force \[July 1, 2020\].
+
+"(2)
+
+Applicability.—
+
+&emsp;"(A)
+
+Exports.—Paragraphs (2) and (5)(A) of section 508(b) of the Tariff Act of 1930 \[19 U.S.C. 1508(b)(2), (5)(A)\], as amended by subsection (a), shall apply with respect to a good exported from the United States on or after the date on which the USMCA enters into force.
+
+&emsp;"(B)
+
+Imports.—Paragraphs (4) and (5)(C) of section 508(b) of the Tariff Act of 1930 \[19 U.S.C. 1508(b)(4), (5)(C)\], as amended by subsection (a), shall apply with respect to a good that is entered for consumption, or withdrawn from warehouse for consumption, on or after the date on which the USMCA enters into force.
+
+"(3)
+
+Transition from nafta treatment.—
+
+&emsp;"(A)
+
+Exports.—In the case of a good exported from the United States before the date on which the USMCA enters into force—
+
+&emsp;&emsp;"(i) the amendments made by subsection (a) to paragraphs (2) and (5)(A) of section 508(b) of the Tariff Act of 1930 (19 U.S.C. 1508) shall not apply with respect to the good; and
+
+&emsp;&emsp;"(ii) section 508 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good.
+
+&emsp;"(B)
+
+Imports.—In the case of a good that is entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force, the amendments made by subsection (a) to paragraphs (4) and (5)(C) of section 508(b) of the Tariff Act of 1930 (19 U.S.C. 1508) shall not apply with respect to the good."
+
+\[For definition of "USMCA" as used in section 206(b) of Pub. L. 116–113, set out above, see section 4502 of this title.\]
+
 #### Effective Date of 2016 Amendment
 
 Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise provided, applicable to drawback claims filed on or after the date that is 2 years after such date, see section 906(q) of Pub. L. 114–125, set out as a note under section 1313 of this title.
@@ -386,7 +444,7 @@ Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) o
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 205(a) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -394,7 +452,7 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 
 #### Construction of 1993 Amendment
 
-Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

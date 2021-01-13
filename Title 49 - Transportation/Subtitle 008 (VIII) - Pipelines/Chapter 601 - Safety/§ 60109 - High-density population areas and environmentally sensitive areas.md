@@ -22,7 +22,7 @@ Areas To Be Included as Unusually Sensitive.—When describing areas that are un
 
 &emsp;(1) locations near pipeline rights-of-way that are critical to drinking water, including intake locations for community water systems and critical sole source aquifer protection areas; and
 
-&emsp;(2) locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
+&emsp;(2) locations near pipeline rights-of-way that are part of the Great Lakes or have been identified as coastal beaches, certain coastal waters, critical wetlands, riverine or estuarine systems, national parks, wilderness areas, wildlife preservation areas or refuges, wild and scenic rivers, or critical habitat areas for threatened and endangered species.
 
 (c)
 
@@ -48,7 +48,7 @@ Authority to issue regulations.—The Secretary may satisfy the requirements of 
 
 Minimum requirements of integrity management programs.—An integrity management program required under paragraph (1) shall include, at a minimum, the following requirements:
 
-&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies andany history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+&emsp;&emsp;(A) A baseline integrity assessment of each of the operator's facilities in areas identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, by internal inspection device, pressure testing, direct assessment, or an alternative method that the Secretary determines would provide an equal or greater level of safety. The operator shall complete such assessment not later than 10 years after the date of enactment of this subsection. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;&emsp;(B) Subject to paragraph (5), periodic reassessments of the facility, at a minimum of once every 7 calendar years, using methods described in subparagraph (A). The Secretary may extend such deadline for an additional 6 months if the operator submits written notice to the Secretary with sufficient justification of the need for the extension.
 
@@ -102,7 +102,7 @@ Additional optional standards.—The Secretary may also prescribe standards requ
 
 &emsp;(8)
 
-Lack of regulations.—In the absence of regulations addressing the elements of an integrity management program described in this subsection, the operator of a pipeline facility shall conduct a risk analysis and adopt and implement an integrity management program described in this subsection not later than 24 months after the date of enactment of this subsection and shall complete the baseline integrity assessment described in this subsection not later than 10 years after such date of enactment. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+Lack of regulations.—In the absence of regulations addressing the elements of an integrity management program described in this subsection, the operator of a pipeline facility shall conduct a risk analysis and adopt and implement an integrity management program described in this subsection not later than 24 months after the date of enactment of this subsection and shall complete the baseline integrity assessment described in this subsection not later than 10 years after such dateof enactment. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;(9)
 
@@ -139,6 +139,26 @@ State review of integrity management plans.—A State authority that enters into
 &emsp;(11)
 
 Application of standards.—Section 60104(b) shall not apply to this section.
+
+&emsp;(12)
+
+Distribution pipelines.—
+
+&emsp;&emsp;(A)
+
+Study.—The Secretary shall conduct a study of methods that may be used under paragraph (3), other than direct assessment, to assess distribution pipelines to determine whether any such method—
+
+&emsp;&emsp;&emsp;(i) would provide a greater level of safety than direct assessment of the pipelines; and
+
+&emsp;&emsp;&emsp;(ii) is feasible.
+
+&emsp;&emsp;(B)
+
+Report.—Not later than 2 years after the date of enactment of this paragraph, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Energy and Commerce and Transportation and Infrastructure of the House of Representatives a report describing—
+
+&emsp;&emsp;&emsp;(i) the results of the study under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) recommendations based on that study, if any.
 
 (d)
 
@@ -194,6 +214,90 @@ Development and implementation.—Each operator of a distribution pipeline that 
 
 Savings clause.—Subject to section 60104(c), a State authority having a current certification under section 60105 may adopt or continue in force additional integrity management requirements, including additional requirements for installation of excess flow valves, for gas distribution pipelines within the boundaries of that State.
 
+&emsp;(7)
+
+Evaluation of risk.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 2 years after the date of enactment of this paragraph, the Secretary shall promulgate regulations to ensure that each distribution integrity management plan developed by an operator of a distribution system includes an evaluation of—
+
+&emsp;&emsp;&emsp;(i) the risks resulting from the presence of cast iron pipes and mains in the distribution system; and
+
+&emsp;&emsp;&emsp;(ii) the risks that could lead to or result from the operation of a low-pressure distribution system at a pressure that makes the operation of any connected and properly adjusted low-pressure gas burning equipment unsafe, as determined by the Secretary.
+
+&emsp;&emsp;(B)
+
+Consideration.—In carrying out subparagraph (A)(ii), the Secretary shall ensure that an operator of a distribution system—
+
+&emsp;&emsp;&emsp;(i) considers factors other than past observed abnormal operating conditions (as defined in section 192.803 of title 49, Code of Federal Regulations (or a successor regulation)) in ranking risks and identifying measures to mitigate those risks; and
+
+&emsp;&emsp;&emsp;(ii) may not determine that there are no potential consequences associated with low probability events unless that determination is otherwise supported by engineering analysis or operational knowledge.
+
+&emsp;&emsp;(C)
+
+Deadlines.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Not later than 2 years after the date of enactment of this paragraph, each operator of a distribution system shall make available to the Secretary or the relevant State authority with a certification in effect under section 60105, as applicable, a copy of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the distribution integrity management plan of the operator;
+
+&emsp;&emsp;&emsp;&emsp;(II) the emergency response plan under section 60102(d)(5); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the procedural manual for operations, maintenance, and emergencies under section 60102(d)(4).
+
+&emsp;&emsp;&emsp;(ii)
+
+Updates.—Each operator of a distribution system shall make available to the Secretary or make available for inspection to the relevant State authority described in clause (i), if applicable, an updated plan or manual described in that clause by not later than 60 days after the date of a significant update, as determined by the Secretary.
+
+&emsp;&emsp;&emsp;(iii)
+
+Applicability of foia.—Nothing in this subsection shall be construed to authorize the disclosure of any information that is exempt from disclosure under section 552(b) of title 5.
+
+&emsp;&emsp;(D)
+
+Review of plans and documents.—
+
+&emsp;&emsp;&emsp;(i)
+
+Timing.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—Not later than 2 years after the date of promulgation of the regulations under subparagraph (A), and not less frequently than once every 5 years thereafter, the Secretary or relevant State authority with a certification in effect under section 60105 shall review the distribution integrity management plan, the emergency response plan, and the procedural manual for operations, maintenance, and emergencies of each operator of a distribution system and record the results of that review for use in the next review of the program of that operator.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Grace period.—For the third, fourth, and fifth years after the date of promulgation of the regulations under subparagraph (A), the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not use subclause (I) as justification to reduce funding, decertify, or penalize in any way under section 60105, 60106, or 60107 a State authority that has in effect a certification under section 60105 or an agreement under section 60106; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerceof the House of Representatives a list of States found to be noncompliant with subclause (I) during the annual program evaluation; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) provide a written notice to each State authority described in item (aa) that is not in compliance with the requirements of subclause (I).
+
+&emsp;&emsp;&emsp;(ii)
+
+Review.—Each plan or procedural manual made available under subparagraph (C)(i) shall be reexamined—
+
+&emsp;&emsp;&emsp;&emsp;(I) on significant change to the plans or procedural manual, as applicable;
+
+&emsp;&emsp;&emsp;&emsp;(II) on significant change to the gas distribution system of the operator, as applicable; and
+
+&emsp;&emsp;&emsp;&emsp;(III) not less frequently than once every 5 years.
+
+&emsp;&emsp;&emsp;(iii)
+
+Context of review.—The Secretary may conduct a review under clause (i) or (ii) as an element of the inspection of the operator carried out by the Secretary.
+
+&emsp;&emsp;&emsp;(iv)
+
+Inadequate programs.—If the Secretary determines that the documents reviewed under clause (i) or (ii) do not comply with the requirements of this chapter (including regulations to implement this chapter), have not been adequately implemented, or are inadequate for the safe operation of a pipeline facility, the Secretary may conduct proceedings under this chapter.
+
 (f)
 
 Certification of Pipeline Integrity Management Program Performance.—The Secretary shall establish procedures requiring certification of annual and semiannual pipeline integrity management program performance reports by a senior executive officer of the company operating a pipeline subject to this chapter. The procedures shall require a signed statement, which may be effected electronically in accordance with the provisions of the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.), certifying that—
@@ -212,7 +316,7 @@ Integrity assessments.—Notwithstanding any pipeline integrity management progr
 
 &emsp;&emsp;(A) using internal inspection technology appropriate for the integrity threat are completed not less often than once every 12 months; and
 
-&emsp;&emsp;(B) using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located.
+&emsp;&emsp;(B) using pipeline route surveys, depth of cover surveys, pressure tests, external corrosion direct assessment, or other technology that the operator demonstrates can further the understanding of the condition of the pipeline facility are completed on a schedule based on the risk that the pipeline facility poses to the high consequence area in which the pipeline facility is located, but not less often than once every 12 months.
 
 &emsp;(2)
 
@@ -228,9 +332,13 @@ High consequence area defined.—For purposes of this subsection, the term "high
 
 &emsp;(4)
 
-Inspection and enforcement.—The Secretary shall conduct inspections under section 60117(c) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
+Inspection and enforcement.—The Secretary shall conduct inspections under section 60117(d) to determine whether each operator of a pipeline facility to which this subsection applies is complying with this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496; Pub. L. 112–90, §§5(e), 22, Jan. 3, 2012, 125 Stat. 1908, 1917; Pub. L. 114–183, §§19(a), 25, June 22, 2016, 130 Stat. 527, 530.)
+&emsp;(5)
+
+Considerations.—In carrying out this subsection, each operator shall implement procedures that assess potential impacts by maritime equipment or other vessels, including anchors, anchor chains, or any other attached equipment.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1315; Pub. L. 103–429, §6(75), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§7, 20(i), Oct. 12, 1996, 110 Stat. 3800, 3805; Pub. L. 107–355, §14(a), (b), Dec. 17, 2002, 116 Stat. 3002, 3005; Pub. L. 109–468, §§9, 14, 16, Dec. 29, 2006, 120 Stat. 3493, 3496; Pub. L. 112–90, §§5(e), 22, Jan. 3, 2012, 125 Stat. 1908, 1917; Pub. L. 114–183, §§19(a), 25, June 22, 2016, 130 Stat. 527, 530; Pub. L. 116–260, div. R, title I, §§108(b)(1), 120(b), (d), 122, title II, §202(a), Dec. 27, 2020, 134 Stat. 2223, 2235–2237.)
 
 Historical and Revision Notes
 
@@ -278,11 +386,25 @@ This amends 49:60109(a)(2) to correct an error in the codification enacted by se
 
 The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
 
+The date of enactment of this paragraph, referred to in subsecs. (c)(12)(B) and (e)(7)(A), (C)(i), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
 The date of enactment of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.
 
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (f), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–260, §120(b), substituted "certain coastal waters" for "marine coastal waters".
+
+Subsec. (c)(12). Pub. L. 116–260, §122, added par. (12).
+
+Subsec. (e)(7). Pub. L. 116–260, §202(a), added par. (7).
+
+Subsec. (g)(1)(B). Pub. L. 116–260, §120(d)(1), inserted ", but not less often than once every 12 months" before period at end.
+
+Subsec. (g)(4). Pub. L. 116–260, §108(b)(1), substituted "section 60117(d)" for "section 60117(c)".
+
+Subsec. (g)(5). Pub. L. 116–260, §120(d)(2), added par. (5).
 
 <b>2016</b>—Subsec. (b)(2). Pub. L. 114–183, §19(a), substituted "are part of the Great Lakes or have been identified as coastal beaches, marine coastal waters," for "have been identified as".
 
@@ -306,7 +428,7 @@ Subsec. (d). Pub. L. 107–355, §14(b), added subsec. (d).
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted "waters where a substantial likelihood of commercial navigation exists" for "a navigable waterway (as the Secretary defines by regulation)".
 
-Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
 
 &emsp;"(1) earthquake zones and areas subject to landslides and other substantial ground movements;
 
@@ -322,9 +444,59 @@ Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and ame
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Consideration of Pipeline Class Location Changes
+
+Pub. L. 116–260, div. R, title I, §115, Dec. 27, 2020, 134 Stat. 2232, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Administrator of the Pipeline and Hazardous Materials Safety Administration shall—
+
+&emsp;"(1) review all comments submitted in response to the advance notice of proposed rulemaking entitled 'Pipeline Safety: Class Location Change Requirements' (83 Fed. Reg. 36861 (July 31, 2018));
+
+&emsp;"(2) complete any other activities or procedures necessary—
+
+&emsp;&emsp;"(A) to make a determination whether to publish a notice of proposed rulemaking; and
+
+&emsp;&emsp;"(B) if a positive determination is made under subparagraph (A), to advance in the rulemaking process, including by taking any actions required under section 60115 of title 49, United State Code; and
+
+&emsp;"(3) consider the issues raised in the report to Congress entitled 'Evaluation of Expanding Pipeline Integrity Management Beyond High-Consequence Areas and Whether Such Expansion Would Mitigate the Need for Gas Pipeline Class Location Requirements' prepared by the Pipeline and Hazardous Materials Safety Administration and submitted to Congress on June 8, 2016, including the adequacy of existing integrity management programs.
+
+"(b)
+
+Rule of Construction.—Nothing in this section may be construed to require the Administrator of the Pipeline and Hazardous Materials Safety Administration to publish a notice of proposed rulemaking or otherwise continue the rulemaking process with respect to the advance notice of proposed rulemaking described in subsection (a)(1).
+
+"(c)
+
+Reporting.—For purposes of this section, the requirements of section 106 \[134 Stat. 2220\] shall apply during the period beginning on the date that is 180 days after the date of enactment of this Act and ending on the date on which the requirements of subsection (a) are completed."
+
 #### Unusually Sensitive Areas (USA) Ecological Resources
 
-Pub. L. 114–183, §19(b), June 22, 2016, 130 Stat. 527, provided that: "The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and marine coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title)."
+Pub. L. 116–260, div. R, title I, §120(c), Dec. 27, 2020, 134 Stat. 2235, provided that: "The Secretary \[of Transportation\] shall complete the revision to regulations required under section 19(b) of the PIPES Act of 2016 (49 U.S.C. 60109 note; Public Law 114–183) (as amended by subsection (a)) \[set out below\] by not later than 90 days after the date of enactment of this Act \[Dec. 27, 2020\]."
+
+Pub. L. 114–183, §19(b), June 22, 2016, 130 Stat. 527, as amended by Pub. L. 116–260, div. R, title I, §120(a), Dec. 27, 2020, 134 Stat. 2235, provided that:
+
+"(1)
+
+Definitions.—In this subsection:
+
+&emsp;"(A)
+
+Certain coastal waters.—The term 'certain coastal waters' means—
+
+&emsp;&emsp;"(i) the territorial sea of the United States;
+
+&emsp;&emsp;"(ii) the Great Lakes and their connecting waters; and
+
+&emsp;&emsp;"(iii) the marine and estuarine waters of the United States up to the head of tidal influence.
+
+&emsp;"(B)
+
+Coastal beach.—The term 'coastal beach' means any land between the high- and low-water marks of certain coastal waters.
+
+"(2)
+
+Revision.—The Secretary of Transportation shall revise section 195.6(b) of title 49, Code of Federal Regulations, to explicitly state that the Great Lakes, coastal beaches, and certain coastal waters are USA ecological resources for purposes of determining whether a pipeline is in a high consequence area (as defined in section 195.450 of such title)."
 
 #### Integrity Management
 

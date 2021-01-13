@@ -48,7 +48,9 @@
 
 &emsp;(16) harmonize, to the maximum extent possible, all Federal activities in support of tourism and recreation with the needs of the general public and the States, territories, local governments, and the tourism and recreation industry, and to give leadership to all concerned with tourism, recreation, and national heritage preservation in the United States.
 
-(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub.L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
+(Pub. L. 87–63, title I, §101, formerly §1, June 29, 1961, 75 Stat. 129; renumbered and amended Pub. L. 97–63, §2(a), Oct. 16, 1981, 95 Stat. 1011; Pub. L. 102–372, §5, Sept. 30, 1992, 106 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@
 Subsec. (b)(2) to (16). Pub. L. 102–372, §5(2), (3), added pars. (2) to (5) and redesignated former pars. (2) to (12) as (6) to (16), respectively.
 
 <b>1981</b>—Pub. L. 97–63 substituted provisions setting out a detailed 4-point recital of Congressional findings and establishing a 12-point national tourism policy for provisions setting out the former declaration of purpose of this chapter which was to strengthen the domestic and foreign commerce of the United States, and promote friendly understanding and appreciation of the United States by encouraging foreign residents to visit the United States and by facilitating international travel generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 
@@ -112,7 +116,7 @@ Pub. L. 102–372, §2, Sept. 30, 1992, 106 Stat. 1170, provided that: "The Cong
 
 &emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
-&emsp;"(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
+&emsp;"(11) exporting those goods and services which United States industry can produce at a comparativecost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
 &emsp;"(12) the emergence of democratic governments in the formerly Communist nations of Eastern Europe and in the former Soviet Union provide new opportunities for United States firms engaged in both the inbound and outbound tourism markets."
 
@@ -130,7 +134,7 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 "(4) One representative of the Department of Transportation designated by the Secretary of Transportation.
 
-"(5) Eleven individuals appointed by the President from private life who are informed about and concerned with the improvement, development, and promotion ofUnited States tourism resources and opportunities or who are otherwise experienced in tourism research, promotion, or planning. The President shall designate one of the individuals appointed by him to serve as Chairman of the Commission.
+"(5) Eleven individuals appointed by the President from private life who are informed about and concerned with the improvement, development, and promotion of United States tourism resources and opportunities or who are otherwise experienced in tourism research, promotion, or planning. The President shall designate one of the individuals appointed by him to serve as Chairman of the Commission.
 
 "(b) \[<i>Study and investigation; report to President and Congress; recommendations; termination</i>\]. The Commission shall make a full and complete study and investigation for the purpose of—
 
@@ -162,6 +166,8 @@ Pub. L. 91–477, §6, Oct. 21, 1970, 84 Stat. 1073, provided that:
 
 "(f) \[<i>Authorization of appropriations</i>\]. There are authorized to be appropriated such sums, not to exceed $750,000, as may be necessary to carry out the provisions of this section."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13597. Establishing Visa and Foreign Visitor Processing Goals and the Task Force On Travel and Competitiveness
 
 Ex. Ord. No. 13597, Jan. 19, 2012, 77 F.R. 3373, as amended by Ex. Ord. No. 13802, §1, June 21, 2017, 82 F.R. 28747, provided:
@@ -172,7 +178,7 @@ Section 1. <i>Policy</i>. The travel and tourism industry is one of our Nation's
 
 Steady progress has been made since 2010, when my Administration launched the National Export Initiative and the Travel Promotion Act was signed into law. While our processes for moving people and goods across our borders are now both more secure and more efficient, new initiatives are needed to enable us to better capitalize on the economic opportunities presented by a dynamic 21st century travel and tourism industry.
 
-Sec. 2. <i>Visa and Foreign Visitor Processing</i>. (a) The Assistant to the President for Homeland Security and Counterterrorism shall, consistent with Presidential Policy Directive 1 or any successor documents and in coordination with the Assistant to the President and Cabinet Secretary, maintain an interagency process for coordinating the implementation of regulatory improvements and the evaluation of legislative proposals to enhance and expedite travel to and arrival in the United States by foreign nationals, consistent with national security requirements.
+Sec. 2. <i>Visa and Foreign Visitor Processing</i>. (a) The Assistant to the President for Homeland Security andCounterterrorism shall, consistent with Presidential Policy Directive 1 or any successor documents and in coordination with the Assistant to the President and Cabinet Secretary, maintain an interagency process for coordinating the implementation of regulatory improvements and the evaluation of legislative proposals to enhance and expedite travel to and arrival in the United States by foreign nationals, consistent with national security requirements.
 
 (b) The Secretaries of State and Homeland Security, in consultation with the Assistant to the President for Homeland Security and Counterterrorism, the Director of the Office of Management and Budget, and the heads of such agencies as appropriate, shall develop an implementation plan, within 60 days of the date of this order, describing actions to be undertaken, including those that build upon efforts underway, to achieve the following:
 

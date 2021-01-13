@@ -40,7 +40,7 @@ In this subchapter:
 
 &emsp;&emsp;(i) subject to subparagraph (B), with respect to paragraphs (3) and (4) of section 300mm–21(a) of this title (relating to enrollment of WTC responders), section 300mm–22(c) of this title and the corresponding provisions of section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment,<sup>1</sup> paragraphs (1)(C), (2)(B), and (3) of section 300mm–31(a) of this title (relating to determination or certification of screening-eligible or certified-eligible WTC responders), and subpart 3 of part B (relating to payor provisions), an official in the Department of Health and Human Services, to be designated by the Secretary; and
 
-&emsp;&emsp;(ii) with respect to any other provision of this subchapter, the Director of the NationalInstitute for Occupational Safety and Health, or a designee of such Director.
+&emsp;&emsp;(ii) with respect to any other provision of this subchapter, the Director of the National Institute for Occupational Safety and Health, or a designee of such Director.
 
 &emsp;(B) In no case may the Secretary designate under subparagraph (A)(i) the Director of the National Institute for Occupational Safety and Health or a designee of such Director with respect to section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment).
 

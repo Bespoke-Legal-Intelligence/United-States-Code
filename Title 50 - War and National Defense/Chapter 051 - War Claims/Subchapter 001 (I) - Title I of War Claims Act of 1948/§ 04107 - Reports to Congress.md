@@ -22,7 +22,7 @@ Section was formerly classified to section 2008 of the former Appendix to this t
 
 #### Transfer of Functions
 
-For provisions transferring Foreign Claims Settlement Commission of the United States to Departmentof Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

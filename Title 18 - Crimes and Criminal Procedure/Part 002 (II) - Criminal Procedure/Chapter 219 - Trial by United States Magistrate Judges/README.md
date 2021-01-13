@@ -7,11 +7,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–82, §7(c), Oct. 10, 1979, 93 Stat. 646, substituted "Misdemeanors" for "Minor offenses" in item 3401.
 
 <b>1968</b>—Pub. L. 90–578, title III, §§301(c), 302(c), Oct. 17, 1968, 82 Stat. 1115, 1116, substituted "TRIAL BY UNITED STATES MAGISTRATES" for "TRIAL BY COMMISSIONERS" in chapter heading, and substituted "Minor offenses" for "Petty offenses" and struck out "fees" after "probation laws" in item 3401.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

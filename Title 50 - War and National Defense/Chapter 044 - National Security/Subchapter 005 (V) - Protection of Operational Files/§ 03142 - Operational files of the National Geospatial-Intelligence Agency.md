@@ -40,7 +40,7 @@
 
 (B) Judicial review shall not be available in the manner provided for under subparagraph (A) as follows:
 
-&emsp;(i) In any case in which information specifically authorized under criteria established byan Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by NGA, such information shall be examined ex parte, in camera by the court.
+&emsp;(i) In any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interests of national defense or foreign relations is filed with, or produced for, the court by NGA, such information shall be examined ex parte, in camera by the court.
 
 &emsp;(ii) The court shall, to the fullest extent practicable, determine the issues of fact based on sworn written submissions of the parties.
 

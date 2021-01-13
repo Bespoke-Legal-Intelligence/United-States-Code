@@ -38,7 +38,7 @@ Not later than December 31, 1988, the Director shall—
 
 &emsp;&emsp;(A) information on adminstrative <sup>2</sup> costs associated with such volunteers;
 
-&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the quality of services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
+&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the qualityof services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
 
 &emsp;&emsp;(C) a review of the effect that participation by volunteers who do not receive such stipend have on the administration of such programs; and
 
@@ -66,7 +66,7 @@ Subsec. (f)(3). Pub. L. 111–13, §2153(2), substituted "authorizing committees
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–204 inserted "(including the VISTA Literacy Corps which shall be evaluated as a separate program at least once every 3 years)" after "this chapter" in first sentence.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–551, §8(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Director shall biennially measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, and their structure and mechanismsfor delivery of services. Evaluations shall be conducted by persons not immediately involved in the administration of the program or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title."
+<b>1986</b>—Subsec. (a). Pub. L. 99–551, §8(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Director shall biennially measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, and their structure and mechanisms for delivery of services. Evaluations shall be conducted by persons not immediately involved in the administration of the program or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title."
 
 Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 

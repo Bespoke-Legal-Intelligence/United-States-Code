@@ -48,6 +48,8 @@ make, promulgate, issue, rescind, and amend such rules and regulations as may be
 
 (Pub. L. 87–297, title IV, §401, formerly §41, Sept. 26, 1961, 75 Stat. 635; Pub. L. 93–332, §1(a), July 8, 1974, 88 Stat. 289; Pub. L. 95–108, §5, Aug. 17, 1977, 91 Stat. 872; Pub. L. 102–228, title IV, §401(b), Dec. 12, 1991, 105 Stat. 1698; Pub. L. 103–236, title VII, §715, Apr. 30, 1994, 108 Stat. 498; renumbered §401 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(13), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5.
@@ -80,7 +82,7 @@ Subsec. (i). Pub. L. 105–277, §1223(13)(B), (F), redesignated subsec. (j) as 
 
 Subsec. (j). Pub. L. 105–277, §1223(13)(F), redesignated subsec. (j) as (i).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted "except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such titlerelating to classification and General Schedule pay rates, if the Director ensures that—" for "except that during the 2-year period beginning on August 17, 1977, the Director may, to the extent he deems necessary to the discharge of his responsibilities, appoint and fix the compensation of officers and employees for the Agency without regard to such provisions, subject to the following requirements:", added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted "except that the Director may, to the extent the Director determines necessary to the discharge of his responsibilities, appoint and fix the compensation of employees possessing specialized technical expertise without regard to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, if the Director ensures that—" for "except that during the 2-year period beginning on August 17, 1977, the Director may, to the extent he deems necessary to the discharge of his responsibilities, appoint and fix the compensation of officers and employees for the Agency without regard to such provisions, subject to the following requirements:", added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 "(1) an officer or employee whose compensation is fixed under the foregoing exception may not be paid a salary at a rate in excess of the rate payable under such chapter 51 and such subchapter III for positions of equivalent difficulty or responsibility except for (A) those officers and employees whose compensation is fixed by law, and (B) scientific and technical personnel who may be compensated at a rate not to exceed the rate in effect for grade GS–18 of the General Schedule;
 
@@ -96,9 +98,13 @@ Subsecs. (g) to (i). Pub. L. 95–108, §5(b), added subsec. (g) and redesignate
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–332 substituted "as authorized by section 3109 of title 5" for "as authorized by section 55a of title 5, at rates not to exceed $100 per diem for individuals", "section 5703 of such title" for "section 73b–2 of title 5" and "130 days" for "one hundred days".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority To Make Certifications Under Section 41(d) of the Arms Control and Disarmament Act
 

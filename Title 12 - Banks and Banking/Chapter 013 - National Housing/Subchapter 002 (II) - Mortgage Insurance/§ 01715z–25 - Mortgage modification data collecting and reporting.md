@@ -2,7 +2,7 @@
 
 #### (a) Reporting requirements
 
-Not later than 120 days after May 20, 2009, and quarterly thereafter, the Comptroller of the Currency and the Director of the Office of Thrift Supervision,<sup>1</sup> shall jointly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate,<sup>2</sup> the Committee on Financial Services of the House of Representatives on the volume of mortgage modifications reported to the Office of the Comptroller of the Currency and the Office of Thrift Supervision, under the mortgage metrics program of each such Office, during the previous quarter, including the following:
+Not later than 120 days after May 20, 2009, and quarterly thereafter, the Comptroller of theCurrency and the Director of the Office of Thrift Supervision,<sup>1</sup> shall jointly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate,<sup>2</sup> the Committee on Financial Services of the House of Representatives on the volume of mortgage modifications reported to the Office of the Comptroller of the Currency and the Office of Thrift Supervision, under the mortgage metrics program of each such Office, during the previous quarter, including the following:
 
 &emsp;(1) A copy of the data collection instrument currently used by the Office of the Comptroller of the Currency and the Office of Thrift Supervision to collect data on loan modifications.
 
@@ -62,6 +62,8 @@ Not later than 120 days after May 20, 2009, and quarterly thereafter, the Comptr
 
 (Pub. L. 111–22, div. A, title I, §104, May 20, 2009, 123 Stat. 1636; Pub. L. 111–203, title XIV, §1493, July 21, 2010, 124 Stat. 2206.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (b)(1)(A), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§5301 et seq.) of this title and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -79,6 +81,8 @@ Subsec. (a)(3). Pub. L. 111–203, §1493(a)(2), inserted "each State for" after
 Subsec. (a)(4). Pub. L. 111–203, §1493(a)(3), inserted "in each State" after "total number of loans" in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 111–203, §1493(b), inserted at end "Not later than 60 days after the date of the enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Comptroller of the Currency and the Director of the Office of Thrift Supervision shall update such requirements to reflect amendments made to this section by such Act."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

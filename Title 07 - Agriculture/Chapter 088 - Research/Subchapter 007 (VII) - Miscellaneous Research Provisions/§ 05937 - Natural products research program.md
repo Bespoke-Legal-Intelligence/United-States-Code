@@ -6,7 +6,7 @@ The Secretary shall establish within the Department a natural products research 
 
 #### (b) Duties
 
-In carrying out the program established under subsection (a), the Secretary shall coordinate research relating to natural products, including—
+In carrying out the program established under subsection (a), the Secretary shall coordinateresearch relating to natural products, including—
 
 &emsp;(1) research to improve human health and agricultural productivity through the discovery, development, and commercialization of products and agrichemicals from bioactive natural products, including products from plant, marine, and microbial sources;
 

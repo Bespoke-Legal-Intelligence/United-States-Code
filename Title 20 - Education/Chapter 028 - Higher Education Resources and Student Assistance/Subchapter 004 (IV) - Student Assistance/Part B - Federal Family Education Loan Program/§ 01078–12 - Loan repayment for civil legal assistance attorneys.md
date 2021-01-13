@@ -16,7 +16,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a nonprofit organization that provides legal assistance with respect to civil matters to low-income individuals without a fee; or
 
-&emsp;&emsp;&emsp;(ii) a protection and advocacy system or client assistance program that provideslegal assistance with respect to civil matters and receives funding under—
+&emsp;&emsp;&emsp;(ii) a protection and advocacy system or client assistance program that provides legal assistance with respect to civil matters and receives funding under—
 
 &emsp;&emsp;&emsp;&emsp;(I) subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.);
 
@@ -98,7 +98,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in suchaccount and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 
@@ -118,7 +118,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (1) In general
 
-&emsp;On completion of the required period of service under an agreement under subsection (d),the borrower and the Secretary may, subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
+&emsp;On completion of the required period of service under an agreement under subsection (d), the borrower and the Secretary may, subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
 
 #### (2) Term
 

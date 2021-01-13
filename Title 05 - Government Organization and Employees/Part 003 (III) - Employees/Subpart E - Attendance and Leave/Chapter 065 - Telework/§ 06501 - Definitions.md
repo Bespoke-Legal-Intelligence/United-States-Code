@@ -16,6 +16,8 @@ Telework.—The term "telework" or "teleworking" refers to a work flexibility ar
 
 (Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3165.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Telework Research
 
 Pub. L. 111–292, §4, Dec. 9, 2010, 124 Stat. 3173, provided that:

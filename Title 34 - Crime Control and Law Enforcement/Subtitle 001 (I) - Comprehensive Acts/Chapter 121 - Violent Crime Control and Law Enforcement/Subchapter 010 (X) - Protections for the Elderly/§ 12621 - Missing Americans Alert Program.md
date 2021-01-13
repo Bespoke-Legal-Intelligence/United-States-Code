@@ -14,7 +14,7 @@ Subject to the availability of appropriations to carry out this section, the Att
 
 &emsp;&emsp;&emsp;(ii) facilitate the rescue and recovery of individuals who, due to their dementia or developmental disabilities, wander from safe environments; and
 
-&emsp;&emsp;&emsp;(iii) recognize and respond to and appropriately interact with endangered missingindividuals with dementia or developmental disabilities who, due to their condition, wander from safe environments;
+&emsp;&emsp;&emsp;(iii) recognize and respond to and appropriately interact with endangered missing individuals with dementia or developmental disabilities who, due to their condition, wander from safe environments;
 
 &emsp;&emsp;(C) provide prevention and response training and emergency protocols for school administrators, staff, and families or guardians of individuals with dementia, such as Alzheimer's Disease, or developmental disabilities, such as autism, to help reduce the risk of wandering by such individuals; and
 
@@ -42,7 +42,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the finalaudit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
 #### (B) Audits
 
@@ -121,6 +121,8 @@ All grants awarded by the Attorney General under this section shall be subject t
 &emsp;&emsp;(B) the reason the Attorney General awarded multiple grants to the same applicant for a similar purpose.
 
 (Pub. L. 103–322, title XXIV, §240001, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 115–141, div. Q, title I, §102(a), Mar. 23, 2018, 132 Stat. 1116.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

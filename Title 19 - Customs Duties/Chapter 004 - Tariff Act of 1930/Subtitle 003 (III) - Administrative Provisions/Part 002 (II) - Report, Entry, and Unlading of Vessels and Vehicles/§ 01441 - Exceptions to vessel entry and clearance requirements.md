@@ -40,7 +40,7 @@ Provisions somewhat similar to those in par. (1) of this section were contained 
 
 <b>2000</b>—Par (6). Pub. L. 106–476 added par. (6).
 
-<b>1999</b>—Par. (6). Pub. L. 106–36 struck out par. (6) which read as follows: "Tugs documented under chapter 121 of title 46 with a Great Lakes endorsement when towing vessels which are required by law to enter and clear."
+<b>1999</b>—Par. (6). Pub. L. 106–36 struck out par. (6) which read as follows: "Tugs documented under chapter 121 oftitle 46 with a Great Lakes endorsement when towing vessels which are required by law to enter and clear."
 
 <b>1996</b>—Pars. (1), (2), (4), (5). Pub. L. 104–295 substituted period for semicolon at end of pars. (1), (2), and (4) and substituted period for "; and" at end of par. (5).
 
@@ -64,7 +64,7 @@ Par. (6). Pub. L. 103–182, §655(3), (4), redesignated par. (5) as (6) and sub
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, orwithdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
+Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1984 Amendment
 

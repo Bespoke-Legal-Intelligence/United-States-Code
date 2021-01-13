@@ -4,6 +4,8 @@ Appropriations herein and on and after December 22, 1987, made shall be availabl
 
 (Pub. L. 100–202, §101(g) \[title I\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–224; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Appropriations herein, referred to in text, probably means appropriations under the headings "
@@ -11,6 +13,8 @@ Appropriations herein, referred to in text, probably means appropriations under 
 Geological Survey", "surveys, investigations, and research" and "
 
 administrative provisions", of the annual Department of the Interior and Related Agencies Appropriations Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) no State shall receive less than $250,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater; and
 
-&emsp;&emsp;(B) if the sums appropriated to carry out this subchapter for the fiscal year exceed by$1,000,000 or more the sums appropriated to carry out part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992, no State shall receive less than $300,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater.
+&emsp;&emsp;(B) if the sums appropriated to carry out this subchapter for the fiscal year exceed by $1,000,000 or more the sums appropriated to carry out part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992, no State shall receive less than $300,000, or 1/3 of 1 percent of the sums appropriated for the fiscal year for which the allotment is made, whichever amount is greater.
 
 #### (2) Certain territories
 
@@ -30,9 +30,11 @@ A State that receives an allotment under this subchapter shall not use more than
 
 #### (d) Services for youth with the most significant disabilities
 
-A State that receives an allotment under this subchapter shall reserve and expend half of such allotment for the provision of supported employment services, including extended services, to youth with the most significant disabilities in order to assist those youth in achieving an employment outcome in supported employment.
+A State that receives an allotment under this subchapter shall reserve and expend half of such allotment for the provision of supported employment services, including extended services, to youth with the most significant disabilities inorder to assist those youth in achieving an employment outcome in supported employment.
 
 (Pub. L. 93–112, title VI, §603, formerly §622, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(13)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §603 and amended Pub. L. 113–128, title IV, §461(3), (5), July 22, 2014, 128 Stat. 1679.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

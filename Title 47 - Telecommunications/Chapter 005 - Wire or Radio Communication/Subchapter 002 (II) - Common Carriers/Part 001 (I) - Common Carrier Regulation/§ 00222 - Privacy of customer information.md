@@ -20,7 +20,7 @@ A telecommunications carrier that receives or obtains proprietary information fr
 
 #### (3) Aggregate customer information
 
-&emsp;A telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate customer information other than for the purposes described in paragraph (1). A local exchange carrier may use, disclose, or permit access to aggregate customer information other than for purposes described in paragraph (1) only if it provides such aggregate information to other carriers or persons on reasonable and nondiscriminatory terms and conditions upon reasonable request therefor.
+&emsp;A telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate customer information other than for the purposes described inparagraph (1). A local exchange carrier may use, disclose, or permit access to aggregate customer information other than for purposes described in paragraph (1) only if it provides such aggregate information to other carriers or persons on reasonable and nondiscriminatory terms and conditions upon reasonable request therefor.
 
 #### (d) Exceptions
 
@@ -84,7 +84,7 @@ As used in this section:
 
 #### (4) Public safety answering point
 
-&emsp;The term "public safety answering point" means a facility that has been designated to receive emergency calls and route them to emergency service personnel.
+&emsp;The term "public safety answering point" means a facility that has been designated toreceive emergency calls and route them to emergency service personnel.
 
 #### (5) Emergency services
 
@@ -99,6 +99,8 @@ As used in this section:
 &emsp;The term "emergency support services" means information or data base management services used in support of emergency services.
 
 (June 19, 1934, ch. 652, title II, §222, as added Pub. L. 104–104, title VII, §702, Feb. 8, 1996, 110 Stat. 148; amended Pub. L. 106–81, §5, Oct. 26, 1999, 113 Stat. 1288; Pub. L. 110–283, title III, §301, July 23, 2008, 122 Stat. 2625.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

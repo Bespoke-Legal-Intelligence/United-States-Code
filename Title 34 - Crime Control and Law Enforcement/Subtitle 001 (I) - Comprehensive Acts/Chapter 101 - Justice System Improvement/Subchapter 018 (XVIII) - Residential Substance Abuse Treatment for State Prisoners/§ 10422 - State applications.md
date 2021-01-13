@@ -44,13 +44,15 @@ A State may use amounts received under this subchapter to provide nonresidential
 
 (Pub. L. 90–351, title I, §1902, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §2102(2), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 109–162, title XI, §§1111(c)(2)(J), 1145(a), (b), Jan. 5, 2006, 119 Stat. 3102, 3111; Pub. L. 110–199, title I, §102(a), Apr. 9, 2008, 122 Stat. 668.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3796ff–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–199 substituted "Requirement for aftercare component" for "Aftercare services requirement" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services."
+<b>2008</b>—Subsec. (c). Pub. L. 110–199 substituted "Requirement for aftercare component" for "Aftercare services requirement" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established orimplemented with assistance provided under this subchapter will be provided with after care services."
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–162, §1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State."
 
@@ -63,6 +65,8 @@ Subsec. (c)(4). Pub. L. 109–162, §1145(b)(3), added par. (4).
 Subsec. (e). Pub. L. 109–162, §1111(c)(2)(J), substituted "The office responsible for the trust fund required by section 3757 of this title" for "The Office designated under section 3757 of this title" in introductory provisions.
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–273 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

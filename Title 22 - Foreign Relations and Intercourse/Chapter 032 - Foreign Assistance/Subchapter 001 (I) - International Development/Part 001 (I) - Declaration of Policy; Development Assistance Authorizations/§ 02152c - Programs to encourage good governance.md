@@ -12,7 +12,7 @@
 
 #### (3) Priority
 
-&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amount of United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such as the Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
+&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amountof United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such as the Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
 
 #### (4) Relation to other laws
 
@@ -62,15 +62,13 @@ Amounts made available to carry out the other provisions of subchapter I of this
 
 (Pub. L. 87–195, pt. I, §133, as added Pub. L. 106–309, title II, §205(a), Oct. 17, 2000, 114 Stat. 1092; amended Pub. L. 107–228, div. A, title VI, §672(a), Sept. 30, 2002, 116 Stat. 1407; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Support for East European Democracy (SEED) Act of 1989, referred to in subsecs. (a)(2) and (e), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 Section 907 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (a)(4)(B)(ii), is section 907 of Pub. L. 102–511, which is set out as a note under section 5812 of this title.
-
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Amendments
 
@@ -80,9 +78,11 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 Subsec. (d)(1). Pub. L. 107–228, §672(a)(2), substituted "a biennial report" for "an annual report" in introductory provisions and "preceding two-year period" for "prior year" in subpars. (A) and (B).
 
-#### Delegation of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Transition
 
@@ -114,7 +114,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(9) Competent and independent judiciary, founded on a merit-based selection process and trained to enforce contracts and protect property rights, is critical for creating a predictable and consistent environment for transparency in legal procedures.
 
-&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoralprocesses, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
+&emsp;"(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
 
 &emsp;"(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
 
@@ -139,4 +139,10 @@ Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note s
 #### Deadline for Initial Report
 
 Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, required transmission of the initial annual report under former 22 U.S.C. 2152c(d)(1) not later than 180 days after Oct. 17, 2000.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

@@ -30,7 +30,7 @@ Competition factors.—In making a determination under this subsection regarding
 
 (c)
 
-Failure To Provide Information.—If a person filing an agreement, or an officer, director, partner, agent, or employee of the person, fails substantially to comply with a request for the submission of additional information or documents within the period provided in section 40304(c) of this title, the Commission may bring a civil action in the United States District Court for the District of Columbia. At the request of the Commission, the Court—
+Failure To Provide Information.—If a person filing an agreement, or an officer, director, partner, agent, or employee of the person, fails substantially to comply with a request forthe submission of additional information or documents within the period provided in section 40304(c) of this title, the Commission may bring a civil action in the United States District Court for the District of Columbia. At the request of the Commission, the Court—
 
 &emsp;(1) may order compliance;
 
@@ -90,11 +90,15 @@ Pub. L. 98–237, §6(g)–(i), (k), Mar. 20, 1984, 98 Stat. 72, 73.
 
 46 App.:1705(k).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–282, §710(a)(1), inserted "or to substantially lessen competition in the purchasing of certain covered services" after "transportation cost".
 
 Subsec. (b)(4). Pub. L. 115–282, §710(a)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

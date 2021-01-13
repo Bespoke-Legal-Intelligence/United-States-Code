@@ -18,11 +18,15 @@ Use of Materials, Parts, and Components Manufactured in the United States.—In 
 
 (Added Pub. L. 112–213, title II, §211(a), Dec. 20, 2012, 126 Stat. 1551, §577; amended Pub. L. 115–232, div. C, title XXXV, §3531(c)(7), Aug. 13, 2018, 132 Stat. 2320; renumbered §1152, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 577 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232 substituted "Commandant" for "Commandant of the Coast Guard" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Long Lead Time Materials and Vessel Production; Immediate Availability of Funding
 

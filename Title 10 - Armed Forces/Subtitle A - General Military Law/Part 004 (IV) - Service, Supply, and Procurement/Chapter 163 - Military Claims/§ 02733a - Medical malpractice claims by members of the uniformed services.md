@@ -66,7 +66,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to imple
 
 &emsp;(A) by prescribing an interim final rule; and
 
-&emsp;(B) not later than one year after prescribing such interim final rule and considering public comments with respect to such interim final rule, by prescribing a final rule.
+&emsp;(B) not later than one year after prescribing such interim final rule and considering publiccomments with respect to such interim final rule, by prescribing a final rule.
 
 (g)
 

@@ -74,7 +74,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the appropriate Federal banking agency from assessments underthis section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 
@@ -101,6 +101,8 @@ The appropriate Federal banking agency is authorized to impose fees and assessme
 The appropriate Federal banking agency is authorized to use the combined resources retained through fees and assessments imposed pursuant to this section to pay all direct and indirect salary and administrative expenses of the Office, including contracts and purchases of property and services, and the direct and indirect expenses of the examinations and supervisory activities of the Office.
 
 (June 13, 1933, ch. 64, §9, as added Pub. L. 100–86, title IV, §402(a), Aug. 10, 1987, 101 Stat. 605; amended Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 316; Pub. L. 102–242, title I, §114(c), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 111–203, title III, §369(7), July 21, 2010, 124 Stat. 1563.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -132,7 +134,7 @@ Subsec. (h). Pub. L. 111–203, §369(7)(I), substituted "appropriate Federal ba
 
 Subsec. (i). Pub. L. 111–203, §369(7)(F), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
-Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "TheDirector" and "submits to the appropriate Federal banking agency" for "submits to the Director".
+Subsec. (j). Pub. L. 111–203, §369(7)(I), substituted "The appropriate Federal banking agency" for "The Director" and "submits to the appropriate Federal banking agency" for "submits to the Director".
 
 Pub. L. 111–203, §369(7)(G), substituted "sole discretion of the appropriate Federal banking agency" for "Director's sole discretion".
 
@@ -149,6 +151,8 @@ Subsec. (b). Pub. L. 102–242, §114(c)(1), added subsec. (b) and struck out fo
 Subsec. (k). Pub. L. 102–242, §114(c)(2), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The Director may assess against institutions for which the Director is the appropriate Federal banking agency, within the meaning of section 3 of the Federal Deposit Insurance Act, fees to fund the direct and indirect expenses of the Office. Such fees shall be imposed in proportion of the assets or resources of the institutions. The fees may be imposed more frequently than annually at the discretion of the Director. The annual rate of such fees shall be the same for all institutions subject to such fees."
 
 <b>1989</b>—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (m) relating to examination fees for former subsecs. (a) to (f) relating to accounting principles and other standards and requirements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

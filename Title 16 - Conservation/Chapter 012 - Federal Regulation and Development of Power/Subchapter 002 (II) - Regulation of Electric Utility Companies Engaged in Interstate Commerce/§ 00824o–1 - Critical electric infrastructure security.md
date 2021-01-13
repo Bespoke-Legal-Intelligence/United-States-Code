@@ -56,7 +56,7 @@ For purposes of this section:
 
 #### (3) Consultation
 
-&emsp;Before issuing an order for emergency measures under paragraph (1), the Secretary shall, to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, consult with appropriate governmental authorities in Canada and Mexico, entities described in paragraph (4), the Electricity Sub-sector Coordinating Council, the Commission, and other appropriate Federal agencies regarding implementation of such emergency measures.
+&emsp;Before issuing an order for emergency measures under paragraph (1), the Secretary shall,to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, consult with appropriate governmental authorities in Canada and Mexico, entities described in paragraph (4), the Electricity Sub-sector Coordinating Council, the Commission, and other appropriate Federal agencies regarding implementation of such emergency measures.
 
 #### (4) Application
 
@@ -184,7 +184,7 @@ The Secretary shall facilitate and, to the extent practicable, expedite the acqu
 
 #### (2) Relation to section 824a(c) of this title
 
-&emsp;Except as provided in paragraph (4), an action or omission taken by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an order for emergency measures issued under subsection (b)(1) shall be treated as an action or omission taken to comply with an order issued under section 824a(c) of this title for purposes of such section.
+&emsp;Except as provided in paragraph (4), an action or omission taken by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an order for emergency measures issued under subsection (b)(1) shall be treatedas an action or omission taken to comply with an order issued under section 824a(c) of this title for purposes of such section.
 
 #### (3) Sharing or receipt of information
 

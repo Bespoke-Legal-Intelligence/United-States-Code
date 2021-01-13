@@ -6,7 +6,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (1) Consistency with State policies
 
-&emsp;The local educational agency, in providing for the education of children with disabilities within its jurisdiction, has in effect policies, procedures, and programs that are consistentwith the State policies and procedures established under section 1412 of this title.
+&emsp;The local educational agency, in providing for the education of children with disabilities within its jurisdiction, has in effect policies, procedures, and programs that are consistent with the State policies and procedures established under section 1412 of this title.
 
 #### (2) Use of amounts
 
@@ -46,7 +46,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (ii) Use of amounts to carry out activities under ESEA
 
-&emsp;&emsp;&emsp;If a local educational agency exercises the authority under clause (i), the agency shall use an amount of local funds equal to the reduction in expenditures under clause (i) to carry out activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+&emsp;&emsp;&emsp;If a local educational agency exercises the authority under clause (i), the agencyshall use an amount of local funds equal to the reduction in expenditures under clause (i) to carry out activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
 
 #### (iii) State prohibition
 
@@ -78,7 +78,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (i) Services and aids that also benefit nondisabled children
 
-&emsp;&emsp;&emsp;For the costs of special education and related services, and supplementary aids and services, provided in a regular class or other education-related setting to a child with a disability in accordance with theindividualized education program of the child, even if 1 or more nondisabled children benefit from such services.
+&emsp;&emsp;&emsp;For the costs of special education and related services, and supplementary aids and services, provided in a regular class or other education-related setting to a child with a disability in accordance with the individualized education program of the child, even if 1 or more nondisabled children benefit from such services.
 
 #### (ii) Early intervening services
 
@@ -164,7 +164,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under this section because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
+&emsp;&emsp;A State educational agency may require a local educational agency to establish its eligibility jointly with another local educational agency if the State educational agency determines that the local educational agency will be ineligible under thissection because the local educational agency will not be able to establish and maintain programs of sufficient size and scope to effectively meet the needs of children with disabilities.
 
 #### (B) Charter school exception
 
@@ -200,7 +200,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (1) In general
 
-&emsp;A local educational agency may not use more than 15 percent of the amount such agency receives under this subchapter for any fiscal year, less any amount reduced by the agency pursuant to subsection (a)(2)(C), if any, in combination with other amounts (which may include amounts other than education funds), to develop and implement coordinated, early intervening services, which may include interagency financing structures, for students in kindergarten through grade 12 (with a particular emphasis on students in kindergartenthrough grade 3) who have not been identified as needing special education or related services but who need additional academic and behavioral support to succeed in a general education environment.
+&emsp;A local educational agency may not use more than 15 percent of the amount such agency receives under this subchapter for any fiscal year, less any amount reduced by the agency pursuant to subsection (a)(2)(C), if any, in combination with other amounts (which may include amounts other than education funds), to develop and implement coordinated, early intervening services, which may include interagency financing structures, for students in kindergarten through grade 12 (with a particular emphasis on students in kindergarten through grade 3) who have not been identified as needing special education or related services but who need additional academic and behavioral support to succeed in a general education environment.
 
 #### (2) Activities
 
@@ -232,7 +232,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;A State educational agency shall use the payments that would otherwise have been available to a local educational agency or to a State agency to provide special education and related services directly to children with disabilities residing in the area served by that local educational agency, or for whom that State agency is responsible, if the State educational agency determines that the local educational agency or State agency, as the case may be—
 
-&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such local educational agency or State agency under this section;
+&emsp;&emsp;(A) has not provided the information needed to establish the eligibility of such localeducational agency or State agency under this section;
 
 &emsp;&emsp;(B) is unable to establish and maintain programs of free appropriate public education that meet the requirements of subsection (a);
 
@@ -260,7 +260,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (1) Adjustment to State fiscal effort in certain fiscal years
 
-&emsp;For any fiscal year for which the allotment received by a State under section 1411 of this title exceeds the amount the State received for the previous fiscal year and if the State in school year 2003–2004 or any subsequent schoolyear pays or reimburses all local educational agencies within the State from State revenue 100 percent of the non-Federal share of the costs of special education and related services, the State educational agency, notwithstanding paragraphs (17) and (18) of section 1412(a) of this title and section 1412(b) of this title, may reduce the level of expenditures from State sources for the education of children with disabilities by not more than 50 percent of the amount of such excess.
+&emsp;For any fiscal year for which the allotment received by a State under section 1411 of this title exceeds the amount the State received for the previous fiscal year and if the State in school year 2003–2004 or any subsequent school year pays or reimburses all local educational agencies within the State from State revenue 100 percent of the non-Federal share of the costs of special education and related services, the State educational agency, notwithstanding paragraphs (17) and (18) of section 1412(a) of this title and section 1412(b) of this title, may reduce the level of expenditures from State sources for the education of children with disabilities by not more than 50 percent of the amount of such excess.
 
 #### (2) Prohibition
 
@@ -284,7 +284,7 @@ The State may require that a local educational agency include in the records of 
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
+For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to insubsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under section 1400 of this title.
 
 #### Prior Provisions
 

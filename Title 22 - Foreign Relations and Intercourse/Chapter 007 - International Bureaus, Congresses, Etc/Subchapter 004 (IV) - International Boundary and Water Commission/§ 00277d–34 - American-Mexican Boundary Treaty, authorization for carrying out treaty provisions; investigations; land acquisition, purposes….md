@@ -20,15 +20,19 @@ In connection with the treaty between the United States of America and the Unite
 
 &emsp;&emsp;(C) to preserve the Rio Grande and the Colorado River as the boundary by preventing the construction of works which may cause deflection or obstruction of the normal flow of the rivers or of their floodflows; and
 
-&emsp;&emsp;(D) for relocation of any structure or facility, public or private, the relocation of which, in the judgment of the Commissioner, is necessitated by the project; and
+&emsp;&emsp;(D) for relocation of any structure or facility, public or private, the relocation ofwhich, in the judgment of the Commissioner, is necessitated by the project; and
 
 &emsp;(3) to remove, modify, or repair the damages caused to Mexico by works constructed in the United States which the International Boundary and Water Commission, United States and Mexico, as determined have an adverse effect on Mexico, or to compensate Mexico for such damages.
 
 (Pub. L. 92–549, title I, §101, Oct. 25, 1972, 86 Stat. 1161.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title and amended section 1322 of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

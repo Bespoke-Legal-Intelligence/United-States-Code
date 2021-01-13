@@ -2,7 +2,7 @@
 
 (a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
 
-(b) The Secretary may designate a domestic financial institution as an agent of the UnitedStates Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
+(b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
 (c)(1) A person (except a domestic financial institution designated under subsection (b) of this section) required to file a report under this section shall file the report—
 
@@ -92,7 +92,7 @@ Provisions Applicable to Mandatory and Discretionary Exemptions.—
 
 Limitation on liability of depository institutions.—No depository institution shall be subject to any penalty which may be imposed under this subchapter for the failure of the institution to file a report with respect to a transaction with a customer for whom an exemption has been granted under subsection (d) or (e) unless the institution—
 
-&emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect tothe transaction or the customer engaging in the transaction; or
+&emsp;&emsp;(A) knowingly files false or incomplete information to the Secretary with respect to the transaction or the customer engaging in the transaction; or
 
 &emsp;&emsp;(B) has reason to believe at the time the exemption is granted or the transaction is entered into that the customer or the transaction does not meet the criteria established for granting such exemption.
 
@@ -146,11 +146,13 @@ Oct. 26, 1970, Pub. L. 91–508, §§221–223, 84 Stat. 1122.
 
 31:1083(b).
 
-In subsection (a), the words "coins or" are added, and the words "prescribe" and "prescribes" are substituted for "specify" in 31:1081, and "require", for consistency. The words "other parties thereto or" in 31:1082 are omitted as surplus. The words "to the Secretary" in 31:1081 are omitted as unnecessary and for clarity. The words "in such detail" are omitted as surplus. The words "A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made" are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
+In subsection (a), the words "coins or" are added, and the words "prescribe" and "prescribes" are substitutedfor "specify" in 31:1081, and "require", for consistency. The words "other parties thereto or" in 31:1082 are omitted as surplus. The words "to the Secretary" in 31:1081 are omitted as unnecessary and for clarity. The words "in such detail" are omitted as surplus. The words "A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made" are substituted for 31:1082(last sentence) for clarity and to eliminate unnecessary words.
 
 In subsection (b), the words "in his discretion" and "individually or by class" are omitted as surplus. The word "Government" is added for consistency. The words "or a regulation under this subchapter", are added because of the restatement. The words "(except a violation of section 5315 of this title or a regulation prescribed under section 5315)" are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter.
 
 In subsection (c)(1), clause (A) is substituted for "with respect to a domestic financial institution . . . with that institution" for clarity. Clause (C) is substituted for "any such person may, at his election and in lieu of filing the report in the manner hereinabove prescribed, file the report with the Secretary" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,54 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B)
 #### Amendments
 
 <b>1994</b>—Subsecs. (d) to (g). Pub. L. 103–325 added subsecs. (d) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Currency Transaction Reports and Suspicious Activity Reports Thresholds Review
+
+Pub. L. 116–283, div. F, title LXII, §6205, Jan. 1, 2021, 134 Stat. 4570, provided that:
+
+"(a)
+
+Review of Thresholds for Certain Currency Transaction Reports and Suspicious Activity Reports.—The Secretary \[of the Treasury\], in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall review and determine whether the dollar thresholds, including aggregate thresholds, under sections 5313, 5318(g), and 5331 of title 31, United States Code, including regulations issued under those sections, should be adjusted.
+
+"(b)
+
+Considerations.—In making the determinations required under subsection (a), the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—
+
+&emsp;"(1) rely substantially on information obtained through the BSA Data Value Analysis Project conducted by FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\] and on information obtained through the Currency Transaction Report analyses conducted by the Comptroller General of the United States; and
+
+&emsp;"(2) consider—
+
+&emsp;&emsp;"(A) the effects that adjusting the thresholds would have on law enforcement, intelligence, national security, and homeland security agencies;
+
+&emsp;&emsp;"(B) the costs likely to be incurred or saved by financial institutions from any adjustment to the thresholds;
+
+&emsp;&emsp;"(C) whether adjusting the thresholds would better conform the United States with international norms and standards to counter money laundering and the financing of terrorism;
+
+&emsp;&emsp;"(D) whether currency transaction report thresholds should be tied to inflation or otherwise be adjusted based on other factors consistent with the purposes of the Bank Secrecy Act;
+
+&emsp;&emsp;"(E) any other matter that the Secretary determines is appropriate.
+
+"(c)
+
+Report and Rulemakings.—Not later than 1 year after the date of enactment of this Act \[Jan. 1, 2021\], the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—
+
+&emsp;"(1) publish a report of the findings from the review required under subsection (a); and
+
+&emsp;"(2) propose rulemakings, as appropriate, to implement the findings and determinations described in paragraph (1).
+
+"(d)
+
+Updates.—Not less frequently than once every 5 years during the 10-year period beginning on the date of enactment of this Act, the Secretary shall—
+
+&emsp;"(1) evaluate findings and rulemakings described in subsection (c); and
+
+&emsp;"(2) transmit a written summary of the evaluation to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+&emsp;"(3) propose rulemakings, as appropriate, in response to the evaluation required under paragraph (1)."
+
+\[For definitions of terms used in section 6205 of Pub. L. 116–283, set out above, see section 6003 of Pub. L. 116–283, set out as a Definitions note under section 5311 of this title.\]
 
 #### Efficient Use of Currency Transaction Report System
 
@@ -196,7 +246,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;&emsp;"(A) the possible expansion of the statutory exemption system in effect under section 5313 of title 31, United States Code; and
 
-&emsp;&emsp;"(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used atthe institution and the training of personnel in its effective use.
+&emsp;&emsp;"(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
 
 &emsp;"(2)
 

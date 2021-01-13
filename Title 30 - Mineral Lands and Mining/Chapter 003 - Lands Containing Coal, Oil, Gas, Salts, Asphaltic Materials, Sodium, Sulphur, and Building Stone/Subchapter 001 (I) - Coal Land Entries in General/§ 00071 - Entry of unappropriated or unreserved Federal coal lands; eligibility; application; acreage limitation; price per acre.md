@@ -4,6 +4,8 @@ Every person above the age of twenty-one years, who is a citizen of the United S
 
 (R.S. §2347; Mar. 3, 1925, ch. 462, 43 Stat. 1145.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2347 derived from act Mar. 3, 1873, ch. 279, §1, 17 Stat. 607.
@@ -11,6 +13,8 @@ R.S. §2347 derived from act Mar. 3, 1873, ch. 279, §1, 17 Stat. 607.
 #### Amendments
 
 <b>1925</b>—Act Mar. 3, 1925, affected words which now read "upon payment to the register of not less than." Such words originally read "upon payment to the receiver of not less than." Such act consolidated the offices of receiver and register.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

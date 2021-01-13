@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §307; added Sept. 2, 1958, Pub. L. 85–861, §11, 72 Stat. 1556.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 420 was renumbered section 421 of this title.
@@ -43,6 +45,8 @@ A prior section 420 was renumbered section 421 of this title.
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "housing" for "quarters".
 
 <b>1966</b>—Pub. L. 89–718 substituted "section 717 of title 10" for "section 716 of title 10" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

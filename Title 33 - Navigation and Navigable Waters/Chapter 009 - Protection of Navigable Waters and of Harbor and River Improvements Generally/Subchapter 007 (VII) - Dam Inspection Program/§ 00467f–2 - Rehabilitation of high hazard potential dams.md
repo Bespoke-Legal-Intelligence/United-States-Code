@@ -2,11 +2,11 @@
 
 #### (a) Establishment of program
 
-The Administrator shall establish, within FEMA, a program to provide technical, planning, design, and construction assistance in the form of grants to non-Federal sponsors for rehabilitation of eligible high hazard potential dams.
+The Administrator shall establish, within FEMA, a program to provide technical, planning, design, and construction assistance in the form of grants to States with dam safety programs for rehabilitation of eligible high hazard potential dams.
 
 #### (b) Eligible activities
 
-A grant awarded under this section for a project may be used for—
+A grant awarded under this section to a State may be used by the State to award grants to eligible subrecipients for—
 
 &emsp;(1) repair;
 
@@ -20,7 +20,7 @@ A grant awarded under this section for a project may be used for—
 
 #### (A) In general
 
-&emsp;&emsp;A non-Federal sponsor interested in receiving a grant under this section may submit to the Administrator an application for the grant.
+&emsp;&emsp;A State interested in receiving a grant under this section may submit to the Administrator an application for the grant.
 
 #### (B) Requirements
 
@@ -30,19 +30,19 @@ A grant awarded under this section for a project may be used for—
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may make a grant in accordance with this section for rehabilitation of an eligible high hazard potential dam to a non-Federal sponsor that submits an application for the grant in accordance with the regulations prescribed by the Administrator.
+&emsp;&emsp;The Administrator may make a grant in accordance with this section for rehabilitation of eligible high hazard potential dams to a State that submits an application for the grant in accordance with the regulations prescribed by the Administrator.
 
-#### (B) Project grant agreement
+#### (B) Grant agreement
 
-&emsp;&emsp;The Administrator shall enter into a project grant agreement with the non-Federal sponsor to establish the terms of the grant and the project, including the amount of the grant.
+&emsp;&emsp;The Administrator shall enter into a grant agreement with the State to establish the terms of the grant and the projects for which the grant is awarded, including the amount of the grant.
 
 #### (C) Grant assurance
 
-&emsp;&emsp;As part of a project grant agreement under subparagraph (B), the Administrator shall require the non-Federal sponsor to provide an assurance, with respect to the dam to be rehabilitated under the project, that the owner of the dam has developed and will carry out a plan for maintenance of the dam during the expected life of the dam.
+&emsp;&emsp;As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.
 
 #### (D) Limitation
 
-&emsp;&emsp;A grant provided under this section shall not exceed the lesser of—
+&emsp;&emsp;A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam, the lesser of—
 
 &emsp;&emsp;&emsp;(i) 12.5 percent of the total amount of funds made available to carry out this section; or
 
@@ -52,21 +52,21 @@ A grant awarded under this section for a project may be used for—
 
 #### (1) Approval
 
-&emsp;A grant awarded under this section for a project shall be approved by the relevant State dam safety agency.
+&emsp;A grant awarded under this section to an eligible subrecipient for a project shall be approved by the relevant State dam safety agency.
 
-#### (2) Non-Federal sponsor requirements
+#### (2) Eligible subrecipient requirements
 
-&emsp;To receive a grant under this section, the non-Federal sponsor shall—
+&emsp;To receive a grant under this section, an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient—
 
-&emsp;&emsp;(A) participate in, and comply with, all applicable Federal flood insurance programs;
+&emsp;&emsp;(A) demonstrate that the community in which the dam is located participates in, and complies with, all applicable Federal flood insurance programs, including demonstrating that such community is participating in the National Flood Insurance Program, and is not on probation, suspended, or withdrawn from such Program;
 
-&emsp;&emsp;(B) have in place a hazard mitigation plan that—
+&emsp;&emsp;(B) beginning not later than 2 years after the date on which the Administrator publishes criteria for hazard mitigation plans under paragraph (3), demonstrate that the Tribal or local government with jurisdiction over the area in which the dam is located has in place a hazard mitigation plan that—
 
 &emsp;&emsp;&emsp;(i) includes all dam risks; and
 
 &emsp;&emsp;&emsp;(ii) complies with the Disaster Mitigation Act of 2000 (Public Law 106–390; 114 Stat. 1552);
 
-&emsp;&emsp;(C) commit to provide operation and maintenance of the project for the 50-year period following completion of rehabilitation;
+&emsp;&emsp;(C) commit to provide operation and maintenance of the project for the expected life of the dam following completion of rehabilitation;
 
 &emsp;&emsp;(D) comply with such minimum eligibility requirements as the Administrator may establish to ensure that each owner and operator of a dam under a participating State dam safety program and that receives assistance under this section—
 
@@ -76,19 +76,23 @@ A grant awarded under this section for a project may be used for—
 
 &emsp;&emsp;(E) comply with section 5196(j)(9) of title 42 (as in effect on December 16, 2016) with respect to projects receiving assistance under this section in the same manner as recipients are required to comply in order to receive financial contributions from the Administrator for emergency preparedness purposes.
 
+#### (3) Hazard mitigation plan criteria
+
+&emsp;Not later than 1 year after December 27, 2020, the Administrator, in consultation with the Board, shall publish criteria for hazard mitigation plans required under paragraph (2)(B).
+
 #### (e) Floodplain management plans
 
 #### (1) In general
 
-&emsp;As a condition of receipt of assistance under this section, the non-Federal sponsor shall demonstrate that a floodplain management plan to reduce the impacts of future flood events in the area protected by the project—
+&emsp;As a condition of receipt of assistance under this section, an eligible subrecipient shall demonstrate that a floodplain management plan to reduce the impacts of future flood events in the area protected by the project—
 
 &emsp;&emsp;(A) is in place; or
 
 &emsp;&emsp;(B) will be—
 
-&emsp;&emsp;&emsp;(i) developed not later than 1 year after the date of execution of a project agreement for assistance under this section; and
+&emsp;&emsp;&emsp;(i) developed not later than 2 years after the date of execution of a project agreement for assistance under this section; and
 
-&emsp;&emsp;&emsp;(ii) implemented not later than 1 year after the date of completion of construction of the project.
+&emsp;&emsp;&emsp;(ii) implemented not later than 2 years after the date of completion of construction of the project.
 
 #### (2) Inclusions
 
@@ -100,9 +104,9 @@ A grant awarded under this section for a project may be used for—
 
 &emsp;&emsp;(C) public education and awareness of flood risks.
 
-#### (3) Technical support
+#### (3) Plan criteria and technical support
 
-&emsp;The Administrator may provide technical support for the development and implementation of floodplain management plans prepared under this subsection.
+&emsp;The Administrator, in consultation with the Board, shall provide criteria, and may provide technical support, for the development and implementation of floodplain management plans prepared under this subsection.
 
 #### (f) Priority system
 
@@ -154,7 +158,7 @@ None of the funds provided in the form of a grant or otherwise made available un
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), as a condition on the receipt of a grant under this section of an amount greater than $1,000,000, a non-Federal sponsor that receives the grant shall require that each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services entered into using funds from the grant be awarded in the same manner as a contract for architectural and engineering services is awarded under—
+&emsp;Subject to paragraph (2), as a condition on the receipt of a grant under this section of an amount greater than $1,000,000, an eligible subrecipient that receives the grant shall require that each contract and subcontract for program management, construction management, planning studies, feasibility studies, architectural services, preliminary engineering, design, engineering, surveying, mapping, and related services entered into using funds from the grant be awarded in the same manner as a contract for architectural and engineering services is awarded under—
 
 &emsp;&emsp;(A) chapter 11 of title 40; or
 
@@ -176,11 +180,51 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(4) $60,000,000 for each of fiscal years 2021 through 2026.
 
-(Pub. L. 92–367, §8A, as added Pub. L. 114–322, title IV, §5006(b), Dec. 16, 2016, 130 Stat. 1893.)
+(Pub. L. 92–367, §8A, as added Pub. L. 114–322, title IV, §5006(b), Dec. 16, 2016, 130 Stat. 1893; amended Pub. L. 116–260, div. AA, title I, §132(b), Dec. 27, 2020, 134 Stat. 2645.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §132(b)(1), substituted "to States with dam safety programs" for "to non-Federal sponsors".
+
+Subsec. (b). Pub. L. 116–260, §132(b)(2), substituted "to a State may be used by the State to award grants to eligible subrecipients for" for "a project may be used for" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 116–260, §132(b)(3)(A), substituted "State" for "non-Federal sponsor".
+
+Subsec. (c)(2)(A). Pub. L. 116–260, §132(b)(3)(B)(i), substituted "eligible high hazard potential dams to a State" for "an eligible high hazard potential dam to a non-Federal sponsor".
+
+Subsec. (c)(2)(B). Pub. L. 116–260, §132(b)(3)(B)(ii), in heading, substituted "Grant" for "Project grant" and, in text, substituted "grant agreement with the State" for "project grant agreement with the non-Federal sponsor" and "projects for which the grant is awarded," for "project,".
+
+Subsec. (c)(2)(C). Pub. L. 116–260, §132(b)(3)(B)(iii), amended subpar. (C) generally. Prior to amendment, text read as follows: "As part of a project grant agreement under subparagraph (B), the Administrator shall require the non-Federal sponsor to provide an assurance, with respect to the dam to be rehabilitated under the project, that the owner of the dam has developed and will carry out a plan for maintenance of the dam during the expected life of the dam."
+
+Subsec. (c)(2)(D). Pub. L. 116–260, §132(b)(3)(B)(iv), substituted "A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam," for "A grant provided under this section shall not exceed" in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 116–260, §132(b)(4)(A), inserted "to an eligible subrecipient" after "this section".
+
+Subsec. (d)(2). Pub. L. 116–260, §132(b)(4)(B)(i), (ii), substituted "Eligible subrecipient" for "Non-Federal sponsor" in heading and "an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient" for "the non-Federal sponsor shall" in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 116–260, §132(b)(4)(B)(iii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "participate in, and comply with, all applicable Federal flood insurance programs;".
+
+Subsec. (d)(2)(B). Pub. L. 116–260, §132(b)(4)(B)(iv), substituted "beginning not later than 2 years after the date on which the Administrator publishes criteria for hazard mitigation plans under paragraph (3), demonstrate that the Tribal or local government with jurisdiction over the area in which the dam is located has" for "have" in introductory provisions.
+
+Subsec. (d)(2)(C). Pub. L. 116–260, §132(b)(4)(B)(v), substituted "expected life of the dam" for "50-year period".
+
+Subsec. (d)(3). Pub. L. 116–260, §132(b)(4)(C), added par. (3).
+
+Subsec. (e)(1). Pub. L. 116–260, §132(b)(5)(A)(i), substituted "an eligible subrecipient" for "non-Federal sponsor" in introductory provisions.
+
+Subsec. (e)(1)(B). Pub. L. 116–260, §132(b)(5)(A)(ii), substituted "2 years" for "1 year" in cls. (i) and (ii).
+
+Subsec. (e)(3). Pub. L. 116–260, §132(b)(5)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Administrator may provide technical support for the development and implementation of floodplain management plans prepared under this subsection."
+
+Subsec. (i)(1). Pub. L. 116–260, §132(b)(6), substituted "an eligible subrecipient" for "a non-Federal sponsor" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rulemaking
 
@@ -196,7 +240,7 @@ Final rule.—Not later than 180 days after the date of enactment of this Act, t
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
 
-Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781, provided that:
+Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, §305, Dec. 27, 2020, 134 Stat. 2703, provided that:
 
 "(a)
 
@@ -228,9 +272,9 @@ Agreements.—Construction of a project under this section shall be initiated on
 
 "(e)
 
-Cost Limitation.—The Secretary shall not expend more than $40,000,000 for a project at any single dam under this section.
+Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a project at any single dam under this section.
 
 "(f)
 
-Funding.—There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2017 through 2026."
+Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026."
 

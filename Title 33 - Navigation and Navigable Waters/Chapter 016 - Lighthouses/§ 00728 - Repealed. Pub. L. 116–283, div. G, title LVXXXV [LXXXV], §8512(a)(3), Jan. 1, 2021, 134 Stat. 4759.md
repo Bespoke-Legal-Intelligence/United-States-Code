@@ -1,0 +1,10 @@
+### §728. Repealed. Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8512(a)(3), Jan. 1, 2021, 134 Stat. 4759
+
+Section, R.S. §4662, related to sufficiency of cession by State and service of State process in lands ceded.
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+R.S. §4662 derived from act Mar. 2, 1795, ch. 40, §§1, 2, 1 Stat. 426.
+

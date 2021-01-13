@@ -16,7 +16,7 @@ Authorization.—There is hereby authorized to be appropriated $250,000 to be us
 
 Purposes.—The purposes of the Center authorized by subsection (a) shall be—
 
-&emsp;"(1) to collect and disseminate to visitors to and residents of Alaska information about the natural, recreational, cultural, historical, archeological, multiple use, and other resources and values of Alaska, with special emphasis on the Tongass National Forest and Southeast Alaska and its people;
+&emsp;"(1) to collect and disseminate to visitors to and residents of Alaska information about the natural,recreational, cultural, historical, archeological, multiple use, and other resources and values of Alaska, with special emphasis on the Tongass National Forest and Southeast Alaska and its people;
 
 &emsp;"(2) to publicly display temporary and permanent exhibits illustrating and interpreting these resources and values;
 
@@ -28,7 +28,7 @@ Design.—Design of the center in subsection (a) shall be developed in consultat
 
 "(d)
 
-Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska collegesand universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
+Consultation.—In establishing, operating, and maintaining the center (and any affiliated branches), the Secretary of Agriculture shall consult with, in addition to those listed in subsection (c), Alaska colleges and universities, the National Historic Association of Alaska, the Alaska Federation of Natives, and appropriate individuals and other organizations concerned with the diverse heritage resources of Alaska.
 
 "(e)
 

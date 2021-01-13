@@ -6,6 +6,8 @@
 
 (Pub. L. 94–437, title I, §109, as added Pub. L. 100–713, title I, §108, Nov. 23, 1988, 102 Stat. 4794; amended Pub. L. 102–573, title I, §107, Oct. 29, 1992, 106 Stat. 4538.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–573, §107(1), substituted "Recruitment activities" for "Travel expenses for recruitment" in section catchline.

@@ -12,7 +12,7 @@ Based on sections 1026(c) and 1514(d) of title 7, U.S.C., 1940 ed., Agriculture,
 
 To avoid reference to another section the words "the Farm Credit Administration, any Federal intermediate credit bank, the Federal Farm Mortgage Corporation, Federal Crop Insurance Corporation, Farmers' Home Corporation, or any production credit corporation or corporation in which a production credit corporation holds stock, any regional agricultural credit corporation, or any bank for cooperatives" were substituted for the words "or any corporation referred to in subsection (a) of this section."
 
-The punishment provision was completely rewritten. The $2,000 fine of section 1026(c) of title 7, U.S.C., 1940ed., and the 2-year penalty of that section, section 1514(d) of title 7, U.S.C., 1940 ed., and section 1138(d) of title 12, U.S.C., 1940 ed., were incongruous in juxtaposition with other sections of this chapter and were therefore increased to $5,000 and 5 years. (See sections 656 and 657 of this title.)
+The punishment provision was completely rewritten. The $2,000 fine of section 1026(c) of title 7, U.S.C., 1940 ed., and the 2-year penalty of that section, section 1514(d) of title 7, U.S.C., 1940 ed., and section 1138(d) of title 12, U.S.C., 1940 ed., were incongruous in juxtaposition with other sections of this chapter and were therefore increased to $5,000 and 5 years. (See sections 656 and 657 of this title.)
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.)
 
@@ -21,6 +21,8 @@ Minor changes were made in phraseology.
 #### 1949 Act
 
 \[Section 12\] conforms section 658 of title 18 U.S.C., to administrative practice which in turn was modified to comply with congressional policy. (See note to sec. 11 \[of 1949 Act, set out in Legislative History note under section 657 of title 18\]).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -52,9 +54,13 @@ Pub. L. 103–322, §330004(7), struck out "Farmers' Home Corporation," after "C
 
 <b>1949</b>—Act May 24, 1949, made section applicable to the Secretary of Agriculture acting through the Farmers' Home Administration.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1956 Amendment
 
 Amendment by act July 26, 1956, effective January 1, 1957, see section 202(a) of act July 26, 1956.
+
+#### <b>Executive Documents</b>
 
 #### Exceptions From Transfer of Functions
 

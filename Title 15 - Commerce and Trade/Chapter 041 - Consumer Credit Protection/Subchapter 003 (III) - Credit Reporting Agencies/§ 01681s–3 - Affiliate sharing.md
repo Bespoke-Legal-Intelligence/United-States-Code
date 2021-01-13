@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) using information to make a solicitation for marketing purposes to a consumer with whom the person has a pre-existing business relationship;
 
-&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or status of the individual as a participant or beneficiary of an employee benefit plan;
+&emsp;&emsp;(B) using information to facilitate communications to an individual for whose benefit the person provides employee benefit or other services pursuant to a contract with an employer related to and arising out of the current employment relationship or statusof the individual as a participant or beneficiary of an employee benefit plan;
 
 &emsp;&emsp;(C) using information to perform services on behalf of another person related by common ownership or affiliated by corporate control, except that this subparagraph shall not be construed as permitting a person to send solicitations on behalf of another person, if such other person would not be permitted to send the solicitation on its own behalf as a result of the election of the consumer to prohibit solicitations under paragraph (1)(B);
 
@@ -114,7 +114,7 @@ Considerations.—In promulgating regulations under this subsection, each agency
 
 &emsp;"(A) ensure that affiliate sharing notification methods provide a simple means for consumers to make determinations and choices under section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section;
 
-&emsp;"(B) consider the affiliate sharing notification practices employed on the date of enactment of this Act \[Dec. 4, 2003\] by persons that will be subject to that section 624; and
+&emsp;"(B) consider the affiliate sharing notification practices employed on the date of enactment of thisAct \[Dec. 4, 2003\] by persons that will be subject to that section 624; and
 
 &emsp;"(C) ensure that notices and disclosures may be coordinated and consolidated, as provided in subsection (b) of that section 624.
 

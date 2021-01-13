@@ -24,11 +24,15 @@ The word "models" has been omitted to remove emphasis on models since they are n
 
 The phrase "and to trade-mark registrations" is added. There is no enactment corresponding to this section in the trade-mark law. The original chapter of the Revised Statutes containing this section deals with the Patent Office as such in its administration of trade-marks as well as patents. This is explicitly brought out in some of the corresponding sections of the present chapter. Changes in language are made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "The Patent and Trademark Office shall continue as an office in the Department of Commerce, where records, books, drawings, specifications, and other papers and things pertaining to patents and to trademark registrations shall be kept and preserved, except as otherwise provided by law."
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -72,7 +76,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[§1(a)\], Nov. 29, 1999, 113 Stat. 153
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4001\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "This title \[see Tables for classification\] may be cited as the 'American Inventors Protection Act of 1999'."
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle A, §4101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, providedthat: "This subtitle \[enacting section 297 of this title and provisions set out as a note under section 297 of this title\] may be cited as the 'Inventors' Rights Act of 1999'."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle A, §4101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "This subtitle \[enacting section 297 of this title and provisions set out as a note under section 297 of this title\] may be cited as the 'Inventors' Rights Act of 1999'."
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle B, §4201\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, provided that: "This subtitle \[amending sections 41 and 42 of this title and enacting provisions set out as notes under section 41 of this title and section 1113 of Title 15, Commerce and Trade\] may be cited as the 'Patent and Trademark Fee Fairness Act of 1999'."
 
@@ -138,11 +142,11 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;"(1) that have been issued, made, granted, or allowed to become effective by the President, the Secretary of Commerce, any officer or employee of any office transferred by this subtitle, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this subtitle; and
 
-&emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, any other authorized official, a court of competent jurisdiction, or operation of law.
+&emsp;"(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, anyother authorized official, a court of competent jurisdiction, or operation of law.
 
 "(b)
 
-Proceedings.—This subtitle shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the effective date of this subtitle \[see Effective Date of 1999 Amendment note above\] before an office transferred by this subtitle, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subtitle had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revokedby a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
+Proceedings.—This subtitle shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the effective date of this subtitle \[see Effective Date of 1999 Amendment note above\] before an office transferred by this subtitle, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this subtitle had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this subtitle had not been enacted.
 
 "(c)
 
@@ -226,7 +230,7 @@ In general.—In selecting the location of each satellite office to be establish
 
 &emsp;&emsp;"(A) shall ensure geographic diversity among the offices, including by ensuring that such offices are established in different States and regions throughout the Nation;
 
-&emsp;&emsp;"(B) may rely upon any previous evaluations by the Office of potential locales for satellite offices, including any evaluations prepared as part of the Office's Nationwide Workforce Program that resulted in the 2010 selection of Detroit, Michigan, as the first satellite office of the Office;
+&emsp;&emsp;"(B) may rely upon any previous evaluations by the Office of potential locales for satellite offices,including any evaluations prepared as part of the Office's Nationwide Workforce Program that resulted in the 2010 selection of Detroit, Michigan, as the first satellite office of the Office;
 
 &emsp;&emsp;"(C) shall evaluate and consider the extent to which the purposes of satellite offices listed under subsection (b) will be achieved;
 

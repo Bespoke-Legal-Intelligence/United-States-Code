@@ -86,7 +86,7 @@ Conditions Under Which Care Is Required To Be Furnished Through Non-Department P
 
 &emsp;&emsp;(v) Such other considerations as the Secretary considers appropriate.
 
-(3) If the Secretary has determined that the Department does not offer the care or servicesthe covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
+(3) If the Secretary has determined that the Department does not offer the care or services the covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
 
 (e)
 
@@ -196,7 +196,7 @@ Treatment of Other Health Plan Contracts.—In any case in which a covered veter
 
 (k)
 
-Payment by Veteran.—A covered veteran shall not pay a greater amount for receivingcare or services under this section than the amount the veteran would pay for receiving the same or comparable care or services at a medical facility of the Department or from a health care provider of the Department.
+Payment by Veteran.—A covered veteran shall not pay a greater amount for receiving care or services under this section than the amount the veteran would pay for receiving the same or comparable care or services at a medical facility of the Department or from a health care provider of the Department.
 
 (l)
 
@@ -256,7 +256,7 @@ Monitoring of Care Provided.—(1)(A) Not later than 540 days after the date of 
 
 Prohibition on Certain Limitations.—(1) The Secretary shall not limit the types of hospital care, medical services, or extended care services covered veterans may receive under this section if it is in the best medical interest of the veteran to receive such hospital care, medical services, or extended care services, as determined by the veteran and the veteran's health care provider.
 
-(2) No provision in this section may be construed to alter or modify any other provision of law establishing specific eligibility criteria for certain hospital care, medical services, or extended care services.
+(2) No provision in this section may be construed to alter or modify any other provision of law establishing specific eligibility criteria forcertain hospital care, medical services, or extended care services.
 
 (o)
 
@@ -270,7 +270,9 @@ Definitions.—In this section:
 
 &emsp;(2) The term "medical service line" means a clinic within a Department medical center.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV,§1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -366,6 +368,8 @@ Subsec. (c). Pub. L. 100–322, §112(a), added subsec. (c).
 
 <b>1985</b>—Subsec. (a)(5). Pub. L. 99–166, §102(b)(1), as amended by Pub. L. 99–272, §19012(c)(5)(A), inserted "(other than the Commonwealth of Puerto Rico)" after "in a State" and substituted "contiguous States and the Commonwealth of Puerto Rico" for "contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–251, title II, §201(b), Sept. 29, 2018, 132 Stat. 3172, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date specified in section 101(b) of the John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA Maintaining Internal Systems and Strengthening Integrated Outside Networks Act of 2018 (Public Law 115–182) \[set out below\]."
@@ -414,6 +418,126 @@ Appropriate committees of congress defined.—In this paragraph, the term 'appro
 
 &emsp;&emsp;"(ii) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives."
 
+#### Administration of Non-Department of Veterans Affairs Health Care
+
+Pub. L. 116–315, title III, §3103, Jan. 5, 2021, 134 Stat. 5004, provided that:
+
+"(a)
+
+Certification of Proper Administration of Non-Department Care.—
+
+&emsp;"(1)
+
+Review.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Veterans Affairs shall conduct a review of the staffing, training, and other requirements necessary to administer section 1703 of title 38, United States Code.
+
+&emsp;&emsp;"(B)
+
+Elements.—The review conducted under subparagraph (A) shall include, with respect to each medical facility of the Department of Veterans Affairs—
+
+&emsp;&emsp;&emsp;"(i) an assessment of the type of positions required to be staffed at the medical facility;
+
+&emsp;&emsp;&emsp;"(ii) the number of such positions authorized;
+
+&emsp;&emsp;&emsp;"(iii) the number of such positions funded;
+
+&emsp;&emsp;&emsp;"(iv) the number of such positions filled; and
+
+&emsp;&emsp;&emsp;"(v) the number of additional such positions required to be authorized.
+
+&emsp;"(2)
+
+Submittal to congress.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], and every 180 days thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives—
+
+&emsp;&emsp;"(A) the results of the review conducted under paragraph (1); and
+
+&emsp;&emsp;"(B) a certification that the Secretary has established all staffing, training, and other requirements required to be reviewed under such paragraph.
+
+"(b)
+
+Scheduling of Appointments.—
+
+&emsp;"(1)
+
+Measurement of timeliness for each facility.—Not later than 120 days after the date of the enactment of this Act, the Secretary shall measure, with respect to referrals for non-Department health care originating from medical facilities of the Department, for each such facility—
+
+&emsp;&emsp;"(A) the period of time between—
+
+&emsp;&emsp;&emsp;"(i) the date that a clinician of the Department determines that a veteran requires care, or a veteran presents to the Department requesting care, and the date that the referral for care is sent to a non-Department health care provider;
+
+&emsp;&emsp;&emsp;"(ii) the date that the referral for care is sent to a non-Department health care provider and the date that a non-Department health care provider accepts the referral;
+
+&emsp;&emsp;&emsp;"(iii) the date that a non-Department health care provider accepts the referral and the date that the referral to a non-Department health care provider is completed;
+
+&emsp;&emsp;&emsp;"(iv) the date that the referral to a non-Department health care provider is completed and the date that an appointment with a non-Department health care provider is made; and
+
+&emsp;&emsp;&emsp;"(v) the date that an appointment with a non-Department health care provider is made and the date that an appointment with a non-Department health care provider occurs; and
+
+&emsp;&emsp;"(B) any other period of time that the Secretary determines necessary to measure.
+
+&emsp;"(2)
+
+Submissions to congress.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the data measured under paragraph (1), disaggregated by medical facility.
+
+&emsp;&emsp;"(B)
+
+Update.—Not less frequently than biweekly, the Secretary shall update the data submitted under subparagraph (A).
+
+"(c)
+
+Comptroller General Report.—
+
+&emsp;"(1)
+
+Review.—Beginning not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Comptroller General of the United States shall review compliance by the Secretary with the requirements of this section, including a review of the validity and reliability of data submitted by the Secretary under subsection (b)(2).
+
+&emsp;"(2)
+
+Report.—Not later than three years after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives the results of the review conducted under paragraph (1)."
+
+#### Establishment of Women Veteran Training Module for Non-Department of Veterans Affairs Health Care Providers
+
+Pub. L. 116–315, title V, §5203, Jan. 5, 2021, 134 Stat. 5034, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall establish and make available to community providers a training module that is specific to women veterans.
+
+"(b)
+
+Training Materials Provided.—Under the training module established and made available to community providers under subsection (a), the Secretary shall provide to community providers the same training materials relating to treatment of women veterans that is provided to health care providers of the Department of Veterans Affairs to ensure that all health care providers treating women veterans have access to the same materials to support competency throughout the community.
+
+"(c)
+
+Administration of Training Module.—The Secretary shall administer the training module established under subsection (a) to community providers through an internet website of the Department.
+
+"(d)
+
+Annual Report.—Not later than one year after the establishment of the training module under subsection (a), and annually thereafter, the Secretary shall submit to Congress a report on—
+
+&emsp;"(1) the utilization by community providers of the training module; and
+
+&emsp;"(2) the effectiveness of the training module.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Community provider.—The term 'community provider' means a non-Department of Veterans Affairs health care provider who provides preauthorized health care to veterans under the laws administered by the Secretary of Veterans Affairs.
+
+&emsp;"(2)
+
+Preauthorized health care.—The term 'preauthorized health care' means health care provided to a veteran that is authorized by the Secretary before being provided."
+
 #### Continuity of Existing Agreements
 
 Pub. L. 115–182, title I, §101(d), June 6, 2018, 132 Stat. 1403, provided that:
@@ -454,11 +578,11 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[M
 
 "(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section$5,000,000 for fiscal year 2010 and each fiscal year thereafter."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2010 and each fiscal year thereafter."
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 "(a)
 

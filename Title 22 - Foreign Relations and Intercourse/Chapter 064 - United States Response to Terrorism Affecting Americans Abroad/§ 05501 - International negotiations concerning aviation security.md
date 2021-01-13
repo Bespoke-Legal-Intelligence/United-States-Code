@@ -20,13 +20,17 @@ It is the policy of the United States—
 
 &emsp;(C) to achieve improved availability of passenger manifest information.
 
-(2) A principal objective of bilateral and multilateral negotiations with foreign governments and the International Civil Aviation Organization shall be improved availability of passenger manifest information.
+(2) A principal objective of bilateral and multilateral negotiations with foreign governmentsand the International Civil Aviation Organization shall be improved availability of passenger manifest information.
 
 (Pub. L. 101–604, title II, §201, Nov. 16, 1990, 104 Stat. 3081.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 No act with the title Foreign Airport Security Act, referred to in subsecs. (a)(2) and (b)(1)(B), has been enacted. The Foreign Airport Security Act probably means part B (§§551–559) of title V of Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 222. For complete classification of part B to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

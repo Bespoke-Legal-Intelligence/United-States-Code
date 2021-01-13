@@ -66,7 +66,7 @@
 
 #### (d) Contents
 
-An annual public housing agency plan under subsection (b) for a public housing agency shall contain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
+An annual public housing agency plan under subsection (b) for a public housing agency shallcontain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
 
 #### (1) Needs
 
@@ -134,7 +134,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 &emsp;&emsp;(B) any policies or programs of the public housing agency for the enhancement of the economic and social self-sufficiency of assisted families;
 
-&emsp;&emsp;(C) how the public housing agency will comply with the requirements of subsections\(c) and (d) of section 1437j of this title (relating to community service and treatment of income changes resulting from welfare program requirements).
+&emsp;&emsp;(C) how the public housing agency will comply with the requirements of subsections (c) and (d) of section 1437j of this title (relating to community service and treatment of income changes resulting from welfare program requirements).
 
 #### (13) Domestic violence, dating violence, sexual assault, or stalking programs
 
@@ -208,7 +208,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annualpublic housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
+&emsp;&emsp;Except as provided in subparagraph (B), nothing in this section may be construed to exempt a qualified public housing agency from the requirement under paragraph (1) to establish 1 or more resident advisory boards. Notwithstanding that qualified public housing agencies are exempt under subsection (b)(3)(A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified public housing agency shall consult with, and consider the recommendations of the resident advisory boards for the agency, at the annual public hearing required under subsection (f)(5), regarding any changes to the goals, objectives, and policies of that agency.
 
 #### (B) Applicability of waiver authority
 
@@ -218,7 +218,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. Thehearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -290,7 +290,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (1) Initial submission
 
-&emsp;Each public housing agency shall submit the initial plan required by this section, and anyamendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
+&emsp;Each public housing agency shall submit the initial plan required by this section, and any amendment or modification to the initial plan, to the Secretary at such time and in such form as the Secretary shall require.
 
 #### (2) Annual submission
 

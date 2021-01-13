@@ -34,11 +34,13 @@ This part shall not be construed to affect any of the following Federal programs
 
 (Pub. L. 107–296, title XX, §2002, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 273; amended Pub. L. 116–108, §2(b), Jan. 24, 2020, 133 Stat. 3295.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Fire Prevention and Control Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2), isPub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (b)(3), (4), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266. Title II of the Act amended section 762 of this title and section 5196c of Title 42, The Public Health and Welfare. Title XIV of the Act is classified generally to subchapter III (§1131 et seq.) of chapter 4 of this title. Title XV of the Act is classified principally to subchapter IV (§1151 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
@@ -47,6 +49,8 @@ Section 1014 of the USA PATRIOT Act, referred to in subsec. (c)(1), is section 1
 #### Amendments
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–108 substituted "sections 604, 605, and 609a" for "sections 604 and 605".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grant Program for State and Local Domestic Preparedness Support
 

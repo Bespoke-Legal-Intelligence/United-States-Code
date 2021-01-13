@@ -16,7 +16,7 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the Government, authorized to carry arms in an official capacity; or
 
-&emsp;(2) another individual the Administrator of the Federal Aviation Administration or the Secretary of Homeland Security by regulation authorizes to carry arms in an official capacity.
+&emsp;(2) another individual the Administrator of the Federal Aviation Administration or theSecretary of Homeland Security by regulation authorizes to carry arms in an official capacity.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1234; Pub. L. 107–71, title I, §140(d)(5), Nov. 19, 2001, 115 Stat. 642; Pub. L. 108–458, title IV, §4027(c), Dec. 17, 2004, 118 Stat. 3727.)
 

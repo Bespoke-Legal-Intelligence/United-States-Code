@@ -234,7 +234,7 @@ Subsec. (c)(5). Pub. L. 115–334, §2308(d)(4), added par. (5).
 
 Subsec. (d). Pub. L. 115–334, §2308(d)(3), (5)(A), redesignated subsec. (e) as (d) and inserted "and advanced grazing management" after "crop rotations" in heading. Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted "The term" for "In this subsection, the term", redesignated former subpars. (A) to (D) and (E) of par. (1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
+Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted "The term" for "In this subsection, the term", redesignated former subpars. (A) to (D) and (E) of par.\(1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
 
 Pub. L. 115–334, §2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
 

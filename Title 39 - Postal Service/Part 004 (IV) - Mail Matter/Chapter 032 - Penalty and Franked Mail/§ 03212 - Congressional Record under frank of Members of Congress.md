@@ -6,11 +6,15 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 754; Pub. L. 93–191, §3, Dec. 18, 1973, 87 Stat. 741.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as subsec. (a).
 
 Subsec. (b). Pub. L. 93–191 incorporated existing text in provisions designated as subsec. (b), authorized sending, as franked mail, reprints of parts of Congressional Record, and authorized the mailing of Congressional Record if the listed matter is mailable as franked mail under section 3210 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

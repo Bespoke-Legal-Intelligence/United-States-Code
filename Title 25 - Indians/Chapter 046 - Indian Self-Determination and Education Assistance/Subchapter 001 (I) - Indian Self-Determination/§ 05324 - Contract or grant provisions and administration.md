@@ -94,7 +94,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 #### (g) Performance of personal services
 
-The contracts authorized under section 5321 of this title and grants pursuant to section 5322 of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
+The contracts authorized under section 5321 of this title and grants pursuant to section 5322 ofthis title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
 
 #### (h) Fair and uniform provision by tribal organization of services and assistance to covered Indians
 
@@ -108,7 +108,7 @@ Contracts and grants with tribal organizations pursuant to sections 5321 and 532
 
 #### (j) Proposal to redesign program, activity, function, or service
 
-Upon providing notice to the Secretary, a tribal organization that carries out a nonconstruction self-determination contract may propose a redesign of a program, activity, function, or service carried out by the tribal organization under the contract, including any nonstatutoryprogram standard, in such manner as to best meet the local geographic, demographic, economic, cultural, health, and institutional needs of the Indian people and tribes served under the contract. The Secretary shall evaluate any proposal to redesign any program, activity, function, or service provided under the contract. With respect to declining to approve a redesigned program, activity, function, or service under this subsection, the Secretary shall apply the criteria and procedures set forth in section 5321 of this title.
+Upon providing notice to the Secretary, a tribal organization that carries out a nonconstruction self-determination contract may propose a redesign of a program, activity, function, or service carried out by the tribal organization under the contract, including any nonstatutory program standard, in such manner as to best meet the local geographic, demographic, economic, cultural, health, and institutional needs of the Indian people and tribes served under the contract. The Secretary shall evaluate any proposal to redesign any program, activity, function, or service provided under the contract. With respect to declining to approve a redesigned program, activity, function, or service under this subsection, the Secretary shall apply the criteria and procedures set forth in section 5321 of this title.
 
 #### (k) Access to Federal sources of supply
 
@@ -130,7 +130,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 (2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretary shall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
 
-(3) Prior to finalizing a construction contract proposal pursuant to section 5321(a) of this title, and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
+(3) Prior to finalizing a construction contract proposal pursuant to section 5321(a) of this title,and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
 
 &emsp;(A) The provision of technical assistance pursuant to section 5322 of this title and paragraph (2).
 
@@ -184,7 +184,31 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 &emsp;Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
-(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§7, 8, Aug. 18, 2000, 114 Stat. 732, 733.)
+#### (p) Interpretation by Secretary
+
+Except as otherwise provided by law, the Secretary shall interpret all Federal laws (including regulations) and Executive orders in a manner that facilitates, to the maximum extent practicable—
+
+&emsp;(1) the inclusion in self-determination contracts and funding agreements of—
+
+&emsp;&emsp;(A) applicable programs, services, functions, and activities (or portions thereof); and
+
+&emsp;&emsp;(B) funds associated with those programs, services, functions, and activities;
+
+&emsp;(2) the implementation of self-determination contracts and funding agreements; and
+
+&emsp;(3) the achievement of Tribal health objectives.
+
+#### (q) Technical assistance for internal controls
+
+(1)
+
+Technical Assistance for Internal Controls.— <sup>3</sup> In considering proposals for, amendments to, or in the course of, a contract under this subchapter and compacts under subchapters IV and V of this chapter, if the Secretary determines that the Indian Tribe lacks adequate internal controls necessary to manage the contracted program or programs, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Indian Tribe in developing adequate internal controls. As part of that technical assistance, the Secretary and the Tribe shall develop a plan for assessing the subsequent effectiveness of such technical assistance. The inability of the Secretary to provide technical assistance or lack of a plan under this subsection shall not result in the reassumption of an existing agreement, contract, or compact, or declination or rejection of a new agreement, contract, or compact.
+
+(2) The Secretary shall prepare a report to be included in the information required for the reports under sections 5372(b)(2)(A) and 5394(b)(2)(A) of this title. The Secretary shall include in this report, in the aggregate, a description of the internal controls that were inadequate, the technical assistance provided, and a description of Secretarial actions taken to address any remaining inadequate internal controls after the provision of technical assistance and implementation of the plan required by paragraph (1).
+
+(Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§7, 8, Aug. 18, 2000, 114 Stat. 732, 733; Pub. L. 116–180, title II, §203, Oct. 21, 2020, 134 Stat. 880.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -198,13 +222,13 @@ The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85�
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans' Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
 
-This subchapter, referred to in subsecs. (b) and (i)(2), was in the original "this title", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This subchapter, referred to in subsecs. (b), (i)(2), and (q)(1), was in the original "this title", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this subchapter (§5321 et seq.). For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under section 5321 of this title.
 
 Subsections (a)(2) and (b) of section 5321 of this title, referred to in subsec. (m)(4)(C)(v), was in the original "sections 102(a)(2) and 102(b) of section 102", and was translated as reading "subsections (a)(2) and (b) of section 102", meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
-The Federal Records Act of 1950, referred to in subsec. (o), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949,was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (o), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 
@@ -231,6 +255,10 @@ In subsec. (k), "section 501 of title 40" substituted for "section 201(a) of the
 A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 100–472 and is classified to section 5323 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–180, §203(1), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title. For disposition of former section 103 of Pub. L. 93–638, see Prior Provisions note set out under section 5322 of this title.
+
+Subsecs. (p), (q). Pub. L. 116–180, §203(2), added subsecs. (p) and (q).
 
 <b>2000</b>—Subsec. (k). Pub. L. 106–260, §7, substituted "deemed an executive agency and part of the Indian Health Service" for "deemed an executive agency" and inserted at end "For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements."
 
@@ -262,7 +290,7 @@ Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted "or real" after "pers
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–472, §204(b), (c), substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638 and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts. See Prior Provisions note set out under section 5322 of this title.
 
-Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L.93–638, and section 5322 of this title, was executed by substituting the new language for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, or section 5322 of this title, to reflect the probable intent of Congress. See Prior Provisions note set out under section 5322 of this title.
+Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting reference to sections 5321 and 5322 of this title for text in original Act reading "sections 102, 103, and 104", could not be executed because text enacted by Pub. L. 93–638 read "section 102, 103, or 104". Intended amendment was reenacted by Pub. L. 116–180, §203(1), see 2020 Amendment note above.
 
 Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which related to limitation on term of any contract requested by a tribe pursuant to section 5321 of this title and former section 103 of Pub. L. 93–638 and annual renegotiation of amounts. See Prior Provisions note set out under section 5322 of this title.
 
@@ -272,9 +300,11 @@ Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out forme
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638. Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
+Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638.Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
 
 Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) as (h), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, and section 5322 of this title, and reference to Health and Human Services for reference to Health, Education, and Welfare. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out. See Prior Provisions note set out under section 5322 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Continued Availability of Certain Funds
 
@@ -283,4 +313,6 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681�
 <i><sup>1</sup></i><i> So in original. Probably should be "provisions".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The heading of par. (1) was probably meant for subsec. (q), the heading of which was editorially supplied.</i>
 

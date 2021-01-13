@@ -56,7 +56,7 @@ Recipients of awards under this section shall not be required to provide a match
 
 #### (g) Global marketplace projects
 
-In making an award under this section, the Director, in consultation with the MEP Advisory Board and the Secretary, may take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
+In making an award under this section, the Director, in consultation with the MEP Advisory Board and the Secretary, may take into consideration whether an application has significantpotential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
 
 #### (h) Duration
 

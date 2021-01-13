@@ -40,7 +40,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this titleshould be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 

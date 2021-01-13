@@ -6,7 +6,7 @@ Assistance of Heads of Other Federal Departments and Agencies in Formulation and
 
 (b)
 
-Compilation of Statutes and Programs.—The Secretary shall maintain a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects that mightbe utilized by the Secretary to carry out this subchapter.
+Compilation of Statutes and Programs.—The Secretary shall maintain a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects that might be utilized by the Secretary to carry out this subchapter.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3133.)
 

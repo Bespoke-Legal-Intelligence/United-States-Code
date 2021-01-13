@@ -40,6 +40,8 @@ Historical and Revision Notes
 
 Pub. L. 106–391, title III, §325, Oct. 30, 2000, 114 Stat. 1600.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation authorization act:

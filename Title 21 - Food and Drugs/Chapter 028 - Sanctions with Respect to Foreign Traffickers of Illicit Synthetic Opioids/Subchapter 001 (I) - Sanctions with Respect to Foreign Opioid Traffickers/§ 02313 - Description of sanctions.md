@@ -32,7 +32,7 @@ The sanctions that may be imposed with respect to a foreign person under section
 
 #### (5) Banking transactions
 
-&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibitany transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
+&emsp;The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the foreign person.
 
 #### (6) Property transactions
 
@@ -80,7 +80,15 @@ The President may exercise all authorities provided under sections 1702 and 1704
 
 (Pub. L. 116–92, div. F, title LXXII, §7213, Dec. 20, 2019, 133 Stat. 2266.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities of President under subsections (a)(4) to (9) and (d) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(vi) and (vii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 

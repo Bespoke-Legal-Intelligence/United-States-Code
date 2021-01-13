@@ -6,7 +6,7 @@
 
 (c) In collecting and publishing statistics of cotton on hand in warehouses and other storage establishments, and of cotton known as the "carry-over" in the United States, the Secretary shall ascertain and publish as a separate item in the report of cotton statistics the number of bales of linters as distinguished from the number of bales of cotton.
 
-(d) The Secretary shall furnish to the Department of Agriculture, immediately prior to thepublication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
+(d) The Secretary shall furnish to the Department of Agriculture, immediately prior to the publication of each report of that Department regarding the cotton crop, the latest available statistics hereinbefore mentioned, and the Department of Agriculture shall publish the same in connection with each of its reports concerning cotton.
 
 (Aug. 31, 1954, ch. 1158, 68 Stat. 1016; Pub. L. 92–331, §4, June 30, 1972, 86 Stat. 400.)
 
@@ -19,6 +19,8 @@ Section consolidates sections 72 and 72a of title 13, U.S.C., 1952 ed.
 "Secretary" was substituted for "Director of the Census" to conform with 1950 Reorganization Plan No. 5, §§1, 2, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
 Changes were made in phraseology and arrangement.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

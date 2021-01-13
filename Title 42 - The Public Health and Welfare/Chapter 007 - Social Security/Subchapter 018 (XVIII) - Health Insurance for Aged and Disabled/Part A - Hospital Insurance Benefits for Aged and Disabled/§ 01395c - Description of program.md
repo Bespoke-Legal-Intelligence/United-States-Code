@@ -128,7 +128,7 @@ Contents.—The guidance described in subsection (a) shall include, with respect
 
 #### Advisory Council To Study Coverage of Disabled Under This Subchapter
 
-Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary of Health, Education, and Welfare to appoint an Advisory Council to study need for coverage of disabled under the health insurance programs of thissubchapter, directed Council to submit a report on such study to Secretary by Jan. 1, 1969, and directed Secretary in turn to transmit such report to Congress, resulting in termination of Council's existence.
+Pub. L. 90–248, title I, §140, Jan. 2, 1968, 81 Stat. 854, directed Secretary of Health, Education, and Welfare to appoint an Advisory Council to study need for coverage of disabled under the health insurance programs of this subchapter, directed Council to submit a report on such study to Secretary by Jan. 1, 1969, and directed Secretary in turn to transmit such report to Congress, resulting in termination of Council's existence.
 
 #### Reimbursement of Charges Under Part A for Services to Patients Admitted Prior to 1968 to Certain Hospitals
 
@@ -138,7 +138,7 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 &emsp;"(1) the hospital did not have an agreement in effect under section 1866 of such Act \[42 U.S.C. 1395cc\] but would have been eligible for payment under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\] with respect to such services if at the time such services were furnished the hospital had such an agreement in effect;
 
-&emsp;"(2) the hospital (A) meets the requirements of paragraphs (5) and (7) of section 1861(e) of such Act \[42 U.S.C. 1395x(e)(5), (7)\], (B) is not primarily engaged in providing the services described in section 1961(j)(1)(A) of such Act \[42 U.S.C. 1395x(j)(1)(A)\], and (C) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of section 1861(r) of such Act \[42 U.S.C. 1395x(r)(1)\], to inpatients (i) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or (ii) rehabilitation services for the rehabilitation of injured, disabled, or sick persons;
+&emsp;"(2) the hospital (A) meets the requirements of paragraphs (5) and (7) of section 1861(e) of such Act \[42 U.S.C. 1395x(e)(5), (7)\], (B) is not primarily engaged in providing the services described in section 1961(j)(1)(A) of such Act \[42 U.S.C. 1395x(j)(1)(A)\], and (C) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of section 1861(r) of such Act \[42 U.S.C. 1395x(r)(1)\], toinpatients (i) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or (ii) rehabilitation services for the rehabilitation of injured, disabled, or sick persons;
 
 &emsp;"(3) the hospital did not meet the requirements that must be met to permit payment to the hospital under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\]; and
 

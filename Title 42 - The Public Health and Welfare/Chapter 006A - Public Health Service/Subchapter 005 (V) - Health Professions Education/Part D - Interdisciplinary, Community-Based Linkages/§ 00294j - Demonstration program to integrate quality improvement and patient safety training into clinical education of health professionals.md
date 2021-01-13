@@ -48,7 +48,7 @@ The Secretary shall take such action as may be necessary to evaluate the project
 
 #### (e) Reports
 
-Not later than 2 years after March 23, 2010, and annually thereafter, the Secretary shall submitto the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives a report that—
+Not later than 2 years after March 23, 2010, and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives a report that—
 
 &emsp;(1) describes the specific projects supported under this section; and
 

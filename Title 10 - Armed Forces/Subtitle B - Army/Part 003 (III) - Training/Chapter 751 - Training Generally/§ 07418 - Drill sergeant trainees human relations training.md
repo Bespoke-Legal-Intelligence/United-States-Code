@@ -40,7 +40,7 @@ Measures To Be Taken.—As part of such reform, the Secretary shall undertake th
 
 &emsp;&emsp;"(B) whether duty as a drill sergeant is a career-enhancing assignment (or is seen by potential drill sergeant candidates as a career-enhancing assignment) and what steps could be taken to ensure that such duty is in fact a career-enhancing assignment.
 
-&emsp;"(2) Incorporate into the selection process for all drill sergeants the views and recommendations of the officers and senior noncommissioned officers in the chain of command of each candidate for selection (particularly those of senior noncommissioned officers) regarding the candidate's suitability and qualifications to be a drill sergeant.
+&emsp;"(2) Incorporate into the selection process for all drill sergeants the views and recommendations of the officers and senior noncommissioned officers in the chain of command of each candidate for selection\(particularly those of senior noncommissioned officers) regarding the candidate's suitability and qualifications to be a drill sergeant.
 
 &emsp;"(3) Establish a requirement for psychological screening for each drill sergeant candidate.
 

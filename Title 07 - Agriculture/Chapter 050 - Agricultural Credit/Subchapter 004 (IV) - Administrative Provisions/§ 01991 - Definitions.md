@@ -8,7 +8,7 @@
 
 &emsp;(3) The term "owner-operator" shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
 
-&emsp;(4) The word "insure" as used in this chapter includes guarantee, which means to guaranteethe payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
+&emsp;(4) The word "insure" as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
 
 &emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
@@ -244,7 +244,7 @@ Pub. L. 113–79, §5303(a)(1), substituted "joint operation, or such other lega
 
 Subsec. (a)(11)(D)(i)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation," and "joint operators, or owners," for "or joint operators,".
 
-Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership,joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
+Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, §5303(a)(3), substituted "cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators," for "corporation, has stockholders,".
 
 Subsec. (a)(11)(D)(ii)(II)(aa). Pub. L. 113–79, §5303(a)(1), (2), substituted "joint operation, or such other legal entity as the Secretary considers appropriate," for "or joint operation,"and "joint operators, or owners," for "or joint operators,".
 
@@ -330,7 +330,7 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 #### Construction of 1990 Amendment
 
-Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V,§516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
 
 #### Termination of Trust Territory of the Pacific Islands
 

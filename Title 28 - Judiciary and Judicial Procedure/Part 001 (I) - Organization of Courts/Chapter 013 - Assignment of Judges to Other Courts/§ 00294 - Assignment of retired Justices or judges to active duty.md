@@ -22,6 +22,8 @@ The term "chief judge" was substituted for "presiding judge or senior judge." (S
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting "district or bankruptcy judge" for "or district" and the amendment of subsec. (d) by substituting ", district judge or bankruptcy judge" for "or district judge", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
@@ -35,6 +37,8 @@ Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 <b>1957</b>—Subsec. (d). Pub. L. 85–219 added subsec. (d).
 
 <b>1956</b>—Subsec. (b). Act July 9, 1956, inserted provisions relating to assignment of retired judges of the Court of Claims.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 

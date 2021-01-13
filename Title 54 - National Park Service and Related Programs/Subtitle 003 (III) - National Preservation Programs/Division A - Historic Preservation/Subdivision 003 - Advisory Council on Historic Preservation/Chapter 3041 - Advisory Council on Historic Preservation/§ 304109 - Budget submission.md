@@ -6,7 +6,7 @@ Time and Manner of Submission.—The Council shall submit its budget annually as
 
 (b)
 
-Transmittal of Copies to Congressional Committees.—Whenever the Council submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the Committee on Natural Resources and Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and Committee on Appropriations of the Senate.
+Transmittal of Copies to Congressional Committees.—Whenever the Council submits any budget estimate or request to the Presidentor the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the Committee on Natural Resources and Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and Committee on Appropriations of the Senate.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3214.)
 

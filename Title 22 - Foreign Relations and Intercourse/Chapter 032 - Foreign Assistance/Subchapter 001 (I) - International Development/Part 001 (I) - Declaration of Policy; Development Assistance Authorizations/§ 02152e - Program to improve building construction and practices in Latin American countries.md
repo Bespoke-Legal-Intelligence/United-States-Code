@@ -28,6 +28,8 @@ The President, acting through the Administrator of the United States Agency for 
 
 (Pub. L. 107–228, div. A, title VI, §688, Sept. 30, 2002, 116 Stat. 1413.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of State Authorization Act, Fiscal Year 2003, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.

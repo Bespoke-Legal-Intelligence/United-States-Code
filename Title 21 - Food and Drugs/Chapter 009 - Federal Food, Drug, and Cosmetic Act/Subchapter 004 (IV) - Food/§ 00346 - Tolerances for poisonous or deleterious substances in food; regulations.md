@@ -4,11 +4,15 @@ Any poisonous or deleterious substance added to any food, except where such subs
 
 (June 25, 1938, ch. 675, §406, 52 Stat. 1049; Pub. L. 85–929, §3(c), Sept. 6, 1958, 72 Stat. 1785; Pub. L. 86–618, title I, §103(a)(1), July 12, 1960, 74 Stat. 398.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–618 repealed subsec. (b) which required Secretary to promulgate regulations for listing of coal-tar colors.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–929 substituted "clause (2)(A)" for "clause (2)" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

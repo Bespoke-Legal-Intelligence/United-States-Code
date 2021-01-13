@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm, or, if data with respect to weeks ofemployment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -126,7 +126,7 @@ If—
 
 #### References in Text
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -188,7 +188,7 @@ Subsec. (c)(1)(B). Pub. L. 111–5, §§1821(b)(1), 1893, temporarily designated
 
 Subsec. (c)(2)(A). Pub. L. 111–5, §§1821(b)(2), 1893, temporarily substituted "Except as provided in paragraph (3)(B), a waiver" for "A waiver". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted "An agreement under section 2311 of this title shall authorize a" for "Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a". See Codification note aboveand Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted "An agreement under section 2311 of this title shall authorize a" for "Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -212,7 +212,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
-Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
+Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications,revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
@@ -266,7 +266,7 @@ Job Search Program Requirements.—The amendments made by section 13003(a) \[ame
 
 "(c)
 
-Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 1974 (19 U.S.C. 2271, etseq.) \[parts 2 and 3 of this subchapter\] shall be applied as if the amendments made by sections 13007 and 13008 \[amending sections 2317 and 2346 of this title and provisions set out as a note preceding section 2271 of this title\] had taken effect on December 18, 1985.
+Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 1974 (19 U.S.C. 2271, et seq.) \[parts 2 and 3 of this subchapter\] shall be applied as if the amendments made by sections 13007 and 13008 \[amending sections 2317 and 2346 of this title and provisions set out as a note preceding section 2271 of this title\] had taken effect on December 18, 1985.
 
 "(d)
 

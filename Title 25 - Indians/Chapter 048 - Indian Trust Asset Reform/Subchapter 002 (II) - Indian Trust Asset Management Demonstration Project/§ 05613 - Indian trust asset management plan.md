@@ -54,7 +54,7 @@
 
 #### (A) Notice
 
-&emsp;&emsp;If the Secretary disapproves a proposed plan under paragraph (1)(B), the Secretary shall provide to the Indian tribe a writtennotice of the disapproval, including any reason why the proposed plan was disapproved.
+&emsp;&emsp;If the Secretary disapproves a proposed plan under paragraph (1)(B), the Secretary shall provide to the Indian tribe a written notice of the disapproval, including any reason why the proposed plan was disapproved.
 
 #### (B) Action by tribes
 
@@ -91,6 +91,8 @@ Subject to section 5614 of this title, an Indian trust asset management plan, an
 &emsp;A termination of an Indian trust asset management plan under paragraph (1) takes effect on October 1 of the first fiscal year following the date on which a notice is provided to the Secretary under paragraph (1)(A).
 
 (Pub. L. 114–178, title II, §204, June 22, 2016, 130 Stat. 434.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

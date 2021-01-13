@@ -18,7 +18,7 @@
 
 &emsp;(D) specify those types of costs directly incurred by the State for interest calculations required under this section, and require the Secretary to consider those costs in computing payments under this section.
 
-(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulationsshall apply to a State until such time as the Secretary enters into an agreement with the State under paragraph (1).
+(3) The Secretary shall issue regulations establishing procedures and requirements for implementing this section with respect to a State with which no agreement is entered into by the Secretary under paragraph (1). Such regulations shall apply to a State until such time as the Secretary enters into an agreement with the State under paragraph (1).
 
 (c)(1) The Secretary shall issue regulations that shall require a State, when not inconsistent with program purposes, to pay interest to the United States on funds from the time funds are deposited by the United States to the State's account until the time that funds are paid out by the State in order to redeem checks or warrants or make payments by other means for program purposes. Except as provided under paragraph (3)(B) (relating to the Unemployment Trust Fund), the interest payable under this subsection shall be calculated at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 
@@ -30,7 +30,7 @@
 
 (d)(1) If a State disburses its own funds for program purposes in accordance with Federal law, Federal regulation, or Federal-State agreement, the State shall be entitled to interest from the time the State's funds are paid out to redeem checks or warrants, or make payments by other means, until the Federal funds are deposited to the State's bank account. The Secretary shall pay, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary for interest owed to a State under this subsection. Such interest shall be calculated, at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 
-(2) If interest is paid under this subsection as a result of a State disbursing its own funds before receiving payment from a trust fund for which the Secretary of the Treasury is the trustee, such interest shall be charged against such trust fund.
+(2) If interest is paid under this subsection as a result of a State disbursing its own funds before receiving payment from a trust fund for which the Secretary of the Treasury is thetrustee, such interest shall be charged against such trust fund.
 
 (e) The budget submitted by the President under section 1105 of this title for a fiscal year shall include a statement specifying, for the most recently completed fiscal year, amounts of interest accrued to the Federal Government under subsection (c) and amounts of interest paid to States under subsection (d).
 
@@ -68,11 +68,15 @@ In the section, the words "executive agency" are substituted for "Federal depart
 
 In subsection (a), the word "money" is substituted for "funds" for consistency in the section. The words "so as" and "United States" are omitted as surplus. The words "before or after" are substituted for "prior to or subsequent to" for consistency. The words "subsequent to such transfer of funds" are omitted as unnecessary the second time they are used.
 
-In subsection (b), the words "apart from other funds administered by the state", "properly", "In each case", and "examination" are omitted as unnecessary. The word "money" is substituted for "all federal grant-in-aid funds" for consistency in the section. The words"United States Government grant money" are substituted for "Federal funds" for consistency in the revised title. The word "make" is substituted for "render", the word "periodic" is substituted for "regular", and the word "information" is substituted for "facts", for clarity. The words "or any of their duly authorized representatives" are omitted as unnecessary. The words "Records shall be made available to . . . for auditing" are substituted for "shall have access for the purpose of audit and examination to any books, documents, papers, and records" for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "apart from other funds administered by the state", "properly", "In each case", and "examination" are omitted as unnecessary. The word "money" is substituted for "all federal grant-in-aid funds" for consistency in the section. The words "United States Government grant money" are substituted for "Federal funds" for consistency in the revised title. The word "make" is substituted for "render", the word "periodic" is substituted for "regular", and the word "information" is substituted for "facts", for clarity. The words "or any of their duly authorized representatives" are omitted as unnecessary. The words "Records shall be made available to . . . for auditing" are substituted for "shall have access for the purpose of audit and examination to any books, documents, papers, and records" for consistency in the revised title and with other titles of the United States Code.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–453 amended section generally, substituting provisions relating to intergovernmental financing for provisions relating to transfer and deposit requirements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

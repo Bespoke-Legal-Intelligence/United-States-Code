@@ -34,7 +34,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying termination costs with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
 
-&emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent thosefunds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
+&emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
 
 &emsp;(D) funds appropriated for a fiscal year may be used to make payments on such lease, for a maximum of 12 months, beginning any time during such fiscal year.
 
@@ -110,9 +110,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 116–93, div. A, title VIII, §8047(b), Dec. 20, 2019, 133 Stat. 2348, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
+Pub. L. 116–260, div. C, title VIII, §8047(b), Dec. 27, 2020, 134 Stat. 1316, provided that: "None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. A, title VIII, §8047(b), Dec. 20, 2019, 133 Stat. 2348.
 
 Pub. L. 115–245, div. A, title VIII, §8045(b), Sept. 28, 2018, 132 Stat. 3012.
 

@@ -1,6 +1,6 @@
 ### §402. Contempts constituting crimes
 
-Any person, corporation or association willfully disobeying any lawful writ, process, order, rule, decree, or command of any district court of the United States or any court of the District of Columbia, by doing any act or thing therein, or thereby forbidden, if the act or thing so done be of such character as to constitute also a criminal offense under any statute of the United States or under the laws of any State in which the act was committed, shall be prosecuted for such contempt as provided in section 3691 of this title and shall be punished by a fine under this title or imprisonment, or both.
+Any person, corporation or association willfully disobeying any lawful writ, process, order, rule, decree, or command of any district court of the United States or any court of the District of Columbia, by doing any act or thing therein, or thereby forbidden, if the act or thing so done be of such character as to constitute also a criminal offense under any statute of the United States or under the laws of any State in which the act was committed, shall be prosecuted for such contempt as provided in section 3691 of thistitle and shall be punished by a fine under this title or imprisonment, or both.
 
 Such fine shall be paid to the United States or to the complainant or other party injured by the act constituting the contempt, or may, where more than one is so damaged, be divided or apportioned among them as the court may direct, but in no case shall the fine to be paid to the United States exceed, in case the accused is a natural person, the sum of $1,000, nor shall such imprisonment exceed the term of six months.
 
@@ -28,6 +28,8 @@ As noted above these sections were part of the Clayton Act, entitled "An act to 
 
 This amendment \[see section 8\] corrects the catchline of section 402 of title 18, U.S.C., to better represent the section content.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, §330016(2)(E), substituted "punished by a fine under this title" for "punished by fine" in first par.
@@ -37,6 +39,8 @@ Pub. L. 103–322, §330011(f), amended directory language of Pub. L. 101–647,
 <b>1990</b>—Pub. L. 101–647, §1205(c), as amended by Pub. L. 103–322, §330011(f), added par. defining "State".
 
 <b>1949</b>—Act May 24, 1949, substituted "Contempts constituting crimes" for "Criminal contempts" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -36,7 +36,7 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 #### Inapplicability of Section
 
-Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicableto milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 

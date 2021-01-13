@@ -30,6 +30,10 @@ Effective Date.—The regulations prescribed under subsection (a) shall apply to
 
 (Added Pub. L. 101–510, div. A, title VIII, §824(a)(1), Nov. 5, 1990, 104 Stat. 1603; amended Pub. L. 102–25, title VII, §701(c), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §802(a)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 102–484, div. A, title X, §1052(27), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–35, title II, §201(c)(5), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. D, title XLIII, §4321(b)(11), Feb. 10, 1996, 110 Stat. 672; Pub. L. 114–328, div. A, title VIII, §824(a)(1), Dec. 23, 2016, 130 Stat. 2277; Pub. L. 115–91, div. A, title X, §1081(a)(35), Dec. 12, 2017, 131 Stat. 1596.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1832(j)(2), Jan. 1, 2021, 134 Stat. 4151, 4225, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to subchapter II of chapter 273 of this title, as added by section 1832(j)(1) of Pub. L. 116–283, inserted after section 3761, and redesignated as section 3762 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–91 substituted "subsection (c)(2)(A)" for "subsection (c)(3)(A)".
@@ -46,13 +50,17 @@ Effective Date.—The regulations prescribed under subsection (a) shall apply to
 
 Subsec. (d)(2)(B). Pub. L. 102–25 substituted "subsection (b), including" for "subsection (b) or".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: "The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date."
+Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: "The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and developmentand bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date."
 
 #### Regulations
 

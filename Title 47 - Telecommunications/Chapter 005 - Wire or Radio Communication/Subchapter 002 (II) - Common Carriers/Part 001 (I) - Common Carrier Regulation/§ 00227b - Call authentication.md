@@ -82,7 +82,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) the inability to purchase or upgrade equipment to support the call authentication frameworks under this section, or lack of availability of such equipment; and
 
-&emsp;&emsp;&emsp;(ii) in connection with an assessment under clause (i), may, upon a public finding of undue hardship, delay required compliance with the 18-month time period described in paragraph (1), for a reasonable period of time, for a provider or class of providers of voice service, or type of voice calls, as necessary for that provider or class of providers or type of calls to participate in the implementation in order to address the identified burdens and barriers.
+&emsp;&emsp;&emsp;(ii) in connection with an assessment under clause (i), may, upon a public finding of undue hardship, delay required compliance with the 18-month time period described in paragraph (1), for a reasonable period of time, for a provider or class of providers of voice service, or type of voice calls, as necessary for that provider orclass of providers or type of calls to participate in the implementation in order to address the identified burdens and barriers.
 
 #### (B) Delay of compliance required for certain non-internet protocol networks
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (ii) Additional requirements
 
-&emsp;&emsp;&emsp;If the consortium registered under section 13(d) identifies a provider of voiceservice that is subject to a delay of compliance granted under subparagraph (A)(ii) as repeatedly originating large-scale unlawful robocall campaigns, the Commission shall require such provider to take action to ensure that such provider does not continue to originate such calls.
+&emsp;&emsp;&emsp;If the consortium registered under section 13(d) identifies a provider of voice service that is subject to a delay of compliance granted under subparagraph (A)(ii) as repeatedly originating large-scale unlawful robocall campaigns, the Commission shall require such provider to take action to ensure that such provider does not continue to originate such calls.
 
 #### (iii) Minimization of burden
 
@@ -162,6 +162,8 @@ Nothing in this section shall preclude the Commission from initiating a rulemaki
 
 (Pub. L. 116–105, §4, Dec. 30, 2019, 133 Stat. 3276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 13, referred to in subsec. (b)(5)(C)(ii), is section 13 of Pub. L. 116–105, which is set out as a note under section 227 of this title.
@@ -171,6 +173,8 @@ Section 10, referred to in subsec. (c), means section 10 of Pub. L. 116–105.
 #### Codification
 
 Section was enacted as part of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act, also known as the Pallone-Thune TRACED Act, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

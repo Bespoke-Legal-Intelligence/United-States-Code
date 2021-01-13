@@ -4,7 +4,7 @@
 
 (1) The Administrator shall make grants to national organizations to develop 1 or more model technical assistance and training programs to improve the judicial system's handling of child abuse and neglect cases.
 
-(2) An organization to which a grant is made pursuant to paragraph (1) shall be one that hasbroad membership among juvenile and family court judges and has demonstrated experience in providing training and technical assistance for judges, attorneys, child welfare personnel, and lay child advocates.
+(2) An organization to which a grant is made pursuant to paragraph (1) shall be one that has broad membership among juvenile and family court judges and has demonstrated experience in providing training and technical assistance for judges, attorneys, child welfare personnel, and lay child advocates.
 
 #### (b) Grants to juvenile and family courts
 
@@ -30,6 +30,8 @@ The Administrator shall make grants under subsections (a) and (b) consistent wit
 
 (Pub. L. 101–647, title II, §223, Nov. 29, 1990, 104 Stat. 4797; Pub. L. 107–273, div. C, title II, §12221(b)(1)(D), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 115–393, title V, §503, Dec. 21, 2018, 132 Stat. 5277; Pub. L. 115–424, §2(h)(5), Jan. 7, 2019, 132 Stat. 5470.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13023 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
@@ -41,6 +43,8 @@ Section was formerly classified to section 13023 of Title 42, The Public Health 
 <b>2018</b>—Subsec. (b)(2)(D). Pub. L. 115–393 added subpar. (D).
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "sections 5666, 5673, and 5676 of this title" for "section 5665a, 5673, and 5676 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

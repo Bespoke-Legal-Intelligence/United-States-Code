@@ -32,7 +32,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (F) Exception for designated orphan drug
 
-&emsp;&emsp;A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A),unless the human drug application includes an indication for other than a rare disease or condition.
+&emsp;&emsp;A human drug application for a prescription drug product that has been designatedas a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition.
 
 #### (G) Refund of fee if application withdrawn
 
@@ -124,7 +124,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;The inflation adjustment percentage under this subparagraph for a fiscal year is equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) the average annual percent change in the cost, per full-time equivalent positionof the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years; and
+&emsp;&emsp;&emsp;(i) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by the proportion of personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years; and
 
 &emsp;&emsp;&emsp;(ii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of the process for the review of human drug applications (as defined in section 379g(6) of this title) for the first 3 years of the preceding 4 fiscal years.
 
@@ -190,7 +190,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice of rationale
 
-&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) infee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
+&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amountof the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
 
 #### (4) Additional direct cost adjustment
 
@@ -331,6 +331,8 @@ This section may not be construed to require that the number of full-time equiva
 #### Termination of Section
 
 <i>For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -596,6 +598,8 @@ Subsec. (g)(3), (4). Pub. L. 105–115, §103(f)(3), added pars. (3) and (4) and
 
 Subsecs. (i), (j). Pub. L. 105–115, §103(g), added subsec. (i) and redesignated former subsec. (i) as (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 102 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under section 379g of this title.
@@ -606,7 +610,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending this section\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002\(Public Law 107–188; 116 Stat. 687) \[amending this section\]."
+Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending thissection\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) \[amending this section\]."
 
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
@@ -624,5 +628,5 @@ Section to terminate Oct. 1, 2022, see section 104(a) of Pub. L. 115–52, set o
 
 #### Special Rule for Waivers and Refunds
 
-Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term "person" in such Acts shall continue to include an affiliate thereof."
+Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term 'person' in such Acts shall continue to include an affiliate thereof."
 

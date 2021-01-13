@@ -28,15 +28,19 @@ A recipient preparing a report under this section shall make the report publicly
 
 (Pub. L. 104–330, title IV, §404, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 110–411, title IV, §403, Oct. 14, 2008, 122 Stat. 4330.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native AmericanHousing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–411, §403(1), substituted "planned activities" for "goals" and inserted "and" after semicolon at end.
 
 Subsec. (b)(3), (4). Pub. L. 110–411, §403(2), (3), substituted period for "; and" at end of par. (3) and struck out par. (4) which read as follows: "describe the manner in which the recipient would change its programs as a result of its experiences."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

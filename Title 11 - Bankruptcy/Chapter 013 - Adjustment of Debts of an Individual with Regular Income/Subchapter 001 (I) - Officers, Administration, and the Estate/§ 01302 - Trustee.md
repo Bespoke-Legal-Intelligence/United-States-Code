@@ -26,7 +26,7 @@
 
 (d)(1) In a case described in subsection (b)(6) to which subsection (b)(6) applies, the trustee shall—
 
-&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for theState in which such holder resides, for assistance in collecting child support during and after the case under this title; and
+&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title; and
 
 &emsp;(ii) include in the notice provided under clause (i) the address and telephone number of such State child support enforcement agency;
 
@@ -34,7 +34,7 @@
 
 &emsp;(ii) include in the notice provided under clause (i) the name, address, and telephone number of such holder; and
 
-&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide written notice to such holder and to such State child support enforcement agency of—
+&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide writtennotice to such holder and to such State child support enforcement agency of—
 
 &emsp;&emsp;(i) the granting of the discharge;
 
@@ -78,6 +78,8 @@ Subsection (c) imposes on the trustee in a chapter 13 case filed by a debtor eng
 
 Subsection (d) gives the trustee an additional duty if the debtor is engaged in business, as defined in section 1304. The trustee must perform the duties specified in sections 1106(a)(3) and 1106(a)(4), relating to investigation of the debtor.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
@@ -110,7 +112,7 @@ Pub. L. 99–554, §228(2), struck out subsec. (e) which read as follows:
 
 "(2) Such individual shall collect such percentage fee from all payments under plans in the cases under this chapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
 
-&emsp;"(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
+&emsp;"(A) any amount by which the actual compensation received by such individual exceeds five percent of allsuch payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
 
 &emsp;"(B) any amount by which the percentage fee fixed under paragraph (1)(B) of this subsection for all such cases exceeds—
 
@@ -131,6 +133,8 @@ Subsec. (e)(1). Pub. L. 98–353, §525(b)(1), which directed the amendment of p
 Subsec. (e)(1)(A). Pub. L. 98–353, §525(b)(2), struck out "for such individual" after "a maximum annual compensation".
 
 Subsec. (e)(2)(A). Pub. L. 98–353, §525(b)(3), substituted "received by" for "of", and "of all such payments made" for "upon all payments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

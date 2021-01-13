@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(iv) to improve hydrologic forecasting; and
 
-&emsp;&emsp;(E) incorporate principles of adaptive management in the conduct of periodic reviewsof information collected under the national streamflow information program to assess whether the objectives of the national streamflow information program are being adequately addressed.
+&emsp;&emsp;(E) incorporate principles of adaptive management in the conduct of periodic reviews of information collected under the national streamflow information program to assess whether the objectives of the national streamflow information program are being adequately addressed.
 
 #### (3) Improved methodologies
 

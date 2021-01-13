@@ -32,7 +32,7 @@ To enable the Environmental Protection Agency to carry out subsections (b), (c),
 
 #### (2) Equipment assessment
 
-&emsp;The Secretary of Energy shall cooperate with Polish officials and experts and companies within the United States to assess and develop the capability within Poland to manufacture or modify boilers, furnaces, smelters, or other equipment that will enable industrial facilities within Poland to use fossil fuels cleanly. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
+&emsp;The Secretary of Energy shall cooperate with Polish officials and experts and companies within the United States to assess and develop the capability within Poland to manufacture or modify boilers, furnaces, smelters, or other equipment that will enable industrialfacilities within Poland to use fossil fuels cleanly. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
 
 #### (3) Authorization of appropriations
 
@@ -40,13 +40,15 @@ To enable the Environmental Protection Agency to carry out subsections (b), (c),
 
 #### (g) Priority for efficient energy use
 
-In view of the high energy usage per unit of output in Hungary and Poland, the Secretary of Energy shall give high priority to assisting officials of Poland and Hungary in improving the efficiency of their energy use, through emphasis on such measures as efficient motors, lights,gears, and appliances and improvements in building insulation and design.
+In view of the high energy usage per unit of output in Hungary and Poland, the Secretary of Energy shall give high priority to assisting officials of Poland and Hungary in improving the efficiency of their energy use, through emphasis on such measures as efficient motors, lights, gears, and appliances and improvements in building insulation and design.
 
 #### (h) Alternative investments in energy in Hungary
 
 It is the sense of the Congress that the Executive branch should work with the Government of Hungary to achieve environmentally safe alternative investments in energy efficiency, particularly with regard to projects along the Danube River.
 
 (Pub. L. 101–179, title V, §502, Nov. 28, 1989, 103 Stat. 1317.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

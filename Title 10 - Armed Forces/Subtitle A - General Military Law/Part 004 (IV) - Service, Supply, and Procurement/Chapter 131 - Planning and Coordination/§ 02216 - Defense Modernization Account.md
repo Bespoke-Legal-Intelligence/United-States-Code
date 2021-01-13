@@ -14,7 +14,7 @@ Funds Available for Account.—The Defense Modernization Account shall consist o
 
 (c)
 
-Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts, of the availability and source of funds describedin subparagraph (B), the Secretary concerned may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
+Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department, or the Secretary of Defense with respect to Defense-wide appropriations accounts, of the availability and source of funds described in subparagraph (B), the Secretary concerned may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
 
 (B) This subsection applies to the following funds that have been appropriated for fiscal years after fiscal year 2016 and are available to the Secretary concerned:
 
@@ -105,6 +105,10 @@ Expiration of Authority and Account.—(1) The authority under subsection (c) to
 (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
 (Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, §1084(a)(2), Dec. 26, 2013, 127 Stat. 871; Pub. L. 114–328, div. A, title VIII, §804, Dec. 23, 2016, 130 Stat. 2250; Pub. L. 116–92, div. A, title XVII, §1731(a)(30), Dec. 20, 2019, 133 Stat. 1814.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(g)(1), Jan. 1, 2021, 134 Stat. 4151, 4161, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 207 of this title, as amended by section 1809(a) of Pub. L. 116–283, added after section 3135, and redesignated as section 3136 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Codification
 
@@ -202,13 +206,17 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date
 
 Pub. L. 104–106, div. A, title IX, §912(b), Feb. 10, 1996, 110 Stat. 410, provided that: "Section 2216 of title 10, United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995."
 
 #### Expiration of Authority and Account
 
-Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as amended by Pub. L. 107–314, div. A, title VIII, §825(a)(1), Dec. 2, 2002, 116 Stat. 2615, provided that authority under section 2216(b) of this title to transfer funds into Defense Modernization Account terminated at close of Sept. 30, 2002, and the Account was to be closed three years later, prior to repeal by Pub. L. 108–136, div. A, title X, §1008(f)(2), Nov. 24, 2003, 117 Stat. 1587.
+Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as amended by Pub. L. 107–314, div. A, titleVIII, §825(a)(1), Dec. 2, 2002, 116 Stat. 2615, provided that authority under section 2216(b) of this title to transfer funds into Defense Modernization Account terminated at close of Sept. 30, 2002, and the Account was to be closed three years later, prior to repeal by Pub. L. 108–136, div. A, title X, §1008(f)(2), Nov. 24, 2003, 117 Stat. 1587.
 
 #### GAO Reviews
 

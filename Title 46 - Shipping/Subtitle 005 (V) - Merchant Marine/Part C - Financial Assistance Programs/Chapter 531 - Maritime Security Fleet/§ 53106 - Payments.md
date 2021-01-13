@@ -10,7 +10,7 @@ In general.—The Secretary, subject to the availability of appropriations and t
 
 &emsp;&emsp;(A) $5,000,000 for each of fiscal years 2018, 2019, and 2020;
 
-&emsp;&emsp;(B) $5,233,463 for fiscal year 2021;
+&emsp;&emsp;(B) $8,233,463 for fiscal year 2021;
 
 &emsp;&emsp;(C) $5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;
 
@@ -68,9 +68,13 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, §3501(b), Jan. 1, 2021, 134 Stat. 4397.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(B). Pub. L. 116–283 substituted "$8,233,463" for "$5,233,463".
 
 <b>2019</b>—Subsec. (a)(1)(C) to (F). Pub. L. 116–92 substituted "$5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;" for "$3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025." in subpar. (C) and added subpars. (D) to (F).
 
@@ -80,7 +84,7 @@ Participates in a noncontiguous domestic trade defined.—In this subsection the
 
 Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel" for "section 53105(a)(1)".
 
-<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for "; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for"; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
 
 <b>2015</b>—Subsec. (a)(1)(B). Pub. L. 114–113, §101(e)(1)(A), struck out comma before "for each".
 
@@ -103,6 +107,8 @@ Subsec. (d)(2). Pub. L. 109–304, §13(a)(5)(B), substituted "section 55302(a),
 Subsec. (e)(2). Pub. L. 109–304, §13(a)(5)(C), substituted "section 50501 of this title, applying the 75 percent ownership requirement of that section" for "section 2(c) of the Shipping Act, 1916 (46 U.S.C. App. 802(c))".
 
 Subsec. (f). Pub. L. 109–364 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

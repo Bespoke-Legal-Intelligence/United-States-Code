@@ -12,7 +12,7 @@ In the case of the last taxable year of a deferred foreign income corporation wh
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer which is a United States shareholder with respect to at least onedeferred foreign income corporation and at least one E\&P deficit foreign corporation, the amount which would (but for this subsection) be taken into account under section 951(a)(1) by reason of subsection (a) as such United States shareholder's pro rata share of the subpart F income of each deferred foreign income corporation shall be reduced by the amount of such United States shareholder's aggregate foreign E\&P deficit which is allocated under paragraph (2) to such deferred foreign income corporation.
+&emsp;In the case of a taxpayer which is a United States shareholder with respect to at least one deferred foreign income corporation and at least one E\&P deficit foreign corporation, the amount which would (but for this subsection) be taken into account under section 951(a)(1) by reason of subsection (a) as such United States shareholder's pro rata share of the subpart F income of each deferred foreign income corporation shall be reduced by the amount of such United States shareholder's aggregate foreign E\&P deficit which is allocated under paragraph (2) to such deferred foreign income corporation.
 
 #### (2) Allocation of aggregate foreign E\&P deficit
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (2) Application to certain foreign corporations
 
-&emsp;For purposes of sections 951 and 961, a foreign corporation described in paragraph (1)(B)shall be treated as a controlled foreign corporation solely for purposes of taking into account the subpart F income of such corporation under subsection (a) (and for purposes of applying subsection (f)).
+&emsp;For purposes of sections 951 and 961, a foreign corporation described in paragraph (1)(B) shall be treated as a controlled foreign corporation solely for purposes of taking into account the subpart F income of such corporation under subsection (a) (and for purposes of applying subsection (f)).
 
 #### (3) Exclusion of passive foreign investment companies
 
@@ -320,7 +320,7 @@ For purposes of this section—
 
 #### (4) Proration of deficiency to installments
 
-&emsp;If an election is made under paragraph (1) to pay the net tax liability under this section in installments and a deficiency has been assessed with respect to such net tax liability,the deficiency shall be prorated to the installments payable under paragraph (1). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+&emsp;If an election is made under paragraph (1) to pay the net tax liability under this section in installments and a deficiency has been assessed with respect to such net tax liability, the deficiency shall be prorated to the installments payable under paragraph (1). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (5) Election
 
@@ -394,7 +394,7 @@ For purposes of this section—
 
 #### (6) Extension of limitation on collection
 
-&emsp;Any limitation on the time period for the collection of a liability deferred under thissubsection shall not be treated as beginning before the date of the triggering event with respect to such liability.
+&emsp;Any limitation on the time period for the collection of a liability deferred under this subsection shall not be treated as beginning before the date of the triggering event with respect to such liability.
 
 #### (7) Annual reporting of net tax liability
 
@@ -466,7 +466,7 @@ Notwithstanding section 6501, the limitation on the time period for the assessme
 
 #### (A) Election
 
-&emsp;&emsp;Any election under paragraph (1)(B) shall be made not later than the due date for thefirst taxable year in the 5-taxable year period described in clause (i) of paragraph (1)(B) and shall be made in such manner as the Secretary shall provide.
+&emsp;&emsp;Any election under paragraph (1)(B) shall be made not later than the due date for the first taxable year in the 5-taxable year period described in clause (i) of paragraph (1)(B) and shall be made in such manner as the Secretary shall provide.
 
 #### (B) Special rules
 
@@ -486,7 +486,7 @@ No installment payments.—The real estate investment trust may not make an elec
 
 #### (ii) Acceleration of inclusion
 
-&emsp;&emsp;&emsp;If there is a liquidation or sale of substantially all the assets of the real estate investment trust (including in a title 11 or similar case), a cessation of business by such trust, or any similar circumstance, then any amount not yet included in gross income under paragraph (1)(B) shall be included in gross income as of the day before the date of the event and the unpaid portion of any tax liability with respect to such inclusion shall be due on the date of such event (or in the case of a title 11 or similar case, the day before the petition is filed).
+&emsp;&emsp;&emsp;If there is a liquidation or sale of substantially all the assets of the real estate investment trust (including in a title 11 orsimilar case), a cessation of business by such trust, or any similar circumstance, then any amount not yet included in gross income under paragraph (1)(B) shall be included in gross income as of the day before the date of the event and the unpaid portion of any tax liability with respect to such inclusion shall be due on the date of such event (or in the case of a title 11 or similar case, the day before the petition is filed).
 
 #### (n) Election not to apply net operating loss deduction
 

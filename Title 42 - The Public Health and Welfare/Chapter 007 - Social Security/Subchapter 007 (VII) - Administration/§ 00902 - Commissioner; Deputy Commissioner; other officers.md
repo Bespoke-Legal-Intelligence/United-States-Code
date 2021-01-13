@@ -24,7 +24,7 @@
 
 #### (b) Deputy Commissioner of Social Security
 
-(1) There shall be in the Administration a Deputy Commissioner of Social Security (in thissubchapter referred to as the "Deputy Commissioner") who shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) There shall be in the Administration a Deputy Commissioner of Social Security (in this subchapter referred to as the "Deputy Commissioner") who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) The Deputy Commissioner shall be appointed for a term of 6 years, except that the initial term of office for the Deputy Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Deputy Commissioner's term of office, such Deputy Commissioner may continue in office until the entry upon office of such a successor. A Deputy Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term.
 
@@ -46,7 +46,7 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d),64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
 
 #### References in Text
 
@@ -84,7 +84,7 @@ Pub. L. 108–203, title II, §202, Mar. 2, 2004, 118 Stat. 509, provided that: 
 
 #### Demonstration Projects Relating to Accountability for Telephone Service Center Communications
 
-Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed Secretary of Health and Human Services to develop and carry out demonstration projects designed to implement certain accountability procedures in not fewer than 3 telephone service centers operated by the Social Security Administration, provided that such projects commence not later than 180 days after Nov. 5, 1990, and remain in operation for not lessthan 1 year and not more than 3 years, and directed Secretary to submit to Congress a written report on the progress of the demonstration projects not later than 90 days after the termination of the project.
+Pub. L. 101–508, title V, §5108, Nov. 5, 1990, 104 Stat. 1388–269, directed Secretary of Health and Human Services to develop and carry out demonstration projects designed to implement certain accountability procedures in not fewer than 3 telephone service centers operated by the Social Security Administration, provided that such projects commence not later than 180 days after Nov. 5, 1990, and remain in operation for not less than 1 year and not more than 3 years, and directed Secretary to submit to Congress a written report on the progress of the demonstration projects not later than 90 days after the termination of the project.
 
 #### Telephone Access to Social Security Administration
 

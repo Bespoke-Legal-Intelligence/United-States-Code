@@ -28,6 +28,8 @@ Required Provisions.—The regulations under subsection (b) shall include—
 
 (Added Pub. L. 111–31, div. B, title I, §103(a), June 22, 2009, 123 Stat. 1853.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 402A of Title 26, Internal Revenue Code.

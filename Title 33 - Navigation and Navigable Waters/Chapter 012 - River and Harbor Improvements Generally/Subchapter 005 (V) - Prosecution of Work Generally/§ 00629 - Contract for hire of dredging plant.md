@@ -4,11 +4,15 @@ Whenever it shall become, in the opinion of the Secretary of the Army, necessary
 
 (Mar. 2, 1907, ch. 2509, §5, 34 Stat. 1119; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Rivers and Harbors Appropriation Act of 1907.
 
 The part of the original text omitted here repealed act Apr. 28, 1904, ch. 1761, §4, 33 Stat. 452.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

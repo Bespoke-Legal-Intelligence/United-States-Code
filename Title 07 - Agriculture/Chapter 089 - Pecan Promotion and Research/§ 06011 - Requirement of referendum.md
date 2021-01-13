@@ -34,7 +34,7 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 #### (4) Notice
 
-&emsp;Each Agricultural Stabilization and Conservation Service office shall notify all growers, grower-shellers, and importers in the areaof such office, as determined by the Secretary, at least 30 days prior to a referendum conducted under this chapter. Such notice shall explain the registration and voting procedures established under this subsection.
+&emsp;Each Agricultural Stabilization and Conservation Service office shall notify all growers, grower-shellers, and importers in the area of such office, as determined by the Secretary, at least 30 days prior to a referendum conducted under this chapter. Such notice shall explain the registration and voting procedures established under this subsection.
 
 (Pub. L. 101–624, title XIX, §1916, Nov. 28, 1990, 104 Stat. 3853.)
 

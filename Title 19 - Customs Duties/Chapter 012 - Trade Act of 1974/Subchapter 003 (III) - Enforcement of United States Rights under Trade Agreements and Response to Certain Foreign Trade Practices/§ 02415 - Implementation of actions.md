@@ -2,7 +2,7 @@
 
 #### (a) Actions to be taken under section 2411
 
-(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding anysuch action, by no later than the date that is 30 days after the date on which such determination is made.
+(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding any such action, by no later than the date that is 30 days after the date on which such determination is made.
 
 (2)(A) Except as otherwise provided in this paragraph, the Trade Representative may delay, by not more than 180 days, the implementation of any action that is to be taken under section 2411 of this title—
 
@@ -20,7 +20,7 @@
 
 #### (b) Alternative actions in certain cases of export targeting
 
-(1) If the Trade Representative makes an affirmative determination under section 2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
+(1) If the Trade Representative makes an affirmative determination under section2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
 
 &emsp;(A) shall establish an advisory panel to recommend measures which will promote the competitiveness of the domestic industry affected by the export targeting,
 

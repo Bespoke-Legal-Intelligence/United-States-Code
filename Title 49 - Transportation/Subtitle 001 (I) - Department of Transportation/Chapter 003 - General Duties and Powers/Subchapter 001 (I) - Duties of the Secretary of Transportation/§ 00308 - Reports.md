@@ -94,7 +94,7 @@ Jan. 6, 1983, Pub. L. 97–424, §310, 96 Stat. 2151.
 
 This \[deletion of the last sentence of subsection (a)\] is necessary because section 111(b) of the Congressional Reports Elimination Act of 1982 (Pub. L. 97–375, 96 Stat. 1821) repealed section 602 of the Regional Rail Reorganization Act of 1973 (Pub. L. 93–236, 87 Stat. 1022), which was restated as section 308(a) (last sentence) of title 49 by section 1 of the Act of January 12, 1983 (Pub. L. 97–449, 96 Stat. 2413).
 
-In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984 and in January of every second year thereafter" to eliminate unnecessary words.
+In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984and in January of every second year thereafter" to eliminate unnecessary words.
 
 #### Amendments
 

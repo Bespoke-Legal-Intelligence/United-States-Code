@@ -12,7 +12,7 @@ No interest or other income on any funds made available under this subchapter sh
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments to grantees under this subchapter in two payments—
+&emsp;Except as otherwise provided in this subsection, the Secretary shall make payments tograntees under this subchapter in two payments—
 
 &emsp;&emsp;(A) one payment to be made no later than October 1 of each fiscal year in an amount equal to one-half the amount paid during the preceding fiscal year to the grantee or a contractor that has elected to have the provisions of this subchapter apply, and
 

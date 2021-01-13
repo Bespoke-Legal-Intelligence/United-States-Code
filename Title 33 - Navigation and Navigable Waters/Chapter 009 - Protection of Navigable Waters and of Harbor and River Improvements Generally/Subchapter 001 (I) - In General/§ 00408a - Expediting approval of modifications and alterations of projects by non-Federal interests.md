@@ -34,7 +34,7 @@ Not later than 1 year after June 10, 2014, the Secretary, after providing notice
 
 &emsp;&emsp;To the extent practicable, the benchmark goals established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) the Secretary generally approve or disapprove a completed section 14 application not later than 45 days after the dateof receipt of the completed application; and
+&emsp;&emsp;&emsp;(i) the Secretary generally approve or disapprove a completed section 14 application not later than 45 days after the date of receipt of the completed application; and
 
 &emsp;&emsp;&emsp;(ii) in a case in which the Secretary determines that additional time is needed to review a completed section 14 application due to the type, size, cost, complexity, or impacts of the actions proposed in the application, the Secretary generally approve or disapprove the application not later than 180 days after the date of receipt of the completed application.
 
@@ -86,9 +86,13 @@ The Secretary shall prioritize and complete the activities required of the Secre
 
 (Pub. L. 113–121, title I, §1007, June 10, 2014, 128 Stat. 1214; Pub. L. 114–322, title I, §1156(b), Dec. 16, 2016, 130 Stat. 1665.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsecs. (f), (g). Pub. L. 114–322 added subsecs. (f) and (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

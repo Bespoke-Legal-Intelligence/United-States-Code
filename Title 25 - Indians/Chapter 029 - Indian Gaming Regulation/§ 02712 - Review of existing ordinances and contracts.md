@@ -10,7 +10,7 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 
 (2) If the Chairman determines that an ordinance or resolution submitted under subsection (a) conforms to the requirements of section 2710(b) of this title, the Chairman shall approve it.
 
-(3) If the Chairman determines that an ordinance or resolution submitted under subsection (a) does not conform to the requirements of section 2710(b) of this title, the Chairman shall provide written notification of necessary modifications to the Indian tribe which shall have not more than 120 days to bring such ordinance or resolution into compliance.
+(3) If the Chairman determines that an ordinance or resolution submitted under subsection\(a) does not conform to the requirements of section 2710(b) of this title, the Chairman shall provide written notification of necessary modifications to the Indian tribe which shall have not more than 120 days to bring such ordinance or resolution into compliance.
 
 #### (c) Approval or modification of management contract
 
@@ -21,6 +21,8 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 (3) If the Chairman determines that a contract submitted under subsection (a), or the management contractor under a contract submitted under subsection (a), does not meet the requirements of section 2711 of this title, the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
 (Pub. L. 100–497, §13, Oct. 17, 1988, 102 Stat. 2481.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

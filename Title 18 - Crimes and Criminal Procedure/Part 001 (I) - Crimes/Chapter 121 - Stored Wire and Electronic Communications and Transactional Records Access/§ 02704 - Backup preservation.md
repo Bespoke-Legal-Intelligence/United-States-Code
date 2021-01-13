@@ -38,9 +38,13 @@ Customer Challenges.—(1) Within fourteen days after notice by the governmental
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1863.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ Definitions.—(1) In this section, the term "designated individual", with respe
 
 (2) The designation of an individual as a designated individual for purposes of this section may be changed at any time.
 
-(3)(A) In this section, the term "health and welfare", with respect to a member, includes a situation in which a decision must be made by family members regarding the termination of artificial life support being provided to the member.
+(3)(A) In this section, the term "health and welfare", with respect to a member, includes asituation in which a decision must be made by family members regarding the termination of artificial life support being provided to the member.
 
 (B) In this paragraph, the term "family member", with respect to a member, means the following:
 
@@ -77,6 +77,8 @@ Method of Transportation Authorized.—(1) The transportation authorized by subs
 Termination.—No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 (Added Pub. L. 100–180, div. A, title VI, §615(a)(1), Dec. 4, 1987, 101 Stat. 1095, §411h; amended Pub. L. 100–456, div. A, title VI, §632(a), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 103–337, div. A, title VI, §624, Oct. 5, 1994, 108 Stat. 2785; Pub. L. 108–136, div. A, title VI, §632, Nov. 24, 2003, 117 Stat. 1508; Pub. L. 108–375, div. A, title VI, §632(a), (b), Oct. 28, 2004, 118 Stat. 1956; Pub. L. 109–13, div. A, title I, §1026(a), (b)(1), May 11, 2005, 119 Stat. 254; Pub. L. 109–163, div. A, title VI, §655(b), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 109–364, div. A, title VI, §631, Oct. 17, 2006, 120 Stat. 2258; Pub. L. 111–84, div. A, title VI, §632(a)–(g)(1), Oct. 28, 2009, 123 Stat. 2359–2362; renumbered §481h and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(21), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -147,6 +149,8 @@ Subsec. (a)(2)(B). Pub. L. 103–337, §624(a)(2), added subpar. (B) and struck 
 Subsec. (b)(3). Pub. L. 103–337, §624(b), added par. (3).
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 amended par. (2) generally, inserting "or is entitled to pay and allowances under section 204(g) of this title (or would be so entitled were it not for offsetting earned income described in that section)" in subpar. (A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -4,7 +4,9 @@
 
 (b) Where any provision of this chapter authorizes or requires any function, power, or duty to be exercised by a State, or by any officer or agency thereof, such function, power, or duty shall, with respect to the Republic of the Philippines, be exercised by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1761; Pub. L. 89–358, §3(a)(1), Mar. 3, 1966, 80 Stat. 19;Pub. L. 94–502, title III, §310(23), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 96–466, title III, §323(b), Oct. 17, 1980, 94 Stat. 2196; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3561 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1761; Pub. L. 89–358, §3(a)(1), Mar. 3, 1966, 80 Stat. 19; Pub. L. 94–502, title III, §310(23), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 96–466, title III, §323(b), Oct. 17, 1980, 94 Stat. 2196; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3561 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 89–358 redesignated subsec. (d) as (b). Former subsec. (b
 Subsec. (c). Pub. L. 89–358 struck out subsec. (c) which provided for use of other Federal agencies. See now, section 1790 of this title.
 
 Subsec. (d). Pub. L. 89–358 redesignated subsec. (d) as (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

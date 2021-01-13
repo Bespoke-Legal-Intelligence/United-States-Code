@@ -42,7 +42,7 @@ The requirements contained in section 2430g(b) of this title (relating to conten
 
 #### (d) Eligible activities
 
-Amounts deposited in a Fund shall be used only to provide grants to conserve, maintain, and restore the tropical forests and coral reef ecosystems in the beneficiary country, through one or more of the following activities:
+Amounts deposited in a Fund shall be used only to provide grants to conserve, maintain, and restore the tropical forests and coral reefecosystems in the beneficiary country, through one or more of the following activities:
 
 &emsp;(1) Establishment, restoration, protection, and maintenance of parks, protected areas, and reserves.
 
@@ -81,6 +81,8 @@ Any grant of more than $250,000 from a Fund must be approved by the Government o
 In the event that a country ceases to meet the eligibility requirements set forth in section 2431c(a) of this title, as determined by the President pursuant to section 2431c(b) of this title, then grants from the Fund for that country may only be made to nongovernmental organizations until such time as the President determines that such country meets the eligibility requirements set forth in section 2431c(a) of this title.
 
 (Pub. L. 87–195, pt. V, §809, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 890; amended Pub. L. 115–440, §8(a)–(d), Jan. 14, 2019, 132 Stat. 5583.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

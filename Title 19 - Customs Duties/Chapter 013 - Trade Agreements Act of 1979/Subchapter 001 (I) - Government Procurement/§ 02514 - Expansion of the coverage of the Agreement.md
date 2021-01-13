@@ -24,7 +24,7 @@ The President shall seek to establish in the renegotiation provided for in artic
 
 #### (3) Annual reports
 
-&emsp;Each annual report of the President under section 163(a) of the Trade Act of 1974 \[19U.S.C. 2213(a)\] made after July 26, 1979 shall report the actions, if any, the President deemed appropriate to establish reciprocity in appropriate product sectors with major industrial countries in the area of government procurement.
+&emsp;Each annual report of the President under section 163(a) of the Trade Act of 1974 \[19 U.S.C. 2213(a)\] made after July 26, 1979 shall report the actions, if any, the President deemed appropriate to establish reciprocity in appropriate product sectors with major industrial countries in the area of government procurement.
 
 #### (e) Extension of nondiscrimination and national treatment
 

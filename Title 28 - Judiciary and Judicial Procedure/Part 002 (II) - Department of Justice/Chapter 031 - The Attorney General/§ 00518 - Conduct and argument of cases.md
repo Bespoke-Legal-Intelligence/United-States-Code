@@ -22,6 +22,8 @@ R.S. §359.
 
 The words "and writs of error" are omitted on authority of the Act of Jan. 31, 1928, ch. 14, §1, 45 Stat. 54. The word "considers" is substituted for "deems".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
@@ -29,6 +31,8 @@ The words "and writs of error" are omitted on authority of the Act of Jan. 31, 1
 <b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted "United States Claims Court or in the United States Court of Appeals for the Federal Circuit" for "Court of Claims".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

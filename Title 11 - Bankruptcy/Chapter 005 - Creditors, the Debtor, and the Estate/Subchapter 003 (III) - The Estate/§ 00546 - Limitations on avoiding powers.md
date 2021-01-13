@@ -24,7 +24,7 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
+(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rightsand powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
 
 &emsp;(A) not later than 45 days after the date of receipt of such goods by the debtor; or
 
@@ -58,7 +58,7 @@
 
 #### legislative statements
 
-Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
+Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt ofgoods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
 #### senate report no. 95–989
 
@@ -70,13 +70,15 @@ Subsection (b) \[enacted as (c)\] specifies that the trustee's rights and powers
 
 Subsection (c) \[enacted as (a)\] adds a statute of limitations to the use by the trustee of the avoiding powers. The limitation is two years after his appointment, or the time the case is closed or dismissed, whichever occurs later.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 109–8, which was approved Apr. 20 2005.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted "(or for the benefit of)" before "a commodity broker" and "or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7),commodity contract, as defined in section 761(4), or forward contract," after "securities clearing agency,".
+<b>2006</b>—Subsec. (e). Pub. L. 109–390, §5(b)(1), inserted "(or for the benefit of)" before "a commodity broker" and "or that is a transfer made by or to (or for the benefit of) a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, in connection with a securities contract, as defined in section 741(7), commodity contract, as defined in section 761(4), or forward contract," after "securities clearing agency,".
 
 Subsec. (f). Pub. L. 109–390, §5(b)(2), struck out "that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title," after "avoid a transfer" and inserted "(or for the benefit of)" before "a repo participant".
 
@@ -141,6 +143,8 @@ Subsec. (e). Pub. L. 98–353, §§351(2), 461(d), redesignated former subsec. (
 Subsec. (f). Pub. L. 98–353, §393, added subsec. (f).
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–222 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

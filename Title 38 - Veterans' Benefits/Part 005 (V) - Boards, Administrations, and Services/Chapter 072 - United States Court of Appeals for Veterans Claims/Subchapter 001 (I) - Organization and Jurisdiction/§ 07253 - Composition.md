@@ -14,7 +14,7 @@ Term of Office.—The term of office of the judges of the Court of Appeals for V
 
 (d)
 
-Chief Judge.—(1) The chief judge of the Court is the head of the Court. The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
+Chief Judge.—(1) The chief judge of the Court is the head of the Court. The chief judgeof the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
 
 &emsp;(A) have served for one or more years as judges of the Court;
 
@@ -54,7 +54,7 @@ Removal.—(1) A judge of the Court may be removed from office by the President 
 
 Rules.—(1) The Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such chapter.
 
-(2) The provisions of sections 354(b) through 360 of title 28, regarding referral or certificationto, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to section 354(b) or 355 of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
+(2) The provisions of sections 354(b) through 360 of title 28, regarding referral or certification to, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to section 354(b) or 355 of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
 
 (3)(A) In conducting hearings pursuant to paragraph (1), the Court may exercise the authority provided under section 1821 of title 28 to pay the fees and allowances described in that section.
 
@@ -74,7 +74,7 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
-(4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
+(4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term ofthe judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
 (5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 
@@ -82,11 +82,15 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 Additional Temporary Expansion of Court.—(1) Subject to paragraph (2), effective as of December 31, 2009, the authorized number of judges of the Court specified in subsection (a) is increased by two.
 
-(2) Effective as of January 1, 2021, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
+(2) Effective as of January 1, 2026, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, §503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, §601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, §302(b), Jan. 10, 2013, 126 Stat. 2425; Pub. L. 114–315, title II, §§201(a), 204(a), Dec. 16, 2016, 130 Stat. 1548, 1549.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, §802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, §503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, §601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, §302(b), Jan. 10, 2013, 126 Stat. 2425; Pub. L. 114–315, title II, §§201(a), 204(a), Dec. 16, 2016, 130 Stat. 1548, 1549; Pub. L. 116–159, div. E, title II, §5205, Oct. 1, 2020, 134 Stat. 750.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (i)(2). Pub. L. 116–159 substituted "January 1, 2026" for "January 1, 2021".
 
 <b>2016</b>—Subsec. (d)(1)(B), (C). Pub. L. 114–315, §204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -140,6 +144,8 @@ Subsec. (g). Pub. L. 102–82 added subsec. (g).
 
 <b>1989</b>—Subsec. (f)(1). Pub. L. 101–94 inserted "or" before "engaging" and substituted "law" for "law, or physical or mental disability which, in the opinion of the President, prevents the proper execution of the judge's duties".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–315, title II, §204(b), Dec. 16, 2016, 130 Stat. 1550, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to the selection of a chief judge occurring on or after January 1, 2020."
@@ -148,7 +154,7 @@ Pub. L. 114–315, title II, §204(b), Dec. 16, 2016, 130 Stat. 1550, provided t
 
 Amendment by Pub. L. 112–260 effective on the date that is 180 days after Jan. 10, 2013, see section 302(c)(1) of Pub. L. 112–260, set out as a note under section 7255 of this title.
 
-Pub. L. 112–260, title III, §302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to judges confirmed on or after January 1, 2012."
+Pub. L. 112–260, title III, §302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply withrespect to judges confirmed on or after January 1, 2012."
 
 #### Effective Date of 1999 Amendment
 

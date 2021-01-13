@@ -12,9 +12,13 @@
 
 (June 15, 1929, ch. 24, §13, 46 Stat. 17; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 533 of Title 7, Agriculture.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -23,6 +27,8 @@ Section was formerly classified to section 533 of Title 7, Agriculture.
 #### Transfer of Functions
 
 Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
+
+#### <b>Executive Documents</b>
 
 #### Exceptions From Transfer of Functions
 

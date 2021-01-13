@@ -4,9 +4,11 @@ Notwithstanding any other provision of law, Sections <sup>1</sup> 1719 and 1720
 
 (Pub. L. 111–88, div. A, title I, §114, Oct. 30, 2009, 123 Stat. 2928.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Sections 1719 and 1720 of this title, referred to in text, was in the original "Sections 109 and 110 of the Federal Oil and Gas Royalty Management Act" and was translated as meaning sections 109 and 110 of the Federal Oil and Gas Royalty Management Act of 1982, to reflect the probable intent of Congress.
+Sections 1719 and 1720 of this title, referred to in text, was in the original "Sections 109 and 110 of the FederalOil and Gas Royalty Management Act" and was translated as meaning sections 109 and 110 of the Federal Oil and Gas Royalty Management Act of 1982, to reflect the probable intent of Congress.
 
 #### Codification
 

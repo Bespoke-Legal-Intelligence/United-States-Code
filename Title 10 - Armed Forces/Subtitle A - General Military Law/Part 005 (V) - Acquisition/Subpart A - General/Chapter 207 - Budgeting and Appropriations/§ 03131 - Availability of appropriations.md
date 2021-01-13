@@ -1,0 +1,24 @@
+### §3131. Availability of appropriations
+
+(a) Funds appropriated to the Department of Defense for research and development remain available for obligation for a period of two consecutive years.
+
+(b) Funds appropriated to the Department of Defense for research and development may be used—
+
+&emsp;(1) for the purposes of section 4141 <sup>1</sup> of this title; and
+
+&emsp;(2) for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Department of Defense.
+
+(Added Pub. L. 97–258, §2(b)(3)(B), Sept. 13, 1982, 96 Stat. 1052, §2361; renumbered §2351 and amended Pub. L. 100–370, §1(g)(1), July 19, 1988, 102 Stat. 846; renumbered §3131 and amended Pub. L. 116–283, div. A, title XVIII, §§1809(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4161, 4294.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1809(b), renumbered section 2351 of this title as this section.
+
+Subsec. (b)(1). Pub. L. 116–283, §1883(b)(2), substituted "section 4141" for "section 2353".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> Reference reflects amendment made by section 1883(b)(2) of Pub. L. 116–283.</i>
+

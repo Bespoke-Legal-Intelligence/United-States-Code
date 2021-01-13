@@ -68,7 +68,7 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 #### (g) Special rules for cooperative housing corporations
 
-For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder's proportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
+For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder'sproportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
 
 #### (h) Returns relating to mortgage insurance premiums
 
@@ -116,7 +116,7 @@ Subsec. (d)(1). Pub. L. 104–168 substituted "name, address, and phone number o
 
 Subsec. (b)(2)(C), (D). Pub. L. 102–239, §7646(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted "(other than points)" after "subsection (a)(2)" and"(and the information required under subsection (b)(2)(C))" after "to be furnished".
+Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted "(other than points)" after "subsection (a)(2)" and "(and the information required under subsection (b)(2)(C))" after "to be furnished".
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514, §1501(c)(11), in amending subsec. (d) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
@@ -150,7 +150,7 @@ Pub. L. 98–369, div. A, title I, §145(d), July 18, 1984, 98 Stat. 685, as ame
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
 
 "(2)
 

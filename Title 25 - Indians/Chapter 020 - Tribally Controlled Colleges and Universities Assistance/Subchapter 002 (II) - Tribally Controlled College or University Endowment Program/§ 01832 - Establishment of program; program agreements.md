@@ -24,6 +24,8 @@
 
 (Pub. L. 95–471, title III, §302, as added Pub. L. 98–192, §13, Dec. 1, 1983, 97 Stat. 1341; amended Pub. L. 101–477, §1(d)(1)(A), (B), Oct. 30, 1990, 104 Stat. 1152, 1153; Pub. L. 103–382, title III, §383, Oct. 20, 1994, 108 Stat. 4018; Pub. L. 105–244, title IX, §901(b)(5)–(7), (12), (14), (15), Oct. 7, 1998, 112 Stat. 1828.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Navajo Community College Act, referred to in subsec. (a), is section 3 of Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640b of this title and was omitted from the Code as being of special and not general application.
@@ -49,6 +51,8 @@ Subsec. (b)(3). Pub. L. 103–382, §383(2)(B), struck out "same" before "bankin
 <b>1990</b>—Subsec. (b)(2)(B). Pub. L. 101–477, §1(d)(1)(A), substituted "(or of a value) equal to half of" for "equal to".
 
 Subsec. (b)(4). Pub. L. 101–477, §1(d)(1)(B), substituted "an amount of Federal capital contribution equal to twice the amount of (or value of) such withdrawal" for "an equal amount of Federal capital contribution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

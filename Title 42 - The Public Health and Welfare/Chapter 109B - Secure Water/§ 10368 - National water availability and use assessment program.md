@@ -28,7 +28,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 &emsp;&emsp;(C) the integration of any dataset maintained by any other Federal or State agency into the dataset maintained by the Secretary; and
 
-&emsp;&emsp;(D) a focus on the scientific integration of any data relating to water use, water flow,or water quality to generate relevant information relating to the impact of human activity on water and ecological resources.
+&emsp;&emsp;(D) a focus on the scientific integration of any data relating to water use, water flow, or water quality to generate relevant information relating to the impact of human activity on water and ecological resources.
 
 #### (2) Water availability
 
@@ -78,7 +78,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 #### (2) Criteria
 
-&emsp;To be eligible to receive a grant under paragraph (1), a State water resource agency shall demonstrate to the Secretary that the water use and availability dataset proposed to be established or integrated by the State water resource agency—
+&emsp;To be eligible to receive a grant under paragraph (1), a State water resource agency shalldemonstrate to the Secretary that the water use and availability dataset proposed to be established or integrated by the State water resource agency—
 
 &emsp;&emsp;(A) is in compliance with each quality and conformity standard established by the Secretary to ensure that the data will be capable of integration with any national dataset; and
 

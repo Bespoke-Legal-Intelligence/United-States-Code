@@ -2,7 +2,7 @@
 
 #### (a) Authorization for public or private sale; time of issuance, interest rates, and terms and conditions; outstanding amount
 
-The Bank is authorized to obtain funds through the public or private sale of its bonds, debentures, notes, and other evidences of indebtedness. Such obligations shall be issued at such times, bear interest at such rates, and contain such terms and conditions as the Board shall determine: <i>Provided, however</i>, That the amount of such obligations which may be outstanding at any one time pursuant to this section shall not exceed ten times the paid-in capital and surplus of the Bank.
+The Bank is authorized to obtain funds through the public or private sale of its bonds,debentures, notes, and other evidences of indebtedness. Such obligations shall be issued at such times, bear interest at such rates, and contain such terms and conditions as the Board shall determine: <i>Provided, however</i>, That the amount of such obligations which may be outstanding at any one time pursuant to this section shall not exceed ten times the paid-in capital and surplus of the Bank.
 
 #### (b) Purchase and sale by Bank; methods of sale and delivery
 
@@ -14,11 +14,15 @@ Obligations issued under this section shall not be guaranteed by the United Stat
 
 (Pub. L. 95–351, title I, §107, Aug. 20, 1978, 92 Stat. 507; Pub. L. 97–35, title III, §§394(g)(1), 396(d), Aug. 13, 1981, 95 Stat. 437, 440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
 
 Subsecs. (b) to (d). Pub. L. 97–35, §396(d), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

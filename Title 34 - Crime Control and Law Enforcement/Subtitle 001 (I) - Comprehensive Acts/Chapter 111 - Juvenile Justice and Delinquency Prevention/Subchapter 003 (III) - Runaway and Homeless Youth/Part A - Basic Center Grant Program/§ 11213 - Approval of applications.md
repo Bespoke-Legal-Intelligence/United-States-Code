@@ -18,6 +18,8 @@ In selecting applications for grants under section 11211(a) of this title, the S
 
 (Pub. L. 93–415, title III, §313, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 95–115, §7(a)(4), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(e), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §653, Oct. 12, 1984, 98 Stat. 2123; renumbered §316 and amended Pub. L. 100–690, title VII, §§7271(c)(1), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered §313 and amended Pub. L. 102–586, §3(d), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025; Pub. L. 106–71, §3(d), Oct. 12, 1999, 113 Stat. 1037.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5713 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
@@ -28,7 +30,7 @@ A prior section 313 of Pub. L. 93–415 was classified to section 5712a of Title
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–71 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "An application by a State, locality, or private entity for a grant under section 5711(a), (c), or (d) of this title may be approved by the Secretary only if it is consistent with the applicable provisions of section 5711(a), (c), or (d) of this title and meets the requirements set forth in section 5712 of this title. Priority shall be given to grants smaller than $200,000. In considering grant applications under section 5711(a) of this title, priority shall be given to organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families."
+<b>1999</b>—Pub. L. 106–71 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "An application by a State, locality, or private entity for a grant under section 5711(a), (c), or (d) of this title may be approved by the Secretary only if it is consistent with the applicable provisions of section 5711(a), (c), or (d) of this title and meets the requirements set forth in section 5712 of this title. Priority shall be given to grants smaller than $200,000. In considering grant applications under section 5711(a) ofthis title, priority shall be given to organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families."
 
 <b>1992</b>—Pub. L. 102–586, §3(d), substituted "section 5711(a), (c), or (d) of this title" for "section 5711(a) of this title" in two places in first sentence and substituted "$200,000" for "$150,000" in second sentence.
 
@@ -39,6 +41,8 @@ A prior section 313 of Pub. L. 93–415 was classified to section 5712a of Title
 <b>1980</b>—Pub. L. 96–509 substituted "$150,000" for "$100,000" and "organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families" for "any applicant whose program budget is smaller than $150,000".
 
 <b>1977</b>—Pub. L. 95–115 substituted "$100,000" and "$150,000" for "$75,000" and "$100,000", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

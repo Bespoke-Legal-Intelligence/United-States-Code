@@ -2,9 +2,9 @@
 
 #### (a) Section 6371e grants
 
-(1) Except as otherwise provided in subsection (b), the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) <sup>1</sup> of this title in any year for purposes of making energy conservation project grants pursuant to section 6371e of this title as follows:
+(1) Except as otherwise provided in subsection (b), the Secretary shall allocate 90 percent of the amounts made available under section 6371f(b) <sup>1</sup>of this title in any year for purposes of making energy conservation project grants pursuant to section 6371e of this title as follows:
 
-&emsp;(A) Eighty percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in accordance with a formula to be prescribed, by rule, bythe Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
+&emsp;(A) Eighty percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in accordance with a formula to be prescribed, by rule, by the Secretary, taking into account population and climate of each State, and such other factors as the Secretary may deem appropriate.
 
 &emsp;(B) Ten percent of amounts made available under section 6371f(b) <sup>1</sup> of this title shall be allocated among the States in such manner as the Secretary determines by rule after taking into account the availability and cost of fuel or other energy used in, and the amount of fuel or other energy consumed by, schools and hospitals in the States, and such other factors as he deems appropriate.
 

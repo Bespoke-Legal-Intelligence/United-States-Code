@@ -10,7 +10,7 @@ Waiver Authority.—The Secretary of Defense may, for any purchase of a defined 
 
 (b)
 
-Scope of Waiver.—A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to acontract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
+Scope of Waiver.—A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to a contract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
 
 (c)
 
@@ -30,7 +30,7 @@ Authority To Sell.—The Secretary of Defense may sell a defined fuel source of 
 
 <b>1999</b>—Pub. L. 106–65, §803(b)(1), substituted "Acquisition of certain fuel sources" for "Acquisition of petroleum and natural gas" in section catchline.
 
-Subsec. (a). Pub. L. 106–65, §803(a)(1), substituted "a defined fuel source" for "petroleum or natural gas" in introductory provisions, "market conditions for the defined fuel source" for "petroleum market conditions or natural gas market conditions, as the case may be," and "acquisition of that defined fuel source" for "acquisition of petroleum or acquisition of natural gas, respectively," in par. (1), and "that defined fuel source" for "petroleum or natural gas, as the case may be," in par. (2).
+Subsec. (a). Pub. L. 106–65, §803(a)(1), substituted "a defined fuel source" for "petroleum or natural gas" in introductory provisions, "market conditions for the defined fuel source" for "petroleum market conditions or natural gas market conditions, as the case may be," and "acquisition of that defined fuel source" for "acquisition of petroleum or acquisition of natural gas, respectively," in par. (1), and "that defined fuel source"for "petroleum or natural gas, as the case may be," in par. (2).
 
 Subsec. (b). Pub. L. 106–65, §803(a)(2), substituted "a defined fuel source" for "petroleum or natural gas" in second sentence.
 

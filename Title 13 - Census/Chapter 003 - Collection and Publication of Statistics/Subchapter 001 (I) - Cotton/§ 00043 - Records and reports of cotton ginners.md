@@ -12,6 +12,8 @@ Section was derived from second paragraph of section 74 of title 13, U.S.C., 195
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1971</b>—Pub. L. 92–143 inserted "completion of the ginning season, but not later than the".

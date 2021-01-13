@@ -88,7 +88,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;&emsp;(iii) express student results or student competencies in terms consistent with the State's aligned academic achievement standards under section 6311(b)(1) of this title;
 
-&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all studentsand for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
+&emsp;&emsp;&emsp;(iv) generate results that are valid and reliable, and comparable, for all students and for each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, as compared to the results for such students on the State assessments under section 6311(b)(2) of this title;
 
 &emsp;&emsp;&emsp;(v) be developed in collaboration with—
 
@@ -104,7 +104,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;&emsp;(vi) be accessible to all students, such as by incorporating the principles of universal design for learning;
 
-&emsp;&emsp;&emsp;(vii) provide teachers, principals, other school leaders, students, and parents with timely data, disaggregated by each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, to inform and improve instructional practice and student supports;
+&emsp;&emsp;&emsp;(vii) provide teachers, principals, other school leaders, students, and parents withtimely data, disaggregated by each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, to inform and improve instructional practice and student supports;
 
 &emsp;&emsp;&emsp;(viii) identify which students are not making progress toward the challenging State academic standards so that teachers can provide instructional support and targeted interventions to all students;
 
@@ -268,7 +268,7 @@ A State may use funds available under section 6361 of this title to carry out th
 
 #### (l) Consortium
 
-A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section.Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
+A consortium of States may apply to participate in the program of demonstration authority under this section, and the Secretary may provide each State member of such consortium with such authority if each such State member meets all of the requirements of this section. Such consortium shall be subject to the limitation described in subsection (b)(3)(B) during the initial 3 years of the demonstration authority.
 
 #### (m) Dissemination of best practices
 

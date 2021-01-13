@@ -34,7 +34,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (d) Individual rights respecting certain requirements contrary to religious beliefs or moral convictions
 
-No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
+No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activitywould be contrary to his religious beliefs or moral convictions.
 
 #### (e) Prohibition on entities receiving Federal grant, etc., from discriminating against applicants for training or study because of refusal of applicant to participate on religious or moral grounds
 
@@ -46,7 +46,7 @@ No entity which receives, after September 29, 1979, any grant, contract, loan, l
 
 The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, §303, July 29,1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
+The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
 The Developmental Disabilities Services and Facilities Construction Act, referred to in subsecs. (b) and (c)(1), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as renamed by Pub. L. 91–518, title II, §207(a), Oct. 30, 1970, 84 Stat. 1327. Title I of Pub. L. 88–164, which was subsequently renamed the Developmental Disabilities Assistance and Bill of Rights Act by Pub. L. 95–602, title V, §502, Nov. 6, 1978, 92 Stat. 3003, and amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, was classified generally to chapter 75 (§6000 et seq.) of this title, prior to repeal by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. For complete classification of this Act to the Code, see Tables.
 

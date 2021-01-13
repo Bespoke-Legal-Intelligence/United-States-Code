@@ -110,6 +110,8 @@ Definition of grave breaches.—The definitions in this subsection are intended 
 
 (Added Pub. L. 104–192, §2(a), Aug. 21, 1996, 110 Stat. 2104, §2401; renumbered §2441, Pub. L. 104–294, title VI, §605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, §583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, §4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, §6(b)(1), Oct. 17, 2006, 120 Stat. 2633.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101 of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101 of Title 8, Aliens and Nationality.
@@ -135,6 +137,8 @@ Subsec. (c). Pub. L. 105–118, §583(3), as amended by Pub. L. 107–273, amend
 Definitions.—As used in this section, the term 'grave breach of the Geneva Conventions' means conduct defined as a grave breach in any of the international conventions relating to the laws of warfare signed at Geneva 12 August 1949 or any protocol to any such convention, to which the United States is a party."
 
 <b>1996</b>—Pub. L. 104–294 renumbered section 2401 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -191,6 +195,8 @@ Geneva conventions.—The term 'Geneva Conventions' means—
 &emsp;"(B)
 
 Third geneva convention.—The term 'Third Geneva Convention' means the international convention referred to in subparagraph (A)(iii)."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13440
 

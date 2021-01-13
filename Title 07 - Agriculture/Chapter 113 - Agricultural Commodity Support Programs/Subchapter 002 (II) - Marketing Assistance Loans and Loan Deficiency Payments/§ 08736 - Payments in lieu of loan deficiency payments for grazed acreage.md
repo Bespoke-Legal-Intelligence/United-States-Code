@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described insubsection (a)(1) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -54,7 +54,7 @@
 
 #### (d) Prohibition on crop insurance indemnity or noninsured crop assistance
 
-A 2008 through 2012 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection\(a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
+A 2008 through 2012 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
 
 (Pub. L. 110–234, title I, §1206, May 22, 2008, 122 Stat. 959; Pub. L. 110–246, §4(a), title I, §1206, June 18, 2008, 122 Stat. 1664, 1687.)
 

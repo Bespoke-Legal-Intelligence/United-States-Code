@@ -10,7 +10,7 @@ The Administrator shall develop and annually update a five-year management plan 
 
 (2) Not later than March 15 of each odd-numbered year, the Administrator shall submit to the congressional defense committees a detailed report on the plan developed under subsection (a).
 
-(3) Each summary submitted under paragraph (1) and each report submitted under paragraph\(2) shall be submitted in unclassified form, but may include a classified annex if necessary.
+(3) Each summary submitted under paragraph (1) and each report submitted under paragraph (2) shall be submitted in unclassified form, but may include a classified annex if necessary.
 
 #### (c) Elements
 
@@ -100,7 +100,7 @@ Subsec. (c)(9). Pub. L. 115–91, §3133(f)(3)(D), substituted "the summary requ
 
 Subsec. (c)(10). Pub. L. 115–91, §3133(f)(3)(E), substituted "the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be," for "the plan required by subsection (a)".
 
-Subsec. (c)(14) to (16). Pub. L. 115–91, §3133(f)(2), redesignated pars. (15) and (16) as (14) and (15), respectively, and struck out former par. (14) which read as follows: "A description of funds for the program expected to be received during that five-year period through contributions from or cost-sharing agreements with foreign governments consistent section 2569(f) of this title."
+Subsec. (c)(14) to (16). Pub. L. 115–91, §3133(f)(2), redesignated pars. (15) and (16) as (14) and (15), respectively, and struck out former par. (14) which read as follows:"A description of funds for the program expected to be received during that five-year period through contributions from or cost-sharing agreements with foreign governments consistent section 2569(f) of this title."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "with".</i>
 

@@ -32,6 +32,8 @@ Sept. 10, 1976, Pub. L. 94–406, §6, 90 Stat. 1236.
 
 The words "after fiscal year 1977" are omitted as executed. The word "Amounts" is substituted for "funds" for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 2703 of this title as this section.

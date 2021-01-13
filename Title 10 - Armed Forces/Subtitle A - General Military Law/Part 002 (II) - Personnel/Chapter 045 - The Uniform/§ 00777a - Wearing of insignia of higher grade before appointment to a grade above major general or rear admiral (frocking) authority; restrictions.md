@@ -32,7 +32,7 @@ Benefits Not to Be Construed as Accruing.—(1) Authority provided to an officer
 
 (d)
 
-Limitation on Number of Officers Frocked.—The total number of officers who are authorized to wear the insignia for a highergrade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
+Limitation on Number of Officers Frocked.—The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
 
 (Added Pub. L. 111–383, div. A, title V, §505(a)(1), Jan. 7, 2011, 124 Stat. 4208.)
 

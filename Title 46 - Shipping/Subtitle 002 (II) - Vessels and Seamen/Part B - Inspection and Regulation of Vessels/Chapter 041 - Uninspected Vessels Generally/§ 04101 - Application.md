@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 Section 4101 makes this chapter applicable to uninspected vessels, as defined in section 2101(43), that operate on the navigable waters of the United States or that are owned in the United States and while operating on the high seas. Therefore a vessel that operates on waters that are considered to be solely State waters would not be subject to these Federal requirements.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–424 inserted "not subject to chapter 45 of this title" after "an uninspected vessel".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

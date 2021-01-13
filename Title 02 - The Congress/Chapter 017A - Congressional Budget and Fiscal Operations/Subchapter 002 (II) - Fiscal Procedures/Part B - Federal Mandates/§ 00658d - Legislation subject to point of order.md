@@ -26,7 +26,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;&emsp;&emsp;(III) provides that such mandate shall—
 
-&emsp;&emsp;&emsp;&emsp;(aa) in the case of a statement referred to in subclause (I)(aa), cease to be effective 60 days after the statement is submitted unless Congress has approved the agency's determination by joint resolution during the 60-day period;
+&emsp;&emsp;&emsp;&emsp;(aa) in the case of a statement referred to in subclause (I)(aa), cease to be effective 60 days after the statement is submitted unless Congress has approved theagency's determination by joint resolution during the 60-day period;
 
 &emsp;&emsp;&emsp;&emsp;(bb) cease to be effective 60 days after the date the legislative recommendations of the responsible Federal agency are submitted to Congress under subclause (I)(bb) unless Congress provides otherwise by law; or
 
@@ -67,6 +67,8 @@ For purposes of this section, in the Senate, the presiding officer of the Senate
 For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
 
 (Pub. L. 93–344, title IV, §425, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

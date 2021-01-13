@@ -36,7 +36,7 @@ The Attorney General shall serve as Chairman of the Council. The Administrator o
 
 (1) The function of the Council shall be to coordinate all Federal juvenile delinquency programs (in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles, and all Federal programs relating to missing and exploited children. The Council shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and shall make recommendations to the President, and to the Congress, at least annually with respect to the coordination of overall policy and development of objectives and priorities for all Federal juvenile delinquency programs and activities and all Federal programs and activities that detain or care for unaccompanied juveniles. The Council shall review the programs and practices of Federal agencies and report on the degree to which Federal agency funds are used for purposes which are consistent or inconsistent with the mandates of the core requirements. The Council shall review, and make recommendations with respect to, any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council. The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.
 
-(2) In addition to performing their functions as members of the Council, the members appointed under subsection (a)(2) shall collectively, on an annual basis—
+(2) In addition to performing their functions as members of the Council, the members appointedunder subsection (a)(2) shall collectively, on an annual basis—
 
 &emsp;(A) make recommendations regarding the development of the objectives, priorities, and the long-term plan, and the implementation of overall policy and the strategy to carry out such plan, referred to in section 11114(a)(1) of this title; and
 
@@ -67,6 +67,8 @@ Members appointed under subsection (a)(2) shall serve without compensation. Memb
 Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
 
 (Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922; Pub. L. 107–273, div. C, title II, §12206, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 111–211, title II, §246(b), July 29, 2010, 124 Stat. 2296; Pub. L. 115–385, title II, §202, Dec. 21, 2018, 132 Stat. 5128.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -139,6 +141,8 @@ Subsec. (d). Pub. L. 95–115, §3(d)(3), substituted "four" for "six".
 Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted "or staff support" after "personnel" and substituted "Associate Administrator" for "Executive Secretary". Former pars. (1) and (2), which related to appointment and responsibilities of the Executive Secretary, respectively, were struck out.
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–237 substituted "Office of Drug Abuse Policy" for "Special Action Office for Drug Abuse Prevention".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

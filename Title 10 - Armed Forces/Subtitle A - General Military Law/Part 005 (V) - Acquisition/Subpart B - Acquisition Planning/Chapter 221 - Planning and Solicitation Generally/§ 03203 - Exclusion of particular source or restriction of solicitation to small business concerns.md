@@ -1,0 +1,60 @@
+### §3203. Exclusion of particular source or restriction of solicitation to small business concerns
+
+(a)
+
+Exclusion of Particular Source.—
+
+&emsp;(1)
+
+Criteria for exclusion.—The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
+
+&emsp;&emsp;(A) would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of property or services;
+
+&emsp;&emsp;(B) would be in the interest of national defense in having a facility (or a producer, manufacturer, or other supplier) available for furnishing the property or service in case of a national emergency or industrial mobilization;
+
+&emsp;&emsp;(C) would be in the interest of national defense in establishing or maintaining an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center;
+
+&emsp;&emsp;(D) would ensure the continuous availability of a reliable source of supply of such property or service;
+
+&emsp;&emsp;(E) would satisfy projected needs for such property or service determined on the basis of a history of high demand for the property or service; or
+
+&emsp;&emsp;(F) in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
+
+&emsp;(2)
+
+Determination for Class Disallowed.—A determination under paragraph (1) may not be made for a class of purchases or contracts.
+
+(b)
+
+Exclusion of Other Than Small Business Concerns.—The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act (15 U.S.C. 638, 644).
+
+(c)
+
+Inapplicability of Justification and Approval Requirements.—A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by section 3204(e)(1) of this title.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(d)(1), (2), Jan. 1, 2021, 134 Stat. 4166.)
+
+#### Codification
+
+The text of subsec. (b) of section 2304 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1811(d)(2), was based on Pub. L. 98–369, div. B, title VII, §2723(a)(1)(C), July 18, 1984, 98 Stat. 1187; Pub. L. 98–577, title V, §504(b)(1), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–661, div. A, title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 101–189, div. A, title VIII, 853(d), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–484, div. A, title VIII, §801(h)(2), Oct. 23, 1992, 106 Stat. 2445; Pub. L. 103–355, title I, §1002, Oct. 13, 1994, 108 Stat. 3249; Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(v), Aug. 13, 2018, 132 Stat. 1847.
+
+#### Prior Provisions
+
+A prior section 3203, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–861, §1(64), Sept. 2, 1958, 72 Stat. 1463, prescribed authorized strength of Regular Army inmembers on active duty, exclusive of officers candidates, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(d)(2)(A), redesignated subsec. (b) of section 2304 of this title as subsec. (a) of this section and inserted heading.
+
+Subsec. (a)(1). Pub. L. 116–283, §1811(d)(2)(A)–(C), inserted heading, substituted "covered by chapter 137 legacy provisions" for "covered by this chapter" in introductory provisions, and realigned margins of subpars. (A) to (F).
+
+Subsec. (a)(2). Pub. L. 116–283, §1811(d)(2)(F), redesignated par. (4) as (2), inserted heading, and realigned margin. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
+
+Subsec. (b). Pub. L. 116–283, §1811(d)(2)(D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted "chapter 137 legacy provisions" for "this section".
+
+Subsec. (c). Pub. L. 116–283, §1811(d)(2)(E), redesignated subsec. (a)(3) as (c), inserted heading, and substituted "section 3204(e)(1) of this title" for "subsection (f)(1)".
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+

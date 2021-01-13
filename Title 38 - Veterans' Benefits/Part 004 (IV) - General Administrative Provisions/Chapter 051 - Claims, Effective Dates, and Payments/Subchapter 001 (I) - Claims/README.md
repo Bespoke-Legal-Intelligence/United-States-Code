@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—CLAIMS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–687, div. A, title I, §103(c)(4), Nov. 18, 1988, 102 Stat. 4108, substituted "CLAIMS" for "APPLICATIONS" in heading for subchapter I.

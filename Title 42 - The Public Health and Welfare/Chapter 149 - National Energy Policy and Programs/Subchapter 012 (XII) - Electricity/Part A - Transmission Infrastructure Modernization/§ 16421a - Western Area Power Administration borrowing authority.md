@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Proceeds
 
-&emsp;The Western Area Power Administration shall apply the proceeds from the use of the transmission capacity from an individual project under this section to the repayment of the principal and interest of the loan from theTreasury attributable to that project, after reserving such funds as the Western Area Power Administration determines are necessary—
+&emsp;The Western Area Power Administration shall apply the proceeds from the use of the transmission capacity from an individual project under this section to the repayment of the principal and interest of the loan from the Treasury attributable to that project, after reserving such funds as the Western Area Power Administration determines are necessary—
 
 &emsp;&emsp;(A) to pay for any ancillary services that are provided; and
 

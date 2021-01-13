@@ -70,7 +70,7 @@ Subsec. (a). Pub. L. 103–279, §2(b)(1)(A), inserted heading, in first sentenc
 
 Subsec. (b). Pub. L. 103–279, §2(c), inserted heading and amended text generally. Prior to amendment, text read as follows: "The general trustees shall be appointed by the President of the United States and each such trustee shall hold office as a member of the Board for a term of ten years, except that (1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, (2) the terms of any members appointed prior to August 19, 1963, shall expire as designated by the President at the time of appointment, and (3) the terms of the first fifteen members appointed to the Board pursuant to the amendments made by the National Cultural Center Amendments Act of 1963 shall expire, as designated by the President at the time of appointment, three on September 1, 1964, three on September 1, 1966, three on September 1, 1968, three on September 1, 1970, and three on September 1, 1972."
 
-Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted "of the United States" before "may designate" in first sentence, substituted "carried out by the John" for "carried on in the John" in fifth sentence, and struck out before period at end of last sentence ", but each member of such Committee shall be reimbursed for travel, subsistence, and other necessary expenses incurred by him in connection with the work of such Committee".
+Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted "of the United States" before "may designate" in first sentence, substituted "carried out by the John"for "carried on in the John" in fifth sentence, and struck out before period at end of last sentence ", but each member of such Committee shall be reimbursed for travel, subsistence, and other necessary expenses incurred by him in connection with the work of such Committee".
 
 <b>1964</b>—Subsecs. (a), (c). Pub. L. 88–260 substituted "John F. Kennedy Center for the Performing Arts" for "National Cultural Center" wherever appearing.
 
@@ -84,7 +84,7 @@ Pub. L. 103–279, §2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 "(A)
 
-Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of theDistrict of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
+Superintendent of schools of the district of columbia.—The amendment made by paragraph (1)(C)(i) \[amending this section\] shall take effect on the date of expiration of the term of the Chairman of the District of Columbia Recreation Board serving as a trustee of the John F. Kennedy Center for the Performing Arts on the date of enactment of this Act \[July 21, 1994\].
 
 "(B)
 

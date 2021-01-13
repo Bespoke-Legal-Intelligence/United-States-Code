@@ -20,3 +20,4 @@
 - [&sect; 01603 - Implementation of policies](%C2%A7%2001603%20-%20Implementation%20of%20policies.md)
 - [&sect; 01604 - Program administration](%C2%A7%2001604%20-%20Program%20administration.md)
 - [&sect; 01605 - Applicability to other statutory national mining and minerals policies](%C2%A7%2001605%20-%20Applicability%20to%20other%20statutory%20national%20mining%20and%20minerals%20policies.md)
+- [&sect; 01606 - Mineral security](%C2%A7%2001606%20-%20Mineral%20security.md)

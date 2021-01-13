@@ -6,7 +6,7 @@
 
 (c) The chief judge of the United States Court of Appeals for the District of Columbia Circuit may, upon presentation of a certificate of necessity by the chief judge of the Superior Court of the District of Columbia pursuant to section 11–908(c) of the District of Columbia Code, designate and assign temporarily any district judge of the circuit to serve as a judge of such Superior Court, if such assignment (1) is approved by the Attorney General of the United States following a determination by him to the effect that such assignment is necessary to meet the ends of justice, and (2) is approved by the chief judge of the United States District Court for the District of Columbia.
 
-(d) The Chief Justice of the United States may designate and assign temporarily a districtjudge of one circuit for service in another circuit, either in a district court or court of appeals, upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit wherein the need arises.
+(d) The Chief Justice of the United States may designate and assign temporarily a district judge of one circuit for service in another circuit, either in a district court or court of appeals, upon presentation of a certificate of necessity by the chief judge or circuit justice of the circuit wherein the need arises.
 
 (e) The Chief Justice of the United States may designate and assign temporarily any district judge to serve as a judge of the Court of International Trade upon presentation to him of a certificate of necessity by the chief judge of the court.
 
@@ -36,13 +36,15 @@ Words "either in a district court or court of appeals" were inserted in subsecti
 
 Many changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–164 struck out "the Court of Claims, the Court of Customs and Patent Appeals or" after "to serve as a judge of" and "in which the need arises" after "chief judge of the court".
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting "to hold a district court or a bankruptcy court" for "to hold a district court" and the amendment of subsec. (d) by substituting "in a bankruptcy court, district court, or court of appeals" for "either in a district court or court of appeals", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting "to hold adistrict court or a bankruptcy court" for "to hold a district court" and the amendment of subsec. (d) by substituting "in a bankruptcy court, district court, or court of appeals" for "either in a district court or court of appeals", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1970</b>—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -61,6 +63,8 @@ Subsec. (f). Act July 14, 1956, added subsec. (f).
 <b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out "United States" from name of Court of Claims.
 
 <b>1953</b>—Subsec. (d). Act July 28, 1953, added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -6,13 +6,15 @@ The Secretary of Labor and the Secretary of Health and Human Services are author
 
 #### (b) Annual reports to Congress
 
-At the end of fiscal year 2003 and each succeeding fiscal year, the Secretary of Labor shall submit to the Congress an annual report on the subject matter of this part and part B of this subchapter. Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.
+At the end of fiscal year 2003 and each succeeding fiscal year, the Secretary of Labor shall submit to the Congress an annual report on thesubject matter of this part and part B of this subchapter. Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.
 
 #### (c) Compliance with State workmen's compensation laws; conflicts between State and Federal provisions
 
-Nothing in this subchapter shall relieve any operator of the duty to comply with any Stateworkmen's compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen's compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.
+Nothing in this subchapter shall relieve any operator of the duty to comply with any State workmen's compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen's compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.
 
 (Pub. L. 91–173, title IV, §426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, §5(3), May 19, 1972, 86 Stat. 155; Pub. L. 103–296, title I, §108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, §1102(b)(2), Dec. 21, 1995, 109 Stat. 723; Pub. L. 107–275, §2(b)(4), Nov. 2, 2002, 116 Stat. 1926.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Subsec. (b). Pub. L. 107–275, §2(b)(4)(B), amended first sentence generally. 
 Subsec. (b). Pub. L. 103–296, §108(i)(3)(B), substituted "Commissioner of Social Security" for "Secretary of Health, Education, and Welfare".
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–303 substituted "January 1, 1974" for "January 1, 1973".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

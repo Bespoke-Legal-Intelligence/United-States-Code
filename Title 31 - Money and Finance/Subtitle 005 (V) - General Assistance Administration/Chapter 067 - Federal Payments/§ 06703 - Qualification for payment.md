@@ -108,6 +108,8 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 109–270, §2(i), Aug. 12, 2006, 120 Stat. 748; Pub. L. 113–128, title V, §512(ff), July 22, 2014, 128 Stat. 1719.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and was classified to section 7213a of Title 20, prior to repeal by Pub. L. 114–95, title IV, §4001(b)(1)(A), Dec. 10, 2015, 129 Stat. 1967.
@@ -118,7 +120,7 @@ Public Law 101–509, referred to in subsec. (a)(3), is Pub. L. 101–509, Nov. 
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(5), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 The School to Work Opportunities Act, referred to in subsec. (a)(6), probably means the School-to-Work Opportunities Act of 1994, Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to chapter 69 (§6101 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 20 and Tables.
 
@@ -130,7 +132,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89�
 
 The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683,which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 
@@ -163,6 +165,8 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(27)\], added par. (4) and str
 Subsec. (a)(15) to (19). Pub. L. 105–277, §101(f) \[title VIII, §405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: "The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act (42 U.S.C. 11481 et seq.)."
 
 <b>1996</b>—Subsec. (d)(6). Pub. L. 104–316 struck out "after consultation with the Comptroller General of the United States" after "by the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

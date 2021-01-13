@@ -16,6 +16,8 @@ Words "or agency" were added. (See reviser's note under section 1345 of this tit
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted "United States Court of Federal Claims" for "United States Claims Court".
@@ -27,6 +29,8 @@ Subsec. (c). Pub. L. 102–572, §902(a)(2), substituted "Court of Federal Claim
 Subsec. (c). Pub. L. 97–164, §139(f)(2), substituted "Claims Court" for "Court of Claims".
 
 <b>1954</b>—Act Sept. 3, 1954, substituted "Calls and discovery" for "Calls on departments for information" in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -36,6 +36,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–182, title I, §134(a), June 6, 2018, 132 Stat. 1428; amended Pub. L. 115–251, title II, §206, Sept. 29, 2018, 132 Stat. 3173.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–251, §206(1)(A), inserted ", or any individual State or regional prescription drug monitoring program," after "programs".

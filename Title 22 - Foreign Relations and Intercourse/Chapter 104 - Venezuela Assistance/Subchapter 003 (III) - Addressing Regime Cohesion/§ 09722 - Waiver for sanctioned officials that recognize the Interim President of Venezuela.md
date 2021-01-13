@@ -8,7 +8,7 @@ If a person sanctioned under any of the provisions of law described in subsectio
 
 The sanctions described in this subsection are set forth in the following provisions of law:
 
-&emsp;(1)(A) Paragraphs (3) and (4) of section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278), as amended by section 163 of this title.<sup>1</sup>
+&emsp;(1)(A) Paragraphs (3) and (4) of section 5(a) of the Venezuela Defense of Human Rights andCivil Society Act of 2014 (Public Law 113–278), as amended by section 163 of this title.<sup>1</sup>
 
 &emsp;(B) Paragraph (5) <sup>1</sup> of section 5(a) of such Act, to the extent such paragraph relates to the sanctions described in paragraph (3) or (4) of such subsection.<sup>1</sup>
 
@@ -25,6 +25,8 @@ The sanctions described in this subsection are set forth in the following provis
 The President shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
 
 (Pub. L. 116–94, div. J, title I, §133, Dec. 20, 2019, 133 Stat. 3036.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

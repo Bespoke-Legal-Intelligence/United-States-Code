@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) Except as provided in paragraph (2), the Attorney General may request the issuance, in the same manner as provided for a search warrant, of a warrant authorizing theseizure of any biological agent, toxin, or delivery system that—
+In General.—(1) Except as provided in paragraph (2), the Attorney General may request the issuance, in the same manner as provided for a search warrant, of a warrant authorizing the seizure of any biological agent, toxin, or delivery system that—
 
 &emsp;(A) pertains to conduct prohibited under section 175 of this title; or
 
@@ -23,6 +23,8 @@ Affirmative Defense.—It is an affirmative defense against a forfeiture under s
 &emsp;(2) such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
 
 (Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, §330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, §231(c)(3), June 12, 2002, 116 Stat. 661.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

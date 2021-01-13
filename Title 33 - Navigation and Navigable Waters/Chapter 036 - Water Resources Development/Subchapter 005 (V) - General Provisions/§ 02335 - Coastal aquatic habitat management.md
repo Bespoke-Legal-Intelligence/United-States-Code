@@ -22,9 +22,13 @@ There is authorized to be appropriated to carry out this section $7,000,000 for 
 
 (Pub. L. 106–53, title V, §559, Aug. 17, 1999, 113 Stat. 354.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

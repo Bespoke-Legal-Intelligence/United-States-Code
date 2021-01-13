@@ -30,7 +30,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, providedthat the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 #### Effective Date of 1980 Amendment
 

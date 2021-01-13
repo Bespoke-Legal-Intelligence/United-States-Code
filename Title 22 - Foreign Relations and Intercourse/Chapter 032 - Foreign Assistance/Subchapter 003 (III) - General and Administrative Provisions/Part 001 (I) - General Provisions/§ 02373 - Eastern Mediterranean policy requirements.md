@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration and statement of findings
 
-The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
+The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares thatany action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
 
 &emsp;(1) a just settlement on Cyprus must involve the establishment of a free and independent government on Cyprus and must guarantee that the human rights of all of the people of Cyprus are fully protected;
 
@@ -42,11 +42,13 @@ In order to ensure that United States assistance is furnished consistent with th
 
 (1) Except as provided in paragraph (3), any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (3) The requirement under paragraph (1) shall not apply to any sale or other provision of any defense article or defense service to Cyprus if the end-user of such defense article or defense service is the Government of the Republic of Cyprus.
 
 (Pub. L. 87–195, pt. III, §620C, as added Pub. L. 95–384, §13(b), Sept. 26, 1978, 92 Stat. 737; amended Pub. L. 100–202, §101(e) \[title V, §562\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–171; Pub. L. 116–92, div. A, title XII, §1250A(b), Dec. 20, 2019, 133 Stat. 1665; Pub. L. 116–94, div. J, title II, §205(b), Dec. 20, 2019, 133 Stat. 3052.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,9 +78,7 @@ Subsec. (e)(3). Pub. L. 116–92, §1250A(b)(2), and Pub. L. 116–94, §205(b)(
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–202 added subsec. (e).
 
-#### Delegation of Functions
-
-For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Eastern Mediterranean Security and Energy Partnership
 
@@ -120,7 +120,7 @@ Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that
 
 &emsp;"(14) The United States has welcomed Greece's allocation of 2 percent of its gross domestic product (GDP) to defense in accordance with commitments made at the 2014 NATO Summit in Wales.
 
-&emsp;"(15) Energy exploration in the Eastern Mediterranean region must be safeguarded against threatsposed by terrorist and extremist groups, including Hezbollah and any other actor in the region.
+&emsp;"(15) Energy exploration in the Eastern Mediterranean region must be safeguarded against threats posed by terrorist and extremist groups, including Hezbollah and any other actor in the region.
 
 &emsp;"(16) The energy exploration in the Republic of Cyprus's Exclusive Economic Zone and territorial waters—
 
@@ -208,7 +208,7 @@ United States-Eastern Mediterranean Energy Center.—The Secretary of Energy, in
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;"(1) allowing for the export, re-export or transfer of arms subject to the United States Munitions List (part 121 of title 22, Code of Federal Regulations) to the Republic of Cyprus would advance United States security interests in Europe by helping to reduce the dependence of the Government of the Republic of Cyprus on other countries, including countries that posechallenges to United States interests around the world, for defense-related materiel; and
+&emsp;"(1) allowing for the export, re-export or transfer of arms subject to the United States Munitions List (part 121 of title 22, Code of Federal Regulations) to the Republic of Cyprus would advance United States security interests in Europe by helping to reduce the dependence of the Government of the Republic of Cyprus on other countries, including countries that pose challenges to United States interests around the world, for defense-related materiel; and
 
 &emsp;"(2) it is in the interest of the United States to continue to support United Nations-facilitated efforts toward a comprehensive solution to the division of Cyprus.
 
@@ -328,7 +328,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;"(5) An assessment of efforts supported by the Government of the Russian Federation to influence elections in the three countries, through the use of cyber attacks, social media campaigns, or other malign influence techniques.
 
-&emsp;"(6) An assessment of efforts by the Government of the Russian Federation to intimidate and influencethe decision by His All Holiness Ecumenical Patriarch Bartholomew, leader of 300,000,000 Orthodox Christians worldwide, to grant autocephaly to the Ukrainian Orthodox Church.
+&emsp;"(6) An assessment of efforts by the Government of the Russian Federation to intimidate and influence the decision by His All Holiness Ecumenical Patriarch Bartholomew, leader of 300,000,000 Orthodox Christians worldwide, to grant autocephaly to the Ukrainian Orthodox Church.
 
 "(c)
 
@@ -440,7 +440,27 @@ Report.—Not later than June 1, 1988, the President shall submit a report to th
 
 "(d)
 
-Funding.—Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem."
+Funding.—Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be usedby the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
+#### Delegation of Authorities Under the National Defense Authorization Act for Fiscal Year 2020 and the Eastern Mediterranean Security and Energy Partnership Act of 2019
+
+Memorandum of President of the United States, Apr. 14, 2020, 85 F.R. 35797, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the authorities vested in the President by section 1250A(d) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[22 U.S.C. 2373 note\] and section 205(d) of the Eastern Mediterranean Security and Energy Partnership Act of 2019 (Title II, Div. J, Public Law 116–94) \[22 U.S.C. 2373 note\].
+
+Any reference in this memorandum to either Act shall be deemed to be a reference to such Acts as amended from time to time.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

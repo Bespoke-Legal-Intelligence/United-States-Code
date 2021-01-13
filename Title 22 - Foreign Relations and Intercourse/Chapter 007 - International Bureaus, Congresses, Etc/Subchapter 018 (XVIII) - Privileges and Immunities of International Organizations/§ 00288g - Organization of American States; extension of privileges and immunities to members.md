@@ -4,6 +4,8 @@ Under such terms and conditions as he shall determine, the President is hereby a
 
 (July 10, 1952, ch. 628, 66 Stat. 516; Pub. L. 93–149, §1(b), Nov. 7, 1973, 87 Stat. 560.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
@@ -11,6 +13,8 @@ Section was not enacted as part of the International Organizations Immunities Ac
 #### Amendments
 
 <b>1973</b>—Pub. L. 93–149 substituted provisions extending diplomatic privileges and immunities to representatives of member states to the Organization of American States, to permanent observers to the Organization of American States, and to member of staff of such representatives and permanent observers, for provisions extending such privileges and immunities to representatives of member states on the Council of the Organization of American State and members of their staff.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11931. Extension of Diplomatic Privileges and Immunities to Permanent Observers to Organization of American States
 

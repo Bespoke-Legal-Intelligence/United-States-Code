@@ -6,7 +6,7 @@
 
 &emsp;(2) to obtain money or property by means of false or fraudulent pretenses, representations, or promises,
 
-> in any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government's purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in any procurement of property or services as a prime contractor with the United States or as a subcontractor or supplier on a contract in which there is a prime contract with the United States, if the value of such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, or any constituent part thereof, is $1,000,000 or more shall, subject to the applicability of subsection (c) of this section, be fined not more than $1,000,000, or imprisoned not more than 10 years, or both.
+> in any grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, including through the Troubled Asset Relief Program, an economic stimulus, recovery or rescue plan provided by the Government, or the Government's purchase of any troubled asset as defined in the Emergency Economic Stabilization Act of 2008, or in anyprocurement of property or services as a prime contractor with the United States or as a subcontractor or supplier on a contract in which there is a prime contract with the United States, if the value of such grant, contract, subcontract, subsidy, loan, guarantee, insurance, or other form of Federal assistance, or any constituent part thereof, is $1,000,000 or more shall, subject to the applicability of subsection (c) of this section, be fined not more than $1,000,000, or imprisoned not more than 10 years, or both.
 
 (b) The fine imposed for an offense under this section may exceed the maximum otherwise provided by law, if such fine does not exceed $5,000,000 and—
 
@@ -36,7 +36,7 @@
 
 &emsp;(B) that individual failed to furnish the information to the individual's employer prior to furnishing it to law enforcement authorities, unless the court determines the individual has justifiable reasons for that failure;
 
-&emsp;(C) the furnished information is based upon public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or GAO report, hearing, audit or investigation, or from the news media unless the person is the original source of the information. For the purposes of this subsection, "original source" means an individual who has direct and independent knowledge of the information onwhich the allegations are based and has voluntarily provided the information to the Government; or
+&emsp;(C) the furnished information is based upon public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or GAO report, hearing, audit or investigation, or from the news media unless the person is the original source of the information. For the purposes of this subsection, "original source" means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government; or
 
 &emsp;(D) that individual participated in the violation of this section with respect to which such payment would be made.
 
@@ -49,6 +49,8 @@
 &emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
 
 (Added Pub. L. 100–700, §2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, §2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, §330002(a), (f), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 111–21, §2(d), May 20, 2009, 123 Stat. 1618.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsec. (g)(2)(A). Pub. L. 103–322, §330002(a), substituted "a Government" fo
 Subsec. (h). Pub. L. 103–322, §330002(f), redesignated second subsec. (g) as (h).
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–123 added, after subsec. (f), subsec. (g) relating to payments by the Attorney General.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

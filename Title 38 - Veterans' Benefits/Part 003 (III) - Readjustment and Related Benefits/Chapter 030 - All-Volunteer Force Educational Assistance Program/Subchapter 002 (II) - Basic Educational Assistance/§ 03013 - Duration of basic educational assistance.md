@@ -38,9 +38,11 @@
 
 &emsp;(C) failed to receive credit or lost training time toward completion of the individual's approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A) or (B), his or her course pursuit.
 
-(3) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
+(3) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
 
 (Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §103(c), Nov. 1, 2000, 114 Stat. 1826; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -95,6 +97,8 @@ Subsecs. (c), (d). Pub. L. 100–689, §103(b)(2), added subsec. (c) and redesig
 Subsec. (b)(1). Pub. L. 99–576, §321(3)(B)(i), inserted "after the date of the beginning of the period for which such individual's basic pay is reduced under section 1412(c) of this title, in the case of an individual described in section 1412(a)(1)(A), or after June 30, 1985, in the case of an individual described in section 1412(a)(1)(B) of this title".
 
 Subsec. (b)(2). Pub. L. 99–576, §321(3)(B)(ii), inserted "after the applicable date specified in clause (1) of this subsection" after "Selected Reserve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

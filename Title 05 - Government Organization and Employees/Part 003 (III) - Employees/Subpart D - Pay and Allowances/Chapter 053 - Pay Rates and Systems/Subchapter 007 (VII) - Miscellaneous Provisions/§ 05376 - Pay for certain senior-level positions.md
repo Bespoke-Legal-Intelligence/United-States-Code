@@ -28,6 +28,8 @@
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443; amended Pub. L. 110–372, §2(b), Oct. 8, 2008, 122 Stat. 4044.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of this title.
@@ -39,6 +41,8 @@ Levels II and III of the Executive Schedule, referred to in subsec. (b), are set
 <b>2008</b>—Subsec. (b)(1)(B). Pub. L. 110–372, §2(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "not greater than the rate of basic pay payable for level IV of the Executive Schedule.".
 
 Subsec. (b)(3), (4). Pub. L. 110–372, §2(b)(2), added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -54,7 +58,7 @@ No reductions in rates of pay.—
 
 &emsp;"(A)
 
-In general.—The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay foran individual holding a position to which section 5376 of title 5, United States Code, applies.
+In general.—The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay for an individual holding a position to which section 5376 of title 5, United States Code, applies.
 
 &emsp;"(B)
 

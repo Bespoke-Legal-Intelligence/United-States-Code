@@ -42,6 +42,8 @@ This section is substituted for the source provisions for consistency in the rev
 
 This text of 36:67a is omitted as executed and obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–241 substituted "AMVETS (American Veterans)" for "AMVETS (American Veterans of World War II, Korea, and Vietnam)".

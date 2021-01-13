@@ -24,6 +24,10 @@ Subsec. (c). Pub. L. 98–11, §202(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–625, §551(3), substituted ", scenic and historic" for "and scenic".
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–111, §1, Jan. 27, 2020, 134 Stat. 8, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'Emancipation National Historic Trail Study Act'."
+
 #### Short Title of 2006 Amendment
 
 Pub. L. 109–432, div. C, title III, §302, Dec. 20, 2006, 120 Stat. 3028, provided that: "This title \[enacting provisions set out as a note under section 1244 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'White Pine County Conservation, Recreation, and Development Act of 2006'."
@@ -56,7 +60,7 @@ Pub. L. 106–135, §1, Dec. 7, 1999, 113 Stat. 1685, provided that: "This Act \
 
 #### Short Title of 1993 Amendments
 
-Pub. L. 103–145, §1, Nov. 17, 1993, 107 Stat. 1496, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'El Camino Real Para Los Texas Study Act of 1993'."
+Pub. L. 103–145, §1, Nov. 17, 1993, 107 Stat. 1496, provided that: "This Act \[amending section 1244 of thistitle\] may be cited as the 'El Camino Real Para Los Texas Study Act of 1993'."
 
 Pub. L. 103–144, §1, Nov. 17, 1993, 107 Stat. 1494, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'El Camino Real de Tierra Adentro Study Act of 1993'."
 

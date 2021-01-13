@@ -18,6 +18,8 @@ Effect of Finality of Judgment.—Notwithstanding the fact that a sentence of pr
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1992; amended Pub. L. 101–647, title XXXV, §3583, Nov. 29, 1990, 104 Stat. 4930.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
@@ -29,6 +31,8 @@ For a prior section 3562, applicable to offenses committed prior to Nov. 1, 1987
 #### Amendments
 
 <b>1990</b>—Subsec. (b)(2). Pub. L. 101–647 inserted "of the Federal Rules of Criminal Procedure" after "rule 35".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

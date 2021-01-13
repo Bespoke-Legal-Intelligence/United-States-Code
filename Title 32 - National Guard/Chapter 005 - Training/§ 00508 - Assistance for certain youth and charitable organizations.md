@@ -30,7 +30,7 @@ Authorized Services.—The services authorized to be provided under subsection (
 
 (c)
 
-Other Authorized Assistance.—Facilities and equipment of the National Guard, including military property of the United States issued to the National Guard and General Services Administration vehicles leased to the National Guard, and General Services Administration vehicles leased to the Department of Defense, may be used in connection with providing services to any eligible organization under this section.
+Other Authorized Assistance.—Facilities and equipment of the National Guard, including military property of the United States issued to the National Guard and General Services Administration vehicles leased to the NationalGuard, and General Services Administration vehicles leased to the Department of Defense, may be used in connection with providing services to any eligible organization under this section.
 
 (d)
 
@@ -65,4 +65,10 @@ Eligible Organizations.—The organizations eligible to receive services under t
 &emsp;(14) Any other youth or charitable organization designated by the Secretary of Defense.
 
 (Added Pub. L. 103–337, div. A, title III, §385(a), Oct. 5, 1994, 108 Stat. 2741.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 

@@ -56,7 +56,7 @@ Subject to subsection (b), for every major drug producing country and every majo
 
 &emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
-(E) The President may make a certification under subparagraph (A)(i) with respect to a major drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
+(E) The President may make a certification under subparagraph (A)(i) with respect to amajor drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 
@@ -94,7 +94,7 @@ Subject to subsection (b), for every major drug producing country and every majo
 
 &emsp;(A) the President makes the certification under paragraph (1), a period of 45 days of continuous session of Congress elapses, and during that period the Congress does not enact a joint resolution of disapproval; or
 
-&emsp;(B) the President submits at any other time a certification of the matters described inparagraph (1) with respect to that country, a period of 45 days of continuous session of Congress elapses, and during that period the Congress does not enact a joint resolution of disapproving the determination contained in that certification.
+&emsp;(B) the President submits at any other time a certification of the matters described in paragraph (1) with respect to that country, a period of 45 days of continuous session of Congress elapses, and during that period the Congress does not enact a joint resolution of disapproving the determination contained in that certification.
 
 (5) For the purpose of expediting the consideration and enactment of joint resolutions under paragraphs (3) and (4)—
 
@@ -152,7 +152,7 @@ Subsec. (b)(1)(B)(v). Pub. L. 101–231, §17(h)(3), substituted "essential prec
 
 Subsec. (b)(2)(D). Pub. L. 101–231, §17(h)(4), substituted "illicit production" for "production".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–690, §4408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by section 2291(e) of title 22, that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in suchcountry or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies."
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–690, §4408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subsection (a) of this section shall not apply with respect to a country if the President determines and so certifies to the Congress, at the time of the submission of the report required by section 2291(e) of title 22, that during the previous year that country has cooperated fully with the United States, or has taken adequate steps on its own, in preventing narcotic and psychotropic drugs and other controlled substances produced or processed, in whole or in part, in such country or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents or from being transported, directly or indirectly, into the United States and in preventing and punishing corruption by government officials and the laundering in that country of drug-related profits or drug-related monies."
 
 Subsec. (b)(2). Pub. L. 100–690, §4408(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "In making the certification required by paragraph (1), the President shall give foremost consideration to whether the actions of the government of the country have resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) of title 22. The President shall also consider whether such government—
 

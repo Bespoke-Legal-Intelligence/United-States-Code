@@ -120,7 +120,7 @@ Another prior section 1484, Pub. L. 91–230, title VI, §684, as added Pub. L. 
 
 A prior section 1484a, Pub. L. 91–230, title VI, §685, as added Pub. L. 102–119, §21(2), Oct. 7, 1991, 105 Stat. 602; amended Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 103–448, title II, §204(w)(2)(B), Nov. 2, 1994, 108 Stat. 4746, related to establishment, composition, functions, etc., of the Federal Interagency Coordinating Council, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
-A prior section 1485, Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in thegeneral amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1485, Pub. L. 91–230, title VI, §685, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 152; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737, which related to coordinated technical assistance and dissemination, was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1485, Pub. L. 91–230, title VI, §686, formerly §685, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1155; renumbered §686 and amended Pub. L. 102–119, §§20, 21(1), Oct. 7, 1991, 105 Stat. 602, related to authorization of appropriations, prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 

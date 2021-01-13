@@ -24,9 +24,13 @@ The Secretary of State is authorized to promulgate regulations for purposes of t
 
 (Pub. L. 87–256, §108A, as added Pub. L. 94–350, title I, §111, July 12, 1976, 90 Stat. 825; amended Pub. L. 96–60, title II, §204(d), Aug. 15, 1979, 93 Stat. 400.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–60 substituted "(F)" for "(E)" and "(G)" for "(F)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

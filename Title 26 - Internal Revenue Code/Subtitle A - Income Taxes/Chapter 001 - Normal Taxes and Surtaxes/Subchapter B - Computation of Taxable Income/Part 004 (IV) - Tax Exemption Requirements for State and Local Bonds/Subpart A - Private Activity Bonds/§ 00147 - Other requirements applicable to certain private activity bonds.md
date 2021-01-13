@@ -66,13 +66,13 @@
 
 &emsp;&emsp;A qualified 501(c)(3) bond meets the requirements of this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a partare to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
+&emsp;&emsp;&emsp;(i) 95 percent or more of the net proceeds of the issue of which such bond is a part are to be used to make or finance loans to 2 or more 501(c)(3) organizations or governmental units for acquisition of property to be used by such organizations,
 
 &emsp;&emsp;&emsp;(ii) each loan described in clause (i) satisfies the requirements of paragraph (1) (determined by treating each loan as a separate issue),
 
 &emsp;&emsp;&emsp;(iii) before such bond is issued, a demand survey was conducted which shows a demand for financing greater than an amount equal to 120 percent of the lendable proceeds of such issue, and
 
-&emsp;&emsp;&emsp;(iv) 95 percent or more of the net proceeds of such issue are to be loaned to 501(c)(3) organizations or governmental units within 1 year of issuance and, to the extent there are any unspent proceeds after such 1-year period, bonds issued as part of such issue are to be redeemed as soon as possible thereafter (and in no event later than 18 months after issuance).
+&emsp;&emsp;&emsp;(iv) 95 percent or more of the net proceeds of such issue are to be loaned to 501(c)(3) organizations or governmentalunits within 1 year of issuance and, to the extent there are any unspent proceeds after such 1-year period, bonds issued as part of such issue are to be redeemed as soon as possible thereafter (and in no event later than 18 months after issuance).
 
 > &emsp;&emsp;A bond shall not meet the requirements of this subparagraph if the maturity date of any bond issued as part of such issue is more than 30 years after the date on which the bond was issued (or, in the case of a refunding or series of refundings, the date on which the original bond was issued).
 
@@ -146,7 +146,7 @@
 
 #### (G) Acquisition from related person
 
-&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section144(a)(3)) shall not be treated as an acquisition from a related person, if—
+&emsp;&emsp;For purposes of this paragraph and section 144(a), the acquisition by a first-time farmer of land or personal property from a related person (within the meaning of section 144(a)(3)) shall not be treated as an acquisition from a related person, if—
 
 &emsp;&emsp;&emsp;(i) the acquisition price is for the fair market value of such land or property, and
 
@@ -232,7 +232,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;&emsp;&emsp;&emsp;(II) on behalf of which such bond was issued, and
 
-&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility,with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
+&emsp;&emsp;&emsp;(ii) each governmental unit having jurisdiction over the area in which any facility, with respect to which financing is to be provided from the net proceeds of such issue, is located (except that if more than 1 governmental unit within a State has jurisdiction over the entire area within such State in which such facility is located, only 1 such unit need approve such issue).
 
 #### (B) Approval by a governmental unit
 
@@ -304,7 +304,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (2) Special rule for small mortgage revenue bond issues
 
-&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting"3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
+&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting "3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
 
 #### (h) Certain rules not to apply to certain bonds
 
@@ -406,7 +406,7 @@ Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 

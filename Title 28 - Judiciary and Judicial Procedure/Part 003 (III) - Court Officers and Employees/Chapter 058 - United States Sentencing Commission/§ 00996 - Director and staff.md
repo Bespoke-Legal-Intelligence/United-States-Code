@@ -1,10 +1,12 @@
 ### §996. Director and staff
 
-(a) The Staff Director shall supervise the activities of persons employed by the Commission and perform other duties assigned to the Staff Director by the Commission.
+(a) The Staff Director shall supervise the activities of persons employed by the Commissionand perform other duties assigned to the Staff Director by the Commission.
 
 (b) The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).
 
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2026; amended Pub. L. 100–690, title VII, §7106(c), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(6), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(5), Sept. 13, 1994, 108 Stat. 2097; Pub. L. 106–518, title III, §302(a), Nov. 13, 2000, 114 Stat. 2416.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -15,6 +17,8 @@
 <b>1990</b>—Subsec. (b). Pub. L. 101–650 substituted "and 89 (Health Insurance)" for "89 (Health Insurance), and 91 (Conflicts of Interest)".
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

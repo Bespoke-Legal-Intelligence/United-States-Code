@@ -14,17 +14,25 @@ In this chapter:
 
 &emsp;(3) The term "imagery intelligence" means the technical, geographic, and intelligence information derived through the interpretation or analysis of imagery and collateral materials.
 
-&emsp;(4) The term "geospatial information" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth and includes—
+&emsp;(4) The term "geospatial information" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on or about the earth and includes—
 
-&emsp;&emsp;(A) statistical data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
+&emsp;&emsp;(A) data and information derived from, among other things, remote sensing, mapping, and surveying technologies; and
 
-&emsp;&emsp;(B) mapping, charting, geodetic data, and related products.
+&emsp;&emsp;(B) mapping, charting, geomatics data, and related products and services.
 
-&emsp;(5) The term "geospatial intelligence" means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
+&emsp;(5) The term "geospatial intelligence" means the exploitation and analysis of imagery and geospatial information to describe, assess, and visually depict physical features and geographically referenced activities on or about the earth. Geospatial intelligence consists of imagery, imagery intelligence, and geospatial information.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, §933(b)(2), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 108–136, div. A, title IX, §921(b), Nov. 24, 2003, 117 Stat. 1568.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2682; amended Pub. L. 105–85, div. A, title IX, §933(b)(2), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 108–136, div. A, title IX, §921(b), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, §1621(f), Jan. 1, 2021, 134 Stat. 4054.)
 
 #### Amendments
+
+<b>2021</b>—Par. (4). Pub. L. 116–283, §1621(f)(1)(A), inserted "or about" after "boundaries on" in introductory provisions.
+
+Par. (4)(A). Pub. L. 116–283, §1621(f)(1)(B), struck out "statistical" before "data".
+
+Par. (4)(B). Pub. L. 116–283, §1621(f)(1)(C), substituted "geomatics" for "geodetic" and inserted "and services" after "products".
+
+Par. (5). Pub. L. 116–283, §1621(f)(2), inserted "or about" after "activities on".
 
 <b>2003</b>—Par. (5). Pub. L. 108–136 added par. (5).
 

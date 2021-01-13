@@ -28,6 +28,8 @@ This subchapter applies to—
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1136; amended Pub. L. 101–12, §9(a)(2), Apr. 10, 1989, 103 Stat. 35; Pub. L. 114–92, div. A, title X, §1086(f)(9), Nov. 25, 2015, 129 Stat. 1010.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to adverse action against a preference eligible employee and procedures applicable to such adverse action, prior to repeal by Pub. L. 95–454, §204(a).
@@ -37,6 +39,8 @@ A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to 
 <b>2015</b>—Par. (F). Pub. L. 114–92 added par. (F).
 
 <b>1989</b>—Par. (E). Pub. L. 101–12 substituted "1215" for "1206".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

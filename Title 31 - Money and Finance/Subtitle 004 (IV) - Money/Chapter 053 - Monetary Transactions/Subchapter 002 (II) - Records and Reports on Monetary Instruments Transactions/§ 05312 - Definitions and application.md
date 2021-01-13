@@ -2,7 +2,7 @@
 
 (a) In this subchapter—
 
-&emsp;(1) "financial agency" means a person acting for a person (except for a country, a monetary or financial authority acting as a monetary or financial authority, or an international financial institution of which the United States Government is a member) as a financial institution, bailee, depository trustee, or agent, or acting in a similar way related to money, credit, securities, gold, or a transaction in money, credit, securities, or gold.
+&emsp;(1) "financial agency" means a person acting for a person (except for a country, a monetary or financial authority acting as a monetary or financial authority, or an international financial institution of which the United States Government is a member) as a financial institution, bailee, depository trustee, or agent, or acting in a similar way related to money, credit, securities, gold, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency.
 
 &emsp;(2) "financial institution" means—
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(I) an investment banker or investment company;
 
-&emsp;&emsp;(J) a currency exchange;
+&emsp;&emsp;(J) a currency exchange, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds;
 
 &emsp;&emsp;(K) an issuer, redeemer, or cashier of travelers' checks, checks, money orders, or similar instruments;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(Q) a travel agency;
 
-&emsp;&emsp;(R) a licensed sender of money or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+&emsp;&emsp;(R) a licensed sender of money or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(S) a telegraph company;
 
@@ -66,9 +66,11 @@
 
 &emsp;&emsp;(A) United States coins and currency;
 
-&emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers' checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
+&emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers' checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material;
 
-&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5316 and 5331, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form; and
+
+&emsp;&emsp;(D) as the Secretary shall provide by regulation, value that substitutes for any monetary instrument described in subparagraph (A), (B), or (C).
 
 &emsp;(4)
 
@@ -94,7 +96,7 @@ Certain institutions included in definition.—The term "financial institution" 
 
 &emsp;&emsp;(A) <sup>2</sup> Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746; Pub. L. 116–283, div. F, title LXI, §§6102(d)(1), 6110(a)(1), Jan. 1, 2021, 134 Stat. 4553, 4561.)
 
 Historical and Revision Notes
 
@@ -148,6 +150,20 @@ In subsection (a)(5), the words "used in a geographic sense" are omitted because
 
 Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary words and for consistency.
 
+#### Amendment of Subsection (a)(2)
+
+<i>Pub. L. 116–283, div. F, title LXI, §6110(a), Jan. 1, 2021, 134 Stat. 4561, provided that, effective on the effective date of the final rules issued by the Secretary of the Treasury pursuant to section 6110(b) of Pub. L. 116–283 (set out below), subsection (a)(2) of this section is amended—</i>
+
+<i>(1) by redesignating subparagraphs (Y) and (Z) as subparagraphs (Z) and (AA), respectively; and</i>
+
+<i>(2) by inserting after subparagraph (X) the following:</i>
+
+&emsp;&emsp;<i>"(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;".</i>
+
+<i>See 2021 Amendment note and Rulemaking note below.</i>
+
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -157,6 +173,16 @@ The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. 
 The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §6102(d)(1)(A), substituted ", a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency" for ", or a transaction in money, credit, securities, or gold".
+
+Subsec. (a)(2)(J). Pub. L. 116–283, §6102(d)(1)(B)(i), inserted ", or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds" before semicolon at end.
+
+Subsec. (a)(2)(R). Pub. L. 116–283, §6102(d)(i)(B)(ii), substituted "currency, funds, or value that substitutes for currency," for "funds,".
+
+Subsec. (a)(2)(Y) to (AA). Pub. L. 116–283, §6110(a)(1), added subpar. (Y) and redesignated former subpars. (Y) and (Z) as (Z) and (AA), respectively.
+
+Subsec. (a)(3)(D). Pub. L. 116–283, §6102(d)(1)(C), added subpar. (D).
 
 <b>2004</b>—Subsec. (a)(2)(E). Pub. L. 108–458, §6202(g), made technical correction to directory language of Pub. L. 107–56, §321(a). See 2001 Amendment note below.
 
@@ -178,7 +204,7 @@ Subsec. (a)(3)(C). Pub. L. 103–325, §405, added subpar. (C).
 
 <b>1988</b>—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, §6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
 
-"(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
+"(T) an agency of the United States Government or of a State or local government carrying out a duty orpower of a business described in this clause (2), including the United States Postal Service; or
 
 "(U) another business or agency carrying out a similar, related, or substitute duty or power the Secretary of the Treasury prescribes."
 
@@ -188,9 +214,39 @@ Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after "Puerto 
 
 Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted "the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands," after "Puerto Rico".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. F, title LXI, §6110(a)(2), Jan. 1, 2021, 134 Stat. 4562, provided that: "Section 5312(a)(2)(Y) of title 31, United States Code, as added by paragraph (1), shall take effect on the effective date of the final rules issued by the Secretary of the Treasury pursuant to subsection (b) \[see note below\]."
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+
+#### Rulemaking
+
+Pub. L. 116–283, div. F, title LXI, §6110(b), Jan. 1, 2021, 134 Stat. 4562, provided that:
+
+"(1)
+
+In general.—Not later than 360 days after the date of enactment of this Act \[Jan. 1, 2021\], the Secretary of the Treasury shall issue proposed rules to carry out the amendments made by subsection (a) \[amending this section\].
+
+"(2)
+
+Considerations.—Before issuing a proposed rule under paragraph (1), the Secretary of the Treasury (acting through the Director of the FinCEN \[Financial Crimes Enforcement Network of the Department of the Treasury\]), in coordination with the Federal Bureau of Investigation, the Attorney General, and Homeland Security Investigations, shall consider—
+
+&emsp;"(A) the appropriate scope for the rulemaking, including determining which persons should be subject to the rulemaking, by size, type of business, domestic or international geographical locations, or otherwise;
+
+&emsp;"(B) the degree to which the regulations should focus on high-value trade in antiquities, and on the need to identify the actual purchasers of such antiquities, in addition to the agents or intermediaries acting for or on behalf of such purchasers;
+
+&emsp;"(C) the need, if any, to identify persons who are dealers, advisors, consultants, or any other persons who engage as a business in the trade in antiquities;
+
+&emsp;"(D) whether thresholds should apply in determining which persons to regulate;
+
+&emsp;"(E) whether certain exemptions should apply to the regulations; and
+
+&emsp;"(F) any other matter the Secretary determines appropriate."
 
 #### Termination of Trust Territory of the Pacific Islands
 

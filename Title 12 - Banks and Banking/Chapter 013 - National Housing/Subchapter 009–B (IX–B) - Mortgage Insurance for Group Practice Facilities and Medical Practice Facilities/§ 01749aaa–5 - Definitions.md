@@ -18,7 +18,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(B) a private nonprofit agency or organization, established for the purpose of improving the availability of medical, osteopathic, optometric, dental or podiatric care in the community or having some function or functions related to the provision of such care, which will, through lease or other arrangement, make the group practice facility with respect to which assistance has been requested under this subchapter available to a medical or dental group for use by it.
 
-&emsp;(5) The term "nonprofit organization" means a corporation, association, foundation, trust, or other organization no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual except, in the case of an organization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
+&emsp;(5) The term "nonprofit organization" means a corporation, association, foundation, trust, or other organization no part of the net earnings of which inures, or may lawfullyinure, to the benefit of any private shareholder or individual except, in the case of an organization the purposes of which include the provision of personal health services to its members or subscribers or their dependents under a plan of such organization for the provision of such services to them (which plan may include the provision of other services or insurance benefits to them), through the provision of such health services (or such other services or insurance benefits) to such members or subscribers or dependents under such plan.
 
 &emsp;(6) The term "State" includes the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the District of Columbia.
 
@@ -29,6 +29,8 @@ For the purposes of this subchapter—
 &emsp;(9) The term "mortgagor" means the original borrower under a mortgage and his or its successors and assigns.
 
 (June 27, 1934, ch. 847, title XI, §1106, as added Pub. L. 89–754, title V, §502(a), Nov. 3, 1966, 80 Stat. 1276; amended Pub. L. 93–383, title III, §312(a)(6), (b), Aug. 22, 1974, 88 Stat. 683, 684.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

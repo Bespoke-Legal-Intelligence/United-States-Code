@@ -66,7 +66,7 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;&emsp;(ii) require that the State transportation department or local transportation agency receive concurrence from the Secretary before carrying out an activity under clause (i); and
 
-&emsp;&emsp;&emsp;(iii) preclude the design-build contractor from proceeding with final design or construction of any permanent improvement prior to completion of the process under such section 102.
+&emsp;&emsp;&emsp;(iii) preclude the design-build contractor from proceeding with final design or construction of any permanent improvementprior to completion of the process under such section 102.
 
 &emsp;&emsp;(E)
 
@@ -204,6 +204,8 @@ Positive protective measures defined.—In this subsection, the term "positive p
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–59, title I, §§1110(b), 1503, Aug. 10, 2005, 119 Stat. 1170, 1238; Pub. L. 109–115, div. A, title I, §174, Nov. 30, 2005, 119 Stat. 2426; Pub. L. 112–141, div. A, title I, §1303(a), July 6, 2012, 126 Stat. 531.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the SAFETEA–LU, referred to in subsec. (b)(3)(D), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
@@ -238,7 +240,7 @@ Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F). Former subpar. (F)
 
 Subsec. (b)(2)(G). Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F).
 
-Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
+Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary hadapproved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
 
 Subsecs. (f), (g). Pub. L. 109–59, §1110(b), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which read as follows: "The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision."
 
@@ -277,6 +279,8 @@ Subsec. (e). Pub. L. 97–424, §112(2), inserted exception relating to a situat
 <b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out provision that all findings by the Secretary that a method other than competitive bidding is in the public interest be reported in writing to the Committees on Public Works of the Senate and the House of Representatives.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–495 required that contracts for the construction of each project be awarded only on the basis of the lowest responsive bid by a bidder meeting established criteria of responsibility and required that, to be imposed as a condition precedent, requirements and obligations have been specifically set forth in the advertised specifications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

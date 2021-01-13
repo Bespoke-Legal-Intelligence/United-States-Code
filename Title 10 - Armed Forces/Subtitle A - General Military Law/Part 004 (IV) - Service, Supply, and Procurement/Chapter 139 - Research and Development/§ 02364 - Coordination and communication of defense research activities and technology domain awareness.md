@@ -40,9 +40,23 @@ Definitions.—In this section, the term "Defense research facility" means a Dep
 
 &emsp;(2) applied research known as exploratory development.
 
-(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390; Pub. L. 113–291, div. A, title II, §213, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 114–92, div. A, title II, §214(a), Nov. 25, 2015, 129 Stat. 767; Pub. L. 115–91, div. A, title X, §1081(a)(34), Dec. 12, 2017, 131 Stat. 1596.)
+(Added Pub. L. 99–661, div. A, title II, §234(c)(1), Nov. 14, 1986, 100 Stat. 3848; amended Pub. L. 100–26, §§3(1)(A), 7(a)(9), Apr. 21, 1987, 101 Stat. 273, 278; Pub. L. 100–180, div. A, title XII, §1231(10)(A), (B), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 104–106, div. A, title VIII, §805, Feb. 10, 1996, 110 Stat. 390; Pub. L. 113–291, div. A, title II, §213, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 114–92, div. A, title II, §214(a), Nov. 25, 2015, 129 Stat. 767; Pub. L. 115–91, div. A, title X, §1081(a)(34), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–283, div. A, title XVIII, §§1841(d)(1), 1844(d)(2), Jan. 1, 2021, 134 Stat. 4243, 4246.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(d)(1), 1844(d)(2), Jan. 1, 2021, 134 Stat. 4151, 4243, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) the section catchline and subsection (a) of this section are transferred to chapter 301 of this title, inserted after section 4009, as transferred and redesignated by section 1841(c) of Pub. L. 116–283, and redesignated as section 4014 of this title; and</i>
+
+<i>(2) subsections (b) and (c) of this section are transferred to chapter 307 of this title, inserted after the section heading for section 4142 as added by section 1844(d)(1) of Pub. L. 116–283, and redesignated as subsections (a) and (b), respectively, of section 4142 of this title.</i>
+
+<i>See Effective Date of 2021 Amendment note below.</i>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1841(d)(1), redesignated section catchline and subsec. (a) as section 4009 of this title.
+
+Subsecs. (b), (c). Pub. L. 116–283, §1844(d)(2), redesignated subsecs. (b) and (c) as subsecs. (a) and (b), respectively, of section 4142 of this title.
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–91 substituted "convey" for "conveys".
 
@@ -85,6 +99,10 @@ Subsec. (c)(2). Pub. L. 100–26, §7(a)(9)(A), substituted "the decision" for "
 Subsec. (c)(3). Pub. L. 100–26, §7(a)(9)(B), substituted "the decision by an appropriate official of the Department of Defense selecting" for "\[a\]/\[the\] selection by an appropriate official of the Department of Defense of".
 
 Subsec. (c)(4). Pub. L. 100–26, §7(a)(9)(C), substituted "the decision by an appropriate official of the Department of Defense approving" for "approval by an appropriate official of the Department of Defense for".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -134,11 +152,11 @@ Collaboration.—The Secretary of Defense may carry out activities to prioritize
 
 "(b)
 
-Open Campus Program.—In carrying out subsection (a), the Secretary, acting through the Commander of the Air Force Research Laboratory, the Commander of the Army Research, Development and Engineering Command, and the Chief of Naval Research, or such other officials of the Department as the Secretary considers appropriate, may develop and implement an open campus program for the Department science and technology reinvention laboratories which shall be modeled after the open campus program of the Army Research Laboratory."
+Open Campus Program.—In carrying out subsection (a), the Secretary, acting through the Commander of the Air Force Research Laboratory, the Commander of the Army Research, Development and Engineering Command, and the Chief of Naval Research, or such other officials of the Department as the Secretary considers appropriate, may develop and implement an open campus program for the Department science and technology reinvention laboratories whichshall be modeled after the open campus program of the Army Research Laboratory."
 
 #### Specification of Certain Duties of the Defense Technical Information Center
 
-Pub. L. 115–232, div. A, title IX, §905, Aug. 13, 2018, 132 Stat. 1922, provided that:
+Pub. L. 115–232, div. A, title IX, §905, Aug. 13, 2018, 132 Stat. 1922, as amended by Pub. L. 116–283, div. A, title XVIII, §1842(c)(2), Jan. 1, 2021, 134 Stat. 4244, provided that:
 
 "(a)
 
@@ -151,6 +169,8 @@ In General.—In addition to any other duties specified for the Defense Technica
 "(b)
 
 Action Plan.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan of action for the commencement by the Defense Technical Information Center of the duties specified in subsection (a)."
+
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1842(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 905(a)(1) of Pub. L. 115–232, set out above, is amended by striking "section 2365" and inserting "section 4066".\]</i>
 
 #### Performance Review Process
 

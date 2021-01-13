@@ -36,7 +36,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### (1) Interim reports
 
-&emsp;On or before September 30 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data andmaterials that the Commissioner may consider appropriate.
+&emsp;On or before September 30 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection <sup>1</sup> together with any related data and materials that the Commissioner may consider appropriate.
 
 #### (2) Termination and final report
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 114–74, §823, added subsec. (f).
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–203, §401(1), substituted "initiated under subsection (a) on or before December 17, 2005" for "conducted under subsection (a)".
 
-Subsec. (d)(2). Pub. L. 108–203, §401(2), substituted "The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005." for "The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999."
+Subsec. (d)(2). Pub. L. 108–203, §401(2), substituted "The authority to initiate projects under the precedingprovisions of this section shall terminate on December 18, 2005." for "The authority under the preceding provisions of this section (including any waiver granted pursuant to subsection (c) of this section) shall terminate 5 years after December 17, 1999."
 
 #### Demonstration Projects Providing for Reductions in Disability Insurance Benefits Based on Earnings
 

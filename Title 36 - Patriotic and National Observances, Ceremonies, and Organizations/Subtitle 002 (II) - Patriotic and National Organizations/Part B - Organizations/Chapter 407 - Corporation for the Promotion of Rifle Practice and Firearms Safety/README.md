@@ -36,6 +36,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328, div. A, title X, §1096(c), Dec. 23, 2016, 130 Stat. 2441, added item 40728B.

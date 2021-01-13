@@ -24,9 +24,13 @@ Each State receiving funds under this chapter shall—
 
 (June 6, 1933, ch. 49, §10, 48 Stat. 116; Pub. L. 97–300, title VI, §601(f), formerly title V, §501(f), Oct. 13, 1982, 96 Stat. 1396; renumbered title VI, §601(f), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–300 amended section generally, substituting provisions relating to State maintenance of records and investigations by the Secretary and Comptroller General for provisions which limited expenditures in States prior to adoption of State systems to the current fiscal year and two fiscal years thereafter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

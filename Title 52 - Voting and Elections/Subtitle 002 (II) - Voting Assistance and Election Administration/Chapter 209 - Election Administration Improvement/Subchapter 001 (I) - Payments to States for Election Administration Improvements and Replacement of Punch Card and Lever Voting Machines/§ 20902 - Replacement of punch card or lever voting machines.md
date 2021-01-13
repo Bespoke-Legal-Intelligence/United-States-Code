@@ -8,7 +8,7 @@
 
 #### (2) Use of funds
 
-&emsp;A State shall use the funds provided under a payment under this section (either directly oras reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
+&emsp;A State shall use the funds provided under a payment under this section (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
 
 &emsp;&emsp;(A) does not use punch cards or levers;
 
@@ -32,7 +32,7 @@
 
 &emsp;A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
 
-&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3);
+&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001,under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3);
 
 &emsp;&emsp;(B) certifications that the State will continue to comply with the laws described in section 21145 of this title;
 
@@ -92,6 +92,8 @@ For purposes of this section, a "punch card voting system" includes any of the f
 
 (Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670; Pub. L. 110–28, title VI, §6301(a), May 25, 2007, 121 Stat. 171; Pub. L. 111–8, div. D, title VI, §625(a), Mar. 11, 2009, 123 Stat. 678.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 15302 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -101,6 +103,8 @@ Section was formerly classified to section 15302 of Title 42, The Public Health 
 <b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–8 substituted "November 1, 2010" for "March 1, 2008".
 
 <b>2007</b>—Subsec. (a)(3)(B). Pub. L. 110–28 substituted "March 1, 2008" for "January 1, 2006".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

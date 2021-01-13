@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (6) Exception for long-time residents of same principal residence
 
-&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
+&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned andused the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
 
 #### (d) Exceptions
 
@@ -98,7 +98,7 @@ No credit under subsection (a) shall be allowed to any taxpayer for any taxable 
 
 &emsp;(1) the taxpayer is a nonresident alien,
 
-&emsp;(2) the taxpayer disposes of such residence (or such residence ceases to be the principalresidence of the taxpayer (and, if married, the taxpayer's spouse)) before the close of such taxable year,
+&emsp;(2) the taxpayer disposes of such residence (or such residence ceases to be the principal residence of the taxpayer (and, if married, the taxpayer's spouse)) before the close of such taxable year,
 
 &emsp;(3) a deduction under section 151 with respect to such taxpayer is allowable to another taxpayer for such taxable year, or
 

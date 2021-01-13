@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 &emsp;(vii) Roads, highways, railroads, tunnels, tramways, airports, landing strips, docks, and other systems of general transportation.
 
-> Any system described in this subparagraph includes such related structures and facilities (both temporary and permanent) along the route of the system as may be minimally necessary for the construction, operation, and maintenance of the system. Such related structures and facilities shall be described in the application required by section 3164 of this title, and shall be approved or disapproved in accordance with the procedures set forth in this subchapter.
+> Any system described in this subparagraph includes such related structures and facilities\(both temporary and permanent) along the route of the system as may be minimally necessary for the construction, operation, and maintenance of the system. Such related structures and facilities shall be described in the application required by section 3164 of this title, and shall be approved or disapproved in accordance with the procedures set forth in this subchapter.
 
 (Pub. L. 96–487, title XI, §1102, Dec. 2, 1980, 94 Stat. 2458.)
 

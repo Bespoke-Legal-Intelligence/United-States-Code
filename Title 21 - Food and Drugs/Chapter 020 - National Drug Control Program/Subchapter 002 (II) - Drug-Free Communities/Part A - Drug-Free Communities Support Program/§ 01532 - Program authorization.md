@@ -62,11 +62,11 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;The coalition shall, with respect to the community involved—
 
-&emsp;&emsp;(A) have as its principal mission the reduction of substance use and misuse, which, at a minimum, includes the use and abuse ofdrugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
+&emsp;&emsp;(A) have as its principal mission the reduction of substance use and misuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance use and misuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
-&emsp;&emsp;(C)(i) provide a description of substance use and misuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
+&emsp;&emsp;(C)(i) provide a description of substance use and misuse prevention and treatmentprograms and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
 &emsp;&emsp;(ii) identify substance use and misuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -158,7 +158,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
+&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grantunder this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
 
 #### (ii) Matching requirement
 
@@ -224,7 +224,9 @@ Funds appropriated for the substance use and misuse activities of a coalition th
 
 In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
-(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(3)(A), (b)(4), formerly §8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat.4111, renumbered Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), (ii)(II), (iii), (3), Nov. 27, 2019, 133 Stat. 1157, 1158.)
+(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819; Pub. L. 109–469, title VIII, §§802(a), 803, 804, Dec. 29, 2006, 120 Stat. 3535; Pub. L. 115–271, title VIII, §8203(a)(3)(A), (b)(4), formerly §8203(a)(4)(A), (b)(4), Oct. 24, 2018, 132 Stat. 4111, renumbered Pub. L. 116–74, §2(c)(1)(A)(i)(IV), Nov. 27, 2019, 133 Stat. 1157; Pub. L. 116–74, §2(c)(1)(A)(i)(V), (ii)(II), (iii), (3), Nov. 27, 2019, 133 Stat. 1157, 1158.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -259,6 +261,8 @@ Subsec. (b)(4). Pub. L. 109–469, §802(a), as amended by Pub. L. 115–271, §
 Subsec. (c). Pub. L. 107–82, §1(g), added subsec. (c).
 
 Subsec. (d). Pub. L. 107–82, §1(h), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

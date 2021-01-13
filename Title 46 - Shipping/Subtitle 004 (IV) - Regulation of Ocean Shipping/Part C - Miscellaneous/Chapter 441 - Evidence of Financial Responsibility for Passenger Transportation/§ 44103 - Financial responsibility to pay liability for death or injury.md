@@ -26,7 +26,7 @@ Multiple vessels.—If the owner or charterer is operating more than one vessel 
 
 (c)
 
-Availability To Pay Judgment.—The amount determined under subsection (b) shall be available to pay a judgment for damages (whether less than or more than $20,000) for death or injury to a passenger or other individual on a voyage to or from a port in the United States.
+Availability To Pay Judgment.—The amount determined under subsection (b) shall beavailable to pay a judgment for damages (whether less than or more than $20,000) for death or injury to a passenger or other individual on a voyage to or from a port in the United States.
 
 (d)
 

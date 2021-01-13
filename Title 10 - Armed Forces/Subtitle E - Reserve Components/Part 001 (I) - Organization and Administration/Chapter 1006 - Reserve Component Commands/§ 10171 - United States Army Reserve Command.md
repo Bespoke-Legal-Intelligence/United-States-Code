@@ -14,7 +14,7 @@ Assignment of Forces.—The Secretary of the Army—
 
 &emsp;(1) shall assign to the United States Army Reserve Command all forces of the Army Reserve in the continental United States other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title; and
 
-&emsp;(2) except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Army specified in section 7013 of this title, shall assign all such forces of the Army Reserve to the commander of the United States Atlantic Command.
+&emsp;(2) except as otherwise directed by the Secretary of Defense in the case of forces assignedto carry out functions of the Secretary of the Army specified in section 7013 of this title, shall assign all such forces of the Army Reserve to the commander of the United States Atlantic Command.
 
 (Added Pub. L. 104–201, div. A, title XII, §1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 

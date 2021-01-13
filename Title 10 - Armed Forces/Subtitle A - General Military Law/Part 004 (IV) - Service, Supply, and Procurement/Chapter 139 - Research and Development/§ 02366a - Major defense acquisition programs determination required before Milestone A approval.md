@@ -20,7 +20,7 @@ Written Determination Required.—A major defense acquisition program or subprog
 
 &emsp;(3) if the program duplicates a capability already provided by an existing system, the duplication provided by such program is necessary and appropriate;
 
-&emsp;(4) that, with respect to any identified areas of risk, including risks determined by theidentification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment, there is a plan to reduce the risk;
+&emsp;(4) that, with respect to any identified areas of risk, including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment, there is a plan to reduce the risk;
 
 &emsp;(5) that planning for sustainment has been addressed and that a determination of applicability of core logistics capabilities requirements has been made;
 
@@ -84,7 +84,7 @@ Definitions.—In this section:
 
 &emsp;(6) the term "major subprogram" means a major subprogram of a major defense acquisition program designated under section 2430a(a)(1) of this title.
 
-&emsp;(7) The term "milestone decision authority", with respect to a major defense acquisitionprogram or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
+&emsp;(7) The term "milestone decision authority", with respect to a major defense acquisition program or a major subprogram, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or subprogram, including authority to approve entry of the program or subprogram into the next phase of the acquisition process.
 
 &emsp;(8) The term "fielding target" has the meaning given that term in section 2448a(a) of this title.
 
@@ -93,6 +93,10 @@ Definitions.—In this section:
 &emsp;(10) The term "congressional intelligence committees" has the meaning given that term in section 437(c) of this title.
 
 (Added Pub. L. 110–181, div. A, title IX, §943(a)(1), Jan. 28, 2008, 122 Stat. 288, §2366b; renumbered §2366a and amended Pub. L. 110–417, \[div. A\], title VIII, §813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §101(d)(3), title II, §§201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, §814(b), title X, §1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, §801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, §322(e)(1), title X, §1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, §823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, §831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, §1731(a)(44), Dec. 20, 2019, 133 Stat. 1814.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(d)(1)(A), Jan. 1, 2021, 134 Stat. 4151, 4255, provided that, effective Jan. 1, 2022, with addi</i><i>tional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, as added by section 1847(a) of Pub. L. 116–283, inserted after the table of sections at the beginning of subchapter III, and redesignated as section 4251 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -180,6 +184,10 @@ Subsec. (b). Pub. L. 110–417, §813(e)(1)(C), substituted "major defense acqui
 
 Subsec. (c)(1). Pub. L. 110–417, §813(e)(1)(D), substituted " 'major defense acquisition program' " for " 'major system' " and "2430" for "2302(5)".
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title III, §322(f), Jan. 2, 2013, 126 Stat. 1695, provided that: "This section \[enacting sections 2460 and 2464 of this title, amending this section and sections 2366b, 2460, and 2464 of this title, repealing sections 2460 and 2464 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on December 31, 2011, the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\], immediately after the enactment of that Act."
@@ -266,7 +274,7 @@ Pub. L. 112–81, div. A, title VIII, §801(c), Dec. 31, 2011, 125 Stat. 1483, a
 
 #### Guidance
 
-Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 daysafter the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
+Pub. L. 112–81, div. A, title VIII, §801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) \[amending this section and section 2366b of this title\], and subsection (c) \[set out above\], in a manner that is consistent across the Department of Defense."
 
 #### Application to Ongoing Programs
 

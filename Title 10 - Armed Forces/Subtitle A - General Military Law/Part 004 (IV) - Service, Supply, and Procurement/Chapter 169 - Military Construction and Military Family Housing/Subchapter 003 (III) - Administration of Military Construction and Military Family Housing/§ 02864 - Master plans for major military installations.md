@@ -20,7 +20,7 @@ Plans Required.—(1) At a time interval prescribed by the Secretary concerned (
 
 Transportation Component.—(1) The transportation component of the master plan for a major military installation shall be developed and updated in consultation with the metropolitan planning organization designated for the metropolitan planning area in which the military installation is located.
 
-(2) To address the requirements under subsection (a) and paragraph (1), each installationmaster plan shall include consideration of ways to diversify and connect transit systems.
+(2) To address the requirements under subsection (a) and paragraph (1), each installation master plan shall include consideration of ways to diversify and connect transit systems.
 
 (c)
 
@@ -46,7 +46,7 @@ Military Installation Resilience Component.—To address military installation r
 
 (d)
 
-Report.—Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees a report listing all master plans completed pursuant to this section in the prior calendar year.
+Report.—Not later than March 1 of each year, the Secretary of Defense shall submit tothe congressional defense committees a report listing all master plans completed pursuant to this section in the prior calendar year.
 
 (e)
 
@@ -104,7 +104,7 @@ In General.—The Secretary of Defense shall—
 
 "(b)
 
-Military Installation Resilience.—In this section, the term 'military installation resilience' has themeaning given such term in section 101(e)(8) of title 10, United States Code."
+Military Installation Resilience.—In this section, the term 'military installation resilience' has the meaning given such term in section 101(e)(8) of title 10, United States Code."
 
 #### Incorporation of Changing Environmental Condition Projections in Military Construction Designs and Modifications
 
@@ -142,5 +142,5 @@ Amendments required.—Not later than 30 days after the date of the enactment of
 
 Notification.—If the Secretary of Defense determines that a projection other than a projection described in subparagraph (A)(ii) is more appropriate for use in amending the Unified Facilities Criteria, the Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] of such determination, which shall include the rationale underlying such determination and a description of such other projection."
 
-\[Section 1731(b)(4) of Pub. L. 116–92, which directed amendment of section 2805(c) of Pub. L. 115–232, set out above, by substituting "Unified Facilities Criteria" for "United Facilities Criteria", was not executed in light of the amendment by section 2804(c)(2) of Pub. L. 116–92, which substituted "Unified Facilities Criteria (UFC) 1-200-01 and UFC 1-200-02" for "United Facilities Criteria (UFC) 2–100–01 and UFC 2–100–02".\]
+\[Section 1731(b)(4) of Pub. L. 116–92, which directed amendment of section 2805(c) of Pub. L. 115–232, set out above, by substituting "Unified Facilities Criteria" for "United Facilities Criteria", was not executed in light of the amendment by section 2804(c)(2) of Pub. L. 116–92,which substituted "Unified Facilities Criteria (UFC) 1-200-01 and UFC 1-200-02" for "United Facilities Criteria (UFC) 2–100–01 and UFC 2–100–02".\]
 

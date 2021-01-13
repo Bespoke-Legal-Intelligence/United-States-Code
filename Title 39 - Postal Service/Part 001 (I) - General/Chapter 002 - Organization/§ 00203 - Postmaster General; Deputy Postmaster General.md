@@ -1,8 +1,10 @@
 ### §203. Postmaster General; Deputy Postmaster General
 
-The chief executive officer of the Postal Service is the Postmaster General appointed undersection 202(c) of this title. The alternate chief executive officer of the Postal Service is the Deputy Postmaster General appointed under section 202(d) of this title.
+The chief executive officer of the Postal Service is the Postmaster General appointed under section 202(c) of this title. The alternate chief executive officer of the Postal Service is the Deputy Postmaster General appointed under section 202(d) of this title.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 721.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

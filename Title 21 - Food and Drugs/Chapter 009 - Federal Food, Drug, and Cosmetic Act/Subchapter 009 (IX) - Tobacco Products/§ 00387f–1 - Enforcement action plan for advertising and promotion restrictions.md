@@ -26,9 +26,13 @@
 
 (Pub. L. 111–31, div. A, title I, §105, June 22, 2009, 123 Stat. 1841.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

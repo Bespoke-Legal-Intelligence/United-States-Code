@@ -52,7 +52,7 @@ From amounts made available under subsection (a)(1) to carry out this subsection
 
 &emsp;(2) in order to—
 
-&emsp;&emsp;(A) foster innovation through the identification and promotion of promising andproven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or
+&emsp;&emsp;(A) foster innovation through the identification and promotion of promising and proven career and technical education programs, practices, and strategies, which may include programs, practices, and strategies that prepare individuals for nontraditional fields; or
 
 &emsp;&emsp;(B) promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.
 

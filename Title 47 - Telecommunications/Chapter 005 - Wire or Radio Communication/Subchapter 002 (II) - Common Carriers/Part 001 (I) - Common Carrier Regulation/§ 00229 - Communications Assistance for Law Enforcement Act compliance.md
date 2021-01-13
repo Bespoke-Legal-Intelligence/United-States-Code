@@ -42,6 +42,8 @@ For purposes of this chapter, a violation by an officer or employee of any polic
 
 (June 19, 1934, ch. 652, title II, §229, as added Pub. L. 103–414, title III, §301, Oct. 25, 1994, 108 Stat. 4292.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Communications Assistance for Law Enforcement Act, referred to in subsecs. (a) and (e), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.

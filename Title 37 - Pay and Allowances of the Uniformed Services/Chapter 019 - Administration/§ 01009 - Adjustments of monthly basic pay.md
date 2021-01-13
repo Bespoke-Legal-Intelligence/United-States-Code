@@ -38,11 +38,13 @@ Protection of Member's Total Compensation While Performing Certain Duty.—(1) T
 
 Presidential Determination of Need for Alternative Pay Adjustment.—(1) If, because of national emergency or serious economic conditions affecting the general welfare, the President considers the pay adjustment which would otherwise be required by this section in any year to be inappropriate, the President shall prepare and transmit to Congress before September 1 of the preceding year a plan for such alternative pay adjustments as the President considers appropriate, together with the reasons therefor.
 
-(2) In evaluating an economic condition affecting the general welfare under this subsection, the President shall consider pertinent economic measures including the Indexes of Leading Economic Indicators, the Gross Domestic Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the ImplicitPrice Deflator for Personal Consumption Expenditures.
+(2) In evaluating an economic condition affecting the general welfare under this subsection, the President shall consider pertinent economic measures including the Indexes of Leading Economic Indicators, the Gross Domestic Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the Implicit Price Deflator for Personal Consumption Expenditures.
 
 (3) The President shall include in the plan submitted to Congress under paragraph (1) an assessment of the impact that the alternative pay adjustments proposed in the plan would have on the Government's ability to recruit and retain well-qualified persons for the uniformed services.
 
 (Added Pub. L. 93–419, §4, Sept. 19, 1974, 88 Stat. 1152; amended Pub. L. 94–361, title III, §303, July 14, 1976, 90 Stat. 925; Pub. L. 96–342, title VIII, §803, Sept. 8, 1980, 94 Stat. 1091; Pub. L. 96–513, title V, §516(24), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §642(c), Feb. 10, 1996, 110 Stat. 368; Pub. L. 105–85, div. A, title VI, §§604(a)(1), 605, Nov. 18, 1997, 111 Stat. 1783, 1784; Pub. L. 106–65, div. A, title VI, §602(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 108–136, div. A, title VI, §602, Nov. 24, 2003, 117 Stat. 1498.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -92,6 +94,8 @@ Subsec. (f). Pub. L. 96–342, §803(6), struck out "among the three elements of
 
 Subsecs. (c) to (f). Pub. L. 94–361, §303(b), added subsecs. (c) to (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–65, div. A, title VI, §602(b), Oct. 5, 1999, 113 Stat. 649, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2000."
@@ -108,87 +112,89 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Pub. L. 93–419, §9, Sept. 19, 1974, 88 Stat. 1153, provided that: "This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\]."
 
-#### Increase in Basic Pay for Fiscal Year 2020
+#### Increase in Basic Pay
 
-Pub. L. 116–92, div. A, title VI, §609, Dec. 20, 2019, 133 Stat. 1425, provided that: "Effective on January 1, 2020, the rates of monthly basic pay for members of the uniformed services are increased by 3.1 percent."
+Pub. L. 116–283, div. A, title VI, §601, Jan. 1, 2021, 134 Stat. 3670, provided that: "Effective on January 1, 2021, the rates of monthly basic pay for members of the uniformed services are increased by 3.0 percent."
 
-Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
+Provisions relating to adjustment of compensation for members of the uniformed services for prior years were contained in the following acts:
+
+Pub. L. 116–92, div. A, title VI, §609, Dec. 20, 2019, 133 Stat. 1425.
 
 Pub. L. 115–91, div. A, title VI, §601, Dec. 12, 2017, 131 Stat. 1417.
 
-<b>2016</b>—Pub. L. 114–328, div. A, title VI, §601, Dec. 23, 2016, 130 Stat. 2155.
+Pub. L. 114–328, div. A, title VI, §601, Dec. 23, 2016, 130 Stat. 2155.
 
-<b>2013</b>—Pub. L. 112–239, div. A, title VI, §601, Jan. 2, 2013, 126 Stat. 1773.
+Pub. L. 112–239, div. A, title VI, §601, Jan. 2, 2013, 126 Stat. 1773.
 
-<b>2010</b>—Pub. L. 111–84, div. A, title VI, §601, Oct. 28, 2009, 123 Stat. 2347.
+Pub. L. 111–84, div. A, title VI, §601, Oct. 28, 2009, 123 Stat. 2347.
 
-<b>2009</b>—Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482.
+Pub. L. 110–417, \[div. A\], title VI, §601, Oct. 14, 2008, 122 Stat. 4482.
 
-<b>2008</b>—Pub. L. 110–181, div. A, title VI, §601, Jan. 28, 2008, 122 Stat. 145.
+Pub. L. 110–181, div. A, title VI, §601, Jan. 28, 2008, 122 Stat. 145.
 
-<b>2007</b>—Pub. L. 109–364, div. A, title VI, §601, Oct. 17, 2006, 120 Stat. 2240.
+Pub. L. 109–364, div. A, title VI, §601, Oct. 17, 2006, 120 Stat. 2240, as amended by Pub. L. 116–283, div. A, title IX, §925(b), Jan. 1, 2021, 134 Stat. 3826.
 
-<b>2006</b>—Pub. L. 109–163, div. A, title VI, §601, Jan. 6, 2006, 119 Stat. 3286.
+Pub. L. 109–163, div. A, title VI, §601, Jan. 6, 2006, 119 Stat. 3286.
 
-<b>2005</b>—Pub. L. 108–375, div. A, title VI, §601, Oct. 28, 2004, 118 Stat. 1943.
+Pub. L. 108–375, div. A, title VI, §601, Oct. 28, 2004, 118 Stat. 1943.
 
-<b>2004</b>—Pub. L. 108–136, div. A, title VI, §601, Nov. 24, 2003, 117 Stat. 1495, as amended by Pub. L. 109–148, div. A, title VIII, §8124(a)(1), Dec. 30, 2005, 119 Stat. 2727.
+Pub. L. 108–136, div. A, title VI, §601, Nov. 24, 2003, 117 Stat. 1495, as amended by Pub. L. 109–148, div. A, title VIII, §8124(a)(1), Dec. 30, 2005, 119 Stat. 2727.
 
-<b>2003</b>—Pub. L. 107–314, div. A, title VI, §601, Dec. 2, 2002, 116 Stat. 2563.
+Pub. L. 107–314, div. A, title VI, §601, Dec. 2, 2002, 116 Stat. 2563.
 
-<b>2002</b>—Pub. L. 107–107, div. A, title VI, §601, Dec. 28, 2001, 115 Stat. 1129.
+Pub. L. 107–107, div. A, title VI, §601, Dec. 28, 2001, 115 Stat. 1129.
 
-<b>2001</b>—Pub. L. 106–398, §1 \[\[div. A\], title VI, §§601, 602\], Oct. 30, 2000, 114 Stat. 1654, 1654A–143.
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §§601, 602\], Oct. 30, 2000, 114 Stat. 1654, 1654A–143.
 
-<b>2000</b>—Pub. L. 106–65, div. A, title VI, §601(a)–(c), Oct. 5, 1999, 113 Stat. 645, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292.
+Pub. L. 106–65, div. A, title VI, §601(a)–(c), Oct. 5, 1999, 113 Stat. 645, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(C)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292.
 
-<b>1999</b>—Pub. L. 105–261, div. A, title VI, §601, Oct. 17, 1998, 112 Stat. 2036.
+Pub. L. 105–261, div. A, title VI, §601, Oct. 17, 1998, 112 Stat. 2036.
 
-<b>1998</b>—Pub. L. 105–85, div. A, title VI, §601, Nov. 18, 1997, 111 Stat. 1771.
+Pub. L. 105–85, div. A, title VI, §601, Nov. 18, 1997, 111 Stat. 1771.
 
-<b>1997</b>—Pub. L. 104–201, div. A, title VI, §601, Sept. 23, 1996, 110 Stat. 2539.
+Pub. L. 104–201, div. A, title VI, §601, Sept. 23, 1996, 110 Stat. 2539.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title VI, §601, Feb. 10, 1996, 110 Stat. 356.
+Pub. L. 104–106, div. A, title VI, §601, Feb. 10, 1996, 110 Stat. 356.
 
-<b>1995</b>—Pub. L. 103–337, div. A, title VI, §601(a), (b), Oct. 5, 1994, 108 Stat. 2779.
+Pub. L. 103–337, div. A, title VI, §601(a), (b), Oct. 5, 1994, 108 Stat. 2779.
 
-<b>1994</b>—Pub. L. 103–160, div. A, title VI, §601, Nov. 30, 1993, 107 Stat. 1677.
+Pub. L. 103–160, div. A, title VI, §601, Nov. 30, 1993, 107 Stat. 1677.
 
-<b>1993</b>—Pub. L. 102–484, div. A, title VI, §601, Oct. 23, 1992, 106 Stat. 2420.
+Pub. L. 102–484, div. A, title VI, §601, Oct. 23, 1992, 106 Stat. 2420.
 
 Pub. L. 102–484, div. D, title XLIV, §4402, Oct. 23, 1992, 106 Stat. 2701, as amended by Pub. L. 103–160, div. A, title VI, §602(a), (b)(1), Nov. 30, 1993, 107 Stat. 1678.
 
-<b>1992</b>—Pub. L. 102–190, div. A, title VI, §601, Dec. 5, 1991, 105 Stat. 1372.
+Pub. L. 102–190, div. A, title VI, §601, Dec. 5, 1991, 105 Stat. 1372.
 
 Pub. L. 102–190, div. A, title XI, §1111(c), Dec. 5, 1991, 105 Stat. 1491.
 
-<b>1991</b>—Pub. L. 101–510, div. A, title VI, §601, Nov. 5, 1990, 104 Stat. 1575.
+Pub. L. 101–510, div. A, title VI, §601, Nov. 5, 1990, 104 Stat. 1575.
 
-<b>1990</b>—Pub. L. 101–189, div. A, title VI, §601(a), (b), Nov. 29, 1989, 103 Stat. 1444.
+Pub. L. 101–189, div. A, title VI, §601(a), (b), Nov. 29, 1989, 103 Stat. 1444.
 
-<b>1989</b>—Pub. L. 100–456, div. A, title VI, §601(a), (b), Sept. 29, 1988, 102 Stat. 1976.
+Pub. L. 100–456, div. A, title VI, §601(a), (b), Sept. 29, 1988, 102 Stat. 1976.
 
-<b>1988</b>—Pub. L. 100–180, div. A, title VI, §601(a), (b), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, §110(b), Dec. 22, 1987, 101 Stat. 1329–436.
+Pub. L. 100–180, div. A, title VI, §601(a), (b), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, §110(b), Dec. 22, 1987, 101 Stat. 1329–436.
 
-<b>1987</b>—Pub. L. 99–661, div. A, title VI, §601(a), (b), title XIII, §1310(c), Nov. 14, 1986, 100 Stat. 3873, 3983.
+Pub. L. 99–661, div. A, title VI, §601(a), (b), title XIII, §1310(c), Nov. 14, 1986, 100 Stat. 3873, 3983.
 
 Pub. L. 99–500, §144(b), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, §144(b), Oct. 30, 1986, 100 Stat. 3341–353.
 
-<b>1986</b>—Pub. L. 99–145, title VI, §601, Nov. 8, 1985, 99 Stat. 635.
+Pub. L. 99–145, title VI, §601, Nov. 8, 1985, 99 Stat. 635.
 
-<b>1985</b>—Pub. L. 98–525, title VI, §601, Oct. 19, 1984, 98 Stat. 2533.
+Pub. L. 98–525, title VI, §601, Oct. 19, 1984, 98 Stat. 2533.
 
-<b>1984</b>—Pub. L. 98–94, title IX, §901, Sept. 24, 1983, 97 Stat. 634.
+Pub. L. 98–94, title IX, §901, Sept. 24, 1983, 97 Stat. 634.
 
-<b>1982</b>—Pub. L. 97–60, title I, §101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, §35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, §1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986.
+Pub. L. 97–60, title I, §101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, §35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, §1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986.
 
-<b>1981</b>—Pub. L. 96–342, title VIII, §801, Sept. 8, 1980, 94 Stat. 1090.
-
-<b>1976</b>—
+Pub. L. 96–342, title VIII, §801, Sept. 8, 1980, 94 Stat. 1090.
 
 Pub. L. 94–106, title VIII, §819, Oct. 7, 1975, 89 Stat. 544.
 
-<b>1975</b>—Pub. L. 93–419, §§5–7, Sept. 19, 1974, 88 Stat. 1153.
+Pub. L. 93–419, §§5–7, Sept. 19, 1974, 88 Stat. 1153.
+
+#### <b>Executive Documents</b>
 
 #### Adjustment of Pay Rates
 

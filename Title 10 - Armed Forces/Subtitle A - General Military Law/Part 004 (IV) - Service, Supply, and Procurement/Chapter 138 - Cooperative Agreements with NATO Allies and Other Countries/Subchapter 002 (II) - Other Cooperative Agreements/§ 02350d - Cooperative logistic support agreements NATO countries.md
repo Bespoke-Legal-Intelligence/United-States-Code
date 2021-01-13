@@ -38,7 +38,7 @@ Application of Arms Export Control Act.—Any transfer of defense articles or de
 
 Supplemental Authority.—The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.
 
-(Added and amended Pub. L. 101–189, div. A, title IX, §§931(c), 938(c), Nov. 29, 1989, 103 Stat. 1534, 1539; Pub. L. 102–484, div. A, title VIII, §843(b)(2), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 113–66, div. A, title XII, §1250(a), Dec. 26, 2013, 127 Stat. 926; Pub. L. 115–232, div. A, title XII, §1279(a), Aug. 13, 2018, 132 Stat. 2072.)
+(Added and amended Pub. L. 101–189, div. A, title IX, §§931(c), 938(c), Nov. 29, 1989, 103 Stat. 1534, 1539; Pub. L. 102–484, div. A, title VIII, §843(b)(2), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 113–66, div. A, title XII, §1250(a), Dec. 26, 2013, 127 Stat. 926;Pub. L. 115–232, div. A, title XII, §1279(a), Aug. 13, 2018, 132 Stat. 2072.)
 
 #### References in Text
 

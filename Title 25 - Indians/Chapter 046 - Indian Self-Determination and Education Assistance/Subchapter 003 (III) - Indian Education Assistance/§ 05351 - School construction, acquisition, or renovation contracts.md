@@ -14,7 +14,7 @@ The Secretary may expend not more than 25 per centum of such funds as may be aut
 
 #### (d) Duties of State education agencies pursuant to contracts
 
-Any contract entered into by the Secretary pursuant to this section shall contain provisions requiring the relevant State educational agency to—
+Any contract entered into by the Secretary pursuant to this section shall contain provisionsrequiring the relevant State educational agency to—
 
 &emsp;(1) provide Indian students attending any such facilities constructed, acquired, or renovated, in whole or in part, from funds made available pursuant to this section with standards of education not less than those provided non-Indian students in the school district in which the facilities are situated; and
 
@@ -40,9 +40,11 @@ Within ninety days following the expiration of the three year period following J
 
 #### (g) Authorization of appropriations
 
-For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter,such sums as may be necessary, all of such sums to remain available until expended.
+For the purpose of carrying out the provisions of this section, there is authorized to be appropriated the sum of $35,000,000 for the fiscal year ending June 30, 1974; $35,000,000 for each of the four succeeding fiscal years; and thereafter, such sums as may be necessary, all of such sums to remain available until expended.
 
 (Pub. L. 93–638, title II, §204, Jan. 4, 1975, 88 Stat. 2214; Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ Section was formerly classified to section 458 of this title prior to editorial 
 #### Short Title
 
 For short title of this subchapter as the "Indian Education Assistance Act", see section 201 of Pub. L. 93–638, set out as a note under section 5301 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

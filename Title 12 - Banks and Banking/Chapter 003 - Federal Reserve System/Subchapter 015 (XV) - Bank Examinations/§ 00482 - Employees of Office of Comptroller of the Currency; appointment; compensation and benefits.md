@@ -6,6 +6,8 @@ The Comptroller of the Currency may impose and collect assessments, fees, or oth
 
 (R.S. §5240 (pars.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, §21, 38 Stat. 272; July 2, 1932, ch. 392, 47 Stat. 568; Aug. 23, 1935, ch. 614, title III, §343, 49 Stat. 722; Apr. 30, 1956, ch. 228, §§2, 3, 70 Stat. 124; Pub. L. 101–73, title XII, §1202, Aug. 9, 1989, 103 Stat. 520; Pub. L. 102–242, title I, §114(a), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 102–550, title XVI, §1603(b)(5), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §331(b)(1), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 111–203, title III, §318(a)(2), July 21, 2010, 124 Stat. 1526.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Provisions of section 481 of this title, referred to in first par., was in the original "preceding provisions of this section", meaning R.S. §5240. See Codification note set out below.
@@ -30,13 +32,15 @@ Section is comprised of third and fourth pars. of R.S. §5240, as amended. The f
 
 "In addition to the expense of examination to be assessed by the Comptroller of the Currency as heretofore provided, all national banks exercising fiduciary powers and all banks or trust companies in the District of Columbia exercising fiduciary powers shall be assessed by the Comptroller of the Currency for the examination of their fiduciary activities a fee adequate to cover the expense thereof."
 
-<b>1989</b>—Pub. L. 101–73, in first paragraph, substituted "Notwithstanding any of the provisions of section 481 of this title to the contrary, the Comptroller of the Currency shall fix the compensation and number of, and appoint and direct, all employees of the Office of the Comptroller of the Currency. Rates of basic pay for all employees of the Office may be set and adjusted by the Comptroller without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5. The Comptroller may provide additional compensation and benefits to employees of the Office if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Office, the Comptroller shall consult with, and seek to maintain comparability with, other Federal banking agencies." for "The Comptroller of the Currency shall fix the salaries of all bank examiners and make report thereof to Congress." and redesignated remaining sentences of first paragraph as a second paragraph. Former second paragraph became third paragraph.
+<b>1989</b>—Pub. L. 101–73, in first paragraph, substituted "Notwithstanding any of the provisions of section 481 of this title to the contrary, the Comptroller of the Currency shall fix the compensation and number of, and appoint and direct, all employees of the Office of the Comptroller of the Currency. Rates of basic pay for all employees of the Office may be set and adjusted by the Comptroller without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5. The Comptroller may provide additional compensation and benefits to employees of the Office if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Office, theComptroller shall consult with, and seek to maintain comparability with, other Federal banking agencies." for "The Comptroller of the Currency shall fix the salaries of all bank examiners and make report thereof to Congress." and redesignated remaining sentences of first paragraph as a second paragraph. Former second paragraph became third paragraph.
 
 <b>1956</b>—Act Apr. 30, 1956, provided that assessments may be made more frequently than annually and the annual rate of such assessment shall be the same for all national banks except that banks examined more than twice in one year shall be assessed the expense of the additional examinations, and based additional charges for examining all national banks exercising fiduciary powers and all banks or trust companies in the District of Columbia exercising fiduciary powers on the cost of making the examination rather than the amount of trust assets under administration.
 
 <b>1935</b>—Act Aug. 23, 1935, substituted in first sentence "The Comptroller of the Currency" for "The Federal Reserve Board, upon the recommendation of the Comptroller of the Currency".
 
 <b>1932</b>—Act July 2, 1932, added last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

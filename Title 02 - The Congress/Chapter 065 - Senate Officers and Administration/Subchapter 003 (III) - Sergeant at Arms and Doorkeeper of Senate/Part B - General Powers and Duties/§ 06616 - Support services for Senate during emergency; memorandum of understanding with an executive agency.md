@@ -20,11 +20,13 @@ This section shall apply with respect to fiscal year 2002 and each succeeding fi
 
 (Pub. L. 107–117, div. B, §902, Jan. 10, 2002, 115 Stat. 2316; Pub. L. 116–94, div. P, title XV, §1502, Dec. 20, 2019, 133 Stat. 3209.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 130g of this title prior to editorial reclassification and renumbering as this section.
 
-Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recoveryfrom and Response to Terrorist Attacks on the United States Act, 2002.
+Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
 
 #### Amendments
 

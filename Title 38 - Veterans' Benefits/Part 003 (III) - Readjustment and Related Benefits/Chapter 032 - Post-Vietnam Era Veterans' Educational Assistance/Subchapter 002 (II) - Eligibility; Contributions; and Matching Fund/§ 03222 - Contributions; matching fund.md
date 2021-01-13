@@ -4,13 +4,15 @@
 
 (b) Except as otherwise provided in this chapter, each monthly contribution made by a participant under subsection (a) shall entitle the participant to matching funds from the Department of Defense at the rate of $2 for each $1 contributed by the participant.
 
-(c) The Secretary of Defense is authorized to contribute to the fund of any participant suchcontributions as the Secretary of Defense deems necessary or appropriate to encourage persons to enter or remain in the Armed Forces, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section. The Secretary of Defense is authorized to issue such rules and regulations as the Secretary of Defense deems necessary or appropriate to implement the provisions of this subsection.
+(c) The Secretary of Defense is authorized to contribute to the fund of any participant such contributions as the Secretary of Defense deems necessary or appropriate to encourage persons to enter or remain in the Armed Forces, including contributions in lieu of, or to reduce the amount of, monthly deductions under subsection (a) of this section. The Secretary of Defense is authorized to issue such rules and regulations as the Secretary of Defense deems necessary or appropriate to implement the provisions of this subsection.
 
 (d) Subject to the maximum contribution prescribed by subsection (a) of this section, a participant shall be permitted, while serving on active duty, to make a lump-sum contribution to the fund. A lump-sum contribution to the fund by a participant shall be in addition to or in lieu of monthly deductions made from such participant's military pay and shall be considered, for the purposes of paragraph (2) of section 3231(a) of this title, to have been made by monthly deductions from such participant's military pay in the amount of $100 per month or in such lesser amount as may be specified by such participant pursuant to regulations issued jointly by the Secretary of Defense and the Secretary.
 
 (e) Any amount transferred to the Secretary from the Secretary of a military department under an interagency agreement for the administration by the Department of Veterans Affairs of an educational assistance program established by the Secretary of Defense under chapter 107 of title 10 may be deposited into and disbursed from the fund for the purposes of such program.
 
 (Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1622; amended Pub. L. 94–502, title IV, §408(b), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 96–466, title IV, §406, Oct. 17, 1980, 94 Stat. 2202; Pub. L. 97–306, title II, §§209, 210, Oct. 14, 1982, 96 Stat. 1436; Pub. L. 98–160, title VII, §702(6), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), (B), (D), Dec. 18, 1989, 103 Stat. 2092; renumbered §3222 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -40,6 +42,8 @@ Subsec. (d). Pub. L. 96–466, §406(c), added subsec. (d).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502 substituted "Department of Defense" for "Veterans' Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of Pub. L. 96–466, set out as a note under section 3224 of this title.
@@ -54,7 +58,7 @@ Section effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as 
 
 #### Refunds for Certain Service Academy Graduates
 
-Pub. L. 101–366, title II, §207, Aug. 15, 1990, 104 Stat. 442, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual's unused contributions to the VEAP Account; if the individual has received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
+Pub. L. 101–366, title II, §207, Aug. 15, 1990, 104 Stat. 442, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, directed Secretary of Veterans Affairs to refund, on receipt before Jan. 1, 1992, of an application from an individual, not later than 60 days after receiving such application, the amount, if any, of the individual's unused contributions to the VEAP Account; if the individual has received educational assistance underthis chapter, to pay to the individual (out of funds appropriated to the readjustment benefits account) a sum equal to the amount by which the amount of the educational assistance that the individual would have received under chapter 34 of this title for the pursuit of such program exceeds the amount of the educational assistance that the individual did receive under this chapter for the pursuit of such program; or if the individual has not received educational assistance under this chapter, to pay to the individual (out of funds appropriated to the Department of Veterans Affairs Readjustment Benefits account) a sum equal to the amount of educational assistance that the individual would have received under chapter 34 of this title for the pursuit of a program of education if the individual had been entitled to assistance under such program during the period ending on Dec. 31, 1989; and to refund to the Secretary of Defense the unused contributions by such Secretary to the VEAP Account on behalf of such individual.
 
 #### Educational Assistance Pilot Program; Payment of Monthly Contribution by Secretary; Manner, Scope, Etc., of Payments
 

@@ -22,7 +22,7 @@
 
 &emsp;(2) such person—
 
-&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
+&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the nationalsecurity or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
 
 &emsp;&emsp;(B) has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 <sup>1</sup> of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 
@@ -36,9 +36,11 @@ Mandatory punishment provision was rephrased in the alternative.
 
 Minor changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B), was classified to section 4610 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments
 
@@ -51,6 +53,8 @@ Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(
 <b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a), substituted "Attorney General if required in subsection (b)" for "Secretary of State", and added subsecs. (b) to (d).
 
 <b>1983</b>—Pub. L. 97–462 increased limitation on fines to $75,000 from $5,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, there shall not be appropriated to t
 
 #### (b) Ceilings on certain appropriations
 
-It is the sense of the Congress that the appropriation targets for such fiscal years should be: not less than $275,000,000 to be appropriated annually pursuant to the provisions of chapter 2003 of title 54; not less than $30,000,000 to be appropriated annually pursuant to the provisions of division A of subtitle III of title 54; not less than $10,000,000 to be appropriated annually pursuantto the provisions of chapter 2005 of title 54; not less than $105,000,000 to be appropriated annually to be used for the restoration and rehabilitation of units of the National Park System, as authorized by law; not less than $239,000,000 to be appropriated annually for the Office of Territorial and International Affairs (including amounts for the Trust Territory of the Pacific Islands); not less than $6,200,000 to be appropriated annually to carry out the provisions of title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445); <sup>1</sup> and not less than $100,000,000 to be appropriated annually pursuant to chapter 69 of title 31 including not less than $5,000,000 annually to carry out the purposes of section 6904 of title 31.
+It is the sense of the Congress that the appropriation targets for such fiscal years should be: not less than $275,000,000 to be appropriated annually pursuant to the provisions of chapter 2003 of title 54; not less than $30,000,000 to be appropriated annually pursuant to the provisions of division A of subtitle III of title 54; not less than $10,000,000 to be appropriated annually pursuant to the provisions of chapter 2005 of title 54; not less than $105,000,000 to be appropriated annually to be used for the restoration and rehabilitation of units of the National Park System, as authorized by law; not less than $239,000,000 to be appropriated annually for the Office of Territorial and International Affairs (including amounts for the Trust Territory of the Pacific Islands); not less than $6,200,000 to be appropriated annually to carry out the provisions of title III of the Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445); <sup>1</sup> and not less than $100,000,000 to be appropriated annually pursuant to chapter 69 of title 31 including not less than $5,000,000 annually to carry out the purposes of section 6904 of title 31.
 
 #### (c) Additional limitations
 
@@ -42,6 +42,8 @@ For the purposes of this section, the term "Department of the Interior programs"
 
 (Pub. L. 97–35, title XIV, §1401, Aug. 13, 1981, 95 Stat. 748, 749; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 113–287, §5(l)(3), Dec. 19, 2014, 128 Stat. 3271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
@@ -57,6 +59,8 @@ Subsec. (d) of this section is set out as a note under section 1734 of this titl
 <b>2014</b>—Subsec. (b). Pub. L. 113–287, §5(l)(3)(B), (C), substituted "division A of subtitle III of title 54" for "the National Historic Preservation Act of 1966 (80 Stat. 915; 16 U.S.C. 470)" and "chapter 2005 of title 54" for "the Urban Park and Recreation Recovery Act of 1978 (92 Stat. 3538; 16 U.S.C. 2501, et seq.)".
 
 Pub. L. 113–287, §5(l)(3)(A), which directed substitution of "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (78 Stat; 897; 16 U.S.C. 460z)" was executed by making the substitution for "the Land and Water Conservation Fund Act of 1965 (78 Stat. 897; 16 U.S.C. 460z)" to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -88,7 +92,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 "(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management and Budget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
 
-"(2) Nothing in this section shall prevent the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management from entering into contracts for services and materials under provisions of law and rules, regulations, orders, and policies other than the circular referred to in paragraph (1) or any similar order or directive."
+"(2) Nothing in this section shall prevent the National Park Service, United States Fish and WildlifeService, and the Bureau of Land Management from entering into contracts for services and materials under provisions of law and rules, regulations, orders, and policies other than the circular referred to in paragraph (1) or any similar order or directive."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

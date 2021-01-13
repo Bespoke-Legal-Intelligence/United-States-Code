@@ -26,7 +26,7 @@
 
 &emsp;(6) requirements for communication and prearrival messages.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 101–380, title IV, §4115(d), Aug. 18, 1990, 104 Stat. 520; Pub. L. 114–120, title III, §306(a)(4), Feb. 8, 2016, 130 Stat. 54.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 101–380, title IV, §4115(d), Aug. 18, 1990, 104 Stat.520; Pub. L. 114–120, title III, §306(a)(4), Feb. 8, 2016, 130 Stat. 54.)
 
 Historical and Revision Notes
 
@@ -42,6 +42,8 @@ Section 3715 requires the Secretary to control lightering operations; that is, t
 
 The regulations to be prescribed by the Secretary shall include a number of specific considerations but may include any related matters deemed necessary to promote navigation and vessel safety and protection of the marine environment. The Secretary must consider standards for minimum safe operating conditions, including sea state, wave height, weather, vessel traffic, the prevention of oil spills, and oil spill response equipment. In regulating this operation, there must not be any unreasonable interference with international navigation or reasonable uses of the high seas, and there must be established lightering zones with attendant communications and prearrival message requirements.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1016 of the Oil Pollution Act of 1990, referred to in subsec. (a)(3), is classified to section 2716 of Title 33, Navigation and Navigable Waters.
@@ -51,6 +53,8 @@ Section 1016 of the Oil Pollution Act of 1990, referred to in subsec. (a)(3), is
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–120 struck out "and" at end.
 
 <b>1990</b>—Subsec. (a)(3) to (5). Pub. L. 101–380 added pars. (3) to (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

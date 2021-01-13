@@ -6,11 +6,11 @@
 
 &emsp;(1) the objectives, goals, and proposed actions designed to assure the preservation and perpetuation of a natural redwood forest ecosystem;
 
-&emsp;(2) the type and level of visitor use to be accommodated by the park, by specific area, with specific indications of carrying capacities consistent with the protection of park resources;
+&emsp;(2) the type and level of visitor use to be accommodated by the park, by specific area,with specific indications of carrying capacities consistent with the protection of park resources;
 
 &emsp;(3) the type, extent, and estimated cost of development proposed to accommodate visitor use and to protect the resource, to include anticipated location of all major development areas, roads, and trails; and
 
-&emsp;(4) the specific locations and types of foot trail access to the Tall Trees Grove, of which one route shall, unless shown by the Secretaryto be inadvisable, principally traverse the east side of Redwood Creek through the essentially virgin forest, connecting with the roadhead on the west side of the park east of Orick.
+&emsp;(4) the specific locations and types of foot trail access to the Tall Trees Grove, of which one route shall, unless shown by the Secretary to be inadvisable, principally traverse the east side of Redwood Creek through the essentially virgin forest, connecting with the roadhead on the west side of the park east of Orick.
 
 (Pub. L. 95–250, title I, §104, Mar. 27, 1978, 92 Stat. 170.)
 

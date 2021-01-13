@@ -28,6 +28,8 @@ The final paragraph was added to conform with section 1709 of title 19, U.S.C., 
 
 Changes in phraseology were also made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 amended Pub. L. 103–322, §330004(18). See 1994 Amendment note below.
@@ -37,6 +39,8 @@ Changes in phraseology were also made.
 Pub. L. 103–322, §330004(18), as amended by Pub. L. 104–294, §604(b)(23), struck out "Philippine Islands," before "Virgin Islands" in last par.
 
 <b>1955</b>—Act June 30, 1955, inserted reference to Johnston Island in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

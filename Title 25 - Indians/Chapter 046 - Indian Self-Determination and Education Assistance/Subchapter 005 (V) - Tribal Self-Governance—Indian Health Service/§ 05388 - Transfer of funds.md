@@ -28,7 +28,7 @@ The Secretary shall provide funds under a funding agreement under this subchapte
 
 &emsp;&emsp;&emsp;(ii) in subsequent years, except pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) a reduction in appropriations from the previous fiscal year for the programor function to be included in a compact or funding agreement;
+&emsp;&emsp;&emsp;&emsp;(I) a reduction in appropriations from the previous fiscal year for the program or function to be included in a compact or funding agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) a congressional directive in legislation or accompanying report;
 
@@ -75,6 +75,8 @@ All Medicare, Medicaid, or other program income earned by an Indian tribe shall 
 An Indian tribe shall not be obligated to continue performance that requires an expenditure of funds in excess of the amount of funds transferred under a compact or funding agreement. If at any time the Indian tribe has reason to believe that the total amount provided for a specific activity in the compact or funding agreement is insufficient the Indian tribe shall provide reasonable notice of such insufficiency to the Secretary. If the Secretary does not increase the amount of funds transferred under the funding agreement, the Indian tribe may suspend performance of the activity until such time as additional funds are transferred.
 
 (Pub. L. 93–638, title V, §508, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 722.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -46,13 +46,13 @@ Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2) and struck out headi
 
 Subsec. (c)(3). Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2).
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(15), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who are lineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property."
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(15), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If, upon the termination of an interest in property held in a trust, a specified portion of the trust assets are distributed to skip persons who arelineal descendants of the holder of such interest (or to 1 or more trusts for the exclusive benefit of such persons), such termination shall constitute a taxable termination with respect to such portion of the trust property."
 
 Subsec. (c)(2). Pub. L. 100–647, §1014(g)(7), in closing provisions, inserted at end "If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property."
 
 Subsec. (c)(3). Pub. L. 100–647, §1014(g)(5)(B), added par. (3).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions covering definition and application of "taxable termination", "taxable distribution", and "direct skip" for former provisions which indicated who the "deemed transferor" would be for purposes ofthis chapter and that, for purposes of determining the person deemed the transferor, a parent related to the grantor of a trust by blood or adoption was to be deemed more closely related than a parent related to a grantor by marriage.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions covering definition and application of "taxable termination", "taxable distribution", and "direct skip" for former provisions which indicated who the "deemed transferor" would be for purposes of this chapter and that, for purposes of determining the person deemed the transferor, a parent related to the grantor of a trust by blood or adoption was to be deemed more closely related than a parent related to a grantor by marriage.
 
 #### Effective Date of 1997 Amendment
 

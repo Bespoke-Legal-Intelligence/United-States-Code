@@ -174,7 +174,7 @@ Section 207 of the Energy and Water Development Appropriations Act, 2003, referr
 
 Section 208 of the Energy and Water Development Appropriations Act, 2006, referred to in subsec. (d)(3)(B)(iii), is section 208 of Pub. L. 109–103, title II, Nov. 19, 2005, 119 Stat. 2268, which is not classified to the Code.
 
-Section 208 of the Energy and Water Development and Related Agencies Appropriations Act, 2010, referred to in subsec. (d)(3)(B)(iv), is section 208 of Pub. L. 111–85, title II, Oct. 28, 2009, 123 Stat. 2858, which is not classified to the Code.
+Section 208 of the Energy and Water Development and Related Agencies Appropriations Act, 2010, referredto in subsec. (d)(3)(B)(iv), is section 208 of Pub. L. 111–85, title II, Oct. 28, 2009, 123 Stat. 2858, which is not classified to the Code.
 
 #### Codification
 

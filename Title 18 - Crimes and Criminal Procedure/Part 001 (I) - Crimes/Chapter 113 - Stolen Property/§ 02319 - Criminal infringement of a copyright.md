@@ -48,7 +48,9 @@
 
 &emsp;(4) the term "work being prepared for commercial distribution" has the meaning given the term in section 506(a) of title 17.
 
-(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §208, Oct. 13, 2008, 122 Stat. 4263.)
+(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §208, Oct. 13, 2008, 122 Stat. 4263.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -102,5 +104,5 @@ Subsecs. (c) to (e). Pub. L. 105–147, §2(d)(3), added subsecs. (c) and (d) an
 
 &emsp;"(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case."
 
-Subsec. (c). Pub. L. 102–561, §2, substituted " 'phonorecord' " for " 'sound recording', 'motion picture','audiovisual work', 'phonorecord'," in par. (1) and "120" for "118" in par. (2).
+Subsec. (c). Pub. L. 102–561, §2, substituted " 'phonorecord' " for " 'sound recording', 'motion picture', 'audiovisual work', 'phonorecord'," in par. (1) and "120" for "118" in par. (2).
 

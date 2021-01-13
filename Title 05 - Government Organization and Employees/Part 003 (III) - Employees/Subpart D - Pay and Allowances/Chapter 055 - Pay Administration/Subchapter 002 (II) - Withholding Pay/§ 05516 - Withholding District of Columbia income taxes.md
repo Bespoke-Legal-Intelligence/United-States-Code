@@ -1,6 +1,6 @@
 ### §5516. Withholding District of Columbia income taxes
 
-(a) The Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the Mayor of the District of Columbia within 120 days of a request for agreement from the Mayor. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of subchapter II of chapter 15 of title 47, District of Columbia Code, in the case of employees of the agency who are subject to income taxes imposed by that subchapter and whose regular place of employment is within the District of Columbia. The agreement may not apply to pay of an employee who is not a resident of the District of Columbia as defined in subchapter II of chapter 15 of title 47, District of Columbia Code. In the case of pay for service as a member of the armed forces, the second sentence of this subsection shall be applied by substituting "who are residents of the District of Columbia" for "whose regular place of employment is within the District of Columbia". For the purpose of this subsection, "employee" hasthe meaning given it by section 1551c(z) of title 47, District of Columbia Code.
+(a) The Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the Mayor of the District of Columbia within 120 days of a request for agreement from the Mayor. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of subchapter II of chapter 15 of title 47, District of Columbia Code, in the case of employees of the agency who are subject to income taxes imposed by that subchapter and whose regular place of employment is within the District of Columbia. The agreement may not apply to pay of an employee who is not a resident of the District of Columbia as defined in subchapter II of chapter 15 of title 47, District of Columbia Code. In the case of pay for service as a member of the armed forces, the second sentence of this subsection shall be applied by substituting "who are residents of the District of Columbia" for "whose regular place of employment is within the District of Columbia". For the purpose of this subsection, "employee" has the meaning given it by section 1551c(z) of title 47, District of Columbia Code.
 
 (b) This section does not give the consent of the United States to the application of a statute which imposes more burdensome requirements on the United States than on other employers, or which subjects the United States or its employees to a penalty or liability because of this section.
 
@@ -24,6 +24,8 @@ Section 2(c) "(z)" of the Act of Mar. 31, 1956, 70 Stat. 68 (section 1551c(z) of
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–54 substituted "Mayor" for "Commissioner" wherever appearing.
@@ -31,6 +33,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1976</b>—Pub. L. 94–455 struck out "pay for service as a member of the armed forces, or to" after "The agreement may not apply to" and inserted provision that in the case of service as a member of the armed forces, the second sentence shall be applied by substituting "who are residents of the District of Columbia" for "whose regular place of employment is within the District of Columbia".
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–623 substituted "Commissioner" for "Commissioners" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

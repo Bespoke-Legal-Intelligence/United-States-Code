@@ -1,6 +1,6 @@
 ### §377b. Availability of appropriations for Bureau of Reclamation
 
-Appropriations for the Bureau of Reclamation in this Act or in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992, be available for payment of claims for damages to or loss of property, personal injury, or death arising out of activities of the Bureau of Reclamation, not to exceed $5,000,000 for each causal event giving rise to a claim or claims; payment, except as otherwise provided for, of compensation and expenses of persons on the rolls of the Bureau of Reclamation appointed as authorized by law to representthe United States in the negotiations and administration of interstate compacts without reimbursement or return under the reclamation laws; services as authorized by section 3109 of title 5, in total not to exceed $500,000 per year; rewards for information or evidence concerning violations of law involving property under the jurisdiction of the Bureau of Reclamation; performance of the functions specified under the head "Operation and Maintenance Administration", Bureau of Reclamation, in the Interior Department Appropriations Act <sup>1</sup> 1945; preparation and dissemination of useful information including recordings, photographs, and photographic prints; and studies of recreational uses of reservoir areas, and investigation and recovery of archeological and paleontological remains in such areas in the same manner as provided for in chapters 3125 and 3201 of title 54: <i>Provided</i>, That on and after October 2, 1992, no part of any appropriation made in this Act or in subsequent Energy and Water Development Appropriations Acts shall be available pursuant to the Act of April 19, 1945 (43 U.S.C. 377), for expenses other than those incurred on behalf of specific reclamation projects except "General Administrative Expenses", amounts provided for plan formulation investigations under the head "General Investigations", and amounts provided for science and technology under the head "Construction Program".
+Appropriations for the Bureau of Reclamation in this Act or in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992, be available for payment of claims for damages to or loss of property, personal injury, or death arising out of activities of the Bureau of Reclamation, not to exceed $5,000,000 for each causal event giving rise to a claim or claims; payment, except as otherwise provided for, of compensation and expenses of persons on the rolls of the Bureau of Reclamation appointed as authorized by law to represent the United States in the negotiations and administration of interstate compacts without reimbursement or return under the reclamation laws; services as authorized by section 3109 of title 5, in total not to exceed $500,000 per year; rewards for information or evidence concerning violations of law involving property under the jurisdiction of the Bureau of Reclamation; performance of the functions specified under the head "Operation and Maintenance Administration", Bureau of Reclamation, in the Interior Department Appropriations Act <sup>1</sup> 1945; preparation and dissemination of useful information including recordings, photographs, and photographic prints; and studies of recreational uses of reservoir areas, and investigation and recovery of archeological and paleontological remains in such areas in the same manner as provided for in chapters 3125 and 3201 of title 54: <i>Provided</i>, That on and after October 2, 1992, no part of any appropriation made in this Act or in subsequent Energy and Water Development Appropriations Acts shall be available pursuant to the Act of April 19, 1945 (43 U.S.C. 377), for expenses other than those incurred on behalf of specific reclamation projects except "General Administrative Expenses", amounts provided for plan formulation investigations under the head "General Investigations", and amounts provided for science and technology under the head "Construction Program".
 
 Sums appropriated in this Act or in subsequent Energy and Water Development Appropriations Acts which are expended in the performance of reimbursable functions of the Bureau of Reclamation shall be returnable to the extent and in the manner provided by law.
 
@@ -9,6 +9,8 @@ No part of any appropriation for the Bureau of Reclamation, contained in this Ac
 None of the funds made available by this or any other Act or by any subsequent Act shall on and after October 2, 1992, be used by the Bureau of Reclamation for contracts for surveying and mapping services unless such contracts for which a solicitation is issued after the date of this Act <sup>2</sup> are awarded in accordance with title IX of the Federal Property and Administrative Service <sup>3</sup> Act of 1949.<sup>2</sup>
 
 (Pub. L. 102–377, title II, Oct. 2, 1992, 106 Stat. 1330, 1331; Pub. L. 108–137, title II, §206, Dec. 1, 2003, 117 Stat. 1849; Pub. L. 113–287, §5(l)(1), Dec. 19, 2014, 128 Stat. 3270.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -34,9 +36,11 @@ administrative provisions" in title II of Pub. L. 102–377, Oct. 2, 1992, 106 S
 
 Bureau of Reclamation" and "
 
-administrative provisions" in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, to reflect the probable intent of Congress. See Codification note above.
+administrative provisions" in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, to reflect theprobable intent of Congress. See Codification note above.
 
 <b>2003</b>—Pub. L. 108–137 inserted in first par. ", not to exceed $5,000,000 for each causal event giving rise to a claim or claims" after "activities of the Bureau of Reclamation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes
 

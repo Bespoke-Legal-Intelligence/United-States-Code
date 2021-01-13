@@ -12,9 +12,9 @@ Great lakes.—The term "Great Lakes" means Lake Superior, Lake Michigan, Lake H
 
 &emsp;(3)
 
-Great lakes shipping season.—The term "Great Lakes shipping season" means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.
+Great lakes shipping season.—The term "Great Lakes shipping season" means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Great Lakes St. Lawrence Seaway Development Corporation.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1648.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1648; Pub. L. 116–260, div. AA, title V, §512(c)(6)(E), Dec. 27, 2020, 134 Stat. 2757.)
 
 Historical and Revision Notes
 
@@ -37,4 +37,10 @@ In paragraph (1), the words "but only during the period the designation is in ef
 In paragraph (3), the words "created by the Act of May 13, 1954 (33 U.S.C. 981 et seq.)" are omitted as unnecessary.
 
 The definition of "Secretary" in 46 App. U.S.C. 1241v(4) is omitted as unnecessary because the full title of the Secretary of Transportation is used the first time the Secretary is referred to in each section.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Par. (3). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
 

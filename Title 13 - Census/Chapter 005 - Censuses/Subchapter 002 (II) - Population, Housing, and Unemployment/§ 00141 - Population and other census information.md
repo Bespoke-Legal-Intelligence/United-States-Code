@@ -1,6 +1,6 @@
 ### §141. Population and other census information
 
-(a) The Secretary shall, in the year 1980 and every 10 years thereafter, take a decennial census of population as of the first day of April of such year, which date shall be known as the "decennial census date", in such form and content as he may determine, including the use of sampling procedures and special surveys. In connection with any such census, the Secretary is authorized to obtain such other census information as necessary.
+(a) The Secretary shall, in the year 1980 and every 10 years thereafter, take a decennial census of population as of the first day of April ofsuch year, which date shall be known as the "decennial census date", in such form and content as he may determine, including the use of sampling procedures and special surveys. In connection with any such census, the Secretary is authorized to obtain such other census information as necessary.
 
 (b) The tabulation of total population by States under subsection (a) of this section as required for the apportionment of Representatives in Congress among the several States shall be completed within 9 months after the census date and reported by the Secretary to the President of the United States.
 
@@ -16,7 +16,7 @@
 
 > then in the determination of such eligibility or amount of benefits the most recent data available from either the mid-decade or decennial census shall be used.
 
-(2) Information obtained in any mid-decade census shall not be used for apportionment of Representatives in Congress among the severalStates, nor shall such information be used in prescribing congressional districts.
+(2) Information obtained in any mid-decade census shall not be used for apportionment of Representatives in Congress among the several States, nor shall such information be used in prescribing congressional districts.
 
 (f) With respect to each decennial and mid-decade census conducted under subsection (a) or (d) of this section, the Secretary shall submit to the committees of Congress having legislative jurisdiction over the census—
 
@@ -40,9 +40,11 @@ The provision for taking the censuses in "1930 and every ten years thereafter" w
 
 The requirement that decennial censuses of "distribution" and "mines" should also be taken was omitted as superseded by section 121 of title 13, U.S.C., 1952 ed. (enacted in 1948), the provisions of which were carried into subchapter I of this chapter.
 
-Section 1442 of title 42, U.S.C., 1952 ed., the Public Health and Welfare (which section has been transferred in its entirety to this revised title), made all provisions of chapter 4 of title 13, U.S.C., 1952 ed., applicable to the housing censuses provided for in such section. However, section 201 of such title 13 (which section was a part of such chapter 4), which, as indicated above, has been carried into this revised section, could not, except, possibly, for the provisions thereof relating to the territorial scope of the censuses and to the census duties of the governors of Guam, Samoa, the Virgin Islands, and the Canal Zone, have any relevancy to such housing censuses, and such section 1442 of title 42, U.S.C., 1952 ed., contained its own provisions relating to territorial scope of the housing censuses. Therefore the provisions of this revised section have not been made so applicable.
+Section 1442 of title 42, U.S.C., 1952 ed., the Public Health and Welfare (which section has been transferred in its entirety to this revised title), made all provisions of chapter 4 of title 13, U.S.C., 1952 ed., applicable to the housing censuses provided for in such section. However, section 201 of such title 13 (which section was a part of such chapter 4), which, as indicated above, has beencarried into this revised section, could not, except, possibly, for the provisions thereof relating to the territorial scope of the censuses and to the census duties of the governors of Guam, Samoa, the Virgin Islands, and the Canal Zone, have any relevancy to such housing censuses, and such section 1442 of title 42, U.S.C., 1952 ed., contained its own provisions relating to territorial scope of the housing censuses. Therefore the provisions of this revised section have not been made so applicable.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -61,6 +63,8 @@ Subsecs. (d) to (g). Pub. L. 94–521 added subsecs. (d) to (g).
 Subsec. (c). Pub. L. 94–171, §1, added subsec. (c).
 
 <b>1957</b>—Pub. L. 85–207 substituted "Population, unemployment, and housing" for "Population, agriculture, irrigation, drainage, and unemployment; territory excluded" in section catchline; inserted in text housing census provisions, struck out census coverage of agriculture, irrigation, and drainage and geographical provisions, and designated existing provisions as so amended as subsec. (a); and added subsec. (b). Census of agriculture, irrigation, and drainage and the geographical provisions are covered by sections 142 and 191 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 
@@ -114,7 +118,7 @@ Pub. L. 105–119, title II, §209, Nov. 26, 1997, 111 Stat. 2480, provided that
 
 &emsp;"(3) either House of Congress.
 
-"(e)(1) Any action brought under this section shall be heard and determined by a district court of three judges in accordance with section 2284 of title 28, United States Code. The chief judge of the United States court of appeals for each circuit shall, to the extent practicable and consistent with the avoidance of unnecessary delay, consolidate, for all purposes, in one district court within that circuit, all actions pending in that circuit under this section. Any party to an action under this section shall be precluded from seeking any consolidation of that action other than is provided in this paragraph. In selecting the district court in which to consolidate such actions, the chief judge shall consider the convenience of the parties and witnesses and efficient conduct of such actions. Any final order or injunction of a United States district court that is issued pursuant to an action brought under this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under this section may be issued by a single Justice of the Supreme Court.
+"(e)(1) Any action brought under this section shall be heard and determined by a district court of three judges in accordance with section 2284 of title 28, United States Code. The chief judge of the UnitedStates court of appeals for each circuit shall, to the extent practicable and consistent with the avoidance of unnecessary delay, consolidate, for all purposes, in one district court within that circuit, all actions pending in that circuit under this section. Any party to an action under this section shall be precluded from seeking any consolidation of that action other than is provided in this paragraph. In selecting the district court in which to consolidate such actions, the chief judge shall consider the convenience of the parties and witnesses and efficient conduct of such actions. Any final order or injunction of a United States district court that is issued pursuant to an action brought under this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under this section may be issued by a single Justice of the Supreme Court.
 
 "(2) It shall be the duty of a United States district court hearing an action brought under this section and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any such matter.
 
@@ -174,6 +178,8 @@ Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: "The Departme
 
 Pub. L. 94–311, §5, June 16, 1976, 90 Stat. 689, provided that: "The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13880. Collecting Information About Citizenship Status in Connection With the Decennial Census
 
 Ex. Ord. No. 13880, July 11, 2019, 84 F.R. 33821, provided:
@@ -216,7 +222,7 @@ Academic researchers have also been unable to develop useful and reliable number
 
 Accurate and complete data on the illegal alien population would be useful for the Federal Government in evaluating many policy proposals. When Members of Congress propose various forms of protected status for classes of unauthorized immigrants, for example, the full implications of such proposals can be properly evaluated only with accurate information about the overall number of unauthorized aliens potentially at issue. Similarly, such information is needed to inform debate about legislative proposals to enhance enforcement of immigration laws and effectuate duly issued removal orders.
 
-The Federal Government's need for a more accurate count of illegal aliens in the country is only made more acute by the recent massive influx of illegal immigrants at our southern border. In Proclamation 9822 of November 9, 2018 (Addressing Mass Migration Through the Southern Border of the United States) \[83 F.R. 57661\], I explained that our immigration and asylum system remains in crisis as a consequence of the mass migration of aliens across our southern border. As a result of our broken asylum laws, hundreds of thousands of aliens who entered the country illegally have been released into the interior of the United States pending the outcome of their removal proceedings. But because of the massive backlog of cases, hearing dates are sometimes set years in the future and the adjudication process often takes years to complete. Aliens not incustody routinely fail to appear in court and, even if they do appear, fail to comply with removal orders. There are more than 1 million illegal aliens who have been issued final removal orders from immigration judges and yet remain at-large in the United States.
+The Federal Government's need for a more accurate count of illegal aliens in the country is only made more acute by the recent massive influx of illegal immigrants at our southern border. In Proclamation 9822 of November 9, 2018 (Addressing Mass Migration Through the Southern Border of the United States) \[83 F.R. 57661\], I explained that our immigration and asylum system remains in crisis as a consequence of the mass migration of aliens across our southern border. As a result of our broken asylum laws, hundreds of thousands of aliens who entered the country illegally have been released into the interior of the United States pending the outcome of their removal proceedings. But because of the massive backlog of cases, hearing dates are sometimes set years in the future and the adjudication process often takes years to complete. Aliens not in custody routinely fail to appear in court and, even if they do appear, fail to comply with removal orders. There are more than 1 million illegal aliens who have been issued final removal orders from immigration judges and yet remain at-large in the United States.
 
 Efforts to find solutions that address the immense number of unauthorized aliens living in our country should start with accurate information that allows us to understand the true scope of the problem.
 
@@ -226,7 +232,7 @@ The Department has said that if the officers or public bodies having initial res
 
 To be clear, generating accurate data concerning the total number of citizens, non-citizens, and illegal aliens in the country has nothing to do with enforcing immigration laws against particular individuals. It is important, instead, for making broad policy determinations. Information obtained by the Department in connection with the census through requests for administrative records under 13 U.S.C. 6 shall be used solely to produce statistics and is subject to confidentiality protections under Title 13 of the United States Code. Information subject to confidentiality protections under Title 13 may not, and shall not, be used to bring immigration enforcement actions against particular individuals. Under my Administration, the data confidentiality protections in Title 13 shall be fully respected.
 
-Sec. 2. <i>Policy</i>. It is the policy of the United States to develop complete and accurate data on the number of citizens, non-citizens, and illegal aliens in the country. Such data is necessary to understand the effects of immigration on the country, and to inform policymakers in setting and evaluating immigration policies and laws, including evaluating proposals to address the current crisis in illegal immigration.
+Sec. 2. <i>Policy</i>. It is the policy of the United States to develop complete and accurate data on the number ofcitizens, non-citizens, and illegal aliens in the country. Such data is necessary to understand the effects of immigration on the country, and to inform policymakers in setting and evaluating immigration policies and laws, including evaluating proposals to address the current crisis in illegal immigration.
 
 Sec. 3. <i>Assistance to the Department of Commerce and Maximizing Citizenship Data</i>. (a) All agencies shall promptly provide the Department the maximum assistance permissible, consistent with law, in determining the number of citizens, non-citizens, and illegal aliens in the country, including by providing any access that the Department may request to administrative records that may be useful in accomplishing that objective. In particular, the following agencies shall examine relevant legal authorities and, to the maximum extent consistent with law, provide access to the following records:
 
@@ -259,6 +265,38 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Excluding Illegal Aliens From the Apportionment Base Following the 2020 Census
+
+Memorandum of President of the United States, July 21, 2020, 85 F.R. 44679, provided:
+
+Memorandum for the Secretary of Commerce
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Background</i>. In order to apportion Representatives among the States, the Constitution requires the enumeration of the population of the United States every 10 years and grants the Congress the power and discretion to direct the manner in which this decennial census is conducted (U.S. Const. art. I, sec. 2, cl. 3). The Congress has charged the Secretary of Commerce (the Secretary) with directing the conduct of the decennial census in such form and content as the Secretary may determine (13 U.S.C. 141(a)). By the direction of the Congress, the Secretary then transmits to the President the report of his tabulation of total population for the apportionment of Representatives in the Congress (13 U.S.C. 141(b)). The President, by law, makes the final determination regarding the "whole number of persons in each State," which determines the number of Representatives to be apportioned to each State, and transmits these determinations and accompanying census data to the Congress (2 U.S.C. 2a(a)). The Congress has provided that it is "the President's personal transmittal of the report to Congress" that "settles the apportionment" of Representatives among the States, and the President's discretion to settle the apportionment is more than "ceremonial or ministerial" and is essential "to the integrity of the process" (<i>Franklin</i> v. <i>Massachusetts</i>, 505 U.S. 788, 799, and 800 (1992)).
+
+The Constitution does not specifically define which persons must be included in the apportionment base. Although the Constitution requires the "persons in each State, excluding Indians not taxed," to be enumerated in the census, that requirement has never been understood to include in the apportionment base every individual physically present within a State's boundaries at the time of the census. Instead, the term "persons in each State" has been interpreted to mean that only the "inhabitants" of each State should be included. Determining which persons should be considered "inhabitants" for the purpose of apportionment requires the exercise of judgment. For example, aliens who are only temporarily in the United States, such as for business or tourism, and certain foreign diplomatic personnel are "persons" who have been excluded from the apportionment base in past censuses. Conversely, the Constitution also has never been understood to exclude every person who is not physically "in" a State at the time of the census. For example, overseas Federal personnel have, at various times, been included in and excluded from the populations of the States in which they maintained their homes of record. The discretion delegated to the executive branch to determine who qualifies as an "inhabitant" includes authority to exclude from the apportionment base aliens who are not in a lawful immigration status.
+
+In Executive Order 13880 of July 11, 2019 (Collecting Information About Citizenship Status in Connection With the Decennial Census) \[set out above\], I instructed executive departments and agencies to share information with the Department of Commerce, to the extent permissible and consistent with law, to allow the Secretary to obtain accurate data on the number of citizens, non-citizens, and illegal aliens in the country. As the Attorney General and I explained at the time that order was signed, data on illegal aliens could be relevant for the purpose of conducting the apportionment, and we intended to examine that issue.
+
+Sec. 2. <i>Policy</i>. For the purpose of the reapportionment of Representatives following the 2020 census, it is the policy of the United States to exclude from the apportionment base aliens who are not in a lawful immigration status under the Immigration and NationalityAct, as amended (8 U.S.C. 1101 et seq.), to the maximum extent feasible and consistent with the discretion delegated to the executive branch. Excluding these illegal aliens from the apportionment base is more consonant with the principles of representative democracy underpinning our system of Government. Affording congressional representation, and therefore formal political influence, to States on account of the presence within their borders of aliens who have not followed the steps to secure a lawful immigration status under our laws undermines those principles. Many of these aliens entered the country illegally in the first place. Increasing congressional representation based on the presence of aliens who are not in a lawful immigration status would also create perverse incentives encouraging violations of Federal law. States adopting policies that encourage illegal aliens to enter this country and that hobble Federal efforts to enforce the immigration laws passed by the Congress should not be rewarded with greater representation in the House of Representatives. Current estimates suggest that one State is home to more than 2.2 million illegal aliens, constituting more than 6 percent of the State's entire population. Including these illegal aliens in the population of the State for the purpose of apportionment could result in the allocation of two or three more congressional seats than would otherwise be allocated.
+
+I have accordingly determined that respect for the law and protection of the integrity of the democratic process warrant the exclusion of illegal aliens from the apportionment base, to the extent feasible and to the maximum extent of the President's discretion under the law.
+
+Sec. 3. <i>Excluding Illegal Aliens from the Apportionment Base</i>. In preparing his report to the President under section 141(b) of title 13, United States Code, the Secretary shall take all appropriate action, consistent with the Constitution and other applicable law, to provide information permitting the President, to the extent practicable, to exercise the President's discretion to carry out the policy set forth in section 2 of this memorandum. The Secretary shall also include in that report information tabulated according to the methodology set forth in <i>Final 2020 Census Residence Criteria and Residence Situations</i>, 83 FR 5525 (Feb. 8, 2018).
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

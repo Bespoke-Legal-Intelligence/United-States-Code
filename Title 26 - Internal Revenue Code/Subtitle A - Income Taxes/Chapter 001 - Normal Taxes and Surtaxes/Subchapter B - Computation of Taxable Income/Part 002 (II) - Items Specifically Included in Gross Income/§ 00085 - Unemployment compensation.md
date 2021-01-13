@@ -8,7 +8,7 @@ In the case of an individual, gross income includes unemployment compensation.
 
 For purposes of this section, the term "unemployment compensation" means any amount received under a law of the United States or of a State which is in the nature of unemployment compensation.
 
-(Added Pub. L. 95–600, title I, §112(a), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 97–34, title I, §103(c)(1), Aug. 13, 1981, 95 Stat. 188; Pub. L. 97–248, title VI, §611(a), Sept. 3, 1982, 96 Stat. 706; Pub. L. 98–21, title I, §§121(f)(1), 122(c)(2), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109; Pub. L. 111–5, div. B, title I, §1007(a), Feb. 17, 2009, 123 Stat. 317; Pub. L. 113–295, div. A, title II, §221(a)(15), Dec. 19, 2014, 128 Stat. 4039.)
+(Added Pub. L. 95–600, title I, §112(a), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 97–34, title I,§103(c)(1), Aug. 13, 1981, 95 Stat. 188; Pub. L. 97–248, title VI, §611(a), Sept. 3, 1982, 96 Stat. 706; Pub. L. 98–21, title I, §§121(f)(1), 122(c)(2), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109; Pub. L. 111–5, div. B, title I, §1007(a), Feb. 17, 2009, 123 Stat. 317; Pub. L. 113–295, div. A, title II, §221(a)(15), Dec. 19, 2014, 128 Stat. 4039.)
 
 #### Amendments
 
@@ -16,7 +16,7 @@ For purposes of this section, the term "unemployment compensation" means any amo
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–5 added subsec. (c).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "General rule" for "In general" in heading and amended text generally. Prior to amendment, text read as follows: "If the sum for the taxable year of the adjusted gross income of the taxpayer (determined without regard to this section, section 86 and section 221) and the unemployment compensation exceeds the base amount, grossincome for the taxable year includes unemployment compensation in an amount equal to the lesser of—
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "General rule" for "In general" in heading and amended text generally. Prior to amendment, text read as follows: "If the sum for the taxable year of the adjusted gross income of the taxpayer (determined without regard to this section, section 86 and section 221) and the unemployment compensation exceeds the base amount, gross income for the taxable year includes unemployment compensation in an amount equal to the lesser of—
 
 &emsp;"(1) one-half of the amount of the excess of such sum over the base amount, or
 

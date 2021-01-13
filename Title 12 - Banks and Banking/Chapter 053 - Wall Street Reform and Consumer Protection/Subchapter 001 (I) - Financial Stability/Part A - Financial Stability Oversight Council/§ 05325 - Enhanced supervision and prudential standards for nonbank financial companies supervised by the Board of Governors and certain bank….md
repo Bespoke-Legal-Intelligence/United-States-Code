@@ -138,9 +138,13 @@ The Council may make recommendations to the Board of Governors to require short-
 
 (Pub. L. 111–203, title I, §115, July 21, 2010, 124 Stat. 1403; Pub. L. 115–174, title IV, §401(c)(1)(A), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–174 substituted "the applicable threshold" for "$50,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

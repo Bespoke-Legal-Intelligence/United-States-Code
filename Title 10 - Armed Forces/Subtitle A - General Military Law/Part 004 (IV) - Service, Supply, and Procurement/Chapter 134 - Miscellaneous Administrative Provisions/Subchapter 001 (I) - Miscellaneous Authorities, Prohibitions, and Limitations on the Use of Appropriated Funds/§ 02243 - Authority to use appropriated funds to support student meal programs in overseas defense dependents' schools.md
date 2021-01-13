@@ -32,7 +32,7 @@ The Defense Dependents' Education Act of 1978, referred to in subsec. (e)(1), is
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–92, §573(b)(1), substituted "Authority to use appropriated funds to support student mealprograms in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in section catchline.
+<b>2015</b>—Pub. L. 114–92, §573(b)(1), substituted "Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in section catchline.
 
 Subsec. (a). Pub. L. 114–92, §573(a)(1), substituted "overseas defense dependents' schools" for "the defense dependents' education system" and "students enrolled in such a school" for "students enrolled in that system".
 

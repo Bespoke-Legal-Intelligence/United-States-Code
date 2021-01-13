@@ -26,7 +26,7 @@ In general.—To be eligible for assistance under the TIFIA program, a project s
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agencyopinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
@@ -38,7 +38,7 @@ Inclusion in transportation plans and programs.—A project shall satisfy the ap
 
 &emsp;(4)
 
-Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
+Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shallsubmit a project application that is acceptable to the Secretary.
 
 &emsp;(5)
 
@@ -130,7 +130,7 @@ Selection Among Eligible Projects.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are availableto cover the subsidy costs associated with the Federal credit instrument.
+Establishment.—The Secretary shall establish a rolling application process under which projects that are eligible to receive credit assistance under subsection (a) shall receive credit assistance on terms acceptable to the Secretary, if adequate funds are available to cover the subsidy costs associated with the Federal credit instrument.
 
 &emsp;(2)
 
@@ -192,6 +192,8 @@ Development Phase Activities.—Any credit instrument secured under the TIFIA pr
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, §2001(b), Dec. 4, 2015, 129 Stat. 1440.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
@@ -252,7 +254,7 @@ Pub. L. 109–59, §1601(b)(1), added par. (1) and struck out heading and text o
 
 &emsp;"(B) at such time as an agreement to make available a Federal credit instrument is entered into under this subchapter, shall be included in the approved State transportation improvement program required under section 134."
 
-Subsec. (a)(2). Pub. L. 109–59, §1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary."
+Subsec. (a)(2). Pub. L. 109–59, §1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Textread as follows: "A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary."
 
 Subsec. (a)(3)(A). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter" in introductory provisions.
 
@@ -273,6 +275,8 @@ Subsec. (b)(2)(A)(viii). Pub. L. 109–59, §1602(b)(2), inserted "and chapter 1
 Subsec. (b)(2)(B). Pub. L. 109–59, §1601(c)(2), inserted ", which may be the Federal credit instrument," after "obligations".
 
 Subsec. (c). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter" in introductory provisions.
+
+#### <b>Statutory Notes and Related Notes</b>
 
 #### Effective Date of 2015 Amendment
 

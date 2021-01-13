@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2631\.](%C2%A7%2002631%20-%20Supplies%20preference%20to%20United%20States%20vessels.md) | Supplies: preference to United States vessels. |
+| [2631\.](%C2%A7%2002631%20-%20Preference%20for%20United%20States%20vessels%20in%20transporting%20supplies%20by%20sea.md) | Preference for United States vessels in transporting supplies by sea. |
 | [2631a.](%C2%A7%2002631a%20-%20Contingency%20planning%20sealift%20and%20related%20intermodal%20transportation%20requirements.md) | Contingency planning: sealift and related intermodal transportation requirements. |
 | [2632\.](%C2%A7%2002632%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment%20and%20on%20military%20installations.md) | Transportation to and from certain places of employment and on military installations. |
 | [2633\.](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md) | Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department. |
@@ -32,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title X, §1024(a)(2), Jan. 1, 2021, 134 Stat. 3842, substituted "Preference for United States vessels in transporting supplies by sea" for "Supplies: preference to United States vessels" in item 2631.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
 
@@ -110,7 +112,7 @@ Updated Guidelines.—Not later than 90 days after the completion of the policy 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02631 - Supplies preference to United States vessels](%C2%A7%2002631%20-%20Supplies%20preference%20to%20United%20States%20vessels.md)
+- [&sect; 02631 - Preference for United States vessels in transporting supplies by sea](%C2%A7%2002631%20-%20Preference%20for%20United%20States%20vessels%20in%20transporting%20supplies%20by%20sea.md)
 - [&sect; 02631a - Contingency planning sealift and related intermodal transportation requirements](%C2%A7%2002631a%20-%20Contingency%20planning%20sealift%20and%20related%20intermodal%20transportation%20requirements.md)
 - [&sect; 02632 - Transportation to and from certain places of employment and on military installations](%C2%A7%2002632%20-%20Transportation%20to%20and%20from%20certain%20places%20of%20employment%20and%20on%20military%20installations.md)
 - [&sect; 02633 - Stevedoring and terminal services vessels carrying cargo or passengers sponsored by military department](%C2%A7%2002633%20-%20Stevedoring%20and%20terminal%20services%20vessels%20carrying%20cargo%20or%20passengers%20sponsored%20by%20military%20department.md)

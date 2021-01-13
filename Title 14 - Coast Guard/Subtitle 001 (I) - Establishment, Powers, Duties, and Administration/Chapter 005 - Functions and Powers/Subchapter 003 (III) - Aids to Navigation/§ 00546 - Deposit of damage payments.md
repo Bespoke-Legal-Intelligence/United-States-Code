@@ -10,6 +10,8 @@ Based on title 33, U.S.C., 1946 ed., §721a (Aug. 16, 1937, ch. 665, §2, 50 Sta
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 642 of this title as this section.

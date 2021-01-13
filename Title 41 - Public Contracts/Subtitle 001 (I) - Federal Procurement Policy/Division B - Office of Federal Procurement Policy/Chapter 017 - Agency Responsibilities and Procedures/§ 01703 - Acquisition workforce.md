@@ -110,7 +110,7 @@ In general.—Subject to paragraph (2), the Administrator shall—
 
 &emsp;&emsp;&emsp;(iv) positions in other General Schedule series in which significant acquisition-related functions are performed; and
 
-&emsp;&emsp;(B) prescribe the manner and extent to which the qualification requirements shall apply to an individual serving in a positiondescribed in subparagraph (A) at the time the requirements are established.
+&emsp;&emsp;(B) prescribe the manner and extent to which the qualification requirements shall apply to an individual serving in a position described in subparagraph (A) at the time the requirements are established.
 
 &emsp;(2)
 
@@ -126,7 +126,7 @@ Education and Training.—
 
 &emsp;(1)
 
-Funding levels.—The head of an executive agency shall set forth separately the funding levels requested for educating and training the acquisition workforce in the budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
+Funding levels.—The head of an executive agency shall set forth separately the funding levels requested for educating and training the acquisition workforce in the budget justification documents submitted insupport of the President's budget submitted to Congress under section 1105 of title 31.
 
 &emsp;(2)
 
@@ -320,6 +320,8 @@ In subsection (j), the text of 1413(c) of the National Defense Authorization Act
 
 In subsection (k)(4), the words "Committee on Oversight and Government Reform" are substituted for "Committee on Government Reform" on authority of Rule X(1)(m) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (c)(2)(A), is section 5051(c) of Pub. L. 103–305, which is set out as a note under this section.
@@ -340,13 +342,15 @@ Pub. L. 112–74 struck out "for training" after "amounts collected" and substit
 
 Subsec. (l). Pub. L. 112–81, §864(c)(2), added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Communication Between Government and Industry
 

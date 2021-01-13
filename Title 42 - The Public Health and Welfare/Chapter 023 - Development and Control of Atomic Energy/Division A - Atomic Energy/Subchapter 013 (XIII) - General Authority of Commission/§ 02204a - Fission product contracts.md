@@ -2,11 +2,11 @@
 
 #### (a) Authority to enter into contracts
 
-Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter into contracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission products from Commission reactors, with or without charge for commercial application.
+Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter intocontracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission products from Commission reactors, with or without charge for commercial application.
 
 #### (b) Cancellation
 
-Any contract entered into by the Commission pursuant to this section shall be subject to termination by the Commission upon payment of cancellation costs as provided in such contract,and any appropriation presently or hereafter made available to the Commission shall be available for payment of such costs which may arise from termination as the contract may provide.
+Any contract entered into by the Commission pursuant to this section shall be subject to termination by the Commission upon payment of cancellation costs as provided in such contract, and any appropriation presently or hereafter made available to the Commission shall be available for payment of such costs which may arise from termination as the contract may provide.
 
 #### (c) Submission to Energy Committees
 

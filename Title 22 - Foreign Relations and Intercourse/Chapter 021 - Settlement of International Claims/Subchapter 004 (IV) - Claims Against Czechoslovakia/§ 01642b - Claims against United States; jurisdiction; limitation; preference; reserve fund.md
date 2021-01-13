@@ -4,11 +4,15 @@ No judicial relief or remedy shall be available to any person asserting a claim 
 
 (Mar. 10, 1950, ch. 54, title IV, §403, as added Pub. L. 85–604, §1, Aug. 8, 1958, 72 Stat. 528; amended Pub. L. 97–164, title I, §161(3), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1982</b>—Pub. L. 97–164 substituted "Claims Court" for "Court of Claims".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

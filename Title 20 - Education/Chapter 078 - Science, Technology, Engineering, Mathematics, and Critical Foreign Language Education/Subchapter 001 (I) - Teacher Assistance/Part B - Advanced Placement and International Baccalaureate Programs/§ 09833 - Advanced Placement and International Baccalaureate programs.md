@@ -84,7 +84,7 @@ The Secretary, to the extent practicable, shall—
 
 &emsp;&emsp;(B) pre-Advanced Placement or pre-International Baccalaureate course development and professional development;
 
-&emsp;&emsp;(C) coordination and articulation between grade levels to prepare students to enroll and succeed in Advanced Placement or International Baccalaureate courses inmathematics, science, or critical foreign languages;
+&emsp;&emsp;(C) coordination and articulation between grade levels to prepare students to enroll and succeed in Advanced Placement or International Baccalaureate courses in mathematics, science, or critical foreign languages;
 
 &emsp;&emsp;(D) purchase of instructional materials;
 
@@ -100,7 +100,7 @@ The Secretary, to the extent practicable, shall—
 
 &emsp;&emsp;&emsp;(i) become qualified to teach, and teach, Advanced Placement or International Baccalaureate courses in mathematics, science, or a critical foreign language; or
 
-&emsp;&emsp;&emsp;(ii) increase the number of low-income students, who take Advanced Placement or International Baccalaureate examinations in mathematics, science, or a critical foreign language with the goal of successfully passing such examinations.
+&emsp;&emsp;&emsp;(ii) increase the number of low-income students, who take Advanced Placement orInternational Baccalaureate examinations in mathematics, science, or a critical foreign language with the goal of successfully passing such examinations.
 
 #### (h) Matching requirement
 

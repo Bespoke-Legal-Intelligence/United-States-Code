@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the "Judiciary Information Technology Fund" (hereafter in this section referred to as the "Fund"). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technologyneeds in accordance with subsections (b) and (c)(2).
+Establishment and Availability of Fund.—There is hereby established in the Treasury of the United States a special fund to be known as the "Judiciary Information Technology Fund" (hereafter in this section referred to as the "Fund"). Moneys in the Fund shall be available to the Director without fiscal year limitation for the procurement (by lease, purchase, exchange, transfer, or otherwise) of information technology resources for program activities included in the courts of appeals, district courts, and other judicial services account of the judicial branch of the United States. The Fund shall also be available for expenses, including personal services, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of information technology resources purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their information technology needs in accordance with subsections (b) and (c)(2).
 
 (b)
 
@@ -62,7 +62,7 @@ Multiyear contracts.—In conducting activities under subsection (a), the Direct
 
 &emsp;(3)
 
-Cancellation costs of multiyear contract.—Any cancellation costs incurred with respect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
+Cancellation costs of multiyear contract.—Any cancellation costs incurred withrespect to a contract entered into under paragraph (2) shall be paid from currently available amounts in the Fund.
 
 (f)
 
@@ -90,7 +90,7 @@ Reprogramming.—The Director of the Administrative Office of the United States 
 
 (i)
 
-Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amountof funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
 
 (j)
 
@@ -109,6 +109,8 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
 (Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -201,6 +203,8 @@ Subsec. (k). Pub. L. 103–420, §2(9), added subsec. (k). Former subsec. (k) re
 Subsec. (l). Pub. L. 103–420, §2(9), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
 Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (l) as (m) and substituted "September 30, 1997" for "September 30, 1994" and "fund established under section 1931 of this title" for " 'Judicial Services Account' ".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

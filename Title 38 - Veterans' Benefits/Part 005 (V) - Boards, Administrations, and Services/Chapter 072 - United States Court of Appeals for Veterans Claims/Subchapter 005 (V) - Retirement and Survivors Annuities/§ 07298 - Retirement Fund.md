@@ -10,7 +10,7 @@
 
 (e)(1) The chief judge may cause periodic examinations of the retirement fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose.
 
-(2)(A) Subject to the availability of appropriations, there shall be deposited in the Treasury to the credit of the retirement fund, not later than the close of each fiscal year, such amounts as may be required to reduce to zero the unfunded liability (if any) of the fund. Such deposits shall be taken from sums available for that fiscal year for the payment of the expenses of the Court.
+(2)(A) Subject to the availability of appropriations, there shall be deposited in the Treasury to the credit of the retirement fund, not later than the close of each fiscal year, such amounts as may be required to reduce to zero the unfunded liability (if any) of the fund. Such deposits shallbe taken from sums available for that fiscal year for the payment of the expenses of the Court.
 
 (B) For purposes of subparagraph (A) of this paragraph, the term "unfunded liability", with respect to any fiscal year, means the amount estimated by the chief judge to be equal to the excess (as of the close of that fiscal year) of—
 
@@ -28,9 +28,11 @@
 
 (f) The Secretary of the Treasury shall invest from time to time, in interest-bearing securities of the United States, such portions of the retirement fund as in such Secretary's judgment may not be immediately required for payments from the fund. The income derived from such investments shall constitute a part of the fund.
 
-(g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit ControlAct of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges' Retirement Fund.
+(g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges' Retirement Fund.
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §1011(j), Nov. 30, 1999, 113 Stat. 1589.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ Subsec. (g). Pub. L. 105–368, §502, added subsec. (g).
 Subsecs. (b), (c). Pub. L. 102–40, §402(d)(1), substituted "7296" for "4096" and "7297" for "4097".
 
 Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, §402(d)(1), substituted "7296(i) and 7297(c)" for "4096(i) and 4097(c)" and "7296(j) and 7296(d)" for "4096(j) and 4096(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

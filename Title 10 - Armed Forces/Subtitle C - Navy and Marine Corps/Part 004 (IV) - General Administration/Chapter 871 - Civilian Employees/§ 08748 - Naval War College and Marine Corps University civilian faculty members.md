@@ -34,7 +34,7 @@ Aug. 2, 1946, ch. 756, §7(a) (less applicability to Naval Academy), 60 Stat. 85
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (a) the words "for the proper instruction of naval personnel" and in subsection (b) the words"out of naval appropriations" are omitted as surplusage.
+In subsection (a) the words "for the proper instruction of naval personnel" and in subsection (b) the words "out of naval appropriations" are omitted as surplusage.
 
 In subsection (c) the words "except the authority to prescribe regulations" are omitted, since 34 U.S.C. 1071 contains no authority for the Secretary to prescribe regulations.
 

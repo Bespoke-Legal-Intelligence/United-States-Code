@@ -18,6 +18,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 575; amended Pub. L. 103–358, §2(b)(1)–(3), Oct. 14, 1994, 108 Stat. 3421.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–358, §2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Payments under this chapter which would otherwise be made to an employee, Member, or annuitant (including an employee, Member, or annuitant as defined under section 8331) based on the service of that individual shall be paid (in whole or in part) by the Office or the Executive Director (as the case may be), to another person if and to the extent that the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation expressly provide. Any payment under this subsection to a person bars recovery by any other person."
@@ -25,6 +27,8 @@
 Subsec. (b). Pub. L. 103–358, §2(b)(2), inserted "other legal process," after "order,".
 
 Subsec. (c). Pub. L. 103–358, §2(b)(3), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

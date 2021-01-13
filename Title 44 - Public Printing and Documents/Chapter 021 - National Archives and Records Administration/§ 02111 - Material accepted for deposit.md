@@ -18,6 +18,8 @@ Exception.—This section shall not apply in the case of any Presidential record
 
 Based on 44 U.S. Code 1964 ed., §397(e) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583; July 12, 1952, ch. 703, §1(p), 66 Stat. 594; July 12, 1955, ch. 329, 69 Stat. 297; Aug. 12, 1955, ch. 859, 69 Stat. 695).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2111 was renumbered section 2115 of this title.
@@ -29,6 +31,8 @@ A prior section 2111 was renumbered section 2115 of this title.
 <b>1984</b>—Pub. L. 98–497, §107(a)(5), substituted "Archivist" for "Administrator of General Services" in provisions preceding par. (1), and substituted "Archivist" for "Administrator" in par. (1).
 
 <b>1978</b>—Pub. L. 95–591 inserted provision excluding Presidential records which are subject to provisions of chapter 22 of this title from application of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 
@@ -66,7 +70,7 @@ Sec. 101. (a) Notwithstanding any other law or any agreement or understanding ma
 
 Sec. 102. (a) None of the tape recordings or other materials referred to in section 101 shall be destroyed, except as hereafter may be provided by law.
 
-"(b) Notwithstanding any other provision of this title, any other law, or any agreement or understanding made pursuant to section 2111 of title 44, United States Code, the tape recordings and other materials referred to in section 101 shall, immediately upon the date of enactment of this title, be made available, subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, for use in any judicial proceeding or otherwise subject to court subpena or other legal process. Any request by the Office of Watergate Special Prosecution Force, whether by court subpena or other lawful process, for access to such recordings or materials shall at all times have priority over any other request for such recordings or materials.
+"(b) Notwithstanding any other provision of this title, any other law, or any agreement or understanding made pursuant to section 2111 of title 44, United States Code, the tape recordings and other materials referred to in section 101 shall, immediately upon the date of enactment of this title, be made available, subject to any rights, defenses, or privileges which the Federal Government or any person may invoke, for use in any judicial proceeding or otherwise subject to court subpena or other legal process. Any request by the Office of Watergate Special ProsecutionForce, whether by court subpena or other lawful process, for access to such recordings or materials shall at all times have priority over any other request for such recordings or materials.
 
 "(c) Richard M. Nixon, or any person whom he may designate in writing, shall at all times have access to the tape recordings and other materials referred to in section 101 for any purpose which is consistent with the provisions of this title, subsequent and subject to the regulations which the Archivist shall issue pursuant to section 103.
 
@@ -102,7 +106,7 @@ Sec. 104. (a) The Archivist shall, within ninety days after the date of enactmen
 
 "(c) The provisions of this title shall not apply, on and after the date upon which regulations proposed by the Administrator take effect under subsection (b), to any tape recordings or other materials given to Richard M. Nixon, or his heirs, pursuant to subsection (a)(7).
 
-"(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicableunder the Freedom of Information Act, 5 U.S.C. §552 et seq.
+"(d) The provisions of this title shall not in any way affect the rights, limitations or exemptions applicable under the Freedom of Information Act, 5 U.S.C. §552 et seq.
 
 #### "judicial review
 
@@ -121,6 +125,8 @@ Sec. 105. (a) The United States District Court for the District of Columbia shal
 Sec. 106. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this title."
 
 \[Pub. L. 108–199, div. F, title V, §543(b), Jan. 23, 2004, 118 Stat. 346, provided that: "Nothing in section 103 of the Presidential Recordings and Materials Preservation Act (Public Law 93–526; 44 U.S.C. 2111 note), as amended by subsection (a), may be construed as affecting public access to the recordings and materials referred to in that section as provided in regulations promulgated pursuant to section 104 of such Act.\]"
+
+#### <b>Executive Documents</b>
 
 #### Classified National Security Information
 

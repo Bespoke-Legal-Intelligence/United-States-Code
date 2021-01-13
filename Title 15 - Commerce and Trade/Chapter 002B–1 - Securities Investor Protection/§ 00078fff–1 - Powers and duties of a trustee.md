@@ -2,7 +2,7 @@
 
 #### (a) Trustee powers
 
-A trustee shall be vested with the same powers and title with respect to the debtor and the property of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
+A trustee shall be vested with the same powers and title with respect to the debtor and theproperty of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
 
 &emsp;(1) hire and fix the compensation of all personnel (including officers and employees of the debtor and of its examining authority) and other persons (including accountants) that are deemed by the trustee necessary for all or any purposes of the liquidation proceeding;
 
@@ -12,7 +12,7 @@ A trustee shall be vested with the same powers and title with respect to the deb
 
 #### (b) Trustee duties
 
-To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commoditybroker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
+To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
 
 &emsp;(1) deliver securities to or on behalf of customers to the maximum extent practicable in satisfaction of customer claims for securities of the same class and series of an issuer; and
 

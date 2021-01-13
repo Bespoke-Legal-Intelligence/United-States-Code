@@ -1,8 +1,12 @@
 ### §500. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 1, 1937, ch. 897, §1, 50 Stat. 900, which declared purpose of this subchapter for establishment of a reindeer industry, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

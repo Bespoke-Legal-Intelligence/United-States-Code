@@ -60,7 +60,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(C) creating a free and more open world agricultural trading system by resolving questions pertaining to export and other trade-distorting subsidies, market pricing and market access and eliminating and reducing substantially other specific constraints to fair trade and more open market access, such as tariffs, quotas, and other nontariff practices, including unjustified phytosanitary and sanitary restrictions; and
 
-&emsp;&emsp;(D) seeking agreements by which the major agricultural exporting nations agree to pursue policies to reduce excessive production of agricultural commodities during periods of oversupply, with due regard for the fact that the United States already undertakes such policies, and without recourse to arbitrary schemes to divide market shares among major exporting countries.
+&emsp;&emsp;(D) seeking agreements by which the major agricultural exporting nations agree to pursue policies to reduce excessive production of agricultural commodities during periods of oversupply, with due regard forthe fact that the United States already undertakes such policies, and without recourse to arbitrary schemes to divide market shares among major exporting countries.
 
 #### (8) Unfair trade practices
 
@@ -142,7 +142,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;&emsp;(II) will reduce or eliminate the trade distortive effects of certain trade-related investment measures.
 
-&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United States negotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
+&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United Statesnegotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
 
 #### (12) Safeguards
 
@@ -298,7 +298,7 @@ Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
 Sec. 3–101. <i>Foreign Corrupt Practices Act Amendments.</i>
 
-The functions conferred upon the President by section 5003(d)(1) ("International Agreement") of the Omnibus Trade Act \[15 U.S.C. 78dd–1 note\] are delegated to the Secretary of State, who in performing such functions shall act in consultation with the Attorney General, the United States Trade Representative, the Chairman of the Securities and Exchange Commission, the Secretary of Commerce, the Secretary of the Treasury and the Director of the Office of Management and Budget.
+The functions conferred upon the President by section 5003(d)(1) ("International Agreement") of the Omnibus Trade Act \[15 U.S.C. 78dd–1 note\] are delegated to the Secretary of State, who in performing such functions shall act in consultation with the Attorney General, the United States Trade Representative, theChairman of the Securities and Exchange Commission, the Secretary of Commerce, the Secretary of the Treasury and the Director of the Office of Management and Budget.
 
 Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeovers.</i>
 
@@ -358,7 +358,7 @@ Sec. 5–101. <i>Executive Oversight.</i>
 
 Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act, determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[former 50 U.S.C. 4607(b)\].
+Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act, determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[former 50 U.S.C. 4607(b)\].
 
 Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 

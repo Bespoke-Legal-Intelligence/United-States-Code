@@ -18,6 +18,8 @@ The Committee on Rules and Administration of the Senate in consultation with the
 
 (Pub. L. 100–696, title IX, §901(a), (b)(2), Nov. 18, 1988, 102 Stat. 4610, 4611.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 188b–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -26,5 +28,5 @@ Section is based on section 2 of Senate Resolution No. 382, Ninetieth Congress, 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(2), substituted "protect, and make known" for "and protect"and "Senate wing of the United States Capitol, any Senate Office Buildings" for "Senate wing of the Capitol".
+<b>1988</b>—Subsec. (a). Pub. L. 100–696, §901(b)(2), substituted "protect, and make known" for "and protect" and "Senate wing of the United States Capitol, any Senate Office Buildings" for "Senate wing of the Capitol".
 

@@ -66,7 +66,7 @@ For the purposes of this chapter—
 
 &emsp;(i) has the potential to injure a marine mammal or marine mammal stock in the wild; or
 
-&emsp;(ii) has the potential to disturb a marine mammal or marine mammal stock in the wildby causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering.
+&emsp;(ii) has the potential to disturb a marine mammal or marine mammal stock in the wild by causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering.
 
 (B) In the case of a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note) or a scientific research activity conducted by or on behalf of the Federal Government consistent with section 1374(c)(3) of this title, the term "harassment" means—
 
@@ -222,7 +222,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–238, §24(e), Apr. 30, 1994, 108 Stat. 566, provided that: "The amendments made by subsection (a)\[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\]."
+Pub. L. 103–238, §24(e), Apr. 30, 1994, 108 Stat. 566, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if enacted as part of section 3004 of the Marine Mammal Health and Stranding Response Act (106 Stat. 5067) \[Pub. L. 102–587\]."
 
 #### Effective Date of 1992 Amendment
 

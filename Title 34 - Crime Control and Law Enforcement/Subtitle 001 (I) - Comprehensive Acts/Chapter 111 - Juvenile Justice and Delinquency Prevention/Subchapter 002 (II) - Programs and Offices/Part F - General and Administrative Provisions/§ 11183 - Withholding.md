@@ -10,9 +10,13 @@ Whenever the Administrator, after giving reasonable notice and opportunity for h
 
 (Pub. L. 93–415, title II, §299B, formerly §293, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered §299B, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5673 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

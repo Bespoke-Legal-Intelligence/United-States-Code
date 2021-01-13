@@ -24,6 +24,8 @@ In determining whether a benefit is payable under this subchapter, the Bureau—
 
 (Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, §1164(b), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 112–239, div. A, title X, §1086(b)(1)(C), Jan. 2, 2013, 126 Stat. 1966; Pub. L. 115–36, §5, June 2, 2017, 131 Stat. 852.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3796a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -46,9 +48,11 @@ Par. (1). Pub. L. 112–239, §1086(b)(1)(C)(ii), substituted "bring about his d
 
 <b>1990</b>—Pars. (1) to (4). Pub. L. 101–647 inserted "or catastrophic injury" after "death" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–36, §6, June 2, 2017, 131 Stat. 852, provided that: "The amendments made by this Act \[enacting section 10288 of this title and amending this section and sections 10285 and 10302 of this title\] shall—
+Pub. L. 115–36, §6, June 2, 2017, 131 Stat. 852, provided that: "The amendments made by this Act \[enactingsection 10288 of this title and amending this section and sections 10285 and 10302 of this title\] shall—
 
 &emsp;"(1) take effect on the date of enactment of this Act \[June 2, 2017\]; and
 

@@ -10,9 +10,13 @@ The Attorney General may provide technical and other assistance to State, tribal
 
 (Pub. L. 111–211, title II, §222, July 29, 2010, 124 Stat. 2272.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Tribal Law and Order Act of 2010, and not as part of the Indian Law Enforcement Reform Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

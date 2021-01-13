@@ -36,7 +36,7 @@ The President shall designate a Fund manager. The duties of the Fund manager sha
 
 #### (g) Liabilities against Fund
 
-When any agreement entered into pursuant to this subchapter after December 31, 1991, imposesany contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
+When any agreement entered into pursuant to this subchapter after December 31, 1991, imposes any contingent liability upon the United States, such liability shall be considered an obligation against the Fund.
 
 (Sept. 8, 1950, ch. 932, title III, §304, as added Pub. L. 111–67, §7, Sept. 30, 2009, 123 Stat. 2017.)
 
@@ -69,6 +69,10 @@ Section 308, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, t
 Section 309, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 98–265, §6, Apr. 17, 1984, 98 Stat. 152; amended Pub. L. 99–441, §4, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 102–558, title I, §124, Oct. 28, 1992, 106 Stat. 4207; Pub. L. 107–47, §4(5), Oct. 5, 2001, 115 Stat. 260, related to annual report on impact of offsets. See section 4568 of this title.
 
 Section 310, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 102–558, title I, §125, Oct. 28, 1992, 106 Stat. 4208, related to civil-military integration.
+
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
+
+Requirement described in subsec. (e) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017(1) of Pub. L. 116–136, set out in a note under section 4532 of this title.
 
 #### Defense Production Act Fund Manager
 

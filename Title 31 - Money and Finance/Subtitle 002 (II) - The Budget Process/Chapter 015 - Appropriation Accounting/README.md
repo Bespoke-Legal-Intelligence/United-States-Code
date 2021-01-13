@@ -55,6 +55,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106, div. E, title LV, §5502(c), Feb. 10, 1996, 110 Stat. 699, substituted "of a formal protest or other challenge" for "of a protest" in item 1558.

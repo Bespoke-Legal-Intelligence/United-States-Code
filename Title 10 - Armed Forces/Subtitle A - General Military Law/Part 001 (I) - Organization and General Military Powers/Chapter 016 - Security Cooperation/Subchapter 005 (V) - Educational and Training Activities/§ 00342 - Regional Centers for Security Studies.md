@@ -62,7 +62,7 @@ Payment of Costs.—(1) Participation in activities of a Regional Center shall b
 
 (g)
 
-Support to Other Agencies.—The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary ofDefense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
+Support to Other Agencies.—The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
 
 (h)
 
@@ -143,6 +143,166 @@ Subsec. (b)(4). Pub. L. 109–163 substituted "under section 2611 of this title.
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title IX, §941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under \[former\] section 184 of title 10, United States Code (as so amended) \[now 10 U.S.C. 342\], that begin on or after that date."
+
+#### Ted Stevens Center for Arctic Security Studies
+
+Pub. L. 116–283, div. A, title X, §1089, Jan. 1, 2021, 134 Stat. 3878, provided that:
+
+"(a)
+
+Plan Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in coordination with the Secretary of State, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to establish a Department of Defense Regional Center for Security Studies for the Arctic.
+
+&emsp;"(2)
+
+Elements.—The plan required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the benefits of establishing such a center, including the manner in which the establishment of such a center would benefit United States and Department of Defense interests in the Arctic region.
+
+&emsp;&emsp;"(B) A description of the mission and purpose of such a center, including—
+
+&emsp;&emsp;&emsp;"(i) enhancing understanding of the dynamics and national security implications of an emerging Arctic region, including increased access for transit and maneuverability; and
+
+&emsp;&emsp;&emsp;"(ii) other specific policy guidance from the Office of the Secretary of Defense.
+
+&emsp;&emsp;"(C) An analysis of suitable reporting relationships with the applicable combatant commands.
+
+&emsp;&emsp;"(D) An assessment of suitable locations, which shall include an enumeration and valuation of criteria, which may include—
+
+&emsp;&emsp;&emsp;"(i) the proximity of a location to other academic institutions that study security implications with respect to the Arctic region;
+
+&emsp;&emsp;&emsp;"(ii) the proximity of a location to the designated lead for Arctic affairs of the United States Northern Command; and
+
+&emsp;&emsp;&emsp;"(iii) the proximity of a location to a central hub of assigned Arctic-focused Armed Forces so as to suitably advance relevant professional development of skills unique to the Arctic region.
+
+&emsp;&emsp;"(E) A description of the establishment and operational costs of such a center, including for—
+
+&emsp;&emsp;&emsp;"(i) military construction for required facilities;
+
+&emsp;&emsp;&emsp;"(ii) facility renovation;
+
+&emsp;&emsp;&emsp;"(iii) personnel costs for faculty and staff; and
+
+&emsp;&emsp;&emsp;"(iv) other costs the Secretary considers appropriate.
+
+&emsp;&emsp;"(F) An evaluation of the existing infrastructure, resources, and personnel available at military installations and at universities and other academic institutions that could reduce the costs described in accordance with subparagraph (E).
+
+&emsp;&emsp;"(G) An examination of partnership opportunities with United States allies and partners for potential collaboration and burden sharing.
+
+&emsp;&emsp;"(H) A description of potential courses and programs that such a center could carry out, including—
+
+&emsp;&emsp;&emsp;"(i) core, specialized, and advanced courses;
+
+&emsp;&emsp;&emsp;"(ii) potential planning workshops;
+
+&emsp;&emsp;&emsp;"(iii) seminars;
+
+&emsp;&emsp;&emsp;"(iv) confidence-building initiatives; and
+
+&emsp;&emsp;&emsp;"(v) academic research.
+
+&emsp;&emsp;"(I) A description of any modification to title 10, United States Code, necessary for the effective operation of such a center.
+
+&emsp;"(3)
+
+Form.—The plan required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(b)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—Not earlier than 30 days after the submittal of the plan required by subsection (a), and subject to the availability of appropriations, the Secretary of Defense may establish and administer a Department of Defense Regional Center for Security Studies for the Arctic, to be known as the 'Ted Stevens Center for Arctic Security Studies', for the purpose described in section 342(a) of title 10, United States Code.
+
+&emsp;"(2)
+
+Location.—Subject to a determination by the Secretary to establish the Ted Stevens Center for Arctic Security Studies under this section, the Center shall be established at a location determined suitable pursuant to subsection (a)(2)(D)."
+
+#### Functional Center for Security Studies in Irregular Warfare
+
+Pub. L. 116–283, div. A, title XII, §1299L, Jan. 1, 2021, 134 Stat. 4012, provided that:
+
+"(a)
+
+Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in consultation with the Secretary of State, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that assesses the merits and feasibility of establishing and administering a Department of Defense Functional Center for Security Studies in Irregular Warfare.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the benefits to the United States, and the allies and partners of the United States, of establishing such a functional center, including the manner in which the establishment of such a functional center would enhance and sustain focus on, and advance knowledge and understanding of, matters of irregular warfare, includingcybersecurity, nonstate actors, information operations, counterterrorism, stability operations, and the hybridization of such matters.
+
+&emsp;&emsp;"(B) A detailed description of the mission and purpose of such a functional center, including applicable policy guidance from the Office of the Secretary of Defense.
+
+&emsp;&emsp;"(C) An analysis of appropriate reporting and liaison relationships between such a functional center and—
+
+&emsp;&emsp;&emsp;"(i) the geographic and functional combatant commands;
+
+&emsp;&emsp;&emsp;"(ii) other Department of Defense stakeholders; and
+
+&emsp;&emsp;&emsp;"(iii) other government and nongovernment entities and organizations.
+
+&emsp;&emsp;"(D) An enumeration and valuation of criteria applicable to the determination of a suitable location for such a functional center.
+
+&emsp;&emsp;"(E) A description of the establishment and operational costs of such a functional center, including for—
+
+&emsp;&emsp;&emsp;"(i) military construction for required facilities;
+
+&emsp;&emsp;&emsp;"(ii) facility renovation;
+
+&emsp;&emsp;&emsp;"(iii) personnel costs for faculty and staff; and
+
+&emsp;&emsp;&emsp;"(iv) other costs the Secretary of Defense considers appropriate.
+
+&emsp;&emsp;"(F) An evaluation of the existing infrastructure, resources, and personnel available at military installations, existing regional centers, interagency facilities, and universities and other academic and research institutions that could reduce the costs described in subparagraph (E).
+
+&emsp;&emsp;"(G) An examination of partnership opportunities with United States allies and partners for potential collaboration and burden sharing.
+
+&emsp;&emsp;"(H) A description of potential courses and programs that such a functional center could carry out, including—
+
+&emsp;&emsp;&emsp;"(i) core, specialized, and advanced courses;
+
+&emsp;&emsp;&emsp;"(ii) planning workshops and structured after-action reviews or debriefs;
+
+&emsp;&emsp;&emsp;"(iii) seminars;
+
+&emsp;&emsp;&emsp;"(iv) initiatives on executive development, relationship building, partnership outreach, and any other matter the Secretary of Defense considers appropriate; and
+
+&emsp;&emsp;&emsp;"(v) focused academic research and studies in support of Department priorities.
+
+&emsp;&emsp;"(I) A description of any modification to title 10, United States Code, or any other provision of law, necessary for the effective establishment and administration of such a functional center.
+
+&emsp;"(3)
+
+Form.—The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(b)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—Not earlier than 30 days after the submittal of the report required by subsection (a), and subject to the availability of appropriated funds, the Secretary of Defense may establish and administer a Department of Defense Functional Center for Security Studies in Irregular Warfare.
+
+&emsp;"(2)
+
+Treatment as a regional center for security studies.—A Department of Defense Functional Center for Security Studies in Irregular Warfare established under paragraph (1) shall be operated and administered in the same manner as the Department of Defense Regional Centers for Security Studies under section 342 of title 10, United States Code, and in accordance with such regulations as the Secretary of Defense may prescribe.
+
+&emsp;"(3)
+
+Limitation.—No other institution or element of the Department may be designated as a Department of Defense functional center, except by an Act of Congress.
+
+&emsp;"(4)
+
+Location.—The location of a Department of Defense Functional Center for Security Studies in Irregular Warfare established under paragraph (1) shall be selected based on an objective, criteria-driven administrative or competitive award process."
 
 #### Framework for Obtaining Concurrence for Participation in Activities of Regional Centers for Security Studies
 

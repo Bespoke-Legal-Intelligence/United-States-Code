@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the requirements of this section, the Secretary of Transportation shall require the operator of a pipeline facility to develop and adopt a qualification program to ensure that the individuals who perform covered tasks are qualified to conduct such tasks.
+In General.—Subject to the requirements of this section, the Secretary of Transportationshall require the operator of a pipeline facility to develop and adopt a qualification program to ensure that the individuals who perform covered tasks are qualified to conduct such tasks.
 
 (b)
 
@@ -10,7 +10,7 @@ Standards and Criteria.—
 
 &emsp;(1)
 
-Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department ofTransportation has in place standards and criteria for qualification programs referred to in subsection (a).
+Development.—Not later than 1 year after the date of enactment of this section, the Secretary shall ensure that the Department of Transportation has in place standards and criteria for qualification programs referred to in subsection (a).
 
 &emsp;(2)
 

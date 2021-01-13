@@ -26,7 +26,7 @@
 
 #### (1) Unfair or deceptive acts or practices
 
-&emsp;A violation of subsection (a) shall be treated as a violation of a rule defining an unfair or adeceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+&emsp;A violation of subsection (a) shall be treated as a violation of a rule defining an unfair or a deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
 
 #### (2) Powers of Commission
 
@@ -112,7 +112,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+&emsp;&emsp;In addition to civil actions brought by attorneys general under paragraph (1), anyother consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
 
 #### (B) Savings provision
 
@@ -122,7 +122,7 @@
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 

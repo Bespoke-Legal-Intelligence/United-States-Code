@@ -30,7 +30,7 @@
 
 #### (5) Research, demonstration, and evaluation
 
-&emsp;The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and qualityof child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
+&emsp;The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 
 #### (b) State allotment
 
@@ -38,7 +38,7 @@
 
 &emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
-&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
+&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the productof the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 50 percent of such remainder as the product of the school lunch factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States.
 
@@ -120,7 +120,7 @@
 
 #### (A) Request for use of funds
 
-&emsp;&emsp;An Indian tribe or tribal organization may submit to the Secretary a request to use amounts provided under this subsection for construction or renovation purposes.
+&emsp;&emsp;An Indian tribe or tribal organization may submit to the Secretary a request to useamounts provided under this subsection for construction or renovation purposes.
 
 #### (B) Determination
 
@@ -184,7 +184,7 @@ For the purposes of this section, the term "State" includes only the 50 States, 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281,60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Subsec. (a)(3) to (5). Pub. L. 113–186, §9(1)(B), added pars. (3) to (5).
 
 Subsec. (c)(2)(D). Pub. L. 113–186, §9(2)(A), added subpar. (D).
 
-Subsec. (c)(6)(C). Pub. L. 113–186, §9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made."
+Subsec. (c)(6)(C). Pub. L. 113–186, §9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior toamendment, text read as follows: "The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made."
 
 <b>1999</b>—Subsec. (b)(3). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 

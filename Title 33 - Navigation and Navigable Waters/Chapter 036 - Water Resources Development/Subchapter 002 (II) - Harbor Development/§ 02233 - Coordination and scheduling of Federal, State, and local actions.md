@@ -6,7 +6,7 @@ The Secretary, on request from an appropriate non-Federal interest in the form o
 
 #### (b) Procedural requirements
 
-Within 15 days after receipt of notice under subsection (a), the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) to all State and local agencies that may be required to issue permits for the construction of the project or related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c). Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
+Within 15 days after receipt of notice under subsection (a), the Secretary shall publish such notice in the Federal Register. The Secretary also shall provide written notification of the receipt of a notice under subsection (a) to all State and local agencies that may be required to issue permits for the construction of the projector related activities. The Secretary shall solicit the cooperation of those agencies and request their entry into a memorandum of agreement described in subsection (c). Within 30 days after publication of the notice in the Federal Register, State and local agencies that intend to enter into the memorandum of agreement shall notify the Secretary of their intent in writing.
 
 #### (c) Scheduling agreement
 
@@ -37,6 +37,8 @@ Not later than the final day of the schedule, the Secretary shall notify the non
 Not later than one year after November 17, 1986, the Secretary shall prepare and transmit to Congress a report estimating the time required for the issuance of all Federal, State, and local permits for the construction of navigation projects for harbors or inland harbors and associated activities. The Secretary shall include in that report recommendations for further reducing the amount of time required for the issuance of those permits, including any proposed changes in existing law.
 
 (Pub. L. 99–662, title II, §205, Nov. 17, 1986, 100 Stat. 4101.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

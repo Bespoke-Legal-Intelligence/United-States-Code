@@ -1,6 +1,6 @@
 ### §2104. Reviews of State court decisions
 
-A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
+A review by the Supreme Court of a judgment or decree of a State court shall be conducted inthe same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
 
 (June 25, 1948, ch. 646, 62 Stat. 962; Pub. L. 100–352, §5(d)(1), June 27, 1988, 102 Stat. 663.)
 
@@ -12,9 +12,13 @@ Words "An appeal to" were substituted for "writs of error from", in view of the 
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–352 substituted "Reviews of State court decisions" for "Appeals from State courts" in section catchline and amended text generally. Prior to amendment, text read as follows: "An appeal to the Supreme Court from a State court shall be taken in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree appealed from had been rendered in a court of the United States."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -1,8 +1,10 @@
 ### §5901. Prohibition against acting as claims agent or attorney
 
-Except as provided by section 500 of title 5, no individual may act as an agent or attorney in the preparation, presentation, or prosecution of any claim under laws administered by the Secretary unless such individual has been recognized for such purposes by the Secretary.
+Except as provided by section 500 of title 5, no individual may act as an agent or attorney inthe preparation, presentation, or prosecution of any claim under laws administered by the Secretary unless such individual has been recognized for such purposes by the Secretary.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3401; Pub. L. 91–24, §12(a), June 11, 1969, 83 Stat. 34; Pub. L. 99–576, title VII, §701(79), Oct. 28, 1986, 100 Stat. 3298; renumbered §5901, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

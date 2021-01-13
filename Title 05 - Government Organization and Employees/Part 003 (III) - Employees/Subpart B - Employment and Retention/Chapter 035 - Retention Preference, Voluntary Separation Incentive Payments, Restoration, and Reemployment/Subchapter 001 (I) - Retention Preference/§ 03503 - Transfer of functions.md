@@ -26,11 +26,15 @@ In subsections (a) and (b), the word "first" in the phrase "shall first be trans
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsecs. (a), (b). Pub. L. 96–54 substituted "competing employee" for "preference eligible employed".
 
 <b>1978</b>—Subsecs. (a), (b). Pub. L. 95–454 which directed the substitution of "competing employee" for "preference eligible employee" was impossible to execute literally because the text contained reference to "preference eligible employed". See 1979 Amendment note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

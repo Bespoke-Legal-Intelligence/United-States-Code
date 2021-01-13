@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Action plans shall be implemented, insofar as practicable, to upgrade existing industries touse natural resources more efficiently and to expand the economic base of rural communities so as to alleviate or reduce their dependence on National Forest System land resources.
+Action plans shall be implemented, insofar as practicable, to upgrade existing industries to use natural resources more efficiently and to expand the economic base of rural communities so as to alleviate or reduce their dependence on National Forest System land resources.
 
 #### (b) Assistance
 

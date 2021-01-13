@@ -6,7 +6,9 @@ The number of copies, not to exceed five thousand, to be printed of the annual r
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §266 (Mar. 3, 1905, No. 33, 33 Stat. 1287; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Ex.Ord. No. 6166, §14, June 10, 1933; 1940 Reorg. Plan No. V, §1, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238).
+Based on 44 U.S. Code, 1964 ed., §266 (Mar. 3, 1905, No. 33, 33 Stat. 1287; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Ex. Ord. No. 6166, §14, June 10, 1933; 1940 Reorg. Plan No. V, §1, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

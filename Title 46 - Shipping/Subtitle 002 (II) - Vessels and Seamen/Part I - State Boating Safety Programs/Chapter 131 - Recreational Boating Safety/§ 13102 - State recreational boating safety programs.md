@@ -26,9 +26,11 @@ Historical and Revision Notes
 
 Section 13101(a) authorizes the Secretary to make contracts with, and allocate amounts to eligible States to assist them in carrying out their recreational boating safety and facilities improvement programs.
 
-Subsection (b) requires the Secretary to establish guidelines and standards for the program, and specifiesspecific conditions the Secretary must consider, requires consultation with the Secretary of the Interior, and to maintain environmental standards consistent with the Coastal Zone Management Act.
+Subsection (b) requires the Secretary to establish guidelines and standards for the program, and specifies specific conditions the Secretary must consider, requires consultation with the Secretary of the Interior, and to maintain environmental standards consistent with the Coastal Zone Management Act.
 
 Subsection (c) makes the States who meet the standards prescribed by the Secretary eligible for the amounts authorized under this chapter.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,6 +56,8 @@ Subsec. (c). Pub. L. 109–304, §16(c)(3), substituted "section 13104" for "sec
 
 Subsec. (c). Pub. L. 98–369, §1011(b)(1)(B), struck out "and facilities improvement" after "recreational boating safety".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Pub. L. 98–369, div. A, title X, subtitle B, part I, subpart A (§§1010–1013), §1013, July 18, 1984, 98 Stat. 1014, provided that: "The amendments made by this subpart \[amending this section and sections 2102, 13102, 13103, 13105, 13106, 13108, and 13109 of this title and enacting a provision set out as a note under this section\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984."
@@ -76,7 +80,7 @@ Authorization of contracts.—The Secretary of Transportation and the Secretary 
 
 "(3)
 
-Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
+Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representativesand to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
 
 "(4)
 

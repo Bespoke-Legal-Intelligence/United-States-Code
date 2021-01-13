@@ -38,7 +38,7 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 (f)
 
-Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act oromission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
+Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, or to any environmental restoration account of a military department, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
 (g)
 
@@ -92,7 +92,7 @@ Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: "The 
 
 &emsp;"(B) submits to Congress written notice of the determination before undertaking the permanent relocation of the facility, including a description of the response action taken or to be taken in connection with the permanent relocation and a statement of the costs incurred or to be incurred in connection with the permanent relocation."
 
-Subsec. (c)(3). Pub. L. 108–136, §313(a)(2), struck out par. (3) which read as follows: "If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary."
+Subsec. (c)(3). Pub. L. 108–136, §313(a)(2), struck out par. (3) which read as follows: "If relocation costs areto be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary."
 
 Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
@@ -100,7 +100,7 @@ Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
 <b>2000</b>—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account onlyin order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended."
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 

@@ -6,17 +6,23 @@ The Congress believes that United States foreign aid funds could be utilized mor
 
 #### (b) Management system; establishment; scope
 
-To meet this need, the President shall establish a management system that includes: the definition of objectives and programs for United States foreign assistance; the development of quantitative indicators of progress toward these objectives; the orderly consideration of alternative means for accomplishing such objectives; and the adoption of methods for comparing actual results of programs and projects with those anticipated when they were undertaken. The system should provide information to the agency and to Congress that relates agency resources, expenditures, and budget projections tosuch objectives and results in order to assist in the evaluation of program performance, the review of budgetary requests, and the setting of program priorities.
+To meet this need, the President shall establish a management system that includes: the definition of objectives and programs for United States foreign assistance; the development of quantitative indicators of progress toward these objectives; the orderly consideration of alternative means for accomplishing such objectives; and the adoption of methods for comparing actual results of programs and projects with those anticipated when they were undertaken. The system should provide information to the agency and to Congress that relates agency resources, expenditures, and budget projections to such objectives and results in order to assist in the evaluation of program performance, the review of budgetary requests, and the setting of program priorities.
 
 (Pub. L. 87–195, pt. III, §621A, as added Pub. L. 90–554, pt. III, §302(b), Oct. 8, 1968, 82 Stat. 964; amended Pub. L. 95–424, title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 959.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–424 struck out subsec. (c) relating to annual reports to Congress by the President evaluating the progress made toward implementation of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

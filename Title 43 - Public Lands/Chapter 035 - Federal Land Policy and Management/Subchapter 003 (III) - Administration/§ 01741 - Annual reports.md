@@ -14,9 +14,13 @@ The report shall include, but not be limited to, program identification informat
 
 (Pub. L. 94–579, title III, §311, Oct. 21, 1976, 90 Stat. 2768; Pub. L. 103–437, §16(d)(3), Nov. 2, 1994, 108 Stat. 4595.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the House and Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

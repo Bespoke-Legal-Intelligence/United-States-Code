@@ -36,7 +36,7 @@
 
 #### (3) Limitation
 
-&emsp;No information shall be required to be furnished under this subsection with respect toany foreign business entity for any annual accounting period unless the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.
+&emsp;No information shall be required to be furnished under this subsection with respect to any foreign business entity for any annual accounting period unless the Secretary has prescribed the furnishing of such information on or before the first day of such annual accounting period.
 
 #### (4) Information required from certain shareholders in certain cases
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(A) in applying section 901 (relating to taxes of foreign countries and possessions of the United States) to such United States person for the taxable year, the amount of taxes (other than taxes reduced under subparagraph (B)) paid or deemed paid (other than those deemed paid under section 904(c)) to any foreign country or possession of the United States for the taxable year shall be reduced by 10 percent, and
 
-&emsp;&emsp;(B) in the case of a foreign business entity which is a foreign corporation, in applying section 960 to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which such information is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
+&emsp;&emsp;(B) in the case of a foreign business entity which is a foreign corporation, in applying section 960 to any such United States person which is a corporation (or to any person who acquires from any other person any portion of the interest of such other person in any such foreign corporation, but only to the extent of such portion) for any taxable year, the amount of taxes paid or deemed paid by each foreign corporation with respect to which such person is required to furnish information during the annual accounting period or periods with respect to which suchinformation is required under paragraph (2) of subsection (a) shall be reduced by 10 percent.
 
 > &emsp;If such failure continues 90 days or more after notice of such failure by the Secretary to the United States person, then the amount of the reduction under this paragraph shall be 10 percent plus an additional 5 percent for each 3-month period, or fraction thereof, during which such failure to furnish information continues after the expiration of such 90-day period.
 
@@ -88,7 +88,7 @@
 
 #### (d) Two or more persons required to furnish information with respect to same foreign corporation
 
-Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable,the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
+Where, but for this subsection, two or more United States persons would be required to furnish information under subsection (a) with respect to the same foreign business entity for the same period, the Secretary may by regulations provide that such information shall be required only from one person. To the extent practicable, the determination of which person shall furnish the information shall be made on the basis of actual ownership of stock.
 
 #### (e) Definitions
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(2) For definition of the term "United States person", see section 7701(a)(30).</b>
 
-(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III, §338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 104–188, title I, §1704(f)(5)(A), (t)(40), (46), Aug. 20, 1996, 110 Stat. 1880, 1889; Pub. L. 105–34, title XI, §1142(a)–(e)(2), Aug. 5, 1997, 111 Stat. 981–983; Pub. L. 105–206, title VI, §6011(f), July 22, 1998, 112 Stat. 818; Pub. L. 115–97, title I, §14301(c)(36), (37), Dec. 22, 2017, 131 Stat. 2224.)
+(Added Pub. L. 86–780, §6(a), Sept. 14, 1960, 74 Stat. 1014; amended Pub. L. 87–834, §20(a), Oct. 16, 1962, 76 Stat. 1059; Pub. L. 88–554, §4(b)(6), Aug. 31, 1964, 78 Stat. 764; Pub. L. 94–455, title X, §1031(b)(5), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 97–248, title III,§338(a)–(c), Sept. 3, 1982, 96 Stat. 631; Pub. L. 99–514, title XII, §§1202(c), 1245(b)(5), Oct. 22, 1986, 100 Stat. 2530, 2581; Pub. L. 101–239, title VII, §7712(a), Dec. 19, 1989, 103 Stat. 2393; Pub. L. 101–508, title XI, §11701(f), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 104–188, title I, §1704(f)(5)(A), (t)(40), (46), Aug. 20, 1996, 110 Stat. 1880, 1889; Pub. L. 105–34, title XI, §1142(a)–(e)(2), Aug. 5, 1997, 111 Stat. 981–983; Pub. L. 105–206, title VI, §6011(f), July 22, 1998, 112 Stat. 818; Pub. L. 115–97, title I, §14301(c)(36), (37), Dec. 22, 2017, 131 Stat. 2224.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 <b>1964</b>—Subsec. (d)(1). Pub. L. 88–554 substituted "subparagraphs (A), (B), and (C) of section 318(a)(3)" for "the second sentence of subparagraphs (A) and (B), and clause (ii) of subparagraph (C), of section 318(a)(2)" in subpar. (A), and deleted "clause (i) of" after "in applying" in subpar. (B).
 
-<b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions "Every United States person shall furnish" for "A domestic corporation shall furnish", in subpar. (D)(i) "such person" for "any foreign corporation controlled by the domestic corporation", in subpar. (D)(ii) "any other corporation which such person controls" for "any foreign subsidiary of a foreign corporation controlled by the domestic corporation", in subpar. (D)(iii) "any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation" for "the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation", and in subpar. (E) "each United States person who is a shareholder" for "each citizen or resident of the United States and each domestic corporation who is a shareholder", and struck out provisions throughout the subsection which related to foreign subsidiaries.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–834, among other changes, substituted in introductory provisions "Every United States person shall furnish" for "A domestic corporation shall furnish", in subpar. (D)(i) "such person" for "any foreign corporation controlled by the domestic corporation", in subpar. (D)(ii) "any other corporation which such person controls" for "any foreign subsidiary of a foreign corporation controlled by the domestic corporation", in subpar. (D)(iii) "any United States person owning, at the time the transaction takes place, 10 percent or more of the value of any class of stock outstanding of such foreign corporation" for"the domestic corporation or any shareholder of the domestic corporation owning at the time the transaction takes place 10 percent or more of the value of any class of stock outstanding of the domestic corporation", and in subpar. (E) "each United States person who is a shareholder" for "each citizen or resident of the United States and each domestic corporation who is a shareholder", and struck out provisions throughout the subsection which related to foreign subsidiaries.
 
 Subsec. (a)(2). Pub. L. 87–834 substituted provisions requiring the information to be furnished for the annual accounting period ending with or within the United States person's taxable year for provisions which required such information to be furnished for the annual accounting period ending with or within the domestic corporation's taxable year, and struck out provisions which related to the furnishing of information in the case of foreign subsidiaries.
 
@@ -230,7 +230,7 @@ Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and add
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31,2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1998 Amendment
 

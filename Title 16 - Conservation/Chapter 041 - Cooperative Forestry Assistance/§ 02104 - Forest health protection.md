@@ -20,7 +20,7 @@ The Secretary may protect trees and forests and wood products, stored wood, and 
 
 Subject to subsections (c), (d), and (e) and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
 
-&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occur over time, and report annually concerning such surveys and monitoring;
+&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occurover time, and report annually concerning such surveys and monitoring;
 
 &emsp;(2) determine the biological, chemical, and mechanical measures necessary to prevent, retard, control, or suppress incipient, potential, threatening, or emergency insect infestations and disease conditions affecting trees;
 
@@ -98,7 +98,7 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Projects
 
-Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That ofthe additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
+Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 
@@ -170,7 +170,7 @@ Fuelbreak construction.—Construction of a strategic system of defensible fuel 
 
 &emsp;"(2)
 
-Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
+Group selection and individual tree selection.—Utilization of group selection and individualtree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
 
 &emsp;&emsp;"(A)
 
@@ -290,7 +290,7 @@ Preparation.—The panel shall initiate such review no sooner than 18 months aft
 
 &emsp;"(3)
 
-Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project.
+Submission to the congress.—The panel shall submit the final report to the Congress as soon aspracticable, but in no case later than 18 months after completion of the pilot project.
 
 &emsp;"(4)
 

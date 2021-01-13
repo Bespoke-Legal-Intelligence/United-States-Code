@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(i), 63 Stat. 386; Pub. L. 97–31, §12(15), Aug. 6, 1981, 95 Stat. 154.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–304 substituted "part F of subtitle V of title 46" for "the Merchant Marine Act, 1936 (46 App. U.S.C. 1101 et seq.),".

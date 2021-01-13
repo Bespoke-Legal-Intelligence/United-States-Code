@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train law enforcement personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
+In General.—The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train public safety personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
 
 (b)
 
@@ -10,7 +10,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(1) Salary, benefits, overtime compensation, retirement contributions, and other costs of additional Coast Guard mandated security personnel.
 
-&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(8)), including those facilities in support of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
+&emsp;(2) The cost of acquisition, operation, and maintenance of security equipment or facilities to be used for security monitoring and recording, security gates and fencing, marine barriers for designated security zones, security-related lighting systems, remote surveillance, concealed video systems, security vessels, and other security-related infrastructure or equipment that contributes to the overall security of passengers, cargo, or crewmembers. Grants awarded under this section may not be used to construct buildings or other physical facilities, except those which are constructed under terms and conditions consistent with the requirements under section 611(j)(8) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5196(j)(8)), including those facilities insupport of this paragraph, and specifically approved by the Secretary. Costs eligible for funding under this paragraph may not exceed the greater of—
 
 &emsp;&emsp;(A) $1,000,000 per project; or
 
@@ -26,7 +26,7 @@ Eligible Costs.—The following costs of funding the correction of Coast Guard i
 
 &emsp;(7) The cost of equipment (including software) required to receive, transmit, handle, and store classified information.
 
-&emsp;(8) The cost of training law enforcement personnel—
+&emsp;(8) The cost of training public safety personnel—
 
 &emsp;&emsp;(A) to enforce a security zone under section 70132 of this title; or
 
@@ -54,7 +54,7 @@ Higher level of support required.—If the Secretary determines that a proposed 
 
 &emsp;&emsp;(C)
 
-Training.—There are no matching requirements for grants under subsection (a) to train law enforcement agency personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
+Training.—There are no matching requirements for grants under subsection (a) to train public safety personnel in the enforcement of security zones under section 70132 of this title or in assisting in the enforcement of such security zones.
 
 (d)
 
@@ -218,7 +218,7 @@ National port security centers.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higherlearning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
+In general.—The Secretary may make grants or enter into cooperative agreements with eligible nonprofit institutions of higher learning to conduct investigations in collaboration with ports and the maritime transportation industry focused on enhancing security of the Nation's ports in accordance with this subsection through National Port Security Centers.
 
 &emsp;&emsp;(B)
 
@@ -258,7 +258,9 @@ Recordkeeping.—Recipients of grants shall keep all records related to expendit
 
 Annual review and report.—The Inspector General of the department in which the Coast Guard is operating shall annually review the programs established under this subsection to ensure that the expenditures and obligations of funds are consistent with the purposes for which they are provided, and report the findings to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2075; amended Pub. L. 108–293, title VIII, §§804(a), (b), 808(a), Aug. 9, 2004, 118 Stat. 1081, 1083; Pub. L. 109–347, title I, §112, Oct. 13, 2006, 120 Stat. 1894; Pub. L. 111–281, title VIII, §828(b), Oct. 15, 2010, 124 Stat. 3007; Pub. L. 114–120, title III, §306(a)(10), Feb. 8, 2016, 130 Stat. 54.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2075; amended Pub. L. 108–293, title VIII, §§804(a), (b), 808(a), Aug. 9, 2004, 118 Stat. 1081, 1083; Pub. L. 109–347, title I, §112, Oct. 13, 2006, 120 Stat. 1894; Pub. L. 111–281, title VIII, §828(b), Oct. 15, 2010, 124 Stat. 3007; Pub. L. 114–120, title III, §306(a)(10), Feb. 8, 2016, 130 Stat. 54; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8314(1), Jan. 1, 2021, 134 Stat. 4699.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -271,6 +273,12 @@ This Act, referred to in subsec. (k)(1)(B)(iii), probably means the Maritime Tra
 The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(D), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8314(1)(A), substituted "public safety personnel" for "law enforcement personnel".
+
+Subsec. (b)(8). Pub. L. 116–283, §8314(1)(B), substituted "public safety personnel—" for "law enforcement personnel—" in introductory provisions.
+
+Subsec. (c)(2)(C). Pub. L. 116–283, §8314(1)(C), substituted "public safety personnel" for "law enforcement agency personnel".
 
 <b>2016</b>—Subsec. (b)(2). Pub. L. 114–120, §306(a)(10)(A), substituted "5196(j)(8))," for "5121(j)(8))," in introductory provisions.
 
@@ -296,7 +304,7 @@ Subsec. (i)(1). Pub. L. 109–347, §112(c)(2), substituted "Secretary shall req
 
 Subsecs. (j), (k). Pub. L. 109–347, §112(c)(1), redesignated subsecs. (f) and (g) as (j) and (k), respectively.
 
-Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read asfollows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
+Subsec. (l). Pub. L. 109–347, §112(d), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "There are authorized to be appropriated to the Secretary for each of fiscal years 2003 through 2008 such sums as are necessary to carry out subsections (a) through (g)."
 
 Pub. L. 109–347, §112(c)(1), redesignated subsec. (h) as (l).
 
@@ -313,6 +321,8 @@ Subsec. (f). Pub. L. 108–293, §804(b), substituted "Secretary" for "Secretary
 Subsecs. (g), (h). Pub. L. 108–293, §804(b)(1), substituted "Secretary" for "Secretary of Transportation" wherever appearing.
 
 Subsec. (i). Pub. L. 108–293, §808(a), added subsec. (i) and struck out former subsec. (i) which related to research and development grants for port security.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -82,6 +82,8 @@ Section 2183 of this title shall apply to guarantees issued under subsection (a)
 
 (Pub. L. 87–195, pt. I, §226, as added Pub. L. 102–391, title VI, §601, Oct. 6, 1992, 106 Stat. 1699.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in subsecs. (e)(1) and (l), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
@@ -90,9 +92,11 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 Section 2198(c) of this title, referred to in subsec. (l), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,6 +4,8 @@ Any boat or vessel used or employed in violating any provision of this subchapte
 
 (June 29, 1888, ch. 496, §4, 25 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of section 4 of act June 29, 1888, which enacted sections 449 and 450 of this title.

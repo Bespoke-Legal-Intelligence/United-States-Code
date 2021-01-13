@@ -24,6 +24,8 @@ In subsection (b), reference to the "General Accounting Office" is substituted f
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted "employing agency" for "General Accounting Office".

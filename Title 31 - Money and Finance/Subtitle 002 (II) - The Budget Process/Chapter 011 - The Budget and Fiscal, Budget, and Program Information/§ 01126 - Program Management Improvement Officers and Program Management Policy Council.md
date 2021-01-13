@@ -6,7 +6,7 @@ Program Management Improvement Officers.—
 
 &emsp;(1)
 
-Designation.—The head of each agency described in section 901(b) shall designate a senior executive of the agency as the Program Management Improvement Officer of the agency.
+Designation.—The head of each agency described in section 901(b) shall designate a senior executive of the agency, who has significant program and project management oversight responsibilities, as the Program Management Improvement Officer of the agency.
 
 &emsp;(2)
 
@@ -62,7 +62,7 @@ Purpose and functions.—The Council shall act as the principal interagency foru
 
 &emsp;&emsp;(D) advise on the development and applicability of standards governmentwide for program management transparency; and
 
-&emsp;&emsp;(E) review the information published on the website of the Office of Management and Budget pursuant to section 1122.
+&emsp;&emsp;(E) review the information published on a website described in section 1122.
 
 &emsp;(3)
 
@@ -102,13 +102,15 @@ Duties.—The Chairperson shall preside at the meetings of the Council, determin
 
 &emsp;(4)
 
-Meetings.—The Council shall meet not less than twice per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
+Meetings.—The Council shall meet not less than four times per fiscal year and may meet at the call of the Chairperson or a majority of the members of the Council.
 
 &emsp;(5)
 
 Support.—The head of each agency with a Project Management Improvement Officer serving on the Council shall provide administrative support to the Council, as appropriate, at the request of the Chairperson.
 
-(Added Pub. L. 114–264, §2(b)(1), Dec. 14, 2016, 130 Stat. 1372; amended Pub. L. 116–92, div. A, title IX, §902(86), Dec. 20, 2019, 133 Stat. 1554.)
+(Added Pub. L. 114–264, §2(b)(1), Dec. 14, 2016, 130 Stat. 1372; amended Pub. L. 116–92, div. A, title IX, §902(86), Dec. 20, 2019, 133 Stat. 1554; Pub. L. 116–283, div. A, title VIII, §884, div. H, title XCVI, §9601(c)(2)(D), Jan. 1, 2021, 134 Stat. 3790, 4828.)
+
+#### <b>Editorial Notes</b>
 
 #### Similar Provisions
 
@@ -116,7 +118,15 @@ Another section 1126, added Pub. L. 114–328, div. A, title VIII, §861(b)(1), 
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §884(1), inserted ", who has significant program and project management oversight responsibilities," after "senior executive of the agency".
+
+Subsec. (b)(2)(E). Pub. L. 116–283, §9601(c)(2)(D), substituted "a website described in" for "the website of the Office of Management and Budget pursuant to".
+
+Subsec. (b)(4). Pub. L. 116–283, §884(2), substituted "four times" for "twice".
+
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Program and Project Management Personnel Standards
 

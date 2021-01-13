@@ -30,7 +30,7 @@ Subject to subsections (b) and (c), this subchapter and the amendments made by t
 
 #### (3) Pending suits
 
-&emsp;The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if the suspension had not occurred.
+&emsp;The suspensions of actions under paragraph (1) shall not affect suits commenced before the date of such suspension, and in all such suits, proceedings shall be had, appeals taken, andjudgments rendered in the same manner and with the same effect as if the suspension had not occurred.
 
 #### (d) Rescission of suspension
 
@@ -38,9 +38,13 @@ The President may rescind any suspension made under subsection (b) or (c) upon r
 
 (Pub. L. 104–114, title III, §306, Mar. 12, 1996, 110 Stat. 821.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (c)(1), was in the original "this title", meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643l and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority To Suspend the Provisions of Title III of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996
 

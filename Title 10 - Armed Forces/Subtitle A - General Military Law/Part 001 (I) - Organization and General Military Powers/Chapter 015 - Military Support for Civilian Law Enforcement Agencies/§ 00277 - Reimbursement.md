@@ -10,7 +10,7 @@
 
 &emsp;(B) The appropriation, fund, or account currently available for reimbursement purposes.
 
-(c) An agency to which support is provided under this chapter or section 502(f) of title 32 isnot required to reimburse the Department of Defense for such support if the Secretary of Defense waives reimbursement. The Secretary may waive the reimbursement requirement under this subsection if such support—
+(c) An agency to which support is provided under this chapter or section 502(f) of title 32 is not required to reimburse the Department of Defense for such support if the Secretary of Defense waives reimbursement. The Secretary may waive the reimbursement requirement under this subsection if such support—
 
 &emsp;(1) is provided in the normal course of military training or operations; or
 

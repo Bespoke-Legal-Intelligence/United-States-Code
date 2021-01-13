@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Section 7109 authorizes the Secretary to renew licenses and certificates of registry for additional 5 year periods.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–380 substituted "Review of criminal records" for "Renewal of licenses" in section catchline and amended text generally. Prior to amendment, text read as follows: "A license issued under this part may be renewed for additional 5-year periods."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

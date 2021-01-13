@@ -10,11 +10,17 @@ The Federal Cyber Scholarship-for-Service Program shall—
 
 &emsp;(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
 
-&emsp;(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology workforce;
+&emsp;(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce;
 
-&emsp;(3) prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in section 105 of title 5); and
+&emsp;(3) prioritize the placement of scholarship recipients fulfilling the post-award employment obligation under this section to ensure that—
 
-&emsp;(4) provide awards to improve cybersecurity education at the kindergarten through grade 12 level—
+&emsp;&emsp;(A) not less than 70 percent of such recipients are placed in an executive agency (as defined in section 105 of title 5);
+
+&emsp;&emsp;(B) not more than 10 percent of such recipients are placed as educators in the field of cybersecurity at qualified institutions of higher education that provide scholarships under this section; and
+
+&emsp;&emsp;(C) not more than 20 percent of such recipients are placed in positions described in paragraphs (2) through (5) of subsection (d); and
+
+&emsp;(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
 
 &emsp;&emsp;(A) to increase interest in cybersecurity careers;
 
@@ -38,9 +44,11 @@ Each scholarship recipient, as a condition of receiving a scholarship under the 
 
 &emsp;(3) an interstate agency;
 
-&emsp;(4) a State, local, or Tribal government; or
+&emsp;(4) a State, local, or Tribal government;
 
-&emsp;(5) a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in section 5195c(e) of title 42).
+&emsp;(5) a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in section 5195c(e) of title 42); or
+
+&emsp;(6) as provided by subsection (b)(3)(B), a qualified institution of higher education.
 
 #### (e) Hiring authority
 
@@ -54,7 +62,7 @@ Each scholarship recipient, as a condition of receiving a scholarship under the 
 
 #### (3) Timing of conversion
 
-&emsp;An agency may noncompetitively convert a term employee appointed under paragraph (2) to a career-conditional or career appointment before the term appointment expires.
+&emsp;An agency may noncompetitively convert a term employee appointed under paragraph (2)to a career-conditional or career appointment before the term appointment expires.
 
 #### (4) Authority to decline conversion
 
@@ -68,17 +76,21 @@ To be eligible to receive a scholarship under this section, an individual shall�
 
 &emsp;(2) demonstrate a commitment to a career in improving the security of information technology;
 
-&emsp;(3) have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the national cybersecurity awareness and education program under section 7451 of this title;
+&emsp;(3) have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the national cybersecurity awareness and education program under section 7443 of this title;
 
-&emsp;(4) be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis; and
+&emsp;(4) be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation, except that in the case of a student who is enrolled in a community college, be a student pursuing a degree on a less than full-time basis, but not less than half-time basis;
 
-&emsp;(5) accept the terms of a scholarship under this section.
+&emsp;(5) enter into an agreement accepting and acknowledging the post award employment obligations, pursuant to section <sup>1</sup> (d);
+
+&emsp;(6) accept and acknowledge the conditions of support under section <sup>1</sup> (g); and
+
+&emsp;(7) accept all terms and conditions of a scholarship under this section.
 
 #### (g) Conditions of support
 
 #### (1) In general
 
-&emsp;As a condition of receiving a scholarship under this section, a recipient shall agree to provide the qualified institution of higher education with annual verifiable documentation of post-award employment and up-to-date contact information.
+&emsp;As a condition of receiving a scholarship under this section, a recipient shall agree to provide the Office of Personnel Management (in coordination with the National Science Foundation) and the qualified institution of higher education with annual verifiable documentation of post-award employment and up-to-date contact information.
 
 #### (2) Terms
 
@@ -90,9 +102,11 @@ To be eligible to receive a scholarship under this section, an individual shall�
 
 &emsp;&emsp;(C) withdraws from the eligible degree program before completing the program;
 
-&emsp;&emsp;(D) declares that the individual does not intend to fulfill the post-award employment obligation under this section; or
+&emsp;&emsp;(D) declares that the individual does not intend to fulfill the post-award employment obligation under this section;
 
-&emsp;&emsp;(E) fails to fulfill the post-award employment obligation of the individual under this section.
+&emsp;&emsp;(E) fails to maintain or fulfill any of the post-graduation or post-award obligations or requirements of the individual; or
+
+&emsp;&emsp;(F) fails to fulfill the requirements of paragraph (1).
 
 #### (h) Monitoring compliance
 
@@ -100,7 +114,7 @@ As a condition of participating in the program, a qualified institution of highe
 
 &emsp;(1) enter into an agreement with the Director of the National Science Foundation, to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
 
-&emsp;(2) provide to the Director of the National Science Foundation, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
+&emsp;(2) provide to the Director of the National Science Foundation and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
 
 #### (i) Amount of repayment
 
@@ -134,7 +148,7 @@ A loan described subsection (i) shall—
 
 &emsp;In the event that a scholarship recipient is required to repay the scholarship award under this section, the qualified institution of higher education providing the scholarship shall—
 
-&emsp;&emsp;(A) determine the repayment amounts and notify the recipient and the Director of the National Science Foundation of the amounts owed; and
+&emsp;&emsp;(A) determine the repayment amounts and notify the recipient, the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed; and
 
 &emsp;&emsp;(B) collect the repayment amounts within a period of time as determined by the Director of the National Science Foundation, or the repayment amounts shall be treated as a loan in accordance with subsection (j).
 
@@ -154,7 +168,7 @@ The Director of the National Science Foundation may provide for the partial or t
 
 #### (1) Evaluation
 
-&emsp;The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall periodically evaluate and make public, in a manner that protects the personally identifiable information of scholarship recipients, information on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector cyber workforce, including information on—
+&emsp;The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall periodically evaluate and make public, in a manner that protects the personally identifiable information of scholarship recipients, information on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector cybersecurity workforce, including information on—
 
 &emsp;&emsp;(A) placement rates;
 
@@ -172,7 +186,13 @@ The Director of the National Science Foundation may provide for the partial or t
 
 #### (2) Reports
 
-&emsp;The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce.
+&emsp;The Director of the National Science Foundation, in coordination with the Office of Personnel Management, shall submit, not less frequently than once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—
+
+&emsp;&emsp;(A) the results of the evaluation under paragraph (1);
+
+&emsp;&emsp;(B) the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and
+
+&emsp;&emsp;(C) any recent statistics regarding the size, composition, and educational requirements of the Federal cyber <sup>2</sup> workforce..<sup>3</sup>
 
 #### (3) Resources
 
@@ -182,13 +202,39 @@ The Director of the National Science Foundation may provide for the partial or t
 
 &emsp;&emsp;(B) a modernized description of cybersecurity careers.
 
-(Pub. L. 113–274, title III, §302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, §1649B(a), Dec. 12, 2017, 131 Stat. 1754.)
+(Pub. L. 113–274, title III, §302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, §1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §9403(1)(A), substituted "information technology and cybersecurity" for "information technology".
+
+Subsec. (b)(3). Pub. L. 116–283, §9403(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in section 105 of title 5); and".
+
+Subsec. (b)(4). Pub. L. 116–283, §9403(1)(C), inserted ", including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States," after "cybersecurity education" in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 116–283, §9403(2), added par. (6).
+
+Subsec. (f)(3). Pub. L. 116–283, §9401(g)(4)(C), substituted "under section 7443" for "under section 7451".
+
+Subsec. (f)(5) to (7). Pub. L. 116–283, §9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: "accept the terms of a scholarship under this section."
+
+Subsec. (g)(1). Pub. L. 116–283, §9404(2)(A), inserted "the Office of Personnel Management (in coordination with the National Science Foundation) and" before "the qualified institution".
+
+Subsec. (g)(2)(E), (F). Pub. L. 116–283, §9404(2)(B), added subpars. (E) and (F) and struck out former subpar. (E) which read as follows: "fails to fulfill the post-award employment obligation of the individual under this section."
+
+Subsec. (h)(2). Pub. L. 116–283, §9404(3), inserted "and the Director of the Office of Personnel Management" after "Foundation".
+
+Subsec. (k)(1)(A). Pub. L. 116–283, §9404(4), substituted ", the Director of the National Science Foundation, and the Director of the Office of Personnel Management of the amounts owed" for "and the Director of the National Science Foundation of the amounts owed".
+
+Subsec. (m)(1). Pub. L. 116–283, §9403(3)(A), substituted "cybersecurity" for "cyber" in introductory provisions.
+
+Subsec. (m)(2). Pub. L. 116–283, §9404(5), substituted "once every two years, to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science, Space, and Technology and the Committee on Oversight and Reform of the House of Representatives a report, including—" and subpars. (A) to (C) for "once every 3 years, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including the results of the evaluation under paragraph (1) and any recent statistics regarding the size, composition, and educational requirements of the Federal cybersecurity workforce".
+
+Pub. L. 116–283, §9403(3)(B), substituted "cybersecurity" for "cyber". Subsequent amendment by Pub. L. 116–283, §9404(5), reenacted the word "cyber" in subsec. (m)(2)(C).
 
 <b>2017</b>—Subsec. (b)(3), (4). Pub. L. 115–91, §1649B(a)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: "prioritize the employment placement of scholarship recipients in the Federal Government."
 
@@ -221,4 +267,10 @@ Pilot Program.—Not later than 1 year after the date of enactment of this subti
 "(b)
 
 Assessment.—Not later than 1 year after the date of enactment of this subtitle, as part of the Federal Cyber Scholarship-for-Service program established under section 302 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442), the Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall assess the potential benefits and feasibility of providing scholarships through community colleges to eligible students who are pursuing associate degrees, but do not have bachelor's degrees."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "cybersecurity". See 2021 Amendment notes below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

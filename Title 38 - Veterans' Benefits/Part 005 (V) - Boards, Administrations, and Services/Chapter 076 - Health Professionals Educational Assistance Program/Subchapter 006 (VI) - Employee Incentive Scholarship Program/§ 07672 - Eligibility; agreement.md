@@ -26,11 +26,13 @@ Agreement.—(1) An agreement between the Secretary and a participant in the Pro
 
 &emsp;(C) The participant's agreement to serve under subparagraph (B) in a Department facility selected by the Secretary.
 
-(2) In a case in which an extension is granted under section 7673(c)(2) of this title, the number of years for which a scholarship may be provided under the Program shall be the number of school years provided for as a result of the extension.
+(2) In a case in which an extension is granted under section 7673(c)(2) of this title, the numberof years for which a scholarship may be provided under the Program shall be the number of school years provided for as a result of the extension.
 
 (3) In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than 1 year.
 
 (Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title I, §101(b), Jan. 23, 2002, 115 Stat. 2447.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

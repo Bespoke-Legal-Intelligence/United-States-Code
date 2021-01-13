@@ -118,6 +118,8 @@ There are authorized to be appropriated to the Environmental Protection Agency t
 
 (June 30, 1948, ch. 758, title I, §120, as added Pub. L. 101–596, title III, §303, Nov. 16, 1990, 104 Stat. 3006; amended Pub. L. 107–303, title II, §202, Nov. 27, 2002, 116 Stat. 2358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–303, §202(1), substituted "Lake Champlain Basin Program" for "Lake Champlain Management Conference" in section catchline.
@@ -148,6 +150,8 @@ Subsec. (h). Pub. L. 107–303, §202(7), added subsec. (h) and struck out headi
 
 Subsec. (i). Pub. L. 107–303, §202(8), substituted "section—" for "section $2,000,000", inserted "(1) $2,000,000" before "for each of fiscal years 1991,", substituted "1995;" for "1995.", and added pars. (2) and (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Federal Program Coordination
 
 Pub. L. 101–596, title III, §304, Nov. 16, 1990, 104 Stat. 3008, as amended by Pub. L. 104–127, title III, §336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, §2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that:
@@ -174,7 +178,7 @@ Allocation of funds.—In allocating funds under this subsection, the Secretary 
 
 "(b)
 
-Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act \[33 U.S.C. 1270\], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—
+Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the FederalWater Pollution Control Act \[33 U.S.C. 1270\], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—
 
 &emsp;"(1) in cooperation with appropriate universities and private research institutions, and the appropriate officials of the appropriate departments and agencies of the States of New York and Vermont, develop an integrated geographic information system of the Lake Champlain basin;
 
@@ -188,7 +192,7 @@ Cooperation of the United States Fish and Wildlife Service of the Department of 
 
 &emsp;"(1)
 
-Resource conservation program.—The Secretary of the Interior, acting through the UnitedStates Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
+Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
 
 &emsp;&emsp;"(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act \[Nov. 16, 1990\]; and
 

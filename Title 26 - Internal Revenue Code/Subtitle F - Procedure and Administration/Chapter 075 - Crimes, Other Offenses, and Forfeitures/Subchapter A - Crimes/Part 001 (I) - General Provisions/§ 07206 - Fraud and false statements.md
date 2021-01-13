@@ -8,7 +8,7 @@ Any person who—
 
 #### (2) Aid or assistance
 
-&emsp;Willfully aids or assists in, or procures, counsels, or advises the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a return, affidavit, claim, or other document, which is fraudulent or is false as to any material matter, whether or not such falsity orfraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document; or
+&emsp;Willfully aids or assists in, or procures, counsels, or advises the preparation or presentation under, or in connection with any matter arising under, the internal revenue laws, of a return, affidavit, claim, or other document, which is fraudulent or is false as to any material matter, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, affidavit, claim, or document; or
 
 #### (3) Fraudulent bonds, permits, and entries
 

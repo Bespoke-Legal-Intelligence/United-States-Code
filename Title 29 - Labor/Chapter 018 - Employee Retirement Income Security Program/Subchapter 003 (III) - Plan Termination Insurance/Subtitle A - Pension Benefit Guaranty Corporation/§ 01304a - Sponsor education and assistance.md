@@ -10,9 +10,13 @@ The Participant and Plan Sponsor Advocate established under section 1304 of this
 
 (Pub. L. 113–97, title I, §105, Apr. 7, 2014, 128 Stat. 1121.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Cooperative and Small Employer Charity Pension Flexibility Act, and not as part of the Employee Retirement Income Security Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

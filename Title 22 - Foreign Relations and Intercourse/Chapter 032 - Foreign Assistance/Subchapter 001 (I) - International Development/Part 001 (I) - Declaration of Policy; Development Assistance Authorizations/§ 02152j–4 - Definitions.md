@@ -30,6 +30,8 @@ In sections 2152j to 2152j–4 of this title:
 
 (Pub. L. 115–68, §9, Oct. 6, 2017, 131 Stat. 1206.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Women, Peace, and Security Act of 2017, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.

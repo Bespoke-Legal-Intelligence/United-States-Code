@@ -26,7 +26,7 @@ Inclusion of Certain Information.—(1) Information accessible in the database r
 
 (e)
 
-Response by Landlords.—(1) The Secretary of Defense shall include in any contract with a landlord responsible for a housing unit a requirement that the landlord respond in a timely manner to any complaints included in the database that relate to the housing unit.
+Response by Landlords.—(1) The Secretary of Defense shall include in any contract with a landlord responsible for a housing unit arequirement that the landlord respond in a timely manner to any complaints included in the database that relate to the housing unit.
 
 (2) The Secretary shall include landlord responses in the database.
 

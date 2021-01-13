@@ -32,6 +32,8 @@
 
 (Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 571; amended Pub. L. 95–454, title IX, §906(a)(1), (2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(15), Aug. 14, 1979, 93 Stat. 382; Pub. L. 102–378, §2(30), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–66, title II, §2181(d), Dec. 21, 1995, 109 Stat. 732.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–66 struck out at end "The Committee shall make an annual report to the Office and the President for transmittal to Congress, including recommendations and other matters considered appropriate. Any member of the Committee may include in the annual report recommendations and other matters he considers appropriate."
@@ -41,6 +43,8 @@
 <b>1979</b>—Subsec. (e). Pub. L. 96–54 substituted "Office" for "Commission".
 
 <b>1978</b>—Subsecs. (a) to (e), (h). Pub. L. 95–454 substituted "Director of the Office of Personnel Management" for "Chairman of the Civil Service Commission" and "Office of Personnel Management" for "Civil Service Commission", wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -52,5 +56,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date
 
-Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
+Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972,see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
 

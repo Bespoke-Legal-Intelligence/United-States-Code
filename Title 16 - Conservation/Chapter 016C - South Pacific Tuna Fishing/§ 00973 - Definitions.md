@@ -52,7 +52,7 @@ As used in this chapter—
 
 &emsp;(16) The term "State" means each of the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-&emsp;(17) The term "Treaty" means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in PortMoresby, Papua New Guinea, April 2, 1987, and its Annexes, Schedules, and implementing agreements.
+&emsp;(17) The term "Treaty" means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed in Port Moresby, Papua New Guinea, April 2, 1987, and its Annexes, Schedules, and implementing agreements.
 
 &emsp;(18) The term "Treaty Area" means the area so described in paragraph 1(k) of Article 1 of the Treaty.
 
@@ -62,7 +62,7 @@ As used in this chapter—
 
 Pub. L. 100–330, §21, June 7, 1988, 102 Stat. 601, provided that:
 
-"(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effective on the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
+"(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effectiveon the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
 
 "(b)(1) The authority to promulgate regulations pursuant to this Act shall be effective on the date of enactment of this Act \[June 7, 1988\].
 

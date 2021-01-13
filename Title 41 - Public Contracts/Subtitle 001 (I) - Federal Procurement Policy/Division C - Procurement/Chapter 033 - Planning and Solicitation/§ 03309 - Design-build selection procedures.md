@@ -6,7 +6,7 @@ Authorization.—Unless the traditional acquisition approach of design-bid-build
 
 (b)
 
-Criteria for Use.—A contracting officer shall make a determination whether two-phaseselection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when—
+Criteria for Use.—A contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when—
 
 &emsp;(1) the contracting officer anticipates that 3 or more offers will be received for the contract;
 
@@ -111,4 +111,42 @@ June 30, 1949, ch. 288, title III, §303M, as added Pub. L. 104–106, div. D, t
 In subsections (a) and (c)(1), the words "sections 1101 to 1104 of title 40" are substituted for "the Brooks Architect-Engineers Act (title IX of this Act)" and "the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)", respectively, because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
 
 In subsection (c)(5), the reference to section 253b of this title is limited to chapter 37 of the revised title for clarity.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Prohibition on Use of a Reverse Auction for the Award of a Contract for Design and Construction Services
+
+Pub. L. 116–260, div. U, title IV, §402, Dec. 27, 2020, 134 Stat. 2292, provided that:
+
+"(a)
+
+Finding.—Congress finds that, in contrast to a traditional auction in which the buyers bid up the price, sellers bid down the price in a reverse auction.
+
+"(b)
+
+Prohibition.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], the Federal Acquisition Regulation shall be amended to prohibit the use of reverse auctions for awarding contracts for design and construction services.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'design and construction services' means—
+
+&emsp;&emsp;"(A) site planning and landscape design;
+
+&emsp;&emsp;"(B) architectural and engineering services (as defined in section 1102 of title 40, United States Code);
+
+&emsp;&emsp;"(C) interior design;
+
+&emsp;&emsp;"(D) performance of substantial construction work for facility, infrastructure, and environmental restoration projects;
+
+&emsp;&emsp;"(E) delivery and supply of construction materials to construction sites; or
+
+&emsp;&emsp;"(F) construction or substantial alteration of public buildings or public works.
+
+&emsp;"(2) The term 'reverse auction' means, with respect to any procurement by an executive agency—
+
+&emsp;&emsp;"(A) a real-time auction conducted through an electronic medium among 2 or more offerors who compete by submitting bids for a supply or service contract, or a delivery order, task order, or purchase order under the contract, with the ability to submit revised lower bids at any time before the closing of the auction; and
+
+&emsp;&emsp;"(B) the award of the contract, delivery order, task order, or purchase order to the offeror is solely based on the price obtained through the auction process."
 

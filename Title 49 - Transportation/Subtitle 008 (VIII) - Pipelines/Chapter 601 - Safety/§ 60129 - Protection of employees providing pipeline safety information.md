@@ -6,7 +6,7 @@ Discrimination Against Employee.—
 
 &emsp;(1)
 
-In general.—No employer may discharge any employee or otherwise discriminate against any employee with respect to his compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
+In general.—No employer may discharge any employee or otherwise discriminate against any current or former employee with respect to his compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee)—
 
 &emsp;&emsp;(A) provided, caused to be provided, or is about to provide or cause to be provided, to the employer or the Federal Government information relating to any violation or alleged violation of any order, regulation, or standard under this chapter or any other Federal law relating to pipeline safety;
 
@@ -42,7 +42,7 @@ Investigation; preliminary order.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person or persons named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify in writing the complainant and the person or persons alleged to have committed a violation of subsection (a) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall include with the Secretary of Labor's findings with a preliminary order providing the relief prescribed by paragraph\(3)(B). Not later than 60 days after the date of notification of findings under this subparagraph, any person alleged to have committed a violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 60-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+In general.—Not later than 60 days after the date of receipt of a complaint filed under paragraph (1) and after affording the person or persons named in the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall conduct an investigation and determine whether there is reasonable cause to believe that the complaint has merit and notify in writing the complainant and the person or persons alleged to have committed a violation of subsection (a) of the Secretary of Labor's findings. If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall include with the Secretary of Labor's findings with a preliminary order providing the relief prescribed by paragraph (3)(B). Not later than 60 days after the date of notification of findings under this subparagraph, any person alleged to have committed a violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Such hearings shall be conducted expeditiously. If a hearing is not requested in such 60-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 &emsp;&emsp;(B)
 
@@ -82,11 +82,23 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person or persons against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney's and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the requestof the complainant, shall assess against the person or persons against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney's and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 
 Frivolous complaints.—If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney's fee not exceeding $1,000.
+
+&emsp;&emsp;(D)
+
+De novo review.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision by the date that is 210 days after the date on which the complaint was filed, and if the delay is not due to the bad faith of the employee who filed the complaint, that employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such action without regard to the amount in controversy, and which action shall, at the request of either party to the action, be tried by the court with a jury.
+
+&emsp;&emsp;&emsp;(ii)
+
+Burdens of proof.—An original action described in clause (i) shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 &emsp;(4)
 
@@ -124,5 +136,25 @@ Mandamus.—Any nondiscretionary duty imposed by this section shall be enforceab
 
 Nonapplicability To Deliberate Violations.—Subsection (a) shall not apply with respect to an action of an employee of an employer who, acting without direction from the employer (or such employer's agent), deliberately causes a violation of any requirement relating to pipeline safety under this chapter or any other law of the United States.
 
-(Added Pub. L. 107–355, §6(a), Dec. 17, 2002, 116 Stat. 2989.)
+(e)
+
+Nonenforceability of Certain Provisions Waiving Rights and Remedies or Requiring Arbitration of Disputes.—
+
+&emsp;(1)
+
+Waiver of rights and remedies.—The rights and remedies provided under this section may not be waived by any agreement, policy, form, or condition of employment, including by a predispute arbitration agreement.
+
+&emsp;(2)
+
+Predispute arbitration agreements.—No provision of a predispute arbitration agreement shall be valid or enforceable if the provision requires arbitration of a dispute arising under subsection (a)(1).
+
+(Added Pub. L. 107–355, §6(a), Dec. 17, 2002, 116 Stat. 2989; amended Pub. L. 116–260, div. R, title I, §116, Dec. 27, 2020, 134 Stat. 2233.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §116(1), substituted "current or former employee with" for "employee with" in introductory provisions.
+
+Subsec. (b)(3)(D). Pub. L. 116–260, §116(2), added subpar. (D).
+
+Subsec. (e). Pub. L. 116–260, §116(3), added subsec. (e).
 

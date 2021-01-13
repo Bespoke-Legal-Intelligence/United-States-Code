@@ -2,7 +2,7 @@
 
 #### (a) Notification by Secretary of the Treasury to Secretary of Labor of issuance of a preliminary notice of intent to disqualify or of commencement of proceedings to determine satisfaction of requirements
 
-In carrying out the provisions of part I of subchapter D of chapter 1 of title 26 with respect to whether a plan or a trust meets the requirements of section 410(a) or 411 of title 26 (relating to minimum participation standards and minimum vesting standards, respectively), the Secretary of the Treasury shall notify the Secretary of Labor when the Secretary of the Treasury issues a preliminary notice of intent to disqualify related to the plan or trust or, if earlier, at the time of commencing any proceeding to determine whether the plan or trust satisfies such requirements. Unless the Secretary of the Treasury finds that the collection of a tax imposed under title 26 is in jeopardy, the Secretary of the Treasury shall not issue a determination that the plan or trust does not satisfy the requirements of such section until the expiration of a period of 60 days after the date on which he notifies the Secretary of Labor of such review. The Secretary of the Treasury, in his discretion, may extend the 60-day period referred to in the preceding sentence if he determines that such an extension would enable the Secretary of Labor to obtain compliance with such requirements by the plan within the extension period. Except as otherwise provided in this chapter, the Secretary of Labor shall not generally apply part 2 of subtitle B of subchapter I of this chapter to any plan or trust subject to sections 410(a) and 411 of title 26, but shall refer alleged general violations of the vesting or participation standardsto the Secretary of the Treasury. (The preceding sentence shall not apply to matters relating to individuals benefits.)
+In carrying out the provisions of part I of subchapter D of chapter 1 of title 26 with respect to whether a plan or a trust meets the requirements of section 410(a) or 411 of title 26 (relating to minimum participation standards and minimum vesting standards, respectively), the Secretary of the Treasury shall notify the Secretary of Labor when the Secretary of the Treasury issues a preliminary notice of intent to disqualify related to the plan or trust or, if earlier, at the time of commencing any proceeding to determine whether the plan or trust satisfies such requirements. Unless the Secretary of the Treasury finds that the collection of a tax imposed under title 26 is in jeopardy, the Secretary of the Treasury shall not issue a determination that the plan or trust does not satisfy the requirements of such section until the expiration of a period of 60 days after the date on which he notifies the Secretary of Labor of such review. The Secretary of the Treasury, in his discretion, may extend the 60-day period referred to in the preceding sentence if he determines that such an extension would enable the Secretary of Labor to obtain compliance with such requirements by the plan within the extension period. Except as otherwise provided in this chapter, the Secretary of Labor shall not generally apply part 2 of subtitle B of subchapter I of this chapter to any plan or trust subject to sections 410(a) and 411 of title 26, but shall refer alleged general violations of the vesting or participation standards to the Secretary of the Treasury. (The preceding sentence shall not apply to matters relating to individuals benefits.)
 
 #### (b) Notification to Secretary of Labor before Secretary of the Treasury sends notice of deficiency under section 4971 of title 26; waiver of imposition of tax; requests for investigation; consultation
 
@@ -22,9 +22,11 @@ The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Co
 
 (Pub. L. 93–406, title III, §3002, Sept. 2, 1974, 88 Stat. 996; Pub. L. 96–364, title IV, §402(b)(3), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former section 418 of Title 26, Internal Revenue Code. Section 418 was repealed by Pub. L. 113–235, div. O, title I, §108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
 
@@ -35,6 +37,8 @@ Sections 1421 through 1425 of this title, referred to in subsec. (e), were repea
 <b>1989</b>—Subsecs. (a) to (c), (e). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26".
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–364 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

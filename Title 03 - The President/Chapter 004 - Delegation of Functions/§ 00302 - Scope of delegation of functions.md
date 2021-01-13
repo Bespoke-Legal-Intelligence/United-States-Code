@@ -4,6 +4,8 @@ The authority conferred by this chapter shall apply to any function vested in th
 
 (Added Oct. 31, 1951, ch. 655, §10, 65 Stat. 712.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Similar Provisions; Repeal; Saving Clause
 
 For similar provisions contained in prior law, and saving clause in connection therewith, see note preceding section 301 of this title.

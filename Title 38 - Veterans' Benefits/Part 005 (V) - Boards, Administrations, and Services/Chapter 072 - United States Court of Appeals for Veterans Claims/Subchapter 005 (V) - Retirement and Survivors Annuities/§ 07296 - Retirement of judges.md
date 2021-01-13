@@ -67,7 +67,7 @@
 
 (B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
-(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
+(g)(1) A judge who becomes permanently disabled and as a result of that disability is unableto perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
 
 (2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
@@ -101,6 +101,8 @@
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, §603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Veterans' Benefits Improvement Act of 2008, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
@@ -131,6 +133,8 @@ Pub. L. 102–82 inserted before semicolon at end "except as authorized by secti
 
 Subsec. (h)(3)(B). Pub. L. 102–40, §402(d)(1), substituted "7297" for "4097" in introductory provisions, "7297(b)" for "4097(b)" in cl. (i), and "7297(e)" for "4097(e)" in cl. (ii).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with savings provision for incumbent chief judge, see section 1036 of Pub. L. 106–117, set out as a note under section 7253 of this title.
@@ -141,7 +145,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Transitional Provisions To Stagger Terms of Judges
 
-Pub. L. 106–117, title X, §1002, Nov. 30, 1999, 113 Stat. 1588, provided that: "In this title \[see Short Title of1999 Amendments note set out under section 101 of this title\], the term 'Court' means the United States Court of Appeals for Veterans Claims."
+Pub. L. 106–117, title X, §1002, Nov. 30, 1999, 113 Stat. 1588, provided that: "In this title \[see Short Title of 1999 Amendments note set out under section 101 of this title\], the term 'Court' means the United States Court of Appeals for Veterans Claims."
 
 Pub. L. 106–117, title X, §§1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590, provided that:
 
@@ -245,7 +249,7 @@ Modified Terms.—The term of office of the first two judges appointed to the Co
 
 Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of the Court whose term of office is determined under subsection (a)—
 
-&emsp;"(A) the age and service requirements in the table in paragraph (2) shall apply to those judges ratherthan the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
+&emsp;"(A) the age and service requirements in the table in paragraph (2) shall apply to those judges rather than the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
 
 &emsp;"(B) the minimum years of service applicable to those judges for eligibility to retire under the first sentence of subsection (b)(2) of that section shall be 13 years instead of 15 years.
 

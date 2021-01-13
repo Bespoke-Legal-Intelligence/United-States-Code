@@ -112,6 +112,8 @@ In prescribing regulations under subsections (a) and (b), the Board and the Dire
 
 (Pub. L. 100–86, title VI, §609, Aug. 10, 1987, 101 Stat. 647; Pub. L. 111–203, title X, §1086(d), July 21, 2010, 124 Stat. 2086.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (d)(3), "September 1, 1988" substituted for "section 603(b) takes effect" on authority of section 613(b) of Pub. L. 100–86, set out as an Effective Date note under section 4001 of this title.
@@ -121,6 +123,8 @@ In subsec. (d)(3), "September 1, 1988" substituted for "section 603(b) takes eff
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §1086(d)(1), inserted ", jointly with the Director of the Bureau of Consumer Financial Protection," after "Board" in introductory provisions.
 
 Subsec. (e). Pub. L. 111–203, §1086(d)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

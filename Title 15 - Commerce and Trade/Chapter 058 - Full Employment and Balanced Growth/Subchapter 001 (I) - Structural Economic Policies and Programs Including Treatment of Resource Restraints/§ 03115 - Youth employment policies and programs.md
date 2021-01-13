@@ -4,7 +4,7 @@
 
 The Congress finds and declares—
 
-&emsp;(1) That <sup>1</sup> serious unemployment and economic disadvantage of a unique nature existamong youths even under generally favorable economic conditions;
+&emsp;(1) That <sup>1</sup> serious unemployment and economic disadvantage of a unique nature exist among youths even under generally favorable economic conditions;
 
 &emsp;(2) that this group constitutes a substantial portion of the Nation's unemployment, and that this significantly contributes to crime, alcoholism and drug abuse, and other social and economic problems; and
 

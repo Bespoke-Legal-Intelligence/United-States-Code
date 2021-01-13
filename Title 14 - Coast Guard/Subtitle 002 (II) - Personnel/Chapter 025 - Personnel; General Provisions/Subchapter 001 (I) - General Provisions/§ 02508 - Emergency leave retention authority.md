@@ -10,13 +10,15 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Spill of national significance.—The term "spill of national significance" means a discharge of oil or a hazardous substance that is declared by the Commandant to be a spill of national significance.
+Spill of national significance.—The term "spill of national significance" means adischarge of oil or a hazardous substance that is declared by the Commandant to be a spill of national significance.
 
 &emsp;(2)
 
 Discharge.—The term "discharge" has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701).
 
 (Added Pub. L. 111–281, title II, §207(a), Oct. 15, 2010, 124 Stat. 2912, §426; renumbered §2508, Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,7 +28,9 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 426 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 111–281, title II, §207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: "The amendments made by thissection \[enacting this section\] shall be deemed to have been enacted on April 19, 2010."
+Pub. L. 111–281, title II, §207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: "The amendments made by this section \[enacting this section\] shall be deemed to have been enacted on April 19, 2010."
 

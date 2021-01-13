@@ -34,9 +34,13 @@ For purposes of this section, the term "renewable resource" means any energy res
 
 (Pub. L. 96–259, title VI, §602, June 3, 1980, 94 Stat. 433; Pub. L. 97–375, title I, §112, Dec. 21, 1982, 96 Stat. 1821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–375 struck out subsec. (c) which directed the Secretary of the Treasury, in consultation with the Director of the United States International Development Cooperation Agency, to report to Congress not later than six months after June 3, 1980, and annually thereafter on the progress toward achieving the goals set forth in this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Statement of Findings Respecting Use of Renewable Resources for Energy Production in Poor and Developing Countries and Role of International Financial Institutions
 

@@ -278,7 +278,7 @@ Every 2 years the Board shall prepare and make publicly available a comprehensiv
 
 &emsp;&emsp;&emsp;(i) the Secretary considers the information relevant; and
 
-&emsp;&emsp;&emsp;(ii) the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretaryor any officer of the Department is a party.
+&emsp;&emsp;&emsp;(ii) the information is revealed in a judicial proceeding or administrative hearing brought at the direction or on the request of the Secretary or to which the Secretary or any officer of the Department is a party.
 
 #### (C) General statements and publications
 

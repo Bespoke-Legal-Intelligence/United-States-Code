@@ -30,6 +30,8 @@ Definitions.—In this section, the terms "license" and "health-care professiona
 
 (Added Pub. L. 115–282, title III, §305(a), Dec. 4, 2018, 132 Stat. 4245.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 508 was renumbered section 2711 of this title.

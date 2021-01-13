@@ -13,3 +13,4 @@
 - [&sect; 08126 - Limitation on prices of drugs procured by Department and certain other Federal agencies](%C2%A7%2008126%20-%20Limitation%20on%20prices%20of%20drugs%20procured%20by%20Department%20and%20certain%20other%20Federal%20agencies.md)
 - [&sect; 08127 - Small business concerns owned and controlled by veterans contracting goals and preferences](%C2%A7%2008127%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20goals%20and%20preferences.md)
 - [&sect; 08128 - Small business concerns owned and controlled by veterans contracting priority](%C2%A7%2008128%20-%20Small%20business%20concerns%20owned%20and%20controlled%20by%20veterans%20contracting%20priority.md)
+- [&sect; 08129 - Preference for offerors employing veterans](%C2%A7%2008129%20-%20Preference%20for%20offerors%20employing%20veterans.md)

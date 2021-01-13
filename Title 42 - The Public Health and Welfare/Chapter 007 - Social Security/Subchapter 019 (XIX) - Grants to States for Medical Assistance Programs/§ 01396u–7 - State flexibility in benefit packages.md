@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subsection <sup>1</sup> (E), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
+&emsp;&emsp;Notwithstanding section 1396a(a)(1) of this title (relating to statewideness), section 1396a(a)(10)(B) of this title (relating to comparability) and any other provision of this subchapter which would be directly contrary to the authority under this section and subject to subparagraphs (E) and (F), a State, at its option as a State plan amendment, may provide for medical assistance under this subchapter to individuals within one or more groups of individuals specified by the State through coverage that—
 
 &emsp;&emsp;&emsp;(i) provides benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); and
 
@@ -33,6 +33,14 @@
 &emsp;&emsp;&emsp;(ii) preventing a State from offering all or any of the items and services required by subparagraph (A)(ii) through an issuer of benchmark coverage described in subsection (b)(1) or benchmark equivalent coverage described in subsection (b)(2); or
 
 &emsp;&emsp;&emsp;(iii) affecting a child's entitlement to care and services described in subsections (a)(4)(B) and (r) of section 1396d of this title and provided in accordance with section 1396a(a)(43) of this title whether provided through benchmark coverage, benchmark equivalent coverage, or otherwise.
+
+#### (F) Necessary transportation
+
+&emsp;&emsp;Notwithstanding the preceding provisions of this paragraph, a State may not provide medical assistance through the enrollment of an individual with benchmark coverage or benchmark equivalent coverage described in subparagraph (A)(i) unless, subject to section 1396b(i)(9) of this title and in accordance with section 1396a(a)(4) of this title, the benchmark benefit package or benchmark equivalent coverage (or the State)—
+
+&emsp;&emsp;&emsp;(i) ensures necessary transportation for individuals enrolled under such package or coverage to and from providers; and
+
+&emsp;&emsp;&emsp;(ii) provides a description of the methods that will be used to ensure such transportation.
 
 #### (2) Application
 
@@ -96,7 +104,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistance for all services defined in section 1396d(a)of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this paragraph, subject to clause (ii), the term "full-benefit eligible individual" means for a State for a month an individual who is determined eligible by the State for medical assistance for all services defined in section 1396d(a) of this title which are covered under the State plan under this subchapter for such month under section 1396a(a)(10)(A) of this title or under any other category of eligibility for medical assistance for all such services under this subchapter, as determined by the Secretary.
 
 #### (ii) Exclusion of medically needy and spend-down populations
 
@@ -130,7 +138,7 @@
 
 #### (2) Benchmark-equivalent coverage
 
-&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6) <sup>2</sup> coverage that meets the following requirement shall be considered to be benchmark-equivalent coverage:
+&emsp;For purposes of subsection (a)(1), subject to paragraphs (5) and (6) <sup>1</sup> coverage that meets the following requirement shall be considered to be benchmark-equivalent coverage:
 
 #### (A) Inclusion of basic services
 
@@ -192,13 +200,13 @@
 
 #### (5) Minimum standards
 
-&emsp;Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in section 18022(b) of this title.
+&emsp;Effective January 1, 2014, any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) must provide at least essential health benefits as described in section 18022(b) of this title, and beginning January 1, 2022, coverage of routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in section 1396d(gg) of this title).
 
 #### (6) Mental health services parity
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) that is offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–4(a) of this title in the same manner as such requirements apply to a group health plan.
+&emsp;&emsp;In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) thatis offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements apply to a group health plan. In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a benchmark benefit package or benchmark equivalent coverage described in such sentence shall be treated as in compliance with such requirements if the State plan under this subchapter or the benchmark benefit package or benefit equivalent coverage, as applicable, is in compliance with subpart C of part 440 of title 42, Code of Federal Regulations, or any successor regulation.
 
 #### (B) Deemed compliance
 
@@ -210,15 +218,27 @@
 
 #### (c) Publication of provisions affected
 
-With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>3</sup> not later than 30 days after such date of approval.
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296.)
+(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296; Pub. L. 116–260, div. BB, title II, §203(a)(4)(B), div. CC, title II, §§209(a)(2), 210(c), Dec. 27, 2020, 134 Stat. 2917, 2986, 2991.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 210(c) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(A). Pub. L. 116–260, §209(a)(2)(A), substituted "subparagraphs (E) and (F)" for "subsection (E)".
+
+Subsec. (a)(1)(F). Pub. L. 116–260, §209(a)(2)(B), added subpar. (F).
+
+Subsec. (b)(5). Pub. L. 116–260, §210(c), inserted ", and beginning January 1, 2022, coverage of routine patient costs for items and services furnished in connection with participation in a qualifying clinical trial (as defined in section 1396d(gg) of this title)" before period at end.
+
+Subsec. (b)(6)(A). Pub. L. 116–260, §203(a)(4)(B), substituted "requirements of section 300gg–26(a)" for "requirements of section 300gg–4(a)" and inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a benchmark benefit package or benchmark equivalent coverage described in such sentence shall be treated as in compliance with such requirements if the State plan under this subchapter or the benchmark benefit package or benefit equivalent coverage, as applicable, is in compliance with subpart C of part 440 of title 42, Code of Federal Regulations, or any successor regulation."
 
 <b>2010</b>—Subsec. (a)(1)(B). Pub. L. 111–148, §2001(a)(5)(E), inserted "subclause (VIII) of section 1396a(a)(10)(A)(i) of this title or under" after "eligible under".
 
@@ -254,6 +274,12 @@ Subsec. (a)(2)(B)(viii). Pub. L. 111–3, §611(b), substituted "child welfare s
 
 Subsec. (c). Pub. L. 111–3, §611(c), added subsec. (c).
 
+#### Effective Date of 2020 Amendment
+
+Amendment by section 209(a)(2) of Pub. L. 116–260 effective Dec. 27, 2020, and applicable to transportation furnished on or after such date, see section 209(a)(4) of Pub. L. 116–260, set out as a note under section 1396a of this title.
+
+Amendment by section 210(c) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022, see section 210(e) of Pub. L. 116–260, set out as a note under section 1308 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 2004(c)(2) of Pub. L. 111–148 effective Jan. 1, 2014, see section 2004(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
@@ -268,9 +294,7 @@ Pub. L. 111–3, title VI, §611(d), Feb. 4, 2009, 123 Stat. 101, provided that:
 
 Pub. L. 109–171, title VI, §6044(b), Feb. 8, 2006, 120 Stat. 92, provided that: "The amendment made by subsection (a) \[enacting this section\] takes effect on March 31, 2006."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

@@ -60,7 +60,7 @@ Not later than 60 days after October 16, 2015, and not less frequently than bien
 
 #### (d) Submission of strategic plan
 
-Not later than 180 days after December 20, 2019, and every 2 years thereafter, the Chair and Vice Chair of the Commission shall jointly submit, to the appropriate congressional committees, a written strategic plan that includes—
+Not later than 180 days after December 20, 2019, and every 2 years thereafter, the Chair andVice Chair of the Commission shall jointly submit, to the appropriate congressional committees, a written strategic plan that includes—
 
 &emsp;(1) a description of prioritized actions for the Commission for a period of time to be specified by the Commissioners;
 
@@ -87,6 +87,8 @@ Upon request, the Commission shall—
 &emsp;(2) respond to any requests to provide testimony before the appropriate congressional committees.
 
 (Pub. L. 114–71, §4, Oct. 16, 2015, 129 Stat. 563; Pub. L. 116–94, div. J, title VIII, §807, Dec. 20, 2019, 133 Stat. 3079.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

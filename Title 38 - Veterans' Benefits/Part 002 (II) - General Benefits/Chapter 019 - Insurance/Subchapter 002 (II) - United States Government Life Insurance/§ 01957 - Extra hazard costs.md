@@ -8,7 +8,9 @@
 
 (d) Any disability for which a waiver was required as a condition to tendering a person a commission under Public Law 816, Seventy-seventh Congress, shall be deemed to be a disability resulting from an injury or disease traceable to the extra hazard of military or naval service for the purpose of applying this section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, §757; renumbered §1957 and amended Pub. L. 102–83,§§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, §757; renumbered §1957 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

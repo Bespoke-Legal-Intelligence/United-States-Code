@@ -1,6 +1,6 @@
 ### §558a. Volunteers in the National Forests Program
 
-The Secretary of Agriculture (hereinafter referred to as the "Secretary") is authorized to recruit, train, and accept without regard to the civil service <sup>1</sup> classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretary through the Forest Service. In carrying out this section, the Secretary shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
+The Secretary of Agriculture (hereinafter referred to as the "Secretary") is authorized to recruit, train, and accept without regard to thecivil service <sup>1</sup> classification laws, rules, or regulations the services of individuals without compensation as volunteers for or in aid of interpretive functions, visitor services, conservation measures and development, or other activities in and related to areas administered by the Secretary through the Forest Service. In carrying out this section, the Secretary shall consider referrals of prospective volunteers made by the Corporation for National and Community Service.
 
 (Pub. L. 92–300, §1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, §405(d), Sept. 21, 1993, 107 Stat. 921.)
 

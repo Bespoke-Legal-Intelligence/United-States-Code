@@ -24,9 +24,11 @@ Investigation Agreements.—The Secretary shall try to make agreements with head
 
 &emsp;(1) describe the cooperative efforts to be taken (including sharing civil rights enforcement personnel and resources) to obtain compliance with this section; and
 
-&emsp;(2) provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies against a unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
+&emsp;(2) provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies againsta unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1874.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

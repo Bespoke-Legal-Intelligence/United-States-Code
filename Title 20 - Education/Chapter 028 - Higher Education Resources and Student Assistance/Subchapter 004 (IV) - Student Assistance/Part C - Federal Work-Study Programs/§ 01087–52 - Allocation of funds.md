@@ -42,7 +42,7 @@
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
-(1) From the remainder of the amount appropriated pursuant to section 1087–51(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 1087–51(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution whichhas an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependentand independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -104,7 +104,7 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate studentsemployed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
@@ -112,7 +112,19 @@
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §442, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; amended Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §442, Aug. 14, 2008, 122 Stat. 3258.)
+(Pub. L. 89–329, title IV, §442, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; amended Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §442, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 116–260, div. FF, title VII, §704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3199, 3200.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:</i>
+
+<i>(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index";</i>
+
+<i>(2) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
+
+<i>(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".</i>
+
+<i>See 2020 Amendment notes below.</i>
 
 #### Codification
 
@@ -127,6 +139,18 @@ A prior section 442 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, ti
 Another prior section 442 of Pub. L. 89–329, title IV, Nov. 8, 1965, 79 Stat. 1251, which was classified to section 2757 of Title 42, The Public Health and Welfare, authorized appropriations for the fiscal years ending June 30, 1966, 1967, and 1968, to carry out the provisions of this part, prior to repeal by Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(2)(B). Pub. L. 116–260, §704(4), substituted "average student aid index" for "average expected family contribution".
+
+Pub. L. 116–260, §704(3), substituted "a student aid index" for "an expected family contribution".
+
+Subsec. (c)(2)(D)(ii), (F)(ii). Pub. L. 116–260, §704(1), substituted "the student aid index" for "the expected family contribution".
+
+Subsec. (c)(3)(B). Pub. L. 116–260, §704(4), substituted "average student aid index" for "average expected family contribution".
+
+Pub. L. 116–260, §704(3), substituted "a student aid index" for "an expected family contribution".
+
+Subsec. (c)(3)(D). Pub. L. 116–260, §704(1), substituted "the student aid index" for "the expected family contribution".
 
 <b>2008</b>—Subsec. (c)(4)(D). Pub. L. 110–315 substituted "$600" for "$450".
 
@@ -165,6 +189,10 @@ Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior t
 "(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with section 1087–57 of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 1087–57(c) of this title."
 
 <b>1987</b>—Subsec. (e)(2). Pub. L. 100–50, substituted "not to exceed 25 percent" for "25 percent" and "section 1087–57(c) of this title" for "subsection (c) of this section", and made technical amendment to reference to section 1087–57 of this title to correct numerical designation of corresponding section of original act.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

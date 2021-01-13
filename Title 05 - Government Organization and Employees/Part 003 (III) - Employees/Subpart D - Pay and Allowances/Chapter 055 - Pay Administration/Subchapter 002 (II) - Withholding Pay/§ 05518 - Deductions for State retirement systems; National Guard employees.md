@@ -30,6 +30,8 @@ The words "individuals employed by" and the word "individuals" are substituted f
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10996. Withholding of Compensation for State and State-Sponsored Employee Retirement, Disability, or Death Benefits Programs
 
 Ex. Ord. No. 10996, Feb. 16, 1962, 27 F.R. 1521, provided:
@@ -44,7 +46,7 @@ Section 1. As used in this order, the term:
 
 Sec. 2. Each agreement between the Secretary of Defense and the Governor or other proper official of a State, pursuant to the provisions of the act of June 15, 1956, as amended, with respect to withholding of compensation of certain civilian employees of the Army National Guard and the Air National Guard for purposes of State or State-sponsored employee retirement, disability, or death benefits systems, shall be entered into by the Secretary of Defense within one hundred and twenty days of the receipt of a request therefor by the Secretary from the Governor or any other proper official of any State; <i>Provided</i>, that—
 
-(a) the law of such State provides for the payment of employee contributions to such State or State-sponsored employee retirement, disability, or death benefitssystems by withholding sums from the compensation of such State employees and making returns of such sums to officials of such State or organization designated by such officials to receive sums withheld for such programs;
+(a) the law of such State provides for the payment of employee contributions to such State or State-sponsored employee retirement, disability, or death benefits systems by withholding sums from the compensation of such State employees and making returns of such sums to officials of such State or organization designated by such officials to receive sums withheld for such programs;
 
 (b) civilian employees of the Army National Guard and the Air National Guard, other than those employed by the National Guard Bureau, are eligible for membership in a State retirement, disability, or death benefits system; and
 

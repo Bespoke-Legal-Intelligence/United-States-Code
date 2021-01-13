@@ -12,9 +12,13 @@ The Congress hereby finds that Communist dictatorships result in severe constrai
 
 (July 31, 1945, ch. 339, §43, as added Pub. L. 98–181, title I \[title VIII, §804\], Nov. 30, 1983, 97 Stat. 1270; amended Pub. L. 103–149, §4(b)(6), Nov. 23, 1993, 107 Stat. 1505.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–149 struck out "(a)" before "The Congress" and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -1,0 +1,60 @@
+### §3456. Commercial product and commercial service determinations by Department of Defense
+
+(a)
+
+In General.—The Secretary of Defense shall—
+
+&emsp;(1) establish and maintain a centralized capability with necessary expertise and resources to provide assistance to the military departments and Defense Agencies in making commercial product and commercial service determinations, conducting market research, and performing analysis of price reasonableness for the purposes of procurements by the Department of Defense; and
+
+&emsp;(2) provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.
+
+(b)
+
+Determinations Regarding the Commercial Nature of Products or Services.—
+
+&emsp;(1)
+
+In general.—In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
+
+&emsp;&emsp;(A) request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and
+
+&emsp;&emsp;(B) consider the views of appropriate public and private sector entities.
+
+&emsp;(2)
+
+Memorandum.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+
+(c)
+
+Items Previously Acquired Using Commercial Acquisition Procedures.—
+
+&emsp;(1)
+
+Determinations.—A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.
+
+&emsp;(2)
+
+Limitation.—(A) Except as provided under subparagraph (B), funds appropriated or otherwise made available to the Department of Defense may not be used for the procurement under part 15 of the Federal Acquisition Regulation of a product or service that was previously acquired under a contract using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation.
+
+&emsp;(B) The limitation under subparagraph (A) does not apply to the procurement of a product or service that was previously acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation following—
+
+&emsp;&emsp;(i) a written determination by the head of contracting activity pursuant to section 3703(d)(2) of this title that the use of such procedures was improper; or
+
+&emsp;&emsp;(ii) a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
+
+(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1821(a)(2), renumbered section 2380 of this title as this section.
+
+Subsec. (b). Pub. L. 116–283, §816(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 116–283, §816(1), redesignated subsec. (b) as (c).
+
+Subsec. (c)(2)(B)(i). Pub. L. 116–283, §§1821(b)(5), 1831(j)(5), made identical amendments, substituting "section 3703(d)(2)" for "section 2306a(b)(4)(B)". Amendment by section 1831(j)(5) to section 2380(b)(2)(B)(i) of this title and by section 1821(b)(5) to subsec. (b)(2)(B)(i) of this section were both executed to reflect the probable intent of Congress and the intervening amendments made by sections 1821(a)(2) and 816(1) of Pub. L. 116–283, which had renumbered section 2380 of this title as this section and redesignated subsec. (b) as (c). See Amendment notes above.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1821(a)(2), (b)(5) and 1831(j)(5) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

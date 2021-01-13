@@ -2,7 +2,7 @@
 
 (a)
 
-Action on Complaints Alleging Sexual Harassment.—A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, or Marine Corps who receives from a member of the command or a civilian employee under the supervision of the officer a complaint alleging sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall carry out an investigation of the matter in accordance with this section.
+Action on Complaints Alleging Sexual Harassment.—A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, Marine Corps, or Space Force who receives from a member of the command or a civilian employee under the supervision of the officer a complaint alleging sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall carry out an investigation of the matter in accordance with this section.
 
 (b)
 
@@ -24,7 +24,7 @@ Report on Investigation.—To the extent practicable, a commanding officer or of
 
 &emsp;(1) submit a final report on the results of the investigation, including any action taken as a result of the investigation, to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced; or
 
-&emsp;(2) submit a report on the progress made in completing the investigation to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced and every 14 days thereafter until the investigation is completed and, upon completion of the investigation, then submit a final report on the results of the investigation, including any action taken as aresult of the investigation, to that next superior officer.
+&emsp;(2) submit a report on the progress made in completing the investigation to the next superior officer referred to in subsection (b)(1) within 20 days after the date on which the investigation is commenced and every 14 days thereafter until the investigation is completed and, upon completion of the investigation, then submit a final report on the results of the investigation, including any action taken as a result of the investigation, to that next superior officer.
 
 (e)
 
@@ -32,7 +32,7 @@ Sexual Harassment Defined.—In this section, the term "sexual harassment" means
 
 &emsp;(1) Conduct that—
 
-&emsp;&emsp;(A) involves unwelcome sexual advances, requests for sexual favors, and deliberate or repeated offensive comments or gestures of a sexual nature when—
+&emsp;&emsp;(A) involves unwelcome sexual advances, requests for sexual favors, and deliberate orrepeated offensive comments or gestures of a sexual nature when—
 
 &emsp;&emsp;&emsp;(i) submission to such conduct is made either explicitly or implicitly a term or condition of a person's job, pay, or career;
 
@@ -46,13 +46,15 @@ Sexual Harassment Defined.—In this section, the term "sexual harassment" means
 
 &emsp;(3) Any deliberate or repeated unwelcome verbal comment or gesture of a sexual nature by any member of the armed forces or civilian employee of the Department of Defense.
 
-(Added Pub. L. 105–85, div. A, title V, §591(a)(1), Nov. 18, 1997, 111 Stat. 1760; amended Pub. L. 114–328, div. A, title V, §548(a), Dec. 23, 2016, 130 Stat. 2129.)
+(Added Pub. L. 105–85, div. A, title V, §591(a)(1), Nov. 18, 1997, 111 Stat. 1760; amended Pub. L. 114–328, div. A, title V, §548(a), Dec. 23, 2016, 130 Stat. 2129; Pub. L. 116–283, div. A, title IX, §924(b)(3)(Z), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### Prior Provisions
 
 Prior sections 1571 to 1577, Pub. L. 89–690, §1, Oct. 15, 1966, 80 Stat. 1016, related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2016</b>—Subsec. (e)(1). Pub. L. 114–328, §548(a)(1)(A), in introductory provisions, struck out "(constituting a form of sex discrimination)" after "Conduct".
 
@@ -68,9 +70,85 @@ Pub. L. 114–328, div. A, title V, §548(b), Dec. 23, 2016, 130 Stat. 2129, pro
 
 Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: "This Act \[enacting section 1561a of this title\] may be cited as the 'Armed Forces Domestic Security Act'."
 
+#### Safe-To-Report Policy Applicable Across the Armed Forces
+
+Pub. L. 116–283, div. A, title V, §539A, Jan. 1, 2021, 134 Stat. 3607, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall, in consultation with the Secretaries of the military departments, prescribe in regulations a safe-to-report policy described in subsection (b) that applies with respect to all members of the Armed Forces (including members of the reserve components of the Armed Forces) and cadets and midshipmen at the military service academies.
+
+"(b)
+
+Safe-to-report Policy.—The safe-to-report policy described in this subsection is a policy that prescribes the handling of minor collateral misconduct involving a member of the Armed Forces who is the alleged victim of sexual assault.
+
+"(c)
+
+Aggravating Circumstances.—The regulations under subsection (a) shall specify aggravating circumstances that increase the gravity of minor collateral misconduct or its impact on good order and discipline for purposes of the safe-to-report policy.
+
+"(d)
+
+Tracking of Collateral Misconduct Incidents.—In conjunction with the issuance of regulations under subsection (a), Secretary shall develop and implement a process to track incidents of minor collateral misconduct that are subject to the safe-to-report policy.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Armed Forces' has the meaning given that term in section 101(a)(4) of title 10, United States Code, except such term does not include the Coast Guard.
+
+&emsp;"(2) The term 'military service academy' means the following:
+
+&emsp;&emsp;"(A) The United States Military Academy.
+
+&emsp;&emsp;"(B) The United States Naval Academy.
+
+&emsp;&emsp;"(C) The United States Air Force Academy.
+
+&emsp;"(3) The term 'minor collateral misconduct' means any minor misconduct that is potentially punishable under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that—
+
+&emsp;&emsp;"(A) is committed close in time to or during the sexual assault, and directly related to the incident that formed the basis of the sexual assault allegation;
+
+&emsp;&emsp;"(B) is discovered as a direct result of the report of sexual assault or the ensuing investigation into the sexual assault; and
+
+&emsp;&emsp;"(C) does not involve aggravating circumstances (as specified in the regulations prescribed under subsection (c)) that increase the gravity of the minor misconduct or its impact on good order and discipline."
+
+#### Accountability of Leadership of the Department of Defense for Discharging the Sexual Harassment Policies and Programs of the Department
+
+Pub. L. 116–283, div. A, title V, §539B, Jan. 1, 2021, 134 Stat. 3608, provided that:
+
+"(a)
+
+Strategy on Holding Leadership Accountable Required.—The Secretary of Defense shall develop and implement Department of Defense-wide a strategy to hold individuals in positions of leadership in the Department (including members of the Armed Forces and civilians) accountable for the promotion, support, and enforcement of the policies and programs of the Department on sexual harassment.
+
+"(b)
+
+Oversight Framework.—
+
+&emsp;"(1)
+
+In general.—The strategy required by subsection (a) shall provide for an oversight framework for the efforts of the Department of Defense to promote, support, and enforce the policies and programs of the Department on sexual harassment.
+
+&emsp;"(2)
+
+Elements.—The oversight framework required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Long-term goals, objectives, and milestones in connection with the policies and programs of the Department on sexual harassment.
+
+&emsp;&emsp;"(B) Strategies to achieve the goals, objectives, and milestones referred to in subparagraph (A).
+
+&emsp;&emsp;"(C) Criteria for assessing progress toward the achievement of the goals, objectives, and milestones referred to in subparagraph (A).
+
+&emsp;&emsp;"(D) Criteria for assessing the effectiveness of the policies and programs of the Department on sexual harassment.
+
+&emsp;&emsp;"(E) Mechanisms to ensure that adequate resources are available to the Office of the Secretary of Defense to develop and discharge the oversight framework.
+
+"(c)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the actions taken to carry out this section, including the strategy developed and implemented pursuant to subsection (a), and the oversight framework developed and implemented pursuant to subsection (b)."
+
 #### Training for Commanders in the Armed Forces on Their Role in all Stages of Military Justice in Connection With Sexual Assault
 
-Pub. L. 116–92, div. A, title V, §540B, Dec. 20, 2019, 133 Stat. 1365, provided that:
+Pub. L. 116–92, div. A, title V, §540B, Dec. 20, 2019, 133 Stat. 1365, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 "(a)
 
@@ -86,7 +164,7 @@ Elements To Be Covered.—The training provided pursuant to subsection (a) shall
 
 &emsp;"(3) The role of commanders in assuring that victims of sexual assault described in paragraph (1) are afforded the rights and protections available to victims by law.
 
-&emsp;"(4) The role of commanders in preventing retaliation against victims, their family members, witnesses, first responders, and bystanders for their their \[sic\] complaints, statements, testimony, and status in connection with sexual assault described in paragraph (1), including the role of commanders in ensuring that subordinates in the command are aware of their responsibilities in preventing such retaliation.
+&emsp;"(4) The role of commanders in preventing retaliation against victims, their family members, witnesses, first responders, and bystanders for their complaints, statements, testimony, and status in connection with sexual assault described in paragraph (1), including the role of commanders in ensuring that subordinates in the command are aware of their responsibilities in preventing such retaliation.
 
 &emsp;"(5) The role of commanders in establishing and maintaining a healthy command climate in connection with reporting on sexual assault described in paragraph (1), and in the response of the commander, subordinates in the command, and other personnel in the command to such sexual assault, such reporting, and the military justice process in connection with such sexual assault.
 
@@ -108,13 +186,15 @@ Identification of best practices.—The Secretaries of the military departments 
 
 Uniformity.—The Secretary of Defense shall ensure that the training provided pursuant to subsection (a) is, to the extent practicable, uniform across the Armed Forces."
 
+\[Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(2) of Pub. L. 116–283 to section 540B of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.\]
+
 #### Department of Defense-Wide Policy and Military Department-Specific Programs on Reinvigoration of the Prevention of Sexual Assault Involving Members of the Armed Forces
 
 Pub. L. 116–92, div. A, title V, §540D, Dec. 20, 2019, 133 Stat. 1366, provided that:
 
 "(a)
 
-Policy Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], theSecretary of Defense shall develop and issue a comprehensive policy for the Department of Defense to reinvigorate the prevention of sexual assault involving members of the Armed Forces.
+Policy Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall develop and issue a comprehensive policy for the Department of Defense to reinvigorate the prevention of sexual assault involving members of the Armed Forces.
 
 "(b)
 
@@ -148,7 +228,7 @@ Programs Required.—Not later than 180 days after the issuance of the policy re
 
 #### Defense Advisory Committee for the Prevention of Sexual Misconduct
 
-Pub. L. 116–92, div. A, title V, §550B, Dec. 20, 2019, 133 Stat. 1380, provided that:
+Pub. L. 116–92, div. A, title V, §550B, Dec. 20, 2019, 133 Stat. 1380, as amended by Pub. L. 116–283, div. A, title V, §533–535, Jan. 1, 2021, 134 Stat. 3603, 3604, provided that:
 
 "(a)
 
@@ -196,7 +276,7 @@ In general.—The Advisory Committee shall advise the Secretary on the following
 
 &emsp;&emsp;"(A) The prevention of sexual assault (including rape, forcible sodomy, other sexual assault, and other sexual misconduct (including behaviors on the sexual assault continuum of harm)) involving members of the Armed Forces.
 
-&emsp;&emsp;"(B) The policies, programs, and practices of each military department, each Armed Force, and each military service academy for the prevention of sexual assault as described in subparagraph (A).
+&emsp;&emsp;"(B) The policies, programs, and practices of each military department, each Armed Force, and each military service academy, including the United States Coast Guard Academy, for the prevention of sexual assault as described in subparagraph (A).
 
 &emsp;"(2)
 
@@ -206,7 +286,11 @@ Basis for provision of advice.—For purposes of providing advice to the Secreta
 
 &emsp;&emsp;"(B) Efforts of institutions of higher education to prevent sexual assault among students.
 
-&emsp;&emsp;"(C) Any other information or matters that the Advisory Committee or the Secretary considers appropriate.
+&emsp;&emsp;"(C) Efforts among private employers to prevent sexual assault and sexual harassment among their employees.
+
+&emsp;&emsp;"(D) Evidence-based studies on the prevention of sexual assault and sexual harassment in the Armed Forces, institutions of higher education, and the private sector.
+
+&emsp;&emsp;"(E) Any other information or matters that the Advisory Committee or the Secretary considers appropriate.
 
 &emsp;"(3)
 
@@ -214,9 +298,31 @@ Coordination of efforts.—In addition to the reviews required by paragraph (2),
 
 "(d)
 
-Annual Report.—Not later than March 30 each year, the Advisory Committee shall submit to the Secretary and the Committees on Armed Services of the Senate and the House of Representatives a report on the activities of the Advisory Committee pursuant to this section during the preceding year.
+Advisory Duties on Coast Guard Academy.—In providing advice under subsection (c)(1)(B), the Advisory Committee shall also advise the Secretary of the Department in which the Coast Guard is operating in accordance with this section on policies, programs, and practices of the United States Coast Guard Academy.
 
 "(e)
+
+Annual Report.—Not later than March 30 each year, the Advisory Committee shall submit to the Secretary and the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives a report on the activities of the Advisory Committee pursuant to this section during the preceding year. The report in 2021 shall also include the following:
+
+&emsp;"(1) A description and assessment of the extent and effectiveness of the inclusion by the Armed Forces of sexual assault prevention and response training in leader professional military education (PME), especially in such education for personnel in junior noncommissioned officer grades.
+
+&emsp;"(2) An assessment of the feasibility of—
+
+&emsp;&emsp;"(A) the screening before entry into military service of recruits who may have been the subject or perpetrator of prior incidents of sexual assault and harassment, including through background checks; and
+
+&emsp;&emsp;"(B) the administration of screening tests to recruits to assess recruit views and beliefs on equal opportunity, and whether such views and beliefs are compatible with military service.
+
+&emsp;"(3) An assessment of the feasibility of conducting exit interviews of members of the Armed Forces upon their discharge release from the Armed Forces in order to determine whether they experienced or witnessed sexual assault or harassment during military service and did not report it, and an assessment of the feasibility of combining such exit interviews with the Catch a Serial Offender (CATCH) Program of the Department of Defense.
+
+&emsp;"(4) An assessment whether the sexual assault reporting databases of the Department are sufficiently anonymized to ensure privacy while still providing military leaders with the information as follows:
+
+&emsp;&emsp;"(A) The approximate length of time the victim and the assailant had been at the duty station at which the sexual assault occurred.
+
+&emsp;&emsp;"(B) The percentage of sexual assaults occurring while the victim or assailant were on temporary duty, leave, or otherwise away from their permanent duty station.
+
+&emsp;&emsp;"(C) The number of sexual assaults that involve an abuse of power by a commander or supervisor.
+
+"(f)
 
 Sexual Assault Continuum of Harm.—In this section, the term 'sexual assault continuum of harm' includes—
 
@@ -224,7 +330,7 @@ Sexual Assault Continuum of Harm.—In this section, the term 'sexual assault co
 
 &emsp;"(2) maltreatment or ostracism of a victim for a report of sexual misconduct.
 
-"(f)
+"(g)
 
 Termination.—
 
@@ -234,7 +340,9 @@ In general.—Except as provided in paragraph (2), the Advisory Committee shall 
 
 &emsp;"(2)
 
-Continuation.—The Secretary of Defense may continue the Advisory Committee after the termination date applicable under paragraph (1) if the Secretary determines that continuation of the Advisory Committee after that date is advisable and appropriate. If the Secretary determines to continue the Advisory Committee after that date, the Secretary shall notify the Committees on the Armed Services of the Senate and House of Representatives."
+Continuation.—The Secretary of Defense may continue the Advisory Committee after the termination date applicable under paragraph (1) if the Secretary determines that continuation of the Advisory Committee after that date is advisable and appropriate. If the Secretary determines to continue the Advisory Committee after that date, the Secretary shall notify the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives."
+
+\[Pub. L. 116–283, div. A, title V, §535(4), Jan. 1, 2021, 134 Stat. 3604, which directed amendment of section 550B(g)(2) of Pub. L. 116–92, set out above, by substituting "the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives" for "the Committees on Armed Services of the Senate and the House of Representatives", was executed by making the substitution for "the Committees on the Armed Services of the Senate and House of Representatives" to reflect the probable intent of Congress.\]
 
 #### Uniform Command Action Form on Disposition of Unrestricted Sexual Assault Cases Involving Members of the Armed Forces
 
@@ -246,21 +354,33 @@ Pub. L. 115–232, div. A, title V, §535, Aug. 13, 2018, 132 Stat. 1761, provid
 
 #### Report on Victims of Sexual Assault in Reports of Military Criminal Investigative Organizations
 
-Pub. L. 115–232, div. A, title V, §547, Aug. 13, 2018, 132 Stat. 1765, provided that:
+Pub. L. 115–232, div. A, title V, §547, Aug. 13, 2018, 132 Stat. 1765, as amended by Pub. L. 116–283, div. A, title V, §536, Jan. 1, 2021, 134 Stat. 3604, provided that:
 
 "(a)
 
 Report.—Not later than September 30, 2019, and not less frequently than once every two years thereafter, the Secretary of Defense, acting through the Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes, with respect to the period of two years preceding the date of the submittal of the report, the following:
 
-&emsp;"(1) The number of instances in which a covered individual was accused of misconduct or crimes considered collateral to the investigation of a sexual assault committed against the individual.
+&emsp;"(1) The number of instances in which a covered individual was suspected of misconduct or crimes considered collateral to the investigation of a sexual offense committed against the individual.
 
-&emsp;"(2) The number of instances in which adverse action was taken against a covered individual who was accused of collateral misconduct or crimes as described in paragraph (1).
+&emsp;"(2) The number of instances in which adverse action was taken against a covered individual who was suspected of collateral misconduct or crimes as described in paragraph (1).
 
-&emsp;"(3) The percentage of investigations of sexual assaults that involved an accusation or adverse action against a covered individual as described in paragraphs (1) and (2).
+&emsp;"(3) The percentage of investigations of sexual offenses that involved suspicion of or adverse action against a covered individual as described in paragraphs (1) and (2).
 
 "(b)
 
-Covered Individual Defined.—In this section, the term 'covered individual' means an individual who is identified as a victim of a sexual assault in the case files of a military criminal investigative organization."
+Guidance Required.—The Secretary of Defense shall issue guidance to ensure the uniformity of the data collected by each Armed Force for purposes of subsection (a). At a minimum, such guidance shall establish—
+
+&emsp;"(1) standardized methods for the collection of the data required to be reported under such subsection; and
+
+&emsp;"(2) standardized definitions for the terms 'sexual offense', 'collateral miconduct', and 'adverse action'.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered individual' means an individual who is identified in the case files of a military criminal investigative organization as a victim of a sexual offense that occurred while that individual was serving on active duty as a member of the Armed Forces.
+
+&emsp;"(2) The term 'suspected of', when used with respect to a covered individual suspected of collateral misconduct or crimes as described in subsection (a), means that an investigation by a military criminal investigative organization reveals facts and circumstances that would lead a reasonable person to believe that the individual committed an offense under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice)."
 
 #### Sexual Assault Prevention and Response Training for All Individuals Enlisted in the Armed Forces Under a Delayed Entry Program
 
@@ -356,11 +476,11 @@ Retaliation Defined.—In this section, the term 'retaliation' has the meaning g
 
 #### Retention of Case Notes in Investigations of Sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps
 
-Pub. L. 114–92, div. A, title V, §541, Nov. 25, 2015, 129 Stat. 819, provided that:
+Pub. L. 114–92, div. A, title V, §541, Nov. 25, 2015, 129 Stat. 819, as amended by Pub. L. 116–283, div. A, title X, §1081(f)(1), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 "(a)
 
-Retention of All Investigative Records Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall update Department of Defense records retention policies to ensure that, for all investigations relating to an alleged sex-related offense (as defined in section 1044e(g) \[now 1044e(h)\] of title 10, United States Code) involving a member of the Army, Navy, Air Force, or Marine Corps, all elements of the case file shall be retained as part of the investigative records retained in accordance with section 586 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).
+Retention of All Investigative Records Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall update Department of Defense records retention policies to ensure that, for all investigations relating to an alleged sex-related offense (as defined in section 1044e(h) of title 10, United States Code) involving a member of the Army, Navy, Air Force, or Marine Corps, all elements of the case file shall be retained as part of the investigative records retained in accordance with section 586 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).
 
 "(b)
 
@@ -381,6 +501,8 @@ Consistent Education and Policy.—The Secretary of Defense shall ensure that ex
 "(d)
 
 Uniform Application to Military Departments.—The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsections (a) is implemented uniformly by the military departments."
+
+\[Pub. L. 116–283, div. A, title X, §1081(f), Jan. 1, 2021, 134 Stat. 3874, provided that the amendment made by section 1081(f)(1) of Pub. L. 116–283 to section 541 of Pub. L. 114–92, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–92.\]
 
 #### Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers
 
@@ -434,7 +556,7 @@ Elements.—Each training and certification program under this subsection shall 
 
 &emsp;"(3)
 
-Nature of training.—The training provided under each training and certification program under this subsection shall incorporate and reflect current best practices and standards on sexual assault forensic examinations.
+Nature of training.—The training provided under each training and certification program underthis subsection shall incorporate and reflect current best practices and standards on sexual assault forensic examinations.
 
 &emsp;"(4)
 
@@ -458,7 +580,7 @@ Deadline for establishment.—The Secretary shall establish the Advisory Committ
 
 "(b)
 
-Membership.—The Advisory Committee shall consist of not more than 20 members, to be appointed by the Secretary of Defense, who have experience withthe investigation, prosecution, and defense of allegations of sexual assault offenses. Members of the Advisory Committee may include Federal and State prosecutors, judges, law professors, and private attorneys. Members of the Armed Forces serving on active duty may not serve as a member of the Advisory Committee.
+Membership.—The Advisory Committee shall consist of not more than 20 members, to be appointed by the Secretary of Defense, who have experience with the investigation, prosecution, and defense of allegations of sexual assault offenses. Members of the Advisory Committee may include Federal and State prosecutors, judges, law professors, and private attorneys. Members of the Armed Forces serving on active duty may not serve as a member of the Advisory Committee.
 
 "(c)
 
@@ -540,7 +662,7 @@ Immediate Action Required.—A commanding officer who receives a report of a sex
 
 "(b)
 
-Action Required.—The action required by this subsection with respect to a report described in subsection (a) is the referral of the report to the military criminal investigation organization with responsibility for investigating that offense of the military department concerned or such other investigation service of the military department concerned as the Secretary of the military department concerned may specify for purposes of this section."
+Action Required.—The action required by this subsection with respect to a report described in subsection (a) is the referral of the report to the militarycriminal investigation organization with responsibility for investigating that offense of the military department concerned or such other investigation service of the military department concerned as the Secretary of the military department concerned may specify for purposes of this section."
 
 #### Eight-Day Incident Reporting Requirement in Response to Unrestricted Report of Sexual Assault in Which the Victim is a Member of the Armed Forces
 
@@ -558,7 +680,7 @@ Incident Reporting Policy Requirement.—The Secretary of Defense and the Secret
 
 "(b)
 
-Purpose of Report.—The purpose of the required incident report under subsection (a) is to detail the actions taken or in progress to provide the necessary care and support to the victim of the assault, torefer the allegation of sexual assault to the appropriate investigatory agency, and to provide initial notification of the serious incident when that notification has not already taken place.
+Purpose of Report.—The purpose of the required incident report under subsection (a) is to detail the actions taken or in progress to provide the necessary care and support to the victim of the assault, to refer the allegation of sexual assault to the appropriate investigatory agency, and to provide initial notification of the serious incident when that notification has not already taken place.
 
 "(c)
 
@@ -874,7 +996,7 @@ Consistent training.—The Secretary of Defense shall ensure that the sexual ass
 
 "(b)
 
-Inclusion in Professional Military Education.—The Secretary of Defense shall provide for the inclusion of a sexual assault prevention and response training module at each level of professional military education. The training shall be tailored to the new responsibilities and leadership requirements of members of the Armed Forces as they are promoted.
+Inclusion in Professional Military Education.—The Secretary of Defense shall provide for theinclusion of a sexual assault prevention and response training module at each level of professional military education. The training shall be tailored to the new responsibilities and leadership requirements of members of the Armed Forces as they are promoted.
 
 "(c)
 
@@ -982,7 +1104,7 @@ Return of Personal Property Upon Completion of Related Proceedings in Unrestrict
 
 "(f)
 
-Return of Personal Property in Restricted Reporting Cases.—(1) The Secretary of Defense shall prescribe procedures under which a victim who files a restricted report on an incident of sexual assault may request, at any time, the return of any personal property of the victim obtained as part of the sexual assault forensic examination.
+Return of Personal Property in Restricted Reporting Cases.—(1) The Secretary of Defense shall prescribe procedures under which a victim who files arestricted report on an incident of sexual assault may request, at any time, the return of any personal property of the victim obtained as part of the sexual assault forensic examination.
 
 "(2) The procedures shall ensure that—
 
@@ -1000,7 +1122,7 @@ Return of Personal Property in Restricted Reporting Cases.—(1) The Secretary o
 
 #### Improved Sexual Assault Prevention and Response in the Armed Forces
 
-Pub. L. 115–91, div. A, title V, §538, Dec. 12, 2017, 131 Stat. 1393, provided that: "Beginning with the reportsrequired to be submitted by March 1, 2019, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note), information regarding a sexual assault committed by a member of the Armed Forces against the spouse or intimate partner of the member or another dependent of the member shall be included in such reports in addition to the annual Family Advocacy Program report. The information may be included as an annex to such reports."
+Pub. L. 115–91, div. A, title V, §538, Dec. 12, 2017, 131 Stat. 1393, provided that: "Beginning with the reports required to be submitted by March 1, 2019, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note), information regarding a sexual assault committed by a member of the Armed Forces against the spouse or intimate partner of the member or another dependent of the member shall be included in such reports in addition to the annual Family Advocacy Program report. The information may be included as an annex to such reports."
 
 Pub. L. 112–239, div. A, title V, §572, Jan. 2, 2013, 126 Stat. 1753, as amended by Pub. L. 113–66, div. A, title XVII, §1721, Dec. 26, 2013, 127 Stat. 970, provided that:
 
@@ -1060,7 +1182,7 @@ Covered Offense Defined.—For purposes of subsection (a)(2), the term 'covered 
 
 Tracking of Organizational Climate Assessment Compliance.—The Secretary of Defense shall direct the Secretaries of the military departments to verify and track the compliance of commanding officers in conducting organizational climate assessments, as required by subsection (a)(3)."
 
-Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended by Pub. L. 112–81, div. A, title V, §583, Dec. 31, 2011, 125 Stat. 1432; Pub. L. 112–239, div. A, title V, §575(a), (b), Jan. 2, 2013, 126 Stat. 1757, 1758; Pub. L. 113–66, div. A, title XVII, §§1725(a), 1726, Dec. 26, 2013, 127 Stat. 971, 972; Pub. L. 113–291, div. A, title V, §542(a), (b), title X, §1071(i), Dec. 19, 2014, 128 Stat. 3372, 3373, 3512; Pub. L. 114–328, div. A, title V, §§543, 544, Dec. 23, 2016, 130 Stat. 2127; Pub. L. 115–91, div. A, title V, §537(a), Dec. 12, 2017, 131 Stat. 1392, provided that:
+Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended by Pub. L. 112–81, div. A, title V, §583, Dec. 31, 2011, 125 Stat. 1432; Pub. L. 112–239, div. A, title V, §575(a), (b), Jan. 2, 2013, 126 Stat. 1757, 1758; Pub. L.113–66, div. A, title XVII, §§1725(a), 1726, Dec. 26, 2013, 127 Stat. 971, 972; Pub. L. 113–291, div. A, title V, §542(a), (b), title X, §1071(i), Dec. 19, 2014, 128 Stat. 3372, 3373, 3512; Pub. L. 114–328, div. A, title V, §§543, 544, Dec. 23, 2016, 130 Stat. 2127; Pub. L. 115–91, div. A, title V, §537(a), Dec. 12, 2017, 131 Stat. 1392; Pub. L. 116–283, div. A, title V, §537(a), Jan. 1, 2021, 134 Stat. 3605, provided that:
 
 #### "SEC. 1601. DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.
 
@@ -1160,7 +1282,7 @@ Recognizing operational differences.—In complying with this subsection, the Se
 
 "(a)
 
-Appointment of Director.—There shall be a Director of the Sexual Assault Prevention and Response Office, who shall be appointed from among general or flag officers of the Armed Forces or employees of the Department of Defense in a comparable Senior Executive Service position. During the development and implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program, the Director shall operate under the oversight of the Advisory Working Group of the Deputy Secretary of Defense.
+Appointment of Director.—There shall be a Director of the Sexual Assault Prevention and ResponseOffice, who shall be appointed from among general or flag officers of the Armed Forces or employees of the Department of Defense in a comparable Senior Executive Service position. During the development and implementation of the comprehensive policy for the Department of Defense sexual assault prevention and response program, the Director shall operate under the oversight of the Advisory Working Group of the Deputy Secretary of Defense.
 
 "(b)
 
@@ -1176,7 +1298,7 @@ Duties of Director.—The Director of the Sexual Assault Prevention and Response
 
 &emsp;"(5) act as liaison between the Department of Defense and other Federal and State agencies on programs and efforts relating to sexual assault prevention and response; and
 
-&emsp;"(6) oversee development of strategic program guidance and joint planning objectives for resources insupport of the sexual assault prevention and response program, and make recommendations on modifications to policy, law, and regulations needed to ensure the continuing availability of such resources.
+&emsp;"(6) oversee development of strategic program guidance and joint planning objectives for resources in support of the sexual assault prevention and response program, and make recommendations on modifications to policy, law, and regulations needed to ensure the continuing availability of such resources.
 
 "(c)
 
@@ -1262,7 +1384,7 @@ Notice of Availability of Assistance; Opt Out.—The member or dependent shall b
 
 "(c)
 
-Nature of Reporting Immaterial.—In the case of a member of the Armed Forces, Victim Advocate services are available regardless of whether the member elects unrestricted or restricted (confidential) reporting of the sexual assault.
+Nature of Reporting Immaterial.—In the case of a member of the Armed Forces, Victim Advocateservices are available regardless of whether the member elects unrestricted or restricted (confidential) reporting of the sexual assault.
 
 #### "Subtitle C—Reporting Requirements
 
@@ -1278,7 +1400,7 @@ Contents.—The report of a Secretary of a military department for an Armed Forc
 
 &emsp;"(1) The number of sexual assaults committed against members of the Armed Force that were reported to military officials during the year covered by the report, and the number of the cases so reported that were substantiated.
 
-&emsp;"(2) The number of sexual assaults committed by members of the Armed Force that were reported tomilitary officials during the year covered by the report, and the number of the cases so reported that were substantiated. The information required by this paragraph may not be combined with the information required by paragraph (1).
+&emsp;"(2) The number of sexual assaults committed by members of the Armed Force that were reported to military officials during the year covered by the report, and the number of the cases so reported that were substantiated. The information required by this paragraph may not be combined with the information required by paragraph (1).
 
 &emsp;"(3) A synopsis of each such substantiated case, organized by offense, and, for each such case, the action taken in the case, including the type of disciplinary or administrative sanction imposed, if any, including courts-martial sentences, non-judicial punishments administered by commanding officers pursuant to section 815 of title 10, United States Code (article 15 of the Uniform Code of Military Justice), and administrative separations.
 
@@ -1366,7 +1488,7 @@ Consistent Definition of Substantiated.—Not later than December 31, 2011, the 
 
 "(d)
 
-Submission to Congress.—Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary ofDefense shall forward the reports to the Committees on Armed Services of the Senate and House of Representatives, together with—
+Submission to Congress.—Not later than April 30 of each year in which the Secretary of Defense receives reports under subsection (a), the Secretary of Defense shall forward the reports to the Committees on Armed Services of the Senate and House of Representatives and the Committees on Veterans' Affairs of the Senate and the House of Representatives, together with—
 
 &emsp;"(1) the results of assessments conducted under the evaluation plan required by section 1602(c);
 
@@ -1442,6 +1564,8 @@ Use of Forensic Medical Examiners.—The Secretary of Defense shall evaluate the
 
 Submission of Results.—The Secretary of Defense shall submit the results of the evaluations required by this section to the Committees on Armed Services of the Senate and House of Representatives."
 
+\[Pub. L. 116–283, div. A, title V, §537(b), Jan. 1, 2021, 134 Stat. 3605, provided that: "The amendment made by subsection (a) \[amending section 1631 of Pub. L. 111–383, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 1, 2021\] and shall apply to reports required to be submitted under such section on or after such date."\]
+
 \[Pub. L. 115–91, div. A, title V, §537(b), Dec. 12, 2017, 131 Stat. 1393, provided that: "The amendment made by this section \[amending section 1631 of Pub. L. 111–383, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\] and apply beginning with the reports required to be submitted by March 1, 2020, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note)."\]
 
 \[Pub. L. 113–291, div. A, title V, §542(c), Dec. 19, 2014, 128 Stat. 3373, provided that: "The amendments made by this section \[amending section 1631 of Pub. L. 111–383, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\] and apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2015, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[Pub. L. 111–383\]."\]
@@ -1458,7 +1582,7 @@ Pub. L. 111–84, div. A, title V, §598, Oct. 28, 2009, 123 Stat. 2345, provide
 
 &emsp;"(2) The Defense Sexual Assault Incident Database."
 
-Pub. L. 110–417, \[div. A\], title V, §563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(3), Aug. 13, 2018, 132 Stat. 1840, provided that:
+Pub. L. 110–417, \[div. A\], title V, §563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(3), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title X, §1081(d)(3), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 "(a)
 
@@ -1499,8 +1623,6 @@ Reports.—The database required by subsection (a) shall be used to develop and 
 &emsp;"(3) section 532 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) \[enacting sections 4361, 6980, and 9361 of this title and provisions set out as a note under section 4361 of this title and repealing provisions set out as a note under section 4331 of this title\]; and
 
 &emsp;"(4) sections 7461, 8480, and 9461 of title 10, United States Code."
-
-\[Pub. L. 115–232, div. A, title VIII, §809(b)(3), Aug. 13, 2018, 132 Stat. 1840, which directed amendment of "\[s\]ection 598(d)(4) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 1561 note)" by striking "sections 4361, 6980, and 9361" and inserting "sections 7461, 8480, and 9461", was executed to section 564(d)(4) of Pub. L. 110–417, set out above, to reflect the probable intent of Congress. Section 598 of Pub. L. 111–84, which is set out above immediately preceding section 563(a)–(d) of Pub. L. 110–417, does not contain a subsec. (d)(4).\]
 
 #### Improvement to Department of Defense Capacity To Respond to Sexual Assault Affecting Members of the Armed Forces
 
@@ -1556,7 +1678,7 @@ Submission of data.—The data required to be collected under this subsection sh
 
 "(2)
 
-Information to members.—Not later than 180 days after the date of the enactment of this Act \[Oct.28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member's option to request transfer from the command to which the member is assigned."
+Information to members.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member's option to request transfer from the command to which the member is assigned."
 
 Pub. L. 108–375, div. A, title V, §577, Oct. 28, 2004, 118 Stat. 1926, as amended by Pub. L. 109–163, div. A, title V, §596(c), Jan. 6, 2006, 119 Stat. 3283; Pub. L. 109–364, div. A, title V, §583, Oct. 17, 2006, 120 Stat. 2230; Pub. L. 110–417, \[div. A\], title V, §563(e), Oct. 14, 2008, 122 Stat. 4471; Pub. L. 111–383, div. A, title X, §1075(i)(1), title XVI, §1631(e)(1), Jan. 7, 2011, 124 Stat. 4377, 4435, provided that:
 
@@ -1638,7 +1760,7 @@ Policies and Procedures of Military Departments.—(1) Not later than March 1, 2
 
 #### Reports
 
-Pub. L. 105–85, div. A, title V, §591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary's assessment of each report not later than Apr. 1 following receipt of a report for a year.
+Pub. L. 105–85, div. A, title V, §591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this sectionduring 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary's assessment of each report not later than Apr. 1 following receipt of a report for a year.
 
 #### Department of Defense Policies and Procedures on Discrimination and Sexual Harassment
 

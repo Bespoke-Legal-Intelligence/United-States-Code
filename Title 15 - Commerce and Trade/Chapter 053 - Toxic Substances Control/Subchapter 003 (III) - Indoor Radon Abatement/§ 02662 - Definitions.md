@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-Section 241 of title 20, as in effect before enactment of the Improving America's Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20,Education, prior to its repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 241 of title 20, as in effect before enactment of the Improving America's Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20, Education, prior to its repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
 

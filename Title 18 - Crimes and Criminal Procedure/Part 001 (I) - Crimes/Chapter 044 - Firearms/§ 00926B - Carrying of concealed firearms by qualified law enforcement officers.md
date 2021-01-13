@@ -42,6 +42,8 @@
 
 (Added Pub. L. 108–277, §2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, §2(a), (b), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, §1089(1), Jan. 2, 2013, 126 Stat. 1970.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
@@ -66,6 +68,8 @@ Subsec. (e). Pub. L. 111–272, §2(b), added subsec. (e) and struck out former 
 
 Subsec. (f). Pub. L. 111–272, §2(a)(2), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Federal Law Enforcement Self-Defense and Protection
 
 Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
@@ -86,7 +90,7 @@ Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
 
 &emsp;"(4) Federal law enforcement officers remain a target even when they are off-duty. Over the past 3 years, 27 law enforcement officers have been killed off-duty.
 
-&emsp;"(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out theircritical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty.
+&emsp;"(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out their critical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty.
 
 &emsp;"(6) These dangers to law enforcement officers continue to exist during a covered furlough.
 

@@ -22,7 +22,7 @@ If the statement filed by the applicant should thereafter be found to contain fa
 
 <b>1962</b>—Pub. L. 87–615 substituted "allowance" for "allowances" before "forward copies of the application" in first par.
 
-<b>1961</b>—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangementwith Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinations of Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
+<b>1961</b>—Pub. L. 87–206 clarified language concerning Commission's patent rights on inventions made or conceived under contract, subcontract, or arrangement with Commission, striking out language extending Commission's patent rights to other relationships and activities in connection with Commission contracts, provided for waiver of patent rights consistent with the policy of this section and for finality of determinations of Commission, and dispensed with need for statement to Commissioner of Patents under certain circumstances.
 
 #### Effective Date of 2011 Amendment
 

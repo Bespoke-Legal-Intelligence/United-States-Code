@@ -54,7 +54,7 @@ The Secretary of Defense may issue such regulations as may be necessary to imple
 
 The undergraduate and graduate training program established under this section shall be known as the Louis Stokes Educational Scholarship Program.
 
-(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amended Pub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664.)
+(Pub. L. 86–36, §16, as added Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; amendedPub. L. 111–259, title III, §312(a)–(d), Oct. 7, 2010, 124 Stat. 2663, 2664.)
 
 #### Codification
 

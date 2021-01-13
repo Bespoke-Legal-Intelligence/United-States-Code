@@ -6,6 +6,8 @@
 
 (Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, §402(a), Dec. 27, 2001, 115 Stat. 993; Pub. L. 108–454, title IV, §407, Dec. 10, 2004, 118 Stat. 3617; Pub. L. 109–233, title I, §103(a), (f)(2), June 15, 2006, 120 Stat. 399, 400.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–233, §103(f)(2), amended section catchline generally, substituting "Direct housing loans to Native American veterans; program authority" for "Pilot program".
@@ -22,6 +24,8 @@ Subsec. (c). Pub. L. 109–233, §103(a)(3), struck out subsec. (c) which read a
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–114 substituted "December 31, 2001" for "September 30, 1997".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Consultation With Advisory Committee on Native-American Veterans
 
 Pub. L. 102–547, §8(b), Oct. 28, 1992, 106 Stat. 3640, which required the Secretary of Veterans Affairs to consider the views and recommendations, if any, of the Advisory Committee on Native-American Veterans in carrying out the direct housing loan pilot program, was repealed by Pub. L. 109–233, title I, §103(c)(2), June 15, 2006, 120 Stat. 400.
@@ -32,5 +36,5 @@ Pub. L. 102–547, §8(d), Oct. 28, 1992, 106 Stat. 3640, directed Secretary of 
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 
-Pub. L. 102–547, §8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: "New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation."
+Pub. L. 102–547, §8(e), Oct. 28, 1992, 106 Stat. 3640, provided that: "New direct loan obligations for NativeAmerican veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation."
 

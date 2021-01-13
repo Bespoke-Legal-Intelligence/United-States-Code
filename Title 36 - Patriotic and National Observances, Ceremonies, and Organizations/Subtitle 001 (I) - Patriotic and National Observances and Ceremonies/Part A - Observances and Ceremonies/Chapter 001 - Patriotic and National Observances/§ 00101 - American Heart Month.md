@@ -28,6 +28,14 @@ Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843.
 
 In clause (2), the words "chief executive officers" are substituted for "Governors", and the words "territories, and possessions" are substituted for "territories", for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–282, §1, Dec. 31, 2020, 134 Stat. 3386, provided that: "This Act \[amending provisions set out as a note preceding this section\] may be cited as the 'United States Semiquincentennial Commission Amendments Act of 2020'."
+
+Pub. L. 116–189, §1, Oct. 30, 2020, 134 Stat. 943, provided that: "This Act \[enacting subchapter V of chapter 2205 and section 220513 of this title, amending sections 220501 to 220507, 220509, 220511, 220512, 220521 to 220524, 220527 to 220531, and 220541 to 220543 of this title, section 362 of Title 11, Bankruptcy, and section 20341 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 220501, 220507, and 220551 of this title\] may be cited as the 'Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–67, §1, Nov. 7, 2019, 133 Stat. 1128, provided that: "This Act \[amending section 902 of this title\] may be cited as the 'National POW/MIA Flag Act'."

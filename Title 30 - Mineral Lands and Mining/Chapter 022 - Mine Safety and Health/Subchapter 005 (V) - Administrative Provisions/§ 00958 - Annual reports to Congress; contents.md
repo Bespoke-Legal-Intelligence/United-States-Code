@@ -6,15 +6,19 @@
 
 (Pub. L. 91–173, title V, §511, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, §303(f), Nov. 9, 1977, 91 Stat. 1321; Pub. L. 96–470, title I, §106(f), Oct. 19, 1980, 94 Stat. 2238.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety andHealth Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–470 struck out subsec. (b) which provided that within 120 days following the convening of each session of Congress, the Secretary of Health, Education, and Welfare submit through the President to the Congress and to the Office of Science and Technology an annual report on health matters covered by this chapter.
 
 <b>1977</b>—Subsecs. (a), (b). Pub. L. 95–164 inserted references to mines other than coal mines.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 
@@ -23,6 +27,8 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to requirement to submit annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 124 of House Document No. 103–7.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

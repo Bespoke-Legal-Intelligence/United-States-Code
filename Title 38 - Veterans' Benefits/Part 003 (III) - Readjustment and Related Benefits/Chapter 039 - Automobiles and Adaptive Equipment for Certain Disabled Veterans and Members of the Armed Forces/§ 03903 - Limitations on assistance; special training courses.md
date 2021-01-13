@@ -18,7 +18,7 @@
 
 (c)(1) An eligible person shall not be entitled to adaptive equipment under this chapter for more than two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period.
 
-(2) In a case in which the four-year limitation in paragraph (1) of this subsection precludes an eligible person from being entitled to adaptive equipment under this chapter, if the Secretary determines that, due to circumstances beyond the control of such person, one of the automobiles or other conveyances for which adaptive equipment was provided to such person during the applicable four-year period is no longer available for the use of such person, the Secretary may provide adaptive equipment to such person for an additional automobile or other conveyance during such period. Provision of adaptive equipment under this paragraph iswithin the discretion of the Secretary. Any action to provide adaptive equipment under this paragraph shall be made pursuant to regulations which the Secretary shall prescribe.
+(2) In a case in which the four-year limitation in paragraph (1) of this subsection precludes an eligible person from being entitled to adaptive equipment under this chapter, if the Secretary determines that, due to circumstances beyond the control of such person, one of the automobiles or other conveyances for which adaptive equipment was provided to such person during the applicable four-year period is no longer available for the use of such person, the Secretary may provide adaptive equipment to such person for an additional automobile or other conveyance during such period. Provision of adaptive equipment under this paragraph is within the discretion of the Secretary. Any action to provide adaptive equipment under this paragraph shall be made pursuant to regulations which the Secretary shall prescribe.
 
 (d) Adaptive equipment shall not be provided under this chapter unless it conforms to minimum standards of safety and quality prescribed by the Secretary.
 
@@ -29,6 +29,8 @@
 (3) Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
 (Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 2000, §1903; amended Pub. L. 93–538, §4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, §108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, §303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered §3903 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, §804, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 112–154, title VII, §701(e), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 114–256, §2, Dec. 14, 2016, 130 Stat. 1345.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -71,6 +73,8 @@ Subsec. (e)(3). Pub. L. 94–581, §108(2), added par. (3).
 <b>1974</b>—Pub. L. 93–538, §4(b), substituted "Limitations on assistance; special training courses" for "Limitations on assistance" in section catchline.
 
 Subsec. (e). Pub. L. 93–538, §4(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

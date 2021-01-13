@@ -26,6 +26,8 @@ Words "civil action" were substituted for "suits," "suits at law or in equity" i
 
 Numerous changes were made in arrangement and phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–170 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -34,7 +36,9 @@ Numerous changes were made in arrangement and phraseology.
 
 <b>1954</b>—Act Sept. 3, 1954, substituted "section 1985 of Title 42" for "section 47 of Title 8" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: "The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to anydeprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\]."
+Pub. L. 96–170, §3, Dec. 29, 1979, 93 Stat. 1284, provided that: "The amendments made by this Act \[amending this section and section 1983 of Title 42, The Public Health and Welfare\] shall apply with respect to any deprivation of rights, privileges, or immunities secured by the Constitution and laws occurring after the date of the enactment of this Act \[Dec. 29, 1979\]."
 

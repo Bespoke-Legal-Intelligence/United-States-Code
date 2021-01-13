@@ -32,7 +32,7 @@
 
 #### (2) Provision of information
 
-&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
+&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States toprovide relevant information, including the information required under subsection (d).
 
 #### (c) Corrective action and sanctions
 
@@ -92,6 +92,8 @@ This chapter (as in effect on the day before October 25, 2004) shall apply to fu
 
 (Pub. L. 105–394, §7, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1734; amended Pub. L. 113–128, title IV, §491(o)(3), July 22, 2014, 128 Stat. 1698.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Education Provisions Act, referred to in subsec. (e), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
@@ -105,6 +107,8 @@ Subsec. (a)(2). Pub. L. 113–128, §491(o)(3)(A)(ii), substituted "The Administ
 Subsec. (a)(3). Pub. L. 113–128, §491(o)(3)(A)(iii), substituted "the Administrator of the Administration for Community Living" for "the Rehabilitation Services Administration".
 
 Subsec. (c)(5). Pub. L. 113–128, §491(o)(3)(B), substituted "Health and Human Services" for "Education".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

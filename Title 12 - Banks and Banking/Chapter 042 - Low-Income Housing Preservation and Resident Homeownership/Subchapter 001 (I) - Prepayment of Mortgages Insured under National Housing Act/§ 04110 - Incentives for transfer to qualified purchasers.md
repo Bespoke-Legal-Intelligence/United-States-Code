@@ -20,7 +20,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (c) Right of refusal for other qualified purchasers
 
-If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated saleprice may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.<sup>1</sup>
+If no bona fide offer to purchase any eligible low-income housing subject to this section that meets the requirements of subsection (b) is made and accepted during the period under such subsection, during the 3-month period beginning upon the expiration of the 12-month period under subsection (b)(1), the owner of the housing may offer to sell and may sell the housing only to qualified purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.<sup>1</sup>
 
 #### (d) Assistance
 
@@ -32,7 +32,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 &emsp;Subject to the availability of amounts approved in appropriations Acts, the Secretary shall, for approvable plans of action, provide assistance sufficient to enable qualified purchasers (including all priority purchasers other than resident councils acquiring under the homeownership program authorized by section 4116 of this title) to—
 
-&emsp;&emsp;(A) acquire the eligible low-income housing from the current owner for a purchase price not greater than the preservation equity of the housing;
+&emsp;&emsp;(A) acquire the eligible low-income housing from the current owner for a purchaseprice not greater than the preservation equity of the housing;
 
 &emsp;&emsp;(B) pay the debt service on the federally-assisted mortgage covering the housing;
 
@@ -57,6 +57,8 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 &emsp;&emsp;Where the qualified purchaser is a priority purchaser, the Secretary may provide assistance for an approved plan of action (in the form of a grant) for each unit in the housing in an amount, as determined by the Secretary, that does not exceed the present value of the total of the projected published fair market rentals for existing housing (established by the Secretary under section 1437f(c) of title 42) for the next 10 years (or such longer period if additional assistance is necessary to cover the costs referred to in paragraph (2)).
 
 (Pub. L. 100–242, title II, §220, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4257; amended Pub. L. 102–550, title III, §307, Oct. 28, 1992, 106 Stat. 3764.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

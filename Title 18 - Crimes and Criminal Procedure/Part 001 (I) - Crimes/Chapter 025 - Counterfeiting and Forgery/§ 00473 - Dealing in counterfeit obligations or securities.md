@@ -12,6 +12,8 @@ Reference to circulating notes of banking associations was omitted as covered by
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56 substituted "20 years" for "ten years".

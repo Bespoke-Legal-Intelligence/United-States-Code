@@ -4,7 +4,7 @@ A State may expend payments received under section 300eeâ€“11(a) of this titleâ€
 
 &emsp;(1) to develop, establish, and conduct public information activities relating to the prevention and diagnosis of acquired immune deficiency syndrome for those populations or communities in the State in which there are a significant number of individuals at risk of infection with the etiologic agent for such syndrome;
 
-&emsp;(2) to develop, establish, and conduct such public information activities for the general public relating to the prevention and diagnosis of such syndrome;
+&emsp;(2) to develop, establish, and conduct such public information activities for the generalpublic relating to the prevention and diagnosis of such syndrome;
 
 &emsp;(3) to develop, establish, and conduct activities to reduce risks relating to such syndrome, including research into the prevention of such syndrome;
 

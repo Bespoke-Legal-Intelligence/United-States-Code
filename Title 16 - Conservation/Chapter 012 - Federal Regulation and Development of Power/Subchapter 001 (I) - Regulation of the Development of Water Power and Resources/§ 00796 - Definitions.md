@@ -16,7 +16,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(7) "municipality" means a city, county, irrigation district, drainage district, or other political subdivision or agency of a State competent under the laws thereof to carry on the business of developing, transmitting, utilizing, or distributing power;
 
-&emsp;(8) "navigable waters" means those parts of streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, and which either in their natural or improved condition notwithstanding interruptions between the navigable parts of such streams or waters by falls, shallows, or rapids compelling land carriage, are used or suitable for use for the transportation of persons or property in interstate or foreign commerce, including therein all such interrupting falls, shallows, or rapids, together with such other parts of streams as shall have been authorized by Congress for improvement by the United States or shall have been recommended to Congress for such improvement after investigation under its authority;
+&emsp;(8) "navigable waters" means those parts of streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, and which either in their natural or improved condition notwithstanding interruptions between thenavigable parts of such streams or waters by falls, shallows, or rapids compelling land carriage, are used or suitable for use for the transportation of persons or property in interstate or foreign commerce, including therein all such interrupting falls, shallows, or rapids, together with such other parts of streams as shall have been authorized by Congress for improvement by the United States or shall have been recommended to Congress for such improvement after investigation under its authority;
 
 &emsp;(9) "municipal purposes" means and includes all purposes within municipal powers as defined by the constitution or laws of the State or by the charter of the municipality;
 
@@ -50,7 +50,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;&emsp;&emsp;(II) emergencies, directly affecting the public health, safety, or welfare, which would result from electric power outages;
 
-&emsp;(C) "qualifying small power production facility" means a small power production facility that the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, andreliability) as the Commission may, by rule, prescribe;
+&emsp;(C) "qualifying small power production facility" means a small power production facility that the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe;
 
 &emsp;(D) "qualifying small power producer" means the owner or operator of a qualifying small power production facility;
 
@@ -134,7 +134,7 @@ Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 
 
 &emsp;"(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
 
-&emsp;"(ii) which is owned by a person not primarily engaged in the generation or sale of electric power\(other than electric power solely from cogeneration facilities or small power production facilities);".
+&emsp;"(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);".
 
 Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: " 'qualifying cogeneration facility' means a cogeneration facility which—
 

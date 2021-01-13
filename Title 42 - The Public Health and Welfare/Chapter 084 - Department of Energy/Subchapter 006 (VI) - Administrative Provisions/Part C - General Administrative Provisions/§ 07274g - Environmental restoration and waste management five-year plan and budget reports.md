@@ -12,7 +12,7 @@
 
 &emsp;(A) A description of the actions, including identification of specific projects, necessary to maintain or achieve compliance with Federal, State, or local environmental laws, regulations, permits, orders, and agreements.
 
-&emsp;(B) A description of the actions, including identification of specific projects, to be taken at each Department of Energy facility in orderto implement environmental restoration activities planned for each such facility.
+&emsp;(B) A description of the actions, including identification of specific projects, to be taken at each Department of Energy facility in order to implement environmental restoration activities planned for each such facility.
 
 &emsp;(C) A description of research and development activities for the expeditious and efficient environmental restoration of such facilities.
 
@@ -34,7 +34,7 @@
 
 &emsp;(L) Such other matters as the Secretary finds appropriate and in the public interest.
 
-(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
+(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretaryshall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 

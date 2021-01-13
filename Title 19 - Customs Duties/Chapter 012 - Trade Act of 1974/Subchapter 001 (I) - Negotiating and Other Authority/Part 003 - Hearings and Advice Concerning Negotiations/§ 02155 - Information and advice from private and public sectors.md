@@ -22,7 +22,7 @@
 
 &emsp;(D) Important developments in other areas of trade for which there must be developed a proper policy response.
 
-(3) The President shall take the advice received through consultation under paragraph (2) into account in determining the importance which should be placed on each major objectiveand negotiating position that should be adopted in order to achieve the overall trade policy of the United States.
+(3) The President shall take the advice received through consultation under paragraph (2) into account in determining the importance which should be placed on each major objective and negotiating position that should be adopted in order to achieve the overall trade policy of the United States.
 
 #### (b) Advisory Committee for Trade Policy and Negotiations
 
@@ -72,7 +72,7 @@ Committees established under subsection (c) shall meet at the call of the United
 
 (1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 4202 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 4202 of this title shall be provided under the preceding sentence not later than the date that is 30 days after the date on which the President notifies Congress under section 4205(a)(1)(A) of this title of his intention to enter into that agreement.
 
-(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to whatextent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 4201 of this title, as appropriate.
+(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 4201 of this title, as appropriate.
 
 (3) The report of the appropriate sectoral or functional committee under paragraph (1) shall include an advisory opinion as to whether the agreement provides for equity and reciprocity within the sector or within the functional area.
 
@@ -114,7 +114,7 @@ The United States Trade Representative, and the Secretaries of Commerce, Labor, 
 
 #### (i) Consultation with advisory committees; procedures; nonacceptance of committee advice or recommendations
 
-It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining informationand advice from the advisory committees established under subsection (c) on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
+It shall be the responsibility of the United States Trade Representative, in conjunction with the Secretaries of Commerce, Labor, Agriculture, the Treasury, or other executive departments, as appropriate, to adopt procedures for consultation with and obtaining information and advice from the advisory committees established under subsection (c) on a continuing and timely basis. Such consultation shall include the provision of information to each advisory committee as to—
 
 &emsp;(1) significant issues and developments; and
 
@@ -142,7 +142,7 @@ As used in this section, the term "non-Federal government" means—
 
 &emsp;(2) any agency or instrumentality of any entity described in paragraph (1).
 
-(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 114–26, title I, §110(a)(5), June 29, 2015, 129 Stat. 357.)
+(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B),Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 114–26, title I, §110(a)(5), June 29, 2015, 129 Stat. 357.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Reorganization Plan Number 3 of 1979, referred to in subsec. (a)(1)(C), is set o
 
 Executive Order Numbered 12188, referred to in subsec. (a)(1)(C), is set out as a note under section 2171 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Food and Agriculture Act of 1977, referred to in subsec. (l), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
@@ -200,7 +200,7 @@ Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the mem
 
 Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after "initiative", included references to "services", and substituted "general policy advice on matters referred to in subsection (a) of this section" for "general policy advice on any trade agreement referred to in section 2111 or 2112 of this title", "Special Representative for Trade Negotiations" for "President acting through the Special Representative for Trade Negotiations" and "or Agriculture" for "and Agriculture".
 
-Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for "The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
+Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for"The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for "policy advice", "technical advice" and "advice on other factors", struck out "on negotiations" and "on negotiations on particular products both domestic and foreign" after "policy advice" and "technical advice and information" and substituted "factors relevant to the matters referred to in subsection (a) of this section" for "factors relevant to positions of the United States in trade negotiations."
 

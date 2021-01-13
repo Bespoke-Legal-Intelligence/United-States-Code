@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of intent
 
-United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations ofthe world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financial institutions should be primarily directed to those projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
+United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations of the world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financial institutions should be primarily directed to those projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
@@ -24,9 +24,11 @@ More specifically, the following criteria should be considered as a basis for a 
 
 #### (d) International financial institutions
 
-The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
+The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the AsianDevelopment Bank, and the African Development Bank.
 
 (Pub. L. 99–88, title I, §502, Aug. 15, 1985, 99 Stat. 330; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

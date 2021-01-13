@@ -8,7 +8,7 @@
 
 #### (b) Evidence
 
-If it appears to the satisfaction of the Attorney General that any alien has been so brought, such person, or transportation company, or the master, commanding officer, agent, owner, charterer, or consignee of any such vessel or aircraft, shall pay to the Commissioner a fine of $3,000 for each alien so brought and, except in the case of any such alien who is admitted, or permitted to land temporarily, in addition, an amount equal to that paid by such alien for his transportation from the initial point of departure, indicated in his ticket, to the port of arrival, such latter fine to be delivered by the Commissioner to the alien on whose account the assessment is made. No vessel or aircraft shall be granted clearance pending the determination ofthe liability to the payment of such fine or while such fine remains unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such fine, or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner.
+If it appears to the satisfaction of the Attorney General that any alien has been so brought, such person, or transportation company, or the master, commanding officer, agent, owner, charterer, or consignee of any such vessel or aircraft, shall pay to the Commissioner a fine of $3,000 for each alien so brought and, except in the case of any such alien who is admitted, or permitted to land temporarily, in addition, an amount equal to that paid by such alien for his transportation from the initial point of departure, indicated in his ticket, to the port of arrival, such latter fine to be delivered by the Commissioner to the alien on whose account the assessment is made. No vessel or aircraft shall be granted clearance pending the determination of the liability to the payment of such fine or while such fine remains unpaid, except that clearance may be granted prior to the determination of such question upon the deposit of an amount sufficient to cover such fine, or of a bond with sufficient surety to secure the payment thereof approved by the Commissioner.
 
 #### (c) Remission or refund
 
@@ -24,7 +24,9 @@ A fine under this section may be reduced, refunded, or waived under such regulat
 
 &emsp;(2) circumstances exist that the Attorney General determines would justify such reduction, refund, or waiver.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §273, 66 Stat. 227; Pub. L. 101–649, title II, §201(b), title V, §543(a)(10), Nov. 29, 1990, 104 Stat. 5014, 5058; Pub. L. 102–232, title III, §306(c)(4)(D), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §§209(a), 216, 219(p), Oct. 25, 1994, 108 Stat. 4312, 4315, 4317; Pub. L. 104–208, div. C, title III, §§308(c)(3), (e)(13), 371(b)(8), title VI, §671(b)(6), (7), Sept. 30, 1996, 110 Stat. 3009–616, 3009–620, 3009–645, 3009–722.)
+(June 27, 1952, ch. 477, title II, ch. 8, §273, 66 Stat. 227; Pub. L. 101–649, title II, §201(b), title V,§543(a)(10), Nov. 29, 1990, 104 Stat. 5014, 5058; Pub. L. 102–232, title III, §306(c)(4)(D), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §§209(a), 216, 219(p), Oct. 25, 1994, 108 Stat. 4312, 4315, 4317; Pub. L. 104–208, div. C, title III, §§308(c)(3), (e)(13), 371(b)(8), title VI, §671(b)(6), (7), Sept. 30, 1996, 110 Stat. 3009–616, 3009–620, 3009–645, 3009–722.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,6 +70,8 @@ Subsec. (c). Pub. L. 101–649, §201(b)(2), inserted "valid passport or" before
 
 Subsec. (d). Pub. L. 101–649, §543(a)(10)(B), substituted "Commissioner the sum of $3,000" for "collector of customs of the customs district in which the port of arrival is located the sum of $1,000" in first sentence and "Commissioner" for "collector of customs" in second sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 308(c)(3), (e)(13) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
@@ -88,7 +92,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 543(a)(10) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
+Amendment by section 543(a)(10) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

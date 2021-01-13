@@ -32,13 +32,13 @@ Payment of funds to any State for programs authorized under section 2662(a), (b)
 
 #### (f) Availability; budgets and accounts
 
-Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
+Funds shall be available for use by each State in the fiscal year for which appropriated and thenext fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
 
 #### (g) Financing of programs at other than cooperating institutions
 
 Funds provided to each State under this subchapter may be used to finance programs through or at private and publicly supported colleges and universities other than the institutions responsible for administering the programs, as provided under section 2664 of this title.
 
-(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, §792(b)(2), Apr. 4, 1996, 110 Stat. 1152; Pub. L.115–334, title VI, §6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, §792(b)(2), Apr. 4, 1996, 110 Stat. 1152; Pub. L. 115–334, title VI, §6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
 #### References in Text
 

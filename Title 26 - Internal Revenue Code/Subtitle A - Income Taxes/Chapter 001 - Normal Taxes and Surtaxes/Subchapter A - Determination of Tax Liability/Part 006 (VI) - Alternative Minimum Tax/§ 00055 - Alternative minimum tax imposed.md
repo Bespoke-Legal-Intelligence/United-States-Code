@@ -30,7 +30,7 @@ For purposes of this part—
 
 #### (C) Married individual filing separate return
 
-&emsp;&emsp;In the case of a married individual filing a separate return, subparagraph (A) shall beapplied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
+&emsp;&emsp;In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
 
 #### (2) Alternative minimum taxable income
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2012, the amountsdescribed in subparagraph (B) shall each be increased by an amount equal to—
+&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2012, the amounts described in subparagraph (B) shall each be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095; Pub. L. 116–94, div. O, title V, §501(b), Dec. 20, 2019, 133 Stat. 3180.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311,title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095; Pub. L. 116–94, div. O, title V, §501(b), Dec. 20, 2019, 133 Stat. 3180.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -202,7 +202,7 @@ Section 27, referred to in subsec. (c)(1), was amended generally by Pub. L. 115�
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -484,7 +484,7 @@ Pub. L. 108–357, title III, §314(c), Oct. 22, 2004, 118 Stat. 1469, provided 
 
 Pub. L. 108–311, title I, §103(b), Oct. 4, 2004, 118 Stat. 1168, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
-Amendment by section 103(a) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to thesame extent and in the same manner as the provision of such Act to which such amendment relates, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
+Amendment by section 103(a) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
 Pub. L. 108–311, title IV, §406(h), Oct. 4, 2004, 118 Stat. 1190, provided that: "The amendments made by this section \[amending this section and sections 246, 529, 530, 901, 1259, and 1397E of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate."
 
@@ -564,7 +564,7 @@ Pub. L. 99–514, title VII, §701(f), Oct. 22, 1986, 100 Stat. 2343, as amended
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and sections 53 and 56 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48,173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and sections 53 and 56 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48, 173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 "(2)
 
@@ -640,7 +640,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

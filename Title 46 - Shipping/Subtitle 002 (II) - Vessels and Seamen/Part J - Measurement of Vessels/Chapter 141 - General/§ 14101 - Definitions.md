@@ -34,7 +34,9 @@ In this part—
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14101 contains definitions that are limited to Part J—Measurement of Vessels. The source of these definitions is the International Convention on Tonnage Measurement of Ships in articles 2 and 4.
+Section 14101 contains definitions that are limited to Part J—Measurement of Vessels. The source of thesedefinitions is the International Convention on Tonnage Measurement of Ships in articles 2 and 4.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

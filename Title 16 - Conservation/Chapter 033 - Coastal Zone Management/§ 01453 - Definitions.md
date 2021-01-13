@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;(6a) The term "enforceable policy" means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
-&emsp;(7) The term "estuary" means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
+&emsp;(7) The term "estuary" means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably dilutedwith fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 
 &emsp;(8) The term "estuarine sanctuary" means a research area which may include any part or all of an estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes to the extent feasible a natural unit, set aside to provide scientists and students the opportunity to examine over a period of time the ecological relationships within the area.
 
@@ -54,7 +54,7 @@ For purposes of this chapter—
 
 &emsp;(18) The term "water use" means a use, activity, or project conducted in or on waters within the coastal zone.
 
-(Pub. L. 89–454, title III, §304, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub.L. 94–370, §3, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §4, Oct. 17, 1980, 94 Stat. 2061; Pub. L. 101–508, title VI, §6204, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(3)–(7), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+(Pub. L. 89–454, title III, §304, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 94–370, §3, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §4, Oct. 17, 1980, 94 Stat. 2061; Pub. L. 101–508, title VI, §6204, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(3)–(7), Nov. 4, 1992, 106 Stat. 5050, 5051.)
 
 #### References in Text
 
@@ -80,7 +80,7 @@ Par. (2). Pub. L. 102–587, §2205(b)(6), substituted "The term" for "the term"
 
 Par. (6a). Pub. L. 102–587, §2205(b)(4), made technical amendment to directory language of Pub. L. 101–508, §6204(b). See 1990 Amendment note below.
 
-Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "The term 'Fund' means the Coastal Energy Impact Fund established by section 1456a(h) of this title."
+Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows:"The term 'Fund' means the Coastal Energy Impact Fund established by section 1456a(h) of this title."
 
 <b>1990</b>—Par. (1). Pub. L. 101–508, §6204(a)(1), as amended by Pub. L. 102–587, §2205(b)(3), inserted ", and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise" before period at end of third sentence.
 
@@ -126,7 +126,7 @@ Par. (16). Pub. L. 94–370, §3(10), redesignated par. (h) as (16) and substitu
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### Proc. No. 5030. Exclusive Economic Zone
+#### Proc. No. 5030. Exclusive Economic Zone of the United States of America
 
 Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, provided:
 
@@ -151,6 +151,44 @@ Without prejudice to the sovereign rights and jurisdiction of the United States,
 IN WITNESS WHEREOF, I have hereunto set my hand this tenth day of March, in the year of our Lord nineteen hundred and eighty-three, and of the Independence of the United States of America the two hundred and seventh.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 10071. Revision to United States Marine Scientific Research Policy
+
+Proc. No. 10071, Sept. 9, 2020, 85 F.R. 59165, provided:
+
+The United Nations Convention on the Law of the Sea of 10 December 1982 (Convention) generally reflects customary international law. Section 3 of Part XIII of the Convention provides that coastal states, in the exercise of their jurisdiction, have the right to regulate, authorize, and conduct marine scientific research in their Exclusive Economic Zone (EEZ) and on their continental shelf. Marine scientific research in the EEZ or on the continental shelf shall be conducted with the consent of the coastal state.
+
+In Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) \[set out above\], the President announced the establishment of the EEZ of the United States. The Proclamation asserts the sovereign rights and jurisdiction of the United States in its EEZ and confirms the rights and freedoms of all states, as provided under international law. In an accompanying Presidential Statement of March 10, 1983 (United States Oceans Policy), the President acknowledged that international law allows coastal states to exercise jurisdiction over marine scientific research in their respective EEZs, but stated that the United States had elected not to do so to the fullest extent permitted under international law, in an effort to encourage such research. Presidential Decision Directive-36 of April 5, 1995 (United States Policy on Protecting the Ocean Environment), emphasizes that the policy of the United States is to protect and monitor the ocean and coastal environment and conserve living marine resources, recognizing that doing so, in an open and collaborative manner, supports our economic and national security interests.
+
+In Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) \[33 U.S.C. 857–19 note\], I reaffirmed that the United States will continue to promote lawful use of the ocean by agencies, including the Armed Forces, and that the United States will continue to exercise its rights and jurisdiction and perform duties in accordance with applicable international law, including customary international law. Further, the United States will use the best available ocean-related science and knowledge, in partnership with the science and technology communities, to inform decisions and enhance entrepreneurial opportunities. In the Presidential Memorandum of November 19, 2019 (Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska) \[33 U.S.C. 3501 note\], I affirmed the importance of understanding our ocean systems and natural resources to our security, economic, and environmental interests.
+
+Likewise, the exercise of jurisdiction by the United States over marine scientific research in its EEZ and on its continental shelf will result in greater access to data collected during such research and will increase maritime domain awareness, thereby reducing potential exposure to security, economic, and environmental risks.
+
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, by virtue of the authority vested in me by the Constitution and the laws of the United States, do hereby proclaim the following:
+
+Section 1. <i>Policy</i>. The United States will exercise its right to regulate, authorize, and conduct marine scientific research, with a specific requirement to authorize, in advance, all instances of foreign marine scientific research, in the United States EEZ and on its continental shelf to the extent permitted under international law.
+
+Sec. 2. <i>Implementation</i>. The Secretary of State (Secretary) shall have lead responsibility for implementing this proclamation, in consultation with relevant executive departments and agencies (agencies) and with the Ocean Policy Committee established in Executive Order 13840 (Ocean Policy Committee).
+
+Sec. 3. <i>Intelligence</i>. The Intelligence Community of the Federal Government shall support the implementation of this proclamation, as appropriate.
+
+Sec. 4. <i>Information Sharing</i>. To facilitate the process for reviewing applications for marine scientific research, agencies not part of the Intelligence Community shall share information related to marine scientific research with the Department of State, to the maximum extent authorized by law.
+
+Sec. 5. <i>Termination</i>. This proclamation shall remain in effect until terminated by the President. At any time, but not less frequently than every 2 years from the date of this proclamation \[Sept. 9, 2020\], the Secretary may recommend that the President modify or terminate this proclamation. Any such recommendation by the Secretary shall be coordinated with the National Security Council staff and the Ocean Policy Committee.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this ninth day of September, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fifth.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 

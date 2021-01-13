@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (5) Responsible administrative authority
 
-&emsp;The term "responsible administrative authority" means the administrative authority which had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
+&emsp;The term "responsible administrative authority" means the administrative authoritywhich had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
 
 #### (6) State
 

@@ -20,11 +20,15 @@ Historical and Revision Notes
 
 Pub. L. 87–581, title I, §108, as added Pub. L. 103–355, title VIII, §8301(b), Oct. 13, 1994, 108 Stat. 3396.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "a commercial product (as defined in section 103 of title 41) or a commercial service (as defined in section 103a of title 41)" for "a commercial item (as defined in section 103 of title 41)".
 
 <b>2011</b>—Pub. L. 111–350 substituted "section 103 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -32,6 +32,8 @@ Savings clause.—Nothing in this section shall limit or otherwise affect any ot
 
 (Added Pub. L. 109–177, title IV, §406(b)(1)(B), Mar. 9, 2006, 120 Stat. 244.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure. The Supplemental Rules for Certain Admiralty and Maritime Claims, which are set out as part of the Federal Rules of Civil Procedure, were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions.

@@ -42,6 +42,8 @@ The Secretary of the Senate is authorized to prescribe such regulations as may b
 
 (Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 110–39, §1, June 21, 2007, 121 Stat. 231.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Legislative Branch Appropriations Act, 1991, referred to in subsec. (f), is Pub. L. 101–520, Nov. 5, 1990, 104 Stat. 2254. For complete classification of this Act to the Code, see Tables.
@@ -59,6 +61,8 @@ In subsec. (d), "section 5104(c) of title 40" substituted for "section 4 of the 
 <b>2007</b>—Subsec. (c)(3). Pub. L. 110–39 added par. (3).
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

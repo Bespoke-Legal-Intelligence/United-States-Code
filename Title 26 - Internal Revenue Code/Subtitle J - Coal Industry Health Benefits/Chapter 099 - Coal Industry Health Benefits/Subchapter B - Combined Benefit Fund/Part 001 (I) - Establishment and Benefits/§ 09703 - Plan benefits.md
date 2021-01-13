@@ -62,7 +62,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (2) Termination of coverage
 
-&emsp;The 1950 UMWA Pension Plan and the 1974 UMWA Pension Plan shall each be amended to provide that death benefits coverage shall not be provided to eligible beneficiaries on and after February 1, 1993. This paragraph shall not prohibit such plans from subsequently providing death benefits not described in paragraph (1).
+&emsp;The 1950 UMWA Pension Plan and the 1974 UMWA Pension Plan shall each be amended to provide that death benefits coverage shall not be provided to eligible beneficiaries on andafter February 1, 1993. This paragraph shall not prohibit such plans from subsequently providing death benefits not described in paragraph (1).
 
 #### (d) Reserves for administration
 

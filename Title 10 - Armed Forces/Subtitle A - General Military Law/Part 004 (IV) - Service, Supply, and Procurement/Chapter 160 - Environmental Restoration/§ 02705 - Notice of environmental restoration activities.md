@@ -22,7 +22,7 @@ Release notices.—The Secretary shall ensure that the Administrator of the Envi
 
 &emsp;(2)
 
-Proposals for response actions.—The Secretary shall require that an adequate opportunity for timely review and comment be afforded to the Administrator and to appropriate State and local officials after making a proposal referred to in subsection (a)(3) and before undertaking an activity or action referred to in subsection (a)(4). The preceding sentence does not apply if the action is anemergency removal taken because of imminent and substantial endangerment to human health or the environment and consultation would be impractical.
+Proposals for response actions.—The Secretary shall require that an adequate opportunity for timely review and comment be afforded to the Administrator and to appropriate State and local officials after making a proposal referred to in subsection (a)(3) and before undertaking an activity or action referred to in subsection (a)(4). The preceding sentence does not apply if the action is an emergency removal taken because of imminent and substantial endangerment to human health or the environment and consultation would be impractical.
 
 (c)
 
@@ -76,7 +76,7 @@ Funding.—The Secretary shall, to the extent provided in appropriations Acts, m
 
 &emsp;(2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat.2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(C), Jan. 2, 2013, 126 Stat. 2144.)
 
 #### References in Text
 

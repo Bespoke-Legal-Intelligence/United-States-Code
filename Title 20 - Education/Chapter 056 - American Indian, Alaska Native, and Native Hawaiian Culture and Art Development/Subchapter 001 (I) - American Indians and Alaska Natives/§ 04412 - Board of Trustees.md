@@ -60,7 +60,7 @@ No member of the Board may be removed during the term of office of such member e
 
 #### (e) Chairman and Vice Chairman
 
-The President of the United States shall designate the initial Chairman and Vice Chairman of the Board from among the members of the Board appointed pursuant to subsection (a)(1)(A). Such Chairman and Vice Chairman so designated shall serve for 12 calendar months. Thereafter, the Chairman and Vice Chairman shall be elected from among the members of the Board appointed pursuant to subsection (a)(1)(A) and shall serve for terms of 2 years. In the case of a vacancy in the office of Chairman or Vice Chairman, such vacancy shall be filled by the members of the Board appointed pursuant to subsection (a)(1)(A), and the member filling suchvacancy shall serve for the remainder of the unexpired term.
+The President of the United States shall designate the initial Chairman and Vice Chairman of the Board from among the members of the Board appointed pursuant to subsection (a)(1)(A). Such Chairman and Vice Chairman so designated shall serve for 12 calendar months. Thereafter, the Chairman and Vice Chairman shall be elected from among the members of the Board appointed pursuant to subsection (a)(1)(A) and shall serve for terms of 2 years. In the case of a vacancy in the office of Chairman or Vice Chairman, such vacancy shall be filled by the members of the Board appointed pursuant to subsection (a)(1)(A), and the member filling such vacancy shall serve for the remainder of the unexpired term.
 
 #### (f) Quorum
 
@@ -94,7 +94,7 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) shall, for each 
 
 <b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" after "United States".
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted "Subject to the provisions of subsection (i), the voting" for "The voting" and inserted before period at end ", and diverse fields of expertise, including finance, law, fine arts, and higher education administration".
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted "Subject to the provisions of subsection (i),the voting" for "The voting" and inserted before period at end ", and diverse fields of expertise, including finance, law, fine arts, and higher education administration".
 
 Subsec. (a)(3), (4). Pub. L. 102–325, §1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 

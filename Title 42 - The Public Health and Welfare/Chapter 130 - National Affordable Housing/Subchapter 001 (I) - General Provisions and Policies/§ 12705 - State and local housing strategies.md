@@ -28,7 +28,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(6) indicate resources from private and non-Federal public sources that are reasonably expected to be made available to carry out the purposes of this Act, explaining how funds made available will leverage those additional resources and identifying, where the jurisdiction deems it appropriate, publicly owned land or property located within the jurisdiction that may be utilized to carry out the purposes of this Act;
 
-&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographically within the jurisdiction and among different activities and housing needs;
+&emsp;(7) set forth the jurisdiction's plan for investment or other use of housing funds made available under subchapter II of this chapter, the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing and Community Development Act of 1974, and the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], during the ensuing year or such longer period as the Secretary determines to be appropriate, indicating the general priorities for allocating investment geographicallywithin the jurisdiction and among different activities and housing needs;
 
 &emsp;(8) describe how the jurisdiction's plan will address the housing needs identified pursuant to subparagraphs <sup>1</sup> (1) and (2), describe the reasons for allocation priorities, and identify any obstacles to addressing underserved needs;
 
@@ -98,7 +98,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term "troubled public housing agency" means apublic housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+&emsp;For purposes of this subsection, the term "troubled public housing agency" means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
 (Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–162, title VI, §604, Jan. 5, 2006, 119 Stat. 3040.)
 

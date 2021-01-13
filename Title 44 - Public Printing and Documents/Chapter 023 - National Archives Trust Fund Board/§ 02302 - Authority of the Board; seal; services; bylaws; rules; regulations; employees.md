@@ -16,6 +16,8 @@ In carrying out the purposes of this chapter, the Board—
 
 Based on 44 U.S. Code, 1964 ed., §300hh (July 9, 1941. ch. 284, §8, 55 Stat. 582).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The laws governing appointments in the civil service, referred to in par. (4), are set out in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
@@ -29,6 +31,8 @@ The laws governing appointments in the civil service, referred to in par. (4), a
 &emsp;"(2) appoint, or authorize the Chairman to appoint, without regard to the civil-service laws, necessary employees, and fix their duties; and
 
 &emsp;"(3) adopt bylaws, rules, and regulations necessary for the administration of its functions under this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

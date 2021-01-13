@@ -26,6 +26,8 @@ The Secretary of the Treasury shall report to Congress every 6 months on amounts
 
 (Pub. L. 110–343, div. A, title I, §106, Oct. 3, 2008, 122 Stat. 3773; Pub. L. 111–203, title XIII, §1303, July 21, 2010, 124 Stat. 2133.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
@@ -34,7 +36,9 @@ This chapter, referred to in text, was in the original "this Act" and was transl
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–203 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 

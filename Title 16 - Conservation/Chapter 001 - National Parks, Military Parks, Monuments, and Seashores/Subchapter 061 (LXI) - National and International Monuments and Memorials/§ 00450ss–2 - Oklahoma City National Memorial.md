@@ -16,7 +16,7 @@ Administration of Memorial.—The Foundation shall administer the Memorial in ac
 
 Subsec. (b). Pub. L. 108–199, §544(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 108–199, §544(c)(2), (4), redesignated subsec. (b) as (c), substituted "1997. The map shall be on file and available for public inspection in the appropriate office of the Foundation." for "1997 (hereafter referred to in sections 450ss to 450ss–7 of this title as the 'map'):", and struck out pars. (1) and (2) which read as follows:
+Subsec. (c). Pub. L. 108–199, §544(c)(2), (4), redesignated subsec. (b) as (c), substituted "1997. The mapshall be on file and available for public inspection in the appropriate office of the Foundation." for "1997 (hereafter referred to in sections 450ss to 450ss–7 of this title as the 'map'):", and struck out pars. (1) and (2) which read as follows:
 
 "(1) Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service and the Trust.
 

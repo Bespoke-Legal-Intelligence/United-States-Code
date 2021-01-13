@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (13) Rules of the Board
 
-&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to, and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to,and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (14) Security
 
@@ -142,11 +142,15 @@ Par. (17). Pub. L. 111–203, §981(a), added par. (17).
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–222, §1, Dec. 18, 2020, 134 Stat. 1063, provided that: "This Act \[enacting section 7214a of this title and amending section 7214 of this title\] may be cited as the 'Holding Foreign Companies Accountable Act'."
+
 #### Short Title
 
 Pub. L. 107–204, §1(a), July 30, 2002, 116 Stat. 745, provided that: "This Act \[see Tables for classification\] may be cited as the 'Sarbanes-Oxley Act of 2002'."
 
 #### GAO Study and Report Regarding Consolidation of Public Accounting Firms
 
-Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultationwith the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 

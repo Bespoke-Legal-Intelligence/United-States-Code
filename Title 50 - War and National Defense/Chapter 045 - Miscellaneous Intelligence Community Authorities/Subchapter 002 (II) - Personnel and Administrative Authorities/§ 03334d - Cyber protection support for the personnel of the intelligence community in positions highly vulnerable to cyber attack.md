@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Personal technology devices
 
-&emsp;The term "personal technology devices" means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
+&emsp;The term "personal technology devices" means technology devices used by personnel ofthe intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
 
 #### (b) Authority to provide cyber protection support
 

@@ -14,6 +14,8 @@ Suspension.—An individual recognized under this section shall be subject to th
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, §3403; renumbered §5903, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 109–461, title I, §101(a)(3), Dec. 22, 2006, 120 Stat. 3407.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–461 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

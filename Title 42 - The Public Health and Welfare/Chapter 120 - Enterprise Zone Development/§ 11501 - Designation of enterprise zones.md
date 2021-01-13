@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the local government (determined in the same manner as under section 5318 of this title).
 
-&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
+&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and1980 (as determined from the most recent census available).
 
 #### (4) Eligibility requirements for rural areas
 
@@ -172,7 +172,7 @@
 
 #### (3) Recognition of past efforts
 
-&emsp;In evaluating courses of action agreed to by any State or local government, the Secretaryshall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
+&emsp;In evaluating courses of action agreed to by any State or local government, the Secretary shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
 
 #### (4) Prohibition of assistance for business relocations
 
@@ -238,5 +238,5 @@ Subsec. (a)(3)(A). Pub. L. 100–628, §1090(a), amended first sentence generall
 
 #### Regulations
 
-Pub. L. 100–628, title X, §1090(c), Nov. 7, 1988, 102 Stat. 3283, provided that: "Not later than 30 days after the date of the enactment of this Act \[Nov. 7, 1988\], the Secretary of Housing and Urban Development shall revise the regulations issued by the Secretary to carry out title VII of the Housing and Community Development Act of 1987 (42 U.S.C. 11501 et seq.) by issuing a final regulation, effective upon the date of publication, that carries out the amendments made by this section \[amending this section\]."
+Pub. L. 100–628, title X, §1090(c), Nov. 7, 1988, 102 Stat. 3283, provided that not later than 30 days after Nov. 7, 1988, the Secretary of Housing and Urban Development was to revise the regulations issued by the Secretary to carry out title VII of Pub. L. 100–242 (42 U.S.C. 11501 et seq.) by issuing a final regulation that carried out the amendments made to this section by section 1090 of Pub. L. 100–628.
 

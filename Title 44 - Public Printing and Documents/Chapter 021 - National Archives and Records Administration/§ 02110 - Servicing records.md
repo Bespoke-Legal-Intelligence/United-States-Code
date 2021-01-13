@@ -8,6 +8,8 @@ The Archivist shall provide and maintain facilities he considers necessary or de
 
 Based on 44 U.S. Code, 1964 ed., §397(d) (June 30, 1949, ch. 288, title V, §507, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2110 was renumbered section 2114 of this title.
@@ -15,6 +17,8 @@ A prior section 2110 was renumbered section 2114 of this title.
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–497, §107(a)(4), substituted "Archivist" for "Administrator of General Services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -8,3 +8,4 @@
 - [Chapter 601 - Land Remote Sensing Policy](Chapter%20601%20-%20Land%20Remote%20Sensing%20Policy/README.md)
 - [Chapter 603 - Remote Sensing](Chapter%20603%20-%20Remote%20Sensing/README.md)
 - [Chapter 605 - Earth Science](Chapter%20605%20-%20Earth%20Science/README.md)
+- [Chapter 606 - Space Weather](Chapter%20606%20-%20Space%20Weather/README.md)

@@ -36,7 +36,7 @@ Definitions.—In this section—
 
 &emsp;(5) the term "suffocating" means intentionally, knowingly, or recklessly impeding the normal breathing of a person by covering the mouth of the person, the nose of the person, or both, regardless of whether that conduct results in any visible injury or whether there is any intent to kill or protractedly injure the victim.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663;Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 113–4, title IX, §906(a), Mar. 7, 2013, 127 Stat. 124.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 94–297, §3, May 29, 1976, 90 Stat. 585; Pub. L. 99–646, §87(c)(2), (3), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(2), (3), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 103–322, title XVII, §170201(a)–(d), title XXXII, §320101(c), title XXXIII, §330016(2)(B), Sept. 13, 1994, 108 Stat. 2042, 2043, 2108, 2148; Pub. L. 104–294, title VI, §604(b)(7), (12)(B), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 113–4, title IX, §906(a), Mar. 7, 2013, 127 Stat. 124.)
 
 #### Historical and Revision Notes
 
@@ -45,6 +45,8 @@ Based on title 18, U.S.C., 1940 ed., §455 (Mar. 4, 1909, ch. 321, §276, 35 Sta
 Opening paragraph was added to preserve the jurisdictional limitation provided for by section 451 of title 18, U.S.C., 1940 ed., now section 7 of this title. (See reviser's note thereunder.)
 
 Phraseology was simplified.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -77,6 +79,8 @@ Pub. L. 103–322, §170201(a)–(d), as amended by Pub. L. 104–294, §604(b)(
 Subsec. (b). Pub. L. 99–646, §87(c)(3), and Pub. L. 99–654, §3(a)(3), amended subsec. (b) identically, substituting "a felony under chapter 109A" for "rape".
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–297 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

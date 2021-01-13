@@ -24,7 +24,7 @@ In order to recruit or retain qualified personnel, the Chief of the Capitol Poli
 
 #### (c) Limit on amount of payments
 
-The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $60,000.
+The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $80,000.
 
 #### (d) No review of determinations
 
@@ -34,7 +34,9 @@ Any determination made under the program under this section shall not be reviewa
 
 This section shall apply with respect to fiscal year 2003 and each succeeding fiscal year.
 
-(Pub. L. 107–117, div. B, §908, Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, §1007, Feb. 20, 2003, 117 Stat. 358; Pub. L. 116–94, div. E, title I, §120, Dec. 20, 2019, 133 Stat. 2763.)
+(Pub. L. 107–117, div. B, §908, Jan. 10, 2002, 115 Stat. 2319; Pub. L. 108–7, div. H, title I, §1007, Feb. 20, 2003, 117 Stat. 358; Pub. L. 116–94, div. E, title I, §120, Dec. 20, 2019, 133 Stat. 2763; Pub. L. 116–260, div. I, title I, §120, Dec. 27, 2020, 134 Stat. 1643.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -42,9 +44,13 @@ Section was classified to section 207b–1 of former Title 40, prior to the enac
 
 #### Amendments
 
+<b>2020</b>—Subsec. (c). Pub. L. 116–260 substituted "$80,000" for "$60,000".
+
 <b>2019</b>—Subsec. (c). Pub. L. 116–94 substituted "$60,000" for "$40,000".
 
 <b>2003</b>—Pub. L. 108–7 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to student loan repayment program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Regulations
 

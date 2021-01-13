@@ -10,7 +10,7 @@ Specific Conditions Applicable to Area I and Area II.—
 
 &emsp;(1)
 
-Area i.—After seeking the advice of the National Capital Memorial Advisory Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate ofthe recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
+Area i.—After seeking the advice of the National Capital Memorial Advisory Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate of the recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
 
 &emsp;(2)
 
@@ -46,6 +46,8 @@ Pub. L. 99–652, §6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, §2(c),
 
 In subsection (b)(1), the words "the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate" are substituted for "the committees of Congress specified in section 1003(b) \[sic\] of this title" for clarity. The reference to section 1003(b) should be to section 1003(d).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Commemorative Works Clarification and Revision Act of 2003, referred to in subsec. (c), is the date of enactment of Pub. L. 108–126, which was approved Nov. 17, 2003.
@@ -59,6 +61,8 @@ The date of enactment of the Commemorative Works Clarification and Revision Act 
 Pub. L. 108–126, §203(g)(1), substituted "Secretary of the Interior or the Administrator of General Services (as appropriate)" for "Secretary of the Interior and Administrator of General Services".
 
 Subsec. (c). Pub. L. 108–126, §202(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

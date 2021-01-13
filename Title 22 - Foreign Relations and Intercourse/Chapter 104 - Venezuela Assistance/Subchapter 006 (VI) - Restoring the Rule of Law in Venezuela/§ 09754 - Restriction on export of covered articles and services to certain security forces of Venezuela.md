@@ -72,7 +72,7 @@ In this section:
 
 #### (2) Determination
 
-&emsp;Not later than 180 days after December 20, 2019, the Secretary of State, in consultationwith the Secretary of Commerce and the heads of other departments and agencies, as appropriate, shall—
+&emsp;Not later than 180 days after December 20, 2019, the Secretary of State, in consultation with the Secretary of Commerce and the heads of other departments and agencies, as appropriate, shall—
 
 &emsp;&emsp;(A) determine, using such information that is available to the Secretary of State, whether any covered article or service has been transferred since July 2017 to the security forces of Venezuela without a license or other authorization as required by law; and
 
@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(A) a list of all significant transfers by foreign persons of covered articles or services to such elements of the security forces of Venezuela since July 2017;
 
-&emsp;&emsp;(B) a list of all foreign persons who maintain an existing defense relationship with such elements of the security forces of Venezuela; and
+&emsp;&emsp;(B) a list of all foreign persons who maintain an existing defense relationship withsuch elements of the security forces of Venezuela; and
 
 &emsp;&emsp;(C) any known use of covered articles or services by such elements of the security forces of Venezuela or associated forces, including paramilitary groups, that have coordinated with such security forces to assault, intimidate, or murder political activists, protesters, dissidents, and other civil society leaders, including Juan Guaido�AE1.
 

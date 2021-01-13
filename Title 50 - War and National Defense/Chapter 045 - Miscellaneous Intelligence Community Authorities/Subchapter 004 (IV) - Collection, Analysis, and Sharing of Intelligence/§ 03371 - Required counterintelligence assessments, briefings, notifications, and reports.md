@@ -78,7 +78,7 @@
 
 #### (5) Effective date
 
-&emsp;This subsection shall apply with respect to the Federal election cycle that began duringNovember 2018, and each succeeding Federal election cycle.
+&emsp;This subsection shall apply with respect to the Federal election cycle that began during November 2018, and each succeeding Federal election cycle.
 
 (Pub. L. 116–92, div. E, title LIII, §5304, Dec. 20, 2019, 133 Stat. 2119.)
 

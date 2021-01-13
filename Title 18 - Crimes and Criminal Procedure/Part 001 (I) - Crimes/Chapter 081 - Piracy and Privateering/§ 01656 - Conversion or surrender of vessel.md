@@ -14,6 +14,8 @@ Based on title 18, U.S.C., 1940 ed., §497 (Mar. 4, 1909, ch. 321, §306, 35 Sta
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in last par.

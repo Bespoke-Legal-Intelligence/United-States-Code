@@ -1,8 +1,10 @@
 ### §2143. Credit delivery office
 
-On a determination by the board of directors of the consolidated bank that the bank's loan portfolio is concentrated in any one district or districts (according to the district boundaries in effect immediately prior to the effective date of the establishment of the bank under section 413 of the Agricultural Credit Act of 1987), the bankmay consider the creation of regional service centers to accommodate such loan concentrations.
+On a determination by the board of directors of the consolidated bank that the bank's loan portfolio is concentrated in any one district or districts (according to the district boundaries in effect immediately prior to the effective date of the establishment of the bank under section 413 of the Agricultural Credit Act of 1987), the bank may consider the creation of regional service centers to accommodate such loan concentrations.
 
 (Pub. L. 92–181, title III, §3.22, as added Pub. L. 100–233, title IV, §415(2), Jan. 6, 1988, 101 Stat. 1643; amended Pub. L. 100–399, title IV, §407(e), Aug. 17, 1988, 102 Stat. 1000.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ Section 413 of the Agricultural Credit Act of 1987, referred to in text, is sect
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–399 substituted "consolidated bank" for "United Bank for Cooperatives or the National Bank for Cooperatives" and "establishment of the bank under section 413 of the Agricultural Credit Act of 1987" for "merger".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

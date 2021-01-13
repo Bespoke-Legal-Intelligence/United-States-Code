@@ -66,5 +66,5 @@ Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–809, title I, §108(i), Nov. 13, 1966, 80 Stat. 1574, provided that: "The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\]."
+Pub. L. 89–809, title I, §108(i), Nov. 13, 1966, 80 Stat. 1574, provided that: "The amendments made by thissection \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\]."
 

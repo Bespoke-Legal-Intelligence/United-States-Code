@@ -38,7 +38,7 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 #### (c) Marking of certain pipe and fittings
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable ironeach of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
@@ -74,55 +74,19 @@ If at the time of importation any article (or its container, as provided in subs
 
 No imported article held in customs custody for inspection, examination, or appraisement shall be delivered until such article and every other article of the importation (or their containers), whether or not released from customs custody, shall have been marked in accordance with the requirements of this section or until the amount of duty estimated to be payable under subsection (i) of this section has been deposited. Nothing in this section shall be construed as excepting any article (or its container) from the particular requirements of marking provided for in any other provision of law.
 
-#### (k) Treatment of goods of NAFTA country
+#### (k) Treatment of goods of a USMCA country
 
-#### (1) Application of section
+In applying this section to an article that qualifies as a good of a USMCA country (as defined in section 4502 of this title)—
 
-&emsp;In applying this section to an article that qualifies as a good of a NAFTA country (as defined in section 3301(4) of this title) under the regulations issued by the Secretary to implement Annex 311 of the North American Free Trade Agreement—
+&emsp;(1) the exemption under subsection (a)(3)(H) shall be applied by substituting "reasonably know" for "necessarily know";
 
-&emsp;&emsp;(A) the exemption under subsection (a)(3)(H) shall be applied by substituting "reasonably know" for "necessarily know";
+&emsp;(2) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
 
-&emsp;&emsp;(B) the Secretary shall exempt the good from the requirements for marking under subsection (a) if the good—
+&emsp;&emsp;(A) is an original work of art; or
 
-&emsp;&emsp;&emsp;(i) is an original work of art, or
+&emsp;&emsp;(B) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
 
-&emsp;&emsp;&emsp;(ii) is provided for under subheading 6904.10, heading 8541, or heading 8542 of the Harmonized Tariff Schedule of the United States; and
-
-&emsp;&emsp;(C) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or subparagraph (B)(i) or (ii) of this paragraph.
-
-#### (2) Petition rights of NAFTA exporters and producers regarding marking determinations
-
-#### (A) Definitions
-
-&emsp;&emsp;For purposes of this paragraph:
-
-&emsp;&emsp;&emsp;(i) The term "adverse marking decision" means a determination by the Customs Service which an exporter or producer of merchandise believes to be contrary to Annex 311 of the North American Free Trade Agreement.
-
-&emsp;&emsp;&emsp;(ii) A person may not be treated as the exporter or producer of merchandise regarding which an adverse marking decision was made unless such person—
-
-&emsp;&emsp;&emsp;&emsp;(I) if claiming to be the exporter, is located in a NAFTA country and is required to maintain records in that country regarding exportations to NAFTA countries; or
-
-&emsp;&emsp;&emsp;&emsp;(II) if claiming to be the producer, grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles such merchandise in a NAFTA country.
-
-#### (B) Intervention or petition regarding adverse marking decisions
-
-&emsp;&emsp;If the Customs Service makes an adverse marking decision regarding any merchandise, the Customs Service shall, upon written request by the exporter or producer of the merchandise, provide to the exporter or producer a statement of the basis for the decision. If the exporter or producer believes that the decision is not correct, it may intervene in any protest proceeding initiated by the importer of the merchandise. If the importer does not file a protest with regard to the decision, the exporter or producer may file a petition with the Customs Service setting forth—
-
-&emsp;&emsp;&emsp;(i) a description of the merchandise; and
-
-&emsp;&emsp;&emsp;(ii) the basis for its claim that the merchandise should be marked as a good of a NAFTA country.
-
-#### (C) Effect of determination regarding decision
-
-&emsp;&emsp;If, after receipt and consideration of a petition filed by an exporter or producer under subparagraph (B), the Customs Service determines that the adverse marking decision—
-
-&emsp;&emsp;&emsp;(i) is not correct, the Customs Service shall notify the petitioner of the determination and all merchandise entered, or withdrawn from warehouse for consumption, more than 30 days after the date that notice of the determination under this clause is published in the weekly Custom Bulletin shall be marked in conformity with the determination; or
-
-&emsp;&emsp;&emsp;(ii) is correct, the Customs Service shall notify the petitioner that the petition is denied.
-
-#### (D) Judicial review
-
-&emsp;&emsp;For purposes of judicial review, the denial of a petition under subparagraph (C)(ii) shall be treated as if it were a denial of a petition of an interested party under section 1516 of this title regarding an issue arising under any of the preceding provisions of this section.
+&emsp;(3) subsection (b) does not apply to the usual container of any good described in subsection (a)(3)(E) or (I) or paragraph (2)(A) or (B) of this subsection.
 
 #### (l) Penalties
 
@@ -132,17 +96,19 @@ Any person who, with intent to conceal the information given thereby or containe
 
 &emsp;(2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180; Pub. L. 114–125, title IX, §917(a), Feb. 24, 2016, 130 Stat. 279.)
+(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180; Pub. L. 114–125, title IX, §917(a), Feb. 24, 2016, 130 Stat. 279; Pub. L. 116–113, title II, §209(a), Jan. 29, 2020, 134 Stat. 52.)
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) to (h) and (k)(1)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) to (h) and (k)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
 Provisions dealing with the subject matter of this section and former section 133 of this title were contained in act Oct. 3, 1913, ch. 16, §IV, F, subsecs. 1 and 2, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §304(a), 42 Stat. 947, and repealed by §321 of that act. Section 304(a) of the act of 1922 was superseded by section 304 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (k). Pub. L. 116–113 added subsec. (k) and struck out former subsec. (k) which related to treatment of goods of a NAFTA country.
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–125, §917(a)(3), inserted before period at end "in a location such that it will remain visible after installation".
 
@@ -156,7 +122,7 @@ Subsec. (j). Pub. L. 106–36, §2423(a)(1), (b), redesignated subsec. (i) as (j
 
 Subsecs. (k), (l). Pub. L. 106–36, §2423(a)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
 
-<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f)as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+<b>1996</b>—Subsecs. (f) to (h). Pub. L. 104–295, §14(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
 Subsec. (i). Pub. L. 104–295, §14(a)(1), (b), redesignated subsec. (g) as (i) and substituted "subsection (h) of this section" for "subsection (f) of this section".
 
@@ -180,6 +146,28 @@ Subsecs. (h), (i). Pub. L. 103–182, §207(a)(4), (5), added subsec. (h) and re
 
 <b>1938</b>—Act June 25, 1938, amended section generally.
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–113, title II, §209(d), Jan. 29, 2020, 134 Stat. 53, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section and sections 1509 and 1628 of this title\] shall—
+
+&emsp;"(A) take effect on the date on which the USMCA enters into force \[July 1, 2020\]; and
+
+&emsp;"(B) apply with respect to a good entered for consumption, or withdrawn from warehouse for consumption, on or after that date.
+
+"(2)
+
+Transition from nafta treatment.—In the case of a good entered for consumption, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—
+
+&emsp;"(A) the amendments made by this section shall not apply with respect to the good; and
+
+&emsp;"(B) the provisions of law amended by this section, as such provisions were in effect on the day before that date, shall continue to apply on and after that date with respect to the good."
+
+\[For definition of "USMCA" as used in section 209(d) of Pub. L. 116–113, set out above, see section 4502 of this title.\]
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–125, title IX, §917(b), Feb. 24, 2016, 130 Stat. 279, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on the date of the enactment of this Act \[Feb. 24, 2016\] and apply with respect to the importation of castings described in such amendments on or after the date that is 180 days after such date of enactment."
@@ -194,7 +182,7 @@ Pub. L. 104–295, §14(c), Oct. 11, 1996, 110 Stat. 3522, provided that: "The a
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -234,13 +222,13 @@ Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 "(B) The amendment made by section 210(b) \[amending section 1520 of this title\] shall apply with respect to determinations made or ordered on or after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections 1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
+"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
 
 &emsp;"(A) Section 641(c)(1)(B) and section 641(c)(2) of the Tariff Act of 1930, as added by such section \[19 U.S.C. 1641(c)(1)(B), (2)\], shall take effect three years after the date of the enactment of this Act \[Oct. 30, 1984\].
 
 &emsp;"(B) The amendments made to the Tariff Act of 1930 by subsection (c) of section 212 \[no subsec. (c) of section 212 was enacted\] shall take effect on such date of enactment \[Oct. 30, 1984\].
 
-"(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the TariffAct of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customs business as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
+"(2) A license in effect on the date of enactment of this Act \[Oct. 30, 1984\] under section 641 of the Tariff Act of 1930 (as in effect before such date of enactment) shall continue in force as a license to transact customs business as a customs broker, subject to all the provisions of section 212 and such licenses shall be accepted as permits for the district or districts covered by that license.
 
 "(3) Any proceeding for revocation or suspension of a license instituted under section 641 of the Tariff Act of 1930 before the date of the enactment of this Act \[Oct. 30, 1984\] shall continue and be governed by the law in effect at the time the proceeding was instituted.
 
@@ -270,7 +258,7 @@ Functions of all other officers of Department of the Treasury and functions of a
 
 #### Marking Requirements for Articles Qualifying as Goods of NAFTA Country
 
-Pub. L. 103–182, title II, §207(b), Dec. 8, 1993, 107 Stat. 2097, provided that: "Articles that qualify as goods of a NAFTA country under regulations issued by the Secretary in accordance with Annex 311 of the Agreement \[North American Free Trade Agreement\] are exempt from the marking requirements promulgated by the Secretary of the Treasury under section 1907(c) of the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418 \[102 Stat. 1315\]), but are subject to the requirements of section 304 of the Tariff Act of 1930 (19 U.S.C. 1304)."
+Pub. L. 103–182, title II, §207(b), Dec. 8, 1993, 107 Stat. 2097, which provided that articles qualifying as goods of a NAFTA country were subject to the requirements of this section, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Plan Amendments Not Required Until January 1, 1989
 

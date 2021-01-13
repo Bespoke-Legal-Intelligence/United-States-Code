@@ -4,9 +4,13 @@ All persons who are in whole or in part of Indian blood or descent who are entit
 
 (Aug. 15, 1894, ch. 290, §1, 28 Stat. 305; Feb. 6, 1901, ch. 217, §1, 31 Stat. 760; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal of Section as to Osage Indians
 

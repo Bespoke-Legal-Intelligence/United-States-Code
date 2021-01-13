@@ -141,6 +141,7 @@
 | [1660f.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660f%20-%20Community%20Health%20Representatives.md) | Community Health Representatives. |
 | [1660g.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660g%20-%20Use%20of%20Federal%20Government%20facilities%20and%20sources%20of%20supply.md) | Use of Federal Government facilities and sources of supply. |
 | [1660h.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660h%20-%20Health%20information%20technology.md) | Health information technology. |
+| [1660i.](Subchapter%20004%20%28IV%29%20-%20Health%20Services%20for%20Urban%20Indians/%C2%A7%2001660i%20-%20Deeming%20an%20Urban%20Indian%20organization%20and%20employees%20thereof%20to%20be%20a%20part%20of%20the%20public%20health%20service%20for%20the%20purposes%20of%20certain%20claims%E2%80%A6.md) | Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

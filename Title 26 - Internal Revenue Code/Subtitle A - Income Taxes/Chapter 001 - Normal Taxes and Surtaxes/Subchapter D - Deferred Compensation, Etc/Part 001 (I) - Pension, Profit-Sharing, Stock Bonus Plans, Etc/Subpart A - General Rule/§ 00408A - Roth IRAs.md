@@ -224,7 +224,7 @@ For purposes of this title—
 
 #### (ii) No deduction
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to theextent no deduction was allowed with respect to the contribution to the transferor plan.
+&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
 
 #### (iii) Conversions
 
@@ -304,7 +304,7 @@ Subsec. (d)(6)(B)(iii). Pub. L. 115–97, §13611(a), added cl. (iii).
 
 Subsec. (c)(3)(C), (E). Pub. L. 110–458, §108(h)(1), redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
 
-Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out "(other than a Roth IRA)" after "section 402(c)(8)(B))" and inserted at end "This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which isa rollover contribution described in section 402A(c)(3)(A)".
+Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out "(other than a Roth IRA)" after "section 402(c)(8)(B))" and inserted at end "This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)".
 
 Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect after amendment by section 824(a) of Pub. L. 109–280, by amending text generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution—
 
@@ -318,7 +318,7 @@ Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect afte
 
 > For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA."
 
-Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L. 109–280, by reenacting heading without change and amending text to read as follows: "For purposes of this section—
+Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L.109–280, by reenacting heading without change and amending text to read as follows: "For purposes of this section—
 
 &emsp;"(1)
 
@@ -388,7 +388,7 @@ In general.—The amount required to be included in gross income for each of the
 
 Limitation on aggregate amount included.—The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years."
 
-Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individualretirement plan (other than a Roth IRA) to a Roth IRA." See 2008 Amendment note above.
+Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA." See 2008 Amendment note above.
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–16 inserted "Such term includes a rollover contribution described in section 402A(c)(3)(A)." after first sentence.
 

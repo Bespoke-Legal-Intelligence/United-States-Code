@@ -14,13 +14,15 @@ In order to carry out the purpose of this section, the Director of the United St
 
 #### (d) Authorities
 
-The Director of the United States Information Agency, in carrying out this section, may utilize the authorities of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\]. Section 2056(b) of this title shall apply in the administration of this section. In order to carry out the purposes of this section, the Dante B. Fascell North-South Center is authorized to use funds made available under this section to acquire property and facilities, by construction, lease, or purchase.
+The Director of the United States Information Agency, in carrying out this section, may utilizethe authorities of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\]. Section 2056(b) of this title shall apply in the administration of this section. In order to carry out the purposes of this section, the Dante B. Fascell North-South Center is authorized to use funds made available under this section to acquire property and facilities, by construction, lease, or purchase.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated $5,000,000 for fiscal year 1992 and $10,000,000 for each subsequent fiscal year to carry out this section. Amounts appropriated under this section are authorized to be available until expended.
 
 (Pub. L. 102–138, title II, §208, Oct. 28, 1991, 105 Stat. 694; Pub. L. 106–29, §1, May 21, 1999, 113 Stat. 54.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (c). Pub. L. 106–29, §1(2)(A), amended subsec. heading generally. Pri
 Pub. L. 106–29, §1(2)(B), substituted "which shall be known and designated as the Dante B. Fascell North-South Center," for "known as the North/South Center,".
 
 Subsec. (d). Pub. L. 106–29, §1(3), substituted "Dante B. Fascell North-South Center" for "North/South Center".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

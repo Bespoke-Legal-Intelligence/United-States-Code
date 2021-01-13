@@ -136,9 +136,11 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;An application submitted under this subsection—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall include publicly-available information regarding the Secretary's previous determination that the reference product is safe, pure, and potent; and
+&emsp;&emsp;&emsp;&emsp;(I) shall include publicly-available information regarding the Secretary's previous determination that the reference product is safe, pure, and potent;
 
-&emsp;&emsp;&emsp;&emsp;(II) may include any additional information in support of the application, including publicly-available information with respect to the reference product or another biological product.
+&emsp;&emsp;&emsp;&emsp;(II) may include any additional information in support of the application, including publicly-available information with respect to the reference product or another biological product; and
+
+&emsp;&emsp;&emsp;&emsp;(III) may include information to show that the conditions of use prescribed, recommended, or suggested in the labeling proposed for the biological product have been previously approved for the reference product.
 
 #### (B) Interchangeability
 
@@ -268,7 +270,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (i) Guidance
 
-&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance, with respect to a product or product class\(not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
+&emsp;&emsp;&emsp;The Secretary may indicate in a guidance document that the science and experience, as of the date of such guidance, with respect to a product or product class (not including any recombinant protein) does not allow approval of an application for a license as provided under this subsection for such product or product class.
 
 #### (ii) Modification or reversal
 
@@ -277,6 +279,40 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 #### (iii) No effect on ability to deny license
 
 &emsp;&emsp;&emsp;Clause (i) shall not be construed to require the Secretary to approve a product with respect to which the Secretary has not indicated in a guidance document that the science and experience, as described in clause (i), does not allow approval of such an application.
+
+#### (9) Public listing
+
+#### (A) In general
+
+#### (i) Initial publication
+
+&emsp;&emsp;&emsp;Not later than 180 days after December 27, 2020, the Secretary shall publish and make available to the public in a searchable, electronic format—
+
+&emsp;&emsp;&emsp;&emsp;(I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) or this subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
+
+&emsp;&emsp;&emsp;&emsp;(II) the date of licensure of the marketing application and the application number; and
+
+&emsp;&emsp;&emsp;&emsp;(III) with respect to each biological product described in subclause (I), the licensure status, and, as available, the marketing status.
+
+#### (ii) Revisions
+
+&emsp;&emsp;&emsp;Every 30 days after the publication of the first list under clause (i), the Secretary shall revise the list to include each biological product which has been licensed under subsection (a) or this subsection during the 30-day period or deemed licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009.
+
+#### (iii) Patent information
+
+&emsp;&emsp;&emsp;Not later than 30 days after a list of patents under subsection (l)(3)(A), or a supplement to such list under subsection (l)(7), has been provided by the reference product sponsor to the subsection (k) applicant respecting a biological product included on the list published under this subparagraph, the reference product sponsor shall provide such list of patents (or supplement thereto) and their corresponding expiry dates to the Secretary, and the Secretary shall, in revisions made under clause (ii), include such information for such biological product. Within 30 days of providing any subsequent or supplemental list of patents to any subsequent subsection (k) applicant under subsection (l)(3)(A) or (l)(7), the reference product sponsor shall update the information provided to the Secretary under this clause with any additional patents from such subsequent or supplemental list and their corresponding expiry dates.
+
+#### (iv) Listing of exclusivities
+
+&emsp;&emsp;&emsp;For each biological product included on the list published under this subparagraph, the Secretary shall specify each exclusivity period under paragraph (6) or paragraph (7) for which the Secretary has determined such biological product to be eligible and that has not concluded.
+
+#### (B) Revocation or suspension of license
+
+&emsp;&emsp;If the license of a biological product is determined by the Secretary to have been revoked or suspended for safety, purity, or potency reasons, it may not be published in the list under subparagraph (A). If such revocation or suspension occurred after inclusion of such biological product in the list published under subparagraph (A), the reference product sponsor shall notify the Secretary that—
+
+&emsp;&emsp;&emsp;(i) the biological product shall be immediately removed from such list for the same period as the revocation or suspension; and
+
+&emsp;&emsp;&emsp;(ii) a notice of the removal shall be published in the Federal Register.
 
 #### (l) Patents
 
@@ -358,7 +394,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;Not later than 60 days after receipt of the list under subparagraph (A), the subsection (k) applicant—
 
-&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
+&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the referenceproduct sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
 
 &emsp;&emsp;&emsp;(ii) shall provide to the reference product sponsor, with respect to each patent listed by the reference product sponsor under subparagraph (A) or listed by the subsection (k) applicant under clause (i)—
 
@@ -504,7 +540,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (1) In general
 
-&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biologicalproduct is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
+&emsp;In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[21 U.S.C. 801 et seq.\], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act \[21 U.S.C. 811(j)\].
 
 #### (2) Date of approval
 
@@ -514,7 +550,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the biological product.
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046; Pub. L. 116–94, div. N, title I, §§605, 606, Dec. 20, 2019, 133 Stat. 3127.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046; Pub. L. 116–94, div. N, title I, §§605, 606, Dec. 20, 2019, 133 Stat. 3127; Pub. L. 116–260, div. BB, title III, §§322, 325(a), Dec. 27, 2020, 134 Stat. 2933, 2936.)
 
 #### References in Text
 
@@ -522,13 +558,17 @@ The effective date of this paragraph, referred to in subsec. (d)(2), is the effe
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), is section 7002(e)(4) of Pub. L. 111–148, which is set out as a note under this section.
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out as a note under this section.
 
 Sections 526, 527(a), and 505A(d)(4), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(4), respectively, of Title 21, Food and Drugs.
 
 The Controlled Substances Act, referred to in subsec. (n)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (k)(2)(A)(iii)(III). Pub. L. 116–260, §322, added subcl. (III).
+
+Subsec. (k)(9). Pub. L. 116–260, §325(a), added par. (9).
 
 <b>2019</b>—Subsec. (i)(1). Pub. L. 116–94, §605, struck out "(except any chemically synthesized polypeptide)" after "protein".
 
@@ -656,7 +696,7 @@ Effect on listed drugs.—Only for purposes of carrying out clause (i), with res
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(bb) this subparagraph no longer has force or effect.
 
-&emsp;&emsp;&emsp;"(II) Any drug that is a biological product that has been deemed licensed under section 351 of thePublic Health Service Act (42 U.S.C. 262) pursuant to subparagraph (A) and that is referenced in an application described in clause (i) shall be subject only to requirements applicable to biological products licensed under such section.
+&emsp;&emsp;&emsp;"(II) Any drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act (42 U.S.C. 262) pursuant to subparagraph (A) and that is referenced in an application described in clause (i) shall be subject only to requirements applicable to biological products licensed under such section.
 
 &emsp;&emsp;&emsp;"(III) Upon approval under subsection (c) or (j) of section 505 of the Federal Food, Drug, and Cosmetic Act of an application described in clause (i), the Secretary shall remove from the list published pursuant to section 505(j)(7) of the Federal Food, Drug, and Cosmetic Act any listed drug that is a biological product that has been deemed licensed under section 351 of the Public Health Service Act pursuant to subparagraph (A) and that is referenced in such approved application, unless such listed drug is referenced in one or more additional applications described in clause (i).
 
@@ -698,7 +738,7 @@ Sunset.—Beginning on October 1, 2022, this subparagraph shall have no force or
 
 "(5)
 
-Definitions.—For purposes of this subsection, the term 'biological product' has the meaning given such term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act)."
+Definitions.—For purposes of this subsection, the term 'biological product' has the meaning givensuch term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act)."
 
 #### Costs of Reviewing Biosimilar Biological Product Applications
 
@@ -744,7 +784,7 @@ Pub. L. 111–148, title VII, §7003, Mar. 23, 2010, 124 Stat. 821, provided tha
 
 "(a)
 
-Determination.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall for each fiscal year determine the amount of savings to the Federal Government as aresult of the enactment of this subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under section 201 of this title\].
+Determination.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall for each fiscal year determine the amount of savings to the Federal Government as a result of the enactment of this subtitle \[subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, see Short Title of 2010 Amendment note under section 201 of this title\].
 
 "(b)
 

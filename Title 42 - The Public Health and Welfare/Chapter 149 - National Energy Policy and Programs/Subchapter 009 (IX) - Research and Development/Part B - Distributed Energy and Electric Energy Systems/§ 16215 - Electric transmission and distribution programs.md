@@ -26,9 +26,13 @@ The Secretary shall establish a comprehensive research, development, and demonst
 
 &emsp;(9) the development and use of advanced grid design, operation, and planning tools;
 
-&emsp;(10) any other infrastructure technologies, as appropriate; and
+&emsp;(10) the development of cost-effective technologies that enable two-way information and power flow between distributed energy resources and the electric grid;
 
-&emsp;(11) technology transfer and education.
+&emsp;(11) the development of technologies and concepts that enable interoperability between distributed energy resources and other behind-the-meter devices and the electric grid;
+
+&emsp;(12) any other infrastructure technologies, as appropriate; and
+
+&emsp;(13) technology transfer and education.
 
 #### (b) Program plan
 
@@ -126,5 +130,45 @@ Not later than 2 years after the submission of the plan under subsection (b), th
 
 As part of the program described in subsection (a), the Secretary shall award a grant to a university research program to design and test, in consultation with the Tennessee Valley Authority, state-of-the-art optimization techniques for power flow through existing high voltage transmission lines.
 
-(Pub. L. 109–58, title IX, §925, Aug. 8, 2005, 119 Stat. 865.)
+(Pub. L. 109–58, title IX, §925, Aug. 8, 2005, 119 Stat. 865; Pub. L. 116–260, div. Z, title VIII, §8004(a), Dec. 27, 2020, 134 Stat. 2583.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (a)(10) to (13). Pub. L. 116–260 added pars. (10) and (11) and redesignated former pars. (10) and (11) as (12) and (13), respectively.
+
+#### Coordination of Efforts
+
+Pub. L. 116–260, div. Z, title VIII, §8006, Dec. 27, 2020, 134 Stat. 2586, provided that: "In carrying out the amendments made by this title \[enacting sections 16236, 17014, 17384a, 17387, and 17388 of this title and amending this section, section 17384 of this title and sections 3501 and 3502 of Title 25, Indians\], the Secretary \[probably means Secretary of Energy\] shall coordinate with relevant entities to the maximum extent practicable, including—
+
+&emsp;"(1) electric utilities;
+
+&emsp;"(2) private sector entities;
+
+&emsp;"(3) representatives of all sectors of the electric power industry;
+
+&emsp;"(4) transmission organizations;
+
+&emsp;"(5) transmission owners and operators;
+
+&emsp;"(6) distribution organizations;
+
+&emsp;"(7) distribution asset owners and operators;
+
+&emsp;"(8) State, Tribal, local, and territorial governments and regulatory authorities;
+
+&emsp;"(9) academic institutions;
+
+&emsp;"(10) the National Laboratories;
+
+&emsp;"(11) other Federal agencies;
+
+&emsp;"(12) nonprofit organizations;
+
+&emsp;"(13) the Federal Energy Regulatory Commission;
+
+&emsp;"(14) the North American Reliability Corporation;
+
+&emsp;"(15) independent system operators; and
+
+&emsp;"(16) programs and program offices at the Department."
 

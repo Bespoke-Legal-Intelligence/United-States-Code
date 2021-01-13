@@ -112,6 +112,8 @@
 
 (Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5004; amended Pub. L. 99–166, title III, §§301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, §221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, §422, May 20, 1988, 102 Stat. 553; renumbered §8104 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, §3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, §704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, §201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, §416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, §812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, §705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, §905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, §602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, §801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, §503(b), June 6, 2018, 132 Stat. 1476; Pub. L. 116–61, §6(9), Sept. 30, 2019, 133 Stat. 1117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–61 added par. (3) and struck out former par. (3) which read as follows: "For purposes of this subsection, the term 'major medical facility project' means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department's estimated share of the project costs does not exceed $20,000,000."
@@ -166,7 +168,7 @@ Subsec. (d)(2)(C). Pub. L. 112–37, §7, added subpar. (C).
 
 <b>1996</b>—Subsec. (a)(3)(A). Pub. L. 104–262, §206(a), substituted "$4,000,000" for "$3,000,000".
 
-Subsec. (b). Pub. L. 104–262, §205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: "In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee,on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—".
+Subsec. (b). Pub. L. 104–262, §205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: "In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—".
 
 Subsec. (b)(1) to (3). Pub. L. 104–262, §205(a)(2)–(4), substituted "A detailed" for "a detailed" and "title." for "title;" in par. (1), "An estimate" for "an estimate" and "applicable)." for "applicable); and" in par. (2), and "An estimate" for "an estimate" in par. (3).
 
@@ -198,7 +200,7 @@ Subsec. (c). Pub. L. 102–83 substituted "Secretary" for "Administrator" and "S
 
 Subsecs. (d), (e). Pub. L. 102–83 substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
 
 &emsp;"(A) if the project for which the appropriation is proposed to be made is not approved in those resolutions; or
 
@@ -231,6 +233,8 @@ Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and 
 &emsp;"(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof."
 
 Subsec. (b)(1). Pub. L. 99–166, §303, inserted "and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase" after "such facility".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

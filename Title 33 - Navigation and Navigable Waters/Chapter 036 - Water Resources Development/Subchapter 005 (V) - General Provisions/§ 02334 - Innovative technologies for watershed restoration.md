@@ -4,9 +4,13 @@ The Secretary shall examine using, and, if appropriate, encourage the use of, in
 
 (Pub. L. 106–53, title V, §516, Aug. 17, 1999, 113 Stat. 344.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

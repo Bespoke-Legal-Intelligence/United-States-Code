@@ -14,11 +14,15 @@ A response action described in subsection (a) shall be reimbursed from amounts m
 
 (Pub. L. 113–121, title I, §1027, June 10, 2014, 128 Stat. 1230; Pub. L. 114–322, title I, §1154, Dec. 16, 2016, 130 Stat. 1663.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–322, §1154(1), inserted ", at full Federal expense," after "The Secretary may" in introductory provisions.
 
 Subsec. (b). Pub. L. 114–322, §1154(2), substituted "reimbursed" for "funded".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

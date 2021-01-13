@@ -6,7 +6,7 @@ Beer may be removed from the brewery, without payment of tax, for export, in suc
 
 #### (b) Removals when unfit for beverage use
 
-When beer has become sour or damaged, so as to be incapable of use as such, a brewer may remove the same from his brewery without payment of tax, for manufacturing purposes, under such regulations as the Secretary may prescribe.
+When beer has become sour or damaged, so as to be incapable of use as such, a brewer may remove the same from his brewery without payment of tax, for manufacturing purposes, undersuch regulations as the Secretary may prescribe.
 
 #### (c) Removals for laboratory analysis
 
@@ -40,7 +40,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 &emsp;&emsp;(B) beer entered into any customs bonded warehouse under subparagraph (A) may be withdrawn for consumption in the United States by, and for the official and family use of, such foreign governments, organizations, and individuals as are entitled to withdraw imported beer from such warehouses free of tax.
 
-> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered,stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
+> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
 
 #### (2) Other rules to apply
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
+Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 daysafter Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
 #### Effective Date of 1965 Amendment
 

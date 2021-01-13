@@ -44,11 +44,11 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretaryshall submit a report to Congress on the implementation of such program.
+&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretary shall submit a report to Congress on the implementation of such program.
 
 #### (5) Pilot initiatives for backlog elimination
 
-&emsp;The Director of the Bureau of Citizenship and Immigration Services is authorized to implement innovative pilot initiatives to eliminate any remaining backlog in the processing of immigration benefit applications, and to prevent any backlog in the processing of such applications from recurring, in accordance with section 1573(a) of title 8. Such initiatives may include measures such as increasing personnel, transferring personnel to focus on areas with the largest potential for backlog, and streamlining paperwork.
+&emsp;The Director of the Bureau of Citizenship and Immigration Services is authorized to implement innovative pilot initiatives to eliminate any remaining backlog in the processing of immigration benefit applications, and to prevent any backlog in the processing of suchapplications from recurring, in accordance with section 1573(a) of title 8. Such initiatives may include measures such as increasing personnel, transferring personnel to focus on areas with the largest potential for backlog, and streamlining paperwork.
 
 #### (b) Transfer of functions from Commissioner
 
@@ -122,6 +122,8 @@ In accordance with subchapter XII (relating to transition provisions), there are
 
 (Pub. L. 107–296, title IV, §451, Nov. 25, 2002, 116 Stat. 2195; Pub. L. 110–382, §2(a), Oct. 9, 2008, 122 Stat. 4087.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(3)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
@@ -132,13 +134,15 @@ For the effective date specified in section 455, referred to in subsecs. (a)(4) 
 
 <b>2008</b>—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g) which established an Office of the FBI Liaison in the Department of Homeland Security, defined its functions, and authorized appropriations. See Termination Date of 2008 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Bureau of Border Security, referred to in subsecs. (a)(2)(C), (3)(C), and (c)(2)(B), changed to Bureau of Immigration and Customs Enforcement by Reorganization Plan Modification for the Department of Homeland Security, eff. Mar. 1, 2003, H. Doc. No. 108–32, 108th Congress, 1st Session, set out as a note under section 542 of this title.
 
 #### Termination Date of 2008 Amendment
 
-Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: "This Act \[amending this section and section 1439of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\]."
+Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that: "This Act \[amending this section and section 1439 of Title 8, Aliens and Nationality, and enacting provisions set out as notes under this section and section 1101 of Title 8\] and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act \[Oct. 9, 2008\]."
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ In prescribing and implementing such regulations with respect to applications su
 
 The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under section 306108 of title 54 in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under section 5318 of this title.
 
-(Pub. L. 93–383, title I, §121, as added Pub. L. 96–399, title I, §110(c), Oct. 8, 1980, 94 Stat. 1620; amended Pub. L. 97–35, title III, §308(b), Aug. 13, 1981, 95 Stat. 396; Pub. L. 113–287, §5(k)(4), Dec. 19, 2014, 128 Stat. 3270.)
+(Pub. L. 93–383, title I, §121, as added Pub. L. 96–399, title I, §110(c), Oct. 8, 1980, 94 Stat. 1620; amended Pub. L. 97–35, title III, §308(b), Aug. 13,1981, 95 Stat. 396; Pub. L. 113–287, §5(k)(4), Dec. 19, 2014, 128 Stat. 3270.)
 
 #### References in Text
 

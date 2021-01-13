@@ -10,6 +10,8 @@ For purposes of subchapter II of chapter 5 of title 5—
 
 (Pub. L. 102–550, title XIII, §1319F, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 110–289, div. A, title I, §1161(a)(5), July 30, 2008, 122 Stat. 2779.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (1). Pub. L. 110–289 substituted "the Agency" for "the Office".

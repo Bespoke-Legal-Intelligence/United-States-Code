@@ -94,7 +94,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(ii) such activity is performed pursuant to auditable criteria; and
 
-&emsp;&emsp;&emsp;(iii) such activity is performed pursuant to available industry-accepted testing methods and standards, where applicable, unless otherwise agreed upon by the parties funding and performing such activity;
+&emsp;&emsp;&emsp;(iii) such activity is performed pursuant to available industry-accepted testingmethods and standards, where applicable, unless otherwise agreed upon by the parties funding and performing such activity;
 
 &emsp;&emsp;(C) not undertake any actions to monopolize or attempt to monopolize the market for such services; and
 
@@ -106,7 +106,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (6) Sunset
 
-&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment orcustomer premises equipment available in the United States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
+&emsp;The requirements of paragraphs (3) and (4) shall terminate for the particular relevant activity when the Commission determines that there are alternative sources of industry-wide standards, industry-wide generic requirements, or product certification for a particular class of telecommunications equipment or customer premises equipment available in the United States. Alternative sources shall be deemed to exist when such sources provide commercially viable alternatives that are providing such services to customers. The Commission shall act on any application for such a determination within 90 days after receipt of such application, and shall receive public comment on such application.
 
 #### (7) Administration and enforcement authority
 
@@ -169,6 +169,8 @@ The Commission may prescribe such additional rules and regulations as the Commis
 As used in this section, the term "manufacturing" has the same meaning as such term has under the AT\&T Consent Decree.
 
 (June 19, 1934, ch. 652, title II, §273, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 95.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonicbooms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
+Establishment.—The Administrator shall establish a cooperative research program with industry, including the conduct of flight demonstrations in a relevant environment, to collect data on the perceived impact of sonic booms. The data could enable the promulgation of appropriate standards for overland commercial supersonic flight operations.
 
 (b)
 
@@ -29,6 +29,8 @@ Pub. L. 110–422, title III, §304(b), (c), Oct. 15, 2008, 122 Stat. 4787.
 40704(b)
 
 42 U.S.C. 17723(c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 

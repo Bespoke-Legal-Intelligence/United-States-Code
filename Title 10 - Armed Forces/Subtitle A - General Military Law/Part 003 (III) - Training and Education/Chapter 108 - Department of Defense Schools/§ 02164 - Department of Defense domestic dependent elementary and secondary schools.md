@@ -46,7 +46,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
 
-(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
+(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require theUnited States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
 (d)
 
@@ -114,7 +114,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 Substantive and Procedural Rights and Protections for Children.—(1) The Secretary shall provide the following substantive rights, protections, and procedural safeguards (including due process procedures) in the educational programs provided for under this section:
 
-&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
+&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available tochildren with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
 &emsp;(B) In the case of infants or toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants or toddlers with disabilities under part C of such Act (20 U.S.C. 1431 et seq.).
 
@@ -258,9 +258,133 @@ Pub. L. 103–337, div. A, title III, §351(c), Oct. 5, 1994, 108 Stat. 2730, pr
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
+#### Pilot Program To Expand Eligibility for Enrollment at Domestic Dependent Elementary and Secondary Schools
+
+Pub. L. 116–283, div. A, title V, §589C, Jan. 1, 2021, 134 Stat. 3659, provided that:
+
+"(a)
+
+Pilot Program Authorized.—Beginning not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall carry out a pilot program under which a dependent of a full-time, active-duty member of the Armed Forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (c), without regard to whether the member resides on the installation as described in \[section\] 2164(a)(1) of title 10, United States Code.
+
+"(b)
+
+Purposes.—The purposes of the pilot program under this section are—
+
+&emsp;"(1) to evaluate the feasibility and advisability of expanding enrollment in covered DODEA schools; and
+
+&emsp;"(2) to determine how increased access to such schools will affect military and family readiness.
+
+"(c)
+
+Enrollment on Space-Available Basis.—A student participating in the pilot program under this section may be enrolled in a covered DODEA school only if the school has the capacity to accept the student, as determined by the Director of the Department of Defense Education Activity.
+
+"(d)
+
+Locations.—The Secretary of Defense shall carry out the pilot program under this section at not more than four military installations at which covered DODEA schools are located. The Secretary shall select military installations for participation in the program based on—
+
+&emsp;"(1) the readiness needs of the Secretary of a the military department concerned; and
+
+&emsp;"(2) the capacity of the DODEA schools located at the installation to accept additional students, as determined by the Director of the Department of Defense Education Activity.
+
+"(e)
+
+Termination.—The authority to carry out the pilot program under this section shall terminate four years after the date of the enactment of this Act.
+
+"(f)
+
+Covered DODEA School Defined.—In this Section, the term 'covered DODEA school' means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—
+
+&emsp;"(1) has been established on or before the date of the enactment of this Act; and
+
+&emsp;"(2) is located in the continental United States."
+
+#### Pilot Program on Expanded Eligibility for Department of Defense Education Activity Virtual High School Program
+
+Pub. L. 116–283, div. A, title V, §589D, Jan. 1, 2021, 134 Stat. 3660, provided that:
+
+"(a)
+
+Pilot Program Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall carry out a pilot program on permitting dependents of members of the Armed Forces on active duty to enroll in the Department of Defense Education Activity Virtual High School program (in this section referred to as the 'DVHS program').
+
+&emsp;"(2)
+
+Purposes.—The purposes of the pilot program shall be as follows:
+
+&emsp;&emsp;"(A) To evaluate the feasibility and scalability of the DVHS program.
+
+&emsp;&emsp;"(B) To assess the impact of expanded enrollment in the DVHS program under the pilot program on military and family readiness.
+
+&emsp;"(3)
+
+Duration.—The duration of the pilot program shall be four academic years.
+
+"(b)
+
+Participants.—
+
+&emsp;"(1)
+
+In general.—Participants in the pilot program shall be selected by the Secretary from among dependents of members of the Armed Forces on active duty who—
+
+&emsp;&emsp;"(A) are in a grade 9 through 12;
+
+&emsp;&emsp;"(B) are currently ineligible to enroll in the DVHS program; and
+
+&emsp;&emsp;"(C) either—
+
+&emsp;&emsp;&emsp;"(i) require supplementary courses to meet graduation requirements in the current State of residence; or
+
+&emsp;&emsp;&emsp;"(ii) otherwise demonstrate to the Secretary a clear need to participate in the DVHS program.
+
+&emsp;"(2)
+
+Preference in selection.—In selecting participants in the pilot program, the Secretary shall afford a preference to the following:
+
+&emsp;&emsp;"(A) Dependents who reside in a rural area.
+
+&emsp;&emsp;"(B) Dependents who are home-schooled students.
+
+&emsp;"(3)
+
+Limitations.—The total number of course enrollments per academic year authorized under the pilot program may not exceed 400 course enrollments. No single dependent participating in the pilot program may take more than two courses per academic year under the pilot program.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Interim report.—Not later than two years after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives an interim report on the pilot program.
+
+&emsp;"(2)
+
+Final report.—Not later than 180 days after the completion of the pilot program, the Secretary shall submit to the committees of Congress referred to in paragraph (1) a final report on the pilot programs.
+
+&emsp;"(3)
+
+Elements.—Each report under this subsection shall include the following:
+
+&emsp;&emsp;"(A) A description of the demographics of the dependents participating in the pilot program through the date of such report.
+
+&emsp;&emsp;"(B) Data on, and an assessment of, student performance in virtual coursework by dependents participating in the pilot program over the duration of the pilot program.
+
+&emsp;&emsp;"(C) Such recommendation as the Secretary considers appropriate on whether to make the pilot program permanent.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'rural area' has the meaning given the term in section 520 of the Housing Act of 1949 (42 U.S.C. 1490).
+
+&emsp;"(2) The term 'home-schooled student' means a student in a grade equivalent to grade 9 through 12 who receives educational instruction at home or by other non-traditional means outside of a public or private school system, either all or most of the time."
+
 #### Pilot Program on Enhanced Civics Education
 
-Pub. L. 116–92, div. A, title II, §234, Dec. 20, 2019, 133 Stat. 1278, provided that:
+Pub. L. 116–92, div. A, title II, §234, Dec. 20, 2019, 133 Stat. 1278, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(1), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 "(a)
 
@@ -318,7 +442,7 @@ Types of Support Authorized.—Under the pilot program the Secretary of Defense�
 
 Report.—Not later than 180 days after the conclusion of the first full academic year during which the pilot program is carried out, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
 
-&emsp;"(1) a description of the pilot program, including the a \[sic\] description of the specific activities carried out under subsection (e); and
+&emsp;"(1) a description of the pilot program, including a description of the specific activities carried out under subsection (e); and
 
 &emsp;"(2) the metrics and evaluations used to assess the effectiveness of the program as required under subsection (d).
 
@@ -337,6 +461,8 @@ Definitions.—In this section:
 &emsp;&emsp;"(A) A local education agency that hosts a unit of the Junior Reserve Officers' Training Corps.
 
 &emsp;&emsp;"(B) A school operated by the Department of Defense Education Activity."
+
+\[Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(1) of Pub. L. 116–283 to section 234 of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.\]
 
 #### Support for World Language Advancement and Readiness
 

@@ -36,7 +36,7 @@ Criteria for Grants.—The Secretary shall establish criteria and requirements f
 
 &emsp;&emsp;(A) such State and local requirements that may apply; and
 
-&emsp;&emsp;(B) fire and safety requirements applicable under the Life Safety Code of the National Fire Protection Association or such othercomparable fire and safety requirements as the Secretary may specify.
+&emsp;&emsp;(B) fire and safety requirements applicable under the Life Safety Code of the National Fire Protection Association or such other comparable fire and safety requirements as the Secretary may specify.
 
 &emsp;(6) Specification as to the means by which an entity receiving a grant may contribute in-kind services to the start-up costs of a project for which a grant is sought and the methodology for assigning a cost to that contribution for purposes of subsection (c).
 
@@ -108,7 +108,7 @@ Service Center Requirements.—In addition to criteria and requirements establis
 
 &emsp;(3) That such center be equipped and staffed to provide or to assist in providing health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary.
 
-&emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and casemanagement services that may be necessary to carry out this paragraph.
+&emsp;(4) That such center be equipped and staffed to provide, or to assist in providing, job training, counseling, and placement services (including job readiness and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
 
 (h)
 
@@ -119,6 +119,8 @@ Recovery of Unused Grant Funds.—(1) If a grant recipient under this section do
 (3) An amount may not be recovered under paragraph (1) as an unused grant amount before the end of the three-year period beginning on the date on which the grant is made.
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 906; amended Pub. L. 109–444, §§2(b), 8(a)(4), Dec. 21, 2006, 120 Stat. 3304, 3313; Pub. L. 109–461, title VII, §703(a), title X, §§1004(a)(4), 1006(b), Dec. 22, 2006, 120 Stat. 3440, 3465, 3468; Pub. L. 112–154, title III, §301(a), Aug. 6, 2012, 126 Stat. 1182.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -145,6 +147,180 @@ Pub. L. 109–461, §703(a), struck out par. (1) designation before "Subject", r
 Pub. L. 109–444, §8(a)(4), which inserted period at end of subpar. (C) of par. (1), was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
 
 Subsec. (a)(2). Pub. L. 109–444, §2(b), which substituted "September 30, 2007" for "September 30, 2005", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Flexibility for the Secretary of Veterans Affairs in Caring for Homeless Veterans During a Covered Public Health Emergency
+
+Pub. L. 116–315, title IV, §4201, Jan. 5, 2021, 134 Stat. 5008, provided that:
+
+"(a)
+
+General Support.—
+
+&emsp;"(1)
+
+Use of funds.—During a covered public health emergency, the Secretary of Veterans Affairs may use amounts appropriated or otherwise made available to the Department of Veterans Affairs to carry out sections 2011, 2012, 2031, and 2061 of title 38, United States Code, to provide to homeless veterans and veterans participating in the program carried out under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) (commonly referred to as 'HUD-VASH'), as the Secretary determines is needed, the following:
+
+&emsp;&emsp;"(A) Assistance required for safety and survival (such as food, shelter, clothing, blankets, and hygiene items).
+
+&emsp;&emsp;"(B) Transportation required to support stability and health (such as for appointments with service providers, conducting housing searches, and obtaining food and supplies).
+
+&emsp;&emsp;"(C) Communications equipment and services (such as tablets, smartphones, disposable phones, and related service plans) required to support stability and health (such as maintaining contact with service providers, prospective landlords, and family).
+
+&emsp;&emsp;"(D) Such other assistance as the Secretary determines is needed.
+
+&emsp;"(2)
+
+Homeless veterans on land of the department.—
+
+&emsp;&emsp;"(A)
+
+Collaboration.—During a covered public health emergency, to the extent possible, the Secretary may collaborate with one or more organizations to manage use of land of the Department for homeless veterans for living and sleeping.
+
+&emsp;&emsp;"(B)
+
+Elements.—Collaboration under subparagraph (A) may include the provision by either the Secretary or the organization of food services and security for property, buildings, and other facilities owned or controlled by the Department.
+
+"(b)
+
+Grant and Per Diem Program.—
+
+&emsp;"(1)
+
+Limits on rates for per diem payments.—\[Amended section 20013(b) of Pub. L. 116–136, set out as a note below.\]
+
+&emsp;"(2)
+
+Modification of funding limits for grants.—Subsection (c)(2) of section 2011 of title 38, United States Code, shall not apply to any grant awarded during a covered public health emergency under such section for a project described in subsection (b)(1) of such section.
+
+&emsp;"(3)
+
+Use of per diem payments.—During a covered public health emergency, a recipient of a grant or an eligible entity under the grant and per diem program of the Department (in this subsection referred to as the 'program') may use per diem payments under sections 2012 and 2061 of title 38, United States Code, to provide assistance required for safety and survival (such as food, shelter, clothing, blankets, and hygiene items) for—
+
+&emsp;&emsp;"(A) homeless veterans; and
+
+&emsp;&emsp;"(B) formerly homeless veterans residing in a facility operated wholly or in part by such a recipient or eligible entity receiving per diem payments under section 2012 of such title.
+
+&emsp;"(4)
+
+Additional transitional housing.—
+
+&emsp;&emsp;"(A)
+
+In general.—During a covered public health emergency, under the program, the Secretary may provide amounts for additional transitional housing beds to facilitate access to housing and services provided to homeless veterans.
+
+&emsp;&emsp;"(B)
+
+Notice; competition; period of performance.—The Secretary may provide amounts under subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) without notice or competition; and
+
+&emsp;&emsp;&emsp;"(ii) for a period of performance determined by the Secretary.
+
+&emsp;"(5)
+
+Inspections and life safety code requirements.—
+
+&emsp;&emsp;"(A)
+
+In general.—During a covered public health emergency, the Secretary may waive any requirement under subsection (b) or (c) of section 2012 of title 38, United States Code, in order to allow the recipient of a grant or an eligible entity under the program—
+
+&emsp;&emsp;&emsp;"(i) to quickly identify temporary alternate sites of care for homeless veterans that are suitable for habitation;
+
+&emsp;&emsp;&emsp;"(ii) to facilitate social distancing or isolation needs; or
+
+&emsp;&emsp;&emsp;"(iii) to facilitate activation or continuation of a program for which a grant has been awarded.
+
+&emsp;&emsp;"(B)
+
+Limitation.—The Secretary may waive a requirement pursuant to the authority provided by subparagraph (A) with respect to a facility of a recipient of a grant or an eligible entity under the program only if the facility meets applicable local safety requirements, including fire safety requirements.
+
+&emsp;"(6)
+
+Disposition of property relating to grants.—During a covered public health emergency, if the recipient of a grant awarded before or during such emergency under section 2011 of title 38, United States Code, for a project described in subsection (b)(1) of such section is no longer providing services in accordance with the terms of the grant, the recipient shall not be subject during such emergency to any property disposition requirements relating to the grant under subsection (c) or (f) of section 61.67 of title 38, Code of Federal Regulations, section 200.311(c) of title 2, Code of Federal Regulations, or successor regulations.
+
+"(c)
+
+Inspection and Life Safety Code Requirements for Therapeutic Housing.—
+
+&emsp;"(1)
+
+In general.—During a covered public health emergency, the Secretary may waive any inspection or life safety code requirement under subsection (c) of section 2032 of title 38, United States Code—
+
+&emsp;&emsp;"(A) to allow quick identification of temporary alternate sites of care for homeless veterans that are suitable for habitation;
+
+&emsp;&emsp;"(B) to facilitate social distancing or isolation needs; or
+
+&emsp;&emsp;"(C) to facilitate the operation of housing under such section.
+
+&emsp;"(2)
+
+Limitation.—The Secretary may waive a requirement pursuant to the authority provided by paragraph (1) with respect to a residence or facility referred to in such section 2032 only if the residence or facility, as the case may be, meets applicable local safety requirements, including fire safety requirements.
+
+"(d)
+
+Access to Department of Veterans Affairs Telehealth Services.—To the extent practicable, during a covered public health emergency, the Secretary shall ensure that veterans participating in or receiving services from a program under chapter 20 of title 38, United States Code, have access to telehealth services to which such veterans are eligible under the laws administered by the Secretary, including by ensuring that telehealth capabilities are available to—
+
+&emsp;"(1) such veterans;
+
+&emsp;"(2) case managers of the Department of programs for homeless veterans authorized under such chapter; and
+
+&emsp;"(3) community-based service providers for homeless veterans receiving funds from the Department through grants or contracts.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered public health emergency.—The term 'covered public health emergency' means an emergency with respect to COVID–19 declared by a Federal, State, or local authority.
+
+&emsp;"(2)
+
+Homeless veteran; veteran.—The terms 'homeless veteran' and 'veteran' have the meanings given those terms in section 2002 of title 38, United States Code.
+
+&emsp;"(3)
+
+Telehealth.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'telehealth' means the use of electronic information and telecommunications technologies to support and promote long-distance clinical health care, patient and professional health-related education, public health, and health administration.
+
+&emsp;&emsp;"(B)
+
+Technologies.—For purposes of subparagraph (A), 'telecommunications technologies' include video conferencing, the internet, streaming media, and terrestrial and wireless communications."
+
+#### Modifications to Comprehensive Service Programs for Homeless Veterans During a Public Health Emergency
+
+Pub. L. 116–136, div. B, title X, §20013, Mar. 27, 2020, 134 Stat. 589, as amended by Pub. L. 116–260, div. J, title V, §516, Dec. 27, 2020, 134 Stat. 1690; Pub. L. 116–315, title IV, §4201(b)(1), Jan. 5, 2021, 134 Stat. 5008, provided that:
+
+"(a)
+
+Rule of Construction.—In the case of a public health emergency, no authorization of appropriations in section 2014 of title 38, United States Code, may be construed as limiting amounts that may be appropriated for carrying out subchapter II of chapter 20 of such title.
+
+"(b)
+
+Grants and Per Diem Payments.—(1) In the case of a public health emergency, the Secretary of Veterans Affairs may waive any limits on—
+
+&emsp;"(A) grant amounts under sections 2011 and 2061 of title 38, United States Code; and
+
+&emsp;"(B) rates for per diem payments under sections 2012 and 2061 of such title.
+
+"(2) If the Secretary waives any limit on grant amounts or rates for per diem payments under paragraph (1), notwithstanding section 2012(a)(2)(B) of such title, the maximum rate for per diem payments described in paragraph (1)(B) shall be three times the rate authorized for State homes for domiciliary care under section 1741 of such title.
+
+"(c)
+
+Participant Absence.—Notwithstanding Veterans Health Administration Handbook 1162.01(1), dated July 12, 2013, and amended June 30, 2014, and titled 'Grant and Per Diem (GPD) Program', or any other provision of law, for the duration of a public health emergency, the Secretary—
+
+&emsp;"(1) shall waive any requirement to discharge a veteran from the grant and per diem program of the Veterans Health Administration after the veteran is absent for 14 days; and
+
+&emsp;"(2) may continue to pay per diem to grant recipients and eligible entities under the program for any additional days of absence when a veteran has already been absent for more than 72 hours."
+
+\[Pub. L. 116–260, div. J, title V, §516, and Pub. L. 116–315, title IV, §4201(b)(1), made identical amendments to section 20013(b) of Pub. L. 116–136, set out above.\]
+
+\[For definition of "public health emergency" as used in section 20013 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 
 #### Requirement for Department of Veterans Affairs To Assess Comprehensive Service Programs for Homeless Veterans
 

@@ -40,7 +40,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(13) The institution will not deny any form of Federal financial aid to any student who meets the eligibility requirements of this subchapter on the grounds that the student is participating in a program of study abroad approved for credit by the institution.
 
-&emsp;(14)(A) The institution, in order to participate as an eligible institution under part B or D, will develop a Default Management Plan for approval by the Secretary as part of its initial application for certification as an eligible institution and will implement such Plan for two years thereafter.
+&emsp;(14)(A) The institution, in order to participate as an eligible institution under part B orD, will develop a Default Management Plan for approval by the Secretary as part of its initial application for certification as an eligible institution and will implement such Plan for two years thereafter.
 
 &emsp;(B) Any institution of higher education which changes ownership and any eligible institution which changes its status as a parent or subordinate institution shall, in order to participate as an eligible institution under part B or D, develop a Default Management Plan for approval by the Secretary and implement such Plan for two years after its change of ownership or status.
 
@@ -118,7 +118,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to an eligible institution which is audited under chapter 75 of title 31, deeming such audit to satisfy the requirements of clause (i) for the period covered by such audit; or
 
-&emsp;(iii) at the discretion of the Secretary, with regard to an eligible institution (other than an eligible institution described in section 1002(a)(1)(C) of this title) that has obtained less than $200,000 in funds under this subchapter during each of the 2 award years that precede the audit period and submits a letter of credit payable to the Secretary equal to not less than ½ of the annual potential liabilities of such institution as determined by the Secretary, deeming an audit conducted every 3 years to satisfy the requirements of clause (i), except for the award year immediately preceding renewal of the institution's eligibility under section 1099c(g) of this title;
+&emsp;(iii) at the discretion of the Secretary, with regard to an eligible institution (other than an eligible institution described in section 1002(a)(1)(C) of this title) that has obtained less than $200,000 in funds under this subchapter during each of the 2 award years that precede the audit period and submits a letter of credit payable to the Secretary equal to notless than ½ of the annual potential liabilities of such institution as determined by the Secretary, deeming an audit conducted every 3 years to satisfy the requirements of clause (i), except for the award year immediately preceding renewal of the institution's eligibility under section 1099c(g) of this title;
 
 &emsp;(B) in matters not governed by specific program provisions, the establishment of reasonable standards of financial responsibility and appropriate institutional capability for the administration by an eligible institution of a program of student financial aid under this subchapter, including any matter the Secretary deems necessary to the sound administration of the financial aid programs, such as the pertinent actions of any owner, shareholder, or person exercising control over an eligible institution;
 
@@ -130,7 +130,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;(ii) with regard to a secondary market that is audited under chapter 75 of title 31, such audit shall be deemed to satisfy the requirements of clause (i) for the period covered by the audit;
 
-&emsp;(E) the establishment, by each eligible institution under part B responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known addressand enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
+&emsp;(E) the establishment, by each eligible institution under part B responsible for furnishing to the lender the statement required by section 1078(a)(2)(A)(i) of this title, of policies and procedures by which the latest known address and enrollment status of any student who has had a loan insured under this part and who has either formally terminated his enrollment, or failed to re-enroll on at least a half-time basis, at such institution, shall be furnished either to the holder (or if unknown, the insurer) of the note, not later than 60 days after such termination or failure to re-enroll;
 
 &emsp;(F) the limitation, suspension, or termination of the participation in any program under this subchapter of an eligible institution, or the imposition of a civil penalty under paragraph (3)(B) whenever the Secretary has determined, after reasonable notice and opportunity for hearing, that such institution has violated or failed to carry out any provision of this subchapter, any regulation prescribed under this subchapter, or any applicable special arrangement, agreement, or limitation, except that no period of suspension under this section shall exceed 60 days unless the institution and the Secretary agree to an extension or unless limitation or termination proceedings are initiated by the Secretary within that period of time;
 
@@ -158,7 +158,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 (2) If an individual who, or entity that, exercises substantial control, as determined by the Secretary in accordance with the definition of substantial control in subpart 3 of part H, over one or more institutions participating in any program under this subchapter, or, for purposes of paragraphs (1)(H) and (I), over one or more organizations that contract with an institution to administer any aspect of the institution's student assistance program under this subchapter, is determined to have committed one or more violations of the requirements of any program under this subchapter, or has been suspended or debarred in accordance with the regulations of the Secretary, the Secretary may use such determination, suspension, or debarment as the basis for imposing an emergency action on, or limiting, suspending, or terminating, in a single proceeding, the participation of any or all institutions under the substantial control of that individual or entity.
 
-(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretarymay suspend or terminate the eligibility status for any or all programs under this subchapter of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
+(3)(A) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution has engaged in substantial misrepresentation of the nature of its educational program, its financial charges, or the employability of its graduates, the Secretary may suspend or terminate the eligibility status for any or all programs under this subchapter of any otherwise eligible institution, in accordance with procedures specified in paragraph (1)(D) of this subsection, until the Secretary finds that such practices have been corrected.
 
 (B)(i) Upon determination, after reasonable notice and opportunity for a hearing, that an eligible institution—
 
@@ -218,7 +218,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 &emsp;&emsp;(D) include institutional aid as revenue to the school only as follows:
 
-&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 and prior to July 1, 2012,the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
+&emsp;&emsp;&emsp;(i) in the case of loans made by a proprietary institution of higher education on or after July 1, 2008 and prior to July 1, 2012, the net present value of such loans made by the institution during the applicable institutional fiscal year accounted for on an accrual basis and estimated in accordance with generally accepted accounting principles and related standards and guidance, if the loans—
 
 &emsp;&emsp;&emsp;&emsp;(I) are bona fide as evidenced by enforceable promissory notes;
 
@@ -248,7 +248,7 @@ In order to be an eligible institution for the purposes of any program authorize
 
 #### (A) Ineligibility
 
-&emsp;&emsp;A proprietary institution of higher education that fails to meet a requirement of subsection (a)(24) for two consecutive institutional fiscal years shall be ineligible to participate in the programs authorized by this subchapter for a period of not less than two institutional fiscal years. To regain eligibility to participate in the programs authorized by this subchapter, a proprietary institution of higher education shall demonstrate compliance with all eligibility and certification requirements under section 1099c of this title for a minimum of two institutional fiscal years after the institutional fiscal year in which the institution became ineligible.
+&emsp;&emsp;A proprietary institution of higher education that fails to meet a requirement of subsection (a)(24) for two consecutive institutional fiscal years shall be ineligible to participate in the programs authorized by this subchapter for a period of not less than two institutional fiscal years. To regain eligibility to participate in the programs authorized by this subchapter, a proprietary institution of higher education shall demonstrate compliance with all eligibility and certification requirements under section1099c of this title for a minimum of two institutional fiscal years after the institutional fiscal year in which the institution became ineligible.
 
 #### (B) Additional enforcement
 
@@ -384,7 +384,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 &emsp;&emsp;&emsp;(i) professional development training for financial aid administrators;
 
-&emsp;&emsp;&emsp;(ii) providing educational counseling materials, financial literacy materials, or debt management materials to borrowers, provided that such materials disclose to borrowers the identification of any lender that assisted in preparing or providing such materials; or
+&emsp;&emsp;&emsp;(ii) providing educational counseling materials, financial literacy materials, ordebt management materials to borrowers, provided that such materials disclose to borrowers the identification of any lender that assisted in preparing or providing such materials; or
 
 &emsp;&emsp;&emsp;(iii) staffing services on a short-term, nonrecurring basis to assist the institution with financial aid-related functions during emergencies, including State-declared or federally declared natural disasters, federally declared national disasters, and other localized disasters and emergencies identified by the Secretary.
 
@@ -406,7 +406,7 @@ An institution of higher education's code of conduct, as required under subsecti
 
 The Inspector General of the Department shall—
 
-&emsp;(1) submit an annual report to the authorizing committees identifying all violations of aninstitution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (e)(2); and
+&emsp;(1) submit an annual report to the authorizing committees identifying all violations of an institution's code of conduct that the Inspector General has substantiated during the preceding year relating to the gift ban provisions described in subsection (e)(2); and
 
 &emsp;(2) make the report available to the public through the Department's website.
 
@@ -496,7 +496,7 @@ For the purpose of this section:
 
 #### (j) Construction
 
-Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording,at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
+Nothing in the amendments made by the Higher Education Amendments of 1992 shall be construed to prohibit an institution from recording, at the cost of the institution, a hearing referred to in subsection (b)(2), subsection (c)(1)(D), or subparagraph (A) or (B)(i) of subsection (c)(2), of this section to create a record of the hearing, except the unavailability of a recording shall not serve to delay the completion of the proceeding. The Secretary shall allow the institution to use any reasonable means, including stenographers, of recording the hearing.
 
 (Pub. L. 89–329, title IV, §487, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1488; amended Pub. L. 101–239, title II, §§2003(c)(2), 2006(c), Dec. 19, 1989, 103 Stat. 2114, 2118; Pub. L. 101–542, title II, §205, Nov. 8, 1990, 104 Stat. 2387; Pub. L. 102–26, §2(c)(3), Apr. 9, 1991, 105 Stat. 124; Pub. L. 102–325, title IV, §490, July 23, 1992, 106 Stat. 625; Pub. L. 103–208, §2(h)(42), (43), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title I, §102(b)(4), title IV, §489(a), (b)(1), (c), Oct. 7, 1998, 112 Stat. 1622, 1750, 1751; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §314\], Nov. 29, 1999, 113 Stat. 1535, 1501A–266; Pub. L. 110–315, title IV, §493(a)(1)(A), (b)–(d), Aug. 14, 2008, 122 Stat. 3308, 3309–3317; Pub. L. 111–39, title IV, §407(b)(8), July 1, 2009, 123 Stat. 1952.)
 
@@ -530,7 +530,7 @@ Subsec. (i). Pub. L. 110–315, §493(c)(1), (d), redesignated subsec. (d) as (i
 
 Subsec. (j). Pub. L. 110–315, §493(c)(1), redesignated subsec. (e) as (j).
 
-<b>1999</b>—Subsec. (a)(23)(C). Pub. L. 106–113 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "This paragraph shall apply to elections as defined in section 431(1) of title 2, and includes the election for Governor or other chief executive within such State)."
+<b>1999</b>—Subsec. (a)(23)(C). Pub. L. 106–113 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "This paragraph shall apply to elections as defined in section 431(1) of title 2, and includesthe election for Governor or other chief executive within such State)."
 
 <b>1998</b>—Subsec. (a)(3)(B) to (D). Pub. L. 105–244, §489(a)(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: "the appropriate State review entity designated under subpart 1 of part H;".
 
@@ -632,7 +632,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IV, §493(a)(1)(B), Aug. 14, 2008, 122 Stat. 3309, provided that: "The amendment made by subparagraph (A) \[amending this section\] with respect to section 487(a)(26) of the Higher Education Act of 1965 \[20 U.S.C. 1094(a)(26)\] (as added by subparagraph (A)) shall apply with respect to any disciplinary proceeding conducted by an institution on or after the day that is one year after the date of enactment of this Act \[Aug. 14, 2008\]."
+Pub. L. 110–315, title IV, §493(a)(1)(B), Aug. 14, 2008, 122 Stat. 3309, provided that: "The amendment made by subparagraph (A) \[amending this section\] with respectto section 487(a)(26) of the Higher Education Act of 1965 \[20 U.S.C. 1094(a)(26)\] (as added by subparagraph (A)) shall apply with respect to any disciplinary proceeding conducted by an institution on or after the day that is one year after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Effective Date of 1998 Amendment
 

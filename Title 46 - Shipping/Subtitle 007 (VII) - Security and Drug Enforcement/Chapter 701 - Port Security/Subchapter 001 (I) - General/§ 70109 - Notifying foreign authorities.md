@@ -10,6 +10,8 @@ Training Program.—The Secretary, in cooperation with the Secretary of State, s
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2080; amended Pub. L. 111–281, title VIII, §806(a)(2), Oct. 15, 2010, 124 Stat. 2992.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "Unless the Secretary finds that a port in a foreign country maintains effective antiterrorism measures," for "If the Secretary, after conducting an assessment under section 70108, finds that a port in a foreign country does not maintain effective antiterrorism measures,".

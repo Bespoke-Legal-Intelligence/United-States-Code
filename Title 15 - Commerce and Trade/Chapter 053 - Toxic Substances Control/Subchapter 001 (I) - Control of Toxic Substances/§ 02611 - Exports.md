@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(iv) the potential for these compounds to be processed into elemental mercury after export from the United States; and
 
-&emsp;&emsp;&emsp;(v) other relevant information that Congress should consider in determiningwhether to extend the export prohibition to include one or more of these mercury compounds.
+&emsp;&emsp;&emsp;(v) other relevant information that Congress should consider in determining whether to extend the export prohibition to include one or more of these mercury compounds.
 
 #### (B) Procedure
 
@@ -106,7 +106,7 @@
 
 #### (D) Environmentally sound disposal
 
-&emsp;&emsp;This paragraph does not prohibit the export of mercury compounds on the list published under subparagraph (B) to member countries of the Organization for Economic Co-operation and Development for environmentally sound disposal, on the condition that no mercury or mercury compounds so exported are to be recovered, recycled, or reclaimed for use, or directly reused, after such export.
+&emsp;&emsp;This paragraph does not prohibit the export of mercury compounds on the list published under subparagraph (B) to member countries of the Organization for Economic Co-operation and Development for environmentally sound disposal, on the condition that no mercury or mercury compounds soexported are to be recovered, recycled, or reclaimed for use, or directly reused, after such export.
 
 #### (E) Report
 

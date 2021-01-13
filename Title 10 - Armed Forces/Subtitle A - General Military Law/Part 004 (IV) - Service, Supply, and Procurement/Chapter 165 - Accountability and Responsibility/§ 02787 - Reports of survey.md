@@ -2,7 +2,7 @@
 
 (a)
 
-Action on Reports of Survey.—Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, or Marine Corps or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
+Action on Reports of Survey.—Under regulations prescribed pursuant to subsection (c), any officer of the Army, Navy, Air Force, Marine Corps, or Space Force or any civilian employee of the Department of Defense designated in accordance with those regulations may act upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of the United States under the control of the Department of Defense.
 
 (b)
 
@@ -14,7 +14,11 @@ Finality of Action.—(1) Action taken under subsection (a) is final except as p
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 107–314, div. A, title X, §1006(a)(1), Dec. 2, 2002, 116 Stat. 2632.)
+(Added Pub. L. 107–314, div. A, title X, §1006(a)(1), Dec. 2, 2002, 116 Stat. 2632; amended Pub. L. 116–283, div. A, title IX, §924(b)(3)(HH), Jan. 1, 2021, 134 Stat. 3822.)
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 #### Effective Date
 

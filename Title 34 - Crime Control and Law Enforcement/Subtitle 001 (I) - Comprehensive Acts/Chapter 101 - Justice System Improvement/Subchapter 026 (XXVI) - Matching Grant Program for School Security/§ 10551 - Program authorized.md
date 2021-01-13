@@ -20,7 +20,7 @@ Grants awarded under this section shall be distributed directly to the State, un
 
 &emsp;(3) The development and operation of—
 
-&emsp;&emsp;(A) school threat assessment and intervention teams that may include coordinationwith law enforcement agencies and school personnel; and
+&emsp;&emsp;(A) school threat assessment and intervention teams that may include coordination with law enforcement agencies and school personnel; and
 
 &emsp;&emsp;(B) specialized training for school officials in responding to mental health crises.
 
@@ -71,6 +71,8 @@ In awarding grants under this subchapter, the COPS Director and the BJA shall ea
 The COPS Director and the BJA Director may each reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
 (Pub. L. 90–351, title I, §2701, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, §1169(b), Jan. 5, 2006, 119 Stat. 3122; Pub. L. 109–271, §8(j), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, §14010, Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–141, div. S, title V, §502(1), Mar. 23, 2018, 132 Stat. 1128.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

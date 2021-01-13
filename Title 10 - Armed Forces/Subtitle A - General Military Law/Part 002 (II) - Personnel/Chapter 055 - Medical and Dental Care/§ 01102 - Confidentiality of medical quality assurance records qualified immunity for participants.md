@@ -28,7 +28,7 @@ Authorized Disclosure and Testimony.—(1) Subject to paragraph (2), a medical q
 
 &emsp;(G) In an administrative or judicial proceeding commenced by a criminal or civil law enforcement agency or instrumentality referred to in subparagraph (F), but only with respect to the subject of such proceeding.
 
-(2) With the exception of the subject of a quality assurance action, the identity of any personreceiving health care services from the Department of Defense or the identity of any other person associated with such department for purposes of a medical quality assurance program that is disclosed in a medical quality assurance record described in subsection (a) shall be deleted from that record or document before any disclosure of such record is made outside the Department of Defense. Such requirement does not apply to the release of information pursuant to section 552a of title 5.
+(2) With the exception of the subject of a quality assurance action, the identity of any person receiving health care services from the Department of Defense or the identity of any other person associated with such department for purposes of a medical quality assurance program that is disclosed in a medical quality assurance record described in subsection (a) shall be deleted from that record or document before any disclosure of such record is made outside the Department of Defense. Such requirement does not apply to the release of information pursuant to section 552a of title 5.
 
 (d)
 
@@ -50,7 +50,7 @@ Limitation on Civil Liability.—A person who participates in or provides inform
 
 (h)
 
-Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
+Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds thatthe information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 (i)
 

@@ -52,11 +52,11 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 (1) Except in the case of force majeure, the Secretary shall deny entry to a seagoing ship required by the Convention or the Antarctic Protocol to retain onboard while at sea, residues and mixtures containing oil or noxious liquid substances, if—
 
-&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or Article 9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
+&emsp;(A) the port or terminal is one required by Annexes I and II of the Convention or Article9 of Annex IV to the Antarctic Protocol or regulations hereunder to have adequate reception facilities; and
 
 &emsp;(B) the port or terminal does not hold a valid certificate issued by the Secretary under this section.
 
-(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOLProtocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
+(2) The Secretary may deny the entry of a ship to a port or terminal required by the MARPOL Protocol, this chapter, or regulations prescribed under this section relating to the provision of adequate reception facilities for garbage, ozone depleting substances, equipment containing those substances, or exhaust gas cleaning residues, if the port or terminal is not in compliance with the MARPOL Protocol, this chapter, or those regulations.
 
 #### (f) Surveys
 
@@ -65,6 +65,8 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 (2) Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
 
 (Pub. L. 96–478, §6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, §2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, §201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, §201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, §801, Oct. 19, 1996, 110 Stat. 3943; Pub. L. 110–280, §7, July 21, 2008, 122 Stat. 2614.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -107,6 +109,8 @@ Subsec. (c). Pub. L. 100–220, §2103(c), amended subsec. (c) generally. Prior 
 > The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation."
 
 Subsec. (e). Pub. L. 100–220, §2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted "Annexes I and II of the Convention" for "the MARPOL Protocol", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

@@ -12,7 +12,7 @@ The Science and Engineering Equal Opportunities Act, referred to in text, is Par
 
 Section, formerly classified to section 16831 of this title, was transferred following the enactment of Title 51, National and Commercial Space Programs, by Pub. L. 111–314.
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of2005, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act of 2005, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Change of Name
 

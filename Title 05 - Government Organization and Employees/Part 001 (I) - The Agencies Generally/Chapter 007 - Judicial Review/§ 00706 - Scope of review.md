@@ -38,6 +38,8 @@ June 11, 1946, ch. 324, §10(e), 60 Stat. 243.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface of this report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abbreviation of Record
 
 Pub. L. 85–791, Aug. 28, 1958, 72 Stat. 941, which authorized abbreviation of record on review or enforcement of orders of administrative agencies and review on the original papers, provided, in section 35 thereof, that: "This Act \[see Tables for classification\] shall not be construed to repeal or modify any provision of the Administrative Procedure Act \[see Short Title note set out preceding section 551 of this title\]."

@@ -1,6 +1,6 @@
 ### §5321. Suspension of requirements for disaster areas
 
-For funds designated under this chapter by a recipient to address the damage in an area for which the President has declared a disasterunder title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170 et seq.\], the Secretary may suspend all requirements for purposes of assistance under section 5306 of this title for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and requirements that activities benefit persons of low- and moderate-income.
+For funds designated under this chapter by a recipient to address the damage in an area for which the President has declared a disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170 et seq.\], the Secretary may suspend all requirements for purposes of assistance under section 5306 of this title for that area, except for those related to public notice of funding availability, nondiscrimination, fair housing, labor standards, environmental standards, and requirements that activities benefit persons of low- and moderate-income.
 
 (Pub. L. 93–383, title I, §122, as added Pub. L. 103–233, title II, §234, Apr. 11, 1994, 108 Stat. 369.)
 

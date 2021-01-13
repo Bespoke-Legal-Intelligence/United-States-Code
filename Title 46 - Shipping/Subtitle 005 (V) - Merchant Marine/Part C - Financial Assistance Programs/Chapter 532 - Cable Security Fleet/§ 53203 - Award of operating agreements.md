@@ -20,6 +20,8 @@ Action on applications.—Within 120 days after receipt of an application for en
 
 (Added Pub. L. 116–92, div. C, title XXXV, §3521(a), Dec. 20, 2019, 133 Stat. 1992.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (b)(1), probably means the date of enactment of Pub. L. 116–92, which enacted this chapter and was approved Dec. 20, 2019.

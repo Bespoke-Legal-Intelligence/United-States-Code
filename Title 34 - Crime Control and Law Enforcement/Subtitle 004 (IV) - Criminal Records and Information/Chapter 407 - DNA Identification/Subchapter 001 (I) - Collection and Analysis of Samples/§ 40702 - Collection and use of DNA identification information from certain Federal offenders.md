@@ -10,7 +10,7 @@
 
 #### (2) From individuals on release, parole, or probation
 
-&emsp;The probation office responsible for the supervision under Federal law of an individual on probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10.
+&emsp;The probation office responsible for the supervision under Federal law of an individualon probation, parole, or supervised release shall collect a DNA sample from each such individual who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d)) or a qualifying military offense, as determined under section 1565 of title 10.
 
 #### (3) Individuals already in CODIS
 
@@ -71,6 +71,8 @@ The offenses that shall be treated for purposes of this section as qualifying Fe
 Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
 (Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, §1004(a), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title I, §155, July 27, 2006, 120 Stat. 611; Pub. L. 115–50, §3(a), Aug. 18, 2017, 131 Stat. 1001.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

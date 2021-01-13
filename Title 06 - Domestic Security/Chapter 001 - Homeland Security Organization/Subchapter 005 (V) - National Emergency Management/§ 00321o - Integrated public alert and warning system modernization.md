@@ -34,7 +34,7 @@ In carrying out subsection (a), the Administrator shall—
 
 &emsp;(8) consult and coordinate with the Federal Communications Commission, taking into account rules and regulations promulgated by the Federal Communications Commission; and
 
-&emsp;(9) coordinate with and consider the recommendations of the Integrated Public Alert andWarning System Subcommittee established under section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015.
+&emsp;(9) coordinate with and consider the recommendations of the Integrated Public Alert and Warning System Subcommittee established under section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015.
 
 #### (c) System requirements
 
@@ -88,9 +88,13 @@ Except to the extent necessary for testing the public alert and warning system, 
 
 (Pub. L. 107–296, title V, §526, as added Pub. L. 114–143, §2(a), Apr. 11, 2016, 130 Stat. 327.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2(b) of the Integrated Public Alert and Warning System Modernization Act of 2015, referred to in subsec. (b)(9), is section 2(b) of Pub. L. 114–143, Apr. 11, 2016, 130 Stat. 329, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

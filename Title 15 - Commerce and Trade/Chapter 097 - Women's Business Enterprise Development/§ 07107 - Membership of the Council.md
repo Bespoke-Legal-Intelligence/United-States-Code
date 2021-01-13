@@ -64,7 +64,7 @@ The General Schedule, referred to in subsecs. (h) and (i), is set out under sect
 
 #### Prior Provisions
 
-A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, §11, Aug. 13, 1993, 107 Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
+A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, §11, Aug. 13, 1993, 107Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
 
 #### Amendments
 

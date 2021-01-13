@@ -24,7 +24,7 @@ Covered Disputes.—The voluntary and binding arbitration process established pu
 
 &emsp;&emsp;(D) that are solely between 2 or more rail carriers; and
 
-&emsp;(3) shall not prevent parties from independently seeking or utilizing private arbitration services to resolve any disputes the parties may have.
+&emsp;(3) shall not prevent parties from independently seeking or utilizing private arbitrationservices to resolve any disputes the parties may have.
 
 (c)
 

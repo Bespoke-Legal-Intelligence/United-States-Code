@@ -10,7 +10,7 @@ The Secretary may provide any information which is exempt from disclosure pursua
 
 &emsp;The Secretary shall not be required to disclose under section 552 of title 5 (commonly referred to as the "Freedom of Information Act"), or any other provision of law, any information relating to drugs obtained from a foreign government agency, if—
 
-&emsp;&emsp;(A) the information concerns the inspection of a facility, is part of an investigation, alerts the United States to the potentialneed for an investigation, or concerns a drug that has a reasonable probability of causing serious adverse health consequences or death to humans or animals;
+&emsp;&emsp;(A) the information concerns the inspection of a facility, is part of an investigation, alerts the United States to the potential need for an investigation, or concerns a drug that has a reasonable probability of causing serious adverse health consequences or death to humans or animals;
 
 &emsp;&emsp;(B) the information is provided or made available to the United States Government voluntarily on the condition that it not be released to the public; and
 
@@ -57,6 +57,8 @@ The Secretary may enter into written agreements to provide information reference
 &emsp;Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
 
 (June 25, 1938, ch. 675, §708, as added Pub. L. 94–295, §8, May 28, 1976, 90 Stat. 582; amended Pub. L. 112–144, title VII, §710, July 9, 2012, 126 Stat. 1070.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

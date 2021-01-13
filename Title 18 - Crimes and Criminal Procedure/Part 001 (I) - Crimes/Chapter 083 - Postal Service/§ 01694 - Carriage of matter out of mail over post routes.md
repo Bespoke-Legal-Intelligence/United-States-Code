@@ -12,9 +12,13 @@ Words "by land, air, or water" were substituted for "stagecoach, railway car, st
 
 Enumeration of persons having charge was omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $50".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 

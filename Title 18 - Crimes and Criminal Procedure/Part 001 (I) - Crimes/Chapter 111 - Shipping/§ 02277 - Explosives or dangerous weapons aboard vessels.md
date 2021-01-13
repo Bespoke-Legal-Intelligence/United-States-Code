@@ -18,6 +18,8 @@ Words "This section" were substituted in subsection (b) for the words "The provi
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a), expired July 1, 1953.

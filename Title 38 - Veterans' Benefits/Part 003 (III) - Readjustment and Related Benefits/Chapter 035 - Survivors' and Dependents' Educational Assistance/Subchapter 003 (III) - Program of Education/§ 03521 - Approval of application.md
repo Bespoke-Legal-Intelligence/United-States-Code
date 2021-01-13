@@ -12,17 +12,21 @@ The Secretary shall approve an application if the Secretary finds that—
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, §1721; Pub. L. 94–502, title III, §310(11), Oct. 15, 1976, 90 Stat. 2391; Pub. L. 96–466, title III, §324, Oct. 17, 1980, 94 Stat. 2196; Pub. L. 99–576, title III, §314(b)(1), (2), Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3521, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1721 of this title as this section.
 
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
 
-<b>1986</b>—Pub. L. 99–576 substituted "Approval of application" for "Final approval of application" in section catchline, struck out "finally" before "approve an application" in introductory provisions, struck out former cl. (1) which read "section 1720 of this title has been complied with;", and redesignated cls. (2) to (5) as cls. (1) to (4), respectively.
+<b>1986</b>—Pub. L. 99–576 substituted "Approval of application" for "Final approval of application" in section catchline, struck out "finally" before "approve an application" in introductory provisions, struck outformer cl. (1) which read "section 1720 of this title has been complied with;", and redesignated cls. (2) to (5) as cls. (1) to (4), respectively.
 
 <b>1980</b>—Pub. L. 96–466, among other changes, inserted provision conditioning approval of an application upon the educational institution's or training establishment's compliance with all the requirements of this chapter and chapter 36 of this title and substituted reference to the enrollment in or pursuit of such person's program of education violating any provisions of this chapter or chapter 36 of this title for reference to the pursuit of such program violating any provision of this chapter.
 
 <b>1976</b>—Pub. L. 94–502 substituted "if the Administrator finds" for "if he finds".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

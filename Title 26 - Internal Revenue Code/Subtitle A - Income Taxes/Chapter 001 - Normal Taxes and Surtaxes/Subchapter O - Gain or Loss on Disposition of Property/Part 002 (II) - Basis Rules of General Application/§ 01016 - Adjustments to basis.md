@@ -22,7 +22,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;&emsp;(B) resulting (by reason of the deductions so allowed) in a reduction for any taxable year of the taxpayer's taxes under this subtitle (other than chapter 2, relating to tax on self-employment income), or prior income, war-profits, or excess-profits tax laws,
 
-> &emsp;but not less than the amount allowable under this subtitle or prior income tax laws. Where no method has been adopted under section 167 (relating to depreciation deduction), the amount allowable shall be determined under the straight line method. Subparagraph (B) of this paragraph shall not apply in respect of any period since February 28, 1913, and before January 1, 1952, unless an election has been made under section 1020 (as in effect before the date of the enactment of the Tax Reform Act of 1976). Where for any taxable year before the taxable year 1932 the depletion allowance was based on discovery value or a percentage of income, then the adjustment for depletion for such year shall be based on the depletion which would have been allowable for such year if computed without reference to discovery value or a percentage of income;
+> &emsp;but not less than the amount allowable under this subtitle or prior income tax laws. Where no method has been adopted under section 167 (relating to depreciation deduction), the amount allowable shall be determined under the straight line method. Subparagraph (B) of this paragraph shall not apply in respect of any period since February 28, 1913, and before January 1, 1952, unless an election has been made under section 1020 (as in effect before thedate of the enactment of the Tax Reform Act of 1976). Where for any taxable year before the taxable year 1932 the depletion allowance was based on discovery value or a percentage of income, then the adjustment for depletion for such year shall be based on the depletion which would have been allowable for such year if computed without reference to discovery value or a percentage of income;
 
 &emsp;(3) in respect of any period—
 
@@ -74,7 +74,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(22) in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d),<sup>2</sup>
 
-&emsp;(23) in the case of property the acquisition of which resulted under section 1043, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1045(b)(3), or 1397B(b)(4), as the case may be,<sup>2</sup>
+&emsp;(23) in the case of property the acquisition of which resulted under section 1043, 1045, or1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1045(b)(3), or 1397B(b)(4), as the case may be,<sup>2</sup>
 
 &emsp;\[(24) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(34)(G), Dec. 19, 2014, 128 Stat. 4042\]
 
@@ -146,7 +146,7 @@ Whenever it appears that the basis of property in the hands of the taxpayer is a
 
 #### (A) In general
 
-&emsp;&emsp;An election under this subsection shall be made at such time and in such manner asthe Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.
+&emsp;&emsp;An election under this subsection shall be made at such time and in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.
 
 #### (B) Interest on recaptured amount
 
@@ -158,7 +158,7 @@ If—
 
 &emsp;(1) the taxpayer acquires any automobile with respect to which a tax was imposed by section 4064, and
 
-&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after the date of the first sale for ultimate use of such automobile,
+&emsp;(2) the use of such automobile by the taxpayer begins not more than 1 year after thedate of the first sale for ultimate use of such automobile,
 
 > the basis of such automobile shall be reduced by the amount of the tax imposed by section 4064 with respect to such automobile. In the case of importation, if the date of entry or withdrawal from warehouse for consumption is later than the date of the first sale for ultimate use, such later date shall be substituted for the date of such first sale in the preceding sentence.
 
@@ -188,7 +188,7 @@ Section 174, referred to in subsec. (a)(14), was amended generally by Pub. L. 11
 
 #### Codification
 
-Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to thissection, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to this section, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
@@ -478,7 +478,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §116(c)\], Dec. 21, 2000, 114 Stat. 276
 
 Amendment by section 312(d)(6) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Pub. L. 105–34, title III, §313(c), Aug. 5, 1997, 111 Stat. 842, provided that: "The amendments made by this section \[enacting section 1045 of this title and amendingthis section and section 1223 of this title\] shall apply to sales after the date of enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title III, §313(c), Aug. 5, 1997, 111 Stat. 842, provided that: "The amendments made by this section \[enacting section 1045 of this title and amending this section and section 1223 of this title\] shall apply to sales after the date of enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by section 701(b)(2) of Pub. L. 105–34 effective Aug. 5, 1997, see section 701(d) of Pub. L. 105–34, set out as a note under section 39 of this title.
 
@@ -492,7 +492,7 @@ Pub. L. 103–66, title XIII, §13114(d), Aug. 10, 1993, 107 Stat. 431, provided
 
 Amendment by section 13213(a)(2)(F) of Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 1993, see section 13213(e) of Pub. L. 103–66 set out as a note under section 62 of this title.
 
-Amendment by section 13261(f)(3) of Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
+Amendment by section 13261(f)(3) of Pub. L. 103–66 applicable, except as otherwise provided, with respect toproperty acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -552,7 +552,7 @@ Amendment by section 421(g) of Pub. L. 97–34 applicable with respect to the es
 
 Amendment by section 401(a) of Pub. L. 96–223 (repealing section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 96–500 and the amendments made thereby, which had amended this section) applicable in respect of decedents dying after Dec. 31, 1976, and except for certain elections, this title to be applied as if those repealed provisions had not been enacted, see section 401(b), (e) of Pub. L. 96–223, set out as a note under section 1023 of this title.
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, towhich such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as an Effective Date of 1980 Amendment note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -622,7 +622,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(D) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2),\(4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(D) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -638,7 +638,7 @@ Short Title.—This section may be cited as the 'Retirement-Straight Line Adjust
 
 "(b)
 
-Making of Election.—Any taxpayer who held retirement-straight line property on his 1956 adjustment date may elect to have this section apply. Such an election shall be made at such time and in such manner as the Secretary shall prescribe. Any election under this section shall be irrevocable and shall apply to all retirement-straight line property as hereinafter provided in this section (including such property for periods when held by predecessors of the taxpayer).
+Making of Election.—Any taxpayer who held retirement-straight line property on his 1956 adjustmentdate may elect to have this section apply. Such an election shall be made at such time and in such manner as the Secretary shall prescribe. Any election under this section shall be irrevocable and shall apply to all retirement-straight line property as hereinafter provided in this section (including such property for periods when held by predecessors of the taxpayer).
 
 "(c)
 
@@ -730,7 +730,7 @@ adjustment date.—The term '1956 adjustment date' means, in the case of any tax
 
 &emsp;"(5)
 
-Predecessor.—The term 'predecessor' means any person from whom property of a kind or class towhich this section refers was acquired, if the basis of such property is determined by reference to its basis in the hands of such person. Where a series of transfers of property has occurred and where in each instance the basis of the property was determined by reference to its basis in the hands of the prior holder, the term includes each such prior holder.
+Predecessor.—The term 'predecessor' means any person from whom property of a kind or class to which this section refers was acquired, if the basis of such property is determined by reference to its basis in the hands of such person. Where a series of transfers of property has occurred and where in each instance the basis of the property was determined by reference to its basis in the hands of the prior holder, the term includes each such prior holder.
 
 &emsp;"(6) The term 'Secretary' means the Secretary of the Treasury or his delegate.
 

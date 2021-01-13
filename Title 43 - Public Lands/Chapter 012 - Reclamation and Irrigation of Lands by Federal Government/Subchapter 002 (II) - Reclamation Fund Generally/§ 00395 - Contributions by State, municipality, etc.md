@@ -4,6 +4,8 @@ All moneys received after March 4, 1921, from any State, municipality, corporati
 
 (Mar. 4, 1921, ch. 161, 41 Stat. 1404.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation law, referred to in text, is identified in act Mar. 4, 1921, ch. 161, 41 Stat. 1402, under the heading "

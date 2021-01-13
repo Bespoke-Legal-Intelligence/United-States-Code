@@ -6,7 +6,7 @@ Upon receiving notice of intent regarding an eligible low-income housing project
 
 #### (1) Appraisers
 
-&emsp;The preservation value shall be determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the owner. The appraisals shall be conducted not later than 4 months after filing the notice of intent under section4102 of this title, and the owner shall submit to the Secretary the appraisal made by the owner's selected appraiser not later than 90 days after receipt of the notice under paragraph (2). If the 2 appraisers fail to agree on the preservation value, and the Secretary and the owner also fail to agree on the preservation value, the Secretary and the owner shall jointly select and jointly compensate a third appraiser, whose appraisal shall be binding on the parties.
+&emsp;The preservation value shall be determined by 2 independent appraisers, one of whom shall be selected by the Secretary and one of whom shall be selected by the owner. The appraisals shall be conducted not later than 4 months after filing the notice of intent under section 4102 of this title, and the owner shall submit to the Secretary the appraisal made by the owner's selected appraiser not later than 90 days after receipt of the notice under paragraph (2). If the 2 appraisers fail to agree on the preservation value, and the Secretary and the owner also fail to agree on the preservation value, the Secretary and the owner shall jointly select and jointly compensate a third appraiser, whose appraisal shall be binding on the parties.
 
 #### (2) Notice
 
@@ -47,6 +47,8 @@ The Secretary shall provide written guidelines for appraisals of preservation va
 &emsp;In the case of preservation value determined under subsection (b)(2), the guidelines shall assume conversion of the housing to highest and best use for the property and shall establish methods for (A) determining any rehabilitation expenditures that would be necessary to convert the housing to such use, and (B) assessing other costs that the owner could reasonably be expected to incur if the owner converted the property to its highest and best use.
 
 (Pub. L. 100–242, title II, §213, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4250; amended Pub. L. 102–550, title III, §302, Oct. 28, 1992, 106 Stat. 3763.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

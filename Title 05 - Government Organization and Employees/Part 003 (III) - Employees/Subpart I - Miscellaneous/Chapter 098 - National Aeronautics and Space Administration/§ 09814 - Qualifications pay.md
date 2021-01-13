@@ -30,6 +30,8 @@
 
 (Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 474.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.

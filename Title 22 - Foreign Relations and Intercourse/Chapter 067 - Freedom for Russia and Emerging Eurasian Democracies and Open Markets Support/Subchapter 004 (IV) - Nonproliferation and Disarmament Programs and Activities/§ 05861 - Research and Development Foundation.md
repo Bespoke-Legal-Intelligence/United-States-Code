@@ -56,6 +56,8 @@ In carrying out its purposes, the Foundation shall—
 
 (Pub. L. 102–511, title V, §511, Oct. 24, 1992, 106 Stat. 3345.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (d)(1), is subtitle E of title XIV of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2566, which is classified generally to subchapter IV (§5931) of chapter 68 of this title.

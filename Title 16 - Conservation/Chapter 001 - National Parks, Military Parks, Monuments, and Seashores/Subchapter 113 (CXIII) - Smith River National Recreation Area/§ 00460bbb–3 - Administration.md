@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b), undertake the following:
+The Secretary shall administer the recreation area in accordance with this subchapter and thelaws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b), undertake the following:
 
 &emsp;(1) Provide for a broad range of recreation uses and provide recreational and interpretive services and facilities (including trails and campgrounds) for the public.
 
@@ -52,7 +52,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 &emsp;(G) The management emphasis for the prescribed timber management area shall be on providing a sustained yield of wood products while maintaining biological and ecological diversity.
 
-&emsp;(H) The management of the Siskiyou Wilderness management area shall be pursuant tothe provisions of the Wilderness Act (16 U.S.C. 1131 et seq.). The Gasquet-Orleans Road corridor between the eastern edge of section 36, T. 14 N., R. 3 E, and the corridor's eastern terminus in the middle of section 26, T. 14 N., R. 4 E. shall be added to the Siskiyou Wilderness.
+&emsp;(H) The management of the Siskiyou Wilderness management area shall be pursuant to the provisions of the Wilderness Act (16 U.S.C. 1131 et seq.). The Gasquet-Orleans Road corridor between the eastern edge of section 36, T. 14 N., R. 3 E, and the corridor's eastern terminus in the middle of section 26, T. 14 N., R. 4 E. shall be added to the Siskiyou Wilderness.
 
 #### (c) Wild and scenic rivers
 

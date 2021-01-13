@@ -22,5 +22,5 @@ This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 11
 
 All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget were transferred to the President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget.
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 

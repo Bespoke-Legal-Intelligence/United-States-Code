@@ -16,6 +16,8 @@ Historical and Revision Notes
 
 Section 4106 provides a civil penalty of $100 for a violation of this chapter or a regulation under this chapter. The vessel also is liable in rem.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–540 substituted "not more than $5,000" for "$100".

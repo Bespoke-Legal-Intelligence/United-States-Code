@@ -104,6 +104,8 @@ For purposes of this section, and sections 3415 and 3417 of this title insofar a
 
 (Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, §374(a), Dec. 13, 2003, 117 Stat. 2628; Pub. L. 109–177, title I, §116(d), (e), title VI, §605(e)(1), Mar. 9, 2006, 120 Stat. 215, 216, 255; Pub. L. 109–178, §4(d), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§501(b), 502(b), 503(b), June 2, 2015, 129 Stat. 282, 284, 290.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734.
@@ -124,7 +126,7 @@ Subsecs. (d), (e). Pub. L. 114–23, §503(b), added subsec. (d) and redesignate
 
 Subsec. (a)(3). Pub. L. 109–177, §116(d), which directed the general amendment of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: "No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that a Government authority described in paragraph (1) has sought or obtained access to a customer's financial records."
 
-Subsec. (a)(3)(D). Pub. L. 109–178, §4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was madeprior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance."
+Subsec. (a)(3)(D). Pub. L. 109–178, §4(d)(1), which directed the general amendment of subsec. (a)(3)(D) of section 1114(a)(3) of the Right to Financial Privacy Act, was executed to subsec. (a)(3)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "At the request of the authorized Government agency or the Secret Service, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency or the Secret Service the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance."
 
 Subsec. (a)(5)(D). Pub. L. 109–177, §116(e), which directed the general amendment of section 1114(a)(5)(D) of the Right to Financial Privacy Act, was executed to subsec. (a)(5)(D) of this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress. Prior to amendment, subpar. (D) read as follows: "No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph."
 
@@ -141,6 +143,8 @@ Subsec. (a)(5)(A). Pub. L. 107–56, §505(b), inserted "in a position not lower
 <b>1986</b>—Subsec. (a)(5). Pub. L. 99–569 added par. (5).
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–320 struck out "of" after "financial institution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

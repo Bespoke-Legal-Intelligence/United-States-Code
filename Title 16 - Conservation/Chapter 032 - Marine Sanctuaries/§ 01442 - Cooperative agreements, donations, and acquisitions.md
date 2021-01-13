@@ -24,7 +24,7 @@ The Secretary may, whenever appropriate, enter into an agreement with a State or
 
 Notwithstanding any other provision of law that prohibits a Federal agency from receiving assistance, the Secretary may apply for, accept, and use grants from other Federal agencies, States, local governments, regional agencies, interstate agencies, foundations, or other persons, to carry out the purposes and policies of this chapter.
 
-(Pub. L. 92–532, title III, §311, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §2109, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 104–283, §9(d), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §12, Nov. 13, 2000, 114 Stat. 2389.)
+(Pub. L. 92–532, title III, §311, as added Pub. L. 100–627, title II, §203(3), Nov. 7, 1988, 102 Stat.3215; amended Pub. L. 102–587, title II, §2109, Nov. 4, 1992, 106 Stat. 5045; Pub. L. 104–283, §9(d), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §12, Nov. 13, 2000, 114 Stat. 2389.)
 
 #### Amendments
 

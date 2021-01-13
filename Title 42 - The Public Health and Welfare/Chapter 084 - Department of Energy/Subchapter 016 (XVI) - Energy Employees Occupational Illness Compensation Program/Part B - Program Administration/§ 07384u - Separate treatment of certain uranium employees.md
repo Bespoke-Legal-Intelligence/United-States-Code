@@ -18,7 +18,7 @@ The compensation provided under this section and the compensation provided under
 
 #### (e) Payments in the case of deceased persons
 
-(1) In the case of a covered employee who is deceased at the time of payment of compensation under this section, whether or not thedeath is the result of the covered employee's occupational illness, such payment may be made only as follows:
+(1) In the case of a covered employee who is deceased at the time of payment of compensation under this section, whether or not the death is the result of the covered employee's occupational illness, such payment may be made only as follows:
 
 &emsp;(A) If the covered employee is survived by a spouse who is living at the time of payment, such payment shall be made to such surviving spouse.
 

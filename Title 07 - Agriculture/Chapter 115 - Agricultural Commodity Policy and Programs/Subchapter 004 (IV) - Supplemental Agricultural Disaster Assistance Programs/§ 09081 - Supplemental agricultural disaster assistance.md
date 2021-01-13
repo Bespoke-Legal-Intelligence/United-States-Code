@@ -110,7 +110,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "covered livestock" means livestock of an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "covered livestock" means livestockof an eligible livestock producer that, during the 60 days prior to the beginning date of a qualifying drought or fire condition, as determined by the Secretary, the eligible livestock producer—
 
 &emsp;&emsp;&emsp;&emsp;(I) owned;
 

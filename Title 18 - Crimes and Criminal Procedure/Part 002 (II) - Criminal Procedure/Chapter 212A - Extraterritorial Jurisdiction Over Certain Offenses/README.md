@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–316, §2(a)(1), (b)(2), Dec. 16, 2016, 130 Stat. 1593, 1594, struck out "TRAFFICKING IN PERSONS" before "OFFENSES" in chapter heading and added item 3273.

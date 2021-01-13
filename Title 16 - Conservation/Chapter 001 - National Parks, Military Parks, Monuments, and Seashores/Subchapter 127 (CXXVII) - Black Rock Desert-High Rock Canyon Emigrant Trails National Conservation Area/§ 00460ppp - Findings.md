@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The areas of northwestern Nevada known as the Black Rock Desert and High Rock Canyon contain and surround the last nationally significant, untouched segments of the historic California emigrant Trails,<sup>1</sup> including wagon ruts, historic inscriptions, and a wilderness landscape largely unchanged since the days of the pioneers.
+&emsp;(1) The areas of northwestern Nevada known as the Black Rock Desert and High Rock Canyon contain and surround the last nationally significant, untouched segments of the historic California emigrant Trails,<sup>1</sup> includingwagon ruts, historic inscriptions, and a wilderness landscape largely unchanged since the days of the pioneers.
 
 &emsp;(2) The relative absence of development in the Black Rock Desert and high <sup>2</sup> Rock Canyon areas from emigrant times to the present day offers a unique opportunity to capture the terrain, sights, and conditions of the overland trails as they were experienced by the emigrants and to make available to both present and future generations of Americans the opportunity of experiencing emigrant conditions in an unaltered setting.
 

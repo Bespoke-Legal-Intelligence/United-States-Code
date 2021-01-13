@@ -56,7 +56,7 @@ In general.—Except as provided in subclause (II), the duties of a Chief Inform
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Non-major information technology investments.—For a contract or agreement for a non-major information technology investment, as defined in the annual information technology capital planning guidance of the Office of Management and Budget, the Chief Information Officer of a covered agency other than the Department of Defense may delegate the approval of the contract or agreement under clause (i) to an individual who reports directly to the Chief Information Officer.
+Non-major information technology investments.—For a contract or agreement for a non-major information technology investment, as defined in the annual information technology capital planning guidance of the Office of Management and Budget, the Chief Information Officer of a covered agency other than the Department of Defense maydelegate the approval of the contract or agreement under clause (i) to an individual who reports directly to the Chief Information Officer.
 
 &emsp;(2)
 
@@ -128,6 +128,8 @@ Inclusion in other reports.—The reports required under subparagraph (A) may be
 
 (Added and amended Pub. L. 113–291, div. A, title VIII, §§831(a), 833, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3438, 3442, 3469; Pub. L. 115–88, §3, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, title VIII, §819(b), title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1464, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(iii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title IX, §902(87), Dec. 20, 2019, 133 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
@@ -139,6 +141,8 @@ Inclusion in other reports.—The reports required under subparagraph (A) may be
 Subsec. (d)(6). Pub. L. 115–88, §3(2), and Pub. L. 115–91, §819(b)(2), amended subsec. (d) identically, striking out par. (6). Text read as follows: "This subsection shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015."
 
 <b>2014</b>—Subsec. (c). Pub. L. 113–291, §833, added subsec. (c) relating to information technology portfolio, program, and resource reviews.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

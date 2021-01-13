@@ -18,11 +18,13 @@
 
 #### senate report no. 95–989
 
-This section, derived in large part from current Bankruptcy Act section 60d \[section 96(d) of former title 11\], requires the debtor's attorney to file with the court a statement of the compensation paid or agreed to be paid to the attorney for services in contemplation of and in connection with the case, and the source ofthe compensation. Payments to a debtor's attorney provide serious potential for evasion of creditor protection provisions of the bankruptcy laws, and serious potential for overreaching by the debtor's attorney, and should be subject to careful scrutiny.
+This section, derived in large part from current Bankruptcy Act section 60d \[section 96(d) of former title 11\], requires the debtor's attorney to file with the court a statement of the compensation paid or agreed to be paid to the attorney for services in contemplation of and in connection with the case, and the source of the compensation. Payments to a debtor's attorney provide serious potential for evasion of creditor protection provisions of the bankruptcy laws, and serious potential for overreaching by the debtor's attorney, and should be subject to careful scrutiny.
 
 Subsection (b) permits the court to deny compensation to the attorney, to cancel an agreement to pay compensation, or to order the return of compensation paid, if the compensation exceeds the reasonable value of the services provided. The return of payments already made are generally to the trustee for the benefit of the estate. However, if the property would not have come into the estate in any event, the court will order it returned to the entity that made the payment.
 
 The Bankruptcy Commission recommended a provision similar to this that would have also permitted an examination of the debtor's transactions with insiders. S. 236, 94th Cong., 1st sess., sec. 4–311(b) (1975). Its exclusion here is to permit it to be dealt with by the Rules of Bankruptcy Procedure. It is not intended that the provision be deleted entirely, only that the flexibility of the rules is more appropriate for such evidentiary matters.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ The Bankruptcy Commission recommended a provision similar to this that would hav
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §432(a), substituted "or" for "and" after "in contemplation of".
 
 Subsec. (b)(1). Pub. L. 98–353, §432(b), substituted "estate" for "trustee".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

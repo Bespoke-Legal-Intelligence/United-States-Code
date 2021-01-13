@@ -12,7 +12,7 @@
 
 (6) In this section:
 
-&emsp;(A) The term "aviation service" means service performed by an officer (except a flight surgeon or other medical officer) while holdingan aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+&emsp;(A) The term "aviation service" means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
 &emsp;(B) The term "operational flying duty" means flying performed under competent orders by rated or designated members while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
@@ -57,6 +57,8 @@
 
 (Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787; Pub. L. 105–261, div. A, title VI, §615(a)(1), (b), (c)(1), (d), Oct. 17, 1998, 112 Stat. 2040, 2041; Pub. L. 106–65, div. A, title VI, §614(a), Oct. 5, 1999, 113 Stat. 651; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title X, §1084(e)(1), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–364, div. A, title X, §1046(a), Oct. 17, 2006, 120 Stat. 2393; Pub. L. 115–232, div. A, title VIII, §809(m)(2), Aug. 13, 2018, 132 Stat. 1843.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(6)(D). Pub. L. 115–232 substituted "section 8411 of title 10" for "section 6911 of title 10".
@@ -69,7 +71,7 @@
 
 <b>1999</b>—Subsec. (b)(4). Pub. L. 106–65 added par. (4).
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted "22 years of aviation service of the officer" for "22 years of the officer's service as an officer" and "25years of aviation service" for "25 years of service as an officer (as computed under section 205 of this title)".
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted "22 years of aviation service of the officer" for "22 years of the officer's service as an officer" and "25 years of aviation service" for "25 years of service as an officer (as computed under section 205 of this title)".
 
 Subsec. (a)(6). Pub. L. 105–261, §615(a)(1), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
@@ -144,6 +146,8 @@ Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted "$125", "$138", and "$2
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–273 substituted "October" for "July".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
@@ -158,7 +162,7 @@ Pub. L. 106–65, div. A, title VI, §614(b), Oct. 5, 1999, 113 Stat. 651, provi
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §615(c), Nov. 18, 1997, 111 Stat. 1787, which provided that the amendmentsmade by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to apply with respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
+Pub. L. 105–85, div. A, title VI, §615(c), Nov. 18, 1997, 111 Stat. 1787, which provided that the amendments made by section 615(a) of Pub. L. 105–85 to this section were to take effect on Jan. 1, 1999, and were to applywith respect to months beginning on or after that date, was repealed by Pub. L. 105–261, div. A, title VI, §615(d), Oct. 17, 1998, 112 Stat. 2041.
 
 #### Effective Date of 1993 Amendment
 
@@ -220,13 +224,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Pub. L. 93–294, §6, May 31, 1974, 88 Stat. 180, provided that: "This Act \[enacting this section, amending section 301 of this title, and enacting provisions set out as notes under this section\] becomes effective on the first day of the first month after enactment \[May 31, 1974\]."
 
-#### Delegation of Functions
-
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No.13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
-
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973
 
-Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
+Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act \[enacting this section and amending section 301 of this title\], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective dateof this Act \[June 1, 1974\], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
 
 &emsp;"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
 
@@ -243,6 +243,12 @@ Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstandi
 #### Annual Report by Department of Defense
 
 Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly report containing such data as necessary to monitor the progress of this bill \[Pub. L. 93–294\] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
 
 #### Executive Order No. 11800
 

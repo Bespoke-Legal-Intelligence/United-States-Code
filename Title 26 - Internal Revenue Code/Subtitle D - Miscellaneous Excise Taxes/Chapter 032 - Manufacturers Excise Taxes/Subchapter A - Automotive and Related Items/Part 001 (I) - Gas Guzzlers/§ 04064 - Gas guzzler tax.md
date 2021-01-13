@@ -77,7 +77,7 @@ For purposes of this section—
 
 #### (7) Fuel
 
-&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation withthe Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
+&emsp;The term "fuel" means gasoline and diesel fuel. The Secretary (after consultation with the Secretary of Transportation) may, by regulation, include any product of petroleum or natural gas within the meaning of such term if he determines that such inclusion is consistent with the need of the Nation to conserve energy.
 
 #### (c) Determination of fuel economy
 

@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(ii) data, research, or other information used to inform the determination to establish the goal.
 
-&emsp;&emsp;(K) A description of the current prevalence of illicit drug use in the United States, including both the availability of illicit drugs and the prevalence of substance use disorders.
+&emsp;&emsp;(K) A description of the current prevalence of illicit drug use in the United States, including both the availability of illicit drugsand the prevalence of substance use disorders.
 
 &emsp;&emsp;(L) Such other statistical data and information as the Director considers appropriate to demonstrate and assess trends relating to illicit drug use, the effects and consequences of illicit drug use (including the effects on children), supply reduction, demand reduction, drug-related law enforcement, and the implementation of the National Drug Control Strategy.
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) be designed to promote, and not hinder, legitimate trade and travel; and
 
-&emsp;&emsp;&emsp;&emsp;(V) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law,<sup>1</sup> enforcementauthorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
+&emsp;&emsp;&emsp;&emsp;(V) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law,<sup>1</sup> enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
 
 #### (ii) Specific content related to cross-border Indian reservations
 
@@ -346,6 +346,8 @@ A description of any modifications made during the preceding year to the nationa
 
 (Pub. L. 105–277, div. C, title VII, §§706, 715, Oct. 21, 1998, 112 Stat. 2681–681, 2681–693; Pub. L. 109–469, title II, §§201, 202, title VI, §602, Dec. 29, 2006, 120 Stat. 3513, 3517, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8221(a), Oct. 24, 2018, 132 Stat. 4110, 4134; Pub. L. 116–74, §2(a)(1), (2), (c)(1)(B), (d), Nov. 27, 2019, 133 Stat. 1155, 1158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
@@ -388,9 +390,11 @@ Subsecs. (c), (d). Pub. L. 109–469, §202, added subsecs. (c) and (d).
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
-Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
+Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in the enactment of subtitle K oftitle VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 

@@ -52,7 +52,7 @@
 
 (d) In order to carry out this section, the President shall—
 
-&emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection\(e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
+&emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection (e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
 
 &emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
@@ -82,7 +82,7 @@
 
 (2) The pay agent shall—
 
-&emsp;(A) provide for meetings with the Council and give thorough consideration to the views and recommendations of the Council and the individual views and recommendations, if any, of the members of the Council regarding—
+&emsp;(A) provide for meetings with the Council and give thorough consideration to the views and recommendations of the Council and theindividual views and recommendations, if any, of the members of the Council regarding—
 
 &emsp;&emsp;(i) the establishment or modification of pay localities;
 
@@ -104,7 +104,7 @@
 
 (2)(A) The establishment or modification of any such boundaries shall be effected by regulations which, notwithstanding subsection (a)(2) of section 553, shall be promulgated in accordance with the notice and comment requirements of such section.
 
-(B) Judicial review of any regulation under this subsection shall be limited to whether ornot it was promulgated in accordance with the requirements referred to in subparagraph (A).
+(B) Judicial review of any regulation under this subsection shall be limited to whether or not it was promulgated in accordance with the requirements referred to in subparagraph (A).
 
 (g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
@@ -148,7 +148,7 @@
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1),all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
@@ -166,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub.L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -185,6 +185,8 @@ Oct. 11, 1962, Pub. L. 87–793, §505, 76 Stat. 842.
 The words "agencies" and "regulations" are substituted for "departments" and "rules", respectively.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -280,6 +282,8 @@ Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) gener
 
 <b>1970</b>—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 For effective date of amendment by Pub. L. 111–84, see section 1919 of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note below.
@@ -318,11 +322,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
-
-#### Delegation of Functions
-
-For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, §2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Non-Foreign Area Retirement Equity Assurance
 
@@ -368,7 +368,7 @@ Statutory authority.—The authority referred to under paragraph (1), \[sic\] is
 
 "(c)
 
-Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may betemporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
+Temporary Adjustment.—Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
 
 #### "SEC. 1914. TRANSITION SCHEDULE FOR LOCALITY-BASED COMPARABILITY PAYMENTS.
 
@@ -448,7 +448,7 @@ Definition.—In this subsection, the term 'covered employee' means—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) was employed by the Transportation Security Administration of the Department of Homeland Security and was eligible to be paid an allowance based on section 5941 of title 5, United States Code; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) was eligible to be paid under any other authority a cost-of-living allowance that isequivalent to the cost-of-living allowance under section 5941 of title 5, United States Code; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) was eligible to be paid under any other authority a cost-of-living allowance that is equivalent to the cost-of-living allowance under section 5941 of title 5, United States Code; or
 
 &emsp;&emsp;&emsp;"(ii) on or after the date of enactment of this Act \[Oct. 28, 2009\]—
 
@@ -586,7 +586,7 @@ In General.—The Director of the Office of Personnel Management shall prescribe
 
 &emsp;"(2) rules for adjusting rates of basic pay for employees in pay systems administered by the Office of Personnel Management when such employees are not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, without regard to otherwise applicable statutory pay limitations during the transition period described in section 1914 ending on the first day of the first pay period beginning on or after January 1, 2012; and
 
-&emsp;"(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on thefirst day of the first pay period beginning on or after January 1, 2012.
+&emsp;"(3) rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2012.
 
 "(b)
 
@@ -656,7 +656,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(g)(1) No later than May 1, 2001, the President's pay agent shall prepare and submit to the committees specified in subsection (f)(1) a report relating to the ongoing efforts of the Office of Personnel Management, the Office of Management and Budget, and the Bureau of Labor Statistics to revise the methodology currently being used by the Bureau of Labor Statistics in performing its surveys under section 5304 of title 5, United States Code.
 
-"(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding thecurrent methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
+"(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding the current methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
 
 "(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinion of the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
 
@@ -684,7 +684,7 @@ Section 8(b) of Pub. L. 102–378 provided that: "Notwithstanding section 5304 o
 
 #### Interim Geographic Adjustments
 
-Section 529 \[title III, §302\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, §3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that:
+Pub. L. 101–509, Nov. 5, 1990, 104 Stat. 1427, 1462, as amended by Pub. L. 102–378, §3(4), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–89, §3(b)(2), Sept. 30, 1993, 107 Stat. 982, provided that:
 
 "(a)
 
@@ -737,6 +737,12 @@ Effective Date.—This section shall take effect on the date of enactment of thi
 \[Amendment by Pub. L. 103–89 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as an Effective Date of 1993 Amendment note under section 3372 of this title.\]
 
 \[Amendment by Pub. L. 102–378 to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For designation of agents of President under subsecs. (d)(1) and (h) of this section, see Ex. Ord. No. 12748, §2(a), Feb. 1, 1991, 56 F.R. 4521, eff. Feb. 3, 1991, set out as a note under section 5301 of this title.
 
 Interim geographic adjustments pursuant to section 529 \[title III, §302\] of Pub. L. 101–509, set out above, were provided by the following executive orders, formerly set out as notes under section 5332 of this title, effective on the first day of first pay period beginning on or after the effective date shown:
 

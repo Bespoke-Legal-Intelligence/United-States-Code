@@ -16,7 +16,7 @@ Eligible entity.—The term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(i) has agreed to comply with the conditions set forth in section 305104 of this title and to have the conditions recorded with the deed of title to the historic light station; and
 
-&emsp;&emsp;&emsp;(ii) is financially able to maintain the historic light station in accordance with the conditions set forth in section 305104 of this title.
+&emsp;&emsp;&emsp;(ii) is financially able to maintain the historic light station in accordance withthe conditions set forth in section 305104 of this title.
 
 &emsp;(3)
 

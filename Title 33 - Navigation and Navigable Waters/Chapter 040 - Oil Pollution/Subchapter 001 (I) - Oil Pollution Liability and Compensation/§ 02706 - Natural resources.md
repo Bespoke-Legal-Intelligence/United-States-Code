@@ -32,7 +32,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 #### (5) Foreign trustees
 
-&emsp;The head of any foreign government may designate the trustee who shall act on behalfof that government as trustee for natural resources under this Act.
+&emsp;The head of any foreign government may designate the trustee who shall act on behalf of that government as trustee for natural resources under this Act.
 
 #### (c) Functions of trustees
 
@@ -110,17 +110,17 @@ Sums recovered under this Act by a Federal, State, Indian, or foreign trustee fo
 
 #### (g) Compliance
 
-Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
+Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which theperson resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
 
 (Pub. L. 101–380, title I, §1006, Aug. 18, 1990, 104 Stat. 494.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug.18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-#### Delegation of Functions
-
-Functions of President under subsec. (b)(3) and (4) of this section delegated to Administrator of Environmental Protection Agency by section 8(c) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under section 1321 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### NOAA Oil and Hazardous Substance Spill Cost Reimbursement
 
@@ -155,4 +155,10 @@ Definitions.—For purposes of this section—
 #### Damage Assessment and Restoration Revolving Fund; Deposits; Availability; Transfer
 
 Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: "For contingency planning, response and natural resource damage assessment and restoration activities, pursuant to the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\], as amended \[42 U.S.C. 9601 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], the Marine Protection, Research\[,\] and Sanctuaries Act \[of 1972\], as amended \[16 U.S.C. 1431et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], and the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], $5,000,000 to remain available until expended: <i>Provided</i>, That notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party or governmental entity for natural resource damage assessment, response or restoration activities conducted or to be conducted by the National Oceanic and Atmospheric Administration as a result of any injury to the marine environment and/or resources for which the National Oceanic and Atmospheric Administration acts as trustee of said marine environment and/or resources, shall be deposited in the Damage Assessment and Restoration Revolving Fund and said funds so deposited shall remain available until expended: <i>Provided further</i>, That for purposes of obligation and expenditure in fiscal year 1991 and thereafter, sums available in the Damage Assessment and Restoration Revolving Fund may be transferred, upon the approval of the Secretary of Commerce or his delegate, to the Operations, Research, and Facilities appropriation of the National Oceanic and Atmospheric Administration."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under subsec. (b)(3) and (4) of this section delegated to Administrator of Environmental Protection Agency by section 8(c) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under section 1321 of this title.
 

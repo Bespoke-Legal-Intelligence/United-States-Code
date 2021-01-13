@@ -24,13 +24,15 @@ Any entity that contributes materials or services under subsection (a) shall not
 
 #### (d) Report
 
-Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report that includes—
+Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate andthe Committee on Transportation and Infrastructure of the House of Representatives an annual report that includes—
 
 &emsp;(1) a description of the activities undertaken, including the costs associated with the activities; and
 
 &emsp;(2) a comprehensive description of how the activities are necessary for maintaining a safe and reliable water resources project.
 
 (Pub. L. 113–121, title I, §1024, June 10, 2014, 128 Stat. 1229; Pub. L. 114–322, title I, §1153, Dec. 16, 2016, 130 Stat. 1663.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -43,6 +45,8 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 Subsec. (c). Pub. L. 114–322, §1153(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 114–322, §1153(2), (4), redesignated subsec. (c) as (d) and, in introductory provisions, substituted "Not later than February 1 of each year after the first fiscal year in which materials, services, or funds are accepted under this section," for "Not later than 60 days after initiating an activity under this section," and "an annual report" for "a report".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

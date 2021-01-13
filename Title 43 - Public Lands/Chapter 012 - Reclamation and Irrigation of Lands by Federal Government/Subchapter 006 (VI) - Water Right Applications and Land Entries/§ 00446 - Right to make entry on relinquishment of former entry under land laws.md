@@ -4,6 +4,8 @@ Wherever the Secretary of the Interior, in carrying out the provisions of the re
 
 (June 27, 1906, ch. 3559, §2, 34 Stat. 519.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation Act, referred to in text, is identified in section 434 of this title.

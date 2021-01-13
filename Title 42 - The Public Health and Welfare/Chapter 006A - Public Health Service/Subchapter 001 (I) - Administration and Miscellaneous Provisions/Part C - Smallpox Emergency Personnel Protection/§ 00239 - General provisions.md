@@ -52,13 +52,13 @@ For purposes of this part:
 
 #### (7) Smallpox emergency response plan
 
-&emsp;The term "smallpox emergency response plan" or "plan" means a response plan detailing actions to be taken in preparation for apossible smallpox-related emergency during the period prior to the identification of an active case of smallpox either within or outside the United States.
+&emsp;The term "smallpox emergency response plan" or "plan" means a response plan detailing actions to be taken in preparation for a possible smallpox-related emergency during the period prior to the identification of an active case of smallpox either within or outside the United States.
 
 #### (b) Voluntary program
 
 The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to vaccinate individuals that is approved by the Secretary establishes procedures to ensure, consistent with the Declaration and any applicable guidelines of the Centers for Disease Control and Prevention, that—
 
-&emsp;(1) potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part;
+&emsp;(1) potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability ofpotential benefits and compensation under this part;
 
 &emsp;(2) there is voluntary screening provided to potential participants that can identify health conditions relevant to contraindications; and
 

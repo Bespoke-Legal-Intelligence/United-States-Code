@@ -26,6 +26,8 @@ A State that received a grant under subsection (a) is eligible to receive additi
 
 (Pub. L. 103–322, title II, §20103, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13703 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -34,7 +36,9 @@ Section was formerly classified to section 13703 of Title 42, The Public Health 
 
 A prior section 20103 of Pub. L. 103–322, title II, Sept. 13, 1994, 108 Stat. 1817, related to Violent Offender Incarceration Grants prior to the general amendment of subtitle A of title II of Pub. L. 103–322 by Pub. L. 104–134.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Controlled Substance Testing and Intervention; Availability of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: "That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuant to section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[34 U.S.C.12103, 12104\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General".
+Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: "That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuant to section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[34 U.S.C. 12103, 12104\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General".
 

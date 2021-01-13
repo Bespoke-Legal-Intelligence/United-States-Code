@@ -9,6 +9,10 @@
 | [3003\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003003%20-%20Authorized%20number%20on%20the%20active%20list.md) | Authorized number on the active list. |
 | [3004\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003004%20-%20Strength%20and%20distribution%20in%20grade.md) | Strength and distribution in grade. |
 | [3005\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003005%20-%20Number%20of%20authorized%20commissioned%20officers.md) | Number of authorized commissioned officers. |
+| [3006\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003006%20-%20Obligated%20service%20requirement.md) | Obligated service requirement. |
+| [3007\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003007%20-%20Training%20and%20physical%20fitness.md) | Training and physical fitness. |
+| [3008\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003008%20-%20Aviation%20accession%20training%20programs.md) | Aviation accession training programs. |
+| [3009\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003009%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md) | Use of recruiting materials for public relations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,7 +20,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3021\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003021%20-%20Original%20appointments.md) | Original appointments. |
+| [3021\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003021%20-%20Original%20appointments%20and%20reappointments.md) | Original appointments and reappointments. |
 | [3022\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003022%20-%20Personnel%20boards.md) | Personnel boards. |
 | [3023\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003023%20-%20Promotion%20of%20ensigns%20to%20grade%20of%20lieutenant%20%28junior%20grade%29.md) | Promotion of ensigns to grade of lieutenant (junior grade). |
 | [3024\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003024%20-%20Promotion%20by%20selection%20to%20permanent%20grades%20above%20lieutenant%20%28junior%20grade%29.md) | Promotion by selection to permanent grades above lieutenant (junior grade). |
@@ -24,11 +28,14 @@
 | [3026\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003026%20-%20Appointments%20and%20promotions%20to%20permanent%20grades.md) | Appointments and promotions to permanent grades. |
 | [3027\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003027%20-%20General%20qualification%20of%20officers%20for%20promotion%20to%20higher%20permanent%20grade.md) | General qualification of officers for promotion to higher permanent grade. |
 | [3028\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003028%20-%20Positions%20of%20importance%20and%20responsibility.md) | Positions of importance and responsibility. |
-| [3029\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003029%20-%20Temporary%20appointments%20and%20promotions%20generally.md) | Temporary appointments and promotions generally. |
+| [3029\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003029%20-%20Temporary%20appointments.md) | Temporary appointments. |
 | [3030\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003030%20-%20Temporary%20appointment%20or%20advancement%20of%20commissioned%20officers%20in%20time%20of%20war%20or%20national%20emergency.md) | Temporary appointment or advancement of commissioned officers in time of war or national emergency. |
 | [3031\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003031%20-%20Pay%20and%20allowances%3B%20date%20of%20acceptance%20of%20promotion.md) | Pay and allowances; date of acceptance of promotion. |
 | [3032\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003032%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md) | Service credit as deck officer or junior engineer for promotion purposes. |
 | [3033\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003033%20-%20Suspension%20during%20war%20or%20emergency.md) | Suspension during war or emergency. |
+| [3034\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003034%20-%20Officer%20candidates.md) | Officer candidates. |
+| [3035\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003035%20-%20Procurement%20of%20personnel.md) | Procurement of personnel. |
+| [3036\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003036%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20officers.md) | Career flexibility to enhance retention of officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,11 +70,17 @@
 |  |  |
 | :--- | ---: |
 | [3071\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003071%20-%20Applicability%20of%20certain%20provisions%20of%20title%2010.md) | Applicability of certain provisions of title 10. |
+| [3071a.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003071a%20-%20Applicability%20of%20certain%20provisions%20of%20title%2037.md) | Applicability of certain provisions of title 37. |
 | [3072\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003072%20-%20Eligibility%20for%20veterans%20benefits%20and%20other%20rights%2C%20privileges%2C%20immunities%2C%20and%20benefits%20under%20certain%20provisions%20of%20law.md) | Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law. |
 | [3073\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003073%20-%20Medical%20and%20dental%20care.md) | Medical and dental care. |
 | [3074\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003074%20-%20Commissary%20privileges.md) | Commissary privileges. |
 | [3075\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003075%20-%20Authority%20to%20use%20appropriated%20funds%20for%20transportation%20and%20reimbursement%20of%20certain%20items.md) | Authority to use appropriated funds for transportation and reimbursement of certain items. |
 | [3076\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003076%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
+| [3077\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003077%20-%20Education%20loan%20repayment%20program.md) | Education loan repayment program. |
+| [3078\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003078%20-%20Interest%20payment%20program.md) | Interest payment program. |
+| [3079\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003079%20-%20Student%20pre-commissioning%20education%20assistance%20program.md) | Student pre-commissioning education assistance program. |
+| 3079–1. | Limitation on educational assistance. |
+| [3079a.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003079a%20-%20Treatment%20of%20commission%20in%20commissioned%20officer%20corps%20as%20employment%20in%20Administration%20for%20purposes%20of%20certain%20hiring%20decisions.md) | Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

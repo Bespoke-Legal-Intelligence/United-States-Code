@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out under the Initiative a program to support research neededto bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
+&emsp;The Secretary shall carry out under the Initiative a program to support research needed to bridge scientific barriers to, and discover knowledge relevant to, artificial photosynthetic systems.
 
 #### (2) Activities
 

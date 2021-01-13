@@ -10,7 +10,7 @@ A guarantee of a loan may be made under this chapter only if—
 
 #### (b) Term of loans; renewal
 
-Loans guaranteed under this chapter shall be payable in not more than five years, but may be renewable for not more than an additional three years.
+Loans guaranteed under this chapter shall be payable in not more than five years, but may berenewable for not more than an additional three years.
 
 #### (c) Interest rates, determination; guarantee fee
 

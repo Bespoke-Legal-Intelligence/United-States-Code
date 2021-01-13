@@ -4,9 +4,13 @@ The Farm Credit Administration shall be an independent agency in the executive b
 
 (Pub. L. 92–181, title V, §5.7, Dec. 10, 1971, 85 Stat. 617; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–205 amended section generally, substituting "Farm Credit Administration Board and such other personnel" for "Federal Farm Credit Board, the Governor of the Farm Credit Administration, and such other personnel".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 
@@ -24,5 +28,5 @@ Pub. L. 99–205, title IV, §402, Dec. 23, 1985, 99 Stat. 1709, provided that:
 
 "(c) In carrying out the duties and functions specified in subsections (a) and (b), the Governor of the Farm Credit Administration shall serve at the pleasure of the President.
 
-"(d) All regulations of the Farm Credit Administration or the institutions of the System, and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Farm Credit Act of 1971 \[this chapter\],before the date of enactment of this Act \[Dec. 23, 1985\], shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act \[Pub. L. 99–205, see Short Title of 1985 Amendment note set out under section 2001 of this title\]."
+"(d) All regulations of the Farm Credit Administration or the institutions of the System, and all charters, bylaws, resolutions, stock classifications, and policy directives issued or approved by the Farm Credit Administration, and all elections held and appointments made under the Farm Credit Act of 1971 \[this chapter\], before the date of enactment of this Act \[Dec. 23, 1985\], shall be continuing and remain valid until superseded, modified, or replaced under the authority of this Act \[Pub. L. 99–205, see Short Title of 1985 Amendment note set out under section 2001 of this title\]."
 

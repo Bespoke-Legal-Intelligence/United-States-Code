@@ -78,7 +78,7 @@ Pub. L. 107–110, §5, Jan. 8, 2002, 115 Stat. 1427, provided that:
 
 "(a)
 
-In General.—Except as otherwise provided in this Act \[see Tables for classification\], this Act, andthe amendments made by this Act, shall be effective upon the date of enactment of this Act \[Jan. 8, 2002\].
+In General.—Except as otherwise provided in this Act \[see Tables for classification\], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act \[Jan. 8, 2002\].
 
 "(b)
 
@@ -91,6 +91,10 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 "(d)
 
 Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
+
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–211, §1, Dec. 4, 2020, 134 Stat. 1017, provided that: "This Act \[enacting provisions set out as notes under sections 6393 and 7705 of this title\] may be cited as the 'Impact Aid Coronavirus Relief Act'."
 
 #### Short Title of 2019 Amendment
 
@@ -262,7 +266,7 @@ Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
 "(a)
 
-Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
+Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of thataward, except that no additional funds may be awarded after September 30, 2002.
 
 "(b)
 
@@ -314,7 +318,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(12) taking other steps that can help improve the quality of teaching and instruction in low-performing schools.
 
-(b) The Secretary shall, to the extent permitted by law, take whatever steps the Secretary finds necessary and appropriate to redirect the resources and technical assistance capability of the Department of Education ("Department") to assist States and localities in improving low-performing schools, and to ensure that the dissemination of research to help turn around low-performing schools is a priority of the Department.
+(b) The Secretary shall, to the extent permitted by law, take whatever steps the Secretary finds necessary and appropriate to redirect the resources and technical assistance capability of the Department of Education\("Department") to assist States and localities in improving low-performing schools, and to ensure that the dissemination of research to help turn around low-performing schools is a priority of the Department.
 
 Sec. 3. <i>School Improvement Report</i>. To monitor the progress of LEAs and schools in turning around failing schools, including those receiving grants from the School Improvement Fund, the Secretary shall prepare an annual School Improvement Report, to be published in September of each year, beginning in 2000. The report shall:
 

@@ -8,7 +8,7 @@ In furtherance of the High Plains Groundwater Demonstration Program Act of 1983 
 
 &emsp;(2) a description of methods for optimizing Bureau of Reclamation project operations to ameliorate adverse impacts on groundwater,<sup>1</sup> and
 
-&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department ofthe Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
+&emsp;(3) the Secretary's recommendations, along with the recommendations of the Governors of the affected States, concerning the establishment of a groundwater management and technical assistance program in the Department of the Interior in order to assist Federal and non-Federal entity development and implementation of groundwater management plans and activities.
 
 #### (b) Consultation with Governors
 
@@ -20,6 +20,8 @@ The report shall be submitted to the Committees on Appropriations and Natural Re
 
 (Pub. L. 102–575, title XVI, §1632, formerly §1616, Oct. 30, 1992, 106 Stat. 4668; Pub. L. 103–437, §16(a)(2), Nov. 2, 1994, 108 Stat. 4594; renumbered §1632 and amended Pub. L. 104–266, §2(a)(1), (b)(2), Oct. 9, 1996, 110 Stat. 3290, 3294.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The High Plains Groundwater Demonstration Program Act of 1983, referred to in subsec. (a), is Pub. L. 98–434, Sept. 28, 1984, 98 Stat. 1675, which is classified generally to sections 390g to 390g–8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 390g of this title and Tables.
@@ -29,6 +31,8 @@ The High Plains Groundwater Demonstration Program Act of 1983, referred to in su
 <b>1996</b>—Subsec. (c). Pub. L. 104–266, §2(b)(2), made technical amendment to reference in original act which appears in text as reference to section 390h–15 of this title.
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

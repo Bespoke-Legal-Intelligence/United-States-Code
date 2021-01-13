@@ -22,7 +22,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (4) Claim
 
-&emsp;The term "claim" means any right to payment, whether or not such right is reduced tojudgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+&emsp;The term "claim" means any right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
 
 #### (5) Company
 
@@ -112,11 +112,15 @@ For purpose of the definition of the term "financial company" under subsection (
 
 (Pub. L. 111–203, title II, §201, July 21, 2010, 124 Stat. 1442.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

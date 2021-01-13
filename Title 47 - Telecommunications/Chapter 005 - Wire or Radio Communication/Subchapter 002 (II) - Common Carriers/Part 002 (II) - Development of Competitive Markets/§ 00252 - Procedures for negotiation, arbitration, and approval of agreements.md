@@ -42,7 +42,7 @@
 
 #### (5) Refusal to negotiate
 
-&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in the presence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
+&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in thepresence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
 
 #### (c) Standards for arbitration
 
@@ -88,7 +88,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (3) Wholesale prices for telecommunications services
 
-&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determinewholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
+&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determine wholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
 
 #### (e) Approval by State commission
 
@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in anyproceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 
@@ -167,6 +167,8 @@ A local exchange carrier shall make available any interconnection, service, or n
 For purposes of this section, the term "incumbent local exchange carrier" has the meaning provided in section 251(h) of this title.
 
 (June 19, 1934, ch. 652, title II, §252, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 66.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

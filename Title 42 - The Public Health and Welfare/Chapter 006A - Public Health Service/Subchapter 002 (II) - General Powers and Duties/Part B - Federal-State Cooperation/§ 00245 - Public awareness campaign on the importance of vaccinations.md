@@ -1,0 +1,72 @@
+### §245. Public awareness campaign on the importance of vaccinations
+
+#### (a) In general
+
+The Secretary, acting through the Director of the Centers for Disease Control and Preventionand in coordination with other offices and agencies, as appropriate, shall award competitive grants or contracts to one or more public or private entities to carry out a national, evidence-based campaign to increase awareness and knowledge of the safety and effectiveness of vaccines for the prevention and control of diseases, combat misinformation about vaccines, and disseminate scientific and evidence-based vaccine-related information, with the goal of increasing rates of vaccination across all ages, as applicable, particularly in communities with low rates of vaccination, to reduce and eliminate vaccine-preventable diseases.
+
+#### (b) Consultation
+
+In carrying out the campaign under this section, the Secretary shall consult with appropriate public health and medical experts, including the National Academy of Medicine and medical and public health associations and nonprofit organizations, in the development, implementation, and evaluation of the evidence-based public awareness campaign.
+
+#### (c) Requirements
+
+The campaign under this section shall—
+
+&emsp;(1) be a nationwide, evidence-based media and public engagement initiative;
+
+&emsp;(2) include the development of resources for communities with low rates of vaccination, including culturally and linguistically appropriate resources, as applicable;
+
+&emsp;(3) include the dissemination of vaccine information and communication resources to public health departments, health care providers, and health care facilities, including such providers and facilities that provide prenatal and pediatric care;
+
+&emsp;(4) be complementary to, and coordinated with, any other Federal, State, local, or Tribal efforts, as appropriate; and
+
+&emsp;(5) assess the effectiveness of communication strategies to increase rates of vaccination.
+
+#### (d) Additional activities
+
+The campaign under this section may—
+
+&emsp;(1) include the use of television, radio, the internet, and other media and telecommunications technologies;
+
+&emsp;(2) include the use of in-person activities;
+
+&emsp;(3) be focused to address specific needs of communities and populations with low rates of vaccination; and
+
+&emsp;(4) include the dissemination of scientific and evidence-based vaccine-related information, such as—
+
+&emsp;&emsp;(A) advancements in evidence-based research related to diseases that may be prevented by vaccines and vaccine development;
+
+&emsp;&emsp;(B) information on vaccinations for individuals and communities, including individuals for whom vaccines are not recommended by the Advisory Committee for Immunization Practices, and the effects of low vaccination rates within a community on such individuals;
+
+&emsp;&emsp;(C) information on diseases that may be prevented by vaccines; and
+
+&emsp;&emsp;(D) information on vaccine safety and the systems in place to monitor vaccine safety.
+
+#### (e) Evaluation
+
+The Secretary shall—
+
+&emsp;(1) establish benchmarks and metrics to quantitatively measure and evaluate the awareness campaign under this section;
+
+&emsp;(2) conduct qualitative assessments regarding the awareness campaign under this section; and
+
+&emsp;(3) prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives an evaluation of the awareness campaign under this section.
+
+#### (f) Supplement not supplant
+
+Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities described in this section.
+
+#### (g) Authorization of appropriations
+
+There are authorized to be appropriated to carry out this section and subsections (k) and (n) of section 247b of this title, $15,000,000 for each of fiscal years 2021 through 2025.
+
+(July 1, 1944, ch. 373, title III, §313, as added Pub. L. 116–260, div. BB, title III, §311(a), Dec. 27, 2020, 134 Stat. 2923.)
+
+#### Prior Provisions
+
+A prior section 245, act July 1, 1944, ch. 373, title III, §313, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 636, provided for public access defibrillation demonstration projects, prior to repeal by Pub. L. 116–260, div. BB, title III, §311(a), Dec. 27, 2020, 134 Stat. 2923.
+
+Another prior section 245, acts July 1, 1944, ch. 373, title III, §313, 58 Stat. 693; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for collection of vital statistics, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242k(g) of this title.
+
+A prior section 313 of act July 1, 1944, was classified to section 245a of this title prior to repeal by Pub. L. 94–484.
+

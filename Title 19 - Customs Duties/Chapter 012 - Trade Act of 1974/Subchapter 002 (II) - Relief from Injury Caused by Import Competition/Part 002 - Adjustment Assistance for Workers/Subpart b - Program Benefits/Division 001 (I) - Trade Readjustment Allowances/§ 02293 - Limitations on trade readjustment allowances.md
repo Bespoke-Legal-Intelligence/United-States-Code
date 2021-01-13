@@ -24,7 +24,7 @@ Amounts payable to an adversely affected worker under this division shall be sub
 
 #### (c) Special adjustments for benefit years ending with extended benefit periods
 
-Notwithstanding any other provision of this chapter or other Federal law, if the benefit yearof a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms "benefit year" and "extended benefit period" shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
+Notwithstanding any other provision of this chapter or other Federal law, if the benefit year of a worker ends within an extended benefit period, the number of weeks of extended benefits that such worker would, but for this subsection, be entitled to in that extended benefit period shall be reduced (but not below zero) by the number of weeks for which the worker was entitled, during such benefit year, to trade readjustment allowances under this division. For purposes of this paragraph, the terms "benefit year" and "extended benefit period" shall have the same respective meanings given to them in the Federal-State Extended Unemployment Compensation Act of 1970.
 
 #### (d) Week during which worker received on-the-job training
 
@@ -40,7 +40,7 @@ For purposes of this part, a worker shall be treated as participating in trainin
 
 #### (f) Payment of trade readjustment allowances to complete training
 
-Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause that follows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this part if—
+Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause thatfollows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this part if—
 
 &emsp;(1) payment of the trade readjustment allowance for not more than 13 weeks is necessary for the worker to complete the training;
 
@@ -86,7 +86,7 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which isclassified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

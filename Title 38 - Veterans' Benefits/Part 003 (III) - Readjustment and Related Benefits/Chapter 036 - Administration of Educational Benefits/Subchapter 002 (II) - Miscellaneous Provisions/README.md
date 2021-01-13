@@ -30,3 +30,4 @@
 - [&sect; 03698 - Comprehensive policy on providing education information to veterans](%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md)
 - [&sect; 03699 - Effects of closure or disapproval of educational institution](%C2%A7%2003699%20-%20Effects%20of%20closure%20or%20disapproval%20of%20educational%20institution.md)
 - [&sect; 03699A - Provision of certain information to educational institutions](%C2%A7%2003699A%20-%20Provision%20of%20certain%20information%20to%20educational%20institutions.md)
+- [&sect; 03699B - Treatment of certain for-profit educational institutions](%C2%A7%2003699B%20-%20Treatment%20of%20certain%20for-profit%20educational%20institutions.md)

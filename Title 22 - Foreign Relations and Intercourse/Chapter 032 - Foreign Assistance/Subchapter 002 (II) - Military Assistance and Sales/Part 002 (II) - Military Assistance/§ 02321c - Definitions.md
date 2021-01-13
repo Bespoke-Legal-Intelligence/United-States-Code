@@ -8,6 +8,8 @@ For purposes of sections 2321b and 2314a <sup>1</sup> of this title—
 
 (Pub. L. 91–672, §11, Jan. 12, 1971, 84 Stat. 2055.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2314a, referred to in text, was repealed by Pub. L. 93–189, §26(4), Dec. 17, 1973, 87 Stat. 731.

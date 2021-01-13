@@ -1,12 +1,16 @@
 ### §3629. Reduced rates for voter registration purposes
 
-The Postal Service shall make available to a State or local voting registration official the rate for any class of mail that is available to a qualified nonprofit organization under section3626 for the purpose of making a mailing that the official certifies is required or authorized by the National Voter Registration Act of 1993.
+The Postal Service shall make available to a State or local voting registration official the rate for any class of mail that is available to a qualified nonprofit organization under section 3626 for the purpose of making a mailing that the official certifies is required or authorized by the National Voter Registration Act of 1993.
 
 (Added Pub. L. 103–31, §8(h)(1), May 20, 1993, 107 Stat. 86.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The National Voter Registration Act of 1993, referred to in text, is Pub. L. 103–31, May 20, 1993, 107 Stat. 77,which was formerly classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

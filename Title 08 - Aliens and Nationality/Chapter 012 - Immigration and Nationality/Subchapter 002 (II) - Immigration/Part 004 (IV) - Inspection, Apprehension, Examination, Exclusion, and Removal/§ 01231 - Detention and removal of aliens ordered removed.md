@@ -398,6 +398,8 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824; Pub. L. 109–13, div. B, title I, §101(c), May 11, 2005, 119 Stat. 303; Pub. L. 109–162, title XI, §1196(a), (b), Jan. 5, 2006, 119 Stat. 3130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 259 of title 42, referred to in subsec. (a)(4)(A), was repealed by Pub. L. 106–310, div. B, title XXXIV, §3405(a), Oct. 17, 2000, 114 Stat. 1221.
@@ -430,6 +432,8 @@ Subsec. (i)(3)(A). Pub. L. 104–208, §328(a)(1)(A), substituted "felony or two
 
 Subsec. (i)(6). Pub. L. 104–208, §328(a)(1)(B), added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–162, title XI, §1196(d), as added by Pub. L. 109–271, §8(n)(6), Aug. 12, 2006, 120 Stat. 768, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on October 1, 2006."
@@ -458,7 +462,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXII, §2242, Oct. 21, 1998, 112 Sta
 
 "(a)
 
-Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect the involuntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
+Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect theinvoluntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
 
 "(b)
 

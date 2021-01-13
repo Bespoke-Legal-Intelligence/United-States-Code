@@ -10,7 +10,7 @@ Contracts and cooperative agreements.—The Secretary of the Army may enter into
 
 &emsp;(2)
 
-Financial controls.—(A) Before entering into a contract or cooperative agreement under paragraph (1), the Secretary shall ensure that such contract or agreement includes appropriate financial controls to account forAcademy and Association resources in accordance with accepted accounting principles.
+Financial controls.—(A) Before entering into a contract or cooperative agreement under paragraph (1), the Secretary shall ensure that such contract or agreement includes appropriate financial controls to account for Academy and Association resources in accordance with accepted accounting principles.
 
 &emsp;(B) Any such contract or cooperative agreement shall contain a provision that allows the Secretary, at the Secretary's discretion, to review the financial accounts of the Association to determine whether the operations of the Association—
 
@@ -66,7 +66,7 @@ Trademarks and Service Marks.—
 
 &emsp;(1)
 
-Licensing, marketing, and sponsorship agreements.—An agreement under subsection (a) may, consistent with section 2260 of this title (other than subsection (d) of such section), authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Academy, subject to the approval of the Secretary of the Army.
+Licensing, marketing, and sponsorship agreements.—An agreement under subsection (a) may, consistent with section 2260 of this title (other than subsection (d) of such section), authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and servicemarks identifying the Academy, subject to the approval of the Secretary of the Army.
 
 &emsp;(2)
 
@@ -96,7 +96,11 @@ Conditions.—The authority provided in this section with respect to the Associa
 
 Association Defined.—In this section, the term "Association" means the Army West Point Athletic Association.
 
-(Added Pub. L. 114–92, div. A, title V, §557(a), Nov. 25, 2015, 129 Stat. 825, §4362; renumbered §7462, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 114–92, div. A, title V, §557(a), Nov. 25, 2015, 129 Stat. 825, §4362; renumbered §7462, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
 
 #### References in Text
 
@@ -116,7 +120,13 @@ Prior sections 7476 to 7480 were renumbered sections 8746 to 8750 of this title,
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "section 3201(e)" for "section 2304(k)" and "section 3204(a)(5)" for "section 2304(c)(5)".
+
 <b>2018</b>—Pub. L. 115–232 renumbered section 4362 of this title as this section.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 

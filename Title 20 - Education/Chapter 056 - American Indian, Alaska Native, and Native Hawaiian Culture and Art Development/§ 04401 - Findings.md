@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) Indian art and culture and Native Hawaiian art and culture have contributed greatly to the artistic and cultural richness of the Nation;
 
-&emsp;(2) Indian art and culture and Native Hawaiian art and culture occupy a unique positionin American history as being our only native art form and cultural heritage;
+&emsp;(2) Indian art and culture and Native Hawaiian art and culture occupy a unique position in American history as being our only native art form and cultural heritage;
 
 &emsp;(3) the enhancement and preservation of this Nation's native art and culture has a fundamental positive influence on the American people;
 

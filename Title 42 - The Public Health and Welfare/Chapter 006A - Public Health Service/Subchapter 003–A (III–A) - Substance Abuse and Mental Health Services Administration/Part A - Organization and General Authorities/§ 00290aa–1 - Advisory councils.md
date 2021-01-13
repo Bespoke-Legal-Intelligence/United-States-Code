@@ -154,7 +154,7 @@ Subsecs. (d) to (f). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Sec
 
 <b>1992</b>—Pub. L. 102–352 substituted "or management" for "and management" in subsec. (b)(3)(B).
 
-Pub. L. 102–321 amended section generally, substituting provisions relating to appointment of advisory councils to Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Center for Substance Abuse Prevention, and Center for Mental Health Services for provisions appointing advisory councils for National Institute on Alcohol Abuse and Alcoholism, National Institute on Drug Abuse, and National Institute of Mental Health.
+Pub. L. 102–321 amended section generally, substituting provisions relating to appointment of advisory councils to Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Center for Substance Abuse Prevention, and Center for Mental Health Services for provisionsappointing advisory councils for National Institute on Alcohol Abuse and Alcoholism, National Institute on Drug Abuse, and National Institute of Mental Health.
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 

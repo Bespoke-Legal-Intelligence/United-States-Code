@@ -4,6 +4,8 @@ The Architect of the Capitol may transfer apparatus, appliances, equipments, and
 
 (June 26, 1912, ch. 182, §11, 37 Stat. 184; Mar. 3, 1921, ch. 124, 41 Stat. 1291; May 29, 1928, ch. 901, §1(120), 45 Stat. 995; Oct. 31, 1951, ch. 654, §3(17), 65 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 171 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
@@ -20,7 +22,9 @@ Act Mar. 2, 1911, ch. 192, §9, 36 Stat. 1011.
 
 <b>1928</b>—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see PriorProvisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 

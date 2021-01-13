@@ -6,7 +6,7 @@ Authority.—
 
 &emsp;(1)
 
-Cost accounting standards board.—The Cost Accounting Standards Board has exclusive authority to prescribe, amend, and rescind cost accounting standards, and interpretations of the standards, designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the Federal Government.
+Cost accounting standards board.—The Cost Accounting Standards Board has exclusive authority to prescribe, amend, and rescind cost accounting standards, and interpretations of the standards, designed to achieveuniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the Federal Government.
 
 &emsp;(2)
 
@@ -180,6 +180,8 @@ In subsection (b)(2)(A), the word "categories" is omitted as being included in "
 
 In subsection (b)(3)(A)(ii), the words "as in effect on or after the effective date of this paragraph" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232, §836(b)(1)(A), substituted "commercial products or commercial services" for "commercial items".
@@ -189,6 +191,8 @@ Subsec. (b)(1)(C)(i). Pub. L. 115–232, §836(b)(1)(B), substituted "commercial
 Subsec. (b)(3)(A)(i). Pub. L. 115–232, §836(b)(1)(C), substituted "commercial products or commercial services" for "commercial items".
 
 <b>2016</b>—Subsec. (b)(3)(A). Pub. L. 114–328 substituted "$100,000,000" for "$15,000,000" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

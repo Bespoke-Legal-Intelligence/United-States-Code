@@ -26,7 +26,7 @@ Any authorized person shall, as a condition for receiving address information fr
 
 &emsp;(3) restrict, to the satisfaction of the Commissioner of Social Security, access to the address information and related blood donor records only to persons whose duties or responsibilities require access and to whom disclosure may be made under the provisions of this section,
 
-&emsp;(4) provide such other safeguards which the Commissioner of Social Security determines (and which the Commissioner of Social Security prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the address information and related blood donor records,
+&emsp;(4) provide such other safeguards which the Commissioner of Social Security determines (and which the Commissioner of Social Security prescribes in regulations) to be necessaryor appropriate to protect the confidentiality of the address information and related blood donor records,
 
 &emsp;(5) furnish a report to the Commissioner of Social Security, at such time and containing such information as the Commissioner of Social Security may prescribe, which describes the procedures established and utilized by the authorized person for ensuring the confidentiality of address information and related blood donor records required under this subsection, and
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (3) State
 
-&emsp;The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
+&emsp;The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
 (Aug. 14, 1935, ch. 531, title XI, §1141, as added Pub. L. 100–647, title VIII, §8008(b)(1), Nov. 10, 1988, 102 Stat. 3784; amended Pub. L. 103–296, title I, §108(b)(13), Aug. 15, 1994, 108 Stat. 1484.)
 
@@ -106,5 +106,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Time Limit for Establishment of Blood Donor Locator Service
 
-Pub. L. 100–647, title VIII, §8008(b)(2), Nov. 10, 1988, 102 Stat. 3786, provided that: "The Secretary of Health and Human Services shall establish the Blood Donor Locator Service pursuant to section 1141 of the Social Security Act \[42 U.S.C. 1320b–11\] not later than 180 days after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VIII, §8008(b)(2), Nov. 10, 1988, 102 Stat. 3786, required the Secretary of Health and Human Services to establish the Blood Donor Locator Service pursuant to this section no later than 180 days after Nov. 10, 1988.
 

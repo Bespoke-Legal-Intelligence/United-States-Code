@@ -28,7 +28,7 @@ Career retirees.—The retired pay of a member retired under chapter 61 of this 
 
 &emsp;(2)
 
-Disability retirees with less than 20 years of service.—Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of serviceotherwise creditable under section 1405 of this title, or with less than 20 years of service computed under section 12732 of this title, at the time of the member's retirement.
+Disability retirees with less than 20 years of service.—Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under section 1405 of this title, or with less than 20 years of service computed under section 12732 of this title, at the time of the member's retirement.
 
 (c)
 
@@ -210,7 +210,7 @@ Timing of payment of retroactive benefits.—Any amount payable for a period bef
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title VI, §641(e), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments madeby subsections (a) and (b) \[amending this section and repealing section 1413 of this title\] shall take effect on January 1, 2004, and shall apply to payments for months beginning on or after that date."
+Pub. L. 108–136, div. A, title VI, §641(e), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by subsections (a) and (b) \[amending this section and repealing section 1413 of this title\] shall take effect on January 1, 2004, and shall apply to payments for months beginning on or after that date."
 
 #### Prohibition of Retroactive Benefits
 

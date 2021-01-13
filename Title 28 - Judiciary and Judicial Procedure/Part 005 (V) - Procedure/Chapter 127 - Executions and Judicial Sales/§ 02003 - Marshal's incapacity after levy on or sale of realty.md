@@ -22,6 +22,8 @@ Changes were made in phraseology.
 
 This section corrects a typographical error in section 2003 of title 28, U.S.C.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1949</b>—Act May 24, 1949, corrected spelling of "realty" in first par.

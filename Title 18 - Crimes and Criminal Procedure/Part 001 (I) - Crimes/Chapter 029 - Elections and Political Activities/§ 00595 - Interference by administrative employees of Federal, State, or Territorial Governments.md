@@ -1,6 +1,6 @@
 ### §595. Interference by administrative employees of Federal, State, or Territorial Governments
 
-Whoever, being a person employed in any administrative position by the United States, or by any department or agency thereof, or by the District of Columbia or any agency or instrumentality thereof, or by any State, Territory, or Possession of the United States, or any political subdivision, municipality, or agency thereof, or agency of such political subdivision or municipality (including any corporation owned or controlled by any State, Territory, or Possession of the United States or by any such political subdivision, municipality, or agency), in connection with any activity which is financed in whole or in part by loans or grants made by the United States, or any department or agency thereof, uses his official authority for the purpose of interfering with, or affecting, the nomination or the election of any candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of Columbia, or Resident Commissioner, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being a person employed in any administrative position by the United States, or by any department or agency thereof, or by the District of Columbia or any agency or instrumentality thereof, or by any State, Territory, or Possession of the United States, or any political subdivision, municipality, or agency thereof, or agency of such political subdivision or municipality (including any corporation owned or controlled by any State, Territory, or Possession of the United States or by any such political subdivision, municipality, or agency), in connection with any activity which is financed in whole orin part by loans or grants made by the United States, or any department or agency thereof, uses his official authority for the purpose of interfering with, or affecting, the nomination or the election of any candidate for the office of President, Vice President, Presidential elector, Member of the Senate, Member of the House of Representatives, Delegate from the District of Columbia, or Resident Commissioner, shall be fined under this title or imprisoned not more than one year, or both.
 
 This section shall not prohibit or make unlawful any act by any officer or employee of any educational or research institution, establishment, agency, or system which is supported in whole or in part by any state or political subdivision thereof, or by the District of Columbia or by any Territory or Possession of the United States; or by any recognized religious, philanthropic or cultural organization.
 
@@ -24,6 +24,8 @@ The second paragraph was derived from section 61u of title 18, U.S.C., 1940 ed.,
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting "under this title" for "not more than $10,000", could not be executed because the phrase "not more than $10,000" does not appear in text.
@@ -31,6 +33,8 @@ Changes were made in phraseology.
 Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" in first par.
 
 <b>1970</b>—Pub. L. 91–405 substituted reference to Delegate from District of Columbia or Resident Commissioner for Delegate or Resident Commissioner from any Territory or Possession.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

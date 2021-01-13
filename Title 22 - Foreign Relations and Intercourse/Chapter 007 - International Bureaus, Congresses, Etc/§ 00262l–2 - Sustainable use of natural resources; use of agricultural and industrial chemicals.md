@@ -20,7 +20,7 @@ It is the policy of the United States that sustainable economic growth must be p
 
 #### (b) Bilateral and multilateral discussions to strengthen environmental performance of Multilateral Development Banks
 
-The Secretary of the Treasury and the Secretary of State, in cooperation with the Administrator of the Agency for International Development, shall conduct bilateral and multilateral discussions with other members of the MDB's to further strengthen the environmental performance of each bank. These discussions shall include, but not be limited to organizational, administrative and procedural arrangements to remove impediments to the efficient and effectivemanagement of assistance programs necessary to protect and ensure the sustainable use of natural resources and to carry out such assistance programs in consultation with affected local communities.
+The Secretary of the Treasury and the Secretary of State, in cooperation with the Administrator of the Agency for International Development, shall conduct bilateral and multilateral discussions with other members of the MDB's to further strengthen the environmental performance of each bank. These discussions shall include, but not be limited to organizational, administrative and procedural arrangements to remove impediments to the efficient and effective management of assistance programs necessary to protect and ensure the sustainable use of natural resources and to carry out such assistance programs in consultation with affected local communities.
 
 #### (c) Duties of Administrator of Agency for International Development
 
@@ -35,6 +35,8 @@ The Administrator of the Agency for International Development shall—
 &emsp;(4) take steps to implement recommendations set forth by a report of the Committee on Health and Environment on opportunities for the Agency to assist developing countries in the proper use of agricultural and industrial chemicals.
 
 (Pub. L. 100–461, title V, §535, Oct. 1, 1988, 102 Stat. 2268–28.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

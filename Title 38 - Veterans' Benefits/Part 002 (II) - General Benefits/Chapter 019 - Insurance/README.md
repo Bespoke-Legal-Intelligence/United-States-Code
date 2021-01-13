@@ -25,8 +25,9 @@
 | [1919\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001919%20-%20National%20Service%20Life%20Insurance%20appropriation.md) | National Service Life Insurance appropriation. |
 | [1920\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001920%20-%20National%20Service%20Life%20Insurance%20Fund.md) | National Service Life Insurance Fund. |
 | [1921\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001921%20-%20Extra%20hazard%20costs.md) | Extra hazard costs. |
-| [1922\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001922%20-%20Service%20disabled%20veterans%27%20insurance.md) | Service disabled veterans' insurance. |
-| [1922A.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001922A%20-%20Supplemental%20service%20disabled%20veterans%27%20insurance%20for%20totally%20disabled%20veterans.md) | Supplemental service disabled veterans' insurance for totally disabled veterans. |
+| [1922\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001922%20-%20Legacy%20service%20disabled%20veterans%27%20insurance.md) | Legacy service disabled veterans' insurance. |
+| [1922A.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001922A%20-%20Legacy%20supplemental%20service%20disabled%20veterans%27%20insurance%20for%20totally%20disabled%20veterans.md) | Legacy supplemental service disabled veterans' insurance for totally disabled veterans. |
+| [1922B.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001922B%20-%20Service-disabled%20veterans%20insurance.md) | Service-disabled veterans insurance. |
 | [1923\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001923%20-%20Veterans%27%20Special%20Life%20Insurance.md) | Veterans' Special Life Insurance. |
 | [1924\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001924%20-%20In-service%20waiver%20of%20premiums.md) | In-service waiver of premiums. |
 | [1925\.](Subchapter%20001%20%28I%29%20-%20National%20Service%20Life%20Insurance/%C2%A7%2001925%20-%20Limited%20period%20for%20acquiring%20insurance.md) | Limited period for acquiring insurance. |
@@ -107,7 +108,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–315, title II, §2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted "Legacy service" for "Service" in item 1922 and "Legacy supplemental" for "Supplemental" in item 1922A.
 
 <b>2005</b>—Pub. L. 109–13, div. A, title I, §1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.
 

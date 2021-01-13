@@ -68,6 +68,8 @@ Words "guilty of a felony" were deleted as unnecessary in view of definitive sec
 
 Minor verbal changes also were made.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean schedules I to III of the schedules of controlled substances, which are set out in section 812(c) of Title 21, Food and Drugs.
@@ -114,7 +116,7 @@ Offense.—A person commits an offense if, in violation of a statute, or a regul
 
 &emsp;&emsp;"(C) a narcotic drug as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802);
 
-&emsp;&emsp;"(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the ControlledSubstances Act (21 U.S.C. 802), or an alcoholic beverage;
+&emsp;&emsp;"(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), or an alcoholic beverage;
 
 &emsp;&emsp;"(E) United States currency; or
 
@@ -139,6 +141,8 @@ Grading.—An offense described in this section is punishable by—
 Definitions.—As used in this section, 'firearm' and 'destructive device' have the meaning given those terms, respectively, in 18 U.S.C. 921(a)(3) and (4)."
 
 <b>1984</b>—Pub. L. 98–473 substituted provisions relating to providing or possessing contraband in prison, grading of offenses and definitions of "firearm" and "destructive device" for former provisions relating to traffic in contraband articles.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -54,7 +54,7 @@ As soon as practicable after receiving any application for a permit under this s
 
 &emsp;&emsp;&emsp;(II) specimens for museums, zoological gardens, or other educational or cultural institutions or uses, or
 
-&emsp;&emsp;&emsp;(III) for unavoidable consequences of scientific activities or the construction and operation of scientific support facilities; and
+&emsp;&emsp;&emsp;(III) for unavoidable consequences of scientific activities or the construction andoperation of scientific support facilities; and
 
 &emsp;&emsp;(ii) shall ensure, as far as possible, that—
 

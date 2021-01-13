@@ -4,13 +4,13 @@
 
 There is established in the Department an Emergency Communications Division. The Division shall be located in the Cybersecurity and Infrastructure Security Agency.
 
-#### (b) Assistant Director
+#### (b) Executive Assistant Director
 
-The head of the Division shall be the Assistant Director for Emergency Communications. The Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
+The head of the Division shall be the Executive Assistant Director for Emergency Communications (in this section referred to as the "Executive Assistant Director"). The Executive Assistant Director shall report to the Director of Cybersecurity and Infrastructure Security. All decisions of the Executive Assistant Director that entail the exercise of significant authority shall be subject to the approval of the Director of Cybersecurity and Infrastructure Security.
 
 #### (c) Responsibilities
 
-The Assistant Director for Emergency Communications shall—
+The Executive Assistant Director shall—
 
 &emsp;(1) assist the Secretary in developing and implementing the program described in section 194(a)(1) of this title, except as provided in section 195 of this title;
 
@@ -46,7 +46,7 @@ The Assistant Director for Emergency Communications shall—
 
 #### (d) Performance of previously transferred functions
 
-The Secretary shall transfer to, and administer through, the Assistant Director for Emergency Communications the following programs and responsibilities:
+The Secretary shall transfer to, and administer through, the Executive Assistant Director the following programs and responsibilities:
 
 &emsp;(1) The SAFECOM Program, excluding elements related to research, development, testing, and evaluation and standards.
 
@@ -56,7 +56,7 @@ The Secretary shall transfer to, and administer through, the Assistant Director 
 
 #### (e) Coordination
 
-The Assistant Director for Emergency Communications shall coordinate—
+The Executive Assistant Director shall coordinate—
 
 &emsp;(1) as appropriate, with the Director of the Office for Interoperability and Compatibility with respect to the responsibilities described in section 195 of this title; and
 
@@ -72,13 +72,29 @@ The Assistant Director for Emergency Communications shall coordinate—
 
 &emsp;The Comptroller General shall review the validity of the report submitted by the Secretary under paragraph (1). Not later than 60 days after the date on which such report is submitted, the Comptroller General shall submit to Congress a report containing the findings of such review.
 
-(Pub. L. 107–296, title XVIII, §1801, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1433; amended Pub. L. 115–278, §2(g)(6)(A), Nov. 16, 2018, 132 Stat. 4179.)
+#### (g) Reference
+
+Any reference to the Assistant Director for Emergency Communications in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Executive Assistant Director for Emergency Communications.
+
+(Pub. L. 107–296, title XVIII, §1801, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1433; amended Pub. L. 115–278, §2(g)(6)(A), Nov. 16, 2018, 132 Stat. 4179; Pub. L. 116–283, div. H, title XC, §9001(e)(1), Jan. 1, 2021, 134 Stat. 4767.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Another section 1801 of Pub. L. 107–296 was renumbered section 1901 and is classified to section 591 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283, §9001(e)(1)(A), in heading, substituted "Executive Assistant Director" for "Assistant Director" and, in text, substituted "Executive Assistant Director for Emergency Communications (in this section referred to as the 'Executive Assistant Director')." for "Assistant Director for Emergency Communications." and "Executive Assistant Director" for "Assistant Director" in two places.
+
+Subsec. (c). Pub. L. 116–283, §9001(e)(1)(B), substituted "Executive Assistant Director" for "Assistant Director for Emergency Communications" in introductory provisions.
+
+Subsec. (d). Pub. L. 116–283, §9001(e)(1)(C), substituted "Executive Assistant Director" for "Assistant Director for Emergency Communications" in introductory provisions.
+
+Subsec. (e). Pub. L. 116–283, §9001(e)(1)(D), substituted "Executive Assistant Director" for "Assistant Director for Emergency Communications" in introductory provisions.
+
+Subsec. (g). Pub. L. 116–283, §9001(e)(1)(E), added subsec. (g).
 
 <b>2018</b>—Pub. L. 115–278, §2(g)(6)(A)(i), substituted "Emergency Communications Division" for "Office of Emergency Communications" in section catchline.
 
@@ -91,6 +107,8 @@ Subsec. (c). Pub. L. 115–278, §2(g)(6)(A)(iv)(I), inserted "Assistant" before
 Subsec. (c)(16). Pub. L. 115–278, §2(g)(6)(A)(iv)(II)–(IV), added par. (16).
 
 Subsecs. (d), (e). Pub. L. 115–278, §2(g)(6)(A)(v), (vi), inserted "Assistant" before "Director" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -105,6 +123,10 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 #### Savings Clause
 
 Pub. L. 109–295, title VI, §675, Oct. 4, 2006, 120 Stat. 1444, provided that: "Nothing in this subtitle \[subtitle D (§§671–675) of title VI of Pub. L. 109–295, enacting this subchapter and sections 195 and 195a of this title and provisions set out as a note under section 101 of this title\] shall be construed to transfer to the Office of Emergency Communications any function, personnel, asset, component, authority, grant program, or liability of the Federal Emergency Management Agency as constituted on June 1, 2006."
+
+#### Continuation in Office
+
+Pub. L. 116–283, div. H, title XC, §9001(e)(2), Jan. 1, 2021, 134 Stat. 4768, provided that: "The individual serving as the Assistant Director for Emergency Communications of the Department of Homeland Security on the day before the date of enactment of this Act \[Jan. 1, 2021\] may serve as the Executive Assistant Director for Emergency Communications on and after that date."
 
 #### Director for Emergency Communications Authorized To Serve as Assistant Director of Emergency Communications
 

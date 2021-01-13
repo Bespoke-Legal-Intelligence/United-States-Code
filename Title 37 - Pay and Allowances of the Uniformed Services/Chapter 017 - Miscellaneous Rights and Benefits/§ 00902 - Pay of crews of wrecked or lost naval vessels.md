@@ -38,6 +38,8 @@ In subsections (a) and (c), the words "naval vessel" are substituted for the wor
 
 In subsection (c), the word "continues" is substituted for the words "go on". The words "whichever is earlier" are inserted for clarity. The words "or the findings of a" are inserted since a court of inquiry cannot impose a sentence.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–316 substituted "the Secretary of the Navy may" for "the General Accounting Office, under the direction of the Secretary of the Navy, may".

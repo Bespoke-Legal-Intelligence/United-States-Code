@@ -36,7 +36,7 @@ Adoption of documents of other operating administrations.—An operating adminis
 
 &emsp;(3)
 
-Incorporation by reference.—An operating administration or secretarial office within the Department of Transportation may incorporate by reference all or portions of a draft environmental impact statement, an environmental assessment, or a final environmental impact statement for the use of the adopting operating administration when preparing an environmental assessment or finalenvironmental impact statement for a project if—
+Incorporation by reference.—An operating administration or secretarial office within the Department of Transportation may incorporate by reference all or portions of a draft environmental impact statement, an environmental assessment, or a final environmental impact statement for the use of the adopting operating administration when preparing an environmental assessment or final environmental impact statement for a project if—
 
 &emsp;&emsp;(A) the incorporated material is cited in the environmental assessment or final environmental impact statement and the contents of the incorporated material are briefly described;
 

@@ -56,6 +56,8 @@ Nonapplicability of Certain Limitations.—Notwithstanding section 3282, in the 
 
 (Added Pub. L. 100–606, §2(a), Nov. 4, 1988, 102 Stat. 3045; amended Pub. L. 103–322, title VI, §60003(a)(13), Sept. 13, 1994, 108 Stat. 1970; Pub. L. 107–273, div. B, title IV, §4002(a)(4), (b)(7), Nov. 2, 2002, 116 Stat. 1806, 1808; Pub. L. 110–151, §2, Dec. 21, 2007, 121 Stat. 1821; Pub. L. 111–122, §3(a), Dec. 22, 2009, 123 Stat. 3481.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–122, §3(a)(1), struck out ", in a circumstance described in subsection (d)" before "and with the specific" in introductory provisions and "or attempts to do so," before "shall be punished" in concluding provisions.
@@ -75,6 +77,8 @@ Subsecs. (d) to (f). Pub. L. 111–122, §3(a)(3), (4), added subsecs. (d) to (f
 Pub. L. 107–273, §4002(a)(4), made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, as amended by Pub. L. 107–273, §4002(a)(4), substituted ", where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;" for "a fine of not more than $1,000,000 and imprisonment for life,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

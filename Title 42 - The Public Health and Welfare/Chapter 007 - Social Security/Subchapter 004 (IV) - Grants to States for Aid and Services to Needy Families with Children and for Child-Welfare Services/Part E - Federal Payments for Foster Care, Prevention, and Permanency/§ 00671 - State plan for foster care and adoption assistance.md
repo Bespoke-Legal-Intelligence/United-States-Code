@@ -10,7 +10,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(3) provides that the plan shall be in effect in all political subdivisions of the State, and, if administered by them, be mandatory upon them;
 
-&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assisted under parts A and B of this subchapter, under division A <sup>1</sup> of subchapter XX of this chapter, and under any other appropriate provision of Federal law;
+&emsp;(4) provides that the State shall assure that the programs at the local level assisted under this part will be coordinated with the programs at the State or local level assistedunder parts A and B of this subchapter, under division A <sup>1</sup> of subchapter XX of this chapter, and under any other appropriate provision of Federal law;
 
 &emsp;(5) provides that the State will, in the administration of its programs under this part, use such methods relating to the establishment and maintenance of personnel standards on a merit basis as are found by the Secretary to be necessary for the proper and efficient operation of the programs, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, or compensation of any individual employed in accordance with such methods;
 
@@ -40,7 +40,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;(A) for the establishment or designation of a State authority or authorities that shall be responsible for establishing and maintaining standards for foster family homes and child care institutions which are reasonably in accord with recommended standards of national organizations concerned with standards for the institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, and which shall permit use of the reasonable and prudent parenting standard;
 
-&emsp;&emsp;(B) that the standards established pursuant to subparagraph (A) shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B and shall require, as a condition of each contract entered into by a child care institution to provide foster care, the presence on-site of at least 1 official who, with respect to any child placed at the child care institution, is designated to be the caregiver who is authorized to apply the reasonable and prudent parent standard to decisions involving the participation of the child in age or developmentally-appropriate activities, and who is provided with training in how to use and apply the reasonable and prudent parent standard in the same manner as prospective foster parents are provided the training pursuant to paragraph (24);
+&emsp;&emsp;(B) that the standards established pursuant to subparagraph (A) shall be applied by the State to any foster family home or child care institution receiving funds under this part or part B and shall require, as a condition of each contract entered into by a child care institution to provide foster care, the presence on-site of at least 1 official who, with respect to any child placed at the child care institution, is designated to be thecaregiver who is authorized to apply the reasonable and prudent parent standard to decisions involving the participation of the child in age or developmentally-appropriate activities, and who is provided with training in how to use and apply the reasonable and prudent parent standard in the same manner as prospective foster parents are provided the training pursuant to paragraph (24);
 
 &emsp;&emsp;(C) that the standards established pursuant to subparagraph (A) shall include policies related to the liability of foster parents and private entities under contract by the State involving the application of the reasonable and prudent parent standard, to ensure appropriate liability for caregivers when a child participates in an approved activity and the caregiver approving the activity acts in accordance with the reasonable and prudent parent standard; and
 
@@ -82,7 +82,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(iii) the parental rights of the parent to a sibling have been terminated involuntarily;
 
-&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not madewith respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
+&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not made with respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
 
 &emsp;&emsp;&emsp;(i) a permanency hearing (as described in section 675(5)(C) of this title), which considers in-State and out-of-State permanent placement options for the child, shall be held for the child within 30 days after the determination; and
 
@@ -120,7 +120,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(D) provides procedures for any child-care institution, including a group home, residential treatment center, shelter, or other congregate care setting, to conduct criminal records checks, including fingerprint-based checks of national crime information databases (as defined in section 534(f)(3)(A) of title 28), and checks described in subparagraph (B) of this paragraph, on any adult working in a child-care institution, including a group home, residential treatment center, shelter, or other congregate care setting, unless the State reports to the Secretary the alternative criminal records checks and child abuse registry checks the State conducts on any adult working in a child-care institution, including a group home, residential treatment center, shelter, or other congregate care setting, and why the checks specified in this subparagraph are not appropriate for the State;
 
-&emsp;(21) provides for health insurance coverage (including, at State option, through the program under the State plan approved under subchapter XIX) for any child who has been determined to be a child with special needs, for whom there is in effect an adoption assistance agreement (other than an agreement under this part) between the State and an adoptive parent or parents, and who the State has determined cannot be placed with an adoptive parent or parents without medical assistance because such child has special needs for medical, mental health, or rehabilitative care, and that with respect to the provision of such health insurance coverage—
+&emsp;(21) provides for health insurance coverage (including, at State option, through the program under the State plan approved under subchapter XIX) for any child who has been determined to be a child with special needs,for whom there is in effect an adoption assistance agreement (other than an agreement under this part) between the State and an adoptive parent or parents, and who the State has determined cannot be placed with an adoptive parent or parents without medical assistance because such child has special needs for medical, mental health, or rehabilitative care, and that with respect to the provision of such health insurance coverage—
 
 &emsp;&emsp;(A) such coverage may be provided through 1 or more State medical assistance programs;
 
@@ -190,7 +190,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(32) provides that the State will negotiate in good faith with any Indian tribe, tribal organization or tribal consortium in the State that requests to develop an agreement with the State to administer all or part of the program under this part on behalf of Indian children who are under the authority of the tribe, organization, or consortium, including foster care maintenance payments on behalf of children who are placed in State or tribally licensed foster family homes, adoption assistance payments, and, if the State has elected to provide such payments, kinship guardianship assistance payments under section 673(d) of this title, and tribal access to resources for administration, training, and data collection under this part;
 
-&emsp;(33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a childwho is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
+&emsp;(33) provides that the State will inform any individual who is adopting, or whom the State is made aware is considering adopting, a child who is in foster care under the responsibility of the State of the potential eligibility of the individual for a Federal tax credit under section 23 of the Internal Revenue Code of 1986;
 
 &emsp;(34) provides that, for each child or youth described in paragraph (9)(C)(i)(I), the State agency shall—
 
@@ -322,7 +322,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 #### (iii) Promising practice
 
-&emsp;&emsp;&emsp;A practice shall be considered to be a "promising practice" if the practice is superior to an appropriate comparison practice using conventional standards of statistical significance (in terms of demonstrated meaningful improvements in validated measures of important child andparent outcomes, such as mental health, substance abuse, and child safety and well-being), as established by the results or outcomes of at least one study that—
+&emsp;&emsp;&emsp;A practice shall be considered to be a "promising practice" if the practice is superior to an appropriate comparison practice using conventional standards of statistical significance (in terms of demonstrated meaningful improvements in validated measures of important child and parent outcomes, such as mental health, substance abuse, and child safety and well-being), as established by the results or outcomes of at least one study that—
 
 &emsp;&emsp;&emsp;&emsp;(I) was rated by an independent systematic review for the quality of the study design and execution and determined to be well-designed and well-executed; and
 
@@ -332,7 +332,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 &emsp;&emsp;&emsp;A practice shall be considered to be a "supported practice" if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the practice is superior to an appropriate comparison practice using conventional standards of statistical significance (in terms of demonstrated meaningful improvements in validated measures of important child and parent outcomes, such as mental health, substance abuse, and child safety and well-being), as established by the results or outcomes of at least one study that—
+&emsp;&emsp;&emsp;&emsp;(I) the practice is superior to an appropriate comparison practice using conventional standards of statistical significance (in terms of demonstrated meaningful improvements in validated measures of important child and parent outcomes, such as mental health, substanceabuse, and child safety and well-being), as established by the results or outcomes of at least one study that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) was rated by an independent systematic review for the quality of the study design and execution and determined to be well-designed and well-executed;
 
@@ -510,7 +510,7 @@ Not later than 4 years after September 29, 2014, and annually thereafter, the Se
 
 #### (C) Payer of last resort
 
-&emsp;&emsp;In carrying out its responsibilities to ensure access to services or programs underthis subsection, the State agency shall not be considered to be a legally liable third party for purposes of satisfying a financial commitment for the cost of providing such services or programs with respect to any individual for whom such cost would have been paid for from another public or private source but for the enactment of this subsection (except that whenever considered necessary to prevent a delay in the receipt of appropriate early intervention services by a child or family in a timely fashion, funds provided under section 674(a)(6) of this title may be used to pay the provider of services or programs pending reimbursement from the public or private source that has ultimate responsibility for the payment).
+&emsp;&emsp;In carrying out its responsibilities to ensure access to services or programs under this subsection, the State agency shall not be considered to be a legally liable third party for purposes of satisfying a financial commitment for the cost of providing such services or programs with respect to any individual for whom such cost would have been paid for from another public or private source but for the enactment of this subsection (except that whenever considered necessary to prevent a delay in the receipt of appropriate early intervention services by a child or family in a timely fashion, funds provided under section 674(a)(6) of this title may be used to pay the provider of services or programs pending reimbursement from the public or private source that has ultimate responsibility for the payment).
 
 (Aug. 14, 1935, ch. 531, title IV, §471, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 97–35, title XXIII, §2353(r), Aug. 13, 1981, 95 Stat. 874; Pub. L. 97–248, title I, §160(d), Sept. 3, 1982, 96 Stat. 400; Pub. L. 98–378, §11(c), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 99–514, title XVII, §1711(c)(2), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 100–485, title II, §202(c)(1), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 101–508, title V, §5054(b), Nov. 5, 1990, 104 Stat. 1388–229; Pub. L. 103–66, title XIII, §13711(b)(4), Aug. 10, 1993, 107 Stat. 655; Pub. L. 103–432, title II, §203(b), Oct. 31, 1994, 108 Stat. 4456; Pub. L. 104–188, title I, §1808(a), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 104–193, title I, §108(d)(2), title V, §505, Aug. 22, 1996, 110 Stat. 2166, 2278; Pub. L. 105–33, title V, §5591(b), Aug. 5, 1997, 111 Stat. 643; Pub. L. 105–89, title I, §§101(a), 106, title III, §§306, 308, Nov. 19, 1997, 111 Stat. 2116, 2120, 2132, 2133; Pub. L. 105–200, title III, §301(a), July 16, 1998, 112 Stat. 658; Pub. L. 106–169, title I, §112(a), title IV, §401(o), Dec. 14, 1999, 113 Stat. 1829, 1859; Pub. L. 109–171, title VII, §7401(c), Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–239, §§3, 4(a)(1), 10, July 3, 2006, 120 Stat. 508, 513; Pub. L. 109–248, title I, §152(a), (b), July 27, 2006, 120 Stat. 608, 609; Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(i), Dec. 20, 2006, 120 Stat. 2999; Pub. L. 110–351, title I, §§101(a), (c)(2)(A), (B)(i), 103, 104(a), title II, §§204(b), 206, title III, §301(c)(1)(A), title IV, §403, Oct. 7, 2008, 122 Stat. 3950–3952, 3956, 3957, 3960, 3962, 3969, 3979; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 113–183, title I, §§101(a), 102, 104, 111(a)(2), (b), 112(b)(2)(A)(ii), title II, §209(a)(1), Sept. 29, 2014, 128 Stat. 1920–1922, 1924, 1927, 1941; Pub. L. 115–123, div. E, title VII, §§50711(a), 50722(a), 50731(b), 50741(d)(1), 50745, Feb. 9, 2018, 132 Stat. 232, 246, 251, 256, 261; Pub. L. 115–165, title I, §103(a)(2), Apr. 13, 2018, 132 Stat. 1262; Pub. L. 115–271, title VIII, §8082(b), Oct. 24, 2018, 132 Stat. 4102.)
 
@@ -552,7 +552,7 @@ Subsec. (a)(10). Pub. L. 113–183, §111(b), amended par. (10) generally. Prior
 
 Subsec. (a)(16). Pub. L. 113–183, §112(b)(2)(A)(ii), inserted "and in accordance with the requirements of section 675a of this title" after "section 675(1) of this title" and substituted "sections 675(5) and 675a of this title" for "section 675(5)(B) of this title".
 
-Subsec. (a)(24). Pub. L. 113–183, §111(a)(2), substituted "includes" for "include" and "that the preparation will" for "and that such preparation will" and inserted before semicolon at end ", and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating tothe developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities".
+Subsec. (a)(24). Pub. L. 113–183, §111(a)(2), substituted "includes" for "include" and "that the preparation will" for "and that such preparation will" and inserted before semicolon at end ", and that the preparation shall include knowledge and skills relating to the reasonable and prudent parent standard for the participation of the child in age or developmentally-appropriate activities, including knowledge and skills relating to the developmental stages of the cognitive, emotional, physical, and behavioral capacities of a child, and knowledge and skills relating to applying the standard to decisions such as whether to allow the child to engage in social, extracurricular, enrichment, cultural, and social activities, including sports, field trips, and overnight activities lasting 1 or more days, and to decisions involving the signing of permission slips and arranging of transportation for the child to and from extracurricular, enrichment, and social activities".
 
 Subsec. (a)(29). Pub. L. 113–183, §209(a)(1), substituted "the following relatives: all adult grandparents, all parents of a sibling of the child, where such parent has legal custody of such sibling," for "all adult grandparents".
 
@@ -744,7 +744,7 @@ In general.—The amendments made by section 209 \[amending this section and sec
 
 &emsp;"(2)
 
-Delay permitted if state legislation required.—In the case of a State plan approved under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed bysection 209, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of enactment of this Act \[Sept. 29, 2014\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
+Delay permitted if state legislation required.—In the case of a State plan approved under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by section 209, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of enactment of this Act \[Sept. 29, 2014\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2008 Amendment
 
@@ -806,7 +806,7 @@ Amendment by section 108(d)(2) of Pub. L. 104–193 effective July 1, 1997, with
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–432, title II, §203(c)(2), Oct. 31, 1994, 108 Stat. 4456, provided that: "The amendment made bysubsection (b) \[amending this section\] shall take effect on October 1, 1995."
+Pub. L. 103–432, title II, §203(c)(2), Oct. 31, 1994, 108 Stat. 4456, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1995."
 
 #### Effective Date of 1993 Amendment
 
@@ -872,7 +872,7 @@ Effective date.—In no event shall the regulations required to be promulgated u
 
 &emsp;"(C)
 
-Sense of the congress.—It is the sense of the Congress that if the Secretary of Health and Human Services fails to publish in the Federal Register the regulations required under subparagraph (A) of this paragraph, the Congress should enact legislation specifying the types of in-kind expenditures and the third-party sources for such in-kind expenditures which may be claimed by tribes, organizations, and consortia with plans approved under section 471 of the Social Security Act \[42 U.S.C. 671\] in accordance with section 479B of such Act \[42 U.S.C. 679c\], up tospecific percentages, for purposes of determining the non-Federal share of administrative and training expenditures for which the tribes, organizations, and consortia may receive payments for \[sic\] under any subparagraph of section 474(a)(3) of such Act \[42 U.S.C. 674(a)(3)\]."
+Sense of the congress.—It is the sense of the Congress that if the Secretary of Health and Human Services fails to publish in the Federal Register the regulations required under subparagraph (A) of this paragraph, the Congress should enact legislation specifying the types of in-kind expenditures and the third-party sources for such in-kind expenditures which may be claimed by tribes, organizations, and consortia with plans approved under section 471 of the Social Security Act \[42 U.S.C. 671\] in accordance with section 479B of such Act \[42 U.S.C. 679c\], up to specific percentages, for purposes of determining the non-Federal share of administrative and training expenditures for which the tribes, organizations, and consortia may receive payments for \[sic\] under any subparagraph of section 474(a)(3) of such Act \[42 U.S.C. 674(a)(3)\]."
 
 Pub. L. 100–485, title II, §203(a), Oct. 13, 1988, 102 Stat. 2378, provided that: "Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[former 42 U.S.C. 682(a)(2)\]."
 
@@ -892,9 +892,63 @@ Pub. L. 110–351, title III, §301(d), Oct. 7, 2008, 122 Stat. 3970, provided t
 
 &emsp;&emsp;"(B) as part of the plan approved under section 477 of such Act (42 U.S.C. 677) to administer, supervise, or oversee programs carried out under that plan on behalf of Indian children who are eligible for such programs if such children are not otherwise being served by an Indian tribe, tribal organization, or tribal consortium pursuant to an approved plan under section 477(j) of such Act \[42 U.S.C. 677(j)\] or a cooperative agreement or contract entered into under section 477(b)(3)(G) of such Act \[42 U.S.C. 677(b)(3)(G)\]."
 
+#### Preventing Aging out of Foster Care During the Pandemic
+
+Pub. L. 116–260, div. X, §4, Dec. 27, 2020, 134 Stat. 2411, provided that:
+
+"(a)
+
+Addressing Foster Care Age Restrictions During the Pandemic.—A State operating a program under part E of title IV of the Social Security Act \[42 U.S.C. 670 et seq.\] may not require a child who is in foster care under the responsibility of the State to leave foster care solely by reason of the child's age. A child may not be found ineligible for foster care maintenance payments under section 472 of such Act \[42 U.S.C. 672\] solely due to the age of the child or the failure of the child to meet a condition of section 475(8)(B)(iv) of such Act \[42 U.S.C. 675(8)(B)(iv)\] before October 1, 2021.
+
+"(b)
+
+Re-entry to Foster Care for Youth Who Age Out During the Pandemic.—A State operating a program under the State plan approved under part E of title IV of the Social Security Act (and without regard to whether the State has exercised the option provided by section 475(8)(B) of such Act to extend assistance under such part to older children) shall—
+
+&emsp;"(1) permit any youth who left foster care due to age during the COVID–19 public health emergency to voluntarily re-enter foster care;
+
+&emsp;"(2) provide to each such youth who was formally discharged from foster care during the COVID–19 public health emergency, a notice designed to make the youth aware of the option to return to foster care;
+
+&emsp;"(3) facilitate the voluntary return of any such youth to foster care; and
+
+&emsp;"(4) conduct a public awareness campaign about the option to voluntarily re-enter foster care for youth who have not attained 22 years of age, who aged out of foster care in fiscal year 2020 or fiscal year 2021, and who are otherwise eligible to return to foster care.
+
+"(c)
+
+Protections for Youth in Foster Care.—A State operating a program under the State plan approved under part E of title IV of the Social Security Act shall—
+
+&emsp;"(1) continue to ensure that the safety, permanence, and well-being needs of older foster youth, including youth who remain in foster care and youth who age out of foster care during that period but who re-enter foster care pursuant to this section, are met; and
+
+&emsp;"(2) work with any youth who remains in foster care after attaining 18 years of age (or such greater age as the State may have elected under section 475(8)(B)(iii) of such Act) to develop, or review and revise, a transition plan consistent with the plan referred to in section 475(5)(H) of such Act \[42 U.S.C. 675(5)(H)\], and assist the youth with identifying adults who can offer meaningful, permanent connections.
+
+"(d)
+
+Authority to Use Additional Funding for Certain Costs Incurred to Prevent Aging Out of, Facilitating Re-entry to, and Protecting Youth in Care During the Pandemic.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2) of this subsection, a State to which additional funds are made available as a result of section 3(a) \[section 3(a) of div. X of Pub. L. 116–260, set out in a note under section 677 of this title\] may use the funds to meet any costs incurred in complying with subsections (a), (b), and (c) of this section.
+
+&emsp;"(2)
+
+Restrictions.—
+
+&emsp;&emsp;"(A) The costs referred to in paragraph (1) must be incurred after the date of the enactment of this section \[Dec. 27, 2020\] and before October 1, 2021.
+
+&emsp;&emsp;"(B) The costs of complying with subsection (a) or (c) of this section must not be incurred on behalf of children eligible for foster care maintenance payments under section 472 of the Social Security Act, including youth who have attained 18 years of age who are eligible for the payments by reason of the temporary waiver of the age requirement or the conditions of section 475(8)(B)(iv) of such Act.
+
+&emsp;&emsp;"(C) A State shall make reasonable efforts to ensure that eligibility for foster care maintenance payments under section 472 of the Social Security Act is determined when a youth remains in, or re-enters, foster care as a result of the State complying with subsections (a) and (c) of this section.
+
+&emsp;&emsp;"(D) A child who re-enters care during the COVID–19 public health emergency period may not be found ineligible for foster care maintenance payments under section 472 of the Social Security Act solely due to age or the requirements of section 475(8)(B)(iv) of such Act before October 1, 2021.
+
+"(e)
+
+Termination of Certain Provisions.—The preceding provisions of this section shall have no force or effect after September 30, 2021."
+
+\[For definitions of "COVID–19 public health emergency" and "COVID–19 public health emergency period" as used in section 4 of div. X of Pub. L. 116–260, set out above, see section 2 of div. X of Pub. L. 116–260, set out as a note under section 629h of this title.\]
+
 #### Identification of Reputable Model Licensing Standards
 
-Pub. L. 115–123, div. E, title VII, §50731(a), Feb. 9, 2018, 132 Stat. 251, provided that: "Not later than October 1, 2018, the Secretary of Health and Human Services shall identify reputable model licensing standards with respect to the licensing of foster family homes (as defined in section 472(c)(1) of the Social Security Act \[42 U.S.C. 672(c)(1)\])."
+Pub. L. 115–123, div. E, title VII, §50731(a), Feb. 9, 2018, 132 Stat. 251, provided that: "Not later than October 1,2018, the Secretary of Health and Human Services shall identify reputable model licensing standards with respect to the licensing of foster family homes (as defined in section 472(c)(1) of the Social Security Act \[42 U.S.C. 672(c)(1)\])."
 
 #### Technical Assistance
 

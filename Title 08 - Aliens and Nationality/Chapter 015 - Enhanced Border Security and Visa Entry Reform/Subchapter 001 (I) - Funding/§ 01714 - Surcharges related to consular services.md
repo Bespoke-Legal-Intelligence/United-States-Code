@@ -4,13 +4,17 @@ Beginning in fiscal year 2005 and thereafter, the Secretary of State is authoriz
 
 (Pub. L. 108–447, div. B, title IV, Dec. 8, 2004, 118 Stat. 2896; Pub. L. 115–31, div. J, title VII, §7081(c), May 5, 2017, 131 Stat. 716.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section appears under the headings "Administration of Foreign Affairs" and "Diplomatic and Consular Programs" in title IV of div. B of Pub. L. 108–447. It was enacted as part of the Department of State and RelatedAgency Appropriations Act, 2005, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, and as part of the Consolidated Appropriations Act, 2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
+Section appears under the headings "Administration of Foreign Affairs" and "Diplomatic and Consular Programs" in title IV of div. B of Pub. L. 108–447. It was enacted as part of the Department of State and Related Agency Appropriations Act, 2005, and also as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005,and as part of the Consolidated Appropriations Act, 2005, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–31 substituted "deposited in the Consular and Border Security Programs account" for "credited to this account".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority to Administratively Amend Surcharges
 

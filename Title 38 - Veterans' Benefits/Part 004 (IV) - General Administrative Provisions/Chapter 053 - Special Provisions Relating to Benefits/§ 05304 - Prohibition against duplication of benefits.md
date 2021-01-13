@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in section 1414 of title 10 or to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation, emergency officers', regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's own service or concurrently to any person based on the service of any other person.
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 of this title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 ofthis title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
 
 (b)(1) Except as provided in paragraphs (2) and (3) of this subsection and in section 1521(i) of this title, the receipt of pension, compensation, or dependency and indemnity compensation by a surviving spouse, child, or parent on account of the death of any person, or receipt by any person of pension or compensation on account of such person's own service, shall not bar the payment of pension, compensation, or dependency and indemnity compensation on account of the death or disability of any other person.
 
@@ -17,6 +17,8 @@
 (2) The Secretary shall collect any reduction under paragraph (1) from amounts otherwise payable to the person under this title, including pension and compensation payable under this title, before any pension and compensation payments under this title may be paid to the person.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1230, §3104; Pub. L. 86–495, §1, June 8, 1960, 74 Stat. 163; Pub. L. 88–664, §9, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 91–376, §6, Aug. 12, 1970, 84 Stat. 790; Pub. L. 95–588, title III, §304, Nov. 4, 1978, 92 Stat. 2507; Pub. L. 96–385, title V, §503(a), Oct. 7, 1980, 94 Stat. 1534; Pub. L. 99–576, title VII, §701(71), Oct. 28, 1986, 100 Stat. 3297; renumbered §5304 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 108–454, title III, §308(a), Dec. 10, 2004, 118 Stat. 3614; Pub. L. 114–92, div. A, title VI, §633(b), Nov. 25, 2015, 129 Stat. 850.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,6 +54,8 @@ Subsec. (c). Pub. L. 99–576, §701(71)(C), substituted "any person's" for "his
 
 <b>1960</b>—Subsec. (b)(2). Pub. L. 86–495 substituted provisions prohibiting the payment or furnishing of benefits other than insurance to or on account of any child by reason of the death of more than one parent in the same parental line, and permitting the child to elect one or more times to receive benefits by reason of the death of any one of such parents, for provisions which prohibited the payment of dependency and indemnity compensation to or on account of a child by reason of the death of another parent where the child receives or there is paid by the Veterans' Administration on account of a child dependency and indemnity compensation, or death compensation, by reason of the death of a parent.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment; Implementation
 
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
@@ -74,5 +78,5 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–495, §2, June 8, 1960, 74 Stat. 163, provided that: "The amendment made by this Act \[amending this section\] shall apply only to cases where the death of a parent occurs after the date of enactment of this Act \[June 8, 1960\]."
+Pub. L. 86–495, §2, June 8, 1960, 74 Stat. 163, provided that: "The amendment made by this Act \[amending this section\] shall apply only to cases where the deathof a parent occurs after the date of enactment of this Act \[June 8, 1960\]."
 

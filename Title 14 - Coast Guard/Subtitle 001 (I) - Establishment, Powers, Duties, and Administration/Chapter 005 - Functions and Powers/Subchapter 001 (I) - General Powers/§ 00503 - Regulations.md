@@ -12,6 +12,8 @@ This section enlarges said sections to prescribe what is generally understood in
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 503 was renumbered section 2747 of this title.

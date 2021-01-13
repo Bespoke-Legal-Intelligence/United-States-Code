@@ -16,7 +16,7 @@ In order to qualify for assistance under section 11211(a) of this title, an appl
 
 &emsp;&emsp;(B) a ratio of staff to youth that is sufficient to ensure adequate supervision and treatment;
 
-&emsp;(3) shall develop adequate plans for contacting the parents or other relatives of the youth and ensuring the safe return of the youth according to the best interests of the youth, for contacting local government officials pursuant to informal arrangements established with such officials by the runaway and homelessyouth center and for providing for other appropriate alternative living arrangements;
+&emsp;(3) shall develop adequate plans for contacting the parents or other relatives of the youth and ensuring the safe return of the youth according to the best interests of the youth, for contacting local government officials pursuant to informal arrangements established with such officials by the runaway and homeless youth center and for providing for other appropriate alternative living arrangements;
 
 &emsp;(4) shall develop an adequate plan for ensuring—
 
@@ -100,6 +100,8 @@ To be eligible to use assistance under section 11211(a)(2)(C)(iii) of this title
 
 (Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §3(b), Oct. 8, 2008, 122 Stat. 4069.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -130,7 +132,7 @@ Subsec. (b)(2). Pub. L. 102–586, §3(c)(2)(A), amended par. (2) generally. Pri
 
 Subsec. (b)(3). Pub. L. 102–586, §3(c)(2)(B), substituted "parents or other relatives of the youth and ensuring" for "child's parents or relatives and assuring" and "youth" for "child" after "the" in two places.
 
-Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;".
+Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: "shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;".
 
 Subsec. (b)(5). Pub. L. 102–586, §3(c)(2)(D), substituted "providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring" for "aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring" and "youth" for "children" after "those".
 
@@ -171,6 +173,8 @@ Subsec. (b)(6). Pub. L. 98–473, §652(5), substituted "family members" for "pa
 Subsec. (b). Pub. L. 96–509, §18(d)(2), substituted "center" for "house" wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
 
 <b>1977</b>—Subsec. (b)(5), (6). Pub. L. 95–115 substituted "aftercare services" for "aftercase services" in par. (5), and "the consent of the individual youth and parent or legal guardian" for "parental consent" in par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

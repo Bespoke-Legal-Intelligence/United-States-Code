@@ -20,11 +20,13 @@ The provisions of the Renegotiation Act of 1951 do not apply to procurement cont
 
 (Pub. L. 90–629, ch. 2, §22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, §25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, §207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, §17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, §105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, §531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1223\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended,which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Amendments
 
@@ -42,6 +44,8 @@ Subsec. (b). Pub. L. 94–329, §207(b), substituted provisions authorizing Pres
 
 <b>1973</b>—Pub. L. 93–189 designated text preceding first proviso as subsec. (a) and inserted "Except as otherwise provided in this section," before "the President", designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of a foreign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment; Implementing Regulations
 
 Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided that: "Section 22(d) of the Arms Export Control Act \[subsec. (d) of this section\], as added by subsection (a)—
@@ -56,57 +60,7 @@ Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided th
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
-
-#### Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales
-
-Pub. L. 116–92, div. A, title VIII, §807(c), Dec. 20, 2019, 133 Stat. 1486, provided that: "The regulations prescribed pursuant to section 830(a) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2762 note) shall not take effect until December 31, 2020. The regulations as so prescribed shall take into account the findings of the review conducted under subsection (a)(1) \[133 Stat. 1485\]."
-
-Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, §812, Dec. 12, 2017, 131 Stat. 1461, provided that:
-
-"(a)
-
-Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall prescribe regulations to require the use of firm fixed-price contracts for foreign military sales.
-
-"(b)
-
-Exceptions.—The regulations prescribed pursuant to subsection (a) shall include exceptions that may be exercised if the foreign country that is the counterparty to a foreign military sale—
-
-&emsp;"(1) has established in writing a preference for a different contract type; or
-
-&emsp;"(2) requests in writing that a different contract type be used for a specific foreign military sale.
-
-"(c)
-
-Waiver Authority.—The regulations prescribed pursuant to subsection (a) shall include a waiver that may be exercised by the Secretary of Defense or his designee if the Secretary or his designee determines on a case-by-case basis that a different contract type is in the best interest of the United States and American taxpayers.
-
-"(d)
-
-Pilot Program for Acceleration of Foreign Military Sales.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Defense shall establish a pilot program to reform and accelerate the contracting and pricing processes associated with full rate production of major weapon systems for no more than 10 foreign military sales contracts by—
-
-&emsp;&emsp;"(A) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar product for the Department of Defense; and
-
-&emsp;&emsp;"(B) reducing the cost and pricing data to be submitted in accordance with section 2306a of title 10, United States Code.
-
-&emsp;"(2)
-
-Determination of same or similar product.—The Secretary of Defense and the Secretary of State shall jointly determine whether a product is considered to be a similar product for the purposes of this pilot program.
-
-&emsp;"(3)
-
-Waiver of cost or pricing certification.—The Secretary of Defense may waive the certification requirement under section 2306a(a)(2) of title 10, United States Code, if the Secretary determines that the Federal Government has sufficient data and information regarding the reasonableness of the price.
-
-&emsp;"(4)
-
-Expiration of authority.—Authority for the pilot program under this subsection expires on January 1, 2020."
-
-#### Prior Provisions
+#### Similar Provisions
 
 Provisions similar to those comprising subsec. (d)(2) of this section were contained in the following appropriation acts:
 
@@ -119,4 +73,16 @@ Pub. L. 105–118, title V, §535, Nov. 26, 1997, 111 Stat. 2416.
 Pub. L. 104–208, div. A, title I, §101(c) \[title V, §533A\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153.
 
 Pub. L. 104–107, title V, §531A(c), Feb. 12, 1996, 110 Stat. 731.
+
+#### Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales
+
+Pub. L. 116–92, div. A, title VIII, §807(c), Dec. 20, 2019, 133 Stat. 1486, provided that the regulations prescribed pursuant to section 830(a) of title VIII of div. A of Pub. L. 114–328, formerly set out as a note below, would not take effect until Dec. 31, 2020.
+
+Pub. L. 114–328, div. A, title VIII, §830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, §812, Dec. 12, 2017, 131 Stat. 1461, which directed the Secretary of Defense to prescribe regulations to require firm fixed-price contracts for foreign military sales not later than 180 days after Dec. 23, 2016, and to establish a pilot program for acceleration of foreign military sales, was repealed by Pub. L. 116–283, div. A, title VIII, §888, Jan. 1, 2021, 134 Stat. 3791.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

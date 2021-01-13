@@ -12,7 +12,7 @@
 
 #### (b) Training sessions
 
-A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
+A participant in a State Police Corps program shall attend up to 24 weeks, but no less than 16 weeks, of training at a training center. The Director may approve training conducted in not more than 3 separate sessions.
 
 #### (c) Further training
 
@@ -31,6 +31,8 @@ A participant shall be evaluated during training for mental, physical, and emoti
 The Director shall pay participants in training sessions a stipend of $400 a week during training.
 
 (Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597; Pub. L. 107–273, div. C, title I, §11006(2), Nov. 2, 2002, 116 Stat. 1817.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

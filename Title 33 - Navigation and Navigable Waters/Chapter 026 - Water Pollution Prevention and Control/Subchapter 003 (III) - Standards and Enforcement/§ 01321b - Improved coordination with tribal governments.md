@@ -32,9 +32,11 @@ The Coast Guard may enter into memoranda of agreement and associated protocols w
 
 #### (d) Funding for tribal participation
 
-Subject to the availability of appropriations, the Commandant of the Coast Guard shall provide assistance to participating tribal governments in order to facilitate the implementationof cooperative arrangements under subsection (c) and ensure the participation of tribal governments in such arrangements. There are authorized to be appropriated to the Commandant $500,000 for each of fiscal years 2010 through 2014 to be used to carry out this section.
+Subject to the availability of appropriations, the Commandant of the Coast Guard shall provide assistance to participating tribal governments in order to facilitate the implementation of cooperative arrangements under subsection (c) and ensure the participation of tribal governments in such arrangements. There are authorized to be appropriated to the Commandant $500,000 for each of fiscal years 2010 through 2014 to be used to carry out this section.
 
 (Pub. L. 111–281, title VII, §706, Oct. 15, 2010, 124 Stat. 2983.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

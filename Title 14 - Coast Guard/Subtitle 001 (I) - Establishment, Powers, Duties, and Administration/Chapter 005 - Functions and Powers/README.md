@@ -41,6 +41,9 @@
 | [545\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000545%20-%20Marking%20of%20obstructions.md) | Marking of obstructions. |
 | [546\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000546%20-%20Deposit%20of%20damage%20payments.md) | Deposit of damage payments. |
 | [547\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000547%20-%20Rewards%20for%20apprehension%20of%20persons%20interfering%20with%20aids%20to%20navigation.md) | Rewards for apprehension of persons interfering with aids to navigation. |
+| [548\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000548%20-%20Prohibition%20against%20officers%20and%20employees%20being%20interested%20in%20contracts%20for%20materials.md) | Prohibition against officers and employees being interested in contracts for materials. |
+| [549\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000549%20-%20Lighthouse%20and%20other%20sites%3B%20necessity%20and%20sufficiency%20of%20cession%20by%20State%20of%20jurisdiction.md) | Lighthouse and other sites; necessity and sufficiency of cession by State of jurisdiction. |
+| [550\.](Subchapter%20003%20%28III%29%20-%20Aids%20to%20Navigation/%C2%A7%2000550%20-%20Marking%20pierheads%20in%20certain%20lakes.md) | Marking pierheads in certain lakes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,11 +57,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior analysis for chapter 5 "FUNCTIONS AND POWERS" consisted of items 81 "Aids to navigation authorized", 83 "Unauthorized aids to maritime navigation; penalty", 84 "Interference with aids to navigation; penalty", 85 "Aids to maritime navigation; penalty", 86 "Marking of obstructions", 87 "Icebreaking in polar regions", 88 "Saving life and property", 89 "Law enforcement", 90 "Arctic maritime transportation", 91 "Safety of naval vessels", 92 "Secretary; general powers", 93 "Commandant; general powers", 94 "Oceanographic research", 95 "Special agents of the Coast Guard Investigative Service law enforcement authority", 96 "Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards", 97 "Procurement of buoy chain", 98 "National Coast Guard Museum", 99 "Enforcement authority", 100 "Enforcement of coastwise trade laws", 101 "Appeals and waivers", 102 "Agreements", 103 "Notification of certain determinations", and 104 "Protecting against unmanned aircraft", prior to repeal by Pub. L. 115–282, title I, §105(a), Dec. 4, 2018, 132 Stat. 4199.
+A prior analysis for chapter 5 "FUNCTIONS AND POWERS" consisted of items 81 "Aids to navigationauthorized", 83 "Unauthorized aids to maritime navigation; penalty", 84 "Interference with aids to navigation; penalty", 85 "Aids to maritime navigation; penalty", 86 "Marking of obstructions", 87 "Icebreaking in polar regions", 88 "Saving life and property", 89 "Law enforcement", 90 "Arctic maritime transportation", 91 "Safety of naval vessels", 92 "Secretary; general powers", 93 "Commandant; general powers", 94 "Oceanographic research", 95 "Special agents of the Coast Guard Investigative Service law enforcement authority", 96 "Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards", 97 "Procurement of buoy chain", 98 "National Coast Guard Museum", 99 "Enforcement authority", 100 "Enforcement of coastwise trade laws", 101 "Appeals and waivers", 102 "Agreements", 103 "Notification of certain determinations", and 104 "Protecting against unmanned aircraft", prior to repeal by Pub. L. 115–282, title I, §105(a), Dec. 4, 2018, 132 Stat. 4199.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8509(c), Jan. 1, 2021, 134 Stat. 4756, added items 548 to 550.
 
 <b>2018</b>—Pub. L. 115–282, title I, §105(a), title III, §§305(b), 318(b), Dec. 4, 2018, 132 Stat. 4200, 4246, 4252, inserted chapter 5 designation and heading and added items 501 to 563.
 

@@ -30,7 +30,7 @@
 
 &emsp;(3) shall include such other terms and conditions as the Secretary concerned determines are necessary or desirable to protect the interests of the United States.
 
-(c)(1) The Secretary concerned may enter into a lease under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed lease, including an economic analysis\(based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility.
+(c)(1) The Secretary concerned may enter into a lease under this section only after the end of the 14-day period beginning on the date on which the Secretary submits, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a justification of the need for the facility covered by the proposed lease, including an economic analysis (based upon accepted life-cycle costing procedures) that demonstrates the cost effectiveness of the proposed lease compared with a military construction project for the same facility.
 
 (2) Each Secretary concerned may, under this section, enter into—
 

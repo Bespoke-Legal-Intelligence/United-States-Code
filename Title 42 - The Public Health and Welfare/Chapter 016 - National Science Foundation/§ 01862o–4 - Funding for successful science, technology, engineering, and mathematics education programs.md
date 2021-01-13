@@ -20,7 +20,7 @@ The Science and Engineering Equal Opportunity Act, referred to in subsec. (a)(1)
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not aspart of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

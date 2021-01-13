@@ -20,7 +20,7 @@ In this chapter:
 
 #### (4) Importing authority
 
-&emsp;The term "importing authority" means 1 or more entities designated by a Participant into whose territory a shipment of rough diamonds is imported as having the authority to enforce the laws and regulations of the Participant regulating imports, including the verification of the Kimberley Process Certificate accompanying the shipment.
+&emsp;The term "importing authority" means 1 or more entities designated by a Participant intowhose territory a shipment of rough diamonds is imported as having the authority to enforce the laws and regulations of the Participant regulating imports, including the verification of the Kimberley Process Certificate accompanying the shipment.
 
 #### (5) Kimberley Process Certificate
 

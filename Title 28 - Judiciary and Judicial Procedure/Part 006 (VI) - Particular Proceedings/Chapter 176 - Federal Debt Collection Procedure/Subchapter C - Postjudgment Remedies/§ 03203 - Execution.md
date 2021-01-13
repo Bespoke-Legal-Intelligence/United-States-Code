@@ -30,7 +30,7 @@ Additional contents.—(i) Except as provided in clauses (ii) and (iii), the wri
 
 &emsp;&emsp;(ii) A writ of execution issued on a judgment for the delivery to the United States of the possession of personal property, or for the delivery of the possession of real property, shall particularly describe the property, and shall require the marshal to deliver the possession of the property to the United States.
 
-&emsp;&emsp;(iii) A writ of execution on a judgment for the recovery of personal property or its value shall direct the marshal, in case a delivery of the specific property cannot be had, to levy and collect such value out of any property in which the judgment debtor has a substantial nonexempt interest.
+&emsp;&emsp;(iii) A writ of execution on a judgment for the recovery of personal property or itsvalue shall direct the marshal, in case a delivery of the specific property cannot be had, to levy and collect such value out of any property in which the judgment debtor has a substantial nonexempt interest.
 
 (d)
 
@@ -106,7 +106,7 @@ In general.—(I) Except as provided in clause (ii), real property, or any inter
 
 &emsp;&emsp;&emsp;(II) The court may order the sale of any real property after the expiration of the 30-day period beginning on the date of levy under subsection (d) if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during the 90-day period beginning on the date of levy.
 
-&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location forrural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
+&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
 
 &emsp;&emsp;&emsp;(IV) The United States marshal shall serve written notice of public sale by personal delivery, or certified or registered mail, to each person whom the marshal has reasonable cause to believe, after a title search is conducted by the United States, has an interest in property under execution, including lienholders, co-owners, and tenants, at least 25 days before the day of sale, to the last known address of each such person.
 
@@ -180,7 +180,7 @@ Purchaser considered innocent purchaser without notice.—The purchaser of prope
 
 &emsp;&emsp;(C)
 
-Liability of successful bidder who fails to comply.—A successful bidder at an execution sale who fails to comply with the terms of the sale shall forfeit to the United States the cash deposit or, at the election ofthe United States, shall be liable to the United States, on a subsequent sale of the property, for all net losses incurred by the United States as a result of such failure.
+Liability of successful bidder who fails to comply.—A successful bidder at an execution sale who fails to comply with the terms of the sale shall forfeit to the United States the cash deposit or, at the election of the United States, shall be liable to theUnited States, on a subsequent sale of the property, for all net losses incurred by the United States as a result of such failure.
 
 (h)
 
@@ -201,6 +201,8 @@ Distribution of sale proceeds.—(A) The United States marshal shall first deliv
 Further levy if execution not satisfied.—If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4950.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

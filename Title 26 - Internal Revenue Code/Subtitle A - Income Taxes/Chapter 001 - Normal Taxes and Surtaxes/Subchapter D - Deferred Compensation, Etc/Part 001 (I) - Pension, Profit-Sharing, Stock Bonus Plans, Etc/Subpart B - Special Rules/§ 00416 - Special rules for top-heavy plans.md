@@ -100,7 +100,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (A) In general
 
-&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415). Employer matching contributions (as defined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
+&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415). Employer matching contributions (asdefined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
 
 #### (B) Special rule where maximum contribution less than 3 percent
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (ii) 1-percent owner
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person who would be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person whowould be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
 
 #### (iii) Constructive ownership rules
 
@@ -356,11 +356,11 @@ Subsec. (g)(3). Pub. L. 107–16, §613(c)(1), amended heading and text of par. 
 
 > such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 5-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group."
 
-Subsec. (g)(4)(E). Pub. L. 107–16, §613(c)(2), in heading substituted "last year before determination date" for "last 5 years" and in text substituted "1-year period" for "5-year period".
+Subsec. (g)(4)(E). Pub. L. 107–16, §613(c)(2), in heading substituted "last year before determination date" for"last 5 years" and in text substituted "1-year period" for "5-year period".
 
 Subsec. (g)(4)(H). Pub. L. 107–16, §613(d), added subpar. (H).
 
-Subsec. (i)(1)(A). Pub. L. 107–16, §613(a)(1)(D), in concluding provisions, substituted "in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000." for "For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annualcompensation from the employer shall be treated as having a larger interest."
+Subsec. (i)(1)(A). Pub. L. 107–16, §613(a)(1)(D), in concluding provisions, substituted "in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000." for "For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest."
 
 Pub. L. 107–16, §613(a)(1)(A), struck out "or any of the 4 preceding plan years" after "plan year" in introductory provisions.
 

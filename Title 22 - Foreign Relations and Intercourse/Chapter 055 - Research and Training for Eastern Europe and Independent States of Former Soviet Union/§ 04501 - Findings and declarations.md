@@ -22,9 +22,13 @@ The Congress finds and declares that—
 
 (Pub. L. 98–164, title VIII, §802, Nov. 22, 1983, 97 Stat. 1047; Pub. L. 103–199, title III, §302(3), Dec. 17, 1993, 107 Stat. 2322.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1993</b>—Pars. (1), (2), (3)(E). Pub. L. 103–199 substituted "countries of Eastern Europe and the independent states of the former Soviet Union" for "Soviet Union and Eastern European countries".
+<b>1993</b>—Pars. (1), (2), (3)(E). Pub. L. 103–199 substituted "countries of Eastern Europe and the independentstates of the former Soviet Union" for "Soviet Union and Eastern European countries".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -44,7 +44,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (1) Plan years ending on or before September 30, 2006
 
-&emsp;For plan years ending on or before September 30, 2006, the unassigned beneficiaries premium for any assigned operator shall be equal to the applicable percentage of the product ofthe per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.
+&emsp;For plan years ending on or before September 30, 2006, the unassigned beneficiaries premium for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.
 
 #### (2) Plan years beginning on or after October 1, 2006
 
@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferredunder section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (2) Deductibility
 
-&emsp;Any premium required by this section shall be deductible without regard to any limitationon deductibility based on the prefunding of health benefits.
+&emsp;Any premium required by this section shall be deductible without regard to any limitation on deductibility based on the prefunding of health benefits.
 
 #### (h) Information
 
@@ -210,7 +210,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Coordination with repeal of assignments
 
-&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
+&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liablefor the payment of premiums under section 9706(h)(3).
 
 #### (D) Controlled group
 

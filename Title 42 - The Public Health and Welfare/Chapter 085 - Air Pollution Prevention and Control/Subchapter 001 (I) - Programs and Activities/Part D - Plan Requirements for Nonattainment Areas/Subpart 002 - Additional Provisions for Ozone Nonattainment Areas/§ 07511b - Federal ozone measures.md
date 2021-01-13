@@ -12,7 +12,7 @@ Within 3 years after November 15, 1990, the Administrator shall issue control te
 
 (3) Within 3 years after November 15, 1990, the Administrator shall issue control techniques guidelines in accordance with section 7408 of this title to reduce the aggregate emissions of volatile organic compounds into the ambient air from aerospace coatings and solvents. Such control techniques guidelines shall, at a minimum, be adequate to reduce aggregate emissions of volatile organic compounds into the ambient air from the application of such coatings and solvents to such level as the Administrator determines may be achieved through the adoption of best available control measures. Such control technology guidance shall provide for such reductions in such increments and on such schedules as the Administrator determines to be reasonable, but in no event later than 10 years after the final issuance of such control technology guidance. In developing control technology guidance under this subsection, the Administrator shall consult with the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration with regard to the establishment of specifications for such coatings. In evaluating VOC reduction strategies, the guidance shall take into account the applicable requirements of section 7412 of this title and the need to protect stratospheric ozone.
 
-(4) Within 3 years after November 15, 1990, the Administrator shall issue control techniques guidelines in accordance with section 7408 of this title to reduce the aggregate emissions of volatile organic compounds and PM–10 into theambient air from paints, coatings, and solvents used in shipbuilding operations and ship repair. Such control techniques guidelines shall, at a minimum, be adequate to reduce aggregate emissions of volatile organic compounds and PM–10 into the ambient air from the removal or application of such paints, coatings, and solvents to such level as the Administrator determines may be achieved through the adoption of the best available control measures. Such control techniques guidelines shall provide for such reductions in such increments and on such schedules as the Administrator determines to be reasonable, but in no event later than 10 years after the final issuance of such control technology guidance. In developing control techniques guidelines under this subsection, the Administrator shall consult with the appropriate Federal agencies.
+(4) Within 3 years after November 15, 1990, the Administrator shall issue control techniques guidelines in accordance with section 7408 of this title to reduce the aggregate emissions of volatile organic compounds and PM–10 into the ambient air from paints, coatings, and solvents used in shipbuilding operations and ship repair. Such control techniques guidelines shall, at a minimum, be adequate to reduce aggregate emissions of volatile organic compounds and PM–10 into the ambient air from the removal or application of such paints, coatings, and solvents to such level as the Administrator determines may be achieved through the adoption of the best available control measures. Such control techniques guidelines shall provide for such reductions in such increments and on such schedules as the Administrator determines to be reasonable, but in no event later than 10 years after the final issuance of such control technology guidance. In developing control techniques guidelines under this subsection, the Administrator shall consult with the appropriate Federal agencies.
 
 #### (c) Alternative control techniques
 
@@ -34,7 +34,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (B) Consumer or commercial product
 
-&emsp;&emsp;The term "consumer or commercial product" means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) held by any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
+&emsp;&emsp;The term "consumer or commercial product" means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) heldby any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
 
 #### (C) Regulated entities
 
@@ -94,7 +94,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (6) Enforcement
 
-&emsp;Any regulation established under this subsection shall be treated, for purposes of enforcement of this chapter, as a standard under section 7411 of this title and any violation of such regulation shall be treated as a violation of a requirement of section 7411(e) of this title.
+&emsp;Any regulation established under this subsection shall be treated, for purposes of enforcement of this chapter, as a standard under section 7411 of this title and any violation ofsuch regulation shall be treated as a violation of a requirement of section 7411(e) of this title.
 
 #### (7) State administration
 
@@ -118,7 +118,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (2) Regulations on equipment safety
 
-&emsp;Within 6 months after November 15, 1990, the Secretary of the Department in which the Coast Guard is operating shall issue regulations to ensure the safety of the equipment and operations which are to control emissions from the loading and unloading of tank vessels, under section 3703 of title 46 and section 1225 <sup>2</sup> of title 33. The standards promulgated bythe Administrator under paragraph (1) and the regulations issued by a State or political subdivision regarding emissions from the loading and unloading of tank vessels shall be consistent with the regulations regarding safety of the Department in which the Coast Guard is operating.
+&emsp;Within 6 months after November 15, 1990, the Secretary of the Department in which the Coast Guard is operating shall issue regulations to ensure the safety of the equipment and operations which are to control emissions from the loading and unloading of tank vessels, under section 3703 of title 46 and section 1225 <sup>2</sup> of title 33. The standards promulgated by the Administrator under paragraph (1) and the regulations issued by a State or political subdivision regarding emissions from the loading and unloading of tank vessels shall be consistent with the regulations regarding safety of the Department in which the Coast Guard is operating.
 
 #### (3) Agency authority
 
@@ -144,7 +144,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 #### (A) In general
 
-&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated by a United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
+&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated by a United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the UnitedStates, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
 
 #### (B) Applicability
 
@@ -182,7 +182,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-Section 1225 of title 33, referred to in subsec. (f)(2), was repealed by Pub. L. 115–282, title IV, §402(e), Dec. 4,2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70011 of Title 46.
+Section 1225 of title 33, referred to in subsec. (f)(2), was repealed by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70011 of Title 46.
 
 #### Amendments
 

@@ -62,7 +62,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 #### (ii) Advice on request
 
-&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shall provide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
+&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shallprovide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
 
 #### (iii) Recommendations to Congress
 
@@ -80,6 +80,8 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 (Pub. L. 107–296, title V, §503, as added Pub. L. 109–295, title VI, §611(11), Oct. 4, 2006, 120 Stat. 1396.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(5)(B), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
@@ -87,6 +89,8 @@ This chapter, referred to in subsec. (c)(5)(B), was in the original "this Act", 
 #### Prior Provisions
 
 A prior section 313, Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213; Pub. L. 108–276, §3(c)(3), July 21, 2004, 118 Stat. 853; Pub. L. 109–417, title III, §301(c)(2), Dec. 19, 2006, 120 Stat. 2854, related to the transfer of certain functions to the Secretary of Homeland Security, prior to repeal by Pub. L. 109–295, title VI, §611(3), Oct. 4, 2006, 120 Stat. 1395.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

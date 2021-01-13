@@ -28,7 +28,7 @@ The Secretary of Education and the Secretary of Health and Human Services shall 
 
 #### (2) Final regulations
 
-&emsp;Not later than 18 months after July 22, 2014, the Secretaries described in paragraph (1), as appropriate, shall develop and publish in the Federal Register final regulations relating tothe transition to, and implementation of, this Act (including the amendments made by this Act).
+&emsp;Not later than 18 months after July 22, 2014, the Secretaries described in paragraph (1), as appropriate, shall develop and publish in the Federal Register final regulations relating to the transition to, and implementation of, this Act (including the amendments made by this Act).
 
 #### (g) Expenditure of funds during transition
 
@@ -41,6 +41,8 @@ The Secretary of Education and the Secretary of Health and Human Services shall 
 &emsp;Not more than 2 percent of any allotment to any State from amounts appropriated under the Workforce Investment Act of 1998 for fiscal year 2014 may be made available to carry out activities authorized under paragraph (1) and not less than 50 percent of any amount used to carry out activities authorized under paragraph (1) shall be made available to local entities for the purposes of the activities described in such paragraph.
 
 (Pub. L. 113–128, title V, §503, July 22, 2014, 128 Stat. 1701.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -55,6 +57,8 @@ This Act, referred to in subsecs. (c) to (g)(1), is Pub. L. 113–128, July 22, 
 The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

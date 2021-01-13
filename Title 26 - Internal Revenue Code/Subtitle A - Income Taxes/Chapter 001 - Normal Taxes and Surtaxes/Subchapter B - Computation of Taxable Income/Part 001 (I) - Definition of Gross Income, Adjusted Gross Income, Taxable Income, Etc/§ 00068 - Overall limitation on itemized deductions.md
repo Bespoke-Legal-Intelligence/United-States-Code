@@ -110,7 +110,7 @@ Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendment made by subsection (b)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
+Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendmentmade by subsection (b)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
 
 #### Effective Date of 1993 Amendment
 

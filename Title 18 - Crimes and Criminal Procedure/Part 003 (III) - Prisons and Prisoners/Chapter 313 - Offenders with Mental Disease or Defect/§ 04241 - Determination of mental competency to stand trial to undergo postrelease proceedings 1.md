@@ -6,7 +6,7 @@ Motion To Determine Competency of Defendant.—At any time after the commencemen
 
 (b)
 
-Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric orpsychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
+Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
 (c)
 
@@ -44,6 +44,8 @@ Based on title 18, U.S.C., 1940 ed., §876 (May 13, 1930, ch. 254, §6, 46 Stat.
 
 Changes were made in phraseology and surplusage omitted.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–248, §302(2)(A), inserted "to undergo postrelease proceedings" after "trial" in section catchline.
@@ -55,6 +57,8 @@ Subsec. (d). Pub. L. 109–248, §302(2)(C), substituted "proceedings to go forw
 Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted "or other proceedings" after "trial" and substituted "chapters 207 and 227" for "chapter 207".
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Determination of mental competency to stand trial" for "Examination and transfer to hospital" in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1984 Amendment
 

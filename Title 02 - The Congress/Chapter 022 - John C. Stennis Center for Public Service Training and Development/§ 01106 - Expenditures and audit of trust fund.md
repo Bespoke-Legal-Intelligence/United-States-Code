@@ -6,9 +6,11 @@ The Secretary of the Treasury is authorized to pay to the Center from the intere
 
 #### (b) Audit by GAO
 
-The activities of the Center under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have accessto all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Center, pertaining to such activities and necessary to facilitate the audit.
+The activities of the Center under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Center, pertaining to such activities and necessary to facilitate the audit.
 
 (Pub. L. 100–458, title I, §117, Oct. 1, 1988, 102 Stat. 2175; Pub. L. 101–520, title III, §313(b), Nov. 5, 1990, 104 Stat. 2282; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -6,13 +6,15 @@ Any citizen of the United States who, or whose ancestors in title in good faith 
 
 Upon the filing of an application to purchase any lands subject to the operation of this section, together with the required proof, the Secretary of the Interior shall cause the lands described in said application to be appraised, said appraisal to be on the basis of the value of such lands at the date of appraisal, exclusive of any increased value resulting from the development or improvement thereof for agricultural purposes by the applicant or his predecessor in interest, but inclusive of the stumpage value of any timber cut or removed by the applicant or his predecessor in interest.
 
-An applicant who applies to purchase lands under the provisions of this section, in order to be entitled to receive a patent, must within six months from receipt of notice of appraisal by the Secretary of the Interior pay to the officer, as the Secretary of the Interior may designate,of the United States land office of the district in which the lands are situated, the appraised price of the lands, and thereupon a patent shall issue to said applicant for such lands as the Secretary of the Interior shall determine that such applicant is entitled to purchase under this section. The proceeds derived by the Government from the sale of the lands hereunder shall be covered into the United States Treasury and applied as provided by law for the disposal of the proceeds from the sale of public lands.
+An applicant who applies to purchase lands under the provisions of this section, in order to be entitled to receive a patent, must within six months from receipt of notice of appraisal by the Secretary of the Interior pay to the officer, as the Secretary of the Interior may designate, of the United States land office of the district in which the lands are situated, the appraised price of the lands, and thereupon a patent shall issue to said applicant for such lands as the Secretary of the Interior shall determine that such applicant is entitled to purchase under this section. The proceeds derived by the Government from the sale of the lands hereunder shall be covered into the United States Treasury and applied as provided by law for the disposal of the proceeds from the sale of public lands.
 
 The Secretary of the Interior is authorized to prescribe all necessary rules and regulations for administering the provisions of this section and determining conflicting claims arising hereunder.
 
 All purchases made and patents issued under the provisions of this section shall be subject to and contain a reservation to the United States of all the coal, oil, gas, and other minerals in the lands so purchased and patented, together with the right to prospect for, mine, and remove the same.
 
 (Feb. 19, 1925, ch. 268, §§1, 2, 43 Stat. 951, 952; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

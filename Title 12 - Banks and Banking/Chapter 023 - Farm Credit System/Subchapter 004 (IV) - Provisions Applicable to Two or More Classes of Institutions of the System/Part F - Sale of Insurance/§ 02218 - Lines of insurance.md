@@ -26,15 +26,17 @@ Such regulations shall provide that—
 
 &emsp;&emsp;&emsp;(ii) licensed under State law to do business in the State; and
 
-&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors ofthe association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2); and
+&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors of the association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2); and
 
 &emsp;(3) no bank or association shall directly or indirectly discriminate in any manner against any agent, broker, or insurer that is not affiliated with such bank or association, or against any party who purchases insurance through any such nonaffiliated insurance agent, broker, or insurer.
 
 #### (c) Continuation of existing coverage
 
-Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
+Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of notmore than one year from such date and may continue to service such coverages until their expiration.
 
 (Pub. L. 92–181, title IV, §4.29, as added Pub. L. 96–592, title IV, §404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, §422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, §411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, §1834, Nov. 28, 1990, 104 Stat. 3833.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ Subsec. (a)(1). Pub. L. 100–399, §411(a), substituted "subchapters I and II o
 Subsec. (a)(2). Pub. L. 100–399, §411(b), substituted "Farm Credit Banks" for "Federal intermediate credit banks".
 
 Subsec. (b)(2). Pub. L. 100–233, §422(a)(2), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and added subpars. (D) and (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

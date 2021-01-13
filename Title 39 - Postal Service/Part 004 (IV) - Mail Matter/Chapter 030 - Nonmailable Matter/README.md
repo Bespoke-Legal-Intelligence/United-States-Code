@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title X, §1008(c)(2), Dec. 20, 2006, 120 Stat. 3260, added item 3018.

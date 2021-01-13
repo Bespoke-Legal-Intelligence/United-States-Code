@@ -60,7 +60,11 @@ For the purposes of this section—
 
 &emsp;(8) the term "child abuse" shall not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty;
 
-&emsp;(9) the term "covered individual" means an adult who is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization;
+&emsp;(9) the term "covered individual" means an adult who—
+
+&emsp;&emsp;(A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+
+&emsp;&emsp;(B) is an employee or representative of the United States Center for SafeSport;
 
 &emsp;(10) the term "event" includes travel, lodging, practice, competition, and health or medical treatment;
 
@@ -70,7 +74,7 @@ For the purposes of this section—
 
 #### (d) Agency designated to receive report and action to be taken
 
-For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside and for all covered individuals, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of achild, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
+For all Federal lands and all federally operated (or contracted) facilities in which children are cared for or reside and for all covered individuals, the Attorney General shall designate an agency to receive and investigate the reports described in subsection (a). By formal written agreement, the designated agency may be a non-Federal agency. When such reports are received by social services or health care agencies, and involve allegations of sexual abuse, serious physical injury, or life-threatening neglect of a child, there shall be an immediate referral of the report to a law enforcement agency with authority to take emergency action to protect the child. All reports received shall be promptly investigated, and whenever appropriate, investigations shall be conducted jointly by social services and law enforcement personnel, with a view toward avoiding unnecessary multiple interviews with the child.
 
 #### (e) Reporters and recipient of report involving children and homes of members of the Armed Forces
 
@@ -98,7 +102,9 @@ All individuals in the occupations listed in subsection (b)(1) who work on Feder
 
 Nothing in this section shall be construed to require a victim of child abuse to self-report the abuse.
 
-(Pub. L. 101–647, title II, §226, Nov. 29, 1990, 104 Stat. 4806; Pub. L. 114–328, div. A, title V, §575(b), Dec. 23, 2016, 130 Stat. 2142; Pub. L. 115–126, title I, §101(a), Feb. 14, 2018, 132 Stat. 318.)
+(Pub. L. 101–647, title II, §226, Nov. 29, 1990, 104 Stat. 4806; Pub. L. 114–328, div. A, title V, §575(b), Dec. 23, 2016, 130 Stat. 2142; Pub. L. 115–126, title I, §101(a), Feb. 14, 2018, 132 Stat. 318; Pub. L. 116–189, §10, Oct. 30, 2020, 134 Stat. 970.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -107,6 +113,8 @@ Another subsec. (g) of section 226 of Pub. L. 101–647 enacted section 2258 of 
 Section was formerly classified to section 13031 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(9). Pub. L. 116–189 substituted "adult who—" for "adult who", inserted subpar. (A) designation before "is authorized", and added subpar. (B).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–126, §101(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

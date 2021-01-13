@@ -62,6 +62,8 @@ In subsection (b), the words "officer or employee" are substituted for "member" 
 
 In subsection (d), the words "Employees in . . . the personnel system established under" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–323 struck out "(d)," after "731(c),".
@@ -71,6 +73,8 @@ In subsection (d), the words "Employees in . . . the personnel system establis
 <b>2000</b>—Subsec. (a)(7), (8). Pub. L. 106–303 added par. (7) and redesignated former par. (7) as (8).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–326 inserted "(e)(1)," after "(d),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

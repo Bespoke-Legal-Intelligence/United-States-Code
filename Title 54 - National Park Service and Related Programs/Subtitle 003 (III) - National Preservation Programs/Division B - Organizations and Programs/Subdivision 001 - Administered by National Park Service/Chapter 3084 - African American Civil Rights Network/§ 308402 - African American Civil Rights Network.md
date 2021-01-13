@@ -36,9 +36,13 @@ Elements.—The Network shall encompass the following elements:
 
 (Added Pub. L. 115–104, §3(a), Jan. 8, 2018, 131 Stat. 2261; amended Pub. L. 116–9, title II, §2407(a), Mar. 12, 2019, 133 Stat. 750.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–9 substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in section catchline and subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References
 

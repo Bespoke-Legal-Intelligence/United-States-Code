@@ -4,6 +4,8 @@ No purchase, grant, lease, or other conveyance of lands, or of any title or clai
 
 (R.S. §2116.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2116 derived from act June 30, 1834, ch. 161, §12, 4 Stat. 730.

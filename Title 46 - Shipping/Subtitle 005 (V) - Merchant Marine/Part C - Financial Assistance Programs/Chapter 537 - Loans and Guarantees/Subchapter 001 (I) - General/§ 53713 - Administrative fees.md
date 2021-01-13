@@ -64,6 +64,8 @@ June 29, 1936, ch. 858, title XI, §1104A(f)(1), (4) \[§1104A formerly §1104\]
 
 46 App.:1274(f)(4).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3506(h)(1)(A), substituted "reasonable for processing the application and monitoring the loan guarantee, including for—" for "reasonable for—" in introductory provisions.

@@ -20,6 +20,8 @@ The provision for imprisonment for 10 years was changed to 15 years to conform t
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

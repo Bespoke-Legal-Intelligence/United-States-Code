@@ -12,11 +12,11 @@ The application of subsection (a) of this section shall include, but shall not b
 
 &emsp;(2) Whenever authorized by or pursuant to the laws of the United States to conduct or carry out programs, transactions, or other relations with respect to foreign countries, nations, states, governments, or similar entities, the President or any agency of the United States Government is authorized to conduct and carry out, in accordance with section 3305 of this title, such programs, transactions, and other relations with respect to Taiwan (including, but not limited to, the performance of services for the United States through contracts with commercial entities on Taiwan), in accordance with the applicable laws of the United States.
 
-&emsp;(3)(A) The absence of diplomatic relations and recognition with respect to Taiwan shall not abrogate, infringe, modify, deny, or otherwise affect in any way any rights or obligations (including but not limited to those involving contracts, debts, or property interests of any kind) under the laws of the United States heretofore or hereafter acquired by or with respect to Taiwan.
+&emsp;(3)(A) The absence of diplomatic relations and recognition with respect to Taiwan shallnot abrogate, infringe, modify, deny, or otherwise affect in any way any rights or obligations (including but not limited to those involving contracts, debts, or property interests of any kind) under the laws of the United States heretofore or hereafter acquired by or with respect to Taiwan.
 
 &emsp;(B) For all purposes under the laws of the United States, including actions in any court in the United States, recognition of the People's Republic of China shall not affect in any way the ownership of or other rights or interests in properties, tangible and intangible, and other things of value, owned or held on or prior to December 31, 1978, or thereafter acquired or earned by the governing authorities on Taiwan.
 
-&emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people onTaiwan shall be considered the applicable law for that purpose.
+&emsp;(4) Whenever the application of the laws of the United States depends upon the law that is or was applicable on Taiwan or compliance therewith, the law applied by the people on Taiwan shall be considered the applicable law for that purpose.
 
 &emsp;(5) Nothing in this chapter, nor the facts of the President's action in extending diplomatic recognition to the People's Republic of China, the absence of diplomatic relations between the people on Taiwan and the United States, or the lack of recognition by the United States, and attendant circumstances thereto, shall be construed in any administrative or judicial proceeding as a basis for any United States Government agency, commission, or department to make a finding of fact or determination of law, under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] and the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3201 et seq.\], to deny an export license application or to revoke an existing export license for nuclear exports to Taiwan.
 
@@ -35,6 +35,8 @@ For all purposes, including actions in any court in the United States, the Congr
 Nothing in this chapter may be construed as a basis for supporting the exclusion or expulsion of Taiwan from continued membership in any international financial institution or any other international organization.
 
 (Pub. L. 96–8, §4, Apr. 10, 1979, 93 Stat. 15.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

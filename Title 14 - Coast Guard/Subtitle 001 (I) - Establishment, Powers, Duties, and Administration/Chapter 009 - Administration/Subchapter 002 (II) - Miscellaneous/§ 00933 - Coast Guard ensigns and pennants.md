@@ -2,9 +2,9 @@
 
 (a) Vessels and aircraft authorized by the Secretary shall be distinguished from other vessels and aircraft by an ensign, pennant, or other identifying insignia of such design as prescribed by the Secretary. Such ensign, pennant, or other identifying insignia shall be displayed in accordance with regulations prescribed by the Secretary.
 
-(b) No vessel or aircraft without authority shall carry, hoist, or display any ensign, pennant, or other identifying insignia prescribed for, or intended to resemble, any ensign, pennant, or other identifying insignia prescribed for Coast Guard vessels or aircraft. Every person violating this subsection shall be fined not more than $5,000, or imprisoned for not more than two years, or both.
+(b) No vessel or aircraft without authority shall carry, hoist, or display any ensign, pennant, or other identifying insignia prescribed for, or intended to resemble, any ensign, pennant, or other identifying insignia prescribed for Coast Guard vessels or aircraft. An individual violating this subsection shall be fined not more than $5,000, or imprisoned for not more than two years, or both.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 546, §638; Pub. L. 111–281, title II, §213(b), Oct. 15, 2010, 124 Stat. 2915; renumbered §933, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 546, §638; Pub. L. 111–281, title II, §213(b), Oct. 15, 2010, 124 Stat. 2915; renumbered §933, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(9), Jan. 1, 2021, 134 Stat. 4748.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +18,11 @@ Unauthorized display of such insignia is made illegal anywhere rather than only 
 
 The language is broadened to include "any person violating this section"; existing law applies to masters of offending vessels only. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "An individual" for "Every person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 638 of this title as this section.
 

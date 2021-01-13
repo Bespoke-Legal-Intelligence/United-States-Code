@@ -1,0 +1,248 @@
+### §9011. Subsidy for certain loan payments
+
+#### (a) Definition of covered loan
+
+In this section, the term "covered loan" means a loan that is—
+
+&emsp;(1) guaranteed by the Administration under—
+
+&emsp;&emsp;(A) section 636(a) of this title—
+
+&emsp;&emsp;&emsp;(i) including a loan made under the Community Advantage Pilot Program of the Administration; and
+
+&emsp;&emsp;&emsp;(ii) excluding a loan made under paragraph (36) of such section 636(a) of this title, as added by section 1102; or
+
+&emsp;&emsp;(B) title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.); or
+
+&emsp;(2) made by an intermediary to a small business concern using loans or grants received under section 636(m) of this title.
+
+#### (b) Sense of Congress
+
+It is the sense of Congress that—
+
+&emsp;(1) all borrowers are adversely affected by COVID–19;
+
+&emsp;(2) relief payments by the Administration are appropriate for all borrowers; and
+
+&emsp;(3) in addition to the relief provided under this Act, the Administration should encourage lenders to provide payment deferments, when appropriate, and to extend the maturity of covered loans, so as to avoid balloon payments or any requirement for increases in debt payments resulting from deferments provided by lenders during the period of the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19).
+
+#### (c) Principal and interest payments
+
+#### (1) In general
+
+&emsp;Subject to the other provisions of this section, the Administrator shall pay the principal, interest, and any associated fees that are owed on a covered loan in a regular servicing status, without regard to the date on which the covered loan is fully disbursed, and subject to availability of funds, as follows:
+
+&emsp;&emsp;(A) With respect to a covered loan made before March 27, 2020, and not on deferment, the Administrator shall make those payments as follows:
+
+&emsp;&emsp;&emsp;(i) The Administrator shall make those payments for the 6-month period beginning with the next payment due on the covered loan.
+
+&emsp;&emsp;&emsp;(ii) In addition to the payments under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to a covered loan other than a covered loan described in paragraph (1)(A)(i) or (2) of subsection (a), the Administrator shall make those payments for—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the 3-month period beginning with the first payment due on the covered loan on or after February 1, 2021; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an additional 5-month period immediately following the end of the 3-month period provided under item (aa) if the covered loan is made to a borrower that, according to records of the Administration, is assigned a North American Industry Classification System code beginning with 61, 71, 72, 213, 315, 448, 451, 481, 485, 487, 511, 512, 515, 532, or 812; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to a covered loan described in paragraph (1)(A)(i) or (2) of subsection (a), the Administrator shall make those payments for the 8-month period beginning with the first payment due on the covered loan on or after February 1, 2021.
+
+&emsp;&emsp;(B) With respect to a covered loan made before March 27, 2020, and on deferment, the Administrator shall make those payments as follows:
+
+&emsp;&emsp;&emsp;(i) The Administrator shall make those payments for the 6-month period beginning with the next payment due on the covered loan after the deferment period.
+
+&emsp;&emsp;&emsp;(ii) In addition to the payments under clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to a covered loan other than a covered loan described in paragraph (1)(A)(i) or (2) of subsection (a), the Administrator shall make those payments for—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the 3-month period (beginning on or after February 1, 2021) beginning with the later of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the next payment due on the covered loan after the deferment period; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the first month after the Administrator has completed the payments under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an additional 5-month period immediately following the end of the 3-month period provided under item (aa) if the covered loan is made to a borrower that, according to records of the Administration, is assigned a North American Industry Classification System code beginning with 61, 71, 72, 213, 315, 448, 451, 481, 485, 487, 511, 512, 515, 532, or 812; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to a loan described in paragraph (1)(A)(i) or (2) of subsection (a), the 8-month period (beginning on or after February 1, 2021) beginning with the later of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the next payment due on the covered loan after the deferment period; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the first month after the payments under clause (i) are complete.
+
+&emsp;&emsp;(C) With respect to a covered loan made during the period beginning on March 27, 2020, and ending on the date that is 6 months after March 27, 2020, for the 6-month period beginning with the first payment due on the covered loan.
+
+&emsp;&emsp;(D) With respect to a covered loan approved during the period beginning on February 1, 2021, and ending on September 30, 2021, for the 6-month period beginning with the first payment due on the covered loan.
+
+#### (2) Timing of payment
+
+&emsp;The Administrator shall begin making payments under paragraph (1) on a covered loan not later than 30 days after the date on which the first such payment is due.
+
+#### (3) Application of payment
+
+&emsp;Any payment made by the Administrator under paragraph (1) shall be applied to the covered loan such that the borrower is relieved of the obligation to pay that amount.
+
+#### (4) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;No single monthly payment of principal, interest, and associated fees made by the Administrator under subparagraph (A)(ii), (B)(ii), or (D) of paragraph (1) with respect to a covered loan may be in a total amount that is more than $9,000.
+
+#### (B) Treatment of additional amounts owed
+
+&emsp;&emsp;If, for a month, the total amount of principal, interest, and associated fees that are owed on a covered loan for which the Administration makes payments under paragraph (1) is more than $9,000 the Administrator may require the lender with respect to the covered loan to add the amount by which those costs exceed $9,000 for that month as interest to be paid by the borrower with respect to the covered loan at the end of the loan period.
+
+#### (5) Additional provisions for new loans
+
+&emsp;With respect to a loan described in paragraph (1)(C)—
+
+&emsp;&emsp;(A) the Administrator may further extend the period described in paragraph (1)(C) if there are sufficient funds to continue those payments; and
+
+&emsp;&emsp;(B) during the underwriting process, a lender of such a loan may consider the payments under this section as part of a comprehensive review to determine the ability to repay over the entire period of maturity of the loan.
+
+#### (6) Eligibility
+
+&emsp;Eligibility for a covered loan to receive such payments of principal, interest, and any associated fees under this subsection shall be based on the date on which the covered loan is approved by the Administration.
+
+#### (7) Authority to revise extensions
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator shall monitor whether amounts made available to make payments under this subsection are sufficient to make the payments for the periods described in paragraph (1).
+
+#### (B) Plan
+
+&emsp;&emsp;If the Administrator determines under subparagraph (A) that the amounts made available to make payments under this subsection are insufficient, the Administrator shall—
+
+&emsp;&emsp;&emsp;(i) develop a plan to proportionally reduce the number of months provided for each period described in paragraph (1), while ensuring all amounts made available to make payments under this subsection are fully expended; and
+
+&emsp;&emsp;&emsp;(ii) before taking action under the plan developed under clause (i), submit to Congress a report regarding the plan, which shall include the data that informs the plan.
+
+#### (8) Additional requirements
+
+&emsp;With respect to the payments made under this subsection—
+
+&emsp;&emsp;(A) no lender may charge a late fee to a borrower with respect to a covered loan during any period in which the Administrator makes payments with respect to the covered loan under paragraph (1); and
+
+&emsp;&emsp;(B) the Administrator shall, with respect to a covered loan, make all payments with respect to the covered loan under paragraph (1) not later than the 15th day of the applicable month.
+
+#### (9) Rule of construction
+
+&emsp;Except as provided in paragraph (4), nothing in this subsection may be construed to preclude a borrower from receiving full payments of principal, interest, and any associated fees authorized under this subsection with respect to a covered loan.
+
+#### (d) Other requirements
+
+The Administrator shall—
+
+&emsp;(1) communicate and coordinate with the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and State bank regulators to encourage those entities to not require lenders to increase their reserves on account of receiving payments made by the Administrator under subsection (c);
+
+&emsp;(2) waive statutory limits on maximum loan maturities for any covered loan durations where the lender provides a deferral and extends the maturity of covered loans during the 1-year period following March 27, 2020; and
+
+&emsp;(3) when necessary to provide more time because of the potential of higher volumes, travel restrictions, and the inability to access some properties during the COVID–19 pandemic, extend lender site visit requirements to—
+
+&emsp;&emsp;(A) not more than 60 days (which may be extended at the discretion of the Administration) after the occurrence of an adverse event, other than a payment default, causing a loan to be classified as in liquidation; and
+
+&emsp;&emsp;(B) not more than 90 days after a payment default.
+
+#### (e) Rule of construction
+
+Nothing in this section may be construed to limit the authority of the Administrator to make payments pursuant to subsection (c) with respect to a covered loan solely because the covered loan has been sold in the secondary market.
+
+#### (f) Eligibility for new loans
+
+For each individual lending program under this section, the Administrator may establish a minimum loan maturity period, taking into consideration the normal underwriting requirements for each such program, with the goal of preventing abuse under the program.
+
+#### (g) Limitation on assistance
+
+A borrower may not receive assistance under subsection (c) for more than 1 covered loan of the borrower described in paragraph (1)(C) of that subsection.
+
+#### (h) Reporting and outreach
+
+#### (1) Updated information
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 14 days after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, the Administrator shall make publicly available information regarding the modifications to the assistance provided under this section under the amendments made by such Act.
+
+#### (B) Guidance
+
+&emsp;&emsp;Not later than 21 days after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act the Administrator shall issue guidance on implementing the modifications to the assistance provided under this section under the amendments made by such Act.
+
+#### (2) Publication of list
+
+&emsp;Not later than March 1, 2021, the Administrator shall transmit to each lender of a covered loan a list of each borrower of a covered loan that includes the North American Industry Classification System code assigned to the borrower, based on the records of the Administration, to assist the lenders in identifying which borrowers qualify for an extension of payments under subsection (c).
+
+#### (3) Education and outreach
+
+&emsp;The Administrator shall provide education, outreach, and communication to lenders, borrowers, district offices, and resource partners of the Administration in order to ensure full and proper compliance with this section, encourage broad participation with respect to covered loans that have not yet been approved by the Administrator, and help lenders transition borrowers from subsidy payments under this section directly to a deferral when suitable for the borrower.
+
+#### (4) Notification
+
+&emsp;Not later than 30 days after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, the Administrator shall mail a letter to each borrower of a covered loan that includes—
+
+&emsp;&emsp;(A) an overview of assistance provided under this section;
+
+&emsp;&emsp;(B) the rights of the borrower to receive that assistance;
+
+&emsp;&emsp;(C) how to seek recourse with the Administrator or the lender of the covered loan if the borrower has not received that assistance; and
+
+&emsp;&emsp;(D) the rights of the borrower to request a loan deferral from a lender, and guidance on how to do <sup>1</sup> successfully transition directly to a loan deferral once subsidy payments under this section are concluded.
+
+#### (5) Monthly reporting
+
+&emsp;Not later than the 15th of each month beginning after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, the Administrator shall submit to Congress a report on assistance provided under this section, which shall include—
+
+&emsp;&emsp;(A) monthly and cumulative data on payments made under this section as of the date of the report, including a breakdown by—
+
+&emsp;&emsp;&emsp;(i) the number of participating borrowers;
+
+&emsp;&emsp;&emsp;(ii) the volume of payments made for each type of covered loan; and
+
+&emsp;&emsp;&emsp;(iii) the volume of payments made for covered loans made before March 27, 2020, and loans made after March 27, 2020;
+
+&emsp;&emsp;(B) the names of any lenders of covered loans that have not submitted information on the covered loans to the Administrator during the preceding month; and
+
+&emsp;&emsp;(C) an update on the education and outreach activities of the Administration carried out under paragraph (3).
+
+#### (i) Authorization of appropriations
+
+There is authorized to be appropriated to the Administrator $17,000,000,000 to carry out this section.
+
+(Pub. L. 116–136, div. A, title I, §1112, Mar. 27, 2020, 134 Stat. 309; Pub. L. 116–260, div. N, title III, §325(a), Dec. 27, 2020, 134 Stat. 2032.)
+
+#### References in Text
+
+Section 1102, referred to in subsec. (a)(1)(A)(ii), means section 1102 of Pub. L. 116–136.
+
+The Small Business Investment Act of 1958, referred to in subsec. (a)(1)(B), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+
+This Act, referred to in subsec. (b)(3), is div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286. For complete classification of this Act to the Code, see Tables.
+
+The National Emergencies Act, referred to in subsec. (b)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 etseq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+
+The date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, referred to in subsec. (h)(1), (4), (5), is the date of enactment of title III of div. N of Pub. L. 116–260, which was approved Dec. 27, 2020.
+
+Such Act, referred to in subsec. (h)(1), means the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, which is title III of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 1993. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 9001 of this title and Tables.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §325(a)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Administrator shall pay the principal, interest, and any associated fees that are owed on a covered loan in a regular servicing status—
+
+&emsp;"(A) with respect to a covered loan made before March 27, 2020, and not on deferment, for the 6-month period beginning with the next payment due on the covered loan;
+
+&emsp;"(B) with respect to a covered loan made before March 27, 2020, and on deferment, for the 6-month period beginning with the next payment due on the covered loan after the deferment period; and
+
+&emsp;"(C) with respect to a covered loan made during the period beginning on March 27, 2020, and ending on the date that is 6 months after March 27, 2020, for the 6-month period beginning with the first payment due on the covered loan."
+
+Subsec. (c)(4) to (9). Pub. L. 116–260, §325(a)(1)(B), added pars. (4) to (9).
+
+Subsecs. (f) to (i). Pub. L. 116–260, §325(a)(2), (3), added subsecs. (f) to (h) and redesignated former subsec. (f) as (i).
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. N, title III, §325(b), Dec. 27, 2020, 134 Stat. 2036, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
+
+#### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
+
+Payment described in subsec. (c) of this section not included in gross income of person on whose behalf such payment was made, see section 278 of div. N of Pub. L. 116–260, set out as a note under section 9008 of this title.
+
+<i><sup>1</sup></i><i> So in original. The word "do" probably should not appear.</i>
+

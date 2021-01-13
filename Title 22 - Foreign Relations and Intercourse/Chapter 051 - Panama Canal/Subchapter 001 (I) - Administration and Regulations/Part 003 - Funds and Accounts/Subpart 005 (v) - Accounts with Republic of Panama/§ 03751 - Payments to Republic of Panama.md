@@ -2,11 +2,11 @@
 
 #### (a) Payments required under Panama Canal Treaty; annual audit
 
-The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panamaunder paragraph 5 of Article III of the Panama Canal Treaty of 1977.
+The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Excess operating revenues
 
-In determining whether operating revenues exceed expenditures for the purpose of payments to the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977, such operating revenues in a fiscal period shall be reduced by (1) all costs of such period as shown by the accounts established pursuant to section 3721 of this title, and (2) the cumulative sum from prior years (beginning with the year in which the Panama Canal Treaty of 1977 enters into force) of any excess of costs of the Panama Canal Commission over operating revenues.
+In determining whether operating revenues exceed expenditures for the purpose of payments to the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977, such operating revenues in a fiscal period shall be reduced by (1) all costs of such period as shown by the accounts established pursuant to section 3721 of this title, and (2) the cumulativesum from prior years (beginning with the year in which the Panama Canal Treaty of 1977 enters into force) of any excess of costs of the Panama Canal Commission over operating revenues.
 
 #### (c) Retroactive taxation
 
@@ -30,6 +30,8 @@ Notwithstanding any other provision of law, no reduction under any order issued 
 
 (Pub. L. 96–70, title I, §1341, Sept. 27, 1979, 93 Stat. 482; Pub. L. 99–368, §6, Aug. 1, 1986, 100 Stat. 776; Pub. L. 100–203, title V, §5426, Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 104–201, div. C, title XXXV, §3548(b)(3), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 105–85, div. C, title XXXV, §3550(d)(7), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (g), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
@@ -46,6 +48,8 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–368 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
@@ -56,5 +60,5 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: "The amendment made by section 6 \[amendingthis section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years."
+Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: "The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years."
 

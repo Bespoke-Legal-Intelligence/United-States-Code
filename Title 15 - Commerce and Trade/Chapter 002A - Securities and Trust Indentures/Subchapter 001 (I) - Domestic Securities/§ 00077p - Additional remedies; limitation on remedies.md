@@ -78,7 +78,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) one or more named parties seek to recover damages on a representative basis on behalf of themselves and other unnamed parties similarly situated, and questions of law or fact common to those persons or members of the prospective class predominate over any questions affecting only individual persons or members; or
 
-&emsp;&emsp;&emsp;(ii) any group of lawsuits filed in or pending in the same court and involvingcommon questions of law or fact, in which—
+&emsp;&emsp;&emsp;(ii) any group of lawsuits filed in or pending in the same court and involving common questions of law or fact, in which—
 
 &emsp;&emsp;&emsp;&emsp;(I) damages are sought on behalf of more than 50 persons; and
 

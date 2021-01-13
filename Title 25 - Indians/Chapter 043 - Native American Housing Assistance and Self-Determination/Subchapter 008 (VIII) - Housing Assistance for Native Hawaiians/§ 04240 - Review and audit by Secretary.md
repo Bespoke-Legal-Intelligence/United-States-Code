@@ -28,9 +28,11 @@ The Secretary shall give the Department of Hawaiian Home Lands not less than 30 
 
 #### (c) Effect of reviews
 
-The Secretary may make appropriate adjustments in the amount of annual grants under this subchapter in accordance with the findings of the Secretary pursuant to reviews and audits under this section. The Secretary may adjust, reduce, or withdraw grant amounts, or take other action as appropriate in accordance withthe reviews and audits of the Secretary under this section, except that grant amounts already expended on affordable housing activities may not be recaptured or deducted from future assistance provided to the Department of Hawaiian Home Lands.
+The Secretary may make appropriate adjustments in the amount of annual grants under this subchapter in accordance with the findings of the Secretary pursuant to reviews and audits under this section. The Secretary may adjust, reduce, or withdraw grant amounts, or take other action as appropriate in accordance with the reviews and audits of the Secretary under this section, except that grant amounts already expended on affordable housing activities may not be recaptured or deducted from future assistance provided to the Department of Hawaiian Home Lands.
 
 (Pub. L. 104–330, title VIII, §821, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2894, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2988.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §474. Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities
 
-(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed,or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
+(a) Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed, or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
 
 Whoever makes or executes any plate, stone, or other thing in the likeness of any plate designated for the printing of such obligation or other security; or
 
@@ -28,6 +28,8 @@ References to persons causing, procuring, assisting or aiding were omitted as un
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56, §374(e)(3), substituted ", stones, or analog, digital, or electronic images" for "or stones" in section catchline.
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 107–56, §374(e)(2), inserted first sentence and struck o
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted "United States—" for "United States; or" at end, struck out seventh undesignated par. which read as follows: "Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—", and amended last undesignated par. generally. Prior to amendment, last par. read as follows: "Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both."
 
 Subsec. (b). Pub. L. 102–550, §1552(5), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

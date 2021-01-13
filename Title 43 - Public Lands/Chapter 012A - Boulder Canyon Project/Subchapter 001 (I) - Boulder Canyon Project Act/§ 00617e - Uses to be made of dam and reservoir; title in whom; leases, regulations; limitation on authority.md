@@ -8,9 +8,13 @@ The Federal Power Commission is directed not to issue or approve any permits or 
 
 (Dec. 21, 1928, ch. 42, §6, 45 Stat. 1061.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Power Act, referred to in text, which was in the original the "Federal Water Power Act", is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

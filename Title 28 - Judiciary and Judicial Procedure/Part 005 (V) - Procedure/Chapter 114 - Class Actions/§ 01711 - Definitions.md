@@ -8,7 +8,7 @@ Class.—The term "class" means all of the class members in a class action.
 
 &emsp;(2)
 
-Class action.—The term "class action" means any civil action filed in a district courtof the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
+Class action.—The term "class action" means any civil action filed in a district court of the United States under rule 23 of the Federal Rules of Civil Procedure or any civil action that is removed to a district court of the United States that was originally filed under a State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representatives as a class action.
 
 &emsp;(3)
 
@@ -28,9 +28,13 @@ Proposed settlement.—The term "proposed settlement" means an agreement regardi
 
 (Added Pub. L. 109–2, §3(a), Feb. 18, 2005, 119 Stat. 5.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in par. (2), is set out in the Appendix to this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

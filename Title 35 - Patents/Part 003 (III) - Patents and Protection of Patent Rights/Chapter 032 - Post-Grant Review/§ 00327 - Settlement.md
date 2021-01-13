@@ -10,6 +10,8 @@ Agreements in Writing.—Any agreement or understanding between the patent owner
 
 (Added Pub. L. 112–29, §6(d), Sept. 16, 2011, 125 Stat. 310.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective upon the expiration of the 1-year period beginning Sept. 16, 2011, and applicable only to patents described in section 3(n)(1) of Pub. L. 112–29 (35 U.S.C. 100 note), with certain exceptions and limitations, see section 6(f)(2), (3) of Pub. L. 112–29, set out as a note under section 321 of this title.

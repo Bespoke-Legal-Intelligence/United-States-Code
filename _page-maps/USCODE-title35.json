@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title35",
- "package": "USCODE-2019-title35",
+ "package": "USCODE-2020-title35",
  "pieces": [
   {
    "id": "35_",
@@ -14,10 +14,10 @@
     ],
     [
      "I",
-     395,
+     397,
      [
       [
-       109,
+       331,
        "[Page 2]"
       ]
      ]
@@ -51,36 +51,40 @@
    "id": "35_1",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 3]",
-     true
-    ],
-    [
      "I",
-     74,
+     4,
      [
       [
-       120,
-       "[Page 4]"
+       405,
+       "[Page 3]"
       ]
      ]
+    ],
+    [
+     "L",
+     72,
+     "[Page 4]",
+     true
     ],
     [
      "I",
      144,
      [
       [
-       652,
+       324,
        "[Page 5]"
       ]
      ]
     ],
     [
-     "L",
-     236,
-     "[Page 6]",
-     true
+     "I",
+     232,
+     [
+      [
+       113,
+       "[Page 6]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00001 - Establishment.md",
@@ -94,25 +98,29 @@
    "marks": [
     [
      "I",
-     34,
+     30,
      [
       [
-       92,
+       221,
        "[Page 7]"
       ]
      ]
     ],
     [
      "L",
-     88,
+     82,
      "[Page 8]",
      true
     ],
     [
-     "L",
-     180,
-     "[Page 9]",
-     true
+     "I",
+     176,
+     [
+      [
+       89,
+       "[Page 9]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00002 - Powers and duties.md",
@@ -125,30 +133,30 @@
    "id": "35_3",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       74,
-       "[Page 10]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 10]",
+     true
     ],
     [
      "I",
-     122,
+     82,
      [
       [
-       120,
+       77,
        "[Page 11]"
       ]
      ]
     ],
     [
-     "L",
-     198,
-     "[Page 12]",
-     true
+     "I",
+     154,
+     [
+      [
+       102,
+       "[Page 12]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00003 - Officers and employees.md",
@@ -159,40 +167,37 @@
   },
   {
    "id": "35_4",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       134,
+       "[Page 13]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00004 - Restrictions on officers and employees as to interest in patents.md",
    "printed_pages": [
     12,
-    12
+    13
    ]
   },
   {
    "id": "35_5",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       94,
-       "[Page 13]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     108,
-     [
-      [
-       98,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 14]",
+     true
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00005 - Patent and Trademark Office Public Advisory Committees.md",
    "printed_pages": [
-    12,
+    13,
     14
    ]
   },
@@ -201,10 +206,10 @@
    "marks": [
     [
      "I",
-     56,
+     20,
      [
       [
-       108,
+       79,
        "[Page 15]"
       ]
      ]
@@ -218,11 +223,22 @@
   },
   {
    "id": "35_7",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       172,
+       "[Page 16]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00007 - Library.md",
    "printed_pages": [
     15,
-    15
+    16
    ]
   },
   {
@@ -230,73 +246,69 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00008 - Classification of patents.md",
    "printed_pages": [
-    15,
-    15
-   ]
-  },
-  {
-   "id": "35_9",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       111,
-       "[Page 16]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00009 - Certified copies of records.md",
-   "printed_pages": [
-    15,
+    16,
     16
    ]
   },
   {
-   "id": "35_10",
+   "id": "35_9",
    "marks": [],
-   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00010 - Publications.md",
+   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00009 - Certified copies of records.md",
    "printed_pages": [
     16,
     16
    ]
   },
   {
-   "id": "35_11",
+   "id": "35_10",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       88,
-       "[Page 17]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 17]",
+     true
     ]
    ],
-   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00011 - Exchange of copies of patents and applications with foreign countries.md",
+   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00010 - Publications.md",
    "printed_pages": [
     16,
     17
    ]
   },
   {
-   "id": "35_12",
+   "id": "35_11",
    "marks": [
     [
      "L",
-     36,
+     20,
      "[Page 18]",
      true
     ]
    ],
-   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00012 - Copies of patents and applications for public libraries.md",
+   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00011 - Exchange of copies of patents and applications with foreign countries.md",
    "printed_pages": [
     17,
     18
+   ]
+  },
+  {
+   "id": "35_12",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       113,
+       "[Page 19]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00012 - Copies of patents and applications for public libraries.md",
+   "printed_pages": [
+    18,
+    19
    ]
   },
   {
@@ -304,8 +316,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00013 - Annual report to Congress.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -313,8 +325,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 001 - Establishment, Officers and Employees, Functions/§ 00014 - Renumbered §13.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -322,8 +334,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/README.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
@@ -334,16 +346,16 @@
      4,
      [
       [
-       88,
-       "[Page 19]"
+       222,
+       "[Page 20]"
       ]
      ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00021 - Filing date and day for taking action.md",
    "printed_pages": [
-    18,
-    19
+    19,
+    20
    ]
   },
   {
@@ -351,37 +363,33 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00022 - Printing of papers filed.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
    "id": "35_23",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 21]",
+     true
+    ]
+   ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00023 - Testimony in Patent and Trademark Office cases.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    21
    ]
   },
   {
    "id": "35_24",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 20]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00024 - Subpoenas, witnesses.md",
    "printed_pages": [
-    19,
-    20
+    21,
+    21
    ]
   },
   {
@@ -389,33 +397,37 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00025 - Declaration in lieu of oath.md",
    "printed_pages": [
-    20,
-    20
+    21,
+    21
    ]
   },
   {
    "id": "35_26",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       111,
+       "[Page 22]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00026 - Effect of defective execution.md",
    "printed_pages": [
-    20,
-    20
+    21,
+    22
    ]
   },
   {
    "id": "35_27",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 21]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 002 - Proceedings in the Patent and Trademark Office/§ 00027 - Revival of applications; reinstatement of reexamination proceedings.md",
    "printed_pages": [
-    20,
-    21
+    22,
+    22
    ]
   },
   {
@@ -423,8 +435,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 003 - Practice Before Patent and Trademark Office/README.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
@@ -432,24 +444,28 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 003 - Practice Before Patent and Trademark Office/§ 00031 - Repealed. Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4715(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
    "id": "35_32",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 22]",
-     true
+     "I",
+     20,
+     [
+      [
+       157,
+       "[Page 23]"
+      ]
+     ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 003 - Practice Before Patent and Trademark Office/§ 00032 - Suspension or exclusion from practice.md",
    "printed_pages": [
-    21,
-    22
+    22,
+    23
    ]
   },
   {
@@ -457,8 +473,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 003 - Practice Before Patent and Trademark Office/§ 00033 - Unauthorized representation as practitioner.md",
    "printed_pages": [
-    22,
-    22
+    23,
+    23
    ]
   },
   {
@@ -466,8 +482,8 @@
    "marks": [],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 004 - Patent Fees; Funding; Search Systems/README.md",
    "printed_pages": [
-    22,
-    22
+    23,
+    23
    ]
   },
   {
@@ -475,109 +491,115 @@
    "marks": [
     [
      "I",
-     54,
+     22,
      [
       [
-       100,
-       "[Page 23]"
+       407,
+       "[Page 24]"
       ]
      ]
     ],
     [
      "L",
-     140,
-     "[Page 24]",
+     136,
+     "[Page 25]",
      true
     ],
     [
      "I",
-     236,
+     216,
      [
       [
-       81,
-       "[Page 25]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     306,
-     [
-      [
-       111,
+       178,
        "[Page 26]"
       ]
      ]
     ],
     [
      "L",
-     396,
+     280,
      "[Page 27]",
      true
     ],
     [
      "I",
-     446,
+     364,
      [
       [
-       493,
+       110,
        "[Page 28]"
       ]
      ]
     ],
     [
      "L",
-     520,
+     434,
      "[Page 29]",
      true
     ],
     [
      "I",
-     612,
+     506,
      [
       [
-       94,
+       398,
        "[Page 30]"
       ]
      ]
     ],
     [
-     "L",
-     752,
-     "[Page 31]",
-     true
-    ],
-    [
      "I",
-     876,
+     580,
      [
       [
-       257,
-       "[Page 32]"
+       104,
+       "[Page 31]"
       ]
      ]
     ],
     [
      "L",
-     978,
-     "[Page 33]",
+     720,
+     "[Page 32]",
      true
     ],
     [
      "I",
-     1074,
+     836,
      [
       [
-       323,
-       "[Page 34]"
+       431,
+       "[Page 33]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     954,
+     "[Page 34]",
+     true
+    ],
+    [
+     "L",
+     1054,
+     "[Page 35]",
+     true
+    ],
+    [
+     "I",
+     1122,
+     [
+      [
+       326,
+       "[Page 36]"
       ]
      ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 004 - Patent Fees; Funding; Search Systems/§ 00041 - Patent fees; patent and trademark search systems.md",
    "printed_pages": [
-    22,
-    34
+    23,
+    36
    ]
   },
   {
@@ -585,34 +607,35 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 35]",
+     48,
+     "[Page 37]",
      true
-    ],
-    [
-     "I",
-     66,
-     [
-      [
-       110,
-       "[Page 36]"
-      ]
-     ]
     ]
    ],
    "path": "Part 001 (I) - United States Patent and Trademark Office/Chapter 004 - Patent Fees; Funding; Search Systems/§ 00042 - Patent and Trademark Office funding.md",
    "printed_pages": [
-    34,
-    36
+    36,
+    37
    ]
   },
   {
    "id": "35_-ptII",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       62,
+       "[Page 38]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/README.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    38
    ]
   },
   {
@@ -620,8 +643,8 @@
    "marks": [],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/README.md",
    "printed_pages": [
-    36,
-    36
+    38,
+    38
    ]
   },
   {
@@ -629,21 +652,15 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 37]",
-     true
-    ],
-    [
-     "L",
-     102,
-     "[Page 38]",
+     66,
+     "[Page 39]",
      true
     ]
    ],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00100 - Definitions.md",
    "printed_pages": [
-    36,
-    38
+    38,
+    39
    ]
   },
   {
@@ -651,1377 +668,26 @@
    "marks": [],
    "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00101 - Inventions patentable.md",
    "printed_pages": [
-    38,
-    38
+    39,
+    39
    ]
   },
   {
    "id": "35_102",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       262,
-       "[Page 39]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     100,
-     [
-      [
-       229,
-       "[Page 40]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00102 - Conditions for patentability; novelty.md",
-   "printed_pages": [
-    38,
-    40
-   ]
-  },
-  {
-   "id": "35_103",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       383,
-       "[Page 41]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00103 - Conditions for patentability; non-obvious subject matter.md",
-   "printed_pages": [
-    40,
-    41
-   ]
-  },
-  {
-   "id": "35_[104",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00104 - Repealed. Pub. L. 112–29, §3(d), Sept. 16, 2011, 125 Stat. 287.md",
-   "printed_pages": [
-    41,
-    41
-   ]
-  },
-  {
-   "id": "35_105",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       465,
-       "[Page 42]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00105 - Inventions in outer space.md",
-   "printed_pages": [
-    41,
-    42
-   ]
-  },
-  {
-   "id": "35_-ptII-ch11",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/README.md",
-   "printed_pages": [
-    42,
-    42
-   ]
-  },
-  {
-   "id": "35_111",
-   "marks": [
-    [
-     "I",
-     54,
-     [
-      [
-       79,
-       "[Page 43]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     132,
-     [
-      [
-       555,
-       "[Page 44]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00111 - Application.md",
-   "printed_pages": [
-    42,
-    44
-   ]
-  },
-  {
-   "id": "35_112",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       270,
-       "[Page 45]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00112 - Specification.md",
-   "printed_pages": [
-    44,
-    45
-   ]
-  },
-  {
-   "id": "35_113",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00113 - Drawings.md",
-   "printed_pages": [
-    45,
-    45
-   ]
-  },
-  {
-   "id": "35_114",
-   "marks": [
-    [
      "L",
-     8,
-     "[Page 46]",
+     18,
+     "[Page 40]",
      true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00114 - Models, specimens.md",
-   "printed_pages": [
-    45,
-    46
-   ]
-  },
-  {
-   "id": "35_115",
-   "marks": [
-    [
-     "I",
-     86,
-     [
-      [
-       343,
-       "[Page 47]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00115 - Inventor's oath or declaration.md",
-   "printed_pages": [
-    46,
-    47
-   ]
-  },
-  {
-   "id": "35_116",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       161,
-       "[Page 48]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00116 - Inventors.md",
-   "printed_pages": [
-    47,
-    48
-   ]
-  },
-  {
-   "id": "35_117",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00117 - Death or incapacity of inventor.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "35_118",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00118 - Filing by other than inventor.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "35_119",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       191,
-       "[Page 49]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     28,
-     [
-      [
-       210,
-       "[Page 50]"
-      ]
-     ]
     ],
     [
      "I",
      82,
-     [
-      [
-       227,
-       "[Page 51]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00119 - Benefit of earlier filing date; right of priority.md",
-   "printed_pages": [
-    48,
-    51
-   ]
-  },
-  {
-   "id": "35_120",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 52]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00120 - Benefit of earlier filing date in the United States.md",
-   "printed_pages": [
-    51,
-    52
-   ]
-  },
-  {
-   "id": "35_121",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       222,
-       "[Page 53]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00121 - Divisional applications.md",
-   "printed_pages": [
-    52,
-    53
-   ]
-  },
-  {
-   "id": "35_122",
-   "marks": [
-    [
-     "L",
-     56,
-     "[Page 54]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00122 - Confidential status of applications; publication of patent applications.md",
-   "printed_pages": [
-    53,
-    54
-   ]
-  },
-  {
-   "id": "35_123",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       232,
-       "[Page 55]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00123 - Micro entity defined.md",
-   "printed_pages": [
-    54,
-    55
-   ]
-  },
-  {
-   "id": "35_-ptII-ch12",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/README.md",
-   "printed_pages": [
-    55,
-    55
-   ]
-  },
-  {
-   "id": "35_131",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 56]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00131 - Examination of application.md",
-   "printed_pages": [
-    55,
-    56
-   ]
-  },
-  {
-   "id": "35_132",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00132 - Notice of rejection; reexamination.md",
-   "printed_pages": [
-    56,
-    56
-   ]
-  },
-  {
-   "id": "35_133",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00133 - Time for prosecuting application.md",
-   "printed_pages": [
-    56,
-    56
-   ]
-  },
-  {
-   "id": "35_134",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 57]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00134 - Appeal to the Patent Trial and Appeal Board.md",
-   "printed_pages": [
-    56,
-    57
-   ]
-  },
-  {
-   "id": "35_135",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       80,
-       "[Page 58]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     70,
-     [
-      [
-       220,
-       "[Page 59]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00135 - Derivation proceedings.md",
-   "printed_pages": [
-    57,
-    59
-   ]
-  },
-  {
-   "id": "35_-ptII-ch13",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/README.md",
-   "printed_pages": [
-    59,
-    59
-   ]
-  },
-  {
-   "id": "35_141",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       514,
-       "[Page 60]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00141 - Appeal to Court of Appeals for the Federal Circuit.md",
-   "printed_pages": [
-    59,
-    60
-   ]
-  },
-  {
-   "id": "35_142",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       433,
-       "[Page 61]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00142 - Notice of appeal.md",
-   "printed_pages": [
-    60,
-    61
-   ]
-  },
-  {
-   "id": "35_143",
-   "marks": [
-    [
-     "I",
-     40,
-     [
-      [
-       116,
-       "[Page 62]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00143 - Proceedings on appeal.md",
-   "printed_pages": [
-    61,
-    62
-   ]
-  },
-  {
-   "id": "35_144",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00144 - Decision on appeal.md",
-   "printed_pages": [
-    62,
-    62
-   ]
-  },
-  {
-   "id": "35_145",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 63]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00145 - Civil action to obtain patent.md",
-   "printed_pages": [
-    62,
-    63
-   ]
-  },
-  {
-   "id": "35_146",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 64]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00146 - Civil action in case of derivation proceeding.md",
-   "printed_pages": [
-    63,
-    64
-   ]
-  },
-  {
-   "id": "35_-ptII-ch14",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/README.md",
-   "printed_pages": [
-    64,
-    64
-   ]
-  },
-  {
-   "id": "35_151",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00151 - Issue of patent.md",
-   "printed_pages": [
-    64,
-    64
-   ]
-  },
-  {
-   "id": "35_152",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 65]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00152 - Issue of patent to assignee.md",
-   "printed_pages": [
-    64,
-    65
-   ]
-  },
-  {
-   "id": "35_153",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00153 - How issued.md",
-   "printed_pages": [
-    65,
-    65
-   ]
-  },
-  {
-   "id": "35_154",
-   "marks": [
-    [
-     "L",
-     52,
-     "[Page 66]",
-     true
-    ],
-    [
-     "I",
-     130,
-     [
-      [
-       91,
-       "[Page 67]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     198,
-     "[Page 68]",
-     true
-    ],
-    [
-     "I",
-     282,
-     [
-      [
-       92,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00154 - Contents and term of patent; provisional rights.md",
-   "printed_pages": [
-    65,
-    69
-   ]
-  },
-  {
-   "id": "35_[155,_155A",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00155, 155A - Repealed. Pub. L. 112–29, §20(k), Sept. 16, 2011, 125 Stat. 335.md",
-   "printed_pages": [
-    69,
-    69
-   ]
-  },
-  {
-   "id": "35_156",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 70]",
-     true
-    ],
-    [
-     "I",
-     88,
-     [
-      [
-       408,
-       "[Page 71]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     126,
-     "[Page 72]",
-     true
-    ],
-    [
-     "I",
-     180,
-     [
-      [
-       572,
-       "[Page 73]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     240,
-     "[Page 74]",
-     true
-    ],
-    [
-     "I",
-     320,
-     [
-      [
-       161,
-       "[Page 75]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00156 - Extension of patent term.md",
-   "printed_pages": [
-    69,
-    75
-   ]
-  },
-  {
-   "id": "35_[157",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       110,
-       "[Page 76]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00157 - Repealed. Pub. L. 112–29, §3(e)(1), Sept. 16, 2011, 125 Stat. 287.md",
-   "printed_pages": [
-    75,
-    76
-   ]
-  },
-  {
-   "id": "35_-ptII-ch15",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/README.md",
-   "printed_pages": [
-    76,
-    76
-   ]
-  },
-  {
-   "id": "35_161",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00161 - Patents for plants.md",
-   "printed_pages": [
-    76,
-    76
-   ]
-  },
-  {
-   "id": "35_162",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00162 - Description, claim.md",
-   "printed_pages": [
-    76,
-    76
-   ]
-  },
-  {
-   "id": "35_163",
-   "marks": [
-    [
-     "I",
-     44,
      [
       [
        108,
-       "[Page 77]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00163 - Grant.md",
-   "printed_pages": [
-    76,
-    77
-   ]
-  },
-  {
-   "id": "35_164",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00164 - Assistance of Department of Agriculture.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "35_-ptII-ch16",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/README.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "35_171",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00171 - Patents for designs.md",
-   "printed_pages": [
-    77,
-    77
-   ]
-  },
-  {
-   "id": "35_172",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       104,
-       "[Page 78]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00172 - Right of priority.md",
-   "printed_pages": [
-    77,
-    78
-   ]
-  },
-  {
-   "id": "35_173",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00173 - Term of design patent.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "35_-ptII-ch17",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/README.md",
-   "printed_pages": [
-    78,
-    78
-   ]
-  },
-  {
-   "id": "35_181",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       882,
-       "[Page 79]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00181 - Secrecy of certain inventions and withholding of patent.md",
-   "printed_pages": [
-    78,
-    79
-   ]
-  },
-  {
-   "id": "35_182",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00182 - Abandonment of invention for unauthorized disclosure.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "35_183",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1463,
-       "[Page 80]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00183 - Right to compensation.md",
-   "printed_pages": [
-    79,
-    80
-   ]
-  },
-  {
-   "id": "35_184",
-   "marks": [
-    [
-     "I",
-     34,
-     [
-      [
-       159,
-       "[Page 81]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00184 - Filing of application in foreign country.md",
-   "printed_pages": [
-    80,
-    81
-   ]
-  },
-  {
-   "id": "35_185",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00185 - Patent barred for filing without license.md",
-   "printed_pages": [
-    81,
-    81
-   ]
-  },
-  {
-   "id": "35_186",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 82]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00186 - Penalty.md",
-   "printed_pages": [
-    81,
-    82
-   ]
-  },
-  {
-   "id": "35_187",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00187 - Nonapplicability to certain persons.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "35_188",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00188 - Rules and regulations, delegation of power.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "35_-ptII-ch18",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/README.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "35_200",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 83]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00200 - Policy and objective.md",
-   "printed_pages": [
-    82,
-    83
-   ]
-  },
-  {
-   "id": "35_201",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00201 - Definitions.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "35_202",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1551,
-       "[Page 84]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     24,
-     [
-      [
-       952,
-       "[Page 85]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     58,
-     [
-      [
-       172,
-       "[Page 86]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     116,
-     "[Page 87]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00202 - Disposition of rights.md",
-   "printed_pages": [
-    83,
-    87
-   ]
-  },
-  {
-   "id": "35_203",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00203 - March-in rights.md",
-   "printed_pages": [
-    87,
-    87
-   ]
-  },
-  {
-   "id": "35_204",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00204 - Preference for United States industry.md",
-   "printed_pages": [
-    87,
-    87
-   ]
-  },
-  {
-   "id": "35_205",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 88]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00205 - Confidentiality.md",
-   "printed_pages": [
-    87,
-    88
-   ]
-  },
-  {
-   "id": "35_206",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00206 - Uniform clauses and regulations.md",
-   "printed_pages": [
-    88,
-    88
-   ]
-  },
-  {
-   "id": "35_207",
-   "marks": [
-    [
-     "I",
-     48,
-     [
-      [
-       326,
-       "[Page 89]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       804,
-       "[Page 90]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     144,
-     "[Page 91]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00207 - Domestic and foreign protection of federally owned inventions.md",
-   "printed_pages": [
-    88,
-    91
-   ]
-  },
-  {
-   "id": "35_208",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00208 - Regulations governing Federal licensing.md",
-   "printed_pages": [
-    91,
-    91
-   ]
-  },
-  {
-   "id": "35_209",
-   "marks": [
-    [
-     "I",
-     48,
-     [
-      [
-       188,
-       "[Page 92]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00209 - Licensing federally owned inventions.md",
-   "printed_pages": [
-    91,
-    92
-   ]
-  },
-  {
-   "id": "35_210",
-   "marks": [
-    [
-     "L",
-     52,
-     "[Page 93]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00210 - Precedence of chapter.md",
-   "printed_pages": [
-    92,
-    93
-   ]
-  },
-  {
-   "id": "35_211",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 94]",
-     true
-    ]
-   ],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00211 - Relationship to antitrust laws.md",
-   "printed_pages": [
-    93,
-    94
-   ]
-  },
-  {
-   "id": "35_212",
-   "marks": [],
-   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00212 - Disposition of rights in educational awards.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "35_-ptIII",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/README.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "35_-ptIII-ch25",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/README.md",
-   "printed_pages": [
-    94,
-    94
-   ]
-  },
-  {
-   "id": "35_251",
-   "marks": [
-    [
-     "L",
-     40,
-     "[Page 95]",
-     true
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00251 - Reissue of defective patents.md",
-   "printed_pages": [
-    94,
-    95
-   ]
-  },
-  {
-   "id": "35_252",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00252 - Effect of reissue.md",
-   "printed_pages": [
-    95,
-    95
-   ]
-  },
-  {
-   "id": "35_253",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 96]",
-     true
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00253 - Disclaimer.md",
-   "printed_pages": [
-    95,
-    96
-   ]
-  },
-  {
-   "id": "35_254",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00254 - Certificate of correction of Patent and Trademark Office mistake.md",
-   "printed_pages": [
-    96,
-    96
-   ]
-  },
-  {
-   "id": "35_255",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00255 - Certificate of correction of applicant's mistake.md",
-   "printed_pages": [
-    96,
-    96
-   ]
-  },
-  {
-   "id": "35_256",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       173,
-       "[Page 97]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00256 - Correction of named inventor.md",
-   "printed_pages": [
-    96,
-    97
-   ]
-  },
-  {
-   "id": "35_257",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       319,
-       "[Page 98]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00257 - Supplemental examinations to consider, reconsider, or correct information.md",
-   "printed_pages": [
-    97,
-    98
-   ]
-  },
-  {
-   "id": "35_-ptIII-ch26",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/README.md",
-   "printed_pages": [
-    98,
-    98
-   ]
-  },
-  {
-   "id": "35_261",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 99]",
-     true
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/§ 00261 - Ownership; assignment.md",
-   "printed_pages": [
-    98,
-    99
-   ]
-  },
-  {
-   "id": "35_262",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/§ 00262 - Joint owners.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "35_-ptIII-ch27",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/README.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "35_[266",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/§ 00266 - Repealed. Pub. L. 89–83, §8, July 24, 1965, 79 Stat. 261.md",
-   "printed_pages": [
-    99,
-    99
-   ]
-  },
-  {
-   "id": "35_267",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 100]",
-     true
-    ]
-   ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/§ 00267 - Time for taking action in Government applications.md",
-   "printed_pages": [
-    99,
-    100
-   ]
-  },
-  {
-   "id": "35_-ptIII-ch28",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/README.md",
-   "printed_pages": [
-    100,
-    100
-   ]
-  },
-  {
-   "id": "35_271",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 101]",
-     true
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       426,
-       "[Page 102]"
+       "[Page 41]"
       ]
      ]
     ],
@@ -2030,25 +696,1397 @@
      152,
      [
       [
-       431,
+       113,
+       "[Page 42]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00102 - Conditions for patentability; novelty.md",
+   "printed_pages": [
+    39,
+    42
+   ]
+  },
+  {
+   "id": "35_103",
+   "marks": [
+    [
+     "I",
+     64,
+     [
+      [
+       109,
+       "[Page 43]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00103 - Conditions for patentability; non-obvious subject matter.md",
+   "printed_pages": [
+    42,
+    43
+   ]
+  },
+  {
+   "id": "35_[104",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00104 - Repealed. Pub. L. 112–29, §3(d), Sept. 16, 2011, 125 Stat. 287.md",
+   "printed_pages": [
+    43,
+    43
+   ]
+  },
+  {
+   "id": "35_105",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 010 - Patentability of Inventions/§ 00105 - Inventions in outer space.md",
+   "printed_pages": [
+    43,
+    43
+   ]
+  },
+  {
+   "id": "35_-ptII-ch11",
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 44]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/README.md",
+   "printed_pages": [
+    43,
+    44
+   ]
+  },
+  {
+   "id": "35_111",
+   "marks": [
+    [
+     "L",
+     84,
+     "[Page 45]",
+     true
+    ],
+    [
+     "I",
+     158,
+     [
+      [
+       116,
+       "[Page 46]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00111 - Application.md",
+   "printed_pages": [
+    44,
+    46
+   ]
+  },
+  {
+   "id": "35_112",
+   "marks": [
+    [
+     "L",
+     62,
+     "[Page 47]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00112 - Specification.md",
+   "printed_pages": [
+    46,
+    47
+   ]
+  },
+  {
+   "id": "35_113",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00113 - Drawings.md",
+   "printed_pages": [
+    47,
+    47
+   ]
+  },
+  {
+   "id": "35_114",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00114 - Models, specimens.md",
+   "printed_pages": [
+    47,
+    47
+   ]
+  },
+  {
+   "id": "35_115",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 48]",
+     true
+    ],
+    [
+     "I",
+     116,
+     [
+      [
+       644,
+       "[Page 49]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00115 - Inventor's oath or declaration.md",
+   "printed_pages": [
+    47,
+    49
+   ]
+  },
+  {
+   "id": "35_116",
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       110,
+       "[Page 50]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00116 - Inventors.md",
+   "printed_pages": [
+    49,
+    50
+   ]
+  },
+  {
+   "id": "35_117",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00117 - Death or incapacity of inventor.md",
+   "printed_pages": [
+    50,
+    50
+   ]
+  },
+  {
+   "id": "35_118",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00118 - Filing by other than inventor.md",
+   "printed_pages": [
+    50,
+    50
+   ]
+  },
+  {
+   "id": "35_119",
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       90,
+       "[Page 51]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     46,
+     [
+      [
+       269,
+       "[Page 52]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       117,
+       "[Page 53]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00119 - Benefit of earlier filing date; right of priority.md",
+   "printed_pages": [
+    50,
+    53
+   ]
+  },
+  {
+   "id": "35_120",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 54]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00120 - Benefit of earlier filing date in the United States.md",
+   "printed_pages": [
+    53,
+    54
+   ]
+  },
+  {
+   "id": "35_121",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00121 - Divisional applications.md",
+   "printed_pages": [
+    54,
+    54
+   ]
+  },
+  {
+   "id": "35_122",
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       84,
+       "[Page 55]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     80,
+     "[Page 56]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00122 - Confidential status of applications; publication of patent applications.md",
+   "printed_pages": [
+    54,
+    56
+   ]
+  },
+  {
+   "id": "35_123",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       321,
+       "[Page 57]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 011 - Application for Patent/§ 00123 - Micro entity defined.md",
+   "printed_pages": [
+    56,
+    57
+   ]
+  },
+  {
+   "id": "35_-ptII-ch12",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/README.md",
+   "printed_pages": [
+    57,
+    57
+   ]
+  },
+  {
+   "id": "35_131",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 58]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00131 - Examination of application.md",
+   "printed_pages": [
+    57,
+    58
+   ]
+  },
+  {
+   "id": "35_132",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00132 - Notice of rejection; reexamination.md",
+   "printed_pages": [
+    58,
+    58
+   ]
+  },
+  {
+   "id": "35_133",
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 59]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00133 - Time for prosecuting application.md",
+   "printed_pages": [
+    58,
+    59
+   ]
+  },
+  {
+   "id": "35_134",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00134 - Appeal to the Patent Trial and Appeal Board.md",
+   "printed_pages": [
+    59,
+    59
+   ]
+  },
+  {
+   "id": "35_135",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       122,
+       "[Page 60]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     64,
+     "[Page 61]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 012 - Examination of Application/§ 00135 - Derivation proceedings.md",
+   "printed_pages": [
+    59,
+    61
+   ]
+  },
+  {
+   "id": "35_-ptII-ch13",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/README.md",
+   "printed_pages": [
+    61,
+    61
+   ]
+  },
+  {
+   "id": "35_141",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 62]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00141 - Appeal to Court of Appeals for the Federal Circuit.md",
+   "printed_pages": [
+    61,
+    62
+   ]
+  },
+  {
+   "id": "35_142",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       264,
+       "[Page 63]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00142 - Notice of appeal.md",
+   "printed_pages": [
+    62,
+    63
+   ]
+  },
+  {
+   "id": "35_143",
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 64]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00143 - Proceedings on appeal.md",
+   "printed_pages": [
+    63,
+    64
+   ]
+  },
+  {
+   "id": "35_144",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00144 - Decision on appeal.md",
+   "printed_pages": [
+    64,
+    64
+   ]
+  },
+  {
+   "id": "35_145",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       379,
+       "[Page 65]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00145 - Civil action to obtain patent.md",
+   "printed_pages": [
+    64,
+    65
+   ]
+  },
+  {
+   "id": "35_146",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       657,
+       "[Page 66]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 013 - Review of Patent and Trademark Office Decisions/§ 00146 - Civil action in case of derivation proceeding.md",
+   "printed_pages": [
+    65,
+    66
+   ]
+  },
+  {
+   "id": "35_-ptII-ch14",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 67]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/README.md",
+   "printed_pages": [
+    66,
+    67
+   ]
+  },
+  {
+   "id": "35_151",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00151 - Issue of patent.md",
+   "printed_pages": [
+    67,
+    67
+   ]
+  },
+  {
+   "id": "35_152",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00152 - Issue of patent to assignee.md",
+   "printed_pages": [
+    67,
+    67
+   ]
+  },
+  {
+   "id": "35_153",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00153 - How issued.md",
+   "printed_pages": [
+    67,
+    67
+   ]
+  },
+  {
+   "id": "35_154",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 68]",
+     true
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       94,
+       "[Page 69]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     172,
+     [
+      [
+       263,
+       "[Page 70]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     256,
+     [
+      [
+       111,
+       "[Page 71]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00154 - Contents and term of patent; provisional rights.md",
+   "printed_pages": [
+    67,
+    71
+   ]
+  },
+  {
+   "id": "35_[155,_155A",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00155, 155A - Repealed. Pub. L. 112–29, §20(k), Sept. 16, 2011, 125 Stat. 335.md",
+   "printed_pages": [
+    71,
+    71
+   ]
+  },
+  {
+   "id": "35_156",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 72]",
+     true
+    ],
+    [
+     "I",
+     72,
+     [
+      [
+       97,
+       "[Page 73]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     104,
+     [
+      [
+       95,
+       "[Page 74]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     160,
+     "[Page 75]",
+     true
+    ],
+    [
+     "I",
+     214,
+     [
+      [
+       101,
+       "[Page 76]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     274,
+     "[Page 77]",
+     true
+    ],
+    [
+     "L",
+     346,
+     "[Page 78]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00156 - Extension of patent term.md",
+   "printed_pages": [
+    71,
+    78
+   ]
+  },
+  {
+   "id": "35_[157",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 014 - Issue of Patent/§ 00157 - Repealed. Pub. L. 112–29, §3(e)(1), Sept. 16, 2011, 125 Stat. 287.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "35_-ptII-ch15",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/README.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "35_161",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00161 - Patents for plants.md",
+   "printed_pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "id": "35_162",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       159,
+       "[Page 79]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00162 - Description, claim.md",
+   "printed_pages": [
+    78,
+    79
+   ]
+  },
+  {
+   "id": "35_163",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00163 - Grant.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "35_164",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 015 - Plant Patents/§ 00164 - Assistance of Department of Agriculture.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "35_-ptII-ch16",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/README.md",
+   "printed_pages": [
+    79,
+    79
+   ]
+  },
+  {
+   "id": "35_171",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       85,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00171 - Patents for designs.md",
+   "printed_pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "id": "35_172",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00172 - Right of priority.md",
+   "printed_pages": [
+    80,
+    80
+   ]
+  },
+  {
+   "id": "35_173",
+   "marks": [
+    [
+     "L",
+     34,
+     "[Page 81]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 016 - Designs/§ 00173 - Term of design patent.md",
+   "printed_pages": [
+    80,
+    81
+   ]
+  },
+  {
+   "id": "35_-ptII-ch17",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/README.md",
+   "printed_pages": [
+    81,
+    81
+   ]
+  },
+  {
+   "id": "35_181",
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       99,
+       "[Page 82]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00181 - Secrecy of certain inventions and withholding of patent.md",
+   "printed_pages": [
+    81,
+    82
+   ]
+  },
+  {
+   "id": "35_182",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00182 - Abandonment of invention for unauthorized disclosure.md",
+   "printed_pages": [
+    82,
+    82
+   ]
+  },
+  {
+   "id": "35_183",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 83]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00183 - Right to compensation.md",
+   "printed_pages": [
+    82,
+    83
+   ]
+  },
+  {
+   "id": "35_184",
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       221,
+       "[Page 84]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00184 - Filing of application in foreign country.md",
+   "printed_pages": [
+    83,
+    84
+   ]
+  },
+  {
+   "id": "35_185",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00185 - Patent barred for filing without license.md",
+   "printed_pages": [
+    84,
+    84
+   ]
+  },
+  {
+   "id": "35_186",
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       104,
+       "[Page 85]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00186 - Penalty.md",
+   "printed_pages": [
+    84,
+    85
+   ]
+  },
+  {
+   "id": "35_187",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00187 - Nonapplicability to certain persons.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "35_188",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 017 - Secrecy of Certain Inventions and Filing Applications in Foreign Country/§ 00188 - Rules and regulations, delegation of power.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "35_-ptII-ch18",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/README.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "35_200",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00200 - Policy and objective.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "35_201",
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       219,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00201 - Definitions.md",
+   "printed_pages": [
+    85,
+    86
+   ]
+  },
+  {
+   "id": "35_202",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       287,
+       "[Page 87]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     24,
+     [
+      [
+       1310,
+       "[Page 88]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 89]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00202 - Disposition of rights.md",
+   "printed_pages": [
+    86,
+    89
+   ]
+  },
+  {
+   "id": "35_203",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 90]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00203 - March-in rights.md",
+   "printed_pages": [
+    89,
+    90
+   ]
+  },
+  {
+   "id": "35_204",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00204 - Preference for United States industry.md",
+   "printed_pages": [
+    90,
+    90
+   ]
+  },
+  {
+   "id": "35_205",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       277,
+       "[Page 91]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00205 - Confidentiality.md",
+   "printed_pages": [
+    90,
+    91
+   ]
+  },
+  {
+   "id": "35_206",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00206 - Uniform clauses and regulations.md",
+   "printed_pages": [
+    91,
+    91
+   ]
+  },
+  {
+   "id": "35_207",
+   "marks": [
+    [
+     "L",
+     52,
+     "[Page 92]",
+     true
+    ],
+    [
+     "I",
+     86,
+     [
+      [
+       815,
+       "[Page 93]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     142,
+     "[Page 94]",
+     true
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00207 - Domestic and foreign protection of federally owned inventions.md",
+   "printed_pages": [
+    91,
+    94
+   ]
+  },
+  {
+   "id": "35_208",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00208 - Regulations governing Federal licensing.md",
+   "printed_pages": [
+    94,
+    94
+   ]
+  },
+  {
+   "id": "35_209",
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       265,
+       "[Page 95]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00209 - Licensing federally owned inventions.md",
+   "printed_pages": [
+    94,
+    95
+   ]
+  },
+  {
+   "id": "35_210",
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       192,
+       "[Page 96]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     110,
+     [
+      [
+       107,
+       "[Page 97]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00210 - Precedence of chapter.md",
+   "printed_pages": [
+    95,
+    97
+   ]
+  },
+  {
+   "id": "35_211",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00211 - Relationship to antitrust laws.md",
+   "printed_pages": [
+    97,
+    97
+   ]
+  },
+  {
+   "id": "35_212",
+   "marks": [],
+   "path": "Part 002 (II) - Patentability of Inventions and Grant of Patents/Chapter 018 - Patent Rights in Inventions Made with Federal Assistance/§ 00212 - Disposition of rights in educational awards.md",
+   "printed_pages": [
+    97,
+    97
+   ]
+  },
+  {
+   "id": "35_-ptIII",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/README.md",
+   "printed_pages": [
+    97,
+    97
+   ]
+  },
+  {
+   "id": "35_-ptIII-ch25",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/README.md",
+   "printed_pages": [
+    97,
+    97
+   ]
+  },
+  {
+   "id": "35_251",
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 98]",
+     true
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00251 - Reissue of defective patents.md",
+   "printed_pages": [
+    97,
+    98
+   ]
+  },
+  {
+   "id": "35_252",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       981,
+       "[Page 99]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00252 - Effect of reissue.md",
+   "printed_pages": [
+    98,
+    99
+   ]
+  },
+  {
+   "id": "35_253",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00253 - Disclaimer.md",
+   "printed_pages": [
+    99,
+    99
+   ]
+  },
+  {
+   "id": "35_254",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00254 - Certificate of correction of Patent and Trademark Office mistake.md",
+   "printed_pages": [
+    99,
+    99
+   ]
+  },
+  {
+   "id": "35_255",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       86,
+       "[Page 100]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00255 - Certificate of correction of applicant's mistake.md",
+   "printed_pages": [
+    99,
+    100
+   ]
+  },
+  {
+   "id": "35_256",
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       110,
+       "[Page 101]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00256 - Correction of named inventor.md",
+   "printed_pages": [
+    100,
+    101
+   ]
+  },
+  {
+   "id": "35_257",
+   "marks": [
+    [
+     "L",
+     70,
+     "[Page 102]",
+     true
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00257 - Supplemental examinations to consider, reconsider, or correct information.md",
+   "printed_pages": [
+    101,
+    102
+   ]
+  },
+  {
+   "id": "35_-ptIII-ch26",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/README.md",
+   "printed_pages": [
+    102,
+    102
+   ]
+  },
+  {
+   "id": "35_261",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/§ 00261 - Ownership; assignment.md",
+   "printed_pages": [
+    102,
+    102
+   ]
+  },
+  {
+   "id": "35_262",
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       104,
        "[Page 103]"
       ]
      ]
     ]
    ],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/§ 00271 - Infringement of patent.md",
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/§ 00262 - Joint owners.md",
    "printed_pages": [
-    100,
+    102,
     103
    ]
   },
   {
-   "id": "35_272",
+   "id": "35_-ptIII-ch27",
    "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/§ 00272 - Temporary presence in the United States.md",
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/README.md",
    "printed_pages": [
     103,
     103
+   ]
+  },
+  {
+   "id": "35_[266",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/§ 00266 - Repealed. Pub. L. 89–83, §8, July 24, 1965, 79 Stat. 261.md",
+   "printed_pages": [
+    103,
+    103
+   ]
+  },
+  {
+   "id": "35_267",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/§ 00267 - Time for taking action in Government applications.md",
+   "printed_pages": [
+    103,
+    103
+   ]
+  },
+  {
+   "id": "35_-ptIII-ch28",
+   "marks": [],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/README.md",
+   "printed_pages": [
+    103,
+    103
+   ]
+  },
+  {
+   "id": "35_271",
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       895,
+       "[Page 104]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     50,
+     [
+      [
+       92,
+       "[Page 105]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     102,
+     "[Page 106]",
+     true
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/§ 00271 - Infringement of patent.md",
+   "printed_pages": [
+    103,
+    106
+   ]
+  },
+  {
+   "id": "35_272",
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 107]",
+     true
+    ]
+   ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/§ 00272 - Temporary presence in the United States.md",
+   "printed_pages": [
+    106,
+    107
    ]
   },
   {
@@ -2056,35 +2094,28 @@
    "marks": [
     [
      "I",
-     48,
+     72,
      [
       [
-       253,
-       "[Page 104]"
+       439,
+       "[Page 108]"
       ]
      ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 028 - Infringement of Patents/§ 00273 - Defense to infringement based on prior commercial use.md",
    "printed_pages": [
-    103,
-    104
+    107,
+    108
    ]
   },
   {
    "id": "35_-ptIII-ch29",
-   "marks": [
-    [
-     "L",
-     41,
-     "[Page 105]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/README.md",
    "printed_pages": [
-    104,
-    105
+    108,
+    108
    ]
   },
   {
@@ -2092,8 +2123,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00281 - Remedy for infringement of patent.md",
    "printed_pages": [
-    105,
-    105
+    108,
+    108
    ]
   },
   {
@@ -2101,15 +2132,25 @@
    "marks": [
     [
      "L",
-     58,
-     "[Page 106]",
+     16,
+     "[Page 109]",
      true
+    ],
+    [
+     "I",
+     82,
+     [
+      [
+       103,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00282 - Presumption of validity; defenses.md",
    "printed_pages": [
-    105,
-    106
+    108,
+    110
    ]
   },
   {
@@ -2117,28 +2158,17 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00283 - Injunction.md",
    "printed_pages": [
-    106,
-    106
+    110,
+    110
    ]
   },
   {
    "id": "35_284",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       106,
-       "[Page 107]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00284 - Damages.md",
    "printed_pages": [
-    106,
-    107
+    110,
+    110
    ]
   },
   {
@@ -2146,66 +2176,66 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00285 - Attorney fees.md",
    "printed_pages": [
-    107,
-    107
+    110,
+    110
    ]
   },
   {
    "id": "35_286",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       423,
+       "[Page 111]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00286 - Time limitation on damages.md",
    "printed_pages": [
-    107,
-    107
+    110,
+    111
    ]
   },
   {
    "id": "35_287",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       90,
-       "[Page 108]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 112]",
+     true
     ],
     [
-     "I",
-     70,
-     [
-      [
-       89,
-       "[Page 109]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     140,
-     [
-      [
-       109,
-       "[Page 110]"
-      ]
-     ]
+     "L",
+     80,
+     "[Page 113]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00287 - Limitation on damages and other remedies; marking and notice.md",
    "printed_pages": [
-    107,
-    110
+    111,
+    113
    ]
   },
   {
    "id": "35_288",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 114]",
+     true
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00288 - Action for infringement of a patent containing an invalid claim.md",
    "printed_pages": [
-    110,
-    110
+    113,
+    114
    ]
   },
   {
@@ -2213,8 +2243,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00289 - Additional remedy for infringement of design patent.md",
    "printed_pages": [
-    110,
-    110
+    114,
+    114
    ]
   },
   {
@@ -2222,24 +2252,28 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00290 - Notice of patent suits.md",
    "printed_pages": [
-    110,
-    110
+    114,
+    114
    ]
   },
   {
    "id": "35_291",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 111]",
-     true
+     "I",
+     30,
+     [
+      [
+       215,
+       "[Page 115]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00291 - Derived patents.md",
    "printed_pages": [
-    110,
-    111
+    114,
+    115
    ]
   },
   {
@@ -2247,8 +2281,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00292 - False marking.md",
    "printed_pages": [
-    111,
-    111
+    115,
+    115
    ]
   },
   {
@@ -2256,15 +2290,15 @@
    "marks": [
     [
      "L",
-     4,
-     "[Page 112]",
+     18,
+     "[Page 116]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00293 - Nonresident patentee; service and notice.md",
    "printed_pages": [
-    111,
-    112
+    115,
+    116
    ]
   },
   {
@@ -2272,8 +2306,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00294 - Voluntary arbitration.md",
    "printed_pages": [
-    112,
-    112
+    116,
+    116
    ]
   },
   {
@@ -2281,15 +2315,15 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 113]",
+     18,
+     "[Page 117]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00295 - Presumption Product made by patented process.md",
    "printed_pages": [
-    112,
-    113
+    116,
+    117
    ]
   },
   {
@@ -2297,8 +2331,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00296 - Liability of States, instrumentalities of States, and State officials for infringement of patents.md",
    "printed_pages": [
-    113,
-    113
+    117,
+    117
    ]
   },
   {
@@ -2306,15 +2340,15 @@
    "marks": [
     [
      "L",
-     32,
-     "[Page 114]",
+     34,
+     "[Page 118]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00297 - Improper and deceptive invention promotion.md",
    "printed_pages": [
-    113,
-    114
+    117,
+    118
    ]
   },
   {
@@ -2322,8 +2356,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00298 - Advice of counsel.md",
    "printed_pages": [
-    114,
-    114
+    118,
+    118
    ]
   },
   {
@@ -2331,15 +2365,15 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 115]",
+     26,
+     "[Page 119]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 029 - Remedies for Infringement of Patent, and Other Actions/§ 00299 - Joinder of parties.md",
    "printed_pages": [
-    114,
-    115
+    118,
+    119
    ]
   },
   {
@@ -2347,8 +2381,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/README.md",
    "printed_pages": [
-    115,
-    115
+    119,
+    119
    ]
   },
   {
@@ -2356,8 +2390,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00301 - Citation of prior art and written statements.md",
    "printed_pages": [
-    115,
-    115
+    119,
+    119
    ]
   },
   {
@@ -2365,44 +2399,40 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 116]",
+     4,
+     "[Page 120]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00302 - Request for reexamination.md",
    "printed_pages": [
-    115,
-    116
+    119,
+    120
    ]
   },
   {
    "id": "35_303",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 121]",
+     true
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00303 - Determination of issue by Director.md",
    "printed_pages": [
-    116,
-    116
+    120,
+    121
    ]
   },
   {
    "id": "35_304",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       285,
-       "[Page 117]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00304 - Reexamination order by Director.md",
    "printed_pages": [
-    116,
-    117
+    121,
+    121
    ]
   },
   {
@@ -2410,8 +2440,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00305 - Conduct of reexamination proceedings.md",
    "printed_pages": [
-    117,
-    117
+    121,
+    121
    ]
   },
   {
@@ -2419,19 +2449,19 @@
    "marks": [
     [
      "I",
-     20,
+     2,
      [
       [
-       112,
-       "[Page 118]"
+       141,
+       "[Page 122]"
       ]
      ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00306 - Appeal.md",
    "printed_pages": [
-    117,
-    118
+    121,
+    122
    ]
   },
   {
@@ -2439,8 +2469,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 030 - Prior Art Citations to Office and Ex Parte Reexamination of Patents/§ 00307 - Certificate of patentability, unpatentability, and claim cancellation.md",
    "printed_pages": [
-    118,
-    118
+    122,
+    122
    ]
   },
   {
@@ -2448,24 +2478,28 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/README.md",
    "printed_pages": [
-    118,
-    118
+    122,
+    122
    ]
   },
   {
    "id": "35_311",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 119]",
-     true
+     "I",
+     4,
+     [
+      [
+       89,
+       "[Page 123]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00311 - Inter partes review.md",
    "printed_pages": [
-    118,
-    119
+    122,
+    123
    ]
   },
   {
@@ -2473,44 +2507,44 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 120]",
+     24,
+     "[Page 124]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00312 - Petitions.md",
    "printed_pages": [
-    119,
-    120
+    123,
+    124
    ]
   },
   {
    "id": "35_313",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00313 - Preliminary response to petition.md",
-   "printed_pages": [
-    120,
-    120
-   ]
-  },
-  {
-   "id": "35_314",
    "marks": [
     [
      "I",
-     30,
+     26,
      [
       [
-       224,
-       "[Page 121]"
+       111,
+       "[Page 125]"
       ]
      ]
     ]
    ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00313 - Preliminary response to petition.md",
+   "printed_pages": [
+    124,
+    125
+   ]
+  },
+  {
+   "id": "35_314",
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00314 - Institution of inter partes review.md",
    "printed_pages": [
-    120,
-    121
+    125,
+    125
    ]
   },
   {
@@ -2518,19 +2552,19 @@
    "marks": [
     [
      "I",
-     74,
+     42,
      [
       [
-       104,
-       "[Page 122]"
+       361,
+       "[Page 126]"
       ]
      ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00315 - Relation to other proceedings or actions.md",
    "printed_pages": [
-    121,
-    122
+    125,
+    126
    ]
   },
   {
@@ -2538,44 +2572,44 @@
    "marks": [
     [
      "L",
-     80,
-     "[Page 123]",
+     34,
+     "[Page 127]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00316 - Conduct of inter partes review.md",
    "printed_pages": [
-    122,
-    123
+    126,
+    127
    ]
   },
   {
    "id": "35_317",
-   "marks": [],
-   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00317 - Settlement.md",
-   "printed_pages": [
-    123,
-    123
-   ]
-  },
-  {
-   "id": "35_318",
    "marks": [
     [
      "I",
      32,
      [
       [
-       111,
-       "[Page 124]"
+       160,
+       "[Page 128]"
       ]
      ]
     ]
    ],
+   "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00317 - Settlement.md",
+   "printed_pages": [
+    127,
+    128
+   ]
+  },
+  {
+   "id": "35_318",
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00318 - Decision of the Board.md",
    "printed_pages": [
-    123,
-    124
+    128,
+    128
    ]
   },
   {
@@ -2583,8 +2617,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 031 - Inter Partes Review/§ 00319 - Appeal.md",
    "printed_pages": [
-    124,
-    124
+    128,
+    128
    ]
   },
   {
@@ -2592,40 +2626,43 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/README.md",
    "printed_pages": [
-    124,
-    124
+    128,
+    128
    ]
   },
   {
    "id": "35_321",
    "marks": [
     [
+     "I",
+     28,
+     [
+      [
+       93,
+       "[Page 129]"
+      ]
+     ]
+    ],
+    [
      "L",
-     72,
-     "[Page 125]",
+     118,
+     "[Page 130]",
      true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00321 - Post-grant review.md",
    "printed_pages": [
-    124,
-    125
+    128,
+    130
    ]
   },
   {
    "id": "35_322",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 126]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00322 - Petitions.md",
    "printed_pages": [
-    125,
-    126
+    130,
+    130
    ]
   },
   {
@@ -2633,37 +2670,33 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00323 - Preliminary response to petition.md",
    "printed_pages": [
-    126,
-    126
+    130,
+    130
    ]
   },
   {
    "id": "35_324",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 131]",
+     true
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00324 - Institution of post-grant review.md",
    "printed_pages": [
-    126,
-    126
+    130,
+    131
    ]
   },
   {
    "id": "35_325",
-   "marks": [
-    [
-     "I",
-     46,
-     [
-      [
-       79,
-       "[Page 127]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00325 - Relation to other proceedings or actions.md",
    "printed_pages": [
-    126,
-    127
+    131,
+    131
    ]
   },
   {
@@ -2671,28 +2704,39 @@
    "marks": [
     [
      "I",
-     66,
+     12,
      [
       [
-       111,
-       "[Page 128]"
+       96,
+       "[Page 132]"
       ]
      ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00326 - Conduct of post-grant review.md",
    "printed_pages": [
-    127,
-    128
+    131,
+    132
    ]
   },
   {
    "id": "35_327",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       219,
+       "[Page 133]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00327 - Settlement.md",
    "printed_pages": [
-    128,
-    128
+    132,
+    133
    ]
   },
   {
@@ -2700,8 +2744,8 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00328 - Decision of the Board.md",
    "printed_pages": [
-    128,
-    128
+    133,
+    133
    ]
   },
   {
@@ -2709,24 +2753,17 @@
    "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 032 - Post-Grant Review/§ 00329 - Appeal.md",
    "printed_pages": [
-    128,
-    128
+    133,
+    133
    ]
   },
   {
    "id": "35_-ptIV",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 129]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/README.md",
    "printed_pages": [
-    128,
-    129
+    133,
+    133
    ]
   },
   {
@@ -2734,24 +2771,28 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 035 - Definitions/README.md",
    "printed_pages": [
-    129,
-    129
+    133,
+    133
    ]
   },
   {
    "id": "35_351",
    "marks": [
     [
-     "L",
-     68,
-     "[Page 130]",
-     true
+     "I",
+     16,
+     [
+      [
+       131,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 035 - Definitions/§ 00351 - Definitions.md",
    "printed_pages": [
-    129,
-    130
+    133,
+    134
    ]
   },
   {
@@ -2759,17 +2800,28 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/README.md",
    "printed_pages": [
-    130,
-    130
+    134,
+    134
    ]
   },
   {
    "id": "35_361",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       139,
+       "[Page 135]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00361 - Receiving Office.md",
    "printed_pages": [
-    130,
-    130
+    134,
+    135
    ]
   },
   {
@@ -2777,15 +2829,15 @@
    "marks": [
     [
      "L",
-     8,
-     "[Page 131]",
+     30,
+     "[Page 136]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00362 - International Searching Authority and International Preliminary Examining Authority.md",
    "printed_pages": [
-    130,
-    131
+    135,
+    136
    ]
   },
   {
@@ -2793,8 +2845,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00363 - International application designating the United States Effect.md",
    "printed_pages": [
-    131,
-    131
+    136,
+    136
    ]
   },
   {
@@ -2802,15 +2854,15 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 132]",
+     44,
+     "[Page 137]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00364 - International stage Procedure.md",
    "printed_pages": [
-    131,
-    132
+    136,
+    137
    ]
   },
   {
@@ -2818,15 +2870,15 @@
    "marks": [
     [
      "L",
-     46,
-     "[Page 133]",
+     58,
+     "[Page 138]",
      true
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00365 - Right of priority; benefit of the filing date of a prior application.md",
    "printed_pages": [
-    132,
-    133
+    137,
+    138
    ]
   },
   {
@@ -2834,24 +2886,28 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00366 - Withdrawn international application.md",
    "printed_pages": [
-    133,
-    133
+    138,
+    138
    ]
   },
   {
    "id": "35_367",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 134]",
-     true
+     "I",
+     30,
+     [
+      [
+       103,
+       "[Page 139]"
+      ]
+     ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00367 - Actions of other authorities Review.md",
    "printed_pages": [
-    133,
-    134
+    138,
+    139
    ]
   },
   {
@@ -2859,8 +2915,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 036 - International Stage/§ 00368 - Secrecy of certain inventions; filing international applications in foreign countries.md",
    "printed_pages": [
-    134,
-    134
+    139,
+    139
    ]
   },
   {
@@ -2868,8 +2924,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/README.md",
    "printed_pages": [
-    134,
-    134
+    139,
+    139
    ]
   },
   {
@@ -2880,36 +2936,35 @@
      18,
      [
       [
-       953,
-       "[Page 135]"
+       813,
+       "[Page 140]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     94,
+     [
+      [
+       104,
+       "[Page 141]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00371 - National stage Commencement.md",
    "printed_pages": [
-    134,
-    135
+    139,
+    141
    ]
   },
   {
    "id": "35_372",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       94,
-       "[Page 136]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00372 - National stage Requirements and procedure.md",
    "printed_pages": [
-    135,
-    136
+    141,
+    141
    ]
   },
   {
@@ -2917,8 +2972,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00373 - Repealed. Pub. L. 112–274, §1(i), Jan. 14, 2013, 126 Stat. 2457.md",
    "printed_pages": [
-    136,
-    136
+    141,
+    141
    ]
   },
   {
@@ -2926,19 +2981,19 @@
    "marks": [
     [
      "I",
-     28,
+     22,
      [
       [
-       104,
-       "[Page 137]"
+       271,
+       "[Page 142]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00374 - Publication of international application.md",
    "printed_pages": [
-    136,
-    137
+    141,
+    142
    ]
   },
   {
@@ -2946,8 +3001,8 @@
    "marks": [],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00375 - Patent issued on international application Effect.md",
    "printed_pages": [
-    137,
-    137
+    142,
+    142
    ]
   },
   {
@@ -2955,19 +3010,19 @@
    "marks": [
     [
      "I",
-     40,
+     28,
      [
       [
-       111,
-       "[Page 138]"
+       119,
+       "[Page 143]"
       ]
      ]
     ]
    ],
    "path": "Part 004 (IV) - Patent Cooperation Treaty/Chapter 037 - National Stage/§ 00376 - Fees.md",
    "printed_pages": [
-    137,
-    138
+    142,
+    143
    ]
   },
   {
@@ -2975,8 +3030,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/README.md",
    "printed_pages": [
-    138,
-    138
+    143,
+    143
    ]
   },
   {
@@ -2984,8 +3039,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/README.md",
    "printed_pages": [
-    138,
-    138
+    143,
+    143
    ]
   },
   {
@@ -2993,24 +3048,28 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00381 - Definitions.md",
    "printed_pages": [
-    138,
-    138
+    143,
+    143
    ]
   },
   {
    "id": "35_382",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 139]",
-     true
+     "I",
+     4,
+     [
+      [
+       314,
+       "[Page 144]"
+      ]
+     ]
     ]
    ],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00382 - Filing international design applications.md",
    "printed_pages": [
-    138,
-    139
+    143,
+    144
    ]
   },
   {
@@ -3018,8 +3077,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00383 - International design application.md",
    "printed_pages": [
-    139,
-    139
+    144,
+    144
    ]
   },
   {
@@ -3027,8 +3086,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00384 - Filing date.md",
    "printed_pages": [
-    139,
-    139
+    144,
+    144
    ]
   },
   {
@@ -3036,8 +3095,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00385 - Effect of international design application.md",
    "printed_pages": [
-    139,
-    139
+    144,
+    144
    ]
   },
   {
@@ -3045,19 +3104,19 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       798,
-       "[Page 140]"
+       79,
+       "[Page 145]"
       ]
      ]
     ]
    ],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00386 - Right of priority.md",
    "printed_pages": [
-    139,
-    140
+    144,
+    145
    ]
   },
   {
@@ -3065,8 +3124,8 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00387 - Relief from prescribed time limits.md",
    "printed_pages": [
-    140,
-    140
+    145,
+    145
    ]
   },
   {
@@ -3074,17 +3133,28 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00388 - Withdrawn or abandoned international design application.md",
    "printed_pages": [
-    140,
-    140
+    145,
+    145
    ]
   },
   {
    "id": "35_389",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       136,
+       "[Page 146]"
+      ]
+     ]
+    ]
+   ],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00389 - Examination of international design application.md",
    "printed_pages": [
-    140,
-    140
+    145,
+    146
    ]
   },
   {
@@ -3092,11 +3162,11 @@
    "marks": [],
    "path": "Part 005 (V) - The Hague Agreement Concerning International Registration of Industrial Designs/Chapter 038 - International Design Applications/§ 00390 - Publication of international design application.md",
    "printed_pages": [
-    140,
-    140
+    146,
+    146
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2019-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2020-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 35 - Patents"
 }

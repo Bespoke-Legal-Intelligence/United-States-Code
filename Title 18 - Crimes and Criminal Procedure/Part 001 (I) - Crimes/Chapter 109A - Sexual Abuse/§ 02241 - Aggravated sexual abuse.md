@@ -34,6 +34,8 @@ State of Mind Proof Requirement.—In a prosecution under subsection (c) of this
 
 (Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, §1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
@@ -52,9 +54,11 @@ Pub. L. 109–162, §1177(a)(2), inserted "or in any prison, institution, or fac
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–314 substituted "younger than the person so engaging" for "younger than that person".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both."
+<b>1996</b>—Subsec. (c). Pub. L. 104–208 reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both."
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–322 substituted "kidnapping" for "kidnaping".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -66,5 +70,5 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(a)\]\], Sept. 3
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–646, §87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §1, Nov. 14, 1986, 100 Stat. 3660, provided,respectively, that: "This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the 'Sexual Abuse Act of 1986'." and "This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the 'Sexual Abuse Act of 1986'."
+Pub. L. 99–646, §87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §1, Nov. 14, 1986, 100 Stat. 3660, provided, respectively, that: "This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the 'Sexual Abuse Act of 1986'." and "This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the 'Sexual Abuse Act of 1986'."
 

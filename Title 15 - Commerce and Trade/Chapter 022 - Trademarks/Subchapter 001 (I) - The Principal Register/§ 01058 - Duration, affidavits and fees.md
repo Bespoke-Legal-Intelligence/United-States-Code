@@ -18,7 +18,7 @@ The affidavit referred to in subsection (a) shall—
 
 &emsp;(B) set forth the goods and services recited in the registration on or in connection with which the mark is in use in commerce;
 
-&emsp;(C) be accompanied by such number of specimens or facsimiles showing current use of themark in commerce as may be required by the Director; and
+&emsp;(C) be accompanied by such number of specimens or facsimiles showing current use of the mark in commerce as may be required by the Director; and
 
 &emsp;(D) be accompanied by the fee prescribed by the Director; or
 
@@ -34,7 +34,7 @@ If any submission filed within the period set forth in subsection (a) is deficie
 
 #### (d) Notice of requirement
 
-Special notice of the requirement for such affidavit shall be attached to each certificate of registration and notice of publication under section 1062(c) of this title.
+Special notice of the requirement for such affidavit shall be attached to each certificate ofregistration and notice of publication under section 1062(c) of this title.
 
 #### (e) Notification of acceptance or refusal
 
@@ -102,7 +102,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to Trademark Act of 1946
 

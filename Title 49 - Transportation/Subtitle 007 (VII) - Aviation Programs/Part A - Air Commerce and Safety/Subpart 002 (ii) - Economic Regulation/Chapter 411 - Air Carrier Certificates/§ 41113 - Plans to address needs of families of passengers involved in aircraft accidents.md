@@ -52,7 +52,7 @@ Certificate Requirement.—The Secretary may not approve an application for a ce
 
 (d)
 
-Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminary passenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
+Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminarypassenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
 
 (e)
 

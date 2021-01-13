@@ -12,7 +12,7 @@
 
 #### (3) Amount of assistance per project; allocation
 
-&emsp;The Attorney General shall make available not less than $800,000 per project, subject to the availability of appropriations, and such funds shall be allocated—
+&emsp;The Attorney General shall make available not less than $800,000 per project, subject tothe availability of appropriations, and such funds shall be allocated—
 
 &emsp;&emsp;(A) 50 percent to the affected State and local law enforcement and prevention organizations participating in such projects; and
 
@@ -34,6 +34,8 @@ There is authorized to be appropriated to carry out this section—
 
 (Pub. L. 103–322, title III, §32401, Sept. 13, 1994, 108 Stat. 1902; Pub. L. 107–296, title XI, §1112(p), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–162, title XI, §1188, Jan. 5, 2006, 119 Stat. 3128.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 13921 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -45,6 +47,8 @@ Section was formerly classified to section 13921 of Title 42, The Public Health 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §1112(p)(1), substituted "Attorney General" for "Secretary of the Treasury" wherever appearing.
 
 Subsec. (a)(3)(B). Pub. L. 107–296, §1112(p)(2), substituted "Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice" for "Bureau of Alcohol, Tobacco and Firearms".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

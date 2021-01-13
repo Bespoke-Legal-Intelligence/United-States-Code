@@ -22,7 +22,7 @@ Not later than 180 days after August 8, 2005, the Commission shall issue regulat
 
 &emsp;(1) exporting a radiation source, unless the Commission has specifically determined under section 2077 or 2112 of this title, consistent with the Code of Conduct, with respect to the exportation, that—
 
-&emsp;&emsp;(A) the recipient of the radiation source may receive and possess the radiation source under the laws and regulations of the country of the recipient;
+&emsp;&emsp;(A) the recipient of the radiation source may receive and possess the radiation sourceunder the laws and regulations of the country of the recipient;
 
 &emsp;&emsp;(B) the recipient country has the appropriate technical and administrative capability, resources, and regulatory structure to ensure that the radiation source will be managed in a safe and secure manner; and
 
@@ -112,7 +112,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 (B) Not later than 1 year after August 8, 2005, and not less than once every 4 years thereafter, the task force shall submit to Congress and the President a report, in unclassified form with a classified annex if necessary, providing recommendations, including recommendations for appropriate regulatory and legislative changes, for—
 
-&emsp;(i) a list of additional radiation sources that should be required to be secured under this chapter, based on the potential attractiveness of the sources to terrorists and the extent of the threat to public health and safety of the sources, taking into consideration—
+&emsp;(i) a list of additional radiation sources that should be required to be secured under this chapter, based on the potential attractiveness of the sources to terrorists and the extent ofthe threat to public health and safety of the sources, taking into consideration—
 
 &emsp;&emsp;(I) radiation source radioactivity levels;
 

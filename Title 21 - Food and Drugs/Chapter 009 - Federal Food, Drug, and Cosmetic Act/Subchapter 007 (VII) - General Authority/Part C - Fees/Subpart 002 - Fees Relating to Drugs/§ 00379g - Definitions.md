@@ -46,7 +46,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;&emsp;(iii) Developing and using improved analytical tools to assess potential safety problems, including access to external data bases.
 
-&emsp;&emsp;&emsp;(iv) Implementing and enforcing section 355(o) of this title (relating to postapproval studies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
+&emsp;&emsp;&emsp;(iv) Implementing and enforcing section 355(o) of this title (relating to postapprovalstudies and clinical trials and labeling changes) and section 355(p) of this title (relating to risk evaluation and mitigation strategies).
 
 &emsp;&emsp;&emsp;(v) Carrying out section 355(k)(5) of this title (relating to adverse event reports and postmarket safety activities).
 
@@ -77,6 +77,8 @@ For purposes of this subpart:
 #### Termination of Section
 
 <i>For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -142,6 +144,8 @@ Par. (8)(B). Pub. L. 105–115, §102(6)(B), substituted "section 254(c)" for "s
 
 Par. (9). Pub. L. 105–115, §102(7), added par. (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–52, title I, §105, Aug. 18, 2017, 131 Stat. 1012, provided that: "The amendments made by this title \[see section 101(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] shall take effect on October 1, 2017, or the date of the enactment of this Act \[Aug. 18, 2017\], whichever is later, except that fees under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] shall be assessed for all human drug applications received on or after October 1, 2017, regardless of the date of the enactment of this Act."
@@ -178,7 +182,7 @@ Pub. L. 105–115, title I, §107, Nov. 21, 1997, 111 Stat. 2305, which provided
 
 Pub. L. 115–52, title I, §104(a), Aug. 18, 2017, 131 Stat. 1012, provided that: "Sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) shall cease to be effective October 1, 2022."
 
-Pub. L. 112–144, title I, §105(a), July 9, 2012, 126 Stat. 1001, which provided that sections 735 and 736 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012.
+Pub. L. 112–144, title I, §105(a), July 9, 2012, 126 Stat. 1001, which provided that sections 735 and 736 of theFederal Food, Drug, and Cosmetic Act (21 U.S.C. 379g; 379h) would cease to be effective Oct. 1, 2017, was repealed by Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012.
 
 \[Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012, provided that the repeal of section 105(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
@@ -222,7 +226,7 @@ Performance Report.—Beginning with fiscal year 2003, not later than 60 days af
 
 "(c)
 
-Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal yearduring which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made."
+Fiscal Report.—Beginning with fiscal year 2003, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (b), the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made."
 
 #### Congressional Findings Concerning Fees Relating to Drugs
 
@@ -268,11 +272,11 @@ Pub. L. 105–115, title I, §101, Nov. 21, 1997, 111 Stat. 2298, provided that:
 
 Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that: "The Congress finds that—
 
-&emsp;"(1) prompt approval of safe and effective new drugs is critical to the improvement of the public health sothat patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
+&emsp;"(1) prompt approval of safe and effective new drugs is critical to the improvement of the public health so that patients may enjoy the benefits provided by these therapies to treat and prevent illness and disease;
 
 &emsp;"(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of human drug applications; and
 
-&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section 301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
+&emsp;"(3) the fees authorized by this title \[see Short Title of 1992 Amendment note, set out under section 301 of this title\] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992) \[Cong. Rec., vol. 138, pt. 18, p. 26928, Sept. 22, 1992\]."
 
 #### Annual Reports
 

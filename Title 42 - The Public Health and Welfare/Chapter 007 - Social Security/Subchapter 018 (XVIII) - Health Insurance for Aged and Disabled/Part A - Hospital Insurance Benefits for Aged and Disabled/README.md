@@ -20,3 +20,4 @@ Part A—Hospital Insurance Benefits for Aged and Disabled
 - [&sect; 01395i&#8211;3a - Protecting residents of long-term care facilities](%C2%A7%2001395i%E2%80%933a%20-%20Protecting%20residents%20of%20long-term%20care%20facilities.md)
 - [&sect; 01395i&#8211;4 - Medicare rural hospital flexibility program](%C2%A7%2001395i%E2%80%934%20-%20Medicare%20rural%20hospital%20flexibility%20program.md)
 - [&sect; 01395i&#8211;5 - Conditions for coverage of religious nonmedical health care institutional services](%C2%A7%2001395i%E2%80%935%20-%20Conditions%20for%20coverage%20of%20religious%20nonmedical%20health%20care%20institutional%20services.md)
+- [&sect; 01395i&#8211;6 - Hospice program survey and enforcement procedures](%C2%A7%2001395i%E2%80%936%20-%20Hospice%20program%20survey%20and%20enforcement%20procedures.md)

@@ -26,6 +26,8 @@ The procedures established to implement the provisions of this chapter shall min
 
 (Pub. L. 90–351, title I, §801, formerly §802, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1201; renumbered §801 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, §1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(2), title VIII, §801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(1), title XXXIII, §330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139; Pub. L. 109–162, title XI, §1111(c)(2)(D), Jan. 5, 2006, 119 Stat. 3102.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3782 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
@@ -53,6 +55,8 @@ Pub. L. 101–647, §241(b)(2), substituted "XII–A, and XII–B" for "and XII�
 Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted "Bureau of Justice Assistance" for "Law Enforcement Assistance Administration" wherever appearing; provided for consultations with the Office of Juvenile Justice and Delinquency Prevention; and struck out provisions respecting: rules, regulations, and procedures affecting national priority grant programs or projects; evaluations in addition to the requirements of former sections 3743 and 3744 of this title; and requirement for comparison of effectiveness of formula grant programs or projects of States or local units of government with similar national priority and discretionary grant programs or projects.
 
 Subsec. (c). Pub. L. 98–473 in amending section generally, reenacted subsec. (c) without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

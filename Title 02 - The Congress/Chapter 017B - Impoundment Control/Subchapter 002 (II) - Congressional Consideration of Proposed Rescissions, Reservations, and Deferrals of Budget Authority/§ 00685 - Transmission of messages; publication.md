@@ -34,9 +34,13 @@ Any special message transmitted under section 683 or 684 of this title, and any 
 
 (Pub. L. 93–344, title X, §1014, July 12, 1974, 88 Stat. 335.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1404 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11845. Delegation of Certain Reporting Functions to Director of Office of Management and Budget
 

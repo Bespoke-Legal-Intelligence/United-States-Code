@@ -104,7 +104,7 @@ General Effective Date.—Except as provided in subsections (b) and (c), this Ac
 
 "(b)
 
-Effective Date for Energy Crisis Intervention Amendments.—The amendments made by section 502(a) \[amending section 8623 of this title and enacting provisions set out as a note under section 8623 of thistitle\] shall take effect on December 1, 1986, or 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
+Effective Date for Energy Crisis Intervention Amendments.—The amendments made by section 502(a) \[amending section 8623 of this title and enacting provisions set out as a note under section 8623 of this title\] shall take effect on December 1, 1986, or 60 days after the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
 
 "(c)
 
@@ -124,7 +124,7 @@ Pub. L. 98–558, title VI, §609, Oct. 30, 1984, 98 Stat. 2893, provided that:
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–285, title III, §301, Oct. 27, 1998, 112 Stat. 2756, provided that: "This title \[amending this section and sections 8622 to 8624, 8626, 8626b, and 8628a of this title and enacting provisions set out as a note under section 8626b of this title\] may be cited as the 'Low-Income Home Energy Assistance Amendments of 1998'."
+Pub. L. 105–285, title III, §301, Oct. 27, 1998, 112 Stat. 2756, provided that: "This title \[amending this sectionand sections 8622 to 8624, 8626, 8626b, and 8628a of this title and enacting provisions set out as a note under section 8626b of this title\] may be cited as the 'Low-Income Home Energy Assistance Amendments of 1998'."
 
 #### Short Title of 1994 Amendment
 

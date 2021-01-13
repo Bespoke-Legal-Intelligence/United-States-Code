@@ -4,9 +4,13 @@ The Secretary of Agriculture is authorized to cause the Bureau of Animal Industr
 
 (Mar. 4, 1913, ch. 145, §1 (part), 37 Stat. 832.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 See note set out under section 151 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

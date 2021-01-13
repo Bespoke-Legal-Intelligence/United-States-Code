@@ -22,9 +22,11 @@ Any member of the Service (other than a member to whom subsection (a) applies) w
 
 &emsp;(2)(A) for those participants in the Foreign Service Retirement and Disability System, a refund as provided in section 4055 of this title of the contributions made by the member to the Foreign Service Retirement and Disability Fund, except that in lieu of such refund a member who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect to receive an annuity, computed under section 4046 of this title, commencing at age 60; and (B) for those participants in the Foreign Service Pension System, benefits as provided in section 4071 of this title.
 
-> In the event that a member of the Service has elected to receive retirement benefits under paragraph (2) and dies before reaching age 60 (for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System), his or her death shall be considered a death in service within the meaning of section 4049 of this title.
+> In the event that a member of the Service has elected to receive retirement benefits underparagraph (2) and dies before reaching age 60 (for participants in the Foreign Service Retirement and Disability System) or age 62 (for participants in the Foreign Service Pension System), his or her death shall be considered a death in service within the meaning of section 4049 of this title.
 
 (Pub. L. 96–465, title I, §609, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 103–236, title I, §181(a)(3), Apr. 30, 1994, 108 Stat. 417; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(a), Oct. 21, 1998, 112 Stat. 2681–827.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 105–277, §2312(a)(4), inserted "(for participants in the
 Subsec. (b)(2). Pub. L. 105–277, §2312(a)(3), designated existing provisions as subpar. (A), inserted "for those participants in the Foreign Service Retirement and Disability System," before "a refund", and added subpar. (B).
 
 <b>1994</b>—Subsecs. (a)(2), (b). Pub. L. 103–236 inserted "or 4010a" after "4008(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 95–105, title IV, §411, Aug. 17, 1977, 91 Stat. 855, as amended by Pu
 
 "(b) Retirement benefits may not be paid under this section unless (1) any refund of contributions paid to the officer under section 634(b)(2) of the Foreign Service Act of 1946 \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] is repaid to the Foreign Service Retirement and Disability Fund, with interest, in accordance with sections 811(d) and (f) of such Act \[former section 1071(d) and (f) of this title, see section 4045(d) and (f) of this title\]; and (2) the service forming the basis for such retirement benefits is not used as the basis for any other retirement benefits under any retirement system.
 
-"(c) In the event that an officer who is entitled to retirement benefits under this section dies before reaching the age of fifty, but after the date of enactment of this section \[Aug. 17, 1977\], his or her death shall beconsidered a death in service within the meaning of section 832 of the Foreign Service Act of 1946 \[former section 1082 of this title, see section 4049 of this title\], except that no survivor's annuity (other than a survivor's annuity which would be payable under the first complete sentence in section 634(b)(2) of such Act \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] but for the enactment of this section) shall become effective before October 1, 1977.
+"(c) In the event that an officer who is entitled to retirement benefits under this section dies before reaching the age of fifty, but after the date of enactment of this section \[Aug. 17, 1977\], his or her death shall be considered a death in service within the meaning of section 832 of the Foreign Service Act of 1946 \[former section 1082 of this title, see section 4049 of this title\], except that no survivor's annuity (other than a survivor's annuity which would be payable under the first complete sentence in section 634(b)(2) of such Act \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] but for the enactment of this section) shall become effective before October 1, 1977.
 
 "(d) An officer entitled to retirement benefits under this section may make the election described in section 821(b) or (f), as appropriate, of the Foreign Service Act of 1946 \[former section 1076(b) or (f) of this title, see section 4046(b) and (f) of this title\] at any time before reaching the age of fifty or before the end of the sixty-day period beginning on the date of enactment of this section \[Aug. 17, 1977\], whichever is later."
 

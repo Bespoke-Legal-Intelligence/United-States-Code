@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a worker described in paragraph (3)(B)(iii)(II), paragraph (2)(A) shall beapplied by substituting the percentage described in subparagraph (B) for "50 percent".
+&emsp;&emsp;In the case of a worker described in paragraph (3)(B)(iii)(II), paragraph (2)(A) shall be applied by substituting the percentage described in subparagraph (B) for "50 percent".
 
 #### (B) Percentage described
 
@@ -152,7 +152,7 @@ Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substitute
 
 Subsec. (a)(2)(A). Pub. L. 111–5, §§1841(a)(2)(B)(i)(I), 1893, temporarily substituted "for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)" for "for a period not to exceed 2 years" in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, temporarily added cls. (i) and\(ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, temporarily added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 "(i) the wages received by the worker from reemployment; and
 

@@ -4,9 +4,13 @@ The Speaker, the majority leader, and the minority leader of the House of Repres
 
 (Aug. 2, 1946, ch. 753, title II, §201(c), 60 Stat. 834.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 74a of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

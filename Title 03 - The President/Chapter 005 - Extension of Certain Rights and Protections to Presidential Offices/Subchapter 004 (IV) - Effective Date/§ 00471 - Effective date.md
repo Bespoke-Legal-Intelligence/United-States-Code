@@ -10,6 +10,8 @@ Regulations.—Sections 411(d), 412(c), 413(c), 414(c), 415(c), 416(c), 421(d), 
 
 (Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4068.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (b), probably means the date of enactment of Pub. L. 104–331, which enacted this chapter and was approved Oct. 26, 1996.

@@ -6,7 +6,7 @@ Review of a Release Order.—If a person is ordered released by a magistrate jud
 
 &emsp;(1) the attorney for the Government may file, with the court having original jurisdiction over the offense, a motion for revocation of the order or amendment of the conditions of release; and
 
-&emsp;(2) the person may file, with the court having original jurisdiction over the offense, amotion for amendment of the conditions of release.
+&emsp;(2) the person may file, with the court having original jurisdiction over the offense, a motion for amendment of the conditions of release.
 
 > The motion shall be determined promptly.
 
@@ -16,9 +16,11 @@ Review of a Detention Order.—If a person is ordered detained by a magistrate j
 
 (c)
 
-Appeal From a Release or Detention Order.—An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of section 1291 of title 28 and section 3731 of this title. The appeal shall be determined promptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person's detention would not be appropriate.
+Appeal From a Release or Detention Order.—An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of section 1291 of title 28 and section 3731 of this title. The appeal shall be determinedpromptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person's detention would not be appropriate.
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 101–647, title IX, §902(c), Nov. 29, 1990, 104 Stat. 4827; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ A prior section 3145, act June 25, 1948, ch. 645, 62 Stat. 821, provided cross r
 #### Amendments
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647 inserted at end "A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person's detention would not be appropriate."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

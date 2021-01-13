@@ -18,7 +18,7 @@ Equipment, Services, and Utilities.—The Secretary shall transfer to the Servic
 
 (e)
 
-Personnel.—The Secretary shall employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5. An employee appointed under this section may be considered for appointment to a Department position in the competitive service in the same manner that a Department employee in the competitive service is considered for transfer to such position. An employee of the Service who is appointed to a Department position in the competitive service under the authority of the preceding sentence may count toward the time-in-service requirement for a career appointment in such position any previous period of employment in the Service.
+Personnel.—The Secretary shall employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to theprovisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5. An employee appointed under this section may be considered for appointment to a Department position in the competitive service in the same manner that a Department employee in the competitive service is considered for transfer to such position. An employee of the Service who is appointed to a Department position in the competitive service under the authority of the preceding sentence may count toward the time-in-service requirement for a career appointment in such position any previous period of employment in the Service.
 
 (f)
 
@@ -45,6 +45,8 @@ Delegation.—The Secretary may delegate such duties and powers to employees as 
 Authority To Cash Checks, Etc.—The Secretary may authorize the use of funds of the Service when available, subject to such regulations as the Secretary may deem appropriate, for the purpose of cashing checks, money orders, and similar instruments in nominal amounts for the payment of money presented by veterans hospitalized or domiciled at hospitals and homes of the Department, and by other persons authorized by section 7803 of this title to make purchases at canteens. Such checks, money orders, and other similar instruments may be cashed outright or may be accepted, subject to strict administrative controls, in payment for merchandise or services, and the difference between the amount of the purchase and the amount of the tendered instrument refunded in cash.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1248, §4202; Pub. L. 86–109, §1, July 28, 1959, 73 Stat. 258; Pub. L. 94–581, title II, §210(d), Oct. 21, 1976, 90 Stat. 2864; Pub. L. 97–295, §4(88), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–576, title VII, §702(13), Oct. 28, 1986, 100 Stat. 3302; renumbered §7802 and amended Pub. L. 102–40, title IV, §402(a), (b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(e)(7), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title III, §304, Dec. 6, 2003, 117 Stat. 2058; Pub. L. 111–350, §5(j)(5), Jan. 4, 2011, 124 Stat. 3850.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Par. (11). Pub. L. 97–295, §4(88)(B), substituted "section 1 of the Act of Ja
 <b>1976</b>—Pars. (3), (9), (10), (11). Pub. L. 94–581 substituted "the Administrator" for "he" in pars. (3), (9), (10), and (11).
 
 <b>1959</b>—Par. (3). Pub. L. 86–109 required the Service to pay reasonable charges, as determined by the Administrator, for the use of space, buildings, and structures furnished by the Veterans' Administration and authorized reduction of waiver of the charges when payment thereof would impair the working capital required by the Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

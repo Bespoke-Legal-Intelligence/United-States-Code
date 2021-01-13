@@ -56,7 +56,7 @@ For purposes of section 960—
 
 &emsp;(2) any amount excluded from gross income under subsection (c) shall be treated in the same manner as amounts excluded from gross income under section 959, and
 
-&emsp;(3) a domestic corporation which owns (or is treated under section 1298(a) as owning) stock of a qualified electing fund shall be treated inthe same manner as a United States shareholder of a controlled foreign corporation (and such qualified electing fund shall be treated in the same manner as such controlled foreign corporation) if such domestic corporation meets the stock ownership requirements of subsection (a) or (b) of section 902 (as in effect before its repeal) with respect to such qualified electing fund.
+&emsp;(3) a domestic corporation which owns (or is treated under section 1298(a) as owning) stock of a qualified electing fund shall be treated in the same manner as a United States shareholder of a controlled foreign corporation (and such qualified electing fund shall be treated in the same manner as such controlled foreign corporation) if such domestic corporation meets the stock ownership requirements of subsection (a) or (b) of section 902 (as in effect before its repeal) with respect to such qualified electing fund.
 
 #### (g) Other special rules
 

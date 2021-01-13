@@ -42,7 +42,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 (2) The Commission may require a notice described in paragraph (1) to be distributed in a language other than English if the Commission determines that doing so is necessary to adequately protect the public.
 
-(3) If a district court determines, in an action filed under section 2061 of this title, that the product that is the subject of such action is not an imminently hazardous consumer product, the Commission shall rescind any order issued under this subsection with respect to such product.
+(3) If a district court determines, in an action filed under section 2061 of this title, that the product that is the subject of such action is not an imminently hazardous consumer product, theCommission shall rescind any order issued under this subsection with respect to such product.
 
 #### (d) Repair; replacement; refunds; action plan
 
@@ -54,7 +54,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 &emsp;(C) To refund the purchase price of such product (less a reasonable allowance for use, if such product has been in the possession of a consumer for one year or more (i) at the time of public notice under subsection (c), or (ii) at the time the consumer receives actual notice of the defect or noncompliance, whichever first occurs).
 
-(2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).<sup>2</sup> An order under this subsection may prohibit the person to whom itapplies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
+(2) An order under this subsection shall also require the person to whom it applies to submit a plan, for approval by the Commission, for taking action under whichever of the preceding subparagraphs under which such person has been ordered to act. The Commission shall specify in the order the persons to whom refunds must be made if the Commission orders the action described in subparagraph (C).<sup>2</sup> An order under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), or from doing any combination of such actions, the product with respect to which the order was issued.
 
 (3)(A) If the Commission approves an action plan, it shall indicate its approval in writing.
 
@@ -76,7 +76,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (g) Preliminary injunction
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply tothe issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
@@ -156,7 +156,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted "under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission" after "consumer product safety rule".
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted "under this chapter or a similar rule, regulation,standard, or ban under any other Act enforced by the Commission" after "consumer product safety rule".
 
 Subsec. (b). Pub. L. 110–314, §214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted "A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead." at end of concluding provisions.
 
@@ -246,7 +246,7 @@ Reports to Consumer Product Safety Commission.—
 
 &emsp;"(1)
 
-Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, small ball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
+Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, smallball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
 
 &emsp;&emsp;"(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and
 

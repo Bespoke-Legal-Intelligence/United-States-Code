@@ -64,7 +64,7 @@
 
 &emsp;The institution shall return not later than 45 days from the determination of withdrawal, in the order specified in paragraph (3), the lesser of—
 
-&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter that hasnot been earned by the student, as calculated under subsection (a)(3)(C); or
+&emsp;&emsp;(A) the amount of grant and loan assistance awarded under this subchapter that has not been earned by the student, as calculated under subsection (a)(3)(C); or
 
 &emsp;&emsp;(B) an amount equal to—
 
@@ -224,7 +224,7 @@ Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted "subsection (c) of th
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

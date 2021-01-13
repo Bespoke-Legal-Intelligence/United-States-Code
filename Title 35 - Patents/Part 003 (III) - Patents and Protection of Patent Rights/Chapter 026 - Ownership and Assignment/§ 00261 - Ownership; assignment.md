@@ -16,6 +16,8 @@ Based on Title 35, U.S.C., 1946 ed., §47 (R.S. 4898, amended (1) Mar. 3, 1897, 
 
 The first paragraph is new but is declaratory only. The second paragraph is the same as in the corresponding section of existing statute. The third paragraph is from the existing statute, a specific reference to another statute is omitted. The fourth paragraph is the same as the existing statute but language has been changed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–211 inserted "The Patent and Trademark Office shall maintain a register of interests in patents and applications for patents and shall record any document related thereto upon request, and may require a fee therefor." at end of first par. and substituted "An interest that constitutes an assignment" for "An assignment" in fourth par.
@@ -23,6 +25,8 @@ The first paragraph is new but is declaratory only. The second paragraph is the 
 <b>1982</b>—Pub. L. 97–247 inserted ", or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States".
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -16,11 +16,15 @@ This section permits the debtor's business to continue to be operated, unless th
 
 #### house report no. 95–595
 
-This section does not presume that a trustee will be appointed to operate the business of the debtor. Rather,the power granted to trustee under this section is one of the powers that a debtor in possession acquires by virtue of proposed 11 U.S.C. 1107.
+This section does not presume that a trustee will be appointed to operate the business of the debtor. Rather, the power granted to trustee under this section is one of the powers that a debtor in possession acquires by virtue of proposed 11 U.S.C. 1107.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–353 inserted ", on request of a party in interest and after notice and a hearing,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

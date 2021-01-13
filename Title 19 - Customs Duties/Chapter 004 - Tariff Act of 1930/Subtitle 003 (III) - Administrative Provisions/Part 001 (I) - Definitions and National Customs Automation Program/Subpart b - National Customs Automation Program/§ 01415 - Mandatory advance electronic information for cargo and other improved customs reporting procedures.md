@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
 
-&emsp;&emsp;(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+&emsp;&emsp;(E) The regulations shall take into account the extent to which the technologynecessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
 &emsp;&emsp;(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
 
 &emsp;&emsp;(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act..<sup>1</sup>
 
-&emsp;&emsp;(H) In determining the timing for transmittal of any information, the Secretaryshall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
+&emsp;&emsp;(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
 
 &emsp;&emsp;(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
 
@@ -80,9 +80,11 @@
 
 &emsp;&emsp;&emsp;(bb) information used to support such determination with respect to such countries.
 
-&emsp;&emsp;(vii)(I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II).
+&emsp;&emsp;(vii)(I) The Postmaster General shall, in consultation with the Commissioner, refuse any shipments received after December 31, 2020, for which the information described in paragraphs (1) and (2) is not transmitted as required under this subparagraph, except as provided in subclause (II) or (III).
 
 &emsp;&emsp;(II) If remedial action is warranted in lieu of refusal of shipments pursuant to subclause (I), the Postmaster General and the Commissioner shall take remedial action with respect to the shipments, including destruction, seizure, controlled delivery or other law enforcement initiatives, or correction of the failure to provide the information described in paragraphs (1) and (2) with respect to the shipments.
+
+&emsp;&emsp;(III) Notwithstanding subclause (I), during the period beginning on January 1, 2021, through March 15, 2021, the Postmaster General may accept a shipment without transmission of the information described in paragraphs (1) and (2) if the Commissioner determines, or concurs with the determination of the Postmaster General, that the shipment presents a low risk of violating any relevant United States statutes or regulations, including statutes or regulations relating to the importation of controlled substances such as fentanyl and other synthetic opioids.
 
 &emsp;&emsp;(viii) Nothing in this subparagraph shall be construed to limit the authority of the Secretary to obtain information relating to international mail shipments from private carriers or other appropriate parties.
 
@@ -134,7 +136,7 @@
 
 For purposes of this section, the term "Secretary" means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.
 
-(Pub. L. 107–210, div. A, title III, §343, Aug. 6, 2002, 116 Stat. 981; Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, §8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, 4076, 4079.)
+(Pub. L. 107–210, div. A, title III, §343, Aug. 6, 2002, 116 Stat. 981; Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, §8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, 4076, 4079; Pub. L. 116–260, div. N, title VIII, §802, Dec. 27, 2020, 134 Stat. 2119.)
 
 #### References in Text
 
@@ -149,6 +151,10 @@ Section was enacted as part of the Customs Border Security Act of 2002, and also
 Section is comprised of section 343 of Pub. L. 107–210. Subsec. (b) of section 343 of Pub. L. 107–210 enacted section 1431a of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(3)(K)(vii)(I). Pub. L. 116–260, §802(1), substituted "subclause (II) or (III)" for "subclause (II)".
+
+Subsec. (a)(3)(K)(vii)(III). Pub. L. 116–260, §802(2), added subcl. (III).
 
 <b>2018</b>—Pub. L. 115–271, §8003(e), substituted "advance" for "advanced" in section catchline.
 
@@ -184,7 +190,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
+Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
 
 #### International Postal Agreements
 

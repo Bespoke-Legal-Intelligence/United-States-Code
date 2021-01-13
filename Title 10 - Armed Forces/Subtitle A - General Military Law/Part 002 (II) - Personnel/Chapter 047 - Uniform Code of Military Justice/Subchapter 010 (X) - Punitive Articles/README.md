@@ -85,7 +85,7 @@
 | [928a.](%C2%A7%2000928a%20-%20Art.%20128a.%20Maiming.md) | 128a. | Maiming. |
 | [928b.](%C2%A7%2000928b%20-%20Art.%20128b.%20Domestic%20violence.md) | 128b. | Domestic violence. |
 | [929\.](%C2%A7%2000929%20-%20Art.%20129.%20Burglary%3B%20unlawful%20entry.md) | 129\. | Burglary; unlawful entry. |
-| [929a.](%C2%A7%2000929a%20-%20Art.%20129a.%20Omitted.md) | 129a. | Omitted. |
+| \[929a. | 129a. | Omitted.\] |
 | [930\.](%C2%A7%2000930%20-%20Art.%20130.%20Stalking.md) | 130\. | Stalking. |
 | [931\.](%C2%A7%2000931%20-%20Art.%20131.%20Perjury.md) | 131\. | Perjury. |
 | [931a.](%C2%A7%2000931a%20-%20Art.%20131a.%20Subornation%20of%20perjury.md) | 131a. | Subornation of perjury. |

@@ -44,6 +44,8 @@
 
 (Added Pub. L. 105–339, §3(a), Oct. 31, 1998, 112 Stat. 3182; amended Pub. L. 108–454, title VIII, §804(a), Dec. 10, 2004, 118 Stat. 3626.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(1). Pub. L. 108–454 designated existing provisions as subpar. (A) and added subpar. (B).

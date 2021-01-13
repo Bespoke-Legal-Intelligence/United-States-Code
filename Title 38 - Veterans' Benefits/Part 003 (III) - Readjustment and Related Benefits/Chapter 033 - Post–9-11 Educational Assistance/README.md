@@ -10,7 +10,7 @@
 
 #### SUBCHAPTER II—EDUCATIONAL ASSISTANCE
 
-| Sec. |  |
+|  |  |
 | :--- | ---: |
 | [3311\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003311%20-%20Educational%20assistance%20for%20service%20in%20the%20Armed%20Forces%20commencing%20on%20or%20after%20September%2011%2C%202001%20entitlement.md) | Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement. |
 | [3312\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003312%20-%20Educational%20assistance%20duration.md) | Educational assistance: duration. |
@@ -18,6 +18,7 @@
 | [3314\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003314%20-%20Tutorial%20assistance.md) | Tutorial assistance. |
 | [3315\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003315%20-%20Licensure%20and%20certification%20tests.md) | Licensure and certification tests. |
 | [3315A.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003315A%20-%20National%20tests.md) | National tests. |
+| [3315B.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003315B%20-%20Preparatory%20courses%20for%20licensure%2C%20certification%2C%20or%20national%20tests.md) | Preparatory courses for licensure, certification, or national tests. |
 | [3316\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003316%20-%20Supplemental%20educational%20assistance%20members%20with%20critical%20skills%20or%20specialty%3B%20members%20serving%20additional%20service.md) | Supplemental educational assistance: members with critical skills or specialty; members serving additional service. |
 | [3317\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003317%20-%20Public-private%20contributions%20for%20additional%20educational%20assistance.md) | Public-private contributions for additional educational assistance. |
 | [3318\.](Subchapter%20002%20%28II%29%20-%20Educational%20Assistance/%C2%A7%2003318%20-%20Additional%20assistance%20relocation%20or%20travel%20assistance%20for%20individual%20relocating%20or%20traveling%20significant%20distance%20for%20pursuit%20of%20a%20program%E2%80%A6.md) | Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education. |
@@ -40,7 +41,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–154, §5(b), Aug. 8, 2020, 134 Stat. 692, added item 3315B.
 
 <b>2017</b>—Pub. L. 115–48, title I, §111(b), Aug. 16, 2017, 131 Stat. 983, added item 3320.
 

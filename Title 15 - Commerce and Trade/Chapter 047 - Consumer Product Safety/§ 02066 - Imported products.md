@@ -2,7 +2,7 @@
 
 #### (a) Refusal of admission
 
-Any consumer product offered for importation into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
+Any consumer product offered for importation into the customs territory of the United States\(as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule;
 
@@ -46,7 +46,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 (3) The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
+(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II,§§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
 
 #### References in Text
 
@@ -72,11 +72,71 @@ Amendment by sections 216(b) and 223(b) of Pub. L. 110–314 effective on the da
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date
 
 Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of Pub. L. 92–573, set out as a note under section 2051 of this title.
+
+#### Port Surveillance During the COVID–19 Pandemic
+
+Pub. L. 116–260, div. FF, title XX, §2001, Dec. 27, 2020, 134 Stat. 3301, provided that:
+
+"(a)
+
+CPSC Surveillance Personnel During the COVID-19
+
+Pandemic.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus (COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
+
+"(b)
+
+Additional CPSC Surveillance Personnel at Key Ports of Entry.—The Commission shall hire, train, and assign not fewer than 16 additional full-time equivalent personnel to be stationed at or supporting efforts at ports of entry, including ports of entry for de minimis shipments, for the purpose of identifying, assessing, and addressing shipments of violative consumer products. Such hiring shall continue during each fiscal year until the total number of full-time equivalent personnel equals and sustains the staffing requirements identified in the report to Congress required under subsection (c)(2)(F).
+
+"(c)
+
+Report to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this section \[Dec. 27, 2020\], the Commission shall transmit to Congress, and make publicly available, a study and report assessing the risk to consumers associated with the reduction in Commission port inspection activity during the COVID-19 pandemic and the targeting and screening of de minimis shipments.
+
+&emsp;"(2)
+
+Report requirements.—In the study and report, the Commission shall—
+
+&emsp;&emsp;"(A) identify—
+
+&emsp;&emsp;&emsp;"(i) the risks associated with the reduction in Commission port inspection activity during the COVID-19 pandemic;
+
+&emsp;&emsp;&emsp;"(ii) the extent to which the reduction in port inspection activity is linked to inadequate Commission resources or due to shortages of trained Commission staff due to the COVID-19 pandemic; and
+
+&emsp;&emsp;&emsp;"(iii) the steps the Commission has taken and plans to take to mitigate those risks, such as recalls, inspections of product inventory, consumer warnings, and other appropriate measures;
+
+&emsp;&emsp;"(B) examine a sampling of de minimis shipments at a sufficient and representative sample of all types of ports of entry where de minimis shipments are processed, including express consignment carrier facilities, international mail facilities, and air cargo facilities to assess the extent to which such shipments include violative consumer products;
+
+&emsp;&emsp;"(C) examine a sampling of shipments coming from countries identified as high-risk for exporting violative consumer products to identify trends associated with the shipment of products containing both intellectual property rights infringements and consumer product safety violations;
+
+&emsp;&emsp;"(D) detail plans and timelines to effectively address targeting and screening of de minimis shipments to prevent the entry of violative consumer products entering into the commerce of the United States taking into consideration projected growth in e-commerce;
+
+&emsp;&emsp;"(E) establish metrics by which to evaluate the effectiveness of the Commission efforts to reduce the number of de minimis shipments containing violative consumer products from entering into the commerce of the United States; and
+
+&emsp;&emsp;"(F) assess projected technology and resources, including staffing requirements necessary to implement such plans based on available and needed Commission resources.
+
+"(d)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Commission' means the Consumer Product Safety Commission;
+
+&emsp;"(2) the term 'de minimis shipments' means articles containing consumer products entering the United States under the de minimis value exemption in 19 U.S.C. 1321(a)(2)(C);
+
+&emsp;"(3) the term 'ports of entry for de minimis shipments' means environments where de minimis shipments are processed, including express consignment carrier facilities, international mail facilities, and air cargo facilities; and
+
+&emsp;"(4) the term 'violative consumer products' means consumer products in violation of an applicable consumer product safety rule under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\] or any similar rule, regulation, standard, or ban under any other Act enforced by the Commission.
+
+"(e)
+
+Savings Clause.—Nothing in this section shall be construed to limit, affect, or conflict with any other authority of the Commission or any other statutory requirements governing the Commission."
 
 #### Import Safety Management and Interagency Cooperation
 

@@ -10,13 +10,13 @@ The Secretary of the Treasury shall make payments on account of awards certified
 
 &emsp;(3) Payment in the amount of $1,000 on account of the principal of each award of more than $1,000 in amount made pursuant to section 1641b, 1641c, or 1641d(a)(2) of this title;
 
-&emsp;(4) After completing the payments under the preceding paragraphs of this subsection from any one fund, payments from time to time, in ratable proportions, on account of the then unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of suchawards bear to the total amount in the fund available for distribution on account of such awards at the time such payments are made;
+&emsp;(4) After completing the payments under the preceding paragraphs of this subsection from any one fund, payments from time to time, in ratable proportions, on account of the then unpaid principal of all awards in the principal amount of more than $1,000, according to the proportions which the unpaid principal of such awards bear to the total amount in the fund available for distribution on account of such awards at the time such payments are made;
 
 &emsp;(5) After payment has been made in full of the principal amounts of all awards from any one fund, pro rata payments from the remainder of such fund then available for distribution on account of accrued interest on such awards as bear interest;
 
 &emsp;(6) Whenever the Commission is authorized to settle claims by the enactment of paragraph (4) of section 1641b of this title with respect to Rumania and Bulgaria, no further payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission pursuant to paragraph (1), (2), or (3) of section 1641b of this title of the Bulgarian or Rumanian Claims Funds, as the case may be, until payments on account of awards certified pursuant to paragraph (4) of section 1641b of this title with respect to such fund have been authorized in equal proportion to payments previously authorized on existing awards certified pursuant to paragraphs (1), (2), and (3) of section 1641b of this title.
 
-&emsp;(7)(A) Except as otherwise provided in subparagraph (D), whenever the Commission is authorized to settle claims by enactment of paragraph (5) of section 1641b of this title with respect to Hungary, no further payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission under paragraphs (2) and (3) of section 1641b of this title out of the Hungarian Claims Fund until payments on account of awards certified under paragraph (5) of section 1641b of this title with respect to such fund have been authorized in equal proportions to payments previously authorized on existing awards certified under paragraphs (2) and (3) of section 1641b of this title.
+&emsp;(7)(A) Except as otherwise provided in subparagraph (D), whenever the Commission is authorized to settle claims by enactment of paragraph (5) of section 1641b of this title with respect to Hungary, no further payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission under paragraphs (2) and (3) of section 1641b of this title out of the Hungarian Claims Fund until payments on account of awards certified under paragraph (5) of section 1641b of this title with respect to such fund havebeen authorized in equal proportions to payments previously authorized on existing awards certified under paragraphs (2) and (3) of section 1641b of this title.
 
 &emsp;(B) Except as otherwise provided in subparagraph (D), with respect to awards previously certified under paragraph (1) of section 1641b of this title, the Secretary of the Treasury shall not authorize any further payments until payments on account of awards certified under paragraphs (2), (3), and (5) of section 1641b of this title have been authorized in equal proportions to payments previously authorized on existing awards certified under paragraph (1) of section 1641b of this title.
 
@@ -39,6 +39,8 @@ For the purposes of making any such payments, an "award" shall be deemed to mean
 With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
 
 (Mar. 10, 1950, ch. 54, title III, §310, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 573; amended Pub. L. 90–421, §1(13), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, §1(5), Oct. 20, 1974, 88 Stat. 1386.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

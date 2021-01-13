@@ -44,11 +44,13 @@ The President shall negotiate suitable arrangements with the Republic of Panama 
 
 &emsp;(B) Members of a reserve component of the armed forces.
 
-&emsp;(C) Members of the Commissioned Reserve Corps of the Public Health Service.
+&emsp;(C) Members of the Commissioned Reserve Corps <sup>1</sup> of the Public Health Service.
 
 (2) The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).
 
 (Pub. L. 96–70, title I, §1112, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §§3522, 3550(d)(2)(A), Nov. 18, 1997, 111 Stat. 2064, 2074.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -64,7 +66,17 @@ In subsec. (b)(4), "sections 1343, 1344, and 1349(b) of title 31" substituted fo
 
 Subsecs. (e), (f). Pub. L. 105–85, §3522, added subsecs. (e) and (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 Functions vested in President by subsec. (d) of this section delegated to Secretary of State, see section 1–402 of Ex. Ord. No. 12215, May 27, 1980, 45 F.R. 36044, set out as a note under section 3601 of this title.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

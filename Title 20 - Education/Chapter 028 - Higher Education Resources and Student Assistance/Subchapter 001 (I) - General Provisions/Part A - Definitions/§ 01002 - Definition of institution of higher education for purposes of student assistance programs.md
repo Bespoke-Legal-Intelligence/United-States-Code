@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passingscore in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution—
 
@@ -214,7 +214,7 @@ Subsec. (a)(1)(C). Pub. L. 111–152, §2209(b)(1)(B), inserted ", consistent w
 
 Subsec. (a)(2)(A). Pub. L. 111–152, §2209(b)(1)(C)(i), substituted "made" for "made, insured, or guaranteed" in introductory provisions.
 
-Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–152, §2209(b)(1)(C)(ii)(I), substituted "only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUSLoans under section 1087e(a)(2)(B) of this title" for "only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title".
+Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–152, §2209(b)(1)(C)(ii)(I), substituted "only Federal Direct Stafford Loans under section 1087e(a)(2)(A) of this title, Federal Direct Unsubsidized Stafford Loans under section 1087e(a)(2)(D) of this title, or Federal Direct PLUS Loans under section 1087e(a)(2)(B) of this title" for "only Federal Stafford Loans under section 1078 of this title, unsubsidized Federal Stafford Loans under section 1078–8 of this title, or Federal PLUS loans under section 1078–2 of this title".
 
 Subsec. (a)(2)(A)(iii)(V). Pub. L. 111–152, §2209(b)(1)(C)(ii)(II), substituted "a Federal Direct Stafford Loan under section 1087e(a)(2)(A) of this title, a Federal Direct Unsubsidized Stafford Loan under section 1087e(a)(2)(D) of this title, or a Federal Direct PLUS Loan under section 1087e(a)(2)(B) of this title" for "a Federal Stafford Loan under section 1078 of this title, an unsubsidized Federal Stafford Loan under section 1078–8 of this title, or a Federal PLUS loan under section 1078–2 of this title".
 

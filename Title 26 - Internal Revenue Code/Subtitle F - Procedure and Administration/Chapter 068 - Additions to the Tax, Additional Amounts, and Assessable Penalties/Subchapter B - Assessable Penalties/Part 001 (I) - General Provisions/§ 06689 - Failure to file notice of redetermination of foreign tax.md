@@ -20,5 +20,5 @@ A prior section 6689, added Pub. L. 93–17, §3(d)(2), Apr. 10, 1973, 87 Stat. 
 
 #### Effective Date
 
-For applicability of section with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance of prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as a note under section 404A of this title.
+For applicability of section with respect to employer contributions or accruals for taxable years beginningafter Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance of prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as a note under section 404A of this title.
 

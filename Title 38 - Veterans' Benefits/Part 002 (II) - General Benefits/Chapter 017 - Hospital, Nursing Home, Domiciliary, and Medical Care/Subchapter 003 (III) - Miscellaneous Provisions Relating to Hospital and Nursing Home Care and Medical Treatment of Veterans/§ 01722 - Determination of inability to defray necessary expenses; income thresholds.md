@@ -50,7 +50,9 @@
 
 > shall be accepted as sufficient evidence of such veteran's inability to defray necessary expenses.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, §705, Aug. 6, 2012, 126 Stat. 1206.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §622; Pub. L. 89–612, §1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, §1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, §401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272,title XIX, §19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, §102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, §8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1722 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, §101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, §705, Aug. 6, 2012, 126 Stat. 1206.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -147,6 +149,8 @@ Subsec. (b). Pub. L. 94–581, §210(a)(9), substituted "such veteran's inabilit
 <b>1970</b>—Pub. L. 91–500 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1966</b>—Pub. L. 89–612 inserted reference to section 632(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

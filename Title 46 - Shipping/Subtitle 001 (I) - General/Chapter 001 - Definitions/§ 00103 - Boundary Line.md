@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 46:2101(3).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–120 substituted "(33 U.S.C. 151(b))." for "(33 U.S.C. 151)."

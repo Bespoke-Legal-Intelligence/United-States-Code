@@ -14,9 +14,13 @@ Notwithstanding sections 952, 953, and 957 of this title—
 
 (Pub. L. 91–513, title III, §1004, Oct. 27, 1970, 84 Stat. 1287.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Schedules I, II, III, and IV, referred to in text, are set out in section 812(c) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

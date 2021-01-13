@@ -26,7 +26,9 @@
 
 (2) An employee who is receiving basic pay under paragraph (1)(B)(ii) or (iii) of this subsection is entitled to have the basic pay rate of the employee increased by 50 percent of the amount of each increase in the maximum rate of basic pay for the grade of the position in which the employee is placed under subsection (a) or (b) of this section until the rate is equal to the rate in effect under paragraph (1)(B)(i) of this subsection for the position in which the employee is placed.
 
-(Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1166; amended Pub. L. 98–615, title III, §303(b), Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–194, title V, §506(b)(5), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(E)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(16), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 107–296, title XIII, §1321(a)(2)(C), Nov. 25, 2002, 116 Stat. 2297.)
+(Added Pub. L. 95–454, title IV, §404(b), Oct. 13, 1978, 92 Stat. 1166; amended Pub. L. 98–615, title III, §303(b), Nov. 8, 1984, 98 Stat. 3217; Pub. L.101–194, title V, §506(b)(5), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(E)\], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 102–378, §2(16), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 107–296, title XIII, §1321(a)(2)(C), Nov. 25, 2002, 116 Stat. 2297.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Subsec. (b)(3). Pub. L. 107–296, §1321(a)(2)(C)(iii), struck out par. (3) whi
 <b>1989</b>—Subsec. (b)(3). Pub. L. 101–194 added par. (3).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–615 inserted provision relating to career appointees removed from the Senior Executive Service under section 3595(b)(4) or (5) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

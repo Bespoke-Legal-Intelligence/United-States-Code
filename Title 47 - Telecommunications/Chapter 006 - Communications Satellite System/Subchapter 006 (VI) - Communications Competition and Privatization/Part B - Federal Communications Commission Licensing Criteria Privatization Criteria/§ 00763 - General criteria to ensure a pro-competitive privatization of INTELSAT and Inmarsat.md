@@ -72,7 +72,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(iii) the Commission determines, after notice and comment, that the successor entity is in compliance with such certification.
 
-&emsp;&emsp;(G) For purposes of subparagraph (F), the term "substantial dilution" means that a majority of the financial interests in the successor entity is no longer held or controlled, directly or indirectly, by signatories or former signatories.
+&emsp;&emsp;(G) For purposes of subparagraph (F), the term "substantial dilution" means that amajority of the financial interests in the successor entity is no longer held or controlled, directly or indirectly, by signatories or former signatories.
 
 #### (6) Regulatory treatment
 
@@ -89,6 +89,8 @@ The President and the Commission shall secure a pro-competitive privatization of
 &emsp;&emsp;(C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
 (Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835; Pub. L. 108–228, §1, May 18, 2004, 118 Stat. 644; Pub. L. 108–371, §1, Oct. 25, 2004, 118 Stat. 1752; Pub. L. 109–34, §1, July 12, 2005, 119 Stat. 377.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Par. (5)(F), (G). Pub. L. 108–371, §1(2), added subpars. (F) and (G).
 <b>2002</b>—Par. (5)(A)(i). Pub. L. 107–233 substituted "December 31, 2003," for "October 1, 2001," and "June 30, 2004;" for "December 31, 2002;".
 
 <b>2001</b>—Par. (5)(A)(ii). Pub. L. 107–77 substituted "not later than December 31, 2002, except that the Commission may extend this deadline to not later than June 30, 2003" for "on or about October 1, 2000, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but to no later than December 31, 2001".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 

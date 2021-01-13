@@ -2,13 +2,15 @@
 
 (a) For purposes of this subchapter—
 
-&emsp;(1) The term "import" means, with respect to any article, any bringing in or introduction of such article into any area (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
+&emsp;(1) The term "import" means, with respect to any article, any bringing in or introduction of such article into any area (whether or not such bringing in or introduction constitutesan importation within the meaning of the tariff laws of the United States).
 
 &emsp;(2) The term "customs territory of the United States" has the meaning assigned to such term by general note 2 of the Harmonized Tariff Schedule of the United States.
 
 (b) Each term defined in section 802 of this title shall have the same meaning for purposes of this subchapter as such term has for purposes of subchapter I.
 
 (Pub. L. 91–513, title III, §1001, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 100–418, title I, §1214(m), Aug. 23, 1988, 102 Stat. 1158.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original "this 
 #### Amendments
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 to the Tariff Schedules of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

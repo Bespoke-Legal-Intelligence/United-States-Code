@@ -4,6 +4,8 @@ Out of funds appropriated to the Department pursuant to the authorization in sec
 
 (Added Pub. L. 92–541, §2(a), Oct. 24, 1972, 86 Stat. 1106, §5096; amended Pub. L. 94–581, title II, §210(f)(6), Oct. 21, 1976, 90 Stat. 2866; renumbered §8241 and amended Pub. L. 102–40, title IV, §§402(b)(2)(E), (d)(1), 403(b)(7), May 7, 1991, 105 Stat. 239, 240; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(2)(E), renumbered section 5096 of this title as this section.
@@ -17,6 +19,8 @@ Pub. L. 102–40, §403(b)(7), substituted "7302" for "4101(b)".
 Pub. L. 102–40, §402(d)(1), substituted "8222" for "5082".
 
 <b>1976</b>—Pub. L. 94–581 substituted "the Administrator" for "he".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

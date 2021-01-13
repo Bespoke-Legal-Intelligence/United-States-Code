@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination\(except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
+&emsp;(1) "property-carrying unit" means any part of a commercial motor vehicle combination (except the truck tractor) used to carry property, including a trailer, a semitrailer, or the property-carrying section of a single unit truck, but not including a trailer or a semitrailer transported as part of a towaway trailer transporter combination (as defined in section 31111(a)).
 
 &emsp;(2) the length of the property-carrying units of a commercial motor vehicle combination is the length measured from the front of the first property-carrying unit to the rear of the last property-carrying unit.
 
@@ -26,7 +26,7 @@ Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon.—I
 
 &emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991;
+&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (includingcontinued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991;
 
 &emsp;(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state;<sup>1</sup> and
 
@@ -74,7 +74,7 @@ Limitations on Statutory Construction.—This section may not be construed—
 
 &emsp;(2) to affect in any way the operation of a commercial motor vehicle having only one property-carrying unit; or
 
-&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle with more than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
+&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle withmore than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
 
 (g)
 

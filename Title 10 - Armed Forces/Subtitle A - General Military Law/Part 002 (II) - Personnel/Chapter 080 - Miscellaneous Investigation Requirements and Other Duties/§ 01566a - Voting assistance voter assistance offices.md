@@ -60,7 +60,7 @@ Regulations.—
 
 Definitions.—In this section:
 
-&emsp;(1) The term "absent uniformed services voter" has the meaning given that term in section 107(1) of the Uniformed and OverseasCitizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).<sup>1</sup>
+&emsp;(1) The term "absent uniformed services voter" has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).<sup>1</sup>
 
 &emsp;(2) The term "Federal office" has the meaning given that term in section 107(3) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(3)).<sup>1</sup>
 

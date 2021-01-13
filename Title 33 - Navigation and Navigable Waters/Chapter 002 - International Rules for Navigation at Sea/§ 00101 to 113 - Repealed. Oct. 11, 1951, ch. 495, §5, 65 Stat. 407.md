@@ -26,6 +26,8 @@ Section 112, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, related to special c
 
 Section 113, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 328, related to sound signals of steam vessel indicating course.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Jan. 1, 1954, see note set out under sections 61 to 63 of this title.

@@ -22,6 +22,8 @@ Funds credited to the Capital Investment Fund shall not be available for obligat
 
 (Pub. L. 103–236, title I, §135, Apr. 30, 1994, 108 Stat. 396; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2209, Oct. 21, 1998, 112 Stat. 2681–811.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §2209(1), inserted "and enhancement" after "procurement".

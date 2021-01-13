@@ -66,7 +66,7 @@
 
 (2) For the purposes of this subsection, a transfer includes a transfer made in anticipation of any money judgment, settlement, civil penalty, equitable order, or criminal fine incurred by, or which the debtor believed would be incurred by—
 
-&emsp;(A) any violation of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))), any State securities laws, or any regulation ororder issued under Federal securities laws or State securities laws; or
+&emsp;(A) any violation of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws; or
 
 &emsp;(B) fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78l and 78o(d)) or under section 6 of the Securities Act of 1933 (15 U.S.C. 77f).
 
@@ -89,6 +89,8 @@ The trustee of a partnership debtor may avoid any transfer of partnership proper
 If a transferee's only liability to the trustee is under this section, and if he takes for value and in good faith, then subsection (c) grants him a lien on the property transferred, or other similar protection.
 
 Subsection (d) specifies that for the purposes of fraudulent transfer section, a transfer is made when it is valid against a subsequent bona fide purchaser. If not made before the commencement of the case, it is considered made immediately before then. Subsection (d) also defines "value" to mean property, or the satisfaction or securing of a present or antecedent debt, but does not include an unperformed promise to furnish support to the debtor or a relative of the debtor.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -143,6 +145,8 @@ Subsec. (d)(2)(B). Pub. L. 98–353, §463(c)(2), inserted "financial institutio
 Subsec. (d)(2)(C). Pub. L. 98–353, §394(2), added subpar. (C).
 
 <b>1982</b>—Subsec. (d)(2)(B). Pub. L. 97–222 substituted "a commodity broker, forward contract merchant, stockbroker, or securities clearing agency that receives a margin payment, as defined in section 741(5) or 761(15) of this title, or settlement payment, as defined in section 741(8) of this title, takes for value to extent of such payment" for "a commodity broker or forward contract merchant that receives a margin payment, as defined in section 761(15) of this title, takes for value".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

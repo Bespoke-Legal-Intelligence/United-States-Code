@@ -128,9 +128,9 @@ The Committee shall—
 
 #### (f) Termination
 
-The Committee shall terminate on September 30, 2020.
+The Committee shall terminate on September 30, 2021.
 
-(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595.)
+(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608.)
 
 #### References in Text
 
@@ -143,6 +143,8 @@ Provisions similar to this section were contained in section 1145 of this title 
 A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–260 substituted "2021" for "2020".
 
 <b>2019</b>—Subsec. (f). Pub. L. 116–94 substituted "2020" for "2019".
 
@@ -168,7 +170,7 @@ Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 &emsp;"(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
 
-&emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
+&emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Qualityand Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
 
 &emsp;"(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period."
 

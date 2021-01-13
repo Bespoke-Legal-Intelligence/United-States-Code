@@ -52,9 +52,13 @@ Pub. L. 104–106, div. E, title LI, §5125(b)–(d), Feb. 10, 1996, 110 Stat. 6
 
 In subsection (c)(3), before subclause (A), the reference to 31:1105(a)(29) is changed to 1105(a)(28) because of the redesignation of 1105(a)(29) as 1105(a)(28) by section 4(1) of the Act of October 11, 1996, (Public Law 104–287, 110 Stat. 3388). The words "as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)" are added for clarity because there is another 31:9703.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–458 inserted ", secure," after "sound".
+
+#### <b>Executive Documents</b>
 
 #### Ex Ord. No. 13833. Enhancing the Effectiveness of Agency Chief Information Officers
 
@@ -82,7 +86,7 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (d) the term "component Chief Information Officer" or "component CIO" means an individual in a covered agency, other than the CIO referred to in subsection (c) of this section, who has the title Chief Information Officer, or who functions in the capacity of a CIO, and has IT management authorities over a component of the agency similar to those the CIO has over the entire agency;
 
-(e) the term "IT position" means a position within the job family standard for the Information Technology Management Series, GS–2210, as defined by the Office of Personnel Management (OPM) in the Handbook of Occupational Groups and Families and related guidance.
+(e) the term "IT position" means a position within the job family standard for the Information Technology Management Series, GS–2210, as defined by theOffice of Personnel Management (OPM) in the Handbook of Occupational Groups and Families and related guidance.
 
 Sec. 4. <i>Emphasizing Chief Information Officer Duties and Responsibilities</i>. The head of each covered agency shall take all necessary and appropriate action to ensure that:
 
@@ -106,7 +110,7 @@ Sec. 6. <i>Strengthening Cybersecurity</i>. Consistent with the purposes of Exec
 
 (a) the CIO, as the principal advisor to the agency head for the management of IT resources, works closely with an integrated team of senior executives with expertise in IT, security, budgeting, acquisition, law, privacy, and human resources to implement appropriate risk management measures; and
 
-(b) the agency prioritizes procurement of shared IT services, including modern email and other cloud-basedservices, where possible and to the extent permitted by law.
+(b) the agency prioritizes procurement of shared IT services, including modern email and other cloud-based services, where possible and to the extent permitted by law.
 
 Sec. 7. <i>Knowledge and Skill Standards for IT Personnel</i>. The head of each covered agency shall take all necessary and appropriate action to ensure that:
 

@@ -26,17 +26,19 @@
 
 (2) A declaration under this subsection filed by a person that is not an individual must be signed by the president, member, partner, trustee, or other individual authorized to execute the declaration on behalf of the person.
 
-(c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall providethe Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
+(c)(1) On full and final discharge of the indebtedness that is the basis for a notice of claim of lien recorded under subsection (b) of this section, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
 
 (2) The district courts of the United States shall have jurisdiction over a civil action in Admiralty to declare that a vessel is not subject to a lien claimed under subsection (b) of this section, or that the vessel is not subject to the notice of claim of lien, or both, regardless of the amount in controversy or the citizenship of the parties. Venue in such an action shall be in the district where the vessel is found or where the claimant resides or where the notice of claim of lien is recorded. The court may award costs and attorneys fees to the prevailing party, unless the court finds that the position of the other party was substantially justified or other circumstances make an award of costs and attorneys fees unjust. The Secretary shall record any such declaratory order.
 
 (d) A person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
-(e) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
+(e)(1) A notice of claim of lien recorded under subsection (b) of this section shall expire 3 years after the date the lien was established, as such date is stated in the notice under subsection (a) of this section.
+
+(2) On expiration of a notice of claim of lien under paragraph (1), and after a request by the vessel owner, the Secretary shall annotate the abstract of title to reflect the expiration of the lien.
 
 (f) This section does not alter in any respect the law pertaining to the establishment of a maritime lien, the remedy provided by such a lien, or the defenses thereto, including any defense under the doctrine of laches.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 107–295, title II, §205(a)(1), Nov. 25, 2002, 116 Stat. 2095; Pub. L. 111–281, title IX, §913(a)(1), Oct. 15, 2010, 124 Stat. 3017.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748; Pub. L. 107–295, title II, §205(a)(1), Nov. 25, 2002, 116 Stat. 2095; Pub. L. 111–281, title IX, §913(a)(1), Oct. 15, 2010, 124 Stat. 3017; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8333, Jan. 1, 2021, 134 Stat. 4705.)
 
 Historical and Revision Notes
 
@@ -56,7 +58,11 @@ Section 31343(c) provides that, on the full and final discharge of an indebtedne
 
 Subsection (d) of this section requires a person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) to record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 116–283 designated existing provisions as par. (1) and added par. (2).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out "of Transportation" after "Secretary" in introductory provisions.
 
@@ -69,6 +75,8 @@ Subsec. (b). Pub. L. 107–295, §205(a)(1)(C), amended subsec. (b) generally. P
 Subsec. (c). Pub. L. 107–295, §205(a)(1)(D), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "On full and final discharge of the indebtedness that is the basis for a claim recorded under subsection (b) of this section, on request of the Secretary or owner, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate."
 
 Subsecs. (e), (f). Pub. L. 107–295, §205(a)(1)(E), added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

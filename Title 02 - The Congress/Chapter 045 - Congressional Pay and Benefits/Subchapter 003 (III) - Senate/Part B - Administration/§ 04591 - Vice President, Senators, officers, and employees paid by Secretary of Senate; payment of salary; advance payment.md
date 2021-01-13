@@ -12,6 +12,8 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 (Pub. L. 86–426, §1, Apr. 20, 1960, 74 Stat. 53; Pub. L. 92–136, §6, Oct. 11, 1971, 85 Stat. 378; Pub. L. 96–38, title I, §108(a), July 25, 1979, 93 Stat. 113; Pub. L. 97–51, §§111(a), 112(a), Oct. 1, 1981, 95 Stat. 962; Pub. L. 97–257, title I, §105(a), Sept. 10, 1982, 96 Stat. 849; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 60c–1 of this title prior to editorial reclassification and renumbering as this section.
@@ -27,6 +29,8 @@ Section was formerly classified to section 60c–1 of this title prior to editor
 <b>1979</b>—Pub. L. 96–38 provided that, in cases in which officers or employees of the Senate die during the month of December and the full compensation of that officer or employee for that month has been disbursed by the Secretary of the Senate before the Secretary receives notice of the death, no recovery shall be made of any portion of the compensation so disbursed.
 
 <b>1971</b>—Cl. (2). Pub. L. 92–136 inserted "(including any holiday on which the banks of the District of Columbia are closed pursuant to law)" after "holiday".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

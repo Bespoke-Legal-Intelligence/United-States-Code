@@ -78,7 +78,7 @@ The Fund shall be available as follows:
 
 &emsp;(6)(A) The Director may set aside up to $10,000,000 of the amounts remaining in the Fund in any fiscal year after distributing the amounts under paragraphs (2), (3), and (4), in a Child Pornography Victims Reserve, which may be used by the Attorney General for payments under section 2259(d) of title 18.
 
-&emsp;(B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but the total amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+&emsp;(B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but thetotal amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
 #### (e) Amounts awarded and unspent
 
@@ -107,6 +107,8 @@ As used in this section, the term "offenses against the United States" does not 
 (3) As used in this subsection, the term "tribe" <sup>2</sup> has the meaning given that term in section 5304(b) <sup>1</sup> of title 25.
 
 (Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, §113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, §2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, §5(b), Dec. 7, 2018, 132 Stat. 4387.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -292,6 +294,8 @@ Subsec. (d)(2). Pub. L. 99–401, §102(b)(2), amended par. (2) generally. Prior
 
 Subsec. (e). Pub. L. 99–646 designated existing provision as par. (1), substituted "Except as provided in paragraph (2), any" for "Any", and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
@@ -318,9 +322,11 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 116–93, div. B, title V, §510, Dec. 20, 2019, 133 Stat. 2426, provided in part that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $2,641,000,000 shall not be available for obligation until the following fiscal year".
+Pub. L. 116–260, div. B, title V, §510, Dec. 27, 2020, 134 Stat. 1277, provided in part that: "Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $2,015,000,000 shall not be available for obligation until the following fiscal year".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title V, §510, Dec. 20, 2019, 133 Stat. 2426.
 
 Pub. L. 116–6, div. C, title V, §510, Feb. 15, 2019, 133 Stat. 130.
 

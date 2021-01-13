@@ -22,7 +22,7 @@ In general.—The term "customer" means—
 
 &emsp;&emsp;&emsp;(i) a reseller of mobile telecommunications service; or
 
-&emsp;&emsp;&emsp;(ii) a serving carrier under an arrangement to serve the customer outside thehome service provider's licensed service area.
+&emsp;&emsp;&emsp;(ii) a serving carrier under an arrangement to serve the customer outside the home service provider's licensed service area.
 
 &emsp;(3)
 
@@ -77,6 +77,8 @@ Serving carrier.—The term "serving carrier" means a facilities-based carrier p
 Taxing jurisdiction.—The term "taxing jurisdiction" means any of the several States, the District of Columbia, or any territory or possession of the United States, any municipality, city, county, township, parish, transportation district, or assessment jurisdiction, or any other political subdivision within the territorial limits of the United States with the authority to impose a tax, charge, or fee.
 
 (Added Pub. L. 106–252, §2(a), July 28, 2000, 114 Stat. 631.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Application of Amendment
 

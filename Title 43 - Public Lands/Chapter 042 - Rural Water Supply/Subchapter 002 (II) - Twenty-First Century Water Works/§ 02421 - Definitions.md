@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;The term "lender" means—
 
-&emsp;&emsp;(A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) oftitle 17, Code of Federal Regulation <sup>1</sup> (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)); or
+&emsp;&emsp;(A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation <sup>1</sup> (or any successor regulation), known as Rule 144A(a)of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)); or
 
 &emsp;&emsp;(B) a clean renewable energy bond lender (as defined in section 54(j)(2) <sup>2</sup> of title 26 (as in effect on December 22, 2006)).
 
@@ -54,11 +54,15 @@ In this subchapter:
 
 (Pub. L. 109–451, title II, §202, Dec. 22, 2006, 120 Stat. 3356.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in par. (2)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 Section 54 of title 26, referred to in par. (2)(B), was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

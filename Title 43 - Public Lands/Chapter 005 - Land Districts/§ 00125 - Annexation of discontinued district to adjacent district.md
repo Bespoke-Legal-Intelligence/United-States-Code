@@ -4,9 +4,13 @@ Whenever the cost of collecting the revenue from the sales of the public lands i
 
 (R.S. §2250.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2250 derived from act Mar. 3, 1853, ch. 97, §1, 10 Stat. 189, 194.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -78,7 +78,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (3) Appeals procedure
 
-&emsp;The eligible agency shall establish an appeals procedure for resolution of any disputearising between a local educational agency and an area career and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
+&emsp;The eligible agency shall establish an appeals procedure for resolution of any dispute arising between a local educational agency and an area career and technical education school or an educational service agency with respect to the allocation procedures described in this section, including the decision of a local educational agency to leave a consortium or terminate a cooperative arrangement.
 
 #### (f) Consortium requirements
 
@@ -112,7 +112,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1
 
 #### Prior Provisions
 
-A prior section 2351, Pub. L. 88–210, title I, §131, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary school programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2351, Pub. L. 88–210, title I, §131, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary schoolprograms, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2351, Pub. L. 88–210, title III, §301, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
 

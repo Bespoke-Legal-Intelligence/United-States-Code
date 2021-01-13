@@ -30,7 +30,7 @@ Exclusion of Fringe Benefit Payments in Determining Overtime Pay.—In determini
 
 (f)
 
-Timeliness of Wage and Fringe Benefit Determinations.—It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) of this title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
+Timeliness of Wage and Fringe Benefit Determinations.—It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) ofthis title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3815.)
 
@@ -62,7 +62,7 @@ Pub. L. 89–286, §6, Oct. 22, 1965, 79 Stat. 1035.
 
 Pub. L. 89–286, §10, as added Pub. L. 92–473, §5, Oct. 9, 1972, 86 Stat. 790; Pub. L. 94–273, §29, Apr. 21, 1976, 90 Stat. 380.
 
-In subsection (e), the words "the definition of 'regular rate' under section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e))" are substituted for "the regular rate under the Fair Labor Standards Act by provisions of section 7(d) thereof " for clarity, to correct the reference to "the Fair Labor Standards Act" in accordance with section 1 of the Fair Labor Standards Act of 1938 (29:201), which provided the short titlefor the Act, and to correct the reference to "section 7(d) thereof " in accordance with section 204(d)(1) of the Fair Labor Standards Amendments of 1966 (Public Law 89–601, 80 Stat. 836), which amended the Fair Labor Standards Act of 1938 by redesignating section 7(d) as 7(e).
+In subsection (e), the words "the definition of 'regular rate' under section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e))" are substituted for "the regular rate under the Fair Labor Standards Act by provisions of section 7(d) thereof " for clarity, to correct the reference to "the Fair Labor Standards Act" in accordance with section 1 of the Fair Labor Standards Act of 1938 (29:201), which provided the short title for the Act, and to correct the reference to "section 7(d) thereof " in accordance with section 204(d)(1) of the Fair Labor Standards Amendments of 1966 (Public Law 89–601, 80 Stat. 836), which amended the Fair Labor Standards Act of 1938 by redesignating section 7(d) as 7(e).
 
 In subsection (f), the words "paragraphs (1) and (2) of section 2", which appear in section 10 of the Service Contract Act of 1965, as added by section 5 of Public Law 92–473 (86 Stat. 790), are treated as a reference to paragraphs (1) and (2) of section 2(a) of the Service Contract Act of 1965 to reflect the probable intent of Congress. The words "which are entered into during the applicable fiscal year", 41:358(1)–(4), and the words "On and after July 1, 1976" are omitted as obsolete.
 

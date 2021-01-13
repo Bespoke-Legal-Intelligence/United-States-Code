@@ -4,6 +4,8 @@ Except as otherwise provided in this subchapter, a majority of the shares of the
 
 (Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Dec. 24, 1919, ch. 18, 41 Stat. 378; amended Aug. 23, 1935, ch. 614, title III, §329, 49 Stat. 717; Pub. L. 95–369, §3(f), Sept. 17, 1978, 92 Stat. 609; Pub. L. 100–86, title I, §102(c)(1), Aug. 10, 1987, 101 Stat. 566; renumbered §25A, Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this section", meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
@@ -26,7 +28,9 @@ Section is comprised of par. 11 (undesignated) of section 25A of act Dec. 23, 19
 
 <b>1935</b>—Act Aug. 23, 1935, struck out provisions relating to application of section 19 of title 15, to directors, officers or employees of corporations organized under sections 611–631 of this title, and excepting certain persons who received approval of Federal Reserve Board, from application of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Exception for Midland Bank, London, England
 
-Pub. L. 100–86, title I, §102(c)(2), Aug. 10, 1987, 101 Stat. 566, provided that: "The amendment made by paragraph (1) \[amending this section\] does not apply to an acquisition pursuant to the application by MidlandBank, plc, London, England, pending before the Board of Governors of the Federal Reserve System on July 1, 1987, to acquire a corporation organized or operating under section 25(a) \[now 25A\] of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]. If Midland Bank, plc, London, England, is not otherwise subject to section 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843\], the financial activities of Midland Bank, plc, London, England, in the United States shall, upon the determination of the Board of Governors of the Federal Reserve System made at any time, be subject to section 4 of the Bank Holding Company Act of 1956."
+Pub. L. 100–86, title I, §102(c)(2), Aug. 10, 1987, 101 Stat. 566, provided that: "The amendment made by paragraph (1) \[amending this section\] does not apply to an acquisition pursuant to the application by Midland Bank, plc, London, England, pending before the Board of Governors of the Federal Reserve System on July 1, 1987, to acquire a corporation organized or operating under section 25(a) \[now 25A\] of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]. If Midland Bank, plc, London, England, is not otherwise subject to section 4 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843\], the financial activities of Midland Bank, plc, London, England, in the United States shall, upon the determination of the Board of Governors of the Federal Reserve System made at any time, be subject to section 4 of the Bank Holding Company Act of 1956."
 

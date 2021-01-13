@@ -28,6 +28,8 @@ Termination of Assistance.—No educational assistance shall be afforded any eli
 
 (Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 14, §1662; amended Pub. L. 90–77, title III, §305, Aug. 31, 1967, 81 Stat. 188; Pub. L. 93–337, §1, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title II, §211(3), title IV, §403(b), Oct. 15, 1976, 90 Stat. 2388, 2393; Pub. L. 95–202, title II, §203(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1439; Pub. L. 96–466, title III, §301, Oct. 17, 1980, 94 Stat. 2191; Pub. L. 97–35, title XX, §2003(b)(1), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–72, title II, §201(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(39), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title II, §206(a), Oct. 14, 1982, 96 Stat. 1435; Pub. L. 98–160, title VII, §702(10), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §§420(a)(3), 423(b)(1), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3462 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34; Pub. L. 108–183, title III, §306(d), Dec. 16, 2003, 117 Stat. 2661; Pub. L. 109–233, title V, §503(8)(A), (C), June 15, 2006, 120 Stat. 416.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
@@ -96,6 +98,8 @@ Subsec. (d). Pub. L. 93–337, §1(4), added subsec. (d).
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–77 inserted second sentence respecting commencement of the delimiting period in the case of an eligible veteran discharged from active duty and pursuing training on the job or flight training.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–183, title III, §306(h)(1), Dec. 16, 2003, 117 Stat. 2661, provided that: "The amendments made by subsection (d) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2003\]."
@@ -120,7 +124,7 @@ Amendment by Pub. L. 95–202 effective retroactively to May 31, 1976, see secti
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 211(3) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by section 211(3) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, setout as an Effective Date note under section 3693 of this title.
 
 Amendment by section 403(b) of Pub. L. 94–502 effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as an Effective Date note under section 3201 of this title.
 

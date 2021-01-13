@@ -6,7 +6,7 @@ Type Certificates.—
 
 &emsp;(1)
 
-Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, orfor an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
 &emsp;(2)
 
@@ -20,7 +20,7 @@ Specifications.—The Administrator may—
 
 &emsp;(3)
 
-Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine,propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
+Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
 
 &emsp;(4)
 
@@ -48,28 +48,6 @@ Engineering data defined.—In this section, the term "engineering data" as used
 
 Requirement to maintain data.—The Administrator shall maintain engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate that has been inactive for 3 or more years.
 
-&emsp;(6)
-
-Type certification resolution process.—
-
-&emsp;&emsp;(A)
-
-In general.—Not later than 15 months after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall establish an effective, timely, and milestone-based issue resolution process for type certification activities under this subsection.
-
-&emsp;&emsp;(B)
-
-Process requirements.—The resolution process shall provide for—
-
-&emsp;&emsp;&emsp;(i) resolution of technical issues at pre-established stages of the certification process, as agreed to by the Administrator and the type certificate applicant;
-
-&emsp;&emsp;&emsp;(ii) automatic elevation to appropriate management personnel of the Federal Aviation Administration and the type certificate applicant of any major certification process milestone that is not completed or resolved within a specific period of time agreed to by the Administrator and the type certificate applicant; and
-
-&emsp;&emsp;&emsp;(iii) resolution of a major certification process milestone elevated pursuant to clause (ii) within a specific period of time agreed to by the Administrator and the type certificate applicant.
-
-&emsp;&emsp;(C)
-
-Major certification process milestone defined.—In this paragraph, the term "major certification process milestone" means a milestone related to a type certification basis, type certification plan, type inspection authorization, issue paper, or other major type certification activity agreed to by the Administrator and the type certificate applicant.
-
 (b)
 
 Supplemental Type Certificates.—
@@ -88,39 +66,245 @@ Requirement.—If the holder of a supplemental type certificate agrees to permit
 
 (c)
 
-Production Certificates.—The Administrator shall issue a production certificate authorizing the production of a duplicate of an aircraft, aircraft engine, propeller, or appliance for which a type certificate has been issued when the Administrator finds the duplicate will conform to the certificate. On receiving an application, the Administrator shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate. The Administrator may include in a productioncertificate terms required in the interest of safety.
+Production Certificates.—The Administrator shall issue a production certificate authorizing the production of a duplicate of an aircraft, aircraft engine, propeller, or appliance for which a type certificate has been issued when the Administrator finds the duplicate will conform to the certificate. On receiving an application, the Administrator shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate. The Administrator may include in a production certificate terms required in the interest of safety.
 
 (d)
 
-Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
+Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to itstype certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
 
 (2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information related to the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
 
+(3)
+
+Nonconformity with approved type design.—
+
+&emsp;(A)
+
+In general.—Consistent with the requirements of paragraph (1), a holder of a production certificate for an aircraft may not present a nonconforming aircraft, either directly or through the registered owner of such aircraft or a person described in paragraph (2), to the Administrator for issuance of an initial airworthiness certificate.
+
+&emsp;(B)
+
+Civil penalty.—Notwithstanding section 46301, a production certificate holder who knowingly violates subparagraph (A) shall be liable to the Administrator for a civil penalty of not more than $1,000,000 for each nonconforming aircraft.
+
+&emsp;(C)
+
+Penalty considerations.—In determining the amount of a civil penalty under subparagraph (B), the Administrator shall consider—
+
+&emsp;&emsp;(i) the nature, circumstances, extent, and gravity of the violation, including the length of time the nonconformity was known by the holder of a production certificate but not disclosed; and
+
+&emsp;&emsp;(ii) with respect to the violator, the degree of culpability, any history of prior violations, and the size of the business concern.
+
+&emsp;(D)
+
+Nonconforming aircraft defined.—In this paragraph, the term "nonconforming aircraft" means an aircraft that does not conform to the approved type design for such aircraft type.
+
 (e)
 
-Design and Production Organization Certificates.—
+Disclosure of Safety Critical Information.—
 
 &emsp;(1)
 
-Issuance.—Beginning January 1, 2013, the Administrator may issue a certificate to a design organization, production organization, or design and production organization to authorize the organization to certify compliance of aircraft, aircraft engines, propellers, and appliances with the requirements and minimum standards prescribed under section 44701(a). An organization holding a certificate issued under this subsection shall be known as a certified design and production organization (in this subsection referred to as a "CDPO").
+In general.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport category airplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
+
+&emsp;&emsp;(A) any design and operational details, intended functions, and failure modes of any system that, without being commanded by the flight crew, commands the operation of any safety critical function or feature required for control of an airplane during flight or that otherwise changes the flight path or airspeed of an airplane;
+
+&emsp;&emsp;(B) the design and operational details, intended functions, failure modes, and mode annunciations of autopilot and autothrottle systems, if applicable;
+
+&emsp;&emsp;(C) any failure or operating condition that the applicant or holder anticipates or has concluded would result in an outcome with a severity level of hazardous or catastrophic, as defined in the appropriate Administration airworthiness requirements and guidance applicable to transport category airplanes defining risk severity;
+
+&emsp;&emsp;(D) any adverse handling quality that fails to meet the requirements of applicable regulations without the addition of a software system to augment the flight controls of the airplane to produce compliant handling qualities; and
+
+&emsp;&emsp;(E) a system safety assessment with respect to a system described in subparagraph (A) or (B) or with respect to any component or other system for which failure or erroneous operation of such component or system could result in an outcome with a severity level of hazardous or catastrophic, as defined in the appropriate Administration airworthiness requirements and guidance applicable to transport category airplanes defining risk severity.
 
 &emsp;(2)
 
-Applications.—On receiving an application for a CDPO certificate, the Administrator shall examine and rate the organization submitting the application, in accordance with regulations to be prescribed by the Administrator, to determine whether the organization has adequate engineering, design, and production capabilities, standards, and safeguards to make certifications of compliance as described in paragraph (1).
+Ongoing communications.—
+
+&emsp;&emsp;(A)
+
+Newly discovered information.—The Administrator shall require that an applicant for, or holder of, a type certificate disclose to the Administrator, in such form, manner, or time as the Administrator may require, any newly discovered information or design or analysis change that would materially alter any submission to the Administrator under paragraph (1).
+
+&emsp;&emsp;(B)
+
+System development changes.—The Administrator shall establish multiple milestones throughout the certification process at which a proposed airplane system will be assessed to determine whether any change to such system during the certification process is such that such system should be considered novel or unusual by the Administrator.
 
 &emsp;(3)
 
-Issuance of certificates based on cdpo findings.—The Administrator may rely on certifications of compliance by a CDPO when making determinations under this section.
+Flight manuals.—The Administrator shall ensure that an airplane flight manual and a flight crew operating manual (as appropriate or applicable) for an airplane contains a description of the operation of a system described in paragraph (1)(A) and flight crew procedures for responding to a failure or aberrant operation of such system.
 
 &emsp;(4)
 
-Public safety.—The Administrator shall include in a CDPO certificate terms required in the interest of safety.
+Civil penalty.—
+
+&emsp;&emsp;(A)
+
+Amount.—Notwithstanding section 46301, an applicant for, or holder of, a type certificate that knowingly violates paragraph (1), (2), or (3) of this subsection shall be liable to the Administrator for a civil penalty of not more than $1,000,000 for each violation.
+
+&emsp;&emsp;(B)
+
+Penalty considerations.—In determining the amount of a civil penalty under subparagraph (A), the Administrator shall consider—
+
+&emsp;&emsp;&emsp;(i) the nature, circumstances, extent, and gravity of the violation, including the length of time that such safety critical information was known but not disclosed; and
+
+&emsp;&emsp;&emsp;(ii) with respect to the violator, the degree of culpability, any history of prior violations, and the size of the business concern.
 
 &emsp;(5)
 
-No effect on power of revocation.—Nothing in this subsection affects the authority of the Secretary of Transportation to revoke a certificate.
+Revocation and civil penalty for individuals.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1188; Pub. L. 104–264, title IV, §403, Oct. 9, 1996, 110 Stat. 3256; Pub. L. 108–176, title II, §227(b)(2), (e)(1), title VIII, §811, Dec. 12, 2003, 117 Stat. 2531, 2532, 2590; Pub. L. 109–59, title IV, §4405, Aug. 10, 2005, 119 Stat. 1776; Pub. L. 112–95, title III, §§302, 303(a), (c)(1), Feb. 14, 2012, 126 Stat. 56, 57; Pub. L. 115–254, div. B, title II, §214, Oct. 5, 2018, 132 Stat. 3250.)
+&emsp;&emsp;(A)
+
+In general.—The Administrator shall revoke any airline transport pilot certificate issued under section 44703 held by any individual who, while acting on behalf of an applicant for, or holder of, a type certificate, knowingly makes a false statement with respect to any of the matters described in subparagraphs (A) through (E) of paragraph (1).
+
+&emsp;&emsp;(B)
+
+Authority to impose civil penalty.—The Administrator may impose a civil penalty under section 46301 for each violation described in subparagraph (A).
+
+&emsp;(6)
+
+Rule of construction.—Nothing in this subsection shall be construed to affect or otherwise inhibit the authority of the Administrator to deny an application by an applicant for a type certificate or to revoke or amend a type certificate of a holder of such certificate.
+
+&emsp;(7)
+
+Definition of type certificate.—In this subsection, the term "type certificate"—
+
+&emsp;&emsp;(A) means a type certificate issued under subsection (a) or an amendment to such certificate; and
+
+&emsp;&emsp;(B) does not include a supplemental type certificate issued under subsection (b).
+
+(f)
+
+Hearing Requirement.—The Administrator may find that a person has violated subsection (a)(6) or paragraph (1), (2), or (3) of subsection (e) and impose a civil penalty under the applicable subsection only after notice and an opportunity for a hearing. The Administrator shall provide a person—
+
+&emsp;(1) written notice of the violation and the amount of penalty; and
+
+&emsp;(2) the opportunity for a hearing under subpart G of part 13 of title 14, Code of Federal Regulations.
+
+(g)
+
+Certification Dispute Resolution.—
+
+&emsp;(1)
+
+Dispute resolution process and appeals.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 60 days after the date of enactment of this subsection, the Administrator shall issue an order establishing—
+
+&emsp;&emsp;&emsp;(i) an effective, timely, and milestone-based issue resolution process for type certification activities under subsection (a); and
+
+&emsp;&emsp;&emsp;(ii) a process by which a decision, finding of compliance or noncompliance, or other act of the Administration, with respect to compliance with design requirements, may be appealed by a covered person directly involved with the certification activities in dispute on the basis that such decision, finding, or act is erroneous or inconsistent with this chapter, regulations, or guidance materials promulgated by the Administrator, or other requirements.
+
+&emsp;&emsp;(B)
+
+Escalation.—The order issued under subparagraph (A) shall provide processes for—
+
+&emsp;&emsp;&emsp;(i) resolution of technical issues at pre-established stages of the certification process, as agreed to by the Administrator and the type certificate applicant;
+
+&emsp;&emsp;&emsp;(ii) automatic elevation to appropriate management personnel of the Administration and the type certificate applicant of any major certification process milestone that is not completed or resolved within a specific period of time agreed to by the Administrator and the type certificate applicant;
+
+&emsp;&emsp;&emsp;(iii) resolution of a major certification process milestone elevated pursuant to clause (ii) within a specific period of time agreed to by the Administrator and the type certificate applicant;
+
+&emsp;&emsp;&emsp;(iv) initial review by appropriate Administration employees of any appeal described in subparagraph (A)(ii); and
+
+&emsp;&emsp;&emsp;(v) subsequent review of any further appeal by appropriate management personnel of the Administration and the Associate Administrator for Aviation Safety.
+
+&emsp;&emsp;(C)
+
+Disposition.—
+
+&emsp;&emsp;&emsp;(i)
+
+Written decision.—The Associate Administrator for Aviation Safety shall issue a written decision that states the grounds for the decision of the Associate Administrator on—
+
+&emsp;&emsp;&emsp;&emsp;(I) each appeal submitted under subparagraph (A)(ii); and
+
+&emsp;&emsp;&emsp;&emsp;(II) An appeal to the Associate Administrator submitted under subparagraph (B)(v).
+
+&emsp;&emsp;&emsp;(ii)
+
+Report to congress.—Not later than December 31 of each calendar year through calendar year 2025, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report summarizing each appeal resolved under this subsection.
+
+&emsp;&emsp;(D)
+
+Final review.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A written decision of the Associate Administrator under subparagraph (C) may be appealed to the Administrator for a final review and determination.
+
+&emsp;&emsp;&emsp;(ii)
+
+Decline to review.—The Administrator may decline to review an appeal initiated pursuant to clause (i).
+
+&emsp;&emsp;&emsp;(iii)
+
+Judicial review.—No decision under this paragraph (including a decision to decline to review an appeal) shall be subject to judicial review.
+
+&emsp;(2)
+
+Prohibited contacts.—
+
+&emsp;&emsp;(A)
+
+Prohibition generally.—During the course of an appeal under this subsection, no covered official may engage in an ex parte communication (as defined in section 551 of title 5) with an individual representing or acting on behalf of an applicant for, or holder of, a certificate under this section in relation to such appeal unless such communication is disclosed pursuant to subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Disclosure.—If, during the course of an appeal under this subsection, a coveredofficial engages in, receives, or is otherwise made aware of an ex parte communication, the covered official shall disclose such communication in the public record at the time of the issuance of the written decision under paragraph (1)(C), including the time and date of the communication, subject of communication, and all persons engaged in such communication.
+
+&emsp;(3)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Covered person.—The term "covered person" means either—
+
+&emsp;&emsp;&emsp;(i) an employee of the Administration whose responsibilities relate to the certification of aircraft, engines, propellers, or appliances; or
+
+&emsp;&emsp;&emsp;(ii) an applicant for, or holder of, a type certificate or amended type certificate issued under this section.
+
+&emsp;&emsp;(B)
+
+Covered official.—The term "covered official" means the following officials:
+
+&emsp;&emsp;&emsp;(i) The Executive Director or any Deputy Director of the Aircraft Certification Service.
+
+&emsp;&emsp;&emsp;(ii) The Deputy Executive Director for Regulatory Operations of the Aircraft Certification Service.
+
+&emsp;&emsp;&emsp;(iii) The Director or Deputy Director of the Compliance and Airworthiness Division of the Aircraft Certification Service.
+
+&emsp;&emsp;&emsp;(iv) The Director or Deputy Director of the System Oversight Division of the Aircraft Certification Service.
+
+&emsp;&emsp;&emsp;(v) The Director or Deputy Director of the Policy and Innovation Division of the Aircraft Certification Service.
+
+&emsp;&emsp;&emsp;(vi) The Executive Director or any Deputy Executive Director of the Flight Standards Service.
+
+&emsp;&emsp;&emsp;(vii) The Associate Administrator or Deputy Associate Administrator for Aviation Safety.
+
+&emsp;&emsp;&emsp;(viii) The Deputy Administrator of the Federal Aviation Administration.
+
+&emsp;&emsp;&emsp;(ix) The Administrator of the Federal Aviation Administration.
+
+&emsp;&emsp;&emsp;(x) Any similarly situated or successor FAA management position to those described in clauses (i) through (ix), as determined by the Administrator.
+
+&emsp;&emsp;(C)
+
+Major certification process milestone.—The term "major certification process milestone" means a milestone related to the type certification basis, type certification plan, type inspection authorization, issue paper, or other major type certification activity agreed to by the Administrator and the type certificate applicant.
+
+&emsp;(4)
+
+Rule of construction.—Nothing in this subsection shall apply to the communication of a good-faith complaint by any individual alleging—
+
+&emsp;&emsp;(A) gross misconduct;
+
+&emsp;&emsp;(B) a violation of title 18; or
+
+&emsp;&emsp;(C) a violation of any of the provisions of part 2635 or 6001 of title 5, Code of Federal Regulations.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1188; Pub. L. 104–264, title IV, §403, Oct. 9, 1996, 110 Stat. 3256; Pub. L. 108–176, title II, §227(b)(2), (e)(1), title VIII, §811, Dec. 12, 2003, 117 Stat. 2531, 2532, 2590; Pub. L. 109–59, title IV, §4405, Aug. 10, 2005, 119 Stat. 1776; Pub. L. 112–95, title III, §§302, 303(a), (c)(1), Feb. 14, 2012, 126 Stat. 56, 57; Pub. L. 115–254, div. B, title II, §214, Oct. 5, 2018, 132 Stat. 3250; Pub. L. 116–260, div. V, title I, §§105(a), (b), 110, 120, Dec. 27, 2020, 134 Stat. 2317, 2328, 2343.)
 
 Historical and Revision Notes
 
@@ -194,9 +378,19 @@ In subsection (c)(2), the words "having a property interest" are substituted for
 
 #### References in Text
 
-The date of enactment of the FAA Reauthorization Act of 2018, referred to in subsec. (a)(6)(A), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+The date of enactment of this subsection, referred to in subsec. (g)(1)(A), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(6). Pub. L. 116–260, §110(b), struck out par. (6) which related to type certification resolution process.
+
+Subsec. (d)(3). Pub. L. 116–260, §120, added par. (3).
+
+Subsec. (e). Pub. L. 116–260, §105(a), added subsec. (e) and struck out former subsec. (e) which related to design and production organization certificates.
+
+Subsec. (f). Pub. L. 116–260, §105(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 116–260, §110(a), added subsec. (g).
 
 <b>2018</b>—Pub. L. 115–254, §214(b), substituted "airworthiness certificates," for "airworthiness certificates,," in section catchline.
 
@@ -228,6 +422,348 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Required Submission of Outline of System Changes at the Beginning of the Certification Process
+
+Pub. L. 116–260, div. V, title I, §105(c), Dec. 27, 2020, 134 Stat. 2319, provided that:
+
+"(1)
+
+In general.—Not later than 180 days after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall initiate a process to revise procedures to require an applicant for an amendment to a type certificate for a transport category aircraft to disclose to the Administrator, in a single document submitted at the beginning of the process for amending such certificate, all new systems and intended changes to existing systems then known to such applicant. The Administrator shall finalize the revision of such procedures not later than 18 months after initiating such process.
+
+"(2)
+
+Application.—Compliance with the procedures revised pursuant to paragraph (1) shall not preclude an applicant from making additional changes to aircraft systems as the design and application process proceeds.
+
+"(3)
+
+Savings provision.—Nothing in this subsection may be construed to limit the obligations of an applicant for an amended type certificate for a transport category airplane under section 44704(e) of title 49, United States Code, as amended in this title."
+
+\[For definitions of "Administrator" and "type certificate" as used in section 105(c) of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Integrated Project Teams
+
+Pub. L. 116–260, div. V, title I, §108, Dec. 27, 2020, 134 Stat. 2326, provided that:
+
+"(a)
+
+In General.—Upon receipt of an application for a type certificate for a transport category airplane, the Administrator shall convene an interdisciplinary integrated project team responsible for coordinating review and providing advice and recommendations, as appropriate, to the Administrator on such application.
+
+"(b)
+
+Membership.—In convening an interdisciplinary integrated project team under subsection (a), the Administrator shall appoint employees of the Administration or other Federal agencies, such as the Air Force, Volpe National Transportation Systems Center, or the National Aeronautics and Space Administration (with the concurrence of the head of such other Federal agency), with specialized expertise and experience in the fields of engineering, systems design, human factors, and pilot training, including, at a minimum—
+
+&emsp;"(1) not less than 1 designee of the Associate Administrator for Aviation Safety whose duty station is in the Administration's headquarters;
+
+&emsp;"(2) representatives of the Aircraft Certification Service of the Administration;
+
+&emsp;"(3) representatives of the Flight Standards Service of the Administration;
+
+&emsp;"(4) experts in the fields of human factors, aerodynamics, flight controls, software, and systems design; and
+
+&emsp;"(5) any other subject matter expert whom the Administrator determines appropriate.
+
+"(c)
+
+Availability.—In order to carry out its duties with respect to the areas specified in subsection (d), a project team shall be available to the Administrator, upon request, at any time during the certification process.
+
+"(d)
+
+Duties.—A project team shall advise the Administrator and make written recommendations to the Administrator, to be retained in the certification project file, including recommendations for any plans, analyses, assessments, and reports required to support and document the certification project, in the following areas associated with a new technology or novel design:
+
+&emsp;"(1) Initial review of design proposals proposed by the applicant and the establishment of the certification basis.
+
+&emsp;"(2) Identification of new technology, novel design, or safety critical design features or systems that are potentially catastrophic, either alone or in combination with another failure.
+
+&emsp;"(3) Determination of compliance findings, system safety assessments, and safety critical functions the Administration should retain in terms of new technology, novel design, or safety critical design features or systems.
+
+&emsp;"(4) Evaluation of the Administration's expertise or experience necessary to support the project.
+
+&emsp;"(5) Review and evaluation of an applicant's request for exceptions or exemptions from compliance with airworthiness standards codified in title 14 ofthe Code of Federal Regulations, as in effect on the date of application for the change.
+
+&emsp;"(6) Conduct of design reviews, procedure evaluations, and training evaluations.
+
+&emsp;"(7) Review of the applicant's final design documentation and other data to evaluate compliance with all relevant Administration regulations.
+
+"(e)
+
+Documentation of FAA Response.—The Administrator shall provide a written response to each recommendation of each project team and shall retain such response in the certification project file.
+
+"(f)
+
+Report.—Not later than 1 year after the date of enactment of this section \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall submit to the congressional committees of jurisdiction a report on the establishment of each integrated project team in accordance with this section during such fiscal year, including the role and composition of each such project team."
+
+\[For definitions of terms used in section 108 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Employment Restrictions: Disqualification Based on Prior Employment
+
+Pub. L. 116–260, div. V, title I, §111(a), Dec. 27, 2020, 134 Stat. 2330, provided that: "An employee of the \[Federal Aviation\] Administration with supervisory responsibility may not direct, conduct, or otherwise participate in oversight of a holder of a certificate issued under section 44704 of title 49, United States Code, that previously employed such employee in the preceding 1-year period."
+
+#### System Safety Assessments and Other Requirements
+
+Pub. L. 116–260, div. V, title I, §115, Dec. 27, 2020, 134 Stat. 2333, provided that:
+
+"(a)
+
+In General.—Not later than 2 years after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall issue such regulations as are necessary to amend part 25 of title 14, Code of Federal Regulations, and any associated advisory circular, guidance, or policy of the Administration, in accordance with this section.
+
+"(b)
+
+System Safety Assessments and Other Requirements.—In developing regulations under subsection (a), the Administrator shall—
+
+&emsp;"(1) require an applicant for an amended type certificate for a transport airplane to—
+
+&emsp;&emsp;"(A) perform a system safety assessment with respect to each proposed design change that the Administrator determines is significant, with such assessment considering the airplane-level effects of individual errors, malfunctions, or failures and realistic pilot response times to such errors, malfunctions, or failures;
+
+&emsp;&emsp;"(B) update such assessment to account for each subsequent proposed design change that the Administrator determines is significant;
+
+&emsp;&emsp;"(C) provide appropriate employees of the Administration with the data and assumptions underlying each assessment and amended assessment; and
+
+&emsp;&emsp;"(D) provide for document traceability and clarity of explanations for changes to aircraft type designs and system safety assessment certification documents; and
+
+&emsp;"(2) work with other civil aviation authorities representing states of design to ensure such regulations remain harmonized internationally.
+
+"(c)
+
+Guidance.—Guidance or an advisory circular issued under subsection (a) shall, at minimum—
+
+&emsp;"(1) emphasize the importance of clear documentation of the technical details and failure modes and effects of a design change described in subsection (b)(1); and
+
+&emsp;"(2) ensure appropriate review of any change that results in a functional hazard assessment classification of major or greater, as such term is defined in FAA Advisory Circular 25.1309-1A (or any successor or replacement document).
+
+"(d)
+
+FAA Review.—Appropriate employees of the Aircraft Certification Service and the Flight Standards Service of the Administration shall review each system safety assessment required under subsection (b)(1)(A), updated assessment required under subsection (b)(1)(B), and supporting data and assumptions required under subsection (b)(1)(C), to ensure that each such assessment sufficiently addresses the considerations listed in subsection (b)(1)(A)."
+
+\[For definitions of terms used in section 115 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Flight Crew Alerting
+
+Pub. L. 116–260, div. V, title I, §116, Dec. 27, 2020, 134 Stat. 2334, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall implement National Transportation Safety Board recommendations A–19–11 and A–19–12 (as contained in the safety recommendation report adopted on September 9, 2019).
+
+"(b)
+
+Prohibition.—Beginning on the date that is 2 years after the date of enactment of this title, the Administrator may not issue a type certificate for a transport category aircraft unless—
+
+&emsp;"(1) in the case of a transport airplane, such airplane incorporates a flight crew alerting system that, at a minimum, displays and differentiates among warnings, cautions, and advisories, and includes functions to assist the flight crew in prioritizing corrective actions and responding to systems failures; or
+
+&emsp;"(2) in the case of a transport category aircraft other than a transport airplane, the type certificate applicant provides a means acceptable to the Administrator to assist the flight crew in prioritizing corrective actions and responding to systems failures (including by cockpit or flight manual procedures).
+
+"(c)
+
+Existing Airplane Designs.—It is the sense of Congress that the FAA shall ensure that any system safety assessment with respect to the Boeing 737-7, 737-8, 737-9, and 737-10 airplanes, as described in National Transportation Safety Board recommendation A-19-10, is conducted in accordance with such recommendation."
+
+\[For definitions of terms used in section 116 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Changed Product Rule
+
+Pub. L. 116–260, div. V, title I, §117, Dec. 27, 2020, 134 Stat. 2335, provided that:
+
+"(a)
+
+Review and Reevaluation of Amended Type Certificates.—
+
+&emsp;"(1)
+
+International leadership.—The Administrator shall exercise leadership in the creation of international policies and standards relating to the issuance of amended type certificates within the Certification Management Team.
+
+&emsp;"(2)
+
+Reevaluation of amended type certificates.—In carrying out this subsection, the Administrator shall—
+
+&emsp;&emsp;"(A) encourage Certification Management Team members to examine and address any relevant covered recommendations (as defined in section 121(c) \[134 Stat. 2344\]) relating to the issuance of amended type certificates;
+
+&emsp;&emsp;"(B) reevaluate existing assumptions and practices inherent in the amended type certificate process and assess whether such assumptions and practices are valid; and
+
+&emsp;&emsp;"(C) ensure, to the greatest extent practicable, that Federal regulations relating to the issuance of amended type certificates are harmonized with the regulations of other international states of design.
+
+"(b)
+
+Amended Type Certificate Report and Rulemaking.—
+
+&emsp;"(1)
+
+Briefings.—Not later than 12 months after the date of enactment of this title \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall brief the congressional committees of jurisdiction on the work and status of the development of such recommendations by the Certification Management Team.
+
+&emsp;"(2)
+
+Initiation of action.—Not later than 2 years after the date of enactment of this title, the Administrator shall take action to revise and improve the process of issuing amended type certificates in accordance with this section. Such action shall include, at minimum—
+
+&emsp;&emsp;"(A) initiation of a rulemaking proceeding; and
+
+&emsp;&emsp;"(B) development or revision of guidance and training materials.
+
+&emsp;"(3)
+
+Contents.—In taking actions required under paragraph (2), the Administrator shall do the following:
+
+&emsp;&emsp;"(A) Ensure that proposed changes to an aircraft are evaluated from an integrated whole aircraft system perspective that examines the integration of proposed changes with existing systems and associated impacts.
+
+&emsp;&emsp;"(B) Define key terms used for the changed product process under sections 21.19 and 21.101 of title 14, Code of Federal Regulations.
+
+&emsp;&emsp;"(C) Consider—
+
+&emsp;&emsp;&emsp;"(i) the findings and work of the Certification Management Team and other similar international harmonization efforts;
+
+&emsp;&emsp;&emsp;"(ii) any relevant covered recommendations (as defined in section 121(c) \[134 Stat. 2344\]); and
+
+&emsp;&emsp;&emsp;"(iii) whether a fixed time beyond which a type certificate may not be amended would improve aviation safety.
+
+&emsp;&emsp;"(D) Establish the extent to which the following design characteristics should preclude the issuance of an amended type certificate:
+
+&emsp;&emsp;&emsp;"(i) A new or revised flight control system.
+
+&emsp;&emsp;&emsp;"(ii) Any substantial changes to aerodynamic stability resulting from a physical change that may require a new or modified software system or control law in order to produce positive and acceptable stability and handling qualities.
+
+&emsp;&emsp;&emsp;"(iii) A flight control system or augmented software to maintain aerodynamic stability in any portion of the flight envelope that was not required for a previously certified derivative.
+
+&emsp;&emsp;&emsp;"(iv) A change in structural components (other than a stretch or shrink of the fuselage) that results in a change in structural load paths or the magnitude of structural loads attributed to flight maneuvers or cabin pressurization.
+
+&emsp;&emsp;&emsp;"(v) A novel or unusual system, component, or other feature whose failure would present a hazardous or catastrophic risk.
+
+&emsp;&emsp;"(E) Develop objective criteria for helping to determine what constitutes a substantial change and a significant change.
+
+&emsp;&emsp;"(F) Implement mandatory aircraft-level reviews throughout the certification process to validate the certification basis and assumptions.
+
+&emsp;&emsp;"(G) Require maintenance of relevant records of agreements between the FAA and an applicant that affect certification documentation and deliverables.
+
+&emsp;&emsp;"(H) Ensure appropriate documentation of any exception or exemption from airworthiness requirements codified in title 14 of the Code of Federal Regulations, as in effect on the date of application for the change.
+
+&emsp;"(4)
+
+Guidance materials.—The Administrator shall consider the following when developing orders and regulatory guidance, including advisory circulars, where appropriate:
+
+&emsp;&emsp;"(A) Early FAA involvement and feedback paths in the aircraft certification process to ensure the FAA is aware of changes to design assumptions and product design impacting a changed product assessment.
+
+&emsp;&emsp;"(B) Presentation to the FAA of new technology, novel design, or safety critical features or systems, initially and throughout the certification process, when development and certification prompt design or compliance method revision.
+
+&emsp;&emsp;"(C) Examples of key terms used for the changed product process under sections 21.19 and 21.101 of title 14, Code of Federal Regulations.
+
+&emsp;&emsp;"(D) Type certificate data sheet improvements to accurately state which regulations and amendment level the aircraft complies to and when compliance is limited to a subset of the aircraft.
+
+&emsp;&emsp;"(E) Policies to guide applicants on proper visibility, clarity, and consistency of key design and compliance information that is submitted for certification, particularly with new design features.
+
+&emsp;&emsp;"(F) The creation, validation, and implementation of analytical tools appropriate for the analysis of complex system for the FAA and applicants.
+
+&emsp;&emsp;"(G) Early coordination processes with the FAA for the functional hazard assessments validation and preliminary system safety assessments review.
+
+&emsp;"(5)
+
+Training materials.—The Administrator shall—
+
+&emsp;&emsp;"(A) develop training materials for establishing the certification basis for changed aeronautical products pursuant to section 21.101 of title 14, Code of Federal Regulations, applications for a new type certificate pursuant to section 21.19 of such title, and the regulatory guidance developed as a result of the rulemaking conducted pursuant to paragraph (2); and
+
+&emsp;&emsp;"(B) procedures for disseminating such materials to implementing personnel of the FAA, designees, and applicants.
+
+&emsp;"(6)
+
+Certification management team defined.—In this section, the term 'Certification Management Team' means the team framework under which the FAA, the European Aviation Safety Agency, the Transport Canada Civil Aviation, and the National Civil Aviation Agency of Brazil, manage the technical, policy, certification, manufacturing, export, and continued airworthiness issues common among the 4 authorities.
+
+&emsp;"(7)
+
+Deadline.—The Administrator shall finalize the actions initiated under paragraph (2) not later than 3 years after the date of enactment of this title.
+
+"(c)
+
+International Leadership.—The Administrator shall exercise leadership within the ICAO and among other civil aviation regulators representing states of aircraft design to advocate for the adoption of an amended changed product rule on a global basis, consistent with ICAO standards."
+
+\[For definitions of terms used in section 117 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Expert Safety Review
+
+Pub. L. 116–260, div. V, title I, §119(c), Dec. 27, 2020, 134 Stat. 2339, provided that:
+
+"(1)
+
+In general.—Not later than 30 days after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall initiate an expert safety review of assumptions relied upon by the Administration and manufacturers of transport category aircraft in the design and certification of such aircraft.
+
+"(2)
+
+Contents.—The expert safety review required under paragraph (1) shall include—
+
+&emsp;"(A) a review of Administration regulations, guidance, and directives related to pilot response assumptions relied upon by the FAA and manufacturers of transport category aircraft in the design and certification of such aircraft, and human factors and human system integration, particularly those related to pilot and aircraft interfaces;
+
+&emsp;"(B) a focused review of the assumptions relied on regarding the time for pilot responses to non-normalconditions in designing such aircraft's systems and instrumentation, including responses to safety-significant failure conditions and failure scenarios that trigger multiple, and possibly conflicting, warnings and alerts;
+
+&emsp;"(C) a review of human factors assumptions with applicable operational data, human factors research and the input of human factors experts and FAA operational data, and as appropriate, recommendations for modifications to existing assumptions;
+
+&emsp;"(D) a review of revisions made to the airman certification standards for certificates over the last 4 years, including any possible effects on pilot competency in basic manual flying skills;
+
+&emsp;"(E) consideration of the global nature of the aviation marketplace, varying levels of pilot competency, and differences in pilot training programs worldwide;
+
+&emsp;"(F) a process for aviation stakeholders, including pilots, airlines, inspectors, engineers, test pilots, human factors experts, and other aviation safety experts, to provide and discuss any observations, feedback, and best practices;
+
+&emsp;"(G) a review of processes currently in place to ensure that when carrying out the certification of a new aircraft type, or an amended type, the cumulative effects that new technologies, and the interaction between new technologies and unchanged systems for an amended type certificate, may have on pilot interactions with aircraft systems are properly assessed through system safety assessments or otherwise; and
+
+&emsp;"(H) a review of processes currently in place to account for any necessary adjustments to system safety assessments, pilot procedures and training requirements, or design requirements when there are changes to the assumptions relied upon by the Administration and manufacturers of transport category aircraft in the design and certification of such aircraft.
+
+&emsp;"(3)
+
+Report and recommendations.—Not later than 30 days after the conclusion of the expert safety review pursuant to paragraph (1), the Administrator shall submit to the congressional committees of jurisdiction a report on the results of the review, including any recommendations for actions or best practices to ensure the FAA and the manufacturers of transport category aircraft have accounted for pilot response assumptions to be relied upon in the design and certification of transport category aircraft and tools or methods identified to better integrate human factors throughout the process for such certification.
+
+&emsp;"(4)
+
+International engagement.—The Administrator shall notify other international regulators that certify transport category aircraft type designs of the expert panel report and encourage them to review the report and evaluate their regulations and processes in light of the recommendations included in the report.
+
+&emsp;"(5)
+
+Termination.—The expert safety review shall end upon submission of the report required pursuant to paragraph (3).
+
+&emsp;"(6)
+
+Regulations.—The Administrator shall issue or update such regulations as are necessary to implement the recommendations of the expert safety review that the Administrator determines are necessary to improve aviation safety."
+
+\[For definitions of terms used in section 119(c) of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Human Factors Research
+
+Pub. L. 116–260, div. V, title I, §126, Dec. 27, 2020, 134 Stat. 2347, provided that:
+
+"(a)
+
+Human Factors.—Not later than 180 days after the date of enactment of this title \[Dec. 27, 2020\], the Administrator, in consultation with aircraft manufacturers, operators, and pilots, and in coordination with the head of such other Federal agency that the Administrator determines appropriate, shall develop research requirements to address the integration of human factors in the design and certification of aircraft that are intended for use in air transportation.
+
+"(b)
+
+Requirements.—In developing such research requirements, the Administrator shall—
+
+&emsp;"(1) establish goals for research in areas of study relevant to advancing technology, improving design engineering and certification practices, and facilitating better understanding of human factors concepts in the context of the growing development and reliance on automated or complex flight deck systems in aircraft operations, including the development of tools to validate pilot recognition and response assumptions and diagnostic tools to improve the clarity of failure indications presented to pilots;
+
+&emsp;"(2) take into consideration and leverage any existing or planned research that is conducted by, or conducted in partnership with, the FAA; and
+
+&emsp;"(3) focus on—
+
+&emsp;&emsp;"(A) preventing a recurrence of the types of accidents that have involved transport category airplanes designed and manufactured in the United States; and
+
+&emsp;&emsp;"(B) increasingly complex aircraft systems and designs.
+
+"(c)
+
+Implementation.—In implementing the research requirements developed under this section, the Administrator shall work with appropriate organizations and authorities with expertise including, to the maximum extent practicable, the Center of Excellence for Technical Training and Human Performance and the Center of Excellence developed or expanded pursuant to section 127 \[set out as a note under section 44513 of this title\].
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $7,500,000 for each of fiscal years 2021 through 2023, out of funds made available under section 48102(a) of title 49, United States Code, to carry out this section."
+
+\[For definitions of terms used in section 126 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Pilot Operational Evaluations
+
+Pub. L. 116–260, div. V, title I, §128, Dec. 27, 2020, 134 Stat. 2349, provided that:
+
+"(a)
+
+Pilot Operational Evaluations.—Not later than 1 year after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall revise existing policies for manufacturers of transport airplanes to ensure that pilot operational evaluations for airplane types that are submitted for certification utilize pilots from air carriers that are expected to operate such airplanes.
+
+"(b)
+
+Requirement.—Such manufacturer shall ensure, to the satisfaction of the Administrator, that the air carrier and foreign air carrier pilots used for such evaluations include pilots of varying levels of experience."
+
+\[For definitions of terms used in section 128 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
 #### Securing Aircraft Avionics Systems
 
 Pub. L. 115–254, div. B, title V, §506, Oct. 5, 2018, 132 Stat. 3354, provided that:
@@ -238,7 +774,7 @@ In General.—The Administrator \[of the Federal Aviation Administration\] shall
 
 &emsp;"(1) to address cybersecurity for avionics systems, including software components; and
 
-&emsp;"(2) to require that aircraft avionics systems used for flight guidance or aircraft control be secured against unauthorized access via passenger in-flight entertainment systems through such means as the Administrator determines appropriate to protect the avionics systems from unauthorized external and internal access.
+&emsp;"(2) to require that aircraft avionics systems used for flight guidance or aircraft control be secured against unauthorized access via passenger in-flight entertainment systems through such means as the Administrator determines appropriate to protect theavionics systems from unauthorized external and internal access.
 
 "(b)
 

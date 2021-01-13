@@ -18,7 +18,7 @@ Returns made under section 6018(a) (relating to estate taxes) shall be filed wit
 
 &emsp;Notwithstanding paragraphs (1) and (2), the time for filing the return made under section 6019 for the calendar year which includes the date of death of the donor shall not be later than the time (including extensions) for filing the return made under section 6018 (relating to estate tax returns) with respect to such donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322; Pub. L. 107–16, title V, §542(b)(3), June 7, 2001, 115 Stat. 83; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322;Pub. L. 107–16, title V, §542(b)(3), June 7, 2001, 115 Stat. 83; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–167, §8(d), Dec. 29, 1979, 93 Stat. 1278, provided that: "The amendments made by this section\[amending this section\] shall apply to returns for gifts made in calendar years ending after the date of the enactment of this Act \[Dec. 29, 1979\]."
+Pub. L. 96–167, §8(d), Dec. 29, 1979, 93 Stat. 1278, provided that: "The amendments made by this section \[amending this section\] shall apply to returns for gifts made in calendar years ending after the date of the enactment of this Act \[Dec. 29, 1979\]."
 
 #### Effective Date of 1976 Amendment
 

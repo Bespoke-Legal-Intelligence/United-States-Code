@@ -16,7 +16,7 @@ A person who is found by the Secretary, or the Administrator as provided for in 
 
 #### (c) Abatement of civil penalties; collection by Attorney General
 
-The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
+The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, anycivil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
 
 #### (d) Liability in rem; district court jurisdiction
 
@@ -35,6 +35,8 @@ Notwithstanding subsection (a), (b), or (d) of this section, if the violation is
 Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under section 11113 of title 46.
 
 (Pub. L. 96–478, §9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, §2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, §4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, §688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, §201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, §10, July 21, 2008, 122 Stat. 2615; Pub. L. 113–281, title III, §320(c), Dec. 18, 2014, 128 Stat. 3054.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -82,9 +84,11 @@ Subsec. (b). Pub. L. 100–220, §2105(a)(2), inserted at end "An amount equal t
 
 Subsec. (f). Pub. L. 100–220, §2105(b), substituted "to the government of the country of the ship's registry or nationality, or under whose authority the ship is operating" for "to that country".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Effective Date of 1987 Amendment
 

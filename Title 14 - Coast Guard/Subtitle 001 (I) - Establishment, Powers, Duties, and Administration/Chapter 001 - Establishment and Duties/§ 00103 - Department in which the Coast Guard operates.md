@@ -32,6 +32,8 @@ Said section has been divided. The provisions relating to when the Coast Guard o
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 103 was renumbered section 563 of this title.
@@ -47,6 +49,8 @@ A prior section 103 was renumbered section 563 of this title.
 <b>2002</b>—Pub. L. 107–296 substituted "Department of Homeland Security" for "Department of Transportation".
 
 <b>1976</b>—Pub. L. 94–546 substituted "Executive" for "executive" and "Department of Transportation" for "Treasury Department".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -20,6 +20,8 @@
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, §501(11), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 106–404, §6(2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(2). Pub. L. 112–29 struck out "of this title" after "29".
@@ -30,6 +32,8 @@ Subsec. (a)(3). Pub. L. 106–404, §6(2)(B), inserted ", including acquiring r
 
 <b>1984</b>—Pub. L. 98–620 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
@@ -37,6 +41,8 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 #### Effective Date
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 9424. Establishment of a Register of Government Interests in Patents
 
@@ -46,7 +52,7 @@ Ex. Ord. No. 9424, Feb. 18, 1944, 9 F.R. 1959, provided:
 
 2\. The several departments and other executive agencies of the Government, including Government-owned or Government-controlled corporations, shall forward promptly to the Commissioner of Patents \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\] for recording in the separate register provided for in paragraph 1 hereof all licenses, assignments, or other interests of the Government in or under patents or applications for patents, in accordance with such rules and regulations as may be prescribed pursuant to paragraph 4 hereof; but the lack of recordation in such register of any right or interest of the Government in or under any patent or application therefor shall not prejudice in any way the assertion of such right or interest by the Government.
 
-3\. The register shall be open to inspection except as to such entries or documents which, in the opinion of the department or agency submitting them for recording, should be maintained in secrecy: <i>Provided, however</i>, That the right of inspection may be restricted to authorized representatives of the Government pendingthe final report to the President by the National Patent Planning Commission under Executive Order No. 8977 of December 12, 1941, and action thereon by the President.
+3\. The register shall be open to inspection except as to such entries or documents which, in the opinion of the department or agency submitting them for recording, should be maintained in secrecy: <i>Provided, however</i>, That the right of inspection may be restricted to authorized representatives of the Government pending the final report to the President by the National Patent Planning Commission under Executive Order No. 8977 of December 12, 1941, and action thereon by the President.
 
 4\. The Commissioner of Patents \[now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office\], with the approval of the Secretary of Commerce, shall prescribe such rules and regulations as he may deem necessary to effectuate the purposes of this order.
 
@@ -78,7 +84,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 (a) The Government shall obtain the entire right, title, and interest in and to all inventions made by any Government employee (1) during working hours, or (2) with a contribution by the Government of facilities, equipment, materials, funds, or information, or of time or services of other Government employees on official duty, or (3) which bear a direct relation to or are made in consequence of the official duties of the inventor.
 
-(b) In any case where the contribution of the Government, as measured by any one or more of the criteria set forth in paragraph (a) last above, to the invention, is insufficient equitably to justify a requirement of assignment to the Government of the entire right, title and interest to such invention, or in any case where the Government has insufficient interest in an invention to obtain entire right, title and interest therein (although the Government could obtain some under paragraph (a), above), the Government agency concerned, subject to the approval of the Chairman of the Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] (provided for in paragraph 3 of this order and hereinafter referred to as the Chairman), shall leave title to such invention in the employee, subject, however, to the reservation to the Government of a non-exclusive, irrevocable, royalty-free license in the invention with power to grant licenses for all governmental purposes, such reservation, in the terms thereof, to appear, where practicable, in any patent, domestic or foreign, which may issue on such invention.
+(b) In any case where the contribution of the Government, as measured by any one or more of the criteria set forth in paragraph (a) last above, to the invention, is insufficient equitably to justify a requirement of assignment to the Government of the entire right, title and interest to such invention, or in any case where the Government has insufficient interest in an invention to obtain entire right, title and interest therein (although the Government could obtain some under paragraph (a), above), the Government agency concerned, subject to the approval of the Chairman of the Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] (provided for in paragraph 3 of this order and hereinafter referred to as the Chairman), shall leave title to such invention inthe employee, subject, however, to the reservation to the Government of a non-exclusive, irrevocable, royalty-free license in the invention with power to grant licenses for all governmental purposes, such reservation, in the terms thereof, to appear, where practicable, in any patent, domestic or foreign, which may issue on such invention.
 
 (c) In applying the provisions of paragraphs (a) and (b), above, to the facts and circumstances relating to the making of any particular invention, it shall be presumed that an invention made by an employee who is employed or assigned (i) to invent or improve or perfect any art, machine, manufacture, or composition of matter, (ii) to conduct or perform research, development work, or both, (iii) to supervise, direct, coordinate, or review Government financed or conducted research, development work, or both, or (iv) to act in a liaison capacity among governmental or nongovernmental agencies or individuals engaged in such work, or made by an employee included within any other category of employees specified by regulations issued pursuant to section 4(b) hereof, falls within the provisions of paragraph (a), above, and it shall be presumed that any invention made by any other employee falls within the provisions of paragraph (b), above. Either presumption may be rebutted by the facts or circumstances attendant upon the conditions under which any particular invention is made and, notwithstanding the foregoing, shall not preclude a determination that the invention falls within the provisions of paragraph (d) next below.
 

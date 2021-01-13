@@ -24,7 +24,7 @@ The Institute shall not—
 
 (3) Neither the Institute nor any recipient shall contribute or make available Institute funds or program personnel or equipment to any political party or association, or the campaign of any candidate for public or party office.
 
-(4) The Institute shall not contribute or make available Institute funds or program personnelor equipment for use in advocating or opposing any ballot measure, initiative, or referendum.
+(4) The Institute shall not contribute or make available Institute funds or program personnel or equipment for use in advocating or opposing any ballot measure, initiative, or referendum.
 
 #### (c) Identification of Institute with political activities
 

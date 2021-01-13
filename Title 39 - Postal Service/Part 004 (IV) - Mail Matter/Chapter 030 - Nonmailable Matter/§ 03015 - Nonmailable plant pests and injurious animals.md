@@ -18,11 +18,15 @@ Illegally Taken Fish, Wildlife, or Plants.—Any fish, wildlife, or plant, the c
 
 (Added Pub. L. 102–393, title VI, §631(d)(1), Oct. 6, 1992, 106 Stat. 1776.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 103 and 104 of the Federal Plant Pest Act (7 U.S.C. 150bb, 150cc), referred to in subsec. (b), were repealed by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454.
 
 The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -122,7 +126,7 @@ Agreement between postal service and hawaii.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 90 days after the date of enactment of this Act, the Postal Service shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, Public Law 100–574 \[enacting section 3014 of this title, sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 3014 of this title\] and the amendments made by such Public Law.
+In general.—Not later than 90 days after the date of enactment of this Act, the Postal Serviceshall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, Public Law 100–574 \[enacting section 3014 of this title, sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 3014 of this title\] and the amendments made by such Public Law.
 
 &emsp;&emsp;"(B)
 

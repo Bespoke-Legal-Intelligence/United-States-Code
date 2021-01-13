@@ -32,7 +32,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (A) Compliance with margin rules required
 
-&emsp;&emsp;It shall be unlawful for any broker, dealer, or member of a national securities exchange to, directly or indirectly, extend or maintain credit to or for, or collect margin from anycustomer on, any security futures product unless such activities comply with the regulations—
+&emsp;&emsp;It shall be unlawful for any broker, dealer, or member of a national securities exchange to, directly or indirectly, extend or maintain credit to or for, or collect margin from any customer on, any security futures product unless such activities comply with the regulations—
 
 &emsp;&emsp;&emsp;(i) which the Board shall prescribe pursuant to subparagraph (B); or
 
@@ -160,7 +160,7 @@ Act Aug. 23, 1935, in subsec. (e), substituted "Board of Governors of the Federa
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1970 Amendment
 

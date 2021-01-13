@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;The term "qualified civil liability action" means a civil action or proceeding or an administrative proceeding brought by any person against a manufacturer or seller of a qualified product, or a trade association, for damages, punitive damages, injunctive or declaratory relief, abatement, restitution, fines, or penalties, or other relief, resulting from the criminal or unlawful misuse of a qualified product by the person or a third party, but shall not include—
 
-&emsp;&emsp;&emsp;(i) an action brought against a transferor convicted under section 924(h) of title 18, or a comparable or identical State felony law, by a party directly harmed by the conduct of which the transferee is so convicted;
+&emsp;&emsp;&emsp;(i) an action brought against a transferor convicted under section 924(h) of title 18,or a comparable or identical State felony law, by a party directly harmed by the conduct of which the transferee is so convicted;
 
 &emsp;&emsp;&emsp;(ii) an action brought against a seller for negligent entrustment or negligence per se;
 
@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;The term "seller" means, with respect to a qualified product—
 
-&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in thebusiness as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
+&emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in the business as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
 
 &emsp;&emsp;(B) a dealer (as defined in section 921(a)(11) of title 18) who is engaged in the business as such a dealer in interstate or foreign commerce and who is licensed to engage in business as such a dealer under chapter 44 of title 18; or
 

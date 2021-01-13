@@ -1,12 +1,16 @@
 ### §5724b. Taxes on reimbursements for travel, transportation, and relocation expenses
 
-(a) Under regulations prescribed under section 5738 of this title and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an individual, or by an individual and such individual's spouse (if filing jointly), for any travel, transportation, or relocation expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the individual, or the individual and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
+(a) Under regulations prescribed under section 5738 of this title and to the extent considerednecessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an individual, or by an individual and such individual's spouse (if filing jointly), for any travel, transportation, or relocation expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the individual, or the individual and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
 
-(b) For purposes of this section, the term "travel, transportation, or relocation expenses" means all travel, transportation, or relocation expenses reimbursed or furnished in kind pursuant to this subchapter of chapter 41.<sup>1</sup>
+(b) For purposes of this section, the term "travel, transportation, or relocation expenses" means all travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to this subchapter or chapter 41.
 
-(Added Pub. L. 98–151, §118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, §120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 116–92, div. A, title XI, §1114(a), Dec. 20, 2019, 133 Stat. 1604.)
+(Added Pub. L. 98–151, §118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, §120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, §1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 116–92, div. A, title XI, §1114(a), Dec. 20, 2019, 133 Stat. 1604; Pub. L. 116–283, div. A, title XI, §1121(a), Jan. 1, 2021, 134 Stat. 3900.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "and relocation expenses reimbursed" for "or relocation expenses reimbursed" and "or chapter 41" for "of chapter 41".
 
 <b>2019</b>—Pub. L. 116–92, §1114(a)(1), struck out "of employees transferred" after "relocation expenses" in section catchline.
 
@@ -17,6 +21,12 @@ Subsec. (b). Pub. L. 116–92, §1114(a)(3), added subsec. (b) and struck out fo
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "Under regulations prescribed under section 5738 of this title" for "Under such regulations as the President may prescribe".
 
 <b>1984</b>—Pub. L. 98–473 amended section generally, substituting "reimbursement of substantially all of the Federal, State, and local income taxes" for "reimbursement of all or part of the Federal, State, and city income taxes" and "for which the employee and spouse, as the case may be" for "for which the employee, or the employee and spouse, as the case may be" in subsec. (a) and "5724c" for "5726(c)" in subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Retroactive Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. A, title XI, §1121(b), Jan. 1, 2021, 134 Stat. 3900, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 1114 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92)."
 
 #### Effective Date of 2019 Amendment
 
@@ -33,6 +43,4 @@ Enactment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 #### Funding of Amendments by Pub. L. 98–151
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

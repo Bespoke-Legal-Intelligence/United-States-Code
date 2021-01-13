@@ -10,7 +10,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 &emsp;(B) a trust described in section 501(c)(18) of title 26;
 
-&emsp;(4) a plan which is established and maintained by a labor organization described in section 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
+&emsp;(4) a plan which is established and maintained by a labor organization described insection 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
 
 &emsp;(5) any agreement providing payments to a retired partner or a deceased partner's successor in interest, as described in section 736 of title 26;
 
@@ -21,6 +21,8 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 &emsp;(8) any plan, fund or program under which an employer, all of whose stock is directly or indirectly owned by employees, former employees or their beneficiaries, proposes through an unfunded arrangement to compensate retired employees for benefits which were forfeited by such employees under a pension plan maintained by a former employer prior to the date such pension plan became subject to this chapter.
 
 (Pub. L. 93–406, title I, §201, Sept. 2, 1974, 88 Stat. 852; Pub. L. 96–364, title IV, §411(a), Sept. 26, 1980, 94 Stat. 1308; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(1)(A), (11)(A), Dec. 19, 1989, 103 Stat. 2445, 2448, 2449.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Par. (7). Pub. L. 101–239, §7894(c)(1)(A)(ii), substituted "plan; or" for "pl
 Par. (8). Pub. L. 101–239, §7894(c)(1)(A)(iii), substituted "any plan" for "Any plan".
 
 <b>1980</b>—Par. (8). Pub. L. 96–364 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

@@ -44,13 +44,17 @@
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 113–146, title III, §301(b)(1), Aug. 7, 2014, 128 Stat. 1784.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–146 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Pilot Program on Graduate Medical Education and Residency
 
-Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9), Sept. 29, 2018, 132 Stat. 3177, provided that:
+Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
 
 "(a)
 
@@ -58,7 +62,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 301(b)(2) of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 7302 note) at covered facilities.
+In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 7302 of title 38, United States Code, at covered facilities.
 
 &emsp;"(2)
 
@@ -170,7 +174,7 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 
 "(d)
 
-Duration.—The pilot program under this section shall terminate on August 7, 2024."
+Duration.—The pilot program under this section shall terminate on August 7, 2031."
 
 #### Ten-year Increase
 

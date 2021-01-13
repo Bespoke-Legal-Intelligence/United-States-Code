@@ -12,7 +12,7 @@ The Secretary of Health and Human Services shall direct the entity operating the
 
 &emsp;(2) determine through the documentation provided and, if necessary, independent investigation whether the individual or family, respectively, is eligible to receive such a medal; and
 
-&emsp;(3) arrange for the presentation to the relevant organ procurement organization all medals struck pursuant to section 274i–2 of this title to individuals or families that are determined to be eligible to receive medals.
+&emsp;(3) arrange for the presentation to the relevant organ procurement organization allmedals struck pursuant to section 274i–2 of this title to individuals or families that are determined to be eligible to receive medals.
 
 #### (c) Limitation
 

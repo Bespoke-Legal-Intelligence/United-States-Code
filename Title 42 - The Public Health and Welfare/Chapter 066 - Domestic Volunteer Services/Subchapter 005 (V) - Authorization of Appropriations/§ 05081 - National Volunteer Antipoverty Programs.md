@@ -126,5 +126,5 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Additional Appropriations Authorization
 
-Additional appropriations authorization for meeting increase in stipend to volunteers under section 4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
+Additional appropriations authorization for meeting increase in stipend to volunteers under section4955(a)(1) of this title, see section 5(b) of Pub. L. 94–130, set out as a note under section 4955 of this title.
 

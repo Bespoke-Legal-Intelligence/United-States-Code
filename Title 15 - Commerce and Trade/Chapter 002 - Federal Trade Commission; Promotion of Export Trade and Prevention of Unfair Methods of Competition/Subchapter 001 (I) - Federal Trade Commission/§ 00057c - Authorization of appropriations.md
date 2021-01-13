@@ -10,7 +10,7 @@ A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is class
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–216 struck out "and" before "not to exceed $102,000,000" and inserted before period at end "; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998".
+<b>1996</b>—Pub. L. 104–216 struck out "and" before "not to exceed $102,000,000" and inserted before period at end"; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998".
 
 <b>1994</b>—Pub. L. 103–312, §14, amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982."
 
@@ -40,5 +40,5 @@ Section 18 of Pub. L. 96–252 prohibited the Federal Trade Commission from usin
 
 #### Restriction on Use of Funds Respecting Study, Investigation, or Prosecution of any Agricultural Cooperative or Study or Investigation of any Agricultural Marketing Orders
 
-Section 20 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or thissubchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
+Section 20 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
 

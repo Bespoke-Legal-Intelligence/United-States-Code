@@ -28,6 +28,8 @@
 
 (Pub. L. 107–296, title XI, §1111, Nov. 25, 2002, 116 Stat. 2274; Pub. L. 109–162, title XI, §1187(b), Jan. 5, 2006, 119 Stat. 3127.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–162 transferred section catchline and subsecs. (a)–(c)(1), (3), to section 599A of Title 28, Judiciary and Judicial Procedure.

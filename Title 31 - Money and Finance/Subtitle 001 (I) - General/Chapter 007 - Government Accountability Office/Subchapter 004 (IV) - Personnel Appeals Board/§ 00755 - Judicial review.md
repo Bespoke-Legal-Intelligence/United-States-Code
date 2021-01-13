@@ -1,6 +1,6 @@
 ### §755. Judicial review
 
-(a) A final decision under section 753(a)(1)–(3), (6),,<sup>1</sup> (7) or (9) of this title may be reviewed bythe United States Court of Appeals for the Federal Circuit. Chapter 158 of title 28 applies to a review under this subchapter, except the petition for review shall be filed by the 30th day after the petitioner receives notice of the decision. The court shall set aside a final decision the court decides is—
+(a) A final decision under section 753(a)(1)–(3), (6),,<sup>1</sup> (7) or (9) of this title may be reviewed by the United States Court of Appeals for the Federal Circuit. Chapter 158 of title 28 applies to a review under this subchapter, except the petition for review shall be filed by the 30th day after the petitioner receives notice of the decision. The court shall set aside a final decision the court decides is—
 
 &emsp;(1) arbitrary, capricious, an abuse of discretion, or otherwise not consistent with law;
 
@@ -28,11 +28,13 @@ Act
 
 Feb. 15, 1980, Pub. L. 96–191, §4(<i>l</i>), 94 Stat. 31.
 
-In the section, before clause (1), the first sentence is substituted for 31:52–3(l)(1)(1st sentence) for consistency with other titles of the United States Code. The word "review" is substituted for "appeal" for consistency. The words "the procedures of", "any other provision of law", "of a final decision of the Board . . . the date . . . of the Board", and "In any case filed under paragraph (1) . . . review the record and" are omitted as surplus. The words "final decision" are substituted for "agency action, findings, or conclusions" for consistency. Clause (2) is substituted for 31:52–3(l)(2)(B) to eliminate unnecessary words.
+In the section, before clause (1), the first sentence is substituted for 31:52–3(l)(1)(1st sentence) for consistency with other titles of the United States Code. The word "review" is substituted for "appeal" for consistency. The words "the procedures of", "any other provision of law", "of a final decision of the Board . . . the date . . . of the Board", and "In any case filed under paragraph (1) . . . review the record and" are omitted as surplus. The words "final decision" are substituted for "agency action, findings, or conclusions" for consistency.Clause (2) is substituted for 31:52–3(l)(2)(B) to eliminate unnecessary words.
 
 #### 1984 Act
 
 This clarifies section 755 by conforming it more closely to the language of the source provision of the section.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted "applicant for e
 Subsec. (b). Pub. L. 100–426, §103(b)(2), added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–216 substituted "A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides" for "A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the United States for the circuit in which the person resides" in provisions preceding par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -56,6 +56,8 @@ In subsection (b), the word "thereafter" is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–54, §2(a)(14), substituted "Office of Personnel Management" for "Civil Service Commission".
@@ -63,6 +65,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 96–54, §2(a)(15), amended subsec. (b) in same manner as amendment by Pub. L. 95–454. See 1978 Amendment note set out below.
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–454 which purported to amend section 3317b of this title by substituting "Office" for "Commission" was executed to subsec. (b) of this section as the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

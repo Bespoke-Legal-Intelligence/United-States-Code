@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
-&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
+&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategiesfor the long-term protection of the source water of community water systems.
 
 #### (B) Funding
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) whose participation is essential to the success of the partnership;
 
-&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development andimplementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
+&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
 &emsp;&emsp;(F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
-&emsp;&emsp;&emsp;(iii) funds available (including funds available from a State revolving loan fund established under title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et seq.)) or section 300j–12 of this title;
+&emsp;&emsp;&emsp;(iii) funds available (including funds available from a State revolving loan fundestablished under title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et seq.)) or section 300j–12 of this title;
 
 &emsp;&emsp;(B) a description of technical or financial assistance pursuant to Federal and State programs that is available to assist in implementing recommendations of the partnership in the petition, including—
 
@@ -166,7 +166,7 @@ Nothing in this section—
 
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354.Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Amendments
 

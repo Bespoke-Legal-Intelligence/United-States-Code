@@ -34,7 +34,7 @@ Authorized Transportation.—Section 55102 of this title does not apply to the t
 
 (c)
 
-Procedures To Maximize Use of Coastwise Qualified Vessels.—The Secretary of Transportation shall adopt procedures implementing this section that are reasonably designed to provide timely information so as to maximize the use of coastwise qualified vessels. The procedures shall, among other things, establish that for purposes of this section, a coastwise qualified vessel shall be deemed to be not available only if—
+Procedures To Maximize Use of Coastwise Qualified Vessels.—The Secretary of Transportation shall adopt procedures implementing this section that are reasonably designed to provide timely information so as to maximize the use of coastwise qualified vessels. The procedures shall, among other things, establish that for purposes of this section, a coastwisequalified vessel shall be deemed to be not available only if—
 
 &emsp;(1) on application by an owner or operator for the use of a non-coastwise qualified launch barge for transportation of a platform jacket under this section (which application shall include all relevant information, including engineering details and timing requirements), the Secretary promptly publishes a notice in the Federal Register—
 

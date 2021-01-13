@@ -12,7 +12,7 @@ For purposes of carrying out section 3024(h) of this title, the Director of Nati
 
 &emsp;(B) shall perform, on a regular basis, detailed reviews of finished intelligence product or other analytic products by an element or elements of the intelligence community covering a particular topic or subject matter;
 
-&emsp;(C) shall be responsible for identifying on an annual basis functional or topical areas of analysis for specific review under subparagraph (B); and
+&emsp;(C) shall be responsible for identifying on an annual basis functional or topical areas ofanalysis for specific review under subparagraph (B); and
 
 &emsp;(D) upon completion of any review under subparagraph (B), may draft lessons learned, identify best practices, or make recommendations for improvement to the analytic tradecraft employed in the production of the reviewed product or products.
 

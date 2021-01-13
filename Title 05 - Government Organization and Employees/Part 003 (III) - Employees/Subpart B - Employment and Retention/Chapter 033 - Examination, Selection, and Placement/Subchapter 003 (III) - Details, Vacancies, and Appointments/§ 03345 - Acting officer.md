@@ -26,7 +26,7 @@
 
 &emsp;(A) such person is serving as the first assistant to the office of an officer described under subsection (a);
 
-&emsp;(B) the office of such first assistant is an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate; and
+&emsp;(B) the office of such first assistant is an office for which appointment is required to bemade by the President, by and with the advice and consent of the Senate; and
 
 &emsp;(C) the Senate has approved the appointment of such person to such office.
 
@@ -35,6 +35,8 @@
 (2) For purposes of this section and sections 3346, 3347, 3348, 3349, 3349a, and 3349d, the expiration of a term of office is an inability to perform the functions and duties of such office.
 
 (Added Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ A prior section 3345, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 425; Pub. L. 100
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -71,6 +75,8 @@ Immediate application of time limitation.—Notwithstanding subparagraph (A), fo
 &emsp;"(C)
 
 Certain nominations.—If the President submits to the Senate the nomination of any person after the effective date of this section for an office for which such person had been nominated before such date, the next nomination of such person after such date shall be considered a first nomination of such person to that office for purposes of sections 3345 through 3349 and section 3349d of title 5, United States Code (as amended by this section)."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13472. Executive Branch Responsibilities With Respect To Orders of Succession
 
@@ -152,7 +158,9 @@ Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended by Ex. Ord. No. 1260
 
 #### Department of Defense
 
-Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163.
+Ex. Ord. No. 13963, Dec. 10, 2020, 85 F.R. 81331.
+
+Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, revoked by Ex. Ord. No. 13963, §3, Dec. 10, 2020, 85 F.R. 81332.
 
 Ex. Ord. No. 13394, Dec. 22, 2005, 70 F.R. 76665, revoked by Ex. Ord. No. 13533, §3, Mar. 1, 2010, 75 F.R. 10164.
 
@@ -166,7 +174,7 @@ Ex. Ord. No. 13250, Dec. 28, 2001, 67 F.R. 1597, as amended by Ex. Ord. No. 1326
 
 #### Department of Homeland Security
 
-For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28,2003, 68 F.R. 10632, as amended, set out as a note under section 111 of Title 6, Domestic Security.
+For order of succession within the Department of Homeland Security, see Ex. Ord. No. 13286, §88, Feb. 28, 2003, 68 F.R. 10632, as amended, set out as a note under section 111 of Title 6, Domestic Security.
 
 #### Department of Housing and Urban Development
 
@@ -212,7 +220,9 @@ Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907.
 
 #### Department of the Interior
 
-Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 13261, §4(d), Mar. 19, 2002, 67 F.R. 13244.
+Ex. Ord. No. 13915, Apr. 14, 2020, 85 F.R. 21733.
+
+Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, as amended by Ex. Ord. No. 13261, §4(d), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13915, §4, Apr. 14, 2020, 85 F.R. 21734.
 
 Ex. Ord. No. 11487, Oct. 6, 1969, 34 F.R. 15593, as amended by Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454, revoked by Ex. Ord. No. 13244, §4, Dec. 18, 2001, 66 F.R. 66267.
 
@@ -236,7 +246,7 @@ Ex. Ord. No. 13485, Jan. 9, 2009, 74 F.R. 2287.
 
 Ex. Ord. No. 13736, Aug. 12, 2016, 81 F.R. 54711.
 
-Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67 F.R. 13244, revoked by Ex. Ord. No. 13736, §3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
+Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, as amended by Ex. Ord. No. 13261, §4(g), Mar. 19, 2002, 67F.R. 13244, revoked by Ex. Ord. No. 13736, §3(a), (b), Aug. 12, 2016, 81 F.R. 54711.
 
 Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revoked by Ex. Ord. No. 13736, §3(d), Aug. 12, 2016, 81 F.R. 54711.
 
@@ -268,7 +278,9 @@ Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
 
 #### General Services Administration
 
-Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161.
+Memorandum of President of the United States, Sept. 2, 2020, 85 F.R. 55585.
+
+Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161, revoked by Memorandum of President of the United States, §3, Sept. 2, 2020, 85 F.R. 55585.
 
 #### Millennium Challenge Corporation
 
@@ -300,11 +312,13 @@ Ex. Ord. No. 13370, Jan. 13, 2005, 70 F.R. 3137, revoked by Ex. Ord. No. 13615, 
 
 #### Office of Personnel Management
 
-Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715.
+Memorandum of President of the United States, Dec. 10, 2020, 85 F.R. 81775.
+
+Memorandum of President of the United States, Aug. 12, 2016, 81 F.R. 54715, revoked by Memorandum of President of the United States, §3, Dec. 10, 2020, 85 F.R. 81775.
 
 Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165, revoked by Memorandum of President of the United States, §3, Aug. 12, 2016, 81 F.R. 54715.
 
-Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum ofPresident of the United States, May 21, 2012, 77 F.R. 31165.
+Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773, superseded by Memorandum of President of the United States, May 21, 2012, 77 F.R. 31165.
 
 Memorandum of President of the United States, Mar. 11, 2003, 68 F.R. 12281, superseded by Memorandum of President of the United States, May 5, 2005, 70 F.R. 28773.
 
@@ -336,7 +350,9 @@ Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4101, revok
 
 #### Pension Benefit Guaranty Corporation
 
-Memorandum of President of the United States, Feb. 1, 2013, 78 F.R. 8953.
+Memorandum of President of the United States, Apr. 2, 2020, 85 F.R. 19637.
+
+Memorandum of President of the United States, Feb. 1, 2013, 78 F.R. 8953, revoked by Memorandum of President of the United States, §3, Apr. 2, 2020, 85 F.R. 19637.
 
 Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, superseded by Memorandum of President of the United States, §3, Feb. 1, 2013, 78 F.R. 8953.
 

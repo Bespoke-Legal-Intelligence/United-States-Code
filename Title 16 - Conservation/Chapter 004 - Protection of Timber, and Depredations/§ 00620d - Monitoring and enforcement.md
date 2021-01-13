@@ -10,7 +10,7 @@ In accordance with regulations issued under this section—
 
 &emsp;&emsp;(A) provide to such other person a written notice, in such form as the Secretary concerned may prescribe, which shall identify the Federal origin of such timber;
 
-&emsp;&emsp;(B) receive from such other person a written acknowledgment of such notice and a written agreement that such other person will comply with the requirements of sections 620 to 620j of this title, in such form as the Secretary concerned may prescribe; and
+&emsp;&emsp;(B) receive from such other person a written acknowledgment of such notice and awritten agreement that such other person will comply with the requirements of sections 620 to 620j of this title, in such form as the Secretary concerned may prescribe; and
 
 &emsp;&emsp;(C) provide to the Secretary concerned copies of all notices, acknowledgments, and agreements referred to in subparagraphs (A) and (B);
 
@@ -66,7 +66,7 @@ Using the information gathered under subsection (a), the Secretaries of Agricult
 
 &emsp;&emsp;(iii) assess against such person a civil penalty of not more than $500,000 if the Secretary determines that the person committed such violation willfully.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person has violated, on or after June 1, 1993, any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to the export of unprocessed timber originating from public lands (whether or not the violation caused the export of unprocessed timber from public lands in violation of sections 620 to 620j of this title), the Secretary may assess against such person a civil penalty to the same extent as the Secretary concerned may impose a penalty under clause (i), (ii), or (iii) of subparagraph (A).
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person has violated, on or after June 1, 1993, any provision of sections 620 to 620j of this title or any regulation issued under sections 620 to 620j of this title relating to the export of unprocessed timber originating from public lands (whether ornot the violation caused the export of unprocessed timber from public lands in violation of sections 620 to 620j of this title), the Secretary may assess against such person a civil penalty to the same extent as the Secretary concerned may impose a penalty under clause (i), (ii), or (iii) of subparagraph (A).
 
 &emsp;(ii) Clause (i) shall not apply with respect to unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 

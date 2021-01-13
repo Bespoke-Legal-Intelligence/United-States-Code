@@ -328,7 +328,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (B) Curriculum
 
-&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, ortraining and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
+&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
 
 #### (C) Composition
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Within 90 days after October 10, 2008, the Assistant Secretary of Commerce for Communications and Information shall establish an Online Safety and Technology working group comprised of representatives of relevant sectors of the business community, public interest groups, and other appropriate groups and Federal agencies to review and evaluate—
+Within 90 days after October 10, 2008, the Assistant Secretary of Commerce for Communications and Information shall establish an OnlineSafety and Technology working group comprised of representatives of relevant sectors of the business community, public interest groups, and other appropriate groups and Federal agencies to review and evaluate—
 
 &emsp;(1) the status of industry efforts to promote online safety through educational efforts, parental control technology, blocking and filtering software, age-appropriate labels for content or other technologies or initiatives designed to promote a safe online environment for children;
 

@@ -6,7 +6,7 @@ Offense.—Whoever knowingly—
 
 &emsp;(1) sets fire to, damages, destroys, disables, or wrecks any vessel;
 
-&emsp;(2) places or causes to be placed a destructive device, as defined in section 921(a)(4), destructive substance, as defined in section 31(a)(3), or an explosive, as defined in section 844(j) in, upon, or near, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any vessel, or any part or other materials used or intended to be used in connection with the operation of a vessel;
+&emsp;(2) places or causes to be placed a destructive device, as defined in section 921(a)(4), destructive substance, as defined in section 31(a)(3), or an explosive, as defined in section 844(j) in, upon, or near, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any vessel, or anypart or other materials used or intended to be used in connection with the operation of a vessel;
 
 &emsp;(3) sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or near, any maritime facility, including any aid to navigation, lock, canal, or vessel traffic service facility or equipment;
 
@@ -30,7 +30,7 @@ Limitation.—Subsection (a) shall not apply to any person that is engaging in o
 
 (c)
 
-Penalty.—Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12)) <sup>1</sup> or spent nuclear fuel (as that term is defined insection 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23)),<sup>1</sup> shall be fined under this title, imprisoned for a term up to life, or both.
+Penalty.—Whoever is fined or imprisoned under subsection (a) as a result of an act involving a vessel that, at the time of the violation, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12)) <sup>1</sup> or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23)),<sup>1</sup> shall be fined under this title, imprisoned for a term up to life, or both.
 
 (d)
 

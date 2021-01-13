@@ -24,7 +24,7 @@ The report under subsection (a) of this section shall—
 
 &emsp;&emsp;(C) the funds transferred to each self-governance Indian tribe and the corresponding reduction in the Federal bureaucracy;
 
-&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, togetherwith the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
+&emsp;&emsp;(D) the funding formula for individual tribal shares of all headquarters funds, together with the comments of affected Indian tribes or tribal organizations, developed under subsection (c) of this section; and
 
 &emsp;&emsp;(E) amounts expended in the preceding fiscal year to carry out inherent Federal functions, including an identification of those functions by type and location;
 
@@ -40,6 +40,8 @@ Not later than 180 days after August 18, 2000, the Secretary shall, after consul
 
 (Pub. L. 93–638, title V, §514, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 728.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter I of this chapter, referred to in subsec. (a)(2), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
@@ -49,6 +51,8 @@ This chapter, referred to in subsec. (a)(2), was in the original "this Act", mea
 #### Codification
 
 Section was formerly classified to section 458aaa–13 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

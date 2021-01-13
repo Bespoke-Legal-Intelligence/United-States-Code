@@ -18,13 +18,15 @@ Data shall be made available according to the following guidelines:
 
 &emsp;&emsp;(D) The number of requests for mortgage modifications under the Program that the servicer or lender has denied.
 
-&emsp;(2) Not more than 60 days after each monthly deadline for submission of data by mortgageservicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual record level. The Secretary shall issue regulations prescribing—
+&emsp;(2) Not more than 60 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual record level. The Secretary shall issue regulations prescribing—
 
 &emsp;&emsp;(A) the procedures for disclosing such data to the public; and
 
 &emsp;&emsp;(B) such deletions as the Secretary may determine to be appropriate to protect any privacy interest of any mortgage modification applicant, including the deletion or alteration of the applicant's name and identification number.
 
 (Pub. L. 111–203, title XIV, §1483, July 21, 2010, 124 Stat. 2203.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a), is
 #### Codification
 
 Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Act, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

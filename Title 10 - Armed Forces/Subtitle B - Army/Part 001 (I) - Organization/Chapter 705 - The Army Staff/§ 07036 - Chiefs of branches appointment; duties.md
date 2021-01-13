@@ -202,7 +202,7 @@ Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that:
 
 #### "SEC. 2. TRAINING AND EMPLOYMENT FOR VETERANS AND MEMBERS OF ARMED FORCES IN CURATION AND HISTORIC PRESERVATION.
 
-"Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans' Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities."
+"Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry outa Veterans' Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities."
 
 #### Corps of Engineers; Annual Budget Submission
 
@@ -324,7 +324,7 @@ Sec. 3. <i>Performance of transferred functions</i>. The Secretary of the Army m
 
 Sec. 4. <i>Transitional provisions</i>. In order to assist in the orderly transfer of functions and to promote continuity of operation, the Secretary of the Army may, if he considers it necessary, delay beyond the effective date of this order the abolition of any office or transfer of any function.
 
-Sec. 5. <i>Effective date</i>. The provisions of this order shall take effect on the date determined under section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
+Sec. 5. <i>Effective date</i>. The provisions of this order shall take effect on the date determined under section202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
 
 J. C. Lambert,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

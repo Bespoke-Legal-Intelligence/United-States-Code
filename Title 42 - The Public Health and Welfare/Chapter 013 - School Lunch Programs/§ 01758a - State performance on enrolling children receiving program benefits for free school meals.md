@@ -12,7 +12,7 @@ The assessment of the Secretary of the performance of each State shall include�
 
 &emsp;(2) an estimate of the number of school-aged children, by State, who were directly certified as eligible for free lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), based on receipt of program benefits, as of October 1 of the prior year; and
 
-&emsp;(3) an estimate of the number of school-aged children, by State, who were members of a household receiving program benefits at any time in July, August, or September of theprior year who were not candidates for direct certification because on October 1 of the prior year the children attended a school operating under the special assistance provisions of section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) that is not operating in a base year.
+&emsp;(3) an estimate of the number of school-aged children, by State, who were members of a household receiving program benefits at any time in July, August, or September of the prior year who were not candidates for direct certification because on October 1 of the prior year the children attended a school operating under the special assistance provisions of section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1759a(a)(1)) that is not operating in a base year.
 
 #### (c) Performance innovations
 
@@ -22,7 +22,7 @@ The report of the Secretary shall describe best practices from States with the b
 
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 

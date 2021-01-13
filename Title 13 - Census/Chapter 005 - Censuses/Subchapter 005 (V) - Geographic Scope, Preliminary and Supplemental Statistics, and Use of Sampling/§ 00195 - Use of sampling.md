@@ -4,9 +4,13 @@ Except for the determination of population for purposes of apportionment of Repr
 
 (Added Pub. L. 85–207, §14, Aug. 28, 1957, 71 Stat. 484; amended Pub. L. 94–521, §10, Oct. 17, 1976, 90 Stat. 2464.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–521 substituted "for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible" for "for apportionment purposes, the Secretary may, where he deems it appropriate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

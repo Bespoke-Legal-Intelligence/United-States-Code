@@ -68,7 +68,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and use a simplified electronic version of the form tobe used by applicants meeting the requirements under subsection (b) or (c) of section 1087ss of this title.
+&emsp;&emsp;&emsp;The Secretary shall develop and use a simplified electronic version of the form to be used by applicants meeting the requirements under subsection (b) or (c) of section 1087ss of this title.
 
 #### (ii) Reduced data requirements
 
@@ -130,7 +130,7 @@
 
 #### (i) Reduction encouraged
 
-&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizationsinvolved in student financial assistance and consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
+&emsp;&emsp;&emsp;Of the number of data elements on the FAFSA used for the 2009–2010 award year, the Secretary, in cooperation with representatives of agencies and organizations involved in student financial assistance and consistent with efforts under subsection (c), shall continue to reduce the number of such data elements required to be entered by all applicants, with the goal of reducing such number by 50 percent.
 
 #### (ii) Report
 
@@ -248,7 +248,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(A) clearly inform each individual upon initial contact, including contact through the Internet or by telephone, that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
-&emsp;&emsp;(B) include in any advertising clear and conspicuous information that the FAFSA and EZ FAFSA are free forms that may becompleted without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
+&emsp;&emsp;(B) include in any advertising clear and conspicuous information that the FAFSA and EZ FAFSA are free forms that may be completed without professional assistance via paper or electronic version of the forms that are provided by the Secretary;
 
 &emsp;&emsp;(C) if advertising or providing any information on a website, or if providing services through a website, include on the website a link to the website that provides the electronic version of the forms developed under subsection (a); and
 
@@ -320,7 +320,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(A) information on the amount of the State's need-based student financial assistance available, and the eligibility criteria for receiving such assistance;
 
-&emsp;&emsp;(B) a commitment to make, not later than the year before the dependent students participating in the demonstration program plan to enroll in an institution of higher education, an estimate of the award of State financial aid to such dependent students;
+&emsp;&emsp;(B) a commitment to make, not later than the year before the dependent students participating in the demonstration program plan to enroll in an institution of highereducation, an estimate of the award of State financial aid to such dependent students;
 
 &emsp;&emsp;(C) a plan for recruiting institutions of higher education and secondary schools with different demographic characteristics to participate in the program;
 
@@ -444,7 +444,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;&emsp;(ii) to identify changes to the statutory need analysis formula that will be necessary to reduce the amount of financial information students and families need to provide to receive a determination of eligibility for student financial aid without causing significant redistribution of Federal grants and subsidized loans under this subchapter; and
 
-&emsp;&emsp;&emsp;(iii) to review State and institutional needs and uses for data collected on theFAFSA, and to determine the best means of addressing such needs in the case of modification of the FAFSA as described in clause (i), or modification of the need analysis formula as described in clause (ii).
+&emsp;&emsp;&emsp;(iii) to review State and institutional needs and uses for data collected on the FAFSA, and to determine the best means of addressing such needs in the case of modification of the FAFSA as described in clause (i), or modification of the need analysis formula as described in clause (ii).
 
 #### (D) Required subjects of study
 
@@ -510,7 +510,487 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;(2) additional information regarding the steps a student or family member may take in order to seek an adjustment under section 1087tt of this title.
 
-(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L. 111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073.)
+(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L.111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(m)(1), Dec. 27, 2020, 134 Stat. 3137, 3168, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+
+#### §1090. Free Application for Federal Student Aid
+
+#### <i>(a) Simplified application for Federal student financial aid</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Each individual seeking to apply for Federal financial aid under this subchapter for award year 2023–2024 and any subsequent award year shall file a free application with the Secretary, known as the "Free Application for Federal Student Aid", to determine eligibility for such aid, as described in paragraph (2), and in accordance with section 1087ss of this title.</i>
+
+#### <i>(2) Free application</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Secretary shall make available, for the purposes of paragraph (1), a free application to determine the eligibility of a student for Federal financial aid under this subchapter.</i>
+
+#### <i>(B) Information required by the applicant</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The applicant, and, if necessary, the parents or spouse of the applicant, shall provide the Secretary with the applicable information described in clause (ii) in order to be eligible for Federal financial aid under this subchapter.</i>
+
+#### <i>(ii) Information to be provided</i>
+
+&emsp;&emsp;&emsp;<i>The information described in this clause is the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) Name.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) Contact information, including address, phone number, email address, or other electronic address.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) Social security number.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) Date of birth.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) Marital status.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) Citizenship status, including alien registration number, if applicable.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VII) Sex.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VIII) Race or ethnicity, using categories developed in consultation with the Bureau of the Census and the Director of the Institute of Education Sciences that, to the greatest extent practicable, separately capture the racial groups specified in the American Community Survey of the Bureau of the Census.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IX) State of legal residence and date of residency.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(X) The following information on secondary school completion:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) Name and location of the high school from which the applicant received, or will receive prior to the period of enrollment for which aid is sought, a regular high school diploma;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) name and location of the entity from which the applicant received, or will receive prior to the period of enrollment for which aid is sought, a recognized equivalent of a regular high school diploma; or</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) if the applicant completed or will complete prior to the period of enrollment for which aid is sought, a secondary school education in a home school setting that is treated as a home school or private school under State law.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XI) Name of each institution where the applicant intends to apply for enrollment or continue enrollment.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XII) Year in school for period of enrollment for which aid is sought, including whether applicant will have finished first bachelor's degree prior to the period of enrollment for which aid is sought.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XIII) Whether one or both of the applicant's parents attended college.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XIV) Any required asset information, unless exempt under section 1087ss of this title, in which the applicant shall indicate—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the annual amount of child support received, if applicable; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) all required asset information not described in item (aa).</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XV) The number of members of the applicant's family who will also be enrolled in an eligible institution of higher education on at least a half-time basis during the same enrollment period as the applicant.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XVI) If the applicant meets any of the following designations:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) Is an unaccompanied homeless youth, or is unaccompanied, at risk of homelessness, and self-supporting.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) Is an emancipated minor.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) Is in legal guardianship.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) Has been a dependent ward of the court at any time since the applicant turned 13.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ee) Has been in foster care at any time since the applicant turned 13.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ff) Both parents have died since the applicant turned 13.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(gg) Is a veteran of the Armed Forces of the United States or is serving (on the date of the application) on active duty in the Armed Forces for other than training purposes.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(hh) Is under the age of 24 and has a dependent child or relative.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ii) Does not have access to parental information due to an unusual circumstance described in section 1087vv(d)(9) of this title.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XVII) If the applicant receives or has received any of the following means-tested Federal benefits within the last two years:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) The supplemental nutrition assistance program under the Food and Nutri</i><i>tion Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), or a supplemental nutrition assistance program carried out under section 1841(c) of title 48.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) The free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ee) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ff) The Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(gg) Federal housing assistance programs, including tenant-based assistance under section 1437f(o) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(hh) Refundable credit for coverage under a qualified health plan under section 36B of title 26.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ii) The Earned Income Tax Credit under section 32 of title 26.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(jj) Any other means-tested program determined by the Secretary to be appropriate.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XVIII) If the applicant, or, if necessary, the parents or spouse of the applicant, reported receiving tax exempt payments from an individual retirement plan (as defined in section 7701 of title 26) distribution or from pensions or annuities on a Federal tax return, information as to how much of the individual retirement plan distribution or pension or annuity disbursement was a qualified rollover.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XIX) If the applicant, or, if necessary, the parents or spouse of the applicant, reported receiving foreign income that is exempt from Federal taxation or for which a permanent resident of the United States or United States citizen receives a foreign tax credit, information regarding the amount of such foreign income.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(XX) If the applicant, or, if applicable, the parents or spouse of the applicant, elects to report receiving college grant and scholarship aid included in gross income on a Federal tax return described in section 1087vv(e)(2) of this title, information regarding the amount of such aid</i>
+
+#### <i>(iii) Prohibition against requesting information more than once</i>
+
+&emsp;&emsp;&emsp;<i>Any information requested during the process of creating an account for completing the free application under this subsection, shall, to the fullest extent possible, not be required a second time for the same award year, or in a duplicative manner, when completing such free application except in the case of an unusual situation, such as a temporary inability to access an account for completing such free application.</i>
+
+#### <i>(iv) Change in family size</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall provide a process by which an applicant shall confirm the accuracy of family size or update the family size with respect to such applicant for purposes of determining the need of such applicant for financial assistance under this subchapter based on a change in family size from the tax year data used for such determination.</i>
+
+#### <i>(v) Single question for homeless status</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall ensure that—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) on the form developed under this section for which the information is applicable, there is a single, easily understood screening question to identify an applicant who is an unaccompanied homeless youth or is unaccompanied, at risk of homelessness, and self-supporting; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) such question is distinct from those relating to an individual who does not have access to parental income due to an unusual circumstance.</i>
+
+#### <i>(vi) Adjustments</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall disclose on the FAFSA that the student may, on a case-by-case basis, qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the student's eligibility for a Federal Pell Grant or the student aid index for the student or parent.</i>
+
+#### <i>(C) Notification and approval of request for tax return information</i>
+
+&emsp;&emsp;<i>The Secretary shall notify students and borrowers who wish to submit an application for Federal student financial aid under this subchapter (as well as parents and spouses who must sign such an application or request or a Master Promissory Note on behalf of those students and borrowers) of the authority of the Secretary to require that such persons affirmatively approve that the Internal Revenue Service disclose their tax return information as described in section 1098h of this title.</i>
+
+#### <i>(D) Authorizations available to the applicant</i>
+
+#### <i>(i) Authorization to disclose FAFSA information, including a redisclosure of tax return information, to institution, State higher education agency, and designated scholarship organizations</i>
+
+&emsp;&emsp;&emsp;<i>An applicant and, if necessary, the parents or spouse of the applicant shall provide the Secretary with authorization to disclose to an institution, State higher education agency, and scholarship organizations (designated (prior to December 19, 2019) by the Secretary under subsection (a)(3)(E)) as in effect on such date, as specified by the applicant and in accordance with section 1098h of this title, in order for the applicant's eligibility for Federal financial aid programs, State financial aid programs, institutional financial aid programs, and scholarship programs at scholarship organizations (designated (prior to December 19, 2019) by the Secretary under subsection (a)(3)(E)) as in effect on such date, to be determined, the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) Information described under section 6103(l)(13) of title 26.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) All information provided by the applicant on the application described by this subsection to determine the applicant's eligibility for Federal financial aid under this subchapter and for the application, award, and administration of such Federal financial aid, except the name of an institution to which an applicant selects to redisclose information shall not be disclosed to any other institution.</i>
+
+#### <i>(ii) Authorization to disclose to benefits programs</i>
+
+&emsp;&emsp;&emsp;<i>An applicant and, if necessary, the parents or spouse of the applicant may provide the Secretary with authorization to disclose to applicable agencies that handle applications for means-tested Federal benefit programs, as defined in section 1087ss(b)(4)(H) of this title, all information provided by the applicant on the application described by this subsection as well as such applicant's student aid index and scheduled Federal Pell Grant award to assist in identification, outreach and application efforts for the application, award, and administration of such means-tested Federal benefits programs, except such information shall not include Federal tax information as specified in section 6103(l)(13)(C) of title 26.</i>
+
+#### <i>(E) Action by the Secretary</i>
+
+&emsp;&emsp;<i>Upon receiving—</i>
+
+&emsp;&emsp;&emsp;<i>(i) an application under this section, the Secretary shall, as soon as practicable, perform the necessary functions with the Commissioner of Internal Revenue to calculate the applicant's student aid index and scheduled award for a Federal Pell Grant, if applicable, assuming full-time enrollment for an academic year, and note to the applicant the assumptions relationship to the scheduled award; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) an authorization under subparagraph (D), the Secretary shall, as soon as practicable, disclose the information described under such subparagraph, as specified by the applicant, in order for the applicant's eligibility for Federal, State, or institutional student financial aid programs or means-tested Federal benefit programs to be estimated or determined.</i>
+
+#### <i>(F) Work study wages</i>
+
+&emsp;&emsp;<i>With respect to an applicant who has received income earned from work under part C of this subchapter, the Secretary shall take the steps necessary to collect information on the amount of such income for the purposes of calculating such applicant's student aid index and scheduled award for a Federal Pell Grant, if applicable, without adding additional questions to the FAFSA, including by collecting such information from institutions of higher education participating in work-study programs under part C of this subchapter.</i>
+
+#### <i>(3) Information to be supplied by the Secretary of Education</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Upon receiving and timely processing a free application that contains the information described in paragraph (2), the Secretary shall provide to the applicant the following information based on full-time attendance for an academic year:</i>
+
+&emsp;&emsp;&emsp;<i>(i) The estimated dollar amount of a Federal Pell Grant scheduled award for which the applicant is eligible for such award year.</i>
+
+&emsp;&emsp;&emsp;<i>(ii) Information on other types of Federal financial aid for which the applicant may be eligible (including situations in which the applicant could qualify for 150 percent of a scheduled Federal Pell Grant award and loans made under this subchapter) and how the applicant can find additional information regarding such aid.</i>
+
+&emsp;&emsp;&emsp;<i>(iii) Consumer-tested information regarding each institution selected by the applicant in accordance with paragraph (2)(B)(ii)(XI), which may include the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) The following information, as collected through the Integrated Postsecondary Education Data System or a successor Federal data system as designated by the Secretary:</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) Net price by the income categories, as described under section 1015a(i)(6) of this title, and disaggregated by undergraduate and graduate programs, as applicable.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) Graduation rate.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) Retention rate.</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) Transfer rate, if available.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) Median debt of students upon completion.</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) Institutional default rate, as calculated under section 1085 of this title.</i>
+
+&emsp;&emsp;&emsp;<i>(iv) If the student is eligible for a student aid index of less than or equal to zero under section 1087mm of this title, a notification of the Federal means-tested benefits that they have not already indicated they receive, but for which they may be eligible, and relevant links and information on how to apply for such benefits.</i>
+
+&emsp;&emsp;&emsp;<i>(v) Information on education tax benefits described in paragraphs (1) and (2) of section 25A(a) of title 26 or other applicable education tax benefits determined in consultation with the Secretary of the Treasury.</i>
+
+&emsp;&emsp;&emsp;<i>(vi) If the individual identified as a veteran, or as serving (on the date of the application) on active duty in the Armed Forces for other than training purposes, information on benefits administered by the Department of Veteran Affairs or Department of Defense, respectively.</i>
+
+&emsp;&emsp;&emsp;<i>(vii) If applicable, the applicant's current outstanding balance of loans under this subchapter.</i>
+
+#### <i>(B) Information provided to the State</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>The Secretary shall redisclose, with authorization from the applicant in accordance with paragraph (2)(D)(i), to a State higher education agency administering State-based financial aid and serving the applicant's State of residence, the information described under section 6103(l)(13) of title 26 and information described in paragraph (2)(B) for the application, award, and administration of grants and other student financial aid provided directly</i><i>from the State to be determined by such State. Such information shall include the list of institutions provided by the applicant on the application.</i>
+
+#### <i>(ii) Use of information</i>
+
+&emsp;&emsp;&emsp;<i>A State agency administering State-based financial aid—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) shall use the information provided under clause (i) solely for the application, award, and administration of State-based financial aid for which the applicant is eligible;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) may use the information, except for the information described under section 6103(l)(13) of title 26, for State agency research that does not release any individually identifiable information on any applicant to promote college attendance, persistence, and completion;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) may use identifying information provided by student applicants on the FAFSA to determine whether or not a graduating secondary student has filed the application in coordination with local educational agencies or secondary schools to encourage students to complete the application; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) may share the application information, excluding the information described under section 6103(l)(13) of title 26, with any other entity, only if such applicant provides explicit written consent of the applicant, except as provided in subclause (III).</i>
+
+#### <i>(iii) Limitation on consent process</i>
+
+&emsp;&emsp;&emsp;<i>A State may provide a consent process whereby an applicant may elect to share the information described in clause (i), except for the information described in section 6103(l)(13) of title 26, through explicit written consent to Federal, State, or local government agencies or tribal organizations to assist such applicant in applying for and receiving Federal, State, or local government assistance, or tribal assistance for any component of the applicant's cost of attendance that may include financial assistance or non-monetary assistance.</i>
+
+#### <i>(iv) Prohibition</i>
+
+&emsp;&emsp;&emsp;<i>Any entity that receives applicant information under clause (iii) shall not sell, share, or otherwise use applicant information other than for the purposes outlined in clause (iii).</i>
+
+#### <i>(C) Use of information provided to the institution</i>
+
+&emsp;&emsp;<i>An institution—</i>
+
+&emsp;&emsp;&emsp;<i>(i) shall use the information provided to it solely for the application, award, and administration of financial aid to the applicant;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) may use the information provided, excluding the information described under section 6013(l)(13) of title 26, for research that does not release any individually identifiable information on any applicant, to promote college attendance, persistence, and completion; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) shall not share such educational record information with any other entity without the explicit written consent of the applicant.</i>
+
+#### <i>(D) Prohibition</i>
+
+&emsp;&emsp;<i>Any entity that receives applicant information under subparagraph (C)(iii) shall not sell, share, or otherwise use applicant information other than for the purposes outlined in subparagraph (C).</i>
+
+#### <i>(E) FAFSA information that includes tax return information</i>
+
+&emsp;&emsp;<i>An applicant's FAFSA information that includes return or return information as described in section 6103(l)(13) of title 26 may be disclosed or redisclosed (which shall include obtaining, sharing, or discussing such information) only in accordance with the procedures described in section 1098h of this title.</i>
+
+#### <i>(4) Development of form and information exchange</i>
+
+&emsp;<i>Prior to the design of the free application under this subsection, the Secretary shall, to the maximum extent practicable, on an annual basis—</i>
+
+&emsp;&emsp;<i>(A) consult with stakeholders to gather information about innovations and technology available to—</i>
+
+&emsp;&emsp;&emsp;<i>(i) ensure an efficient and effective process;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) mitigate unintended consequences; and</i>
+
+&emsp;&emsp;&emsp;<i>(iii) determine the best practices for outreach to students and families during the transition to the streamlined process for the determination of Federal financial aid and Federal Pell Grant eligibility while reducing the data burden on applicants and families; and</i>
+
+&emsp;&emsp;<i>(B) solicit public comments for the format of the free application that provides for adequate time to incorporate feedback prior to development of the application for the succeeding award year.</i>
+
+#### <i>(5) No additional information requests permitted</i>
+
+&emsp;<i>In carrying out this subsection, the Secretary may not require additional information to be submitted by an applicant (or the parents or spouse of an applicant) for Federal financial aid through other requirements or reporting, except as required under a process or procedure exercised in accordance with the authority under section 1087tt of this title.</i>
+
+#### <i>(6) State-run programs</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Secretary shall conduct outreach to States in order to research the benefits to students of States relying solely on the student aid index, scheduled Pell Grant Award, or the financial data made available, upon authorization by the applicant, as a result of an application for aid under this subsection for determining the eligibility of the applicant for State provided financial aid.</i>
+
+#### <i>(B) Secretarial review</i>
+
+&emsp;&emsp;<i>If a State determines that there is a need for additional data elements beyond those provided pursuant to this subsection for determining the eligibility of an applicant for State provided financial aid, the State shall forward a list of those additional data elements determined necessary, but not provided by virtue of the application under this subsection, to the Secretary. The Secretary shall make readily available to</i><i>the public through the Department's websites and other means—</i>
+
+&emsp;&emsp;&emsp;<i>(i) a list of States that do not require additional financial information separate from the Free Application for Federal Student Aid and do not require asset information from students who qualify for the exemption from asset reporting under section 1087ss of this title for the purposes of awarding State scholarships and grant aid;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) a list of States that require asset information from students who qualify for the exemption from asset reporting under section 1087ss of this title for the purposes of awarding State scholarships and grant aid;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) a list of States that have indicated that they require additional financial information separate from the Free Application for Federal Student Aid for purposes of awarding State scholarships and grant aid; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) with the publication of the lists under this subparagraph, information about additional resources available to applicants, including links to such State websites.</i>
+
+#### <i>(7) Institution-run financial aid</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Secretary shall conduct outreach to institutions of higher education to describe the benefits to students of relying solely on the student aid index, scheduled Pell Grant Award, or the financial data made available, upon authorization for release by the applicant, as a result of an application for aid under this subsection for determining the eligibility of the applicant for institutional financial aid. The Secretary shall make readily available to the public through its websites and other means—</i>
+
+&emsp;&emsp;&emsp;<i>(i) a list of institutions that do not require additional financial information separate from the Free Application for Federal Student Aid and do not require asset information from students who qualify for the exemption from asset reporting under section 1087ss of this title for the purpose of awarding institution-run financial aid;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) a list of institutions that require asset information from students who qualify for the exemption from asset reporting under section 1087ss of this title for the purpose of awarding institution-run financial aid;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) a list of institutions that require additional financial information separate from the Free Application for Federal Student Aid for the purpose of awarding institution-run financial aid; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) with the publication of the list in clause (iii), information about additional resources available to applicants.</i>
+
+#### <i>(8) Security of data</i>
+
+&emsp;<i>The Secretary shall, in consultation with the Secretary of the Treasury—</i>
+
+&emsp;&emsp;<i>(A) take all necessary steps to safeguard the data required to be transmitted for the purpose of this section between Federal agencies and to States and institutions of higher education and secure the transmittal of such data;</i>
+
+&emsp;&emsp;<i>(B) provide guidance to States and institutions of higher education regarding their obligation to ensure the security of the data provided under this section and section 6103 of title 26; and</i>
+
+&emsp;&emsp;<i>(C) provide guidance on the implementation of section 6103 of title 26, including how it intersects with the provisions of section 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974"), and any additional consent processes that may be available to applicants in accordance with title 26 regarding sharing of Federal tax information.</i>
+
+#### <i>(9) Report to Congress</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Not later than 1 year after December 27, 2020, the Secretary shall report to the authorizing committees on the progress of the Secretary in carrying out this subsection, including planning and stakeholder consultation. Such report shall include—</i>
+
+&emsp;&emsp;&emsp;<i>(i) benchmarks for implementation;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) entities and organizations that the Secretary consulted;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) system requirements for such implementation and how they will be addressed;</i>
+
+&emsp;&emsp;&emsp;<i>(iv) any areas of concern and potential problem issues uncovered that may hamper such implementation; and</i>
+
+&emsp;&emsp;&emsp;<i>(v) solutions determined to address such issues.</i>
+
+#### <i>(B) Updates</i>
+
+&emsp;&emsp;<i>The Secretary shall provide updates to the authorizing committees—</i>
+
+&emsp;&emsp;&emsp;<i>(i) as to the progress and planning described in subparagraph (A) prior to implementation of the revisions to the Free Application for Federal Student Aid under this subsection not less often than quarterly; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) at least 6 months and 1 year after implementation of the revisions to the Free Application for Federal Student Aid.</i>
+
+#### <i>(b) Adjustments and improvements</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The Secretary shall disclose in a consumer-tested format, upon completion of the Free Application for Federal Student Aid under this section, that the student may, on a case-by-case basis, qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the Federal Pell Grant or the need analysis for the student or parent. Such disclosure shall specify—</i>
+
+&emsp;&emsp;<i>(A) examples of the special circumstances under which a student or family member may qualify for such adjustment or determination of independence; and</i>
+
+&emsp;&emsp;<i>(B) additional information regarding the steps a student or family member may take in order to seek an adjustment under section 1087tt of this title.</i>
+
+#### <i>(2) Consumer testing</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>Not later than 9 months after December 27, 2020, the Secretary shall begin consumer testing the design of the Free Application for Federal Student Aid under this section with prospective first-generation college students, representatives of students (including low-income students,</i><i>English learners, first-generation college students, adult students, veterans, servicemembers, and prospective students), students' families (including low-income families, families with English learners, families with first-generation college students, and families with prospective students), institutions of higher education, secondary school and postsecondary counselors, and nonprofit consumer groups.</i>
+
+#### <i>(B) Updates</i>
+
+&emsp;&emsp;<i>For award year 2023–2024 and at least each fourth succeeding award year thereafter, the Secretary shall update the design of the Free Application for Federal Student Aid based on additional consumer testing with the populations described in subparagraph (A) in order to improve the usability and accessibility of the application.</i>
+
+#### <i>(3) Accessibility of the FAFSA</i>
+
+&emsp;<i>The Secretary shall—</i>
+
+&emsp;&emsp;<i>(A) in conjunction with the Bureau of the Census, determine the most common languages spoken by English learner students and their parents in the United States;</i>
+
+&emsp;&emsp;<i>(B) develop and make publicly available versions of the Free Application for Federal Student Aid form in not fewer than 11 of the most common languages determined under subparagraph (A) and make such versions available and accessible to applicants in paper and electronic formats; and</i>
+
+&emsp;&emsp;<i>(C) ensure that the Free Application for Federal Student Aid is available in formats accessible to individuals with disabilities and compliant with the most recent Web Content Accessibility Guidelines, or successor guidelines.</i>
+
+#### <i>(4) Reapplication in a succeeding academic year</i>
+
+&emsp;<i>In order to streamline an applicant's experience in applying for financial aid, the Secretary shall allow an applicant who electronically applies for financial assistance under this subchapter for an academic year subsequent to an academic year for which such applicant applied for financial assistance under this subchapter to automatically electronically import all of the applicant's (including parents', guardians', or spouses', as applicable) identifying, demographic, and school data from the previous application and to update such information to reflect any circumstances that have changed.</i>
+
+#### <i>(5) Technology accessibility</i>
+
+&emsp;<i>The Secretary shall make the application under this section available through prevalent technology. Such technology shall, at a minimum, enable applicants to—</i>
+
+&emsp;&emsp;<i>(A) save data; and</i>
+
+&emsp;&emsp;<i>(B) submit the application under this subchapter to the Secretary through such technology.</i>
+
+#### <i>(6) Verification burden</i>
+
+&emsp;<i>The Secretary shall—</i>
+
+&emsp;&emsp;<i>(A) to the maximum extent practicable, streamline and simplify the process of verification for applicants for Federal financial aid;</i>
+
+&emsp;&emsp;<i>(B) in establishing policies and procedures to verify applicants' eligibility for Federal financial aid, consider—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the burden placed on low-income applicants;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the risk to low-income applicants of failing to complete the application, enroll in college, or complete a postsecondary credential as a result of being selected for verification;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) the effectiveness of the policies and procedures in preventing overpayments; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) the reasons for the source of any improper payments; and</i>
+
+&emsp;&emsp;<i>(C) issue a public report not less often than annually that includes the number and percentage of applicants subject to verification, whether the applicants ultimately received Federal financial aid disbursements, the extent to which the student aid index changed for such applicants as a result of verification, and the extent to which such applicants' eligibility for Federal financial aid under this subchapter changed.</i>
+
+#### <i>(7) Studies</i>
+
+&emsp;<i>The Secretary shall periodically conduct studies on—</i>
+
+&emsp;&emsp;<i>(A) whether the Free Application for Federal Student Aid is a barrier to college enrollment by examining—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the effect of States requiring additional information specified in clauses (ii) and (iii) of subsection (a)(6)(B) on the determination of State financial aid awards, including—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) how much financial aid awards would change if the additional information were not required; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the number of students who started but did not finish the Free Application for Federal Student Aid, compared to the baseline year of 2021; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the number of students who—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) started a Free Application for Federal Student Aid but did not receive financial assistance under this subchapter for the applicable academic year; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) if available, did not enroll in an institution of higher education in the applicable academic year;</i>
+
+&emsp;&emsp;<i>(B) the most common barriers faced by applicants in completing the Free Application for Federal Student Aid; and</i>
+
+&emsp;&emsp;<i>(C) the most common reasons that students and families do not fill out the Free Applications for Federal Student Aid.</i>
+
+#### <i>(c) Data and information</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The Secretary shall publish data in a publicly accessible manner—</i>
+
+&emsp;&emsp;<i>(A) annually on the total number of Free Applications for Federal Student Aid submitted by application cycle, disaggregated by demographic characteristics, type of institution or institutions of higher education to which the applicant applied, the applicant's State of legal residence, and high school and public school district;</i>
+
+&emsp;&emsp;<i>(B) quarterly on the total number of Free Applications for Federal Student Aid submitted by application cycle, disaggregated by type of institution or institutions of higher education to which the applicant applied, the applicant's State of legal residence, and high school and public school district;</i>
+
+&emsp;&emsp;<i>(C) weekly on the total number of Free Applications for Federal Student Aid submitted, disaggregated by high school and public school district; and</i>
+
+&emsp;&emsp;<i>(D) annually on the number of individuals who apply for federal financial aid pursuant to this section who indicated that they are—</i>
+
+&emsp;&emsp;&emsp;<i>(i) an unaccompanied homeless youth or unaccompanied, at risk of homelessness, and self-supporting; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) a foster care youth.</i>
+
+#### <i>(2) Contents</i>
+
+&emsp;<i>The data described in paragraph (1)(D) with respect to homeless youth shall include, at a minimum, for each application cycle—</i>
+
+&emsp;&emsp;<i>(A) the total number of all applicants who were determined to be individuals described in section 1087vv(d)(8) of this title; and</i>
+
+&emsp;&emsp;<i>(B) the number of applicants described in subparagraph (A), disaggregated—</i>
+
+&emsp;&emsp;&emsp;<i>(i) by State; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) by the sources of determination as described in section 1087uu–2(b) of this title.</i>
+
+#### <i>(3) Data sharing</i>
+
+&emsp;<i>The Secretary may enter into data sharing agreements with the appropriate Federal or State agencies to conduct outreach regarding, and connect applicants directly with, the means-tested Federal benefit programs described in subsection (a)(2)(B)(ii)(XVII) for which the applicants may be eligible.</i>
+
+#### <i>(d) Ensuring form usability</i>
+
+#### <i>(1) Signature</i>
+
+&emsp;<i>Notwithstanding any other provision of this subchapter, the Secretary may permit the Free Application for Federal Student Aid to be submitted without a signature, if a signature is subsequently submitted by the applicant, or if the applicant uses an access device provided by the Secretary.</i>
+
+#### <i>(2) Free preparation authorized</i>
+
+&emsp;<i>Notwithstanding any other provision of this subchapter, an applicant may use a preparer for consultative or preparation services for the completion of the Free Application for Federal Student Aid without charging a fee to the applicant if the preparer—</i>
+
+&emsp;&emsp;<i>(A) includes, at the time the application is submitted to the Department, the name, address or employer's address, social security number or employer identification number, and organizational affiliation of the preparer on the applicant's form;</i>
+
+&emsp;&emsp;<i>(B) is subject to the same penalties as an applicant for purposely giving false or misleading information in the application;</i>
+
+&emsp;&emsp;<i>(C) clearly informs each individual upon initial contact, that the Free Application for Federal Student Aid is a free form that may be completed without professional assistance; and</i>
+
+&emsp;&emsp;<i>(D) does not produce, use, or disseminate any other form for the purpose of applying for Federal financial aid other than the Free Application for Federal Student Aid developed by the Secretary under this section.</i>
+
+#### <i>(3) Charges to students and parents for use of forms prohibited</i>
+
+&emsp;<i>The need for and eligibility of a student for financial assistance under this subchapter may be determined only by using the Free Application for Federal Student Aid developed by the Secretary under this section. Such application shall be produced, distributed, and processed by the Secretary, and no parent or student shall be charged a fee by the Secretary, a contractor, a third-party servicer or private software provider, or any other public or private entity for the collection, processing, or delivery of Federal financial aid through the use of such application. No data collected on a form for which a fee is charged shall be used to complete the Free Application for Federal Student Aid prescribed under this section, except that a Federal or State income tax form prepared by a paid income tax preparer or preparer service for the primary purpose of filing a Federal or State income tax return may be used to complete the Free Application for Federal Student Aid prescribed under this section.</i>
+
+#### <i>(4) Application processing cycle</i>
+
+&emsp;<i>The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than January 1 of the applicant's planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant's planned year of enrollment.</i>
+
+#### <i>(5) Early estimates</i>
+
+&emsp;<i>The Secretary shall maintain an electronic method for applicants to enter income and family size information to calculate a non-binding estimate of the applicant's Federal financial aid available under this subchapter and shall place such calculator on a prominent location at the beginning of the Free Application for Federal Student Aid.</i>
+
+#### <i>(6) Additional forms</i>
+
+&emsp;<i>Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -518,13 +998,15 @@ A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–3
 
 #### Amendments
 
+<b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to forms and regulations.
+
 <b>2010</b>—Subsec. (e)(3)(A)(ii). Pub. L. 111–152 substituted "based on the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible at the time of application" for "based on the maximum Federal Pell Grant award at the time of application".
 
 <b>2009</b>—Subsec. (a)(3)(C). Pub. L. 111–39, §407(b)(3)(A), inserted "that" after "except".
 
 Subsec. (e)(8)(A). Pub. L. 111–39, §407(b)(3)(B), substituted "determine" for "identify".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7), which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents' social security numbers and birth dates.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7),which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents' social security numbers and birth dates.
 
 Subsec. (b). Pub. L. 110–315, §483(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to streamlined reapplication process.
 
@@ -592,6 +1074,10 @@ Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted "not less than 5" for "no
 
 Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pub. L. 111–152, set out as a note under section 1070a of this title.
@@ -617,6 +1103,10 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see section 407(b) of Pub. L. 99–498, set out as a note under section 1091 of this title.
+
+#### Reports
+
+Pub. L. 116–260, div. FF, title VII, §702(m)(2), Dec. 27, 2020, 134 Stat. 3182, provided that: "Notwithstanding section 701(b) of this title \[set out as an Effective Date of 2020 Amendment note under section 1001 of this title\], the Secretary of Education shall have the authority to issue reports and begin consumer testing prior to July 1, 2023, as provided in the amendment made by paragraph (1) \[amending this section\]."
 
 #### Identification of Foster Youth on FAFSA
 

@@ -62,7 +62,7 @@ Upon request of the securities commissioner (or any agency or officer performing
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686,54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Pub. L. 104–290, title III, §307, Oct. 11, 1996, 110 Stat. 3440, provided tha
 
 "(a)
 
-Preservation of Filing Requirements.—Nothing in this title \[see Short Title of 1996 Amendmentnote set out under section 80b–20 of this title\] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
+Preservation of Filing Requirements.—Nothing in this title \[see Short Title of 1996 Amendment note set out under section 80b–20 of this title\] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
 
 "(b)
 

@@ -4,9 +4,13 @@ The district courts shall have original jurisdiction of any civil action brought
 
 (Added Pub. L. 95–572, §6(b)(1), Nov. 2, 1978, 92 Stat. 2457.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1363 was renumbered section 1366 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

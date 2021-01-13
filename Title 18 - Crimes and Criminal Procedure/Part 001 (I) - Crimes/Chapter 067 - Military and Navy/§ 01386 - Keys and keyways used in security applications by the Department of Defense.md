@@ -6,7 +6,7 @@
 
 &emsp;(A) knowingly and unlawfully makes, forges, or counterfeits any key, knowing that such key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment; or
 
-&emsp;(B) knowing that any lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment, possesses any such lock or key with the intent to unlawfully or improperly use, sell, or otherwise dispose of such lock or key or cause the same to be unlawfully or improperly used, sold, or otherwise disposed of,
+&emsp;(B) knowing that any lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment, possesses any such lock or key with the intent to unlawfully or improperly use, sell, or otherwise dispose of such lock orkey or cause the same to be unlawfully or improperly used, sold, or otherwise disposed of,
 
 > shall be punished as provided in subsection (b).
 

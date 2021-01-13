@@ -36,7 +36,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;&emsp;&emsp;(ii) apportion any sums collected on such a loan, less an amount not to exceed 30 percent of any sums collected to cover the Secretary's collection costs, among other institutions in accordance with section 1087bb of this title; or
 
-&emsp;&emsp;(B) if the institution is not one described in subparagraph (A), the Secretary may allow such institution to refer such note or agreement to the Secretary, without recompense, except that, once every six months, any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution and treated as an additional capital contribution under section 1087bb of this title;
+&emsp;&emsp;(B) if the institution is not one described in subparagraph (A), the Secretary mayallow such institution to refer such note or agreement to the Secretary, without recompense, except that, once every six months, any sums collected on such a loan (less an amount not to exceed 30 percent of any such sums collected to cover the Secretary's collection costs) shall be repaid to such institution and treated as an additional capital contribution under section 1087bb of this title;
 
 &emsp;(5) provide that, if an institution of higher education determines not to service and collect student loans made available from funds under this part, the institution will assign, at the beginning of the repayment period, notes or evidence of obligations of student loans made from such funds to the Secretary and the Secretary shall apportion any sums collected on such notes or obligations (less an amount not to exceed 30 percent of any such sums collected to cover that Secretary's collection costs) among other institutions in accordance with section 1087bb of this title;
 
@@ -148,7 +148,7 @@ Subsec. (c)(3)(A), (B). Pub. L. 105–244, §463(b)(3)(B), struck out subpars. (
 
 "(B) 7 years from the date the Secretary first reports the account to a consumer reporting agency."
 
-Subsec. (c)(4). Pub. L. 105–244, §463(b)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall disclose at least annually to any credit bureau organization with which the Secretary has such an agreement—
+Subsec. (c)(4). Pub. L. 105–244, §463(b)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Each institution of higher education, after consultation with the Secretary and pursuant to the agreements entered into under paragraph (1), shall discloseat least annually to any credit bureau organization with which the Secretary has such an agreement—
 
 &emsp;"(A) the amount of loans made to any borrower under this part at the time of the disbursement of the loan; and
 

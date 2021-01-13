@@ -5,7 +5,7 @@
 | [341\.](%C2%A7%2000341%20-%20Department%20of%20Defense%20State%20Partnership%20Program.md) | Department of Defense State Partnership Program. |
 | [342\.](%C2%A7%2000342%20-%20Regional%20Centers%20for%20Security%20Studies.md) | Regional Centers for Security Studies. |
 | [343\.](%C2%A7%2000343%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
-| [344\.](%C2%A7%2000344%20-%20Participation%20in%20multinational%20military%20centers%20of%20excellence.md) | Participation in multinational military centers of excellence. |
+| [344\.](%C2%A7%2000344%20-%20Participation%20in%20multinational%20centers%20of%20excellence.md) | Participation in multinational centers of excellence. |
 | [345\.](%C2%A7%2000345%20-%20Regional%20Defense%20Combating%20Terrorism%20and%20Irregular%20Warfare%20Fellowship%20Program.md) | Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program. |
 | [346\.](%C2%A7%2000346%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
 | [347\.](%C2%A7%2000347%20-%20International%20engagement%20authorities%20for%20service%20academies.md) | International engagement authorities for service academies. |
@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after item 350.
 
@@ -81,7 +83,7 @@ Comptroller General of the United States Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Comptroller General of the United States shall submit to the appropriate committees of Congress a report that sets forth the following:
+In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 12, 2017\], theComptroller General of the United States shall submit to the appropriate committees of Congress a report that sets forth the following:
 
 &emsp;&emsp;"(A) A description of the mechanisms and authorities used by the Department of Defense and the Department of State to conduct training of foreign security forces on human rights and international humanitarian law.
 
@@ -109,7 +111,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 - [&sect; 00341 - Department of Defense State Partnership Program](%C2%A7%2000341%20-%20Department%20of%20Defense%20State%20Partnership%20Program.md)
 - [&sect; 00342 - Regional Centers for Security Studies](%C2%A7%2000342%20-%20Regional%20Centers%20for%20Security%20Studies.md)
 - [&sect; 00343 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2000343%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)
-- [&sect; 00344 - Participation in multinational military centers of excellence](%C2%A7%2000344%20-%20Participation%20in%20multinational%20military%20centers%20of%20excellence.md)
+- [&sect; 00344 - Participation in multinational centers of excellence](%C2%A7%2000344%20-%20Participation%20in%20multinational%20centers%20of%20excellence.md)
 - [&sect; 00345 - Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program](%C2%A7%2000345%20-%20Regional%20Defense%20Combating%20Terrorism%20and%20Irregular%20Warfare%20Fellowship%20Program.md)
 - [&sect; 00346 - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2000346%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)
 - [&sect; 00347 - International engagement authorities for service academies](%C2%A7%2000347%20-%20International%20engagement%20authorities%20for%20service%20academies.md)

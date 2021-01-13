@@ -9,13 +9,17 @@
 | [905\.](%C2%A7%2000905%20-%20Reserve%20officers%20of%20the%20Navy%20or%20Marine%20Corps%20not%20on%20the%20active-duty%20list%20effective%20date%20of%20pay%20and%20allowances.md) | Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances. |
 | [906\.](%C2%A7%2000906%20-%20Extension%20of%20enlistment%20effect%20on%20pay%20and%20allowances.md) | Extension of enlistment: effect on pay and allowances. |
 | [907\.](%C2%A7%2000907%20-%20Enlisted%20members%20and%20warrant%20officers%20appointed%20as%20officers%20pay%20and%20allowances%20stabilized.md) | Enlisted members and warrant officers appointed as officers: pay and allowances stabilized. |
-| [908\.](%C2%A7%2000908%20-%20Employment%20of%20reserves%20and%20retired%20members%20by%20foreign%20governments.md) | Employment of reserves and retired members by foreign governments. |
+| [908\.](%C2%A7%2000908%20-%20Reserves%20and%20retired%20members%20acceptance%20of%20employment%2C%20payments%2C%20and%20awards%20from%20foreign%20governments.md) | Reserves and retired members: acceptance of employment, payments, and awards from foreign governments. |
 | [909\.](%C2%A7%2000909%20-%20Special%20and%20incentive%20pay%20payment%20at%20unreduced%20rates%20during%20suspension%20of%20personnel%20laws.md) | Special and incentive pay: payment at unreduced rates during suspension of personnel laws. |
 | [910\.](%C2%A7%2000910%20-%20Replacement%20of%20lost%20income%20involuntarily%20mobilized%20reserve%20component%20members%20subject%20to%20extended%20and%20frequent%20active%20duty%20service.md) | Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VI, §641(c)(2), Jan. 1, 2021, 134 Stat. 3684, substituted "Reserves and retired members: acceptance of employment, payments, and awards from foreign governments" for "Employment of reserves and retired members by foreign governments" in item 908.
 
 <b>2006</b>—Pub. L. 109–163, div. A, title VI, §614(b), Jan. 6, 2006, 119 Stat. 3293, added item 910.
 
@@ -43,6 +47,6 @@ Pub. L. 96–343, §6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted "and warr
 - [&sect; 00905 - Reserve officers of the Navy or Marine Corps not on the active-duty list effective date of pay and allowances](%C2%A7%2000905%20-%20Reserve%20officers%20of%20the%20Navy%20or%20Marine%20Corps%20not%20on%20the%20active-duty%20list%20effective%20date%20of%20pay%20and%20allowances.md)
 - [&sect; 00906 - Extension of enlistment effect on pay and allowances](%C2%A7%2000906%20-%20Extension%20of%20enlistment%20effect%20on%20pay%20and%20allowances.md)
 - [&sect; 00907 - Enlisted members and warrant officers appointed as officers pay and allowances stabilized](%C2%A7%2000907%20-%20Enlisted%20members%20and%20warrant%20officers%20appointed%20as%20officers%20pay%20and%20allowances%20stabilized.md)
-- [&sect; 00908 - Employment of reserves and retired members by foreign governments](%C2%A7%2000908%20-%20Employment%20of%20reserves%20and%20retired%20members%20by%20foreign%20governments.md)
+- [&sect; 00908 - Reserves and retired members acceptance of employment, payments, and awards from foreign governments](%C2%A7%2000908%20-%20Reserves%20and%20retired%20members%20acceptance%20of%20employment%2C%20payments%2C%20and%20awards%20from%20foreign%20governments.md)
 - [&sect; 00909 - Special and incentive pay payment at unreduced rates during suspension of personnel laws](%C2%A7%2000909%20-%20Special%20and%20incentive%20pay%20payment%20at%20unreduced%20rates%20during%20suspension%20of%20personnel%20laws.md)
 - [&sect; 00910 - Replacement of lost income involuntarily mobilized reserve component members subject to extended and frequent active duty service](%C2%A7%2000910%20-%20Replacement%20of%20lost%20income%20involuntarily%20mobilized%20reserve%20component%20members%20subject%20to%20extended%20and%20frequent%20active%20duty%20service.md)

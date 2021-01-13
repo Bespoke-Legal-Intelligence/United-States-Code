@@ -4,6 +4,8 @@ Upon revocation of a withdrawal for highways, telephone lines, or pipelines, in 
 
 (Aug. 1, 1956, ch. 848, §1, 70 Stat. 898.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was formerly classified to section 420 of Title 48, Territories and Insular Possessions.

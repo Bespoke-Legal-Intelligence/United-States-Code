@@ -88,7 +88,7 @@ Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: "This Ac
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapterIII of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
+Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapter III of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -119,6 +119,60 @@ Pub. L. 101–610, title I, §199, formerly §120, Nov. 16, 1990, 104 Stat. 3140
 Pub. L. 101–610, title I, subtitle D (§§140–150), §140, Nov. 16, 1990, 104 Stat. 3150, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the "National and Community Service Act", was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
 Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as "The Points of Light Foundation Act", was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
+
+#### Provisions Related to the Corporation for National and Community Service
+
+Pub. L. 116–136, div. A, title III, §3514, Mar. 27, 2020, 134 Stat. 405, as amended by Pub. L. 116–159, div. A, §156(d)(1), Oct. 1, 2020, 134 Stat. 721, provided that:
+
+"(a)
+
+Accrual of Service Hours.—
+
+&emsp;"(1)
+
+Accrual through other service hours.—
+
+&emsp;&emsp;"(A)
+
+In general.—Notwithstanding any other provision of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.) or the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.), the Corporation for National and Community Service shall allow an individual described in subparagraph (B) to accrue other service hours that will count toward the number of hours needed for the individual's education award.
+
+&emsp;&emsp;"(B)
+
+Affected individuals.—Subparagraph (A) shall apply to any individual serving in a position eligible for an educational award under subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.)—
+
+&emsp;&emsp;&emsp;"(i) who is performing limited service due to COVID–19; or
+
+&emsp;&emsp;&emsp;"(ii) whose position has been suspended or placed on hold due to COVID–19.
+
+&emsp;"(2)
+
+Provisions in case of early exit.—In any case where an individual serving in a position eligible for an educational award under subtitle D of title I of the National and Community Service Act of 1990 (42 U.S.C. 12601 et seq.) was required to exit the position early at the direction of the Corporation for National and Community Service, the Chief Executive Officer of the Corporation for National and Community Service may—
+
+&emsp;&emsp;"(A) deem such individual as having met the requirements of the position; and
+
+&emsp;&emsp;"(B) award the individual the full value of the educational award under such subtitle for which the individual would otherwise have been eligible.
+
+"\[(b) Repealed. Pub. L. 116–159, div. A, §156(d)(1), Oct. 1, 2020, 134 Stat. 721.\]
+
+"(c)
+
+No Required Return of Grant Funds.—Notwithstanding section 129(l)(3)(A)(i) of the National and Community Service Act of 1990 (42 U.S.C. 12581(l)(3)(A)(i)), the Chief Executive Officer of the Corporation for National and Community Service may permit fixed-amount grant recipients under such section 129(l) to maintain a pro rata amount of grant funds, at the discretion of the Corporation for National and Community Service, for participants who exited, were suspended, or are serving in a limited capacity due to COVID–19, to enable the grant recipients to maintain operations and to accept participants.
+
+"(d)
+
+Extension of Terms and Age Limits.—Notwithstanding any other provision of law, the Corporation for National and Community Service may extend the term of service (for a period not to exceed the 1-year period immediately following the end of the national emergency) or waive any upper age limit (except in no case shall the maximum age exceed 26 years of age) for national service programs carried out by the National Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), and the participants in such programs, for the purposes of—
+
+&emsp;"(1) addressing disruptions due to COVID–19; and
+
+&emsp;"(2) minimizing the difficulty in returning to full operation due to COVID–19 on such programs and participants."
+
+\[Pub. L. 116–159, div. A, §156(d)(1), Oct. 1, 2020, 134 Stat. 721, provided that: "Section 3514(b) of title III of division A of Public Law 116–136 \[formerly set out above\] is hereby repealed, and such section shall be applied hereafter as if such subsection had never been enacted."\]
+
+\[Pub. L. 116–159, div. A, §156(e), Oct. 1, 2020, 134 Stat. 721, provided that:
+
+&emsp;\["(1) This section \[amending section 3514 of Pub. L. 116–136, set out above\] shall become effective immediately upon enactment of this Act \[div. A of Pub. L. 116–159, approved Oct. 1, 2020\].
+
+&emsp;\["(2) If this Act is enacted after September 30, 2020, this section shall be applied as if it were in effect on September 30, 2020."\]
 
 #### Compliance With Buy American Act
 
@@ -240,7 +294,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 (b) "National and community service programs" means those programs authorized under the national service laws;
 
-(c) "Policies governing programs authorized under the national service laws" refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National andCommunity Service (Corporation) and have significant effects on national and community service programs; and
+(c) "Policies governing programs authorized under the national service laws" refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
 
 (d) "Professional corps programs" means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)) \[see 42 U.S.C. 12572(c)(1)(D)\].
 
@@ -310,7 +364,7 @@ Service has always been integral to the American identity. Our country was built
 
 Since its creation 20 years ago, the Corporation for National and Community Service (CNCS) has been the Federal agency charged with leading and expanding national service. The Edward M. Kennedy Serve America Act of 2009 (SAA) expanded CNCS's authority to create opportunities for more Americans to serve. This landmark, bipartisan legislation focuses national service on six areas: emergency and disaster services; economic opportunity; education; environmental stewardship; healthy futures; and veterans and military families. The SAA provides greater opportunities for CNCS to partner with other executive departments and agencies (agencies) and with the private sector to utilize national service to address these critical areas.
 
-National service and volunteering can be effective solutions to national challenges and can have positive and lasting impacts that reach beyond the immediate service experience. Americans engaged in nationalservice make an intensive commitment to tackle unmet national and local needs by working through non-profit, faith-based, and community organizations. Service can help Americans gain valuable skills, pursue higher education, and jumpstart their careers, which can provide immediate and long-term benefits to those individuals, as well as the communities in which they serve.
+National service and volunteering can be effective solutions to national challenges and can have positive and lasting impacts that reach beyond the immediate service experience. Americans engaged in national service make an intensive commitment to tackle unmet national and local needs by working through non-profit, faith-based, and community organizations. Service can help Americans gain valuable skills, pursue higher education, and jumpstart their careers, which can provide immediate and long-term benefits to those individuals, as well as the communities in which they serve.
 
 Americans are ready and willing to serve. Applications from Americans seeking to engage in national service programs far exceed the number of available positions. By creating new partnerships between agencies and CNCS that expand national service opportunities in areas aligned with agency missions, we can utilize the American spirit of service to improve lives and communities, expand economic and educational opportunities, enhance agencies' capacity to achieve their missions, efficiently use tax dollars, help individuals develop skills that will enable them to prepare for long-term careers, and build a pipeline to employment inside and outside the Federal Government.
 

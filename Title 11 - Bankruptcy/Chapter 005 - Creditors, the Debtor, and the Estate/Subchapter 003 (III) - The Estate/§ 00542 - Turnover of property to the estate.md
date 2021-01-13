@@ -34,11 +34,15 @@ Subsection (d) protects life insurance companies that are required by contract t
 
 Subsection (e) requires an attorney, accountant, or other professional that holds recorded information relating to the debtor's property or financial affairs, to surrender it to the trustee. This duty is subject to any applicable claim of privilege, such as attorney-client privilege. It is a new provision that deprives accountants and attorneys of the leverage that they have today, under State law lien provisions, to receive payment in full ahead of other creditors when the information they hold is necessary to the administration of the estate.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–394 substituted "to" for "to to" after "financial affairs,".
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–353 inserted "to turn over or" before "disclose".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

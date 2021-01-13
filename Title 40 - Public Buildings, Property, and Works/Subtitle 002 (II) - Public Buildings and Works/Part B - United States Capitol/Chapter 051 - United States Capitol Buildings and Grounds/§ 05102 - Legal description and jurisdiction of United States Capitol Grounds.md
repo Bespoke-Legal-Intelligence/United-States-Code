@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds.Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -80,7 +80,9 @@ Historical and Revision Notes
 
 July 31, 1946, ch. 707, §1, 60 Stat. 718; Pub. L. 90–108, §1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, §739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, §2, Oct. 10, 1980, 94 Stat. 1852.
 
-In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
+In subsection (b)(2), the words "Mayor of the District of Columbia" are substituted for "Commissioners of the District of Columbia" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner of the District of Columbia" because of section 401 of Reorganization Plan No. 3 of1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words "Washington Avenue Southwest" are substituted for "Canal Street S. W." and "Canal Street Southwest" because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in 
 <b>2007</b>—Subsec. (d). Pub. L. 110–161, §1004(d)(2)(A)(ii), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–7 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -186,7 +190,7 @@ In general.—Administrative jurisdiction over each of the following properties 
 
 &emsp;&emsp;"(D) Unimproved streets and alleys at Fort Circle Park located within the boundaries of U.S. Reservation 497 (National Park Service property).
 
-&emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, that abuts U.S. Reservation 339 (National Park Service property).
+&emsp;&emsp;"(E) An unimproved portion of Western Avenue Northwest, north of Oregon Avenue Northwest, thatabuts U.S. Reservation 339 (National Park Service property).
 
 &emsp;&emsp;"(F) An unimproved portion of 17th Street Northwest, south of Shepherd Street Northwest, that abuts U.S. Reservation 339 (National Park Service property).
 
@@ -224,7 +228,7 @@ Retention of jurisdiction over subsurface area.—The District of Columbia shall
 
 "(b)
 
-Transfer of Administrative Jurisdiction From United States to District of Columbia.—Administrative jurisdiction over the following property owned bythe United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
+Transfer of Administrative Jurisdiction From United States to District of Columbia.—Administrative jurisdiction over the following property owned by the United States and depicted on the Map is hereby transferred from the Secretary to the District of Columbia for administration by the District of Columbia:
 
 &emsp;"(1) A portion of U.S. Reservation 451.
 
@@ -296,7 +300,7 @@ Study.—The Architect of the Capitol shall not construct a mail screening facil
 
 #### "SEC. 404. NO EFFECT ON COMPLIANCE WITH ENVIRONMENTAL LAWS.
 
-"Nothing in this Act or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
+"Nothing in this Act or any amendment made by this Act may be construed to affect or limit the applicationof or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
 
 #### "SEC. 405. CONGRESSIONAL REPORTS.
 
@@ -558,6 +562,8 @@ Sec. 10. Any contract entered into pursuant to this Act or pursuant to any amend
 
 Pub. L. 85–429, May 29, 1958, 72 Stat. 148 and Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495, in part authorized the Architect of the Capitol to acquire certain real property for additions to United States Capitol Grounds.
 
+#### <b>Other Legislative Documents</b>
+
 #### Order of the House Office Building Commission
 
 #### October 17, 1967
@@ -588,7 +594,7 @@ WHEREAS, the aforesaid Additional House Office Building Act provides, in pertine
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 
-&nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
+&nbsp;1. The Rayburn House Office Building, the subway connecting such building to the Capitol Building, the pedestrian tunnels connecting such building to the Longworth House Office Building, the underground garages in Squares 637 and 691 and the tunnels connecting these garages to the House Office Buildings, are hereby declared to be House Office Buildings and, as such, are hereby made subject to those provisions of the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments tosuch Act, which are applicable to the Capitol Buildings, and to the Act of Mar. 4, 1907 (40 U.S.C. 175) \[now 2 U.S.C. 2001\].
 
 &nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 

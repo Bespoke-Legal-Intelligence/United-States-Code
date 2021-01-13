@@ -16,7 +16,7 @@ The annual Federal response plan developed by the Department shall be consistent
 
 #### (3) Potential public health emergency
 
-&emsp;In cases involving, or potentially involving, a public health emergency, but in which no determination of an emergency by the Secretaryof Health and Human Services under section 319(a) of the Public Health Service Act (42 U.S.C. 247d(a)), has been made, all relevant agencies, including the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation, shall keep the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention fully and currently informed.
+&emsp;In cases involving, or potentially involving, a public health emergency, but in which no determination of an emergency by the Secretary of Health and Human Services under section 319(a) of the Public Health Service Act (42 U.S.C. 247d(a)), has been made, all relevant agencies, including the Department of Homeland Security, the Department of Justice, and the Federal Bureau of Investigation, shall keep the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention fully and currently informed.
 
 (Pub. L. 107–296, title VIII, §887, Nov. 25, 2002, 116 Stat. 2248.)
 

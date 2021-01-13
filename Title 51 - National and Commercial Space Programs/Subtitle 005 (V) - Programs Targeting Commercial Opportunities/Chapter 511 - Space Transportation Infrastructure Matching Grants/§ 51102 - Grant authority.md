@@ -36,6 +36,8 @@ Nov. 4, 1992, Pub. L. 102–588, §505(b) (1st sentence), (f), 106 Stat. 5125, 5
 
 In subsection (a), the words "of the United States" are substituted for "Nation's" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70302 of title 49 and section 70302 of this title as this section.

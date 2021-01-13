@@ -16,9 +16,9 @@ Maximum Amount.—The amount of hazardous duty pay paid to a member under subsec
 
 &emsp;(1) In the case of a member who performs duty in a designated hostile fire area, as described in subsection (a)(1), hazardous duty pay may not exceed $450 per month.
 
-&emsp;(2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $250 per month.
+&emsp;(2) In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $275 per month.
 
-&emsp;(3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $250 per month.
+&emsp;(3) In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $275 per month.
 
 (c)
 
@@ -34,11 +34,17 @@ Proration.—If a member does not satisfy the eligibility requirements specified
 
 &emsp;&emsp;(A) in the case of hazardous duty pay payable under paragraph (1) of subsection (a), the Secretary concerned—
 
-&emsp;&emsp;&emsp;(i) shall prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
+&emsp;&emsp;&emsp;(i) may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a member who is exposed to hostile fire or an explosion of a hostile explosive device in or for a day or portion of a day, may, at the election of the Secretary, pay the member hazardous duty pay in an amount not to exceed the entire amount of hazardous duty pay that would be payable to the member under such paragraph (1) for the month in which the duty concerned occurs (with the total amount of hazardous duty pay paid the member under this clause in any given month not to exceed such entire amount); and
 
-&emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
+&emsp;&emsp;(B) in the case of hazardous duty pay payable under paragraph (2) of subsection (a), the Secretary concerned—
+
+&emsp;&emsp;&emsp;(i) may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month; and
+
+&emsp;&emsp;&emsp;(ii) in the case of member <sup>1</sup> who performs hazardous duty specifically designated by the Secretary concerned, shall pay the member hazardous duty pay in an amount not to exceed the maximum amount of hazardous duty pay that would be payable to the member under subsection (b)(2) for the entire month, regardless of the duration of the qualifying service.
+
+&emsp;&emsp;(C) In the case of hazardous duty pay payable under paragraph (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.
 
 (d)
 
@@ -66,11 +72,23 @@ Prohibition on Variable Rates.—The regulations prescribed to administer this s
 
 (h)
 
-Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2020.
+Termination of Authority.—No hazardous duty pay under this section may be paid after December 31, 2021.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450, 1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(7), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(7), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(7), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(7), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(6), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(6), Dec. 20, 2019, 133 Stat. 1426.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 172; amended Pub. L. 110–417, \[div. A\], title VI, §618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §§614(6), 618(b), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(6), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §§614(6), 616(b), Dec. 31, 2011, 125 Stat. 1450,1451; Pub. L. 112–239, div. A, title VI, §614(6), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(6), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(7), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(7), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(7), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §614(7), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(6), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(6), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §§611(d)(6), 613, 614, Jan. 1, 2021, 134 Stat. 3673, 3674.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2), (3). Pub. L. 116–283, §613, substituted "$275" for "$250".
+
+Subsec. (c)(2)(A)(i). Pub. L. 116–283, §614(1)(A), substituted "may prorate" for "shall prorate".
+
+Subsec. (c)(2)(B). Pub. L. 116–283, §614(1)(B), (C), substituted "paragraph (2)" for "paragraph (2) or (3)", "the Secretary concerned—" for "the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month.", and added cls. (i) and (ii).
+
+Subsec. (c)(2)(C). Pub. L. 116–283, §614(1)(C), added subpar. (C).
+
+Subsec. (h). Pub. L. 116–283, §§611(d)(6), 614(2), made identical amendments, substituting "December 31, 2021" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (h). Pub. L. 116–92 substituted "December 31, 2020" for "December 31, 2019".
 
@@ -103,4 +121,6 @@ Pub. L. 111–84, §614(6), substituted "December 31, 2010" for "December 31, 20
 <b>2008</b>—Subsec. (c). Pub. L. 110–417, §618(d), substituted "paragraph (1) or (3) of subsection (a)" for "subsection (a)".
 
 Subsec. (f). Pub. L. 110–417, §618(e), substituted "in connection with determining whether a triggering event has occurred for the provision of hazardous duty pay under subsection (a)(1)" for "in administering subsection (a)" and struck out at end "The regulations prescribed to administer this section shall define the activities that are considered hazardous for purposes of subsection (a)(2)."
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "a".</i>
 

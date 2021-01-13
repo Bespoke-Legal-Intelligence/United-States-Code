@@ -1,8 +1,8 @@
 ### §906. Extension of enlistment: effect on pay and allowances
 
-A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
+A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as thecase may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 90–235, §2(c), Jan. 2, 1968, 81 Stat. 757.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 90–235, §2(c), Jan. 2, 1968, 81 Stat. 757; Pub. L. 116–283, div. A, title IX, §925(j), Jan. 1, 2021, 134 Stat. 3829.)
 
 Historical and Revision Notes
 
@@ -32,9 +32,15 @@ Historical and Revision Notes
 
 In subsection (a), the words "who extends his enlistment" are substituted for the words "While serving under an enlistment extended". The words "same pay and allowances as though he had reenlisted" are substituted for the last 31 words of section 3263(b) of title 10 and the last 31 words of section 8263(b) of title 10.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283 inserted "Space Force," after "Marine Corps,".
+
 <b>1968</b>—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) which provided that a member of the Army or Air Force who had extended his enlistment was entitled to the same pay as though he had reenlisted, redesignated as entire section provisions formerly set out as subsec. (b) and substituted "Army, Navy, Air Force, Marine Corps, or Coast Guard" for "Regular Navy or the Regular Marine Corps" and "section 509 of title 10" for "section 5539 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

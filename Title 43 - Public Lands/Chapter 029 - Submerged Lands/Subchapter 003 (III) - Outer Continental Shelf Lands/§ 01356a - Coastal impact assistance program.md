@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faitheffort to develop and submit, or update, a plan in accordance with subsection (c).
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
 
 #### (c) Coastal impact assistance plan
 
@@ -256,7 +256,7 @@ In this section:
 
 #### (A) Additional information
 
-&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is included in a plan previously approved undersubsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
+&emsp;&emsp;If the Secretary approves a project for funding under this subsection that is included in a plan previously approved under subsection (c), not later than 90 days after the date of the funding approval, the producing State or coastal political subdivision shall submit to the Secretary any additional information that the Secretary determines to be necessary to ensure that the project is in compliance with subsection (d).
 
 #### (B) Amendment to plan
 
@@ -267,6 +267,8 @@ In this section:
 &emsp;&emsp;If a producing State or coastal political subdivision does not submit the additional information or amendments to the plan required by this paragraph, or if, based on the information submitted by the Secretary determines that the project is not in compliance with subsection (d), by the deadlines specified in this paragraph, the Secretary shall not disburse any additional funds to the producing State or the coastal political subdivisions until the date on which the additional information or amendment to the plan has been approved by the Secretary.
 
 (Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

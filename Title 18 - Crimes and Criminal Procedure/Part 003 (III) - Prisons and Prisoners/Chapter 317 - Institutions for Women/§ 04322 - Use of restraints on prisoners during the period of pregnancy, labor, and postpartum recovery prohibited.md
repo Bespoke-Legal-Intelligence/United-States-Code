@@ -72,7 +72,7 @@ In general.—Not later than 1 year after the date of enactment of this section,
 
 &emsp;&emsp;(B)
 
-Personally identifiable information.—The report under this paragraph shall not contain any personally identifiable information of any prisoner.
+Personally identifiable information.—The report under this paragraph shallnot contain any personally identifiable information of any prisoner.
 
 (d)
 
@@ -121,6 +121,8 @@ Prisoner.—The term "prisoner" means a person who has been sentenced to a term 
 Restraints.—The term "restraints" means any physical or mechanical device used to control the movement of a prisoner's body, limbs, or both.
 
 (Added Pub. L. 115–391, title III, §301(a), Dec. 21, 2018, 132 Stat. 5217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

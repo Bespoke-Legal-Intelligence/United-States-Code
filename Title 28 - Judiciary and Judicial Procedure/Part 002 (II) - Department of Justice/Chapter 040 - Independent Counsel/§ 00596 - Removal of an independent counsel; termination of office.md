@@ -10,11 +10,11 @@ Grounds for removal.—An independent counsel appointed under this chapter may b
 
 &emsp;(2)
 
-Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the court and the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undueinterference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
+Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the court and the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
 
 &emsp;(3)
 
-Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action. The independent counsel may be reinstated or granted other appropriate relief by order of the court.
+Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action.The independent counsel may be reinstated or granted other appropriate relief by order of the court.
 
 (b)
 
@@ -44,6 +44,8 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, §402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–270, §5, substituted "physical or mental disability (if not prohibited by law protecting persons from discrimination on the basis of such a disability)," for "physical disability, mental incapacity".
@@ -64,15 +66,17 @@ Subsec. (a)(1). Pub. L. 97–409, §§2(a)(1), 6(d), substituted "independent co
 
 Subsecs. (a)(2), (3), (b). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee onOversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
-Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, with transition provisions directing that determinations by the division of the court contained in last sentence of subsec. (b)(2) of this section shall, for the office of an independent counsel appointed before June 30, 1994, be required no later than 1 year after June 30, 1994, and at end of each succeeding 1-year period, and transition provisions relating to reporting requirements established or modified by Pub. L. 103–270, see section 7(a), (f), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
+Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, orafter June 30, 1994, with transition provisions directing that determinations by the division of the court contained in last sentence of subsec. (b)(2) of this section shall, for the office of an independent counsel appointed before June 30, 1994, be required no later than 1 year after June 30, 1994, and at end of each succeeding 1-year period, and transition provisions relating to reporting requirements established or modified by Pub. L. 103–270, see section 7(a), (f), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
 
 #### Effective Date of 1987 Amendment
 

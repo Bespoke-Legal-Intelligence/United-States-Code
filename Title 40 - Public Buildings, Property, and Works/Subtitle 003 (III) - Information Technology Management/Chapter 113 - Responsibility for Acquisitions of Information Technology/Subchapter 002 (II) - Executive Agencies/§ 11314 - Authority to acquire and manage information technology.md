@@ -34,9 +34,13 @@ Pub. L. 104–106, div. E, title LI, §5124, Feb. 10, 1996, 110 Stat. 684.
 
 In subsection (b), the words "Notwithstanding any other provision of this or any other law" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–232 substituted "products" for "items" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

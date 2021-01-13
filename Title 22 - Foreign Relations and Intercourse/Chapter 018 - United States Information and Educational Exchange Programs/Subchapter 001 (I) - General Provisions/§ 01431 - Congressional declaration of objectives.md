@@ -8,9 +8,13 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 (Jan. 27, 1948, ch. 36, title I, §2, 62 Stat. 6; Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–256 repealed par. (2) which authorized an educational exchange service to cooperate with other nations in the interchange of persons, knowledge, and skills, in the rendering of technical and other services, and in the interchange of developments in the field of education, the arts, and sciences. See section 2451 et seq. of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Chapter
 
@@ -76,7 +80,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(A) Freedom of speech and freedom of the press are fundamental human rights.
 
-&emsp;&emsp;"(B) The United States has a national interest in promoting these freedoms by supporting free media abroad, which is essential to the development of free and democratic societies consistent with our own.
+&emsp;&emsp;"(B) The United States has a national interest in promoting these freedoms by supporting free media abroad, which is essential to the development offree and democratic societies consistent with our own.
 
 &emsp;&emsp;"(C) Free media is undermined, endangered, or nonexistent in many repressive and transitional societies around the world, including in Eurasia, Africa, and the Middle East.
 

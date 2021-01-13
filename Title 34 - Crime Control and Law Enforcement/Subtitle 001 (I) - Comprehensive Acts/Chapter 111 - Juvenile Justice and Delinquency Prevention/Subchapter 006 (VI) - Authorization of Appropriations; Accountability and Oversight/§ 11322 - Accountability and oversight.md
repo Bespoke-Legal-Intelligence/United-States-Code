@@ -38,7 +38,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 &emsp;&emsp;&emsp;&emsp;(II) changes are necessary in the authorizing statutes of the agency in order that the functions of the agency can be performed in a more efficient and effective manner; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the agency has implemented recommendations issued by the Comptroller General or Office of Inspector General relating to the grant making and grantmonitoring responsibilities of the agency.
+&emsp;&emsp;&emsp;&emsp;(III) the agency has implemented recommendations issued by the Comptroller General or Office of Inspector General relating to the grant making and grant monitoring responsibilities of the agency.
 
 #### (iii) Considerations for audits
 
@@ -102,7 +102,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (C) Public availability on website
 
-&emsp;&emsp;The Attorney General shall make the summary of each review conducted under this section available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
+&emsp;&emsp;The Attorney General shall make the summary of each review conducted under thissection available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
 
 #### (D) Mandatory exclusion
 
@@ -114,7 +114,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (F) Reimbursement
 
-&emsp;&emsp;If a State or an Indian Tribe is awarded a grant under this chapter (excluding subchapter IV) during the 2-fiscal-year period in which the recipient is barred from receivinggrants under subparagraph (D), the Attorney General shall—
+&emsp;&emsp;If a State or an Indian Tribe is awarded a grant under this chapter (excluding subchapter IV) during the 2-fiscal-year period in which the recipient is barred from receiving grants under subparagraph (D), the Attorney General shall—
 
 &emsp;&emsp;&emsp;(i) deposit an amount equal to the amount of the grant funds that were improperly awarded to the grantee into the general fund of the Treasury; and
 
@@ -222,11 +222,15 @@ The Administrator shall comply with the Generally Accepted Government Auditing S
 
 (Pub. L. 93–415, title VI, §602, as added Pub. L. 115–385, title IV, §402(a), Dec. 21, 2018, 132 Stat. 5154.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
 The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

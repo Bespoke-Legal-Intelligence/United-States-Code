@@ -62,11 +62,15 @@ Consultation.—In establishing the data standards under subsection (a), the Sec
 
 (Added Pub. L. 116–103, §4(a), Dec. 30, 2019, 133 Stat. 3268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 116–103, which was approved Dec. 30, 2019.
 
 The Federal Funding Accountability and Transparency Act of 2006, referred to in subsecs. (c)(5) and (d)(1), is Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, which is set out as a note under section 6101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Consolidation of Assistance-Related Information; Publication of Public Information as Open Data
 

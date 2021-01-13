@@ -1,6 +1,6 @@
 ### §3420. Grand jury information; notification of certain persons prohibited
 
-(a) Financial records about a customer obtained from a financial institution pursuant to asubpena issued under the authority of a Federal grand jury—
+(a) Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
 
 &emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
 
@@ -12,7 +12,7 @@
 
 (b)(1) No officer, director, partner, employee, or shareholder of, or agent or attorney for, a financial institution shall, directly or indirectly, notify any person named in a grand jury subpoena served on such institution in connection with an investigation relating to a possible—
 
-&emsp;(A) crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act \[21 U.S.C. 801 et seq.\], the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\], section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of title 26; or
+&emsp;(A) crime against any financial institution or supervisory agency or crime involving a violation of the Controlled Substance Act \[21 U.S.C. 801 et seq.\], the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\], section 1956, 1957, or 1960 of title 18, sections 5313, 5316, 5322, 5324, 5331, and 5332 of title 31, or section 6050I of title 26; or
 
 &emsp;(B) conspiracy to commit such a crime,
 
@@ -20,7 +20,9 @@
 
 (2) Section 1818 of this title and section 1786(k)(2) of this title shall apply to any violation of this subsection.
 
-(Pub. L. 95–630, title XI, §1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, §6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, §1532, Oct. 28, 1992, 106 Stat. 4066; Pub. L. 107–56, title III, §358(f)(3), Oct. 26, 2001, 115 Stat. 327.)
+(Pub. L. 95–630, title XI, §1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, §6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, §1532, Oct. 28, 1992, 106 Stat. 4066; Pub. L. 107–56, title III, §358(f)(3), Oct. 26, 2001, 115 Stat. 327; Pub. L. 116–283, div. F, title LXIII, §6308(d), Jan. 1, 2021, 134 Stat. 4594.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,6 +34,8 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(1)(A). Pub. L. 116–283 substituted ", 1957, or 1960 of title 18" for "or 1957 of title 18" and ", 5322, 5324, 5331, and 5332 of title 31" for "and 5324 of title 31".
+
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–56 inserted ", or for a purpose authorized by section 3412(a) of this title" before semicolon at end.
 
 <b>1992</b>—Subsec. (b)(1)(A). Pub. L. 102–550 inserted before semicolon "or crime involving a violation of the Controlled Substance Act, the Controlled Substances Import and Export Act, section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of title 26".
@@ -39,6 +43,8 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 <b>1989</b>—Pub. L. 101–73 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1988</b>—Par. (1). Pub. L. 100–690 inserted "unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records." before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

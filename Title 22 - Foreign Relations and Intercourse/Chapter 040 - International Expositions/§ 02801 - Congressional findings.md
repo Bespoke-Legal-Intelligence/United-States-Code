@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(a) international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, under appropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
+&emsp;(a) international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, underappropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
 
 &emsp;(b) in view of the widely varying circumstances under which international expositions have developed in the United States, the different degrees to which the Federal Government has assisted and participated in such expositions, and the increasing number of proposals for future expositions, the national interest requires that Federal action concerning such expositions be given orderly consideration; and
 

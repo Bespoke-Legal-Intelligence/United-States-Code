@@ -16,9 +16,9 @@
 
 (b)(1) For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war—
 
-&emsp;(A) a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
+&emsp;(A) a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
 
-&emsp;(B) if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+&emsp;(B) if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, air, or space service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
 
 (2) The diseases specified in this paragraph are the following:
 
@@ -62,7 +62,7 @@
 
 &emsp;(M) Stroke and its complications.
 
-(c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
+(c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during a period of such service.
 
 (2) The diseases referred to in paragraph (1) of this subsection are the following:
 
@@ -124,13 +124,19 @@
 
 (4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 (42 U.S.C. 2210 note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, titleI, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, §401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, §106, Oct. 10, 2008, 122 Stat. 4149.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656; Pub. L. 108–454, title III, §§302(a), 306(a), (b), Dec. 10, 2004, 118 Stat. 3610, 3612; Pub. L. 109–233, title IV, §401, June 15, 2006, 120 Stat. 407; Pub. L. 110–389, title I, §106, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 116–283, div. A, title IX, §926(a)(8), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under section 2210 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service" in subpars. (A) and (B).
+
+Subsec. (c)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2008</b>—Subsec. (b)(2)(F). Pub. L. 110–389 added subpar. (F).
 
@@ -226,6 +232,8 @@ Pub. L. 98–223, §101(c), substituted "percent" for "per centum" in provision 
 
 Pub. L. 86–187 substituted "three years" for "two years" in par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–454, title III, §302(c), Dec. 10, 2004, 118 Stat. 3610, provided that: "Paragraph (4) of section 1112(c) of title 38, United States Code, as added by subsection (a), shall take effect with respect to compensation payments for months beginning after March 26, 2002. Subsection (c) of section 1310 of such title, as added by subsection (b), shall take effect with respect to dependency and indemnity compensation payments for months beginning after March 26, 2002."
@@ -238,11 +246,11 @@ Pub. L. 102–578, §2(b), Oct. 30, 1992, 106 Stat. 4774, provided that: "The am
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–86, title I, §104(b), Aug. 14, 1991, 105 Stat. 415, provided that: "No benefit may be paid by reasonof the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\]."
+Pub. L. 102–86, title I, §104(b), Aug. 14, 1991, 105 Stat. 415, provided that: "No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\]."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–321, §2(b), May 20, 1988, 102 Stat. 486, provided that: "Subsection (c) of section 312 \[now 1112\] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988."
+Pub. L. 100–321, §2(b), May 20, 1988, 102 Stat. 486, provided that: "Subsection (c) of section 312 \[now 1112\] oftitle 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988."
 
 #### Effective Date of 1986 Amendment
 

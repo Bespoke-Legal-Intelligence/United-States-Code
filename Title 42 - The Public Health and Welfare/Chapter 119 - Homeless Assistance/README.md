@@ -116,7 +116,7 @@
 | [11386f.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011386f%20-%20Geographic%20areas.md) | Geographic areas. |
 | [11387\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011387%20-%20Regulations.md) | Regulations. |
 | [11388\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011388%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
-| [11389\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011389%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9322%2C%20div.%20B%2C%20title%20III%2C%20%C2%A71305%281%29%2C%20May%2020%2C%202009%2C%20123%20Stat.%201690.md) | Repealed. |
+| [11389\.](Subchapter%20004%20%28IV%29%20-%20Housing%20Assistance/Part%20C%20-%20Continuum%20of%20Care%20Program/%C2%A7%2011389%20-%20Indian%20tribes%20and%20tribally%20designated%20housing%20entities.md) | Indian tribes and tribally designated housing entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

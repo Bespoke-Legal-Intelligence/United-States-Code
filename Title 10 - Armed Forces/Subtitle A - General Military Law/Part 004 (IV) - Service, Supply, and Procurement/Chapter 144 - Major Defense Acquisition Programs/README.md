@@ -16,14 +16,20 @@
 | [2437\.](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md) | Development of major defense acquisition programs: sustainment of system to be replaced. |
 | [2438\.](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md) | Performance assessments and root cause analyses. |
 | [2439\.](%C2%A7%2002439%20-%20Negotiation%20of%20price%20for%20technical%20data%20before%20development%2C%20production%2C%20or%20sustainment%20of%20major%20weapon%20systems.md) | Negotiation of price for technical data before development, production, or sustainment of major weapon systems. |
-| [2440\.](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md) | Technology and industrial base plans. |
+| [2440\.](%C2%A7%2002440%20-%20National%20technology%20and%20industrial%20base%20plans%2C%20policy%2C%20and%20guidance.md) | National technology and industrial base plans, policy, and guidance. |
 | [2441\.](%C2%A7%2002441%20-%20Sustainment%20reviews.md) | Sustainment reviews. |
 | [2442\.](%C2%A7%2002442%20-%20Prohibition%20on%20use%20of%20lowest%20price%20technically%20acceptable%20source%20selection%20process.md) | Prohibition on use of lowest price technically acceptable source selection process. |
 | [2443\.](%C2%A7%2002443%20-%20Sustainment%20factors%20in%20weapon%20system%20design.md) | Sustainment factors in weapon system design. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Chapter
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title VIII, §846(b)(2), Jan. 1, 2021, 134 Stat. 3768, added item 2440 and struck out former item 2440 "Technology and industrial base plans".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(49), Dec. 20, 2019, 133 Stat. 1815, amended item 2439 generally. Prior to amendment, item 2439 read as follows: "Negotiation of price for technical data before development or production of major weapon systems.".
 
@@ -61,6 +67,10 @@ Pub. L. 99–500, §101(c) \[title X, §§904(a)(2), 905(a)(2), 906(a)(2)\], Oct
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
 
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 
 ---
 
@@ -80,7 +90,7 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02437 - Development of major defense acquisition programs sustainment of system to be replaced](%C2%A7%2002437%20-%20Development%20of%20major%20defense%20acquisition%20programs%20sustainment%20of%20system%20to%20be%20replaced.md)
 - [&sect; 02438 - Performance assessments and root cause analyses](%C2%A7%2002438%20-%20Performance%20assessments%20and%20root%20cause%20analyses.md)
 - [&sect; 02439 - Negotiation of price for technical data before development, production, or sustainment of major weapon systems](%C2%A7%2002439%20-%20Negotiation%20of%20price%20for%20technical%20data%20before%20development%2C%20production%2C%20or%20sustainment%20of%20major%20weapon%20systems.md)
-- [&sect; 02440 - Technology and industrial base plans](%C2%A7%2002440%20-%20Technology%20and%20industrial%20base%20plans.md)
+- [&sect; 02440 - National technology and industrial base plans, policy, and guidance](%C2%A7%2002440%20-%20National%20technology%20and%20industrial%20base%20plans%2C%20policy%2C%20and%20guidance.md)
 - [&sect; 02441 - Sustainment reviews](%C2%A7%2002441%20-%20Sustainment%20reviews.md)
 - [&sect; 02442 - Prohibition on use of lowest price technically acceptable source selection process](%C2%A7%2002442%20-%20Prohibition%20on%20use%20of%20lowest%20price%20technically%20acceptable%20source%20selection%20process.md)
 - [&sect; 02443 - Sustainment factors in weapon system design](%C2%A7%2002443%20-%20Sustainment%20factors%20in%20weapon%20system%20design.md)

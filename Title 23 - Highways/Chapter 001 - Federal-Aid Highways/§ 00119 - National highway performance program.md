@@ -142,7 +142,7 @@ Performance achievement.—A State that does not achieve or make significant pro
 
 &emsp;(8)
 
-Process.—Not later than 18 months after the date of enactment of the MAP–21, the Secretary shall, by regulation and in consultationwith State departments of transportation, establish the process to develop the State asset management plan described in paragraph (1).
+Process.—Not later than 18 months after the date of enactment of the MAP–21, the Secretary shall, by regulation and in consultation with State departments of transportation, establish the process to develop the State asset management plan described in paragraph (1).
 
 (f)
 
@@ -218,7 +218,7 @@ Preference.—At the discretion of the project sponsor, preference shall be give
 
 (h)
 
-TIFIA Program.—Upon Secretarial approval of credit assistance under chapter 6, theSecretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+TIFIA Program.—Upon Secretarial approval of credit assistance under chapter 6, the Secretary, at the request of a State, may allow the State to use funds apportioned under section 104(b)(1) to pay subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
 
 (i)
 
@@ -250,6 +250,8 @@ Risk reduction.—A State may use funds apportioned under this section for proje
 
 (Added Pub. L. 95–599, title I, §116(a), Nov. 6, 1978, 92 Stat. 2698; amended Pub. L. 96–106, §18, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–134, §§6, 7, Dec. 29, 1981, 95 Stat. 1701; Pub. L. 97–424, title I, §116(a)(1), (2), (b), (c), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(b), Mar. 9, 1984, 98 Stat. 56; Pub. L. 99–190, §101(e) \[title III, §327\], Dec. 19, 1985, 99 Stat. 1267, 1289; Pub. L. 100–17, title I, §116(a)–(c)(1), Apr. 2, 1987, 101 Stat. 154, 155; Pub. L. 100–202, §101(l) \[title III, §347(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 102–240, title I, §1009(a), (b), (e)(1), (3)–(5), Dec. 18, 1991, 105 Stat. 1933, 1934; Pub. L. 105–178, title I, §1107(a), (d), June 9, 1998, 112 Stat. 137; Pub. L. 105–206, title IX, §9002(f), July 22, 1998, 112 Stat. 836; Pub. L. 112–141, div. A, title I, §1106(a), July 6, 2012, 126 Stat. 432; Pub. L. 114–94, div. A, title I, §§1106, 1406(a), 1407(a), 1446(a)(1), Dec. 4, 2015, 129 Stat. 1337, 1410, 1437; Pub. L. 116–94, div. H, title I, §129A, Dec. 20, 2019, 133 Stat. 2953.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the MAP–21, referred to in subsecs. (e)(8) and (f)(1)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
@@ -262,7 +264,7 @@ A prior section 119, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 899, related to a
 
 #### Amendments
 
-<b>2019</b>—Subsec. (e)(5). Pub. L. 116–94 amended par. (5) generally. Prior to amendment, text read as follows: "Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent."
+<b>2019</b>—Subsec. (e)(5). Pub. L. 116–94 amended par. (5) generally. Prior to amendment, text read as follows:"Notwithstanding section 120, with respect to the second fiscal year beginning after the date of establishment of the process established in paragraph (8) or any subsequent fiscal year, if the Secretary determines that a State has not developed and implemented a State asset management plan consistent with this section, the Federal share payable on account of any project or activity carried out by the State in that fiscal year under this section shall be 65 percent."
 
 <b>2015</b>—Subsec. (d)(1)(A). Pub. L. 114–94, §1446(a)(1), substituted "congestion reduction, system reliability," for "mobility,".
 
@@ -310,7 +312,7 @@ Subsec. (g). Pub. L. 102–240, §1009(a), added subsec. (g).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–17, §116(c)(1), substituted "subsection (e)" for "section 105 of the Federal-Aid Highway Act of 1978".
 
-Subsec. (d). Pub. L. 100–17, §116(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Upon application by a State and approval by the Secretary, the Secretary may authorize the transfer of so much of the amount apportioned to such State for any fiscal year under paragraph (5)(A) of subsection (b) of section 104 of this title, as does not exceed the Federal share of the cost of segments of the Interstate System open to traffic in such State (other than high occupancy vehicle lanes), in the most recent cost estimate, to the apportionment under paragraph (5)(B) of subsection (b) of section 104 of this title, except that not more than 50 per centum of the total apportionment under such paragraph (5)(A) for a fiscal year shall be transferred under this subsection for such fiscal year. The next cost estimate submitted to Congress under paragraph (5)(A) of subsection (b) of such section 104 of the cost of completing segments of the Interstate System open to traffic in that State (other than high occupancy vehicle lanes) shall be reduced for such State in an amount equal to the amount transferred under this subsection. Notwithstanding any other provision of law, and for the purposes of this subsection, the phrase 'segments of the interstate system open to traffic' shall include a proposed four-lane, limited access highway, 6.4 miles in length, the construction of which will relocate to a southern alignment a portion of an existing interstate highway which was originally built without the aid of funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended, and which connects to the east with an interstate highway on which tolls are charged. The construction of the proposed highway shall include a bridge over the Monongahela River."
+Subsec. (d). Pub. L. 100–17, §116(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Upon application by a State and approval by the Secretary, the Secretary may authorize the transfer of so much of the amount apportioned to such State for any fiscal year under paragraph (5)(A) of subsection (b) of section 104 of this title, as does not exceed the Federal share of the cost of segments of the Interstate System open to traffic in such State (other than high occupancy vehicle lanes), in the most recent cost estimate, to the apportionment under paragraph (5)(B) of subsection (b) of section 104 of this title, except that not more than 50 per centum of the total apportionment under such paragraph (5)(A) for a fiscal year shallbe transferred under this subsection for such fiscal year. The next cost estimate submitted to Congress under paragraph (5)(A) of subsection (b) of such section 104 of the cost of completing segments of the Interstate System open to traffic in that State (other than high occupancy vehicle lanes) shall be reduced for such State in an amount equal to the amount transferred under this subsection. Notwithstanding any other provision of law, and for the purposes of this subsection, the phrase 'segments of the interstate system open to traffic' shall include a proposed four-lane, limited access highway, 6.4 miles in length, the construction of which will relocate to a southern alignment a portion of an existing interstate highway which was originally built without the aid of funds authorized by section 108(b) of the Federal-Aid Highway Act of 1956, as amended, and which connects to the east with an interstate highway on which tolls are charged. The construction of the proposed highway shall include a bridge over the Monongahela River."
 
 Subsec. (e). Pub. L. 100–17, §116(b), added subsec. (e).
 
@@ -324,7 +326,7 @@ Pub. L. 100–17, §116(b), added subsec. (f).
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–424, §116(a)(1), inserted provision that, additionally, beginning with funds apportioned for fiscal year 1984, the Secretary may approve projects for resurfacing, restoring, rehabilitating, and reconstructing those routes or portions thereof on the Interstate System designated before Jan. 6, 1983, under section 139(a) of this title (other than routes on toll roads not subject to a Secretarial agreement provided for in section 105 of the Federal-Aid Highway Act of 1978) which routes or portions were so designated in conjunction with the withdrawal of approval of another route or portion thereof on the Interstate System under section 103(e)(4) of this title.
 
-Pub. L. 97–424, §116(a)(2), substituted "under this subsection" for "designated under sections 103 and 139(c) ofthis title" before "shall be that set forth in section 120(c) of this title".
+Pub. L. 97–424, §116(a)(2), substituted "under this subsection" for "designated under sections 103 and 139(c) of this title" before "shall be that set forth in section 120(c) of this title".
 
 Subsecs. (b), (c). Pub. L. 97–424, §116(b), redesignated the second of two sections designated (b) as (c).
 
@@ -335,6 +337,8 @@ Subsec. (d). Pub. L. 97–424, §116(c), added subsec. (d).
 Subsec. (b). Pub. L. 97–134, §6(b), added subsec. (b) providing that reconstruction may include the addition of travel lanes and the construction and reconstruction of interchanges and overcrossings along existing completed interstate routes, including the acquisition of right-of-way where necessary.
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–106 substituted "January 1st" for "October 1st" and "next apportionment of funds to such State" for "funds apportioned to such State for that fiscal year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

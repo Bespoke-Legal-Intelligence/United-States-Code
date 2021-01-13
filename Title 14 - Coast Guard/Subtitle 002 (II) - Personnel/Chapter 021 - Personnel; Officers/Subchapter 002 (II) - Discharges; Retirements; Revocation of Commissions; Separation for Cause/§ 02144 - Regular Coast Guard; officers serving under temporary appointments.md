@@ -12,6 +12,8 @@
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184, §284; amended Pub. L. 94–546, §1(23), Oct. 18, 1976, 90 Stat. 2520; renumbered §2144 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §112(b), renumbered section 284 of this title as this section.
@@ -20,11 +22,13 @@ Subsec. (a). Pub. L. 115–282, §123(b)(2), substituted "section 2104" for "sec
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–546 substituted "promotion year" for "fiscal year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Retired Pay on or Prior to September 24, 1963
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 2101 of this title.
 
 #### Effectiveness of Election, Change, or Revocation of Election of Annuity
 
-Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10,Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
+Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
 

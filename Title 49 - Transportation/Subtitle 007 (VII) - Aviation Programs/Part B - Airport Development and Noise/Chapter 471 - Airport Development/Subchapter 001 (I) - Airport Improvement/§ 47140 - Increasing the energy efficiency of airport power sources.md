@@ -10,7 +10,7 @@ Grants.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants from amounts made available under section 48103 to assist airport sponsors that have completed the assessment described in subsection (a) to acquire or construct equipment, including hydrogen equipment and related infrastructure, that will increase energy efficiency at the airport.
+In general.—The Secretary may make grants from amounts made available under section 48103 to assist airport sponsors thathave completed the assessment described in subsection (a) to acquire or construct equipment, including hydrogen equipment and related infrastructure, that will increase energy efficiency at the airport.
 
 &emsp;(2)
 

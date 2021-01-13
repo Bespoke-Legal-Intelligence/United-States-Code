@@ -24,6 +24,8 @@ In subsection (b), the words "Notwithstanding any other provision of law" are om
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–366 substituted references to subsecs. (h) and (j) of section 8345 for reference to subsec. (g) of section 8345.
@@ -31,6 +33,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Subsec. (b). Pub. L. 95–454 substituted "Office of Personnel Management" and "Office" for "Civil Service Commission" and "Commission", respectively.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–166 inserted "except under the provisions of section 8345(g) of this title," after "equity", and ", except as otherwise may be provided by Federal laws" after "process".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendments
 

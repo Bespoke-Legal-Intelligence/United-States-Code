@@ -84,7 +84,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ix) any option to enter into any agreement or transaction referred to in this subparagraph;
 
-&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such masteragreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
+&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to inclause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
 
 &emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 
@@ -121,6 +121,8 @@ The net equity is computed by liquidating all securities positions in the accoun
 Paragraph (6) defines "1934 Act" to mean the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\].
 
 Paragraph (7) \[enacted as (9)\] defines "SIPC" to mean the Securities Investor Protection Corporation.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Par. (6). Pub. L. 97–222, §8(2), (4), redesignated former par. (5) as (6), in
 Pars. (7), (8). Pub. L. 97–222, §8(5), added pars. (7) and (8).
 
 Par. (9). Pub. L. 97–222, §8(2), (6), redesignated former par. (6) as (9) and substituted "Securities" for "Security".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

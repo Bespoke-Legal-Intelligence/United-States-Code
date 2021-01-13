@@ -4,11 +4,15 @@ Upon the construction by the said commission of dams or other works for the dete
 
 (Mar. 1, 1893, ch. 183, §23, 27 Stat. 510; June 19, 1934, ch. 661, §2, 48 Stat. 1118; June 25, 1938, ch. 653, 52 Stat. 1040; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1938</b>—Act June 25, 1938, inserted provisions relating to storage for water and use of outlet facilities.
 
 <b>1934</b>—Act June 19, 1934, substituted an annual tax for each cubic yard mined from the natural bank, based on total capital cost divided by total capacity, for the 3 per centum gross proceeds tax, and required money from debris fund to be expended in repayment of Government advances for construction and maintenance, instead of authorizing the expenditure of such money in addition to appropriations for construction and maintenance.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -17,6 +21,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 
 California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L. 99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions Pertaining to Air Force
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 

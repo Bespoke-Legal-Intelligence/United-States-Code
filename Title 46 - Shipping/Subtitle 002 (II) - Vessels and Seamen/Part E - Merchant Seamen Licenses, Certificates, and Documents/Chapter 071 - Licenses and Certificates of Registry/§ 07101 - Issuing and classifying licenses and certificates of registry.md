@@ -128,6 +128,8 @@ Subsection (e) sets forth the requirements that pilots must meet before being is
 
 Subsection (f) authorizes the Secretary to issue certificates of registry to qualified individuals as pursers, medical doctors, and professional nurses.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act of 1982, referred to in subsec. (g), are sections 205(a)(3)(A), (B) and 206(b)(7) of Pub. L. 97–364, which are set out as a note under section 401 of Title 23, Highways.
@@ -141,6 +143,8 @@ Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act o
 <b>1990</b>—Subsecs. (g) to (i). Pub. L. 101–380 added subsecs. (g) to (i).
 
 <b>1984</b>—Subsec. (e)(3). Pub. L. 98–557 inserted exemption for pilots on a vessel of less than 1,600 gross tons.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

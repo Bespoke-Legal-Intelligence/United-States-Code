@@ -38,7 +38,7 @@ Alternate federal cochairman.—The alternate to the Federal Cochairman shall pe
 
 (e)
 
-Executive Director.—The Commission has an executive director. The executive director isresponsible for carrying out the administrative functions of the Commission, for directing the Commission staff, and for other duties the Commission may assign.
+Executive Director.—The Commission has an executive director. The executive director is responsible for carrying out the administrative functions of the Commission, for directing the Commission staff, and for other duties the Commission may assign.
 
 (f)
 
@@ -94,9 +94,13 @@ Pub. L. 89–4, title I, §106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat. 8
 
 In subsection (e), the words "The Commission has an executive director" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(2). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" after "The President,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

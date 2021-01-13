@@ -22,7 +22,7 @@ Illinois is divided into three judicial districts to be known as the Northern, C
 
 ### Southern District
 
-&emsp;&emsp;(c) The Southern District comprises the counties of Alexander, Bond, Calhoun, Clark, Clay, Clinton, Crawford, Cumberland, Edwards, Effingham, Fayette, Franklin, Gallatin, Hamilton, Hardin, Jackson, Jasper, Jefferson, Jersey, Johnson, Lawrence, Madison, Marion, Massac, Monroe, Perry, Pope, Pulaski, Randolph, Richland, St. Clair, Saline, Union, Wabash, Washington, Wayne, White, and Williamson.
+&emsp;&emsp;(c) The Southern District comprises the counties of Alexander, Bond, Calhoun, Clark, Clay, Clinton, Crawford, Cumberland, Edwards, Effingham, Fayette, Franklin, Gallatin, Hamilton, Hardin, Jackson, Jasper, Jefferson, Jersey, Johnson, Lawrence, Madison, Marion, Massac,Monroe, Perry, Pope, Pulaski, Randolph, Richland, St. Clair, Saline, Union, Wabash, Washington, Wayne, White, and Williamson.
 
 &emsp;&emsp;Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
@@ -35,6 +35,8 @@ Based on title 28, U.S.C., 1940 ed., §152 (Mar. 3, 1911, ch. 231, §79, 36 Stat
 Provisions relating to appointment of deputy marshals and maintenance of offices by deputy marshals and deputy clerks were omitted as covered by sections 452, 541 \[see 561\], 542 \[see 561\], and 751 of this title.
 
 Changes in arrangement and phraseology were made.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -64,6 +66,8 @@ Subsec. (c). Pub. L. 95–408 substituted "Southern District" for "Eastern Distr
 
 <b>1950</b>—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Pub. L. 98–620, title IV, §406(b), Nov. 8, 1984, 98 Stat. 3361, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date."
@@ -92,7 +96,7 @@ Pub. L. 95–408, §4(b)(2)–(4), as added by Pub. L. 96–4, §1, Mar. 30, 197
 
 "(2) The district judge for the Eastern District of Illinois in office on the effective date of this Act \[180 days after Oct. 2, 1978\] who is senior in commission shall, on and after the effective date of this Act, be a district judge for the Southern District of Illinois. The remaining district judge for the Eastern District of Illinois who is in office on the effective date of this Act and the district judges for the Southern District of Illinois who are in office on the effective date of this Act shall, on and after the effective date of this Act, be district judges for the Central District of Illinois. The President shall appoint, by and with the advice and consent of the Senate, a second district judge for the Southern District of Illinois.
 
-"(3) This section does not in any manner affect the tenure of the United States attorney, the assistant United States attorneys, or the United States marshal for the Eastern District of Illinois or for the Southern District of Illinois who are in office on the effective date of this Act \[180 days after Oct. 2, 1978\]. The United States attorney, the assistant United States attorneys, and the United States marshal for the Eastern District and for the Southern District of Illinois shall, on the effective date of this Act, become the United States attorney, the assistant United States attorneys, and the United States marshal for the Southern District and for the Central District of Illinois, respectively.
+"(3) This section does not in any manner affect the tenure of the United States attorney, the assistantUnited States attorneys, or the United States marshal for the Eastern District of Illinois or for the Southern District of Illinois who are in office on the effective date of this Act \[180 days after Oct. 2, 1978\]. The United States attorney, the assistant United States attorneys, and the United States marshal for the Eastern District and for the Southern District of Illinois shall, on the effective date of this Act, become the United States attorney, the assistant United States attorneys, and the United States marshal for the Southern District and for the Central District of Illinois, respectively.
 
 "(4) Notwithstanding section 3240 of title 18, United States Code, any grand jury impaneled on or after the effective date of this Act \[180 days after Oct. 2, 1978\] by a district court for the Central District or the Southern District of Illinois may inquire into and return indictments charging offenses against the criminal laws of the United States alleged to have been committed anywhere within the territory of the respective judicial districts as such districts were constituted before or after the effective date of this Act."
 

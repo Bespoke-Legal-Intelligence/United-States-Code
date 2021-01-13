@@ -26,6 +26,8 @@
 
 (Added Pub. L. 106–547, §2(a), Dec. 19, 2000, 114 Stat. 2738; amended Pub. L. 109–177, title III, §302(a), Mar. 9, 2006, 120 Stat. 233.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–177, §302(a)(4), substituted "any airport or seaport" for "any airport" in section catchline.

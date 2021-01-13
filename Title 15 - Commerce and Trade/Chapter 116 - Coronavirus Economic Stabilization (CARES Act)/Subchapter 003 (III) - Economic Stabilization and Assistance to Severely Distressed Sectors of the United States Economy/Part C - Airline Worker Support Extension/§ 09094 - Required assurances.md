@@ -1,0 +1,66 @@
+### §9094. Required assurances
+
+#### (a) In general
+
+To be eligible for financial assistance under this part, a passenger air carrier or a contractor shall enter into an agreement with the Secretary, or otherwise certify in such form and manner as the Secretary shall prescribe, that the passenger air carrier or contractor shall—
+
+&emsp;(1) refrain from conducting involuntary furloughs or reducing pay rates and benefits until—
+
+&emsp;&emsp;(A) with respect to passenger air carriers, March 31, 2021; or
+
+&emsp;&emsp;(B) with respect to contractors, March 31, 2021, or the date on which the contractor expends such financial assistance, whichever is later;
+
+&emsp;(2) ensure that neither the passenger air carrier or contractor nor any affiliate of the passenger air carrier or contractor may, in any transaction, purchase an equity security of the passenger air carrier or contractor or the parent company of the passenger air carrier or contractor that is listed on a national securities exchange through—
+
+&emsp;&emsp;(A) with respect to passenger air carriers, March 31, 2022; or
+
+&emsp;&emsp;(B) with respect to contractors, March 31, 2022, or the date on which the contractor expends such financial assistance, whichever is later;
+
+&emsp;(3) ensure that the passenger air carrier or contractor shall not pay dividends, or make other capital distributions, with respect to common stock (or equivalent interest) of the air carrier or contractor through—
+
+&emsp;&emsp;(A) with respect to passenger air carriers, March 31, 2022; or
+
+&emsp;&emsp;(B) with respect to contractors, March 31, 2022, or the date on which the contractor expends such financial assistance, whichever is later; and
+
+&emsp;(4) meet the requirements of sections 9095 and 9096 of this title.
+
+#### (b) Recalls of employees
+
+An agreement or certification under this section shall require a passenger air carrier or contractor to perform the following actions:
+
+&emsp;(1) In the case of a passenger air carrier or contractor that received financial assistance under title IV of the CARES Act \[15 U.S.C. 9041 et seq., 9071 et seq.\]—
+
+&emsp;&emsp;(A) recall (as defined in section 9091 of this title), not later than 72 hours after executing such agreement or certification, any employees involuntarily furloughed by such passenger air carrier or contractor between October 1, 2020, and the date such passenger air carrier or contractor enters into an agreement with the Secretary with respect to financial assistance under this part;
+
+&emsp;&emsp;(B) compensate returning employees for lost pay and benefits (offset by any amounts received by the employee from a passenger air carrier or contractor as a result of the employee's furlough, including, but not limited to, furlough pay, severance pay, or separation pay) between—
+
+&emsp;&emsp;&emsp;(i) in the case of a passenger air carrier, December 1, 2020, and the date on which such passenger air carrier enters into an agreement with the Secretary with respect to financial assistance under this part; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a contractor, December 27, 2020, and the date on which such contractor enters into an agreement with the Secretary with respect to financial assistance under this part; and
+
+&emsp;&emsp;(C) restore the rights and protections for such returning employees as if such employees had not been involuntarily furloughed.
+
+&emsp;(2) In the case of a passenger air carrier or contractor that did not receive financial assistance under title IV of the CARES Act \[15 U.S.C. 9041 et seq., 9071 et seq.\] to—
+
+&emsp;&emsp;(A) recall (as defined in section 9091 of this title), within 72 hours after executing such agreement or certification, any employees involuntarily furloughed by such passenger air carrier or contractor between March 27, 2020, and the date such passenger air carrier or contractor enters into an agreement with the Secretary for financial assistance under this part;
+
+&emsp;&emsp;(B) compensate returning employees under this paragraph for lost pay and benefits (offset by any amounts received by the employee from a passenger air carrier or contractor as a result of the employee's furlough, including, but not limited to, furlough pay, severance pay, or separation pay) between—
+
+&emsp;&emsp;&emsp;(i) in the case of a passenger air carrier, December 1, 2020, and the date such passenger air carrier enters into an agreement with the Secretary for financial assistance under this part; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a contractor, December 27, 2020, and the date on which such contractor enters into an agreement with the Secretary with respect to financial assistance under this part; and
+
+&emsp;&emsp;(C) restore the rights and protections for such returning employees as if such employees had not been involuntarily furloughed.
+
+(Pub. L. 116–260, div. N, title IV, §404, Dec. 27, 2020, 134 Stat. 2055.)
+
+#### References in Text
+
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§401–412) of titleIV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+Title IV of the CARES Act, referred to in subsec. (b), is title IV of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 469, which is classified principally to parts A (§9041 et seq.) and B (§9071 et seq.) of this subchapter. For complete classification of title IV to the Code, see Tables.
+
+#### Codification
+
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+

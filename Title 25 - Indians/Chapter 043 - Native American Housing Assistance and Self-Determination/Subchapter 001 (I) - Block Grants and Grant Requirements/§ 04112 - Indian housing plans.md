@@ -86,7 +86,7 @@ A plan under this section for an Indian tribe may be prepared and submitted on b
 
 #### (d) Coordination of plans
 
-A plan under this section may cover more than 1 Indian tribe, but only if the certification requirements under subsection (c) are complied with by each such grant beneficiary covered.
+A plan under this section may cover more than 1 Indian tribe, but only if the certificationrequirements under subsection (c) are complied with by each such grant beneficiary covered.
 
 #### (e) Regulations
 
@@ -94,13 +94,15 @@ The requirements relating to the contents of plans under this section shall be e
 
 (Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962; Pub. L. 110–411, title I, §102, Oct. 14, 2008, 122 Stat. 4321.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73.Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments
 
@@ -131,6 +133,8 @@ Separate requirements.—The Secretary may—
 Small tribes.—The Secretary may define small Indian tribes and small tribally designated housing entities based on the number of dwelling units assisted under this subchapter by the tribe or housing entity or owned or operated pursuant to a contract under the United States Housing Act of 1937 between the Secretary and the Indian housing authority for the tribe."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–276 redesignated par. (1) as (1)(A), par. (2) as (1)(B), and par. (3) as (2), and inserted "or" at end of par. (1)(A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

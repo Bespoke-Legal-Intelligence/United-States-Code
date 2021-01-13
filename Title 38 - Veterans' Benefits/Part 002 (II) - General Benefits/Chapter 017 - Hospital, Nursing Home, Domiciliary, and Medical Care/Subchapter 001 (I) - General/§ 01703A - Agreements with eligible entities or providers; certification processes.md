@@ -60,7 +60,7 @@ Terms of Veterans Care Agreements.—(1) Pursuant to regulations promulgated und
 
 &emsp;(A) to accept payment at the rates established in regulations prescribed under this section;
 
-&emsp;(B) that payment by the Secretary under this section on behalf of a covered individual to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of the covered individual for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
+&emsp;(B) that payment by the Secretary under this section on behalf of a covered individual to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of thecovered individual for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
 
 &emsp;(C) to provide only the care and services authorized by the Department under this section and to obtain the prior written consent of the Department to furnish care or services outside the scope of such authorization;
 
@@ -120,7 +120,7 @@ Applicability of Other Provisions of Law.—(1) A Veterans Care Agreement may be
 
 (j)
 
-Parity of Treatment.—Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided ina facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
+Parity of Treatment.—Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided in a facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
 
 (k)
 
@@ -131,6 +131,8 @@ Rulemaking.—The Secretary shall promulgate regulations to carry out this secti
 Covered Individual Defined.—In this section, the term "covered individual" means any individual eligible for hospital care, medical services, or extended care services under this title or any other law administered by the Secretary.
 
 (Added Pub. L. 115–182, title I, §102(a), June 6, 2018, 132 Stat. 1404; amended Pub. L. 115–251, title II, §§203, 211(a)(2), Sept. 29, 2018, 132 Stat. 3172, 3174.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -155,6 +157,8 @@ Subsec. (h)(4). Pub. L. 115–251, §211(a)(2), struck out ", United States Cod
 Subsec. (j). Pub. L. 115–251, §203(b)(5), substituted "any covered individual" for "any veteran" and substituted "to covered individuals" for "to veterans" in two places.
 
 Subsec. (l). Pub. L. 115–251, §203(a), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Directive of Office of Federal Contract Compliance Programs
 

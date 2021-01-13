@@ -14,7 +14,7 @@ For the purpose of this section, the population of each State, and the total pop
 
 #### (c) Ratable reduction
 
-If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
+If the sums appropriated under section 10403 of this title for any fiscal year and available forgrants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
 
 #### (d) Reallotment
 

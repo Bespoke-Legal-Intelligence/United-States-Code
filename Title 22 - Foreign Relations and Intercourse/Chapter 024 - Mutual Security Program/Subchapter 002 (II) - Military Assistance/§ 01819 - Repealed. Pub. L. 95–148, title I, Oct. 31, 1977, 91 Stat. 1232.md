@@ -2,6 +2,8 @@
 
 Section, act Aug. 2, 1955, ch. 491, §108, 69 Stat. 438, related to an accounting for military assistance funds.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Pub. L. 95–148 provided that the repeal of this section is effective Oct. 1, 1977.

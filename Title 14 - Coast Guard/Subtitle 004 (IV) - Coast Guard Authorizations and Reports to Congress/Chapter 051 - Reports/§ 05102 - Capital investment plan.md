@@ -60,6 +60,8 @@ Oct. 3, 1980, Pub. L. 96–376, §12, 94 Stat. 1511.
 
 The words "with the fiscal year 1982 budget request" and "subsequent" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §122(b), renumbered section 2902 of this title as this section.
@@ -112,13 +114,15 @@ Subsec. (c). Pub. L. 114–120, §204(b)(2), (3), redesignated subsec. (b) as (c
 
 <b>1988</b>—Pub. L. 100–448 inserted at end "Not later than 30 days after the date on which the President submits to the Congress a budget under section 1105 of title 31 which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Ensuring Maritime Coverage
 
 Pub. L. 115–282, title VIII, §817(d), Dec. 4, 2018, 132 Stat. 4307, provided that: "In order to meet Coast Guard mission requirements for search and rescue, ports, waterways, and coastal security, and maritime environmental response during recapitalization of Coast Guard vessels, the Coast Guard shall ensure continuity of the coverage, to the maximum extent practicable, in the locations that may lose assets."
 
 #### Additional Submissions
 
-Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 1110 of this title.
+Commandant of the Coast Guard shall submit to the Committee on Homeland Security of the House of Representatives each plan required under this section, see section 101(f) of Pub. L. 114–120, set out as a note under section 5110 of this title.
 
 #### Capital Investment Plan
 
@@ -242,7 +246,7 @@ Pub. L. 108–334, title V, §514, Oct. 18, 2004, 118 Stat. 1317, provided that:
 
 #### Status Reports on Polar Icebreaking Vessels
 
-Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: "The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 \[now 5102\] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard."
+Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: "The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least twonew polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 \[now 5102\] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

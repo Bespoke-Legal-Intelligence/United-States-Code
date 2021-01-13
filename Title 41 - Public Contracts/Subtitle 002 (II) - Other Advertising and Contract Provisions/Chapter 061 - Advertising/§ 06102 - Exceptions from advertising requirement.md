@@ -14,7 +14,7 @@ Department of State.—Section 6101 of this title does not apply to the Departme
 
 (d)
 
-International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee ofAerial Legal Experts with respect to necessary stenographic and other services by contract.
+International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee of Aerial Legal Experts with respect to necessary stenographic and other services by contract.
 
 (e)
 
@@ -99,6 +99,8 @@ In subsection (e), the words "On and after July 27, 1965" are omitted as unneces
 In subsection (g), the words "in any fiscal year" are omitted as unnecessary.
 
 In subsection (h), the text of 41:6a–4(b) is omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

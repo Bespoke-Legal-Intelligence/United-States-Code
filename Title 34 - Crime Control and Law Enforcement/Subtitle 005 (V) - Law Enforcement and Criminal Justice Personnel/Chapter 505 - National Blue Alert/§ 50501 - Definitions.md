@@ -26,13 +26,15 @@ In this chapter:
 
 #### (5) Network
 
-&emsp;The term "network" means the Blue Alert communications network established by theAttorney General under section 50502 of this title.
+&emsp;The term "network" means the Blue Alert communications network established by the Attorney General under section 50502 of this title.
 
 #### (6) State
 
 &emsp;The term "State" means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 114–12, §2, May 19, 2015, 129 Stat. 192.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 #### (a) Criteria; length of continuous service
 
-The Secretary may order a member of the Service (other than a member employed undersection 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
+The Secretary may order a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States to take a leave of absence under section 6305 of title 5 (without regard to the introductory clause of subsection (a) of that section), upon completion by that member of 12 months of continuous service abroad. The Secretary shall order on such a leave of absence a member of the Service (other than a member employed under section 3951 of this title) who is a citizen of the United States as soon as possible after completion by that member of 3 years of continuous service abroad.
 
 #### (b) Place leave may be taken
 
@@ -13,6 +13,8 @@ Leave ordered under this section may be taken in the United States or its territ
 While on a leave of absence ordered under this section, the services of any member of the Service shall be available for such work or duties in the Department or elsewhere as the Secretary may prescribe, but the time of such work or duties shall not be counted as leave.
 
 (Pub. L. 96–465, title I, §903, Oct. 17, 1980, 94 Stat. 2127; Pub. L. 103–236, title I, §180(a)(8), Apr. 30, 1994, 108 Stat. 416; Pub. L. 109–234, title I, §1602(d)(2), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(2), Sept. 19, 2008, 122 Stat. 3535.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

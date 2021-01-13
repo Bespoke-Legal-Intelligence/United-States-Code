@@ -148,10 +148,6 @@ This chapter, referred to in subsecs. (a)(1)(B) and (b)(1), was in the original 
 
 Section was formerly classified to section 2410b of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-#### Delegation of Functions
-
-Functions of President under this section delegated to Secretary of Commerce, with certain exceptions, by section 2(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
-
 #### Policy on Missile Technology Control
 
 Pub. L. 101–510, div. A, title XVII, §1701, Nov. 5, 1990, 104 Stat. 1738, provided that: "It should be the policy of the United States to take all appropriate measures—
@@ -169,6 +165,10 @@ Pub. L. 101–510, div. A, title XVII, §1701, Nov. 5, 1990, 104 Stat. 1738, pro
 &emsp;&emsp;"(B) to increase the number of countries that adhere to the MTCR; and
 
 &emsp;&emsp;"(C) to increase information sharing among United States agencies and among governments on missile technology transfer, including export licensing, and enforcement activities."
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Secretary of Commerce, with certain exceptions, by section 2(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of Title 22, Foreign Relations and Intercourse.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

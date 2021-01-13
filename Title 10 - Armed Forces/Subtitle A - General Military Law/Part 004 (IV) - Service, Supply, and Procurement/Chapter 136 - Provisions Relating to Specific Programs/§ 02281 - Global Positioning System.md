@@ -12,7 +12,7 @@ Sustainment and Operation for Military Purposes.—The Secretary of Defense shal
 
 Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
 
-&emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Planprepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
+&emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Plan prepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
 
 &emsp;(2) shall coordinate with the Secretary of Transportation regarding the development and implementation by the Government of augmentations to the basic GPS that achieve or enhance uses of the system in support of transportation;
 
@@ -50,7 +50,7 @@ Section 507 of the International Maritime Satellite Telecommunications Act, refe
 
 <b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to biennial reports on the Global Positioning System.
 
-<b>2009</b>—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted "the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing," for "the Secretary of Defense" and "the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives" for "the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives".
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–84, §1032(a)(1), in introductory provisions, substituted "the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing," for "the Secretary of Defense" and "the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy andCommerce, and Transportation and Infrastructure of the House of Representatives" for "the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives".
 
 Subsec. (d)(1)(B)(ii). Pub. L. 111–84, §1032(b), inserted "validated" before "performance requirements" and "in accordance with Office of Management and Budget Circular A–109" after "Plan".
 
@@ -68,6 +68,62 @@ Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted "(C)," after "under subpar
 
 <b>1999</b>—Subsec. (d)(1). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in introductory provisions.
 
+#### Resilient and Survivable Positioning, Navigation, and Timing Capabilities
+
+Pub. L. 116–283, div. A, title XVI, §1611, Jan. 1, 2021, 134 Stat. 4048, provided that:
+
+"(a)
+
+In General.—Not later than two years after the date of the enactment of this Act \[Jan. 1, 2021\], consistent with the timescale applicable to joint urgent operational needs statements, the Secretary of Defense shall—
+
+&emsp;"(1) prioritize and rank order the mission elements, platforms, and weapons systems most critical for the operational plans of the combatant commands;
+
+&emsp;"(2) mature, test, and produce for such prioritized mission elements sufficient equipment—
+
+&emsp;&emsp;"(A) to generate resilient and survivable alternative positioning, navigation, and timing signals; and
+
+&emsp;&emsp;"(B) to process resilient survivable data provided by signals of opportunity and on-board sensor systems; and
+
+&emsp;"(3) integrate and deploy such equipment into the prioritized operational systems, platforms, and weapons systems.
+
+"(b)
+
+Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to commence carrying out subsection (a) in fiscal year 2021.
+
+&emsp;"(2)
+
+Reprogramming and budget proposals.—The plan submitted under paragraph (1) may include any reprogramming or supplemental budget request the Secretary considers necessary to carry out subsection (a).
+
+"(c)
+
+Coordination.—In carrying out this section, the Secretary shall consult with the National Security Council, the Secretary of Homeland Security, the Secretary of Transportation, and the head of any other relevant Federal department or agency to enable civilian and commercial adoption of technologies and capabilities for resilient and survivable alternative positioning, navigation, and timing capabilities to complement the global positioning system."
+
+#### Prohibition on Availability of Funds for Certain Purposes Relating to the Global Positioning System
+
+Pub. L. 116–283, div. A, title XVI, §1661, Jan. 1, 2021, 134 Stat. 4073, provided that:
+
+"(a)
+
+Prohibition.—Except as provided by subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2021 or any subsequent fiscal year for the Department of Defense may be obligated or expended to retrofit any Global Positioning System device or system, or network that uses the Global Positioning System, in order to mitigate harmful interference from commercial terrestrial operations using the 1526–1536 megahertz band, the 1627.5–1637.5 megahertz band, or the 1646.5–1656.5 megahertz band.
+
+"(b)
+
+Actions Not Prohibited.—The prohibition in subsection (a) shall not apply to any action taken by the Secretary of Defense relating to—
+
+&emsp;"(1) conducting technical or information exchanges with the entity that operates the commercial terrestrial operations in the megahertz bands specified in such subsection;
+
+&emsp;"(2) seeking compensation for harmful interference from such entity; or
+
+&emsp;"(3) Global Positioning System receiver upgrades needed to address other resiliency requirements."
+
+#### Limitation on Awarding Contracts to Entities Operating Commercial Terrestrial Communication Networks That Cause Harmful Interference With the Global Positioning System
+
+Pub. L. 116–283, div. A, title XVI, §1662, Jan. 1, 2021, 134 Stat. 4074, provided that: "The Secretary of Defense may not enter into a contract, or extend or renew a contract, with an entity that engages in commercial terrestrial operations using the 1525–1559 megahertz band or the 1626.5–1660.5 megahertz band unless the Secretary has certified to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that such operations do not cause harmful interference to a Global Positioning System device of the Department of Defense."
+
 #### Prototype Program for Multi-Global Navigation Satellite System Receiver Development
 
 Pub. L. 116–92, div. A, title XVI, §1607, Dec. 20, 2019, 133 Stat. 1724, provided that:
@@ -80,11 +136,11 @@ Prototype Multi-GNSS Program.—The Secretary of the Air Force shall carry out a
 
 Elements.—In carrying out the program under subsection (a), the Secretary shall—
 
-&emsp;"(1) with respect to each covered signal that could be received by the prototype receiver under such program, conduct an assessment of the relative benefits and risks of using that signal, including with respect to any existing or needed monitoring infrastructure that would alert users of the Department of Defenseof potentially corrupted signal information, and the cyber risks and challenges of incorporating such signals into a properly designed receiver;
+&emsp;"(1) with respect to each covered signal that could be received by the prototype receiver under such program, conduct an assessment of the relative benefits and risks of using that signal, including with respect to any existing or needed monitoring infrastructure that would alert users of the Department of Defense of potentially corrupted signal information, and the cyber risks and challenges of incorporating such signals into a properly designed receiver;
 
 &emsp;"(2) ensure that monitoring systems are able to include any monitoring network of the United States or allies of the United States;
 
-&emsp;"(3) conduct an assessment of the benefits and risks, including with respect to the compatibility of non-United States global navigation satellite system signals with existing position, navigation, and timing equipment of the United States, and the extent to which the capability to receive such signals would impact current receiver or antenna design; and
+&emsp;"(3) conduct an assessment of the benefits and risks, including with respect to the compatibility ofnon-United States global navigation satellite system signals with existing position, navigation, and timing equipment of the United States, and the extent to which the capability to receive such signals would impact current receiver or antenna design; and
 
 &emsp;"(4) conduct an assessment of the desirability of establishing a program for the development and deployment of the receiver system described in subsection (a) in a manner that—
 

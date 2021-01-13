@@ -38,6 +38,8 @@
 | [701h.](%C2%A7%2000701h%20-%20Contributions%20by%20States%2C%20political%20subdivisions%2C%20and%20other%20non-Federal%20interests.md) | Contributions by States, political subdivisions, and other non-Federal interests. |
 | 701h–1. | Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment. |
 | 701h–2. | No adverse effect on processes. |
+| 701h–3. | State contribution of funds for certain operation and maintenance costs. |
+| 701h–4. | Acceptance of funds for harbor dredging. |
 | [701i.](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md) | Elimination from protection of areas subject to evacuation. |
 | [701j.](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md) | Installation in dams of facilities for future development of hydroelectric power. |
 | [701k.](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md) | Crediting reimbursements for lost, stolen, or damaged property. |
@@ -46,9 +48,11 @@
 | [701n.](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md) | Emergency response to natural disasters. |
 | 701n–1. | Biennial report to Congress. |
 | 701n–2. | Monthly report to Congress. |
+| 701n–3. | Permanent measures to reduce emergency flood fighting needs for communities subject to repetitive flooding. |
 | 701<i>o.</i> | Omitted. |
 | [701p.](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md) | Railroad bridge alterations at Federal expense. |
 | [701q.](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md) | Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir. |
+| 701q–1. | Repair and restoration of embankments. |
 | [701r.](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md) | Protection of highways, bridge approaches, public works, and nonprofit public services. |
 | 701r–1. | Utilization of public roads. |
 | [701s.](%C2%A7%2000701s%20-%20Small%20flood%20control%20projects%3B%20appropriations%3B%20amount%20limitation%20for%20single%20locality%3B%20conditions.md) | Small flood control projects; appropriations; amount limitation for single locality; conditions. |
@@ -145,6 +149,8 @@
 - [&sect; 00701h - Contributions by States, political subdivisions, and other non-Federal interests](%C2%A7%2000701h%20-%20Contributions%20by%20States%2C%20political%20subdivisions%2C%20and%20other%20non-Federal%20interests.md)
 - [&sect; 00701h&#8211;1 - Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment](%C2%A7%2000701h%E2%80%931%20-%20Contributions%20by%20States%20and%20political%20subdivisions%20for%20immediate%20use%20on%20authorized%20flood-control%20work%3B%20repayment.md)
 - [&sect; 00701h&#8211;2 - No adverse effect on processes](%C2%A7%2000701h%E2%80%932%20-%20No%20adverse%20effect%20on%20processes.md)
+- [&sect; 00701h&#8211;3 - State contribution of funds for certain operation and maintenance costs](%C2%A7%2000701h%E2%80%933%20-%20State%20contribution%20of%20funds%20for%20certain%20operation%20and%20maintenance%20costs.md)
+- [&sect; 00701h&#8211;4 - Acceptance of funds for harbor dredging](%C2%A7%2000701h%E2%80%934%20-%20Acceptance%20of%20funds%20for%20harbor%20dredging.md)
 - [&sect; 00701i - Elimination from protection of areas subject to evacuation](%C2%A7%2000701i%20-%20Elimination%20from%20protection%20of%20areas%20subject%20to%20evacuation.md)
 - [&sect; 00701j - Installation in dams of facilities for future development of hydroelectric power](%C2%A7%2000701j%20-%20Installation%20in%20dams%20of%20facilities%20for%20future%20development%20of%20hydroelectric%20power.md)
 - [&sect; 00701k - Crediting reimbursements for lost, stolen, or damaged property](%C2%A7%2000701k%20-%20Crediting%20reimbursements%20for%20lost%2C%20stolen%2C%20or%20damaged%20property.md)
@@ -153,9 +159,11 @@
 - [&sect; 00701n - Emergency response to natural disasters](%C2%A7%2000701n%20-%20Emergency%20response%20to%20natural%20disasters.md)
 - [&sect; 00701n&#8211;1 - Biennial report to Congress](%C2%A7%2000701n%E2%80%931%20-%20Biennial%20report%20to%20Congress.md)
 - [&sect; 00701n&#8211;2 - Monthly report to Congress](%C2%A7%2000701n%E2%80%932%20-%20Monthly%20report%20to%20Congress.md)
+- [&sect; 00701n&#8211;3 - Permanent measures to reduce emergency flood fighting needs for communities subject to repetitive flooding](%C2%A7%2000701n%E2%80%933%20-%20Permanent%20measures%20to%20reduce%20emergency%20flood%20fighting%20needs%20for%20communities%20subject%20to%20repetitive%20flooding.md)
 - [&sect; 00701o - Omitted](%C2%A7%2000701o%20-%20Omitted.md)
 - [&sect; 00701p - Railroad bridge alterations at Federal expense](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md)
 - [&sect; 00701q - Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md)
+- [&sect; 00701q&#8211;1 - Repair and restoration of embankments](%C2%A7%2000701q%E2%80%931%20-%20Repair%20and%20restoration%20of%20embankments.md)
 - [&sect; 00701r - Protection of highways, bridge approaches, public works, and nonprofit public services](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md)
 - [&sect; 00701r&#8211;1 - Utilization of public roads](%C2%A7%2000701r%E2%80%931%20-%20Utilization%20of%20public%20roads.md)
 - [&sect; 00701s - Small flood control projects; appropriations; amount limitation for single locality; conditions](%C2%A7%2000701s%20-%20Small%20flood%20control%20projects%3B%20appropriations%3B%20amount%20limitation%20for%20single%20locality%3B%20conditions.md)

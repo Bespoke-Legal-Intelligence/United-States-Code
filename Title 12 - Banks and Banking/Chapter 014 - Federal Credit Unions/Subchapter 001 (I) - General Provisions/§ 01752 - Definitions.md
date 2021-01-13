@@ -22,6 +22,8 @@ As used in this chapter—
 
 (June 26, 1934, ch. 750, title I, §101, formerly §2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, §401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§1, 2, 62 Stat. 1091; Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, §1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, §101, and amended Pub. L. 91–468, §§1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, §308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, §103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, §501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, §726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
@@ -50,7 +52,7 @@ Par. (5). Pub. L. 95–630, §§502(b), 503(a), (b), redesignated par. (4), defi
 
 Pars. (6) to (8). Pub. L. 95–630, §503(a), redesignated former pars. (5) to (7) as (6) to (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted ", including the trustterritories," after "several territories", and inserted provision that term "branch" also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
+Par. (9). Pub. L. 95–630, §503(a), (c), redesignated former par. (8) as (9), inserted ", including the trust territories," after "several territories", and inserted provision that term "branch" also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
 <b>1977</b>—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
 
@@ -63,6 +65,8 @@ Par. (4). Pub. L. 91–206 added par. (4).
 Pars. (4) to (8). Pub. L. 91–468, §2, added pars. (4) to (8).
 
 <b>1959</b>—Pub. L. 86–354 designated the terms defined as subsecs. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -80,13 +84,15 @@ Pub. L. 95–630, title V, §509, Nov. 10, 1978, 92 Stat. 3683, provided that: "
 
 Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section, was repealed at the close of Mar. 31, 1980, by section 307 of Pub. L. 96–221, and substantially identical provisions were enacted by section 305 of Pub. L. 96–221, such amendments to take effect at the close of Mar. 31, 1980.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13816. Revising the Seal for the National Credit Union Administration
 
 Ex. Ord. No. 13816, Dec. 8, 2017, 82 F.R. 58701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Revision</i>. (a) The National Credit Union Administration Board has caused to be made, and has recommended approval of, a new seal of office for the National Credit Union Administration (NCUA), the design of which accompanies and is hereby made a part of this order \[not set out in the Code\], and which is described as follows:
+Section 1. <i>Revision</i>. (a) The National Credit Union Administration Board has caused to be made, and has recommended approval of, a new seal of office for the National Credit Union Administration (NCUA), the design of which accompanies and is hereby made a part of thisorder \[not set out in the Code\], and which is described as follows:
 
 (i) The eagle overlaid by the shield conveys the NCUA's role as an agency of the Federal Government. The text, "NCUA," in white on a blue background on the crest of the shield is the core of the sign that federally insured credit unions are required to display.
 

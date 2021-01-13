@@ -4,7 +4,7 @@
 
 Prospective Payment Required.—In lieu of the reimbursement required under section 1085 of title 10, the Secretary of Homeland Security shall make a prospective payment to the Secretary of Defense of an amount that represents the actuarial valuation of treatment or care—
 
-&emsp;(1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund) at facilities under the jurisdiction of the Department of Defense or a military department; and
+&emsp;(1) that the Department of Defense shall provide to members of the Coast Guard, former members of the Coast Guard, and dependents of such members and former members (other than former members and dependents of former members who are a Medicare-eligible beneficiary or for whom the payment for treatment or care is made from the Medicare-Eligible Retiree Health Care Fund as established under chapter 56 of title 10) at facilities under the jurisdiction of the Department of Defense or a military department; and
 
 &emsp;(2) for which a reimbursement would otherwise be made under section 1085.
 
@@ -12,7 +12,7 @@ Prospective Payment Required.—In lieu of the reimbursement required under sect
 
 Amount.—The amount of the prospective payment under subsection (a) shall be—
 
-&emsp;(1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operating expenses of the Coast Guard;
+&emsp;(1) in the case of treatment or care to be provided to members of the Coast Guard and their dependents, derived from amounts appropriated for the operations and support of the Coast Guard;
 
 &emsp;(2) in the case of treatment or care to be provided former members of the Coast Guard and their dependents, derived from amounts appropriated for retired pay;
 
@@ -30,13 +30,19 @@ No Prospective Payment When Service in Navy.—No prospective payment shall be m
 
 Relationship to TRICARE.—This section shall not be construed to require a payment for, or the prospective payment of an amount that represents the value of, treatment or care provided under any TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §722(a), Dec. 23, 2016, 130 Stat. 2228, §520; renumbered §506, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200.)
+(Added Pub. L. 114–328, div. A, title VII, §722(a), Dec. 23, 2016, 130 Stat. 2228, §520; renumbered §506, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(1), Jan. 1, 2021, 134 Stat. 4760.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 506, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to the issue of the national flag to be used for draping the coffin of any deceased member of the Coast Guard, prior to repeal by act July 15, 1954, ch. 507, §14(c)(5), 68 Stat. 481. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel, see section 1481 of Title 10, Armed Forces.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §8513(a)(1)(A), inserted "as established under chapter 56 of title 10" after "Medicare-Eligible Retiree Health Care Fund".
+
+Subsec. (b)(1). Pub. L. 116–283, §8513(a)(1)(B), substituted "operations and support" for "operating expenses".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 520 of this title as this section.
 

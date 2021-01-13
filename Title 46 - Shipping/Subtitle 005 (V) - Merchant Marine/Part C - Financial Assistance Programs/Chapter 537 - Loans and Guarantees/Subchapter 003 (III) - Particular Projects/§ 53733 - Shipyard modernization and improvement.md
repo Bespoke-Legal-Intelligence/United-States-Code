@@ -90,11 +90,13 @@ In subsection (a)(2)(A)(i), the words "(as defined in title 1)" are omitted as u
 
 In subsection (b), the words "and subject to the terms the Secretary shall be prescribe" are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words "Only a private shipyard is eligible to receive a guarantee" are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(K). See 2006 Amendment note below.
 
 Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting "Administrator" for "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, wasrepealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 

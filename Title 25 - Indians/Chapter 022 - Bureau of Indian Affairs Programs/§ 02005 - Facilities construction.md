@@ -112,7 +112,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 &emsp;In addition to the plan submitted under subsection (c), the Secretary shall—
 
-&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term constructionand replacement list for all Bureau-funded schools;
+&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
 
 &emsp;&emsp;(B) using the list prepared under subparagraph (A), propose a list for the orderly replacement of all Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
 
@@ -182,7 +182,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (A) Classroom activities
 
-&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilitiesadjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
+&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilities adjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
 
 #### (B) Administrative activities
 
@@ -220,6 +220,8 @@ Nothing in this section shall diminish any Federal funding due to the receipt by
 
 (Pub. L. 95–561, title XI, §1125, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2021; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
@@ -235,6 +237,8 @@ Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

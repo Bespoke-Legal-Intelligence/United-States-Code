@@ -56,6 +56,8 @@ Pub. L. 90–209, §3, Dec. 18, 1967, 81 Stat. 656.
 
 In subsection (c), the words "among other things" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(2), (3). Pub. L. 114–289 added par. (2) and redesignated former par. (2) as (3).

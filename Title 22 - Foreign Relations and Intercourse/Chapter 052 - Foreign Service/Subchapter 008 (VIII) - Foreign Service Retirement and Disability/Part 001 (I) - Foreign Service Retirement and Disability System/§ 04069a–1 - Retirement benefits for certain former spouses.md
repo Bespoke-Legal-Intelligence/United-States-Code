@@ -2,7 +2,7 @@
 
 #### (a) Eligibility; percentage of benefits
 
-Any individual who was a former spouse of a participant or former participant on February 14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
+Any individual who was a former spouse of a participant or former participant on February14, 1981, shall be entitled, to the extent of available appropriations, and except to the extent such former spouse is disqualified under subsection (b), to benefits—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
@@ -58,6 +58,8 @@ Nothing in this section shall be construed to impair, reduce, or otherwise affec
 
 (Pub. L. 96–465, title I, §831, as added Pub. L. 100–238, title II, §204(a), Jan. 8, 1988, 101 Stat. 1770.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this section, referred to in subsec. (c)(4), see Effective Date note set out below.
@@ -65,6 +67,8 @@ For the effective date of this section, referred to in subsec. (c)(4), see Effec
 #### Codification
 
 Another section 831 of the Foreign Service Act of 1980 was enacted by Pub. L. 100–204 and is classified to section 4069b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

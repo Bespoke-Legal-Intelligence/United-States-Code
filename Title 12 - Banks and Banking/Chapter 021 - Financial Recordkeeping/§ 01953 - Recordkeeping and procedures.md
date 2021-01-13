@@ -10,13 +10,15 @@ If the Secretary determines that the maintenance of appropriate records and proc
 
 #### (b) Institutions subject to recordkeeping requirements
 
-The authority of the Secretary of the Treasury under subsection (a) extends to any financial institution (as defined in section 5312(a)(2) of title 31), other than any insured bank (as defined in section 1813(h) of this title) and any insured institution (as defined in section 1724(a) <sup>1</sup>of this title), and any partner, officer, director, or employee of any such financial institution.
+The authority of the Secretary of the Treasury under subsection (a) extends to any financial institution (as defined in section 5312(a)(2) of title 31), other than any insured bank (as defined in section 1813(h) of this title) and any insured institution (as defined in section 1724(a) <sup>1</sup> of this title), and any partner, officer, director, or employee of any such financial institution.
 
 #### (c) Acceptance of automated records
 
 The Secretary shall permit an uninsured bank or financial institution to retain or maintain records referred to in subsection (a) in electronic or automated form, subject to terms and conditions established by the Secretary.
 
 (Pub. L. 91–508, title I, §123, Oct. 26, 1970, 84 Stat. 1116; Pub. L. 100–690, title VI, §6185(d)(3)(A), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 103–325, title III, §310, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 107–56, title III, §358(e), Oct. 26, 2001, 115 Stat. 327; Pub. L. 108–458, title VI, §6202(k), Dec. 17, 2004, 118 Stat. 3746.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Section 1724 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 &emsp;"(4) Operating a credit card system.
 
 &emsp;"(5) Performing such similar, related, or substitute functions for any of the foregoing or for banking as may be specified by the Secretary in regulations."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

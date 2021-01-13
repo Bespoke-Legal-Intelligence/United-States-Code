@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In accordance with regulations which the Secretary shall prescribe, each group health plan that is maintained by any State that receives funds under this chapter, by any political subdivision of such a State, or by any agency or instrumentality of such a State or political subdivision, shall provide, in accordance with this subchapter, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, within the election period, continuation coverage under the plan.
+In accordance with regulations which the Secretary shall prescribe, each group health plan that is maintained by any State that receivesfunds under this chapter, by any political subdivision of such a State, or by any agency or instrumentality of such a State or political subdivision, shall provide, in accordance with this subchapter, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, within the election period, continuation coverage under the plan.
 
 #### (b) Exception for certain plans
 

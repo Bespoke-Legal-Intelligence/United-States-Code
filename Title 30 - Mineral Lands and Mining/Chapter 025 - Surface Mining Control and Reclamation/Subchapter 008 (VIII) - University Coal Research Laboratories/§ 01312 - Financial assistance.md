@@ -16,6 +16,8 @@
 
 (Pub. L. 95–87, title VIII, §802, Aug. 3, 1977, 91 Stat. 527; Pub. L. 95–617, title VI, §604(c), Nov. 9, 1978, 92 Stat. 3167.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–617 substituted "Secretary of Energy" for "Administrator" wherever appearing.

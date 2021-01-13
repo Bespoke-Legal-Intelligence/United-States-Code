@@ -16,6 +16,8 @@ A provision for monthly salary payments was omitted since time of payment is a m
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§351 et seq.) of Title 2, The Congress.
@@ -30,9 +32,11 @@ Section 225 of the Federal Salary Act of 1967, referred to in text, is section 2
 
 <b>1955</b>—Act Mar. 2, 1955, increased salaries of judges from $15,000 to $22,500 a year.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -41,6 +45,8 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 #### Effective Date of 1955 Amendment
 
 Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 4501 of Title 2, The Congress.
+
+#### <b>Statutory Notes and Executive Documents</b>
 
 #### Salary Increases
 
@@ -52,5 +58,5 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 Salaries of presiding judge and associate judges increased from $10,000 to $15,000 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
 
-Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Actof 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
+Salaries of presiding judge and associate judges increased from $9,000 to $10,000 a year by the Tariff Act of 1930, act June 17, 1930, ch. 497, title IV, §518, 46 Stat. 737.
 

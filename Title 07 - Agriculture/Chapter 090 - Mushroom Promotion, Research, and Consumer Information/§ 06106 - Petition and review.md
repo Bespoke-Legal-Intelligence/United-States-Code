@@ -22,7 +22,7 @@
 
 #### (1) Commencement of action
 
-&emsp;The district courts of the United States in any district in which a person who is a petitioner under subsection (a) resides or carries on business are hereby vested with jurisdiction to review the ruling on such person's petition, if a complaint for that purpose is filed within 20 days after the date of the entry of such ruling of the Secretary under subsection (a).
+&emsp;The district courts of the United States in any district in which a person who is a petitioner under subsection (a) resides or carries on business are hereby vested with jurisdiction to review the ruling on such person's petition, if a complaint for that purpose is filedwithin 20 days after the date of the entry of such ruling of the Secretary under subsection (a).
 
 #### (2) Process
 

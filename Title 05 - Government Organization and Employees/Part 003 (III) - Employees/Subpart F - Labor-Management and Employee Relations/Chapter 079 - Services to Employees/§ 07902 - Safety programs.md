@@ -56,11 +56,15 @@ In subsection (d), the word "foster" is omitted as included in "develop and supp
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–241 inserted "(not including the United States Postal Service)" after "Government of the United States".
 
 <b>1970</b>—Subsec. (c)(1). Pub. L. 91–596 included representatives of labor organizations representing employees.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10990
 
@@ -194,7 +198,7 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary orheads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 

@@ -1954,6 +1954,68 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–CCC—NEW RIVER GORGE NATIONAL PARK AND PRESERVE
+
+|  |  |
+| :--- | ---: |
+| [410eeee.](Subchapter%20059%E2%80%93CCC%20%28LIX%E2%80%93CCC%29%20-%20New%20River%20Gorge%20National%20Park%20and%20Preserve/%C2%A7%2000410eeee%20-%20New%20River%20Gorge%20National%20Park%20and%20Preserve%20Designation.md) | New River Gorge National Park and Preserve Designation. |
+| 410eeee–1. | Establishment; administration, protection, and development; utilization of other authorities; boundary description, availability for public inspection. |
+| 410eeee–2. | Acquisition of property. |
+| 410eeee–3. | Lands and areas plan; submission to Congressional committees. |
+| 410eeee–4. | Zoning laws and ordinances; establishment; assistance; restrictions; variances. |
+| 410eeee–5. | Mineral lands. |
+| 410eeee–6. | Hunting and fishing zones; designation; rules and regulations, consultation. |
+| 410eeee–7. | Project work prohibition; advisement to Secretary; report to Congress. |
+| 410eeee–8. | General management plan; submission to Congressional committees. |
+| 410eeee–9. | Cooperation. |
+| 410eeee–10. | Class I or class II redesignation for clean air purposes. |
+| 410eeee–11. | Authorization of appropriations. |
+| 410eeee–12. | Cooperative agreements with State. |
+| 410eeee–13. | Improvement of access at Cunard. |
+| 410eeee–14. | Flow management. |
+| 410eeee–15. | Glade Creek visitor facility. |
+| 410eeee–16. | New River Gorge and Gauley River Visitor Center. |
+| 410eeee–17. | Applicable provisions of other law. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–DDD—WEIR FARM NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410ffff.](Subchapter%20059%E2%80%93DDD%20%28LIX%E2%80%93DDD%29%20-%20Weir%20Farm%20National%20Historical%20Park/%C2%A7%2000410ffff%20-%20Definitions.md) | Definitions. |
+| 410ffff–1. | Findings and purposes. |
+| 410ffff–2. | Establishment of Weir Farm National Historical Park. |
+| 410ffff–3. | Acquisition of real and personal property and services. |
+| 410ffff–4. | Administration of historical park. |
+| 410ffff–5. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–EEE—HOMESTEAD NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410gggg.](Subchapter%20059%E2%80%93EEE%20%28LIX%E2%80%93EEE%29%20-%20Homestead%20National%20Historical%20Park/%C2%A7%2000410gggg%20-%20Homestead%20National%20Historical%20Park%3B%20establishment.md) | Homestead National Historical Park; establishment. |
+| 410gggg–1. | Administration; establishment of museum. |
+| 410gggg–2. | Authorization of annual appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER LIX–FFF—JIMMY CARTER NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410hhhh.](Subchapter%20059%E2%80%93FFF%20%28LIX%E2%80%93FFF%29%20-%20Jimmy%20Carter%20National%20Historical%20Park/%C2%A7%2000410hhhh%20-%20Establishment%20of%20Jimmy%20Carter%20National%20Historic%20Site%201.md) | Establishment of Jimmy Carter National Historic Site. |
+| 410hhhh–1. | Jimmy Carter National Preservation District. |
+| 410hhhh–2. | Administration of historic site and preservation district. |
+| 410hhhh–3. | Advisory commission. |
+| 410hhhh–4. | Management plan. |
+| 410hhhh–5. | Definitions. |
+| 410hhhh–6. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -2242,10 +2304,7 @@
 | [450r.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450r%20-%20Ackia%20Battleground%20National%20Monument%3B%20establishment.md) | Ackia Battleground National Monument; establishment. |
 | [450s.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450s%20-%20Omitted.md) | Omitted. |
 | [450t.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450t%20-%20Administration%2C%20protection%2C%20and%20development.md) | Administration, protection, and development. |
-| [450u.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450u%20-%20Homestead%20National%20Monument%20of%20America%3B%20establishment.md) | Homestead National Monument of America; establishment. |
-| [450v.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450v%20-%20Omitted.md) | Omitted. |
-| [450w.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450w%20-%20Administration%3B%20establishment%20of%20museum.md) | Administration; establishment of museum. |
-| [450x.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450x%20-%20Authorization%20of%20annual%20appropriations.md) | Authorization of annual appropriations. |
+| 450u to 450x. | Transferred or Omitted. |
 | [450y.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450y%20-%20Coronado%20National%20Memorial%3B%20establishment.md) | Coronado National Memorial; establishment. |
 | 450y–1. | Administration. |
 | 450y–2. | Grazing within memorial area. |
@@ -2618,23 +2677,7 @@
 
 |  |  |
 | :--- | ---: |
-| 460m–15. | Establishment; administration, protection, and development; utilization of other authorities; boundary description, availability for public inspection. |
-| 460m–16. | Acquisition of property. |
-| 460m–17. | Lands and areas plan; submission to Congressional committees. |
-| 460m–18. | Zoning laws and ordinances; establishment; assistance; restrictions; variances. |
-| 460m–19. | Mineral lands. |
-| 460m–20. | Hunting and fishing zones; designation; rules and regulations, consultation. |
-| 460m–21. | Project work prohibition; advisement to Secretary; report to Congress. |
-| 460m–22. | General management plan; submission to Congressional committees. |
-| 460m–23. | Cooperation. |
-| 460m–24. | Class I or class II redesignation for clean air purposes. |
-| 460m–25. | Authorization of appropriations. |
-| 460m–26. | Cooperative agreements with State. |
-| 460m–27. | Improvement of access at Cunard. |
-| 460m–28. | Flow management. |
-| 460m–29. | Glade Creek visitor facility. |
-| 460m–29a. | New River Gorge and Gauley River Visitor Center. |
-| 460m–30. | Applicable provisions of other law. |
+| 460m–15 to 460m–30. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3914,6 +3957,10 @@
 - [Subchapter 059&#8211;ZZ (LIX&#8211;ZZ) - Reconstruction Era National Historical Park](Subchapter%20059%E2%80%93ZZ%20%28LIX%E2%80%93ZZ%29%20-%20Reconstruction%20Era%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;AAA (LIX&#8211;AAA) - Golden Spike National Historical Park](Subchapter%20059%E2%80%93AAA%20%28LIX%E2%80%93AAA%29%20-%20Golden%20Spike%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;BBB (LIX&#8211;BBB) - White Sands National Park](Subchapter%20059%E2%80%93BBB%20%28LIX%E2%80%93BBB%29%20-%20White%20Sands%20National%20Park/README.md)
+- [Subchapter 059&#8211;CCC (LIX&#8211;CCC) - New River Gorge National Park and Preserve](Subchapter%20059%E2%80%93CCC%20%28LIX%E2%80%93CCC%29%20-%20New%20River%20Gorge%20National%20Park%20and%20Preserve/README.md)
+- [Subchapter 059&#8211;DDD (LIX&#8211;DDD) - Weir Farm National Historical Park](Subchapter%20059%E2%80%93DDD%20%28LIX%E2%80%93DDD%29%20-%20Weir%20Farm%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;EEE (LIX&#8211;EEE) - Homestead National Historical Park](Subchapter%20059%E2%80%93EEE%20%28LIX%E2%80%93EEE%29%20-%20Homestead%20National%20Historical%20Park/README.md)
+- [Subchapter 059&#8211;FFF (LIX&#8211;FFF) - Jimmy Carter National Historical Park](Subchapter%20059%E2%80%93FFF%20%28LIX%E2%80%93FFF%29%20-%20Jimmy%20Carter%20National%20Historical%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)

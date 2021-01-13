@@ -8,7 +8,7 @@
 
 #### (2) Financial assistance
 
-&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for,or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
+&emsp;The Farm Credit Banks may provide and extend financial assistance to, and discount for, or purchase from, a Federal land bank association any note, draft, or other obligation with the endorsement or guarantee of the association, the proceeds of which have been advanced to persons eligible and for purposes of financing by the association, as authorized under section 2279b(a) of this title.
 
 #### (b) Intermediate credit
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) any production credit association, or
 
-&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged in the making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
+&emsp;&emsp;(B) any national bank, State bank, trust company, agricultural credit corporation, incorporated livestock loan company, savings institution, credit union, or any association of agricultural producers engaged inthe making of loans to farmers and ranchers, and any corporation engaged in the making of loans to producers or harvesters of aquatic products,
 
 > &emsp;any note, draft, or other obligation with the institution's endorsement or guarantee, the proceeds of which note, draft, or other obligation have been advanced to persons and for purposes eligible for financing by production credit associations as authorized by this chapter.
 
@@ -68,6 +68,8 @@
 
 (Pub. L. 92–181, title I, §1.7, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1625; amended Pub. L. 100–399, title IV, §401(e), (f), Aug. 17, 1988, 102 Stat. 995, 996.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b)(5), "December 24, 1980" substituted for "the effective date of the Farm Credit Act Amendments of 1980".
@@ -78,13 +80,15 @@ A prior section 2015, Pub. L. 92–181, title I, §1.7, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading "and related assistance" and amended textgenerally. Prior to amendment, text read as follows: "The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years."
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(e), inserted in heading "and related assistance" and amended text generally. Prior to amendment, text read as follows: "The Farm Credit Banks are authorized to make or participate with other lenders in long-term real estate mortgage loans in rural areas, as defined by the Farm Credit Administration, or to producers or harvesters of aquatic products, and make continuing commitments to make such loans under specified circumstances, for a term of not less than 5 nor more than 40 years."
 
 Subsec. (b)(2). Pub. L. 100–399, §401(f)(1), struck out provision that banks may own and lease or lease with an option to purchase to persons eligible for assistance under this subchapter, equipment needed in the operations of such persons.
 
 Subsec. (b)(3). Pub. L. 100–399, §401(f)(2), substituted in heading "services" for "assistance" and in subpar. (B) "described in subparagraph (A)" for "herein contained".
 
 Subsec. (b)(4)(A). Pub. L. 100–399, §401(f)(3), substituted "subsection" for "section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

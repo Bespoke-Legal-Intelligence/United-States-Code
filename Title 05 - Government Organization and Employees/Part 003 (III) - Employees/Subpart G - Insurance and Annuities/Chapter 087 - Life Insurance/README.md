@@ -25,6 +25,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.

@@ -1,5 +1,7 @@
 ### §1200b. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 6, 1954, ch. 463, §5, 68 Stat. 453, which related to inclusion of other provisions in contracts under former sections 1198 to 1200e of this title, was omitted from the Code as being of special and not general application.

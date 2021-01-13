@@ -48,6 +48,8 @@ In subsection (b)(2), the words "in writing" and "pursuant to the provisions of 
 
 In subsection (b)(3), the words "divulge . . . in any manner whatever to any person" are omitted as surplus. The words "information derived from a record or property of, or in use by, the Service or the Bureau" are substituted for "any information described in clause (B)" for clarity and consistency. The words "in a form . . . be associated with or otherwise . . . directly or indirectly" are omitted as surplus. The word "powers" is substituted for "responsibilities" for consistency. The words "that the record or property be made known" are substituted for "such disclosure" for clarity. The text of 31:67(d)(2)(last sentence) is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -64,6 +66,8 @@ Subsec. (b)(3). Pub. L. 107–296, §1112(m)(3)(C), substituted "or either Burea
 
 <b>1986</b>—Subsecs. (a), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -72,7 +76,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -18,7 +18,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (B) Use of funds
 
-&emsp;&emsp;Amounts received by a facility of the Service under subparagraph (A) by reason of a provision of title XVIII or XIX of the SocialSecurity Act shall first be used (to such extent or in such amounts as are provided in appropriation Acts) for the purpose of making any improvements in the programs of the Service operated by or through such facility which may be necessary to achieve or maintain compliance with the applicable conditions and requirements of such respective title. Any amounts so received that are in excess of the amount necessary to achieve or maintain such conditions and requirements shall, subject to consultation with the Indian tribes being served by the Service unit, be used for reducing the health resource deficiencies (as determined in section 1621(c) of this title) of such Indian tribes, including the provision of services pursuant to section 1621d of this title.
+&emsp;&emsp;Amounts received by a facility of the Service under subparagraph (A) by reason of a provision of title XVIII or XIX of the Social Security Act shall first be used (to such extent or in such amounts as are provided in appropriation Acts) for the purpose of making any improvements in the programs of the Service operated by or through such facility which may be necessary to achieve or maintain compliance with the applicable conditions and requirements of such respective title. Any amounts so received that are in excess of the amount necessary to achieve or maintain such conditions and requirements shall, subject to consultation with the Indian tribes being served by the Service unit, be used for reducing the health resource deficiencies (as determined in section 1621(c) of this title) of such Indian tribes, including the provision of services pursuant to section 1621d of this title.
 
 #### (2) Direct payment option
 
@@ -64,9 +64,11 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (e) Related provisions under the Social Security Act
 
-For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> of the Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
+For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> ofthe Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
 
 (Pub. L. 94–437, title IV, §401, Sept. 30, 1976, 90 Stat. 1408; Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

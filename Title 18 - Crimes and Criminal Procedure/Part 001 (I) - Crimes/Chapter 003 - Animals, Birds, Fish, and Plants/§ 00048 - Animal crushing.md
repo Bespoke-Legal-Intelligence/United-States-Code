@@ -76,7 +76,7 @@ No Preemption.—Nothing in this section shall be construed to preempt the law o
 
 Definitions.—In this section—
 
-&emsp;(1) the term "animal crushing" means actual conduct in which one or more living non-human mammals, birds, reptiles, or amphibians is purposely crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242);
+&emsp;(1) the term "animal crushing" means actual conduct in which one or more living non-human mammals, birds, reptiles, or amphibians is purposely crushed, burned, drowned,suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242);
 
 &emsp;(2) the term "animal crush video" means any photograph, motion-picture film, video or digital recording, or electronic image that—
 
@@ -92,11 +92,15 @@ Definitions.—In this section—
 
 (Added Pub. L. 106–152, §1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, §3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, §2(a), Nov. 25, 2019, 133 Stat. 1151.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos.
 
 <b>2010</b>—Pub. L. 111–294 amended section generally. Prior to amendment, section related to depiction of animal cruelty.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Severability
 

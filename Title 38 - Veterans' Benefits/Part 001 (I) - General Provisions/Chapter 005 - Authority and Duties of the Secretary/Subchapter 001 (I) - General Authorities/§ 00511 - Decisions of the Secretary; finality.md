@@ -14,11 +14,15 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 388.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 511 was renumbered section 1511 of this title.
 
 Provisions similar to those in this section were contained in section 211(a) of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### <b>Court Rules</b>
 
 #### Federal Rules of Civil Procedure
 

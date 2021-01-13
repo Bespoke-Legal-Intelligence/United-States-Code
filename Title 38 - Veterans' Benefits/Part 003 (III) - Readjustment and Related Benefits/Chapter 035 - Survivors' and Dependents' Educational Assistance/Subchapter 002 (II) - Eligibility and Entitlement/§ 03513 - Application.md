@@ -4,6 +4,8 @@ The parent or guardian of a person or the eligible person if such person has att
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1195, §1713; Pub. L. 94–502, title III, §305, Oct. 15, 1976, 90 Stat. 2390; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3513, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1713 of this title as this section.
@@ -11,6 +13,8 @@ The parent or guardian of a person or the eligible person if such person has att
 <b>1989</b>—Pub. L. 101–237 substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1976</b>—Pub. L. 94–502 inserted reference to eligible person who have attained legal majority and substituted "the Administrator shall approve" for "he shall approve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

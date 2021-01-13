@@ -16,6 +16,8 @@ The head of an executive agency shall provide the additional payment authorized 
 
 (Pub. L. 96–465, title I, §415, as added Pub. L. 113–76, div. K, title VII, §7082(b)(1), Jan. 17, 2014, 128 Stat. 565; amended Pub. L. 114–113, div. K, title VII, §7034(d)(5)(A), Dec. 18, 2015, 129 Stat. 2763; Pub. L. 115–31, div. J, title VII, §7034(k)(8), May 5, 2017, 131 Stat. 651.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2656f(d) of this title, referred to in subsecs. (a)(1) and (b), was in the original "section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999", and was translated as meaning "section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989", to reflect the probable intent of Congress.
@@ -26,9 +28,11 @@ Section 2656f(d) of this title, referred to in subsecs. (a)(1) and (b), was in t
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–113 substituted "a special payment of $400,000, which shall be in addition to any employer provided life insurance policy coverage" for "a payment from the United States in an amount that, when added to the amount of the employee's employer-provided group life insurance policy coverage (if any), equals $400,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section applicable in the case of a Foreign Service or executive branch employee subject to the authority of the chief of mission pursuant to section 3927 of this title, serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in section 2656f(d) of this title, see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under section 3973 of this title.
+Section applicable in the case of a Foreign Service or executive branch employee subject to the authority ofthe chief of mission pursuant to section 3927 of this title, serving at a United States diplomatic or consular mission abroad, who died on or after April 18, 1983, as a result of injuries from an act of terrorism, as defined in section 2656f(d) of this title, see section 7082(c) of Pub. L. 113–76, set out as an Effective Date of 2014 Amendment note under section 3973 of this title.
 
 #### Applicability
 

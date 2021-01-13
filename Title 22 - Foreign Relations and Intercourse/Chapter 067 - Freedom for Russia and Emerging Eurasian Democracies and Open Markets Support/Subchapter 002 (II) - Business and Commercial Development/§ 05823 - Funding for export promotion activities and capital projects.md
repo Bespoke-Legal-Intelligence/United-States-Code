@@ -18,7 +18,7 @@ The Secretary of Commerce, as Chair of the Trade Promotion Coordination Committe
 
 &emsp;(3) Utilizing the Market Development Cooperator Program under section 4723 of title 15.
 
-&emsp;(4) Developing programs specifically for the purpose of assisting small- and medium-sized businesses in entering commercial markets of the independent states. In carrying out this paragraph, the Secretary of Commerce, to the extent possible, should work directly with private sector organizations with proven experience in trade and economic relations with the independent states.
+&emsp;(4) Developing programs specifically for the purpose of assisting small- and medium-sized businesses in entering commercial markets of the independent states. In carrying out thisparagraph, the Secretary of Commerce, to the extent possible, should work directly with private sector organizations with proven experience in trade and economic relations with the independent states.
 
 &emsp;(5) Supporting projects undertaken by the United States business community on the basis of partnership, joint venture, contractual, or other cooperative agreements with appropriate entities in the independent states.
 
@@ -27,6 +27,8 @@ The Secretary of Commerce, as Chair of the Trade Promotion Coordination Committe
 &emsp;(7) Supporting the Business Information Service (BISNIS) and its related programs.
 
 (Pub. L. 102–511, title III, §303, Oct. 24, 1992, 106 Stat. 3333.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

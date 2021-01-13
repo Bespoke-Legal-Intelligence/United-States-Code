@@ -10,7 +10,7 @@
 
 &emsp;(B) to assist the President, and advise the Trade Representative, with respect to the development and implementation of the international trade policy objectives of the United States; and
 
-&emsp;(C) to advise the President and the Trade Representative with respect to the relationship between the international trade policy objectives of the United States and othermajor policy areas which may significantly affect the overall international trade policy and trade competitiveness of the United States.
+&emsp;(C) to advise the President and the Trade Representative with respect to the relationship between the international trade policy objectives of the United States and other major policy areas which may significantly affect the overall international trade policy and trade competitiveness of the United States.
 
 (3) The interagency organization shall be composed of the following:
 
@@ -82,7 +82,7 @@ East-West Foreign Trade Board, which was established by Pub. L. 93–618, title 
 
 #### Establishment of Interagency Group
 
-For provisions establishing an interagency group within the interagency organization established underthis section, relating to the implementation of chapter 19 of the North American Free Trade Agreement as well as the oversight of the United States Section established under section 3315 of this title, see section 3432(c)(2) of this title.
+For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapter 10 of the United States-Mexico-Canada Agreement, see section 4582(c)(2) of this title.
 
 For provisions establishing an interagency group within the interagency organization established under this section, relating to the implementation of chapters 18 and 19 of the United States-Canada Free-Trade Agreement, see section 405 of Pub. L. 100–449, set out in a note under section 2112 of this title.
 

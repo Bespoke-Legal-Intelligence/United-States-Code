@@ -116,7 +116,7 @@ Pub. L. 94–455, title V, §507, Oct. 4, 1976, 90 Stat. 1569, mandated a full a
 
 #### Study of Expanded Participation in Individual Retirement Accounts
 
-Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
+Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report itsfindings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
 #### Tax Incentives Study
 

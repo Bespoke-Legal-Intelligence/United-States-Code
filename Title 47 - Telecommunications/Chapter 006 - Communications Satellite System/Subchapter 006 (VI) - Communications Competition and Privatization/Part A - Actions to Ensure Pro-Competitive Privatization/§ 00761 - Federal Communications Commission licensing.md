@@ -28,7 +28,7 @@
 
 #### (C) National security, law enforcement, and public safety
 
-&emsp;&emsp;The Commission shall not impose any limitation, condition, or restriction under subparagraph (B) in a manner that will, or is reasonably likely to, result in limitation, denial, or revocation of authority for non-core services that are used by and required for a national security agency or law enforcement department or agency of the United States, or used by and required for, and otherwise in the public interest, any other Department or Agency of the United States to protect the health and safety of the public. Such services may be obtained by the United States directly from INTELSAT, Inmarsat, or a successor entity, or indirectly through COMSAT, or authorized carriers or distributors of the successor entity.
+&emsp;&emsp;The Commission shall not impose any limitation, condition, or restriction under subparagraph (B) in a manner that will, or is reasonably likely to, result in limitation, denial, or revocation of authority for non-core services that are used by and required for a national security agency or law enforcement department or agency of the United States, or used by and required for, and otherwise in the public interest, any other Department or Agency of the United States to protect the health and safety of the public. Such services may be obtained by the United States directly from INTELSAT,Inmarsat, or a successor entity, or indirectly through COMSAT, or authorized carriers or distributors of the successor entity.
 
 #### (D) Rule of construction
 
@@ -52,11 +52,15 @@ Nothing in this section shall be construed as precluding COMSAT from investing i
 
 (Pub. L. 87–624, title VI, §601, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 48.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 763b of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 109–34, §2, July 12, 2005, 119 Stat. 377.
 
 Section 763c of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 

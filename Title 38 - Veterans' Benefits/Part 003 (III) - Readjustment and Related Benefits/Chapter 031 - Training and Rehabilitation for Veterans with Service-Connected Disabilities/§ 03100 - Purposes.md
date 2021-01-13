@@ -4,9 +4,13 @@ The purposes of this chapter are to provide for all services and assistance nece
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1500; renumbered §3100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83 renumbered section 1500 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

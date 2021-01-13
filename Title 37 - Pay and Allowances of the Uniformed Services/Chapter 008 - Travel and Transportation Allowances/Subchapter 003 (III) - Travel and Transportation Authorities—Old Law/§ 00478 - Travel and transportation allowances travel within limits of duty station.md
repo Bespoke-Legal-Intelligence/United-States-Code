@@ -34,6 +34,8 @@ June 30, 1949, ch. 288, §211(m); added Sept. 1, 1954, ch. 1211, §2 (13th par.)
 
 The words "(as defined in the Career Compensation Act of 1949, as amended)" and "so directed" are omitted as surplusage. The words "official business of the United States" are substituted for the words "official Government business".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -49,6 +51,8 @@ Subsec. (c). Pub. L. 112–81, §631(e)(11), added subsec. (c).
 <b>1987</b>—Pub. L. 100–26 substituted "privately owned" for "privately-owned".
 
 <b>1985</b>—Pub. L. 99–145 inserted "plus parking fees" after "fixed rate a mile".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

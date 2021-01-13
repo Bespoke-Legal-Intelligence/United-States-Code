@@ -4,6 +4,8 @@ In all trials about the right of property in which an Indian may be a party on o
 
 (R.S. §2126.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2126 derived from act June 30, 1834, ch. 161, §22, 4 Stat. 733.

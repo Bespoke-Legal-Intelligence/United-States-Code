@@ -36,7 +36,7 @@ Audit.—The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) for casting fine gold and silver bars (within the limit prescribed for refining), except that any waste allowance under this clause may not apply to deposit operations.
 
-(c) After settlement, the Secretary shall compare the amount of gold and silver bullion and coins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
+(c) After settlement, the Secretary shall compare the amount of gold and silver bullion andcoins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
 
 (d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
 
@@ -97,6 +97,8 @@ In subsection (b), before clause (1), the words "shall settle" are substituted f
 In subsection (c), the words "It shall also be the duty of the superintendent to forward a correct statement of his balance sheet" are omitted as superseded by the source provisions restated in section 321(c) of the revised title. The words "mints and assay offices" are substituted for "mint" for consistency in the section.
 
 In subsection (d), the words "National Bureau of Standards of the Department of Commerce" are substituted for "Bureau of Standards of the United States" because of 15:1511. The words "from .01 grain" are substituted for "from the hundredths part of a grain" for consistency. The words "under the inspection of the superintendent and assayer" are omitted as superseded by the source provisions restated in section 321(c) of the revised title. The words "and the accuracy of those used at the mint at Philadelphia shall be tested annually in the presence of the assay commissioners, at the time of the annual examination and test of coins" are omitted because the position of assay commissioner was abolished by section 201 of the Act of March 14, 1980 (Pub. L. 96–209, 94 Stat. 98).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

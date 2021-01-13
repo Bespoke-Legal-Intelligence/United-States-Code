@@ -46,7 +46,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and 
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322,title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
 
 Historical and Revision Notes
 
@@ -71,6 +71,8 @@ The sections are combined and reorganized for clarity. Former section 300 of tit
 In subsection (a), the word "shall" is substituted for "has the duty" as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
 
 In subsection (c), the authority to appoint officials for the cited purposes is implied.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -108,6 +110,8 @@ Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated for
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted "exchange of records and information authorized by subsection (a)(4)" for "exchange of records authorized by subsection (a)(2)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
@@ -130,7 +134,7 @@ Pub. L. 109–162, title IX, §905(b), Jan. 5, 2006, 119 Stat. 3080, as amended 
 
 #### National Gang Intelligence Center
 
-Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, §251(a),July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, §251(a), July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
 
 #### Reviews of Criminal Records of Applicants for Private Security Officer Employment
 
@@ -180,7 +184,7 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 #### "SEC. 614. REPORT.
 
-"By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the Federal Bureau of Investigation shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000."
+"By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the FederalBureau of Investigation shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000."
 
 #### FBI Fees To Process Fingerprint Identification Records and Name Checks
 

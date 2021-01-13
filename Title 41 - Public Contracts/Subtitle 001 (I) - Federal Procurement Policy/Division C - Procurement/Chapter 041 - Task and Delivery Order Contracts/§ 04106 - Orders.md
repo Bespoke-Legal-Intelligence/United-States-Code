@@ -68,7 +68,7 @@ Task and Delivery Order Ombudsman.—
 
 &emsp;(1)
 
-Appointment or designation and responsibilities.—The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task ordelivery orders when required under subsection (c).
+Appointment or designation and responsibilities.—The head of each executive agency who awards multiple task or delivery order contracts under section 4103(d)(1)(B) or 4105(f) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on those contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (c).
 
 &emsp;(2)
 
@@ -122,6 +122,8 @@ June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, 
 
 In subsection (g)(2), the words "advocate for competition" are substituted for "competition advocate" for consistency with section 1705 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "the micro-purchase threshold under section 1902 of this title" for "$2,500" in introductory provisions.
@@ -130,7 +132,9 @@ In subsection (g)(2), the words "advocate for competition" are substituted for "
 
 <b>2011</b>—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: "This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Postaward Explanations for Unsuccessful Offerors for Certain Contracts
 
-Pub. L. 116–92, div. A, title VIII, §874, Dec. 20, 2019, 133 Stat. 1527, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Federal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror's offer."
+Pub. L. 116–92, div. A, title VIII, §874, Dec. 20, 2019, 133 Stat. 1527, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], theFederal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror's offer."
 

@@ -64,6 +64,8 @@ The last sentence of subsection (f) of former section 73b–1 which provided tha
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 403e of title 50, referred to in subsec. (f)(2), was editorially reclassified to section 3505 of Title 50, War and National Defense.
@@ -85,6 +87,8 @@ Pub. L. 104–201, §1715(a)(1), redesignated subsec. (d) as (e). Former subsec.
 Subsec. (f). Pub. L. 104–201, §1715(a)(1), redesignated subsec. (e) as (f).
 
 <b>1980</b>—Subsec. (e)(2). Pub. L. 96–465 substituted "section 403e(4) of title 50" for "(A) section 1138 of title 22; or" and struck out "(B) section 403e(4) of title 50".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

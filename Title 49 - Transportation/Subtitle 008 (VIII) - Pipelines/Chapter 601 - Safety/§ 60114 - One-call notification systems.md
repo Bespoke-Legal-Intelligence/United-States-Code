@@ -46,7 +46,7 @@ Prohibition Applicable to Excavators.—A person who engages in demolition, exca
 
 (e)
 
-Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—Any owner or operator of a pipeline facility who fails to respond to a location request in order toprevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
+Prohibition Applicable to Underground Pipeline Facility Owners and Operators.—Any owner or operator of a pipeline facility who fails to respond to a location request in order to prevent damage to the pipeline facility or who fails to take reasonable steps, in response to such a request, to ensure accurate marking of the location of the pipeline facility in order to prevent damage to the pipeline facility shall be subject to a civil action under section 60120 or assessment of a civil penalty under section 60122.
 
 (f)
 
@@ -54,7 +54,7 @@ Limitation.—The Secretary may not conduct an enforcement proceeding under subs
 
 (g)
 
-Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
+Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage causedby demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010; Pub. L. 109–468, §2(a)(1), (e), Dec. 29, 2006, 120 Stat. 3486, 3489.)
 

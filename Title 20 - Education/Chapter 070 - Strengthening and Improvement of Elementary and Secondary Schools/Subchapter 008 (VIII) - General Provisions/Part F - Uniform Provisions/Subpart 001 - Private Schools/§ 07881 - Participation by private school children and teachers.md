@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(i) requested that the State educational agency provide such services directly; and
 
-&emsp;&emsp;&emsp;(ii) demonstrated that the local educational agency involved has not met the requirements of this section in accordance with the procedures for making such a request, as prescribed by the State educational agency.
+&emsp;&emsp;&emsp;(ii) demonstrated that the local educational agency involved has not met therequirements of this section in accordance with the procedures for making such a request, as prescribed by the State educational agency.
 
 #### (d) Public control of funds
 
@@ -148,7 +148,7 @@
 
 #### Prior Provisions
 
-A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7881, Pub. L. 89–10, title IX, §9161, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3793; amended Pub. L. 105–220, title II, §251(b)(2)(E), Aug. 7, 1998, 112 Stat. 1080, defined terms, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 

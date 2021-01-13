@@ -16,7 +16,7 @@ The Congress finds the following:
 
 &emsp;(4) Hundreds of thousands of Army, Air Force, Marine Corps, Navy, and Coast Guard reservists and members of the National Guard have been called to active duty or active service.
 
-&emsp;(5) The men and women of the United States military put their lives on hold, leave theirfamilies, jobs, and postsecondary education in order to serve their country and do so with distinction.
+&emsp;(5) The men and women of the United States military put their lives on hold, leave their families, jobs, and postsecondary education in order to serve their country and do so with distinction.
 
 &emsp;(6) There is no more important cause for this Congress than to support the members of the United States military and provide assistance with their transition into and out of active duty and active service.
 

@@ -12,7 +12,7 @@ The House Recording Studio shall assist Members of the House of Representatives 
 
 The House Recording Studio shall be operated by the Chief Administrative Officer of the House of Representatives under the direction and control of a committee which is created (hereinafter referred to as the committee) composed of three Members of the House. Two members of the committee shall be from the majority party and one member shall be from the minority party, to be appointed by the Speaker. The committee is authorized to issue such rules and regulations relating to operation of the House Recording Studio as it may deem necessary.
 
-The Senate Recording Studio and the Senate Photographic Studio shall be operated by the Sergeant at Arms of the Senate under the direction and control of the Committee on Rules and Administration of the Senate. The Committeeon Rules and Administration is authorized to issue such rules and regulations relating to operation of the Senate Recording Studio and the Senate Photographic Studio as it may deem necessary.
+The Senate Recording Studio and the Senate Photographic Studio shall be operated by the Sergeant at Arms of the Senate under the direction and control of the Committee on Rules and Administration of the Senate. The Committee on Rules and Administration is authorized to issue such rules and regulations relating to operation of the Senate Recording Studio and the Senate Photographic Studio as it may deem necessary.
 
 #### (d) Prices of disk, film, and tape recordings; collection of moneys
 
@@ -48,7 +48,7 @@ All moneys received by the House Recording Studio from Members of the House of R
 
 #### (j) Availability of existing services and facilities
 
-Pending acquisition of the stock, supplies, materials, and equipment necessary to properlyequip both studios, the present services and facilities shall be made available to both studios in order that each studio may carry out its duty.
+Pending acquisition of the stock, supplies, materials, and equipment necessary to properly equip both studios, the present services and facilities shall be made available to both studios in order that each studio may carry out its duty.
 
 #### (k) Restrictions on employment
 
@@ -69,6 +69,8 @@ Effective with the completion of the transfer provided for by subsection (i) her
 Such sums as may be necessary to carry out the provisions of this section are authorized to be appropriated.
 
 (June 27, 1956, ch. 453, §105, 70 Stat. 370; Pub. L. 88–652, §16(a), Oct. 13, 1964, 78 Stat. 1084; Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205; Pub. L. 96–304, title I, §108(a), July 8, 1980, 94 Stat. 890; Pub. L. 97–257, title I, §102, Sept. 10, 1982, 96 Stat. 849; Pub. L. 101–520, title I, §7(a), (c), (d), Nov. 5, 1990, 104 Stat. 2258, 2259; Pub. L. 104–186, title II, §204(68), Aug. 20, 1996, 110 Stat. 1740.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -91,6 +93,8 @@ Subsec. (h). Pub. L. 101–520, §7(c), amended second sentence generally. Prior
 <b>1972</b>—Subsec. (n). Pub. L. 92–310 repealed subsec. (n) which required Directors of House and Senate Recording Studios to give bonds in sum of $20,000 each.
 
 <b>1964</b>—Subsec. (f). Pub. L. 88–652 struck out "and fix the compensation of" after "to appoint".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -124,7 +128,7 @@ House Barber Shops Revolving Fund' in the matter relating to the House of Repres
 
 &emsp;"(2) the revolving fund for the House Beauty Shop, established by the matter under the heading '
 
-housebeauty shop' in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriation Act, 1970 (Public Law 91–145; 83 Stat. 347);
+house beauty shop' in the matter relating to administrative provisions for the House of Representatives in the Legislative Branch Appropriation Act, 1970 (Public Law 91–145; 83 Stat. 347);
 
 &emsp;"(3) the special deposit account established for the House of Representatives Restaurant by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (40 U.S.C. 174k note) \[former 40 U.S.C. 174k\]; and
 

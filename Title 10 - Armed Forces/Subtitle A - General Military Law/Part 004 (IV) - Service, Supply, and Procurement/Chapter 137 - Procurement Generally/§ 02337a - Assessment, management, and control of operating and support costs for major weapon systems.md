@@ -64,6 +64,10 @@ Major Weapon System Defined.—In this section, the term "major weapon system" h
 
 (Added Pub. L. 115–91, div. A, title VIII, §836(a)(1), Dec. 12, 2017, 131 Stat. 1472; amended Pub. L. 115–232, div. A, title X, §1081(a)(20), Aug. 13, 2018, 132 Stat. 1984.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1848(d)(1), Jan. 1, 2021, 134 Stat. 4151, 4258, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 323 of this title, as added by section 1848(a) of Pub. L. 116–283, inserted after section 4324, and redesignated as section 4325 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Similar Provisions
 
 Provisions similar to this section were contained in section 832 of Pub. L. 112–81, which was set out as a note under section 2430 of this title, prior to repeal by Pub. L. 115–91, div. A, title VIII, §836(b)(1), Dec. 12, 2017, 131 Stat. 1473.
@@ -71,6 +75,10 @@ Provisions similar to this section were contained in section 832 of Pub. L. 112�
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "this title" for "title 10, United States Code".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Standardized Policy Guidance for Calculating Aircraft Operation and Sustainment Costs
 

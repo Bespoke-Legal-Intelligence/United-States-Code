@@ -18,7 +18,7 @@ Powers as Trustee.—To carry out its purposes, the foundation has the usual pow
 
 &emsp;(2) to acquire property or an interest in property by purchase or exchange;
 
-&emsp;(3) unless otherwise required by an instrument of transfer, to sell, donate, lease, invest, or otherwise dispose of any property or income from property;
+&emsp;(3) unless otherwise required by an instrument of transfer, to sell, donate, lease, invest,or otherwise dispose of any property or income from property;
 
 &emsp;(4) to borrow money and issue instruments of indebtedness;
 
@@ -41,6 +41,8 @@ Contracts.—The foundation may enter into such contracts with public and privat
 Annual Conference in Washington Metropolitan Area.—During each year (beginning with 2003), the foundation may sponsor a conference in the Washington, D.C. metropolitan area to honor secondary school students and other individuals who have served (or plan to serve) as poll workers and assistants and who have otherwise participated in the programs and activities of the foundation.
 
 (Added Pub. L. 107–252, title VI, §601(a), Oct. 29, 2002, 116 Stat. 1720, §152605; renumbered §90105, Pub. L. 113–237, §3(c)(6)(B), Dec. 18, 2014, 128 Stat. 2840.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -102,6 +102,8 @@ Section 1082(i), which required that the Administrator of GSA procure and distri
 
 Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously restated as subsections (b) and (c) of section 902 of title 36), is repealed as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–67 added subsec. (c) and struck out former subsec. (c) which set out specific days for POW/MIA flag display.
@@ -123,6 +125,8 @@ Display.—The flag shall be displayed—
 "(c)
 
 Termination of Flag Display Requirement.—Subsection (b) of this section ceases to apply when the President decides that the fullest possible accounting has been made of all members of the Armed Forces and civilian employees of the United States Government who have been identified as prisoners of war or missing in action in Southeast Asia."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Display on Existing Flagpole
 

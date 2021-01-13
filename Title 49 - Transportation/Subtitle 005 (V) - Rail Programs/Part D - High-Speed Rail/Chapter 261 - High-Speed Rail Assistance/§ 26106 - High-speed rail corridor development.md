@@ -26,7 +26,7 @@ High-speed rail.—The term "high-speed rail" means intercity passenger rail ser
 
 &emsp;(5)
 
-Intercity passenger rail service.—The term "intercity passenger rail service" has the meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
+Intercity passenger rail service.—The term "intercity passenger rail service" hasthe meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
 
 &emsp;(6)
 
@@ -120,7 +120,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;&emsp;(I) donated property interests or services;
 
-&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuter rail carriers commensurate with the benefit expected to their operations; and
+&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuterrail carriers commensurate with the benefit expected to their operations; and
 
 &emsp;&emsp;&emsp;&emsp;(III) financial commitments from host railroads, non-Federal governmental entities, non-governmental entities, and others.
 
@@ -246,7 +246,7 @@ Contents.—A proposal submitted under this subsection shall include—
 
 &emsp;&emsp;&emsp;"(v) the projected levels of capital investments required both initially and in subsequent years to maintain a state-of-good-repair necessary to provide the initially proposed level of service or higher levels of service;
 
-&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected to make a commitment to provide or secure funding and the amount of such commitment; and
+&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected tomake a commitment to provide or secure funding and the amount of such commitment; and
 
 &emsp;&emsp;&emsp;"(vii) projected funding for the full fair market compensation for any asset, property right or interest, or service acquired from, owned, or held by a private person or Federal entity that would be acquired, impaired, or diminished in value as a result of a project, except as otherwise agreed to by the private person or entity;
 

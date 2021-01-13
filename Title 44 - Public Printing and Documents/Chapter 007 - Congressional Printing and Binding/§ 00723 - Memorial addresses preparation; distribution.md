@@ -4,7 +4,7 @@ After the final adjournment of each session of Congress, there shall be compiled
 
 &emsp;of all eulogies on deceased Members of Congress to the Vice President and each Senator, Representative, and Resident Commissioner in Congress, one copy;
 
-&emsp;of the eulogies on deceased Senators there shall be furnished two hundred and fifty copies for each Senator of the State represented by the deceased and twenty copies for each Representative from that State;
+&emsp;of the eulogies on deceased Senators there shall be furnished two hundred and fifty copiesfor each Senator of the State represented by the deceased and twenty copies for each Representative from that State;
 
 &emsp;of the eulogies on a deceased Representative and Resident Commissioner two hundred and fifty copies for his successor in office; twenty copies for each of the other Representatives, or Resident Commissioner of the State, or insular possession represented by the deceased; and twenty copies for each Senator from that State.
 
@@ -16,6 +16,8 @@ The "usual number" of memorial addresses may not be printed.
 
 Based on 44 U.S. Code, 1964, ed., §151 (Aug. 23, 1894, ch. 307, 28 Stat. 447; Jan. 12, 1895, ch. 23, §73, 28 Stat. 616; June 20, 1936, ch. 630, title I, §1, 49 Stat. 1545).
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The 1981 amendment by Pub. L. 97–51 is based on section 4 of House Resolution 23, Ninety–seventh Congress, Mar. 10, 1981, as enacted into permanent law by H.R. 4120, as reported July 9, 1981, and incorporated by reference in section 101(c) of Pub. L. 97–51, to be effective as if enacted into law.
@@ -23,6 +25,8 @@ The 1981 amendment by Pub. L. 97–51 is based on section 4 of House Resolution 
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–51 inserted "or a former Member of Congress who served as Speaker" after "relative to the death of a Member of Congress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Restriction on Number of Bound Eulogies
 

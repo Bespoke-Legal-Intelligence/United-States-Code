@@ -8,6 +8,8 @@ There shall be one document room of the Senate and one of the House of Represent
 
 Based on 44 U.S. Code, 1964 ed., §165 (Jan. 12, 1895, ch. 23, §60, 28 Stat. 610; Mar. 3, 1901, ch. 830, §1, 31 Stat. 962).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–186 substituted "Clerk" for "Doorkeeper".

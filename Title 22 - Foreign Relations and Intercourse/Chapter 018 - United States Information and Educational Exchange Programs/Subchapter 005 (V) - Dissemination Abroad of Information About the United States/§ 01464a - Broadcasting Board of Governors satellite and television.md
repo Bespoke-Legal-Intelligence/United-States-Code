@@ -6,7 +6,7 @@ The Broadcasting Board of Governors is authorized to lease or otherwise acquire 
 
 #### (b) Broadcast principles
 
-The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the world by television. To be effective, the BroadcastingBoard of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
+The Congress finds that the long-term interests of the United States are served by communicating directly with the peoples of the world by television. To be effective, the Broadcasting Board of Governors must win the attention and respect of viewers. These principles will therefore govern the television broadcasts of the United States International Television Service:
 
 &emsp;(1) The United States International Television Service will serve as a consistently reliable and authoritative source of news. The United States International Television Service news will be accurate and objective.
 
@@ -40,6 +40,8 @@ When a comparable program produced by United States public or commercial broadca
 
 (Jan. 27, 1948, ch. 36, title V, §505, as added Pub. L. 101–246, title II, §205(a), Feb. 16, 1990, 104 Stat. 50; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(1), Oct. 21, 1998, 112 Stat. 2681–786.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(a)(1)(A), substituted "Broadcasting Board of Governors" for "Director of the United States Information Agency".
@@ -56,9 +58,11 @@ Subsec. (e)(1). Pub. L. 105–277, §1335(a)(1)(B), (D), substituted "Broadcasti
 
 Subsec. (e)(2). Pub. L. 105–277, §1335(a)(1)(D), substituted "the United States International Television Service" for "USIA–TV", wherever appearing.
 
-Pub. L. 105–277, §1335(a)(1)(A), (B), in first sentence, substituted "Broadcasting Board of Governors" for "United States Information Agency", and in last sentence, substituted "Broadcasting Board of Governors" for "Director of the United States Information Agency" after "statement by the" and for "United States Information Agency" after "available to the".
+Pub. L. 105–277, §1335(a)(1)(A), (B), in first sentence, substituted "Broadcasting Board of Governors" for "United States Information Agency", and in last sentence, substituted "Broadcasting Board of Governors"for "Director of the United States Information Agency" after "statement by the" and for "United States Information Agency" after "available to the".
 
 Subsec. (e)(3). Pub. L. 105–277, §1335(a)(1)(B), substituted "Broadcasting Board of Governors" for "United States Information Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -70,5 +74,5 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Television Service of USIA
 
-Pub. L. 100–204, title II, §207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specifiedfor Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 100–204, title II, §207, Dec. 22, 1987, 101 Stat. 1374, which provided that the television and film service of the United States Information Agency was to operate under same criteria and conditions as specified for Voice of America by section 1463 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(7), Oct. 21, 1998, 112 Stat. 2681–790.
 

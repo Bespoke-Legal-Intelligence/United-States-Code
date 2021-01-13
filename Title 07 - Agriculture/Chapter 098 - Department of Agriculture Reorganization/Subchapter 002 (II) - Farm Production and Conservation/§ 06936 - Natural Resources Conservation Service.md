@@ -40,7 +40,7 @@ In carrying out the programs specified in paragraphs (1) and (3) of subsection (
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federal employee unless such action is taken by another Federal employee.
+&emsp;Notwithstanding paragraph (1), no personnel action (as defined in section 2302(a)(2)(A) of title 5) may be taken with respect to a Federalemployee unless such action is taken by another Federal employee.
 
 #### (e) Savings provision
 

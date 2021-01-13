@@ -18,7 +18,7 @@ In addition to the land identified in subsection (a), the park shall also includ
 
 #### (c) Lands excluded from park
 
-Lands and interests in lands outside of the boundary so depicted as "Park Boundary" on the maps referred to in subsections (a) and (b)are hereby excluded from the park and shall be disposed of in accordance with the provisions of section 430g–5(c) of this title.
+Lands and interests in lands outside of the boundary so depicted as "Park Boundary" on the maps referred to in subsections (a) and (b) are hereby excluded from the park and shall be disposed of in accordance with the provisions of section 430g–5(c) of this title.
 
 (Pub. L. 101–377, §1, Aug. 17, 1990, 104 Stat. 464; Pub. L. 106–290, §1, Oct. 10, 2000, 114 Stat. 921; Pub. L. 113–291, div. B, title XXX, §3034(a), Dec. 19, 2014, 128 Stat. 3777.)
 

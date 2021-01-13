@@ -4,9 +4,13 @@ Whenever a civil action is filed in a court as defined in section 610 of this ti
 
 (Added Pub. L. 97–164, title III, §301(a), Apr. 2, 1982, 96 Stat. 55; amended Pub. L. 115–332, §2, Dec. 19, 2018, 132 Stat. 4487.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–332 inserted "(or, for cases within the jurisdiction of the United States Tax Court, to that court)" after "any other such court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

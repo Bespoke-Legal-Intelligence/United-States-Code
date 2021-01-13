@@ -26,6 +26,8 @@
 
 (June 27, 1952, ch. 477, title II, ch. 8, §280, 66 Stat. 230; Pub. L. 101–649, title V, §542(a), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 103–416, title II, §219(s), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §§308(g)(4)(C), 382(a), Sept. 30, 1996, 110 Stat. 3009–623, 3009–651.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 203(b) and 543(a) of the Immigration Act of 1990, referred to in subsec. (b)(2)(A), are sections 203(b) and 543(a) of Pub. L. 101–649. Section 203(b) of the Act amended section 1281 of this title. Section 543(a) of the Act amended sections 1221, former 1227, 1229 (now 1224), 1284, 1285, 1286, 1287, 1321, 1322, and 1323 of this title.
@@ -52,9 +54,11 @@ Subsec. (b). Pub. L. 104–208, §382(a), amended subsec. (b) generally. Prior t
 
 <b>1990</b>—Pub. L. 101–649 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(4)(C) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Pub. L. 104–208, div. C, title III, §382(c), Sept. 30, 1996, 110 Stat. 3009–651, provided that: "The amendments made by this section \[amending this section and section 1356 of this title\] shall apply to fines and penalties collected on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 

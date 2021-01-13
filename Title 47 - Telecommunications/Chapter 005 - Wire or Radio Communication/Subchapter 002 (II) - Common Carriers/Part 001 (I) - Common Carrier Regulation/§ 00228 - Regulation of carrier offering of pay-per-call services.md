@@ -72,7 +72,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (7) Billing for 800 calls
 
-&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number,or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
+&emsp;A common carrier shall prohibit by tariff or contract the use of any 800 telephone number, or other telephone number advertised or widely understood to be toll free, in a manner that would result in—
 
 &emsp;&emsp;(A) the calling party being assessed, by virtue of completing the call, a charge for the call;
 
@@ -202,7 +202,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Civil liability
 
-&emsp;No cause of action may be brought in any court or administrative agency against any common carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
+&emsp;No cause of action may be brought in any court or administrative agency against anycommon carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
 
 #### (f) Special provisions
 
@@ -222,7 +222,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (1) No preemption of election law
 
-&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier,local exchange carrier, or any other person from the obligation to comply with Federal, State, and local election statutes and regulations.
+&emsp;Nothing in this section shall relieve any provider of pay-per-call services, common carrier, local exchange carrier, or any other person from the obligation to comply with Federal, State, and local election statutes and regulations.
 
 #### (2) Consumer protection laws
 
@@ -266,6 +266,8 @@ For purposes of this section—
 
 (June 19, 1934, ch. 652, title II, §228, as added Pub. L. 102–556, title I, §101, Oct. 28, 1992, 106 Stat. 4182; amended Pub. L. 103–414, title III, §303(a)(13), (14), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title VII, §701(a)(1), (b)(2), Feb. 8, 1996, 110 Stat. 145, 148.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
@@ -285,6 +287,8 @@ Subsec. (i)(2). Pub. L. 104–104, §701(b)(2), struck out "or any service the c
 <b>1994</b>—Subsec. (c)(2) to (7). Pub. L. 103–414, §303(a)(13), redesignated par. (2), relating to compliance procedures, as (3) and pars. (3) to (6) as (4) to (7), respectively.
 
 Subsec. (c)(7)(D). Pub. L. 103–414, §303(a)(14), which directed substitution of "conversation" for "conservation" in par. (6)(D), was executed by making the substitution in par. (7)(D) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 103–414, §303(a)(13). See above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

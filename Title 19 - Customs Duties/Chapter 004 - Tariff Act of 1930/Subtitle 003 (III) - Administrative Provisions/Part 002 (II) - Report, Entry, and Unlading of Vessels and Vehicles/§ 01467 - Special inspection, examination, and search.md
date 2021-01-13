@@ -2,7 +2,7 @@
 
 Whenever a vessel from a foreign port or place or from a port or place in any Territory or possession of the United States arrives at a port or place in the United States or the Virgin Islands, whether directly or via another port or place in the United States or the Virgin Islands, the appropriate customs officer for such port or place of arrival may, under such regulations as the Secretary of the Treasury may prescribe and for the purpose of assuring compliance with any law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce, cause inspection, examination, and search to be made of the persons, baggage, and merchandise discharged or unladen from such vessel, whether or not any or all such persons, baggage, or merchandise has previously been inspected, examined, or searched by officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §467, as added June 25, 1938, ch. 679, §11, 52 Stat. 1083; amendedPub. L. 91–271, title III, §301(g), June 2, 1970, 84 Stat. 288.)
+(June 17, 1930, ch. 497, title IV, §467, as added June 25, 1938, ch. 679, §11, 52 Stat. 1083; amended Pub. L. 91–271, title III, §301(g), June 2, 1970, 84 Stat. 288.)
 
 #### Amendments
 
@@ -18,7 +18,7 @@ This section effective on the thirtieth day following June 25, 1938, except as o
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

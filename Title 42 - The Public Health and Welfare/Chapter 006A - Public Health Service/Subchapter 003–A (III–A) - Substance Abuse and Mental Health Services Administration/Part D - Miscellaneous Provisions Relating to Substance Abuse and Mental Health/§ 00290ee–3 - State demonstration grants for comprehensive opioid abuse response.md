@@ -104,7 +104,7 @@ In this section:
 
 #### (B) Plan for interoperability
 
-&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county orother unit of local government shall submit a plan outlining the methods such county or unit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
+&emsp;&emsp;In submitting an application to the Secretary under paragraph (3), a county or other unit of local government shall submit a plan outlining the methods such county or unit of local government shall use to ensure the capability of data sharing with other counties and units of local government within the state <sup>1</sup> and with other States, as applicable.
 
 #### (c) Authorization of funding
 
@@ -146,7 +146,7 @@ Opioid grants.—Grants awarded under this subsection shall be used for carrying
 
 &emsp;&emsp;"(B) Implementing prevention activities, and evaluating such activities to identify effective strategies to prevent opioid abuse.
 
-&emsp;&emsp;"(C) Training for health care practitioners, such as best practices for prescribing opioids, pain management, recognizing potential cases of substance abuse, referral of patients to treatment programs, preventing diversion of controlled substances, and overdose prevention.
+&emsp;&emsp;"(C) Training for health care practitioners, such as best practices for prescribing opioids, pain management, recognizing potential cases of substance abuse, referral of patients to treatment programs,preventing diversion of controlled substances, and overdose prevention.
 
 &emsp;&emsp;"(D) Supporting access to health care services, including those services provided by Federally certified opioid treatment programs or other appropriate health care providers to treat substance use disorders.
 
@@ -186,7 +186,7 @@ Report to Congress.—Not later than 1 year after the date on which amounts are 
 
 "(g)
 
-Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support torural and underserved communities and providers in addressing the opioid crisis.
+Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support to rural and underserved communities and providers in addressing the opioid crisis.
 
 "(h)
 

@@ -12,6 +12,7 @@ Part C—General Administrative Provisions
 - [&sect; 07255 - Subpoena](%C2%A7%2007255%20-%20Subpoena.md)
 - [&sect; 07256 - Contracts, leases, etc., with public agencies and private organizations and persons](%C2%A7%2007256%20-%20Contracts%2C%20leases%2C%20etc.%2C%20with%20public%20agencies%20and%20private%20organizations%20and%20persons.md)
 - [&sect; 07256a, 7256b - Transferred](%C2%A7%2007256a%2C%207256b%20-%20Transferred.md)
+- [&sect; 07256c - Milestone-based demonstration projects](%C2%A7%2007256c%20-%20Milestone-based%20demonstration%20projects.md)
 - [&sect; 07257 - Acquisition, construction, etc., of laboratories, research and testing sites, etc](%C2%A7%2007257%20-%20Acquisition%2C%20construction%2C%20etc.%2C%20of%20laboratories%2C%20research%20and%20testing%20sites%2C%20etc.md)
 - [&sect; 07257a to 7257c - Transferred](%C2%A7%2007257a%20to%207257c%20-%20Transferred.md)
 - [&sect; 07257d - Expanded research by Secretary of Energy](%C2%A7%2007257d%20-%20Expanded%20research%20by%20Secretary%20of%20Energy.md)

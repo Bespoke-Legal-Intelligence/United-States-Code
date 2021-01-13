@@ -38,7 +38,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;In awarding grants under this section, the Secretary shall give preference to eligible entities that demonstrate that the activities to be carried out under this section shall be in localities within areas of known or suspected high prevalence of childhood asthma or high asthma-related mortality or high rate of hospitalization or emergency room visits for asthma (relative to the average asthma prevalence rates and associated mortality rates in the United States). Acceptable data sets to demonstrate a high prevalence of childhood asthma or high asthma-related mortality may include data from Federal, State, or local vital statistics, claims data under title XIX or XXI of theSocial Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\], other public health statistics or surveys, or other data that the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, deems appropriate.
+&emsp;&emsp;In awarding grants under this section, the Secretary shall give preference to eligible entities that demonstrate that the activities to be carried out under this section shall be in localities within areas of known or suspected high prevalence of childhood asthma or high asthma-related mortality or high rate of hospitalization or emergency room visits for asthma (relative to the average asthma prevalence rates and associated mortality rates in the United States). Acceptable data sets to demonstrate a high prevalence of childhood asthma or high asthma-related mortality may include data from Federal, State, or local vital statistics, claims data under title XIX or XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\], other public health statistics or surveys, or other data that the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention, deems appropriate.
 
 #### (3) Definition of eligible entity
 
@@ -118,15 +118,39 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;The State must require that information described in subparagraphs (A)(iii) and (A)(iv) be kept on file at the student's school in a location easily accessible in the event of an asthma or anaphylaxis emergency.
 
-#### (F) School personnel administration of epinephrine
+#### (F) School personnel administration of epinephrine or school comprehensive allergies and asthma management program
 
-&emsp;&emsp;In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(i) permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+&emsp;&emsp;&emsp;In determining the preference (if any) to be given to a State under this subsection, the Secretary shall give additional preference to a State that provides to the Secretary the certification described in subparagraph (G) and that requires that each public elementary school and secondary school in the State satisfy the criteria described in clause (ii) or clause (iii).
 
-&emsp;&emsp;&emsp;(ii) maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+#### (ii) Criteria for school personnel administration of epinephrine
 
-&emsp;&emsp;&emsp;(iii) has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+&emsp;&emsp;&emsp;For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
+
+&emsp;&emsp;&emsp;&emsp;(I) permits trained personnel of the school to administer epinephrine to any student of the school reasonably believed to be having an anaphylactic reaction;
+
+&emsp;&emsp;&emsp;&emsp;(II) maintains a supply of epinephrine in a secure location that is easily accessible to trained personnel of the school for the purpose of administration to any student of the school reasonably believed to be having an anaphylactic reaction; and
+
+&emsp;&emsp;&emsp;&emsp;(III) has in place a plan for having on the premises of the school during all operating hours of the school one or more individuals who are trained personnel of the school.
+
+#### (iii) Criteria for school comprehensive allergies and asthma management program
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
+
+&emsp;&emsp;&emsp;&emsp;(I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who are designated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has in place, under the direction of a school nurse or other individual designated under subclause (I), a comprehensive school-based allergies and asthma management program that includes—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a method to identify all students of such school with a diagnosis of allergies and asthma;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an individual student allergies and asthma action plan for each student of such school with a diagnosis of allergies and asthma;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) allergies and asthma education for school staff who are directly responsible for students who have been identified as having allergies or asthma, such as education regarding basics, management, trigger management, and comprehensive emergency responses with respect to allergies and asthma;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) efforts to reduce the presence of environmental triggers of allergies and asthma; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) a system to support students with a diagnosis of allergies or asthma through coordination with family members of such students, primary care providers of such students, primary asthma or allergy care providers of such students, and others as necessary.
 
 #### (G) Civil liability protection law
 
@@ -148,9 +172,9 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;(D) The term "self-administration" means a student's discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
 
-&emsp;&emsp;(E) The term "trained personnel" means, with respect to an elementary or secondary school, an individual—
+&emsp;&emsp;(E) The term "trained personnel" means, with respect to an elementary or secondary school, an individual, such as the school nurse—
 
-&emsp;&emsp;&emsp;(i) who has been designated by the principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
+&emsp;&emsp;&emsp;(i) who has been designated by the school nurse or principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
 
 &emsp;&emsp;&emsp;(ii) who has received training in the administration of epinephrine; and
 
@@ -160,7 +184,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575; Pub. L. 114–95, title IX, §9215(kkk)(2), Dec. 10, 2015, 129 Stat. 2187.)
+(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575; Pub. L. 114–95, title IX, §9215(kkk)(2), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–292, §2, Jan. 5, 2021, 134 Stat. 4896.)
 
 #### References in Text
 
@@ -173,6 +197,12 @@ The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§635�
 A prior section 399L of act July 1, 1944, was renumbered section 399F and is classified to section 280e–4 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1)(F). Pub. L. 116–292, §2(1)(B), inserted "or school comprehensive allergies and asthma management program" after "epinephrine" in heading; designated introductory provisions as cl. (i), inserted heading, and substituted "in the State satisfy the criteria described in clause (ii) or clause (iii)." for "in the State—"; inserted cl. (ii) heading and introductory provisions; redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (ii); added cl. (iii); and realigned margins.
+
+Subsec. (d)(3)(E). Pub. L. 116–292, §2(2)(A), inserted ", such as the school nurse" after "individual" in introductory provisions.
+
+Subsec. (d)(3)(E)(i). Pub. L. 116–292, §2(2)(B), inserted "school nurse or" before "principal".
 
 <b>2015</b>—Subsec. (d)(3)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 

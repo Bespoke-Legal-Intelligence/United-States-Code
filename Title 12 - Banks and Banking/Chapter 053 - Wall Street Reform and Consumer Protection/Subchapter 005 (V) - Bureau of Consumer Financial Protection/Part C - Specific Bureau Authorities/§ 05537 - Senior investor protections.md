@@ -110,7 +110,7 @@ The amount of a grant under this section may not exceed—
 
 #### (f) Subgrants
 
-A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessary to carry out the activities funded using a grant under this section.
+A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessaryto carry out the activities funded using a grant under this section.
 
 #### (g) Reapplication
 
@@ -122,9 +122,13 @@ There are authorized to be appropriated to carry out this section, $8,000,000 fo
 
 (Pub. L. 111–203, title IX, §989A, July 21, 2010, 124 Stat. 1941.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of subtitle C of title X of Pub. L. 111–203, which comprises this part.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

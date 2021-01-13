@@ -14,6 +14,8 @@ It is the purpose of this subchapter to establish a National Institute of Justic
 
 (Pub. L. 90–351, title I, §201, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(a), Oct. 12, 1984, 98 Stat. 2078.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -29,6 +31,8 @@ A prior section 201 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; P
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 redesignated par. (5) as (4), struck out former par. (4) relating to improvement of efforts to detect, investigate, prosecute, and otherwise combat and prevent white-collar crime and public corruption, and in closing provisions struck out "to develop alternatives to judicial resolution of disputes," after "local governments,", and inserted "and demonstrate" after "to develop".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

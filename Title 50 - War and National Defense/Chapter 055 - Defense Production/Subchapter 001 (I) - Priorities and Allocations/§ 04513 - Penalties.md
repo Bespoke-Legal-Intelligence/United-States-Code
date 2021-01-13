@@ -1,6 +1,6 @@
 ### §4513. Penalties
 
-Any person who willfully performs any act prohibited, or willfully fails to perform any act required, by the provisions of this subchapter or any rule, regulation, or order thereunder, shall, upon conviction, be fined not more than $10,000or imprisoned for not more than one year, or both.
+Any person who willfully performs any act prohibited, or willfully fails to perform any act required, by the provisions of this subchapter or any rule, regulation, or order thereunder, shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both.
 
 (Sept. 8, 1950, ch. 932, title I, §103, 64 Stat. 799.)
 

@@ -38,7 +38,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans to farmers or ranchers in the United States,farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
+&emsp;The Secretary may make or guarantee loans to farmers or ranchers in the United States, farm cooperatives, private domestic corporations, partnerships, joint operations, trusts, limited liability companies, or such other legal entities as the Secretary considers appropriate that are controlled by farmers or ranchers and engaged primarily and directly in agricultural production in the United States.
 
 #### (2) Requirements
 
@@ -110,7 +110,7 @@ Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) 
 
 Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 
-<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designationsappearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
 
 <b>1968</b>—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
 

@@ -116,7 +116,7 @@ In this section:
 
 #### (B) Approval of silviculture prescriptions and marking guides
 
-&emsp;&emsp;The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in alltimber sale projects conducted under this section.
+&emsp;&emsp;The Secretary shall provide or approve all silviculture prescriptions and marking guides to be applied on Federal land in all timber sale projects conducted under this section.
 
 #### (C) Treatment of revenue
 

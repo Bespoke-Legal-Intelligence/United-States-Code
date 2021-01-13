@@ -72,7 +72,7 @@
 
 #### (3) Information sharing during active investigation
 
-&emsp;In carrying out this chapter, all parties to an active investigation (including certifying agents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
+&emsp;In carrying out this chapter, all parties to an active investigation (including certifyingagents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
 
 #### (c) Violations of chapter
 
@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (C), any person that carries out an activity described in subparagraph (B), after notice and an opportunity to be heard, shall not be eligible, for the 5-year period beginning on the date of the occurrence, to receive a certification under this chapter with respect toany farm or handling operation in which the person has an interest.
+&emsp;&emsp;Except as provided in subparagraph (C), any person that carries out an activity described in subparagraph (B), after notice and an opportunity to be heard, shall not be eligible, for the 5-year period beginning on the date of the occurrence, to receive a certification under this chapter with respect to any farm or handling operation in which the person has an interest.
 
 #### (B) Description of activities
 

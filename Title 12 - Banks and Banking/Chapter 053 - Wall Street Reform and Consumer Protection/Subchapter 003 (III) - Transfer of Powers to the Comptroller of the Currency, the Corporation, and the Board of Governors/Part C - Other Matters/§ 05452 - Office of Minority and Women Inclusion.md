@@ -158,9 +158,13 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 111–203, title III, §342, July 21, 2010, 124 Stat. 1541.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (g)(3), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

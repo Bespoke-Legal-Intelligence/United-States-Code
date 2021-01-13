@@ -10,19 +10,23 @@ There is no provision corresponding to the first sentence explicitly stated in t
 
 The second sentence states that patentability as to this requirement is not to be negatived by the manner in which the invention was made, that is, it is immaterial whether it resulted from long toil and experimentation or from a flash of genius.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §3(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) and related to conditions for patentability; non-obvious subject matter.
 
 Subsecs. (a), (c)(1). Pub. L. 112–29, §20(j), struck out "of this title" after "102".
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed inventionwere, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person."
+<b>2004</b>—Subsec. (c). Pub. L. 108–453 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person."
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–113 substituted "one or more of subsections (e), (f), and (g)" for "subsection (f) or (g)".
 
 <b>1995</b>—Pub. L. 104–41 designated first and second pars. as subsecs. (a) and (c), respectively, and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–622 inserted "Subject matter developed by another person, which qualifies as prior art only under subsection (f) or (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 98–622, title I, §106, Nov. 8, 1984, 98 Stat. 3385, provided that:
 
 "(b) The amendments made by this Act shall not affect any final decision made by the court or the Patent and Trademark Office before the date of enactment of this Act \[Nov. 8, 1984\], with respect to a patent or application for patent, if no appeal from such decision is pending and the time for filing an appeal has expired.
 
-"(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to the supplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
+"(c) Section 271(f) of title 35, United States Code, added by section 101 of this Act shall apply only to thesupplying, or causing to be supplied, of any component or components of a patented invention after the date of enactment of this Act \[Nov. 8, 1984\].
 
 "(d) No United States patent granted before the date of enactment of this Act \[Nov. 8, 1984\] shall abridge or affect the right of any person or his successors in business who made, purchased, or used prior to such effective date anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used, if the patent claims were invalid or otherwise unenforceable on a ground obviated by section 103 or 104 of this Act \[amending this section and sections 116 and 120 of this title\] and the person made, purchased, or used the specific thing in reasonable reliance on such invalidity or unenforceability. If a person reasonably relied on such invalidity or unenforceability, the court before which such matter is in question may provide for the continued manufacture, use, or sale of the thing made, purchased, or used as specified, or for the manufacture, use, or sale of which substantial preparation was made before the date of enactment of this Act, and it may also provide for the continued practice of any process practiced, or for the practice of which substantial preparation was made, prior to the date of enactment, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the date of enactment.
 

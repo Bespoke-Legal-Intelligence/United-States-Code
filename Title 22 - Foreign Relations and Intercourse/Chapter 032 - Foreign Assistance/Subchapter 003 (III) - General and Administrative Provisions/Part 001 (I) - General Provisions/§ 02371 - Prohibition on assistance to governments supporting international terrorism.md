@@ -44,7 +44,9 @@ Assistance prohibited by subsection (a) may be provided to a country described i
 
 > The waiver authority granted in this subsection may not be used to provide any assistance under this chapter which is also prohibited by section 2780 of this title.
 
-(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753; amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753;amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -70,6 +72,8 @@ Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting provisi
 
 Subsec. (c). Pub. L. 99–83, in amending section generally, added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -78,11 +82,13 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
 #### Self-Defense in Accordance With International Law
 
 Pub. L. 101–222, §10, Dec. 12, 1989, 103 Stat. 1900, provided that: "The use by any government of armed force in the exercise of individual or collective self-defense in accordance with applicable international agreements and customary international law shall not be considered an act of international terrorism for purposes of the amendments made by this Act \[see Short Title of 1989 Amendment note, set out under section 2151 of this title\]."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

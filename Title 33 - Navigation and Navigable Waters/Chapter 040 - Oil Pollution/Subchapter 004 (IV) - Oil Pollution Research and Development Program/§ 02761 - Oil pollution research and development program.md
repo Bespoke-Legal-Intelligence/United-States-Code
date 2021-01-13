@@ -1,60 +1,144 @@
 ### §2761. Oil pollution research and development program
 
-#### (a) Interagency Coordinating Committee on Oil Pollution Research
+#### (a) Definitions
+
+In this section—
+
+&emsp;(1) the term "Chair" means the Chairperson of the Interagency Committee designated under subsection (c)(2);
+
+&emsp;(2) the term "Commandant" means the Commandant of the Coast Guard;
+
+&emsp;(3) the term "institution of higher education" means an institution of higher education, as defined in section 1001(a) of title 20;
+
+&emsp;(4) the term "Interagency Committee" means the Interagency Coordinating Committee on Oil Pollution Research established under subsection (b);
+
+&emsp;(5) the term "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere; and
+
+&emsp;(6) the term "Vice Chair" means the Vice Chairperson of the Interagency Committee designated under subsection (c)(3).
+
+#### (b) Establishment of Interagency Coordinating Committee on Oil Pollution Research
 
 #### (1) Establishment
 
-&emsp;There is established an Interagency Coordinating Committee on Oil Pollution Research (hereinafter in this section referred to as the "Interagency Committee").
+&emsp;There is established an Interagency Coordinating Committee on Oil Pollution Research.
 
-#### (2) Purposes
+#### (2) Purpose
 
-&emsp;The Interagency Committee shall coordinate a comprehensive program of oil pollution research, technology development, and demonstration among the Federal agencies, in cooperation and coordination with industry, universities, research institutions, State governments, and other nations, as appropriate, and shall foster cost-effective research mechanisms, including the joint funding of research.
+&emsp;The Interagency Committee shall coordinate a comprehensive program of oil pollution research, technology development, and demonstration among the Federal agencies, in cooperation and coordination with industry, 4-year institutions of higher education and research institutions, State governments, and other nations, as appropriate, and shall foster cost-effective research mechanisms, including the joint funding of research.
 
-#### (3) Membership
+#### (c) Membership
 
-&emsp;The Interagency Committee shall include representatives from the Coast Guard, the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management, and the United States Fish and Wildlife Service), the Department of Transportation (including the Maritime Administration and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Department of Homeland Security (including the United States Fire Administration in the Federal Emergency Management Agency), the Environmental Protection Agency, the National Aeronautics and Space Administration, the United States Arctic Research Commission, and such other Federal agencies the President may designate.
+#### (1) Composition
 
-#### (4) Chairman
+&emsp;The Interagency Committee shall be composed of—
 
-&emsp;A representative of the Coast Guard shall serve as Chairman.
+&emsp;&emsp;(A) at least 1 representative of the Coast Guard;
 
-#### (b) Oil pollution research and technology plan
+&emsp;&emsp;(B) at least 1 representative of the National Oceanic and Atmospheric Administration;
 
-#### (1) Implementation plan
+&emsp;&emsp;(C) at least 1 representative of the Environmental Protection Agency;
 
-&emsp;Within 180 days after August 18, 1990, the Interagency Committee shall submit to Congress a plan for the implementation of the oil pollution research, development, and demonstration program established pursuant to subsection (c). The research plan shall—
+&emsp;&emsp;(D) at least 1 representative of the Department of the Interior;
 
-&emsp;&emsp;(A) identify agency roles and responsibilities;
+&emsp;&emsp;(E) at least 1 representative of the Bureau of Safety and Environmental Enforcement;
 
-&emsp;&emsp;(B) assess the current status of knowledge on oil pollution prevention, response, and mitigation technologies and effects of oil pollution on the environment;
+&emsp;&emsp;(F) at least 1 representative of the Bureau of Ocean Energy Management;
 
-&emsp;&emsp;(C) identify significant oil pollution research gaps including an assessment of major technological deficiencies in responses to past oil discharges;
+&emsp;&emsp;(G) at least 1 representative of the United States Fish and Wildlife Service;
 
-&emsp;&emsp;(D) establish research priorities and goals for oil pollution technology development related to prevention, response, mitigation, and environmental effects;
+&emsp;&emsp;(H) at least 1 representative of the Department of Energy;
 
-&emsp;&emsp;(E) estimate the resources needed to conduct the oil pollution research and development program established pursuant to subsection (c), and timetables for completing research tasks; and
+&emsp;&emsp;(I) at least 1 representative of the Pipeline and Hazardous Materials Safety Administration;
 
-&emsp;&emsp;(F) identify, in consultation with the States, regional oil pollution research needs and priorities for a coordinated, multidisciplinary program of research at the regional level.
+&emsp;&emsp;(J) at least 1 representative of the Federal Emergency Management Agency;
 
-#### (2) Advice and guidance
+&emsp;&emsp;(K) at least 1 representative of the Navy;
 
-&emsp;The Chairman, through the department in which the Coast Guard is operating, shall contract with the National Academy of Sciences to—
+&emsp;&emsp;(L) at least 1 representative of the Corps of Engineers;
 
-&emsp;&emsp;(A) provide advice and guidance in the preparation and development of the research plan; and
+&emsp;&emsp;(M) at least 1 representative of the United States Arctic Research Commission; and
 
-&emsp;&emsp;(B) assess the adequacy of the plan as submitted, and submit a report to Congress on the conclusions of such assessment.
+&emsp;&emsp;(N) at least 1 representative of each of such other Federal agencies as the President considers to be appropriate.
 
-> &emsp;The National Institute of Standards and Technology shall provide the Interagency Committee with advice and guidance on issues relating to quality assurance and standards measurements relating to its activities under this section.
+#### (2) Chairperson
 
-#### (c) Oil pollution research and development program
+&emsp;The Commandant shall designate a Chairperson from among the members of the Interagency Committee selected under paragraph (1)(A).
+
+#### (3) Vice Chairperson
+
+&emsp;The Under Secretary shall designate a Vice Chairperson from among the members of the Interagency Committee selected under paragraph (1)(B).
+
+#### (4) Meetings
+
+#### (A) Quarterly meetings
+
+&emsp;&emsp;At a minimum, the members of the Interagency Committee shall meet once each quarter.
+
+#### (B) Public summaries
+
+&emsp;&emsp;After each meeting, a summary shall be made available by the Chair or Vice Chair, as appropriate.
+
+#### (d) Duties of the Interagency Committee
+
+#### (1) Research
+
+&emsp;The Interagency Committee shall—
+
+&emsp;&emsp;(A) coordinate a comprehensive program of oil pollution research, technology development, and demonstration among the Federal agencies, in cooperation and coordination with industry, 4-year institutions of higher education and research institutions, States, Indian tribes, and other countries, as appropriate; and
+
+&emsp;&emsp;(B) foster cost-effective research mechanisms, including the joint funding of research and the development of public-private partnerships for the purpose of expanding research.
+
+#### (2) Oil pollution research and technology plan
+
+#### (A) Implementation plan
+
+&emsp;&emsp;Not later than 180 days after January 1, 2021, the Interagency Committee shall submit to Congress a research plan to report on the state of oil discharge prevention and response capabilities that—
+
+&emsp;&emsp;&emsp;(i) identifies current research programs conducted by Federal agencies, States, Indian tribes, 4-year institutions of higher education, and corporate entities;
+
+&emsp;&emsp;&emsp;(ii) assesses the current status of knowledge on oil pollution prevention, response, and mitigation technologies and effects of oil pollution on the environment;
+
+&emsp;&emsp;&emsp;(iii) identifies significant oil pollution research gaps, including an assessment of major technological deficiencies in responses to past oil discharges;
+
+&emsp;&emsp;&emsp;(iv) establishes national research priorities and goals for oil pollution technology development related to prevention, response, mitigation, and environmental effects;
+
+&emsp;&emsp;&emsp;(v) assesses the research on the applicability and effectiveness of the prevention, response, and mitigation technologies to each class of oil;
+
+&emsp;&emsp;&emsp;(vi) estimates the resources needed to conduct the oil pollution research and development program established pursuant to subsection (e), and timetables for completing research tasks;
+
+&emsp;&emsp;&emsp;(vii) summarizes research on response equipment in varying environmental conditions, such as in currents, ice cover, and ice floes; and
+
+&emsp;&emsp;&emsp;(viii) includes such other information or recommendations as the Interagency Committee determines to be appropriate.
+
+#### (B) Advice and guidance
+
+#### (i) National Academy of Sciences contract
+
+&emsp;&emsp;&emsp;The Chair, through the department in which the Coast Guard is operating, shall contract with the National Academy of Sciences to—
+
+&emsp;&emsp;&emsp;&emsp;(I) provide advice and guidance in the preparation and development of the research plan;
+
+&emsp;&emsp;&emsp;&emsp;(II) assess the adequacy of the plan as submitted, and submit a report to Congress on the conclusions of such assessment; and
+
+&emsp;&emsp;&emsp;&emsp;(III) provide organization guidance regarding the implementation of the research plan, including delegation of topics and research among Federal agencies represented on the Interagency Committee.
+
+#### (ii) NIST advice and guidance
+
+&emsp;&emsp;&emsp;The National Institute of Standards and Technology shall provide the Interagency Committee with advice and guidance on issues relating to quality assurance and standards measurements relating to its activities under this section.
+
+#### (C) 10-year updates
+
+&emsp;&emsp;Not later than 10 years after January 1, 2021, and every 10 years thereafter, the Interagency Committee shall submit to Congress a research plan that updates the information contained in the previous research plan submitted under this subsection.
+
+#### (e) Oil pollution research and development program
 
 #### (1) Establishment
 
-&emsp;The Interagency Committee shall coordinate the establishment, by the agencies represented on the Interagency Committee, of a program for conducting oil pollution research and development, as provided in this subsection.
+&emsp;The Interagency Committee shall coordinate the establishment, by the agencies represented on the Interagency Committee, of a program for conducting oil pollution research, technology, and development, as provided in this subsection.
 
 #### (2) Innovative oil pollution technology
 
-&emsp;The program established under this subsection shall provide for research, development, and demonstration of new or improved technologies which are effective in preventing or mitigating oil discharges and which protect the environment, including—
+&emsp;The program established under paragraph (1) shall provide for research, development, and demonstration of new or improved technologies and methods that are effective in preventing, mitigating, or restoring damage from oil discharges and that protect the environment, including—
 
 &emsp;&emsp;(A) development of improved designs for vessels and facilities, and improved operational practices;
 
@@ -78,9 +162,9 @@
 
 #### (3) Oil pollution technology evaluation
 
-&emsp;The program established under this subsection shall provide for oil pollution prevention and mitigation technology evaluation including—
+&emsp;The program established under paragraph (1) shall provide for oil pollution prevention and mitigation technology evaluation including—
 
-&emsp;&emsp;(A) the evaluation and testing of technologies developed independently of the research and development program established under this subsection;
+&emsp;&emsp;(A) the evaluation and testing of technologies developed independently of the research and development program established under paragraph (1);
 
 &emsp;&emsp;(B) the establishment, where appropriate, of standards and testing protocols traceable to national standards to measure the performance of oil pollution prevention or mitigation technologies; and
 
@@ -88,15 +172,23 @@
 
 #### (4) Oil pollution effects research
 
-&emsp;(A) The Committee shall establish a research program to monitor and evaluate the environmental effects of oil discharges. Such program shall include the following elements:
+&emsp;(A) The Committee shall establish a research program to monitor and evaluate the environmental effects of acute and chronic oil discharges on coastal and marine resources (including impacts on protected areas such as sanctuaries) and protected species, and such program shall include the following elements:
 
 &emsp;&emsp;(i) The development of improved models and capabilities for predicting the environmental fate, transport, and effects of oil discharges.
 
 &emsp;&emsp;(ii) The development of methods, including economic methods, to assess damages to natural resources resulting from oil discharges.
 
-&emsp;&emsp;(iii) The identification of types of ecologically sensitive areas at particular risk to oil discharges and the preparation of scientific monitoring and evaluation plans, one for each of several types of ecological conditions, to be implemented in the event of major oil discharges in such areas.
+&emsp;&emsp;(iii) Research to understand and quantify the effects of sublethal impacts of oil discharge on living natural marine resources, including impacts on pelagic fish species, marine mammals, and commercially and recreationally targeted fish and shellfish species.
 
-&emsp;&emsp;(iv) The collection of environmental baseline data in ecologically sensitive areas at particular risk to oil discharges where such data are insufficient.
+&emsp;&emsp;(iv) The identification of types of ecologically sensitive areas at particular risk to oil discharges and the preparation of scientific monitoring and evaluation plans, one for each of several types of ecological conditions, to be implemented in the event of major oil discharges in such areas.
+
+&emsp;&emsp;(v) The collection of environmental baseline data in ecologically sensitive areas at particular risk to oil discharges where such data are insufficient.
+
+&emsp;&emsp;(vi) Research to understand the long-term effects of major oil discharges and the long-term effects of smaller endemic oil discharges.
+
+&emsp;&emsp;(vii) The identification of potential impacts on ecosystems, habitat, and wildlife from the additional toxicity, heavy metal concentrations, and increased corrosiveness of mixed crude, such as diluted bitumen crude.
+
+&emsp;&emsp;(viii) The development of methods to restore and rehabilitate natural resources and ecosystem functions damaged by oil discharges.
 
 &emsp;(B) The Department of Commerce in consultation with the Environmental Protection Agency shall monitor and scientifically evaluate the long-term environmental effects of oil discharges if—
 
@@ -112,7 +204,7 @@
 
 #### (5) Marine simulation research
 
-&emsp;The program established under this subsection shall include research on the greater use and application of geographic and vessel response simulation models, including the development of additional data bases and updating of existing data bases using, among others, the resources of the National Maritime Research Center. It shall include research and vessel simulations for—
+&emsp;The program established under paragraph (1) shall include research on the greater use and application of geographic and vessel response simulation models, including the development of additional data bases and updating of existing data bases using, among others, the resources of the National Maritime Research Center. It shall include research and vessel simulations for—
 
 &emsp;&emsp;(A) contingency plan evaluation and amendment;
 
@@ -124,15 +216,31 @@
 
 #### (6) Demonstration projects
 
-&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+&emsp;The United States Coast Guard, in conjunction with such agencies as the President maydesignate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
 
 #### (7) Simulated environmental testing
 
-&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
+#### (A) In general
+
+&emsp;&emsp;Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.
+
+#### (B) Other testing facilities
+
+&emsp;&emsp;Nothing in subparagraph (A) shall be construed as limiting the ability of the Interagency Committee to contract or partner with a facility or facilities other than the Center described in subparagraph (A) for the purpose of oil pollution technology testing and evaluations, provided such a facility or facilities have testing and evaluation capabilities equal to or greater than those of such Center.
+
+#### (C) In-kind contributions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary of the department in which the Coast Guard is operating and the Administrator of the Environmental Protection Agency may accept donations of crude oil and crude oil product samples in the form of in-kind contributions for use by the Federal Government for product testing, research and development, and for other purposes as the Secretary and the Administrator determine appropriate.
+
+#### (ii) Use of donated oil
+
+&emsp;&emsp;&emsp;Oil accepted under clause (i) may be used directly by the Secretary and shall be provided to other Federal agencies or departments through interagency agreements to carry out the purposes of this Act.
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (b), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
+&emsp;(A) Consistent with the research plan in subsection (d), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
@@ -144,9 +252,9 @@
 
 &emsp;&emsp;(ii) The applicant demonstrates the capability of making a significant contribution to regional research needs.
 
-&emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (b)(1)(F) and would further the objectives of the research and development program established in this section.
+&emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (d) and would further the objectives of the research and development program established in this section.
 
-&emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject to annual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
+&emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject toannual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
 
 &emsp;(F) No funds made available to carry out this subsection may be used for the acquisition of real property (including buildings) or construction of any building.
 
@@ -158,37 +266,79 @@
 
 #### (10) Grants
 
-&emsp;In carrying out the research and development program established under this subsection, the agencies represented on the Interagency Committee may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (b).
+&emsp;In carrying out the research and development program established under paragraph (1), the Under Secretary may enter into contracts and cooperative agreements and make grants to universities, research institutions, and other persons, and States and Indian tribes. Such contracts, cooperative agreements, and grants shall address research and technology priorities set forth in the oil pollution research plan under subsection (d).
 
 #### (11) Utilization of resources
 
 &emsp;In carrying out research under this section, the Department of Transportation shall continue to utilize the resources of the Pipeline and Hazardous Materials Safety Administration of the Department of Transportation, to the maximum extent practicable.
 
-#### (d) International cooperation
+#### (f) International cooperation
 
-In accordance with the research plan submitted under subsection (b), the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
+In accordance with the research plan submitted under subsection (d), the Interagency Committee shall coordinate and cooperate with other nations and foreign research entities in conducting oil pollution research, development, and demonstration activities, including controlled field tests of oil discharges.
 
-#### (e) Biennial reports
+#### (g) Biennial reports
 
-The Chairman of the Interagency Committee shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
+The Chair shall submit to Congress every 2 years on October 30 a report on the activities carried out under this section in the preceding 2 fiscal years, and on activities proposed to be carried out under this section in the current 2 fiscal year period.
 
-#### (f) Funding
+#### (h) Funding
 
-Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (c)(8). Of such sums—
+Not to exceed $22,000,000 of amounts in the Fund shall be available annually to carry out this section except for subsection (e)(8). Of such sums—
 
-&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
+&emsp;(1) funds authorized to be appropriated to carry out the activities under subsection (c)(4) <sup>1</sup> shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
-&emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) for fiscal years 1992, 1993, 1994, and 1995.
+&emsp;(2) not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) <sup>1</sup> for fiscal years 1992, 1993, 1994, and 1995.
 
-> All activities authorized in this section, including subsection (c)(8), are subject to appropriations.
+> All activities authorized in this section, including subsection (e)(8), are subject to appropriations.
 
-(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(l)(3), (4), July 11, 2006, 120 Stat. 555, 568; Pub. L. 114–120, title III, §319, Feb. 8, 2016, 130 Stat. 66.)
+(Pub. L. 101–380, title VII, §7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, §2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, §4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, §2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, §605(a)(1), title IX, §902(l)(3), (4), July 11, 2006, 120 Stat. 555, 568; Pub. L. 114–120, title III, §319, Feb. 8, 2016, 130 Stat. 66; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8304, Jan. 1, 2021, 134 Stat. 4693.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, knownas the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (e)(7)(C)(ii), (8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
+Subsection (c), referred to in subsec. (h), was redesignated subsec. (e) of this section by Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8304(5), Jan. 1, 2021, 134 Stat. 4694.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283, §8304(6), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to Interagency Coordinating Committee on Oil Pollution Research and oil pollution research and technology plan.
+
+Subsec. (c). Pub. L. 116–283, §8304(6), added subsec. (c). Former subsec. (c) (as amended by section 8304(1) of Pub. L. 116–283, see notes below) redesignated (e).
+
+Subsec. (c)(1). Pub. L. 116–283, §8304(1)(A), inserted ", technology," after "research".
+
+Subsec. (c)(2). Pub. L. 116–283, §8304(1)(B), in introductory provisions, substituted "paragraph (1)" for "this subsection" and "and methods that are effective in preventing, mitigating, or restoring damage from oil discharges and that" for "which are effective in preventing or mitigating oil discharges and which".
+
+Subsec. (c)(3). Pub. L. 116–283, §8304(1)(C), substituted "paragraph (1)" for "this subsection" in two places.
+
+Subsec. (c)(4)(A). Pub. L. 116–283, §8304(1)(D)(i), substituted "acute and chronic oil discharges on coastal and marine resources (including impacts on protected areas such as sanctuaries) and protected species, and such program shall" for "oil discharges. Such program shall" in introductory provisions.
+
+Subsec. (c)(4)(A)(iii) to (viii). Pub. L. 116–283, §8304(1)(D)(ii)–(iv), added cls. (iii) and (vi) to (viii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (c)(5). Pub. L. 116–283, §8304(1)(E), substituted "paragraph (1)" for "this subsection" in introductory provisions.
+
+Subsec. (c)(7). Pub. L. 116–283, §8304(1)(F), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations."
+
+Subsec. (c)(8)(A). Pub. L. 116–283, §8304(1)(G)(i), substituted "subsection (d)" for "subsection (b)".
+
+Subsec. (c)(8)(D)(iii). Pub. L. 116–283, §8304(1)(G)(ii), substituted "subsection (d)" for "subsection (b)(1)(F)".
+
+Subsec. (c)(10). Pub. L. 116–283, §8304(1)(H), substituted "paragraph (1)" for "this subsection", "Under Secretary" for "agencies represented on the Interagency Committee", and "subsection (d)" for "subsection (b)" and inserted ", and States and Indian tribes" after "other persons".
+
+Subsec. (d). Pub. L. 116–283, §8304(6), added subsec. (d). Former subsec. (d) redesignated (f).
+
+Pub. L. 116–283, §8304(2), substituted "subsection (d)" for "subsection (b)".
+
+Subsec. (e). Pub. L. 116–283, §8304(5), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+
+Pub. L. 116–283, §8304(3), substituted "Chair" for "Chairman of the Interagency Committee".
+
+Subsec. (f). Pub. L. 116–283, §8304(5), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+
+Pub. L. 116–283, §8304(4), substituted "subsection (e)(8)" for "subsection (c)(8)" in introductory and concluding provisions.
+
+Subsecs. (g), (h). Pub. L. 116–283, §8304(5), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
 
 <b>2016</b>—Subsec. (a)(3). Pub. L. 114–120, §319(a), substituted "Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management," for "Minerals Management Service" and inserted "the United States Arctic Research Commission," after "National Aeronautics and Space Administration,".
 
@@ -222,13 +372,21 @@ Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §
 
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting "$22,000,000" for "$21,250,000" in introductory provisions and "$3,000,000" for "$2,250,000" in par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
-
 #### Delegation of Functions
 
 Functions of President under subsec. (a)(3) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(h) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

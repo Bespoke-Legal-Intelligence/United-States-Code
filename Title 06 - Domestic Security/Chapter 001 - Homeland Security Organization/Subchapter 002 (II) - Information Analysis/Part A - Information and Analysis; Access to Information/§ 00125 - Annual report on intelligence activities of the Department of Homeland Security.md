@@ -32,9 +32,13 @@ In this section, the term "intelligence component of the Department" has the mea
 
 (Pub. L. 113–293, title III, §324, Dec. 19, 2014, 128 Stat. 4004.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2015, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

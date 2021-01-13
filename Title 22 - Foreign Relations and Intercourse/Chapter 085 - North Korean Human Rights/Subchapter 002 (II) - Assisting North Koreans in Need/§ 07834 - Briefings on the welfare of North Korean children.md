@@ -20,9 +20,13 @@ The Secretary's designee shall be prepared to address in each briefing the follo
 
 (Pub. L. 112–264, §4, Jan. 14, 2013, 126 Stat. 2432.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was enacted as part of the North Korean Child Welfare Act of 2012, and not as part of the North Korean Human Rights Act of 2004 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

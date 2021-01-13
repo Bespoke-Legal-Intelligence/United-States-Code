@@ -14,7 +14,7 @@
 
 &emsp;In order to serve as the eligible entity for the area, an entity described in paragraph (1)(B) shall agree to add additional members to the board of the entity to ensure adequate representation—
 
-&emsp;&emsp;(A) in each of the three required categories described in subparagraphs (A), (B), and (C) of section 9910(a)(2) of this title, by members that reside in the community comprised by the unserved area; and
+&emsp;&emsp;(A) in each of the three required categories described in subparagraphs (A), (B), and (C)of section 9910(a)(2) of this title, by members that reside in the community comprised by the unserved area; and
 
 &emsp;&emsp;(B) in the category described in section 9910(a)(2)(B) of this title, by members that reside in the neighborhood to be served.
 

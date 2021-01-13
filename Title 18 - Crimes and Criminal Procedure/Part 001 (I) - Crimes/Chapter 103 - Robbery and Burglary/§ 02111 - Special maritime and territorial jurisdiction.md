@@ -12,9 +12,13 @@ Words "within the special maritime and territorial jurisdiction of the United St
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 inserted "or attempts to take" after "takes".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1996 Amendment
 

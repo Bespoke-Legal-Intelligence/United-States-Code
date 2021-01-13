@@ -1,5 +1,7 @@
 ### §574. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 27, 1939, ch. 387, §4, 53 Stat. 1129, which related to consolidation of lands within the Wind River Indian Reservation, was omitted from the Code as being of special and not general application.

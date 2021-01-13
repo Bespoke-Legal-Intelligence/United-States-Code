@@ -22,6 +22,8 @@ July 14, 1964, Pub. L. 88–372, §5(a), 78 Stat. 316.
 
 The word "various" is omitted as unnecessary. The words "the Commonwealth of Puerto Rico" are omitted as included in "territories, and possessions of the United States".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91 substituted "Ohio" for "Dayton, Ohio, or another place decided by the board of trustees".

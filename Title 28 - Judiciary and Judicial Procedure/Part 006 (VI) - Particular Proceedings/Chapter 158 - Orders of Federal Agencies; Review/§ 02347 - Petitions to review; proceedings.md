@@ -44,6 +44,8 @@ In subsection (b)(3), the words "United States" preceding "district court" are o
 
 In subsection (c), the words "applies" and "shows" are substituted for "shall apply" and "shall show", respectively.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.

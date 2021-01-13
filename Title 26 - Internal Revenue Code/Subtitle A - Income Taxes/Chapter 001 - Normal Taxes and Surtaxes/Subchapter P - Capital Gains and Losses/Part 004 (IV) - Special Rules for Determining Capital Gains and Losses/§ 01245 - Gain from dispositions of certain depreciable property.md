@@ -92,7 +92,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
+&emsp;&emsp;The second sentence of paragraph (3) shall not apply to a disposition of section 1245 property to an organization described in section 511(a)(2) or 511(b)(2) if, immediately after such disposition, such organization uses such property in an unrelated trade or business (as defined in section 513).
 
 #### (B) Later change in use
 
@@ -100,7 +100,7 @@
 
 #### (7) Timber property
 
-&emsp;In determining, under subsection (a)(2), the recomputed basis of property with respect to which a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
+&emsp;In determining, under subsection (a)(2), the recomputed basis of property with respect towhich a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
 
 #### (8) Disposition of amortizable section 197 intangibles
 
@@ -158,7 +158,7 @@ Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which relate
 
 <b>1997</b>—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted "179A," after "179,".
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisionsgenerally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–188 reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "For purposes of this section, the term 'section 1245 property' means any property which is or has been property of a character subject to the allowance for depreciation provided in section 167 (or subject to the allowance of amortization provided in)) and is either—".
 
 <b>1995</b>—Subsec. (b)(5). Pub. L. 104–7 struck out "1071 and" before "1081 transactions" in heading and "section 1071 (relating to gain from sale or exchange to effectuate policies of FCC) or" before "section 1081" in text.
 
@@ -338,13 +338,13 @@ Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures 
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
-Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) ofPub. L. 96–223, set out as an Effective Date note under section 193 of this title.
+Amendment by Pub. L. 96–223 applicable to taxable years beginning after Dec. 31, 1979, see section 251(b) of Pub. L. 96–223, set out as an Effective Date note under section 193 of this title.
 
 #### Effective Date of 1978 Amendment
 
 Amendment by section 701(f)(3)(A), (B) of Pub. L. 95–600 effective as if included within the amendment of subsec. (a)(2), (3)(D) by section 2124 of Pub. L. 94–455, see section 701(f)(8) of Pub. L. 95–600, set out as an Effective and Termination Dates of 1978 Amendments note under section 167 of this title.
 
-Pub. L. 95–600, title VII, §701(w)(3), Nov. 6, 1978, 92 Stat. 2920, provided that: "The amendments made by this subsection \[amending this section\] shall apply to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975."
+Pub. L. 95–600, title VII, §701(w)(3), Nov. 6, 1978, 92 Stat. 2920, provided that: "The amendments made by this subsection \[amending this section\] shall apply to transfers of player contracts in connection with anysale or exchange of a franchise after December 31, 1975."
 
 #### Effective Date of 1976 Amendment
 

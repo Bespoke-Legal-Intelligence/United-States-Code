@@ -30,9 +30,17 @@ Congressional Intelligence Committees Defined.—In this section, the term "cong
 
 (Added Pub. L. 114–328, div. A, title VIII, §808(c)(1), Dec. 23, 2016, 130 Stat. 2265; amended Pub. L. 115–91, div. A, title VIII, §838(a)(2), Dec. 12, 2017, 131 Stat. 1474.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(d)(3), Jan. 1, 2021, 134 Stat. 4151, 4256, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after section 4252, as transferred and redesignated by section 1847(d)(3) of Pub. L. 116–283, and redesignated as section 4253 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(4). Pub. L. 115–91 added par. (4).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Responsibility for Conducting Assessments; Guidance
 

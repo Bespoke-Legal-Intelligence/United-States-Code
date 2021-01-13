@@ -2,7 +2,7 @@
 
 #### (a) Existing public or private nonprofit medical libraries
 
-The Secretary, with the advice of the Board, shall make grants to and enter into contracts with existing public or private nonprofit medical libraries so as to enable each of them to serve as the regional medical library for the geographical area in which it is located.
+The Secretary, with the advice of the Board, shall make grants to and enter into contractswith existing public or private nonprofit medical libraries so as to enable each of them to serve as the regional medical library for the geographical area in which it is located.
 
 #### (b) Uses for grants and contracts
 

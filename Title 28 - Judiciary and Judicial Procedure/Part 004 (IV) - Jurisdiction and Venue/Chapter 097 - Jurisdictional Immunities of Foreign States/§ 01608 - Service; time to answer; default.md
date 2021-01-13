@@ -38,6 +38,8 @@
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2894.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 90 days after Oct. 21, 1976, see section 8 of Pub. L. 94–583, set out as a note under section 1602 of this title.

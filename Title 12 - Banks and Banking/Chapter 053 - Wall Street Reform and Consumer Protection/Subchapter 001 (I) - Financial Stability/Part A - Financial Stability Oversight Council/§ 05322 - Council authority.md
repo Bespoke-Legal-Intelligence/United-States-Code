@@ -72,7 +72,7 @@ At the time at which each report is submitted under subsection (a), each voting 
 
 &emsp;(1) if such member believes that the Council, the Government, and the private sector are taking all reasonable steps to ensure financial stability and to mitigate systemic risk that would negatively affect the economy, submit a signed statement to Congress stating such belief; or
 
-&emsp;(2) if such member does not believe that all reasonable steps described under paragraph (1)are being taken, submit a signed statement to Congress stating what actions such member believes need to be taken in order to ensure that all reasonable steps described under paragraph (1) are taken.
+&emsp;(2) if such member does not believe that all reasonable steps described under paragraph (1) are being taken, submit a signed statement to Congress stating what actions such member believes need to be taken in order to ensure that all reasonable steps described under paragraph (1) are taken.
 
 #### (c) Testimony by the Chairperson
 
@@ -129,6 +129,8 @@ The Chairperson shall appear before the Committee on Financial Services of the H
 &emsp;&emsp;Section 552 of title 5, including the exceptions thereunder, shall apply to any data or information submitted under this subsection and part B.
 
 (Pub. L. 111–203, title I, §112, July 21, 2010, 124 Stat. 1394.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -44,6 +44,8 @@ Enumeration of names of Great Lakes was omitted as unnecessary.
 
 Other minor changes were necessary now that the section defines a term rather than the place of commission of crime or offense; however, the extent of the special jurisdiction as originally enacted has been carefully followed.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101 of the Immigration and Nationality Act, referred to in par. (9), is classified to section 1101 of Title 8, Aliens and Nationality.
@@ -59,6 +61,8 @@ Section 101 of the Immigration and Nationality Act, referred to in par. (9), is 
 <b>1981</b>—Par. (6). Pub. L. 97–96 added par. (6).
 
 <b>1952</b>—Par. (5). Act July 12, 1952, added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction
 

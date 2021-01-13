@@ -14,7 +14,7 @@ This section shall not be construed as conferring on the personnel of the Depart
 
 Based on title 18, U.S.C., 1940 ed., §518a (July 11, 1941, ch. 287, 55 Stat. 583; May 15, 1945, ch. 126, 59 Stat. 168; May 15, 1946, ch. 258, 60 Stat. 182).
 
-The word "whoever" was substituted for the words "person, corporation, partnership, or association" in conformity with section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended and without change of substance.
+The word "whoever" was substituted for the words "person, corporation, partnership, or association" inconformity with section 1 of title 1, U.S.C., 1940 ed., General Provisions, as amended and without change of substance.
 
 The provisions with reference to punishment of persons subject to military or naval law as provided in the Articles of War and the Articles for the Government of the Navy were omitted, as was the exception of such persons from the punishment provisions of this section. The Articles of War and Articles for the Government of the Navy are sufficiently complete in themselves to authorize the adequate punishment of military or naval personnel for violations of general criminal statutes as well as for disobedience of orders. See Articles of War, Article 96, section 1568 of title 10, U.S.C., 1940 ed., Army, and Articles for the Government of the Navy, Articles 1, 4, 22, 23, section 1200, of title 34, U.S.C., 1940 ed., Navy.
 
@@ -36,15 +36,23 @@ This section \[section 35\] makes the following changes in section 1384 of title
 
 3\. In the third paragraph, substitutes "Department of the Army, Navy, or Air Force" for "War or Navy Department" for the same reason given in item 1 above.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in first par.
 
 <b>1949</b>—Act May 24, 1949, made section applicable to the Air Force which was established as a separate department in 1947, headed by a Secretary.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953,18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator were abolished by section 8 of Reorg. Plan No. 1 of 1953.
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator were abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

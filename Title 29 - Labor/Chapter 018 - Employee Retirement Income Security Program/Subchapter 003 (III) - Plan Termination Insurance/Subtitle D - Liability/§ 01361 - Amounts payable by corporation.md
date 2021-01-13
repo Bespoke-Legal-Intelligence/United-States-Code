@@ -4,9 +4,13 @@ The corporation shall pay benefits under a single-employer plan terminated under
 
 (Pub. L. 93–406, title IV, §4061, Sept. 2, 1974, 88 Stat. 1029; Pub. L. 96–364, title IV, §403(f), Sept. 26, 1980, 94 Stat. 1301.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–364 substituted provisions relating to payment of benefits under a single-employer plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter for provisions relating to payment of benefits under a plan terminated under this subchapter subject to limitations and requirements of subtitle B of this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

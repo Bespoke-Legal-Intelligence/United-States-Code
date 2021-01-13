@@ -10,11 +10,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–237, §3(c)(1), Dec. 18, 2014, 128 Stat. 2840, substituted "FLORAL EMBLEM, MARCH" for "FLORAL EMBLEM MARCH" in chapter heading.
 
 <b>2004</b>—Pub. L. 108–447, div. J, title I, §109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted "MARCH, AND TREE" for ", AND MARCH" in chapter heading and added item 305.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Bison Legacy
 
@@ -52,7 +56,7 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 &emsp;"(12) on October 11, 1907, the American Bison Society sent 15 captive-bred bison from the New York Zoological Park, now known as the 'Bronx Zoo', to the first wildlife refuge in the United States, which was known as the 'Wichita Mountains Wildlife Refuge', resulting in the first successful reintroduction of a mammal species on the brink of extinction back into the natural habitat of the species;
 
-&emsp;"(13) in 2005, the American Bison Society was reestablished, bringing together bison ranchers, managers from Indian tribes, Federal and State agencies, conservation organizations, and natural and social scientists from the United States, Canada, and Mexico to create a vision for the North American bison in the 21st century;
+&emsp;"(13) in 2005, the American Bison Society was reestablished, bringing together bison ranchers, managers from Indian tribes, Federal and State agencies,conservation organizations, and natural and social scientists from the United States, Canada, and Mexico to create a vision for the North American bison in the 21st century;
 
 &emsp;"(14) there are bison herds in National Wildlife Refuges and National Parks;
 

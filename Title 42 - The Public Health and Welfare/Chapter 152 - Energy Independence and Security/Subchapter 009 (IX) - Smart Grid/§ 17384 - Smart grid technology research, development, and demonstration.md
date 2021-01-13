@@ -2,7 +2,7 @@
 
 #### (a) Power grid digital information technology
 
-The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a program—
+The Secretary, in consultation with the Federal Energy Regulatory Commission and other appropriate agencies, electric utilities, the States, and other stakeholders, shall carry out a research, development, and demonstration program—
 
 &emsp;(1) to develop advanced techniques for measuring peak load reductions and energy-efficiency savings from smart metering, demand response, distributed generation, and electricity storage systems;
 
@@ -26,7 +26,7 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments.
+&emsp;The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the "Initiative") composed of demonstration projects focused on cost-effective, advanced technologies for use in power grid sensing, communications, analysis, power flow control, visualization, distribution automation, industrial control systems, dynamic line rating systems, grid redesign, and the integration of distributed energy resources.
 
 #### (2) Goals
 
@@ -38,9 +38,11 @@ The Secretary, in consultation with the Federal Energy Regulatory Commission and
 
 &emsp;&emsp;(C) to facilitate the integration of advanced technologies in existing electric networks to improve system performance, power flow control, and reliability;
 
-&emsp;&emsp;(D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices; and
+&emsp;&emsp;(D) to demonstrate protocols and standards that allow for the measurement and validation of the energy savings and fossil fuel emission reductions associated with the installation and use of energy efficiency and demand response technologies and practices;
 
-&emsp;&emsp;(E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies.
+&emsp;&emsp;(E) to investigate differences in each region and regulatory environment regarding best practices in implementing smart grid technologies; and
+
+&emsp;&emsp;(F) to encourage the commercial application of advanced distribution automation technologies that exert intelligent control over electrical grid functions at the distribution level to improve system resilience.
 
 #### (3) Demonstration projects
 
@@ -76,13 +78,19 @@ There are authorized to be appropriated—
 
 &emsp;(2) to carry out subsection (b), such sums as may be necessary.
 
-(Pub. L. 110–140, title XIII, §1304, Dec. 19, 2007, 121 Stat. 1786; Pub. L. 111–5, div. A, title IV, §405(1)–(4), Feb. 17, 2009, 123 Stat. 143, 144.)
+(Pub. L. 110–140, title XIII, §1304, Dec. 19, 2007, 121 Stat. 1786; Pub. L. 111–5, div. A, title IV, §405(1)–(4), Feb. 17, 2009, 123 Stat. 143, 144; Pub. L. 116–260, div. Z, title VIII, §8001, Dec. 27, 2020, 134 Stat. 2578.)
 
 #### Amendments
 
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §8001(1), inserted "research, development, and demonstration" before "program" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 116–260, §8001(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall establish a smart grid regional demonstration initiative (referred to in this subsection as the 'Initiative') composed of demonstration projects specifically focused on advanced technologies for use in power grid sensing, communications, analysis, and power flow control. The Secretary shall seek to leverage existing smart grid deployments."
+
+Subsec. (b)(2)(F). Pub. L. 116–260, §8001(2)(B), added subpar. (F).
+
 <b>2009</b>—Subsec. (b)(3)(A). Pub. L. 111–5, §405(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "In carrying out the initiative, the Secretary shall carry out smart grid demonstration projects in up to 5 electricity control areas, including rural areas and at least 1 area in which the majority of generation and transmission assets are controlled by a tax-exempt entity."
 
-Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: "The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced gridtechnology investments made by the electric utility to carry out a demonstration project."
+Subsec. (b)(3)(C). Pub. L. 111–5, §405(2), amended subpar. (C) generally. Prior to amendment, text read as follows: "The Secretary shall provide to an electric utility described in subparagraph (B) financial assistance for use in paying an amount equal to not more than 50 percent of the cost of qualifying advanced grid technology investments made by the electric utility to carry out a demonstration project."
 
 Subsec. (b)(3)(E), (F). Pub. L. 111–5, §405(3), added subpars. (E) and (F).
 

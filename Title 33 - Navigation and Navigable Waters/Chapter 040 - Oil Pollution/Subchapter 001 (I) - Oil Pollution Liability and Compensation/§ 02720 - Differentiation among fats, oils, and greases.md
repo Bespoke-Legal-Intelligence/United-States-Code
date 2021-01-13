@@ -22,6 +22,8 @@ The requirements of this Act shall not apply to the Food and Drug Administration
 
 (Pub. L. 104–55, §2, Nov. 20, 1995, 109 Stat. 546.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 104–55, Nov. 20, 1995, 109 Stat. 546, which enacted this section and amended sections 2704 and 2716 of this title. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 2701 of this title and Tables.
@@ -32,11 +34,13 @@ Section was enacted as part of the Edible Oil Regulatory Reform Act, and not as 
 
 Section is comprised of section 2 of Pub. L. 104–55. Subsec. (d) of section 2 of Pub. L. 104–55 amended sections 2704 and 2716 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 105–277, div. A, §101(g) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–473, provided that:
 
-"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard toissue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
+"(a) None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard to issue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) \[see Short Title of 1995 Amendment note set out under section 2701 of this title\], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
 
 &emsp;"(1) physical, chemical, biological and other relevant properties; and
 

@@ -14,6 +14,8 @@
 
 (Pub. L. 98–409, §3, Aug. 29, 1984, 98 Stat. 1538.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.

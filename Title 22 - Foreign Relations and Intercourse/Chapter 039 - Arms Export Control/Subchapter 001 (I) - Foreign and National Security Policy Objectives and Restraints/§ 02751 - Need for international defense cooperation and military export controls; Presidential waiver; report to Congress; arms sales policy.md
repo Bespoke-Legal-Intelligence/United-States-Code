@@ -6,7 +6,7 @@ The Congress recognizes, however, that the United States and other free and inde
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
-It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
+It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country,with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
@@ -24,21 +24,15 @@ It is the sense of the Congress that the President maintain adherence to a polic
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, asamended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
+The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
-
-#### References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act
-
-Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that: "Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act."
-
-#### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
-
-Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
 
 #### Amendments
 
@@ -51,6 +45,16 @@ Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "
 <b>1973</b>—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
 <b>1971</b>—Pub. L. 91–672 substituted "denying the growth of fundamental rights or social progress" for "denying social progress" in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act
+
+Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that: "Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act."
+
+#### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
+
+Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to thisAct unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
 
 #### Effective Date
 
@@ -100,7 +104,7 @@ Responsibility for Enhanced Cooperation.—
 
 &emsp;"(1)
 
-Designation of responsible individual.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense andthe Secretary of State jointly shall make the designation required by paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, set out as a note below\].
+Designation of responsible individual.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense and the Secretary of State jointly shall make the designation required by paragraph (1)(B) of section 1292(a) of the National Defense Authorization Act for Fiscal Year 2017 \[Pub. L. 114–328, set out as a note below\].
 
 &emsp;"(2)
 
@@ -144,7 +148,7 @@ In general.—The Secretary of Defense and Secretary of State should jointly tak
 
 &emsp;&emsp;"(D) strengthen the effectiveness of the U.S.-India Defense Trade and Technology Initiative and the durability of the Department of Defense's 'India Rapid Reaction Cell';
 
-&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services, and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
+&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services,and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
 
 &emsp;&emsp;"(F) promote policies that will encourage the efficient review and authorization of defense sales and exports to India;
 
@@ -516,7 +520,7 @@ Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.�
 
 &emsp;"(1)
 
-In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
+In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of theFederal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
 
 &emsp;"(2)
 
@@ -850,7 +854,7 @@ Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided th
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
-Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, priorto repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
@@ -909,6 +913,8 @@ Pub. L. 91–672, §6, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the s
 &emsp;&emsp;"(B) to commence a general debate in the United Nations with respect to the control of the conventional arms trade, and
 
 &emsp;&emsp;"(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control the international sales and distribution of conventional weapons of death and destruction."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11501
 

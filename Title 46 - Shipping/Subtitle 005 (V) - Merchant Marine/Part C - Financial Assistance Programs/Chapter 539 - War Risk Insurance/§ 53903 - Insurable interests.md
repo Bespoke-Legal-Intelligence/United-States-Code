@@ -32,7 +32,7 @@ In General.—The Secretary of Transportation may provide insurance and reinsura
 
 (b)
 
-Considerations for Foreign Vessels.—In determining whether to provide insurance or reinsurance for a foreign vessel, the Secretary shall consider the characteristics, employment, and general management of the vessel by the owner or charterer.
+Considerations for Foreign Vessels.—In determining whether to provide insurance or reinsurance for a foreign vessel, the Secretary shall consider the characteristics, employment,and general management of the vessel by the owner or charterer.
 
 (c)
 

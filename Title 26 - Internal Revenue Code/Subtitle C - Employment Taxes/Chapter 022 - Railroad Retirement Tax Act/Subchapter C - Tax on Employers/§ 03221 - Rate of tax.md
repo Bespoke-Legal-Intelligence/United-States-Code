@@ -18,7 +18,7 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 <b>2018</b>—Subsecs. (c), (d). Pub. L. 115–141 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided for a special rate for certain individuals hired in 2010.
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
+<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted ofpars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 <b>2010</b>—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -67,7 +67,7 @@ Subsec. (b). Pub. L. 93–69, §102(f), substituted "1973" for "1965" and "by th
 
 Subsec. (d). Pub. L. 91–215, §5(b)(1), added subsec. (d).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–700, §§301(iii), (v), 302, substituted "after September 30, 1965" for "after the month in which this provision was amended in 1959" in six places, and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended" in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
+<b>1966</b>—Subsec. (a). Pub. L. 89–700, §§301(iii), (v), 302, substituted "after September 30, 1965" for "after the month in which this provision was amended in 1959" in six places, and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Codeof 1954, whichever is greater, for any month after September 30, 1965" for "400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended" in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
 
 Pub. L. 89–699, §301(c), substituted "7 percent" for "6¾ percent" in subd. (3), "7¼ percent" for "7 percent" in subd. (4), and "7½ percent" for "7¼ percent" in subd. (5).
 
@@ -129,7 +129,7 @@ Pub. L. 93–445, title VI, §604, Oct. 16, 1974, 88 Stat. 1361, provided that: 
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, forchanges in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -158,6 +158,14 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by subsec. (b) of this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
+
+#### Payroll Credits for Emergency Sick or Family Leave and Special Rule for 2020
+
+For allowance of credit against tax imposed by subsec. (a) of this section for certain sick leave wages paid by an employer applicable during part of 2020, see section 7001 of Pub. L. 116–127, set out as a note under section 3111 of this title.
+
+For allowance of credit againt tax imposed by subsec. (a) of this section for certain family leave wages paid by an employer applicable during part of 2020, see section 7003 of Pub. L. 116–127, set out as a note under section 3111 of this title.
+
+For provision that sick leave and family leave wages paid out by reason of certain provisions of Pub. L. 116–127 not to be considered compensation for purposes of subsec. (a) of this section, see section 7005 of Pub. L. 116–127, set out as a note under section 3111 of this title.
 
 #### Excise Taxes on Employers; Employees Covered by Certain Supplemental Pension Plans
 

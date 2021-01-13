@@ -26,6 +26,8 @@
 
 (Added Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1143; amended Pub. L. 97–164, title I, §144, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–12, §10, Apr. 10, 1989, 103 Stat. 35; Pub. L. 105–311, §10(a), Oct. 30, 1998, 112 Stat. 2954; Pub. L. 112–199, title I, §108, Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–170, §2, Sept. 26, 2014, 128 Stat. 1894; Pub. L. 115–195, §2(a), (b), July 7, 2018, 132 Stat. 1510.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1)(B). Pub. L. 115–195, §2(a), substituted "A petition" for "During the 5-year period beginning on the effective date of the Whistleblower Protection Enhancement Act of 2012, a petition".
@@ -36,7 +38,7 @@ Subsec. (d)(2). Pub. L. 115–195, §2(b), substituted "This paragraph" for "Dur
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–199, §108(a), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board."
 
-Subsec. (d). Pub. L. 112–199, §108(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing, within 60 days after the date the Director received notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuitif the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board's decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals."
+Subsec. (d). Pub. L. 112–199, §108(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Director of the Office of Personnel Management may obtain review of any final order or decision of the Board by filing, within 60 days after the date the Director received notice of the final order or decision of the Board, a petition for judicial review in the United States Court of Appeals for the Federal Circuit if the Director determines, in his discretion, that the Board erred in interpreting a civil service law, rule, or regulation affecting personnel management and that the Board's decision will have a substantial impact on a civil service law, rule, regulation, or policy directive. If the Director did not intervene in a matter before the Board, the Director may not petition for review of a Board decision under this section unless the Director first petitions the Board for a reconsideration of its decision, and such petition is denied. In addition to the named respondent, the Board and all other parties to the proceedings before the Board shall have the right to appear in the proceeding before the Court of Appeals. The granting of the petition for judicial review shall be at the discretion of the Court of Appeals."
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–311, §10(a)(1), substituted "within 60 days" for "within 30 days".
 
@@ -49,6 +51,8 @@ Subsec. (d). Pub. L. 105–311, §10(a)(2), in first sentence, inserted ", with
 Subsec. (c). Pub. L. 97–164, §144(2), substituted "Court of Appeals for the Federal Circuit" for "Court of Claims or a United States court of appeals".
 
 Subsec. (d). Pub. L. 97–164, §144(3), substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Appeals for the District of Columbia".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

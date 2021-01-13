@@ -2,11 +2,11 @@
 
 #### (a) Establishment and membership
 
-The Foundation shall have a governing Board of Directors (hereinafter referred to as the "Board"), which shall consist of not more than 30 Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
+The Foundation shall have a governing Board of Directors (hereinafter referred to as the "Board"), which shall consist of not more than 30 Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members ofthe Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
 
 #### (b) Appointment and terms
 
-Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the "Secretary") shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which theoriginal appointment was made. No individual may serve more than twelve consecutive years as a Director.
+Within one year from November 16, 1990, the Secretary of Agriculture (hereinafter referred to as the "Secretary") shall appoint the Directors of the Board. Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint one-third each of the Directors to terms of two, four, and six years respectively. A vacancy on the Board shall be filled within sixty days of such vacancy in the manner in which the original appointment was made. No individual may serve more than twelve consecutive years as a Director.
 
 #### (c) Chairman
 

@@ -38,11 +38,11 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (2) No new or duplicative determinations
 
-&emsp;Once a child is determined to be an Indian eligible to be counted for such grant award,the local educational agency shall maintain a record of such determination and shall not require a new or duplicate determination to be made for such child for a subsequent application for a grant under this subpart.
+&emsp;Once a child is determined to be an Indian eligible to be counted for such grant award, the local educational agency shall maintain a record of such determination and shall not require a new or duplicate determination to be made for such child for a subsequent application for a grant under this subpart.
 
 #### (3) Previously filed forms
 
-&emsp;An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section was in effect on the day before December 10, 2015, shall remain valid for such Indian student.
+&emsp;An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section wasin effect on the day before December 10, 2015, shall remain valid for such Indian student.
 
 #### (e) Monitoring and evaluation review
 

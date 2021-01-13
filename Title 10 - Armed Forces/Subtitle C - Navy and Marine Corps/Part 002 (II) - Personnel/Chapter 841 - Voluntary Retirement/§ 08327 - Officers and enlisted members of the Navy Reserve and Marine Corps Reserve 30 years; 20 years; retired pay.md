@@ -52,5 +52,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
 

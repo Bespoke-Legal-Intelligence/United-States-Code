@@ -22,6 +22,8 @@ The definition of the word "appropriations" is added on authority of section 18 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–258 substituted "section 9104" for "section 849".

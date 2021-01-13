@@ -14,7 +14,7 @@ In the event of a default, the mortgagee shall be entitled to receive the benefi
 
 #### (d) Maximum percentage of net appreciated value; disclosure requirements
 
-The Secretary shall establish by regulation the maximum percentage of net appreciated value which may be payable to a mortgagee as the mortgagee's share. The Secretary shall also establish disclosure requirements applicable tomortgagees making mortgage loans pursuant to this section, to assure that mortgagors are informed of the characteristics of such mortgages.
+The Secretary shall establish by regulation the maximum percentage of net appreciated value which may be payable to a mortgagee as the mortgagee's share. The Secretary shall also establish disclosure requirements applicable to mortgagees making mortgage loans pursuant to this section, to assure that mortgagors are informed of the characteristics of such mortgages.
 
 #### (e) Inapplicability of State constitution, statute, etc., limiting or prohibiting increases in outstanding loan balance
 
@@ -25,6 +25,8 @@ Mortgages insured pursuant to this section which contain provisions for sharing 
 The number of dwelling units included in properties covered by mortgages insured pursuant to this section in any fiscal year may not exceed 5,000.
 
 (June 27, 1934, ch. 847, title II, §253, as added Pub. L. 98–181, title I \[title IV, §445\], Nov. 30, 1983, 97 Stat. 1226; amended Pub. L. 100–242, title IV, §429(j), Feb. 5, 1988, 101 Stat. 1919.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

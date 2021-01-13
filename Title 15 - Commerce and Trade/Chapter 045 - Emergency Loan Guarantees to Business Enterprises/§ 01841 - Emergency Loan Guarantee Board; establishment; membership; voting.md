@@ -28,7 +28,7 @@ Congressional Findings.—Congress finds that—
 
 &emsp;"(1) the United States steel industry has been severely harmed by a record surge of more than 40,000,000 tons of steel imports into the United States since 1998, caused by the world financial crisis;
 
-&emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and wasthe imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
+&emsp;"(2) this surge in imports resulted in the loss of more than 10,000 steel worker jobs since 1998, and was the imminent cause of three bankruptcies by medium-sized steel companies, Acme Steel, Laclede Steel, and Geneva Steel;
 
 &emsp;"(3) the crisis also forced almost all United States steel companies into—
 
@@ -286,11 +286,11 @@ In general.—The Program may guarantee loans provided to qualified oil and gas 
 
 &emsp;"(2)
 
-Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at anyone time under this section shall not exceed $500,000,000.
+Total guarantee limit.—The aggregate amount of loans guaranteed and outstanding at any one time under this section shall not exceed $500,000,000.
 
 &emsp;"(3)
 
-Individual guarantee limit.—The aggregate amount of loans guaranteed under this section with respect to a single qualified oil and gas company shall not exceed $10,000,000.
+Individual guarantee limit.—The aggregate amount of loans guaranteed under this section withrespect to a single qualified oil and gas company shall not exceed $10,000,000.
 
 &emsp;"(4)
 

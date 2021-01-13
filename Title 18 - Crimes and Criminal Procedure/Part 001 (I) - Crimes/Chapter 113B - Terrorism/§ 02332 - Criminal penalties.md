@@ -34,6 +34,8 @@ Limitation on Prosecution.—No prosecution for any offense described in this se
 
 (Added Pub. L. 99–399, title XII, §1202(a), Aug. 27, 1986, 100 Stat. 896, §2331; amended Pub. L. 101–519, §132(b), Nov. 5, 1990, 104 Stat. 2250; Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155; Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643; renumbered §2332 and amended Pub. L. 102–572, title X, §1003(a)(1), (2), Oct. 29, 1992, 106 Stat. 4521; Pub. L. 103–322, title VI, §60022, Sept. 13, 1994, 108 Stat. 1980; Pub. L. 104–132, title VII, §705(a)(6), Apr. 24, 1996, 110 Stat. 1295.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–132 substituted "ten years" for "five years" in concluding provisions.
@@ -48,7 +50,9 @@ Definition.—As used in this section the term 'national of the United States' h
 
 <b>1990</b>—Pub. L. 101–519, §132, which amended this section, was repealed by Pub. L. 102–27, §402, as amended. See 1991 Amendment note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 applicable to any pending case or any cause of action arising on or after 4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as an Effective Date note under section 2331 of this title.
+Amendment by Pub. L. 102–572 applicable to any pending case or any cause of action arising on or after4 years before Oct. 29, 1992, see section 1003(c) of Pub. L. 102–572, set out as an Effective Date note under section 2331 of this title.
 

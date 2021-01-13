@@ -16,7 +16,7 @@ In the enforcement of this section, the President is authorized to exercise the 
 
 For purposes of this section—
 
-&emsp;(1) the term "offset agreement" means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase or acquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreign country in consideration for the purchase by the foreign country of defense articles or defense services from the supplier;
+&emsp;(1) the term "offset agreement" means an agreement, arrangement, or understanding between a United States supplier of defense articles or defense services and a foreign country under which the supplier agrees to purchase or acquire, or to promote the purchase or acquisition by other United States persons of, goods or services produced, manufactured, grown, or extracted, in whole or in part, in that foreigncountry in consideration for the purchase by the foreign country of defense articles or defense services from the supplier;
 
 &emsp;(2) the term "incentive payments" means direct monetary compensation made by a United States supplier of defense articles or defense services or by any employee, agent or subcontractor thereof to any other United States person to induce or persuade that United States person to purchase or acquire goods or services produced, manufactured, grown, or extracted, in whole or in part, in the foreign country which is purchasing those defense articles or services from the United States supplier; and
 
@@ -31,6 +31,8 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(ii) owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
 
 (Pub. L. 90–629, ch. 3, §39A, as added Pub. L. 103–236, title VII, §733, Apr. 30, 1994, 108 Stat. 504; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1246, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–502, 1501A–511; Pub. L. 111–266, title I, §103(d), Oct. 8, 2010, 124 Stat. 2799.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96
 Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1303\], inserted "section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that" after "except that".
 
 Subsec. (d)(3)(B)(ii). Pub. L. 106–113, §1000(a)(7) \[title XII, §1246(b)\], inserted "or by an entity described in clause (i)" after "subparagraph (A)".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

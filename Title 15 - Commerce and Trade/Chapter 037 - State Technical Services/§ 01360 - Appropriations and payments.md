@@ -14,7 +14,7 @@ The Secretary may reserve an amount equal to not more than 20 per centum of the 
 
 #### (d) Expenses of administration
 
-An amount equal to not more than 5 per centum of the total amount appropriated each yearunder this section shall be available to the Secretary for the direct expenses of administering this chapter.
+An amount equal to not more than 5 per centum of the total amount appropriated each year under this section shall be available to the Secretary for the direct expenses of administering this chapter.
 
 #### (e) Limitations on payments
 

@@ -40,9 +40,13 @@ The Secretary of the Army may—
 
 (Pub. L. 100–707, title II, §203, Nov. 23, 1988, 102 Stat. 4712.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4711, known as the "Great Lakes Planning Assistance Act of 1988". For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -64,7 +68,7 @@ Grants.—Upon application by a Great Lakes State within 1 year after the date o
 
 &emsp;"(2) coordination of available State and Federal assistance;
 
-&emsp;"(3) development and implementation of nonstructural measures to reduce or prevent damage attributable to high water levels in the Great Lakes, including establishment of setback requirements andother conditions on construction and reconstruction of public and private facilities, mapping of flooding zones, and technical assistance; and
+&emsp;"(3) development and implementation of nonstructural measures to reduce or prevent damage attributable to high water levels in the Great Lakes, including establishment of setback requirements and other conditions on construction and reconstruction of public and private facilities, mapping of flooding zones, and technical assistance; and
 
 &emsp;"(4) assisting local governments in developing and implementing plans for nonstructural reduction and prevention of damages attributable to high water levels in the Great Lakes.
 

@@ -24,6 +24,8 @@ References to "force" were omitted as well as those to "officer" or "custody." S
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted "or conviction of any offense, be fined under this title" for "or conviction of any offense, be fined not more than $5,000".

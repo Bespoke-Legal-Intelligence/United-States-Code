@@ -2,7 +2,7 @@
 
 #### (a) Timeline in awarding agreement
 
-Not later than 6 months after receiving an application in accordance with section 1397n–1 of this title, the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships, shall determine whether to enter into an agreement for a social impact partnership project with a State or local government.
+Not later than 6 months after receiving an application in accordance with section 1397n–1 of this title, the Secretary, in consultation withthe Federal Interagency Council on Social Impact Partnerships, shall determine whether to enter into an agreement for a social impact partnership project with a State or local government.
 
 #### (b) Considerations in awarding agreement
 

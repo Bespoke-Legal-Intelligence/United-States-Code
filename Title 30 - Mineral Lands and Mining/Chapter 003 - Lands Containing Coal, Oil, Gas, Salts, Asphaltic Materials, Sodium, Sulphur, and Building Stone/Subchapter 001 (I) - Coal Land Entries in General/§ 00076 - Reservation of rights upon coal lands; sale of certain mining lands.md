@@ -4,9 +4,13 @@ Nothing in sections 71 to 75 of this title shall be construed to destroy or impa
 
 (R.S. §2352.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2352 derived from act Mar. 3, 1873, ch. 279, §6, 17 Stat. 608.
+
+#### <b>Executive Documents</b>
 
 #### Indian Lands Excepted
 

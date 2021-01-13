@@ -4,6 +4,8 @@ Senators elected, whose term of office begins on the 3d day of January, and whos
 
 (June 19, 1934, ch. 648, title I, §1, 48 Stat. 1022; Pub. L. 97–51, §112(b)(2), Oct. 1, 1981, 95 Stat. 963.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 33 of this title prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 33 of this title prior to editorial r
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–51 struck out "monthly" after "may receive their compensation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

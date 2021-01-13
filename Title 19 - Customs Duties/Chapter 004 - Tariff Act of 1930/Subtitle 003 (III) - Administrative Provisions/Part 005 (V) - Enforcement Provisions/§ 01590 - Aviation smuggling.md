@@ -14,7 +14,7 @@ It is unlawful for any person to transfer merchandise between an aircraft and a 
 
 &emsp;&emsp;(B) the vessel is a vessel of the United States (within the meaning of section 1703(b) of this title), or
 
-&emsp;(2) regardless of the nationality of the vessel or aircraft, such transfer is made under circumstances indicating the intent to make itpossible for such merchandise, or any part thereof, to be introduced into the United States unlawfully.
+&emsp;(2) regardless of the nationality of the vessel or aircraft, such transfer is made under circumstances indicating the intent to make it possible for such merchandise, or any part thereof, to be introduced into the United States unlawfully.
 
 #### (c) Civil penalties
 

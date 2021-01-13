@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary may recruit, train, and accept, without regard to chapter 51 and subchapter III of chapter 53 of title 5 or regulations prescribed under that chapter or subchapter, the services of individuals without compensation as volunteers for or in aid of interpretive functions or other visitor services or activities in and related to System units and related areas. In accepting those services, the Secretary shall not permit the use of volunteers in hazardous duty or law enforcement work or in policymaking processes, or to displace any employee. The services of individuals whom the Secretary determines are skilled in performing hazardous activities may be accepted.
+Establishment.—The Secretary may recruit, train, and accept, without regard to chapter 51 and subchapter III of chapter 53 of title 5 or regulations prescribed under that chapter or subchapter, the services of individuals without compensation as volunteers for or in aid of interpretive functions or other visitor services oractivities in and related to System units and related areas. In accepting those services, the Secretary shall not permit the use of volunteers in hazardous duty or law enforcement work or in policymaking processes, or to displace any employee. The services of individuals whom the Secretary determines are skilled in performing hazardous activities may be accepted.
 
 (b)
 
@@ -80,11 +80,15 @@ In subsection (c)(3), the words "relating to compensation to Federal employees f
 
 In subsection (d), the words "such sums as may be necessary" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (d). Pub. L. 114–289 substituted "not more than $9,000,000" for "not more than $7,000,000". See Amendment Subject to Availability of Appropriations note below.
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–113 substituted "$7,000,000" for "$3,500,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Amendment Subject to Availability of Appropriations
 

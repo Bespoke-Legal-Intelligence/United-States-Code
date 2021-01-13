@@ -10,7 +10,7 @@ The Administrator may establish a pilot program to make grants to State, interst
 
 #### (c) Eligible entity
 
-The Administrator may make grants under this section to an entity only if the entity has authority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
+The Administrator may make grants under this section to an entity only if the entity hasauthority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
 
 #### (d) Selection of projects
 
@@ -65,6 +65,8 @@ In this section, the following definitions apply:
 There is authorized to be appropriated to carry out this section a total of $75,000,000 for fiscal years 2002 through 2004. Such sums shall remain available until expended.
 
 (June 30, 1948, ch. 758, title II, §220, as added Pub. L. 106–457, title VI, §602, Nov. 7, 2000, 114 Stat. 1975.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

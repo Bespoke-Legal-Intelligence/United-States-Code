@@ -2,7 +2,7 @@
 
 The Secretary, acting through the Director of the Centers for Disease Control, may, directly or through grants and contracts, or both, provide technical assistance to the States in the establishment and operation of statewide registries, including assistance in the development of model legislation for statewide cancer registries and assistance in establishing a computerized reporting and data processing system.
 
-(July 1, 1944, ch. 373, title III, §399D, formerly §399J, as added Pub. L. 102–515, §3, Oct. 24, 1992,106 Stat. 3376; renumbered §399D, Pub. L. 106–310, div. A, title V, §502(2)(A), Oct. 17, 2000, 114 Stat. 1115.)
+(July 1, 1944, ch. 373, title III, §399D, formerly §399J, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399D, Pub. L. 106–310, div. A, title V, §502(2)(A), Oct. 17, 2000, 114 Stat. 1115.)
 
 #### Prior Provisions
 

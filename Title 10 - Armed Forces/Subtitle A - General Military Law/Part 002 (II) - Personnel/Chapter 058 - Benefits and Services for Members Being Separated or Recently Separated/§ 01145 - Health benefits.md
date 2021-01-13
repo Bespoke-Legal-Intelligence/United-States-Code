@@ -40,7 +40,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 (B) Assistance provided to a member under paragraph (1) shall include the following:
 
-&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, andother services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
+&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, and other services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
 
 &emsp;&emsp;(I) clinical services, including counseling and treatment for post-traumatic stress disorder and other mental health conditions; and
 
@@ -108,7 +108,7 @@ Definition.—In this section, the term "conversion health policy" means a healt
 
 (f)
 
-Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for themembers of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, §1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, §4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, \[div. A\], title VII, §734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, §703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, §706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, §1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §511(b), title VII, §§705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, §704(b), Dec. 20, 2019, 133 Stat. 1438.)
 
@@ -178,7 +178,7 @@ Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted "during the period begi
 
 <b>1993</b>—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end "A conversion health policy offered underthis paragraph shall provide coverage for not less than an 18-month period."
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end "A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period."
 
 Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted "18-month period" for "one-year period".
 
@@ -188,7 +188,7 @@ Subsec. (b)(4) to (6). Pub. L. 102–484, §4407(a)(3), added pars. (4) to (6).
 
 Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: "Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\]."
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set outas a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 
@@ -199,6 +199,18 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Transitional Health Benefits for Certain Members of the National Guard Serving Under Orders in Response to the Coronavirus (COVID–19)
+
+Pub. L. 116–283, div. A, title VII, §733, Jan. 1, 2021, 134 Stat. 3702, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall provide to a member of the National Guard separating from active service after serving on full-time National Guard duty pursuant to section 502(f) of title 32, United States Code, the health benefits authorized under section 1145 of title 10, United States Code, for a member of a reserve component separating from active duty, as referred to in subsection (a)(2)(B) of such section 1145, if the active service from which the member of the National Guard is separating was in support of the whole of government response to the coronavirus (COVID–19).
+
+"(b)
+
+Definitions.—In this section, the terms 'active duty', 'active service', and 'full-time National Guard duty' have the meanings given those terms in section 101(d) of title 10, United States Code."
 
 #### Mental Health Care Treatment Through Telemedicine
 

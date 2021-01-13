@@ -1,14 +1,18 @@
 ### §6152. Appointment and compensation of employees by Secretaries for Senate Majority and Minority; gross compensation
 
-Effective October 1, 1977, the Secretary for the Majority and the Secretary for the Minority areeach authorized to appoint and fix the compensation of such employees as they deem appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $143,200 each fiscal year for each Secretary.
+Effective October 1, 1977, the Secretary for the Majority and the Secretary for the Minority are each authorized to appoint and fix the compensation of such employees as they deem appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $143,200 each fiscal year for each Secretary.
 
 (Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 658, 659.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 61g–5 of this title prior to editorial reclassification and renumbering as this section.
 
 Section is from the Congressional Operations Appropriation Act, 1978, which is title I of the Legislative Branch Appropriation Act, 1978.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increases in Compensation
 

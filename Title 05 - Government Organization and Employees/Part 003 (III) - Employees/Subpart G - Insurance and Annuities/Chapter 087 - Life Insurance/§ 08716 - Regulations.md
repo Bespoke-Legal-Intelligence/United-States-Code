@@ -48,6 +48,8 @@ In subsection (b), the words "section 1501 of title 31, District of Columbia Cod
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454, §906(a)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
@@ -57,6 +59,8 @@ Subsec. (b). Pub. L. 95–454, §906(a)(3), substituted "Office" for "Commission
 Pub. L. 95–437 substituted "intermittent employment" for "intermittent or part-time employment" in provision preceding par. (1), and added par. (3).
 
 Pub. L. 95–454, §906(c)(2)(F), (G), substituted "3401" for "3391" in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

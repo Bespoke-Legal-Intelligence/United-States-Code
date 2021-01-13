@@ -6,7 +6,7 @@ The Commission and each State commission with regulatory jurisdiction over telec
 
 #### (b) Inquiry
 
-The Commission shall, within 30 months after February 8, 1996, and annually thereafter, initiate a notice of inquiry concerning the availability of advanced telecommunications capability to all Americans (including, in particular, elementary and secondary schools and classrooms) and shall complete the inquiry within 180 days after its initiation. In the inquiry, the Commission shall determine whether advanced telecommunications capability is being deployed to all Americans in a reasonable and timely fashion. If the Commission's determination is negative, it shall take immediate action to accelerate deployment of such capability by removing barriers to infrastructure investment and by promoting competition in the telecommunications market.
+The Commission shall, within 30 months after February 8, 1996, and annually thereafter, initiate a notice of inquiry concerning the availability of advanced telecommunications capability to all Americans (including, in particular, elementary and secondary schools and classrooms) and shall complete the inquiry within 180 days after its initiation. In the inquiry, the Commission shall determine whether advanced telecommunications capability is being deployed to all Americans in a reasonable and timely fashion. If the Commission's determination is negative, it shall take immediate actionto accelerate deployment of such capability by removing barriers to infrastructure investment and by promoting competition in the telecommunications market.
 
 #### (c) Demographic information for unserved areas
 
@@ -32,6 +32,8 @@ For purposes of this subsection: <sup>2</sup>
 
 (Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153; Pub. L. 107–110, title X, §1076(gg), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–385, title I, §103(a), Oct. 10, 2008, 122 Stat. 4096; Pub. L. 114–95, title IX, §9215(ttt), Dec. 10, 2015, 129 Stat. 2190.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (d)(1), referred to in subsec. (c), was in the original "section 706(c)(1) of the Telecommunications Act of 1996" and was translated as reading "section 706(d)(1) of the Telecommunications Act of 1996", which is classified to subsection (d)(1) of this section, to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 110–385, title I, §103(a)(2), Oct. 10, 2008, 122 Stat. 4096.
@@ -51,6 +53,8 @@ Section was enacted as part of the Telecommunications Act of 1996, and not as pa
 Subsecs. (c), (d). Pub. L. 110–385, §103(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–110 substituted "section 7801 of title 20" for "paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -32,9 +32,11 @@
 
 &emsp;&emsp;(E) in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under title I of the Ethics in Government Act of 1978 are transmitted under such title, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
 
-&emsp;(2) the term "officer or employee" means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
+&emsp;(2) the term "officer or employee" means an individual holding an appointive or electiveposition in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
 
 (Added Pub. L. 101–194, title III, §303(a), Nov. 30, 1989, 103 Stat. 1746; amended Pub. L. 101–280, §4(d), May 4, 1990, 104 Stat. 158; Pub. L. 107–347, title II, §209(g)(1)(C), Dec. 17, 2002, 116 Stat. 2932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -55,6 +57,8 @@ Subsec. (d)(1)(B). Pub. L. 101–280, §4(d)(3)(A)(i), substituted "officers," f
 Subsec. (d)(1)(E). Pub. L. 101–280, §4(d)(3)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "the ethics committee with which the officer or employee is required to file financial disclosure forms, for all legislative branch officers and employees other than those specified in subparagraphs (A) and (B), except that such authority may be delegated; and".
 
 Subsec. (d)(2). Pub. L. 101–280, §4(d)(3)(B), substituted "Government," for "Government".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

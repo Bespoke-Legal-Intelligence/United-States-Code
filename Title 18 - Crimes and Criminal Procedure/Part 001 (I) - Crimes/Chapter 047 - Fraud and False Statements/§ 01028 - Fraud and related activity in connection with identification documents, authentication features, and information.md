@@ -12,7 +12,7 @@
 
 &emsp;(5) knowingly produces, transfers, or possesses a document-making implement or authentication feature with the intent such document-making implement or authentication feature will be used in the production of a false identification document or another document-making implement or authentication feature which will be so used;
 
-&emsp;(6) knowingly possesses an identification document or authentication feature that is or appears to be an identification document or authentication feature of the United States or a sponsoring entity of an event designated as a special event of national significance which is stolen or produced without lawful authority knowing that such document or feature was stolen or produced without such authority;
+&emsp;(6) knowingly possesses an identification document or authentication feature that is or appears to be an identification document or authentication feature of the United States or a sponsoring entity of an event designated asa special event of national significance which is stolen or produced without lawful authority knowing that such document or feature was stolen or produced without such authority;
 
 &emsp;(7) knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person with the intent to commit, or to aid or abet, or in connection with, any unlawful activity that constitutes a violation of Federal law, or that constitutes a felony under any applicable State or local law; or
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) means any governmental entity or agency that is authorized to issue identification documents, means of identification, or authentication features; and
 
-&emsp;&emsp;(B) includes the United States Government, a State, a political subdivision of aState, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international government or quasi-governmental organization;
+&emsp;&emsp;(B) includes the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international government or quasi-governmental organization;
 
 &emsp;(7) the term "means of identification" means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
 
@@ -138,7 +138,9 @@ Forfeiture; Disposition.—In the circumstance in which any person is convicted 
 
 Rule of Construction.—For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, §7216, Dec. 17, 2004, 118 Stat. 3833; Pub. L. 109–13, div. B, title II, §203(a), May 11, 2005, 119 Stat. 315; Pub. L. 109–177, title VI, §603, Mar. 9, 2006, 120 Stat. 253.)
+(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§2(c), 3, July 15, 2004, 118Stat. 832; Pub. L. 108–458, title VII, §7216, Dec. 17, 2004, 118 Stat. 3833; Pub. L. 109–13, div. B, title II, §203(a), May 11, 2005, 119 Stat. 315; Pub. L. 109–177, title VI, §603, Mar. 9, 2006, 120 Stat. 253.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -247,6 +249,8 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted "under this title
 <b>1988</b>—Subsec. (a)(6). Pub. L. 100–690 inserted "knowingly" before "possesses", "lawful" before first reference to "authority", and "such" before second reference to "authority".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–646 substituted "chapter 224 of this title" for "title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

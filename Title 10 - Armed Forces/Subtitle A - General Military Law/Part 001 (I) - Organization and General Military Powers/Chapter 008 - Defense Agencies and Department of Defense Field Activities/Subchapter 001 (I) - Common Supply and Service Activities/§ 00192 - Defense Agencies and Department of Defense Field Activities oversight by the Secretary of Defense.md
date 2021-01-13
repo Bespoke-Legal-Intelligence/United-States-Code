@@ -18,13 +18,7 @@ Program and Budget Review.—The Secretary of Defense shall establish procedures
 
 (c)
 
-Periodic Review.—(1) <sup>1</sup> Periodically (and not less often than every two years), the Secretary of Defense shall review the services and supplies provided by each Defense Agency and Department of Defense Field Activity to ensure that—
-
-&emsp;(A) there is a continuing need for each such agency and activity; and
-
-&emsp;(B) the provision of those services and supplies by each such agency and activity, rather than by the military departments, is a more effective, economical, or efficient manner of providing those services and supplies or of meeting the requirements for combat readiness of the armed forces.
-
-(1) <sup>1</sup>(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
+Periodic Review.—(1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
 
 (B) As part of each review under this paragraph, the Chief Management Officer shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
 
@@ -62,13 +56,15 @@ Limitation on Termination.—The Secretary of Defense may not terminate a Defens
 
 &emsp;(2) Such recommendations for legislative action as the Secretary considers appropriate in connection with the termination of the Agency or Activity.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, §923, title X, §1081(f)(1)(A)(i), Aug. 13, 2018, 132 Stat. 1930, 1986.)
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, §923, title X, §1081(f)(1)(A)(i), Aug. 13, 2018, 132 Stat. 1930, 1986; Pub. L. 116–283, div. A, title X, §1081(a)(11), Jan. 1, 2021, 134 Stat. 3871.)
 
 #### Prior Provisions
 
 A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 struck out par. (1) relating to periodic review of services and supplies provided by each Defense Agency and Department of Defense Field Activity.
 
 <b>2018</b>—Subsec. (c)(1) to (3). Pub. L. 115–232, §923(a), added par. (1) relating to efficiency and effectiveness reviews and par. (2) and redesignated former par. (2) as (3).
 
@@ -89,6 +85,4 @@ Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted "that the Director of t
 #### First Review of Defense Agencies by Secretary of Defense
 
 Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
-
-<i><sup>1</sup></i><i> So in original. Two pars. (1) have been enacted.</i>
 

@@ -14,7 +14,7 @@ The operator of a coal mine shall cooperate with the Secretary of Health and Hum
 
 #### (c) Costs of examinations and tests
 
-No payment may be required of any miner in connection with any examination or test given him pursuant to this subchapter. Where such examinations or tests cannot be given, due to the lack of adequate medical or other necessary facilities or personnel, in the locality where the miner resides, arrangements shall be made to have them conducted, in accordance with the provisions of this subchapter, in such locality by the Secretary of Health and Human Services, or by an appropriate person, agency, or institution, public or private, under an agreement or arrangement between the Secretary of Health and Human Services and such person, agency, or institution. The operator of the mine shall reimburse the Secretary of Health and Human Services, or such person, agency, or institution, as the case may be, for the cost of conducting each examination or test made, in accordance with this subchapter, and shall pay whatever other costs are necessary to enable the miner to take such examinations or tests.
+No payment may be required of any miner in connection with any examination or test given him pursuant to this subchapter. Where such examinations or tests cannot be given, due to the lack of adequate medical or other necessary facilities or personnel, in the locality where the miner resides, arrangements shall be made to have them conducted, in accordance with theprovisions of this subchapter, in such locality by the Secretary of Health and Human Services, or by an appropriate person, agency, or institution, public or private, under an agreement or arrangement between the Secretary of Health and Human Services and such person, agency, or institution. The operator of the mine shall reimburse the Secretary of Health and Human Services, or such person, agency, or institution, as the case may be, for the cost of conducting each examination or test made, in accordance with this subchapter, and shall pay whatever other costs are necessary to enable the miner to take such examinations or tests.
 
 #### (d) Autopsies
 
@@ -22,11 +22,15 @@ If the death of any active miner occurs in any coal mine, or if the death of any
 
 (Pub. L. 91–173, title II, §203, Dec. 30, 1969, 83 Stat. 763; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For operative date of this subchapter, referred to in subsec. (b)(1), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

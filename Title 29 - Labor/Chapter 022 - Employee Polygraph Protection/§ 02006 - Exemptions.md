@@ -64,7 +64,7 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter shall not prohibit the use of polygraph tests on prospective employees by any private employer whose primary business purpose consists of providingarmored car personnel, personnel engaged in the design, installation, and maintenance of security alarm systems, or other uniformed or plainclothes security personnel and whose function includes protection of—
+&emsp;Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter shall not prohibit the use of polygraph tests on prospective employees by any private employer whose primary business purpose consists of providing armored car personnel, personnel engaged in the design, installation, and maintenance of security alarm systems, or other uniformed or plainclothes security personnel and whose function includes protection of—
 
 &emsp;&emsp;(A) facilities, materials, or operations having a significant impact on the health or safety of any State or political subdivision thereof, or the national security of the United States, as determined under rules and regulations issued by the Secretary within 90 days after June 27, 1988, including—
 
@@ -102,6 +102,8 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 (Pub. L. 100–347, §7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, §501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 110–417, \[div. A\], title IX, §931(b)(3), Oct. 14, 2008, 122 Stat. 4575.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
@@ -113,6 +115,8 @@ Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356,
 <b>1996</b>—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
 <b>1994</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

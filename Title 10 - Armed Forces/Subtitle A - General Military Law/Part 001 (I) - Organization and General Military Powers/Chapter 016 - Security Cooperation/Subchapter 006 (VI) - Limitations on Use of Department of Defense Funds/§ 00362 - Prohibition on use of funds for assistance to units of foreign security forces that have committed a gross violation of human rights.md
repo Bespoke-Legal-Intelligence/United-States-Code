@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) Of the amounts made available to the Department of Defense, none may be used for any training, equipment, or other assistance for a unit of a foreign security force if the Secretary of Defense has credible information that the unit has committed a gross violation of human rights.
+In General.—(1) Of the amounts made available to the Department of Defense, nonemay be used for any training, equipment, or other assistance for a unit of a foreign security force if the Secretary of Defense has credible information that the unit has committed a gross violation of human rights.
 
 (2) The Secretary of Defense shall, in consultation with the Secretary of State, ensure that prior to a decision to provide any training, equipment, or other assistance to a unit of a foreign security force full consideration is given to any credible information available to the Department of State relating to human rights violations by such unit.
 
@@ -98,7 +98,7 @@ Appropriate congressional committees defined.—In this subsection, the term 'ap
 
 #### Human Rights Vetting of Afghan National Defense and Security Forces
 
-Pub. L. 115–91, div. A, title XII, §1216, Dec. 12, 2017, 131 Stat. 1650, provided that: "The Secretary of Defense may establish within the Department of Defense one or more permanent positions to oversee and support, in coordination with the Department of State, the implementation of section 362 of title 10, United States Code, with respect to the Afghan National Defense and Security Forces."
+Pub. L. 115–91, div. A, title XII, §1216, Dec. 12, 2017, 131 Stat. 1650, provided that: "The Secretary of Defense may establish within the Department of Defense one ormore permanent positions to oversee and support, in coordination with the Department of State, the implementation of section 362 of title 10, United States Code, with respect to the Afghan National Defense and Security Forces."
 
 #### Annual Reports
 

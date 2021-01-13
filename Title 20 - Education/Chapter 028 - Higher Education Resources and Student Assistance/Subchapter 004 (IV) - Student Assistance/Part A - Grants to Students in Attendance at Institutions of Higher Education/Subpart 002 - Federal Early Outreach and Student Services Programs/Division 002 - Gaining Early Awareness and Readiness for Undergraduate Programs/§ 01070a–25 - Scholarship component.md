@@ -14,11 +14,11 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), each eligible entity described in section 1070a–21(c)(1) of this title that receives a grant under this division shall use not less than 25 percent and not more than 50 percent of the grant funds for activities described in section 1070a–24 of this title (except for the activity described in subsection (a)(4) of such section), with the remainder of such funds to be used for a scholarship program under this section in accordance with such subsection.
+&emsp;Subject to paragraph (2), each eligible entity described in section 1070a–21(c)(1) of this title that receives a grant under this division shalluse not less than 25 percent and not more than 50 percent of the grant funds for activities described in section 1070a–24 of this title (except for the activity described in subsection (a)(4) of such section), with the remainder of such funds to be used for a scholarship program under this section in accordance with such subsection.
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), the Secretary may allow an eligible entity to usemore than 50 percent of grant funds received under this division for such activities, if the eligible entity demonstrates that the eligible entity has another means of providing the students with the financial assistance described in this section and describes such means in the application submitted under section 1070a–23 of this title.
+&emsp;Notwithstanding paragraph (1), the Secretary may allow an eligible entity to use more than 50 percent of grant funds received under this division for such activities, if the eligible entity demonstrates that the eligible entity has another means of providing the students with the financial assistance described in this section and describes such means in the application submitted under section 1070a–23 of this title.
 
 #### (c) Notification of eligibility
 
@@ -86,7 +86,7 @@ A student eligible for assistance under this section is a student who—
 
 #### Prior Provisions
 
-A prior section 1070a–25, Pub. L. 89–329, title IV, §404E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(20), Dec. 20, 1993, 107 Stat. 2459, related to distribution of funds, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–25, Pub. L. 89–329, title IV, §404E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 495; amended Pub. L. 103–208, §2(b)(20), Dec. 20, 1993, 107 Stat. 2459, related to distribution offunds, prior to the general amendment of this division by Pub. L. 105–244.
 
 #### Amendments
 

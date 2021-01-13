@@ -6,9 +6,11 @@
 
 (Added Pub. L. 101–509, title IV, §1(d)(1), Nov. 5, 1990, 104 Stat. 1417.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

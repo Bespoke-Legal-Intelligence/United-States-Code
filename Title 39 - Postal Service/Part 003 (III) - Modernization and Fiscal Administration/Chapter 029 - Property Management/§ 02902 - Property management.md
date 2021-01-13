@@ -50,6 +50,8 @@ Rule of Construction.—Nothing in subsection (a)(4)(B) shall be construed to re
 
 (Added Pub. L. 114–318, §4(a), Dec. 16, 2016, 130 Stat. 1613.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (a)(4)(B)(ix), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.

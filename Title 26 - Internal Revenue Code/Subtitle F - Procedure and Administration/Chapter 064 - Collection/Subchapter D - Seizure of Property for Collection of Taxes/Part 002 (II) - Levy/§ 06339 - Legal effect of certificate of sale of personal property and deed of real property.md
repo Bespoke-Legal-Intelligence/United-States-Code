@@ -38,7 +38,7 @@ In the case of the sale of real property pursuant to section 6335—
 
 #### (c) Effect of junior encumbrances
 
-A certificate of sale of personal property given or a deed to real property executed pursuant tosection 6338 shall discharge such property from all liens, encumbrances, and titles over which the lien of the United States with respect to which the levy was made had priority.
+A certificate of sale of personal property given or a deed to real property executed pursuant to section 6338 shall discharge such property from all liens, encumbrances, and titles over which the lien of the United States with respect to which the levy was made had priority.
 
 #### (d) Cross references
 
@@ -46,7 +46,7 @@ A certificate of sale of personal property given or a deed to real property exec
 
 &emsp;&emsp;<b>(2) For judicial procedure with respect to surplus proceeds, see section 7426(a)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 788; Pub. L. 85–866, title I, §79, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–719, title I, §104(g), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 788; Pub. L. 85–866, title I, §79, Sept. 2, 1958, 72 Stat. 1662;Pub. L. 89–719, title I, §104(g), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 #### Amendments
 

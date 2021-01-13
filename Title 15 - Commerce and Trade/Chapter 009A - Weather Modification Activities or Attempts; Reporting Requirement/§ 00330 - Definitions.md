@@ -124,7 +124,7 @@ In General.—The Secretary shall prepare and submit to the President and the Co
 
 &emsp;"(5) recommendations for any changes in the organization and involvement of Federal departments and agencies in weather modification which may be needed to implement effectively the recommended national policy on weather modification and the recommended research and development program; and
 
-&emsp;"(6) recommendations for any regulatory and other legislation which may be required to implement suchpolicy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
+&emsp;"(6) recommendations for any regulatory and other legislation which may be required to implement such policy and program or for any international agreement which may be appropriate concerning the peaceful uses of weather modification, including recommendations concerning the dissemination, refinement, and possible implementation of the model domestic code and international agreement developed under the specifications of section 4.
 
 > Each department, agency, and other instrumentality of the Federal Government is authorized and directed to furnish the Secretary any information which the Secretary deems necessary to carry out his functions under this Act.
 

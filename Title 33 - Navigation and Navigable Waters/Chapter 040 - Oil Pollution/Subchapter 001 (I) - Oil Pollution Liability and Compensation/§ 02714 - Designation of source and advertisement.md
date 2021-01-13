@@ -24,9 +24,13 @@ If—
 
 (Pub. L. 101–380, title I, §1014, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(c), Oct. 19, 1996, 110 Stat. 3991.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–324 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

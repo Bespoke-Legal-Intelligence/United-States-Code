@@ -28,11 +28,15 @@ For the purposes of this subchapter:
 
 (Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 112—154, title II, §211(a), Aug. 6, 2012, 126 Stat. 1179; Pub. L. 114–226, §3(d), Sept. 29, 2016, 130 Stat. 932.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pars. (4), (5). Pub. L. 114–226 added pars. (4) and (5).
 
 <b>2012</b>—Par. (3). Pub. L. 112–154 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

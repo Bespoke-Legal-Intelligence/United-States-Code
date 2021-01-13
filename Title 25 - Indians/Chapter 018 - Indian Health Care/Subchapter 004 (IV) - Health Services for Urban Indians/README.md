@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—HEALTH SERVICES FOR URBAN INDIANS
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This subchapter was in the original title V of Pub. L. 94–437. Title IV of Pub. L. 94–437 is classified to subchapter III–A of this chapter.
@@ -27,3 +29,4 @@ This subchapter was in the original title V of Pub. L. 94–437. Title IV of Pub
 - [&sect; 01660f - Community Health Representatives](%C2%A7%2001660f%20-%20Community%20Health%20Representatives.md)
 - [&sect; 01660g - Use of Federal Government facilities and sources of supply](%C2%A7%2001660g%20-%20Use%20of%20Federal%20Government%20facilities%20and%20sources%20of%20supply.md)
 - [&sect; 01660h - Health information technology](%C2%A7%2001660h%20-%20Health%20information%20technology.md)
+- [&sect; 01660i - Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims&#8230;](%C2%A7%2001660i%20-%20Deeming%20an%20Urban%20Indian%20organization%20and%20employees%20thereof%20to%20be%20a%20part%20of%20the%20public%20health%20service%20for%20the%20purposes%20of%20certain%20claims%E2%80%A6.md)

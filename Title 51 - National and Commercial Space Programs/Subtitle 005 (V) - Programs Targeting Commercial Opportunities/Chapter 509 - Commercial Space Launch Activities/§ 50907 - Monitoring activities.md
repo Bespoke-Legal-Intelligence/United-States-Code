@@ -32,6 +32,8 @@ Oct. 30, 1984, Pub. L. 98–575, §14, 98 Stat. 3060.
 
 In subsection (a), the word "duties" is substituted for "responsibilities" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–90 substituted "at a site not owned or operated by the Federal Government or a foreign government used for crew, government astronaut, or space flight participant training" for "at a site used for crew or space flight participant training".

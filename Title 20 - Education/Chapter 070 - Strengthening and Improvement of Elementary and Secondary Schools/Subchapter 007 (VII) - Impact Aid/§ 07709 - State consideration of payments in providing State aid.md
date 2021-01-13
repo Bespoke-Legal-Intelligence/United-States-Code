@@ -76,7 +76,7 @@ Except as provided in subsection (b), a State may not—
 
 #### (1) In general
 
-&emsp;If a State has in effect a program of State aid for free public education for any fiscalyear, which is designed to equalize expenditures for free public education among the local educational agencies of that State, payments under this subchapter for any fiscal year may be taken into consideration by such State in determining the relative—
+&emsp;If a State has in effect a program of State aid for free public education for any fiscal year, which is designed to equalize expenditures for free public education among the local educational agencies of that State, payments under this subchapter for any fiscal year may be taken into consideration by such State in determining the relative—
 
 &emsp;&emsp;(A) financial resources available to local educational agencies in that State; and
 

@@ -10,11 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §333 (Mar. 4, 1909, ch. 321, §210, 35 Sta
 
 Minor change was made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".
 
 <b>1970</b>—Pub. L. 91–375 substituted "an officer or employee of the Postal Service" for "a postmaster or other person employed in any branch of the Postal Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

@@ -24,7 +24,7 @@ The President shall select appropriate remedial actions determined to be necessa
 
 > The President shall select a remedial action that is protective of human health and the environment, that is cost effective, and that utilizes permanent solutions and alternative treatment technologies or resource recovery technologies to the maximum extent practicable. If the President selects a remedial action not appropriate for a preference under this subsection, the President shall publish an explanation as to why a remedial action involving such reductions was not selected.
 
-(2) The President may select an alternative remedial action meeting the objectives of thissubsection whether or not such action has been achieved in practice at any other facility or site that has similar characteristics. In making such a selection, the President may take into account the degree of support for such remedial action by parties interested in such site.
+(2) The President may select an alternative remedial action meeting the objectives of this subsection whether or not such action has been achieved in practice at any other facility or site that has similar characteristics. In making such a selection, the President may take into account the degree of support for such remedial action by parties interested in such site.
 
 #### (c) Review
 
@@ -58,7 +58,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 (ii) Except as provided in clauses (iii) and (iv), a State standard, requirement, criteria, or limitation (including any State siting standard or requirement) which could effectively result in the statewide prohibition of land disposal of hazardous substances, pollutants, or contaminants shall not apply.
 
-(iii) Any State standard, requirement, criteria, or limitation referred to in clause (ii)shall apply where each of the following conditions is met:
+(iii) Any State standard, requirement, criteria, or limitation referred to in clause (ii) shall apply where each of the following conditions is met:
 
 &emsp;(I) The State standard, requirement, criteria, or limitation is of general applicability and was adopted by formal means.
 
@@ -72,7 +72,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
-&emsp;(B) All such releases from other units at the facility are being controlled by a corrective action program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
+&emsp;(B) All such releases from other units at the facility are being controlled by a correctiveaction program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
 
 > The President shall notify the owner or operator of such facility of determinations under this paragraph.
 
@@ -128,7 +128,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
-> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
+> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State mayparticipate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4), the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
@@ -164,7 +164,7 @@ The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch
 
 The Clean Water Act, referred to in subsec. (d)(2)(A)(i), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, whichenacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Effective Date
 

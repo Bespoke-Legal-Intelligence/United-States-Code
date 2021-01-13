@@ -44,9 +44,13 @@ For the purposes of this chapter—
 
 (Pub. L. 99–509, title IV, §4004, Oct. 21, 1986, 100 Stat. 1894.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4024(e) and section 4024(f), referred to in par. (6), are section 4024(e) and (f) of Pub. L. 99–509, and are set out as a note under section 797 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

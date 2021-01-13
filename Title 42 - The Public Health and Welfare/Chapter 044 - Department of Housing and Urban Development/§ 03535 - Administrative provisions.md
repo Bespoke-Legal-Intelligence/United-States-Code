@@ -8,7 +8,7 @@ The personnel employed in connection with, and the assets, liabilities, contract
 
 #### (c) Employment, compensation, authority, and duties of personnel
 
-The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation ofsuch officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
+The Secretary is authorized, subject to the civil service and classification laws, to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, as shall be necessary to carry out the provisions of this chapter and to prescribe their authority and duties: <i>Provided</i>, That any other provision of law to the contrary notwithstanding, the Secretary may fix the compensation for not more than six positions in the Department at the annual rate applicable to positions in level V of the Executive Schedule provided by subchapter II of chapter 53 of title 5.
 
 #### (d) Delegation of authority; rules and regulations
 
@@ -34,7 +34,7 @@ Except as such authority is otherwise expressly provided in any other Act admini
 
 Except as such authority is otherwise expressly provided in any other Act administered by the Secretary, the Secretary is authorized to—
 
-&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights under the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 6101 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
+&emsp;(1) foreclose on any property or commence any action to protect or enforce any right conferred upon him by any law, contract, or other agreement, and bid for and purchase at any foreclosure or any other sale any property in connection with which he has made a loan or grant. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property: <i>Provided</i>, That any such acquisition of real property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rightsunder the State or local laws of the inhabitants on such property: <i>Provided further</i>, That section 6101 of title 41 shall not apply to any contract for services or supplies on account of any property so acquired or owned if the amount of such contract does not exceed $2,500;
 
 &emsp;(2) enter into agreements to pay annual sums in lieu of taxes to any State or local taxing authority with respect to any real property so acquired or owned;
 
@@ -74,7 +74,7 @@ Notwithstanding any other provision of law, the Secretary is authorized by contr
 
 (1) Notwithstanding any other provision of law, the Secretary shall transmit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives an agenda of all rules or regulations which are under development or review by the Department. Such an agenda shall be transmitted to such Committees within 30 days of October 31, 1978, and at least semi-annually thereafter.
 
-(2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may notbe published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
+(2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may not be published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
 
 (B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted to both such Committees at least 15 calendar days prior to its being published for comment.
 
@@ -188,9 +188,9 @@ The Housing and Urban Development Act of 1965, referred to in subsec. (m), is Pu
 
 The Department of Housing and Urban Development Reform Act of 1989, referred to in subsec. (o)(3), is Pub. L. 101–235, Dec. 15, 1989, 103 Stat. 1987. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under section 3531 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which was classified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (r)(2)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title I of the Act is classified generally to subchapter I (§1437 et seq.) of chapter 8 of this title. Title II of the Act, which wasclassified generally to subchapter II (§1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, §501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81,which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -232,7 +232,7 @@ Section was formerly classified to section 624d of former Title 5, Executive Dep
 
 Subsec. (i)(6). Pub. L. 102–550, §902(b)(2), inserted before period ", including any provisions relating to the authority or requirements under paragraph (5)".
 
-Subsec. (r)(6). Pub. L. 102–550, §902(c), amended first sentence generally. Prior to amendment, first sentence read as follows: "There is authorized to be appropriated to carry out this subsection $25,000,000 for fiscal year 1991."
+Subsec. (r)(6). Pub. L. 102–550, §902(c), amended first sentence generally. Prior to amendment, first sentenceread as follows: "There is authorized to be appropriated to carry out this subsection $25,000,000 for fiscal year 1991."
 
 Subsec. (s). Pub. L. 102–550, §929, added subsec. (s).
 
@@ -320,7 +320,7 @@ In General.—Not later than 12 months after the date of the enactment of this A
 
 &emsp;&emsp;"(A) the total number of units in those dwellings;
 
-&emsp;&emsp;"(B) the number and percentage of units in those dwellings that are unoccupied, and their average period of vacancy, and the number and percentage of units in those dwellings that have been unoccupied for more than 1 year, as of that date; and
+&emsp;&emsp;"(B) the number and percentage of units in those dwellings that are unoccupied, and their averageperiod of vacancy, and the number and percentage of units in those dwellings that have been unoccupied for more than 1 year, as of that date; and
 
 &emsp;&emsp;"(C) the number and percentage of units in those projects that are determined by the Inspector General to be substandard, based on any—
 

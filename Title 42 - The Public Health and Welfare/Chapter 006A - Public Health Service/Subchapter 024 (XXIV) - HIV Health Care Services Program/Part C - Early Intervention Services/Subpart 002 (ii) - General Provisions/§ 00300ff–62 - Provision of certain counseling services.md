@@ -52,7 +52,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (d) Counseling of emergency response employees
 
-The Secretary may not make a grant under this part to a State unless the State agrees that, in counseling individuals with respect to HIV/AIDS, the State will ensure that, in the case of emergency response employees, the counselingis provided to such employees under conditions appropriate to the needs of the employees regarding the counseling.
+The Secretary may not make a grant under this part to a State unless the State agrees that, in counseling individuals with respect to HIV/AIDS, the State will ensure that, in the case of emergency response employees, the counseling is provided to such employees under conditions appropriate to the needs of the employees regarding the counseling.
 
 #### (e) Rule of construction regarding counseling without testing
 
@@ -78,5 +78,5 @@ Subsec. (c)(3)(D). Pub. L. 106–345, §321(2), inserted "on" before "the availa
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section asin effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

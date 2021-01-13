@@ -64,5 +64,5 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 "(c)
 
-Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[15 U.S.C. 278k, 278l\], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\]."
+Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[15 U.S.C. 278k, 278l\], or in subsection (b) of thissection shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\]."
 

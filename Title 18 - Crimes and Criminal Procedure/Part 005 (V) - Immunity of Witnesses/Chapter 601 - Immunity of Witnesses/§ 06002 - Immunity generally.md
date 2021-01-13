@@ -12,6 +12,8 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
 (Added Pub. L. 91–452, title II, §201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 103–322, title XXXIII, §330013(4), Sept. 13, 1994, 108 Stat. 2146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "under this title" for "under this part" in concluding provisions.

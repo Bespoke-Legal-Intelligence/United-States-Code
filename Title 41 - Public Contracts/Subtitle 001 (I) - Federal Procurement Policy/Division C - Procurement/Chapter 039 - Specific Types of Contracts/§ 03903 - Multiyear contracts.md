@@ -6,7 +6,7 @@ Definition.—In this section, a multiyear contract is a contract for the purcha
 
 (b)
 
-Authority To Enter Into Contract.—An executive agency may enter into a multiyearcontract for the acquisition of property or services if—
+Authority To Enter Into Contract.—An executive agency may enter into a multiyear contract for the acquisition of property or services if—
 
 &emsp;(1) funds are available and obligated for the contract, for the full period of the contract or for the first fiscal year in which the contract is in effect, and for the estimated costs associated with a necessary termination of the contract; and
 

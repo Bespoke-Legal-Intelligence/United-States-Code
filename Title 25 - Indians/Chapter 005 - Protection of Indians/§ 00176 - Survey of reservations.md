@@ -4,9 +4,13 @@ Whenever it becomes necessary to survey any Indian or other reservations, or any
 
 (R.S. §2115; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2115 derived from act Apr. 8, 1864, ch. 48, §6, 13 Stat. 41.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

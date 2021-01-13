@@ -82,7 +82,7 @@ Except as provided in subsection (f)—
 
 #### (3) Allocations to inter vivos transfers not made on timely filed gift tax return
 
-&emsp;If any allocation of the GST exemption to any property not transferred as a result of the death of the transferor is not made on a gift tax return filed on or before the date prescribed by section 6075(b) and is not deemed to be made under section 2632(b)(1)—
+&emsp;If any allocation of the GST exemption to any property not transferred as a result of the death of the transferor is not made on a gifttax return filed on or before the date prescribed by section 6075(b) and is not deemed to be made under section 2632(b)(1)—
 
 &emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be determined as of the time such allocation is filed with the Secretary, and
 
@@ -192,7 +192,7 @@ Except as provided in subsection (f)—
 
 #### (4) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
 
 #### (f) Special rules for certain inter vivos transfers
 

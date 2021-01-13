@@ -44,7 +44,7 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendmentsmade by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
 
 <b>1984</b>—Pub. L. 98–369 renumbered section 21 of this title as this section.
 

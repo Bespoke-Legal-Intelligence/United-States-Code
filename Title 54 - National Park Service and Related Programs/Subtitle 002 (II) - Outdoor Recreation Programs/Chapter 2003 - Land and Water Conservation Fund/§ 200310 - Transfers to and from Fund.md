@@ -34,11 +34,15 @@ In subsection (a), the words "(relating to special motor fuels and gasoline used
 
 In subsection (b), the words "(relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems)" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–94 substituted "October 1, 2023" for "October 1, 2017" and "October 1, 2022" for "October 1, 2016".
 
 Subsec. (b)(2). Pub. L. 114–94, §31102(e)(2)(B)(i), substituted "October 1, 2023" for "October 1, 2017".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

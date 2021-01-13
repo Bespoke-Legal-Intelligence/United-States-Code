@@ -12,7 +12,7 @@ For purposes of this subchapter, the minimum capital level for each enterprise s
 
 #### (b) Federal Home Loan Banks
 
-For purposes of this subchapter, the minimum capital level for each Federal Home Loan Bankshall be the minimum capital required to be maintained to comply with the leverage requirement for the bank established under section 1426(a)(2) of this title.
+For purposes of this subchapter, the minimum capital level for each Federal Home Loan Bank shall be the minimum capital required to be maintained to comply with the leverage requirement for the bank established under section 1426(a)(2) of this title.
 
 #### (c) Establishment of revised minimum capital levels
 
@@ -47,6 +47,8 @@ The Director may, at any time by order or regulation, establish such capital or 
 The Director shall periodically review the amount of core capital maintained by the enterprises, the amount of capital retained by the Federal Home Loan Banks, and the minimum capital levels established for such regulated entities pursuant to this section.
 
 (Pub. L. 102–550, title XIII, §1362, Oct. 28, 1992, 106 Stat. 3975; Pub. L. 110–289, div. A, title I, §1111, July 30, 2008, 122 Stat. 2676.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -22,6 +22,8 @@ Herbicide Agent.—For purposes of this section, the term "herbicide agent" mean
 
 (Added Pub. L. 108–183, title I, §102(a)(2), Dec. 16, 2003, 117 Stat. 2653.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1821 was renumbered section 1831 of this title.

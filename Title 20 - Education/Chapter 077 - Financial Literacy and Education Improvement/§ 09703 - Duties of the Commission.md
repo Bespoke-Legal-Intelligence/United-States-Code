@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) understand, evaluate, and compare financial products, services, and opportunities;
 
-&emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated byunprofessional conduct of market intermediaries;
+&emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated by unprofessional conduct of market intermediaries;
 
 &emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial literacy and education materials;
 
@@ -134,7 +134,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 #### (1) In general
 
-&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment ("SAFE Strategy"), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
+&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment ("SAFE Strategy"), to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
 
 #### (2) Contents
 

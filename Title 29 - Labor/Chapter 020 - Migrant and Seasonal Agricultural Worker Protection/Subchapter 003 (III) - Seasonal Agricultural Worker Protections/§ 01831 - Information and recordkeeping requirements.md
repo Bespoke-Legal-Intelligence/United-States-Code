@@ -26,7 +26,7 @@
 
 #### (b) Posting requirements imposed upon employers
 
-Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, oragricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
+Each farm labor contractor, agricultural employer, and agricultural association which employs any seasonal agricultural worker shall, at the place of employment, post in a conspicuous place a poster provided by the Secretary setting forth the rights and protections afforded such workers under this chapter, including the right of a seasonal agricultural worker to have, upon request, a written statement provided by the farm labor contractor, agricultural employer, or agricultural association, of the information described in subsection (a). Such employer shall provide, upon request, a written statement of the information described in subsection (a).
 
 #### (c) Recordkeeping and information requirements imposed upon employers
 
@@ -62,9 +62,13 @@ The information required to be disclosed by subsections (a) and (b) of this sect
 
 (Pub. L. 97–470, title III, §301, Jan. 14, 1983, 96 Stat. 2592; Pub. L. 104–49, §4(b), Nov. 15, 1995, 109 Stat. 434.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a)(1). Pub. L. 104–49 added subpar. (H) and concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -12,7 +12,7 @@ The Secretary may provide a Corps participant with an educational credit that ma
 
 #### (1) In general
 
-&emsp;Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, as the case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
+&emsp;Each participant in the Corps and each resource assistant shall agree to participate in the Corps or serve as a resource assistant, asthe case may be, for such term of service as may be established by the Secretary enrolling or selecting the individual.
 
 #### (2) Indian Youth Service Corps
 

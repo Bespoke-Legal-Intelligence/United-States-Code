@@ -1,6 +1,6 @@
 ### §657. Lending, credit and insurance institutions
 
-Whoever, being an officer, agent or employee of or connected in any capacity with the Federal Deposit Insurance Corporation, National Credit Union Administration, any Federal home loan bank, the Federal Housing Finance Agency, Farm Credit Administration, Department ofHousing and Urban Development, Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, or the Farm Credit System Insurance Corporation, a Farm Credit Bank, a bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States or any institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation, or by the National Credit Union Administration Board or any small business investment company, or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994, and whoever, being a receiver of any such institution, or agent or employee of the receiver, embezzles, abstracts, purloins or willfully misapplies any moneys, funds, credits, securities or other things of value belonging to such institution, or pledged or otherwise intrusted to its care, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both; but if the amount or value embezzled, abstracted, purloined or misapplied does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer, agent or employee of or connected in any capacity with the Federal Deposit Insurance Corporation, National Credit Union Administration, any Federal home loan bank, the Federal Housing Finance Agency, Farm Credit Administration, Department of Housing and Urban Development, Federal Crop Insurance Corporation, the Secretary of Agriculture acting through the Farmers Home Administration or successor agency, the Rural Development Administration or successor agency, or the Farm Credit System Insurance Corporation, a Farm Credit Bank, a bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States or any institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation, or by the National Credit Union Administration Board or any small business investment company, or any community development financial institution receiving financial assistance under the Riegle Community Development and Regulatory Improvement Act of 1994, and whoever, being a receiver of any such institution, or agent or employee of the receiver, embezzles, abstracts, purloins or willfully misapplies any moneys, funds, credits, securities or other things of value belonging to such institution, or pledged or otherwise intrusted to its care, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both; but if the amount or value embezzled, abstracted, purloined or misapplied does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 729; May 24, 1949, ch. 139, §11, 63 Stat. 90; July 28, 1956, ch. 773, §1, 70 Stat. 714; Pub. L. 85–699, title VII, §703, Aug. 21, 1958, 72 Stat. 698; Pub. L. 87–353, §3(q), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §4, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 101–73, title IX, §§961(c), 962(a)(7), (8)(A), Aug. 9, 1989, 103 Stat. 499, 502; Pub. L. 101–624, title XXIII, §2303(e), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 101–647, title XVI, §1603, title XXV, §§2504(c), 2595(a)(2), Nov. 29, 1990, 104 Stat. 4843, 4861, 4907; Pub. L. 103–322, title XXXIII, §§330004(6), 330016(1)(H), Sept. 13, 1994, 108 Stat. 2141, 2147; Pub. L. 103–325, title I, §119(c), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–294, title VI, §606(a), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 106–78, title VII, §767, Oct. 22, 1999, 113 Stat. 1174; Pub. L. 110–289, div. A, title II, §1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, §377(2), July 21, 2010, 124 Stat. 1569.)
 
@@ -38,9 +38,11 @@ Certain words were stricken from the section as being unnecessary and inconsiste
 
 \[Section 11\] conforms section 657 of title 18, U.S.C., to administrative practice which in turn was modified to comply with congressional policy "not to use the Farmers Home Corporation to carry out the functions and duties provided for in H.R. 5991 \[Farmers Home Administration Act of 1946\] but to vest the authority in the Secretary of Agriculture to be administered through the Farmers Home Administration as an agency of the Department of Agriculture" (H. Rept. No. 2683, to accompany H.R. 5991, 79th Cong., 2d sess.).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in text, is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. For complete classification of this Act to the Code, see Short Title noteset out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in text, is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -82,6 +84,8 @@ Pub. L. 101–73, §961(c), substituted "$1,000,000" for "$5,000" and "20 years"
 
 <b>1949</b>—Act May 24, 1949, inserted reference to Secretary of Agriculture acting through the Farmers' Home Administration.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
@@ -93,6 +97,8 @@ Functions of corporations of Department of Agriculture; boards of directors and 
 #### National Credit Union Administration
 
 Establishment as independent agency, membership etc., see section 1752 et seq. of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
 
 #### Farm Credit Administration
 

@@ -128,6 +128,7 @@
 | [13341\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20A%20-%20Research%2C%20Development%2C%20Demonstration%2C%20and%20Commercial%20Application/%C2%A7%2013341%20-%20Magnetohydrodynamics.md) | Magnetohydrodynamics. |
 | [13342\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20A%20-%20Research%2C%20Development%2C%20Demonstration%2C%20and%20Commercial%20Application/%C2%A7%2013342%20-%20Oil%20substitution%20through%20coal%20liquefaction.md) | Oil substitution through coal liquefaction. |
 | [13343\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20A%20-%20Research%2C%20Development%2C%20Demonstration%2C%20and%20Commercial%20Application/%C2%A7%2013343%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [13344\.](Subchapter%20006%20%28VI%29%20-%20Coal/Part%20A%20-%20Research%2C%20Development%2C%20Demonstration%2C%20and%20Commercial%20Application/%C2%A7%2013344%20-%20Rare%20earth%20elements.md) | Rare earth elements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

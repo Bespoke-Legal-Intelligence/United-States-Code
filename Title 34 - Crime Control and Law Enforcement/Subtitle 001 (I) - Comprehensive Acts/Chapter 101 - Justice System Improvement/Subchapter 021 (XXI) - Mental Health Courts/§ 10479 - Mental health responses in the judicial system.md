@@ -44,7 +44,7 @@
 
 #### (c) Use of grant funds
 
-A State, unit of local government, territory, Indian Tribe, or nonprofit agency that receivesa grant under this section shall, in accordance with subsection (b)(2), use grant funds for the expenses of a treatment program, including—
+A State, unit of local government, territory, Indian Tribe, or nonprofit agency that receives a grant under this section shall, in accordance with subsection (b)(2), use grant funds for the expenses of a treatment program, including—
 
 &emsp;(1) salaries, personnel costs, equipment costs, and other costs directly related to the operation of the program, including costs relating to enforcement;
 
@@ -134,7 +134,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (A) Limitation
 
-&emsp;&emsp;Not more than $20,000 of the amounts made available to the Department of Justice to carry out this section may be used by the Attorney General, or by any individual or entity awarded a grant under this section to host, or make any expenditures relating to, a conference unless the Deputy Attorney General provides prior written authorization that the funds may be expended to host the conference or make such expenditure.
+&emsp;&emsp;Not more than $20,000 of the amounts made available to the Department of Justice tocarry out this section may be used by the Attorney General, or by any individual or entity awarded a grant under this section to host, or make any expenditures relating to, a conference unless the Deputy Attorney General provides prior written authorization that the funds may be expended to host the conference or make such expenditure.
 
 #### (B) Written approval
 
@@ -173,6 +173,8 @@ Grants awarded under this section shall be subject to the following accountabili
 &emsp;&emsp;(B) the reason the Attorney General awarded the duplicate grants.
 
 (Pub. L. 90–351, title I, §2209, as added Pub. L. 114–255, div. B, title XIV, §14004, Dec. 13, 2016, 130 Stat. 1291.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -12,7 +12,7 @@ For purposes of this chapter, the earnings and profits of a foreign corporation 
 
 #### (b) Exclusion from gross income of certain foreign subsidiaries
 
-For purposes of section 951(a), the earnings and profits of a controlled foreign corporation attributable to amounts which are, or have been, included in the gross income of a UnitedStates shareholder under section 951(a), shall not, when distributed through a chain of ownership described under section 958(a), be also included in the gross income of another controlled foreign corporation in such chain for purposes of the application of section 951(a) to such other controlled foreign corporation with respect to such United States shareholder (or to any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder in the controlled foreign corporation, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).
+For purposes of section 951(a), the earnings and profits of a controlled foreign corporation attributable to amounts which are, or have been, included in the gross income of a United States shareholder under section 951(a), shall not, when distributed through a chain of ownership described under section 958(a), be also included in the gross income of another controlled foreign corporation in such chain for purposes of the application of section 951(a) to such other controlled foreign corporation with respect to such United States shareholder (or to any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder in the controlled foreign corporation, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).
 
 #### (c) Allocation of distributions
 
@@ -24,7 +24,7 @@ For purposes of subsections (a) and (b), section 316(a) shall be applied by appl
 
 &emsp;&emsp;(B) earnings and profits attributable to amounts included in gross income under section 951(a)(1)(C) (or which would have been included except for subsection (a)(3) of this section),
 
-> &emsp;with any distribution being allocated between earnings and profits described in subparagraph (A) and earnings and profits described in subparagraph (B) proportionately on the basis of the respective amounts of such earnings and profits,
+> &emsp;with any distribution being allocated between earnings and profits described in subparagraph\(A) and earnings and profits described in subparagraph (B) proportionately on the basis of the respective amounts of such earnings and profits,
 
 &emsp;(2) then to earnings and profits attributable to amounts included in gross income under section 951(a)(1)(A) (but reduced by amounts not included under subparagraph (B) or (C) of section 951(a)(1) because of the exclusions in paragraphs (2) and (3) of subsection (a) of this section), and
 
@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 103–66, §13231(c)(2)(B), added subsec. (f).
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31,2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
 
 #### Effective Date of 1996 Amendment
 

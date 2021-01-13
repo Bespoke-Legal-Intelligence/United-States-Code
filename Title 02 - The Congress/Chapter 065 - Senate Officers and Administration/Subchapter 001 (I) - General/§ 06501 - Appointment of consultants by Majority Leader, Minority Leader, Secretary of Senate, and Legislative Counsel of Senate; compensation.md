@@ -6,13 +6,15 @@ The Majority Leader and the Minority Leader, are each authorized to appoint and 
 
 #### (b) Annual compensation
 
-Any or all appointments under this section may be at an annual rate of compensation rather than at a daily rate of compensation, butsuch annual rate shall not be in excess of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate.
+Any or all appointments under this section may be at an annual rate of compensation rather than at a daily rate of compensation, but such annual rate shall not be in excess of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate.
 
 #### (C) <sup>1</sup> Title of position
 
 Each appointing authority under subsection (a) may designate the title of the position of any individual appointed under that subsection.
 
 (Pub. L. 95–26, title I, §101, May 4, 1977, 91 Stat. 82; Pub. L. 95–94, title I, §110(a), Aug. 5, 1977, 91 Stat. 662; Pub. L. 100–458, title I, §§4, 9, Oct. 1, 1988, 102 Stat. 2161, 2162; Pub. L. 101–302, title III, §314(a), May 25, 1990, 104 Stat. 245; Pub. L. 102–90, title I, §3, Aug. 14, 1991, 105 Stat. 450; Pub. L. 104–2, Feb. 9, 1995, 109 Stat. 45; Pub. L. 105–275, title I, §4(a), (b), Oct. 21, 1998, 112 Stat. 2433; Pub. L. 107–20, title II, §2803, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title I, §101(a), Nov. 12, 2001, 115 Stat. 563; Pub. L. 108–7, div. H, title I, §6(a), Feb. 20, 2003, 117 Stat. 350; Pub. L. 111–8, div. G, title I, §2(a), Mar. 11, 2009, 123 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -38,13 +40,15 @@ Subsec. (b). Pub. L. 105–275, §4(b), substituted "Any or all appointments und
 
 <b>1995</b>—Pub. L. 104–2, which directed the general amendment of section 61h–6 of title 2, was executed by amending section 101 of Pub. L. 95–26, which is classified to section 61h–6 of title 2, to reflect the probable intent of Congress, in subsec. (a) striking out provisions regarding appointment of two consultants at daily rate of compensation by President pro tempore of Senate and increasing number of appointments by Majority Leader of Senate from two to four consultants at daily rate of compensation, and in subsec. (b) striking out provisions regarding appointment of one consultant at an annual rate of compensation by President pro tempore of Senate.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–90 which directed the insertion of "The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than 2 consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section." immediately after the second sentence of this section and which directed the substitution of ", Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be" for "and the Secretary of the Senate, respectively" in the last sentence of this section, was executed by making the insertion and the substitution for "and Secretary of the Senate, respectively", to reflect the probable intent of Congress.
+<b>1991</b>—Subsec. (a). Pub. L. 102–90 which directed the insertion of "The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) isauthorized to appoint and fix the compensation of not more than 2 consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section." immediately after the second sentence of this section and which directed the substitution of ", Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be" for "and the Secretary of the Senate, respectively" in the last sentence of this section, was executed by making the insertion and the substitution for "and Secretary of the Senate, respectively", to reflect the probable intent of Congress.
 
 <b>1990</b>—Pub. L. 101–302 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1988</b>—Pub. L. 100–458 provided for appointment, compensation, and voucher approval of two consultants by President pro tempore of Senate and increased the number of appointments by Minority Leader of Senate from two to four individuals.
 
 <b>1977</b>—Pub. L. 95–94 inserted two references to Secretary of Senate.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

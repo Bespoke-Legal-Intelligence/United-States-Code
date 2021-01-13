@@ -56,7 +56,7 @@
 
 > The Board, for good cause shown, may extend the 30-day period referred to in subparagraph (A) of this paragraph. One member of the Board may grant a petition or otherwise direct that a decision be reviewed by the full Board. The preceding sentence shall not apply if, by law, a decision of an administrative law judge is required to be acted upon by the Board.
 
-(2) The Director may petition the Board for a review under paragraph (1) of this subsection only if the Director is of the opinion that the decision is erroneous and will have a substantial impact on any civil service law, rule, or regulation under the jurisdiction of the Office.
+(2) The Director may petition the Board for a review under paragraph (1) of this subsectiononly if the Director is of the opinion that the decision is erroneous and will have a substantial impact on any civil service law, rule, or regulation under the jurisdiction of the Office.
 
 (f) The Board, or an administrative law judge or other employee of the Board designated to hear a case, may—
 
@@ -80,7 +80,7 @@
 
 (4) It shall be the duty of the Board, an administrative law judge, or employee designated by the Board to hear any proceeding under this section to expedite to the extent practicable that proceeding.
 
-(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by suchindividual under any such system may be taken into account.
+(j) In determining the appealability under this section of any case involving a removal from the service (other than the removal of a reemployed annuitant), neither an individual's status under any retirement system established by or under Federal statute nor any election made by such individual under any such system may be taken into account.
 
 (k) The Board may prescribe regulations to carry out the purpose of this section.
 
@@ -110,6 +110,8 @@ The application of the section is established by the words "A preference eligibl
 
 Standard changes are made to conform with the definitions applicable and the style of this title outlined in preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–296, which directed the amendment of subpar. (A) by striking "or removal from the Senior Executive Service for failure to be recertified under section 3393a", was executed by striking out "or a removal from the Senior Executive Service for failure to be recertified under section 3393a" after "section 4303" to reflect the probable intent of Congress.
@@ -135,6 +137,8 @@ Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted "(as the case may be
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted "subsection (e)" for "subsection (d)".
 
 <b>1978</b>—Pub. L. 95–454 substituted "Appellate procedures" for "Appeals of preference eligibles" in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -165,6 +169,8 @@ For effect of Pub. L. 101–12 on orders, rules, and regulations issued before e
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (i)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 177 of House Document No. 103–7.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11787
 

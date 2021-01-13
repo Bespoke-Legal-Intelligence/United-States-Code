@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds $600,
 
-&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for thepreceding calendar year with respect to payments to the payee, or
+&emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
 
 &emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
 
-> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but not the reasons for the withholding under subsection (a)(1)(C)).
+> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but notthe reasons for the withholding under subsection (a)(1)(C)).
 
 #### (2) Payee underreporting defined
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
+&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection\(a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
 
 #### (B) Special rule for readily tradable instruments acquired through broker where notification
 
@@ -358,7 +358,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term "payor" means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term "payor" means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
@@ -392,7 +392,7 @@ For purposes of this section—
 
 #### (8) Requirement of notice to payee
 
-&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
+&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) thatthe TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
 
 #### (9) Requirement of notice to Secretary
 

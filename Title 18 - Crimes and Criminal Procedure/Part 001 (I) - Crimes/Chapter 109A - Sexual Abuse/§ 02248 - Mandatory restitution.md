@@ -48,6 +48,8 @@ Definition.—For purposes of this section, the term "victim" means the individu
 
 (Added Pub. L. 103–322, title IV, §40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, §205(b), Apr. 24, 1996, 110 Stat. 1231.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted "or 3663A" after "3663".
@@ -77,6 +79,8 @@ Modification of Order.—A victim or the offender may petition the court at any 
 Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court."
 
 Subsec. (f). Pub. L. 104–132, §205(b)(4), redesignated subsec. (f) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

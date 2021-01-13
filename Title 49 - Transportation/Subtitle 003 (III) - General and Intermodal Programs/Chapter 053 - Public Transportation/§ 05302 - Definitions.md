@@ -284,7 +284,7 @@ Urbanized area.—The term "urbanized area" means an area encompassing a populat
 
 Value capture.—The term "value capture" means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623; Pub. L. 114–94, div. A, title III, §3002, Dec. 4, 2015, 129 Stat. 1446.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov.15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623; Pub. L. 114–94, div. A, title III, §3002, Dec. 4, 2015, 129 Stat. 1446.)
 
 Historical and Revision Notes
 

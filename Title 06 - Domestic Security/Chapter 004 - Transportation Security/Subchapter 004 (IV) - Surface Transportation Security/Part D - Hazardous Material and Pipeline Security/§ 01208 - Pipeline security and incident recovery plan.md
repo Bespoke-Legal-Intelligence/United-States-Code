@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the Secretary of Transportation and the Administrator of the Pipeline and Hazardous Materials Safety Administration, and in accordance with the Annex to the Memorandum of Understanding executed on August 9, 2006, the National Strategy for Transportation Security, and Homeland Security Presidential Directive–7, shall develop a pipeline security and incident recovery protocols plan. The plan shall include—
+The Secretary, in consultation with the Secretary of Transportation and the Administrator of the Pipeline and Hazardous Materials Safety Administration, and in accordance with the Annex to the Memorandum of Understanding executed on August 9, 2006, the National Strategyfor Transportation Security, and Homeland Security Presidential Directive–7, shall develop a pipeline security and incident recovery protocols plan. The plan shall include—
 
 &emsp;(1) for the Government to provide increased security support to the most critical interstate and intrastate natural gas and hazardous liquid transmission pipeline infrastructure and operations as determined under section 1207 of this title when—
 

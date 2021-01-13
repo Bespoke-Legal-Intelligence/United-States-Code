@@ -26,9 +26,13 @@ In subsection (b), the last sentence of former section 3076, which provided for 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–623 inserted reference to the District of Columbia Council, with respect to the government of the District of Columbia.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 
@@ -37,6 +41,8 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 #### Transfer of Functions
 
 District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10982. Administration of Provisions of Chapter
 
@@ -50,7 +56,7 @@ Section 1. As used in this order:
 
 (b) The term "Federal agency" means any executive department of the Government of the United States of America, any agency or independent establishment in the executive branch of the Government, and any corporation wholly owned or controlled by the Government.
 
-(c) The term "foreign area" means any area (including the Trust Territory of the Pacific Islands) situated outside (1) the United States (including the District of Columbia), (2) the Commonwealth of Puerto Rico, (3) the Canal Zone, and (4) any territory or possession of the United States.
+(c) The term "foreign area" means any area (including the Trust Territory of the Pacific Islands) situated outside (1) the United States (including the District of Columbia), (2) the Commonwealth of Puerto Rico, (3)the Canal Zone, and (4) any territory or possession of the United States.
 
 Sec. 2. (a) Except as otherwise provided by section 2(b) and section 3(c) of this order, the Secretary of State in respect of civilian employees of Federal agencies who are located in foreign areas immediately prior to an emergency evacuation, and the Office of Personnel Management in respect of all other civilian employees of Federal agencies, are hereby designated and empowered, without the approval, ratification, or other action of the President, to perform the functions conferred upon the President by section 3(a), section 3(b), and section 6(a) of the act \[sections 5523(a), 5523(b), and 5527(a) of this title\].
 

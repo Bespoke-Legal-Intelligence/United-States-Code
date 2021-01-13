@@ -18,3 +18,4 @@ Part A—Research, Development, Demonstration, and Commercial Application
 - [&sect; 13341 - Magnetohydrodynamics](%C2%A7%2013341%20-%20Magnetohydrodynamics.md)
 - [&sect; 13342 - Oil substitution through coal liquefaction](%C2%A7%2013342%20-%20Oil%20substitution%20through%20coal%20liquefaction.md)
 - [&sect; 13343 - Authorization of appropriations](%C2%A7%2013343%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 13344 - Rare earth elements](%C2%A7%2013344%20-%20Rare%20earth%20elements.md)

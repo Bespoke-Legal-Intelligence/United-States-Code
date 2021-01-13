@@ -1,6 +1,6 @@
 ### §694c. Revolving fund for surety bond guarantees
 
-(a) There is created within the Treasury a separate fund for guarantees which shall be available to the Administrator without fiscal yearlimitation as a revolving fund for the purposes of this part. All amounts received by the Administrator, including any moneys, property, or assets derived by him from his operations in connection with this part, shall be deposited in the fund. All expenses and payments, excluding administrative expenses, pursuant to operations of the Administrator under this part shall be paid from the fund.
+(a) There is created within the Treasury a separate fund for guarantees which shall be available to the Administrator without fiscal year limitation as a revolving fund for the purposes of this part. All amounts received by the Administrator, including any moneys, property, or assets derived by him from his operations in connection with this part, shall be deposited in the fund. All expenses and payments, excluding administrative expenses, pursuant to operations of the Administrator under this part shall be paid from the fund.
 
 (b) Such sums as may be appropriated to the Fund to carry out the programs authorized by this part shall be without fiscal year limitation.
 
@@ -12,7 +12,7 @@
 
 <b>1980</b>—Pub. L. 96–302 repealed investment of idle funds provision, which is covered in section 694–2 of this title.
 
-<b>1977</b>—Pub. L. 95–89 prohibited payment of administrative expenses from the fund and deleted provisions which authorized: a $110,000,000 appropriation of capital for the fund; and payment during the fiscal year into the Treasury as miscellaneous receipts, from the fund, of interest on the cumulative amount of appropriations available as capital to the fund less the average undisbursed cash balance in the fund during the year.
+<b>1977</b>—Pub. L. 95–89 prohibited payment of administrative expenses from the fund and deleted provisions which authorized: a $110,000,000 appropriation of capital for the fund; and payment during the fiscal year into the Treasury as miscellaneous receipts, from the fund, of interest on the cumulative amount of appropriationsavailable as capital to the fund less the average undisbursed cash balance in the fund during the year.
 
 Pub. L. 95–14 substituted "$110,000,000" for "$56,500,000".
 

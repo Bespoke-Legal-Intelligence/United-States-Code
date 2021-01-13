@@ -24,6 +24,8 @@ Oct. 20, 1976, Pub. L. 94–565, §7, 90 Stat. 2665.
 
 The words "to the Secretary of the Interior" are added for clarity. The words "<i>Provided</i>, That, notwithstanding any other provision of this chapter" and "in advance" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–6 substituted "fiscal year 2019" for "fiscal year 2018" in introductory provisions.
@@ -36,7 +38,13 @@ The words "to the Secretary of the Interior" are added for clarity. The words "<
 
 <b>2008</b>—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: "Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Application of Section
 
-Pub. L. 116–94, div. D, title I, §115, Dec. 20, 2019, 133 Stat. 2714, provided that: "Section 6906 of title 31, United States Code, shall be applied by substituting 'fiscal year 2020' for 'fiscal year 2019'."
+Pub. L. 116–260, div. G, title I, §115, Dec. 27, 2020, 134 Stat. 1506, provided that: "Section 6906 of title 31, United States Code, shall be applied by substituting 'fiscal year 2021' for 'fiscal year 2019'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–94, div. D, title I, §115, Dec. 20, 2019, 133 Stat. 2714.
 

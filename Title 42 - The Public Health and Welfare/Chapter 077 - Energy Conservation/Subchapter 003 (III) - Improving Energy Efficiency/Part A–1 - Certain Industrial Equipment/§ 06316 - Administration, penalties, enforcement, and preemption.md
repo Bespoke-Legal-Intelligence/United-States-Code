@@ -1,6 +1,6 @@
 ### §6316. Administration, penalties, enforcement, and preemption
 
-(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (l) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of section 6311(1) of this title) to the same extent and in the same manner as theyapply in part A. In applying such provisions for the purposes of this part—
+(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (l) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (I), (J), and (K) of section 6311(1) of this title) to the same extent and in the same manner as they apply in part A. In applying such provisions for the purposes of this part—
 
 &emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
 
@@ -34,7 +34,7 @@
 
 (C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of California set forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
 
-(D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a State regulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
+(D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a Stateregulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
 
 (c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable standard.
 
@@ -46,7 +46,7 @@
 
 (B) In applying those provisions to commercial refrigerators, freezers, and refrigerator-freezers, paragraphs (1), (2), (3), and (4) of subsection (a) shall apply.
 
-(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A on August 8, 2005, except that any State or local standard issued before August 8, 2005,shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
+(2)(A) Section 6297 of this title shall apply to commercial refrigerators, freezers, and refrigerator-freezers for which standards are established under paragraphs (2) and (3) of section 6313(c) of this title to the same extent and in the same manner as those provisions apply under part A on August 8, 2005, except that any State or local standard issued before August 8, 2005, shall not be preempted until the standards established under paragraphs (2) and (3) of section 6313(c) of this title take effect.
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
@@ -108,7 +108,7 @@ In general.—Except as otherwise provided in this subsection, section 6297 of t
 
 &emsp;&emsp;&emsp;(ii)
 
-State standards.—Any State standard prescribed before December 19, 2007,shall not be preempted until the standards established under paragraphs (1) and (2) of section 6313(f) of this title take effect.
+State standards.—Any State standard prescribed before December 19, 2007, shall not be preempted until the standards established under paragraphs (1) and (2) of section 6313(f) of this title take effect.
 
 &emsp;&emsp;(B)
 

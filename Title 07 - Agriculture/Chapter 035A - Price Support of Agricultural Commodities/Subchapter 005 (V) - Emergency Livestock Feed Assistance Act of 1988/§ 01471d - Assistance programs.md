@@ -54,7 +54,7 @@ A person eligible to receive a payment or benefit under this section with respec
 
 #### (f) Livestock transportation assistance
 
-The Secretary may make available at least $25,000,000 to provide livestock transportationassistance under subsection (a)(6) for livestock emergencies in 1989.
+The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
 
 (Oct. 31, 1949, ch. 792, title VI, §606, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 928; amended Pub. L. 101–82, title II, §§201, 202, Aug. 14, 1989, 103 Stat. 581.)
 
@@ -84,5 +84,5 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Emergency Forage Program
 
-Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implement an emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
+Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implementan emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
 

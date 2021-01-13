@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Purposes
 
-&emsp;The purposes of the Partnership are to empower and build the capacity of States andrural communities to design flexible and innovative responses to their own special rural development needs, with local determinations of progress and selection of projects and activities.
+&emsp;The purposes of the Partnership are to empower and build the capacity of States and rural communities to design flexible and innovative responses to their own special rural development needs, with local determinations of progress and selection of projects and activities.
 
 #### (3) Governing panel
 
@@ -214,7 +214,7 @@ In this section:
 
 The authority provided under this section shall terminate on September 30, 2023.
 
-(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933; Pub. L. 113–79, title VI, §6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, §6420, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933; Pub.L. 113–79, title VI, §6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, §6420, Dec. 20, 2018, 132 Stat. 4765.)
 
 #### Codification
 

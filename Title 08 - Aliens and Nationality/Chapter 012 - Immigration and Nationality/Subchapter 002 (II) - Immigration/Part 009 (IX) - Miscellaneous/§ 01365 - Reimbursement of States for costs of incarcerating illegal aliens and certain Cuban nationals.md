@@ -44,9 +44,13 @@ The term "State" has the meaning given such term in section 1101(a)(36) of this 
 
 (Pub. L. 99–603, title V, §501, Nov. 6, 1986, 100 Stat. 3443.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Immigration Reform and Control Act of 1986, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

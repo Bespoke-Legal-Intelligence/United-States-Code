@@ -42,7 +42,9 @@
 
 (d) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1225(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II, §213(3), (4), title X, §§1001(a)(1), (c), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186; Pub. L. 115–72, div. B, §1005(b)(1)(A), Oct. 26, 2017, 131 Stat. 1233.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3109, 3124; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 103–394, title III, §305(b), Oct. 22, 1994, 108 Stat. 4134; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115; Pub. L. 108–73, §2(a), Aug. 15, 2003, 117 Stat. 891; Pub. L. 108–369, §2(a), Oct. 25, 2004, 118 Stat. 1749; Pub. L. 109–8, title II,§213(3), (4), title X, §§1001(a)(1), (c), 1003(a), Apr. 20, 2005, 119 Stat. 52, 185, 186; Pub. L. 115–72, div. B, §1005(b)(1)(A), Oct. 26, 2017, 131 Stat. 1233.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -61,6 +63,8 @@ Subsec. (a)(4). Pub. L. 109–8, §213(3), added par. (4).
 Subsec. (b)(11), (12). Pub. L. 109–8, §213(4), added par. (11) and redesignated former par. (11) as (12).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–394 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

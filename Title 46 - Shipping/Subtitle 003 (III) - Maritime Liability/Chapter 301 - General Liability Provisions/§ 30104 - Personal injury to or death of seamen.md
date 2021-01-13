@@ -28,9 +28,13 @@ In subsection (a), the words "A seaman injured in the course of employment or, i
 
 In subsection (b), the words "An action under this section shall be brought" are substituted for "Jurisdiction in such actions shall be under" because 46 App. U.S.C. 688(a) (last sentence) provides for venue, not jurisdiction. <i>Panama R.R. Co. v. Johnson</i>, 264 U.S. 375 (1924). As to the relationship between 46 App. U.S.C. 688(a) (last sentence) and 28 U.S.C. 1391(c), see <i>Pure Oil Co. v. Suarez</i>, 384 U.S. 202 (1966).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181 struck out subsec. (a) designation and heading before "A seaman injured" and struck out heading and text of subsec. (b). Text read as follows: "An action under this section shall be brought in the judicial district in which the employer resides or the employer's principal office is located."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

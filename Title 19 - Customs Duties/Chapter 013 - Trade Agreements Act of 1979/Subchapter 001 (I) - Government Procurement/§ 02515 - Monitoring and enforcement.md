@@ -30,7 +30,7 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 <b>1996</b>—Subsec. (d)(2)(B), (C). Pub. L. 104–295, §20(c)(10), struck out "or" at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
 
-Subsec. (g)(1). Pub. L. 104–295, §20(c)(13)(A), in introductory provisions, substituted "of subsection (d)(2) ofthis section" for "of such subsection" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
+Subsec. (g)(1). Pub. L. 104–295, §20(c)(13)(A), in introductory provisions, substituted "of subsection (d)(2) of this section" for "of such subsection" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
 
 Subsec. (g)(3). Pub. L. 104–295, §20(c)(13)(B), substituted "eliminated the practices" for "eliminated the the practices" and inserted "of subsection (d)(2) of this section" after "(as the case may be)".
 
@@ -120,7 +120,7 @@ Identifications required.—In the annual report, the President shall identify (
 
 &emsp;&emsp;"(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
 
-&emsp;&emsp;"(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government.
+&emsp;&emsp;"(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services areacquired in significant amounts by the United States Government.
 
 &emsp;"(3)
 
@@ -230,7 +230,7 @@ Imposition of sanctions.—If, within 60 days after the annual report is submitt
 
 &emsp;"(2)
 
-Withholding and modification of sanctions.—If the President determines that imposing or continuing the sanction required by paragraph (1) would harm the public interest of the United States, the President may, to the extent necessary to impose appropriate limitations that are equivalent, in their effect, to the discrimination against United Statesproducts or services in government procurement by that country, modify or restrict the application of such sanction, subject to such terms and conditions as the President considers appropriate.
+Withholding and modification of sanctions.—If the President determines that imposing or continuing the sanction required by paragraph (1) would harm the public interest of the United States, the President may, to the extent necessary to impose appropriate limitations that are equivalent, in their effect, to the discrimination against United States products or services in government procurement by that country, modify or restrict the application of such sanction, subject to such terms and conditions as the President considers appropriate.
 
 &emsp;"(3)
 
@@ -304,11 +304,11 @@ Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
-
 Pub. L. 96–609, title II, §205, Dec. 28, 1980, 94 Stat. 3562, provided that: "Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, 93 Stat. 1381) \[set out as a note under section 2171 of this title\], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(b)(1))."
 
-#### Delegation of Functions
+#### Delegation and Transfer of Functions
 
 Functions of President under subsec. (c) delegated to United States Trade Representative, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+
+Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 

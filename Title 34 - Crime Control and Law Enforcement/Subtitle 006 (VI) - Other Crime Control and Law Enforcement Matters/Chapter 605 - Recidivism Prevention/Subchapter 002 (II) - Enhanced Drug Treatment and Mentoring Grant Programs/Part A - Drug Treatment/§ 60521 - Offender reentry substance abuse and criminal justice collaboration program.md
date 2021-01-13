@@ -74,6 +74,8 @@ The term "Single State Authority for Substance Abuse" means an entity designated
 
 (Pub. L. 110–199, title II, §201, Apr. 9, 2008, 122 Stat. 678; Pub. L. 115–391, title V, §502(e), Dec. 21, 2018, 132 Stat. 5230.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 17521 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

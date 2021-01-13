@@ -160,7 +160,7 @@ As used in this section:
 
 #### (7) Older child adoption and older foster child guardianship rate
 
-&emsp;The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "older child adoption and older foster child guardianship rate" means, withrespect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
 
@@ -204,7 +204,7 @@ As used in this section:
 
 &emsp;&emsp;(A) that the State agency has determined that—
 
-&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicialdetermination to the effect that continuation in the home would be contrary to the welfare of the child;
+&emsp;&emsp;&emsp;(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child;
 
 &emsp;&emsp;&emsp;(ii) being returned home or adopted are not appropriate permanency options for the child;
 
@@ -382,7 +382,7 @@ Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and 
 
 "(B) with respect to any subsequent fiscal year, the number of foster child adoptions in the State in the fiscal year for which the number is the greatest in the period that begins with fiscal year 1997 and ends with the fiscal year preceding such subsequent fiscal year."
 
-Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older child adoptions" after "adoptions"in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (g)(4). Pub. L. 108–145, §3(a)(4)(B), inserted "that are not older child adoptions" after "adoptions" in heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
 "(A) with respect to fiscal year 1998, the average number of special needs adoptions in the State in fiscal years 1995, 1996, and 1997; and
 

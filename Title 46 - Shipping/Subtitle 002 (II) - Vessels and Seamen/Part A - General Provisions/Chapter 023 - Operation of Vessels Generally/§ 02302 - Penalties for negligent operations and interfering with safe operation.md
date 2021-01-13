@@ -1,6 +1,6 @@
 ### §2302. Penalties for negligent operations and interfering with safe operation
 
-(a) A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
+(a) A person operating a vessel in a negligent manner or interfering with the safe operation ofa vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
 
 (b) A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
 
@@ -58,6 +58,8 @@ Historical and Revision Notes
 
 Section 2302 states that the negligent operation of a vessel is prohibited. These acts are subject to civil and criminal penalties and the involved vessel is subject to an in rem action. The negligent operation provisions have their genesis in the Act of April 25, 1940, 54 Stat. 167, when Congress prescribed that no person shall operate any motorboat or <i>any vessel</i> in a reckless or negligent manner. This provision was directed at all vessels and not those solely engaged in recreational boating. When the Federal Boat Safety Act of 1971, P.L. 92–75, 85 Stat. 217 (46 U.S.C. 1461) was enacted it adopted the reckless or negligent operation provisions of the 1940 Act. It adopted for the first time a provision for assessing civil penalties in addition to criminal penalties. It dropped the word "reckless" because of redundancy. It also combined the two classes of vessels; "any motorboat or any vessel" into one class by using the word "vessel" and defined vessel as including every description of watercraft.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–295 substituted "$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel" for "$1,000"
@@ -82,11 +84,13 @@ Subsec. (c)(2). Pub. L. 101–380, §4302(a)(2)(C), amended par. (2) generally. 
 
 <b>1984</b>—Subsecs. (c), (d). Pub. L. 98–557 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–383, title IV, §408(b), Nov. 13, 1998, 112 Stat. 3431, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect January 1, 1999."
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
 

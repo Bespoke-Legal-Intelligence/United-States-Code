@@ -14,9 +14,11 @@
 
 (Pub. L. 91–173, title IV, §415, as added Pub. L. 92–303, §7, May 19, 1972, 86 Stat. 156; amended Pub. L. 97–119, title I, §104(b)(2), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(3), Nov. 2, 2002, 116 Stat. 1925.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(2) to (5). Pub. L. 107–275, §2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted "paragraph (2)" for "paragraph 4" in par. (4), and struck out former par. (2) which read as follows: "The manner and place of filing such claim shallbe in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration."
+<b>2002</b>—Subsec. (a)(2) to (5). Pub. L. 107–275, §2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted "paragraph (2)" for "paragraph 4" in par. (4), and struck out former par. (2) which read as follows: "The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration."
 
 Subsec. (b). Pub. L. 107–275, §2(b)(3)(B), struck out ", after consultation with the Commissioner of Social Security," after "Secretary of Labor".
 
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 107–275, §2(b)(3)(B), struck out ", after consultation 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–119 substituted "section 9501(d) of title 26" for "section 934 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

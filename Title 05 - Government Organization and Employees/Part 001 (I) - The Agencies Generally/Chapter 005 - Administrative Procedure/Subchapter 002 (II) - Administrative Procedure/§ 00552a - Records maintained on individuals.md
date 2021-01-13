@@ -34,7 +34,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) matches performed to produce aggregate statistical data without any personal identifiers;
 
-&emsp;&emsp;&emsp;(ii) matches performed to support any research or statistical project, the specificdata of which may not be used to make decisions concerning the rights, benefits, or privileges of specific individuals;
+&emsp;&emsp;&emsp;(ii) matches performed to support any research or statistical project, the specific data of which may not be used to make decisions concerning the rights, benefits, or privileges of specific individuals;
 
 &emsp;&emsp;&emsp;(iii) matches performed, by an agency (or component thereof) which performs as its principal function any activity pertaining to the enforcement of criminal laws, subsequent to the initiation of a specific criminal or civil law enforcement investigation of a named person or persons for the purpose of gathering evidence against such person or persons;
 
@@ -252,7 +252,7 @@ General Exemptions.—The head of any agency may promulgate rules, in accordance
 
 &emsp;(1) maintained by the Central Intelligence Agency; or
 
-&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process ofenforcement of the criminal laws from arrest or indictment through release from supervision.
+&emsp;(2) maintained by an agency or component thereof which performs as its principal function any activity pertaining to the enforcement of criminal laws, including police efforts to prevent, control, or reduce crime or to apprehend criminals, and the activities of prosecutors, courts, correctional, probation, pardon, or parole authorities, and which consists of (A) information compiled for the purpose of identifying individual criminal offenders and alleged offenders and consisting only of identifying data and notations of arrests, the nature and disposition of criminal charges, sentencing, confinement, release, and parole and probation status; (B) information compiled for the purpose of a criminal investigation, including reports of informants and investigators, and associated with an identifiable individual; or (C) reports identifiable to an individual compiled at any stage of the process of enforcement of the criminal laws from arrest or indictment through release from supervision.
 
 > At the time rules are adopted under this subsection, the agency shall include in the statement required under section 553(c) of this title, the reasons why the system of records is to be exempted from a provision of this section.
 
@@ -268,7 +268,7 @@ Specific Exemptions.—The head of any agency may promulgate rules, in accordanc
 
 &emsp;(4) required by statute to be maintained and used solely as statistical records;
 
-&emsp;(5) investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilian employment, military service, Federal contracts, or access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
+&emsp;(5) investigatory material compiled solely for the purpose of determining suitability, eligibility, or qualifications for Federal civilianemployment, military service, Federal contracts, or access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to the effective date of this section, under an implied promise that the identity of the source would be held in confidence;
 
 &emsp;(6) testing or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process; or
 
@@ -296,7 +296,7 @@ Mailing Lists.—An individual's name and address may not be sold or rented by a
 
 (o)
 
-Matching Agreements.—(1) No record which is contained in a system of records may be disclosed to a recipient agency or non-Federal agency for use in a computer matching program except pursuant to a written agreementbetween the source agency and the recipient agency or non-Federal agency specifying—
+Matching Agreements.—(1) No record which is contained in a system of records may be disclosed to a recipient agency or non-Federal agency for use in a computer matching program except pursuant to a written agreement between the source agency and the recipient agency or non-Federal agency specifying—
 
 &emsp;(A) the purpose and legal authority for conducting the program;
 
@@ -318,7 +318,7 @@ Matching Agreements.—(1) No record which is contained in a system of records m
 
 &emsp;(G) procedures for ensuring the administrative, technical, and physical security of the records matched and the results of such programs;
 
-&emsp;(H) prohibitions on duplication and redisclosure of records provided by the source agency within or outside the recipient agency or the non-Federal agency, except where required by law or essential to the conduct of the matching program;
+&emsp;(H) prohibitions on duplication and redisclosure of records provided by the source agency within or outside the recipient agency or the non-Federal agency, except where requiredby law or essential to the conduct of the matching program;
 
 &emsp;(I) procedures governing the use by a recipient agency or non-Federal agency of records provided in a matching program by a source agency, including procedures governing return of the records to the source agency or destruction of records used in such program;
 
@@ -438,7 +438,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 &emsp;(H) may review and report on any agency matching activities that are not matching programs.
 
-(4)(A) Except as provided in subparagraphs (B) and (C), a Data Integrity Board shall not approve any written agreement for a matching program unless the agency has completed andsubmitted to such Board a cost-benefit analysis of the proposed program and such analysis demonstrates that the program is likely to be cost effective.<sup>2</sup>
+(4)(A) Except as provided in subparagraphs (B) and (C), a Data Integrity Board shall not approve any written agreement for a matching program unless the agency has completed and submitted to such Board a cost-benefit analysis of the proposed program and such analysis demonstrates that the program is likely to be cost effective.<sup>2</sup>
 
 (B) The Board may waive the requirements of subparagraph (A) of this paragraph if it determines in writing, in accordance with guidelines prescribed by the Director of the Office of Management and Budget, that a cost-benefit analysis is not required.
 
@@ -454,7 +454,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 &emsp;(iii) the matching program is in the public interest.
 
-(C) The decision of the Director to approve a matching agreement shall not take effect until 30 days after it is reported to committees described in subparagraph (A).
+(C) The decision of the Director to approve a matching agreement shall not take effect until30 days after it is reported to committees described in subparagraph (A).
 
 (D) If the Data Integrity Board and the Director of the Office of Management and Budget disapprove a matching program proposed by the inspector general of an agency, the inspector general may report the disapproval to the head of the agency and to the Congress.
 
@@ -473,6 +473,8 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 Applicability to Bureau of Consumer Financial Protection.—Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.
 
 (Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, §102(d), Dec. 19, 2014, 128 Stat. 4062.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -564,6 +566,8 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 <b>1975</b>—Subsec. (g)(5). Pub. L. 94–183 substituted "to September 27, 1975" for "to the effective date of this section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -578,7 +582,7 @@ Pub. L. 113–295, div. B, title I, §102(f)(1), Dec. 19, 2014, 128 Stat. 4062, 
 
 Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080, provided that the amendment made by section 1082 is effective on July 21, 2010.
 
-Pub. L. 111–203, title X, §1100H, July 21, 2010, 124 Stat. 2113, provided that: "Except as otherwise provided in this subtitle \[subtitle H (§§1081–1100H) of title X of Pub. L. 111–203, see Tables for classification\] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 \[amending section 8G of Pub. L. 95–452, set out inthe Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452\] and 1082 \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the designated transfer date."
+Pub. L. 111–203, title X, §1100H, July 21, 2010, 124 Stat. 2113, provided that: "Except as otherwise provided in this subtitle \[subtitle H (§§1081–1100H) of title X of Pub. L. 111–203, see Tables for classification\] and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 \[amending section 8G of Pub. L. 95–452, set out in the Appendix to this title, and enacting provisions set out as a note under section 8G of Pub. L. 95–452\] and 1082 \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the designated transfer date."
 
 \[The term "designated transfer date" is defined in section 5481(9) of Title 12, Banks and Banking, as the date established under section 5582 of Title 12, which is July 21, 2011.\]
 
@@ -700,7 +704,7 @@ Pub. L. 114–126, Feb. 24, 2016, 130 Stat. 282, provided that:
 
 "(a)
 
-Civil Action; Civil Remedies.—With respect to covered records, a covered person may bring a civil action against an agency and obtain civil remedies, in the same manner, to the same extent, and subject to the same limitations, including exemptions and exceptions, as an individual may bring and obtain with respect to records under—
+Civil Action; Civil Remedies.—With respect to covered records, a covered person may bring a civil action against an agency and obtain civil remedies, in the same manner, to the same extent, and subject to the same limitations, including exemptions and exceptions,as an individual may bring and obtain with respect to records under—
 
 &emsp;"(1) section 552a(g)(1)(D) of title 5, United States Code, but only with respect to disclosures intentionally or willfully made in violation of section 552a(b) of such title; and
 
@@ -870,7 +874,7 @@ Pub. L. 93–579, §2, Dec. 31, 1974, 88 Stat. 1896, provided that:
 
 &emsp;"(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
 
-&emsp;"(5) permit exemptions from the requirements with respect to records provided in this Act only in thosecases where there is an important public policy need for such exemption as has been determined by specific statutory authority; and
+&emsp;"(5) permit exemptions from the requirements with respect to records provided in this Act only in those cases where there is an important public policy need for such exemption as has been determined by specific statutory authority; and
 
 &emsp;"(6) be subject to civil suit for any damages which occur as a result of willful or intentional action which violates any individual's rights under this Act."
 
@@ -899,6 +903,8 @@ Pub. L. 93–579, §7, Dec. 31, 1974, 88 Stat. 1909, provided that:
 #### Authorization of Appropriations to Privacy Protection Study Commission
 
 Pub. L. 93–579, §9, Dec. 31, 1974, 88 Stat. 1910, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 9397. Numbering System for Federal Accounts Relating to Individual Persons
 

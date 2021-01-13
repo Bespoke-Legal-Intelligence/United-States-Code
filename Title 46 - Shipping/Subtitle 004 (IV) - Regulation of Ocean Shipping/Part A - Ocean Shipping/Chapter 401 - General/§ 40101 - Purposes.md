@@ -2,7 +2,7 @@
 
 The purposes of this part are to—
 
-&emsp;(1) establish a nondiscriminatory regulatory process for the common carriage of goods bywater in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
+&emsp;(1) establish a nondiscriminatory regulatory process for the common carriage of goods by water in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
 
 &emsp;(2) provide an efficient and economic transportation system in the ocean commerce of the United States that is, insofar as possible, in harmony with, and responsive to, international shipping practices;
 
@@ -27,6 +27,8 @@ Historical and Revision Notes
 46 App.:1701.
 
 Pub. L. 98–237, §2, Mar. 20, 1984, 98 Stat. 67; Pub. L. 105–258, title I, §101, Oct. 14, 1998, 112 Stat. 1902.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effects on Certain Agreements and Contracts
 

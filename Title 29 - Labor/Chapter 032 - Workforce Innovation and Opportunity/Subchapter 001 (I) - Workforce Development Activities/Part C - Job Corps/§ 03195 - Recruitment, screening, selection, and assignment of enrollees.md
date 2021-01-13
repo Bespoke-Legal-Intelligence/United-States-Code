@@ -60,7 +60,7 @@
 
 #### (3) Individuals convicted of certain crimes
 
-&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of a felony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
+&emsp;An individual shall not be selected as an enrollee if the individual has been convicted of afelony consisting of murder (as described in section 1111 of title 18), child abuse, or a crime involving rape or sexual assault.
 
 #### (c) Assignment plan
 
@@ -99,6 +99,8 @@
 &emsp;An enrollee who is younger than 18 shall not be assigned to a Job Corps center other than the center closest to the home that offers the career and technical education and training desired by the enrollee pursuant to paragraph (1) if the parent or guardian of the enrollee objects to the assignment.
 
 (Pub. L. 113–128, title I, §145, July 22, 2014, 128 Stat. 1539.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

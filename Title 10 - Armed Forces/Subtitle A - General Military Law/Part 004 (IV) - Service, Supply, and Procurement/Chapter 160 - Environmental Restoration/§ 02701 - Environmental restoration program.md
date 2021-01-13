@@ -28,7 +28,7 @@ Program Goals.—Goals of the program shall include the following:
 
 &emsp;(2) Correction of other environmental damage (such as detection and disposal of unexploded ordnance) which creates an imminent and substantial endangerment to the public health or welfare or to the environment.
 
-&emsp;(3) Demolition and removal of unsafe buildings and structures, including buildings and structures of the Department of Defense at sites formerly used by or under the jurisdiction of the Secretary.
+&emsp;(3) Demolition and removal of unsafe buildings and structures, including buildings andstructures of the Department of Defense at sites formerly used by or under the jurisdiction of the Secretary.
 
 (c)
 
@@ -104,7 +104,7 @@ Surety Bonds.—
 
 &emsp;(1)
 
-Applicability of sections 3131 and 3133 of title 40.—If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
+Applicability of sections 3131 and 3133 of title 40.—If under sections 3131 and 3133 oftitle 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
 
 &emsp;(2)
 
@@ -260,6 +260,60 @@ For effective date and applicability of amendment by section 4321(b)(22) of Pub.
 
 Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under section 2700 of this title.
 
+#### Notification to Agricultural Operations Located in Areas Exposed to Department of Defense PFAS Use
+
+Pub. L. 116–283, div. A, title III, §335, Jan. 1, 2021, 134 Stat. 3532, provided that:
+
+"(a)
+
+Notification Required.—Not later than 60 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense, in consultation with the Secretary of Agriculture, shall provide a notification described in subsection (b) to any agricultural operation located within one mile down gradient of a military installation or National Guard facility where covered PFAS—
+
+&emsp;"(1) has been detected in groundwater;
+
+&emsp;"(2) has been hydrologically linked to a local agricultural or drinking water source, including a water well; and
+
+&emsp;"(3) is suspected to be, or known to be, the result of the use of PFAS at an installation of the Department of Defense located in the United States or State-owned facility of the National Guard.
+
+"(b)
+
+Notification Requirements.—The notification required under subsection (a) shall include the following information:
+
+&emsp;"(1) The name of the Department of Defense installation or National Guard facility from which the covered PFAS in groundwater originated.
+
+&emsp;"(2) The specific covered PFAS detected in groundwater.
+
+&emsp;"(3) The levels of the covered PFAS detected.
+
+&emsp;"(4) Relevant governmental information regarding the health and safety of the covered PFAS detected, including relevant Federal or State standards for PFAS in groundwater, livestock, food commodities and drinking water, and any known restrictions for sale of agricultural products that have been irrigated or watered with water containing PFAS.
+
+"(c)
+
+Additional Testing Results.—The Secretary of Defense shall provide to an agricultural operation that receives a notice under subsection (a) any pertinent updated information, including any results of new elevated testing, by not later than 15 days after receiving validated test results.
+
+"(d)
+
+Report to Congress.—Not later than 90 days after the date of the enactment of this Act, and annually thereafter, the Secretary of Defense shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report on the status of providing notice under subsection (a). Such report shall include, for the period covered by the report—
+
+&emsp;"(1) the approximate locations of such operations relative to installations of the Department of Defense located in the United States and State-owned facilities of the National Guard;
+
+&emsp;"(2) the covered PFAS detected in groundwater; and
+
+&emsp;"(3) the levels of covered PFAS detected.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered PFAS' means each of the following:
+
+&emsp;&emsp;"(A) Perfluorooctanoic acid (commonly referred to as 'PFOA') (Chemical Abstracts Service No. 335–67–1) detected in groundwater above 70 parts per trillion, individually or in combination with PFOS.
+
+&emsp;&emsp;"(B) Perfluorooctane sulfonic acid (commonly referred to as 'PFOS') (Chemical Abstracts Service No. 1763–23–1) detected in groundwater above 70 parts per trillion, individually or in combination with PFOA.
+
+&emsp;&emsp;"(C) Perfluorobutanesulfonic acid (commonly referred to as 'PFBS') (Chemical Abstracts Service No. 375–73–5) detected in groundwater above 40 parts per billion.
+
+&emsp;"(2) The term 'PFAS' means a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom, including the chemical GenX."
+
 #### Contamination by Perfluoroalkyl or Polyfluoroalkyl Substances
 
 Pub. L. 116–92, div. A, title III, §§329–332, Dec. 20, 2019, 133 Stat. 1312, 1313, provided that:
@@ -310,7 +364,7 @@ Scope of Application.—The requirements in subsection (a) only apply to all leg
 
 "(a)
 
-In General.—The Secretary of Defense shall seek to enter into agreements with municipalities ormunicipal drinking water utilities located adjacent to military installations under which both the Secretary and the municipalities and utilities would share monitoring data relating to perfluoroalkyl substances, polyfluoroalkyl substances, and other emerging contaminants of concern collected at the military installation.
+In General.—The Secretary of Defense shall seek to enter into agreements with municipalities or municipal drinking water utilities located adjacent to military installations under which both the Secretary and the municipalities and utilities would share monitoring data relating to perfluoroalkyl substances, polyfluoroalkyl substances, and other emerging contaminants of concern collected at the military installation.
 
 "(b)
 
@@ -418,7 +472,7 @@ Authority.—
 
 &emsp;"(1)
 
-In general.—Using amounts authorized to be appropriated or otherwise made available for operation and maintenance for the military department concerned, or for operation and maintenance Defense-wide in the case of the Secretary of Defense, the Secretary concerned may provide water sources uncontaminated with perfluoroalkyl and polyfluoroalkyl substances, including PFOA and PFOS, or treatment of contaminated waters, for agricultural purposes used to produce products destined for human consumption in an area in which a water source has been determined pursuant to paragraph (2) to be contaminated with such compounds by reason of activities on a military installation under the jurisdiction of the Secretary concerned.
+In general.—Using amounts authorized to be appropriated or otherwise made available for operation and maintenance for the military department concerned, or for operation and maintenance Defense-wide in the case of the Secretary of Defense, the Secretary concerned may provide water sources uncontaminated with perfluoroalkyl and polyfluoroalkyl substances, including PFOA and PFOS, or treatment of contaminated waters, for agricultural purposes used to produce products destinedfor human consumption in an area in which a water source has been determined pursuant to paragraph (2) to be contaminated with such compounds by reason of activities on a military installation under the jurisdiction of the Secretary concerned.
 
 &emsp;"(2)
 
@@ -552,7 +606,7 @@ Elements.—The review and assessment under paragraph (1) shall include the foll
 
 &emsp;&emsp;"(D) Budget displays for each military department that support research, development, test, and evaluation; procurement; and operation and maintenance, relating to explosive ordnance disposal.
 
-&emsp;&emsp;"(E) An assessment of the adequacy of the organizational structures and responsibilities and the alignment of funding within the military departments in supporting the needs of the combatantcommands and the military departments with respect to explosive ordnance disposal.
+&emsp;&emsp;"(E) An assessment of the adequacy of the organizational structures and responsibilities and the alignment of funding within the military departments in supporting the needs of the combatant commands and the military departments with respect to explosive ordnance disposal.
 
 "(d)
 
@@ -858,7 +912,7 @@ Establishment.—The Secretary of Defense shall establish and conduct an educati
 
 "(b)
 
-Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to developsuch expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
+Identification of Military Facilities With Environmental Training Expertise.—As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to develop such expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility."
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
@@ -934,7 +988,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 "(f)
 
-Selection of Grant Recipients.—To the extent practicable, the Secretary shall provide grants to institutions of higher education under subsection (a) in a manner which will equitably distribute such grants among the various regions of the United States.
+Selection of Grant Recipients.—To the extent practicable, the Secretary shall provide grants to institutions of higher education under subsection (a) in amanner which will equitably distribute such grants among the various regions of the United States.
 
 "(g)
 
@@ -942,7 +996,7 @@ Limitation on Amount of Grant to a Single Recipient.—The amount of a grant und
 
 "(h)
 
-Reporting Requirements.—(1) The Secretary may provide a grant to an institution of higher education under subsection (a) only if the institution agrees to submit to the Secretary, in each fiscal yearin which the Secretary makes payments under the grant to the institution, a report containing—
+Reporting Requirements.—(1) The Secretary may provide a grant to an institution of higher education under subsection (a) only if the institution agrees to submit to the Secretary, in each fiscal year in which the Secretary makes payments under the grant to the institution, a report containing—
 
 &emsp;"(A) a description and evaluation of the education and training program established by the consortium formed by the institution under subsection (c); and
 
@@ -1068,7 +1122,7 @@ Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships
 
 &emsp;"(i) take into consideration the extent to which the qualifications and experience of the individual applying for the scholarship prepared such individual for the educational training or activities to be undertaken; and
 
-&emsp;"(ii) award a scholarship only to an eligible individual who has been accepted for enrollment in the institution of higher education described in subsection (c) and providing the educational training or activities for which the scholarship assistance is sought.
+&emsp;"(ii) award a scholarship only to an eligible individual who has been accepted for enrollment in theinstitution of higher education described in subsection (c) and providing the educational training or activities for which the scholarship assistance is sought.
 
 "(2) The Secretary of Defense shall determine the amount of the scholarships awarded under this section, except that the amount of scholarship assistance awarded to any individual under this section may not exceed—
 
@@ -1078,7 +1132,7 @@ Award of Scholarship.—(1)(A) The Secretary of Defense shall award scholarships
 
 "(f)
 
-Application; Period for Submission.—(1) Each individual desiring a scholarship under this sectionshall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
+Application; Period for Submission.—(1) Each individual desiring a scholarship under this section shall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
 "(2) A member of the Armed Forces described in subsection (d)(1) who desires to apply for a scholarship under this section shall submit an application under this subsection not later than 180 days after the date of the separation of the member. In the case of members described in subsection (d)(1) who were separated before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these members submitted during the 180-day period beginning on the date of the enactment of this Act.
 
@@ -1156,7 +1210,7 @@ Effect on Other Environmental Requirements.—Nothing in this section shall be c
 
 #### Cooperative Agreements and Grants To Implement Legacy Resource Management Program
 
-Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisionsof the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
+Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: "That notwithstanding the provisions of the Federal Cooperative Grant and Agreement Act of 1977 (31 U.S.C. 6303–6308), the Department of Defense may hereafter negotiate and enter into cooperative agreements and grants with public and private agencies, organizations, institutions, individuals or other entities to implement the purposes of the Legacy Resource Management Program".
 
 #### Pilot Program for Expedited Environmental Response Actions
 
@@ -1250,7 +1304,7 @@ Eligibility.—To be eligible to participate in the scholarship or fellowship pr
 
 "(c)
 
-Agreement.—An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be inwriting, shall be signed by the individual, and shall include the following provisions:
+Agreement.—An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be in writing, shall be signed by the individual, and shall include the following provisions:
 
 &emsp;"(1) The agreement of the Secretary to provide the individual with educational assistance for a specified number of school years (not to exceed 5 years) during which the individual is pursuing a course of education in a qualifying field. The assistance may include payment of tuition, fees, books, laboratory expenses, and (in the case of a fellowship) a stipend.
 
@@ -1394,7 +1448,7 @@ Pub. L. 101–189, div. A, title III, §356, Nov. 29, 1989, 103 Stat. 1425, as a
 
 "(a)
 
-Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halonsinto the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
+Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as 'CFCs') and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
 "(b)
 

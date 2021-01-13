@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 100–42, §1(c)(7)(C), amended subsec. (b) generally. Prio
 
 &emsp;"(1) to the extent it applies to the prohibition under section 8311(2) of this title against construction without the capability of using coal or another alternate fuel, shall not take effect until all approvals required by such State regulatory authority which relate to construction have been obtained; and
 
-&emsp;"(2) to the extent it applies to the prohibition under section 8311(1) of this title against the use of natural gas or petroleum as a primary energy source, shall not take effect until all approvals required bysuch State regulatory authority which relate to construction or operation have been obtained."
+&emsp;"(2) to the extent it applies to the prohibition under section 8311(1) of this title against the use of natural gas or petroleum as a primary energy source, shall not take effect until all approvals required by such State regulatory authority which relate to construction or operation have been obtained."
 
 Subsec. (c)(1). Pub. L. 100–42, §1(c)(7)(A), in introductory provisions struck out "or (g)" after "section 8322(c)".
 

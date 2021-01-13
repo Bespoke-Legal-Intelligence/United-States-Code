@@ -46,6 +46,152 @@ Subsec. (c). Pub. L. 115–232, §1603(a)(2), inserted "and the Director of Nati
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
+#### National Security Space Launch Program
+
+Pub. L. 116–283, div. A, title XVI, §1606, Jan. 1, 2021, 134 Stat. 4044, provided that:
+
+"(a)
+
+Launch Services Agreement.—
+
+&emsp;"(1)
+
+Limitation on amounts.—Except as provided by paragraph (2), in carrying out the phase two acquisition strategy, the Secretary of the Air Force may not obligate or expend a total amount for a launch services agreement that is greater than the amount specifically appropriated for the launch services agreement.
+
+&emsp;"(2)
+
+Use of reprogramming and transfer authority.—The Secretary may exceed the limitation under paragraph (1) if the Secretary carries out a reprogramming or transfer for such purpose in accordance with established procedures for reprogrammings or transfers, including with respect to presenting a request for a reprogramming of funds.
+
+"(b)
+
+Reusability.—
+
+&emsp;"(1)
+
+Validation.—Not later than 18 months after the date on which the Secretary determines the down-selected National Security Space Launch providers, the Secretary shall—
+
+&emsp;&emsp;"(A) complete all non-recurring design validation of previously flown launch hardware for National Security Space Launch providers offering such hardware for use in phase two contracts; and
+
+&emsp;&emsp;"(B) notify the appropriate congressional committees that such design validation has been completed.
+
+&emsp;"(2)
+
+Report.—Not later than 210 days after the date on which the Secretary determines the down-selected National Security Space Launch providers, the Secretary shall submit to the appropriate congressional committees a report on the progress of the Secretary with respect to completing all non-recurring design validation of previously flown launch hardware described in paragraph (1), including—
+
+&emsp;&emsp;"(A) a justification for any deviation from the new entrant certification guide; and
+
+&emsp;&emsp;"(B) a description of such progress with respect to National Security Space Launch providers that are not down-selected National Security Space Launch providers, if applicable.
+
+"(c)
+
+Funding and Strategy for Technology Development for Certification, Infrastructure, and Innovation.—
+
+&emsp;"(1)
+
+Authority.—Pursuant to section 2371b of title 10, United States Code, not later than September 30, 2021, the Secretary of the Air Force shall enter into agreements described in paragraph (3) with potential phase three National Security Space Launch providers—
+
+&emsp;&emsp;"(A) to maintain competition in order to maximize the likelihood of at least three National Security Space Launch providers competing for phase three contracts; and
+
+&emsp;&emsp;"(B) to support innovation for national security launches, including innovative technologies and systems to further advance launch capability associated with the insertion of national security payloads into relevant classes of orbits.
+
+&emsp;"(2)
+
+Competitive procedures.—The Secretary shall carry out paragraph (1) by conducting a full and open competition among all National Security Space Launch providers that plan to submit bids for a phase three contract.
+
+&emsp;"(3)
+
+Agreements.—An agreement described in this paragraph is an agreement that could provide value or technical advances to phase three of the National Security Space Launch program and that includes not more than $90,000,000 in fiscal year 2021, subject to the availability of appropriations for such purpose, for the provider to conduct either or both of the following activities:
+
+&emsp;&emsp;"(A) Develop enabling technologies to meet the certification and infrastructure requirements that are—
+
+&emsp;&emsp;&emsp;"(i) unique to national security space missions; and
+
+&emsp;&emsp;&emsp;"(ii) support the likely requirements of a phase three contract.
+
+&emsp;&emsp;"(B) Develop transformational technologies in support of the national security space launch capability for phase three contracts (such as technologies regarding launch, maneuver, and transport capabilities for enhanced resiliency and security technologies, technologies to support progress toward phase three national security space launches, or technologies to inform the National Security Launch Architecture study of the Space Force).
+
+&emsp;"(4)
+
+Technology development investment strategy.—Not later than March 15, 2021, the Secretary shall submit to the appropriate congressional committees a strategy to support investments in technologies for phase three pursuant to paragraph (1) that includes—
+
+&emsp;&emsp;"(A) the funding requirements for such strategy during fiscal years 2022 through 2026;
+
+&emsp;&emsp;"(B) a schedule for investments toward phase three;
+
+&emsp;&emsp;"(C) associated milestones; and
+
+&emsp;&emsp;"(D) a planned schedule for awarding phase three contracts.
+
+&emsp;"(5)
+
+Report.—Not later than 30 days after the date on which the Secretary enters into an agreement under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report explaining which enabling technologies are funded under such agreement.
+
+"(d)
+
+Briefing.—Not later than March 15, 2021, and quarterly thereafter through September 30, 2023, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress made by the Secretary in ensuring that full and open competition exists for phase three contracts, including—
+
+&emsp;"(1) a description of progress made to establish the requirements for phase three contracts, including such requirements that the Secretary determines cannot be met by the commercial market;
+
+&emsp;"(2) whether the Secretary determines that additional development funding will be necessary for such phase;
+
+&emsp;"(3) a description of the estimated costs for the development described in subparagraphs (A) and (B) of subsection (c)(3); and
+
+&emsp;"(4) how the Secretary will—
+
+&emsp;&emsp;"(A) ensure full and open competition for technology development for phase three contracts; and
+
+&emsp;&emsp;"(B) maintain competition.
+
+"(e)
+
+Rule of Construction.—Nothing in this section may be construed to delay the award of phase two contracts.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+&emsp;"(2) The term 'down-selected National Security Space Launch provider' means a National Security Space Launch provider that the Secretary of the Air Force selected to be awarded phase two contracts.
+
+&emsp;"(3) The term 'phase three contract' means a contract awarded using competitive procedures for launch services under the National Security Space Launch program after fiscal year 2024.
+
+&emsp;"(4) The term 'phase two acquisition strategy' means the process by which the Secretary of the Air Force enters into phase two contracts during fiscal year 2020, orders launch missions during fiscal years 2020 through 2024, and carries out such launches under the National Security Space Launch program.
+
+&emsp;"(5) The term 'phase two contract' means a contract awarded during fiscal year 2020 using competitive procedures for launch missions ordered under the National Security Space Launch program during fiscal years 2020 through 2024."
+
+#### Policy To Ensure Launch of Small-Class Payloads
+
+Pub. L. 116–283, div. A, title XVI, §1608, Jan. 1, 2021, 134 Stat. 4047, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish a small launch and satellite policy to ensure responsive and reliable access to space through the processing and launch of Department of Defense small-class payloads.
+
+"(b)
+
+Policy.—The policy under subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
+
+&emsp;"(1) the availability of small-class payload launch service providers using launch vehicles capable of delivering into space small payloads designated by the Secretary of Defense as a national security payload;
+
+&emsp;"(2) a robust small-class payload space launch infrastructure and industrial base, including small launch systems and small satellite rideshare opportunities;
+
+&emsp;"(3) the availability of rapid, responsive, and reliable space launches for national security space programs to—
+
+&emsp;&emsp;"(A) improve the responsiveness and flexibility of a national security space system;
+
+&emsp;&emsp;"(B) lower the costs of launching a national security space system; and
+
+&emsp;&emsp;"(C) maintain risks to mission success at acceptable levels;
+
+&emsp;"(4) a minimum number of dedicated launches each year; and
+
+&emsp;"(5) full and open competition, including small launch providers and rideshare opportunities."
+
 #### Program To Enhance and Improve Launch Support and Infrastructure
 
 Pub. L. 116–92, div. A, title XVI, §1609, Dec. 20, 2019, 133 Stat. 1727, provided that:
@@ -176,7 +322,7 @@ Elements.—The report under paragraph (1) shall include—
 
 #### Acquisition Strategy for National Security Space Launch Program
 
-Pub. L. 114–92, div. A, title XVI, §1608, Nov. 25, 2015, 129 Stat. 1100, provided that:
+Pub. L. 114–92, div. A, title XVI, §1608, Nov. 25, 2015, 129 Stat. 1100, as amended by Pub. L. 116–283, div. A, title XVIII, §1831(j)(1), Jan. 1, 2021, 134 Stat. 4216, provided that:
 
 "(a)
 
@@ -242,6 +388,8 @@ Competition.—In awarding any contract for launch services in a national securi
 
 Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate a report on the acquisition strategy developed under subsection (c)."
 
+<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1831(j)(1), Jan. 1, 2021, 134 Stat. 4151, 4216, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 1608(b) of Pub. L. 114–92, set out above, is amended by substituting "chapter 271" for "section 2306a".\]</i>
+
 #### Rocket Propulsion System Development Program
 
 Pub. L. 113–291, div. A, title XVI, §1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, §1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, §1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
@@ -282,7 +430,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 
 Streamlined Acquisition.—In developing the rocket propulsion system required under subsection (a), the Secretary shall—
 
-&emsp;"(1) use a streamlined acquisition approach, including tailored documentation and review processes, that enables the effective, efficient, and expedient transition from the use of non-allied space launch engines to a domestic alternative for national security space launches; and
+&emsp;"(1) use a streamlined acquisition approach, including tailored documentation and review processes, that enables the effective, efficient, and expedienttransition from the use of non-allied space launch engines to a domestic alternative for national security space launches; and
 
 &emsp;"(2) prior to establishing such acquisition approach, establish well-defined requirements with a clear acquisition strategy.
 

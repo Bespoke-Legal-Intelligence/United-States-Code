@@ -4,6 +4,8 @@ Every person who makes a settlement on any lands belonging, secured, or granted 
 
 (R.S. §2118.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2118 derived from act June 30, 1834, ch. 161, §11, 4 Stat. 730.

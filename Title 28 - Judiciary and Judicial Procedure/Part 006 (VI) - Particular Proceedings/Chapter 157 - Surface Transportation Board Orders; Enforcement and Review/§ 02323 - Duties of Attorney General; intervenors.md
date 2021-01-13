@@ -6,7 +6,7 @@ The Surface Transportation Board and any party or parties in interest to the pro
 
 Communities, associations, corporations, firms, and individuals interested in the controversy or question before the Board, or in any action commenced under the aforesaid sections may intervene in said action at any time after commencement thereof.
 
-The Attorney General shall not dispose of or discontinue said action or proceeding over the objection of such party or intervenor, who may prosecute, defend, or continue said action or proceeding unaffected by the action or nonaction of the Attorney General therein.
+The Attorney General shall not dispose of or discontinue said action or proceeding over theobjection of such party or intervenor, who may prosecute, defend, or continue said action or proceeding unaffected by the action or nonaction of the Attorney General therein.
 
 (June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, §116, 63 Stat. 105; Pub. L. 93–584, §6, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–473, §2(a)(3)(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 104–88, title III, §305(c)(1)(C), (D), Dec. 29, 1995, 109 Stat. 945.)
 
@@ -28,6 +28,8 @@ Changes were made in phraseology.
 
 This section corrects, in section 2323 of title 28, U.S.C., the reference to certain sections in title 49, U.S.C. The provisions which were formerly set out as section 49 of such title 49 are now set out as section 23 of such title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission" and substituted "the Board" for "the Commission" in two places.
@@ -37,6 +39,8 @@ This section corrects, in section 2323 of title 28, U.S.C., the reference to cer
 <b>1975</b>—Pub. L. 93–584 struck out reference to the district courts and the Supreme Court of the United States upon appeal from the district courts as the courts in which the Attorney General can represent the United States in first par.
 
 <b>1949</b>—Act May 24, 1949, substituted "20, 23, and 43" for "20, 43, and 49" in first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

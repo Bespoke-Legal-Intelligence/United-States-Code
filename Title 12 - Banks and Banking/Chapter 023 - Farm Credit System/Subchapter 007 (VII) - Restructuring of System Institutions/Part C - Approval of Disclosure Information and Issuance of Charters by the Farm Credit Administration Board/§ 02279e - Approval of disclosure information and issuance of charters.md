@@ -20,11 +20,15 @@ Each plan of merger or transfer of lending authority may include a proposed new 
 
 (Pub. L. 92–181, title VII, §7.11, as added Pub. L. 100–233, title IV, §416, Jan. 6, 1988, 101 Stat. 1651; amended Pub. L. 100–399, title IV, §408(p), Aug. 17, 1988, 102 Stat. 1002; Pub. L. 102–237, title V, §502(n), Dec. 13, 1991, 105 Stat. 1870.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted "60 days" for "30 days".
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399 substituted "transfer of lending authority" for "transfer or assignment of lending authority" and "the institutions involved" for "such institutions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

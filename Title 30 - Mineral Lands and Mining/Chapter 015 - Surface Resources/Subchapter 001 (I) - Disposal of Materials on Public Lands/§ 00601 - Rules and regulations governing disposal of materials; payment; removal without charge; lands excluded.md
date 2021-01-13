@@ -4,6 +4,8 @@ The Secretary, under such rules and regulations as he may prescribe, may dispose
 
 (July 31, 1947, ch. 406, §1, 61 Stat. 681; July 23, 1955, ch. 375, §1, 69 Stat. 367.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter V (§1181a et seq.) of chapter 28 of title 43, referred to in text, was in the original a reference to the Acts of Aug. 28, 1937 (50 Stat. 874), and June 24, 1954 (68 Stat. 270), as amended. For complete classification of these Acts to the Code, see Tables.
@@ -16,11 +18,15 @@ The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, c
 
 <b>1955</b>—Act July 23, 1955, required disposal under this subchapter of common varieties of sand, stone, gravel, pumice, pumicite, and cinders, and gave the Secretary of Agriculture the same authority as to lands under his jurisdiction as the Secretary of Interior possesses as to lands under his jurisdiction in the disposal of mining and vegetative materials.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified to this subchapter, is popularly known as the "Materials Act of 1947".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with materials sales contracts under this subchapter and removal permits issued under this subchapter and enforcement functions of Secretary or other official in Department of Agriculture insofar as they involve lands and programs under jurisdiction of that Department related to compliance with removal of materials under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), eff. July 1, 1979, 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with materials sales contracts under this subchapter and removal permits issued under this subchapter and enforcement functions of Secretary or other official in Department of Agriculture insofar as they involve lands and programs under jurisdiction of that Department related to compliance with removal of materials under this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), eff. July 1, 1979, 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural GasTransportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

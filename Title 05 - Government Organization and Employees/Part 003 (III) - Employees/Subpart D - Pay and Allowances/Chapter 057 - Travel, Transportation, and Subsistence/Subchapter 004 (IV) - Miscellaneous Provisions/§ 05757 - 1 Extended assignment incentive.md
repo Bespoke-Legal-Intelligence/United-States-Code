@@ -20,13 +20,15 @@
 
 (3) The agreement shall describe the conditions under which the extended assignment incentive may be canceled prior to the completion of agreed-upon service period and the effect of the cancellation. The agreement shall require that if, at the time of cancellation of the incentive, the employee has received incentive payments which exceed the amount which bears the same relationship to the total amount to be paid under the agreement as the completed service period bears to the agreed-upon service period, the employee shall repay that excess amount, at a minimum, except that an employee who is involuntarily reassigned to a position stationed outside the territory, commonwealth, or possession or involuntarily separated (not for cause on charges of misconduct, delinquency, or inefficiency) may not be required to repay any excess amounts.
 
-(d) An agency may not put an extended assignment incentive into effect during a period in which the employee is fulfilling a recruitment or relocation bonus service agreement under section 5753 or for which an employee is receiving a retention allowance under section 5754.
+(d) An agency may not put an extended assignment incentive into effect during a period in which the employee is fulfilling a recruitment or relocation bonus service agreement undersection 5753 or for which an employee is receiving a retention allowance under section 5754.
 
 (e) Extended assignment incentive payments may not be considered part of the basic pay of an employee.
 
 (f) The Office of Personnel Management may prescribe regulations for the administration of this section, including regulations on an employee's entitlement to retain or receive incentive payments when an agreement is canceled. Neither this section nor implementing regulations may impair any agency's independent authority to administratively determine compensation for a class of its employees.
 
 (Added Pub. L. 107–273, div. A, title II, §207(a)(1), Nov. 2, 2002, 116 Stat. 1779.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

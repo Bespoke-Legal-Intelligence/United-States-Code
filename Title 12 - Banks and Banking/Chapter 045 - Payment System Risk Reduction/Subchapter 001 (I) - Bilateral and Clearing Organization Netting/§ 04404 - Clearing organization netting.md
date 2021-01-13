@@ -34,6 +34,8 @@ The provisions of any security agreement or arrangement or other credit enhancem
 
 (Pub. L. 102–242, title IV, §404, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(c), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, §4(b), Dec. 12, 2006, 120 Stat. 2695.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–390 struck out "paragraphs (8)(E), (8)(F), and (10)(B) of" before "section 1821(e)" and "section 1787(c)" and inserted "terminated, liquidated, accelerated, and" after "organization shall be".
@@ -43,6 +45,8 @@ Subsec. (h). Pub. L. 109–390, §4(b)(1), struck out "paragraphs (8)(E), (8)(F)
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §906(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract."
 
 Subsec. (h). Pub. L. 109–8, §906(c)(2), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

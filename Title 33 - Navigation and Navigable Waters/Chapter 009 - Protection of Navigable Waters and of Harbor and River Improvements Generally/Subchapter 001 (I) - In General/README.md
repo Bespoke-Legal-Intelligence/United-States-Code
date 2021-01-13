@@ -48,6 +48,7 @@
 - [&sect; 00426e - Federal aid in protection of shores](%C2%A7%2000426e%20-%20Federal%20aid%20in%20protection%20of%20shores.md)
 - [&sect; 00426e&#8211;1 - Shore protection projects](%C2%A7%2000426e%E2%80%931%20-%20Shore%20protection%20projects.md)
 - [&sect; 00426e&#8211;2 - Clarification of munition disposal authorities](%C2%A7%2000426e%E2%80%932%20-%20Clarification%20of%20munition%20disposal%20authorities.md)
+- [&sect; 00426e&#8211;3 - Coastal storm damage reduction contracts](%C2%A7%2000426e%E2%80%933%20-%20Coastal%20storm%20damage%20reduction%20contracts.md)
 - [&sect; 00426f - Reimbursements](%C2%A7%2000426f%20-%20Reimbursements.md)
 - [&sect; 00426g - Storm and hurricane restoration and impact minimization program](%C2%A7%2000426g%20-%20Storm%20and%20hurricane%20restoration%20and%20impact%20minimization%20program.md)
 - [&sect; 00426g&#8211;1 - State and regional plans](%C2%A7%2000426g%E2%80%931%20-%20State%20and%20regional%20plans.md)

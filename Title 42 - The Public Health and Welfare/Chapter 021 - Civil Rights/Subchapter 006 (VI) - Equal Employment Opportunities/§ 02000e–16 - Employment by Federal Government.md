@@ -112,7 +112,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;(a) The term "employee" shall include an employee, applicant for employment, or former employee covered by section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–16).
 
-&emsp;(b) Genetic monitoring means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course of employment due to exposure to toxic substances in the workplace, in order to identify, evaluate, respond to the effects of, or control adverse environmental exposures in the workplace.
+&emsp;(b) Genetic monitoring means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course ofemployment due to exposure to toxic substances in the workplace, in order to identify, evaluate, respond to the effects of, or control adverse environmental exposures in the workplace.
 
 &emsp;(c) Genetic services means health services, including genetic tests, provided to obtain, assess, or interpret genetic information for diagnostic or therapeutic purposes, or for genetic education or counseling.
 

@@ -237,6 +237,29 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XVI—WOMEN'S HISTORY MUSEUM
+
+|  |  |
+| :--- | ---: |
+| [80t.](Subchapter%20016%20%28XVI%29%20-%20Women%27s%20History%20Museum/%C2%A7%2000080t%20-%20Findings.md) | Findings. |
+| 80t–1. | Establishment of Museum. |
+| 80t–2. | Council. |
+| 80t–3. | Director and staff of the Museum. |
+| 80t–4. | Educational and liaison programs. |
+| 80t–5. | Building. |
+| 80t–6. | Definitions. |
+| 80t–7. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XVII—NATIONAL MUSEUM OF THE AMERICAN LATINO
+
+|  |  |
+| :--- | ---: |
+| [80u.](Subchapter%20017%20%28XVII%29%20-%20National%20Museum%20of%20the%20American%20Latino/%C2%A7%2000080u%20-%20National%20Museum%20of%20the%20American%20Latino.md) | National Museum of the American Latino. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -257,3 +280,5 @@
 - [Subchapter 013 (XIII) - National Museum of the American Indian](Subchapter%20013%20%28XIII%29%20-%20National%20Museum%20of%20the%20American%20Indian/README.md)
 - [Subchapter 014 (XIV) - National Museum of African American History and Culture](Subchapter%20014%20%28XIV%29%20-%20National%20Museum%20of%20African%20American%20History%20and%20Culture/README.md)
 - [Subchapter 015 (XV) - Civil Rights History Project](Subchapter%20015%20%28XV%29%20-%20Civil%20Rights%20History%20Project/README.md)
+- [Subchapter 016 (XVI) - Women's History Museum](Subchapter%20016%20%28XVI%29%20-%20Women%27s%20History%20Museum/README.md)
+- [Subchapter 017 (XVII) - National Museum of the American Latino](Subchapter%20017%20%28XVII%29%20-%20National%20Museum%20of%20the%20American%20Latino/README.md)

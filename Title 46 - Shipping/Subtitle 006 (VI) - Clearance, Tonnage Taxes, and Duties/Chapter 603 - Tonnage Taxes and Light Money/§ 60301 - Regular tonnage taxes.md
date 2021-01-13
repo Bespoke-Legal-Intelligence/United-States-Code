@@ -56,6 +56,8 @@ In subsection (a)(1), the words "West Indies Islands" are substituted for "West 
 
 In subsection (a)(2), the reference to the definitions in section 2101 is confined to "recreational vessel" because the definitions of "vessel of the United States" and "barge" are being moved to chapter 1 of the revised title and being made applicable title-wide.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3524(b), repealed Pub. L. 109–171, §4001. See 2006 Amendment note below.

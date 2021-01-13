@@ -12,7 +12,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (2) Inclusions
 
-&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
+&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation withthe Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
 
 &emsp;&emsp;(A) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
 
@@ -76,6 +76,8 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 (Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, §5021, Nov. 8, 2007, 121 Stat. 1202; Pub. L. 113–121, title IV, §4010(b), June 10, 2014, 128 Stat. 1318; Pub. L. 114–322, title I, §1180, Dec. 16, 2016, 130 Stat. 1677.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subsec. (b)(4) of this section, was redesignated subsec. (b)(1)(D) by Pub. L. 107–66, title I, §113(1), (2), Nov. 12, 2001, 115 Stat. 496. Subsequently, Pub. L. 110–114, title V, §5021(1), (2)(B), (3), Nov. 8, 2007, 121 Stat. 1202, redesignated subsec. (b)(1)(D) as (b)(2)(D), struck it out, added a new subsec. (b)(2)(D), and redesignated former subsec. (b)(2) as (b)(4).
@@ -107,6 +109,8 @@ Subsec. (b)(5). Pub. L. 110–114, §5021(4), which directed addition of par. (5
 Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows: "the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia."
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted "$7,000,000" for "$5,000,000" in introductory provisions and inserted "and Virginia" after "Maryland" in par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -40,7 +40,7 @@
 
 #### (A) Establishment of Office
 
-&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility within the Directorate of Science and Technology to carry out this subsection.
+&emsp;&emsp;The Secretary may establish an Office for Interoperability and Compatibility withinthe Directorate of Science and Technology to carry out this subsection.
 
 #### (B) Functions
 
@@ -172,6 +172,8 @@ In this section:
 
 (Pub. L. 108–458, title VII, §7303, Dec. 17, 2004, 118 Stat. 3843; Pub. L. 110–53, title III, §301(c), Aug. 3, 2007, 121 Stat. 299.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 510 of the Homeland Security Act of 2002, as added by subsection (d), referred to in subsec. (a)(2)(B)(ii), means section 510 of Pub. L. 107–296, which was added by Pub. L. 108–458, title VII, §7303(d), Dec. 17, 2004, 118 Stat. 3844, and was classified to section 321 of this title, prior to repeal by Pub. L. 109–295, title VI, §611(5), Oct. 4, 2006, 120 Stat. 1395. See Prior Provisions note set out under section 321 of this title.
@@ -189,6 +191,8 @@ Section 301(c) of Pub. L. 110–53, which directed the amendment of section 7303
 <b>2007</b>—Subsec. (f)(6), (7). Pub. L. 110–53, §301(c)(1), added pars. (6) and (7). See Codification note above.
 
 Subsec. (g)(1). Pub. L. 110–53, §301(c)(2), substituted "and video" for "or video". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

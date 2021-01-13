@@ -70,7 +70,9 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) birth records of the State of Hawaii.
 
-(Pub. L. 104–330, title VIII, §801, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2876, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2969.)
+(Pub. L. 104–330, title VIII, §801, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2876,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2969.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ This chapter, referred to in par. (5), was in the original "this Act", meaning P
 #### Codification
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 801 of Pub. L. 104–330. This section is based on the text of section 801 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

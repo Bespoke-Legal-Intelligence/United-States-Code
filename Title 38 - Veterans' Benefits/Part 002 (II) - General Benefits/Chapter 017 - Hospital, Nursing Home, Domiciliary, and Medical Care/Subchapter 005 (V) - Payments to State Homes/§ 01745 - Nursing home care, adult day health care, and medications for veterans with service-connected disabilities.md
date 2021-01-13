@@ -26,7 +26,7 @@
 
 &emsp;(III) all provisions in this subchapter.
 
-(iii) Notwithstanding subparagraph (B)(ii)(I), a State home that enters into an agreement underthis section may not be treated as a Federal contractor or subcontractor for purposes of chapter 67 of title 41 (known as the "McNamara-O'Hara Service Contract Act of 1965").
+(iii) Notwithstanding subparagraph (B)(ii)(I), a State home that enters into an agreement under this section may not be treated as a Federal contractor or subcontractor for purposes of chapter 67 of title 41 (known as the "McNamara-O'Hara Service Contract Act of 1965").
 
 (b) The Secretary shall furnish such drugs and medicines as may be ordered on prescription of a duly licensed physician as specific therapy in the treatment of illness or injury to any veteran as follows:
 
@@ -46,7 +46,7 @@
 
 (c) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 
-(d)(1) The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the State home is not in receipt of payment for nursing home care from the Secretary.
+(d)(1) The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the Statehome is not in receipt of payment for nursing home care from the Secretary.
 
 (2)(A) Payment under each agreement between the Secretary and a State home under paragraph (1) for each veteran who receives medical supervision model adult day health care under such agreement shall be made at a rate established through regulations prescribed by the Secretary to adequately reimburse the State home for the care provided by the State home, including necessary transportation expenses.
 
@@ -59,6 +59,8 @@
 (4) In this subsection, the term "medical supervision model adult day health care" means adult day health care that includes the coordination of physician services, dental services, nursing services, the administration of drugs, and such other requirements as determined appropriate by the Secretary.
 
 (Added and amended Pub. L. 109–461, title II, §211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418, 3419; Pub. L. 112–154, title I, §105(a), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 115–159, §2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, §103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, §211(a)(9), Sept. 29, 2018, 132 Stat. 3175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -88,6 +90,8 @@ Subsec. (a)(2). Pub. L. 112–154, §105(a)(2), added par. (2) and struck out fo
 
 Subsec. (c). Pub. L. 109–461, §211(b)(1), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–182, title I, §103(b), June 6, 2018, 132 Stat. 1409, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to care provided on or after the effective date of regulations issued by the Secretary of Veterans Affairs to carry out this section." Final rule implementing section 103 of Pub. L. 115–182 effective Jan. 13, 2020, see 84 F.R. 67868.
@@ -102,5 +106,5 @@ Section and amendment by section 211(a)(2) of Pub. L. 109–461 effective 90 day
 
 #### Initial Rate
 
-Pub. L. 115–159, §2(b), Mar. 27, 2018, 132 Stat. 1245, provided that: "Before the Secretary of Veterans Affairs establishes a payment rate under subsection (d)(2)(A) of section 1745 of such title \[meaning title 38, United States Code\], as added by subsection (a), the Secretary shall pay to a State home that has entered into anagreement with the Secretary for medical supervision model adult day health care (as defined in subsection (d)(4) of such section) an amount equal to 65 percent of the rate the Secretary would pay under subsection (a)(2) of such section to the State home for nursing home care provided to the veteran."
+Pub. L. 115–159, §2(b), Mar. 27, 2018, 132 Stat. 1245, provided that: "Before the Secretary of Veterans Affairs establishes a payment rate under subsection (d)(2)(A) of section 1745 of such title \[meaning title 38, United States Code\], as added by subsection (a), the Secretary shall pay to a State home that has entered into an agreement with the Secretary for medical supervision model adult day health care (as defined in subsection (d)(4) of such section) an amount equal to 65 percent of the rate the Secretary would pay under subsection (a)(2) of such section to the State home for nursing home care provided to the veteran."
 

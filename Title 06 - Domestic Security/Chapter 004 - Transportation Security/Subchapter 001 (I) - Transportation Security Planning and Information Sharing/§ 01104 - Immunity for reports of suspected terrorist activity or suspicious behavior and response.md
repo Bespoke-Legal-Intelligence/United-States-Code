@@ -40,7 +40,7 @@ In this section:
 
 #### (2) Covered activity
 
-&emsp;The term "covered activity" means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
+&emsp;The term "covered activity" means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or itspassengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
 
 &emsp;&emsp;(A) a threat to a passenger transportation system or passenger safety or security; or
 
@@ -75,6 +75,8 @@ In this section:
 This section shall take effect on October 1, 2006, and shall apply to all activities and claims occurring on or after such date.
 
 (Pub. L. 110–53, title XII, §1206, Aug. 3, 2007, 121 Stat. 388.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

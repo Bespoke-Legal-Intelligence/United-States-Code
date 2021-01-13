@@ -62,7 +62,7 @@ Interfaces developed with mixed funding.—Notwithstanding subparagraph (E), the
 
 &emsp;(G)
 
-Major system interfaces developed exclusively at private expense or with mixed funding.—Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a major system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such major system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a major system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
+Modular system interfaces developed exclusively at private expense or with mixed funding.—Notwithstanding subparagraphs (B) and (E), the United States shall have government purpose rights in technical data pertaining to a modular system interface developed exclusively at private expense or in part with Federal funds and in part at private expense and used in a modular open system approach pursuant to section 2446a of this title, except in any case in which the Secretary of Defense determines that negotiation of different rights in such technical data would be in the best interest of the United States. Such modular system interface shall be identified in the contract solicitation and the contract. For technical data pertaining to a modular system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
 
 &emsp;(H) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
@@ -86,7 +86,7 @@ Major system interfaces developed exclusively at private expense or with mixed f
 
 (3) The Secretary of Defense shall define the terms "developed", "exclusively with Federal funds", and "exclusively at private expense" in regulations prescribed under paragraph (1). In defining such terms, the Secretary shall specify the manner in which indirect costs shall be treated and shall specify that amounts spent for independent research and development and bid and proposal costs shall not be considered to be Federal funds for the purposes of the definitions under this paragraph.
 
-(b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by anagency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
+(b) Regulations prescribed under subsection (a) shall require that, whenever practicable, a contract for supplies or services entered into by an agency named in section 2303 of this title contain appropriate provisions relating to technical data, including provisions—
 
 &emsp;(1) defining the respective rights of the United States and the contractor or subcontractor (at any tier) regarding any technical data to be delivered under the contract and providing that, in the case of a contract for a commercial product, the product shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f);
 
@@ -142,7 +142,7 @@ Preference for Specially Negotiated Licenses.—The Secretary of Defense shall, 
 
 (g)
 
-Covered Government Support Contractor Defined.—In this section, the term "covered Government support contractor" means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
+Covered Government Support Contractor Defined.—In this section, the term"covered Government support contractor" means a contractor under a contract the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), which contractor—
 
 &emsp;(1) is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
@@ -164,15 +164,51 @@ Covered Government Support Contractor Defined.—In this section, the term "cove
 
 (h)
 
-Additional Definitions.—In this section, the terms "major system component", "major system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
+Additional Definitions.—In this section, the terms "major system component", "modular system interface", and "modular open system approach" have the meanings provided in section 2446a of this title.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491; Pub. L. 114–328, div. A, title VIII, §809(a)–(e), Dec. 23, 2016, 130 Stat. 2266, 2267; Pub. L. 115–91, div. A, title VIII, §835(c), Dec. 12, 2017, 131 Stat. 1471; Pub. L. 115–232, div. A, title VIII, §836(c)(7), Aug. 13, 2018, 132 Stat. 1866.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 109–364, div. A, title VIII, §802(a), Oct. 17, 2006, 120 Stat. 2312; Pub. L. 111–84, div. A, title VIII, §821, Oct. 28, 2009, 123 Stat. 2411; Pub. L. 111–383, div. A, title VIII, §§801(a), 824(b), Jan. 7, 2011, 124 Stat. 4253, 4269; Pub. L. 112–81, div. A, title VIII, §§802(b), 815(a), Dec. 31, 2011, 125 Stat. 1485, 1491; Pub. L. 114–328, div. A, title VIII, §809(a)–(e), Dec. 23, 2016, 130 Stat. 2266, 2267; Pub. L. 115–91, div. A, title VIII, §835(c), Dec. 12, 2017, 131 Stat. 1471; Pub. L. 115–232, div. A, title VIII, §836(c)(7), Aug. 13, 2018, 132 Stat. 1866; Pub. L. 116–283, div. A, title VIII, §804(b)(2)(A), title XVIII, §1833(b)(1), (c)(1), (d), (e)(1), (f)(1), Jan. 1, 2021, 134 Stat. 3738, 4226, 4228–4230.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1833(b)(1), (c)(1), (d), (e)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4151, 4226, 4228–4230, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsection (a) to section 3771 of this title;</i>
+
+<i>(2) by transferring subsections (b) and (c) to section 3772(a) and (b), respectively, of this title;</i>
+
+<i>(3) by transferring subsection (d) to section 3773 of this title;</i>
+
+<i>(4) by transferring subsections (e) and (f) to section 3774(a) and (c), respectively, of this title; and</i>
+
+<i>(5) by transferring subsections (g) and (h) to section 3775(a) and (b), respectively, of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1833(b)(1), redesignated subsec. (a) as section 3771 of this title.
+
+Subsec. (a)(2)(G). Pub. L. 116–283, §804(b)(2)(A)(i), amended subpar. (G) generally. Prior to amendment, subpar. (G) related to major system interfaces developed exclusively at private expense or with mixed funding.
+
+Subsecs. (b), (c). Pub. L. 116–283, §1833(c)(1), redesignated subsecs. (b) and (c) as section 3772(a) and (b), respectively, of this title.
+
+Subsec. (d). Pub. L. 116–283, §1833(d), redesignated subsec. (d) as section 3773 of this title.
+
+Subsecs. (e), (f). Pub. L. 116–283, §1833(e)(1), redesignated subsecs. (e) and (f) as 3774(a) and (c), respectively, of this title.
+
+Subsec. (g). Pub. L. 116–283, §1833(f)(1), redesignated subsec. (g) as section 3775(a) of this title.
+
+Subsec. (h). Pub. L. 116–283, §1833(f)(1), redesignated subsec. (h) as section 3775(b) of this title.
+
+Pub. L. 116–283, §804(b)(2)(A)(ii), substituted ", 'modular system interface' " for ", 'major system interface' ".
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §836(c)(7)(A), substituted "a commercial product, the product" for "a commercial item, the item".
 
@@ -240,7 +276,7 @@ Subsec. (f). Pub. L. 111–84, §821(b), added subsec. (f).
 
 Subsec. (a)(2)(A). Pub. L. 100–26, §7(a)(4)(A), inserted "(other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply)" after "Federal funds".
 
-Subsec. (a)(2)(E). Pub. L. 100–180, §808(a)(2), in introductory provisions, substituted "established" for "agreed upon", struck out comma after "negotiations)" and inserted in lieu "and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria established in the regulations, that negotiations would not be practicable. The establishment of such rights shall be", and added cl. (iv).
+Subsec. (a)(2)(E). Pub. L. 100–180, §808(a)(2), in introductory provisions, substituted "established" for "agreed upon", struck out comma after "negotiations)" and inserted in lieu "and shall be based upon negotiations between the United States and the contractor, except in any case in which the Secretary of Defense determines, on the basis of criteria establishedin the regulations, that negotiations would not be practicable. The establishment of such rights shall be", and added cl. (iv).
 
 Subsec. (a)(2)(F). Pub. L. 100–180, §808(a)(3), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract, to sell or otherwise relinquish to the United States any rights in technical data except—
 
@@ -252,7 +288,7 @@ Subsec. (a)(2)(G)(i). Pub. L. 100–180, §808(a)(4)(A), substituted "not otherw
 
 Subsec. (a)(2)(G)(ii). Pub. L. 100–180, §808(a)(4)(B), substituted "this section" for "such regulations" and "; or" for period at end.
 
-Pub. L. 100–26, §7(a)(4)(B), substituted "in technical data otherwise accorded to the United States undersuch regulations" for "of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds".
+Pub. L. 100–26, §7(a)(4)(B), substituted "in technical data otherwise accorded to the United States under such regulations" for "of the United States in technical data pertaining to an item or process developed entirely or in part with Federal funds".
 
 Subsec. (a)(2)(G)(iii). Pub. L. 100–180, §808(a)(4)(C), added cl. (iii).
 
@@ -265,6 +301,14 @@ Subsec. (c). Pub. L. 100–180, §808(b), substituted "from—" for "from", desi
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 substituted "the item or process to which the technical data pertains" for "the technical data".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–577 substituted "in regulations of the Department of Defense prescribed as part" for "in regulations prescribed as part" in text preceding par. (1).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1833(b)(1), (c)(1), (d), (e)(1), (f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -308,7 +352,7 @@ Section applicable with respect to solicitations issued after the end of the one
 
 Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, provided that: "Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall revise regulations under section 2320 of title 10, United States Code, to implement subsection (e) of such section (as added by this section), including incorporating policy changes developed under such subsection into Department of Defense Directive 5000.1 and Department of Defense Instruction 5000.2."
 
-Pub. L. 99–500, §101(c) \[title X, §953(d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, Pub. L. 99–591, §101(c) \[title X, §953(d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, and Pub. L. 99–661, div. A, title IX, formerly title IV, §953(d), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
+Pub. L. 99–500, §101(c) \[title X, §953(d)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–172, Pub. L. 99–591, §101(c) \[title X,§953(d)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–172, and Pub. L. 99–661, div. A, title IX, formerly title IV, §953(d), Nov. 14, 1986, 100 Stat. 3952, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, required that proposed regulations under subsec. (a)(1) of this section be published in Federal Register for comment not later than 90 days after Oct. 18, 1986, and that proposed final regulations be published in Federal Register not later than 180 days after Oct. 18, 1986.
 
 #### Guidance Relating to Rights in Technical Data
 
@@ -324,7 +368,7 @@ Pub. L. 110–417, \[div. A\], title VIII, §822, Oct. 14, 2008, 122 Stat. 4532,
 
 "(a)
 
-Policy Guidance.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue policy guidance withrespect to rights in technical data under a non-FAR agreement. The guidance shall—
+Policy Guidance.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue policy guidance with respect to rights in technical data under a non-FAR agreement. The guidance shall—
 
 &emsp;"(1) establish criteria for defining the legitimate interests of the United States and the party concerned in technical data pertaining to an item or process to be developed under the agreement;
 

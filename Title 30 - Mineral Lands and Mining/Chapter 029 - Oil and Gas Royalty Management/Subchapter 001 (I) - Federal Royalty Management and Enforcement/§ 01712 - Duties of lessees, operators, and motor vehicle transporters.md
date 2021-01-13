@@ -22,6 +22,8 @@ An operator shall—
 
 (Pub. L. 97–451, title I, §102, Jan. 12, 1983, 96 Stat. 2450; Pub. L. 104–185, §6(g), Aug. 13, 1996, 110 Stat. 1715.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–185 inserted heading and amended text generally. Prior to amendment, text read as follows: "A lessee—
@@ -30,9 +32,11 @@ An operator shall—
 
 &emsp;"(2) shall notify the Secretary, in the time and manner as may be specified by the Secretary, of any assignment the lessee may have made of the obligation to make any royalty or other payment under a lease or under the mineral leasing laws."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 applicable with respect to the production of oil and gas after the first dayof the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Applicability of 1996 Amendment
 

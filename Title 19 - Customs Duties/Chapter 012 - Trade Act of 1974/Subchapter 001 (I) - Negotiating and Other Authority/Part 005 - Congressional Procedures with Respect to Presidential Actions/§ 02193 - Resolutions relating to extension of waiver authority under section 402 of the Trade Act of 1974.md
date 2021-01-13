@@ -32,7 +32,7 @@ Section 402 of the Trade Act of 1974, referred to in catchline and subsec. (a), 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–382, §132(a)(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "For purposes of this section, the term 'resolution' means only—
+<b>1990</b>—Subsec. (a). Pub. L. 101–382, §132(a)(3), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "For purposes of this section, the term 'resolution' means only—
 
 &emsp;"(1) a concurrent resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: 'That the Congress approves the extension of the authority contained in section 402(c)(1) of the Trade Act of 1974 recommended by the President to the Congress on \_\_\_\_\_\_, except with respect to \_\_\_\_\_\_.', with the first blank space being filled with the appropriate date and the second blank space being filled with the names of those countries, if any, with respect to which such extension of authority is not approved, and with the except clause being omitted if there is no such country; and
 

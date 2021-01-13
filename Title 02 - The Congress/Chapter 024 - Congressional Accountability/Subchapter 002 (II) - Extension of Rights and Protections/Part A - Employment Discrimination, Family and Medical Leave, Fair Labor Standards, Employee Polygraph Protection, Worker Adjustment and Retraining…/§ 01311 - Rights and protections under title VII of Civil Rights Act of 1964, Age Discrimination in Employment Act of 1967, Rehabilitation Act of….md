@@ -64,6 +64,8 @@ This section shall take effect 1 year after January 23, 1995.
 
 (Pub. L. 104–1, title II, §201, Jan. 23, 1995, 109 Stat. 7; Pub. L. 115–397, title III, §302(a), Dec. 21, 2018, 132 Stat. 5321.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 201 of Pub. L. 104–1 amended section 633a of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare.
@@ -72,13 +74,15 @@ Section is comprised of section 201 of Pub. L. 104–1. Subsec. (c) of section 2
 
 <b>2018</b>—Subsecs. (d), (e). Pub. L. 115–397 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
 #### Coverage of House of Representatives and the Agencies of the Legislative Branch
 
-Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004,118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a)
 

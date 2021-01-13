@@ -1,0 +1,16 @@
+### §1863. Congressional oversight
+
+(a) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all requests for records under this subchapter.
+
+(b) On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period—
+
+&emsp;(1) the total number of applications made for orders approving requests for records under this subchapter; and
+
+&emsp;(2) the total number of such orders either granted, modified, or denied.
+
+(Pub. L. 95–511, title V, §503, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2412.)
+
+#### Effective Date of Revival
+
+Revival of section, which had been repealed by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287, by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under section 1805 of this title.
+

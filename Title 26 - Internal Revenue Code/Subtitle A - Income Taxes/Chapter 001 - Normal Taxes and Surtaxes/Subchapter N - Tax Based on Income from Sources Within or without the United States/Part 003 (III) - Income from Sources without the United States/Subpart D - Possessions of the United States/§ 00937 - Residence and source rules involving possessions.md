@@ -40,7 +40,7 @@ Pub. L. 108–357, title VIII, §908(d), Oct. 22, 2004, 118 Stat. 1657, provided
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[enacting this section and amending sections 931, 932, 934, 935, 957, and 6688 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 931, 932, 934, 935, 957, and 6688 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 "(2) 183-
 

@@ -1,0 +1,18 @@
+### §9032. Implementation
+
+#### (a) Non-application of the Paperwork Reduction Act
+
+Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995"),<sup>1</sup> shall not apply to the provisions of, and the amendments made by, this subtitle.
+
+#### (b) Operating instructions or other guidance
+
+Notwithstanding any other provision of law, the Secretary of Labor may issue any operating instructions or other guidance necessary to carry out the provisions of, or the amendments made by, this subtitle.
+
+(Pub. L. 116–136, div. A, title II, §2116, Mar. 27, 2020, 134 Stat. 335.)
+
+#### References in Text
+
+This subtitle, referred to in text, is subtitle A (§2101 et seq.) of title II of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 313, known as the Relief for Workers Affected by Coronavirus Act. For complete classification of subtitle A to the Code, see Short Title note set out under section 9001 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

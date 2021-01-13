@@ -28,7 +28,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;(4) "court order" means any court decree of divorce or annulment, or any court order or court approved property settlement agreement incident to any court decree of divorce or annulment;
 
-&emsp;(5) "Foreign Service normal cost" means the level percentage of payroll required to be deposited in the Fund to meet the cost of benefits payable under the System (computed in accordance with generally accepted actuarialpractice on an entry-age basis) less the value of retirement benefits earned under another retirement system for Government employees and less the cost of credit allowed for military and naval service;
+&emsp;(5) "Foreign Service normal cost" means the level percentage of payroll required to be deposited in the Fund to meet the cost of benefits payable under the System (computed in accordance with generally accepted actuarial practice on an entry-age basis) less the value of retirement benefits earned under another retirement system for Government employees and less the cost of credit allowed for military and naval service;
 
 &emsp;(6) "former spouse" means a former wife or husband of a participant or former participant who was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
 
@@ -44,7 +44,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(A) in the Armed Forces of the United States,
 
-&emsp;&emsp;(B) in the Regular or Reserve Corps of the Public Health Service after June 30, 1960, or
+&emsp;&emsp;(B) in the Regular or Reserve Corps <sup>1</sup> of the Public Health Service after June 30, 1960, or
 
 &emsp;&emsp;(C) as a commissioned officer of the National Oceanic and Atmospheric Administration, or a predecessor organization, after June 30, 1961,
 
@@ -90,11 +90,13 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;&emsp;(C) transferred directly to a position which is supervisory or administrative in nature after performing duties described in subparagraph (A) for at least 3 years.
 
-(Pub. L. 96–465, title I, §804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §211, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 105–382, §2(a)(1), Nov. 13, 1998, 112 Stat. 3406.)
+(Pub. L. 96–465, title I, §804, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §§402(a)(2), (3), 403, 404(a), June 6, 1986, 100 Stat. 609, 610; Pub. L.100–238, title II, §211, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 105–382, §2(a)(1), Nov. 13, 1998, 112 Stat. 3406.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 
@@ -115,6 +117,12 @@ Par. (3). Pub. L. 99–335, §403, substituted ", the District of Columbia, the
 Par. (10). Pub. L. 99–335, §404(a), inserted "(creditable under part I or II)" after "creditable service" in two places.
 
 Par. (14). Pub. L. 99–335, §402(a)(3), inserted "under this part" after "payable from the Fund" in provision preceding subpar. (A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1998 Amendment
 
@@ -193,4 +201,6 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

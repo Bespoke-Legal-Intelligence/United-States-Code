@@ -12,6 +12,8 @@ Return or filing of records with clerk, Rule 41(f).
 
 Section 627 of title 18, U.S.C., 1940 ed., relating to the filing of search warrants and companion papers, was omitted as unnecessary in view of Rule 41(f) of the Federal Rules of Criminal Procedure.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 41(f), referred to in text, was redesignated 41(g) by 1972 amendment eff. Oct. 1, 1972.
@@ -19,6 +21,8 @@ Rule 41(f), referred to in text, was redesignated 41(g) by 1972 amendment eff. O
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–578 substituted "Magistrates" for "Commissioners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

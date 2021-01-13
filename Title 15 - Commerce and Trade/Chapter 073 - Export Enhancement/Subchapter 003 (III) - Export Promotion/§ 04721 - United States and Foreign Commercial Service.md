@@ -20,7 +20,7 @@
 
 #### (b) Statement of purpose
 
-The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
+The Commercial Service shall place primary emphasis on the promotion of exports of goodsand services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
@@ -56,7 +56,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (4) Foreign offices
 
-&emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines thereare significant business opportunities for United States exporters.
+&emsp;(A) The Secretary may, after consultation with the Secretary of State, establish foreign offices of the Commercial Service. These offices shall be located in foreign cities in regions in which the Secretary determines there are significant business opportunities for United States exporters.
 
 &emsp;(B) The Secretary may, in consultation with the Secretary of State, assign to the foreign offices Commercial Service Officers and such other personnel as the Secretary considers necessary. In employing Commercial Service Officers and such other personnel, the Secretary shall use the Foreign Service personnel system in accordance with the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]. The Secretary shall designate a Commercial Officer <sup>1</sup> as head of each foreign office.
 

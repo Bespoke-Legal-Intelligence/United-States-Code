@@ -12,7 +12,7 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) ofthis title when the Administrator decides the exemption is in the public interest.
 
 (c)
 
@@ -88,7 +88,7 @@ Continuation of exemptions.—An exemption granted by the Secretary under this s
 
 (h)
 
-Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving theair carrier notice and an opportunity for a hearing.
+Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 115–254, div. B, title IV, §402, div. K, title I, §1991(c)(1), Oct. 5, 2018, 132 Stat. 3328, 3627.)
 

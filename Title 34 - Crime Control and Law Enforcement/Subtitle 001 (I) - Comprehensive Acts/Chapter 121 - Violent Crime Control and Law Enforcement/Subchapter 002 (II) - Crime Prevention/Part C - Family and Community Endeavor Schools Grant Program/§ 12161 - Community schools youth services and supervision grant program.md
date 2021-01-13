@@ -276,6 +276,8 @@ The Secretary shall conduct a thorough evaluation of the programs assisted under
 
 (Pub. L. 103–322, title III, §30401, Sept. 13, 1994, 108 Stat. 1846; Pub. L. 105–244, title I, §102(a)(13)(N), Oct. 7, 1998, 112 Stat. 1621.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (b), was in the original "this title", meaning title III of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1836. For complete classification of title III to the Code, see Tables.
@@ -291,6 +293,12 @@ Section was formerly classified to section 13791 of Title 42, The Public Health 
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–244 substituted "section 1001(i)" for "section 1141(i)" and "section 1001(d)" for "section 1141(d)" in definition for "public school".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Effective Date of 1998 Amendment
 

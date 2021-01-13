@@ -2,7 +2,7 @@
 
 (a) If a vessel or other property that has been captured by a force hostile to the United States is recaptured, and the court believes that the property had not been condemned as prize by competent authority before its recapture, the court shall award an appropriate sum as salvage.
 
-(b) If the recaptured property belonged to the United States, it shall be restored to the United States, and costs and expenses ordered to be paid by the court shall be paid from the Treasury.
+(b) If the recaptured property belonged to the United States, it shall be restored to the United States, and costs and expenses ordered to bepaid by the court shall be paid from the Treasury.
 
 (c) If the recaptured property belonged to any person residing within or under the protection of the United States, the court shall restore the property to its owner upon his claim and on payment of such sum as the court may award as salvage, costs, and expenses.
 

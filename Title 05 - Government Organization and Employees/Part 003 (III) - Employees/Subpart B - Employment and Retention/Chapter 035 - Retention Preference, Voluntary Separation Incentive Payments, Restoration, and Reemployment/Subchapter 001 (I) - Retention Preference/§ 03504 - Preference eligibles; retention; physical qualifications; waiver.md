@@ -28,9 +28,13 @@ The words "in the competitive service, an Executive agency, or the government of
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–454 designated existing provisions as subsec. (a), substituted "Office of Personnel Management" for "Civil Service Commission" and "Office" for "Commission", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

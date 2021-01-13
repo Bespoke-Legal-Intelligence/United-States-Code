@@ -1,12 +1,16 @@
 ### §32. Acting Director
 
-The Secretary of the Interior may authorize one of the geologists to act as Director of theUnited States Geological Survey in the absence of that officer.
+The Secretary of the Interior may authorize one of the geologists to act as Director of the United States Geological Survey in the absence of that officer.
 
 (July 31, 1894, ch. 174, §1, 28 Stat. 197; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
 "United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

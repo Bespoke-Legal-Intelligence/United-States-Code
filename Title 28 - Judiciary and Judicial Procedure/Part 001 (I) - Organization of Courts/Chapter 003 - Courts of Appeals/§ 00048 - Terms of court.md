@@ -20,7 +20,7 @@
 | Eleventh | Atlanta, Jacksonville, Montgomery. |
 | Federal | District of Columbia, and in any other place listed above as the court by rule directs. |
 
-(b) Each court of appeals may hold special sessions at any place within its circuit as the nature of the business may require, and upon suchnotice as the court orders. The court may transact any business at a special session which it might transact at a regular session.
+(b) Each court of appeals may hold special sessions at any place within its circuit as the nature of the business may require, and upon such notice as the court orders. The court may transact any business at a special session which it might transact at a regular session.
 
 (c) Any court of appeals may pretermit any regular session of court at any place for insufficient business or other good cause.
 
@@ -66,7 +66,9 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court of Appeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
+By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court ofAppeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -86,6 +88,8 @@ Subsec. (d). Pub. L. 97–164, §104(c), added subsec. (d).
 
 <b>1951</b>—Act Oct. 31, 1951, inserted last par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
@@ -100,5 +104,5 @@ Amendment by Pub. L. 96–452 effective Oct. 1, 1981, see section 12 of Pub. L. 
 
 #### Survey of Judicial Business in Alaska
 
-Pub. L. 86–70, §23(a), June 25, 1959, 73 Stat. 147, provided that: "The Judicial Conference of the UnitedStates, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice."
+Pub. L. 86–70, §23(a), June 25, 1959, 73 Stat. 147, provided that: "The Judicial Conference of the United States, with the assistance of the Administrative Office of the United States Courts, shall conduct a study, including a field survey, of the Federal judicial business arising in the State of Alaska with a view toward directing the United States Court of Appeals for the Ninth Circuit to hold such terms of court in Anchorage or such other Alaskan cities as may be necessary for the prompt and efficient administration of justice."
 

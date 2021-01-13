@@ -86,7 +86,7 @@ The administering authority may not accept an agreement under subsection (b) or 
 
 &emsp;(2) effective monitoring of the agreement by the United States is practicable.
 
-> Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extentpossible, an opportunity to submit comments thereon.
+> Where practicable, the administering authority shall provide to the exporters who would have been subject to the agreement the reasons for not accepting the agreement and, to the extent possible, an opportunity to submit comments thereon.
 
 #### (e) Suspension of investigation procedure
 
@@ -94,7 +94,7 @@ Before an investigation may be suspended under subsection (b) or (c) the adminis
 
 &emsp;(1) notify the petitioner of, and consult with the petitioner concerning, its intention to suspend the investigation, and notify other parties to the investigation and the Commission not less than 30 days before the date on which it suspends the investigation,
 
-&emsp;(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
+&emsp;(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced,and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
 
 &emsp;(3) permit all interested parties described in section 1677(9) of this title to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A).
 
@@ -158,11 +158,11 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (2) Commission investigation
 
-&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If theCommission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1673b(b) of this title had been made on that date.
+&emsp;Upon receipt of a review petition under paragraph (1), the Commission shall, within 75 days after the date on which the petition is filed with it, determine whether the injurious effect of imports of the subject merchandise is eliminated completely by the agreement. If the Commission's determination under this subsection is negative, the investigation shall be resumed on the date of publication of notice of such determination as if the affirmative preliminary determination under section 1673b(b) of this title had been made on that date.
 
 #### (3) Suspension of liquidation to continue during review period
 
-&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
+&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to thesuspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1673b(d)(2) of this title, and
 
@@ -294,9 +294,9 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) ofPub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

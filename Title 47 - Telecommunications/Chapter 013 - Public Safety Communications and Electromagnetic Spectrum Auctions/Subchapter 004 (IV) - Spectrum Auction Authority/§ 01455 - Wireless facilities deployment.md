@@ -106,6 +106,8 @@ In this section:
 
 (Pub. L. 112–96, title VI, §6409, Feb. 22, 2012, 126 Stat. 232; Pub. L. 115–141, div. P, title VI, §606(a), Mar. 23, 2018, 132 Stat. 1101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 704 of the Telecommunications Act of 1996, referred to in subsecs. (a)(1) and (c)(1), is section 704 of Pub. L. 104–104, title VII, Feb. 8, 1996, 110 Stat. 151. Subsec. (a) of section 704 of Pub. L. 104–104 amended section 332 of this title. Subsec. (b) of section 704 of Pub. L. 104–104 is not classified to the Code. Subsec. (c) of section 704 of Pub. L. 104–104 is set out as a note under section 332 of this title.
@@ -117,6 +119,8 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3) an
 #### Amendments
 
 <b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–141 added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Federal easements and rights-of-way, master contracts for wireless facility sitings, and definition of executive agency, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provisions
 
@@ -130,7 +134,7 @@ Real property authorities.—Nothing in this section \[amending this section and
 
 "(2)
 
-Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or anyother law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
+Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelopany Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

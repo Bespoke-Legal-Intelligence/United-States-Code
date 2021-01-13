@@ -6,11 +6,11 @@ Factors for Development.—In view of the provisions of the Constitution respect
 
 (b)
 
-Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission of Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts on the grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenueextending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
+Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission of Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts on the grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
 
 (c)
 
-Report to Mayor.—The Commission shall report promptly its recommendations to the Mayor, including any changes the Commission decides are necessary to prevent reasonably avoidable impairment of the public values belonging to the public building or park. If the Commission fails to report its approval or disapproval of a plan within 30 days, the report is deemed approved and a permit may be issued.
+Report to Mayor.—The Commission shall report promptly its recommendations to the Mayor, including any changes the Commission decides are necessary to prevent reasonably avoidable impairment of the public values belonging to the public building or park. If theCommission fails to report its approval or disapproval of a plan within 30 days, the report is deemed approved and a permit may be issued.
 
 (d)
 
@@ -39,6 +39,8 @@ In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning t
 In subsection (a), the words "it is hereby declared that" are omitted as unnecessary.
 
 In subsection (b), the words "To this end, hereafter" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

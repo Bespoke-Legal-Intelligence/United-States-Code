@@ -26,7 +26,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (2) Selection
 
-&emsp;In selecting the location of each modular component health care facility to be provided under the demonstration program, the Secretary shall give priority to projects already on the Indian Health Service facilities construction priority list and petitions which demonstrate that erection of a modular component health facility—
+&emsp;In selecting the location of each modular component health care facility to be providedunder the demonstration program, the Secretary shall give priority to projects already on the Indian Health Service facilities construction priority list and petitions which demonstrate that erection of a modular component health facility—
 
 &emsp;&emsp;(A) is more economical than construction of a traditionally constructed health care facility;
 
@@ -61,6 +61,8 @@ Not later than 1 year after the date on which funds are made available for the d
 There are authorized to be appropriated $50,000,000 to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be necessary to carry out the program in subsequent fiscal years.
 
 (Pub. L. 94–437, title III, §312, as added Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;Except as provided in regulations, the term "passive income" does not include any income—
 
-&emsp;&emsp;(A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States\(or, to the extent provided in regulations, by any other corporation),
+&emsp;&emsp;(A) derived in the active conduct of a banking business by an institution licensed to do business as a bank in the United States (or, to the extent provided in regulations, by any other corporation),
 
 &emsp;&emsp;(B) derived in the active conduct of an insurance business by a qualifying insurance corporation (as defined in subsection (f)),
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (c) Look-thru in the case of 25-percent owned corporations
 
-If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stock of another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
+If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stockof another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
 
 &emsp;(1) held its proportionate share of the assets of such other corporation, and
 

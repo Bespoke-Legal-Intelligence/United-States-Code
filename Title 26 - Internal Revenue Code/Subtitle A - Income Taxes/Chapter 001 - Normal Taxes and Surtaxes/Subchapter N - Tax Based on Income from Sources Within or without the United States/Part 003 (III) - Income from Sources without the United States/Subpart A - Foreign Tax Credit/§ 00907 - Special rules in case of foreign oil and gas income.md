@@ -152,7 +152,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that orderand to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
 
 #### (2) Limitation
 
@@ -216,7 +216,7 @@ Subsec. (c)(5). Pub. L. 115–97, §14301(c)(26), struck out "902 or" after "und
 
 Subsec. (f)(2)(B)(i). Pub. L. 115–97, §14301(c)(27), struck out "902 or" after "under section".
 
-<b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
+<b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the dateof the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
 
 &emsp;"(i) by substituting 'oil and gas extraction taxes' for 'foreign oil and gas taxes' each place it appears in paragraphs (1), (2), and (3), and
 
@@ -272,7 +272,7 @@ Subsec. (f)(3)(A). Pub. L. 97–248, §211(d)(2)(B)(ii), substituted "section 90
 
 Subsec. (f)(3)(B). Pub. L. 97–248, §211(d)(2)(B)(iii), struck out "oil-related" after "determining the amount of".
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §§301(b)(14), 701(u)(8)(A), designated existing provisions as subpar. (A), inserted applicability to corporations and generally reworked applicable formula, and added subpar. (B).
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §§301(b)(14), 701(u)(8)(A), designated existing provisions as subpar.\(A), inserted applicability to corporations and generally reworked applicable formula, and added subpar. (B).
 
 Subsec. (b). Pub. L. 95–600, §701(u)(8)(B), substituted provisions relating to applicability of section 904 separately to foreign oil related income and other taxable income for provisions relating to applicability of section 904 to corporations and other taxpayers.
 

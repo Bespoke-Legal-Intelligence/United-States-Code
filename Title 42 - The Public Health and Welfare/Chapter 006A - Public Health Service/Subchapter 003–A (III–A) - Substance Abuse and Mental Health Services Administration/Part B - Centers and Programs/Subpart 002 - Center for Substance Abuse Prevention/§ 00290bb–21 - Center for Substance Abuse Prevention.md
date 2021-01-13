@@ -18,7 +18,7 @@ The Director of the Prevention Center shall—
 
 &emsp;(5) in cooperation with the Secretary of Education, assure the widespread dissemination of prevention materials among States, political subdivisions, and school systems;
 
-&emsp;(6) support clinical training programs for health professionals who provide substanceuse and misuse prevention and treatment services and other health professionals involved in illicit drug use education and prevention;
+&emsp;(6) support clinical training programs for health professionals who provide substance use and misuse prevention and treatment services and other health professionals involved in illicit drug use education and prevention;
 
 &emsp;(7) in cooperation with the Director of the Centers for Disease Control and Prevention, develop and disseminate educational materials to increase awareness for individuals at greatest risk for substance use disorders to prevent the transmission of communicable diseases, such as HIV, hepatitis, tuberculosis, and other communicable diseases;
 

@@ -16,6 +16,8 @@ The purposes of this subchapter are to—
 
 (June 19, 1934, ch. 652, title VI, §601, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2780.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 98–549, §9(a), Oct. 30, 1984, 98 Stat. 2806, provided that: "Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and section 611 of this title, amending sections 152, 224, 309, and 605 of this title, section 2511 of Title 18, Crimes and Criminal Procedure, and section 1805 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\]."
@@ -56,13 +58,13 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;&emsp;"(D) absent carriage requirements there is a substantial likelihood that citizens, who have supported local public television services, will be deprived of those services.
 
-&emsp;"(9) The Federal Government has a substantial interest in having cable systems carry the signals oflocal commercial television stations because the carriage of such signals is necessary to serve the goals contained in section 307(b) of the Communications Act of 1934 \[47 U.S.C. 307(b)\] of providing a fair, efficient, and equitable distribution of broadcast services.
+&emsp;"(9) The Federal Government has a substantial interest in having cable systems carry the signals of local commercial television stations because the carriage of such signals is necessary to serve the goals contained in section 307(b) of the Communications Act of 1934 \[47 U.S.C. 307(b)\] of providing a fair, efficient, and equitable distribution of broadcast services.
 
 &emsp;"(10) A primary objective and benefit of our Nation's system of regulation of television broadcasting is the local origination of programming. There is a substantial governmental interest in ensuring its continuation.
 
 &emsp;"(11) Broadcast television stations continue to be an important source of local news and public affairs programming and other local broadcast services critical to an informed electorate.
 
-&emsp;"(12) Broadcast television programming is supported by revenues generated from advertising broadcast over stations. Such programming is otherwise free to those who own television sets and do not require cable transmission to receive broadcast signals. There is a substantial governmental interest in promoting the continued availability of such free television programming, especially for viewers who are unable to afford other means of receiving programming.
+&emsp;"(12) Broadcast television programming is supported by revenues generated from advertising broadcast over stations. Such programming is otherwise free to those who own television sets and do not require cable transmission to receive broadcast signals. There is a substantial governmental interest in promoting the continued availability of such free television programming, especially for viewers who areunable to afford other means of receiving programming.
 
 &emsp;"(13) As a result of the growth of cable television, there has been a marked shift in market share from broadcast television to cable television services.
 
@@ -102,7 +104,7 @@ Pub. L. 102–385, §26, Oct. 5, 1992, 106 Stat. 1502, directed Federal Communic
 
 #### Applicability of Antitrust Laws to Pub. L. 102–385
 
-Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: "Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any mannerthe applicability of any Federal or State antitrust law."
+Pub. L. 102–385, §27, Oct. 5, 1992, 106 Stat. 1503, provided that: "Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law."
 
 #### Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems
 

@@ -22,7 +22,7 @@
 
 #### (2) Under Secretary for Arms Control and International Security
 
-&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the Presidentand the Secretary of State on Arms Control and Nonproliferation Matters.
+&emsp;There shall be in the Department of State, among the Under Secretaries authorized by paragraph (1), an Under Secretary for Arms Control and International Security, who shall assist the Secretary and the Deputy Secretary in matters related to international security policy, arms control, and nonproliferation. Subject to the direction of the President, the Under Secretary may attend and participate in meetings of the National Security Council in his role as Senior Advisor to the President and the Secretary of State on Arms Control and Nonproliferation Matters.
 
 #### (3) Under Secretary for Public Diplomacy
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
+&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the ExecutiveSchedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
@@ -88,6 +88,10 @@
 
 &emsp;&emsp;&emsp;(viii) Such other related duties as the Secretary may from time to time designate.
 
+#### (C) Coordination
+
+&emsp;&emsp;The Assistant Secretary authorized under subparagraph (A) shall coordinate with the Office of Sanctions Coordination established under subsection (h) with respect to the development and implementation of economic sanctions.
+
 #### (4) Nomination of Assistant Secretaries
 
 &emsp;Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
@@ -110,7 +114,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (B) Duties described
 
-&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on internationalcounterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
 
 #### (3) Rank and status of Ambassador
 
@@ -168,7 +172,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VII) Holding annual consultations with nongovernmental organizations in partner countries that provide services to improve health, and advocating on behalf of the individuals with HIV/AIDS and those at particular risk of contracting HIV/AIDS, including organizations with members who are living with HIV/AIDS.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, that HIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
+&emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, thatHIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
 
 &emsp;&emsp;&emsp;&emsp;(IX) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Vietnam, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program. In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.
 
@@ -214,7 +218,51 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070.)
+#### (h) Office of Sanctions Coordination
+
+#### (1) In general
+
+&emsp;There is established, within the Department of State, an Office of Sanctions Coordination (in this subsection referred to as the "Office").
+
+#### (2) Head
+
+&emsp;The head of the Office shall—
+
+&emsp;&emsp;(A) have the rank and status of ambassador;
+
+&emsp;&emsp;(B) be appointed by the President, by and with the advice and consent of the Senate; and
+
+&emsp;&emsp;(C) report directly to the Secretary of State.
+
+#### (3) Duties
+
+&emsp;The head of the Office shall—
+
+&emsp;&emsp;(A) exercise sanctions authorities delegated to the Secretary;
+
+&emsp;&emsp;(B) serve as the principal advisor to the senior management of the Department and the Secretary regarding the development and implementation of sanctions policy;
+
+&emsp;&emsp;(C) serve as the lead representative of the United States in diplomatic engagement on sanctions matters;
+
+&emsp;&emsp;(D) consult and closely coordinate with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea, to ensure the maximum effectiveness of sanctions imposed by the United States and such allies and partners;
+
+&emsp;&emsp;(E) serve as the coordinator for the development and implementation of sanctions policy with respect to all activities, policies, and programs of all bureaus and offices of the Department relating to the development and implementation of sanctions policy; and
+
+&emsp;&emsp;(F) serve as the lead representative of the Department in interagency discussions with respect to the development and implementation of sanctions policy.
+
+#### (4) Direct hire authority
+
+#### (A) In general
+
+&emsp;&emsp;The head of the Office may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the Office.
+
+#### (B) Termination
+
+&emsp;&emsp;The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
+
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -229,6 +277,10 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(3)(C). Pub. L. 116–260, §361(a)(2), added subpar. (C).
+
+Subsec. (h). Pub. L. 116–260, §361(a)(1), added subsec. (h).
 
 <b>2019</b>—Subsec. (c)(3), (4). Pub. L. 116–94 added par. (3) and redesignated former par. (3) as (4).
 
@@ -298,6 +350,8 @@ Subsec. (a)(2). Pub. L. 103–415 inserted "and the Deputy Secretary of State" a
 
 <b>1982</b>—Pub. L. 97–241 substituted "The Secretary" for "That the Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
@@ -319,6 +373,64 @@ Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended b
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Sanctions Policy Coordination with Allies and Partners of United States
+
+Pub. L. 116–260, div. FF, title III, §361(b)–(d), Dec. 27, 2020, 134 Stat. 3132, 3133, provided that:
+
+"(b)
+
+Coordination With Allies and Partners of the United States.—
+
+&emsp;"(1)
+
+In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2651a(h)\], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea.
+
+&emsp;"(2)
+
+Information sharing.—The Secretary should pursue the development and implementation of mechanisms and programs under paragraph (1), as appropriate, that involve the sharing of information with respect to policy development and sanctions implementation.
+
+&emsp;"(3)
+
+Capacity building.—The Secretary should pursue efforts, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, to assist allies and partners of the United States, including the countries specified in paragraph (1), as appropriate, in the development of their legal and technical capacities to develop and implement sanctions authorities.
+
+&emsp;"(4)
+
+Exchange programs.—In furtherance of the efforts described in paragraph (3), the Secretary, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, may enter into agreements with counterpart agencies in foreign governments establishing exchange programs for the temporary detail of Federal Government employees to share information and expertise with respect to the development and implementation of sanctions authorities.
+
+&emsp;"(5)
+
+Briefing required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2020\] and every 180 days thereafter until the date that is five years after such date of enactment, the Secretary of State shall brief the appropriate congressional committees on the efforts of the Department of State to implement this section, including a description of—
+
+&emsp;&emsp;"(A) measures taken to implement paragraph (1);
+
+&emsp;&emsp;"(B) actions taken pursuant to paragraphs (2) through (4);
+
+&emsp;&emsp;"(C) the extent of coordination between the United States and allies and partners of the United States, including the countries specified in paragraph (1), with respect to the development and implementation of sanctions policy; and
+
+&emsp;&emsp;"(D) obstacles preventing closer coordination between the United States and such allies and partners with respect to the development and implementation of sanctions policy.
+
+"(c)
+
+Sense of Congress.—It is the sense of the Congress that the President should appoint a coordinator for sanctions and national economic security issues within the framework of the National Security Council.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and
+
+&emsp;"(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform, and the Committee on Way \[sic\] and Means of the House of Representatives."
+
+#### Additional Paid Leave To Address Employee Hardships Resulting From Coronavirus
+
+Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, provided that: "Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: <i>Provided</i>, That this authority shall apply to leave taken since January 29, 2020, and may be provided abroad and domestically: <i>Provided further</i>, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2022."
+
+\[For definition of "coronavirus" as used in section 21007 of Pub. L. 116–136, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
+
+#### Oaths of Office Administered Remotely
+
+Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
@@ -462,11 +574,11 @@ Limitation.—Amounts authorized to be appropriated for minority recruitment und
 
 "(b)
 
-Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of theHispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
+Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of the Hispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
 
 "(c)
 
-Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\]."
+Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the ForeignService and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\]."
 
 #### State Department Official for Northeastern Europe
 
@@ -506,6 +618,12 @@ Pub. L. 103–236, title I, §161(e), Apr. 30, 1994, 108 Stat. 404, which establ
 
 Pub. L. 103–236, title I, §161(f), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(3), Oct. 25, 1994, 108 Stat. 4300, which conditioned availability of 1995 appropriations upon establishment of position within Department of State of Deputy Assistant Secretary for Burdensharing and set forth responsibilities of position, was repealed by Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2302, Oct. 21, 1998, 112 Stat. 2681–825.
 
+#### Definitions
+
+For definitions of "Secretary", "Department", and "appropriate congressional committees" as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
+
+#### <b>Executive Documents</b>
+
 #### Authorization To Redelegate Certain Responsibilities Vested in the President and Delegated to the Secretary of State
 
 Memorandum of President of the United States, Nov. 4, 1997, 62 F.R. 60995, provided:
@@ -519,10 +637,6 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
-
-#### Definitions
-
-For definitions of "Secretary", "Department", and "appropriate congressional committees" as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
 

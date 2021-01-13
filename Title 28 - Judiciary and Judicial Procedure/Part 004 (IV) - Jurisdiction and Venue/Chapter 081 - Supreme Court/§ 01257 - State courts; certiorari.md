@@ -22,6 +22,8 @@ The last sentence in said section 344(b) relating to the right to relief under b
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–352 struck out "appeal;" before "certiorari" in section catchline and amended text generally. Prior to amendment, text read as follows: "Final judgments or decrees rendered by the highest court of a State in which a decision could be had, may be reviewed by the Supreme Court as follows:
@@ -36,9 +38,11 @@ Changes were made in phraseology.
 
 <b>1970</b>—Pub. L. 91–358 provided that for the purposes of this section, the term "highest court of a State" includes the District of Columbia Court of Appeals.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not toapply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 
 #### Effective Date of 1970 Amendment
 

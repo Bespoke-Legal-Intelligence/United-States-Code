@@ -1,10 +1,12 @@
 ### §6133. Chiefs of Staff for Senate Majority and Minority Leaders; appointment; compensation
 
-(a) There is established within the Offices of the Majority and Minority Leaders the positions of Chief of Staff for the Majority Leader and Chief of Staff for the Minority Leader, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader.
+(a) There is established within the Offices of the Majority and Minority Leaders the positionsof Chief of Staff for the Majority Leader and Chief of Staff for the Minority Leader, respectively. Individuals appointed to such positions by the Majority Leader and Minority Leader, respectively, shall receive compensation at a rate fixed by the appropriate Leader.
 
 (b) Gross compensation for employees filling positions established by subsection (a) for the fiscal year ending September 30, 1987, shall be paid out of any funds available in the Senate appropriation for such year under the item "Salaries, Officers and Employees".
 
 (Pub. L. 101–163, title I, §9, Nov. 21, 1989, 103 Stat. 1046; Pub. L. 116–94, div. E, title II, §212(a)(3)(F), Dec. 20, 2019, 133 Stat. 2776.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -15,6 +17,8 @@ Section is based on Senate Resolution No. 89, One Hundredth Congress, Jan. 28, 1
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–94 substituted "by the appropriate Leader." for "by the appropriate Leader not to exceed the maximum annual rate of gross compensation of the Assistant Secretary of the Senate."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

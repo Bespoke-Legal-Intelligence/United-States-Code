@@ -66,7 +66,7 @@ Nothing in this chapter may be construed—
 
 &emsp;(2) to allow any person to coerce any tribe or tribal organization to apply for, or accept,
 
-> a grant under this chapter to plan, conduct, and administer all of, or any portion of, any Bureau program. Such applications and the timing of such applications shall be strictly voluntary. Nothing in this chapter may be construed as allowing or requiring any grant with any entity other than the entity to which the grant is provided.
+> a grant under this chapter to plan, conduct, and administer all of, or any portion of, any Bureauprogram. Such applications and the timing of such applications shall be strictly voluntary. Nothing in this chapter may be construed as allowing or requiring any grant with any entity other than the entity to which the grant is provided.
 
 #### (e) No effect on Federal responsibility
 
@@ -76,7 +76,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 #### (1) In general
 
-&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, theSecretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
+&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
 
 #### (2) Status after retrocession
 
@@ -96,6 +96,8 @@ Grants provided under this chapter may not be terminated, modified, suspended, o
 
 (Pub. L. 100–297, title V, §5203, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2064.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
@@ -105,6 +107,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 #### Prior Provisions
 
 A prior section 2502, Pub. L. 100–297, title V, §5203, Apr. 28, 1988, 102 Stat. 385, set forth declaration of policy, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2501 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

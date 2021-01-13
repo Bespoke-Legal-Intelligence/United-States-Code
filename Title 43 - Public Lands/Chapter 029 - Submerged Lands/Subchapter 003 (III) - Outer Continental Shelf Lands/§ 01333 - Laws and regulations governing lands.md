@@ -2,9 +2,27 @@
 
 #### (a) Constitution and United States laws; laws of adjacent States; publication of projected State lines; international boundary disputes; restriction on State taxation and jurisdiction
 
-(1) The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: <i>Provided, however</i>, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
+(1)
 
-(2)(A) To the extent that they are applicable and not inconsistent with this subchapter or with other Federal laws and regulations of the Secretary now in effect or hereafter adopted, the civil and criminal laws of each adjacent State, now in effect or hereafter adopted, amended, or repealed are declared to be the law of the United States for that portion of the subsoil and seabed of the outer Continental Shelf, and artificial islands and fixed structures erected thereon, which would be within the area of the State ifits boundaries were extended seaward to the outer margin of the outer Continental Shelf, and the President shall determine and publish in the Federal Register such projected lines extending seaward and defining each such area. All of such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. State taxation laws shall not apply to the outer Continental Shelf.
+Jurisdiction of the united states on the outer continental shelf.—
+
+&emsp;(A)
+
+In general.—The Constitution and laws and civil and political jurisdiction of the United States are extended, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State, to—
+
+&emsp;&emsp;(i) the subsoil and seabed of the outer Continental Shelf;
+
+&emsp;&emsp;(ii) all artificial islands on the outer Continental Shelf;
+
+&emsp;&emsp;(iii) installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources, including non-mineral energy resources; or
+
+&emsp;&emsp;(iv) any such installation or other device (other than a ship or vessel) for the purpose of transporting or transmitting such resources.
+
+&emsp;(B)
+
+Leases issued exclusively under this act.—Mineral or energy leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
+
+(2)(A) To the extent that they are applicable and not inconsistent with this subchapter or with other Federal laws and regulations of the Secretary now in effect or hereafter adopted, the civil and criminal laws of each adjacent State, now in effect or hereafter adopted, amended, or repealed are declared to be the law of the United States for that portion of the subsoil and seabed of the outer Continental Shelf, and artificial islands and fixed structures erected thereon, which would be within the area of the State if its boundaries were extended seaward to the outer margin of the outer Continental Shelf, and the President shall determine and publish in the Federal Register such projected lines extending seaward and defining each such area. All of such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. State taxation laws shall not apply to the outer Continental Shelf.
 
 (B) Within one year after September 18, 1978, the President shall establish procedures for setting <sup>1</sup> any outstanding international boundary dispute respecting the outer Continental Shelf.
 
@@ -22,7 +40,7 @@ With respect to disability or death of an employee resulting from any injury occ
 
 #### (c) National Labor Relations Act applicable
 
-For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
+For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], anyunfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
 
 #### (d) Coast Guard regulations; marking of artificial islands, installations, and other devices; failure of owner suitably to mark according to regulations
 
@@ -38,7 +56,9 @@ The authority of the Secretary of the Army to prevent obstruction to navigation 
 
 The specific application by this section of certain provisions of law to the subsoil and seabed of the outer Continental Shelf and the artificial islands, installations, and other devices referred to in subsection (a) or to acts or offenses occurring or committed thereon shall not give rise to any inference that the application to such islands and structures, acts, or offenses of any other provision of law is not intended.
 
-(Aug. 7, 1953, ch. 345, §4, 67 Stat. 462; Pub. L. 93–627, §19(f), Jan. 3, 1975, 88 Stat. 2146; Pub. L. 95–372, title II, §203, Sept. 18, 1978, 92 Stat. 635; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Aug. 7, 1953, ch. 345, §4, 67 Stat. 462; Pub. L. 93–627, §19(f), Jan. 3, 1975, 88 Stat. 2146; Pub. L. 95–372, title II, §203, Sept. 18, 1978, 92 Stat. 635; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654; Pub. L. 116–283, div. H, title XCV, §9503, Jan. 1, 2021, 134 Stat. 4822.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,9 +68,11 @@ The National Labor Relations Act, as amended, referred to in subsec. (c), is act
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: <i>Provided, however</i>, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter."
+
 <b>1984</b>—Subsec. (b). Pub. L. 98–426 substituted "Longshore and Harbor Workers' Compensation Act" for "Longshoremen's and Harbor Workers' Compensation Act".
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–372, §203(a), substituted ", and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or anysuch installation or other device (other than a ship or vessel) for the purpose of transporting such resources," for "and fixed structures which may be erected thereon for the purpose of exploring for, developing, removing, and transporting resources therefrom,".
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–372, §203(a), substituted ", and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources," for "and fixed structures which may be erected thereon for the purpose of exploring for, developing, removing, and transporting resources therefrom,".
 
 Subsec. (a)(2). Pub. L. 95–372, §203(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -60,13 +82,15 @@ Subsec. (c). Pub. L. 95–372, §203(d), (h), redesignated subsec. (d) as (c) an
 
 Subsec. (d)(1). Pub. L. 95–372, §203(e)(1), (f), (h), redesignated subsec. (e)(1) as (d)(1), substituted "Secretary" for "head" and "artificial islands, installations, and other devices" for "islands and structures". Former subsec. (d) redesignated (c).
 
-Subsec. (d)(2). Pub. L. 95–372, §203(g), (h), redesignated subsec. (e)(2) as (d)(2) and substituted "Secretary" for "head" and "artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking" for "such island or structure whenever the owner has failed suitably to mark the same in accordance with regulations issued hereunder, and the owner shall pay the cost thereof", and struck out provisions which had made failure or refusal to obey any lawful rules and regulations a misdemeanor punishable by a fine of not more than $100, with each day during which such a violation would continue to be deemed a new offense. Former subsec. (d) redesignated (c).
+Subsec. (d)(2). Pub. L. 95–372, §203(g), (h), redesignated subsec. (e)(2) as (d)(2) and substituted "Secretary" for "head" and "artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issuedunder this subchapter, and the owner shall pay the cost of such marking" for "such island or structure whenever the owner has failed suitably to mark the same in accordance with regulations issued hereunder, and the owner shall pay the cost thereof", and struck out provisions which had made failure or refusal to obey any lawful rules and regulations a misdemeanor punishable by a fine of not more than $100, with each day during which such a violation would continue to be deemed a new offense. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 95–372, §203(e)(2), (h), redesignated subsec. (f) as (e) and substituted "the artificial islands, installations, and other devices referred to in subsection (a)" for "artificial islands and fixed structures located on the outer Continental Shelf". Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) as (f) and substituted "the artificial islands, installations, and other devices" for "the artificial islands and fixed structures". Former subsec. (f) redesignated (e).
 
 <b>1975</b>—Subsec. (a)(2). Pub. L. 93–627 substituted "now in effect or hereafter adopted, amended, or repealed" for "as of the effective date of this Act" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

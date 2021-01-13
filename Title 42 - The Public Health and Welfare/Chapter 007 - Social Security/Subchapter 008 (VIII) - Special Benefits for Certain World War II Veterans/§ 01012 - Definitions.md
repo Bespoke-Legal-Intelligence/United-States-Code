@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(i) in the active military, naval, or air service of the United States during World War II; or
 
-&emsp;&emsp;&emsp;(ii) in the organized military forces of the Government of the Commonwealth of the Philippines, while the forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among the military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, in any case in which theservice was rendered before December 31, 1946; and
+&emsp;&emsp;&emsp;(ii) in the organized military forces of the Government of the Commonwealth of the Philippines, while the forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among the military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, in any case in which the service was rendered before December 31, 1946; and
 
 &emsp;&emsp;(B) was discharged or released therefrom under conditions other than dishonorable—
 

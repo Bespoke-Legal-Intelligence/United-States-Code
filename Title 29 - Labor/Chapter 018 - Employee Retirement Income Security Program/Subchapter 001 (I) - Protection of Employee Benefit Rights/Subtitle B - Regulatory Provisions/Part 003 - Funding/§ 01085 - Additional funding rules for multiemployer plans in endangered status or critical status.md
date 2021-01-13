@@ -632,7 +632,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii)(I) In the case of a participant or beneficiary who has attained 75 years of age as of the effective date of the suspension, not more than the applicable percentage of the maximum suspendable benefits of such participant or beneficiary may be suspended under this paragraph.
 
-&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the maximum suspendable benefits of a participant or beneficiary is the portion of the benefits of such participant or beneficiary that would be suspended pursuant to this paragraph without regard to this clause;
+&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the maximum suspendable benefits of a participant or beneficiary is the portion of the benefits of such participant or beneficiarythat would be suspended pursuant to this paragraph without regard to this clause;
 
 &emsp;&emsp;&emsp;(III) For purposes of subclause (I), the applicable percentage is a percentage equal to the quotient obtained by dividing—
 
@@ -696,7 +696,7 @@ For purposes of this section—
 
 #### (I) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The projected value of the total liabilities for benefit improvements for participants and beneficiaries not in pay status by the date of the first day of the plan year in which the benefit improvements are proposed to take effect, as determined as of such date, may not exceed the projected value of the liabilities arising from benefit improvements for participants and beneficiaries with benefit commencement dates prior to the first day of such plan year, as so determined.
+&emsp;&emsp;&emsp;&emsp;The projected value of the total liabilities for benefit improvements for participants and beneficiaries not in pay status by the date of the first day of the plan year in which the benefit improvements are proposed to take effect, as determined as of such date, may not exceed the projected value of the liabilities arising from benefit improvements for participants and beneficiaries with benefitcommencement dates prior to the first day of such plan year, as so determined.
 
 #### (II) Equitable distribution of benefits
 
@@ -762,7 +762,7 @@ For purposes of this section—
 
 #### (iv) Other notice requirement
 
-&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of a significant reduction in benefits described in section 1054(h) of this title.
+&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of asignificant reduction in benefits described in section 1054(h) of this title.
 
 #### (v) Model notice
 
@@ -808,7 +808,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) A statement in opposition to the suspension compiled from comments received pursuant to subparagraph (G)(ii).
 
-&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary ofthe Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(III) A statement that the suspension has been approved by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor.
 
 &emsp;&emsp;&emsp;&emsp;(IV) A statement that the plan sponsor has determined that the plan will become insolvent unless the suspension takes effect.
 
@@ -864,11 +864,11 @@ For purposes of this section—
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits underthis paragraph in accordance with section 706 of title 5.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court shall review an action challenging a suspension of benefits under this paragraph in accordance with section 706 of title 5.
 
 #### (bb) Temporary injunction
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court reviewing an action challenging a suspension of benefits under this paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court reviewing an action challenging a suspension of benefits underthis paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
 
 #### (iii) Restricted cause of action
 
@@ -932,11 +932,11 @@ For purposes of this section—
 
 #### (1) Benefit reduction
 
-&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>7</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining anemployer's withdrawal liability under section 1381 of this title.
+&emsp;Any benefit reductions under subsection (e)(8) or (f) or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)),<sup>7</sup> unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status, shall be disregarded in determining a plan's unfunded vested benefits for purposes of determining an employer's withdrawal liability under section 1381 of this title.
 
 #### (2) Surcharges
 
-&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title, except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title.
+&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocationof unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title, except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title.
 
 #### (3) Contribution increases required by funding improvement or rehabilitation plan
 
@@ -1034,6 +1034,8 @@ For purposes of this section—
 
 (Pub. L. 93–406, title I, §305, as added Pub. L. 109–280, title II, §202(a), Aug. 17, 2006, 120 Stat. 868; amended Pub. L. 110–458, title I, §102(b)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5100, 5101; Pub. L. 113–235, div. O, title I, §§102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, §201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, 128 Stat. 2774, 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
@@ -1086,7 +1088,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 113–235, §105(a)(2), substituted "the last pla
 
 Subsec. (c)(7). Pub. L. 113–235, §107(a)(1), amended par. (7) generally. Prior to amendment, par. (7) related to imposition of default schedule where failure to adopt funding improvement plan.
 
-Subsec. (d). Pub. L. 113–235, §106(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to rules for operation of plan during adoption and improvement periods.
+Subsec. (d). Pub. L. 113–235, §106(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) relatedto rules for operation of plan during adoption and improvement periods.
 
 Subsec. (e)(3)(C). Pub. L. 113–235, §107(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to imposition of default schedule where failure to adopt rehabilitation plan.
 
@@ -1138,6 +1140,8 @@ Subsec. (f)(2)(A)(i). Pub. L. 110–458, §102(b)(1)(F), inserted at end "to a p
 
 Subsec. (g). Pub. L. 110–458, §102(b)(1)(G), inserted "under subsection (c)" before "or a rehabilitation plan under subsection (e)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by section 102(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 102(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
@@ -1160,11 +1164,11 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date
 
-Section applicable with respect to plan years beginning after 2007, with special rules for certain noticesand certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
+Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
 
 #### Guidance
 
-Pub. L. 113–235, div. O, title II, §201(a)(8), Dec. 16, 2014, 128 Stat. 2810, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(9))."
+Pub. L. 113–235, div. O, title II, §201(a)(8), Dec. 16, 2014, 128 Stat. 2810, provided that: "Not later than 180 daysafter the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(9))."
 
 #### Temporary Delay of Designation of Multiemployer Plans as in Endangered or Critical Status
 

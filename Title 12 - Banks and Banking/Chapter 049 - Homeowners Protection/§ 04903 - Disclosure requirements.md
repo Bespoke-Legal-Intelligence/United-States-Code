@@ -30,7 +30,7 @@
 
 #### (2) Disclosures for excepted transactions
 
-&emsp;In the case of a residential mortgage transaction described in section 4902(g)(1) of this title, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
+&emsp;In the case of a residential mortgage transaction described in section 4902(g)(1) of thistitle, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
 
 #### (3) Annual disclosures
 
@@ -62,6 +62,8 @@ The mortgagee or servicer may use standardized forms for the provision of disclo
 
 (Pub. L. 105–216, §4, July 29, 1998, 112 Stat. 902; Pub. L. 106–569, title IV, §§402(c)(2), 403(b), Dec. 27, 2000, 114 Stat. 2957.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
@@ -79,6 +81,8 @@ Subsec. (a)(2). Pub. L. 106–569, §§402(c)(2)(B), 403(b)(1)(B), substituted "
 Subsec. (c). Pub. L. 106–569, §403(b)(2), substituted "subsection (a)(3)" for "paragraphs (1)(B) and (3) of subsection (a)".
 
 Subsec. (d). Pub. L. 106–569, §403(b)(3), inserted before period at end ", which disclosures shall relate to the mortgagor's rights under this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

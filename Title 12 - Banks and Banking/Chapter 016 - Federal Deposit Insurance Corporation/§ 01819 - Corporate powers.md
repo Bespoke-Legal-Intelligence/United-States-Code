@@ -70,6 +70,8 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 (Sept. 21, 1950, ch. 967, §2\[9\], 64 Stat. 881; Pub. L. 89–695, title II, §205, Oct. 16, 1966, 80 Stat. 1055; Pub. L. 95–630, title III, §309, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 101–73, title II, §209, Aug. 9, 1989, 103 Stat. 216; Pub. L. 102–242, title I, §161(d), Dec. 19, 1991, 105 Stat. 2286; Pub. L. 103–325, title III, §331(e), Sept. 23, 1994, 108 Stat. 2232.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Section is derived from subsec. (j) of former section 264 of this title. See Codification note set out under section 1811 of this title.
@@ -82,7 +84,7 @@ Section is derived from subsec. (j) of former section 264 of this title. See Cod
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73, §209(2), designated existing provisions as subsec. (a) and inserted heading.
 
-Pub. L. 101–73, §209(3), amended par. Fourth generally. Prior to amendment, par. Fourth read as follows: "Fourth. To sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy; and the Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Corporation is a party in its capacity as receiver of a State bank and which involves only the rights or obligations of depositors, creditors, stockholders, and such State bank under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Corporation or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board of Directors shall designate an agent upon whom service of process may be made in any State, Territory, or jurisdiction in which any insured bank is located."
+Pub. L. 101–73, §209(3), amended par. Fourth generally. Prior to amendment, par. Fourth read as follows: "Fourth. To sue and be sued, complain and defend, in any court of law or equity, State or Federal. All suits of a civil nature at common law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the United States district courts shall have original jurisdiction thereof, without regard to the amount in controversy; and the Corporation may, without bond or security, remove any such action, suit, or proceeding from a State court to the United States district courtfor the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect, except that any such suit to which the Corporation is a party in its capacity as receiver of a State bank and which involves only the rights or obligations of depositors, creditors, stockholders, and such State bank under State law shall not be deemed to arise under the laws of the United States. No attachment or execution shall be issued against the Corporation or its property before final judgment in any suit, action, or proceeding in any State, county, municipal, or United States court. The Board of Directors shall designate an agent upon whom service of process may be made in any State, Territory, or jurisdiction in which any insured bank is located."
 
 Pub. L. 101–73, §209(1), in par. Eighth, substituted reference to depository institutions for reference to banks.
 
@@ -91,6 +93,8 @@ Subsec. (b). Pub. L. 101–73, §209(4), added subsec. (b).
 <b>1978</b>—Pub. L. 95–630 in par. Tenth inserted "or of any other law which it has the responsibility of administering or enforcing (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency)" after "provisions of this chapter".
 
 <b>1966</b>—Pub. L. 89–695 in par. Fourth vested United States district courts, without regard to the amount in controversy, with original jurisdiction over any action to which the Corporation is a party and authorized the removal of such actions to the Federal courts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

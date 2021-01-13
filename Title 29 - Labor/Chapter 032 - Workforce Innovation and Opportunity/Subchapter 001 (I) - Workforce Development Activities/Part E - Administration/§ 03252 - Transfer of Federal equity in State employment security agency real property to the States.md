@@ -10,6 +10,8 @@ A State shall not use funds awarded under this Act, title III of the Social Secu
 
 (Pub. L. 113–128, title I, §192, July 22, 2014, 128 Stat. 1604.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -18,7 +20,9 @@ The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat
 
 This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

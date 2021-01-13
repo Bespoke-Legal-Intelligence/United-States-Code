@@ -78,7 +78,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(A) The activities necessary for the review of submissions in connection with biosimilar biological product development, biosimilar biological product applications, and supplements.
 
-&emsp;&emsp;(B) Actions related to submissions in connection with biosimilar biological product development, the issuance of action letters which approve biosimilar biological product applications or which set forth in detail the specific deficiencies in such applications, and where appropriate, the actions necessary to place such applications in condition for approval.
+&emsp;&emsp;(B) Actions related to submissions in connection with biosimilar biological productdevelopment, the issuance of action letters which approve biosimilar biological product applications or which set forth in detail the specific deficiencies in such applications, and where appropriate, the actions necessary to place such applications in condition for approval.
 
 &emsp;&emsp;(C) The inspection of biosimilar biological product establishments and other facilities undertaken as part of the Secretary's review of pending biosimilar biological product applications and supplements.
 
@@ -106,11 +106,15 @@ For purposes of this subpart:
 
 <i>For termination of section by section 405(a) of Pub. L. 115–52, see Effective and Termination Dates note set out below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (1). Pub. L. 115–52, §402(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'adjustment factor' applicable to a fiscal year that is the Consumer Price Index for all urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items) of the preceding fiscal year divided by such Index for September 2011."
 
 Par. (3). Pub. L. 115–52, §402(b), substituted "means a specific strength of a biological product in final dosage form" for "means a product".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -144,7 +148,7 @@ Pub. L. 115–52, title IV, §407, Aug. 18, 2017, 131 Stat. 1035, provided that:
 
 #### Finding of 2017 Amendment
 
-Pub. L. 115–52, title IV, §401(b), Aug. 18, 2017, 131 Stat. 1028, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
+Pub. L. 115–52, title IV, §401(b), Aug. 18, 2017, 131 Stat. 1028, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[see section 401(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] will be dedicated to expediting the process for the review of biosimilar biological product applications, including postmarket safety activities, as set forth in the goals identified for purposes of part 8 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–51 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of theCommittee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 #### Finding of 2012 Amendment
 

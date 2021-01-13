@@ -28,7 +28,7 @@ In studying the feasibility of projects for flood risk management, hurricane and
 
 #### (1) In general
 
-&emsp;Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary shall submit tothe Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of subsection (b).
+&emsp;Not later than February 1, 2020, and 5 and 10 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the implementation of subsection (b).
 
 #### (2) Contents
 
@@ -42,6 +42,8 @@ In studying the feasibility of projects for flood risk management, hurricane and
 
 (Pub. L. 114–322, title I, §1184, Dec. 16, 2016, 130 Stat. 1679; Pub. L. 115–270, title I, §1149(b), Oct. 23, 2018, 132 Stat. 3787.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
@@ -49,6 +51,8 @@ Section was enacted as part of the Water Resources Development Act of 2016, and 
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–270 struck out "in coastal areas" after "risk reduction".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

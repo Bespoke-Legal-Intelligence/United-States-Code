@@ -8,7 +8,7 @@ The Secretary and Gallaudet University shall establish, and periodically update,
 
 The agreement shall—
 
-&emsp;(1) provide that Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for the purposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;
+&emsp;(1) provide that Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for thepurposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;
 
 &emsp;(2) provide that the University will make an annual report, to be part of the report required under section 4354 of this title, to the Secretary on the operations and national mission activities of the elementary and secondary education programs, including such other information as the Secretary may consider necessary;
 

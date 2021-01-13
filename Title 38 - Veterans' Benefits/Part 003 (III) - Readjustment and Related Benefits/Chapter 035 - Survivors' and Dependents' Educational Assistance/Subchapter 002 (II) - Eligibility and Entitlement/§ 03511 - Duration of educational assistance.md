@@ -34,6 +34,8 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985; Pub. L. 109–233, title V, §503(7), June 15, 2006, 120 Stat. 416; Pub. L. 109–444, §3(b)(2), Dec. 21, 2006, 120 Stat. 3306; Pub. L. 109–461, title III, §§301(b)(2), 302(a), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3428, 3468; Pub. L. 115–48, title II, §202, Aug. 16, 2017, 131 Stat. 989.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–48 substituted "chapter—" for "chapter for an aggregate period not in excess of 45 months (or to the equivalent thereof in part-time training)" and added subpars. (A) and (B).
@@ -46,7 +48,7 @@ Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whethe
 
 Pub. L. 109–233 inserted "sections" after "under both".
 
-Subsec. (a)(2)(B)(i). Pub. L. 109–461, §302(a), inserted "or of being involuntarily ordered to full-time National Guard duty under section 502(f) of title 32" after "title 10".
+Subsec. (a)(2)(B)(i). Pub. L. 109–461, §302(a), inserted "or of being involuntarily ordered to full-time NationalGuard duty under section 502(f) of title 32" after "title 10".
 
 Subsec. (b)(2). Pub. L. 109–461, §301(b)(2)(B)(i), substituted "section" for "the provisions of section 3501(a)(1)(A)(iii) or" and struck out "or" at end.
 
@@ -74,7 +76,7 @@ Subsec. (c). Pub. L. 107–103, §108(b)(1), added subsec. (c).
 
 Subsec. (a). Pub. L. 102–127 designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3501(a)(8)" for "1701(a)(8)" in par. (1), "3501(a)(1)(A)(iii)or 3501(a)(1)(C)" for "1701(a)(1)(A)(iii) or 1701(a)(1)(C)" in par. (2), and "3501(a)(1)(D)" for "1701(a)(1)(D)" in par. (3).
+Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted "3501(a)(8)" for "1701(a)(8)" in par. (1), "3501(a)(1)(A)(iii) or 3501(a)(1)(C)" for "1701(a)(1)(A)(iii) or 1701(a)(1)(C)" in par. (2), and "3501(a)(1)(D)" for "1701(a)(1)(D)" in par. (3).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–502, §303(1), substituted "45 months" for "thirty-six months".
 
@@ -93,6 +95,8 @@ Subsec. (d). Pub. L. 90–631, §1(c), redesignated subsec. (d) as (b).
 <b>1966</b>—Subsec. (b). Pub. L. 89–358 substituted "34" for "33" and inserted "or under chapter 33 of this title as in effect before February 1, 1965".
 
 <b>1964</b>—Subsec. (d). Pub. L. 88–361 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

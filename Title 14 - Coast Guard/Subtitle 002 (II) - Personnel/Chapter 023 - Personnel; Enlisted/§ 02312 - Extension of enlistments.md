@@ -12,6 +12,8 @@ Said section has been divided. Subsection (b) is placed in this section. The pro
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 365 of this title as this section.

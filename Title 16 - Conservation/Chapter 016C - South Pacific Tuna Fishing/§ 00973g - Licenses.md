@@ -28,7 +28,7 @@ For the initial year of implementation, license fees totaling at least $1,750,00
 
 #### (g) Grounds for denial of forwarding of license application
 
-The Secretary, in consultation with the Secretary of State, may determine that a license application should not be forwarded to the Administrator for one of the following reasons:
+The Secretary, in consultation with the Secretary of State, may determine that a licenseapplication should not be forwarded to the Administrator for one of the following reasons:
 
 &emsp;(1) where the application is not in accordance with the Treaty or the procedures established by the Secretary;
 

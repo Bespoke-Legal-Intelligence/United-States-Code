@@ -2,7 +2,7 @@
 
 The United States shall be liable, respecting the provisions of this title relating to tort claims, in the same manner and to the same extent as a private individual under like circumstances, but shall not be liable for interest prior to judgment or for punitive damages.
 
-If, however, in any case wherein death was caused, the law of the place where the act oromission complained of occurred provides, or has been construed to provide, for damages only punitive in nature, the United States shall be liable for actual or compensatory damages, measured by the pecuniary injuries resulting from such death to the persons respectively, for whose benefit the action was brought, in lieu thereof.
+If, however, in any case wherein death was caused, the law of the place where the act or omission complained of occurred provides, or has been construed to provide, for damages only punitive in nature, the United States shall be liable for actual or compensatory damages, measured by the pecuniary injuries resulting from such death to the persons respectively, for whose benefit the action was brought, in lieu thereof.
 
 With respect to any claim under this chapter, the United States shall be entitled to assert any defense based upon judicial or legislative immunity which otherwise would have been available to the employee of the United States whose act or omission gave rise to the claim, as well as any other defenses to which the United States is entitled.
 
@@ -24,9 +24,13 @@ Changes were made in phraseology.
 
 For Senate amendment to this section, see 80th Congress Senate Report No. 1559, amendment No. 60.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–694 inserted two pars. at end entitling the United States and the Tennessee Valley Authority to assert any defense based upon judicial or legislative immunity.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

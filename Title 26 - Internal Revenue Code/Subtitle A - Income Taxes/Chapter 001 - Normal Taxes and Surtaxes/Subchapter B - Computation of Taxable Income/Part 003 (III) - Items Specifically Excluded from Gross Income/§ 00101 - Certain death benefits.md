@@ -8,7 +8,7 @@
 
 #### (2) Transfer for valuable consideration
 
-&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of alife insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
+&emsp;In the case of a transfer for a valuable consideration, by assignment or otherwise, of a life insurance contract or any interest therein, the amount excluded from gross income by paragraph (1) shall not exceed an amount equal to the sum of the actual value of such consideration and the premiums and other amounts subsequently paid by the transferee. The preceding sentence shall not apply in the case of such a transfer—
 
 &emsp;&emsp;(A) if such contract or interest therein has a basis for determining gain or loss in the hands of a transferee determined in whole or in part by reference to such basis of such contract or interest therein in the hands of the transferor, or
 
@@ -84,7 +84,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (B) Guideline single premium
 
-&emsp;&emsp;The term "guideline single premium" means the premium at issue with respect to future benefits under the contract (withoutregard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
+&emsp;&emsp;The term "guideline single premium" means the premium at issue with respect to future benefits under the contract (without regard to any qualified additional benefit), and with respect to any charges for qualified additional benefits, at the time of a determination under subparagraph (A) or (E) and which is based on—
 
 &emsp;&emsp;&emsp;(i) the mortality and other charges guaranteed under the contract, and
 
@@ -410,7 +410,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;The term "insured" means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–97, title I, §13522(a), (b), Dec. 22, 2017, 131 Stat. 2151, 2152.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV,§421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–97, title I, §13522(a), (b), Dec. 22, 2017, 131 Stat. 2151, 2152.)
 
 #### References in Text
 
@@ -490,7 +490,7 @@ Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted "if the member or
 
 Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
-<b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted "This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—" for "(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)", and added cls. (i), (ii), and (iii).
+<b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted "This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—" for "(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5),and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)", and added cls. (i), (ii), and (iii).
 
 #### Effective Date of 2017 Amendment
 
@@ -580,7 +580,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Flexible Premium Contracts Issued During 1984 Which Meet Requirements of Section 7702 Treated as Meeting Requirements of Section 101(f)
 

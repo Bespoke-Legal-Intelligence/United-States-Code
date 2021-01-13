@@ -52,7 +52,7 @@ As used in subsection (a), the term "authorized person" means—
 
 &emsp;(1) any agent or attorney of any State or Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 5304 of title 25), having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
 
-&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodialparent for the support and maintenance of a child, or any agent of such court;
+&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
 
 &emsp;(3) the resident parent, legal guardian, attorney, or agent of a child (other than a child receiving assistance under a State program funded under part A) (as determined by regulations prescribed by the Secretary) without regard to the existence of a court order against a noncustodial parent who has a duty to support and maintain any such child;
 
@@ -88,11 +88,11 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (2) Case and order information
 
-&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not laterthan October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
+&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
 
 #### (3) Administration of Federal tax laws
 
-&emsp;The Secretary of the Treasury shall have access to the information described in paragraph (2) for the purpose of administering those sections of the Internal Revenue Code of 1986 which grant tax benefits based on support or residence of children.
+&emsp;The Secretary of the Treasury shall have access to the information described in paragraph (2) for the purpose of administering those sections of the Internal Revenue Code of 1986which grant tax benefits based on support or residence of children.
 
 #### (i) National Directory of New Hires
 
@@ -160,7 +160,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (5) Research
 
-&emsp;The Secretary may provide access to data in each component of the Federal Parent LocatorService maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A or this part, but without personal identifiers.
+&emsp;The Secretary may provide access to data in each component of the Federal Parent Locator Service maintained under this section and to information reported by employers pursuant to section 653a(b) of this title for research purposes found by the Secretary to be likely to contribute to achieving the purposes of part A or this part, but without personal identifiers.
 
 #### (6) Information comparisons and disclosure for enforcement of obligations on Higher Education Act loans and grants
 
@@ -238,7 +238,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (B) Requirement to seek minimum information
 
-&emsp;&emsp;The Secretary of Housing and Urban Development shall seek information pursuantto this section only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
+&emsp;&emsp;The Secretary of Housing and Urban Development shall seek information pursuant to this section only to the extent necessary to verify the employment and income of individuals described in subparagraph (A).
 
 #### (C) Duties of the Secretary
 
@@ -304,7 +304,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) In general
 
-&emsp;&emsp;If, for purposes of administering an unemployment compensation program under Federal or State law, a State agency responsible for the administration of such programtransmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to such State agency information on such individuals and their employers maintained in the National Directory of New Hires, subject to this paragraph.
+&emsp;&emsp;If, for purposes of administering an unemployment compensation program under Federal or State law, a State agency responsible for the administration of such program transmits to the Secretary the names and social security account numbers of individuals, the Secretary shall disclose to such State agency information on such individuals and their employers maintained in theNational Directory of New Hires, subject to this paragraph.
 
 #### (B) Condition on disclosure by the Secretary
 
@@ -384,7 +384,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (I) Determination by Secretaries
 
-&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury and the Secretary shall determine whether topermit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of the Treasury (in consultation with and approved by the Secretary), of the costs and benefits of such disclosures and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
+&emsp;&emsp;&emsp;&emsp;The Secretary of the Treasury and the Secretary shall determine whether to permit disclosure of information under this paragraph to persons or entities described in subclause (II), based on an evaluation made by the Secretary of the Treasury (in consultation with and approved by the Secretary), of the costs and benefits of such disclosures and the adequacy of measures used to safeguard the security and confidentiality of information so disclosed.
 
 #### (II) Permitted persons or entities
 

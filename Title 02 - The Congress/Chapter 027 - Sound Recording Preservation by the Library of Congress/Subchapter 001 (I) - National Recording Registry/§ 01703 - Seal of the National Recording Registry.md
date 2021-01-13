@@ -12,7 +12,7 @@ The Librarian shall establish guidelines for approval of the use of the seal pro
 
 &emsp;(2) The seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines.
 
-&emsp;(3) In the case of copyrighted mass distributed, broadcast, or published works, only thecopyright legal owner or an authorized licensee of that copyright owner may place or authorize the placement of the seal on any recording copy of the Registry version of any sound recording that is maintained in the National Recording Registry Collection in the Library of Congress.
+&emsp;(3) In the case of copyrighted mass distributed, broadcast, or published works, only the copyright legal owner or an authorized licensee of that copyright owner may place or authorize the placement of the seal on any recording copy of the Registry version of any sound recording that is maintained in the National Recording Registry Collection in the Library of Congress.
 
 &emsp;(4) Anyone authorized to place the seal on any recording copy of any Registry version of a sound recording may accompany such seal with the following language: "This sound recording is selected for inclusion in the National Recording Registry by the Librarian of Congress in consultation with the National Recording Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.".
 
@@ -52,7 +52,7 @@ The use of the seal provided under subsection (a) with respect to a sound record
 
 #### (3) Limitation of remedies
 
-&emsp;The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
+&emsp;The remedies provided in this subsection shall be the exclusive remedies under thischapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
 (Pub. L. 106–474, title I, §103, Nov. 9, 2000, 114 Stat. 2086.)
 

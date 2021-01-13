@@ -44,7 +44,7 @@ Disposal.—The institution must obtain prior approval from the Administrator of
 
 &emsp;(6)
 
-Inspection or regulation.—The vessel shall be inspected or regulated in the same manner as a nautical school vessel under chapter 33 of title 46.
+Inspection or regulation.—The vessel shall be inspected or regulated in the samemanner as a nautical school vessel under chapter 33 of title 46.
 
 (d)
 

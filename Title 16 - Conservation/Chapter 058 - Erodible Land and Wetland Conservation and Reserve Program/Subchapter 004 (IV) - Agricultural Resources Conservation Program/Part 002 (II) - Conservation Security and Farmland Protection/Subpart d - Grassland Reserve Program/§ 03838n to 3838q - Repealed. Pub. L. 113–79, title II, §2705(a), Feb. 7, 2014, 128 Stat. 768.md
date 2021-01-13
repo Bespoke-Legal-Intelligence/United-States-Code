@@ -30,7 +30,7 @@ Funding.—
 
 &emsp;&emsp;"(A)
 
-Use of prior year funds.—Notwithstanding the repeal of subchapter D of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838n et seq.), any funds madeavailable from the Commodity Credit Corporation to carry out the grassland reserve program under that subchapter for fiscal years 2009 through 2013 shall be made available to carry out contracts, agreements, or easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance), provided that no such contract, agreement, or easement is modified so as to increase the amount of the payment received.
+Use of prior year funds.—Notwithstanding the repeal of subchapter D of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838n et seq.), any funds made available from the Commodity Credit Corporation to carry out the grassland reserve program under that subchapter for fiscal years 2009 through 2013 shall be made available to carry out contracts, agreements, or easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance), provided that no such contract, agreement, or easement is modified so as to increase the amount of the payment received.
 
 &emsp;&emsp;"(B)
 

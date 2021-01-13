@@ -24,6 +24,8 @@ In carrying out the provisions of this section the President shall insure that t
 
 (Pub. L. 87–195, pt. I, §491, as added Pub. L. 94–161, title I, §101(3), Dec. 20, 1975, 89 Stat. 849; amended Pub. L. 95–424, title I, §118(a), Oct. 6, 1978, 92 Stat. 953; Pub. L. 96–533, title IV, §404(b), Dec. 16, 1980, 94 Stat. 3150; Pub. L. 114–195, §7(c)(1), July 20, 2016, 130 Stat. 681.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (c)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -40,9 +42,13 @@ A prior section 491 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–424 substituted ", international organization, or private voluntary organization" for "or international organization".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

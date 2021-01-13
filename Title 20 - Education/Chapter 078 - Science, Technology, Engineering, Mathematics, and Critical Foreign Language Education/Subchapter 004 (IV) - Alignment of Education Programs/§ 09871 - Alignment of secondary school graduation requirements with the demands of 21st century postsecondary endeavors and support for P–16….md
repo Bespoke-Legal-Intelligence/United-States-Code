@@ -282,7 +282,7 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments under section 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
+<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub.L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments under section 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
 
 <b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009."
 

@@ -8,7 +8,21 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 389.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 224 and 236 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Department of Veterans Affairs Requirement To Provide Certain Notice to Persons Filing Claims for Damage, Injury, or Death on Standard Form 95
+
+Pub. L. 116–315, title VII, §7010, Jan. 5, 2021, 134 Stat. 5061, provided that: "Not later than 90 days after the date on which a person submits to the Secretary of Veterans Affairs a claim for damage, injury, or death on Standard Form 95, or any successor form, the Secretary shall provide to such person notice of each of the following:
+
+&emsp;"(1) The benefit of obtaining legal advice concerning such claim.
+
+&emsp;"(2) The employment status of any individual listed on the form.
+
+&emsp;"(3) If the claim involves a contractor that entered into an agreement with the Secretary, the importance of obtaining legal advice as to the statute of limitations regarding the claim in the State in which the claim arose."
 

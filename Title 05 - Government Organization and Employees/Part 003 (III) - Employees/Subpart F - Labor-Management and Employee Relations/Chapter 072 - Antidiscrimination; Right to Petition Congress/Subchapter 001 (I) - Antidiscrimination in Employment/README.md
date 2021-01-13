@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—ANTIDISCRIMINATION IN EMPLOYMENT
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–54, §2(a)(43), Aug. 14, 1979, 93 Stat. 383, added heading for subchapter I.

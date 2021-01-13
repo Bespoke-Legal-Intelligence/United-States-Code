@@ -150,7 +150,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Penny stock
 
-&emsp;The term "penny stock" has the same meaning as in section 78c(a)(51) of this title, and the rules and regulations, or orders issued pursuant to that section.
+&emsp;The term "penny stock" has the same meaning as in section 78c(a)(51) of this title, and therules and regulations, or orders issued pursuant to that section.
 
 #### (4) Going private transaction
 

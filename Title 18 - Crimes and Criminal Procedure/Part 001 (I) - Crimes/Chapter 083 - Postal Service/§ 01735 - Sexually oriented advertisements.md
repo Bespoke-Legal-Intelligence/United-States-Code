@@ -2,7 +2,7 @@
 
 (a) Whoever—
 
-&emsp;(1) willfully uses the mails for the mailing, carriage in the mails, or delivery of any sexually oriented advertisement in violation of section 3010 of title 39, or willfully violates any regulations of the Board of Governors issued under such section; or
+&emsp;(1) willfully uses the mails for the mailing, carriage in the mails, or delivery of any sexually oriented advertisement in violation of section 3010 of title 39, or willfully violatesany regulations of the Board of Governors issued under such section; or
 
 &emsp;(2) sells, leases, rents, lends, exchanges, or licenses the use of, or, except for the purpose expressly authorized by section 3010 of title 39, uses a mailing list maintained by the Board of Governors under such section;
 
@@ -12,9 +12,13 @@
 
 (Added Pub. L. 91–375, §6(j)(37)(A), Aug. 12, 1970, 84 Stat. 781; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, in concluding provisions, substituted "fined under this title" for "fined not more than $5,000" after "shall be" and for "fined not more than $10,000" after "and shall be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

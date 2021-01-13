@@ -50,7 +50,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 (3) No such regulation shall issue if a fair evaluation of the data before the Secretary—
 
-&emsp;(A) fails to establish that the proposed use of the food additive, under the conditions of use to be specified in the regulation, will be safe:<i>Provided</i>, That no additive shall be deemed to be safe if it is found to induce cancer when ingested by man or animal, or if it is found, after tests which are appropriate for the evaluation of the safety of food additives, to induce cancer in man or animal, except that this proviso shall not apply with respect to the use of a substance as an ingredient of feed for animals which are raised for food production, if the Secretary finds (i) that, under the conditions of use and feeding specified in proposed labeling and reasonably certain to be followed in practice, such additive will not adversely affect the animals for which such feed is intended, and (ii) that no residue of the additive will be found (by methods of examination prescribed or approved by the Secretary by regulations, which regulations shall not be subject to subsections (f) and (g)) in any edible portion of such animal after slaughter or in any food yielded by or derived from the living animal; or
+&emsp;(A) fails to establish that the proposed use of the food additive, under the conditions of use to be specified in the regulation, will be safe: <i>Provided</i>, That no additive shall be deemed to be safe if it is found to induce cancer when ingested by man or animal, or if it is found, after tests which are appropriate for the evaluation of the safety of food additives, to induce cancer in man or animal, except that this proviso shall not apply with respect to the use of a substance as an ingredient of feed for animals which are raised for food production, if the Secretary finds (i) that, under the conditions of use and feeding specified in proposed labeling and reasonably certain to be followed in practice, such additive will not adversely affect the animals for which such feed is intended, and (ii) that no residue of the additive will be found (by methods of examination prescribed or approved by the Secretary by regulations, which regulations shall not be subject to subsections (f) and (g)) in any edible portion of such animal after slaughter or in any food yielded by or derived from the living animal; or
 
 &emsp;(B) shows that the proposed use of the additive would promote deception of the consumer in violation of this chapter or would otherwise result in adulteration or in misbranding of food within the meaning of this chapter.
 
@@ -82,7 +82,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
-(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
+(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in whichevent the Secretary shall specify in the order his findings as to such conditions.
 
 #### (g) Judicial review
 
@@ -90,7 +90,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (2) A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28. Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm or set aside the order complained of in whole or in part. Until the filing of the record the Secretary may modify or set aside his order. The findings of the Secretary with respect to questions of fact shall be sustained if based upon a fair evaluation of the entire record at such hearing.
 
-(3) The court, on such judicial review, shall not sustain the order of the Secretary if hefailed to comply with any requirement imposed on him by subsection (f)(2) of this section.
+(3) The court, on such judicial review, shall not sustain the order of the Secretary if he failed to comply with any requirement imposed on him by subsection (f)(2) of this section.
 
 (4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
 
@@ -118,7 +118,7 @@ Any order, including any regulation established by such order, issued under subs
 
 &emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
-(ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notifications submitted under the notification program established under this subsection if—
+(ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notificationssubmitted under the notification program established under this subsection if—
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iii) is made for the last six months of fiscal year 1999 for carrying out such program during such period; and
 
@@ -158,6 +158,8 @@ Without regard to subsections (b) to (i), inclusive, of this section, the Secret
 
 (June 25, 1938, ch. 675, §409, as added Pub. L. 85–929, §4, Sept. 6, 1958, 72 Stat. 1785; amended Pub. L. 86–546, §2, June 29, 1960, 74 Stat. 255; Pub. L. 87–781, title I, §104(f)(1), Oct. 10, 1962, 76 Stat. 785; Pub. L. 98–620, title IV, §402(25)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 105–115, title III, §309, Nov. 21, 1997, 111 Stat. 2354; Pub. L. 115–234, title III, §306(a), Aug. 14, 2018, 132 Stat. 2440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (k). Pub. L. 115–234 added subsec. (k).
@@ -179,6 +181,8 @@ Subsec. (j). Pub. L. 105–115, §309(b)(1), (4), redesignated subsec. (i) as (j
 <b>1962</b>—Subsec. (c)(3)(A). Pub. L. 87–781 excepted proviso from applying to use of a substance as an ingredient of feed for animals raised for food production, if under conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter, or in any food from the living animal.
 
 <b>1960</b>—Subsec. (g)(2). Pub. L. 86–546 substituted "forthwith transmitted by the clerk of the court to the Secretary, or any officer" for "served upon the Secretary, or upon any officer", "shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28" for "shall certify and file in the court a transcript of the proceedings and the record on which he based his order", and "Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive," for "Upon such filing, the court shall have exclusive jurisdiction", and inserted sentence authorizing the Secretary to modify or set aside his order until the filing of the record.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -252,7 +256,7 @@ Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–
 
 &emsp;"(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or
 
-&emsp;"(2) may, except as provided in section 4 \[enacting section 343a of this title, amending sections 321 and 343 of this title, and enacting provisions set out as notes under section 343 of this title\] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act \[this chapter\] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin,
+&emsp;"(2) may, except as provided in section 4 \[enacting section 343a of this title, amending sections 321 and343 of this title, and enacting provisions set out as notes under section 343 of this title\] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act \[this chapter\] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin,
 
 > solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both."
 

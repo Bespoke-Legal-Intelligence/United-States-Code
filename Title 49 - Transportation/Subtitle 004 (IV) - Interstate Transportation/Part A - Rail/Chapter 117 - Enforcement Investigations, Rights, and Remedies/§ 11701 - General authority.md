@@ -4,7 +4,7 @@
 
 (b) A person, including a governmental authority, may file with the Board a complaint about a violation of this part by a rail carrier providing transportation or service subject to the jurisdiction of the Board under this part. The complaint must state the facts that are the subject of the violation. The Board may dismiss a complaint it determines does not state reasonable grounds for investigation and action. However, the Board may not dismiss a complaint made against a rail carrier providing transportation subject to the jurisdiction of the Board under this part because of the absence of direct damage to the complainant.
 
-(c) A formal investigative proceeding begun by the Board under subsection (a) of this section is dismissed automatically unless it is concluded by the Board with administrative finality by the end of the third year after the date on which it was begun.
+(c) A formal investigative proceeding begun by the Board under subsection (a) of this section is dismissed automatically unless it is concluded by the Board with administrative finality by theend of the third year after the date on which it was begun.
 
 (d) In any investigation commenced on the Board's own initiative, the Board shall—
 

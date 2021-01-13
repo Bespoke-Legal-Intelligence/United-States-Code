@@ -88,7 +88,7 @@ Acceptance.—Subject to subparagraph (D), the Administrator may accept an airwo
 
 &emsp;&emsp;(B)
 
-Alternative approval process.—Notwithstanding subparagraph (A), the Administrator may issue a Federal Aviation Administration airworthiness directive instead of accepting an airworthiness directive otherwise eligible for acceptance under such subparagraph, if the Administrator determines that such issuance is necessary for safety or operational reasons due to the complexity or unique features of the Federal Aviation Administration airworthiness directive or the United States aviation system.
+Alternative approval process.—Notwithstanding subparagraph (A), the Administrator may issue a Federal Aviation Administration airworthiness directive insteadof accepting an airworthiness directive otherwise eligible for acceptance under such subparagraph, if the Administrator determines that such issuance is necessary for safety or operational reasons due to the complexity or unique features of the Federal Aviation Administration airworthiness directive or the United States aviation system.
 
 &emsp;&emsp;(C)
 
@@ -106,7 +106,7 @@ Limitation.—The Administrator may not accept an airworthiness directive issued
 
 Exemptions.—The Administrator may grant an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702–44716 of this title if the Administrator finds the exemption is in the public interest.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat.4385; Pub. L. 106–181, title VII, §714, Apr. 5, 2000, 114 Stat. 161; Pub. L. 115–254, div. B, title II, §242, Oct. 5, 2018, 132 Stat. 3258.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1185; Pub. L. 103–429, §6(55), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title VII, §714, Apr. 5, 2000, 114 Stat. 161; Pub. L. 115–254, div. B, title II, §242, Oct. 5, 2018, 132 Stat. 3258.)
 
 Historical and Revision Notes
 
@@ -204,9 +204,173 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Safety Management Systems
+
+Pub. L. 116–260, div. V, title I, §102(a)–(f), Dec. 27, 2020, 134 Stat. 2309, 2310, provided that:
+
+"(a)
+
+Rulemaking Proceeding.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall initiate a rulemaking proceeding to require that manufacturers that hold both a type certificate and a production certificate issued pursuant to section 44704 of title 49, United States Code, where the United States is the State of Design and State of Manufacture, have in place a safety management system that is consistent with the standards and recommended practices established by ICAO and contained in annex 19 to the Convention on International Civil Aviation (61 Stat. 1180), for such systems.
+
+&emsp;"(2)
+
+Contents of regulations.—The regulations issued under paragraph (1) shall, at a minimum—
+
+&emsp;&emsp;"(A) ensure safety management systems are consistent with, and complementary to, existing safety management systems;
+
+&emsp;&emsp;"(B) include provisions that would permit operational feedback from operators and pilots qualified on the manufacturers' equipment to ensure that the operational assumptions made during design and certification remain valid;
+
+&emsp;&emsp;"(C) include provisions for the Administrator's approval of, and regular oversight of adherence to, a certificate holder's safety management system adopted pursuant to such regulations; and
+
+&emsp;&emsp;"(D) require such certificate holder to adopt, not later than 4 years after the date of enactment of this title, a safety management system.
+
+"(b)
+
+Final Rule Deadline.—Not later than 24 months after initiating the rulemaking under subsection (a), the Administrator shall issue a final rule.
+
+"(c)
+
+Surveillance and Audit Requirement.—The final rule issued pursuant to subsection (b) shall include a requirement for the Administrator to implement a systems approach to risk-based surveillance by defining and planning inspections, audits, and monitoring activities on a continuous basis, to ensure that design and production approval holders of aviation products meet and continue to meet safety management system requirements under the rule.
+
+"(d)
+
+Engagement With ICAO.—The Administrator shall engage with ICAO and foreign civil aviation authorities to help encourage the adoption of safety management systems for manufacturers on a global basis, consistent with ICAO standards.
+
+"(e)
+
+Safety Reporting Program.—The regulations issued under subsection (a) shall require a safety management system to include a confidential employee reporting system through which employees can report hazards, issues, concerns, occurrences, and incidents. A reporting system under this subsection shall include provisions for reporting, without concern for reprisal for reporting, of such items by employees in a manner consistent with confidential employee reporting systems administered by the Administrator. Such regulations shall also require a certificate holder described in subsection (a) to submit a summary of reports received under this subsection to the Administrator at least twice per year.
+
+"(f)
+
+Code of Ethics.—The regulations issued under subsection (a) shall require a safety management system to include establishment of a code of ethics applicable to all appropriate employees of a certificate holder, including officers (as determined by the FAA), which clarifies that safety is the organization's highest priority.
+
+\[For definitions of terms used in section 102(a)–(f) of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Certification Oversight Staff
+
+Pub. L. 116–260, div. V, title I, §104, Dec. 27, 2020, 134 Stat. 2316, provided that:
+
+"(a)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $27,000,000 for each of fiscal years 2021 through 2023 to recruit and retain engineers, safety inspectors, human factors specialists, chief scientific and technical advisors, software and cybersecurity experts, and other qualified technical experts who perform duties related to the certification of aircraft, aircraft engines, propellers, appliances, and new and emerging technologies, and perform other regulatory activities.
+
+"(b)
+
+In General.—Not later than 60 days after the date of enactment of this title \[Dec. 27, 2020\], and without duplicating any recently completed or ongoing reviews, the Administrator shall initiate a review of—
+
+&emsp;"(1) the inspectors, human factors specialists, flight test pilots, engineers, managers, and executives in the FAA who are responsible for the certification of the design, manufacture, and operation of aircraft intended for air transportation for purposes of determining whether the FAA has the expertise and capability to adequately understand the safety implications of, and oversee the adoption of, new or innovative technologies, materials, and procedures used by designers and manufacturers of such aircraft; and
+
+&emsp;"(2) the Senior Technical Experts Program to determine whether the program should be enhanced or expanded to bolster and support the programs of the FAA's Office of Aviation Safety, with particular focus placed on the Aircraft Certification Service and the Flight Standards Service (or any successor organizations), particularly with respect to understanding the safety implications of new or innovative technologies, materials, aircraft operations, and procedures used by designers and manufacturers of such aircraft.
+
+"(c)
+
+Deadline for Completion.—Not later than 270 days after the date of enactment of this title, the Administrator shall complete the review required by subsection (b).
+
+"(d)
+
+Briefing.—Not later than 30 days after the completion of the review required by subsection (b), the Administrator shall brief the congressional committees of jurisdiction on the results of the review. The briefing shall include the following:
+
+&emsp;"(1) An analysis of the Administration's ability to hire safety inspectors, human factors specialists, flight test pilots, engineers, managers, executives, scientists, and technical advisors, who have the requisite expertise to oversee new developments in aerospace design and manufacturing.
+
+&emsp;"(2) A plan for the Administration to improve the overall expertise of the FAA's personnel who are responsible for the oversight of the design and manufacture of aircraft.
+
+"(e)
+
+Consultation Requirement.—In completing the review under subsection (b), the Administrator shall consult and collaborate with appropriate stakeholders, including labor organizations (including those representing aviation workers, FAA aviation safety engineers, human factors specialists, flight test pilots, and FAA aviation safety inspectors), and aerospace manufacturers.
+
+"(f)
+
+Recruitment and Retention.—
+
+&emsp;"(1)
+
+Bargaining units.—Not later than 30 days after the date of enactment of this title, the Administrator shall begin collaboration with the exclusive bargaining representatives of engineers, safety inspectors, systems safety specialists, and other qualified technical experts certified under section 7111 of title 5, United States Code, to improve recruitment of employees for, and to implement retention incentives for employees holding, positions with respect to the certification of aircraft, aircraft engines, propellers, and appliances. If the Administrator and such representatives are unable to reach an agreement collaboratively, the Administrator and such representatives shall negotiate in accordance with section 40122(a) of title 49, United States Code, to improve recruitment and implement retention incentives for employees described in subsection (a) who are covered under a collective bargaining agreement.
+
+&emsp;"(2)
+
+Other employees.—Notwithstanding any other provision of law, not later than 30 days after the date of enactment of this title, the Administrator shall initiate actions to improve recruitment of, and implement retention incentives for, any individual described in subsection (a) who is not covered under a collective bargaining agreement.
+
+&emsp;"(3)
+
+Rule of construction.—Nothing in this section shall be construed to vest in any exclusive bargaining representative any management right of the Administrator, as such right existed on the day before the date of enactment of this title.
+
+&emsp;"(4)
+
+Availability of appropriations.—Any action taken by the Administrator under this section shall be subject to the availability of appropriations authorized under subsection (a)."
+
+\[For definitions of terms used in section 104 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
+#### Voluntary Safety Reporting Program
+
+Pub. L. 116–260, div. V, title I, §113, Dec. 27, 2020, 134 Stat. 2332, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this title \[Dec. 27, 2020\], the Administrator shall establish a voluntary safety reporting program for engineers, safety inspectors, systems safety specialists, and other subject matter experts certified under section 7111 of title 5, United States Code, to confidentially report instances where they have identified safety concerns during certification or oversight processes.
+
+"(b)
+
+Safety Reporting Program Requirements.—In establishing the safety reporting program under subsection (a), the Administrator shall ensure the following:
+
+&emsp;"(1) The FAA maintains a reporting culture that encourages human factors specialists, engineers, flight test pilots, inspectors, and other appropriate FAA employees to voluntarily report safety concerns.
+
+&emsp;"(2) The safety reporting program is non-punitive, confidential, and protects employees from adverse employment actions related to their participation in the program.
+
+&emsp;"(3) The safety reporting program identifies exclusionary criteria for the program.
+
+&emsp;"(4) Collaborative development of the program with bargaining representatives of employees under section 7111 of title 5, United States Code, who are employed in the Aircraft Certification Service or Flight Standards Service of the Administration (or, if unable to reach an agreement collaboratively, the Administrator shall negotiate with the representatives in accordance with section 40122(a) of title 49, United States Code, regarding the development of the program).
+
+&emsp;"(5) Full and collaborative participation in the program by the bargaining representatives of employees described in paragraph (4).
+
+&emsp;"(6) The Administrator thoroughly reviews safety reports to determine whether there is a safety issue, including a hazard, defect, noncompliance, nonconformance, or process error.
+
+&emsp;"(7) The Administrator thoroughly reviews safety reports to determine whether any aircraft certification process contributed to the safety concern being raised.
+
+&emsp;"(8) The creation of a corrective action process in order to address safety issues that are identified through the program.
+
+"(c)
+
+Outcomes.—Results of safety report reviews under this section may be used to—
+
+&emsp;"(1) improve—
+
+&emsp;&emsp;"(A) safety systems, hazard control, and risk reduction;
+
+&emsp;&emsp;"(B) certification systems;
+
+&emsp;&emsp;"(C) FAA oversight;
+
+&emsp;&emsp;"(D) compliance and conformance; and
+
+&emsp;&emsp;"(E) any other matter determined necessary by the Administrator; and
+
+&emsp;"(2) implement lessons learned.
+
+"(d)
+
+Report Filing.—The Administrator shall establish requirements for when in the certification process reports may be filed to—
+
+&emsp;"(1) ensure that identified issues can be addressed in a timely manner; and
+
+&emsp;"(2) foster open dialogue between applicants and FAA employees throughout the certification process.
+
+"(e)
+
+Integration With Other Safety Reporting Programs.—The Administrator shall implement the safety reporting program established under subsection (a) and the reporting requirements established pursuant to subsection (d) in a manner that is consistent with other voluntary safety reporting programs administered by the Administrator.
+
+"(f)
+
+Report to Congress.—Not later than 2 years after the date of enactment of this title, and annually thereafter through fiscal year 2023, the Administrator shall submit to the congressional committees of jurisdiction a report on the effectiveness of the safety reporting program established under subsection (a)."
+
+\[For definitions of terms used in section 113 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
+
 #### FAA Safety Oversight and Certification and Performance Metrics
 
-Pub. L. 115–254, div. B, title II, §§201, 202, 211, 221, 223, 224, 243, Oct. 5, 2018, 132 Stat. 3242, 3246, 3252, 3254, 3255, 3259, provided that:
+Pub. L. 115–254, div. B, title II, §§201, 202, 211, 221, 223, 224, 243, Oct. 5, 2018, 132 Stat. 3242, 3246, 3252, 3254, 3255, 3259, as amended by Pub. L. 116–260, div. V, title I, §129, Dec. 27, 2020, 134 Stat. 2349, provided that:
 
 #### "SEC. 201. DEFINITIONS.
 
@@ -286,7 +450,7 @@ Functions.—In carrying out its duties under subsection (b), the Advisory Commi
 
 &emsp;&emsp;"(C) other interested parties.
 
-&emsp;"(3) Recommend consensus national goals, strategic objectives, and priorities for the most efficient, streamlined, and cost-effective certification and safety oversight processes in order to maintain the safety of the aviation system and, at the same time, allow the FAA to meet future needs and ensure that aviation stakeholders remain competitive in the global marketplace.
+&emsp;"(3) Recommend consensus national goals, strategic objectives, and priorities for the most efficient,streamlined, and cost-effective certification and safety oversight processes in order to maintain the safety of the aviation system and, at the same time, allow the FAA to meet future needs and ensure that aviation stakeholders remain competitive in the global marketplace.
 
 &emsp;"(4) Provide policy guidance recommendations for the FAA's certification and safety oversight efforts.
 
@@ -296,9 +460,7 @@ Functions.—In carrying out its duties under subsection (b), the Advisory Commi
 
 &emsp;"(7) Provide appropriate legislative, regulatory, and guidance recommendations for the air transportation system and the aviation safety regulatory environment.
 
-&emsp;"(8) Recommend performance objectives for the FAA and industry.
-
-&emsp;"(9) Recommend performance metrics and goals to track and review the FAA and the regulated aviation industry on their progress towards streamlining certification reform, conducting flight standards reform, and carrying out regulation consistency efforts.
+&emsp;"\[(8), (9). Repealed. Pub. L. 116–260, div. V, title I, §129(b), Dec. 27, 2020, 134 Stat. 2349.\]
 
 &emsp;"(10) Provide a venue for tracking progress toward national goals and sustaining joint commitments.
 
@@ -438,129 +600,7 @@ Sunset.—The Advisory Committee shall terminate on the last day of the 6-year p
 
 Termination of Air Traffic Procedures Advisory Committee.—The Air Traffic Procedures Advisory Committee established by the FAA shall terminate on the date of the initial appointment of the members of the Advisory Committee.
 
-#### "SEC. 211. AIRCRAFT CERTIFICATION PERFORMANCE OBJECTIVES AND METRICS.
-
-"(a)
-
-In General.—Not later than 120 days after the date on which the Advisory Committee is established under section 202, the Administrator shall establish performance objectives and apply and track performance metrics for the FAA and the aviation industry relating to aircraft certification in accordance with this section.
-
-"(b)
-
-Collaboration.—The Administrator shall carry out this section in collaboration with the Advisory Committee and update agency performance objectives and metrics after considering the recommendations of the Advisory Committee under paragraphs (8) and (9) of section 202(c).
-
-"(c)
-
-Performance Objectives.—In carrying out subsection (a), the Administrator shall establish performance objectives for the FAA and the aviation industry to ensure that, with respect to aircraft certification, progress is made toward, at a minimum—
-
-&emsp;"(1) eliminating certification delays and improving cycle times;
-
-&emsp;"(2) increasing accountability for both the FAA and the aviation industry;
-
-&emsp;"(3) achieving full utilization of FAA delegation and designation authorities, including organizational designation authorization;
-
-&emsp;"(4) fully implementing risk management principles and a systems safety approach;
-
-&emsp;"(5) reducing duplication of effort;
-
-&emsp;"(6) increasing transparency;
-
-&emsp;"(7) developing and providing training, including recurrent training, in auditing and a systems safety approach to certification oversight;
-
-&emsp;"(8) improving the process for approving or accepting certification actions between the FAA and bilateral partners;
-
-&emsp;"(9) maintaining and improving safety;
-
-&emsp;"(10) streamlining the hiring process for—
-
-&emsp;&emsp;"(A) qualified systems safety engineers to support the FAA's efforts to implement a systems safety approach; and
-
-&emsp;&emsp;"(B) qualified systems engineers to guide the engineering of complex systems within the FAA; and
-
-&emsp;"(11) maintaining the leadership of the United States in international aviation and aerospace.
-
-"(d)
-
-Performance Metrics.—In carrying out subsection (a), the Administrator shall apply and track performance metrics for the FAA and the regulated aviation industry established by the Advisory Committee.
-
-"(e)
-
-Data Generation.—
-
-&emsp;"(1)
-
-Baselines.—Not later than 1 year after the date on which the Advisory Committee recommends initial performance metrics for the FAA and the regulated aviation industry under section 202, the Administrator shall generate initial data with respect to each of the performance metrics applied and tracked under this section.
-
-&emsp;"(2)
-
-Benchmarks to measure progress toward goals.—The Administrator shall use the metrics applied and tracked under this section to generate data on an ongoing basis and to measure progress toward the achievement of national goals recommended by the Advisory Committee.
-
-"(f)
-
-Publication.—The Administrator shall make data generated using the performance metrics applied and tracked under this section available to the public in a searchable, sortable, and downloadable format through the internet website of the FAA or other appropriate methods and shall ensure that the data are made available in a manner that—
-
-&emsp;"(1) does not provide identifying information regarding an individual or entity; and
-
-&emsp;"(2) prevents inappropriate disclosure of proprietary information.
-
-#### "SEC. 221. FLIGHT STANDARDS PERFORMANCE OBJECTIVES AND METRICS.
-
-"(a)
-
-In General.—Not later than 120 days after the date on which the Advisory Committee is established under section 202, the Administrator shall establish performance objectives and apply and track performance metrics for the FAA and the aviation industry relating to flight standards activities in accordance with this section.
-
-"(b)
-
-Collaboration.—The Administrator shall carry out this section in collaboration with the Advisory Committee, and update agency performance objectives and metrics after considering the recommendations of the Advisory Committee under paragraphs (8) and (9) of section 202(c).
-
-"(c)
-
-Performance Objectives.—In carrying out subsection (a), the Administrator shall establish performance objectives for the FAA and the aviation industry to ensure that, with respect to flight standards activities, progress is made toward, at a minimum—
-
-&emsp;"(1) eliminating delays with respect to such activities;
-
-&emsp;"(2) increasing accountability for both the FAA and the aviation industry;
-
-&emsp;"(3) achieving full utilization of FAA delegation and designation authorities, including organizational designation authority;
-
-&emsp;"(4) fully implementing risk management principles and a systems safety approach;
-
-&emsp;"(5) reducing duplication of effort;
-
-&emsp;"(6) eliminating inconsistent regulatory interpretations and inconsistent enforcement activities;
-
-&emsp;"(7) improving and providing greater opportunities for training, including recurrent training, in auditing and a systems safety approach to oversight;
-
-&emsp;"(8) developing and allowing utilization of a single master source for guidance;
-
-&emsp;"(9) providing and utilizing a streamlined appeal process for the resolution of regulatory interpretation questions;
-
-&emsp;"(10) maintaining and improving safety; and
-
-&emsp;"(11) increasing transparency.
-
-"(d)
-
-Performance Metrics.—In carrying out subsection (a), the Administrator shall apply and track performance metrics for the FAA and the regulated aviation industry established by the Advisory Committee.
-
-"(e)
-
-Data Generation.—
-
-&emsp;"(1)
-
-Baselines.—Not later than 1 year after the date on which the Advisory Committee recommends initial performance metrics for the FAA and the regulated aviation industry under section 202, the Administrator shall generate initial data with respect to each of the performance metrics applied and tracked under this section.
-
-&emsp;"(2)
-
-Benchmarks to measure progress toward goals.—The Administrator shall use the metrics applied and tracked under this section to generate data on an ongoing basis and to measure progress toward the achievement of national goals recommended by the Advisory Committee.
-
-"(f)
-
-Publication.—The Administrator shall make data generated using the performance metrics applied and tracked under this section available to the public in a searchable, sortable, and downloadable format through the internet website of the FAA or other appropriate methods and shall ensure that the data are made available in a manner that—
-
-&emsp;"(1) does not provide identifying information regarding an individual or entity; and
-
-&emsp;"(2) prevents inappropriate disclosure of proprietary information.
+#### "\[SECS. 211, 221. Repealed. Pub. L. 116–260, div. V, title I, §129(a), Dec. 27, 2020, 134 Stat. 2349.\]
 
 #### "SEC. 223. CENTRALIZED SAFETY GUIDANCE DATABASE.
 
@@ -676,7 +716,7 @@ Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5
 
 &emsp;"(4) provides recommendations, if appropriate, to improve the existing structure and personnel and travel policies supporting the FAA's international engagement activities, including the activities of the Aviation Certification Office, to better support the growth of United States aerospace exports; and
 
-&emsp;"(5) identifies cost-effective policy initiatives, regulatory initiatives, or legislative initiatives neededto improve and enhance the timely acceptance of United States aerospace products abroad.
+&emsp;"(5) identifies cost-effective policy initiatives, regulatory initiatives, or legislative initiatives needed to improve and enhance the timely acceptance of United States aerospace products abroad.
 
 "(c)
 
@@ -942,7 +982,7 @@ Fatigue Risk Management Plan.—
 
 &emsp;"(1)
 
-Submission of plan by part 121 air carriers.—Not later than 90 days after the date of enactment of this Act, each air carrier operating under part 121 of title 14, Code of Federal Regulations (in this section referred to as a 'part 121 air carrier'), shall submit to the Administrator of the Federal Aviation Administration for review and acceptance a fatigue risk management plan for the carrier's flight attendants.
+Submission of plan by part 121 air carriers.—Not later than 90 days after the date of enactment ofthis Act, each air carrier operating under part 121 of title 14, Code of Federal Regulations (in this section referred to as a 'part 121 air carrier'), shall submit to the Administrator of the Federal Aviation Administration for review and acceptance a fatigue risk management plan for the carrier's flight attendants.
 
 &emsp;"(2)
 
@@ -1060,7 +1100,7 @@ In General.—The Secretary of Transportation shall carry out a public awareness
 
 Campaign Requirements.—The public awareness campaign required under subsection (a) shall do the following:
 
-&emsp;"(1) Focus on targeting segments of the hazardous materials industry with high rates of undeclaredshipments through air commerce and educate air carriers, shippers, manufacturers, and other relevant stakeholders of such segments on properly packaging and classifying such shipments.
+&emsp;"(1) Focus on targeting segments of the hazardous materials industry with high rates of undeclared shipments through air commerce and educate air carriers, shippers, manufacturers, and other relevant stakeholders of such segments on properly packaging and classifying such shipments.
 
 &emsp;"(2) Educate the public on proper ways to declare and ship hazardous materials, examples of everyday items that are considered hazardous materials, and penalties associated with intentional shipments of undeclared hazardous materials.
 
@@ -1384,7 +1424,7 @@ Limited exceptions to restrictions on air transportation of medical device batte
 
 Medial \[sic\]
 
-device defined.—ln \[sic\] this subsection, the term 'medical device' means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
+device defined.—ln \[sic\] this subsection, the term 'medical device' means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended foruse in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 &emsp;"(4)
 
@@ -1760,7 +1800,7 @@ Aviation Rulemaking Committee.—
 
 &emsp;"(1)
 
-In general.—The Administrator of the Federal Aviation Administration shall convene an aviation rulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
+In general.—The Administrator of the Federal Aviation Administration shall convene an aviationrulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
 
 &emsp;&emsp;"(A) Establish flight crewmember mentoring programs under which the air carrier will pair highly experienced flight crewmembers who will serve as mentor pilots and be paired with newly employed flight crewmembers. Mentor pilots should be provided, at a minimum, specific instruction on techniques for instilling and reinforcing the highest standards of technical performance, airmanship, and professionalism in newly employed flight crewmembers.
 
@@ -2032,7 +2072,7 @@ Effect of Commuting on Fatigue.—
 
 &emsp;"(1)
 
-In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
+In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study ofthe effects of commuting on pilot fatigue and report its findings to the Administrator.
 
 &emsp;"(2)
 
@@ -2162,7 +2202,7 @@ Deadlines.—The Administrator shall issue—
 
 "(d)
 
-Safety Management System Defined.—In this section, the term 'safety management system' means the program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
+Safety Management System Defined.—In this section, the term 'safety management system' meansthe program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
 
 #### "SEC. 216. FLIGHT CREWMEMBER SCREENING AND QUALIFICATIONS.
 
@@ -2306,7 +2346,7 @@ Contents.—The study shall include the following:
 
 &emsp;"(3)
 
-Report.—Not later than 12 months after the initiation of the arrangements under subsection (a), the National Academy of Sciences shall transmit to Congress a report on the results of the study."
+Report.—Not later than 12 months after the initiation of the arrangements under subsection (a),the National Academy of Sciences shall transmit to Congress a report on the results of the study."
 
 #### Air Transportation Oversight System
 
@@ -2426,7 +2466,7 @@ In General.—Not later than 120 days after the last day of the 1-year period de
 
 "(b)
 
-Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemakingrequiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
+Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, orboth, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
 
 "(c)
 

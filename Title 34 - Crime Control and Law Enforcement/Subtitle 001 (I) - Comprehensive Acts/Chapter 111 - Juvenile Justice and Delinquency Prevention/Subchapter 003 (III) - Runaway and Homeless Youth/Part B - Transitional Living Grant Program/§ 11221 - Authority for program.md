@@ -4,6 +4,8 @@ The Secretary is authorized to make grants and to provide technical assistance t
 
 (Pub. L. 93–415, title III, §321, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4455; amended Pub. L. 106–71, §3(e), Oct. 12, 1999, 113 Stat. 1038.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 5714–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -15,6 +17,8 @@ A prior section 321 of Pub. L. 93–415 was renumbered section 363 and is classi
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–71 struck out "Purpose and" before "Authority" in section catchline and struck out subsec. (a) designation before "The Secretary" and subsec. (b) which defined "homeless youth" and "transitional living youth project".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

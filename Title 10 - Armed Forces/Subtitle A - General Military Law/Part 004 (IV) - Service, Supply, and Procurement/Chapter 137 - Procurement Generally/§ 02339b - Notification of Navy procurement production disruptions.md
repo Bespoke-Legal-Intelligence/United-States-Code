@@ -10,3 +10,11 @@ Quarterly Reports.—The Secretary of the Navy shall submit to the congressional
 
 (Added Pub. L. 116–92, div. A, title VIII, §820(a), Dec. 20, 2019, 133 Stat. 1489.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1878(a), Jan. 1, 2021, 134 Stat. 4151, 4292, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 873 of this title, inserted before section 8752, and redesignated as section 8751 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

@@ -4,6 +4,8 @@ All sums that are or may be required to be paid, and all moneys that are or may 
 
 (R.S. §2094.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2094 derived from act Jan. 9, 1837, ch. 1, §2, 5 Stat. 135.

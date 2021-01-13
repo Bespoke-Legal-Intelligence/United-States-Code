@@ -56,6 +56,7 @@
 | 390g–6. | Matching basis for funding phase II from non-Federal sources. |
 | 390g–7. | New spending authority. |
 | 390g–8. | Interstate transfer of water from Arkansas. |
+| 390g–9. | Aquifer recharge flexibility. |
 | [390h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000390h%20-%20Program%20to%20investigate%20reclamation%20and%20reuse%20of%20wastewater%20and%20groundwater%3B%20general%20authority.md) | Program to investigate reclamation and reuse of wastewater and groundwater; general authority. |
 | 390h–1. | Appraisal investigations. |
 | 390h–2. | Feasibility studies. |

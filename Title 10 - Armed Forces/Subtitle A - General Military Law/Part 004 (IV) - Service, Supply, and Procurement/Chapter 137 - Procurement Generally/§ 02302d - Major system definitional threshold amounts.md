@@ -24,11 +24,37 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 
 (3) An adjustment under this subsection shall be effective after the Secretary transmits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the adjustment.
 
-(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605; amended Pub. L. 105–85, div. A, title X, §1073(a)(41), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 104–201, div. A, title VIII, §805(a)(2), Sept. 23, 1996, 110 Stat. 2605; amended Pub. L. 105–85, div. A, title X, §1073(a)(41), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 116–283, div. A, title XVIII, §§1806(c)(3), 1846(e)(1), Jan. 1, 2021, 134 Stat. 4155, 4249.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(c)(3), 1846(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4155, 4249, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsections (a) and (b) to subsections (c) and (d), respectively, of section 3041 of this title; and</i>
+
+<i>(2) by transferring subsection (c) to section 4202(b) and (c) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283, §1806(c)(3), redesignated subsecs. (a) and (b) as section 3041(c) and (d), respectively, of this title.
+
+Subsec. (c). Pub. L. 116–283, §1846(e)(1), redesignated subsec. (c) as section 4202(b) and (c) of this title.
 
 <b>1999</b>—Subsec. (c)(3). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–85 substituted "procurement for the system is estimated to be" for "procurement of".
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

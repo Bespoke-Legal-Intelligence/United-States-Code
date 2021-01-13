@@ -20,7 +20,7 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations, guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
 
-&emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
+&emsp;(3) conduct and support evaluations and studies of the performance and resultsachieved by Federal juvenile delinquency programs and activities;
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
@@ -48,7 +48,9 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
-(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205,Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §201, Dec. 21, 2018, 132 Stat. 5127.)
+(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, §201, Dec. 21, 2018, 132 Stat. 5127.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -78,7 +80,7 @@ Subsec. (b)(7). Pub. L. 115–385, §201(2)(A), (B), (E), redesignated par. (6) 
 
 Subsec. (b)(5). Pub. L. 107–273, §12205(1)(B), substituted "parts D and E" for "parts C and D" wherever appearing.
 
-Subsec. (b)(7). Pub. L. 107–273, §12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles."
+Subsec. (b)(7). Pub. L. 107–273, §12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read asfollows: "not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles."
 
 Subsec. (c). Pub. L. 107–273, §12205(2), substituted "as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency" for "and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part".
 
@@ -120,7 +122,7 @@ Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (l) as (i), struck out "which meets any criterion developed by the Administrator under subsection (d)(1) of this section" after "juvenile delinquency program" and substituted "subsection (c)" for "subsection (f)" in par. (1), and struck out "shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and" after "under paragraph (1)" and "under subsection (e) of this section" after "Administrator may require" in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (l) as (i), struck out "which meets any criterion developed by the Administrator under subsection (d)(1) of this section" after "juvenile delinquency program" and substituted "subsection (c)" for "subsection (f)" in par. (1), and struck out "shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this sectionand" after "under paragraph (1)" and "under subsection (e) of this section" after "Administrator may require" in par. (2). Former subsec. (i) redesignated (f).
 
 Subsecs. (j) to (l). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (l) as (g) to (i), respectively.
 
@@ -182,13 +184,15 @@ Subsec. (l)(1). Pub. L. 95–115, §3(b)(8), inserted "Associate" before "Admini
 
 Subsec. (b)(6). Pub. L. 94–273, §12(3), substituted "June" for "March".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 11101 of this title.
 
 #### Effective Date of 1988 Amendment
 

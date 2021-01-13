@@ -32,7 +32,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) equipment to be used in the operation of the hospital, when the proposed improvements are completed and the equipment is installed; and
 
-&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
+&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition tothose required under the minimum property standards and will be cost-effective over the life of the measure.
 
 &emsp;(3) The mortgage shall—
 
@@ -48,7 +48,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) a written application for such insurance or modification submitted at the express direction of the hospital has been submitted to the appropriate office of the Department of Health and Human Services prior to March 29, 1979; or
 
-&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respectto the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
+&emsp;&emsp;(B) in the case of a nonprofit mortgagor which is seeking refinancing or modification of an existing mortgage insured pursuant to this section or section 1715n(f) of this title, the mortgagor (i) had engaged an investment banker for the purpose of obtaining such refinancing or modification, or had undertaken or arranged for the undertaking of a market or feasibility study with respect to the advisability of obtaining such refinancing or modification, and had made written notification of its interest in such refinancing or modification to the Department of Health and Human Services or the Department of Housing and Urban Development prior to June 7, 1979; and (ii) receives from the programs established under titles XVIII \[42 U.S.C. 1395 et seq.\] and XIX \[42 U.S.C. 1396 et seq.\] of the Social Security Act a percentage of its total revenue which is greater than 125 per centum of the national average for hospitals which derive revenue from such titles.
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
@@ -88,13 +88,15 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of
 
 (June 27, 1934, ch. 847, title II, §242, as added Pub. L. 90–448, title XV, §1501, Aug. 1, 1968, 82 Stat. 599; amended Pub. L. 91–609, title I, §§109, 110(a), Dec. 31, 1970, 84 Stat. 1772; Pub. L. 93–383, title III, §304(i), Aug. 22, 1974, 88 Stat. 678; Pub. L. 95–128, title III, §308, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–153, title III, §315, Dec. 21, 1979, 93 Stat. 1117; Pub. L. 96–399, title III, §310(h), Oct. 8, 1980, 94 Stat. 1643; Pub. L. 97–35, title III, §339H, Aug. 13, 1981, 95 Stat. 418; Pub. L. 98–181, title I \[title IV, §§404(b)(15), 436\], Nov. 30, 1983, 97 Stat. 1210, 1222; Pub. L. 98–479, title II, §§201(a)(1), 204(a)(13), Oct. 17, 1984, 98 Stat. 2227, 2232; Pub. L. 100–242, title IV, §§411(a), 412(a)–(d), Feb. 5, 1988, 101 Stat. 1905, 1906; Pub. L. 108–91, §§2(a), 3(a), Oct. 3, 2003, 117 Stat. 1158; Pub. L. 109–240, §2, July 10, 2006, 120 Stat. 515; Pub. L. 113–76, div. L, title II, §233, Jan. 17, 2014, 128 Stat. 634.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VII of the Act was added by act July 30, 1956, ch. 779, §2, 70 Stat. 717, and is classified generally to subchapter V (§292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -144,6 +146,12 @@ Subsec. (d)(4). Pub. L. 95–128, §308(a), inserted reference to section 1521.
 
 Subsec. (d)(2). Pub. L. 91–609, §109, increased limitation on amount of mortgage from $25,000,000 to $50,000,000.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–91, §2(b), Oct. 3, 2003, 117 Stat. 1158, provided that:
@@ -159,10 +167,6 @@ Effect of regulatory authority.—Any authority of the Secretary of Housing and 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of this title.
-
-#### Change of Name
-
-"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (d)(5)(A), (B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Regulations
 

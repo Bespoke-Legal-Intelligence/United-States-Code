@@ -20,6 +20,8 @@
 
 (Added Pub. L. 100–654, title IV, §401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, §2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, §9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–361, §2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §1(d)(4), Dec. 21, 2004, 118 Stat. 3892.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 8440a was renumbered section 8440b of this title.
@@ -30,7 +32,7 @@ Another section 8440a was renumbered section 8440b of this title.
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–361 substituted "this chapter" for "chapter 84 of this title: <i>Provided, however</i>, That a justice or judge may make the first such election within 60 days of the effective date of this section".
 
-Subsec. (b)(2). Pub. L. 106–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The amount contributed by a justice or judge shall not exceed 5 percent of basic pay."
+Subsec. (b)(2). Pub. L. 106–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Theamount contributed by a justice or judge shall not exceed 5 percent of basic pay."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–208 substituted "less than an amount that the Executive Director prescribes by regulation" for "$3,500 or less" and struck out "unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)" before period at end.
 
@@ -49,6 +51,8 @@ Subsec. (b)(7), (8). Pub. L. 103–226, §9(e)(2), added par. (7) and struck out
 <b>1990</b>—Subsec. (b)(6). Pub. L. 101–335, §3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title."
 
 Subsec. (b)(7), (8). Pub. L. 101–335, §6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -8,7 +8,7 @@ In this subchapter—
 
 &emsp;&emsp;(B) incapable of self-support because of physical or mental disability; or
 
-&emsp;&emsp;(C) between 18 and 22 years of age and is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution. For the purposes of this subchapter, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while such child is regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim period between school years if the interim period is not more than 5 months and if such child shows to the satisfaction of the General Counsel of the Government Accountability Office that such child has a bona fide intention of continuing in the same or a different school during the school semester (orother period into which the school year is divided) immediately after the interim period.
+&emsp;&emsp;(C) between 18 and 22 years of age and is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution. For the purposes of this subchapter, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while such child is regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim period between school years if the interim period is not more than 5 months and if such child shows to the satisfaction of the General Counsel of the Government Accountability Office that such child has a bona fide intention of continuing in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim period.
 
 &emsp;(2) "surviving spouse" means a surviving spouse of an individual who was a Comptroller General or retired Comptroller General and the spouse—
 
@@ -42,6 +42,8 @@ In this subchapter, the words "surviving spouse", "spouse", "surviving spouse's"
 
 In clause (3), the words "or retired Comptroller General" are omitted as executed because a retired Comptroller General could elect survivor benefits and include retirement service only if the Comptroller General had retired by July 13, 1959. The word "total" is omitted as surplus. The words "complete months" are substituted for "twelfth parts thereof, excluding from the aggregate the fractional part of a month, if any" to eliminate unnecessary words. The words "an individual is Comptroller General" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Par. (1)(C). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
@@ -51,6 +53,8 @@ In clause (3), the words "or retired Comptroller General" are omitted as execute
 Par. (2)(A). Pub. L. 100–426, §202(b)(1), substituted "1 year" for "2 years".
 
 Par. (2)(B). Pub. L. 100–426, §202(b)(2), inserted "before age 55" after "remarried".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

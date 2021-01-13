@@ -144,7 +144,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 #### (1) Description of program
 
-&emsp;A description of the State entity's objectives in running a quality charter school program under this section and how the objectives of the program will be carried out, including—
+&emsp;A description of the State entity's objectives in running a quality charter school programunder this section and how the objectives of the program will be carried out, including—
 
 &emsp;&emsp;(A) a description of how the State entity will—
 
@@ -254,7 +254,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;(F) the State entity will work to ensure that charter schools are included with the traditional public schools in decisionmaking about the public school system in the State; and
 
-&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State report card under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
+&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State reportcard under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
 
 &emsp;&emsp;&emsp;(i) information on the educational program;
 
@@ -264,7 +264,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(iv) enrollment criteria (as applicable); and
 
-&emsp;&emsp;&emsp;(v) annual performance and enrollment data for each of the subgroups of students, as defined in section 6311(c)(2) of this title,except that such disaggregation of performance and enrollment data shall not be required in a case in which the number of students in a group is insufficient to yield statically reliable information or the results would reveal personally identifiable information about an individual student.
+&emsp;&emsp;&emsp;(v) annual performance and enrollment data for each of the subgroups of students, as defined in section 6311(c)(2) of this title, except that such disaggregation of performance and enrollment data shall not be required in a case in which the number of students in a group is insufficient to yield statically reliable information or the results would reveal personally identifiable information about an individual student.
 
 #### (3) Requests for waivers
 
@@ -350,7 +350,7 @@ An eligible applicant receiving a subgrant under this section shall use such fun
 
 &emsp;(2) Acquiring supplies, training, equipment (including technology), and educational materials (including developing and acquiring instructional materials).
 
-&emsp;(3) Carrying out necessary renovations to ensure that a new school building complies withapplicable statutes and regulations, and minor facilities repairs (excluding construction).
+&emsp;(3) Carrying out necessary renovations to ensure that a new school building complies with applicable statutes and regulations, and minor facilities repairs (excluding construction).
 
 &emsp;(4) Providing one-time, startup costs associated with providing transportation to students to and from the charter school.
 

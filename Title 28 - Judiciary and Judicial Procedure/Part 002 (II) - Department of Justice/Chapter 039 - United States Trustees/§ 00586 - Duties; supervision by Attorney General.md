@@ -54,7 +54,7 @@
 
 &emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptly after making that finding to the court for relief.
 
-(b) If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
+(b) If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistantUnited States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
 (c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
@@ -109,6 +109,8 @@
 &emsp;(ii) if advisable, take appropriate action, including but not limited to commencing an adversary proceeding to revoke the debtor's discharge pursuant to section 727(d) of title 11.
 
 (Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, §113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, §529 \[title I, §110(a)\], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, §224(a), title V, §502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, §439, title VI, §603(b), title VIII, §802(c)(3), title XII, §1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201; Pub. L. 111–327, §2(c)(3), Dec. 22, 2010, 124 Stat. 3563; Pub. L. 116–54, §4(b)(1), Aug. 23, 2019, 133 Stat. 1086.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -183,6 +185,8 @@ Subsec. (e). Pub. L. 99–554, §113(c), amended subsec. (e) generally. Prior to
 &emsp;&emsp;"(i) such individual actual compensation for such cases, as adjusted under subparagraph (A) of this paragraph; plus
 
 &emsp;&emsp;"(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

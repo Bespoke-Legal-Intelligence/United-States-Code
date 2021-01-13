@@ -178,7 +178,7 @@ For purposes of this subchapter:
 
 The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 

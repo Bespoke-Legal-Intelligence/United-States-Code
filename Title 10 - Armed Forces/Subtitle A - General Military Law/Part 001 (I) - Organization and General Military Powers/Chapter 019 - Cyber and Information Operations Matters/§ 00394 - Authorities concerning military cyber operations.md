@@ -32,7 +32,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(i) as part of a military operation plan approved by the President or the Secretary in anticipation of hostilities or as directed by the President or the Secretary;
 
-&emsp;&emsp;&emsp;(ii) to deter, safeguard, or defend against attacks or malicious cyber activitiesagainst the United States or Department of Defense information, networks, systems, installations, facilities, or other assets; or
+&emsp;&emsp;&emsp;(ii) to deter, safeguard, or defend against attacks or malicious cyber activities against the United States or Department of Defense information, networks, systems, installations, facilities, or other assets; or
 
 &emsp;&emsp;&emsp;(iii) in support of information related capabilities.
 
@@ -44,7 +44,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555,which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
@@ -53,6 +53,136 @@ The Authorization for Use of Military Force, referred to in subsec. (e), is Pub.
 <b>2018</b>—Pub. L. 115–232, §1632, designated existing provisions as subsec. (a), inserted heading, substituted "conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response" for "conduct, a military cyber operation in response", struck out "(as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801))" after "foreign power", and added subsecs. (b) to (f).
 
 Pub. L. 115–232, §1631(a), renumbered section 130g of this title as this section.
+
+#### Framework for Cyber Hunt Forward Operations
+
+Pub. L. 116–283, div. A, title XVII, §1720, Jan. 1, 2021, 134 Stat. 4107, provided that:
+
+"(a)
+
+Framework Required.—Not later than April 1, 2021, the Secretary of Defense shall develop a standard, comprehensive framework to enhance the consistency, execution, and effectiveness of cyber hunt forward operations.
+
+"(b)
+
+Elements.—The framework developed pursuant to subsection (a) shall include the following:
+
+&emsp;"(1) Identification of the selection criteria for proposed cyber hunt forward operations, including specification of necessary thresholds for the justification of operations and thresholds for partner cooperation.
+
+&emsp;"(2) The roles and responsibilities of the following organizations in the support of the planning and execution of cyber hunt forward operations:
+
+&emsp;&emsp;"(A) United States Cyber Command.
+
+&emsp;&emsp;"(B) Service cyber components.
+
+&emsp;&emsp;"(C) The Office of the Under Secretary of Defense for Policy.
+
+&emsp;&emsp;"(D) Geographic combatant commands.
+
+&emsp;&emsp;"(E) Cyber Operations-Integrated Planning Elements and Joint Cyber Centers.
+
+&emsp;&emsp;"(F) Embassies and consulates of the United States.
+
+&emsp;"(3) Pre-deployment planning guidelines to maximize the operational success of each unique operation, including guidance that takes into account the highly variable nature of the following aspects at the tactical level:
+
+&emsp;&emsp;"(A) Team composition, including necessary skillsets \[sic\], recommended training, and guidelines on team size and structure.
+
+&emsp;&emsp;"(B) Relevant factors to determine mission duration in a country of interest.
+
+&emsp;&emsp;"(C) Agreements with partner countries required pre-deployment.
+
+&emsp;&emsp;"(D) Criteria for potential follow-on operations.
+
+&emsp;&emsp;"(E) Equipment and infrastructure required to support the missions.
+
+&emsp;"(4) Metrics to measure the effectiveness of each operation, including means to evaluate the value of discovered malware and infrastructure, the effect on the adversary, and the potential for future engagements with the partner country.
+
+&emsp;"(5) Roles and responsibilities for United States Cyber Command and the National Security Agency in the analysis of relevant mission data.
+
+&emsp;"(6) A detailed description of counterintelligence support for cyber hunt forward operations.
+
+&emsp;"(7) A standardized force presentation model across service components and combatant commands.
+
+&emsp;"(8) Review of active and reserve component personnel policies to account for deployment and redeployment operations, including the following:
+
+&emsp;&emsp;"(A) Global Force Management.
+
+&emsp;&emsp;"(B) Contingency, Exercise, and Deployment orders to be considered for and applied towards deployment credit and benefits.
+
+&emsp;"(9) Such other matters as the Secretary determines relevant.
+
+"(c)
+
+Briefing.—
+
+&emsp;"(1)
+
+In general.—Not later than May 1, 2021, the Secretary of Defense shall provide to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a briefing on the framework developed pursuant to subsection (a).
+
+&emsp;"(2)
+
+Contents.—The briefing required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An overview of the framework developed pursuant to subsection (a).
+
+&emsp;&emsp;"(B) An explanation of the tradeoffs associated with the use of Department of Defense resources for cyber hunt forward missions in the context of competing priorities.
+
+&emsp;&emsp;"(C) Such recommendations as the Secretary may have for legislative action to improve the effectiveness of cyber hunt forward missions."
+
+#### Tailored Cyberspace Operations Organizations
+
+Pub. L. 116–283, div. A, title XVII, §1723, Jan. 1, 2021, 134 Stat. 4110, provided that:
+
+"(a)
+
+Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of the Navy and the Chief of Naval Operations, in consultation with the Commander of United States Cyber Command, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a study of the Navy Cyber Warfare Development Group (NCWDG).
+
+&emsp;"(2)
+
+Elements.—The study required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An examination of NCWDG's structure, manning, authorities, funding, and operations.
+
+&emsp;&emsp;"(B) A review of organizational relationships—
+
+&emsp;&emsp;&emsp;"(i) within the Navy; and
+
+&emsp;&emsp;&emsp;"(ii) to other Department of Defense organizations, as well as non-Department of Defense organizations.
+
+&emsp;&emsp;"(C) Recommendations for how the NCWDG can be strengthened and improved, without growth in size.
+
+&emsp;&emsp;"(D) Such other information as determined necessary or appropriate by the Secretary of the Navy.
+
+&emsp;"(3)
+
+Release.—
+
+&emsp;&emsp;"(A)
+
+To congress.—Not later than 7 days after completion of the study required under paragraph (1), the Secretary of the Navy shall brief the congressional defense committees on the findings of the study.
+
+&emsp;&emsp;"(B)
+
+To service services.— The Secretary of the Navy shall transmit to the secretaries of the military services and the Assistant Secretary of Defense for Special Operations and Irregular Warfare the study required under paragraph (1).
+
+"(b)
+
+Designation.—Notwithstanding any other provision of law, the Secretary of the Navy shall designate the NCWDG as a screened command.
+
+"(c)
+
+Authority to Replicate.—After review of the study required under subsection (a) and consulting the Commander of United States Cyber Command in accordance with procedures established by the Secretary of Defense, the secretaries of the military services may establish tailored cyberspace operations organizations of comparable size to NCWDG within the military service, respectively, of each such secretary. Such counterpart organizations shall have the same authorities as the NCWDG. On behalf of United States Special Operations Command, the Assistant Secretary of Defense for Special Operations and Irregular Warfare may authorize a tailored cyberspace operations organization within United States Special Operations Command of similar size and equivalent authorities as NCWDG.
+
+"(d)
+
+Briefing to Congress.—Not later than 180 days after the date of the enactment of this Act, the secretaries of the military services and the Assistant Secretary of Defense for Special Operations and Irregular Warfare shall brief the congressional defense committees on—
+
+&emsp;"(1) the utilization of the authority provided pursuant to subsection (c); and
+
+&emsp;"(2) if appropriate based on such utilization, details on how the military service, respectively, of each such secretary intends to establish tailored cyberspace operations organizations."
 
 #### Notification of Delegation of Authorities to the Secretary of Defense for Military Operations in Cyberspace
 
@@ -144,7 +274,7 @@ Response Options.—In carrying out the policy set forth in subsection (a), the 
 
 "(c)
 
-Denial Options.—In carrying out the policy set forth in subsection (a) through response options developed pursuant to subsection (b), the United States shall, to the greatest extent practicable, prioritize the defensibility and resiliency against cyber attacks and malicious cyber activities described in subsection (a) of infrastructure critical to the political integrity, economic security, and national security of the United States.
+Denial Options.—In carrying out the policy set forth in subsection (a) through response options developed pursuant to subsection (b), the United States shall, to the greatest extent practicable, prioritize the defensibility and resiliency against cyber attacks andmalicious cyber activities described in subsection (a) of infrastructure critical to the political integrity, economic security, and national security of the United States.
 
 "(d)
 
@@ -244,7 +374,7 @@ Elements.—The national policy required under subsection (a) shall include the 
 
 &emsp;&emsp;"(B) developing offensive cyber capabilities and specific plans and strategies to put at risk targets most valued by adversaries of the United States and their key decision makers; and
 
-&emsp;&emsp;"(C) enhancing attribution capabilities and developing intelligence and offensive cyber capabilitiesto detect, disrupt, and potentially expose malicious cyber activities.
+&emsp;&emsp;"(C) enhancing attribution capabilities and developing intelligence and offensive cyber capabilities to detect, disrupt, and potentially expose malicious cyber activities.
 
 "(c)
 
@@ -380,7 +510,7 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(B) A description of the risk analysis methodologies and modeling and simulation capabilities developed and demonstrated pursuant to the pilot program, and an assessment of the potential for future growth of commercial technology in support of the homeland defense mission of the Department of Defense.
 
-&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate regarding the establishment of a program of record for the Department on further development and sustainment of risk analysis methodologies and advanced, large-scale modeling and simulation on critical infrastructure and cyber warfare.
+&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate regarding the establishment of aprogram of record for the Department on further development and sustainment of risk analysis methodologies and advanced, large-scale modeling and simulation on critical infrastructure and cyber warfare.
 
 &emsp;&emsp;"(D) Lessons learned from the use of novel risk analysis methodologies and large-scale modeling and simulation carried out under the pilot program regarding vulnerabilities, required capabilities, and reconfigured force structure, coordination practices, and policy.
 
@@ -418,7 +548,7 @@ Report to Congress.—Not later than one year after the date of the enactment of
 
 #### Quadrennial Comprehensive Cyber Posture Review
 
-Pub. L. 115–91, div. A, title XVI, §1644, Dec. 12, 2017, 131 Stat. 1748, as amended by Pub. L. 116–92, div. A, title XVI, §1635, Dec. 20, 2019, 133 Stat. 1748, provided that:
+Pub. L. 115–91, div. A, title XVI, §1644, Dec. 12, 2017, 131 Stat. 1748, as amended by Pub. L. 116–92, div. A, title XVI, §1635, Dec. 20, 2019, 133 Stat. 1748; Pub. L. 116–283, div. A, title XVII, §1706, Jan. 1, 2021, 134 Stat. 4083, provided that:
 
 "(a)
 
@@ -432,23 +562,33 @@ Consultation.—The Secretary of Defense shall conduct each review under subsect
 
 Elements of Review.—Each review conducted under subsection (a) shall include, for the posture review period, the following elements:
 
-&emsp;"(1) The role of cyber forces in the military strategy, planning, and programming of the United States.
+&emsp;"(1) The assessment and definition of the role of cyber forces in the national defense and military strategies of the United States.
 
-&emsp;"(2) Review of the role of cyber operations in combatant commander operational planning, the ability of combatant commanders to respond to hostile acts by adversaries, and the ability of combatant commanders to engage and build capacity with allies.
+&emsp;"(2) Review of the following:
 
-&emsp;"(3) A review of the law, policies, and authorities relating to, and necessary for the United States to maintain, a safe, reliable, and credible cyber posture for responding to cyber attacks and for deterrence in cyberspace.
+&emsp;&emsp;"(A) The role of cyber operations in combatant commander warfighting plans.
 
-&emsp;"(4) A declaratory policy relating to the responses of the United States to cyber attacks of significant consequence.
+&emsp;&emsp;"(B) The ability of combatant commanders to respond to adversary cyber attacks.
 
-&emsp;"(5) Proposed norms for the conduct of offensive cyber operations for deterrence and in crisis and conflict.
+&emsp;&emsp;"(C) The international partner cyber capacity-building programs of the Department.
 
-&emsp;"(6) Guidance for the development of a cyber deterrence strategy (which may include activities, capability efforts, and operations other than cyber activities, cyber capability efforts, and cyber operations), including—
+&emsp;"(3) A review of the law, policies, and authorities relating to, and necessary for, the United States to maintain a safe, reliable, and credible cyber posture for defending against and responding to cyber attacks and for deterrence in cyberspace, including the following:
 
-&emsp;&emsp;"(A) a review and assessment of various approaches to cyber deterrence, determined in consultation with experts from Government, academia, and industry;
+&emsp;&emsp;"(A) An assessment of the need for further delegation of cyber-related authorities, including those germane to information warfare, to the Commander of United States Cyber Command.
 
-&emsp;&emsp;"(B) a comparison of the strengths and weaknesses of the approaches identified under subparagraph (A) relative to the threat and to each other; and
+&emsp;&emsp;"(B) An evaluation of the adequacy of mission authorities for all cyber-related military components, defense agencies, directorates, centers, and commands.
 
-&emsp;&emsp;"(C) an explanation of how the cyber deterrence strategy will inform country-specific deterrence campaign plans focused on key leadership of Russia, China, Iran, North Korea, and any other country the Secretary considers appropriate.
+&emsp;"(4) A review of the need for or for updates to a declaratory policy relating to the responses of the United States to cyber attacks of significant consequence.
+
+&emsp;"(5) A review of norms for the conduct of offensive cyber operations for deterrence and in crisis and conflict.
+
+&emsp;"(6) A review of a strategy to deter, degrade, or defeat malicious cyber activity targeting the United States (which may include activities, capability development, and operations other than cyber activities, cyber capability development, and cyber operations), including—
+
+&emsp;&emsp;"(A) a review and assessment of various approaches to competition and deterrence in cyberspace, determined in consultation with experts from Government, academia, and industry;
+
+&emsp;&emsp;"(B) a comparison of the strengths and weaknesses of the approaches identified pursuant to subparagraph (A) relative to the threat of each other; and
+
+&emsp;&emsp;"(C) an assessment as to how the cyber strategy will inform country-specific campaign plans focused on key leadership of Russia, China, Iran, North Korea, and any other country the Secretary considers appropriate.
 
 &emsp;"(7) Identification of the steps that should be taken to bolster stability in cyberspace and, more broadly, stability between major powers, taking into account—
 
@@ -456,13 +596,25 @@ Elements of Review.—Each review conducted under subsection (a) shall include, 
 
 &emsp;&emsp;"(B) consideration of the spiral escalatory effects of countries developing increasingly potent offensive cyber capabilities.
 
-&emsp;"(8) A determination of whether sufficient personnel are trained and equipped to meet validated cyber requirements.
+&emsp;"(8) A comprehensive force structure assessment of the Cyber Operations Forces of the Department for the posture review period, including the following:
 
-&emsp;"(9) An assessment of the potential costs, benefits, and value, if any, of establishing a cyber force as a separate uniformed service.
+&emsp;&emsp;"(A) A determination of the appropriate size and composition of the Cyber Mission Forces to accomplish the mission requirements of the Department.
 
-&emsp;"(10) Any recurrent problems or capability gaps that remain unaddressed since the previous posture review.
+&emsp;&emsp;"(B) An assessment of the Cyber Mission Forces' personnel, capabilities, equipment, funding, operational concepts, and ability to execute cyber operations in a timely fashion.
 
-&emsp;"(11) Such other matters as the Secretary considers appropriate.
+&emsp;&emsp;"(C) An assessment of the personnel, capabilities, equipment, funding, and operational concepts of Cybersecurity Service Providers and other elements of the Cyber Operations Forces.
+
+&emsp;"(9) An assessment of whether the Cyber Mission Force has the appropriate level of interoperability,integration, and interdependence with special operations and conventional forces.
+
+&emsp;"(10) An evaluation of the adequacy of mission authorities for the Joint Force Provider and Joint Force Trainer responsibilities of United States Cyber Command, including the adequacy of the units designated as Cyber Operations Forces to support such responsibilities.
+
+&emsp;"(11) An assessment of the missions and resourcing of the combat support agencies in support of cyber missions of the Department.
+
+&emsp;"(12) An assessment of the potential costs, benefits, and value, if any, of establishing a cyber force as a separate uniformed service.
+
+&emsp;"(13) Any recurrent problems or capability gaps that remain unaddressed since the previous posture review.
+
+&emsp;"(14) Such other matters as the Secretary considers appropriate.
 
 "(d)
 

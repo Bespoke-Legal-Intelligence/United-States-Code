@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program of research, development, demonstration, and commercial application to support development of geothermal energy production from oil and gas fields and production and recovery of energy, including electricity, from geopressured resources. In addition, the Secretary shall conduct such supporting activities including research, resource characterization, and technology development as necessary.
+The Secretary shall establish a program of research, development, demonstration, and commercial application to support development ofgeothermal energy production from oil and gas fields and production and recovery of energy, including electricity, from geopressured resources. In addition, the Secretary shall conduct such supporting activities including research, resource characterization, and technology development as necessary.
 
 #### (b) Geothermal energy production from oil and gas fields
 
@@ -56,7 +56,7 @@ Each grant award for demonstration of geothermal technology such as advanced org
 
 #### (e) Competitive grant selection
 
-Not less than 90 days after December 19, 2007, the Secretary shall conduct a national solicitation for applications for grants under the programs outlined in subsections (b) and (d). Grantrecipients shall be selected on a competitive basis based on criteria in the respective subsection.
+Not less than 90 days after December 19, 2007, the Secretary shall conduct a national solicitation for applications for grants under the programs outlined in subsections (b) and (d). Grant recipients shall be selected on a competitive basis based on criteria in the respective subsection.
 
 #### (f) Well drilling
 

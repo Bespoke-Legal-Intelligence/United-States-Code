@@ -64,7 +64,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (B) Time for election
 
-&emsp;&emsp;An election under this subsection for any taxable year may be made at any time aftera deficiency for such year is asserted but not later than 2 years after the date on which the Secretary has begun collection activities with respect to the individual making the election.
+&emsp;&emsp;An election under this subsection for any taxable year may be made at any time after a deficiency for such year is asserted but not later than 2 years after the date on which the Secretary has begun collection activities with respect to the individual making the election.
 
 #### (C) Election not valid with respect to certain deficiencies
 
@@ -126,7 +126,7 @@ For purposes of subsection (c)—
 
 #### (C) Exception for fraud
 
-&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribed by subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
+&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribedby subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
 
 #### (4) Limitations on separate returns disregarded
 
@@ -190,7 +190,7 @@ For purposes of subsection (c)—
 
 #### (6) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited fromfiling such a petition, and for 60 days thereafter.
 
 #### (7) Standard and scope of review
 
@@ -216,7 +216,7 @@ For purposes of subsection (c)—
 
 &emsp;A request for equitable relief under this subsection may be made with respect to any portion of any liability that—
 
-&emsp;&emsp;(A) has not been paid, provided that such request is made before the expiration of theapplicable period of limitation under section 6502, or
+&emsp;&emsp;(A) has not been paid, provided that such request is made before the expiration of the applicable period of limitation under section 6502, or
 
 &emsp;&emsp;(B) has been paid, provided that such request is made during the period in which the individual could submit a timely claim for refund or credit of such payment.
 

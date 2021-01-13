@@ -114,9 +114,11 @@ Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provi
 
 #### IRS Reports on Information Technology Investments
 
-Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the InternalRevenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
+Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. E, title I, Dec. 27, 2020, 134 Stat. 1386, 1387.
 
 Pub. L. 116–93, div. C, title I, Dec. 20, 2019, 133 Stat. 2440, 2441.
 
@@ -216,7 +218,7 @@ Listed items.—The expenditure items listed in this subparagraph are as follows
 
 &emsp;&emsp;&emsp;"(iv) supplemental \[sic\] nutrition assistance program benefits and welfare programs.
 
-&emsp;&emsp;&emsp;"(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grants to the States, and other Federal law enforcement personnel.
+&emsp;&emsp;&emsp;"(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grantsto the States, and other Federal law enforcement personnel.
 
 &emsp;&emsp;&emsp;"(vi) Infrastructure, including roads, bridges, and mass transit.
 

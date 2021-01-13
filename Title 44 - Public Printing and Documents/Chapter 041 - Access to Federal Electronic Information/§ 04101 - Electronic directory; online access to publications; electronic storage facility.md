@@ -26,9 +26,13 @@ Consultation.—In carrying out this section, the Superintendent of Documents sh
 
 (Added Pub. L. 103–40, §2(a), June 8, 1993, 107 Stat. 112; amended Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Status Report
 
@@ -36,5 +40,5 @@ Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, required the Public Printer 
 
 #### Operational Deadline
 
-Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that: "The directory, the system of access, and the electronic storage facility referred to in section4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\]."
+Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that the electronic sites referred to in this section were to be operational not later than one year after June 8, 1993.
 

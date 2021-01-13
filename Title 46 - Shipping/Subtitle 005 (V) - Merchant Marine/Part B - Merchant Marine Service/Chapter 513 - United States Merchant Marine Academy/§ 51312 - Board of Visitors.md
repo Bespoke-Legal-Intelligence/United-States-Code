@@ -178,7 +178,7 @@ Other reports.—If the members of the Board visit the Academy under subsection 
 
 &emsp;&emsp;(A) prepare a report on such visit; and
 
-&emsp;&emsp;(B) if approved by a majority of the members of the Board, submit such report to thePresident not later than 60 days after the date of the approval.
+&emsp;&emsp;(B) if approved by a majority of the members of the Board, submit such report to the President not later than 60 days after the date of the approval.
 
 &emsp;(3)
 
@@ -218,9 +218,13 @@ June 29, 1936, ch. 858, title XIII, §1303(h), as added Pub. L. 96–453, §2, O
 
 The words "Committee on Armed Services" are substituted for "Committee on Merchant Marine and Fisheries" to reflect changes in committee structure made by the 104th Congress.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to the Board of Visitors and consisted of subsecs. (a) to (d) relating to establishment of the Board, appointment of board members, designation of staff members to the board, and travel expenses, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadlines; Continuation of Service
 

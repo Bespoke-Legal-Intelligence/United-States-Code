@@ -10,7 +10,7 @@ Prohibition on Use of Funds.—Funds available to the Department of Defense may 
 
 (b)
 
-Application of Prohibition.—The prohibition in subsection (a) applies to voluntary contributions, as well as to contributions pursuantto assessment by the United Nations for the United States share of the costs of a peacekeeping activity.
+Application of Prohibition.—The prohibition in subsection (a) applies to voluntary contributions, as well as to contributions pursuant to assessment by the United Nations for the United States share of the costs of a peacekeeping activity.
 
 (Added Pub. L. 104–106, div. A, title XIII, §1301(a), Feb. 10, 1996, 110 Stat. 473.)
 

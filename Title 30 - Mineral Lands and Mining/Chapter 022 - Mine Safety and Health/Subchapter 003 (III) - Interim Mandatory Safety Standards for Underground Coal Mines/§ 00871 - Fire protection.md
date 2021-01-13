@@ -34,13 +34,17 @@ On and after the operative date of this subchapter, all conveyor belts acquired 
 
 (Pub. L. 91–173, title III, §311, Dec. 30, 1969, 83 Stat. 783; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the operative date of this subchapter, referred to subsecs. (a), (e), (g), and (h), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau ofMines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a commission on the education of the deaf (in this section referred to as the "commission") to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, andthose education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
+&emsp;The Secretary shall establish a commission on the education of the deaf (in this section referred to as the "commission") to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
 
 #### (2) Definition
 
@@ -46,7 +46,7 @@ A prior section 4360, Pub. L. 99–371, title II, §211, formerly title IV, §41
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §913(a), inserted "establish a commission on the education of the deaf (in this section referred to as the 'commission') to" after "The Secretary shall".
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §913(a), inserted "establish a commission on the education of the deaf\(in this section referred to as the 'commission') to" after "The Secretary shall".
 
 Subsec. (b). Pub. L. 110–315, §913(b), substituted "commission" for "Secretary" wherever appearing.
 

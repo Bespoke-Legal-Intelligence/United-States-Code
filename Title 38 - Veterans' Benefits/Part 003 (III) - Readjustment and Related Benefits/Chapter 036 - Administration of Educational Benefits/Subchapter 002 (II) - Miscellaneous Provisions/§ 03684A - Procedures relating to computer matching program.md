@@ -1,6 +1,6 @@
 ### §3684A. Procedures relating to computer matching program
 
-(a)(1) Notwithstanding section 552a(p) of title 5 and subject to paragraph (2) of this subsection,the Secretary may suspend, terminate, reduce, or make a final denial of any financial assistance or payment under an educational assistance program provided for in chapter 30 or 32 of this title or in chapter 106 of title 10 in the case of any individual, or take other adverse action against such individual, based on information produced by a matching program with the Department of Defense.
+(a)(1) Notwithstanding section 552a(p) of title 5 and subject to paragraph (2) of this subsection, the Secretary may suspend, terminate, reduce, or make a final denial of any financial assistance or payment under an educational assistance program provided for in chapter 30 or 32 of this title or in chapter 106 of title 10 in the case of any individual, or take other adverse action against such individual, based on information produced by a matching program with the Department of Defense.
 
 (2) The Secretary may not take any action referred to in paragraph (1) of this subsection until—
 
@@ -15,6 +15,8 @@
 (c) For purposes of this section, the term "matching program" has the same meaning provided in section 552a(a)(8) of title 5.
 
 (Added Pub. L. 101–366, title II, §206(a), Aug. 15, 1990, 104 Stat. 441, §1784A; renumbered §3684A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

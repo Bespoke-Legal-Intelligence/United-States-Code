@@ -2,7 +2,7 @@
 
 (a)
 
-Goal.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
+Goal.—It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program (as defined in section 2430 ofthis title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title, and any other acquisition program identified by the Secretary, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
 
 &emsp;(1) Program executive officer.
 
@@ -30,31 +30,35 @@ Goal.—It shall be the goal of the Department of Defense and each of the milita
 
 &emsp;(13) Program lead information technology.
 
+&emsp;(14) Program lead software.
+
 (b)
 
 Plan of Action.—The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
 
-(c)
-
-Definitions.—In this section:
-
-&emsp;(1) The term "major defense acquisition program" has the meaning given such term in section 2430(a) of this title.
-
-&emsp;(2) The term "major automated information system program" has the meaning given such term in section 2445a(a) <sup>1</sup> of this title.
-
-(Added Pub. L. 112–239, div. A, title VIII, §824(a)(1), Jan. 2, 2013, 126 Stat. 1832.)
-
-#### References in Text
-
-Section 2445a of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 114–328, div. A, title VIII, §846(1), Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017.
+(Added Pub. L. 112–239, div. A, title VIII, §824(a)(1), Jan. 2, 2013, 126 Stat. 1832; amended Pub. L. 116–283, div. A, title VIII, §812, title XVIII, §§1846(i)(3), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3749, 4252, 4294.)
 
 #### Prior Provisions
 
 A prior section 1706, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, which related to acquisition career program boards, was repealed by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was executed by substituting "section 4201(a)(2) of this title" for "section 2430(a)(1)(B) of this title" but was not executed with respect to "section 2430 of this title", which was redesignated as multiple sections.
+
+Pub. L. 116–283, §812(1)(A), substituted "(as defined in section 2430 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title, and any other acquisition program identified by the Secretary" for "and each major automated information system program" in introductory provisions.
+
+Subsec. (a)(14). Pub. L. 116–283, §812(1)(B), added par. (14).
+
+Subsec. (c). Pub. L. 116–283, §812(2), struck out subsec. (c) which defined "major defense acquisition program" and "major automated information system program".
+
+Subsec. (c)(1). Pub. L. 116–283, §1846(i)(3), which directed substitution of "section 4201" for "section 2430(a)", could not be executed because of the intervening amendment by Pub. L. 116–283, §812(2). See above.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 1846(i)(3) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Similar Provisions
 
 Provisions similar to this section were contained in section 820 of Pub. L. 109–364, which was set out as a note under section 1701 of this title prior to repeal by Pub. L. 112–239, div. A, title VIII, §824(b), Jan. 2, 2013, 126 Stat. 1833.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -62,7 +62,7 @@
 
 #### (2) Special rule for health and long-term care insurance
 
-&emsp;To the extent provided in section 402(l), paragraph (1) shall not apply to the amount distributed under the contract which is otherwise includible in gross income under this subsection.
+&emsp;To the extent provided in section 402(l), paragraph (1) shall not apply to the amountdistributed under the contract which is otherwise includible in gross income under this subsection.
 
 #### (3) Includible compensation
 
@@ -194,7 +194,7 @@
 
 #### (13) Trustee-to-trustee transfers to purchase permissive service credit
 
-&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmentalplan (as defined in section 414(d)) if such transfer is—
 
 &emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
 
@@ -386,7 +386,7 @@ Subsec. (b)(9). Pub. L. 97–248, §251(b), added par. (9).
 
 Pub. L. 95–458, among other changes, substituted provision permitting tax free treatment for any portion of a lump sum distribution from a qualified retirement plan which is deposited in an individual retirement account or another qualifying plan for provision which required transfer of all such property received.
 
-Subsec. (a)(5). Pub. L. 95–458 struck out par. (5) which related to special rules concerning time of terminationof a profit-sharing plan and the treatment of the sale of a corporate subsidiary or assets as payment or distribution on account of termination of a plan of which an annuity trust was a part.
+Subsec. (a)(5). Pub. L. 95–458 struck out par. (5) which related to special rules concerning time of termination of a profit-sharing plan and the treatment of the sale of a corporate subsidiary or assets as payment or distribution on account of termination of a plan of which an annuity trust was a part.
 
 Subsec. (b)(1). Pub. L. 95–600, §156(b), inserted provision relating to application of rules of this subsection to amounts contributed by an employer for a taxable year.
 
@@ -448,7 +448,7 @@ Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated 
 
 Amendment by section 109(c) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under section 401 of this title.
 
-Pub. L. 116–94, div. O, title I, §111(b), Dec. 20, 2019, 133 Stat. 3152, provided that: "The amendment made bythis section \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–94, div. O, title I, §111(b), Dec. 20, 2019, 133 Stat. 3152, provided that: "The amendment made by this section \[amending this section\] shall apply to years beginning before, on, or after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -552,7 +552,7 @@ Amendment by section 1852(a)(5)(B), (b)(10) of Pub. L. 99–514 effective, excep
 
 Amendment by section 491(d)(12) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
-Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by section 521(c) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 Amendment by section 522 of Pub. L. 98–369 applicable to distributions made after July 18, 1984, in taxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
 
@@ -716,7 +716,7 @@ Pub. L. 100–647, title VI, §6052(b), Nov. 10, 1988, 102 Stat. 3696, provided 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuitycontract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

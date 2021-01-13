@@ -1,0 +1,18 @@
+### §465. Limitations upon entry of poultry products and other materials into official establishments
+
+The Secretary may limit the entry of poultry products and other materials into any official establishment, under such conditions as he may prescribe to assure that allowing the entry of such articles into such inspected establishments will be consistent with the purposes of this chapter.
+
+(Pub. L. 85–172, §16, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, §15, Aug. 18, 1968, 82 Stat. 805.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>1968</b>—Pub. L. 90–492 substituted provisions authorizing the Secretary to limit the entry of poultry products and other materials into any official establishment for provisions that any person distributing unwholesome or adulterated exempted poultry or poultry products intended for human consumption shall be guilty of a misdemeanor and subject to penalties upon conviction thereof.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 1968 Amendment
+
+Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
+

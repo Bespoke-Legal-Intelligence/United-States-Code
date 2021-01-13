@@ -22,7 +22,7 @@
 
 #### (B) Consent required
 
-&emsp;&emsp;No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal or State law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381 et seq.\].
+&emsp;&emsp;No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal orState law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381 et seq.\].
 
 #### (4) Effect of other pending actions
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
-&emsp;&emsp;(iii) As used in this subparagraph, the term "contractual right" includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
+&emsp;&emsp;(iii) As used in this subparagraph, the term "contractual right" includes a right setforth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
 #### (3) Appointment of trustee and attorney
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iv) it appears that such person has, by reason of any other direct or indirect relationship to, connection with, or interest in the debtor or such an underwriter, or for any other reason, an interest materially adverse to the interests of any class of creditors (including customers) or stockholders,
 
-> &emsp;&emsp;except that SIPC shall in all cases be deemed disinterested, and an employee ofSIPC shall be deemed disinterested if such employee would, except for his association with SIPC, meet the standards set forth in this subparagraph.
+> &emsp;&emsp;except that SIPC shall in all cases be deemed disinterested, and an employee of SIPC shall be deemed disinterested if such employee would, except for his association with SIPC, meet the standards set forth in this subparagraph.
 
 #### (B) Hearing
 
@@ -160,7 +160,7 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 <b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted "with respect to a member of SIPC filed with a court under paragraph (3)" for "under paragraph (2)" in introductory text and inserted "may," before "with the" in cl. (A).
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted "with respect to a member of SIPC filed witha court under paragraph (3)" for "under paragraph (2)" in introductory text and inserted "may," before "with the" in cl. (A).
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted "section 101 of title 11" for "the Bankruptcy Act".
 

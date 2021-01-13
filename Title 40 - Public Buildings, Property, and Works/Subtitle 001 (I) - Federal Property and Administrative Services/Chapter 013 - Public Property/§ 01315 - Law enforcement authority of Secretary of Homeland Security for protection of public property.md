@@ -134,6 +134,8 @@ In subsection (g)(1), the words "fined under title 18" are substituted for "fine
 
 In subsection (g)(2)(B), the words "similar offense" are substituted for "like or similar offense" to eliminate unnecessary words. The words "of the United States" are added for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
@@ -160,7 +162,7 @@ Use of Other Law Enforcement Agencies.—When it is considered economical and in
 
 "(e)
 
-Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests without warrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
+Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests withoutwarrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
 
 "(f)
 
@@ -185,6 +187,8 @@ Definition.—For purposes of this paragraph, the term 'military traffic regulat
 &emsp;&emsp;"(B)
 
 In general.—A person violating a military traffic regulation shall be fined an amount not exceeding the amount of the maximum fine for a similar offense under the criminal or civil law of the State, district, territory, or possession of the United States where the military installation in which the violation occurred is located, imprisoned for not more than 30 days, or both."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

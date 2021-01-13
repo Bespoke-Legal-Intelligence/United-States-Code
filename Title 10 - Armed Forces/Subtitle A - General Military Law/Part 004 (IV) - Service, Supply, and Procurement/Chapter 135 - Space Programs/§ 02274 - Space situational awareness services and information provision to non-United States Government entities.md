@@ -84,7 +84,7 @@ Pub. L. 115–91, div. A, title XVI, §1610, Dec. 12, 2017, 131 Stat. 1728, prov
 
 "(a)
 
-Limitation.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2018 for the Joint Space Operations Center mission system, not more than 75 percent may be obligated or expended until the date on which the Secretary of the Air Force certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the Secretary has developed the plan under subsection (b).
+Limitation.—Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2018 for the Joint Space Operations Center mission system, not more than 75 percent may be obligated or expendeduntil the date on which the Secretary of the Air Force certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the Secretary has developed the plan under subsection (b).
 
 "(b)
 

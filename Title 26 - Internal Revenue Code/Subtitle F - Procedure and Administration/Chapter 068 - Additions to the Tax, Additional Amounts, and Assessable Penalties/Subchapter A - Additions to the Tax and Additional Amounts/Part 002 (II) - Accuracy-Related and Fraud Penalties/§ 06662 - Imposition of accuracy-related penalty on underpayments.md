@@ -24,6 +24,8 @@ This section shall apply to the portion of any underpayment which is attributabl
 
 &emsp;(8) Any inconsistent estate basis.
 
+&emsp;(9) Any overstatement of the deduction provided in section 170(p).
+
 > This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
 #### (c) Negligence
@@ -150,7 +152,7 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 #### (C) Special rule
 
-&emsp;&emsp;If the regular tax (as defined in section 55(c)) imposed by chapter 1 on the taxpayer is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of this paragraph.
+&emsp;&emsp;If the regular tax (as defined in section 55(c)) imposed by chapter 1 on the taxpayeris determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of this paragraph.
 
 #### (D) Coordination with reasonable cause exception
 
@@ -238,9 +240,15 @@ For purposes of this section, the term "negligence" includes any failure to make
 
 For purposes of this section, the term "inconsistent estate basis" means any portion of an underpayment attributable to the failure to comply with section 1014(f).
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §11011(c), Dec. 22, 2017, 131 Stat. 2070; Pub. L. 115–141, div. T, §101(a)(2)(A), div. U, title I, §104(a), title IV, §401(a)(303), (304), Mar. 23, 2018, 132 Stat. 1155, 1170, 1199.)
+#### (l) Increase in penalty in case of overstatement of qualified charitable contributions
+
+In the case of any portion of an underpayment which is attributable to one or more overstatements of the deduction provided in section 170(p), subsection (a) shall be applied with respect to such portion by substituting "50 percent" for "20 percent".
+
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928; Pub. L. 108–357, title VIII, §§812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, 118 Stat. 1578, 1580, 1584; Pub. L. 109–135, title IV, §§403(x)(1), 412(aaa), Dec. 21, 2005, 119 Stat. 2629, 2641; Pub. L. 109–280, title XII, §1219(a)(1), (2), Aug. 17, 2006, 120 Stat. 1083; Pub. L. 111–147, title V, §512(a), Mar. 18, 2010, 124 Stat. 110; Pub. L. 111–152, title I, §1409(b)(1), (2), Mar. 30, 2010, 124 Stat. 1068, 1069; Pub. L. 113–295, div. A, title II, §208(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–41, title II, §2004(c), July 31, 2015, 129 Stat. 456; Pub. L. 115–97, title I, §11011(c), Dec. 22, 2017, 131 Stat. 2070; Pub. L. 115–141, div. T, §101(a)(2)(A), div. U, title I, §104(a), title IV, §401(a)(303), (304), Mar. 23, 2018, 132 Stat. 1155, 1170, 1199; Pub. L. 116–260, div. EE, title II, §212(b)(1), (2), Dec. 27, 2020, 134 Stat. 3067.)
 
 #### Codification
+
+Another section 212(b) of div. EE of Pub. L. 116–260 amended section 63 of this title.
 
 Section 1409(b)(1), (2) of Pub. L. 111–152, which directed the amendment of section 6662 without specifying the act to be amended, was executed to this section, which is section 6662 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
 
@@ -251,6 +259,10 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, §6659; May 14, 1960, Pub. L. 86–470, §1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, §101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, §1016(a)(19), 88 Stat. 931; renumbered §6660, Aug. 13, 1981, Pub. L. 97–34, title VII, §722(a)(1), 95 Stat. 341; renumbered §6662, Sept. 3, 1982, Pub. L. 97–248, title III, §323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See section 6665 of this title.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(9). Pub. L. 116–260, §212(b)(1), added par. (9).
+
+Subsec. (l). Pub. L. 116–260, §212(b)(2), added subsec. (l)
 
 <b>2018</b>—Subsec. (d)(1)(C). Pub. L. 115–141, §101(a)(2)(A), substituted "any deduction" for "the deduction".
 
@@ -300,7 +312,7 @@ Subsec. (d)(1)(B). Pub. L. 108–357, §819(a), reenacted heading without change
 
 Subsec. (d)(2)(A). Pub. L. 108–357, §812(b), inserted concluding provisions.
 
-Subsec. (d)(2)(C). Pub. L. 108–357, §812(d), amended subpar. (C) generally, substituting provisions relating to inapplicability of subpar. (B) to any item attributable to a tax shelter and defining the term "tax shelter" for provisions relating to, in the case of any item of a taxpayer other than a corporation which is attributable to a tax shelter, inapplicability of subpar. (B)(ii) and inapplicability of subpar. (B)(i), unless the taxpayer reasonably believed that the tax treatment of such item by the taxpayer was more likely than not the proper treatment, inapplicability of subpar. (B) to any item of a corporation which is attributable to a tax shelter, and provisions defining the term "tax shelter".
+Subsec. (d)(2)(C). Pub. L. 108–357, §812(d), amended subpar. (C) generally, substituting provisions relating to inapplicability of subpar. (B) to any item attributable to a tax shelter and defining the term "tax shelter" for provisions relating to, in the case of any item of a taxpayer other than a corporation which is attributable to a tax shelter, inapplicability of subpar. (B)(ii) and inapplicability of subpar. (B)(i), unless the taxpayer reasonably believed that the tax treatment ofsuch item by the taxpayer was more likely than not the proper treatment, inapplicability of subpar. (B) to any item of a corporation which is attributable to a tax shelter, and provisions defining the term "tax shelter".
 
 Subsec. (d)(2)(D). Pub. L. 108–357, §819(b)(2), struck out heading and text of subpar. (D). Text read as follows: "The Secretary shall prescribe (and revise not less frequently than annually) a list of positions—
 
@@ -350,6 +362,10 @@ Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless 
 
 Subsec. (h)(2)(A). Pub. L. 101–508, §11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting '400 percent' for '200 percent',".
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under section 62 of this title.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 101(a)(2)(A) of Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under section 62 of this title.
@@ -388,7 +404,7 @@ Understatements.—The amendments made by subsection (c)(2) \[amending section 6
 
 Refunds and credits.—The amendment made by subsection (d) \[amending section 6676 of this title\] shall apply to refunds and credits attributable to transactions entered into after the date of the enactment of this Act."
 
-Pub. L. 111–147, title V, §512(b), Mar. 18, 2010, 124 Stat. 111, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 18, 2010\]."
+Pub. L. 111–147, title V, §512(b), Mar. 18, 2010, 124 Stat. 111, provided that: "The amendments made by this section \[amending this section\] shall apply to taxableyears beginning after the date of the enactment of this Act \[Mar. 18, 2010\]."
 
 #### Effective Date of 2006 Amendment
 

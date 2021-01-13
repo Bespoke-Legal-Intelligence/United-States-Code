@@ -80,9 +80,13 @@ Nothing in this subchapter confers upon any person except the Secretary or his o
 
 <i>For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department appointed under section 113(a)(1)(H) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

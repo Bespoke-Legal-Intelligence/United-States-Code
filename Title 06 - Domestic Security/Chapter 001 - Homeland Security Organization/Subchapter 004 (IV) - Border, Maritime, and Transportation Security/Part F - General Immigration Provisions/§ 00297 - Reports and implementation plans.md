@@ -6,7 +6,7 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 #### (b) Division of personnel
 
-The Secretary, not later than 120 days after the effective date of this chapter, shall submit to the Committees on Appropriations and the Judiciary of the House of Representatives and of the Senate a report on the proposed division ofpersonnel between the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
+The Secretary, not later than 120 days after the effective date of this chapter, shall submit to the Committees on Appropriations and the Judiciary of the House of Representatives and of the Senate a report on the proposed division of personnel between the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
 
 #### (c) Implementation plan
 
@@ -62,13 +62,15 @@ The Secretary, not later than 120 days after the effective date of this chapter,
 
 &emsp;&emsp;(B) A statement of the reasons for the determinations under subparagraph (A).
 
-&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship and Immigration Services and the Bureau of Border Security.
+&emsp;&emsp;(C) Any recommendations for further improvements to the Bureau of Citizenship andImmigration Services and the Bureau of Border Security.
 
 #### (3) Report on fees
 
 &emsp;Not later than 1 year after November 25, 2002, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report examining whether the Bureau of Citizenship and Immigration Services is likely to derive sufficient funds from fees to carry out its functions in the absence of appropriated funds.
 
 (Pub. L. 107–296, title IV, §477, Nov. 25, 2002, 116 Stat. 2209.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ This chapter, referred to in subsec. (c)(1), was in the original "this Act", mea
 The Immigration and Nationality Act, referred to in subsec. (c)(2)(F), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 Parts D and E of this subchapter, referred to in subsec. (d)(1)(A), (B), was in the original "subtitles D and E", meaning subtitles D (§§441–446) and E (§§451–462) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2192, 2195, which enacted parts D and E of this subchapter, amended sections 1356 and 1573 of Title 8, Aliens and Nationality, and enacted provisions set out as a note under section 271 of this title. For complete classification of subtitles D and E to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

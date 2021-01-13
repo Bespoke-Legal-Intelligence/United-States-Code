@@ -28,7 +28,7 @@ A prior section 883, Pub. L. 93–203, title III, §313, Dec. 28, 1973, 87 Stat.
 
 A prior section 315 of Pub. L. 93–203, title III, Dec. 28, 1973, 87 Stat. 863, which related to training and technical assistance, was classified to former section 885 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 884, Pub. L. 93–203, title III, §316, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1973, related to evaluation of a prime sponsor's employment and training services program and to the awarding of incentive grants to such sponsors.
+Section 884, Pub. L. 93–203, title III, §316, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1973, related toevaluation of a prime sponsor's employment and training services program and to the awarding of incentive grants to such sponsors.
 
 A prior section 884, Pub. L. 93–203, title III, §314, Dec. 28, 1973, 87 Stat. 863, related to a continuous study with respect to the removal of artificial barriers to employment and advancement, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

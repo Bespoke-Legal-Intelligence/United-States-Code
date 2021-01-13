@@ -26,9 +26,11 @@
 
 (4) For purposes of this subsection, a person shall not be treated as doing business with a Federal agency solely by reason of being a debtor under third party claims of the United States. The preceding sentence shall not apply to a debtor owing claims resulting from petroleum pricing violations or owing claims resulting from Federal loan or loan guarantee/insurance programs.
 
-(d) Notwithstanding section 552a(b) of title 5, United States Code, creditor agencies to which a delinquent claim is owed, and their agents, may match their debtor records with Department of Health and Human Services, and Department of Labor records to obtain names (including names of employees), name controls, names of employers, taxpayer identifying numbers, addresses (including addresses of employers), and dates of birth. The preceding sentence shall apply to the disclosure of taxpayer identifying numbers only if such disclosure is not otherwise prohibited by section 6103 of the Internal Revenue Code of 1986. The Department of Health and Human Services, and the Department of Labor shall release that information to creditor agencies and may charge reasonable fees sufficient to pay the costs associated with that release.
+(d) Notwithstanding section 552a(b) of title 5, United States Code, creditor agencies to which a delinquent claim is owed, and their agents, may match their debtor records with Department of Health and Human Services, and Department of Labor records to obtain names (including names of employees), name controls, names of employers, taxpayer identifying numbers, addresses (including addresses of employers), and dates of birth. The preceding sentence shall apply to the disclosure of taxpayer identifying numbers onlyif such disclosure is not otherwise prohibited by section 6103 of the Internal Revenue Code of 1986. The Department of Health and Human Services, and the Department of Labor shall release that information to creditor agencies and may charge reasonable fees sufficient to pay the costs associated with that release.
 
 (Added Pub. L. 103–272, §4(f)(1)(Y)(i), July 5, 1994, 108 Stat. 1363; amended Pub. L. 104–134, title III, §31001(i)(1), Apr. 26, 1996, 110 Stat. 1321–364.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

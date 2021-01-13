@@ -10,7 +10,7 @@ For the purpose of this chapter:
 
 &emsp;(4) The term "national security position" means a position—
 
-&emsp;&emsp;(A) having national security responsibilities in a <sup>1</sup> agency or office of the Federal Government that has national security responsibilities, as determined under section 1902(g) of this title; and
+&emsp;&emsp;(A) having national security responsibilities in a <sup>1</sup> agency or office of the FederalGovernment that has national security responsibilities, as determined under section 1902(g) of this title; and
 
 &emsp;&emsp;(B) in which the individual in such position makes their foreign language skills available to such agency or office.
 

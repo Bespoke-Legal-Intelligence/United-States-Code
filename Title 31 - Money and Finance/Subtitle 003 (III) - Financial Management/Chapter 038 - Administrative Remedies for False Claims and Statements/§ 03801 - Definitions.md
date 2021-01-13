@@ -130,6 +130,8 @@
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, §4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, §7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, §10, Oct. 14, 2008, 122 Stat. 4314.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
@@ -145,6 +147,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classi
 <b>1994</b>—Subsec. (a)(7)(B)(ii). Pub. L. 103–272 substituted "section 3803 of this title" for "section 3803 of such title".
 
 <b>1986</b>—Subsec. (a)(3), (9). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -178,7 +182,7 @@ Findings.—The Congress finds that—
 
 Purposes.—The purposes of this subtitle \[see Short Title note above\] are—
 
-&emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims andstatements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
+&emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
 
 &emsp;"(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements."
 

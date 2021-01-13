@@ -4,6 +4,8 @@ There shall be paid to the Speaker of the House of Representatives in equal mont
 
 (Jan. 19, 1949, ch. 2, §1(e), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(c), 65 Stat. 570; Pub. L. 104–186, title II, §203(1), Aug. 20, 1996, 110 Stat. 1725.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 31b of this title prior to editorial reclassification and renumbering as this section.
@@ -13,6 +15,8 @@ Section was formerly classified to section 31b of this title prior to editorial 
 <b>1996</b>—Pub. L. 104–186 struck out "(which shall be in lieu of the allowance provided by section 601(b) of the Legislative Reorganization Act of 1946, as amended)" after "per annum".
 
 <b>1951</b>—Act Oct. 20, 1951, made Speaker's expense allowance taxable.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1951 Amendment
 

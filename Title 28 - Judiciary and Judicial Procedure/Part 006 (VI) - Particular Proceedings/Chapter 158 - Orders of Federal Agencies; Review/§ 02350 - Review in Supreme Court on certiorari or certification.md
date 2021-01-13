@@ -24,9 +24,13 @@ The words "of the United States" following "Supreme Court" are omitted as unnece
 
 The words "section 2101(f) of this title" are substituted for "section 2101(e) of Title 28" on authority of the Act of May 24, 1949, ch. 139, §106(b), 63 Stat. 104, which redesignated subsection (e) of section 2101 as subsection (f).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–352 substituted "1254(2)" for "1254(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

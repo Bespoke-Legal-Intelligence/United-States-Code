@@ -84,7 +84,7 @@ Upon making the election specified in subsection (g), it shall be unlawful for a
 
 #### (2) No invalidation of existing certificates
 
-&emsp;Paragraph (1) shall not be construed to alter, invalidate, or otherwise affect any rights orobligations, including rights of redemption, under any periodic payment plan certificate issued and sold before 30 days after September 29, 2006.
+&emsp;Paragraph (1) shall not be construed to alter, invalidate, or otherwise affect any rights or obligations, including rights of redemption, under any periodic payment plan certificate issued and sold before 30 days after September 29, 2006.
 
 (Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 109–290, §4(a), (b), Sept. 29, 2006, 120 Stat. 1318, 1319.)
 

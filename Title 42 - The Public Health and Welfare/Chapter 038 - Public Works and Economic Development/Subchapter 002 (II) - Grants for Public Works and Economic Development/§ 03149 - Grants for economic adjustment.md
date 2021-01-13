@@ -20,7 +20,7 @@ The Secretary may provide assistance under this section only if the Secretary de
 
 Assistance under this section may include assistance provided for activities identified by communities, the economies of which are injured by—
 
-&emsp;(1) military base closures or realignments, defense contractor reductions in force, or Department of Energy defense-related fundingreductions, for help in diversifying their economies through projects to be carried out on Federal Government installations or elsewhere in the communities;
+&emsp;(1) military base closures or realignments, defense contractor reductions in force, or Department of Energy defense-related funding reductions, for help in diversifying their economies through projects to be carried out on Federal Government installations or elsewhere in the communities;
 
 &emsp;(2) disasters or emergencies, in areas with respect to which a major disaster or emergency has been declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), for post-disaster economic recovery;
 

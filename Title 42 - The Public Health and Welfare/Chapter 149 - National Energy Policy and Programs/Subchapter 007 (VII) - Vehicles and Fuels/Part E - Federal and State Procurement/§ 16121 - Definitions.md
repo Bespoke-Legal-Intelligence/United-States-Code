@@ -8,7 +8,7 @@ In this part:
 
 #### (2) Light-duty or heavy-duty vehicle fleet
 
-&emsp;The term "light-duty or heavy-duty vehicle fleet" does not include any vehicle designed or procured for combat or combat-related missions.
+&emsp;The term "light-duty or heavy-duty vehicle fleet" does not include any vehicle designed orprocured for combat or combat-related missions.
 
 #### (3) Stationary; portable
 

@@ -20,11 +20,15 @@ Historical and Revision Notes
 
 The words "members of the Coast Guard" are substituted for the words "officers and enlisted men", since together they compose the entire membership.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
 <b>1968</b>—Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

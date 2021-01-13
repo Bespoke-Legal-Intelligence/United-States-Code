@@ -26,7 +26,7 @@ Powers.—To carry out its duties under this subtitle, the Appalachian Regional 
 
 &emsp;&emsp;(C) person;
 
-&emsp;(8) maintain a temporary office in the District of Columbia and establish a permanentoffice at a central and appropriate location it may select and field offices at other places it may consider appropriate; and
+&emsp;(8) maintain a temporary office in the District of Columbia and establish a permanent office at a central and appropriate location it may select and field offices at other places it may consider appropriate; and
 
 &emsp;(9) take other actions and incur other expenses as may be necessary or appropriate.
 

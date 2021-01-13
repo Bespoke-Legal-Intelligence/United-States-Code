@@ -18,6 +18,8 @@ Words "court requires the original instrument to be produced" were substituted f
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in second par.

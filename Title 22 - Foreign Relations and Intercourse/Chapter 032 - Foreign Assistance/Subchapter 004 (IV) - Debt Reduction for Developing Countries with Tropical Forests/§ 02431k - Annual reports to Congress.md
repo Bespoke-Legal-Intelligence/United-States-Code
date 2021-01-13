@@ -1,6 +1,6 @@
 ### §2431k. Annual reports to Congress
 
-Not later than April 15 of each year, the President shall prepare and transmit to the Congressan annual report concerning the operation of the Facility for the prior calendar year. Such report shall include—
+Not later than April 15 of each year, the President shall prepare and transmit to the Congress an annual report concerning the operation of the Facility for the prior calendar year. Such report shall include—
 
 &emsp;(1) a description of the activities undertaken by the Facility during the previous calendar year;
 
@@ -11,6 +11,8 @@ Not later than April 15 of each year, the President shall prepare and transmit t
 &emsp;(4) a description of any grants that have been provided by administering bodies pursuant to Agreements under this subchapter.
 
 (Pub. L. 87–195, pt. V, §813, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 893; amended Pub. L. 115–440, §10, Jan. 14, 2019, 132 Stat. 5584.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ Section 2435, Pub. L. 87–195, pt. V, §806, as added Pub. L. 93–559, §41, D
 #### Amendments
 
 <b>2019</b>—Pub. L. 115–440 struck out subsec. (a) designation and heading, substituted "April 15" for "December 31" and, in two places, "calendar year" for "fiscal year", and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Not later than December 15 of each year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

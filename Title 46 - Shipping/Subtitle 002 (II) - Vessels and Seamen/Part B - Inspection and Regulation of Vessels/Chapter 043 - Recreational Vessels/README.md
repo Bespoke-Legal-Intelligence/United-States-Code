@@ -6,7 +6,7 @@
 | [4302\.](%C2%A7%2004302%20-%20Regulations.md) | Regulations. |
 | [4303\.](%C2%A7%2004303%20-%20Inspection%20and%20testing.md) | Inspection and testing. |
 | [4304\.](%C2%A7%2004304%20-%20Importation%20of%20nonconforming%20vessels%20and%20equipment.md) | Importation of nonconforming vessels and equipment. |
-| [4305\.](%C2%A7%2004305%20-%20Exemptions.md) | Exemptions. |
+| [4305\.](%C2%A7%2004305%20-%20Exemptions%20and%20equivalents.md) | Exemptions and equivalents. |
 | [4306\.](%C2%A7%2004306%20-%20Federal%20preemption.md) | Federal preemption. |
 | [4307\.](%C2%A7%2004307%20-%20Prohibited%20acts.md) | Prohibited acts. |
 | [4308\.](%C2%A7%2004308%20-%20Termination%20of%20unsafe%20operation.md) | Termination of unsafe operation. |
@@ -21,7 +21,11 @@
 
 Chapter 43 contains the laws applicable to recreational vessels, which originated primarily with the enactment of the Federal Boat Safety Act of 1971 (Public Law 92–75, 85 Stat. 213). That Act embraced a number of activities, but the portion restated in this chapter deals with the establishment of national construction and performance standards for recreational vessels and their associated equipment, the necessary flexible regulatory authority for inspection and testing, Federal preemption, certain necessary prohibited acts, enforcement authority, investigation and reporting requirements, procedures for repair and defect notification, and attendant penalties and injunctive relief. These laws are a direct response to the dramatic increase in the number of recreational boats and the Congressional recognition of the maritime safety problems that recreational boating has imposed upon our more than 25 million miles of waterways.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8318(b), Jan. 1, 2021, 134 Stat. 4700, substituted "Exemptions and equivalents" for "Exemptions" in item 4305.
 
 <b>2018</b>—Pub. L. 115–282, title V, §503(b), Dec. 4, 2018, 132 Stat. 4271, added item 4312.
 
@@ -34,7 +38,7 @@ Chapter 43 contains the laws applicable to recreational vessels, which originate
 - [&sect; 04302 - Regulations](%C2%A7%2004302%20-%20Regulations.md)
 - [&sect; 04303 - Inspection and testing](%C2%A7%2004303%20-%20Inspection%20and%20testing.md)
 - [&sect; 04304 - Importation of nonconforming vessels and equipment](%C2%A7%2004304%20-%20Importation%20of%20nonconforming%20vessels%20and%20equipment.md)
-- [&sect; 04305 - Exemptions](%C2%A7%2004305%20-%20Exemptions.md)
+- [&sect; 04305 - Exemptions and equivalents](%C2%A7%2004305%20-%20Exemptions%20and%20equivalents.md)
 - [&sect; 04306 - Federal preemption](%C2%A7%2004306%20-%20Federal%20preemption.md)
 - [&sect; 04307 - Prohibited acts](%C2%A7%2004307%20-%20Prohibited%20acts.md)
 - [&sect; 04308 - Termination of unsafe operation](%C2%A7%2004308%20-%20Termination%20of%20unsafe%20operation.md)

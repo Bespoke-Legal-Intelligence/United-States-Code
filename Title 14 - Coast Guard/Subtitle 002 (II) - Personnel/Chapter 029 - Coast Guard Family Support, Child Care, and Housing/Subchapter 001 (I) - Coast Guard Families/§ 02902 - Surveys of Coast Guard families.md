@@ -18,15 +18,19 @@ Voluntary Participation.—Participation in any survey conducted under subsectio
 
 (c)
 
-Federal Recordkeeping.—Each person surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44.
+Federal Recordkeeping.—Each individual surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44.
 
-(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3029, §532; renumbered §2902, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, §214(a), Dec. 18, 2014, 128 Stat. 3029, §532; renumbered §2902, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(47), Jan. 1, 2021, 134 Stat. 4750.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 2902 was renumbered section 5102 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 116–283 substituted "individual" for "person".
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 532 of this title as this section.
 

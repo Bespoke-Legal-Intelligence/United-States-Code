@@ -16,7 +16,7 @@ The Administrator shall submit to the Congress by October 1, 1978, a report on t
 
 #### (d) Legislative recommendations on program requiring coordination between water supply and wastewater control plans as condition for construction grants; public hearing
 
-The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resourcesagencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants for construction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
+The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resources agencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants for construction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
 
 #### (e) State revolving fund report
 
@@ -42,6 +42,8 @@ The Administrator, in cooperation with the States, including water pollution con
 
 (June 30, 1948, ch. 758, title V, §516, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 895; amended Pub. L. 93–243, §4, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§70–72, Dec. 27, 1977, 91 Stat. 1608, 1609; Pub. L. 100–4, title II, §212(c), Feb. 4, 1987, 101 Stat. 27; Pub. L. 104–66, title II, §2021(d), Dec. 21, 1995, 109 Stat. 727; Pub. L. 105–362, title V, §501(d)(1), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsecs. (a) to (e). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(1). See 1998 Amendment notes below.
@@ -60,6 +62,8 @@ Subsecs. (c) to (e). Pub. L. 105–362, §501(d)(1)(A), which directed the strik
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–243 designated existing paragraph as par. (1) and cls. (1) to (4) as (A) to (D), and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
@@ -68,7 +72,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 Pub. L. 100–4, title III, §308(g), Feb. 4, 1987, 101 Stat. 40, directed Administrator to conduct a water quality improvement study and report results of such study to specified Congressional committees not later than 2 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title III, §314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administrator to each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
+Pub. L. 100–4, title III, §314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administratorto each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
 
 Pub. L. 100–4, title IV, §404(c), Feb. 4, 1987, 101 Stat. 69, directed Administrator to study extent to which States have adopted water quality standards in accordance with section 1313a of this title and extent to which modifications of permits issued under section 1342(a)(1)(B) of this title for the purpose of reflecting revisions of water quality standards be encouraged and to submit a report on such study to Congress not later than 2 years after Feb. 4, 1987, prior to repeal by Pub. L. 104–66, title II, §2021(e)(1), Dec. 21, 1995, 109 Stat. 727.
 
@@ -80,7 +84,7 @@ Pub. L. 100–4, title V, §518, Feb. 4, 1987, 101 Stat. 86, directed Administra
 
 Pub. L. 100–4, title V, §519, Feb. 4, 1987, 101 Stat. 87, directed Administrator to conduct a study of pretreatment of toxic pollutants and report results of such study to specified Congressional committees not later than 4 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title V, §520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollutionproblems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
+Pub. L. 100–4, title V, §520, Feb. 4, 1987, 101 Stat. 87, directed Administrator, in conjunction with State and local agencies, to conduct studies of water pollution problems in aquifers and report result of such studies to Congress not later than 2 years after Feb. 4, 1987.
 
 Pub. L. 100–4, title V, §522, Feb. 4, 1987, 101 Stat. 88, directed Administrator to conduct a study on sulfide corrosion in collection and treatment systems and report results of such study to specified Congressional committees not later than 1 year after Feb. 4, 1987.
 

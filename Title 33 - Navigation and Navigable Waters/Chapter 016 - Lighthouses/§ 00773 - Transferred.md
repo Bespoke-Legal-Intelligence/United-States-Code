@@ -1,0 +1,8 @@
+### §773. Transferred
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Section, act Aug. 19, 1950, ch. 761, §3, 64 Stat. 466, which related to application for benefits for surviving spouses of Lighthouse Service employees and employee death benefits, was transferred to section 2534(a) of Title 14, Coast Guard.
+

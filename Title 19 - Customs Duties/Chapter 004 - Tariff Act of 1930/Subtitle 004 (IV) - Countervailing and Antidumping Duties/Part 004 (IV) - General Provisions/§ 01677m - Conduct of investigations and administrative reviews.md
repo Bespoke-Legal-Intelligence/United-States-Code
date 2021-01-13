@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections whosubmits to the administering authority the information requested from exporters or producers selected for examination, if—
+&emsp;In any investigation under part I or II of this subtitle or a review under section 1675(a) of this title in which the administering authority has, under section 1677f–1(c)(2) of this title or section 1677f–1(e)(2)(A) of this title (whichever is applicable), limited the number of exporters or producers examined, or determined a single country-wide rate, the administering authority shall establish an individual countervailable subsidy rate or an individual weighted average dumping margin for any exporter or producer not initially selected for individual examination under such sections who submits to the administering authority the information requested from exporters or producers selected for examination, if—
 
 &emsp;&emsp;(A) such information is so submitted by the date specified—
 
@@ -70,7 +70,7 @@ If the administering authority or the Commission declines to accept into the rec
 
 #### (g) Public comment on information
 
-Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceedingunder this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously had an opportunity to comment. Comments containing new factual information shall be disregarded.
+Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceeding under this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously had an opportunity to comment. Comments containing new factual information shall be disregarded.
 
 #### (h) Termination of investigation or revocation of order for lack of interest
 

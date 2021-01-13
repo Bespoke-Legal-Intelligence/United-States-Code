@@ -40,7 +40,7 @@ Fuel Costs.—
 
 &emsp;(1)
 
-In general.—Subject to the availability of appropriations, the Secretary shall pay to each State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
+In general.—Subject to the availability of appropriations, the Secretary shall pay toeach State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
 
 &emsp;(2)
 
@@ -141,6 +141,8 @@ In subsection (a), the reference to territories is omitted as unnecessary becaus
 In subsection (e), before paragraph (1), the word "agency" is substituted for "department or agency of the United States" because of the definition of "agency" in chapter 1 of the revised title.
 
 In subsection (g), the 1st–3d sentences of section 4 of Public Law 101–115 are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

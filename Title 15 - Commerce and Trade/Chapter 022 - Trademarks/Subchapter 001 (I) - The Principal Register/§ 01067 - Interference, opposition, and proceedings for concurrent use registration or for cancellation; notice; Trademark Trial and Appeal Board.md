@@ -20,7 +20,7 @@ Act Feb. 20, 1905, ch. 592, §7, 33 Stat. 726.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–313, §1(b)(1), inserted "Deputy Director of the United States Patent and Trademark Office" after "Director," and substituted "appointed by the Secretary of Commerce, in consultation with the Director" for "appointed by the Director".
+<b>2008</b>—Subsec. (b). Pub. L. 110–313, §1(b)(1), inserted "Deputy Director of the United States Patent and Trademark Office" after "Director," and substituted"appointed by the Secretary of Commerce, in consultation with the Director" for "appointed by the Director".
 
 Subsecs. (c), (d). Pub. L. 110–313, §1(b)(2), added subsecs. (c) and (d).
 

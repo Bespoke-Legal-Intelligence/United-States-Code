@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child supportorder. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
+&emsp;Each group health plan shall provide benefits in accordance with the applicable requirements of any qualified medical child support order. A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.
 
 #### (2) Definitions
 
@@ -122,7 +122,7 @@
 
 #### (3) Acquisition by States of rights of third parties
 
-&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to makepayment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+&emsp;A group health plan shall provide that, to the extent that payment has been made undera State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
 
 #### (c) Group health plan coverage of dependent children in cases of adoption
 
@@ -155,6 +155,8 @@ A group health plan may not reduce its coverage of the costs of pediatric vaccin
 Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.
 
 (Pub. L. 93–406, title I, §609, as added Pub. L. 103–66, title IV, §4301(a), Aug. 10, 1993, 107 Stat. 371; amended Pub. L. 104–193, title III, §381(a), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 105–33, title V, §§5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, 111 Stat. 647, 648; Pub. L. 105–200, title IV, §401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, 112 Stat. 662, 668.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -189,6 +191,8 @@ Subsec. (a)(3)(D). Pub. L. 105–33, §5613(a)(4), struck out subpar. (D) which 
 Subsec. (a)(9). Pub. L. 105–33, §5611(b), added par. (9).
 
 <b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–193 substituted "which—" for "issued by a court of competent jurisdiction which—" in introductory provisions, substituted a comma for a period at end of cl. (ii), and inserted concluding provisions after cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -384,7 +388,7 @@ Rule of construction.—Nothing in this subparagraph shall be construed as requi
 
 &emsp;"(6)
 
-Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be madeto the alternate recipient or the alternate recipient's custodial parent or legal guardian.
+Direct provision of benefits provided to alternate recipients.—Any payment for benefits made by a church group health plan pursuant to a medical child support order in reimbursement for expenses paid by an alternate recipient or an alternate recipient's custodial parent or legal guardian shall be made to the alternate recipient or the alternate recipient's custodial parent or legal guardian.
 
 &emsp;"(7)
 

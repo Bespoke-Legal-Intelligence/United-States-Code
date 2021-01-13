@@ -2,7 +2,7 @@
 
 The Surgeon General, pursuant to regulations, shall—
 
-(a) Control, manage, and operate all institutions, hospitals, and stations of the Service, including minor repairs and maintenance, and provide for the care, treatment, and hospitalization of patients, including the furnishing of prosthetic and orthopedic devices; and from time to time, with the approval of the President, select suitable sites for and establish such additional institutions, hospitals, and stations in the States and possessions of the United States as in his judgment are necessary to enable the Service to discharge its functions and duties;
+(a) Control, manage, and operate all institutions, hospitals, and stations of the Service, including minor repairs and maintenance, and provide for the care, treatment, and hospitalization of patients, including the furnishing of prosthetic and orthopedic devices; and from time to time, with the approval of the President, selectsuitable sites for and establish such additional institutions, hospitals, and stations in the States and possessions of the United States as in his judgment are necessary to enable the Service to discharge its functions and duties;
 
 (b) Provide for the transfer of Public Health Service patients, in the care of attendants where necessary, between hospitals and stations operated by the Service or between such hospitals and stations and other hospitals and stations in which Public Health Service patients may be received, and the payment of expenses of such transfer;
 

@@ -150,7 +150,7 @@ Schedule I
 
 &emsp;(42) Trimeperidine.
 
-(b) Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
+(b) Unless specifically excepted or unless listed in another schedule, any of the followingopium derivatives, their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 &emsp;(1) Acetorphine.
 
@@ -314,7 +314,7 @@ Schedule II
 
 &emsp;(4) coca <sup>3</sup> leaves, except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed; cocaine, its salts, optical and geometric isomers, and salts of isomers; ecgonine, its derivatives, their salts, isomers, and salts of isomers; or any compound, mixture, or preparation which contains any quantity of any of the substances referred to in this paragraph.
 
-(b) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters,ethers, and salts is possible within the specific chemical designation:
+(b) Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation:
 
 &emsp;(1) Alphaprodine.
 
@@ -406,7 +406,7 @@ Schedule III
 
 &emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
-&emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not morethan 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -456,6 +456,8 @@ Any compound, mixture, or preparation containing any of the following limited qu
 
 (Pub. L. 91–513, title II, §202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, §103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, §1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, §1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, §1152, July 9, 2012, 126 Stat. 1130; Pub. L. 115–334, title XII, §12619(b), Dec. 20, 2018, 132 Stat. 5018.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–334 inserted ", except for tetrahydrocannabinols in hemp (as defined under section 1639o of title 7)" after "Tetrahydrocannabinols" in schedule I(c)(17).
@@ -475,6 +477,8 @@ Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedu
 Subsec. (d). Pub. L. 98–473, §509(b), struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
 
 <b>1978</b>—Subsec. (d)(3). Pub. L. 95–633 added cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -518,7 +522,7 @@ Emergency Scheduling of GHB.—
 
 In general.—The Congress finds that the abuse of illicit gamma hydroxybutyric acid is an imminent hazard to the public safety. Accordingly, the Attorney General, notwithstanding sections 201(a), 201(b), 201(c), and 202 of the Controlled Substances Act \[21 U.S.C. 811(a)–(c), 812\], shall issue, not later than 60 days after the date of the enactment of this Act \[Feb. 18, 2000\], a final order that schedules such drug (together with its salts, isomers, and salts of isomers) in the same schedule under section 202(c) of the Controlled Substances Act as would apply to a scheduling of a substance by the Attorney General under section 201(h)(1) of such Act (relating to imminent hazards to the public safety), except as follows:
 
-&emsp;&emsp;"(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (actingthrough the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
+&emsp;&emsp;"(A) For purposes of any requirements that relate to the physical security of registered manufacturers and registered distributors, the final order shall treat such drug, when the drug is manufactured, distributed, or possessed in accordance with an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(i)\] (whether the exemption involved is authorized before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), as being in the same schedule as that recommended by the Secretary of Health and Human Services for the drug when the drug is the subject of an authorized investigational new drug application (relating to such section 505(i)). The recommendation referred to in the preceding sentence is contained in the first paragraph of the letter transmitted on May 19, 1999, by such Secretary (acting through the Assistant Secretary for Health) to the Attorney General (acting through the Deputy Administrator of the Drug Enforcement Administration), which letter was in response to the letter transmitted by the Attorney General (acting through such Deputy Administrator) on September 16, 1997. In publishing the final order in the Federal Register, the Attorney General shall publish a copy of the letter that was transmitted by the Secretary of Health and Human Services.
 
 &emsp;&emsp;"(B) In the case of gamma hydroxybutyric acid that is contained in a drug product for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\] (whether the application involved is approved before, on, or after the date of the enactment of this Act \[Feb. 18, 2000\]), the final order shall schedule such drug in the same schedule as that recommended by the Secretary of Health and Human Services for authorized formulations of the drug. The recommendation referred to in the preceding sentence is contained in the last sentence of the fourth paragraph of the letter referred to in subparagraph (A) with respect to May 19, 1999.
 

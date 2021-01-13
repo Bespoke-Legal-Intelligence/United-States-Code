@@ -16,7 +16,7 @@ The Secretary of State is authorized to—
 
 &emsp;(B) are a matter of urgency to implement;
 
-&emsp;(C) with respect to activities the expenditures for which are required to be certified under subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+&emsp;(C) with respect to activities the expenditures for which are required to be certifiedunder subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
 
 &emsp;(D) are not otherwise prohibited by law.
 
@@ -78,6 +78,8 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 (Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 107–228, div. A, title II, §201, Sept. 30, 2002, 116 Stat. 1361.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3718(c) of title 31, referred to in subsec. (d)(7), was renumbered section 3718(e) of title 31 by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
@@ -96,11 +98,13 @@ Section was formerly classified to section 170i of Title 5 prior to the general 
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out "and the Foreign Service" after "Department of State" and substituted "a periodic" for "an annual confidential".
 
-<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) aspars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to transmitting an annual report to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance, and page 131 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to transmitting an annual report to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 131 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

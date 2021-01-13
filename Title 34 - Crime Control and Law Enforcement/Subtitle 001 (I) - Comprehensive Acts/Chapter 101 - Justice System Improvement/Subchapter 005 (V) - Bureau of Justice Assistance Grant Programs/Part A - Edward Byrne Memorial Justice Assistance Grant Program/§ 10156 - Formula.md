@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) allocate 0.25 percent of the total amount to each State; and
 
-&emsp;&emsp;(B) using the amount remaining after carrying out subparagraph (A), carry out paragraph (1) in a manner that excludes each minimum allocation State, including the population of and the crimes reported by such State.
+&emsp;&emsp;(B) using the amount remaining after carrying out subparagraph (A), carry out paragraph (1) in a manner that excludes eachminimum allocation State, including the population of and the crimes reported by such State.
 
 #### (b) Allocation between States and units of local government
 
@@ -122,6 +122,8 @@ For purposes of this section, the term "part 1 violent crimes" shall include sev
 
 (Pub. L. 90–351, title I, §505, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097; amended Pub. L. 114–22, title I, §107, May 29, 2015, 129 Stat. 238.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3755 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -139,6 +141,8 @@ Another prior section 505 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 #### Amendments
 
 <b>2015</b>—Subsec. (i). Pub. L. 114–22 added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

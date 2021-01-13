@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regional plan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
+Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regionalplan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
 
 #### (b) Contents
 
@@ -98,7 +98,7 @@ Prior to the date on which the local board submits a local plan under this secti
 
 &emsp;(1) make available copies of a proposed local plan to the public through electronic and other means, such as public hearings and local news media;
 
-&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not later than the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
+&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not laterthan the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
 
 &emsp;(3) include with the local plan submitted to the Governor under this section any such comments that represent disagreement with the plan.
 
@@ -114,6 +114,8 @@ A local plan submitted to the Governor under this section (including a modificat
 
 (Pub. L. 113–128, title I, §108, July 22, 2014, 128 Stat. 1466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
@@ -125,6 +127,8 @@ The Wagner-Peyser Act, referred to in subsec. (b)(12), is act June 6, 1933, ch. 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 This Act, referred to in subsecs. (b)(21) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

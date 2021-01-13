@@ -12,7 +12,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(A) transactions taking place prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter,
 
-&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
+&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or suchshorter period as the Commission may specify by rules and regulations or order, and
 
 &emsp;&emsp;(C) transactions as to securities constituting the whole or a part of an unsold allotment to or subscription by such dealer as a participant in the distribution of such securities by the issuer or by or through an underwriter.
 
@@ -44,7 +44,7 @@ Offers and sales exempt under section 230.506 of title 17, Code of Federal Regul
 
 #### (c) Securities offered and sold in compliance with Rule 506 of Regulation D
 
-(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation Dunder this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup>1</sup> solely because—
+(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup>1</sup> solely because—
 
 &emsp;(A) that person maintains a platform or mechanism that permits the offer, sale, purchase, or negotiation of or with respect to securities, or permits general solicitations, general advertisements, or similar or related activities by issuers of such securities, whether online, in person, or through any other means;
 
@@ -114,7 +114,7 @@ Information requirement.—In the case of a transaction involving the securities
 
 &emsp;&emsp;&emsp;(iv) if the balance sheet is not as of a date less than 6 months before the transaction date, be accompanied by additional statements of profit and loss for the period from the date of such balance sheet to a date less than 6 months before the transaction date.
 
-&emsp;&emsp;(K) To the extent that the seller is a control person with respect to the issuer, a briefstatement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+&emsp;&emsp;(K) To the extent that the seller is a control person with respect to the issuer, a brief statement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
 
 &emsp;(4)
 
@@ -230,7 +230,7 @@ Pub. L. 112–106, title II, §201(a), Apr. 5, 2012, 126 Stat. 313, provided tha
 
 #### Rulemaking
 
-Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: "Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the 'Commission') shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means "section 4(a)(6)"\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association."
+Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: "Not later than 270 days after thedate of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the 'Commission') shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means "section 4(a)(6)"\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association."
 
 #### Disqualification
 

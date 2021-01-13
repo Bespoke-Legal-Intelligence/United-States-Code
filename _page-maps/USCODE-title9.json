@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title9",
- "package": "USCODE-2019-title9",
+ "package": "USCODE-2020-title9",
  "pieces": [
   {
    "id": "9_",
@@ -33,7 +33,7 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 2]",
      true
     ]
@@ -84,10 +84,14 @@
    "id": "9_6",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 3]",
-     true
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 3]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00006 - Application heard as motion.md",
@@ -127,14 +131,10 @@
    "id": "9_10",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       169,
-       "[Page 4]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 4]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00010 - Same; vacation; grounds; rehearing.md",
@@ -181,26 +181,26 @@
   },
   {
    "id": "9_15",
-   "marks": [],
-   "path": "Chapter 001 - General Provisions/§ 00015 - Inapplicability of the Act of State doctrine.md",
-   "printed_pages": [
-    4,
-    4
-   ]
-  },
-  {
-   "id": "9_16",
    "marks": [
     [
      "L",
-     14,
+     12,
      "[Page 5]",
      true
     ]
    ],
-   "path": "Chapter 001 - General Provisions/§ 00016 - Appeals.md",
+   "path": "Chapter 001 - General Provisions/§ 00015 - Inapplicability of the Act of State doctrine.md",
    "printed_pages": [
     4,
+    5
+   ]
+  },
+  {
+   "id": "9_16",
+   "marks": [],
+   "path": "Chapter 001 - General Provisions/§ 00016 - Appeals.md",
+   "printed_pages": [
+    5,
     5
    ]
   },
@@ -242,30 +242,30 @@
   },
   {
    "id": "9_204",
-   "marks": [],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00204 - Venue.md",
-   "printed_pages": [
-    5,
-    5
-   ]
-  },
-  {
-   "id": "9_205",
    "marks": [
     [
      "I",
      2,
      [
       [
-       275,
+       322,
        "[Page 6]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00205 - Removal of cases from State courts.md",
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00204 - Venue.md",
    "printed_pages": [
     5,
+    6
+   ]
+  },
+  {
+   "id": "9_205",
+   "marks": [],
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00205 - Removal of cases from State courts.md",
+   "printed_pages": [
+    6,
     6
    ]
   },
@@ -307,11 +307,18 @@
   },
   {
    "id": "9_301",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 7]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00301 - Enforcement of Convention.md",
    "printed_pages": [
     6,
-    6
+    7
    ]
   },
   {
@@ -319,23 +326,16 @@
    "marks": [],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00302 - Incorporation by reference.md",
    "printed_pages": [
-    6,
-    6
+    7,
+    7
    ]
   },
   {
    "id": "9_303",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 7]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00303 - Order to compel arbitration; appointment of arbitrators; locale.md",
    "printed_pages": [
-    6,
+    7,
     7
    ]
   },
@@ -368,14 +368,25 @@
   },
   {
    "id": "9_307",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       100,
+       "[Page 8]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00307 - Chapter 1; residual application.md",
    "printed_pages": [
     7,
-    7
+    8
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2019-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2020-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 09 - Arbitration"
 }

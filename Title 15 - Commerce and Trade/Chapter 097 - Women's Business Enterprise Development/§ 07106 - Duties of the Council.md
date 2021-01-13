@@ -38,7 +38,7 @@ The Council shall—
 
 The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
-(Pub. L. 100–533, title IV, §406, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4195; amended Pub. L. 105–135, title III, §303, Dec. 2, 1997, 111 Stat. 2609.)
+(Pub. L. 100–533, title IV, §406, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4195;amended Pub. L. 105–135, title III, §303, Dec. 2, 1997, 111 Stat. 2609.)
 
 #### Prior Provisions
 

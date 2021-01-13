@@ -18,7 +18,7 @@ Amount of Claim.—If a vessel is actually or constructively totally lost and th
 
 &emsp;(1) shall be paid, as a tentative advance only, 75 percent of the stated valuation; and
 
-&emsp;(2) may bring a civil action against the United States in a court having jurisdiction of the claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
+&emsp;(2) may bring a civil action against the United States in a court having jurisdiction ofthe claim to recover a valuation equal to the just compensation the court determines would have been payable if the ownership of the vessel had been requisitioned under chapter 563 of this title at the time the insurance attached under the policy.
 
 (d)
 
@@ -42,5 +42,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XII, §1209(a)(2), as added Sept. 7, 1950, ch. 906, 64 Stat. 775; Aug. 3, 1956, ch. 929, §1, 70 Stat. 984; Pub. L. 88–478, §1, Aug. 22, 1964, 78 Stat. 587.
 
-In subsection (c), the words "<i>Provided</i>, That in the event of an election by the insured to reject the statedvaluation fixed by the Secretary and to sue in the courts, the amount of the judgment will be payable without regard to the limitations contained in section 1242–1 of this Appendix, although the excess of any amounts advanced on account of just compensation over the amount of the court judgment will be required to be refunded" are omitted as obsolete because the section referred to, which was from the Department of Commerce and Related Agencies Appropriation Act, 1959 (Pub. L. 85–469, 72 Stat. 231), has been omitted from the United States Code as obsolete.
+In subsection (c), the words "<i>Provided</i>, That in the event of an election by the insured to reject the stated valuation fixed by the Secretary and to sue in the courts, the amount of the judgment will be payable without regard to the limitations contained in section 1242–1 of this Appendix, although the excess of any amounts advanced on account of just compensation over the amount of the court judgment will be required to be refunded" are omitted as obsolete because the section referred to, which was from the Department of Commerce and Related Agencies Appropriation Act, 1959 (Pub. L. 85–469, 72 Stat. 231), has been omitted from the United States Code as obsolete.
 

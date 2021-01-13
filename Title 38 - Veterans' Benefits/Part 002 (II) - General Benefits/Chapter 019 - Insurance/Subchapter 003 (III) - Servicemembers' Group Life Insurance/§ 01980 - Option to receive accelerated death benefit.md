@@ -4,7 +4,7 @@
 
 (b)(1) A terminally ill person insured under Servicemembers' Group Life Insurance or Veterans' Group Life Insurance may elect to receive in a lump-sum payment a portion of the face value of the insurance as an accelerated death benefit.
 
-(2) The Secretary shall prescribe the maximum amount of the accelerated death benefit available under this section that the Secretary finds to be administratively practicable and actuarially sound, but in no event may the amount of the benefit exceed the amount equal to 50 percent of the face value of the person's insurance in force on the date the election of the person to receive the benefit is approved.
+(2) The Secretary shall prescribe the maximum amount of the accelerated death benefit available under this section that the Secretary finds to be administratively practicable and actuarially sound, but in no event may the amount of the benefit exceed the amount equalto 50 percent of the face value of the person's insurance in force on the date the election of the person to receive the benefit is approved.
 
 (3) A person making an election under this section may elect to receive an amount that is less than the maximum amount prescribed under paragraph (2). The Secretary shall prescribe the increments in which a reduced amount under this paragraph may be elected.
 
@@ -28,9 +28,13 @@
 
 (Added Pub. L. 105–368, title III, §302(a)(1), Nov. 11, 1998, 112 Stat. 3332; amended Pub. L. 111–275, title IV, §405(a), Oct. 13, 2010, 124 Stat. 2880.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–275 struck out "reduced by an amount necessary to assure that there is no increase in the actuarial value of the benefit paid, as determined by the Secretary" after "death benefit".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

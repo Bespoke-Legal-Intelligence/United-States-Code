@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(E) Provisions that the center, in carrying out the activities, will seek, where appropriate, the advice, participation, expertise, and assistance of representatives of business, industry, educational institutions, the Federal Government, and State and local governments.
 
-&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center, particularly from sources in the private sector.
+&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center,particularly from sources in the private sector.
 
 &emsp;&emsp;(G) Provisions for—
 
@@ -212,7 +212,7 @@
 
 #### (10) Cooperative research program
 
-&emsp;The Secretary shall enter into a cooperative research agreement with 1 or more qualifiedacademic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
+&emsp;The Secretary shall enter into a cooperative research agreement with 1 or more qualified academic institutions in each fiscal year to conduct research (including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census) on the effects of all types of cooperatives on the national economy.
 
 #### (11) Addressing needs of minority communities
 
@@ -236,7 +236,7 @@
 
 #### (12) Interagency working group
 
-&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
+&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and localcooperative organizations that have cooperative programs and interests.
 
 #### (13) Authorization of appropriations
 
@@ -294,7 +294,7 @@
 
 #### (5) Fees
 
-&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan inan amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
+&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan in an amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
 
 #### (6) Loan guarantees in nonrural areas
 
@@ -320,7 +320,7 @@
 
 #### (B) Accounts receivable
 
-&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
+&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action wouldnot create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
 #### (8) Limitations on loan guarantees for cooperative organizations
 
@@ -382,7 +382,7 @@
 
 #### (ii) Requirement
 
-&emsp;&emsp;&emsp;The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipientsells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
+&emsp;&emsp;&emsp;The recipient of a loan or loan guarantee under clause (i) shall include in an appropriate agreement with retail and institutional facilities to which the recipient sells locally or regionally produced agricultural food products a requirement to inform consumers of the retail or institutional facilities that the consumers are purchasing or consuming locally or regionally produced agricultural food products.
 
 #### (iii) Priority
 
@@ -612,7 +612,7 @@ Pub. L. 102–552, which directed the substitution of "business enterprises or t
 
 <b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted "this chapter" for "this Act".
 
-Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide privatenonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
+Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
 
 Subsec. (i)(2)(B)(iv). Pub. L. 102–237, §701(c)(1), substituted "(iii) of this subparagraph" for "(ii) of this subsection".
 
@@ -696,7 +696,7 @@ Pub. L. 113–79, title VI, §6010(c), Feb. 7, 2014, 128 Stat. 843, provided tha
 
 #### Business Development
 
-Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter\[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
+Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
 
 &emsp;"(1) provide funds to improve telecommunications service in rural areas; and
 

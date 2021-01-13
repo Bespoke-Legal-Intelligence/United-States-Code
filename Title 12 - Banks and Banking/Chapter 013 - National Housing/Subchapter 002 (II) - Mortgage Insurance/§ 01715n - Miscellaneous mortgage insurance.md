@@ -10,7 +10,7 @@ Notwithstanding any of the provisions of this chapter and without regard to limi
 
 &emsp;(3) executed in connection with the sale by the Government, or any agency or official thereof, of any of the so-called Greenbelt towns, or parts thereof, including projects, or parts thereof, known as Greenhills, Ohio; Greenbelt, Maryland; and Greendale, Wisconsin, developed under the Emergency Relief Appropriation Act of 1935, or of any of the village properties or employee's housing under the jurisdiction of Tennessee Valley Authority, or of any housing under the jurisdiction of the Department of the Interior located within the town area of Coulee Dam, Washington, acquired by the United States for the construction, operation, and maintenance of Grand Coulee Dam and its appurtenant works: <i>Provided</i>, That for the purpose of the application of this subchapter to sales by the Secretary of the Interior pursuant to subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957, the selling price of the property involved shall be deemed to be the appraised value, of any permanent housing under the jurisdiction of the Department of the Interior constructed under the Boulder Canyon Project Act of December 21, 1928, as amended and supplemented \[43 U.S.C. 617 et seq.\] located within the Boulder City municipal area: <i>Provided</i>, That for purposes of the application of this subchapter to sales by the Secretary of the Interior pursuant to subsections 3(b)(1) and 3(b)(2) of the Boulder City Act of 1958, the selling price of the property involved shall be deemed to be the appraised value; or
 
-&emsp;(4) executed in connection with the sale by the Government, or any agency or official thereof, of any housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitantsthereof) pursuant to the Atomic Energy Community Act of 1955, as amended \[42 U.S.C. 2301 et seq.\]: <i>Provided</i>, That such insurance shall be issued without regard to any preferences or priorities except those prescribed by this chapter or the Atomic Energy Community Act of 1955, as amended; or
+&emsp;(4) executed in connection with the sale by the Government, or any agency or official thereof, of any housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof) pursuant to the Atomic Energy Community Act of 1955, as amended \[42 U.S.C. 2301 et seq.\]: <i>Provided</i>, That such insurance shall be issued without regard to any preferences or priorities except those prescribed by this chapter or the Atomic Energy Community Act of 1955, as amended; or
 
 &emsp;(5) executed in connection with the sale by a State or municipality, or an agency, instrumentality, or political subdivision of either, of a project consisting of any permanent housing (including any property acquired, held, or constructed in connection therewith or to serve the inhabitants thereof), constructed by or on behalf of such State, municipality, agency, instrumentality, or political subdivision, for the occupancy of veterans of World War II, or Korean veterans, their families, and others; or
 
@@ -36,7 +36,7 @@ The Secretary shall also have authority to insure under this chapter any mortgag
 
 #### (d) Insurance of loans made to cover operating losses of certain projects having existing mortgages insured by Secretary
 
-(1) Notwithstanding any other provision of this chapter, the Secretary is authorized to insure loans made to cover the operating losses of certain projects that have existing project mortgages insured by the Secretary. Insurance under this subsection shall be in the Secretary's discretion and upon such terms and conditions as the Secretary may prescribe, and shall be provided in accordance with the provisions of this subsection. For purposes of this subsection, the term "operating loss" means the amount bywhich the sum of the taxes, interest on the mortgage debt, mortgage insurance premiums, hazard insurance premiums, and the expense of maintenance and operation of the project covered by the mortgage, exceeds the income of the project.
+(1) Notwithstanding any other provision of this chapter, the Secretary is authorized to insure loans made to cover the operating losses of certain projects that have existing project mortgages insured by the Secretary. Insurance under this subsection shall be in the Secretary's discretion and upon such terms and conditions as the Secretary may prescribe, and shall be provided in accordance with the provisions of this subsection. For purposes of this subsection, the term "operating loss" means the amount by which the sum of the taxes, interest on the mortgage debt, mortgage insurance premiums, hazard insurance premiums, and the expense of maintenance and operation of the project covered by the mortgage, exceeds the income of the project.
 
 (2) To be eligible for insurance pursuant to this paragraph—
 
@@ -56,7 +56,7 @@ The Secretary shall also have authority to insure under this chapter any mortgag
 
 &emsp;(D) the project shall meet all applicable underwriting and other requirements of the Secretary at the time the loan is to be made.
 
-(4) Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B). The Secretary is authorized to collect a premium charge for insurance of loans pursuant to this subsection in an amount computed at the same premium rate as is applicable to the original mortgage. This premium shall be payable in cash or in debentures of the insurance fund under which the loan is insured at par plus accrued interest. In the event of a failure of the borrower to make any payment due under such loan or under the original mortgage, both the loan and original mortgage shall be considered in default, and if such default continues for a period of thirty days, the lender shall be entitled to insurance benefits, computed in the same manner as for the original mortgage, except that in determining the interest rate under section 1715o of this title for the debentures representing the portion of the claim applicable to the loan, the date of the commitment to insure the loan and the insurance date of the loan shall be taken into consideration rather than the commitment or insurance date for the original mortgage.
+(4) Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B). The Secretary is authorized to collect a premium charge for insurance of loans pursuant to this subsection in an amount computed at the same premium rate as is applicable to the original mortgage. This premium shall be payable in cash or in debentures of the insurance fund under which the loan is insured at par plus accrued interest. In the event of a failure of theborrower to make any payment due under such loan or under the original mortgage, both the loan and original mortgage shall be considered in default, and if such default continues for a period of thirty days, the lender shall be entitled to insurance benefits, computed in the same manner as for the original mortgage, except that in determining the interest rate under section 1715o of this title for the debentures representing the portion of the claim applicable to the loan, the date of the commitment to insure the loan and the insurance date of the loan shall be taken into consideration rather than the commitment or insurance date for the original mortgage.
 
 (5) A loan involving a project covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be the obligation of such fund, and loans involving projects covered by a mortgage insured under section 1715z–1 of this title or under any section of this subchapter pursuant to subsection (e) of this section shall be the obligation of the Special Risk Insurance Fund.
 
@@ -64,7 +64,7 @@ The Secretary shall also have authority to insure under this chapter any mortgag
 
 #### (e) Insurance of mortgages executed in connection with repair, rehabilitation, construction, or purchase of property in older, declining urban areas
 
-Notwithstanding any of the provisions of this chapter except section 1715c of this title, and without regard to limitations upon eligibility contained in any section of this subchapter or subchapter IX–B, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter or subchapter IX–B a mortgage executed in connection with the repair, rehabilitation, construction, or purchase of property located in an older, declining urban area in which the conditions are such that one or more of the eligibility requirements applicable to the section or subchapter under which insurance is sought could not be met, if the Secretary finds that (1) the area is reasonably viable, giving consideration to the need for providing adequate housing or group practice facilities for families of low and moderate income in such area, and (2) the property is an acceptable risk in view of such consideration. The insurance of a mortgage pursuant tothis subsection shall be the obligation of the Special Risk Insurance Fund.
+Notwithstanding any of the provisions of this chapter except section 1715c of this title, and without regard to limitations upon eligibility contained in any section of this subchapter or subchapter IX–B, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter or subchapter IX–B a mortgage executed in connection with the repair, rehabilitation, construction, or purchase of property located in an older, declining urban area in which the conditions are such that one or more of the eligibility requirements applicable to the section or subchapter under which insurance is sought could not be met, if the Secretary finds that (1) the area is reasonably viable, giving consideration to the need for providing adequate housing or group practice facilities for families of low and moderate income in such area, and (2) the property is an acceptable risk in view of such consideration. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
 
 #### (f) Insurance of mortgages executed in connection with purchase or refinancing of existing multifamily housing project; refinancing of existing debt of existing hospital, or purchase or refinancing of rental rehabilitated property; terms and conditions, etc.
 
@@ -106,7 +106,9 @@ Notwithstanding any of the provisions of this chapter except section 1715c of th
 
 Notwithstanding any other provisions of this chapter, the Secretary may, in his discretion, insure a mortgage covering a multifamily housing project including units which are not self-contained.
 
-(June 27, 1934, ch. 847, title II, §223, as added Aug. 2, 1954, ch. 649, title I, §125, 68 Stat. 605; amended Aug. 4, 1955, ch. 543, ch. 11, §201, 69 Stat. 484; Aug. 11, 1955, ch. 783, title I, §102(k), 69 Stat. 636; Pub. L. 85–104, title I, §114, July 12, 1957, 71 Stat. 298; Pub. L. 85–240, §4, Aug. 30, 1957,71 Stat. 528; Pub. L. 85–900, §12, Sept. 2, 1958, 72 Stat. 1735; Pub. L. 87–70, title I, §101(d), title VI, §612(h), June 30, 1961, 75 Stat. 154, 182; Pub. L. 88–560, title I, §116, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title I, §108(e), title II, §213, Aug. 10, 1965, 79 Stat. 461, 471; Pub. L. 89–754, title X, §1013(h), Nov. 3, 1966, 80 Stat. 1292; Pub. L. 90–19, §1(a)(3), (h), May 25, 1967, 81 Stat. 17, 18; Pub. L. 90–448, title I, §103(a), title III, §312, Aug. 1, 1968, 82 Stat. 486, 510; Pub. L. 91–152, title IV, §418(c), (d), Dec. 24, 1969, 83 Stat. 402; Pub. L. 93–383, title III, §311(a), Aug. 22, 1974, 88 Stat. 683; Pub. L. 95–557, title III, §326, Oct. 31, 1978, 92 Stat. 2104; Pub. L. 96–399, title III, §327, Oct. 8, 1980, 94 Stat. 1650; Pub. L. 97–35, title III, §339B(b), Aug. 13, 1981, 95 Stat. 417; Pub. L. 98–181, title I \[title III, §303(b)\], Nov. 30, 1983, 97 Stat. 1207; Pub. L. 98–479, title II, §204(a)(7), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 100–242, title IV, §§406(b)(15), (16), 408(a), 409(a), (b), 419(b), 427, 429(d), Feb. 5, 1988, 101 Stat. 1901, 1903, 1913, 1916, 1918; Pub. L. 102–550, title V, §§510, 511(f), Oct. 28, 1992, 106 Stat. 3784, 3786; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 105–276, title VI, §601(e), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 107–116, title VI, §615, Jan. 10, 2002, 115 Stat. 2225; Pub. L. 109–115, div. A, title III, §323, Nov. 30, 2005, 119 Stat. 2466.)
+(June 27, 1934, ch. 847, title II, §223, as added Aug. 2, 1954, ch. 649, title I, §125, 68 Stat. 605; amended Aug. 4, 1955, ch. 543, ch. 11, §201, 69 Stat. 484; Aug. 11, 1955, ch. 783, title I, §102(k), 69 Stat. 636; Pub. L. 85–104, title I, §114, July 12, 1957, 71 Stat. 298; Pub. L. 85–240, §4, Aug. 30, 1957, 71 Stat. 528; Pub. L. 85–900, §12, Sept. 2, 1958, 72 Stat. 1735; Pub. L. 87–70, title I, §101(d), title VI, §612(h), June 30, 1961, 75 Stat. 154, 182; Pub. L. 88–560, title I, §116, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title I, §108(e), title II, §213, Aug. 10, 1965, 79 Stat. 461, 471; Pub. L. 89–754, title X, §1013(h), Nov. 3, 1966, 80 Stat. 1292; Pub. L. 90–19, §1(a)(3), (h), May 25, 1967, 81 Stat. 17, 18; Pub. L. 90–448, title I, §103(a), title III, §312, Aug. 1, 1968, 82 Stat. 486, 510; Pub. L. 91–152, title IV, §418(c), (d), Dec. 24, 1969, 83 Stat. 402; Pub. L. 93–383, title III, §311(a), Aug. 22, 1974, 88 Stat. 683; Pub. L. 95–557, title III, §326, Oct. 31, 1978, 92 Stat. 2104; Pub. L. 96–399, title III, §327, Oct. 8, 1980, 94 Stat. 1650; Pub. L. 97–35, title III, §339B(b), Aug. 13, 1981, 95 Stat. 417; Pub. L. 98–181, title I \[title III, §303(b)\], Nov. 30, 1983, 97 Stat. 1207; Pub. L. 98–479, title II, §204(a)(7), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 100–242, title IV, §§406(b)(15), (16), 408(a), 409(a), (b), 419(b), 427, 429(d), Feb. 5, 1988, 101 Stat. 1901, 1903, 1913, 1916, 1918; Pub. L. 102–550, title V, §§510, 511(f), Oct. 28, 1992, 106 Stat. 3784, 3786; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 105–276, title VI, §601(e), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 107–116, title VI, §615, Jan. 10, 2002, 115 Stat. 2225; Pub. L. 109–115, div. A, title III, §323, Nov. 30, 2005, 119 Stat. 2466.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,7 +122,7 @@ Public Law 671, Seventy-sixth Congress, referred to in subsec. (a)(2), is act Ju
 
 The Emergency Relief Appropriation Act of 1935, referred to in subsec. (a)(3), is Joint Res. Apr. 8, 1935, ch. 48, 49 Stat. 115. It was temporary legislation, and was formerly set out in a note in former chapter 16 of Title 15, Commerce and Trade. See notes under former sections 721 to 728 of that title.
 
-Subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957 \[Pub. L. 85–240, Aug. 30, 1957, 71 Stat. 524\], referred to in subsec. (a)(3), are set out in a note under section 835c of Title 16, Conservation.
+Subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957 \[Pub. L. 85–240, Aug. 30, 1957, 71Stat. 524\], referred to in subsec. (a)(3), are set out in a note under section 835c of Title 16, Conservation.
 
 The Boulder Canyon Project Act of December 21, 1928, as amended and supplemented, referred to in subsec. (a)(3), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
 
@@ -176,7 +178,7 @@ Subsec. (f)(1), (4). Pub. L. 102–550, §511(f), inserted "existing assisted li
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–242, §406(b)(15), inserted "other than the limitation in section 1709(g) of this title," after first reference to "this chapter,".
 
-Subsec. (a)(7). Pub. L. 100–242, §429(d)(1), substituted in first proviso "such rate as may be agreed upon by the mortgagor and the mortgagee" for "a rate not in excess of the maximum rate prescribed under the applicable section or subchapter of this chapter", substituted in second proviso "maturity and a principal obligation" for "maturity, a principal obligation, and an interest rate", and inserted before semicolon at end ", and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee".
+Subsec. (a)(7). Pub. L. 100–242, §429(d)(1), substituted in first proviso "such rate as may be agreed upon by the mortgagor and the mortgagee" for "a rate not in excess of the maximum rate prescribed under the applicable section or subchapter of this chapter", substituted in second proviso "maturity and a principalobligation" for "maturity, a principal obligation, and an interest rate", and inserted before semicolon at end ", and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee".
 
 Pub. L. 100–242, §419(b), in first proviso, inserted cl. (B) and designated former cl. (B) as (C).
 
@@ -258,6 +260,8 @@ Subsec. (a)(7). Pub. L. 85–104, §114(3), substituted "1715e, or 1715m of this
 
 Act Aug. 4, 1955, added par. (4), and redesignated pars. (4) to (6) as (5) to (7), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–116, title VI, §603, Jan. 10, 2002, 115 Stat. 2222, provided that: "Except as provided in sections 616(a)(2), 633(b), and 634(b) \[enacting provisions set out as notes under section 1701q of this title and sections 1437f and 11301 of Title 42, The Public Health and Welfare\], this title \[amending this section and sections 1437f and 5305 of Title 42, enacting provisions set out as notes under section 1701q of this title and sections 1437, 1437f, and 11301 of Title 42, and amending provisions set out as notes under section 1701q of this title and sections 1437f and 11301 of Title 42\] and the amendments made by this title shall take effect or are deemed to have taken effect, as appropriate, on the earlier of—
@@ -283,6 +287,58 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Regulations
 
 Pub. L. 100–242, title IV, §409(c), Feb. 5, 1988, 101 Stat. 1904, provided that: "The Secretary of Housing and Urban Development shall issue such regulations as may be necessary to carry out the amendment made by this section \[amending this section\] by not later than the expiration of the 90-day period following the date of the enactment of this Act \[Feb. 5, 1988\]."
+
+#### Healthcare Operating Loss Loans
+
+Pub. L. 116–260, div. N, title V, §542, Dec. 27, 2020, 134 Stat. 2090, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Operating loss.—The term 'operating loss' has the meaning given the term in section 223(d) of the National Housing Act (12 U.S.C. 1715n(d)).
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Housing and Urban Development.
+
+"(b)
+
+Authorization to Provide Mortgage Insurance.—Notwithstanding any other provision of law, for fiscal years 2020 and 2021, in addition to the authority provided to insure operating loss loans under section 223(d) of the National Housing Act (12 U.S.C. 1715n(d)), the Secretary may insure or enter into commitments to ensure mortgages under such section 223(d) with respect to healthcare facilities—
+
+&emsp;"(1) insured under section 232 or section 242 of the National Housing Act (12 U.S.C. 1715w, 1715z–7);
+
+&emsp;"(2) that were financially sound immediately prior to the President's March 13, 2020 Proclamation on Declaring a National Emergency Concerning the NovelCoronavirus Disease (COVID–19) Outbreak \[Proc. No. 9994, 50 U.S.C. 1621 note\];
+
+&emsp;"(3) that have exhausted all other forms of assistance; and
+
+&emsp;"(4) subject to—
+
+&emsp;&emsp;"(A) the limitation for new commitments to guarantee loans insured under the General and Special Risk Insurance Funds under the heading 'General and Special Risk Program Account' for fiscal years 2020 and 2021; and
+
+&emsp;&emsp;"(B) the underwriting parameters and other terms and conditions that the Secretary determines appropriate through guidance.
+
+"(c)
+
+Amount of Loan.—After all other realized or reasonably anticipated assistance (including reimbursements, loans, or other payments from other Federal sources) are taken into account, a loan insured under subsection (b) shall be in an amount not exceeding the lesser of—
+
+&emsp;"(1) the temporary losses or additional expenses incurred or expected to be incurred by the healthcare facility as a result of the impact of the circumstances giving rise to the President's March 13, 2020 Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak; or
+
+&emsp;"(2) the amount expected to be needed to cover the sum of—
+
+&emsp;&emsp;"(A) 1 year of principal and interest payments for the existing loans of the healthcare facility insured by the Secretary;
+
+&emsp;&emsp;"(B) 1 year of principal and interest payments for the loan pursuant to this section;
+
+&emsp;&emsp;"(C) 1 year of mortgage insurance premiums for the loans described in subparagraphs (A) and (B);
+
+&emsp;&emsp;"(D) 1 year of monthly deposits to reserve accounts required by the Secretary for the loans described in subparagraphs (A) and (B);
+
+&emsp;&emsp;"(E) 1 year of property taxes and insurance for the healthcare facility; and
+
+&emsp;&emsp;"(F) transaction costs, including legal fees, for the loans described in subparagraphs (A) and (B)."
 
 #### Streamlined Refinancing
 

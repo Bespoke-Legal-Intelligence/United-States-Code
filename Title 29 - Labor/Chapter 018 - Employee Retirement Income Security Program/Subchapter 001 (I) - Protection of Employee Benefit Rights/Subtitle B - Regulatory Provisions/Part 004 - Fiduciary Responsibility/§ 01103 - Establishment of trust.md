@@ -60,6 +60,8 @@ The requirements of subsection (a) of this section shall not apply—
 
 (Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(b)(2), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(2), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 112–141, div. D, title II, §40241(b)(1), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -68,7 +70,7 @@ Paragraph (2), (3), or (4), referred to in subsec. (c)(1), probably should be a 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(1). Pub. L. 114–41 substituted "July 31, 2015" for "July 6, 2012". Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–41 substituted "July 31, 2015" for "July 6, 2012". Amendment was executed toreflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 <b>2012</b>—Subsec. (c)(1). Pub. L. 112–141 substituted "July 6, 2012" for "August 17, 2006".
 
@@ -105,6 +107,8 @@ Subsec. (c)(1). Pub. L. 96–364, §310(1), inserted reference to par. (4).
 Subsec. (c)(2)(A). Pub. L. 96–364, §410(a), substituted provisions relating to contributions or payments of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter made by an employer to a plan by a mistake of fact, and by an employer to a multiemployer plan by a mistake of fact or law, for provisions relating to contributions made by an employer by a mistake of fact.
 
 Subsec. (c)(4). Pub. L. 96–364, §310(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

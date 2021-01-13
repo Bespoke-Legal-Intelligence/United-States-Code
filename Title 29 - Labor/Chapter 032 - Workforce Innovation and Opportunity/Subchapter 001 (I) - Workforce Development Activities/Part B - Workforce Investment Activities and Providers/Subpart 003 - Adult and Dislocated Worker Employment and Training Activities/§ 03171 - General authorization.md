@@ -4,6 +4,8 @@ The Secretary shall make allotments under paragraphs (1)(B) and (2)(B) of sectio
 
 (Pub. L. 113–128, title I, §131, July 22, 2014, 128 Stat. 1511.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
@@ -140,7 +142,7 @@ Memorandum of Understanding.—(1) Not later than one year after the date of the
 
 "(c)
 
-Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans' Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former 29 U.S.C. 1662a(b)\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
+Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans' Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former 29 U.S.C. 1662a(b)\] or any successor to such unit or office undertitle I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
 
 "(d)
 
@@ -170,7 +172,7 @@ Definition.—In this section, the term 'veteran' has the meaning given such ter
 
 #### Veterans' Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22,1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### "short title
 
@@ -376,7 +378,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
 
-"(d) The Administrator may administer functions under subsections (b) and (c) in accordance with anagreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
+"(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
 
 #### "coordination with other programs
 
@@ -478,7 +480,7 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 \[Pub. L. 99–238, title II, §201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
 
-\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending Pub. L. 98–77 above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
+\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending Pub. L. 98–77above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
 
 \["(2) The amendment made by subsection (e)(2) \[amending section 17(a)(1) of Pub. L. 98–77 above\] shall take effect on February 1, 1986."\]
 

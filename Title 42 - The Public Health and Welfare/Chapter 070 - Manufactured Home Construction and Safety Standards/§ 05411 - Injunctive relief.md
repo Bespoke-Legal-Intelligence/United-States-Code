@@ -14,7 +14,7 @@ Actions under subsection (a) of this section and section 5410 of this title may 
 
 #### (d) Subpenas
 
-In any action brought by the United States under subsection (a) of this section or section 5410 of this title, subpenas by the United States for witnesses who are required to attend at United States district court may run into any other district.
+In any action brought by the United States under subsection (a) of this section or section5410 of this title, subpenas by the United States for witnesses who are required to attend at United States district court may run into any other district.
 
 #### (e) Designation by manufacturer of agent for service of administrative and judicial processes, etc.; filing and amendment of designation; failure to make designation
 

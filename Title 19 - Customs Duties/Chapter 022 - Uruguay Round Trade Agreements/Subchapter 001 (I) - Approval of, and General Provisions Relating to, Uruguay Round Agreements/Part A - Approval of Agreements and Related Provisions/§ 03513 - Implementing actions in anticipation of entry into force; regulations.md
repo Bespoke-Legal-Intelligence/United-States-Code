@@ -8,7 +8,7 @@ After December 8, 1994—
 
 &emsp;(2) other appropriate officers of the United States Government may issue such regulations,
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date any of the Uruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date. Such proclamation or regulation may not have an effective date earlier than the date of entry into force with respect to the United States of the agreement to which the proclamation or regulation relates.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date any of theUruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date. Such proclamation or regulation may not have an effective date earlier than the date of entry into force with respect to the United States of the agreement to which the proclamation or regulation relates.
 
 #### (b) Regulations
 

@@ -24,7 +24,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 &emsp;(4) in the manner prescribed by this section, to ensure that the congressional intelligence committees are kept similarly informed of—
 
-&emsp;&emsp;(A) significant problems and deficiencies relating to programs and activities within the responsibility and authority of the Director of National Intelligence; and
+&emsp;&emsp;(A) significant problems and deficiencies relating to programs and activities withinthe responsibility and authority of the Director of National Intelligence; and
 
 &emsp;&emsp;(B) the necessity for, and the progress of, corrective actions.
 
@@ -48,7 +48,7 @@ The purpose of the Office of the Inspector General of the Intelligence Community
 
 Subject to the policies of the Director of National Intelligence, the Inspector General of the Intelligence Community shall—
 
-&emsp;(1) appoint an Assistant Inspector General for Audit who shall have the responsibility forsupervising the performance of auditing activities relating to programs and activities within the responsibility and authority of the Director;
+&emsp;(1) appoint an Assistant Inspector General for Audit who shall have the responsibility for supervising the performance of auditing activities relating to programs and activities within the responsibility and authority of the Director;
 
 &emsp;(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and activities; and
 
@@ -94,7 +94,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 &emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken, and this provision shall qualify as a withholding statute pursuant to subsection (b)(3) of section 552 of title 5 (commonly known as the "Freedom of Information Act"); and
 
-&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was falseor with willful disregard for its truth or falsity.
+&emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint or disclosing such information to the Inspector General may be taken by any employee in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
 (4) The Inspector General shall have the authority to administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the duties of the Inspector General, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of the Inspector General of the Intelligence Community designated by the Inspector General shall have the same force and effect as if administered or taken by, or before, an officer having a seal.
 
@@ -118,7 +118,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (2)(A) There is established the Intelligence Community Inspectors General Forum, which shall consist of all statutory or administrative inspectors general with oversight responsibility for an element of the intelligence community.
 
-(B) The Inspector General of the Intelligence Community shall serve as the Chair of the Forum established under subparagraph (A). The Forum shall have no administrative authority over any inspector general, but shall serve as a mechanism for informing its members of the work of individual members of the Forum that may be of common interest and discussing questions about jurisdiction or access to employees, employees of contract personnel, records, audits, reviews, documents, recommendations, or other materials that may involve or be of assistance to more than one of its members.
+(B) The Inspector General of the Intelligence Community shall serve as the Chair of the Forum established under subparagraph (A). The Forum shall have no administrative authority over any inspector general, but shall serve as a mechanism for informing its members of the work of individual members of the Forum that may be of common interest and discussing questions about jurisdiction or access to employees, employees of contract personnel, records, audits, reviews, documents, recommendations, orother materials that may involve or be of assistance to more than one of its members.
 
 (3) The inspector general conducting an investigation, inspection, audit, or review covered by paragraph (1) shall submit the results of such investigation, inspection, audit, or review to any other inspector general, including the Inspector General of the Intelligence Community, with jurisdiction to conduct such investigation, inspection, audit, or review who did not conduct such investigation, inspection, audit, or review.
 
@@ -178,7 +178,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (2)(A) The Inspector General shall report immediately to the Director whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to programs and activities within the responsibility and authority of the Director of National Intelligence.
 
-(B) The Director shall transmit to the congressional intelligence committees each reportunder subparagraph (A) within 7 calendar days of receipt of such report, together with such comments as the Director considers appropriate. The Director shall transmit to the committees of the Senate and of the House of Representatives with jurisdiction over a department of the United States Government any portion of each report under subparagraph (A) that involves a problem, abuse, or deficiency related to a component of such department simultaneously with transmission of the report to the congressional intelligence committees.
+(B) The Director shall transmit to the congressional intelligence committees each report under subparagraph (A) within 7 calendar days of receipt of such report, together with such comments as the Director considers appropriate. The Director shall transmit to the committees of the Senate and of the House of Representatives with jurisdiction over a department of the United States Government any portion of each report under subparagraph (A) that involves a problem, abuse, or deficiency related to a component of such department simultaneously with transmission of the report to the congressional intelligence committees.
 
 (3)(A) In the event that—
 
@@ -210,7 +210,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the congressional intelligence committees, together with any comments the Director considers appropriate.
 
-(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the congressional intelligence committees directly.
+(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint orinformation submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the congressional intelligence committees directly.
 
 (ii) An employee may contact the congressional intelligence committees directly as described in clause (i) only if the employee—
 
@@ -226,7 +226,7 @@ It shall be the duty and responsibility of the Inspector General of the Intellig
 
 (G) In this paragraph, the term "urgent concern" means any of the following:
 
-&emsp;(i) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity within theresponsibility and authority of the Director of National Intelligence involving classified information, but does not include differences of opinions concerning public policy matters.
+&emsp;(i) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operation of an intelligence activity within the responsibility and authority of the Director of National Intelligence involving classified information, but does not include differences of opinions concerning public policy matters.
 
 &emsp;(ii) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
@@ -284,7 +284,7 @@ The Director of National Intelligence shall, in accordance with procedures issue
 
 (2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General of the Intelligence Community.
 
-(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277,title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421; Pub. L. 114–113, div. M, title III, §303, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 116–92, div. E, title LXVI, §6605(c), Dec. 20, 2019, 133 Stat. 2215.)
+(July 26, 1947, ch. 343, title I, §103H, as added Pub. L. 111–259, title IV, §405(a)(1), Oct. 7, 2010, 124 Stat. 2709; amended Pub. L. 112–87, title IV, §403, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 112–277, title III, §309(a), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §304, title VI, §603(c), July 7, 2014, 128 Stat. 1395, 1421; Pub. L. 114–113, div. M, title III, §303, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 116–92, div. E, title LXVI, §6605(c), Dec. 20, 2019, 133 Stat. 2215.)
 
 #### References in Text
 

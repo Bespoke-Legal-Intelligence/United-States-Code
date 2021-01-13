@@ -2,7 +2,7 @@
 
 (a) In any action, suit or proceeding in a court of the United States to which the United States or any agency, officer or employee thereof is not a party, wherein the constitutionality of any Act of Congress affecting the public interest is drawn in question, the court shall certify such fact to the Attorney General, and shall permit the United States to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The United States shall, subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
 
-(b) In any action, suit, or proceeding in a court of the United States to which a State or any agency, officer, or employee thereof is not a party, wherein the constitutionality of any statute of that State affecting the public interest is drawn in question, the court shall certify such fact to the attorney general of the State, and shall permit the State to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The State shall, subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
+(b) In any action, suit, or proceeding in a court of the United States to which a State or any agency, officer, or employee thereof is not a party, wherein the constitutionality of any statute of that State affecting the public interest is drawn in question, the court shall certify such fact to the attorney general of the State, and shall permit the State to intervene for presentation of evidence, if evidence is otherwise admissible in the case, and for argument on the question of constitutionality. The State shall,subject to the applicable provisions of law, have all the rights of a party and be subject to all liabilities of a party as to court costs to the extent necessary for a proper presentation of the facts and law relating to the question of constitutionality.
 
 (June 25, 1948, ch. 646, 62 Stat. 971; Pub. L. 94–381, §5, Aug. 12, 1976, 90 Stat. 1120.)
 
@@ -18,11 +18,15 @@ Since this section applies to all Federal courts, the word "suit" was not requir
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–381, §5(b), inserted "or a State" after "United States" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 94–381, §5(a), designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

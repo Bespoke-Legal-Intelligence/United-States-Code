@@ -18,7 +18,7 @@ Subject to such rules and regulations as may be adopted by the Commission, the C
 
 &emsp;(1) to appoint, fix the compensation of, and remove such other personnel as he deems necessary,
 
-&emsp;(2) to procure temporary and intermittent services to the same extent as is authorized bysection 3109 of title 5 but at rates not to exceed $50 a day for individuals.
+&emsp;(2) to procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5 but at rates not to exceed $50 a day for individuals.
 
 #### (e) Applicability of other laws to employees
 

@@ -34,6 +34,8 @@ The Office of Personnel Management may prescribe regulations to carry out the pr
 
 (Pub. L. 102–90, title III, §311, Aug. 14, 1991, 105 Stat. 467.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Senate Resolution 269, referred to in subsec. (a), see References in Text note set out under section 2061 of this title.
@@ -41,4 +43,28 @@ For Senate Resolution 269, referred to in subsec. (a), see References in Text no
 #### Codification
 
 Section was classified to section 214c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Source of Funds Used for Payment of Salaries and Expenses of Senate Employee Child Care Center
+
+Pub. L. 116–136, div. B, title IX, §19001, Mar. 27, 2020, 134 Stat. 577, as amended by Pub. L. 116–260, div. O, title XI, §1101(a), Dec. 27, 2020, 134 Stat. 2156, provided that:
+
+"(a)
+
+Reimbursements.—During the period beginning on July 1, 2020 and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Secretary of the Senate shall reimburse the Senate Employee Child Care Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account 'Miscellaneous Items' within the contingent fund of the Senate.
+
+"(b)
+
+Amount.—The amount of the reimbursement under this section for each month of the period described in subsection (a) shall be equal to the difference between—
+
+&emsp;"(1) the lesser of—
+
+&emsp;&emsp;"(A) the amount of the operating costs (including payroll, general, and administrative expenses) of the Center for such month; or
+
+&emsp;&emsp;"(B) $105,000; and
+
+&emsp;"(2) the amount of tuition payments collected by the Center for such month."
+
+\[For definition of "coronavirus" as used in section 19001 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of this title.\]
 

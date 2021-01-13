@@ -4,6 +4,8 @@ No passport shall be granted or issued to or verified for any other persons than
 
 (R.S. §4076; June 14, 1902, ch. 1088, §2, 32 Stat. 386.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.

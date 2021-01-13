@@ -6,13 +6,17 @@
 
 (Pub. L. 89–369, §23, as added Pub. L. 95–118, title V, §501, Oct. 3, 1977, 91 Stat. 1069; amended Pub. L. 97–35, title XIII, §1352(c), Aug. 13, 1981, 95 Stat. 745.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for contributions for fiscal year 1982.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriatedshall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under section 290i of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under section 290i of this title.
 
 #### Effective Date
 

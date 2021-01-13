@@ -16,6 +16,8 @@ Notwithstanding any other provision of this part, an employer shall not be consi
 
 (Pub. L. 93–406, title IV, §4218, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1236; amended Pub. L. 99–514, title XVIII, §1879(u)(4), as added Pub. L. 101–239, title VII, §7862(b)(1)(C), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 101–239, title VII, §7893(f), Dec. 19, 1989, 103 Stat. 2447.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Par. (1)(A). Pub. L. 101–239, §7893(f), made identical amendment to that of Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), see below.
@@ -23,6 +25,8 @@ Notwithstanding any other provision of this part, an employer shall not be consi
 Pub. L. 101–239, §7862(b)(1)(C), added Pub. L. 99–514, §1879(u)(4), see 1986 Amendment note below.
 
 <b>1986</b>—Par. (1)(A). Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), substituted "section 1369(b) of this title" for "section 1362(d) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

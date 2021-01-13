@@ -4,6 +4,8 @@ There shall be in the Department of the Interior two Assistant Secretaries of th
 
 (R.S. §438; Mar. 3, 1885, ch. 360, 23 Stat. 497; Mar. 3, 1917, ch. 163, §1, 39 Stat. 1102; Feb. 29, 1944, ch. 72, 58 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Act Feb. 29, 1944, provided that the Assistant Secretaries shall be without numerical distinction of rank.
@@ -12,11 +14,17 @@ R.S. §438 derived from acts Mar. 14, 1862, ch. 41, §6, 12 Stat. 369; Mar. 3, 1
 
 Section was formerly classified to section 482 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+Functions, powers, and duties of Office of Audit and Investigation in Department of the Interior transferred to Office of Inspector General in Department of the Interior, as established by section 9(a)(1)(F) of Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
-
-Functions, powers, and duties of Office of Audit and Investigation in Department of the Interior transferred to Office of Inspector General in Department of the Interior, as established by section 9(a)(1)(F) of Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Administrative Assistant Secretary
 
@@ -28,5 +36,5 @@ An additional Assistant Secretary of the Interior, to be appointed by the Presid
 
 #### Temporary Additional Assistant Secretary
 
-The office of a temporary additional Assistant Secretary of the Interior, which was provided for by act Feb. 29, 1944, ch. 72, 58 Stat. 107, ceased to exist by theterms of such act at the expiration of six months following the cessation of hostilities in World War II, which was proclaimed by the President at 12 o'clock noon of December 31, 1946, in Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Title 50, War and National Defense.
+The office of a temporary additional Assistant Secretary of the Interior, which was provided for by act Feb. 29, 1944, ch. 72, 58 Stat. 107, ceased to exist by the terms of such act at the expiration of six months following the cessation of hostilities in World War II, which was proclaimed by the President at 12 o'clock noon of December 31, 1946, in Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Title 50, War and National Defense.
 

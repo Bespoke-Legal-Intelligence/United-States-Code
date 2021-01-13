@@ -12,7 +12,7 @@ Stock Investments.—
 
 In general.—With the approval of the Secretary, an agreed percentage (but not more than 60 percent) of the assets of the fund may be invested in the stock of domestic corporations that—
 
-&emsp;&emsp;(A) is fully listed and registered on an exchange registered with the Securities andExchange Commission as a national securities exchange; and
+&emsp;&emsp;(A) is fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange; and
 
 &emsp;&emsp;(B) would be acquired by a prudent investor seeking a reasonable income and the preservation of capital.
 

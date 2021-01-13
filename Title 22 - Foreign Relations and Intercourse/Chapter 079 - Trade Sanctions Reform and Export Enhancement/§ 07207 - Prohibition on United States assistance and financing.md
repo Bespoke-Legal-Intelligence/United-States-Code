@@ -46,9 +46,13 @@
 
 (Pub. L. 106–387, §1(a) \[title IX, §908\], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Determination and Waiver of Application of Section 908(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000 With Respect to Libya
 
@@ -68,7 +72,7 @@ Determination of President of the United States, No. 2011–05, Nov. 19, 2010, 7
 
 Memorandum for the Secretary of State \[and the\] President of the Export-Import Bank of the United States
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387, as amended, 22 U.S.C. 7207(a)(3) (TSRA), I hereby determine it is in the national security interest of the United States to waive the application of section 908(a)(1) of TSRA to allow export assistance to be made available for the export of computers and related equipment that enables the United Nations to facilitate the referendum in Southern Sudan pursuant to the Comprehensive Peace Agreement.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387, as amended, 22 U.S.C. 7207(a)(3) (TSRA), I hereby determine it is in the national security interest of the United States to waivethe application of section 908(a)(1) of TSRA to allow export assistance to be made available for the export of computers and related equipment that enables the United Nations to facilitate the referendum in Southern Sudan pursuant to the Comprehensive Peace Agreement.
 
 The Secretary of State is hereby authorized and directed to publish this determination in the Federal Register.
 

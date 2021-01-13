@@ -70,13 +70,13 @@ Whenever the administering authority has reasonable grounds to believe or suspec
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the merchandise on which countervailing duties shall be imposed under subsection (a) includes a class or kind of merchandise imported, or sold\(or likely to be sold) for importation, into the United States from a nonmarket economy country.
+&emsp;Except as provided in paragraph (2), the merchandise on which countervailing duties shall be imposed under subsection (a) includes a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country.
 
 #### (2) Exception
 
 &emsp;A countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
 
-(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1),613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
 
 #### Amendments
 
@@ -230,10 +230,6 @@ Pub. L. 96–39, title I, §107, July 26, 1979, 93 Stat. 193, provided that: "Ex
 
 \[These agreements entered into force with respect to the United States on Dec. 17, 1979.\]
 
-#### Delegation of Functions
-
-Functions of President under subsec. (b) of this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
-
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
@@ -246,7 +242,7 @@ Pub. L. 96–39, title I, §102, July 26, 1979, 93 Stat. 189, provided that:
 
 Pending Investigations of Bounties or Grants.—If, on the effective date of the application of title VII of the Tariff Act of 1930 \[see Effective Date note set out above\] to imports from a country, there is an investigation in progress under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed on imports from such country, then:
 
-&emsp;"(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for insection 702 of that Act \[section 1671a of this title\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
+&emsp;"(1) If the Secretary of the Treasury has not yet made a preliminary determination under section 303 of that Act \[section 1303 of this title\] as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to this title \[this subtitle\] as if the affirmative determination called for in section 702 of that Act \[section 1671a of this title\] were made with respect to that matter on the effective date of the application of title VII of that Act \[this subtitle\] to such country.
 
 &emsp;"(2) If the Secretary has made a preliminary determination under such section 303 \[section 1303 of this title\], but not a final determination, as to whether a bounty or grant is being paid or bestowed, he shall terminate the investigation under such section 303 \[section 1303 of this title\] and the matter previously under investigation shall be subject to the provisions of title VII of that Act \[this subtitle\] as if the preliminary determination under section 303 \[section 1303 of this title\] were a preliminary determination under section 703 of that title \[section 1671b of this title\] made on the effective date of the application of that title \[this subtitle\] to such country.
 
@@ -369,6 +365,10 @@ Publication of Notice of Determinations.—Whenever the Commission makes a deter
 "(e)
 
 Definitions.—Whenever any term which is defined in section 771 of the Tariff Act of 1930 \[section 1677 of this title\] is used in this section, it has the same meaning as when it is used in title VII of that Act \[this subtitle\]."
+
+#### Delegation of Functions
+
+Functions of President under subsec. (b) of this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "1677–1(a)".</i>
 

@@ -10,9 +10,13 @@ The Commission shall establish written standards for—
 
 (Pub. L. 96–70, title I, §1213, Sept. 27, 1979, 93 Stat. 464; Pub. L. 104–201, div. C, title XXXV, §3531, Sept. 23, 1996, 110 Stat. 2863.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–201 substituted "The Commission" for "The head of each agency" in introductory provisions.
+
+#### <b>Executive Documents</b>
 
 #### Coordination of Pay and Employment Practices
 

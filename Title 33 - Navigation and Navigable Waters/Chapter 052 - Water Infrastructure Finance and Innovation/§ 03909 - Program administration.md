@@ -66,7 +66,7 @@ Not later than 180 days after the date on which the Administrator receives a com
 
 #### (2) Duties
 
-&emsp;The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administrator and the head of such other agency under such clause.
+&emsp;The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administratorand the head of such other agency under such clause.
 
 #### (3) Transfer of funds
 
@@ -86,6 +86,8 @@ Section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) applies 
 
 (Pub. L. 113–121, title V, §5030, June 10, 2014, 128 Stat. 1341; Pub. L. 115–270, title IV, §4201(b)(2), (c), Oct. 23, 2018, 132 Stat. 3878, 3880.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
@@ -101,6 +103,8 @@ Subsecs. (e), (f). Pub. L. 115–270, §4201(b)(2)(B), added subsecs. (e) and (f
 Subsec. (g). Pub. L. 115–270, §4201(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 115–270, §4201(b)(2)(B), redesignated subsec. (e) as (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Agreement With Commissioner of Reclamation
 

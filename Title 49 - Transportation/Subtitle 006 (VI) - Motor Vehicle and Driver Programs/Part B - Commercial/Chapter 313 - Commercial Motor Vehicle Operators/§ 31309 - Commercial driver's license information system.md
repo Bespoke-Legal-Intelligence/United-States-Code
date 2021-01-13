@@ -36,7 +36,7 @@ Modernization Plan.—
 
 &emsp;(1)
 
-In general.—Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
+In general.—Not later than 120 days after the date of enactment of this subsection,the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
 
 &emsp;&emsp;(A) complies with applicable Federal information technology security standards;
 
@@ -164,7 +164,7 @@ Subsecs. (e), (f). Pub. L. 109–59, §4123(a), added subsecs. (e) and (f).
 
 Subsec. (b). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: "If the Secretary decides that an information system used by a State or States about the driving status of operators of motor vehicles or another State-operated information system could be used to carry out this section, and the State or States agree to the use of the system for carrying out this section, the Secretary may make an agreement with the State or States to use the system as provided in this section and section 31311(c) of this title. An agreement made under this subsection shall contain terms the Secretary considers necessary to carry out this chapter."
 
-Subsec. (c). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "If the Secretary does not make an agreement under subsection (b) of this section, the Secretary shall establish an information system about the driving status and licensing of operators of commercial motor vehicles as provided in this section."
+Subsec. (c). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "If the Secretary does not make an agreement under subsection\(b) of this section, the Secretary shall establish an information system about the driving status and licensing of operators of commercial motor vehicles as provided in this section."
 
 Subsec. (d). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
@@ -212,7 +212,7 @@ Use of grant.—A State may use a grant under this subsection only to implement 
 
 &emsp;"(4)
 
-Government share.—A grant under this subsection to a State or organization may not be formore than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
+Government share.—A grant under this subsection to a State or organization may not be for more than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
 
 "(d)
 

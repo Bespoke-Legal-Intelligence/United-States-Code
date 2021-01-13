@@ -64,6 +64,8 @@ For purposes of this subchapter:
 
 (Pub. L. 100–242, title II, §229, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4271; amended Pub. L. 102–550, title III, §§310, 317(a)(5), Oct. 28, 1992, 106 Stat. 3765, 3772; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1715z–6(f) of this title, referred to in par. (8)(B), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
@@ -78,11 +80,13 @@ Amendment by Pub. L. 103–327 is based on section 601(e) of title VI of S. 2281
 
 "(4)(A) The term 'low-income tenants' means families or persons with incomes that exceed 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size) but do not exceed 80 percent of the median income for the area (as determined by the Secretary with adjustments for family size).
 
-"(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for familysize)." See Effective and Termination Dates of 1994 Amendment note below.
+"(B) The term 'very low-income tenants' means families or persons with incomes that are less than or equal to 50 percent of the median income for the area (as determined by the Secretary with adjustments for family size)." See Effective and Termination Dates of 1994 Amendment note below.
 
 <b>1992</b>—Par. (1)(A)(i). Pub. L. 102–550, §310, substituted "receiving loan management assistance under section 1437f of title 42 due to a conversion from section 1701s of this title" for "assisted under section 1701s of this title or section 1437f of title 42".
 
 Par. (11)(A). Pub. L. 102–550, §317(a)(5), substituted "residents" for "resident".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1994 Amendment
 

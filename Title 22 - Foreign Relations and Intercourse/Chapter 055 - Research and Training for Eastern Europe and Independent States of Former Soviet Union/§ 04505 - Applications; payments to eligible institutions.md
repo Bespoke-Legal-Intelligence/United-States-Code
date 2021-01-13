@@ -1,6 +1,6 @@
 ### §4505. Applications; payments to eligible institutions
 
-(a) Any institution seeking funding under this chapter shall prepare and submit an application to the Secretary of State once each fiscal year. Each such application shall—
+(a) Any institution seeking funding under this chapter shall prepare and submit an applicationto the Secretary of State once each fiscal year. Each such application shall—
 
 &emsp;(1) provide a description of the purposes for which the payments will be used in accordance with section 4504 of this title; and
 

@@ -40,6 +40,8 @@ Except as provided in subsection (b), after the Convention enters into force for
 
 (Pub. L. 111–281, title X, §1012, Oct. 15, 2010, 124 Stat. 3024.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.

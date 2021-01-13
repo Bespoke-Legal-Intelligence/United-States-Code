@@ -4,13 +4,17 @@ Every Federal reserve bank shall receive on deposit at par from depository insti
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 265; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 96–221, title I, §105(c), Mar. 31, 1980, 94 Stat. 140.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of the twelfth par. (formerly the thirteenth par.) of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–221, which directed amendment of "\[t\]he thirteenth paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 360)" by substituting "depository institutions" for "member banks" wherever appearing and "depository institution" for "member bank" wherever appearing and by inserting "and other items, including negotiable orders of withdrawal and share drafts" after "checks" wherever appearing, was executed to this section to reflect the probable intent of Congress.
+<b>1980</b>—Pub. L. 96–221, which directed amendment of "\[t\]he thirteenth paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 360)" by substituting "depository institutions" for "member banks" wherever appearing and "depository institution" for "member bank" wherever appearing and by inserting "and other items, including negotiable orders of withdrawal andshare drafts" after "checks" wherever appearing, was executed to this section to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

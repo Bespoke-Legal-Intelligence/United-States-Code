@@ -4,7 +4,7 @@
 
 (b) The Coast Guard may purchase uniform clothing for sale to enlisted personnel of the Coast Guard. The actual cost of the clothing thus sold to enlisted personnel may be withheld from their pay.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 534, §485; Aug. 3, 1950, ch. 536, §33, 64 Stat. 408; Pub. L. 87–649, §14d(4), Sept. 7, 1962, 76 Stat. 502; renumbered§2708, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 534, §485; Aug. 3, 1950, ch. 536, §33, 64 Stat. 408; Pub. L. 87–649, §14d(4), Sept. 7, 1962, 76 Stat. 502; renumbered §2708, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226.)
 
 #### Historical and Revision Notes
 
@@ -16,6 +16,8 @@ Subsection (b) is based on title 14, U.S.C., 1946, ed., §13, and on title 33, U
 
 Subsection (c) is new. Title 37, U.S.C., 1946 ed., §110 authorizes the payment of a cash allowance in case clothing is not furnished to enlisted persons of the Coast Guard. Clearly this presumes the authority to issue clothing to enlisted persons; this section makes the authority statutory. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 485 of this title as this section.
@@ -23,6 +25,8 @@ Subsection (c) is new. Title 37, U.S.C., 1946 ed., §110 authorizes the payment 
 <b>1962</b>—Subsec. (c). Pub. L. 87–649 repealed subsec. (c) which permitted the Coast Guard to purchase uniform clothing for distribution to enlisted personnel or to pay such enlisted personnel a cash clothing allowance.
 
 <b>1950</b>—Subsec. (c). Act Aug. 3, 1950, struck out "to" after "or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

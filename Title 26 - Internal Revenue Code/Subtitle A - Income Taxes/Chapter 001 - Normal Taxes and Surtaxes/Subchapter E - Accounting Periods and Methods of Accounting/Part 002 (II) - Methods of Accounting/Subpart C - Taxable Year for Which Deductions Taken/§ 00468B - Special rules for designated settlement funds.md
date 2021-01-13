@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;(F) with respect to which an election is made under this section by the taxpayer.
 
-> &emsp;An election under this section shall be made at such time and in such manner as the Secretary shall by regulation prescribe. Such an election, once made, may be revoked only with the consent of the Secretary.
+> &emsp;An election under this section shall be made at such time and in such manner as the Secretary shall by regulation prescribe. Such anelection, once made, may be revoked only with the consent of the Secretary.
 
 #### (3) Related person
 
@@ -106,7 +106,7 @@ Except as provided in regulations, any payment in respect of a liability describ
 
 &emsp;&emsp;(D) upon termination, any remaining funds will be disbursed to such government entity for use in accordance with applicable law.
 
-> &emsp;For purposes of this paragraph, the term "government entity" means the United States, any State or political subdivision thereof, the District of Columbia, any possession of theUnited States, and any agency or instrumentality of any of the foregoing.
+> &emsp;For purposes of this paragraph, the term "government entity" means the United States, any State or political subdivision thereof, the District of Columbia, any possession of the United States, and any agency or instrumentality of any of the foregoing.
 
 (Added Pub. L. 99–514, title XVIII, §1807(a)(7)(A), Oct. 22, 1986, 100 Stat. 2814; amended Pub. L. 100–647, title I, §1018(f)(1), (2), (4), (5)(A), Nov. 10, 1988, 102 Stat. 3582; Pub. L. 101–508, title XI, §11702(e)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 109–222, title II, §201(a), May 17, 2006, 120 Stat. 347; Pub. L. 109–432, div. A, title IV, §409(a), Dec. 20, 2006, 120 Stat. 2963.)
 
@@ -154,7 +154,7 @@ Section effective, except as otherwise provided, as if included in the provision
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Taxpayer in Bankruptcy Reorganization
 

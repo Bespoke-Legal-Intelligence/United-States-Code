@@ -4,6 +4,8 @@ Interest rates on loans from institutions of the Farm Credit System shall not be
 
 (Pub. L. 92–181, title IV, §4.17, as added Pub. L. 96–592, title IV, §403, Dec. 24, 1980, 94 Stat. 3446; amended Pub. L. 99–205, title II, §205(f)(6), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 99–509, title I, §1035, Oct. 21, 1986, 100 Stat. 1878; Pub. L. 100–399, title IX, §901(h), Aug. 17, 1988, 102 Stat. 1007; Pub. L. 115–334, title V, §5411(24), Dec. 20, 2018, 132 Stat. 4682.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334 struck out "Federal intermediate credit banks and" before "Farm Credit Banks".
@@ -13,6 +15,8 @@ Interest rates on loans from institutions of the Farm Credit System shall not be
 <b>1986</b>—Pub. L. 99–509 substituted first two sentences for former first sentence which read as follows: "Interest rates on loans from institutions of the Farm Credit System shall be determined with the approval of, as provided in section 2252(a)(5) of this title, the Farm Credit Administration as provided in this chapter, notwithstanding any interest rate limitation imposed by any State constitution or statute or other laws which are hereby preempted for purposes of this chapter."
 
 <b>1985</b>—Pub. L. 99–205 inserted ", as provided in section 2252(a)(5) of this title," after "with the approval of" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -68,6 +68,8 @@ In subsection (b), the words "as such" are substituted for "acting as such offic
 
 In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted "board of directors" for "board or directors".

@@ -20,7 +20,7 @@ Inspections and Investigations.—
 
 In general.—A designated officer, employee, or agent of the Secretary—
 
-&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner,records and property relating to a function described in section 5103(b)(1);
+&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner, records and property relating to a function described in section 5103(b)(1);
 
 &emsp;&emsp;(B) except in the case of packaging immediately adjacent to its hazardous material contents, may gain access to, open, and examine a package offered for, or in, transportation when the officer, employee, or agent has an objectively reasonable and articulable belief that the package may contain a hazardous material;
 
@@ -204,7 +204,7 @@ In subsection (e), before clause (1), the words "prepare and" and "comprehensive
 
 #### References in Text
 
-The date of enactment of the Hazardous Materials Transportation Safety and Security ReauthorizationAct of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
+The date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
 

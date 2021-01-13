@@ -8,7 +8,7 @@ In this subchapter and subchapter V of this chapter:
 
 &emsp;(3) The term "construction" means the construction of housing units and ancillary supporting facilities or the improvement or rehabilitation of existing units or ancillary supporting facilities.
 
-&emsp;(4) The term "contract" includes any contract, lease, or other agreement entered into under the authority of this subchapter. The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreement from the term "contract" for purposes of this subchapter and subchapter V.
+&emsp;(4) The term "contract" includes any contract, lease, or other agreement entered into under the authority of this subchapter. The fact that an agreement between an eligible entity and the Secretary concerned is designated as an agreement rather than a contract shall not be construed to exclude the agreementfrom the term "contract" for purposes of this subchapter and subchapter V.
 
 &emsp;(5) The term "eligible entity" means any private person, corporation, firm, partnership, company, State or local government, or housing authority of a State or local government that is prepared to enter into a contract as a partner with the Secretary concerned for the construction of housing units and ancillary supporting facilities.
 
@@ -68,7 +68,49 @@ Par. (2). Pub. L. 109–163, §2805(b)(2), added par. (2).
 
 <b>1998</b>—Par. (1). Pub. L. 105–261 inserted "facilities to provide or support elementary or secondary education," after "including".
 
+#### Promulgation of Guidance To Facilitate Return of Military Families Displaced From Privatized Military Housing
+
+Pub. L. 116–283, div. B, title XXVIII, §2816, Jan. 1, 2021, 134 Stat. 4328, provided that:
+
+"(a)
+
+Guidance Required.—The Secretary of Defense shall promulgate guidance for commanders of military installations and installation housing management offices to assist such commanders and offices in facilitating and managing the relocation and return of tenants of privatized military housing when tenants are displaced from such housing—
+
+&emsp;"(1) as a result of an environmental hazard or other damage adversely affecting the habitability of the privatized military housing; or
+
+&emsp;"(2) during remediation or repair activities in response to the hazard or damages.
+
+"(b)
+
+Financial Impact of Displacement.—As part of the promulgation of the guidance, the Secretary of Defense shall consider—
+
+&emsp;"(1) the extent to which displaced tenants of privatized military housing under the circumstances described in subsection (a) incur relocation, per diem, or similar expenses as a direct result of such displacement that are not covered by a landlord, insurance, or claims process; and
+
+&emsp;"(2) the feasibility of providing reimbursement for uncovered expenses.
+
+"(c)
+
+Consultation.—The Secretary of Defense shall promulgate the guidance in consultation with the Secretaries of the military departments, the Chief Housing Officer, landlords, and other interested persons.
+
+"(d)
+
+Implementation.—The Secretaries of the military departments shall be responsible for implementation of the guidance at military installations under the jurisdiction of the Secretary concerned, while recognizing that the guidance cannot anticipate every situation in which tenants of privatized military housing must be displaced from such housing under the circumstances described in subsection (a).
+
+"(e)
+
+Definitions.—In this section, the terms 'landlord', 'privatized military housing', and 'tenant' have the meanings given those terms in section 3001(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1916; 10 U.S.C. 2821 note)."
+
 #### Uniform Code of Basic Standards for Privatized Military Housing and Plan To Conduct Inspections and Assessments
+
+Pub. L. 116–283, div. B, title XXVIII, §2818, Jan. 1, 2021, 134 Stat. 4329, provided that:
+
+"(a)
+
+Uniform Code of Basic Standards for Military Housing.—The Secretary of Defense shall expand the uniform code of basic housing standards for safety, comfort, and habitability for privatized military housing established pursuant to section 3051(a) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) \[set out below\] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces.
+
+"(b)
+
+Inspection and Assessment Plan.—The Secretary of Defense shall expand the Department of Defense housing inspection and assessment plan prepared pursuant to section 3051(b) of the Military Construction Authorization Act for Fiscal Year 2020 (division B of Public Law 116–92; 133 Stat. 1941; 10 U.S.C. 2871 note) \[set out below\] to include Government-owned and Government-controlled military family housing located inside or outside the United States and occupied by members of the Armed Forces and commence inspections and assessments of such military family housing pursuant to the plan."
 
 Pub. L. 116–92, div. B, title XXX, §3051, Dec. 20, 2019, 133 Stat. 1941, provided that:
 
@@ -126,7 +168,7 @@ Notification Regarding Need for Mitigation.—If, as a result of testing describ
 
 #### Military Housing Privatization Initiative
 
-Pub. L. 115–232, div. A, title VI, §606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939, provided that:
+Pub. L. 115–232, div. A, title VI, §606, Aug. 13, 2018, 132 Stat. 1795, as amended by Pub. L. 116–92, div. B, title XXX, §§3036(a), 3037, Dec. 20, 2019, 133 Stat. 1938, 1939; Pub. L. 116–283, div. B, title XXVIII, §2811(i), Jan. 1, 2021, 134 Stat. 4326, provided that:
 
 "(a)
 
@@ -138,11 +180,11 @@ Payments to lessors generally.—
 
 &emsp;&emsp;"(A)
 
-Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\], each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make payments to lessors of covered housing in the manner provided by this subsection, as in effect on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.
+Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\], each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make monthly payments to lessors of covered housing in the manner provided by this subsection, as in effect on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020.
 
 &emsp;&emsp;"(B)
 
-Calculation of monthly payments.—For purposes of making payments under subparagraph (A) for a month, the Secretary of the military department concerned shall determine the amount equal to 2.5 percent of the aggregate of the amounts calculated under section 403(b)(3)(A)(i) of title 37, United States Code, for covered housing under the jurisdiction of the Secretary for that month.
+Calculation of monthly payments.—For purposes of making payments under subparagraph\(A) for a month, the Secretary of the military department concerned shall determine the amount equal to 2.5 percent of the aggregate of the amounts calculated under section 403(b)(3)(A)(i) of title 37, United States Code, for covered housing under the jurisdiction of the Secretary for that month.
 
 &emsp;"(2)
 
@@ -150,7 +192,7 @@ Additional payments to lessors responsible for underfunded projects.—
 
 &emsp;&emsp;"(A)
 
-Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make additional payments to certain lessors responsible for underfunded MHPI housing projects identified pursuant to subparagraph (C) for the purposes of future sustainment, recapitalization, and financial sustainability of the projects.
+Payment authority.—Each month beginning with the first month after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, each Secretary of a military department shall use funds, in an amount determined under subparagraph (B), to make additional monthly payments, under such terms and in such amounts as determined by the Secretary, to one of \[sic\] more lessors responsible for underfunded MHPI housing projects identified pursuant to subparagraph (C) under the jurisdiction of the Secretary for the purposes of future sustainment, recapitalization, and financial sustainability of the projects.
 
 &emsp;&emsp;"(B)
 
@@ -158,7 +200,7 @@ Calculation of monthly payments.—For purposes of making payments under subpara
 
 &emsp;&emsp;"(C)
 
-Identification of underfunded projects.—The Chief Housing Officer of the Department of Defense, in conjunction with the Secretaries of the military departments, shall assess MHPI housing projects for the purpose of identifying all MHPIhousing projects that are underfunded. Once identified, the Chief Housing Officer shall prioritize for payments under subparagraph (A) those MHPI housing projects most in need of funding to rectify such underfunding.
+Identification of underfunded projects.—The Chief Housing Officer of the Department of Defense, in conjunction with the Secretaries of the military departments, shall assess MHPI housing projects for the purpose of identifying all MHPI housing projects that are underfunded. Once identified, the Chief Housing Officer shall prioritize for payments under subparagraph (A) those MHPI housing projects most in need of funding to rectify such underfunding.
 
 &emsp;"(3)
 
@@ -170,7 +212,7 @@ In general.—Subject to subparagraph (B), if the Chief Housing Officer determin
 
 &emsp;&emsp;"(B)
 
-Conditions.—Before the Secretary of a military department may allocate funds as authorized by subparagraph (A), the Chief Housing Officer shall certify to the Committees on Armed Services of the Senate and the House of Representatives that there are no MHPI housing projects for the military department require additional funding under paragraph (2). The certification shall include sufficient details to show why no projects are determined to need the additional funds.
+Conditions.—Before the Secretary of a military department may allocate funds as authorized by subparagraph (A), the Chief Housing Officer shall certify to the Committees on Armed Services of the Senate and the House of Representatives that there are no MHPI housing projects for the military department that require additional funding under paragraph (2). The certification shall include sufficient details to show why no projects are determined to need the additional funds.
 
 &emsp;"(4)
 

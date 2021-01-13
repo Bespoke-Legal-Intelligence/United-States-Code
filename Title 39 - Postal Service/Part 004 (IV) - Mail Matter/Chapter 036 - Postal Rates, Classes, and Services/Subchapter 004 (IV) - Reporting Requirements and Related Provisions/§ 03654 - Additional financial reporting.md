@@ -26,7 +26,7 @@ Internal control report.—For purposes of defining the reports required by para
 
 Financial reporting.— <sup>1</sup>
 
-&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to thePostal Service's pension and post-retirement health obligations—
+&emsp;(1) The reports required by subsection (a)(1)(B) shall include, with respect to the Postal Service's pension and post-retirement health obligations—
 
 &emsp;&emsp;(A) the funded status of the Postal Service's pension and postretirement health obligations;
 
@@ -79,6 +79,8 @@ In general.—If the Postal Service determines that any document or portion of a
 Treatment.—Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).
 
 (Added Pub. L. 109–435, title II, §204(b), Dec. 20, 2006, 120 Stat. 3214.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

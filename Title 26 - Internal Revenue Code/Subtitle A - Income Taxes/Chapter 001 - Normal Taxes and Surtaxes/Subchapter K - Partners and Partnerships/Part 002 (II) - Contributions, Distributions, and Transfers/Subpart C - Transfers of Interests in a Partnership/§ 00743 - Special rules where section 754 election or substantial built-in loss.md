@@ -30,7 +30,7 @@ The allocation of basis among partnership properties where subsection (b) is app
 
 #### (2) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thepurposes of paragraph (1) and section 734(d), including regulations aggregating related partnerships and disregarding property acquired by the partnership in an attempt to avoid such purposes.
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of paragraph (1) and section 734(d), including regulations aggregating related partnerships and disregarding property acquired by the partnership in an attempt to avoid such purposes.
 
 #### (e) Alternative rules for electing investment partnerships
 

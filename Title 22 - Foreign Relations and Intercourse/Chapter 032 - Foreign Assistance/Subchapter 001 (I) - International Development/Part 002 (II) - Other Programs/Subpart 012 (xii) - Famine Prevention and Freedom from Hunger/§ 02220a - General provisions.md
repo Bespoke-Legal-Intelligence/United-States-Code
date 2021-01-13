@@ -10,7 +10,7 @@ The Congress so declares because it finds—
 
 &emsp;(B) that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with international agencies, educational and research institutions in other countries, the private sector, and nongovernmental organizations worldwide, in expanding global agricultural production, processing, business and trade, to the benefit of aid recipient countries and of the United States;
 
-&emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade,and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
+&emsp;(C) that, in a world of growing populations with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger and ensure human health and child survival, but to build the basis for economic growth and trade, and the social security in which democracy and a market economy can thrive, and moreover, that the greatest potential for increasing world food supplies and incomes to purchase food is in the developing countries where the gap between food need and food supply is the greatest and current incomes are lowest;
 
 &emsp;(D) that increasing and making more secure the supply of food is of greatest benefit to the poorest majority in the developing world;
 
@@ -60,7 +60,7 @@ The United States should—
 
 &emsp;&emsp;(E) United States Government foreign assistance and economic cooperation programs;
 
-&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits foraid recipient countries and United States communities and industries, and for the wise use of natural resources; and
+&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
 
 &emsp;(5) ensure that all federally funded support to universities and public and private partners of universities relating to the goals of this subpart is periodically reviewed for its performance.
 
@@ -89,6 +89,8 @@ As used in this subpart, the term "agriculture" includes the science and practic
 As used in this subpart, the term "agriculturists" includes farmers, herders, and livestock producers, individuals who fish and others employed in cultivating and harvesting food resources from salt and fresh waters, individuals who cultivate trees and shrubs and harvest nontimber forest products, as well as the processors, managers, teachers, extension specialists, researchers, policymakers, and others who are engaged in the food, feed, and fiber system and its relationships to natural resources.
 
 (Pub. L. 87–195, pt. I, §296, as added Pub. L. 94–161, title III, §312, Dec. 20, 1975, 89 Stat. 861; amended Pub. L. 95–424, title I, §103(c), Oct. 6, 1978, 92 Stat. 945; Pub. L. 106–373, §2, Oct. 27, 2000, 114 Stat. 1427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -137,6 +139,8 @@ Subsec. (e). Pub. L. 106–373, §2(e), inserted "United States" before "Agency"
 Subsecs. (f) to (h). Pub. L. 106–373, §2(f)—(h), added subsecs. (f) to (h).
 
 <b>1978</b>—Subsecs. (f), (g). Pub. L. 95–424 struck out subsecs. (f) defining "agriculture", and (g) defining "farmers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

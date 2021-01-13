@@ -11,9 +11,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Chapter added by act Oct. 31, 1951, ch. 655, §12, 65 Stat. 713.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel
 

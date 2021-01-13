@@ -42,11 +42,15 @@ In subsection (b), the words "by or under authority of law" are omitted as surpl
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–264 substituted "Government" for "United States".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "in accordance with regulations prescribed under section 5738 of this title" for "in accordance with regulations prescribed by the President".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

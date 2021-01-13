@@ -26,11 +26,13 @@
 
 &emsp;(2) Notwithstanding the provisions of section 2130 of this title, the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 
-&emsp;(3) Each association and other entity eligible to borrow from a bank for cooperatives under this subsection, for purposes of section 2128(a)of this title, shall be treated as an eligible cooperative association and a stockholder eligible to borrow from the bank.
+&emsp;(3) Each association and other entity eligible to borrow from a bank for cooperatives under this subsection, for purposes of section 2128(a) of this title, shall be treated as an eligible cooperative association and a stockholder eligible to borrow from the bank.
 
 &emsp;(4) Nothing in this subsection shall be construed to adversely affect the eligibility, as it existed on January 6, 1988, of cooperatives and other entities for any other credit assistance under Federal law.
 
 (Pub. L. 92–181, title III, §3.8, Dec. 10, 1971, 85 Stat. 605; Pub. L. 94–184, §1(a), Dec. 31, 1975, 89 Stat. 1060; Pub. L. 96–592, title III, §305, Dec. 24, 1980, 94 Stat. 3445; Pub. L. 99–198, title XIII, §1322, Dec. 23, 1985, 99 Stat. 1534; Pub. L. 100–233, title IV, §421, title VIII, §805(m), Jan. 6, 1988, 101 Stat. 1654, 1715; Pub. L. 100–399, title IV, §410, title IX, §901(e), Aug. 17, 1988, 102 Stat. 1003, 1007; Pub. L. 101–624, title XXIII, §2323(b), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(2), (f), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title V, §506, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §4, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 104–105, title II, §§204, 205, Feb. 10, 1996, 110 Stat. 172; Pub. L. 115–334, title V, §5411(8), title VI, §6602(b)(17), Dec. 20, 2018, 132 Stat. 4680, 4777.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Subsec. (c). Pub. L. 96–592, §305(2), inserted reference to aquatic business 
 Subsec. (d). Pub. L. 96–592, §305(3), substituted "60" for "70", and designated former parenthetical material as item (1), and added items (2) and (3) and limitation with respect to any type of association or cooperative.
 
 <b>1975</b>—Subsec. (d). Pub. L. 94–184 inserted provision relating to 70 per centum of voting control in the case of rural electric, telephone, and public utility cooperatives.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

@@ -68,7 +68,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (e) Reimbursement of expenses
 
-Members of the Board shall serve without pay, but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+Members of the Board shall serve without pay, but may receive travel expenses, including perdiem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (f) Meetings
 
@@ -79,6 +79,8 @@ The Board shall meet at least once each fiscal year. Meetings shall be at the ca
 The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 
 (Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, §302(b), Apr. 27, 2005, 119 Stat. 225; Pub. L. 110–336, §3(a)(3), Oct. 2, 2008, 122 Stat. 3727.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

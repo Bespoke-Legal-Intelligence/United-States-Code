@@ -68,7 +68,7 @@ The Council shall carry out the following duties and responsibilities:
 
 &emsp;(3) To assess and identify best practices with respect to prior efforts of the intelligence community to analyze climate security.
 
-&emsp;(4) To assess and describe best practices for identifying and disseminating climate security indicators and warnings.
+&emsp;(4) To assess and describe best practices for identifying and disseminating climate intelligence indications and warnings.
 
 &emsp;(5) To recommend methods of incorporating analysis of climate security and the best practices identified under paragraphs (2) through (4) into existing analytic training programs.
 
@@ -84,11 +84,15 @@ The Council shall carry out the following duties and responsibilities:
 
 &emsp;&emsp;(9) At the discretion of the chair of the Council, to convene conferences of analysts and nonintelligence community personnel working on climate change or climate security on subjects that the chair shall direct.
 
-#### (d) Sunset
+#### (d) Annual report
+
+Not later than January 31, 2021, and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
+
+#### (e) <sup>1</sup> Sunset
 
 The Council shall terminate on the date that is 4 years after December 20, 2019.
 
-#### (e) Definitions
+#### (e) <sup>1</sup> Definitions
 
 In this section:
 
@@ -118,7 +122,13 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) citizens of the United States abroad.
 
-(July 26, 1947, ch. 343, title I, §120, as added Pub. L. 116–92, div. E, title LIII, §5321(a), Dec. 20, 2019, 133 Stat. 2126.)
+(July 26, 1947, ch. 343, title I, §120, as added Pub. L. 116–92, div. E, title LIII, §5321(a), Dec. 20, 2019, 133 Stat. 2126; amended Pub. L. 116–260, div. W, title IV, §405(b), title VI, §618, Dec. 27, 2020, 134 Stat. 2380, 2400.)
+
+#### Amendments
+
+<b>2020</b>—Subsec. (c)(4). Pub. L. 116–260, §405(b), substituted "intelligence indications" for "security indicators".
+
+Subsecs. (d), (e). Pub. L. 116–260, §618, added subsec. (d) and redesignated former subsec. (d) as (e) relating to sunset of Council.
 
 #### Change of Name
 
@@ -129,4 +139,6 @@ Under Secretary of Defense for Intelligence redesignated and references deemed t
 Pub. L. 116–92, div. E, title LIII, §5321(c), Dec. 20, 2019, 133 Stat. 2129, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall appoint the members of the Council under section 120 of the National Security Act of 1947 \[50 U.S.C. 3060\], as added by subsection (a)."
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

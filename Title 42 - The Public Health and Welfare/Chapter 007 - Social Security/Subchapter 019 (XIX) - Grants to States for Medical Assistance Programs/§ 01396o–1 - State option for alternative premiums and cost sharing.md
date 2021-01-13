@@ -14,7 +14,7 @@
 
 #### (B) Limit on aggregate cost sharing
 
-&emsp;&emsp;To the extent cost sharing under subsections (c) and (e) or under section 1396o of this title is imposed against individuals described in subparagraph (A), the limitation under subsection (b)(1)(B)(ii) on the total aggregate amount of cost sharing shall apply to such cost sharing for all individuals in a family described in subparagraph (A) in the same manner as such limitations apply to cost sharing and families described in subsection (b)(1)(B)(ii).
+&emsp;&emsp;To the extent cost sharing under subsections (c) and (e) or under section 1396o of this title is imposed against individuals described in subparagraph (A), the limitationunder subsection (b)(1)(B)(ii) on the total aggregate amount of cost sharing shall apply to such cost sharing for all individuals in a family described in subparagraph (A) in the same manner as such limitations apply to cost sharing and families described in subsection (b)(1)(B)(ii).
 
 #### (3) Definitions
 
@@ -94,6 +94,8 @@
 
 &emsp;&emsp;&emsp;(x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
+&emsp;&emsp;&emsp;(xi) Any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
+
 #### (C) Construction
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as preventing a State from exempting additional classes of individuals from premiums under this section or from exempting additional individuals or services from cost sharing under subsection (a).
@@ -156,7 +158,7 @@
 
 #### (1) Premiums
 
-&emsp;Notwithstanding section 1396o(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium butshall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
+&emsp;Notwithstanding section 1396o(c)(3) of this title and section 1396a(a)(10)(B) of this title, a State may, at its option, condition the provision of medical assistance for an individual upon prepayment of a premium authorized to be imposed under this section, or may terminate eligibility for such medical assistance on the basis of failure to pay such a premium but shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. A State may apply the previous sentence for some or all groups of beneficiaries as specified by the State and may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
 #### (2) Cost sharing
 
@@ -220,9 +222,11 @@
 
 &emsp;&emsp;The term "alternative non-emergency services provider" means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561; Pub. L. 116–127, div. F, §6004(a)(2)(B), Mar. 18, 2020, 134 Stat. 205.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(3)(B)(xi). Pub. L. 116–127 added cl. (xi).
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §2102(b), substituted ", (i), or (j)" for "or (i)".
 
@@ -293,6 +297,10 @@ Amendment by section 6043(a) of Pub. L. 109–171 applicable to non-emergency se
 #### Effective Date
 
 Section applicable to cost sharing imposed for items and services furnished on or after Mar. 31, 2006, see section 6041(c) of Pub. L. 109–171, set out as an Effective Date of 2006 Amendment note under section 1396o of this title.
+
+#### Applicability of 2020 Amendment to Territories
+
+Amendment by Pub. L. 116–127 applicable with respect to a State plan of a territory in the same manner as a State plan of one of the 50 States, see section 6004(a)(2)(C) of Pub. L. 116–127, set out as a note under section 1396o of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

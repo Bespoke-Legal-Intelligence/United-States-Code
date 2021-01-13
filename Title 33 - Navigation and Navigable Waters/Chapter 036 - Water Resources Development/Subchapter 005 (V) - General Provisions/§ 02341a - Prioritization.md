@@ -60,9 +60,11 @@
 
 &emsp;&emsp;&emsp;(ii) that meet the criteria described in paragraph (1); and
 
-&emsp;&emsp;(B) a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
+&emsp;&emsp;(B) a plan for expeditiously completing the projects under the authorities described insubparagraph (A), subject to available funding.
 
 (Pub. L. 113–121, title I, §1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, §1322(a), Dec. 16, 2016, 130 Stat. 1706.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (a)(2)(A)(ii). Pub. L. 114–322, §1322(a)(1)(B)(ii), struck out before
 &emsp;"(II) are undergoing a post-authorization change report, general reevaluation report, or limited reevaluation report".
 
 Subsec. (b). Pub. L. 114–322, §1322(a)(2), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) to (C) of former par. (1) as cls. (i) to (iii), respectively, of subpar. (A) of par. (1), and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

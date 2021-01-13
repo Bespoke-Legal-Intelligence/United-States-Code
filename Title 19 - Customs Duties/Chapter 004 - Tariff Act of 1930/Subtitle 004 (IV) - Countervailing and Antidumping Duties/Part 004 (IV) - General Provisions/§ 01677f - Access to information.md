@@ -62,7 +62,7 @@
 
 #### (3) Section 1675 reviews
 
-&emsp;Notwithstanding the provisions of paragraph (1), information submitted to the administering authority or the Commission in connection with a review under section 1675(b) or 1675(c) of this title which is designated as proprietary by the person submitting the information may, if the review results in the revocation of an order or finding (or termination of a suspended investigation) under section 1675(d) of this title, be used by the agency to which the information was originally submitted in any investigation initiated within 2 years after the date of the revocation or termination pursuant to a petition covering the same subject merchandise.
+&emsp;Notwithstanding the provisions of paragraph (1), information submitted to the administering authority or the Commission in connection with a review under section 1675(b) or 1675(c) of this title which is designated as proprietary by the person submitting the information may, if the review results in the revocation of an order or finding (or termination of a suspended investigation) under section 1675(d) of this title, be used by the agency to which the information was originally submitted in any investigation initiated within 2years after the date of the revocation or termination pursuant to a petition covering the same subject merchandise.
 
 #### (c) Limited disclosure of certain proprietary information under protective order
 
@@ -114,17 +114,17 @@
 
 #### (d) Service
 
-Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall not accept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
+Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall notaccept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
 
 #### (e) Repealed. Pub. L. 103–465, title II, §231(d)(1), Dec. 8, 1994, 108 Stat. 4897
 
-#### (f) Disclosure of proprietary information under protective orders issued pursuant to the North American Free Trade Agreement or the United States-Canada Agreement
+#### (f) Disclosure of proprietary information under protective orders issued pursuant to the United States-Canada Agreement or the USMCA
 
 #### (1) Issuance of protective orders
 
 #### (A) In general
 
-&emsp;&emsp;If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).
+&emsp;&emsp;If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2).
 
 #### (B) Authorized persons
 
@@ -134,9 +134,9 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;&emsp;(ii) counsel for parties to such panel or committee proceeding, and employees, and persons under the direction and control, of such counsel,
 
-&emsp;&emsp;&emsp;(iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement, and
+&emsp;&emsp;&emsp;(iii) any officer or employee of the United States Government designated by the administering authority or the Commission, as appropriate, to whom disclosure is necessary in order to make recommendations to the Trade Representative regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement or chapter 10 of the USMCA, and
 
-&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(10) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the NAFTA or the Agreement.
+&emsp;&emsp;&emsp;(iv) any officer or employee of the Government of a free trade area country (as defined in section 1516a(f)(9) of this title) designated by an authorized agency of such country to whom disclosure is necessary in order to make decisions regarding the convening of extraordinary challenge committees under chapter 19 of the Agreement or chapter 10 of the USMCA.
 
 #### (C) Review
 
@@ -148,11 +148,11 @@ Any party submitting written information, including business proprietary informa
 
 #### (3) Prohibited acts
 
-&emsp;It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title) to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of the NAFTA or the United States-Canada Agreement.
+&emsp;It is unlawful for any person to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of a protective order issued under this subsection or to violate, to induce the violation of, or knowingly to receive information the receipt of which constitutes a violation of, any provision of an undertaking entered into with an authorized agency of a free trade area country (as defined in section 1516a(f)(9) of this title) to protect proprietary material during binational panel or extraordinary challenge committee review pursuant to article 1904 of article 1904 of <sup>1</sup> the United States-Canada Agreement or article 10.12 of the USMCA.
 
 #### (4) Sanctions for violation of protective orders
 
-&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 3432(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission bywritten notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(10) of this title).
+&emsp;Any person, except a judge appointed to a binational panel or an extraordinary challenge committee under section 4582(b) of this title, who is found by the administering authority or the Commission, as appropriate, after notice and an opportunity for a hearing in accordance with section 554 of title 5 to have committed an act prohibited by paragraph (3) shall be liable to the United States for a civil penalty and shall be subject to such other administrative sanctions, including, but not limited to, debarment from practice before the administering authority or the Commission, as the administering authority or the Commission determines to be appropriate. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty and other sanctions shall be assessed by the administering authority or the Commission by written notice, except that assessment shall be made by the administering authority for violation, inducement of a violation or receipt of information with reason to know that such information was disclosed in violation, of an undertaking entered into by any person with an authorized agency of a free trade area country (as defined in section 1516a(f)(9) of this title).
 
 #### (5) Review of sanctions
 
@@ -194,7 +194,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (g) Information relating to violations of protective orders and sanctions
 
-The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c)or (d), and such information shall be treated as information described in section 552(b)(3) of title 5.
+The administering authority and the Commission may withhold from disclosure any correspondence, private letters of reprimand, settlement agreements, and documents and files compiled in relation to investigations and actions involving a violation or possible violation of a protective order issued under subsection (c) or (d), and such information shall be treated as information described in section 552(b)(3) of title 5.
 
 #### (h) Opportunity for comment by consumers and industrial users
 
@@ -236,13 +236,29 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;&emsp;(B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 
-(June 17, 1930, ch. 497, title VII, §777, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 187; amended Pub. L. 98–573, title VI, §619, Oct. 30, 1984, 98 Stat. 3038; Pub. L. 99–514, title XVIII, §§1886(a)(13), 1889(8), Oct. 22, 1986, 100 Stat. 2922, 2926; Pub. L. 100–418, title I, §1332, Aug. 23, 1988, 102 Stat. 1207; Pub. L. 100–449, title IV, §403(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 101–382, title I, §§134(a)(4), 135(b), Aug. 20, 1990, 104 Stat. 650, 651; Pub. L. 103–182, title IV, §412(c), Dec. 8, 1993, 107 Stat. 2146; Pub. L. 103–465, title II, §§226–228, 231(b), (d)(1), Dec. 8, 1994, 108 Stat. 4886–4888, 4896, 4897; Pub. L. 114–125, title IV, §413(a), Feb. 24, 2016, 130 Stat. 159.)
+(June 17, 1930, ch. 497, title VII, §777, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 187; amended Pub. L. 98–573, title VI, §619, Oct. 30, 1984, 98 Stat. 3038; Pub. L. 99–514, title XVIII, §§1886(a)(13), 1889(8), Oct. 22, 1986, 100 Stat. 2922, 2926; Pub. L. 100–418, title I, §1332, Aug. 23, 1988, 102 Stat. 1207; Pub. L. 100–449, title IV, §403(c), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 101–382, title I, §§134(a)(4), 135(b), Aug. 20, 1990, 104 Stat. 650, 651; Pub. L. 103–182, title IV, §412(c), Dec. 8, 1993, 107 Stat. 2146; Pub. L. 103–465, title II, §§226–228, 231(b), (d)(1), Dec. 8, 1994, 108 Stat. 4886–4888, 4896, 4897; Pub. L. 114–125, title IV, §413(a), Feb. 24, 2016, 130 Stat. 159; Pub. L. 116–113, title IV, §422(a), Jan. 29, 2020, 134 Stat. 64; Pub. L. 116–260, div. O, title VI, §601(f), Dec. 27, 2020, 134 Stat. 2151.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f). Pub. L. 116–260, §601(f)(1), substituted "to the United" for "to the the United" in heading.
+
+Pub. L. 116–113, §422(a)(1), substituted "the United States-Canada Agreement or the USMCA" for "North American Free Trade Agreement or the United States-Canada Agreement" in heading.
+
+Subsec. (f)(1)(A). Pub. L. 116–260, §601(f)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "If binational panel review of a determination under this subtitle is requested pursuant to article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority or the Commission, as appropriate, may make available to authorized persons, under a protective order described in paragraph (2), a copy of all proprietary material in the administrative record made during the proceeding in question. If the administering authority or the Commission claims a privilege as to a document or portion of a document in the administrative record of the proceeding in question and a binational panel or extraordinary challenge committee finds that in camera inspection or limited disclosure of that document or portion thereof is required by United States law, the administering authority or the Commission, as appropriate, may restrict access to such document or portion thereof to the authorized persons identified by the panel or committee as requiring access and may require such persons to obtain access under a protective order described in paragraph (2)."
+
+Pub. L. 116–113, §422(a)(2)(A), substituted "article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA, or an extraordinary challenge committee is convened under Annex 1904.13 of the United States-Canada Agreement or chapter 10 of the USMCA, the administering authority" for "article 1904 of the NAFTA or the United States-Canada Agreement, or an extraordinary challenge committee is convened under Annex 1904.13 of the NAFTA or the United States-Canada Agreement, the administering authority".
+
+Subsec. (f)(1)(B)(iii). Pub. L. 116–113, §422(a)(2)(B), substituted "chapter 19 of the Agreement or chapter 10 of the USMCA" for "chapter 19 of the NAFTA or the Agreement".
+
+Subsec. (f)(1)(B)(iv). Pub. L. 116–113, §422(a)(2)(B), (5), substituted "section 1516a(f)(9) of this title" for "section 1516a(f)(10) of this title" and "chapter 19 of the Agreement or chapter 10 of the USMCA" for "chapter 19 of the NAFTA or the Agreement".
+
+Subsec. (f)(3). Pub. L. 116–113, §422(a)(3), (5), substituted "section 1516a(f)(9) of this title" for "section 1516a(f)(10) of this title" and "article 1904 of the United States-Canada Agreement or article 10.12 of the USMCA" for "the NAFTA or the United States-Canada Agreement".
+
+Subsec. (f)(4). Pub. L. 116–113, §422(a)(4), (5), substituted "section 4582(b) of this title" for "section 3432(b) of this title" and "section 1516a(f)(9) of this title" for "section 1516a(f)(10) of this title".
 
 <b>2016</b>—Subsec. (b)(1)(A)(ii). Pub. L. 114–125 inserted "negligence, gross negligence, or" after "regarding".
 
@@ -254,7 +270,7 @@ Subsec. (b)(2). Pub. L. 103–465, §226(b), inserted at end "In a case in which
 
 Subsec. (b)(3). Pub. L. 103–465, §226(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 103–465, §231(d)(1), struck out heading and text of subsec. (e). Text read as follows:"Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject to comment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it."
+Subsec. (e). Pub. L. 103–465, §231(d)(1), struck out heading and text of subsec. (e). Text read as follows: "Information shall be submitted to the administering authority or the Commission during the course of a proceeding on a timely basis and shall be subject to comment by other parties within such reasonable time as the administering authority or the Commission shall provide. If information is submitted without an adequate opportunity for other parties to comment thereon, the administering authority or the Commission may return the information to the party submitting it and not consider it."
 
 Subsecs. (h), (i). Pub. L. 103–465, §§227, 228, added subsecs. (h) and (i).
 
@@ -316,11 +332,17 @@ Subsec. (c). Pub. L. 99–514, §1886(a)(13)(A), substituted "proprietary" for "
 
 <b>1984</b>—Subsec. (a)(3). Pub. L. 98–573, §619(1), amended par. (3) generally, substituting in provisions preceding subpar. (A) "of any ex parte meeting" for "of ex parte meetings", in subpar. (A) "a proceeding" for "an investigation", in subpar. (B) "or any person" for "and any person" and "that proceeding," for "that investigation," and, in provisions following subpar. (B), "if information relating to that proceeding was presented or discussed at such meeting. The record of such an" for "The record of the".
 
-Subsec. (b)(1). Pub. L. 98–573, §619(2), in first sentence, inserted provision referring to an officer or employee ofthe United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
+Subsec. (b)(1). Pub. L. 98–573, §619(2), in first sentence, inserted provision referring to an officer or employee of the United States Customs Service who is directly involved in conducting an investigation regarding fraud under this subtitle.
 
 Pub. L. 98–573, §619(3), as amended by Pub. L. 99–514, §1889(8), amended second sentence generally, and thereby substituted "the Commission shall require" for "the Commission may require", designated existing provisions as subpar. (A) and, in subpar. (A) as so designated, substituted "either— (i) a nonconfidential summary" for "a non-confidential summary", inserted designation "(ii)", substituted "summary accompanied" for "summary, accompanied", and added subpar. (B).
 
 Subsec. (c)(1)(A). Pub. L. 98–573, §619(4), inserted "(before or after receipt of the information requested)".
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under section 1516a of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -328,7 +350,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, set out as an Effective Date note under section 3431 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of this title, notice of which is published in the Federal Register before such date, or to a determination described in section 1516a(a)(2)(B)(vi) of this title, notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3431 of this title.
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -342,13 +364,15 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-#### Effect of Termination of NAFTA Country Status
+#### Effect of Termination of USMCA Country Status
 
-For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

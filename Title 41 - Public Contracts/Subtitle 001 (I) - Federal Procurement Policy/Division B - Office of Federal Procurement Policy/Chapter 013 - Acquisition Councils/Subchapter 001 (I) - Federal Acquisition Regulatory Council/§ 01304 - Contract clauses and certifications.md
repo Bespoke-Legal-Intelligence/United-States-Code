@@ -66,6 +66,8 @@ Pub. L. 93–400, §29, as added Pub. L. 103–355, title I, §1093, Oct. 13, 19
 
 41:425(c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Current Certification Requirements
 
 Pub. L. 104–106, div. D, title XLIII, §4301(b)(1), Feb. 10, 1996, 110 Stat. 656, provided that:
@@ -83,6 +85,8 @@ Pub. L. 104–106, div. D, title XLIII, §4301(b)(1), Feb. 10, 1996, 110 Stat. 6
 &emsp;"(II) the head of the executive agency approves in writing the retention of such certification requirement.
 
 "(ii) For purposes of clause (i), the term 'head of the executive agency' with respect to a military department means the Secretary of Defense."
+
+#### <b>Executive Documents</b>
 
 #### Addressing Tax Delinquency by Government Contractors
 

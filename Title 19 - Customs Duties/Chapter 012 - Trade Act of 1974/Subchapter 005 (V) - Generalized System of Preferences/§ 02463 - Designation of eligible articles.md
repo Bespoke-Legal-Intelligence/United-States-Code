@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The duty-free treatment provided under this subchapter shall apply to any eligible article which is the growth, product, or manufacture of a beneficiary developing country if—
 
-&emsp;&emsp;&emsp;(i) that article is imported directly from a beneficiary developing country into thecustoms territory of the United States; and
+&emsp;&emsp;&emsp;(i) that article is imported directly from a beneficiary developing country into the customs territory of the United States; and
 
 &emsp;&emsp;&emsp;(ii) the sum of—
 

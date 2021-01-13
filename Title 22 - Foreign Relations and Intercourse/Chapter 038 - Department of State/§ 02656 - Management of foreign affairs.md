@@ -4,21 +4,65 @@ The Secretary of State shall perform such duties as shall from time to time be e
 
 (R.S. §202.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §202 derived from acts July 27, 1789, ch. 4, §1, 1 Stat. 28; Sept. 15, 1789, ch. 14, §1, 1 Stat. 68.
 
 Section was formerly classified to section 156 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction
 
 Pub. L. 115–409, §412, Dec. 31, 2018, 132 Stat. 5411, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 2651 of this title\] may be construed as authorizing the use of military force."
 
-#### Delegation of Functions
+#### Mitigation and Prevention of Atrocities in High-Risk Countries
 
-Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
+Pub. L. 116–283, div. A, title XII, §1210D, Jan. 1, 2021, 134 Stat. 3916, provided that:
 
-#### Presidential Directive
+"(a)
+
+Statement of Policy.—It is the policy of the United States that the Department of State, in coordination with the Department of Defense and the United States Agency for International Development, should address global fragility, as required by the Global Fragility Act of 2019 \[22 U.S.C. 9801 et seq.\] and, to the extent practicable, incorporate efforts to identify, prevent, and respond to the causes of atrocities, as required by section 3 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 \[Pub. L. 115–441\] (22 U.S.C. 2656 note), into security assistance and cooperation planning and implementation for covered foreign countries.
+
+"(b)
+
+In General.—The Secretary of State, in consultation with chiefs of mission and the Administrator of the United States Agency for International Development, shall ensure that the Department of State's Atrocity Assessment Framework is factored into the Integrated Country Strategy and the Country Development Cooperation Strategy where appropriate for covered foreign countries.
+
+"(c)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—\[Amended section 5 of Pub. L. 115–441, 132 Stat. 5587.\]
+
+&emsp;"(2)
+
+Effective date.—The amendment made by paragraph (1) shall take effect and apply beginning with the first report required under section 5 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 that is required after the date of the enactment of this Act \[Jan. 1, 2021\].
+
+"(d)
+
+Stakeholder Consultation.—Consistent with section 504(b) of the Global Fragility Act of 2019 (22 U.S.C. 9803(b)), the Secretary of State and other relevant agencies should consult with credible representatives of civil society with experience in atrocities prevention and national and local governance entities, as well as relevant international development organizations with experience implementing programs in fragile and violence-affected communities, multilateral organizations and donors, and relevant private, academic, and philanthropic entities, as appropriate, in identifying covered foreign countries as defined in this section.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+
+&emsp;"(2)
+
+Covered foreign country.—The term 'covered foreign country' means a foreign country that is not listed as a priority country under section 505 of the Global Fragility Act of 2019 (22 U.S.C. 9804) but remains among the top 30 most at risk countries for new onset of mass killing, according to the Department of State's internal assessments, and in consultation with the appropriate congressional committees."
+
+#### Termination of National Intelligence Authority and Central Intelligence Group
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
 
@@ -32,7 +76,7 @@ Pub. L. 115–441, §§3, 6, 7, Jan. 14, 2019, 132 Stat. 5586, 5588, 5589, provi
 
 &emsp;"(1) regard the prevention of atrocities as in its national interest;
 
-&emsp;"(2) work with partners and allies, including to build their capacity, and enhance the capacity of the United States, to identify, prevent, and respond to the causes of atrocities, including insecurity, massdisplacement, violent conflict, and other conditions that may lead to such atrocities; and
+&emsp;"(2) work with partners and allies, including to build their capacity, and enhance the capacity of the United States, to identify, prevent, and respond to the causes of atrocities, including insecurity, mass displacement, violent conflict, and other conditions that may lead to such atrocities; and
 
 &emsp;"(3) pursue a United States Government-wide strategy to identify, prevent, and respond to the risk of atrocities by—
 
@@ -448,7 +492,7 @@ Regulatory Authority.—The President shall issue such regulations, licenses, an
 
 "(i)
 
-Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
+Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairsand other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
 
 "(j)
 
@@ -580,7 +624,7 @@ Functions.—The Center shall carry out the following functions:
 
 &emsp;"(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations.
 
-&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
+&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinateand shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
 
 &emsp;"(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices.
 
@@ -720,7 +764,7 @@ Statement of Policy.—It is the policy of the United States—
 
 &emsp;"(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and
 
-&emsp;"(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and socialreforms, including greater religious freedom, throughout the country.
+&emsp;"(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and social reforms, including greater religious freedom, throughout the country.
 
 "(c)
 
@@ -934,7 +978,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 #### "SEC. 633. MULTILATERAL ASSISTANCE.
 
-"The Secretary of the Treasury shall instruct the United States executive director at each internationalfinancial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
+"The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
 
 #### "SEC. 634. TRADE AND INVESTMENT ASSISTANCE.
 
@@ -1002,7 +1046,7 @@ Authorization of Assistance.—
 
 In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
-&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
+&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22U.S.C. 2321j) to East Timor in accordance with such section; and
 
 &emsp;&emsp;"(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
 
@@ -1042,19 +1086,9 @@ Information.—The report required by subsection (a) shall include—
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
-\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of titleVI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
-#### Presidential Certification Authorizing Security Assistance to East Timor
-
-Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
-
-You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[For Presidential certification authorizing security assistance to East Timor pursuant to section 637(b)(2) of Pub. L. 107–228, set out above, see Presidential Determination No. 2003–19, set out below.\]
 
 #### Pacific Charter Commission
 
@@ -1134,7 +1168,7 @@ Requirement.—The Secretary of State shall establish and maintain a registry wh
 
 "(b)
 
-Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and othermatters associated with the incarceration of prisoners in the People's Republic of China referred to in that subsection.
+Information in Registry.—The registry required by subsection (a) shall include information on the charges, judicial processes, administrative actions, uses of forced labor, incidents of torture, lengths of imprisonment, physical and health conditions, and other matters associated with the incarceration of prisoners in the People's Republic of China referred to in that subsection.
 
 "(c)
 
@@ -1194,7 +1228,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 "(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge fortheir crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 "(b)
 
@@ -1270,19 +1304,7 @@ Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
-
-#### Closure of Mission in Antigua and Barbuda Not in United States Interests
-
-Determination of President of the United States, No. 88–9, Feb. 9, 1988, 53 F.R. 5749, provided:
-
-Memorandum for the Secretary of State
-
-In accordance with Section 123 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204) \[set out above\], I have determined that closure of the U.S. Diplomatic and Consular Mission in Antigua and Barbuda is not in the national security interests of the United States.
-
-You are hereby authorized and directed to report this determination to the Congress, as required by law. This determination shall be published in the Federal Register.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27. Such a determination had been made by Determination of President of the United States, No. 88–9, Feb. 9, 1988, 53 F.R. 5749.
 
 #### Assignment of Drug Enforcement Administration Agents Abroad
 
@@ -1386,6 +1408,12 @@ Pub. L. 95–426, title VI, §603, Oct. 7, 1978, 92 Stat. 985, as amended by Pub
 
 Pub. L. 95–426, title VI, §607, Oct. 7, 1978, 92 Stat. 988, provided that: "The Congress finds that the conduct of diplomatic relations with a foreign government has as its principal purpose the discussion and negotiation with that government of outstanding issues and, like the recognition of a foreign government, does not in itself imply approval of that government or of the political-economic system it represents."
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
+
 #### Executive Order No. 13584
 
 Ex. Ord. No. 13584, Sept. 9, 2011, 76 F.R. 56945, which related to developing an integrated strategic counterterrorism communications initiative and establishing a temporary organization to support certain government-wide communications activities directed abroad, was revoked by Ex. Ord. No. 13721, §2, Mar. 17, 2016, 81 F.R. 14685, set out below.
@@ -1402,7 +1430,7 @@ Sec. 2. <i>Revocation</i>. Executive Order 13584 of September 9, 2011 (Developin
 
 Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for innovation and new approaches to counter the messaging and diminish the influence of international terrorist organizations, including ISIL, al Qa'ida, and other violent extremists abroad, and in order to protect the vital national interests of the United States, while also recognizing the importance of protections for freedom of expression, including those under the First Amendment to the Constitution of the United States and international human rights obligations, the responsibilities and functions of the Center shall include the following:
 
-(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
+(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence ofinternational terrorist organizations and other violent extremists abroad;
 
 (b) developing and promulgating throughout the executive branch, on the basis of rigorous research and modern data analysis, the U.S. strategic counterterrorism narratives, guidance, and associated communications strategies directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
@@ -1461,4 +1489,16 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Presidential Certification Authorizing Security Assistance to East Timor
+
+Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+
+You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

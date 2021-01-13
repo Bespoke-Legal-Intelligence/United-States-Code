@@ -1,0 +1,64 @@
+### §4951. Purposes; definitions; regulations
+
+(a)
+
+Purposes.—The purposes of the program authorized by this chapter are—
+
+&emsp;(1) to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
+
+&emsp;(2) to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.
+
+(b)
+
+Definitions.—In this chapter:
+
+&emsp;(1) The term "eligible entity" means any of the following:
+
+&emsp;&emsp;(A) A State.
+
+&emsp;&emsp;(B) A local government.
+
+&emsp;&emsp;(C) A private, nonprofit organization.
+
+&emsp;&emsp;(D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+
+&emsp;(2) The term "distressed area" means—
+
+&emsp;&emsp;(A) the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government) that—
+
+&emsp;&emsp;&emsp;(i) has a per capita income of 80 percent or less of the State average; or
+
+&emsp;&emsp;&emsp;(ii) has an unemployment rate that is one percent greater than the national average for the most recent 24-month period for which statistics are available; or
+
+&emsp;&emsp;(B) a reservation, as defined in section 3(d) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(d)).
+
+&emsp;(3) The term "Secretary" means the Secretary of Defense acting through the Director of the Defense Logistics Agency.
+
+&emsp;(4) The terms "State" and "local government" have the meaning given those terms in section 6302 of title 31.
+
+(c)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this chapter.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1872(a)(1)(B), (2), (3)(A), (4), Jan. 1, 2021, 134 Stat. 4287, 4288.)
+
+#### Codification
+
+The text of section 2412 of this title, which was transferred to this section, designated as subsec. (a), and amended by Pub. L. 116–283, §1872(a)(2), was based on Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 116–283, div. A, title XVIII, §1872(a)(2), Jan. 1, 2021, 134 Stat. 4287.
+
+The text of section 2411 of this title, which was transferred to this section, designated as subsec. (b), and amended by Pub. L. 116–283, §1872(a)(3)(A), was based on Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, §101(c) \[title X, §956(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, §841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, §701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, §1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511; Pub. L. 116–283, div. A, title XVIII, §1872(a)(3)(A), Jan. 1, 2021, 134 Stat. 4288.
+
+The text of section 2420 of this title, which was transferred to this section, designated as subsec. (c), and amended by Pub. L. 116–283, §1872(a)(4), was based on Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, §2416; renumbered §2417, Pub. L. 99–500, §101(c) \[title X, §957(a)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §957(a)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, and Pub. L. 99–661, div. A, title IX, formerly title IV, §957(a)(1)(A), Nov. 14, 1986, 100 Stat. 3954, renumberedtitle IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; renumbered §2418, Pub. L. 101–510, div. A, title VIII, §814(a)(1)(A), Nov. 5, 1990, 104 Stat. 1596; renumbered §2419, Pub. L. 102–484, div. D, title XLII, §4236(a)(1)(A), Oct. 23, 1992, 106 Stat. 2691; renumbered §2420, Pub. L. 113–66, div. A, title XVI, §1611(a)(1)(A), Dec. 26, 2013, 127 Stat. 946; Pub. L. 116–283, div. A, title XVIII, §1872(a)(4), Jan. 1, 2021, 134 Stat. 4288.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1872(a)(2), transferred the text of section 2412 of this title to this section, designated it as subsec. (a), and inserted heading.
+
+Subsec. (b). Pub. L. 116–283, §1872(a)(3)(A), transferred the text of section 2411 of this title to this section, designated it as subsec. (b), and inserted heading.
+
+Subsec. (c). Pub. L. 116–283, §1872(a)(4), transferred the text of section 2420 of this title to this section, designated it as subsec. (c), and inserted heading.
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+

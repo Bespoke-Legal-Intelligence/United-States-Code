@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term "eligible access expenditures" means amounts paid or incurred by an eligible small business for the purpose of enablingsuch eligible small business to comply with applicable requirements under the Americans With Disabilities Act of 1990 (as in effect on the date of the enactment of this section).
+&emsp;The term "eligible access expenditures" means amounts paid or incurred by an eligible small business for the purpose of enabling such eligible small business to comply with applicable requirements under the Americans With Disabilities Act of 1990 (as in effect on the date of the enactment of this section).
 
 #### (2) Certain expenditures included
 

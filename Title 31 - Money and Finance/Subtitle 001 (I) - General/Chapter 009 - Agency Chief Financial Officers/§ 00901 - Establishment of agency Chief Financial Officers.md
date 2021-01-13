@@ -80,6 +80,8 @@
 
 (Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, §108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, §638(a), Sept. 29, 1999, 113 Stat. 475; Pub. L. 108–330, §3(a), (d)(2), Oct. 16, 2004, 118 Stat. 1276, 1277.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, §3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
@@ -89,6 +91,8 @@ Subsec. (b)(2)(B) to (H). Pub. L. 108–330, §3(d)(2), redesignated subpars. (C
 <b>1999</b>—Subsec. (c). Pub. L. 106–58 added subsec. (c).
 
 <b>1994</b>—Subsec. (b)(2)(H). Pub. L. 103–296 added subpar. (H).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -152,7 +156,7 @@ Agency Reviews of Financial Management Activities.—Not later than 120 days aft
 
 "(b)
 
-Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions in particular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
+Reorganization Proposal.—Not later than 120 days after the issuance of requirements under subsection (a) and subject to all laws vesting functions inparticular officers and employees of the United States, the head of each agency shall submit to the Director of the Office of Management and Budget a proposal for reorganizing the agency for the purposes of this Act \[see Short Title of 1990 Amendment note set out under section 501 of this title\]. Such proposal shall include—
 
 &emsp;"(1) a description of all functions, powers, duties, personnel, property, or records which the agency Chief Financial Officer is proposed to have authority over, including those relating to functions that are not related to financial management activities; and
 
@@ -160,7 +164,7 @@ Reorganization Proposal.—Not later than 120 days after the issuance of require
 
 "(c)
 
-Review and Approval of Proposal.—Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with section 901 of title 31, United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agencyunder this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
+Review and Approval of Proposal.—Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with section 901 of title 31, United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agency under this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
 
 "(d)
 

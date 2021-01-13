@@ -16,7 +16,7 @@ Guidelines for Exercise of Authority.—The authority provided under subsection 
 
 #### Prior Provisions
 
-Prior sections 8750 and 8751 were renumbered sections 9280 and 9281 of this title.
+A prior section 8750 was renumbered section 9280 of this title.
 
 #### Amendments
 

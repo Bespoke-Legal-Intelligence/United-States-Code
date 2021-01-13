@@ -124,7 +124,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (C) Exception for dealers
 
-&emsp;&emsp;Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income—
+&emsp;&emsp;Except as provided by regulations, in the case of a regular dealer in property which isproperty described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income—
 
 &emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
 
@@ -196,7 +196,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (C) Application
 
-&emsp;&emsp;Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2021, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+&emsp;&emsp;Subparagraph (A) shall apply to taxable years of foreign corporations beginning after December 31, 2005, and before January 1, 2026, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 #### (d) Foreign base company sales income
 
@@ -314,7 +314,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 #### (C) Substantial activity requirement for cross border income
 
-&emsp;&emsp;The term "qualified banking or financing income" shall not include income derived from 1 or more transactions with customers located in a country other than the home country of the eligible controlled foreign corporation or a qualified business unit of such corporation unless such corporation or unit conducts substantial activity with respect to a banking, financing, or similar business in its home country.
+&emsp;&emsp;The term "qualified banking or financing income" shall not include income derived from 1 or more transactions with customerslocated in a country other than the home country of the eligible controlled foreign corporation or a qualified business unit of such corporation unless such corporation or unit conducts substantial activity with respect to a banking, financing, or similar business in its home country.
 
 #### (D) Determinations made separately
 
@@ -484,7 +484,7 @@ For purposes of section 952(a)(2), the term "foreign base company income" means 
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333; Pub. L. 113–295, div. A, title I, §§134(b), 135(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §§128(b), 144(a), Dec. 18, 2015, 129 Stat. 3054, 3065; Pub. L. 115–97, title I, §§13517(b)(5), 14211(a), (b)(2), (3), Dec. 22, 2017, 131 Stat. 2147, 2216, 2217; Pub. L. 116–94, div. Q, title I, §145(a), Dec. 20, 2019, 133 Stat. 3236.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(ll), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639; Pub. L. 109–222, title I, §103(a)(2), (b)(1), May 17, 2006, 120 Stat. 346; Pub. L. 109–432, div. A, title IV, §426(a)(1), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 110–172, §§4(a), 11(a)(19), (20), (g)(15)(B), Dec. 29, 2007, 121 Stat. 2475, 2486, 2491; Pub. L. 110–343, div. C, title III, §§303(b), 304(a), Oct. 3, 2008, 122 Stat. 3866, 3867; Pub. L. 111–312, title VII, §§750(a), 751(a), Dec. 17, 2010, 124 Stat. 3320, 3321; Pub. L. 112–240, title III, §§322(b), 323(a), Jan. 2, 2013, 126 Stat. 2332, 2333; Pub. L. 113–295, div. A, title I, §§134(b), 135(a), Dec. 19, 2014, 128 Stat. 4019; Pub. L. 114–113, div. Q, title I, §§128(b), 144(a), Dec. 18, 2015, 129 Stat. 3054, 3065; Pub. L. 115–97, title I, §§13517(b)(5), 14211(a), (b)(2), (3), Dec. 22, 2017, 131 Stat. 2147, 2216, 2217; Pub. L. 116–94, div. Q, title I, §145(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §111(a), Dec. 27, 2020, 134 Stat. 3050.)
 
 #### References in Text
 
@@ -492,9 +492,11 @@ Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in
 
 #### Amendments
 
+<b>2020</b>—Subsec. (c)(6)(C). Pub. L. 116–260 substituted "January 1, 2026" for "January 1, 2021".
+
 <b>2019</b>—Subsec. (c)(6)(C). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2020".
 
-<b>2017</b>—Subsec. (a)(5). Pub. L. 115–97, §14211(a), struck out par. (5) which read as follows: "the foreign basecompany oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5))."
+<b>2017</b>—Subsec. (a)(5). Pub. L. 115–97, §14211(a), struck out par. (5) which read as follows: "the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5))."
 
 Subsec. (b)(4). Pub. L. 115–97, §14211(b)(2)(A), struck out at end "The preceding sentence shall not apply to foreign base company oil-related income described in subsection (a)(5)."
 
@@ -600,7 +602,7 @@ Subsec. (h). Pub. L. 105–277, §1005(a), amended heading and text of subsec. (
 
 Subsec. (i). Pub. L. 105–277, §1005(b)(2), added subsec. (i).
 
-<b>1997</b>—Subsec. (c)(1)(B). Pub. L. 105–34, §1051(a)(2), in concluding provisions, struck out "In the case of any regular dealer in property, gains and losses from the sale or exchange of any such property or arising out of bona fide hedging transactions reasonably necessary to the conduct of the business of being a dealer in such property shall not be taken into account under this subparagraph." before "Gains and losses" and "also" after "section 1221(1)".
+<b>1997</b>—Subsec. (c)(1)(B). Pub. L. 105–34, §1051(a)(2), in concluding provisions, struck out "In the case of anyregular dealer in property, gains and losses from the sale or exchange of any such property or arising out of bona fide hedging transactions reasonably necessary to the conduct of the business of being a dealer in such property shall not be taken into account under this subparagraph." before "Gains and losses" and "also" after "section 1221(1)".
 
 Subsec. (c)(1)(F), (G). Pub. L. 105–34, §1051(a)(1), added subpars. (F) and (G).
 
@@ -650,7 +652,7 @@ Subsec. (b)(3). Pub. L. 99–514, §1223(a), amended par. (3) generally. Prior t
 
 Subsec. (b)(4). Pub. L. 99–514, §1221(d), amended par. (4) generally. Prior to amendment, par. (4), exception for foreign corporations not availed of to reduce taxes, read as follows: "For purposes of subsection (a), foreign base company income does not include any item of income received by a controlled foreign corporation if it is established to the satisfaction of the Secretary that neither—
 
-&emsp;"(A) the creation or organization of such controlled foreign corporation under the laws of the foreigncountry in which it is incorporated (or, in the case of a controlled foreign corporation which is an acquired corporation, the acquisition of such corporation created or organized under the laws of the foreign country in which it is incorporated), nor
+&emsp;"(A) the creation or organization of such controlled foreign corporation under the laws of the foreign country in which it is incorporated (or, in the case of a controlled foreign corporation which is an acquired corporation, the acquisition of such corporation created or organized under the laws of the foreign country in which it is incorporated), nor
 
 &emsp;"(B) the effecting of the transaction giving rise to such income through the controlled foreign corporation,
 
@@ -726,6 +728,10 @@ Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) a
 
 <b>1969</b>—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary's power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §111(b), Dec. 27, 2020, 134 Stat. 3050, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2020, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §145(b), Dec. 20, 2019, 133 Stat. 3236, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2019, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
@@ -784,7 +790,7 @@ Pub. L. 108–357, title IV, §412(b), Oct. 22, 2004, 118 Stat. 1506, provided t
 
 Amendment by section 413(b)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
-Pub. L. 108–357, title IV, §414(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by thissection \[amending this section\] shall apply to transactions entered into after December 31, 2004."
+Pub. L. 108–357, title IV, §414(d), Oct. 22, 2004, 118 Stat. 1511, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions entered into after December 31, 2004."
 
 Amendment by section 415(a), (b), (c)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 415(d) of Pub. L. 108–357, set out as a note under section 952 of this title.
 
@@ -888,7 +894,7 @@ Qualified controlled foreign insurer.—For purposes of this paragraph, the term
 
 &emsp;&emsp;"(i) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as defined in section 1504(a) of the Internal Revenue Code of 1986 without regard to subsection (b)(3) thereof) which had as its common parent a corporation incorporated in Delaware on June 9, 1967, with executive offices in New York, New York, or
 
-&emsp;&emsp;"(ii) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as so defined) which had as its common parent acorporation incorporated in Delaware on November 3, 1981, with executive offices in Philadelphia, Pennsylvania.
+&emsp;&emsp;"(ii) any controlled foreign corporation which on August 16, 1986, was a member of an affiliated group (as so defined) which had as its common parent a corporation incorporated in Delaware on November 3, 1981, with executive offices in Philadelphia, Pennsylvania.
 
 &emsp;"(D)
 
@@ -900,7 +906,7 @@ Amendment by section 1810(k) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §137(b), July 18, 1984, 98 Stat. 672, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to taxable years of controlled foreign corporations beginning after the date of the enactment of this Act \[July 18, 1984\]."
+Pub. L. 98–369, div. A, title I, §137(b), July 18, 1984, 98 Stat. 672, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to taxable years of controlled foreign corporations beginning after the date of the enactment of this Act \[July 18, 1984\]."
 
 Amendment by section 712(f) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

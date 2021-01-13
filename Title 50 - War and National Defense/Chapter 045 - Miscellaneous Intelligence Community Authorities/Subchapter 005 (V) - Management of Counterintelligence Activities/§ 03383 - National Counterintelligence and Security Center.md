@@ -28,7 +28,7 @@ Subject to the direction and control of the Director of the National Counterinte
 
 #### (B) Revision and requirement
 
-&emsp;&emsp;The National Counterintelligence Strategy shall be revised or updated at least once every three years and shall be aligned with the strategy and policies of the Director of National Intelligence.
+&emsp;&emsp;The National Counterintelligence Strategy shall be revised or updated at least onceevery three years and shall be aligned with the strategy and policies of the Director of National Intelligence.
 
 #### (3) Implementation of National Counterintelligence Strategy
 
@@ -46,7 +46,7 @@ Subject to the direction and control of the Director of the National Counterinte
 
 &emsp;&emsp;(B) to ensure that the budgets and resource allocation plans developed under subparagraph (A) address the objectives and priorities for counterintelligence under the National Counterintelligence Strategy; and
 
-&emsp;&emsp;(C) to submit to the National Security Council periodic reports on the activitiesundertaken by the Office under subparagraphs (A) and (B).
+&emsp;&emsp;(C) to submit to the National Security Council periodic reports on the activities undertaken by the Office under subparagraphs (A) and (B).
 
 #### (6) National counterintelligence collection and targeting coordination
 

@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 112–81, §602(c), added subsec. (e).
 
 Subsec. (b)(2). Pub. L. 105–85, §603(d)(2)(D)(ii), substituted "basic allowance for housing" for "basic allowance for quarters".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out "$1,421,000 for fiscal year 1986 and" after"may not exceed" and substituted "1992" for "1991", and added par. (4).
+<b>1991</b>—Subsec. (b). Pub. L. 102–190, §607(a), amended subsec. to read as in effect on Sept. 30, 1991, in par. (3) struck out "$1,421,000 for fiscal year 1986 and" after "may not exceed" and substituted "1992" for "1991", and added par. (4).
 
 Subsec. (d). Pub. L. 102–190, §607(b), added subsec. (d).
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective and Termination Date of 1980 Amendment
 
-Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991. Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, extended the authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) through Sept. 30, 1987, at an amount not to exceed $1,657,000.
+Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991. Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub.L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, extended the authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) through Sept. 30, 1987, at an amount not to exceed $1,657,000.
 
 #### Repeals
 

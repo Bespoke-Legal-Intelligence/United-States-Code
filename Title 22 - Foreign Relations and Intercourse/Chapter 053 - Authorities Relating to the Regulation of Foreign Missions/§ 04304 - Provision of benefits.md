@@ -30,7 +30,7 @@ Terms and conditions established by the Secretary under this section may include
 
 #### (d) Agent for waiver of recourse
 
-For purposes of effectuating a waiver of recourse which is required under this section, the Secretary may designate any officer of the Department of State as the agent of a foreign mission (or of any assignee of or person derivingrights from a foreign mission). Any such waiver by an officer so designated shall for all purposes (including any court or administrative proceeding) be deemed to be a waiver by the foreign mission (or the assignee of or other person deriving rights from a foreign mission).
+For purposes of effectuating a waiver of recourse which is required under this section, the Secretary may designate any officer of the Department of State as the agent of a foreign mission (or of any assignee of or person deriving rights from a foreign mission). Any such waiver by an officer so designated shall for all purposes (including any court or administrative proceeding) be deemed to be a waiver by the foreign mission (or the assignee of or other person deriving rights from a foreign mission).
 
 #### (e) Secret Service protection
 
@@ -44,13 +44,15 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 (3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5).
 
-(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
+(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on ForeignAffairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
 
 (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
 (Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(o)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, §605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Subsec. (f). Pub. L. 101–246, §116(b)(2), added subsec. (f).
 <b>1985</b>—Subsec. (b). Pub. L. 99–93, §127(c), inserted "to forego the acceptance, use, or relation of any benefit or" after "(B)" in provisions following par. (4).
 
 Subsec. (e). Pub. L. 99–93, §126(b), substituted "chapter" for "section" and was executed by making the substitution to first reference to "section" as the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

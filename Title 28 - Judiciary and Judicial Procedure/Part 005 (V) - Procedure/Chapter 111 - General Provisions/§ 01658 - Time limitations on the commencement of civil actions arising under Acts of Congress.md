@@ -10,6 +10,8 @@
 
 (Added Pub. L. 101–650, title III, §313(a), Dec. 1, 1990, 104 Stat. 5114; amended Pub. L. 107–204, title VIII, §804(a), July 30, 2002, 116 Stat. 801.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
@@ -17,6 +19,8 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–204 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

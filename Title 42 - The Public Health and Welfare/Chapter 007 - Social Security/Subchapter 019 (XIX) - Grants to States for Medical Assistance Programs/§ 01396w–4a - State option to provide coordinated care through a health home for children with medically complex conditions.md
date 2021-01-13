@@ -20,7 +20,7 @@ The Secretary shall establish standards for qualification as a health home for p
 
 &emsp;&emsp;(B) palliative services if the State provides such services under the State plan (or a waiver of such plan).
 
-&emsp;(5) Coordinate care for children with medically complex conditions with out-of-State providers furnishing care to such children to the maximum extent practicable for the families of such children and where medically necessary, in accordance with guidance issued under subsection (e)(1) and section 431.52 of title 42, Code of Federal Regulations.
+&emsp;(5) Coordinate care for children with medically complex conditions with out-of-Stateproviders furnishing care to such children to the maximum extent practicable for the families of such children and where medically necessary, in accordance with guidance issued under subsection (e)(1) and section 431.52 of title 42, Code of Federal Regulations.
 
 &emsp;(6) Collect and report information under subsection (g)(1).
 
@@ -48,7 +48,7 @@ The Secretary shall establish standards for qualification as a health home for p
 
 #### (A) In general
 
-&emsp;&emsp;Beginning October 1, 2022, the Secretary may award planning grants to States for purposes of developing a State plan amendment under this section. A planning grantawarded to a State under this paragraph shall remain available until expended.
+&emsp;&emsp;Beginning October 1, 2022, the Secretary may award planning grants to States for purposes of developing a State plan amendment under this section. A planning grant awarded to a State under this paragraph shall remain available until expended.
 
 #### (B) State contribution
 
@@ -110,7 +110,7 @@ A State shall include in the State plan amendment—
 
 &emsp;In order to receive payments from a State under subsection (c), a designated provider, a team of health care professionals operating with such a provider, or a health team shall report to the State, at such time and in such form and manner as may be required by the State, the following information:
 
-&emsp;&emsp;(A) With respect to each such provider, team of health care professionals, or health team, the name, National Provider Identification number, address, and specific health care services offered to be provided to children with medically complex conditions whohave selected such provider, team of health care professionals, or health team as the health home of such children.
+&emsp;&emsp;(A) With respect to each such provider, team of health care professionals, or health team, the name, National Provider Identification number, address, and specific health care services offered to be provided to children with medically complex conditions who have selected such provider, team of health care professionals, or health team as the health home of such children.
 
 &emsp;&emsp;(B) Information on all applicable measures for determining the quality of health home services provided by such provider, team of health care professionals, or health team, including, to the extent applicable, child health quality measures and measures for centers of excellence for children with complex needs developed under this subchapter, subchapter XXI, and section 1320b–9a of this title.
 

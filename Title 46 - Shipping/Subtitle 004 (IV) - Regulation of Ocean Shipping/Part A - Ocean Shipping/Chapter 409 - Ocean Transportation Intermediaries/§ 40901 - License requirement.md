@@ -34,6 +34,8 @@ Pub. L. 98–237, §19(a), (d), Mar. 20, 1984, 98 Stat. 87, 88; Pub. L. 105–25
 
 46 App.:1718(d).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–282, §707(a), inserted "advertise, hold oneself out, or" after "may not".

@@ -6,7 +6,7 @@ Definition.—In this subchapter, the term "contractor" means a person awarded a
 
 (b)
 
-Type of Bonds Required.—Before any contract of more than $100,000 is awarded for theconstruction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
+Type of Bonds Required.—Before any contract of more than $100,000 is awarded for the construction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
 
 &emsp;(1)
 
@@ -99,6 +99,8 @@ In subsections (b) and (c), the words "or sureties" are omitted because of 1:1.
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified to Title 26, Internal Revenue Code.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

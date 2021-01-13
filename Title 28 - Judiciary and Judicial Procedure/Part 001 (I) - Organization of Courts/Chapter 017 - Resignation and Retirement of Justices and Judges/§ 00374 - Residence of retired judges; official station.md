@@ -12,11 +12,15 @@ Sections 44 and 133 of this title require that active circuit and district judge
 
 Changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–651 inserted last sentence.
 
 <b>1959</b>—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted "; official station" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

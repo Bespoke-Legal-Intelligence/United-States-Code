@@ -108,7 +108,7 @@ Not later than 180 days after August 8, 2005, the Secretary shall issue guidelin
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted "in a product category covered by the EnergyStar program or the Federal Energy Management Program for designated products" after "energy consuming product" in introductory provisions.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §525(a)(1), inserted "in a product category covered by the Energy Star program or the Federal Energy Management Program for designated products" after "energy consuming product" in introductory provisions.
 
 Subsec. (c). Pub. L. 110–140, §525(a)(2), in second sentence, inserted "list in their catalogues, represent as available, and" after "shall" and substituted "in which the head of the agency" for "where the agency".
 

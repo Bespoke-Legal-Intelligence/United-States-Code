@@ -72,6 +72,8 @@ Definition.—In this section, the term "private employer" includes a political 
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3165; amended Pub. L. 104–275, title III, §311(10), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 105–368, title II, §211(a), Nov. 11, 1998, 112 Stat. 3329; Pub. L. 110–389, title III, §§311(d)(1), (e)(1), (f)(3), 315, Oct. 10, 2008, 122 Stat. 4162–4164, 4167.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4323 was renumbered section 7623 of this title.
@@ -94,11 +96,13 @@ Inapplicability of State Statute of Limitations.—No State statute of limitatio
 
 Subsec. (a)(2)(A). Pub. L. 104–275, §311(10)(B), substituted "under section 4322(a)" for "regarding the complaint under section 4322(c)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–368, title II, §211(b), Nov. 11, 1998, 112 Stat. 3330, provided that:
 
-"(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
+"(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapterbefore the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
 "(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section 4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a)."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of State.—In this section, the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+Definition of State.—In this section, the term "State" means any of the several States, the District of Columbia, the Commonwealth ofPuerto Rico, the United States Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 (b)
 

@@ -4,6 +4,8 @@ This subchapter shall not limit the authority of the Secretary to reassign tempo
 
 (Added Pub. L. 92–297, §3(a), May 16, 1972, 86 Stat. 143; amended Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of Secretary, referred to in text, see section 2109 of this title.
@@ -11,6 +13,8 @@ For definition of Secretary, referred to in text, see section 2109 of this title
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–347 substituted "Secretary" for "Secretary of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

@@ -22,6 +22,8 @@ Aug. 30, 1950, ch. 823, §16, 64 Stat. 566.
 
 The words "duly", "sole", and "lawfully" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–7 substituted "FFA" for "corporation" in two places, "names" for "name", and " 'Future Farmers of America' and 'National FFA Organization,' " for " 'Future Farmers of America' " and inserted "education" before "membership".

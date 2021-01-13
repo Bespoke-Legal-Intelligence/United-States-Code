@@ -1,5 +1,7 @@
 ### §141. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, R.S. §2110, which related to issuance of army rations to Indians, was omitted on recommendation of Secretary of the Interior that this section be repealed because the practice of issuing army rations to Indians is no longer in use.

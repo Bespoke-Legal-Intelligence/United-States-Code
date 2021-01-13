@@ -32,9 +32,13 @@ The word "personal" is added before the word "effects" for clarity and to preser
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–264 substituted "Government" for "United States" in introductory provisions.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10614. Payment of General-Average Contributions in Connection With Transportation of Effects
 

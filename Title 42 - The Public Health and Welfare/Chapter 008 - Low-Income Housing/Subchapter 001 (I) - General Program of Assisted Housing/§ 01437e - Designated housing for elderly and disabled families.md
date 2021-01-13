@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) is in effect may provide public housing projects (or portions ofprojects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
+&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
 
 #### (2) Priority for occupancy
 
@@ -16,7 +16,7 @@
 
 #### (b) Standards regarding evictions
 
-Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
+Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing ina dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
 
 #### (c) Relocation assistance
 
@@ -86,7 +86,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (3) Transition provision
 
-&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) that is in effect for purposes of this section for the 5-year period beginning upon such approval.
+&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) that is in effect for purposes of this section forthe 5-year period beginning upon such approval.
 
 #### (g) Inapplicability of Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 
-Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L.104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
+Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date of 1992 Amendment
 

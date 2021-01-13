@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) State, local, and tribal governments;
 
-&emsp;&emsp;&emsp;(iv) designing, developing, and evaluating training and exercises carried outunder agriculture and food defense plans; and
+&emsp;&emsp;&emsp;(iv) designing, developing, and evaluating training and exercises carried out under agriculture and food defense plans; and
 
 &emsp;&emsp;&emsp;(v) ensuring consistent and organized risk communication to the public by—
 
@@ -123,6 +123,8 @@
 In the interest of national security, the Secretary of Health and Human Services and the Secretary of Agriculture, in coordination with the Secretary of Homeland Security, may determine the manner and format in which the National Agriculture and Food Defense strategy established under this section is made publicly available on the Internet Web sites of the Department of Health and Human Services, the Department of Homeland Security, and the Department of Agriculture, as described in subsection (a)(1).
 
 (Pub. L. 111–353, title I, §108, Jan. 4, 2011, 124 Stat. 3910.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

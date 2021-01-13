@@ -46,6 +46,8 @@ There is established in the Agency a National Integration Center.
 
 (Pub. L. 107–296, title V, §509, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1405; amended Pub. L. 114–328, div. A, title XIX, §1901(d)(2), Dec. 23, 2016, 130 Stat. 2670.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Post-Katrina Emergency Management Reform Act of 2006, referred to in subsec. (c)(1)(B)(i), is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
@@ -57,6 +59,8 @@ A prior section 509 of Pub. L. 107–296 was renumbered section 520 and is class
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(2). Pub. L. 114–328 inserted "; Joint Task Force" after "Official" in heading and "or Director of a Joint Task Force established under section 348 of this title" before "shall" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

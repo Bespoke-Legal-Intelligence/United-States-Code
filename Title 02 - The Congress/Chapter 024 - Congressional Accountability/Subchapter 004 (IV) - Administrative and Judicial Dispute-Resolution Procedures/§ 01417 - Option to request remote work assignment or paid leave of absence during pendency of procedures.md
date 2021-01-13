@@ -8,7 +8,7 @@
 
 #### (2) Exception for work assignments required to be carried out onsite
 
-&emsp;If, in the determination of the covered employee's employing office, a covered employee who makes a request under this subsection cannot carry out the employee's responsibilities from a remote location or such relocation would not have the effect described in paragraph (1), the employing office may during the pendency of the procedures described in paragraph (1)—
+&emsp;If, in the determination of the covered employee's employing office, a covered employee who makes a request under this subsection cannot carry out the employee's responsibilities from a remote location or such relocation would not have the effect described in paragraph (1), the employing office may during thependency of the procedures described in paragraph (1)—
 
 &emsp;&emsp;(A) grant a paid leave of absence to the covered employee;
 
@@ -30,9 +30,13 @@ Subsection (a) does not apply to the extent that it is inconsistent with the ter
 
 (Pub. L. 104–1, title IV, §417, as added Pub. L. 115–397, title I, §113(a), Dec. 21, 2018, 132 Stat. 5313.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Part A of subchapter II, referred to in subsec. (a)(1), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

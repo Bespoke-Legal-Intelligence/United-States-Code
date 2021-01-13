@@ -24,7 +24,7 @@
 
 (1) In furtherance of the State's entitlement to lands under section 6(b) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all vacant, unappropriated, and unreserved lands, including lands subject to subsection (l) of this section, which are specified in the list entitled "Prior State of Alaska Selections to be Conveyed by Congress", dated July 24, 1978, submitted by the State of Alaska and on file in the Office of the Secretary except those Federal lands which are specified in a list dated October 19, 1979, submitted by the State of Alaska and on file with the Office of the Secretary. If any of those townships listed above contain lands within the boundaries of any conservation system unit, national conservation area, national recreation area, new national forest or forest addition, established, designated, or expanded by this Act, then only those lands within such townships which have been previously selected by the State of Alaska shall be conveyed pursuant to this subsection.
 
-(2) In furtherance of the State's entitlement to lands under section 6(a) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all valid land selections made from the national forests under authority of said section 6(a) which have been approved by the Secretary of Agriculture prior to July 1, 1979.
+(2) In furtherance of the State's entitlement to lands under section 6(a) of the Alaska Statehood Act, the United States hereby conveys to the State of Alaska, subject only to valid existing rights and Native selection rights under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], all right, title and interest of the United States in and to all valid land selectionsmade from the national forests under authority of said section 6(a) which have been approved by the Secretary of Agriculture prior to July 1, 1979.
 
 (3) As soon as practicable after December 2, 1980, the Secretary shall issue tentative approvals to such State selections as required by the Alaska Statehood Act and pursuant to subsection (i) of this section. The sequence of issuance of such tentative approvals shall be on the basis of priorities determined by the State.
 
@@ -60,7 +60,7 @@ In furtherance of the State's entitlement to lands under section 6(b) of the Ala
 
 (ii) In establishing the priorities for tentative approval under clause (i), the State shall—
 
-&emsp;(I) in the case of a selection under section 6(a) of Public Law 85–508 (commonly known as the "Alaska Statehood Act") (72 Stat. 340), include all land selected; or
+&emsp;(I) in the case of a selection under section 6(a) of Public Law 85–508 (commonly known asthe "Alaska Statehood Act") (72 Stat. 340), include all land selected; or
 
 &emsp;(II) in the case of a selection under section 6(b) of that Act—
 
@@ -138,6 +138,8 @@ The second proviso of section 6(b) of the Alaska Statehood Act regarding Preside
 
 (Pub. L. 96–487, title IX, §906, Dec. 2, 1980, 94 Stat. 2437; Pub. L. 108–452, title I, §102, Dec. 10, 2004, 118 Stat. 3577.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 4, 1915, as confirmed and transferred in section 6(k) of the Alaska Statehood Act, referred to in subsec. (b)(1), is act Mar. 4, 1915, ch. 181, §1, 38 Stat. 1214, which was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by section 6(k) of the Alaska Statehood Act, Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. See section 6(k) of the Alaska Statehood Act set out as a note preceding section 21 of Title 48.
@@ -173,6 +175,8 @@ In subsec. (j)(5), "December 2, 1980" substituted for "the effective date of thi
 #### Amendments
 
 <b>2004</b>—Subsec. (h)(2). Pub. L. 108–452 designated first sentence as subpar. (A) and second sentence as cl. (i) of subpar. (B) and added cl. (ii) of subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Selection of Certain Reversionary Interests Held by the United States
 
@@ -214,7 +218,7 @@ Pub. L. 108–452, title I, §106, Dec. 10, 2004, 118 Stat. 3579, provided that:
 
 In General.—The Secretary \[of the Interior\] may enter into a binding written agreement with the State \[of Alaska\] with respect to—
 
-&emsp;"(1) the exact number and location of acres of land remaining to be conveyed under each entitlement established or confirmed by Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat. 340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], from—
+&emsp;"(1) the exact number and location of acres of land remaining to be conveyed under each entitlement established or confirmed by Public Law 85–508 (commonly known as the 'Alaska Statehood Act') (72 Stat.340) \[set out as a note preceding section 21 of Title 48, Territories and Insular Possessions\], from—
 
 &emsp;&emsp;"(A) the land selected by the State as of January 3, 1994; and
 

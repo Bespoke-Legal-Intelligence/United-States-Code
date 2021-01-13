@@ -4,9 +4,13 @@ Upon the recommendation of the Secretary of the Interior, the President may orde
 
 (R.S. §2252; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2252 derived from act May 30, 1862, ch. 86, §5, 12 Stat. 409.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

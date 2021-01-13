@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the State agrees that, with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
+&emsp;The Secretary may not make a grant under subsection (a) unless the State agrees that,with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(i) the excess of such annual payments above the maximum amount authorized in section 254l–1(g)(2)(A) of this title for annual payments regarding contracts is paid solely from non-Federal contributions under subsection (b); and
 
-&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under thecontract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
+&emsp;&emsp;(ii) the contract provides that the health professional involved will satisfy the requirement of obligated service under the contract solely through the provision of primary health services in a health professional shortage area that is receiving priority for purposes of section 254f–1(a)(1) of this title and that is authorized to receive assignments under section 254f of this title of individuals who are participating in the Scholarship Program under section 254l of this title.
 
 #### (d) Restrictions on use of funds
 

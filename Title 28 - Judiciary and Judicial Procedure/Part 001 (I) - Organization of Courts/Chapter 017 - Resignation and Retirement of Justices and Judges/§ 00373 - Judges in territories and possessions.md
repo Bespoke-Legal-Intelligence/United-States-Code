@@ -45,9 +45,11 @@
 
 #### Historical and Revision Notes
 
-Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. \[title 28, U.S.C., 1940 ed., §§375g, 375g note, 375h\] (May 31, 1938, ch. 301, §§1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§1, 2, 3, 60 Stat. 90, 91).
+Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. \[title 28,U.S.C., 1940 ed., §§375g, 375g note, 375h\] (May 31, 1938, ch. 301, §§1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§1, 2, 3, 60 Stat. 90, 91).
 
 Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as amended and transferred to title 28, U.S.C., 1940 ed., as sections 375g and 375h thereof, with changes of phraseology necessary to effect consolidation.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -72,6 +74,8 @@ Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as am
 <b>1954</b>—Act Feb. 10, 1954, among other changes, inserted provisions for retirement after attaining the age of 65 years and after serving at least fifteen years continuously or otherwise, changed period of service in connection with retirement at age 70, and reduced from 70 to 65 years the age requirement in connection with payment of salary after removal for mental or physical disability or failure of reappointment.
 
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

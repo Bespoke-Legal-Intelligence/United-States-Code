@@ -2,11 +2,11 @@
 
 The President shall provide for the presentation of the Medal of Honor Flag designated under section 903 of title 36 to each person to whom a medal of honor is awarded under section 8291 of this title. Presentation of the flag shall be made at the same time as the presentation of the medal under section 8291 or 8300 of this title. In the case of a posthumous presentation of the medal, the flag shall be presented to the person to whom the medal is presented.
 
-(Added Pub. L. 107–248, title VIII, §8143(c)(2)(A), Oct. 23, 2002, 116 Stat. 1570, §6257; amended Pub. L. 107–314, div. A, title X, §1062(a)(16), Dec. 2,2002, 116 Stat. 2650; Pub. L. 109–364, div. A, title V, §555(a), Oct. 17, 2006, 120 Stat. 2217; renumbered §8307 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 107–248, title VIII, §8143(c)(2)(A), Oct. 23, 2002, 116 Stat. 1570, §6257; amended Pub. L. 107–314, div. A, title X, §1062(a)(16), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–364, div. A, title V, §555(a), Oct. 17, 2006, 120 Stat. 2217; renumbered §8307 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 #### Prior Provisions
 
-A prior section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regular grade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 619 et seq. of this title.
+A prior section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regulargrade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 619 et seq. of this title.
 
 #### Amendments
 

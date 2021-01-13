@@ -16,9 +16,13 @@ For the purpose of expediting the cost-effective design and construction of wetl
 
 (Pub. L. 110–114, title II, §2015, Nov. 8, 2007, 121 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

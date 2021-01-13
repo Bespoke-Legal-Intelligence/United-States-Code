@@ -136,7 +136,7 @@ The Center shall consist of the following:
 
 &emsp;&emsp;&emsp;(ii) take action to ensure that a notification or information regarding the individual is not erroneously transmitted to a destination country in the future; and
 
-&emsp;&emsp;&emsp;(iii) submit an additional written notification to the individual explaining why a notification or information regarding the individual was erroneously transmitted to the destination country and describing the actions that the Center has taken or is taking under clause (ii).
+&emsp;&emsp;&emsp;(iii) submit an additional written notification to the individual explaining why a notification or information regarding the individual was erroneously transmitted to the destination country and describing theactions that the Center has taken or is taking under clause (ii).
 
 #### (C) Public awareness
 
@@ -167,6 +167,8 @@ In this section, the term "sex offender" means—
 &emsp;(2) an individual required to register under the sex offender registration program of any jurisdiction or included in the National Sex Offender Registry, on the basis of an offense against a minor.
 
 (Pub. L. 114–119, §4, Feb. 8, 2016, 130 Stat. 17.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -1,8 +1,12 @@
 ### §544. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Mar. 29, 1948, ch. 160, §2, 62 Stat. 92, which assigned individual monetary credits from the capital reserve fund to members of the Klamath Tribes to be used for certain purposes, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

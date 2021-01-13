@@ -6,7 +6,7 @@ There are authorized to be appropriated for grants by the Secretary of Health an
 
 #### (b) Federal agencies; payments to District of costs for treatment of certain patients; responsibility of U.S. for service costs
 
-(1) Beginning on October 1, 1987, and in each subsequent fiscal year, the appropriate Federalagency is directed to pay the District of Columbia the full costs for the provision of mental health diagnostic and treatment services for the following types of patients:
+(1) Beginning on October 1, 1987, and in each subsequent fiscal year, the appropriate Federal agency is directed to pay the District of Columbia the full costs for the provision of mental health diagnostic and treatment services for the following types of patients:
 
 &emsp;(A) Any individual referred to the system pursuant to a Federal statute or by a responsible Federal agency.
 
@@ -49,6 +49,8 @@ The Government of the United States shall be solely responsible for—
 &emsp;(2) all claims that result in a judgment or award against Saint Elizabeths Hospital before October 1, 1987.
 
 (Pub. L. 98–621, §9, Nov. 8, 1984, 98 Stat. 3377.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

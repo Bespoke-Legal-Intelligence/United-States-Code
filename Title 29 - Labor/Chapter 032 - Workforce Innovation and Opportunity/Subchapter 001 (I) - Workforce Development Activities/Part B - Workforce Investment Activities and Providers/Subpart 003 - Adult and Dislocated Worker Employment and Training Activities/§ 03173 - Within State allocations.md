@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Governor shall allocate the funds described in paragraph (1) to local areas underparagraphs (2) and (3) for the purpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (c) and (d) of section 3174 of this title.
+&emsp;&emsp;The Governor shall allocate the funds described in paragraph (1) to local areas under paragraphs (2) and (3) for the purpose of providing a single system of employment and training activities for adults and dislocated workers in accordance with subsections (c) and (d) of section 3174 of this title.
 
 #### (B) Additional requirements
 
@@ -142,9 +142,13 @@
 
 (Pub. L. 113–128, title I, §133, July 22, 2014, 128 Stat. 1516.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

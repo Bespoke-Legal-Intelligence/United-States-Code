@@ -24,6 +24,8 @@ The Secretary is authorized to establish a multiyear program of grants, cooperat
 
 (Pub. L. 111–203, title XII, §1204, July 21, 2010, 124 Stat. 2130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (b)(1), was in the original "this title", meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under section 5301 of this title and Tables.

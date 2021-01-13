@@ -1,6 +1,6 @@
 ### §2353. Contracts: acquisition, construction, or furnishing of test facilities and equipment
 
-(a) A contract of a military department for research or development, or both, may provide for the acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility. The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.
+(a) A contract of a military department for research or development, or both, may provide forthe acquisition or construction by, or furnishing to, the contractor, of research, developmental, or test facilities and equipment that the Secretary of the military department concerned determines to be necessary for the performance of the contract. The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses. The facilities and equipment, and specialized housing for them, may be acquired or constructed at the expense of the United States, and may be lent or leased to the contractor with or without reimbursement, or may be sold to him at fair value. This subsection does not authorize new construction or improvements having general utility. The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section.
 
 (b) Facilities that would not be readily removable or separable without unreasonable expense or unreasonable loss of value may not be installed or constructed under this section on property not owned by the United States, unless the contract contains—
 
@@ -13,6 +13,10 @@
 (c) Proceeds of sales or reimbursements under this section shall be paid into the Treasury as miscellaneous receipts, except to the extent otherwise authorized by law with respect to property acquired by the contractor.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 134; Pub. L. 115–232, div. B, title XXVIII, §2801, Aug. 13, 2018, 132 Stat. 2260.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(1), Jan. 1, 2021, 134 Stat. 4151, 4245, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 307 of this title, as added by section 1844(a) of Pub. L. 116–283, inserted after the table of sections, and redesignated as section 4141 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -69,6 +73,10 @@ In subsection (c), the words "Proceeds of" are substituted for the words "That a
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 inserted after first sentence "The acquisition or construction of these research, developmental, or test facilities shall be subject to the cost principles applicable to allowable contract expenses." and at end "The Secretary of Defense and the Secretaries of the military departments shall promulgate regulations necessary to give full force and effect to this section."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Limitations on Modifications of Certain Government-Furnished Equipment; One-Time Authority To Transfer a Certain Military Prototype
 

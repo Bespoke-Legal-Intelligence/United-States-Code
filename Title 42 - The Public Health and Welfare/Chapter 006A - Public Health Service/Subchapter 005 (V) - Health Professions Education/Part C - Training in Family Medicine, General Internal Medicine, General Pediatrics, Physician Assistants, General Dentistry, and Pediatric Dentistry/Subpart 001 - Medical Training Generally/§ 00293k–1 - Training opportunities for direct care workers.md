@@ -24,7 +24,7 @@ An eligible entity shall use amounts awarded under a grant under this section to
 
 #### (1) Eligibility
 
-&emsp;To be eligible for assistance under this section, an individual shall be enrolled in courses provided by a grantee under this subsection and maintain satisfactory academic progress in such courses.
+&emsp;To be eligible for assistance under this section, an individual shall be enrolled in coursesprovided by a grantee under this subsection and maintain satisfactory academic progress in such courses.
 
 #### (2) Condition of assistance
 

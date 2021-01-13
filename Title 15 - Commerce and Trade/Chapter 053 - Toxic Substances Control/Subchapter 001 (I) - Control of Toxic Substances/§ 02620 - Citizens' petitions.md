@@ -18,9 +18,9 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 &emsp;(i) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2603 of this title or an order under section 2603 or 2604(e) of this title—
 
-&emsp;&emsp;(I) information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmental effects of the chemical substance to be subject to such rule or order; and
+&emsp;&emsp;(I) information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmentaleffects of the chemical substance to be subject to such rule or order; and
 
-&emsp;&emsp;(II) in the absence of such information, the substance may present an unreasonable risk to health or the environment, or the substance is or will be produced in substantial quantities and it enters or may reasonablybe anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to it; or
+&emsp;&emsp;(II) in the absence of such information, the substance may present an unreasonable risk to health or the environment, or the substance is or will be produced in substantial quantities and it enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to it; or
 
 &emsp;(ii) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605(a) or 2607 of this title or an order under section 2604(f) of this title, the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use.<sup>1</sup>
 

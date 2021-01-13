@@ -44,9 +44,13 @@ Definitions.—For purposes of this section—
 
 (Added Pub. L. 112–81, div. A, title XI, §1109(a), Dec. 31, 2011, 125 Stat. 1614.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13562, referred to in subsec. (c)(1), is set out as a note under section 3301 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -26,7 +26,7 @@ Each such application shall include—
 
 &emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the numbers and needs of migratory children, the requirements of subsection (d), and the availability of funds from other Federal, State, and local programs; and
 
-&emsp;(6) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
+&emsp;(6) a description of how the State will encourage programs and projects assisted underthis part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 

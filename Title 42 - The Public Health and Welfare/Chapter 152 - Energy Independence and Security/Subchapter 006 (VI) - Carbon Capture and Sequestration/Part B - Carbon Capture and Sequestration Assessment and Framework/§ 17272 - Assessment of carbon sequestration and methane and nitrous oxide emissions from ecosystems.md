@@ -66,7 +66,7 @@ In developing restoration activities under subsection (c)(2) and management stra
 
 #### (1) In general
 
-&emsp;In conducting the assessment under subsection (b) and developing the methodologyunder subsection (f), the Secretary shall consult with—
+&emsp;In conducting the assessment under subsection (b) and developing the methodology under subsection (f), the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Secretary of Energy;
 

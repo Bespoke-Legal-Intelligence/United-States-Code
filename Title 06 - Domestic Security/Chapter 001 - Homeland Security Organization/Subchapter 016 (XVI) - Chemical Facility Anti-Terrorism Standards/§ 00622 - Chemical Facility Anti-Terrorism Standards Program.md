@@ -174,7 +174,7 @@
 
 #### (ii) Noncompliance
 
-&emsp;&emsp;&emsp;If the Secretary determines an expedited approval facility is not in compliance with the requirements of the site security plan or is otherwise in violation of this subchapter, the Secretary may enforce compliance in accordance with section 624 of this title.
+&emsp;&emsp;&emsp;If the Secretary determines an expedited approval facility is not in compliance withthe requirements of the site security plan or is otherwise in violation of this subchapter, the Secretary may enforce compliance in accordance with section 624 of this title.
 
 #### (F) Amendments to site security plan
 
@@ -248,7 +248,7 @@
 
 #### (aa) Revocation of certification
 
-&emsp;&emsp;&emsp;&emsp;&emsp;If an expedited approval facility does not agree to include in its site security plan specific additional security measures recommended by the Secretary under subclause (II)(aa), or does not submit a new or modified site security plan in accordance with subclause (III), the Secretary may revoke the certification of the facility by issuing an order under section 624(a)(1)(B) of this title.
+&emsp;&emsp;&emsp;&emsp;&emsp;If an expedited approval facility does not agree to include in its site security plan specific additional security measures recommended by the Secretaryunder subclause (II)(aa), or does not submit a new or modified site security plan in accordance with subclause (III), the Secretary may revoke the certification of the facility by issuing an order under section 624(a)(1)(B) of this title.
 
 #### (bb) Effect of revocation
 
@@ -410,7 +410,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described insubclause (I) if an individual who is required to be screened presents such a credential; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) accept a credential from a Federal screening program described in subclause (I) if an individual who is required to be screened presents such a credential; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) address in its site security plan or alternative security program the measures it will take to verify that a credential or documentation from a Federal screening program described in subclause (I) is current;
 
@@ -504,9 +504,13 @@
 
 <i>For termination of section by section 5 of Pub. L. 113–254, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–278 inserted before period at end ", which shall be located in the Cybersecurity and Infrastructure Security Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
+Disbursement of Travel Allowances Directly to Creditors.—(1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts ofexpenses of official travel that are charged by the employee or member on the Defense travel card.
 
 (2) The Secretary of Defense may waive the requirement for a direct payment to a travel card issuer under paragraph (1) in any case the Secretary determines appropriate.
 
@@ -24,7 +24,7 @@ Offsets for Delinquent Travel Card Charges.—(1) The Secretary of Defense may r
 
 (c)
 
-Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amountto a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
+Offsets of Retired Pay.—In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amount to a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
 
 (d)
 

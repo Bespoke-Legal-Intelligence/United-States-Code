@@ -10,7 +10,7 @@ In the case of any child for whom another planned permanent living arrangement i
 
 #### (2) Redetermination of appropriateness of placement at each permanency hearing
 
-&emsp;The State agency shall implement procedures to ensure that, at each permanency hearing held with respect to the child, the court or administrative body appointed or approved by the court conducting the hearing on the permanency plan for the child does the following:
+&emsp;The State agency shall implement procedures to ensure that, at each permanency hearing held with respect to the child, thecourt or administrative body appointed or approved by the court conducting the hearing on the permanency plan for the child does the following:
 
 &emsp;&emsp;(A) Ask the child about the desired permanency outcome for the child.
 
@@ -72,7 +72,7 @@ In the case of any child who is placed in a qualified residential treatment prog
 
 &emsp;&emsp;(VII) if the placement preferences of the family and permanency team and child are not the placement setting recommended by the qualified individual conducting the assessment under subparagraph (A), the reasons why the preferences of the team and of the child were not recommended.
 
-&emsp;(C) In the case of a child who the qualified individual conducting the assessment under subparagraph (A) determines should not be placed in a foster family home, the qualified individual shall specify in writing the reasons why the needs of the child cannot be met by the family of the child or in a foster family home. A shortage or lack of foster family homes shall not be an acceptable reason for determining that the needs of the child cannot be met in a foster family home. The qualified individual also shall specify in writing why the recommended placement in a qualified residential treatment program is the setting that will provide the child with the most effective and appropriate level of care in the least restrictive environment and how that placement is consistent with the short- and long-term goals for the child, as specified in the permanency plan for the child.
+&emsp;(C) In the case of a child who the qualified individual conducting the assessment undersubparagraph (A) determines should not be placed in a foster family home, the qualified individual shall specify in writing the reasons why the needs of the child cannot be met by the family of the child or in a foster family home. A shortage or lack of foster family homes shall not be an acceptable reason for determining that the needs of the child cannot be met in a foster family home. The qualified individual also shall specify in writing why the recommended placement in a qualified residential treatment program is the setting that will provide the child with the most effective and appropriate level of care in the least restrictive environment and how that placement is consistent with the short- and long-term goals for the child, as specified in the permanency plan for the child.
 
 &emsp;(D)(i) Subject to clause (ii), in this subsection, the term "qualified individual" means a trained professional or licensed clinician who is not an employee of the State agency and who is not connected to, or affiliated with, any placement setting in which children are placed by the State.
 

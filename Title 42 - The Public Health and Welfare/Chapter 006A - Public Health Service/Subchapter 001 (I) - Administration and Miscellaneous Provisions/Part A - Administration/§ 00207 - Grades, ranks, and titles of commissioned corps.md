@@ -26,7 +26,7 @@ The Surgeon General, during the period of his appointment as such, shall be of t
 
 #### (b) Titles of medical officers
 
-The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Reserve Corps shall have the suffix "Reserve".
+The titles of medical officers of the foregoing grades shall be respectively (1) medical director, (2) senior surgeon, (3) surgeon, (4) senior assistant surgeon, (5) assistant surgeon, and (6) junior assistant surgeon. The President is authorized to prescribe titles, appropriate to the several grades, for commissioned officers of the Service other than medical officers. All titles of the officers of the Ready Reserve Corps shall have the suffix "Reserve".
 
 #### (c) Repealed. Pub. L. 96–76, title III, §304(b), Sept. 29, 1979, 93 Stat. 584
 
@@ -36,15 +36,17 @@ Within the total number of officers of the Regular Corps authorized by the appro
 
 #### (e) Exception to grade limitations for officers assigned to Department of Defense
 
-In computing the maximum number of commissioned officers of the Public Health Service authorized by law to hold a grade which corresponds to the grade of brigadier general or major general, there may be excluded from such computation not more than three officers who hold such a grade so long as such officers are assigned to duty and are serving in a policymaking position in the Department of Defense.
+In computing the maximum number of commissioned officers of the Public Health Serviceauthorized by law to hold a grade which corresponds to the grade of brigadier general or major general, there may be excluded from such computation not more than three officers who hold such a grade so long as such officers are assigned to duty and are serving in a policymaking position in the Department of Defense.
 
 #### (f) Exception to maximum number limitations for officers assigned to Department of Defense
 
 In computing the maximum number of commissioned officers of the Public Health Service authorized by law or administrative determination to serve on active duty, there may be excluded from such computation officers who are assigned to duty in the Department of Defense.
 
-(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 87–649, §11(1), Sept. 7, 1962, 76 Stat. 497; Pub. L. 95–215, §8(b), Dec. 19, 1977, 91 Stat. 1507; Pub. L. 96–76, title III, §304, Sept. 29, 1979, 93 Stat. 584; Pub. L. 99–117, §9, Oct. 7, 1985, 99 Stat. 494; Pub. L. 101–93, §5(p), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–502, §5(k)(1), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 104–201, div. A, title V, §582, Sept. 23, 1996, 110 Stat. 2538.)
+(July 1, 1944, ch. 373, title II, §206, 58 Stat. 684; Feb. 28, 1948, ch. 83, §4, 62 Stat. 39; Oct. 31, 1951, ch. 653, 65 Stat. 700; July 17, 1952, ch. 931, 66 Stat. 758; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 87–649, §11(1), Sept. 7, 1962, 76 Stat. 497; Pub. L. 95–215, §8(b), Dec. 19, 1977, 91 Stat. 1507; Pub. L. 96–76, title III, §304, Sept. 29, 1979, 93 Stat. 584; Pub. L. 99–117, §9, Oct. 7, 1985, 99 Stat. 494; Pub. L. 101–93, §5(p), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–502, §5(k)(1), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 104–201, div. A, title V, §582, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 116–136, div. A, title III, §3214(e)(3), Mar. 27, 2020, 134 Stat. 373.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–136, which directed amendment of subsec. (c) by substituting "Ready Reserve Corps" for "Reserve Corps", was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–201 added subsec. (f).
 

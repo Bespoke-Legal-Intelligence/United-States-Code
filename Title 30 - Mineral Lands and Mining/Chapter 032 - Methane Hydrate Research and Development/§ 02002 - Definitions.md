@@ -44,9 +44,13 @@ In this chapter:
 
 (Pub. L. 106–193, §3, as added Pub. L. 109–58, title IX, §968(a), Aug. 8, 2005, 119 Stat. 895.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3 of Pub. L. 106–193 was set out in a note under section 1902 of this title prior to the general amendment of Pub. L. 106–193 by Pub. L. 109–58.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

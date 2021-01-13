@@ -29,6 +29,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior chapter 3, consisted of sections 201 to 203, 210 to 224, 230, 231, 233 to 236, and 240 to 246, prior to repeal by Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 378.
@@ -41,7 +43,7 @@ Section 203, added Pub. L. 94–424, §2(a), Sept. 28, 1976, 90 Stat. 1332; amen
 
 Section 210, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114; Pub. L. 88–426, title III, §305(15), Aug. 14, 1964, 78 Stat. 424; Pub. L. 89–361, §1(a), (b), Mar. 7, 1966, 80 Stat. 29; Pub. L. 89–785, title III, §301, Nov. 7, 1966, 80 Stat. 1376; Pub. L. 92–328, title II, §201, June 30, 1972, 86 Stat. 396; Pub. L. 95–202, title III, §301, Nov. 23, 1977, 91 Stat. 1440; Pub. L. 96–22, title V, §502(a), June 13, 1979, 93 Stat. 64; Pub. L. 97–66, title VI, §601(a)(1), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–452, §2(e)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 99–166, title IV, §403(a), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title V, §501, title VII, §701(9), Oct. 28, 1986, 100 Stat. 3285, 3291; Pub. L. 100–527, §15(a), Oct. 5, 1988, 102 Stat. 2644; Pub. L. 102–40, title III, §303, May 7, 1991, 105 Stat. 208, related to appointment and general authority of Administrator and Deputy Administrator. See sections 303, 304, 501, 503, 510, and 711 of this title.
 
-Section 211, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–214, §1(b), Sept. 29, 1965, 79 Stat. 886; Pub. L. 89–358, §4(h), Mar. 3, 1966, 80 Stat. 24; Pub. L. 91–376, §8(a), Aug. 12, 1970, 84 Stat. 790; Pub. L. 100–687, div. A, title I, §101(a), Nov. 18, 1988, 102 Stat. 4105, related todecisions of Administrator and opinions of Attorney General. See sections 505 and 511 of this title.
+Section 211, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–214, §1(b), Sept. 29, 1965, 79 Stat. 886; Pub. L. 89–358, §4(h), Mar. 3, 1966, 80 Stat. 24; Pub. L. 91–376, §8(a), Aug. 12, 1970, 84 Stat. 790; Pub. L. 100–687, div. A, title I, §101(a), Nov. 18, 1988, 102 Stat. 4105, related to decisions of Administrator and opinions of Attorney General. See sections 505 and 511 of this title.
 
 Section 212, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–361, §2, Mar. 7, 1966, 80 Stat. 30; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to delegation of authority and assignment of duties. See section 512 of this title.
 

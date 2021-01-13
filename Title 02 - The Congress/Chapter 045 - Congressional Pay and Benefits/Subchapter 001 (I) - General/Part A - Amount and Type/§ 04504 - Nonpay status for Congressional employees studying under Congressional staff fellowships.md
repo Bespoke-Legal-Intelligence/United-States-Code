@@ -18,6 +18,8 @@
 
 (Pub. L. 89–379, Mar. 30, 1966, 80 Stat. 94; Pub. L. 104–186, title II, §204(73), Aug. 20, 1996, 110 Stat. 1741.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 130a of this title prior to editorial reclassification and renumbering as this section.

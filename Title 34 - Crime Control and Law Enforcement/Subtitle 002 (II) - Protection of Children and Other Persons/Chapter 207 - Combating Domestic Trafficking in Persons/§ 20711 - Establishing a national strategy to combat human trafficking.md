@@ -48,7 +48,7 @@ Not later than 60 days after December 21, 2018, the Attorney General shall desig
 
 &emsp;(1) coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
 
-&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and publicsafety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
+&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
 
 &emsp;&emsp;(A) identify signs of human trafficking;
 
@@ -61,6 +61,8 @@ Not later than 60 days after December 21, 2018, the Attorney General shall desig
 &emsp;(3) carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
 
 (Pub. L. 114–22, title VI, §606, May 29, 2015, 129 Stat. 260; Pub. L. 115–392, §§9, 15, Dec. 21, 2018, 132 Stat. 5254, 5256.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

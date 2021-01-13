@@ -24,7 +24,7 @@ Joinder of Federal Law Claims and State Law Claims.—(1) If a civil action incl
 
 (d)
 
-Actions Against Foreign States.—Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
+Actions Against Foreign States.—Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the timelimitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
 
 (e)
 
@@ -50,7 +50,7 @@ Multiparty, Multiforum Jurisdiction.—(1) Notwithstanding the provisions of sub
 
 Derivative Removal Jurisdiction.—The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat.5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, §103(a), Dec. 7, 2011, 125 Stat. 759.)
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827; Pub. L. 112–63, title I, §103(a), Dec. 7, 2011, 125 Stat. 759.)
 
 #### Historical and Revision Notes
 
@@ -72,7 +72,9 @@ Subsection (c) permits the removal of a separate cause of action but not of a se
 
 Rules 18, 20, and 23 of the Federal Rules of Civil Procedure permit the most liberal joinder of parties, claims, and remedies in civil actions. Therefore there will be no procedural difficulty occasioned by the removal of the entire action. Conversely, if the court so desires, it may remand to the State court all nonremovable matters.
 
-The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer's Liability Act (U.S.C., 1940 ed., title 45, Railroads, §§51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
+The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer's Liability Act (U.S.C., 1940 ed., title 45,Railroads, §§51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -101,6 +103,8 @@ Subsec. (f). Pub. L. 112–63, §103(a)(7), inserted heading.
 <b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

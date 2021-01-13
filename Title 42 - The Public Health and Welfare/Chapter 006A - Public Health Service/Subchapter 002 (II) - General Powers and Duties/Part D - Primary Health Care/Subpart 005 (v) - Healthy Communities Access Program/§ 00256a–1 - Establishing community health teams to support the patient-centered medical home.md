@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall establish a program to provide grants to or enter into contracts with eligible entities to establish community-based interdisciplinary, interprofessional teams (referred to in this section as "health teams") to support primary carepractices, including obstetrics and gynecology practices, within the hospital service areas served by the eligible entities. Grants or contracts shall be used to—
+The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall establish a program to provide grants to or enter into contracts with eligible entities to establish community-based interdisciplinary, interprofessional teams (referred to in this section as "health teams") to support primary care practices, including obstetrics and gynecology practices, within the hospital service areas served by the eligible entities. Grants or contracts shall be used to—
 
 &emsp;(1) establish health teams to provide support services to primary care providers; and
 
@@ -46,7 +46,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;&emsp;(F) payment that recognizes added value from additional components of patient-centered care;
 
-&emsp;(3) collaborate with local primary care providers and existing State and community based resources to coordinate disease prevention, chronic disease management, transitioning between health care providers and settings and case management for patients, including children, with priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
+&emsp;(3) collaborate with local primary care providers and existing State and community based resources to coordinate disease prevention, chronic disease management,transitioning between health care providers and settings and case management for patients, including children, with priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
 
 &emsp;(4) in collaboration with local health care providers, develop and implement interdisciplinary, interprofessional care plans that integrate clinical and community preventive and health promotion services for patients, including children, with a priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
 
@@ -76,7 +76,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;(7) provide 24-hour care management and support during transitions in care settings including—
 
-&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliationupon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
+&emsp;&emsp;(A) a transitional care program that provides onsite visits from the care coordinator,<sup>1</sup> assists with the development of discharge plans and medication reconciliation upon admission to and discharge from the hospitals,<sup>2</sup> nursing home, or other institution setting;
 
 &emsp;&emsp;(B) discharge planning and counseling support to providers, patients, caregivers, and authorized representatives;
 

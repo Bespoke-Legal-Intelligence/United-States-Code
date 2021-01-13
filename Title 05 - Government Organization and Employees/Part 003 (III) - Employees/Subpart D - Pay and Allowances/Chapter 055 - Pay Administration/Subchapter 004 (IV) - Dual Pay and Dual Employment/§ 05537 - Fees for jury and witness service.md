@@ -30,6 +30,8 @@ The words "fees for jury service" are coextensive with and substituted for "comp
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–145 substituted ", the Chief Administrative Officer of the House of Representatives, or the Chief of the Capitol Police" for "or the Chief Administrative Officer of the House of Representatives" in introductory provisions.
@@ -42,6 +44,8 @@ Subsec. (c). Pub. L. 104–201 substituted "the District Court of Guam and the D
 
 <b>1968</b>—Pub. L. 90–623 inserted ", who is entitled to leave under section 6322 of this title," after "individual employed by the government of the District of Columbia".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "magistrate judge" substituted for "magistrate" in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -52,5 +56,5 @@ Amendment by Pub. L. 111–145 effective as though enacted as part of section 10
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22,1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 

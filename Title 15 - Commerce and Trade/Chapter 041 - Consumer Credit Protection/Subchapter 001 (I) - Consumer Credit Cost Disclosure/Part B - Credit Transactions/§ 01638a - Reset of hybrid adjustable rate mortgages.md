@@ -36,7 +36,7 @@ The Board may require the notice in paragraph (b) or other notice consistent wit
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act" meaning Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act" meaning Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Effective Date
 

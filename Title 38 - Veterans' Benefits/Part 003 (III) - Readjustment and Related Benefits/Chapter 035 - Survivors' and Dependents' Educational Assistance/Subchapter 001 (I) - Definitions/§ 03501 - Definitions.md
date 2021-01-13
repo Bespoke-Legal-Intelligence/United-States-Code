@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) at the time of the Secretary's determination under clause (ii), is a member of the Armed Forces who is hospitalized or receiving outpatient medical care, services, or treatment;
 
-&emsp;&emsp;&emsp;(ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service; and
+&emsp;&emsp;&emsp;(ii) the Secretary determines has a total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
 
 &emsp;&emsp;&emsp;(iii) is likely to be discharged or released from such service for such disability.
 
@@ -42,17 +42,19 @@
 
 &emsp;(10) The term "institution of higher learning" means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
-&emsp;(11) The term "standard college degree" means an associate or higher degree awarded by (A) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (B) an institution of higher learning that is a "candidate" for accreditation as that term is used by the regional or national accrediting agencies; or (C) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
+&emsp;(11) The term "standard college degree" means an associate or higher degree awarded by (A) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (B) an institution of higher learning that is a "candidate" for accreditation as that term is used by the regional or national accrediting agencies; or (C) an institution ofhigher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
-&emsp;(12) The term "qualifying service" means service in the active military, naval, or air service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
+&emsp;(12) The term "qualifying service" means service in the active military, naval, air, or space service after the beginning of the Spanish-American War that did not terminate under dishonorable conditions.
 
 (b) If an eligible person has attained the person's majority and is under no known legal disability, all references in this chapter to "parent or guardian" shall refer to the eligible person.
 
 (c) Any provision of this chapter which requires any action to be taken by or with respect to the parent or guardian of an eligible person who has not attained such person's majority, or who, having attained such person's majority, is under a legal disability, shall not apply when the Secretary determines that its application would not be in the best interest of the eligible person, would result in undue delay, or would not be administratively feasible. In such a case the Secretary, where necessary to protect the interest of the eligible person, may designate some other person (who may be the eligible person) as the person by or with respect to whom the action so required should be taken.
 
-(d) No eligible person may be afforded educational assistance under this chapter unlesssuch person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
+(d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454, title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454, title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468; Pub. L. 116–283, div. A, title IX, §926(a)(44), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(E)(ii), (12). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
 <b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
@@ -183,6 +187,8 @@ Subsec. (a)(9). Pub. L. 86–785, §2, added par. (9).
 Subsec. (d). Pub. L. 86–785, §3, substituted "the Korean conflict, or the induction period" for "or the Korean conflict".
 
 <b>1959</b>—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

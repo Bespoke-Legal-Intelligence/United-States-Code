@@ -4,6 +4,8 @@ No person shall be employed as a reporter for the House of Representatives witho
 
 (R.S. §54.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 84a of this title prior to editorial reclassification and renumbering as this section.

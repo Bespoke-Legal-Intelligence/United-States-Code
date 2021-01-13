@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §39 (R.S. 4883, amended (1) Feb. 18, 1888,
 
 The phrases referring to the attesting officers and to the recording of the patents are broadened.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
@@ -19,6 +21,8 @@ Pub. L. 107–273, §13203(c), struck out "and attested by an officer of the Pat
 <b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

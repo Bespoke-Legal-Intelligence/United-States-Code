@@ -16,9 +16,13 @@ Congress finds the following:
 
 (Pub. L. 110–53, title XXI, §2102, Aug. 3, 2007, 121 Stat. 526.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 110–53, title XXI, §2101, Aug. 3, 2007, 121 Stat. 526, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 2151n of this title\] may be cited as the 'Advance Democratic Values, Address Nondemocratic Countries, and Enhance Democracy Act of 2007' or the 'ADVANCE Democracy Act of 2007'."
+
+#### <b>Executive Documents</b>
 
 #### Deepening U.S. Government Efforts To Collaborate With and Strengthen Civil Society
 
@@ -26,7 +30,7 @@ Memorandum of President of the United States, Sept. 23, 2014, 79 F.R. 58237, pro
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-The participation of civil society is fundamental to democratic governance. Through civil society, citizens come together to hold their leaders accountable and address challenges that governments cannot tackle alone. Civil society organizations—such as community groups, non-governmental organizations, labor unions, indigenous groups, charitable organizations, faith-based organizations, professional associations, and foundations—often drive innovations and develop new ideas and approaches to solve social, economic, and political problems that governments can apply on a larger scale. Moreover, by giving people peaceful avenues to advance their interests and express their convictions, a free and flourishing civil society contributes tostability and helps to counter violent extremism. Countries should ensure that civil society organizations can engage freely in legitimate and peaceful activity, while recognizing the potential for illicit actors to abuse the sector and establishing proportionate and targeted safeguards to prevent that abuse.
+The participation of civil society is fundamental to democratic governance. Through civil society, citizens come together to hold their leaders accountable and address challenges that governments cannot tackle alone. Civil society organizations—such as community groups, non-governmental organizations, labor unions, indigenous groups, charitable organizations, faith-based organizations, professional associations, and foundations—often drive innovations and develop new ideas and approaches to solve social, economic, and political problems that governments can apply on a larger scale. Moreover, by giving people peaceful avenues to advance their interests and express their convictions, a free and flourishing civil society contributes to stability and helps to counter violent extremism. Countries should ensure that civil society organizations can engage freely in legitimate and peaceful activity, while recognizing the potential for illicit actors to abuse the sector and establishing proportionate and targeted safeguards to prevent that abuse.
 
 The rights to freedom of expression, peaceful assembly, and association that enable civil society to participate fully in social, economic, and political life are enshrined in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights. In many parts of the world, however, these rights are in danger. An increasing number of governments are inhibiting the free operation of civil society and cutting off civil society organizations' ability to receive funding from legitimate sources. In some cases, these restrictions arise out of the implementation of laws, regulations, and administrative measures that are being inappropriately applied; in other cases, the laws, regulations, and administrative measures are themselves problematic. Despite concerted efforts by the United States and a growing number of like-minded governments to address this problem, greater, sustained energy and attention is needed worldwide.
 
@@ -38,7 +42,7 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
 Sec. 1. <i>Engaging in Consultation with Civil Society Representatives</i>. (a) In the conduct of U.S. foreign policy, it is in the national interest to build relationships with people, as well as with governments. Therefore, agencies engaged abroad shall consult with representatives of civil society to explain the views of the United States on particular issues, seek their perspectives, utilize their expertise, and build strong partnerships to address joint challenges.
 
-(b) When traveling overseas, senior U.S. officials of agencies engaged abroad shall seek opportunities to meet with representatives of civil society, especially those who face restrictions on their work and who may benefit from international support and solidarity.
+(b) When traveling overseas, senior U.S. officials of agencies engaged abroad shall seek opportunities tomeet with representatives of civil society, especially those who face restrictions on their work and who may benefit from international support and solidarity.
 
 (c) Each agency engaged abroad shall incorporate inclusive outreach to civil society into their international engagement.
 

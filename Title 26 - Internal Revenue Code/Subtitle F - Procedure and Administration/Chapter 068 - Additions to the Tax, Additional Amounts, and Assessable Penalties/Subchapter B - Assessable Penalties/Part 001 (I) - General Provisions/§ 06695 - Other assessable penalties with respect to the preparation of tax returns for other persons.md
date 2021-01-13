@@ -132,7 +132,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989."
+Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made bythis section \[amending this section\] shall apply to documents prepared after December 31, 1989."
 
 #### Effective Date of 1985 Amendment
 

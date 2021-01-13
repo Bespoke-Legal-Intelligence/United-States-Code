@@ -4,7 +4,7 @@
 
 (1) If any person receives natural gas, the use of which is prohibited by the provisions of subchapter III or any rule or order thereunder, and if such natural gas is received pursuant to a contract in effect on April 20, 1977, between such person and any other person, such person receiving such natural gas may transfer all or any portion of such person's contractual interests under such contract and receive consideration from the person to whom such contractual interests are transferred. The consideration authorized by this subsection shall not exceed the maximum consideration established as just compensation under this section.
 
-(2) Any person who would have transported or distributed the natural gas subject to a contract with respect to which contractual interests are transferred pursuant to paragraph (1) shall beentitled to receive just compensation (as determined by the Commission) from the person to whom such contractual interests are transferred.
+(2) Any person who would have transported or distributed the natural gas subject to a contract with respect to which contractual interests are transferred pursuant to paragraph (1) shall be entitled to receive just compensation (as determined by the Commission) from the person to whom such contractual interests are transferred.
 
 #### (b) Determination of consideration
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 > For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energy source shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
 
-(2) The term "just compensation", when used with respect to subsection (a)(2), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1), to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1), and (B) is not offset by revenues derivedfrom other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
+(2) The term "just compensation", when used with respect to subsection (a)(2), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1), to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1), and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
 (3) The term "contractual interests", with respect to a contract described in subsection (a)(1), includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (f) Coordination with Natural Gas Act
 
-(1) Consideration paid by any interstate pipeline pursuant to this section shall be deemed just and reasonable for purposes of sections 4, 5, and 7 of the Natural Gas Act \[15 U.S.C. 717c, 717d, 717f\]. The Commission shall not deny a passthrough by such interstate pipeline of such consideration based upon the amount of such consideration paid pursuant to this section.
+(1) Consideration paid by any interstate pipeline pursuant to this section shall be deemedjust and reasonable for purposes of sections 4, 5, and 7 of the Natural Gas Act \[15 U.S.C. 717c, 717d, 717f\]. The Commission shall not deny a passthrough by such interstate pipeline of such consideration based upon the amount of such consideration paid pursuant to this section.
 
 (2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which the transfer of contractual interests is authorized under subsection (a)(1).
 

@@ -20,7 +20,7 @@ Airports Described.—An airport is described in this subsection if—
 
 &emsp;(6) there is still a demonstrated need for the runway safety area to accommodate current or imminent aeronautical demand; and
 
-&emsp;(7) the cost of repairing or replacing the runway safety area is reasonable in relation tothe anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.
+&emsp;(7) the cost of repairing or replacing the runway safety area is reasonable in relation to the anticipated operational benefit of repairing the runway safety area, as determined by the Administrator of the Federal Aviation Administration.
 
 (Added Pub. L. 115–31, div. K, title I, §119F(a), May 5, 2017, 131 Stat. 734.)
 

@@ -4,6 +4,8 @@ Any public work on canals, rivers, and harbors adopted by Congress may be prosec
 
 (Sept. 22, 1922, ch. 427, §10, 42 Stat. 1043.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Rivers and Harbors Appropriation Act of 1922.

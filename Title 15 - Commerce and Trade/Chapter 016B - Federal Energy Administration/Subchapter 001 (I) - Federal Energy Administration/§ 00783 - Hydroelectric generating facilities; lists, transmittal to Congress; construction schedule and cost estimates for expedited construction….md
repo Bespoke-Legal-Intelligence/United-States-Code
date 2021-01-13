@@ -12,7 +12,7 @@ Within ninety days of the effective date of this chapter, the Administrator of t
 
 &emsp;&emsp;(A) a construction schedule and cost estimates for an expedited construction program which would make the facility available for service at the earliest practicable date, and
 
-&emsp;&emsp;(B) a statement of the accomplishments which could be provided by the expeditedcompletion of each facility and a statement of any funds which have been appropriated but not yet obligated.
+&emsp;&emsp;(B) a statement of the accomplishments which could be provided by the expedited completion of each facility and a statement of any funds which have been appropriated but not yet obligated.
 
 (Pub. L. 93–275, §24, May 7, 1974, 88 Stat. 114.)
 

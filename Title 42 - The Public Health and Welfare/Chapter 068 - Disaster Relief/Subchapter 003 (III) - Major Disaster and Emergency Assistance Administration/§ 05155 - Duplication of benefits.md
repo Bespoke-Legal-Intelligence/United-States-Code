@@ -8,7 +8,7 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (1) Limitation
 
-&emsp;This section shall not prohibit the provision of Federal assistance to a person who is or may be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
+&emsp;This section shall not prohibit the provision of Federal assistance to a person who is ormay be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
 
 #### (2) Procedures
 
@@ -42,7 +42,7 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (c) Recovery of duplicative benefits
 
-A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. Theagency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
+A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. The agency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
 
 #### (d) Assistance not income
 

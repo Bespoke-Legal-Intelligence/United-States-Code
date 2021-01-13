@@ -18,7 +18,7 @@ Appointment and term of office.—Members of the Board shall be appointed on a s
 
 &emsp;(2)
 
-Composition.—The Board shall be composed of no more than 12 persons, appointed from among citizens of the United States having a demonstrated commitment to the mission of the Service. Board members shall be selected to represent various geographic regions, including each of the administrative regions of the Service. At least 6 of the members shall have outstanding expertise in one or more of the following fields: history, archeology, anthropology, historical or landscape architecture, biology, ecology, geology, marine science, or social science. At least 4 of the members shall have outstanding expertise and prior experience in the management of national or State parks or protected areas, ornatural or cultural resources management. The remaining members shall have outstanding expertise in one or more of the areas described above or in another professional or scientific discipline, such as financial management, recreation use management, land use planning, or business management, important to the mission of the Service. At least one individual shall be a locally elected official from an area adjacent to a park.
+Composition.—The Board shall be composed of no more than 12 persons, appointed from among citizens of the United States having a demonstrated commitment to the mission of the Service. Board members shall be selected to represent various geographic regions, including each of the administrative regions of the Service. At least 6 of the members shall have outstanding expertise in one or more of the following fields: history, archeology, anthropology, historical or landscape architecture, biology, ecology, geology, marine science, or social science. At least 4 of the members shall have outstanding expertise and prior experience in the management of national or State parks or protected areas, or natural or cultural resources management. The remaining members shall have outstanding expertise in one or more of the areas described above or in another professional or scientific discipline, such as financial management, recreation use management, land use planning, or business management, important to the mission of the Service. At least one individual shall be a locally elected official from an area adjacent to a park.
 
 &emsp;(3)
 
@@ -180,9 +180,13 @@ administrative provisions"), Mar. 11, 2009, 123 Stat. 710.
 
 In subsection (c)(2), the words "natural or cultural" are substituted for "national or cultural" to correct an error in the source provision.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriations
 

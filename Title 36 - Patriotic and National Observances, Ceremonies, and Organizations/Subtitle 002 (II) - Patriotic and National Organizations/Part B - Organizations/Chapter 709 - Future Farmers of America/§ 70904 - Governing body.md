@@ -20,7 +20,7 @@ Board of Directors.—(1) The board of directors is the governing body of the FF
 
 (3) The number of directors, terms of office of the directors, and the method of selecting the directors, are as provided in the constitution or bylaws of the FFA.
 
-(4) The board shall meet at least annually at the time and place provided in the constitution or bylaws of the FFA. The annual report of the board shall be presented at that meeting. Special meetings of the board may be called at any time by the chair.
+(4) The board shall meet at least annually at the time and place provided in the constitutionor bylaws of the FFA. The annual report of the board shall be presented at that meeting. Special meetings of the board may be called at any time by the chair.
 
 (b)
 
@@ -73,6 +73,8 @@ Aug. 30, 1950, ch. 823, §8, 64 Stat. 565.
 &nbsp;
 
 In subsection (a), the text of 36:278(e) is omitted as obsolete. In paragraph (2), the words "Secretary of Education" and "Department of Education" are substituted for "Chief of the Agricultural Education Service, Office of Education, Federal Security Agency" and "Agricultural Education Service, Office of Education, Federal Security Agency", respectively, in section 8(a) of the Act of August 30, 1950 (ch. 823, 64 Stat. 565), because of sections 5 and 8 of Reorganization Plan No. 1 of 1953 (5 App. U.S.C.) and 20:3441 and 3507.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

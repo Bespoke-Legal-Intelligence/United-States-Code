@@ -14,11 +14,17 @@
 
 &emsp;(4) The Sergeant Major of the Marine Corps.
 
-&emsp;(5) The Master Chief Petty Officer of the Coast Guard.
+&emsp;(5) The senior enlisted advisor of the Space Force.
 
-(Added Pub. L. 102–190, div. A, title VI, §606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, §603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, §685(b), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, §1071(c)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 113–291, div. A, title VI, §603(b), Dec. 19, 2014, 128 Stat. 3398.)
+&emsp;(6) The Master Chief Petty Officer of the Coast Guard.
+
+(Added Pub. L. 102–190, div. A, title VI, §606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, §603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, §685(b), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, §1071(c)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 113–291, div. A, title VI, §603(b), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 116–283, div. A, title IX, §925(d), Jan. 1, 2021, 134 Stat. 3827.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §603(b)(1), inserted "or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau" after "that armed force" the first place appearing.
 
@@ -31,6 +37,8 @@ Pub. L. 109–163 added par. (6).
 <b>1996</b>—Pub. L. 104–201, §603(b)(1), substituted "Pay of senior enlisted members during terminal leave and while hospitalized" for "Pay of the senior noncommissioned officer of an armed force during terminal leave" in section catchline.
 
 Subsecs. (b), (c). Pub. L. 104–201, §603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

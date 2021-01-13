@@ -4,9 +4,11 @@ The library collected by the Smithsonian Institution under the provisions of the
 
 (R.S. §99.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of August 10, 1846, chapter 25, referred to in text, probably should be act Aug. 10, 1846, ch. 178, 9 Stat. 102, which was entitled "An Act to establish the 'Smithsonian Institution', for the increase and diffusion of knowledge among men".
+Act of August 10, 1846, chapter 25, referred to in text, probably should be act Aug. 10, 1846, ch. 178, 9 Stat. 102,which was entitled "An Act to establish the 'Smithsonian Institution', for the increase and diffusion of knowledge among men".
 
 #### Codification
 

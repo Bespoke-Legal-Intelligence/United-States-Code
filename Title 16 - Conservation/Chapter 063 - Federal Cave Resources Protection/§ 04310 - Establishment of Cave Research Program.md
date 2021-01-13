@@ -72,7 +72,7 @@ Guidelines.—The Institute shall be operated and managed in accordance with the
 
 "(c)
 
-Contracts and Cooperative Agreements.—The Secretary may enter into a contract or cooperative agreement with a public or private agency, organization, or institution to carry out this Act.
+Contracts and Cooperative Agreements.—The Secretary may enter into a contract or cooperativeagreement with a public or private agency, organization, or institution to carry out this Act.
 
 "(d)
 

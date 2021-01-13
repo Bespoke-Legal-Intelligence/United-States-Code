@@ -14,7 +14,7 @@ Any person who willfully fails to comply with any requirement imposed under this
 
 #### (b) Civil liability for knowing noncompliance
 
-Any person who obtains a consumer report from a consumer reporting agency under falsepretenses or knowingly without a permissible purpose shall be liable to the consumer reporting agency for actual damages sustained by the consumer reporting agency or $1,000, whichever is greater.
+Any person who obtains a consumer report from a consumer reporting agency under false pretenses or knowingly without a permissible purpose shall be liable to the consumer reporting agency for actual damages sustained by the consumer reporting agency or $1,000, whichever is greater.
 
 #### (c) Attorney's fees
 

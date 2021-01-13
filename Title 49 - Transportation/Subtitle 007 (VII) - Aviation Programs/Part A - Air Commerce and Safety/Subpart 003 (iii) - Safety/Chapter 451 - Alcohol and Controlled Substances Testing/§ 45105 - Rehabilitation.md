@@ -6,7 +6,7 @@ Program for Employees of Air Carriers and Foreign Air Carriers.—The Administra
 
 (b)
 
-Program for Employees of the Federal Aviation Administration.—The Administrator shall establish and maintain a rehabilitationprogram that at least provides for the identification and opportunity for treatment of employees of the Administration whose duties include responsibility for safety-sensitive functions who need assistance in resolving problems with the use of alcohol or a controlled substance.
+Program for Employees of the Federal Aviation Administration.—The Administrator shall establish and maintain a rehabilitation program that at least provides for the identification and opportunity for treatment of employees of the Administration whose duties include responsibility for safety-sensitive functions who need assistance in resolving problems with the use of alcohol or a controlled substance.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1223; Pub. L. 103–429, §6(58), Oct. 31, 1994, 108 Stat. 4385.)
 

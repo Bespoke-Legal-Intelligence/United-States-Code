@@ -30,7 +30,7 @@ In prescribing rules under this section, the Bureau shall consider available evi
 
 #### (d) Safe harbor
 
-Any covered person that uses a model form included with a rule issued under this section shall be deemed to be in compliance with thedisclosure requirements of this section with respect to such model form.
+Any covered person that uses a model form included with a rule issued under this section shall be deemed to be in compliance with the disclosure requirements of this section with respect to such model form.
 
 #### (e) Trial disclosure programs
 
@@ -44,7 +44,7 @@ Any covered person that uses a model form included with a rule issued under this
 
 #### (3) Public disclosure
 
-&emsp;The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
+&emsp;The rules of the Bureau shall provide for public disclosure of trial disclosure programs,which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
 
 #### (f) Combined mortgage loan disclosure
 
@@ -52,9 +52,13 @@ Not later than 1 year after the designated transfer date, the Bureau shall propo
 
 (Pub. L. 111–203, title X, §1032, July 21, 2010, 124 Stat. 2006.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (f), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

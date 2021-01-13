@@ -46,7 +46,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (b)
 
-Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adoptsthat definition or in which that definition applies, including—
+Operators Deemed Rail Carriers and Employers for Certain Purposes.—A person that conducts rail operations over rail infrastructure constructed or improved with funding provided in whole or in part in a grant made under this chapter shall be considered a rail carrier as defined in section 10102(5) of this title for purposes of this title and any other statute that adopts that definition or in which that definition applies, including—
 
 &emsp;(1) the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.);
 
@@ -82,7 +82,7 @@ Replacement of Existing Intercity Passenger Rail Service.—
 
 Collective bargaining agreement for intercity passenger rail projects.—Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act <sup>1</sup> on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
 
-&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on the predecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3 years after the termination of the service being replaced;
+&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on thepredecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3 years after the termination of the service being replaced;
 
 &emsp;&emsp;(B) establishes a procedure for notifying such an employee of such positions;
 
@@ -104,7 +104,7 @@ Arbitration.—If an agreement has not been entered into with respect to all mat
 
 &emsp;(3)
 
-Service commencement.—A replacing entity under this subsection shall commenceservice only after an agreement is entered into with respect to the matters set forth in subparagraphs (A) through (D) of paragraph (1) or the decision of the arbitrator has been rendered.
+Service commencement.—A replacing entity under this subsection shall commence service only after an agreement is entered into with respect to the matters set forth in subparagraphs (A) through (D) of paragraph (1) or the decision of the arbitrator has been rendered.
 
 &emsp;(4)
 

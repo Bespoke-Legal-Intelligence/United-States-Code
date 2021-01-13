@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, title I, §1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 "Research and Technology".
@@ -644,6 +646,8 @@ Rep.
 175
 
 Elim.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Citation
 

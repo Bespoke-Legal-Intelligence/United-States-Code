@@ -56,7 +56,7 @@
 
 (c) In addition to meeting the requirements under subsection (a), a debtor shall file with the court a record of any interest that a debtor has in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986), an interest in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,<sup>1</sup> or under a qualified State tuition program (as defined in section 529(b)(1) of such Code).
 
-(d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor oras to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
+(d) If the debtor fails timely to take the action specified in subsection (a)(6) of this section, or in paragraphs (1) and (2) of section 362(h), with respect to property which a lessor or bailor owns and has leased, rented, or bailed to the debtor or as to which a creditor holds a security interest not otherwise voidable under section 522(f), 544, 545, 547, 548, or 549, nothing in this title shall prevent or limit the operation of a provision in the underlying lease or agreement that has the effect of placing the debtor in default under such lease or agreement by reason of the occurrence, pendency, or existence of a proceeding under this title or the insolvency of the debtor. Nothing in this subsection shall be deemed to justify limiting such a provision in any other circumstance.
 
 (e)(1) If the debtor in a case under chapter 7 or 13 is an individual and if a creditor files with the court at any time a request to receive a copy of the petition, schedules, and statement of financial affairs filed by the debtor, then the court shall make such petition, such schedules, and such statement available to such creditor.
 
@@ -64,7 +64,7 @@
 
 &emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to the trustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
 
-&emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or if elected under clause (i), such transcript) to any creditor that timely requests such copy.
+&emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or ifelected under clause (i), such transcript) to any creditor that timely requests such copy.
 
 (B) If the debtor fails to comply with clause (i) or (ii) of subparagraph (A), the court shall dismiss the case unless the debtor demonstrates that the failure to so comply is due to circumstances beyond the control of the debtor.
 
@@ -134,6 +134,8 @@ This section lists three duties of the debtor in a bankruptcy case. The Rules of
 
 The list in this section is not exhaustive of the debtor's duties. Others are listed elsewhere in proposed title 11, such as in section 343, which requires the debtor to submit to examination, or in the Rules of Bankruptcy Procedure, as continued by §404(a) of S. 2266, such as the duty to attend any hearing on discharge, Rule 402(2).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(7), is classified to section 1002 of Title 29, Labor.
@@ -196,6 +198,8 @@ Pars. (2) to (5). Pub. L. 98–353, §305(1), (3), added par. (2), redesignated 
 
 Pub. L. 98–353, §452, which directed the insertion of ", whether or not immunity is granted under section 344 of this title" after second reference to "estate" in par. (3) as redesignated above, could not be executed because such reference appeared in par. (4) rather than in par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–295, div. B, title I, §104(d), Dec. 19, 2014, 128 Stat. 4064, provided that: "The amendments made by this section \[amending this section and sections 541 and 707 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Dec. 19, 2014\]."
@@ -208,7 +212,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Pub. L. 109–8, title VI, §603(e), Apr. 20, 2005, 119 Stat. 123, provided that: "The amendments made by this section \[amending this section, section 727 of this title and section 586 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 586 of Title 28\] shall take effect 18 months after the date of enactment of this Act \[Apr. 20, 2005\]."
 
-Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 720 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 720 of Pub. L. 109–8 effective 180days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

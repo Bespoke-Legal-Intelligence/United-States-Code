@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §§1109(c)(6)(B), 1121(b), Dec. 4, 2015, 129 Stat. 1344, 1368, added item 207 and struck out item 213 "Transportation alternatives".

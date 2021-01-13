@@ -100,7 +100,7 @@ Pub. L. 93–597, §2(c), Jan. 2, 1975, 88 Stat. 1950, provided that: "The amend
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: "The amendment made by the first sectionof this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961."
+Pub. L. 92–279, §3(a)(1), Apr. 26, 1972, 86 Stat. 125, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961."
 
 #### Effective Date of 1966 Amendment
 
@@ -168,7 +168,7 @@ Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37,United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 

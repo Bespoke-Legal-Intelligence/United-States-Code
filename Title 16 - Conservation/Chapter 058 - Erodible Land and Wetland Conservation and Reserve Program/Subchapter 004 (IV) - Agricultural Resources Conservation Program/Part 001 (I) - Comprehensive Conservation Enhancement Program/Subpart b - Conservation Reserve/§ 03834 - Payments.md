@@ -54,7 +54,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (1) In general
 
-&emsp;In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary shall consider—
+&emsp;In determining the amount of annual rental payments to be paid to owners and operatorsfor converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary shall consider—
 
 &emsp;&emsp;(A) the amount necessary to encourage owners or operators of highly erodible cropland or other eligible lands to participate in the program established by this subpart;
 

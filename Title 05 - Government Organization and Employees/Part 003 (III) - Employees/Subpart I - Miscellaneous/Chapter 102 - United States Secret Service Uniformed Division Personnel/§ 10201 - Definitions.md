@@ -10,6 +10,8 @@ In this chapter—
 
 (Added Pub. L. 111–282, §2(a), Oct. 15, 2010, 124 Stat. 3033.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
@@ -96,7 +98,7 @@ Adjustment based on former rate of pay.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-Definition.—In this clause, the term 'former rate of basic pay' means the rate ofbasic pay last received by a member before the conversion.
+Definition.—In this clause, the term 'former rate of basic pay' means the rate of basic pay last received by a member before the conversion.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 

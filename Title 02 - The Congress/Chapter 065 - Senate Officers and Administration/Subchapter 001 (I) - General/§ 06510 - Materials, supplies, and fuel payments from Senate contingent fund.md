@@ -4,6 +4,8 @@ Payments from the contingent fund of the Senate for materials and supplies (incl
 
 (July 8, 1935, ch. 374, 49 Stat. 463; Aug. 2, 1946, ch. 753, title I, §102, 60 Stat. 814; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 68a of this title prior to editorial reclassification and renumbering as this section.
@@ -11,6 +13,8 @@ Section was formerly classified to section 68a of this title prior to editorial 
 #### Amendments
 
 <b>1946</b>—Act Aug. 2, 1946, substituted "Committee on Rules and Administration" for "Committee to Audit and Control Contingent Expenses".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

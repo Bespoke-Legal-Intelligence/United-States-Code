@@ -230,7 +230,7 @@ A resource advisory committee shall—
 
 &emsp;&emsp;(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot program.
 
-(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 115–141, div. O, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, §8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, §301(b)(1), Dec. 20, 2019, 133 Stat. 3021.)
+(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545;Pub. L. 115–141, div. O, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, §8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, §301(b)(1), Dec. 20, 2019, 133 Stat. 3021.)
 
 #### References in Text
 

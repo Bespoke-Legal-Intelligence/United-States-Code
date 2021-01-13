@@ -340,6 +340,7 @@
 | :--- | ---: |
 | [16181\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/%C2%A7%2016181%20-%20Goals.md) | Goals. |
 | [16182\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/%C2%A7%2016182%20-%20Definitions.md) | Definitions. |
+| [16183\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/%C2%A7%2016183%20-%20Energy%20and%20water%20for%20sustainability.md) | Energy and water for sustainability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -354,6 +355,7 @@
 | [16195\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016195%20-%20Secondary%20electric%20vehicle%20battery%20use%20program.md) | Secondary electric vehicle battery use program. |
 | [16196\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016196%20-%20Energy%20Efficiency%20Science%20Initiative.md) | Energy Efficiency Science Initiative. |
 | [16197\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016197%20-%20Advanced%20Energy%20Technology%20Transfer%20Centers.md) | Advanced Energy Technology Transfer Centers. |
+| [16198\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20A%20-%20Energy%20Efficiency/%C2%A7%2016198%20-%20Smart%20energy%20and%20water%20efficiency%20pilot%20program.md) | Smart energy and water efficiency pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -378,6 +380,9 @@
 | [16233\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016233%20-%20Low-cost%20renewable%20hydrogen%20and%20infrastructure%20for%20vehicle%20propulsion.md) | Low-cost renewable hydrogen and infrastructure for vehicle propulsion. |
 | [16234\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016234%20-%20Concentrating%20solar%20power%20research%20program.md) | Concentrating solar power research program. |
 | [16235\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016235%20-%20Renewable%20energy%20in%20public%20buildings.md) | Renewable energy in public buildings. |
+| [16236\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016236%20-%20Research%20and%20development%20into%20integrating%20renewable%20energy%20onto%20the%20electric%20grid.md) | Research and development into integrating renewable energy onto the electric grid. |
+| [16237\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016237%20-%20Wind%20energy%20research%20and%20development.md) | Wind energy research and development. |
+| [16238\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20C%20-%20Renewable%20Energy/%C2%A7%2016238%20-%20Solar%20energy%20research%20and%20development.md) | Solar energy research and development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -399,16 +404,20 @@
 |  |  |
 | :--- | ---: |
 | [16271\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016271%20-%20Nuclear%20energy.md) | Nuclear energy. |
-| [16272\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016272%20-%20Nuclear%20energy%20research%20programs.md) | Nuclear energy research programs. |
-| [16273\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016273%20-%20Advanced%20fuel%20cycle%20initiative.md) | Advanced fuel cycle initiative. |
-| [16274\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274%20-%20University%20nuclear%20science%20and%20engineering%20support.md) | University nuclear science and engineering support. |
-| [16274a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274a%20-%20Integrated%20University%20Program.md) | Integrated University Program. |
+| [16272\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016272%20-%20Reactor%20concepts%20research%2C%20development%2C%20demonstration%2C%20and%20commercial%20application.md) | Reactor concepts research, development, demonstration, and commercial application. |
+| [16273\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016273%20-%20Fuel%20cycle%20research%2C%20development%2C%20demonstration%2C%20and%20commercial%20application.md) | Fuel cycle research, development, demonstration, and commercial application. |
+| [16274\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274%20-%20Nuclear%20science%20and%20engineering%20support.md) | Nuclear science and engineering support. |
+| [16274a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016274a%20-%20University%20Nuclear%20Leadership%20Program.md) | University Nuclear Leadership Program. |
 | [16275\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016275%20-%20Department%20of%20Energy%20civilian%20nuclear%20infrastructure%20and%20facilities.md) | Department of Energy civilian nuclear infrastructure and facilities. |
 | [16276\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016276%20-%20Security%20of%20nuclear%20facilities.md) | Security of nuclear facilities. |
 | [16277\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016277%20-%20High-performance%20computation%20and%20supportive%20research.md) | High-performance computation and supportive research. |
 | [16278\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016278%20-%20Enabling%20nuclear%20energy%20innovation.md) | Enabling nuclear energy innovation. |
 | [16279\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279%20-%20Budget%20plan.md) | Budget plan. |
+| [16279a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279a%20-%20Advanced%20reactor%20demonstration%20program.md) | Advanced reactor demonstration program. |
+| [16279b.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279b%20-%20International%20nuclear%20energy%20cooperation.md) | International nuclear energy cooperation. |
+| [16279c.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016279c%20-%20Organization%20and%20administration%20of%20programs.md) | Organization and administration of programs. |
 | [16280\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016280%20-%20Advanced%20Nuclear%20Energy%20Licensing%20Cost-Share%20Grant%20Program.md) | Advanced Nuclear Energy Licensing Cost-Share Grant Program. |
+| [16281\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20E%20-%20Nuclear%20Energy/%C2%A7%2016281%20-%20Advanced%20nuclear%20fuel%20availability.md) | Advanced nuclear fuel availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -418,12 +427,23 @@
 | :--- | ---: |
 | [16291\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016291%20-%20Fossil%20energy.md) | Fossil energy. |
 | [16291a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016291a%20-%20Property%20interests.md) | Property interests. |
-| [16292\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016292%20-%20Coal%20and%20related%20technologies%20program.md) | Coal and related technologies program. |
-| [16293\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016293%20-%20Carbon%20capture%20and%20sequestration%20research%2C%20development%2C%20and%20demonstration%20program.md) | Carbon capture and sequestration research, development, and demonstration program. |
+| [16292\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016292%20-%20Carbon%20capture%20technology%20program.md) | Carbon capture technology program. |
+| [16293\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016293%20-%20Carbon%20storage%20validation%20and%20testing.md) | Carbon storage validation and testing. |
 | [16294\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016294%20-%20Research%20and%20development%20for%20coal%20mining%20technologies.md) | Research and development for coal mining technologies. |
 | [16295\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016295%20-%20Oil%20and%20gas%20research%20programs.md) | Oil and gas research programs. |
 | [16296\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016296%20-%20Low-volume%20oil%20and%20gas%20reservoir%20research%20program.md) | Low-volume oil and gas reservoir research program. |
 | [16297\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016297%20-%20Complex%20Well%20Technology%20Testing%20Facility.md) | Complex Well Technology Testing Facility. |
+| [16298\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298%20-%20Carbon%20utilization%20program.md) | Carbon utilization program.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [16298a.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298a%20-%20Carbon%20utilization%20program.md) | Carbon utilization program.<sup>1</sup> |
+| [16298b.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298b%20-%20High%20efficiency%20turbines.md) | High efficiency turbines. |
+| [16298c.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298c%20-%20National%20Energy%20Technology%20Laboratory%20reforms.md) | National Energy Technology Laboratory reforms. |
+| [16298d.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298d%20-%20Carbon%20removal.md) | Carbon removal. |
+| [16298e.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20F%20-%20Fossil%20Energy/%C2%A7%2016298e%20-%20Carbon%20dioxide%20removal%20task%20force%20and%20report.md) | Carbon dioxide removal task force and report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -490,6 +510,7 @@
 |  |  |
 | :--- | ---: |
 | [16391\.](Subchapter%20010%20%28X%29%20-%20Department%20of%20Energy%20Management/%C2%A7%2016391%20-%20Improved%20technology%20transfer%20of%20energy%20technologies.md) | Improved technology transfer of energy technologies. |
+| [16391a.](Subchapter%20010%20%28X%29%20-%20Department%20of%20Energy%20Management/%C2%A7%2016391a%20-%20Technology%20transfer%20reports%20and%20evaluation.md) | Technology transfer reports and evaluation. |
 | [16392\.](Subchapter%20010%20%28X%29%20-%20Department%20of%20Energy%20Management/%C2%A7%2016392%20-%20Technology%20Infrastructure%20Program.md) | Technology Infrastructure Program. |
 | [16393\.](Subchapter%20010%20%28X%29%20-%20Department%20of%20Energy%20Management/%C2%A7%2016393%20-%20Small%20business%20advocacy%20and%20assistance.md) | Small business advocacy and assistance. |
 | [16394\.](Subchapter%20010%20%28X%29%20-%20Department%20of%20Energy%20Management/%C2%A7%2016394%20-%20Outreach.md) | Outreach. |
@@ -635,6 +656,8 @@
 | [16539\.](Subchapter%20017%20%28XVII%29%20-%20Protecting%20America%27s%20Competitive%20Edge%20Through%20Energy/%C2%A7%2016539%20-%20National%20Laboratory%20Jobs%20ACCESS%20Program.md) | National Laboratory Jobs ACCESS Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original.</i>
 
 
 ---

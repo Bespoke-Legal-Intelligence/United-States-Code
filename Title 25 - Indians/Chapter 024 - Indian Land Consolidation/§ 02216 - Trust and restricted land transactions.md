@@ -76,6 +76,8 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 (Pub. L. 97–459, title II, §217, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, §6(a)(9), Oct. 27, 2004, 118 Stat. 1803; Pub. L. 109–157, §7, Dec. 30, 2005, 119 Stat. 2952.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–157 substituted "be made available to—" for "be made available to".
@@ -89,6 +91,8 @@ Subsec. (e)(1). Pub. L. 108–374, §6(a)(9)(C), struck out "Indian" before "own
 Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted "any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate," for "prospective applicants for the leasing, use, or consolidation of".
 
 Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

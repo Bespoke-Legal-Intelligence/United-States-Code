@@ -100,7 +100,7 @@ In the case of an individual that receives health care items or services under a
 
 In carrying out the demonstration program under this section, the Secretary may direct—
 
-&emsp;(1) the Director of the National Institutes of Health to expand the efforts of the Institutes to evaluate current medical technologies andimprove the foundation for evidence-based practice;
+&emsp;(1) the Director of the National Institutes of Health to expand the efforts of the Institutes to evaluate current medical technologies and improve the foundation for evidence-based practice;
 
 &emsp;(2) the Administrator of the Agency for Healthcare Research and Quality to, where possible and appropriate, use the program under this section as a laboratory for the study of quality improvement strategies and to evaluate, monitor, and disseminate information relevant to such program; and
 

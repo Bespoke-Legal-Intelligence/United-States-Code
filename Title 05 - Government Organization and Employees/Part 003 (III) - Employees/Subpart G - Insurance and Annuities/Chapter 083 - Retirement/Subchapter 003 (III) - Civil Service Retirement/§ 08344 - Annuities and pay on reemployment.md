@@ -210,6 +210,8 @@ In subsection (a), the words "after July 11, 1960" are substituted for "on or af
 
 In the codification of 5 U.S.C. 8344 by Public Law 89–554, the words "except for lump-sum leave payment purposes under section 61b of this title" were omitted from the third sentence of subsection (a) and from subsection (b)(2)(C) on the basis that they were unnecessary since former 5 U.S.C. 61b \[now codified as 5 U.S.C. 5551(a)\] provided that a lump-sum leave payment was considered pay for taxation purposes only. This amendment restores to 5 U.S.C. 8344 the language that was so omitted to conform to the source statute (section 13 of the Civil Service Retirement Act, as amended) and in recognition that the language was expressly placed in the source statute to overcome certain decisions of the Comptroller General of the United States (see 28 Comp. Gen. 294; 33 id. 591, and 36 id. 209).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level V of the Executive Schedule, referred to in subsec. (h)(1), is set out in section 5316 of this title.
@@ -304,11 +306,13 @@ Subsec. (d). Pub. L. 94–397, §1(b), (c), redesignated former subsec. (b) as (
 
 Subsec. (e). Pub. L. 94–397, §1(b), redesignated former subsec. (c) as (e).
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–297 substituted "section 8339(a), (b), (d), (e), (h), and (i)" for "section 8339(a), (b), (d), (g), and (h)", in subpar. (A), and "section 8339(j) orsection 8339(k)(2)" for "section 8339(i) or section 8339(j)(2)", in sentence following cl. (ii).
+<b>1972</b>—Subsec. (a). Pub. L. 92–297 substituted "section 8339(a), (b), (d), (e), (h), and (i)" for "section 8339(a), (b), (d), (g), and (h)", in subpar. (A), and "section 8339(j) or section 8339(k)(2)" for "section 8339(i) or section 8339(j)(2)", in sentence following cl. (ii).
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–658 substituted provisions respecting reemployed annuitants and reduction in their annuity and increase in survivor annuity, notice to Commission of a desire not to increase the survivor annuity, increase in survivor annuity where annuitant dies while still reemployed, and redetermination of rights to survivor annuity where reemployment continued for five or more years upon election to deposit in the Fund, for prior provision that employment of an annuitant did not create an annuity for or affect the annuity of a survivor.
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–375 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -384,7 +388,7 @@ Pub. L. 94–397, §2, Sept. 3, 1976, 90 Stat. 1203, provided that:
 
 "(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
 
-"(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date."
+"(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of thisAct \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date."
 
 #### Effective Date of 1972 Amendment
 

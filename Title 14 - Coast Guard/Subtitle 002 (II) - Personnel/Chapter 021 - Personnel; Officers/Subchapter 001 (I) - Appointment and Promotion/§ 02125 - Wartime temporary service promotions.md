@@ -12,13 +12,15 @@
 
 (f) A promotion under this section shall be made by an appointment for temporary service. Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone. Any other appointments under this section shall be made by the President alone.
 
-(g) An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the date of the appointment, and the officer so promotedis entitled to pay and allowances of the grade to which appointed from that date.
+(g) An appointment under this section, unless expressly declined, is regarded as accepted on the date specified by the Secretary as the date of the appointment, and the officer so promoted is entitled to pay and allowances of the grade to which appointed from that date.
 
 (h) An appointment under this section does not terminate any appointments held by an officer concerned under any other provisions of this title. The President may terminate temporary appointments made under this section at any time. An appointment under this section is effective for such period as the President determines. However, an appointment may not be effective later than six months after the end of the war or national emergency. When his temporary appointment under this section is terminated or expires, the officer shall revert to his former grade.
 
 (i) Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 2121 of this title.
 
 (Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 182, §275; amended Pub. L. 92–129, title VI, §605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, §2(6), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 109–241, title II, §217(b), July 11, 2006, 120 Stat. 526; renumbered §2125 and amended Pub. L. 115–282, title I, §§112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (i). Pub. L. 115–282, §123(b)(2), substituted "section 2121" for "sec
 <b>1983</b>—Subsec. (d). Pub. L. 97–417 repealed subsec. (d) which had established the grade of commodore in the Coast Guard for the purposes of this section.
 
 <b>1971</b>—Subsec. (f). Pub. L. 92–129 inserted provision covering appointments of officers in the Coast Guard Reserve to grades above lieutenant commander.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

@@ -4,13 +4,17 @@ A commission is created to be called "The Mississippi River Commission", to cons
 
 (June 28, 1879, ch. 43, §1, 21 Stat. 37.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This was the first section of an act entitled "An act to provide for the appointment of a 'Mississippi River Commission' for the improvement of said river from the Head of the Passes near its mouth to its head-waters".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Appropriation for Salaries and Expenses
 
-Section 7 of act June 28, 1879, omitted as temporary and executed, provided for the expenditure of an appropriation of $175,000 for salaries of the commission and necessary expenses of surveys, examinations, etc.
+Act June 28, 1879, ch. 43, §7, 21 Stat. 38, omitted as temporary and executed, provided for the expenditure of an appropriation of $175,000 for salaries of the commission and necessary expenses of surveys, examinations, etc.
 
 #### Missouri River Commission
 

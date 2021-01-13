@@ -14,7 +14,7 @@ Certification.—If, not later than December 31, 2011, the President submits a w
 
 &emsp;&emsp;(B)
 
-Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b) through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, thedebt limit is increased by an additional $500,000,000,000.
+Resolution of disapproval.—Congress may consider a joint resolution of disapproval of the authority under subparagraph (A) as provided in subsections (b) through (f). The joint resolution of disapproval considered under this section shall contain only the language provided in subsection (b)(2). If the time for disapproval has lapsed without enactment of a joint resolution of disapproval under this section, the debt limit is increased by an additional $500,000,000,000.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Contents of joint resolution.—For the purpose of this section, the term "joint
 
 &emsp;&emsp;(A)(i) for the certification described in subsection (a)(1), that is introduced on September 6, 7, 8, or 9, 2011 (or, if the Senate was not in session, the next calendar day on which the Senate is in session); and
 
-&emsp;&emsp;(ii) for the certification described in subsection (a)(2), that is introduced between the date the certification is received and 3 calendar days after that date;
+&emsp;&emsp;(ii) for the certification described in subsection (a)(2), that is introduced between thedate the certification is received and 3 calendar days after that date;
 
 &emsp;&emsp;(B) which does not have a preamble;
 
@@ -82,7 +82,7 @@ Expedited Procedure in Senate.—
 
 &emsp;(1)
 
-Reconvening.—Upon receipt of a certification under subsection (a)(2), if the Senatehas adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
+Reconvening.—Upon receipt of a certification under subsection (a)(2), if the Senate has adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
 
 &emsp;(2)
 
@@ -152,11 +152,13 @@ Sequestration.—(A) If within the 50-calendar day period described in subsectio
 
 Rules of House of Representatives and Senate.—This subsection and subsections (b), (c), (d), (e), and (f) (other than paragraph (6)) are enacted by Congress—
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part ofthe rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
 
 &emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
 (Added Pub. L. 112–25, title III, §301(a)(2), Aug. 2, 2011, 125 Stat. 251.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

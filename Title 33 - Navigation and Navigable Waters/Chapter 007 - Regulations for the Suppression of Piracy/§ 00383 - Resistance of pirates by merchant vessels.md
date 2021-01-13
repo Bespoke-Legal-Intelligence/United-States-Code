@@ -4,6 +4,8 @@ The commander and crew of any merchant vessel of the United States, owned wholly
 
 (R.S. §4295.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §4295 derived from acts Mar. 3, 1819, ch. 77, §3, 3 Stat. 513; Jan. 30, 1823, ch. 7, 3 Stat. 721.

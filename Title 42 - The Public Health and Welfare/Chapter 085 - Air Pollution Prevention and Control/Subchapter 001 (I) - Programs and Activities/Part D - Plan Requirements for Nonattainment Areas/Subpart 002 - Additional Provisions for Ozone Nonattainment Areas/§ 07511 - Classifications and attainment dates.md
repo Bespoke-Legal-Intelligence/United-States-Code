@@ -40,7 +40,7 @@ TABLE 1
 
 #### (2) Reclassification upon failure to attain
 
-&emsp;(A) Within 6 months following the applicable attainment date (including any extension thereof) for an ozone nonattainment area, the Administrator shall determine, based on the area's design value (as of the attainment date), whether the area attained the standard by that date. Except for any Severe or Extreme area, any area that the Administrator finds has not attained the standard by that date shall be reclassified by operation of law in accordance with table 1 of subsection (a) to the higher of—
+&emsp;(A) Within 6 months following the applicable attainment date (including any extensionthereof) for an ozone nonattainment area, the Administrator shall determine, based on the area's design value (as of the attainment date), whether the area attained the standard by that date. Except for any Severe or Extreme area, any area that the Administrator finds has not attained the standard by that date shall be reclassified by operation of law in accordance with table 1 of subsection (a) to the higher of—
 
 &emsp;&emsp;(i) the next higher classification for the area, or
 

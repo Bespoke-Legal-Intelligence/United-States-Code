@@ -22,11 +22,15 @@ Pub. L. 89–665, title I, §108 (last paragraph 1st sentence), Oct. 15, 1966, 8
 
 Reference to fiscal years 1977–2011 is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "section 8733(b) of title 10" for "section 7433(b) of title 10".
 
 <b>2016</b>—Pub. L. 114–289 substituted "Funding" for "Contents" in section catchline and "2023" for "2015" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

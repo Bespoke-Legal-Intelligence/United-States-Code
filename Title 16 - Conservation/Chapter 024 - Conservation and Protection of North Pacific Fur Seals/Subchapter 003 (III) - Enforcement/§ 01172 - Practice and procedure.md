@@ -6,7 +6,7 @@ Enforcement of the provisions of this chapter is the joint responsibility of the
 
 #### (b) Issuance of warrants and other process
 
-The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in Federal district courts, as may be required for enforcement of this chapter and any regulations issued thereunder.
+The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon properoath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in Federal district courts, as may be required for enforcement of this chapter and any regulations issued thereunder.
 
 #### (c) Execution of warrants or other process by enforcement agents
 

@@ -82,7 +82,7 @@ Section 168 of this title, referred to in subsec. (c)(3), was repealed by Pub. L
 
 Section 2249c of this title, referred to in subsec. (c)(4), was renumbered section 345 of this title by Pub. L. 114–328, div. A, title XII, §1247(a), Dec. 23, 2016, 130 Stat. 2521.
 
-Section 1532, referred to in subsec. (c)(6), is section 1532 of Pub. L. 113–291, div. A, title XV, Dec. 19, 2014, 128 Stat. 3613. Section 1532 consists of subsecs. (a) to (d). Subsecs. (a) to (c) of section 1532 are not classified to the Code, and subsec. (d) of section 1532 amended section 1531(d) of Pub. L. 113–66, which is set out as a note under section 2302 of this title.
+Section 1532, referred to in subsec. (c)(6), is section 1532 of Pub. L. 113–291, div. A, title XV, Dec. 19, 2014, 128 Stat. 3613. Section 1532 consists of subsecs. (a) to (d).Subsecs. (a) to (c) of section 1532 are not classified to the Code, and subsec. (d) of section 1532 amended section 1531(d) of Pub. L. 113–66, which is set out as a note under section 2302 of this title.
 
 Section 1233 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (c)(7), is section 1233 of Pub. L. 110–181, div. A, title XII, Jan. 28, 2008, 122 Stat. 393, which is not classified to the Code.
 

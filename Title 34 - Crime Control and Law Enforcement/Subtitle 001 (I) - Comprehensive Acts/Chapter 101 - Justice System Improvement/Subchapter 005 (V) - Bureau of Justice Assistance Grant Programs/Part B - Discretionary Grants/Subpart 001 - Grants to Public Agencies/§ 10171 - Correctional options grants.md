@@ -10,7 +10,7 @@ The Director, in consultation with the Director of the National Institute of Cor
 
 &emsp;&emsp;(B) to provide a degree of security and discipline appropriate for the offender involved;
 
-&emsp;&emsp;(C) to provide diagnosis, and treatment and services (including counseling, substance abuse treatment, education, job training and placement assistance while under correctional supervision, and linkage to similar outside services), to increase the success rate of offenders who decide to pursue a course of lawful and productive conduct after release from legal restraint;
+&emsp;&emsp;(C) to provide diagnosis, and treatment and services (including counseling, substance abuse treatment, education, job training and placement assistance whileunder correctional supervision, and linkage to similar outside services), to increase the success rate of offenders who decide to pursue a course of lawful and productive conduct after release from legal restraint;
 
 &emsp;&emsp;(D) to reduce criminal recidivism by offenders who receive punishment through such alternatives;
 
@@ -50,6 +50,8 @@ The Director shall consult with the Commission on Alternative Utilization of Mil
 
 (Pub. L. 90–351, title I, §515, as added Pub. L. 101–647, title XVIII, §1801(a)(7), Nov. 29, 1990, 104 Stat. 4847; amended Pub. L. 103–322, title XXXIII, §330001(b)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 110–177, title III, §302(a), Jan. 7, 2008, 121 Stat. 2539.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commission on Alternative Utilization of Military Facilities, referred to in subsec. (c), was created by section 2819 of Pub. L. 100–456, which was set out as a note under section 2391 of Title 10, Armed Forces, prior to repeal by Pub. L. 105–261, div. A, title X, §1031(b), Oct. 17, 1998, 112 Stat. 2123.
@@ -69,6 +71,8 @@ A prior section 515 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 207; P
 Subsec. (b). Pub. L. 110–177, §302(a)(2), inserted concluding provisions.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted "paragraphs (1) and (2) of subsection (a)" for "subsection (a)(1) and (2)", and in par. (2) substituted "public agencies" for "States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

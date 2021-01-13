@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph (1) if the Secretary finds that a tobaccoproduct standard is appropriate for the protection of the public health.
+&emsp;&emsp;The Secretary may adopt tobacco product standards in addition to those in paragraph (1) if the Secretary finds that a tobacco product standard is appropriate for the protection of the public health.
 
 #### (B) Determinations
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) shall, where appropriate for the protection of the public health, include—
 
-&emsp;&emsp;&emsp;(i) provisions respecting the construction, components, ingredients, additives, constituents, including smoke constituents, and properties of the tobacco product;
+&emsp;&emsp;&emsp;(i) provisions respecting the construction, components, ingredients, additives,constituents, including smoke constituents, and properties of the tobacco product;
 
 &emsp;&emsp;&emsp;(ii) provisions for the testing (on a sample basis or, if necessary, on an individual basis) of the tobacco product;
 
@@ -128,7 +128,7 @@
 
 #### (2) Effective date
 
-&emsp;A regulation establishing a tobacco product standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before 1 year after the date of its publication unless the Secretary determines that an earlier effective date is necessary for the protection of the public health. Such date or dates shall be established so as to minimize, consistent with the public health, economic loss to, and disruption or dislocation of, domestic and international trade. In establishing such effective date or dates, the Secretary shall consider information submitted in connection with a proposed product standard by interested parties, including manufacturers and tobacco growers, regarding the technical achievability of compliance with the standard, and including information concerning the existence of patents that make it impossible to comply in the timeframe envisioned in the proposed standard. If the Secretary determines, based on the Secretary's evaluation of submitted comments, that a product standard can be met only by manufacturers requiring substantial changes to the methods of farming the domestically grown tobacco used by the manufacturer, the effective date of that product standard shall be not less than 2 years after the date of publication of the final regulation establishing the standard.
+&emsp;A regulation establishing a tobacco product standard shall set forth the date or dates uponwhich the standard shall take effect, but no such regulation may take effect before 1 year after the date of its publication unless the Secretary determines that an earlier effective date is necessary for the protection of the public health. Such date or dates shall be established so as to minimize, consistent with the public health, economic loss to, and disruption or dislocation of, domestic and international trade. In establishing such effective date or dates, the Secretary shall consider information submitted in connection with a proposed product standard by interested parties, including manufacturers and tobacco growers, regarding the technical achievability of compliance with the standard, and including information concerning the existence of patents that make it impossible to comply in the timeframe envisioned in the proposed standard. If the Secretary determines, based on the Secretary's evaluation of submitted comments, that a product standard can be met only by manufacturers requiring substantial changes to the methods of farming the domestically grown tobacco used by the manufacturer, the effective date of that product standard shall be not less than 2 years after the date of publication of the final regulation establishing the standard.
 
 #### (3) Limitation on power granted to the Food and Drug Administration
 
@@ -198,7 +198,7 @@
 
 #### (1) Referral; considerations
 
-&emsp;The Secretary shall refer to the Tobacco Products Scientific Advisory Committee for report and recommendation, under section 387q(c)(4) of this title, the issue of the nature and impact of the use of dissolvable tobacco products on the public health, including such use among children. In its review, the Tobacco Products Scientific Advisory Committee shall address the considerations listed in subsection (a)(3)(B)(i).
+&emsp;The Secretary shall refer to the Tobacco Products Scientific Advisory Committee for report and recommendation, under section387q(c)(4) of this title, the issue of the nature and impact of the use of dissolvable tobacco products on the public health, including such use among children. In its review, the Tobacco Products Scientific Advisory Committee shall address the considerations listed in subsection (a)(3)(B)(i).
 
 #### (2) Report and recommendation
 
@@ -209,6 +209,8 @@
 &emsp;Nothing in this subsection shall be construed to limit the Secretary's authority to take action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
 
 (June 25, 1938, ch. 675, §907, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1799.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

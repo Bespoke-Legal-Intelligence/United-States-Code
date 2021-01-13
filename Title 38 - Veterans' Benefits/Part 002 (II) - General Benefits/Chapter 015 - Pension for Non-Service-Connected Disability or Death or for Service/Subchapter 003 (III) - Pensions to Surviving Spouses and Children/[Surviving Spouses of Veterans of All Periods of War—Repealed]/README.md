@@ -1,5 +1,7 @@
 \[Surviving Spouses of Veterans of All Periods of War—Repealed\]
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–588, title I, §112(a)(2), Nov. 4, 1978, 92 Stat. 2505, struck out heading "

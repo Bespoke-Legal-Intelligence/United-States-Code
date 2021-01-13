@@ -38,9 +38,13 @@ The Secretary shall promulgate rules and regulations prescribing minimum standar
 
 (Pub. L. 86–257, title IV, §401, Sept. 14, 1959, 73 Stat. 532.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (h), "subchapter II of chapter 5 of title 5" substituted for "the Administrative Procedure Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

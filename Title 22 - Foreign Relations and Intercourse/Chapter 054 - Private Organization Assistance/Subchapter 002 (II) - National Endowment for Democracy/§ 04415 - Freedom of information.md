@@ -10,13 +10,15 @@ For purposes of complying pursuant to subsection (a) with section 552(a)(1) of s
 
 #### (c) Review by United States Information Agency
 
-(1) In the event that the Endowment determines not to comply with a request for recordsunder section 552, the Endowment shall submit a report to the Director of the United States Information Agency explaining the reasons for not complying with such request.
+(1) In the event that the Endowment determines not to comply with a request for records under section 552, the Endowment shall submit a report to the Director of the United States Information Agency explaining the reasons for not complying with such request.
 
 (2) If the Director approves the determination not to comply with such request, the United States Information Agency shall assume full responsibility, including financial responsibility, for defending the Endowment in any litigation relating to such request.
 
 (3) If the Director disapproves the determination not to comply with such request, the Endowment shall comply with such request.
 
 (Pub. L. 98–164, title V, §506, as added Pub. L. 99–93, title II, §210(a), Aug. 16, 1985, 99 Stat. 432.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

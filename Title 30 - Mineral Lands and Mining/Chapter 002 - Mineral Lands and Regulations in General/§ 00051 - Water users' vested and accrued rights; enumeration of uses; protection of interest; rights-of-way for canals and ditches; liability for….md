@@ -4,11 +4,15 @@ Whenever, by priority of possession, rights to the use of water for mining, agri
 
 (R.S. §2339.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2339 derived from act July 26, 1866, ch. 262, §9, 14 Stat. 253.
 
 Section is also set out as the first par. of section 661 of Title 43, Public Lands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal; Savings Provision
 

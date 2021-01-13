@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and Pub. L. 90–462, §3, Aug. 8, 1968, 82 Stat. 638, corrected the chapter designation from 204 to 205.
@@ -37,6 +39,8 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 <b>1986</b>—Pub. L. 99–508, title I, §108(b), Oct. 21, 1986, 100 Stat. 1858, added item 3117 "Mobile tracking devices".
 
 <b>1968</b>—Pub. L. 90–351, title IX, §1401(b), June 19, 1968, 82 Stat. 238, added item 3103a.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

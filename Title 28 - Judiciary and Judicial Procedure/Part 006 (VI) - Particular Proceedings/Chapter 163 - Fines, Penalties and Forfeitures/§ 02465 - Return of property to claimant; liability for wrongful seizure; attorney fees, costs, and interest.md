@@ -16,13 +16,13 @@
 
 &emsp;&emsp;(i) interest actually paid to the United States from the date of seizure or arrest of the property that resulted from the investment of the property in an interest-bearing account or instrument; and
 
-&emsp;&emsp;(ii) an imputed amount of interest that such currency, instruments, or proceeds would have earned at the rate applicable to the 30-day Treasury Bill, for any period during which no interest was paid (not including any period when the property reasonably was in use as evidence in an official proceeding or in conducting scientific tests for the purpose of collecting evidence), commencing 15 days after the property was seized by aFederal law enforcement agency, or was turned over to a Federal law enforcement agency by a State or local law enforcement agency.
+&emsp;&emsp;(ii) an imputed amount of interest that such currency, instruments, or proceeds would have earned at the rate applicable to the 30-day Treasury Bill, for any period during which no interest was paid (not including any period when the property reasonably was in use as evidence in an official proceeding or in conducting scientific tests for the purpose of collecting evidence), commencing 15 days after the property was seized by a Federal law enforcement agency, or was turned over to a Federal law enforcement agency by a State or local law enforcement agency.
 
 (2)(A) The United States shall not be required to disgorge the value of any intangible benefits nor make any other payments to the claimant not specifically authorized by this subsection.
 
 (B) The provisions of paragraph (1) shall not apply if the claimant is convicted of a crime for which the interest of the claimant in the property was subject to forfeiture under a Federal criminal forfeiture law.
 
-(C) If there are multiple claims to the same property, the United States shall not be liable for costs and attorneys fees associated with any such claim if the United States—
+(C) If there are multiple claims to the same property, the United States shall not be liablefor costs and attorneys fees associated with any such claim if the United States—
 
 &emsp;(i) promptly recognizes such claim;
 
@@ -48,9 +48,13 @@ The qualifying language of section 827 of title 28, U.S.C., 1940 ed., requiring 
 
 (See also section 2006 of this title with respect to actions against internal revenue officers and their liability for acts in the performance of official duties.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–185 amended section catchline and text generally. Prior to amendment, text read as follows: "Upon the entry of judgment for the claimant in any proceeding to condemn or forfeit property seized under any Act of Congress, such property shall be returned forthwith to the claimant or his agent; but if it appears that there was reasonable cause for the seizure, the court shall cause a proper certificate thereof to be entered and the claimant shall not, in such case, be entitled to costs, nor shall the person who made the seizure, nor the prosecutor, be liable to suit or judgment on account of such suit or prosecution."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

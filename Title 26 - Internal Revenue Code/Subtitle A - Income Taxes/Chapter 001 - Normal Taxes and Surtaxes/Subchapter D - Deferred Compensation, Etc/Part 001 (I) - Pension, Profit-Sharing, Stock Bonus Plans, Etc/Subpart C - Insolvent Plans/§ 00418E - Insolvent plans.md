@@ -186,5 +186,5 @@ Pub. L. 109–280, title II, §213(b), Aug. 17, 2006, 120 Stat. 918, provided th
 
 #### Effective Date
 
-Section effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed to after such date, or 3 years after Sept. 26, 1980, see section 210 of Pub. L. 96–364, set out as a note under section 194A of this title.
+Section effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed toafter such date, or 3 years after Sept. 26, 1980, see section 210 of Pub. L. 96–364, set out as a note under section 194A of this title.
 

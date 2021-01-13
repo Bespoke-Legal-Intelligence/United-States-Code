@@ -1,10 +1,14 @@
 ### §1951. Purpose
 
-The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment, and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
+The purpose of this chapter is to address the adverse impacts of marine debris on the United States economy, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety through the identification, determination of sources, assessment, prevention, reduction, and removal of marine debris.
 
-(Pub. L. 109–449, §2, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, §603, Dec. 20, 2012, 126 Stat. 1576.)
+(Pub. L. 109–449, §2, Dec. 22, 2006, 120 Stat. 3333; Pub. L. 112–213, title VI, §603, Dec. 20, 2012, 126 Stat. 1576; Pub. L. 116–224, title I, §101(1), Dec. 18, 2020, 134 Stat. 1074.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Pub. L. 116–224 substituted "marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries)," for "marine environment,".
 
 <b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: "The purposes of this chapter are—
 
@@ -13,6 +17,8 @@ The purpose of this chapter is to address the adverse impacts of marine debris o
 &emsp;"(2) to reactivate the Interagency Marine Debris Coordinating Committee; and
 
 &emsp;"(3) to develop a Federal marine debris information clearinghouse."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2012 Amendment
 

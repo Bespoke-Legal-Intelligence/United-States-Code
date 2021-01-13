@@ -30,7 +30,7 @@
 
 #### (3) Pass through of funding
 
-&emsp;With respect to a State waiver under paragraph (1), under which, due to the structure ofthe State plan, individuals and small employers in the State would not qualify for the premium tax credits, cost-sharing reductions, or small business credits under sections <sup>1</sup> 36B of title 26 or under part I of subtitle E for which they would otherwise be eligible, the Secretary shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges established under this title <sup>2</sup> had the State not received such waiver, shall be paid to the State for purposes of implementing the State plan under the waiver. Such amount shall be determined annually by the Secretary, taking into consideration the experience of other States with respect to participation in an Exchange and credits and reductions provided under such provisions to residents of the other States.
+&emsp;With respect to a State waiver under paragraph (1), under which, due to the structure of the State plan, individuals and small employers in the State would not qualify for the premium tax credits, cost-sharing reductions, or small business credits under sections <sup>1</sup> 36B of title 26 or under part I of subtitle E for which they would otherwise be eligible, the Secretary shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges established under this title <sup>2</sup> had the State not received such waiver, shall be paid to the State for purposes of implementing the State plan under the waiver. Such amount shall be determined annually by the Secretary, taking into consideration the experience of other States with respect to participation in an Exchange and credits and reductions provided under such provisions to residents of the other States.
 
 #### (4) Waiver consideration and transparency
 
@@ -78,7 +78,7 @@
 
 &emsp;The Secretary may grant a request for a waiver under subsection (a)(1) only if the Secretary determines that the State plan—
 
-&emsp;&emsp;(A) will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title <sup>2</sup> as certified by Office <sup>3</sup> of the Actuary of the Centers for Medicare \& Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
+&emsp;&emsp;(A) will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title <sup>2</sup> as certified by Office <sup>3</sup> of the Actuaryof the Centers for Medicare \& Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
 
 &emsp;&emsp;(B) will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of this title <sup>2</sup> would provide;
 

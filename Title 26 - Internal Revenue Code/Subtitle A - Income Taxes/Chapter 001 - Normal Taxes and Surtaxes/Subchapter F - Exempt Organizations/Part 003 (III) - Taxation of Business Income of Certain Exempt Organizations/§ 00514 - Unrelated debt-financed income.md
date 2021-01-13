@@ -10,7 +10,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property anamount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -152,7 +152,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (7) Average acquisition indebtedness
 
-&emsp;For purposes of this section, the term "average acquisition indebtedness" for any taxable year with respect to a debt-financed property means the average amount, determined under regulations prescribed by the Secretary of the acquisition indebtedness during the period the property is held by the organization during the taxable year, except that for the purpose of computing the percentage of any gain or loss to be taken into account on a sale or other disposition of debt-financed property, such term means the highest amount of the acquisition indebtedness with respect to such property during the 12-month period ending with the date of the sale or other disposition.
+&emsp;For purposes of this section, the term "average acquisition indebtedness" for any taxable year with respect to a debt-financed property means the average amount, determined under regulations prescribed by the Secretary of the acquisition indebtedness during the period the property is held by the organization during the taxable year, except that for the purposeof computing the percentage of any gain or loss to be taken into account on a sale or other disposition of debt-financed property, such term means the highest amount of the acquisition indebtedness with respect to such property during the 12-month period ending with the date of the sale or other disposition.
 
 #### (8) Securities subject to loans
 
@@ -186,7 +186,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(II) bears a relationship which is described in subparagraph (F) or (H) of section 4975(e)(2) to any person described in subclause (I);
 
-&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organizationwith financing in connection with the acquisition or improvement; or
+&emsp;&emsp;&emsp;(v) any person described in clause (iii) or (iv) provides the qualified organization with financing in connection with the acquisition or improvement; or
 
 &emsp;&emsp;&emsp;(vi) the real property is held by a partnership unless the partnership meets the requirements of clauses (i) through (v) and unless—
 
@@ -230,7 +230,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (I) Chargebacks
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, a partnership may without violating the requirements of this subparagraph provide for chargebacks with respect to disproportionate losses previously allocated to qualified organizations and disproportionate income previously allocated to other partners. Any chargeback referred to in the preceding sentence shall not be at a ratio in excess of the ratio under which the loss or income (as the case may be) was allocated.
+&emsp;&emsp;&emsp;&emsp;Except as provided in regulations, a partnership may without violating the requirements of this subparagraph provide for chargebacks with respect to disproportionate losses previously allocated to qualified organizations and disproportionate income previously allocated to other partners. Any chargeback referredto in the preceding sentence shall not be at a ratio in excess of the ratio under which the loss or income (as the case may be) was allocated.
 
 #### (II) Preferred rates of return, etc.
 
@@ -270,7 +270,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (i) Small leases disregarded
 
-&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (orcomplex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
+&emsp;&emsp;&emsp;For purposes of clauses (iii) and (iv) of subparagraph (B), a lease to a person described in such clause (iii) or (iv) shall be disregarded if no more than 25 percent of the leasable floor space in a building (or complex of buildings) is covered by the lease and if the lease is on commercially reasonable terms.
 
 #### (ii) Commercially reasonable financing
 
@@ -306,7 +306,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;&emsp;(I) any financial institution described in section 581 or 591(a),
 
-&emsp;&emsp;&emsp;&emsp;(II) any other corporation which is a direct or indirect subsidiary of an institution referred to in subclause (I) but only if, by virtue of being affiliated with such institution, such other corporation is subject to supervision and examination by a Federal or State agency which regulates institutions referred to in subclause (I), and
+&emsp;&emsp;&emsp;&emsp;(II) any other corporation which is a direct or indirect subsidiary of an institution referred to in subclause (I) butonly if, by virtue of being affiliated with such institution, such other corporation is subject to supervision and examination by a Federal or State agency which regulates institutions referred to in subclause (I), and
 
 &emsp;&emsp;&emsp;&emsp;(III) any person acting as a conservator or receiver of an entity referred to in subclause (I) or (II) (or any government agency or corporation succeeding to the rights or interest of such person).
 
@@ -330,7 +330,7 @@ For purposes of this section, the term "real property" includes personal propert
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525;Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(l), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §866(a), Aug. 17, 2006, 120 Stat. 1025.)
 
 #### References in Text
 
@@ -364,7 +364,7 @@ Pub. L. 100–647, §1018(u)(13)(A), amended directory language of Pub. L. 99–
 
 Subsec. (c)(9)(E). Pub. L. 100–647, §1016(a)(5)(A), added subpar. (E) relating to special rules for organizations described in section 501(c)(25).
 
-Subsec. (c)(9)(E)(i). Pub. L. 100–647, §2004(h)(2), in subsec. (c)(9)(E), relating to certain allocations permitted, redesignated subcls. (II) and (III) as (I) and (II), respectively, and struck out former subcl. (I) which read as follows: "the allocation of items to any partner other than a qualified organization cannot result in such partner having a share of the overall partnership loss for any taxable year greater than such partner's share of the overall partnership income for the taxable year for which such partner's income share will be the smallest,".
+Subsec. (c)(9)(E)(i). Pub. L. 100–647, §2004(h)(2), in subsec. (c)(9)(E), relating to certain allocations permitted,redesignated subcls. (II) and (III) as (I) and (II), respectively, and struck out former subcl. (I) which read as follows: "the allocation of items to any partner other than a qualified organization cannot result in such partner having a share of the overall partnership loss for any taxable year greater than such partner's share of the overall partnership income for the taxable year for which such partner's income share will be the smallest,".
 
 Subsec. (c)(9)(E)(iii). Pub. L. 100–647, §2004(h)(1), in subsec. (c)(9)(E) relating to certain allocations permitted, added cl. (iii).
 
@@ -454,7 +454,7 @@ Small leases.—The provisions of section 514(c)(9)(G)(i) of the Internal Revenu
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -536,7 +536,7 @@ Pub. L. 96–605, title I, §110(b), Dec. 28, 1980, 94 Stat. 3526, provided that
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
+Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as paymentswith respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 #### Effective Date of 1976 Amendment
 

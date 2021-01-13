@@ -32,7 +32,7 @@ The Secretary may by regulation—
 
 &emsp;(3) authorize the Customs Service to permit entry or preliminary entry of any vessel to be made at a place other than a designated port of entry, under such conditions as may be prescribed.
 
-(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 106–476, title I, §1452(a)(2), Nov. 9, 2000, 114 Stat. 2167.)
+(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 106–476, title I, §1452(a)(2), Nov. 9, 2000, 114 Stat. 2167.)
 
 #### Prior Provisions
 

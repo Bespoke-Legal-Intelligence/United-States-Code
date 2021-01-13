@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not later than September 30 of each year, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate,a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
+&emsp;Not later than September 30 of each year, the Secretary of Agriculture shall submit tothe Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
 
 #### (2) Contents
 

@@ -42,7 +42,7 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State andlocal recordkeeping systems are available in order to obtain complete data;
+&emsp;(3) that an authorized agency or designated entity, as applicable,,<sup>3</sup> upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
 &emsp;(4) that the authorized agency or designated entity, as applicable, shall make a determination whether the covered individual has been convicted of, or is under pending indictment for, a crime that bears upon the covered individual's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
@@ -94,6 +94,8 @@ A qualified entity shall not be liable in an action for damages solely for failu
 
 (Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885; Pub. L. 115–141, div. S, title I, §101(a)(1), Mar. 23, 2018, 132 Stat. 1123.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this subparagraph, referred to in subsec. (a)(3)(A), probably means the date of enactment of Pub. L. 115–141, which was approved Mar. 23, 2018.
@@ -144,6 +146,8 @@ Subsec. (d). Pub. L. 103–322, §320928(c), inserted "(other than itself)" afte
 
 Subsec. (e). Pub. L. 103–322, §320928(e), substituted "eighteen dollars, respectively, or the actual cost, whichever is less," for "the actual cost".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation
 
 Pub. L. 115–141, div. S, title I, §101(b), Mar. 23, 2018, 132 Stat. 1126, provided that: "The Attorney General shall ensure that this section \[amending this section and section 40104 of this title\] and the amendments made by this section are fully implemented not later than 1 year after the date of enactment of this section \[Mar. 23, 2018\]."
@@ -178,7 +182,7 @@ State check.—The participating State under this paragraph after receiving a re
 
 &emsp;&emsp;"(D)
 
-Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall beprovided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
+Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 34 U.S.C. 40101 et seq.\].
 
 &emsp;&emsp;"(E)
 
@@ -214,7 +218,7 @@ Eligible organizations.—Eligible organizations include—
 
 &emsp;&emsp;&emsp;"(ii)
 
-Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
+Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria establishedby such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
 
 &emsp;&emsp;"(C)
 
@@ -322,7 +326,7 @@ Study required.—The Attorney General shall conduct a feasibility study within 
 
 &emsp;"(2)
 
-Interim report.—Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
+Interim report.—Based on the findings of the feasibility study under paragraph (1), the AttorneyGeneral shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
 
 &emsp;"(3)
 

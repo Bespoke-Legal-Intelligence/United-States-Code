@@ -10,6 +10,8 @@ The Export-Import Bank of the United States is authorized and directed to establ
 
 (Pub. L. 97–290, title II, §206, Oct. 8, 1982, 96 Stat. 1239; Pub. L. 98–181, title I \[title VI, §616(b)\], Nov. 30, 1983, 97 Stat. 1257.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Bank Export Services Act, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.

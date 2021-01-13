@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(i) any person who moves from real property, or moves his personal property from real property—
 
-&emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federal agency or with Federal financial assistance; or
+&emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federalagency or with Federal financial assistance; or
 
 &emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farm operation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
 
@@ -66,7 +66,7 @@ This chapter, referred to in introductory provision and par. (6)(B)(i), was in t
 
 Par. (3). Pub. L. 100–17, §402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'State agency' means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States."
 
-Par. (4). Pub. L. 100–17, §402(c), inserted ", any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual," after "insurance".
+Par. (4). Pub. L. 100–17, §402(c), inserted ", any interest reduction payment to an individual in connectionwith the purchase and occupancy of a residence by that individual," after "insurance".
 
 Par. (6). Pub. L. 100–17, §402(d), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The term 'displaced person' means any person who, on or after January 2, 1971, moves from real property, or moves his personal property from real property, as a result of the acquisition of such real property, in whole or in part, or as the result of the written order of the acquiring agency to vacate real property, for a program or project undertaken by a Federal agency, or with Federal financial assistance; and solely for the purposes of sections 4622(a) and (b) and 4625 of this title, as a result of the acquisition of or as the result of the written order of the acquiring agency to vacate other real property, on which such person conducts a business or farm operation, for such program or project."
 
@@ -86,7 +86,7 @@ Pub. L. 91–646, title II, §221, Jan. 2, 1971, 84 Stat. 1904, provided that:
 
 "(b) Until July 1, 1972, sections 210 and 305 \[sections 4630 and 4655 of this title\] shall be applicable to a State only to the extent that such State is able under its laws to comply with such sections. After July 1, 1972, such sections \[sections 4630 and 4655 of this title\] shall be completely applicable to all States.
 
-"(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5) \[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title andsection 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State."
+"(c) The repeals made by paragraphs (4) \[repealing section 1606(b) of former Title 49, Transportation\], (5) \[repealing section 1465 of this title\], (6) \[repealing section 1415(7)(b)(iii) and (8) second sentence of this title\], (8) \[repealing section 3074 of this title\], (9) \[repealing section 3307(b), (c) of this title\], (10) \[repealing chapter 5 (sections 501–511) of Title 23, Highways\], (11) \[repealing provisions set out as notes under sections 501 and 510 of Title 23\], and (12) of section 220(a) of this title and section 306 of title III \[repealing sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, Navigation and Navigable Waters\] shall not apply to any State so long as sections 210 and 305 \[sections 4630 and 4655 of this title\] are not applicable in such State."
 
 #### Short Title of 1987 Amendment
 

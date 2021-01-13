@@ -106,7 +106,7 @@ The Secretary's authority to purchase loans under this section shall expire on J
 
 Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by theSecretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter."
+Subsec. (b). Pub. L. 111–39, §404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–350, §1(1), substituted "July 1, 2010" for "July 1, 2009".
 

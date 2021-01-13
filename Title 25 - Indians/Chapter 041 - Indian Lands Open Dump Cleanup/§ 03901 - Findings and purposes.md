@@ -28,6 +28,8 @@ The purposes of this chapter are to—
 
 (Pub. L. 103–399, §2, Oct. 22, 1994, 108 Stat. 4164.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 103–399, §1, Oct. 22, 1994, 108 Stat. 4164, provided that: "This Act \[enacting this chapter\] may be cited as the 'Indian Lands Open Dump Cleanup Act of 1994'."

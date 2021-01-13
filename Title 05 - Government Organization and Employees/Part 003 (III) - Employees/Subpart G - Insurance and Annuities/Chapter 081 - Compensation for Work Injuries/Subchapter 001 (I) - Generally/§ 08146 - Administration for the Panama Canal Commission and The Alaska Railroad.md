@@ -46,6 +46,8 @@ Administration of this subchapter was transferred to the Secretary of Labor by s
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–70, §3302(e)(9)(A), substituted "Panama Canal Commission" for "Canal Zone" in section catchline.
@@ -57,6 +59,8 @@ Subsec. (b). Pub. L. 96–70, §3302(e)(9)(C)–(E), substituted "Panama Canal C
 Subsec. (c). Pub. L. 96–70, §3302(e)(9)(F), substituted "Panama Canal Commission" for "Governor of the Canal Zone" and "employee of the Panama Canal Commission" for "employee of the Canal Zone Government or the Panama Canal Company".
 
 Subsec. (e). Pub. L. 96–70, §3302(e)(9)(G), substituted "Panama Canal Commission" for "Canal Zone Government and of the Panama Canal Company".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

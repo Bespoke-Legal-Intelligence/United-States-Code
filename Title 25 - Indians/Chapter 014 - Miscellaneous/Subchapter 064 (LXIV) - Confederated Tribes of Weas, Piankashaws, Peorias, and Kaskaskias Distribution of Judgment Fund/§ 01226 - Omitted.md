@@ -1,5 +1,7 @@
 ### §1226. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 91–364, §6, July 31, 1970, 84 Stat. 689, which provided for shares not distributed within two years to revert to the tribe, was omitted from the Code as being of special and not general application.

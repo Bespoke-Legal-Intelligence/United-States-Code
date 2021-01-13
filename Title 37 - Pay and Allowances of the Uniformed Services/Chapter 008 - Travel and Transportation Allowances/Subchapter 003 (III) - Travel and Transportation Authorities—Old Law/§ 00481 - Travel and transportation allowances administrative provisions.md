@@ -1,6 +1,6 @@
 ### §481. Travel and transportation allowances: administrative provisions
 
-(a) For the administration of sections 474(a), (b), and (d)–(f), 474a, 475, 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.
+(a) For the administration of sections 474(a), (b), and (d)–(f), 474a, 475,<sup>1</sup> 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.
 
 (b) In establishing the rates and kinds of allowances authorized by the sections of this title designated by subsection (a), the Secretaries concerned shall—
 
@@ -48,6 +48,12 @@ In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, si
 
 In subsections (c) and (d), the words "for the purposes of the sections of this title designated by subsection (a) of this section" are inserted to clarify the coverage of the source statute.
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 475 of this title, referred to in subsec. (a), was renumbered section 405 of this title by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -72,6 +78,8 @@ Subsec. (d). Pub. L. 96–513 substituted "term" for "words".
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–26 inserted reference to section 405a.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
@@ -89,4 +97,6 @@ Amendment by Pub. L. 96–343 effective with respect to travel and transportatio
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89–26, as amended, set out as an Effective Date note under section 475a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

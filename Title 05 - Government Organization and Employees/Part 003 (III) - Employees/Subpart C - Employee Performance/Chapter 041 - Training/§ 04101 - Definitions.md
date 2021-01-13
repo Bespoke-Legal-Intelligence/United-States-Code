@@ -70,13 +70,17 @@ The definition of "Commission" in former section 2302(4) is omitted as unnecessa
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Par. (4). Pub. L. 103–226 substituted "fields which will improve individual and organizational performance and assist in achieving the agency's mission and performance goals;" for "fields which are or will be directly related to the performance by the employee of official duties for the Government, in order to increase the knowledge, proficiency, ability, skill, and qualifications of the employee in the performance of official duties;".
 
 <b>1982</b>—Par. (1)(C). Pub. L. 97–258 substituted "chapter 91" for "sections 846–852 or 856–859".
 
-<b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+<b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey"
+
+#### <b>Statutory Notes and Related Subsidiaries.</b>
 
 #### Change of Name
 
@@ -89,6 +93,8 @@ Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of 
 #### Transfer of Functions
 
 For transfer of Environmental Science Services Administration to National Oceanic and Atmospheric Administration, see Transfer of Functions note set out under section 5541 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

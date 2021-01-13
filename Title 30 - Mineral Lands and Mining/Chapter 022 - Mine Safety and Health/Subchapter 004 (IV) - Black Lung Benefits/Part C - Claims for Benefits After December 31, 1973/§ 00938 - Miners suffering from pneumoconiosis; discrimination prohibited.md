@@ -6,7 +6,7 @@ No operator shall discharge or in any other way discriminate against any miner e
 
 #### (b) Determination by Secretary; procedure
 
-Any miner who believes that he has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section, or any representative of such minermay, within ninety days after such violation occurs, apply to the Secretary for a review of such alleged discharge or discrimination. A copy of the application shall be sent to such person who shall be the respondent. Upon receipt of such application, the Secretary shall cause such investigation to be made as he deems appropriate. Such investigation shall provide an opportunity for a public hearing at the request of any party to enable the parties to present information relating to such violation. The parties shall be given written notice of the time and place of the hearing at least five days prior to the hearing. Any such hearing shall be of record and shall be subject to section 554 of title 5. Each administrative law judge presiding under this section and under the provisions of subchapters I, II and III of this chapter shall receive compensation at a rate determined under section 5372 of title 5. Upon receiving the report of such investigation, the Secretary shall make findings of fact. If he finds that such violation did occur, he shall issue a decision, incorporating an order therein, requiring the person committing such violation to take such affirmative action as the Secretary deems appropriate, including, but not limited to, the rehiring or reinstatement of the miner to his former position with back pay. If he finds that there was no such violation, he shall issue an order denying the application. Such order shall incorporate the Secretary's findings therein.
+Any miner who believes that he has been discharged or otherwise discriminated against by any person in violation of subsection (a) of this section, or any representative of such miner may, within ninety days after such violation occurs, apply to the Secretary for a review of such alleged discharge or discrimination. A copy of the application shall be sent to such person who shall be the respondent. Upon receipt of such application, the Secretary shall cause such investigation to be made as he deems appropriate. Such investigation shall provide an opportunity for a public hearing at the request of any party to enable the parties to present information relating to such violation. The parties shall be given written notice of the time and place of the hearing at least five days prior to the hearing. Any such hearing shall be of record and shall be subject to section 554 of title 5. Each administrative law judge presiding under this section and under the provisions of subchapters I, II and III of this chapter shall receive compensation at a rate determined under section 5372 of title 5. Upon receiving the report of such investigation, the Secretary shall make findings of fact. If he finds that such violation did occur, he shall issue a decision, incorporating an order therein, requiring the person committing such violation to take such affirmative action as the Secretary deems appropriate, including, but not limited to, the rehiring or reinstatement of the miner to his former position with back pay. If he finds that there was no such violation, he shall issue an order denying the application. Such order shall incorporate the Secretary's findings therein.
 
 #### (c) Costs and penalties
 
@@ -14,11 +14,15 @@ Whenever an order is issued under this subsection granting relief to a miner at 
 
 (Pub. L. 91–173, title IV, §428, as added Pub. L. 92–303, §5(7), May 19, 1972, 86 Stat. 155; amended Pub. L. 95–251, §2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–509, title V, §529 \[title I, §104(d)(3)\], Nov. 5, 1990, 104 Stat. 1427, 1447.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–509 amended seventh sentence generally, substituting "determined under section 5372 of title 5" for "not less than that prescribed for GS–16 under section 5332 of title 5".
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

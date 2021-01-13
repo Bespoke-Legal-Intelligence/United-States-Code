@@ -116,7 +116,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 #### (A) Services under subchapter II
 
-&emsp;&emsp;If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with this subsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
+&emsp;&emsp;If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with thissubsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
 
 #### (B) Services under this subchapter
 

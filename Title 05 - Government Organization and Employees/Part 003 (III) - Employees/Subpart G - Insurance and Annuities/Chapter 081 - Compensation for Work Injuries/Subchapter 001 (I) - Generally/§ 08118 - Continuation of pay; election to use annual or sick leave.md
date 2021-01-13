@@ -1,6 +1,6 @@
 ### §8118. Continuation of pay; election to use annual or sick leave
 
-(a) The United States shall authorize the continuation of pay of an employee, as defined in section 8101(1) of this title (other than those referred to in clause (B) or (E)), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor withinthe time specified in section 8122(a)(2) of this title.
+(a) The United States shall authorize the continuation of pay of an employee, as defined in section 8101(1) of this title (other than those referred to in clause (B) or (E)), who has filed a claim for a period of wage loss due to a traumatic injury with his immediate superior on a form approved by the Secretary of Labor within the time specified in section 8122(a)(2) of this title.
 
 (b) Continuation of pay under this subchapter shall be furnished—
 
@@ -38,11 +38,15 @@ Oct. 14, 1949, ch. 691, §101(b), 63 Stat. 854.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–435 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "without a break in time unless controverted under regulations of the Secretary;".
 
 <b>1974</b>—Pub. L. 93–416 inserted in section catchline the reference to continuation of pay, added subsecs. (a), (b), (d) and (e), designated existing provisions as subsec. (c), and in subsec. (c) as so designated, substituted "until termination of pay as set forth in subsections (a) and (b) or the use of annual or sick leave ends" for "until the use of the annual or sick leave ends".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

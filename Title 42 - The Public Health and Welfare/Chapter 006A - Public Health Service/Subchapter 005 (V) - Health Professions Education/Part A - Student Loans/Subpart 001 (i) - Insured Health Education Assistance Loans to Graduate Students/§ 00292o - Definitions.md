@@ -4,7 +4,7 @@ For purposes of this subpart:
 
 &emsp;(1) The term "eligible institution" means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 
-&emsp;(2) The term "eligible lender" means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
+&emsp;(2) The term "eligible lender" means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by theState, regulated by the State, and approved by the Secretary.
 
 &emsp;(3) The term "line of credit" means an arrangement or agreement between the lender and the borrower whereby a loan is paid out by the lender to the borrower in annual installments, or whereby the lender agrees to make, in addition to the initial loan, additional loans in subsequent years.
 

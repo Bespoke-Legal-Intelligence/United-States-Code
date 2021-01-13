@@ -46,7 +46,7 @@
 
 #### (1) Consultations
 
-&emsp;If the President makes the determinations described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
+&emsp;If the President makes the determinations described in subsection (a)(1) with respect to aforeign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
 
 #### (2) Actions by government of jurisdiction
 
@@ -120,6 +120,8 @@ For the purposes of this section, the term "foreign person" means—
 
 (Pub. L. 90–629, ch. 8, §81, as added and amended Pub. L. 102–182, title III, §§305(b), 309(b)(2), Dec. 4, 1991, 105 Stat. 1250, 1258.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 6 of the Act was classified to section 4605 of Title 50 prior to repeal.
@@ -131,6 +133,8 @@ A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 101–182, §309(b)(2), substituted "October 28, 1991" for reference to the "date of the enactment of this section" which was enacted Dec. 4, 1991.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

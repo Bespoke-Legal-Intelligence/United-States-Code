@@ -9,7 +9,7 @@
 - [&sect; 02262 - Survey of potential for use of certain facilities as hydroelectric facilities](%C2%A7%2002262%20-%20Survey%20of%20potential%20for%20use%20of%20certain%20facilities%20as%20hydroelectric%20facilities.md)
 - [&sect; 02263 - Study of Corps capability to conserve fish and wildlife](%C2%A7%2002263%20-%20Study%20of%20Corps%20capability%20to%20conserve%20fish%20and%20wildlife.md)
 - [&sect; 02263a - Aquatic invasive species research](%C2%A7%2002263a%20-%20Aquatic%20invasive%20species%20research.md)
-- [&sect; 02264 - Deauthorization of studies](%C2%A7%2002264%20-%20Deauthorization%20of%20studies.md)
+- [&sect; 02264 - Repealed. Pub. L. 116&#8211;260, div. AA, title III, &sect;360(a), Dec. 27, 2020, 134 Stat. 2732](%C2%A7%2002264%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20AA%2C%20title%20III%2C%20%C2%A7360%28a%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202732.md)
 - [&sect; 02265 - Columbia River-Arkansas River Basin transfers](%C2%A7%2002265%20-%20Columbia%20River-Arkansas%20River%20Basin%20transfers.md)
 - [&sect; 02266 - Canadian tidal power study](%C2%A7%2002266%20-%20Canadian%20tidal%20power%20study.md)
 - [&sect; 02267 - New York Bight study](%C2%A7%2002267%20-%20New%20York%20Bight%20study.md)
@@ -17,3 +17,4 @@
 - [&sect; 02267b - Post-disaster watershed assessments](%C2%A7%2002267b%20-%20Post-disaster%20watershed%20assessments.md)
 - [&sect; 02268 - Marine technology review](%C2%A7%2002268%20-%20Marine%20technology%20review.md)
 - [&sect; 02269 - Tribal partnership program](%C2%A7%2002269%20-%20Tribal%20partnership%20program.md)
+- [&sect; 02270 - Subsurface drain systems research and development](%C2%A7%2002270%20-%20Subsurface%20drain%20systems%20research%20and%20development.md)

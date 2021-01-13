@@ -82,11 +82,11 @@ For purposes of this section—
 
 #### (ii) Aggregation
 
-&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated amongsuch persons ratably on the basis of the number of full-time employees employed by each such person.
+&emsp;&emsp;&emsp;In the case of persons treated as 1 employer under subparagraph (C)(i), only 1 reduction under subclause (I) or (II) <sup>1</sup> shall be allowed with respect to such persons and such reduction shall be allocated among such persons ratably on the basis of the number of full-time employees employed by each such person.
 
 #### (E) Full-time equivalents treated as full-time employees
 
-&emsp;&emsp;Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employer shall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
+&emsp;&emsp;Solely for purposes of determining whether an employer is an applicable large employer under this paragraph, an employershall, in addition to the number of full-time employees for any month otherwise determined, include for such month a number of full-time employees determined by dividing the aggregate number of hours of service of employees who are not full-time employees for the month by 120.
 
 #### (F) Exemption for health coverage under TRICARE or the Department of Veterans Affairs
 

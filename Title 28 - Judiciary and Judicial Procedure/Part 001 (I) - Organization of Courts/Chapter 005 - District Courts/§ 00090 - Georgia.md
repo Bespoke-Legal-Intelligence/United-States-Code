@@ -96,6 +96,8 @@ Since the latest amendment of section 150 of title 28, U.S.C., 1940 ed., the for
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted "Jefferson, Lincoln" for "Lincoln".
@@ -113,6 +115,8 @@ Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted "Statesboro" for "Swains
 <b>1951</b>—Subsec. (c)(6). Act Oct. 31, 1951, struck out "Washington,".
 
 <b>1949</b>—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

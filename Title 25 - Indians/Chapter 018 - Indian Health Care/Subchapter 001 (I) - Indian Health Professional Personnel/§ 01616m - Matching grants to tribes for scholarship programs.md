@@ -4,7 +4,7 @@
 
 (1) The Secretary shall make grants to Indian tribes and tribal organizations for the purpose of assisting such tribes and tribal organizations in educating Indians to serve as health professionals in Indian communities.
 
-(2) Amounts available for grants under paragraph (1) for any fiscal year shall not exceed 5 percent of amounts available for such fiscal year for Indian Health Scholarships under section 1613a of this title.
+(2) Amounts available for grants under paragraph (1) for any fiscal year shall not exceed 5percent of amounts available for such fiscal year for Indian Health Scholarships under section 1613a of this title.
 
 (3) An application for a grant under paragraph (1) shall be in such form and contain such agreements, assurances, and information as the Secretary determines are necessary to carry out this section.
 
@@ -64,7 +64,7 @@ In providing scholarships under subsection (b), the Secretary and the Indian tri
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the Federal share of the amount which has been paid to him, or on his behalf, under the contract.
 
-(2) If for any reason not specified in paragraph (1), an individual breaches his written contractby failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
+(2) If for any reason not specified in paragraph (1), an individual breaches his written contract by failing either to begin such individual's service obligation required under such contract or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula specified in subsection (l) of section 1616a of this title in the manner provided for in such subsection.
 
 (3) The Secretary may carry out this subsection on the basis of information submitted by the tribes or tribal organizations involved, or on the basis of information collected through such other means as the Secretary determines to be appropriate.
 
@@ -81,6 +81,8 @@ The recipient of a scholarship under subsection (b) shall agree, in providing he
 The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
 
 (Pub. L. 94–437, title I, §120, as added Pub. L. 102–573, title I, §112, Oct. 29, 1992, 106 Stat. 4540.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

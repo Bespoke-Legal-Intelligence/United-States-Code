@@ -30,9 +30,13 @@ The Attorney General shall take such measures as may be necessary to—
 
 (Pub. L. 106–313, title II, §204, Oct. 17, 2000, 114 Stat. 1263; Pub. L. 107–296, title IV, §458, Nov. 25, 2002, 116 Stat. 2201.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296 substituted "1 year after November 25, 2002;" for "not later than one year after October 17, 2000;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -40,5 +44,5 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

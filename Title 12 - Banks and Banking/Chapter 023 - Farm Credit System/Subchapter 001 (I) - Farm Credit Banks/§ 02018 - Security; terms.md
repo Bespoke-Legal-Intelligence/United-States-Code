@@ -22,7 +22,7 @@
 
 #### (2) Security
 
-&emsp;All loans originated or participated in by a bank under this section shall be secured byfirst liens on interests in real estate of such classes as may be prescribed by regulations of the Farm Credit Administration.
+&emsp;All loans originated or participated in by a bank under this section shall be secured by first liens on interests in real estate of such classes as may be prescribed by regulations of the Farm Credit Administration.
 
 #### (3) Value of security
 
@@ -37,6 +37,8 @@
 Loans, other than real estate loans, and discounts made under the provisions of this subchapter shall be repayable in not more than 7 years (15 years if made to producers or harvesters of aquatic products) from the time that such are made or discounted by the Farm Credit Bank, except that the Board of Directors, under regulations of the Farm Credit Administration, may approve policies permitting loans, advances, or discounts (other than those made to producers or harvesters of aquatic products) to be repayable in not more than 10 years from the time that such are made or discounted by such bank.
 
 (Pub. L. 92–181, title I, §1.10, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1627; amended Pub. L. 100–399, title IV, §401(h), (i), Aug. 17, 1988, 102 Stat. 996; Pub. L. 104–105, title II, §§202, 203, Feb. 10, 1996, 110 Stat. 172.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -55,6 +57,8 @@ Subsec. (a)(5). Pub. L. 104–105, §203, struck out heading and text of par. (5
 Subsec. (a)(3). Pub. L. 100–399, §401(h)(2), substituted "under standards" for "under appraisal standards" and "in accordance with regulations of" for "and approved by".
 
 Subsec. (b). Pub. L. 100–399, §401(i), substituted "harvesters of aquatic products) from" for "harvester of aquatic products) from".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

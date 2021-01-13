@@ -144,7 +144,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Conforming amendment relating to generation-skipping transfers.—The amendment made bysubsection (b)(2) \[amending section 2631 of this title\] shall apply to generation-skipping transfers after December 31, 2010."
+Conforming amendment relating to generation-skipping transfers.—The amendment made by subsection (b)(2) \[amending section 2631 of this title\] shall apply to generation-skipping transfers after December 31, 2010."
 
 #### Effective Date of 2001 Amendment
 

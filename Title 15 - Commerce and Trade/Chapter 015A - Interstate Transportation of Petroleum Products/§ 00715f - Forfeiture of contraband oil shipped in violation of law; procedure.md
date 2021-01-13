@@ -6,7 +6,7 @@ Contraband oil shipped or transported in interstate commerce in violation of the
 
 #### (b) Certificates of clearance
 
-No such forfeiture shall be made in the case of contraband oil owned by any person (other than a person shipping such contraband oil in violation of the provisions of this chapter) who has with respect to such contraband oil a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of section 715d of this title, certifying that the shipment in question is not contraband oil, and such person had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact.
+No such forfeiture shall be made in the case of contraband oil owned by any person (other than a person shipping such contraband oil in violation of the provisions of this chapter) who has with respect to such contraband oil a certificate of clearance which on its face appears to bevalid and to have been issued by a board created under authority of section 715d of this title, certifying that the shipment in question is not contraband oil, and such person had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact.
 
 (Feb. 22, 1935, ch. 18, §7, 49 Stat. 32.)
 

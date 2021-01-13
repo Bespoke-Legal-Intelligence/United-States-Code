@@ -22,7 +22,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (3) Statutory construction
 
-&emsp;Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this part had not been enacted.
+&emsp;Nothing in this subsection shall be deemed to prohibit the discontinuance or modificationof any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this part had not been enacted.
 
 #### (c) Nonabatement of proceedings
 
@@ -36,7 +36,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (2) Liability of the Board
 
-&emsp;The Board shall participate in suits continued under paragraph (1) where the Broadcasting Board of Governors or other appropriate official of the Board is added as a party and shall be liable for any judgments or remedies in those suits or proceedings arising from the exercise of the functions transferredby this part to the same extent that USIA would have been liable if such judgment or remedy had been rendered on the day before the abolition of USIA.
+&emsp;The Board shall participate in suits continued under paragraph (1) where the Broadcasting Board of Governors or other appropriate official of the Board is added as a party and shall be liable for any judgments or remedies in those suits or proceedings arising from the exercise of the functions transferred by this part to the same extent that USIA would have been liable if such judgment or remedy had been rendered on the day before the abolition of USIA.
 
 #### (e) Administrative actions relating to promulgation of regulations
 
@@ -48,11 +48,15 @@ Reference in any other Federal law, Executive order, rule, regulation, or delega
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1327, Oct. 21, 1998, 112 Stat. 2681–783.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), (d)(1), (e), and (f), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
 This part, referred to in subsecs. (b) to (e), was in the original "this chapter", meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

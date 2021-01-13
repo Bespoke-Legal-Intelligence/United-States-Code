@@ -22,7 +22,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;(1) consolidating data from all relevant surveillance systems maintained by Member Agencies to detect biological events of national concern across human, animal, and plant species;
 
-&emsp;(2) seeking private sources of surveillance, both foreign and domestic, when such sources would enhance coverage of critical surveillance gaps;
+&emsp;(2) seeking private sources of surveillance, both foreign and domestic, when such sourceswould enhance coverage of critical surveillance gaps;
 
 &emsp;(3) using an information technology system that uses the best available statistical and other analytical tools to identify and characterize biological events of national concern in as close to real-time as is practicable;
 
@@ -138,9 +138,13 @@ In this section:
 
 (Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375; amended Pub. L. 115–387, §2(f)(2), Dec. 21, 2018, 132 Stat. 5168.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–387 substituted "Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall" for "Secretary shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Implementation
 

@@ -34,7 +34,7 @@ The Secretary shall have the authority under this subchapter to conduct or to re
 
 &emsp;&emsp;&emsp;(i) to conduct such testing and reporting for 25 percent of its tobacco products during each year of such 4-year period; and
 
-&emsp;&emsp;&emsp;(ii) to conduct such testing and reporting for its largest-selling tobacco products (as determined by the Secretary) before its other tobacco products, or in such other order of priority as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) to conduct such testing and reporting for its largest-selling tobacco products (as determined by the Secretary) before its other tobacco products, or in such otherorder of priority as determined by the Secretary.
 
 #### (B) Case-by-case delay
 
@@ -82,9 +82,13 @@ Nothing in subsection (d) or (e) shall be construed to authorize the extension o
 
 (June 25, 1938, ch. 675, §915, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (f), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification of Deadlines for Secretarial Action
 

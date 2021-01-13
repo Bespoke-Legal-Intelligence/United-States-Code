@@ -4,7 +4,7 @@
 
 The Secretary is authorized, subject to the availability of appropriations, to make grants to tribally controlled colleges or universities which receive grants under either this chapter or the Navajo Community College Act for the establishment and support of tribal economic development and education institutes. Each program conducted with assistance under a grant under this subsection shall include at least the following activities:
 
-&emsp;(1) Determination of the economic development needs and potential of the Indian tribesinvolved in the program, including agriculture and natural resources needs.
+&emsp;(1) Determination of the economic development needs and potential of the Indian tribes involved in the program, including agriculture and natural resources needs.
 
 &emsp;(2) Development of consistent courses of instruction to prepare postsecondary students, tribal officials and others to meet the needs defined under paragraph (1). The development of such courses may be coordinated with secondary institutions to the extent practicable.
 
@@ -26,6 +26,8 @@ Institutions which receive funds under other subchapters of this chapter or the 
 
 (Pub. L. 95–471, title IV, §402, as added Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804; amended Pub. L. 105–244, title IX, §901(b)(6), Oct. 7, 1998, 112 Stat. 1828.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of this title and was omitted from the Code as being of special and not general application.
@@ -35,6 +37,8 @@ This subchapter, referred to at the end of subsec. (c), was in the original "thi
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted "colleges or universities" for "community colleges" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

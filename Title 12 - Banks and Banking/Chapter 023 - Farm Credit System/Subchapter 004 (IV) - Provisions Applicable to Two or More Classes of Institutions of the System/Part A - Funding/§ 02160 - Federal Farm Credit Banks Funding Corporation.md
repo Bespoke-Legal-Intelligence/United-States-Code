@@ -34,7 +34,7 @@ The Corporation—
 
 &emsp;&emsp;(B) Three voting members shall be chief executive officers or presidents of System banks elected by the shareholders of the Corporation.
 
-&emsp;&emsp;(C) Two voting members shall be appointed by the members elected under subparagraphs\(A) and (B) after the elected members have received recommendations for such appointments from, and consulted with, the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System. The appointed members shall be selected from United States citizens—
+&emsp;&emsp;(C) Two voting members shall be appointed by the members elected under subparagraphs (A) and (B) after the elected members have received recommendations for such appointments from, and consulted with, the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System. The appointed members shall be selected from United States citizens—
 
 &emsp;&emsp;&emsp;(i) who are not borrowers from, shareholders in, or employees or agents of any System institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bank or investment organization that is a member of the Corporation's selling group for System-wide securities; and
 
@@ -69,6 +69,8 @@ The Corporation—
 &emsp;The succession to assets, assumption of liabilities, conversion of obligations, instruments, and stock, and effectuation of any other transaction by the Corporation to carry out this subsection shall not be treated as a taxable event under the laws of any State or political subdivision thereof.
 
 (Pub. L. 92–181, title IV, §4.9, Dec. 10, 1971, 85 Stat. 612; Pub. L. 100–233, title II, §204(a), Jan. 6, 1988, 101 Stat. 1605; Pub. L. 100–399, title II, §203(a)–(d), Aug. 17, 1988, 102 Stat. 992, 993; Pub. L. 102–552, title V, §507, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 115–334, title V, §5411(19), Dec. 20, 2018, 132 Stat. 4681.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -106,7 +108,9 @@ Subsec. (e). Pub. L. 100–399, §203(d), amended subsec. (e) generally. Prior t
 
 Subsec. (f). Pub. L. 100–399, §203(a), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

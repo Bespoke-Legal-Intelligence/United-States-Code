@@ -28,7 +28,7 @@ Certification provided under subsection (a) shall be sufficient if it states—
 
 #### (1) In general
 
-&emsp;In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title, the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
+&emsp;In any case in which the employer has reason to doubt the validity of the certificationprovided under subsection (a) for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title, the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
 
 #### (2) Limitation
 
@@ -54,6 +54,8 @@ An employer may require that a request for leave under section 2612(a)(1)(E) of 
 
 (Pub. L. 103–3, title I, §103, Feb. 5, 1993, 107 Stat. 11; Pub. L. 110–181, div. A, title V, §585(a)(3)(E), Jan. 28, 2008, 122 Stat. 130; Pub. L. 111–84, div. A, title V, §565(a)(1)(C), Oct. 28, 2009, 123 Stat. 2310.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "covered active duty" for "active duty" in two places in heading.
@@ -61,6 +63,8 @@ An employer may require that a request for leave under section 2612(a)(1)(E) of 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181, §585(a)(3)(E)(i), substituted "paragraph (1) or paragraph (3) of section 2612(a)" for "section 2612(a)(1)" and inserted "or of the next of kin of an individual in the case of leave taken under such paragraph (3)," after "parent of the employee,".
 
 Subsec. (f). Pub. L. 110–181, §585(a)(3)(E)(ii), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

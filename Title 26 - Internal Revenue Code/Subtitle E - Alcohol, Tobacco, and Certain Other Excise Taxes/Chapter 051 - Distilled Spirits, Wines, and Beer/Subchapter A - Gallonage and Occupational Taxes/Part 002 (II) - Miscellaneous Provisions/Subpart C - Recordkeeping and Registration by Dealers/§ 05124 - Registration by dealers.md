@@ -1,6 +1,6 @@
 ### §5124. Registration by dealers
 
-Every dealer who is subject to the recordkeeping requirements under section 5121 or 5122shall register with the Secretary such dealer's name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In the case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
+Every dealer who is subject to the recordkeeping requirements under section 5121 or 5122 shall register with the Secretary such dealer's name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In the case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
 
 (Added Pub. L. 109–59, title XI, §11125(b)(8), Aug. 10, 2005, 119 Stat. 1955.)
 

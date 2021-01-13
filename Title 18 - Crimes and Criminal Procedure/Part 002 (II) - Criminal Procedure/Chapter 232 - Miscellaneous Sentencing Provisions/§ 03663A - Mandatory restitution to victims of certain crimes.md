@@ -1,6 +1,6 @@
 ### §3663A. Mandatory restitution to victims of certain crimes
 
-(a)(1) Notwithstanding any other provision of law, when sentencing a defendant convicted of an offense described in subsection (c), the court shall order, in addition to, or in the case of a misdemeanor, in addition to or in lieu of, any other penalty authorized by law, that the defendant make restitution to the victim of the offense or, if the victim is deceased, to the victim's estate.
+(a)(1) Notwithstanding any other provision of law, when sentencing a defendant convicted of an offense described in subsection (c), the courtshall order, in addition to, or in the case of a misdemeanor, in addition to or in lieu of, any other penalty authorized by law, that the defendant make restitution to the victim of the offense or, if the victim is deceased, to the victim's estate.
 
 (2) For the purposes of this section, the term "victim" means a person directly and proximately harmed as a result of the commission of an offense for which restitution may be ordered including, in the case of an offense that involves as an element a scheme, conspiracy, or pattern of criminal activity, any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern. In the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, may assume the victim's rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
@@ -42,15 +42,17 @@
 
 &emsp;&emsp;(ii) an offense against property under this title, or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a)), including any offense committed by fraud or deceit;
 
-&emsp;&emsp;(iii) an offense described in section 1365 (relating to tampering with consumer products); or
+&emsp;&emsp;(iii) an offense described in section 3 of the Rodchenkov Anti-Doping Act of 2019;
 
-&emsp;&emsp;(iv) an offense under section 670 (relating to theft of medical products); and
+&emsp;&emsp;(iv) an offense described in section 1365 (relating to tampering with consumer products); or
+
+&emsp;&emsp;(v) an offense under section 670 (relating to theft of medical products); and
 
 &emsp;(B) in which an identifiable victim or victims has suffered a physical injury or pecuniary loss.
 
 (2) In the case of a plea agreement that does not result in a conviction for an offense described in paragraph (1), this section shall apply only if the plea specifically states that an offense listed under such paragraph gave rise to the plea agreement.
 
-(3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) if the court finds, from facts on the record, that—
+(3) This section shall not apply in the case of an offense described in paragraph (1)(A)(ii) or (iii) if the court finds, from facts on the record, that—
 
 &emsp;(A) the number of identifiable victims is so large as to make restitution impracticable; or
 
@@ -58,15 +60,27 @@
 
 (d) An order of restitution under this section shall be issued and enforced in accordance with section 3664.
 
-(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, §6, Oct. 5, 2012, 126 Stat. 1430.)
+(Added Pub. L. 104–132, title II, §204(a), Apr. 24, 1996, 110 Stat. 1227; amended Pub. L. 106–310, div. B, title XXXVI, §3613(d), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 112–186, §6, Oct. 5, 2012, 126 Stat. 1430; Pub. L. 116–206, §5, Dec. 4, 2020, 134 Stat. 1000.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 3 of the Rodchenkov Anti-Doping Act of 2019, referred to in subsec. (c)(1)(A)(iii), is classified to section 2402 of Title 21, Food and Drugs.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, §5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+
+Subsec. (c)(3). Pub. L. 116–206, §5(2), inserted "or (iii)" after "paragraph (1)(A)(ii)" in introductory provisions.
 
 <b>2012</b>—Subsec. (c)(1)(A)(iv). Pub. L. 112–186 added cl. (iv).
 
 <b>2000</b>—Subsec. (c)(1)(A)(ii). Pub. L. 106–310 inserted "or under section 416(a) of the Controlled Substances Act (21 U.S.C. 856(a))," after "under this title,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
+Section to be effective, to extent constitutionally permissible, for sentencing proceedings in cases inwhich defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as an Effective Date of 1996 Amendment note under section 2248 of this title.
 

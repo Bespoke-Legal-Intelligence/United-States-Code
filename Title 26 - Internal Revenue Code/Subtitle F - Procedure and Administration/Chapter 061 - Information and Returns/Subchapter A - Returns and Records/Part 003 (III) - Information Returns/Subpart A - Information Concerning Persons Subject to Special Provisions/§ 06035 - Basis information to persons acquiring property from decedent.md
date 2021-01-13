@@ -22,7 +22,7 @@
 
 #### (B) Adjustments
 
-&emsp;&emsp;In any case in which there is an adjustment to the information required to be included on a statement filed under paragraph\(1) or (2) after such statement has been filed, a supplemental statement under such paragraph shall be filed not later than the date which is 30 days after such adjustment is made.
+&emsp;&emsp;In any case in which there is an adjustment to the information required to be included on a statement filed under paragraph (1) or (2) after such statement has been filed, a supplemental statement under such paragraph shall be filed not later than the date which is 30 days after such adjustment is made.
 
 #### (b) Regulations
 

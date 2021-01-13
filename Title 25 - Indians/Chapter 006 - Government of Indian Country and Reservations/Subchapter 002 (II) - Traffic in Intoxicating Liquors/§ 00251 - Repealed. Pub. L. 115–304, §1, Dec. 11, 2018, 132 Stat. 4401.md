@@ -2,6 +2,8 @@
 
 Section, R.S. §2141, established a penalty of $1,000 for setting up or continuing a distillery for manufacturing ardent spirits and mandated the destruction of the distillery.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### No Effect on Taxation or State Authority To Regulate Alcohol Within State Borders
 
 Pub. L. 115–304, §2, Dec. 11, 2018, 132 Stat. 4401, provided that:

@@ -8,7 +8,7 @@
 
 &emsp;(B) will displace petroleum or natural gas as a fuel.
 
-(2)(A) With respect to projects producing biomass energy other than biomass fuel, financial assistance under the provisions of sections 8832, 8833, and 8834 of this title shall be available only if the Secretary of Energy finds that the project does not use petroleum or natural gas except for flame stabilization or start-up.
+(2)(A) With respect to projects producing biomass energy other than biomass fuel, financial assistance under the provisions of sections 8832,8833, and 8834 of this title shall be available only if the Secretary of Energy finds that the project does not use petroleum or natural gas except for flame stabilization or start-up.
 
 (B) With respect to projects producing biomass fuel, financial assistance under such provisions shall be available to such project only if the Secretary of Energy finds that the Btu content of the biomass fuel produced substantially exceeds the Btu content of any petroleum or natural gas used in the project to produce the biomass fuel.
 
@@ -66,7 +66,7 @@ Financial assistance may not be provided under section 8832, 8833, or 8834 of th
 
 #### (e) Deposit of amounts received
 
-All amounts received by the Secretary of Energy as fees, interest, repayment of principal,and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the general fund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
+All amounts received by the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by the Secretary from operations under section 8832, 8833, or 8834 of this title shall be deposited in the general fund of <sup>1</sup> Treasury of the United States as miscellaneous receipts.
 
 #### (f) Contracts and instruments backed by full faith and credit of United States
 

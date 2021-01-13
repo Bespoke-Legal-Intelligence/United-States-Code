@@ -20,7 +20,7 @@ The Congress makes the following findings:
 
 &emsp;(9) The increasing rate of drug abuse constitutes a serious and continuing threat to national health and welfare, requiring an immediate and effective response on the part of the Federal Government.
 
-&emsp;(10) Although the Congress observed a significant apparent reduction in the rate of increase of drug abuse during the three-year period subsequent to March 21, 1972, and in certain areas of the country apparent temporary reductions in its incidence, the increase and spread of heroin consumption since 1974, and the continuing abuse of other dangerous drugs,clearly indicate the need for effective, ongoing, and highly visible Federal leadership in the formation and execution of a comprehensive, coordinated drug abuse policy.
+&emsp;(10) Although the Congress observed a significant apparent reduction in the rate of increase of drug abuse during the three-year period subsequent to March 21, 1972, and in certain areas of the country apparent temporary reductions in its incidence, the increase and spread of heroin consumption since 1974, and the continuing abuse of other dangerous drugs, clearly indicate the need for effective, ongoing, and highly visible Federal leadership in the formation and execution of a comprehensive, coordinated drug abuse policy.
 
 &emsp;(11) Shifts in the usage of various drugs and in the Nation's demographic composition require a Federal strategy to adjust the focus of drug abuse programs to meet new needs and priorities on a cost-effective basis.
 
@@ -32,11 +32,15 @@ The Congress makes the following findings:
 
 (Pub. L. 92–255, title I, §101, Mar. 21, 1972, 86 Stat. 66; Pub. L. 94–237, §1, Mar. 19, 1976, 90 Stat. 241; Pub. L. 96–181, §2, Jan. 2, 1980, 93 Stat. 1309.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pars. (11) to (14). Pub. L. 96–181 added pars. (11) to (14).
 
 <b>1976</b>—Par. (10). Pub. L. 94–237 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1980 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 96–181, §1(a), Jan. 2, 1980, 93 Stat. 1309, provided that: "This Act 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–461, §1, Oct. 14, 1978, 92 Stat. 1268, provided that: "This Act \[enacting section 1194 of this title, amending sections 1172, 1176, 1177, 1192, and 1193 of this title, enacting a provision set out as a note under section 1172 of this title and amending a provision set out as a note under section 242 of Title 42, The Public Health and Welfare\] may be cited as the 'Drug Abuse Prevention and Treatment Amendments of 1978'. "
+Pub. L. 95–461, §1, Oct. 14, 1978, 92 Stat. 1268, provided that: "This Act \[enacting section 1194 of this title, amending sections 1172, 1176, 1177, 1192, and 1193 of this title, enacting a provision set out as a note under section 1172 of this title and amending a provision set out as a note under section 242 of Title 42, The Public Health and Welfare\] may be cited as the 'Drug Abuse Prevention and Treatment Amendments of 1978'."
 
 #### Short Title
 

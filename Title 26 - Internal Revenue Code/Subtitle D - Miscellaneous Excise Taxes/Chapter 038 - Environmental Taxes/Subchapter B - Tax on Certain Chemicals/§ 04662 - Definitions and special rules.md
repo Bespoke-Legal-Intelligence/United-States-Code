@@ -138,7 +138,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) beginning on the date that the corrective action is required by the Administrator or an authorized State pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) a final permit under section 3005 of the Solid Waste Disposal Act or a final order under section 3004 or 3008 of such Act, or
+&emsp;&emsp;&emsp;&emsp;(I) a final permit under section 3005 of the Solid Waste Disposal Act or a finalorder under section 3004 or 3008 of such Act, or
 
 &emsp;&emsp;&emsp;&emsp;(II) a final order under section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
 
@@ -234,7 +234,7 @@ For purposes of this subchapter—
 
 #### (C) Inventory exchange
 
-&emsp;&emsp;For purposes of this paragraph, the term "inventory exchange" means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
+&emsp;&emsp;For purposes of this paragraph, the term "inventory exchange" means any exchangein which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
 
 #### (d) Refund or credit for certain uses
 

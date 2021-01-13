@@ -4,11 +4,15 @@ The Secretary of the Interior shall exercise all the powers and perform all the 
 
 (R.S. §442.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §442 derived from act Mar. 1, 1873, ch. 217, 17 Stat. 484.
 
 Section was formerly classified to section 486 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -22,13 +26,13 @@ By virtue of the authority vested in me by section 48 of the Hawaii Omnibus Act 
 
 Section 1. The Secretary of the Interior shall be responsible for the civil administration of Palmyra Island and all executive and legislative authority necessary for that administration, and all judicial authority respecting Palmyra Island other than the authority contained in the Act of June 15, 1950 (64 Stat. 217), as amended (48 U.S.C. 644a), shall be vested in the Secretary of the Interior.
 
-Sec. 2. The executive, legislative, and judicial authority provided for in section 1 of this order (1) may be exercised through such agency or agencies of the Department of the Interior, or through such officers or employees under the jurisdiction of the Secretary of the Interior, as the Secretary may direct or authorize, (2)may be exercised through such agency or agencies, other than or not in the Department of the Interior, or through such officers or employees of the United States not under the administrative supervision of the Secretary, for such time and under such conditions as may be agreed upon between the Secretary and such agency, agencies, officers or employees of the United States, and (3) shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
+Sec. 2. The executive, legislative, and judicial authority provided for in section 1 of this order (1) may be exercised through such agency or agencies of the Department of the Interior, or through such officers or employees under the jurisdiction of the Secretary of the Interior, as the Secretary may direct or authorize, (2) may be exercised through such agency or agencies, other than or not in the Department of the Interior, or through such officers or employees of the United States not under the administrative supervision of the Secretary, for such time and under such conditions as may be agreed upon between the Secretary and such agency, agencies, officers or employees of the United States, and (3) shall be exercised in such manner as the Secretary, or any person or persons acting under the authority of the Secretary, may direct or authorize.
 
 Sec. 3. The Secretary of the Interior may confer upon the United States District Court for the District of Hawaii such jurisdiction, in addition to that contained in the Act of June 15, 1950 \[48 U.S.C. 644a\], and such judicial functions and duties, as he may deem appropriate for the civil administration of Palmyra Island.
 
 Sec. 4. The foregoing provisions of this order shall continue in force until the Congress shall provide for the civil administration of Palmyra Island or until such earlier time as the President may specify.
 
-Sec. 5. As used herein, the term "Palmyra Island" means the place of that name, consisting of a group of islets located in the Pacific Ocean approximately at Latitude 5°52″ North and Longitude 162°06″ West, and includes the territorial waters of that place and includes also the reefs surrounding that place or any part thereof.
+Sec. 5. As used herein, the term "Palmyra Island" means the place of that name, consisting of a group ofislets located in the Pacific Ocean approximately at Latitude 5°52″ North and Longitude 162°06″ West, and includes the territorial waters of that place and includes also the reefs surrounding that place or any part thereof.
 
 Sec. 6. To the extent that any prior Executive order or proclamation is inconsistent with the provisions of this order, this order shall control.
 

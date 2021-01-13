@@ -28,7 +28,7 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 &emsp;&emsp;(i) the regulation adopted by the California Energy Commission with an effective date of January 1, 2008, shall only be effective until the effective date of the Federal standard for the applicable lamp category under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title; and
 
-&emsp;&emsp;(ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to the Federal effective dates prescribed under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title, at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective.
+&emsp;&emsp;(ii) the States of California and Nevada may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards with effective dates no earlier than 12 months prior to theFederal effective dates prescribed under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title, at which time any prior regulations adopted by the State of California or Nevada shall no longer be effective.
 
 &emsp;(2) is a State procurement regulation described in subsection (e);
 
@@ -56,7 +56,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(5) is a regulation concerning the water use of lavatory or kitchen faucets adopted by the State of Rhode Island prior to October 24, 1992;
 
-&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, exceptthat such a regulation shall be effective only until January 1, 1997; or
+&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, except that such a regulation shall be effective only until January 1, 1997; or
 
 &emsp;(7)(A) is a regulation concerning standards for commercial prerinse spray valves adopted by the California Energy Commission before January 1, 2005; or
 
@@ -78,7 +78,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 (1)(A) Any State or river basin commission with a State regulation which provides for any energy conservation standard or other requirement with respect to energy use, energy efficiency, or water use for any type (or class) of covered product for which there is a Federal energy conservation standard under section 6295 of this title may file a petition with the Secretary requesting a rule that such State regulation become effective with respect to such covered product.
 
-(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described in paragraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
+(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described in paragraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (andpublishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
 
 (C) For purposes of this subsection, the term "unusual and compelling State or local energy or water interests" means interests which—
 
@@ -114,7 +114,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;&emsp;(i) there exists within the State an energy emergency condition or, if the State regulation provides for an energy conservation standard or other requirement with respect to the water use of a covered product for which there is a Federal energy conservation standard under subsection (j) or (k) of section 6295 of this title, a water emergency condition, which—
 
-&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy or, in the case of a water emergency condition, water or wastewater treatment, to its residents at less than prohibitive costs; and
+&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy or, in the case of a water emergency condition, water or wastewatertreatment, to its residents at less than prohibitive costs; and
 
 &emsp;&emsp;&emsp;(II) cannot be substantially alleviated by the importation of energy or, in the case of a water emergency condition, by the importation of water, or by the use of interconnection agreements; and
 
@@ -152,7 +152,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(F) The energy consumption or conservation objective is specified in terms of an estimated total consumption of energy (which may be calculated from energy loss- or gain-based codes) utilizing an equivalent amount of energy (which may be specified in units of energy or its equivalent cost).
 
-&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimated energy use calculation to be adjusted to reflect the conditions of the areas where the code is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
+&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimated energy use calculation to be adjusted to reflect the conditions of the areas where thecode is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
 
 (4)(A) Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
 
@@ -208,7 +208,7 @@ Subsec. (d)(5)(B)(i). Pub. L. 102–486, §123(h)(5), added cl. (i) and struck o
 
 Subsec. (b)(4). Pub. L. 100–357, §2(f)(2), inserted before semicolon ", or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable".
 
-Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon ", except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts".
+Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon ", except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by theSecretary under paragraph (7) of such section and is applicable to such ballasts".
 
 <b>1987</b>—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (g) provisions formerly contained in subsecs. (a) to (e).
 

@@ -1,6 +1,6 @@
 ### §1841. Definitions
 
-(a)(1) Except as provided in paragraph (5) of this subsection, "bank holding company" meansany company which has control over any bank or over any company that is or becomes a bank holding company by virtue of this chapter.
+(a)(1) Except as provided in paragraph (5) of this subsection, "bank holding company" means any company which has control over any bank or over any company that is or becomes a bank holding company by virtue of this chapter.
 
 (2) Any company has control over a bank or over any company if—
 
@@ -88,7 +88,7 @@ Exceptions.—The term "bank" does not include any of the following:
 
 &emsp;&emsp;&emsp;(i) engages only in credit card operations;
 
-&emsp;&emsp;&emsp;(ii) does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others;
+&emsp;&emsp;&emsp;(ii) does not accept demand deposits or deposits that the depositor may withdrawby check or similar means for payment to third parties or others;
 
 &emsp;&emsp;&emsp;(iii) does not accept any savings or time deposit of less than $100,000;
 
@@ -114,7 +114,7 @@ Exceptions.—The term "bank" does not include any of the following:
 
 (d) "Subsidiary", with respect to a specified bank holding company, means (1) any company 25 per centum or more of whose voting shares (excluding shares owned by the United States or by any company wholly owned by the United States) is directly or indirectly owned or controlled by such bank holding company, or is held by it with power to vote; (2) any company the election of a majority of whose directors is controlled in any manner by such bank holding company; or (3) any company with respect to the management of policies of which such bank holding company has the power, directly or indirectly, to exercise a controlling influence, as determined by the Board, after notice and opportunity for hearing.
 
-(e) The term "successor" shall include any company which acquires directly or indirectlyfrom a bank holding company shares of any bank, when and if the relationship between such company and the bank holding company is such that the transaction effects no substantial change in the control of the bank or beneficial ownership of such shares of such bank. The Board may, by regulation, further define the term "successor" to the extent necessary to prevent evasion of the purposes of this chapter.
+(e) The term "successor" shall include any company which acquires directly or indirectly from a bank holding company shares of any bank, when and if the relationship between such company and the bank holding company is such that the transaction effects no substantial change in the control of the bank or beneficial ownership of such shares of such bank. The Board may, by regulation, further define the term "successor" to the extent necessary to prevent evasion of the purposes of this chapter.
 
 (f) "Board" means the Board of Governors of the Federal Reserve System.
 
@@ -132,7 +132,7 @@ Exceptions.—The term "bank" does not include any of the following:
 
 (4) No domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of a section 2(h)(2) company may extend credit to a domestic office or subsidiary of such section 2(h)(2) company on terms more favorable than those afforded similar borrowers in the United States.
 
-(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or market products or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
+(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or marketproducts or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
 
 (i)
 
@@ -192,7 +192,7 @@ Adequately capitalized.—With respect to a bank holding company, the term "adeq
 
 &emsp;&emsp;&emsp;(ii)
 
-Well capitalized.—A bank holding company is "well capitalized" if it meetsthe required capital levels for well capitalized bank holding companies established by the Board.
+Well capitalized.—A bank holding company is "well capitalized" if it meets the required capital levels for well capitalized bank holding companies established by the Board.
 
 &emsp;&emsp;(C)
 
@@ -250,7 +250,7 @@ Lead insured depository institutions.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "lead insured depository institution" means the largest insured depository institution controlled by the subject bank holding company at any time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
+In general.—The term "lead insured depository institution" means the largestinsured depository institution controlled by the subject bank holding company at any time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
 
 &emsp;&emsp;(B)
 
@@ -313,6 +313,8 @@ Financial Holding Company.—For purposes of this chapter, the term "financial h
 Insurance Company.—For purposes of sections 1843 and 1844 of this title, the term "insurance company" includes any person engaged in the business of insurance to the extent of such activities.
 
 (May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471; Pub. L. 108–386, §8(c)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(h)(1), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 109–351, title VII, §§706, 727(a), Oct. 13, 2006, 120 Stat. 1987, 2003; Pub. L. 111–203, title III, §354(1), title VI, §§623(b)(2), 628, July 21, 2010, 124 Stat. 1546, 1635, 1640.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -410,7 +412,7 @@ Subsec. (d)(3). Pub. L. 91–607, §101(d), added cl. (3).
 
 Subsec. (i). Pub. L. 91–607, §101(e), added subsec. (i).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–485, §1, struck out provision placing within the classification of bank holding company any company for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees, struck out provision exempting from classification as bank holding companies any companies that are registered under the Investment Company Act of 1940, and were so registered prior to May 15, 1955 (or which is affiliated with anysuch company in such manner as to constitute an affiliated company within the meaning of that Act), unless that company (or affiliated company), as the case may be, directly owns 25 per centum or more of the voting shares of each of two or more banks, struck out provision exempting from classification as bank holding companies any companies having 80 per centum or more of their total assets composed of holdings in the field of agriculture, substituted voting shares for shares in the description of the securities the ownership or control of which, in a fiduciary capacity, would be exempted from causing the formation of a bank holding company, added "company" to "bank" as the business entities eligible for the fiduciary ownership exemption, and inserted reference in the fiduciary ownership exemption to pars. (2) and (3) of subsec. (g) of this section.
+<b>1966</b>—Subsec. (a). Pub. L. 89–485, §1, struck out provision placing within the classification of bank holding company any company for the benefit of whose shareholders or members 25 per centum or more of the voting shares of each of two or more banks or a bank holding company is held by trustees, struck out provision exempting from classification as bank holding companies any companies that are registered under the Investment Company Act of 1940, and were so registered prior to May 15, 1955 (or which is affiliated with any such company in such manner as to constitute an affiliated company within the meaning of that Act), unless that company (or affiliated company), as the case may be, directly owns 25 per centum or more of the voting shares of each of two or more banks, struck out provision exempting from classification as bank holding companies any companies having 80 per centum or more of their total assets composed of holdings in the field of agriculture, substituted voting shares for shares in the description of the securities the ownership or control of which, in a fiduciary capacity, would be exempted from causing the formation of a bank holding company, added "company" to "bank" as the business entities eligible for the fiduciary ownership exemption, and inserted reference in the fiduciary ownership exemption to pars. (2) and (3) of subsec. (g) of this section.
 
 Subsec. (b). Pub. L. 89–485, §2, exempted from definition of "company" any trust which by its terms must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust, and struck out the exemption formerly granted to nonprofit religious, charitable, and educational organizations.
 
@@ -421,6 +423,8 @@ Subsec. (d). Pub. L. 89–485, §4, inserted provision relating to indirect owne
 Subsec. (g). Pub. L. 89–485, §§5, 6, substituted provisions setting out treatment to be accorded shares owned or controlled by subsidiaries of bank holding companies, shares held or controlled by trustees for the benefit of companies, shareholders or members of companies, and employees of companies, and shares transferred after January 1, 1966, by bank holding companies to transferees that are indebted to the transferor or have one or more officers, directors, trustees, or beneficiaries in common with the transferor for provisions defining "agriculture".
 
 Subsec. (h). Pub. L. 89–485, §6, added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

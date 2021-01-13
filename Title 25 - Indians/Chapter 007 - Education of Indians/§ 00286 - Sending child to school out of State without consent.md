@@ -4,11 +4,15 @@ No Indian child shall be sent from any Indian reservation to a school beyond the
 
 (Aug. 15, 1894, ch. 290, §11, 28 Stat. 313; Mar. 2, 1895, ch. 188, §1, 28 Stat. 906.)
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indian Agents
 
 The services of Indian agents have been dispensed with. See note set out under section 64 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

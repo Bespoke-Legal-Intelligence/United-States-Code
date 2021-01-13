@@ -14,6 +14,8 @@
 
 (Added May 24, 1949, ch. 139, §23, 63 Stat. 92; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".

@@ -12,7 +12,7 @@
 
 (f) The terms "President-elect" and "Vice-President-elect" as used in this section shall mean such persons as are the apparent successful candidates for the offices of President and Vice President, respectively, as ascertained from the results of the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 
-(g) The Attorney General of the United States, in his discretion is authorized to pay an amountnot to exceed $100,000 for information and services concerning a violation of subsection (a)(1). Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this subsection.
+(g) The Attorney General of the United States, in his discretion is authorized to pay an amount not to exceed $100,000 for information and services concerning a violation of subsection (a)(1). Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this subsection.
 
 (h) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 
@@ -23,6 +23,8 @@
 (k) There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
 (Added Pub. L. 89–141, §1, Aug. 28, 1965, 79 Stat. 580; amended Pub. L. 97–285, §§3, 4(a), Oct. 6, 1982, 96 Stat. 1220; Pub. L. 103–322, title XXXII, §320101(e), title XXXIII, §§330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, §604(b)(12)(D), Oct. 11, 1996, 110 Stat. 3507.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ Subsec. (e). Pub. L. 97–285, §3(b), substituted "(a)(1)" for "(a)" and insert
 Subsec. (g). Pub. L. 97–285, §3(c), substituted "subsection (a)(1)" for "this section" after "a violation of".
 
 Subsecs. (j), (k). Pub. L. 97–285, §3(d), added subsecs. (j) and (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

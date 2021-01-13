@@ -20,7 +20,7 @@ For any State exercising primary enforcement responsibility for public water sys
 
 #### (2) State grants
 
-&emsp;The reimbursement shall be provided through grants to States with each State receiving an amount sufficient to cover the reasonable costs for training all such operators in the State, as determined by the Administrator, to the extent required by this section. Grants received by a State pursuant to this paragraph shall first be used to provide reimbursement for training and certification costs of persons operating systems serving 3,300 persons or fewer. If a State has reimbursed all such costs, the State may, after notice to the Administrator, use any remaining funds fromthe grant for any of the other purposes authorized for grants under section 300j–12 of this title.
+&emsp;The reimbursement shall be provided through grants to States with each State receiving an amount sufficient to cover the reasonable costs for training all such operators in the State, as determined by the Administrator, to the extent required by this section. Grants received by a State pursuant to this paragraph shall first be used to provide reimbursement for training and certification costs of persons operating systems serving 3,300 persons or fewer. If a State has reimbursed all such costs, the State may, after notice to the Administrator, use any remaining funds from the grant for any of the other purposes authorized for grants under section 300j–12 of this title.
 
 #### (3) Authorization
 

@@ -12,6 +12,8 @@ Punishment provision of section 45 of title 50, U.S.C., 1940 ed., War and Nation
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

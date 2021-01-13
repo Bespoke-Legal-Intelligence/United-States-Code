@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or laboring experience and knowledge as the paramount requirement; and
 
-&emsp;&emsp;(C) an employee of the Veterans' Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including a foreman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
+&emsp;&emsp;(C) an employee of the Veterans' Canteen Service, Department of Veterans Affairs, excepted from chapter 51 of this title by section 5102(c)(14) of this title who is employed in a recognized trade or craft, or other skilled mechanical craft, or in an unskilled, semiskilled, or skilled manual labor occupation, and any other individual, including aforeman and a supervisor, in a position having trade, craft, or labor experience and knowledge as the paramount requirement; and
 
 &emsp;(3) "position" means the work, consisting of duties and responsibilities, assignable to a prevailing rate employee.
 
@@ -44,9 +44,11 @@
 
 (3) This subchapter, except section 5348, does not apply to officers and members of crews of vessels excepted from chapter 51 of this title by section 5102(c)(8) of this title.
 
-(c) Each prevailing rate employee employed within any of the several States or the Districtof Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
+(c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
 (Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, \[div. A\], title IX, §931(a)(1), Oct. 14, 2008, 122 Stat. 4575.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -75,6 +77,8 @@ Subsec. (a)(1)(L). Pub. L. 104–201, §1122(a)(1), substituted "National Imager
 <b>1980</b>—Subsec. (a)(1)(J). Pub. L. 96–191 added subpar. (J).
 
 <b>1979</b>—Subsec. (a)(1)(G). Pub. L. 96–70 substituted "Commission" for "Company".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

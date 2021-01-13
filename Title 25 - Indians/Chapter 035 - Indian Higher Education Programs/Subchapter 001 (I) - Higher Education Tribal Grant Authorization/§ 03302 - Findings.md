@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the needs of these students far outpace the resources available currently;
 
-&emsp;(3) Indian tribes have shown an increasing interest in administering programs servingthese individuals and making decisions on these programs reflecting their determinations of the tribal and human needs;
+&emsp;(3) Indian tribes have shown an increasing interest in administering programs serving these individuals and making decisions on these programs reflecting their determinations of the tribal and human needs;
 
 &emsp;(4) the contracting process under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] has provided a mechanism for the majority of the tribes to assume control over this program from the Bureau of Indian Affairs;
 
@@ -17,6 +17,8 @@ The Congress finds that—
 &emsp;(7) these services are part of the Federal Government's continuing trust responsibility to provide education services to American Indian and Alaska Natives.
 
 (Pub. L. 102–325, title XIII, §1312, July 23, 1992, 106 Stat. 798.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

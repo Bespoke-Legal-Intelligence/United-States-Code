@@ -1,0 +1,98 @@
+### §3372. Undefinitized contractual actions: requirements and limitations relating to definitization of contractual terms, specifications, and price
+
+(a)
+
+Contractual Action to Provide Time for Definitization of Contractual Terms, Specifications, and Price; Limitations on Obligation of Funds.—
+
+&emsp;(1)
+
+Terms for time for definitization to be included in contractual action.—A contracting officer of the Department of Defense may not enter into an undefinitized contractual action unless the contractual action provides for agreement upon contractual terms, specifications, and price by the earlier of—
+
+&emsp;&emsp;(A) the end of the 180-day period beginning on the date on which the contractor submits a qualifying proposal to definitize the contractual terms, specifications, and price; or
+
+&emsp;&emsp;(B) the date on which the amount of funds obligated under the contractual action is equal to more than 50 percent of the negotiated overall ceiling price for the contractual action.
+
+&emsp;(2)
+
+Limitation on obligation of funds before definitization.—
+
+&emsp;&emsp;(A)
+
+50 percent limitation.—Except as provided in subparagraph (B), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+
+&emsp;&emsp;(B)
+
+75 percent limitation when contractor submits qualifying proposal.—If a contractor submits a qualifying proposal (as defined in section 3377(b) of this title) to definitize an undefinitized contractual action before an amount equal to more than 50 percent of the negotiated overall ceiling price is obligated on such action, the contracting officer for such action may not obligate with respect to such contractual action an amount that is equal to more than 75 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+
+&emsp;(3)
+
+Waiver authority.—The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if that head of an agency determines that the waiver is necessary in order to support any of the following operations:
+
+&emsp;&emsp;(A) A contingency operation.
+
+&emsp;&emsp;(B) A humanitarian or peacekeeping operation.
+
+&emsp;(4)
+
+Inapplicability with respect to purchase of initial spares.—This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
+
+(b)
+
+Limitation on Unilateral Definitization by Contracting Officer.—With respect to any undefinitized contractual action with a value greater than $50,000,000, if agreement is not reached on contractual terms, specifications, and price within the period or by the date provided in subsection (a)(1), the contracting officer may not unilaterally definitize those terms, specifications, or price over the objection of the contractor until—
+
+&emsp;(1) the service acquisition executive for the military department that awarded the contract, or the Under Secretary of Defense for Acquisition and Sustainment if the contract was awarded by a Defense Agency or other component of the Department of Defense, approves the definitization in writing;
+
+&emsp;(2) the contracting officer provides a copy of the written approval to the contractor; and
+
+&emsp;(3) a period of 30 calendar days has elapsed after the written approval is provided to the contractor.
+
+(c)
+
+Foreign Military Contracts.—
+
+&emsp;(1) 180
+
+\-day requirement.—Except as provided in paragraph (2), a contracting officer of the Department of Defense may not enter into an undefinitized contractual action for a foreign military sale unless the contractual action provides for agreement upon contractual terms, specifications, and price by the end of the 180-day period described in subsection (a)(1)(A).
+
+&emsp;(2)
+
+Waiver authority.—The requirement under paragraph (1) may be waived in accordance with subsection (a)(3).
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1819(a), (c), Jan. 1, 2021, 134 Stat. 4189.)
+
+#### Codification
+
+The text of subsec. (b) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1819(c)(1), (2), was based on Pub. L. 99–500, §101(c) \[title X,§908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, §1505(a), (b), Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 115–91, div. A, title VIII, §815(b), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
+
+The text of subsec. (c) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, §1819(c)(1), (3), was based on Pub. L. 115–91, div. A, title VIII, §815(a)(2), Dec. 12, 2017, 131 Stat. 1462.
+
+The text of subsec. (h) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, §1819(c)(1), (4), was based on Pub. L. 114–328, div. A, title VIII, §811(3), Dec. 23, 2016, 130 Stat. 2268; Pub. L. 115–91, div. A, title VIII, §815(a)(1), Dec. 12, 2017, 131 Stat. 1462.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1819(c)(1), (2)(A), redesignated subsec. (b) of section 2326 of this title as subsec. (a) of this section and substituted "Contractual Action to Provide Time for Definitization of Contractual Terms, Specifications, and Price; Limitations on Obligation of Funds" for "Limitations on Obligation of Funds" in heading.
+
+Subsec. (a)(1). Pub. L. 116–283, §1819(c)(2)(A), inserted heading.
+
+Subsec. (a)(2). Pub. L. 116–283, §1819(c)(2)(C), inserted par. (2) designation and heading. Former par. (2) redesignated subpar. (A) of par. (2).
+
+Subsec. (a)(2)(A). Pub. L. 116–283, §1819(c)(2)(B), (D), redesignated subsec. (a)(2) as (a)(2)(A), inserted heading, realigned margin, and substituted "Except as provided in subparagraph (B)," for "Except as provided in paragraph (3),".
+
+Subsec. (a)(2)(B). Pub. L. 116–283, §1819(c)(2)(B), (E), redesignated subsec. (a)(3) as (a)(2)(B), inserted heading, realigned margin, and substituted "section 3377(b) of this title" for "subsection (h)".
+
+Subsec. (a)(3). Pub. L. 116–283, §1819(c)(2)(F), redesignated par. (4) as (3) and inserted heading. Former par. (3) redesignated subpar. (B) of par. (2).
+
+Subsec. (a)(4), (5). Pub. L. 116–283, §1819(c)(2)(G), redesignated par. (5) as (4) and inserted heading. Former par. (4) redesignated (3).
+
+Subsec. (b). Pub. L. 116–283, §1819(c)(1), (3), redesignated subsec. (c) of section 2326 of this title as subsec. (b) of this section and substituted "subsection (a)(1)" for "subsection (b)(1)" in introductory provisions.
+
+Subsec. (c). Pub. L. 116–283, §1819(c)(1), redesignated subsec. (h) of section 2326 of this title as subsec. (c) of this section.
+
+Subsec. (c)(1). Pub. L. 116–283, §1819(c)(4)(A), (B), inserted heading and substituted "subsection (a)(1)(A)" for "subsection (b)(1)(A)".
+
+Subsec. (c)(2). Pub. L. 116–283, §1819(c)(4)(C), (D), inserted heading and substituted "subsection (a)(3)" for "subsection (b)(4)".
+
+#### Effective Date
+
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+

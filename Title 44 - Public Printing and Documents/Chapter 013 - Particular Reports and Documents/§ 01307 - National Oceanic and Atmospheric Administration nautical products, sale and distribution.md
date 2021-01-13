@@ -18,9 +18,9 @@
 
 &emsp;(2) at prices which the Secretary establishes, to the departments and officers of the United States requiring them for official use.
 
-(d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
+(d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitutean express or implied undertaking by the United States to perform any activity in a certain manner.
 
-(e) For purposes of this section, the term "nautical products" includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, andassociated data bases which are created or published by the National Oceanic and Atmospheric Administration.
+(e) For purposes of this section, the term "nautical products" includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266; Pub. L. 99–272, title VI, §6011(a), Apr. 7, 1986, 100 Stat. 121; Pub. L. 105–362, title II, §201(a), Nov. 10, 1998, 112 Stat. 3282; Pub. L. 106–181, title VI, §606(a)–(c), Apr. 5, 2000, 114 Stat. 154.)
 
@@ -29,6 +29,8 @@
 Based on 44 U.S. Code, 1964 ed., §246 (Jan. 12, 1895, ch. 23, §76, 28 Stat. 620; Feb. 14, 1903, ch. 552, §§4, 10, 32 Stat. 826, 829; July 1, 1916 ch. 209, §1, 39 Stat. 320; June 5, 1920, ch. 235, §1, 41 Stat. 929; Oct. 31, 1951, ch. 654, §3(11), 65 Stat. 708; July 9, 1956, ch. 528, 70 Stat. 512; Aug. 14, 1964, Pub. L. 88–441, 78 Stat. 446).
 
 The reference to the Environmental Science Service Administration is inserted on the authority of Reorganization Plan No. 2 of 1965.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Subsec. (e). Pub. L. 106–181, §606(a)(2), struck out "and aeronautical" after
 Subsec. (b). Pub. L. 99–272 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There may not be free distribution of charts except to the departments and officers of the United States requiring them for public use; and a number of copies of each sheet, not to exceed three hundred, to be presented to such foreign governments, libraries, and scientific associations, and institutions of learning as the Secretary of Commerce directs; but on the order of Senators and Representatives not to exceed one hundred copies to each may be distributed through the Environmental Science Service Administration."
 
 Subsecs. (c) to (e). Pub. L. 99–272 added subsecs. (c) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -38,7 +38,7 @@ Maximum Months of Assistance.—(1) Subject to section 3695 of title 38, the max
 
 &emsp;(ii) be counted toward the aggregate period for which section 3695 of title 38 limits an individual's receipt of assistance.
 
-(B) The payment of the educational assistance allowance referred to in subparagraph (A) is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
+(B) The payment of the educational assistance allowance referred to in subparagraph (A) is thepayment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
 &emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
 

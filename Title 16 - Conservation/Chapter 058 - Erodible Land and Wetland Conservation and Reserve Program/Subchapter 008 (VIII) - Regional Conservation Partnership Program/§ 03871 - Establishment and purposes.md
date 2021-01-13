@@ -38,7 +38,7 @@ The purposes of the program are as follows:
 
 #### References in Text
 
-Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by Pub.L. 113–79, title II, §§2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, 128 Stat. 768, 770.
+Sections 3839aa–9, 3839bb–3, 3839bb–4, and 3843 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§2706(a), 2708, 2709(a), 2710(a), Feb. 7, 2014, 128 Stat. 768, 770.
 
 #### Amendments
 

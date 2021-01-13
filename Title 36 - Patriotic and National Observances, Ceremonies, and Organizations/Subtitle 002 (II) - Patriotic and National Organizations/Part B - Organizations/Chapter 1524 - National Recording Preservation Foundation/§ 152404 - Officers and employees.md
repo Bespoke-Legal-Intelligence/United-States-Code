@@ -32,6 +32,8 @@ Status and Compensation of Employees.—Employees of the corporation (including 
 
 (Added Pub. L. 106–474, title II, §201(a), Nov. 9, 2000, 114 Stat. 2093.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (d)(3), is set out under section 5332 of Title 5, Government Organization and Employees.

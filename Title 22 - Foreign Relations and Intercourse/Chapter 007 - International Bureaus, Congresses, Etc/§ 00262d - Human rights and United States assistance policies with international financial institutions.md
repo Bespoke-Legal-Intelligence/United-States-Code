@@ -2,7 +2,7 @@
 
 #### (a) Policy goals
 
-The United States Government, in connection with its voice and vote in the InternationalBank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund, shall advance the cause of human rights, including by seeking to channel assistance toward countries other than those whose governments engage in—
+The United States Government, in connection with its voice and vote in the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the African Development Fund, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund, shall advance the cause of human rights, including by seeking to channel assistance toward countries other than those whose governments engage in—
 
 &emsp;(1) a pattern of gross violations of internationally recognized human rights, such as torture or cruel, inhumane, or degrading treatment or punishment, prolonged detention without charges, or other flagrant denial to life, liberty, and the security of person; or
 
@@ -52,9 +52,11 @@ In determining whether the government of a country engages in a pattern of gross
 
 (Pub. L. 95–118, title VII, §701, Oct. 3, 1977, 91 Stat. 1069; Pub. L. 96–259, title V, §501(a), (b), June 3, 1980, 94 Stat. 431, 432; Pub. L. 97–35, title XIII, §1342(b), Aug. 13, 1981, 95 Stat. 743; Pub. L. 97–375, title II, §211, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 98–181, title I \[title X, §1004\], Nov. 30, 1983, 97 Stat. 1286; Pub. L. 101–240, title V, §541(c), (d)(4), (e)(8), Dec. 19, 1989, 103 Stat. 2517–2519; Pub. L. 101–513, title V, §562(b)(2), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 102–511, title X, §1008, Oct. 24, 1992, 106 Stat. 3361; Pub. L. 103–236, title VIII, §823(b), Apr. 30, 1994, 108 Stat. 512; Pub. L. 105–292, title IV, §422, Oct. 27, 1998, 112 Stat. 2810; Pub. L. 106–569, title XI, §1103(g), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2014</b>—Subsecs. (c) to (g). Pub. L. 113–188, which directed amendment of this section by striking subsec. (c) and redesignating subsec. (d) through subsec. (g) asadded by section "501(g)" of Pub. L. 96–259 as subsecs. (c) through (f), respectively, was executed by redesignating subsec. (d) to subsec. (g) as added by section 501(b) of Pub. L. 96–259 (relating to consultative requirement) as (c) to (f), respectively, and striking out former subsec. (c) which related to reporting requirements, to reflect the probable intent of Congress.
+<b>2014</b>—Subsecs. (c) to (g). Pub. L. 113–188, which directed amendment of this section by striking subsec. (c) and redesignating subsec. (d) through subsec. (g) as added by section "501(g)" of Pub. L. 96–259 as subsecs. (c) through (f), respectively, was executed by redesignating subsec. (d) to subsec. (g) as added by section 501(b) of Pub. L. 96–259 (relating to consultative requirement) as (c) to (f), respectively, and striking out former subsec. (c) which related to reporting requirements, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (c)(1). Pub. L. 106–569 substituted "The Secretary of the Treasury shall report annually" for "Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly".
 
@@ -85,6 +87,8 @@ Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after t
 <b>1980</b>—Subsec. (c). Pub. L. 96–259, §501(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g). Pub. L. 96–259, §501(b), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -124,7 +128,7 @@ Requirements.—The Secretary of the Treasury, in consultation with the Secretar
 
 &emsp;"(5) increase the capacity of multilateral development banks and of recipient governments to conduct human trafficking risk assessments and integrate anti-trafficking interventions into projects;
 
-&emsp;"(6) support the development of meaningful risk mitigation and reduction policies, regulations, and strategies within the multilateral development banks to reduce the incidence and prevalence of severeforms of trafficking in persons and enhance development outcomes that may be improved by reducing the incidence and prevalence of human trafficking; and
+&emsp;"(6) support the development of meaningful risk mitigation and reduction policies, regulations, and strategies within the multilateral development banks to reduce the incidence and prevalence of severe forms of trafficking in persons and enhance development outcomes that may be improved by reducing the incidence and prevalence of human trafficking; and
 
 &emsp;"(7) support the inclusion of human trafficking risk analysis in the development of relevant country strategies by each multilateral development bank.
 

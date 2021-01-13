@@ -2,7 +2,7 @@
 
 #### (a) Inspection of premises
 
-If the Secretary finds for good cause that the methods, tests, or programs related to electronic product radiation safety in a particular factory, warehouse, or establishment in which electronic products are manufactured or held,may not be adequate or reliable, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are thereafter authorized (1) to enter, at reasonable times, any area in such factory, warehouse, or establishment in which the manufacturer's tests (or testing programs) required by section 360kk(h) of this title are carried out, and (2) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, the facilities and procedures within such area which are related to electronic product radiation safety. Each such inspection shall be commenced and completed with reasonable promptness. In addition to other grounds upon which good cause may be found for purposes of this subsection, good cause will be considered to exist in any case where the manufacturer has introduced into commerce any electronic product which does not comply with an applicable standard prescribed under this part and with respect to which no exemption from the notification requirements has been granted by the Secretary under section 360ll(a)(2) or 360ll(e) of this title.
+If the Secretary finds for good cause that the methods, tests, or programs related to electronic product radiation safety in a particular factory, warehouse, or establishment in which electronic products are manufactured or held, may not be adequate or reliable, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are thereafter authorized (1) to enter, at reasonable times, any area in such factory, warehouse, or establishment in which the manufacturer's tests (or testing programs) required by section 360kk(h) of this title are carried out, and (2) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, the facilities and procedures within such area which are related to electronic product radiation safety. Each such inspection shall be commenced and completed with reasonable promptness. In addition to other grounds upon which good cause may be found for purposes of this subsection, good cause will be considered toexist in any case where the manufacturer has introduced into commerce any electronic product which does not comply with an applicable standard prescribed under this part and with respect to which no exemption from the notification requirements has been granted by the Secretary under section 360ll(a)(2) or 360ll(e) of this title.
 
 #### (b) Record keeping
 
@@ -26,6 +26,8 @@ The Secretary may by regulation (1) require dealers and distributors of electron
 
 (June 25, 1938, ch. 675, §537, formerly act July 1, 1944, ch. 373, title III, §537, formerly §360A, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1182; renumbered §537 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(E), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 263i of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -34,13 +36,15 @@ Section was classified to section 263i of Title 42, The Public Health and Welfar
 
 <b>1993</b>—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263i of Title 42, The Public Health and Welfare, as this section.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(E), substituted "section 360kk(h)" for "section 263f(h)","this part" for "this subpart", and "section 360ll(a)(2) or 360ll(e)" for "section 263g(a)(2) or 263g(e)".
+<b>1990</b>—Subsec. (a). Pub. L. 101–629, §19(a)(1)(B), (2)(E), substituted "section 360kk(h)" for "section 263f(h)", "this part" for "this subpart", and "section 360ll(a)(2) or 360ll(e)" for "section 263g(a)(2) or 263g(e)".
 
 Subsecs. (b) to (e). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" wherever appearing.
 
 Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), (2)(E)(ii), substituted "this part" for "this subpart", "section 360ll" for "section 263g" in three places, and "section 360ll(a)" for "section 263g(a)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Noninterference With Other Federal Agencies
 
-Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the United States, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
+Enactment of this section not to be construed to supersede or limit the functions under any other provision of law of any officer or agency of the UnitedStates, see section 4 of Pub. L. 90–602, set out as a note under section 360hh of this title.
 

@@ -114,6 +114,8 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 (Pub. L. 100–347, §8, June 27, 1988, 102 Stat. 650.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.

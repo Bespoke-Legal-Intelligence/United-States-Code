@@ -2,7 +2,7 @@
 
 #### (a) Revocation of licenses
 
-All laws of the United States relating to unlawful restraints and monopolies and to combinations, contracts, or agreements in restraint of trade are declared to be applicable to the manufacture and sale of and to trade in radio apparatus and devices entering into or affecting interstate or foreign commerce and to interstate or foreign radio communications. Whenever in any suit, action, or proceeding, civil or criminal, brought under the provisions of any of said laws or in any proceedings brought to enforce or to review findings and orders of the Federal Trade Commission or other governmental agency in respect of any matters as to which said Commission or other governmental agency is by law authorized to act, any licensee shall be found guilty of the violation of the provisions of such laws or any of them, the court, in addition to the penalties imposed by said laws, may adjudge, order, and/or decree that the license of such licensee shall, as of the date the decree orjudgment becomes finally effective or as of such other date as the said decree shall fix, be revoked and that all rights under such license shall thereupon cease: <i>Provided, however</i>, That such licensee shall have the same right of appeal or review as is provided by law in respect of other decrees and judgments of said court.
+All laws of the United States relating to unlawful restraints and monopolies and to combinations, contracts, or agreements in restraint of trade are declared to be applicable to the manufacture and sale of and to trade in radio apparatus and devices entering into or affecting interstate or foreign commerce and to interstate or foreign radio communications. Whenever in any suit, action, or proceeding, civil or criminal, brought under the provisions of any of said laws or in any proceedings brought to enforce or toreview findings and orders of the Federal Trade Commission or other governmental agency in respect of any matters as to which said Commission or other governmental agency is by law authorized to act, any licensee shall be found guilty of the violation of the provisions of such laws or any of them, the court, in addition to the penalties imposed by said laws, may adjudge, order, and/or decree that the license of such licensee shall, as of the date the decree or judgment becomes finally effective or as of such other date as the said decree shall fix, be revoked and that all rights under such license shall thereupon cease: <i>Provided, however</i>, That such licensee shall have the same right of appeal or review as is provided by law in respect of other decrees and judgments of said court.
 
 #### (b) Refusal of licenses and permits
 
@@ -10,9 +10,13 @@ The Commission is hereby directed to refuse a station license and/or the permit 
 
 (June 19, 1934, ch. 652, title III, §313, 48 Stat. 1087; Pub. L. 86–752, §5(b), Sept. 13, 1960, 74 Stat. 893.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–752 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

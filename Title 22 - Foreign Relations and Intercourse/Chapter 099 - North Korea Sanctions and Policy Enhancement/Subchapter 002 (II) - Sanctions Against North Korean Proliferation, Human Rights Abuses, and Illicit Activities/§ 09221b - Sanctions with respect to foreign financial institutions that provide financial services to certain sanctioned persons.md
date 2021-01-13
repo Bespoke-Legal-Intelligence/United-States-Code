@@ -26,7 +26,7 @@ The sanctions that may be imposed with respect to a foreign financial institutio
 
 #### (1) Implementation
 
-&emsp;The President may exercise all authorities provided under sections 203 and 205 of theInternational Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+&emsp;The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
 
 #### (2) Penalties
 
@@ -60,11 +60,19 @@ In this section:
 
 #### (3) Knowingly
 
-&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means thata person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
 (Pub. L. 114–122, title II, §201B, as added Pub. L. 116–92, div. F, title LXXI, §7121(a), Dec. 20, 2019, 133 Stat. 2245.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions and authorities under section 7121 of Pub. L. 116–92 with respect to this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(b)(iii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 

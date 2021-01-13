@@ -24,7 +24,7 @@ For purposes of this subpart:
 
 &emsp;(C) The term "180-day supplement" means a supplement to an approved premarket application or premarket report under section 360e of this title that is not a panel-track supplement and requests a significant change in components, materials, design, specification, software, color additives, or labeling.
 
-&emsp;(D) The term "real-time supplement" means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
+&emsp;(D) The term "real-time supplement" means a supplement to an approved premarket application or premarket report under section 360eof this title that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
 
 &emsp;(E) The term "efficacy supplement" means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
@@ -80,13 +80,15 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-&emsp;(14) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
+&emsp;(14) The term "establishment subject to a registration fee" means an establishment thatis registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
 (June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124; Pub. L. 115–52, title II, §202(a), Aug. 18, 2017, 131 Stat. 1013.)
 
 #### Termination of Section
 
 <i>For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -130,6 +132,8 @@ Par. (5)(J). Pub. L. 108–214, §2(a)(1)(C), substituted "a premarket applicati
 
 Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted "The term 'affiliate' means a business entity that has a relationship with a second business entity (whether domestic or international)" for "The term 'affiliate' means a business entity that has a relationship with a second business entity".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–52, title II, §209, Aug. 18, 2017, 131 Stat. 1020, provided that: "The amendments made by this title \[see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\] shall take effect on October 1, 2017, or the date of the enactment of this Act \[Aug. 18, 2017\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379i et seq.\] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] received on or after October 1, 2017, regardless of the date of the enactment of this Act."
@@ -148,11 +152,11 @@ Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, which provided
 
 Pub. L. 115–52, title II, §210(a), Aug. 18, 2017, 131 Stat. 1020, provided that: "Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 739i \[379i\]; 739j \[379j\]) shall cease to be effective October 1, 2022."
 
-Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i; 379j) would cease to be effective Oct. 1, 2017, and that section 738A (21 U.S.C. 379j–1) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020.
+Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i; 379j) would cease to be effective Oct. 1, 2017, and that section 738A (21 U.S.C. 379j–1) of the Federal Food,Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020.
 
 \[Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020, provided that the repeal of section 207(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
-Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by thistitle \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
+Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
 
 Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided that the amendments made by title I of Pub. L. 107–250 (enacting this subpart) would cease to be effective Oct. 1, 2007, except that section 103 of Pub. L. 107–250, set out as a note below, would cease to be effective Jan. 31, 2008, was repealed by Pub. L. 112–144, title II, §207(c)(1), July 9, 2012, 126 Stat. 1007.
 
@@ -188,9 +192,9 @@ Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by 
 
 "(a)
 
-In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
+In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committeeon Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
 
-&emsp;"(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of theFood and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
+&emsp;"(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
 
 &emsp;"(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
 

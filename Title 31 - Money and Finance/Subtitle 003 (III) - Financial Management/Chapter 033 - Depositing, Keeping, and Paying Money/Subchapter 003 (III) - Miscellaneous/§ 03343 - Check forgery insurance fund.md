@@ -8,7 +8,7 @@
 
 (b) The Secretary of the Treasury shall pay from the Fund to a payee or special endorsee of a check drawn on the Treasury or a depositary designated by the Secretary the amount of the check without interest if in the determination of the Secretary the payee or special endorse <sup>1</sup> establishes that—
 
-&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a specialendorsee and whose endorsement is necessary for further negotiation;
+&emsp;(1) the check was lost or stolen without the fault of the payee or a holder that is a special endorsee and whose endorsement is necessary for further negotiation;
 
 &emsp;(2) the check was negotiated later and paid by the Secretary or a depositary on a forged endorsement of the payee's or special endorsee's name; and
 
@@ -74,7 +74,7 @@ Nov. 21, 1941, ch. 489, 55 Stat. 777, §4; added Dec. 22, 1974, Pub. L. 93–539
 
 31:563(words before 3d comma).
 
-Subsection (a) is substituted for 31:561 for clarity and consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
+Subsection (a) is substituted for 31:561 for clarity and consistency in the revised title and with other titles ofthe United States Code and to eliminate unnecessary words.
 
 In subsection (b), the text of 31:563a(1st sentence) is omitted because of section 321 of the revised title. Before clause (1), the word "Secretary" is substituted for "Treasurer of the United States" before "is authorized and directed" in 31:562 because of the source provisions restated in section 321(c) of the revised title. The words "prior to reclamation" and "heretofore or hereafter" are omitted as unnecessary. The words "Treasury or a depositary designated by the Secretary" are substituted for "Treasurer of the United States" before "has been lost or stolen" because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280) and for consistency in the revised title. The words "it is established" are omitted as unnecessary. In clause (2), the words "Secretary or a depositary" are substituted for "Treasurer" for consistency. In clause (3), the words "either directly or indirectly" are omitted as surplus.
 
@@ -83,6 +83,8 @@ In subsection (c), the words "drawn on a designated depositary" are added becaus
 In subsection (d), the words "The Secretary shall deposit immediately to the credit of the Fund amounts recovered from a forger" are substituted for 31:563(words after 3d comma) to eliminate unnecessary words. The words "The liability and restoration provisions of section 563 of this title shall apply with respect to checks drawn on designated depositaries" in 31:563a(last sentence) are omitted as unnecessary because of the restatement. The words "because of a forged check drawn on a designated depositary" are added for clarity. The words "credited to" are substituted for "used, as required, to reimburse" for clarity and to eliminate unnecessary words. The word "payment" is substituted for "settlement" for consistency. The words "under subsection (b) of this section" are added for clarity.
 
 In subsection (e), the word "Secretary" is substituted for "Treasurer of the United States" because of the source provisions restated in section 321(c) of the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsec. (b)(2) to (4). Pub. L. 104–134, §31001(x)(3)(B)(ii)–(iv), inserted 
 Subsec. (d). Pub. L. 104–134, §31001(x)(3)(C), inserted after first sentence "The Secretary may use amounts in the Fund to reimburse payment certifying or authorizing agencies for any payment that the Secretary determines would otherwise have been payable from the Fund, and may reimburse certifying or authorizing agencies with amounts recovered because of payee nonentitlement."
 
 Subsecs. (e) to (g). Pub. L. 104–134, §31001(x)(3)(D), (E), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Fund
 

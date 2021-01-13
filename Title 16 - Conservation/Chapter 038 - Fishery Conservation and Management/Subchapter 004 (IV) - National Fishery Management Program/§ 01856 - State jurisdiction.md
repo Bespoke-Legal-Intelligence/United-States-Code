@@ -46,7 +46,7 @@
 
 &emsp;(B) the owner or operator of the vessel applies to the Governor of the State for, and (subject to paragraph (2)) is granted, permission for the vessel to engage in such processing and the application specifies the species to be processed; and
 
-&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish receivedfrom vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
+&emsp;(C) the owner or operator of the vessel submits reports on the tonnage of fish received from vessels of the United States and the locations from which such fish were harvested, in accordance with such procedures as the Secretary by regulation shall prescribe.
 
 (2) The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)—
 
@@ -140,7 +140,7 @@ Repeal.—\[Repealed section 112(d) of Pub. L. 104–297, see below.\]
 
 "(h)
 
-Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802) shall apply to this section.
+Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fishery Conservation andManagement Act (16 U.S.C. 1802) shall apply to this section.
 
 "(i) Not later than December 31, 2001, and every 2 years thereafter, the Pacific State Marine Fisheries Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report on the status and management of the Dungeness Crab fishery located off the coasts of the States of Washington, Oregon, and California, including—
 

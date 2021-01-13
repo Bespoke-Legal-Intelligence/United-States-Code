@@ -50,7 +50,7 @@ Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 701", 76 Stat. 847.
 
 Oct. 11, 1962, Pub. L. 87–793, §603 "Sec. 703 (as applicable to §701)", 76 Stat. 847.
 
-In subsection (a), the words "General Schedule" are substituted for "compensation schedules fixed by this chapter" since the General Schedule is now the only compensation schedule in that chapter. The word"scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
+In subsection (a), the words "General Schedule" are substituted for "compensation schedules fixed by this chapter" since the General Schedule is now the only compensation schedule in that chapter. The word "scheduled" is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
 In subsection (a)(B), the words "except a hearing examiner appointed under section 3105 of this title" are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
@@ -86,6 +86,8 @@ Oct. 29, 1965, Pub. L. 89–301, §3, 79 Stat. 1112.
 
 The word "officer" is omitted as included in "employee", and the word "agency" is substituted for "department" to conform to the definition in 5 U.S.C. 5331.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
@@ -114,6 +116,8 @@ Subsec. (c). Pub. L. 95–454, §906(a)(8), substituted references to Office of 
 
 Subsec. (e). Pub. L. 95–454, §503(g), inserted reference to merit pay system established under section 5402 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of this title.
@@ -140,7 +144,7 @@ Amendment by section 906(a)(2), (8) of Pub. L. 95–454 effective 90 days after 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delay of Periodic Step Increase for Civilian Employees of the Department of Defense Based Upon Unacceptable Performance
 
@@ -148,7 +152,7 @@ Pub. L. 114–92, div. A, title XI, §1106, Nov. 25, 2015, 129 Stat. 1024, provi
 
 "(a)
 
-Delay.—Under procedures established by the Secretary of Defense, upon a determination by the Secretary that the work of an employee is not at an acceptable level of competence, the period of time during which the work of the employee is not at an acceptable level of competence shall not count toward completionof the period of service required for purposes of subsection (a) of section 5335 of title 5, United States Code, or subsection (e)(1) or (e)(2) of section 5343 of such title.
+Delay.—Under procedures established by the Secretary of Defense, upon a determination by the Secretary that the work of an employee is not at an acceptable level of competence, the period of time during which the work of the employee is not at an acceptable level of competence shall not count toward completion of the period of service required for purposes of subsection (a) of section 5335 of title 5, United States Code, or subsection (e)(1) or (e)(2) of section 5343 of such title.
 
 "(b)
 

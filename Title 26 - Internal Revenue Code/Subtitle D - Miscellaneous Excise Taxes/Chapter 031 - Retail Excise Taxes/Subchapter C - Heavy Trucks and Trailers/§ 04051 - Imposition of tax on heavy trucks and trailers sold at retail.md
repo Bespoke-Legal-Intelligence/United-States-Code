@@ -46,7 +46,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) the owner, lessee, or operator of any vehicle which contains an article taxable under subsection (a) installs (or causes to be installed) any part or accessory on such vehicle, and
 
-&emsp;&emsp;(B) such installation is not later than the date 6 months after the date such vehicle (as it contains such article) was first placed in service,
+&emsp;&emsp;(B) such installation is not later than the date 6 months after the date such vehicle (asit contains such article) was first placed in service,
 
 > &emsp;then there is hereby imposed on such installation a tax equal to 12 percent of the price of such part or accessory and its installation.
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pu
 
 Amendment by Pub. L. 112–141 effective July 1, 2012, see section 40102(f) of Pub. L. 112–141, set out as a note under section 4041 of this title.
 
-Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 
 Amendment by Pub. L. 112–140 effective July 1, 2012, see section 402(f)(1) of Pub. L. 112–140, set out as a note under section 4041 of this title.
 

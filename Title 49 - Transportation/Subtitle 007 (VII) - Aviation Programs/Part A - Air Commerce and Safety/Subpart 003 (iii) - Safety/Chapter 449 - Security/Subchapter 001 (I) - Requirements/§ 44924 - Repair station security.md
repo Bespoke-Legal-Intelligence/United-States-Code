@@ -18,7 +18,7 @@ Failure to carry out effective security measures.—If, after the 90th day on wh
 
 &emsp;(2)
 
-Immediate security risk.—If the Administrator of the Transportation Security Administration determines that a foreign repair station poses an immediate security risk, the Administrator of the Transportation Security Administration shall notify the Administrator of the Federal Aviation Administration of the determination. Upon receipt of the determination, the Administrator of the Federal Aviation Administration shall revoke the certification of the repair station.
+Immediate security risk.—If the Administrator of the Transportation Security Administration determines that a foreign repair station poses an immediate security risk, the Administrator of the Transportation SecurityAdministration shall notify the Administrator of the Federal Aviation Administration of the determination. Upon receipt of the determination, the Administrator of the Federal Aviation Administration shall revoke the certification of the repair station.
 
 &emsp;(3)
 

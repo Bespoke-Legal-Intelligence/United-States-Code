@@ -4,6 +4,8 @@ Such request, if approved by the Comptroller of the Currency, shall be, together
 
 (Mar. 29, 1886, ch. 28, §2, 24 Stat. 8.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.

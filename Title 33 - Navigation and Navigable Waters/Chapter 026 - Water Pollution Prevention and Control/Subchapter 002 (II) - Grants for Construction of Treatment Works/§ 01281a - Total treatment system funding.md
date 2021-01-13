@@ -10,6 +10,8 @@ Notwithstanding any other provision of law, in any case where the Administrator 
 
 (Pub. L. 95–217, §78, Dec. 27, 1977, 91 Stat. 1611.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 That Act, meaning the Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.

@@ -38,7 +38,7 @@
 | [3482\.](Subchapter%20004%20%28IV%29%20-%20Payments%20to%20Eligible%20Veterans%3B%20Veteran-Student%20Services/%C2%A7%2003482%20-%20Computation%20of%20educational%20assistance%20allowances.md) | Computation of educational assistance allowances. |
 | [3483\.](Subchapter%20004%20%28IV%29%20-%20Payments%20to%20Eligible%20Veterans%3B%20Veteran-Student%20Services/%C2%A7%2003483%20-%20Approval%20of%20courses.md) | Approval of courses. |
 | [3484\.](Subchapter%20004%20%28IV%29%20-%20Payments%20to%20Eligible%20Veterans%3B%20Veteran-Student%20Services/%C2%A7%2003484%20-%20Apprenticeship%20or%20other%20on-job%20training%3B%20correspondence%20courses.md) | Apprenticeship or other on-job training; correspondence courses. |
-| [3485\.](Subchapter%20004%20%28IV%29%20-%20Payments%20to%20Eligible%20Veterans%3B%20Veteran-Student%20Services/%C2%A7%2003485%20-%20Work-study%20allowance.md) | Work-study allowance. |
+| [3485\.](Subchapter%20004%20%28IV%29%20-%20Payments%20to%20Eligible%20Veterans%3B%20Veteran-Student%20Services/%C2%A7%2003485%20-%20Work-study%20allowance%201.md) | Work-study allowance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,6 +52,8 @@
 | [3493\.](Subchapter%20005%20%28V%29%20-%20Special%20Assistance%20for%20the%20Educationally%20Disadvantaged/%C2%A7%2003493%20-%20Effect%20on%20educational%20entitlement.md) | Effect on educational entitlement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -28,17 +28,29 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(A) a law enforcement officer, as defined in section 5541;
 
-&emsp;&emsp;(B) any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A); and
+&emsp;&emsp;(B) any employee in or under the Federal Bureau of Investigation who is not described in subparagraph (A);
 
 &emsp;&emsp;(C) a customs and border protection officer, as defined in section 8331(31); and
 
+&emsp;&emsp;(D) any nuclear materials courier, as defined in section 8331(27); and
+
 &emsp;(2) the term "qualified expense", as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
 
-(Added Pub. L. 111–178, §2(a), June 9, 2010, 124 Stat. 1262.)
+(Added Pub. L. 111–178, §2(a), June 9, 2010, 124 Stat. 1262; amended Pub. L. 116–283, div. C, title XXXI, §3144, Jan. 1, 2021, 134 Stat. 4387.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+Subsec. (c)(1)(D). Pub. L. 116–283 added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### No Relevance as to Compensation Claims
 
 Pub. L. 111–178, §2(b), June 9, 2010, 124 Stat. 1263, provided that: "No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d."
+
+#### <b>Executive Documents</b>
 
 #### Delegation Under Section 2(a) of the Special Agent Samuel Hicks Families of Fallen Heroes Act
 

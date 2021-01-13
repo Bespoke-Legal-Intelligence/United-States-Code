@@ -14,6 +14,10 @@ Guidance.—The Secretary shall issue guidance and a framework for the conduct, 
 
 (Added Pub. L. 114–328, div. A, title VIII, §807(a)(1), Dec. 23, 2016, 130 Stat. 2261; amended Pub. L. 116–92, div. A, title IX, §902(73), Dec. 20, 2019, 133 Stat. 1552.)
 
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1847(e)(2), Jan. 1, 2021, 134 Stat. 4151, 4256, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 322 of this title, inserted after section 4271 of this title, and redesignated as section 4272 of this title. See Effective Date of 2021 Amendment note below.</i>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
@@ -28,7 +32,11 @@ In General.—With respect to a major defense acquisition program, the Secretary
 
 "(b)
 
-Categorization of Technical Risk Levels.—The Secretary shall issue guidance and a framework for categorizing the degree of technical and manufacturing risk in a major defense acquisition program."
+Categorization of Technical Risk Levels.—The Secretary shall issue guidance and a framework forcategorizing the degree of technical and manufacturing risk in a major defense acquisition program."
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

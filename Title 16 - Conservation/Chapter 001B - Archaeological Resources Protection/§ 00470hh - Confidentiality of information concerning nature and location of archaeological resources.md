@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of information
 
-Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
+Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or underany other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
 
 &emsp;(1) further the purposes of this chapter or chapter 3125 of title 54, and
 

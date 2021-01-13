@@ -70,7 +70,7 @@ No information shall be required to be furnished under this section with respect
 
 > In the case of a foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c), paragraph (1) shall be treated as including a reference to each United States person who is an officer or director of such corporation."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporationwith respect to which any person is treated as a United States shareholder under section 953(c).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1012(i)(19)(C), inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
 
 Subsec. (a)(3), (4). Pub. L. 100–647, §1012(i)(19)(A), added par. (3) and redesignated former par. (3) as (4).
 

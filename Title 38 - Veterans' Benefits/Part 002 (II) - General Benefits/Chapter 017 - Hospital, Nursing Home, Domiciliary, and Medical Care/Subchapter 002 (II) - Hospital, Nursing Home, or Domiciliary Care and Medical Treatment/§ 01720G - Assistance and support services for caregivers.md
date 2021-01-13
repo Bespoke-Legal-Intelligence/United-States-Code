@@ -12,15 +12,15 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;(B) for assistance provided under this subsection—
 
-&emsp;&emsp;(i) before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001;
+&emsp;&emsp;(i) before the date on which the Secretary submits to Congress a certification that the Department has fully implemented the information technology system required by section 162(a) of the Caring for Our Veterans Act of 2018, has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service on or after September 11, 2001;
 
-&emsp;&emsp;(ii) during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service—
+&emsp;&emsp;(ii) during the 2-year period beginning on the date on which the Secretary submitted to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service—
 
 &emsp;&emsp;&emsp;(I) on or before May 7, 1975; or
 
 &emsp;&emsp;&emsp;(II) on or after September 11, 2001; or
 
-&emsp;&emsp;(iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i),has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service; and
+&emsp;&emsp;(iii) after the date that is 2 years after the date on which the Secretary submits to Congress the certification described in clause (i), has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, air, or space service; and
 
 &emsp;(C) is in need of personal care services because of—
 
@@ -32,7 +32,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;(iv) such other matters as the Secretary considers appropriate.
 
-(3)(A) As part of the program required by paragraph (1), the Secretary shall provide to family caregivers of eligible veterans the following assistance:
+(3)(A) As part of the program required by paragraph (1), the Secretary shall provide to familycaregivers of eligible veterans the following assistance:
 
 &emsp;(i) To each family caregiver who is approved as a provider of personal care services for an eligible veteran under paragraph (6)—
 
@@ -88,7 +88,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;(i) to identify the personal care services required by the eligible veteran; and
 
-&emsp;&emsp;(ii) to determine whether such requirements could be significantly or substantiallysatisfied through the provision of personal care services from a family member; and
+&emsp;&emsp;(ii) to determine whether such requirements could be significantly or substantially satisfied through the provision of personal care services from a family member; and
 
 &emsp;(B) the family member to determine the amount of instruction, preparation, and training, if any, the family member requires to provide the personal care services required by the eligible veteran—
 
@@ -98,7 +98,7 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (6)(A) The Secretary shall provide each family member of an eligible veteran who makes a joint application under paragraph (4) the instruction, preparation, and training determined to be required by such family member under paragraph (5)(B).
 
-(B) Upon the successful completion by a family member of an eligible veteran of instruction, preparation, and training under subparagraph (A), the Secretary shall approve the family member as a provider of personal care services for the eligible veteran.
+(B) Upon the successful completion by a family member of an eligible veteran of instruction, preparation, and training under subparagraph\(A), the Secretary shall approve the family member as a provider of personal care services for the eligible veteran.
 
 (C) The Secretary shall, subject to regulations the Secretary shall prescribe, provide for necessary travel, lodging, and per diem expenses incurred by a family member of an eligible veteran in undergoing instruction, preparation, and training under subparagraph (A).
 
@@ -146,9 +146,41 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (11)(A) In providing assistance under this subsection to family caregivers of eligible veterans, the Secretary may enter into contracts, provider agreements, and memoranda of understanding with Federal agencies, States, and private, nonprofit, and other entities to provide such assistance to such family caregivers.
 
-(B) The Secretary may provide assistance under this paragraph only if such assistance isreasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
+(B) The Secretary may provide assistance under this paragraph only if such assistance is reasonably accessible to the family caregiver and is substantially equivalent or better in quality to similar services provided by the Department.
 
 (C) The Secretary may provide fair compensation to Federal agencies, States, and other entities that provide assistance under this paragraph.
+
+(12)(A) The Secretary shall notify the individuals described in subparagraph (C) regarding decisions affecting the furnishing of assistance under this subsection using standardized letters, as the Secretary determines such notifications and letters to be appropriate.
+
+(B) A notification provided under subparagraph (A) shall include the elements required for notices of decisions under section 5104(b) of this title to the extent that those elements apply to such notification, unless, not later than 60 days after the date of the enactment of the Transparency and Effective Accountability Measures for Veteran Caregivers Act, the Secretary determines that it would not be feasible to include such elements in such notifications and submits to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report setting forth the reasons for such determination.
+
+(C) The individuals described in this subparagraph shall include—
+
+&emsp;(i) an individual who submits an application for the program established under paragraph (1);
+
+&emsp;(ii) an individual determined by the Secretary to be an eligible veteran pursuant to such an application; and
+
+&emsp;(iii) a family caregiver of an eligible veteran who is—
+
+&emsp;&emsp;(I) approved as a provider of personal care services under paragraph (6)(B); or
+
+&emsp;&emsp;(II) designated as a primary provider of personal care services under paragraph (7)(A).
+
+(13)(A) If the Secretary determines that a veteran receiving services under the program established under paragraph (1) is no longer eligible for such program solely because of improvement in the condition of the veteran—
+
+&emsp;(i) the effective date of discharge of the veteran from the program shall be not earlier than the date that is 60 days after the date on which the Secretary provides notice of such lack of eligibility under paragraph (12)(A) to the relevant individuals described in paragraph (12)(C); and
+
+&emsp;(ii) the Secretary shall extend benefits under the program established under paragraph (1) for a family caregiver of the veteran described in paragraph (12)(C)(iii), including stipends under paragraph (3)(A)(ii)(V), if such an extension is determined appropriate by the Secretary, for a 90-day period following discharge of the veteran from the program.
+
+(B) This paragraph shall not be construed to limit the authority of the Secretary—
+
+&emsp;(i) to prescribe regulations addressing other bases for—
+
+&emsp;&emsp;(I) the discharge of a veteran from the program established under paragraph (1); or
+
+&emsp;&emsp;(II) the revocation of the designation of a family caregiver of a veteran as a primary provider of personal care services under paragraph (7)(A); or
+
+&emsp;(ii) to provide advance notice and extended benefits under the program, as appropriate, if another basis for discharge of a veteran described in subclause (I) of clause (i) or revocation of a designation described in subclause (II) of such clause applies.
 
 (b)
 
@@ -228,13 +260,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title).
 
-(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, §103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §103, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, §161(a)(1)(A), (2)–(b), June 6, 2018, 132 Stat. 1438–1440; Pub. L. 115–251, title I, §103, Sept. 29, 2018, 132 Stat. 3168.)
+(Added Pub. L. 111–163, title I, §101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, §103, title VI, §601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, §103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, §103, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, §161(a)(1)(A), (2)–(b), June 6, 2018, 132 Stat. 1438–1440; Pub. L. 115–251, title I, §103, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–278, §2(b), Dec. 31, 2020, 134 Stat. 3374; Pub. L. 116–283, div. A, title IX, §926(a)(28), Jan. 1, 2021, 134 Stat. 3830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 162(a) of the Caring for Our Veterans Act of 2018, referred to in subsec. (a)(2)(B)(i), is section 162(a) of Pub. L. 115–182, June 6, 2018, 132 Stat. 1440, which is set out as a note under this section.
 
+The date of the enactment of the Transparency and Effective Accountability Measures for Veteran Caregivers Act, referred to in subsec. (a)(12)(B), is the date of enactment of Pub. L. 116–278, which was approved Dec. 31, 2020.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(B). Pub. L. 116–283 substituted "air, or space service" for "or air service" wherever appearing.
+
+<b>2020</b>—Subsec. (a)(12), (13). Pub. L. 116–278 added pars. (12) and (13).
 
 <b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–182, §161(a)(1)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: "has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001; and".
 
@@ -264,6 +304,8 @@ Subsec. (e). Pub. L. 115–251 struck out subsec. (e) which authorized appropria
 
 Subsec. (e)(3). Pub. L. 114–58, §103, added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 111–163, title I, §101(a)(3), May 5, 2010, 124 Stat. 1137, provided that:
@@ -275,6 +317,214 @@ In general.—The amendments made by this subsection \[enacting this section\] s
 "(B)
 
 Implementation.—The Secretary of Veterans Affairs shall commence the programs required by subsections (a) and (b) of section 1720G of title 38, United States Code, as added by paragraph (1) of this subsection, on the date on which the amendments made by this subsection take effect."
+
+#### Modification of Administration of Caregiver Programs of Department of Veterans Affairs
+
+Pub. L. 116–278, §2(a), Dec. 31, 2020, 134 Stat. 3373, provided that:
+
+"(a)
+
+Formal Recognition of Caregivers.—
+
+&emsp;"(1)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 31, 2020\], the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report regarding the feasibility and advisability of formally recognizing all caregivers of veterans by identifying any caregiver of a veteran in the electronic health record of the veteran.
+
+&emsp;&emsp;"(B)
+
+Caregivers recognized.—The recognition of caregivers described in subparagraph (A) shall include recognition of—
+
+&emsp;&emsp;&emsp;"(i) any family caregiver who is approved as a provider of personal care services for an eligible veteran under the program of comprehensive assistance for family caregivers under subsection (a) of section 1720G of title 38, United States Code; and
+
+&emsp;&emsp;&emsp;"(ii) any caregiver of a covered veteran participating in the program of general caregiver support services under subsection (b) of such section.
+
+&emsp;&emsp;"(C)
+
+Timeline.—If the Secretary determines that formally recognizing all caregivers of veterans as described in subparagraph (A) is feasible and advisable, the report required by such subparagraph shall include a timeline for implementing such recognition.
+
+&emsp;"(2)
+
+Implementation.—If the Secretary determines that formally recognizing all caregivers of veterans as described in paragraph (1)(A) is feasible and advisable, the Secretary shall implement such recognition in accordance with the timeline included in the report required by such paragraph."
+
+#### Education Program for Family Members and Caregivers of Veterans With Mental Health Disorders
+
+Pub. L. 116–214, title II, §202, Dec. 5, 2020, 134 Stat. 1033, provided that:
+
+"(a)
+
+Establishment.—Not later than 270 days after the date of the enactment of this Act \[Dec. 5, 2020\], the Secretary of Veterans Affairs shall establish an education program (in this section referred to as the 'education program') for the education and training of caregivers and family members of eligible veterans with mental health disorders.
+
+"(b)
+
+Education Program.—
+
+&emsp;"(1)
+
+In general.—Under the education program, the Secretary shall provide a course of education to caregivers and family members of eligible veterans on matters relating to coping with mental health disorders in veterans.
+
+&emsp;"(2)
+
+Duration.—The Secretary shall carry out the education program during the four-year period beginning on the date of the commencement of the education program.
+
+&emsp;"(3)
+
+Scope.—
+
+&emsp;&emsp;"(A)
+
+Caregivers.—The Secretary, with respect to the component of the education program that relates to the education and training of caregivers, shall—
+
+&emsp;&emsp;&emsp;"(i) include such component in the training provided pursuant to the program of comprehensive assistance for family caregivers of the Department of Veterans Affairs established under section 1720G(a) of title 38, United States Code; and
+
+&emsp;&emsp;&emsp;"(ii) make such component available on the Internet website of the Department that relates to caregiver training.
+
+&emsp;&emsp;"(B)
+
+Family members.—The Secretary shall carry out the component of the education program that relates to the education and training of non-caregiver family members at facilities of the Department as follows:
+
+&emsp;&emsp;&emsp;"(i) Not less than five medical centers of the Department.
+
+&emsp;&emsp;&emsp;"(ii) Not less than five clinics of the Department.
+
+&emsp;&emsp;&emsp;"(iii) Not less than five Vet Centers (as defined in section 1712A(h) of title 38, United States Code).
+
+&emsp;&emsp;"(C)
+
+Solicitation of applications.—In selecting locations pursuant to subparagraph (B), the Secretary shall solicit applications from eligible facilities of the Department that are interested in carrying out the education program.
+
+&emsp;&emsp;"(D)
+
+Considerations.—In selecting locations pursuant to subparagraph (B), the Secretary shall consider the feasibility and advisability of selecting locations in the following areas:
+
+&emsp;&emsp;&emsp;"(i) Rural areas.
+
+&emsp;&emsp;&emsp;"(ii) Areas that are not in close proximity to an active duty installation.
+
+&emsp;&emsp;&emsp;"(iii) Areas in different geographic locations.
+
+&emsp;"(4)
+
+Contracts.—
+
+&emsp;&emsp;"(A)
+
+In general.—In carrying out the education program, the Secretary shall enter into contracts with qualified entities described in subparagraph (B) to offer the course of education described in paragraph (5) to family members and caregivers of eligible veterans and covered veterans.
+
+&emsp;&emsp;"(B)
+
+Qualified entity described.—A qualified entity described in this subparagraph is a non-profit entity with experience in mental health education and outreach, including work with children, teens, and young adults, that—
+
+&emsp;&emsp;&emsp;"(i) uses high quality, relevant, and age-appropriate information in educational programming, materials, and coursework, including such programming, materials, and coursework for children, teens, and young adults; and
+
+&emsp;&emsp;&emsp;"(ii) works with agencies, departments, nonprofit mental health organizations, early childhood educators, and mental health providers to develop educational programming, materials, and coursework.
+
+&emsp;&emsp;"(C)
+
+Priority.—In entering into contracts under this paragraph, the Secretary shall give priority to qualified entities that have demonstrated cultural competence in serving military and veteran populations, and, to the extent practicable, use internet technology for the delivery of course content in an effort to expand the availability of support services, especially in rural areas.
+
+&emsp;"(5)
+
+Course of education described.—The course of education described in this paragraph shall consist of curriculum that includes the following:
+
+&emsp;&emsp;"(A) General education on different mental health disorders, including information to improve understanding of the experiences of individuals suffering from such disorders.
+
+&emsp;&emsp;"(B) Techniques for handling crisis situations and administering mental health first aid to individuals suffering from a mental health disorder.
+
+&emsp;&emsp;"(C) Techniques for coping with the stress of living with an individual suffering from a mental health disorder.
+
+&emsp;&emsp;"(D) Information on additional services available for family members and caregivers through the Department or community organizations and providers related to mental health disorders.
+
+&emsp;&emsp;"(E) Such other matters as the Secretary considers appropriate.
+
+"(c)
+
+Surveys.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall conduct a comprehensive survey of the satisfaction of individuals that have participated in the course of education described in subsection (b)(5). Such survey shall include a solicitation of feedback on the following:
+
+&emsp;&emsp;"(A) The general satisfaction of those individuals with the education and assistance provided under the education program.
+
+&emsp;&emsp;"(B) The perceived effectiveness of the education program in providing education and assistance that is useful for those individuals.
+
+&emsp;&emsp;"(C) The applicability of the education program to the issues faced by those individuals.
+
+&emsp;&emsp;"(D) Such other matters as the Secretary considers appropriate.
+
+&emsp;"(2)
+
+Compilation of information.—The information compiled as a result of the surveys conducted under paragraph (1) shall be—
+
+&emsp;&emsp;"(A) disaggregated by facility type at which the education program was carried out; and
+
+&emsp;&emsp;"(B) included in the annual reports under subsection (d)(1).
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Annual reports.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of the commencement of the education program and not later than September 30 each year thereafter until 2024, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on—
+
+&emsp;&emsp;&emsp;"(i) the education program; and
+
+&emsp;&emsp;&emsp;"(ii) the feasibility and advisability of expanding the education program to include the establishment of a peer support program composed of individuals who complete the education program (in this section referred to as a 'peer support program').
+
+&emsp;&emsp;"(B)
+
+Elements.—Each report submitted under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) The number of individuals that participated in the course of education described in subsection (b)(5) during the year preceding the submission of the report.
+
+&emsp;&emsp;&emsp;"(ii) A detailed analysis of the surveys conducted under subsection (c) with respect to the individuals described in clause (i).
+
+&emsp;&emsp;&emsp;"(iii) Any plans for expansion of the education program.
+
+&emsp;&emsp;&emsp;"(iv) An analysis of the feasibility and advisability of establishing a peer support program.
+
+&emsp;&emsp;&emsp;"(v) The interim findings and conclusions of the Secretary with respect to the success of the education program and the feasibility and advisability of establishing a peer support program.
+
+&emsp;"(2)
+
+Final report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the completion of the education program, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a final report on the feasibility and advisability of continuing the education program.
+
+&emsp;&emsp;"(B)
+
+Elements.—The final report under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A detailed analysis of the surveys conducted under subsection (c).
+
+&emsp;&emsp;&emsp;"(ii) An analysis of the feasibility and advisability of continuing the education program without entering into contracts for the course of education described in subsection (b)(5).
+
+&emsp;&emsp;&emsp;"(iii) An analysis of the feasibility and advisability of expanding the education program.
+
+&emsp;&emsp;&emsp;"(iv) An analysis of the feasibility and advisability of establishing a peer support program.
+
+"(e)
+
+Monitoring of Program.—The Secretary shall select mental health care providers of the Department to monitor the progress of the instruction provided under the education program.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'eligible veteran' means a veteran who is enrolled in the health care system established under section 1705(a) of title 38, United States Code.
+
+&emsp;"(2) The terms 'caregiver' and 'family member' have the meaning given those terms in section 1720G(d) of title 38, United States Code."
 
 #### Publication in Federal Register
 
@@ -356,7 +606,7 @@ Final report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than October 1, 2019, the Secretary shall submit to the Committee onVeterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the implementation of subsections (a) through (c).
+In general.—Not later than October 1, 2019, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate, the Committee on Veterans' Affairs of the House of Representatives, and the Comptroller General a report on the implementation of subsections (a) through (c).
 
 &emsp;&emsp;"(B)
 

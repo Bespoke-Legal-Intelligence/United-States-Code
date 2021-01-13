@@ -26,6 +26,8 @@
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 378; amended Pub. L. 105–368, title IV, §403(a)(2), Nov. 11, 1998, 112 Stat. 3338.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 301 was renumbered section 1101 of this title.
@@ -38,13 +40,23 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 <b>1998</b>—Subsec. (c)(4). Pub. L. 105–368 substituted "Administration" for "System".
 
-#### Order of Succession
-
-For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Veterans Affairs Personnel Transparency
 
-Pub. L. 115–182, title V, §505, June 6, 2018, 132 Stat. 1477, provided that:
+Pub. L. 116–159, div. E, title I, §5108, Oct. 1, 2020, 134 Stat. 749, provided that: "Not later than October 31, 2022, and October 31, 2024, and as frequently thereafter as the Inspector General of the Department of Veterans Affairs considers appropriate, the Inspector General shall—
+
+"(1) review the administration of the internet website required by section 505(a)(1) of the VA MISSION Act of 2018 (Public Law 115–182; 132 Stat. 1477; 38 U.S.C. 301 note);
+
+"(2) develop recommendations for such legislative or administrative action as the Inspector General considers appropriate for such administration; and
+
+"(3) submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on—
+
+&emsp;"(A) the findings of the Inspector General with respect to the most recent review conducted under paragraph (1); and
+
+&emsp;"(B) the recommendations most recently developed under paragraph (2)."
+
+Pub. L. 115–182, title V, §505, June 6, 2018, 132 Stat. 1477, as amended by Pub. L. 116–315, title III, §3008, Jan. 5, 2021, 134 Stat. 4996, provided that:
 
 "(a)
 
@@ -61,6 +73,14 @@ Website required.—Subject to paragraph (2) and not later than 90 days after th
 &emsp;&emsp;"(C) The number of vacancies, by occupation.
 
 &emsp;&emsp;"(D) The percentage of new hires for the Department who were hired within the time-to-hire target of the Office of Personnel Management, disaggregated by administration.
+
+&emsp;&emsp;"(E) Beginning with any update under paragraph (3) on or after the date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 \[Jan. 5, 2021\], the following:
+
+&emsp;&emsp;&emsp;"(i) For employees appointed under paragraphs (1) and (3) of section 7401 of title 38, United States Code, the number of employees for which the duration of the process from validation of vacancy to receipt of official offer and notification of actual start date exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model.
+
+&emsp;&emsp;&emsp;"(ii) The percentage of employees who are described in clause (i) compared to all employees appointed under paragraphs (1) and (3) of section 7401 of such title during the same period.
+
+&emsp;&emsp;&emsp;"(iii) The average number of days potential hires or new hires appointed under paragraphs (1) and (3) of section 7401 of such title spent in each phase of the Time to Hire Model, or successor model.
 
 &emsp;"(2)
 
@@ -80,11 +100,11 @@ Inspector general review.—On a semi-annual basis, the Inspector General of the
 
 "(b)
 
-Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
+Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity and to improve the onboard timeline for facilities for which the duration of the onboarding process exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
 
 #### Department of Veterans Affairs Franchise Fund
 
-Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, as amended by Pub. L. 109–114, title II, §208, Nov. 30, 2005, 119 Stat. 2389, provided in part that: "There is hereby established in the Treasury a Department of Veterans Affairs franchise fund, to be available without fiscal year limitation for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessaryto maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury."
+Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, as amended by Pub. L. 109–114, title II, §208, Nov. 30, 2005, 119 Stat. 2389, provided in part that: "There is hereby established in the Treasury a Department of Veterans Affairs franchise fund, to be available without fiscal year limitation for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury."
 
 #### Renaming of Veterans Health Services and Research Administration
 
@@ -217,6 +237,12 @@ In General.—Except as provided in subsection (b), this Act shall take effect o
 "(b)
 
 Appointment of Secretary.—Notwithstanding any other provision of law or of this Act, the President may, any time after January 21, 1989, appoint an individual to serve as Secretary of the Department of Veterans Affairs."
+
+#### <b>Executive Documents</b>
+
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13793. Improving Accountability and Whistleblower Protection at the Department of Veterans Affairs
 

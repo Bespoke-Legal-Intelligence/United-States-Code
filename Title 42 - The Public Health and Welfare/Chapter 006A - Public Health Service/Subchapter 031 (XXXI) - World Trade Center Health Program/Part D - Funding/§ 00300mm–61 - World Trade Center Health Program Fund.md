@@ -84,7 +84,7 @@ Of the amounts made available under subsection (b)(1), not more than each of the
 
 &emsp;&emsp;(A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) <sup>1</sup> as in effect on the day before December 18, 2015; and
 
-&emsp;&emsp;(B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+&emsp;&emsp;(B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; UnitedStates city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
 #### (2) WTC Health Program Scientific/Technical Advisory Committee
 
@@ -138,7 +138,7 @@ A prior section 300aaa–1, act July 1, 1944, ch. 373, title XXVII, §2702, form
 
 A prior section 300aaa–2, act July 1, 1944, ch. 373, title XXVII, §2703, formerly title V, §503, 58 Stat. 710, as amended, which related to disposition of money collected for care of patients, was renumbered section 233 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238b of this title.
 
-A prior section 300aaa–3, act July 1, 1944, ch. 373, title XXVII, §2704, formerly title V, §506, 58 Stat. 710, as amended, which related to transportation of remains of officers, was renumbered section 234 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3),June 10, 1993, 107 Stat. 213, and transferred to section 238c of this title.
+A prior section 300aaa–3, act July 1, 1944, ch. 373, title XXVII, §2704, formerly title V, §506, 58 Stat. 710, as amended, which related to transportation of remains of officers, was renumbered section 234 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238c of this title.
 
 A prior section 300aaa–4, act July 1, 1944, ch. 373, title XXVII, §2705, formerly title V, §507, as added June 24, 1967, Pub. L. 90–31, §5, 81 Stat. 79, and amended, which related to availability of appropriations for grants to Federal institutions, was renumbered section 235 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238d of this title.
 
@@ -148,7 +148,7 @@ A prior section 300aaa–6, act July 1, 1944, ch. 373, title XXVII, §2707, form
 
 A prior section 300aaa–7, act July 1, 1944, ch. 373, title XXVII, §2708, formerly title V, §510, 58 Stat. 711, as amended, which related to wearing of uniforms, was renumbered section 238 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238g of this title.
 
-A prior section 300aaa–8, act July 1, 1944, ch. 373, title XXVII, §2709, formerly title V, §511, 58 Stat. 711, as amended, which related to annual report of Surgeon General, was renumbered section 239 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238h of this title.
+A prior section 300aaa–8, act July 1, 1944, ch. 373, title XXVII, §2709, formerly title V, §511, 58 Stat. 711, asamended, which related to annual report of Surgeon General, was renumbered section 239 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238h of this title.
 
 A prior section 300aaa–9, act July 1, 1944, ch. 373, title XXVII, §2710, formerly title V, §512, as added Oct. 15, 1968, Pub. L. 90–574, title V, §503(a), 82 Stat. 1012, and amended, which related to memorials and other acknowledgements for contributions to the health of the Nation, was renumbered section 240 of title II of act July 1, 1944, by Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213, and transferred to section 238i of this title.
 

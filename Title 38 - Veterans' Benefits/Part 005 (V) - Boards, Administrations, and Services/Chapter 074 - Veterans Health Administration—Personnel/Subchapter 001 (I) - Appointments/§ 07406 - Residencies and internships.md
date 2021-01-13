@@ -28,7 +28,7 @@
 
 &emsp;(D) an amount to cover a pro rata share of the cost of expense of such central administrative agency.
 
-(3)(A) Any amounts paid by the Secretary to such central administrative agency to cover the cost of hospitalization, medical care, or life insurance or other employee benefits shall be in lieu of any benefits of like nature to which such intern or resident may be entitled under the provisions of title 5, and the acceptance of stipends and employee benefits from the designated central administrative agency shall constitute a waiver by the recipient of any claim such recipient might have to any payment ofstipends or employee benefits to which such recipient may be entitled under this title or title 5.
+(3)(A) Any amounts paid by the Secretary to such central administrative agency to cover the cost of hospitalization, medical care, or life insurance or other employee benefits shall be in lieu of any benefits of like nature to which such intern or resident may be entitled under the provisions of title 5, and the acceptance of stipends and employee benefits from the designated central administrative agency shall constitute a waiver by the recipient of any claim such recipient might have to any payment of stipends or employee benefits to which such recipient may be entitled under this title or title 5.
 
 (B) Notwithstanding subparagraph (A), any period of service of any such intern or resident in a Department facility furnishing hospital care or medical services shall be deemed creditable service for the purposes of section 8332 of title 5.
 
@@ -43,6 +43,8 @@
 (5) Leave described in paragraph (4)(C) may be pooled, and the intern or resident may be afforded leave by the facility in which such person is serving at the time the leave is to be used to the extent of such person's total accumulated leave, whether or not earned at the facility in which such person is serving at the time the leave is to be afforded.
 
 (Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 227; amended Pub. L. 104–262, title III, §345, Oct. 9, 1996, 110 Stat. 3208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Subsec. (c)(4)(C). Pub. L. 104–262, §345(2), substituted "participating facil
 Pub. L. 104–262, §345(1), substituted "Department facility furnishing hospital care or medical services" for "Department hospital".
 
 Subsec. (c)(5). Pub. L. 104–262, §345(3), substituted "facility" for "hospital" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Training in Telemedicine
 

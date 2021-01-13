@@ -6,15 +6,33 @@ In General.—Notwithstanding any provision of law regarding the licensure of he
 
 (b)
 
-Covered Health Care Professionals.—For purposes of this section, a covered health care professional is any health care professional who—
+Covered Health Care Professionals.—For purposes of this section, a covered health care professional is any of the following individuals:
 
-&emsp;(1) is an employee of the Department appointed under the authority under section 7306, 7401, 7405, 7406, or 7408 of this title or title 5;
+&emsp;(1) A health care professional who—
 
-&emsp;(2) is authorized by the Secretary to provide health care under this chapter;
+&emsp;&emsp;(A) is an employee of the Department appointed under section 7306, 7401, 7405, 7406, or 7408 of this title or under title 5;
 
-&emsp;(3) is required to adhere to all standards for quality relating to the provision of medicine in accordance with applicable policies of the Department; and
+&emsp;&emsp;(B) is authorized by the Secretary to provide health care under this chapter;
 
-&emsp;(4) has an active, current, full, and unrestricted license, registration, or certification in a State to practice the health care profession of the health care professional.
+&emsp;&emsp;(C) is required to adhere to all standards for quality relating to the provision of health care in accordance with applicable policies of the Department; and
+
+&emsp;&emsp;(D)(i) has an active, current, full, and unrestricted license, registration, or certification in a State to practice the health care profession of the health care professional; or
+
+&emsp;&emsp;(ii) with respect to a health care profession listed under section 7402(b) of this title, has the qualifications for such profession as set forth by the Secretary.
+
+&emsp;(2) A postgraduate health care employee who—
+
+&emsp;&emsp;(A) is appointed under section 7401(1), 7401(3), or 7405 of this title or title 5 for any category of personnel described in paragraph (1) or (3) of section 7401 of this title;
+
+&emsp;&emsp;(B) must obtain an active, current, full, and unrestricted license, registration, or certification or meet qualification standards set forth by the Secretary within a specified time frame; and
+
+&emsp;&emsp;(C) is under the clinical supervision of a health care professional described in paragraph (1); or
+
+&emsp;(3) A health professions trainee who—
+
+&emsp;&emsp;(A) is appointed under section 7405 or 7406 of this title; and
+
+&emsp;&emsp;(B) is under the clinical supervision of a health care professional described in paragraph (1).
 
 (c)
 
@@ -34,9 +52,15 @@ Rule of Construction.—Nothing in this section may be construed to remove, limi
 
 State Defined.—In this section, the term "State" means a State, as defined in section 101(20) of this title, or a political subdivision of a State.
 
-(Added Pub. L. 115–182, title I, §151(a), June 6, 2018, 132 Stat. 1430.)
+(Added Pub. L. 115–182, title I, §151(a), June 6, 2018, 132 Stat. 1430; amended Pub. L. 116–283, div. H, title XCI, §9101, Jan. 1, 2021, 134 Stat. 4780.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to who were considered covered health care professionals.
 

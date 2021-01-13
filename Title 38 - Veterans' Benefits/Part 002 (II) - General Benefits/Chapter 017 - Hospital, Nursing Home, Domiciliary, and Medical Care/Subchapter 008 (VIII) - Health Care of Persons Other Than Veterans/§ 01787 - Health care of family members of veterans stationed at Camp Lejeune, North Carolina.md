@@ -10,15 +10,17 @@ Limitations.—(1) The Secretary may only furnish hospital care and medical serv
 
 (2) Hospital care and medical services may not be furnished under subsection (a) for an illness or condition of a family member that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the residence of the family member described in that subsection.
 
-(3) The Secretary may provide reimbursement for hospital care or medical services provided to a family member under this section only after the family member or the provider of such careor services has exhausted without success all claims and remedies reasonably available to the family member or provider against a third party (as defined in section 1725(f) of this title) for payment of such care or services, including with respect to health-plan contracts (as defined in such section).
+(3) The Secretary may provide reimbursement for hospital care or medical services provided to a family member under this section only after the family member or the provider of such care or services has exhausted without success all claims and remedies reasonably available to the family member or provider against a third party (as defined in section 1725(f) of this title) for payment of such care or services, including with respect to health-plan contracts (as defined in such section).
 
 (Added Pub. L. 112–154, title I, §102(b)(1), Aug. 6, 2012, 126 Stat. 1168.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior section 1787 was renumbered section 3687 of this title.
 
-Another prior section 1787, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission of false or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
+Another prior section 1787, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission offalse or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
 
 Prior section 1788 was renumbered section 3688 of this title.
 
@@ -41,6 +43,8 @@ Prior sections 1792 and 1793 were renumbered sections 3692 and 3693 of this titl
 Another prior section 1793, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, §1789; amended Pub. L. 91–24, §15, June 11, 1969, 83 Stat. 35; renumbered and amended Pub. L. 92–540, title III, §316(2), title IV, §403(12), Oct. 24, 1972, 86 Stat. 1086, 1090, required that the Administrator not to approve of enrollment in any course in an institution listed by the Attorney General under section 12 of Executive Order 10450, prior to repeal by section 511(1) of Pub. L. 94–502.
 
 Prior sections 1794 to 1799 were renumbered sections 3694 to 3699 of this title, respectively, and sections 3698 and 3699 were subsequently repealed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

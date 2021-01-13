@@ -20,7 +20,7 @@ Any person (as defined in section 6671(b)) who—
 
 &emsp;"(B) an amount equal to 50 percent of the interest payable under section 6601 with respect to the portion of such underpayment which is attributable to negligence for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax)."
 
-Subsec. (b)(1). Pub. L. 100–647, §1015(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "If any part of any underpayment (as defined in subsection (c)) of tax required to be shown on a return is due to fraud, there shall be added to the tax an amount equal to the sum of—
+Subsec. (b)(1). Pub. L. 100–647, §1015(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "If any part of any underpayment (as defined in subsection (c)) of tax required to be shown on a return is due to fraud, there shall be added to the tax an amount equal to the sum of—
 
 &emsp;"(A) 75 percent of the portion of the underpayment which is attributable to fraud, and
 

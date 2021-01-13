@@ -22,7 +22,7 @@
 
 (1) If an otherwise eligible individual files a tort case specified in subsection (d) after December 28, 2001, such individual shall not be eligible for such compensation or benefits if a final court decision is entered against such individual in such tort case.
 
-(2) If such a final court decision is not entered, such individual shall nonetheless not be eligible for such compensation or benefits, except as follows: If such individual dismisses such tort caseon or before the last permissible date specified in paragraph (3), such individual shall be eligible for such compensation and benefits.
+(2) If such a final court decision is not entered, such individual shall nonetheless not be eligible for such compensation or benefits, except as follows: If such individual dismisses such tort case on or before the last permissible date specified in paragraph (3), such individual shall be eligible for such compensation and benefits.
 
 (3) The last permissible date referred to in paragraph (2) is the later of the following dates:
 

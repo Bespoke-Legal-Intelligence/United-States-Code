@@ -70,7 +70,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 #### (5) Joint fiduciaries
 
-&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enablehim to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
+&emsp;Under such regulations as the Secretary may prescribe, a return made by one of two or more joint fiduciaries shall be sufficient compliance with the requirements of this section. A return made pursuant to this paragraph shall contain a statement that the fiduciary has sufficient knowledge of the affairs of the person for whom the return is made to enable him to make the return, and that the return is, to the best of his knowledge and belief, true and correct.
 
 #### (6) IRA share of partnership income
 
@@ -282,7 +282,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, see section 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
+Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, seesection 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
 
 #### Effective and Termination Dates of 1975 Amendments
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
+Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511, provided that the amendment made by section 204(a) is effective with respect to taxable years beginning after Dec. 31, 1971.
 
 #### Effective Date of 1969 Amendment
 

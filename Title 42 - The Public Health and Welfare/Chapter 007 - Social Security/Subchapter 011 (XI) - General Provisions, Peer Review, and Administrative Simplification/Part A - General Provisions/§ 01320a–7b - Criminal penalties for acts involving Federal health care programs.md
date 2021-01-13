@@ -22,7 +22,7 @@ Whoever—
 
 (1) Whoever knowingly and willfully solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
 
-&emsp;(A) in return for referring an individual to a person for the furnishing or arranging for thefurnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
+&emsp;(A) in return for referring an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
 
 &emsp;(B) in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
@@ -52,7 +52,7 @@ Whoever—
 
 &emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
 
-&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
+&emsp;(F) any remuneration between an organization and an individual or entity providingitems or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
 
 &emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section);
 
@@ -158,7 +158,7 @@ Pub. L. 108–173, §237(d), added subpar. (H) relating to remuneration between 
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted "failure, conversion, or provision of counsel or assistance by any other person" for "failure, or conversion by any other person".
 
-Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: "knowingly and willfully disposes of assets (including by any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,".
+Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: "knowingly and willfully disposes of assets (includingby any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,".
 
 Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted "critical access" for "rural primary care".
 
@@ -196,7 +196,7 @@ Pub. L. 100–203, §4211(h)(7)(A), substituted "nursing facility, intermediate 
 
 Subsec. (d)(2)(A). Pub. L. 100–203, §4211(h)(7)(B), substituted "nursing facility, or intermediate care facility for the mentally retarded" for "skilled nursing facility, or intermediate care facility".
 
-<b>1987</b>—Pub. L. 100–93, §4(a)(1), substituted "Criminal penalties for acts involving Medicare or State healthcare programs" for "Offenses and penalties" in section catchline.
+<b>1987</b>—Pub. L. 100–93, §4(a)(1), substituted "Criminal penalties for acts involving Medicare or State health care programs" for "Offenses and penalties" in section catchline.
 
 Subsec. (a). Pub. L. 100–93, §4(a)(3), (4), in concluding provisions, substituted "made under the program" for "made under this subchapter", "approved under subchapter XIX of this chapter" for "approved under this subchapter", and "provision of that subchapter" for "provision of this subchapter".
 
@@ -270,7 +270,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendments
 
-Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulationsimplementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(7) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
@@ -326,7 +326,7 @@ In general.—The Secretary of Health and Human Services (in this subsection ref
 
 Factors to consider.—In establishing standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties under subparagraph (A), the Secretary—
 
-&emsp;&emsp;"(i) shall consult with the Attorney General and representatives of the hospital, physician, other health practitioner, and health plan communities, and other interested parties; and
+&emsp;&emsp;"(i) shall consult with the Attorney General and representatives of the hospital, physician, otherhealth practitioner, and health plan communities, and other interested parties; and
 
 &emsp;&emsp;"(ii) shall take into account—
 
@@ -377,6 +377,38 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 #### Anti-Kickback Regulations
 
 Pub. L. 100–93, §14(a), Aug. 18, 1987, 101 Stat. 697, provided that: "The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[42 U.S.C. 1320a–7b(b)\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3)."
+
+#### Ex. Ord. No. 13939. Lowering Prices for Patients by Eliminating Kickbacks to Middlemen
+
+Ex. Ord. No. 13939, July 24, 2020, 85 F.R. 45759, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. One of the reasons pharmaceutical drug prices in the United States are so high is because of the complex mix of payers and negotiators that often separates the consumer from the manufacturer in the drug-purchasing process. The result is that the prices patients see at the point-of-sale do not reflect the prices that the patient's insurance companies, and middlemen hired by the insurance companies, actually pay for drugs. Instead, these middlemen—health plan sponsors and pharmacy benefit managers (PBMs)—negotiate significant discounts off of the list prices, sometimes up to 50 percent of the cost of the drug. Medicare patients, whose cost sharing is typically based on list prices, pay more than they should for drugs while the middlemen collect large "rebate" checks. These rebates are the functional equivalent of kickbacks, and erode savings that could otherwise go to the Medicare patients taking those drugs. Yet currently, Federal regulations create a safe harbor for such discounts and preclude treating them as kickbacks under the law.
+
+Fixing this problem could save Medicare patients billions of dollars. The Office of the Inspector General at the Department of Health and Human Services has found that patients in the catastrophic phase of the Medicare Part D program saw their out-of-pocket costs for high-price drugs increase by 47 percent from 2010 to 2015, from $175 per month to $257 per month. Narrowing the safe harbor for these discounts under the anti-kickback statute will allow tens of billions in dollars of rebates on prescription drugs in the Medicare Part D program to go directly to patients, saving many patients hundreds or thousands of dollars per year at the pharmacy counter.
+
+Sec. 2. <i>Policy</i>. It is the policy of the United States that discounts offered on prescription drugs should be passed on to patients.
+
+Sec. 3. <i>Directing Drug Rebates to Patients Instead of Middlemen</i>. The Secretary of Health and Human Services shall complete the rulemaking process he commenced seeking to:
+
+(a) exclude from safe harbor protections under the anti-kickback statute, section 1128B(b) of the Social Security Act, 42 U.S.C. 1320a–7b\[(b)\], certain retrospective reductions in price that are not applied at the point-of-sale or other remuneration that drug manufacturers provide to health plan sponsors, pharmacies, or PBMs in operating the Medicare Part D program; and
+
+(b) establish new safe harbors that would permit health plan sponsors, pharmacies, and PBMs to apply discounts at the patient's point-of-sale in order to lower the patient's out-of-pocket costs, and that would permit the use of certain bona fide PBM service fees.
+
+Sec. 4. <i>Protecting Low Premiums</i>. Prior to taking action under section 3 of this order, the Secretary of Health and Human Services shall confirm—and make public such confirmation—that the action is not projected to increase Federal spending, Medicare beneficiary premiums, or patients' total out-of-pocket costs.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

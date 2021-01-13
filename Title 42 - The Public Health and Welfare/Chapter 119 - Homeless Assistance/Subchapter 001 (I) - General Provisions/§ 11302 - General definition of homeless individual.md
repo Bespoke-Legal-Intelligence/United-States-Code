@@ -36,7 +36,7 @@ For purposes of this chapter, the terms "homeless", "homeless individual", and "
 
 #### (b) Domestic violence and other dangerous or life-threatening conditions
 
-Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual's or family's current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
+Notwithstanding any other provision of this section, the Secretary shall consider to behomeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual's or family's current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
 
 #### (c) Income eligibility
 
@@ -54,7 +54,7 @@ For purposes of this chapter, the term "homeless" or "homeless individual" does 
 
 #### (e) Persons experiencing homelessness
 
-Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall beconsidered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
+Any references in this chapter to homeless individuals (including homeless persons) or homeless groups (including homeless persons) shall be considered to include, and to refer to, individuals experiencing homelessness or groups experiencing homelessness, respectively.
 
 (Pub. L. 100–77, title I, §103, July 22, 1987, 101 Stat. 485; Pub. L. 101–625, title VIII, §822, Nov. 28, 1990, 104 Stat. 4355; Pub. L. 101–645, title VI, §602, Nov. 29, 1990, 104 Stat. 4734; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(41), (f)(32)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–22, div. B, §1003(a), title V, §1502(b), May 20, 2009, 123 Stat. 1664, 1701; Pub. L. 113–128, title V, §512(s), July 22, 2014, 128 Stat. 1712.)
 

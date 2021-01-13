@@ -6,9 +6,9 @@ In this section:
 
 #### (1) Eligible documentation
 
-&emsp;The term "eligible documentation", with respect to land for which a farm operator seeks assignment of a farm number under subsection (b)(1), includes—
+&emsp;The term "eligible documentation", with respect to land for which a farm operator seeksassignment of a farm number under subsection (b)(1), includes—
 
-&emsp;&emsp;(A) in States that have adopted a statute consisting of an enactment or adoption ofthe Uniform Partition of Heirs Property Act, as approved and recommended for enactment in all States by the National Conference of Commissioners on Uniform State Laws in 2010—
+&emsp;&emsp;(A) in States that have adopted a statute consisting of an enactment or adoption of the Uniform Partition of Heirs Property Act, as approved and recommended for enactment in all States by the National Conference of Commissioners on Uniform State Laws in 2010—
 
 &emsp;&emsp;&emsp;(i) a court order verifying the land meets the definition of heirs property (as defined in that Act); or
 

@@ -20,7 +20,7 @@
 | [868\.](%C2%A7%2000868%20-%20Art.%2068.%20Branch%20offices.md) | 68\. | Branch offices. |
 | [869\.](%C2%A7%2000869%20-%20Art.%2069.%20Review%20by%20Judge%20Advocate%20General.md) | 69\. | Review by Judge Advocate General. |
 | [870\.](%C2%A7%2000870%20-%20Art.%2070.%20Appellate%20counsel.md) | 70\. | Appellate counsel. |
-| [871\.](%C2%A7%2000871%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20E%2C%20title%20LVIII%2C%20%C2%A75302%28b%29%282%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202923.md) | 71\. | Repealed. |
+| \[871. | 71\. | Repealed.\] |
 | [872\.](%C2%A7%2000872%20-%20Art.%2072.%20Vacation%20of%20suspension.md) | 72\. | Vacation of suspension. |
 | [873\.](%C2%A7%2000873%20-%20Art.%2073.%20Petition%20for%20a%20new%20trial.md) | 73\. | Petition for a new trial. |
 | [874\.](%C2%A7%2000874%20-%20Art.%2074.%20Remission%20and%20suspension.md) | 74\. | Remission and suspension. |
@@ -35,7 +35,7 @@
 
 <b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(6)(D), Dec. 23, 2016, 130 Stat. 2967, struck out item 871 "Art. 71. Execution of sentence; suspension of sentence".
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review by Judge Advocate General" for "Review in the office of the Judge Advocate General" in item 869.
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review byJudge Advocate General" for "Review in the office of the Judge Advocate General" in item 869.
 
 Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
 
@@ -43,7 +43,7 @@ Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2
 
 <b>1996</b>—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted "Court of Criminal Appeals" for "Court of Military Review" in item866 and "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item 867.
+<b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted "Court of Criminal Appeals" for "Court of Military Review" in item 866 and "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item 867.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(1), Nov. 5, 1990, 104 Stat. 1718, added item 867a.
 

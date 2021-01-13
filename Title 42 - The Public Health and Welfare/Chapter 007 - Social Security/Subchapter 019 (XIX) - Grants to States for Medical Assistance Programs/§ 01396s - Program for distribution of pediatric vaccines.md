@@ -78,7 +78,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) submits to the State an executed provider agreement described in paragraph (2); and
 
-&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements establishedby the Secretary or the State consistent with this section.
+&emsp;&emsp;(C) has not been found, by the Secretary or the State, to have violated such agreement or other applicable requirements established by the Secretary or the State consistent with this section.
 
 #### (2) Provider agreement
 
@@ -110,7 +110,7 @@ For purposes of this section:
 
 #### (4) State requirements
 
-&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
+&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to therequirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
 
 #### (d) Negotiation of contracts with manufacturers
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including termsand conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 

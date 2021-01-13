@@ -200,7 +200,7 @@ In administering the Program, the Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted for a grant under paragraph (1) shall include a description of the direct or indirect producer or food business benefits intended by the applicant to result from the proposed project within a reasonable period of time after the receipt of the grant.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted for a grant underparagraph (1) shall include a description of the direct or indirect producer or food business benefits intended by the applicant to result from the proposed project within a reasonable period of time after the receipt of the grant.
 
 #### (ii) Exception
 
@@ -304,7 +304,7 @@ In administering the Program, the Secretary shall—
 
 #### (E) Matching funds
 
-&emsp;&emsp;An eligible entity described in subparagraph (B) receiving a grant shall provide matching funds in the form of cash or an in-kind contribution in an amount that is equal to 25 percent of the total amount of the Federal portion of the grant.
+&emsp;&emsp;An eligible entity described in subparagraph (B) receiving a grant shall providematching funds in the form of cash or an in-kind contribution in an amount that is equal to 25 percent of the total amount of the Federal portion of the grant.
 
 #### (e) Partnerships
 
@@ -374,7 +374,7 @@ In administering the Program, the Secretary shall—
 
 &emsp;&emsp;(C) create and conduct a feasibility study, implementation plan, and assessment of eligible activities under the partnership agreement;
 
-&emsp;&emsp;(D) conduct outreach and education to other eligible entities and eligible partnersfor potential participation in the partnership agreement and eligible activities;
+&emsp;&emsp;(D) conduct outreach and education to other eligible entities and eligible partners for potential participation in the partnership agreement and eligible activities;
 
 &emsp;&emsp;(E) describe measures to be taken through the partnership agreement to obtain funding for the eligible activities to be carried out under the partnership agreement;
 
@@ -424,7 +424,7 @@ In administering the Program, the Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted under subparagraph (A) shall include a description of the direct or indirect producer or food business benefits intended by the eligible entity to result from the proposed project within a reasonable period of time after the receipt of a grant.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted under subparagraph (A) shall include a description of the direct or indirect producer or food business benefits intended by the eligible entity to result from the proposed project within areasonable period of time after the receipt of a grant.
 
 #### (ii) Exception
 

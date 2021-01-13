@@ -16,5 +16,5 @@ Act Mar. 8, 1946, ch. 82, §14, 60 Stat. 50, as amended June 28, 1947, ch. 161, 
 
 #### Great Lakes Vessels
 
-Act Sept. 28, 1950, ch. 1093, §3, 64 Stat. 1078, provided that contracts for the sale of vessels for exclusive use on the Great Lakes could be made until Dec. 31, 1950, and transfer to the Great Lakes of such vessels was required to be completed by Dec. 31, 1951.
+Act Sept. 28, 1950, ch. 1093, §3, 64 Stat. 1078, provided that contracts for the sale of vessels for exclusive useon the Great Lakes could be made until Dec. 31, 1950, and transfer to the Great Lakes of such vessels was required to be completed by Dec. 31, 1951.
 

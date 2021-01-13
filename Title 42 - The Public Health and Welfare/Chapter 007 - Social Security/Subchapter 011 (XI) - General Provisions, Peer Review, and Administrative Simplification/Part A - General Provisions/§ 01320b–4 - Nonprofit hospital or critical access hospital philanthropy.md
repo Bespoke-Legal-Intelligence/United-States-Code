@@ -1,6 +1,6 @@
 ### §1320b–4. Nonprofit hospital or critical access hospital philanthropy
 
-For purposes of determining, under subchapters XVIII and XIX of this chapter, the reasonable costs of services provided by nonprofithospitals or critical access hospitals, the following items shall not be deducted from the operating costs of such hospitals or critical access hospitals:
+For purposes of determining, under subchapters XVIII and XIX of this chapter, the reasonable costs of services provided by nonprofit hospitals or critical access hospitals, the following items shall not be deducted from the operating costs of such hospitals or critical access hospitals:
 
 &emsp;(1) A grant, gift, or endowment, or income therefrom, which is to or for such a hospital and which has not been designated by the donor for paying any specific operating costs.
 

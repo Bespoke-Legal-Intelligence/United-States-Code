@@ -4,9 +4,13 @@ The board shall have perpetual succession, with all the usual powers and obligat
 
 (Mar. 3, 1925, ch. 423, §3, 43 Stat. 1108; Jan. 27, 1926, ch. 6, §1, 44 Stat. 2; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1926</b>—Act Jan. 27, 1926, inserted "including the power to sell" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

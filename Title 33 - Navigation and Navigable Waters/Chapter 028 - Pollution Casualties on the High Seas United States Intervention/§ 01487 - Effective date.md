@@ -4,9 +4,13 @@ This chapter shall be effective upon February 5, 1974, or upon the date the conv
 
 (Pub. L. 93–248, §18, Feb. 5, 1974, 88 Stat. 10.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date the convention became effective as to the United States, referred to in text, is May 6, 1975.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

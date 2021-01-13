@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL PROVISIONS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, title I, §108(c)(2), Dec. 4, 2018, 132 Stat. 4210, inserted subchapter I designation and heading.
@@ -18,4 +20,5 @@
 - [&sect; 01107 - Extension of major acquisition program contracts](%C2%A7%2001107%20-%20Extension%20of%20major%20acquisition%20program%20contracts.md)
 - [&sect; 01108 - Department of Defense consultation](%C2%A7%2001108%20-%20Department%20of%20Defense%20consultation.md)
 - [&sect; 01109 - Undefinitized contractual actions](%C2%A7%2001109%20-%20Undefinitized%20contractual%20actions.md)
-- [&sect; 01110 - Mission need statement](%C2%A7%2001110%20-%20Mission%20need%20statement.md)
+- [&sect; 01110 - Elevation of disputes to the Chief Acquisition Officer](%C2%A7%2001110%20-%20Elevation%20of%20disputes%20to%20the%20Chief%20Acquisition%20Officer.md)
+- [&sect; 01111 - Acquisition workforce authorities](%C2%A7%2001111%20-%20Acquisition%20workforce%20authorities.md)

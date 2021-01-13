@@ -22,13 +22,15 @@ Subsequent award.—The Secretary may award an operating agreement to an applica
 
 (c)
 
-Procedure for Awarding New Operating Agreements.—The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a United States citizen under section 50501 of this title. The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
+Procedure for Awarding New Operating Agreements.—The Secretary may enter into a new operating agreement with an applicant that meets the requirements of section 53102(c) (for vessels that meet the qualifications of section 53102(b)) on the basis of priority for vessel type established by military requirements of the Secretary of Defense. The Secretary shall allow an applicant at least 30 days to submit an application for a new operating agreement. After consideration of military requirements, priority shall be given to an applicant that is a UnitedStates citizen under section 50501 of this title. The Secretary may not approve an application without the consent of the Secretary of Defense. The Secretary shall enter into an operating agreement with the applicant or provide a written reason for denying the application.
 
 (d)
 
 Limitation.—The Secretary may not award operating agreements under this chapter that require payments under section 53106 for a fiscal year for more than 60 vessels.
 
 (Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1808; amended Pub. L. 109–304, §13(a)(2), Oct. 6, 2006, 120 Stat. 1700; Pub. L. 109–364, div. C, title XXXV, §3502(b)(1), Oct. 17, 2006, 120 Stat. 2515; Pub. L. 112–239, div. C, title XXXV, §3508(c), Jan. 2, 2013, 126 Stat. 2224; Pub. L. 116–92, div. C, title XXXV, §3502(a), Dec. 20, 2019, 133 Stat. 1969.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

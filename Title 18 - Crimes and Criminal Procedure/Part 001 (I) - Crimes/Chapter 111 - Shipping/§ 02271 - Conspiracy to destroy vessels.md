@@ -18,6 +18,8 @@ Reference to a person who "aids in building or fitting out any vessel" was omitt
 
 Changes in phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in last par.

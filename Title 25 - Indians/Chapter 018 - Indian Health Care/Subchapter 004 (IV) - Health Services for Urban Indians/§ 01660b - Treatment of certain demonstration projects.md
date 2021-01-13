@@ -8,7 +8,9 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
 &emsp;(3) continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
-(Pub. L. 94–437, title V, §512, as added Pub. L. 102–573, title V, §503, Oct. 29, 1992, 106 Stat. 4569; amended Pub. L. 105–256, §4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, §512, as added Pub. L. 102–573, title V, §503, Oct. 29, 1992, 106 Stat. 4569;amended Pub. L. 105–256, §4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ Amendment by Pub. L. 111–148 is based on sections 101(b)(8) and 162 of title I
 Subsec. (c). Pub. L. 111–148 struck out subsec. (c), which authorized appropriations to carry out this section through fiscal year 2002, prior to general amendment of section. See above.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–256 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Permanent Programs Under the Direct Care Program of the Indian Health Service
 

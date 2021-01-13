@@ -1,5 +1,7 @@
 Part B—Organizations
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### National Foundation on Fitness, Sports, and Nutrition
 
 Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, provided that:
@@ -58,7 +60,7 @@ Appointments.—Within 90 days from the date of enactment of this Act \[Dec. 22,
 
 "(c)
 
-Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy onthe Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
+Terms.—The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
 
 "(d)
 
@@ -288,7 +290,7 @@ Relief With Respect to Certain Foundation Acts or Failure To Act.—If the Found
 - [Chapters 2105 Through 2199&#8212;Reserved](Chapters%202105%20Through%202199%E2%80%94Reserved/README.md)
 - [Chapter 2201 - United Service Organizations, Incorporated](Chapter%202201%20-%20United%20Service%20Organizations%2C%20Incorporated/README.md)
 - [Chapter 2203 - United States Capitol Historical Society](Chapter%202203%20-%20United%20States%20Capitol%20Historical%20Society/README.md)
-- [Chapter 2205 - United States Olympic Committee](Chapter%202205%20-%20United%20States%20Olympic%20Committee/README.md)
+- [Chapter 2205 - United States Olympic and Paralympic Committee](Chapter%202205%20-%20United%20States%20Olympic%20and%20Paralympic%20Committee/README.md)
 - [Chapter 2207 - United States Submarine Veterans of World War II](Chapter%202207%20-%20United%20States%20Submarine%20Veterans%20of%20World%20War%20II/README.md)
 - [Chapters 2209 Through 2299&#8212;Reserved](Chapters%202209%20Through%202299%E2%80%94Reserved/README.md)
 - [Chapter 2301 - Veterans of Foreign Wars of the United States](Chapter%202301%20-%20Veterans%20of%20Foreign%20Wars%20of%20the%20United%20States/README.md)

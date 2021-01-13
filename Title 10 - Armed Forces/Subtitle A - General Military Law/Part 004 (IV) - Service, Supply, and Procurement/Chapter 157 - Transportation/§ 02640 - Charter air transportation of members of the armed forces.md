@@ -62,7 +62,7 @@ Authority To Leave Unsafe Aircraft.—A representative of the Military Airlift C
 
 (f)
 
-FAA Information.—The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces.
+FAA Information.—The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defensefor the charter air transportation of members of the armed forces.
 
 (g)
 
@@ -90,11 +90,13 @@ Definitions.—In this section:
 
 &emsp;(1) The terms "air carrier", "aircraft", "air transportation", and "charter air transportation" have the meanings given such terms by section 40102(a) of title 49.
 
-&emsp;(2) The term "members of the armed forces" means members of the Army, Navy, Air Force, and Marine Corps.
+&emsp;(2) The term "members of the armed forces" means members of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-(Added Pub. L. 99–661, div. A, title XII, §1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, §5(b)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 105–85, div. A, title X, §1075(a), Nov. 18, 1997, 111 Stat. 1911.)
+(Added Pub. L. 99–661, div. A, title XII, §1204(a)(1), Nov. 14, 1986, 100 Stat. 3969; amended Pub. L. 103–272, §5(b)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 105–85, div. A, title X, §1075(a), Nov. 18, 1997, 111 Stat. 1911; Pub. L. 116–283, div. A, title IX, §924(b)(1)(P), Jan. 1, 2021, 134 Stat. 3820.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (j)(2). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
 <b>1997</b>—Subsecs. (h) to (j). Pub. L. 105–85 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
@@ -108,7 +110,7 @@ Pub. L. 105–85, div. A, title X, §1075(b), Nov. 18, 1997, 111 Stat. 1911, pro
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10,United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
+Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
 
 #### Regulations
 

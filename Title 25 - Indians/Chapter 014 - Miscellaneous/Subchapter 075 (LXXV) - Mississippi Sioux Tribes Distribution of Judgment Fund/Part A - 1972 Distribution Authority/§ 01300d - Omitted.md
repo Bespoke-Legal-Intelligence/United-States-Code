@@ -1,8 +1,12 @@
 ### §1300d. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 92–555, §1, Oct. 25, 1972, 86 Stat. 1168, which related to distribution of judgment funds and payment of attorney fees and expenses, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -10,6 +10,8 @@ The Foundation shall establish a principal office in the United States and may e
 
 (Pub. L. 96–533, title V, §503, Dec. 16, 1980, 94 Stat. 3152; Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–76 inserted "United States" before "African Development".

@@ -22,7 +22,7 @@ The Secretary shall begin to incorporate the standards and guidelines required b
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
+&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law,the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
 
 &emsp;&emsp;&emsp;(i) the listing of a species as threatened or endangered, or a designation of critical habitat pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), if a land management plan has been adopted by the Secretary as of the date of listing or designation; and
 
@@ -126,7 +126,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits,contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -162,7 +162,7 @@ The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), pro
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -182,9 +182,11 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 116–94, div. D, title IV, §407, Dec. 20, 2019, 133 Stat. 2743, provided that: "The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
+Pub. L. 116–260, div. G, title IV, §407, Dec. 27, 2020, 134 Stat. 1536, provided that: "The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title IV, §407, Dec. 20, 2019, 133 Stat. 2743.
 
 Pub. L. 116–6, div. E, title IV, §407, Feb. 15, 2019, 133 Stat. 259.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award supplemental grants to States determined to be eligible under subsection (b) to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A.
+The Secretary shall award supplemental grants to States determined to be eligible undersubsection (b) to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A.
 
 #### (b) Eligibility
 
@@ -80,5 +80,5 @@ Subsecs. (d) to (f). Pub. L. 109–415, §206(3), added subsecs. (d) to (f) and 
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

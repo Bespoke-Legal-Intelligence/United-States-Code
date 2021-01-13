@@ -46,9 +46,11 @@ Historical and Revision Notes
 
 Aug. 30, 1950, ch. 823, §3, 64 Stat. 563.
 
-In clause (1), the reference to the Vocational Education Act of 1946 (ch. 541, 49 Stat. 1488) is omitted because that Act was repealed by section 103 of the Act of October 16, 1968 (Public Law 90–576, 82 Stat. 1091). Thewords "States, territories, and possessions" are substituted for "several States and Territories" for consistency in the revised title and with other titles of the United States Code.
+In clause (1), the reference to the Vocational Education Act of 1946 (ch. 541, 49 Stat. 1488) is omitted because that Act was repealed by section 103 of the Act of October 16, 1968 (Public Law 90–576, 82 Stat. 1091). The words "States, territories, and possessions" are substituted for "several States and Territories" for consistency in the revised title and with other titles of the United States Code.
 
 In clause (7), the words "young men and women" are substituted for "farm boys and young men" to use gender-neutral terminology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -70,7 +72,7 @@ Par. (7). Pub. L. 116–7, §3(7), struck out "composed of students and former s
 
 Pub. L. 116–7, §3(2), (3), redesignated par. (1) as (7) and struck out former par. (7) which related to strengthening the confidence of young men and women to encourage development of individual farming programs and promote their permanent establishment in farming.
 
-Par. (8). Pub. L. 116–7, §3(2), (8), redesignated par. (2) as (8) and substituted "to build" for "to develop", "and develop" for "train for useful citizenship, and foster patriotism, and thereby develop", and "assertive" for "aggressive rural and". Former par. (8) redesignated (12).
+Par. (8). Pub. L. 116–7, §3(2), (8), redesignated par. (2) as (8) and substituted "to build" for "to develop", "and" for "train for useful citizenship, and foster patriotism, and thereby", and "assertive" for "aggressive rural and". Former par. (8) redesignated (12).
 
 Pars. (9), (10). Pub. L. 116–7, §3(9), added pars. (9) and (10). Former par. (9) redesignated (13).
 

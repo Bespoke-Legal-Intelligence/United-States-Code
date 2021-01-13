@@ -38,6 +38,8 @@ Historical and Revision Notes
 
 June 17, 1932, ch. 268, §3, 47 Stat. 320; July 15, 1942, ch. 505, §2, 56 Stat. 660; June 13, 1991, Pub. L. 102–54, §13(n)(2), 105 Stat. 278.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–135, §1(a)(1), substituted "The corporation is organized exclusively for charitable and educational purposes. The purposes of the corporation shall include" for "The purposes of the corporation are" in introductory provisions.

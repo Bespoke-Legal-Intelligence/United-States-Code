@@ -2,9 +2,9 @@
 
 #### (a) Designation
 
-In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131–1136), the following lands in the State of Georgia are hereby designated as wilderness and therefore as components of the National Wilderness Preservation System:
+In furtherance of the purposes of the Wilderness Act (16 U.S.C. 1131–1136), the following landsin the State of Georgia are hereby designated as wilderness and therefore as components of the National Wilderness Preservation System:
 
-&emsp;(1) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 7,800 acres, as generally depicted on a map entitled "Blood Mountain Wilderness—Proposed", dated October 1991, andwhich shall be known as Blood Mountain Wilderness.
+&emsp;(1) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 7,800 acres, as generally depicted on a map entitled "Blood Mountain Wilderness—Proposed", dated October 1991, and which shall be known as Blood Mountain Wilderness.
 
 &emsp;(2) Certain lands in the Chattahoochee National Forest, Georgia, which comprise approximately 16,880 acres, as generally depicted on a map entitled "Chattahoochee Headwaters Wilderness—Proposed", dated July 1991, and which shall be known as Mark Trail Wilderness.
 

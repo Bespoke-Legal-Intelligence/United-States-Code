@@ -21,6 +21,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294, title VI, §601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after "District" in item 3182 and after "Territory" in item 3183.

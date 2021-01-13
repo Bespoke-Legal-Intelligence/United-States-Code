@@ -14,13 +14,15 @@ When used in this part unless the context otherwise indicates—
 
 (f) The term "Receiving Office" means a national patent office or intergovernmental organization which receives and processes international applications as prescribed by the treaty and the Regulations.
 
-(g) The terms "International Searching Authority" and "International Preliminary Examining Authority" mean a national patent office or intergovernmental organization as appointed under the treaty which processes international applications as prescribed by the treaty and the Regulations.
+(g) The terms "International Searching Authority" and "International Preliminary Examining Authority" mean a national patent officeor intergovernmental organization as appointed under the treaty which processes international applications as prescribed by the treaty and the Regulations.
 
 (h) The term "International Bureau" means the international intergovernmental organization which is recognized as the coordinating body under the treaty and the Regulations.
 
 (i) Terms and expressions not defined in this part are to be taken in the sense indicated by the treaty and the Regulations.
 
 (Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 685; amended Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 99–616, §2(a)–(c), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 99–616, §2(b), struck out "excluding part C thereof" aft
 Subsec. (g). Pub. L. 99–616, §2(c), substituted "The terms 'International Searching Authority' and 'International Preliminary Examining Authority' mean" for "The term 'International Searching Authority' means".
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–622 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

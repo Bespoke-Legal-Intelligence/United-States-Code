@@ -14,7 +14,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) Base year
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year anamount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of this title (as in effect on the day before October 25, 2004) for fiscal year 2004.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of this title (as in effect on the day before October 25, 2004) for fiscal year 2004.
 
 #### (B) Ratable reduction
 
@@ -86,7 +86,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary goodcause why the entity designated as the lead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
+&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary good cause why the entity designated as the lead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
 
 #### (ii) Construction
 
@@ -170,7 +170,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (4) Involvement of public and private entities
 
-&emsp;The application shall describe how various public and private entities were involved inthe development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
+&emsp;The application shall describe how various public and private entities were involved in the development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
 
 &emsp;&emsp;(A) in cases determined to be appropriate by the State, a description of the nature and extent of resources that will be committed by public and private collaborators to assist in accomplishing identified goals; and
 
@@ -222,7 +222,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) Required activities
 
-&emsp;&emsp;Except as provided in subparagraph (B) and paragraph (6), any State that receives a grant under this section shall use a portion of the funds made available through the grant to carry out activities described in paragraphs (2) and (3).
+&emsp;&emsp;Except as provided in subparagraph (B) and paragraph (6), any State that receives agrant under this section shall use a portion of the funds made available through the grant to carry out activities described in paragraphs (2) and (3).
 
 #### (B) State or non-Federal financial support
 
@@ -240,7 +240,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) support for the development of systems for the purchase, lease, or other acquisition of, or payment for, assistive technology devices and assistive technology services; or
 
-&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternative financing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, orcollaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
+&emsp;&emsp;&emsp;(ii) support for the development of State-financed or privately financed alternative financing systems of subsidies (which may include conducting an initial 1-year feasibility study of, improving, administering, operating, providing capital for, or collaborating with an entity with respect to, such a system) for the provision of assistive technology devices, such as—
 
 &emsp;&emsp;&emsp;&emsp;(I) a low-interest loan fund;
 
@@ -414,6 +414,8 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 (Pub. L. 105–394, §4, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1714; amended Pub. L. 113–128, title V, §512(b)(2), July 22, 2014, 128 Stat. 1705; Pub. L. 114–95, title IX, §9215(m), Dec. 10, 2015, 129 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3011 of this title, referred to in subsec. (b)(2)(A), was omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
@@ -437,6 +439,8 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(3)(B)(i
 Subsec. (e)(2)(D)(i). Pub. L. 113–128, §512(b)(2)(B)(i), substituted "such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act," for "such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 (29 U.S.C. 2801),".
 
 Subsec. (e)(3)(B)(ii)(I)(aa). Pub. L. 113–128, §512(b)(2)(B)(ii), substituted "with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act," for "with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

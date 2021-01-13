@@ -1,8 +1,12 @@
 ### <b>\[CHAPTER 90—OMITTED\]</b>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Chapter 90, consisting of sections 1471 to 1482, which was added by Pub. L. 95–598, title II, §241(a), Nov. 6, 1978, 92 Stat. 2668, and which related to district courts and bankruptcy courts, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition to New Court System
 

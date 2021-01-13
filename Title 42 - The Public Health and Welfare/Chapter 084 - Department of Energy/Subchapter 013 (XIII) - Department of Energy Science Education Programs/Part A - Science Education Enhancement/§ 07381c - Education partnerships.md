@@ -10,7 +10,7 @@ Under a partnership agreement entered into with an educational institution under
 
 &emsp;(1) loaning or transferring equipment to the institution;
 
-&emsp;(2) transferring to the institution equipment determined by the director of the Department research and development facility to be surplus;
+&emsp;(2) transferring to the institution equipment determined by the director of the Departmentresearch and development facility to be surplus;
 
 &emsp;(3) making personnel of Department research and development facilities available to teach science courses or to assist in the development of science courses and materials for the institution;
 

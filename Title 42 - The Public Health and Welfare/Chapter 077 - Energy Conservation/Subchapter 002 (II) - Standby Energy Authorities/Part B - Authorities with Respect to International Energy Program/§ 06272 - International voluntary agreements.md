@@ -162,7 +162,7 @@ The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–
 
 The date of enactment of this chapter, referred to in subsec. (g), means the date of enactment of Pub. L. 94–163, which was approved Dec. 22, 1975.
 
-This chapter, referred to in subsec. (h)(2), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Actto the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (h)(2), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 252(f) and (j) of the Energy Policy and Conservation Act, referred to in subsection (n)(3), is classified to subsecs. (f) and (j) of this section.
 
@@ -178,7 +178,7 @@ Subsec. (f)(2). Pub. L. 105–177, §1(4)(D), inserted "voluntary agreement or" 
 
 Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975."
 
-Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'allocation and information provisions of the international energy program' means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program."
+Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'allocation and information provisions of the international energy program' means the provisions of the international energy program which relateto international allocation of petroleum products and to the information system provided in such program."
 
 Subsec. (l). Pub. L. 105–177, §1(4)(G), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program."
 

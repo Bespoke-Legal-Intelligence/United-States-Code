@@ -64,17 +64,17 @@ In the case of a plan maintained by more than one employer—
 
 #### (2) Exclusive benefit
 
-&emsp;For purposes of section 401(a), in determining whether the plan of an employer is for the exclusive benefit of his employees and their beneficiaries all plan participants shall be considered to be his employees.
+&emsp;For purposes of sections 401(a) and 408(c), in determining whether the plan of an employer is for the exclusive benefit of his employees and their beneficiaries all plan participants shall be considered to be his employees.
 
 #### (3) Vesting
 
-&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of anyrules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
+&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
 
 #### (4) Funding
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan established after December 31, 1988, each employer shall be treated as maintaining a separate plan for purposes of section 412 unless such plan uses a method for determining required contributions which provides that any employer contributes not less than the amount which would be required if such employer maintained a separate plan.
+&emsp;&emsp;In the case of a plan established after December 31, 1988, each employer shall betreated as maintaining a separate plan for purposes of section 412 unless such plan uses a method for determining required contributions which provides that any employer contributes not less than the amount which would be required if such employer maintained a separate plan.
 
 #### (B) Other plans
 
@@ -134,99 +134,89 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 &emsp;Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
 
-(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97,title II, §202(b), Apr. 7, 2014, 128 Stat. 1134; Pub. L. 115–141, div. U, title IV, §401(a)(86), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–94, div. O, title I, §101(a)(1), (2), Dec. 20, 2019, 133 Stat. 3138, 3141.)
+#### (e) Application of qualification requirements for certain multiple employer plans with pooled plan providers
 
-#### Amendment of Section
+#### (1) In general
 
-<i>Pub. L. 116–94, div. O, title I, §101(a)(1), (2), (e), Dec. 20, 2019, 133 Stat. 3138, 3141, 3145, provided that, applicable to plan years beginning after Dec. 31, 2020, this section is amended as follows:</i>
+&emsp;Except as provided in paragraph (2), if a defined contribution plan to which subsection (c) applies—
 
-<i>(1) in subsection (c)(2), by striking "section 401(a)" and inserting "sections 401(a) and 408(c)"; and</i>
+&emsp;&emsp;(A) is maintained by employers which have a common interest other than having adopted the plan, or
 
-<i>(2) by adding at the end a new subsection (e) to read as follows:</i>
+&emsp;&emsp;(B) in the case of a plan not described in subparagraph (A), has a pooled plan provider,
 
-#### <i>(e) Application of qualification requirements for certain multiple employer plans with pooled plan providers</i>
+> &emsp;then the plan shall not be treated as failing to meet the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, merely because one or more employers of employees covered by the plan fail to take such actions as are required of such employers for the plan to meet such requirements.
 
-#### <i>(1) In general</i>
+#### (2) Limitations
 
-&emsp;<i>Except as provided in paragraph (2), if a defined contribution plan to which subsection (c) applies—</i>
+#### (A) In general
 
-&emsp;&emsp;<i>(A) is maintained by employers which have a common interest other than having adopted the plan, or</i>
+&emsp;&emsp;Paragraph (1) shall not apply to any plan unless the terms of the plan provide that in the case of any employer in the plan failing to take the actions described in paragraph (1)—
 
-&emsp;&emsp;<i>(B) in the case of a plan not described in subparagraph (A), has a pooled plan provider,</i>
+&emsp;&emsp;&emsp;(i) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) will be transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in section 402(c)(8)(B) for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate, unless the Secretary determines it is in the best interests of the employees of such employer (and the beneficiaries of such employees) to retain the assets in the plan, and
 
-> &emsp;<i>then the plan shall not be treated as failing to meet the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, merely because one or more employers of employees covered by the plan fail to take such actions as are required of such employers for the plan to meet such requirements.</i>
+&emsp;&emsp;&emsp;(ii) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided by the Secretary, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).
 
-#### <i>(2) Limitations</i>
+#### (B) Failures by pooled plan providers
 
-#### <i>(A) In general</i>
+&emsp;&emsp;If the pooled plan provider of a plan described in paragraph (1)(B) does not perform substantially all of the administrative duties which are required of the provider under paragraph (3)(A)(i) for any plan year, the Secretary may provide that the determination as to whether the plan meets the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, shall be made in the same manner as would be made without regard to paragraph (1).
 
-&emsp;&emsp;<i>Paragraph (1) shall not apply to any plan unless the terms of the plan provide that in the case of any employer in the plan failing to take the actions described in paragraph (1)—</i>
+#### (3) Pooled plan provider
 
-&emsp;&emsp;&emsp;<i>(i) the assets of the plan attributable to employees of such employer (or beneficiaries of such employees) will be transferred to a plan maintained only by such employer (or its successor), to an eligible retirement plan as defined in section 402(c)(8)(B) for each individual whose account is transferred, or to any other arrangement that the Secretary determines is appropriate, unless the Secretary determines it is in the best interests of the employees of such employer (and the beneficiaries of such employees) to retain the assets in the plan, and</i>
+#### (A) In general
 
-&emsp;&emsp;&emsp;<i>(ii) such employer (and not the plan with respect to which the failure occurred or any other employer in such plan) shall, except to the extent provided by the Secretary, be liable for any liabilities with respect to such plan attributable to employees of such employer (or beneficiaries of such employees).</i>
+&emsp;&emsp;For purposes of this subsection, the term "pooled plan provider" means, with respect to any plan, a person who—
 
-#### <i>(B) Failures by pooled plan providers</i>
+&emsp;&emsp;&emsp;(i) is designated by the terms of the plan as a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
 
-&emsp;&emsp;<i>If the pooled plan provider of a plan described in paragraph (1)(B) does not perform substantially all of the administrative duties which are required of the provider under paragraph (3)(A)(i) for any plan year, the Secretary may provide that the determination as to whether the plan meets the requirements under this title applicable to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, shall be made in the same manner as would be made without regard to paragraph (1).</i>
+&emsp;&emsp;&emsp;&emsp;(I) the plan meets any requirement applicable under the Employee Retirement Income Security Act of 1974 or this title to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, and
 
-#### <i>(3) Pooled plan provider</i>
+&emsp;&emsp;&emsp;&emsp;(II) each employer in the plan takes such actions as the Secretary or such person determines are necessary for the plan to meet the requirements described in subclause (I), including providing to such person any disclosures or other information which the Secretary may require or which such person otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements,
 
-#### <i>(A) In general</i>
+&emsp;&emsp;&emsp;(ii) registers as a pooled plan provider with the Secretary, and provides such other information to the Secretary as the Secretary may require, before beginning operations as a pooled plan provider,
 
-&emsp;&emsp;<i>For purposes of this subsection, the term "pooled plan provider" means, with respect to any plan, a person who—</i>
+&emsp;&emsp;&emsp;(iii) acknowledges in writing that such person is a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), and the plan administrator, with respect to the plan, and
 
-&emsp;&emsp;&emsp;<i>(i) is designated by the terms of the plan as a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—</i>
+&emsp;&emsp;&emsp;(iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the plan are bonded in accordance with section 412 of the Employee Retirement Income Security Act of 1974.
 
-&emsp;&emsp;&emsp;&emsp;<i>(I) the plan meets any requirement applicable under the Employee Retirement Income Security Act of 1974 or this title to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, and</i>
+#### (B) Audits, examinations and investigations
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) each employer in the plan takes such actions as the Secretary or such person determines are necessary for the plan to meet the requirements described in subclause (I), including providing to such person any disclosures or other information which the Secretary may require or which such person otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements,</i>
+&emsp;&emsp;The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this subsection.
 
-&emsp;&emsp;&emsp;<i>(ii) registers as a pooled plan provider with the Secretary, and provides such other information to the Secretary as the Secretary may require, before beginning operations as a pooled plan provider,</i>
+#### (C) Aggregation rules
 
-&emsp;&emsp;&emsp;<i>(iii) acknowledges in writing that such person is a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), and the plan administrator, with respect to the plan, and</i>
+&emsp;&emsp;For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one person.
 
-&emsp;&emsp;&emsp;<i>(iv) is responsible for ensuring that all persons who handle assets of, or who are fiduciaries of, the plan are bonded in accordance with section 412 of the Employee Retirement Income Security Act of 1974.</i>
+#### (D) Treatment of employers as plan sponsors
 
-#### <i>(B) Audits, examinations and investigations</i>
+&emsp;&emsp;Except with respect to the administrative duties of the pooled plan provider described in subparagraph (A)(i), each employer in a plan which has a pooled plan provider shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).
 
-&emsp;&emsp;<i>The Secretary may perform audits, examinations, and investigations of pooled plan providers as may be necessary to enforce and carry out the purposes of this subsection.</i>
+#### (4) Guidance
 
-#### <i>(C) Aggregation rules</i>
+#### (A) In general
 
-&emsp;&emsp;<i>For purposes of this paragraph, in determining whether a person meets the requirements of</i><i>this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one person.</i>
+&emsp;&emsp;The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this subsection, including guidance—
 
-#### <i>(D) Treatment of employers as plan sponsors</i>
+&emsp;&emsp;&emsp;(i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under this subsection,
 
-&emsp;&emsp;<i>Except with respect to the administrative duties of the pooled plan provider described in subparagraph (A)(i), each employer in a plan which has a pooled plan provider shall be treated as the plan sponsor with respect to the portion of the plan attributable to employees of such employer (or beneficiaries of such employees).</i>
+&emsp;&emsp;&emsp;(ii) which describes the procedures to be taken to terminate a plan which fails to meet the requirements to be a plan described in paragraph (1), including the proper treatment of, and actions needed to be taken by, any employer in the plan and the assets and liabilities of the plan attributable to employees of such employer (or beneficiaries of such employees), and
 
-#### <i>(4) Guidance</i>
+&emsp;&emsp;&emsp;(iii) identifying appropriate cases to which the rules of paragraph (2)(A) will apply to employers in the plan failing to take the actions described in paragraph (1).
 
-#### <i>(A) In general</i>
+> &emsp;&emsp;The Secretary shall take into account under clause (iii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements applicable to the plan under section 401(a) or 408, whichever is applicable, has continued over a period of time that demonstrates a lack of commitment to compliance.
 
-&emsp;&emsp;<i>The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this subsection, including guidance—</i>
+#### (B) Good faith compliance with law before guidance
 
-&emsp;&emsp;&emsp;<i>(i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under this subsection,</i>
+&emsp;&emsp;An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under this paragraph if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this subsection to which such guidance relates.
 
-&emsp;&emsp;&emsp;<i>(ii) which describes the procedures to be taken to terminate a plan which fails to meet the requirements to be a plan described in paragraph (1), including the proper treatment of, and actions needed to be taken by, any employer in the plan and the assets and liabilities of the plan attributable to employees of such employer (or beneficiaries of such employees), and</i>
+#### (5) Model plan
 
-&emsp;&emsp;&emsp;<i>(iii) identifying appropriate cases to which the rules of paragraph (2)(A) will apply to employers in the plan failing to take the actions described in paragraph (1).</i>
+&emsp;The Secretary shall publish model plan language which meets the requirements of this subsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).
 
-> &emsp;&emsp;<i>The Secretary shall take into account under clause (iii) whether the failure of an employer or pooled plan provider to provide any disclosures or other information, or to take any other action, necessary to administer a plan or to allow a plan to meet requirements applicable to the plan under section 401(a) or 408, whichever is applicable, has continued over a period of time that demonstrates a lack of commitment to compliance.</i>
-
-#### <i>(B) Good faith compliance with law before guidance</i>
-
-&emsp;&emsp;<i>An employer or pooled plan provider shall not be treated as failing to meet a requirement of guidance issued by the Secretary under this paragraph if, before the issuance of such guidance, the employer or pooled plan provider complies in good faith with a reasonable interpretation of the provisions of this subsection to which such guidance relates.</i>
-
-#### <i>(5) Model plan</i>
-
-&emsp;<i>The Secretary shall publish model plan language which meets the requirements of this subsection and of paragraphs (43) and (44) of section 3 of the Employee Retirement Income Security Act of 1974 and which may be adopted in order for a plan to be treated as a plan described in paragraph (1)(B).</i>
-
-<i>See 2019 Amendment notes below.</i>
+(Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134; Pub. L. 115–141, div. U, title IV, §401(a)(86), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–94, div. O, title I, §101(a)(1), (2), Dec. 20, 2019, 133 Stat. 3138, 3141.)
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
@@ -266,7 +256,7 @@ Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013,
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6058(d), Nov. 10, 1988, 102 Stat. 3699, provided that: "Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 

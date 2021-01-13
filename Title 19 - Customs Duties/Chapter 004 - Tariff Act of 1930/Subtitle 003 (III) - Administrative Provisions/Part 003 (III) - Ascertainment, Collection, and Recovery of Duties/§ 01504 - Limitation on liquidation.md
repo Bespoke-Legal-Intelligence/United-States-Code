@@ -48,7 +48,7 @@ The Secretary of the Treasury may extend the period in which to liquidate an ent
 
 #### (c) Notice of suspension
 
-If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
+If the liquidation of any entry is suspended, the Secretary shall by regulation require thatnotice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
 
 #### (d) Removal of suspension
 

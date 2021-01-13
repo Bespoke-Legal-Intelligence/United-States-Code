@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition
 
-There is established a commission to be known as the Japan-United States FriendshipCommission (hereafter referred to as the "Commission"). The Commission shall be composed of—
+There is established a commission to be known as the Japan-United States Friendship Commission (hereafter referred to as the "Commission"). The Commission shall be composed of—
 
 &emsp;(1) the members of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation;
 
@@ -23,6 +23,8 @@ Members of the Commission who are not full-time officers or employees of the Uni
 The Chairman of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation shall be the Chairman of the Commission. A majority of the members of the Commission shall constitute a quorum. The Commission shall meet at least twice in each year.
 
 (Pub. L. 94–118, §4, Oct. 20, 1975, 89 Stat. 604.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

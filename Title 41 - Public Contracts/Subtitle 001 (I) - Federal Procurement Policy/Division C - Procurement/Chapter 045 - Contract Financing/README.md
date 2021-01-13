@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §836(b)(18)(B)(ii), Aug. 13, 2018, 132 Stat. 1864, substituted "Payments for commercial products and commercial services" for "Payments for commercial items" in item 4505.

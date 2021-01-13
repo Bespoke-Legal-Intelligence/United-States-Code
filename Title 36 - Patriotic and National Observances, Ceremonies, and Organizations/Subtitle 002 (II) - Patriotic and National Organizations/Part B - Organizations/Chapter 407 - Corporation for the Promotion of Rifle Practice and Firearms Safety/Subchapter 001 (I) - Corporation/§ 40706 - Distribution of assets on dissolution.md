@@ -22,7 +22,7 @@ Tax-Exempt Organizations.—(1) On dissolution of the corporation, an asset not 
 
 (c)
 
-Treasury.—On dissolution of the corporation, any asset not distributed under subsection\(a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
+Treasury.—On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1336; Pub. L. 113–237, §3(c)(3), Dec. 18, 2014, 128 Stat. 2840.)
 
@@ -63,6 +63,8 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1619, 110 Stat. 520; Sept. 23, 19
 In subsection (a), before clause (1), the words "title to the following items, and the right to possess the items, vest in the Secretary of the Army" are substituted for "title to \[specified items\] . . . shall vest in the Secretary of the Army, and the Secretary shall have the immediate right to the possession of such items" to eliminate unnecessary words. In clause (2), the words "M–16 rifles under control of the corporation" are substituted for "M–16 rifles that are transferred to the Corporation under section 1615(a)(2), that are referred to in section 1616(a)(3), or that are otherwise under the control of the Corporation" to eliminate unnecessary words.
 
 In subsection (b), paragraph (2) is applied only to subsection (b) because the prohibition is not relevant to 36:5509(a)(1) or (3).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

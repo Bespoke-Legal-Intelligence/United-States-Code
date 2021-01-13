@@ -22,7 +22,7 @@
 
 #### (3) Effect of failure to timely notify
 
-&emsp;Except as provided in paragraph (2), the failure to timely provide the notice requiredunder this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
+&emsp;Except as provided in paragraph (2), the failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
 
 #### (c) Reconciling producer information
 
@@ -88,7 +88,7 @@
 
 #### (2) FSA inquiry
 
-&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), theCorporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
+&emsp;If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
 
 #### (3) Use of field infrastructure
 
@@ -324,7 +324,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### References in Text
 
-The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr.4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
 The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 

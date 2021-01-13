@@ -1,6 +1,6 @@
 ### §547. Conditions of sale
 
-(a) If a renewal of a franchise held by a cable operator is denied and the franchising authority acquires ownership of the cable system or effects a transfer of ownership of the system to another person, any such acquisition or transfer shall be—
+(a) If a renewal of a franchise held by a cable operator is denied and the franchising authorityacquires ownership of the cable system or effects a transfer of ownership of the system to another person, any such acquisition or transfer shall be—
 
 &emsp;(1) at fair market value, determined on the basis of the cable system valued as a going concern but with no value allocated to the franchise itself, or
 
@@ -14,11 +14,15 @@
 
 (June 19, 1934, ch. 652, title VI, §627, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2793.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For "the effective date of this subchapter", referred to in subsecs. (a)(2) and (b)(2), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) ofPub. L. 98–549, set out as a note under section 521 of this title.
+Section effective 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as a note under section 521 of this title.
 

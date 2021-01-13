@@ -26,7 +26,7 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 &emsp;Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, §6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI, §6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(a), June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6008, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, §6408, Dec. 20, 2018, 132 Stat. 4761.)
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, §6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI, §6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(a), June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6008,Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, §6408, Dec. 20, 2018, 132 Stat. 4761.)
 
 #### References in Text
 

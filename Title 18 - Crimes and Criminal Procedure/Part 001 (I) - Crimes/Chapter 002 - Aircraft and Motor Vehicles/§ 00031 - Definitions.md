@@ -20,7 +20,7 @@ Destructive substance.—The term "destructive substance" means an explosive sub
 
 In flight.—The term "in flight" means—
 
-&emsp;&emsp;(A) any time from the moment at which all the external doors of an aircraft areclosed following embarkation until the moment when any such door is opened for disembarkation; and
+&emsp;&emsp;(A) any time from the moment at which all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation; and
 
 &emsp;&emsp;(B) in the case of a forced landing, until competent authorities take over the responsibility for the aircraft and the persons and property on board.
 
@@ -54,9 +54,11 @@ Used for commercial purposes.—The term "used for commercial purposes" means th
 
 (b)
 
-Terms Defined in Other Law.—In this chapter, the terms "aircraft engine", "air navigation facility", "appliance", "civil aircraft", "foreign air commerce", "interstate air commerce", "landing area", "overseas air commerce", "propeller", "spare part", and "special aircraft jurisdiction of the United States" have the meanings given those terms in sections 40102(a) and 46501 of title 49.
+Terms Defined in Other Law.—In this chapter, the terms "aircraft engine", "air navigation facility", "appliance", "civil aircraft", "foreign air commerce", "interstate air commerce", "landing area", "overseas air commerce", "propeller", "spare part", and "special aircraft jurisdiction of the United States" havethe meanings given those terms in sections 40102(a) and 46501 of title 49.
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, §7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 106–181, title V, §506(b), Apr. 5, 2000, 114 Stat. 136.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Terms Defined in Other Law.—In this chapter, the terms "aircraft engine", "air
 Pub. L. 98–473, §1010, substituted "passengers and property, or property or cargo" for "or passengers and property" in definition of motor vehicle.
 
 Pub. L. 98–473, §2013(a)(2)–(4), inserted definitions of "in flight" and "in service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

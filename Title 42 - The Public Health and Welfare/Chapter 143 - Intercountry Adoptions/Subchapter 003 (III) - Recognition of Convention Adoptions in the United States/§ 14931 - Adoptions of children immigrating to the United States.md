@@ -12,7 +12,7 @@
 
 #### (2) Legal effect of certificates
 
-&emsp;If appended to an original adoption decree, the certificate described in paragraph (1) shall be treated by Federal and State agencies, courts, and other public and private persons and entities as conclusive evidence of the facts certified therein and shall constitute the certification required by section 1154(d)(2) of title 8.
+&emsp;If appended to an original adoption decree, the certificate described in paragraph (1) shallbe treated by Federal and State agencies, courts, and other public and private persons and entities as conclusive evidence of the facts certified therein and shall constitute the certification required by section 1154(d)(2) of title 8.
 
 #### (b) Legal effect of Convention adoption finalized in another Convention country
 

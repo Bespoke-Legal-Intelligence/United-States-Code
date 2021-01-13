@@ -32,7 +32,7 @@ For purposes of this section, the term "covered program" means agricultural rese
 
 #### (d) Rule of construction
 
-Nothing in this section shall be construed as limiting eligibility for a capacity and infrastructure program specified in section 6971(f)(1)(C) of this title that is not a covered program.
+Nothing in this section shall be construed as limiting eligibility for a capacity and infrastructure program specified in section6971(f)(1)(C) of this title that is not a covered program.
 
 (Pub. L. 95–113, title XIV, §1419D, as added Pub. L. 115–334, title VII, §7111, Dec. 20, 2018, 132 Stat. 4784.)
 

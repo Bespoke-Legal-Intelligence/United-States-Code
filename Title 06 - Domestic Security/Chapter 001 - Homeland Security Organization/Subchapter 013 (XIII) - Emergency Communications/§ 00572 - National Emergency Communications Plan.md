@@ -38,6 +38,8 @@ The National Emergency Communications Plan shall—
 
 (Pub. L. 107–296, title XVIII, §1802, as added Pub. L. 109–295, title VI, §671(b), Oct. 4, 2006, 120 Stat. 1435; amended Pub. L. 110–53, title III, §301(d), Aug. 3, 2007, 121 Stat. 300; Pub. L. 115–278, §2(g)(6)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1802 of Pub. L. 107–296 was renumbered section 1902 and is classified to section 592 of this title.
@@ -47,4 +49,10 @@ Another section 1802 of Pub. L. 107–296 was renumbered section 1902 and is cla
 <b>2018</b>—Subsec. (a). Pub. L. 115–278 substituted "Assistant Director for Emergency Communications" for "Director for Emergency Communications" in introductory provisions.
 
 <b>2007</b>—Subsec. (c)(10). Pub. L. 110–53 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Reference to the Assistant Director for Emergency Communications deemed to be a reference to the Executive Assistant Director for Emergency Communications, see section 571(g) of this title, enacted Jan. 1, 2021.
 

@@ -26,9 +26,11 @@
 | [8911\.](%C2%A7%2008911%20-%20Advisory%20committee.md) | Advisory committee. |
 | [8912\.](%C2%A7%2008912%20-%20Jurisdiction%20of%20courts.md) | Jurisdiction of courts. |
 | [8913\.](%C2%A7%2008913%20-%20Regulations.md) | Regulations. |
-| [8914\.](%C2%A7%2008914%20-%20Effect%20of%20other%20statutes.md) | Effect of other statutes. |
+| [8914\.](%C2%A7%2008914%20-%20Effect%20of%20other%20statutes.md) | Effect of other statutes.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

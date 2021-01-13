@@ -8,7 +8,7 @@
 
 (d) The probation laws shall be applicable to persons tried by a magistrate judge under this section, and such officer shall have power to grant probation and to revoke, modify, or reinstate the probation of any person granted probation by a magistrate judge.
 
-(e) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. For purposes of appeal a copy of the record of such proceedings shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
+(e) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. For purposes of appeal a copy of the record of such proceedings shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paidby the Director of the Administrative Office of the United States Courts.
 
 (f) The district court may order that proceedings in any misdemeanor case be conducted before a district judge rather than a United States magistrate judge upon the court's own motion or, for good cause shown, upon petition by the attorney for the Government. Such petition should note the novelty, importance, or complexity of the case, or other pertinent factors, and be filed in accordance with regulations promulgated by the Attorney General.
 
@@ -27,6 +27,8 @@ Based on title 18, U.S.C., 1940 ed., §§576, 576b, 576c, 576d (Oct. 9, 1940, ch
 The phrase "the commissioner shall have power to grant probation" was inserted in paragraph (c) in order to make clear the authority of the commissioner to grant probation without application to the District judge.
 
 Four sections were consolidated herein with minor rearrangements and deletion of unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Subsec. (e). Pub. L. 90–578 substituted requirement that proceedings before ma
 Subsec. (f). Pub. L. 90–578 added subsec. (f).
 
 <b>1958</b>—Subsec. (e). Pub. L. 85–508 struck out provisions which related to commissioners appointed for Alaska. See section 81A of Title 28, Judiciary and Judicial Procedure, which establishes a United States District Court for the State of Alaska.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

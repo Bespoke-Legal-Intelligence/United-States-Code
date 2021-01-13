@@ -14,6 +14,7 @@
 | [17011\.](Subchapter%20001%20%28I%29%20-%20Improved%20Vehicle%20Technology/%C2%A7%2017011%20-%20Transportation%20electrification.md) | Transportation electrification. |
 | [17012\.](Subchapter%20001%20%28I%29%20-%20Improved%20Vehicle%20Technology/%C2%A7%2017012%20-%20Advanced%20battery%20loan%20guarantee%20program.md) | Advanced battery loan guarantee program. |
 | [17013\.](Subchapter%20001%20%28I%29%20-%20Improved%20Vehicle%20Technology/%C2%A7%2017013%20-%20Advanced%20technology%20vehicles%20manufacturing%20incentive%20program.md) | Advanced technology vehicles manufacturing incentive program. |
+| [17014\.](Subchapter%20001%20%28I%29%20-%20Improved%20Vehicle%20Technology/%C2%A7%2017014%20-%20Research%20and%20development%20into%20integrating%20electric%20vehicles%20onto%20the%20electric%20grid.md) | Research and development into integrating electric vehicles onto the electric grid. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +59,7 @@
 | [17061\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017061%20-%20Definitions.md) | Definitions. |
 | [17062\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017062%20-%20Energy%20efficiency%20in%20Federal%20and%20other%20buildings.md) | Energy efficiency in Federal and other buildings. |
 | [17063\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017063%20-%20Energy%20information%20for%20commercial%20buildings.md) | Energy information for commercial buildings. |
+| [17064\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/%C2%A7%2017064%20-%20Smart%20building%20acceleration.md) | Smart building acceleration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -78,6 +80,7 @@
 | [17083\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017083%20-%20Public%20outreach.md) | Public outreach. |
 | [17084\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017084%20-%20Separate%20spaces%20with%20high-performance%20energy%20efficiency%20measures.md) | Separate spaces with high-performance energy efficiency measures. |
 | [17085\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017085%20-%20Tenant%20Star%20program.md) | Tenant Star program. |
+| [17086\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20B%20-%20High-Performance%20Commercial%20Buildings/%C2%A7%2017086%20-%20Advanced%20integration%20of%20buildings%20onto%20the%20electric%20grid.md) | Advanced integration of buildings onto the electric grid. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -100,6 +103,10 @@
 | :--- | ---: |
 | [17111\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017111%20-%20Energy-intensive%20industries%20program.md) | Energy-intensive industries program. |
 | [17112\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017112%20-%20Energy%20efficiency%20for%20data%20center%20buildings.md) | Energy efficiency for data center buildings. |
+| [17113\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017113%20-%20Industrial%20emissions%20reduction%20technology%20development%20program.md) | Industrial emissions reduction technology development program. |
+| [17114\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017114%20-%20Industrial%20Technology%20Innovation%20Advisory%20Committee.md) | Industrial Technology Innovation Advisory Committee. |
+| [17115\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017115%20-%20Technical%20assistance%20program%20to%20implement%20industrial%20emissions%20reduction.md) | Technical assistance program to implement industrial emissions reduction. |
+| [17115a.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017115a%20-%20Development%20of%20national%20smart%20manufacturing%20plan.md) | Development of national smart manufacturing plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -159,8 +166,7 @@
 | [17171\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20A%20-%20Solar%20Energy/%C2%A7%2017171%20-%20Thermal%20energy%20storage%20research%20and%20development%20program.md) | Thermal energy storage research and development program. |
 | [17172\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20A%20-%20Solar%20Energy/%C2%A7%2017172%20-%20Solar%20energy%20curriculum%20development%20and%20certification%20grants.md) | Solar energy curriculum development and certification grants. |
 | [17173\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20A%20-%20Solar%20Energy/%C2%A7%2017173%20-%20Daylighting%20systems%20and%20direct%20solar%20light%20pipe%20technology.md) | Daylighting systems and direct solar light pipe technology. |
-| [17174\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20A%20-%20Solar%20Energy/%C2%A7%2017174%20-%20Solar%20air%20conditioning%20research%20and%20development%20program.md) | Solar air conditioning research and development program. |
-| [17175\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20A%20-%20Solar%20Energy/%C2%A7%2017175%20-%20Photovoltaic%20demonstration%20program.md) | Photovoltaic demonstration program. |
+| 17174, 17175. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -173,11 +179,11 @@
 | [17193\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017193%20-%20General%20geothermal%20systems%20research%20and%20development.md) | General geothermal systems research and development. |
 | [17194\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017194%20-%20Enhanced%20geothermal%20systems%20research%20and%20development.md) | Enhanced geothermal systems research and development. |
 | [17195\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017195%20-%20Geothermal%20energy%20production%20from%20oil%20and%20gas%20fields%20and%20recovery%20and%20production%20of%20geopressured%20gas%20resources.md) | Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources. |
-| [17196\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017196%20-%20Cost%20sharing%20and%20proposal%20evaluation.md) | Cost sharing and proposal evaluation. |
-| [17197\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017197%20-%20Center%20for%20Geothermal%20Technology%20Transfer.md) | Center for Geothermal Technology Transfer. |
-| [17198\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017198%20-%20GeoPowering%20America.md) | GeoPowering America. |
-| [17199\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017199%20-%20Educational%20pilot%20program.md) | Educational pilot program. |
-| [17200\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017200%20-%20Reports.md) | Reports. |
+| [17195a.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017195a%20-%20Geothermal%20heat%20pumps%20and%20direct%20use%20research%20and%20development.md) | Geothermal heat pumps and direct use research and development. |
+| [17196\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017196%20-%20Organization%20and%20administration%20of%20programs.md) | Organization and administration of programs. |
+| [17197\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017197%20-%20Advanced%20geothermal%20computing%20and%20data%20science%20research%20and%20development.md) | Advanced geothermal computing and data science research and development. |
+| [17198\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017198%20-%20Geothermal%20workforce%20development.md) | Geothermal workforce development. |
+| 17199, 17200. Repealed. |  |
 | [17201\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017201%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
 | [17202\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017202%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [17203\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20B%20-%20Geothermal%20Energy/%C2%A7%2017203%20-%20International%20geothermal%20energy%20development.md) | International geothermal energy development. |
@@ -185,15 +191,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Marine and Hydrokinetic Renewable Energy Technologies
+#### Part C—Water Power Research and Development
 
 |  |  |
 | :--- | ---: |
-| [17211\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Marine%20and%20Hydrokinetic%20Renewable%20Energy%20Technologies/%C2%A7%2017211%20-%20Definition.md) | Definition. |
-| [17212\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Marine%20and%20Hydrokinetic%20Renewable%20Energy%20Technologies/%C2%A7%2017212%20-%20Marine%20and%20hydrokinetic%20renewable%20energy%20research%20and%20development.md) | Marine and hydrokinetic renewable energy research and development. |
-| [17213\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Marine%20and%20Hydrokinetic%20Renewable%20Energy%20Technologies/%C2%A7%2017213%20-%20National%20Marine%20Renewable%20Energy%20Research%2C%20Development%2C%20and%20Demonstration%20Centers.md) | National Marine Renewable Energy Research, Development, and Demonstration Centers. |
-| [17214\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Marine%20and%20Hydrokinetic%20Renewable%20Energy%20Technologies/%C2%A7%2017214%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
-| [17215\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Marine%20and%20Hydrokinetic%20Renewable%20Energy%20Technologies/%C2%A7%2017215%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [17211\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017211%20-%20Definitions.md) | Definitions. |
+| [17212\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017212%20-%20Water%20power%20technology%20research%2C%20development%2C%20and%20demonstration.md) | Water power technology research, development, and demonstration. |
+| [17213\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017213%20-%20Hydropower%20research%2C%20development%2C%20and%20demonstration.md) | Hydropower research, development, and demonstration. |
+| [17214\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017214%20-%20Marine%20energy%20research%2C%20development%2C%20and%20demonstration.md) | Marine energy research, development, and demonstration. |
+| [17215\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017215%20-%20National%20Marine%20Energy%20Centers.md) | National Marine Energy Centers. |
+| [17216\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017216%20-%20Organization%20and%20administration%20of%20programs.md) | Organization and administration of programs. |
+| [17217\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017217%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
+| [17218\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20C%20-%20Water%20Power%20Research%20and%20Development/%C2%A7%2017218%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -202,6 +211,8 @@
 |  |  |
 | :--- | ---: |
 | [17231\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20D%20-%20Energy%20Storage%20for%20Transportation%20and%20Electric%20Power/%C2%A7%2017231%20-%20Energy%20storage%20competitiveness.md) | Energy storage competitiveness. |
+| [17232\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20D%20-%20Energy%20Storage%20for%20Transportation%20and%20Electric%20Power/%C2%A7%2017232%20-%20Better%20energy%20storage%20technology.md) | Better energy storage technology. |
+| [17233\.](Subchapter%20005%20%28V%29%20-%20Accelerated%20Research%20and%20Development/Part%20D%20-%20Energy%20Storage%20for%20Transportation%20and%20Electric%20Power/%C2%A7%2017233%20-%20Energy%20storage%20technology%20and%20microgrid%20assistance%20program.md) | Energy storage technology and microgrid assistance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -322,8 +333,15 @@
 | [17382\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017382%20-%20Smart%20grid%20system%20report.md) | Smart grid system report. |
 | [17383\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017383%20-%20Smart%20Grid%20Advisory%20Committee%20and%20Smart%20Grid%20Task%20Force.md) | Smart Grid Advisory Committee and Smart Grid Task Force. |
 | [17384\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017384%20-%20Smart%20grid%20technology%20research%2C%20development%2C%20and%20demonstration.md) | Smart grid technology research, development, and demonstration. |
+| [17384a.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017384a%20-%20Smart%20grid%20modeling%2C%20visualization%2C%20architecture%2C%20and%20controls.md) | Smart grid modeling, visualization, architecture, and controls. |
 | [17385\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017385%20-%20Smart%20grid%20interoperability%20framework.md) | Smart grid interoperability framework. |
 | [17386\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017386%20-%20Federal%20matching%20fund%20for%20smart%20grid%20investment%20costs.md) | Federal matching fund for smart grid investment costs. |
+| [17387\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017387%20-%20Integrated%20energy%20systems.md) | Integrated energy systems. |
+| [17388\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017388%20-%20Advisory%20committee.md) | Advisory committee. |
+| [17389\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017389%20-%20Technology%20demonstration%20on%20the%20distribution%20grid.md) | Technology demonstration on the distribution grid. |
+| [17390\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017390%20-%20Voluntary%20model%20pathways.md) | Voluntary model pathways. |
+| [17391\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017391%20-%20Voluntary%20state%2C%20regional%2C%20and%20local%20electricity%20distribution%20planning.md) | Voluntary state, regional, and local electricity distribution planning. |
+| [17392\.](Subchapter%20009%20%28IX%29%20-%20Smart%20Grid/%C2%A7%2017392%20-%20Micro-grid%20and%20integrated%20micro-grid%20systems%20program.md) | Micro-grid and integrated micro-grid systems program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -6,21 +6,17 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 (2)(A) A veteran is described in this paragraph if the veteran—
 
-&emsp;(i) is entitled to compensation under chapter 11 of this title for a permanent and total service-connected disability that meets any of the criteria described in subparagraph (B); or
+&emsp;(i) is entitled to compensation under chapter 11 of this title for a service-connected disability that meets any of the criteria described in subparagraph (B); or
 
 &emsp;(ii) served in the Armed Forces on or after September 11, 2001, and is entitled to compensation under chapter 11 of this title for a permanent service-connected disability that meets the criterion described in subparagraph (C).
 
 (B) The criteria described in this subparagraph are as follows:
 
-&emsp;(i) The disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
+&emsp;(i) The permanent and total disability is due to the loss, or loss of use, of both lower extremities such as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-&emsp;(ii) The disability is due to—
+&emsp;(ii) The permanent disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this clause, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.
 
-&emsp;&emsp;(I) blindness in both eyes, having only light perception, plus
-
-&emsp;&emsp;(II) loss or loss of use of one lower extremity.
-
-&emsp;(iii) The disability is due to the loss or loss of use of one lower extremity together with—
+&emsp;(iii) The permanent and total disability is due to the loss or loss of use of one lower extremity together with—
 
 &emsp;&emsp;(I) residuals of organic disease or injury; or
 
@@ -28,9 +24,9 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 > &emsp;which so affect the functions of balance or propulsion as to preclude locomotion without the aid of braces, crutches, canes, or a wheelchair.
 
-&emsp;(iv) The disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
+&emsp;(iv) The permanent and total disability is due to the loss, or loss of use, of both upper extremities such as to preclude use of the arms at or above the elbows.
 
-&emsp;(v) The disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
+&emsp;(v) The permanent and total disability is due to a severe burn injury (as determined pursuant to regulations prescribed by the Secretary).
 
 (C) The criterion described in this subparagraph is that the disability—
 
@@ -38,7 +34,7 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 &emsp;(ii) is due to the loss or loss of use of one or more lower extremities which so affects the functions of balance or propulsion as to preclude ambulating without the aid of braces, crutches, canes, or a wheelchair.
 
-(3) The regulations prescribed under subsection (d) shall require that assistance underparagraph (1) may be provided to a veteran only if the Secretary finds that—
+(3) The regulations prescribed under subsection (d) shall require that assistance under paragraph (1) may be provided to a veteran only if the Secretary finds that—
 
 &emsp;(A) it is medically feasible for the veteran to reside in the proposed housing unit and in the proposed locality;
 
@@ -46,7 +42,7 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraphs (3) an
 
 &emsp;(C) the nature and condition of the proposed housing unit are such as to be suitable to the veteran's needs for dwelling purposes.
 
-(4) In any fiscal year, the Secretary may not approve more than 30 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
+(4) In any fiscal year, the Secretary may not approve more than 120 applications for assistance under paragraph (1) for disabled veterans described in paragraph (2)(A)(ii).
 
 (b)
 
@@ -58,11 +54,9 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 (2) A veteran is described in this paragraph if the veteran is entitled to compensation under chapter 11 of this title for a service-connected disability that meets any of the following criteria:
 
-&emsp;(A) The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.
+&emsp;(A) A permanent and total disability that includes the anatomical loss or loss of use of both hands.
 
-&emsp;(B) A permanent and total disability that includes the anatomical loss or loss of use of both hands.
-
-&emsp;(C) A permanent and total disability that is due to a severe burn injury (as so determined).
+&emsp;(B) A permanent and total disability that is due to a severe burn injury (as so determined).
 
 (3) Assistance under paragraph (1) may be provided only to a veteran who the Secretary determines—
 
@@ -74,13 +68,31 @@ Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secreta
 
 Regulations.—Assistance under this section shall be provided in accordance with such regulations as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L. 110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, §405, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §407, title VI, §601(10), (11), Sept. 30, 2015, 129 Stat. 535, 538; Pub. L. 114–228, title IV, §408, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §407, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §121, Sept. 29, 2018, 132 Stat. 3169.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664; Pub. L. 108–454, title IV, §401, Dec. 10, 2004, 118 Stat. 3614; Pub. L. 109–233, title I, §105(a), June 15, 2006, 120 Stat. 402; Pub. L.110–289, div. B, title VI, §§2602(b)(1), (7)(A), 2603, July 30, 2008, 122 Stat. 2859, 2860; Pub. L. 112–154, title II, §§202(a), (c), 203(a), Aug. 6, 2012, 126 Stat. 1176, 1177; Pub. L. 113–37, §2(g), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title IV, §405, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §407, title VI, §601(10), (11), Sept. 30, 2015, 129 Stat. 535, 538; Pub. L. 114–228, title IV, §408, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §407, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §121, Sept. 29, 2018, 132 Stat. 3169; Pub. L. 116–154, §§2, 3(b), Aug. 8, 2020, 134 Stat. 690, 691.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2)(A)(i). Pub. L. 116–154, §2(1)(A), struck out "permanent and total" before "service-connected disability".
+
+Subsec. (a)(2)(B)(i). Pub. L. 116–154, §2(1)(B)(i), inserted "permanent and total" before "disability".
+
+Subsec. (a)(2)(B)(ii). Pub. L. 116–154, §2(1)(B)(ii), inserted "permanent" before "disability", substituted "due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this clause, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less." for "due to—", and struck out subcls. (I) and (II) which read as follows:
+
+&emsp;"(I) blindness in both eyes, having only light perception, plus
+
+&emsp;"(II) loss or loss of use of one lower extremity."
+
+Subsec. (a)(2)(B)(iii) to (v). Pub. L. 116–154, §2(1)(B)(i), inserted "permanent and total" before "disability".
+
+Subsec. (a)(4). Pub. L. 116–154, §3(b), substituted "120 applications" for "30 applications".
+
+Subsec. (b)(2). Pub. L. 116–154, §2(2), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less."
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–251 substituted "In any fiscal year, the Secretary" for "(B) In each of fiscal years 2014 through 2018, the Secretary" and struck out subpar. (A) which read as follows: "Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2018."
 
@@ -161,6 +173,12 @@ Subsec. (b)(1). Pub. L. 99–576, §401(a), inserted at end "or in acquiring a r
 <b>1964</b>—Pub. L. 88–401 struck out provisions from cl. (2)(B) which required such permanent and total disability to be such as to preclude locomotion without the aid of a wheelchair.
 
 <b>1959</b>—Pub. L. 86–239 designated existing provisions of first sentence as cl. (1), struck out "by reason of amputation, ankylosis, progressive muscular dystrophies, or paralysis" after "loss of use", and added cl. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–154, §3(f), Aug. 8, 2020, 134 Stat. 691, provided that: "The amendments made by this section \[amending this section and section 2102 of this title\] shall take effect on October 1, 2020."
 
 #### Effective Date of 2013 Amendment
 
@@ -276,7 +294,7 @@ Application.—
 
 &emsp;&emsp;"(A)
 
-In general.—Each qualified organization that desires a grant under the pilot program shall submit an application to the Secretary at such time, in such manner, and, in addition to the information required under subparagraph (B), accompanied by such information as the Secretary may reasonably require.
+In general.—Each qualified organization that desires a grant under the pilot program shallsubmit an application to the Secretary at such time, in such manner, and, in addition to the information required under subparagraph (B), accompanied by such information as the Secretary may reasonably require.
 
 &emsp;&emsp;"(B)
 

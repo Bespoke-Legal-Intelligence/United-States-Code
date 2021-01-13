@@ -54,7 +54,9 @@ The duties described in this subsection are the following:
 
 &emsp;The entity shall establish and implement a process to ensure that measures endorsed under paragraph (2) are updated (or retired if obsolete) as new evidence is developed.
 
-#### (4) Repealed. Pub. L. 112–240, title VI, §609(a)(2), Jan. 2, 2013, 126 Stat. 2349
+#### (4) Removal of measures
+
+&emsp;The entity may provide input to the Secretary on quality and efficiency measures described in paragraph (7)(B) that could be considered for removal.
 
 #### (5) Annual report to Congress and the Secretary; secretarial publication and comment
 
@@ -150,6 +152,14 @@ The duties described in this subsection are the following:
 
 &emsp;Not later than February 1 of each year (beginning with 2012), the entity shall transmit to the Secretary the input of multi-stakeholder groups provided under paragraph (7).
 
+#### (9) Prioritization of measure endorsement
+
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) during the period beginning on December 27, 2020, and ending on December 31, 2023, shall prioritize the endorsement of measures relating to maternal morbidity and mortality by the entity with a contract under subsection (a) in connection with endorsement of measures described in paragraph (2); and
+
+&emsp;&emsp;(B) on and after January 1, 2024, may prioritize the endorsement of such measures by such entity.
+
 #### (c) Requirements described
 
 The requirements described in this subsection are the following:
@@ -194,31 +204,81 @@ The requirements described in this subsection are the following:
 
 #### (7) Membership fees
 
-&emsp;If the entity requires a membership fee for participation in the functions of the entity, such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
+&emsp;If the entity requires a membership fee for participation in the functions of the entity,such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
 
 #### (d) Funding
 
 (1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare \& Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, and $4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018 and 2019 and for the period beginning on October 1, 2019, and ending on May 22, 2020 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
+(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare \& Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, $20,000,000 for fiscal year 2020, $26,000,000 for fiscal year 2021, $20,000,000 for fiscal year 2022, and $20,000,000 for fiscal year 2023. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018, 2019, 2020, 2021, 2022, and 2023, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
 
 #### (e) Annual report by Secretary to Congress
 
-By not later than March 1 of each year (beginning with 2019), the Secretary shall submit to Congress a report containing the following:
+#### (1) In general
 
-&emsp;(1) A comprehensive plan that identifies the quality measurement needs of programs and initiatives of the Secretary and provides a strategy for using the entity with a contract under subsection (a) and any other entity the Secretary has contracted with or may contract with to perform work associated with section 1395aaa–1 of this title to help meet those needs, specifically with respect to the programs under this subchapter and subchapter XIX. In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan.
+&emsp;By not later than March 1 of each year (beginning with 2019), the Secretary shall submit to Congress a report containing the following:
 
-&emsp;(2) The amount of funding provided under subsection (d) for purposes of carrying out this section and section 1395aaa–1 of this title that has been obligated by the Secretary, the amount of funding provided that has been expended, and the amount of funding provided that remains unobligated.
+&emsp;&emsp;(A) A comprehensive plan that identifies the quality measurement needs of programs and initiatives of the Secretary and provides a strategy for using the entity with a contract under subsection (a) and any other entity the Secretary has contracted with or may contract with to perform work associated with section 1395aaa–1 of this title to help meet those needs, specifically with respect to the programs under this subchapter and subchapter XIX.
 
-&emsp;(3) With respect to the activities described under this section or section 1395aaa–1 of this title, a description of how the funds described in paragraph (2) have been obligated or expended, including how much of that funding has been obligated or expended for work performed by the Secretary, the entity with a contract under subsection (a), and any other entity the Secretary has contracted with to perform work.
+&emsp;&emsp;(B) The amount of funding provided under subsection (d) for purposes of carrying out this section and section 1395aaa–1 of this title that has been obligated by the Secretary, the amount of funding provided that has been expended, and the amount of funding provided that remains unobligated.
 
-&emsp;(4) A description of the activities for which the funds described in paragraph (2) were used, including task orders and activities assigned to the entity with a contract under subsection (a), activities performed by the Secretary, and task orders and activities assigned to any other entity the Secretary has contracted with to perform work related to carrying out section 1395aaa–1 of this title.
+&emsp;&emsp;(C) With respect to the activities described under this section or section 1395aaa–1 of this title, a description of how the funds described in paragraph (2) have been obligated or expended, including how much of that funding has been obligated or expended for work performed by the Secretary, the entity with a contract under subsection (a), and any other entity the Secretary has contracted with to perform work.
 
-&emsp;(5) The amount of funding described in paragraph (2) that has been obligated or expended for each of the activities described in paragraph (4).
+&emsp;&emsp;(D) Subject to paragraph (2)(B), a description of the activities for which the funds described in paragraph (2) were used, including task orders and activities assigned to the entity with a contract under subsection (a), activities performed by the Secretary, and task orders and activities assigned to any other entity the Secretary has contracted with to perform work related to carrying out section 1395aaa–1 of this title.
 
-&emsp;(6) Estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
+&emsp;&emsp;(E) Subject to paragraph (2)(B), the amount of funding described in paragraph (2) that has been obligated or expended for each of the activities described in paragraph (4).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008,122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title IV, §1401(a), Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §102(a), Dec. 20, 2019, 133 Stat. 3096.)
+&emsp;&emsp;(F) Subject to paragraph (2)(B), estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
+
+#### (2) Additional requirements for reports
+
+#### (A) Addressing GAO report
+
+&emsp;&emsp;Each of the annual reports submitted in 2021 and 2022 pursuant to paragraph (1) shall also include the following:
+
+&emsp;&emsp;&emsp;(i) A comprehensive analysis detailing the ways in which the Centers for Medicare \& Medicaid Services has addressed each of the recommendations set forth in the report by the Government Accountability Office (GAO–19–628) issued on September 19, 2019, and titled "Health Care Quality: CMS Could More Effectively Ensure Its Quality Measurement Activities Promote Its Objectives".
+
+&emsp;&emsp;&emsp;(ii) A detailed description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) any additional steps that the Centers for Medicare \& Medicaid Services expects to take to address the findings and recommendations set forth in such report; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the anticipated timing for such steps.
+
+#### (B) Ensuring detailed information
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of an annual report submitted in 2021 or a subsequent year pursuant to paragraph (1), the information required under—
+
+&emsp;&emsp;&emsp;&emsp;(I) paragraph (1)(D) shall also include detailed information on each of the activities described in clause (ii);
+
+&emsp;&emsp;&emsp;&emsp;(II) paragraph (1)(E) shall also include detailed information on the specific amounts obligated or expended on each of the activities described in clause (ii); and
+
+&emsp;&emsp;&emsp;&emsp;(III) paragraph (1)(F) shall also include detailed information on the specific quality measurement activities requiredand future funding needed for each of the activities described in clause (ii).
+
+#### (ii) Activities described
+
+&emsp;&emsp;&emsp;The activities described in this clause are the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Measure selection activities.
+
+&emsp;&emsp;&emsp;&emsp;(II) Measure development activities.
+
+&emsp;&emsp;&emsp;&emsp;(III) Public reporting activities.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Education and outreach activities.
+
+#### (f) Additional reporting by the Secretary to Congress
+
+#### (1) In general
+
+&emsp;By not later than September 30 of each year (beginning with 2021), the Secretary shall submit to Congress a report on the amount of unobligated balances for appropriations relating to quality measurement. Such report shall include detailed plans on how the Secretary expects to expend such unobligated balances in the upcoming fiscal years.
+
+#### (2) Separate report
+
+&emsp;The annual report required under paragraph (1) shall be separate from the annual report required under subsection (e).
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title IV, §1401(a), Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §102(a), Dec. 20, 2019, 133 Stat. 3096; Pub. L. 116–136, div. A, title III, §3802(a), Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–159, div. C, title II, §2202, Oct. 1, 2020, 134 Stat. 730; Pub. L. 116–215, div. B, title I, §1103, Dec. 11, 2020, 134 Stat. 1042; Pub. L. 116–260, div. CC, title I, §102, Dec. 27, 2020, 134 Stat. 2940.)
 
 #### References in Text
 
@@ -236,6 +296,30 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 #### Amendments
 
+<b>2020</b>—Subsec. (b)(4). Pub. L. 116–260, §102(c), added par. (4).
+
+Subsec. (b)(9). Pub. L. 116–260, §102(d), added par. (9).
+
+Subsec. (d)(2). Pub. L. 116–260, §102(a), substituted "$26,000,000 for fiscal year 2021, $20,000,000 for fiscal year 2022, and $20,000,000 for fiscal year 2023" for "and for the period beginning on October 1, 2020, and ending on December 18, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020" in first sentence and "2020, 2021, 2022, and 2023" for "and 2020, and for the period beginning on October 1, 2020, and ending on December 18, 2020" in last sentence.
+
+Pub. L. 116–215 substituted "December 18, 2020" for "December 11, 2020" in two places.
+
+Pub. L. 116–159 substituted "December 11, 2020" for "November 30, 2020" in two places.
+
+Pub. L. 116–136, §3802, substituted "$20,000,000 for fiscal year 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020" for "and $4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020" in first sentence and ", 2019, and 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020," for "and 2019 and for the period beginning on October 1, 2019, and ending on May 22, 2020" in last sentence.
+
+Subsec. (e). Pub. L. 116–260, §102(b)(1)(A), (B), (G), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+
+Subsec. (e)(1)(A). Pub. L. 116–260, §102(b)(1)(C), struck out at end "In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan."
+
+Subsec. (e)(1)(D). Pub. L. 116–260, §102(b)(1)(D), substituted "Subject to paragraph (2)(B), a description" for "A description".
+
+Subsec. (e)(1)(E). Pub. L. 116–260, §102(b)(1)(E), substituted "Subject to paragraph (2)(B), the amount" for "The amount".
+
+Subsec. (e)(1)(F). Pub. L. 116–260, §102(b)(1)(F), substituted "Subject to paragraph (2)(B), estimates" for "Estimates".
+
+Subsec. (f). Pub. L. 116–260, §102(b)(2), added subsec. (f).
+
 <b>2019</b>—Subsec. (d)(2). Pub. L. 116–94 substituted "$4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020" for "$1,665,000 for the period beginning on October 1, 2019, and ending on December 20, 2019" in first sentence and "May 22, 2020" for "December 20, 2019," in last sentence.
 
 Pub. L. 116–69 substituted "$1,665,000 for the period beginning on October 1, 2019, and ending on December 20, 2019" for "$1,069,000 for the period beginning on October 1, 2019, and ending on November 21, 2019" in first sentence and "December 20, 2019" for "November 21, 2019" in last sentence.
@@ -244,7 +328,7 @@ Pub. L. 116–59 substituted "$7,500,000 for each of fiscal years 2018 and 2019,
 
 <b>2018</b>—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), realigned margins, and added cls. (ii) and (iii).
 
-Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 for each of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
+Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 foreach of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
 
 Subsec. (e). Pub. L. 115–123, §50206(b), added subsec. (e).
 
@@ -272,6 +356,10 @@ Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–136, div. A, title III, §3802(b), Mar. 27, 2020, 134 Stat. 427, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94)."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. N, title I, §102(b), Dec. 20, 2019, 133 Stat. 3096, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Further Continuing Appropriations Act, 2020, and Further Health Extenders Act of 2019 (Public Law 116–69)."
@@ -282,7 +370,7 @@ Pub. L. 116–69, div. B, title IV, §1401(b), Nov. 21, 2019, 133 Stat. 1138, pr
 
 Pub. L. 115–123, div. E, title II, §50206(c)(2), Feb. 9, 2018, 132 Stat. 185, provided that: "The amendments made by this subsection \[amending this section\] shall apply to reports submitted for years beginning with 2019."
 
-<i><sup>1</sup></i><i> See Amendment of Subsection (b)(5)(A) note below.</i>
+<i><sup>1</sup></i><i> See 2018 Amendment note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "panels)."</i>
 

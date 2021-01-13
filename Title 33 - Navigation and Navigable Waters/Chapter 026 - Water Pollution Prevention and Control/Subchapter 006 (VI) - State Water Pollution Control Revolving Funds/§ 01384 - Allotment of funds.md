@@ -6,7 +6,7 @@ Sums authorized to be appropriated to carry out this section for each of fiscal 
 
 #### (b) Reservation of funds for planning
 
-Each State shall reserve each fiscal year 1 percent of the sums allotted to such State under this section for such fiscal year, or $100,000, whichever amount is greater, to carry out planning under sections 1285(j) and 1313(e) of this title.
+Each State shall reserve each fiscal year 1 percent of the sums allotted to such State underthis section for such fiscal year, or $100,000, whichever amount is greater, to carry out planning under sections 1285(j) and 1313(e) of this title.
 
 #### (c) Allotment period
 
@@ -19,6 +19,8 @@ Each State shall reserve each fiscal year 1 percent of the sums allotted to such
 &emsp;The amount of any allotment not obligated by the State by the last day of the 2-year period of availability established by paragraph (1) shall be immediately reallotted by the Administrator on the basis of the same ratio as is applicable to sums allotted under subchapter II of this chapter for the second fiscal year of such 2-year period. None of the funds reallotted by the Administrator shall be reallotted to any State which has not obligated all sums allotted to such State in the first fiscal year of such 2-year period.
 
 (June 30, 1948, ch. 758, title VI, §604, as added Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 25.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Capitalization Grant Funds for Construction Grants
 

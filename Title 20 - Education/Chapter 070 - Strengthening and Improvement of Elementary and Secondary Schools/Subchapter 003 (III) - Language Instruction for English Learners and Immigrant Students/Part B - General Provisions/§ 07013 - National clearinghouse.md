@@ -22,7 +22,7 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 Nothing in this section shall authorize the Secretary to hire additional personnel to execute subsection (a).
 
-(Pub. L. 89–10, title III, §3202, formerly §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1733; amended Pub. L. 107–279, title IV, §404(d)(5)(B), Nov. 5, 2002, 116 Stat. 1986; renumbered §3202 and amended Pub. L. 114–95, title III, §§3001(5)(C), 3004(b), Dec. 10, 2015, 129 Stat. 1953, 1965.)
+(Pub. L. 89–10, title III, §3202, formerly §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002,115 Stat. 1733; amended Pub. L. 107–279, title IV, §404(d)(5)(B), Nov. 5, 2002, 116 Stat. 1986; renumbered §3202 and amended Pub. L. 114–95, title III, §§3001(5)(C), 3004(b), Dec. 10, 2015, 129 Stat. 1953, 1965.)
 
 #### Prior Provisions
 
@@ -32,7 +32,7 @@ Another prior section 3202 of Pub. L. 89–10 was classified to section 6892 of 
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95, §3004(b)(1), designated existing provisions as subsec. (a) and substituted "Englishlearners" for "limited English proficient children" in introductory provisions.
+<b>2015</b>—Pub. L. 114–95, §3004(b)(1), designated existing provisions as subsec. (a) and substituted "English learners" for "limited English proficient children" in introductory provisions.
 
 Subsec. (a)(4)(A). Pub. L. 114–95, §3004(b)(2)(A), substituted "English learners, including English learners with a disability, that includes information on best practices on instructing and serving English learners" for "limited English proficient children".
 

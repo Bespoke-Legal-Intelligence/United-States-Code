@@ -22,6 +22,8 @@ This chapter codifies the Act of February 13, 1893 (ch. 105, 27 Stat. 445) (comm
 
 A definition of "carrier" is added based on language appearing in various provisions of the Harter Act. The definition avoids the need to repeat in various sections of this chapter the list of persons to whom the requirements and restrictions of this chapter apply, and it ensures that the list of persons is consistent in the chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Carriage of Goods by Sea Act
 
 Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(146), Aug. 6, 1981, 95 Stat. 166, provided:
@@ -66,7 +68,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(c) The apparent order and condition of the goods: <i>Provided</i>, That no carrier, master, or agent of the carrier, shall be bound to state or show in the bill of lading any marks, number, quantity, or weight which he has reasonable ground for suspecting not accurately to represent the goods actually received, or which he has had no reasonable means of checking.
 
-"(4) Such a bill of lading shall be prima facie evidence of the receipt by the carrier of the goods as therein described in accordance with paragraphs (3)(a), (b), and (c), of this section: <i>Provided</i>, That nothing in this Act shall be construed as repealing or limiting the application of any part of the Act, as amended, entitled 'An Act relating to bills of lading in interstate and foreign commerce', approved August 29, 1916 (U.S.C., title 49, secs. 81–124), commonly known as the 'Pomerene Bills of Lading Act' \[now chapter 801 of Title 49, Transportation\].
+"(4) Such a bill of lading shall be prima facie evidence of the receipt by the carrier of the goods as therein described in accordance with paragraphs (3)(a), (b), and (c), of this section: <i>Provided</i>, That nothing in this Act shall be construed as repealing or limiting the application of any part of the Act, as amended, entitled 'AnAct relating to bills of lading in interstate and foreign commerce', approved August 29, 1916 (U.S.C., title 49, secs. 81–124), commonly known as the 'Pomerene Bills of Lading Act' \[now chapter 801 of Title 49, Transportation\].
 
 "(5) The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity, and weight, as furnished by him; and the shipper shall indemnify the carrier against all loss, damages, and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
 
@@ -144,7 +146,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 #### "SPECIAL CONDITIONS
 
-"Sec. 6. Notwithstanding the provisions of the preceding sections, a carrier, master or agent of the carrier, and a shipper shall, in regard to any particular goods be at liberty to enter into any agreement in any terms as to the responsibility and liability of the carrier for such goods, and as to the rights and immunities of the carrier in respect of such goods, or his obligation as to seaworthiness (so far as the stipulation regarding seaworthiness is not contrary to public policy), or the care or diligence of his servants or agents in regard tothe loading, handling, stowage, carriage, custody, care, and discharge of the goods carried by sea: <i>Provided</i>, That in this case no bill of lading has been or shall be issued and that the terms agreed shall be embodied in a receipt which shall be a nonnegotiable document and shall be marked as such.
+"Sec. 6. Notwithstanding the provisions of the preceding sections, a carrier, master or agent of the carrier, and a shipper shall, in regard to any particular goods be at liberty to enter into any agreement in any terms as to the responsibility and liability of the carrier for such goods, and as to the rights and immunities of the carrier in respect of such goods, or his obligation as to seaworthiness (so far as the stipulation regarding seaworthiness is not contrary to public policy), or the care or diligence of his servants or agents in regard to the loading, handling, stowage, carriage, custody, care, and discharge of the goods carried by sea: <i>Provided</i>, That in this case no bill of lading has been or shall be issued and that the terms agreed shall be embodied in a receipt which shall be a nonnegotiable document and shall be marked as such.
 
 "Any agreement so entered into shall have full legal effect: <i>Provided</i>, That this section shall not apply to ordinary commercial shipments made in the ordinary course of trade but only to other shipments where the character or condition of the property to be carried or the circumstances, terms, and conditions under which the carriage is to be performed are such as reasonably to justify a special agreement.
 
@@ -178,7 +180,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "Sec. 13. This Act shall apply to all contracts for carriage of goods by sea to or from ports of the United States in foreign trade. As used in this Act the term 'United States' includes its districts, territories, and possessions: <i>Provided, however</i>, That the Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands. The term 'foreign trade' means the transportation of goods between the ports of the United States and ports of foreign countries. Nothing in this Act shall be held to apply to contracts for carriage of goods by sea between any port of the United States or its possessions, and any other port of the United States or its possessions: <i>Provided, however</i>, That any bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea between such ports, containing an express statement that it shall be subject to the provisions of this Act, shall be subjected hereto as fully as if subject hereto by the express provisions of this Act: <i>Provided further</i>, That every bill of lading or similar document of title which is evidence of a contract for the carriage of goods by sea from ports of the United States, in foreign trade, shall contain a statement that it shall have effect subject to the provisions of this Act.
 
-"\[As to proviso in second sentence that Philippine Legislature may by law exclude its application to transportation to or from ports of the Philippine Islands, see Proc. No. 2695, set out under section 1394 of Title 22, Foreign Relations and Intercourse, which proclaimed the independence of the Philippines.\]
+"\[As to proviso in second sentence that Philippine Legislature may by law exclude its application totransportation to or from ports of the Philippine Islands, see Proc. No. 2695, set out under section 1394 of Title 22, Foreign Relations and Intercourse, which proclaimed the independence of the Philippines.\]
 
 #### "\[SUSPENSION OF PROVISIONS BY PRESIDENT\]
 

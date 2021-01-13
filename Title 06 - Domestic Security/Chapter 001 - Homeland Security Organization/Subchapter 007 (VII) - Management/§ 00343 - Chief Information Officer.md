@@ -84,6 +84,8 @@ The Chief Information Officer shall report to the Secretary, or to another offic
 
 (Pub. L. 107–296, title VII, §703, Nov. 25, 2002, 116 Stat. 2219; Pub. L. 108–458, title VIII, §8201(b), Dec. 17, 2004, 118 Stat. 3865.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 216 of the E-Government Act of 2002, referred to in subsec. (b)(2)(D)(ii), is section 216 of Pub. L. 107–347, which is set out in a note under section 3501 of Title 44, Public Printing and Documents.
@@ -93,6 +95,8 @@ Executive Order 12906, referred to in subsec. (b)(2)(D)(iii), is set out as a no
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–458 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

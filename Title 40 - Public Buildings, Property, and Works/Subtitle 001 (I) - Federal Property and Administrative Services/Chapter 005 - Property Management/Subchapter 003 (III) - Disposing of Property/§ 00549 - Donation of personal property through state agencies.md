@@ -170,7 +170,7 @@ Request by recipient.—The state plan of operation shall require the state agen
 
 &emsp;&emsp;(F)
 
-Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
+Service charges.—If the state agency is authorized to assess and collect servicecharges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
 &emsp;&emsp;(G)
 
@@ -298,6 +298,8 @@ In subsection (e)(2)(B), the words "In the event that a State legislature has no
 
 In subsection (f)(1)(B)–(D) and (4)(B), the words "Secretary of Education" and "Secretary of Health and Human Services" are substituted for "Secretary of Health, Education, and Welfare" because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(3)(B)(vii). Pub. L. 114–287 amended cl. (vii) generally. Prior to amendment, cl. (vii) read as follows: "a museum attended by the public;".
@@ -316,6 +318,8 @@ Subsec. (c)(3)(C). Pub. L. 113–26, §2(1), (3), added subpar. (C).
 
 <b>2006</b>—Subsec. (c)(3)(B)(ix). Pub. L. 109–313 added cl. (ix).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313, set out as a note under section 5316 of Title 5, Government Organization and Employees.
@@ -323,6 +327,8 @@ Amendment by Pub. L. 109–313 effective 60 days after Oct. 6, 2006, see section
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12999. Educational Technology: Ensuring Opportunity for All Children in the Next Century
 
@@ -342,7 +348,7 @@ Sec. 2. <i>Efficient Transfer of Educationally Useful Federal Equipment to Schoo
 
 (1) conveying research equipment directly to the school or organization pursuant to 15 U.S.C. 3710(i); or
 
-(2) reporting excess equipment to the General Services Administration (GSA) for donation when declared surplus in accordance with section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended, 40 U.S.C. 484(j) \[now 40 U.S.C. 549\]. Agencies shall report such equipment as far as possible in advance of the date the equipment becomes excess, so that GSA may attempt to arrange direct transfers from the donating agency to recipients eligible under this order.
+(2) reporting excess equipment to the General Services Administration (GSA) for donation when declared surplus in accordance with section 203(j) of the FederalProperty and Administrative Services Act of 1949, as amended, 40 U.S.C. 484(j) \[now 40 U.S.C. 549\]. Agencies shall report such equipment as far as possible in advance of the date the equipment becomes excess, so that GSA may attempt to arrange direct transfers from the donating agency to recipients eligible under this order.
 
 (d) In transfers made pursuant to paragraph (c)(1) of this section, title shall transfer directly from the agency to the schools or nonprofit organizations as required by 15 U.S.C. 3710(i). All such transfers shall be reported to the GSA. At the direction of the recipient institution or organization, and if appropriate, transferred equipment may be conveyed initially to a nonprofit reuse or recycling program that will upgrade it before transfer to the school or nonprofit organization holding title.
 
@@ -376,7 +382,7 @@ Sec. 4. <i>Definitions</i>. For the purposes of this order: (a) "Schools" means 
 
 Sec. 5. This order shall supersede Executive Order No. 12821 of November 16, 1992.
 
-Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit,substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+Sec. 6. <i>Judicial Review</i>. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

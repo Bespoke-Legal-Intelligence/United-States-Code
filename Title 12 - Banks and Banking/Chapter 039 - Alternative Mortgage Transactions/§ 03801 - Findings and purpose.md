@@ -4,7 +4,7 @@
 
 &emsp;(1) increasingly volatile and dynamic changes in interest rates have seriously impared <sup>1</sup> the ability of housing creditors to provide consumers with fixed-term, fixed-rate credit secured by interests in real property, cooperative housing, manufactured homes, and other dwellings;
 
-&emsp;(2) alternative mortgage transactions are essential to the provision of an adequate supplyof credit secured by residential property necessary to meet the demand expected during the 1980's; and
+&emsp;(2) alternative mortgage transactions are essential to the provision of an adequate supply of credit secured by residential property necessary to meet the demand expected during the 1980's; and
 
 &emsp;(3) the Comptroller of the Currency, the National Credit Union Administration, and the Director of the Office of Thrift Supervision have recognized the importance of alternative mortgage transactions and have adopted regulations authorizing federally chartered depository institutions to engage in alternative mortgage financing.
 
@@ -12,9 +12,13 @@
 
 (Pub. L. 97–320, title VIII, §802, Oct. 15, 1982, 96 Stat. 1545; Pub. L. 101–73, title VII, §744(c), Aug. 9, 1989, 103 Stat. 438.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a)(3). Pub. L. 101–73 substituted "Director of the Office of Thrift Supervision" for "Federal Home Loan Bank Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

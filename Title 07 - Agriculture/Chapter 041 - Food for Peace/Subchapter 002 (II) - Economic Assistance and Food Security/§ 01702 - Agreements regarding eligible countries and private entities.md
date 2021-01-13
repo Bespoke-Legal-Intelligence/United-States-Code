@@ -12,7 +12,7 @@ In selecting agreements to be entered into under this subchapter, the Secretary 
 
 An agreement entered into under this subchapter with a private entity shall require such security, or such other provisions as the Secretary determines necessary, to provide reasonable and adequate assurance of repayment of the financing extended to the private entity.
 
-(July 10, 1954, ch. 469, title I, §102, 68 Stat. 455; Apr. 25, 1955, ch. 27, 69 Stat. 44; Pub. L. 88–638, §1(3), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §9, July 29, 1968, 82 Stat. 451; Pub. L. 95–88, titleII, §201(a), Aug. 3, 1977, 91 Stat. 545; Pub. L. 95–113, title XII, §1201, Sept. 29, 1977, 91 Stat. 955; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, §203, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, §3005, June 18, 2008, 122 Stat. 1822.)
+(July 10, 1954, ch. 469, title I, §102, 68 Stat. 455; Apr. 25, 1955, ch. 27, 69 Stat. 44; Pub. L. 88–638, §1(3), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §9, July 29, 1968, 82 Stat. 451; Pub. L. 95–88, title II, §201(a), Aug. 3, 1977, 91 Stat. 545; Pub. L. 95–113, title XII, §1201, Sept. 29, 1977, 91 Stat. 955; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, §203, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, §3005, June 18, 2008, 122 Stat. 1822.)
 
 #### Amendments
 

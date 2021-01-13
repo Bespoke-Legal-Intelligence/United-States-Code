@@ -56,7 +56,7 @@ Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A)
 
 <b>1975</b>—Subsec. (a)(2)(A). Pub. L. 93–618 inserted "($20, in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa)" after "United States".
 
-<b>1965</b>—Subsec. (a)(2). Pub. L. 89–62 substituted "fair retail value in the country of shipment" for "value" inthe material preceding subpar. (A) and "item 812.25 or 813.31 of section 1202 of this title" for "paragraph 1798(b)(2) or (c)(2) of section 1201 of this title" in subpar. (B).
+<b>1965</b>—Subsec. (a)(2). Pub. L. 89–62 substituted "fair retail value in the country of shipment" for "value" in the material preceding subpar. (A) and "item 812.25 or 813.31 of section 1202 of this title" for "paragraph 1798(b)(2) or (c)(2) of section 1201 of this title" in subpar. (B).
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–261 inserted "(b)(2) or" after "paragraph 1798".
 

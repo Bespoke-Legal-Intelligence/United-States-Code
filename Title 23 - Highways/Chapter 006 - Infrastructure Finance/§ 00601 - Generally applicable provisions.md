@@ -198,6 +198,8 @@ Treatment of Chapter.—For purposes of this title, this chapter shall be treate
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -258,9 +260,11 @@ Par. (10). Pub. L. 109–59, §1601(a)(2), (4), redesignated par. (11) as (10) a
 
 Pars. (11) to (15). Pub. L. 109–59, §1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
@@ -374,7 +378,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks andmultistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -392,7 +396,7 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;"(A)(i) the total amount of funds apportioned to the State under each of \[former\] paragraphs (1), (3), and (4) of section 104(b) and \[former\] section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of \[former\] section 133(d) of such title; and
+&emsp;&emsp;"(A)(i) the total amount of funds apportioned to the State under each of \[former\] paragraphs (1), (3), and (4) of section 104(b) and \[former\] section 144 oftitle 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of \[former\] section 133(d) of such title; and
 
 &emsp;&emsp;"(ii) the total amount of funds allocated to the State under \[former\] section 105 of such title;
 
@@ -512,7 +516,7 @@ United States Not Obligated.—
 
 &emsp;"(1)
 
-In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have any right against the United States for payment solely by virtue of the contribution.
+In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have anyright against the United States for payment solely by virtue of the contribution.
 
 &emsp;"(2)
 

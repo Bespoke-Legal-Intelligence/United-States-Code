@@ -136,7 +136,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien" for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien"for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (M) SSI extensions through fiscal year 2011
 
@@ -178,7 +178,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (V) Payment of benefits to aliens whose benefits ceased in prior fiscal years
 
-&emsp;&emsp;&emsp;&emsp;Benefits paid to a qualified alien or victim described in subclause (II) shallbe paid prospectively over the duration of the qualified alien's or victim's renewed eligibility.
+&emsp;&emsp;&emsp;&emsp;Benefits paid to a qualified alien or victim described in subclause (II) shall be paid prospectively over the duration of the qualified alien's or victim's renewed eligibility.
 
 #### (ii) Special rule in case of pending or approved naturalization application
 
@@ -266,6 +266,10 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;An alien who is receiving benefits under the program defined in subsection (a)(3)(A) (relating to the supplemental security income program) shall be eligible for medical assistance under a State plan under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) under the same terms and conditions that apply to other recipients of benefits under the program defined in such subsection.
 
+#### (G) Medicaid exception for citizens of freely associated states
+
+&emsp;&emsp;With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.
+
 #### (3) "Designated Federal program" defined
 
 &emsp;For purposes of this chapter, the term "designated Federal program" means any of the following:
@@ -282,7 +286,9 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, §4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, §2, Sept. 30, 2008, 122 Stat. 3567; Pub. L. 116–260, div. CC, title II, §208(a), Dec. 27, 2020, 134 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -294,13 +300,13 @@ Section 584 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 The 9th proviso under
 
-migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
+migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act,1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(l) of the Act, which defined "supplemental nutrition assistance program", was classified to section 2012(l) ofTitle 7, prior to repeal by Pub. L. 113–79, title IV, §4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(l) of the Act, which defined "supplemental nutrition assistance program", was classified to section 2012(l) of Title 7, prior to repeal by Pub. L. 113–79, title IV, §4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
@@ -313,6 +319,8 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(G). Pub. L. 116–260 added subpar. (G).
 
 <b>2008</b>—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, §4115(c)(2)(D)(i), substituted "section 3(j)" for "section 3(r)".
 
@@ -414,9 +422,15 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 <b>1996</b>—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 References to the food stamp program established under the Food and Nutrition Act of 2008, formerly known as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. CC, title II, §208(e), Dec. 27, 2020, 134 Stat. 2986, provided that: "The amendments made by this section \[amending this section and sections 1613 and 1641 of this title and section 1308 of Title 42, The Public Health and Welfare\] shall apply to benefits for items and services furnished on or after the date of the enactment of this Act \[Dec. 27, 2020\]."
 
 #### Effective Date of 2008 Amendment
 

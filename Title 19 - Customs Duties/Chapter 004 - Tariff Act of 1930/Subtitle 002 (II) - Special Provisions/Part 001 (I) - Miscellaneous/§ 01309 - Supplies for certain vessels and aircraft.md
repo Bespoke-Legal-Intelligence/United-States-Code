@@ -10,7 +10,7 @@ Articles of foreign or domestic origin may be withdrawn, under such regulations 
 
 &emsp;(3) for supplies (including equipment), ground equipment, maintenance, or repair of aircraft registered in any foreign country and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where trade by foreign aircraft is permitted. With respect to articles for ground equipment, the exemption hereunder shall apply only to duties and to taxes imposed upon or by reason of importation.
 
-The provisions for free withdrawals made by this subsection shall not apply to petroleumproducts for vessels or aircraft in voyages or flights exclusively between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.
+The provisions for free withdrawals made by this subsection shall not apply to petroleum products for vessels or aircraft in voyages or flights exclusively between Hawaii or Alaska and any airport or Pacific coast seaport of the United States.
 
 #### (b) Drawback
 

@@ -18,7 +18,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
-(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him <sup>1</sup> for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
+(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or otherofficer designated by him <sup>1</sup> for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
@@ -42,7 +42,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 &emsp;(3) include information with respect to any existing standard known to the Commission which may be relevant to the proceedings, together with a summary of the reasons why the Commission believes preliminarily that such standard does not eliminate or adequately reduce the risk of injury identified in paragraph (1);
 
-&emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, theregulatory alternatives being considered, and other possible alternatives for addressing the risk;
+&emsp;(4) invite interested persons to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days or more than 60 days after the date of publication of the notice), comments with respect to the risk of injury identified by the Commission, the regulatory alternatives being considered, and other possible alternatives for addressing the risk;
 
 &emsp;(5) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), an existing standard or a portion of a standard as a proposed regulation.<sup>2</sup>
 
@@ -108,7 +108,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(C) that the regulation imposes the least burdensome requirement which prevents or adequately reduces the risk of injury for which the regulation is being promulgated.
 
-(3)(A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
+(3)(A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of thewhole rulemaking record of agency action in connection with such review.
 
 (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 

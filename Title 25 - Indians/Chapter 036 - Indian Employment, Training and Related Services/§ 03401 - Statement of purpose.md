@@ -4,9 +4,13 @@ The purpose of this chapter is to facilitate the ability of Indian tribes and tr
 
 (Pub. L. 102–477, §2, Oct. 23, 1992, 106 Stat. 2302; Pub. L. 115–93, §3, Dec. 18, 2017, 131 Stat. 2026.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–93 substituted "The purpose of this chapter is to facilitate the ability of Indian tribes and tribal organizations to" for "The purposes of this chapter are to demonstrate how Indian tribal governments can" and ", and serve tribally determined" for "and serve tribally-determined" and inserted "from diverse Federal sources" after "they provide" and ", while reducing administrative, reporting, and accounting costs" after "self-determination".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2017 Amendment
 
@@ -62,7 +66,7 @@ Findings.—The Congress finds that—
 
 "(b)
 
-Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note above\] are to demonstrate how Indian tribal governments can integrate the employment, training, and related services they provide in order to improve the effectiveness of those services, reduce joblessness in Indian communities, foster economic development on Indian lands, and serve tribally-determined goals consistent with the policies of self-determination and self-governance."
+Purposes.—The purposes of this title \[see Short Title of 2000 Amendment note above\] are to demonstrate how Indian tribal governments can integrate the employment, training, and related services theyprovide in order to improve the effectiveness of those services, reduce joblessness in Indian communities, foster economic development on Indian lands, and serve tribally-determined goals consistent with the policies of self-determination and self-governance."
 
 #### Report on Expanding Opportunities for Program Integration
 

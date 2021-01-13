@@ -76,7 +76,7 @@ No regulation or order of the Comptroller of the Currency prescribed under subse
 
 #### (2) Reports to Congress
 
-&emsp;At the time of issuing a review conducted under paragraph (1), the Comptroller of the Currency shall submit a report regarding such review to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. The report submitted to the respective committees shall address whether the agency intends to continue, rescind, or propose to amend any determination that a provision of Federal law preempts aState consumer financial law, and the reasons therefor.
+&emsp;At the time of issuing a review conducted under paragraph (1), the Comptroller of the Currency shall submit a report regarding such review to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. The report submitted to the respective committees shall address whether the agency intends to continue, rescind, or propose to amend any determination that a provision of Federal law preempts a State consumer financial law, and the reasons therefor.
 
 #### (e) Application of State consumer financial law to subsidiaries and affiliates
 
@@ -104,13 +104,15 @@ The Comptroller of the Currency shall publish and update no less frequently than
 
 #### (1) <sup>1</sup> In general
 
-&emsp;In accordance with the decision of the Supreme Court of the United States in Cuomo v. Clearing House Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of title 62 of the Revised Statutes which relates to visitorial powers or otherwise limits or restricts the visitorial authority to which any national bank is subject shall be construed as limiting or restricting the authority of any attorney general (or other chief law enforcement officer) of any State to bring an action against a national bank in a court of appropriate jurisdiction to enforce an applicable law and to seek relief as authorized by such law.
+&emsp;In accordance with the decision of the Supreme Court of the United States in Cuomo v. Clearing House Assn., L. L. C. (129 S. Ct. 2710 (2009)), no provision of title 62 of the Revised Statutes which relates to visitorial powers or otherwise limits or restricts the visitorial authority to which any national bank is subjectshall be construed as limiting or restricting the authority of any attorney general (or other chief law enforcement officer) of any State to bring an action against a national bank in a court of appropriate jurisdiction to enforce an applicable law and to seek relief as authorized by such law.
 
 #### (j) Enforcement actions
 
 The ability of the Comptroller of the Currency to bring an enforcement action under title 62 of the Revised Statutes or section 45 of title 15 does not preclude any private party from enforcing rights granted under Federal or State law in the courts.
 
 (R.S. §5136C, as added and amended Pub. L. 111–203, title X, §§1044(a), 1045, 1047(a), July 21, 2010, 124 Stat. 2014, 2017, 2018.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ For classification of title LXII of the Revised Statutes of the United States, r
 <b>2010</b>—Subsec. (h). Pub. L. 111–203, §1045, added subsec. (h).
 
 Subsecs. (i), (j). Pub. L. 111–203, §1047(a), added subsecs. (i) and (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

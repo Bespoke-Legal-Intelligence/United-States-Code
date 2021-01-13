@@ -2,7 +2,7 @@
 
 #### (a) Old-age, survivors, and disability insurance
 
-In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.
+In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to12.4 percent of the amount of the self-employment income for such taxable year.
 
 #### (b) Hospital insurance
 
@@ -74,7 +74,7 @@ Subsec. (b)(2)(B). Pub. L. 111–152, §1402(b)(1)(B)(ii), substituted "under cl
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided a credit against self-employment taxes imposed by this section.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–21, §124(a), amended subsec. (a) generally, substituting a table for former pars. (1) to (7) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning before Jan. 1, 1978, to be equal to 7.0 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 7.10 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 7.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1982, to beequal to 8.00 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, to be equal to 8.05 percent of the amount of the self-employment income for such taxable year; (6) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, to be equal to 8.55 percent of the amount of the self-employment income for such taxable year; and (7) in the case of any taxable year beginning after Dec. 31, 1989, to be equal to 9.30 percent of the amount of the self-employment income for such taxable year.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §124(a), amended subsec. (a) generally, substituting a table for former pars. (1) to (7) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning before Jan. 1, 1978, to be equal to 7.0 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 7.10 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 7.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1982, to be equal to 8.00 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1981, and before Jan. 1, 1985, to be equal to 8.05 percent of the amount of the self-employment income for such taxable year; (6) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1990, to be equal to 8.55 percent of the amount of the self-employment income for such taxable year; and (7) in the case of any taxable year beginning after Dec. 31, 1989, to be equal to 9.30 percent of the amount of the self-employment income for such taxable year.
 
 Subsec. (b). Pub. L. 98–21, §124(a), amended subsec. (b) generally, substituting a table for former pars. (1) to (6) which had imposed a tax on the self-employment income of every individual (1) in the case of any taxable year beginning after Dec. 31, 1973, and before Jan. 1, 1978, to be equal to 0.90 percent of the amount of the self-employment income for such taxable year; (2) in the case of any taxable year beginning after Dec. 31, 1977, and before Jan. 1, 1979, to be equal to 1.00 percent of the amount of the self-employment income for such taxable year; (3) in the case of any taxable year beginning after Dec. 31, 1978, and before Jan. 1, 1981, to be equal to 1.05 percent of the amount of the self-employment income for such taxable year; (4) in the case of any taxable year beginning after Dec. 31, 1980, and before Jan. 1, 1985, to be equal to 1.30 percent of the amount of the self-employment income for such taxable year; (5) in the case of any taxable year beginning after Dec. 31, 1984, and before Jan. 1, 1986, to be equal to 1.35 percent of the amount of the self-employment income for such taxable year; and (6) in the case of any taxable year beginning after Dec. 31, 1985, to be equal to 1.45 percent of the amount of the self-employment income for such taxable year.
 
@@ -122,7 +122,7 @@ Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(1), substituted "1978" for "19
 
 Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(1), struck out par. (1) provision for rate of 0.35 percent of amount of self-employment income for any taxable year beginning after Dec. 31, 1965, and before Jan. 1, 1967, redesignated former pars. (2) to (6) as (1) to (5), substituted "December 31, 1967" for "December 31, 1966" in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-<b>1965</b>—Pub. L. 89–97, §321(a), divided the total tax imposed under the entire section for each taxable year upon the self-employment income for such taxable year into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting a separate tax for hospital insurance; reduced from 6.2 percent to 6.15 percent the rate of total tax imposed under the entire section for taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1967 (resulting from a tax of 5.8 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 6.2 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1966, and before Jan. 1, 1968 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 6.9 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1967, and before Jan. 1, 1969 (resulting from atax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 6.9 percent to 7.1 percent the rate for taxable years beginning after Dec. 31, 1968, and before Jan. 1, 1973 (resulting from a tax of 6.6 percent under subsec. (a) and 0.50 percent under subsec. (b)), from 6.9 percent to 7.55 percent the rate for taxable years beginning after Dec. 31, 1972, and before Jan. 1, 1976 (resulting from a tax of 7.0 percent under subsec. (a) and 0.55 percent under subsec. (b)), from 6.9 percent to 7.60 percent the rate for taxable years beginning after Dec. 31, 1975, and before Jan. 1, 1980 (resulting from a tax of 7.0 percent under subsec. (a) and 0.60 percent under subsec. (b)), from 6.9 percent to 7.70 percent the rate for taxable years beginning after Dec. 31, 1979, and before Jan. 1, 1987 (resulting from a tax of 7.0 percent under subsec. (a) and 0.70 percent under subsec. (b)), and from 6.9 percent to 7.80 percent the rate for taxable years beginning after Dec. 31, 1986 (resulting from a tax of 7.0 percent under subsec. (a) and 0.80 percent under subsec. (b)), and provided that the exclusion of employee representatives by section 1402(c)(3) should not apply for purposes of the tax imposed by subsec. (b).
+<b>1965</b>—Pub. L. 89–97, §321(a), divided the total tax imposed under the entire section for each taxable year upon the self-employment income for such taxable year into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting a separate tax for hospital insurance; reduced from 6.2 percent to 6.15 percent the rate of total tax imposed under the entire section for taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1967 (resulting from a tax of 5.8 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 6.2 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1966, and before Jan. 1, 1968 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 6.9 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1967, and before Jan. 1, 1969 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 6.9 percent to 7.1 percent the rate for taxable years beginning after Dec. 31, 1968, and before Jan. 1, 1973 (resulting from a tax of 6.6 percent under subsec. (a) and 0.50 percent under subsec. (b)), from 6.9 percent to 7.55 percent the rate for taxable years beginning after Dec. 31, 1972, and before Jan. 1, 1976 (resulting from a tax of 7.0 percent under subsec. (a) and 0.55 percent under subsec. (b)), from 6.9 percent to 7.60 percent the rate for taxable years beginning after Dec. 31, 1975, and before Jan. 1, 1980 (resulting from a tax of 7.0 percent under subsec. (a) and 0.60 percent under subsec. (b)), from 6.9 percent to 7.70 percentthe rate for taxable years beginning after Dec. 31, 1979, and before Jan. 1, 1987 (resulting from a tax of 7.0 percent under subsec. (a) and 0.70 percent under subsec. (b)), and from 6.9 percent to 7.80 percent the rate for taxable years beginning after Dec. 31, 1986 (resulting from a tax of 7.0 percent under subsec. (a) and 0.80 percent under subsec. (b)), and provided that the exclusion of employee representatives by section 1402(c)(3) should not apply for purposes of the tax imposed by subsec. (b).
 
 Subsec. (b). Pub. L. 89–97, §111(c)(4), struck out provision that for purposes of the tax imposed by this subsection, the exclusion of employee representatives by section 1402(c)(3) shall not apply.
 
@@ -182,7 +182,7 @@ Pub. L. 90–248, title I, §109(c), Jan. 2, 1968, 81 Stat. 837, provided that: 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 111(c)(4) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[section 3201 et seq. of this title\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which FederalInsurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(4) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act \[section 3201 et seq. of this title\] provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act \[section 3101 et seq. of this title\] provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 Pub. L. 89–97, title III, §321(d), July 30, 1965, 79 Stat. 396, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1965. The amendments made by subsections (b) and (c) \[amending sections 3101 and 3111 of this title\] shall apply only with respect to remuneration paid after December 31, 1965."
 
@@ -201,6 +201,242 @@ Act Aug. 1, 1956, ch. 836, title II, §202(d), 70 Stat. 846, provided that: "The
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Credit for Sick Leave for Certain Self-Employed Individuals
+
+Pub. L. 116–127, div. G, §7002, Mar. 18, 2020, 134 Stat. 212, as amended by Pub. L. 116–260, div. N, title II, §§286(a), (b)(2), 287(a), Dec. 27, 2020, 134 Stat. 1989–1991, provided that:
+
+"(a)
+
+Credit Against Self-Employment Tax.—In the case of an eligible self-employed individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for any taxable year an amount equal to the qualified sick leave equivalent amount with respect to the individual.
+
+"(b)
+
+Eligible Self-Employed Individual.—For purposes of this section, the term 'eligible self-employed individual' means an individual who—
+
+&emsp;"(1) regularly carries on any trade or business within the meaning of section 1402 of such Code, and
+
+&emsp;"(2) either—
+
+&emsp;&emsp;"(A) would be entitled to receive paid leave during the taxable year pursuant to the Emergency Paid Sick Leave Act \[div. E (§5101 et seq.) of Pub. L. 116–127, 29 U.S.C. 2601 note\] if the individual were an employee of an employer (other than himself or herself), or
+
+&emsp;&emsp;"(B) would be so entitled if—
+
+&emsp;&emsp;&emsp;"(i) such Act were applied by substituting 'March 31, 2021' for 'December 31, 2020' in section 5109 thereof, and
+
+&emsp;&emsp;&emsp;"(ii) the individual were an employee of an employer (other than himself or herself).
+
+"(c)
+
+Qualified Sick Leave Equivalent Amount.—For purposes of this section—
+
+&emsp;"(1)
+
+In general.—The term 'qualified sick leave equivalent amount' means, with respect to any eligible self-employed individual, an amount equal to—
+
+&emsp;&emsp;"(A) the number of days during the taxable year (but not more than the applicable number of days) that the individual is unable to perform services in any trade or business referred to in section 1402 of such Code for a reason with respect to which such individual would be entitled to receive sick leave as described in subsection (b), multiplied by
+
+&emsp;&emsp;"(B) the lesser of—
+
+&emsp;&emsp;&emsp;"(i) $200 ($511 in the case of any day of paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act \[29 U.S.C. 2601 note\]), or
+
+&emsp;&emsp;&emsp;"(ii) 67 percent (100 percent in the case of any day of paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act) of the average daily self-employment income of the individual for the taxable year.
+
+&emsp;"(2)
+
+Average daily self-employment income.—For purposes of this subsection, the term 'average daily self-employment income' means an amount equal to—
+
+&emsp;&emsp;"(A) the net earnings from self-employment of the individual for the taxable year, divided by
+
+&emsp;&emsp;"(B) 260.
+
+&emsp;"(3)
+
+Applicable number of days.—For purposes of this subsection, the term 'applicable number of days' means, with respect to any taxable year, the excess (if any) of 10 days over the number of days taken into account under paragraph (1)(A) in all preceding taxable years.
+
+&emsp;"(4)
+
+Election to use prior year net earnings from self-employment income.—In the case of an individual who elects (at such time and in such manner as the Secretary, or the Secretary's delegate, may provide) the application of this paragraph, paragraph (2)(A) shall be applied by substituting 'the prior taxable year' for 'the taxable year'.
+
+"(d)
+
+Special Rules.—
+
+&emsp;"(1)
+
+Credit refundable.—
+
+&emsp;&emsp;"(A)
+
+In general.—The credit determined under this section shall be treated as a credit allowed to the taxpayer under subpart C of part IV of subchapter A of chapter 1 of such Code.
+
+&emsp;&emsp;"(B)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any refund due from the credit determined under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+&emsp;"(2)
+
+Documentation.—No credit shall be allowed under this section unless the individual maintains such documentation as the Secretary of the Treasury (or the Secretary's delegate) may prescribe to establish such individual as an eligible self-employed individual.
+
+&emsp;"(3)
+
+Denial of double benefit.—In the case of an individual who receives wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) or compensation (as defined in section 3231(e) of the Internal Revenue Code \[of 1986\]) paid by an employer which are required to be paid by reason of the Emergency Paid Sick Leave Act, the qualified sick leave equivalent amount otherwise determined under subsection (c) shall be reduced (but not below zero) to the extent that the sum of the amount described in such subsection and in section 7001(b)(1) \[26 U.S.C. 3111 note\] exceeds $2,000 ($5,110 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act).
+
+&emsp;"(4)
+
+Certain terms.—Any term used in this section which is also used in chapter 2 of the Internal Revenue Code of 1986 shall have the same meaning as when used in such chapter.
+
+"(e)
+
+Application of Section.—Only days occurring during the period beginning on a date selected by the Secretary of the Treasury (or the Secretary's delegate) which is during the 15-day period beginning on the date of the enactment of this Act \[Mar. 18, 2020\], and ending on March 31, 2021, may be taken into account under subsection (c)(1)(A).
+
+"(f)
+
+Application of Credit in Certain Possessions.—
+
+&emsp;"(1)
+
+Payments to possessions with mirror code tax systems.—The Secretary of the Treasury (or the Secretary's delegate) shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of the provisions of this section. Such amounts shall be determined by the Secretary of the Treasury (or the Secretary's delegate) based on information provided by the government of the respective possession.
+
+&emsp;"(2)
+
+Payments to other possessions.—The Secretary of the Treasury (or the Secretary's delegate) shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury (or the Secretary's delegate) as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the provisions of this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury (or the Secretary's delegate), under which such possession will promptly distribute such payments to its residents.
+
+&emsp;"(3)
+
+Mirror code tax system.—For purposes of this section, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+&emsp;"(4)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+"(g)
+
+Regulations.—The Secretary of the Treasury (or the Secretary's delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+&emsp;"(1) regulations or other guidance to effectuate the purposes of this Act \[div. G of Pub. L. 116–127, enacting provisions set out as notes under this section and section 3111 of this title\], and
+
+&emsp;"(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section."
+
+\[Pub. L. 116–260, div. N, title II, §286(c), Dec. 27, 2020, 134 Stat. 1991, provided that: "The amendments made by this section \[amending section 7002 of Pub. L. 116–127, set out above, section 7004 of Pub. L. 116–127, set out below, and sections 7001, 7003, and 7005 of Pub. L. 116–127, set out as notes under section 3111 of this title\] shall take effect as if included in the provisions of the Families First Coronavirus Response Act \[Pub. L. 116–127\] to which they relate."\]
+
+\[Pub. L. 116–260, div. N, title II, §287(c), Dec. 27, 2020, 134 Stat. 1991, provided that: "The amendments made by this section \[amending section 7002 of Pub. L. 116–127, set out above, and section 7004 of Pub. L. 116–127, set out below\] shall take effect as if included in the provisions of the Families First Coronavirus Response Act \[Pub. L. 116–127\] to which they relate."\]
+
+#### Credit for Family Leave for Certain Self-Employed Individuals
+
+Pub. L. 116–127, div. G, §7004, Mar. 18, 2020, 134 Stat. 217, as amended by Pub. L. 116–260, div. N, title II, §§286(a), (b)(4), 287(b), Dec. 27, 2020, 134 Stat. 1989, 1991, provided that:
+
+"(a)
+
+Credit Against Self-Employment Tax.—In the case of an eligible self-employed individual, there shall be allowed as a credit against the tax imposed by subtitle A of the Internal Revenue Code of 1986 for any taxable year an amount equal to 100 percent of the qualified family leave equivalent amount with respect to the individual.
+
+"(b)
+
+Eligible Self-Employed Individual.—For purposes of this section, the term 'eligible self-employed individual' means an individual who—
+
+&emsp;"(1) regularly carries on any trade or business within the meaning of section 1402 of such Code, and
+
+&emsp;"(2) either—
+
+&emsp;&emsp;"(A) would be entitled to receive paid leave during the taxable year pursuant to the Emergency Family and Medical Leave Expansion Act \[div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under section 2601 of Title 29, Labor\] if the individual were an employee of an employer (other than himself or herself), or
+
+&emsp;&emsp;"(B) would be so entitled if—
+
+&emsp;&emsp;&emsp;"(i) section 102(a)(1)(F) of the Family and Medical Leave Act of 1993 \[29 U.S.C. 2612(a)(1)(F)\], as amended by the Emergency Family and Medical Leave Expansion Act, were applied by substituting 'March 31, 2021' for 'December 31, 2020', and
+
+&emsp;&emsp;&emsp;"(ii) the individual were an employee of an employer (other than himself or herself).
+
+"(c)
+
+Qualified Family Leave Equivalent Amount.—For purposes of this section—
+
+&emsp;"(1)
+
+In general.—The term 'qualified family leave equivalent amount' means, with respect to any eligible self-employed individual, an amount equal to the product of—
+
+&emsp;&emsp;"(A) the number of days (not to exceed 50) during the taxable year that the individual is unable to perform services in any trade or business referred to in section 1402 of such Code for a reason with respect to which such individual would be entitled to receive paid leave as described in subsection (b), multiplied by
+
+&emsp;&emsp;"(B) the lesser of—
+
+&emsp;&emsp;&emsp;"(i) 67 percent of the average daily self-employment income of the individual for the taxable year, or
+
+&emsp;&emsp;&emsp;"(ii) $200.
+
+&emsp;"(2)
+
+Average daily self-employment income.—For purposes of this subsection, the term 'average daily self-employment income' means an amount equal to—
+
+&emsp;&emsp;"(A) the net earnings from self-employment income of the individual for the taxable year, divided by
+
+&emsp;&emsp;"(B) 260.
+
+&emsp;"(4) \[(3)\]
+
+Election to use prior year net earnings from self-employment income.—In the case of an individual who elects (at such time and in such manner as the Secretary, or the Secretary's delegate, may provide) the application of this paragraph, paragraph (2)(A) shall be applied by substituting 'the prior taxable year' for 'the taxable year'.
+
+"(d)
+
+Special Rules.—
+
+&emsp;"(1)
+
+Credit refundable.—
+
+&emsp;&emsp;"(A)
+
+In general.—The credit determined under this section shall be treated as a credit allowed to the taxpayer under subpart C of part IV of subchapter A of chapter 1 of such Code.
+
+&emsp;&emsp;"(B)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any refund due from the credit determined under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+&emsp;"(2)
+
+Documentation.—No credit shall be allowed under this section unless the individual maintains such documentation as the Secretary of the Treasury (or the Secretary's delegate) may prescribe to establish such individual as an eligible self-employed individual.
+
+&emsp;"(3)
+
+Denial of double benefit.—In the case of an individual who receives wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) or compensation (as defined in section 3231(e) of the Internal Revenue Code \[of 1986\]) paid by an employer which are required to be paid by reason of the Emergency Family and Medical Leave Expansion Act, the qualified family leave equivalent amount otherwise described in subsection (c) shall be reduced (but not below zero) to the extent that the sum of the amountdescribed in such subsection and in section 7003(b)(1) \[26 U.S.C. 3111 note\] exceeds $10,000.
+
+&emsp;"(4)
+
+Certain terms.—Any term used in this section which is also used in chapter 2 of the Internal Revenue Code of 1986 shall have the same meaning as when used in such chapter.
+
+&emsp;"(5)
+
+References to emergency family and medical leave expansion act.—Any reference in this section to the Emergency Family and Medical Leave Expansion Act shall be treated as including a reference to the amendments made by such Act.
+
+"(e)
+
+Application of Section.—Only days occurring during the period beginning on a date selected by the Secretary of the Treasury (or the Secretary's delegate) which is during the 15-day period beginning on the date of the enactment of this Act \[Mar. 18, 2020\], and ending on March 31, 2021, may be taken into account under subsection (c)(1)(A).
+
+"(f)
+
+Application of Credit in Certain Possessions.—
+
+&emsp;"(1)
+
+Payments to possessions with mirror code tax systems.—The Secretary of the Treasury (or the Secretary's delegate) shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of the provisions of this section. Such amounts shall be determined by the Secretary of the Treasury (or the Secretary's delegate) based on information provided by the government of the respective possession.
+
+&emsp;"(2)
+
+Payments to other possessions.—The Secretary of the Treasury (or the Secretary's delegate) shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury (or the Secretary's delegate) as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the provisions of this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury (or the Secretary's delegate), under which such possession will promptly distribute such payments to its residents.
+
+&emsp;"(3)
+
+Mirror code tax system.—For purposes of this section, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+&emsp;"(4)
+
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+"(e)
+
+Regulations.—The Secretary of the Treasury (or the Secretary's delegate) shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this section, including—
+
+&emsp;"(1) regulations or other guidance to prevent the avoidance of the purposes of this Act \[div. G of Pub. L. 116–127, enacting provisions set out as notes under this section and section 3111 of this title\], and
+
+&emsp;"(2) regulations or other guidance to minimize compliance and record-keeping burdens under this section."
 
 #### Temporary Employee Payroll Tax Cut
 
@@ -264,11 +500,11 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 \["(2)
 
-Technical amendments.—The amendments made by subsection (d) \[amending section 601(b)(2) of Pub. L. 111–312, set out above\] shall take effect as if included in the enactment of section 601 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[Pub. L. 111–312\]."\]
+Technical amendments.—The amendments made by subsection (d) \[amending section 601(b)(2) ofPub. L. 111–312, set out above\] shall take effect as if included in the enactment of section 601 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[Pub. L. 111–312\]."\]
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
-Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this chapter, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
+Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this chapter, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
 
 #### Deduction by or Credit Against Individual Income Tax for Taxes Paid Into Foreign Social Security System Pursuant to International Agreement
 

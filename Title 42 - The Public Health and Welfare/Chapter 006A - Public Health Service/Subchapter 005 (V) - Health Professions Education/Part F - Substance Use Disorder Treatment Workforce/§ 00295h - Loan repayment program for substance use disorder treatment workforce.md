@@ -16,7 +16,7 @@ For each year of obligated service by an individual pursuant to an agreement und
 
 &emsp;The Secretary shall pay—
 
-&emsp;&emsp;(A) for each year of obligated service by an individual pursuant to an agreement undersubsection (a), 1/6 of the principal of and interest on each eligible loan of the individual which is outstanding on the date the individual began service pursuant to the agreement; and
+&emsp;&emsp;(A) for each year of obligated service by an individual pursuant to an agreement under subsection (a), 1/6 of the principal of and interest on each eligible loan of the individual which is outstanding on the date the individual began service pursuant to the agreement; and
 
 &emsp;&emsp;(B) for completion of the sixth and final year of such service, the remainder of such principal and interest.
 
@@ -92,7 +92,7 @@ In this section:
 
 &emsp;&emsp;(A) where the primary intent and function of the position is the direct treatment or recovery support of patients with or in recovery from a substance use disorder, including master's level social workers, psychologists, counselors, marriage and family therapists, psychiatric mental health practitioners, occupational therapists, psychology doctoral interns, and behavioral health paraprofessionals and physicians, physician assistants, and nurses, who are licensed or certified in accordance with applicable State and Federal laws; and
 
-&emsp;&emsp;(B) which is located at a substance use disorder treatment program, private physician practice, hospital or health system-affiliated inpatient treatment center or outpatient clinic (including an academic medical center-affiliated treatment program), correctional facility or program, youth detention center or program, inpatient psychiatric facility, crisis stabilization unit, community health center, community mental health orother specialty community behavioral health center, recovery center, school, community-based organization, telehealth platform, migrant health center, health program or facility operated by an Indian tribe or tribal organization, Federal medical facility, or any other facility as determined appropriate for purposes of this section by the Secretary.
+&emsp;&emsp;(B) which is located at a substance use disorder treatment program, private physician practice, hospital or health system-affiliated inpatient treatment center or outpatient clinic (including an academic medical center-affiliated treatment program), correctional facility or program, youth detention center or program, inpatient psychiatric facility, crisis stabilization unit, community health center, community mental health or other specialty community behavioral health center, recovery center, school, community-based organization, telehealth platform, migrant health center, health program or facility operated by an Indian tribe or tribal organization, Federal medical facility, or any other facility as determined appropriate for purposes of this section by the Secretary.
 
 #### (j) Authorization of appropriations
 
@@ -140,7 +140,7 @@ Section 295h–3d, act July 1, 1944, ch. 373, title VII, §794D, as added Nov. 2
 
 Prior sections 295h–4 to 295h–7 were omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
-Section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a),90 Stat. 2306; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, defined "allied health personnel", "training center for allied health professions", and "nonprofit". See section 295p of this title.
+Section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Oct. 12, 1976, Pub. L. 94–484, title VII, §701(a), 90 Stat. 2306; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, defined "allied health personnel", "training center for allied health professions", and "nonprofit". See section 295p of this title.
 
 Another prior section 295h–4, act July 1, 1944, ch. 373, title VII, §795, as added Nov. 3, 1966, Pub. L. 89–751, §2, 80 Stat. 1228; amended Dec. 5, 1967, Pub. L. 90–174, §12(e), 81 Stat. 542; Nov. 2, 1970, Pub. L. 91–519, title II, §202(c), 84 Stat. 1344; Nov. 18, 1971, Pub. L. 92–157, title III, §301(f), 85 Stat. 464, defined "training center for allied health professions"; "full-time student"; "nonprofit"; "construction" and "cost of construction"; and "affiliated hospital", prior to the general amendment of this part by Pub. L. 94–484.
 

@@ -12,9 +12,13 @@ The words "thirty days" were substituted for "one month," to make the term of im
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $50".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 

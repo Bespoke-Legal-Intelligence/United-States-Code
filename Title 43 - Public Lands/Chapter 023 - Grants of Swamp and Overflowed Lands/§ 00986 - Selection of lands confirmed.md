@@ -4,9 +4,13 @@ All land selected and reported to the General Land Office as swamp and overflowe
 
 (R.S. §2484.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2484 derived from act Mar. 3, 1857, ch. 117, 11 Stat. 251.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

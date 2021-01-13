@@ -56,6 +56,8 @@ In subsection (d), the words "Notwithstanding subsection (a) of this section" ar
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 812 of the Foreign Service Act of 1980, referred to in subsec. (c), is classified to section 4052 of Title 22, Foreign Relations and Intercourse.
@@ -67,6 +69,8 @@ Section 812 of the Foreign Service Act of 1980, referred to in subsec. (c), is c
 <b>1984</b>—Subsec. (b). Pub. L. 98–224 designated existing provisions as par. (1), substituted "the annuitant" for "he" and inserted ", other than an annuitant reappointed under paragraph (2) of this subsection,", and added par. (2).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–465 substituted "member of the Foreign Service retired under section 812 of the Foreign Service Act of 1980" for "Foreign Service officer retired under section 1001 or 1002 of title 22 or a Foreign Service staff officer or employee retired under section 1063 of title 22".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

@@ -10,9 +10,11 @@ In a Federal civil action or criminal prosecution brought against a person based
 
 #### (3) Costs
 
-If the defendant prevails in a Federal civil action described in paragraph (2), the court mayaward costs and reasonable attorney's fees incurred by the defendant.
+If the defendant prevails in a Federal civil action described in paragraph (2), the court may award costs and reasonable attorney's fees incurred by the defendant.
 
 (Pub. L. 115–424, §3(b), Jan. 7, 2019, 132 Stat. 5470.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

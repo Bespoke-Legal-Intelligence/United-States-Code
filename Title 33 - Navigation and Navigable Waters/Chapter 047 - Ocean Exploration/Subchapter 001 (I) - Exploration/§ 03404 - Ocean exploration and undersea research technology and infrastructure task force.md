@@ -10,7 +10,7 @@ The Administrator of the National Oceanic and Atmospheric Administration, in coo
 
 &emsp;(3) to develop an integrated, workable, and comprehensive data management information processing system that will make information on unique and significant features obtained by such programs available for research and management purposes;
 
-&emsp;(4) to conduct public outreach activities that improve the public understanding of ocean science, resources, and processes, in conjunction with relevant programs of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other agencies; and
+&emsp;(4) to conduct public outreach activities that improve the public understanding of oceanscience, resources, and processes, in conjunction with relevant programs of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other agencies; and
 
 &emsp;(5) to encourage cost-sharing partnerships with governmental and nongovernmental entities that will assist in transferring exploration and undersea research technology and technical expertise to the programs.
 

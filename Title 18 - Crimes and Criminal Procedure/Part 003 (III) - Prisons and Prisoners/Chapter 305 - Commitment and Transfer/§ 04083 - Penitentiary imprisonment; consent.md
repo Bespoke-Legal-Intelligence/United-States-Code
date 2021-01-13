@@ -16,6 +16,8 @@ The second paragraph is derived from said section 753f of title 18, U.S.C., 1940
 
 Minor changes of phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1959</b>—Pub. L. 86–256 substituted "punishable by imprisonment for" for "and sentenced to terms of imprisonment of" in first sentence.

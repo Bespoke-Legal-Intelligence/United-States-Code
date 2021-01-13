@@ -172,7 +172,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date on which the license holder received the request; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date on which the license holder received a copy of the covered product authorization issued by theSecretary in accordance with paragraph (2)(B); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date on which the license holder received a copy of the covered product authorization issued by the Secretary in accordance with paragraph (2)(B); and
 
 &emsp;&emsp;&emsp;(ii) ending on the date on which the eligible product developer received sufficient quantities of the covered product.
 
@@ -211,6 +211,8 @@ Nothing in this section, the amendments made by this section, or in section 355�
 &emsp;(2) in any way negating the applicability of a REMS with ETASU, as otherwise required under such section 355–1 of this title, with respect to such covered product.
 
 (Pub. L. 116–94, div. N, title I, §610, Dec. 20, 2019, 133 Stat. 3130.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

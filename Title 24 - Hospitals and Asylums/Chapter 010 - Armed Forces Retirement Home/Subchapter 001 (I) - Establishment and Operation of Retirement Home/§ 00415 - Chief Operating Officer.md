@@ -60,6 +60,8 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 (Pub. L. 101–510, div. A, title XV, §1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, §1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, §366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, §1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648; Pub. L. 107–107, div. A, title XIV, §1404(a), Dec. 28, 2001, 115 Stat. 1259; Pub. L. 112–81, div. A, title V, §563(b)(2), Dec. 31, 2011, 125 Stat. 1423; Pub. L. 115–232, div. A, title XIV, §1414, Aug. 13, 2018, 132 Stat. 2092.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (f)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Chief Operating Officer may accept gifts of money, property, and facilities on behalf of the Retirement Home."
@@ -72,11 +74,13 @@ To qualify for appointment as the Chief Operating Officer, a person shall—
 
 Subsec. (f). Pub. L. 104–201, §1051(b)(1), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Not later than the effective date specified in section 1541(a), members of the Retirement Home Board and the members of each Local Board shall be first appointed to staggered terms."
 
-<b>1993</b>—Subsec. (d)(1). Pub. L. 103–160 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"The Secretary of Defense shall select one of the members of the Retirement Home Board to serve as chairman. The term of office of the chairman of the Retirement Home Board shall be five years."
+<b>1993</b>—Subsec. (d)(1). Pub. L. 103–160 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary of Defense shall select one of the members of the Retirement Home Board to serve as chairman. The term of office of the chairman of the Retirement Home Board shall be five years."
 
 <b>1991</b>—Subsecs. (a), (c). Pub. L. 102–190, §1062(a)(4)(A), substituted "Local Boards" for "local boards".
 
 Subsec. (d)(2). Pub. L. 102–190, §1062(a)(4)(B), substituted "that Board" for "that board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -66,6 +66,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–327, §2(a)(49), Dec. 22, 2010, 124 Stat. 3562, inserted "patient care" before "ombudsman" in item 333.

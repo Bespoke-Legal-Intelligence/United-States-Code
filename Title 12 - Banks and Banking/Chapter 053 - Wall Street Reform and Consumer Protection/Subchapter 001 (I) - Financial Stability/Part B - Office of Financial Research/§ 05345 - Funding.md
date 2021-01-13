@@ -48,6 +48,8 @@ Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulat
 
 (Pub. L. 111–203, title I, §155, July 21, 2010, 124 Stat. 1418; Pub. L. 115–174, title IV, §401(c)(1)(D), May 24, 2018, 132 Stat. 1358.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Amendment by Pub. L. 115–174 was executed to subsec. (d) of this section as it appeared in the enrolled bill for H.R. 4173 (111th Congress, 2d session), which contained the text "$50,000,000,000". As published in the Statutes at Large for Pub. L. 111–203, text appeared as "50,000,000,000".
@@ -55,6 +57,8 @@ Amendment by Pub. L. 115–174 was executed to subsec. (d) of this section as it
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–174 substituted "$250,000,000,000" for "50,000,000,000". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

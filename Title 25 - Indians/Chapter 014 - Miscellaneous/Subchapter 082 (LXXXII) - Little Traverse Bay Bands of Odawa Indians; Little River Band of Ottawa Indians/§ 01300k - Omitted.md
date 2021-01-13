@@ -1,8 +1,12 @@
 ### §1300k. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 103–324, §2, Sept. 21, 1994, 108 Stat. 2156, which set out congressional findings, was omitted from the Code as being of special and not general application.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

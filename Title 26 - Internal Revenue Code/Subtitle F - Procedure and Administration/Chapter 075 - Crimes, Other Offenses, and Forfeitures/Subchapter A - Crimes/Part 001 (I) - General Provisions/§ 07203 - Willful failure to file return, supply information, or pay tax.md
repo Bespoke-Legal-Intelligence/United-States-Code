@@ -8,7 +8,7 @@ Any person required under this title to pay any estimated tax or tax, or require
 
 <b>1990</b>—Pub. L. 101–647 substituted "substituting 'felony' for 'misdemeanor' and" for "substituting".
 
-<b>1988</b>—Pub. L. 100–690 inserted at end "In the case of a willful violation of any provision of section 6050I, the first sentence of this section shall be applied by substituting '5 years' for '1 year'."
+<b>1988</b>—Pub. L. 100–690 inserted at end "In the case of a willful violation of any provision of section 6050I, thefirst sentence of this section shall be applied by substituting '5 years' for '1 year'."
 
 <b>1984</b>—Pub. L. 98–369 struck out "(other than a return required under the authority of section 6015)" after "to make a return".
 
@@ -36,5 +36,5 @@ Amendment by section 329(b) of Pub. L. 97–248 applicable to offenses committed
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except as provided by section 104 of Pub. L. 90–364, see section103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
+Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except as provided by section 104 of Pub. L. 90–364, see section 103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
 

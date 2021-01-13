@@ -1,6 +1,6 @@
 ### §580. Arbitration awards
 
-(a)(1) Unless the agency provides otherwise by rule, the award in an arbitration proceeding under this subchapter shall include a brief, informal discussion of the factual and legal basis for the award, but formal findings of fact or conclusions of law shall not be required.
+(a)(1) Unless the agency provides otherwise by rule, the award in an arbitration proceedingunder this subchapter shall include a brief, informal discussion of the factual and legal basis for the award, but formal findings of fact or conclusions of law shall not be required.
 
 (2) The prevailing parties shall file the award with all relevant agencies, along with proof of service on all parties.
 
@@ -10,7 +10,9 @@
 
 (d) An award entered under this subchapter in an arbitration proceeding may not serve as an estoppel in any other proceeding for any issue that was resolved in the proceeding. Such an award also may not be used as precedent or otherwise be considered in any factually unrelated proceeding, whether conducted under this subchapter, by an agency, or in a court, or in any other arbitration proceeding.
 
-(Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2743, §590; renumbered §580 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(3), Aug. 26, 1992, 106Stat. 944, 946; Pub. L. 104–320, §8(a), Oct. 19, 1996, 110 Stat. 3872.)
+(Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2743, §590; renumbered §580 and amended Pub. L. 102–354, §§3(b)(2), 5(b)(3), Aug. 26, 1992, 106 Stat. 944, 946; Pub. L. 104–320, §8(a), Oct. 19, 1996, 110 Stat. 3872.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

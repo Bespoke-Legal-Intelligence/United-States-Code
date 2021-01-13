@@ -18,6 +18,7 @@ Part B—General Administrative Provisions
 - [&sect; 03481 - Gifts and bequests](%C2%A7%2003481%20-%20Gifts%20and%20bequests.md)
 - [&sect; 03482 - Technical advice](%C2%A7%2003482%20-%20Technical%20advice.md)
 - [&sect; 03483 - Working capital fund](%C2%A7%2003483%20-%20Working%20capital%20fund.md)
+- [&sect; 03483a - Department of Education Nonrecurring Expenses Fund](%C2%A7%2003483a%20-%20Department%20of%20Education%20Nonrecurring%20Expenses%20Fund.md)
 - [&sect; 03484 - Funds transfer](%C2%A7%2003484%20-%20Funds%20transfer.md)
 - [&sect; 03485 - Seal of Department](%C2%A7%2003485%20-%20Seal%20of%20Department.md)
 - [&sect; 03486 - Annual report](%C2%A7%2003486%20-%20Annual%20report.md)

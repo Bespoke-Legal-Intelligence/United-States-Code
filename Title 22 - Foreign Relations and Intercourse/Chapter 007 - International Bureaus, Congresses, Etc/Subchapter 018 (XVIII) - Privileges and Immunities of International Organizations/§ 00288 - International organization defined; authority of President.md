@@ -4,9 +4,13 @@ For the purposes of this subchapter, the term "international organization" means
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this title", meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2010 Amendment
 
@@ -26,7 +30,7 @@ In General.—The President shall ensure that the Government of the United State
 
 "(b)
 
-Representation by the Secretary.—The Secretary of Agriculture shall represent the Governmentof the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals."
+Representation by the Secretary.—The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals."
 
 #### Administrative Supplies for International Organizations
 
@@ -39,6 +43,8 @@ The following organizations shall be considered public international organizatio
 &emsp;The Global Fund to Fight AIDS, Tuberculosis and Malaria. See section 7622 of this title.
 
 &emsp;The International Development Law Institute. See section 288j of this title.
+
+#### <b>Executive Documents</b>
 
 #### Public International Organizations Entitled To Enjoy Certain Privileges, Exemptions, and Immunities
 

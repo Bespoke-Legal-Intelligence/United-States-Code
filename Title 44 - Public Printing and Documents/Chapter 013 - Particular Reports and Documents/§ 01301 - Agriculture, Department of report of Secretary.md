@@ -14,9 +14,13 @@ In addition to the usual number, there shall be printed of part 1, one thousand 
 
 Based on 44 U.S. Code, 1964 ed., §241 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 612).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" in last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Unavailability of Department Funds To Produce Part 2 of Annual Report
 

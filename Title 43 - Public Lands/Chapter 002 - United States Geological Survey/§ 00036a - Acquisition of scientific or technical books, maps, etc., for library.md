@@ -4,9 +4,13 @@ The Director of the United States Geological Survey, under the general supervisi
 
 (May 14, 1940, ch. 190, 54 Stat. 212; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

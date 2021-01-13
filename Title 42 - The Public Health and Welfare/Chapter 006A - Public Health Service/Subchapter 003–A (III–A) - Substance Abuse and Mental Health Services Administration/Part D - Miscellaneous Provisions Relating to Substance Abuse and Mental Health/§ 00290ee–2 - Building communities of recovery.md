@@ -54,7 +54,7 @@ Grants awarded under subsection (b)—
 
 #### (e) Special consideration
 
-In carrying out this section, the Secretary shall give special consideration to the uniqueneeds of rural areas, including areas with an age-adjusted rate of drug overdose deaths that is above the national average and areas with a shortage of prevention and treatment services.
+In carrying out this section, the Secretary shall give special consideration to the unique needs of rural areas, including areas with an age-adjusted rate of drug overdose deaths that is above the national average and areas with a shortage of prevention and treatment services.
 
 #### (f) Authorization of appropriations
 

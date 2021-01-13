@@ -8,7 +8,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 &emsp;(2) end the dependence of needy parents on government benefits by promoting job preparation, work, and marriage;
 
-&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annual numerical goals for preventing and reducing the incidence of these pregnancies; and
+&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annualnumerical goals for preventing and reducing the incidence of these pregnancies; and
 
 &emsp;(4) encourage the formation and maintenance of two-parent families.
 
@@ -108,7 +108,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;"(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[42 U.S.C. 603(b)\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+&emsp;&emsp;&emsp;"(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[42 U.S.C. 603(b)\] (as amended by section103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
 
 &emsp;&emsp;&emsp;"(bb) the sum of the State family assistance grant, multiplied by 1/365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
@@ -171,6 +171,12 @@ Continuance in office of assistant secretary for family support.—The individua
 "(c)
 
 Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act \[42 U.S.C. 601 et seq., 681 et seq.\] (as in effect on September 30, 1995)."
+
+#### Extension of the Temporary Assistance for Needy Families Program and Related Programs
+
+Pub. L. 116–260, div. CC, title III, §301, Dec. 27, 2020, 134 Stat. 2992, provided that: "Activities authorized by part A of title IV \[42 U.S.C. 601 et seq.\] and section 1108(b) \[42 U.S.C. 1308(b)\] of the Social Security Act shall continue through September 30, 2021, in the manner authorized for fiscal year 2020, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority on a quarterly basis through the 4th quarter of fiscal year 2021 at the level provided for such activities for the corresponding quarter of fiscal year 2020."
+
+Pub. L. 116–136, div. A, title III, §3824, Mar. 27, 2020, 134 Stat. 433, provided that: "Activities authorized by part A of title IV \[42 U.S.C. 601 et seq.\] and section 1108(b) \[42 U.S.C. 1308(b)\] of the Social Security Act shall continue through November 30, 2020, in the manner authorized for fiscal year 2019, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose."
 
 #### Congressional Findings
 
@@ -260,7 +266,7 @@ Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that:
 
 &emsp;"(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as amended by section 103(a) of this Act) is intended to address the crisis."
 
-\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
+\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance programestablished under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
 
 #### Appropriation by State Legislatures
 

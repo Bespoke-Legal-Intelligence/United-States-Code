@@ -46,7 +46,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (1) In general
 
-&emsp;The Secretary shall provide storage payments to producers for storage of wheat orfeed grains under the program established in this section in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program.
+&emsp;The Secretary shall provide storage payments to producers for storage of wheat or feed grains under the program established in this section in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program.
 
 #### (2) Timing
 
@@ -116,7 +116,7 @@ The Secretary shall use the Commodity Credit Corporation, to the extent feasible
 
 #### (l) Use of commodity certificates
 
-Notwithstanding any other provision of law, if a producer has substituted purchased or othercommodities for the commodities originally pledged as collateral for a loan made under this section, the Secretary may allow a producer to repay the loan using a generic commodity certificate that may be exchanged for commodities owned by the Commodity Credit Corporation, if the substitute commodities have been pledged as loan collateral and redeemed only within the same county.
+Notwithstanding any other provision of law, if a producer has substituted purchased or other commodities for the commodities originally pledged as collateral for a loan made under this section, the Secretary may allow a producer to repay the loan using a generic commodity certificate that may be exchanged for commodities owned by the Commodity Credit Corporation, if the substitute commodities have been pledged as loan collateral and redeemed only within the same county.
 
 #### (m) Additional authority
 
@@ -134,7 +134,7 @@ In announcing the terms and conditions of the producer storage program under thi
 
 Notwithstanding any other provision of law, this section shall become effective December 1, 1990.
 
-(Oct. 31, 1949, ch. 792, title I, §110, as added Pub. L. 95–113, title XI, §1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, §2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat. 1455; Pub. L. 100–203, title I, §1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, §1123, title XX, §2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, §113(7), Dec. 13, 1991, 105 Stat. 1837.)
+(Oct. 31, 1949, ch. 792, title I, §110, as added Pub. L. 95–113, title XI, §1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, §2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat.1455; Pub. L. 100–203, title I, §1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, §1123, title XX, §2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, §113(7), Dec. 13, 1991, 105 Stat. 1837.)
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), insert
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
-Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of theloans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
+Subsec. (b). Pub. L. 97–98 substituted "Secretary shall provide" for "Secretary may provide", struck out "at the same level of support as provided by this Act" after "loans for wheat and feed grains", and substituted provisions that loans be made at such levels of support as Secretary determines appropriate, except that the loan rate not be less than the then current level of support under the wheat and feed grains programs established under this subchapter for provisions relating to the level of price support loans to be made available to producers for the 1980 and 1981 crops of wheat and feed grains necessary to mitigate the adverse effects of the restrictions on the export of agricultural products to the Union of Soviet Socialist Republics and providing that the level of price support loans for the 1980 and 1981 crops of wheat and feed grains not be used in determining the levels at which producers repay loans and redeem commodities prior to the maturity dates of the loans or levels at which Secretary may call for the repayment of loans prior to their maturity dates and "program may provide" for "program shall provide".
 
 Subsec. (b)(2). Pub. L. 97–98 substituted "for storage in such amounts and under such conditions as the Secretary determines appropriate to encourage producers to participate in the program" for "of such amounts as the Secretary determines appropriate to cover the cost of storing wheat and feed grains held under the program".
 
@@ -182,7 +182,7 @@ Subsec. (c). Pub. L. 97–98 substituted provision prescribing rate of interest 
 
 Subsec. (d). Pub. L. 97–98 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat stored as not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat storedas not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 97–98 redesignated former subsec. (e) as (f) and substituted in provision preceding par. (1) "the program authorized" for "the extended loan program authorized", "110 per centum" for "105 per centum", "Secretary may encourage repayment" for "Secretary may call for repayment", and "clause (5) of the third sentence of subsection (b) of this section. The foregoing restriction" for "clause (6) of the second sentence of subsection (b) of this section: <i>Provided</i>, That such restriction" and in provision following par. (3) "clause (5) of the third sentence" for "clause (5) of the second sentence". Former subsec. (f) redesignated (g).
 

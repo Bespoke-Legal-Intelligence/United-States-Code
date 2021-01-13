@@ -14,7 +14,7 @@ The Director shall—
 
 &emsp;Beginning in fiscal year 2001, the Director shall ensure that the survey conducted under subsection (a)(1) will—
 
-&emsp;&emsp;(A) identify determinants of health outcomes and functional status, including the health care needs of populations identified in section 299(c) of this title, provide data to study the relationships between health care quality, outcomes, access, use, and cost, measure changes over time, and monitor the overall national impact of Federal and State policy changes on health care;
+&emsp;&emsp;(A) identify determinants of health outcomes and functional status, including the health care needs of populations identified in section 299(c) of this title, provide data to study the relationships between health care quality, outcomes, access, use, and cost, measure changes over time, and monitor theoverall national impact of Federal and State policy changes on health care;
 
 &emsp;&emsp;(B) provide information on the quality of care and patient outcomes for frequently occurring clinical conditions for a nationally representative sample of the population including rural residents; and
 

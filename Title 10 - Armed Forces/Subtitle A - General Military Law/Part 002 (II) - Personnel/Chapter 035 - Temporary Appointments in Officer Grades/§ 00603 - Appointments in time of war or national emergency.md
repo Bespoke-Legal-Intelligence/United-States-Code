@@ -1,6 +1,6 @@
 ### §603. Appointments in time of war or national emergency
 
-(a) In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
+(a) In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, Marine Corps, or Space Force, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
 
 (b) Any appointment under this section is a temporary appointment and may be vacated by the President at any time.
 
@@ -12,7 +12,7 @@
 
 (e)(1) An officer who receives an appointment to a higher grade under this section is considered to have accepted such appointment on the date of the order announcing the appointment unless he expressly declines the appointment.
 
-(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not requiredto take a new oath upon appointment to a higher grade under this section.
+(2) An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon appointment to a higher grade under this section.
 
 (f) Unless sooner terminated, an appointment under this section terminates on the earliest of the following:
 
@@ -22,9 +22,11 @@
 
 &emsp;(3) The date the person appointed is released from active duty.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502; Pub. L. 116–283, div. A, title IX, §924(b)(3)(D), Jan. 1, 2021, 134 Stat. 3821.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>1991</b>—Pub. L. 102–190, §1113(d)(1)(A), substituted "Appointments in time of war or national emergency" for "Commissioned officer grades: time of war or national emergency" in section catchline.
 

@@ -4,9 +4,13 @@ The said commission may, at any time when the condition of the navigable rivers 
 
 (Mar. 1, 1893, ch. 183, §18, 27 Stat. 509; June 19, 1934, ch. 661, §1, 48 Stat. 1118.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1934</b>—Act June 19, 1934, inserted "or in case of failure to pay the tax prescribed by section 683 of this title within thirty days after same becomes due".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -30,7 +30,7 @@ Enforcement.—To enforce State laws described in subsection (a).
 
 (c)
 
-Maintenance of Effort.—A grant may not be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all othersources for any traffic safety program described in subsection (b) at or above the average level of such expenditures in the State's 2 fiscal years preceding the date of the enactment of this section.
+Maintenance of Effort.—A grant may not be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for any traffic safety program described in subsection (b) at or above the average level of such expenditures in the State's 2 fiscal years preceding the date of the enactment of this section.
 
 (d)
 
@@ -92,7 +92,7 @@ Federal share.—The Federal share of the cost of any project carried out under 
 
 &emsp;(4)
 
-Transfer of obligation authority.—If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall allocate an amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out only projects under section 402 which is determined by multiplying—
+Transfer of obligation authority.—If the Secretary transfers under this subsection any funds to the apportionment of a Stateunder section 402 for a fiscal year, the Secretary shall allocate an amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out only projects under section 402 which is determined by multiplying—
 
 &emsp;&emsp;(A) the amount of funds transferred to the apportionment of section 402 of the State under section 402 for such fiscal year; by
 
@@ -138,6 +138,8 @@ Provisions.—All provisions of this chapter that are applicable to National Hig
 
 (Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577; Pub. L. 112–141, div. A, title I, §1404(e), July 6, 2012, 126 Stat. 558; Pub. L. 114–94, div. A, title I, §1446(a)(7), Dec. 4, 2015, 129 Stat. 1437.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (c) and (i)(3), is the date of enactment of Pub. L. 102–240, which was approved Dec. 18, 1991.
@@ -162,6 +164,8 @@ Thereafter" in par. heading, inserted "and before October 1, 2011," after "Septe
 
 <b>1995</b>—Subsec. (h)(1), (2). Pub. L. 104–59 struck out "a law described in subsection (a)(1) and" after "have in effect".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -176,7 +180,7 @@ Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577, provided tha
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
 #### Stop Motorcycle Checkpoint Funding
 

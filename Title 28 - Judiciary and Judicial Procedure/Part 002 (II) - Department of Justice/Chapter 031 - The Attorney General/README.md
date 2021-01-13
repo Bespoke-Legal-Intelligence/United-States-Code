@@ -48,6 +48,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–122, §2(c), Dec. 22, 2009, 123 Stat. 3480, added item 509B.

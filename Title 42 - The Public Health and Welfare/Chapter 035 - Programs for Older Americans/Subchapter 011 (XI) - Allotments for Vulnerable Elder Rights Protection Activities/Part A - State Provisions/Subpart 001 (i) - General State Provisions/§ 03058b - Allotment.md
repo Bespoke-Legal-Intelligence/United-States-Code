@@ -4,7 +4,7 @@
 
 #### (1) Population
 
-&emsp;In carrying out the program described in section 3058 of this title, the Assistant Secretary shall initially allot to each State, from the funds appropriated under section 3058a of this title for each fiscal year, an amount that bears the same ratio to the funds as the population of older individuals in the State bears to the population of older individuals in all States.
+&emsp;In carrying out the program described in section 3058 of this title, the Assistant Secretary shall initially allot to each State, fromthe funds appropriated under section 3058a of this title for each fiscal year, an amount that bears the same ratio to the funds as the population of older individuals in the State bears to the population of older individuals in all States.
 
 #### (2) Minimum allotments
 

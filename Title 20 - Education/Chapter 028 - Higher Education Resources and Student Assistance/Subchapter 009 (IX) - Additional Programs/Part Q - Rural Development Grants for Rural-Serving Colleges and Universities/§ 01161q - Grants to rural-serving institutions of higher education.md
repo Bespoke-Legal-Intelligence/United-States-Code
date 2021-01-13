@@ -18,7 +18,7 @@ For the purposes of this section:
 
 #### (2) Rural area
 
-&emsp;The term "rural area" means an area that is defined, identified, or otherwise recognized as rural by a governmental agency of the State in which the area is located.
+&emsp;The term "rural area" means an area that is defined, identified, or otherwise recognized asrural by a governmental agency of the State in which the area is located.
 
 #### (3) Nontraditional student
 

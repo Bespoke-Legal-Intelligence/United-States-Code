@@ -46,7 +46,7 @@ The President is hereby authorized to accept membership for the United States in
 
 &emsp;&emsp;&nbsp;by assuring the conservation and protection of the world's inheritance of books, works of art and monuments of history and science, and recommending to the nations concerned the necessary international conventions;
 
-&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active inthe fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
+&emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
 &emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
 
@@ -148,7 +148,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

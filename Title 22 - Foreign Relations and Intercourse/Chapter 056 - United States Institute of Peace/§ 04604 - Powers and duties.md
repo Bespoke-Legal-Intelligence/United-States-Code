@@ -24,7 +24,7 @@ The Institute, acting through the Board, may—
 
 &emsp;(8) establish a clearinghouse and other means for disseminating information, including classified information that is properly safeguarded, from the field of peace learning to the public and to government personnel with appropriate security clearances;
 
-&emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedomof information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
+&emsp;(9) secure directly, upon request of the president of the Institute to the head of any Federal department or agency and in accordance with section 552 of title 5 (relating to freedom of information), information necessary to enable the Institute to carry out the purposes of this chapter if such release of the information would not unduly interfere with the proper functioning of a department or agency, including classified information if the Institute staff and members of the Board who have access to such classified information obtain appropriate security clearances from the Department of Defense and the Department of State; and
 
 &emsp;(10) establish the Spark M. Matsunaga Scholars Program, which shall include the provision of scholarships and educational programs in international peace and conflict management and related fields for outstanding secondary school students and the provision of scholarships to outstanding undergraduate students, with program participants and recipients of such scholarships to be known as "Spark M. Matsunaga Scholars".
 
@@ -74,7 +74,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 (1) Except as provided in paragraphs (2) and (3), the Institute may obtain grants and contracts, including contracts for classified research for the Department of State, the Department of Defense, the Arms Control and Disarmament Agency, and the intelligence community, and receive gifts and contributions from government at all levels.
 
-(2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality ofsuch government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
+(2) The Institute and the legal entity described in section 4603(c) of this title may not accept any gift, contribution or grant from a foreign government, any agency or instrumentality of such government, any international organization, or any corporation or other legal entity in which natural persons who are nationals of a foreign country own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.
 
 (3) Notwithstanding any other provision of this chapter, the Institute and the legal entity described in section 4603(c) of this title may not obtain any grant or contract or receive any gift or contribution from any private agency, organization, corporation or other legal entity, institution, or individual, except such Institute or legal entity may accept such a gift or contribution to—
 
@@ -112,9 +112,11 @@ The Institute may obtain administrative support services from the Administrator 
 
 (Pub. L. 98–525, title XVII, §1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, §25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, §6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, §319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, §1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, §931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, §921(a), Aug. 14, 2008, 122 Stat. 3456.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962,76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
 
@@ -146,9 +148,11 @@ Subsecs. (c) to (o). Pub. L. 101–520, §319(a)(2), (3), added subsec. (c) and 
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted "establish a Jeannette Rankin Research Program on Peace to" before "conduct research".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 

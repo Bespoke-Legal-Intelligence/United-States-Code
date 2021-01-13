@@ -21,6 +21,8 @@
 - [&sect; 01064 - Cancellation of registration](%C2%A7%2001064%20-%20Cancellation%20of%20registration.md)
 - [&sect; 01065 - Incontestability of right to use mark under certain conditions](%C2%A7%2001065%20-%20Incontestability%20of%20right%20to%20use%20mark%20under%20certain%20conditions.md)
 - [&sect; 01066 - Interference; declaration by Director](%C2%A7%2001066%20-%20Interference%3B%20declaration%20by%20Director.md)
+- [&sect; 01066a - Ex parte expungement](%C2%A7%2001066a%20-%20Ex%20parte%20expungement.md)
+- [&sect; 01066b - Ex parte reexamination](%C2%A7%2001066b%20-%20Ex%20parte%20reexamination.md)
 - [&sect; 01067 - Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board](%C2%A7%2001067%20-%20Interference%2C%20opposition%2C%20and%20proceedings%20for%20concurrent%20use%20registration%20or%20for%20cancellation%3B%20notice%3B%20Trademark%20Trial%20and%20Appeal%20Board.md)
 - [&sect; 01068 - Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation](%C2%A7%2001068%20-%20Action%20of%20Director%20in%20interference%2C%20opposition%2C%20and%20proceedings%20for%20concurrent%20use%20registration%20or%20for%20cancellation.md)
 - [&sect; 01069 - Application of equitable principles in inter partes proceedings](%C2%A7%2001069%20-%20Application%20of%20equitable%20principles%20in%20inter%20partes%20proceedings.md)

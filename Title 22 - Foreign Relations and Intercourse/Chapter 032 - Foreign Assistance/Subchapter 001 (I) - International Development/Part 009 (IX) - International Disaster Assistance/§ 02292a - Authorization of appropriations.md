@@ -2,11 +2,11 @@
 
 #### (a) Fiscal year authorization
 
-There are authorized to be appropriated to the President to carry out section 2292 of this title, $2,794,184,000 for each of fiscal years 2017 through 2023, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title. Amounts appropriated under this section are authorized to remain available until expended.
+There are authorized to be appropriated to the President to carry out section 2292 of this title, $2,794,184,000 for each of fiscal years 2017 through 2023, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title. Amounts appropriated under this sectionare authorized to remain available until expended.
 
 #### (b) Subsequent appropriations for reimbursement of additional fiscal year obligations charged against appropriation account
 
-In addition to amounts otherwise available to carry out this part, up to $50,000,000 in any fiscalyear may be obligated against appropriations under subchapter I of this chapter (other than this part) for use in providing assistance in accordance with the authorities and general policies of section 2292 of this title. Amounts subsequently appropriated under this part with respect to a disaster may be used to reimburse any appropriation account against which obligations were incurred under this subsection with respect to that disaster.
+In addition to amounts otherwise available to carry out this part, up to $50,000,000 in any fiscal year may be obligated against appropriations under subchapter I of this chapter (other than this part) for use in providing assistance in accordance with the authorities and general policies of section 2292 of this title. Amounts subsequently appropriated under this part with respect to a disaster may be used to reimburse any appropriation account against which obligations were incurred under this subsection with respect to that disaster.
 
 #### (c) Amounts in addition to other amounts
 
@@ -28,9 +28,7 @@ Not later than March 1 of each fiscal year, the President shall submit to the Co
 
 (Pub. L. 87–195, pt. I, §492, as added Pub. L. 94–161, title I, §101(3), Dec. 20, 1975, 89 Stat. 849; amended Pub. L. 95–88, title I, §119, Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title I, §118(b), Oct. 6, 1978, 92 Stat. 953; Pub. L. 96–53, title I, §115, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title IV, §§403, 404(a), Dec. 16, 1980, 94 Stat. 3150; Pub. L. 97–113, title V, §503, Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title IV, §404, Aug. 8, 1985, 99 Stat. 219; Pub. L. 114–195, §7(c)(2), July 20, 2016, 130 Stat. 681; Pub. L. 115–266, §2(b), Oct. 11, 2018, 132 Stat. 3755.)
 
-#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
-
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,6 +56,12 @@ Subsec. (b). Pub. L. 96–533, §404(a)(2), added subsec. (b).
 
 <b>1977</b>—Pub. L. 95–88 substituted "fiscal years 1977 and 1978" for "fiscal years 1976 and 1977".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
+
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
@@ -70,7 +74,9 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 

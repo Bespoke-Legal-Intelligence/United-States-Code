@@ -6,7 +6,7 @@ The Secretary is authorized to cause official inspection under the standards pro
 
 #### (b) Inspections made pursuant to request of interested persons
 
-The Secretary is further authorized, upon request of any interested person, and under such regulations as the Secretary may prescribe, to cause official inspection to be made with respect to any grain whether by official sample, submitted sample, or otherwise within the United States under standards provided for in section 76 of this title, or, upon request of the interested person, under other criteria approved by the Secretary for determining the kind, class, quality, or condition of grain, or other facts relating to grain, whenever in the judgment of the Secretary providing such service will effectuate any of the objectives stated in section 74 of this title.
+The Secretary is further authorized, upon request of any interested person, and under such regulations as the Secretary may prescribe, to cause official inspection to be made with respect to any grain whether by official sample, submitted sample, or otherwise within the United States under standards provided for in section 76 of this title, or, upon request of the interested person, under other criteria approved by the Secretary for determining the kind, class, quality, or condition of grain, or other facts relating to grain, whenever in the judgment of the Secretary providing such service will effectuate anyof the objectives stated in section 74 of this title.
 
 #### (c) Reinspections and appeals; cancellation of superseded certificates; sale of samples
 
@@ -54,7 +54,7 @@ State agency requirements.—
 
 &emsp;&emsp;(i)
 
-In general.—If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
+In general.—If a State agency that has been delegated authority under this paragraph intends to temporarily discontinue official inspection or weighing services for any reason, except in the case of a major disaster, the State agency shall notify the Secretary and affected customers or applicants for service of official inspection or weighing services provided by the State agency in writing of the intention of the State agency to do so at least 72 hours in advance of the discontinuation date.
 
 &emsp;&emsp;(ii)
 
@@ -66,7 +66,7 @@ Secretarial consideration.—The Secretary shall consider receipt of a notice de
 
 #### (f) Official inspections at other than export port locations; designation of agencies or persons to conduct official inspections
 
-(1) With respect to official inspections other than at export port locations, the Secretary is authorized, upon application by any State or local governmental agency, or any person, to designate such agency or person as an official agency for the conduct of all or specified functions involved in official inspection (other than appeal inspection) at locations where the Secretary determines official inspection is needed, if—
+(1) With respect to official inspections other than at export port locations, the Secretary isauthorized, upon application by any State or local governmental agency, or any person, to designate such agency or person as an official agency for the conduct of all or specified functions involved in official inspection (other than appeal inspection) at locations where the Secretary determines official inspection is needed, if—
 
 &emsp;(A) the agency or person shows to the satisfaction of the Secretary that such agency or person—
 
@@ -144,7 +144,7 @@ Restoration of exceptions.—Within 90 days of notification from an eligible gra
 
 &emsp;&emsp;&emsp;(II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018.
 
-(3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
+(3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain isphysically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
 (4) No State or local governmental agency or person shall provide any official inspection for the purposes of this chapter except pursuant to an unsuspended and unrevoked delegation of authority or designation by the Secretary, as provided in this section, or as provided in section 84(a) of this title.
 
@@ -196,9 +196,9 @@ Use of fees.—Fees described in this paragraph, and the proceeds from the sale 
 
 &emsp;(D)
 
-Export tonnage fees.—For an official inspection at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
+Export tonnage fees.—For an official inspection at an export facility performed bythe Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
 
-(2) Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of officialagency personnel and supervision by the Secretary of the Secretary's field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
+(2) Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary's field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
 
 (3) Any sums collected or received by the Secretary under this chapter and deposited to the fund created in paragraph (1) of this subsection and any late payment penalties collected by the Secretary and credited to such fund may be invested by the Secretary in insured or fully collateralized, interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. The interest earned on such sums and any late payment penalties collected by the Secretary shall be credited to the fund and shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
@@ -206,9 +206,9 @@ Export tonnage fees.—For an official inspection at an export facility performe
 
 Adjustment of fees.—In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-(5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
+(5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, §12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013.)
+(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, §12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013; Pub. L. 116–216, §2, Dec. 11, 2020, 134 Stat. 1048.)
 
 #### Codification
 
@@ -217,6 +217,10 @@ Section as originally enacted was composed of part of section 7 of part B of act
 In subsec. (c), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (e)(2)(C)(i). Pub. L. 116–216, §2(1), inserted "and affected customers or applicants for service of official inspection or weighing services provided by the State agency" after "notify the Secretary".
+
+Subsec. (j)(5). Pub. L. 116–216, §2(2), substituted "2025" for "2020".
 
 <b>2018</b>—Subsec. (f)(1)(C). Pub. L. 115–334, §12610(c), realigned margins.
 

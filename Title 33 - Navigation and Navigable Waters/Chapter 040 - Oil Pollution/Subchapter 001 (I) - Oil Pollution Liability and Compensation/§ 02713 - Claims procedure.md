@@ -40,37 +40,9 @@ If a claim is presented in accordance with this section, including a claim for i
 
 The President shall promulgate, and may from time to time amend, regulations for the presentation, filing, processing, settlement, and adjudication of claims under this Act against the Fund.
 
-#### (f) Loan program
+(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(b), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, §708(a), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8303(a), Jan. 1, 2021, 134 Stat. 4692.)
 
-#### (1) In general
-
-&emsp;The President shall establish a loan program under the Fund to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
-
-#### (2) Eligibility for loan
-
-&emsp;A loan may be made under paragraph (1) only to a fisherman or aquaculture producer that—
-
-&emsp;&emsp;(A) has incurred damages for which claims are authorized under section 2702 of this title;
-
-&emsp;&emsp;(B) has made a claim pursuant to this section that is pending; and
-
-&emsp;&emsp;(C) has not received an interim payment under section 2705(a) of this title for the amount of the claim, or part thereof, that is pending.
-
-#### (3) Terms and conditions of loans
-
-&emsp;A loan awarded under paragraph (1)—
-
-&emsp;&emsp;(A) shall have flexible terms, as determined by the President;
-
-&emsp;&emsp;(B) shall be for a period ending on the later of—
-
-&emsp;&emsp;&emsp;(i) the date that is 5 years after the date on which the loan is made; or
-
-&emsp;&emsp;&emsp;(ii) the date on which the fisherman or aquaculture producer receives payment for the claim to which the loan relates under the procedure established by subsections (a) through (e) of this section; and
-
-&emsp;&emsp;(C) shall be at a low interest rate, as determined by the President.
-
-(Pub. L. 101–380, title I, §1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, §1142(b), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, §708(a), Aug. 9, 2004, 118 Stat. 1077.)
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -78,9 +50,13 @@ This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 #### Amendments
 
+<b>2021</b>—Subsec. (f). Pub. L. 116–283 struck out subsec. (f) which related to loan program to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
+
 <b>2004</b>—Subsec. (f). Pub. L. 108–293 added subsec.(f).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–324 substituted "section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled," for "section".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

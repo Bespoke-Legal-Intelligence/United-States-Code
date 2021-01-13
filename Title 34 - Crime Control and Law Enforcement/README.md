@@ -60,6 +60,7 @@
 | [<b>501.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20501%20-%20Emergency%20Federal%20Law%20Enforcement%20Assistance/README.md) | <b>Emergency Federal Law Enforcement Assistance</b> | <b>50101</b> |
 | [<b>503.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20503%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery</b> | <b>50301</b> |
 | [<b>505.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20505%20-%20National%20Blue%20Alert/README.md) | <b>National Blue Alert</b> | <b>50501</b> |
+| [<b>507.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20507%20-%20Law%20Enforcement%20Suicide%20Data%20Collection/README.md) | <b>Law Enforcement Suicide Data Collection</b> | <b>50701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,6 +74,8 @@
 | [<b>607.</b>](Subtitle%20006%20%28VI%29%20-%20Other%20Crime%20Control%20and%20Law%20Enforcement%20Matters/Chapter%20607%20-%20Project%20Safe%20Neighborhoods%20Block%20Grant%20Program/README.md) | <b>Project Safe Neighborhoods Block Grant Program</b> | <b>60701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

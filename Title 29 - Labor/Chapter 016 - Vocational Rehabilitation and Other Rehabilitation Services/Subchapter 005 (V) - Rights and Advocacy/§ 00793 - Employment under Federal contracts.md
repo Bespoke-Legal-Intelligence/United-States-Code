@@ -2,7 +2,7 @@
 
 #### (a) Amount of contracts or subcontracts; provision for employment and advancement of qualified individuals with disabilities; regulations
 
-Any contract in excess of $10,000 entered into by any Federal department or agency for the procurement of personal property and nonpersonal services (including construction) for the United States shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified individuals with disabilities. The provisions of this section shall apply to any subcontract in excess of $10,000 entered into by a prime contractor in carrying out any contract for the procurement of personal property and nonpersonal services (including construction) for the United States. The President shall implement the provisions of this section by promulgating regulations within ninety days after September 26, 1973.
+Any contract in excess of $10,000 entered into by any Federal department or agency for theprocurement of personal property and nonpersonal services (including construction) for the United States shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified individuals with disabilities. The provisions of this section shall apply to any subcontract in excess of $10,000 entered into by a prime contractor in carrying out any contract for the procurement of personal property and nonpersonal services (including construction) for the United States. The President shall implement the provisions of this section by promulgating regulations within ninety days after September 26, 1973.
 
 #### (b) Administrative enforcement; complaints; investigations; departmental action
 
@@ -25,6 +25,8 @@ The standards used to determine whether this section has been violated in a comp
 The Secretary shall develop procedures to ensure that administrative complaints filed under this section and under the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\] are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this section and the Americans with Disabilities Act of 1990.
 
 (Pub. L. 93–112, title V, §503, Sept. 26, 1973, 87 Stat. 393; Pub. L. 95–602, title I, §122(d)(1), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 99–506, title I, §103(d)(2)(B), (C), title X, §§1001(f)(2), (3), 1002(e)(3), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(c), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(31), title V, §505, Oct. 29, 1992, 106 Stat. 4360, 4427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

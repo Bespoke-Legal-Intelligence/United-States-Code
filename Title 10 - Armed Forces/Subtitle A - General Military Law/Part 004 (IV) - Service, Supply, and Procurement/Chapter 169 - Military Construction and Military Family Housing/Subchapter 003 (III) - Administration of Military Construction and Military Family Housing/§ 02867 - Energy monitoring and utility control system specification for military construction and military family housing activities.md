@@ -34,7 +34,7 @@ A prior section 2867 was renumbered section 2916 of this title.
 
 #### Suspension of Resident Energy Conservation Program and Related Programs for Privatized Military Housing
 
-Pub. L. 116–92, div. B, title XXX, §3063, Dec. 20, 2019, 133 Stat. 1947, provided that:
+Pub. L. 116–92, div. B, title XXX, §3063, Dec. 20, 2019, 133 Stat. 1947, as amended by Pub. L. 116–283, div. B,title XXVIII, §2811(j), Jan. 1, 2021, 134 Stat. 4326, provided that:
 
 "(a)
 
@@ -42,7 +42,7 @@ Suspension Required.—The Secretary of Defense shall suspend the initiative of 
 
 "(b)
 
-Term of Suspension.—Subject to subsection (c), the suspension required by subsection (a) shall remain in effect for an installation of the Department of Defense until the Secretary of Defense certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that 100 percent of the privatized military housing on the installation is individually metered to each respective unit of privatized military housing on the installation military housing unit and the meter accurately measures the energy usage of the unit.
+Term of Suspension.—Subject to subsection (c), the suspension required by subsection (a) shall remain in effect for an installation of the Department of Defense until the Secretary of Defense certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that 100 percent of the privatized military housing covered by a program suspended under subsection (a) on the installation is individually metered to each respective unit of privatized military housing and the meter accurately measures the energy usage of the unit.
 
 "(c)
 

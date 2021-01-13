@@ -50,7 +50,7 @@
 
 (4) Amounts necessary to adjust for deficiencies in the account of a disbursing official because of transactions under subsection (a) of this section are authorized to be appropriated.
 
-(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authorityto issue regulations applying to a disbursing official that is an officer or employee of the agency.
+(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.
 
 (e) Regulations prescribed under subsection (d) shall include regulations that define the terms "dependent" and "sponsor" for the purposes of this section. In the regulations, the term "dependent", with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
 
@@ -98,11 +98,13 @@ In subsection (a), the words "negotiable instruments" are substituted for "check
 
 Subsection (b), before clause (1), is added because of the restatement. In clause (2), the words "the accommodation of" are omitted as surplus. The word "personnel" is substituted for "members of the Armed Forces and civilian personnel" to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. In clause (3), the words "of the Armed Forces of the United States . . . institutions operated by the Veterans' Administration and other" are omitted as surplus.
 
-In subsection (c)(2), the words "For the purposes of this section" are omitted because of the restatement. The words "in the accounts of such disbursing officers" are omitted as unnecessary. The words "resulting from a transaction under subsection (a) of this section" are added for clarity. The words "not used to offset deficiencies from transactions under subsection (a)" are substituted for "resulting from operations permitted by sections 492a to 492c of this title" for clarity and consistency.
+In subsection (c)(2), the words "For the purposes of this section" are omitted because of the restatement.The words "in the accounts of such disbursing officers" are omitted as unnecessary. The words "resulting from a transaction under subsection (a) of this section" are added for clarity. The words "not used to offset deficiencies from transactions under subsection (a)" are substituted for "resulting from operations permitted by sections 492a to 492c of this title" for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:492b(2d sentence) to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 In subsection (d), the words "rules and . . . governing the disbursing officers under their respective jurisdictions, as may be deemed necessary or proper . . . the purposes of" are omitted as surplus. The words "under conditions the Secretary decides are necessary" are substituted for "subject to such terms and conditions as he may prescribe" for clarity and consistency. The words "and exercise the function of disbursement pursuant to a delegation by the Secretary of the Treasury" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

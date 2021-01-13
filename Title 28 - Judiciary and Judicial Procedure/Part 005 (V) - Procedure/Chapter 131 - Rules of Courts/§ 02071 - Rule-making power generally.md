@@ -32,7 +32,7 @@ Provisions of sections 263 and 296 of title 28, U.S.C., 1940 ed., authorizing th
 
 Provisions of section 1111 of title 26, U.S.C., 1940 ed., making applicable to Tax Court Proceedings "the rules of evidence applicable in the courts of the District of Columbia in the type of proceeding which, prior to Sept. 16, 1938, were within the jurisdiction of the courts of equity of said District," were omitted as unnecessary and inconsistent with other provisions of law relating to the Federal courts. The rules of evidence in Tax Court proceedings are the same as those which apply to civil procedure in other courts. See <i>Dempster Mill. Mfg. Co. v. Burnet</i>, 1931, 46 F.2d 604, 60 App.D.C. 23.
 
-For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing theSupreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
+For rule-making power of the Supreme Court in copyright infringement actions, see section 25(e) of title 17, U.S.C., 1940 ed., Copyrights. See, also, section 205(a) of title 11, U.S.C., 1940 ed., Bankruptcy, authorizing the Supreme Court to promulgate rules relating to service of process in railroad reorganization proceedings.
 
 #### Senate Revision Amendment
 
@@ -42,15 +42,19 @@ By Senate amendment, all provisions relating to the Tax Court were eliminated. T
 
 This amendment clarifies section 2071 of title 28, U.S.C., by giving express recognition to the power of the Supreme Court to prescribe its own rules and by giving a better description of its procedural rules.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–702 designated existing provisions as subsec. (a), substituted "under section 2072 of this title" for "by the Supreme Court", and added subsecs. (b) to (f).
 
 <b>1949</b>—Act May 24, 1949, expressed recognition to the Supreme Court's power to prescribe its own rules and give a better description of its procedural rules.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title IV, §407, Nov. 19, 1988, 102 Stat. 4652, provided that: "This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771 and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988."
+Pub. L. 100–702, title IV, §407, Nov. 19, 1988, 102 Stat. 4652, provided that: "This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988."
 
 #### Effective Date of 1983 Amendment
 
@@ -71,6 +75,8 @@ Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: "Nothing in th
 #### Tax Court Rulemaking Not Affected
 
 Pub. L. 100–702, title IV, §405, Nov. 19, 1988, 102 Stat. 4652, provided that: "The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\]."
+
+#### <b>Court Rules</b>
 
 #### Admiralty Rules
 

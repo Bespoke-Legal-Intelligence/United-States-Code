@@ -28,13 +28,15 @@ Content of Programs.—The education and training programs developed under the p
 
 (d)
 
-Potential Trainees.—In designing the education and training programs under this section, the Secretary shall ensure that different programs are designed for health-care professionals in Department medical centers. The programs shall be designed to be disseminated to health professions students, graduate health and medical education trainees, and health practitioners in a variety of fields.
+Potential Trainees.—In designing the education and training programs under this section, the Secretary shall ensure that different programs are designed for health-care professionals in Department medical centers. The programs shall be designed to be disseminated to health professions students, graduate health andmedical education trainees, and health practitioners in a variety of fields.
 
 (e)
 
 Consultation.—In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
 (Added Pub. L. 107–287, §3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

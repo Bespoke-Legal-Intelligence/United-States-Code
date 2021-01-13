@@ -4,7 +4,7 @@
 
 #### (1) Establishment of program
 
-&emsp;To foster individual economic self-sufficiency and promote useful opportunities incommunity service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the "Secretary") may establish an older American community service employment program.
+&emsp;To foster individual economic self-sufficiency and promote useful opportunities in community service activities (which shall include community service employment) for unemployed low-income persons who are age 55 or older, particularly persons who have poor employment prospects, and to increase the number of persons who may enjoy the benefits of unsubsidized employment in both the public and private sectors, the Secretary of Labor (referred to in this subchapter as the "Secretary") may establish an older American community service employment program.
 
 #### (2) Use of appropriated amounts
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) 27 months; or
 
-&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
+&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specificproject area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
 
 &emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -238,7 +238,7 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 &emsp;Such projects may include—
 
-&emsp;&emsp;(A) activities linking businesses and eligible individuals, including activities providing assistance to participants transitioningfrom subsidized activities to private sector employment;
+&emsp;&emsp;(A) activities linking businesses and eligible individuals, including activities providing assistance to participants transitioning from subsidized activities to private sector employment;
 
 &emsp;&emsp;(B) demonstration projects and pilot projects designed to—
 
@@ -296,7 +296,7 @@ Subsec. (e)(3). Pub. L. 114–144, §6(a)(3), inserted ", with the State workfo
 
 <b>2014</b>—Subsec. (b)(1)(H). Pub. L. 113–128, §512(w)(3)(A)(i)(I), substituted "will coordinate activities with training and other services provided under title I of the Workforce Innovation and Opportunity Act, including utilizing the one-stop delivery system of the local workforce development areas involved" for "will coordinate activities with training and other services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including utilizing the one-stop delivery system of the local workforce investment areas involved".
 
-Subsec. (b)(1)(O). Pub. L. 113–128, §512(w)(3)(A)(i)(II), substituted "through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act, and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section121(c) of such Act" for "through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c))".
+Subsec. (b)(1)(O). Pub. L. 113–128, §512(w)(3)(A)(i)(II), substituted "through the one-stop delivery system of the local workforce development areas involved as established under section 121(e) of the Workforce Innovation and Opportunity Act, and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce development board in accordance with section 121(c) of such Act" for "through the one-stop delivery system of the local workforce investment areas involved as established under section 134(c) of the Workforce Investment Act of 1998 (29 U.S.C. 2864(c)), and will be involved in the planning and operations of such system pursuant to a memorandum of understanding with the local workforce investment board in accordance with section 121(c) of such Act (29 U.S.C. 2841(c))".
 
 Subsec. (b)(1)(Q)(i). Pub. L. 113–128, §512(w)(3)(A)(i)(III)(aa), substituted "clauses (ii) and (viii) of paragraph (2)(B), relating to coordination with other Federal programs, of section 102(b) of the Workforce Innovation and Opportunity Act" for "paragraph (8), relating to coordination with other Federal programs, of section 112(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2822(b))".
 
@@ -335,4 +335,14 @@ Expected levels of performance.—Prior to July 1, 2007, the Secretary of Labor 
 #### Short Title
 
 For short title of this subchapter as the "Community Service Senior Opportunities Act", see section 501 of Pub. L. 89–73, set out as a note under section 3001 of this title.
+
+#### Continuity of Service and Opportunities for Participants in Community Service Activities Under Title V of the Older Americans Act of 1965
+
+Pub. L. 116–136, div. A, title III, §3223, Mar. 27, 2020, 134 Stat. 380, provided that: "To ensure continuity of service and opportunities for participants in community service activities under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), the Secretary of Labor—
+
+&emsp;"(1)(A) may allow individuals participating in projects under such title as of March 1, 2020, to extend their participation for a period that exceeds the period described in section 518(a)(3)(B)(i) of such Act (42 U.S.C. 3056p(a)(3)(B)(i)) if the Secretary determines such extension is appropriate due to the effects of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d); and
+
+&emsp;"(B) may increase the average participation cap for eligible individuals applicable to grantees as described in section 502(b)(1)(C) of the Older Americans Act of 1965 (42 U.S.C. 3056(b)(1)(C)) to a cap the Secretary determines is appropriate due to the effects of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d); and
+
+&emsp;"(2) may increase the amount available to pay the authorized administrative costs for a project, described in section 502(c)(3) of the Older Americans Act of 1965 (42 U.S.C. 3056(c)(3)) to an amount not to exceed 20 percent of the grant amount if the Secretary determines that such increase is necessary to adequately respond to the additional administrative needs to respond to the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d)."
 

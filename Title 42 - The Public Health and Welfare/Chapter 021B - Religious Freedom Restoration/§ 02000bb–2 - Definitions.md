@@ -22,5 +22,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 Par. (2). Pub. L. 106–274, §7(a)(2), substituted "term 'covered entity' means" for "term 'State' includes".
 
-Par. (4). Pub. L. 106–274, §7(a)(3), substituted "religious exercise, as defined in section 2000cc–5 of this title" for "the exercise of religion under the First Amendment to the Constitution".
+Par. (4). Pub. L. 106–274, §7(a)(3), substituted "religious exercise, as defined in section 2000cc–5 of thistitle" for "the exercise of religion under the First Amendment to the Constitution".
 

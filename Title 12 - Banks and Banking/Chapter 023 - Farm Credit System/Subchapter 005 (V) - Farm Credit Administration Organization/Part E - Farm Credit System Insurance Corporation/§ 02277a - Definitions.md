@@ -26,7 +26,9 @@ As used in this part:
 
 &emsp;The term "State" means any of the 50 States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands.
 
-(Pub. L. 92–181, title V, §5.51, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611; amended Pub. L. 100–399, title III, §302(a), (b), Aug. 17, 1988, 102 Stat. 994; Pub. L. 104–105, title II, §214(a), Feb. 10, 1996, 110 Stat. 175.)
+(Pub. L. 92–181, title V, §5.51, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1611;amended Pub. L. 100–399, title III, §302(a), (b), Aug. 17, 1988, 102 Stat. 994; Pub. L. 104–105, title II, §214(a), Feb. 10, 1996, 110 Stat. 175.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ As used in this part:
 "(B) after such date, on behalf of any insured System bank."
 
 Par. (5). Pub. L. 100–399, §302(b), substituted "for" for "to liquidate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -4,6 +4,8 @@ In order to insure appropriate representation at meetings of international fishe
 
 (Pub. L. 92–471, title II, §201, Oct. 9, 1972, 86 Stat. 787; Pub. L. 99–659, title IV, §405(c), Nov. 14, 1986, 100 Stat. 3738.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–659 struck out "the Great Lakes Fishery Commission," after "the International Pacific Halibut Commission,".

@@ -80,7 +80,7 @@ Confidentiality.—A grant may be made under paragraph (1) only if the qualifyin
 
 &emsp;"(4)
 
-Evaluations.—The Secretary shall provide for an evaluation of each demonstration project underparagraph (1) in order to determine the extent to which the project has been effective in carry \[sic\] out the activities described in such paragraph.
+Evaluations.—The Secretary shall provide for an evaluation of each demonstration project under paragraph (1) in order to determine the extent to which the project has been effective in carry \[sic\] out the activities described in such paragraph.
 
 &emsp;"(5)
 

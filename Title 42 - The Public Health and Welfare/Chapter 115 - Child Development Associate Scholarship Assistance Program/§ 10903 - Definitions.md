@@ -4,7 +4,7 @@ For purposes of this chapter—
 
 &emsp;(1) the term "eligible individual" means a candidate for the Child Development Associate credential whose income does not exceed the <sup>1</sup> 130 percent of the lower living standard income level,<sup>2</sup> by more than 50 percent;
 
-&emsp;(2) the term "lower living standard income level" means that income level (adjusted for regional, metropolitan, urban, and rural differences and family size) determined annually by the Secretary of Labor and based on the most recent lower living family budget issued by the Secretary of Labor;
+&emsp;(2) the term "lower living standard income level" means that income level (adjusted for regional, metropolitan, urban, and rural differences and family size) determined annuallyby the Secretary of Labor and based on the most recent lower living family budget issued by the Secretary of Labor;
 
 &emsp;(3) the term "Secretary" means the Secretary of Health and Human Services; and
 

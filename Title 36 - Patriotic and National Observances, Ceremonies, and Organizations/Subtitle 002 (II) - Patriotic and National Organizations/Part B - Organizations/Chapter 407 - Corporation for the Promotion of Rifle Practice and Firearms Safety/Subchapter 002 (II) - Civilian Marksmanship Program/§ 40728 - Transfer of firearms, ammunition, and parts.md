@@ -126,6 +126,8 @@ In subsection (d), the words "(as that program existed under section 4308(e) of 
 
 In subsection (e), the words "transfer . . . to" are substituted for "make available to" for consistency in the revised section and in consideration of the words "transfer of . . . parts to" in 36:5505(e).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 4307 and 4308 of title 10, referred to in subsecs. (a) and (d), were repealed by Pub. L. 104–106, div. A, title XVI, §1624(a)(1), Feb. 10, 1996, 110 Stat. 522.
@@ -139,6 +141,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 <b>2017</b>—Subsec. (i). Pub. L. 115–91 added subsec. (i).
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–92 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfers of Surplus Firearms to Corporation for the Promotion of Rifle Practice and Firearms Safety: Pilot Program and Limitation
 

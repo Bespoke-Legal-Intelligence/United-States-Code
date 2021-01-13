@@ -38,29 +38,91 @@ Reimbursement for License Fees.—In any case in which it is necessary for a mem
 
 #### Pilot Program on Civilian and Military Partnerships To Enhance Interoperability and Medical Surge Capability and Capacity of National Disaster Medical System
 
-Pub. L. 116–92, div. A, title VII, §740, Dec. 20, 2019, 133 Stat. 1465, provided that:
+Pub. L. 116–92, div. A, title VII, §740, Dec. 20, 2019, 133 Stat. 1465, as amended by Pub. L. 116–283, div. A, title VII, §741, Jan. 1, 2021, 134 Stat. 3705, provided that:
 
 "(a)
 
-In General.—The Secretary of Defense may carry out a pilot program to establish partnerships with public, private, and nonprofit health care organizations, institutions, and entities in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation to enhance the interoperability and medical surge capability and capacity of the National Disaster Medical System under section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11) in the vicinity of major aeromedical and other transport hubs and logistics centers of the Department of Defense.
+In General.—Beginning not later than September 30, 2021, the Secretary of Defense shall carry out a pilot program to establish partnerships with public, private, and nonprofit health care organizations, health care institutions, health care entities, academic medical centers of institutions of higher education, and hospitals in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation to enhance the interoperability and medical surge capability and capacity of the National Disaster Medical System under section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11).
 
 "(b)
 
-Duration.—The Secretary of Defense may carry out the pilot program under subsection (a) for a period of not more than five years.
+Duration.—The Secretary of Defense shall carry out the pilot program under subsection (a) for a period of not more than five years.
 
 "(c)
 
-Locations.—The Secretary shall carry out the pilot program under subsection (a) at not fewer than five aeromedical or other transport hub regions or logistics centers in the United States.
+Lead Official for Design and Implementation of Pilot Program.—
+
+&emsp;"(1)
+
+In general.—The Assistant Secretary of Defense for Health Affairs shall be the lead official for the design and implementation of the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Resources.—The Assistant Secretary of Defense for Health Affairs shall leverage the resources of the Defense Health Agency for execution of thepilot program under subsection (a) and shall coordinate with the Chairman of the Joint Chiefs of Staff for the duration of the pilot program, including for the duration of any period of design or planning for the pilot program.
 
 "(d)
 
-Requirements.—In establishing partnerships under the pilot program under subsection (a), the Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation, shall establish requirements under such partnerships for staffing, specialized training, medical logistics, telemedicine, patient regulating, movement, situational status reporting, tracking, and surveillance.
+Locations.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall carry out the pilot program under subsection (a) at not fewer than five locations in the United States that are located at or near an organization, institution, entity, center, or hospital specified in subsection (a) with established expertise in disaster health preparedness and response and trauma care that augment and enhance the effectiveness of the pilot program.
+
+&emsp;"(2)
+
+Phased selection of locations.—
+
+&emsp;&emsp;"(A)
+
+Initial selection.—Not later than March 31, 2021, the Assistant Secretary of Defense for Health Affairs, in consultation with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation, shall select not fewer than two locations at which to carry out the pilot program.
+
+&emsp;&emsp;"(B)
+
+Subsequent selection.—Not later than the end of the one-year period following selection of the locations under subparagraph (A), the Assistant Secretary of Defense for Health Affairs, in consultation with the Secretaries specified in subparagraph (A), shall select not fewer than two additional locations at which to carry out the pilot program until not fewer than five locations are selected in total under this paragraph.
+
+&emsp;"(3)
+
+Consideration for locations.—In selecting locations for the pilot program under subsection (a), the Secretary shall consider—
+
+&emsp;&emsp;"(A) the proximity of the location to civilian or military transportation hubs, including airports, railways, interstate highways, or ports;
+
+&emsp;&emsp;"(B) the proximity of the location to an organization, institution, entity, center, or hospital specified in subsection (a) with the ability to accept a redistribution of casualties during times of war;
+
+&emsp;&emsp;"(C) the proximity of the location to an organization, institution, entity, center, or hospital specified in subsection (a) with the ability to provide trauma care training opportunities for medical personnel of the Department of Defense; and
+
+&emsp;&emsp;"(D) the proximity of the location to existing academic medical centers of institutions of higher education, facilities of the Department, or other institutions that have established expertise in the areas of—
+
+&emsp;&emsp;&emsp;"(i) highly infectious disease;
+
+&emsp;&emsp;&emsp;"(ii) biocontainment;
+
+&emsp;&emsp;&emsp;"(iii) quarantine;
+
+&emsp;&emsp;&emsp;"(iv) trauma care;
+
+&emsp;&emsp;&emsp;"(v) combat casualty care;
+
+&emsp;&emsp;&emsp;"(vi) the National Disaster Medical System under section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11);
+
+&emsp;&emsp;&emsp;"(vii) disaster health preparedness and response;
+
+&emsp;&emsp;&emsp;"(viii) medical and public health management of biological, chemical, radiological, or nuclear hazards; or
+
+&emsp;&emsp;&emsp;"(ix) such other areas of expertise as the Secretary considers appropriate.
+
+&emsp;"(4)
+
+Priority for locations.—In selecting locations for the pilot program under subsection (a), the Secretary shall give priority to locations that would facilitate public-private partnerships with academic medical centers of institutions of higher education, hospitals, and other entities with facilities that have an established history of providing clinical care, treatment, training, and research in the areas described in paragraph (3)(D) or other specializations determined important by the Secretary for purposes of the pilot program.
 
 "(e)
 
-Evaluation Metrics.—The Secretary of Defense shall establish metrics to evaluate the effectiveness of the pilot program under subsection (a).
+Requirements.—In establishing partnerships under the pilot program under subsection (a), the Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Transportation, shall establish requirements under such partnerships for staffing, specialized training, medical logistics, telemedicine, patient regulating, movement, situational status reporting, tracking, and surveillance.
 
 "(f)
+
+Evaluation Metrics.—The Secretary of Defense shall establish metrics to evaluate the effectiveness of the pilot program under subsection (a).
+
+"(g)
 
 Reports.—
 
@@ -70,39 +132,35 @@ Initial report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 180 days after the commencement of the pilot program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+In general.—Not later than 180 days after the commencement of the pilot program under subsection (a), the Secretary shall submit to the appropriate congressional committees a report on the pilot program.
 
 &emsp;&emsp;"(B)
 
-Elements.—The report required by subparagraph (A) shall include the following:
+Elements.—The report under subparagraph (A) shall include the following:
 
 &emsp;&emsp;&emsp;"(i) A description of the pilot program.
 
-&emsp;&emsp;&emsp;"(ii) The requirements established under subsection (d).
+&emsp;&emsp;&emsp;"(ii) The requirements established under subsection (e).
 
-&emsp;&emsp;&emsp;"(iii) The evaluation metrics established under subsection (e).
+&emsp;&emsp;&emsp;"(iii) The evaluation metrics established under subsection (f).
 
 &emsp;&emsp;&emsp;"(iv) Such other matters relating to the pilot program as the Secretary considers appropriate.
 
 &emsp;"(2)
 
-Final report.—
+Final report.—Not later than 180 days after the completion of the pilot program under subsection (a), the Secretary shall submit to the appropriate congressional committees a report on the pilot program.
 
-&emsp;&emsp;"(A)
+"(h)
 
-In general.—Not later than 180 days after completion of the pilot program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program.
+Definitions.—In this section:
 
-&emsp;&emsp;"(B)
+&emsp;"(1) The term 'appropriate congressional committees' means—
 
-Elements.—The report required by subparagraph (A) shall include the following:
+&emsp;&emsp;"(A) The Committee on Armed Services, the Committee on Transportation and Infrastructure, the Committee on Veterans' Affairs, the Committee on Homeland Security, and the Committee on Energy and Commerce of the House of Representatives.
 
-&emsp;&emsp;&emsp;"(i) A description of the pilot program, including the partnerships established under the pilot program as described in subsection (a).
+&emsp;&emsp;"(B) The Committee on Armed Services, the Committee on Commerce, Science, and Transportation, the Committee on Veterans' Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-&emsp;&emsp;&emsp;"(ii) An assessment of the effectiveness of the pilot program.
-
-&emsp;&emsp;&emsp;"(iii) An assessment of the cost of the pilot program and an estimate of the cost of making the pilot program a permanent part of the budget of the Department of Defense.
-
-&emsp;&emsp;&emsp;"(iv) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program, including recommendations for extending or making permanent the authority for the pilot program."
+&emsp;"(2) The term 'institution of higher education' means a four-year institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))."
 
 #### Establishment of High Performance Military-Civilian Integrated Health Delivery Systems
 
@@ -118,7 +176,7 @@ In General.—Not later than January 1, 2018, the Secretary of Defense shall est
 
 &emsp;"(3) to improve health outcomes for covered beneficiaries;
 
-&emsp;"(4) to share resources between the Department of Defense and the private sector, including such staff,equipment, and training assets as may be required to carry out such integrated health delivery systems;
+&emsp;"(4) to share resources between the Department of Defense and the private sector, including such staff, equipment, and training assets as may be required to carry out such integrated health delivery systems;
 
 &emsp;"(5) to maintain services within military treatment facilities that are essential for the maintenance of operational medical force readiness skills of health care providers of the Department; and
 

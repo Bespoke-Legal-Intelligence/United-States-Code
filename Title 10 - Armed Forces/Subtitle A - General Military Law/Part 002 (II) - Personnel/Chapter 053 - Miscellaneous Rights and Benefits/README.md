@@ -101,7 +101,7 @@ Pub. L. 102–25, title VII, §701(e)(8)(B), Apr. 6, 1991, 105 Stat. 115, struck
 
 Pub. L. 100–370, §1(c)(2)(B), July 19, 1988, 102 Stat. 841, struck out item 1052 "Period for use of commissary stores; eligibility attributable to active duty for training".
 
-<b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051"Disability and death compensation: dependents of members held as captives".
+<b>1987</b>—Pub. L. 100–26, §7(e)(1)(B), Apr. 21, 1987, 101 Stat. 281, added item 1032 and struck out second item 1051 "Disability and death compensation: dependents of members held as captives".
 
 <b>1986</b>—Pub. L. 99–661, div. A, title VI, §§656(a)(2), 662(a)(2), title XIII, §§1322(b), 1356(a)(2), Nov. 14, 1986, 100 Stat. 3891, 3894, 3989, 3998, added item 1051 "Bilateral or regional cooperation programs: payment of personnel expenses" and items 1052 to 1054.
 
@@ -134,6 +134,58 @@ Pub. L. 89–132, §9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 "Free pos
 Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+
+#### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces
+
+Pub. L. 116–283, div. A, title V, §555, Jan. 1, 2021, 134 Stat. 3636, provided that:
+
+"(a)
+
+Policy Required.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a policy to ensure that the career of a member of the Armed Forces is not unduly affected because the member is a covered member. The policy shall address the following:
+
+&emsp;"(1) Enforcement and implementation of the applicable requirements of the Pregnancy Discrimination Act (Public Law 95–555 \[amending section 2000e of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2000e of Title 42\]; 42 U.S.C. 2000e(k)).
+
+&emsp;"(2) The need for individual determinations regarding the ability of members of the Armed Forces to serve during and after pregnancy.
+
+&emsp;"(3) Responses to the effects specific to covered members who reintegrate into home life after deployment.
+
+&emsp;"(4) Education and training on pregnancy discrimination to diminish stigma, stereotypes, and negative perceptions regarding covered members, including with regards to commitment to the Armed Forces and abilities.
+
+&emsp;"(5) Opportunities to maintain readiness when positions are unfilled due to pregnancy, medical conditions arising from pregnancy or childbirth, pregnancy convalescence, or parental leave.
+
+&emsp;"(6) Reasonable accommodations for covered members in general and specific accommodations based on career field or military occupational specialty.
+
+&emsp;"(7) Consideration of deferments at military educational institutions for covered members.
+
+&emsp;"(8) Extended assignments and performance reporting periods for covered members.
+
+&emsp;"(9) A mechanism by which covered members may report harassment or discrimination, including retaliation, relating to being a covered member.
+
+"(b)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+
+&emsp;"(1) a briefing summarizing the policy developed under this section; and
+
+&emsp;"(2) a copy of the policy.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered member' means a member of an Armed Force under the jurisdiction of the Secretary of a military department who—
+
+&emsp;&emsp;"(A) is pregnant;
+
+&emsp;&emsp;"(B) gives birth to a child; or
+
+&emsp;&emsp;"(C) incurs a medical condition arising from pregnancy or childbirth.
+
+&emsp;"(2) The term 'military educational institution' means a postsecondary educational institution established within the Department of Defense."
+
+#### Training on Certain Department of Defense Instructions for Members of the Armed Forces
+
+Pub. L. 116–283, div. A, title V, §556, Jan. 1, 2021, 134 Stat. 3637, provided that: "In accordance with Department of Defense Instruction 1300.17, dated September 1, 2020, and applicable law, the Secretary of Defense shall implement training on relevant Federal statutes, Department of Defense Instructions, and the regulations of each military department, including the responsibility of commanders to maintain good order and discipline."
 
 #### Access to Wireless High-speed Internet and Network Connections for Certain Members of the Armed Forces
 
@@ -175,7 +227,7 @@ Protection of Chaplain Decisions Relating to Conscience, Moral Principles, or Re
 
 Regulations.—The Secretary of Defense shall issue regulations implementing the protections afforded by this section."
 
-\[Pub. L. 113–66, div. A, title V, §532(b), Dec. 26, 2013, 127 Stat. 759, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[section 533 of Pub. L. 112–239, set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains."\]
+\[Pub. L. 113–66, div. A, title V, §532(b), Dec. 26, 2013, 127 Stat. 759, provided that: "Not later than 90 daysafter the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[section 533 of Pub. L. 112–239, set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains."\]
 
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
 
@@ -209,7 +261,7 @@ Records.—Not later than 90 days after the date of enactment of this Act, the S
 
 Rule of Construction.—Subsection (a) shall not be construed to limit the authority of the Secretary of Defense to—
 
-&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member ofthe Armed Forces or civilian employee of the Department of Defense while—
+&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member of the Armed Forces or civilian employee of the Department of Defense while—
 
 &emsp;&emsp;"(A) engaged in official duties on behalf of the Department of Defense; or
 
@@ -269,7 +321,7 @@ Funding.—(1)(A) In carrying out the program under this section, the Secretary 
 
 "(e)
 
-Deployment of Additional Telephone Equipment or Internet Access.—If the Secretary of Defense determines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
+Deployment of Additional Telephone Equipment or Internet Access.—If the Secretary of Defensedetermines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
 
 "(f)
 

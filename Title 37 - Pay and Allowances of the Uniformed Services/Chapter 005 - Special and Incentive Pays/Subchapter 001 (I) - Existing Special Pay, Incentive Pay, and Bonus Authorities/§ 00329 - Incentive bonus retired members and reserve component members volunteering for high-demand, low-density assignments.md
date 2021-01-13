@@ -52,6 +52,8 @@ Termination of Authority.—No agreement under subsection (a) or (d) may be ente
 
 (Added Pub. L. 109–364, div. A, title VI, §621(a), Oct. 17, 2006, 120 Stat. 2253.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 109–364, div. A, title VI, §621(e), Oct. 17, 2006, 120 Stat. 2255, provided that: "No agreement may be entered into under section 329 of title 37, United States Code, as added by subsection (a), before October 1, 2006."

@@ -26,7 +26,7 @@
 
 (e) In time of war, the President may suspend the payment of diving duty pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub. L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 106–65, div. A, title VI, §617(a), (b), Oct. 5, 1999, 113 Stat. 652.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 97–60, title I, §115, Oct. 14, 1981, 95 Stat. 995; Pub.L. 100–180, div. A, title VI, §624(a), Dec. 4, 1987, 101 Stat. 1103; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §616(a), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 106–65, div. A, title VI, §617(a), (b), Oct. 5, 1999, 113 Stat. 652.)
 
 Historical and Revision Notes
 
@@ -48,6 +48,8 @@ Oct. 12, 1949, ch. 681, §205, 63 Stat. 810; Mar. 31, 1955, ch. 20, §2(8)–(10
 
 In subsection (a), the last sentence is substituted for section 236(b) of existing title 37. The word "competent" is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65, §617(a), substituted "$240" for "$200" and "$340" for "$300".
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)
 <b>1987</b>—Subsecs. (d), (e). Pub. L. 100–180 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1981</b>—Pub. L. 97–60 revised provisions of subsec. (a) into new subsecs. (a), (b), and (c), redesignated subsec. (b) as (d), and, in provisions of subsec. (a) as revised, added to enumeration of conditions attached to entitlement to special pay requirement that the member maintain proficiency as a diver by frequent and regular dives, substituted a rate of $200 a month for officers and $300 a month for enlisted men for former rate of $110 a month for all members, and inserted provisions authorizing payment of both special pay under this section and incentive pay under section 301 of this title in specified circumstances.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

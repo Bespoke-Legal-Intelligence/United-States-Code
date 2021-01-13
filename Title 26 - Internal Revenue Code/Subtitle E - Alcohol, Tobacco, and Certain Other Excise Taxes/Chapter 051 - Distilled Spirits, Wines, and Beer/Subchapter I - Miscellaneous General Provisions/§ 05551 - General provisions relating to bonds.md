@@ -14,13 +14,13 @@ The Secretary of the Treasury or any officer designated by him may disapprove an
 
 #### (c) Appeal from disapproval
 
-In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
+In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or anofficer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
 
 #### (d) Removal of bond requirements
 
 #### (1) In general
 
-&emsp;During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer\(determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
+&emsp;During any period to which subparagraph (A) of section 5061(d)(4) applies to a taxpayer (determined after application of subparagraph (B) thereof), such taxpayer shall not be required to furnish any bond covering operations or withdrawals of distilled spirits or wines for nonindustrial use or of beer.
 
 #### (2) Satisfaction of bond requirements
 

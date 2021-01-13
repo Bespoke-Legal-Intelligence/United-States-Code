@@ -20,7 +20,7 @@ Applicability.—(1) Except as provided in paragraph (2), the Secretary may, in 
 
 (d)
 
-Discharge of Authority.—The Secretary shall prescribe any professional certification or credential standards under subsection (a)through the Under Secretary of Defense (Comptroller), in consultation with the Under Secretary of Defense for Personnel and Readiness.
+Discharge of Authority.—The Secretary shall prescribe any professional certification or credential standards under subsection (a) through the Under Secretary of Defense (Comptroller), in consultation with the Under Secretary of Defense for Personnel and Readiness.
 
 (e)
 

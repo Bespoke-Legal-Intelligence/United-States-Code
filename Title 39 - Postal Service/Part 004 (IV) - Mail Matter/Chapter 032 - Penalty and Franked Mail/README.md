@@ -25,6 +25,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–87, §1(a)(2), Aug. 9, 1985, 99 Stat. 290, added item 3220.

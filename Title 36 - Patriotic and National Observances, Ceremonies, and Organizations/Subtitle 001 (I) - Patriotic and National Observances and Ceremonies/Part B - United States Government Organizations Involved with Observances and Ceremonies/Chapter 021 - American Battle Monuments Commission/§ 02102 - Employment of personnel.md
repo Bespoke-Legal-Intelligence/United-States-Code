@@ -74,6 +74,8 @@ In subsection (c), the words "Secretary of the Army" are substituted for "Depart
 
 This amends section 2102(b) of title 36 to clarify the language.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(1). Pub. L. 106–117 struck out ", United States Code" after "title 5".

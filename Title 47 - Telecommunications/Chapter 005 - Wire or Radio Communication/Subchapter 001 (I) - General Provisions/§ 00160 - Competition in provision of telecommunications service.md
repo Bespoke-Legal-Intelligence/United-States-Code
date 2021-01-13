@@ -12,7 +12,7 @@ Notwithstanding section 332(c)(1)(A) of this title, the Commission shall forbear
 
 #### (b) Competitive effect to be weighed
 
-In making the determination under subsection (a)(3), the Commission shall consider whether forbearance from enforcing the provision or regulation will promote competitive market conditions, including the extent to which such forbearance will enhance competition among providers of telecommunications services. If the Commission determines that such forbearancewill promote competition among providers of telecommunications services, that determination may be the basis for a Commission finding that forbearance is in the public interest.
+In making the determination under subsection (a)(3), the Commission shall consider whether forbearance from enforcing the provision or regulation will promote competitive market conditions, including the extent to which such forbearance will enhance competition among providers of telecommunications services. If the Commission determines that such forbearance will promote competition among providers of telecommunications services, that determination may be the basis for a Commission finding that forbearance is in the public interest.
 
 #### (c) Petition for forbearance
 
@@ -20,13 +20,15 @@ Any telecommunications carrier, or class of telecommunications carriers, may sub
 
 #### (d) Limitation
 
-Except as provided in section 251(f) of this title, the Commission may not forbear from applying the requirements of section 251(c) or 271 of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
+Except as provided in section 251(f) of this title, the Commission may not forbear from applying the requirements of section 251(c) or 271of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
 
 #### (e) State enforcement after Commission forbearance
 
 A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a).
 
 (June 19, 1934, ch. 652, title I, §10, as added Pub. L. 104–104, title IV, §401, Feb. 8, 1996, 110 Stat. 128.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -20,15 +20,17 @@ For the purposes of this chapter—
 
 (2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
-(h) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
+(h)(1) The term "device" (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
 
-&emsp;(1) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them,
+&emsp;(A) recognized in the official National Formulary, or the United States Pharmacopeia, or any supplement to them,
 
-&emsp;(2) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or
+&emsp;(B) intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, in man or other animals, or
 
-&emsp;(3) intended to affect the structure or any function of the body of man or other animals, and
+&emsp;(C) intended to affect the structure or any function of the body of man or other animals, and
 
 > which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes. The term "device" does not include software functions excluded pursuant to section 360j(o) of this title.
+
+(2) The term "counterfeit device" means a device which, or the container, packaging, or labeling of which, without authorization, bears a trademark, trade name, or other identifying mark or imprint, or any likeness thereof, or is manufactured using a design, of a device manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such device and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other device manufacturer, processor, packer, or distributor.
 
 (i) The term "cosmetic" means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 
@@ -40,7 +42,7 @@ For the purposes of this chapter—
 
 (m) The term "labeling" means all labels and other written, printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.
 
-(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, butalso the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
+(n) If an article is alleged to be misbranded because the labeling or advertising is misleading, then in determining whether the labeling or advertising is misleading there shall be taken into account (among other things) not only representations made or suggested by statement, word, design, device, or any combination thereof, but also the extent to which the labeling or advertising fails to reveal facts material in the light of such representations or material with respect to consequences which may result from the use of the article to which the labeling or advertising relates under the conditions of use prescribed in the labeling or advertising thereof or under such conditions of use as are customary or usual.
 
 (o) The representation of a drug, in its labeling, as an antiseptic shall be considered to be a representation that it is a germicide, except in the case of a drug purporting to be, or represented as, an antiseptic for inhibitory use as a wet dressing, ointment, dusting powder, or such other use as involves prolonged contact with the body.
 
@@ -58,7 +60,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(I) The substance is applied in the field.
 
-&emsp;&emsp;(II) The substance is applied at a treatment facility where raw agricultural commodities are the only food treated, and the treatment is in a manner that does not change the status of the food as a raw agricultural commodity (including treatment through washing, waxing, fumigating, and packing such commodities in such manner).
+&emsp;&emsp;(II) The substance is applied at a treatment facility where raw agricultural commodities are the only food treated, and thetreatment is in a manner that does not change the status of the food as a raw agricultural commodity (including treatment through washing, waxing, fumigating, and packing such commodities in such manner).
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
@@ -74,7 +76,7 @@ For the purposes of this chapter—
 
 (3) Notwithstanding subparagraphs (1) and (2), the Administrator may by regulation except a substance from the definition of "pesticide chemical" or "pesticide chemical residue" if—
 
-&emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportationof any raw agricultural commodity or processed food; and
+&emsp;(A) its occurrence as a residue on or in a raw agricultural commodity or processed food is attributable primarily to natural causes or to human activities not involving the use of any substances for a pesticidal purpose in the production, storage, processing, or transportation of any raw agricultural commodity or processed food; and
 
 &emsp;(B) the Administrator, after consultation with the Secretary, determines that the substance more appropriately should be regulated under one or more provisions of this chapter other than sections 342(a)(2)(B) and 346a of this title.
 
@@ -208,7 +210,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) an article authorized for investigation as a new drug, antibiotic, or biological for which substantial clinical investigations have been instituted and for which the existence of such investigations has been made public,
 
-> &emsp;which was not before such approval, certification, licensing, or authorization marketedas a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>3</sup>
+> &emsp;which was not before such approval, certification, licensing, or authorization marketed as a dietary supplement or as a food unless the Secretary, in the Secretary's discretion, has issued a regulation, after notice and comment, finding that the article would be lawful under this chapter.<sup>3</sup>
 
 > Except for purposes of paragraph (g) and section 350f of this title, a dietary supplement shall be deemed to be a food within the meaning of this chapter.
 
@@ -268,7 +270,9 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II,§701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133; Pub. L. 116–304, §2(b), Jan. 5, 2021, 134 Stat. 4916.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -283,6 +287,8 @@ The Meat Inspection Act of March 4, 1907, as amended and extended, referred to i
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2021</b>—Par. (h). Pub. L. 116–304 redesignated introductory provisions as subpar. (1) and former subpars. (1) to (3) as cls. (A) to (C), respectively, of subpar. (1) and added subpar. (2).
 
 <b>2016</b>—Par. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
 
@@ -406,6 +412,8 @@ Par. (u). Pub. L. 86–618, §101(b), redesignated par. (t) as (u) and inserted 
 
 <b>1954</b>—Pars. (q), (r). Act July 22, 1954, added pars. (q) and (r).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided that: "The amendments made by this section \[amending this section and sections 343 and 343–1 of this title\] shall apply to any food that is labeled on or after January 1, 2006."
@@ -432,7 +440,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Effective Date of 1968 Amendments; Transitional Provisions
 
-Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amendingthis section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
+Pub. L. 90–639, §6, Oct. 24, 1968, 82 Stat. 1362, provided that: "The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\]."
 
 Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words "effectiveness" and "effective" contained in par. (v) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, as amended, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
@@ -478,7 +486,7 @@ Amendment by Pub. L. 102–282 not to preclude any other civil, criminal, or adm
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 etseq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter authority of Secretary of Health and Human Services and Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 
@@ -497,12 +505,6 @@ Pub. L. 91–513, title II, §702, Oct. 27, 1970, 84 Stat. 1283, as amended by P
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
-
-Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except function of regulating counterfeiting of those drugs which are not "depressant or stimulant" drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
-
-Food and Drug Administration in Department of Agriculture and its functions, except those functions relating to administration of Insecticide Act of 1910 and Naval Stores Act, transferred to Federal Security Agency, to be administered under direction and supervision of Federal Security Administrator, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5.
 
 #### Regulation of Tobacco
 
@@ -572,11 +574,21 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 #### Effect of Drug Amendments of 1962 on State Laws
 
-Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
+Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 ofthis title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
 
 #### Definitions
 
 Pub. L. 105–115, §2, Nov. 21, 1997, 111 Stat. 2297, provided that: "In this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\], the terms 'drug', 'device', 'food', and 'dietary supplement' have the meaning given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except function of regulating counterfeiting of those drugs which are not "depressant or stimulant" drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+Food and Drug Administration in Department of Agriculture and its functions, except those functions relating to administration of Insecticide Act of 1910 and Naval Stores Act, transferred to Federal Security Agency, to be administered under direction and supervision of Federal Security Administrator, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Pharmacopeia,".</i>
 

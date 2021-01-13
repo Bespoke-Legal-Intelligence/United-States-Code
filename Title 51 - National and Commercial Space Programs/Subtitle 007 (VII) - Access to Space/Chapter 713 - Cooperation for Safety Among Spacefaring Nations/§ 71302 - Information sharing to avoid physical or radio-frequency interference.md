@@ -20,9 +20,13 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title XI, §1102(b), Oct. 15, 2008, 122 Stat. 4808.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Finding
 
 Pub. L. 110–422, title XI, §1102(a), Oct. 15, 2008, 122 Stat. 4808, provided that: "Congress finds that as more countries acquire the capability for launching payloads into outer space, there is an increasing need for a framework under which information intended to promote safe access into outer space, operations in outer space, and return from outer space to Earth free from physical or radio-frequency interference can be shared among those countries."
+
+#### <b>Executive Documents</b>
 
 #### Space Policy Directive–3. National Space Traffic Management Policy
 
@@ -38,7 +42,7 @@ The future space operating environment will also be shaped by a significant incr
 
 To maintain U.S. leadership in space, we must develop a new approach to space traffic management (STM) that addresses current and future operational risks. This new approach must set priorities for space situational awareness (SSA) and STM innovation in science and technology (S\&T), incorporate national security considerations, encourage growth of the U.S. commercial space sector, establish an updated STM architecture, and promote space safety standards and best practices across the international community.
 
-The United States recognizes that spaceflight safety is a global challenge and will continue to encourage safe and responsible behavior in space while emphasizing the need for international transparency and STM data sharing. Through this national policy for STM and other national space strategies and policies, the UnitedStates will enhance safety and ensure continued leadership, preeminence, and freedom of action in space.
+The United States recognizes that spaceflight safety is a global challenge and will continue to encourage safe and responsible behavior in space while emphasizing the need for international transparency and STM data sharing. Through this national policy for STM and other national space strategies and policies, the United States will enhance safety and ensure continued leadership, preeminence, and freedom of action in space.
 
 Sec. 2. <i>Definitions</i>. For the purposes of this memorandum, the following definitions shall apply:
 
@@ -80,13 +84,13 @@ Sec. 4. <i>Goals</i>. Consistent with the principles listed in section 3 of this
 
 Sec. 5. <i>Guidelines</i>. In pursuit of the principles and goals of this policy, agencies should observe the following guidelines:
 
-(a) <i>Managing the Integrity of the Space Operating Environment</i>.
+(a) <i>Managing the Integrity of the Space Operating Environment.</i>
 
 (i) Improving SSA coverage and accuracy. Timely, accurate, and actionable data are essential for effective SSA and STM. The United States should seek to minimize deficiencies in SSA capability, particularly coverage in regions with limited sensor availability and sensitivity in detection of small debris, through SSA data sharing, the purchase of SSA data, or the provision of new sensors.
 
 New U.S. sensors are expected to reveal a substantially greater volume of debris and improve our understanding of space object size distributions in various regions of space. However, very small debris may not be sufficiently tracked to enable or justify actionable collision avoidance decisions. As a result, close conjunctions and even collisions with unknown objects are possible, and satellite operators often lack sufficient insight to assess their level of risk when making maneuvering decisions. The United States should develop better tracking capabilities, and new means to catalog such debris, and establish a quality threshold for actionable collision avoidance warning to minimize false alarms.
 
-Through both Government and commercial sector S\&T investment, the United States should advanceconcepts and capabilities to improve SSA in support of debris mitigation and collision avoidance decisions.
+Through both Government and commercial sector S\&T investment, the United States should advance concepts and capabilities to improve SSA in support of debris mitigation and collision avoidance decisions.
 
 (ii) Establishing an Open Architecture SSA Data Repository. Accurate and timely tracking of objects orbiting Earth is essential to preserving the safety of space activities for all. Consistent with section 2274 of title 10, United States Code, a basic level of SSA data in the form of the publicly releasable portion of the DoD catalog is and should continue to be provided free of direct user fees. As additional sources of space tracking data become available, the United States has the opportunity to incorporate civil, commercial, international, and other available data to allow users to enhance and refine this service. To facilitate greater data sharing with satellite operators and enable the commercial development of enhanced space safety services, the United States must develop the standards and protocols for creation of an open architecture data repository. The essential features of this repository would include:
 
@@ -106,7 +110,7 @@ To facilitate this enhanced data sharing, and in recognition of the need for DoD
 
 The United States should pursue active debris removal as a necessary long-term approach to ensure the safety of flight operations in key orbital regimes. This effort should not detract from continuing to advance international protocols for debris mitigation associated with current programs.
 
-(b) <i>Operating in a Congested Space Environment</i>.
+(b) <i>Operating in a Congested Space Environment.</i>
 
 (i) Minimum Safety Standards and Best Practices. The creation of minimum standards for safe operation and debris mitigation derived in part from the U.S. Government ODMSP, but incorporating other standards and best practices, will best ensure the safe operation of U.S. space activities. These safety guidelines should consider maneuverability, tracking, reliability, and disposal.
 
@@ -142,7 +146,7 @@ Satellite and constellation owners should participate in a pre-launch certificat
 
 To ensure safe coordination of space traffic in this future operating environment, and in recognition of the need for DoD to focus on maintaining access to and freedom of action in space, a civil agency should be the focal point for this collision avoidance support service. The Department of Commerce should be that civil agency.
 
-(c) <i>Strategies for Space Traffic Management in a Global Context</i>.
+(c) <i>Strategies for Space Traffic Management in a Global Context.</i>
 
 (i) Protocols to Prevent Orbital Conjunctions. As increased satellite operations make lower Earth orbits more congested, the United States should develop a set of standard techniques for mitigating the collision risk of increasingly congested orbits, particularly for large constellations. Appropriate methods, which may include licensing assigned volumes for constellation operation and establishing processes for satellites passing through the volumes, are needed. The United States should explore strategies that will lead to the establishment of common global best practices, including:
 
@@ -152,7 +156,7 @@ To ensure safe coordination of space traffic in this future operating environmen
 
 • A set of best practices for the owner-operators of utilized volumes to minimize the long-term effects of constellation operations on the space environment (including the proper disposal of satellites, reliability standards, and effective collision avoidance).
 
-(ii) Radio Frequency Spectrum and Interference Protection. Space traffic and RF spectrum use have traditionally been independently managed processes. Increased congestion in key orbital regimes creates aneed for improved and increasingly dynamic methods to coordinate activities in both the physical and spectral domains, and may introduce new interdependencies. U.S. Government efforts in STM should address the following spectrum management considerations:
+(ii) Radio Frequency Spectrum and Interference Protection. Space traffic and RF spectrum use have traditionally been independently managed processes. Increased congestion in key orbital regimes creates a need for improved and increasingly dynamic methods to coordinate activities in both the physical and spectral domains, and may introduce new interdependencies. U.S. Government efforts in STM should address the following spectrum management considerations:
 
 • Where appropriate, verify consistency between policy and existing national and international regulations and goals regarding global access to, and operation in, the RF spectrum for space services;
 

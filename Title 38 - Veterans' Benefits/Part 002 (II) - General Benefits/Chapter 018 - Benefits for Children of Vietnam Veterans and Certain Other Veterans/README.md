@@ -51,6 +51,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–23, §4(c)(2), June 25, 2019, 133 Stat. 971, substituted "CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA" for "CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFIDA" in item for subchapter III and added item 1822.

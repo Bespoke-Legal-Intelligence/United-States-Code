@@ -6,13 +6,15 @@ In General.—Whoever knowingly develops, produces, stockpiles, transfers, acqui
 
 (b)
 
-Additional Offense.—Whoever knowingly possesses any biological agent, toxin, or delivery system of a type or in a quantity that, under the circumstances, is not reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose, shall be fined under this title, imprisoned not more than 10 years, or both. In this subsection, the terms "biologicalagent" and "toxin" do not encompass any biological agent or toxin that is in its naturally occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
+Additional Offense.—Whoever knowingly possesses any biological agent, toxin, or delivery system of a type or in a quantity that, under the circumstances, is not reasonably justified by a prophylactic, protective, bona fide research, or other peaceful purpose, shall be fined under this title, imprisoned not more than 10 years, or both. In this subsection, the terms "biological agent" and "toxin" do not encompass any biological agent or toxin that is in its naturally occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
 (c)
 
 Definition.—For purposes of this section, the term "for use as a weapon" includes the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for other than prophylactic, protective, bona fide research, or other peaceful purposes.
 
 (Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, §511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, §817(1), Oct. 26, 2001, 115 Stat. 385; Pub. L. 107–188, title II, §231(c)(1), June 12, 2002, 116 Stat. 661.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Pub. L. 107–56, §817(1)(A), substituted "includes" for "does not include" and
 Subsec. (c). Pub. L. 107–56, §817(1)(B), redesignated subsec. (b) as (c).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–132 inserted "or attempts, threatens, or conspires to do the same," before "shall be fined under this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

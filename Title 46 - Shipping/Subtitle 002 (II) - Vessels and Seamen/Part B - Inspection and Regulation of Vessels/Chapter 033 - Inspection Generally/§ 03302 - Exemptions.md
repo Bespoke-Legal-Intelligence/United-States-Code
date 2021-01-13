@@ -90,7 +90,7 @@
 
 (4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
 
-(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
+(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer,managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
 (j) Notwithstanding another provision of this chapter, the Secretary is not required to inspect or prescribe regulations for a nautical school vessel of not more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -162,6 +162,8 @@ Historical and Revision Notes
 
 Section 3302 does three things. It makes clear that a vessel included in one of the ten categories of vessels subject to inspection is not necessarily excluded from another category of vessel that is subject to inspection. For example, a vessel inspected and certified as a small passenger vessel would, when carrying oil or hazardous materials in bulk as cargo or cargo residue, also have to be inspected as a tank vessel. It makes it clear that a vessel excluded by section 3302 from the requirements of inspection in any one of the ten categories is not necessarily excluded from inspection as a vessel in another category. This section also contains a number of exemptions for certain classes of vessels and for those vessels engaged in a specific trade that have been considered to be of a special circumstance.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (g)(2). Pub. L. 115–232, §3546(c), substituted "This" for "After December 31, 1988, this".
@@ -230,6 +232,8 @@ Subsec. (c). Pub. L. 98–364 amended subsec. (c) generally, which prior to amen
 
 "(2) Before January 1, 1988, a vessel is exempt from section 3301(1), (4), (6), and (7) of this title if the vessel is not more than 5,000 gross tons and is used only in processing and assembling fishery products in the fisheries of Alaska, Oregon, and Washington."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except that requirements imposed by subsec. (c)(4)(B) and (C), effective six months after Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
@@ -240,7 +244,7 @@ Section effective Apr. 15, 1984, see section 2(g)(1) of Pub. L. 98–89, set out
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission
 

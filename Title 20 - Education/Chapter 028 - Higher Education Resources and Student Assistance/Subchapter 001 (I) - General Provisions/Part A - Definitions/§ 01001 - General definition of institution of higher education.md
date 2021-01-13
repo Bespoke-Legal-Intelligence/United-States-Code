@@ -28,7 +28,7 @@ For purposes of this chapter, other than subchapter IV, the term "institution of
 
 #### (c) List of accrediting agencies
 
-For purposes of this section and section 1002 of this title, the Secretary shall publish a list ofnationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
+For purposes of this section and section 1002 of this title, the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
 
 (Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083; Pub. L. 112–74, div. F, title III, §309(c)(3), Dec. 23, 2011, 125 Stat. 1101.)
 
@@ -42,7 +42,7 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 9
 
 Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1373, stated Congressional findings with respect to continuing postsecondary education program and planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for the community service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for thecommunity service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
@@ -53,6 +53,10 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 S
 Subsec. (a)(3). Pub. L. 110–315, §101(a)(1)(B), inserted ", or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary" before semicolon at end.
 
 Subsec. (b)(2). Pub. L. 110–315, §101(a)(2), added par. (2) and struck out former par. (2) which read as follows: "a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located."
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. FF, title VII, §701(b), Dec. 27, 2020, 134 Stat. 3137, provided that: "Except as otherwise expressly provided, this Act \[probably means "this title", see Tables for classification\], and the amendments made by this title to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), shall take effect on July 1, 2023, and shall apply with respect to award year 2023–2024 and each subsequent award year, as determined under the Higher Education Act of 1965. The Secretary of Education shall have the authority to take such steps as are necessary before July 1, 2023, to provide for the orderly implementation on such date of the amendments to the Higher Education Act of 1965 made by this Act."
 
 #### Effective Date of 2011 Amendment
 
@@ -110,6 +114,16 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: "
 
 &emsp;"(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976."
 
+#### Short Title of 2020 Amendment
+
+Pub. L. 116–270, §1, Dec. 31, 2020, 134 Stat. 3325, provided that: "This Act \[enacting sections 1063d and 1063eof this title and enacting provisions set out as notes under section 1063d of this title\] may be cited as the 'HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act' or the 'HBCU PARTNERS Act'."
+
+Pub. L. 116–260, div. FF, title VII, §701(a), Dec. 27, 2020, 134 Stat. 3137, provided that: "This title \[see Tables for classification\] may be cited as the 'FAFSA Simplification Act'."
+
+Pub. L. 116–251, §1, Dec. 22, 2020, 134 Stat. 1129, provided that: "This Act \[amending sections 1018, 1092, 1092b, and 1097 of this title and enacting provisions set out as notes under sections 1018 and 1097 of this title\] may be cited as the 'Stop Student Debt Relief Scams Act of 2019'."
+
+Pub. L. 116–136, div. A, title III, §3501, Mar. 27, 2020, 134 Stat. 395, provided that: "This subtitle \[subtitle B (§§3501–3519) of title III of div. A of Pub. L. 116–136, amending section 6103 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 7861 of this title, section 6103 of Title 26, section 3163 of Title 29, Labor, and section 12501 of Title 42, The Public Health and Welfare\] may be cited as the 'COVID–19 Pandemic Education Relief Act of 2020'."
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 116–91, §1, Dec. 19, 2019, 133 Stat. 1189, provided that: "This Act \[enacting section 1098h of this title, amending sections 1067q, 1070a, 1087, 1087e, 1091, and 1098e of this title and section 6103 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 6103 of Title 26\] may be cited as the 'Fostering Undergraduate Talent by Unlocking Resources for Education Act' or the 'FUTURE Act'."
@@ -164,11 +178,11 @@ Pub. L. 109–66, §1, Sept. 21, 2005, 119 Stat. 1999, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10, 1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
+Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10,1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: "This Act \[enacting section 1092d of thistitle, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'College Scholarship Fraud Prevention Act of 2000'."
+Pub. L. 106–420, §1, Nov. 1, 2000, 114 Stat. 1867, provided that: "This Act \[enacting section 1092d of this title, amending section 522 of Title 11, Bankruptcy, and enacting provisions set out as notes under section 1092d of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'College Scholarship Fraud Prevention Act of 2000'."
 
 Pub. L. 106–386, div. B, title VI, §1601(a), Oct. 28, 2000, 114 Stat. 1537, provided that: "This section \[amending sections 1092 and 1232g of this title and section 14071 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1092 of this title and section 14071 of Title 42\] may be cited as the 'Campus Sex Crimes Prevention Act'."
 
@@ -224,7 +238,7 @@ Pub. L. 100–50, §1(a), June 3, 1987, 101 Stat. 335, provided that: "This Act 
 
 Pub. L. 99–498, §1, Oct. 17, 1986, 100 Stat. 1268, provided that: "This Act \[see Tables for classification\] may be cited as the 'Higher Education Amendments of 1986'."
 
-Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section 1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
+Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
 
 Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided that: "This title \[enacting sections 1078–3, 1080a, and 1091a of this title, amending sections 1072, 1074, 1075, 1077, 1078, 1080, 1082, 1083a, 1085, 1087–1, 1087–2, 1087cc, 1087cc–1, 1087dd, 1087gg, 1089, 1091, and 1094 of this title, enacting provisions set out as notes under sections 1072, 1078, and 1078–3 of this title, and amending provisions set out as a note under section 1078 of this title\] may be cited as the 'Student Financial Assistance Amendments of 1985'."
 
@@ -268,7 +282,7 @@ Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: "That this Act \[e
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
+Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056,1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
 
 #### Short Title of 1966 Amendment
 
@@ -281,6 +295,450 @@ Pub. L. 89–329, §1, Nov. 8, 1965, 79 Stat. 1219, provided: "That this Act \[e
 Pub. L. 89–329, title V, §509, as added by Pub. L. 90–35, §8, provided that title V of Pub. L. 89–329 could be cited as the "Education Professions Development Act", prior to the general amendment of title V of Pub. L. 89–329 by Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1495.
 
 For short title of section 1092(f) of this title as the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, see section 1092(f)(18) of this title.
+
+#### Emergency Financial Aid Grants
+
+Pub. L. 116–260, div. N, title II, §277, Dec. 27, 2020, 134 Stat. 1980, provided that:
+
+"(a)
+
+In general.—In the case of a student receiving a qualified emergency financial aid grant—
+
+&emsp;"(1) such grant shall not be included in the gross income of such individual for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], and
+
+&emsp;"(2) such grant shall not be treated as described in subparagraph (A), (B), or (C) of section 25A(g)(2) of such Code \[26 U.S.C. 25A(g)(2)\].
+
+"(b)
+
+Definitions.—For purposes of this subsection, the term 'qualified emergency financial aid grant' means—
+
+&emsp;"(1) any emergency financial aid grant awarded by an institution of higher education under section 3504 of the CARES Act \[section 3504 of Pub. L. 116–136, set out below\],
+
+&emsp;"(2) any emergency financial aid grant from an institution of higher education made with funds made available under section 18004 of the CARES Act \[Pub. L. 116–136, 20 U.S.C. 3401 note\], and
+
+&emsp;"(3) any other emergency financial aid grant made to a student from a Federal agency, a State, an Indian tribe, an institution of higher education, or a scholarship-granting organization (including a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C.5304 \[sic\])) for the purpose of providing financial relief to students enrolled at institutions of higher education in response to a qualifying emergency (as defined in section 3502(a)(4) of the CARES Act \[section 3502(a)(4) of Pub. L. 116–136, set out below\]).
+
+"(c)
+
+Limitation.—This section shall not apply to that portion of any amount received which represents payment for teaching, research, or other services required as a condition for receiving the qualified emergency financial aid grant.
+
+"(d)
+
+Effective date.—This section shall apply to qualified emergency financial aid grants made after March 26, 2020."
+
+#### Guidance to States
+
+Pub. L. 116–260, div. FF, title VII, §702(a)(3), Dec. 27, 2020, 134 Stat. 3138, provided that: "The Secretary of Education shall issue guidance for States on interpretation and implementation of the terminology and formula adjustments made to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) under the amendments by this Act \[probably means "this title", see Tables for classification\], including the student aid index, formerly known as the expected family contribution, and the need analysis formulas."
+
+#### Forgiveness of HBCU Capital Financing Loans
+
+Pub. L. 116–260, div. FF, title VII, §706, Dec. 27, 2020, 134 Stat. 3200, provided that:
+
+"(a)
+
+Forgiveness.—Not later than 90 days after the effective date of this section \[see Effective Date of 2020 Amendment note set out above\], the Secretary of Education shall repay each institution of higher education's outstanding balance of principal, interest, fees, and costs on the disbursed loan amounts (as of such effective date) under each applicable closed loan agreement, including paying any reimbursement (including reimbursements of escrow and return of fees and deposits) relating to the applicable closed loan agreement that are usual and customary when the loan is paid off by the institution.
+
+"(b)
+
+Applicable Closed Loan Agreement.—In this section, the term 'applicable closed loan agreement' means each of the following:
+
+&emsp;"(1) A closed loan agreement executed before the date of enactment of this Act \[Dec. 27, 2020\] and made under part D of title III of the Higher Education Act of 1965 (20 U.S.C. 1066 et seq.).
+
+&emsp;"(2) A closed loan agreement executed before the date of enactment of this Act and made for deferment balances authorized under—
+
+&emsp;&emsp;"(A) section 3512 of the CARES Act \[Pub. L. 116–136\] (20 U.S.C. 1001 note);
+
+&emsp;&emsp;"(B) title III of division A of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2586) \[see Tables for classification\];
+
+&emsp;&emsp;"(C) title III of division B of the Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (Public Law 115–245; 132 Stat. 3097) \[see Tables for classification\]; or
+
+&emsp;&emsp;"(D) title III of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 741) \[see Tables for classification\].
+
+"(c)
+
+Authorization and Appropriation.—There are authorized to be appropriated, and there are appropriated, out of any amounts in the Treasury not otherwise appropriated, such sums as may be necessary to carry out subsection (a).
+
+"(d)
+
+Effective Date.—Notwithstanding section 701(b) \[set out as a note above\], this section shall take effect on the date of enactment of this Act \[Dec. 27, 2020\]."
+
+#### COVID–19 Pandemic Education Relief
+
+Pub. L. 116–136, div. A, title III, §§3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, §101(a), Dec. 27, 2020, 134 Stat. 3082, provided that:
+
+#### "SEC. 3502. DEFINITIONS.
+
+"(a)
+
+Definitions.—In this subtitle \[subtitle B (§§3501–3519) of title III of div. A of Pub. L. 116–136, see Short Title of 2020 Amendment note set out above\]:
+
+&emsp;"(1)
+
+Coronavirus.—The term 'coronavirus' has the meaning given the term in section 506 of the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123 \[134 Stat. 155\]).
+
+&emsp;"(2)
+
+Foreign institution.—The term 'foreign institution' means an institution of higher education located outside the United States that is described in paragraphs (1)(C) and (2) of section 102(a) of the Higher Education Act of 1965 (20 U.S.C. 1002(a)).
+
+&emsp;"(3)
+
+Institution of higher education.—The term 'institution of higher education' has the meaning of the term under section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
+
+&emsp;"(4)
+
+Qualifying emergency.—The term 'qualifying emergency' means—
+
+&emsp;&emsp;"(A) a public health emergency related to the coronavirus declared by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d);
+
+&emsp;&emsp;"(B) an event related to the coronavirus for which the President declared a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170 and 5191); or
+
+&emsp;&emsp;"(C) a national emergency related to the coronavirus declared by the President under section 201 of the National Emergencies Act (50 U.S.C. 1601 et seq.) \[50 U.S.C. 1621\].
+
+&emsp;"(5)
+
+Secretary.—The term 'Secretary' means the Secretary of Education.
+
+#### "SEC. 3503. CAMPUS-BASED AID WAIVERS.
+
+"(a)
+
+Waiver of Non-federal Share Requirement.—Notwithstanding sections 413C(a)(2) and 443(b)(5) of the Higher Education Act of 1965 (20 U.S.C. 1070b–2(a)(2) and 1087–53(b)(5)), with respect to funds made available for award years 2019–2020 and 2020–2021, the Secretary shall waive the requirement that a participating institution of higher education provide a non-Federal share to match Federal funds provided to the institution for the programs authorized pursuant to subpart 3 of part A and part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq. and 1087–51 et seq.) for all awards made under such programs during such award years, except nothing in this subsection shall affect the non-Federal share requirement under section 443(c)(3) that applies to private for-profit organizations.
+
+"(b)
+
+Authority to Reallocate.—Notwithstanding sections 413D, 442, and 488 of the Higher Education Act of 1965 (20 U.S.C. 1070b–3, 1087–52, and 1095), during a period of a qualifying emergency, an institution may transfer up to 100 percent of the institution's unexpended allotment under section 442 of such Act to the institution's allotment under section 413D of such Act, but may not transfer any funds from the institution's unexpended allotment under section 413D of such Act to the institution's allotment under section 442 of such Act.
+
+#### "SEC. 3504. USE OF SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANTS FOR EMERGENCY AID.
+
+"(a)
+
+In General.—Notwithstanding section 413B of the Higher Education Act of 1965 (20 U.S.C. 1070b–1), an institution of higher education may reserve any amount of an institution's allocation under subpart 3 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070b et seq.) for a fiscal year to award, in such fiscal year, emergency financial aid grants to assist undergraduate or graduate students for unexpected expenses and unmet financial need as the result of a qualifying emergency.
+
+"(b)
+
+Determinations.—In determining eligibility for and awarding emergency financial aid grants under this section, an institution of higher education may—
+
+&emsp;"(1) waive the amount of need calculation under section 471 of the Higher Education Act of 1965 (20 U.S.C. 1087kk);
+
+&emsp;"(2) allow for a student affected by a qualifying emergency to receive funds in an amount that is not more than the maximum Federal Pell Grant for the applicable award year; and
+
+&emsp;"(3) utilize a contract with a scholarship-granting organization designated for the sole purpose of accepting applications from or disbursing funds to students enrolled in the institution of higher education, if such scholarship-granting organization disburses the full allocated amount provided to the institution of higher education to the recipients.
+
+"(c)
+
+Special Rule.—Any emergency financial aid grants to students under this section shall not be treated as other financial assistance for the purposes of section 471 of the Higher Education Act of 1965 (20 U.S.C. 1087kk).
+
+#### "SEC. 3505. FEDERAL WORK-STUDY DURING A QUALIFYING EMERGENCY.
+
+"(a)
+
+In General.—In the event of a qualifying emergency, an institution of higher education participating in the program under part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.) may make payments under such part to affected work-study students, for the period of time (not to exceed one academic year) in which affected students were unable to fulfill the students' work-study obligation for all or part of such academic year due to such qualifying emergency, as follows:
+
+&emsp;"(1) Payments may be made under such part to affected work-study students in an amount equal to or less than the amount of wages such students would have been paid under such part had the students been able to complete the work obligation necessary to receive work study funds, as a one time grant or as multiple payments.
+
+&emsp;"(2) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under such part prior to the occurrence of the qualifying emergency.
+
+&emsp;"(3) Any payments made to affected work-study students under this subsection shall meet the matching requirements of section 443 of the Higher Education Act of 1965 (20 U.S.C. 1087–53), unless such matching requirements are waived by the Secretary.
+
+"(b)
+
+Definition of Affected Work-study Student.—In this section, the term 'affected work-study student' means a student enrolled at an eligible institution participating in the program under part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.) who—
+
+&emsp;"(1) received a work-study award under section 443 of the Higher Education Act of 1965 (20 U.S.C. 1087–53) for the academic year during which a qualifying emergency occurred;
+
+&emsp;"(2) earned Federal work-study wages from such eligible institution for such academic year; and
+
+&emsp;"(3) was prevented from fulfilling the student's work-study obligation for all or part of such academic year due to such qualifying emergency.
+
+#### "SEC. 3506. ADJUSTMENT OF SUBSIDIZED LOAN USAGE LIMITS.
+
+"Notwithstanding section 455(q)(3) of the Higher Education Act of 1965 (20 U.S.C. 1087e(q)(3)), the Secretary shall exclude from a student's period of enrollment for purposes of loans made under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) any semester (or the equivalent) that the student does not complete due to a qualifying emergency, if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student.
+
+#### "SEC. 3507. EXCLUSION FROM FEDERAL PELL GRANT DURATION LIMIT.
+
+"The Secretary shall exclude from a student's Federal Pell Grant duration limit under section 401(c)(5) of the Higher Education Act of 1965 (2 U.S.C. 1070a(c)(5)) \[probably means 20 U.S.C. 1070a(c)(5)\] any semester (or the equivalent) that the student does not complete dueto a qualifying emergency if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student.
+
+#### "SEC. 3508. INSTITUTIONAL REFUNDS AND FEDERAL STUDENT LOAN FLEXIBILITY.
+
+"(a)
+
+Institutional Waiver.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall waive the institutional requirement under section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b) with respect to the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act \[20 U.S.C. 1087–51 et seq.\]) to be returned under such section if a recipient of assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) withdraws from the institution of higher education during the payment period or period of enrollment as a result of a qualifying emergency.
+
+&emsp;"(2)
+
+Waivers.—The Secretary shall require each institution using a waiver relating to the withdrawal of recipients under this subsection to report the number of such recipients, the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) associated with each such recipient, and the total amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) for which each institution has not returned assistance under title IV to the Secretary.
+
+"(b)
+
+Student Waiver.—The Secretary shall waive the amounts that students are required to return under section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b) with respect to Federal Pell Grants or other grant assistance if the withdrawals on which the returns are based, are withdrawals by students who withdrew from the institution of higher education as a result of a qualifying emergency.
+
+"(c)
+
+Canceling Loan Obligation.—Notwithstanding any other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), the Secretary shall cancel the borrower's obligation to repay the entire portion of a loan made under part D of title IV of such Act (20 U.S.C. 1087a et seq.) associated with a payment period for a recipient of such loan who withdraws from the institution of higher education during the payment period as a result of a qualifying emergency.
+
+"(d)
+
+Approved Leave of Absence.—Notwithstanding any other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), for purposes of receiving assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), an institution of higher education may, as a result of a qualifying emergency, provide a student with an approved leave of absence that does not require the student to return at the same point in the academic program that the student began the leave of absence if the student returns within the same semester (or the equivalent).
+
+#### "SEC. 3509. SATISFACTORY ACADEMIC PROGRESS.
+
+"Notwithstanding section 484 of the Higher Education Act of 1965 (20 U.S.C. 1091), in determining whether a student is maintaining satisfactory academic progress for purposes of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), an institution of higher education may, as a result of a qualifying emergency, exclude from the quantitative component of the calculation any attempted credits that were not completed by such student without requiring an appeal by such student.
+
+#### "SEC. 3510. CONTINUING EDUCATION AT AFFECTED FOREIGN INSTITUTIONS.
+
+"(a)
+
+In General.—Notwithstanding section 481(b) of the Higher Education Act of 1965 (20 U.S.C. 1088(b)), with respect to a foreign institution, in the case of a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located, the Secretary may permit any part of an otherwise eligible program to be offered via distance education for purposes of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) until the end of the covered period applicable to the institution.
+
+"(b)
+
+Eligibility.—An otherwise eligible program that is offered in whole or in part through distance education by a foreign institution between March 1, 2020, and the date of enactment of this Act \[Mar. 27, 2020\] shall be deemed eligible for the purposes of part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) until the end of the covered period applicable to the institution. An institution of higher education that uses the authority provided in the previous sentence shall report such use to the Secretary—
+
+&emsp;"(1) for the 2019–2020 award year, not later than June 30, 2020; and
+
+&emsp;"(2) for an award year subsequent to the 2019–2020 award year, not later than 30 days after such use.
+
+"(c)
+
+Report.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions carrying out a distance education program authorized under this section have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) a report that identifies each foreign institution that carried out a distance education program authorized under this section.
+
+"(d)
+
+Written Arrangements.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), until the end of the covered period applicable to a foreign institution, the Secretary may allow the foreign institution to enter into a written arrangement with an institution of higher education located in the United States that participates in the Federal Direct Loan Program under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) for the purpose of allowing a student of the foreign institution who is a borrower of a loan made under such part to take courses from the institution of higher education located in the United States.
+
+&emsp;"(2)
+
+Form of arrangements.—
+
+&emsp;&emsp;"(A)
+
+Public or other nonprofit institutions.—A foreign institution that is a public or other nonprofit institution may enter into a written arrangement under paragraph (1) only with an institution of higher education described in section 101 of such Act (20 U.S.C. 1001).
+
+&emsp;&emsp;"(B)
+
+Other institutions.—A foreign institution that is a graduate medical school, nursing school, or a veterinary school and that is not a public or other nonprofit institution may enter into a written arrangement under paragraph (1) with an institution of higher education described in section 101 or section 102 of such Act (20 U.S.C. 1001 and 1002).
+
+&emsp;"(3)
+
+Report on use.—An institution of higher education that uses the authority described in paragraph (2) shall report such use to the Secretary—
+
+&emsp;&emsp;"(A) for the 2019–2020 award year, not later than June 30, 2020; and
+
+&emsp;&emsp;"(B) for an award year subsequent to the 2019–2020 award year, not later than 10 days after such use.
+
+&emsp;"(4)
+
+Report from the secretary.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions that entered into written arrangements under paragraph (1) have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) a report that identifies, for each such foreign institution—
+
+&emsp;&emsp;"(A) the name of the foreign institution;
+
+&emsp;&emsp;"(B) the name of the institution of higher education located in the United States that has entered into a written arrangement with such foreign institution; and
+
+&emsp;&emsp;"(C) information regarding the nature of such written arrangement, including which coursework or program requirements are accomplished at each respective institution.
+
+"(e)
+
+Definition of Covered Period.—
+
+&emsp;"(1)
+
+In general.—In this section, the term 'covered period', when used with respect to a foreign institution of higher education, means the period—
+
+&emsp;&emsp;"(A) beginning on the first day of—
+
+&emsp;&emsp;&emsp;"(i) a qualifying emergency; or
+
+&emsp;&emsp;&emsp;"(ii) a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located; and
+
+&emsp;&emsp;"(B) ending on the later of—
+
+&emsp;&emsp;&emsp;"(i) subject to paragraph (2), the last day of the payment period, for purposes of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), following the end of any qualifying emergency or any emergency or disaster described in subparagraph (A)(ii) applicable to the foreign institution; or
+
+&emsp;&emsp;&emsp;"(ii) June 30, 2022.
+
+&emsp;"(2)
+
+Special rule for certain payment periods.—For purposes of subparagraph (B)(i) \[probably should be "paragraph (1)(B)(i)"\], if the following payment period for an award year ends before June 30 of such award year, the covered period shall be extended until June 30 of such award year.
+
+#### "SEC. 3512. HBCU CAPITAL FINANCING.
+
+"(a)
+
+Deferment Period.—
+
+&emsp;"(1)
+
+In general.—Notwithstanding any provision of title III of the Higher Education Act of 1965 (20 U.S.C. 1051 et seq.), or any regulation promulgated under such title, the Secretary may grant a deferment, for the duration of a qualifying emergency, to an institution that has received a loan under part D of title III of such Act (20 U.S.C. 1066 et seq.).
+
+&emsp;"(2)
+
+Terms.—During the deferment period granted under this subsection—
+
+&emsp;&emsp;"(A) the institution shall not be required to pay any periodic installment of principal or interest required under the loan agreement for such loan; and
+
+&emsp;&emsp;"(B) the Secretary shall make principal and interest payments otherwise due under the loan agreement.
+
+&emsp;"(3)
+
+Closing.—At the closing of a loan deferred under this subsection, terms shall be set under which the institution shall be required to repay the Secretary for the payments of principal and interest made by the Secretary during the deferment, on a schedule that begins upon repayment to the lender in full on the loan agreement, except in no case shall repayment be required to begin before the date that is 1 full fiscal year after the date that is the end of the qualifying emergency.
+
+"(b)
+
+Termination Date.—
+
+&emsp;"(1)
+
+In general.—The authority provided under this section to grant a loan deferment under subsection (a) shall terminate on the date on which the qualifying emergency is no longer in effect.
+
+&emsp;"(2)
+
+Duration.—Any provision of a loan agreement or insurance agreement modified by the authority under this section shall remain so modified for the duration of the period covered by the loan agreement or insurance agreement.
+
+"(c)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\], and every 180 days thereafter during the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) a report that identifies each institution that received assistance under this section.
+
+"(d)
+
+Funding.—There is hereby appropriated, out of any money in the Treasury not otherwise appropriated, $62,000,000 to carry out this section.
+
+#### "SEC. 3513. TEMPORARY RELIEF FOR FEDERAL STUDENT LOAN BORROWERS.
+
+"(a)
+
+In General.—The Secretary shall suspend all payments due for loans made under part D and part B (that are held by the Department of Education) of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.; 1071 et seq.) through September 30, 2020.
+
+"(b)
+
+No Accrual of Interest.—Notwithstanding any other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), interest shall not accrue on a loan described under subsection (a) for which payment was suspended for the period of the suspension.
+
+"(c)
+
+Consideration of Payments.—Notwithstanding any other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), the Secretary shall deem each month for which a loan payment was suspended under this section as if the borrower of the loan had made a payment for the purpose of any loan forgiveness program or loan rehabilitation program authorized under part D or B of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.; 1071 et seq.) for which the borrower would have otherwise qualified.
+
+"(d)
+
+Reporting to Consumer Reporting Agencies.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall ensure that, for the purpose of reporting information about the loan to a consumer reporting agency, any payment that has been suspended is treated as if it were a regularly scheduled payment made by a borrower.
+
+"(e)
+
+Suspending Involuntary Collection.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall suspend all involuntary collection related to the loan, including—
+
+&emsp;"(1) a wage garnishment authorized under section 488A of the Higher Education Act of 1965 (20 U.S.C. 1095a) or section 3720D of title 31, United States Code;
+
+&emsp;"(2) a reduction of tax refund by amount of debt authorized under section 3720A of title 31, United States Code, or section 6402(d) of the Internal Revenue Code of 1986;
+
+&emsp;"(3) a reduction of any other Federal benefit payment by administrative offset authorized under section 3716 of title 31, United States Code (including a benefit payment due to an individual under the Social Security Act \[42 U.S.C. 301 et seq.\] or any other provision described in subsection (c)(3)(A)(i) of such section); and
+
+&emsp;"(4) any other involuntary collection activity by the Secretary.
+
+"(f)
+
+Waivers.—In carrying out this section, the Secretary may waive the application of—
+
+&emsp;"(1) subchapter I of chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act');
+
+&emsp;"(2) the master calendar requirements under section 482 of the Higher Education Act of 1965 (20 U.S.C. 1089);
+
+&emsp;"(3) negotiated rulemaking under section 492 of the Higher Education Act of 1965 (20 U.S.C. 1098a); and
+
+&emsp;"(4) the requirement to publish the notices related to the system of records of the agency before implementation required under paragraphs (4) and (11) of section 552a(e) of title 5, United States Code (commonly known as the 'Privacy Act of 1974'), except that the notices shall be published not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\].
+
+"(g)
+
+Notice to Borrowers and Transition Period.—To inform borrowers of the actions taken in accordance with this section and ensure an effective transition, the Secretary shall—
+
+&emsp;"(1) not later than 15 days after the date of enactment of this Act, notify borrowers—
+
+&emsp;&emsp;"(A) of the actions taken in accordance with subsections (a) and (b) for whom payments have been suspended and interest waived;
+
+&emsp;&emsp;"(B) of the actions taken in accordance with subsection (e) for whom collections have been suspended;
+
+&emsp;&emsp;"(C) of the option to continue making payments toward principal; and
+
+&emsp;&emsp;"(D) that the program under this section is a temporary program.
+
+&emsp;"(2) beginning on August 1, 2020, carry out a program to provide not less than 6 notices by postal mail, telephone, or electronic communication to borrowers indicating—
+
+&emsp;&emsp;"(A) when the borrower's normal payment obligations will resume; and
+
+&emsp;&emsp;"(B) that the borrower has the option to enroll in income-driven repayment, including a brief description of such options.
+
+#### "SEC. 3517. WAIVER AUTHORITY AND REPORTING REQUIREMENT FOR INSTITUTIONAL AID.
+
+"(a)
+
+Waiver Authority.—Notwithstanding any other provision of the Higher Education Act of 1965 (\[20\] U.S.C. 1001 et seq.), unless enacted with specific reference to this section, for any institution of higher education that was receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act (20 U.S.C. 1051 et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency, the Secretary may, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency—
+
+&emsp;"(1) waive—
+
+&emsp;&emsp;"(A) the eligibility data requirements set forth in section 391(d) and 521(e) of the Higher Education Act of 1965 (20 U.S.C. 1068(d); 1103(e));
+
+&emsp;&emsp;"(B) the wait-out period set forth in section 313(d) of the Higher Education Act of 1965 (20 U.S.C. 1059(d));
+
+&emsp;&emsp;"(C) the allotment requirements under paragraphs (2) and (3) of subsection \[sic\] 318(e) of the Higher Education Act of 1965 (20 U.S.C. 1059e(e)), and the reference to 'the academic year preceding the beginning of that fiscal year' under such section 318(e)(1);
+
+&emsp;&emsp;"(D) the allotment requirements under subsections (b), (c), and (g) of section 324 of the Higher Education Act of 1965 (20 U.S.C. 1063), the reference to 'the end of the school year preceding the beginning of that fiscal year' under such section 324(a), and the reference to 'the academic year preceding such fiscal year' under such section 324(h);
+
+&emsp;&emsp;"(E) subparagraphs (A), (C), (D), and (E) of section 326(f)(3) of the Higher Education Act of 1965 (20 U.S.C. 1063b(f)(3)), and references to 'previous year' under such section 326(f)(3)(B);
+
+&emsp;&emsp;"(F) subparagraphs (A), (C), (D), and (E) of section 723(f)(3) and subparagraphs (A), (C), (D), and (E) of section 724(f)(3) of the Higher Education Act of 1965 (20 U.S.C. 1136a(f)(3); 1136b(f)(3)), and references to 'previous academic year' under subparagraph (B) of such sections 723(f)(3) and 724(f)(3); and
+
+&emsp;&emsp;"(G) the allotment restriction set forth in section 318(d)(4) and section 323(c)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059e(d)(4); 1062(c)(2)); and
+
+&emsp;"(2) waive or modify any statutory or regulatory provision to ensure that institutions that were receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act (20 U.S.C. 1051 et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency are not adversely affected by any formula calculation for fiscal year 2020 and for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, as necessary.
+
+"(b)
+
+Use of Unexpended Funds.—Any funds paid to an institution under title III, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 (20 U.S.C. 1051 et seq.; 1101 et seq.; 1136a et seq.) and not expended or used for the purposes for which the funds were paid to the institution during the 5-year period following the date on which the funds were first paid to the institution, may be carried over and expended during the succeeding 5-year period.
+
+"(c)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\], and every 180 days thereafter for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) a report that identifies each institution that received a waiver or modification under this section.
+
+#### "SEC. 3518. AUTHORIZED USES AND OTHER MODIFICATIONS FOR GRANTS.
+
+"(a)
+
+In General.—The Secretary is authorized to modify the required and allowable uses of funds for grants awarded under part A or B of title III, chapter I or II of subpart 2 of part A of title IV, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 (20 U.S.C. 1057 et seq.; 1060 et seq.; 1070a–11 et seq.; 1070a–21 et seq.; 1101 et seq.; 1136a et seq.) to an institution of higher education or other grant recipient (not including individual recipients of Federal student financial assistance), at the request of an institution of higher education or other recipient of a grant (not including individual recipients of Federal student financial assistance) as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency.
+
+"(b)
+
+Matching Requirement Modifications.—Notwithstanding any other provision of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), the Secretary is authorized to modify any Federal share or other financial matching requirement for a grant awarded on a competitive basis or a grant awarded under part A or B of title III or subpart 4 of part A of title VII of the Higher Education Act of 1965 (20 U.S.C. 1057 et seq.; 1060 et seq.; 1136a et seq.) at the request of an institution of higher education or other grant recipient as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency.
+
+"(c)
+
+Reports.—Not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\], and every 180 days thereafter for the duration of the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) a report that identifies each institution of higher education or other grant recipient that received a modification under this section.
+
+#### "SEC. 3519. SERVICE OBLIGATIONS FOR TEACHERS.
+
+"(a)
+
+Teach Grants.—For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g–2), during a qualifying emergency, the Secretary—
+
+&emsp;"(1) may modify the categories of extenuating circumstances under which a recipient of a grant under subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.) who is unable to fulfill all or part of the recipient's service obligation may be excused from fulfilling that portion of the service obligation; and
+
+&emsp;"(2) shall consider teaching service that, as a result of a qualifying emergency, is part-time or temporarily interrupted, to be full-time service and to fulfill the service obligations under such section 420N.
+
+"(b)
+
+Teacher Loan Forgiveness.—Notwithstanding section 428J or 460 of the Higher Education Act of 1965 (20 U.S.C. 1078–10; 1087j), the Secretary shall waive the requirements under such sections that years of teaching service shall be consecutive if—
+
+&emsp;"(1) the teaching service of a borrower is temporarily interrupted due to a qualifying emergency; and
+
+&emsp;"(2) after the temporary interruption due to a qualifying emergency, the borrower resumes teaching service and completes a total of 5 years of qualifying teaching service under such sections, including qualifying teaching service performed before, during, and after such qualifying emergency."
+
+\[Pub. L. 116–260, div. FF, title I, §101(a)(4)(D)(ii), Dec. 27, 2020, 134 Stat. 3083, which directed amendment ofsection 3510(d)(4) of Pub. L. 116–136, set out above, by substituting "identifies, for each such foreign institution—" and subpars. (A) to (C) for "identifies each foreign institution that entered into a written arrangement under subsection (a).", was executed by making the substitution for "identifies each foreign institution that entered into a written arrangement authorized under subsection (a)." to reflect the probable intent of Congress.\]
+
+\[Pub. L. 116–260, div. FF, title I, §101(b), Dec. 27, 2020, 134 Stat. 3083, provided that: "The amendments made by subsection (a) \[amending section 3510 of Pub. L. 116–136, set out above\] shall take effect as if included in the enactment of the CARES Act (Public Law 116–136)."\]
 
 #### Higher Education Extension
 
@@ -326,7 +784,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–300, §1(b), July 31, 2008, 122 Stat. 2998, provided that: "Nothing in this section \[enacting provisions set out above and amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see ShortTitle of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 110–256, §1(b), June 30, 2008, 122 Stat. 2425, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 110–238, §1(b), May 30, 2008, 122 Stat. 1558, provided that: "Nothing in this section \[amending Pub. L. 109–81, set out above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\], by the College Cost Reduction and Access Act (Public Law 110–84) \[see Short Title of 2007 Amendment note above\], or by the Ensuring Continued Access to Student Loans Act of 2008 (Public Law 110–227) \[see Short Title of 2008 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
@@ -416,7 +874,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to:
 
 (e) supplement efforts by States and institutions by disseminating information to assist students in completing their degrees faster and at lower cost.
 
-Sec. 3. <i>Improving Free Inquiry on Campus</i>. (a) To advance the policy described in subsection 2(a) of this order, the heads of covered agencies shall, in coordination with the Director of the Office of Management and Budget, take appropriate steps, in a manner consistentwith applicable law, including the First Amendment, to ensure institutions that receive Federal research or education grants promote free inquiry, including through compliance with all applicable Federal laws, regulations, and policies.
+Sec. 3. <i>Improving Free Inquiry on Campus</i>. (a) To advance the policy described in subsection 2(a) of this order, the heads of covered agencies shall, in coordination with the Director of the Office of Management and Budget, take appropriate steps, in a manner consistent with applicable law, including the First Amendment, to ensure institutions that receive Federal research or education grants promote free inquiry, including through compliance with all applicable Federal laws, regulations, and policies.
 
 (b) "Covered agencies" for purposes of this section are the Departments of Defense, the Interior, Agriculture, Commerce, Labor, Health and Human Services, Transportation, Energy, and Education; the Environmental Protection Agency; the National Science Foundation; and the National Aeronautics and Space Administration.
 

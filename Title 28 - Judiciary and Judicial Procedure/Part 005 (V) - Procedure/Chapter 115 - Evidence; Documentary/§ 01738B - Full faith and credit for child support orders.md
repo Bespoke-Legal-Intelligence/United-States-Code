@@ -84,7 +84,7 @@ Recognition of Child Support Orders.—If 1 or more child support orders have be
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
-&emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, andonly 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
+&emsp;(2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
 &emsp;(3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
@@ -117,6 +117,8 @@ Period of limitation.—In an action to enforce arrears under a child support or
 Registration for Modification.—If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
 (Added Pub. L. 103–383, §3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, §322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, §5554, Aug. 5, 1997, 111 Stat. 636; Pub. L. 113–183, title III, §301(f)(2), Sept. 29, 2014, 128 Stat. 1944.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -158,6 +160,8 @@ Pub. L. 104–193, §322(9), redesignated subsec. (g) as (h).
 
 Subsec. (i). Pub. L. 104–193, §322(13), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–183, title III, §301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that:
@@ -172,7 +176,7 @@ Amendment by Pub. L. 105–33 effective as if included in enactment of title III
 
 #### Effective Date of 1996 Amendment
 
-For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a noteunder section 654 of Title 42, The Public Health and Welfare.
+For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
 
 #### Congressional Findings and Declaration of Purpose
 

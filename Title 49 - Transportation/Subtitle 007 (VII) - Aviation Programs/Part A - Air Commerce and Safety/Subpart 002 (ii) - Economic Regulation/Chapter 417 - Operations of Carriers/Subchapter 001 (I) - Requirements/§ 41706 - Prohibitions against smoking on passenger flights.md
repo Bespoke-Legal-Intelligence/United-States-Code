@@ -6,7 +6,7 @@ Smoking Prohibition in Interstate and Intrastate Air Transportation.—An indivi
 
 &emsp;(1) in an aircraft in scheduled passenger interstate or intrastate air transportation; or
 
-&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if a flight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
+&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if aflight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
 
 (b)
 

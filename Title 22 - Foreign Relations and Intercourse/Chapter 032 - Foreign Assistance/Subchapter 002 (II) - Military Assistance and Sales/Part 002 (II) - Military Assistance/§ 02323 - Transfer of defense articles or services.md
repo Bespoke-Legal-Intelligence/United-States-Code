@@ -28,9 +28,13 @@ A notice under subsection (a) shall include the following:
 
 (Pub. L. 113–235, div. C, title VIII, §8050, Dec. 16, 2014, 128 Stat. 2264.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Department of Defense Appropriations Act, 2015, and also as part of the Consolidated and Further Continuing Appropriations Act, 2015, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 

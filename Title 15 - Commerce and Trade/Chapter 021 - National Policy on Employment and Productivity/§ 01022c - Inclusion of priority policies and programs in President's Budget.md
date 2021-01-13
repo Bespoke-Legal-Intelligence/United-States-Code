@@ -4,7 +4,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 
 &emsp;(A) development of energy sources and supplies, transportation, and environmental improvement;
 
-&emsp;(B) proper attention to the problems and needs of smaller businesses including (i) theavailability of investment capital, management and technical expertise, and technology and labor needs, (ii) analysis of economic and social trends which may affect smaller businesses, (iii) government policies and programs (including agency regulations and excessive paperwork requirements) that may create undue hardship for or reduce the competitiveness of smaller businesses, and (iv) other policies and programs to remove barriers to competition and to strengthen and promote the creation and growth of smaller businesses;
+&emsp;(B) proper attention to the problems and needs of smaller businesses including (i) the availability of investment capital, management and technical expertise, and technology and labor needs, (ii) analysis of economic and social trends which may affect smaller businesses, (iii) government policies and programs (including agency regulations and excessive paperwork requirements) that may create undue hardship for or reduce the competitiveness of smaller businesses, and (iv) other policies and programs to remove barriers to competition and to strengthen and promote the creation and growth of smaller businesses;
 
 &emsp;(C) development of a comprehensive national agricultural policy that assures—
 

@@ -24,5 +24,5 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date
 
-Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 

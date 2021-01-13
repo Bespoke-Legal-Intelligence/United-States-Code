@@ -40,7 +40,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
+&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shallbe effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
 
 #### (B) Full funding amount
 
@@ -128,7 +128,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Notification
 
-&emsp;&emsp;The Governor of each eligible State shall notify the Secretary concerned of an election by an eligible county under this subsection not later than September 30, 2012, and each September 30 thereafter for each succeeding fiscal year.
+&emsp;&emsp;The Governor of each eligible State shall notify the Secretary concerned of an election by an eligible county under this subsection not later than September 30, 2012,and each September 30 thereafter for each succeeding fiscal year.
 
 #### (B) Failure to elect
 
@@ -160,7 +160,7 @@ The payments required under this section for a fiscal year shall be made as soon
 
 &emsp;Payments to States made under this chapter and 25-percent payments made to States and Territories under the Acts of May 23, 1908, and March 1, 1911 (16 U.S.C. 500), shall continue to be made as direct payments and not as Federal financial assistance.
 
-(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020.)
+(Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020.)
 
 #### References in Text
 

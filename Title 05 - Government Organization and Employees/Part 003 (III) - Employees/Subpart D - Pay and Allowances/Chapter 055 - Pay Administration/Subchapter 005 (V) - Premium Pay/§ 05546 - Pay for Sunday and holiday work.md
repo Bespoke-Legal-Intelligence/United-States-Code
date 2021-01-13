@@ -66,7 +66,9 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §405(b)(1), (c), 80 Stat. 297.
 
-In subsection (a), the words "An employee who performs work . . . is entitled to pay . . . at the rate of his basic pay" are coextensive with and substituted for "Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work." The words "section 5542(a) of this title" are substituted for "section 201 of this Act" to reflect the codification of that section in title 5, United States Code. The words "between midnight Saturday and midnight Sunday" are coextensive with and substituted for "within the period commencing at midnight Saturday and ending at midnight Sunday".
+In subsection (a), the words "An employee who performs work . . . is entitled to pay . . . at the rate of hisbasic pay" are coextensive with and substituted for "Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work." The words "section 5542(a) of this title" are substituted for "section 201 of this Act" to reflect the codification of that section in title 5, United States Code. The words "between midnight Saturday and midnight Sunday" are coextensive with and substituted for "within the period commencing at midnight Saturday and ending at midnight Sunday".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ In subsection (a), the words "An employee who performs work . . . is entitled 
 <b>1968</b>—Subsec. (b). Pub. L. 90–623, §1(13)(A), substituted "District of Columbia Council" for "Board of Commissioners of the District of Columbia".
 
 Subsec. (d). Pub. L. 90–623, §1(13)(B), substituted "5542(a)" for "5442(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

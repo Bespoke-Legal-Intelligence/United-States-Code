@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–518, title III, §304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.

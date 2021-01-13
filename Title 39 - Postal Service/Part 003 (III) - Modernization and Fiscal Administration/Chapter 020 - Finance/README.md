@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–435, title IV, §401(a)(2), Dec. 20, 2006, 120 Stat. 3225, added item 2011.
@@ -25,9 +27,11 @@
 
 <b>1989</b>—Pub. L. 101–239, title IV, §4001(a)(2), Dec. 19, 1989, 103 Stat. 2133, added item 2009a.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Disposition of Savings Accruing to the United States Postal Service
 
-Pub. L. 108–18, §3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to theUnited States Postal Service, was repealed by Pub. L. 109–435, title VIII, §804(a), Dec. 20, 2006, 120 Stat. 3253.
+Pub. L. 108–18, §3, Apr. 23, 2003, 117 Stat. 627, which provided for disposition of savings accruing to the United States Postal Service, was repealed by Pub. L. 109–435, title VIII, §804(a), Dec. 20, 2006, 120 Stat. 3253.
 
 
 ---

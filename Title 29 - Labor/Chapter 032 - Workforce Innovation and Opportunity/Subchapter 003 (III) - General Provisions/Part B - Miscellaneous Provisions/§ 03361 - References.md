@@ -10,9 +10,11 @@ Except as otherwise specified, a reference in a Federal law to a provision of th
 
 #### (c) Disability-related references
 
-Except as otherwise specified, a reference in a Federal law to a provision of the RehabilitationAct of 1973 (29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
+Except as otherwise specified, a reference in a Federal law to a provision of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
 
 (Pub. L. 113–128, title V, §513, July 22, 2014, 128 Stat. 1722.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105
 The Wagner-Peyser Act, referred to in subsec. (b), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title and was amended extensively by title III of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of this title and was amended extensively by title IV of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

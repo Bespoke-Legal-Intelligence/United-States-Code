@@ -18,9 +18,13 @@ The conspiracy provision of said section 36 was omitted as covered by section 37
 
 Changes in phraseology were also made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

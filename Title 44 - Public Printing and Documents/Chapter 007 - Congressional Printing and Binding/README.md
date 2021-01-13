@@ -46,11 +46,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 710.
 
 <b>1996</b>—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted "Senators" for "Members of Congress" in item 735.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Records Management Provisions Without Effect on Chapter
 

@@ -24,7 +24,7 @@ Assumption of Obligations.—(1) In the case of a transfer of copyright ownershi
 
 &emsp;&emsp;&emsp;(bb) if no such application is filed, within 18 months before the first publication of the motion picture in the United States.
 
-&emsp;(C) Awareness of other facts and circumstances pertaining to a particular transfer from which it is apparent that the collective bargaining agreement was or will be applicable to the motion picture.
+&emsp;(C) Awareness of other facts and circumstances pertaining to a particular transferfrom which it is apparent that the collective bargaining agreement was or will be applicable to the motion picture.
 
 (b)
 
@@ -61,6 +61,8 @@ Determination of Disputes and Claims.—Any dispute concerning the application o
 Study.—The Comptroller General, in consultation with the Register of Copyrights, shall conduct a study of the conditions in the motion picture industry that gave rise to this section, and the impact of this section on the motion picture industry. The Comptroller General shall report the findings of the study to the Congress within 2 years after the effective date of this chapter.
 
 (Added Pub. L. 105–304, title IV, §406(a), Oct. 28, 1998, 112 Stat. 2903.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Text
 

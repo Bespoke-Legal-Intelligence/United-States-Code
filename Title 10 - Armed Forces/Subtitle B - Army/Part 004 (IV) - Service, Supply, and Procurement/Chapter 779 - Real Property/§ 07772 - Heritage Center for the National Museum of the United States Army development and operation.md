@@ -30,7 +30,7 @@ Use of Certain Gifts.—(1) Under regulations prescribed by the Secretary of the
 
 (f)
 
-Lease of Facility.—(1) Under such terms and conditions as the Secretary of the Army considers appropriate, the Secretary may lease portions of the Center to the Army HistoricalFoundation to be used by the Foundation, consistent with the purpose of the Center, for—
+Lease of Facility.—(1) Under such terms and conditions as the Secretary of the Army considers appropriate, the Secretary may lease portions of the Center to the Army Historical Foundation to be used by the Foundation, consistent with the purpose of the Center, for—
 
 &emsp;(A) generating revenue for activities of the Center through rental use by the public, commercial and nonprofit entities, State and local governments, and other Federal agencies; and
 

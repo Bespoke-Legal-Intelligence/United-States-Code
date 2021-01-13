@@ -50,9 +50,13 @@ Prior to the issuance of a visa under subparagraph (F), subparagraph (M), or, wi
 
 (Pub. L. 107–173, title V, §501, May 14, 2002, 116 Stat. 560.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 501 of Pub. L. 107–173. Subsec. (a) of section 501 of Pub. L. 107–173 amended section 1372 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

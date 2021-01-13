@@ -22,7 +22,7 @@
 
 &emsp;(2) in any other case, by an independent external auditor, as determined by the head of the agency.
 
-(f) For each audited financial statement required under subsection (a) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
+(f) For each audited financial statement required under subsection (a) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance withgenerally accepted government auditing standards.
 
 (g) The Comptroller General of the United States—
 
@@ -38,7 +38,7 @@
 
 (i)(1) If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit, if the Government Accountability Office audited the statement or schedule of such executive agency (or component) for fiscal year 2007.
 
-(2) Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or anyrelated schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
+(2) Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or any related schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
 
 (3) For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
 
@@ -100,9 +100,11 @@ In subsection (b), the words "the Mayor of the District of Columbia" are omitted
 
 In subsection (c), the words "made by him" are omitted as surplus. The words "head of the" are added for consistency. The words "to recover the illegal, improper, or incorrect payment in accordance with procedures" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -115,6 +117,8 @@ The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95�
 <b>1994</b>—Subsec. (f). Pub. L. 103–356 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Not later than June 30 following the fiscal year for which a financial statement is submitted under section 3515 of this title by an agency, the person who audits the statement for purpose of subsection (e) shall submit a report on the audit to the head of the agency. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards."
 
 <b>1990</b>—Subsecs. (e) to (h). Pub. L. 101–576 added subsecs. (e) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -132,7 +136,7 @@ Pub. L. 105–206, title I, §1103(d), July 22, 1998, 112 Stat. 709, provided th
 
 &emsp;"(2) the Treasury Inspector General for Tax Administration shall—
 
-&emsp;&emsp;"(A) audit that portion of each financial statement referred to under paragraph (1)(A) that relatesto custodial and administrative accounts of the Internal Revenue Service; and
+&emsp;&emsp;"(A) audit that portion of each financial statement referred to under paragraph (1)(A) that relates to custodial and administrative accounts of the Internal Revenue Service; and
 
 &emsp;&emsp;"(B) prepare that portion of each report referred to under paragraph (1)(B) that relates to custodial and administrative accounts of the Internal Revenue Service."
 

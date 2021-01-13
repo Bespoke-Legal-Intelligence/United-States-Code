@@ -48,7 +48,7 @@
 
 &emsp;(14) Compensation for loss of binocular vision or for loss of 80 percent or more of the vision of an eye is the same as for loss of the eye.
 
-&emsp;(15) Compensation for loss of more than one phalanx of a digit is the same as for loss of theentire digit. Compensation for loss of the first phalanx is one-half of the compensation for loss of the entire digit.
+&emsp;(15) Compensation for loss of more than one phalanx of a digit is the same as for loss of the entire digit. Compensation for loss of the first phalanx is one-half of the compensation for loss of the entire digit.
 
 &emsp;(16) If, in the case of an arm or a leg, the member is amputated above the wrist or ankle, compensation is the same as for loss of the arm or leg, respectively.
 
@@ -118,11 +118,15 @@ In subsection (a), the words "If there is" are substituted for "In any case of".
 
 In subsection (b), the words "an employee is entitled to compensation" are substituted for "compensation shall be paid" for consistency with subsection (a). In subsections (b) (1) and (2), the words "section 8105 of this title" and "section 8106 of this title" are substituted for "section 3" and "subsection (a) of section 4", respectively, to reflect the codification of title 5.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–416, §4, substituted "involving the loss, or loss of use" for "involving the loss of use".
 
 Subsec. (c)(22). Pub. L. 93–416, §5, added par. (22).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

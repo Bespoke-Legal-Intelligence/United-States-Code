@@ -46,7 +46,7 @@ Outreach Program.—(1) The Secretary shall carry out an outreach program to pro
 
 (f)
 
-Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives an initial report that contains an evaluation of outreach activities carried out by the Secretary with respect to homeless veterans, including outreach regarding clinical issues and other benefits administered under this title. The Secretary shall conduct the evaluation in consultation with the Under Secretary for Benefits, the Department of Veterans Affairs central office official responsible for the administration of the Readjustment Counseling Service, the Director of Homeless Veterans Programs, and the Department of Veterans Affairs central office official responsible for the administration of the Mental Health Strategic Health Care Group.
+Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives an initial report that contains an evaluation of outreach activities carried out by the Secretary with respect to homeless veterans, including outreach regarding clinical issues and other benefits administered under this title. The Secretary shall conduct the evaluation in consultation with the Under Secretary for Benefits, the Department of Veterans Affairs central office official responsible for theadministration of the Readjustment Counseling Service, the Director of Homeless Veterans Programs, and the Department of Veterans Affairs central office official responsible for the administration of the Mental Health Strategic Health Care Group.
 
 (2) Not later than December 31, 2005, the Secretary shall submit to the committees referred to in paragraph (1) an interim report on outreach activities carried out by the Secretary with respect to homeless veterans. The report shall include the following:
 
@@ -67,6 +67,8 @@ Reports.—(1) Not later than October 1, 2002, the Secretary shall submit to the
 &emsp;(D) Recommendations, if any, regarding an extension or modification of such outreach plan, such outreach program, and such demonstration program.
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 910; amended Pub. L. 110–387, title VI, §602(d)(3), Oct. 10, 2008, 122 Stat. 4132.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

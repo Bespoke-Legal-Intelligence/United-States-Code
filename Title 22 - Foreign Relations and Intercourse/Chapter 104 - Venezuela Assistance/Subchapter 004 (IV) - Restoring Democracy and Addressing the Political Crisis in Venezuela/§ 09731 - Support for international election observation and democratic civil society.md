@@ -22,7 +22,7 @@ The Secretary of State, acting through the United States Permanent Representativ
 
 #### (c) Briefing requirement
 
-Not later than 180 days after December 20, 2019, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shallprovide a briefing on the strategy to carry out the activities described in subsection (a) to—
+Not later than 180 days after December 20, 2019, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall provide a briefing on the strategy to carry out the activities described in subsection (a) to—
 
 &emsp;(1) the Committee on Foreign Relations of the Senate;
 

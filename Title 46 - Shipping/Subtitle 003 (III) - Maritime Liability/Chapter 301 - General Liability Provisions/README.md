@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 301, consisting of section 30101, provided definitions for purposes of this subtitle, prior to repeal by Pub. L. 109–304, §6(b), Oct. 6, 2006, 120 Stat. 1509.

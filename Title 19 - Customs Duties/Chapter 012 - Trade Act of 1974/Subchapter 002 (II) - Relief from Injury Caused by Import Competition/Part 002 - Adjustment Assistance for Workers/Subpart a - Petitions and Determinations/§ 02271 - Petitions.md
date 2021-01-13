@@ -22,7 +22,7 @@
 
 If the petitioner, or any other person found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
-(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4),Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(1), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §221, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(a), Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(4), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1801(e)(1), Feb. 17, 2009, 123 Stat. 370; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(1), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
@@ -100,7 +100,7 @@ In General.—Except as otherwise provided in this subtitle \[subtitle I (§§18
 
 Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
 
-&emsp;"(1) a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under subchapter B of chapter 2 of title II of the Trade Act of 1974 \[subpart B of this part\], as in effect on the day before the effective date described in subsection (a)(1), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on the day before such effective date, if the worker—
+&emsp;"(1) a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under subchapter B of chapter 2 of title II of the Trade Act of 1974 \[subpart B of this part\], as in effect on the day before the effective date described insubsection (a)(1), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on the day before such effective date, if the worker—
 
 &emsp;&emsp;"(A) is certified as eligible for trade adjustment assistance benefits under such chapter 2 pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or before such effective date; and
 
@@ -126,33 +126,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–182, title V, §506, Dec. 8, 1993, 107 Stat. 2152, provided that:
-
-"(a)
-
-In General.—The amendments made by sections 501, 502, 503, 504, and 505 \[enacting sections 2322 and 2331 of this title and amending this section, sections 2272, 2273, 2275, 2317, and 2395 of this title, and provisions set out as a note preceding this section\] shall take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
-
-"(b)
-
-Covered Workers.—
-
-&emsp;"(1)
-
-General rule.—Except as provided in paragraph (2), no worker shall be certified as eligible to receive assistance under subchapter D of chapter 2 of title II of the Trade Act of 1974 \[former 19 U.S.C. 2331 et seq.\] (as added by this subtitle) whose last total or partial separation from a firm (or appropriate subdivision of a firm) occurred before such date of entry into force.
-
-&emsp;"(2)
-
-Reachback.—Notwithstanding paragraph (1), any worker—
-
-&emsp;&emsp;"(A) whose last total or partial separation from a firm (or appropriate subdivision of a firm) occurs—
-
-&emsp;&emsp;&emsp;"(i) after the date of the enactment of this Act \[Dec. 8, 1993\], and
-
-&emsp;&emsp;&emsp;"(ii) before such date of entry into force, and
-
-&emsp;&emsp;"(B) who would otherwise be eligible to receive assistance under subchapter D of chapter 2 of title II of the Trade Act of 1974,
-
-> &emsp;shall be eligible to receive such assistance in the same manner as if such separation occurred on or after such date of entry into force."
+Pub. L. 103–182, title V, §506, Dec. 8, 1993, 107 Stat. 2152, which provided that the amendments made by sections 501 to 505 of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), with provisions related to assistance to certain workers separated from firms, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Termination Date
 
@@ -208,7 +182,7 @@ Petitions filed before january 1, 2014.—A worker certified as eligible to appl
 
 &emsp;"(3)
 
-Qualifying separations with respect to petitions filed within 90 days of date of enactment.—Section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], as in effect on the date of the enactment of this Act, shall be applied and administered by substituting 'before January 1, 2014' for 'more than one year before the date of the petition on which such certification was granted' for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 on or after the date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
+Qualifying separations with respect to petitions filed within 90 days of date of enactment.—Section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], as in effect on the date of the enactment of this Act, shall be applied and administered by substituting 'before January 1, 2014' for 'more than one year before the date of the petition on which such certification was granted' for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 on or afterthe date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
 
 "(b)
 
@@ -314,7 +288,7 @@ Petitions filed before february 13, 2011.—A worker certified as eligible to ap
 
 &emsp;&emsp;"(A) on or after May 18, 2009, and on or before February 12, 2011, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act \[this part\], as in effect on February 12, 2011; or
 
-&emsp;&emsp;"(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
+&emsp;&emsp;"(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under theprovisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
 
 &emsp;"(3)
 

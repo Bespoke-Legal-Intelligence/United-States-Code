@@ -128,7 +128,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (D) Limitation on payment for a fiscal year
 
-&emsp;&emsp;No payment shall be made under subparagraph (A) or (C) for a fiscal year until the Secretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
+&emsp;&emsp;No payment shall be made under subparagraph (A) or (C) for a fiscal year until theSecretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
 
 #### (4) Application requirements
 
@@ -150,7 +150,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.
 
-&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined tobe appropriate for the child and the child's family.
+&emsp;&emsp;(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and the child's family.
 
 &emsp;&emsp;(E) A description of a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period, including through the use of prevention services and programs under section 671(e) of this title and other funds provided to the State for child welfare and substance abuse prevention and treatment services.
 
@@ -300,7 +300,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
 
-&emsp;&emsp;(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being asex trafficking victim <sup>2</sup> or children missing from foster care; and
+&emsp;&emsp;(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim <sup>2</sup> or children missing from foster care; and
 
 &emsp;&emsp;(C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
@@ -444,7 +444,7 @@ Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

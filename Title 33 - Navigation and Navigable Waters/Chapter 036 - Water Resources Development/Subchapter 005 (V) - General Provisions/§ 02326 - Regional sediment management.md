@@ -68,11 +68,11 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 
 #### (1) In general
 
-&emsp;In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest, a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
+&emsp;At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select a disposal method that is not the least cost option if the Secretary determines that the incremental costs of the disposal method are reasonable in relation to—
 
 &emsp;&emsp;(A) the environmental benefits, including the benefits to the aquatic environment to be derived from the creation of wetlands and control of shoreline erosion; or
 
-&emsp;&emsp;(B) the flood and storm damage and flood reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
+&emsp;&emsp;(B) the hurricane and storm or flood risk reduction benefits, including shoreline protection, protection against loss of life, and damage to improved property.
 
 #### (2) Federal share
 
@@ -85,6 +85,14 @@ Subject to subsection (c), projects carried out under subsection (a) may be carr
 #### (4) Disposal at non-Federal cost
 
 &emsp;The Secretary may accept funds from a non-Federal interest to dispose of dredged material as provided under section 2213(d)(1) of this title.
+
+#### (5) Selection of dredged material disposal method for certain purposes
+
+&emsp;Activities carried out under this subsection—
+
+&emsp;&emsp;(A) shall be carried out using amounts appropriated for construction or operation and maintenance of the project involving the disposal of the dredged material; and
+
+&emsp;&emsp;(B) shall not carried <sup>1</sup> out using amounts made available under subsection (g).
 
 #### (e) State and regional plans
 
@@ -126,13 +134,21 @@ In carrying out this section, the Secretary shall give priority to a regional se
 
 There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
 
-(Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, §209, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2037(a), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, §§1030(d)(1), 1038, June 10, 2014, 128 Stat. 1232, 1236; Pub. L. 114–322, title I, §1122(i), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §§1150, 1157(d), Oct. 23, 2018, 132 Stat. 3787, 3794.)
+(Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, §209, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2037(a), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, §§1030(d)(1), 1038, June 10, 2014, 128 Stat. 1232, 1236; Pub. L. 114–322, title I, §1122(i), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §§1150, 1157(d), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, §125(a)(2)(C), Dec. 27, 2020, 134 Stat. 2637.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1992, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (d)(1). Pub. L. 116–260, §125(a)(2)(C)(i)(I), in introductory provisions, substituted "At the request of the non-Federal interest for a water resources development project involving the disposal of dredged material, the Secretary, using funds appropriated for construction or operation and maintenance of the project, may select" for "In developing and carrying out a Federal water resources project involving the disposal of dredged material, the Secretary may select, with the consent of the non-Federal interest,".
+
+Subsec. (d)(1)(B). Pub. L. 116–260, §125(a)(2)(C)(i)(II), substituted "hurricane and storm or flood risk reduction benefits" for "flood and storm damage and flood reduction benefits".
+
+Subsec. (d)(5). Pub. L. 116–260, §125(a)(2)(C)(ii), added par. (5).
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–270, §1150, inserted "including a project authorized for flood control," after "an authorized Federal water resources project,".
 
@@ -166,21 +182,35 @@ Subsec. (g). Pub. L. 106–53, §209(2), added subsec. (g).
 
 <b>1996</b>—Subsecs. (e), (f). Pub. L. 104–303 added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Applicability
 
 Pub. L. 110–114, title II, §2037(c), as added by Pub. L. 113–121, title I, §1030(d)(2), June 10, 2014, 128 Stat. 1232, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply to any project authorized under this Act \[see Tables for classification\] if a report of the Chief of Engineers for the project was completed prior to the date of enactment of this Act \[Nov. 8, 2007\]."
 
+#### Project Selection
+
+Pub. L. 116–260, div. AA, title I, §125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: "In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 \[Pub. L. 114–322\] (33 U.S.C. 2326 note), the Secretary \[of the Army\] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section."
+
+#### Coordination With Existing Authorities
+
+Pub. L. 116–260, div. AA, title I, §125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: "The Secretary \[of the Army\] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 \[Pub. L. 115–270\] (33 U.S.C. 2326 note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act \[Dec. 27, 2020\]."
+
 #### Dredge Pilot Program
 
-Pub. L. 115–270, title I, §1111, Oct. 23, 2018, 132 Stat. 3774, provided that:
+Pub. L. 115–270, title I, §1111, Oct. 23, 2018, 132 Stat. 3774, as amended by Pub. L. 116–260, div. AA, title I, §125(d)(1), Dec. 27, 2020, 134 Stat. 2640, provided that:
 
 "(a)
 
-In General.—The Secretary \[of the Army\] is authorized to carry out a pilot program to award contracts with a duration of up to 5 years for the operation and maintenance of harbors and inland harbors referred to in section 210(a)(2) of the Water Resources Development Act of 1986 (33 U.S.C. 2238(a)(2)).
+In General.—The Secretary \[of the Army\] is authorized to carry out a pilot program to award contracts with a duration of up to 5 years for the operation and maintenance of—
+
+&emsp;"(1) harbors and inland harbors referred to in section 210(a)(2) of the Water Resources Development Act of 1986 (33 U.S.C. 2238(a)(2)); or
+
+&emsp;"(2) inland and intracoastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804).
 
 "(b)
 
-Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors or inland harbors in a geographical region, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis.
+Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors, inland harbors, or inland or intracoastal waterways in a geographical region, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis.
 
 "(c)
 
@@ -212,7 +242,7 @@ Limitation.—If the Secretary grants a temporary easement under subsection (a) 
 
 #### Beneficial Use of Dredged Material
 
-Pub. L. 114–322, title I, §1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, §1130, Oct. 23, 2018, 132 Stat. 3780, provided that:
+Pub. L. 114–322, title I, §1122(a)–(h), Dec. 16, 2016, 130 Stat. 1645, 1646, as amended by Pub. L. 115–270, title I, §1130, Oct. 23, 2018, 132 Stat. 3780; Pub. L. 116–260, div. AA, title I, §125(b)(1), Dec. 27, 2020, 134 Stat. 2638, provided that:
 
 "(a)
 
@@ -228,7 +258,7 @@ In General.—Not later than 90 days after the date of enactment of this Act \[D
 
 &emsp;"(5) promoting recreation;
 
-&emsp;"(6) supporting risk management adaptation strategies; and
+&emsp;"(6) supporting risk management adaptation strategies;
 
 &emsp;"(7) reducing the costs of dredging and dredged material placement or disposal, such as projects that use dredged material for—
 
@@ -236,13 +266,15 @@ In General.—Not later than 90 days after the date of enactment of this Act \[D
 
 &emsp;&emsp;"(B) civic improvement objectives; and
 
-&emsp;&emsp;"(C) other innovative uses and placement alternatives that produce public economic or environmental benefits.
+&emsp;&emsp;"(C) other innovative uses and placement alternatives that produce public economic or environmental benefits; and
+
+&emsp;"(8) recovering lost storage capacity in reservoirs due to sediment accumulation, if the project also has a purpose described in any of paragraphs (1) through (7).
 
 "(b)
 
 Project Selection.—In carrying out the pilot program, the Secretary shall—
 
-&emsp;"(1) identify for inclusion in the pilot program and carry out 20 projects for the beneficial use of dredged material;
+&emsp;"(1) identify for inclusion in the pilot program and carry out 35 projects for the beneficial use of dredged material;
 
 &emsp;"(2) consult with relevant State agencies in selecting projects; and
 
@@ -304,7 +336,7 @@ In general.—Projects carried out under this section shall be subject to the co
 
 &emsp;"(2)
 
-Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositingdredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities.
+Additional costs.—Notwithstanding paragraph (1), if the cost of transporting and depositing dredged material for a project carried out under this section exceeds the cost of carrying out those activities pursuant to any other water resources project in accordance, if applicable, with the Federal standard (as defined in section 335.7 of title 33, Code of Federal Regulations), the Secretary may not require the non-Federal interest to bear the additional cost of such activities.
 
 "(f)
 
@@ -320,7 +352,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[Dec. 
 
 "(g)
 
-Termination.—The pilot program shall terminate after completion of the 20 projects carried out pursuant to subsection (b)(1).
+Termination.—The pilot program shall terminate after completion of the 35 projects carried out pursuant to subsection (b)(1).
 
 "(h)
 
@@ -329,4 +361,6 @@ Exemption From Other Standards.—The projects carried out under this section sh
 #### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "be".</i>
 

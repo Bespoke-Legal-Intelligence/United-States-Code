@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (B) Qualified natural gas supply contract
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract" means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by theutility during any year does not exceed the sum of—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified natural gas supply contract" means any contract to acquire natural gas for resale by a utility owned by a governmental unit if the amount of gas permitted to be acquired under the contract by the utility during any year does not exceed the sum of—
 
 &emsp;&emsp;&emsp;(i) the annual average amount during the testing period of natural gas purchased (other than for resale) by customers of such utility who are located within the service area of such utility, and
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Bonds used to provide construction financing
 
-&emsp;&emsp;In the case of an issue described in subparagraph (A) any portion of which is used to make or finance loans for construction expenditures (within the meaning of subsection (f)(4)(C)(iv))—
+&emsp;&emsp;In the case of an issue described in subparagraph (A) any portion of which is usedto make or finance loans for construction expenditures (within the meaning of subsection (f)(4)(C)(iv))—
 
 &emsp;&emsp;&emsp;(i) rules similar to the rules of subsection (f)(4)(C)(v) shall apply, and
 
@@ -214,7 +214,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposes for which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
+&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposesfor which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements of paragraph (2) are met with respect to amounts not required to be spent as provided in subclause (I) (other than earnings on amounts in any bona fide debt service fund).
 
@@ -338,7 +338,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (III) Redemption of bonds at earliest call date
 
-&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which isnot spent for the governmental purposes of the issue as of the earliest date on which bonds may be redeemed is used to redeem bonds on such date.
+&emsp;&emsp;&emsp;&emsp;The requirement of this subclause is met if the amount of the available construction proceeds of the issue which is not spent for the governmental purposes of the issue as of the earliest date on which bonds may be redeemed is used to redeem bonds on such date.
 
 #### (ix) Election to terminate 1½ percent penalty before end of temporary period
 
@@ -352,7 +352,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(IV) the issuer makes an election under this clause before the close of the initial temporary period and not later than 90 days after the date the construction is substantially completed,
 
-&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds so identified as if the initial temporary period ended as of the date the election is made.
+&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds soidentified as if the initial temporary period ended as of the date the election is made.
 
 #### (x) Failure to pay penalties
 
@@ -470,7 +470,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
-&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $10,000,000 or so much of the aggregate faceamount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
+&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $10,000,000 or so much of the aggregate face amount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
 
 #### (5) Exemption from gross income of sum rebated
 
@@ -628,7 +628,7 @@ Amendment by Pub. L. 109–58 applicable to obligations issued after Aug. 8, 200
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001."
+Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
@@ -644,7 +644,7 @@ Pub. L. 101–508, title XI, §11701(j)(8), Nov. 5, 1990, 104 Stat. 1388–513, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made bythis section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by sections 7814(c)(2) and 7816(r), (t) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 

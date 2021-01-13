@@ -70,6 +70,8 @@ June 18, 1965, Pub. L. 89–43, 79 Stat. 135.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–614, §5(a)(1), inserted "or renaming an existing executive department".
@@ -91,6 +93,8 @@ Subsec. (b). Pub. L. 95–17 substituted "within three years of the date of enac
 Subsec. (b). Pub. L. 92–179, §4(b), substituted "April 1, 1973" for "April 1, 1971".
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–5 substituted "April 1, 1971" for "December 31, 1968".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Plan for Transportation Department Reorganization
 

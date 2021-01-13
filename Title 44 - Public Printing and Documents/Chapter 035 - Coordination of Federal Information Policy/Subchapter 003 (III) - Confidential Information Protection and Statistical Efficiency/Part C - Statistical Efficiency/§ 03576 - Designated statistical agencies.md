@@ -54,7 +54,7 @@ Responsibilities of agencies under other laws.—The provision of business data 
 
 &emsp;(3)
 
-Responsibilities of officers, employees, and agents.—Examination of business data in identifiable form shall be limited to the officers, employees, and agents authorized to examine the individual reports in accordance with written agreements pursuant to this section. Officers, employees, and agents of a Designated Statistical Agency who receive data pursuant to this section shall be subject to all provisions of law, including penalties, that relate—
+Responsibilities of officers, employees, and agents.—Examination of business data in identifiable form shall be limited to the officers, employees, and agents authorizedto examine the individual reports in accordance with written agreements pursuant to this section. Officers, employees, and agents of a Designated Statistical Agency who receive data pursuant to this section shall be subject to all provisions of law, including penalties, that relate—
 
 &emsp;&emsp;(A) to the unlawful provision of the business data that would apply to the officers, employees, and agents of the agency that originally obtained the information; and
 
@@ -87,6 +87,8 @@ Designated Statistical Agency Defined.—In this section, the term "Designated S
 &emsp;(3) The Bureau of Labor Statistics of the Department of Labor.
 
 (Added Pub. L. 115–435, title III, §302(a), Jan. 14, 2019, 132 Stat. 5550.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

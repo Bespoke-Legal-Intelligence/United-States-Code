@@ -26,7 +26,7 @@
 
 (e) The General Counsel is not subject to section 771(1) and (2) of this title when making a decision about a surviving spouse or child under subsection (c) or (d) of this section.
 
-(f) If the annuities of all individuals entitled to survivor annuities under this subchapter end before the amount of annuities paid equals the amount deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, the remainder shall be paid under subsection (d) of this section.
+(f) If the annuities of all individuals entitled to survivor annuities under this subchapter endbefore the amount of annuities paid equals the amount deducted under sections 772 and 773 of this title, plus interest of 4 percent before January 1, 1948, and 3 percent after December 31, 1947, compounded every December 31 until the date of death, the remainder shall be paid under subsection (d) of this section.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 905; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -75,6 +75,8 @@ In subsection (d), the words before clause (1) are included for clarity. In clau
 In subsection (e), the words "of a Comptroller General or retired Comptroller General" are omitted as surplus. The words "is not subject to" are substituted for "shall be made . . . without regard to the definitions of these terms in" to eliminate unnecessary words.
 
 In subsection (f), the word "individuals" is substituted for "persons" for consistency. The word "aggregate" is omitted as surplus. The words "under sections 772 and 773 of this title" are substituted for "total . . . from the salary and retirement pay of a Comptroller General or retired Comptroller General" for clarity and consistency. The word "under" is substituted for "in the order of precedence prescribed in" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

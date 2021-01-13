@@ -4,7 +4,7 @@
 
 (b) The Commissioner shall establish an overall plan to govern the approval of research, demonstration, and pilot projects and the use of all research authority under this subchapter. The plan shall set forth specific objectives to be achieved and priorities among such objectives.
 
-(Pub. L. 88–452, title VIII, §805, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 102–375, title VIII, §822(5), Sept. 30, 1992, 106 Stat. 1298.)
+(Pub. L. 88–452, title VIII, §805, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amendedPub. L. 102–375, title VIII, §822(5), Sept. 30, 1992, 106 Stat. 1298.)
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ Flight Cancellation.—If a decision is made that a particular threat cannot be 
 
 (c)
 
-Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
+Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuringthat public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
 
 &emsp;(A) deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
 

@@ -52,6 +52,8 @@ In carrying out sustainable poverty-focused programs under subsection (a)—
 
 (Pub. L. 87–195, pt. I, §252, as added Pub. L. 108–484, §3, Dec. 23, 2004, 118 Stat. 3924; amended Pub. L. 115–428, §4(b), Jan. 9, 2019, 132 Stat. 5512.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 252 of Pub. L. 87–195 was classified to section 2212 of this title, prior to repeal by Pub. L. 95–424, title I, §102(g)(1)(A), title VI, §605, Oct. 6, 1978, 92 Stat. 942, 961, effective Oct. 1, 1978.
@@ -86,5 +88,5 @@ Subsec. (b)(2)(C). Pub. L. 115–428, §4(b)(2)(ii), inserted ", particularly b
 
 Subsec. (b)(3). Pub. L. 115–428, §4(b)(2)(C), struck out par. (3). Text read as follows: "With respect to assistance provided under this section, the office shall be responsible for concurring in the microenterprise development components of strategic plans of missions, bureaus, and other offices of the Agency and providing technical support to field missions to help the missions prepare such components.".
 
-Subsec. (c). Pub. L. 115–428, §4(b)(3), substituted "subsection (a)—" and pars. (1) and (2) for "subsection (a), 50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—" and former pars. (1) and (2) which identified as entities eligible for microenterprise resources under subsec. (a) programs through certain practitioner institutions and for certain demand-driven business development programs, respectively.
+Subsec. (c). Pub. L. 115–428, §4(b)(3), substituted "subsection (a)—" and pars. (1) and (2) for "subsection (a),50 percent of all microenterprise resources shall be targeted to clients who are very poor. Specifically, until September 30, 2006, such resources shall be used for—" and former pars. (1) and (2) which identified as entities eligible for microenterprise resources under subsec. (a) programs through certain practitioner institutions and for certain demand-driven business development programs, respectively.
 

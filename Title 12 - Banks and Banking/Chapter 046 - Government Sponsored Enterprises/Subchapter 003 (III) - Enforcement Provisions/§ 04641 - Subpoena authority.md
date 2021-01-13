@@ -24,7 +24,7 @@ The attendance of witnesses and the production of documents provided for in this
 
 #### (2) Power of court
 
-&emsp;The courts described under paragraph (1) shall have the jurisdiction and power to order and require compliance with any subpoena issued under paragraph (1).
+&emsp;The courts described under paragraph (1) shall have the jurisdiction and power to orderand require compliance with any subpoena issued under paragraph (1).
 
 #### (d) Fees and expenses
 
@@ -43,6 +43,8 @@ A person shall be guilty of a misdemeanor, and upon conviction, shall be subject
 &emsp;(4) produce books, papers, correspondence, contracts, agreements, or such other records as requested in the subpoena.
 
 (Pub. L. 102–550, title XIII, §1379D, formerly §1379B, Oct. 28, 1992, 106 Stat. 3994; renumbered §1379D and amended Pub. L. 110–289, div. A, title I, §§1153(a)(1), 1156(b)(4), 1158, July 30, 2008, 122 Stat. 2770, 2777, 2778.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

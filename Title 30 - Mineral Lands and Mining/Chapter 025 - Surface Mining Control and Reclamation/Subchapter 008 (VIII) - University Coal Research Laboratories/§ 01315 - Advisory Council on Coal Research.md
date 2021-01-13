@@ -36,9 +36,13 @@ Whenever a member of the Council appointed under clauses (1) through (5) is unab
 
 (Pub. L. 95–87, title VIII, §805, Aug. 3, 1977, 91 Stat. 528; Pub. L. 95–617, title VI, §604(c), Nov. 9, 1978, 92 Stat. 3167; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–617 substituted "Secretary of Energy" for "Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -50,7 +54,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

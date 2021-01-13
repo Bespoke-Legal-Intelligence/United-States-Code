@@ -10,7 +10,7 @@
 
 #### (A) Knowing violations
 
-&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of 2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
+&emsp;&emsp;Except as otherwise provided by subtitle B of the Consumer Financial Protection Act of 2010, in the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Federal Trade Commission may commence a civil action to recover a civil penalty in a districtcourt of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
 #### (B) Determining penalty amount
 
@@ -72,7 +72,7 @@
 
 #### (2) Rights of Federal regulators
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureauand the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 
@@ -130,7 +130,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 #### (3) Annual summary reports
 
-&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit anannual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
 
 #### (g) Bureau regulation of coding of trade names
 
@@ -200,7 +200,7 @@ Subsec. (g). Pub. L. 108–159, §412(e), added subsec. (g).
 
 Subsec. (d). Pub. L. 106–102, §506(a)(1), struck out at the end "Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter."
 
-Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section."
+Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out heading and text of former subsec.\(e). Text read as follows: "The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section."
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–347 struck out "or (e)" after "subject to subsection (d)" in introductory provisions.
 

@@ -32,9 +32,11 @@
 
 (e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
 
-(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net incomeor profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
+(2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335,§§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (e). Pub. L. 101–335, §4(a), added subsec. (e).
 "(C) a method described in subparagraph (A) which provides annual increases in the amount of the annuity payable;
 
 "(D) a method described in subparagraph (B) which provides annual increases in the amount of the annuity payable; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

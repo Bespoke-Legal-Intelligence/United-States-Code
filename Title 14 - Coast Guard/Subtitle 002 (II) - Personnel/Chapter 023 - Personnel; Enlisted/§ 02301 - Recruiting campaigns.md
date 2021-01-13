@@ -24,6 +24,8 @@ Oct. 6, 1945, ch. 393, §§2 (as made applicable to Coast Guard by §13), 13 (as
 
 June 24, 1948, ch. 625, §20 (last sentence), 62 Stat. 627; Sept. 27, 1950, ch. 1059, §1(14), 64 Stat. 1074.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 350 of this title as this section.

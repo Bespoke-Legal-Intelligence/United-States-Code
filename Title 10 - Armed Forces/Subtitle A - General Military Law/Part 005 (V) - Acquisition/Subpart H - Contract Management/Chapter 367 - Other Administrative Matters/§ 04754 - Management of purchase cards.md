@@ -1,0 +1,94 @@
+### §4754. Management of purchase cards
+
+(a)
+
+Management of Purchase Cards.—The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
+
+(b)
+
+Required Safeguards and Internal Controls.—Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
+
+&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
+
+&emsp;(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
+
+&emsp;(3) That the holder of a purchase card and each official with authority to authorize expenditures charged to the purchase card are responsible for—
+
+&emsp;&emsp;(A) reconciling the charges appearing on each statement of account for that purchase card with receipts and other supporting documentation; and
+
+&emsp;&emsp;(B) forwarding that statement after being so reconciled to the designated disbursing office in a timely manner.
+
+&emsp;(4) That any disputed purchase card charge, and any discrepancy between a receipt and other supporting documentation and the purchase card statement of account, is resolved in the manner prescribed in the applicable Government-wide purchase card contract entered into by the Administrator of General Services.
+
+&emsp;(5) That payments on purchase card accounts are made promptly within prescribed deadlines to avoid interest penalties.
+
+&emsp;(6) That rebates and refunds based on prompt payment on purchase card accounts are properly recorded.
+
+&emsp;(7) That records of each purchase card transaction (including records on associated contracts, reports, accounts, and invoices) are retained in accordance with standard Government policies on the disposition of records.
+
+&emsp;(8) That periodic reviews are performed to determine whether each purchase card holder has a need for the purchase card.
+
+&emsp;(9) That appropriate training is provided to each purchase card holder and each official with responsibility for overseeing the use of purchase cards issued by the Department of Defense.
+
+&emsp;(10) That the Department of Defense has specific policies regarding the number of purchase cards issued by various organizations and categories of organizations, the credit limits authorized for various categories of card holders, and categories of employees eligible to be issued purchase cards, and that those policies are designed to minimize the financial risk to the Federal Government of the issuance of the purchase cards and to ensure the integrity of purchase card holders.
+
+&emsp;(11) That the Department of Defense uses effective systems, techniques, and technologies to prevent or identify potential fraudulent purchases.
+
+&emsp;(12) That the Department of Defense takes appropriate steps to invalidate the purchase card of each card holder who—
+
+&emsp;&emsp;(A) in the case of an employee of the Department—
+
+&emsp;&emsp;&emsp;(i) ceases to be employed by the Department, immediately upon termination of the employment of the employee; or
+
+&emsp;&emsp;&emsp;(ii) transfers to another unit of the Department, immediately upon the transfer of the employee unless the Secretary of Defense determines that the units are covered by the same purchase card authority; and
+
+&emsp;&emsp;(B) in the case of a member of the armed forces, is separated or released from active duty or full-time National Guard duty.
+
+&emsp;(13) That the Department of Defense takes steps to recover the cost of any illegal, improper, or erroneous purchase made with a purchase card or convenience check by an employee or member of the armed forces, including, as necessary, through salary offsets.
+
+&emsp;(14) That the Inspector General of the Department of Defense, the Inspector General of the Army, the Naval Inspector General, and the Inspector General of the Air Force perform periodic audits to identify—
+
+&emsp;&emsp;(A) potentially fraudulent, improper, and abusive uses of purchase cards;
+
+&emsp;&emsp;(B) any patterns of improper card holder transactions, such as purchases of prohibited items; and
+
+&emsp;&emsp;(C) categories of purchases that should be made by means other than purchase cards in order to better aggregate purchases and obtain lower prices.
+
+&emsp;(15) That the Inspector General of the Department of Defense conducts periodic audits or reviews of purchase card or convenience check programs to identify and analyze risks of illegal, improper, or erroneous purchases and payments and that the findings of such audits or reviews, along with recommendations to prevent abuse of purchase cards or convenience checks, are reported to the Director of the Office of Management and Budget and Congress.
+
+(c)
+
+Penalties for Violations.—The regulations prescribed under subsection (a) shall—
+
+&emsp;(1) provide—
+
+&emsp;&emsp;(A) for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
+
+&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
+
+&emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
+
+(Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728, §2784; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, \[div. A\], title X, §1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, §2(b), Oct. 5, 2012, 126 Stat. 1447; renumbered §4754, Pub. L. 116–283, div. A, title XVIII, §1864(b), Jan. 1, 2021, 134 Stat. 4279.)
+
+#### Prior Provisions
+
+Prior sections 4771 and 4772 were renumbered sections 7771 and 7772 of this title, respectively.
+
+A prior section 4774, acts Aug. 10, 1956, ch. 1041, 70A Stat. 269; Aug. 30, 1957, Pub. L. 85–241, title IV, §404(a), 71 Stat. 555; Aug. 10, 1959, Pub. L. 86–149, title IV, §410(a), 73 Stat. 321; July 27, 1962, Pub. L. 87–554, title V, §504(a), (c), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, §503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, §510(b), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, §508(a), (c), 85 Stat. 408; Nov. 29, 1973, Pub. L. 93–166, title V, §509(c), 87 Stat. 677, related to limitations on construction, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982.
+
+A prior section 4775, act Aug. 10, 1956, ch. 1041, 70A Stat. 269, authorized assignment of quarters belonging to United States at a post or station by post quartermaster to officers, grade lieutenant general down to second lieutenant, 10 to 2 rooms, respectively, and prohibited other assignment where quarters existed, prior to repeal by Pub. L. 92–145, title V, §509(a), Oct. 27, 1971, 85 Stat. 408.
+
+Prior sections 4776 to 4780 were renumbered sections 7776 to 7780 of this title, respectively.
+
+A prior section 4781 was renumbered section 7781 of this title.
+
+Another section 4781, added Pub. L. 115–31, div. N, title VI, §602(a), May 5, 2017, 131 Stat. 828, was substantially identical to the prior section 4781, and related to Cyber Center for Education and Innovation-Home of the National Cryptologic Museum, prior to repeal by Pub. L. 115–91, div. A, title X, §1081(a)(49)(A), Dec. 12, 2017, 131 Stat. 1597.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 renumbered section 2784 of this title as this section.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

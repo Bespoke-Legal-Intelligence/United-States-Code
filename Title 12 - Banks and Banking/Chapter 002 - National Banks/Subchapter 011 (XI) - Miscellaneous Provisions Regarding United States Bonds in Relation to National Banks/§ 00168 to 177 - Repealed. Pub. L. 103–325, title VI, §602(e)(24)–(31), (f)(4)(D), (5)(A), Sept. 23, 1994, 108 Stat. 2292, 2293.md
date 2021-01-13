@@ -18,5 +18,5 @@ Section 175, R.S. §5167, related to custody of bonds and collection of interest
 
 Section 176, acts June 20, 1874, ch. 343, §4, 18 Stat. 124; June 21, 1917, ch. 32, §9, 40 Stat. 239, provided that associations desiring to withdraw circulating notes could, upon deposit of money with Treasurer of United States, withdraw bonds on deposit with Treasurer for security of such notes.
 
-Section 177, acts July 12, 1882, ch. 290, §8, 22 Stat. 164; Mar. 14, 1900, ch. 41, §12, 31 Stat. 49; June 21, 1917, ch. 32, §9, 40 Stat. 239, related to amount of bonds banks were required to keep on deposit with Treasurer ofUnited States, as security for circulating notes, and authorized banks having deposits in excess of such amount to reduce, or retire in full, their circulation by depositing lawful money.
+Section 177, acts July 12, 1882, ch. 290, §8, 22 Stat. 164; Mar. 14, 1900, ch. 41, §12, 31 Stat. 49; June 21, 1917, ch. 32, §9, 40 Stat. 239, related to amount of bonds banks were required to keep on deposit with Treasurer of United States, as security for circulating notes, and authorized banks having deposits in excess of such amount to reduce, or retire in full, their circulation by depositing lawful money.
 

@@ -66,7 +66,7 @@ Objects Intended for Launch, Launched, or Assembled in Outer Space.—Any object
 
 (k)
 
-Use or Manufacture of Patented Inventions Incorporated in Space Vehicles Launched for Persons Other Than United States.—The use or manufacture of any patented invention incorporated in a space vehicle launched by the United States Government for a person other than the United States shall not be considered to be a use or manufacture by or for the United States within the meaning of section1498(a) of title 28, unless the Administration gives an express authorization or consent for such use or manufacture.
+Use or Manufacture of Patented Inventions Incorporated in Space Vehicles Launched for Persons Other Than United States.—The use or manufacture of any patented invention incorporated in a space vehicle launched by the United States Government for a person other than the United States shall not be considered to be a use or manufacture by or for the United States within the meaning of section 1498(a) of title 28, unless the Administration gives an express authorization or consent for such use or manufacture.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3339; Pub. L. 112–29, §7(d)(2), Sept. 16, 2011, 125 Stat. 315.)
 
@@ -86,11 +86,15 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title III, §305, July 29, 1958, 72 Stat. 435; Pub. L. 96–517, §7(b), Dec. 12, 1980, 94 Stat. 3027; Pub. L. 97–96, §7, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 97–164, title I, §162(3), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §205(c), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(20)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–29 substituted "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences" in two places and inserted "and derivation" after "established for interference".
 
 Subsec. (f). Pub. L. 112–29, §7(d)(2)(A), substituted "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

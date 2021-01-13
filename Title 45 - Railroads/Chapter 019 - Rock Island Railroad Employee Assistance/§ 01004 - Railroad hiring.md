@@ -6,9 +6,13 @@
 
 (Pub. L. 96–254, title I, §105, May 30, 1980, 94 Stat. 400; Pub. L. 97–468, title II, §236(b), Jan. 14, 1983, 96 Stat. 2547.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–468 substituted "January 1, 1984" for "January 1, 1981".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

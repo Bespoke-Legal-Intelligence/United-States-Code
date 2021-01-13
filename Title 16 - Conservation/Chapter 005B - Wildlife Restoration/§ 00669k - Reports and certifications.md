@@ -10,7 +10,7 @@
 
 &emsp;The report under paragraph (1) shall describe—
 
-&emsp;&emsp;(A) the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer,manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
+&emsp;&emsp;(A) the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer, manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
 
 &emsp;&emsp;(B) any revisions to this title <sup>1</sup> or the amendments made by this title <sup>1</sup> that would be desirable in order for the Secretary of the Interior to adequately administer the Program and ensure that funds provided to State agencies are properly used; and
 
@@ -54,7 +54,7 @@ The Secretary of the Interior shall not delegate the responsibility for making a
 
 #### References in Text
 
-This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
+This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as theWildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
 
 The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 

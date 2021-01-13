@@ -4,7 +4,7 @@
 
 &emsp;(1) on request of an employee, grant the employee compensatory time off from his scheduled tour of duty instead of payment under section 5542 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work; and
 
-&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
+&emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall begranted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
 
 (b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency head may not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
 
@@ -66,6 +66,8 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §404(b), 80 Stat. 297.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7 of the Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1) and (b), is classified to section 207 of Title 29, Labor.
@@ -81,6 +83,8 @@ GS–10, referred to in subsec. (a)(2), is contained in the General Schedule whi
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–509, §529 \[title II, §210(2)\], inserted "under section 5542 or section 7 of the Fair Labor Standards Act of 1938" after "payment".
 
 Subsec. (a)(2). Pub. L. 101–509, §529 \[title I, §101(b)(3)(E)\], inserted "(including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law)" after "GS–10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -156,15 +156,19 @@ Executive agency.—Notwithstanding section 3101(c)(1), this section applies to 
 
 (Added Pub. L. 115–390, title II, §203(a), Dec. 21, 2018, 132 Stat. 5189.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in subsec. (j), is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
 
 Section 3101(c)(1), referred to in subsec. (k)(7), probably means section 3101(c)(1) of this title, which excepts the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration from applicability of the Procurement procedures and regulations of the Administrator of General Services.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee onOversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

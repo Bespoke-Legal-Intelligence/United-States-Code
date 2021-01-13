@@ -40,7 +40,7 @@ In general.—A certificate of documentation for a recreational vessel and the r
 
 &emsp;&emsp;(B)
 
-Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years forsuch a certificate of documentation for such vessel or the renewal thereof.
+Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
 
 &emsp;&emsp;(C)
 
@@ -108,6 +108,8 @@ Historical and Revision Notes
 
 In subsection (b), the words "eligible under" are substituted for "if the applicant for the certificate of documentation meets the requirements set out in" for consistency in the chapter and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12111 of this title.
@@ -115,6 +117,8 @@ A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–282 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Certificates of Documentation for Recreational Vessels
 

@@ -28,9 +28,9 @@
 
 &emsp;(A) remain in the service of the agency for a period specified in the agreement (not less than 3 years), unless involuntarily separated; and
 
-&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefitsreceived by such employee from that agency under this section.
+&emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
-(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
+(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into theservice of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
 (3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability under paragraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
 
@@ -66,6 +66,8 @@
 
 (Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637; Pub. L. 110–437, title V, §502, Oct. 20, 2008, 122 Stat. 4997.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -95,6 +97,8 @@ Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], a
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out "professional, technical, or administrative" after "highly qualified".
 
 Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

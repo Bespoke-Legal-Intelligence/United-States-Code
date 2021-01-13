@@ -12,7 +12,7 @@ Distilled spirits transferred pursuant to subsection (a)—
 
 &emsp;(2) may be withdrawn for any purpose authorized by this chapter, in the same manner as domestic distilled spirits.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, §3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX, §1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, §807(a)(33), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, §3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX,§1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, §807(a)(33), July 26, 1979, 93 Stat. 286.)
 
 #### Prior Provisions
 
@@ -22,7 +22,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibiteddistilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted ", or the person bringing such distilled spirits into the United States," after "and the importer".
 

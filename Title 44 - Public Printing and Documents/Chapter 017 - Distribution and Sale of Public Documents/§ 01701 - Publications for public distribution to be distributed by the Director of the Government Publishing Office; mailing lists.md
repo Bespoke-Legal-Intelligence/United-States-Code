@@ -14,9 +14,13 @@ Based on 44 U.S. Code, 1964 ed., §95 (Aug. 23, 1912, ch. 350, §8, 37 Stat. 414
 
 The term "executive department, independent office, and establishment of the Government" is substituted for "executive department and other Government establishment" for uniformity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 113–235, §1301(c), substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

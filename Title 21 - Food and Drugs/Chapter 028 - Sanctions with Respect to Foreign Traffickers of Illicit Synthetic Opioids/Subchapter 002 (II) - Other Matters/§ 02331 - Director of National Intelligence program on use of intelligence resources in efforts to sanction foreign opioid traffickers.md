@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) take into account specific illicit finance risks related to narcotics trafficking; and
 
-&emsp;&emsp;(B) be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, the Director of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
+&emsp;&emsp;(B) be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, theDirector of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
 
 #### (b) Review of counternarcotics efforts of the intelligence community
 
@@ -41,6 +41,8 @@ The Director of National Intelligence shall, in coordination with the Director o
 In this section, the term "intelligence community" has the meaning given that term in section 3003(4) of title 50.
 
 (Pub. L. 116–92, div. F, title LXXII, §7231, Dec. 20, 2019, 133 Stat. 2273.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,11 +4,13 @@ Expenditures shall not be made for carrying out the purposes of the reclamation 
 
 (Aug. 13, 1914, ch. 247, §16, 38 Stat. 690.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reclamation law, referred to in text, is defined in section 472 of this title.
 
 #### Codification
 
-Words "there shall annually, in the Budget, be submitted to Congress" substituted for "the Secretary of the Interior shall annually in the regular Book of Estimates, submit to Congress" in view of the Budget and Accounting Act, 1921, act June 10, 1921, ch. 18, 42 Stat. 20. See sections 1104 and 1105 of Title 31, Money and Finance.
+Words "there shall annually, in the Budget, be submitted to Congress" substituted for "the Secretary of the Interior shall annually in the regular Book of Estimates, submit to Congress" in view of the Budget and Accounting Act, 1921, act June 10, 1921, ch. 18, 42 Stat.20. See sections 1104 and 1105 of Title 31, Money and Finance.
 

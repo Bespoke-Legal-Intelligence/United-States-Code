@@ -120,13 +120,13 @@ The Special Trustee shall report to the Secretary and the Committee on Natural R
 
 (Pub. L. 103–412, title III, §303, Oct. 25, 1994, 108 Stat. 4245; Pub. L. 104–109, §6(a), Feb. 12, 1996, 110 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(5)(D). Pub. L. 104–109 substituted "subparagraph (C)" for "paragraph (3)(B)".
 
-#### Transfer of Functions
-
-The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Lands Title Report Commission
 
@@ -206,7 +206,7 @@ Staff of federal agencies.—Upon request of the Commission, the head of any Fed
 
 &emsp;"(3)
 
-Obtaining official data.—The Commission may secure directly from any department or agencyof the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
 &emsp;"(4)
 
@@ -229,4 +229,10 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 Termination.—The Commission shall terminate 1 year after the date of the initial meeting of the Commission."
 
 Substantially identical provisions were contained in Pub. L. 106–568, title X, §1001, Dec. 27, 2000, 114 Stat. 2923.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 

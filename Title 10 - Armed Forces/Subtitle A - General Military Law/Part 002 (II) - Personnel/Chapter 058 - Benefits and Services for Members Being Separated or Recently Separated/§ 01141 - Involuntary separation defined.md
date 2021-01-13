@@ -14,7 +14,7 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, in introductory provisions, substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps" and "or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994," for "or on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994".
+<b>1994</b>—Pub. L. 103–337, in introductory provisions, substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps" and "or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994," for "or on or after the date of the enactmentof the National Defense Authorization Act for Fiscal Year 1994".
 
 <b>1993</b>—Pub. L. 103–160 inserted "or on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994" after "September 30, 1990,".
 

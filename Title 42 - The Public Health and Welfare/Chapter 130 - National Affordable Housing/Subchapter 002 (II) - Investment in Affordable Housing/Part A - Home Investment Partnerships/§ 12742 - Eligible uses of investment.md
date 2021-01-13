@@ -32,7 +32,7 @@
 
 #### (C) 24-month contracts
 
-&emsp;&emsp;Rental assistance contracts made available with assistance under this subchaptershall be for not more than 24 months, except that assistance to a family may be renewed.
+&emsp;&emsp;Rental assistance contracts made available with assistance under this subchapter shall be for not more than 24 months, except that assistance to a family may be renewed.
 
 #### (D) Use of section 1437f assistance
 
@@ -62,7 +62,7 @@ Funds made available under this part may not be used to—
 
 &emsp;(1) defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c),
 
-&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8 \[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
+&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8\[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
 
 &emsp;(3) provide non-Federal matching contributions required under any other Federal program,
 
@@ -100,7 +100,7 @@ The requirements of section 3545(d) of this title shall be satisfied by a certif
 
 #### (g) Limitation on operating assistance
 
-A participating jurisdiction may not use more than 5 percent of its allocation under this partfor the payment of operating expenses for community housing development organizations.
+A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
 (Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
 

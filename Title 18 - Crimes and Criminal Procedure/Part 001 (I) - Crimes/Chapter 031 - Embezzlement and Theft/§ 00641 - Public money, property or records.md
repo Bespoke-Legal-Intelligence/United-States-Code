@@ -28,15 +28,17 @@ Words "or any corporation in which the United States of America is a stockholder
 
 The provisions for fine of not more than $1,000 or imprisonment of not more than 1 year for an offense involving $100 or less and for fine of not more than $10,000 or imprisonment of not more than 10 years, or both, for an offense involving a greater amount were written into this section as more in conformity with the later congressional policy expressed in sections 82 and 87 of title 18, U.S.C., 1940 ed., than the nongraduated penalties of sections 100 and 101 of said title 18.
 
-Since the purchasing power of the dollar is less than it was when $50 was the figure which determined whether larceny was petit larceny or grand larceny, the sum $100 was substituted as more consistent with modern values.
+Since the purchasing power of the dollar is less than it was when $50 was the figure which determinedwhether larceny was petit larceny or grand larceny, the sum $100 was substituted as more consistent with modern values.
 
 The meaning of "value" in the last paragraph of the revised section is written to conform with that provided in section 2311 of this title by inserting the words "face, par, or".
 
-This section incorporates the recommendation of Paul W. Hyatt, president, board of commissioners ofthe Idaho State Bar Association, that sections 82 and 100 of title 18, U.S.C., 1940 ed., be combined and simplified.
+This section incorporates the recommendation of Paul W. Hyatt, president, board of commissioners of the Idaho State Bar Association, that sections 82 and 100 of title 18, U.S.C., 1940 ed., be combined and simplified.
 
 Also, with respect to section 101 of title 18, U.S.C., 1940 ed., this section meets the suggestion of P. F. Herrick, United States attorney for Puerto Rico, that the punishment provision of said section be amended to make the offense a misdemeanor where the amount involved is $50 or less.
 
 Changes were made in phraseology.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -45,6 +47,8 @@ Changes were made in phraseology.
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100" in third par.
 
 <b>1994</b>—Pub. L. 103–322, in third par., substituted "fined under this title" for "fined not more than $10,000" after "Shall be" and for "fined not more than $1,000" after "he shall be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1984 Amendment
 

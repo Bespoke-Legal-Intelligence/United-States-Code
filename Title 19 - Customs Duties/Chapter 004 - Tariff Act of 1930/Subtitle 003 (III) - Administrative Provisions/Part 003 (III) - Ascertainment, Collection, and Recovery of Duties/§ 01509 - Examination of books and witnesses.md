@@ -14,9 +14,9 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 &emsp;&emsp;(A) the person who—
 
-&emsp;&emsp;&emsp;(i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States,
+&emsp;&emsp;&emsp;(i) imported, or knowingly caused to be imported, merchandise into the customs territory of the United States, or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in section 4502 of this title),
 
-&emsp;&emsp;&emsp;(ii) exported merchandise, or knowingly caused merchandise to be exported, to a NAFTA country (as defined in section 3301(4) of this title) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
+&emsp;&emsp;&emsp;(ii) exported merchandise, or knowingly caused merchandise to be exported, to a USMCA country (as defined in section 4502 of this title) or to Canada during such time as the United States-Canada Free-Trade Agreement is in force with respect to, and the United States applies that Agreement to, Canada,
 
 &emsp;&emsp;&emsp;(iii) transported or stored merchandise that was or is carried or held under customs bond, or knowingly caused such transportation or storage, or
 
@@ -86,7 +86,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;(A) served on the person with respect to whose liability for duties, fees, or taxes the summons is issued, or any officer or employee of such person; or
 
-&emsp;(B) to determine whether or not records of the transactions described in section 1508 ofthis title of an identified person have been made or kept.
+&emsp;(B) to determine whether or not records of the transactions described in section 1508 of this title of an identified person have been made or kept.
 
 (5) Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under paragraph (2) of this subsection shall have the right—
 
@@ -208,9 +208,9 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
+&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeatedviolations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992; Pub. L. 116–113, title II, §209(b), Jan. 29, 2020, 134 Stat. 52.)
 
 #### References in Text
 
@@ -223,6 +223,10 @@ Provisions substantially the same, in most respects, as those in this section, w
 Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(2)(A)(i). Pub. L. 116–113, §209(b)(1), inserted at end "or a vehicle producer whose good is subject to a claim of preferential tariff treatment under the USMCA (as defined in section 4502 of this title),".
+
+Subsec. (a)(2)(A)(ii). Pub. L. 116–113, §209(b)(2), substituted "a USMCA country (as defined in section 4502 of this title)" for "a NAFTA country (as defined in section 3301(4) of this title)".
 
 <b>2002</b>—Subsec. (b)(6). Pub. L. 107–210 added par. (6).
 
@@ -272,9 +276,13 @@ Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. P
 
 <b>1948</b>—Act June 25, 1948, struck out "and judges and divisions of the United States Customs Court" after "Collectors and appraisers" in first sentence.
 
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–113 effective on the date the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered for consumption, or withdrawn from warehouse for consumption, on or after that date, see section 209(d) of Pub. L. 116–113, set out as a note under section 1304 of this title.
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter IIof chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -282,7 +290,7 @@ Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) o
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 205(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 205(b) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 213(b) of Pub. L. 103–182, formerly set out as an Effective Date note under former section 3331 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -294,7 +302,7 @@ Act June 25, 1948, ch. 646, §38, 62 Stat. 992, provided that the amendment made
 
 #### Construction of 1993 Amendment
 
-Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, formerly set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 

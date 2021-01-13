@@ -48,7 +48,7 @@ Security Programs.—(1) The Administrator shall prescribe regulations under sub
 
 &emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
-(B) If the Administrator approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section whenthe airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
+(B) If the Administrator approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
 (C)
 
@@ -118,7 +118,7 @@ In general.—The Administrator, in consultation with the airport operator and l
 
 &emsp;(2)
 
-Security of aircraft and ground access to secure areas.—In determining where todeploy such personnel, the Administrator shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
+Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Administrator shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
 
 &emsp;(3)
 
@@ -178,7 +178,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(i) establish a credential or a system that incorporates biometric technology and other applicable technologies;
 
-&emsp;&emsp;&emsp;(ii) establish a system for law enforcement officers who need to be armed when traveling by commercial aircraft on a regular basis and for those who need to be armed during temporary travel assignments;
+&emsp;&emsp;&emsp;(ii) establish a system for law enforcement officers who need to be armed whentraveling by commercial aircraft on a regular basis and for those who need to be armed during temporary travel assignments;
 
 &emsp;&emsp;&emsp;(iii) comply with other uniform credentialing initiatives, including the Homeland Security Presidential Directive 12;
 
@@ -340,7 +340,7 @@ Aircraft charter customer and lessee prescreening.—
 
 In general.—The Administrator Administrator <sup>2</sup> shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
 
-&emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
+&emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizingall appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
 
 &emsp;&emsp;&emsp;&emsp;(II) refuse to charter or lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to or transport aboard such aircraft any persons identified on such watch list.
 
@@ -520,7 +520,7 @@ Subsec. (h)(4)(E). Pub. L. 115–254, §1991(d)(3)(D)(ii)(III), struck out ", n
 
 Subsec. (h)(5). Pub. L. 115–254, §1991(d)(3)(D)(iii), substituted "Administrator" for "Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
 
-Subsec. (h)(6)(A). Pub. L. 115–254, §1991(d)(3)(D)(iv)(I), substituted "The" for "Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the" in introductory provisions.
+Subsec. (h)(6)(A). Pub. L. 115–254, §1991(d)(3)(D)(iv)(I), substituted "The" for "Not later than 18 months afterthe date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the" in introductory provisions.
 
 Subsec. (h)(6)(A)(i). Pub. L. 115–254, §1991(d)(3)(D)(iv)(II), substituted "paragraph" for "section".
 
@@ -642,7 +642,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Secondary Cockpit Barriers
 
@@ -728,7 +728,7 @@ Sunset.—The Task Force established pursuant to subsection (a) shall terminate 
 
 "(a)
 
-In General.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 2018\], the Attorney General, in coordination with relevant Federal agencies, shall establish a streamlined process, based on the plan required under section 339A(e) of this Act, for individuals involved in incidents of alleged sexual misconduct onboard aircraft to report such allegations of sexual misconduct to law enforcement in a manner that protects the privacy and confidentiality of individuals involved in such allegations.
+In General.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 2018\], the Attorney General, in coordination with relevant Federal agencies, shall establish a streamlined process, based on the plan required under section 339A(e) of this Act,for individuals involved in incidents of alleged sexual misconduct onboard aircraft to report such allegations of sexual misconduct to law enforcement in a manner that protects the privacy and confidentiality of individuals involved in such allegations.
 
 "(b)
 
@@ -834,7 +834,7 @@ Pub. L. 115–254, div. K, title I, §1934, Oct. 5, 2018, 132 Stat. 3572, provid
 
 "(a)
 
-Cooperative Efforts to Enhance Airport Security Awareness.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall consult with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees to enhance security awareness of credentialed airport populations regarding insider threats to aviation security and best practices related to airport access controls.
+Cooperative Efforts to Enhance Airport Security Awareness.—Not later than 180 days after thedate of enactment of this Act \[Oct. 5, 2018\], the Administrator shall consult with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees to enhance security awareness of credentialed airport populations regarding insider threats to aviation security and best practices related to airport access controls.
 
 "(b)
 
@@ -954,7 +954,7 @@ Cooperation by Administrator.—In carrying out subsection (a), the Administrato
 
 "(c)
 
-Administrative Burdens.—The Administrator shall review the regulations and compliance policies related to the Law Enforcement Officer Reimbursement Program and, if necessary, revise such regulations and policies to reduce any administrative burdens on applicants or recipients of such awards.
+Administrative Burdens.—The Administrator shall review the regulations and compliance policies related to the Law Enforcement Officer ReimbursementProgram and, if necessary, revise such regulations and policies to reduce any administrative burdens on applicants or recipients of such awards.
 
 "(d)
 
@@ -1112,7 +1112,7 @@ Federal Air Marshal Service Coordination.—
 
 &emsp;"(1)
 
-In general.—The Administrator shall ensure that the rules identified in subsection (c) are taken into account for Federal Air Marshal mission scheduling.
+In general.—The Administrator shall ensure that the rules identified in subsection (c) are takeninto account for Federal Air Marshal mission scheduling.
 
 &emsp;"(2)
 
@@ -1260,7 +1260,7 @@ Comprehensive and Strategic Aviation Framework.—
 
 &emsp;"(1)
 
-In general.—Not later than 240 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall facilitate and support the development of a comprehensive and strategic framework of principles and policies to reduce cybersecurity risks to the national airspace system, civil aviation, and agency information systems using a total systems approach that takes into consideration the interactions andinterdependence of different components of aircraft systems and the national airspace system.
+In general.—Not later than 240 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall facilitate and support the development of a comprehensive and strategic framework of principles and policies to reduce cybersecurity risks to the national airspace system, civil aviation, and agency information systems using a total systems approach that takes into consideration the interactions and interdependence of different components of aircraft systems and the national airspace system.
 
 &emsp;"(2)
 
@@ -1330,7 +1330,7 @@ National Institute of Standards and Technology Information Security Standards.�
 
 "(e)
 
-Cybersecurity Research and Development.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
+Cybersecurity Research and Development.—Not later than 1 year after the date of enactment ofthis Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
 
 &emsp;"(1) any proposal for research and development cooperation with international partners;
 
@@ -1452,7 +1452,7 @@ Report.—Not later than 30 days after the completion of the review, the Assista
 
 #### Cabin Flight Crew Participation in Known Crewmember Pilot Program
 
-Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 349, provided in part: "That the Administrator of theTransportation Security Administration shall, within 270 days of the date of enactment of this Act \[Mar. 26, 2013\], establish procedures allowing members of cabin flight crews of air carriers to participate in the Known Crewmember pilot program, unless the Administrator determines that meeting the requirement within this timeline is not practicable and informs the Committees on Appropriations of the Senate and House of Representatives of the basis for that determination and the new timeline for implementing the requirement".
+Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 349, provided in part: "That the Administrator of the Transportation Security Administration shall, within 270 days of the date of enactment of this Act \[Mar. 26, 2013\], establish procedures allowing members of cabin flight crews of air carriers to participate in the Known Crewmember pilot program, unless the Administrator determines that meeting the requirement within this timeline is not practicable and informs the Committees on Appropriations of the Senate and House of Representatives of the basis for that determination and the new timeline for implementing the requirement".
 
 #### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
 
@@ -1566,7 +1566,7 @@ Pub. L. 108–176, title VI, §607, Dec. 12, 2003, 117 Stat. 2568, provided that
 
 "(a)
 
-In General.—The Under Secretary for Border and Transportation Security of the Department ofHomeland Security shall not implement, on other than a test basis, the computer assisted passenger prescreening system (commonly known as and in this section referred to as 'CAPPS2') until the Under Secretary provides to Congress a certification that—
+In General.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall not implement, on other than a test basis, the computer assisted passenger prescreening system (commonly known as and in this section referred to as 'CAPPS2') until the Under Secretary provides to Congress a certification that—
 
 &emsp;"(1) a procedure is established enabling airline passengers, who are delayed or prohibited from boarding a flight because CAPPS2 determined that they might pose a security threat, to appeal such determination and correct information contained in CAPPS2;
 

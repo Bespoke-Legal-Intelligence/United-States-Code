@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 101–208, §3(2), added subsec. (c).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L.104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

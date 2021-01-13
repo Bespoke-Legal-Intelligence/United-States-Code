@@ -12,7 +12,7 @@
 
 #### (3) Scope of coverage
 
-&emsp;Liability insurance obtained pursuant to this subsection shall, in addition to the Seller, protect the following, to the extent of their potential liability for involvement in the manufacture, qualification, sale, use, or operation of qualified anti-terrorism technologies deployed in defense against or response or recovery from an act of terrorism:
+&emsp;Liability insurance obtained pursuant to this subsection shall, in addition to the Seller,protect the following, to the extent of their potential liability for involvement in the manufacture, qualification, sale, use, or operation of qualified anti-terrorism technologies deployed in defense against or response or recovery from an act of terrorism:
 
 &emsp;&emsp;(A) Contractors, subcontractors, suppliers, vendors and customers of the Seller.
 

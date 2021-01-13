@@ -34,7 +34,7 @@ Pub. L. 94–452, §3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 99�
 
 "(1)
 
-In general.—The amendments made by this section \[enacting section 6158 of this title and amending this section and sections 6503 and 6601 of this title\] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b)of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by section 2(a) of this Act).
+In general.—The amendments made by this section \[enacting section 6158 of this title and amending this section and sections 6503 and 6601 of this title\] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by section 2(a) of this Act).
 
 "(2)
 
@@ -54,7 +54,7 @@ Interest on overpayments.—For purposes of section 6611(b) in the case of any o
 
 &emsp;&emsp;"(i) the date on which application for refund or credit of such overpayment is filed,
 
-&emsp;&emsp;"(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
+&emsp;&emsp;"(ii) the due date prescribed by law (determined without extensions) for filing the return of taxunder chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
 
 &emsp;&emsp;"(iii) the date of the enactment of this Act \[Oct. 2, 1976\].
 

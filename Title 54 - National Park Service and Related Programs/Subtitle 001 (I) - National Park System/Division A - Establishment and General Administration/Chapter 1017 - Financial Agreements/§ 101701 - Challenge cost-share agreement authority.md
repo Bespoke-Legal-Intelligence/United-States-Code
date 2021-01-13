@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Challenge cost-share agreement.—The term "challenge cost-share agreement" meansany agreement entered into between the Secretary and any cooperator for the purpose of sharing costs or services in carrying out authorized functions and responsibilities of the Secretary with respect to any System unit or System program, any affiliated area, or any designated national scenic trail or national historic trail.
+Challenge cost-share agreement.—The term "challenge cost-share agreement" means any agreement entered into between the Secretary and any cooperator for the purpose of sharing costs or services in carrying out authorized functions and responsibilities of the Secretary with respect to any System unit or System program, any affiliated area, or any designated national scenic trail or national historic trail.
 
 &emsp;(2)
 

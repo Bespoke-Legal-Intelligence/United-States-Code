@@ -6,7 +6,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
 
-&emsp;&emsp;(A) contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
+&emsp;&emsp;(A) contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\],the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
 
 &emsp;&emsp;(B) a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b(h));
 
@@ -86,7 +86,7 @@ Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par.
 
 <b>1991</b>—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted "(7 U.S.C. 1421 note)" for "(16 U.S.C. 1421 note)".
 
-Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
+Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, toclarify references in corresponding provisions of original Act.
 
 <b>1990</b>—Pub. L. 101–624, §1411(1), inserted ", or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary" after "is predominate" in first sentence.
 

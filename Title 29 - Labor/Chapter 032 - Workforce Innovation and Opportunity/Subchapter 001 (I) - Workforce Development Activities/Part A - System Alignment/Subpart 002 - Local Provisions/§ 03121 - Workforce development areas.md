@@ -104,7 +104,7 @@
 
 #### (B) Local plan
 
-&emsp;&emsp;Except as provided in this subsection, the term "local plan" includes a reference to theportion of a regional plan developed with respect to the corresponding local area within the region, and any regionwide provision of that plan that impacts or relates to the local area.
+&emsp;&emsp;Except as provided in this subsection, the term "local plan" includes a reference to the portion of a regional plan developed with respect to the corresponding local area within the region, and any regionwide provision of that plan that impacts or relates to the local area.
 
 #### (d) Single State local areas
 
@@ -122,13 +122,15 @@ For purposes of this section:
 
 #### (1) Performed successfully
 
-&emsp;The term "performed successfully", used with respect to a local area, means the local area met or exceeded the adjusted levels of performance for primary indicators of performance described in section 3141(b)(2)(A) of this title (or, if applicable, core indicators of performance described in section 136(b)(2)(A) of the Workforce Investment Act of 1998 \[29 U.S.C. 2871(b)(2)(A)\], as in effect the day before July 22, 2014) for each of the last 2 consecutive years for which data are available preceding the determination of performance under this paragraph.
+&emsp;The term "performed successfully", used with respect to a local area, means the local area met or exceeded the adjusted levels of performance for primary indicators of performance described in section 3141(b)(2)(A) of this title (or, if applicable, core indicators of performance described in section 136(b)(2)(A) of the Workforce Investment Act of 1998 \[29U.S.C. 2871(b)(2)(A)\], as in effect the day before July 22, 2014) for each of the last 2 consecutive years for which data are available preceding the determination of performance under this paragraph.
 
 #### (2) Sustained fiscal integrity
 
 &emsp;The term "sustained fiscal integrity", used with respect to a local area, means that the Secretary has not made a formal determination, during either of the last 2 consecutive years preceding the determination regarding such integrity, that either the grant recipient or the administrative entity of the area misexpended funds provided under part B (or, if applicable, title I of the Workforce Investment Act of 1998 as in effect prior to the effective date of such part B) due to willful disregard of the requirements of the provision involved, gross negligence, or failure to comply with accepted standards of administration.
 
 (Pub. L. 113–128, title I, §106, July 22, 2014, 128 Stat. 1452; Pub. L. 114–18, §2(a)(1), May 22, 2015, 129 Stat. 213.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -141,6 +143,8 @@ The effective date of such part B, referred to in subsec. (e)(2), is the first d
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(5) to (7). Pub. L. 114–18 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

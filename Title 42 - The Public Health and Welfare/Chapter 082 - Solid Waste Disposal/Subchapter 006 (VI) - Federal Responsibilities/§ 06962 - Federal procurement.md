@@ -18,7 +18,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 &emsp;(C) are only available at an unreasonable price. Any determination under subparagraph (B) shall be made on the basis of the guidelines of the National Institute of Standards and Technology in any case in which such material is covered by such guidelines.
 
-(2) Agencies that generate heat, mechanical, or electrical energy from fossil fuel in systemsthat have the technical capability of using energy or fuels derived from solid waste as a primary or supplementary fuel shall use such capability to the maximum extent practicable.
+(2) Agencies that generate heat, mechanical, or electrical energy from fossil fuel in systems that have the technical capability of using energy or fuels derived from solid waste as a primary or supplementary fuel shall use such capability to the maximum extent practicable.
 
 (3)(A) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting officers shall require that vendors:
 
@@ -128,7 +128,7 @@ Subsec. (j). Pub. L. 103–355, §1554(1), struck out subsec. (j). See Codificat
 
 <b>1988</b>—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards".
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable)".
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage ofthe postconsumer recovered materials referred to in subsection (h)(1) practicable)".
 
 Subsec. (d)(1). Pub. L. 98–616, §501(e), substituted "eighteen months after November 8, 1984" for "five years after October 21, 1976".
 

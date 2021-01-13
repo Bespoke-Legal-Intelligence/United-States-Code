@@ -58,6 +58,8 @@ Aug. 23, 1912, ch. 350, §6(words after semicolon), 37 Stat. 414.
 
 In subsection (b), the words "another amount available for obligation" are substituted for "any other fund" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(1)(C), (D), is classified to section 902 of Title 2, The Congress.

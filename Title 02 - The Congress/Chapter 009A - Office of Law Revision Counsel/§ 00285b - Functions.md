@@ -18,6 +18,8 @@ The functions of the Office shall be as follows:
 
 (Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 94–386, §1, Aug. 14, 1976, 90 Stat. 1170.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on section 205(c) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
@@ -26,11 +28,13 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 
 <b>1976</b>—Par. (6). Pub. L. 94–386 substituted "through publication of the fifth annual cumulative supplement to the 1973 edition of such Code" for "until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia
 
 Pub. L. 94–386, §2, Aug. 14, 1976, 90 Stat. 1170, provided that:
 
-"(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions of the District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
+"(a) After publication by the Law Revision Counsel of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, new editions ofthe District of Columbia Code (and annual cumulative supplements thereto) shall be prepared and published under the direction of the Council of the District of Columbia and shall set forth the general and permanent laws relating to or in force in the District of Columbia, whether enacted by the Congress or by the Council of the District of Columbia, except such laws as are of application in the District of Columbia by reason of being laws of the United States general and permanent in nature.
 
 "(b) After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer \[now Director of the Government Publishing Office\] shall, as the Council of the District of Columbia may request, either—
 

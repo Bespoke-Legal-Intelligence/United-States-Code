@@ -4,7 +4,7 @@ Any national banking association possessing a capital and surplus of $1,000,000 
 
 First. To establish branches in foreign countries or dependencies or insular possessions of the United States for the furtherance of the foreign commerce of the United States, and to act if required to do so as fiscal agents of the United States.
 
-Second. To invest an amount not exceeding in the aggregate 10 per centum of its paid-in capital stock and surplus in the stock of one or more banks or corporations chartered or incorporated under the laws of the United States or of any State thereof, and principally engaged in international or foreign banking, or banking in a dependency or insular possession of the United States either directly or through the agency, ownership, or control of local institutions in foreign countries, or in such dependencies or insular possessions.
+Second. To invest an amount not exceeding in the aggregate 10 per centum of its paid-in capital stock and surplus in the stock of one ormore banks or corporations chartered or incorporated under the laws of the United States or of any State thereof, and principally engaged in international or foreign banking, or banking in a dependency or insular possession of the United States either directly or through the agency, ownership, or control of local institutions in foreign countries, or in such dependencies or insular possessions.
 
 Third. To acquire and hold, directly or indirectly, stock or other evidences of ownership in one or more banks organized under the law of a foreign country or a dependency or insular possession of the United States and not engaged, directly or indirectly, in any activity in the United States except as, in the judgment of the Board of Governors of the Federal Reserve System, shall be incidental to the international or foreign business of such foreign bank; and, notwithstanding the provisions of section 371c of this title, to make loans or extensions of credit to or for the account of such bank in the manner and within the limits prescribed by the Board by general or specific regulation or ruling.
 
@@ -13,6 +13,8 @@ Until January 1, 1921, any national banking association, without regard to the a
 Such application shall specify the name and capital of the banking association filing it, the powers applied for, and the place or places where the banking or financial operations proposed are to be carried on. The Board of Governors of the Federal Reserve System shall have power to approve or to reject such application in whole or in part if for any reason the granting of such application is deemed inexpedient, and shall also have power from time to time to increase or decrease the number of places where such banking operations may be carried on.
 
 (Dec. 23, 1913, ch. 6, §25 (pars.), 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 755; Sept. 17, 1919, ch. 60, §§1, 2, 41 Stat. 285, 286; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 89–485, §12(b), July 1, 1966, 80 Stat. 241.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Par. Third. Pub. L. 89–485 added par. Third.
 <b>1919</b>—Act Sept. 17, 1919, added par. beginning "Until January 21, 1921" and inserted "financial" in first sentence of last par.
 
 <b>1916</b>—Act Sept. 7, 1916, among other changes, added par. Second, and provisions relating to restrictions on purchasing stock in other banks, investigations as to compliance with regulations, disposal of interest and separation of accounts, etc. which are now contained in section 602 et seq. of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

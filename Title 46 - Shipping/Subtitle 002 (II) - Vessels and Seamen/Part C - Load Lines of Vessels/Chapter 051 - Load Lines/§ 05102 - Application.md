@@ -60,7 +60,7 @@
 
 (c) On application by the owner and after a survey under section 5105 of this title, the Secretary may assign load lines for a vessel excluded from the application of this chapter under subsection (b) of this section. A vessel assigned load lines under this subsection is subject to this chapter until the surrender of its load line certificate and the removal of its load line marks.
 
-(d) This chapter does not affect an international agreement to which the Government isa party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
+(d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
 (Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129; Pub. L. 111–281, title VI, §604(d)(1), Oct. 15, 2010, 124 Stat. 2965; Pub. L. 112–213, title III, §305(d)(1), Dec. 20, 2012, 126 Stat. 1565; Pub. L. 114–120, title VI, §612, Feb. 8, 2016, 130 Stat. 85.)
 
@@ -82,7 +82,7 @@ Clause (3) regarding "a vessel owned by a citizen of the United States or a corp
 
 Clause (4) regarding "a public vessel of the United States" includes all United States public vessels.
 
-Clause (5) regarding "a vessel otherwise subject to the jurisdiction of the United States" includes foreign vessels that are subject to United States jurisdiction as a result of bilateral agreements, licenses, customary international law or other means, including those using deepwater port or outer continental shelf or EEZ facilities located in areas subject to the jurisdiction of the United States.
+Clause (5) regarding "a vessel otherwise subject to the jurisdiction of the United States" includes foreignvessels that are subject to United States jurisdiction as a result of bilateral agreements, licenses, customary international law or other means, including those using deepwater port or outer continental shelf or EEZ facilities located in areas subject to the jurisdiction of the United States.
 
 Section 5102(b) lists the specific exemptions from load line requirements. The specific exemptions may be grouped as follows:
 
@@ -120,6 +120,8 @@ Section 5102(c) authorizes the Secretary to assign load lines for any vessel exe
 
 Section 5102(d) provides that this chapter shall not be construed as abrogating the provisions of other treaties and conventions to which the United States is a party, which are not in conflict with the International Convention on Load Lines.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(13). Pub. L. 114–120 added par. (13).
@@ -138,9 +140,11 @@ Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted "as measured under sectio
 
 <b>1990</b>—Subsec. (b)(5)(B). Pub. L. 101–595 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is not on a foreign voyage."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tendervessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
 #### Fish Tender Vessels in Aleutian Trade
 
@@ -162,5 +166,5 @@ In general.—Before December 31, 2006, the BOWFIN (United States official numbe
 
 Ensuring safety.—Before the date referred to in paragraph (1), a Coast Guard official who has reason to believe that the vessel referred to in paragraph (1) operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with section 3302 of title 46, United States Code, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

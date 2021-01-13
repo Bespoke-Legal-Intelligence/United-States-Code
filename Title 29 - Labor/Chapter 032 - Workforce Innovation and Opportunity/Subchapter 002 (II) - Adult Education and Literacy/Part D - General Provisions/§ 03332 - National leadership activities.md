@@ -68,7 +68,7 @@ The national leadership activities described in subsection (a) may include the f
 
 &emsp;&emsp;&emsp;(iii) the extent to which the provision of support services to eligible individuals enrolled in adult education and literacy activities increase the rate of enrollment in, and successful completion of, such programs; and
 
-&emsp;&emsp;&emsp;(iv) the extent to which different types of providers measurably improve the skillsof eligible individuals in adult education and literacy activities;
+&emsp;&emsp;&emsp;(iv) the extent to which different types of providers measurably improve the skills of eligible individuals in adult education and literacy activities;
 
 &emsp;&emsp;(E) collecting data, such as data regarding the improvement of both local and State data systems, through technical assistance and development of model performance data collection systems;
 
@@ -77,6 +77,8 @@ The national leadership activities described in subsection (a) may include the f
 &emsp;&emsp;(G) other activities designed to enhance the quality of adult education and literacy activities nationwide.
 
 (Pub. L. 113–128, title II, §242, July 22, 2014, 128 Stat. 1621.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

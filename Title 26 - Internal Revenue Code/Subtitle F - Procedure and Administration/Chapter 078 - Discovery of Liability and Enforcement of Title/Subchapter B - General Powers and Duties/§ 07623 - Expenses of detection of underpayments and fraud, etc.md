@@ -20,7 +20,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (A) In general
 
-&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
+&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (otherthan information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
@@ -32,7 +32,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (4) Appeal of award determination
 
-&emsp;Any determination regarding an award under paragraph (1), (2), or (3) may, within 30days of such determination, be appealed to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
+&emsp;Any determination regarding an award under paragraph (1), (2), or (3) may, within 30 days of such determination, be appealed to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter).
 
 #### (5) Application of this subsection
 
@@ -184,7 +184,7 @@ Pub. L. 109–432, div. A, title IV, §406(b), Dec. 20, 2006, 120 Stat. 2959, pr
 
 "(1)
 
-In general.—Not later than the date which is 12 months after the date of the enactment of this Act \[Dec. 20, 2006\], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the 'Whistleblower Office' which—
+In general.—Not later than the date which is 12 months after the date of the enactment of this Act\[Dec. 20, 2006\], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the 'Whistleblower Office' which—
 
 &emsp;"(A) shall at all times operate at the direction of the Commissioner of Internal Revenue and coordinate and consult with other divisions in the Internal Revenue Service as directed by the Commissioner of Internal Revenue,
 
@@ -206,7 +206,7 @@ Pub. L. 109–432, div. A, title IV, §406(c), Dec. 20, 2006, 120 Stat. 2960, pr
 
 #### Study of Payments Made for Detection of Underpayments and Fraud
 
-Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, notlater than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
+Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that the Secretary of the Treasury, not later than 1 year after July 22, 1998, would conduct a study and report to Congress on the use of this section, including an analysis of the present use of this section and any legislative or administrative recommendations regarding the provisions of this section and its application.
 
 #### Annual Report to Congress on Payments Made Under This Section and Resultant Collections
 

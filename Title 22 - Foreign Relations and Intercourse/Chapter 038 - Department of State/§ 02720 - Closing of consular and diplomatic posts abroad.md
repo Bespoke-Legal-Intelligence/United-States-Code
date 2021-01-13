@@ -20,7 +20,7 @@ Amounts made available to pay any expense related to the closing of a consular o
 
 The provisions of this section do not apply with respect to—
 
-&emsp;(1) any post closed because of a break or downgrading of diplomatic relations betweenthe United States and the country in which the post is located; or
+&emsp;(1) any post closed because of a break or downgrading of diplomatic relations between the United States and the country in which the post is located; or
 
 &emsp;(2) any post closed because there is a real and present threat to United States diplomatic or consular personnel in the city where the post is located, and a travel advisory warning against travel by United States citizens to that city has been issued by the Department of State.
 
@@ -30,11 +30,15 @@ As used in this section, the term "consular or diplomatic post" does not include
 
 (Aug. 1, 1956, ch. 841, title I, §48, as added Pub. L. 102–138, title I, §112(a)(1), Oct. 28, 1991, 105 Stat. 654.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 48 of act Aug. 1, 1956, was set out as a Short Title of 1956 Amendment note under section2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 Provisions similar to this section were contained in Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, and set out as a note under section 2656 of this title, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary of State
 

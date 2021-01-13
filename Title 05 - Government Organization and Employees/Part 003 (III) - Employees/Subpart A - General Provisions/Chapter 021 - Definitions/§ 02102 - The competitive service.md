@@ -50,9 +50,13 @@ Subsection (c) is supplied for conformity inasmuch as the terms are coextensive 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a)(1)(C). Pub. L. 95–454 added cl. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

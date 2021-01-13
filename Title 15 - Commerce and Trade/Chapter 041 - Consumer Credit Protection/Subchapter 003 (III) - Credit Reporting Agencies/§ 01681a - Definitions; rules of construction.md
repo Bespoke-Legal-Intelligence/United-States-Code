@@ -416,7 +416,7 @@ Pub. L. 108–159, title IV, §411(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendmentsmade by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
 
 #### Effective Date of 1996 Amendment
 

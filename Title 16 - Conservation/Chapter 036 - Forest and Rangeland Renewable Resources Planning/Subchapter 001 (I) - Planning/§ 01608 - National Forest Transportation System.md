@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of policy; time for development; method of financing; financing of forest development roads
 
-The Congress declares that the installation of a proper system of transportation to service the National Forest System, as is provided for in sections 532 to 538 of this title, shall be carriedforward in time to meet anticipated needs on an economical and environmentally sound basis, and the method chosen for financing the construction and maintenance of the transportation system should be such as to enhance local, regional, and national benefits: <i>Provided</i>, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts.
+The Congress declares that the installation of a proper system of transportation to service the National Forest System, as is provided for in sections 532 to 538 of this title, shall be carried forward in time to meet anticipated needs on an economical and environmentally sound basis, and the method chosen for financing the construction and maintenance of the transportation system should be such as to enhance local, regional, and national benefits: <i>Provided</i>, That limitations on the level of obligations for construction of forest roads by timber purchasers shall be established in annual appropriation Acts.
 
 #### (b) Construction of temporary roadways in connection with timber contracts, and other permits or leases
 
@@ -10,7 +10,7 @@ Unless the necessity for a permanent road is set forth in the forest development
 
 #### (c) Standards of roadway construction
 
-Roads constructed on National Forest System lands shall be designed to standards appropriate for the intended uses, considering safety, cost of transportation, and impacts on land and resources.
+Roads constructed on National Forest System lands shall be designed to standards appropriatefor the intended uses, considering safety, cost of transportation, and impacts on land and resources.
 
 (Pub. L. 93–378, §10, formerly §9, Aug. 17, 1974, 88 Stat. 479, renumbered §10 and amended Pub. L. 94–588, §§2, 8, Oct. 22, 1976, 90 Stat. 2949, 2956; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1405.)
 

@@ -53,6 +53,8 @@ Terms "judge of the United States" and "justice of the United States" are define
 
 The revised section continues the provision respecting the salary of a resigned judge but changes such provision for retired judges and makes them eligible to receive any increases provided by Congress for the office from which they retired. This change is in harmony with the clear line of distinction drawn by Congress between retirement and resignation.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted "subsection (e)" for "subsection (f)" wherever appearing.
@@ -91,6 +93,8 @@ Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec.
 
 <b>1951</b>—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, provided that: "The amendments made by this section \[amending this section and repealing section 180 of this title\] shall take effect as of October 1, 1999."
@@ -115,7 +119,7 @@ Calendar year 1990.—In the case of certifications required by section 371(f) o
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title X, §1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable."
+Pub. L. 100–702, title X, §1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendment made bythis section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable."
 
 #### Effective Date of 1984 Amendment
 

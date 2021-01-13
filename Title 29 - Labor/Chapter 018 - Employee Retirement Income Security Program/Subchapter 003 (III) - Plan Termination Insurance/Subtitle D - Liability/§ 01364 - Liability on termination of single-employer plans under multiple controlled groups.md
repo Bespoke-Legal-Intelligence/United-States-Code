@@ -12,6 +12,8 @@
 
 (Pub. L. 93–406, title IV, §4064, Sept. 2, 1974, 88 Stat. 1031; Pub. L. 96–364, title IV, §403(i), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(a)(5)(B), Apr. 7, 1986, 100 Stat. 270; Pub. L. 100–203, title IX, §9312(b)(2)(C)(i), Dec. 22, 1987, 101 Stat. 1330–361; Pub. L. 101–239, title VII, §7881(f)(3)(A), Dec. 19, 1989, 103 Stat. 2440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted "section 1368(a)" for "clauses (i)(II) and (ii) of section 1362(b)(1)(A)".
@@ -34,15 +36,17 @@
 
 <b>1986</b>—Pub. L. 99–272, §11016(a)(5)(B)(iii), substituted "on termination of single-employer plans under multiple controlled groups" for "of employers on termination of plan maintained by more than one employer" in section catchline.
 
-Subsec. (a). Pub. L. 99–272, §11016(a)(5)(B)(i), substituted "all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control" for "all employers who maintain a plan under which more than one employer makes contributions (other than a multiemployer plan)" and inserted "under section 1341(c) or 1342 of this title" after "terminated".
+Subsec. (a). Pub. L. 99–272, §11016(a)(5)(B)(i), substituted "all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control" for "all employers who maintain a plan underwhich more than one employer makes contributions (other than a multiemployer plan)" and inserted "under section 1341(c) or 1342 of this title" after "terminated".
 
 Subsec. (b). Pub. L. 99–272, §11016(a)(5)(B)(ii), amended subsec. (b) generally, substituting reference to each contributing sponsor and each member of its controlled group for reference to each employer of a plan maintained by more than one employer and inserted provisions that liability determined under section 1362(b)(1) of this title with respect to the entire plan be determined without regard to cls. (i)(II) and (ii) of section 1362(b)(1)(A) of this title and that the amount of liability determined under section 1362(c)(1) of this title with respect to the entire plan be allocated to each controlled group by multiplying such amount by the fraction described in par. (1)(B) in connection with such controlled group.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–364 inserted provisions excepting a multiemployer plan.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1987 Amendment
 

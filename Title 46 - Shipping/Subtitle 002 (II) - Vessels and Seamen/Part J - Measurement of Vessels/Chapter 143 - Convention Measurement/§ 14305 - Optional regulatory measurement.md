@@ -20,7 +20,7 @@
 
 &emsp;(9) section 403 of the Commercial Fishing Industry Vessel Act (46 U.S.C. 3302 note);
 
-&emsp;(10) the Officers' Competency Certificates Convention, 1936, and sections 8303 and 8304 of this title;
+&emsp;(10) the Officers' Competency Certificates Convention, 1936, and section 8304 of this title;
 
 &emsp;(11) the International Convention for the Safety of Life at Sea as provided by IMCO Resolution A.494 (XII) of November 19, 1981;
 
@@ -34,7 +34,7 @@
 
 (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8503(a)(2), Jan. 1, 2021, 134 Stat. 4747.)
 
 #### Historical and Revision Notes
 
@@ -84,6 +84,8 @@ Clause (15) provides that the regulatory measurement system may be used for the 
 
 Section 14305(b) provides that if a vessel is measured under the regulatory tonnage measurement system for the application of one law listed in subsection (a), it must be measured under that system for the application of all laws listed in subsection (a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referred to in subsec. (a)(3), probably means section 4(a) of the Vessel Bridge-to-Bridge Radiotelephone Act, which is classified to section 1203(a) of Title 33, Navigation and Navigable Waters.
@@ -94,11 +96,13 @@ Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, 
 
 The Officers' Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
 
-For provisions relating to International Conventions for the Safety of Life at Sea, referred to in subsec.\(a)(11), to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+For provisions relating to International Conventions for the Safety of Life at Sea, referred to in subsec. (a)(11), to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 
 For provisions relating to the International Convention for the Prevention of Pollution from Ships, as modified, referred to in subsec. (a)(13), see chapter 33 (§1901 et seq.) of Title 33.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(10). Pub. L. 116–283 substituted "section 8304" for "sections 8303 and 8304".
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States," for "documented vessel measured under this chapter," in introductory provisions.
 

@@ -14,7 +14,7 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 &emsp;&emsp;(I) are made to finance the export of commodities, products, or supplies that are not originally sourced from a cooperative, and
 
-&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishmentof the United States or a corporation wholly-owned directly or indirectly by the United States,
+&emsp;&emsp;(II) are not guaranteed or insured, in an amount equal to at least 95 percent of the amount loaned, by a department, agency, bureau, board, commission, or establishment of the United States or a corporation wholly-owned directly or indirectly by the United States,
 
 > &emsp;exceeds an amount that is equal to 50 percent of the bank's capital, then a sufficient interest in the loans shall be sold by the bank for cooperatives to commercial banks and other non-System lenders to reduce the total amount of such outstanding balances to an amount not greater than an amount equal to 50 percent of the bank's capital; and
 
@@ -60,6 +60,8 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 (Pub. L. 92–181, title III, §3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, §304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, §2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §3, Oct. 19, 1994, 108 Stat. 3497; Pub. L. 107–171, title V, §5402, May 13, 2002, 116 Stat. 350; Pub. L. 115–334, title V, §5411(7), Dec. 20, 2018, 132 Stat. 4679.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 struck out "Such regulations may include provisions for avoiding duplication between the Central Bank and district banks for cooperatives." before "Each bank may own".
@@ -72,7 +74,7 @@ Subsec. (b)(4). Pub. L. 107–171, §5402(2), added par. (4).
 
 Subsec. (b)(2). Pub. L. 103–376, §3(B), added par. (2) and struck out former par. (2) which read as follows: "A bank for cooperatives is authorized to make or participate in loans and commitments, and to extend other technical and financial assistance, to any domestic or foreign entity that is eligible for a guarantee or insurance as described in subparagraphs (A) and (B) with respect to transactions involving the Soviet Union (its successor entities or any of the individual republics of the Soviet Union) or an emerging democracy (as defined in section 1542(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note)) for the export of agricultural commodities and products thereof from the United States, including (where applicable) the cost of freight, if in each case—
 
-&emsp;"(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau,board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
+&emsp;"(A) the loan involved is unconditionally guaranteed or insured by a department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States; and
 
 &emsp;"(B) the guarantee or insurance—
 

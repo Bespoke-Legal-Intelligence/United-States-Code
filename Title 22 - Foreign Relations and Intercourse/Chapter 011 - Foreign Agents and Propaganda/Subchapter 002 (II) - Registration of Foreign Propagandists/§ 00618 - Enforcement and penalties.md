@@ -24,7 +24,7 @@ Failure to file any such registration statement or supplements thereto as is req
 
 #### (f) Injunctive remedy; jurisdiction of district court
 
-Whenever in the judgment of the Attorney General any person is engaged in or about to engage in any acts which constitute or will constitute a violation of any provision of this subchapter, or regulations issued thereunder, or whenever any agent of a foreign principal fails to comply with any of the provisions of this subchapter or the regulations issued thereunder, or otherwise is in violation of the subchapter, the Attorney General may make application to the appropriate United States district court for an order enjoining such acts or enjoining such person from continuing to act as an agent of such foreign principal, or for an order requiring compliance with any appropriate provision of the subchapter or regulation thereunder. The district court shall have jurisdiction and authority to issue a temporary or permanent injunction, restraining order or such other order which it may deem proper.
+Whenever in the judgment of the Attorney General any person is engaged in or about to engage in any acts which constitute or will constitute a violation of any provision of this subchapter, or regulations issued thereunder, or whenever any agent of a foreign principal failsto comply with any of the provisions of this subchapter or the regulations issued thereunder, or otherwise is in violation of the subchapter, the Attorney General may make application to the appropriate United States district court for an order enjoining such acts or enjoining such person from continuing to act as an agent of such foreign principal, or for an order requiring compliance with any appropriate provision of the subchapter or regulation thereunder. The district court shall have jurisdiction and authority to issue a temporary or permanent injunction, restraining order or such other order which it may deem proper.
 
 #### (g) Deficient registration statement
 
@@ -35,6 +35,8 @@ If the Attorney General determines that a registration statement does not comply
 It shall be unlawful for any agent of a foreign principal required to register under this subchapter to be a party to any contract, agreement, or understanding, either express or implied, with such foreign principal pursuant to which the amount or payment of the compensation, fee, or other remuneration of such agent is contingent in whole or in part upon the success of any political activities carried on by such agent.
 
 (June 8, 1938, ch. 327, §8, as added Apr. 29, 1942, ch. 263, §1, 56 Stat. 257; amended Sept. 23, 1950, ch. 1024, title I, §20(b), 64 Stat. 1005; June 27, 1952, ch. 477, title IV, §402(d), 66 Stat. 276; Aug. 1, 1956, ch. 849, §1, 70 Stat. 899; Pub. L. 89–486, §7, July 4, 1966, 80 Stat. 248; Pub. L. 98–620, title IV, §402(26), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–65, §9(8), Dec. 19, 1995, 109 Stat. 700; Pub. L. 104–208, div. C, title III, §308(e)(19), Sept. 30, 1996, 110 Stat. 3009–621.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Subsecs. (f) to (h). Pub. L. 89–486, §7(2), added subsecs. (f) to (h).
 <b>1952</b>—Subsec. (c). Act June 27, 1952, substituted "sections 1251 to 1253 of title 8" for "sections 155 and 156 of title 8".
 
 <b>1950</b>—Subsec. (e). Act Sept. 23, 1950, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

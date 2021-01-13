@@ -24,9 +24,13 @@ Historical and Revision Notes
 
 Section 7301 defines "service on deck", "one year's service" and "day" with respect to the qualifying time for the issuance of various types of endorsements as able seamen. This section also provides the Secretary with the authority to prescribe regulations to carry out this chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–364 substituted "fishing, fish processing, fish tender vessels" for "decked fishing vessels".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Merchant Marine Post-Service Career Opportunities
 

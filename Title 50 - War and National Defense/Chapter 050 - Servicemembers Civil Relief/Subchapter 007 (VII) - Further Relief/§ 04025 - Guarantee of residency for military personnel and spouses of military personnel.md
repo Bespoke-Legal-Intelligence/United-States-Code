@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office, a person who is absent from a State in compliance with military ornaval orders shall not, solely by reason of that absence—
+For the purposes of voting for any Federal office (as defined in section 30101 of title 52) or a State or local office, a person who is absent from a State in compliance with military or naval orders shall not, solely by reason of that absence—
 
 &emsp;(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or navalorders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 "(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 

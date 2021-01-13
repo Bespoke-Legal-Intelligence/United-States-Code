@@ -60,7 +60,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Prior Provisions
 
-A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to "territorial extent of law", prior to the general revision of this chapter by Pub. L. 85–859. See section 5065 of this title.
+A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to "territorial extent of law", prior tothe general revision of this chapter by Pub. L. 85–859. See section 5065 of this title.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Exception to Effective Date
 
-Pub. L. 85–859, title II, §210(a)(3), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959."
+Pub. L. 85–859, title II, §210(a)(3), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959."
 
 #### Beer Lost by Reason of Floods of 1951 or Hurricanes of 1954
 

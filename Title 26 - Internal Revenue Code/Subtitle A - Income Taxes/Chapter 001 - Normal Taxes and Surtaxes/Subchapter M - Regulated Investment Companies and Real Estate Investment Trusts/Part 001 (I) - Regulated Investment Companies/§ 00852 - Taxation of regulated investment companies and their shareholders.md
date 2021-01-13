@@ -224,7 +224,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (B) Treatment of exempt-interest dividends by shareholders
 
-&emsp;&emsp;An exempt-interest dividend shall be treated by the shareholders for all purposes of this subtitle as an item of interest excludable from gross income under section 103(a). Such purposes include but are not limited to—
+&emsp;&emsp;An exempt-interest dividend shall be treated by the shareholders for all purposesof this subtitle as an item of interest excludable from gross income under section 103(a). Such purposes include but are not limited to—
 
 &emsp;&emsp;&emsp;(i) the determination of gross income and taxable income,
 
@@ -276,7 +276,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (D) Late-year ordinary loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum ofany post-October specified loss and any post-December ordinary loss.
+&emsp;&emsp;For purposes of this paragraph, the term "late-year ordinary loss" means the sum of any post-October specified loss and any post-December ordinary loss.
 
 #### (E) Post-October specified loss
 
@@ -326,7 +326,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction (other than by reason of section 265 or 171(a)(2)) in computing its taxable income for such taxable year.
+&emsp;&emsp;&emsp;The earnings and profits of a regulated investment company for any taxable year\(but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction (other than by reason of section 265 or 171(a)(2)) in computing its taxable income for such taxable year.
 
 #### (ii) Coordination with treatment of net capital losses
 
@@ -434,7 +434,7 @@ In the case of a unit investment trust—
 
 &emsp;&emsp;(C) the taxpayer acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition, stock in such regulated investment company or in another regulated investment company and the otherwise applicable load charge is reduced by reason of the reinvestment right,
 
-> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gainor loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
+> &emsp;the load charge referred to in subparagraph (A) (to the extent it does not exceed the reduction referred to in subparagraph (C)) shall not be taken into account for purposes of determining the amount of gain or loss on the disposition referred to in subparagraph (B). To the extent such charge is not taken into account in determining the amount of such gain or loss, such charge shall be treated as incurred in connection with the acquisition referred to in subparagraph (C) (including for purposes of reapplying this paragraph).
 
 #### (2) Definitions and special rules
 
@@ -466,7 +466,7 @@ In the case of a unit investment trust—
 
 &emsp;For purposes of this subsection, the term "qualified fund of funds" means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI, §§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, §205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, §13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(144), (145), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, §2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, §10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, §229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, §511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, §1402(b)(1)(N), (2), title XIX, §§1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, §2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§301(b)(11), 362(c), title VII, §701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, §104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, §547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, §55(a), title X, §§1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, §311(b)(1), title VI,§§631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, §1173(b)(1)(B), title XV, §1511(c)(6), title XVIII, §§1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§1006(l)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, §7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, §13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, §1122(c)(2), (3), title XII, §1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, §566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, §505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, §11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, §201(c), title III, §§301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, §502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, §205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, §13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(144), (145), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### References in Text
 
@@ -494,7 +494,7 @@ Pub. L. 113–295, §205(a)(2), in introductory provisions, substituted "October
 
 Subsec. (b)(3)(C). Pub. L. 111–325, §301(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to definition of capital gain dividend.
 
-Subsec. (b)(4)(E). Pub. L. 111–325, §309(a), (b), substituted "Exception to holding period requirement forcertain regularly declared exempt-interest dividends" for "Authority to shorten required holding period" in heading, added cl. (i), inserted cl. (ii) designation and heading before "In the case of", and inserted "(other than a company described in clause (i))" after "regulated investment company".
+Subsec. (b)(4)(E). Pub. L. 111–325, §309(a), (b), substituted "Exception to holding period requirement for certain regularly declared exempt-interest dividends" for "Authority to shorten required holding period" in heading, added cl. (i), inserted cl. (ii) designation and heading before "In the case of", and inserted "(other than a company described in clause (i))" after "regulated investment company".
 
 Subsec. (b)(5)(A). Pub. L. 111–325, §301(b), amended subpar. (A) generally. Prior to amendment, text read as follows: "An exempt-interest dividend means any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and designated by it as an exempt-interest dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including exempt-interest dividends paid after the close of the taxable year as described in section 855) is greater than the excess of—
 
@@ -686,7 +686,7 @@ Subsec. (c). Pub. L. 85–866, §101(b), inserted sentence defining regulated in
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -722,7 +722,7 @@ Pub. L. 109–222, title V, §505(d), May 17, 2006, 120 Stat. 357, provided that
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: "The amendments made by thissection \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000."
+Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: "The amendments made by this section \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000."
 
 #### Effective Date of 1997 Amendment
 
@@ -756,7 +756,7 @@ Amendment by section 311(b)(1) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
+Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec.31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
 Pub. L. 99–514, title VI, §655(b), Oct. 22, 1986, 100 Stat. 2299, provided that: "The amendments made by subsection (a) \[amending this section and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
 

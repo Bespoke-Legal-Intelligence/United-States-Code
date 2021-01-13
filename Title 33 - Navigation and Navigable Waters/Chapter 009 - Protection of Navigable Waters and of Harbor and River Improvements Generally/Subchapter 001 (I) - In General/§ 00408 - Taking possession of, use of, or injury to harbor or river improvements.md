@@ -40,7 +40,7 @@ It shall not be lawful for any person or persons to take possession of or make u
 
 #### (1) Complete application
 
-&emsp;On or before the date that is 30 days after the date on which the Secretary receives an application for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
+&emsp;On or before the date that is 30 days after the date on which the Secretary receives anapplication for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
 
 #### (2) Decision
 
@@ -52,13 +52,15 @@ It shall not be lawful for any person or persons to take possession of or make u
 
 #### (3) Notification to Congress
 
-&emsp;In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 daysfrom the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
+&emsp;In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
 
 #### (d) Work Defined
 
 For the purposes of this section, the term "work" shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
 
 (Mar. 3, 1899, ch. 425, §14, 30 Stat. 1152; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 315; Pub. L. 114–322, title I, §1156(a), Dec. 16, 2016, 130 Stat. 1664; Pub. L. 115–270, title I, §1165, Oct. 23, 2018, 132 Stat. 3797.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Act Aug. 14, 1876, ch. 267, §3, 19 Stat. 139, penalizing persons injuring any p
 <b>2016</b>—Pub. L. 114–322 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 <b>1985</b>—Pub. L. 99–88 inserted further proviso empowering Secretary, on recommendation of Chief of Engineers, to grant permission for alteration or permanent occupation or use of any of public works mentioned in this section when in judgment of Secretary such occupation or use will not be injurious to public interest and will not impair usefulness of such work.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

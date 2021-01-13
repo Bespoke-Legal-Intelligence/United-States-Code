@@ -48,7 +48,9 @@ Reservation of funds.—Of the funds made available to carry out the TIFIA progr
 
 Release of funds.—Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §185; renumbered §605 and amended Pub. L. 109–59, title I, §§1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 619; Pub. L. 114–94, div. A, title II, §2001(d), Dec. 4, 2015, 129 Stat. 1443.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 249, §185; renumbered §605 andamended Pub. L. 109–59, title I, §§1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 619; Pub. L. 114–94, div. A, title II, §2001(d), Dec. 4, 2015, 129 Stat. 1443.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Subsec. (f). Pub. L. 114–94, §2001(d)(2), added subsec. (f).
 Pub. L. 109–59, §1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 
 Subsec. (a). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

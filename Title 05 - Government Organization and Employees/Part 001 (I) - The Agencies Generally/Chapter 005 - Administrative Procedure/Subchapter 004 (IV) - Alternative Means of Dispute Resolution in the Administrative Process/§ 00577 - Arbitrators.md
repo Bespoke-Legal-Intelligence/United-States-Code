@@ -6,6 +6,8 @@
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2742, §587; renumbered §577 and amended Pub. L. 102–354, §3(b)(2), (3), Aug. 26, 1992, 106 Stat. 944, 945.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–354, §3(b)(2), renumbered section 587 of this title as this section.

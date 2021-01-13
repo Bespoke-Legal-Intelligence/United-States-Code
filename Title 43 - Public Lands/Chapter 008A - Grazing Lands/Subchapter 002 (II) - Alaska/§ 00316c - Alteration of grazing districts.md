@@ -10,6 +10,8 @@ After any district is established the area embraced therein may be altered in an
 
 (Mar. 4, 1927, ch. 513, §4, 44 Stat. 1452.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 471c of Title 48, Territories and Insular Possessions.

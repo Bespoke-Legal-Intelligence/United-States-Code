@@ -24,13 +24,13 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (4) Permissive sale
 
-&emsp;An institution of the System receiving an offer from the previous owner to purchase theproperty at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
+&emsp;An institution of the System receiving an offer from the previous owner to purchase the property at a price less than the appraised value may accept such offer and sell the property to the previous owner. Notice shall be provided to the previous owner of the acceptance or rejection of such offer within 15 days after the receipt of such offer.
 
 #### (5) Rejection of offer of previous owner
 
 #### (A) Duties of institution
 
-&emsp;&emsp;An institution of the System that rejects an offer from the previous owner to purchase the property at a price less than the appraised value may not sell the property to any other person—
+&emsp;&emsp;An institution of the System that rejects an offer from the previous owner to purchasethe property at a price less than the appraised value may not sell the property to any other person—
 
 &emsp;&emsp;&emsp;(i) at a price equal to, or less than, that offered by the previous owner; or
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of this section, a System institution shall 
 
 #### (g) Mailing of notice
 
-Notwithstanding any other provision of this section, each certified mail notice requirement in this section shall be fully satisfied by mailing one certified mail notice to the last known address of the previous owner.
+Notwithstanding any other provision of this section, each certified mail notice requirementin this section shall be fully satisfied by mailing one certified mail notice to the last known address of the previous owner.
 
 #### (h) State laws
 
@@ -124,6 +124,8 @@ This section shall not apply to a bank for cooperatives.
 
 (Pub. L. 92–181, title IV, §4.36, as added Pub. L. 99–205, title III, §306, Dec. 23, 1985, 99 Stat. 1709; amended Pub. L. 100–233, title I, §108, Jan. 6, 1988, 101 Stat. 1582; Pub. L. 100–399, title I, §104, Aug. 17, 1988, 102 Stat. 990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows: "No institution of the Farm Credit System shall sell any real property that previously served as security for a loan in a tract larger than a normal family size farm in the vicinity of the property for less than the amount it can receive from the Capital Corporation."
@@ -133,6 +135,8 @@ Subsec. (b)(2). Pub. L. 100–399, §104(a), substituted "30" for "15".
 Subsec. (b)(3). Pub. L. 100–399, §104(b), substituted "15" for "30".
 
 Subsec. (g). Pub. L. 100–399, §104(c), substituted "previous owner" for "former borrower".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

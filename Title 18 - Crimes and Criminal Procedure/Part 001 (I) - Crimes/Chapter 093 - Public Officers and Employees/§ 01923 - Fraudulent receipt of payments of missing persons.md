@@ -26,6 +26,8 @@ Mar. 7, 1942, ch. 166, §8, 56 Stat. 145.
 
 Clauses (1) and (2) are substituted for the words "under this Act" to reflect the codification of the Act. The portion of the Act which is applicable to civilian officers and employees and their dependents is codified in subchapter VII of chapter 55 of title 5, United States Code. The portion of the Act which is applicable to members of the uniformed services and their dependents is codified in chapter 10 of title 37, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

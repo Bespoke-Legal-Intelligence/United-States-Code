@@ -20,7 +20,7 @@
 
 #### (D) Spangler Hills Off-Highway Vehicle Recreation Area
 
-&emsp;&emsp;Certain Bureau of Land Management land in the Conservation Area, comprising approximately 92,340 acres, as generally depicted on the map entitled "Proposed Spangler Hills OHV Recreation Area" and dated December 10, 2018, which shall be known asthe "Spangler Hills Off-Highway Vehicle Recreation Area".
+&emsp;&emsp;Certain Bureau of Land Management land in the Conservation Area, comprising approximately 92,340 acres, as generally depicted on the map entitled "Proposed Spangler Hills OHV Recreation Area" and dated December 10, 2018, which shall be known as the "Spangler Hills Off-Highway Vehicle Recreation Area".
 
 #### (E) Stoddard Valley Off-Highway Vehicle Recreation Area
 
@@ -76,7 +76,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), commercial development (including development of energy facilities, but excluding energy transport facilities, rights-of-way, and related telecommunication facilities) shall be prohibited in the off-highway vehicle recreation areas designated or expanded by subsection (a) if the Secretary determines that the development is incompatible with the purpose described in subsection (b).
+&emsp;&emsp;Except as provided in subparagraph (B), commercial development (including development of energy facilities, but excluding energy transport facilities, rights-of-way, and related telecommunication facilities) shall be prohibited in the off-highway vehiclerecreation areas designated or expanded by subsection (a) if the Secretary determines that the development is incompatible with the purpose described in subsection (b).
 
 #### (B) Exception
 

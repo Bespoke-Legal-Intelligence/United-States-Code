@@ -26,7 +26,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 (4) The Secretary of Defense shall prescribe a policy that addresses each of the following:
 
-&emsp;(A) The amount.<sup>1</sup> of dwell time a regular member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
+&emsp;(A) The amount of dwell time a regular member of the armed forces or unit remains at the member's or unit's permanent duty station or home port, as the case may be, between deployments.
 
 &emsp;(B) The amount of dwell time a reserve member of the armed forces remains at the member's permanent duty station after completing a deployment of 30 days or more in length.
 
@@ -72,7 +72,7 @@ Recordkeeping.—(1) The Secretary of Defense shall—
 
 &emsp;(B) the number of members who received each rate of allowance paid (estimated in the case of members described in the parenthetical phrase in subparagraph (A));
 
-&emsp;(C) the number of months each member received the allowance (or would have receivedit in the case of members described in the parenthetical phrase in subparagraph (A)); and
+&emsp;(C) the number of months each member received the allowance (or would have received it in the case of members described in the parenthetical phrase in subparagraph (A)); and
 
 &emsp;(D) the total amount expended on the allowance.
 
@@ -110,9 +110,11 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term "personnel tempo" means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
 
-(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401; Pub. L. 116–92, div. A, title V, §§506, 507(a), Dec. 20, 2019, 133 Stat. 1345.)
+(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401; Pub. L. 116–92, div. A, title V, §§506, 507(a), Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title X, §1081(a)(21), Jan. 1, 2021, 134 Stat. 3871.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4)(A). Pub. L. 116–283 struck out period after "The amount".
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–92, §506(a), substituted "be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate." for "be delegated to—
 
@@ -138,7 +140,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 &emsp;"(A) in the case of a member who is assigned to a combatant command in a position under the operational control of the officer in that combatant command who is the service component commander for the members of that member's armed force in that combatant command, by that officer; and
 
-&emsp;"(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general or admiral or who is the personnel chief for that armed force).
+&emsp;"(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general oradmiral or who is the personnel chief for that armed force).
 
 "(2) In this section, the term 'high-deployment days member' means a member who has been deployed 182 days or more out of the preceding 365 days.
 
@@ -212,7 +214,5 @@ Dual-Military Family Defined.—In this section, the term 'dual-military family'
 
 #### Review of Management of Deployments of Individual Members
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administrationof this section during fiscal year 2001 not later than Mar. 31, 2002.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
+Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
 

@@ -34,13 +34,17 @@
 
 (3) Of the amount of annual obligations from the Special Defense Acquisition Fund in each of fiscal years 2018 through 2022, not less than 20 percent shall be for funds to procure and stock precision guided munitions that may be required by partner and allied forces to enhance the effectiveness of current or future contributions of such forces to overseas contingency operations conducted or supported by the United States.
 
-(d) Funds may be appropriated for the armed forces for use as an emergency fund for research, development, test, and evaluation, or related procurement or production, only if the appropriation of the funds is authorized by law after June 30, 1966.
+(d) Funds may be appropriated for the armed forces for use as an emergency fund for research,development, test, and evaluation, or related procurement or production, only if the appropriation of the funds is authorized by law after June 30, 1966.
 
 (e) In each budget submitted by the President to Congress under section 1105 of title 31, amounts requested for procurement of equipment for the reserve components of the armed forces (including the National Guard) shall be set forth separately from other amounts requested for procurement for the armed forces.
 
 (f) In each budget submitted by the President to Congress under section 1105 of title 31, amounts requested for procurement of ammunition for the Navy and Marine Corps, and for procurement of ammunition for the Air Force, shall be set forth separately from other amounts requested for procurement.
 
-(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632; Pub. L. 114–328, div. A, title XII, §1202(a), (b), Dec. 23, 2016, 130 Stat. 2474; Pub. L. 115–91, div. A, title XII, §1203(a), Dec. 12, 2017, 131 Stat. 1642.)
+(Added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138; amended Pub. L. 94–106, title VIII, §801(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–342, title X, §1001(a)(1), (b)–(d)(1), Sept. 8, 1980, 94 Stat. 1117–1119; Pub. L. 96–513, title I, §102, title V, §511(4), Dec. 12, 1980, 94 Stat. 2840, 2920; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title III, §302, title IX, §§901(a), 902, 903, Dec. 1, 1981, 95 Stat. 1104, 1113, 1114; Pub. L. 97–113, title I, §108(b), Dec. 29, 1981, 95 Stat. 1524; Pub. L. 97–214, §4, July 12, 1982, 96 Stat. 170; Pub. L. 97–252, title IV, §402(a), title XI, §§1103, 1105, Sept. 8, 1982, 96 Stat. 725, 738, 739; Pub. L. 97–295, §1(3), (4), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title XIV, §1405(2), Oct. 19, 1984, 98 Stat. 2621; Pub. L. 99–145, title XII, §1208, title XIV, §1403, Nov. 8, 1985, 99 Stat. 723, 743; renumbered §114 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(1)–(9), (11), Oct. 1, 1986, 100 Stat. 994, 1001, 1002; Pub. L. 99–661, div. A, title I, §105(d), title XIII, §1304(a), Nov. 14, 1986, 100 Stat. 3827, 3979; Pub. L. 100–26, §7(j)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XII, §1203, Dec. 4, 1987, 101 Stat. 1154; Pub. L. 101–189, div. A, title XVI, §1602(b), Nov. 29, 1989, 103 Stat. 1597; Pub. L. 101–510, div. A, title XIV, §1481(a)(1), Nov. 5, 1990, 104 Stat. 1704; Pub. L. 104–106, div. A, title XV, §1501(c)(2), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title X, §1005, Sept. 23, 1996, 110 Stat. 2632; Pub. L. 114–328, div. A, title XII, §1202(a), (b), Dec. 23, 2016, 130 Stat. 2474; Pub. L. 115–91, div. A, title XII, §1203(a), Dec. 12, 2017, 131 Stat. 1642; Pub. L. 116–283, div. A, title XVIII, §1844(e)(1), Jan. 1, 2021, 134 Stat. 4246.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (b) of this section is amended by striking "section 2353" and inserting "section 4141". See 2021 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -79,6 +83,8 @@ Provisions similar to those in subsec. (c)(2) of this section were contained in 
 Prior similar provisions were contained in Pub. L. 86–149, title IV, §412, Aug. 10, 1959, 73 Stat. 322, as amended by Pub. L. 87–436, §2, Apr. 27, 1962, 76 Stat. 55; Pub. L. 88–174, title VI, §610, Nov. 7, 1963, 77 Stat. 329; Pub. L. 89–37, title III, §304, June 11, 1965, 79 Stat. 128; Pub. L. 90–168, §6, Dec. 1, 1967, 81 Stat. 526; Pub. L. 91–121, title IV, §405, Nov. 19, 1969, 83 Stat. 207; Pub. L. 91–441, title V, §§505, 509, Oct. 7, 1970, 84 Stat. 912, 913; Pub. L. 92–129, title VII, §701, Sept. 28, 1971, 85 Stat. 362; Pub. L. 92–436, title III, §302, title VI, §604, Sept. 26, 1972, 86 Stat. 736, 739, prior to repeal by Pub. L. 93–155, §803(b)(1).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "section 4141" for "section 2353".
 
 <b>2017</b>—Subsec. (c)(3). Pub. L. 115–91 substituted "Of the amount of annual obligations from the Special Defense Acquisition Fund in each of fiscal years 2018 through 2022, not less than 20 percent shall be for funds to procure" for "Of the amount available in the Special Defense Acquisition Fund in any fiscal year after fiscal year 2016, $500,000,000 may be used in such fiscal year only to procure".
 
@@ -162,7 +168,7 @@ Subsec. (c)(3)(D)(iii)(I). Pub. L. 97–22 struck out "and active military servi
 
 Subsec. (c)(4). Pub. L. 97–86, §903, added par. (4).
 
-Subsec. (e)(3), (4). Pub. L. 97–86, §302, struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness ofspecified military units proposed to be maintained during the next fiscal year.
+Subsec. (e)(3), (4). Pub. L. 97–86, §302, struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness of specified military units proposed to be maintained during the next fiscal year.
 
 Subsec. (g). Pub. L. 97–113 added subsec. (g).
 
@@ -188,9 +194,13 @@ Pub. L. 96–342, §1001(b)(2), (c), redesignated subsec. (e) as (f), substitute
 
 Subsec. (e). Pub. L. 94–106, §801(a)(2), added subsec. (e).
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title XII, §1203(b), Dec. 12, 2017, 131 Stat. 1642, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 2017."
+Pub. L. 115–91, div. A, title XII, §1203(b), Dec. 12, 2017, 131 Stat. 1642, provided that: "The amendment made bysubsection (a) \[amending this section\] shall take effect as of October 1, 2017."
 
 #### Effective Date of 2016 Amendment
 
@@ -250,7 +260,7 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 "Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
-"Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is made from profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
+"Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is madefrom profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
 
 "Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers' Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (l)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
 
@@ -348,7 +358,7 @@ Stabilization force.—The term 'Stabilization Force' means the NATO-led follow-
 
 &emsp;"(4)
 
-Follow-on mission.—The term 'follow-on mission' means a mission involving the deployment of ground elements of the United States Armed Forces in the Republic of Bosnia and Herzegovina after June 30, 1998 (other than as described in section 1203(b)).
+Follow-on mission.—The term 'follow-on mission' means a mission involving the deployment ofground elements of the United States Armed Forces in the Republic of Bosnia and Herzegovina after June 30, 1998 (other than as described in section 1203(b)).
 
 &emsp;"(5)
 
@@ -418,7 +428,7 @@ Pub. L. 99–661, div. A, title XIII, §1304(b), Nov. 14, 1986, 100 Stat. 3979, 
 
 #### Limitation on Source of Funds for Nicaraguan Democratic Resistance
 
-Pub. L. 99–661, div. A, title XIII, §1351, Nov. 14, 1986, 100 Stat. 3995, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: "Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provideassistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition)."
+Pub. L. 99–661, div. A, title XIII, §1351, Nov. 14, 1986, 100 Stat. 3995, as amended by Pub. L. 104–106, div. A, title X, §1063(a), Feb. 10, 1996, 110 Stat. 444, provided that: "Notwithstanding title II of the Military Construction Appropriations Act, 1987 \[Pub. L. 99–500, §101(k) \[title II\], Oct. 18, 1986, 100 Stat. 1783–287, 1783–295, and Pub. L. 99–591, §101(k) \[title II\], Oct. 30, 1986, 100 Stat. 3341–287, 3341–295\], or any other provision of law, funds appropriated or otherwise made available to the Department of Defense for any fiscal year for operation and maintenance may not be used to provide assistance for the democratic resistance forces in Nicaragua. If funds appropriated or otherwise made available to the Department of Defense for any fiscal year are authorized by law to be used for such assistance, funds for such purpose may only be derived from amounts appropriated or otherwise made available to the Department for procurement (other than ammunition)."
 
 #### Use of Appropriated Funds To Support Revenue Generating Activities in Large Metropolitan Areas Prohibited
 
@@ -432,7 +442,7 @@ Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat
 
 Pub. L. 96–107, title VIII, §802, Nov. 9, 1979, 93 Stat. 811, provided that:
 
-"(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
+"(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976,June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 
 "(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of test aircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
 

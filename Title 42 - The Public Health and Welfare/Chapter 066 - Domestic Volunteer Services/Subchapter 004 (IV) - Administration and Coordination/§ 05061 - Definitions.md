@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for National and Community Service appointed under section 12651c of this title;
+&emsp;(1) the term "Director" means the Chief Executive Officer of the Corporation for Nationaland Community Service appointed under section 12651c of this title;
 
 &emsp;(2) the terms "United States" and "States" mean the several States, the District of Columbia, the Virgin Islands, Puerto Rico, Guam, and <sup>1</sup> American Samoa, the Commonwealth of the Northern Mariana Islands, and, for the purposes of subchapter II of this chapter, the Trust Territory of the Pacific Islands;
 

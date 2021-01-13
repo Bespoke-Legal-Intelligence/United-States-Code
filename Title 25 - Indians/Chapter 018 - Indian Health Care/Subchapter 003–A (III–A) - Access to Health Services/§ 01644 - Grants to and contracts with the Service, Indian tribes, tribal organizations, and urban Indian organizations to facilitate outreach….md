@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall make grants to or enter into co
 
 &emsp;(1) to enroll for benefits under a program established under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\] and other health benefits programs; and
 
-&emsp;(2) with respect to such programs for which the charging of premiums and cost sharing is not prohibited under such programs, to pay premiums or cost sharing for coverage for such benefits, which may be based on financial need (as determined by the Indian tribe or tribes or tribal organizations being servedbased on a schedule of income levels developed or implemented by such tribe, tribes, or tribal organizations).
+&emsp;(2) with respect to such programs for which the charging of premiums and cost sharing is not prohibited under such programs, to pay premiums or cost sharing for coverage for such benefits, which may be based on financial need (as determined by the Indian tribe or tribes or tribal organizations being served based on a schedule of income levels developed or implemented by such tribe, tribes, or tribal organizations).
 
 #### (b) Conditions
 
@@ -57,6 +57,8 @@ In this section:
 &emsp;The term "cost sharing" includes any deduction, deductible, copayment, coinsurance, or similar charge.
 
 (Pub. L. 94–437, title IV, §404, as added Pub. L. 96–537, §6, Dec. 17, 1980, 94 Stat. 3176; amended Pub. L. 102–573, title IV, §403, Oct. 29, 1992, 106 Stat. 4566; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

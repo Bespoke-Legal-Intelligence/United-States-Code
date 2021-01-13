@@ -16,7 +16,7 @@ Hazardous fuels reduction projects, as defined in section 6511(2) of this title 
 
 &emsp;A project referred to in subsection (a) is a project to carry out forest restoration treatments that—
 
-&emsp;&emsp;(A) maximizes the retention of old-growth and large trees, as appropriate for the foresttype, to the extent that the trees promote stands that are resilient to insects and disease, and reduce the risk or extent of, or increase the resilience to, wildfires;
+&emsp;&emsp;(A) maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease, and reduce the risk or extent of, or increase the resilience to, wildfires;
 
 &emsp;&emsp;(B) considers the best available scientific information to maintain or restore the ecological integrity, including maintaining or restoring structure, function, composition, and connectivity; and
 
@@ -112,7 +112,7 @@ The Secretary shall conduct public notice and scoping for any project or action 
 
 #### References in Text
 
-Section 6511(2) of this title, referred to in subsec. (a), was in the original "the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511(2))" and was translated as referring to section 101(2) of that Act, which is classified to section 6511(2) of this title and defines "authorized hazardous fuel reduction project".
+Section 6511(2) of this title, referred to in subsec. (a), was in the original "the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511(2))" and was translated as referring to section 101(2) of that Act, which is classifiedto section 6511(2) of this title and defines "authorized hazardous fuel reduction project".
 
 Public Law 91–190, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

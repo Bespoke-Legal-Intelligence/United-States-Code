@@ -2,7 +2,7 @@
 
 Nothing in this part shall be construed—
 
-&emsp;(1) to prohibit a local educational agency from serving English learners simultaneously with children with similar educational needs,in the same educational settings where appropriate;
+&emsp;(1) to prohibit a local educational agency from serving English learners simultaneously with children with similar educational needs, in the same educational settings where appropriate;
 
 &emsp;(2) to require a State or a local educational agency to establish, continue, or eliminate any particular type of instructional program for English learners; or
 

@@ -26,6 +26,8 @@
 
 (Added Pub. L. 100–690, title VII, §7101(a), Nov. 18, 1988, 102 Stat. 4415; amended Pub. L. 101–647, title XXXV, §§3599B, 3599C, Nov. 29, 1990, 104 Stat. 4931, 4932.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–647, §3599B, inserted "of" before second reference to "offenders" in section catchline.

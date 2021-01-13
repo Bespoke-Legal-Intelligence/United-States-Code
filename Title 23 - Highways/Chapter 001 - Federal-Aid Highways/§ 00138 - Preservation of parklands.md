@@ -124,7 +124,7 @@ Rail and Transit.—
 
 &emsp;(1)
 
-In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used for the transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
+In general.—Improvements to, or the maintenance, rehabilitation, or operation of, railroad or rail transit lines or elements thereof that are in use or were historically used forthe transportation of goods or passengers shall not be considered a use of a historic site under subsection (a), regardless of whether the railroad or rail transit line or element thereof is listed on, or eligible for listing on, the National Register of Historic Places.
 
 &emsp;(2)
 
@@ -151,6 +151,8 @@ Clarification with respect to certain bridges and tunnels.—The bridges and tun
 &emsp;&emsp;&emsp;(ii) that have been railbanked or otherwise reserved for the transportation of goods or passengers.
 
 (Added Pub. L. 89–574, §15(a), Sept. 13, 1966, 80 Stat. 771; amended Pub. L. 90–495, §18(a), Aug. 23, 1968, 82 Stat. 823; Pub. L. 94–280, title I, §124, May 5, 1976, 90 Stat. 440; Pub. L. 100–17, title I, §133(b)(10), Apr. 2, 1987, 101 Stat. 171; Pub. L. 109–59, title VI, §6009(a)(1), Aug. 10, 2005, 119 Stat. 1874; Pub. L. 112–141, div. A, title I, §1119(c)(2), July 6, 2012, 126 Stat. 492; Pub. L. 113–287, §5(f)(2), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 114–94, div. A, title I, §§1301(a), 1302(a), 1303(a), title XI, §11502(a), Dec. 4, 2015, 129 Stat. 1375, 1377, 1378, 1690.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -185,6 +187,8 @@ Subsec. (b). Pub. L. 109–59, §6009(a)(1)(B), added subsec. (b).
 <b>1976</b>—Pub. L. 94–280 authorized the Secretary, in cooperation with the Secretary of the Interior and appropriate State and local officials, to conduct studies as to the most feasible Federal-aid routes for the movement of motor vehicular traffic through or around national parks so as to best serve the needs of the traveling public while preserving the natural beauty of these areas.
 
 <b>1968</b>—Pub. L. 90–495 amended section generally so as to render it identical to section 1653(f) of Title 49, Transportation, governing all programs and projects subject to the jurisdiction of the Secretary of Transportation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -228,7 +232,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Secretary, in coordination with the Secretary of the Interior, shall undertake a comprehensive study of alternative transportation needs in national parks and related public lands managed by Federal land management agencies \[to\] assist in carrying out the purposes described in subsection (a). The study shall be submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than January 1, 2000.
+In general.—The Secretary, in coordination with the Secretary of the Interior, shall undertake a comprehensive study of alternative transportation needs in national parks and related public lands managed by Federal land management agencies \[to\] assist in carrying out the purposes described in subsection\(a). The study shall be submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than January 1, 2000.
 
 &emsp;"(2)
 

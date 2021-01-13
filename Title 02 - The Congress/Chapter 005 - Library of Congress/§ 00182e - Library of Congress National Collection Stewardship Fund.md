@@ -32,7 +32,7 @@ Not later than 6 months after May 5, 2017, the Librarian shall submit to the Joi
 
 #### (g) Notification of transfers
 
-Prior to any transfer into the Fund, the Librarian shall notify the Joint Committee on the Library and the Committees on Appropriationsof the House and the Senate of the amount and origin of funds to be transferred.
+Prior to any transfer into the Fund, the Librarian shall notify the Joint Committee on the Library and the Committees on Appropriations of the House and the Senate of the amount and origin of funds to be transferred.
 
 #### (h) Effective date
 

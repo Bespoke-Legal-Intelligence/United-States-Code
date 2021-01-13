@@ -38,6 +38,8 @@ In subsection (a), the words "within that department" are inserted for clarity. 
 
 Subsection (b) is substituted for section 255(d) (less last sentence) of existing title 37. Section 255(d) last sentence) of existing title 37 is omitted, since the categories named therein are excluded by the words "a reserve officer". (See revision note for section 415(a) of this revised title.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -47,6 +49,8 @@ Subsection (b) is substituted for section 255(d) (less last sentence) of existin
 <b>1991</b>—Subsec. (c). Pub. L. 102–25 struck out "of this section" after "subsections (a) and (b)".
 
 <b>1968</b>—Subsecs. (a), (b). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) classified as a position as a senior level employee, in accordance with this title; and
 
-&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all other senior level employees of the Government Publishing Office calculated on an annual basis.
+&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all othersenior level employees of the Government Publishing Office calculated on an annual basis.
 
 (2) The Director of the Government Publishing Office shall establish the amount of the annual adjustment in the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided to all other senior level employees of the Government Publishing Office, consistent with this title.
 
@@ -25,6 +25,8 @@
 (e) The Inspector General shall, in accordance with applicable laws and regulations governing selections, appointments, and employment at the Government Publishing Office, obtain legal advice from a counsel reporting directly to the Inspector General or another Inspector General.
 
 (Added Pub. L. 100–504, title II, §202, Oct. 18, 1988, 102 Stat. 2530; amended Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. P, title XVI, §1602(c)(1), Dec. 20, 2019, 133 Stat. 3211.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 116–94, §1602(c)(1)(B), added subsec. (b) and struck out
 Subsecs. (c) to (e). Pub. L. 116–94, §1602(c)(1)(C), added subsecs. (c) to (e).
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

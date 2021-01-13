@@ -2,7 +2,7 @@
 
 #### (a) Procurement by Sergeant at Arms of Senate in places designated by Senator; places subject to use; lease of office space
 
-(1) The Sergeant at Arms of the Senate shall secure for each Senator office space suitable for the Senator's official use in places designated by the Senator in the State he represents. That space shall be secured in post offices or other Federal buildings at such places. In the eventsuitable office space is not available in post offices or other Federal buildings, the Sergeant at Arms shall secure other office space in those places.
+(1) The Sergeant at Arms of the Senate shall secure for each Senator office space suitable for the Senator's official use in places designated by the Senator in the State he represents. That space shall be secured in post offices or other Federal buildings at such places. In the event suitable office space is not available in post offices or other Federal buildings, the Sergeant at Arms shall secure other office space in those places.
 
 (2) The Senator may lease, on behalf of the United States Senate, the office space so secured for a term not extending beyond the term of office which he is serving on the first day of such lease, except that, in the case of a Senator whose term of office is expiring and who has been elected for another term, such lease may extend until the end of the term for which he has been so elected. Each such lease shall contain a provision permitting its cancellation upon sixty days written notice by the Sergeant at Arms and Doorkeeper of the Senate, in the event of the death or resignation of the Senator. A copy of each such lease shall be furnished to the Sergeant at Arms. Nothing in this paragraph shall be construed to require the Sergeant at Arms to enter into or execute any lease for or on behalf of a Senator.
 
@@ -42,7 +42,7 @@ The aggregate square feet of office space secured for Senator shall not at any t
 
 #### (d) Senators subject to maximum amount of aggregate square feet and maximum annual rental rate
 
-(1) Notwithstanding subsection (b), the aggregate square feet of office space secured for a Senator who is a Senator on July 1, 1974, shall not at any time exceed, as long as he continuously serves as a Senator, the greater of—
+(1) Notwithstanding subsection (b), the aggregate square feet of office space secured for aSenator who is a Senator on July 1, 1974, shall not at any time exceed, as long as he continuously serves as a Senator, the greater of—
 
 &emsp;(A) the applicable square footage limitation of such subsection; or
 
@@ -89,6 +89,8 @@ Or
 This section is effective on and after July 1, 1974.
 
 (Pub. L. 93–371, §3, Aug. 13, 1974, 88 Stat. 428; Pub. L. 94–32, title I, §4, June 12, 1975, 89 Stat. 183; Pub. L. 94–59, title I, §§106(a), 107, July 25, 1975, 89 Stat. 276; Pub. L. 95–26, title I, §105, May 4, 1977, 91 Stat. 83; Pub. L. 95–94, title I, §112(d), Aug. 5, 1977, 91 Stat. 664; Pub. L. 96–304, title I, §109, July 8, 1980, 94 Stat. 890; Pub. L. 99–88, title I, §194, Aug. 15, 1985, 99 Stat. 349; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144; Pub. L. 102–90, title I, §7(b), Aug. 14, 1991, 105 Stat. 451; Pub. L. 104–197, title I, §3, Sept. 16, 1996, 110 Stat. 2397; Pub. L. 106–57, title I, §3, Sept. 29, 1999, 113 Stat. 411; Pub. L. 108–7, div. H, title I, §4(a), Feb. 20, 2003, 117 Stat. 349.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -145,6 +147,8 @@ Subsec. (f)(5). Pub. L. 95–26 substituted "monthly" for "quarterly".
 Subsec. (c). Pub. L. 94–59, §106(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsecs. (f), (g). Pub. L. 94–32 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

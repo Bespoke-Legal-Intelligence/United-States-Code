@@ -38,6 +38,8 @@ The counties of Pennington and Lake of the Woods, in the Sixth Division, were cr
 
 Changes in arrangement and phraseology were made.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (6). Pub. L. 110–406 inserted "and Bemidji" after "Fergus Falls".

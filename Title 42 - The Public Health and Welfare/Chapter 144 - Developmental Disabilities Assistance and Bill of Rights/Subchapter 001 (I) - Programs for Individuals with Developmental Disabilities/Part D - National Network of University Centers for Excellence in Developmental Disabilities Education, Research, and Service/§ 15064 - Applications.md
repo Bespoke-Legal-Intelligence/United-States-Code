@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(iv) that shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan, and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
+&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan,and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet as often as necessary to carry out the role of the committee, but at a minimum twice during each grant year;
 
@@ -96,7 +96,7 @@ To be eligible to receive a supplemental grant under section 15061(b) of this ti
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under this part may not bemore than 75 percent of the necessary cost of such project, as determined by the Secretary.
+&emsp;The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under this part may not be more than 75 percent of the necessary cost of such project, as determined by the Secretary.
 
 #### (2) Urban or rural poverty areas
 

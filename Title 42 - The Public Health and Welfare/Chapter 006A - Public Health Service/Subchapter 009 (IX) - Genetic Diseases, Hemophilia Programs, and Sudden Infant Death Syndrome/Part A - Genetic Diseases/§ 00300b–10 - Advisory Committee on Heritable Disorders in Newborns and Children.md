@@ -16,7 +16,7 @@ The Advisory Committee shall—
 
 &emsp;(4) provide technical assistance, as appropriate, to individuals and organizations regarding the submission of nominations to the uniform screening panel, including prior to the submission of such nominations;
 
-&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are notyet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
+&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are not yet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
 
 &emsp;(6) develop a model decision-matrix for newborn screening expansion, including an evaluation of the potential public health impact, including the cost of such expansion, and periodically update the recommended uniform screening panel, as appropriate, based on such decision-matrix;
 
@@ -138,7 +138,7 @@ Subsec. (b)(8)(L). Pub. L. 113–240, §4(1)(D)(iii)–(v), added subpar. (L).
 
 Subsec. (d)(1). Pub. L. 113–240, §4(2)(A), substituted "120 days" for "180 days" and inserted at end "If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees of Congress of such determination together with an explanation for why the Secretary was unable to comply within such 120-day period, as well as a plan of action for consideration of such pending recommendation."
 
-Subsec. (d)(2). Pub. L. 113–240, §4(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008."
+Subsec. (d)(2). Pub. L. 113–240, §4(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Priorto amendment, text of par. (2) read as follows: "The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008."
 
 Subsec. (d)(3). Pub. L. 113–240, §4(2)(D), added par. (3). Former par. (3) redesignated (2).
 

@@ -18,11 +18,15 @@ Subsection (c) is derived from section 641 of title 48, U.S.C., 1940 ed., which 
 
 Other portions of section 1 of title 28, U.S.C., 1940 ed., are incorporated in sections 133 and 134 of this title. The remainder of section 641 of title 48, U.S.C., 1940 ed., is incorporated in sections 91 and 133 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted "regular" before "active service".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Continuation of Organization of Court
 
-Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out insection 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as a continuation of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title pursuant to his prior appointment.
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided in part that the provisions of this title as set out in section 1 of act June 25, 1948, with respect to the organization of the court, shall be construed as a continuation of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on Sept. 1, 1948, shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of this title pursuant to his prior appointment.
 

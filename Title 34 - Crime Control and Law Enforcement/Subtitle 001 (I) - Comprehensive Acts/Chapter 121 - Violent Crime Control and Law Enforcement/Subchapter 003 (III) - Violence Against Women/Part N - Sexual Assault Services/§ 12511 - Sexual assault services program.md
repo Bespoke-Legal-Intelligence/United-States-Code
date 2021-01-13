@@ -38,7 +38,7 @@ The purposes of this section are—
 
 #### (B) Grant funds
 
-&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations or tribal programs and activities for programsand activities within such State or territory that provide direct intervention and related assistance.
+&emsp;&emsp;Any funds received by a State or territory under this subsection that are not used for administrative costs shall be used to provide grants to rape crisis centers and other nonprofit, nongovernmental organizations or tribal programs and activities for programs and activities within such State or territory that provide direct intervention and related assistance.
 
 #### (C) Intervention and related assistance
 
@@ -120,7 +120,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General shall award grants to State, territorial, and tribal sexual assault coalitions to assist in supporting theestablishment, maintenance, and expansion of such coalitions.
+&emsp;&emsp;The Attorney General shall award grants to State, territorial, and tribal sexual assault coalitions to assist in supporting the establishment, maintenance, and expansion of such coalitions.
 
 #### (B) Minimum amount
 
@@ -202,6 +202,8 @@ The purposes of this section are—
 
 (Pub. L. 103–322, title IV, §41601, as added Pub. L. 109–271, §3(b), Aug. 12, 2006, 120 Stat. 754; amended Pub. L. 113–4, title II, §201, Mar. 7, 2013, 127 Stat. 80.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 14043g of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -216,9 +218,11 @@ Subsec. (b)(2)(C)(v). Pub. L. 113–4, §201(a)(2)(B), struck out "linguisticall
 
 Subsec. (b)(4). Pub. L. 113–4, §201(a)(3)(B), which directed striking out "the District of Columbia, Puerto Rico," after "Guam", was executed by striking out such phrase after "Guam," to reflect the probable intent of Congress.
 
-Pub. L. 113–4, §201(a)(3)(A), (C), (D), inserted "(including the District of Columbia and Puerto Rico)" after "The Attorney General shall allocate to each State", substituted "0.25 percent" for "0.125 percent", and struck out at end "The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula."
+Pub. L. 113–4, §201(a)(3)(A), (C), (D), inserted "(including the District of Columbia and Puerto Rico)" after "The Attorney General shall allocate to each State", substituted "0.25 percent" for "0.125 percent", andstruck out at end "The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula."
 
 Subsec. (f)(1). Pub. L. 113–4, §201(b), substituted "$40,000,000 to remain available until expended for each of fiscal years 2014 through 2018" for "$50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

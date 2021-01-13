@@ -4,9 +4,13 @@ If any provision of this subchapter, or the application of such provision to any
 
 (July 5, 1935, ch. 372, §16, 49 Stat. 457; June 23, 1947, ch. 120, title I, §101, 61 Stat. 151.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1947</b>—Act June 23, 1947, amended section generally by inserting new subject matter which was formerly covered by section 165 of this title. Section formerly referred to short title of chapter, see section 167 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1947 Amendment
 

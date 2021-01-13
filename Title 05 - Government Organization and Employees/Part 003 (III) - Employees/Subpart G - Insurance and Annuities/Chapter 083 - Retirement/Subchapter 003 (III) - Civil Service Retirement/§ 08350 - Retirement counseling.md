@@ -12,9 +12,13 @@
 
 (Added Pub. L. 99–335, title II, §205(a), June 6, 1986, 100 Stat. 592; amended Pub. L. 99–556, title II, §202, Oct. 27, 1986, 100 Stat. 3135.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–556 substituted "subsection (b)" for "subsection (b)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -30,7 +34,7 @@ In General.—The Federal Retirement Thrift Investment Board (in this section re
 
 "(b)
 
-Report on Financial Literacy Efforts.—The Board shall annually report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee onOversight and Reform\] of the House of Representatives on its Thrift Savings Plan education efforts on behalf of plan participants.
+Report on Financial Literacy Efforts.—The Board shall annually report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives on its Thrift Savings Plan education efforts on behalf of plan participants.
 
 "(c)
 

@@ -6,7 +6,7 @@ Any State that submits an application in accordance with subsection (b) may esta
 
 #### (b) Application
 
-A State may establish a medicare rural hospital flexibility program described in subsection\(c) if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
+A State may establish a medicare rural hospital flexibility program described in subsection (c) if the State submits to the Secretary at such time and in such form as the Secretary may require an application containing—
 
 &emsp;(1) assurances that the State—
 
@@ -58,7 +58,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(I) the facility need not meet hospital standards relating to the number of hours during a day, or days during a week, in which the facility must be open and fully staffed, except insofar as the facility is required to make available emergency care services as determined under clause (ii) and must have nursing services available on a 24-hour basis, but need not otherwise staff the facility except when an inpatient is present;
 
-&emsp;&emsp;&emsp;&emsp;(II) the facility may provide any services otherwise required to be provided by a full-time, on site dietitian, pharmacist, laboratory technician, medical technologist, and radiological technologist on a part-time, off site basis under arrangements as defined in section 1395x(w)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;(II) the facility may provide any services otherwise required to be provided by a full-time, on site dietitian, pharmacist,laboratory technician, medical technologist, and radiological technologist on a part-time, off site basis under arrangements as defined in section 1395x(w)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the inpatient care described in clause (iii) may be provided by a physician assistant, nurse practitioner, or clinical nurse specialist subject to the oversight of a physician who need not be present in the facility; and
 
@@ -224,7 +224,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (II) Final report
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall submit a final report to such committees not later than 180 days after the completion of all of the projects for which a grant is made under this section.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall submit a final report to such committees not later than180 days after the completion of all of the projects for which a grant is made under this section.
 
 #### (4) Additional requirements with respect to FLEX grants
 
@@ -338,7 +338,7 @@ The Secretary is authorized to waive such provisions of this part and part E as 
 
 There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g), $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33,title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
 #### References in Text
 
@@ -352,7 +352,7 @@ Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernizat
 
 #### Amendments
 
-<b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, andother delivery system reform programs determined appropriate by the Secretary" before period at end.
+<b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted "and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
 Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted ", to offset" for ", and to offset" and inserted "and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary" before period at end.
 
@@ -410,7 +410,7 @@ Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted "part D" for "part C".
 
 Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);".
 
-Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted "except in the case of a hospital located in an urban area, is located" for "is located" in introductory provisions, substituted "or (ii)" for ", (ii)", and struck out "or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section," after "section 1395ww(d)(5)(C) of this title,".
+Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted "except in the case of a hospital located in an urban area, is located" for "is located" in introductory provisions, substituted "or (ii)" for ", (ii)", and struckout "or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section," after "section 1395ww(d)(5)(C) of this title,".
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
@@ -418,7 +418,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end ", except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a 'physician' is a reference to a physician as defined in section 1395x(r)(1) of this title".
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted "because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital." for "because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilitiesmay be used for the furnishing of extended care services."
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted "because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital." for "because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services."
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 
@@ -474,7 +474,7 @@ Pub. L. 101–508, title IV, §4008(d)(4), Nov. 5, 1990, 104 Stat. 1388–45, pr
 
 #### Demonstration Project on Community Health Integration Models in Certain Rural Counties
 
-Pub. L. 110–275, title I, §123, July 15, 2008, 122 Stat. 2514, as amended by Pub. L. 111–148, title III, §3126, Mar. 23, 2010, 124 Stat. 425, provided that:
+Pub. L. 110–275, title I, §123, July 15, 2008, 122 Stat. 2514, as amended by Pub. L. 111–148, title III, §3126, Mar. 23, 2010, 124 Stat. 425; Pub. L. 116–260, div. CC, title I, §129, Dec. 27, 2020, 134 Stat. 2972, provided that:
 
 "(a)
 
@@ -516,11 +516,15 @@ In general.—Eligibility to participate in the demonstration project under this
 
 &emsp;&emsp;"(B)
 
-Eligible entity defined.—In this section, the term 'eligible entity' means an entity that—
+Eligible entity defined.—Subject to subparagraph (C), in this section, the term 'eligible entity' means an entity that—
 
 &emsp;&emsp;&emsp;"(i) is a Rural Hospital Flexibility Program grantee under section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)); and
 
 &emsp;&emsp;&emsp;"(ii) is located in a State in which at least 65 percent of the counties in the State are counties that have 6 or less residents per square mile.
+
+&emsp;&emsp;"(C)
+
+Extension period.—An entity shall only be eligible to participate in the demonstration project under this section during the extension period if the entity participated in the demonstration project under this section during the initial period.
 
 &emsp;"(2)
 
@@ -586,11 +590,23 @@ Duration.—
 
 &emsp;"(1)
 
-In general.—The demonstration project under this section shall be conducted for a 3-year period beginning on October 1, 2009.
+In general.—The demonstration project under this section shall be conducted for a 3-year period beginning on August 1, 2016 (referred to in this section as the 'initial period'), and 5-year period beginning on July 1, 2021 (referred to in this section as the 'extension period').
 
 &emsp;"(2)
 
-Beginning date of demonstration project.—The demonstration project under this section shall be considered to have begun in a State on the date on which the eligible counties selected to participate in the demonstration project under subsection (d)(3) begin operations in accordance with the requirements under the demonstration project.
+Beginning date of demonstration project.—
+
+&emsp;&emsp;"(A)
+
+Initial period.—During the initial period, the demonstration project under this section shall be considered to have begun in a State on the date on which the eligible counties selected to participate in the demonstration project under subsection (d)(3) begin operations in accordance with the requirements under the demonstration project.
+
+&emsp;&emsp;"(B)
+
+Extension period.—During the extension period, the demonstration project under this section shall be considered to have begun in a State on the date during such period on which the eligible counties selected to participate in the demonstration project under subsection (d)(3) begin operations in accordance with the requirements under the demonstration project.
+
+&emsp;"(3)
+
+Re-entry on a rolling basis for extension period.—A critical access hospital participating in the demonstration project under this section during the extension period shall begin such participation in the cost reporting year that begins on or after July 1, 2021.
 
 "(g)
 
@@ -600,11 +616,15 @@ Funding.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary shall provide for the transfer, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), of such sums as are necessary for the costs to the Centers for Medicare \& Medicaid Services of carrying out its duties under the demonstration project under this section.
+Initial period.—The Secretary shall provide for the transfer, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), of such sums as are necessary for the costs to the Centers for Medicare \& Medicaid Services of carrying out its duties under the demonstration project under this section with respect to the initial period.
 
 &emsp;&emsp;"(B)
 
 Budget neutrality.—In conducting the demonstration project under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration project under this section was not implemented.
+
+&emsp;&emsp;"(C)
+
+Extension period.—The Secretary shall provide for the transfer of $10,000,000, in appropriate part from the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), to the Centers for Medicare \& Medicaid Services for the purposes of carrying out its duties under the demonstration project under this section with respect to the extension period.
 
 &emsp;"(2) HRSA.—There are authorized to be appropriated to the Office of Rural Health Policy of the Health Resources and Services Administration $800,000 for each of fiscal years 2010, 2011, and 2012 for the purpose of carrying out the duties of such Office under the demonstration project under this section, to remain available for the duration of the demonstration project.
 
@@ -640,7 +660,7 @@ Extended care services.—The term 'extended care services' means the following:
 
 &emsp;"(2)
 
-Covered skilled nursing facility services.—The term 'covered skilled nursing facility services' has the meaning given such term in section1888(e)(2)(A) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)).
+Covered skilled nursing facility services.—The term 'covered skilled nursing facility services' has the meaning given such term in section 1888(e)(2)(A) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)).
 
 &emsp;"(3)
 

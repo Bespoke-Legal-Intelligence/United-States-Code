@@ -70,7 +70,7 @@ The authority under this subchapter may not be used to regulate or prohibit unde
 
 &emsp;&emsp;The Secretary of State shall include in the notification required under subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) a detailed description of the items to be offered, including a brief description ofthe capabilities of any item for which a license to export, reexport, or in-country transfer the items is sought;
+&emsp;&emsp;&emsp;(i) a detailed description of the items to be offered, including a brief description of the capabilities of any item for which a license to export, reexport, or in-country transfer the items is sought;
 
 &emsp;&emsp;&emsp;(ii) the reasons why the foreign country, person, or entity to which the export, reexport, or in-country transfer is proposed to be made has requested the items under the export, reexport, or in-country transfer, and a description of the manner in which such country, person, or entity intends to use such items;
 
@@ -142,7 +142,7 @@ The Secretary shall deny an application to engage in any activity described in s
 
 This subchapter, referred to in subsecs. (a), (b), (d)(1)(A), and (e), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 IEEPA, referred to in subsec. (b), is the International Emergency Economic Powers Act, title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 

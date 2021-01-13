@@ -10,6 +10,8 @@ The President shall issue and enforce regulations determining the eligibility of
 
 (Pub. L. 87–195, pt. III, §621, Sept. 4, 1961, 75 Stat. 445; Pub. L. 87–565, pt. III, §302(a), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(a), Dec. 16, 1963, 77 Stat. 388; Pub. L. 90–554, pt. III, §302(a), Oct. 8, 1968, 82 Stat. 964.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -22,9 +24,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1962</b>—Pub. L. 87–565 struck out designation "(a)" from provisions of subsec. (a), and repealed subsecs. (b) to (e) which related to the abolition of the Development Loan Fund, International Cooperation Administration, and the Office of Inspector General and Comptroller, the transfer of their functions, and the transfer of the function of the Export-Import Bank under section 1704(e) of title 7.
 
-#### Delegation of Functions
-
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out below.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### AID Office of Security
 
@@ -36,7 +36,7 @@ Establishment of Office.—There shall be established within the Office of the A
 
 "(b)
 
-Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office of Security all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading 'Operating Expenses of the Agency for International Development' \[112 Stat. 2681–157\].
+Transfer and Allocation of Appropriations and Personnel.—There are transferred to the Office ofSecurity all security functions exercised by the Office of Inspector General of the Agency for International Development exercised before the date of enactment of this Act \[Oct. 21, 1998\]. The Administrator shall transfer from the Office of the Inspector General of such Agency to the Office of Security established by subsection (a), the personnel (including the Senior Executive Service position designated for the Assistant Inspector General for Security), assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, and other funds held, used, available to, or to be made available in connection with such functions. Unexpended balances of appropriations, and other funds made available or to be made available in connection with such functions, shall be transferred to and merged with funds appropriated by this Act under the heading 'Operating Expenses of the Agency for International Development' \[112 Stat. 2681–157\].
 
 "(c)
 
@@ -50,9 +50,15 @@ Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §581\], Nov. 29, 1999, 113 S
 
 Pub. L. 102–391, title V, §599E, Oct. 6, 1992, 106 Stat. 1698, provided that: "The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Agency for International Development."
 
-#### <b>REORGANIZATION PLAN NO. 2 OF 1979</b>
+#### Repeal of Reorganization Plan No. 2 of 1979
 
 Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective Apr. 1, 1999.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out below.
 
 #### Executive Order No. 10973
 
@@ -110,7 +116,7 @@ Department of State
 
 (b) The functions under section 653 of the Act \[22 U.S.C. 2413\] delegated to the Secretary shall be exercised in consultation with the Secretary of Defense, insofar as they relate to functions under the Act administered by the Department of Defense, and the Director of the Office of Management and Budget.
 
-(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[former 22 U.S.C. 2199(f), 22 U.S.C. 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with theAdministrator of the United States Agency for International Development.
+(c) The functions under sections 239(f), 620(e), 620(g), 620(j), 620(q), and 620(s) of the Act \[former 22 U.S.C. 2199(f), 22 U.S.C. 2370(e), (g), (j), (q), (s)\] delegated to the Secretary shall be exercised in consultation with the Administrator of the United States Agency for International Development.
 
 (d) The Secretary shall perform all public information functions abroad with respect to the foreign assistance, aid, and development programs of the United States Government, to the extent such functions are not specifically assigned by statute to be performed by a different officer.
 
@@ -194,7 +200,7 @@ Other Agencies
 
 Additional Delegations and Limitations of Authority; Consultation
 
-1–601. <i>General Delegation of Functions</i>. There are hereby delegated to the heads of agencies having responsibilities for carrying out the provisions of the Act\[this chapter\] all functions conferred upon the President by:
+1–601. <i>General Delegation of Functions</i>. There are hereby delegated to the heads of agencies having responsibilities for carrying out the provisions of the Act \[this chapter\] all functions conferred upon the President by:
 
 (a) section 654 \[22 U.S.C. 2414\] (except as reserved to the President); and
 

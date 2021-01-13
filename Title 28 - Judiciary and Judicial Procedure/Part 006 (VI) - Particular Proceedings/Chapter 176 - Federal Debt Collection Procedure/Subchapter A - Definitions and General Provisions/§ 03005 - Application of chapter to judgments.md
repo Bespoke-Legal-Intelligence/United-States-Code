@@ -4,9 +4,13 @@ This chapter shall not apply with respect to a judgment on a debt if such judgme
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4936.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this chapter, referred to in text, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

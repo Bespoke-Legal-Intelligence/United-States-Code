@@ -1,6 +1,6 @@
 ### §410i. Exterior boundaries; administration
 
-Notwithstanding section 410 of this title, or any action taken pursuant to authority contained therein, the exterior boundary of Everglades National Park, Florida, is subject to the provisions of section 410o of this title, fixed to include the following described lands:
+Notwithstanding section 410 of this title, or any action taken pursuant to authority contained therein, the exterior boundary of Everglades National Park, Florida, is subject to theprovisions of section 410o of this title, fixed to include the following described lands:
 
 &emsp;(1) Beginning at the intersection of the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, and the west line of township 54 south, range 37 east, as shown on the Everglades National Park base map numbered NP–EVE–7109, revised August 10, 1949;
 
@@ -152,7 +152,7 @@ Notwithstanding section 410 of this title, or any action taken pursuant to autho
 
 &emsp;thence easterly along the south right-of-way line of the Loop Road and the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, through sections 20, 21, 22, 23, and 24, township 54 south, range 35 east, to the intersection of the east township line, township 54 south, range 35 east;
 
-&emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, through sections 19, 20, 21, 22, 23, and 24, township 54 south, range 36 east, to the east township line of township 54 south, range 36 east;
+&emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, throughsections 19, 20, 21, 22, 23, and 24, township 54 south, range 36 east, to the east township line of township 54 south, range 36 east;
 
 &emsp;thence easterly along the south right-of-way line of United States Highway Numbered 41, also known as the Tamiami Trail, across township 36½ east to the intersection of the west line of township 54 south, range 37 east, the point of beginning;
 

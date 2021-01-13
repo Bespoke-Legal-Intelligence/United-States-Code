@@ -66,9 +66,27 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;This subsection may not be construed to preclude the Secretary from establishing defenses against the original lender based on fraud or material misrepresentation or to bar the Secretary from establishing by regulations in effect on the date of issuance or disbursement, whichever is earlier, partial defenses to the amount payable on the guarantee.
 
+#### (5) Trailing documents
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+
+&emsp;&emsp;&emsp;(i) a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
+
+&emsp;&emsp;&emsp;(ii) the required trailing documents are outstanding.
+
+#### (B) Termination of indemnification agreement
+
+&emsp;&emsp;An indemnification agreement between an originating lender and the Secretary described in subparagraph (A) shall only terminate upon receipt by the Secretary of the trailing documents described in that subparagraph in a form and manner that is acceptable to the Secretary.
+
+#### (C) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as authorizing the Bureau of Indian Affairs to delay the issuance of a final certified title status report and recorded mortgage relating to a loan closed on Indian trust land.
+
 #### (d) Guarantee fee
 
-The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee for the guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
+The Secretary shall establish and collect, at the time of issuance of the guarantee, a fee forthe guarantee of loans under this section, in an amount not exceeding 3 percent of the principal obligation of the loan. The Secretary may also establish and collect annual premium payments in an amount not exceeding 1 percent of the remaining guaranteed balance (excluding the portion of the remaining balance attributable to the fee collected at the time of issuance of the guarantee). The Secretary shall establish the amount of the fees and premiums by publishing a notice in the Federal Register. The Secretary shall deposit any fees and premiums collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i).
 
 #### (e) Liability under guarantee
 
@@ -116,7 +134,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Requirements
 
-&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder ofthe guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+&emsp;&emsp;Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States.The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
 #### (2) Limitations on liquidation
 
@@ -268,13 +286,15 @@ Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe
 
 &emsp;(9) The term "trust land" means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229; Pub. L. 113–6, div. F, title VIII, §1806, Mar. 26, 2013, 127 Stat. 433; Pub. L. 113–235, div. K, title II, §241, Dec. 16, 2014, 128 Stat. 2759.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–37, §2, June 18, 2007, 121 Stat. 229; Pub. L. 113–6, div. F, title VIII, §1806, Mar. 26, 2013, 127 Stat. 433; Pub. L. 113–235, div. K, title II, §241, Dec. 16, 2014, 128 Stat. 2759; Pub. L. 116–260, div. Q, title I, §105(b), Dec. 27, 2020, 134 Stat. 2171.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, asamended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -289,6 +309,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(5). Pub. L. 116–260 added par. (5).
 
 <b>2014</b>—Subsec. (h)(1)(B). Pub. L. 113–235 inserted after first sentence "Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary."
 
@@ -324,9 +346,9 @@ Subsec. (h)(1)(A)(i). Pub. L. 104–330, §701(d)(1)(A), struck out "in a court 
 
 Subsec. (h)(1)(A)(ii). Pub. L. 104–330, §701(d)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: "Without seeking a judicial foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a claim for payment under the guarantee and the Secretary shall only pay to such holder for a loss on any single loan an amount equal to 90 percent of the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
-Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of theholder of the guarantee and the holder shall assign the obligation and security to the Secretary."
+Subsec. (h)(2), (3). Pub. L. 104–330, §701(d)(2), (3), (e), redesignated par. (3) as (2), in first sentence substituted "restricted Indian land, the mortgagee or" for "tribal allotted or trust land,", in second sentence substituted "mortgagee or the Secretary" for "Secretary" in two places, and struck out heading and text of former par. (2). Text read as follows: "Notwithstanding paragraph (1), upon receiving notice of default on a loan guaranteed under this section from the holder of the guarantee, the Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary."
 
-Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
+Subsec. (i)(5)(A). Pub. L. 104–330, §701(j)(1), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The authority of theSecretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent or in such amounts as are or have been provided in appropriations Acts for such fiscal year."
 
 Subsec. (i)(5)(B). Pub. L. 104–330, §701(j)(2), inserted at end "Any amounts appropriated pursuant to this subparagraph shall remain available until expended."
 
@@ -340,9 +362,29 @@ Subsec. (k)(5). Pub. L. 104–330, §701(h)(2), inserted concluding provisions, 
 
 Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out former par. (8) which read as follows: "The term 'tribe' means any tribe, band, pueblo, group, community, or nation of Indians or Alaska Natives."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: "The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\]."
+
+#### Findings Related to Improvements to Loan Guarantees for Indian Housing
+
+Pub. L. 116–260, div. Q, title I, §105(a), Dec. 27, 2020, 134 Stat. 2170, provided that: "Congress finds that—
+
+&emsp;"(1) the extended timelines for approving lenders' applications to participate in the program established under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a) are unacceptably long;
+
+&emsp;"(2) those extended timelines inhibit the ability of lenders to provide needed mortgage loans on Native American reservations; and
+
+&emsp;"(3) it can take a significant amount of time for certain Bureau of Indian Affairs Land Title and Records Offices to issue final certified title status reports for mortgages issued on Indian trust land under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a), which delays the guarantee of the loan by the Department of Housing and Urban Development."
+
+#### Reports on Acceleration of Processing
+
+Pub. L. 116–260, div. Q, title I, §105(c), Dec. 27, 2020, 134 Stat. 2171, provided that: "The Secretary of Housing and Urban Development shall—
+
+&emsp;"(1) report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate and the Committee on Financial Services and the Committee on Natural Resources of the House of Representatives on a semi-annual basis on the progress that the Secretary is making to accelerate the processing of loan applications on fee simple and Indian trust land under section 184 of the Housing and Community Development Act of 1992 (12 U.S.C. 1715z–13a); and
+
+&emsp;"(2) if there is no improvement in accelerating those processing timelines, submit to the committees described in paragraph (1) a report explaining the lack of improvement."
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "3702(d)".</i>
 

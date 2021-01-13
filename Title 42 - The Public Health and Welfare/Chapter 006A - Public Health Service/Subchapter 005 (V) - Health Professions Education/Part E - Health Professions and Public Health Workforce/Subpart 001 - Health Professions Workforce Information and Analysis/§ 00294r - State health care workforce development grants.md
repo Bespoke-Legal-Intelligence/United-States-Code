@@ -6,7 +6,7 @@ There is established a competitive health care workforce development grant progr
 
 #### (b) Fiscal and administrative agent
 
-The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the "Administration") shall be the fiscal and administrative agent for the grants awarded under thissection. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the "Commission"), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
+The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the "Administration") shall be the fiscal and administrative agent for the grants awarded under this section. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the "Commission"), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
 
 &emsp;(1) administering the grants;
 
@@ -74,7 +74,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 &emsp;The Administration shall—
 
-&emsp;&emsp;(A) competitively award implementation grants to State partnerships to enable suchpartnerships to implement activities that will result in a coherent and comprehensive plan for health workforce development that will address current and projected workforce demands within the State; and
+&emsp;&emsp;(A) competitively award implementation grants to State partnerships to enable such partnerships to implement activities that will result in a coherent and comprehensive plan for health workforce development that will address current and projected workforce demands within the State; and
 
 &emsp;&emsp;(B) inform the Commission and Congress about the awards made.
 
@@ -144,7 +144,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (8) Match
 
-&emsp;Each State partnership receiving an implementation grant shall provide an amount, incash or in kind that is not less than 25 percent of the amount of the grant, to carry out the activities supported by the grant. The matching funds may be provided from funds available from other Federal, State, local, or private sources to carry out such activities.
+&emsp;Each State partnership receiving an implementation grant shall provide an amount, in cash or in kind that is not less than 25 percent of the amount of the grant, to carry out the activities supported by the grant. The matching funds may be provided from funds available from other Federal, State, local, or private sources to carry out such activities.
 
 #### (9) Reports
 
@@ -198,7 +198,7 @@ Prior sections 294z to 294cc were omitted in the general amendment of this subch
 
 Section 294z, act July 1, 1944, ch. 373, title VII, §758, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(h), 91 Stat. 391; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2737, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title I, §102, title II, §210(a), 99 Stat. 523, 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §§605, 628(9), 629(b)(2), 102 Stat. 3126, 3146, related to scholarships for students of exceptional financial need.
 
-Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90Stat. 2289; amended Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, established a Lister Hill scholarship program of grants for family practice of medicine.
+Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, established a Lister Hill scholarship program of grants for family practice of medicine.
 
 Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323, related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
 

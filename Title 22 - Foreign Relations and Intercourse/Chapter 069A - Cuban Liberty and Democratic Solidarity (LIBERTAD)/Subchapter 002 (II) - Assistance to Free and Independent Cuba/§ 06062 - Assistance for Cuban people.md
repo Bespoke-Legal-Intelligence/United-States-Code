@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(II) assistance described in subparagraph (C).
 
-&emsp;&emsp;(ii) Assistance in addition to assistance under clause (i) may be provided, but only after the President certifies to the appropriate congressional committees, in accordance with procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\], that such assistance is essential to the successful completion of the transition to democracy.
+&emsp;&emsp;(ii) Assistance in addition to assistance under clause (i) may be provided, but only after the President certifies to the appropriate congressional committees, in accordance with procedures applicable to reprogramming notifications under section 634A of the Foreign Assistance Act of 1961 \[22U.S.C. 2394–1\], that such assistance is essential to the successful completion of the transition to democracy.
 
 &emsp;&emsp;(iii) Only after a transition government in Cuba is in power, freedom of individuals to travel to visit their relatives without any restrictions shall be permitted.
 
@@ -98,15 +98,17 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 &emsp;&emsp;&emsp;(iii) negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
-&emsp;&emsp;(C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 3317(b)(5) of title 19; and
+&emsp;&emsp;(C) specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); <sup>1</sup> and
 
 &emsp;&emsp;(D) actions proposed or anticipated to be undertaken, and any proposed legislation necessary or appropriate, to achieve any of such policy and negotiating objectives.
 
 #### (2) Consultation
 
-&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
+&emsp;The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of1974 \[19 U.S.C. 2155\] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
-(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A),\(2)(W), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 115–254, div. F, title VI, §1470(n), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 104–114, title II, §202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 115–254, div. F, title VI, §1470(n), Oct. 5, 2018, 132 Stat. 3518.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,11 +122,15 @@ The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
+Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (b)(5)(D)(ii), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(B)(iv). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
 
 <b>2008</b>—Subsec. (b)(2)(B)(ii). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -133,4 +139,6 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -84,3 +84,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
+#### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
+
+Period of availability during which a recipient may expend grant amounts under this section extended for amounts awarded for fiscal years 2019 and 2020, see section 441 of div. N of Pub. L. 116–260, set out as a note under section 31102 of this title.
+

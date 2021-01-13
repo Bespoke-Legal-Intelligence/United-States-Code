@@ -58,9 +58,13 @@ Neither this section, nor any plan of action or use agreement implementing this 
 
 (Pub. L. 100–242, title II, §214, as added Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4251; amended Pub. L. 114–94, div. G, title LXXVII, §77002, Dec. 4, 2015, 129 Stat. 1790.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

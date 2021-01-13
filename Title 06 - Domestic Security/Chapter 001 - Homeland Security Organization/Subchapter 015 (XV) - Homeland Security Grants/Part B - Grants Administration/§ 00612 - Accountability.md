@@ -14,7 +14,7 @@
 
 #### (C) Improper payments
 
-&emsp;&emsp;Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note), for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
+&emsp;&emsp;Consistent with subchapter IV of chapter 33 of title 31, for each of the grant programs under sections 604 and 605 of this title and section 762 of this title, the Administrator shall specify policies and procedures for—
 
 &emsp;&emsp;&emsp;(i) identifying activities funded under any such grant program that are susceptible to significant improper payments; and
 
@@ -60,7 +60,7 @@
 
 #### (5) Recovery audits
 
-&emsp;The Administrator shall conduct a recovery audit under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
+&emsp;The Administrator shall conduct a recovery audit under section 3352(i) of title 31 for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
 
 &emsp;&emsp;(A) a financial audit has identified improper payments that can be recouped; and
 
@@ -154,21 +154,25 @@
 
 &emsp;At the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress a report setting forth the amount of funding provided during that fiscal year to Indian tribes under any grant program administered by the Department, whether provided directly or through a subgrant from a State or high-risk urban area.
 
-(Pub. L. 107–296, title XX, §2022, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 287; amended Pub. L. 111–204, §2(h)(6)(B)(iii), July 22, 2010, 124 Stat. 2231; Pub. L. 113–284, §2(c)(1), (2), Dec. 18, 2014, 128 Stat. 3089.)
+(Pub. L. 107–296, title XX, §2022, as added Pub. L. 110–53, title I, §101, Aug. 3, 2007, 121 Stat. 287; amended Pub. L. 111–204, §2(h)(6)(B)(iii), July 22, 2010, 124 Stat. 2231; Pub. L. 113–284, §2(c)(1), (2), Dec. 18, 2014, 128 Stat. 3089; Pub. L. 116–117, §3(b)(2), Mar. 2, 2020, 134 Stat. 133.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Improper Payments Information Act of 2002, referred to in subsec. (a)(1)(C), is Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, which is set out as a note under section 3321 of Title 31, Money and Finance.
-
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.) and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
-
-Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (a)(5), is section 2(h) of Pub. L. 111–204, which is set out as a note under section 3321 of Title 31, Money and Finance.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.)and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (a)(1)(C). Pub. L. 116–117, §3(b)(2)(A), substituted "Consistent with subchapter IV of chapter 33 of title 31" for "Consistent with the Improper Payments Information Act of 2002 (31 U.S.C. 3321 note)" in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 116–117, §3(b)(2)(B), substituted "section 3352(i) of title 31" for "section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)" in introductory provisions.
 
 <b>2014</b>—Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), "paragraph (2)" for "paragraphs (2) and (3)" and "paragraph (3)" for "paragraph (4)", and struck out former par. (3) which related to Office of Inspector General performance audits.
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–204 substituted "under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)" for "(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

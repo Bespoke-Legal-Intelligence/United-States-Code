@@ -18,7 +18,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(7) to seek provisions in trade agreements under which parties to those agreements ensure that they do not weaken or reduce the protections afforded in domestic environmental and labor laws as an encouragement for trade;
 
-&emsp;(8) to ensure that trade agreements afford small businesses equal access to internationalmarkets, equitable trade benefits, and expanded export market opportunities, and provide for the reduction or elimination of trade and investment barriers that disproportionately impact small businesses;
+&emsp;(8) to ensure that trade agreements afford small businesses equal access to international markets, equitable trade benefits, and expanded export market opportunities, and provide for the reduction or elimination of trade and investment barriers that disproportionately impact small businesses;
 
 &emsp;(9) to promote universal ratification and full compliance with ILO Convention No. 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor;
 
@@ -30,7 +30,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States;
 
-&emsp;(14) to ensure that trade agreements do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued under section 1101(a)(15) of title 8; and
+&emsp;(14) to ensure that trade agreements do not require changes to the immigration laws ofthe United States or obligate the United States to grant access or expand access to visas issued under section 1101(a)(15) of title 8; and
 
 &emsp;(15) to ensure that trade agreements do not establish obligations for the United States regarding greenhouse gas emissions measures, including obligations that require changes to United States laws or regulations or that would affect the implementation of such laws or regulations, other than those fulfilling the other negotiating objectives in this section.
 
@@ -132,7 +132,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(D) seeking to establish standards for expropriation and compensation for expropriation, consistent with United States legal principles and practice;
 
-&emsp;&emsp;(E) seeking to establish standards for fair and equitable treatment, consistent withUnited States legal principles and practice, including the principle of due process;
+&emsp;&emsp;(E) seeking to establish standards for fair and equitable treatment, consistent with United States legal principles and practice, including the principle of due process;
 
 &emsp;&emsp;(F) providing meaningful procedures for resolving investment disputes;
 
@@ -202,7 +202,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (7) Regulatory practices
 
-&emsp;The principal negotiating objectives of the United States regarding the use of governmentregulation or other practices to reduce market access for United States goods, services, and investments are—
+&emsp;The principal negotiating objectives of the United States regarding the use of government regulation or other practices to reduce market access for United States goods, services, and investments are—
 
 &emsp;&emsp;(A) to achieve increased transparency and opportunity for the participation of affected parties in the development of regulations;
 
@@ -280,7 +280,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(E) to reduce or eliminate government practices or policies that unduly threaten sustainable development;
 
-&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers, for United States environmental technologies, goods, and services;
+&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers,for United States environmental technologies, goods, and services;
 
 &emsp;&emsp;(G) to ensure that labor, environmental, health, or safety policies and practices of the parties to trade agreements with the United States do not arbitrarily or unjustifiably discriminate against United States exports or serve as disguised barriers to trade;
 
@@ -324,13 +324,13 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (15) Anti-corruption
 
-&emsp;The principal negotiating objectives of the United States with respect to the use ofmoney or other things of value to influence acts, decisions, or omissions of foreign governments or officials or to secure any improper advantage in a manner affecting trade are—
+&emsp;The principal negotiating objectives of the United States with respect to the use of money or other things of value to influence acts, decisions, or omissions of foreign governments or officials or to secure any improper advantage in a manner affecting trade are—
 
 &emsp;&emsp;(A) to obtain high standards and effective domestic enforcement mechanisms applicable to persons from all countries participating in the applicable trade agreement that prohibit such attempts to influence acts, decisions, or omissions of foreign governments or officials or to secure any such improper advantage;
 
 &emsp;&emsp;(B) to ensure that such standards level the playing field for United States persons in international trade and investment; and
 
-&emsp;&emsp;(C) to seek commitments to work jointly to encourage and support anti-corruption and anti-bribery initiatives in international trade fora, including through the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organization for Economic Cooperation and Development, done at Paris December 17, 1997 (commonly known as the "OECD Anti-Bribery Convention").
+&emsp;&emsp;(C) to seek commitments to work jointly to encourage and support anti-corruption and anti-bribery initiatives in international trade fora, including through the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organization for Economic Cooperation and Development, done at ParisDecember 17, 1997 (commonly known as the "OECD Anti-Bribery Convention").
 
 #### (16) Dispute settlement and enforcement
 

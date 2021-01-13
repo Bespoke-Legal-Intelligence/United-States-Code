@@ -66,7 +66,7 @@ The Service may provide health services under this subsection to individuals who
 
 #### (1) In general
 
-&emsp;Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
+&emsp;Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occurin the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
 
 #### (2) Definition
 
@@ -81,6 +81,8 @@ The Service may provide health services under this subsection to individuals who
 For purposes of this section, the term "eligible Indian" means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
 (Pub. L. 94–437, title VIII, §813, formerly title VII, §713, as added Pub. L. 100–713, title VII, §707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, §813, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(8), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

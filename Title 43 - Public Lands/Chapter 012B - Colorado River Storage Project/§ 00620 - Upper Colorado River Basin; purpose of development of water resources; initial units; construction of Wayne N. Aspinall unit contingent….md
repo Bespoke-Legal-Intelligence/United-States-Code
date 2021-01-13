@@ -8,6 +8,8 @@ In order to initiate the comprehensive development of the water resources of the
 
 <i>For termination of amendment by section 10701(e)(2) of Pub. L. 111–11, see Termination Date of 2009 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended this section are only a part of said subsec. (a). The remainder of said subsec. (a) amended section 620a of this title and enacted provisions set out as notes under this section and section 620k of this title.
@@ -25,6 +27,8 @@ Pub. L. 96–375 substituted "Wayne N. Aspinall" for "Curecanti".
 <b>1964</b>—Pub. L. 88–568 included Savery-Pot Hook, Bostwick Park, and Fruitland Mesa as participating projects.
 
 <b>1962</b>—Pub. L. 87–483 included San Juan-Chama (initial stage) and Navajo Indian as participating projects in cl. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2009 Amendment
 
@@ -245,7 +249,7 @@ Nonintercourse act compliance.—This subsection—
 
 &emsp;"(4)
 
-Forfeiture.—The nonuse of the water supply secured by a subcontractor of the Nation under thissubsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
+Forfeiture.—The nonuse of the water supply secured by a subcontractor of the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
 
 &emsp;"(5)
 
@@ -297,7 +301,7 @@ Nonintercourse act compliance.—This subsection—
 
 &emsp;"(5)
 
-Forfeiture.—The nonuse of a water right of the Nation by a lessee or contractor to the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of any part of a right decreed to the Nation under the Contract or this section.
+Forfeiture.—The nonuse of a water right of the Nation by a lessee or contractor to the Nation under this subsection shall not result in forfeiture, abandonment, relinquishment, or other loss of anypart of a right decreed to the Nation under the Contract or this section.
 
 "(e)
 
@@ -405,7 +409,7 @@ In general.—Except as provided in paragraph (2), nothing in the Agreement, the
 
 &emsp;"(2)
 
-Exception.—The right of the Nation to use water under water rights the Nation has in other river basins in the State of New Mexico shall beforborne to the extent that the Nation supplies the uses for which the water rights exist by diversions of water from the San Juan River Basin under the Project consistent with subparagraph 9.13 of the Agreement."
+Exception.—The right of the Nation to use water under water rights the Nation has in other river basins in the State of New Mexico shall be forborne to the extent that the Nation supplies the uses for which the water rights exist by diversions of water from the San Juan River Basin under the Project consistent with subparagraph 9.13 of the Agreement."
 
 \[For definitions of terms used in section 10701 of Pub. L. 111–11, set out above, see section 10302 of Pub. L. 111–11, set out as a note under section 407 of this title.\]
 

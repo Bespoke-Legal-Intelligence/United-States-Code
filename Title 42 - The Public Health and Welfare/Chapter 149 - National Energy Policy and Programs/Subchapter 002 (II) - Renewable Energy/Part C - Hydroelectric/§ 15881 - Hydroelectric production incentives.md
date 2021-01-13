@@ -10,7 +10,23 @@ For purposes of this section:
 
 #### (1) Qualified hydroelectric facility
 
-&emsp;The term "qualified hydroelectric facility" means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy for sale and which is added to an existing dam or conduit.
+&emsp;The term "qualified hydroelectric facility" means a turbine or other generating device owned or solely operated by a non-Federal entity—
+
+&emsp;&emsp;(A) that generates hydroelectric energy for sale; and
+
+&emsp;&emsp;(B)(i) that is added to an existing dam or conduit; or
+
+&emsp;&emsp;(ii)(I) that has a generating capacity of not more than 20 megawatts;
+
+&emsp;&emsp;(II) for which the non-Federal entity has received a construction authorization from the Federal Energy Regulatory Commission, if applicable; and
+
+&emsp;&emsp;(III) that is constructed in an area in which there is inadequate electric service, as determined by the Secretary, including by taking into consideration—
+
+&emsp;&emsp;&emsp;(aa) access to the electric grid;
+
+&emsp;&emsp;&emsp;(bb) the frequency of electric outages; or
+
+&emsp;&emsp;&emsp;(cc) the affordability of electricity.
 
 #### (2) Existing dam or conduit
 
@@ -24,7 +40,7 @@ For purposes of this section:
 
 #### (c) Eligibility window
 
-Payments may be made under this section only for electric energy generated from a qualified hydroelectric facility which begins operation during the period of 10 fiscal years beginning with the first full fiscal year occurring after August 8, 2005.
+Payments may be made under this section only for electric energy generated from a qualified hydroelectric facility which begins operation during the period of 22 fiscal years beginning with the first full fiscal year occurring after August 8, 2005.
 
 #### (d) Incentive period
 
@@ -38,21 +54,27 @@ A qualified hydroelectric facility may receive payments under this section for a
 
 #### (2) Adjustments
 
-&emsp;The amount of the payment made to any person under this section as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 2005 in the same manner as provided in the provisions of section 29(d)(2)(B) <sup>1</sup> of title 26, except that in applying such provisions the calendar year 2005 shall be substituted for calendar year 1979.
+&emsp;The amount of the payment made to any person under this section as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 2005 in the same manner as provided in the provisions of section 45K(d)(2)(B) of title 26, except that in applying such provisions the calendar year 2005 shall be substituted for calendar year 1979.
 
 #### (f) Sunset
 
-No payment may be made under this section to any qualified hydroelectric facility after theexpiration of the period of 20 fiscal years beginning with the first full fiscal year occurring after August 8, 2005, and no payment may be made under this section to any such facility after a payment has been made with respect to such facility for a period of 10 fiscal years.
+No payment may be made under this section to any qualified hydroelectric facility after the expiration of the period of 32 fiscal years beginning with the first full fiscal year occurring after August 8, 2005, and no payment may be made under this section to any such facility after a payment has been made with respect to such facility for a period of 10 fiscal years.
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the purposes of this section $10,000,000 for each of the fiscal years 2006 through 2015.
+There are authorized to be appropriated to the Secretary to carry out the purposes of this section $10,000,000 for each of fiscal years 2021 through 2036.
 
-(Pub. L. 109–58, title II, §242, Aug. 8, 2005, 119 Stat. 677.)
+(Pub. L. 109–58, title II, §242, Aug. 8, 2005, 119 Stat. 677; Pub. L. 116–260, div. Z, title III, §3005(a), Dec. 27, 2020, 134 Stat. 2511.)
 
-#### References in Text
+#### Amendments
 
-Section 29 of title 26, referred to in subsec. (e)(2), was renumbered section 45K of title 26 by Pub. L. 109–58, title XIII, §1322(a)(1), Aug. 8, 2005, 119 Stat. 1011.
+<b>2020</b>—Subsec. (b)(1). Pub. L. 116–260, §3005(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The term 'qualified hydroelectric facility' means a turbine or other generating device owned or solely operated by a non-Federal entity which generates hydroelectric energy for sale and which is added to an existing dam or conduit."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (c). Pub. L. 116–260, §3005(a)(2), substituted "22" for "10".
+
+Subsec. (e)(2). Pub. L. 116–260, §3005(a)(3), substituted "section 45K(d)(2)(B)" for "section 29(d)(2)(B)".
+
+Subsec. (f). Pub. L. 116–260, §3005(a)(4), substituted "32" for "20".
+
+Subsec. (g). Pub. L. 116–260, §3005(a)(5), substituted "each of fiscal years 2021 through 2036" for "each of the fiscal years 2006 through 2015".
 

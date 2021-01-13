@@ -6,7 +6,7 @@ A dietary supplement which contains a new dietary ingredient shall be deemed adu
 
 &emsp;(1) The dietary supplement contains only dietary ingredients which have been present in the food supply as an article used for food in a form in which the food has not been chemically altered.
 
-&emsp;(2) There is a history of use or other evidence of safety establishing that the dietary ingredient when used under the conditions recommended or suggested in the labeling of the dietary supplement will reasonably be expected to be safe and, at least 75 days before being introduced or delivered for introduction into interstate commerce, the manufacturer or distributor of the dietary ingredient or dietary supplement provides the Secretary with information, including any citation to published articles, which is the basis on which themanufacturer or distributor has concluded that a dietary supplement containing such dietary ingredient will reasonably be expected to be safe.
+&emsp;(2) There is a history of use or other evidence of safety establishing that the dietary ingredient when used under the conditions recommended or suggested in the labeling of the dietary supplement will reasonably be expected to be safe and, at least 75 days before being introduced or delivered for introduction into interstate commerce, the manufacturer or distributor of the dietary ingredient or dietary supplement provides the Secretary with information, including any citation to published articles, which is the basis on which the manufacturer or distributor has concluded that a dietary supplement containing such dietary ingredient will reasonably be expected to be safe.
 
 > The Secretary shall keep confidential any information provided under paragraph (2) for 90 days following its receipt. After the expiration of such 90 days, the Secretary shall place such information on public display, except matters in the information which are trade secrets or otherwise confidential, commercial information.
 
@@ -34,13 +34,17 @@ For purposes of this section, the term "new dietary ingredient" means a dietary 
 
 (June 25, 1938, ch. 675, §413, as added Pub. L. 103–417, §8, Oct. 25, 1994, 108 Stat. 4331; amended Pub. L. 111–353, title I, §113(a), Jan. 4, 2011, 124 Stat. 3920.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsecs. (c), (d). Pub. L. 111–353 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Guidance
 
-Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: "Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350b(a)(2)\], the evidence needed to document the safety of new dietary ingredients, and appropriate methods for establishing the identify \[sic\] of a new dietary ingredient."
+Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: "Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350b(a)(2)\], the evidence needed to document the safety of new dietary ingredients, and appropriate methods forestablishing the identify \[sic\] of a new dietary ingredient."
 
 #### Construction of 2011 Amendment
 

@@ -4,9 +4,13 @@ At the discretion of the President all disbursements of moneys, whether for annu
 
 (R.S. §2089.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2089 derived from act Mar. 3, 1857, ch. 90, §1, 11 Stat. 169.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

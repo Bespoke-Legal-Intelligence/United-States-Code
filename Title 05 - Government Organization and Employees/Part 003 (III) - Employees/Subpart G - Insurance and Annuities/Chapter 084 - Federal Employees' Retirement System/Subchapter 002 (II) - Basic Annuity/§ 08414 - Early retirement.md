@@ -1,6 +1,6 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter IIof chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -46,7 +46,7 @@
 
 (c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
 
-(2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
+(2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the SelectedReserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
 
 &emsp;(A) after completing 25 years of service as a military technician (dual status), or
 
@@ -120,6 +120,8 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–321; Pub. L. 107–296, title XIII, §§1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, 116 Stat. 2295, 2297.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1321(a)(5)(A), struck out "for failure to be recertified as a senior executive under section 3393a or" before "for less than fully".
@@ -149,6 +151,8 @@ Subsec. (d). Pub. L. 105–261, §1109(b)(2), which directed addition of subsec.
 Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted "for failure to be recertified as a senior executive or for" for "for".
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

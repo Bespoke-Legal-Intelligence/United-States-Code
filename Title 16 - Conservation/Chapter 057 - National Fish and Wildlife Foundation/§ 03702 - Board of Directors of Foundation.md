@@ -20,45 +20,17 @@
 
 &emsp;The Director of the United States Fish and Wildlife Service and the Under Secretary of Commerce for Oceans and Atmosphere shall be Directors of the Foundation.
 
-#### (2) Appointments by the Secretary of the Interior
+#### (2) Appointment of Directors
 
-#### (A) In general
+&emsp;After consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 28 Directors who, to the maximum extent practicable, shall—
 
-&emsp;&emsp;Subject to subparagraph (B), after consulting with the Secretary of Commerce and considering the recommendations submitted by the Board, the Secretary of the Interior shall appoint 23 Directors who meet the criteria established by subsection (a), of whom—
+&emsp;&emsp;(A) be knowledgeable and experienced in matters relating to the conservation of fish, wildlife, or other natural resources; and
 
-&emsp;&emsp;&emsp;(i) at least six shall be educated or experienced in fish, wildlife, or other natural resource conservation;
-
-&emsp;&emsp;&emsp;(ii) at least four shall be educated or experienced in the principles of fish, wildlife, or other natural resource management; and
-
-&emsp;&emsp;&emsp;(iii) at least four shall be educated or experienced in ocean and coastal resource conservation.
-
-#### (B) Transition provision
-
-#### (i) Continuation of terms
-
-&emsp;&emsp;&emsp;The 15 Directors serving on the Board as of November 1, 2000, shall continue to serve until the expiration of their terms.
-
-#### (ii) New Directors
-
-&emsp;&emsp;&emsp;Subject to paragraph (3), the Secretary of the Interior shall appoint eight new Directors.
+&emsp;&emsp;(B) represent a balance of expertise in ocean, coastal, freshwater, and terrestrial resource conservation.
 
 #### (3) Terms
 
-#### (A) In general
-
-&emsp;&emsp;Subject to subparagraph (B), each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
-
-#### (B) Initial appointments to new member positions
-
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
-
-#### (C) Subsequent appointments to new member positions
-
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2002—
-
-&emsp;&emsp;&emsp;(i) two Directors for a term of 2 years; and
-
-&emsp;&emsp;&emsp;(ii) three Directors for a term of 4 years.
+&emsp;Each Director (other than a Director described in paragraph (1)) shall be appointed for a term of 6 years.
 
 #### (4) Vacancies
 
@@ -68,7 +40,7 @@
 
 #### (B) Term of appointments to fill unexpired terms
 
-&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the termof a Director shall be appointed for the remainder of the term.
+&emsp;&emsp;An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
 
 #### (5) Reappointment
 
@@ -110,13 +82,29 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+#### (A) In general
 
-&emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
+&emsp;Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, §2, July 21, 2008, 122 Stat. 2617.)
+#### (B) Executive Director
+
+&emsp;The Foundation shall have an Executive Director who shall be—
+
+&emsp;&emsp;(i) appointed by, and serve at the direction of, the Board as the chief executive officer of the Foundation; and
+
+&emsp;&emsp;(ii) knowledgeable and experienced in matters relating to fish and wildlife conservation.
+
+(Pub. L. 98–244, §3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, §110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, §103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, §2, July 21, 2008, 122 Stat. 2617; Pub. L. 116–188, title I, §107(a)(1), Oct. 30, 2020, 134 Stat. 917.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–188, §107(a)(1)(A)(i), added par. (2) and struck out former par. (2) which related to appointment of directors by the Secretary of the Interior.
+
+Subsec. (b)(3). Pub. L. 116–188, §107(a)(1)(A)(ii), added par. (3) and struck out former par. (3) which related to terms of directors.
+
+Subsec. (g)(2)(A). Pub. L. 116–188, §107(a)(1)(B)(i), inserted subpar. heading and struck out first sentence which read as follows: "Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service."
+
+Subsec. (g)(2)(B). Pub. L. 116–188, §107(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: "The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Foundation shall have a governing Board of Directors (referred to in this chapter as the 'Board'), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen."
 
@@ -138,7 +126,7 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end "The Secretary of t
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–232, title I, §103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\]."
+Pub. L. 103–232, title I, §103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of theNational Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\]."
 
 #### Initial Terms of Six New Directors
 

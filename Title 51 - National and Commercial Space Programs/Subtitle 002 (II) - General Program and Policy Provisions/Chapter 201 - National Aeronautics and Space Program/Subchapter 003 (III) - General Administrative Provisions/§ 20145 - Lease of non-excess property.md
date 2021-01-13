@@ -92,6 +92,8 @@ In subsection (f)(2), the word "Administration's" is substituted for "Agency's" 
 
 In subsection (g), the words "10 years after December 26, 2007" are substituted for "on the date that is ten years after the date of the enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act of 2008" for consistency and to reflect the date of enactment of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2008 (Public Law 110–161, div. B, 121 Stat. 1884).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–94 substituted "December 31, 2021" for "December 31, 2019".
@@ -102,6 +104,8 @@ In subsection (g), the words "10 years after December 26, 2007" are substituted 
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 112–55 designated existing provisions as subpar. (A) and added subpar. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Deposit of Proceeds
 
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: "That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see 51 U.S.C. 20145), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings '
@@ -111,6 +115,8 @@ National Aeronautics and Space Administration' and '
 construction and environmental compliance and restoration' of title III of div. B of Pub. L. 113–6\]: <i>Provided further</i>, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270.
 
 Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2418.
 

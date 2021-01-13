@@ -4,6 +4,8 @@ Notwithstanding any other provision of law or any rule, regulation or policy dir
 
 (Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1131, §1209(a); renumbered §1205 and amended Pub. L. 101–12, §3(a)(9), Apr. 10, 1989, 103 Stat. 18.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1205 was renumbered section 1204 of this title.
@@ -11,6 +13,8 @@ A prior section 1205 was renumbered section 1204 of this title.
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–12 renumbered section 1209(a) of this title as this section and inserted section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

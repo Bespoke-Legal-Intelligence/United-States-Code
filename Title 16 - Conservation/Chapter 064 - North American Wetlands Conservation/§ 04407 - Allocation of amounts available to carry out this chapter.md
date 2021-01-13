@@ -18,9 +18,9 @@ Of the sums available to the Secretary for any fiscal year under this chapter an
 
 #### (c) Partial payments
 
-(1) The Secretary may from time to time make payments to carry out approved wetlandsconservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (b) of this section.
+(1) The Secretary may from time to time make payments to carry out approved wetlands conservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (b) of this section.
 
-(2) The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+(2) The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United Statesunder such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
 (Pub. L. 101–233, §8, Dec. 13, 1989, 103 Stat. 1975; Pub. L. 103–375, §2(a), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, §§6, 7, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 111–149, §1(a), Mar. 25, 2010, 124 Stat. 1025.)
 

@@ -94,7 +94,7 @@ In determining pursuant to subsection (a) the amount or scope of any penalty or 
 
 #### (f) Finality of determination respecting penalty, assessment, or exclusion
 
-A determination pursuant to subsection (a) by the Commissioner of Social Security to impose a penalty or assessment, or to recommend an exclusion shall be final upon the expiration of the 60-day period referred to in subsection (d). Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
+A determination pursuant to subsection (a) by the Commissioner of Social Security to imposea penalty or assessment, or to recommend an exclusion shall be final upon the expiration of the 60-day period referred to in subsection (d). Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
 #### (g) Notification of appropriate entities of finality of determination
 
@@ -146,7 +146,7 @@ A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as adde
 
 &emsp;"(C) benefits or payments under subchapter XVI,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII."
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject toan assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII."
 
 Subsec. (a)(3). Pub. L. 108–203, §111(a), added par. (3).
 
@@ -208,17 +208,5 @@ Section applicable to conduct occurring on or after Oct. 1, 1994, see section 20
 
 #### Study on Possible Measures to Improve Fraud Prevention and Administrative Processing
 
-Pub. L. 106–169, title II, §210, Dec. 14, 1999, 113 Stat. 1842, provided that:
-
-"(a)
-
-Study.—As soon as practicable after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security, in consultation with the Inspector General of the Social Security Administration and the Attorney General, shall conduct a study of possible measures to improve—
-
-&emsp;"(1) prevention of fraud on the part of individuals entitled to disability benefits under section 223 of the Social Security Act \[42 U.S.C. 423\] or benefits under section 202 of such Act \[42 U.S.C. 402\] based on the beneficiary's disability, individuals eligible for supplemental security income benefits under title XVI of such Act \[42 U.S.C. 1381 et seq.\], and applicants for any such benefits; and
-
-&emsp;"(2) timely processing of reported income changes by individuals receiving such benefits.
-
-"(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report that contains the results of the Commissioner's study under subsection (a). The report shall contain such recommendations for legislative and administrative changes as the Commissioner considers appropriate."
+Pub. L. 106–169, title II, §210, Dec. 14, 1999, 113 Stat. 1842, required the Commissioner of Social Security to study possible measures to improve prevention of fraud and administrative processing and submit the results no later than 1 year after Dec. 14, 1999.
 

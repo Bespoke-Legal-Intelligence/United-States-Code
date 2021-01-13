@@ -20,7 +20,7 @@ The Federal share for each grant under subsection (b) of this section may be up 
 
 #### (d) Utilization by Secretary of State or local services, facilities, and employees; consent; reimbursement
 
-The Secretary may, with the consent of any State or political subdivision thereof, accept and use the services, facilities, and employees of the agencies of such State or political subdivision, with or without reimbursement, in order to assist him in carrying out his functions under this section.
+The Secretary may, with the consent of any State or political subdivision thereof, acceptand use the services, facilities, and employees of the agencies of such State or political subdivision, with or without reimbursement, in order to assist him in carrying out his functions under this section.
 
 #### (e) Reports by employers
 
@@ -28,13 +28,17 @@ On the basis of the records made and kept pursuant to section 657(c) of this tit
 
 #### (f) Supersedure of agreements between Department of Labor and States for collection of statistics
 
-Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already ineffect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
+Agreements between the Department of Labor and States pertaining to the collection of occupational safety and health statistics already in effect on the effective date of this chapter shall remain in effect until superseded by grants or contracts made under this chapter.
 
 (Pub. L. 91–596, §24, Dec. 29, 1970, 84 Stat. 1614; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (f), means the effective date of Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is 120 days after Dec. 29, 1970, see section 34 of Pub. L. 91–596, set out as an Effective Date note under section 651 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

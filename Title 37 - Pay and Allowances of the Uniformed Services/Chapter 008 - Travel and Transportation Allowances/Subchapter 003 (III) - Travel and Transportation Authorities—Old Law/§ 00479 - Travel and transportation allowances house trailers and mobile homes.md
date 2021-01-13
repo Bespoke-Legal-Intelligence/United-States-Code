@@ -10,7 +10,7 @@
 
 (b) Any payment authorized by this section may be made in advance of the transportation concerned.
 
-(c) A member or member's dependent who is entitled to the transportation of baggage orhousehold effects from a place inside the continental United States or Alaska to a place outside the continental United States or Alaska, or from a place outside the continental United States or Alaska to a place inside the continental United States or Alaska, may be provided the transportation of a house trailer or mobile dwelling under this section, but the total cost to the Government of the transportation of baggage and household effects and the transport of a house trailer or mobile home dwelling may not exceed the cost of transporting baggage and household effects of the member or dependent having the maximum weight authorized for the member or dependent under regulations prescribed by the Secretary concerned.
+(c) A member or member's dependent who is entitled to the transportation of baggage or household effects from a place inside the continental United States or Alaska to a place outside the continental United States or Alaska, or from a place outside the continental United States or Alaska to a place inside the continental United States or Alaska, may be provided the transportation of a house trailer or mobiledwelling under this section, but the total cost to the Government of the transportation of baggage and household effects and the transport of a house trailer or mobile home dwelling may not exceed the cost of transporting baggage and household effects of the member or dependent having the maximum weight authorized for the member or dependent under regulations prescribed by the Secretary concerned.
 
 (d) The Secretaries concerned shall prescribe regulations to carry out this section.
 
@@ -33,6 +33,8 @@ Historical and Revision Notes
 Oct. 12, 1949, ch. 681, §303(c) (12th sentence); added Mar. 31, 1955, ch. 20, §2(13), 69 Stat. 22; Mar. 17, 1958, Pub. L. 85–347, 72 Stat. 37; restated Oct. 4, 1961, Pub. L. 87–374, 75 Stat. 804.
 
 The words "the United States, except in Hawaii or Alaska," are substituted for the words "the continental United States" to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words "an agent of the United States" are substituted for the words "the Government", for clarity. The words "United States" are substituted for the word "Government". The words "of the uniformed services" are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (e). Pub. L. 112–81, §631(e)(12), added subsec. (e).
 <b>1966</b>—Pub. L. 89–718 substituted "household effects" for "household goods" and "48" for "forty-eight".
 
 <b>1964</b>—Pub. L. 88–406 substituted "continental United States, within Alaska, or between the continental United States and Alaska" for "United States except in Hawaii or Alaska", "51 cents" for "36 cents", inserted "by the United States or" in cl. (2), and defined "continental United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

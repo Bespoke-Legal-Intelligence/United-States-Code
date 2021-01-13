@@ -32,9 +32,11 @@ This section shall not affect the authority of the Secretary and the Administrat
 
 (Pub. L. 104–303, title II, §216, Oct. 12, 1996, 110 Stat. 3694; Pub. L. 106–541, title II, §212, Dec. 11, 2000, 114 Stat. 2593.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 
@@ -45,6 +47,8 @@ Subsec. (a)(1). Pub. L. 106–541, §212(1), substituted "are" for "is" before "
 Subsec. (b). Pub. L. 106–541, §212(2), substituted "any proposed uprating" for "the proposed uprating" in first sentence.
 
 Subsecs. (c) to (e). Pub. L. 106–541, §212(3), (4), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

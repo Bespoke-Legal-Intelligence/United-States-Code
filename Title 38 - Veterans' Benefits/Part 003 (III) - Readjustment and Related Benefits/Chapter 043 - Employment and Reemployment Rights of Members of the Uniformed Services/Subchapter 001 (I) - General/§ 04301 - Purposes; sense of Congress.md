@@ -12,6 +12,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(1), Oct. 9, 1996, 110 Stat. 3333.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub. L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
@@ -21,6 +23,8 @@ Another prior section 4301 was renumbered section 7601 of this title.
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–275 struck out "under honorable conditions" after "upon their completion of such service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -46,7 +50,7 @@ Reemployment.—(1) Except as otherwise provided in this Act \[see Short Title o
 
 "(2) The provisions of chapter 43 of title 38, United States Code, in effect on the day before such date of enactment, shall continue to apply to reemployments initiated before the end of such 60-day period.
 
-"(3) In determining the number of years of service that may not be exceeded in an employee-employer relationship with respect to which a person seeks reemployment under chapter 43 of title 38, United States Code, as in effect before or after the date of enactment of this Act, there shall be included all years of service without regard to whether the periods of service occurred before or after such date of enactment unless the period of service is exempted by the chapter 43 thatis applicable, as provided in paragraphs (1) and (2), to the reemployment concerned. Any service begun up to 60 days after the date of the enactment of this Act, which is served up to 60 days after the date of the enactment of this Act pursuant to orders issued under section 502(f) of title 32, United States Code, shall be considered under chapter 43 of title 38, United States Code, as in effect on the day before such date of enactment. Any service pursuant to orders issued under such section 502(f) served after 60 days after the date of the enactment of this Act, regardless of when begun, shall be considered under the amendments made by this Act.
+"(3) In determining the number of years of service that may not be exceeded in an employee-employer relationship with respect to which a person seeks reemployment under chapter 43 of title 38, United States Code, as in effect before or after the date of enactment of this Act, there shall be included all years of service without regard to whether the periods of service occurred before or after such date of enactment unless the period of service is exempted by the chapter 43 that is applicable, as provided in paragraphs (1) and (2), to the reemployment concerned. Any service begun up to 60 days after the date of the enactment of this Act, which is served up to 60 days after the date of the enactment of this Act pursuant to orders issued under section 502(f) of title 32, United States Code, shall be considered under chapter 43 of title 38, United States Code, as in effect on the day before such date of enactment. Any service pursuant to orders issued under such section 502(f) served after 60 days after the date of the enactment of this Act, regardless of when begun, shall be considered under the amendments made by this Act.
 
 "(4) A person who initiates reemployment under chapter 43 of title 38, United States Code, during or after the 60-day period beginning on the date of enactment of this Act and whose reemployment is made in connection with a period of service in the uniformed services that was initiated before the end of such 60-day period shall be deemed to have satisfied the notification requirement of section 4312(a)(1) of title 38, United States Code, as provided in the amendments made by this Act, if the person complied with any applicable notice requirement under chapter 43, United States Code, as in effect on the day before the date of enactment of this Act \[Oct. 13, 1994\].
 
@@ -80,7 +84,7 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 "(h)
 
-Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
+Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits,which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
 "(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
@@ -186,7 +190,9 @@ Government Accountability Office Report.—The Comptroller General shall review 
 
 &emsp;"(2) not later than 90 days after the conclusion of the demonstration project, submit to such committees a final report that includes the findings and conclusions of the Comptroller General regarding the relative performance of the Office and the Department under the demonstration project and such recommendations as the Comptroller General determines are appropriate."
 
-Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certain claims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+Pub. L. 108–454, title II, §204, Dec. 10, 2004, 118 Stat. 3606, required the Secretary of Labor and the Office of Special Counsel to carry out a demonstration project during the period beginning 60 days after Dec. 10, 2004, and ending on September 30, 2007, under which certainclaims against Federal executive agencies under the Uniformed Services Employment and Reemployment Rights Act of 1994, Pub. L. 103–353, under this chapter were referred to, or otherwise received by, the Office of Special Counsel for assistance.
+
+#### <b>Executive Documents</b>
 
 #### Ensuring the Uniformed Services Employment and Reemployment Rights Act (USERRA) Protections
 

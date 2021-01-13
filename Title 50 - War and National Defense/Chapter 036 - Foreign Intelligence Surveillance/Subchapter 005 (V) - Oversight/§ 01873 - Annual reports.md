@@ -6,7 +6,7 @@
 
 &emsp;The Director of the Administrative Office of the United States Courts shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate, subject to a declassification review by the Attorney General and the Director of National Intelligence, a report that includes—
 
-&emsp;&emsp;(A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861, 1881a, 1881b, and 1881c of this title;
+&emsp;&emsp;(A) the number of applications or certifications for orders submitted under each of sections 1805, 1824, 1842, 1861,<sup>1</sup> 1881a, 1881b, and 1881c of this title;
 
 &emsp;&emsp;(B) the number of such orders granted under each of those sections;
 
@@ -20,7 +20,7 @@
 
 #### (2) Publication
 
-&emsp;The Director shall make the report required under paragraph (1) publicly available on an Internet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
+&emsp;The Director shall make the report required under paragraph (1) publicly available on anInternet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
 
 #### (b) Mandatory reporting by Director of National Intelligence
 
@@ -40,7 +40,7 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(B) the number of search terms concerning a known United States person used to retrieve the unminimized contents of electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of search terms used to prevent the return of information concerning a United States person;
 
-&emsp;&emsp;(C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; <sup>1</sup>
+&emsp;&emsp;(C) the number of queries concerning a known United States person of unminimized noncontents information relating to electronic communications or wire communications obtained through acquisitions authorized under such section, excluding the number of queries containing information used to prevent the return of information concerning a United States person; <sup>2</sup>
 
 &emsp;&emsp;(D) the number of instances in which the Federal Bureau of Investigation opened, under the Criminal Investigative Division or any successor division, an investigation of a United States person (who is not considered a threat to national security) based wholly or in part on an acquisition authorized under such section;
 
@@ -54,15 +54,15 @@ Except as provided in subsection (d), the Director of National Intelligence shal
 
 &emsp;&emsp;(B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-&emsp;(4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence orotherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
+&emsp;(4) the number of criminal proceedings in which the United States or a State or political subdivision thereof provided notice pursuant to subsection (c) or (d) of section 1806 of this title (including with respect to information acquired from an acquisition conducted under section 1881a of this title) or subsection (d) or (e) of section 1825 of this title of the intent of the government to enter into evidence or otherwise use or disclose any information obtained or derived from electronic surveillance, physical search, or an acquisition conducted pursuant to this chapter;
 
-&emsp;(5) the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) of this title and a good faith estimate of—
+&emsp;(5) the total number of orders issued pursuant to applications made under section 1861(b)(2)(B) <sup>1</sup> of this title and a good faith estimate of—
 
 &emsp;&emsp;(A) the number of targets of such orders; and
 
 &emsp;&emsp;(B) the number of unique identifiers used to communicate information collected pursuant to such orders;
 
-&emsp;(6) the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) of this title and a good faith estimate of—
+&emsp;(6) the total number of orders issued pursuant to applications made under section 1861(b)(2)(C) <sup>1</sup> of this title and a good faith estimate of—
 
 &emsp;&emsp;(A) the number of targets of such orders;
 
@@ -150,7 +150,9 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
+Section 1861 of this title, referred to in subsecs. (a)(1)(A) and (b)(5), (6), means section 1861 of this title prior to the amendment of section 1861 by Pub. L. 109–177, title I, §102(b), Mar. 9, 2006, 120 Stat. 195, set out as an Effective Date of 2006 Amendment note under section 1805 of this title, which amended section 1861 of this title, effective Mar. 15, 2020, so that such section read as it read on Oct. 25, 2001, with certain exceptions.
+
+This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -168,5 +170,7 @@ Subsec. (d)(2)(A). Pub. L. 115–118, §102(b)(2)(B), substituted "Paragraphs (2
 
 Subsec. (d)(3)(A). Pub. L. 115–118, §102(b)(2)(C), substituted "subsection (b)(2)(C)" for "subsection (b)(2)(B)" in introductory provisions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
 

@@ -14,7 +14,7 @@ Section 1046, act July 9, 1952, ch. 608, pt. IV, §406, 66 Stat. 499, provided f
 
 Section 1047, act July 9, 1952, ch. 608, pt. IV, §407, 66 Stat. 499, provided for a Naval Reserve Policy Board, a Marine Corps Reserve Policy Board, a Coast Guard Policy Board, and for membership on such boards. See sections 10303 and 10304 of Title 10, Armed Forces, and section 3703 of Title 14, Coast Guard.
 
-Section 1048, act July 9, 1952, ch. 608, pt. IV, §409, 66 Stat. 499, authorized Secretary of Navy to prescribe a suitable flag to be known as Naval Reserve flag, andprovided class of vessels which may fly such flag. See section 7225 of Title 10, Armed Forces.
+Section 1048, act July 9, 1952, ch. 608, pt. IV, §409, 66 Stat. 499, authorized Secretary of Navy to prescribe a suitable flag to be known as Naval Reserve flag, and provided class of vessels which may fly such flag. See section 7225 of Title 10, Armed Forces.
 
 Section 1049, act July 9, 1952, ch. 608, pt. IV, §410, 66 Stat. 499, authorized Secretary of Navy to prescribe a Naval Reserve yacht pennant and enumerated class of vessels which may fly such pennant. See section 7226 of Title 10.
 

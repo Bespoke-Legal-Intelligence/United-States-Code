@@ -30,7 +30,7 @@ Pub. L. 113–291, div. A, title III, §352(a), (b), Dec. 19, 2014, 128 Stat. 33
 
 "(a)
 
-Consolidation of Data.—Not later than 240 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue Department-wide guidance designating an authoritative source of data for conventional ammunition. Not later than 10 days after issuing the guidance required by this subsection, the Under Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on what source of data has been designated under this subsection.
+Consolidation of Data.—Not later than 240 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue Department-wide guidance designating an authoritative source of data for conventional ammunition. Not later than 10 daysafter issuing the guidance required by this subsection, the Under Secretary shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on what source of data has been designated under this subsection.
 
 "(b)
 

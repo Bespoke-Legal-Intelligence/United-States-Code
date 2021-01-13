@@ -126,7 +126,7 @@ In clause (5)(A), the words "manufacturing or assembling" are substituted for "e
 
 In clause (8), the words "maintenance or operation" are substituted for "operation, maintenance, or use" to eliminate an unnecessary word.
 
-In clauses (12) and (13), the words "the Northern Mariana Islands" are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and asproclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words "the Canal Zone" are omitted because of the Panama Canal Treaty of 1977.
+In clauses (12) and (13), the words "the Northern Mariana Islands" are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words "the Canal Zone" are omitted because of the Panama Canal Treaty of 1977.
 
 In clause (12), the word "means" is substituted for "includes" as being more appropriate. The words "a State of the United States" are substituted for "each of the several States" for consistency in the revised title and with other titles of the United States Code.
 

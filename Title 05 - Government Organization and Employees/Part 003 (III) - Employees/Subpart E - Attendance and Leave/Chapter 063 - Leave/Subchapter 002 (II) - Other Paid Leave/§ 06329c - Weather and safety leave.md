@@ -46,6 +46,8 @@ Relation to Other Laws.—Notwithstanding subsection (a) of section 7421 of titl
 
 (Added Pub. L. 114–328, div. A, title XI, §1138(e)(1), Dec. 23, 2016, 130 Stat. 2469.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, subsec. (d), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.

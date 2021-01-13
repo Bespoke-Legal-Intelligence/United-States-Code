@@ -1,6 +1,8 @@
 ### §1013. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 88–464, §3, Aug. 20, 1964, 78 Stat. 563, which provided for distribution of shares to enrollees and their heirs and legatees according to rules and regulations prescribed by the Secretary of the Interior and for exemption of such distributions from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 88–464, §3, Aug. 20, 1964, 78 Stat. 563, which provided for distribution of shares to enrollees and their heirs and legatees according to rules and regulations prescribed by the Secretary of the Interior and for exemption of such distributions from Federal andState income taxes, was omitted from the Code as being of special and not general application.
 

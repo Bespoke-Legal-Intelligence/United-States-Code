@@ -10,7 +10,7 @@ For purposes of subsection (a), the requirements of this subsection are that the
 
 &emsp;(1) The law establishes liability to the State for false or fraudulent claims described in section 3729 of title 31 with respect to any expenditure described in section 1396b(a) of this title.
 
-&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitating qui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
+&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitatingqui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
 
 &emsp;(3) The law contains a requirement for filing an action under seal for 60 days with review by the State Attorney General.
 

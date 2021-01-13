@@ -10,7 +10,7 @@ No provision of this section may be construed to authorize the Secretary to waiv
 
 #### (c) Submission of requests
 
-A request under subsection (a) shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governments shall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
+A request under subsection (a) shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governmentsshall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
 
 #### (d) Consideration of requests
 
@@ -38,7 +38,7 @@ In the event that the Secretary proposes to amend a rule for which a waiver or m
 
 #### (i) Expiration of waivers and modifications
 
-No waiver or modification of a rule under this section shall remain in effect for a longer periodthan the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
+No waiver or modification of a rule under this section shall remain in effect for a longer period than the period for which the enterprise zone designation remains in effect for the area in which the waiver or modification applies.
 
 #### (j) Definitions
 

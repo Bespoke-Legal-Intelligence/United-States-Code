@@ -30,6 +30,8 @@ Status of Member as Federal Employee.—A member's receipt of funds under this s
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7(d) of the Federal Advisory Committee Act, referred to in subsec. (c), is section 7(d) of Pub. L. 92–463, which is set out in the Appendix to this title.

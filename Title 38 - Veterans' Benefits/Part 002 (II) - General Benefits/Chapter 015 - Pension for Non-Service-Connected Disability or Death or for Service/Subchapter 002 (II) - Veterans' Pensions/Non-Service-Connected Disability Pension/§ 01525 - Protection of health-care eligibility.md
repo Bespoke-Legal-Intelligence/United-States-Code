@@ -6,6 +6,8 @@
 
 (Added Pub. L. 98–543, title III, §301(a)(1), Oct. 24, 1984, 98 Stat. 2746, §525; amended Pub. L. 99–272, title XIX, §19011(d)(1), Apr. 7, 1986, 100 Stat. 378; Pub. L. 99–576, title VII, §703(b)(2), Oct. 28, 1986, 100 Stat. 3303; Pub. L. 100–687, div. B, title XIII, §1303(c), Nov. 18, 1988, 102 Stat. 4128; renumbered §1525 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, §2(c), May 20, 1992, 106 Stat. 178; Pub. L. 102–568, title IV, §403(a), (b)(1), Oct. 29, 1992, 106 Stat. 4337; Pub. L. 104–262, title I, §101(e)(1), Oct. 9, 1996, 110 Stat. 3180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted "section 1712(d) of this title" for "section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)".
@@ -18,7 +20,7 @@ Subsec. (a). Pub. L. 102–568, §403(a)(1), substituted "after January 31, 1985
 
 Subsec. (b). Pub. L. 102–568, §403(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: "For the purposes of this section:
 
-&emsp;"(1) The term 'terminated by reason of income from work or training' means terminated as a result of the veteran's receipt of earnings from activity performed for remuneration or gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
+&emsp;"(1) The term 'terminated by reason of income from work or training' means terminated as a result of theveteran's receipt of earnings from activity performed for remuneration or gain, but only if the veteran's annual income from sources other than such earnings would, taken alone, not result in the termination of the veteran's pension.
 
 &emsp;"(2) The term 'program period' means the period beginning on February 1, 1985, and ending on December 31, 1992."
 
@@ -33,6 +35,8 @@ Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "1712(h)" for "612(h)" and
 <b>1986</b>—Subsec. (a). Pub. L. 99–576 struck out "under section 521 of this title" after "entitlement to pension".
 
 Pub. L. 99–272 substituted "clauses (5) and (6) of section 612(i)" for "section 612(i)(5) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

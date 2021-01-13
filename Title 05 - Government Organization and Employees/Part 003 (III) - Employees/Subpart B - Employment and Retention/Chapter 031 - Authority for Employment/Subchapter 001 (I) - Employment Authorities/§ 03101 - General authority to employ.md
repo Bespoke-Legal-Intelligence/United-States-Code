@@ -30,6 +30,8 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Reports on Political Appointees Appointed to Nonpolitical Permanent Positions
 
 Pub. L. 114–136, §4, Mar. 18, 2016, 130 Stat. 305, provided that:
@@ -218,15 +220,13 @@ Pub. L. 95–454, title III, §311, Oct. 13, 1978, 92 Stat. 1153, which provided
 
 Pub. L. 91–47, title V, §503, July 22, 1969, 83 Stat. 83, repealed section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which provided for limitation on the number of civilian officers and employees in the executive branch and which was formerly set out under this section.
 
-#### Freeze on Hiring of Federal Civilian Employees
-
-Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
-
 #### Citizenship Requirement for Employees Compensated From Appropriated Funds
 
-Pub. L. 116–93, div. C, title VII, §704, Dec. 20, 2019, 133 Stat. 2484, provided that: "Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: <i>Provided</i>, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: <i>Provided further</i>, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: <i>Provided further</i>, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 20, 2019\], or to international broadcasters employed by the Broadcasting Board of Governors \[now the United States Agency for Global Media\], or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: <i>Provided further</i>, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country."
+Pub. L. 116–260, div. E, title VII, §704, Dec. 27, 2020, 134 Stat. 1430, provided that: "Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: <i>Provided</i>, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: <i>Provided further</i>, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: <i>Provided further</i>, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: <i>Provided further</i>, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: <i>Provided further</i>, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: <i>Provided further</i>, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 27, 2020\], or to international broadcasters employed by the Broadcasting Board of Governors \[now the United States Agency for Global Media\], or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: <i>Provided further</i>, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country."
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. C, title VII, §704, Dec. 20, 2019, 133 Stat. 2484.
 
 Pub. L. 116–6, div. D, title VII, §704, Feb. 15, 2019, 133 Stat. 187.
 
@@ -396,13 +396,15 @@ Exceptions to citizenship requirement for—
 
 Section 1310 of act Nov. 1, 1951, ch. 664, Ch. XIII, 65 Stat. 757, as amended June 5, 1952, ch. 369, Ch. XIII, §1302, 66 Stat. 122; Sept. 1, 1954, ch. 1208, title VI, §602, 68 Stat. 1115; Oct. 11, 1962, Pub. L. 87–793, §717(b), 76 Stat. 858; Aug. 6, 1965, Pub. L. 89–114, 79 Stat. 448; Oct. 11, 1967, Pub. L. 90–105, §3, 81 Stat. 274; Apr. 21, 1976, Pub. L. 94–273, §4(5), 90 Stat. 377, provided that, upon the enactment of this Act \[Nov. 1, 1951\] and until termination of the national emergency proclaimed by the President on Dec. 16, 1950, agencies shall use their authority to require initial appointment be made on other than a permanent basis to limit the number of permanent employees, the Civil Service Commission facilitate the transfer of Federal employees from nondefense to defense activities with reemployment rights and make use of its authority to prohibit excessively rapid promotions, and agencies review certain positions annually and report to Congressional committees. All powers and authorities under section 1310 of act Nov. 1, 1951, as amended, terminated 2 years from Sept. 14, 1976, pursuant to Pub. L. 94–412, title I, §101, Sept. 14, 1976, 90 Stat. 1255 (50 U.S.C. 1601).
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12839. Reduction of 100,000 Federal Positions
 
 Ex. Ord. No. 12839, Feb. 10, 1993, 58 F.R. 8515, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, section 3301 of title 5, United States Code, and section 1111 of title 31, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Limits on Hiring Civilian Personnel</i>. Each executive department or agency with over 100 employees shall eliminate not less than 4 percent of its civilian personnel positions (measured on a full-time equivalent (FTE) basis) over the next 3 fiscal years. The positions shall be vacated through attrition or early out programs established at the discretion of the department and agency heads. At least 10 percent of the reductions shall come from the Senior Executive Service, GS–15 and GS–14 levels or equivalent.
+Section 1. <i>Limits on Hiring Civilian Personnel</i>. Each executive department or agency with over 100 employees shall eliminate not less than 4 percent of its civilian personnel positions (measured on a full-time equivalent (FTE) basis) over the next 3 fiscal years. The positionsshall be vacated through attrition or early out programs established at the discretion of the department and agency heads. At least 10 percent of the reductions shall come from the Senior Executive Service, GS–15 and GS–14 levels or equivalent.
 
 Sec. 2. <i>Coverage</i>. This order applies to all executive branch departments and agencies with over 100 employees (measured on a FTE basis).
 
@@ -413,4 +415,8 @@ Sec. 4. <i>Implementation</i>. The Director of the Office of Management and Budg
 Sec. 5. <i>Independent Agencies</i>. All independent regulatory commissions and agencies are requested to comply with the provisions of this order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Freeze on Hiring of Federal Civilian Employees
+
+Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
 

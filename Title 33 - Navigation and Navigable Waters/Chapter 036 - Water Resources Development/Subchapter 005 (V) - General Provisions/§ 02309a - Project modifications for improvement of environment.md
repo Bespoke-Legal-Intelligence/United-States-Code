@@ -46,6 +46,8 @@ In this section, the term "water resources project constructed by the Secretary"
 
 (Pub. L. 99–662, title XI, §1135, Nov. 17, 1986, 100 Stat. 4251; Pub. L. 100–676, §41, Nov. 17, 1988, 102 Stat. 4040; Pub. L. 101–640, title III, §304, Nov. 28, 1990, 104 Stat. 4634; Pub. L. 102–580, title II, §202, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §204, Oct. 12, 1996, 110 Stat. 3678; Pub. L. 106–53, title V, §506, Aug. 17, 1999, 113 Stat. 338; Pub. L. 106–541, title II, §210(c), Dec. 11, 2000, 114 Stat. 2592; Pub. L. 110–114, title II, §2024, Nov. 8, 2007, 121 Stat. 1079; Pub. L. 113–121, title I, §1030(f), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §1157(g), Oct. 23, 2018, 132 Stat. 3794.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (f) of this section, which required the Secretary to transmit biennial reports to Congress on the results of reviews conducted under subsec. (a) of this section and on the programs conducted under subsecs. (b) and (c) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
@@ -78,7 +80,7 @@ Subsec. (g). Pub. L. 104–303, §204(c)(1), redesignated subsec. (e) as (g).
 
 Subsec. (h). Pub. L. 104–303, §204(d), added subsec. (h).
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–580, §202(1), inserted at end "No modification shall be carried out under this section without specific authorization by Congress if the estimated cost exceeds $5,000,000."
+<b>1992</b>—Subsec. (b). Pub. L. 102–580, §202(1), inserted at end "No modification shall be carried out under thissection without specific authorization by Congress if the estimated cost exceeds $5,000,000."
 
 Subsec. (e). Pub. L. 102–580, §202(2), substituted "$25,000,000" for "$15,000,000".
 

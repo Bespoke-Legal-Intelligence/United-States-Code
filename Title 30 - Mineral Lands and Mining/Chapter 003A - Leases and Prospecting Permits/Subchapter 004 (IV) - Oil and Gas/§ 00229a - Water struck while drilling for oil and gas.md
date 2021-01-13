@@ -22,9 +22,13 @@ Nothing in this section shall be construed to restrict operations under any oil 
 
 (Feb. 25, 1920, ch. 85, §40, as added June 16, 1934, ch. 557, 48 Stat. 977; amended Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–579 struck out proviso relating to reservation of land as a water hole under section 300 of title 43.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

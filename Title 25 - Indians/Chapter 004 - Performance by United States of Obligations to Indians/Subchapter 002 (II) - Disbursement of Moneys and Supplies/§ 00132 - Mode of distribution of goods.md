@@ -4,9 +4,13 @@ Whenever goods and merchandise are delivered to the chiefs of a tribe, for the t
 
 (R.S. §2090.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2090 derived from act Apr. 10, 1869, ch. 16, §2, 16 Stat. 39.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indian Agents
 

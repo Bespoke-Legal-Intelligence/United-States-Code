@@ -46,7 +46,7 @@ In subsection (a), the words "other armed forces" are substituted for the words 
 
 #### Prior Provisions
 
-A prior section 7625, act Aug. 10, 1956, ch. 1041, 70A Stat. 473, related to settlement of claims for damage to or loss of privately owned property, prior to repeal by Pub. L. 87–769, §1(2)(A), Oct. 9, 1962, 76 Stat. 768. See section 2736 of this title.
+A prior section 7625, act Aug. 10, 1956, ch. 1041, 70A Stat. 473, related to settlement of claims for damage to or loss of privately owned property, prior to repeal byPub. L. 87–769, §1(2)(A), Oct. 9, 1962, 76 Stat. 768. See section 2736 of this title.
 
 #### Amendments
 

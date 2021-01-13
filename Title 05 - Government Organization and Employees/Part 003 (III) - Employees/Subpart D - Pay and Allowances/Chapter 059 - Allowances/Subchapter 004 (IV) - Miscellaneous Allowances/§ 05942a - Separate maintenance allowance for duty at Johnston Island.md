@@ -14,9 +14,13 @@
 
 (Added Pub. L. 102–190, div. A, title X, §1092(a)(1), Dec. 5, 1991, 105 Stat. 1486.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 102–190, div. A, title X, §1092(b), Dec. 5, 1991, 105 Stat. 1487, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 5, 1991\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

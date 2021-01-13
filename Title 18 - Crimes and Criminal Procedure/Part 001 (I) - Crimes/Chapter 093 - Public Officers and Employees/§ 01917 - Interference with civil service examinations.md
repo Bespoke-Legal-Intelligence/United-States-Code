@@ -40,6 +40,8 @@ The words "and upon conviction thereof" are omitted as unnecessary because punis
 
 The words "or both" are substituted for "or by both such fine and imprisonment".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294 substituted "fined under this title not less than $100" for "fined not less than $100 nor more than $1,000" in concluding provisions.

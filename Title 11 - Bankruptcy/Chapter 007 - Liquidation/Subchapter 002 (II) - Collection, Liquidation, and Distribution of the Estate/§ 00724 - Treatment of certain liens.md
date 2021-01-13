@@ -8,7 +8,7 @@
 
 &emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1)(C) or 507(a)(2) (except that such expenses under each such section, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under this chapter and shall not include expenses incurred under chapter 11 of this title), 507(a)(1)(A), 507(a)(1)(B), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
-&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceedsany amount distributed under paragraph (2) of this subsection;
+&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
 &emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 
@@ -54,6 +54,8 @@ Subsection (d) specifies that any statutory lien whose priority is determined in
 
 Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\], without substantial modification in result. It subordinates tax liens to administrative expense and wage claims, and solves certain circuity of liens problems that arise in connection with the subordination. The order of distribution of property subject to a tax lien is as follows: First, to holders of liens senior to the tax lien; second, to administrative expenses, wage claims, and consumer creditors that are granted priority, but only to the extent of the amount of the allowed tax claim secured by the lien. In other words, the priority claimants step into the shoes of the tax collector. Third, to the tax claimant, to the extent that priority claimants did not use up his entire claim. Fourth, to junior lien holders. Fifth, to the tax collector to the extent that he was not paid under paragraph (3). Finally, any remaining property goes to the estate. The result of these provisions are to leave senior and junior lienors and holders of unsecured claims undisturbed. If there are any liens that are equal in status to the tax lien, they share pari passu with the tax lien under the distribution provisions of this subsection.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 6323 of Title 26, Internal Revenue Code.
@@ -83,6 +85,8 @@ Subsec. (b)(3). Pub. L. 98–353, §477(a)(3), substituted "allowed tax claim" f
 Subsec. (c). Pub. L. 98–353, §477(b), substituted "holder of a claim is entitled" for "creditor is entitled" and "holders" for "creditors" in two places.
 
 Subsec. (d). Pub. L. 98–353, §477(c), substituted "the priority of which" for "whose priority" and "the same as if such lien were a tax lien" for "the same as a tax lien".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

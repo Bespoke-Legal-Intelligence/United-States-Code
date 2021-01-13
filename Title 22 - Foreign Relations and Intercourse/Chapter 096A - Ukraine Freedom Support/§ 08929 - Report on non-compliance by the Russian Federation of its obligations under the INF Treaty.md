@@ -48,9 +48,13 @@ The committees specified in this subsection are—
 
 (Pub. L. 113–272, §10, Dec. 18, 2014, 128 Stat. 2965; Pub. L. 116–92, div. A, title XII, §1235(d), Dec. 20, 2019, 133 Stat. 1650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(3). Pub. L. 116–92 added par. (3).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

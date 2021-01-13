@@ -20,7 +20,7 @@ Credits to Fund.—There shall be credited to the Fund the following:
 
 (c)
 
-Use of Amounts in Fund.—(1) In such amounts as provided in appropriations Acts, andexcept as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
+Use of Amounts in Fund.—(1) In such amounts as provided in appropriations Acts, and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family housing and military unaccompanied housing, including—
 
 &emsp;(A) the planning, execution, and administration of the conveyance of real property;
 
@@ -40,6 +40,8 @@ Notification Required for Transfers.—A transfer of appropriated amounts to the
 
 (Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912, §687; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, §207(d), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, §221(a)(6), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–330, §1(2), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 113–281, title II, §208(c), Dec. 18, 2014, 128 Stat. 3026; renumbered §2946 and amended Pub. L. 115–282, title I, §§117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §117(b), renumbered section 687 of this title as this section.
@@ -54,7 +56,7 @@ Subsec. (b)(5). Pub. L. 115–282, §123(b)(2), substituted "section 908(b)" for
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–281, §221(a)(6)(A)(i), substituted "or military unaccompanied" for "or unaccompanied".
 
-Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "military family and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
+Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "militaryfamily and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
 
 Subsec. (b)(4). Pub. L. 111–281, §221(a)(6)(A)(iii), struck out par. (4) which read as follows: "Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments."
 
@@ -77,6 +79,8 @@ Subsec. (g)(4). Pub. L. 108–293, §207(d)(5), substituted "such demonstration 
 Subsec. (f). Pub. L. 107–295, §402(b), substituted "$40,000,000" for "$20,000,000".
 
 Subsec. (g). Pub. L. 107–295, §402(c), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -34,6 +34,8 @@ Each member of the Council shall serve without additional compensation but shall
 
 (Pub. L. 95–630, title X, §1004, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(2), Aug. 9, 1989, 103 Stat. 438; Pub. L. 109–351, title VII, §714(a), Oct. 13, 2006, 120 Stat. 1995; Pub. L. 111–203, title X, §1091, July 21, 2010, 124 Stat. 2094.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(4). Pub. L. 111–203 substituted "Director of the Consumer Financial Protection Bureau" for "Director, Office of Thrift Supervision".
@@ -43,6 +45,8 @@ Each member of the Council shall serve without additional compensation but shall
 Subsec. (a)(6). Pub. L. 109–351, §714(a)(2), (3), added par. (6).
 
 <b>1989</b>—Subsec. (a)(4). Pub. L. 101–73 substituted "Director, Office of Thrift Supervision" for "Chairman of the Federal Home Loan Bank Board, and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

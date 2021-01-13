@@ -2,7 +2,7 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of thesubject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
@@ -34,7 +34,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (1) The Corporation shall have an annual independent audit made of its financial statements by an independent public accountant in accordance with generally accepted auditing standards.
 
-(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).
+(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presentedfairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).
 
 #### (e) Mortgage data collection and reporting requirements
 
@@ -70,7 +70,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgages purchased by the Corporation after December 31, 1992.
 
-(B) This subsection shall apply to any mortgage purchased by the Corporation after thedate determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
+(B) This subsection shall apply to any mortgage purchased by the Corporation after the date determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the Corporation.
 
 #### (f) Report on housing activities; contents; public disclosure
 
@@ -98,7 +98,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(J) describe in the aggregate the seller and servicer network of the Corporation, including the volume of mortgages purchased from minority-owned, women-owned, and community-oriented lenders, and any efforts to facilitate relationships with such lenders;
 
-&emsp;(K) describe the activities undertaken by the Corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, including how the Corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
+&emsp;(K) describe the activities undertaken by the Corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, includinghow the Corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
 
 &emsp;(L) include any other information that the Director of the Federal Housing Finance Agency considers appropriate.
 
@@ -114,13 +114,15 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (Pub. L. 91–351, title III, §307, July 24, 1970, 84 Stat. 456; Pub. L. 101–73, title VII, §731(j)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1382(o)–(t), Oct. 28, 1992, 106 Stat. 4005–4008; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, §1161(c)(1), (3), July 30, 2008, 122 Stat. 2780.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (f)(1), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941. Subpart B of part 2 of subtitle A of the Act is classified generally to subpart 2 (§4561 et seq.) of part B of subchapter I of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing FinanceAgency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 Subsec. (e)(1), (2). Pub. L. 110–289, §1161(c)(3)(A), substituted "to the Director of the Federal Housing Finance Agency, in a form determined by the Director" for "to the Secretary, in a form determined by the Secretary" in introductory provisions.
 
@@ -137,6 +139,8 @@ Subsec. (f)(3)(B). Pub. L. 110–289, §1161(c)(3)(B)(iii), substituted "Directo
 Subsecs. (c) to (g). Pub. L. 102–550, §1382(p)–(t), added subsecs. (c) to (g).
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73 substituted "The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State." for "The Corporation shall be entitled to all immunities and priorities, including without limitation on the generality of the foregoing all immunities and priorities under any such law or action, to which it would be entitled if it were the United States or if it were an unincorporated agency of the United States."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

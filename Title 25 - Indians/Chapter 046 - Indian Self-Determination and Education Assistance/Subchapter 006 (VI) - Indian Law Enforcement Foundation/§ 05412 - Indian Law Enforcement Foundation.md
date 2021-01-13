@@ -90,7 +90,7 @@ The Foundation shall—
 
 #### (C) Compensation
 
-&emsp;&emsp;A member of the Board shall not receive compensation for service as a member, butshall be reimbursed for actual and necessary travel and subsistence expenses incurred in the performance of the duties of the Foundation.
+&emsp;&emsp;A member of the Board shall not receive compensation for service as a member, but shall be reimbursed for actual and necessary travel and subsistence expenses incurred in the performance of the duties of the Foundation.
 
 #### (g) Officers
 
@@ -193,6 +193,8 @@ The Foundation shall comply with section 10101 of title 36 as if the Foundation 
 For each of fiscal years 2011 through 2015, out of any unobligated amounts available to the Secretary, the Secretary may use to carry out this section not more than $500,000.
 
 (Pub. L. 93–638, title VII, §702, as added Pub. L. 111–211, title II, §231(c), July 29, 2010, 124 Stat. 2274.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

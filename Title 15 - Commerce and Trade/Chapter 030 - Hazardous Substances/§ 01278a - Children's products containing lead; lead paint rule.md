@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the product, class of product, material, or component part is not likely to be placed in the mouth or ingested, taking into account normal and reasonably foreseeable use and abuse of such product, class of product, material, or component part by a child; and
 
-&emsp;&emsp;&emsp;(iii) an exception for the product, class of product, material, or component part will have no measurable adverse effect onpublic health or safety, taking into account normal and reasonably foreseeable use and abuse.
+&emsp;&emsp;&emsp;(iii) an exception for the product, class of product, material, or component part will have no measurable adverse effect on public health or safety, taking into account normal and reasonably foreseeable use and abuse.
 
 #### (B) Measurement
 
@@ -200,7 +200,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (3) Methods for screening lead in small painted areas
 
-&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section 1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
+&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
 
 #### (4) Alternative methods of measuring lead in paint generally
 
@@ -236,7 +236,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 
 
 The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
-This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, seeShort Title of 2008 Amendment note set out under section 2051 of this title and Tables.
+This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
 #### Codification
 
@@ -250,7 +250,7 @@ Subsec. (a)(3). Pub. L. 112–28, §1(a), added par. (3).
 
 Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
-&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by achild, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
 
 &emsp;"(B) have any other adverse impact on public health or safety."
 

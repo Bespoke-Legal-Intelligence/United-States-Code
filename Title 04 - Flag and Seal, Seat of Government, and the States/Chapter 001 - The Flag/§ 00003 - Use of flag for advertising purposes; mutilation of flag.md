@@ -4,6 +4,8 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 
 (July 30, 1947, ch. 389, 61 Stat. 642; Pub. L. 90–381, §3, July 5, 1968, 82 Stat. 291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–381 struck out "; or who, within the District of Columbia, shall publicly mutilate, deface, defile or defy, trample upon, or cast contempt, either by word or act, upon any such flag, standard, colors, or ensign," after "substance on which so placed".

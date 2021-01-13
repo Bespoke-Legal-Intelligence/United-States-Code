@@ -44,7 +44,9 @@ The Director shall—
 
 not <sup>2</sup> to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 10103(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
 
-(Pub. L. 90–351, title I, §106, as added Pub. L. 109–162, title XI, §1159(a), Jan. 5, 2006, 119 Stat.3116; amended Pub. L. 109–271, §8(f), Aug. 12, 2006, 120 Stat. 766.)
+(Pub. L. 90–351, title I, §106, as added Pub. L. 109–162, title XI, §1159(a), Jan. 5, 2006, 119 Stat. 3116; amended Pub. L. 109–271, §8(f), Aug. 12, 2006, 120 Stat. 766.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Section was formerly classified to section 3712e of Title 42, The Public Health 
 #### Amendments
 
 <b>2006</b>—Subsecs. (a)(2), (e). Pub. L. 109–217 substituted "section 3712a(b)" for "section 3712d(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

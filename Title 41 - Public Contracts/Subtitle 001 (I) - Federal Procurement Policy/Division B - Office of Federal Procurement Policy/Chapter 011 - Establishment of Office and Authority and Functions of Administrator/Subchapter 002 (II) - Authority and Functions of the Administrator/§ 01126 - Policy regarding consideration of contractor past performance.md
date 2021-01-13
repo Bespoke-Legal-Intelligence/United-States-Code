@@ -18,7 +18,7 @@ Guidance.—The Administrator shall prescribe for executive agencies guidance re
 
 (b)
 
-Information Not Available.—If there is no information on past contract performance of an offeror or the information on past contractperformance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
+Information Not Available.—If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3689.)
 
@@ -41,6 +41,8 @@ Pub. L. 93–400, §6(j), as added Pub. L. 103–355, title I, §1091(b)(2), Oct
 1126(b)
 
 41:405(j)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inclusion of Data on Contractor Performance in Past Performance Databases for Executive Agency Source Selection Decisions
 

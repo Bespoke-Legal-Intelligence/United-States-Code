@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) any period of training under section 2507(a) of title 22 before enrollment as a volunteer; and
 
-&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as avolunteer by the President or by death or resignation.
+&emsp;&emsp;(B) the period between enrollment as a volunteer and the termination of service as a volunteer by the President or by death or resignation.
 
 (d)(1) The Secretary shall authorize the Director of the Peace Corps to furnish medical benefits to a volunteer, who is injured during the volunteer's period of service, for a period of 120 days following the termination of such service if the Director certifies that the volunteer's injury probably meets the requirements under subsection (c)(3). The Secretary may then certify vouchers for these expenses for such volunteer out of the Employees' Compensation Fund.
 
@@ -38,7 +38,7 @@
 
 (4) Nothing in this subsection may be construed to authorize the furnishing of any medical benefit that the Secretary of Labor is not otherwise authorized to reimburse for former Peace Corps volunteers who receive treatment for injury or disease proximately caused by their service in the Peace Corps in accordance with this chapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 552; Pub. L. 90–83, §1(64), Sept. 11, 1967, 81 Stat. 212; Pub. L. 93–416, §23(b), Sept. 7, 1974, 88 Stat. 1150; Pub. L. 115–256, title I, §102, Oct. 9, 2018, 132 Stat. 3652.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 552; Pub. L. 90–83, §1(64), Sept. 11, 1967, 81 Stat. 212; Pub. L.93–416, §23(b), Sept. 7, 1974, 88 Stat. 1150; Pub. L. 115–256, title I, §102, Oct. 9, 2018, 132 Stat. 3652.)
 
 Historical and Revision Notes<br>1966
 
@@ -70,11 +70,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 8142 of title 5 was derived from section 2504(d) of title 22. This amendment reflects changes, effected by the act of Sept. 13, 1966, Public Law 89–572, section 4, 80 Stat. 765, in the definitions applicable to section 2504(d) by virtue of section 2522(a), (b) of title 22.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–256 added subsec. (d).
 
 <b>1974</b>—Subsec. (c)(2). Pub. L. 93–416 inserted provision relating to a volunteer with one or more minor children.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

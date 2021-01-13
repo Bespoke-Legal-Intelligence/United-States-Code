@@ -1,10 +1,10 @@
 ### §502. Absences due to sickness, wounds, and certain other causes
 
-(a) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or his designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which he would be entitled if he were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which he would be entitled if he were not on leave, and to any additional allowances otherwise provided by law for members on leave.
+(a) A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary's designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
-(b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of his absence that is more than the number of days' leave authorized by that section.
+(b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or the Secretary's designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of the member's absence that is more than the number of days' leave authorized by that section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 99–661, div. A, title V, §506(b), Nov. 14, 1986, 100 Stat. 3865; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 99–661, div. A, title V, §506(b), Nov. 14, 1986, 100 Stat. 3865; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 116–283, div. A, title IX, §925(g)(1)(B), (3)(B), Jan. 1, 2021, 134 Stat. 3827, 3828.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,15 @@ In subsections (a) and (b), the words ", or his designated representative," are
 
 In subsection (b), the words "Except as provided in subsection (a) of this section" are inserted for clarity. The words "the part of his absence that is more than the number of days' leave authorized by that section" are substituted for the words "such absence".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §925(g)(3)(B)(i), (ii), substituted "the Secretary's designated representative" for "his designated representative" and substituted "the member" for "he" wherever appearing.
+
+Pub. L. 116–283, §925(g)(1)(B), which directed insertion of "Space Force," after "Marines Corps,", was executed by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 116–283, §925(g)(3)(B)(i), (iii), substituted "the Secretary's designated representative" for "his designated representative" and "the member's" for "his".
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
@@ -56,11 +64,13 @@ In subsection (b), the words "Except as provided in subsection (a) of this secti
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

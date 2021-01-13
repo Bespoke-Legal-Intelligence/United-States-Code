@@ -8,7 +8,7 @@
 
 #### (2) Guidelines
 
-&emsp;The Director shall establish guidelines to measure the extent of compliance with thehousing goals, which, except as provided in paragraph (5), may assign full credit, partial credit, or no credit toward achievement of the housing goals to different categories of mortgage purchase activities of the enterprises, based on such criteria as the Director deems appropriate.
+&emsp;The Director shall establish guidelines to measure the extent of compliance with the housing goals, which, except as provided in paragraph (5), may assign full credit, partial credit, or no credit toward achievement of the housing goals to different categories of mortgage purchase activities of the enterprises, based on such criteria as the Director deems appropriate.
 
 #### (3) Extent of compliance
 
@@ -78,7 +78,7 @@
 
 #### (1) Requirement
 
-&emsp;If the Director finds, pursuant to subsection (b), that there is a substantial probability that an enterprise will fail, or has actually failed, to meet any housing goal under this subpart,and that the achievement of the housing goal was or is feasible, the Director may require that the enterprise submit a housing plan under this subsection. If the Director makes such a finding and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title and impose civil money penalties in accordance with section 4585 of this title.
+&emsp;If the Director finds, pursuant to subsection (b), that there is a substantial probability that an enterprise will fail, or has actually failed, to meet any housing goal under this subpart, and that the achievement of the housing goal was or is feasible, the Director may require that the enterprise submit a housing plan under this subsection. If the Director makes such a finding and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title and impose civil money penalties in accordance with section 4585 of this title.
 
 #### (2) Housing plan
 
@@ -113,6 +113,8 @@
 &emsp;Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title, impose civil money penalties in accordance with section 4585 of this title, exercise other appropriate enforcement authority or seek other appropriate actions.
 
 (Pub. L. 102–550, title XIII, §1336, Oct. 28, 1992, 106 Stat. 3962; Pub. L. 110–289, div. A, title I, §§1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, 122 Stat. 2689, 2702, 2705, 2706.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

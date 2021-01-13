@@ -14,6 +14,8 @@ Any readjustment of the terms and conditions as to use, protection, or restorati
 
 (Pub. L. 91–581, §8, Dec. 24, 1970, 84 Stat. 1569; Pub. L. 109–58, title II, §§229, 236(8), Aug. 8, 2005, 119 Stat. 668, 672.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58, §236(8), inserted section catchline.

@@ -10,7 +10,7 @@ Except as provided in subsection (c), each State (other than the Commonwealth of
 
 &emsp;&emsp;(B) the number of identified eligible migratory children, aged 3 through 21, who received services under this part in summer or intersession programs provided by the State during the previous year; multiplied by
 
-&emsp;(2) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this paragraph shall not be less than 32 percent, nor more than 48 percent, of the average per-pupil expenditure in the United States.
+&emsp;(2) 40 percent of the average per-pupil expenditure in the State, except that the amount determined under this paragraph shallnot be less than 32 percent, nor more than 48 percent, of the average per-pupil expenditure in the United States.
 
 #### (b) Hold harmless
 
@@ -94,7 +94,7 @@ In order to determine the identified number of migratory children residing in ea
 
 #### (g) Nonparticipating States
 
-In the case of a State desiring to receive an allocation under this part for a fiscal year that did not receive an allocation for the previous fiscal year or that has been participating for less than 3 consecutive years, the Secretary shall calculate the State's number of identified migratory children aged 3 through 21 for purposes of subsection (a)(1)(A) by using the most recent data available that identifies the migratory children residing in the State until data is available to calculate the 3-year average number of such children in accordance with such subsection.
+In the case of a State desiring to receive an allocation under this part for a fiscal year that did not receive an allocation for the previous fiscal year or that has been participating for lessthan 3 consecutive years, the Secretary shall calculate the State's number of identified migratory children aged 3 through 21 for purposes of subsection (a)(1)(A) by using the most recent data available that identifies the migratory children residing in the State until data is available to calculate the 3-year average number of such children in accordance with such subsection.
 
 (Pub. L. 89–10, title I, §1303, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1571; amended Pub. L. 114–95, title I, §1301(b), Dec. 10, 2015, 129 Stat. 1894.)
 
@@ -127,4 +127,8 @@ Subsec. (g). Pub. L. 114–95, §1301(b)(6), added subsec. (g).
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+
+#### Migrant Education Program
+
+Pub. L. 116–211, §3, Dec. 4, 2020, 134 Stat. 1018, provided that: "Due to the public health emergency relating to COVID–19 and notwithstanding subsections (a)(1) and (f)(1) of section 1303 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6393), for the purposes of making determinations under subsections (a)(1) and (f) of such section 1303 for fiscal year 2021 and all subsequent fiscal years for which school year 2019–2020 data would be used in the calculations under section 1303(a)(1) of such Act, the Secretary of Education shall use school year 2018–2019 data or school year 2019–2020 data, whichever data are greater, wherever school year 2019–2020 data would otherwise be required."
 

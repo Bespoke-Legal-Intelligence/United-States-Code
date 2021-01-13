@@ -4,7 +4,7 @@
 
 (b) The Board may order testimony to be taken by deposition at any stage of a proceeding or investigation before it as a result of this chapter. Depositions may be taken before an individual designated by the Board and having the power to administer oaths. Testimony shall be reduced to writing by the individual taking the deposition, or under his direction, and shall be subscribed by the deponent. Any person may be compelled to appear and depose and to produce documentary evidence before the Board as provided by this section.
 
-(c) A person may not be excused from attending and testifying or from producing documentary evidence or in obedience to a subpena on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify, or produce evidence, documentary or otherwise, before the Board in obedience to a subpena issued by it. A person so testifying is not exempt from prosecution and punishment for perjury committed in so testifying.
+(c) A person may not be excused from attending and testifying or from producing documentary evidence or in obedience to a subpena on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he iscompelled to testify, or produce evidence, documentary or otherwise, before the Board in obedience to a subpena issued by it. A person so testifying is not exempt from prosecution and punishment for perjury committed in so testifying.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 406; Pub. L. 95–454, title IX, §906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
 
@@ -28,11 +28,15 @@ In subsection (c), the prohibition is restated in positive form.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–454 substituted "Merit Systems Protection Board" and "Board" for "Civil Service Commission" and "Commission", respectively, wherever appearing.
 
 Subsecs. (b), (c). Pub. L. 95–454 substituted "Board" for "Commission" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

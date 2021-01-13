@@ -14,6 +14,8 @@ Words "Territory, or District of the United States, or place noncontiguous to bu
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

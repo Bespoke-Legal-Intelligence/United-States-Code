@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 no source.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purposes of Pub. L. 105–203
 
 Pub. L. 105–203, §2(b), July 21, 1998, 112 Stat. 679, provided that: "The purposes of this Act \[see 54 U.S.C. 308301 et seq.\] are the following:

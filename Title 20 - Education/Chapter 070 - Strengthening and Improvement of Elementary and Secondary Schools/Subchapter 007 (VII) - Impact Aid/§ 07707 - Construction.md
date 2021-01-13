@@ -56,9 +56,9 @@
 
 &emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) ofparagraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernizationgrants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 &emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -188,13 +188,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a project for a school facility for which the agency does not have full title or other interest;
 
-&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events forwhich admission is charged to the general public; or
+&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events for which admission is charged to the general public; or
 
 &emsp;&emsp;&emsp;&emsp;(III) the acquisition of real property.
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sourcesto carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 114–95, §7001(d)(7), made technical amendment to refe
 
 Subsec. (a)(3)(A)(i)(I). Pub. L. 114–95, §7007(1)(A)(i), redesignated subcl. (II) relating to 20 percent of the amount appropriated as (I).
 
-Subsec. (a)(3)(A)(i)(II). Pub. L. 114–95, §7007(1)(A)(ii), made technical amendment to reference in original actwhich appears in text as reference to section 7708(a) of this title.
+Subsec. (a)(3)(A)(i)(II). Pub. L. 114–95, §7007(1)(A)(ii), made technical amendment to reference in original act which appears in text as reference to section 7708(a) of this title.
 
 Pub. L. 114–95, §7007(1)(A)(i), redesignated subcl. (II) relating to 20 percent of the amount appropriated as (I).
 

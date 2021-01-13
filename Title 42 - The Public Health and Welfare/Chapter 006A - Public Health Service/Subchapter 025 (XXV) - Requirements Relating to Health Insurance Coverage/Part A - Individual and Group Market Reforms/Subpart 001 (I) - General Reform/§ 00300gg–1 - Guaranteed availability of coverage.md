@@ -28,7 +28,7 @@ Subject to subsections (b) through (e),<sup>1</sup> each health insurance issuer
 
 &emsp;&emsp;(B) within the service area of such plan, deny such coverage to such employers and individuals if the issuer has demonstrated, if required, to the applicable State authority that—
 
-&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees of any additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees, and
+&emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to enrollees ofany additional groups or any additional individuals because of its obligations to existing group contract holders and enrollees, and
 
 &emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to all employers and individuals without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals <sup>1</sup> employees and dependents.
 

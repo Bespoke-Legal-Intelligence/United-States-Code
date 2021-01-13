@@ -1,6 +1,6 @@
 ### §3372. General provisions
 
-(a) On request from or with the concurrence of a State or local government, and with the consent of the employee concerned, the head of a Federal agency may arrange for the assignment of—
+(a) On request from or with the concurrence of a State or local government, and with the consent of the employee concerned, the head of aFederal agency may arrange for the assignment of—
 
 &emsp;(1) an employee of his agency, other than a noncareer appointee, limited term appointee, or limited emergency appointee (as such terms are defined in section 3132(a) of this title) in the Senior Executive Service and an employee in a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character, to a State or local government; and
 
@@ -32,6 +32,8 @@
 
 (Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 93–638, title I, §104(k), (l), as added Pub. L. 100–472, title II, §203(f), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(b), (c), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 946; Pub. L. 103–89, §3(b)(1)(A), Sept. 30, 1993, 107 Stat. 981; Pub. L. 103–337, div. A, title X, §1068(b), Oct. 5, 1994, 108 Stat. 2852.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
@@ -48,9 +50,11 @@ Subsec. (b). Pub. L. 95–454, §603(b), (c)(2)–(4), in cls. (1) and (2) subst
 
 Subsec. (c). Pub. L. 95–454, §603(c)(5), added subsec. (c).
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end "If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to the replacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization."
+<b>1975</b>—Subsec. (a). Pub. L. 93–638, §104(k), as added by Pub. L. 100–472, inserted at end "If the assigned employee fails to complete the period of assignment and there is another employee willing and available to do so, the Secretary may assign the employee to complete the period of assignment and may execute an agreement with the tribal organization with respect to thereplacement employee. That agreement may provide for a different period of assignment as may be agreed to by the Secretary and the tribal organization."
 
 Subsec. (d). Pub. L. 93–638, §104(l), as added by Pub. L. 100–472, added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

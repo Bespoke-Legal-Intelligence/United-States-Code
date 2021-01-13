@@ -52,7 +52,7 @@ In general.—In lieu of the tax imposed by section 1, there is hereby imposed f
 
 &emsp;"(2)
 
-Ceiling amount defined.—For purposes of paragraph (1), the term "ceiling amount" means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
+Ceiling amount defined.—For purposes of paragraph (1), the term 'ceiling amount' means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
 
 &emsp;"(3)
 

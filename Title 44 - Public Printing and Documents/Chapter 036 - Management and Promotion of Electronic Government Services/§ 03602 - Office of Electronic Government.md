@@ -12,7 +12,7 @@
 
 &emsp;(3) other electronic government initiatives, consistent with other statutes.
 
-(d) The Administrator shall assist the Director and the Deputy Director for Management and work with the Administrator of the Office of Information and Regulatory Affairs in setting strategic direction for implementing electronic Government, under relevant statutes, including—
+(d) The Administrator shall assist the Director and the Deputy Director for Management and work with the Administrator of the Office of Information and Regulatory Affairs in settingstrategic direction for implementing electronic Government, under relevant statutes, including—
 
 &emsp;(1) chapter 35;
 
@@ -86,7 +86,7 @@
 
 &emsp;(10) Sponsor activities to engage the general public in the development and implementation of policies and programs, particularly activities aimed at fulfilling the goal of using the most effective citizen-centered strategies and those activities which engage multiple agencies providing similar or related information and services.
 
-&emsp;(11) Oversee the work of the General Services Administration and other agencies in developing the integrated Internet-based system under section 204 of the E-Government Act of 2002.
+&emsp;(11) Oversee the work of the General Services Administration and other agencies in developing the integrated Internet-based systemunder section 204 of the E-Government Act of 2002.
 
 &emsp;(12) Coordinate with the Administrator for Federal Procurement Policy to ensure effective implementation of electronic procurement initiatives.
 
@@ -108,6 +108,8 @@
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2902.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Title II of the Act, including sections 204 and 207(d) of the Act, is set out as a note under section 3501 of this title. For complete classification of this Act to the Code, see Tables.
@@ -115,6 +117,8 @@ The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17
 The Government Paperwork Elimination Act, referred to in subsec. (d)(4), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of this title and enacted provisions set out as a note under section 3504 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Information Security Management Act of 2002, referred to in subsec. (d)(5), probably means title III of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2946, which was classified principally to subchapter III of chapter 35 of this title and was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables. Another Federal Information Security Management Act of 2002 is title X of Pub. L. 107–296, Nov. 25, 116 Stat. 2259. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6, Domestic Security.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

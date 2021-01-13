@@ -68,13 +68,15 @@ Coordination with subsection (c).—No criminal proceeding may be commenced unde
 
 (Added Pub. L. 103–296, title III, §312(l)(1), Aug. 15, 1994, 108 Stat. 1528.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–296, title III, §312(m), Aug. 15, 1994, 108 Stat. 1530, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
 
 "(2)
 

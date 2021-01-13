@@ -1,12 +1,14 @@
 ### §1543. Net worth limitation
 
-(a)(1) The Secretary shall deny or discontinue payment of pension to a surviving spouse under section 1541 of this title when the corpus of the estate of the surviving spouse is such that under all the circumstances, including consideration of the income of the surviving spouse and the income of any child from whom the surviving spouse is receiving increased pension, it is reasonable that some part of the corpus of such estate be consumed for the surviving spouse's maintenance.
+(a)(1) The Secretary shall deny or discontinue payment of pension to a surviving spouse undersection 1541 of this title when the corpus of the estate of the surviving spouse is such that under all the circumstances, including consideration of the income of the surviving spouse and the income of any child from whom the surviving spouse is receiving increased pension, it is reasonable that some part of the corpus of such estate be consumed for the surviving spouse's maintenance.
 
 (2) The Secretary shall deny or discontinue the payment of increased pension under subsection (c), (d), or (e) of section 1541 of this title on account of a child when the corpus of such child's estate is such that under all the circumstances, including consideration of the income of the surviving spouse and such child and the income of any other child for whom the surviving spouse is receiving increased pension, it is reasonable that some part of the corpus of the child's estate be consumed for the child's maintenance. During the period such denial or discontinuance remains in effect, such child shall not be considered as the surviving spouse's child for purposes of this chapter.
 
 (b) The Secretary shall deny or discontinue payment of pension to a child under section 1542 of this title when the corpus of the estate of the child is such that under all the circumstances, including consideration of the income of the child, the income of any person with whom such child is residing who is legally responsible for such child's support, and the corpus of the estate of such person, it is reasonable that some part of the corpus of such estates be consumed for the child's maintenance.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §543; Pub. L. 86–211, §4, Aug. 29, 1959, 73 Stat. 435; Pub. L. 94–169, title I, §101(2)(E), Dec. 23, 1975, 89 Stat. 1014; Pub. L. 95–588, title I, §111, Nov. 4, 1978, 92 Stat. 2504; renumbered §1543 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator"
 <b>1975</b>—Pub. L. 94–169 substituted "surviving spouse" for "widow".
 
 <b>1959</b>—Pub. L. 86–211 substituted provisions requiring the denial or discontinuance of payment of pension to a widow or child when the corpus of the estate of the survivor concerned is such that under all the circumstances, including consideration of income, it is reasonable that some part of the corpus be consumed for the survivor's maintenance for provisions which authorized the payment of a pension to widows of World War II or Korean conflict veterans. See section 1541 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

@@ -140,7 +140,7 @@ Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in su
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted ", industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)" for "or industrial source carbon dioxide".
+<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted ", industrial source carbon dioxide, or thetransportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)" for "or industrial source carbon dioxide".
 
 Pub. L. 110–343, §116(a), inserted "or industrial source carbon dioxide" before comma at end.
 

@@ -66,7 +66,7 @@ For purposes of this section, the terms "eligible educational institution" and "
 
 #### (f) Returns which would be required to be made by 2 or more persons
 
-Except to the extent provided in regulations prescribed by the Secretary, in the case of any amount received by any person on behalf of another person, only the person first receivingsuch amount shall be required to make the return under subsection (a).
+Except to the extent provided in regulations prescribed by the Secretary, in the case of any amount received by any person on behalf of another person, only the person first receiving such amount shall be required to make the return under subsection (a).
 
 #### (g) Regulations
 
@@ -156,7 +156,7 @@ Pub. L. 107–131, §2, Jan. 16, 2002, 115 Stat. 2411, provided that: "The amend
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxableyears ending after such date, see section 412(a)(3) of Pub. L. 107–16, set out as a note under section 221 of this title.
+Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 107–16, set out as a note under section 221 of this title.
 
 #### Effective Date of 1998 Amendment
 

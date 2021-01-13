@@ -12,11 +12,13 @@ Notwithstanding any other provision of law, with respect to the Oregon and Calif
 
 Nothing in this section affects any applicable requirement of the Secretary of the Interior to consult with the head of any other Federal department or agency—
 
-&emsp;(1) regarding a project carried out, or proposed to be carried out, pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), including any requirement to consult regarding the consideration of the cumulative impacts of completed, ongoing, and planned projects; or
+&emsp;(1) regarding a project carried out, or proposed to be carried out, pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), includingany requirement to consult regarding the consideration of the cumulative impacts of completed, ongoing, and planned projects; or
 
 &emsp;(2) with respect to the development of a new land use plan or the revision of or other significant change to an existing land use plan.
 
 (Pub. L. 115–141, div. O, title II, §209, Mar. 23, 2018, 132 Stat. 1067.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

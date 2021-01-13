@@ -16,9 +16,13 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 &emsp;&emsp;(C) such other matters as the Secretary refers to the Board for review and advice.
 
-#### (2) Biennial report
+#### (2) Periodic report
 
-&emsp;The Board shall report to the Congress every two years on the state of the national sea grant college program. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under section 1123(c) of this title. The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this subchapter.
+&emsp;The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under section 1123(c) of this title and provide a summary of research conducted under the program.
+
+#### (3) Availability of resources of Department of Commerce
+
+&emsp;The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this subchapter.
 
 #### (c) Membership, terms, and powers
 
@@ -28,7 +32,7 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 (3) Any individual appointed to a partial or full term may be reappointed for one additional full term. The Director may extend the term of office of a voting member of the Board once by up to 1 year.
 
-(4) The Board shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman.
+(4) The Board shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The ViceChairman shall act as Chairman in the absence or incapacity of the Chairman.
 
 (5) Voting members of the Board shall—
 
@@ -42,9 +46,15 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 (8) The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
-(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, §6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208.)
+(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, §6, Nov. 26, 2002, 116 Stat. 2346; Pub. L. 110–394, §9(a)(4)(A), (C)(iii)–(e), Oct. 13, 2008, 122 Stat. 4208; Pub. L. 116–221, §§5, 11(2), Dec. 18, 2020, 134 Stat. 1058, 1061.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2). Pub. L. 116–221, §5, substituted "Periodic" for "Biennial" in heading, substituted "The Board shall report to Congress at least once every four years on the state of the national sea grant college program and shall notify Congress of any significant changes to the state of the program not later than two years after the submission of such a report." for "The Board shall report to the Congress every two years on the state of the national sea grant college program." in first sentence, and inserted "and provide a summary of research conducted under the program" after "section 1123(c) of this title" in second sentence. Former third sentence redesignated subsec. (b)(3).
+
+Subsec. (b)(3). Pub. L. 116–221, §11(2), designated third sentence of subsec. (b)(2) as par. (3) and inserted heading.
 
 <b>2008</b>—Pub. L. 110–394, §9(a)(4)(A), substituted "National Sea Grant Advisory Board" for "Sea grant review panel" in section catchline.
 
@@ -87,6 +97,8 @@ Subsec. (c)(2). Pub. L. 100–220, §3108(2)(C), inserted at end "At least once 
 Subsec. (c)(3). Pub. L. 100–220, §3108(2)(D), struck out ", or until 90 days after such date, whichever is earlier" after "office" at end of second sentence.
 
 <b>1980</b>—Subsec. (c)(3). Pub. L. 96–289 substituted authorization for reappointment for one additional full term of an appointee to a partial or full term for prior authorization for filling vacancies for remainder of appointee's term and prohibition against status as a voting member after service of one full term as such voting member.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

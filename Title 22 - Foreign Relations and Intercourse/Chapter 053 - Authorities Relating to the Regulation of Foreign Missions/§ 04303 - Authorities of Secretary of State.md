@@ -14,9 +14,11 @@ The Secretary shall carry out the following functions:
 
 (Aug. 1, 1956, ch. 841, title II, §203, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 98–164, title VI, §604(a), (b), Nov. 22, 1983, 97 Stat. 1043, 1044; Pub. L. 98–618, title VI, §601(c), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 100–204, title I, §173(a)(2), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 101–246, title I, §116(a), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(o)(2), Apr. 30, 1994, 108 Stat. 409.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in pars. (3) and (4), was in the original "this Act" and was translated as reading "this title" meaning title II of act Aug. 1, 1956, ch. 841,as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in pars. (3) and (4), was in the original "this Act" and was translated as reading "this title" meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 
@@ -34,6 +36,8 @@ Subsec. (b). Pub. L. 98–618, §601(c)(2), substituted requirement of prior com
 
 Subsecs. (b), (c). Pub. L. 98–164, §604(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
@@ -44,7 +48,7 @@ Amendment by Pub. L. 100–204 effective 30 days after Dec. 22, 1987, see sectio
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–618, title VI, §601(d), Nov. 8, 1984, 98 Stat. 3303, provided that: "The amendments made by subsection (c) \[amending this section\] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section \[Nov. 8, 1984\]."
+Pub. L. 98–618, title VI, §601(d), Nov. 8, 1984, 98 Stat. 3303, provided that: "The amendments made by subsection (c) \[amending this section\] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as thecase may be, after the date of the enactment of this section \[Nov. 8, 1984\]."
 
 #### Effective Date of 1983 Amendment
 

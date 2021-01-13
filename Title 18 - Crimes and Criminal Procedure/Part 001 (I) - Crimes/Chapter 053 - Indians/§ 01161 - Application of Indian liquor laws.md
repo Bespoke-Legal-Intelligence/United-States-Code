@@ -4,9 +4,13 @@ The provisions of sections 1154, 1156, 3113, 3488, and 3669, of this title, shal
 
 (Added Aug. 15, 1953, ch. 502, §2, 67 Stat. 586; amended Pub. L. 98–473, title II, §223(b), Oct. 12, 1984, 98 Stat. 2028.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 substituted "3669" for "3618".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

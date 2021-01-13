@@ -184,7 +184,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Chief Operating Officer is authorized to be paid at an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(B) of such title. The compensation of the Chief Operating Officer shall be considered for purposes of section 207(c)(2)(A) of title 18 to bethe equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
+&emsp;&emsp;The Chief Operating Officer is authorized to be paid at an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(B) of such title. The compensation of the Chief Operating Officer shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
 
 #### (B) Bonus
 
@@ -258,7 +258,7 @@
 
 #### (3) Excepted service
 
-&emsp;The Chief Operating Officer may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, technical and professional employees to administer the functions of the PBO. These employees may be paid without regard to theprovisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;The Chief Operating Officer may appoint, without regard to the provisions of title 5 governing appointments in the competitive service, technical and professional employees to administer the functions of the PBO. These employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (h) Establishment of fair and equitable system for measuring staff performance
 
@@ -266,9 +266,25 @@ The PBO shall establish an annual performance management system, subject to comp
 
 #### (i) Authorization of appropriations
 
-The Secretary shall allocate from funds made available under section 1087h of this title such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
+The Secretary shall allocate from funds made available under section 1087h of this title suchfunds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
 
-(Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604; amended Pub. L. 110–315, title I, §§103(b)(2), 117, Aug. 14, 2008, 122 Stat. 3088, 3114; Pub. L. 111–39, title I, §101(b)(5), July 1, 2009, 123 Stat. 1935.)
+(Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604; amended Pub. L. 110–315, title I, §§103(b)(2), 117, Aug. 14, 2008, 122 Stat. 3088, 3114; Pub. L. 111–39, title I, §101(b)(5), July 1, 2009, 123 Stat. 1935; Pub. L. 116–251, §5, Dec. 22, 2020, 134 Stat. 1131.)
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 116–251, §§5, 6, Dec. 22, 2020, 134 Stat. 1131, 1132, provided that, effective 180 days after Dec. 22, 2020, subsection (b)(2) of this section is amended by adding at the end the following:</i>
+
+&emsp;&emsp;<i>(C) Taking action to prevent and address the improper use of access devices, as described in section 1092b(d)(7) of this title, including by—</i>
+
+&emsp;&emsp;&emsp;<i>(i) detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;</i>
+
+&emsp;&emsp;&emsp;<i>(ii) maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;</i>
+
+&emsp;&emsp;&emsp;<i>(iii) proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and</i>
+
+&emsp;&emsp;&emsp;<i>(iv) providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.</i>
+
+<i>See 2020 Amendment note below.</i>
 
 #### References in Text
 
@@ -283,6 +299,8 @@ A prior section 1018, Pub. L. 89–329, title I, §141, as added Pub. L. 100–4
 Another prior section 1018, Pub. L. 89–329, title I, §118, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382, defined terms used in former part D of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (b)(2)(C). Pub. L. 116–251 added subpar. (C).
 
 <b>2009</b>—Subsec. (c)(3). Pub. L. 111–39, §101(b)(5)(A), substituted "under subchapter IV" for "under this subchapter" in introductory provisions.
 
@@ -349,6 +367,10 @@ Subsec. (g)(3). Pub. L. 110–315, §117(6), struck out "not more than 25" befor
 Subsec. (h). Pub. L. 110–315, §117(7), substituted "effectiveness" for "organizational effectiveness".
 
 Subsecs. (i), (j). Pub. L. 110–315, §117(8)–(10), redesignated subsec. (j) as (i), struck out ", including transition costs" before period at end, and struck out former subsec. (i). Text of former subsec. (i) read as follows: "The Secretary and the Chief Operating Officer, not later than 180 days after October 7, 1998, shall report to Congress on the proposed budget and sources of funding for the operation of the PBO."
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–251, §6, Dec. 22, 2020, 134 Stat. 1132, provided that: "This Act \[see Short Title of 2020 Amendment note set out under section 1001 of this title\], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of enactment of this Act \[Dec. 22, 2020\]."
 
 #### Effective Date of 2009 Amendment
 

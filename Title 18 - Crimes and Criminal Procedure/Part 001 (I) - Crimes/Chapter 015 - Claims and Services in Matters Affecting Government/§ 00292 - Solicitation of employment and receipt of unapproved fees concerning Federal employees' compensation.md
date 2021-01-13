@@ -34,6 +34,8 @@ The words "or both" are substituted for "or by both such fine and imprisonment".
 
 Minor changes in phraseology are made to conform to the style of title 18.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

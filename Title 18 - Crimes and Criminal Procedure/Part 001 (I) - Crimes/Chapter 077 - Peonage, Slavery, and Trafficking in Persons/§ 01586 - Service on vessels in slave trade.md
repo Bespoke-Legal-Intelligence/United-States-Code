@@ -10,6 +10,8 @@ Based on title 18, U.S.C., 1940 ed., §427 (Mar. 4, 1909, ch. 321, §252, 35 Sta
 
 Mandatory-punishment provisions were rephrased in the alternative.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".

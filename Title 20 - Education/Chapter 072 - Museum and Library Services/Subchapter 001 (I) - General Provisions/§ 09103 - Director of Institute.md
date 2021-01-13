@@ -62,7 +62,7 @@ The Director shall ensure coordination of the policies and activities of the Ins
 
 #### (g) Interagency collaboration
 
-The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and Human Services, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office, or the designees of such individuals, on—
+The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and HumanServices, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office, or the designees of such individuals, on—
 
 &emsp;(1) initiatives, materials, technology, or research to support education, workforce development, economic and business development, and related activities and services undertaken by libraries;
 
@@ -88,7 +88,7 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (A) In general
 
-&emsp;&emsp;The procedures described in paragraph (2) shall include provisions that clearly specifythat obscenity is without serious literary, artistic, political, or scientific merit, and is not protected speech.
+&emsp;&emsp;The procedures described in paragraph (2) shall include provisions that clearly specify that obscenity is without serious literary, artistic, political, or scientific merit, and is not protected speech.
 
 #### (B) Prohibition
 
@@ -116,7 +116,7 @@ A prior section 204 of Pub. L. 94–462 was classified to section 963 of this ti
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(2). Pub. L. 115–410, §3(1), inserted ", except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director's term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier" before period at end.
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–410, §3(1), inserted ", except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director's term, the Director may serve for not more than 1 additional year or until a successor isappointed and confirmed, whichever is earlier" before period at end.
 
 Subsec. (f)(1). Pub. L. 115–410, §3(2)(A), added par. (1) and struck out former par. (1) which read as follows: "activities under section 6646 of this title;".
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Service of Individuals Serving on September 30, 1996
 

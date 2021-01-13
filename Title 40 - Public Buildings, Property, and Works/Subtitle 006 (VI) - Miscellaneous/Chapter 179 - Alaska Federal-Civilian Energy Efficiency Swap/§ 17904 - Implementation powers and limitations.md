@@ -18,7 +18,7 @@ Exercise of Authorities.—The authority under this chapter shall be exercised f
 
 (d)
 
-Negotiation and Execution of Contracts and Other Agreements.—A contract or other agreement executed under this chapter shall benegotiated and executed by the head of the federal agency selling or purchasing electric energy under this chapter.
+Negotiation and Execution of Contracts and Other Agreements.—A contract or other agreement executed under this chapter shall be negotiated and executed by the head of the federal agency selling or purchasing electric energy under this chapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1290.)
 

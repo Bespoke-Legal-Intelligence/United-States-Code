@@ -22,7 +22,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;&emsp;(ii) in the final year of a course of a study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
-&emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps; and
+&emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps <sup>1</sup> of the Service or be eligible for selection for civilian service in the Corps; and
 
 &emsp;(3) submit to the Secretary an application for a contract described in subsection (f) (relating to the payment by the Secretary of the educational loans of the individual in consideration of the individual serving for a period of obligated service).
 
@@ -94,7 +94,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C), while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a memberof the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -164,7 +164,7 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out "(including mental health professionals)" before period at end.
 
-Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which readas follows: "must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;".
+Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;".
 
 Subsec. (e)(1). Pub. L. 107–251, §310(3), struck out par. (1) designation and heading.
 
@@ -210,7 +210,7 @@ Pub. L. 101–597, §202(c), added par. (4).
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
+Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:"In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
 
 &emsp;"(1) individuals whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps; and
 
@@ -254,6 +254,10 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy" wherever appearing.
 
+#### Change of Name
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
@@ -269,4 +273,6 @@ Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that:
 #### Clarification on Current Eligibility for Loan Repayment Programs
 
 Pub. L. 114–255, div. B, title IX, §9023, Dec. 13, 2016, 130 Stat. 1253, provided that: "The Administrator of the Health Resources and Services Administration shall clarify the eligibility pursuant to section 338B(b)(1)(B) of the Public Health Service Act (42 U.S.C. 254l–1(b)(1)(B)) of child and adolescent psychiatrists for the National Health Service Corps Loan Repayment Program under subpart III of part D of title III of such Act (42 U.S.C. 254l et seq.)."
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

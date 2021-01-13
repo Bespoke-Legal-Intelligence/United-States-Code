@@ -96,7 +96,7 @@ In subsection (c)(1), the words "and when practical shall" are substituted for "
 
 In subsection (c)(2), the words "pay reasonable compensation" are substituted for "allow . . . fair and reasonable compensation" for consistency in the revised title. The words "an underwriting agent" are substituted for "such companies or groups of companies", and the words "the agent writes" are substituted for "written by such companies or groups of companies as underwriting agent", for clarity. The word "payment" is substituted for "allowance" for consistency.
 
-In subsection (c)(3), the words "intermediary" and "fee or other" are omitted as surplus. The word "for" is substituted for "by virtue of his participation in" to eliminate unnecessary words.
+In subsection (c)(3), the words "intermediary" and "fee or other" are omitted as surplus. The word "for"is substituted for "by virtue of his participation in" to eliminate unnecessary words.
 
 In subsection (d), the word "prepare" is omitted as being included in "submit". The words "for carrying out this chapter" are substituted for "in the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter" for consistency and to eliminate unnecessary words. The words "under chapter 91 of title 31" are substituted for "by the Government Corporation Control Act, as amended (59 Stat. 597; 31 U.S.C. 841)" in section 1307(f) of the Act of August 23, 1958 (Public Law 85–726, 72 Stat. 804) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067).
 

@@ -34,7 +34,7 @@
 
 #### (iii) Agreement
 
-&emsp;&emsp;&emsp;Not later than 60 days after the date on which the Secretary determines that all applicable requirements under clause (i) are met, the Secretary shall offer to enter into a special law enforcement commission agreement with the Indian tribe.
+&emsp;&emsp;&emsp;Not later than 60 days after the date on which the Secretary determines that allapplicable requirements under clause (i) are met, the Secretary shall offer to enter into a special law enforcement commission agreement with the Indian tribe.
 
 #### (b) Agreement to be in accord with agreements between Secretary and Attorney General
 
@@ -58,7 +58,7 @@ The head of a Federal agency with law enforcement personnel or facilities may en
 
 #### (f) Status of person as Federal employee
 
-While acting under authority granted by the Secretary under subsection (a), a person who isnot otherwise a Federal employee shall be considered to be—
+While acting under authority granted by the Secretary under subsection (a), a person who is not otherwise a Federal employee shall be considered to be—
 
 &emsp;(1) an employee of the Department of the Interior only for purposes of—
 
@@ -77,6 +77,8 @@ The Bureau may accept reimbursement, resources, assistance, or funding from—
 &emsp;(2) the Indian Law Enforcement Foundation established under section 5412(a) <sup>1</sup> of this title.
 
 (Pub. L. 101–379, §5, Aug. 18, 1990, 104 Stat. 476; Pub. L. 111–211, title II, §231(b), (e), July 29, 2010, 124 Stat. 2273, 2278.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

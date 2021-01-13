@@ -1,8 +1,8 @@
 ### §8803. Sales: veterans under treatment
 
-A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, or the Marine Corps and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
+A person who has been separated honorably or under honorable conditions from the Army, the Navy, the Air Force, the Marine Corps, or the Space Force and who is receiving care and medical treatment from the Public Health Service or the Department of Veterans Affairs may buy subsistence supplies and other supplies, except articles of uniform, from the Navy and the Marine Corps at prices charged members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 471, §7603; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; renumbered §8803, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471, §7603; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; renumbered §8803, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title IX, §924(d)(3), Jan. 1, 2021, 134 Stat. 3826.)
 
 Historical and Revision Notes
 
@@ -22,11 +22,13 @@ The word "separated" is substituted for the word "discharged". The words "under 
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 116–283 substituted "the Marine Corps, or the Space Force" for "or the Marine Corps".
+
 <b>2018</b>—Pub. L. 115–232 renumbered section 7603 of this title as this section.
 
 <b>1989</b>—Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

@@ -28,6 +28,8 @@ Congress makes the following findings:
 
 (Pub. L. 112–239, div. A, title XII, §1248, Jan. 2, 2013, 126 Stat. 2015.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.

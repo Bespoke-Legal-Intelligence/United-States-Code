@@ -20,9 +20,13 @@
 
 Section 504 prohibits the sharing of compensation, or fee splitting, among attorneys, other professionals, or trustees. The section provides only two exceptions: partners or associates in the same professional association, partnership, or corporation may share compensation inter se; and attorneys for petitioning creditors that join in a petition commencing an involuntary case may share compensation.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–8 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

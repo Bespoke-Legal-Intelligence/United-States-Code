@@ -34,5 +34,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(e)\], Oct. 30, 2000, 114 S
 
 &emsp;"(3) not later than April 1, 2001, establish the guidelines under which members of the Armed Forces may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up required under subsection (b)(3) of such section; and
 
-&emsp;"(4) not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a) of section 1580a of such title (as added by subsection(c))."
+&emsp;"(4) not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a)of section 1580a of such title (as added by subsection(c))."
 

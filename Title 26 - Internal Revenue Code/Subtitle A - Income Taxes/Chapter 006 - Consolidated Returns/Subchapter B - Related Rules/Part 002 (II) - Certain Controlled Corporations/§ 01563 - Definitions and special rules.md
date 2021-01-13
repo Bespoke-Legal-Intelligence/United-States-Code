@@ -14,7 +14,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (2) Brother-sister controlled group
 
-&emsp;Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2))stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.
+&emsp;Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2)) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.
 
 #### (3) Combined group
 
@@ -84,13 +84,13 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as "subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as"subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
 &emsp;&emsp;&emsp;(ii) stock in the subsidiary corporation owned by an individual (within the meaning of subsection (d)(2)) who is a principal stockholder or officer of the parent corporation. For purposes of this clause, the term "principal stockholder" of a corporation means an individual who owns (within the meaning of subsection (d)(2)) 5 percent or more of the total combined voting power of all classes of stock entitled to vote or 5 percent or more of the total value of shares of all classes of stock in such corporation,
 
-&emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection\(d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
+&emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
 &emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than the parent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
 
@@ -208,7 +208,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 &emsp;&emsp;&emsp;(i) provides a reasonable selling price for such stock, and
 
-&emsp;&emsp;&emsp;(ii) requires that a portion of the employee's share of the profits of such corporation (whether received as compensation or as a dividend) be applied to the purchase of such stock (or the purchase ofnotes, bonds, debentures or other similar evidence of indebtedness of such franchised corporation held by such parent corporation or common owner);
+&emsp;&emsp;&emsp;(ii) requires that a portion of the employee's share of the profits of such corporation (whether received as compensation or as a dividend) be applied to the purchase of such stock (or the purchase of notes, bonds, debentures or other similar evidence of indebtedness of such franchised corporation held by such parent corporation or common owner);
 
 &emsp;&emsp;(D) such employee (or employees) owns directly more than 20 percent of the total value of shares of all classes of stock in such franchised corporation;
 
@@ -270,7 +270,7 @@ Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, prov
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) ofPub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 

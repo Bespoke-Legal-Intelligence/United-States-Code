@@ -20,7 +20,7 @@
 
 &emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
 
-(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates ofpay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
+(b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
 
 (c) This section does not authorize any adjustment in the rates of pay of employees whose rates of pay are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices.
 
@@ -29,6 +29,8 @@
 (e) Pay may not be paid, by reason of any exercise of authority under this section, at a rate in excess of the rate of basic pay payable for level V of the Executive Schedule.
 
 (Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1949; amended Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1437; Pub. L. 102–378, §2(27), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 104–186, title II, §215(3), Aug. 20, 1996, 110 Stat. 1745.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Level V of the Executive Schedule, referred to in subsec. (e), is set out in sec
 <b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–378 substituted "section 166b–3a" for "section 166b–3".
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions authorizing adjustments in rates of pay, minimum or maximum rates of pay, and monetary limitations or allowances with respect to pay of certain Federal employees for provisions establishing Advisory Committee on Federal Pay and setting forth its duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) Premiums for eligible beneficiaries
 
-&emsp;There is hereby imposed a penalty on the failure of any assigned operator to pay anypremium required to be paid under section 9704 with respect to any eligible beneficiary.
+&emsp;There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary.
 
 #### (2) Contributions required under the mining laws
 

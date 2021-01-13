@@ -16,7 +16,7 @@ Service of the subpena shall be made upon the witness no later than three days b
 
 #### (c) Place of examination
 
-A witness may be required to attend an examination only in the county wherein he resides or is employed, or transacts his business in person, or is served with a subpena, or within forty miles of the place of service.
+A witness may be required to attend an examination only in the county wherein he resides oris employed, or transacts his business in person, or is served with a subpena, or within forty miles of the place of service.
 
 #### (d) Form
 
@@ -27,6 +27,8 @@ Every subpena shall state the name and title of the officer issuing same and the
 A subpena may also command the person to whom it is directed to produce the books, papers, documents, or other tangible things designated therein, but the committee, upon motion promptly made and in any event at or before the time specified in the subpena for compliance therewith, may (1) quash or modify the subpena if it is unreasonable or oppressive, or (2) condition denial of the motion upon the advancement by the party in whose behalf the subpena is issued of the reasonable cost of producing the books, papers, documents, or tangible things. In the case of public records or documents, copies thereof, certified by the person having official custody thereof, may be produced in lieu of the originals.
 
 (Pub. L. 91–138, §9, Dec. 5, 1969, 83 Stat. 288.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

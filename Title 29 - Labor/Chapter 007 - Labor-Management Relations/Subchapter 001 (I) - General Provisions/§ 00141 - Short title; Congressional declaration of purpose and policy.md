@@ -2,15 +2,19 @@
 
 (a) This chapter may be cited as the "Labor Management Relations Act, 1947".
 
-(b) Industrial strife which interferes with the normal flow of commerce and with the full production of articles and commodities for commerce, can be avoided or substantially minimized if employers, employees, and labor organizations each recognize under law one another's legitimate rights in their relations with each other, and above all recognize under law thatneither party has any right in its relations with any other to engage in acts or practices which jeopardize the public health, safety, or interest.
+(b) Industrial strife which interferes with the normal flow of commerce and with the full production of articles and commodities for commerce, can be avoided or substantially minimized if employers, employees, and labor organizations each recognize under law one another's legitimate rights in their relations with each other, and above all recognize under law that neither party has any right in its relations with any other to engage in acts or practices which jeopardize the public health, safety, or interest.
 
 It is the purpose and policy of this chapter, in order to promote the full flow of commerce, to prescribe the legitimate rights of both employees and employers in their relations affecting commerce, to provide orderly and peaceful procedures for preventing the interference by either with the legitimate rights of the other, to protect the rights of individual employees in their relations with labor organizations whose activities affect commerce, to define and proscribe practices on the part of labor and management which affect commerce and are inimical to the general welfare, and to protect the rights of the public in connection with labor disputes affecting commerce.
 
 (June 23, 1947, ch. 120, §1, 61 Stat. 136.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "This Act" meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this subchapter and subchapters III (§171 et seq.) and IV (§185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1978 Amendment
 
@@ -19,6 +23,8 @@ Pub. L. 95–524, §6(a), Oct. 27, 1978, 92 Stat. 2020, provided that: "This sec
 #### National Commission on Technology, Automation, and Economic Progress
 
 Pub. L. 88–444, Aug. 19, 1964, 78 Stat. 462, established the National Commission on Technology, Automation, and Economic Progress, to make a comprehensive and impartial study and make recommendations from time to time as needed for constructive action. The Commission was directed to submit a final report of its findings and recommendations to the President and the Congress by January 1, 1966, and ceased 30 days after submitting its final report.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10918
 

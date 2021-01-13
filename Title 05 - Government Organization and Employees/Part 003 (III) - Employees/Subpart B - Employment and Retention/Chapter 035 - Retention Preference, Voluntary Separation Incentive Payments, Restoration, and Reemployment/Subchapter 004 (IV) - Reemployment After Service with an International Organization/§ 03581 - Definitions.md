@@ -50,11 +50,15 @@ The definition of "Detail" in former section 2331(6) is omitted from this sectio
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Subsec. (5)(A). Pub. L. 94–183 substituted "3582(b)" for "3582(a)".
 
 <b>1969</b>—Par. (5). Pub. L. 91–175 substituted "the first 5 consecutive years, or any extension thereof, after entering the employ of the international organization" for "the first 3 consecutive years after entering the employ of the international organization".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

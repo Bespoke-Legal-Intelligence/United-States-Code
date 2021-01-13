@@ -18,7 +18,7 @@ In meeting the provisions of this section, each State director and administrativ
 
 #### (e) "State" defined
 
-For the purposes of this subchapter, the term "State" means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
+For the purposes of this subchapter, the term "State" means any one of the fifty States, theCommonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
 
 (Pub. L. 95–306, §4, June 30, 1978, 92 Stat. 350; Pub. L. 104–127, title VIII, §802(b)(3), Apr. 4, 1996, 110 Stat. 1159.)
 

@@ -50,7 +50,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(H) Maintenance by the owner of the Mexican facility at all times throughout the term of the contract of a 20 percent equity position in the capital structure of the Mexican facility.
 
-&emsp;&emsp;(I) Payment of fees by the Commission to the owner of the Mexican facility for sewage treatment services with the annual amount payable to reflect all agreed upon costs associated with the development, financing, construction, operation, and maintenance of the Mexican facility, including costs associated with the purchase of any insurance or other financial instrument under subparagraph (K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.
+&emsp;&emsp;(I) Payment of fees by the Commission to the owner of the Mexican facility for sewage treatment services with the annual amount payable to reflect all agreed upon costs associated with the development, financing, construction, operation, and maintenance of the Mexican facility, including costs associated with the purchase of any insurance or other financial instrument under subparagraph\(K). Costs associated with the purchase of such insurance or other financial instrument may be amortized over the term of the contract.
 
 &emsp;&emsp;(J) Neither the Commission nor the United States Government shall be liable for payment of any cancellation fees if the Commission cancels the contract.
 
@@ -81,6 +81,8 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 &emsp;The Inspector General shall transmit to Congress a report containing the evaluation under paragraph (1) not later than 2 years after the execution of any contract with the owner of the Mexican facility under this section, 3 years thereafter, and periodically after the second report under this paragraph.
 
 (Pub. L. 106–457, title VIII, §804, Nov. 7, 2000, 114 Stat. 1978; Pub. L. 108–425, §1, Nov. 30, 2004, 118 Stat. 2420.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

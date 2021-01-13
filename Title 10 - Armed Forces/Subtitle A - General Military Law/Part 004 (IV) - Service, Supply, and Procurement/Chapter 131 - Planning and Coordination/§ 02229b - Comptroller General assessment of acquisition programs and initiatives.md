@@ -10,7 +10,7 @@ Analyses To Be Included.—The assessment required under subsection (a) shall in
 
 &emsp;(1) a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
 
-&emsp;(2) a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the implications for execution and oversight of programs and initiatives; and
+&emsp;(2) a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and initiatives; and
 
 &emsp;(3) specific analyses of individual acquisition programs and initiatives.
 
@@ -24,5 +24,17 @@ Acquisition Programs and Initiatives to Be Considered.—The assessment required
 
 &emsp;(3) Selected prototyping and rapid fielding activities and initiatives, as determined appropriate by the Comptroller General.
 
-(Added Pub. L. 115–232, div. A, title VIII, §833(a), Aug. 13, 2018, 132 Stat. 1858.)
+(Added Pub. L. 115–232, div. A, title VIII, §833(a), Aug. 13, 2018, 132 Stat. 1858; amended Pub. L. 116–283, div. A, title VIII, §813, Jan. 1, 2021, 134 Stat. 3749.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1807(g)(1), Jan. 1, 2021, 134 Stat. 4151, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 203 of this title, inserted after section 3070, and redesignated as section 3072 of this title. See Effective Date of 2021 Amendment note below.</i>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 116–283 substituted "a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential" for "a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1807(g)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

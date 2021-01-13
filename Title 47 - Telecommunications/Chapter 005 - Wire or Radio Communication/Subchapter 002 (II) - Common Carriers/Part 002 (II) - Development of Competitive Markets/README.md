@@ -6,6 +6,7 @@ Part II—Development of Competitive Markets
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00251 - Interconnection](%C2%A7%2000251%20-%20Interconnection.md)
+- [&sect; 00251a - State authority over fees](%C2%A7%2000251a%20-%20State%20authority%20over%20fees.md)
 - [&sect; 00252 - Procedures for negotiation, arbitration, and approval of agreements](%C2%A7%2000252%20-%20Procedures%20for%20negotiation%2C%20arbitration%2C%20and%20approval%20of%20agreements.md)
 - [&sect; 00253 - Removal of barriers to entry](%C2%A7%2000253%20-%20Removal%20of%20barriers%20to%20entry.md)
 - [&sect; 00254 - Universal service](%C2%A7%2000254%20-%20Universal%20service.md)

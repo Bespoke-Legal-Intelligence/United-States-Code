@@ -4,11 +4,15 @@ Whoever, being an editor or publisher, prints in a publication entered as second
 
 (Added Pub. L. 86–682, §7, Sept. 2, 1960, 74 Stat. 706; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682.
+Section effective Sept. 1, 1960, see section 11 of Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 708.
 

@@ -4,7 +4,7 @@
 
 The President shall initiate and pursue negotiations—
 
-&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the "OECD") and non-OECD members, to substantially reduce, with the possible goal of eliminating, before the date that is 10 years after December 4, 2015,,<sup>1</sup> subsidized export financing programs and other forms of export subsidies; and
+&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the "OECD") and non-OECD members, to substantially reduce, withthe possible goal of eliminating, before the date that is 10 years after December 4, 2015,,<sup>1</sup> subsidized export financing programs and other forms of export subsidies; and
 
 &emsp;(2) with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the "ASU"), including any modification thereof, and all of the following types of aircraft:
 
@@ -36,6 +36,8 @@ Not later than 180 days after December 4, 2015, and annually thereafter through 
 
 (Pub. L. 112–122, §11, May 30, 2012, 126 Stat. 356; Pub. L. 114–94, div. E, title LV, §55002(a), Dec. 4, 2015, 129 Stat. 1769.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Export-Import Bank Reauthorization Act of 2012, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
@@ -50,9 +52,13 @@ Subsec. (b). Pub. L. 114–94, §55002(a)(2), substituted "President" for "Secre
 
 Subsecs. (c) to (e). Pub. L. 114–94, §55002(a)(3), added subsecs. (c) to (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–94, div. E, title LV, §55002(b), Dec. 4, 2015, 129 Stat. 1770, provided that: "The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall apply with respect to reports required to be submitted under section 11(b) of the Export-Import Bank Reauthorization Act of 2012 (12 U.S.C. 635a–5(b)) after the date of the enactment of this Act \[Dec. 4, 2015\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Under Section 11 of the Export-Import Bank Reauthorization Act of 2012
 

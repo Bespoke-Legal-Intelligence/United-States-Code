@@ -36,15 +36,19 @@ The proviso contained in the act of 1927 "That nothing herein contained shall ap
 
 In the consolidation of these sections the 5-year period of limitation for violations of the Nationality Code, provided for in said section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, is reduced to 3 years. There seemed no sound basis for considering 3 years adequate in the case of heinous felonies and gross frauds against the United States but inadequate for misuse of a passport or false statement to a naturalization examiner.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–21 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1954</b>—Act Sept. 1, 1954, changed the limitation period from three years to five years.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1954 Amendment
 
-Act Sept. 1, 1954, ch. 1214, §12(b), formerly section 10(b), 68 Stat. 1145, as renumbered by Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committed on or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date."
+Act Sept. 1, 1954, ch. 1214, §12(b), formerly section 10(b), 68 Stat. 1145, as renumbered by Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to offenses (1) committedon or after September 1, 1954, or (2) committed prior to such date, if on such date prosecution therefor is not barred by provisions of law in effect prior to such date."
 
 #### Fugitives From Justice
 

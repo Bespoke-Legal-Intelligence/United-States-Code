@@ -114,7 +114,7 @@
 
 #### (1) Application procedures
 
-&emsp;The procedures established under subsection (a) shall identify the application process for aprovider of training services to become eligible to receive funds provided under section 3173(b) of this title for the provision of training services. The procedures shall identify the respective roles of the State and local areas in receiving and reviewing the applications and in making determinations of such eligibility based on the criteria, information, and procedures established under this section. The procedures shall also establish a process for a provider of training services to appeal a denial or termination of eligibility under this section that includes an opportunity for a hearing and prescribes appropriate time limits to ensure prompt resolution of the appeal.
+&emsp;The procedures established under subsection (a) shall identify the application process for a provider of training services to become eligible to receive funds provided under section 3173(b) of this title for the provision of training services. The procedures shall identify the respective roles of the State and local areas in receiving and reviewing the applications and in making determinations of such eligibility based on the criteria, information, and procedures established under this section. The procedures shall also establish a process for a provider of training services to appeal a denial or termination of eligibility under this section that includes an opportunity for a hearing and prescribes appropriate time limits to ensure prompt resolution of the appeal.
 
 #### (2) Renewal procedures
 
@@ -182,7 +182,7 @@ States may enter into agreements, on a reciprocal basis, to permit eligible prov
 
 #### (2) Collection and dissemination of information
 
-&emsp;A one-stop operator in a local area shall collect such performance information from providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, and transitional employment as the Governor may require, and use the information to determine whether the providers meet such performance criteria as the Governor may require. The one-stop operator shall disseminate information identifying such providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
+&emsp;A one-stop operator in a local area shall collect such performance information from providers of on-the-job training, customized training, incumbent worker training, internships, paid or unpaid work experience opportunities, and transitional employment as the Governor may require, and use the information to determine whether the providers meet such performance criteria as the Governor may require. The one-stop operator shall disseminate information identifying such providers that meet the criteria as eligible providers, and the performance information,through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 
 #### (i) Transition period for implementation
 
@@ -190,11 +190,15 @@ The Governor and local boards shall implement the requirements of this section n
 
 (Pub. L. 113–128, title I, §122, July 22, 2014, 128 Stat. 1492.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

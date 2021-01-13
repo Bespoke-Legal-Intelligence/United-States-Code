@@ -10,7 +10,7 @@ The Secretary, and the Secretary of Transportation for grants awarded to Amtrak,
 
 #### (c) Procedures for grant award
 
-Not later than 180 days after August 3, 2007, the Secretary shall prescribe procedures and schedules for the awarding of grants under this subchapter, including application and qualification procedures, and a record of decision on applicant eligibility. The procedures shall include the execution of a grant agreement between the grant recipient and the Secretary and shall be consistent, to the extent practicable, with the grant procedures established under section 70107(i) and (j) of title 46.
+Not later than 180 days after August 3, 2007, the Secretary shall prescribe procedures andschedules for the awarding of grants under this subchapter, including application and qualification procedures, and a record of decision on applicant eligibility. The procedures shall include the execution of a grant agreement between the grant recipient and the Secretary and shall be consistent, to the extent practicable, with the grant procedures established under section 70107(i) and (j) of title 46.
 
 #### (d) Additional authority
 
@@ -47,6 +47,8 @@ Not later than 5 days before the award of any grant is made under this subchapte
 The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractors use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
 
 (Pub. L. 110–53, title XV, §1502, Aug. 3, 2007, 121 Stat. 424.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

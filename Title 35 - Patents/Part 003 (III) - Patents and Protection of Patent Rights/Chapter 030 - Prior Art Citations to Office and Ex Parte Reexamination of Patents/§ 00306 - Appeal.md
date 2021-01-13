@@ -1,14 +1,18 @@
 ### §306. Appeal
 
-The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134, and may seek court review under the provisions of sections 141 to 144, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
+The patent owner involved in a reexamination proceeding under this chapter may appeal under the provisions of section 134, and may seek courtreview under the provisions of sections 141 to 144, with respect to any decision adverse to the patentability of any original or proposed amended or new claim of the patent.
 
 (Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 112–29, §§6(h)(2)(A), 20(j), Sept. 16, 2011, 125 Stat. 312, 335.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "134" and after "144".
 
 Pub. L. 112–29, §6(h)(2)(A), substituted "144" for "145".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -18,5 +22,5 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 #### Effective Date
 
-Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, seesection 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
+Section effective July 1, 1981, and applicable to patents in force as of July 1, 1981, or issued thereafter, see section 8(b) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 

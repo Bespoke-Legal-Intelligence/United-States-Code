@@ -12,7 +12,7 @@
 
 &emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
 
-(c) The district court may, upon motion filed not later than 30 days after the expiration of thetime otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
+(c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusableneglect or good cause. In addition, if the district court finds—
 
 &emsp;(1) that a party entitled to notice of the entry of a judgment or order did not receive such notice from the clerk or any party within 21 days of its entry, and
 
@@ -62,6 +62,8 @@ This amendment to section 2107 of title 28, U.S.C., restores the former 15-day l
 
 This amendment eliminates as surplusage the words "in any such action, suit or proceeding," from the fourth paragraph of section 2107 of title 28, U.S.C., and corrects a typographical error in the same paragraph.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–62 added subsec. (b) and struck out former subsec. (b) which read as follows: "In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry."
@@ -77,6 +79,8 @@ This amendment eliminates as surplusage the words "in any such action, suit or p
 <b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting "or the bankruptcy court" after "district court" and by striking out the final par., which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted "The district court may" for "The district court, in any such action, suit, or proceeding, may" and corrected spelling of "excusable".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

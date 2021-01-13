@@ -6,7 +6,7 @@ In any case on or after June 15, 1994, in which a vessel of the United States ex
 
 #### (b) Documentation
 
-In seeking such reimbursement, the vessel owner shall provide, together with such other information as the Secretary of State may require—
+In seeking such reimbursement, the vessel owner shall provide, together with such otherinformation as the Secretary of State may require—
 
 &emsp;(1) a copy of the receipt for payment;
 
@@ -31,6 +31,8 @@ The Secretary of State shall take such action as the Secretary deems appropriate
 For purposes of this section, the term "owner" includes any charterer of a vessel of the United States.
 
 (Aug. 27, 1954, ch. 1018, §11, as added Pub. L. 104–43, title IV, §402(a), Nov. 3, 1995, 109 Stat. 389.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

@@ -52,13 +52,15 @@ The Board of Directors of the Corporation shall be comprised as follows:
 
 &emsp;(E) After 100 percent of the interest of the United States in the Corporation has been sold, any remaining directors appointed by the Secretary of Transportation, the United States Railway Association, or the special court trustees referred to under paragraph (2)(A)(iii), shall be replaced by directors elected by the public shareholders of the Corporation.
 
-&emsp;(F) Nothing in this paragraph shall be construed to prohibit any director referred to in this section from being elected as a director by the public shareholders of the Corporation.
+&emsp;(F) Nothing in this paragraph shall be construed to prohibit any director referred to inthis section from being elected as a director by the public shareholders of the Corporation.
 
 &emsp;(4)(A) No director appointed or elected under this section shall be a special court trustee or an employee of the United States, except as elected by the public shareholders of the Corporation.
 
 &emsp;(B) No director appointed or elected under this section shall be an employee of the Corporation, except as provided in paragraph (2)(A)(ii) or as elected by the public shareholders of the Corporation.
 
 (Pub. L. 99–509, title IV, §4023, Oct. 21, 1986, 100 Stat. 1901.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Special Court, Regional Rail Reorganization Act of 1973, and Transfer of Functions
 

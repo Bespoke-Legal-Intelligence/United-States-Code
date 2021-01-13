@@ -20,6 +20,8 @@ Technical Requirement Approval Procedures.—The Chief Acquisition Officer shall
 
 (Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2937, §566; amended Pub. L. 111–330, §1(4), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 115–232, div. C, title XXXV, §3534, Aug. 13, 2018, 132 Stat. 2322; renumbered §1108, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 566 of this title as this section.
@@ -29,6 +31,8 @@ Subsec. (b). Pub. L. 115–232, §3534(1), substituted "maintain" for "enter int
 Subsec. (d). Pub. L. 115–232, §3534(2), struck out subsec. (d) which related to report on assessment of Coast Guard acquisition and management capabilities.
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–330, which directed the amendment of Pub. L. 111–281, §402(a), which enacted this section, by substituting "Coast Guard Authorization Act of 2010" for "Coast Guard Authorization Act for Fiscal Years 2010 and 2011" wherever appearing, was executed in subsec. (d) of this section as added by section 402(a) by making the substitution for text which read "Coast Guard Authorization Act for fiscal years 2010 and 2011", to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

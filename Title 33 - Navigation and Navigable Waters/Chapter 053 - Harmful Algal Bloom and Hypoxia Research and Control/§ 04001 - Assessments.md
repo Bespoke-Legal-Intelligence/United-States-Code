@@ -50,7 +50,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 &emsp;(A) establish needs, priorities, and guidelines for a peer-reviewed, inter-agency research program on the causes, characteristics, and impacts of hypoxia;
 
-&emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federalagencies and departments with respect to hypoxia; and
+&emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
 
 &emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
@@ -72,7 +72,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (3) Publication and opportunity for comment
 
-&emsp;At least 90 days before submitting the report to the Congress, the President shall cause a summary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
+&emsp;At least 90 days before submitting the report to the Congress, the President shall cause asummary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
 
 #### (4) Federal assistance
 
@@ -142,6 +142,8 @@ Not later than 2 years after the date the Action Strategy is submitted under sec
 
 (Pub. L. 105–383, title VI, §603, Nov. 13, 1998, 112 Stat. 3448; Pub. L. 108–456, title I, §§102–104, Dec. 10, 2004, 118 Stat. 3630, 3631; Pub. L. 113–124, §§3, 6, 10(b), June 30, 2014, 128 Stat. 1379, 1383, 1386; Pub. L. 115–423, §9(c), (d), Jan. 7, 2019, 132 Stat. 5462.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d)(1), probably means title I of Pub. L. 108–456, Dec. 10, 2004, 118 Stat. 3630, known as the Harmful Algal Bloom and Hypoxia Amendments Act of 2004, which added subsec. (d) and also added subsecs. (e) to (i) of this section, which relate to scientific assessments.
@@ -178,6 +180,8 @@ Pub. L. 108–456, §102, struck out subsec. (e) which provided that the Preside
 
 Subsecs. (f) to (i). Pub. L. 108–456, §104, added subsecs. (f) to (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2019 Amendment
 
 Pub. L. 115–423, §9(a), Jan. 7, 2019, 132 Stat. 5462, provided that: "This section \[enacting section 4010 of this title, and amending this section and sections 4001a, 4002, and 4009 of this title\] may be cited as the 'Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017'."
@@ -198,7 +202,7 @@ Pub. L. 105–383, title VI, §601, Nov. 13, 1998, 112 Stat. 3447, provided that
 
 Pub. L. 105–383, title VI, §602, Nov. 13, 1998, 112 Stat. 3447, provided that: "The Congress finds that—
 
-&emsp;"(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of theUnited States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
+&emsp;"(1) the recent outbreak of the harmful microbe Pfiesteria piscicida in the coastal waters of the United States is one example of potentially harmful algal blooms composed of naturally occurring species that reproduce explosively and that are increasing in frequency and intensity in the Nation's coastal waters;
 
 &emsp;"(2) other recent occurrences of harmful algal blooms include red tides in the Gulf of Mexico and the Southeast; brown tides in New York and Texas; ciguatera fish poisoning in Hawaii, Florida, Puerto Rico, and the United States Virgin Islands; and shellfish poisonings in the Gulf of Maine, the Pacific Northwest, and the Gulf of Alaska;
 

@@ -26,6 +26,8 @@ Also the words "Bureau of Animal Industry of the Department of Agriculture" appe
 
 The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–177 substituted "where such acts involve physical contact with the victim of that assault or the intent to commit another felony" for "in all other cases" in concluding provisions.
@@ -45,6 +47,8 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted "or inflicts bodily inj
 "Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both.
 
 "Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2002 Amendment
 

@@ -86,6 +86,8 @@ Notification to congress.—Not later than 30 days before entering into an agree
 
 (Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2079; amended Pub. L. 109–347, title II, §234, Oct. 13, 2006, 120 Stat. 1918; Pub. L. 111–281, title VIII, §806(a)(1), (c)(2)(B), Oct. 15, 2010, 124 Stat. 2992, 2993; Pub. L. 114–120, title III, §317, Feb. 8, 2016, 130 Stat. 62.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (f). Pub. L. 114–120 added subsec. (f).

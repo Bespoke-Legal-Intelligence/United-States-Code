@@ -26,6 +26,8 @@ Deadline for Transfers.—Any transfer required to be made under this section fo
 
 (Added Pub. L. 109–435, title IV, §402, Dec. 20, 2006, 120 Stat. 3226.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to Title 26, Internal Revenue Code.

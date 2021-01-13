@@ -98,13 +98,13 @@
 
 #### (2) Special rule
 
-&emsp;Notwithstanding paragraph (1)(D), the number of children attending private elementaryschools and secondary schools who are to receive services, and the assistance such children are to receive under this part, shall be determined without regard to whether the public school attendance area in which such children reside is assisted under subparagraph (A).
+&emsp;Notwithstanding paragraph (1)(D), the number of children attending private elementary schools and secondary schools who are to receive services, and the assistance such children are to receive under this part, shall be determined without regard to whether the public school attendance area in which such children reside is assisted under subparagraph (A).
 
 #### (c) Allocations
 
 #### (1) In general
 
-&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b), in rank order, on the basis of the total number of children from low-income families in each area or school.
+&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b), in rank order, on the basis of the total number ofchildren from low-income families in each area or school.
 
 #### (2) Special rule
 
@@ -176,7 +176,7 @@ A prior section 6313, Pub. L. 89–10, title I, §1113, as added Pub. L. 103–3
 
 &emsp;"(B) serve such eligible school attendance areas in rank order."
 
-Subsec. (a)(5). Pub. L. 114–95, §1007(1)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act, the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
+Subsec. (a)(5). Pub. L. 114–95, §1007(1)(B), added par. (5) and struck out former par. (5). Prior to amendment,text read as follows: "The local educational agency shall use the same measure of poverty, which measure shall be the number of children ages 5 through 17 in poverty counted in the most recent census data approved by the Secretary, the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act, the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act, or the number of children eligible to receive medical assistance under the Medicaid program, or a composite of such indicators, with respect to all school attendance areas in the local educational agency—
 
 &emsp;"(A) to identify eligible school attendance areas;
 

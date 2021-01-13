@@ -14,7 +14,7 @@ In this section, "agency" means—
 
 #### (b) Statement of probable impact of major regulatory action on energy efficiency
 
-Except as provided in subsection (c), each of the agencies specified in subsection (a) shall,where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
+Except as provided in subsection (c), each of the agencies specified in subsection (a) shall, where practicable and consistent with the exercise of their authority under other law, include in any major regulatory action (as defined by rule by each such agency) taken by each such agency, a statement of the probable impact of such major regulatory action on energy efficiency and energy conservation.
 
 #### (c) Application of provisions to authority exercised to protect public health and safety
 

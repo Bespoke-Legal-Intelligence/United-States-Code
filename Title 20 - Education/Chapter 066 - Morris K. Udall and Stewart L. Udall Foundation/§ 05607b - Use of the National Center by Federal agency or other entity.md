@@ -48,7 +48,7 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 #### (A) In general
 
-&emsp;&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) that concern purely legal issues or matters, interpretation or determination of law, or enforcement of law by one agency against anotheragency shall not be submitted to the Foundation or National Center.
+&emsp;&emsp;A dispute or conflict involving agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality) that concern purely legal issues or matters, interpretation or determination of law, or enforcement of law by one agency against another agency shall not be submitted to the Foundation or National Center.
 
 #### (B) Applicability
 
@@ -70,7 +70,7 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 (2)
 
-Payment into the environmental dispute resolution fund.—Entities utilizing services pursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
+Payment into the environmental dispute resolution fund.—Entities utilizing servicespursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
 
 #### (f) Agency management or control
 

@@ -182,7 +182,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (5)(A) The corporation shall prescribe by regulation a procedure by which a plan may, by amendment, adopt any other alternative method for determining an employer's allocable share of unfunded vested benefits under this section, subject to the approval of the corporation based on its determination that adoption of the method by the plan would not significantly increase the risk of loss to plan participants and beneficiaries or to the corporation.
 
-(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternativemethod shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
+(B) The corporation may prescribe by regulation standard approaches for alternative methods, other than those set forth in the preceding paragraphs of this subsection, which a plan may adopt under subparagraph (A), for which the corporation may waive or modify the approval requirements of subparagraph (A). Any alternative method shall provide for the allocation of substantially all of a plan's unfunded vested benefits among employers who have an obligation to contribute under the plan.
 
 (C) Unless the corporation by regulation provides otherwise, a plan may be amended to provide that a period of more than 5 but not more than 10 plan years may be used for determining the numerator and denominator of any fraction which is used under any method authorized under this section for determining an employer's allocable share of unfunded vested benefits under this section.
 
@@ -204,9 +204,11 @@ In the case of a transfer of liabilities to another plan incident to an employer
 
 #### (f) Computations applicable in case of withdrawal following merger of multiemployer plans
 
-In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
+In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if awithdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
 
 (Pub. L. 93–406, title IV, §4211, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), (B), July 18, 1984, 98 Stat. 899; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title II, §204(c)(2), Aug. 17, 2006, 120 Stat. 887.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -217,6 +219,8 @@ In the case of a withdrawal following a merger of multiemployer plans, subsectio
 <b>1984</b>—Subsec. (b). Pub. L. 98–369, §558(b)(1)(A), (B), substituted "September 25, 1980" for "April 28, 1980" in pars. (1)(A) and (2)(A), (B)(ii)(II), and "September 26, 1980" for "April 29, 1980" in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
 
 Subsec. (c)(2). Pub. L. 98–369, §558(b)(1)(A), (B), substituted "September 25, 1980" for "April 28, 1980" in subpars. (B)(ii)(II) and (C)(i)(II) and "September 26, 1980" for "April 29, 1980" in subpar. (B)(i), (ii)(I), (II).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

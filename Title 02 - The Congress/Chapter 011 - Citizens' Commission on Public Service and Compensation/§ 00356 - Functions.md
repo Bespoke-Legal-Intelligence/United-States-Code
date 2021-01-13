@@ -20,7 +20,9 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 > In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
-(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9,1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 90–206, title II, §225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, §6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, §206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, §301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, §143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, §135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, §101(a) \[title IV, §408(c)\], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, §701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -46,6 +48,8 @@ The rates of pay of justices, judges, and other personnel in the judicial branch
 
 <b>1970</b>—Par. (E). Pub. L. 91–375 added par. (E).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
@@ -64,7 +68,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by theBoard of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date
 

@@ -146,7 +146,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (2) Short-term capital gain dividends
 
-&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capital gain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
+&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capitalgain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
 
 #### (f) Cross reference
 
@@ -172,7 +172,7 @@ Subsec. (b)(1). Pub. L. 108–357, §420(c)(2), substituted "Guam, American Samo
 
 Subsec. (b)(2), (3). Pub. L. 108–357, §420(a), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (e), (f). Pub. L. 108–357, §411(a)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 108–357, §411(a)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>1993</b>—Subsec. (c)(2)(B)(ii). Pub. L. 103–66, §13237(c)(2), substituted "section 871(h)(5)" for "section 871(h)(4)".
 
@@ -194,7 +194,7 @@ Subsec. (c)(7). Pub. L. 103–66, §13237(a)(2), redesignated par. (6) as (7).
 
 <b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out "any gain not in excess of" before "the original issue discount".
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into accountunder this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and".
+Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and".
 
 Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out "or from payments which are treated as being so contingent under section 871(e)," after "sold or exchanged,".
 
@@ -224,7 +224,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1214(c)(2), added subsec. (d) and redesig
 
 Subsec. (a)(1). Pub. L. 98–369, §42(a)(10), substituted "section 1273" for "section 1232(b)".
 
-Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,", substituting in subpar. (B), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
+Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued afterMay 27, 1969,", substituting in subpar. (B), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
 
 Subsec. (b). Pub. L. 98–369, §130(a), amended subsec. (b) generally, substituting provision establishing an exception for certain Guam and Virgin Islands corporations for provision establishing an exception for Guam corporations.
 
@@ -290,7 +290,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1(e)(1)\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
 
 #### Effective Date of 1971 Amendment
 

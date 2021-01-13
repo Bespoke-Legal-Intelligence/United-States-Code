@@ -54,6 +54,8 @@ There are authorized to be appropriated to the Presidential designee such sums a
 
 (Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725; Pub. L. 108–375, div. A, title V, §566(a), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§580(b), (e), 583(a)(2), 584(a), 585(b)(1), Oct. 28, 2009, 123 Stat. 2325, 2328, 2330, 2331; Pub. L. 111–383, div. A, title X, §1075(d)(4), (5), Jan. 7, 2011, 124 Stat. 4372.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, known as the Uniformed and Overseas Citizens Absentee Voting Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -92,6 +94,8 @@ Subsec. (b)(7). Pub. L. 107–252, §705(b)(1), added par. (7).
 
 <b>1998</b>—Subsec. (b)(6). Pub. L. 105–277 substituted "of uniformed services voter participation, a general assessment of overseas nonmilitary participation," for "of voter participation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(4), (5) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
@@ -106,7 +110,7 @@ Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331, prov
 
 #### Effective Date
 
-Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: "The amendments and repeals made by this Act \[see Tables for classification\] shall apply with respect to elections taking place after December 31, 1987."
+Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: "The amendments and repeals madeby this Act \[see Tables for classification\] shall apply with respect to elections taking place after December 31, 1987."
 
 #### Sense of Congress Regarding the Importance of Voting
 
@@ -143,6 +147,8 @@ Pub. L. 107–107, div. A, title XVI, §1604, Dec. 28, 2001, 115 Stat. 1277, as 
 #### Governors' Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program
 
 Pub. L. 107–107, div. A, title XVI, §1605, Dec. 28, 2001, 115 Stat. 1277, required the chief executive authority of a State to provide an implementation status report to the Secretary of Defense, acting as the Presidential designee, within 90 days of receiving a uniformed services voting assistance legislative recommendation from the Secretary of Defense and was applicable to any uniformed services voting assistance legislative recommendation transmitted to a state during the three-year period beginning on Dec. 28, 2001.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12642. Designation of Secretary of Defense as Presidential Designee
 

@@ -32,9 +32,11 @@ Pub. L. 88–578, title I, §5, formerly §4, Sept. 3, 1964, 78 Stat. 900; Pub. 
 
 The references to fiscal years 1978 and 1979 and the special account are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 105(a)(2)(B) of the Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b), is section 105(a)(2)(B) of title I of div. C of Pub. L. 109–432, which is set out in a note under section 1331 of Title 43, Public Lands.
+Section 105(a)(2)(B) of the Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b), is section105(a)(2)(B) of title I of div. C of Pub. L. 109–432, which is set out in a note under section 1331 of Title 43, Public Lands.
 
 #### Amendments
 

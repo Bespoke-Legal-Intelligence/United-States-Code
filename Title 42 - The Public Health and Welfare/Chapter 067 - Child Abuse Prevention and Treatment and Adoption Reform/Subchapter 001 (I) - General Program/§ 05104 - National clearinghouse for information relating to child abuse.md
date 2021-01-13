@@ -8,7 +8,7 @@ The Secretary shall through the Department, or by one or more contracts of not l
 
 The Secretary shall, through the clearinghouse established by subsection (a)—
 
-&emsp;(1) maintain, coordinate, and disseminate information on effective programs, including private and community-based programs, that have demonstrated success with respect to the prevention, assessment, identification, andtreatment of child abuse or neglect and hold the potential for broad-scale implementation and replication;
+&emsp;(1) maintain, coordinate, and disseminate information on effective programs, including private and community-based programs, that have demonstrated success with respect to the prevention, assessment, identification, and treatment of child abuse or neglect and hold the potential for broad-scale implementation and replication;
 
 &emsp;(2) maintain, coordinate, and disseminate information on the medical diagnosis and treatment of child abuse and neglect;
 
@@ -78,7 +78,7 @@ The Secretary shall, through the clearinghouse established by subsection (a)—
 
 #### References in Text
 
-Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to insubsec. (b)(6)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
+Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(6)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
 
 #### Prior Provisions
 

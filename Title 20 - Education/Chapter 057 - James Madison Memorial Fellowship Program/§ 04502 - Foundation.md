@@ -14,7 +14,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(C) Two members of the Federal judiciary shall be appointed by the President upon the recommendation of the Chief Justice of the United States.
 
-&emsp;(D) Six members, not more than three of whom shall be of the same political party,shall be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, two shall be members of the general public, and three shall be members of the academic community, appointed upon the recommendation of the Librarian of Congress.
+&emsp;(D) Six members, not more than three of whom shall be of the same political party, shall be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, two shall be members of the general public, and three shall be members of the academic community, appointed upon the recommendation of the Librarian of Congress.
 
 &emsp;(E) The Secretary of Education or his designate shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
 

@@ -10,7 +10,7 @@ Transfer of Title or Interest Ineffective.—If property has been disposed of in
 
 (c)
 
-Authority for Seizure of Improperly Disposed of Property.—If any person is in the possession of military or Department of Defense property without right or title to, or interest in,the property because it has been disposed of in material violation of subsection (a), any Federal, State, or local law enforcement official may seize the property wherever found. Unless an exception to the warrant requirement under the fourth amendment to the Constitution applies, seizure may be made only—
+Authority for Seizure of Improperly Disposed of Property.—If any person is in the possession of military or Department of Defense property without right or title to, or interest in, the property because it has been disposed of in material violation of subsection (a), any Federal, State, or local law enforcement official may seize the property wherever found. Unless an exception to the warrant requirement under the fourth amendment to the Constitution applies, seizure may be made only—
 
 &emsp;(1) pursuant to—
 

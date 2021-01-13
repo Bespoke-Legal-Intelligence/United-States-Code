@@ -62,7 +62,7 @@ June 30, 1945, ch. 212, §604(e) (less last 27 words), 59 Stat. 304.
 
 In subsection (a), the words "in the departmental and the field services" are omitted as unnecessary.
 
-In subsections (a) and (b), the words "an Executive agency, a military department" are coextensive with and substituted for "the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations" and "such department, establishment, or agency" in view of the definitions in sections 105 and 102. The words "a military department" are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
+In subsections (a) and (b), the words "an Executive agency, a military department" are coextensive with and substituted for "the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations" and "such department, establishment, oragency" in view of the definitions in sections 105 and 102. The words "a military department" are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
 Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbia as they are not included in the definition of "employee" in section 2105.
 
@@ -110,6 +110,8 @@ Subsection (b)(1) is added on authority of former sections 901 and 902 of title 
 
 In subsection (b)(2), the words "head of an agency" are substituted for "head of any department, independent establishment, or agency, including Government-owned or controlled corporations, or of the municipal government of the District of Columbia, or the head of any legislative or judicial agency to which this title applies" to conform to the definition of "agency" in 5 U.S.C. 5541, which is made applicable to this subsection by subsection (b)(1). The word "officer" is omitted as included in "employee".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–454 substituted "Office of Personnel Management" for "Civil Service Commission".
@@ -118,9 +120,11 @@ In subsection (b)(2), the words "head of an agency" are substituted for "head of
 
 <b>1972</b>—Subsec. (a)(1). Pub. L. 92–392 defined "employee" to include an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title or by a wage board or similar administrative authority serving the same purpose and exclude certain employees "except as specifically provided under this paragraph".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date of 1982 Amendment
 
-Pub. L. 97–221, §5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31, 1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of thistitle, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, §140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
+Pub. L. 97–221, §5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31, 1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, §140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
 
 #### Effective Date of 1978 Amendment
 
@@ -133,10 +137,6 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 #### Short Title of 1982 Amendment
 
 Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: "That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title\] may be cited as the 'Federal Employees Flexible and Compressed Work Schedules Act of 1982'."
-
-#### Delegation of Functions
-
-Functions vested in Office of Personnel Management under this section insofar as it affects officers and employees in or under the executive branch of the government to be performed without approval of President, see section 1(1) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
 #### Federal Employees Flexible and Compressed Work Schedules
 
@@ -318,7 +318,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 "(c) Notwithstanding section 5544(a), 5546(a), or 5550(1) of title 5, United States Code, or any other applicable provision of law, in the case of any full-time employee on a compressed schedule who performs work (other than overtime work) on a tour of duty for any workday a part of which is performed on a Sunday, such employee is entitled to pay for work performed during the entire tour of duty at the rate of such employee's basic pay, plus premium pay at a rate equal to 25 percent of such basic pay rate.
 
-"(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedule who performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
+"(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedule who performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at arate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
 
 #### "TITLE III—ADMINISTRATIVE PROVISIONS
 
@@ -391,4 +391,10 @@ Pub. L. 97–221, §4, July 23, 1982, 96 Stat. 234, provided that:
 > the agency shall, notwithstanding any provision of a negotiated agreement, immediately terminate such schedule and such termination shall not be subject to negotiation or to administrative review (except as the President may provide) or to judicial review.
 
 "(2) If a schedule established pursuant to a negotiated agreement is terminated under paragraph (1), either the agency or the exclusive representative concerned may, by written notice to the other party within 90 days after the date of such termination, initiate collective bargaining pertaining to the establishment of another flexible or compressed work schedule under subchapter II of chapter 61 of title 5, United States Code, which would be effective for the unexpired portion of the term of the negotiated agreement."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions vested in Office of Personnel Management under this section insofar as it affects officers and employees in or under the executive branch of the government to be performed without approval of President,see section 1(1) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 

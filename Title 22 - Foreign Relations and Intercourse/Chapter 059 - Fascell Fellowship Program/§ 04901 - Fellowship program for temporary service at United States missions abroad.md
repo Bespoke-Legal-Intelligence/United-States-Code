@@ -22,6 +22,8 @@ In carrying out this section, the Secretary of State shall actively recruit wome
 
 (Pub. L. 99–399, title X, §1002, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, §9(b), Oct. 24, 1990, 104 Stat. 1065; Pub. L. 103–199, title III, §303, Dec. 17, 1993, 107 Stat. 2323.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–199 substituted "abroad" for "in the Soviet Union and Eastern Europe" in section catchline.
@@ -32,9 +34,11 @@ Subsec. (c). Pub. L. 101–454, §9(b)(2), substituted "abroad" for "in the Sovi
 
 Subsec. (d). Pub. L. 101–454, §9(b)(3), substituted "international affairs, foreign languages, or career and professional experience or interest in international affairs," for "Soviet or Eastern European area studies or languages".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–454, §9(a), Oct. 24, 1990, 104 Stat. 1065, provided that: "This section \[amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the 'Fascell Fellowship Amendments Act of 1990'."
+Pub. L. 101–454, §9(a), Oct. 24, 1990, 104 Stat. 1065, provided that: "This section \[amending this section andsections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title\] may be cited as the 'Fascell Fellowship Amendments Act of 1990'."
 
 #### Short Title
 

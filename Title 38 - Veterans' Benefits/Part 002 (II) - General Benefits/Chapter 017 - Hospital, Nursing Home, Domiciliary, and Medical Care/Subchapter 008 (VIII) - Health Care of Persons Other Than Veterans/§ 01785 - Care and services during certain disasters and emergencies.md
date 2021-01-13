@@ -24,13 +24,15 @@ Reimbursement From Other Federal Departments and Agencies.—(1) The cost of any
 
 (e)
 
-Report to Congressional Committees.—Within 60 days of the commencement of a disaster or emergency referred to in subsection (b) in which the Secretary furnishes care and services under this section (or as soon thereafter as is practicable), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the Secretary's allocation of facilities and personnel in order to furnish such care and services.
+Report to Congressional Committees.—Within 60 days of the commencement of a disaster or emergency referred to in subsection (b)in which the Secretary furnishes care and services under this section (or as soon thereafter as is practicable), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the Secretary's allocation of facilities and personnel in order to furnish such care and services.
 
 (f)
 
 Regulations.—The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
 
 (Added Pub. L. 107–287, §4(a)(1), Nov. 7, 2002, 116 Stat. 2028; amended Pub. L. 109–444, §8(a)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–275, title X, §1001(c)(2), Oct. 13, 2010, 124 Stat. 2896.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ A prior section 1785 was renumbered section 3685 of this title.
 Pub. L. 109–461, §1004(a)(2), substituted "Robert T." for "Robert B.".
 
 Pub. L. 109–444, which substituted "Robert T." for "Robert B.", was terminated by Pub. L. 109–461, §1006(b). See Amendment notes above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

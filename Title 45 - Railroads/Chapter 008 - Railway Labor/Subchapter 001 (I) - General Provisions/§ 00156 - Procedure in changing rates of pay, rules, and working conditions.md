@@ -4,9 +4,13 @@ Carriers and representatives of the employees shall give at least thirty days' w
 
 (May 20, 1926, ch. 347, §6, 44 Stat. 582; June 21, 1934, ch. 691, §6, 48 Stat. 1197.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1934</b>—Act June 21, 1934, inserted "in agreements" after "intended change" in text, struck out provision formerly contained in text concerning changes requested by more than one class, and substituted "Mediation Board" for "Board of Mediation" wherever appearing.
+
+#### <b>Executive Documents</b>
 
 #### Wage and Salary Adjustments
 

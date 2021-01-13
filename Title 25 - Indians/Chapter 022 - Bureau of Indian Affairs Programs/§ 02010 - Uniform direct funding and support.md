@@ -164,7 +164,7 @@ In carrying out this section, a local school board may request technical assista
 
 #### (2) Coordination provisions
 
-&emsp;An agreement under paragraph (1) may, with respect to the Bureau school and schools in the school district involved, encompass coordination of all or any part of the following:
+&emsp;An agreement under paragraph (1) may, with respect to the Bureau school and schools inthe school district involved, encompass coordination of all or any part of the following:
 
 &emsp;&emsp;(A) The academic program and curriculum, unless the Bureau school is accredited by a State or regional accrediting entity and would not continue to be so accredited if the agreement encompassed the program and curriculum.
 
@@ -198,6 +198,8 @@ Notwithstanding any other provision of law, in a case in which there is agreemen
 
 (Pub. L. 95–561, title XI, §1130, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2039.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(4), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
@@ -213,6 +215,8 @@ This chapter, referred to in subsec. (h)(1), was in the original "this title", m
 A prior section 2010, Pub. L. 95–561, title XI, §1130, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3999, related to uniform direct funding and support, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2010, Pub. L. 95–561, title XI, §1130, Nov. 1, 1978, 92 Stat. 2321; Pub. L. 100–297, title V, §5111, Apr. 28, 1988, 102 Stat. 376; Pub. L. 100–427, §7, Sept. 9, 1988, 102 Stat. 1605, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

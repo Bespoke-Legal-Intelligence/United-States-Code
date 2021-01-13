@@ -34,7 +34,7 @@
 
 (2) In the event that a retired judge remains enrolled under chapter 89 of title 5 for a period of 5 consecutive years by virtue of paragraph (1) (taking into account only periods of coverage as an active judge immediately before retirement and as a retired judge pursuant to paragraph (1)), then, effective as of the day following the last day of that 5-year period—
 
-&emsp;(A) the provisions of chapter 89 of title 5 shall be applied as if such judge had satisfied the requirements of section 8905(b)(1) <sup>1</sup> on the last day of such period; and
+&emsp;(A) the provisions of chapter 89 of title 5 shall be applied as if such judge had satisfiedthe requirements of section 8905(b)(1) <sup>1</sup> on the last day of such period; and
 
 &emsp;(B) the provisions of paragraph (1) shall cease to apply.
 

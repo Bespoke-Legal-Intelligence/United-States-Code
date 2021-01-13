@@ -22,7 +22,7 @@
 
 (d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
-(e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
+(e) Except as provided in subsection (d), no claim may be paid under this section unless theamount tendered is accepted by the claimant in full satisfaction.
 
 (f) Upon the request of the department concerned, a claim arising in that department and covered by subsection (a) may be settled and paid by a commission appointed under subsection (a) and composed of officers of an armed force under the jurisdiction of another department.
 

@@ -96,7 +96,7 @@ In this chapter:
 
 This chapter, referred to in text, was in the original "this subtitle", meaning subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, known as the Export Control Reform Act of 2018, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note below and Tables.
 
-Subchapter I, referred to in pars. (1), (3), (4)(B), (6), (9), and (13)(A), was in the original "part I", meaning part I (§§1751–1768) of subtitle B of title XVII of div. Aof Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note below and Tables.
+Subchapter I, referred to in pars. (1), (3), (4)(B), (6), (9), and (13)(A), was in the original "part I", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note below and Tables.
 
 The International Emergency Economic Powers Act, referred to in par. (4)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
@@ -106,5 +106,5 @@ Pub. L. 115–232, div. A, title XVII, §1741, Aug. 13, 2018, 132 Stat. 2208, pr
 
 Pub. L. 115–232, div. A, title XVII, §1751, Aug. 13, 2018, 132 Stat. 2209, provided that: "This part \[part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, enacting subchapter I of this chapter, amending section 2516 of Title 18, Crimes and Criminal Procedure, repealing sections 4601 to 4610 and 4614 to 4623 of this title, enacting provisions set out as notes under section 4601 of this title, and repealing provisions set out as notes under sections 4601, 4606, and 4609 of this title and section 3108 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Export Controls Act of 2018'."
 
-Pub. L. 115–232, div. A, title XVII, §1771, Aug. 13, 2018, 132 Stat. 2234, provided that: "This part \[part II (§§1771–1774) of subtitle B of title XVII of div. A of Pub. L. 115–232, enacting subchapter II of this chapter\] may be cited as the 'Anti-Boycott Act of 2018'."
+Pub. L. 115–232, div. A, title XVII, §1771, Aug. 13, 2018, 132 Stat. 2234, provided that: "This part \[part II\(§§1771–1774) of subtitle B of title XVII of div. A of Pub. L. 115–232, enacting subchapter II of this chapter\] may be cited as the 'Anti-Boycott Act of 2018'."
 

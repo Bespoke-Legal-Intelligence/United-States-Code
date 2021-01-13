@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) recredit the claimant bank for the amount of the claim up to the amount of the substitute check, plus interest if applicable; or
 
-&emsp;&emsp;(C) provide information to the claimant bank as to why the indemnifying bank is not obligated to comply with subparagraph (A) or (B).
+&emsp;&emsp;(C) provide information to the claimant bank as to why the indemnifying bank is notobligated to comply with subparagraph (A) or (B).
 
 #### (2) Recredit does not abrogate other liabilities
 
@@ -81,6 +81,8 @@
 If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), section 5005(d) of this title shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
 
 (Pub. L. 108–100, §8, Oct. 28, 2003, 117 Stat. 1186.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

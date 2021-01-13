@@ -54,13 +54,15 @@
 
 (g) Subsections (a) and (b) shall have no effect on the information and data that are necessary to document an agreement reached or order issued pursuant to a dispute resolution proceeding.
 
-(h) Subsections (a) and (b) shall not prevent the gathering of information for research oreducational purposes, in cooperation with other agencies, governmental entities, or dispute resolution programs, so long as the parties and the specific issues in controversy are not identifiable.
+(h) Subsections (a) and (b) shall not prevent the gathering of information for research or educational purposes, in cooperation with other agencies, governmental entities, or dispute resolution programs, so long as the parties and the specific issues in controversy are not identifiable.
 
 (i) Subsections (a) and (b) shall not prevent use of a dispute resolution communication to resolve a dispute between the neutral in a dispute resolution proceeding and a party to or participant in such proceeding, so long as such dispute resolution communication is disclosed only to the extent necessary to resolve such dispute.
 
 (j) A dispute resolution communication which is between a neutral and a party and which may not be disclosed under this section shall also be exempt from disclosure under section 552(b)(3).
 
 (Added Pub. L. 101–552, §4(b), Nov. 15, 1990, 104 Stat. 2740, §584; renumbered §574, Pub. L. 102–354, §3(b)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 104–320, §3, Oct. 19, 1996, 110 Stat. 3870.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

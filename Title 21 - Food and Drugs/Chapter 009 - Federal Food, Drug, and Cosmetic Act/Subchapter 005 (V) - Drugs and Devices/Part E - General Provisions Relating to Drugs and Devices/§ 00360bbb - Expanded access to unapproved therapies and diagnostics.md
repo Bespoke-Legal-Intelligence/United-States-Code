@@ -18,9 +18,9 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 #### (c) Treatment investigational new drug applications and treatment investigational device exemptions
 
-Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an "expanded access protocol"), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
+Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an "expanded access protocol"), the Secretary shall permit such investigational drug or investigational device to bemade available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
 
-&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use inthe diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
+&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use in the diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
 
 &emsp;(2) there is no comparable or satisfactory alternative therapy available to diagnose, monitor, or treat that stage of disease or condition in the population of patients to which the investigational drug or investigational device is intended to be administered;
 
@@ -48,9 +48,13 @@ In this section, the terms "investigational drug", "investigational device", "tr
 
 (June 25, 1938, ch. 675, §561, as added Pub. L. 105–115, title IV, §402, Nov. 21, 1997, 111 Stat. 2365; amended Pub. L. 109–482, title I, §102(f)(2), Jan. 15, 2007, 120 Stat. 3685.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (c). Pub. L. 109–482 substituted "section 282(i)(3)" for "section 282(j)(3)" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -94,7 +98,7 @@ Topics.—The Secretary shall make available on the internet website of the Food
 
 &emsp;&emsp;&emsp;"(iv) clinical trial designs and methods, including expanded access trials, that increase enrollment of more diverse patient populations, when appropriate, while facilitating the collection of data to establish safe use and support substantial evidence of effectiveness, including data obtained from expanded access trials; and
 
-&emsp;&emsp;&emsp;"(v) how changes to clinical trial inclusion and exclusion criteria may impact the complexity andlength of clinical trials, the data necessary to demonstrate safety and effectiveness, and potential approaches to mitigating those impacts.
+&emsp;&emsp;&emsp;"(v) how changes to clinical trial inclusion and exclusion criteria may impact the complexity and length of clinical trials, the data necessary to demonstrate safety and effectiveness, and potential approaches to mitigating those impacts.
 
 &emsp;"(2)
 

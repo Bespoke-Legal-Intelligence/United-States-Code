@@ -1,6 +1,6 @@
 ### §3482. Computation of educational assistance allowances
 
-(a)(1) Except as provided in subsection (b), (c), or (g) of this section, or section 3687 of this title, while pursuing a program of education under this chapter of half-time or more, each eligible veteran shall be paid the monthly educational assistance allowance set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the applicable type of program as shown in column I:
+(a)(1) Except as provided in subsection (b), (c), or (g) of this section, or section 3687 of this title,while pursuing a program of education under this chapter of half-time or more, each eligible veteran shall be paid the monthly educational assistance allowance set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the applicable type of program as shown in column I:
 
 &nbsp;
 
@@ -24,7 +24,7 @@
 
 > shall be computed at the rate of (A) the established charges for tuition and fees which the institution requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $376 per month for a full-time course, whichever is the lesser. An individual's entitlement shall be charged for institutional courses on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
 
-(c)(1) An eligible veteran who is enrolled in an educational institution for a "farm cooperative" program consisting of institutional agricultural courses prescheduled to fall within 44 weeks ofany period of 12 consecutive months and who pursues such program on—
+(c)(1) An eligible veteran who is enrolled in an educational institution for a "farm cooperative" program consisting of institutional agricultural courses prescheduled to fall within 44 weeks of any period of 12 consecutive months and who pursues such program on—
 
 &emsp;(A) a full-time basis (a minimum of ten clock hours per week or four hundred and forty clock hours in such year prescheduled to provide not less than eighty clock hours in any three-month period),
 
@@ -52,7 +52,7 @@
 
 (3) The educational assistance allowance paid under the authority of this subsection shall be charged against the period of entitlement the veteran has earned pursuant to section 3461(a) of this title.
 
-(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of such program on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or the equivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
+(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of such program on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or theequivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
 
 (f) The educational assistance allowance of an eligible veteran pursuing a course by open circuit television shall be computed in the same manner that such allowance is computed under subsection (e) of this section for an independent study program.
 
@@ -67,6 +67,8 @@
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
 (Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 18, §1682; amended Pub. L. 90–77, title III, §§301, 303(b), Aug. 31, 1967, 81 Stat. 184, 185; Pub. L. 90–631, §3, Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title I, §103(a)–(d), title II, §204(a)(3), Mar. 26, 1970, 84 Stat. 76, 77, 79; Pub. L. 91–584, §9, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 92–540, title I, §102(2)–(4), title III, §303, title IV, §401(4), (5), Oct. 24, 1972, 86 Stat. 1075, 1081, 1090; Pub. L. 93–508, title I, §102(2)–(4), title II, §204, Dec. 3, 1974, 88 Stat. 1579, 1582; Pub. L. 93–602, title II, §203(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(1)–(3), 207, Oct. 15, 1976, 90 Stat. 2384, 2385, 2387; Pub. L. 95–202, title I, §102(2)–(4), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§201(2)–(4), 211(2)–(4), title III, §§308–310, title VI, §602(a), Oct. 17, 1980, 94 Stat. 2187–2190, 2194, 2208; Pub. L. 97–35, title XX, §2003(b)(5), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–306, title II, §§204, 205(b), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 98–160, title VII, §702(11), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 98–543, title II, §202(1)–(3), Oct. 24, 1984, 98 Stat. 2741; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3482 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §104(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(3), Nov. 1, 2000, 114 Stat. 1834; Pub. L. 109–461, title X, §1002(d), Dec. 22, 2006, 120 Stat. 3465.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -98,7 +100,7 @@ Subsec. (g)(1). Pub. L. 102–83, §5(c)(1), substituted "3687(b)(1)" for "1787(
 
 Subsec. (b). Pub. L. 98–543, §202(2), substituted "$376" for "$342".
 
-Subsec. (c)(2). Pub. L. 98–543, §202(3), increased the monthly educational assistance allowance for eligible veterans pursuing a farm cooperative program in column II from $276, $207, and $138 to $304, $228 and $152; in column III from $323, $242 and $162 to $355, $266 and $178; in column IV from $367, $275 and $184 to $404, $303 and $202; in column V from $21, $16 and $11 to $23, $18 and $12, respectively.
+Subsec. (c)(2). Pub. L. 98–543, §202(3), increased the monthly educational assistance allowance for eligible veterans pursuing a farm cooperative program in column II from $276, $207, and $138 to $304, $228 and $152; in column III from $323, $242 and $162 to $355, $266 and $178; in column IV from $367, $275 and $184 to $404, $303 and$202; in column V from $21, $16 and $11 to $23, $18 and $12, respectively.
 
 <b>1983</b>—Subsec. (c)(1)(C). Pub. L. 98–160 inserted a comma after "hours per week)".
 
@@ -152,7 +154,7 @@ Subsec. (e). Pub. L. 94–502, §207, added subsec. (e).
 
 Subsec. (b). Pub. L. 93–508, §102(3), substituted "$260" for "$220".
 
-Subsec. (c)(2). Pub. L. 93–508, §102(4), increased the educational assistance allowance rates for eligible veterans pursuing a farm cooperative program in column II from $177, $133, and $89 to $217, $163, and $109; in column III from $208, $156, and $104 to $255, $191, and $128; in column IV from $236, $177, and $118 to $289, $218, and $145; and in column V from $14, $11, and $7 to $17, $13, and $9 respectively.
+Subsec. (c)(2). Pub. L. 93–508, §102(4), increased the educational assistance allowance rates for eligible veterans pursuing a farm cooperative program in column II from $177, $133, and $89 to $217, $163, and $109; in column III from $208, $156, and $104 to $255, $191, and $128; in column IV from $236, $177, and $118 to $289, $218, and $145; and in column V from $14, $11, and $7 to $17, $13, and $9, respectively.
 
 Subsec. (d). Pub. L. 93–508, §204, added subsec. (d).
 
@@ -183,6 +185,8 @@ Subsec. (d). Pub. L. 90–631, §3(b)(2), inserted requirement that the "farm co
 Subsec. (b)(2)(B). Pub. L. 90–77, §301(c), substituted "$130" for "$100".
 
 Subsec. (d). Pub. L. 90–77, §303(b), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -228,7 +232,7 @@ Amendment by section 204 of Pub. L. 93–508 effective Dec. 3, 1974, see section
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–540, title VI, §601(a), Oct. 24, 1972, 86 Stat. 1099, provided that: "The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972."
+Pub. L. 92–540, title VI, §601(a), Oct. 24, 1972, 86 Stat. 1099, provided that: "The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement ofthe current enrollment period, but not earlier than September 1, 1972."
 
 Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub. L. 92–540, set out as an Effective Date note under section 3686 of this title.
 

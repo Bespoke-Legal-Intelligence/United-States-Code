@@ -80,7 +80,7 @@ The Secretary shall convene a peer review committee to review applications for g
 
 &emsp;&emsp;An eligible partnership receiving a grant under this section shall conduct an evaluation at the end of the grant period to determine—
 
-&emsp;&emsp;&emsp;(i) the effectiveness of the general education teachers who completed a program under subsection (c)(1) with respect to instruction of students with disabilities in general education classrooms; and
+&emsp;&emsp;&emsp;(i) the effectiveness of the general education teachers who completed a programunder subsection (c)(1) with respect to instruction of students with disabilities in general education classrooms; and
 
 &emsp;&emsp;&emsp;(ii) the systemic impact of the activities carried out by such grant on how each institution of higher education that is a member of the partnership prepares teachers for instruction in elementary schools and secondary schools.
 
@@ -106,7 +106,7 @@ A prior section 251 of Pub. L. 89–329 was classified to section 1047j of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–95 substituted "meet the applicable State certification and licensurerequirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "are highly qualified".
+<b>2015</b>—Subsec. (b)(1)(A)(iii). Pub. L. 114–95 substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "are highly qualified".
 
 #### Effective Date of 2015 Amendment
 

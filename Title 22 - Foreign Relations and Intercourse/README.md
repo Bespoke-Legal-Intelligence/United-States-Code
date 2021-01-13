@@ -121,6 +121,7 @@
 | [<b>104.</b>](Chapter%20104%20-%20Venezuela%20Assistance/README.md) | <b>Venezuela Assistance</b> | <b>9701</b> |
 | [<b>105.</b>](Chapter%20105%20-%20Global%20Fragility/README.md) | <b>Global Fragility</b> | <b>9801</b> |
 | [<b>106.</b>](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md) | <b>Championing American Business Through Diplomacy</b> | <b>9901</b> |
+| [<b>107.</b>](Chapter%20107%20-%20Sudan%20Democratic%20Transition%2C%20Accountability%2C%20and%20Fiscal%20Transparency/README.md) | <b>Sudan Democratic Transition, Accountability, and Fiscal Transparency</b> | <b>10001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -247,3 +248,4 @@
 - [Chapter 104 - Venezuela Assistance](Chapter%20104%20-%20Venezuela%20Assistance/README.md)
 - [Chapter 105 - Global Fragility](Chapter%20105%20-%20Global%20Fragility/README.md)
 - [Chapter 106 - Championing American Business Through Diplomacy](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md)
+- [Chapter 107 - Sudan Democratic Transition, Accountability, and Fiscal Transparency](Chapter%20107%20-%20Sudan%20Democratic%20Transition%2C%20Accountability%2C%20and%20Fiscal%20Transparency/README.md)

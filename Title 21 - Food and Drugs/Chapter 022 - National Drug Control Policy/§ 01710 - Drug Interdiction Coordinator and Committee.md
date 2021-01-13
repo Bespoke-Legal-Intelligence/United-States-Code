@@ -40,7 +40,7 @@
 
 #### (C) Report to Congress
 
-&emsp;&emsp;On or before September 1 of each year, the Director, acting through the United States Interdiction Coordinator, shall provide to the appropriate congressional committees,to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate a report that—
+&emsp;&emsp;On or before September 1 of each year, the Director, acting through the United States Interdiction Coordinator, shall provide to the appropriate congressional committees, to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate a report that—
 
 &emsp;&emsp;&emsp;(i) includes—
 
@@ -86,6 +86,8 @@ The Director may facilitate international drug control coordination efforts.
 
 (Pub. L. 105–277, div. C, title VII, §711, as added Pub. L. 109–469, title I, §103(f)(1), Dec. 29, 2006, 120 Stat. 3507; amended Pub. L. 105–277, div. C, title VII, §715, Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 109–469, title VI, §602, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8219, Oct. 24, 2018, 132 Stat. 4110, 4132.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -112,7 +114,7 @@ Subsec. (a)(4)(B). Pub. L. 115–271, §8219(b)(1)(D)(i), substituted "Before su
 
 Subsec. (a)(4)(C). Pub. L. 115–271, §8219(b)(1)(D)(iv)(I), in introductory provisions, substituted "September 1" for "March 1" and "a report that" for ", which shall include", inserted "the Director, acting through" after "each year," and a comma after "Coordinator", and struck out "a report on behalf of the Director" after "shall provide".
 
-Pub. L. 115–271, §8219(b)(1)(D)(ii), (iii), redesignated subpar. (D) as (C) and struck out former subpar. (C).Prior to amendment, text of subpar. (C) read as follows: "The National Interdiction Command and Control Plan shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws."
+Pub. L. 115–271, §8219(b)(1)(D)(ii), (iii), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "The National Interdiction Command and Control Plan shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws."
 
 Subsec. (a)(4)(C)(i). Pub. L. 115–271, §8219(b)(1)(D)(iv)(II), (III), inserted cl. (i) designation and introductory provisions and redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i).
 

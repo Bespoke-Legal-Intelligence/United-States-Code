@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-When title to such lands located on the island of Hawaii, within the following-described area, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary and suitable for the purpose, shall have been vested in the United States, said lands shall be set apart as the Pu‘uhonua o Hōnaunau National HistoricalPark, in the Territory of Hawaii, for the benefit and inspiration of the people:
+When title to such lands located on the island of Hawaii, within the following-described area, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary and suitable for the purpose, shall have been vested in the United States, said lands shall be set apart as the Pu‘uhonua o Hōnaunau National Historical Park, in the Territory of Hawaii, for the benefit and inspiration of the people:
 
 parcel 1
 
@@ -70,7 +70,7 @@ Area, three and seventy one-hundredths acres.
 
 Together with an easement six feet wide for a pipeline right-of-way extending from the Government road to parcel 1, the south side of said right-of-way being described as follows:
 
-Beginning at the east end of this right-of-way on the common boundary of the lands of Honaunau and Keokea, the coordinates of said point of beginning referred to Government Survey Triangulation Station "Lae-O-Kanoni" being three thousand one hundred ninety andeight-tenths feet south and eleven thousand seventy-eight and eight-tenths feet east, and running by azimuths measured clockwise from true south:
+Beginning at the east end of this right-of-way on the common boundary of the lands of Honaunau and Keokea, the coordinates of said point of beginning referred to Government Survey Triangulation Station "Lae-O-Kanoni" being three thousand one hundred ninety and eight-tenths feet south and eleven thousand seventy-eight and eight-tenths feet east, and running by azimuths measured clockwise from true south:
 
 1\. Eighty degrees thirty-six minutes five seconds one hundred and seventeen feet along L. C. Aw. 7712:1 to M. Kekuanaoa, to the Triangulation Station "Ahupuaa" of the B. P. Bishop estate;
 

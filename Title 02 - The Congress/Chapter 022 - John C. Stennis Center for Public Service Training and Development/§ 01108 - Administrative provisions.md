@@ -30,6 +30,8 @@ In order to carry out the provisions of this chapter, the Center may—
 
 (Pub. L. 100–458, title I, §119, Oct. 1, 1988, 102 Stat. 2176; Pub. L. 101–163, title III, §320, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 101–520, title III, §313(c), Nov. 5, 1990, 104 Stat. 2282.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a)(6), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -42,7 +44,9 @@ Subsection (b), which required the Center to submit an annual report to Congress
 
 <b>1989</b>—Subsec. (a)(7). Pub. L. 101–163 substituted "To make other necessary expenditures including official reception and representation expenses" for "make other necessary expenditures".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

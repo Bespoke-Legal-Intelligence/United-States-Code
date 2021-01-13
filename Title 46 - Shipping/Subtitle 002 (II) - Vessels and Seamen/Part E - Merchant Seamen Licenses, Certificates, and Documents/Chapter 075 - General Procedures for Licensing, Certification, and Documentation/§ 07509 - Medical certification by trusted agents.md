@@ -22,6 +22,8 @@ Trusted Agent Defined.—In this section the term "trusted agent" means a medica
 
 (Added Pub. L. 114–120, title III, §309(a), Feb. 8, 2016, 130 Stat. 56.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation Deadline
 
 Pub. L. 114–120, title III, §309(b), Feb. 8, 2016, 130 Stat. 57, provided that: "Not later than 5 years after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing section 7509 of title 46, United States Code, as added by this section."

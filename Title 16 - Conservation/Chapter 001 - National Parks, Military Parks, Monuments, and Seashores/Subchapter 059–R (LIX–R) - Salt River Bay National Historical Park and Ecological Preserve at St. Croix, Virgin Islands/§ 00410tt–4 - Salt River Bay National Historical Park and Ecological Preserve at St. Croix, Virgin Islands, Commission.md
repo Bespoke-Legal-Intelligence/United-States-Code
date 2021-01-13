@@ -38,7 +38,7 @@ The Chair of the Commission shall alternate annually between the Secretary and t
 
 #### (f) Meetings
 
-The Commission shall meet on a regular basis or at the call of the Chair. Notice of meetings and agenda shall be published in the Federal Register and local newspapers having a distribution that generally covers the United States Virgin Islands. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
+The Commission shall meet on a regular basis or at the call of the Chair. Notice of meetingsand agenda shall be published in the Federal Register and local newspapers having a distribution that generally covers the United States Virgin Islands. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
 
 #### (g) Expenses
 

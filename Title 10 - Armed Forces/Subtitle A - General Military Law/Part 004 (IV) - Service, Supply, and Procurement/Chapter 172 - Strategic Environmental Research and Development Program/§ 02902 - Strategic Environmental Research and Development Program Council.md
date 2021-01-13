@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) A general outline of the activities planned for the program during the fiscal year in which the report is prepared.
 
-&emsp;&emsp;(C) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year in which the report is prepared and during the following fiscal year.
+&emsp;&emsp;(C) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year inwhich the report is prepared and during the following fiscal year.
 
 &emsp;&emsp;(D) A summary of the actions of the Strategic Environmental Research and Development Program Scientific Advisory Board during the year preceding the year in which the report is submitted and any recommendations, including recommendations on program direction and legislation, that the Advisory Board considers appropriate regarding the program.
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) identifying the sources of such data;
 
-&emsp;&emsp;(B) publicizing the availability and sources of such data by appropriately-targeted dissemination of information to such personneland the general public, and by other means; and
+&emsp;&emsp;(B) publicizing the availability and sources of such data by appropriately-targeted dissemination of information to such personnel and the general public, and by other means; and
 
 &emsp;&emsp;(C) providing for review of classified data relevant to environmental matters with a view to declassifying or preparing unclassified summaries of such data;
 

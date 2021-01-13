@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratory birds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain many unique species and communities of wild plants;
 
-&emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere require Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
+&emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphererequire Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
 &emsp;(4) wetlands, and the fish, wildlife, and plants dependent on wetlands, provide significant recreational and commercial benefits, including—
 

@@ -152,7 +152,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (3) Payment of retroactive benefits
 
-&emsp;Payment of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the qualified individual or the representative payee as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the qualified individual.
+&emsp;Payment of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the qualified individual or the representative payee asa single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the qualified individual.
 
 #### (f) Hearing
 
@@ -188,7 +188,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 &emsp;&emsp;(A) Paragraph (1) shall not apply in any case where the other person to whom such payment is made is the spouse of the individual entitled to such payment.
 
-&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures asnecessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
+&emsp;&emsp;(B) The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in subparagraph (A). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
 
 #### (4) Authority to redirect delivery of benefit payments when a representative payee fails to provide required accounting
 
@@ -208,7 +208,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (i) Restitution
 
-In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—
+In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of anamount equal to the misused benefits. In any case in which a representative payee that—
 
 &emsp;(A) is not an individual; or
 

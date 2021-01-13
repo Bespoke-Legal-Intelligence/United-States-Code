@@ -14,13 +14,15 @@ In addition to the regularly scheduled rate of basic pay, each employee holding 
 
 #### (c) Manner of payment
 
-The additional compensation authorized by this subsection shall be paid to an employee in a manner determined by the Chief or his designee except when the employee ceases to be assigned to the specialty assignment or ceases tomaintain the required proficiency. The loss of such additional compensation shall not constitute an adverse action for any purpose.
+The additional compensation authorized by this subsection shall be paid to an employee in a manner determined by the Chief or his designee except when the employee ceases to be assigned to the specialty assignment or ceases to maintain the required proficiency. The loss of such additional compensation shall not constitute an adverse action for any purpose.
 
 #### (d) Determination not appealable or reviewable
 
 Any determination under section <sup>1</sup> (a) shall not be appealable or reviewable in any manner.
 
 (Pub. L. 108–7, div. H, title I, §1011, Feb. 20, 2003, 117 Stat. 360.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

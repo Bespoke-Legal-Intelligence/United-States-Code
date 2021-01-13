@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) the vote on final passage shall be on the joint resolution of the other House.
 
-> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate joint resolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
+> &emsp;When the joint resolution is agreed to, the Clerk of the House of Representatives (in the case of a House joint resolution agreed to in the House of Representatives) or the Secretary of the Senate (in the case of a Senate jointresolution agreed to in the Senate) shall cause the joint resolution to be engrossed, certified, and transmitted to the other House of the Congress as soon as practicable.
 
 &emsp;(B)(i) In the Senate, a joint resolution under this paragraph shall be privileged. It shall not be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
@@ -53,6 +53,8 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
 (Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, §121(10), Dec. 26, 2013, 127 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

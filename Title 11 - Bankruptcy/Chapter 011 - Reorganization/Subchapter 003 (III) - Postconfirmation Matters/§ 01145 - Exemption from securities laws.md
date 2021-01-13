@@ -66,7 +66,7 @@ Section 1145 of the House amendment deletes a provision contained in section 114
 
 In light of the amendments made to the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] in title III of the House amendment to H.R. 8200, a specific exemption from the Trust Indenture Act \[15 U.S.C. 77aaa et seq.\] is required in order to create certainty regarding plans of reorganization. Section 1145(d) is not intended to imply that commercial notes issued under a plan that matures more than 1 year after the effective date of the plan are automatically covered by the Trust Indenture Act of 1939 since such notes may fall within another exemption thereto.
 
-One other point with respect to Section 1145 deserves comment. Section 1145(a)(3) grants a debtor in possession or trustee in chapter 11 an extremely narrow portfolio security exemption from section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] or any comparable State law. The provision was considered by Congress and adopted after much study. The exemption is reasonable and is more restrictive than comparable provisions under the Securities Act \[15 U.S.C. 77a et seq.\] relating to the estates of decedents. Subsequent to passage of H.R. 8200 by the House of Representatives, the Securities and Exchange Commission promulgated Rule 148 to treat with this problem under existing law. Members of Congress received opinions from attorneys indicating dissatisfaction with the Commission's rule although the rule has been amended, the ultimate limitation of 1 percent promulgated by the Commission is wholly unacceptable.
+One other point with respect to Section 1145 deserves comment. Section 1145(a)(3) grants a debtor in possession or trustee in chapter 11 an extremely narrow portfolio security exemption from section 5 of the Securities Act of 1933 \[15 U.S.C. 77e\] or any comparable State law. The provision was considered by Congress and adopted after much study. The exemption is reasonable and is more restrictive than comparable provisions under the Securities Act \[15 U.S.C. 77a et seq.\] relating to the estates of decedents. Subsequent to passage of H.R. 8200 by the House of Representatives, the Securities and Exchange Commission promulgated Rule 148 totreat with this problem under existing law. Members of Congress received opinions from attorneys indicating dissatisfaction with the Commission's rule although the rule has been amended, the ultimate limitation of 1 percent promulgated by the Commission is wholly unacceptable.
 
 The Commission rule would permit a trustee or debtor in possession to distribute securities at the rate of 1 percent every 6 months. Section 1145(a)(3) permits the trustee to distribute 4 percent of the securities during the 2-year period immediately following the date of the filing of the petition. In addition, the security must be of a reporting company under section 13 of the Securities and Exchange Act of 1934 \[15 U.S.C. 78m\], and must be in compliance with all applicable requirements for the continuing of trading in the security on the date that the trustee offers or sells the security.
 
@@ -97,6 +97,8 @@ Paragraph (3) specifies that if an entity is not an underwriter under the provis
 Subsection (b) is a first run transaction exemption and does not exempt a creditor that, for example, some years later becomes an underwriter by reacquiring securities originally issued under a plan.
 
 Subsection (c) makes an offer or sale of securities under the plan in an exempt transaction (as specified in subsection (a)(2)) a public offering, in order to prevent characterization of the distribution as a "private placement" which would result in restrictions, under rule 144 of the SEC, on the resale of the securities.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -131,6 +133,8 @@ Subsec. (b)(2)(A)(i). Pub. L. 98–353, §516(b)(3), substituted "or combining" 
 Subsec. (b)(2)(A)(ii). Pub. L. 98–353, §516(b)(4), substituted "from or to" for "among".
 
 Subsec. (d). Pub. L. 98–353, §516(c), struck out "commercial" before "note".
+
+#### <b>Editorial Notes</b>
 
 #### Effective Date of 1994 Amendment
 

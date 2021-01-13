@@ -16,5 +16,5 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §66(a)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 927 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest in property only if the precedent interest or interests in the property did not terminate before the beginning of the 60-day period which ends on the date of the enactment of this Act \[Sept. 2, 1958\]."
+Pub. L. 85–866, title I, §66(a)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 927 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest in property only if theprecedent interest or interests in the property did not terminate before the beginning of the 60-day period which ends on the date of the enactment of this Act \[Sept. 2, 1958\]."
 

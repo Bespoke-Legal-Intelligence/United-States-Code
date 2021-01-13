@@ -10,7 +10,7 @@ Section 1004, Pub. L. 87–167, §5, Aug. 30, 1961, 75 Stat. 403; Pub. L. 89–5
 
 Section 1004a, Pub. L. 87–167, §6, as added Pub. L. 93–119, §2(5), Oct. 4, 1973, 87 Stat. 425, provided construction standards for United States tankers, the subsections relating to following subject matter: subsec. (a) tank arrangement and tank size limitation pursuant to provisions of annex C to convention and building contracts placed on or after effective date; subsec. (b) building contracts placed or keel laid before effective date; subsec. (c) domestic tankers without certificate of compliance or exemption prohibited from engaging in domestic or foreign trade; subsec. (d) foreign tankers with foreign registry but without certificate of compliance, consultation with foreign government, and denial of access; subsec. (e) foreign tankers without foreign registry and denial of access.
 
-Section 1005, Pub. L. 87–167, §7, formerly §6, Aug. 30, 1961, 75 Stat. 403; renumbered and amended Pub. L. 93–119, §2(6), Oct. 4, 1973, 87 Stat. 426, related to penalties for violations, the subsections providing for following subject matter: subsec. (a) criminal penalties for willful violations and separate violations; subsec. (b) civil penalties for willful or negligent and other violations and separate violations; subsec. (c) liability of vessel and venue; and subsec. (d) administrative proceedings, assessment of civil penalties, remission, mitigation, or compromise of any penalty, notice and hearing, judicial proceedings, civil actions by Attorney General for collection of penalties, and trial de novo.
+Section 1005, Pub. L. 87–167, §7, formerly §6, Aug. 30, 1961, 75 Stat. 403; renumbered and amended Pub. L. 93–119, §2(6), Oct. 4, 1973, 87 Stat. 426, related to penalties for violations, the subsections providing for following subject matter: subsec. (a) criminal penalties for willful violations and separate violations; subsec.\(b) civil penalties for willful or negligent and other violations and separate violations; subsec. (c) liability of vessel and venue; and subsec. (d) administrative proceedings, assessment of civil penalties, remission, mitigation, or compromise of any penalty, notice and hearing, judicial proceedings, civil actions by Attorney General for collection of penalties, and trial de novo.
 
 Section 1006, Pub. L. 87–167, §8, formerly §7, Aug. 30, 1961, 75 Stat. 403; renumbered Pub. L. 93–119, §2(7), Oct. 4, 1973, 87 Stat. 427, provided for suspension or revocation of license of officers of offending vessels.
 
@@ -23,6 +23,8 @@ Section 1009, Pub. L. 87–167, §11, formerly §10, Aug. 30, 1961, 75 Stat. 404
 Section 1010, Pub. L. 87–167, §12, formerly §11, Aug. 30, 1961, 75 Stat. 404; renumbered and amended Pub. L. 93–119, §2(11), Oct. 4, 1973, 87 Stat. 428, related to boarding of ships, production of records, and evidence of violations by foreign ships.
 
 Section 1011, Pub. L. 87–167, §12, Aug. 30, 1961, 75 Stat. 404; Pub. L. 89–551, §1(8), Sept. 1, 1966, 80 Stat. 375, specified prohibited zones and provided for reduction or extension of such zones.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

@@ -40,7 +40,7 @@ Anything in sections 205 and 207 of title 18 to the contrary notwithstanding—
 
 &emsp;(1) an officer or employee of the United States assigned to a tribal organization (as defined in section 5304(l) of this title) or an inter-tribal consortium (as defined in section 5381 of this title), as authorized under section 3372 of title 5 or section 48 of this title may act as agent or attorney for, and appear on behalf of, such tribal organization or inter-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That such officer or employee must advise in writing the head of the department, agency, court, or commission with which the officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement with the matter involved; and
 
-&emsp;(2) a former officer or employee of the United States who is carrying out official duties as an employee or as an elected or appointed official of a tribal organization (as defined in section 5304(l) of this title) or inter-tribal consortium (as defined in section 5381 of this title) may act as agent or attorney for, and appear on behalf of, such tribal organization or intra-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party orhas a direct and substantial interest: <i>Provided</i>, That such former officer or employee must advise in writing the head of the department, agency, court, or commission with which the former officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement that he or she may have had as an officer or employee of the United States in connection with the matter involved.
+&emsp;(2) a former officer or employee of the United States who is carrying out official duties as an employee or as an elected or appointed official of a tribal organization (as defined in section 5304(l) of this title) or inter-tribal consortium (as defined in section 5381 of this title) may act as agent or attorney for, and appear on behalf of, such tribal organization or intra-tribal consortium in connection with any matter related to a tribal governmental activity or Federal Indian program or service pending before any department, agency, court, or commission, including any matter in which the United States is a party or has a direct and substantial interest: <i>Provided</i>, That such former officer or employee must advise in writing the head of the department, agency, court, or commission with which the former officer or employee is dealing or appearing on behalf of the tribal organization or inter-tribal consortium of any personal and substantial involvement that he or she may have had as an officer or employee of the United States in connection with the matter involved.
 
 #### (k), (l) Omitted
 
@@ -50,11 +50,13 @@ The status of an Indian (as defined in section 5129 of this title) appointed (ex
 
 (Pub. L. 93–638, title I, §104, formerly §105, Jan. 4, 1975, 88 Stat. 2208; Pub. L. 89–702, title II, §210(a), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 99–221, §3(a), Dec. 26, 1985, 99 Stat. 1735; renumbered §104 and amended Pub. L. 100–472, title II, §203, Oct. 5, 1988, 102 Stat. 2290; Pub. L. 101–301, §2(a)(6), May 24, 1990, 104 Stat. 206; Pub. L. 110–81, title I, §104(b), Sept. 14, 2007, 121 Stat. 740.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 450i of this title prior to editorial reclassification and renumbering as this section.
 
-Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
+Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 3806 of Title 50, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
 
 #### Prior Provisions
 
@@ -68,7 +70,7 @@ A prior section 104 of Pub. L. 93–638 was renumbered section 103 by Pub. L. 10
 
 <b>1988</b>—Subsecs. (a), (b). Pub. L. 100–472, §203(b), (c), amended subsecs. (a) and (b). See Codification note above.
 
-Subsec. (e). Pub. L. 100–472, §203(d), (e), in introductory provisions, substituted "Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5" for "Notwithstanding any other law" and struck out "on or before December 31, 1988" after "title 43", and in par. (2), inserted "or chapter 84 ('Federal Employees Retirement System')". Notwithstanding directory language that the substitution of "Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5" be made in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
+Subsec. (e). Pub. L. 100–472, §203(d), (e), in introductory provisions, substituted "Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5" for "Notwithstanding any other law" and struck out "on or before December 31, 1988" after "title 43", and in par. (2), inserted "or chapter 84 ('Federal Employees Retirement System')". Notwithstanding directory language that the substitution of "Notwithstanding the provisions of sections 8347(o), 8713, and 8914 of title 5" bemade in par. (2) of subsec. (e), the substitution was made in introductory provisions of subsec. (e) to reflect the probable intent of Congress because the language replaced appeared only in those introductory provisions.
 
 Subsecs. (k), (l). Pub. L. 100–472, §203(f), added subsecs. (k) and (l). See Codification note above.
 
@@ -78,6 +80,8 @@ Subsec. (m). Pub. L. 100–472, §203(f), added subsec. (m).
 
 <b>1983</b>—Subsec. (e). Pub. L. 89–702, §210(a), as added by Pub. L. 98–129, inserted ", the city of St. Paul, Alaska, the city of St. George, Alaska, upon incorporation, or the Village Corporations of St. Paul and St. George Islands established pursuant to section 1607 of title 43".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Pub. L. 110–81, title I, §105(d), Sept. 14, 2007, 121 Stat. 741, provided that: "The amendments made by section 104 \[amending this section and section 207 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 14, 2007\], except that section 104(j)(2) of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5323(j)(2)\] (as amended by section 104(b)) shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the 60th day after the date of the enactment of this Act."
@@ -86,13 +90,15 @@ Pub. L. 110–81, title I, §105(d), Sept. 14, 2007, 121 Stat. 741, provided tha
 
 Pub. L. 89–702, title II, §210(b), as added by Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 844, provided that: "Notwithstanding any other provision of law, any Native of the Pribilof Islands employed by the Federal government on October 28, 1983, shall be deemed to have been covered under chapters 81, 83, 85 and 87 of title 5, United States Code, on such date for the purposes of determining eligibility for continuity of benefits under section 105(e) of the Act of January 4, 1975 (Public Law 93–638), known as the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5323(e)\]."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 11899. Providing for Protection of Certain Civil Service Employment Rights of Federal Personnel Who Leave Federal Employment To Be Employed by Tribal Organizations
 
 Ex. Ord. No. 11899, Jan. 26, 1976, 41 F.R. 3459, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by section 105(i) of the Indian Self-Determination and Education Assistance Act (88 Stat. 2210, 25 U.S.C. 450i) \[now 25 U.S.C. 5323\], section 3301 of title 5 of the United States Code, section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
-Section 1. The Office of Personnel Management is hereby designated and empowered to exercise, withoutapproval, ratification, or other action by the President, but after consultation with the Department of the Interior and the Department of Health and Human Services, the authority vested in the President by Section 105(i) of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5323(i)\] (hereinafter referred to as the Act), to issue regulations necessary to carry out the provisions of subsections (e)(2), (e)(3), (e)(4), (f), (g) and (h) of section 105 of the act \[25 U.S.C. 5323(e)(2), (3), (4), (f), (g), (h)\], to carry out the provisions of subsection (e)(1) of section 105 of the act \[25 U.S.C. 5323(e)(1)\] pertains to section 8151 of title 5 of the United States Code, and to protect and assure any other civil service employment rights which it finds appropriate.
+Section 1. The Office of Personnel Management is hereby designated and empowered to exercise, without approval, ratification, or other action by the President, but after consultation with the Department of the Interior and the Department of Health and Human Services, the authority vested in the President by Section 105(i) of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5323(i)\] (hereinafter referred to as the Act), to issue regulations necessary to carry out the provisions of subsections (e)(2), (e)(3), (e)(4), (f), (g) and (h) of section 105 of the act \[25 U.S.C. 5323(e)(2), (3), (4), (f), (g), (h)\], to carry out the provisions of subsection (e)(1) of section 105 of the act \[25 U.S.C. 5323(e)(1)\] pertains to section 8151 of title 5 of the United States Code, and to protect and assure any other civil service employment rights which it finds appropriate.
 
 Sec. 2. The Office of Personnel Management shall, after consultation with the Department of the Interior and the Department of Health and Human Services, issue regulations, as it deems appropriate, providing for the establishment, granting, and exercise of reemployment rights for employees who leave Federal employment for employment by an Indian tribal organization under provisions of the act.
 

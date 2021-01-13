@@ -94,7 +94,7 @@ United states.—The term "United States" includes the States of the United Stat
 
 (b)
 
-Nonapplication.—This chapter does not apply to the construction of any public buildingto which section 241(g) of the Immigration and Nationality Act (8 U.S.C. 1231(g)) or section 1 of the Act of June 26, 1930 (19 U.S.C. 68) applies.
+Nonapplication.—This chapter does not apply to the construction of any public building to which section 241(g) of the Immigration and Nationality Act (8 U.S.C. 1231(g)) or section 1 of the Act of June 26, 1930 (19 U.S.C. 68) applies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1156.)
 

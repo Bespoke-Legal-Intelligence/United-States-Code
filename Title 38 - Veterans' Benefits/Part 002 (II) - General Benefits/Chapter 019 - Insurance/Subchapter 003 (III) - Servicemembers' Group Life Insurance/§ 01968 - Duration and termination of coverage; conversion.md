@@ -50,6 +50,8 @@
 
 (Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §768; amended Pub. L. 91–291, §3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, §5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, §4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, §701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered §1968 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, §651(c), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, §647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, §1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, §313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, §301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, §403(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title IV, §§402(a), 403, Oct. 13, 2010, 124 Stat. 2879.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(A)(ii). Pub. L. 111–275, §402(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: "The date that is—
@@ -80,7 +82,7 @@ Subsec. (a)(4). Pub. L. 109–233, §301(b), substantially rewrote par. (4). Pri
 
 Subsec. (a)(1). Pub. L. 107–14, §4(c)(2)(B), (C)(i), in introductory provisions, substituted "With respect" for "with respect" and "31 days, insurance under this subchapter shall cease—" for "thirty-one days—".
 
-Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted "120 days" for "one hundred and twenty days"and "before the end of 120 days" for "prior to the expiration of one hundred and twenty days".
+Subsec. (a)(1)(A). Pub. L. 107–14, §4(c)(2)(C)(ii), substituted "120 days" for "one hundred and twenty days" and "before the end of 120 days" for "prior to the expiration of one hundred and twenty days".
 
 Subsec. (a)(1)(B). Pub. L. 107–14, §4(c)(2)(C)(iii), substituted a period for semicolon at end.
 
@@ -126,7 +128,7 @@ Subsec. (a)(5), (6). Pub. L. 104–275, §402(c)(1)(E), struck out pars. (5) and
 
 Subsec. (b). Pub. L. 104–275, §403(a)(3), substituted "(2) Automatic conversion to Veterans' Group Life Insurance under paragraph (1)" for "Such automatic conversion".
 
-Pub.  L.  104–275,  §403(a)(2),  substituted  "would cease—" and subpars. (A) and (B) for "would cease, shall be automatically converted to Veterans' Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title."
+Pub.  L.  104–275,  §403(a)(2), substituted "would cease—" and subpars. (A) and (B) for "would cease, shall be automatically converted to Veterans' Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title."
 
 Pub. L. 104–275, §403(a)(1), inserted "(1)" after "(b)" at beginning of subsec.
 
@@ -160,13 +162,15 @@ Subsec. (b). Pub. L. 99–576, §701(38)(C), substituted "the" for "he" before "
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions "or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,", substituted "one hundred and twenty days" for "ninety days" wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans' Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
+Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans' Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, andauthorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 
 Subsec. (c). Pub. L. 93–289, §5(a)(5), repealed subsec. (c) which related to conversion by eligible insured persons to policies written by companies participating in the program established by this subchapter.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–291 designated existing provisions as subsec. (a) and substituted provisions covering the duration of coverage for provisions covering termination of coverage. For termination and conversion of insurance see subsecs. (b) and (c) of this section.
 
 Subsecs. (b), (c). Pub. L. 91–291 added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

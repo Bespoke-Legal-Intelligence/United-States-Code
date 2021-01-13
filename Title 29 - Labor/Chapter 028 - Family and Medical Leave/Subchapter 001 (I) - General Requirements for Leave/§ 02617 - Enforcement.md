@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
-&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) inwhich a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 
 > &emsp;unless the action described in subparagraph (A) or (B) is dismissed without prejudice on motion of the Secretary.
 
@@ -88,6 +88,8 @@ In the case of the Government Accountability Office and the Library of Congress,
 
 (Pub. L. 103–3, title I, §107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, §202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(3)(G), Jan. 28, 2008, 122 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1)(A)(i)(II). Pub. L. 110–181 inserted "(or 26 weeks, in a case involving leave under section 2612(a)(3) of this title)" after "12 weeks".
@@ -95,6 +97,8 @@ In the case of the Government Accountability Office and the Library of Congress,
 <b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and text.
 
 <b>1995</b>—Subsec. (f). Pub. L. 104–1 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

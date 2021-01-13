@@ -74,7 +74,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
 
-(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942; Pub. L. 116–91, §5, Dec. 19, 2019, 133 Stat. 1193.)
+(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208,§2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942; Pub. L. 116–91, §5, Dec. 19, 2019, 133 Stat. 1193.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Section 1078–1 of this title, referred to in subsec. (b), was repealed by Pub.
 
 #### Prior Provisions
 
-A prior section 1087, Pub. L. 89–329, title IV, §437, as added Pub. L. 90–575, title I, §113(a), Oct. 16, 1968, 82Stat. 1020; amended Pub. L. 92–318, title I, §132D(a), June 23, 1972, 86 Stat. 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to repayment of loans by Secretary, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087, Pub. L. 89–329, title IV, §437, as added Pub. L. 90–575, title I, §113(a), Oct. 16, 1968, 82 Stat. 1020; amended Pub. L. 92–318, title I, §132D(a), June 23, 1972, 86 Stat. 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2133; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to repayment of loans by Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Since our Founding, the United States has been blessed with men and women willin
 
 The Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], as amended by the Higher Education Opportunity Act in 2008 and other acts (Higher Education Act), honors veterans who are totally and permanently disabled as a result of their service to the Nation by providing for the discharge of their Federal student loan debt. Borrowers who have been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provide documentation of that determination to the Secretary of Education are entitled to the discharge of such debt.
 
-For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. Theprocess has been overly complicated and difficult, and prevented too many of our veterans from receiving the relief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
+For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving the relief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
 
 Only half of the approximately 50,000 totally and permanently disabled veterans who currently qualify for the discharge of their Federal student loan debt have availed themselves of the benefits provided to them by the Higher Education Act. This has created a serious and critical problem for disabled veterans, who must deal with the day-to-day consequences of their service-connected injuries, and for our military, as readiness and recruitment suffer when we do not take care of our veterans. There is a pressing need to quickly and effectively resolve this problem. Therefore, my Administration will take prompt action to ensure that all totally and permanently disabled veterans are able to obtain, with minimal burden, the Federal student loan debt discharges to which they are legally entitled.
 

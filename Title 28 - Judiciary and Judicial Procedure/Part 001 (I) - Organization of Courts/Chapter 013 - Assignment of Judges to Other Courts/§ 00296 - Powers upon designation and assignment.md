@@ -10,7 +10,7 @@ A justice or judge who has sat by designation and assignment in another district
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§17, 18, 22, 23, 301 (Mar. 3, 1911, ch. 231, §§13, 14, 18, 19, 188, 36 Stat. 1089, 1143; Oct. 3, 1913, ch. 18, 38 Stat. 203; Feb. 25, 1919, ch. 29, §§2, 5, 40 Stat. 1156, 1157; Sept. 14, 1922, ch. 306, §§3, 4, 5, 42 Stat. 839; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, §4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§1, 2, 5, 6, 56 Stat. 1094, 1095).
+Based on title 28, U.S.C., 1940 ed., §§17, 18, 22, 23, 301 (Mar. 3, 1911, ch. 231, §§13, 14, 18, 19, 188, 36 Stat. 1089, 1143; Oct. 3, 1913, ch. 18, 38 Stat. 203; Feb. 25, 1919, ch. 29, §§2, 5, 40 Stat. 1156, 1157; Sept. 14, 1922, ch. 306, §§3, 4, 5,42 Stat. 839; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; Aug. 24, 1937, ch. 754, §4, 50 Stat. 753; Dec. 29, 1942, ch. 835, §§1, 2, 5, 6, 56 Stat. 1094, 1095).
 
 Section simplifies provisions of sections 17, 18, paragraphs (b) and (c) of section 22, and sections 23 and 301 of title 28, U.S.C., 1940 ed., relating to powers and duties of designated judges.
 
@@ -23,6 +23,8 @@ Section is made applicable to retired justices of the Supreme Court by inclusion
 The second sentence of the revised section was substituted for the provision of section 18 of title 28, U.S.C., 1940 ed., which subjected circuit judges to the same assignments of duty as the circuit judges of the circuit to which they are designated and assigned. The revised section extends this requirement and makes it applicable to all designated and assigned judges.
 
 The provision in the last paragraph of said section 22 that the action of the assigned judge in writing filed with the clerk of court where the trial or hearing was held shall be valid as if such action had been taken by him within the district and within the period of his designation, was omitted as surplusage. See section 295 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

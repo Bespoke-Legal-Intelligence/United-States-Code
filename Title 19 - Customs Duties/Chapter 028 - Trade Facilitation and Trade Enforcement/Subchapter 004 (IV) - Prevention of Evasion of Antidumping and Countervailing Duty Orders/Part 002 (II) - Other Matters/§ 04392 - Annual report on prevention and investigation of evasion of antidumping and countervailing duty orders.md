@@ -24,11 +24,11 @@ Each report required under subsection (a) shall include—
 
 &emsp;&emsp;(E) with respect to each such investigation that led to the imposition of a penalty, the amount of the penalty;
 
-&emsp;&emsp;(F) an identification of the countries of origin of covered merchandise determinedunder subsection (c) of such section 1517 of this title to be entered into the customs territory of the United States through evasion;
+&emsp;&emsp;(F) an identification of the countries of origin of covered merchandise determined under subsection (c) of such section 1517 of this title to be entered into the customs territory of the United States through evasion;
 
 &emsp;&emsp;(G) the amount of antidumping and countervailing duties collected as a result of any investigations or other actions by U.S. Customs and Border Protection or any other Federal agency;
 
-&emsp;&emsp;(H) a description of the allocation of personnel and other resources of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to prevent and investigate evasion, including any assessments conducted regarding the allocation of such personnel and resources; and
+&emsp;&emsp;(H) a description of the allocation of personnel and other resources of U.S. Customsand Border Protection and U.S. Immigration and Customs Enforcement to prevent and investigate evasion, including any assessments conducted regarding the allocation of such personnel and resources; and
 
 &emsp;&emsp;(I) a description of training conducted to increase expertise and effectiveness in the prevention and investigation of evasion; and
 

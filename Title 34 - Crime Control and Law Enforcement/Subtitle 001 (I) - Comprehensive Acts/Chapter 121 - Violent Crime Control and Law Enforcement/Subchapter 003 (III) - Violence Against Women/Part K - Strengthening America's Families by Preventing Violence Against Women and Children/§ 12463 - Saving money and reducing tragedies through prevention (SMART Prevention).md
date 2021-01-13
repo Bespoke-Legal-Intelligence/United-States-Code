@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized toaward grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by taking a comprehensive approach that focuses on youth, children exposed to violence, and men as leaders and influencers of social norms.
+The Attorney General, in consultation with the Secretary of Health and Human Services and the Secretary of Education, is authorized to award grants for the purpose of preventing domestic violence, dating violence, sexual assault, and stalking by taking a comprehensive approach that focuses on youth, children exposed to violence, and men as leaders and influencers of social norms.
 
 #### (b) Use of funds
 
@@ -78,7 +78,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 &emsp;&emsp;(A) include outcome-based evaluation; and
 
-&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explain how the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
+&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explainhow the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
 
 #### (e) Definitions and grant conditions
 
@@ -100,6 +100,8 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 (Pub. L. 103–322, title IV, §41303, as added Pub. L. 109–162, title IV, §401, Jan. 5, 2006, 119 Stat. 3018; amended Pub. L. 113–4, title IV, §402(a), Mar. 7, 2013, 127 Stat. 92.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -111,6 +113,8 @@ Section was formerly classified to section 14043d–2 of Title 42, The Public He
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–4 amended section generally. Prior to amendment, section related to grants to assist children and youth exposed to violence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

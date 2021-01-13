@@ -2,7 +2,7 @@
 
 #### (a) Application to existing agreements of undertakings required of new agreements after March 10, 1978
 
-The President shall initiate a program immediately to renegotiate agreements for cooperation in effect on March 10, 1978, or otherwise to obtain the agreement of parties to such agreements for cooperation to the undertakings that would be required for new agreements under the 1954 Act. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party contains provisions equivalent to any or all of the criteria set forth in section 127 of the 1954 Act \[42 U.S.C. 2156\] with respect to materials and equipment transferred pursuant thereto or with respect to any special nuclear material used in or produced throughthe use of any such material or equipment, any renegotiated agreement with that cooperating party shall continue to contain an equivalent provision with respect to such transferred materials and equipment and such special nuclear material. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party does not contain provisions with respect to any nuclear materials and equipment which have previously been transferred under an agreement for cooperation with the United States and which are under the jurisdiction or control of the cooperating party and with respect to any special nuclear material which is used in or produced through the use thereof and which is under the jurisdiction or control of the cooperating party, which are equivalent to any or all of those required for new and amended agreements for cooperation under section 123 a. of the 1954 Act \[42 U.S.C. 2153(a)\], the President shall vigorously seek to obtain the application of such provisions with respect to such nuclear materials and equipment and such special nuclear material. Nothing in this Act or in the 1954 Act shall be deemed to relinquish any rights which the United States may have under any agreement for cooperation in force on March 10, 1978.
+The President shall initiate a program immediately to renegotiate agreements for cooperation in effect on March 10, 1978, or otherwise to obtain the agreement of parties to such agreements for cooperation to the undertakings thatwould be required for new agreements under the 1954 Act. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party contains provisions equivalent to any or all of the criteria set forth in section 127 of the 1954 Act \[42 U.S.C. 2156\] with respect to materials and equipment transferred pursuant thereto or with respect to any special nuclear material used in or produced through the use of any such material or equipment, any renegotiated agreement with that cooperating party shall continue to contain an equivalent provision with respect to such transferred materials and equipment and such special nuclear material. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party does not contain provisions with respect to any nuclear materials and equipment which have previously been transferred under an agreement for cooperation with the United States and which are under the jurisdiction or control of the cooperating party and with respect to any special nuclear material which is used in or produced through the use thereof and which is under the jurisdiction or control of the cooperating party, which are equivalent to any or all of those required for new and amended agreements for cooperation under section 123 a. of the 1954 Act \[42 U.S.C. 2153(a)\], the President shall vigorously seek to obtain the application of such provisions with respect to such nuclear materials and equipment and such special nuclear material. Nothing in this Act or in the 1954 Act shall be deemed to relinquish any rights which the United States may have under any agreement for cooperation in force on March 10, 1978.
 
 #### (b) Presidential review of export agreement conditions and policy goals
 
@@ -36,10 +36,6 @@ Section 2153b of this title, referred to in subsec. (b), was in the original "se
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
-#### Delegation of Functions
-
-Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
 #### Supply of Additional Low-Enriched Uranium Under International Agreements for Cooperation in Civil Uses of Nuclear Energy
 
 Pub. L. 96–280, June 18, 1980, 94 Stat. 550, provided that:
@@ -50,13 +46,17 @@ Pub. L. 96–280, June 18, 1980, 94 Stat. 550, provided that:
 
 "(b) The term 'low-enriched uranium' means uranium enriched to less than 20 per centum in the isotope 235."
 
-#### Performance of Functions Pending Development of Procedures
-
-The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
-
 #### Definitions
 
 For definitions of terms used in this section, see section 3203 of Title 22, Foreign Relations and Intercourse.
+
+#### Delegation of Functions
+
+Secretary of State responsible for performing functions vested in President under this section, see section 2(a) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### Performance of Functions Pending Development of Procedures
+
+The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

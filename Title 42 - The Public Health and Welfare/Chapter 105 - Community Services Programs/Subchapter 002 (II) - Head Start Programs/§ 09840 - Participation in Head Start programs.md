@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(II) from the area served, an additional 35 percent of participants who are not eligible under clause (i) or (ii) and whose families have incomes below 130 percent of the poverty line, if—
 
-&emsp;&emsp;&emsp;(aa) the Head Start agency involved establishes and implements outreach and enrollment policies and procedures that ensure such agency is meeting the needs of children eligible under clause (i) or (ii) (or subclause (I) if the child involved has a disability) prior to meeting the needs of children eligible under this subclause; and
+&emsp;&emsp;&emsp;(aa) the Head Start agency involved establishes and implements outreach and enrollment policies and procedures that ensure such agency is meeting the needs ofchildren eligible under clause (i) or (ii) (or subclause (I) if the child involved has a disability) prior to meeting the needs of children eligible under this subclause; and
 
 &emsp;&emsp;&emsp;(bb) in prioritizing the selection of children to be served, the Head Start agency establishes criteria that provide that the agency will serve children eligible under clause (i) or (ii) prior to serving the children eligible under this subclause;
 
@@ -118,7 +118,7 @@ Each Head Start program operated in a community shall be permitted to provide mo
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (a)(2)(B), was in the original a reference to section 330 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (a)(2)(B), was in the original a reference to section 330 of the Public Health Service Act, act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of this title by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat.3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 This Act, referred to in subsec. (d)(3), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Omnibus Budget Reconciliation Act of 1981. For complete classification of this Act to the Code, see Tables.
 

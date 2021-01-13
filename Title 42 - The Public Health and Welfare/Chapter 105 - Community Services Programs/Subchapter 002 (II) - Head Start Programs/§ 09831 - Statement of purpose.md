@@ -16,7 +16,7 @@ It is the purpose of this subchapter to promote the school readiness of low-inco
 
 "(a) In recognition of the role which Project Head Start has played in the effective delivery of comprehensive health, educational, nutritional, social, and other services to economically disadvantaged children and their families, it is the purpose of this subchapter to extend the authority for the appropriation of funds for such program.
 
-"(b) In carrying out the provisions of this subchapter, the Secretary of Health and Human Services shall continue the administrative arrangement responsible for meeting the needs of migrant, non-English language background, and Indian children and shall assure that appropriate funding is provided to meet such needs."
+"(b) In carrying out the provisions of this subchapter, the Secretary of Health and Human Services shall continue the administrative arrangement responsible formeeting the needs of migrant, non-English language background, and Indian children and shall assure that appropriate funding is provided to meet such needs."
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–501 inserted ", non-English language background," after "migrant".
 
@@ -114,7 +114,7 @@ Award basis.—Grants under this subsection shall be awarded—
 
 &emsp;"(3)
 
-Duration of grants.—A grant awarded under paragraph (1) shall be for a period of not more than1 year and may be renewed by the Secretary, jointly with the Secretary of Education, under subsection (g).
+Duration of grants.—A grant awarded under paragraph (1) shall be for a period of not more than 1 year and may be renewed by the Secretary, jointly with the Secretary of Education, under subsection (g).
 
 &emsp;"(4)
 
@@ -202,7 +202,7 @@ Renewal Grants.—
 
 &emsp;"(1)
 
-In general.—The Secretary, jointly with the Secretary of Education, may use funds available under subsection (k) to award renewal grants toStates described in paragraph (2) to enable such States to continue activities described in subsection (f) and to carry out additional activities described in paragraph (6).
+In general.—The Secretary, jointly with the Secretary of Education, may use funds available under subsection (k) to award renewal grants to States described in paragraph (2) to enable such States to continue activities described in subsection (f) and to carry out additional activities described in paragraph (6).
 
 &emsp;"(2)
 
@@ -332,7 +332,7 @@ Limitations on federal interference.—Nothing in this section shall be construe
 
 &emsp;"(2)
 
-Limitation on governmental requirements.—Nothing in this section shall be construed to authorize the Secretary, Secretary of Education, the State, or any other governmental agency to alter requirements for existing programs for which coordination and alignment activities are recommended under this section, or to force programs to adhere to any recommendations developed through this program. The Secretary, Secretary of Education, State, or other governmental agency may only take an action described in the preceding sentence as otherwise authorized under Federal, State, or local law.
+Limitation on governmental requirements.—Nothing in this section shall be construed to authorize the Secretary, Secretary of Education, the State, or any other governmental agency to alter requirements for existing programs for which coordination and alignment activities are recommended under thissection, or to force programs to adhere to any recommendations developed through this program. The Secretary, Secretary of Education, State, or other governmental agency may only take an action described in the preceding sentence as otherwise authorized under Federal, State, or local law.
 
 &emsp;"(3)
 

@@ -108,11 +108,11 @@
 
 #### (3) Incidental collection
 
-&emsp;If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
+&emsp;If a group health plan, or a health insurance issuer offering health insurance coverage inconnection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
 
 #### (e) Application to all plans
 
-The provisions of subsections (a)(1)(F), (b)(3), (c), and (d), and subsection (b)(1) and section 1181 of this title with respect to genetic information,shall apply to group health plans and health insurance issuers without regard to section 1191a(a) of this title.
+The provisions of subsections (a)(1)(F), (b)(3), (c), and (d), and subsection (b)(1) and section 1181 of this title with respect to genetic information, shall apply to group health plans and health insurance issuers without regard to section 1191a(a) of this title.
 
 #### (f) Genetic information of a fetus or embryo
 
@@ -123,6 +123,8 @@ Any reference in this part to genetic information concerning an individual or fa
 &emsp;(2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
 (Pub. L. 93–406, title I, §702, as added Pub. L. 104–191, title I, §101(a), Aug. 21, 1996, 110 Stat. 1945; amended Pub. L. 110–233, title I, §101(a)–(c), May 21, 2008, 122 Stat. 883, 885.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +141,8 @@ Subsec. (b)(3). Pub. L. 110–233, §101(a)(2), added par. (3).
 Subsecs. (c) to (e). Pub. L. 110–233, §101(b), added subsecs. (c) to (e).
 
 Subsec. (f). Pub. L. 110–233, §101(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

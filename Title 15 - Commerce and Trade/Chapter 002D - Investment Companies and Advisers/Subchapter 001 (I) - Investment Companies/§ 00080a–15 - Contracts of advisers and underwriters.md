@@ -8,7 +8,7 @@ It shall be unlawful for any person to serve or act as investment adviser of a r
 
 &emsp;(2) shall continue in effect for a period more than two years from the date of its execution, only so long as such continuance is specifically approved at least annually by the board of directors or by vote of a majority of the outstanding voting securities of such company;
 
-&emsp;(3) provides, in substance, that it may be terminated at any time, without the payment of any penalty, by the board of directors of such registered company or by vote of a majority of the outstanding voting securities of such company on not more than sixty days' written notice to the investment adviser; and
+&emsp;(3) provides, in substance, that it may be terminated at any time, without the payment of any penalty, by the board of directors of such registered company or by vote of a majority ofthe outstanding voting securities of such company on not more than sixty days' written notice to the investment adviser; and
 
 &emsp;(4) provides, in substance, for its automatic termination in the event of its assignment.
 

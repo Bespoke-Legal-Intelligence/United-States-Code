@@ -28,7 +28,7 @@ If it is a drug and any substance has been (1) mixed or packed therewith so as t
 
 (1) If it is a class III device—
 
-&emsp;(A)(i) which is required by an order issued under subsection (b) of section 360e of thistitle to have an approval under such section of an application for premarket approval and which is not exempt from section 360e of this title under section 360j(g) of this title, and
+&emsp;(A)(i) which is required by an order issued under subsection (b) of section 360e of this title to have an approval under such section of an application for premarket approval and which is not exempt from section 360e of this title under section 360j(g) of this title, and
 
 &emsp;(ii)(I) for which an application for premarket approval or a notice of completion of a product development protocol was not filed with the Secretary within the ninety-day period beginning on the date of the issuance of such order, or
 
@@ -72,6 +72,8 @@ If it is a drug or device and it has been manufactured, processed, packed, or he
 
 (June 25, 1938, ch. 675, §501, 52 Stat. 1049; Pub. L. 86–618, title I, §102(b)(1), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §101, Oct. 10, 1962, 76 Stat. 780; Pub. L. 90–399, §101(a), July 13, 1968, 82 Stat. 343; Pub. L. 94–295, §§3(d), 9(b)(1), May 28, 1976, 90 Stat. 576, 583; Pub. L. 101–629, §9(b), Nov. 28, 1990, 104 Stat. 4521; Pub. L. 102–571, title I, §107(8), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §121(b)(1), title II, §204(c), Nov. 21, 1997, 111 Stat. 2320, 2336; Pub. L. 112–144, title VI, §608(b)(2), title VII, §§707(a), 711, July 9, 2012, 126 Stat. 1058, 1068, 1071; Pub. L. 115–52, title VII, §702(c), Aug. 18, 2017, 131 Stat. 1056.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (j). Pub. L. 115–52 inserted "or device" after "drug".
@@ -106,6 +108,8 @@ Pars. (e) to (i). Pub. L. 94–295, §3(d), added pars. (e) to (i).
 
 <b>1960</b>—Par. (a). Pub. L. 86–618 substituted provisions in cl. (4) relating to unsafe color additives for provisions which related to a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 354 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 1997 Amendment
 
 Pub. L. 105–115, title I, §121(b)(2), Nov. 21, 1997, 111 Stat. 2320, provided that: "Section 501(a)(2)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351(a)(2)(C)) shall not apply 4 years after the date of enactment of this Act \[Nov. 21, 1997\] or 2 years after the date on which the Secretary of Health and Human Services establishes the requirements described in subsection (c)(1)(B) \[section 121(c)(1)(B) of Pub. L. 105–115, set out as a note under section 355 of this title\], whichever is later."
@@ -114,7 +118,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Dateand Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1962 Amendment; Exceptions
 

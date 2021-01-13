@@ -8,7 +8,7 @@ The Chief Human Capital Officer shall report directly to the Under Secretary for
 
 In addition to the responsibilities set forth in chapter 14 of title 5 and other applicable law, the Chief Human Capital Officer of the Department shall—
 
-&emsp;(1) develop and implement strategic workforce planning policies that are consistent with Government-wide leading principles andin line with Department strategic human capital goals and priorities, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;
+&emsp;(1) develop and implement strategic workforce planning policies that are consistent with Government-wide leading principles and in line with Department strategic human capital goals and priorities, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;
 
 &emsp;(2) develop performance measures to provide a basis for monitoring and evaluating Department-wide strategic workforce planning efforts;
 
@@ -55,6 +55,8 @@ Not later than 90 days after the date on which the Secretary submits the annual 
 Nothing in this section overrides or otherwise affects the requirements specified in section 468 of this title.
 
 (Pub. L. 107–296, title VII, §704, Nov. 25, 2002, 116 Stat. 2219; Pub. L. 114–328, div. A, title XIX, §1904, Dec. 23, 2016, 130 Stat. 2674.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

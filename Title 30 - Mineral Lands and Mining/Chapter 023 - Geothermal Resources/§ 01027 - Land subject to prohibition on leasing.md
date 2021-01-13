@@ -4,6 +4,8 @@ The Secretary shall not issue any lease under this chapter on those lands subjec
 
 (Pub. L. 91–581, §29, as added Pub. L. 100–443, §5(d), Sept. 22, 1988, 102 Stat. 1769; amended Pub. L. 109–58, title II, §236(27), Aug. 8, 2005, 119 Stat. 673.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 inserted section catchline.

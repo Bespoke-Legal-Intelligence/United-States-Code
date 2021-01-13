@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(D) should include—
 
-&emsp;&emsp;&emsp;(i) implementation of transparent budgetary procedures and mechanisms to help ensure that the financial benefits of debt relief under the modified Heavily IndebtedPoor Countries Initiative (as defined in section 262p–6 of this title) are applied to programs that combat poverty; and
+&emsp;&emsp;&emsp;(i) implementation of transparent budgetary procedures and mechanisms to help ensure that the financial benefits of debtrelief under the modified Heavily Indebted Poor Countries Initiative (as defined in section 262p–6 of this title) are applied to programs that combat poverty; and
 
 &emsp;&emsp;&emsp;(ii) monitorable indicators of progress in poverty reduction.
 
@@ -41,6 +41,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 &emsp;(9) Full public disclosure of the proposed objectives and financial organization of the successor to the ESAF at least 90 days before any decision by the Executive Board of the IMF to consider its adoption.
 
 (Pub. L. 95–118, title XVI, §1624, as added Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §502\], Nov. 29, 1999, 113 Stat. 1536, 1501A–314.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -80,7 +80,7 @@ Pub. L. 102–486, title XVIII, Oct. 24, 1992, 106 Stat. 3010, provided that:
 
 "(a)
 
-Establishment.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generallyapplicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\].
+Establishment.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], the Federal Energy Regulatory Commission shall issue a final rule which establishes a simplified and generally applicable ratemaking methodology for oil pipelines in accordance with section 1(5) of part I of the Interstate Commerce Act \[former 49 U.S.C. 1(5)\].
 
 "(b)
 
@@ -156,7 +156,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 &emsp;"(2) the person filing the complaint was under a contractual prohibition against the filing of a complaint which was in effect on the date of enactment of this Act and had been in effect prior to January 1, 1991, provided that a complaint by a party bound by such prohibition is brought within 30 days after the expiration of such prohibition.
 
-> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
+> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 ofthe Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
 
 "(c)
 

@@ -78,5 +78,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 #### Construction of Section 806 of Pub. L. 99–514
 
-Pub. L. 100–647, title I, §1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: "Nothing in section 806 of the Reform Act \[Pub. L. 99–514, amending this section and sections 267, 441, and 706 of this title and enacting provisions set out above\] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year."
+Pub. L. 100–647, title I, §1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: "Nothing in section 806 of the Reform Act \[Pub. L. 99–514, amending this section andsections 267, 441, and 706 of this title and enacting provisions set out above\] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year."
 

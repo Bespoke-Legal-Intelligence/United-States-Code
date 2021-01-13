@@ -42,7 +42,7 @@ This section applies to a servicemember who—
 
 #### (2) Time and premium for reinstatement
 
-&emsp;The request of a servicemember for reinstatement shall be effective only if the servicemember transmits the request to the insurance carrier within 30 days after the date on which the servicemember is released from active duty. The insurance carrier shall notify the servicemember of the due date for payment of the premium of such insurance. Such premium shall be paid by the servicemember within 30 days after receipt of that notice.
+&emsp;The request of a servicemember for reinstatement shall be effective only if the servicemember transmits the request to the insurance carrier within 30 days after the dateon which the servicemember is released from active duty. The insurance carrier shall notify the servicemember of the due date for payment of the premium of such insurance. Such premium shall be paid by the servicemember within 30 days after receipt of that notice.
 
 #### (3) Period of reinstated coverage
 
@@ -90,7 +90,7 @@ In the case of a civil or administrative action for which a stay could have been
 
 If a servicemember whose professional liability insurance coverage is suspended under subsection (b) dies during the period of the suspension—
 
-&emsp;(1) the requirement for the grant or continuance of a stay in any civil or administrativeaction against such servicemember under subsection (f)(1) shall terminate on the date of the death of such servicemember; and
+&emsp;(1) the requirement for the grant or continuance of a stay in any civil or administrative action against such servicemember under subsection (f)(1) shall terminate on the date of the death of such servicemember; and
 
 &emsp;(2) the carrier of the professional liability insurance so suspended shall be liable for any claim for damages for professional negligence or other professional liability of the deceased servicemember in the same manner and to the same extent as such carrier would be liable if the servicemember had died while covered by such insurance but before the claim was filed.
 

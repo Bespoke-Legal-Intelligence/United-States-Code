@@ -10,7 +10,7 @@ It is a major objective of the foreign assistance program of the United States t
 
 #### (c) Authorization
 
-To carry out this section and consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine, for the prevention, treatment, control, and elimination of malaria.
+To carry out this section and consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine,for the prevention, treatment, control, and elimination of malaria.
 
 #### (d) Coordination
 
@@ -18,9 +18,13 @@ In carrying out this section, the President shall coordinate with the World Heal
 
 (Pub. L. 87–195, pt. I, §104C, as added Pub. L. 108–25, title III, §303(a), May 27, 2003, 117 Stat. 736; amended Pub. L. 110–293, title III, §303(a), July 30, 2008, 122 Stat. 2960.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–293 inserted "treatment," after "control,".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

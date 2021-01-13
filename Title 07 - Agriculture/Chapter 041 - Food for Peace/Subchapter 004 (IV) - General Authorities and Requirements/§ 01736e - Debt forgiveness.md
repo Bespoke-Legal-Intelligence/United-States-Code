@@ -52,11 +52,11 @@ Subsec. (e). Pub. L. 102–237, §322, substituted "November 28, 1990" for "the 
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
+#### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
+
+Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Title I of the Public Law 480 \[7 U.S.C. 1701 et seq.\] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill \[probably means Pub. L. 99–198, see Tables for classification\], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act \[7 U.S.C. 1736e, 1738c\] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa."
+
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
-
-#### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
-
-Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Title I of the Public Law 480 \[7 U.S.C. 1701 et seq.\] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed inthe 1985 farm bill \[probably means Pub. L. 99–198, see Tables for classification\], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act \[7 U.S.C. 1736e, 1738c\] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa."
 

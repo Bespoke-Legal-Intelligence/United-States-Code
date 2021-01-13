@@ -42,7 +42,7 @@
 
 #### (3) Designation
 
-&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary findsthat the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
+&emsp;Within 60 calendar days after the receipt of a request under paragraph (2), the Secretary shall determine whether the drug that is the subject of the request meets the criteria described in paragraph (1). If the Secretary finds that the drug meets the criteria, the Secretary shall designate the drug as a fast track product and shall take such actions as are appropriate to expedite the development and review of the application for approval of such product.
 
 #### (c) Accelerated approval of a drug for a serious or life-threatening disease or condition, including a fast track product
 
@@ -230,6 +230,8 @@ The Secretary shall—
 
 (June 25, 1938, ch. 675, §506, as added Pub. L. 105–115, title I, §112(a), Nov. 21, 1997, 111 Stat. 2309; amended Pub. L. 112–144, title VIII, §803, title IX, §§901(b), 902(a), July 9, 2012, 126 Stat. 1079, 1083, 1086; Pub. L. 114–255, div. A, title III, §§3033(a), (c), 3042, Dec. 13, 2016, 130 Stat. 1101, 1103, 1112.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food and Drug Administration Safety and Innovation Act, referred to in subsec. (e)(1), is Pub. L. 112–144. For the amendments made to this section by the Act, see 2012 Amendment notes below.
@@ -265,6 +267,8 @@ Subsecs. (b) to (d). Pub. L. 112–144, §902(a)(1), redesignated subsecs. (a) t
 Subsec. (f). Pub. L. 112–144, §902(a)(2), which directed the redesignation of subsec. (d) as (f), was executed by redesignating the subsec. (d) relating to awareness efforts as (f), to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 114–255, §3033(a)(1), which transferred subsec. (e) to appear before subsec. (f) "relating to awareness efforts".
 
 Subsec. (f)(1). Pub. L. 112–144, §902(a)(4), substituted "applicable to breakthrough therapies, accelerated approval, and" for "applicable to accelerated approval".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -306,7 +310,7 @@ Findings.—Congress finds as follows:
 
 &emsp;"(A) The Food and Drug Administration (referred to in this section as the 'FDA') serves a critical role in helping to assure that new medicines are safe and effective. Regulatory innovation is 1 element of the Nation's strategy to address serious or life-threatening diseases or conditions by promoting investment in and development of innovative treatments for unmet medical needs.
 
-&emsp;"(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided anunprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
+&emsp;"(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided an unprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
 
 &emsp;"(C) As a result of these remarkable scientific and medical advances, the FDA should be encouraged to implement more broadly effective processes for the expedited development and review of innovative new medicines intended to address unmet medical needs for serious or life-threatening diseases or conditions, including those for rare diseases or conditions, using a broad range of surrogate or clinical endpoints and modern scientific tools earlier in the drug development cycle when appropriate. This may result in fewer, smaller, or shorter clinical trials for the intended patient population or targeted subpopulation without compromising or altering the high standards of the FDA for the approval of drugs.
 
@@ -340,7 +344,7 @@ Consideration.—In developing the guidance under paragraphs (1) and (2)(A) and 
 
 "(4)
 
-Conforming changes.—The Secretary shall issue, as necessary, conforming amendments to the applicable regulations under title 21, Code of Federal Regulations, governing accelerated approval.
+Conforming changes.—The Secretary shall issue, as necessary, conforming amendments to the applicableregulations under title 21, Code of Federal Regulations, governing accelerated approval.
 
 "(5)
 

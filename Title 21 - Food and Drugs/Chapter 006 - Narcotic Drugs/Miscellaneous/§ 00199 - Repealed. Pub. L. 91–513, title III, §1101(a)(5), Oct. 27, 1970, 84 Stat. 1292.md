@@ -2,6 +2,8 @@
 
 Section, act July 3, 1930, ch. 829, 46 Stat. 850, authorized payment to persons giving information concerning violations of narcotics laws. See section 886(a) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of this title.

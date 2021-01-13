@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use ofconservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
+The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use of conservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
 
 #### (b) State and regional forest legacy programs
 
@@ -56,7 +56,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (2) Cost sharing
 
-&emsp;In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein orproject costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
+&emsp;In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein or project costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
 
 #### (k) Easements
 
@@ -124,7 +124,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amendedPub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
 
 #### References in Text
 

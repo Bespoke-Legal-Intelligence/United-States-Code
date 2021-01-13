@@ -32,7 +32,7 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 #### (e) Court action for determination of ownership, etc., in State or Federal court of competent jurisdiction; de novo nature of action; parties
 
-(1) A court action to determine legal ownership, entitlement, or right to possession may be filed in any State or Federal court of competent jurisdiction other than against the UnitedStates, the Comptroller, or any officer, agent, or employee thereof.
+(1) A court action to determine legal ownership, entitlement, or right to possession may be filed in any State or Federal court of competent jurisdiction other than against the United States, the Comptroller, or any officer, agent, or employee thereof.
 
 (2) Such actions shall be determined de novo without regard to any agency determination or any disposition or delivery by the Comptroller of any particular property to any person.
 
@@ -50,9 +50,13 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 (Pub. L. 96–221, title VII, §733, as added Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

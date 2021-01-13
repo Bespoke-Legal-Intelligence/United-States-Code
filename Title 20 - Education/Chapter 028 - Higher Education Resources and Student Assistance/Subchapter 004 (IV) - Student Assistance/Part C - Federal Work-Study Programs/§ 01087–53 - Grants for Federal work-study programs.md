@@ -82,7 +82,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 #### (1) Use of funds
 
-&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensure that funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
+&emsp;In any academic year to which subsection (b)(2)(A) applies, an institution shall ensurethat funds granted to such institution under this section are used in accordance with such subsection to compensate (including compensation for time spent in training and travel directly related to tutoring in reading and family literacy activities) students—
 
 &emsp;&emsp;(A) employed as reading tutors for children who are preschool age or are in elementary school; or
 
@@ -128,7 +128,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 &emsp;The Federal share of the compensation of work-study students compensated under this subsection may exceed 75 percent.
 
-(Pub. L. 89–329, title IV, §443, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; amended Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564;Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
+(Pub. L. 89–329, title IV, §443, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1432; amended Pub. L. 100–50, §11(b), (c), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §§441(a)(2), 443, July 23, 1992, 106 Stat. 563, 564; Pub. L. 103–208, §2(d)(3)–(5), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §443, Oct. 7, 1998, 112 Stat. 1712; Pub. L. 110–315, title IV, §443, Aug. 14, 2008, 122 Stat. 3258; Pub. L. 111–39, title IV, §403, July 1, 2009, 123 Stat. 1945.)
 
 #### References in Text
 

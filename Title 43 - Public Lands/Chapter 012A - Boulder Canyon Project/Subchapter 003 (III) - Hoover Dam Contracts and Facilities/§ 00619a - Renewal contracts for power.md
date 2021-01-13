@@ -352,7 +352,7 @@ Totals
 
 226,352
 
-(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
+(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28,1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
 
 (C)(i) Within 36 months of December 20, 2011, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as "Western"), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
 
@@ -374,7 +374,7 @@ Totals
 
 (F) Any of the 66.7 percent of Schedule D contingent capacity and firm energy that is to be allocated by Western that is not allocated and placed under contract by October 1, 2017, shall be returned to those contractors shown in Schedule A and Schedule B in the same proportion as those contractors' allocations of Schedule A and Schedule B contingent capacity and firm energy. Any of the 33.3 percent of Schedule D contingent capacity and firm energy that is to be distributed within the States of Arizona, Nevada, and California that is not allocated and placed under contract by October 1, 2017, shall be returned to the Schedule A and Schedule B contractors within the State in which the Schedule D contingent capacity and firm energy were to be distributed, in the same proportion as those contractors' allocations of Schedule A and Schedule B contingent capacity and firm energy.
 
-(3) The total obligation of the Secretary of Energy to deliver firm energy pursuant to paragraphs (1)(A), (1)(B), and (2) is 4,527.001 million kilowatthours in each year of operation. To the extent that the actual generation at Hoover Powerplant in each year of operation (less deliveries thereof to Arizona required by its first priority under Schedule C of subsection (a)(1)(C) whenever actual generation in each year of operation is in excess of 4,501.001 million kilowatthours) is less than 4,527.001 million kilowatthours, such deficiency shall be borne by the holders of contracts under said <sup>1</sup> Schedules A, B,and D in the ratio that the sum of the quantities of firm energy to which each contractor is entitled pursuant to said schedules bears to 4,527.001 million kilowatthours. At the request of any such contractor, the Secretary of Energy will purchase energy to meet that contractor's deficiency at such contractor's expense.
+(3) The total obligation of the Secretary of Energy to deliver firm energy pursuant to paragraphs (1)(A), (1)(B), and (2) is 4,527.001 million kilowatthours in each year of operation. To the extent that the actual generation at Hoover Powerplant in each year of operation (less deliveries thereof to Arizona required by its first priority under Schedule C of subsection (a)(1)(C) whenever actual generation in each year of operation is in excess of 4,501.001 million kilowatthours) is less than 4,527.001 million kilowatthours, such deficiency shall be borne by the holders of contracts under said <sup>1</sup> Schedules A, B, and D in the ratio that the sum of the quantities of firm energy to which each contractor is entitled pursuant to said schedules bears to 4,527.001 million kilowatthours. At the request of any such contractor, the Secretary of Energy will purchase energy to meet that contractor's deficiency at such contractor's expense.
 
 (4) Subdivision C of the Criteria shall be deemed to have been modified to conform to this section, as modified by the Hoover Power Allocation Act of 2011. The Secretary of Energy shall cause to be included in the Federal Register a notice conforming the text of the regulations to such modifications.
 
@@ -390,7 +390,7 @@ Totals
 
 &emsp;(E) permit transactions with an independent system operator; and
 
-&emsp;(F) contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover Power Plant that were made in accordance with this subchapter and are in existence on December 20, 2011.
+&emsp;(F) contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover PowerPlant that were made in accordance with this subchapter and are in existence on December 20, 2011.
 
 #### (b) Prejudice of rights of contract holders under Boulder Canyon Project Act
 
@@ -412,13 +412,15 @@ The provisions of this section constitute an exercise by the Congress of the rig
 
 (1) Notwithstanding any other provision of law, any claim that the provisions of subsection (a) of this section violates any rights to capacity or energy from the Boulder Canyon project is barred unless the complaint is filed within one year after December 20, 2011, in the United States Court of Federal Claims which shall have exclusive jurisdiction over this action. Any claim that actions taken by any administrative agency of the United States violates any right under this subchapter or the Boulder Canyon Project Act \[43 U.S.C. 617 et seq.\] or the Boulder Canyon Project Adjustment Act \[43 U.S.C. 618 et seq.\] is barred unless suit asserting such claim is filed in a Federal court of competent jurisdiction within one year after final refusal of such agency to correct the action complained of.
 
-(2) Any contract entered into pursuant to this section or section 107 of this Act \[42 U.S.C. 7133 note\] shall contain provisions by which any dispute or disagreement as to interpretation or performance of the provisions of this subchapter or of applicable regulations or of the contract may be determined by arbitration or court proceedings. The Secretary of Energy or the Secretary of the Interior, as the case may be, if authorized to act for the United States in such arbitration or court proceedings and, except as provided in paragraph (1) of this subsection, jurisdiction is conferred upon any district court ofthe United States of proper venue to determine the dispute.
+(2) Any contract entered into pursuant to this section or section 107 of this Act \[42 U.S.C. 7133 note\] shall contain provisions by which any dispute or disagreement as to interpretation or performance of the provisions of this subchapter or of applicable regulations or of the contract may be determined by arbitration or court proceedings. The Secretary of Energy or the Secretary of the Interior, as the case may be, if authorized to act for the United States in such arbitration or court proceedings and, except as provided in paragraph (1) of this subsection, jurisdiction is conferred upon any district court of the United States of proper venue to determine the dispute.
 
 #### (g) Congressional declaration of purpose
 
 It is the purpose of this subchapter to ensure that the rights of contractors for capacity and energy from the Boulder Canyon project for the period beginning October 1, 2017, and ending September 30, 2067, will vest with certainty and finality.
 
 (Pub. L. 98–381, title I, §105, Aug. 17, 1984, 98 Stat. 1335; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 112–72, §2, Dec. 20, 2011, 125 Stat. 777.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -434,7 +436,7 @@ Section 107 of this Act, referred to in subsec. (f)(2), is section 107 of Pub. L
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencing June 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewal contract offers to current Boulder Canyon project contractors.
+<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencing June 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewalcontract offers to current Boulder Canyon project contractors.
 
 Subsec. (a)(1)(B). Pub. L. 112–72, §2(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to contract offers to purchasers in Arizona, Nevada, and California eligible to enter into such contracts under 43 U.S.C. 617d, for delivery commencing June 1, 1987, of capacity resulting from the uprating program and associated firm energy as provided in former Schedule B with certain provisos.
 
@@ -476,9 +478,11 @@ Subsecs. (h), (i). Pub. L. 112–72, §2(k)(2), redesignated subsecs. (h) and (i
 
 <b>1992</b>—Subsec. (h)(1). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> So in original. The word "said" probably should not appear.</i>
 

@@ -30,13 +30,15 @@ No civil penalty or punitive damages may be awarded with respect to any claim un
 
 #### (2) Size limitations
 
-&emsp;Notwithstanding paragraph (1), provisions in the laws made applicable under this chapter\(other than the Worker Adjustment and Retraining Notification Act \[29 U.S.C. 2101 et seq.\]) determining coverage based on size, whether expressed in terms of numbers of employees, amount of business transacted, or other measure, shall not apply in determining coverage under this chapter.
+&emsp;Notwithstanding paragraph (1), provisions in the laws made applicable under this chapter (other than the Worker Adjustment and Retraining Notification Act \[29 U.S.C. 2101 et seq.\]) determining coverage based on size, whether expressed in terms of numbers of employees, amount of business transacted, or other measure, shall not apply in determining coverage under this chapter.
 
 #### (3) Executive branch enforcement
 
 &emsp;This chapter shall not be construed to authorize enforcement by the executive branch of this chapter.
 
 (Pub. L. 104–1, title II, §225, Jan. 23, 1995, 109 Stat. 22; Pub. L. 115–397, title I, §101(d), Dec. 21, 2018, 132 Stat. 5301.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e
 #### Amendments
 
 <b>2018</b>—Subsecs. (e), (f). Pub. L. 115–397 redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "Only a covered employee who has undertaken and completed the procedures described in sections 1402 and 1403 of this title may be granted a remedy under part A of this subchapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -12,7 +12,7 @@
 
 #### legislative statements
 
-Section 552(a) is derived from the House bill and the alternative provision in the Senate amendment is rejected. Section 552(b) represents a compromise between the House bill and the Senate amendment. Proceeds coverage, but not after acquired property clauses, are valid under title 11. The provision allows the court toconsider the equities in each case. In the course of such consideration the court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party. Although this section grants a secured party a security interest in proceeds, product, offspring, rents, or profits, the section is explicitly subject to other sections of title 11. For example, the trustee or debtor in possession may use, sell, or lease proceeds, product, offspring, rents or profits under section 363.
+Section 552(a) is derived from the House bill and the alternative provision in the Senate amendment is rejected. Section 552(b) represents a compromise between the House bill and the Senate amendment. Proceeds coverage, but not after acquired property clauses, are valid under title 11. The provision allows the court to consider the equities in each case. In the course of such consideration the court may evaluate any expenditures by the estate relating to proceeds and any related improvement in position of the secured party. Although this section grants a secured party a security interest in proceeds, product, offspring, rents, or profits, the section is explicitly subject to other sections of title 11. For example, the trustee or debtor in possession may use, sell, or lease proceeds, product, offspring, rents or profits under section 363.
 
 #### senate report no. 95–989
 
@@ -28,6 +28,8 @@ Under the Uniform Commercial Code, Article 9, creditors may take security intere
 
 As a general rule, if a security agreement is entered into before the case, then property that the estate acquires is not subject to the security interest created by the security agreement. Subsection (b) provides the only exception. If the security agreement extends to proceeds, product, offspring, rents, or profits of property that the debtor had before the commencement of the case, then the proceeds, etc., continue to be subject to the security interest, except to the extent that the estate acquired the proceeds to the prejudice of other creditors holding unsecured claims. "Extends to" as used here would include an automatically arising security interest in proceeds, as permitted under the 1972 version of the Uniform Commercial Code, as well as an interest in proceeds specifically designated, as required under the 1962 Code or similar statutes covering property not covered by the Code. "Prejudice" is not intended to be a broad term here, but is designed to cover the situation where the estate expends funds that result in an increase in the value of collateral. The exception is to cover the situation where raw materials, for example, are converted into inventory, or inventory into accounts, at some expense to the estate, thus depleting the fund available for general unsecured creditors. The term "proceeds" is not limited to the technical definition of that term in the U.C.C., but covers any property into which property subject to the security interest is converted.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(1). Pub. L. 109–8 substituted "products" for "product" in two places.
@@ -36,13 +38,15 @@ As a general rule, if a security agreement is entered into before the case, then
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353 inserted "522," after "506(c),", substituted "an entity entered" for "a secured party enter", and substituted "except to any extent" for "except to the extent".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

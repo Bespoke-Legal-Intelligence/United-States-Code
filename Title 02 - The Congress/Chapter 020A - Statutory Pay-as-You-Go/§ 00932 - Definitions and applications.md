@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(B) For purposes of these definitions, off-budget effects shall not be counted as budgetary effects.
 
-&emsp;(C) Solely for purposes of recording entries on a PAYGO scorecard, provisions in appropriation Acts are also considered to be budgetary effects for purposes of this chapter ifsuch provisions make outyear modifications to substantive law, except that provisions for which the outlay effects net to zero over a period consisting of the current year, the budget year, and the 4 subsequent years shall not be considered budgetary effects. For purposes of this paragraph, the term, "modifications to substantive law" refers to changes to or restrictions on entitlement law or other mandatory spending contained in appropriations Acts, notwithstanding section 250(c)(8) of BBEDCA \[2 U.S.C. 900(c)(8)\]. Provisions in appropriations Acts that are neither outyear modifications to substantive law nor changes in revenues have no budgetary effects for purposes of this chapter.
+&emsp;(C) Solely for purposes of recording entries on a PAYGO scorecard, provisions in appropriation Acts are also considered to be budgetary effects for purposes of this chapter if such provisions make outyear modifications to substantive law, except that provisions for which the outlay effects net to zero over a period consisting of the current year, the budget year, and the 4 subsequent years shall not be considered budgetary effects. For purposes of this paragraph, the term, "modifications to substantive law" refers to changes to or restrictions on entitlement law or other mandatory spending contained in appropriations Acts, notwithstanding section 250(c)(8) of BBEDCA \[2 U.S.C. 900(c)(8)\]. Provisions in appropriations Acts that are neither outyear modifications to substantive law nor changes in revenues have no budgetary effects for purposes of this chapter.
 
 &emsp;(5) The term "debit" refers to the net total amount, when positive, by which costs recorded on the PAYGO scorecards for a fiscal year exceed savings recorded on those scorecards for that year.
 
@@ -27,6 +27,8 @@ As used in this chapter—
 &emsp;(8) The term "timing shift" refers to a delay of the date on which outlays flowing from direct spending would otherwise occur from the ninth outyear to the tenth outyear or an acceleration of the date on which revenues would otherwise occur from the tenth outyear to the ninth outyear.
 
 (Pub. L. 111–139, title I, §3, Feb. 12, 2010, 124 Stat. 8.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

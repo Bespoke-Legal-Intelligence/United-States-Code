@@ -24,7 +24,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat. 730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
+Based on title 28, U.S.C., 1940 ed., §184 (Mar. 3, 1911, ch. 231, §103, 36 Stat. 1123; Mar. 3, 1913, ch. 113, 37 Stat.730; June 6, 1914, ch. 104, 38 Stat. 385; Sept. 9, 1914, ch. 296, 38 Stat. 713; Apr. 26, 1926, ch. 185, 44 Stat. 324; June 27, 1930, ch. 634, 46 Stat. 820; Aug. 3, 1935, ch. 433, 49 Stat. 514; May 13, 1936, ch. 385, 49 Stat. 1271; June 13, 1938, ch. 351, 52 Stat. 674; Mar. 5, 1942, ch. 143, 56 Stat. 132).
 
 Provisions relating to maintenance of offices at certain places by the clerks and marshals were omitted as covered by sections 541 \[see 561\] and 751 of this title.
 
@@ -40,6 +40,8 @@ Changes were made in phraseology and arrangement.
 
 By Senate amendment to the bill, Blair County was transferred from the Middle District to the Western District of Pennsylvania. This was in conformity with Act July 11, 1947, ch. 224, 61 Stat. 310, which so amended section 184 of title 28, U.S.C., 1940 ed., the source of this section. See 80th Congress Senate Report No. 1559.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted "and Philadelphia" for "Philadelphia, and Schuylkill".
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 105–277, §101(b) \[title VI, §624(a)(2)\], inserted "Sc
 <b>1978</b>—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

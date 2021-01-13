@@ -12,7 +12,7 @@ For purposes of this subpart, the term "subpart F income" means, in the case of 
 
 &emsp;&emsp;(A) the income of such corporation other than income which—
 
-&emsp;&emsp;&emsp;(i) is attributable to earnings and profits of the foreign corporation included in the gross income of a United States person under section 951 (other than by reason of this paragraph), or
+&emsp;&emsp;&emsp;(i) is attributable to earnings and profits of the foreign corporation included in thegross income of a United States person under section 951 (other than by reason of this paragraph), or
 
 &emsp;&emsp;&emsp;(ii) is described in subsection (b),
 
@@ -52,7 +52,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 &emsp;&emsp;&emsp;&emsp;(II) has not previously been taken into account under this subparagraph.
 
-&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of thepreceding sentence shall apply, except that "1982" shall be substituted for "1962".
+&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of the preceding sentence shall apply, except that "1982" shall be substituted for "1962".
 
 #### (iii) Qualified activity
 
@@ -86,7 +86,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;An election may be made under this clause to have section 953(a) applied for purposes of this title without regard to the same country exception under paragraph (1)(A) thereof. Such election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;&emsp;&emsp;An election may be made under this clause to have section 953(a) applied for purposes of this title without regard to the same country exception under paragraph (1)(A) thereof. Such election, oncemade, may be revoked only with the consent of the Secretary.
 
 #### (II) Special rules for affiliated groups
 
@@ -116,7 +116,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (3) Special rule for determining earnings and profits
 
-&emsp;For purposes of this subsection, earnings and profits of any controlled foreign corporation shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earningsand profits by an amount which was previously distributed by the controlled foreign corporation.
+&emsp;For purposes of this subsection, earnings and profits of any controlled foreign corporation shall be determined without regard to paragraphs (4), (5), and (6) of section 312(n). Under regulations, the preceding sentence shall not apply to the extent it would increase earnings and profits by an amount which was previously distributed by the controlled foreign corporation.
 
 #### (d) Income derived from foreign country
 
@@ -210,7 +210,7 @@ Pub. L. 105–34, title XI, §1112(c)(2), Aug. 5, 1997, 111 Stat. 970, provided 
 
 Amendment by section 1012(i)(16), (22)–(25)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\]."
+Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\]."
 
 #### Effective Date of 1986 Amendments
 

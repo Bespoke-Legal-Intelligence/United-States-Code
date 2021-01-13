@@ -212,7 +212,7 @@ Authorization of Appropriations.—There are authorized to be appropriated—
 
 #### Desalination Research, Studies, and Demonstration Projects
 
-Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865; Pub. L. 114–322, title III, §§3801, 4009(a), Dec. 16, 2016, 130 Stat. 1846, 1867, provided that:
+Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865; Pub. L. 114–322, title III, §§3801, 4009(a), Dec. 16, 2016, 130 Stat. 1846, 1867; Pub. L. 116–260, div. FF, title XI, §1112, Dec. 27, 2020, 134 Stat. 3251, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -236,7 +236,7 @@ United states.—The term 'United States' means the States of the United States,
 
 &emsp;"(4)
 
-Usable water.—The term 'usable water' means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal,and other beneficial consumptive or nonconsumptive uses.
+Usable water.—The term 'usable water' means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal, and other beneficial consumptive or nonconsumptive uses.
 
 &emsp;"(5)
 
@@ -246,7 +246,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 "(a)
 
-In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter into contracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
+In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter intocontracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
 
 &emsp;"(1) investigating desalination processes;
 
@@ -302,7 +302,7 @@ In General.—In order to further demonstrate the feasibility of desalination pr
 
 &emsp;"(1)
 
-Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts.
+Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts, including modules specifically designed for brine management.
 
 &emsp;"(1) \[sic, probably should be "(2)"\]
 
@@ -408,7 +408,7 @@ Section 3.—There are authorized to be appropriated to carry out section 3 of t
 
 "(b)
 
-Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $3,000,000 for each of fiscal years 2017 through 2021.
+Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $20,000,000 for each of fiscal years 2022 through 2026, in addition to the authorization of appropriations for projects in section 4(a)(2)(F).
 
 #### "SEC. 9. CONSULTATION AND COORDINATION.
 
@@ -568,9 +568,9 @@ Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through Se
 
 &emsp;" '(5) $600,000 for the purposes of section 306.
 
-" '(b) Funds made available under this title for distribution to the States of the High Plains region shallbe distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
+" '(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18thitems on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Desalting Plants
 

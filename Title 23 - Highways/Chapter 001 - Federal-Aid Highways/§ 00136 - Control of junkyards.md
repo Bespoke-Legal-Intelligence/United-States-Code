@@ -24,13 +24,15 @@
 
 (l) Nothing in this section shall prohibit a State from establishing standards imposing stricter limitations with respect to outdoor junkyards on the Federal-aid highway systems than those established under this section.
 
-(m) There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June 30, 1966, not to exceed $20,000,000 for the fiscal year ending June 30, 1967, not to exceed $3,000,000 for the fiscal year ending June 30, 1970, not to exceed $3,000,000 for the fiscal year ending June 30, 1971, not to exceed $3,000,000 for the fiscal year ending June 30, 1972, and not to exceed $5,000,000 for the fiscal year ending June 30, 1973. The provisions of this chapter relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967.
+(m) There is authorized to be appropriated to carry out this section, out of any money in the Treasury not otherwise appropriated, not to exceed $20,000,000 for the fiscal year ending June 30, 1966, not to exceed $20,000,000 for the fiscal year ending June 30, 1967, not to exceed $3,000,000 for the fiscal year ending June 30, 1970, not to exceed $3,000,000 for the fiscal year ending June 30, 1971, not to exceed $3,000,000 for the fiscal year ending June 30, 1972, and not to exceed $5,000,000 for the fiscal year ending June 30, 1973. The provisions of this chapter relating to theobligation, period of availability, and expenditure of Federal-aid primary highway funds shall apply to the funds authorized to be appropriated to carry out this section after June 30, 1967.
 
 (n)
 
 Definitions.—For purposes of this section, the terms "primary system" and "Federal-aid primary system" mean any highway that is on the National Highway System, which includes the Interstate Highway System.
 
 (Added Pub. L. 89–285, title II, §201, Oct. 22, 1965, 79 Stat. 1030; amended Pub. L. 89–574, §8(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, §6(e), Aug. 23, 1968, 82 Stat. 818; Pub. L. 91–605, title I, §122(b), Dec. 31, 1970, 84 Stat. 1726; Pub. L. 93–643, §110, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 112–141, div. A, title I, §1404(b), July 6, 2012, 126 Stat. 557; Pub. L. 114–94, div. A, title I, §1104(e)(4), Dec. 4, 2015, 129 Stat. 1332.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ Subsec. (n). Pub. L. 112–141, §1404(b)(2), added subsec. (n).
 <b>1968</b>—Subsec. (m). Pub. L. 90–495 inserted provision authorizing an appropriation of not to exceed $3,000,000 for the fiscal year ending June 30, 1970.
 
 <b>1966</b>—Subsec. (m). Pub. L. 89–574 substituted provisions making applicable to the funds authorized to be appropriated to carry out this section after June 30, 1967, the provisions of chapter 1 of this title relating to the obligation, period of availability, and expenditure of Federal-aid primary highway funds for provisions prohibiting the use of any part of the Highway Trust Fund in carrying out this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

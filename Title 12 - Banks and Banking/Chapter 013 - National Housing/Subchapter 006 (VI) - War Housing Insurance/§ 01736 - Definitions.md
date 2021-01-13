@@ -12,6 +12,8 @@ As used in this subchapter—
 
 (June 27, 1934, ch. 847, title VI, §601, as added Mar. 28, 1941, ch. 31, §1, 55 Stat. 55; amended Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1967</b>—Subsec. (b). Pub. L. 90–19 substituted "Secretary" for "Commissioner".
@@ -24,7 +26,9 @@ As used in this subchapter—
 
 <b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Separability
 
-Act Mar. 28, 1941, ch. 31, §9, 55 Stat. 62, provided that: "If any provision of this Act \[enacting sections 1736 to 1742 of this title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707, 1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."
+Act Mar. 28, 1941, ch. 31, §9, 55 Stat. 62, provided that: "If any provision of this Act \[enacting sections 1736 to1742 of this title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707, 1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."
 

@@ -18,6 +18,8 @@ This section shall not apply to any overseas public diplomacy post closed—
 
 (Jan. 27, 1948, ch. 36, title VIII, §812, as added Pub. L. 102–138, title II, §206(a), Oct. 28, 1991, 105 Stat. 693; amended Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(a)(5), Oct. 21, 1998, 112 Stat. 2681–787.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, which was set out as a note under section 1461 of this title prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693.
@@ -32,11 +34,13 @@ Subsec. (b). Pub. L. 105–277, §1335(a)(5)(A), (C), substituted "overseas publ
 
 Subsec. (c). Pub. L. 105–277, §1335(a)(5)(A), substituted "overseas public diplomacy post" for "United States Information Agency post" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 #### Reductions in American Employees
 
-Pub. L. 102–138, title II, §206(b), Oct. 28, 1991, 105 Stat. 693, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency atsame time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
+Pub. L. 102–138, title II, §206(b), Oct. 28, 1991, 105 Stat. 693, which provided that reductions could not be made in number of American employees of United States Information Agency stationed abroad until number of such employees was same percentage of total number of American employees of Agency as number of American employees of Agency stationed abroad in 1981 was to total number of American employees at Agency at same time in 1981, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(4), Oct. 21, 1998, 112 Stat. 2681–790.
 

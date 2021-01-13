@@ -22,7 +22,7 @@ The information required under this subsection shall include—
 
 #### (1) In general
 
-&emsp;The electing Settlement Trust shall, on or before the date on which the statement under subsection (a) is required to be filed, furnish such statement to the sponsoring Native Corporation (as so defined).
+&emsp;The electing Settlement Trust shall, on or before the date on which the statement undersubsection (a) is required to be filed, furnish such statement to the sponsoring Native Corporation (as so defined).
 
 #### (2) Distributees
 

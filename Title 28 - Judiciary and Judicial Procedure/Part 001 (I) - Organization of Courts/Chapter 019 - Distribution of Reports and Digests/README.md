@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–164, title I, §113, Apr. 2, 1982, 96 Stat. 29, struck out item 415 "Court of Claims decisions".

@@ -32,7 +32,9 @@
 
 (2) Nothing in this subchapter shall be construed to abrogate or constitute a waiver of the sovereign immunity of the United States with respect to any loan, financing, or other financial agreement entered into by the lessee and a third party relating to an enhanced-use lease.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, §211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, §601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930; Pub. L. 115–182, title II, §212, June 6, 2018, 132 Stat. 1461.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub.L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, §224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, §211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, §601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930; Pub. L. 115–182, title II, §212, June 6, 2018, 132 Stat. 1461.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -40,7 +42,7 @@ Section 421(b) of the Veterans' Benefits and Services Act of 1988, referred to i
 
 Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
-No act with the title "Los Angeles Homeless Veterans Leasing Act of 2016", referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled "Los Angeles Homeless Veterans Leasing Act of 2016", wasintroduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the "West Los Angeles Leasing Act of 2016". Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
+No act with the title "Los Angeles Homeless Veterans Leasing Act of 2016", referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled "Los Angeles Homeless Veterans Leasing Act of 2016", was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the "West Los Angeles Leasing Act of 2016". Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
 
 #### Amendments
 
@@ -110,6 +112,8 @@ Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted "may not exceed 75 y
 
 Subsec. (b)(4). Pub. L. 106–117, §208(b)(2), added par. (4) and struck out former par. (4) which read as follows: "Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112—154, title II, §211(b)(2), Aug. 6, 2012, 126 Stat. 1180, provided that:
@@ -122,7 +126,7 @@ In general.—Paragraph (2) of section 8162(a) of title 38, United States Code, 
 
 Previous leases.—Any enhanced-use lease that the Secretary has entered into prior to the date described in subparagraph (A) shall be subject to the provisions of subchapter V of chapter 81 of such title, as in effect on the day before the date of the enactment of this Act \[Aug. 6, 2012\]."
 
-Pub. L. 112—154, title II, §211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: "Paragraph (3) of section8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date."
+Pub. L. 112—154, title II, §211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: "Paragraph (3) of section 8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date."
 
 #### Effective Date of 2007 Amendment
 

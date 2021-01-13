@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—GENERAL
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, redesignated "SUBCHAPTER III—GENERAL" as "SUBCHAPTER IV—GENERAL".

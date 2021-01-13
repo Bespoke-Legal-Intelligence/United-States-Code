@@ -10,7 +10,7 @@
 | [<b>137.</b>](Chapter%20137%20-%20Procurement%20Generally/README.md) | <b>Procurement Generally</b> | <b>2301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md) | <b>Cooperative Agreements with NATO Allies and Other Countries</b> | <b>2341</b> |
 | [<b>139.</b>](Chapter%20139%20-%20Research%20and%20Development/README.md) | <b>Research and Development</b> | <b>2351</b> |
-| [<b>140.</b>](Chapter%20140%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>2377 </b><b><sup>1</sup></b> |
+| [<b>140.</b>](Chapter%20140%20-%20Procurement%20of%20Commercial%20Products%20and%20Commercial%20Services/README.md) | <b>Procurement of Commercial Products and Commercial Services</b> | <b>2375.</b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,7 +45,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(a), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4159, 4195, 4273, 4289, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:</i>
+
+<i>(1) by amending part heading to read "SERVICE, SUPPLY, AND PROPERTY";</i>
+
+<i>(2) by striking items for chapters 137, 139, 140, 142, 144, 144B, 148, and 149; and</i>
+
+<i>(3) by amending item for chapter 141 to read "Miscellaneous Provisions Relating to Property".</i>
+
+<i>See 2021 Amendment note below.</i>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(a), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4195, 4273, 4289, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading for part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141 and struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and IndustrialBase, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System".
+
+Pub. L. 116–283, div. A, title X, §1081(a)(3), Jan. 1, 2021, 134 Stat. 3870, substituted "2375." for "2377" in item for chapter 140.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140.
 
@@ -77,7 +93,7 @@ Pub. L. 104–106, div. A, title X, §1061(b)(2), Feb. 10, 1996, 110 Stat. 442, 
 
 <b>1992</b>—Pub. L. 102–484, div. D, title XLII, §4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 "Defense Industrial Base", 149 "Manufacturing Technology", and 150 "Development of Dual-Use Critical Technologies".
 
-<b>1991</b>—Pub. L. 102–190, div. A, title VIII, §821(f), title X, §1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted "Manufacturing" for "Maufacturing" in item for chapter 149, substituted "Development of Dual-Use Critical Technologies" for "Issue to Armed Forces" in item for chapter 150, struck out item for chapter 151"Issue of Serviceable Material Other Than to Armed Forces", and added item for chapter 152.
+<b>1991</b>—Pub. L. 102–190, div. A, title VIII, §821(f), title X, §1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted "Manufacturing" for "Maufacturing" in item for chapter 149, substituted "Development of Dual-Use Critical Technologies" for "Issue to Armed Forces" in item for chapter 150, struck out item for chapter 151 "Issue of Serviceable Material Other Than to Armed Forces", and added item for chapter 152.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title VIII, §823(b)(1), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1602, 1757, added item for chapter 149, redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
@@ -103,7 +119,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 
 <b>1980</b>—Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "2375".</i>
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

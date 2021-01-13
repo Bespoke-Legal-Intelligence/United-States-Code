@@ -90,6 +90,8 @@ The Capitol Visitor Center shall be used—
 
 (Pub. L. 110–437, title I, §101, Oct. 20, 2008, 122 Stat. 4984.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Provisions under the heading "Capitol Visitor Center" in chapter 5 of title II of division B of Public Law 105–277, 112 Stat. 2681–569, referred to in subsec. (a), are not classified to the Code.
@@ -99,6 +101,8 @@ Provisions under the headings "Capitol Visitor Center" and "ARCHITECT OF THE CAP
 #### Codification
 
 Section is comprised of section 101 of Pub. L. 110–437. Subsec. (e) of section 101 of Pub. L. 110–437 repealed section 2165 of this title. Subsec. (f)(2) of section 101 of Pub. L. 110–437 amended section 2134 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

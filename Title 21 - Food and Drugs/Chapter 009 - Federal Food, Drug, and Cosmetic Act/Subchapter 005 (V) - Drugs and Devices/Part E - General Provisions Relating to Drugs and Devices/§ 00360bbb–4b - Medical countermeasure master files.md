@@ -46,7 +46,7 @@
 
 #### (2) Certain applications
 
-&emsp;If the Secretary has reviewed and relied upon specified data or information within a medical countermeasure master file to support the conditional approval of an application under section 360ccc of this title to subsequently support the approval, clearance, licensure, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product, the Secretary shall provide a brief written description to the master file holder regarding the elements of the application fulfilled by the data or information within the master file and how such data or information contained in such application meets the standards of evidence under subsection (c) or (d) of section 355 of thistitle, subsection (d) of section 360b of this title, or section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable), which shall not include any trade secret or confidential commercial information.
+&emsp;If the Secretary has reviewed and relied upon specified data or information within a medical countermeasure master file to support the conditional approval of an application under section 360ccc of this title to subsequently support the approval, clearance, licensure, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product, the Secretary shall provide a brief written description to the master file holder regarding the elements of the application fulfilled by the data or information within the master file and how such data or information contained in such application meets the standards of evidence under subsection (c) or (d) of section 355 of this title, subsection (d) of section 360b of this title, or section 351 of the Public Health Service Act \[42 U.S.C. 262\] (as applicable), which shall not include any trade secret or confidential commercial information.
 
 #### (e) Rules of construction
 
@@ -64,7 +64,7 @@ In this section:
 
 &emsp;(1) The term "master file holder" means a person who submits data and information to the Secretary with the intent to reference or authorize another person to reference such data or information to support a medical countermeasure submission, as described in subsection (a).
 
-&emsp;(2) The term "medical countermeasure submission" means an investigational new drug application under section 355(i) of this title, a new drug application under section 355(b) of this title, or an abbreviated new drug application under section 355(j) of this title, a biological product license application under section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] or a biosimilar biological product license application under section 351(k) of the Public Health Service Act \[42 U.S.C. 262(k)\], a new animal drug application under section 360b(b)(1) of this title or abbreviated new animal drug application under section 360b(b)(2) of this title, an application for conditional approval of a new animal drug under section 360ccc of this title, an investigational device application under section 360j(g) of this title, an application with respect to a device under section 360e(c) of this title, a request for classification of a device under section 360c(f)(2) of this title, a notification with respect to a device under section 360(k) of this title, or a request for an emergency use authorization under section 360bbb–3 of this title to support—
+&emsp;(2) The term "medical countermeasure submission" means an investigational new drug application under section 355(i) of this title, a new drug application under section 355(b) of this title, or an abbreviated new drug application under section 355(j) of this title, a biological product license application under section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] or a biosimilar biological product license application under section 351(k) of the Public Health Service Act \[42 U.S.C. 262(k)\], a new animal drug application under section 360b(b)(1) of this title or abbreviatednew animal drug application under section 360b(b)(2) of this title, an application for conditional approval of a new animal drug under section 360ccc of this title, an investigational device application under section 360j(g) of this title, an application with respect to a device under section 360e(c) of this title, a request for classification of a device under section 360c(f)(2) of this title, a notification with respect to a device under section 360(k) of this title, or a request for an emergency use authorization under section 360bbb–3 of this title to support—
 
 &emsp;&emsp;(A) the approval, licensure, classification, clearance, conditional approval, or authorization of a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product; or
 
@@ -74,11 +74,15 @@ In this section:
 
 (June 25, 1938, ch. 675, §565B, as added Pub. L. 116–22, title VI, §603(b), June 24, 2019, 133 Stat. 953.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (e), is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter (§301 et seq.). For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (e)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Medical Countermeasure Master Files
 

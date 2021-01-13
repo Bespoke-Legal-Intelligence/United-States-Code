@@ -12,7 +12,7 @@
 
 &emsp;(D) conducting demonstration projects to determine the cost effectiveness of conservation measures and direct application of renewable energy resources.
 
-(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i)of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
+(2) In addition to acquiring electric power pursuant to section 839c(c) of this title, or on a short-term basis pursuant to section 11(b)(6)(i) of the Federal Columbia River Transmission System Act \[16 U.S.C. 838i(b)(6)(i)\], the Administrator shall acquire, in accordance with this section, sufficient resources—
 
 &emsp;(A) to meet his contractual obligations that remain after taking into account planned savings from measures provided for in paragraph (1) of this subsection, and
 
@@ -114,7 +114,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (1) If a customer so requests, the Administrator shall grant billing credits to such customer, and provide services to such customer at rates established for such services, for—
 
-&emsp;(A) conservation activities independently undertaken or continued after December 5, 1980, by such customer or political subdivision served by such customer which reduce the obligation of the Administrator that would otherwise have existed to acquire other resources under this chapter, or
+&emsp;(A) conservation activities independently undertaken or continued after December 5, 1980, by such customer or political subdivisionserved by such customer which reduce the obligation of the Administrator that would otherwise have existed to acquire other resources under this chapter, or
 
 &emsp;(B) resources constructed, completed, or acquired after December 5, 1980, by a customer, an entity acting on behalf of such customer, or political subdivision served by the customer which reduce the obligation of the Administrator to acquire resources under this chapter. Such resources shall be renewable resources or multipurpose projects or other resources which are not inconsistent with the plan or, in the absence of a plan, not inconsistent with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
@@ -150,13 +150,13 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
-(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received fromthe sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
+(1) All contractual and other obligations required to be carried out by the Administrator pursuant to this chapter shall be secured solely by the Administrator's revenues received from the sale of electric power and other services. Such obligations are not, nor shall they be construed to be, general obligations of the United States, nor are such obligations intended to be or are they secured by the full faith and credit of the United States.
 
 (2) All contracts entered into by the Administrator for the acquisition of resources pursuant to this chapter shall require that, in the sale of any obligations, all offerings and promotional material for the sale of such obligations shall include the language contained in the second sentence of paragraph (1) of this subsection. The Administrator shall monitor and enforce such requirement.
 
 #### (k) Equitable distribution of benefits
 
-In the exercise of his authorities pursuant to this section, the Administrator shall, consistent with the provisions of this chapter and the Administrator's obligations to particular customer classes, insure that benefits under this section, including financial and technical assistance, conduct of conservation demonstrations, and experimental projects, services, and billing credits, are distributed equitably throughout the region.
+In the exercise of his authorities pursuant to this section, the Administrator shall, consistentwith the provisions of this chapter and the Administrator's obligations to particular customer classes, insure that benefits under this section, including financial and technical assistance, conduct of conservation demonstrations, and experimental projects, services, and billing credits, are distributed equitably throughout the region.
 
 #### (l) Investigations
 

@@ -12,9 +12,13 @@
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1212; amended Pub. L. 98–224, §4, Mar. 2, 1984, 98 Stat. 48.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–224 amended subsec. (b) generally, substituting "beginning on the date the award is served on the party" for "beginning on the date of such award".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

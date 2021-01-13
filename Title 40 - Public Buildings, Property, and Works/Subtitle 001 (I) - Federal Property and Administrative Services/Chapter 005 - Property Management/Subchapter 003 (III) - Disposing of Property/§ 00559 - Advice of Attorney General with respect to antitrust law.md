@@ -76,6 +76,8 @@ June 30, 1949, ch. 288, title II, §207, 63 Stat. 391; Pub. L. 85–680, Aug. 19
 
 In subsection (e), the words "the head of an executive agency" are substituted for "the Administrator or any other executive agency", the words "or cause to be furnished" are omitted, and the words "information the agency possesses" are substituted for "such information as the Administrator or such other executive agency may possess", to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sherman Act, referred to in subsec. (a)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.

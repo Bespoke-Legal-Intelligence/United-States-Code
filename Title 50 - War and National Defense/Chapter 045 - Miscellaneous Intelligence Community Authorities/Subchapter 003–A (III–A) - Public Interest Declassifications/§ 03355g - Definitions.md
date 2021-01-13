@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (3) Declassification
 
-&emsp;The term "declassification" means the process by which records or materials that have been classified are determined no longer to require protection from unauthorized disclosure to protect the national security of the United States.
+&emsp;The term "declassification" means the process by which records or materials that havebeen classified are determined no longer to require protection from unauthorized disclosure to protect the national security of the United States.
 
 #### (4) Donated historical material
 

@@ -4,6 +4,8 @@ Federal reserve notes, to be issued at the discretion of the Board of Governors 
 
 (Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 265; Jan. 30, 1934, ch. 6, §2(b)(1), 48 Stat. 337; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Phrase "hereinafter set forth" is from section 16 of the Federal Reserve Act, act Dec. 23, 1913. Reference probably means as set forth in sections 17 et seq. of the Federal Reserve Act. For classification of these sections to the Code, see Tables.
@@ -19,6 +21,8 @@ Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to
 #### Amendments
 
 <b>1934</b>—Act Jan. 30, 1934, struck out from last sentence provision permitting redemption in gold.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

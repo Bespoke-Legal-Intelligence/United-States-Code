@@ -14,7 +14,7 @@ The Commission may at any time require any such carrier to file with the Commiss
 
 #### (d) Easement, license or franchise
 
-Nothing shall be included in the original cost reported for the property of any carrier under subsection (c) of this section on account of any easement, license, or franchise granted by the United States or by any State or political subdivision thereof, beyond the reasonable necessary expense lawfully incurred in obtainingsuch easement, license, or franchise from the public authority aforesaid, which expense shall be reported separately from all other costs in such detail as the Commission may require; and nothing shall be included in any valuation of the property of any carrier made by the Commission on account of any such easement, license, or franchise, beyond such reasonable necessary expense lawfully incurred as aforesaid.
+Nothing shall be included in the original cost reported for the property of any carrier under subsection (c) of this section on account of any easement, license, or franchise granted by the United States or by any State or political subdivision thereof, beyond the reasonable necessary expense lawfully incurred in obtaining such easement, license, or franchise from the public authority aforesaid, which expense shall be reported separately from all other costs in such detail as the Commission may require; and nothing shall be included in any valuation of the property of any carrier made by the Commission on account of any such easement, license, or franchise, beyond such reasonable necessary expense lawfully incurred as aforesaid.
 
 #### (e) Improvements; changes in condition
 
@@ -29,6 +29,8 @@ For the purpose of enabling the Commission to make a valuation of any of the pro
 Nothing in this section shall impair or diminish the powers of any State commission.
 
 (June 19, 1934, ch. 652, title II, §213, 48 Stat. 1074; Pub. L. 103–414, title III, §304(a)(3), Oct. 25, 1994, 108 Stat. 4296.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

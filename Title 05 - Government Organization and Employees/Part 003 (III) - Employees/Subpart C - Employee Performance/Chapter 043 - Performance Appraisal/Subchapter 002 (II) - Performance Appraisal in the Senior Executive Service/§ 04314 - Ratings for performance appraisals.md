@@ -38,9 +38,13 @@
 
 (Added Pub. L. 95–454, title IV, §405(a), Oct. 13, 1978, 92 Stat. 1169; amended Pub. L. 104–66, title II, §2181(b), Dec. 21, 1995, 109 Stat. 732.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–66 struck out subsec. (d) which related to reports to Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

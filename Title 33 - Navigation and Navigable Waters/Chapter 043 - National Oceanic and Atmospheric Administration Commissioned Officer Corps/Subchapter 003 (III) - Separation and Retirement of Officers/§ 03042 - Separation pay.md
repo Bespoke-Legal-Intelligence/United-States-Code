@@ -22,9 +22,23 @@ An officer who is separated under section 3041(a)(2) of this title and who has c
 
 The provisions of subsections (f), (g), and (h) of section 1174 of title 10 shall apply to separation pay under this section in the same manner as such provisions apply to separation pay under that section.
 
-(Pub. L. 107–372, title II, §242, Dec. 19, 2002, 116 Stat. 3088.)
+#### (d) Exception
+
+An officer discharged for twice failing selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer—
+
+&emsp;(1) expresses a desire not to be selected for promotion; or
+
+&emsp;(2) requests removal from the list of selectees.
+
+(Pub. L. 107–372, title II, §242, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, §402, Dec. 23, 2020, 134 Stat. 1178.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 853h of this title prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+
+<b>2020</b>—Subsec. (d). Pub. L. 116–259 added subsec. (d).
 

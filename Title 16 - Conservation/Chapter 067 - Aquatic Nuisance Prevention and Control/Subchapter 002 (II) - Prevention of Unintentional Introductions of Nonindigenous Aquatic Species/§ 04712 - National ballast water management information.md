@@ -60,7 +60,7 @@
 
 #### (3) Columbia River
 
-&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of theStates affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
+&emsp;The Secretary, in cooperation with the Task Force and academic institutions in each of the States affected, shall conduct an ecological and ballast water discharge survey of the Columbia River system consistent with the requirements of paragraphs (1) and (2).
 
 #### (c) Reports
 

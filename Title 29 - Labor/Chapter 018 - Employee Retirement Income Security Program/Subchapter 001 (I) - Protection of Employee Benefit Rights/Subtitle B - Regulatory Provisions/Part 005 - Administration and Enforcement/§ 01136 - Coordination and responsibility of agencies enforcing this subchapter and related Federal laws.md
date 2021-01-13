@@ -6,13 +6,15 @@ In order to avoid unnecessary expense and duplication of functions among Governm
 
 #### (b) Responsibility for detecting and investigating civil and criminal violations of this subchapter and related Federal laws
 
-The Secretary shall have the responsibility and authority to detect and investigate and refer, where appropriate, civil and criminal violations related to the provisions of this subchapter and other related Federal laws, including the detection, investigation, and appropriate referrals of related violations of title 18. Nothing in this subsection shall be construed to preclude other appropriate Federal agencies from detecting and investigating civil and criminalviolations of this subchapter and other related Federal laws.
+The Secretary shall have the responsibility and authority to detect and investigate and refer, where appropriate, civil and criminal violations related to the provisions of this subchapter and other related Federal laws, including the detection, investigation, and appropriate referrals of related violations of title 18. Nothing in this subsection shall be construed to preclude other appropriate Federal agencies from detecting and investigating civil and criminal violations of this subchapter and other related Federal laws.
 
 #### (c) Coordination of enforcement with States with respect to certain arrangements
 
 A State may enter into an agreement with the Secretary for delegation to the State of some or all of the Secretary's authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of section 1191b(a)(2) of this title), which are not group health plans.
 
 (Pub. L. 93–406, title I, §506, Sept. 2, 1974, 88 Stat. 894; Pub. L. 98–473, title II, §805, Oct. 12, 1984, 98 Stat. 2134; Pub. L. 104–191, title I, §101(e)(3), Aug. 21, 1996, 110 Stat. 1953; Pub. L. 104–204, title VI, §603(b)(3)(F), Sept. 26, 1996, 110 Stat. 2938.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ A State may enter into an agreement with the Secretary for delegation to the Sta
 Pub. L. 104–191 added subsec. (c).
 
 <b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a), added subsec. (b), and amended section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendments
 

@@ -20,7 +20,7 @@ Subject to the availability of appropriations for this purpose, the Corporation 
 
 #### (3) Consultation with State Commissions
 
-&emsp;A Federal agency carrying out or supporting a national service program shall consult with the State Commissions for those States inwhich projects will be conducted through that program in order to ensure that the projects do not duplicate projects conducted by State or local national service programs.
+&emsp;A Federal agency carrying out or supporting a national service program shall consult with the State Commissions for those States in which projects will be conducted through that program in order to ensure that the projects do not duplicate projects conducted by State or local national service programs.
 
 #### (4) Support for other national service programs
 
@@ -146,7 +146,7 @@ Subsec. (a)(1), (2). Pub. L. 111–13, §1301(1)(B), substituted "subsection (a)
 
 Subsec. (b). Pub. L. 111–13, §1301(2)(A), substituted "Restrictions on agreements with Federal agencies" for "Agreements with Federal agencies" in heading.
 
-Subsec. (b)(1). Pub. L. 111–13, §1301(2)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Corporation may enter into a contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division."
+Subsec. (b)(1). Pub. L. 111–13, §1301(2)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Corporation may enter intoa contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division."
 
 Subsec. (b)(2). Pub. L. 111–13, §1301(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance."
 
@@ -178,9 +178,11 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 #### Overall Minimum Share Requirement
 
-Pub. L. 116–94, div. A, title IV, §402, Dec. 20, 2019, 133 Stat. 2599, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
+Pub. L. 116–260, div. H, title IV, §402, Dec. 27, 2020, 134 Stat. 1614, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. A, title IV, §402, Dec. 20, 2019, 133 Stat. 2599.
 
 Pub. L. 115–245, div. B, title IV, §402, Sept. 28, 2018, 132 Stat. 3110.
 

@@ -10,9 +10,13 @@ Based on section 300a of title 5, U.S.C., 1940 ed., Executive Departments and Go
 
 Section 300a of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, was used as the basis for this section and section 3052 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Jan. 10, 1951, included within its provisions the Associate Director and the Assistant to the Director.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

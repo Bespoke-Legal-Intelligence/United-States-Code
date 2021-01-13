@@ -84,6 +84,8 @@ For the purpose of this section, the term "United States person" means a United 
 
 (Pub. L. 103–236, title V, §527, Apr. 30, 1994, 108 Stat. 475; Pub. L. 108–447, div. D, title V, §584(c), Dec. 8, 2004, 118 Stat. 3032.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 382, known as the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2651 of this title and Tables.
@@ -94,11 +96,13 @@ The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oc
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, and notas part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (i). Pub. L. 108–447 added subsec. (i).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Responsibilities Under Foreign Relations Authorization Act, Fiscal Years 1994 and 1995
 

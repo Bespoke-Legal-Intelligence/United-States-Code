@@ -20,6 +20,8 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §1(last par.); added Dec. 24, 1980, Pub. 
 
 The words "interest rate" are added for consistency in the chapter and with 26:405(b) and 409(a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 405(b) and 409(a) of the Internal Revenue Code of 1954 (26 U.S.C. 405(b), 409(a)), referred to in text, were repealed by Pub. L. 98–369, div. A, title IV, §491(a), (b), July 18, 1984, 98 Stat. 848.
@@ -29,6 +31,8 @@ Enactment of the Tax Reform Act of 1984, referred to in text, means the date of 
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–369 inserted ", as in effect before the enactment of the Tax Reform Act of 1984" after "(26 U.S.C. 405(b), 409(a))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

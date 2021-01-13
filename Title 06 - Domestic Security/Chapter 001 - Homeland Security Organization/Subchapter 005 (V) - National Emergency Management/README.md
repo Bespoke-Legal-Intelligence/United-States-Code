@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 109–295, title VI, §611(1), Oct. 4, 2006, 120 Stat. 1395, substituted "NATIONAL EMERGENCY MANAGEMENT" for "EMERGENCY PREPAREDNESS AND RESPONSE" in subchapter heading.
@@ -39,3 +41,4 @@ Pub. L. 109–295, title VI, §611(1), Oct. 4, 2006, 120 Stat. 1395, substituted
 - [&sect; 00321o&#8211;1 - Integrated public alert and warning system](%C2%A7%2000321o%E2%80%931%20-%20Integrated%20public%20alert%20and%20warning%20system.md)
 - [&sect; 00321p - National planning and education](%C2%A7%2000321p%20-%20National%20planning%20and%20education.md)
 - [&sect; 00321q - Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism](%C2%A7%2000321q%20-%20Coordination%20of%20Department%20of%20Homeland%20Security%20efforts%20related%20to%20food%2C%20agriculture%2C%20and%20veterinary%20defense%20against%20terrorism.md)
+- [&sect; 00322 - Continuity of the economy plan](%C2%A7%2000322%20-%20Continuity%20of%20the%20economy%20plan.md)

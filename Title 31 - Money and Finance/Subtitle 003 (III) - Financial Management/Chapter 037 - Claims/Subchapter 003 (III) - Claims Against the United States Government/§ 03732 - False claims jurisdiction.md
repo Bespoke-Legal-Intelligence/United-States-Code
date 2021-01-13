@@ -10,9 +10,11 @@ Claims Under State Law.—The district courts shall have jurisdiction over any a
 
 (c)
 
-Service on State or Local Authorities.—With respect to any State or local government that is named as a co-plaintiff with the United States in an action brought under subsection (b), a seal on the action ordered by the court under section 3730(b) shall not preclude the Government or the person bringing the action from serving the complaint, any other pleadings, or the written disclosure of substantially all material evidence and information possessed by the person bringing the action on the law enforcement authorities that are authorized under the law of that State or local government to investigate and prosecute such actions on behalf of such governments, except that such seal appliesto the law enforcement authorities so served to the same extent as the seal applies to other parties in the action.
+Service on State or Local Authorities.—With respect to any State or local government that is named as a co-plaintiff with the United States in an action brought under subsection (b), a seal on the action ordered by the court under section 3730(b) shall not preclude the Government or the person bringing the action from serving the complaint, any other pleadings, or the written disclosure of substantially all material evidence and information possessed by the person bringing the action on the law enforcement authorities that are authorized under the law of that State or local government to investigate and prosecute such actions on behalf of such governments, except that such seal applies to the law enforcement authorities so served to the same extent as the seal applies to other parties in the action.
 
 (Added Pub. L. 99–562, §6(a), Oct. 21, 1986, 100 Stat. 3158; amended Pub. L. 111–21, §4(e), May 20, 2009, 123 Stat. 1625.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 #### Amendments
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–21 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

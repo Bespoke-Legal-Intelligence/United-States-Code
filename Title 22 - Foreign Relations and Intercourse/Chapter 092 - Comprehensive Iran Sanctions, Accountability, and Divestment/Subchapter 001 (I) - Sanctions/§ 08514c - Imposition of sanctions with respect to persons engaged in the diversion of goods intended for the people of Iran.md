@@ -8,7 +8,7 @@
 
 #### (2) Exception
 
-&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authority to impose sanctions on the importation of goods.
+&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authorityto impose sanctions on the importation of goods.
 
 #### (b) List of persons who engage in diversion
 
@@ -35,6 +35,8 @@
 In this section, the term "good" has the meaning given that term in section 8801(a) of this title.
 
 (Pub. L. 111–195, title I, §105C, as added Pub. L. 112–239, div. A, title XII, §1249(a), Jan. 2, 2013, 126 Stat. 2015.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -62,7 +62,7 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a competitive grant program under which the non-Federal project sponsor of any project determined by the Secretary to be feasible under subsection (e)(3)(A) shall be eligible to apply for funding for the planning, design, and construction of the project, subject to subsection (g)(2).
+&emsp;The Secretary shall establish a competitive grant program under which the non-Federal project sponsor of any project determined by the Secretary to be feasible under subsection (e)(3)(A) shall be eligible to apply for fundingfor the planning, design, and construction of the project, subject to subsection (g)(2).
 
 #### (2) Priority
 
@@ -94,6 +94,8 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819; Pub. L. 114–322, title III, §4009(c), Dec. 16, 2016, 130 Stat. 1868.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
@@ -107,6 +109,8 @@ The enactment of this Act, referred to in subsec. (e)(1)(C), probably means the 
 <b>2016</b>—Subsecs. (e) to (g). Pub. L. 114–322 added subsecs. (e) to (g).
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–566 inserted ", and the State of Hawaii" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2005 Amendment
 
@@ -124,7 +128,7 @@ Pub. L. 106–566, title I, §101, Dec. 23, 2000, 114 Stat. 2818, provided that:
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: "This Act \[enacting section 390h–16 of this title, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation\] may be cited as the 'Oregon Public Lands Transfer and Protection Act of 1998'."
+Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: "This Act \[enacting sections 390h–16 and 2607 of this title, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation\] may be cited as the 'Oregon Public Lands Transfer and Protection Act of 1998'."
 
 #### Short Title of 1996 Amendment
 

@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense, in consultation with the Secretaries 
 
 &emsp;(1) support engagement and collaboration with private-sector industry and the community surrounding the location of such office; and
 
-&emsp;(2) to <sup>1</sup> accelerate the use and adoption of commercially-developed technologies for national security purposes.
+&emsp;(2) accelerate the use and adoption of commercially-developed technologies for national security purposes.
 
 (b)
 
@@ -46,11 +46,21 @@ Duties.—The Detachment shall have the following duties:
 
 Joint Duty.—Assignment to a Detachment shall not qualify as a joint duty assignment, as defined in section 668(b)(1) of title 10, United States Code, unless approved by the Secretary of Defense.
 
-(Added Pub. L. 116–92, div. A, title II, §213(a)(1), Dec. 20, 2019, 133 Stat. 1256.)
+(Added Pub. L. 116–92, div. A, title II, §213(a)(1), Dec. 20, 2019, 133 Stat. 1256; amended Pub. L. 116–283, div. A, title X, §1081(a)(37), Jan. 1, 2021, 134 Stat. 3872.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1842(b), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 303 of this title, as added by section 1842(a) of Pub. L. 116–283, inserted after section 4063, and redesignated as section 4064 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### References in Text
 
 Section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (c)(2)(B)(ii), is section 218 of Pub. L. 115–232, div. A, title II, Aug. 13, 2018, 132 Stat. 1679, which is not classified to the Code.
 
-<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 116–283 substituted "accelerate" for "to accelerate".
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 1842(b) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

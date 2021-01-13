@@ -20,6 +20,7 @@
 | [2656g.](%C2%A7%2002656g%20-%20Report%20on%20terrorist%20assets%20in%20United%20States.md) | Report on terrorist assets in United States. |
 | [2656h.](%C2%A7%2002656h%20-%20International%20credit%20reports.md) | International credit reports. |
 | [2656i.](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md) | Counterdrug and anticrime activities of Department of State. |
+| [2656j.](%C2%A7%2002656j%20-%20Countering%20white%20identity%20terrorism%20globally.md) | Countering white identity terrorism globally. |
 | [2657\.](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md) | Custody of seals and property. |
 | [2658\.](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md) | Repealed. |
 | [2659\.](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md) | State statutes to be procured. |
@@ -155,6 +156,7 @@
 - [&sect; 02656g - Report on terrorist assets in United States](%C2%A7%2002656g%20-%20Report%20on%20terrorist%20assets%20in%20United%20States.md)
 - [&sect; 02656h - International credit reports](%C2%A7%2002656h%20-%20International%20credit%20reports.md)
 - [&sect; 02656i - Counterdrug and anticrime activities of Department of State](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md)
+- [&sect; 02656j - Countering white identity terrorism globally](%C2%A7%2002656j%20-%20Countering%20white%20identity%20terrorism%20globally.md)
 - [&sect; 02657 - Custody of seals and property](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md)
 - [&sect; 02658 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), Apr. 30, 1994, 108 Stat. 405](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md)
 - [&sect; 02659 - State statutes to be procured](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md)

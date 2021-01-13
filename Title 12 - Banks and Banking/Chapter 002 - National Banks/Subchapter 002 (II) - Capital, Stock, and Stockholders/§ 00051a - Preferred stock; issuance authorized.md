@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, any national banking association may
 
 (Mar. 9, 1933, ch. 1, title III, §301, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 147; Aug. 23, 1935, ch. 614, title III, §336, 49 Stat. 720; Pub. L. 86–507, §1(9), June 11, 1960, 74 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
@@ -11,6 +13,8 @@ Notwithstanding any other provision of law, any national banking association may
 <b>1935</b>—Act Aug. 23, 1935, amended last sentence generally.
 
 <b>1933</b>—Act June 15, 1933, struck out all of former section and inserted a new section which incorporated all former provisions and inserted "of one or more classes," in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exception as to Transfer of Functions
 

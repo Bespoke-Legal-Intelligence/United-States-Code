@@ -1,0 +1,36 @@
+### §4507. Procurement of services: contracts for professional and technical services
+
+(a)
+
+In General.—The Secretary of Defense shall prescribe regulations to ensure, to themaximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
+
+(b)
+
+Content of Regulations.—With respect to contracts to acquire services on the basis of the number of hours of services provided, the regulations described in subsection (a) shall—
+
+&emsp;(1) include standards and approval procedures to minimize the use of such contracts;
+
+&emsp;(2) establish criteria to ensure that proposals for contracts for technical and professional services are evaluated on a basis which does not encourage contractors to propose uncompensated overtime;
+
+&emsp;(3) ensure appropriate emphasis on technical and quality factors in the source selection process;
+
+&emsp;(4) require identification of any hours in excess of 40-hour weeks included in a proposal;
+
+&emsp;(5) ensure that offerors are notified that proposals which include unrealistically low labor rates or which do not otherwise demonstrate cost realism will be considered in a risk assessment and evaluated appropriately; and
+
+&emsp;(6) provide guidance to contracting officers to ensure that any use of uncompensated overtime will not degrade the level of technical expertise required to perform the contract.
+
+(Added Pub. L. 101–510, div. A, title VIII, §834(a)(1), Nov. 5, 1990, 104 Stat. 1613, §2331; amended Pub. L. 102–25, title VII, §701(a), Apr. 6, 1991, 105 Stat. 113; Pub. L. 103–355, title I, §1004(c), Oct. 13, 1994, 108 Stat. 3253; Pub. L. 107–107, div. A, title VIII, §801(g)(1), Dec. 28, 2001, 115 Stat. 1177; renumbered §4507, Pub. L. 116–283, div. A, title XVIII, §1856(g), Jan. 1, 2021, 134 Stat. 4275.)
+
+#### Prior Provisions
+
+A prior section 4507, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale of ordnance and ordnance stores to designers, was repealed by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283 renumbered section 2331 of this title as this section.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

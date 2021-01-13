@@ -6,7 +6,7 @@ Wines made from agricultural products other than the juice of fruit shall be mad
 
 #### (b) Limitations
 
-No wine spirits may be added to wines produced under this section, nor shall any coloring material or herbs or other flavoring material (except hops in the case of honey wine) be used in their production.
+No wine spirits may be added to wines produced under this section, nor shall any coloringmaterial or herbs or other flavoring material (except hops in the case of honey wine) be used in their production.
 
 #### (c) Restriction on blending
 

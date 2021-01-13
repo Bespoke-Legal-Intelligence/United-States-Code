@@ -300,7 +300,7 @@ Notwithstanding subsections (a) through (h) and (l), a person subject to or desc
 
 &emsp;(1) may be a service provider; and
 
-&emsp;(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and inaccordance with section 5512, 5562, or 5563 of this title.
+&emsp;(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and in accordance with section 5512, 5562, or 5563 of this title.
 
 #### (o) No authority to impose usury limit
 
@@ -323,6 +323,8 @@ Nothing in this title <sup>1</sup> shall affect the authority of the Corporatio
 No provision of this title <sup>1</sup> shall be construed as affecting any authority arising under the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
 (Pub. L. 111–203, title X, §1027, July 21, 2010, 124 Stat. 1995; Pub. L. 113–295, div. B, title I, §102(e)(7), Dec. 19, 2014, 128 Stat. 4062.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -347,6 +349,8 @@ The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–
 #### Amendments
 
 <b>2014</b>—Subsec. (g)(4). Pub. L. 113–295 inserted ", 529A" after "529".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

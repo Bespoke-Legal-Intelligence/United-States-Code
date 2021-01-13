@@ -2,7 +2,7 @@
 
 #### (a) Adjustments
 
-After the reporting of a bill or joint resolution or the offering of an amendment thereto or thesubmission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title.
+After the reporting of a bill or joint resolution or the offering of an amendment thereto or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate may make appropriate budgetary adjustments of new budget authority and the outlays flowing therefrom in the same amount as required by section 901(b) of this title.
 
 #### (b) Application of adjustments
 
@@ -40,7 +40,7 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 #### (B) Appeals
 
-&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
+&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of thissubsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
 
 #### (3) Definition of an emergency designation
 
@@ -64,7 +64,7 @@ It shall not be in order in the House of Representatives or the Senate to consid
 
 #### (A) Adjustments
 
-&emsp;&emsp;If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42, or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referredto in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
+&emsp;&emsp;If the Committee on Appropriations of either House reports an appropriation measure for any of fiscal years 2022 through 2027 that provides budget authority for grants under section 506 of title 42, or if a conference committee submits a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments referred to in subparagraph (B) to reflect the additional new budget authority provided for such grants in that measure or conference report and the outlays resulting therefrom, consistent with subparagraph (D).
 
 #### (B) Types of adjustments
 
@@ -106,6 +106,8 @@ It shall not be in order in the House of Representatives or the Senate to consid
 
 (Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, §105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, §511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, §122(10), Dec. 26, 2013, 127 Stat. 1176; Pub. L. 115–123, div. C, title II, §30206(d), Feb. 9, 2018, 132 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64, known as the Bipartisan Budget Act of 2018. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
@@ -114,7 +116,7 @@ This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–123 added subsec. (g).
 
-<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C) as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C)as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–25, §105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 
@@ -127,6 +129,8 @@ Pub. L. 112–25, §105(a)(2), (3), added subsec. (e) and struck out former subs
 Subsec. (f). Pub. L. 112–78, §511(1), redesignated subsec. (e) as (f).
 
 <b>1997</b>—Subsec. (b)(6). Pub. L. 105–89 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

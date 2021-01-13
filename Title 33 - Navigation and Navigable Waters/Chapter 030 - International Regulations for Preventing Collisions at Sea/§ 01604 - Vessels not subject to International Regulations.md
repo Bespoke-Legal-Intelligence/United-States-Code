@@ -6,9 +6,13 @@
 
 (Pub. L. 95–75, §5, July 27, 1977, 91 Stat. 309; Pub. L. 96–591, §6(1), Dec. 24, 1980, 94 Stat. 3434.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–591 substituted provision providing that the International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States for provisions that had made specific reference to harbors, rivers, and other inland waters of the United States, as defined in section 154 of this title, to the Great Lakes of North America and their connecting and tributary waters, as defined in section 241 of this title, and to the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, as defined in section 301 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

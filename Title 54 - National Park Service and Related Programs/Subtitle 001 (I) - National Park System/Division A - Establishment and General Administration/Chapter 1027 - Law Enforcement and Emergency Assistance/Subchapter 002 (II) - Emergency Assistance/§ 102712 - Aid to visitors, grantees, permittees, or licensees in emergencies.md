@@ -32,7 +32,11 @@ July 3, 1926, ch. 792, §1, 44 Stat. 900.
 
 May 26, 1930, ch. 324, §4, 46 Stat. 382.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Fees for Medical Services
+
+Pub. L. 116–260, div. G, title I, §118, Dec. 27, 2020, 134 Stat. 1506, provided that: "Beginning in fiscal year 2022 and for each fiscal year thereafter, fees collected pursuant to section 2404 of Public Law 116–9 \[see note below\] shall be deposited into the National Park Medical Services Fund established pursuant to such section of such Act as discretionary offsetting receipts."
 
 Pub. L. 116–9, title II, §2404, Mar. 12, 2019, 133 Stat. 747, provided that:
 

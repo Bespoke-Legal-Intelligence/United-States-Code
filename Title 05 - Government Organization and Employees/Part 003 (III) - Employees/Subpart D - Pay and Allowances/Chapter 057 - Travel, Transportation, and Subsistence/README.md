@@ -18,7 +18,7 @@
 | [5708\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005708%20-%20Effect%20on%20other%20statutes.md) | Effect on other statutes. |
 | [5709\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005709%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [5710\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005710%20-%20Authority%20for%20travel%20expenses%20test%20programs.md) | Authority for travel expenses test programs. |
-| [5711\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005711%20-%20Authority%20for%20telework%20travel%20expenses%20test%20programs.md) | Authority for telework travel expenses test programs. |
+| [5711\.](Subchapter%20001%20%28I%29%20-%20Travel%20and%20Subsistence%20Expenses%3B%20Mileage%20Allowances/%C2%A7%2005711%20-%20Authority%20for%20telework%20travel%20expenses%20programs.md) | Authority for telework travel expenses programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,7 +90,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 116–283, div. A, title XI, §1112(b), Jan. 1, 2021, 134 Stat. 3984, which directed amendment of item 5711 in table of sections for subchapter I of chapter 57 by substituting "Authority for telework travel expenses programs" for "Authority for telework travel expenses test programs", was executed to table of sections for this chapter to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XI, §1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted "Taxes on reimbursements for travel, transportation, and relocation expenses" for "Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred" in item 5724b.
 
@@ -142,7 +146,7 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
-<i><sup>1</sup></i><i> So in original. Two sections 5757 have been enacted.</i>
+<i><sup>2</sup></i><i> So in original. Two sections 5757 have been enacted.</i>
 
 
 ---

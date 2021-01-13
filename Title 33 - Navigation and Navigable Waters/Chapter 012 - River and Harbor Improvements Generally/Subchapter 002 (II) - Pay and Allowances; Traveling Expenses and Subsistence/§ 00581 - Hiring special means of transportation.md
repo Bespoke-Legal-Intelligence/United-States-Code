@@ -4,6 +4,8 @@ In their execution and inspection of river and harbor improvement work, at point
 
 (July 25, 1912, ch. 253, §9, 37 Stat. 233.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from act July 25, 1912, popularly known as the "Rivers and Harbors Appropriation Act of 1912".

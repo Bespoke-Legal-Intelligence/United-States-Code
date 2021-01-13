@@ -50,7 +50,7 @@ Whenever the President determines that fundamental international payments proble
 
 (2) Notwithstanding paragraph (1), if the President determines that the purposes of this section will best be served by action against one or more countries having large or persistent balance-of-payments surpluses, he may exempt all other countries from such action.
 
-(3) After such time when there enters into force for the United States new rules regarding the application of surcharges as part of a reformof internationally agreed balance-of-payments adjustment procedures, the exemption authority contained in paragraph (2) shall be applied consistently with such new international rules.
+(3) After such time when there enters into force for the United States new rules regarding the application of surcharges as part of a reform of internationally agreed balance-of-payments adjustment procedures, the exemption authority contained in paragraph (2) shall be applied consistently with such new international rules.
 
 (4) It is the sense of Congress that the President seek modifications in international agreements aimed at allowing the use of surcharges in place of quantitative restrictions (and providing rules to govern the use of such surcharges) as a balance-of-payments adjustment measure within the context of arrangements for an equitable sharing of balance-of-payments adjustment responsibility among deficit and surplus countries.
 

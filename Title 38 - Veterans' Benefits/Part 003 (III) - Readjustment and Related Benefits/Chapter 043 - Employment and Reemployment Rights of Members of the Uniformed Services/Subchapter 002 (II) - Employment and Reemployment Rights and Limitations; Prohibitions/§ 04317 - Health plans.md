@@ -26,6 +26,8 @@
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3161; amended Pub. L. 104–275, title III, §311(7), Oct. 9, 1996, 110 Stat. 3335; Pub. L. 108–454, title II, §201(a), Dec. 10, 2004, 118 Stat. 3605; Pub. L. 109–233, title III, §303, June 15, 2006, 120 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3(37) and 607(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), (3), are classified to sections 1002(37) and 1167(1), respectively, of Title 29, Labor.
@@ -46,7 +48,9 @@ Subsec. (b)(3). Pub. L. 109–233, §303(b)(2), added par. (3).
 
 <b>2004</b>—Subsec. (a)(1)(A). Pub. L. 108–454 substituted "24-month period" for "18-month period".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in",redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+<b>1996</b>—Subsec. (a). Pub. L. 104–275 substituted "(a)(1) In" for "(a)(1)(A) Subject to paragraphs (2) and (3), in", redesignated cls. (i) and (ii) of par. (1) as subpars. (A) and (B), respectively, redesignated former subpars. (B) and (C) as pars. (2) and (3), respectively, and in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and subcls. (I) and (II) as cls. (i) and (ii), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -1,8 +1,12 @@
 ### §60–1. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 60–1 was editorially reclassified as section 4101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reduction in Number of Employee Positions; Reports
 

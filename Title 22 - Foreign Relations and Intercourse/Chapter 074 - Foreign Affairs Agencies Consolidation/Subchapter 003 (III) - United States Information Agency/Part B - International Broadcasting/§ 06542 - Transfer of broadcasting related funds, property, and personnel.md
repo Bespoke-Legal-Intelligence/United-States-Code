@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The assets, liabilities (including contingent liabilities arising from suits continued with a substitution or addition of parties under section 6543(d) of this title), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions and offices of USIA transferred to the Broadcasting Board of Governors by this part shall be transferred to the Broadcasting Board of Governors for appropriate allocation.
+&emsp;The assets, liabilities (including contingent liabilities arising from suits continued with asubstitution or addition of parties under section 6543(d) of this title), contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the functions and offices of USIA transferred to the Broadcasting Board of Governors by this part shall be transferred to the Broadcasting Board of Governors for appropriate allocation.
 
 #### (2) Additional transfers
 
@@ -16,7 +16,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) except as provided in subsection (c), all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
 
-&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Boardof Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
+&emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 
@@ -28,9 +28,13 @@ The Director of the Office of Management and Budget, when requested by the Broad
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1326, Oct. 21, 1998, 112 Stat. 2681–782.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsecs. (a) and (b), was in the original "this chapter", meaning chapter 3 (§§1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

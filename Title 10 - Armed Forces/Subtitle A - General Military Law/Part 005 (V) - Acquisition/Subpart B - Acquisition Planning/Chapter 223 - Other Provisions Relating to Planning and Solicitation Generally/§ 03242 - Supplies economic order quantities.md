@@ -1,0 +1,32 @@
+### §3242. Supplies: economic order quantities
+
+(a)
+
+Quantity to Procure.—
+
+&emsp;(1) An agency referred to in section 3063 of this title shall procure supplies in such quantity as—
+
+&emsp;&emsp;(A) will result in the total cost and unit cost most advantageous to the United States, where practicable; and
+
+&emsp;&emsp;(B) does not exceed the quantity reasonably expected to be required by the agency.
+
+&emsp;(2) The Secretary of Defense shall take paragraph (1) into account in approving rates of obligation of appropriations under section 2204 of this title.
+
+(b)
+
+Opinion of Offeror With Respect to Quantity to Be Procured.—Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of the supplies proposed to be procured is economically advantageous to the United States and, if applicable, to recommend a quantity or quantities which would be more economically advantageous to the United States. Each such recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
+
+(Added Pub. L. 98–525, title XII, §1233(a), Oct. 19, 1984, 98 Stat. 2600, §2384a; renumbered §3242 and amended Pub. L. 116–283, div. A, title XVIII, §1813(c), Jan. 1, 2021, 134 Stat. 4179.)
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 116–283, §1813(c), renumbered section 2384a of this title as this section.
+
+Subsec. (a). Pub. L. 116–283, §1813(c)(1), inserted heading, in par. (1), substituted "section 3063" for "section 2303(a)" and reformatted subpars. (A) and (B) to add line breaks before each subpar. designation, and, in par. (2), realigned margin.
+
+Subsec. (b). Pub. L. 116–283, §1813(c)(2), inserted heading.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+

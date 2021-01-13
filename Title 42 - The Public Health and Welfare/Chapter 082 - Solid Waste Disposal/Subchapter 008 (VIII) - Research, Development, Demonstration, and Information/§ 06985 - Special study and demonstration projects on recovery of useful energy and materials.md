@@ -8,7 +8,7 @@ The Administrator shall conduct studies and develop recommendations for administ
 
 &emsp;(2) actions to reduce waste generation which have been taken voluntarily or in response to governmental action, and those which practically could be taken in the future, and the economic, social, and environmental consequences of such actions;
 
-&emsp;(3) methods of collection, separation, and containerization which will encourage efficient utilization of facilities and contribute tomore effective programs of reduction, reuse, or disposal of wastes;
+&emsp;(3) methods of collection, separation, and containerization which will encourage efficient utilization of facilities and contribute to more effective programs of reduction, reuse, or disposal of wastes;
 
 &emsp;(4) the use of Federal procurement to develop market demand for recovered resources;
 

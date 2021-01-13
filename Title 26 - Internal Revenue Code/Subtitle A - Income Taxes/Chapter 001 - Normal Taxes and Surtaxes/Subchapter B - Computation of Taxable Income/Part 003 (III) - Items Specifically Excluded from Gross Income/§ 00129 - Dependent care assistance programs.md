@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (2) Earned income
 
-&emsp;The term "earned income" shall have the meaning given such term in section 32(c)(2),but such term shall not include any amounts paid or incurred by an employer for dependent care assistance to an employee.
+&emsp;The term "earned income" shall have the meaning given such term in section 32(c)(2), but such term shall not include any amounts paid or incurred by an employer for dependent care assistance to an employee.
 
 #### (3) Employee
 
@@ -174,7 +174,7 @@ Pub. L. 101–140, §204(a)(1), inserted at end "If any plan would qualify as a 
 
 Pub. L. 101–140, §203(a)(1), amended par. (1) to read as if the amendments by Pub. L. 99–514, §1151(c)(5)(A), had not been enacted, see 1986 Amendment note below.
 
-Subsec. (d)(3). Pub. L. 101–140, §204(a)(2)(B), struck out at end "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, ifthere is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
+Subsec. (d)(3). Pub. L. 101–140, §204(a)(2)(B), struck out at end "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
 Pub. L. 101–140, §203(a)(2), amended par. (3) to read as if amendments by Pub. L. 100–647, §1011B(a)(31)(A)(i), had not been enacted, see 1988 Amendment note below.
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 203(a)(1), (2) of Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
@@ -306,7 +306,7 @@ Amendment by section 1114(b)(4) of Pub. L. 99–514 applicable to years beginnin
 
 Amendment by section 1151(c)(5), (f), (g)(4) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
-Pub. L. 99–514, title XI, §1163(c), Oct. 22, 1986, 100 Stat. 2511, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title XI, §1163(c), Oct. 22, 1986, 100 Stat. 2511, provided that: "The amendments made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 

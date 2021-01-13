@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive policy on prevention of and response to sexual assaults
 
-Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, actingthrough the Under Secretary for Oceans and Atmosphere, develop a comprehensive policy on the prevention of and response to sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
+Not later than 1 year after December 23, 2016, the Secretary of Commerce shall, acting through the Under Secretary for Oceans and Atmosphere, develop a comprehensive policy on the prevention of and response to sexual assaults involving employees of the National Oceanic and Atmospheric Administration, members of the commissioned officer corps of the Administration, and individuals who work with or conduct business on behalf of the Administration.
 
 #### (b) Elements of comprehensive policy
 
@@ -16,7 +16,7 @@ The comprehensive policy developed under subsection (a) shall, at minimum, addre
 
 &emsp;&emsp;(A) options and contact information for after-hours contact; and
 
-&emsp;&emsp;(B) a procedure for obtaining assistance and reporting sexual assault while working in a remote scientific field camp, at sea, or in another field status.
+&emsp;&emsp;(B) a procedure for obtaining assistance and reporting sexual assault while workingin a remote scientific field camp, at sea, or in another field status.
 
 &emsp;(4) Easy and ready availability of information described in paragraph (3).
 
@@ -24,7 +24,7 @@ The comprehensive policy developed under subsection (a) shall, at minimum, addre
 
 &emsp;&emsp;(A) questions regarding sexual assault can be confidentially asked and confidentially answered; and
 
-&emsp;&emsp;(B) incidents of sexual assault can be confidentially reported.
+&emsp;&emsp;(B) incidents of sexual assault can be reported on a restricted or unrestricted basis.
 
 &emsp;(6) Protocols for the investigation of complaints by command and law enforcement personnel.
 
@@ -98,5 +98,11 @@ The Secretary shall ensure that the policy developed under subsection (a) is ava
 
 In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 
-(Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801.)
+(Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, §504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2020</b>—Subsec. (b)(5)(B). Pub. L. 116–259 substituted "can be reported on a restricted or unrestricted basis" for "can be confidentially reported".
 

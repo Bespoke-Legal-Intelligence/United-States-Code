@@ -18,11 +18,15 @@ Section consolidates sections 304, 306, and 309 of title 18, U.S.C., 1940 ed. Re
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $50".
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–375 substituted "section 601 of title 39" for "section 500 of title 39".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(i) on such property (or rights to property) of such person used in the trade or business for which the registration is sought, or
 
-&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property)of such person as the Secretary determines appropriate.
+&emsp;&emsp;&emsp;(ii) with the consent of such person, on any other property (or rights to property) of such person as the Secretary determines appropriate.
 
 > &emsp;&emsp;Rules similar to the rules of section 6323 shall apply to the lien imposed pursuant to this paragraph.
 
@@ -146,7 +146,7 @@ Amendment by section 11113(c) of Pub. L. 109–59 applicable to any sale or use 
 
 Pub. L. 109–59, title XI, §11163(e), Aug. 10, 2005, 119 Stat. 1975, provided that: "The amendments made by this section \[amending this section and sections 6206, 6416, 6427, and 6675 of this title\] shall apply to sales after December 31, 2005."
 
-Pub. L. 109–59, title XI, §11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendments made by this section \[amending this section and sections 6719, 7232, and 7272 of this title\] shall apply to actions, or failures to act, after the date of the enactment of this Act \[Aug. 10, 2005\]."
+Pub. L. 109–59, title XI, §11164(c), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendments made bythis section \[amending this section and sections 6719, 7232, and 7272 of this title\] shall apply to actions, or failures to act, after the date of the enactment of this Act \[Aug. 10, 2005\]."
 
 #### Effective Date of 2004 Amendment
 

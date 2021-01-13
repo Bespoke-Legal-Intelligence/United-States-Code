@@ -72,6 +72,8 @@ Pub. L. 93–400, §32A, as added Pub. L. 108–136, title XIV, §1443(a)(1), No
 
 41:428a(d).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX \[§2292 et seq.\] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
@@ -91,6 +93,8 @@ Subsec. (a)(3), (4). Pub. L. 114–328, §816, added pars. (3) and (4).
 <b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–92, §816(1), substituted "$750,000" for "$250,000".
 
 Subsec. (b)(2)(B). Pub. L. 114–92, §816(2), substituted "$1,500,000" for "$1,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

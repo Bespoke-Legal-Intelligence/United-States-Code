@@ -1,6 +1,6 @@
 ### §4127. Prison Industries report to Congress
 
-The board of directors of Federal Prison Industries shall submit an annual report to the Congress on the conduct of the business of the corporation during each fiscal year, and on the condition of its funds during such fiscal year. Such report shall include a statement of the amount of obligations issued under section 4129(a)(1) during such fiscal year, and an estimate of the amount of obligations that will be so issued in the following fiscal year.
+The board of directors of Federal Prison Industries shall submit an annual report to the Congress on the conduct of the business of the corporation during each fiscal year, and on the condition of its funds during such fiscal year. Suchreport shall include a statement of the amount of obligations issued under section 4129(a)(1) during such fiscal year, and an estimate of the amount of obligations that will be so issued in the following fiscal year.
 
 (June 25, 1948, ch. 645, 62 Stat. 852; Pub. L. 100–690, title VII, §7095, Nov. 18, 1988, 102 Stat. 4413.)
 
@@ -12,9 +12,13 @@ Words "of Federal Prison Industries" were inserted after "board of directors".
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690 amended section generally. Prior to amendment, section read as follows: "The board of directors of Federal Prison Industries shall make annual reports to Congress on the conduct of the business of the corporation and on the condition of its funds."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

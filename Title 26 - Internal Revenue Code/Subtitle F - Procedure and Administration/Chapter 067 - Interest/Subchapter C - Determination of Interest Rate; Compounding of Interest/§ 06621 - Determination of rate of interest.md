@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determinedunder paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
+&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
 
 #### (B) Special rule for individual estimated tax
 
@@ -190,7 +190,7 @@ Pub. L. 99–514, title XV, §1535(b), Oct. 22, 1986, 100 Stat. 2750, provided t
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provided that: "The amendments made by this section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984."
+Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provided that: "The amendments made bythis section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984."
 
 #### Effective Date of 1982 Amendment
 

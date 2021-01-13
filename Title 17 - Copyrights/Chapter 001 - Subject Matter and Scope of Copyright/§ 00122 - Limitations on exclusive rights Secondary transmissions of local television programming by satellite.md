@@ -36,7 +36,7 @@ Secondary transmission of low power programming.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission.
+In general.—Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a televisionbroadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission.
 
 &emsp;&emsp;(B)
 
@@ -78,7 +78,7 @@ Certain additional stations.—If 2 adjacent counties in a single State are in a
 
 &emsp;&emsp;(E)
 
-Networks of noncommercial educational broadcast stations.—In the case of a system of three or more noncommercial educational broadcast stations licensed to a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in this paragraph shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county or county equivalent within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of theprimary transmission of a noncommercial educational broadcast station located within the State pursuant to paragraph (1).
+Networks of noncommercial educational broadcast stations.—In the case of a system of three or more noncommercial educational broadcast stations licensed to a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in this paragraph shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county or county equivalent within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of the primary transmission of a noncommercial educational broadcast station located within the State pursuant to paragraph (1).
 
 &emsp;(5)
 
@@ -226,6 +226,8 @@ Television broadcast station.—The term "television broadcast station"—
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, §13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX \[title I, §111(b)\], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110–403, title II, §209(a)(5), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–175, title I, §103(a)(1), (b)–(f), May 27, 2010, 124 Stat. 1227–1230; Pub. L. 113–200, title II, §204, Dec. 4, 2014, 128 Stat. 2067.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 397 of the Communications Act of 1934, referred to in subsec. (j)(5), is classified to section 397 of Title 47, Telecommunications.
@@ -281,6 +283,8 @@ Subsec. (f)(1). Pub. L. 110–403, §209(a)(5)(C), struck out "and 509" after "5
 <b>2004</b>—Subsec. (j)(2)(D). Pub. L. 108–447 added subpar. (D).
 
 <b>2002</b>—Pub. L. 107–273 substituted "rights: Secondary" for "rights; secondary" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

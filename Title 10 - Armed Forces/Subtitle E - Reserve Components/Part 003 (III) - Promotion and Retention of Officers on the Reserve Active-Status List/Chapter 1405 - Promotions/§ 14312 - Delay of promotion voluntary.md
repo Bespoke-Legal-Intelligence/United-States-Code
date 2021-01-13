@@ -8,7 +8,7 @@ Authority for Voluntary Delays.—(1) The Secretary of the military department c
 
 &emsp;(A) a request for such a delay of promotion must be submitted by the officer concerned before the delay may be approved; and
 
-&emsp;(B) denial of such a request shall not be considered to be a failure of selection for promotion unless the officer declines to accept apromotion under circumstances set forth in subsection (c).
+&emsp;(B) denial of such a request shall not be considered to be a failure of selection for promotion unless the officer declines to accept a promotion under circumstances set forth in subsection (c).
 
 (b)
 

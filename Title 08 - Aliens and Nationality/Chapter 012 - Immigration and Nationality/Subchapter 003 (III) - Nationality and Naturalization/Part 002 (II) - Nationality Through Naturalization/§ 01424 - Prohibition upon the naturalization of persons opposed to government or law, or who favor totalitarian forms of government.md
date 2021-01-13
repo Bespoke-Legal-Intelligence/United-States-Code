@@ -14,7 +14,7 @@
 
 &emsp;(6) who is a member of or affiliated with any organization that writes, circulates, distributes, prints, publishes, or displays, or causes to be written, circulated, distributed, printed, published, or displayed, or that has in its possession for the purpose of circulation, distribution, publication, issue, or display, any written or printed matter of the character described in subparagraph (5) of this subsection.
 
-(b) The provisions of this section or of any other section of this chapter shall not be construed as declaring that any of the organizations referred to in this section or in any other section of this chapter do not advocate the overthrow of the Government of the United States by force, violence, or other unconstitutional means.
+(b) The provisions of this section or of any other section of this chapter shall not be construed as declaring that any of the organizations referred to in this section or in any other section of this chapter do not advocate the overthrow of the Government of the United Statesby force, violence, or other unconstitutional means.
 
 (c) The provisions of this section shall be applicable to any applicant for naturalization who at any time within a period of ten years immediately preceding the filing of the application for naturalization or after such filing and before taking the final oath of citizenship is, or has been found to be within any of the classes enumerated within this section, notwithstanding that at the time the application is filed he may not be included within such classes.
 
@@ -31,6 +31,8 @@
 &emsp;(4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense when Department of Defense activities are relevant to the determination, and with the concurrence of the Attorney General and the Secretary of Homeland Security, to have made a contribution to the national security or to the national intelligence mission of the United States.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612; Pub. L. 108–177, title III, §373, Dec. 13, 2003, 117 Stat. 2628.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ This chapter, referred to in subsec. (b), was in the original, "this Act", meani
 <b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted "application" for "petition" wherever appearing.
 
 <b>1988</b>—Subsec. (a)(2)(D). Pub. L. 100–525 substituted "party of" for "party or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

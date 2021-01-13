@@ -22,7 +22,7 @@
 
 #### (4) Gain treated as interest for certain purposes
 
-&emsp;Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income underparagraph (1) or (3) shall be treated as interest for purposes of this title.
+&emsp;Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income under paragraph (1) or (3) shall be treated as interest for purposes of this title.
 
 #### (b) Accrued market discount
 

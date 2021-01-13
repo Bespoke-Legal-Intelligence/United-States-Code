@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, withthe consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -70,7 +70,9 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 &emsp;The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20,2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 108–458, title V, §5505(a), Dec. 17, 2004, 118 Stat. 3741; Pub. L. 111–122, §2(a), Dec. 22, 2009, 123 Stat. 3480.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,13 +138,15 @@ Subsec. (f). Pub. L. 104–208, §134(a), added subsec. (f).
 
 Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissioner was to receive compensation at rate of $17,500 per annum.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of the transfer of functions from the Commissioner of Immigration and Naturalization to officials of the Department of Homeland Security (Mar. 1, 2003), see section 1104 of Pub. L. 107–296, as added by Pub. L. 108–7, set out as an Effective Date note under section 521 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title I, §134(b), Sept. 30, 1996, 110 Stat. 3009–564, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(d)(4)(C), (e)(4) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
@@ -153,6 +157,34 @@ Amendment by Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Reporting Requirements
+
+Pub. L. 116–159, div. D, title I, §4103, Oct. 1, 2020, 134 Stat. 741, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 1, 2020\], the Secretary of Homeland Security shall provide to the appropriate Committees a 5-year plan, including projected cost estimates, procurement strategies, and a project schedule with milestones, to accomplish each of the following:
+
+&emsp;"(1) Establish electronic filing procedures for all applications and petitions for immigration benefits.
+
+&emsp;"(2) Accept electronic payment of fees at all filing locations.
+
+&emsp;"(3) Issue correspondence, including decisions, requests for evidence, and notices of intent to deny, to immigration benefit requestors electronically.
+
+&emsp;"(4) Improve processing times for all immigration and naturalization benefit requests.
+
+"(b)
+
+Semi-annual Briefings.—Not later than 180 days after submission of the plan described in subsection (a), and on a semi-annual basis thereafter, the Secretary shall advise the appropriate Committees on the implementation status of such plan.
+
+"(c)
+
+Appropriate Committees Defined.—In this section, the term 'appropriate Committees' means—
+
+&emsp;"(1) the Committee on Appropriations, the Committee on the Judiciary, and the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;"(2) the Committee on Appropriations, the Committee on the Judiciary, and the Committee on Homeland Security and Governmental Affairs of the Senate."
 
 #### Fingerprint Cards
 
@@ -348,6 +380,8 @@ Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provid
 #### Emergency Plans for Regulation of Nationals of Enemy Countries
 
 Attorney General to develop national security emergency plans for regulation of immigration, regulation of nationals of enemy countries, and plans to implement laws for control of persons entering or leaving the United States, see section 1101(4) of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13404. Task Force on New Americans
 

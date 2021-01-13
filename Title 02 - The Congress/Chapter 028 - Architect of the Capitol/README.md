@@ -8,7 +8,7 @@
 | [1802\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001802%20-%20Compensation.md) | Compensation. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001803%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
 | [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to act in case of absence, disability, or vacancy. |
-| [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol-Chief%20Operating%20Officer.md) | Deputy Architect of the Capitol/Chief Operating Officer. |
+| [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol.md) | Deputy Architect of the Capitol. |
 | 1806, 1807. Repealed. |  |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001808%20-%20Inspector%20General%20of%20the%20Architect%20of%20the%20Capitol.md) | Inspector General of the Architect of the Capitol. |
 

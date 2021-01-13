@@ -34,6 +34,8 @@ Section 3 of this title deals with the relationship of the Coast Guard to the Na
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 705 was renumbered section 3705 of this title.
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 111–281, §223(2), added subsec. (d).
 Subsec. (c). Pub. L. 94–546, §1(11)(b), substituted in first sentence "Department of Transportation" for "Treasury Department" and in second sentence "Secretary of Transportation" for "Secretary of the Treasury".
 
 <b>1950</b>—Subsec. (a)(3). Act Aug. 3, 1950, added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

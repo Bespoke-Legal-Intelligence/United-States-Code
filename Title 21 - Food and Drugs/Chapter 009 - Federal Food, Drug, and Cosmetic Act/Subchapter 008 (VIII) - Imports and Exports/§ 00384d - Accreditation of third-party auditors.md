@@ -126,7 +126,7 @@ In this section:
 
 #### (B) Records
 
-&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor.Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
+&emsp;&emsp;Following any accreditation of a third-party auditor, the Secretary may, at any time, require the accredited third-party auditor to submit to the Secretary an onsite audit report and such other reports or documents required as part of the audit process, for any eligible entity certified by the third-party auditor or audit agent of such auditor. Such report may include documentation that the eligible entity is in compliance with any applicable registration requirements.
 
 #### (C) Limitation
 
@@ -252,7 +252,7 @@ To ensure compliance with the requirements of this section, the Secretary shall�
 
 &emsp;(1) periodically, or at least once every 4 years, reevaluate the accreditation bodies described in subsection (b)(1);
 
-&emsp;(2) periodically, or at least once every 4 years, evaluate the performance of each accredited third-party auditor, through the review of regulatory audit reports by such auditors, the compliance history as available of eligible entities certified by such auditors, and any other measures deemed necessary by the Secretary;
+&emsp;(2) periodically, or at least once every 4 years, evaluate the performance of each accredited third-party auditor, through the review of regulatory audit reports by such auditors, the compliance history as available of eligible entities certified by such auditors, andany other measures deemed necessary by the Secretary;
 
 &emsp;(3) at any time, conduct an onsite audit of any eligible entity certified by an accredited third-party auditor, with or without the auditor present; and
 
@@ -274,11 +274,15 @@ The Secretary shall establish a publicly available registry of accreditation bod
 
 (June 25, 1938, ch. 675, §808, as added Pub. L. 111–353, title III, §307, Jan. 4, 2011, 124 Stat. 3959.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original "301(g)", and was translated as reading "801(q)", meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification.
 
 Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original "section 203(h) of the Agriculture Marketing Act of 1946", and was translated as reading "section 203(h) of the Agricultural Marketing Act of 1946", meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

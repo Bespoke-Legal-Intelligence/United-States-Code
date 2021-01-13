@@ -4,9 +4,11 @@ If another applicable Federal law or regulation permits the acceptance of a bond
 
 &emsp;(1) consist of eligible obligations described under section 9303(a); and
 
-&emsp;(2) be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+&emsp;(2) be submitted to the official of the Government required to approve or accept thebond, who shall deposit the obligations as described under section 9303(b).
 
 (Added Pub. L. 114–92, div. A, title VIII, §874(a)(1), Nov. 25, 2015, 129 Stat. 940.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

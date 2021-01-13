@@ -94,6 +94,8 @@ Paragraphs (6) and (7) are added on authority of section 1101(a)(1), (2) of the 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 609(b)(1) of the Foreign Service Act of 1980, referred to in par. (1)(C), is classified to section 4009(b)(1) of Title 22, Foreign Relations and Intercourse.
@@ -109,6 +111,8 @@ Par. (1)(C). Pub. L. 96–465 substituted "members of the Foreign Service for wh
 <b>1976</b>—Par. (6). Pub. L. 94–566, §116(e)(1), added the Virgin Islands in definition of "State".
 
 Par. (8). Pub. L. 94–566, §214(b), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendments
 

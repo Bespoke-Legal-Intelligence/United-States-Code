@@ -54,7 +54,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (B) Transition guideline
 
-&emsp;&emsp;Crops and forage from land included in the organic system plan of a dairy farm that is in the third year of organic management may be consumed by the dairy animals of the farm during the 12-month period immediately prior to the sale of organic milk and milk products.
+&emsp;&emsp;Crops and forage from land included in the organic system plan of a dairy farm that isin the third year of organic management may be consumed by the dairy animals of the farm during the 12-month period immediately prior to the sale of organic milk and milk products.
 
 #### (f) Livestock identification
 

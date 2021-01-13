@@ -8,6 +8,8 @@ The provisions of this Part <sup>1</sup> shall not be construed to—
 
 (Pub. L. 91–510, title IV, §476, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, §210(5), Aug. 20, 1996, 110 Stat. 1743.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Part, referred to in text, means Part 7 (§§471–477) of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1193. For complete classification of Part 7 to the Code, see Tables.
@@ -19,6 +21,8 @@ Section was formerly classified to section 336 of this title prior to editorial 
 #### Amendments
 
 <b>1996</b>—Pars. (1), (2). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

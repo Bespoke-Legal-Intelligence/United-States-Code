@@ -4,9 +4,13 @@ No provision of this chapter shall be construed as indicating an intent on the p
 
 (Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 234; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1226.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–618 struck out "or possession" after "State" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

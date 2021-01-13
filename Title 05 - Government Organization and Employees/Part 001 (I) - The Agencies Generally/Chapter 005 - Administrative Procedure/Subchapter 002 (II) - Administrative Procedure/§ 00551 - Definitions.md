@@ -128,6 +128,8 @@ In paragraph (10)(C), the words "of any form" are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 1884 and 1891–1902 of title 50, appendix, referred to in par. (1)(H), were a part of the various Housing and Rent Acts which were classified to section 1881 et seq. of the former Appendix to Title 50, War and National Defense, and had been repealed or omitted from the Code as executed prior to the elimination of the Appendix to Title 50. See Elimination of Title 50, Appendix note preceding section 1 of Title 50. Section 1641 of title 50, appendix, referred to in par. (1)(H), was repealed by Pub. L. 87–256, §111(a)(1), Sept. 21, 1961, 75 Stat. 538. See Historical and Revision Note above.
@@ -143,6 +145,8 @@ Section 551 of former Title 5, Executive Departments and Government Officers and
 <b>1994</b>—Par. (1)(H). Pub. L. 103–272 substituted "subchapter II of chapter 471 of title 49; or sections" for "or sections 1622,".
 
 <b>1976</b>—Par. (14). Pub. L. 94–409 added par. (14).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 
@@ -172,11 +176,13 @@ Report on Frequency of Use of Administrative Subpoenas.—
 
 &emsp;"(1)
 
-In general.—The Attorney General and the Secretary of the Treasury shall report in January ofeach year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
+In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
 
 &emsp;"(2)
 
 Expiration.—The reporting requirement of this subsection shall terminate in 3 years after the date of the enactment of this section \[Dec. 19, 2000\]."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13892. Promoting the Rule of Law Through Transparency and Fairness in Civil Administrative Enforcement and Adjudication
 
@@ -224,11 +230,11 @@ Sec. 2. <i>Definitions</i>. For the purposes of this order:
 
 Sec. 3. <i>Proper Reliance on Guidance Documents</i>. Guidance documents may not be used to impose new standards of conduct on persons outside the executive branch except as expressly authorized by law or as expressly incorporated into a contract. When an agency takes an administrative enforcement action, engages in adjudication, or otherwise makes a determination that has legal consequence for a person, it must establish a violation of law by applying statutes or regulations. The agency may not treat noncompliance with a standard of conduct announced solely in a guidance document as itself a violation of applicable statutes or regulations. When an agency uses a guidance document to state the legal applicability of a statute or regulation, that document can do no more, with respect to prohibition of conduct, than articulate the agency's understanding of how a statute or regulation applies to particular circumstances. An agency may cite a guidance document to convey that understanding in an administrative enforcement action or adjudication only if it has notified the public of such document in advance through publication, either in full or by citation if publicly available, in the Federal Register (or on the portion of the agency's website that contains a single, searchable, indexed database of all guidance documents in effect).
 
-Sec. 4. <i>Fairness and Notice in Administrative Enforcement Actions and Adjudications</i>. When an agency takesan administrative enforcement action, engages in adjudication, or otherwise makes a determination that has legal consequence for a person, it may apply only standards of conduct that have been publicly stated in a manner that would not cause unfair surprise. An agency must avoid unfair surprise not only when it imposes penalties but also whenever it adjudges past conduct to have violated the law.
+Sec. 4. <i>Fairness and Notice in Administrative Enforcement Actions and Adjudications</i>. When an agency takes an administrative enforcement action, engages in adjudication, or otherwise makes a determination that has legal consequence for a person, it may apply only standards of conduct that have been publicly stated in a manner that would not cause unfair surprise. An agency must avoid unfair surprise not only when it imposes penalties but also whenever it adjudges past conduct to have violated the law.
 
 Sec. 5. <i>Fairness and Notice in Jurisdictional Determinations</i>. Any decision in an agency adjudication, administrative order, or agency document on which an agency relies to assert a new or expanded claim of jurisdiction—such as a claim to regulate a new subject matter or an explanation of a new basis for liability—must be published, either in full or by citation if publicly available, in the Federal Register (or on the portion of the agency's website that contains a single, searchable, indexed database of all guidance documents in effect) before the conduct over which jurisdiction is sought occurs. If an agency intends to rely on a document arising out of litigation (other than a published opinion of an adjudicator), such as a brief, a consent decree, or a settlement agreement, to establish jurisdiction in future administrative enforcement actions or adjudications involving persons who were not parties to the litigation, it must publish that document, either in full or by citation if publicly available, in the Federal Register (or on the portion of the agency's website that contains a single, searchable, indexed database of all guidance documents in effect) and provide an explanation of its jurisdictional implications. An agency may not seek judicial deference to its interpretation of a document arising out of litigation (other than a published opinion of an adjudicator) in order to establish a new or expanded claim or jurisdiction unless it has published the document or a notice of availability in the Federal Register (or on the portion of the agency's website that contains a single, searchable, indexed database of all guidance documents in effect).
 
-Sec. 6. <i>Opportunity to Contest Agency Determination</i>. (a) Except as provided in subsections (b) and (c) of this section, before an agency takes any action with respect to a particular person that has legal consequence for that person, including by issuing to such a person a no-action letter, notice of noncompliance, or other similar notice, the agency must afford that person an opportunity to be heard, in person or in writing, regarding the agency's proposed legal and factual determinations. The agency must respond in writing and articulate the basis for its action.
+Sec. 6. <i>Opportunity to Contest Agency Determination</i>. (a) Except as provided in subsections (b) and (c) of thissection, before an agency takes any action with respect to a particular person that has legal consequence for that person, including by issuing to such a person a no-action letter, notice of noncompliance, or other similar notice, the agency must afford that person an opportunity to be heard, in person or in writing, regarding the agency's proposed legal and factual determinations. The agency must respond in writing and articulate the basis for its action.
 
 (b) Subsection (a) of this section shall not apply to settlement negotiations between agencies and regulated parties, to notices of a prospective legal action, or to litigation before courts.
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) the term "repetitive loss structure" means a structure covered by a contract for flood insurance that—
 
-&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent ofthe value of the structure at the time of each such flood event; and
+&emsp;&emsp;(A) has incurred flood-related damage on 2 occasions, in which the cost of repair, on the average, equaled or exceeded 25 percent of the value of the structure at the time of each such flood event; and
 
 &emsp;&emsp;(B) at the time of the second incidence of flood-related damage, the contract for flood insurance contains increased cost of compliance coverage.<sup>1</sup>
 
@@ -50,7 +50,7 @@
 
 This chapter, referred to in text, was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881,which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 

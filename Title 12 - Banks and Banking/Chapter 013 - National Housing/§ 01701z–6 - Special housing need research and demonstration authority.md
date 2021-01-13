@@ -22,9 +22,13 @@ In addition to any other contract or loan authority which the Secretary may util
 
 (Pub. L. 91–609, title V, §507, as added Pub. L. 93–383, title VIII, §815, Aug. 22, 1974, 88 Stat. 738.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indian Public Housing Early Childhood Development Demonstration Program
 
@@ -54,7 +58,7 @@ Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, pro
 
 "(c) The Secretary of Housing and Urban Development (hereafter referred to in this section as the 'Secretary') shall, to the extent approved in appropriation Acts, establish and maintain a demonstration project to carry out the purpose described in subsection (b).
 
-"(d) In carrying out such project, the Secretary shall make grants to units of general local government, or designated agencies thereof, to carry out administrative plans approved by the Secretary in accordancewith subsection (e), and the Secretary may make grants to States to provide technical assistance for the purpose of assisting such units of general local government to develop and carry out such plans.
+"(d) In carrying out such project, the Secretary shall make grants to units of general local government, or designated agencies thereof, to carry out administrative plans approved by the Secretary in accordance with subsection (e), and the Secretary may make grants to States to provide technical assistance for the purpose of assisting such units of general local government to develop and carry out such plans.
 
 "(e)(1) Grants may be made to States and units of general local government and agencies thereof that apply for them in a manner and at a time determined by the Secretary and that, in the case of units of general local government and their agencies, are selected on the basis of an administrative plan described in such application.
 
@@ -88,7 +92,7 @@ Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, pro
 
 &emsp;"(3) other terms and conditions prescribed by the Secretary for the purpose of carrying out this section in an effective and efficient manner.
 
-"(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projects that will enable the Secretary to carry out the purpose of this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
+"(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projectsthat will enable the Secretary to carry out the purpose of this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
 
 "(h)(1) Not later than June 1, 1984, the Secretary shall transmit to the Congress an interim report on the implementation of the demonstration under this section.
 

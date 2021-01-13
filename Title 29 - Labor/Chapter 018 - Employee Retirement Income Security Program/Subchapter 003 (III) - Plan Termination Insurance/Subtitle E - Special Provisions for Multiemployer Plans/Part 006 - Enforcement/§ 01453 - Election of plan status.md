@@ -22,11 +22,13 @@ An election described in subsection (a) shall be treated as being effective as o
 
 (Pub. L. 93–406, title IV, §4303, as added Pub. L. 96–364, title I, §108(f), Sept. 26, 1980, 94 Stat. 1270.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(1), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Internal Revenue Code of 1954, referred to in subsecs. (a) and (b)(1), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, and is classified to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsecs. (a) and (b)(1), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
 For the effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (a), see section 1461(e) of this title.
 

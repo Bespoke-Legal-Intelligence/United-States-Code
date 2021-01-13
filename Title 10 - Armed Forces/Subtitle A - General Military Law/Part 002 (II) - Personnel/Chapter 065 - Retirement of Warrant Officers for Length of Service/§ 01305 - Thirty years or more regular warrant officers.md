@@ -62,7 +62,7 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(b)(2)), 14(b)(2), (e) (as
 
 In subsection (a), the words "has at least" are substituted for the words "has completed". The words "and is not so continued on active service" and "on that date which" are omitted as surplusage. 10:600l(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
 
-In subsection (b), the words "The Secretary concerned may defer" are substituted for the words "may, in the discretion of the Secretary, be deferred". The words "determination of his" are inserted for clarity. The words "not more than" are substituted for thewords "a period not to exceed". The words "he would otherwise be required to retire under this section" are substituted for the words "retirement \* \* \* would otherwise be required". The words "which is required", "possible", "proper", and "a period of" are omitted as surplusage.
+In subsection (b), the words "The Secretary concerned may defer" are substituted for the words "may, in the discretion of the Secretary, be deferred". The words "determination of his" are inserted for clarity. The words "not more than" are substituted for the words "a period not to exceed". The words "he would otherwise be required to retire under this section" are substituted for the words "retirement \* \* \* would otherwise be required". The words "which is required", "possible", "proper", and "a period of" are omitted as surplusage.
 
 In subsection (c), the words "the Secretary concerned may defer the retirement" are substituted for the words "in the discretion of the Secretary \* \* \* be continued on active service". The words "but not later than" are substituted for the words "but not beyond that date which is".
 
@@ -72,7 +72,7 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §504(1), substituted "Subject to paragraphs (2) and (3), a regular warrant officer" for "A regular warrant officer (other than a regular Army warrant officer)" and "date on which the officer" for "date on which he".
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §504(1), substituted "Subject to paragraphs (2) and (3), a regular warrant officer" for "A regular warrant officer (otherthan a regular Army warrant officer)" and "date on which the officer" for "date on which he".
 
 Subsec. (a)(3). Pub. L. 112–239, §504(2), added par. (3).
 

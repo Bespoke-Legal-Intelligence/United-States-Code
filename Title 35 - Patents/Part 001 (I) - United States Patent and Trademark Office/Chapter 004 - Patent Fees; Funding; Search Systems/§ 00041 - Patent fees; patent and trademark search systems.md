@@ -20,7 +20,7 @@ Filing and basic national fees.—
 
 &emsp;&emsp;(F) The basic national fee for each international application filed under the treaty defined in section 351(a) entering the national stage under section 371, $330.
 
-&emsp;&emsp;(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $270 for each additional 50 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium) or fraction thereof.
+&emsp;&emsp;(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $270 for each additional 50 sheets of paper (or equivalent as prescribed by the Director iffiled in an electronic medium) or fraction thereof.
 
 &emsp;(2)
 
@@ -52,7 +52,7 @@ Examination fees.—
 
 In general.—
 
-&emsp;&emsp;&emsp;(i) For examination of each application for an original patent, except for design,plant, provisional, or international applications, $220.
+&emsp;&emsp;&emsp;(i) For examination of each application for an original patent, except for design, plant, provisional, or international applications, $220.
 
 &emsp;&emsp;&emsp;(ii) For examination of each application for an original design patent, $140.
 
@@ -258,6 +258,8 @@ An omnibus item to take care of miscellaneous minor fees is added; in view of th
 
 The fee for reissue applications is changed slightly.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
@@ -360,7 +362,7 @@ Subsec. (a). Pub. L. 102–204, §5(a)(1), amended subsec. (a) generally. Prior 
 
 &emsp;"d. On issuing each plant patent, $250.
 
-"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twenty and also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
+"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation atany other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twenty and also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
 "5. On filing each disclaimer, $50.
 
@@ -444,11 +446,13 @@ Subsec. (a)7. Pub. L. 89–83, §1, increased the fee for filing a petition for 
 
 Subsec. (a)8. Pub. L. 89–83, §1, inserted fee for the certificate under section 256 of this title, and increased the fee for a certificate under section 255 of this title from $10 to $15.
 
-Subsec. (a)9. Pub. L. 89–83, §1, increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants,without charge, with copies of specifications and drawings when referred to in a section 132 notice.
+Subsec. (a)9. Pub. L. 89–83, §1, increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants, without charge, with copies of specifications and drawings when referred to in a section 132 notice.
 
 Subsec. (a)10. Pub. L. 89–83, §1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
 
 Subsec. (c). Pub. L. 89–83, §2, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -610,7 +614,7 @@ Publication and rationale.—The Director shall—
 
 &emsp;"(2)
 
-Public comment period.—The Director shall, in the publication under paragraph (1), provide thepublic a period of not less than 45 days in which to submit comments on the proposed change in fees.
+Public comment period.—The Director shall, in the publication under paragraph (1), provide the public a period of not less than 45 days in which to submit comments on the proposed change in fees.
 
 &emsp;"(3)
 
@@ -830,7 +834,7 @@ Excess claims fees.—In addition to the fee specified in paragraph (1)—
 
 &emsp;&emsp;" '(C) for each application containing a multiple dependent claim, $360.
 
-> For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examination on the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
+> For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examinationon the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
 
 &emsp;" '(3)
 
@@ -874,7 +878,7 @@ Appeal fees.—
 
 &emsp;" '(7)
 
-Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in anyreexamination proceeding, $1,500, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $500.
+Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,500, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $500.
 
 &emsp;" '(8)
 
@@ -1072,7 +1076,7 @@ Timing of fees.—The provisions of section 111(a)(3) of title 35, United States
 
 #### Study on Alternative Fee Structures
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4204\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: "The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the UnitedStates Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\]."
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4204\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: "The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\]."
 
 #### Cost Recovery for Publication
 
@@ -1116,7 +1120,7 @@ Pub. L. 101–508, title X, §10103, Nov. 5, 1990, 104 Stat. 1388–392, provide
 
 #### Public Access to Patent and Trademark Office Information
 
-Pub. L. 100–703, title I, §104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by Pub. L. 102–204, §9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
+Pub. L. 100–703, title I, §104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems ofthe Patent and Trademark Office, prior to repeal by Pub. L. 102–204, §9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
 
 Pub. L. 99–607, §4, Nov. 6, 1986, 100 Stat. 3471, provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by Pub. L. 100–703, title I, §104(a), Nov. 19, 1988, 102 Stat. 4675.
 

@@ -4,6 +4,8 @@ All fees collected by diplomatic and consular officers for and in behalf of the 
 
 (R.S. §1746.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1746 derived from act Aug. 18, 1856, ch. 127, §30, 11 Stat. 63.

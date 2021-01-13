@@ -68,7 +68,7 @@ The provisions of subsection (a) may not be superseded except by a provision of 
 
 &emsp;(D)(i) When a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the National Security Agency shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in subsection (b).
 
-&emsp;(ii) The court may not order the National Security Agency to review the content of any exempted operational file or files in order to make the demonstration required under clause\(i), unless the complainant disputes the National Security Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
+&emsp;(ii) The court may not order the National Security Agency to review the content of any exempted operational file or files in order to make the demonstration required under clause (i), unless the complainant disputes the National Security Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
 
 &emsp;(E) In proceedings under subparagraphs (C) and (D), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 

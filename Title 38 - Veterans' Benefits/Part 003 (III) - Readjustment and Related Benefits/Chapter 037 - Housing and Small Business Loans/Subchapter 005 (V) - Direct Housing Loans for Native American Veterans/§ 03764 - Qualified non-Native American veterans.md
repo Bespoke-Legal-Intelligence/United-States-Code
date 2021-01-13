@@ -18,6 +18,8 @@ Restrictions Imposed by Tribal Organizations.—Nothing in subsection (b) shall 
 
 (Added Pub. L. 109–233, title I, §104(a)(2), June 15, 2006, 120 Stat. 401.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3764 was renumbered section 3765 of this title.

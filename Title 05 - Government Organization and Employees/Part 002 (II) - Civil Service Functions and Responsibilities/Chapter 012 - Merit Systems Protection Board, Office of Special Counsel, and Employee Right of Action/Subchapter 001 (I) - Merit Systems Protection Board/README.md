@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–12, §3(b)(4), Apr. 10, 1989, 103 Stat. 31, inserted subchapter heading.

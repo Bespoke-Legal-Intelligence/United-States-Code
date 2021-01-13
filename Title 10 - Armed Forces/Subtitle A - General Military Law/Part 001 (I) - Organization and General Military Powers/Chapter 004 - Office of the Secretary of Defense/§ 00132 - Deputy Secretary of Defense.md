@@ -58,7 +58,7 @@ Pub. L. 115–91, §910(b)(1), repealed Pub. L. 114–328, §901(c)(4). See 2016
 
 Subsec. (e). Pub. L. 115–91, §910(b)(1), repealed Pub. L. 114–328, §901(c)(4). See 2016 Amendment note below.
 
-<b>2016</b>—Subsecs. (c) to (e). Pub. L. 114–328, §901(c)(4), which directed striking out subsec. (c) and redesignating subsecs. (d) and (e) as (c) and (d), respectively, was repealed by Pub. L. 115–91, §901(b)(1).
+<b>2016</b>—Subsecs. (c) to (e). Pub. L. 114–328, §901(c)(4), which directed striking out subsec. (c) and redesignating subsecs. (d) and (e) as (c) and (d), respectively, was repealed by Pub. L. 115–91, §910(b)(1).
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–291 substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is disabled or there is no Secretary of Defense".
 
@@ -102,9 +102,9 @@ Subsec. (c). Pub. L. 92–596 substituted "The Deputy Secretaries take" for "The
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title IX, §910(b)(1), Dec. 12, 2017, 131 Stat. 1517, provided that the amendment made by section 910(b)(1) is effective on Jan. 31, 2018.
+Pub. L. 115–91, div. A, title IX, §910(b)(1), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(b)(1) was effective on Jan. 31, 2018, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
-Pub. L. 115–91, div. A, title IX, §910(b)(2), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(b)(2) is effective on Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, §910(b)(2), Dec. 12, 2017, 131 Stat. 1518, which provided that the amendment made by section 910(b)(2) was effective on Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 #### Effective Date of 2016 Amendment
 
@@ -168,9 +168,7 @@ Pub. L. 110–181, div. A, title IX, §904(a)(2), Jan. 28, 2008, 122 Stat. 273, 
 
 "(C) The Secretary shall assign such duties and authorities to the Deputy Chief Management Officer as are necessary for that official to assist the Chief Management Officer to effectively and efficiently organize the business operations of the Department of Defense.
 
-"(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned bythe Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer."
-
-\[Deputy Chief Management Officer of the Department of Defense deemed to refer to Chief Management Officer of the Department of Defense, see section 1081(f)(2) of Pub. L. 115–232, set out as a Change of Name note under section 132a of this title.\]
+"(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer."
 
 #### Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments
 

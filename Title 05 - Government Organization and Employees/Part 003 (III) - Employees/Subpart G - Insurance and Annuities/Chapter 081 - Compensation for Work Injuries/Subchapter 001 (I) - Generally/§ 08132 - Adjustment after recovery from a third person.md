@@ -40,9 +40,13 @@ July 4, 1966, Pub. L. 89–488, §10(b), 80 Stat. 255.
 
 The words "However, \* \* \* is entitled to retain \* \* \* plus" are substituted for "<i>Provided</i>, That \* \* \* shall have the right to retain \* \* \* and, in addition, to retain".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

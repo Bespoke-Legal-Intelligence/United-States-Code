@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Certification
 
-&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless the operator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleum engineer that the project meets (and continues to meet) the requirements of subparagraph (A).
+&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless the operator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleumengineer that the project meets (and continues to meet) the requirements of subparagraph (A).
 
 #### (3) At-risk limitation
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a),\(b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
+(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -182,7 +182,7 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 "(1)
 
-In general.—The amendments made by this section \[enacting this section and amending sections 38, 39, 196, and 6501 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
+In general.—The amendments made by this section \[enacting this section and amending sections 38,39, 196, and 6501 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
 
 "(2)
 
@@ -191,6 +191,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2020</b>—Internal Revenue Notice 2020–31.
 
 <b>2019</b>—Internal Revenue Notice 2019–36.
 

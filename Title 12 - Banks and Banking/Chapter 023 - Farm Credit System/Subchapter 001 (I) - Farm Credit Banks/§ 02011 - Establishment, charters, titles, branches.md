@@ -18,6 +18,8 @@ Each Farm Credit Bank may establish such branches or other offices as may be app
 
 (Pub. L. 92–181, title I, §1.3, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1622; amended Pub. L. 100–399, title IV, §401(a), (b), Aug. 17, 1988, 102 Stat. 995.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 410 of the Agricultural Credit Act of 1987, referred to in subsec. (a), is section 410 of Pub. L. 100–233, which is set out as a note below.
@@ -31,6 +33,8 @@ A prior section 2011, Pub. L. 92–181, title I, §1.3, Dec. 10, 1971, 85 Stat. 
 <b>1988</b>—Subsec. (a). Pub. L. 100–399, §401(a), inserted ", as provided in section 410 of the Agricultural Credit Act of 1987," before "shall".
 
 Subsec. (b). Pub. L. 100–399, §401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The charters or organization certificates of Farm Credit Banks may be modified from time to time by the Farm Credit Administration Board, not inconsistent with the provisions of this subchapter, as may be necessary or expedient to implement this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 100–233, title IV, §410, Jan. 6, 1988, 101 Stat. 1637, as amended by 
 
 "(a)
 
-In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], the Federal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
+In General.—Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], theFederal land bank and the Federal intermediate credit bank of each Farm Credit System district shall merge into a Farm Credit Bank in such district pursuant to a plan of merger agreed on by the Boards of Directors of such banks and approved by the Farm Credit Administration, or if such banks fail to agree, a plan of merger prescribed by the Farm Credit Administration. The mergers required by this section shall be implemented without regard to title VII \[enacting sections 2279aa to 2279aa–14 of this title, amending sections 2012, 2033, 2072, and 2093 of this title, section 1988 of Title 7, Agriculture, and section 9105 of Title 31, Money and Finance, and enacting provisions set out as notes under section 2279aa of this title and section 1988 of Title 7\].
 
 "(b)
 
@@ -142,7 +146,7 @@ Extension.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank of Jackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
+Letter of intent.—If no later than June 30, 1993, the Federal Intermediate Credit Bank ofJackson delivers to the Farm Credit Administration a letter of intent to merge with a Farm Credit Bank, summarizing the terms and conditions of the merger (including, but not limited to, board composition, capital structure, exchange, or transfer of equities, and termination) signed by the chief executive officer and the members of the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank, the Farm Credit Administration shall, on its determination that the letter of intent represents a bona fide good faith agreement in principle between the two banks to merge, and that there is at least a reasonable prospect that the merger will be completed in an expeditious manner, grant a one-time extension, until a date certain not later than October 31, 1993, of the requirement under subparagraph (A). Any extension provided under this subparagraph may be conditioned on such terms and conditions as the Farm Credit Administration determines necessary to ensure that the merger described in the letter of intent is completed by the closing date of the extension.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -242,7 +246,7 @@ Certification of plan.—Not later than 30 days after the receipt of the plan de
 
 &emsp;&emsp;&emsp;"(ii) recommend to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify,
 
-&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan asthe arbitrator deems appropriate to secure the certification.
+&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
 
 &emsp;&emsp;"(F)
 
@@ -318,7 +322,7 @@ Safety and soundness.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is beingoperated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
+In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -378,5 +382,5 @@ Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et s
 
 &emsp;&emsp;&emsp;"(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soonas possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution."
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soon as possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution."
 

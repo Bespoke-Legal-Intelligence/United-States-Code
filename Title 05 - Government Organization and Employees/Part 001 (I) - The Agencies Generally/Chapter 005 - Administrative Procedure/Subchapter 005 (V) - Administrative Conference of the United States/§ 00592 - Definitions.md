@@ -30,6 +30,8 @@ In paragraph (2), the words "section 551(1) of this title" are substituted for "
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 592 was renumbered section 582 of this title and was subsequently repealed.

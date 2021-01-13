@@ -4,9 +4,13 @@ Whenever any deceased Senator or Member of the House of Representatives shall be
 
 (May 23, 1876, ch. 103, 19 Stat. 54.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 51 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Trust Endowment for Care and Maintenance of Congressional Cemetery
 
@@ -14,7 +18,7 @@ Pub. L. 105–275, title II, §209, Oct. 21, 1998, 112 Stat. 2448, provided that
 
 "(a)
 
-Grant for Care and Maintenance of Congressional Cemetery.—In order to assist in the perpetual care and maintenance of the historic CongressionalCemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the 'National Trust') in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the 'Association') which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
+Grant for Care and Maintenance of Congressional Cemetery.—In order to assist in the perpetual care and maintenance of the historic Congressional Cemetery, the Architect of the Capitol shall make a grant to the National Trust for Historic Preservation (hereafter in this section referred to as the 'National Trust') in accordance with an agreement entered into by the Architect of the Capitol with the National Trust and the Association for the Preservation of Historic Congressional Cemetery (hereafter in this section referred to as the 'Association') which contains the terms and conditions described in subsection (b) and such other provisions as the Architect may deem necessary or desirable for the implementation of this section or for the protection of the interests of the Federal Government.
 
 "(b)
 

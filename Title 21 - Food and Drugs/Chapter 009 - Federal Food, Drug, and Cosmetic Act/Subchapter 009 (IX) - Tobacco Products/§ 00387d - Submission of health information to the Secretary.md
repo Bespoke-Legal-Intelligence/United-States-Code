@@ -54,11 +54,15 @@ Not later than 24 months after June 22, 2009, the Secretary shall establish, and
 
 (June 25, 1938, ch. 675, §904, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1790.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 904 of act June 25, 1938, was renumbered section 1004 and is classified to section 394 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Modification of Deadlines for Secretarial Action
 
-With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 forwhich the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 

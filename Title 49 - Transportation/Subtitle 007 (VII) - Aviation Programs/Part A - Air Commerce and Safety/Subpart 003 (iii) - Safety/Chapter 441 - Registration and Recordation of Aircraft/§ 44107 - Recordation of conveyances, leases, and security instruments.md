@@ -156,7 +156,7 @@ In subsections (a)(3) and (c), the words "lease, or instrument" are substituted 
 
 In subsections (b) and (d), the words "or locations" are omitted because of 1:1.
 
-In subsection (b), the words "recorded under subsection (a)(2)(C) or (D) of this section" are added for clarity. The words "lease or instrument" are substituted for "instrument" for clarity and consistency in this subchapter.
+In subsection (b), the words "recorded under subsection (a)(2)(C) or (D) of this section" are added forclarity. The words "lease or instrument" are substituted for "instrument" for clarity and consistency in this subchapter.
 
 In subsection (c), before clause (1), the words "by regulation" are omitted because of 49:322(a). In clause (2), the words "possession of the United States" are substituted for "possession thereof" for clarity.
 

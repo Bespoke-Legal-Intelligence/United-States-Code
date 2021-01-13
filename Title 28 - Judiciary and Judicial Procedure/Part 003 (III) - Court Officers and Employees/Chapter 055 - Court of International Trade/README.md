@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–466, §3(b)(3), Oct. 14, 1986, 100 Stat. 1191, struck out item 872 "Marshal and deputy marshals" and redesignated item 873 as 872.

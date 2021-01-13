@@ -36,6 +36,8 @@ Aug. 4, 1949, ch. 393, §1(41), 63 Stat. 497.
 
 May 29, 1954, ch. 249, §3(a) (less 3d and last sentences, as applicable to temporary appointments), 68 Stat. 157.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 301, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to permanent appointment of warrant officers, prior to repeal by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177. See section 571 et seq. of Title 10, Armed Forces.
@@ -59,6 +61,8 @@ A prior section 301, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to permane
 <b>1960</b>—Pub. L. 86–474 inserted the grade of admiral.
 
 <b>1956</b>—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting "chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2" for "commissioned warrant officers", and "warrant officers, W–1" for "warrant officers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

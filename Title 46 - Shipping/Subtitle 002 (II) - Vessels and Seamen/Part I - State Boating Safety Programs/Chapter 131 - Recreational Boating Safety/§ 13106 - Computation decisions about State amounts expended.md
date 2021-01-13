@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 Section 13105 prescribes what amounts expended or obligated by a State will be counted toward the State's share. This section also authorizes the Secretary to settle any dispute over the computations required by this section.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 13106 was renumbered section 13107 of this title.
@@ -41,6 +43,8 @@ A prior section 13106 was renumbered section 13107 of this title.
 <b>1990</b>—Subsec. (a). Pub. L. 101–595 struck out "or obligated" after "expended" in provisions preceding par. (1).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 struck out "and facilities improvement" after "boating safety" in provisions preceding par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -14,6 +14,8 @@ Special Rule for Discharge.—If a plan is confirmed under section 1191(b) of th
 
 (Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1079.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under section 101 of this title.

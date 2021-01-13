@@ -22,7 +22,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 &emsp;&emsp;(A) informs the taxpayer that contacts with persons other than the taxpayer are intended to be made during such period, and
 
-&emsp;&emsp;(B) except as otherwise provided by the Secretary, is provided to the taxpayer notlater than 45 days before the beginning of such period.
+&emsp;&emsp;(B) except as otherwise provided by the Secretary, is provided to the taxpayer not later than 45 days before the beginning of such period.
 
 > &emsp;Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is an intent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
 

@@ -2,17 +2,21 @@
 
 #### (a) General prohibition
 
-In conjunction with the purchase of a consumer's principal dwelling, broker price opinionsmay not be used as the primary basis to determine the value of a piece of property for the purpose of a loan origination of a residential mortgage loan secured by such piece of property.
+In conjunction with the purchase of a consumer's principal dwelling, broker price opinions may not be used as the primary basis to determine the value of a piece of property for the purpose of a loan origination of a residential mortgage loan secured by such piece of property.
 
 #### (b) Broker price opinion defined
 
-For purposes of this section, the term "broker price opinion" means an estimate prepared by a real estate broker, agent, or sales person that details the probable selling price of a particular piece of real estate property and provides a varying level of detail about the property's condition, market, and neighborhood, and information on comparable sales, but does not include an automated valuation model, as defined in section 3354(c) <sup>1</sup> of this title.
+For purposes of this section, the term "broker price opinion" means an estimate prepared by areal estate broker, agent, or sales person that details the probable selling price of a particular piece of real estate property and provides a varying level of detail about the property's condition, market, and neighborhood, and information on comparable sales, but does not include an automated valuation model, as defined in section 3354(c) <sup>1</sup> of this title.
 
 (Pub. L. 101–73, title XI, §1126, as added Pub. L. 111–203, title XIV, §1473(r), July 21, 2010, 124 Stat. 2198.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 3354(c) of this title, referred to in subsec. (b), probably means section 3354(d) of this title, which defines "automated valuation model".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

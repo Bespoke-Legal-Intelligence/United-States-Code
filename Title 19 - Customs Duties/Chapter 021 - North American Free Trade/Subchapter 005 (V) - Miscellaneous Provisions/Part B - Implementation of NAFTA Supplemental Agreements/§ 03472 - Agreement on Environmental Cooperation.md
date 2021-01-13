@@ -18,7 +18,35 @@ As used in this section—
 
 &emsp;(2) the term "North American Agreement on Environmental Cooperation" means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
-(Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164.)
+(Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+
+#### Amendments
+
+<b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
+
+Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
+
+#### Technical Corrections to the United States-Mexico-Canada Agreement Implementation Act: Environment Cooperation Commissions and North American Development Bank
+
+Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149, provided that:
+
+"(1)
+
+In general.—Section 601 of the United States-Mexico-Canada Agreement Implementation Act (Public Law 116–113; 134 Stat. 78) \[19 U.S.C. 3301 note\] shall not apply to the provisions specified in paragraph (2) and such provisions shall be restored and revived as if such section had not been enacted.
+
+"(2)
+
+Provisions specified.—The provisions specified in this paragraph are the following:
+
+&emsp;"(A) Sections 532 and 533 of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3472, 3473\].
+
+&emsp;"(B) Part 2 of subtitle D of title V of such Act (as amended by section 831 of the United States-Mexico-Canada Agreement Implementation Act) \[22 U.S.C. 290m et seq.\]."
+
+\[Section 601(a)(1), (2) of Pub. L. 116–260, set out above, effective on July 1, 2020, see section 601(h) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 81c of this title.\]
 
 #### Ex. Ord. No. 12915. Federal Implementation of the North American Agreement on Environmental Cooperation
 
@@ -26,7 +54,7 @@ Ex. Ord. No. 12915, May 13, 1994, 59 F.R. 25775, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act, Public Law 103–182; 107 Stat. 2057 ("NAFTA Implementation Act") \[see Tables for classification\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. POLICY. (a) The North American Agreement on Environmental Cooperation ("Environmental Cooperation Agreement") shall be implemented consistent with United States policy for the protection of human, animal or plant life or health, and the environment. The Environmental Cooperation Agreement shall also be implemented to advance sustainable development, pollution prevention, environmental justice, ecosystem protection, and biodiversity preservation and in a manner that promotes transparency and public participation in accordance with the North American FreeTrade Agreement ("NAFTA") and the Environmental Cooperation Agreement.
+Section 1. POLICY. (a) The North American Agreement on Environmental Cooperation ("Environmental Cooperation Agreement") shall be implemented consistent with United States policy for the protection of human, animal or plant life or health, and the environment. The Environmental Cooperation Agreement shall also be implemented to advance sustainable development, pollution prevention, environmental justice, ecosystem protection, and biodiversity preservation and in a manner that promotes transparency and public participation in accordance with the North American Free Trade Agreement ("NAFTA") and the Environmental Cooperation Agreement.
 
 (b) Effective implementation of the Environmental Cooperation Agreement is essential to the realization of the environmental objectives of NAFTA and the NAFTA Implementation Act and promotes cooperation on trade and environmental issues between the United States, Canada, and Mexico.
 
@@ -80,7 +108,7 @@ Sec. 3. NATIONAL ADVISORY COMMITTEE. The EPA Administrator shall utilize a Natio
 
 Sec. 4. UNITED STATES CONTRIBUTIONS TO THE COMMISSION FOR ENVIRONMENTAL COOPERATION. In accordance with section 532(a)(2) of the NAFTA Implementation Act \[19 U.S.C. 3472(a)(2)\], the EPA is designated as the agency authorized to make the contributions of the United States from funds available for such contributions to the annual budget of the Commission for Environmental Cooperation.
 
-Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, createany right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

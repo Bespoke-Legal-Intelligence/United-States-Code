@@ -4,6 +4,8 @@ The Secretary may repair or replace any artificial limb, truss, brace, hearing a
 
 (Added Pub. L. 87–850, §1(a), Oct. 23, 1962, 76 Stat. 1126, §619; amended Pub. L. 94–581, title II, §210(a)(6), Oct. 21, 1976, 90 Stat. 2862; renumbered §1719 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–83, §5(a), renumbered section 619 of this title as this section.
@@ -11,6 +13,8 @@ The Secretary may repair or replace any artificial limb, truss, brace, hearing a
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
 
 <b>1976</b>—Pub. L. 94–581 substituted "belonging to such veteran" for "belonging to him".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

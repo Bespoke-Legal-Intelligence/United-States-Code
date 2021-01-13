@@ -22,7 +22,7 @@ For purposes of this part:
 
 #### References in Text
 
-Section 254b(h)(5)(C) of this title, referred to in par. (4), was redesignated section 254b(h)(5)(B) of this titleand the definition of "substance abuse services" was amended to define "substance use disorder services" by Pub. L. 115–123, div. E, title IX, §50901(b)(8)(B)(ii), (iii), Feb. 9, 2018, 132 Stat. 285.
+Section 254b(h)(5)(C) of this title, referred to in par. (4), was redesignated section 254b(h)(5)(B) of this title and the definition of "substance abuse services" was amended to define "substance use disorder services" by Pub. L. 115–123, div. E, title IX, §50901(b)(8)(B)(ii), (iii), Feb. 9, 2018, 132 Stat. 285.
 
 #### Amendments
 

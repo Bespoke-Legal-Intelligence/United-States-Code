@@ -100,7 +100,7 @@ An eligible entity that receives a grant under this section shall, as a conditio
 
 Not later than 1 year after the date on which an eligible entity receives a grant under this section and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
 
-&emsp;(A) the number of domestic violence victims with pets, service animals, emotional support animals, or horses provided such assistance; and
+&emsp;(A) the number of domestic violence victims with pets, service animals, emotional supportanimals, or horses provided such assistance; and
 
 &emsp;(B) the purpose, amount, type of, and duration of such assistance.
 
@@ -182,6 +182,8 @@ In this section:
 
 (Pub. L. 115–334, title XII, §12502(b), Dec. 20, 2018, 132 Stat. 4983.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to par. (1)(B) and the second time appearing in par. (9)(F), was so in the original, meaning section 12502 of title XII of Pub. L. 115–334. For classification of section 12502 to the Code, see Codification note below.
@@ -189,6 +191,8 @@ This section, referred to par. (1)(B) and the second time appearing in par. (9)(
 #### Codification
 
 Section is comprised of section 12502(b) of title XII of Pub. L. 115–334. Section 12502(a) of Pub. L. 115–334 amended sections 2261A, 2262, 2264, and 2266 of Title 18, Crimes and Criminal Procedure. Section 12502(c) of Pub. L. 115–334 is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

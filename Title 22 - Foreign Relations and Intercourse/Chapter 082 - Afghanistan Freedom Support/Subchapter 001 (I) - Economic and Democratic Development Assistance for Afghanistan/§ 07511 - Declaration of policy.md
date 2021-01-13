@@ -16,6 +16,8 @@ Congress makes the following declarations:
 
 (Pub. L. 107–327, title I, §101, Dec. 4, 2002, 116 Stat. 2798.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Meaningful Inclusion of Afghan Women in Peace Negotiations
 
 Pub. L. 116–92, div. A, title XII, §1216, Dec. 20, 2019, 133 Stat. 1633, provided that:
@@ -50,7 +52,7 @@ Availability of Agreement Text.—Before entering into any bilateral security ag
 
 "(c)
 
-Termination of Consultations.—The requirements of this section shall terminate on the date on which the United States and Afghanistan enter into abilateral security agreement or the President notifies Congress that negotiations on such an agreement have been terminated.
+Termination of Consultations.—The requirements of this section shall terminate on the date on which the United States and Afghanistan enter into a bilateral security agreement or the President notifies Congress that negotiations on such an agreement have been terminated.
 
 "(d)
 
@@ -120,7 +122,7 @@ Emergency Increase in Effective Police Training and Policing Operations.—
 
 &emsp;"(1)
 
-Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
+Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment todate and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
 &emsp;"(2)
 

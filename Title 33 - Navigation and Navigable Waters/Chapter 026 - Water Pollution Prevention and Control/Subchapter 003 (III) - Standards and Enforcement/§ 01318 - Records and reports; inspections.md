@@ -2,7 +2,7 @@
 
 #### (a) Maintenance; monitoring equipment; entry; access to information
 
-Whenever required to carry out the objective of this chapter, including but not limited to (1)developing or assisting in the development of any effluent limitation, or other limitation, prohibition, or effluent standard, pretreatment standard, or standard of performance under this chapter; (2) determining whether any person is in violation of any such effluent limitation, or other limitation, prohibition or effluent standard, pretreatment standard, or standard of performance; (3) any requirement established under this section; or (4) carrying out sections 1315, 1321, 1342, 1344 (relating to State permit programs), 1345, and 1364 of this title—
+Whenever required to carry out the objective of this chapter, including but not limited to (1) developing or assisting in the development of any effluent limitation, or other limitation, prohibition, or effluent standard, pretreatment standard, or standard of performance under this chapter; (2) determining whether any person is in violation of any such effluent limitation, or other limitation, prohibition or effluent standard, pretreatment standard, or standard of performance; (3) any requirement established under this section; or (4) carrying out sections 1315, 1321, 1342, 1344 (relating to State permit programs), 1345, and 1364 of this title—
 
 &emsp;(A) the Administrator shall require the owner or operator of any point source to (i) establish and maintain such records, (ii) make such reports, (iii) install, use, and maintain such monitoring equipment or methods (including where appropriate, biological monitoring methods), (iv) sample such effluents (in accordance with such methods, at such locations, at such intervals, and in such manner as the Administrator shall prescribe), and (v) provide such other information as he may reasonably require; and
 
@@ -26,13 +26,15 @@ Notwithstanding any limitation contained in this section or any other provision 
 
 (June 30, 1948, ch. 758, title III, §308, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 858; amended Pub. L. 95–217, §67(c)(1), Dec. 27, 1977, 91 Stat. 1606; Pub. L. 100–4, title III, §310, title IV, §406(d)(1), Feb. 4, 1987, 101 Stat. 41, 73.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–4, §406(d)(1), substituted "1345, and 1364" for "and 1364" in cl. (4).
 
 Subsec. (a)(B). Pub. L. 100–4, §310(a)(2), inserted "(including an authorized contractor acting as a representative of the Administrator)" after "representative".
 
-Subsec. (b). Pub. L. 100–4, §310(a)(1), substituted a period and "Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter." for ", except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter."
+Subsec. (b). Pub. L. 100–4, §310(a)(1), substituted a period and "Any authorized representative of the Administrator (including an authorized contractor acting as a representative of the Administrator) who knowingly or willfully publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information which is required to be considered confidential under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both. Nothing in this subsection shall prohibit the Administrator or an authorized representative of the Administrator (including any authorized contractor acting as a representative of the Administrator) from disclosing records, reports, or information to other officers, employees, or authorized representatives of the UnitedStates concerned with carrying out this chapter or when relevant in any proceeding under this chapter." for ", except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter."
 
 Subsec. (d). Pub. L. 100–4, §310(b), added subsec. (d).
 

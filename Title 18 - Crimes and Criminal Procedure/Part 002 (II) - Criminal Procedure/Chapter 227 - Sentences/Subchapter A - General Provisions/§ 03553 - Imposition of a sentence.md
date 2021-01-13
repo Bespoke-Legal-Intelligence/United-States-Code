@@ -122,6 +122,8 @@ Definition of Violent Offense.—As used in this section, the term "violent offe
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 108–21, title IV, §401(a), (c), (j)(5), Apr. 30, 2003, 117 Stat. 667, 669, 673; Pub. L. 111–174, §4, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title IV, §402(a), Dec. 21, 2018, 132 Stat. 5221.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
@@ -170,7 +172,7 @@ Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §6
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted "court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result" for "court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result".
 
-Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequatelytaken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
+Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
 
 Pub. L. 100–182, §16(a), substituted "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission." for "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2)."
 
@@ -185,6 +187,8 @@ Subsec. (c). Pub. L. 99–646, §8(a), substituted "If the court does not order 
 Subsec. (d). Pub. L. 99–646, §80(a), struck out "or restitution" after "notice" in heading, and struck out "or an order of restitution pursuant to section 3556," after "section 3555," in introductory text.
 
 Subsec. (e). Pub. L. 99–570 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -260,7 +264,7 @@ Appeal of the departure.—Not later than 5 days after a decision by the Solicit
 
 "(3)
 
-Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraphshall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3)."
+Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3)."
 
 #### Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
 

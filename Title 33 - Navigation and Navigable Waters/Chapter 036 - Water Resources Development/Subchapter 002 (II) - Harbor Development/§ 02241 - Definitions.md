@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(A) Except as provided in subparagraph (B), the term "eligible operations and maintenance" means all Federal operations, maintenance, repair, and rehabilitation, including (i) maintenance dredging reasonably necessary to maintain the width and nominal depth of any harbor or inland harbor; (ii) the construction of dredged material disposal facilities that are necessary for the operation and maintenance of any harbor or inland harbor; (iii) dredging and disposing of contaminated sediments that are in or that affect the maintenance of Federal navigation channels; (iv) mitigating for impacts resulting from Federal navigation operation and maintenance activities; and (v) operating and maintaining dredged material disposal facilities.
 
-&emsp;(B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Saint Lawrence Seaway Development Corporation in operation and reasonable state of repair.
+&emsp;(B) As applied to the Saint Lawrence Seaway, the term "eligible operations and maintenance" means all operations, maintenance, repair, and rehabilitation, including maintenance dredging reasonably necessary to keep such Seaway or navigation improvements operated or maintained by the Great Lakes St. Lawrence Seaway Development Corporation in operation and reasonable state of repair.
 
 &emsp;(C) The term "eligible operations and maintenance" does not include providing any lands, easements, or rights-of-way, or performing relocations required for project operations and maintenance.
 
@@ -56,9 +56,11 @@ For purposes of this subchapter—
 
 #### (8) United States
 
-&emsp;The term "United States" means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
+&emsp;The term "United States" means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possessionover which the United States exercises jurisdiction.
 
-(Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672.)
+(Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672; Pub. L. 116–260, div. AA, title V, §512(c)(5)(C), Dec. 27, 2020, 134 Stat. 2756.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -66,9 +68,13 @@ Section 202 of this title, referred to in pars. (1) and (3), is section 202 of t
 
 #### Amendments
 
+<b>2020</b>—Par. (2)(B). Pub. L. 116–260 substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation".
+
 <b>1996</b>—Par. (2)(A). Pub. L. 104–303, §201(e)(1), inserted "Federal" after "means all" and "(i)" after "including", and inserted before period at end a semicolon and cls. (ii) to (v).
 
 Par. (2)(C). Pub. L. 104–303, §201(e)(2), substituted "or rights-of-way," for "rights-of-way, or dredged material disposal areas,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increases in Non-Federal Share of Costs
 

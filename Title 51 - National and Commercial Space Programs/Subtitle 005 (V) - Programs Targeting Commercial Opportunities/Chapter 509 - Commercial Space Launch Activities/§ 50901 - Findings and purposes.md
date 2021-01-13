@@ -28,7 +28,7 @@ Findings.—Congress finds that—
 
 &emsp;(12) space transportation is inherently risky, and the future of the commercial human space flight industry will depend on its ability to continually improve its safety performance;
 
-&emsp;(13) a critical area of responsibility for the Department of Transportation is to regulate the operations and safety of the emerging commercial human space flight industry;
+&emsp;(13) a critical area of responsibility for the Department of Transportation is to regulatethe operations and safety of the emerging commercial human space flight industry;
 
 &emsp;(14) the public interest is served by creating a clear legal, regulatory, and safety regime for commercial human space flight; and
 
@@ -78,6 +78,8 @@ In subsection (a), before clause (1), the words "and declares" are omitted as su
 
 In subsection (b), before clause (1), the word "therefore" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(15). Pub. L. 114–90, which directed amendment of section "50901(15)" by inserting ", government astronauts," after "crew" wherever appearing, was executed by making the insertion in subsec. (a)(15) in two places, to reflect the probable intent of Congress.
@@ -116,6 +118,8 @@ Subsec. (b)(3). Pub. L. 105–303, §102(a)(2)(L), (M), inserted "and reentry" a
 
 Subsec. (b)(4). Pub. L. 105–303, §102(a)(2)(N), inserted "and development of reentry sites," after "launch-site support facilities,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 106–405, §2, Nov. 1, 2000, 114 Stat. 1751, provided that: "The Congress finds that—
@@ -128,7 +132,7 @@ Pub. L. 106–405, §2, Nov. 1, 2000, 114 Stat. 1751, provided that: "The Congre
 
 &emsp;"(4) during the next 3 years the Federal Government and the private sector should analyze the liability risk-sharing regime to determine its appropriateness and effectiveness, and, if needed, develop and propose a new regime to Congress at least 2 years prior to the expiration of the extension contained in this Act \[see Tables for classification\];
 
-&emsp;"(5) the areas of responsibility of the Office of the Associate Administrator for Commercial Space Transportation have significantly increased as a result of—
+&emsp;"(5) the areas of responsibility of the Office of the Associate Administrator for Commercial SpaceTransportation have significantly increased as a result of—
 
 &emsp;&emsp;"(A) the rapidly expanding commercial space transportation industry and associated government licensing requirements;
 

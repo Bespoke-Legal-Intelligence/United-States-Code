@@ -70,7 +70,7 @@ There is established in the Treasury of the United States a fund, to be known as
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on anannual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), effective beginning January 1, 2020, if, in the judgment of the Secretary on an annual basis the deadline described in section 10701(e)(1)(A)(ix) <sup>1</sup> is unlikely to be met because a sufficient amount of funding is not otherwise available through appropriations made available pursuant to section 10609(a),<sup>1</sup> the Secretary shall expend from the Fund such amounts on an annual basis consistent with paragraphs (1) and (2), as are necessary to pay the Federal share of the costs, and substantially complete as expeditiously as practicable, the construction of the water supply infrastructure authorized as part of the Project.
 
 #### (II) Maximum amount
 
@@ -166,11 +166,15 @@ On September 30, 2034—
 
 (Pub. L. 111–11, title X, §10501, Mar. 30, 2009, 123 Stat. 1375.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10701(e)(1)(A)(ix), referred to in subsec. (c)(3)(B)(i)(I), is section 10701(e)(1)(A)(ix) of Pub. L. 111–11, which is set out as a note under section 620 of this title.
 
 Section 10609(a), referred to in subsec. (c)(3)(B)(i)(I), is section 10609(a) of title X of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1395, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Compliance With Environmental Laws
 
@@ -228,7 +232,7 @@ City.—The term 'City' means the city of Gallup, New Mexico, or a designee of t
 
 &emsp;"(8)
 
-Colorado river compact.—The term 'Colorado River Compact' means the Colorado River Compact of 1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000).
+Colorado river compact.—The term 'Colorado River Compact' means the Colorado River Compact of1922 as approved by Congress in the Act of December 21, 1928 (45 Stat. 1057) and by the Presidential Proclamation of June 25, 1929 (46 Stat. 3000).
 
 &emsp;"(9)
 
@@ -248,7 +252,7 @@ Depletion.—The term 'depletion' means the depletion of the flow of the San Jua
 
 &emsp;"(13)
 
-Draft impact statement.—The term 'Draft Impact Statement' means the draft environmentalimpact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
+Draft impact statement.—The term 'Draft Impact Statement' means the draft environmental impact statement prepared by the Bureau of Reclamation for the Project dated March 2007.
 
 &emsp;"(14)
 

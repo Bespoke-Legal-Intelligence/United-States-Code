@@ -116,6 +116,8 @@ In subsection (e), the words "as defined by section 901 of title 20" are added o
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–181 designated first sentence as par. (1), substituted "does not exceed—" for "does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c).", added subpars. (A) to (C), and designated second sentence as par. (2).
@@ -164,6 +166,8 @@ Pub. L. 90–367 added subsec. (f).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–103 provided for treatment as a transfer from a position in the executive branch to which this subchapter does not apply of certain regional commission employees who were Federal employees immediately prior to employment by a commission and were employed within six months after separation from the commission in a position subject to this subchapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–411 effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with provisions relating to conversion rules, see section 301(d) of Pub. L. 108–411, set out as a note under section 5363 of this title.
@@ -198,7 +202,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 105–85, div. A, title V, §504(a), Nov. 18, 1997, 111 Stat. 1725, provided that amendment by section 503(f) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
+Pub. L. 105–85, div. A, title V, §504(a), Nov. 18, 1997, 111 Stat. 1725, provided that amendment by section 503(f) ofPub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 801(a)(2), (3)(F), (G) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 

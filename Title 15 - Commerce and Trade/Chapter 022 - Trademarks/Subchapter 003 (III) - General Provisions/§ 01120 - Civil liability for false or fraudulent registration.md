@@ -1,6 +1,6 @@
 ### §1120. Civil liability for false or fraudulent registration
 
-Any person who shall procure registration in the Patent and Trademark Office of a mark by a false or fraudulent declaration or representation, oral or in writing, or by any false means, shall be liable in a civil action by any person injured thereby for any damages sustained in consequence thereof.
+Any person who shall procure registration in the Patent and Trademark Office of a mark by a false or fraudulent declaration or representation, oral or in writing, or by any false means,shall be liable in a civil action by any person injured thereby for any damages sustained in consequence thereof.
 
 (July 5, 1946, ch. 540, title VI, §38, 60 Stat. 440; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 

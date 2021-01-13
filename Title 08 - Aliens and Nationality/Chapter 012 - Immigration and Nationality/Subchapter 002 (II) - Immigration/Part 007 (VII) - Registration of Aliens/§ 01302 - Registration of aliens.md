@@ -8,6 +8,8 @@
 
 (June 27, 1952, ch. 477, title II, ch. 7, §262, 66 Stat. 224; Pub. L. 99–653, §9, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §8(h), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 103–416, title II, §219(n), Oct. 25, 1994, 108 Stat. 4317.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Sections 30 and 31 of that act were classified to sections 451 and 452 of this title and were repealed by section 403(a)(39) of act June 27, 1952.
@@ -19,6 +21,8 @@ The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act Ju
 <b>1988</b>—Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
 <b>1986</b>—Pub. L. 99–653, §9, as amended by Pub. L. 100–525, added subsec. (c). As originally enacted, Pub. L. 99–653, §9, amended subsec. (a) of this section by striking out "section 1201(b) of this title or" after "registered and fingerprinted under". Pub. L. 100–525 revised Pub. L. 99–653, §9, so as to add subsec. (c) and eliminate the original amendment of subsec. (a), thereby restoring the words "section 1201(b) of this title or". See Effective Date of 1988 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -48,7 +48,7 @@ Reinvestigation or Readjudication of Certain Individuals.—(1) The Secretary of
 
 &emsp;(B) determination by a commanding officer that that individual has committed an offense described in subparagraph (A).
 
-(2) An individual described in this paragraph in <sup>1</sup> an individual who has a security clearance and is—
+(2) An individual described in this paragraph is an individual who has a security clearance and is—
 
 &emsp;(A) a flag officer;
 
@@ -60,7 +60,7 @@ Reinvestigation or Readjudication of Certain Individuals.—(1) The Secretary of
 
 (4) In this subsection:
 
-&emsp;(A) The term "sexual assault" includes rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as those terms are defined in chapter 47 of this title (the Uniform Code of Military Justice).
+&emsp;(A) The term "sexual assault" includes rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as thoseterms are defined in chapter 47 of this title (the Uniform Code of Military Justice).
 
 &emsp;(B) The term "sexual harassment" has the meaning given that term in section 1561 of this title.
 
@@ -82,9 +82,11 @@ Sensitive Duties.—For the purposes of this section, it is not necessary for th
 
 Use of Appropriated Funds.—The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, §542, Aug. 13, 2018, 132 Stat. 1762.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, §542, Aug. 13, 2018, 132 Stat. 1762; Pub. L. 116–283, div. A, title X, §1081(a)(29), Jan. 1, 2021, 134 Stat. 3872.)
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283 substituted "is an individual" for "in an individual" in introductory provisions.
 
 <b>2018</b>—Subsecs. (c) to (g). Pub. L. 115–232 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
@@ -97,6 +99,38 @@ Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\]."
+
+#### Department of Defense Policy on Unclassified Workspaces and Job Functions of Personnel With Pending Security Clearances
+
+Pub. L. 116–283, div. A, title XI, §1101, Jan. 1, 2021, 134 Stat. 3884, provided that:
+
+"(a)
+
+Policy Required.—The Secretary of Defense shall develop and implement a policy under which a covered individual may occupy a position within the Department of Defense that requires a security clearance to perform appropriate unclassified work, or work commensurate with a security clearance already held by the individual (which may include an interim security clearance), while such individual awaits a final determination with respect to the security clearance required for such position.
+
+"(b)
+
+Unclassified Work Spaces.—As part of the policy under subsection (a), the Secretary of Defense shall—
+
+&emsp;"(1) ensure, to the extent practicable, that all facilities of the Department of Defense at which covered individuals perform job functions have unclassified workspaces; and
+
+&emsp;"(2) issue guidelines under which appropriately screened individuals, who are not covered individuals, may use the unclassified workspaces on a space-available basis.
+
+"(c)
+
+Report.—Not later than one year after the date of enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the policy required by subsection (a). The report shall include the following:
+
+&emsp;"(1) Identification of any challenges or impediments to allowing covered individuals fill positions on a probationary basis as described in subsection (a).
+
+&emsp;"(2) A plan for implementing the policy.
+
+&emsp;"(3) A description of how existing facilities may be modified to accommodate unclassified workspaces.
+
+&emsp;"(4) Identification of impediments to making unclassified workspace available.
+
+"(d)
+
+Covered Individual Defined.—In this section, the term 'covered individual' includes a member of the Armed Forces, a civilian employee of the Department of Defense, or an applicant for a civilian position within the Department of Defense, who has applied for, but who has not yet received, a security clearance that is required for the individual to perform one or more job functions."
 
 #### Defense Counterintelligence and Security Agency Activities on Facilitating Access to Local Criminal Records Historical Data
 
@@ -128,7 +162,7 @@ Scope.—No activity may be carried out under subsection (a) that applies to any
 
 &emsp;"(4)
 
-Consistency with access provided.—The Director shall ensure that the activities carried out under subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency.
+Consistency with access provided.—The Director shall ensure that the activities carried outunder subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency.
 
 "(d)
 
@@ -334,7 +368,7 @@ Report required.—Not later than 90 days after the date of the enactment of thi
 
 &emsp;&emsp;"(B) A plan to provide the Government with an enhanced risk management model that reduces the gaps in coverage perpetuated by the current time-based periodic reinvestigations model, particularly in light of the increasing use of continuous background evaluations of personnel referred to in subparagraph (A).
 
-&emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the Installation Matching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
+&emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the InstallationMatching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
 
 &emsp;&emsp;"(D) A plan to fully integrate and incorporate insider threat data, tools, and capabilities into the new end-to-end vetting processes and supporting information technology established by the Defense Security Service \[now Defense Counterintelligence and Security Agency\] to ensure a holistic and transformational approach to detecting, deterring, and mitigating threats posed by trusted insiders.
 
@@ -386,7 +420,7 @@ Annual reports.—Not later than December 31, 2018, and each December 31 thereaf
 
 &emsp;&emsp;"(E) The number of initial investigations and periodic reinvestigations initiated and adjudicated by each authorized adjudicative agency.
 
-&emsp;&emsp;"(F) The number of initial investigations and periodic reinvestigations carried over from priorfiscal years by each authorized investigative and adjudicative agency.
+&emsp;&emsp;"(F) The number of initial investigations and periodic reinvestigations carried over from prior fiscal years by each authorized investigative and adjudicative agency.
 
 &emsp;&emsp;"(G) The number of initial investigations and periodic reinvestigations that resulted in a denial or revocation of a security clearance by each authorized adjudicative agency.
 
@@ -500,7 +534,7 @@ Access to classified information.—The Secretary shall ensure that access to cl
 
 &emsp;"(4)
 
-Award of security clearances.—The Secretary may award secret clearances under the program required by paragraph (1) for limited purposesand periods relating to the acquisition or modification of capabilities and services.
+Award of security clearances.—The Secretary may award secret clearances under the program required by paragraph (1) for limited purposes and periods relating to the acquisition or modification of capabilities and services.
 
 "(d)
 
@@ -524,7 +558,7 @@ Implementation directives.—The Secretary, working with the Security Executive 
 
 &emsp;&emsp;"(A) completing the implementation of the National Security Sensitive Position designations required by section 1400 of title 5, Code of Federal Regulations; and
 
-&emsp;&emsp;"(B) aligning to the maximum practical extent the investigative and adjudicative standards and criteria for positions requiring access to classified information and national security sensitive positions not requiring access to classified information to ensure effective and efficient reciprocity and consistent designation of like-positions across the Federal Government.
+&emsp;&emsp;"(B) aligning to the maximum practical extent the investigative and adjudicative standards and criteria for positions requiring access to classifiedinformation and national security sensitive positions not requiring access to classified information to ensure effective and efficient reciprocity and consistent designation of like-positions across the Federal Government.
 
 "(e)
 
@@ -748,7 +782,7 @@ Definitions.—In this section—
 
 &emsp;"(2) the term 'Performance Accountability Council' means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) \[50 U.S.C. 3161 note\], or any successor thereto."
 
-\[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
+\[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made bysection 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
 
 #### Personnel Security
 
@@ -810,7 +844,7 @@ Elements.—In developing the strategy required by paragraph (1), the Secretary 
 
 &emsp;&emsp;"(C) Access and analysis of government, publically available, and commercial data sources, including social media, that provide independent information pertinent to adjudication guidelines and termination standards to improve quality and timeliness, and reduce costs, of investigations and reinvestigations.
 
-&emsp;&emsp;"(D) Use of government-developed and commercial technology for continuous monitoring and evaluation of government and commercial datasources that can identify and flag information pertinent to hiring and clearance determinations.
+&emsp;&emsp;"(D) Use of government-developed and commercial technology for continuous monitoring and evaluation of government and commercial data sources that can identify and flag information pertinent to hiring and clearance determinations.
 
 &emsp;&emsp;"(E) Standardization of forms used for routine reporting required of cleared personnel (such as travel, foreign contacts, and financial disclosures) and use of continuous monitoring technology to access databases containing such reportable information to independently obtain and analyze reportable data and events.
 
@@ -969,6 +1003,4 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

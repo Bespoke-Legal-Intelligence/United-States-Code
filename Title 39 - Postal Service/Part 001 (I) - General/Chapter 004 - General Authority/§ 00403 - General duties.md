@@ -14,9 +14,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 723; Pub. L. 96–70, title I, §1331(e)(1), Sept. 27, 1979, 93 Stat. 482.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–70 substituted "The Postal Service" for "Except as provided in the Canal Zone Code, the Postal Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

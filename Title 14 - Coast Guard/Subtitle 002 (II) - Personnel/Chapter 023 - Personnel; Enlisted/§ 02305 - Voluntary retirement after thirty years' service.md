@@ -12,6 +12,8 @@ Said section has been divided. That part dealing with retirement of enlisted men
 
 The authority to approve was granted to the Commandant in lieu of the Secretary. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 354 of this title as this section.
@@ -19,4 +21,6 @@ The authority to approve was granted to the Commandant in lieu of the Secretary.
 <b>1986</b>—Pub. L. 99–348 struck out ", with retired pay of the grade or rating with which retired" after "active service".
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
+
+i
 

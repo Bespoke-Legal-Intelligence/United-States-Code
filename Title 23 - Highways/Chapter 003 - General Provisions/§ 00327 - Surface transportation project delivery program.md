@@ -156,7 +156,7 @@ Audits.—
 
 In general.—To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall—
 
-&emsp;&emsp;(A) not later than 180 days after the date of execution of the agreement, meet with the State to review implementation of the agreement and discuss plans for the first annual audit;
+&emsp;&emsp;(A) not later than 180 days after the date of execution of the agreement, meet withthe State to review implementation of the agreement and discuss plans for the first annual audit;
 
 &emsp;&emsp;(B) conduct annual audits during each of the first 4 years of State participation; and
 
@@ -236,6 +236,8 @@ Relationship to Locally Administered Projects.—A State granted authority under
 
 (Added Pub. L. 109–59, title VI, §6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, §2203(c), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–140, title I, §101(e)(1), June 29, 2012, 126 Stat. 392; Pub. L. 112–141, div. A, title I, §1313(a)–(h), July 6, 2012, 126 Stat. 545–547; Pub. L. 114–94, div. A, title I, §§1308, 1446(d)(3), Dec. 4, 2015, 129 Stat. 1390, 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (l)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -307,6 +309,8 @@ Subsec. (j). Pub. L. 112–141, §1313(h), amended subsec. (j) generally. Prior 
 Pub. L. 112–141, §1313(g)(1), redesignated subsec. (i) as (j).
 
 <b>2010</b>—Subsec. (i)(1). Pub. L. 111–322 substituted "7 years after" for "6 years after".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

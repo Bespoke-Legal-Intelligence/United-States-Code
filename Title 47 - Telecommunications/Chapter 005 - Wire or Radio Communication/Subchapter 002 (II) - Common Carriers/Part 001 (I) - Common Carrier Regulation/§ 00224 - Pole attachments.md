@@ -32,7 +32,7 @@ As used in this section:
 
 (3) For purposes of this subsection, a State shall not be considered to regulate the rates, terms, and conditions for pole attachments—
 
-&emsp;(A) unless the State has issued and made effective rules and regulations implementing the State's regulatory authority over pole attachments; and
+&emsp;(A) unless the State has issued and made effective rules and regulations implementingthe State's regulatory authority over pole attachments; and
 
 &emsp;(B) with respect to any individual matter, unless the State takes final action on a complaint regarding such matter—
 
@@ -42,7 +42,7 @@ As used in this section:
 
 #### (d) Determination of just and reasonable rates; "usable space" defined
 
-(1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures autility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
+(1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
 
 (2) As used in this subsection, the term "usable space" means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
 
@@ -78,6 +78,8 @@ An entity that obtains an attachment to a pole, conduit, or right-of-way shall n
 
 (June 19, 1934, ch. 652, title II, §224, as added Pub. L. 95–234, §6, Feb. 21, 1978, 92 Stat. 35; amended Pub. L. 97–259, title I, §106, Sept. 13, 1982, 96 Stat. 1091; Pub. L. 98–549, §4, Oct. 30, 1984, 98 Stat. 2801; Pub. L. 103–414, title III, §304(a)(7), Oct. 25, 1994, 108 Stat. 4297; Pub. L. 104–104, title VII, §703, Feb. 8, 1996, 110 Stat. 149.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: "The term 'utility' means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication."
@@ -98,7 +100,9 @@ Subsecs. (e) to (i). Pub. L. 104–104, §703(7), added subsecs. (e) to (i).
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–549 added par. (3).
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year periodthat began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
+<b>1982</b>—Subsec. (e). Pub. L. 97–259 struck out subsec. (e) which provided that, upon expiration of 5-year period that began on Feb. 21, 1978, provisions of subsec. (d) of this section would cease to have any effect.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -4,9 +4,11 @@ Section 1401(g) of this title shall be considered to have been and to be applica
 
 (Mar. 16, 1956, ch. 85, 70 Stat. 50; Pub. L. 97–116, §18(u)(2), Dec. 29, 1981, 95 Stat. 1621.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27, 1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
+Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27,1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
 
 "The following shall be nationals and citizens of the United States at birth:
 
@@ -27,6 +29,8 @@ Section was not enacted as part of the Immigration and Nationality Act which com
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–116 substituted "Section 1401(g)" for "Section 1401(a)(7)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

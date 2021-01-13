@@ -79,7 +79,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iv) Years of service
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respectto the qualified cash or deferred arrangement to which subparagraph (C) applies.
 
 #### (C) Contribution requirements
 
@@ -155,7 +155,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;The requirements of this clause are met if each employee to whom subparagraph (A)(i) applies—
 
-&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or to have the contributions made at a different rate, and
+&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or tohave the contributions made at a different rate, and
 
 &emsp;&emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the first elective contribution is made to make such election.
 
@@ -201,7 +201,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;(iii) paragraph (3)(B);
 
-&emsp;&emsp;(B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26; or
+&emsp;&emsp;(B) that, as of June 25, 2010, was maintained by more than one employer and all of the employers were organizations described in section 501(c)(3) of title 26;
 
 &emsp;&emsp;(C) that, as of June 25, 2010, was maintained by an employer—
 
@@ -211,7 +211,17 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;(iii) with employees in at least 40 States, and
 
-&emsp;&emsp;&emsp;(iv) whose primary exempt purpose is to provide services with respect to children.
+&emsp;&emsp;&emsp;(iv) whose primary exempt purpose is to provide services with respect to children; or
+
+&emsp;&emsp;(D) that, as of January 1, 2000, was maintained by an employer—
+
+&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of title 26,
+
+&emsp;&emsp;&emsp;(ii) who has been in existence since at least 1938,
+
+&emsp;&emsp;&emsp;(iii) who conducts medical research directly or indirectly through grant making, and
+
+&emsp;&emsp;&emsp;(iv) whose primary exempt purpose is to provide services with respect to mothers and children.
 
 #### (2) Aggregation
 
@@ -221,13 +231,15 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (A) In general
 
-&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (withoutregard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
+&emsp;&emsp;If a plan falls within the definition of a CSEC plan under this subsection (without regard to this paragraph), such plan shall be a CSEC plan unless the plan sponsor elects not later than the close of the first plan year of the plan beginning after December 31, 2013, not to be treated as a CSEC plan. An election under the preceding sentence shall take effect for such plan year and, once made, may be revoked only with the consent of the Secretary of the Treasury.
 
 #### (B) Special rule
 
 &emsp;&emsp;If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
 
-(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111; Pub. L. 113–97, title I, §§101, 103(a), Apr. 7, 2014, 128 Stat. 1102, 1117; Pub. L. 113–235, div. P, §3(a), Dec. 16, 2014, 128 Stat. 2829.)
+(Pub. L. 93–406, title I, §210, Sept. 2, 1974, 88 Stat. 866; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(10), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 109–280, title IX, §903(b)(1), (2)(A), Aug. 17, 2006, 120 Stat. 1044, 1048; Pub. L. 110–458, title I, §109(c)(2), Dec. 23, 2008, 122 Stat. 5111; Pub. L. 113–97, title I, §§101, 103(a), Apr. 7, 2014, 128 Stat. 1102, 1117; Pub. L. 113–235, div. P, §3(a), Dec. 16, 2014, 128 Stat. 2829; Pub. L. 116–136, div. A, title III, §3609(a), Mar. 27, 2020, 134 Stat. 413.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -238,6 +250,8 @@ Section 104 of the Pension Protection Act of 2006, referred to in subsec. (f)(1)
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (f)(3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+<b>2020</b>—Subsec. (f)(1)(D). Pub. L. 116–136 added subpar. (D).
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–97, §101, added subsec. (f).
 
@@ -258,6 +272,12 @@ Subsec. (e). Pub. L. 109–280, §903(b)(1), added subsec. (e).
 <b>1989</b>—Subsec. (c). Pub. L. 101–239, §7894(c)(10), substituted "and (e)(3)(C) of such Code" for "and (e)(3)(C) of such code", which for purposes of codification was translated as "and (e)(3)(C) of title 26" thus requiring no change in text.
 
 Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2020 Amendment
+
+Amendment by Pub. L. 116–136 applicable to plan years beginning after Dec. 31, 2018, see section 3609(c) of Pub. L. 116–136, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 

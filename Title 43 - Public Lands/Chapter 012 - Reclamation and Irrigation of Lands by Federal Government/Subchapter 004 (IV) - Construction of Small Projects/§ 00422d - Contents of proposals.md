@@ -2,7 +2,7 @@
 
 #### (a) Plans and estimates; review by States; allocation of capital costs
 
-Any proposal with respect to the construction of a project which has not theretofore been authorized for construction under the Federal reclamation laws shall set forth, among other things, a plan and estimated cost in detail comparable to those included in preauthorization reports required for a Federal reclamation project; shall have been submitted for review by the States of the drainage basin in which the project is located in like manner as provided in section 701–1(c) of title 33, except that the review may be limited to the State or States in which the project is located if the proposal is one solely for rehabilitation and betterment of an existing project; and shall include a proposed allocation of capital costs to functions such that costs for facilities used for a single purpose shall be allocated to that purpose and costs for facilities used for more than one purpose shall be so allocated among the purposes served that each purpose will share equitably in the costs of such joint facilities. The costs of means and measures to prevent loss of and damage to fish and wildlife resources shall be considered as project costs and allocated as may be appropriate among project functions.
+Any proposal with respect to the construction of a project which has not theretofore been authorized for construction under the Federal reclamation laws shall set forth, among other things, a plan and estimated cost in detail comparable to those included in preauthorization reports required for a Federal reclamation project;shall have been submitted for review by the States of the drainage basin in which the project is located in like manner as provided in section 701–1(c) of title 33, except that the review may be limited to the State or States in which the project is located if the proposal is one solely for rehabilitation and betterment of an existing project; and shall include a proposed allocation of capital costs to functions such that costs for facilities used for a single purpose shall be allocated to that purpose and costs for facilities used for more than one purpose shall be so allocated among the purposes served that each purpose will share equitably in the costs of such joint facilities. The costs of means and measures to prevent loss of and damage to fish and wildlife resources shall be considered as project costs and allocated as may be appropriate among project functions.
 
 #### (b) Lands and water rights; ownership; financing
 
@@ -24,9 +24,11 @@ No appropriation shall be made for financial participation in any such project p
 
 #### (f) Consideration of financial feasibility, emergency, or urgent need; jurisdiction and control of project works and facilities
 
-The Secretary shall give due consideration to financial feasibility, emergency, or urgent need for the project. All project works and facilities constructed under this subchapter shall remain under the jurisdiction and control of the local contracting organization subject to the terms of the repayment contract.
+The Secretary shall give due consideration to financial feasibility, emergency, or urgent needfor the project. All project works and facilities constructed under this subchapter shall remain under the jurisdiction and control of the local contracting organization subject to the terms of the repayment contract.
 
 (Aug. 6, 1956, ch. 972, §4, 70 Stat. 1044; Pub. L. 85–47, §1(a), (b), June 5, 1957, 71 Stat. 48; Pub. L. 89–553, §1(2), (3), Sept. 2, 1966, 80 Stat. 376; Pub. L. 92–167, §1(2), Nov. 24, 1971, 85 Stat. 488; Pub. L. 94–181, §1(c)–(e), Dec. 27, 1975, 89 Stat. 1049, 1050; Pub. L. 99–546, title III, §§304, 305, Oct. 27, 1986, 100 Stat. 3053, 3054; Pub. L. 103–437, §16(b), Nov. 2, 1994, 108 Stat. 4594.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,11 +60,13 @@ Subsec. (b). Pub. L. 89–553, §1(3), substituted "cost of the project" for "co
 
 Subsecs. (d), (e). Pub. L. 85–47, §1(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by sections 304(a) and 305 of Pub. L. 99–546 applicable to all proposals for which final applications are received by Secretary after Jan. 1, 1986, and amendment by section 304(b) of Pub. L. 99–546 applicable to all proposals for which draft applications are received by Secretary after Aug. 15, 1986, see section 310 of Pub. L. 99–546, set out as a note under section 422a of this title.
 
 #### Retroactive Effect of 1966 Amendment
 
-Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan orgrant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
+Amendment by Pub. L. 89–553 not to be applicable to or affect in any way the terms on which any loan or grant was made prior to the effective date of Pub. L. 89–553, Sept. 2, 1966, see section 2 of Pub. L. 89–553, set out as a note under section 422b of this title.
 

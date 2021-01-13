@@ -62,7 +62,7 @@ Pub. L. 113–66, div. A, title VIII, §803, Dec. 26, 2013, 127 Stat. 805, provi
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall implement a process for the expedited identification and replacement of obsolete electronic parts included in acquisition programs of the Department of Defense.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall implement a process for the expedited identification and replacement of obsoleteelectronic parts included in acquisition programs of the Department of Defense.
 
 "(b)
 

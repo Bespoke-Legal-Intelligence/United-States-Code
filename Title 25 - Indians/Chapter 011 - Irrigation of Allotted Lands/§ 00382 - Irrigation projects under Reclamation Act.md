@@ -1,8 +1,10 @@
 ### §382. Irrigation projects under Reclamation Act
 
-In carrying out any irrigation project which may be undertaken under the provisions of the Act of June seventeenth, nineteen hundred and two (Thirty-second Statutes, page three hundred and eighty-eight), known as "The Reclamation Act," and which may make possible, and provide for in connection with the reclamation of other lands, the irrigation of all or any part of the irrigable lands heretofore included in allotments made to Indians under section 334 of this title, the Secretary of the Interior is authorized to make such arrangement and agreement in reference thereto as said Secretary deems for the best interest of the Indians: <i>Provided</i>, That no lien or charge for construction, operation, or maintenance shall thereby be created against any such lands.
+In carrying out any irrigation project which may be undertaken under the provisions of the Act of June seventeenth, nineteen hundred and two (Thirty-second Statutes, page three hundredand eighty-eight), known as "The Reclamation Act," and which may make possible, and provide for in connection with the reclamation of other lands, the irrigation of all or any part of the irrigable lands heretofore included in allotments made to Indians under section 334 of this title, the Secretary of the Interior is authorized to make such arrangement and agreement in reference thereto as said Secretary deems for the best interest of the Indians: <i>Provided</i>, That no lien or charge for construction, operation, or maintenance shall thereby be created against any such lands.
 
 (Mar. 3, 1909, ch. 263, 35 Stat. 798.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ Act of June seventeenth, nineteen hundred and two, referred to in text, is act J
 #### Codification
 
 A further proviso authorized the expenditure of a limited amount from the appropriation in the act for irrigation, to meet the cost of carrying out this section, and was omitted as temporary.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

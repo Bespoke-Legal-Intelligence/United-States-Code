@@ -58,7 +58,7 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations, the Secretary, in conjunction with the Director of the Centers for Disease Control and Prevention, shall prepare a report on the implementation, strength, and effectiveness of the local school wellness policies carried out in accordance with this section.
+&emsp;&emsp;Subject to the availability of appropriations, the Secretary, in conjunction with the Director of the Centers for Disease Control and Prevention, shall prepare a report on the implementation, strength, and effectivenessof the local school wellness policies carried out in accordance with this section.
 
 #### (B) Study of local school wellness policies
 

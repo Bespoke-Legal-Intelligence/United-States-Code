@@ -24,5 +24,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Study of Sinkhole Insurance
 
-Pub. L. 98–181, title I \[title IV, §453\], Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State or local agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
+Pub. L. 98–181, title I \[title IV, §453\], Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State orlocal agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
 

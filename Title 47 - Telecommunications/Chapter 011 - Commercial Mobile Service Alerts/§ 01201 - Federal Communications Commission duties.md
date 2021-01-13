@@ -46,7 +46,11 @@ Within 180 days after the date on which the Commercial Mobile Service Alert Advi
 
 #### (E) Consumer choice technology
 
-&emsp;&emsp;Any commercial mobile service licensee electing to transmit emergency alerts mayoffer subscribers the capability of preventing the subscriber's device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber's device from receiving such alerts, or classes of such alerts, other than an alert issued by—
+
+&emsp;&emsp;&emsp;(i) the President; or
+
+&emsp;&emsp;&emsp;(ii) the Administrator of the Federal Emergency Management Agency.
 
 #### (c) Digital television transmission towers retransmission capability
 
@@ -74,11 +78,19 @@ The Federal Communications Commission may enforce compliance with this chapter b
 
 The Commission shall require by regulation technical testing for commercial mobile service providers that elect to transmit emergency alerts and for the devices and equipment used by such providers for transmitting such alerts.
 
-(Pub. L. 109–347, title VI, §602, Oct. 13, 2006, 120 Stat. 1936.)
+(Pub. L. 109–347, title VI, §602, Oct. 13, 2006, 120 Stat. 1936; Pub. L. 116–283, div. H, title XCII, §9201(a)(1), Jan. 1, 2021, 134 Stat. 4785.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (d) and (e)(1), was in the original "this title", meaning title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(E). Pub. L. 116–283, substituted in first sentence, "other than an alert issued by—" for "other than an alert issued by the President.", and added cls. (i) and (ii), and struck out after first sentence "Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

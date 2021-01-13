@@ -14,6 +14,8 @@ Punishment provided by section 795 of this title is repeated, and is from said s
 
 Minor changes were made in phraseology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".

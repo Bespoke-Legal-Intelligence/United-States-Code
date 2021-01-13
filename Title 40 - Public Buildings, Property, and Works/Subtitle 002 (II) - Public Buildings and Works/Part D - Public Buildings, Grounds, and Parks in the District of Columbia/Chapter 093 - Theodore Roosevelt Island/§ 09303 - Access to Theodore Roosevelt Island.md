@@ -1,6 +1,6 @@
 ### §9303. Access to Theodore Roosevelt Island
 
-Subject to the approval of the National Capital Planning Commission and the availabilityof appropriations, the Director of the National Park Service may provide suitable means of access to and on Theodore Roosevelt Island.
+Subject to the approval of the National Capital Planning Commission and the availability of appropriations, the Director of the National Park Service may provide suitable means of access to and on Theodore Roosevelt Island.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1233.)
 

@@ -10,7 +10,7 @@ For the purposes of this section the term "internee" means an individual who was
 
 &emsp;(A) in the case such individual was not employed prior to the beginning of such period, 40 multiplied by the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period; and
 
-&emsp;(B) in the case such individual who was employed prior to the beginning of such period, 40 multiplied by the greater of (i) the highest hourly rate received during any such employment, or (ii) the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period.
+&emsp;(B) in the case such individual who was employed prior to the beginning of such period, 40multiplied by the greater of (i) the highest hourly rate received during any such employment, or (ii) the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period.
 
 (2) This subsection shall not be applicable in the case of any monthly benefit or lump-sum death payment if—
 

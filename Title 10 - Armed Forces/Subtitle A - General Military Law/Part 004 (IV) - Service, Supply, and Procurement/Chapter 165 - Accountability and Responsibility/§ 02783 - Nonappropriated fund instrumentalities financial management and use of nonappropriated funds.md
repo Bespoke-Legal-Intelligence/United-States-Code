@@ -32,7 +32,7 @@ Notification of Violations.—(1) A civilian employee of the Department of Defen
 
 <b>1993</b>—Pub. L. 103–160 renumbered section 2490a of this title as this section.
 
-Subsec. (b)(2). Pub. L. 103–160, §1182(a)(8)(A)(i), substituted "chapter 47 of this title" for "chapter 47 of title 10, United States Code", "Justice) is" for "Justice), is", and "section 892 of this title" for "section 892 of such title".
+Subsec. (b)(2). Pub. L. 103–160, §1182(a)(8)(A)(i), substituted "chapter 47 of this title" for "chapter 47 oftitle 10, United States Code", "Justice) is" for "Justice), is", and "section 892 of this title" for "section 892 of such title".
 
 Subsec. (c)(1). Pub. L. 103–160, §1182(a)(8)(A)(ii), substituted "armed forces" for "Armed Forces".
 

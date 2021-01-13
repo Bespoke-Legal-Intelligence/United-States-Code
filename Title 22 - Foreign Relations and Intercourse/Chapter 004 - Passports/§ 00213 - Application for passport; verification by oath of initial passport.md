@@ -4,6 +4,8 @@ Before a passport is issued to any person by or under authority of the United St
 
 (June 15, 1917, ch. 30, title IX, §1, 40 Stat. 227; Pub. L. 90–428, §3, July 26, 1968, 82 Stat. 446.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Second sentence of act June 15, 1917, which related to fees for taking application for passport, was omitted as superseded by sections 214 to 217a of this title.
@@ -11,6 +13,8 @@ Second sentence of act June 15, 1917, which related to fees for taking applicati
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–428 substituted provisions requiring that the initial passport application be duly verified under oath before a person authorized and empowered by the Secretary of State to administer oaths for provisions requiring that each passport application be duly verified under oath before a person authorized and empowered to administer oaths.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

@@ -52,13 +52,13 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
-(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
+(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting aresolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
 
 #### (d) Behavioral health training and community education programs
 
 #### (1) Study; list
 
-&emsp;The Secretary, acting through the Service, and the Secretary of the Interior, in consultation with Indian tribes and tribal organizations, shall conduct a study and compile a list of the types of staff positions specified in paragraph (2) whose qualifications include, orshould include, training in the identification, prevention, education, referral, or treatment of mental illness, or dysfunctional and self destructive behavior.
+&emsp;The Secretary, acting through the Service, and the Secretary of the Interior, in consultation with Indian tribes and tribal organizations, shall conduct a study and compile a list of the types of staff positions specified in paragraph (2) whose qualifications include, or should include, training in the identification, prevention, education, referral, or treatment of mental illness, or dysfunctional and self destructive behavior.
 
 #### (2) Positions
 
@@ -118,13 +118,13 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (g) Mental Health Technician program
 
-(1) Under the authority of section 13 of this title, the Secretary shall establish and maintain a Mental Health Technician program within the Service which—
+(1) Under the authority of section 13 of this title, the Secretary shall establish and maintaina Mental Health Technician program within the Service which—
 
 &emsp;(A) provides for the training of Indians as mental health technicians; and
 
 &emsp;(B) employs such technicians in the provision of community-based mental health care that includes identification, prevention, education, referral, and treatment services.
 
-(2) In carrying out paragraph (1)(A), the Secretary shall provide high standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by theSecretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
+(2) In carrying out paragraph (1)(A), the Secretary shall provide high standard paraprofessional training in mental health care necessary to provide quality care to the Indian communities to be served. Such training shall be based upon a curriculum developed or approved by the Secretary which combines education in the theory of mental health care with supervised practical experience in the provision of such care.
 
 (3) The Secretary shall supervise and evaluate the mental health technicians in the training program.
 
@@ -214,6 +214,8 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (Pub. L. 94–437, title II, §209, as added Pub. L. 101–630, title V, §503(b), Nov. 28, 1990, 104 Stat. 4557; amended Pub. L. 102–573, title II, §§205, 217(b)(4), title IX, §902(3), Oct. 29, 1992, 106 Stat. 4547, 4559, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
@@ -257,6 +259,8 @@ Subsec. (j). Pub. L. 102–573, §§205(1), 902(3)(B), redesignated subsec. (k) 
 Subsec. (k). Pub. L. 102–573, §§217(b)(4)(E), 902(3)(B), redesignated subsec. (l) as (k), and in par. (6) substituted "section" for "subsection" in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
 
 Subsecs. (l), (m). Pub. L. 102–573, §205(2), added subsecs. (l) and (m). Former subsec. (l) redesignated (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Statement of Purposes
 

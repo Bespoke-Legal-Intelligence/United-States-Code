@@ -6,6 +6,8 @@ Office of the Attending Physician Revolving Fund" in title III of the Legislativ
 
 (Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1051.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The first undesignated paragraph under the center heading "

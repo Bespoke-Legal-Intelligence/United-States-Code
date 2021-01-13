@@ -78,7 +78,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (3) An award for disability may be made after the death of the injured employee. Except where compensation is payable under subsection (c)(21) if there be no survivors as prescribed in this section, then the compensation payable under this subsection shall be paid to the special fund established under section 944(a) of this title.
 
-(e) Temporary partial disability: In case of temporary partial disability resulting in decrease of earning capacity the compensation shall be two-thirds of the difference between the injured employee's average weekly wages before the injury and his wage-earning capacity after the injury in the same or another employment, to be paid during the continuance of such disability, but shall not be paid for a period exceeding five years.
+(e) Temporary partial disability: In case of temporary partial disability resulting in decrease of earning capacity the compensation shall be two-thirds of the difference between the injured employee's average weekly wages beforethe injury and his wage-earning capacity after the injury in the same or another employment, to be paid during the continuance of such disability, but shall not be paid for a period exceeding five years.
 
 (f) Injury increasing disability:
 
@@ -98,7 +98,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty days unless it is found to be inadequate or procured by duress. Such settlement may include future medical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
 
-(2) If the deputy commissioner disapproves an application for settlement under paragraph (1), the deputy commissioner shall issue a written statement within thirty days containing the reasons for disapproval. Any party to the settlement may request a hearing before an administrative law judge in the manner prescribed by this chapter. Following such hearing, the administrative law judge shall enter an order approving or rejecting the settlement.
+(2) If the deputy commissioner disapproves an application for settlement under paragraph (1),the deputy commissioner shall issue a written statement within thirty days containing the reasons for disapproval. Any party to the settlement may request a hearing before an administrative law judge in the manner prescribed by this chapter. Following such hearing, the administrative law judge shall enter an order approving or rejecting the settlement.
 
 (3) A settlement approved under this section shall discharge the liability of the employer or carrier, or both. Settlements may be agreed upon at any stage of the proceeding including after entry of a final compensation order.
 
@@ -117,6 +117,8 @@ Compensation for disability shall be paid to the employee as follows:
 (3) Compensation forfeited under this subsection, if already paid, shall be recovered by a deduction from the compensation payable to the employee in any amount and on such schedule as determined by the deputy commissioner.
 
 (Mar. 4, 1927, ch. 509, §8, 44 Stat. 1427; May 26, 1934, ch. 354, §§2, 3, 48 Stat. 806; June 25, 1938, ch. 685, §§4, 5, 52 Stat. 1165; June 24, 1948, ch. 623, §2, 62 Stat. 602; July 26, 1956, ch. 735, §§2, 3, 70 Stat. 655; Pub. L. 92–576, §§5(c), 7, 9, 20(a), Oct. 27, 1972, 86 Stat. 1253, 1255, 1257, 1264; Pub. L. 98–426, §§8, 27(a)(2), Sept. 28, 1984, 98 Stat. 1644, 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -166,7 +168,7 @@ Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (
 
 Subsec. (f)(1). Pub. L. 92–576, §9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in section 944 of this title. See par. (2) of this subsection.
 
-Subsec. (f)(2). Pub. L. 92–576, §9, incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
+Subsec. (f)(2). Pub. L. 92–576, §9, incorporated proviso of first sentence and second sentence of former par. (1)in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
 
 Subsec. (i). Pub. L. 92–576, §20(a), designated existing provisions as subpar. (A), substituted "Whenever" for "In cases under subsection (c)(21) and subsection (e) of this section, whenever", "he may approve" for "he may, with the approval of the Secretary, approve", and "deputy commissioner" for "Secretary", and struck out after "<i>Provided</i>," where first appearing "That the sum so agreed upon shall be payable in installments as provided in section 914(b) of this title, which installments shall be subject to commutation under section 914(j) of this title; <i>And provided further</i>," and added subpar. (B).
 
@@ -210,9 +212,11 @@ Subsec. (c). Act May 26, 1934, §3, substituted new par. (22), providing that "I
 
 "In any case resulting in loss or partial loss of arm, leg, hand, foot, eye, thumb, finger, or toe, where the temporary total disability does not extend beyond the periods above mentioned for such injury, compensation shall be limited to the schedule contained in this subdivision."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by section 8(a), (c)(2), (e)(1), (2) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, amendment by section 8(b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by sections 8(c)(1), (e)(4), (5), (g), and 27(a)(2) of Pub. L. 98–426 effective Sept. 28, 1984, amendment by section 8(d) of Pub. L.98–426 applicable with respect to any death after Sept. 28, 1984, amendment by section 8(f) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, and amendment by section 8(h) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, see section 28(a)–(e) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 8(a), (c)(2), (e)(1), (2) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, amendment by section 8(b) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by sections 8(c)(1), (e)(4), (5), (g), and 27(a)(2) of Pub. L. 98–426 effective Sept. 28, 1984, amendment by section 8(d) of Pub. L. 98–426 applicable with respect to any death after Sept. 28, 1984, amendment by section 8(f) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, and amendment by section 8(h) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, see section 28(a)–(e) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

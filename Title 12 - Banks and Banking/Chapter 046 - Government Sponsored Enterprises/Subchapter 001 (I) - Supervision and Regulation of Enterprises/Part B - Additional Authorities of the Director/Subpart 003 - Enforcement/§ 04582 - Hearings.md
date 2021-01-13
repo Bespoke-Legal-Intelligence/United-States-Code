@@ -30,6 +30,8 @@
 
 (Pub. L. 102–550, title XIII, §1342, Oct. 28, 1992, 106 Stat. 3965; Pub. L. 110–289, div. A, title I, §1130(e)(3)(A), July 30, 2008, 122 Stat. 2711.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–289 substituted "Director" for "Secretary" wherever appearing.

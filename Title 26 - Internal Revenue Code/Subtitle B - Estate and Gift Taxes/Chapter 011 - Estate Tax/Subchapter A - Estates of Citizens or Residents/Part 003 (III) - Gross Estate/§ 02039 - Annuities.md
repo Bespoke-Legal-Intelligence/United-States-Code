@@ -22,7 +22,7 @@ Subsec. (d). Pub. L. 98–369, §525(a), struck out subsec. (d) which related to
 
 Subsec. (e). Pub. L. 98–369, §525(a), struck out subsec. (e) which related to exclusion of individual retirement accounts.
 
-Pub. L. 98–369, §491(d)(34), inserted "or" at end of par. (1), substituted a period for ", or" at end of par. (2), struck out par. (3) which excluded from the value of the gross estate the value of an annuity receivable by anybeneficiary, other than the executor, under a retirement bond described in section 409(a), and substituted in provision following par. (2) "or 408(d)(3)" for "405(d)(3), 408(d)(3), or 409(b)(3)(C)", and substituted "or annuity" for ", annuity, or bond" wherever appearing.
+Pub. L. 98–369, §491(d)(34), inserted "or" at end of par. (1), substituted a period for ", or" at end of par. (2), struck out par. (3) which excluded from the value of the gross estate the value of an annuity receivable by any beneficiary, other than the executor, under a retirement bond described in section 409(a), and substituted in provision following par. (2) "or 408(d)(3)" for "405(d)(3), 408(d)(3), or 409(b)(3)(C)", and substituted "or annuity" for ", annuity, or bond" wherever appearing.
 
 Subsecs. (f), (g). Pub. L. 98–369, §525(a), struck out subsec. (f) which related to lump sum distributions and an exception where the recipient elects not to take 10-year averaging, and subsec. (g) which related to a $100,000 limitation on the exclusions under subsecs. (c) and (e).
 

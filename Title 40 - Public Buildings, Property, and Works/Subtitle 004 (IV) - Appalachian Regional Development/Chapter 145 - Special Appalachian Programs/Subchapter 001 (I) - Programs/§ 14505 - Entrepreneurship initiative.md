@@ -78,6 +78,8 @@ Pub. L. 89–4, title II, §204, as added Pub. L. 107–149, §6, Mar. 12, 2002,
 
 40 App.:204(c)(2).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–371 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section."

@@ -14,7 +14,7 @@
 
 &emsp;(2) that his death is prescribed or determined under section 555 of this title or under chapter 76 of title 10.
 
-(c) A member is not entitled to pay and allowances under subsection (a) for a period during which he is officially determined to be absent from his post of duty without authority, and heis indebted to the United States for payments from amounts credited to his account for that period.
+(c) A member is not entitled to pay and allowances under subsection (a) for a period during which he is officially determined to be absent from his post of duty without authority, and he is indebted to the United States for payments from amounts credited to his account for that period.
 
 (d) A member who is performing full-time training duty or inactive-duty training is entitled to the benefits of this section only when he is officially determined to be in a missing status that results from the performance of duties prescribed by competent authority.
 
@@ -76,6 +76,8 @@ In subsection (d), the words "A member . . . he . . . in a missing status" a
 
 In subsection (e), the words "A member in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conform to the definition in revised section 551(2) of this chapter. The words "under subsection (a) of this section" are substituted for "as provided in section 2 of this Act".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(2). Pub. L. 115–91 inserted "or section 351(a)(2)" after "section 301".
@@ -93,6 +95,8 @@ Subsec. (e). Pub. L. 104–106, §569(c)(2)(C), inserted "or under chapter 76 of
 <b>1972</b>—Subsec. (a). Pub. L. 92–482 designated existing provisions as cl. (1), added cl. (2), and struck out provisions relating to effectiveness of the promotion of a member of the uniformed services while he is in a missing status and the Secretary concerned determines under section 556(b) of this title that the member died before the promotion was made.
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–169 provided that promotion of a member of the uniformed services while he is in a missing status is fully effective for all purposes even though the Secretary concerned determines that the member died before the promotion was made.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

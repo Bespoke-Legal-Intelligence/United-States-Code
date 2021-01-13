@@ -2,7 +2,7 @@
 
 #### (a) Right-of-way
 
-Effective on and after October 21, 1976, no right-of-way for the purposes listed in this subchapter shall be granted, issued, or renewed over, upon, under, or through such lands except under and subject to the provisions, limitations, and conditions of this subchapter: <i>Provided</i>, That nothing in this subchapter shall be construed as affecting or modifying the provisions of sections 532 to 538 of title 16 and in the event of conflict with, or inconsistency between, this subchapter and sections 532 to 538 of title 16, the latter shall prevail: <i>Provided further</i>, That nothing in this Act should be construed as making it mandatory that, with respect to forest roads, the Secretary of Agriculture limit rights-of-way grants or their term of years or require disclosure pursuant to section 1761(b) of this title or impose any other condition contemplated by this Act that is contrary to present practices of that Secretary under sections 532 to 538 of title 16. Any pending application for a right-of-way under any other law on the effective date of this section shall be considered as an application under this subchapter. The Secretary concerned may require the applicant to submit any additional information he deems necessary to comply with the requirements of this subchapter.
+Effective on and after October 21, 1976, no right-of-way for the purposes listed in this subchapter shall be granted, issued, or renewed over, upon, under, or through such lands except under and subject to the provisions, limitations, and conditions of this subchapter: <i>Provided</i>, That nothing in this subchapter shall be construed as affecting or modifying the provisions of sections 532 to 538 of title 16 and in the event of conflict with, or inconsistency between, this subchapter and sections 532 to 538 of title 16, the latter shall prevail: <i>Provided further</i>, That nothing in this Act should be construed as making it mandatory that, with respect to forest roads, the Secretary of Agriculture limit rights-of-way grants or their term of years or require disclosure pursuant to section 1761(b) of this title or impose any other condition contemplated by this Act that is contrary to present practices of that Secretary under sections 532 to 538 of title 16. Any pending application for a right-of-way under any other law on the effective date of this section shall be considered as an applicationunder this subchapter. The Secretary concerned may require the applicant to submit any additional information he deems necessary to comply with the requirements of this subchapter.
 
 #### (b) Highway use
 
@@ -15,6 +15,8 @@ Nothing in this subchapter shall be construed to preclude the use of lands cover
 (2) For the purposes of this subsection, the term "antitrust laws" includes the Act of July 2, 1890 (26 Stat.<sup>1</sup> 15 U.S.C. 1 et seq.); the Act of October 15, 1914 (38 Stat. 730, 15 U.S.C. 12 et seq.); the Federal Trade Commission Act (38 Stat. 717; 15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894 \[15 U.S.C. 8, 9\].
 
 (Pub. L. 94–579, title V, §510, Oct. 21, 1976, 90 Stat. 2782.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ Act of October 15, 1914, referred to in subsec. (c)(2), is act Oct. 15, 1914, ch
 The Federal Trade Commission Act, referred to in subsec. (c)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Sections 73 and 74 of the Act of August 27, 1894, referred to in subsec. (c), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which are classified to sections 8 and 9 of Title 15.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

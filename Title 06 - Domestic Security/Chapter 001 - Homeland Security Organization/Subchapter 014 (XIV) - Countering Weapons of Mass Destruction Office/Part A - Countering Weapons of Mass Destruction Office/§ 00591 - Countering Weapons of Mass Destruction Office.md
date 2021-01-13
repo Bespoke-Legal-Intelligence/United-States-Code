@@ -18,7 +18,7 @@ The Assistant Secretary shall serve as the Secretary's principal advisor on—
 
 #### (d) Details
 
-The Secretary may request that the Secretary of Defense, the Secretary of Energy, the Secretary of State, the Attorney General, the Nuclear Regulatory Commission, and the heads of other Federal agencies, including elements of the intelligence community, provide for thereimbursable detail of personnel with relevant expertise to the Office.
+The Secretary may request that the Secretary of Defense, the Secretary of Energy, the Secretary of State, the Attorney General, the Nuclear Regulatory Commission, and the heads of other Federal agencies, including elements of the intelligence community, provide for the reimbursable detail of personnel with relevant expertise to the Office.
 
 #### (e) Termination
 
@@ -26,9 +26,13 @@ The Office shall terminate on the date that is 5 years after December 21, 2018.
 
 (Pub. L. 107–296, title XIX, §1901, as added Pub. L. 115–387, §2(a)(2), Dec. 21, 2018, 132 Stat. 5162.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 591, Pub. L. 107–296, title XIX, §1901, formerly title XVIII, §1801, as added Pub. L. 109–347, title V, §501(a), Oct. 13, 2006, 120 Stat. 1932; renumbered title XIX, §1901, Pub. L. 110–53, title I, §104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294, related to establishment of a Domestic Nuclear Detection Office, prior to repeal by Pub. L. 115–387, §2(a)(2), Dec. 21, 2018, 132 Stat. 5162.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References and Construction
 
@@ -70,7 +74,7 @@ Transfers.—The Secretary of Homeland Security shall transfer to—
 
 Abolishment.—Upon completion of all transfers pursuant to paragraph (1)—
 
-&emsp;"(A) the Domestic Nuclear Detection Office of the Department of Homeland Security and the Office of Health Affairs of the Department of Homeland Security are abolished; and
+&emsp;"(A) the Domestic Nuclear Detection Office of the Department of Homeland Security and the Office ofHealth Affairs of the Department of Homeland Security are abolished; and
 
 &emsp;"(B) the positions of Assistant Secretary for Health Affairs and Director for Domestic Nuclear Detection are abolished."
 

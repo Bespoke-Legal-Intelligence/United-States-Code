@@ -16,6 +16,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. C, title XXXV, §3546(n), Aug. 13, 2018, 132 Stat. 2327, struck out item 53109 "Special rule regarding age of participating fleet vessel".

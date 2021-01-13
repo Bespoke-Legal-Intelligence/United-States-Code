@@ -34,11 +34,15 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §305(f), as added Pub. L. 103–355, title II, §2051(e), Oct. 13, 1994, 108 Stat. 3304, as amended Pub. L. 104–106, title XLIII, §4321(a)(4), Feb. 10, 1996, 110 Stat. 671.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §836(b)(18)(B)(i), substituted "Payments for commercial products and commercial services" for "Payments for commercial items" in section catchline.
 
 Subsecs. (a), (c). Pub. L. 115–232, §836(b)(18)(A), substituted "commercial products or commercial services" for "commercial items".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

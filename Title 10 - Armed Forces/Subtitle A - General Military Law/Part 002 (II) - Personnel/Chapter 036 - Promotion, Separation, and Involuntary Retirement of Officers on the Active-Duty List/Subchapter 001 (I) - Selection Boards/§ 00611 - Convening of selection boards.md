@@ -1,6 +1,6 @@
 ### §611. Convening of selection boards
 
-(a) Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, or Marine Corps and from lieutenant (junior grade) through rear admiral (lower half) in the Navy. The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.
+(a) Whenever the needs of the service require, the Secretary of the military department concerned shall convene selection boards to recommend for promotion to the next higher permanent grade, under subchapter II of this chapter, officers on the active-duty list in each permanent grade from first lieutenant through brigadier general in the Army, Air Force, or Marine Corps and from lieutenant (junior grade) through rear admiral (lower half) in the Navy.The preceding sentence does not require the convening of a selection board in the case of officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) when the Secretary concerned recommends for promotion to the next higher grade under section 624(a)(3) of this title all such officers whom the Secretary finds to be fully qualified for promotion.
 
 (b) Whenever the needs of the service require, the Secretary of the military department concerned may convene selection boards to recommend officers for continuation on active duty under section 637 of this title or for early retirement under section 638 of this title.
 
@@ -64,7 +64,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "reserve officers serving in a higher temporary grade below lieutenant general or recommended for promotion to a higher grade
 
-"Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of the Army or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
+"Sec. 602. (a)(1) Except as provided in subsection (b) and sections 605 and 606, any reserve officer of theArmy or Air Force who on the effective date of this Act \[Sept. 15, 1981\] is subject to placement on the active-duty list of his armed force and—
 
 &emsp;"(A) is serving in a temporary grade below lieutenant general that is higher than his reserve grade; or
 
@@ -218,7 +218,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "regular officers whose retirement has been deferred
 
-"Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act \[Sept. 15, 1981\] whose retirement under chapter 367 or 867 \[now 741 or 941\] of title 10, United States Code, has been deferred before that date—
+"Sec. 610. A regular officer of the Army or Air Force serving on active duty on the effective date of this Act\[Sept. 15, 1981\] whose retirement under chapter 367 or 867 \[now 741 or 941\] of title 10, United States Code, has been deferred before that date—
 
 &emsp;"(1) under a provision of such chapter; or
 
@@ -430,7 +430,7 @@ Parts A to C of title VI of Pub. L. 96–513, Dec. 12, 1980, 94 Stat. 2940, as a
 
 #### "contingency authority for navy promotions under prior law
 
-"Sec. 619. If necessary because of unforeseen circumstances, the Secretary of the Navy, during fiscal year 1982, may convene boards to select officers for promotion under chapters 545 and 549 of title 10, United States Code, as in effect on September 14, 1981, and officers so selected may be promoted in accordance with such chapters. An officer promoted to a higher grade under the authority of this section shall be subject tosections 613 and 629 as if he held that grade on September 14, 1981, and shall have a date of rank to be determined under section 741 of title 10, United States Code, as amended by this Act.
+"Sec. 619. If necessary because of unforeseen circumstances, the Secretary of the Navy, during fiscal year 1982, may convene boards to select officers for promotion under chapters 545 and 549 of title 10, United States Code, as in effect on September 14, 1981, and officers so selected may be promoted in accordance with such chapters. An officer promoted to a higher grade under the authority of this section shall be subject to sections 613 and 629 as if he held that grade on September 14, 1981, and shall have a date of rank to be determined under section 741 of title 10, United States Code, as amended by this Act.
 
 #### "retention on active duty of certain reserve lieutenant commanders
 
@@ -456,7 +456,7 @@ Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States C
 
 #### "establishment of initial active-duty lists
 
-"Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officer placed on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
+"Sec. 621. (a)(1) Not later than 6 months after the effective date of this Act \[Sept. 15, 1981\], all officers of the Army, Navy, Air Force, and Marine Corps who are required to be placed on the active-duty list for their armed force under chapter 36 of title 10, United States Code, as added by this Act, shall be placed on such list with the same relative seniority which they held on the day before the effective date of this Act. An officerplaced on an active-duty list under this section shall be considered to have been placed on such list as of the effective date of this Act.
 
 "(2) Regulations prescribed under section 620 of title 10, United States Code, as added by this Act, shall be applicable to the placement of officers on the active-duty list under paragraph (1).
 
@@ -478,7 +478,7 @@ Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States C
 
 "(2) Any position held by an officer under section 5231 or 5232 of title 10, United States Code, on the effective date of this Act \[Sept. 15, 1981\] shall, unless changed by the President, be deemed to be a position of importance and responsibility designated by the President under section 601 of title 10, United States Code.
 
-"(c) Any officer who before the effective date of this Act \[Sept. 15, 1981\] served in the grade of lieutenant general, general, vice admiral, or admiral but was not serving in such grade on the day before the effective date of this Act shall for the purposes of section 1370(c) of title 10, United States Code, as added by this Act, be deemed to have held such position under an appointment made under section 601 of such title, as added by this Act.
+"(c) Any officer who before the effective date of this Act \[Sept. 15, 1981\] served in the grade of lieutenant general, general, vice admiral, or admiral but was not serving in such grade on the day before the effective date of this Act shall for the purposes of \[former\] section 1370(c) of title 10, United States Code, as added by this Act, be deemed to have held such position under an appointment made under section 601 of such title, as added by this Act.
 
 #### "years of service for involuntary retirement or discharge
 
@@ -506,7 +506,7 @@ Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States C
 
 "Sec. 626. (a) For the purpose of computing the years of service for pay and allowances of an officer of the Army, Navy, Air Force, or Marine Corps, including retired pay, severance pay, readjustment pay, separation pay, and basic pay, the total years of service of such officer shall be computed by adding to that service so creditable on the day before the effective date of this Act \[Sept. 15, 1981\] all subsequent service as computed under title 10, United States Code, as amended by this Act.
 
-"(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amount equal to not less than 50 percent of the basic pay upon which his retired pay is based.
+"(b) An officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the effective date of this Act \[Sept. 15, 1981\] and who is retired under section 1251 of title 10, United States Code, as added by this Act, shall be entitled to retired pay in an amountequal to not less than 50 percent of the basic pay upon which his retired pay is based.
 
 "(c) The service that an officer of the Army, Navy, Air Force, or Marine Corps has in a particular grade is the sum of—
 
@@ -530,7 +530,7 @@ Sec. 620. Notwithstanding section 6389 \[now 8373\] of title 10, United States C
 
 #### "savings provision for retired grade for officers not subsequently promoted
 
-"Sec. 629. In applying section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, 'two years' shall be substituted for 'three years'. The Secretary of the military department concerned may waive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
+"Sec. 629. In applying \[former\] section 1370(a)(2) of title 10, United States Code, as added by this Act, to an officer of the Army, Navy, Air Force, or Marine Corps who was on active duty on the day before the effective date of this Act \[Sept. 15, 1981\] and who on or after the effective date of this Act is not promoted to a grade higher than the grade he held on the day before the effective date of this Act or, in the case of an officer who was on a list of officers recommended for promotion on such date, is not promoted to a grade higher than the grade to which he was recommended for promotion, 'two years' shall be substituted for 'three years'. The Secretary of the military department concerned may waive the requirements of this section and of section 1370(a)(2) of title 10, United States Code, as added by this Act, with respect to any officer described in the preceding sentence.
 
 #### "exemption of certain officers from selective early retirement provisions
 
@@ -578,7 +578,7 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 &emsp;"(1) was selected for participation in a postbaccalaureate educational program leading to an appointment as a commissioned officer or had completed a postbaccalaureate program and was selected for appointment as a commissioned officer of the Army, Navy, Air Force, or Marine Corps;
 
-&emsp;"(2) under regulations of the Secretary of the military department concerned in effect on December 12, 1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
+&emsp;"(2) under regulations of the Secretary of the military department concerned in effect on December 12,1980, would have been appointed and ordered to active duty in a grade specified or determined in accordance with such regulations; and
 
 &emsp;"(3) had not been so appointed and ordered to active duty,
 
@@ -611,4 +611,6 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 &emsp;"(2) has served continuously on active duty since that date,
 
 > may be considered for promotion (under regulations prescribed by the Secretary of the military department concerned) by a selection board that convenes after the date of the enactment of this section as if he had been placed on the active-duty list pursuant to section 621 of this Act."
+
+\[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 in such determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.\]
 

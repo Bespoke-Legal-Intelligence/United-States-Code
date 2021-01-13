@@ -226,6 +226,8 @@ In subsection (e), the text of section 8002(f) of the Federal Acquisition Stream
 
 In subsection (e)(2)(B)(i) and (C)(i), the words "as the case may be" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
@@ -262,9 +264,11 @@ Subsec. (e)(2)(D). Pub. L. 115–232, §836(b)(10)(A)(v)(IV), substituted "comme
 
 Subsec. (e)(4)(A). Pub. L. 115–232, §836(b)(10)(A)(v)(VI), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
 
-Subsec. (e)(4)(C)(i). Pub. L. 115–232, §836(b)(10)(A)(v)(VII), substituted "commercial product, as described in section 103a(1)" for "commercial item, as described in section 103(5)".
+Subsec. (e)(4)(C)(i). Pub. L. 115–232, §836(b)(10)(A)(v)(VII), substituted "commercial product,as described in section 103a(1)" for "commercial item, as described in section 103(5)".
 
 Subsec. (e)(5). Pub. L. 115–232, §836(b)(10)(A)(v)(VIII), substituted "products" for "items" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

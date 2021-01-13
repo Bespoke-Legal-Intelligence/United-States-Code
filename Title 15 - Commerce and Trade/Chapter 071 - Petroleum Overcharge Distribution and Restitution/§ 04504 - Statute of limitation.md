@@ -40,7 +40,7 @@
 
 (1) It is the intent of the Congress that—
 
-&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committeeon Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as "prelitigation cases", unless such an action is found not to be warranted;
+&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administrationshall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as "prelitigation cases", unless such an action is found not to be warranted;
 
 &emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) to apply to any such case;
 

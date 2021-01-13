@@ -14,6 +14,8 @@ The limitation on grade of professors is raised from Commander to Captain, and o
 
 This section prescribes the relative ranks for the various grades in the permanent commissioned teaching staff, establishes the pay as heretofore, and provides for promotion as the Secretary shall prescribe. 81st Congress, House Report No. 557.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 189 of this title as this section.

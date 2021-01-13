@@ -80,6 +80,8 @@ Limitation on Injunctions Against Regulated Persons.—Notwithstanding any other
 
 (Added Pub. L. 109–347, title VIII, §802(a), Oct. 13, 2006, 120 Stat. 1959.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(1)(B), (2)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.

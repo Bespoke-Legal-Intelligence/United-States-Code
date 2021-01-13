@@ -30,7 +30,7 @@ The President is not required to impose sanctions under subsection (a) with resp
 
 &emsp;(2) Iran no longer presents a significant threat to the national security of the United States and to the allies of the United States; and
 
-&emsp;(3) the Government of Iran has ceased providing operational or financial support foracts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism.
+&emsp;(3) the Government of Iran has ceased providing operational or financial support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism.
 
 #### (e) State sponsor of terrorism defined
 
@@ -46,11 +46,15 @@ In this section, the term "state sponsor of terrorism" means a country the gover
 
 (Pub. L. 115–44, title I, §107, Aug. 2, 2017, 131 Stat. 893.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsecs. (b)(1) and (e)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 4605(j)(1)(A) of title 50, referred to in subsec. (e)(1), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

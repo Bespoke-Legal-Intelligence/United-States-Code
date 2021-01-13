@@ -40,7 +40,7 @@ The Secretary of the Treasury may by regulations provide for such exceptions fro
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §481, 42Stat. 958. That section was superseded by section 481 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §481, 42 Stat. 958. That section was superseded by section 481 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Provisions as to the weights or measures, and currency, in which invoices should be made out and the contents of invoices, with additional provisions as to invoices of merchandise intended for immediate transportation without appraisement, and a provision as to the signing of the invoice, were contained in R.S. §2837 and act Oct. 3, 1913, ch. 16, §III, C, 38 Stat. 181 (superseding Customs Administrative Act of June 10, 1890, ch. 407, §2, 26 Stat. 131, as amended by Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91), which were superseded by act Sept. 21, 1922, ch. 356, title IV, §481, 42 Stat. 958, and repealed by sections 642 and 643 thereof.
 

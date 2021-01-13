@@ -14,7 +14,7 @@ With respect to any petition filed pursuant to subsection (a) of this section, t
 
 &emsp;(3) denial of such temporary operating license will result in delay between the date on which construction of the facility is sufficiently completed, in the judgment of the Commission, to permit issuance of the temporary operating license, and the date when such facility would otherwise receive a final operating license pursuant to this chapter.
 
-> The temporary operating license shall become effective upon issuance and shall contain such terms and conditions as the Commission may deem necessary, including the duration of the license and any provision for the extension thereof. Any final order authorizing the issuance or amendment of any temporary operating license pursuant to this section shall recite with specificity the facts and reasons justifying the findings under this subsection, and shall be transmitted upon such issuance to the Committees on Natural Resources and on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate. The final order of the Commission with respect to the issuance or amendment of a temporary operating license shall be subject to judicial review pursuant to chapter 158 of title 28. The requirements of section 2239(a) of this title with respect to the issuance or amendment of facility licenses shall not apply to the issuance or amendment of a temporary operating license under this section.
+> The temporary operating license shall become effective upon issuance and shall contain such terms and conditions as the Commission may deem necessary, including the duration of the license and any provision for the extension thereof. Any final order authorizing the issuance or amendment of any temporary operating license pursuant to this section shall recite with specificity the facts and reasons justifying the findings under this subsection, and shall be transmitted upon such issuance to the Committees on Natural Resources and on Energy and Commerce of the House of Representatives and the Committee on Environment and Public Works of the Senate. The final order of the Commission withrespect to the issuance or amendment of a temporary operating license shall be subject to judicial review pursuant to chapter 158 of title 28. The requirements of section 2239(a) of this title with respect to the issuance or amendment of facility licenses shall not apply to the issuance or amendment of a temporary operating license under this section.
 
 #### (c) Hearing for final operating license; suspension, issuance, compliance, etc., with temporary operating license
 
@@ -28,7 +28,7 @@ The Commission is authorized and directed to adopt such administrative remedies 
 
 The authority to issue new temporary operating licenses under this section shall expire on December 31, 1983.
 
-(Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub.L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
+(Aug. 1, 1946, ch. 724, title I, §192, as added Pub. L. 92–307, June 2, 1972, 86 Stat. 191; amended Pub. L. 97–415, §11, Jan. 4, 1983, 96 Stat. 2071; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(8), Nov. 2, 1994, 108 Stat. 4593.)
 
 #### References in Text
 

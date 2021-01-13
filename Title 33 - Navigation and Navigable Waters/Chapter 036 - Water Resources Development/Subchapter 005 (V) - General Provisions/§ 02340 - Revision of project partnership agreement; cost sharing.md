@@ -14,9 +14,13 @@ The estimated Federal and non-Federal costs of water resources projects authoriz
 
 (Pub. L. 110–114, title II, §2008, Nov. 8, 2007, 121 Stat. 1073.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reference to Partnership Agreement Deemed Reference to Cooperation Agreement
 

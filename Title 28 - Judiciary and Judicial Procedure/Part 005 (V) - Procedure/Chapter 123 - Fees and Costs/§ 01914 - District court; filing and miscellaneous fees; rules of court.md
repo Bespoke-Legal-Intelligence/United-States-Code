@@ -24,6 +24,8 @@ Words "or appeal from a deportation order of a United States Commissioner" in se
 
 Subsection (d) excepting the District of Columbia, was added to preserve the existing schedule of fees prescribed by section 11–1509 of the District of Columbia Code, 1940 ed.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -42,9 +44,11 @@ Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–598 substituted "$60" for "$15".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title X, §10001(d), Feb. 8, 2006, 120 Stat. 184, provided that: "This section \[amending this section and enacting provisions set out as notes under sections 1913 and 1931 of this title\] and the amendmentmade by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\]."
+Pub. L. 109–171, title X, §10001(d), Feb. 8, 2006, 120 Stat. 184, provided that: "This section \[amending this section and enacting provisions set out as notes under sections 1913 and 1931 of this title\] and the amendment made by this section shall take effect 60 days after the date of the enactment of this Act \[Feb. 8, 2006\]."
 
 #### Effective Date of 2004 Amendment
 

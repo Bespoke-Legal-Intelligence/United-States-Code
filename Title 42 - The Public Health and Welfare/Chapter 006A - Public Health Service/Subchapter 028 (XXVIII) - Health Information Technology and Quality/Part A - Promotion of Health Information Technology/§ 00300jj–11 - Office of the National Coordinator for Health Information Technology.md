@@ -94,7 +94,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Institute of Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
+&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Instituteof Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
 
 #### (B) Certification criteria described
 

@@ -34,7 +34,7 @@
 
 (2) The amount of such benefit for the month in which an application for benefits becomes effective (or, if the Commissioner of Social Security so determines, for such month and the following month) and for any month immediately following a month of ineligibility for such benefits (or, if the Commissioner of Social Security so determines, for such month and the following month) shall—
 
-&emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, ifany, of such individual and other relevant circumstances in such month; and
+&emsp;(A) be determined on the basis of the income of the individual and the eligible spouse, if any, of such individual and other relevant circumstances in such month; and
 
 &emsp;(B) in the case of the first month following a period of ineligibility in which eligibility is restored after the first day of such month, bear the same ratio to the amount of the benefit which would have been payable to such individual if eligibility had been restored on the first day of such month as the number of days in such month including and following the date of restoration of eligibility bears to the total number of days in such month.
 
@@ -72,7 +72,7 @@ The Commissioner of Social Security may prescribe the circumstances under which,
 
 #### (e) Limitation on eligibility of certain individuals
 
-(1)(A) Except as provided in subparagraphs (B), (C), (D), (E), and (G), no person shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month if throughout such month he is an inmate of a public institution.
+(1)(A) Except as provided in subparagraphs (B), (C), (D), (E), and (G), no person shall be an eligible individual or eligible spouse for purposes of this subchapter with respect to any month ifthroughout such month he is an inmate of a public institution.
 
 (B) In any case where an eligible individual or his eligible spouse (if any) is, throughout any month (subject to subparagraph (G)), in a medical treatment facility receiving payments (with respect to such individual or spouse) under a State plan approved under subchapter XIX, or an eligible individual is a child described in section 1382c(f)(2)(B) of this title, or, in the case of an eligible individual who is a child under the age of 18, receiving payments (with respect to such individual) under any health insurance policy issued by a private provider of such insurance the benefit under this subchapter for such individual for such month shall be payable (subject to subparagraph (E))—
 
@@ -194,7 +194,7 @@ In the case of any individual or any individual and his spouse (as the case may 
 
 &emsp;(3) has, since December 31, 1973, continuously been (except for periods not in excess of six consecutive months) an eligible individual or eligible spouse with respect to whom supplemental security income benefits are payable,
 
-> the resources of such individual or such individual and his spouse (as the case may be) shall bedeemed not to exceed the amount specified in subsections (a)(1)(B) and (a)(2)(B) during any period that the resources of such individual or such individual and his spouse (as the case may be) does not exceed the maximum amount of resources specified in the State plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973.
+> the resources of such individual or such individual and his spouse (as the case may be) shallbe deemed not to exceed the amount specified in subsections (a)(1)(B) and (a)(2)(B) during any period that the resources of such individual or such individual and his spouse (as the case may be) does not exceed the maximum amount of resources specified in the State plan, as in effect for October 1972, under which he or they received such aid or assistance for December 1973.
 
 #### (h) Individuals deemed to meet income test
 
@@ -620,35 +620,15 @@ Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been e
 
 #### Study of Denial of SSI Benefits for Family Farmers
 
-Pub. L. 106–169, title II, §261, Dec. 14, 1999, 113 Stat. 1856, provided that:
-
-"(a)
-
-In General.—The Commissioner of Social Security shall conduct a study of the reasons why family farmers with resources of less than $100,000 are denied supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], including whether the deeming process unduly burdensand discriminates against family farmers who do not institutionalize a disabled dependent, and shall determine the number of such farmers who have been denied such benefits during each of the preceding 10 years.
-
-"(b)
-
-Report to the Congress.—Within 1 year after the date of the enactment of this Act \[Dec. 14, 1999\], the Commissioner of Social Security shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that contains the results of the study, and the determination, required by subsection (a)."
+Pub. L. 106–169, title II, §261, Dec. 14, 1999, 113 Stat. 1856, required a study on the denial of supplemental security income benefits to family farmers with resources of less than $100,000 and a report on the study within 1 year after Dec. 14, 1999.
 
 #### Study of Other Potential Improvements in Collection of Information Respecting Public Inmates
 
-Pub. L. 104–193, title II, §203(b), Aug. 22, 1996, 110 Stat. 2187, provided that:
-
-"(1)
-
-Study.—The Commissioner of Social Security shall conduct a study of the desirability, feasibility, and cost of—
-
-&emsp;"(A) establishing a system under which Federal, State, and local courts would furnish to the Commissioner such information respecting court orders by which individuals are confined in jails, prisons, or other public penal, correctional, or medical facilities as the Commissioner may require for the purpose of carrying out section 1611(e)(1) of the Social Security Act \[42 U.S.C. 1382(e)(1)\]; and
-
-&emsp;"(B) requiring that State and local jails, prisons, and other institutions that enter into agreements with the Commissioner under section 1611(e)(1)(I) of the Social Security Act \[42 U.S.C. 1382(e)(1)(I)\] furnish the information required by such agreements to the Commissioner by means of an electronic or other sophisticated data exchange system.
-
-"(2)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 22, 1996\], the Commissioner of Social Security shall submit a report on the results of the study conducted pursuant to this subsection to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives."
+Pub. L. 104–193, title II, §203(b), Aug. 22, 1996, 110 Stat. 2187, required a study on various improvements in thefurnishing of information to the Commissioner by courts and prisons and a report to be submitted no later than 1 year after Aug. 22, 1996.
 
 #### Additional Report to Congress
 
-Pub. L. 104–193, title II, §203(c), Aug. 22, 1996, 110 Stat. 2187, provided that: "Not later than October 1, 1998, the Commissioner of Social Security shall provide to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a list of the institutions that are and are not providing information to the Commissioner under section 1611(e)(1)(I) of the Social Security Act (as added by this section) \[42 U.S.C. 1382(e)(1)(I)\]."
+Pub. L. 104–193, title II, §203(c), Aug. 22, 1996, 110 Stat. 2187, required the Commissioner to provide, no later than Oct. 1, 1998, a list of institutions providing or not providing information under subsec. (e)(1)(I) of this section.
 
 #### Study by General Accounting Office
 
@@ -696,7 +676,7 @@ Pub. L. 94–375, §2(h), Aug. 3, 1976, 90 Stat. 1068, provided that: "Notwithst
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
-Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to each individual who, for the month of March, 1975, was entitled to a benefit under the supplemental security income benefits program established by this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
+Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to eachindividual who, for the month of March, 1975, was entitled to a benefit under the supplemental security income benefits program established by this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
 
 #### Adjustment of Individual's Monthly Supplemental Security Income Payments; Regulations; Limitations
 
@@ -760,7 +740,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 &emsp;"(A) is an aged, blind, or disabled individual (within the meaning of section 1614(a) of the Social Security Act \[42 U.S.C. 1382c(a)\], as enacted by section 301 of the Social Security Amendments of 1972), and
 
-&emsp;"(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan of such State (approved under title I, X, XIV, or XVI, of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\])
+&emsp;"(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan ofsuch State (approved under title I, X, XIV, or XVI, of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\])
 
 > shall be entitled to receive, from the State, the supplementary payment described in paragraph (3) for each month, beginning with January 1974, and ending with whichever of the following first occurs:
 
@@ -792,7 +772,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 > and, if for any month after December 1973 there is a change with respect to such special need or circumstance which, if such change had existed in December 1973, the amount described in subparagraph (B)(i) with respect to such individual would have been reduced on account of such change, then, for such month and for each month thereafter the amount of the supplementary payment payable under the agreement entered into under this subsection to such individual shall (unless the State, at its option, otherwise specifies) be reduced by an amount equal to the amount by which the amount (described in subparagraph (B)(i)) would have been so reduced.
 
-"(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment\(referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
+"(E)(i) In the case of an individual who, for December 1973 lived as a member of a family unit other members of which received aid (in the form of money payments) under a State plan of a State approved under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], such State at its option, may (subject to clause (ii)) reduce such individual's December 1973 income (as determined under subparagraph (B)) to such extent as may be necessary to cause the supplementary payment (referred to in paragraph (2)) payable to such individual for January 1974 or any month thereafter to be reduced to a level designed to assure that the total income of such individual (and of the members of such family unit) for any month after December 1973 does not exceed the total income of such individual (and of the members of such family unit) for December 1973.
 
 "(ii) The amount of the reduction (under clause (i)) of any individual's December 1973 income shall not be in an amount which would cause the supplementary payment (referred to in paragraph (2)) payable to such individual to be reduced below the amount of such supplementary payment which would be payable to such individual if he had, for the month of December 1973 not lived in a family, members of which were receiving aid under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], and had had no income for such month other than that received as aid or assistance under a State plan approved under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\].
 
@@ -858,7 +838,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 "(iii) Notwithstanding clause (i), the Commissioner may make supplementary payments on behalf of a State with funds appropriated for payment of supplemental security income benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], and subsequently to be reimbursed for such payments by the State at such times as the Commissioner and State may agree. Such authority may be exercised only if extraordinary circumstances affecting a State's ability to make payment when required by clause (i) are determined by the Commissioner to exist.
 
-"(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall beexcluded under section 1612(b)(6) of the Social Security Act \[42 U.S.C. 1382a(b)(6)\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[42 U.S.C. 1381 et seq.\] (as so in effect).
+"(c)(1) Supplementary payments made pursuant to an agreement entered into under subsection (a) shall be excluded under section 1612(b)(6) of the Social Security Act \[42 U.S.C. 1382a(b)(6)\] (as in effect after December 1973) in determining income of individuals for purposes of title XVI of such Act \[42 U.S.C. 1381 et seq.\] (as so in effect).
 
 "(2) Supplementary payments made by the Commissioner of Social Security (pursuant to an administration agreement entered into under subsection (b)) shall, for purposes of section 401 of the Social Security Amendments of 1972 \[set out as a note under section 1382e of this title\], be considered to be payments made under an agreement entered into under section 1616 of the Social Security Act \[42 U.S.C. 1382e\] (as enacted by section 301 of the Social Security Amendments of 1972); except that nothing in this paragraph shall be construed to waive, with respect to the payments so made by the Commissioner of Social Security, the provisions of subsection (b) of such section 401 \[set out as a note under section 1382e of this title\].
 
@@ -926,7 +906,7 @@ A State plan for aid to the aged, blind, or disabled, must—
 
 &emsp;(14) provide that the State agency shall, in determining need for aid to the aged, blind, or disabled, take into consideration any other income and resources of an individual claiming such aid, as well as any expenses reasonably attributable to the earning of any such income; except that, in making such determination with respect to any individual—
 
-&emsp;&emsp;(A) if such individual is blind, the State agency (i) shall disregard the first $85 per month of earned income plus one-half of earned income in excess of $85 per month, and (ii) shall, for a period not in excess of 12 months, and may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan,
+&emsp;&emsp;(A) if such individual is blind, the State agency (i) shall disregard the first $85 per month of earned income plus one-half of earned income in excess of $85 per month, and (ii) shall, for a period not in excess of 12 months, and may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-supportapproved by the State agency, as may be necessary for the fulfillment of such plan,
 
 &emsp;&emsp;(B) if such individual is not blind but is permanently and totally disabled, (i) of the first $80 per month of earned income, the State agency may disregard not more than the first $20 thereof plus one-half of the remainder, and (ii) the State agency may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan, but only with respect to the part or parts of such period during substantially all of which he is actually undergoing vocational rehabilitation,
 

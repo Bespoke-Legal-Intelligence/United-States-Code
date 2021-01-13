@@ -8,7 +8,7 @@
 
 #### (2) Election not permitted where amounts otherwise includible under section 951
 
-&emsp;The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if any amount is includible in thegross income of the taxpayer under section 951 with respect to such fund for such taxable year.
+&emsp;The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.
 
 #### (b) Definitions
 

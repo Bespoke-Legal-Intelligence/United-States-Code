@@ -34,6 +34,8 @@ Definitions.—As used in this section—
 
 (Added Pub. L. 108–458, title VI, §6602, Dec. 17, 2004, 118 Stat. 3761.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 101, 212, and 219 of the Immigration and Nationality Act, referred to in subsecs. (a), (b)(1), and (c)(4), are classified to sections 1101, 1182, and 1189, respectively, of Title 8, Aliens and Nationality.

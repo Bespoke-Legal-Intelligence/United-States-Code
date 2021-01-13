@@ -20,6 +20,8 @@ Changes in phraseology were made.
 
 This section, in amending section 1502 of title 28, U.S.C., conforms with the provisions of act of August 13, 1946 (ch. 959, §25, 60 Stat. 1056), which affected section 153 of the Judicial Code of 1911 by striking therefrom the words "or with Indian tribes." Such section 153 of the Judicial Code was the source of such section 1502.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
@@ -27,6 +29,8 @@ This section, in amending section 1502 of title 28, U.S.C., conforms with the pr
 <b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 <b>1949</b>—Act May 24, 1949, struck out "or with Indian tribes" after "foreign nations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

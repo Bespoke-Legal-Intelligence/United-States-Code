@@ -12,9 +12,11 @@
 
 Nondiscrimination requirements.—Notwithstanding any other provision of law, the Thrift Savings Fund is not subject to the nondiscrimination requirements applicable to arrangements described in section 401(k) of title 26, United States Code, or to matching contributions (as described in section 401(m) of title 26, United States Code), so long as it meets the requirements of this section.
 
-(c) Subsection (a) shall not be construed to provide that any amount of the employee's or Member's basic pay which is contributed to the Thrift Savings Fund shall not be included in the term "wages" for the purposes of section 209 of the Social Security Act or section 3121(a) of the Internal Revenue Code of 1986.
+(c) Subsection (a) shall not be construed to provide that any amount of the employee's orMember's basic pay which is contributed to the Thrift Savings Fund shall not be included in the term "wages" for the purposes of section 209 of the Social Security Act or section 3121(a) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, §101(m) \[title VI, §624(b)\], Dec. 22, 1987, 101 Stat.1329–390, 1329–430; Pub. L. 100–647, title I, §1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; Pub. L. 102–378, §2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, §5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, §101(m) \[title VI, §624(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–647, title I, §1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; Pub. L. 102–378, §2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, §5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Section 209 of the Social Security Act, referred to in subsec. (c), is classifie
 <b>1987</b>—Subsec. (a)(3). Pub. L. 100–202, §101(m) \[title VI, §624(b)(1)\], struck out "the provisions of subsection (b) and" after "subject to".
 
 Subsec. (b). Pub. L. 100–202, §101(m) \[title VI, §624(b)(2)\], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in section 401(k) of title 26 and to matching contributions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

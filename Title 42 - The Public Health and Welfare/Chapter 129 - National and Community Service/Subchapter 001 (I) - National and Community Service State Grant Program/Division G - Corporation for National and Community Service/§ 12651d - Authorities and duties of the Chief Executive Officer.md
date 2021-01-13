@@ -2,7 +2,7 @@
 
 #### (a) General powers and duties
 
-The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that arenot reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 8E <sup>1</sup> of the Inspector General Act of 1978.
+The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 8E <sup>1</sup> of the Inspector General Act of 1978.
 
 #### (b) Duties
 
@@ -28,7 +28,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(i) establish measurable performance goals and objectives for such programs, in accordance with section 12639 of this title; and
 
-&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent to which the programs achieve the goals and objectives, in accordance with such section;
+&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent towhich the programs achieve the goals and objectives, in accordance with such section;
 
 &emsp;(5) consult with appropriate Federal agencies in administering the programs and initiatives;
 
@@ -118,7 +118,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(21) coordinate the clearinghouses described in section 12653o of this title;
 
-&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h ofthis title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
+&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
 
 &emsp;(23) identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
 
@@ -244,7 +244,7 @@ Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is 
 
 Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 16 and Tables.
 
-This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(11)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 

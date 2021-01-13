@@ -14,7 +14,7 @@ Every organization which for any of its last 5 taxable years preceding its liqui
 
 &emsp;(1) no return shall be required under this subsection from churches, their integrated auxiliaries, conventions or associations of churches, or any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000, and
 
-&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described in section 401(a), where the employer who established such organization files such a return.
+&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described insection 401(a), where the employer who established such organization files such a return.
 
 #### (c) Changes in control and recapitalizations
 

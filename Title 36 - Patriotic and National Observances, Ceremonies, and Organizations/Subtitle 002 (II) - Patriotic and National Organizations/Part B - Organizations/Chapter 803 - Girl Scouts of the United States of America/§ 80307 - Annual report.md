@@ -1,6 +1,6 @@
 ### §80307. Annual report
 
-Not later than April 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report shall be printed each year, with accompanying illustrations, as a separate House document of the session of the Congress to which the report is submitted.
+Not later than April 1 of each year, the corporation shall submit a report to Congress onthe activities of the corporation during the prior fiscal year. The report shall be printed each year, with accompanying illustrations, as a separate House document of the session of the Congress to which the report is submitted.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1362.)
 
@@ -26,7 +26,9 @@ Mar. 16, 1950, ch. 62, §7, 64 Stat. 24; Aug. 14, 1953, ch. 486, §2, 67 Stat. 5
 
 Apr. 16, 1951, ch. 29, 65 Stat. 31.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in the first sentence of this section relating to the requirement that the corporation submit a report to Congress not later than April 1 of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 200 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in the first sentence of this section relating to the requirement that the corporation submit a report to Congress not later than April 1 of each year, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 200 of House Document No. 103–7.
 

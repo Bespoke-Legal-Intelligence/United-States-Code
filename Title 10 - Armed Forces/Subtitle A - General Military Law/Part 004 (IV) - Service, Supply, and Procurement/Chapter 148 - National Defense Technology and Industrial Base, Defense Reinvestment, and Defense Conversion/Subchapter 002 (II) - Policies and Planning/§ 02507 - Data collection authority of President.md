@@ -10,7 +10,7 @@ Condition for Use of Authority.—The President shall issue regulations insuring
 
 (c)
 
-Penalty for Noncompliance.—Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined undertitle 18 or imprisoned not more than one year, or both.
+Penalty for Noncompliance.—Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined under title 18 or imprisoned not more than one year, or both.
 
 (d)
 
@@ -24,11 +24,15 @@ Regulations.—The President may make such rules, regulations, and orders as he 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "person" includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agency of any of the foregoing, except that no punishment provided by this section shall apply to the United States, or to any such government, political subdivision, or government agency.
+&emsp;(1) The term "person" includes an individual, corporation, partnership, association, or any other organized group of persons, or legal successor or representative of the foregoing, and includes the United States or any agency thereof, or any other government, or any of its political subdivisions, or any agencyof any of the foregoing, except that no punishment provided by this section shall apply to the United States, or to any such government, political subdivision, or government agency.
 
 &emsp;(2) The term "national defense" means programs for military and atomic energy production or construction, military assistance to any foreign nation, stockpiling, space, and directly related activity.
 
 (Added Pub. L. 102–484, div. D, title XLII, §4217, Oct. 23, 1992, 106 Stat. 2670; amended Pub. L. 103–160, div. A, title XI, §1182(b)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 109–163, div. A, title X, §1056(c)(5), Jan. 6, 2006, 119 Stat. 3439.)
+
+#### Transfer of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1867(b), Jan. 1, 2021, 134 Stat. 4151, 4281, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is transferred to chapter 382 of this title, as added by section 1867(a) of Pub. L. 116–283, inserted after section 4817, and redesignated as section 4818 of this title. See Effective Date of 2021 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -39,4 +43,8 @@ A prior section 2507 was renumbered section 2534 of this title.
 <b>2006</b>—Subsec. (d). Pub. L. 109–163 substituted "subsection (a)" for "section (a)".
 
 <b>1993</b>—Pub. L. 103–160 inserted headings in subsecs. (a) to (f).
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

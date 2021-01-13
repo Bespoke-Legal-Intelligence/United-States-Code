@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems;
 
-&emsp;&emsp;(B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
+&emsp;&emsp;(B) support the development of real-time data sharing products and forecast productsin collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
 
 &emsp;&emsp;(C) support increasing use of autonomous, mobile surface, sub-surface, and submarine vehicle ocean and fresh water sensor systems and the infrastructure necessary to share and analyze these data in real-time and feed them into predictive early warning systems.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(v) identify and prioritize new environmental observations that could contribute to existing and future weather models; and
 
-&emsp;&emsp;&emsp;(vi) develop recommendations on a portfolio of environmental observations thatbalances essential, quality-improving, and new data, private and nonprivate sources, and space-based and Earth-based sources.
+&emsp;&emsp;&emsp;(vi) develop recommendations on a portfolio of environmental observations that balances essential, quality-improving, and new data, private and nonprivate sources, and space-based and Earth-based sources.
 
 #### (C) Deadline and report
 
@@ -106,7 +106,11 @@
 
 &emsp;&emsp;(C) include new, value-adding technological advancements; and
 
-&emsp;&emsp;(D) improve weather forecasting and predictions.
+&emsp;&emsp;(D) improve—
+
+&emsp;&emsp;&emsp;(i) weather and climate forecasting and predictions; and
+
+&emsp;&emsp;&emsp;(ii) the understanding, management, and exploration of the ocean.
 
 #### (2) Quantitative assessments and partnership authority
 
@@ -120,7 +124,11 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), in order to enhance the effectiveness of data and satellite systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1).
+&emsp;Subject to paragraph (2), in order to enhance the effectiveness of data, satellite, and other observing systems used by the National Oceanic and Atmospheric Administration to meet its missions, the Under Secretary may enter into and perform such transaction agreements on such terms as the Under Secretary considers appropriate to carry out—
+
+&emsp;&emsp;(A) basic, applied, and advanced research projects and ocean exploration missions to meet the objectives described in subparagraphs (A) through (D) of subsection (c)(1); or
+
+&emsp;&emsp;(B) any other type of project to meet other mission objectives, as determined by the Under Secretary.
 
 #### (2) Method and scope
 
@@ -132,7 +140,7 @@
 
 &emsp;&emsp;A transaction agreement under paragraph (1) may be used—
 
-&emsp;&emsp;&emsp;(i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding satellites, instrumentation, ground stations, and data;
+&emsp;&emsp;&emsp;(i) for the construction, use, operation, or procurement of new, improved, innovative, or value-adding systems, including satellites, instrumentation, ground stations, data, and data processing;
 
 &emsp;&emsp;&emsp;(ii) to make determinations on how to best use existing or planned data, systems, and assets of the National Oceanic and Atmospheric Administration; and
 
@@ -140,7 +148,7 @@
 
 #### (3) Termination of effectiveness
 
-&emsp;The authority provided in this subsection terminates effective September 30, 2023.
+&emsp;The authority provided in this subsection terminates effective September 30, 2030.
 
 #### (e) Transparency
 
@@ -150,7 +158,7 @@ Not later than 60 days after the date that a transaction agreement is made under
 
 #### (1) In general
 
-&emsp;Not later than 90 days after September 30 of each fiscal year through September 30, 2023,the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
+&emsp;Not later than 90 days after September 30 of each fiscal year through September 30, 2023, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the use of additional transaction authority by the National Oceanic and Atmospheric Administration during the previous fiscal year.
 
 #### (2) Contents
 
@@ -194,9 +202,17 @@ Not later than 60 days after the date that a transaction agreement is made under
 
 Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
 
-(Pub. L. 115–25, title III, §301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461.)
+(Pub. L. 115–25, title III, §301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461; Pub. L. 116–259, title V, §503, Dec. 23, 2020, 134 Stat. 1179.)
 
 #### Amendments
+
+<b>2020</b>—Subsec. (c)(1)(D). Pub. L. 116–259, §503(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "improve weather forecasting and predictions."
+
+Subsec. (d)(1). Pub. L. 116–259, §503(2)(A), substituted "data, satellite, and other observing systems" for "data and satellite systems" and "to carry out—" and subpars. (A) and (B) for "to carry out basic, applied, and advanced research projects to meet the objectives described in subparagraphs (A) through (D) subsection (c)(1)."
+
+Subsec. (d)(2)(B)(i). Pub. L. 116–259, §503(2)(B), substituted "systems, including satellites, instrumentation, ground stations, data, and data processing;" for "satellites, instrumentation, ground stations, and data;".
+
+Subsec. (d)(3). Pub. L. 116–259, §503(2)(C), substituted "2030" for "2023".
 
 <b>2019</b>—Subsec. (a)(2)(C). Pub. L. 115–423, §7(a), added subpar. (C).
 

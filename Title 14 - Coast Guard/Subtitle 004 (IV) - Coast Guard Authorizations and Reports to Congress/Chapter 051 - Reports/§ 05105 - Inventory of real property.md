@@ -36,6 +36,8 @@ Recommendations to Congress.—Not later than March 30, 2016, and every 5 years 
 
 (Added Pub. L. 113–281, title II, §217(a), Dec. 18, 2014, 128 Stat. 3035, §679; amended Pub. L. 115–232, div. C, title XXXV, §3539, Aug. 13, 2018, 132 Stat. 2322; renumbered §5105, Pub. L. 115–282, title I, §122(b), Dec. 4, 2018, 132 Stat. 4239.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 679 of this title as this section.

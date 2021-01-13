@@ -10,7 +10,7 @@
 
 &emsp;In making a determination under paragraph (1), the President—
 
-&emsp;&emsp;(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilizationof capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
+&emsp;&emsp;(A) shall examine the effect of increased imports on the domestic industry, as reflected in changes in such relevant economic factors as output, productivity, utilization of capacity, inventories, market share, exports, wages, employment, domestic prices, profits, and investment, none of which is necessarily decisive; and
 
 &emsp;&emsp;(B) shall not consider changes in technology or consumer preference as factors supporting a determination of serious damage or actual threat thereof.
 
@@ -26,7 +26,7 @@
 
 #### (2) Nature of relief
 
-&emsp;The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+&emsp;The relief that the President is authorized to provide under this subsection with respect toimports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
 
 &emsp;&emsp;(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 

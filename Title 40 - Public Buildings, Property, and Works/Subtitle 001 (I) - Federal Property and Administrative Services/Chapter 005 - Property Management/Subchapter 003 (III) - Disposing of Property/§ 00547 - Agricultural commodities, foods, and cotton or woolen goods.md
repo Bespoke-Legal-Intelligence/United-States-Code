@@ -18,7 +18,7 @@ Deposit of receipts.—Receipts resulting from disposal by the Department under 
 
 &emsp;(3)
 
-Limitation of sales.—Surplus farm commodities transferred under this subsection may not be sold, other than for export, in quantities exceeding, or at prices less than, the applicable quantities and prices for sales of those commodities by the Commodity Credit Corporation.
+Limitation of sales.—Surplus farm commodities transferred under this subsectionmay not be sold, other than for export, in quantities exceeding, or at prices less than, the applicable quantities and prices for sales of those commodities by the Commodity Credit Corporation.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1089.)
 

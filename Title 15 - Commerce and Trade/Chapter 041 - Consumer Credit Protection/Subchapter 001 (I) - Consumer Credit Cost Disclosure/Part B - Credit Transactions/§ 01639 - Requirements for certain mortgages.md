@@ -114,7 +114,7 @@ No creditor shall recommend or encourage default on an existing loan or other de
 
 #### (3) Failure to make installment payment
 
-&emsp;If, in the case of a loan agreement the terms of which provide that any payment shall firstbe applied to any past due principal balance, the consumer fails to make an installment payment and the consumer subsequently resumes making installment payments but has not paid all past due installments, the creditor may impose a separate late payment charge or fee for any principal due (without deduction due to late fees or related fees) until the default is cured.
+&emsp;If, in the case of a loan agreement the terms of which provide that any payment shall first be applied to any past due principal balance, the consumer fails to make an installment payment and the consumer subsequently resumes making installment payments but has not paid all past due installments, the creditor may impose a separate late payment charge or fee for any principal due (without deduction due to late fees or related fees) until the default is cured.
 
 #### (l) Acceleration of debt
 

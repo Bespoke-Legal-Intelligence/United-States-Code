@@ -10,7 +10,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
-&emsp;(2) A description of the national service programs that are selected by the applicant to receive a grant using assistance requested under section 12571 of this title and a description of the process and criteria by which the programs were selected.
+&emsp;(2) A description of the national service programs that are selected by the applicant to receive a grant using assistance requested under section 12571 of this title and a description ofthe process and criteria by which the programs were selected.
 
 &emsp;(3) A description of other funding sources to be used, or sought to be used, for the national service programs referred to in paragraphs (1) and (2), and, if the application is submitted for the purpose of seeking a renewal of assistance, a description of the success of the programs in reducing their reliance on Federal funds.
 

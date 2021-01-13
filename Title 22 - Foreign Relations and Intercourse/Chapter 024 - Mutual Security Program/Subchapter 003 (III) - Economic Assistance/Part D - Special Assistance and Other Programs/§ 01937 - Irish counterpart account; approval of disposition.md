@@ -12,6 +12,8 @@ Pursuant to section 1513(b)(6) <sup>1</sup> of this title, the disposition with
 
 (Aug. 26, 1954, ch. 937, ch. II, §417, 68 Stat. 849.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1513(b)(6) of this title, referred to in text, was repealed by section 542(a)(4) of act Aug. 26, 1954.

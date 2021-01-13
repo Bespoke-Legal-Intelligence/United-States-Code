@@ -26,7 +26,7 @@ Notwithstanding subsection (a), in the case of any alien described in such subse
 
 #### (c) Reentry of alien deported prior to completion of term of imprisonment
 
-Any alien deported pursuant to section 1252(h)(2) <sup>2</sup> of this title who enters, attempts to enter, or is at any time found in, the United States (unless the Attorney General has expressly consented to such alien's reentry) shall be incarcerated for the remainder of the sentence of imprisonment which was pending at the time of deportation without any reduction for parole or supervised release. Such alien shall be subject to such other penalties relating to the reentry of deported aliens as may be available under this section or any other provision of law.
+Any alien deported pursuant to section 1252(h)(2) <sup>2</sup> of this title who enters, attempts toenter, or is at any time found in, the United States (unless the Attorney General has expressly consented to such alien's reentry) shall be incarcerated for the remainder of the sentence of imprisonment which was pending at the time of deportation without any reduction for parole or supervised release. Such alien shall be subject to such other penalties relating to the reentry of deported aliens as may be available under this section or any other provision of law.
 
 #### (d) Limitation on collateral attack on underlying deportation order
 
@@ -39,6 +39,8 @@ In a criminal proceeding under this section, an alien may not challenge the vali
 &emsp;(3) the entry of the order was fundamentally unfair.
 
 (June 27, 1952, ch. 477, title II, ch. 8, §276, 66 Stat. 229; Pub. L. 100–690, title VII, §7345(a), Nov. 18, 1988, 102 Stat. 4471; Pub. L. 101–649, title V, §543(b)(3), Nov. 29, 1990, 104 Stat. 5059; Pub. L. 103–322, title XIII, §130001(b), Sept. 13, 1994, 108 Stat. 2023; Pub. L. 104–132, title IV, §§401(c), 438(b), 441(a), Apr. 24, 1996, 110 Stat. 1267, 1276, 1279; Pub. L. 104–208, div. C, title III, §§305(b), 308(d)(4)(J), (e)(1)(K), (14)(A), 324(a), (b), Sept. 30, 1996, 110 Stat. 3009–606, 3009–618 to 3009–620, 3009–629.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Subsec. (d). Pub. L. 104–132, §441(a), added subsec. (d).
 <b>1990</b>—Subsec. (a). Pub. L. 101–649 substituted "shall be fined under title 18, or imprisoned not more than 2 years" for "shall be guilty of a felony, and upon conviction thereof, be punished by imprisonment of not more than two years, or by a fine of not more than $1,000".
 
 <b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a), substituted "Subject to subsection (b), any alien" for "Any alien", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendments
 

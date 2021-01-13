@@ -22,7 +22,7 @@ Beginning on the privatization date, the restrictions stated in section 207(a), 
 
 #### (d) Dissolution
 
-In the event that the privatization does not occur, the Corporation will provide for the dissolution of the private corporation within 1 year of the private corporation's incorporation unless the Secretary of the Treasury or his delegate,upon the Corporation's request, agrees to delay any such dissolution for an additional year.
+In the event that the privatization does not occur, the Corporation will provide for the dissolution of the private corporation within 1 year of the private corporation's incorporation unless the Secretary of the Treasury or his delegate, upon the Corporation's request, agrees to delay any such dissolution for an additional year.
 
 (Pub. L. 104–134, title III, §3105, Apr. 26, 1996, 110 Stat. 1321–337.)
 

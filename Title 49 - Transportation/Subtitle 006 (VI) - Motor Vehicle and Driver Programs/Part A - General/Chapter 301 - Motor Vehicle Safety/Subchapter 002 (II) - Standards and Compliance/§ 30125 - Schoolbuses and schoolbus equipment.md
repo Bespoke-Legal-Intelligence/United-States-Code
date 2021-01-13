@@ -10,7 +10,7 @@ Definitions.—In this section—
 
 (b)
 
-Standards.—The Secretary shall prescribe motor vehicle safety standards for schoolbuses and schoolbus equipment manufactured in, or imported into, the United States. Standards shall include minimum performance requirements for—
+Standards.—The Secretary shall prescribe motor vehicle safety standards for schoolbuses and schoolbus equipment manufactured in, orimported into, the United States. Standards shall include minimum performance requirements for—
 
 &emsp;(1) emergency exits;
 

@@ -1,8 +1,10 @@
 ### §2681. International broadcasting facilities; transfer to Department of State; acquisition of property
 
-For the purpose of assuring continued operation of the facilities hereinafter described for international broadcasting as a means of achieving the objectives of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\] under authority of that Act, the Reconstruction Finance Corporation, as successor to Defense Plant Corporation, shall transfer, without regard to the provisions of the Surplus Property Act of 1944, as amended, and without reimbursement or transfer of funds, to the Secretary of State (hereinafter referred to as the "Secretary") all of its right, title, and interest in and to the facilities known as Plancors 1805, 1985, and 1986 located in Butler County, Ohio, in the vicinity of Delano, California, and Dixon, California, respectively, together with the equipment and other property appurtenant thereto. For the purposes of sections 2681 to 2683 of this title, the Secretary is authorized to acquire property or rights or interests therein necessary or desirable for the operation of such facilities by purchase, lease, gift, transfer, condemnation, or otherwise.
+For the purpose of assuring continued operation of the facilities hereinafter described for international broadcasting as a means of achieving the objectives of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\] under authority of that Act, the Reconstruction Finance Corporation, as successor to Defense Plant Corporation, shall transfer, without regard to the provisions of the Surplus Property Act of 1944, as amended, and without reimbursement or transfer of funds, to the Secretary of State (hereinafter referred to as the "Secretary") all of its right, title, and interest in and to the facilities known as Plancors1805, 1985, and 1986 located in Butler County, Ohio, in the vicinity of Delano, California, and Dixon, California, respectively, together with the equipment and other property appurtenant thereto. For the purposes of sections 2681 to 2683 of this title, the Secretary is authorized to acquire property or rights or interests therein necessary or desirable for the operation of such facilities by purchase, lease, gift, transfer, condemnation, or otherwise.
 
 (July 9, 1949, ch. 301, §1, 63 Stat. 408.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -13,6 +15,8 @@ The Surplus Property Act of 1944, referred to in text, is act Oct. 3, 1944, ch. 
 #### Codification
 
 Section was formerly classified to section 170a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of Reconstruction Finance Corporation
 

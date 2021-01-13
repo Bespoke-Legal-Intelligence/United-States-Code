@@ -18,7 +18,7 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 &emsp;&emsp;(3) the manner of use of equipment or explosives, shot firing units, and blasting devices, means the manner of use prescribed by the Secretary;
 
-&emsp;(d) "rock dust" means pulverized limestone, dolomite, gypsum, anhydrite, shale, adobe, or other inert material, preferably light colored, 100 per centum of which will pass through a sieve having twenty meshes per linear inch and 70 per centum or more of which will pass through a sieve having two hundred meshes per linear inch; the particles of which when wetted and dried will not cohere to form a cake which will not be dispersed into separate particles by a light blast of air; and which does not contain more than 5 per centum of combustible matter or more than a total of 4 per centum of free and combined silica (SiO<b>2</b>), or, where the Secretary finds that such silica concentrations are not available, which does not contain more than 5 per centum of free and combined silica;
+&emsp;(d) "rock dust" means pulverized limestone, dolomite, gypsum, anhydrite, shale, adobe, or other inert material, preferably light colored, 100 per centum of which will pass through a sieve having twenty meshes per linear inchand 70 per centum or more of which will pass through a sieve having two hundred meshes per linear inch; the particles of which when wetted and dried will not cohere to form a cake which will not be dispersed into separate particles by a light blast of air; and which does not contain more than 5 per centum of combustible matter or more than a total of 4 per centum of free and combined silica (SiO<b>2</b>), or, where the Secretary finds that such silica concentrations are not available, which does not contain more than 5 per centum of free and combined silica;
 
 &emsp;(e) "anthracite" means coals with a volatile ratio equal to 0.12 or less;
 
@@ -44,6 +44,8 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 (Pub. L. 91–173, title III, §318, Dec. 30, 1969, 83 Stat. 791; Pub. L. 95–164, title II, §202(b), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in par. (b)(1), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -53,6 +55,8 @@ For the operative date of this subchapter, referred to in par. (i), see section 
 #### Amendments
 
 <b>1977</b>—Par. (k). Pub. L. 95–164 struck out par. (k) which defined "respirable dust" as dust particles 5 microns or less in size.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

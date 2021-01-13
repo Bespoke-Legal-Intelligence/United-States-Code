@@ -20,7 +20,7 @@ Functions.—In order to carry out the responsibilities specified in this subcha
 
 (b)
 
-Review of Agency Action.—Any applicant or licensee that makes a timely request for review of an adverse action pursuant to paragraph (1), (3), (5), or (6) of subsection (a) shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
+Review of Agency Action.—Any applicant or licensee that makes a timely request for review of an adverse action pursuant to paragraph\(1), (3), (5), or (6) of subsection (a) shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3415.)
 

@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized, wherever in his discretion such act
 
 (June 30, 1919, ch. 4, §1, 41 Stat. 9.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 162 of this title, referred to in text, was repealed by act June 24, 1938, ch. 648, §2, 52 Stat. 1037. See section 162a of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

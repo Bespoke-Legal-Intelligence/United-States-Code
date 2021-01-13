@@ -6,7 +6,7 @@ A person who has filed a declaration that meets the requirements of sections 422
 
 #### (b) Civil action
 
-If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to privatecounsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant's counsel shall act in accordance with subchapter III.
+If the Attorney General determines that a proceeding to recover the asset or assets identified in the declaration should be referred to private counsel pursuant to subchapter III, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute the action, and the declarant and the declarant's counsel shall act in accordance with subchapter III.
 
 #### (c) Share of assets
 
@@ -23,6 +23,8 @@ When the United States recovers any asset or assets specifically identified in a
 For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement, order, or settlement.
 
 (Pub. L. 101–647, title XXV, §2580, Nov. 29, 1990, 104 Stat. 4901.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

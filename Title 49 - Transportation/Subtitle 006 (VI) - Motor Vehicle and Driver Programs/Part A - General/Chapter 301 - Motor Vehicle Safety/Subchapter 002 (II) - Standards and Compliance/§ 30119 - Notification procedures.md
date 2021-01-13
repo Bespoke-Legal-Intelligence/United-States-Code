@@ -40,7 +40,7 @@ Means of Providing Notification.—(1) Notification required under section 30118
 
 (2) Notification required under section 30118 of this title about replacement equipment shall be sent in the manner prescribed by the Secretary, by regulation, to the most recent purchaser known to the manufacturer.
 
-(3) In addition to the notification required under paragraphs (1) and (2), if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given by themanufacturer in the way required by the Secretary after consulting with the manufacturer. In deciding whether public notice is required, the Secretary shall consider—
+(3) In addition to the notification required under paragraphs (1) and (2), if the Secretary decides that public notice is required for motor vehicle safety, public notice shall be given by the manufacturer in the way required by the Secretary after consulting with the manufacturer. In deciding whether public notice is required, the Secretary shall consider—
 
 &emsp;(A) the magnitude of the risk to motor vehicle safety caused by the defect or noncompliance; and
 
@@ -156,7 +156,7 @@ In subsection (d), the text of 15:1413(c) (1st sentence words before cl. (1)) is
 
 In subsection (d)(1)(A), the words "who is" and "of such vehicle" are omitted as surplus.
 
-In subsection (d)(1)(B), the words "if a registered owner is not notified" are substituted for "unless theregistered owner (if any) of such vehicle was notified" for clarity. The words "most recent purchaser" are substituted for "first purchaser (or if a more recent purchaser is" for clarity and to eliminate unnecessary words. The words "of each such vehicle containing such defect or failure to comply" are omitted as surplus.
+In subsection (d)(1)(B), the words "if a registered owner is not notified" are substituted for "unless the registered owner (if any) of such vehicle was notified" for clarity. The words "most recent purchaser" are substituted for "first purchaser (or if a more recent purchaser is" for clarity and to eliminate unnecessary words. The words "of each such vehicle containing such defect or failure to comply" are omitted as surplus.
 
 In subsection (d)(3), the words "(or, if the manufacturer prefers, by certified mail)" are substituted for 15:1413(c) (last sentence) to eliminate unnecessary words.
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Improvements in Availability of Recall Information
 
-Pub. L. 114–94, div. B, title XXIV, §24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+Pub. L. 114–94, div. B, title XXIV, §24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: "Not later than 2years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
 
 &emsp;"(1) by improving the organization, availability, readability, and functionality of the website;
 
@@ -274,7 +274,7 @@ Pub. L. 114–94, div. B, title XXIV, §24335, Dec. 4, 2015, 129 Stat. 1716, pro
 
 "(a)
 
-In General.—The Secretary shall establish a publicly available and searchable electronic database oftire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
+In General.—The Secretary shall establish a publicly available and searchable electronic database of tire recall information that is reported to the Administrator of the National Highway Traffic Safety Administration.
 
 "(b)
 

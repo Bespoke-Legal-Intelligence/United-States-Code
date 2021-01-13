@@ -28,7 +28,7 @@ In this section:
 
 #### (3) Tribal educational agency
 
-&emsp;The term "tribal educational agency" means the agency, department, or instrumentality of an Indian tribe that is primarily responsible for supporting tribal students' elementary and secondary education.
+&emsp;The term "tribal educational agency" means the agency, department, or instrumentality of an Indian tribe that is primarily responsiblefor supporting tribal students' elementary and secondary education.
 
 #### (c) Grant program
 

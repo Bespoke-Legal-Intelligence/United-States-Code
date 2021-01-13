@@ -2,7 +2,9 @@
 
 The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to section 1552 of title 31, United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
 
-(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, titleVI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
+(June 25, 1948, ch. 644, 62 Stat. 678; Jan. 19, 1949, ch. 2, §1(a), 63 Stat. 4; Oct. 20, 1951, ch. 521, title VI, §619(a), 65 Stat. 569; Pub. L. 91–1, §1, Jan. 17, 1969, 83 Stat. 3; Pub. L. 95–570, §5(a), Nov. 2, 1978, 92 Stat. 2450; Pub. L. 106–58, title VI, §644(a), Sept. 29, 1999, 113 Stat. 478; Pub. L. 108–199, div. F, title III, §301, Jan. 23, 2004, 118 Stat. 326.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -17,6 +19,8 @@ The President shall receive in full for his services during the term for which h
 <b>1951</b>—Act Oct. 20, 1951, made President's expense allowance taxable.
 
 <b>1949</b>—Act Jan. 19, 1949, increased salary from $75,000 to $100,000 per year, and gave President a yearly expense account of $50,000 for which he was to make no accounting and which was tax free.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -68,7 +72,7 @@ Form and Availability of Estimates.—The estimates made under subsection (a) sh
 
 #### Presidential Transition Act of 1963
 
-Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, §2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, §2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305, provided: "That this Act may be cited as the 'Presidential Transition Act of 1963.'
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub.L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, §2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, §2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305; Pub. L. 116–121, §2, Mar. 3, 2020, 134 Stat. 138, provided: "That this Act may be cited as the 'Presidential Transition Act of 1963.'
 
 #### "purpose of this act
 
@@ -80,11 +84,11 @@ Sec. 2. The Congress declares it to be the purpose of this Act to promote the or
 
 "
 
-Sec. 3. (a) The Administrator of General Services, referred to hereafter in this Act as 'the Administrator,' is authorized to provide, upon request, to each President-elect and each Vice-President-elect, for use in connection with his preparations for the assumption of official duties as President or Vice President necessary services and facilities, including the following:
+Sec. 3. (a) The Administrator of General Services, referred to hereafter in this Act as 'the Administrator,' is authorized to provide, upon request, to each President-elect, each Vice-President-elect, and, for up to 60 days after the date of the inauguration of the President-elect and Vice-President-elect, each President and Vice President, for use in connection with the preparations for the assumption of official duties as President or Vice President necessary services and facilities, including the following:
 
 &emsp;"(1) Suitable office space appropriately equipped with furniture, furnishings, office machines and equipment, and office supplies, as determined by the Administrator, after consultation with the President-elect, the Vice-President-elect, or their designee provided for in subsection (e) of this section, at such place or places within the United States as the President-elect or Vice-President-elect shall designate.
 
-&emsp;"(2) Payment of the compensation of members of office staffs designated by the President-elect orVice-President-elect at rates determined by them not to exceed the rate provided by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of title 5\], for grade GS–18: <i>Provided</i>, That any employee of any agency of any branch of the Government may be detailed to such staffs on a reimbursable basis with the consent of the head of the agency; and while so detailed such employee shall be responsible only to the President-elect or Vice-President-elect for the performance of his duties: <i>Provided further</i>, That any employee so detailed shall continue to receive the compensation provided pursuant to law for his regular employment, and shall retain the rights and privileges of such employment without interruption. Notwithstanding any other law, persons receiving compensation as members of office staffs under this subsection, other than those detailed from agencies, shall not be held or considered to be employees of the Federal Government except for purposes of the Civil Service Retirement Act \[section 8301 et seq. of title 5\], the Federal Employees' Compensation Act \[section 8501 et seq. of title 5\], the Federal Employees' Group Life Insurance Act of 1954 \[section 8701 et seq. of title 5\], and the Federal Employees Health Benefits Act of 1959 \[section 8901 et seq. of title 5\].
+&emsp;"(2) Payment of the compensation of members of office staffs designated by the President-elect or Vice-President-elect at rates determined by them not to exceed the rate provided by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of title 5\], for grade GS–18: <i>Provided</i>, That any employee of any agency of any branch of the Government, or an employee of a committee of either House of Congress, a joint committee of the Congress, or an individual Member of Congress, may be detailed to such staffs on a reimbursable basis with the consent of the head of the agency, or in the case of an employee in a position in the legislative branch, with the consent of the supervising Member of Congress; and while so detailed such employee shall be responsible only to the President-elect or Vice-President-elect for the performance of his duties: <i>Provided further</i>, That any employee so detailed shall continue to receive the compensation provided pursuant to law for his regular employment, and shall retain the rights and privileges of such employment without interruption. Notwithstanding any other law, persons receiving compensation as members of office staffs under this subsection, other than those detailed from agencies, shall not be held or considered to be employees of the Federal Government except for purposes of the Civil Service Retirement Act \[section 8301 et seq. of title 5\], the Federal Employees' Compensation Act \[section 8501 et seq. of title 5\], the Federal Employees' Group Life Insurance Act of 1954 \[section 8701 et seq. of title 5\], and the Federal Employees Health Benefits Act of 1959 \[section 8901 et seq. of title 5\].
 
 &emsp;"(3) Payment of expenses for the procurement of services of experts or consultants or organizations thereof for the President-elect or Vice-President-elect, as authorized for the head of any department by section 15 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 55a) \[section 3109 of title 5\].
 
@@ -112,7 +116,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;"(iv) Activities under this paragraph may include training or orientation in human resources management and performance-based management.
 
-&emsp;"(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+&emsp;"(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of militaryforce. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
 &emsp;"(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President or Executive agencies (as defined in section 105 of title 5, United States Code).
 
@@ -122,15 +126,19 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;"(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected including, to the greatest extent practicable, human resource management system software compatible with the software used by the incumbent President and likely to be used by the President-elect and Vice President-elect.
 
-"(b) The Administrator may not expend funds for the provision of services and facilities under this section in connection with any obligations incurred by the President-elect or Vice-President-elect—
+"(b) The Administrator shall expend funds for the provision of services and facilities under this section—
 
-&emsp;"(1) before the day following the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code; or
+&emsp;"(1) in connection with any obligation incurred by the President-elect or Vice-President-elect, or after the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President incurred by the President or Vice President, during the period—
 
-&emsp;"(2) after 180 days after the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
+&emsp;&emsp;"(A) beginning on the day after the date of the general elections held to determine the electors of the President and Vice President under section 1 or 2 of title 3, United States Code; and
+
+&emsp;&emsp;"(B) ending on the date that is 60 days after the date of such inauguration; and
+
+&emsp;"(2) without regard to whether the President-elect, Vice-President-elect, President, or Vice President submits to the Administrator a request for payment regarding services or facilities before the end of such period.
 
 "(c) The terms 'President-elect' and 'Vice-President-elect' as used in this Act shall mean such persons as are the apparent successful candidates for the office of President and Vice President, respectively, as ascertained by the Administrator following the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
 
-"(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 \[now section 3202 of title 39\]. Each Vice-President-elect shall be entitled to conveyance within the United States andits territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
+"(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 \[now section 3202 of title 39\]. Each Vice-President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
 
 "(e) Each President-elect and Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) for President or Vice-President, may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
 
@@ -158,13 +166,13 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 "(ii) The Administrator shall promptly make the report under clause (i) generally available to the public (including through electronic means) and shall include such report with the notice provided to each eligible candidate under subparagraph (A)(i).
 
-"(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
+"(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph arethe services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
 
 "(B) The Administrator—
 
 &emsp;"(i) shall determine the location of any office space provided to an eligible candidate under this subsection;
 
-&emsp;"(ii) shall, as appropriate, ensure that any computers or communications services provided to an eligible candidate under this subsection are secure;
+&emsp;"(ii) shall, as appropriate, ensure that any information technology or communications services provided to an eligible candidate under this subsection are secure;
 
 &emsp;"(iii) shall offer information and other assistance to eligible candidates on an equal basis and without regard to political affiliation; and
 
@@ -184,7 +192,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 "(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act (2 U.S.C. 431(9)) \[now 52 U.S.C. 30101(9)\]) or qualified campaign expenses (within the meaning of section 9002(11) of such Code \[26 U.S.C. 9002(11)\]), whichever is applicable.
 
-"(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph\(2)) comply with all requirements and limitations of section 6 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 6.
+"(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 6 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 6.
 
 "(4)(A) In this subsection, the term 'eligible candidate' means, with respect to any presidential election (as defined in section 9002(10) of the Internal Revenue Code of 1986 \[26 U.S.C. 9002(10)\])—
 
@@ -204,6 +212,50 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;"(ii) consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
 
+"(i)
+
+Memorandums of Understanding.—
+
+&emsp;"(1)
+
+In general.—Not later than September 1 of a year during which a Presidential election occurs, the Administrator shall, to the maximum extent practicable, enter into a memorandum of understanding with each eligible candidate, which shall include, at a minimum, the conditions for the administrative support services and facilities described in subsection (a).
+
+&emsp;"(2)
+
+Existing resources.—To the maximum extent practicable, a memorandum of understanding entered into under paragraph (1) shall be based on memorandums of understanding relating to previous Presidential transitions.
+
+&emsp;"(3)
+
+Transition representative.—
+
+&emsp;&emsp;"(A)
+
+Designation of representative for inquiries.—Each memorandum of understanding entered into under this subsection shall designate a representative of the eligible candidate to whom the Administrator shall direct any inquiries or legal instruments regarding the records of the eligible candidate that are in the custody of the Administrator.
+
+&emsp;&emsp;"(B)
+
+Change in transition representative.—The designation of a new individual as the transition representative of an eligible candidate shall not require the execution of a new memorandum of understanding under this subsection.
+
+&emsp;&emsp;"(C)
+
+Termination of designation.—The designation of a transition representative under a memorandum of understanding shall terminate—
+
+&emsp;&emsp;&emsp;"(i) not later than September 30 of the year during which the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President occurs; or
+
+&emsp;&emsp;&emsp;"(ii) before the date described in clause (i), upon request of the President-elect or the Vice-President-elect or, after such inauguration, upon request of the President or the Vice President.
+
+&emsp;"(4)
+
+Amendments.—Any amendment to a memorandum of understanding entered into under this subsection shall be agreed to in writing.
+
+&emsp;"(5)
+
+Prior notification of deviation.—Each party to a memorandum of understanding entered into under this subsection shall provide written notice, except to the extent prohibited under another provision of law, not later than 3 days before taking any action that deviates from the terms and conditions agreed to in the memorandum of understanding.
+
+&emsp;"(6)
+
+Definition.—In this subsection, the term 'eligible candidate' has the meaning given that term in subsection (h)(4).
+
 #### "SEC. 4. TRANSITION SERVICES AND ACTIVITIES BEFORE ELECTION.
 
 "(a)
@@ -214,9 +266,19 @@ Definitions.—In this section—
 
 &emsp;"(2) the term 'agency' means an Executive agency, as defined in section 105 of title 5, United States Code;
 
-&emsp;"(3) the term 'eligible candidate' has the meaning given that term in section 3(h)(4); and
+&emsp;"(3) the term 'eligible candidate' has the meaning given that term in section 3(h)(4);
 
-&emsp;"(4) the term 'Presidential election' means a general election held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+&emsp;"(4) the term 'nonpublic information'—
+
+&emsp;&emsp;"(A) means information from the Federal Government that a member of a transition team obtains as part of the employment of the member that such member knows or reasonably should know has not been made available to the general public; and
+
+&emsp;&emsp;"(B) includes information that a member of the transition team knows or reasonably should know—
+
+&emsp;&emsp;&emsp;"(i) is exempt from disclosure under section 552 of title 5, United States Code, or otherwise protected from disclosure by law; and
+
+&emsp;&emsp;&emsp;"(ii) is not authorized by the appropriate government agency or officials to be released to the public; and
+
+&emsp;"(5) the term 'Presidential election' means a general election held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
 "(b)
 
@@ -298,7 +360,7 @@ Duties.—As part of carrying out the responsibilities under paragraph (1), the 
 
 &emsp;&emsp;"(D) ensure agencies adequately prepare career employees who are designated to fill non-career positions under subsection (f) during a Presidential transition; and
 
-&emsp;&emsp;"(E) consult with the President's Management Council, or any successor thereto, in carrying outthe duties of the agency transition directors council.
+&emsp;&emsp;"(E) consult with the President's Management Council, or any successor thereto, in carrying out the duties of the agency transition directors council.
 
 &emsp;"(3)
 
@@ -308,9 +370,9 @@ Membership.—The members of the agency transition directors council shall inclu
 
 &emsp;&emsp;"(B) other senior employees serving in the Executive Office of the President, as determined by the President;
 
-&emsp;&emsp;"(C) a senior representative from each agency described in section 901(b)(1) of title 31, United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
+&emsp;&emsp;"(C) a senior representative serving in a career position from each agency described in section 901(b)(1) of title 31, United States Code, the Office of Personnel Management, the Office of Government Ethics, and the National Archives and Records Administration whose responsibilities include leading Presidential transition efforts within the agency;
 
-&emsp;&emsp;"(D) a senior representative from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
+&emsp;&emsp;"(D) a senior representative serving in a career position from any other agency determined by the Co-Chairpersons to be an agency that has significant responsibilities relating to the Presidential transition process; and
 
 &emsp;&emsp;"(E) during a year during which a Presidential election will be held, a transition representative for each eligible candidate, who shall serve in an advisory capacity.
 
@@ -332,7 +394,7 @@ Oversight and implementation of transition.—Not later than 6 months before the
 
 &emsp;"(2)
 
-Acting officers.—Not later than September 15 of a year during which a Presidential election occurs, and in accordance with subchapter III of chapter 33 of title 5, United States Code, for each noncareer position in an agency that the head of the agency determines is critical, the head of the agency shall designate a qualified career employee to serve in the position in an acting capacity if the position becomes vacant.
+Acting officers.—Not later than September 15 of a year during which a Presidential election occurs, and in accordance with subchapter III of chapter 33 of title 5, United States Code, the head of each agency shall ensure that a succession plan is in place for each senior noncareer position in the agency.
 
 "(g)
 
@@ -340,11 +402,57 @@ Memorandums of Understanding.—
 
 &emsp;"(1)
 
-In general.—Not later than November 1 of a year during which a Presidential election occurs, the President (acting through the Federal Transition Coordinator) shall, to the maximum extent practicable, negotiate a memorandum of understanding with the transition representative of each eligible candidate, which shall include, at a minimum, the conditions of access to employees, facilities, and documents of agencies by transition staff.
+In general.—Not later than October 1 of a year during which a Presidential election occurs, the President (acting through the Federal Transition Coordinator) shall, to the maximum extent practicable, negotiate a memorandum of understanding with the transition representative of each eligible candidate, which shall include, at a minimum, the conditions of access to employees, facilities, and documents of agencies by transition staff.
 
 &emsp;"(2)
 
 Existing resources.—To the maximum extent practicable, the memorandums of understanding negotiated under paragraph (1) shall be based on memorandums of understanding from previous Presidential transitions.
+
+&emsp;"(3)
+
+Ethics plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each memorandum of understanding under paragraph (1) shall include an agreement that the eligible candidate will implement and enforce an ethics plan to guide the conduct of the transition beginning on the date on which the eligible candidate becomes the President-elect.
+
+&emsp;&emsp;"(B)
+
+Contents.—The ethics plan shall include, at a minimum—
+
+&emsp;&emsp;&emsp;"(i) a description of the ethics requirements that will apply to all members of the transition team, including any specific requirement for transition team members who will have access to nonpublic or classified information;
+
+&emsp;&emsp;&emsp;"(ii) a description of how the transition team will—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) address the role on the transition team of—
+
+&emsp;&emsp;&emsp;"(aa) lobbyists registered under the Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) and individuals who were former lobbyists registered under that Act; and
+
+&emsp;&emsp;&emsp;"(bb) persons registered under the Foreign Agents Registration Act of 1938 (22 U.S.C. 611 et seq.), foreign nationals, and other foreign agents;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) prohibit a transition team member with conflicts of interest similar to those applicable to Federal employees under section 2635.402(a) and section 2635.502(a) of title 5, Code of Federal Regulations, related to current or former employment, affiliations, clients, or investments, from working on particular matters involving specific parties that affect the interests of such member; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) address how the covered eligible candidate will address his or her own conflicts of interest during a Presidential term if the covered eligible candidate becomes the President-elect;
+
+&emsp;&emsp;&emsp;"(iii) a Code of Ethical Conduct, which each member of the transition team will sign and be subject to, that reflects the content of the ethics plans under this paragraph and at a minimum requires transition team members to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) seek authorization from transition team leaders or their designees before seeking, on behalf of the transition, access to any nonpublic information;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) keep confidential any nonpublic information provided in the course of the duties of the member with the transition and exclusively use such information for the purposes of the transition; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) not use any nonpublic information provided in the course of transition duties, in any manner, for personal or private gain for the member or any other party at any time during or after the transition; and
+
+&emsp;&emsp;&emsp;"(iv) a description of how the transition team will enforce the Code of Ethical Conduct, including the names of the members of the transition team responsible for enforcement, oversight, and compliance.
+
+&emsp;&emsp;"(C)
+
+Publicly available.—The transition team shall make the ethics plan described in this paragraph publicly available on the internet website of the General Services
+
+&nbsp;&nbsp;"Administration the earlier of—
+
+&emsp;&emsp;"(i) the day on which the memorandum of understanding is completed; or
+
+&emsp;&emsp;"(ii) October 1.
 
 "(h)
 
@@ -372,7 +480,7 @@ Sec. 5. The Administrator is authorized to provide, upon request, to each former
 
 "
 
-Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services undersection 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
 
 "(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
 
@@ -390,7 +498,7 @@ Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for 
 
 "(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
 
-"(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 andfor funds provided under section 7(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+"(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
 
 #### "authorization of appropriations
 

@@ -14,7 +14,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II; and
 
-&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program;
+&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be plantedfor 4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program;
 
 &emsp;(2) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
@@ -110,7 +110,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 &emsp;&emsp;For purposes of applying the limitations in paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) the Secretary shall enroll and maintain in the conservation reserve not fewerthan 2,000,000 acres of the land described in subsection (b)(3) by September 30, 2023; and
+&emsp;&emsp;&emsp;(i) the Secretary shall enroll and maintain in the conservation reserve not fewer than 2,000,000 acres of the land described in subsection (b)(3) by September 30, 2023; and
 
 &emsp;&emsp;&emsp;(ii) in carrying out clause (i), to the maximum extent practicable, the Secretary shall maintain in the conservation reserve at any one time during—
 
@@ -304,7 +304,7 @@ In determining the acceptability of contract offers under this subpart, the Secr
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28,1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d)(2)(B)(iii)(I), (II), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 
@@ -406,7 +406,7 @@ Subsec. (f)(1). Pub. L. 110–246, §2104, substituted "the Chesapeake Bay Regio
 
 Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities."
 
-Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
+Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreagein conservation reserve during 2002 through 2007 calendar years.
 
 Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 

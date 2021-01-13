@@ -42,7 +42,7 @@ Actions if Program Not Terminated.—(1) If the Secretary elects not to terminat
 
 &emsp;(B) rescind the most recent Milestone approval for the program and withdraw any associated certification under section 2366a or 2366b of this title;
 
-&emsp;(C) require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend the scope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
+&emsp;(C) require a new Milestone approval for the program before taking any contract action to enter a new contract, exercise an option under an existing contract, or otherwise extend thescope of an existing contract under the program, except to the extent determined necessary by the Milestone Decision Authority, on a non-delegable basis, to ensure that the program can be restructured as intended by the Secretary without unnecessarily wasting resources;
 
 &emsp;(D) include in the report specified in paragraph (2) a description of all funding changes made as a result of the growth in cost of the program, including reductions made in funding for other programs to accommodate such cost growth; and
 
@@ -90,13 +90,35 @@ Actions if Program Terminated.—If a major defense acquisition program is termi
 
 &emsp;(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503; Pub. L. 112–239, div. A, title VIII, §813, Jan. 2, 2013, 126 Stat. 1829.)
+(Added Pub. L. 111–23, title II, §206(a)(1), May 22, 2009, 123 Stat. 1726; amended Pub. L. 111–383, div. A, title X, §1075(b)(35), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title VIII, §§801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503; Pub. L. 112–239, div. A, title VIII, §813, Jan. 2, 2013, 126 Stat. 1829; Pub. L. 116–283, div. A, title XVIII, §1850(j)(1), (2), (k)(1), Jan. 1, 2021, 134 Stat. 4269, 4270.)
+
+#### Amendment of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1850(j)(1), (2), (k)(1), Jan. 1, 2021, 134 Stat. 4151, 4269, 4270, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+
+<i>(1) by transferring subsections (a) and (b) to section 4376(a) and (b), respectively, of this title;</i>
+
+<i>(2) by transferring subsection (c) to section 4377(a) of this title; and</i>
+
+<i>(3) by transferring subsection (d) to section 4376(c) of this title.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### Repeal of Section
+
+<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1850(l), Jan. 1, 2021, 134 Stat. 4151, 4271, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is repealed.</i>
 
 #### References in Text
 
 Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (c)(1)(E), is section 205 of Pub. L. 111–23, which amended section 2366b of this title and enacted provisions set out as notes under this section and section 2366b of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283, §1850(j)(1), transferred subsecs. (a) and (b) to section 4376(a) and (b), respectively, of this title.
+
+Subsec. (c). Pub. L. 116–283, §1850(k)(1), transferred subsec. (c) to section 4377(a) of this title.
+
+Subsec. (d). Pub. L. 116–283, §1850(j)(2), transferred subsec. (d) to section 4376(c) of this title.
 
 <b>2013</b>—Subsec. (c)(3)(A). Pub. L. 112–239 substituted "subparagraphs (B), (C), and (E)" for "subparagraphs (B) and (C)" in introductory provisions.
 
@@ -105,6 +127,14 @@ Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in
 Subsec. (c)(1)(B), (C). Pub. L. 112–81, §801(e)(4), struck out ", or Key Decision Point approval in the case of a space program," after "Milestone approval".
 
 Subsec. (c)(3). Pub. L. 112–81, §831, added par. (3).
+
+#### Effective Date of Repeal
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Reviews of Programs Restructured After Experiencing Critical Cost Growth
 

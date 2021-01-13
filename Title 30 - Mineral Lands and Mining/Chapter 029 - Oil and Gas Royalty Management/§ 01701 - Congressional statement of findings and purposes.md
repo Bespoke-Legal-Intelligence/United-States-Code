@@ -24,6 +24,8 @@
 
 (Pub. L. 97–451, §2, Jan. 12, 1983, 96 Stat. 2448.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–185, §11, Aug. 13, 1996, 110 Stat. 1717, provided that: "Except as provided by section 115(h) \[30 U.S.C. 1724(h)\], section 111(h) \[30 U.S.C. 1721(h)\], section 111(k)(5) \[30 U.S.C. 1721(k)(5)\], and section 117 \[30 U.S.C. 1726\] of the Federal Oil and Gas Royalty Management Act of 1982 (as added by this Act), this Act \[see Short Title of 1996 Amendment note below\], and the amendments made by this Act, shall apply with respect to the production of oil and gas after the first day of the month following the date of the enactment of this Act \[Aug. 13, 1996\]."
@@ -42,7 +44,7 @@ Pub. L. 97–451, §1, Jan. 12, 1983, 96 Stat. 2447, provided that: "This Act \[
 
 #### Applicability of 1996 Amendment
 
-Pub. L. 104–185, §9, Aug. 13, 1996, 110 Stat. 1717, provided that: "The amendments made by this Act \[see Short Title of 1996 Amendment note above\] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of1982 \[30 U.S.C. 1701 et seq.\] as in effect on the day before the date of enactment of this Act \[Aug. 13, 1996\] shall continue to apply after such date with respect to Indian lands."
+Pub. L. 104–185, §9, Aug. 13, 1996, 110 Stat. 1717, provided that: "The amendments made by this Act \[see Short Title of 1996 Amendment note above\] shall not apply with respect to Indian lands, and the provisions of the Federal Oil and Gas Royalty Management Act of 1982 \[30 U.S.C. 1701 et seq.\] as in effect on the day before the date of enactment of this Act \[Aug. 13, 1996\] shall continue to apply after such date with respect to Indian lands."
 
 Pub. L. 104–185, §10, Aug. 13, 1996, 110 Stat. 1717, provided that: "This Act \[see Short Title of 1996 Amendment note above\] shall not apply to any privately owned minerals."
 

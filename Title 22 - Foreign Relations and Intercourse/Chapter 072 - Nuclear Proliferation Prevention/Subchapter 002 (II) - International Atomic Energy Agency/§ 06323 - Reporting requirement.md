@@ -12,7 +12,7 @@ The President shall, in the report required by section 3281(a) of this title, de
 
 Each report under paragraph (1) <sup>1</sup> shall describe—
 
-&emsp;(1) the bilateral and multilateral initiatives that the President has taken during the period since April 30, 1994, in pursuit of each of the objectives set forth in sections 6321 and 6322 of this title;
+&emsp;(1) the bilateral and multilateral initiatives that the President has taken during the periodsince April 30, 1994, in pursuit of each of the objectives set forth in sections 6321 and 6322 of this title;
 
 &emsp;(2) any obstacles that have been encountered in the pursuit of those initiatives;
 

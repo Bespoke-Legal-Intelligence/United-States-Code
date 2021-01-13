@@ -2,11 +2,13 @@
 
 Every Federal Reserve bank shall have power:
 
-(1) To buy and sell, at home or abroad, bonds and notes of the United States, bonds issued under the provisions of subsection (c) of section 1463 <sup>1</sup> of this title and having maturities from date of purchase of not exceeding six months, and bills, notes, revenue bonds, and warrants with a maturity from date of purchase of not exceeding six months, issued in anticipation of the collection of taxes or in anticipation of the receipt of assured revenues by any State, county, district, political subdivision, or municipality in the continental United States, including irrigation, drainage and reclamation districts, and obligations of, or fully guaranteed as to principal and interest by, a foreign government or agency thereof, such purchases to be made in accordance with rules and regulations prescribed by the Board of Governors of the Federal ReserveSystem. Notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
+(1) To buy and sell, at home or abroad, bonds and notes of the United States, bonds issued under the provisions of subsection (c) of section 1463 <sup>1</sup> of this title and having maturities from date of purchase of not exceeding six months, and bills, notes, revenue bonds, and warrants with a maturity from date of purchase of not exceeding six months, issued in anticipation of the collection of taxes or in anticipation of the receipt of assured revenues by any State, county, district, political subdivision, or municipality inthe continental United States, including irrigation, drainage and reclamation districts, and obligations of, or fully guaranteed as to principal and interest by, a foreign government or agency thereof, such purchases to be made in accordance with rules and regulations prescribed by the Board of Governors of the Federal Reserve System. Notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
 (2) To buy and sell in the open market, under the direction and regulations of the Federal Open Market Committee, any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States.
 
 (Dec. 23, 1913, ch. 6, §14(b), 38 Stat. 264; Jan. 31, 1934, ch. 7, §16(b), 48 Stat. 348; Apr. 27, 1934, ch. 168, §7(b), 48 Stat. 646; Aug. 23, 1935, ch. 614, title II, §§203(a), 206(a), 49 Stat. 704, 706; Mar. 27, 1942, ch. 199, title IV, §401, 56 Stat. 180; Apr. 28, 1947, ch. 44, 61 Stat. 56; June 30, 1950, ch. 425, 64 Stat. 307; June 23, 1952, ch. 454, 66 Stat. 154; June 29, 1954, ch. 422, 68 Stat. 329; June 25, 1956, ch. 447, 70 Stat. 339; Pub. L. 85–476, June 30, 1958, 72 Stat. 261; Pub. L. 86–567, July 1, 1960, 74 Stat. 295; Pub. L. 87–353, §3(d), Oct. 4, 1961, 75 Stat. 773; Pub. L. 87–506, June 28, 1962, 76 Stat. 112; Pub. L. 88–344, June 30, 1964, 78 Stat. 235; Pub. L. 89–484, June 30, 1966, 80 Stat. 235; Pub. L. 89–597, §6, Sept. 21, 1966, 80 Stat. 825; Pub. L. 90–300, May 4, 1968, 82 Stat. 113; Pub. L. 91–360, July 31, 1970, 84 Stat. 668; Pub. L. 92–45, July 2, 1971, 85 Stat. 100; Pub. L. 93–93, Aug. 14, 1973, 87 Stat. 314; Pub. L. 93–495, title I, §109, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–125, Nov. 12, 1975, 89 Stat. 678; Pub. L. 95–22, title II, §201, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–128, title II, §209, Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–154, Nov. 7, 1977, 91 Stat. 1256; Pub. L. 95–534, Oct. 27, 1978, 92 Stat. 2032; Pub. L. 96–18, §§1, 3, June 8, 1979, 93 Stat. 35, 36; Pub. L. 96–221, title I, §105(b)(2), Mar. 31, 1980, 94 Stat. 140.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,7 +74,7 @@ Pub. L. 89–484 substituted "July 1, 1968" for "July 1, 1966" and "June 30, 196
 
 <b>1950</b>—Act June 30, 1950, substituted "July 1, 1952" for "July 1, 1950" and "June 30, 1952" for "June 30, 1950".
 
-<b>1947</b>—Act Apr. 28, 1947, substituted proviso which allows the Federal Reserve banks to buy and sell either in the open market or directly from or to the United States any bonds, notes, or other obligations which are direct obligations of the United States or are fully guaranteed by the United States but limits the aggregate amount to be held at any one time to $5,000,000,000, and after June 30, 1950 allows such obligation to be purchased, but only in the open market for former proviso.
+<b>1947</b>—Act Apr. 28, 1947, substituted proviso which allows the Federal Reserve banks to buy and sell eitherin the open market or directly from or to the United States any bonds, notes, or other obligations which are direct obligations of the United States or are fully guaranteed by the United States but limits the aggregate amount to be held at any one time to $5,000,000,000, and after June 30, 1950 allows such obligation to be purchased, but only in the open market for former proviso.
 
 <b>1942</b>—Act Mar. 27, 1942, amended proviso generally.
 
@@ -81,6 +83,8 @@ Pub. L. 89–484 substituted "July 1, 1968" for "July 1, 1966" and "June 30, 196
 <b>1934</b>—Act Apr. 27, 1934, authorized purchase and sale of bonds issued under subsec. (c) of \[former\] section 1463 of this title.
 
 Act Jan. 31, 1934, authorized purchase and sale of bonds of Federal Farm Mortgage Corporation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
